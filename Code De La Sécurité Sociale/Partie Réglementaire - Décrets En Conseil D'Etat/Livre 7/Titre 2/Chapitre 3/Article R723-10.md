@@ -1,7 +1,7 @@
 Article R723-10
 ----
-Le conseil d'administration se réunit au moins une fois tous les six mois ; il
-est en outre convoqué chaque fois qu'il est nécessaire par son président, soit
-sur l'initiative de celui-ci, soit sur la demande du garde des sceaux, ministre
-de la justice, ou du ministre chargé de la sécurité sociale, soit sur la demande
-du quart au moins des membres du conseil.
+Le conseil d'administration ne peut valablement délibérer que si le tiers au
+moins des membres en exercice assiste à la séance. Les décisions sont prises à
+la majorité des voix des membres présents.
+
+En cas de partage des voix, la voix du président est prépondérante.

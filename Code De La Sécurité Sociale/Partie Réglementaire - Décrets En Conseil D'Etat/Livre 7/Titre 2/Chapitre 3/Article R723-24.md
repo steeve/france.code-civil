@@ -1,19 +1,14 @@
 Article R723-24
 ----
-Il est ouvert dans la comptabilité de la caisse nationale des barreaux français
-deux comptes distincts concernant le premier les pensions et allocations de
-vieillesse, le second les prestations prévues au titre de la prévoyance
-professionnelle.
+Aucune cotisation n'est due pour les périodes pendant lesquelles l'avocat
+salarié établit sa qualité de bénéficiaire :
 
-Le premier de ces comptes reçoit, outre l'intégralité du produit des droits de
-plaidoirie, le montant des cotisations personnelles prévues à l'article L. 723-5
-et fixées par l'assemblée générale sur proposition du conseil d'administration.
+1° D'un revenu de remplacement versé en application de l'article L. 351-2 du
+code du travail ;
 
-Le deuxième compte est alimenté par les cotisations spéciales mentionnées à
-l'article L. 723-6 et fixées dans les mêmes conditions.
+2° De prestations en espèces de l'assurance maladie, de l'assurance maternité ou
+de l'assurance invalidité lorsqu'il ne peut prétendre au maintien intégral de
+son salaire en application soit de dispositions législatives ou réglementaires,
+soit de stipulations conventionnelles.
 
-Les cotisations prévues aux deuxième et troisième alinéas ci-dessus sont
-recouvrées en même temps et selon les mêmes règles par la caisse.
-
-Les frais généraux relatifs au fonctionnement des deux comptes sont supportés
-par le régime des retraites.
+Ces périodes sont comptées de date à date.

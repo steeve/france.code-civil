@@ -1,10 +1,7 @@
 Article R723-9
 ----
-Les fonctions d'administrateur sont gratuites [*absence de rémunération*] ;
-elles donnent droit, s'il y a lieu, au remboursement des frais de déplacement
-dans les conditions fixées par arrêté du garde des sceaux, ministre de la
-justice.
-
-Sont déclarés démissionnaires d'office, par le conseil d'administration, les
-administrateurs qui, sans excuse valable, n'ont pas assisté à trois séances
-successives du conseil d'administration.
+Le conseil d'administration se réunit au moins une fois par trimestre ; il est
+en outre convoqué chaque fois qu'il est nécessaire par son président, soit sur
+l'initiative de celui-ci, soit sur la demande du ministre de la justice ou du
+ministre chargé de la sécurité sociale, soit sur la demande du quart au moins
+des membres du conseil.

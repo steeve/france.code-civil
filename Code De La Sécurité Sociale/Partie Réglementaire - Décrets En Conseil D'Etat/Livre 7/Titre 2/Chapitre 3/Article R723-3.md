@@ -5,11 +5,10 @@ trente-huit membres suppléants.
 
 Pour chaque groupe, les membres sont désignés ainsi qu'il suit :
 
-1°) un parmi les avocats au Conseil d'Etat et à la Cour de cassation ;
+1° Un parmi les avocats au Conseil d'Etat et à la Cour de cassation ;
 
-2°) douze parmi les avocats au barreau de Paris ;
+2° Douze parmi les avocats au barreau de Paris ;
 
-3°) vingt et un parmi les avocats des autres barreaux ;
+3° Vingt et un parmi les avocats des autres barreaux ;
 
-4°) quatre parmi les bénéficiaires d'une pension de retraite entière ou
-proportionnelle ou d'une pension d'invalidité.
+4° Quatre parmi les bénéficiaires d'une pension de retraite ou d'invalidité.

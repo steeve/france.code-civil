@@ -1,6 +1,5 @@
 Article R723-58
 ----
-L'allocation [*de vieillesse*] prévue à l'article R. 723-56 est accordée, sur
-leur demande, dans les conditions prévues à l'article R. 723-33, aux anciens
-prisonniers de guerre à un âge compris entre soixante et soixante-cinq ans
-[*bénéficiaires*].
+Les dispositions des sous-sections 2, 3 et 4 de la présente section ne
+s'appliquent pas si le décès ou l'invalidité trouvent leur origine dans des
+faits de guerre.

@@ -1,11 +1,10 @@
 Article R723-14
 ----
-Un directeur est nommé par le conseil d'administration et agréé par le garde des
-sceaux, ministre de la justice, et par le ministre chargé de la sécurité sociale
-[*mode de désignation*].
+Un directeur est nommé par le conseil d'administration et agréé par le ministre
+de la justice et le ministre chargé de la sécurité sociale.
 
 Un agent comptable est nommé par le conseil d'administration et agréé par le
-ministre chargé du budget et par le ministre chargé de la sécurité sociale.
+ministre chargé de la sécurité sociale.
 
 Ni le directeur, ni l'agent comptable ne peuvent être choisis parmi les membres
 du conseil d'administration.

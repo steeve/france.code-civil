@@ -24,9 +24,10 @@ aura été intégralement remplie.
 
 Les délais prévus au présent article sont des délais francs. Lorsque le premier
 jour d'un de ces délais est un jour férié ou un samedi, le délai ne court qu'à
-compter du premier jour ouvrable qui suit le jour férié ou le samedi . Ces
-délais sont respectivement portés à un mois et à deux mois en ce qui concerne
-les divers budgets que les caisses sont tenues d'établir.
+compter du premier jour ouvrable qui suit le jour férié ou le samedi. Ces délais
+sont respectivement portés à un mois et à deux mois en ce qui concerne les
+divers budgets que les caisses sont tenues d'établir.
 
-Les dispositions des articles R. 151-4 et R. 151-5 sont applicables aux
-organismes du régime d'assurance vieillesse des professions libérales.
+Les dispositions des articles R. 151-4 et R. 151-5 sont applicables à la Caisse
+nationale d'assurance vieillesse des professions libérales et à la Caisse
+nationale des barreaux français.

@@ -1,6 +1,5 @@
 Article R723-22
 ----
-Les dispositions des articles R. 623-2 à R. 623-10-4 du présent code relatives à
-l'organisation financière des régimes d'assurance vieillesse des travailleurs
-non salariés non agricoles sont applicables à l'organisation financière du
-régime des avocats, géré par la Caisse nationale des barreaux français.
+Aucune cotisation n'est due par l'avocat exerçant à titre libéral et
+bénéficiaire de la pension pour invalidité permanente prévue à l'article R.
+723-56.

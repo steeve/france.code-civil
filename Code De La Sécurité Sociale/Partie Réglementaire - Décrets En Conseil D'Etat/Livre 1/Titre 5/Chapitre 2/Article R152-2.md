@@ -14,4 +14,4 @@ fait l'objet d'une délibération du conseil d'administration en application du
 deuxième alinéa de l'article 3 du décret n° 85-192 du 11 février 1985.
 
 Les délais fixés par l'article R. 152-3 ne courent qu'à dater du jour où ces
-formalités ont été intégralement remplies .
+formalités ont été intégralement remplies.

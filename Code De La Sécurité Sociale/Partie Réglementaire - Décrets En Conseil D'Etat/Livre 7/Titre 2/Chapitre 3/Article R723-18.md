@@ -1,12 +1,9 @@
 Article R723-18
 ----
-Les cotisations sont portables. Elles doivent être payées chaque année à la date
-fixée par les statuts. En cas de silence de ceux-ci, elles doivent être payées
-le 30 avril au plus tard.
-
-Les cotisations arriérées donnent lieu, sans qu'il soit besoin de mise en
-demeure, à une majoration de 10 p. 100. Cette majoration est augmentée de 3 p.
-100 des cotisations dues par trimestre ou fraction de trimestre écoulé après
-l'expiration d'un délai de trois mois à compter de la date d'échéance des
-cotisations. Elle peut être réduite dans les conditions prévues à l'article R.
-723-20.
+La cotisation prévue au premier alinéa de l'article L. 723-5 est due par tous
+les avocats affiliés à la Caisse nationale des barreaux français. Son montant
+est fixé, chaque année, sur proposition du conseil d'administration de la
+caisse, par l'assemblée générale prévue à l'article R. 723-2, statuant à la
+majorité simple des membres présents ou représentés. Dans le cas où cette
+majorité n'est pas réunie, la cotisation est de plein droit égale à celle de
+l'année précédente.

@@ -1,5 +1,10 @@
 Article R723-34
 ----
-Les périodes de mobilisation ou de captivité qui sont assimilées à des périodes
-d'assurance en vertu de l'article L. 161-19 ne peuvent s'ajouter au temps
-d'inscription en application du premier alinéa de l'article R. 723-32.
+Les commissaires du Gouvernement, qui représentent le ministre chargé de la
+sécurité sociale, le ministre chargé du budget et le ministre de la justice,
+assistent aux séances du conseil d'administration de la Caisse nationale des
+barreaux français et sont entendus chaque fois qu'ils le demandent.
+
+La Caisse nationale des barreaux français fait en outre l'objet de vérifications
+de l'inspection générale des finances et du receveur général des finances de
+Paris.

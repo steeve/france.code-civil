@@ -1,13 +1,13 @@
 Article R723-20
 ----
-L'exonération du paiement des cotisations au profit des avocats dont, au cours
-d'un exercice annuel, l'état de maladie dûment constaté par un expert désigné
-par le bureau, aura été d'une durée supérieure à six mois, ainsi que
-l'exonération du paiement ou la réduction, soit des cotisations en cas
-d'insuffisance justifiée de ressources, soit des majorations de retard en cas de
-bonne foi dûment prouvée, peuvent être prononcées par une commission spéciale de
-trois membres désignés par le conseil d'administration dans son sein. Cette
-commission statue discrétionnairement.
+Pour les avocats non salariés, en cas d'inscription au tableau ou sur la liste
+du stage en cours d'année civile, les cotisations sont calculées au prorata du
+nombre de jours de l'année civile à compter du premier jour du trimestre civil
+suivant celui de la date d'inscription.
 
-Les auditeurs de justice admis au stage sont exonérés de plein droit du paiement
-des cotisations.
+En cas de cessation d'inscription au tableau ou sur la liste du stage en cours
+d'année civile, les cotisations sont calculées au prorata du nombre de jours de
+l'année civile jusqu'au dernier jour du trimestre civil au cours duquel est
+intervenue la fin de l'inscription. Si les cotisations ont été payées pour
+l'année entière, elles sont remboursées par la Caisse nationale des barreaux
+français au plus tard dans le mois suivant la demande de l'intéressé.

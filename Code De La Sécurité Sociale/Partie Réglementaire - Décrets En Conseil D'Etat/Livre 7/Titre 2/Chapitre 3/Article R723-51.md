@@ -1,17 +1,7 @@
 Article R723-51
 ----
-Le service de l'allocation peut être prolongé par décision du conseil
-d'administration lorsque l'orphelin est atteint d'une incapacité médicalement
-constatée au moins égale à 50 p. 100 :
-
-1°) jusqu'à l'âge de vingt-cinq ans sans condition de ressources ;
-
-2°) au-delà de vingt-cinq ans après examen de la situation de l'intéressé, de
-ses ressources et notamment des prestations auxquelles il peut prétendre au
-titre d'un autre régime de protection sociale.
-
-La caisse peut faire procéder, à tout moment, à un examen médical destiné à
-contrôler le taux d'incapacité de l'intéressé. Le service des allocations
-mentionnées au présent article est supprimé si, à la suite de l'examen prescrit
-par la caisse, il est constaté que le taux d'incapacité est devenu inférieur à
-50 p. 100.
+Lorsque, au décès d'un avocat, il n'existe aucune des personnes mentionnées à
+l'article R. 723-50, la Caisse nationale des barreaux français peut rembourser à
+toute personne en ayant assumé la charge, dans la limite du quart du capital
+prévu à l'article R. 723-48, les frais d'obsèques et de dernière maladie sur
+présentation des justificatifs attestant des frais effectivement engagés.

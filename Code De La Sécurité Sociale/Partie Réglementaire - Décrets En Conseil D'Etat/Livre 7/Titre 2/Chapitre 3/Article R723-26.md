@@ -1,8 +1,6 @@
 Article R723-26
 ----
-Les comptes financiers et le bilan annuel sont soumis, dans les trois mois de la
-clôture de l'exercice, à l'examen du ministre chargé de la sécurité sociale
-[*délai, autorité compétente*].
-
-Un exemplaire en est adressé au garde des sceaux, ministre de la justice, et au
-receveur général des finances de Paris.
+Le rôle des cotisations est établi par le conseil d'administration de la Caisse
+nationale des barreaux français. Il est transmis au premier président et au
+procureur général de chaque cour d'appel accompagné des requêtes aux fins de
+délivrance des titres exécutoires.

@@ -1,12 +1,17 @@
 Article R723-53
 ----
-Le montant de l'allocation temporaire est fixé par l'assemblée générale, sur
-proposition du conseil d'administration de la caisse.
+Le service de l'allocation peut être prolongé par décision du conseil
+d'administration lorsque l'orphelin est atteint d'une incapacité médicalement
+constatée au moins égale à 50 % :
 
-Les dispositions des articles L. 723-8 et R. 723-29 sont applicables à cette
-délibération.
+1° Jusqu'à l'âge de vingt-cinq ans sans condition de ressources ;
 
-L'allocation est calculée par jour d'invalidité.
+2° Au-delà de l'âge de vingt-cinq ans après examen de la situation de
+l'intéressé, de ses ressources et notamment des prestations auxquelles il peut
+prétendre au titre d'un autre régime de protection sociale.
 
-Les modalités de paiement, notamment la périodicité, sont fixées par les
-statuts.
+La Caisse nationale des barreaux français peut faire procéder, à tout moment, à
+un examen médical destiné à contrôler le taux d'incapacité de l'intéressé. Le
+service de l'allocation mentionnée au présent article est supprimé si, à la
+suite de l'examen prescrit par la caisse, il est constaté que le taux
+d'incapacité est devenu inférieur à 50 %.

@@ -1,10 +1,11 @@
 Article R723-38
 ----
-Les pensions sont calculées proportionnellement à la durée des services dans la
-métropole et dans les départements mentionnés à l'article L. 751-1.
+La réduction prévue au troisième alinéa du I de l'article L. 723-10-1 est
+fonction soit du nombre de trimestres correspondant à la durée séparant l'âge
+auquel la pension de retraite prend effet du soixante-cinquième anniversaire,
+soit du nombre de trimestres supplémentaires qui serait nécessaire, à la date
+d'effet de la pension de retraite, pour relever du deuxième alinéa du I de
+l'article L. 723-10-1. Le plus petit de ces nombres est pris en considération.
 
-Pour la computation des annuités de l'exercice professionnel lors de la
-liquidation de la pension de retraite, il n'est pas tenu compte des fractions de
-temps inférieures à six mois.
-
-Les fractions de temps égales ou supérieures à six mois comptent pour un an.
+Le coefficient de minoration est égal à 1,25 % par trimestre manquant dans la
+limite de vingt trimestres.

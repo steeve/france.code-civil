@@ -1,12 +1,17 @@
 Article R723-12
 ----
-Le conseil d'administration élit parmi ses membres un bureau comprenant un
-président, huit vice-présidents et un secrétaire. Les vice-présidents peuvent
-suppléer le président en cas d'empêchement.
+Sont déclarés démissionnaires d'office, par le conseil d'administration, les
+administrateurs titulaires ou suppléants qui, sans excuse valable, n'ont pas
+assisté à trois séances consécutives du conseil d'administration.
 
-Le président est élu pour deux années consécutives [*durée du mandat*]. La
-présidence appartient alternativement à un avocat au Conseil d'Etat et à la Cour
-de cassation ou à un avocat du barreau de Paris d'une part, à un avocat
-appartenant à un barreau des départements, d'autre part.
+Lorsqu'un administrateur cesse d'exercer l'activité professionnelle qu'il avait
+lors de son élection, les conditions dans lesquelles il conserve ou non son
+mandat sont fixées par les statuts de la Caisse nationale des barreaux français.
 
-Les autres membres du bureau sont élus pour un an.
+Tout administrateur titulaire qui cesse d'exercer son mandat avant l'expiration
+de celui-ci est remplacé par un suppléant. Les statuts de la Caisse nationale
+des barreaux français fixent les conditions dans lesquelles ce suppléant est
+désigné.
+
+L'administrateur suppléant appelé en remplacement d'un titulaire n'exerce la
+fonction que pour la durée restant à courir du mandat confié à son prédécesseur.

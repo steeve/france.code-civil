@@ -1,25 +1,16 @@
 Article R723-15
 ----
 Le directeur assure, sous le contrôle du conseil d'administration, le
-fonctionnement de la caisse . Il assiste, avec voix consultative, aux séances du
-conseil. Il a sous ses ordres le personnel de ladite caisse.
+fonctionnement de la caisse. Il assiste, avec voix consultative, aux séances du
+conseil.
 
-L'agent comptable est chargé, sous sa responsabilité et dans les conditions qui
-sont précisées par les statuts, de toutes les opérations de recettes et de
-dépenses et, plus généralement, de la gestion financière de la caisse.
+Le directeur a seul autorité sur le personnel. Il fixe l'organisation du travail
+dans les services et prend toutes mesures d'ordre individuel ou collectif
+relative aux conditions générales d'emploi du personnel.
 
-Avant d'entrer en fonctions, l'agent comptable est assujetti à un cautionnement
-dont le montant, fixé par le conseil d'administration, ne peut être inférieur au
-minimum de cautionnement auquel sont astreints les agents comptables des caisses
-de sécurité sociale. Ce cautionnement est réalisé en numéraire ou en rentes sur
-l'Etat. Il est déposé à la Caisse des dépôts et consignations dans les
-conditions déterminées pour les consignations administratives. Toutefois, il
-peut être remplacé avec l'autorisation du conseil d'administration, par
-l'affiliation de l'agent comptable à une association de cautionnement mutuel.
+Dans les limites fixées par le conseil d'administration, il engage les dépenses,
+constate les créances et les dettes, émet les ordres de recettes et de dépenses.
 
-Le conseil d'administration ne peut délivrer un certificat de quitus à l'agent
-comptable lors de la cessation de ses fonctions qu'après une vérification
-complète de sa gestion effectuée par un fonctionnaire dépendant soit du ministre
-chargé de la sécurité sociale, soit du ministre chargé du budget. Le certificat
-de quitus ne peut être délivré qu'à l'expiration d'un délai de trois mois à
-dater de la cessation des fonctions.
+Il peut, avec l'accord préalable du conseil d'administration, requérir qu'il
+soit passé outre au refus de visa ou de paiement éventuellement opposé par
+l'agent comptable.

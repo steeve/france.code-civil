@@ -1,12 +1,14 @@
 Article R723-50
 ----
-Chaque orphelin total et chaque orphelin d'un père ou d'une mère qui exerçait
-effectivement la profession d'avocat à la date du décès et qui assurait ainsi
-l'essentiel des ressources du ménage a droit jusqu'à l'âge de vingt et un ans à
-une allocation annuelle dont le montant est égal au quart de la pension de
-retraite entière, telle qu'elle est fixée par l'assemblée générale annuelle
-[*bénéficiaires*].
+Le capital décès est versé au conjoint survivant. A défaut de conjoint
+survivant, il est réparti entre les enfants du défunt :
 
-Lorsque l'orphelin poursuit ses études et même s'il est marié, le service de
-l'allocation peut être prolongé jusqu'à l'âge de vingt-cinq ans par décision du
-conseil d'administration.
+- âgés de moins de vingt et un ans ;
+
+- âgés de vingt et un à vingt-cinq ans et qui poursuivent des études ;
+
+- quel que soit leur âge, handicapés physiques ou mentaux.
+
+A défaut de conjoint survivant et d'enfants, le capital décès est versé au père,
+à la mère, au frère ou à la soeur qui étaient à la charge totale et effective du
+défunt.

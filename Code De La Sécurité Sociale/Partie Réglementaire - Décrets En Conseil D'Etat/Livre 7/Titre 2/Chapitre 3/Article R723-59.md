@@ -1,31 +1,23 @@
 Article R723-59
 ----
-Il est institué un fonds d'action sociale alimenté par les recettes suivantes :
+Les réclamations relatives aux prestations relevant de la présente section sont
+obligatoirement soumises à une commission de recours amiable composée de quatre
+administrateurs titulaires membres du conseil d'administration de la Caisse
+nationale des barreaux français.
 
-a) Un prélèvement sur les recettes du régime de base et du régime complémentaire
-dont le taux maximum est fixé par arrêté interministériel ;
+Les membres de cette commission sont désignés au début de chaque année par le
+conseil d'administration.
 
-b) Les dons, legs et subventions éventuellement attribués à la caisse.
+La commission de recours amiable peut valablement statuer si deux de ses membres
+au moins sont présents.
 
-Ce fonds a pour objet, dans la limite des ressources qui y sont affectées, de
-mettre en oeuvre une action sociale destinée aux affiliés ou allocataires de la
-caisse ainsi qu'à leurs conjoints survivants, leurs orphelins, et prenant la
-forme soit d'aides individuelles, soit d'actions collectives.
+La commission de recours amiable doit être saisie dans le délai de deux mois à
+compter de la notification de la décision contre laquelle les intéressés
+entendent former une réclamation. La forclusion ne peut être valablement opposée
+aux intéressés que si cette notification porte mention de ce délai.
 
-Les aides individuelles sont accordées, lorsque la situation matérielle du
-bénéficiaire le justifie, dans la limite d'une année. En cas de demande de
-renouvellement d'une telle aide, il est procédé à un nouvel examen de la
-situation du bénéficiaire.
+La commission de recours amiable notifie sa décision aux intéressés. Cette
+décision doit être motivée.
 
-Les actions collectives tendent à la mise en place de services correspondant à
-l'objet de la caisse.
-
-Les statuts de la caisse précisent les diverses catégories d'aides individuelles
-et d'actions collectives mentionnées ci-dessus.
-
-Les décisions en matière d'action sociale sont prises par le conseil
-d'administration sur proposition d'une commission d'action sociale désignée par
-lui en son sein.
-
-Les opérations financières du fonds d'action sociale sont suivies dans un compte
-particulier et font l'objet d'un budget spécifique.
+Le silence gardé pendant plus de quatre mois à compter de la date de la
+réclamation vaut décision de rejet.

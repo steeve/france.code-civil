@@ -1,18 +1,31 @@
 Article R723-57
 ----
-S'il ne remplit pas les conditions prévues aux articles R. 723-44 et R. 723-45,
-le conjoint à charge des avocats mentionnés à l'article R. 723-56 ou le conjoint
-survivant non remarié des mêmes avocats bénéficie d'une allocation [*de
-vieillesse*] au moins égale à celle prévue à l'article L. 643-1, à condition
-[*bénéficiaires*] :
+Il est institué un fonds d'action sociale alimenté par les recettes suivantes :
 
-1°) qu'il ait atteint l'âge de soixante-cinq ans ou, s'il est inapte à tout
-travail, de soixante ans ;
+1° Un prélèvement sur les recettes du régime de base et du régime complémentaire
+dont le taux maximum est fixé par arrêté interministériel ;
 
-2°) qu'il n'exerce lui-même aucune activité professionnelle ;
+2° Les dons, legs et subventions éventuellement attribués à la caisse.
 
-3°) qu'il ne bénéficie lui-même d'aucun avantage au titre d'un régime de
-sécurité sociale ;
+Ce fonds a pour objet, dans la limite des ressources qui y sont affectées, de
+mettre en oeuvre une action sociale destinée aux affiliés ou allocataires de la
+caisse ainsi qu'à leurs conjoints survivants, leurs orphelins, et prenant la
+forme soit d'aides individuelles, soit d'actions collectives.
 
-4°) que le mariage ait été contracté au moins deux ans avant la date à laquelle
-est faite la demande d'allocation [*durée*].
+Les aides individuelles sont accordées, lorsque la situation matérielle du
+bénéficiaire le justifie, dans la limite d'une année. En cas de demande de
+renouvellement d'une telle aide, il est procédé à un nouvel examen de la
+situation du bénéficiaire.
+
+Les actions collectives tendent à la mise en place de services correspondant à
+l'objet de la caisse.
+
+Les statuts de la Caisse nationale des barreaux français précisent les diverses
+catégories d'aides individuelles et d'actions collectives mentionnées ci-dessus.
+
+Les décisions en matière d'action sociale sont prises par le conseil
+d'administration sur proposition d'une commission d'action sociale désignée par
+lui en son sein.
+
+Les opérations financières du fonds d'action sociale sont suivies dans un compte
+particulier et font l'objet d'un budget spécifique.

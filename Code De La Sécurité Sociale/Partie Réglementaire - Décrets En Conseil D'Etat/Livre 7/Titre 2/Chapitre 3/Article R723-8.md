@@ -1,9 +1,12 @@
 Article R723-8
 ----
-Sous réserve des dispositions de l'article L. 723-1, les statuts de la caisse
-nationale des barreaux français sont arrêtés, sur la proposition du conseil
-d'administration, par l'assemblée générale des délégués.
+Le conseil d'administration élit parmi ses membres un bureau comprenant un
+président, huit vice-présidents et un secrétaire. Les vice-présidents peuvent
+suppléer le président en cas d'empêchement.
 
-L'arrêté prévu au deuxième alinéa de l'article L. 723-1 est pris par le garde
-des sceaux, ministre de la justice, le ministre chargé du budget et le ministre
-chargé de la sécurité sociale.
+Le président est élu pour deux années consécutives. La présidence appartient
+alternativement à un avocat au Conseil d'Etat et à la Cour de cassation ou à un
+avocat du barreau de Paris d'une part, à un avocat appartenant à un barreau des
+départements d'autre part.
+
+Les autres membres du bureau sont élus pour un an.
