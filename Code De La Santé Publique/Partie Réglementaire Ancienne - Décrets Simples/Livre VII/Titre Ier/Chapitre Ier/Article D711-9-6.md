@@ -1,7 +1,10 @@
 Article D711-9-6
 ----
-En sus des missions prévues à l'article R. 711-9-1, les centres anti-poisons
-participent à la prévention et à l'éducation sanitaire. Ils assurent un
-enseignement en toxicologie clinique et participent à la recherche en ce
-domaine. Ils remplissent auprès des pouvoirs publics et instances consultatives
-une mission d'expertise.
+Les centres antipoison ont accès, sous réserve des dispositions de l'article R.
+145-5-2, à la composition de toute préparation dans les conditions et selon les
+modalités définies aux articles L. 145-1 à L. 145-5 et R. 145-1 à R. 145-5-1.
+
+Ils ont accès, sous réserve des dispositions de l'article R. 5153-10, aux
+informations sur les substances ou préparations dangereuses mentionnées à
+l'article L. 626-1, dans les conditions et selon les modalités définies aux
+articles R. 5153-8 et R. 5153-9.

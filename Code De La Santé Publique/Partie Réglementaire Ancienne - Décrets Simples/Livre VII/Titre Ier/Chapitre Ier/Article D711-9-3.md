@@ -1,6 +1,4 @@
 Article D711-9-3
 ----
-Ils doivent être en mesure de connaître l'évolution des intoxications pour
-lesquelles ils ont été consultés. Ils recueillent les données concernant ces
-intoxications. Ils ont une mission d'alerte auprès des pouvoirs publics et
-notamment auprès de la direction générale de la santé.
+Les missions définies aux articles D. 711-9-1 et D. 711-9-2 sont assurées
+vingt-quatre heures sur vingt-quatre.

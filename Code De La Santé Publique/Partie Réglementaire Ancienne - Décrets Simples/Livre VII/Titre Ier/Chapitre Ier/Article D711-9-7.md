@@ -1,10 +1,14 @@
 Article D711-9-7
 ----
-La responsabilité médicale du centre anti-poisons doit être assurée par un
-praticien hospitalier formé en toxicologie clinique. Il est entouré d'une équipe
-permettant d'assurer la réponse vingt-quatre heures sur vingt-quatre, d'évaluer
-la toxicité humaine des produits, de participer au système de surveillance ainsi
-qu'aux autres missions définies au chapitre Ier. La réponse téléphonique, jour
-et nuit, doit être assurée par un médecin ayant suivi une formation en
-toxicologie clinique et à la réponse téléphonique. Il peut être assisté
-d'étudiants en médecine du troisième cycle ayant suivi la formation nécessaire.
+Selon leur importance et la diversité de leurs activités, les centres antipoison
+sont organisés en service ou en département, ou en structure distincte si
+l'établissement fait usage de la faculté prévue par l'article L. 714-25-2.
+
+Ils doivent comporter une unité de réponse à l'urgence fonctionnant dans les
+conditions fixées aux articles D. 711-9-9 et D. 711-9-10 ainsi qu'une unité de
+toxicovigilance.
+
+Ils peuvent en outre, en fonction des moyens et des situations locales,
+comporter une unité de soins pour intoxiqués, une unité de consultation, un
+laboratoire de toxicologie analytique et être associés à un centre régional de
+pharmacovigilance agréé conformément à l'article R. 5144-16.

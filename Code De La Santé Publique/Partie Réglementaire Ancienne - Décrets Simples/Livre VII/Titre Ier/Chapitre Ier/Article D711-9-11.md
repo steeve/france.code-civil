@@ -1,5 +1,10 @@
 Article D711-9-11
 ----
-Le non-respect par un centre anti-poisons des dispositions du présent décret
-peut entraîner son retrait de la liste prévue à l'article R. 711-9-1
-[*sanction*].
+Les modalités de fonctionnement d'un système informatique, commun à tous les
+centres antipoison, destiné à apporter une aide à la réponse à l'urgence et à
+permettre l'exploitation des données toxicologiques sont définies par arrêté du
+ministre chargé de la santé.
+
+Ce système comprend notamment une banque nationale de cas, rendus anonymes, de
+toxicologie clinique, destinée à servir de support aux enquêtes de
+toxicovigilance.
