@@ -8,11 +8,11 @@ société.
 
 Si la dissolution n'est pas prononcée à la majorité exigée pour la modification
 des statuts, la société est tenue, au plus tard à la clôture du deuxième
-exercice suivant celui au cours duquel la constatation des pertes est intervenue
-et sous réserve des dispositions de l'article L. 223-2, de réduire son capital
-d'un montant au moins égal à celui des pertes qui n'ont pu être imputées sur les
-réserves, si, dans ce délai, les capitaux propres n'ont pas été reconstitués à
-concurrence d'une valeur au moins égale à la moitié du capital social.
+exercice suivant celui au cours duquel la constatation des pertes est
+intervenue, de réduire son capital d'un montant au moins égal à celui des pertes
+qui n'ont pu être imputées sur les réserves, si, dans ce délai, les capitaux
+propres n'ont pas été reconstitués à concurrence d'une valeur au moins égale à
+la moitié du capital social.
 
 Dans les deux cas, la résolution adoptée par les associés est publiée selon les
 modalités fixées par décret en Conseil d'Etat.
@@ -26,4 +26,5 @@ régulariser sa situation. Il ne peut prononcer la dissolution, si, au jour où 
 statue sur le fond, cette régularisation a eu lieu.
 
 Les dispositions du présent article ne sont pas applicables aux sociétés en
-redressement judiciaire ou qui bénéficient d'un plan de continuation.
+procédure de sauvegarde ou de redressement judiciaire ou qui bénéficient d'un
+plan de sauvegarde ou de redressement judiciaire.

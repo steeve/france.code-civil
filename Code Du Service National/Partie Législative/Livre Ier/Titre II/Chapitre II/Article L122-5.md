@@ -7,3 +7,6 @@ personne morale à but non lucratif ; à l'étranger, il peut être effectué au
 de toute personne morale. Toutefois, à l'étranger ou dans les départements,
 territoires et collectivités d'outre-mer et en Nouvelle-Calédonie, le
 volontariat civil peut également être accompli dans un service de l'Etat.
+S'agissant des volontaires internationaux en entreprise, est considéré comme
+volontaire à l'étranger le volontaire qui effectue des séjours d'au moins deux
+cents jours à l'étranger au cours d'une année.

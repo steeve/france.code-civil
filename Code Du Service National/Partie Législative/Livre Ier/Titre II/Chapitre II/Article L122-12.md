@@ -17,4 +17,4 @@ revenu et exclue de l'assiette de la contribution sociale généralisée et de l
 contribution au remboursement de la dette sociale. Le montant de cette indemnité
 supplémentaire est fixé à un taux uniforme, quelles que soient les activités
 exercées, pour chacune des collectivités et chacun des pays ou régions de ces
-pays.
+pays ou zones géographiques.

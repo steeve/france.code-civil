@@ -1,13 +1,16 @@
 Article L611-4
 ----
-Pour faire face aux crises conjoncturelles affectant les productions de produits
-agricoles périssables ou de produits issus de cycles courts de production ou les
-productions de la pêche maritime ou des cultures marines et correspondant à des
-situations où le prix de cession de ces produits par leur producteur est
-anormalement bas par rapport à la moyenne des prix observés lors des périodes
-correspondantes des trois précédentes campagnes, et afin d'adapter l'offre en
-qualité et en volume aux besoins des marchés, des contrats peuvent être conclus
-entre des organisations professionnelles représentatives de la production ou des
+Pour faire face aux crises conjoncturelles affectant les animaux vifs, les
+carcasses, les productions de produits agricoles périssables ou de produits
+agricoles issus de cycles courts de production ou les productions de la pêche ou
+de l'aquaculture et correspondant à des situations où le prix de cession de ces
+produits par les producteurs ou leurs groupements reconnus est anormalement bas
+par rapport à la moyenne des prix observés lors des périodes correspondantes des
+cinq précédentes campagnes, à l'exclusion des deux périodes au cours desquelles
+les prix ont été respectivement le plus bas et le plus élevé, et notamment afin
+d'adapter l'offre en qualité et en volume aux besoins des marchés et de tenir
+compte des coûts de production, des contrats peuvent être conclus entre des
+organisations professionnelles représentatives de la production ou des
 groupements de producteurs reconnus et des organisations professionnelles
 représentatives de la transformation, de la commercialisation ou de la
 distribution, pour un ou plusieurs produits, et pour une durée déterminée qui ne

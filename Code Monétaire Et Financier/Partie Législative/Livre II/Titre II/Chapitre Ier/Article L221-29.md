@@ -14,19 +14,25 @@ conditions du premier alinéa peuvent l'affecter au financement de logements
 ayant une autre destination dans les conditions fixées par un décret en Conseil
 d'Etat qui détermine notamment les destinations autorisées. Ces destinations
 sont exclusives, à l'exception des résidences de tourisme, de tout usage
-commercial ou professionnel."
+commercial ou professionnel.
+
+Les dispositions précédentes ne font pas obstacle à l'affectation de
+l'épargne-logement au financement d'un local destiné à un usage commercial ou
+professionnel, dès lors qu'il comporte également l'habitation principale du
+bénéficiaire."
 
 "Art. L. 315-2. - Les prêts d'épargne-logement concernant les logements destinés
-à l'habitation principale sont accordés pour le financement des dépenses de
-construction, d'acquisition, d'extension ou de certaines dépenses de réparation
-et d'amélioration.
+à l'habitation principale et les locaux visés au troisième alinéa de l'article
+L. 315-1 sont accordés pour le financement des dépenses de construction,
+d'acquisition, d'extension ou de certaines dépenses de réparation et
+d'amélioration.
 
 Les prêts d'épargne-logement concernant les logements ayant une autre
 destination sont accordés pour le financement des dépenses de construction,
 d'extension ou de certaines dépenses de réparation et d'amélioration.
 
-Les prêts d'épargne-logment accordés entre le 1er janvier 1996 et le 31 décembre
-1996 peuvent être affectés au financement des dépenses d'acquisition de
+Les prêts d'épargne-logement accordés entre le 1er janvier 1996 et le 31
+décembre 1996 peuvent être affectés au financement des dépenses d'acquisition de
 logements visés à l'alinéa précédent."
 
 "Art. L. 315-3. - Les dépôts d'épargne-logement sont reçus par la caisse

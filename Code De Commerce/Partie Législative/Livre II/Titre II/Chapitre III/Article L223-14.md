@@ -21,8 +21,7 @@ dans le même délai, de réduire son capital du montant de la valeur nominale d
 parts de cet associé et de racheter ces parts au prix déterminé dans les
 conditions prévues ci-dessus. Un délai de paiement qui ne saurait excéder deux
 ans peut, sur justification, être accordé à la société par décision de justice.
-Les sommes dues portent intérêt au taux légal en matière commerciale. Le cas
-échéant, les dispositions de l'article L. 223-2 sont suivies.
+Les sommes dues portent intérêt au taux légal en matière commerciale.
 
 Si, à l'expiration du délai imparti, aucune des solutions prévues aux troisième
 et quatrième alinéas ci-dessus n'est intervenue, l'associé peut réaliser la

@@ -8,9 +8,10 @@ courant, telles que définies par le 1° et le a du 2° de l'article L. 214-36,
 européenne, qui sont soumises à l'impôt sur les sociétés dans les conditions de
 droit commun ou en seraient passibles dans les mêmes conditions si l'activité
 était exercée en France, qui comptent moins de cinq cents salariés, dont le
-capital est détenu, majoritairement, par des personnes physiques ou par des
-personnes morales détenues par des personnes physiques et qui remplissent l'une
-des conditions suivantes ;
+capital n'est pas détenu majoritairement, directement ou indirectement, par une
+ou plusieurs personnes morales ayant des liens de dépendance avec une autre
+personne morale au sens du III et qui remplissent l'une des conditions suivantes
+;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées
 de recherche visées aux a à f du II de l'article 244 quater B du code général
@@ -27,23 +28,18 @@ Les dispositions du 3°, du 4° et du 5° de l'article L. 214-36 s'appliquent da
 les mêmes conditions aux fonds communs de placement dans l'innovation sous
 réserve du respect du quota d'investissement de 60 % qui leur est propre.
 
-II. - Pour l'appréciation de la détention majoritaire du capital des sociétés
-dans lesquelles les fonds communs de placement dans l'innovation investissent,
-il n'est pas tenu compte des participations des sociétés de capital-risque, des
-sociétés de développement régional et des sociétés financières d'innovation à la
-condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article
-39 terdecies du code général des impôts avec ces dernières sociétés. De même,
-cette appréciation ne tient pas compte des participations des fonds communs de
-placement à risques, des fonds communs de placement dans l'innovation, des
-établissements à caractère scientifique et technologique régis par la loi du 15
-juillet 1982 d'orientation et de programmation pour la recherche et le
-développement technologique de la France et des établissements publics à
-caractère scientifique, culturel et professionnel prévus par la loi n° 84-52 du
-26 janvier 1984 sur l'enseignement supérieur.
-
-Les conditions relatives au nombre de salariés et à la reconnaissance, par un
-établissement public compétent en matière de valorisation de recherche ou à
+II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par
+un établissement public compétent en matière de valorisation de recherche ou à
 raison de leurs dépenses cumulées de recherche, du caractère innovant de
 sociétés dont les titres figurent à l'actif d'un fonds commun de placement dans
 l'innovation s'apprécient lors de la première souscription ou acquisition de ces
 titres par ce fonds.
+
+III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre
+deux sociétés, ces liens sont réputés exister :
+
+- lorsque l'une détient directement ou par personne interposée la majorité du
+capital social de l'autre ou y exerce de fait le pouvoir de décision ;
+
+- ou bien lorsqu'elles sont placées l'une et l'autre dans les conditions
+définies à l'alinéa précédent sous le contrôle d'une même tierce société.

@@ -25,8 +25,12 @@ La rémunération de ces salariés est majorée d'au moins 50 p. 100 par rapport
 celle qui serait due pour une durée équivalente effectuée suivant l'horaire
 normal de l'entreprise. Cette majoration ne s'applique pas lorsque les salariés
 de l'équipe de suppléance sont amenés à remplacer durant la semaine les salariés
-partis en congé [*dérogation*].
+partis en congé.
 
 A défaut de convention ou d'accord collectif étendu, un décret en Conseil d'Etat
 peut prévoir les conditions dans lesquelles la dérogation prévue au premier
 alinéa peut être accordée.
+
+Les dispositions du présent article s'appliquent aux départements du Bas-Rhin,
+du Haut-Rhin et de la Moselle, par dérogation à l'article 105 (a) et au premier
+alinéa de l'article 105 (b) du code professionnel local.

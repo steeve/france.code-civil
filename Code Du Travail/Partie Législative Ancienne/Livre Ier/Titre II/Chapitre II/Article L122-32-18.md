@@ -6,4 +6,4 @@ consécutifs ou non, ainsi que de six années d'activité professionnelle, et qu
 n'a pas bénéficié, au cours des six années précédentes dans l'entreprise, d'un
 congé sabbatique, d'un congé pour la création d'entreprise ou d'un congé de
 formation d'une durée d'au moins six mois au titre de l'article L. 930-1 du
-présent code [*non cumul, condition d'attribution*].
+présent code.
