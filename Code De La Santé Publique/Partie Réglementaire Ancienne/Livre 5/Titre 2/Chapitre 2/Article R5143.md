@@ -53,7 +53,11 @@ des lois et règlements en vigueur ;
 p) Les conditions de remboursement par les organismes d'assurance maladie ;
 
 q) Le classement du médicament en matière de prescription et de délivrance,
-mentionné dans l'autorisation de mise sur le marché.
+mentionné dans l'autorisation de mise sur le marché ;
+
+r) Pour les médicaments homéopathiques mentionnés au e de l'article R. 5133, la
+mention : "médicament homéopathique traditionnellement utilisé dans" suivie de
+l'indication thérapeutique.
 
 Le conditionnement extérieur peut comporter, outre le signe distinctif de
 l'entreprise, des signes ou des pictogrammes explicitant certaines des

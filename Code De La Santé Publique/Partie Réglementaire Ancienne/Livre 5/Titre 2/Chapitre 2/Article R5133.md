@@ -1,6 +1,6 @@
 Article R5133
 ----
-Par dérogation aux dispositions des articles R. 5128 et R. 5129 :
+I. - Par dérogation aux dispositions des articles R. 5128 et R. 5129 :
 
 a) Lorsque la demande porte sur une modification d'autorisation de mise sur le
 marché, le directeur général de l'Agence du médicament peut dispenser le
@@ -44,8 +44,29 @@ des essais pharmacologiques, toxicologiques et cliniques relatifs à
 l'association doivent être fournis sans qu'il soit nécessaire de fournir la
 documentation relative à chaque composant individuel.
 
-Lorsqu'il est fait référence à la littérature scientifique publiée, des experts
-doivent justifier le recours à cette documentation bibliographique et démontrer
-qu'elle satisfait aux exigences des protocoles arrêtés en application de
-l'article R. 5118, compte tenu notamment de la forme pharmaceutique et des
-constituants de l'excipient.
+e) Pour un médicament homéopathique soumis à autorisation de mise sur le marché,
+compte tenu de la spécificité de ce médicament, le demandeur est dispensé de
+produire tout ou partie des résultats des essais pharmacologiques,
+toxicologiques et cliniques lorsqu'il peut démontrer par référence détaillée à
+la littérature publiée et reconnue dans la tradition de la médecine
+homéopathique pratiquée en France que l'usage homéopathique du médicament ou des
+souches homéopathiques le composant est bien établi et présente toutes garanties
+d'innocuité.
+
+II. - 1. Pour l'application du c du I, lorsqu'il est fait référence à la
+littérature scientifique publiée, des experts doivent justifier le recours à
+cette documentation bibliographique et démontrer qu'elle satisfait aux exigences
+des protocoles arrêtés en application de l'article R. 5118, compte tenu
+notamment de la forme pharmaceutique et des constituants de l'excipient.
+
+2. Pour l'application du e du I, lorsqu'il est fait référence à la littérature
+publiée et reconnue dans la tradition de la médecine homéopathique pratiquée en
+France, des experts doivent justifier, sur la base de la documentation fournie :
+
+a) Le caractère homéopathique des souches utilisées et leur utilisation
+traditionnelle dans l'indication revendiquée ;
+
+b) L'innocuité du médicament homéopathique, notamment au regard du degré de
+dilution de chacun de ses composants ;
+
+c) La voie d'administration, pour les médicaments homéopathiques injectables.
