@@ -23,10 +23,20 @@ e) Les périmètres de rénovation urbaine délimités en application de l'artic
 312-1 ;
 
 f) Les périmètres de résorption de l'habitat insalubre délimités en application
-de l'article L. 38 ou de l'article L. 42 du code de la santé publique ;
+de l'article L. 38 ou de l'article L. 42 du code de la santé publique.
 
 g) Les périmètres de développement prioritaires délimités en application de la
 loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à
-l'utilisation de la chaleur.
+l'utilisation de la chaleur ;
+
+h) Les périmètres d'action forestière délimités en application de l'article 52-1
+du Code rural ;
+
+i) Les périmètres miniers définis en application des titres II, III et V du
+livre Ier du Code minier ;
+
+j) Les périmètres de zones spéciales de recherche et d'exploitation de carrières
+et des zones d'exploitation et d'aménagement coordonné de carrières délimitées
+en application des articles 109 et 109-1 du Code minier.
 
 2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
