@@ -2,7 +2,8 @@ Article L52-6
 ----
 Le candidat déclare par écrit à la préfecture de son domicile le nom du
 mandataire financier qu'il choisit. La déclaration doit être accompagnée de
-l'accord exprès du mandataire désigné.
+l'accord exprès du mandataire désigné. L'expert-comptable chargé de la
+présentation du compte de campagne ne peut exercer cette fonction. "
 
 Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique
 retraçant la totalité de ses opérations financières. L'intitulé du compte
@@ -14,10 +15,10 @@ lorsque le candidat qui l'a désigné figure sur cette liste.
 Le mandataire financier ne peut recueillir de fonds que pendant la période
 prévue à l'article L. 52-4.
 
-Les fonctions du mandataire financier cessent de plein droit trois mois après le
-dépôt du compte de campagne du candidat qui l'a mandaté, ou bien, si le candidat
-n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de
-dépôt des candidatures.
+Les fonctions du mandataire financier cessent de plein droit [*délai*] trois
+mois après le dépôt du compte de campagne du candidat qui l'a mandaté, ou bien,
+si le candidat n'a pas déposé sa candidature dans les délais légaux, à
+l'expiration du délai de dépôt des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de
 son activité. Lorsqu'un solde positif apparaît, il est dévolu, sur décision du

@@ -6,7 +6,7 @@ des comptes de campagne et des financements politiques évalue la différence et
 l'inscrit d'office dans les dépenses de campagne après avoir invité le candidat
 à produire toute justification utile à l'appréciation des circonstances. La
 somme ainsi inscrite est réputée constituer un don, au sens de l'article L.
-52-8, effectué par la ou les personnes physiques ou morales concernées.
+52-8, effectué par la ou les personnes physiques concernées.
 
 La commission procède de même pour tous les avantages directs ou indirects, les
 prestations de services et dons en nature dont a bénéficié le candidat.
