@@ -17,3 +17,8 @@ qu'ils occupent.
 en vertu des articles L. 351-2 (2., 3. ou 4.), L. 325-1 ou L. 431-6 ou d'un
 contrat d'amélioration intervenu en vertu de l'article 59 de la loi n. 82-526 du
 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs.
+
+- soit un logement faisant l'objet d'un contrat de location-accession conclu
+dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant
+la location-accession à la propriété immobilière et qui a été construit ou
+acquis dans les conditions définies par l'article L. 351-2 (6.).

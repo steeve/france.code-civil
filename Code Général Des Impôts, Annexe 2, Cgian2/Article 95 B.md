@@ -3,30 +3,13 @@ Article 95 B
 Les intermédiaires agréés mentionnés aux articles 199 quinquies et 199 quinquies
 C du code général des impôts sont :
 
-1° Les agents de change ;
-
-La Banque française du commerce extérieur ;
-
-La Banque de France ;
+1° La Banque de France ;
 
 Les établissements de crédits ;
 
-La Caisse centrale des banques populaires et les banques populaires agréés par
-elle ;
-
-La Caisse centrale de crédit coopératif ;
-
-La Caisse centrale du Crédit mutuel et les caisses fédérales du Crédit mutuel ;
-
-La Caisse des dépôts et consignations pour ses opérations et pour celles des
-caisses d'épargne réalisées dans le cadre de leurs statuts ;
-
-La Caisse nationale de Crédit agricole et les caisses régionales de Crédit
-agricole mutuel ;
-
-Le Crédit foncier communal d'Alsace et de Lorraine ;
-
-Le Crédit foncier de France ;
+La Caisse des dépôts et consignations ; t Les agents de change ; Les
+établissements visés à l'article 99 de la loi 84-46 du 24 janvier 1984 relative
+à l'activité et au contrôle des établissements de crédit ;
 
 2° Les entreprises gérant des valeurs acquises dans le cadre de la législation
 sur les plans d'épargne d'entreprise ou de l'actionnariat des salariés ;
