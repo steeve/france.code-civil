@@ -5,5 +5,5 @@ tarif de seconde classe des chemins de fer applicable au trajet le plus direct
 depuis le siège de l'établissement jusqu'au lieu où est dispensée la formation.
 
 Les frais de séjour sont pris en charge à concurrence du montant de l'indemnité
-de mission fixée en application de l'article 9 du décret du 10 août 1966
-susvisé.
+de mission fixée en application des dispositions réglementaires applicables aux
+déplacements temporaires des agents de l'Etat.
