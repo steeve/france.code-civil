@@ -9,7 +9,8 @@ radiocommunications.
 2° La demande d'inscription peut être présentée par toute entreprise inscrite au
 registre des métiers ou au registre du commerce et des sociétés, ou sur une
 liste professionnelle équivalente dans un autre Etat membre de la Communauté
-économique européenne.
+européenne ou dans un autre Etat partie à l'accord instituant l'Espace
+économique européen.
 
 La demande d'inscription comporte :
 

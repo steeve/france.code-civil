@@ -2,7 +2,8 @@ Article R20-18
 ----
 1° Les équipements destinés à être connectés directement ou indirectement à un
 réseau ouvert au public, qui ont obtenu de la part d'un organisme notifié d'un
-autre Etat membre une décision approuvant leur connexion au réseau, sont
+autre Etat membre ou de tout autre Etat partie à l'accord instituant l'Espace
+économique européen une décision approuvant leur connexion au réseau, sont
 dispensés de l'agrément prévu au 1° de l'article R. 20-2 lorsque cette décision
 a été obtenue à l'issue :
 
@@ -14,5 +15,8 @@ d'assurance de qualité complète.
 
 2° Lors de l'instruction d'une demande visant à obtenir l'agrément prévu au 1°
 de l'article R. 20-2, sont reconnus valables les résultats des essais effectués
-dans des laboratoires désignés par les autres Etats membres et figurant le cas
-échéant sur une liste publiée au Journal officiel des communautés européennes.
+dans les laboratoires présentant des garanties d'indépendance et de compétence
+notamment sur la base des critères généraux définis par les normes de la série
+EN 45000, désignés comme tels par les autres Etats membres ou les autres Etats
+parties à l'accord instituant l'Espace économique européen et figurant le cas
+échéant sur une liste publiée au Journal officiel de la Communauté européenne.

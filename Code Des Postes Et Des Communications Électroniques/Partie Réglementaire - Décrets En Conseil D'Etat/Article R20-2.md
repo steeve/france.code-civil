@@ -10,8 +10,8 @@ radioélectrique, quelle que soit sa destination.
 La procédure d'agrément a pour objet de garantir le respect des exigences
 essentielles.
 
-Au choix du fabricant ou de son mandataire établi dans la Communauté économique
-européenne, l'agrément est délivré à l'issue :
+Au choix du fabricant ou de son mandataire établi dans la Communauté européenne
+ou dans l'Espace économique européen, l'agrément est délivré à l'issue :
 
 a) Soit d'un examen de type selon la procédure définie aux articles R. 20-4, R.
 20-5 et R. 20-6, suivi de la déclaration de conformité au type prévue à

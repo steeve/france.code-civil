@@ -7,9 +7,12 @@ le comité d'approbation des équipements de télécommunications (Acte) siégea
 auprès de la Commission des communautés européennes.
 
 Lorsqu'il constate qu'un équipement terminal marqué C.E., agréé dans un Etat
-membre de la Communauté économique européenne et utilisé conformément à sa
+membre de la Communauté européenne ou dans un autre Etat partie à l'accord
+instituant l'Espace économique européen et utilisé conformément à sa
 destination, ne satisfait pas aux exigences essentielles, le directeur général
 des postes et télécommunications en informe sans délai la Commission des
-communautés européennes ainsi que les autres Etats membres et précise si la
-non-conformité résulte d'une application inadéquate des normes et spécifications
-harmonisées ou de lacunes intrinsèques de celles-ci.
+communautés européennes ainsi que les autres Etats membres de la Communauté
+européenne et les autres Etats parties à l'accord instituant l'Espace économique
+européen et précise si la non conformation résulte d'une application inadéquate
+des normes et spécifications harmonisées ou de lacunes intrinsèques de
+celles-ci.
