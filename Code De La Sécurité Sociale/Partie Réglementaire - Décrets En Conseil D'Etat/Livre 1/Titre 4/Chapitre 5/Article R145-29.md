@@ -1,0 +1,8 @@
+Article R145-29
+----
+Un décret fixe, dans les conditions prévues par l'article 4 du décret n° 48-1108
+du 4 juillet 1948, le montant des indemnités et frais alloués aux présidents des
+sections des assurances sociales des conseils régionaux et interrégionaux des
+ordres des médecins, des chirurgiens-dentistes, des sages-femmes et des
+pharmaciens et des conseils centraux de la section D et de la section G de
+l'ordre des pharmaciens.
