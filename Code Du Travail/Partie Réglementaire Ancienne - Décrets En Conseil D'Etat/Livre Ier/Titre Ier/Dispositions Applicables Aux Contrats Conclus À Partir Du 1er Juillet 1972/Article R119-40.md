@@ -1,19 +1,20 @@
 Article R119-40
 ----
-Les exemplaires originaux du contrat enregistré sont adressés aux parties par
-l'intermédiaire de la chambre de métiers, de la chambre de commerce et
-d'industrie ou de la chambre d'agriculture qui les a présentés à
-l'enregistrement ; ladite chambre en conserve une copie. En cas de refus
-d'enregistrement, une décision motivée doit [*obligation*] être adressée à la
-chambre de métiers,
+En cas de refus d'enregistrement du contrat, une décision motivée doit être
+adressée par le service chargé de l'enregistrement à la chambre de métiers, à la
+chambre de commerce et d'industrie ou à la chambre d'agriculture compétente par
+lettre recommandée avec demande d'avis de réception. Avis de ce refus est
+transmis par la chambre professionnelle aux parties et au directeur du centre de
+formation d'apprentis.
 
-à la chambre de commerce et d'industrie ou à la chambre d'agriculture compétente
-sous forme d'une lettre recommandée avec demande d'avis de réception. Avis de ce
-refus est transmis par la chambre professionnelle aux parties et au directeur du
-centre de formation d'apprentis.
-
-Sur leur demande, la direction départementale du travail et de la main-d'oeuvre,
-ou l'inspection départementale des lois sociales en agriculture, adresse une
-copie des contrats intéressant les employeurs de leur ressort aux organismes
-professionnels agréés à cet effet par le comité départemental de la formation
-professionnelle, de la promotion sociale et de l'emploi.
+Lorsque le service chargé de l'enregistrement du contrat a été saisi d'un
+dossier complet et qu'aucune décision de refus d'enregistrement n'est intervenue
+dans un délai de quinze jours à compter de la date de réception du contrat, la
+chambre compétente retourne à l'employeur et à l'apprenti l'exemplaire du
+contrat qui est destiné à chacun d'eux après y avoir porté la mention : contrat
+enregistré de droit. Elle en adresse copie à l'union de recouvrement des
+cotisations de sécurité sociale ou à la caisse de mutualité sociale agricole
+compétente, à la caisse de retraite complémentaire dont relève l'employeur, au
+directeur du centre de formation d'apprentis, au service chargé de l'inspection
+de l'apprentissage ainsi qu'au service chargé du suivi statistique des contrats
+d'apprentissage.
