@@ -1,13 +1,15 @@
 Article 706-56
 ----
-I. - L'officier de police judiciaire peut procéder ou faire procéder sous son
+I.-L'officier de police judiciaire peut procéder ou faire procéder sous son
 contrôle, à l'égard des personnes mentionnées au premier, au deuxième ou au
 troisième alinéa de l'article 706-54, à un prélèvement biologique destiné à
 permettre l'analyse d'identification de leur empreinte génétique. Préalablement
 à cette opération, il peut vérifier ou faire vérifier par un agent de police
-judiciaire placé sous son contrôle que l'empreinte génétique de la personne
-concernée n'est pas déjà enregistrée, au vu de son seul état civil, dans le
-fichier national automatisé des empreintes génétiques.
+judiciaire placé sous son contrôle ou par un agent spécialisé, technicien ou
+ingénieur de police technique et scientifique placé sous son contrôle, que
+l'empreinte génétique de la personne concernée n'est pas déjà enregistrée, au vu
+de son seul état civil, dans le fichier national automatisé des empreintes
+génétiques.
 
 Pour qu'il soit procédé à cette analyse, l'officier de police judiciaire peut
 requérir toute personne habilitée dans les conditions fixées par l'article 16-12
@@ -28,11 +30,15 @@ personne mentionnée au premier alinéa, l'identification de son empreinte
 génétique peut être réalisée à partir de matériel biologique qui se serait
 naturellement détaché du corps de l'intéressé.
 
-Lorsqu'il s'agit d'une personne condamnée pour crime ou pour un délit puni de
-dix ans d'emprisonnement, le prélèvement peut être effectué sans l'accord de
-l'intéressé sur réquisitions écrites du procureur de la République.
+Lorsqu'il s'agit d'une personne condamnée pour crime ou déclarée coupable d'un
+délit puni de dix ans d'emprisonnement, le prélèvement peut être effectué sans
+l'accord de l'intéressé sur réquisitions écrites du procureur de la République.
+Il en va de même pour les personnes poursuivies pour un crime ou un délit puni
+de dix ans d'emprisonnement ayant fait l'objet d'une décision d'irresponsabilité
+pénale en application des articles 706-120, 706-125, 706-129, 706-133 ou
+706-134.
 
-II. - Le fait de refuser de se soumettre au prélèvement biologique prévu au
+II.-Le fait de refuser de se soumettre au prélèvement biologique prévu au
 premier alinéa du I est puni d'un an d'emprisonnement et de 15 000 euros
 d'amende.
 
@@ -50,7 +56,7 @@ tenter de commettre des manoeuvres destinées à substituer à son propre matér
 biologique le matériel biologique d'une tierce personne, avec ou sans son
 accord, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
-III. - Lorsque les infractions prévues par le présent article sont commises par
+III.-Lorsque les infractions prévues par le présent article sont commises par
 une personne condamnée, elles entraînent de plein droit le retrait de toutes les
 réductions de peine dont cette personne a pu bénéficier et interdisent l'octroi
 de nouvelles réductions de peine.
