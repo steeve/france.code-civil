@@ -28,3 +28,7 @@ Par dérogation aux dispositions de l'article L. 132-3, le représentant légal
 d'un majeur en tutelle peut, pour les opérations collectives à adhésion
 obligatoire ne comportant pas une valeur de rachat, adhérer au nom de celui-ci à
 un règlement ou souscrire un contrat auprès d'une institution de prévoyance.
+
+L'institution de prévoyance communique chaque année aux entreprises adhérant à
+son règlement ou à ses contrats le montant et les modalités de répartition pour
+l'année écoulée de la participation aux excédents.

@@ -1,7 +1,8 @@
 Article L223-2
 ----
-En matière d'assurance sur la vie, les sommes garanties sont fixées par le
-bulletin d'adhésion ou le contrat collectif.
+En matière d'assurance sur la vie, les sommes garanties et les conditions
+d'affectation des excédents techniques et financiers sont fixées par le bulletin
+d'adhésion ou le contrat collectif.
 
 En matière d'assurance sur la vie ou d'opérations de capitalisation, le capital
 ou la rente garantis peuvent être exprimés en unités de compte constituées de
