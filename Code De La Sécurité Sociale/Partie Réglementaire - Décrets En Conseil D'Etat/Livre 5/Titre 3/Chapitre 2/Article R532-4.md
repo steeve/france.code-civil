@@ -1,20 +1,15 @@
 Article R532-4
 ----
-L'allocation parentale d'éducation est due à mi-taux pendant une période
-maximale d'un an précédant le troisième anniversaire de l'enfant lorsque le
-bénéficiaire d'une allocation parentale d'éducation à taux plein :
+Lorsque le bénéficiaire d'une allocation parentale d'éducation à taux plein
+reprend une activité ou une formation à temps partiel, l'allocation parentale
+d'éducation à taux partiel est due à compter du premier jour du mois civil au
+cours duquel l'activité à temps partiel a été reprise ou la formation
+professionnelle commencée.
 
-1° Reprend une activité salariée à temps partiel d'une durée au plus égale à la
-moitié de la durée légale du travail ou de la durée considérée comme équivalente
-; si le salarié n'est pas rémunéré sur la base de sa durée de travail,
-l'allocation parentale d'éducation à mi-taux est due lorsque le montant du
-revenu mensuel procuré par la reprise de l'activité est au plus égal à la moitié
-du montant du revenu mensuel qui résulterait d'une reprise totale de cette même
-activité ;
+La durée minimale d'attribution d'une allocation parentale d'éducation à taux
+partiel à un même taux est fixée à six mensualités.
 
-2° Reprend une activité non-salariée au plus égale au mi-temps défini ci-dessus
-;
-
-3° Suit une formation professionnelle rémunérée pendant la moitié au plus de la
-durée légale du travail ou de la durée calculée dans les conditions prévues au
-1° ci-dessus.
+Toutefois, en cas de cessation de l'activité professionnelle ou de la formation
+rémunérée, l'allocation parentale d'éducation à taux plein est attribuée à
+compter du premier jour du mois civil suivant celui au cours duquel est
+intervenue la cessation de l'activité ou de la formation.
