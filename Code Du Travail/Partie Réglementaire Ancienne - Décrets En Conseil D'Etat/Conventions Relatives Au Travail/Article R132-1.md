@@ -1,14 +1,12 @@
 Article R132-1
 ----
-Le dépôt prévu à l'article L. 132-8 est opéré, en quatre [*nombre*] exemplaires,
-aux soins de la partie la plus diligente et à frais communs.
+Le dépôt des conventions et accords collectifs et de leurs avenants et annexes,
+prévu à l'article L. 132-8, est opéré en cinq [*nombre*] exemplaires signés des
+parties.
 
-Trois exemplaires du texte de la convention collective, de ses avenants et
-annexes et des accords collectifs, signés par les parties, sont adressés dans
-les deux jours [*délai*] suivant le dépôt, par le secrétaire ou le greffier,
-deux au ministère chargé du travail, l'autre à la direction départementale du
-travail et de la main-d'oeuvre.
+Les déclarations de dénonciation et d'adhésion, intervenues en application des
+articles L. 132-6 et L. 132-9 sont déposées selon les mêmes modalités, par la
+partie qui en est signataire, à la direction ou au service dépositaire de la
+convention qu'elles concernent.
 
-En ce qui concerne les professions agricoles, les trois exemplaires sont
-adressés, deux au ministères chargé de l'agriculture et le troisième à
-l'inspection départementale des lois sociales en agriculture.
+Un récépissé est délivré au déposant.
