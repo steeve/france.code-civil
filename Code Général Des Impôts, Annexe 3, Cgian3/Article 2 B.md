@@ -7,9 +7,12 @@ comporter les renseignements suivants :
 date d'échéance, prix d'acquisition, cours à la clôture de l'exercice, profit à
 la clôture de l'exercice.
 
-2. Pour chacune des opérations de l'exercice suivant : valeur nominale, date
-d'ouverture, date d'échéance.
+2. Pour chacune ((des opérations des deux exercices suivants : valeur nominale,
+date d'ouverture, date d'échéance)) (1).
 
 Ce document est annexé à la déclaration des résultats de l'exercice au cours
-duquel les contrats à terme d'instruments financiers ont été conclus. Il est
-établi conformément au modèle fixé par l'administration. "
+duquel les contrats à terme d'instruments financiers ont été conclus ((et le cas
+échéant, de l'exercice suivant)) (1). Il est établi conformément au modèle fixé
+par l'administration.
+
+(1) Modifications du décret.
