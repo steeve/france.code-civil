@@ -13,6 +13,22 @@ collectivités locales et des établissements publics, soit auprès d'organismes
 relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies
 par le livre III du code des assurances.
 
+1° ter. les versements des salariés et les contributions complémentaires de
+l'employeur aux plans d'épargne retraite prévus par la loi n° 97-277 du 25 mars
+1997 créant les plans d'épargne retraite dans la limite de la plus élevée de ces
+deux valeurs : 5 % du montant brut de la rémunération ou 20 % du plafond annuel
+moyen retenu pour le calcul des cotisations de sécurité sociale ; l'excédent est
+ajouté à la rémunération.
+
+La différence entre, d'une part, la limite définie au premier alinéa et, d'autre
+part, les versements et les contributions complémentaires de l'employeur
+effectués au titre d'une année peut être utilisée au cours de l'une des trois
+années suivantes pour effectuer des versements complémentaires bénéficiant de
+l'exonération prévue au précédent alinéa.
+
+Un décret fixe les conditions d'application de ces dispositions, et notamment
+les obligations déclaratives des employeurs et des salariés ;
+
 2° Les cotisations ou les primes versées aux organismes de retraite et de
 prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire
 ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre
@@ -50,16 +66,16 @@ novembre 1982 ;
 pour souscrire au capital d'une société nouvelle exerçant une activité
 industrielle, commerciale, artisanale ou libérale. Cette souscription doit
 intervenir l'année de la création de la société ou au cours de deux années
-suivantes [*délai*.
+suivantes.
 
 La déduction ne peut excéder 50 % du salaire versé à l'emprunteur par la société
-nouvelle. Elle ne peut être supérieure à 100.000 F.
+nouvelle. Elle ne peut être supérieure à 100 000 F.
 
 La société nouvelle doit être soumise à l'impôt sur les sociétés dans les
 conditions de droit commun, exercer une activité mentionnée aux articles 34 et
 92 et répondre aux conditions suivantes :
 
-((a. A la clôture de l'exercice, le prix de revient des biens d'équipement
+a. A la clôture de l'exercice, le prix de revient des biens d'équipement
 amortissables selon le mode dégressif en application des dispositions du 1 de
 l'article 39 A doit représenter au moins les deux tiers du prix de revient total
 des immobilisations corporelles amortissables ; les entrprises qui ne
@@ -68,19 +84,19 @@ bénéficier du dispositif à titre provisoire ; cet avantage leur sera
 définitivement acquis si le pourcentage des deux tiers est atteint à la clôture
 de l'exercice suivant ;
 
-((b. Pour les entrprises constituées sous forme de société, les droits de vote
+b. Pour les entreprises constituées sous forme de société, les droits de vote
 attachés aux actions ou aux parts ne doivent pas être détenus, directement ou
 indirectement, pour plus de 50 % par d'autres sociétés ;
 
-((c. Les entreprises créées dans le cadre d'une concentration ou restructuration
+c. Les entreprises créées dans le cadre d'une concentration ou restructuration
 d'activités préexistantes, ou pour la reprise de telles activités, ne peuvent
 bénéficier du dispositif ci-dessus. Toutefois, cette disposition ne s'applique
-pas aux entreprises créées pour la reprise d'établissements en difficulté.)) (M)
+pas aux entreprises créées pour la reprise d'établissements en difficulté.
 
 Les actions souscrites doivent obligatoirement revêtir la forme nominative.
 
 Le bénéfice de la déduction est subordonné au dépôt des titres chez un
-intermédiaire agréé *]condition, obligation*.
+intermédiaire agréé.
 
 Si les actions ou les parts sociales souscrites sont cédées avant l'expiration
 d'un délai de cinq ans à compter de leur souscription, le total des intérêts
@@ -97,9 +113,9 @@ obligations des emprunteurs et des intermédiaires agréés (3).
 
 2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier
 1984, pour souscrire au capital d'une société coopérative ouvrière de production
-[*SCOP*] créée pour reprendre une entreprise dans les conditions fixées à
-l'article 48 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés
-coopératives ouvrières de production.
+créée pour reprendre une entreprise dans les conditions fixées à l'article 48 de
+la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives
+ouvrières de production.
 
 Cette disposition est applicable dans les conditions fixées au 2° quater.
 
@@ -113,18 +129,21 @@ contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article
 pour l'imposition des rémunérations perçues en 1984 ; chaque année, le plafond
 retenu pour l'imposition des revenus de l'année précédente est relevé dans la
 même proportion que la limite supérieure de la première tranche du barème de
-l'impôt sur le revenu (4).
+l'impôt sur le revenu (4) (4').
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
-l'application du pourcentage prévu ((au deuxième alinéa)) (M), un arrêté
-ministériel fixe le taux de la déduction dont les contribuables appartenant à
-ces professions peuvent bénéficier en sus de la déduction forfaitaire visée
-audit alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est
-calculée sur le montant global des rémunérations et des remboursements et
-allocations pour frais professionnels perçus par les intéressés, après
-application à ce montant de la déduction forfaitaire pour frais professionnels
-de 10 % (5).
+l'application du pourcentage prévu au deuxième alinéa, un arrêté ministériel
+fixe le taux de la déduction dont les contribuables appartenant à ces
+professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
+alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée
+sur le montant global des rémunérations et des remboursements et allocations
+pour frais professionnels perçus par les intéressés, après application à ce
+montant de la déduction forfaitaire pour frais professionnels de 10 % (5).
+
+Pour l'imposition des revenus des années 1997, 1998 et 1999, la limite de 50 000
+F mentionnée au troisième alinéa est respectivement fixée à 30 000 F, 20 000 F
+et 10 000 F (1).
 
 Le montant de la ou des déductions forfaitaires pour frais professionnels ne
 peut être inférieur à 2.000 F, sans pouvoir excéder le montant brut des
@@ -132,9 +151,9 @@ traitements et salaires. Cette disposition s'applique séparément aux
 rémunérations perçues par chaque membre du foyer fiscal désigné à l'article 6-1
 et 3.
 
-La somme de 2.000 F figurant ((au quatrième alinéa)) (M) est révisée chaque
-année dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu (6).
+La somme de 2.000 F figurant au cinquième alinéa est révisée chaque année dans
+la même proportion que la limite supérieure de la première tranche du barème de
+l'impôt sur le revenu (6).
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du
 montant de leurs frais réels, soit dans la déclaration visée à l'article 170,
@@ -150,11 +169,11 @@ l'obtention d'un diplôme ou d'une qualification professionnelle dans la
 perspective d'une insertion ou d'une conversion professionnelle par les
 personnes tirant un revenu de la pratique d'un sport.
 
-Les frais de déplacement de moins de quarante kilomètres entre le domicile et le
-lieu de travail sont admis, sur justificatifs, au titre des frais professionnels
-réels. Lorsque la distance est supérieure, la déduction admise porte sur les
-quarante premiers kilomètres, sauf circonstances particulières notamment liées à
-l'emploi justifiant une prise en compte complète.
+Les frais de déplacement (7) de moins de quarante kilomètres entre le domicile
+et le lieu de travail sont admis, sur justificatifs, au titre des frais
+professionnels réels. Lorsque la distance est supérieure, la déduction admise
+porte sur les quarante premiers kilomètres, sauf circonstances particulières
+notamment liées à l'emploi justifiant une prise en compte complète.
 
 (1) Annexe III, art. 38 septdecies.
 
@@ -162,17 +181,14 @@ l'emploi justifiant une prise en compte complète.
 des limites de 19 % et de 3 % est égale à douze fois le plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale.
 
-(M) Modification.
-
 (3) Annexe III, art. 38 septdecies A à 38 septdecies E.
 
 (4) Pour l'imposition des revenus de l'année 1993 la déduction est limitée à
 72.250 F. La limite était de de 70.900 F pour l'imposition des revenus de 1992.
 
-*Cf .Instruction 1994-07-08 5F-8-94.*
-
 (5) Voir les déductions supplémentaires pour frais professionnels aux articles 5
-et 5 A de l'annexe 4.
+et 5 A de l'annexe 4. L'alinéa est supprimé à compter de l'imposition des
+revenus de l'année 2000.
 
 (6) Pour l'imposition des revenus de l'année 1993, le minimum de déduction est
 fixé à 2.160 F.
