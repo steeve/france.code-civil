@@ -25,17 +25,15 @@ auquel cas l'aide personnalisée est versée à cet établissement.
 Lorsque le bénéficiaire est locataire d'un logement compris dans un patrimoine
 conventionné comportant moins de dix logements, l'aide personnalisée est versée
 au bailleur ou au gestionnaire, s'il en fait la demande ; dans le cas contraire,
-elle est versée au locataire.
-
-En outre, elles est versée directement au bénéficiaire qui est dans l'une des
-situations suivantes :
+elle est versée au locataire. En outre, elles est versée directement au
+bénéficiaire qui est dans l'une des situations suivantes :
 
 - locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 :
 
 - propriétaire qui a contracté plusieurs prêts et qui n'a pas donné mandat à un
 établissement habilité, lorsque aucune des mensualités de remboursement de ces
 prêts n'est supérieure ou égale pour la première année au montant de l'aide
-personnalisée.
+personnalisée. - personnes mentionnées à l'article L. 351-15.
 
 Pour l'application du présent article :
 
