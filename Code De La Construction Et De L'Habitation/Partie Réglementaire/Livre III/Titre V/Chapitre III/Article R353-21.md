@@ -1,9 +1,6 @@
 Article R353-21
 ----
-Le loyer est payable par fraction mensuelle à terme échu, sauf convention
-expresse du bail qui peut prévoir le paiement par terme à échoir, jusqu'à une
-date qui est fixée par les conventions.
-
-Après paiement intégral du loyer et des sommes accessoires, une quittance
-conforme aux prescriptions de la convention est remise par le bailleur au
-locataire.
+Le locataire peut donner congé à tout moment, dans les conditions définies par
+les conventions, sous réserve d'un préavis de trois mois, ramené à un mois en
+cas de changement de résidence pour raisons familiales graves ou raisons
+professionnelles.

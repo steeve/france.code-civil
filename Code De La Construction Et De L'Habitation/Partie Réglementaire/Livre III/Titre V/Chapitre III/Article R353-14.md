@@ -1,6 +1,8 @@
 Article R353-14
 ----
-Les organismes bailleurs sont tenus [*obligation*] d'établir et de tenir, pour
-chacun des immeubles de leur patrimoine conventionné, un carnet d'entretien où
-sont consignés tous renseignements sur les interventions d'entretien, de
-réparation ou d'amélioration faites ou à faire par eux sur l'immeuble.
+Les conventions fixent les conditions d'occupation des logements conformément à
+celles prévues par l'article R. 441-3.
+
+Au fur et à mesure des vacances, les logements sont loués à des personnes dont
+les ressources annuelles n'excèdent pas le plafond déterminé dans les conditions
+prévues par le titre III, chapitre unique, section I, du présent livre.
