@@ -7,9 +7,11 @@ catégories ou grades.
 
 Les fonctions dont il s'agit sont :
 
-- Celles exercées par les directeurs en application de l'article 408 ;
+- celles exercées par les directeurs en application de l'article 408 ;
 
-- Celles prévues par l'article 376.
+- celles prévues par l'article 350 terdecies de l'annexe III au code général des
+impôts pour la fixation des bases d'imposition ou la notification des
+redressements ;
 
-- Celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures
+- celles prévues par les articles R. 81-1 et R. 81-2 du livre des procédures
 fiscales relatifs au droit de communication.
