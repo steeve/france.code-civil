@@ -1,13 +1,13 @@
 Article D4233-10
 ----
 Les candidats peuvent demander que soit envoyée, avec les documents électoraux
-prévus à l'article D. 4233-11, une circulaire rédigée par eux à l'intention des
+prévus à l'article D. 4233-13, une circulaire rédigée par eux à l'intention des
 électeurs.
 
 Chaque tandem de candidats ne peut faire envoyer aux électeurs, avant chaque
 scrutin, qu'une seule circulaire sur un feuillet qui ne peut dépasser le format
-210 x 297 mm. Il remet au siège du conseil expéditeur le nombre d'exemplaires
-nécessaires à l'envoi.
+210 x 297 mm. Il fait parvenir un exemplaire de cette circulaire au conseil
+expéditeur en même temps que sa candidature.
 
 Ces circulaires, rédigées en français, ne peuvent être consacrées qu'à la
 présentation des candidats au nom desquels elles sont diffusées et à des

@@ -1,7 +1,9 @@
 Article D4233-14
 ----
-Les noms des électeurs ayant participé au scrutin sont pointés sur la liste
-électorale.
+Pour voter par voie électronique, l'électeur, après s'être connecté au système
+de vote, s'identifie au moyen de son code et de son mot de passe, exprime son
+vote et le valide. La validation du vote le rend définitif et empêche toute
+modification.
 
-Une fois le pointage effectué, les enveloppes extérieures sont décachetées et
-réunies afin d'être jointes au procès-verbal prévu à l'article D. 4233-16.
+La transmission du vote et l'émargement de l'électeur font l'objet d'un avis de
+réception électronique sur lequel figure la date de cette réception.
