@@ -1,11 +1,11 @@
 Article 381 S
 ----
-1. Les sommes retenues au cours de chaque mois au titre du prélèvement prévu par
-l'article 125 A du code général des impôts sont versées au Trésor dans les
+1. Les sommes retenues au cours de chaque mois, au titre du prélèvement prévu
+par l'article 125 A du code général des impôts sont versées au Trésor dans les
 quinze premiers jours du mois suivant (1).
 
-Sous réserve des dispositions du 3, le versement est fait à la recette des
-impôts du lieu de l'établissement payeur.
+Le versement est fait à la recette des impôts désignée par le ministre chargé du
+budget.
 
 2. Chaque versement est accompagné du dépôt d'une déclaration établie en double
 exemplaire sur une formule délivrée par l'administration.
@@ -17,8 +17,8 @@ l'administration en vue du contrôle (2).
 Il fixe les conditions dans lesquelles le prélèvement opéré par ces
 établissements peut faire l'objet de versements globaux (3).
 
-(1) Disposition nouvelle s'appliquant aux retenues effectuées à compter du 1er
-septembre 1991.
+(1) Disposition applicable aux prélèvements effectués à compter du 1er septembre
+1991.
 
 (2) Annexe IV, art. 17 B et 17 C.
 
