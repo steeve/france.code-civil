@@ -1,8 +1,7 @@
 Article L135-2
 ----
-Les dépenses prises en charge par le fonds visé à l'article L. 135-1 font
-l'objet de deux sections distinctes ainsi constituées : Section 1 : Dépenses à
-titre permanent
+Les dépenses prises en charge par le fonds visé à l'article L. 135-1 sont les
+suivantes :
 
 1° Le financement des allocations aux personnes âgées mentionnées :
 
@@ -44,6 +43,17 @@ même code et de l'allocation de préparation à la retraite mentionnée à l'ar
 c) Des périodes de chômage non indemnisé visées au 3° de l'article L. 351-3 du
 présent code ;
 
+5° Les sommes correspondant à la prise en compte par les régimes d'assurance
+vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
+L. 621-3 du présent code et à l'article 1024 du code rural des réductions de la
+durée d'assurance ou de périodes reconnues équivalentes, définies à l'article L.
+351-7-1 ci-après ;
+
+6° Les sommes correspondant au paiement par les organismes visés aux articles
+1002 et 1142-8 du code rural des majorations des pensions accordées en fonction
+du nombre d'enfants aux ressortissants du régime de protection sociale des
+personnes non salariées des professions agricoles.
+
 Les sommes mentionnées au a et b du 4° sont calculées sur une base forfaitaire
 déterminée après avis des conseils d'administration des caisses des régimes
 d'assurance vieillesse de base concernées dans des conditions fixées par décret
@@ -53,20 +63,3 @@ Les sommes mentionnées au c du 4° sont calculées sur une base forfaitaire
 déterminée par arrêté conjoint du ministre chargé de la sécurité sociale et du
 ministre chargé du budget, après avis du conseil d'administration de la Caisse
 nationale d'assurance vieillesse des travailleurs salariés.
-
-5° Les sommes correspondant à la prise en compte par les régimes d'assurance
-vieillesse de base mentionnés au titre V du livre III, aux 1° et 2° de l'article
-L. 621-3 du présent code et à l'article 1024 du code rural des réductions de la
-durée d'assurance ou de périodes reconnues équivalentes, définies à l'article L.
-351-7-1 ci-après.
-
-6° Les sommes correspondant au paiement par les organismes visés aux articles
-1002 et 1142-8 du code rural des majorations des pensions accordées en fonction
-du nombre d'enfants aux ressortissants du régime de protection sociale des
-personnes non salariées des professions agricoles. Section 2 : Dépenses à titre
-exceptionnel
-
-Le remboursement échelonné à l'Etat, en capital et en intérêt, des sommes
-nécessaires à la prise en charge par celui-ci des avances accordées à l'Agence
-centrale des organismes de sécurité sociale telles qu'elles seront arrêtées au
-31 décembre 1993.
