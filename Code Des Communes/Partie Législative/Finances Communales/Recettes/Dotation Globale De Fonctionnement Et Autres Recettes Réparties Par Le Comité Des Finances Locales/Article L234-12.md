@@ -4,5 +4,6 @@ Dans les cas prévus aux articles suivants, des concours particuliers peuvent
 être apportés aux communes et à certains de leurs groupements.
 
 La part des ressources affectées aux concours particuliers, fixée à 4 p. 100 de
-la dotation globale de fonctionnement, peut être portée jusqu'à 5 p. 100 par le
-comité des finances locales institué par l'article L. 234-20.
+la dotation globale de fonctionnement après déduction du montant de la dotation
+spéciale prévue à l'article L. 234-19-2, peut être portée jusqu'à 5 p. 100 par
+le comité des finances locales institué par l'article L. 234-20.

@@ -2,7 +2,7 @@ Article 719
 ----
 Les mutations de propriété à titre onéreux de fonds de commerce ou de clientèles
 sont soumises à un droit d'enregistrement de 13,80 %. Lorsque l'assiette du
-droit n'excède pas 50.000 F [*montant plafond*], le calcul de ce droit
+droit n'excède pas 100.000 F [*montant plafond*], le calcul de ce droit
 s'effectue après un abattement de 20.000 F.
 
 Le droit est perçu sur le prix de la vente de l'achalandage, de la cession du

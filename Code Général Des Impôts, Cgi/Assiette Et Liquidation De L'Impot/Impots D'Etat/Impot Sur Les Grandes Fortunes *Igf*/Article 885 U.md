@@ -12,19 +12,19 @@ Le tarif de l'impôt est fixé à :
 
 : : % :
 
-: N'excédant pas 3.000.000 F : 0 :
+: N'excédant pas 3.200.000 F : 0 :
 
-: Comprise entre 3.000.000 F : :
+: Comprise entre 3.200.000 F : :
 
-: et 5.000.000 F : 0,5 :
+: et 5.300.000 F : 0,5 :
 
-: Comprise entre 5.000.000 F : :
+: Comprise entre 5.300.000 F : :
 
-: et 10.000.000 F : 1 :
+: et 10.600.000 F : 1 :
 
-: Supérieure à 10.000.000 F : 1,5 :
+: Supérieure à 10.600.000 F : 1,5 :
 
 ============================================================ Les limites des
-tranches prévues ci-dessus sont augmentées de 2.000.000 F [*montant*] lorsque le
+tranches prévues ci-dessus sont augmentées de 2.200.000 F [*montant*] lorsque le
 patrimoine comprend des biens professionnels d'une valeur totale supérieure à
 cette somme.

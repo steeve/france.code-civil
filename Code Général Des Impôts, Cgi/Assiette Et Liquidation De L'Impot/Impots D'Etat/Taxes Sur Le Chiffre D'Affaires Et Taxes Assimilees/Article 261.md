@@ -85,9 +85,10 @@ juillet 1919 et le décret du 14 septembre 1956;
 la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation
 professionnelle agricole;
 
-- de la formation professionnelle continue assurée dans les conditions prévues
-par la loi n° 71-575 du 16 juillet 1971 portant organisation de la formation
-professionnelle continue dans le cadre de l'éducation permanente;
+- de la formation professionnelle continue assurée par les personnes morales de
+droit public, dans les conditions prévues par les articles L. 900-1 et suivants
+du code du travail (livre IX) relatifs à la formation professionnelle continue
+dans le cadre de l'éducation permanente (4) ;
 
 - de l'enseignement primaire, secondaire, supérieur ou technique à distance,
 dispensé par les organismes publics ou les organismes privés régis par la loi n°
@@ -111,16 +112,11 @@ traducteurs et interprètes de langues étrangères, les guides et accompagnateu
 les sportifs, les artistes du spectacle et les dresseurs d'animaux;
 
 7° Les prestations effectuées par les avocats, les avocats au Conseil d'Etat et
-à la Cour de cassation, les avoués d'appel, les greffiers des tribunaux de
-commerce, les conseils juridiques et fiscaux inscrits sur la liste établie par
-le procureur de la République, les notaires, les huissiers de justice, les
-commissaires-priseurs, les commissaires aux comptes, les liquidateurs
-judiciaires, les syndics et les administrateurs judiciaires, lorsqu'elles
-relèvent de leur activité spécifique telle qu'elle est définie par la
-réglementation applicable à leur profession;
+à la Cour de cassation et les avoués d'appel, lorsqu'elles relèvent de leur
+activité spécifique telle qu'elle est définie par la réglementation applicable à
+leur profession ;
 
-8° Les expertises ayant trait à l'évaluation des indemnités d'assurances ainsi
-que les expertises judiciaires;
+8° (Abrogé).
 
 9° Les prestations de services et les livraisons de biens qui leur sont
 étroitement liées fournies à leurs membres, moyennant une cotisation fixée
@@ -157,7 +153,7 @@ d Les opérations immobilières résultant de l'application des dispositions de
 l'article 15 de la loi n° 60-808 du 5 août 1960 d'orientation agricole,
 réalisées par les sociétés d'aménagement foncier et d'établissement rural
 constituées en application de ce même article et agréées par le ministre de
-l'agriculture et le ministre du budget (4);
+l'agriculture et le ministre du budget (5);
 
 e (Disposition périmée);
 
@@ -227,7 +223,7 @@ réalisées à des prix comparables par des entreprises commerciales, en raison
 notamment du concours désintéressé des membres de ces organismes ou des
 contributions publiques ou privées dont ils bénéficient;
 
-c Les recettes de quatre manifestations de bienfaisance ou de soutien [*nombre*]
+c Les recettes de six manifestations de bienfaisance ou de soutien [*nombre*]
 organisées dans l'année à leur profit exclusif par les organismes désignés au a
 et b ainsi que par les organismes permanents à caractère social des
 collectivités locales et des entreprises;
@@ -248,7 +244,7 @@ de reprise des apports.
 
 Tous les organismes concernés par les a, b et c sont placés sous le régime du
 chiffre d'affaires réel; un décret en conseil d'Etat détermine leurs obligations
-ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5);
+ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (6);
 
 2° Les opérations effectuées par les institutions ou les établissements fondés
 par des associations sous le régime de la loi de 1901, par des groupements
@@ -279,6 +275,8 @@ mentionnées à l'article 260-1°;
 
 3) Annexe IV, art. 24.
 
-4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
+4) Art. L900-1 à L990-8 du code du travail.
 
-5) Annexe II, art. 242 B et 242 octies.
+5) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
+
+6) Annexe II, art. 242 B et 242 octies.

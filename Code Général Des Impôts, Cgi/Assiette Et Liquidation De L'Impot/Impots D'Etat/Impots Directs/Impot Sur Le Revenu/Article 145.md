@@ -12,19 +12,12 @@ b. Ils doivent représenter au moins 10 % du capital de la société émettrice 
 pourcentage s'apprécie à la date de la mise en paiement des produits de la
 participation.
 
-Toutefois :
+Toutefois aucun pourcentage minimal n'est exigé pour les titres reçus en
+rémunération d'apports partiels admis au régime fiscal des fusions ou d'apports
+consentis à des groupements d'emprunt professionnels créés pour faciliter le
+financement des investissements dans certains secteurs de l'économie ;
 
-- aucun pourcentage minimal n'est exigé pour les titres reçus en rémunération
-d'apports partiels admis au régime fiscal des fusions ou d'apports consentis à
-des groupements d'emprunt professionnels créés pour faciliter le financement des
-investissements dans certains secteurs de l'économie, non plus que pour les
-participations dont le prix de revient excède 10 millions F [*montant*] ;
-
-- toute société qui bénéficie du régime fiscal des sociétés mères en conserve le
-bénéfice dès lors qu'elle ne réduit pas le montant de sa participation et que le
-prix de revient de cette dernière atteint au moins 2 millions F ;
-
-c - Les titres de participations doivent avoir été souscrits à l'émission. A
+c. Les titres de participation doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
 conserver pendant un délai de deux ans.
 
@@ -83,21 +76,16 @@ A, du bénéfice imposable des sociétés distributrices (2) ;
 b ter. Aux produits des actions à dividende prioritaire sans droit de vote
 prévues par l'article 177-1 de la loi n° 66-537 du 24 juillet 1966 (3).
 
-c. (Périmé);
-
-d. Aux produits des actions des sociétés immobilières pour le commerce et
-l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n° 67-837 du 28
-septembre 1967 ;
+c. (Périmé) d. Aux produits des actions des sociétés immobilières pour le
+commerce et l'industrie [*SICOMI*] visées à l'article 5 de l'ordonnance n°
+67-837 du 28 septembre 1967 ;
 
 e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le
 financement des télécommunications visées à l'article 1er de la loi n° 69-1160
 du 24 décembre 1969 ;
 
 f. Aux produits distribués aux associés des sociétés agréées pour le financement
-d'installations ou de matériels destinés à économiser l'énergie, à développer
-les sources d'énergie de remplacement des hydrocarbures ou à promouvoir les
-utilisations du charbon, mentionnées à l'article 30 de la loi n° 80-531 du 15
-juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+des économies d'énergie mentionnées à l'article 208-3° sexies.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
 actions des sociétés immobilières d'investissement régies par l'article 33-I de
@@ -125,9 +113,9 @@ En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal
 participation n'est exigé pour l'application du régime défini au présent
 article.
 
-8. (Transféré sous le paragraphe 6 - d du ci-dessus).
+8. (Transféré sous le paragraphe 6-d du ci-dessus).
 
-(1) Voir annexe II, art. 54 à 56.
+(1) Voir Annexe II, art. 54 à 56.
 
 (2) Annexe II, art. 102 F.
 

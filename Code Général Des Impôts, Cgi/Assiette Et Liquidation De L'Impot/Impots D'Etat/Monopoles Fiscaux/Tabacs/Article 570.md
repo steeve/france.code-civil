@@ -8,13 +8,15 @@ aux obligations suivantes :
 2° Conserver la propriété des tabacs depuis leur entrée ou leur fabrication en
 France jusqu'à leur vente au détail après consignation chez le débitant;
 
-3° Consentir la remise fixée par l'autorité administrative, à l'exclusion de
-tout autre avantage direct ou indirect;
+3° Consentir à chaque débitant une remise dont le taux minimum est fixé par
+arrêté (1). Cette remise comprend l'ensemble des avantages directs ou indirects
+qui lui sont alloués ;
 
-4° Consentir du crédit à tous les débitants dans les mêmes conditions;
+4° Consentir à chaque débitant les crédits minima dans des conditions fixées par
+décret en Conseil d'Etat (2) ;
 
-5° Livrer à ses frais les tabacs commandés par tout débitant, sous réserve d'un
-minimum de commandes, quelle que soit la localisation géographique du débit;
+5° Livrer les tabacs commandés par tout débitant quelle que soit la localisation
+géographique du débit;
 
 6° Utiliser pour chaque livraison à un débitant un document revêtu de la marque
 du monopole de vente au détail, conforme au modèle fixé par l'administration des
@@ -42,3 +44,7 @@ contributions indirectes.
 Il peut être dérogé à tout ou partie des obligations prévues ci-dessus dans le
 cas des tabacs dits "de vente restreinte" destinés aux personnes qui en sont
 bénéficiaires en vertu des lois en vigueur.
+
+(1) Arrêté à émettre.
+
+(2) Décret à émettre.
