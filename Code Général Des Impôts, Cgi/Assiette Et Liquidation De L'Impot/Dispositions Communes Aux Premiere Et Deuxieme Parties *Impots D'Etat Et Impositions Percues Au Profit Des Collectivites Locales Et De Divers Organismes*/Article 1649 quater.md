@@ -11,10 +11,10 @@ par les agents des impôts, du contrôle et des enquêtes économiques et de la
 répression des fraudes.
 
 2 La justification exigée des personnes désignées au 1 consiste dans la
-production d'un titre, valable pour une année civile, délivré par le préfet ou
-le sous-préfet dans les conditions prévues par l'article 2 du décret n° 53-876
-du 22 septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce
-décret (1).
+production d'un titre, valable pour une année civile, délivré par le commissaire
+de la République ou le commissaire adjoint de la République dans les conditions
+prévues par l'article 2 du décret n° 53-876 du 22 septembre 1953 et par l'arrêté
+interministériel visé à l'article 3 de ce décret (1).
 
 3 Le rattachement à une commune prévu pour toute personne qui sollicite la
 délivrance du titre de circulation institué par la loi n° 69-3 du 3 janvier 1969

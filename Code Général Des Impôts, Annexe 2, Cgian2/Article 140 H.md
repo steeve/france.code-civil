@@ -6,5 +6,6 @@ départemental [*de la formation professionnelle, de la promotion sociale et de
 l'emploi*], devant la commission spéciale prévue à l'article 227 du code général
 des impôts.
 
-Le préfet peut également former un recours contre les décisions du comité
-départemental dans les deux mois suivant l'adoption de ces décisions.
+Le commissaire de la République peut également former un recours contre les
+décision du comité départemental dans les deux mois suivant l'adoption de ces
+décisions.

@@ -7,9 +7,9 @@ motrice et il est procédé à la répartition des cotisations correspondantes e
 les communes visées audit article.
 
 Si ces communes sont situées dans le même département la répartition est réglée
-par arrêté du préfet rendu sur les propositions du directeur des services
-fiscaux et après avis de l'ingénieur en chef du contrôle dans les trois mois
-suivant celui de la mise en recouvrement du rôle.
+par arrêté du commissaire de la République rendu sur les propositions du
+directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle
+dans les trois mois suivant celui de la mise en recouvrement du rôle.
 
 Si les communes intéressées sont situées dans des départements différents la
 répartition est réglée par arrêté du ministre de l'économie et des finances du

@@ -27,8 +27,8 @@ Un titulaire et deux suppléants désignés par les fédérations départemental
 syndicats d'exploitants agricoles du département, parmi les propriétaires ruraux
 passibles de l'impôt sur les bénéfices de l'exploitation agricole. Lorsqu'il
 existe dans un département plusieurs fédérations de syndicats d'exploitants
-agricoles, les membres de la commission sont nommés par le préfet, sur
-proposition de ces fédérations;
+agricoles, les membres de la commission sont nommés par le commissaire de la
+République, sur proposition de ces fédérations;
 
 Un titulaire et deux suppléants choisis par la ou les chambres syndicales de
 propriétaires du département.
@@ -36,7 +36,7 @@ propriétaires du département.
 Les représentants ainsi désignés doivent être de nationalité française, âgés de
 vingt-cinq ans au moins et jouir de leurs droits civils.
 
-II Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux
+Un inspecteur des impôts remplit les fonctions de secrétaire et assiste aux
 séances avec voix consultative.
 
 III Les membres non fonctionnaires de la commission sont nommés pour un an et
@@ -46,5 +46,5 @@ professionnel.
 IV La commission se réunit sur la convocation du directeur des services fiscaux.
 
 La commission délibère valablement, à condition qu'il y ait au moins cinq
-membres présents [*quorum*], y compris le président. En cas de partage des voix,
-celle du président est prépondérante.
+membres présents, y compris le président. En cas de partage des voix, celle du
+président est prépondérante.

@@ -1,11 +1,11 @@
 Article 384 F
 ----
 Comme il est dit à l'article R 333-9 du code de l'urbanisme, l'intervention
-d'une décision du préfet ou, en cas d'application de l'article R 421-22 du code
-précité d'une décision du maire, constatant la péremption soit du permis de
-construire, soit de la déclaration préalable à la construction, entraîne de
-plein droit la restitution du versement pour dépassement du plafond légal de
-densité.
+d'une décision du commissaire de la République ou, en cas d'application de
+l'article R 421-22 du code précité d'une décision du maire, constatant la
+péremption soit du permis de construire, soit de la déclaration préalable à la
+construction, entraîne de plein droit la restitution du versement pour
+dépassement du plafond légal de densité.
 
 Sans préjudice de l'application de l'article L 333-13 du même code, lorsque
 l'auteur de la déclaration préalable renonce à la construction projetée et

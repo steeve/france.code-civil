@@ -1,9 +1,10 @@
 Article 1659
 ----
-La date de mise en recouvrement des rôles est fixée par le préfet ou, en cas de
-délégation de la formalité d'homologation, par le directeur des services fiscaux
-d'accord avec le trésorier-payeur général. Cette date est indiquée sur le rôle
-ainsi que sur les avis d'imposition délivrés aux contribuables [*mention*].
+La date de mise en recouvrement des rôles est fixée par le commissaire de la
+République ou, en cas de délégation de la formalité d'homologation, par le
+directeur des services fiscaux d'accord avec le trésorier-payeur général. Cette
+date est indiquée sur le rôle ainsi que sur les avis d'imposition délivrés aux
+contribuables [*mention*].
 
 Lorsque des erreurs d'expédition sont constatées dans les rôles, un état de ces
 erreurs est dressé par le directeur des services fiscaux et approuvé dans les

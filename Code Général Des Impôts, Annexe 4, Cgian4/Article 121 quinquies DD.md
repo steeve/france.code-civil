@@ -9,7 +9,8 @@ directions dans le département) président ou son représentant;
 grade d'inspecteur principal;
 
 3° Deux représentants des collectivités locales ou de leurs groupements
-(communautés urbaines ou districts) désignés par le préfet;
+(communautés urbaines ou districts) désignés par le commissaire de la
+république;
 
 4° Des membres titulaires et des membres suppléants représentants des
 contribuables concernés par l'actualisation savoir :

@@ -13,9 +13,10 @@ agréées s'entendent de celles qui, dans le cadre des objectifs du Plan, sont d
 nature soit à réduire les importations, soit à ouvrir de nouveaux marchés, soit
 à assurer le développement économique et social du département considéré.
 
-III Un arrêté du préfet pris sur avis de la commission d'aménagement foncier,
-fixe la liste des cultures agréées dans le département ainsi que, pour chacune
-d'elles, l'aire géographique dans laquelle celle-ci est agréée. Cet arrêté
-précise, en outre, en tant que de besoin, les caractéristiques que doivent
-présenter les cultures au regard de la densité des plantations, des variétés de
-plants recommandés ou tolérés et des conditions d'entretien.
+III Un arrêté du commissaire de la République pris sur avis de la commission
+d'aménagement foncier, fixe la liste des cultures agréées dans le département
+ainsi que, pour chacune d'elles, l'aire géographique dans laquelle celle-ci est
+agréée. Cet arrêté précise, en outre, en tant que de besoin, les
+caractéristiques que doivent présenter les cultures au regard de la densité des
+plantations, des variétés de plants recommandés ou tolérés et des conditions
+d'entretien.

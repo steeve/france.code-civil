@@ -8,4 +8,4 @@ des impôts peuvent être remplacés par des inspecteurs des impôts.
 2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux
 visés à l'article 1653 A-I-5° du code général des impôts le notaire et les
 représentants des contribuables à la commission départementale de conciliation
-sont désignés par le préfet.
+sont désignés par le commissaire de la République.

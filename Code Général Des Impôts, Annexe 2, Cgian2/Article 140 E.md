@@ -7,7 +7,7 @@ du décret mentionné à l'article 140-D-5o, ainsi que l'année à laquelle il s
 rapporte.
 
 Dans le délai de quinze jours à compter de la délivrance du reçu, l'organisme
-bénéficiaire du versement adresse au préfet dont il relève la copie de ce reçu.
-Cette copie porte l'indication du montant total des sommes que l'organisme a
-touchées au titre de la taxe d'apprentissage depuis le 1er janvier de l'année en
-cours.
+bénéficiaire du versement adresse au commissaire de la République dont il relève
+la copie de ce reçu. Cette copie porte l'indication du montant total des sommes
+que l'organisme a touchées au titre de la taxe d'apprentissage depuis le 1er
+janvier de l'année en cours.
