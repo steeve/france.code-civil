@@ -17,7 +17,8 @@ c) Des personnes vivant seules, se trouvant dans l'obligation de recourir à
 l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie
 et titulaires :
 
-- soit d'un avantage de vieillesse servi en application du présent code ;
+- soit d'un avantage de vieillesse servi en application du présent code ou du
+code rural ;
 
 - soit d'une pension d'invalidité servie par un régime spécial de sécurité
 sociale, sous réserve d'avoir dépassé un âge déterminé par décret ;

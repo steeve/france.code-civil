@@ -39,8 +39,8 @@ Les cotisations dues sur les avantages de retraite ainsi que sur les allocations
 et revenus de remplacement sont précomptées, lors de chaque versement, par
 l'organisme débiteur de ces pensions ou allocations.
 
-Les dispositions des articles 1033 à 1036, 1143 à 1143-4 s'appliquent au
-recouvrement des cotisations visées à l'alinéa précédent, sous réserve
+Les dispositions des articles 1033-1 à 1036 et 1143 à 1143-5 s'appliquent au
+recouvrement des cotisations mentionnées à l'alinéa précédent, sous réserve
 d'adaptations fixées par voie réglementaire.
 
 Le versement des cotisations est suspendu pendant la période du service national
@@ -48,3 +48,8 @@ ou en cas d'appel sous les drapeaux.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériels
 pour certaines catégories de travailleurs salariés ou assimilés.
+
+La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du
+travail dont l'activité n'excède pas la durée fixée par le décret prévu à
+l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à
+cotisations d'assurances sociales agricoles.

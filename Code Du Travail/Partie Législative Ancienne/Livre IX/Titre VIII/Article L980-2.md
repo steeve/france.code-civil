@@ -19,10 +19,10 @@ Les enseignements généraux, professionnels et technologiques dispensés pendan
 la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la
 durée totale du contrat.
 
-Les dispositions du premier alinéa de l'article L. 122-3-12 ne sont pas
+Les dispositions du premier alinéa de l'article L. 122-3-11 ne sont pas
 applicables au contrat de qualification.
 
-Les dispositions de l'article L. 122-3-11, premier alinéa, du présent code, ne
+Les dispositions de l'article L. 122-3-10, premier alinéa, du présent code, ne
 s'appliquent pas au contrat de qualification.
 
 Les entreprises de travail temporaire peuvent également embaucher des jeunes de

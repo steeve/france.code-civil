@@ -15,10 +15,3 @@ justification, soumise par l'intéressé à l'appréciation de la commission de
 recours amiable, d'une modification importante des conditions d'exploitation. Il
 est procédé à régularisation après connaissance des revenus de la période en
 cause.
-
-Lorsque le titulaire d'une pension ou allocation de vieillesse allouée ou
-révisée au titre de l'inaptitude au travail cesse, postérieurement à la date de
-sa demande de pension, d'exercer son activité professionnelle et que
-l'exploitation du fonds ou de l'entreprise est reprise par son conjoint, il est
-tenu compte pour l'application du présent article, du revenu professionnel
-retiré de cette exploitation par ledit conjoint.
