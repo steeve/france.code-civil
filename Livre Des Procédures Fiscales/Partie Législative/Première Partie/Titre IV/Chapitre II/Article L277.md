@@ -13,18 +13,20 @@ Lorsque l'administration a fait application des majorations prévues à l'articl
 montant des pénalités de retard qui seraient exigibles si la bonne foi n'avait
 pas été mise en cause.
 
+En cas de réclamation relative à l'assiette d'impositions et portant sur un
+montant de droits inférieur à celui fixé par décret, le débiteur est dispensé de
+constituer des garanties.
+
 A défaut de constitution de garanties ou si les garanties offertes sont estimées
 insuffisantes, le comptable peut prendre des mesures conservatoires pour les
-impôts contestés, jusqu'à la saisie inclusivement. Mais la vente ne peut être
-effectuée ou la contrainte par corps ne peut être exercée jusqu'à ce qu'une
-décision définitive ait été prise sur la réclamation soit par l'administration,
-soit par le tribunal compétent.
+impôts contestés. L'exigibilité de la créance et la prescription de l'action en
+recouvrement sont suspendues jusqu'à ce qu'une décision définitive ait été prise
+sur la réclamation soit par l'administration, soit par le tribunal compétent.
 
-Lorsque le comptable a notifié un avis à un tiers détenteur ou a fait procéder à
-une saisie en application de l'alinéa précédent, le contribuable peut demander
-au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de
-prononcer la limitation ou l'abandon de ces mesures si elles comportent des
-conséquences difficilement réparables. Les dispositions des troisième et
-quatrième alinéas de l'article L. 279 sont applicables à cette procédure, le
-tribunal d'appel étant, selon le cas, le tribunal administratif ou le tribunal
-de grande instance.
+Lorsque le comptable a fait procéder à une saisie conservatoire en application
+du quatrième alinéa, le contribuable peut demander au juge du référé prévu,
+selon le cas, aux articles L. 279 et L. 279 A, de prononcer la limitation ou
+l'abandon de cette mesure si elle comporte des conséquences difficilement
+réparables. Les dispositions des troisième et quatrième alinéas de l'article L.
+279 sont applicables à cette procédure, la juridiction d'appel étant, selon le
+cas, le tribunal administratif ou le tribunal de grande instance.

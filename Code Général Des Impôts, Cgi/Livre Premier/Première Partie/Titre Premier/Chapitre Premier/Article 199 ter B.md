@@ -2,7 +2,7 @@ Article 199 ter B
 ----
 I. Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B
 est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année
-au cours de laquelle il a accru ses dépenses de recherche. L'excédent de crédit
+au cours de laquelle il a accru ses dépenses de recherche.L'excédent de crédit
 d'impôt constitue au profit de l'entreprise une créance sur l'Etat d'égal
 montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû
 au titre des trois années suivant celle au titre de laquelle elle est constatée
@@ -30,7 +30,7 @@ et revalorisées comme indiqué au I de l'article 244 quater B, il est pratiqué
 dans la limite des crédits d'impôts antérieurement obtenus, une imputation égale
 à 50 % du montant de la différence sur le ou les crédits d'impôts suivants.
 
-La fraction du crédit d'impôt négatif défini à l'alinéa précédent reporté au 1er
+La fraction du crédit d'impôt négatif défini au premier alinéa reporté au 1er
 janvier 1999 qui trouve son origine au titre de 1992 ou d'une année antérieure
 est annulée.
 
@@ -38,4 +38,4 @@ En cas de fusion ou opération assimilée intervenant au cours de la période vi
 à la troisième phrase du premier alinéa du I, le crédit d'impôt négatif de la
 société apporteuse est transféré à la société bénéficiaire de l'apport.
 
-III. (Abrogé).
+III. (Périmé).

@@ -15,5 +15,5 @@ Sont réputées détruites les capsules représentatives de droits des bouteille
 récipients de vin expédiées hors de France. La restitution ou la remise des
 droits est accordée après constatation par le service des douanes et droits
 indirects de la preuve de la sortie du produit de la Communauté européenne ou
-présentation du document mentionné au I de l'article 302 M du code général des
+présentation d'un des documents mentionnés à l'article 302 M du code général des
 impôts, pris en charge par le destinataire.

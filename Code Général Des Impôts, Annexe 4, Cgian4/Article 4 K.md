@@ -25,7 +25,7 @@ diminué, le cas échéant, des dépenses qui, incombant à ces mêmes personnes
 
 d. Pour les dépenses visées au 4°, des cadeaux de toute nature, à l'exception de
 ceux qui sont spécialement conçus pour la publicité et dont la valeur unitaire
-n'excède pas 200 F, toutes taxes comprises, par bénéficiaire ;
+n'excède pas 30 euros, toutes taxes comprises, par bénéficiaire ;
 
 e. Pour les frais visés au 5°, des frais de réception, y compris les frais de
 restaurant et de spectacles, qui se rattachent à la gestion de l'entreprise et

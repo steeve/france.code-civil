@@ -21,7 +21,13 @@ automatiques ;
 Matériels de transfert : élévateurs et releveurs hydrauliques ou électriques,
 lève-personnes ;
 
-Fauteuils roulants.
+Fauteuils roulants ;
+
+Appareils modulaires de verticalisation ;
+
+Appareils de soutien partiel de la tête ;
+
+Casques de protection pour enfants handicapés ;
 
 2. Pour aveugles et malvoyants :
 
@@ -30,7 +36,7 @@ en relief (braille) ;
 
 Téléagrandisseurs et systèmes optiques télescopiques ;
 
-Cartes électroniques et logiciels spécialisés.
+Cartes électroniques et logiciels spécialisés ;
 
 3. Pour sourds et malentendants :
 
@@ -40,9 +46,17 @@ Orthèses vibratoires (amplificateurs de voix) ;
 
 Implants cochléaires ;
 
-Logiciels spécifiques.
+Logiciels spécifiques ;
 
-4. Pour l'ensemble des handicapés afin de faciliter la conduite ou l'accès des
+4. Pour d'autres handicapés :
+
+Filtres respiratoires et protections trachéales pour laryngectomisés ;
+
+Appareils de photothérapie ;
+
+Appareils de recueil de saignées ;
+
+5. Pour l'ensemble des handicapés afin de faciliter la conduite ou l'accès des
 véhicules :
 
 Siège orthopédique (siège pivotant, surélevé ...) ;

@@ -50,12 +50,12 @@ niveau forfaitaire défini en euro par décision du Conseil de l'Union européen
 
 Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du
 ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget fixe
-les taux de la redevance à partir des taux de conversion en francs de l'euro.
+les taux de la redevance (1).
 
 Le taux de la redevance applicable aux ovoproduits est fixé, par arrêté conjoint
 du ministre de l'économie, des finances et de l'industrie, du ministre de
 l'agriculture et de la pêche et du secrétaire d'Etat au budget, dans la limite
-de 5 F par tonne d'oeufs en coquille.
+de 0,76 euro par tonne d'oeufs en coquille.
 
 III. - La redevance est recouvrée et contrôlée selon les mêmes procédures et
 sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la
@@ -65,4 +65,8 @@ Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à cette même taxe.
 
 IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
-article.
+article (2).
+
+(1) Voir l'article 50 quaterdecies-0 A ter de l'annexe IV.
+
+(2) Voir l'article 267 quater H de l'annexe II.

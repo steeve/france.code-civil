@@ -11,8 +11,8 @@ précité.
 L'imputation sur l'impôt sur le revenu établi en France est effectuée par voie
 de dégrèvement sur justification du paiement de l'impôt acquitté hors de France
 par le contribuable et des éléments relatifs à sa liquidation. Cet impôt est
-converti en francs français sur la base du taux de change en vigueur à la date
-de paiement de cet impôt.
+converti en euros sur la base du taux de change en vigueur à la date de paiement
+de cet impôt.
 
 Lorsque la cession réalisée hors de France, qui constitue le fait générateur de
 l'expiration du sursis de paiement prévu au II de l'article 167 bis du code

@@ -10,9 +10,13 @@ revenus ou bénéfices qui sont soumis à l'impôt sur le revenu.
 
 Dans tous les cas, la déclaration prévue au premier alinéa doit mentionner
 également le montant des bénéfices exonérés en application des articles 44
-sexies, 44 octies et 44 decies ainsi que le montant des produits de placement
-soumis à compter du 1er janvier 1999 aux prélèvements libératoires opérés en
-application de l'article 125 A.
+sexies, 44 octies, 44 decies, le montant des revenus exonérés en application de
+l'article 81 A, le montant des indemnités de fonction des élus locaux, après
+déduction de la fraction représentative des frais d'emploi, soumises à la
+retenue à la source en application du I de l'article 204-0 bis pour lesquelles
+l'option prévue au III du même article n'a pas été exercée ainsi que le montant
+des produits de placement soumis à compter du 1er janvier 1999 aux prélèvements
+libératoires opérés en application de l'article 125 A.
 
 1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
 revenus de leur foyer.

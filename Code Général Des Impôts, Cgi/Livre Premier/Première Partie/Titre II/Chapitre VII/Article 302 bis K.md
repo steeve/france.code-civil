@@ -36,12 +36,12 @@ du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens
 
 II. - Le tarif de la taxe est le suivant :
 
-22,90 F par passager embarqué à destination de la France ou d'un autre Etat
+3,92 euros par passager embarqué à destination de la France ou d'un autre Etat
 membre de la Communauté européenne ;
 
-38,90 F par passager embarqué vers d'autres destinations ;
+6,66 euros par passager embarqué vers d'autres destinations ;
 
-6 F par tonne de courrier ou de fret embarquée.
+1,02 euro par tonne de courrier ou de fret embarquée.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage
 total déclaré par chaque entreprise le mois considéré, arrondi à la tonne
@@ -103,7 +103,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 prescription est suspendue et interrompue dans les conditions de droit commun et
 notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. (abrogé)
+4. (abrogé à compter du 1er janvier 2001).
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est
 assuré par les agents comptables du budget annexe de l'aviation civile selon les

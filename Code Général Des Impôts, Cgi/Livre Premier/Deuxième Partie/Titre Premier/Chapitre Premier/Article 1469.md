@@ -31,7 +31,7 @@ locative est égale à 16 % du prix de revient ;
 
 Lorsque ces biens sont pris en location, la valeur locative est égale au montant
 du loyer au cours de l'exercice sans pouvoir différer de plus de 20 % de celle
-résultant des règles fixées à l'alinéa précédent ; les biens donnés en location
+résultant des règles fixées au premier alinéa ; les biens donnés en location
 sont imposés au nom du propriétaire lorsque la période de location est
 inférieure à six mois ; il en est de même si le locataire n'est pas passible de
 la taxe professionnelle ou n'a pas la disposition exclusive des biens loués ;
@@ -55,7 +55,7 @@ travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
 fixée par arrêté du ministre chargé du budget (3) ;
 
-4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour
+4° Il n'est pas tenu compte de la valeur locative définie aux 2° et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
 pas 61 000 euros s'il s'agit de prestataires de services ou de membres de
 professions libérales et 152 500 euros dans les autres cas ; pour les redevables
@@ -68,10 +68,10 @@ une partie de leur chiffre d'affaires par des ventes ambulantes lorsque leur
 principal établissement est situé dans une commune dont la population est
 inférieure à 3 000 habitants.
 
-(1) Annexe II, art. 310 HF.
+(1) Voir l'article 310 HF de l'annexe II.
 
-(2) Voir art. 1494 à 1518 B.
+(2) Voir les articles 1494 à 1518 B.
 
-(3) Voir 121 quinquies DB octies de l'annexe IV.
+(3) Voir l'article 121 quinquies DB octies de l'annexe IV.
 
-(4) Voir également art. 1469 B.
+(4) Voir également l'article 1469 B.

@@ -5,4 +5,4 @@ réquisition des agents et fonctionnaires désignés aux articles L. 213 et R.
 213-1 du livre des procédures fiscales.
 
 Cette disposition s'applique aux vignettes de la série normale comme aux
-vignettes spéciales et gratuites prévues à l'article 155 C.
+vignettes spéciales prévues à l'article 155 C.

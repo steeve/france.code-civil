@@ -12,8 +12,8 @@ légal de densité mentionné à l'article L 112-2 du code précité.
 
 L'expropriation pour cause d'utilité publique d'un terrain pour lequel le
 constructeur a effectué le versement, mais sur lequel les constructions prévues
-n'ont pas encore été réalisées, entraîne de plein droit la restitution prévue à
-l'alinéa précédent. Dans ce cas, à cette restitution qui est exclusive de toute
+n'ont pas encore été réalisées, entraîne de plein droit la restitution prévue au
+premier alinéa. Dans ce cas, à cette restitution qui est exclusive de toute
 indemnité de ce chef au titre du droit de l'expropriation, doit être ajouté le
 paiement par l'expropriant des intérêts au taux légal qui ont couru entre la
 date de publication de l'acte déclarant d'utilité publique l'opération et celle
@@ -25,9 +25,3 @@ réduite, le montant du versement est réduit à due concurrence. Au cas où un
 versement excédentaire aurait été opéré, l'excédent sera restitué au
 constructeur à l'exception du prélèvement mentionné à l'article L 333-12
 précité.
-
-(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent
-applicables dans les communes où un plafond légal de densité était institué le
-31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13
-décembre 2000. Les références au code de l'urbanisme sont celles dans leur
-rédaction antérieure à l'entrée en vigueur de cette loi).

@@ -6,7 +6,7 @@ obtenir une transaction, remise ou modération appartient :
 a) Au directeur des services fiscaux ou au directeur régional des douanes et
 droits indirects, selon le cas, lorsque les droits ou la valeur qui servent de
 base au calcul des pénalités ou, en l'absence d'une telle base, le montant des
-amendes n'excède pas 750 000 F et qu'en outre le montant des droits
+amendes n'excède pas 114 336,76 euros et qu'en outre le montant des droits
 effectivement fraudés ne dépasse pas le quart de ce chiffre ;
 
 b) Abrogé.

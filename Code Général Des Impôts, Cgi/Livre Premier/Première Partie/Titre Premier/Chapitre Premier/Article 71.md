@@ -6,22 +6,20 @@ travail personnel :
 
 1° la moyenne des recettes au-delà de laquelle ces groupements sont soumis à un
 régime d'imposition d'après le bénéfice réel est égale à 60 % de la limite
-prévue pour les exploitants individuels multipliée par le nombre d'associés à
+prévue pour les exploitants individuels multipliée par le nombre d'associés, à
 l'exception des associés âgés de plus de soixante ans au premier jour de
-l'exercice (1). Toutefois elle est égale à la limite prévue pour les exploitants
-individuels multipliée par le nombre d'associés lorsque la moyenne des recettes
-du groupement est inférieure ou égale à 1 500 000 F.
+l'exercice. Toutefois, elle est égale à la limite prévue pour les exploitants
+individuels multipliée par le nombre d'associés, à l'exception des associés âgés
+de plus de soixante ans au premier jour de l'exercice, lorsque la moyenne des
+recettes du groupement est inférieure ou égale à 230 000 euros.
 
 2° les plus-values réalisées par le groupement sont imposables au nom de chaque
-associé selon les règles prévues par les exploitants individuels en tenant
-compte de sa quote-part dans les recettes totales du groupement ;
+associé selon les règles prévues pour les exploitants individuels membres du
+groupement ;
 
-3° l'abattements prévu au 4 bis de l'article 158 est opéré, s'il a lieu, sur le
+3° l'abattement prévu au 4 bis de l'article 158 est opéré, s'il y a lieu, sur le
 bénéfice imposable au nom de chaque associé ;
 
-4° la limite de la déduction prévue au premier alinéa de l'article 72 D est
-multipliée par le nombre d'associés sans pouvoir excéder trois fois les limites
-susmentionnées.
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1997.
+4° les limites des déductions prévues au premier alinéa du I des articles 72 D
+et 72 D bis sont multipliées par le nombre d'associés sans pouvoir excéder trois
+fois les limites mentionnées.

@@ -6,4 +6,4 @@ impôts, le taux de l'intérêt pour les crédits concédés est fixé à 14,50 
 en France métropolitaine et à 10,40 % l'an dans les départements d'outre-mer.
 
 Ces obligations cautionnées donnent lieu au paiement d'une remise spéciale fixée
-à un tiers de F pour cent.
+à un tiers d'euro pour cent.

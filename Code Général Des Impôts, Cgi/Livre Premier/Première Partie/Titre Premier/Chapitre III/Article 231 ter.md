@@ -55,6 +55,10 @@ locaux spécialement aménagés pour l'archivage administratif et pour l'exercic
 d'activités de recherche ou à caractère sanitaire, social, éducatif ou culturel
 ;
 
+2° bis Les locaux administratifs des établissements publics d'enseignement du
+premier et du second degré et des établissements privés sous contrat avec l'Etat
+au titre des articles L. 442-5 et L. 442-12 du code de l'éducation ;.
+
 3° Les locaux à usage de bureaux d'une superficie inférieure à 100 mètres
 carrés, les locaux commerciaux d'une superficie inférieure à 2 500 mètres
 carrés, les locaux de stockage d'une superficie inférieure à 5 000 mètres carrés
@@ -78,18 +82,19 @@ Hauts-de-Seine ainsi que les départements de la Seine-Saint-Denis et du
 Val-de-Marne ;
 
 3°) troisième circonscription : départements de la Seine-et-Marne, des Yvelines,
-de l'Essonne et du Val-d'Oise.
+de l'Essonne et du Val-d'Oise. A compter de la promulgation de la loi n°
+2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
+urbains, les communes des autres départements éligibles à la dotation de
+solidarité urbaine prévue à l'article L. 2334-15 du code général des
+collectivités territoriales sont réputées appartenir à la troisième
+circonscription.
 
 Dans chaque circonscription, ce tarif est réduit pour les locaux possédés par
 l'Etat, les collectivités territoriales, les organismes ou les établissements
 publics sans caractère industriel ou commercial, les organismes professionnels
 ainsi que les associations ou organismes privés sans but lucratif à caractère
 sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent
-leur activité. A compter de la promulgation de la loi n° 2000-1208 du 13
-décembre 2000 relative à la solidarité et au renouvellement urbains, les
-communes des autres départements éligibles à la dotation de solidarité urbaine
-prévue à l'article L. 2334-15 du code général des collectivités territoriales
-sont réputées appartenir à la troisième circonscription.
+leur activité.
 
 b. Pour les locaux commerciaux et de stockage, un tarif unique distinct au mètre
 carré est appliqué.
@@ -100,25 +105,25 @@ a. Pour les locaux à usage de bureaux :
 
 1ère CIRCONSCRIPTION
 
-Tarif normal (en francs) : 74
+Tarif normal : 11,30 euros
 
-Tarif réduit (en francs) : 37
+Tarif réduit : 5,60 euros
 
 2e CIRCONSCRIPTION
 
-Tarif normal (en francs) : 44
+Tarif normal : 6,70 euros
 
-Tarif réduit (en francs) : 26
+Tarif réduit : 4 euros
 
 3e CIRCONSCRIPTION
 
-Tarif normal (en francs) : 21
+Tarif normal : 3,20 euros
 
-Tarif réduit (en francs) : 19
+Tarif réduit : 2,90 euros
 
-b. Pour les locaux commerciaux, 12 F ;
+b. Pour les locaux commerciaux, 1,80 euro
 
-c. Pour les locaux de stockage, 6 F.
+c. Pour les locaux de stockage, 0,90 euro.
 
 VII. - Les redevables sont tenus de déposer une déclaration accompagnée du
 paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable du

@@ -4,25 +4,26 @@ Le montant de la somme à déposer en vue de la délivrance du récépissé de
 consignation prévu à l'article 302 octies du code général des impôts est fixé
 aux chiffres indiqués ci-après :
 
-CARACTERISTIQUES DE L'ACTIVITE : Activité de vente de marchandises ou de
-prestations de services exercée sans vehicule
+CARACTÉRISTIQUES DE L'ACTIVITÉ
 
-MONTANT de la somme à consigner (en francs) 1000.
-
-CARACTERISTIQUES DE L'ACTIVITE : Majoration pour utilisation d'un véhicule
-
-MONTANT de la somme à consigner (en francs) 500.
-
-CARACTERISTIQUES DE L'ACTIVITE :
+MONTANT de la somme à consigner (en euros)
 
 
-Majoration pour utilisation de deux vehicules
+Activité de vente de marchandises ou de prestations de services exercée sans
+véhicule
 
-MONTANT de la somme à consigner (en francs) 1000.
+150
 
-CARACTERISTIQUES DE L'ACTIVITE :
+Majoration pour utilisation d'un véhicule
+
+76
 
 
-Majoration pour utilisation de plus de deux vehicules
+Majoration pour utilisation de deux véhicules
 
-MONTANT de la somme à consigner (en francs) 2000.
+150
+
+
+Majoration pour utilisation de plus de deux véhicules
+
+300

@@ -3,7 +3,7 @@ Article 1609 quatervicies
 I. - A compter du 1er juillet 1999, une taxe dénommée "taxe d'aéroport" est
 perçue au profit des personnes publiques ou privées exploitant des aérodromes
 dont le trafic embarqué ou débarqué s'élève au cours de la dernière année civile
-connue à plus de 1 000 unités de trafic (UDT). Une unité de trafic est égale à
+connue à plus de 5 000 unités de trafic (UDT). Une unité de trafic est égale à
 un passager ou 100 kilogrammes de fret ou de courrier.
 
 II. - La taxe est due par toute entreprise de transport aérien public et
@@ -38,7 +38,7 @@ Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 4 
 
 CLASSE : 3
 
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 1 001
+Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 5 001
 à 4 000 000
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes
@@ -46,21 +46,21 @@ d'aérodromes sont fixées comme suit :
 
 CLASSE : 1
 
-Tarifs par passager : De 16 F à 20 F
+Tarifs par passager : De 2,45 à 4,7 euros
 
-Tarifs par tonne de fret ou de courrier : De 2 F à 4 F
+Tarifs par tonne de fret ou de courrier : De 0,3 à 0,6 euro.
 
 CLASSE : 2
 
-Tarifs par passager : De 8 F à 17 F
+Tarifs par passager : De 1,2 à 4,7 euros.
 
-Tarifs par tonne de fret ou de courrier : De 1 F à 4 F
+Tarifs par tonne de fret ou de courrier : De 0,15 à 0,6 euro.
 
 CLASSE : 3
 
-Tarifs par passager : De 17 F à 50 F
+Tarifs par passager : De 2,6 à 9,5 euros.
 
-Tarifs par tonne de fret ou de courrier : De 4 F à 10 F
+Tarifs par tonne de fret ou de courrier : De 0,6 à 1,5 euro.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de
 l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein

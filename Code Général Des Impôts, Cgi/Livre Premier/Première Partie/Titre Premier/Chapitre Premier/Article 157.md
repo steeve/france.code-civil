@@ -7,7 +7,7 @@ N'entrent pas en compte pour la détermination du revenu net global :
 2° bis (Périmé) ;
 
 3° Les lots et les primes de remboursement attachés aux bons et obligations émis
-en France avec l'autorisation du ministre de l'économie et des finances, à
+en France avec l'autorisation du ministre de l'économie et des finances à
 l'exception des primes de remboursement attachées aux titres émis à compter du
 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles
 distribuées ou réparties à compter du 1er janvier 1989 par un organisme de
@@ -25,13 +25,13 @@ négociable émis par une région qui remplissent les conditions suivantes :
 
 a. Leur nature est en relation directe avec l'investissement financé ;
 
-b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix
+b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix
 d'émission.
 
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de
 l'article 81 ;
 
-5° (abrogé).
+5° (abrogé à compter du 30 juin 2000)
 
 5° bis Les produits et plus-values que procurent les placements effectués dans
 le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi
@@ -68,7 +68,7 @@ code monétaire et financier ;
 
 8° bis (disposition périmée).
 
-8° ter (Périmé).
+8° ter (disposition périmée).
 
 9° (Disposition devenue sans objet) ;
 
@@ -87,7 +87,7 @@ b) aux aides familiaux ou aux associés d'exploitation désignés au 2° de
 l'article L. 722-10 du code rural et aux articles L. 321-6 et suivants du même
 code ;
 
-c) aux aides familiaux et associés d'exploitation de l'artisanat ;
+c) aux aides familiaux et associés d'exploitation de l'artisanat.
 
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
@@ -100,11 +100,11 @@ Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des épo
 soumis à une imposition commune.
 
 Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un
-plafond fixé par décret dans la limite de 30 000 F par compte.
+plafond fixé par décret dans la limite de 4 600 euros par compte.
 
 9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
-loi n° 84-578 du 9 juillet 1984 modifiée, sur le développement de l'initiative
+loi n° 84-578 du 9 juillet 1984 modifiée sur le développement de l'initiative
 économique.
 
 10° à 13° (Dispositions périmées) ;
@@ -136,7 +136,7 @@ le versement au-delà de la huitième année qui suit l'ouverture du plan d'épa
 populaire des produits capitalisés et de la rente viagère.
 
 Il en est de même lorsque le retrait des fonds intervient avant la fin de la
-huitième année, à la suite du décès du titulaire du plan ou dans les deux ans du
+huitième année à la suite du décès du titulaire du plan ou dans les deux ans du
 décès du conjoint soumis à imposition commune ou de l'un des événements suivants
 survenu à l'un d'entre eux :
 

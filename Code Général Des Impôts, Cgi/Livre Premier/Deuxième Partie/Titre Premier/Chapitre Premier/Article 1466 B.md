@@ -3,18 +3,18 @@ Article 1466 B
 I. - Sauf délibération contraire des communes ou de leurs groupements dotés
 d'une fiscalité propre prise dans les conditions prévues à l'article 1639 A bis,
 les contribuables qui exercent une activité industrielle, commerciale ou
-artisanale au sens de l'article 34 sont, sous réserve des dispositions du
-troisième alinéa, exonérés de taxe professionnelle au titre des créations et
-extensions d'établissement intervenues en Corse entre le 1er janvier 1997 et le
-31 décembre 2001, dans la limite d'un montant de base nette imposable fixé à 3
-millions de francs par établissement, déterminé avant application de
-l'abattement prévu à l'article 1472 A ter. Cette limite est actualisée chaque
-année dans les conditions prévues au I de l'article 1466 A.
+artisanale au sens de l'article 34 sont, sous réserve des dispositions des
+cinquième à dixième alinéas, exonérés de taxe professionnelle au titre des
+créations et extensions d'établissement intervenues en Corse entre le 1er
+janvier 1997 et le 31 décembre 2001, dans la limite d'un montant de base nette
+imposable fixé à 3 millions de francs par établissement, déterminé avant
+application de l'abattement prévu à l'article 1472 A ter. Cette limite est
+actualisée chaque année dans les conditions prévues au I de l'article 1466 A.
 
-La limite de base nette imposable visée au premier alinéa est fixée à 2 835 000
-F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
-la variation des prix, à 2 675 000 F au titre de 2000, 2 455 000 F au titre de
-2001, 2 205 000 F au titre de 2002 et 2 010 000 F à compter de 2003.
+La limite de base nette imposable visée au premier alinéa est fixée à 336 150
+euros (344 420 euros après actualisation) au titre de 2002 et, sous réserve de
+l'actualisation annuelle en fonction de la variation des prix, à 306 430 euros à
+compter de 2003.
 
 L'exonération s'applique également, dans les mêmes conditions et limites, aux
 contribuables qui exercent une activité professionnelle non commerciale au sens

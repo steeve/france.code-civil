@@ -7,8 +7,12 @@ développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt 
 les sociétés à raison des bénéfices provenant des activités implantées dans la
 zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation
 de la zone pour les contribuables qui y exercent déjà leur activité ou, dans le
-cas contraire, celui de leur début d'activité dans l'une de ces zones. La date
-de délimitation des zones franches urbaines visée au présent article est réputée
+cas contraire, celui de leur début d'activité dans l'une de ces zones. Ces
+bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à
+hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés
+respectivement au cours de la première, de la deuxième ou de la troisième
+période de douze mois suivant cette période d'exonération. La date de
+délimitation des zones franches urbaines visée au présent article est réputée
 correspondre, dans tous les cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
@@ -62,13 +66,13 @@ dispositions du b du 1° de l'article 1467, les salaires afférents à l'activit
 exercée dans les zones franches urbaines sont pris en compte pour 36 p. 100 de
 leur montant.
 
-Par exception aux dispositions u deuxième alinéa, le contribuable exerçant une
+Par exception aux dispositions du sixième alinéa, le contribuable exerçant une
 activité de location d'immeubles n'est exonéré qu'à raison des bénéfices
 provenant des seuls immeubles situés dans une zone franche urbaine. Cette
 disposition s'applique, quel que soit le lieu d'établissement du bailleur.
 
-En aucun cas, le bénéfice exonéré ne peut excéder 400 000 F par période de douze
-mois.
+En aucun cas, le bénéfice exonéré ne peut excéder 61 000 euros par période de
+douze mois.
 
 III. Lorsque le contribuable mentionné au I est une société membre d'un groupe
 fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société
@@ -76,7 +80,7 @@ déterminé dans les conditions prévues au II du présent article et au 4 de
 l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération
-accordée ne peut excéder le montant visé au quatrième alinéa du II du présent
+accordée ne peut excéder le montant visé au huitième alinéa du II du présent
 article, dans la limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions du

@@ -3,25 +3,23 @@ Article 159 AM
 Le taux de la taxe mentionnée aux articles 358 à 361 de l'annexe II au code
 général des impôts est fixé comme suit :
 
-((0,80 F par quintal de pommes et de poires et par 12,5 kilogrammes de concentré
-desdits produits (M) ;
+a. 0,12 euro par quintal de pommes et de poires et par 12,5 kilogrammes de
+concentré desdits produits ;
 
-((1,10 F par hectolitre (M) :
+b. 0,17 euro par hectolitre :
 
-De jus de pommes à cidre et de poires à poiré et de moûts de pommes et de poires
-;
+1° de jus de pommes à cidre et de poires à poiré et de moûts de pommes et de
+poires ;
 
-De cidre aromatisé ou non à due proportion du cidre contenu dans le produit fini
-;
+2° de cidre aromatisé ou non à due proportion du cidre contenu dans le produit
+fini ;
 
-De fermenté de pommes aromatisé ou non à due proportion du fermenté de pommes
+3° de fermenté de pommes aromatisé ou non à due proportion du fermenté de pommes
 contenu dans le produit fini ;
 
-De poiré ;
+4° de poiré ;
 
-De fermenté de poires ;
+5° de fermenté de poires ;
 
-((20,00 F)) (M) par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre
-et de poiré, de pommeaux et d'apéritifs à base de cidre et de poiré.
-
-(M) Modification.
+c. 3,05 euros par hectolitre d'alcool pur de calvados, d'eaux-de-vie de cidre et
+de poiré, de pommeaux et d'apéritifs à base de cidre et de poiré.

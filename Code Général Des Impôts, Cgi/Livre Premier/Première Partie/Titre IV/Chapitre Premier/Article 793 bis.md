@@ -8,19 +8,16 @@ majorés de l'intérêt de retard visé à l'article 1727.
 
 Lorsque la valeur totale des biens susceptibles de bénéficier de l'exonération
 partielle visée au premier alinéa, transmis par le donateur ou le défunt à
-chaque donataire, héritier ou légataire, excède 500 000 F, l'exonération
+chaque donataire, héritier ou légataire, excède 76 000 euros l'exonération
 partielle de droits de mutation à titre gratuit est ramenée à 50 p. 100 au-delà
-de cette limite (1).
+de cette limite.
 
 Pour l'appréciation de cette limite, il est tenu compte de l'ensemble des
 donations consenties par la même personne à un titre, à une date et sous une
 forme quelconques à l'exception des donations passées devant notaire depuis plus
-de dix ans (1).
+de dix ans.
 
 L'exonération partielle visée au premier alinéa ne s'applique pas lorsque le
 bail a été consenti depuis moins de deux ans au donataire de la transmission, à
 son conjoint, à un de leurs descendants ou à une société contrôlée par une ou
-plusieurs de ces personnes (1).
-
-(1) Ces dispositions s'appliquent aux successions ouvertes et aux donations
-consenties à compter du 1er juillet 1992.
+plusieurs de ces personnes.

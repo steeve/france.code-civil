@@ -1,34 +1,29 @@
 Article 360
 ----
 Les acomptes sont calculés par la société et versés par elle sans avis
-d'imposition dans les vingt premiers jours des mois de février mai août et
-novembre de chaque année à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs du lieu d'imposition défini par l'article 218 A
-du code général des impôts. Lorsqu'une société modifie le lieu de son principal
-établissement après l'échéance du premier acompte afférent à un exercice
-déterminé les acomptes subséquents doivent être versés à la caisse du comptable
-du Trésor habilité à percevoir le premier acompte.
+d'imposition à la caisse du comptable du Trésor chargé du recouvrement des
+impôts directs du lieu d'imposition défini par l'article 218 A du code général
+des impôts. Lorsque la société modifie le lieu de son principal établissement
+après l'échéance du premier acompte afférent à un exercice déterminé, les
+acomptes subséquents doivent être versés à la caisse du comptable du Trésor
+habilité à percevoir le premier acompte.
 
-Chacun des acomptes est égal à 8,1/3 % des bénéfices soumis aux taux fixés au
-deuxième alinéa et au f du I de l'article 219 du code général des impôts et à
-4,75 % du résultat net de la concession de licences d'exploitation des éléments
-mentionnés au 1 de l'article 39 terdecies du code précité, déterminés d'après
-les résultats du plus récent exercice clos à la date de son échéance ou
-lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de
-la dernière période d'imposition.
+Chacun des acomptes est égal au quart de l'impôt liquidé par application aux
+éléments de résultats mentionnés au premier alinéa du 1 de l'article 1668 du
+code général des impôts des taux correspondants fixés à l'article 219 du même
+code.
 
-Toutefois en cas d'exercice d'une durée inférieure ou supérieure à un an, les
-acomptes sont calculés sur la base des bénéfices rapportés à une période de
-douze mois.
+Les résultats servant de base au calcul de chacun des acomptes sont ceux
+afférents au plus récent exercice ou, le cas échéant, à la dernière période
+d'imposition prévue à l'article 37 du code précité, clos à la date de son
+échéance et dont le délai de déclaration fixé au deuxième alinéa du 1 de
+l'article 223 du même code est expiré.
 
-Par dérogation aux dispositions du deuxième alinéa l'acompte dont l'échéance est
-comprise entre la date de clôture d'un exercice ou la fin d'une période
-d'imposition et l'expiration du délai de déclaration fixé à l'article 223 1,
-deuxième alinéa du code général des impôts est égal, s'il y a lieu, à 8,1/3 %
-des bénéfices soumis aux taux fixés au deuxième alinéa et au f du I de l'article
-219 du code général des impôts et à 4,75 % du résultat net de la concession de
-licences d'exploitation des éléments mentionnés au 1 de l'article 39 terdecies
-du code précité afférents à l'exercice ou à la période d'imposition précédente
-et dont le délai de déclaration est expiré. Le montant de cet acompte est
-régularisé sur la base des résultats du dernier exercice ou de la dernière
-période d'imposition lors du versement du plus prochain acompte.
+Le montant de l'acompte dont l'échéance est comprise entre la date de clôture
+d'un exercice ou la fin d'une période d'imposition et l'expiration du délai de
+déclaration fixé au deuxième alinéa du 1 de l'article 223 déjà cité est
+régularisé sur la base des résultats de ce dernier exercice ou de cette dernière
+période d'imposition lors du versement de l'acompte suivant.
+
+En cas d'exercice d'une durée inférieure ou supérieure à un an, les acomptes
+sont calculés sur la base des bénéfices rapportés à une période de douze mois.

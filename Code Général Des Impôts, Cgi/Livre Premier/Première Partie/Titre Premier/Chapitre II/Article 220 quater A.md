@@ -19,8 +19,8 @@ Le crédit d'impôt prévu au présent article ne constitue pas un produit impos
 pour la détermination du résultat de la société créée. Les intérêts qui servent
 de base au calcul du crédit d'impôt ne constituent pas une charge déductible
 pour la détermination de ce résultat imposable. Si le crédit d'impôt est limité
-par application des dispositions de l'alinéa précédent, le montant non
-déductible est réduit dans la même proportion.
+par application des dispositions du deuxième alinéa, le montant non déductible
+est réduit dans la même proportion.
 
 Les actions de la société nouvelle peuvent bénéficier d'un droit de vote double
 dès leur émission.

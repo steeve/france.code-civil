@@ -33,10 +33,10 @@ reprise porte sur un ou plusieurs établissements industriels en difficulté d'u
 entreprise industrielle et dans la mesure où la société créée pour cette reprise
 est indépendante juridiquement et économiquement de l'entreprise cédante.
 
-Lorsqu'une société créée dans les conditions prévues aux trois alinéas ci-dessus
-interrompt, au cours des trois premières années d'exploitation, l'activité
-reprise ou est affectée au cours de la même période par l'un des événements
-mentionnés au premier alinéa du 2 de l'article 221, l'impôt sur les sociétés
-dont elle a été dispensée en application du présent article devient
+Lorsqu'une société créée dans les conditions prévues aux premier à sixième
+alinéas interrompt, au cours des trois premières années d'exploitation,
+l'activité reprise ou est affectée au cours de la même période par l'un des
+événements mentionnés au premier alinéa du 2 de l'article 221, l'impôt sur les
+sociétés dont elle a été dispensée en application du présent article devient
 immédiatement exigible sans préjudice de l'intérêt de retard prévu à l'article
 1727 et compté à partir de la date à laquelle il aurait dû être acquitté.

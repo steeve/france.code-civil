@@ -1,11 +1,12 @@
 Article R236-23
 ----
 Des comités d'hygiène, de sécurité et des conditions de travail sont constitués
-dans les établissements mentionnés à l'article L. 792 du code de la santé
-publique et dans les syndicats interhospitaliers lorsque ces établissements ou
-ces syndicats occupent au moins cinquante agents. L'effectif à prendre en
-considération est l'effectif réel de l'ensemble des personnels, y compris les
-personnels médicaux, employés dans l'établissement ou le syndicat
+dans les établissements et les syndicats interhospitaliers mentionnés à
+l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière lorsque ces
+établissements ou ces syndicats occupent au moins cinquante agents. L'effectif à
+prendre en considération est l'effectif réel de l'ensemble des personnels, y
+compris les personnels médicaux, employés dans l'établissement ou le syndicat
 interhospitalier au 31 décembre de la dernière année civile.
 
 Dans les établissements ou les syndicats interhospitaliers occupant moins de

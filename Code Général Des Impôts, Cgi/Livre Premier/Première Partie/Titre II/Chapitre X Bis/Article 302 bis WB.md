@@ -18,7 +18,7 @@ définis en euros par décision du Conseil de l'Union européenne.
 
 Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du
 ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget fixe
-le taux de la redevance à partir du taux de conversion en francs de l'euro (1).
+le taux de la redevance (1).
 
 V. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous
 les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur
@@ -32,4 +32,4 @@ article (2).
 
 (1) Voir l'article 50 quaterdecies-0 A de l'annexe IV.
 
-(2) Voir l'article 267 quater F de l'annexe II.
+(2) Voir l'article 267 quater G de l'annexe II.

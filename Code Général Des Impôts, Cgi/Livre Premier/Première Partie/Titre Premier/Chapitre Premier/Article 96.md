@@ -2,10 +2,10 @@ Article 96
 ----
 I Les contribuables qui réalisent ou perçoivent des bénéfices ou revenus visés à
 l'article 92 sont obligatoirement soumis au régime de la déclaration contrôlée
-lorsque le montant annuel de leurs recettes excède 175.000 F.
+lorsque le montant annuel de leurs recettes excède 27 000 euros.
 
 Peuvent également se placer sous ce régime, les contribuables, dont les recettes
-annuelles ne sont pas supérieures à 175.000 F, lorsqu'ils sont en mesure de
+annuelles ne sont pas supérieures à 27 000 euros, lorsqu'ils sont en mesure de
 déclarer exactement le montant de leur bénéfice net et de fournir à l'appui de
 cette déclaration toutes les justifications nécessaires.
 
@@ -22,3 +22,5 @@ groupements.
 
 Toutefois, le régime fiscal de ces sociétés et groupements demeure déterminé
 uniquement par le montant global de leurs recettes.
+
+III. (Disposition devenue sans objet).

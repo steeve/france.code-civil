@@ -20,11 +20,9 @@ salariés peuvent bénéficier de cette mesure.
 Les délibérations des conseils municipaux s'appliquent à la cotisation de
 péréquation de la taxe professionnelle.
 
-La limite de base nette imposable visée au premier alinéa est fixée à 1 050 000
-F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
-la variation des prix, à 990 000 F au titre de 2000 (996 000 F après
-actualisation), 910 000 F au titre de 2001 (920 000 F après actualisation), 815
-000 F au titre de 2002 et 745 000 F à compter de 2003.
+La limite de base nette imposable visée au premier alinéa est fixée à 124 250
+euros au titre de 2002 et, sous réserve de l'actualisation annuelle en fonction
+de la variation des prix, à 113 600 euros à compter de 2003.
 
 I bis Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations et extensions
@@ -46,10 +44,11 @@ peuvent bénéficier de cette mesure.
 
 I ter Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations, extensions
-d'établissement ou changements d'exploitant intervenus à compter du 1er janvier
-1997 dans les zones de redynamisation urbaine définies au A du 3 de l'article 42
-modifié de la loi n° 95-115 du 4 février 1995 sont exonérés de taxe
-professionnelle dans la limite du montant de base nette imposable fixé au I.
+d'établissement ou changements d'exploitant intervenus entre le 1er janvier 1997
+et le 31 décembre 2004 dans les zones de redynamisation urbaine définies au A du
+3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 sont exonérés de
+taxe professionnelle dans la limite du montant de base nette imposable fixé au
+I.
 
 Sauf délibération contraire de la collectivité territoriale ou du groupement de
 collectivités territoriales, les établissements existant au 1er janvier 1997
@@ -71,6 +70,25 @@ collectivités territoriales. Elles ne peuvent avoir pour effet de reporter de
 plus de cinq ans l'application du régime d'imposition de droit commun. Seuls les
 établissements employant moins de cent cinquante salariés peuvent en bénéficier.
 
+Par exception aux dispositions du quatrième alinéa, et sauf délibération
+contraire des collectivités territoriales ou de leurs établissements publics de
+coopération intercommunale dotés d'une fiscalité propre, prise dans les
+conditions prévues au I de l'article 1639 A bis, la base nette imposable des
+établissements existant au 1er janvier 1997 et de ceux ayant fait l'objet de
+l'une des opérations prévues au premier alinéa, effectuée avant le 31 décembre
+2001, fait l'objet d'un abattement à l'issue de la période d'exonération prévue
+au quatrième alinéa et au titre des trois années suivant l'expiration de
+celle-ci. Le montant de cet abattement est égal, la première année, à 60 % de la
+base exonérée de la dernière année d'application du dispositif prévu au
+quatrième alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année
+suivante. L'application de cet abattement ne peut conduire à réduire la base
+d'imposition de l'année considérée de plus de 60 % de son montant la première
+année, 40 % la deuxième année et 20 % la troisième.
+
+A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
+période d'exonération, celle-ci est maintenue pour la période restant à courir
+et dans les conditions prévues pour le prédécesseur ;
+
 Pour l'application des dispositions ci-dessus, les délibérations des
 collectivités territoriales et de leurs groupements dotés d'une fiscalité propre
 ne peuvent porter que sur l'ensemble des établissements créés, étendus,
@@ -84,18 +102,18 @@ postérieure, bénéficient de l'exonération de taxe professionnelle à compter
 situés dans les zones franches urbaines définies au B du 3 de l'article 42
 modifié de la loi n° 95-115 du 4 février 1995.
 
-Cette exonération qui s'applique, quelle que soit la date de création de
-l'établissement, est accordée dans la limite d'un montant de base nette
-imposable fixé à 3 millions de francs. Ce seuil est actualisé chaque année dans
-les conditions prévues au I. Dans cette limite, la base exonérée comprend, le
-cas échéant, les éléments d'imposition correspondant aux extensions
-d'établissement intervenues en 1996.
+Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
+d'une création, d'une extension ou d'un changement d'exploitant entre cette date
+et le 31 décembre 2001, cette exonération est accordée dans la limite d'un
+montant de base nette imposable fixé à 3 millions de francs. Ce seuil est
+actualisé chaque année dans les conditions prévues au I. Dans cette limite, la
+base exonérée comprend, le cas échéant, les éléments d'imposition correspondant
+aux extensions d'établissement intervenues en 1996.
 
-La limite de base nette imposable visée au deuxième alinéa est fixée à 2 835 000
-F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
-la variation des prix, à 2 675 000 F au titre de 2000 (2 691 000 F après
-actualisation), 2 455 000 F au titre de 2001 (2 482 000 F après actualisation),
-2 205 000 F au titre de 2002 et 2 010 000 F à compter de 2003.
+La limite de base nette imposable visée au deuxième alinéa est fixée à 336 150
+euros au titre de 2002 (344 420 euros après actualisation) et, sous réserve de
+l'actualisation annuelle en fonction de la variation des prix, à 306 430 euros à
+compter de 2003.
 
 Pour les établissements existant dans les zones franches urbaines au 1er janvier
 1997, visés au premier alinéa, l'exonération s'applique :
@@ -117,8 +135,8 @@ d'affaires total hors taxes réalisé pendant la même période ;
 c) quel que soit le secteur d'activité, aux bases d'imposition correspondant aux
 extensions réalisées à compter du 1er janvier 1997.
 
-Les conditions visées aux a et b du quatrième alinéa ne sont pas opposables aux
-établissements situés dans les zones franches urbaines des communes des
+Les conditions visées aux cinquième et sixième alinéas ne sont pas opposables
+aux établissements situés dans les zones franches urbaines des communes des
 départements d'outre-mer.
 
 L'exonération ne s'applique pas aux bases d'imposition afférentes au personnel

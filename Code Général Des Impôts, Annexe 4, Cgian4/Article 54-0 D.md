@@ -6,10 +6,12 @@ alcoométrique volumique figurant au centre de la couronne sont indiqués sur fo
 :
 
 a) Vert (étalon A 455 de la norme AFNOR NF-X 08-002 homologuée en mars 1983)
-pour les vins tranquilles ou mousseux à appellation d'origine contrôlée et les
-vins délimités de qualité supérieure. Pour les vins mousseux à appellation
-d'origine contrôlée "champagne", ce nom d'appellation doit figurer sur la
-couronne ;
+pour les vins tranquilles ou mousseux à appellation d'origine contrôlée, les
+vins délimités de qualité supérieure et les vins doux naturels bénéficiant d'une
+appellation d'origine contrôlée. Pour les vins mousseux à appellation d'origine
+contrôlée "Champagne", ce nom d'appellation doit figurer sur la couronne ; pour
+les vins doux naturels bénéficiant d'une appellation d'origine contrôlée, la
+mention "VDN" doit figurer sur la couronne ;
 
 b) Bleu (étalon A 540 de la norme AFNOR NF-X 08-002 homologuée en mars 1983)
 pour tous les autres vins, y compris les boissons fiscalement assimilées au vin.
@@ -18,8 +20,7 @@ sur la couronne ;
 
 c) Orange (étalon A 130 de la norme AFNOR NF-X 08-002 homologuée en mars 1983)
 pour les produits intermédiaires bénéficiant d'une appellation d'origine
-contrôlée. Pour les vins doux naturels bénéficiant d'une appellation d'origine
-contrôlée, la mention "VDN" doit figurer sur la couronne ;
+contrôlée ;
 
 d) Gris (étalon A 625 de la norme AFNOR NF-X 08-002 homologuée en mars 1983)
 pour les autres produits intermédiaires ;

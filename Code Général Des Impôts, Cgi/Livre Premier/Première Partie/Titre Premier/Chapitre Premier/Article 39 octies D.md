@@ -78,8 +78,8 @@ L'agrément mentionné au premier alinéa est délivré aux entreprises à raiso
 implantations à l'étranger qui ont pour objet de favoriser une exportation
 durable et significative de services.
 
-Le montant de l'investissement ouvrant droit à provision est limité à vingt
-millions de francs.
+Le montant de l'investissement ouvrant droit à provision est limité à 3 000 000
+euros.
 
 Pour la détermination des résultats des exercices ouverts à compter du 1er
 janvier 1995, les dispositions du présent IV s'appliquent, dans les mêmes
@@ -97,7 +97,6 @@ ainsi qu'aux groupements d'entreprises.
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui
 sont réalisés à compter du 1er janvier 1992, sous réserve des dispositions du
-cinquième alinéa du I quater et du deuxième alinéa du V de l'article 39 octies B
-et du quatrième alinéa du IV du présent article.
-
-(1) Voir les articles 10 GA quinquies et 10 GA sexies de l'annexe III.
+cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39
+octies A, du deuxième alinéa du V de l'article 39 octies B et du quatrième
+alinéa du IV du présent article (1).

@@ -3,18 +3,19 @@ Article 159 AS
 I. - En application de l'article 363 FA de l'annexe II au code général des
 impôts, le montant de la taxe parafiscale sur les céréales perçue au profit de
 l'Association nationale pour le développement agricole est fixé comme suit pour
-la campagne 2000-2001 :
+la campagne 2001-2002 :
 
-a) 2,90 F par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz ;
+a) 0,44 euro par tonne pour le blé tendre, le blé dur, l'orge, le maïs et le riz
+;
 
-b) 1,55 F par tonne pour l'avoine, le seigle, le sorgho et le triticale.
+b) 0,24 euro par tonne pour l'avoine, le seigle, le sorgho et le triticale.
 
 II. Les blés tendres retenus au titre de rémunération en nature par les meuniers
 et boulangers échangistes et livrés à un collecteur agréé supportent la somme
 prévue au I.
 
 III. La taxe prévue par le présent article pour les céréales de qualité saine,
-loyale et marchande, est applicable aux céréales non saines, loyales et
+loyale et marchande est applicable aux céréales non saines, loyales et
 marchandes.
 
 IV. La taxe assise sur les entrées est calculée par collecteur agréé ou

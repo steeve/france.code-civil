@@ -1,17 +1,17 @@
 Article 32
 ----
 1. Par dérogation aux dispositions de l'article 31, lorsque le montant du revenu
-brut annuel défini aux articles 29 et 30 n'excède pas 60 000 F, le revenu
-imposable correspondant est fixé, sur demande du contribuable, à une somme égale
-au montant de ce revenu brut diminué d'un abattement de 40 %.
+brut annuel défini aux articles 29 et 30 n'excède pas 15 000 euros (1), le
+revenu imposable correspondant est fixé à une somme égale au montant de ce
+revenu brut diminué d'un abattement de 40 %.
 
-2. L'option prévue au 1 s'applique à l'ensemble des revenus fonciers perçus par
-le foyer fiscal. Les contribuables concernés portent directement le montant du
-revenu brut annuel sur la déclaration prévue à l'article 170.
+2. Les dispositions du 1 s'appliquent à l'ensemble des revenus fonciers perçus
+par le foyer fiscal. Les contribuables concernés portent directement le montant
+du revenu brut annuel sur la déclaration prévue à l'article 170.
 
-L'option ne peut pas être exercée lorsque le contribuable ou l'un des membres du
-foyer fiscal est propriétaire d'un ou plusieurs biens appartenant aux catégories
-suivantes :
+Les dispositions du 1 ne sont pas applicables lorsque le contribuable ou l'un
+des membres du foyer fiscal est propriétaire d'un ou plusieurs biens appartenant
+aux catégories suivantes :
 
 a) Monuments historiques et assimilés ou immeubles en nue-propriété, donnés en
 location et visés au 3° du I de l'article 156 ;
@@ -29,17 +29,17 @@ d) Parts de sociétés, autres que celles visées à l'article 1655 ter, qui don
 en location des immeubles nus et dont les résultats sont imposés dans les
 conditions prévues à l'article 8.
 
-3. L'option pour le régime défini au 1 est exercée pour une période de trois ans
-lors du dépôt de la déclaration des revenus de la première année au titre de
-laquelle elle s'applique. Irrévocable durant cette période, elle est
-renouvelable tacitement sauf renonciation expresse dans le délai de dépôt de la
-déclaration des revenus de l'année qui suit chaque période triennale. L'option
-cesse immédiatement de produire ses effets au titre de l'année au cours de
-laquelle le seuil prévu au 1 est dépassé ou l'une des exclusions mentionnées au
-2 est applicable.
+3. L'année au cours de laquelle le seuil prévu au 1 est dépassé ou celle au
+titre de laquelle l'une des exclusions mentionnées au 2 est applicable, le
+revenu net foncier est déterminé dans les conditions prévues aux articles 28 et
+31 (2) ;
 
-Toutefois, en cas de changement de locataire, le contribuable peut renoncer à
-son option à compter de l'imposition des revenus de l'année au cours de laquelle
-le départ du locataire est intervenu. Cette renonciation doit être notifiée à
-l'administration en même temps que la déclaration des revenus de cette même
-année.
+4. Les contribuables qui souhaitent renoncer au bénéfice des dispositions du 1
+peuvent opter pour la détermination de leur revenu net foncier dans les
+conditions prévues aux articles 28 et 31.
+
+L'option est exercée pour une période de cinq ans dans le délai prévu pour le
+dépôt de la déclaration mentionnée à l'article 170 de la première année au titre
+de laquelle elle s'applique. Irrévocable durant cette période, elle est valable
+tant que le contribuable reste de manière continue dans le champ d'application
+du 1 (2).

@@ -26,7 +26,8 @@ célibataires, veufs ou divorcés et de 2 440 euros pour les contribuables mari�
 soumis à imposition commune sur la somme des revenus et gains imposables
 suivants :
 
-1° 2° (Dispositions abrogées) ;
+1° et 2° (Dispositions abrogées pour l'imposition des revenus des années 1996 et
+suivantes).
 
 3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois,
 cet abattement ne peut être effectué sur le montant des revenus d'actions
@@ -40,15 +41,16 @@ indirectement, plus de 35 % des droits sociaux dans la société distributrice.
 Pour l'application de cette disposition, les droits sociaux appartenant au
 conjoint sont considérés comme détenus indirectement.
 
-4° (Dispositions abrogées) ;
+4° (Dispositions abrogées pour l'imposition des revenus des années 1996 et
+suivantes).
 
 5° Produits des parts de société ou d'exploitation agricole à responsabilité
 limitée et des parts bénéficiaires ou de fondateur lorsque ces parts sont émises
 par des sociétés ou exploitations soumises à l'impôt sur les sociétés et que les
 produits sont encaissés par des personnes détenant, directement ou
-indirectement, moins de 35 p. 100 des droits sociaux dans la société
-distributrice. Pour l'application de cette disposition, les droits sociaux
-appartenant au conjoint sont considérés comme détenus indirectement.
+indirectement, moins de 35 % des droits sociaux dans la société distributrice.
+Pour l'application de cette disposition, les droits sociaux appartenant au
+conjoint sont considérés comme détenus indirectement.
 
 6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
 qui remplissent les conditions visées au I de l'article 125 C. Les dispositions
@@ -164,21 +166,16 @@ Les dispositions du a sont également applicables aux prestations servies sous
 forme de rentes au titre des contrats d'assurance de groupe visés au premier
 alinéa de l'article 154 bis-0 A.
 
-b ter. les dispositions du a sont applicables aux pensions servies au titre des
-plans d'épargne retraite institués par la loi n° 97-277 du 25 mars 1997 créant
-les plans d'épargne retraite ainsi qu'aux sommes retirées de ces plans.
-Toutefois, le bénéficiaire peut demander que l'impôt correspondant à ces sommes
-soit calculé en ajoutant le quart du montant net du retrait à son revenu
-imposable et en multipliant par quatre la cotisation supplémentaire ainsi
-obtenue ;
+b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du
+17 janvier 2002) ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions du b du 4
 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son
 entretien et celui des enfants dont il a la charge est comptée dans les revenus
-imposables de l'intéressé.
+imposables de l'intéressé ;
 
-d. (abrogé).
+d. (abrogé à compter du 30 juin 2000) ;
 
 e. Pour l'établissement de l'impôt des redevables pensionnés au 31 décembre 1986
 dont la pension a fait l'objet d'un premier versement mensuel en 1987, la

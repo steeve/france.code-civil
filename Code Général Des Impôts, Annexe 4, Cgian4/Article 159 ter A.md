@@ -4,99 +4,62 @@ Article 159 ter A
 perçue en fonction du poids net des huiles végétales et des huiles d'animaux
 marins incorporées.
 
-Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
-arrêté.
-
 Les taux de la taxe sont fixés comme suit :
 
 
-EN FRANCS
+EN EUROS
 
 Huile d'olive
 
+Par centaine de kg : 15,365
 
-Par kg
-
-0,993
-
-
-Par litre
-
-0,894
+Par centaine de litre : 13,833
 
 Huile d'arachide et de maïs
 
+Par centaine de kg : 13,833
 
-Par kg
-
-0,894
-
-
-Par litre
-
-0,814
+Par centaine de litre : 12,595
 
 
-Huiles de colza et de pépins de raisin
+Huiles de colza et de pépins de raisins
 
-Par kg
+Par centaine de kg : 7,087
 
-0,458
-
-
-Par litre
-
-0,417
+Par centaine de litre : 6,452
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
 relatives aux espèces protégées
 
+Par centaine de kg : 12,069
 
-Par kg
-
-0,780
-
-
-Par litre
-
-0,680
+Par centaine de litre : 10,522
 
 
 Huiles de coprah et de palmiste
 
-Par kg
+Par centaine de kg : 9,207
 
-0,595
-
-
-Par litre
-
--
+Par centaine de litre : néant
 
 
 Huile de palme
 
-Par kg
+Par centaine de kg : 8,433
 
-0,545
-
-
-Par litre
-
--
+Par centaine de litre : néant
 
 Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles
 internationales ou nationales relatives aux espèces protégées
 
+Par centaine de kg : 15,365
 
-Par kg
+Par centaine de litre : néant
 
-0,993
+(Ces taux sont applicables à compter du 1er janvier 2002).
 
+Le tarif forfaitaire dont le redevable peut demander l'application est fixé par
+arrêté (1).
 
-Par litre
-
--
-
-2. (Disjoint).
+2. (disjoint).

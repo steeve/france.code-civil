@@ -50,7 +50,7 @@ autres que ceux visés au sixième alinéa, l'excédent constitue une créance s
 l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt
 sur le revenu dû au titre des années suivantes jusqu'à la cinquième année
 inclusivement. La fraction non utilisée est remboursée à l'expiration de cette
-période dans la limite d'un montant d'investissement de 10 000 000 F.
+période dans la limite d'un montant d'investissement de 1 525 000 euros (1).
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa
 durée normale d'utilisation si elle est inférieure, l'investissement ayant
@@ -82,24 +82,25 @@ effectuées en application des dispositions du huitième alinéa.
 
 La réduction d'impôt prévue au présent I s'applique aux investissements
 productifs mis à la disposition d'une entreprise dans le cadre d'un contrat de
-location si les conditions mentionnées aux 1° à 4° du onzième alinéa du I de
-l'article 217 undecies sont remplies et si 60 % de la réduction d'impôt sont
-rétrocédés à l'entreprise locataire sous forme de diminution du loyer et, le cas
-échéant, du prix de cession du bien à l'exploitant. Si, dans le délai de cinq
-ans de la mise à disposition du bien loué ou pendant sa durée normale
+location si les conditions mentionnées aux quatorzième à dix-septième alinéas du
+I de l'article 217 undecies sont remplies et si 60 % de la réduction d'impôt
+sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et,
+le cas échéant, du prix de cession du bien à l'exploitant. Si, dans le délai de
+cinq ans de la mise à disposition du bien loué ou pendant sa durée normale
 d'utilisation si elle est inférieure, l'une des conditions visées au présent
 alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une
 reprise au titre de l'année au cours de laquelle cet événement se réalise.
 
 II. 1. Les investissements mentionnés au I et dont le montant total par
-programme et par exercice est supérieur à 5 000 000 F ne peuvent ouvrir droit à
-réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget
-dans les conditions prévues au deuxième alinéa du III de l'article 217 undecies.
+programme et par exercice est supérieur à 760 000 euros (1) ne peuvent ouvrir
+droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du
+budget dans les conditions prévues au deuxième alinéa du III de l'article 217
+undecies.
 
 Les dispositions du premier alinéa sont également applicables aux
 investissements mentionnés au I et dont le montant total par programme et par
-exercice est supérieur à 2 000 000 F, lorsque le contribuable ne participe pas à
-l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
+exercice est supérieur à 300 000 euros (1), lorsque le contribuable ne participe
+pas à l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des
 transports, de la navigation de plaisance, de la pêche maritime, de la
@@ -117,7 +118,7 @@ réalisés entre le 1er janvier 2001 et le 31 décembre 2006, à l'exception des
 ci-après énumérés, pour lesquels les dispositions de l'article 163 tervicies
 demeurent applicables :
 
-1° Des investissements pour l'agrément ou l'autorisation préalables desquels une
+1° Des investissements pour l'agrément ou l'autorisation préalable desquels une
 demande est parvenue à l'administration avant le 1er janvier 2001 ;
 
 2° Des immeubles ayant fait l'objet avant cette date d'une déclaration
@@ -129,3 +130,6 @@ moins de leur prix.
 
 IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités
 d'application des I et II du présent article.
+
+(1) Ces dispositions s'appliquent à l'impôt sur le revenu établi au titre de
+l'année 2001.

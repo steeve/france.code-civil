@@ -2,7 +2,13 @@ Article 207
 ----
 1. Sont exonérés de l'impôt sur les sociétés :
 
-1° (Disposition devenue sans objet).
+1° (dispositions devenues sans objet)
+
+1° bis Les syndicats professionnels, quelle que soit leur forme juridique, et
+leurs unions pour leurs activités portant sur l'étude et la défense des droits
+et des intérêts collectifs matériels ou moraux de leurs membres ou des personnes
+qu'ils représentent et à condition qu'ils fonctionnent conformément aux
+dispositions qui les régissent (1) ;
 
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
 qu'elles fonctionnent conformément aux dispositions qui les régissent :
@@ -12,8 +18,7 @@ a. les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 b. les unions de sociétés coopératives agricoles d'approvisionnement et d'achat
 ;
 
-2° bis. Les syndicats agricoles, à condition qu'ils fonctionnent conformément
-aux dispositions qui les régissent ;
+2° bis. (Abrogé) (1).
 
 3° A condition qu'elles fonctionnent conformément aux dispositions qui les
 régissent, les sociétés coopératives de production, de transformation,
@@ -149,3 +154,6 @@ n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 2. (Abrogé)
 
 3. (Abrogé).
+
+(1) Ces dispositions s'appliquent aux exercices clos à compter du 1er janvier
+2001.

@@ -5,7 +5,9 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 1° Les réassurances, sous réserve de ce qui est dit à l'article 1000 ;
 
 2° Les assurances bénéficiant, en vertu de dispositions exceptionnelles, de
-l'exonération des droits de timbre et d'enregistrement ;
+l'exonération des droits de timbre et d'enregistrement, à l'exception de celles
+couvrant les risques maladie souscrites auprès des mutuelles définies par
+l'article L. 111-1 du code de la mutualité ;
 
 3° Les contrats d'assurances sur corps, marchandises transportées et
 responsabilité civile du transporteur, des navires de commerce et des navires de
@@ -62,8 +64,12 @@ famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation.
 
 14° (Dispositions devenues sans objet).
 
-(1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les
-opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
-populaire exonérées dès le 1er janvier 1990.
+15° Les contrats d'assurance maladie relatifs à des opérations individuelles et
+collectives à adhésion facultative à la condition que l'organisme ne recueille
+pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des
+personnes souhaitant bénéficier de cette couverture et que les cotisations ou
+les primes ne soient pas fixées en fonction de l'état de santé de l'assuré (3) ;
 
-(2) Cette exonération s'applique à compter du 1er janvier 1991.
+16° Les contrats d'assurance maladie relatifs à des opérations collectives à
+adhésion obligatoire à la condition que les cotisations ou les primes ne soient
+pas fixées en fonction de l'état de santé de l'assuré (3).

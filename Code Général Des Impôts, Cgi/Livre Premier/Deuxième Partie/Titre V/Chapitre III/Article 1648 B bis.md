@@ -4,11 +4,11 @@ I. Il est créé un fonds national de péréquation qui dispose :
 
 1° du produit disponible défini au III de l'article 1648 B ;
 
-2° du produit résultant de l'application de l'antepénultième alinéa du IV
-modifié de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30
-décembre 1986). Ce montant évolue chaque année, à compter de 1996, en fonction
-de l'indice de variation des recettes fiscales de l'Etat tel que défini au 2° du
-II de l'article 1648 A bis.
+2° du produit résultant de l'application du neuvième alinéa du IV modifié de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986). Ce
+montant évolue chaque année, à compter de 1996, en fonction de l'indice de
+variation des recettes fiscales de l'Etat tel que défini au 2° du II de
+l'article 1648 A bis.
 
 II. Le fonds est réparti entre les communes dans les conditions précisées aux
 III, III bis, IV, V et VI ci-dessous, après prélèvement opéré
@@ -18,12 +18,13 @@ et 2° du I, des sommes nécessaires à :
 1° l'application du III de l'article 52 de la loi n° 95-115 du 4 février 1995
 modifiée d'orientation pour l'aménagement et le développement du territoire ;
 
-2° puis à la quote-part destinée aux communes des départements d'outre-mer. Elle
-est calculée en appliquant au montant de la part communale diminuée du
-prélèvement mentionné au 1°, le rapport, majoré de 10 p. 100, existant, d'après
-le dernier recensement général, entre la population des communes des
-départements d'outre-mer et celle des communes de métropole et des départements
-d'outre-mer.
+2° puis à la quote-part destinée aux communes des départements d'outre-mer et de
+la collectivité départementale de Mayotte. Elle est calculée en appliquant au
+montant de la part communale diminuée du prélèvement mentionné au 1°, le
+rapport, majoré de 10 %, existant, d'après le dernier recensement général, entre
+la population des communes des départements d'outre-mer et de la collectivité
+départementale de Mayotte et celle des communes de métropole et des départements
+d'outre-mer et de la collectivité départementale de Mayotte.
 
 Cette quote-part est répartie dans des conditions fixées par décret en Conseil
 d'Etat.
@@ -31,7 +32,7 @@ d'Etat.
 III. Bénéficient du fonds les communes de métropole qui remplissent les deux
 conditions suivantes :
 
-1° le potentiel fiscal est inférieur de 5 p. 100 au potentiel fiscal moyen par
+1° le potentiel fiscal est inférieur de 5 % au potentiel fiscal moyen par
 habitant de l'ensemble des communes appartenant au même groupe démographique tel
 que défini à l'article L. 2334-3 du code général des collectivités territoriales
 ;
@@ -39,12 +40,12 @@ que défini à l'article L. 2334-3 du code général des collectivités territor
 2° l'effort fiscal est supérieur à l'effort fiscal moyen des communes
 appartenant au même groupe démographique.
 
-Par dérogation à l'alinéa précédent, il n'est pas tenu compte de la seconde
-condition pour les communes dont le taux d'imposition à la taxe professionnelle
-est égal au plafond prévu aux IV et V de l'article 1636 B septies. Par
-dérogation aux dispositions précédentes, les communes de 10 000 habitants au
-moins dont le potentiel fiscal est inférieur du tiers au potentiel fiscal moyen
-par habitant de l'ensemble des communes appartenant au même groupe
+Par dérogation aux premier à troisième alinéas, il n'est pas tenu compte de la
+seconde condition pour les communes dont le taux d'imposition à la taxe
+professionnelle est égal au plafond prévu aux IV et V de l'article 1636 B
+septies. Par dérogation aux dispositions précédentes, les communes de 10 000
+habitants au moins dont le potentiel fiscal est inférieur du tiers au potentiel
+fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe
 démographique, et l'effort fiscal est supérieur à 80 % de l'effort fiscal moyen
 des communes appartenant au même groupe démographique bénéficient du fonds dans
 les conditions prévues au IV.
@@ -79,7 +80,7 @@ déterminée en proportion de l'écart relatif entre le potentiel fiscal moyen p
 habitant de l'ensemble des communes appartenant au même groupe démographique et
 le potentiel fiscal par habitant de la commune.
 
-Toutefois, les communes éligibles au fonds en application du dernier alinéa du
+Toutefois, les communes éligibles au fonds en application du cinquième alinéa du
 III du présent article bénéficient d'une attribution réduite de moitié.
 
 Lorsqu'une attribution revenant à une commune diminue de plus de moitié par
@@ -93,7 +94,7 @@ qu'elle a perçue l'année précédente.
 
 L'attribution revenant à une commune ne peut, en aucun cas, prendre en compte
 les montants attribués l'année précédente au titre des garanties mentionnées aux
-deux alinéas précédents.
+quatrième et cinquième alinéas.
 
 Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes
 directes locales, l'attribution par habitant revenant à la commune est égale à
@@ -119,4 +120,4 @@ inférieur de 20 p. 100 au potentiel fiscal par habitant du même groupe
 démographique.
 
 VI. Aucune attribution calculée en application des alinéas précédents n'est
-versée si son montant est inférieur ou égal à 2 000 F.
+versée si son montant est inférieur ou égal à 305 euros.

@@ -21,7 +21,7 @@ d'agrandissement ;
 b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et
 commerciaux destinées à protéger ces locaux des effets de l'amiante ou à
 faciliter l'accueil des handicapés, à l'exclusion des frais correspondant à des
-travaux de construction, de reconstruction ou d'agrandissement ;
+travaux de construction, de reconstruction ou d'agrandissement (1) ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
 code de l'urbanisme et les zones de protection du patrimoine architectural,
@@ -58,7 +58,7 @@ conditions mentionnées au cinquième alinéa du 3° du I de l'article 156 doive
 être remplies ;
 
 Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues au premier alinéa sont fixées par décret ;
+dispositions prévues au premier alinéa sont fixées par décret ; (2)
 
 c) Les impositions, autres que celles incombant normalement à l'occupant,
 perçues, à raison desdites propriétés, au profit des collectivités locales, de
@@ -76,30 +76,6 @@ déduction, fixée à 6 p. 100, représente les frais de gestion et l'assurance 
 l'exclusion de celle visée au a bis. La déduction forfaitaire au taux de 14 %
 est de nouveau applicable à l'expiration de l'application du régime visé au g.
 
-Le taux de cette déduction est porté à 35 p. 100 pour les revenus des dix
-premières années de location des logements ouvrant droit à la réduction visée au
-II de l'article 199 nonies à la condition que ces logements soient loués à titre
-de résidence principale pendant les six années qui suivent celle de leur
-achèvement ou de leur acquisition si elle est postérieure. En cas de non-respect
-de l'engagement ou de cession du logement, le supplément de déduction pratiqué à
-ce titre fait l'objet d'une reprise au titre de l'année de la rupture de
-l'engagement ou de la cession.
-
-Ce taux est accordé dans les mêmes conditions pour les revenus fonciers perçus
-par les contribuables qui, pour la gestion de leur patrimoine personnel,
-souscrivent entre le 1er juin 1986 et le 31 décembre 1989 à la constitution des
-sociétés civiles régies par la section 3 du chapitre IV du titre Ier du livre II
-du code monétaire et financier ou aux augmentations de capital de telles
-sociétés constituées durant la même période, lorsque le produit de cette
-souscription est exclusivement destiné à financer la construction ou
-l'acquisition d'immeubles locatifs neufs situés en France et affectés pour les
-trois quarts au moins de leur superficie à usage d'habitation principale du
-locataire.
-
-Le taux de 35 p. 100 mentionné au deuxième alinéa, est ramené à 25 p. 100 pour
-les investissements qui ouvrent droit à la réduction d'impôt dans les conditions
-mentionnées au I de l'article 199 decies A.
-
 Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les
 revenus des six premières années de location des logements qui ne peuvent donner
 lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant aux
@@ -115,8 +91,8 @@ ascendant ou un descendant du contribuable, une personne occupant déjà le
 logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt
 sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
 ascendant ou un descendant d'un associé. Les associés des sociétés précitées
-s'engagent à conserver leurs parts pendant au moins six ans. Un contribuable ne
-peut, pour un même logement ou une même souscription de titres, pratiquer la
+s'engagent à conserver leurs parts pendant au moins six ans. (3) Un contribuable
+ne peut, pour un même logement ou une même souscription de titres, pratiquer la
 réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la
 déduction forfaitaire au taux de 25 % prévue au présent alinéa. Lorsque la
 location est suspendue à l'issue d'une période d'au moins trois ans au profit
@@ -131,12 +107,12 @@ logement à usage d'habitation principale de son personnel, à l'exclusion du
 propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
 ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
 Un décret précise les conditions de cette location, notamment les modalités
-d'appréciation des loyers et des ressources de l'occupant.
+d'appréciation des loyers et des ressources de l'occupant (4).
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
-logement ouvrant droit aux dispositions du cinquième alinéa, cette allocation
-est versée au bailleur.
+logement ouvrant droit aux dispositions du deuxième alinéa, cette allocation est
+versée au bailleur.
 
 Le taux de déduction mentionné au premier alinéa est porté à 60 % pendant trois
 ans, pour les revenus tirés de la location des logements qui répondent aux
@@ -149,7 +125,7 @@ habitation principale. Cet engagement prévoit en outre que le loyer et les
 ressources du locataire, constatées à la date à laquelle la location avec ce
 locataire ouvre droit pour la première fois aux dispositions du présent alinéa,
 ne doivent pas excéder des plafonds qui seront fixés par décret à des niveaux
-inférieurs à ceux mentionnés au cinquième alinéa. L'engagement prévoit également
+inférieurs à ceux mentionnés au deuxième alinéa. L'engagement prévoit également
 que la location ne peut pas être conclue avec un membre du foyer fiscal, un
 ascendant ou un descendant du contribuable ou, si le logement est la propriété
 d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un
@@ -165,10 +141,10 @@ la disposition de personnes défavorisées mentionnées à l'article 1er de la l
 n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement autres
 qu'un membre du foyer fiscal, un ascendant ou un descendant du contribuable, et
 qui est agréé à cet effet par le représentant de l'Etat dans le département, ne
-fait pas obstacle au bénéfice de la déduction prévue au huitième alinéa ;
+fait pas obstacle au bénéfice de la déduction prévue au cinquième alinéa ;
 
-En cas de non-respect de l'un des engagements mentionnés au cinquième ou au
-huitième alinéa ou de cession du logement ou des parts sociales, le supplément
+En cas de non-respect de l'un des engagements mentionnés au deuxième ou au
+cinquième alinéa ou de cession du logement ou des parts sociales, le supplément
 de déduction forfaitaire fait l'objet d'une reprise au titre de l'année de la
 rupture de l'engagement ou de la cession. En cas d'invalidité correspondant au
 classement dans la deuxième ou la troisième des catégories prévues à l'article
@@ -176,12 +152,12 @@ L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du
 contribuable ou de l'un des époux soumis à imposition commune, cette reprise
 n'est pas appliquée.
 
-Tant que la condition de loyer prévue au cinquième ou au huitième alinéa demeure
+Tant que la condition de loyer prévue au deuxième ou au cinquième alinéa demeure
 remplie, le bénéfice du taux majoré est prorogé par périodes de trois ans, en
 cas de poursuite, de reconduction ou de renouvellement du contrat de location.
 
 Sous réserve que les conditions de loyer et de ressources du nouveau locataire
-prévues au cinquième ou au huitième alinéa soient remplies, le taux majoré
+prévues au deuxième ou au cinquième alinéa soient remplies, le taux majoré
 demeure également applicable en cas de changement de titulaire du bail.
 
 Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à
@@ -234,16 +210,16 @@ l'amortissement, égale à 10 p. 100 du montant de la dépense pendant dix ans.
 La période d'amortissement a pour point de départ le premier jour du mois
 d'achèvement des travaux.
 
-Les dispositions des premier à cinquième alinéas s'appliquent dans les mêmes
+Les dispositions des premier à septième alinéas s'appliquent dans les mêmes
 conditions lorsque les immeubles sont la propriété d'une société non soumise à
 l'impôt sur les sociétés à la condition que les porteurs de parts s'engagent à
 conserver les titres jusqu'à l'expiration de la durée de neuf ans mentionnée au
-troisième alinéa et au 1 du quatrième alinéa.
+troisième alinéa et au 1..
 
 Le revenu net foncier de l'année au cours de laquelle l'un des engagements
-définis aux troisième à sixième alinéa n'est pas respecté est majoré du montant
-des amortissements déduits. Pour son imposition, la fraction du revenu net
-foncier correspondant à cette majoration est divisée par le nombre d'années
+définis aux troisième à huitième alinéas n'est pas respecté est majoré du
+montant des amortissements déduits. Pour son imposition, la fraction du revenu
+net foncier correspondant à cette majoration est divisée par le nombre d'années
 civiles pendant lesquelles l'amortissement a été déduit ; le résultat est ajouté
 au revenu global net de l'année de la rupture de l'engagement et l'impôt
 correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue
@@ -266,16 +242,16 @@ doit avoir été délivré avant le 1er janvier 1999 ;
 2. La construction des logements doit avoir été achevée avant le 1er juillet
 2001.
 
-Pour l'application des dispositions du neuvième alinéa, les contribuables
-doivent joindre à la déclaration des revenus mentionnée au troisième alinéa une
-copie de la notification de l'arrêté délivrant le permis de construire et de la
-déclaration d'achèvement des travaux accompagnée des pièces attestant de sa
-réception en mairie.
+Pour l'application des dispositions des onzième à treizième alinéas, les
+contribuables doivent joindre à la déclaration des revenus mentionnée au
+troisième alinéa une copie de la notification de l'arrêté délivrant le permis de
+construire et de la déclaration d'achèvement des travaux accompagnée des pièces
+attestant de sa réception en mairie.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent f,
 notamment les obligations déclaratives incombant aux contribuables et aux
 sociétés qui y sont mentionnés, ainsi que les modalités de décompte des
-déductions pratiquées au titre des amortissements considérés ;
+déductions pratiquées au titre des amortissements considérés (5) ;
 
 g) Pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement à compter du 1er janvier 1999, et à la demande du contribuable, une
@@ -306,18 +282,18 @@ ou un descendant. Cette location doit prendre effet dans les douze mois qui
 suivent la date d'achèvement de l'immeuble ou de son acquisition si elle est
 postérieure. Cet engagement prévoit, en outre, que le loyer et les ressources du
 locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
-plafonds fixés par décret. La location du logement consentie dans les conditions
-fixées au sixième alinéa du e à un organisme public ou privé pour le logement à
-usage d'habitation principale de son personnel, à l'exclusion du propriétaire du
-logement, de son conjoint, de membres de son foyer fiscal ou de ses descendants
-et ascendants, ne fait pas obstacle au bénéfice de la déduction. Lorsque la
-location est suspendue à l'issue d'une période d'au moins trois ans au profit
-d'un ascendant ou d'un descendant du contribuable, ce dernier ne bénéficie pas,
-pendant la période de mise à disposition du logement au profit d'un ascendant ou
-d'un descendant, de la déduction au titre de l'amortissement, et la déduction
-forfaitaire s'applique au taux de 14 %. Cette période de mise à disposition, qui
-ne peut excéder neuf ans, n'est pas prise en compte pour la durée de location
-minimale de neuf ans.
+plafonds fixés par décret (6). La location du logement consentie dans les
+conditions fixées au troisième alinéa du e à un organisme public ou privé pour
+le logement à usage d'habitation principale de son personnel, à l'exclusion du
+propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
+ses descendants et ascendants, ne fait pas obstacle au bénéfice de la déduction.
+Lorsque la location est suspendue à l'issue d'une période d'au moins trois ans
+au profit d'un ascendant ou d'un descendant du contribuable, ce dernier ne
+bénéficie pas, pendant la période de mise à disposition du logement au profit
+d'un ascendant ou d'un descendant, de la déduction au titre de l'amortissement,
+et la déduction forfaitaire s'applique au taux de 14 %. Cette période de mise à
+disposition, qui ne peut excéder neuf ans, n'est pas prise en compte pour la
+durée de location minimale de neuf ans.
 
 A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
@@ -373,17 +349,17 @@ Les dispositions du présent g s'appliquent dans les mêmes conditions lorsque
 l'immeuble est la propriété d'une société non soumise à l'impôt sur les
 sociétés, à la condition que le porteur de parts s'engage à conserver la
 totalité de ses titres jusqu'à l'expiration de la durée de neuf ans mentionnée
-au troisième alinéa et au sixième alinéa. Si un logement dont la société est
-propriétaire est loué à l'un des associés ou à un membre du foyer fiscal, un
-ascendant ou un descendant d'un associé, ce dernier ne peut pas bénéficier de la
-déduction au titre de l'amortissement. En outre, la déduction au titre de
-l'amortissement n'est pas applicable aux revenus des titres dont le droit de
-propriété est démembré. Toutefois, lorsque le transfert de la propriété des
-titres ou le démembrement de ce droit résulte du décès de l'un des époux soumis
-à imposition commune, le conjoint survivant attributaire des titres ou titulaire
-de leur usufruit peut demander la reprise à son profit, dans les mêmes
-conditions et selon les mêmes modalités, du dispositif prévu au présent g pour
-la période restant à courir à la date du décès.
+au troisième alinéa et au 1.. Si un logement dont la société est propriétaire
+est loué à l'un des associés ou à un membre du foyer fiscal, un ascendant ou un
+descendant d'un associé, ce dernier ne peut pas bénéficier de la déduction au
+titre de l'amortissement. En outre, la déduction au titre de l'amortissement
+n'est pas applicable aux revenus des titres dont le droit de propriété est
+démembré. Toutefois, lorsque le transfert de la propriété des titres ou le
+démembrement de ce droit résulte du décès de l'un des époux soumis à imposition
+commune, le conjoint survivant attributaire des titres ou titulaire de leur
+usufruit peut demander la reprise à son profit, dans les mêmes conditions et
+selon les mêmes modalités, du dispositif prévu au présent g pour la période
+restant à courir à la date du décès.
 
 Le revenu net foncier de l'année au cours de laquelle l'un des engagements
 définis au présent g n'est pas respecté est majoré du montant des amortissements
@@ -400,11 +376,11 @@ ne s'applique pas.
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
-logement ouvrant droit aux dispositions du présent g, cette allocation est
+logement ouvrant droit aux dispositions du dixième alinéa, cette allocation est
 versée au bailleur.
 
 Pour un même logement, les dispositions du présent g sont exclusives de
-l'application des dispositions des articles 199 undecies ou 199 undecies A.
+l'application des dispositions des articles 199 undecies ou 199 undecies A (7).
 
 2° Pour les propriétés rurales :
 
@@ -420,10 +396,10 @@ techniques modernes de l'agriculture, sont considérées comme des dépenses
 d'amélioration non rentables à condition que la construction nouvelle n'entraîne
 pas une augmentation du fermage ;
 
-c bis) Dans les conditions fixées par décret, les dépenses d'amélioration et de
-construction, qui s'incorporent aux bâtiments d'exploitation rurale, destinées à
-satisfaire aux obligations prévues au titre Ier du livre V du code de
-l'environnement, relatif aux installations classées pour la protection de
+c bis) Dans les conditions fixées par décret (8), les dépenses d'amélioration et
+de construction, qui s'incorporent aux bâtiments d'exploitation rurale,
+destinées à satisfaire aux obligations prévues au titre Ier du livre V du code
+de l'environnement, relatif aux installations classées pour la protection de
 l'environnement ;
 
 d) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les

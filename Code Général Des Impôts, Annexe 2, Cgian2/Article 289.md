@@ -17,7 +17,7 @@ présentant les mêmes indications, prévue par le deuxième alinéa de l'articl
 du code général des impôts ;
 
 4. Autorisation spéciale de décharge des quantités de boissons de raisins secs
-imparfaites ou avariées délivrée aux fabricants, prévue par le dernier alinéa de
+imparfaites ou avariées délivrée aux fabricants, prévue par le sixième alinéa de
 l'article 140 de l'annexe III au code général des impôts ;
 
 5. (sans objet)

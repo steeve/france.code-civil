@@ -1,11 +1,11 @@
 Article 361 bis
 ----
-I. Il est institué pour les campagnes 1992-1993 à 1996-1997 une taxe parafiscale
+I. Il est institué pour les campagnes 1997-1998 à 2001-2002 une taxe parafiscale
 au profit des organismes interprofessionnels de vins mentionnés à l'article 1er
 du décret n° 97-1003 du 30 octobre 1997.
 
 Cette taxe est destinée à couvrir les dépenses afférentes aux actions d'intérêt
-interprofessionnel conduites par ces organismes, ainsi que leurs frais de
+interprofessionnel conduites par ces organismes ainsi que leurs frais de
 fonctionnement.
 
 II. La taxe est due lors de la délivrance du titre de mouvement légitimant la
@@ -28,7 +28,7 @@ L'administration reverse aux organismes bénéficiaires le montant de la taxe
 après déduction, dans les conditions réglementaires, des frais d'assiette et de
 perception.
 
-V. Le montant maximum de la taxe est fixé à 5 F par hectolitre.
+V. Le montant maximum de la taxe est fixé à 0,76 euros par hectolitre.
 
 Un arrêté conjoint des ministres chargés de l'économie, du budget et de
 l'agriculture fixe le montant applicable dans la limite du montant maximum.

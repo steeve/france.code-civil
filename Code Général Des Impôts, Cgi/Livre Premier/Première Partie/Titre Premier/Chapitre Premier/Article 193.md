@@ -18,5 +18,5 @@ aux articles 182 B, 199 ter et 199 ter A et sous réserve de l'utilisation
 éventuelle de l'avoir fiscal visé au I de l'article 158 bis.
 
 Pour l'application du premier alinéa, le revenu imposable ainsi que les
-différents éléments ayant concouru à sa détermination, sont arrondis au franc le
-plus proche. La fraction de franc égale à 0,50 est comptée pour 1.
+différents éléments ayant concouru à sa détermination, sont arrondis à l'euro le
+plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

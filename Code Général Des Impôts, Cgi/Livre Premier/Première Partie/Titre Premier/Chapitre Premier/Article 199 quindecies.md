@@ -7,14 +7,12 @@ une section de cure médicale ouvrent droit à une réduction d'impôt égale à
 100 du montant des sommes versées, retenues dans la limite de 2 300 euros par
 personne hébergée.
 
-La réduction d'impôt prévue à l'alinéa précédent s'applique dans les mêmes
+La réduction d'impôt prévue au premier alinéa s'applique dans les mêmes
 conditions aux dépenses afférentes à la dépendance effectivement supportées à
 raison de l'accueil dans un établissement ayant conclu la convention
-pluriannuelle visée à l'article L. 312-8 du code de l'action sociale et des
-familles (1).
+pluriannuelle visée à l'article L. 313-12 du code de l'action sociale et des
+familles.
 
 Les personnes qui n'ont pas leur domicile fiscal en France au sens de l'article
 4 B ne bénéficient pas de cette réduction d'impôt. Les dispositions du 5 du I de
 l'article 197 sont applicables.
-
-(1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 2000.

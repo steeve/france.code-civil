@@ -13,12 +13,12 @@ mentionné séparément.
 Doivent également être mentionnés séparément, lorsque la contribution pour le
 remboursement de la dette sociale leur a déjà été appliquée en application de
 l'article 1600-0 J du code général des impôts, les produits attachés à un bon ou
-contrat de capitalisation ou à un placement de même nature libellé en francs,
-les produits capitalisés d'un plan d'épargne populaire ainsi que les
-répartitions d'un fonds commun de placement à risques et les distributions d'une
-société de capital-risque qui ont bénéficié d'une exonération conditionnelle
-d'impôt sur le revenu et qui, par suite du non-respect des conditions prévues
-par la loi, deviennent imposables à l'impôt sur le revenu.
+contrat de capitalisation ou à un placement de même nature libellé en euros, les
+produits capitalisés d'un plan d'épargne populaire ainsi que les répartitions
+d'un fonds commun de placement à risques et les distributions d'une société de
+capital-risque qui ont bénéficié d'une exonération conditionnelle d'impôt sur le
+revenu et qui, par suite du non-respect des conditions prévues par la loi,
+deviennent imposables à l'impôt sur le revenu.
 
 Les revenus des placements visés au troisième alinéa doivent également être
 mentionnés séparément, lorsque la contribution sociale généralisée leur a déjà

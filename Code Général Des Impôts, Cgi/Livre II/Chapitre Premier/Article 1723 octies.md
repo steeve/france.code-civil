@@ -7,12 +7,12 @@ même code, est dû par le bénéficiaire de l'autorisation de construire. Ce
 versement peut être mis à la charge du lotisseur ou de l'association foncière
 urbaine de remembrement (2). En cas de désaccord sur la valeur du terrain, il
 est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation
-administrative. Lorsqu'il n'excède pas 80 F le versement n'est pas mis en
+administrative. Lorsqu'il n'excède pas 12 euros le versement n'est pas mis en
 recouvrement.
 
 Il doit être payé au comptable du Trésor de la situation des biens en deux
 fractions égales ou en un versement unique lorsque le montant dû n'excède pas
-2.000 F.
+305 euros.
 
 Le paiement de la première fraction ou le versement unique est exigible à
 l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du
@@ -34,11 +34,3 @@ dans les six mois de l'appel.
 Le montant donnant lieu à restitution est majoré des intérêts au taux légal
 courus depuis la date à laquelle la première fraction du versement a été
 acquittée.
-
-(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent
-applicables dans les communes où un plafond légal de densité était institué le
-31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13
-décembre 2000. Les références au code de l'urbanisme sont celles dans leur
-rédaction antérieure à l'entrée en vigueur de cette loi).
-
-(2) Code de l'urbanisme, art. L. 333-9-1.

@@ -29,8 +29,8 @@ Quand l'agrément n'est pas nécessaire, l'exonération porte sur l'augmentation
 nette des bases d'imposition résultant des emplois créés et des immobilisations
 nouvelles appréciée par rapport à la dernière année précédant l'opération ou par
 rapport à la moyenne des trois dernières années si celle-ci est supérieure.
-Toutefois, le prix de revient des immobilisations exonérées ne peut excéder dix
-millions de francs par emploi créé. Par délibération, les collectivités locales
+Toutefois, le prix de revient des immobilisations exonérées ne peut excéder 1
+524 490 euros par emploi créé. Par délibération, les collectivités locales
 peuvent fixer ce montant à un niveau moins élevé.
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à

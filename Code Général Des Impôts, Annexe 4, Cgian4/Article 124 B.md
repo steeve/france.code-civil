@@ -4,8 +4,8 @@ La déclaration prévue à l'article 1565 quinquies du code général des impôt
 conforme au modèle qui figure en annexe III à l'arrêté du 31 mars 1998. Elle est
 souscrite par l'exploitant en trois exemplaires qui sont soit extraits d'un
 carnet à souche, soit édités selon une procédure informatisée. Dans ce dernier
-cas, ladite déclaration comprend, en plus des indications citées aux a à g du
-troisième alinéa, un numéro tiré d'une série annuelle continue.
+cas, ladite déclaration comprend, en plus des indications citées aux a à g, un
+numéro tiré d'une série annuelle continue.
 
 Un exemplaire de ce document est conservé par l'exploitant et le dépositaire
 selon les modalités prévues au I de l'article L. 102 B du livre des procédures

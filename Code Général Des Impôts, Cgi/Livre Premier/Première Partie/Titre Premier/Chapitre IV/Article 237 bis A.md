@@ -49,7 +49,7 @@ Les entreprises qui versent, au titre du plan partenarial d'épargne salariale
 volontaire créé à l'article L. 443-1-2 du code du travail et dans le cadre des
 dispositions de l'article L. 443-7 du même code, des sommes complémentaires au
 montant versé par leurs salariés pour l'acquisition de parts de fonds régis par
-les quatre derniers alinéas de l'article L. 214-39 du code monétaire et
+les quinzième à dix-huitième alinéas de l'article L. 214-39 du code monétaire et
 financier peuvent constituer, en franchise d'impôt, une provision pour
 investissement égale à 35 % des versements complémentaires. Les titres
 d'entreprises solidaires ou d'organismes acquis doivent être conservés pendant

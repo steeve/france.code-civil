@@ -54,10 +54,10 @@ Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour
 les achats imposables.
 
 1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont
-exprimés dans une monnaie autre que le franc français, le taux de change à
-appliquer est celui du dernier taux déterminé par référence au cours constaté
-sur le marché des changes entre banques centrales et publié par la Banque de
-France, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 269.
+exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est
+celui du dernier taux déterminé par référence au cours publié par la Banque de
+France à partir du cours fixé par la Banque centrale européenne, connu au jour
+de l'exigibilité de la taxe prévue au 2 de l'article 269.
 
 1 ter a. (abrogé).
 
@@ -88,7 +88,7 @@ b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de
 location-vente entrant dans les prévisions de l'article 1378 quinquies, sur la
 différence entre :
 
-D'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
+D'une part, le prix exprimé et les charges qui peuvent s'y ajouter ;
 
 D'autre part, les sommes versées par le cédant en vue de l'acquisition du
 logement.

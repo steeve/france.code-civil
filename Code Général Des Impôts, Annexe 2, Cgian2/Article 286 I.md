@@ -47,8 +47,8 @@ de vieillissement prévus par les textes réglementaires en vigueur et les
 règlements des organismes interprofessionnels.
 
 En cas d'application des dispositions de l'article 450 du code général des
-impôts ou des articles 661 et 662 du code rural, les registres doivent faire
-référence, pour chaque mouvement de produits vitivinicoles mentionnés au
+impôts ou des articles 661 et 662 du code rural ancien, les registres doivent
+faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au
 règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant organisation
 commune du marché vitivinicole, à l'avis de blocage, à l'engagement de garantie
 ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de

@@ -6,17 +6,17 @@ l'article 1417, sont dégrevés d'office de la taxe d'habitation afférente à l
 habitation principale pour la fraction de leur cotisation qui excède 4,3 % de
 leur revenu au sens du IV de l'article 1417 diminué d'un abattement fixé à :
 
-a. 22 500 F pour la première part de quotient familial, majoré de 6 500 F pour
-les quatre premières demi-parts et de 11 500 F pour chaque demi-part
+a. 3 533 euros pour la première part de quotient familial, majoré de 1 021 euros
+pour les quatre premières demi-parts et de 1 806 euros pour chaque demi-part
 supplémentaire à compter de la cinquième, en France métropolitaine ;
 
-b. 27 000 F pour la première part de quotient familial, majoré de 6 500 F pour
-les deux premières demi-parts et de 11 500 F pour chaque demi-part
+b. 4 241 euros pour la première part de quotient familial, majoré de 1 021 euros
+pour les deux premières demi-parts et de 1 806 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans les départements de la
 Martinique, de la Guadeloupe et de la Réunion ;
 
-c. 30 000 F pour la première part de quotient familial, majoré de 5 000 F pour
-les deux premières demi-parts et de 12 000 F pour chaque demi-part
+c. 4 712 euros pour la première part de quotient familial, majoré de 785 euros
+pour les deux premières demi-parts et de 1 883 euros pour chaque demi-part
 supplémentaire à compter de la troisième, dans le département de la Guyane.
 
 Ces montants d'abattements sont, chaque année, indexés comme la limite
@@ -67,4 +67,4 @@ département sont différentes, la base la moins élevée est retenue ;
 b. Le taux global de taxe d'habitation comprend le taux des taxes spéciales
 d'équipement additionnelles à la taxe d'habitation ;
 
-c. La réduction n'est pas applicable si elle est inférieure à 100 F.
+c. La réduction n'est pas applicable si elle est inférieure à 15 euros.

@@ -12,8 +12,8 @@ Ce dégrèvement, accordé pour les impositions établies au titre de 1995 et de
 neuf années suivantes, est subordonné à la condition que les recettes de
 l'association foncière pastorale provenant d'activités autres qu'agricoles ou
 forestières n'excèdent ni 30 p. 100 du chiffre d'affaires tiré de l'activité
-agricole et forestière ni 200 000 F. Ces montants s'apprécient remboursements de
-frais inclus et taxes comprises.
+agricole et forestière ni 30 000 euros. Ces montants s'apprécient remboursements
+de frais inclus et taxes comprises.
 
 Pour bénéficier de ce dégrèvement, le propriétaire doit souscrire avant le 31
 janvier de chaque année une déclaration au service des impôts assortie des

@@ -15,12 +15,12 @@ définis aux articles 118, 119, 238 septies A, 238 septies B et 238 septies E.
 
 c. Les dividendes mentionnés au d du 5 de l'article 206.
 
-Les dispositions des premier et deuxième alinéas ne s'appliquent pas aux revenus
+Les dispositions des premier à cinquième alinéas ne s'appliquent pas aux revenus
 de l'espèce qui se rattachent à une exploitation commerciale, industrielle ou
 non commerciale.
 
 L'impôt correspondant aux revenus taxés conformément aux dispositions des
-premier et deuxième alinéas est établi, le cas échéant, sous une cote distincte.
+premier à cinquième alinéas est établi, le cas échéant, sous une cote distincte.
 
 II. L'impôt établi conformément au I n'est pas mis en recouvrement si son
 montant annuel n'excède pas 150 euros.

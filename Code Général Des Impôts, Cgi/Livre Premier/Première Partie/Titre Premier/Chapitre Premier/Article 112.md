@@ -5,7 +5,9 @@ Ne sont pas considérés comme revenus distribués :
 1° Les répartitions présentant pour les associés ou actionnaires le caractère de
 remboursements d'apports ou de primes d'émission. Toutefois, une répartition
 n'est réputée présenter ce caractère que si tous les bénéfices et les réserves
-autres que la réserve légale ont été auparavant répartis.
+autres que la réserve légale ont été auparavant répartis. Les dispositions
+prévues à la deuxième phrase ne s'appliquent pas lorsque la répartition est
+effectuée au titre du rachat par la société émettrice de ses propres titres.
 
 Sous réserve des dispositions du 3°, ne sont pas considérés comme des apports
 pour l'application de la présente disposition :
@@ -13,7 +15,9 @@ pour l'application de la présente disposition :
 a. Les réserves incorporées au capital ;
 
 b. Les sommes incorporées au capital ou aux réserves (primes de fusion ou de
-scission) à l'occasion d'une fusion ou d'une scission de sociétés.
+scission) à l'occasion d'une fusion ou d'une scission de sociétés ou d'un apport
+partiel d'actif donnant lieu à l'attribution de titres aux associés dans les
+conditions prévues au 2 de l'article 115.
 
 2° Les amortissements de tout ou partie de leur capital social, parts d'intérêt
 ou commandites, effectués par les sociétés concessionnaires de l'Etat, des
@@ -50,4 +54,5 @@ L. 225-208 ou L. 225-209 à L. 225-212 du code de commerce. Le régime des
 plus-values prévu, selon les cas, aux articles 39 duodecies, 150-0 A ou 150 A
 bis est alors applicable.
 
-(1) Annexe III, art. 41 bis à 41 quinquies.
+7° L'attribution d'actions ou de parts sociales opérée en conséquence de
+l'incorporation de réserves au capital.

@@ -4,7 +4,7 @@ A l'issue d'un examen contradictoire de la situation fiscale personnelle au
 regard de l'impôt sur le revenu ou d'une vérification de comptabilité, lorsque
 des redressements sont envisagés, l'administration doit indiquer, avant que le
 contribuable présente ses observations ou accepte les rehaussements proposés,
-dans la notification prévue à l'article L. 57 le montant des droits, taxes et
+dans la notification prévue à l'article L. 57, le montant des droits, taxes et
 pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la
 procédure de redressement contradictoire l'administration modifie les
 rehaussements, pour tenir compte des observations et avis recueillis au cours de
@@ -20,5 +20,5 @@ l'absence d'appartenance à un groupe.
 
 Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des
 rappels de droits et pénalités consécutifs aux redressements ou le bénéfice des
-dispositions visées au 3° du premier alinéa de l'article L. 247,
-l'administration en informe les contribuables dans les mêmes conditions.
+dispositions visées au 3° de l'article L. 247, l'administration en informe les
+contribuables dans les mêmes conditions.

@@ -3,41 +3,35 @@ Article 163 quinquies B
 I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq
 ans au moins à compter de leur souscription, des parts de fonds communs de
 placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes
-ou valeurs auxquelles donnent droit les parts concernées au titre de cette même
-période.
-
-Cette disposition s'applique aux souscriptions de parts effectuées depuis le 1er
-janvier 1984.
+ou valeurs auxquelles donnent droit les parts concernées.
 
 II. L'exonération est subordonnée aux conditions suivantes :
 
-1° Pour les souscriptions de parts effectuées entre le 1er janvier 1984 et le 31
-décembre 1989, ces fonds doivent être soumis aux dispositions du titre II bis de
-la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement et
-leurs actifs doivent être constitués de façon constante et pour 40 % au moins de
-titres, y compris les obligations convertibles, émis.
+1° Outre les conditions prévues aux articles L. 214-36 et L. 214-37 du code
+monétaire et financier, les titres pris en compte, directement ou indirectement,
+par l'intermédiaire d'un autre fonds commun de placement à risques ou d'une
+entité visée au b du 2 du même article L. 214-36 dans le quota d'investissement
+de 50 % doivent ête émis par des sociétés ayant leur siège dans un Etat membre
+de la Communauté européenne, qui exercent une activité mentionnée à l'article 34
+et qui sont soumises à l'impôt sur les sociétés dans les conditions de droit
+commun ou en seraient passibles dans les mêmes conditions si l'activité était
+exercée en France ;
 
-a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er
-janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une
-activité visée à l'article 34 et dont les actions ne sont pas admises aux
-négociations sur un marché réglementé.
+1° bis Sont également pris en compte, pour le calcul du quota d'investissement
+de 50 % mentionné au 1°, les titres donnant accès au capital de sociétés ayant
+leur siège dans un Etat membre de la Communauté européenne, dont les actions ou
+parts ne sont pas admises aux négociations sur un marché réglementé français ou
+étranger, qui sont soumises à l'impôt sur les sociétés dans les conditions de
+droit commun ou en seraient passibles dans les mêmes conditions si l'activité
+était exercée en France, et qui ont pour objet exclusif de détenir des
+participations :
 
-b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée
-par apport en numéraire après le 1er janvier 1984 ;
+a) Soit dans des sociétés qui répondent aux conditions prévues pour que leurs
+titres soient admis dans le quota d'investissement de 50 % ;
 
-1° bis Pour les souscriptions de parts effectuées à compter du 1er janvier 1990,
-les fonds doivent avoir 50 p. 100 de leurs actifs constitués par des titres
-remplissant les conditions prévues aux premier et troisième alinéas du I de
-l'article 1er modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses
-dispositions d'ordre économique et financier.
-
-Toutefois, jusqu'au 31 décembre 1992, l'exonération s'applique si toute
-augmentation de l'actif des fonds est investie pour 50 p. 100 au moins en titres
-visés au premier alinéa du I de l'article 1er de la loi précitée.
-
-1° ter Les fonds doivent avoir 50 % de leurs actifs constitués par des titres
-remplissant les conditions prévues aux quatrième à neuvième alinéas de l'article
-1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée ;
+b) Soit dans des sociétés qui répondent aux conditions mentionnées au premier
+alinéa et qui ont pour objet exclusif de détenir des participations dans des
+sociétés répondant aux conditions fixées au a..
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans
 le fonds et demeurer indisponibles pendant la période visée au I, premier alinéa
@@ -60,6 +54,4 @@ dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 d
 code de la sécurité sociale, décès, départ à la retraite ou licenciement.
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux
-gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79-594
-du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de
-ceux remplissant les conditions prévues au II 1°.
+gérants et dépositaires des fonds.

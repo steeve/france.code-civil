@@ -74,6 +74,6 @@ présenter, soit une attestation du maire de sa commune en ce qui concerne les
 sinistres sur les récoltes, soit un certificat dûment établi par le vétérinaire
 et légalisé par la mairie s'il s'agit de pertes de bétail.
 
-Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue à
-l'alinéa qui précède à l'encontre des contrevenants aux dispositions des
-articles L223-18 à L223-22 du code rural.
+Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au
+premier alinéa à l'encontre des contrevenants aux dispositions des articles
+L223-18 à L223-22 du code rural.

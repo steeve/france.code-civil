@@ -48,7 +48,7 @@ des titres empruntés.
 
 II bis. Les dispositions des articles L. 432-6 à L. 432-10 précités s'appliquent
 sous les mêmes conditions aux remises en pleine propriété, à titre de garantie,
-de valeurs, titres ou effets prévues au quatrième alinéa de l'article L. 431-7
+de valeurs, titres ou effets prévues au cinquième alinéa de l'article L. 431-7
 du code monétaire et financier effectuées dans le cadre d'opérations à terme
 d'instruments financiers réalisées de gré à gré, aux remises de titres prévues
 au 3 de l'article L. 432-6, ainsi qu'aux remises prévues à l'article L. 330-2 du

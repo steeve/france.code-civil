@@ -13,11 +13,10 @@ prenne l'engagement de ne pas affecter les terrains ou locaux à une exploitatio
 à caractère commercial ou professionnel pendant une durée minimale de trois ans
 à compter de la date de l'acte d'acquisition.
 
-Le montant de cet abattement qui ne peut être ni inférieur à 7 600 euros ni
-supérieur à 46 000 euros est fixé, dans ces limites, par fraction de 7 600
-euros.
+Le montant de cet abattement qui ne peut être ni inférieur à 7 600 € ni
+supérieur à 46 000 € est fixé, dans ces limites, par fraction de 7 600 €.
 
-Les décisions prises en application des premier et deuxième alinéas peuvent être
+Les décisions prises en application des premier à quatrième alinéas peuvent être
 limitées aux acquisitions portant sur des biens situés dans les zones de
 revitalisation rurale définies à l'article 1465 A.
 

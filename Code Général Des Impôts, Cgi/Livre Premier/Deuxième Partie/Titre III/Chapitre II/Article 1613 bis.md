@@ -12,7 +12,7 @@ Les boissons alcooliques passibles d'un des droits mentionnés au premier aliné
 lorsqu'elles sont additionnées exclusivement d'eau, ne sont pas soumises à la
 taxe.
 
-II. - Le tarif de la taxe mentionnée au I est fixé à 36,4 F par décilitre
+II. - Le tarif de la taxe mentionnée au I est fixé à 5,55 euros par décilitre
 d'alcool pur.
 
 III. - La taxe est due lors de la mise à la consommation en France des boissons

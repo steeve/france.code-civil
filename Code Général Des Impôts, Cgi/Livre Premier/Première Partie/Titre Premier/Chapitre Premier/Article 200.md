@@ -11,9 +11,11 @@ conditions fixées au b ;
 
 b. D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
-culturel, ou concourant à la mise en valeur du patrimoine artistique, à la
-défense de l'environnement naturel ou à la diffusion de la culture, de la langue
-et des connaissances scientifiques françaises ;
+culturel, ou concourant à la mise en valeur du patrimoine artistique, notamment
+à travers les souscriptions ouvertes pour financer l'achat d'objets ou d'oeuvres
+d'art destinés à rejoindre les collections d'un musée de France accessibles au
+public, à la défense de l'environnement naturel ou à la diffusion de la culture,
+de la langue et des connaissances scientifiques françaises ;
 
 c. Des établissements d'enseignement supérieur ou d'enseignement artistique,
 publics ou privés, à but non lucratif, agréés par le ministre chargé du budget,
@@ -28,13 +30,13 @@ d'Alsace-Moselle.
 
 Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre
 d'une activité bénévole et en vue strictement de la réalisation de l'objet
-social d'un organisme mentionné aux alinéas précédents, lorsque ces frais,
-dûment justifiés, ont été constatés dans les comptes de l'organisme et que le
-contribuable a renoncé expressément à leur remboursement. Ces dispositions
-s'appliquent aux frais engagés à compter de la date d'entrée en vigueur de la
-loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16 juillet 1984
-relative à l'organisation et à la promotion des activités physiques et
-sportives.
+social d'un organisme mentionné aux deuxième à sixième alinéas, lorsque ces
+frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et
+que le contribuable a renoncé expressément à leur remboursement. Ces
+dispositions s'appliquent aux frais engagés à compter de la date d'entrée en
+vigueur de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16
+juillet 1984 relative à l'organisation et à la promotion des activités physiques
+et sportives.
 
 2. Les fondations et associations reconnues d'utilité publique peuvent, lorsque
 leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat,

@@ -2,9 +2,9 @@ Article 102 ter
 ----
 1. Le bénéfice imposable des contribuables qui perçoivent des revenus non
 commerciaux d'un montant annuel, ajusté s'il y a lieu au prorata du temps
-d'activité au cours de l'année civile, n'excédant pas 175 000 F hors taxes est
-égal au montant brut des recettes annuelles diminué d'une réfaction forfaitaire
-de 35 % avec un minimum de 2 000 F.
+d'activité au cours de l'année civile, n'excédant pas 27 000 euros hors taxes
+est égal au montant brut des recettes annuelles diminué d'une réfaction
+forfaitaire de 35 % avec un minimum de 305 euros.
 
 Les plus ou moins-values provenant de la cession des biens affectés à
 l'exploitation sont prises en compte distinctement pour l'assiette de l'impôt
@@ -41,9 +41,9 @@ des honoraires.
 peuvent opter pour le régime visé à l'article 97.
 
 Cette option doit être exercée dans les délais prévus pour le dépôt de la
-déclaration visée à l'article 97. Elle est valable cinq ans tant que le
+déclaration visée à l'article 97. Elle est valable deux ans (1) tant que le
 contribuable reste de manière continue dans le champ d'application du présent
-article. Elle est reconduite tacitement par période de cinq ans. Les
+article. Elle est reconduite tacitement par période de deux ans (1). Les
 contribuables qui désirent renoncer à leur option pour le régime visé à
 l'article 97 doivent notifier leur choix à l'administration avant le 1er février
 de l'année suivant la période pour laquelle l'option a été exercée ou reconduite

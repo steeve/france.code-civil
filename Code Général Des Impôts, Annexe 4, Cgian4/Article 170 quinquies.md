@@ -8,10 +8,11 @@ aides à la localisation des activités institué par l'article 1er de l'arrêt�
 10 juillet 1982 :
 
 a. Pour les opérations concernant des programmes industriels prévoyant la
-réalisation de plus de 50 millions de francs d'investissements hors taxes ou
-engagés par des entreprises réalisant un chiffre d'affaires supérieur à un
-milliard de francs ou dont le capital est détenu à plus de 50 p. 100 par une
-entreprise dont le chiffre d'affaires consolidé dépasse un milliard de francs ;
+réalisation de plus de 7,6 millions d'euros d'investissements hors taxes ou
+engagés par des entreprises réalisant un chiffre d'affaires supérieur à cent
+cinquante millions d'euros ou dont le capital est détenu à plus de 50 % par une
+entreprise dont le chiffre d'affaires consolidé dépasse cent cinquante millions
+d'euros ;
 
 b. Pour les créations, extensions et décentralisations de services de direction,
 d'études, d'ingénierie et d'informatique ;

@@ -21,8 +21,8 @@ d'immatriculation et son numéro de série ;
 
 b) La date d'achat de l'appareil et sa provenance ;
 
-c) Les indications mentionnées au deuxième alinéa de l'article 124 A, à
-l'exception de celles visées aux j et k ;
+c) Les indications mentionnées aux a à l du 1° de l'article 124 A, à l'exception
+de celles visées aux j et k ;
 
 d) Les dates des transferts et/ou des remplacements successifs de l'appareil et
 l'adresse des nouveaux lieux d'exploitation ;

@@ -13,5 +13,5 @@ b. Contribution des responsables, non assurés, d'accidents qui donnent naissanc
 d'une opération de destruction des animaux nuisibles effectuée en vertu des
 articles 393 à 395 du code rural ;
 
-c. Contribution des assurés, somme forfaitaire maximum de 2,50 F par personne
-garantie.
+c. Contribution des assurés : somme forfaitaire maximum de 0,38 euro par
+personne garantie.

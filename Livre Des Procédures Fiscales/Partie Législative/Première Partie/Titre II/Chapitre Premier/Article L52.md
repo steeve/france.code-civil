@@ -9,7 +9,7 @@ ce qui concerne :
 des recettes brutes n'excède pas les limites prévues au I de l'article 302
 septies A du code général des impôts (1) ;
 
-2° Les contribuables se livrant à une activité agricole, lors que le montant
+2° Les contribuables se livrant à une activité agricole, lorsque le montant
 annuel des recettes brutes n'excède pas la limite prévue au b du II de l'article
 69 du code général des impôts (2).
 
@@ -22,23 +22,17 @@ comptes financiers utilisés à titre privé et professionnel, ni pour la
 vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice
 d'activités distinctes (3).
 
-Les dispositions du premier alinéa sont valables dans les cas où un même
-vérificateur contrôle à la fois l'assiette de plusieurs catégories différentes
-d'impôts ou de taxes.
+Les dispositions des trois premiers alinéas sont valables dans les cas où un
+même vérificateur contrôle à la fois l'assiette de plusieurs catégories
+différentes d'impôts ou de taxes.
 
-Cf. Instruction 1993-02-22 13L-2-93, ESFP.
+(1) Les limites prévues au I de l'article 302 septies A du CGI sont de 763 000
+euros s'il s'agit d'entreprises dont le commerce principal est de vendre des
+marchandises, objets, fournitures et denrées à emporter ou à consommer sur place
+ou de fournir le logement ou de 230 000 euros s'il s'agit d'autres entreprises.
 
-(1) Les limites de 5 000 000 F (4) et 1 500 000 F (4) prévues au I de l'article
-302 septies A du CGI s'appliquent aux contrôles pour lesquels la première
-intervention sur place a lieu à compter du 1er janvier 1996.
-
-(2) Ces dispositions s'appliquent aux contrôles pour lesquels la première
-intervention sur place a eu lieu à compter de l'entrée en vigueur de la loi
-94-126 du 11 février 1994.
+(2) Cette limite est de 274 400 euros.
 
 (3) Cette disposition s'applique pour le règlement des litiges nés à compter de
 la date d'entrée en vigueur de la loi 92-1476 du 31 décembre 1992 publiée au JO
 des 4 et 5 janvier 1993.
-
-(4) Ces montants sont portés respectivement à 763 000 et 230 000 euros à compter
-du 1er janvier 2002.

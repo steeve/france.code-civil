@@ -6,7 +6,11 @@ d'installation ou de remplacement du système de chauffage, des ascenseurs ou de
 l'installation sanitaire ouvrent droit à un crédit d'impôt sur le revenu lorsque
 ces travaux sont afférents à la résidence principale du contribuable située en
 France et sont éligibles au taux réduit de la taxe sur la valeur ajoutée en
-application de l'article 279-0 bis.
+application de l'article 279-0 bis. Ouvrent également droit au crédit d'impôt
+sur le revenu, dans les mêmes conditions, les dépenses payées entre le 1er
+octobre 2001 et le 31 décembre 2002 pour l'acquisition de matériaux d'isolation
+thermique et d'appareils de régulation de chauffage définis par arrêté du
+ministre chargé du budget.
 
 Ouvre également droit au crédit d'impôt le coût des équipements de production
 d'énergie utilisant une source d'énergie renouvelable intégrés à un logement
@@ -25,30 +29,30 @@ Un arrêté du ministre chargé du budget fixe la liste des équipements ouvrant
 droit au crédit d'impôt.
 
 2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit
-d'impôt ne peut excéder au cours des périodes définies aux premier et deuxième
-alinéas du 1 la somme de 20 000 F pour une personne célibataire, veuve ou
-divorcée et de 40 000 F pour un couple marié soumis à imposition commune. Cette
-somme est majorée de 2 000 F par personne à charge au sens des articles 196 à
-196 B. Cette majoration est fixée à 2 500 F pour le second enfant et à 3 000 F
-par enfant à partir du troisième.
+d'impôt ne peut excéder, pour l'ensemble de sa période d'application, la somme
+de 4 000 euros pour une personne célibataire, veuve ou divorcée et de 8 000
+euros pour un couple marié soumis à imposition commune. Cette somme est majorée
+de 400 euros par personne à charge au sens des articles 196 à 196 B. Cette
+majoration est fixée à 500 euros pour le second enfant et à 600 euros par enfant
+à partir du troisième.
 
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année
 d'achèvement du logement auquel s'intègrent les équipements ou de son
 acquisition si elle est postérieure, ou du paiement de la dépense par le
 contribuable dans les cas prévus au premier alinéa et à la dernière phrase du
-deuxième alinéa du 1. ;
+deuxième alinéa du 1.
 
-Le crédit d'impôt est égal à 15 % du montant des équipements figurant sur la
-facture de l'entreprise ayant réalisé les travaux ou, le cas échéant, pour les
-équipements de production d'énergie utilisant une source d'énergie renouvelable,
-du coût de ces équipements figurant sur une attestation fournie par le vendeur
-du logement.
+Le crédit d'impôt est égal à 15 % du montant des équipements, matériaux et
+appareils figurant sur la facture de l'entreprise ayant réalisé les travaux ou,
+le cas échéant, pour les équipements de production d'énergie utilisant une
+source d'énergie renouvelable, du coût de ces équipements figurant sur une
+attestation fournie par le vendeur du logement.
 
 Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa
 ou des factures, autres que les factures d'acompte, des entreprises ayant
 réalisé les travaux et comportant, outre les mentions prévues à l'article 289,
 l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le
-montant des équipements.
+montant des équipements, matériaux et appareils.
 
 Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au
 cours de laquelle les dépenses ont été payées, après imputation des réductions

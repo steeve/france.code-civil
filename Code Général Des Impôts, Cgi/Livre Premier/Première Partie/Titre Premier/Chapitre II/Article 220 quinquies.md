@@ -40,12 +40,17 @@ duquel intervient une cession ou une cessation totale d'entreprise, une fusion
 de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation
 des biens ou la liquidation judiciaire de la société.
 
-En cas de fusion ou opération assimilée, intervenant au cours des cinq années
-suivant celle de la clôture de l'exercice au titre duquel l'option visée au I a
-été exercée, le transfert de tout ou partie de la créance de la société
-apporteuse ou absorbée à la société bénéficiant de l'apport ou absorbante, peut
-être autorisé sur agrément délivré dans les conditions prévues à l'article 1649
-nonies.
+En cas de fusion, de scission ou d'opération assimilée intervenant au cours des
+cinq années suivant celle de la cl&lt;CB&gt;ture de l'exercice au titre duquel
+l'option visée au I a été exercée, la créance de la société absorbée, scindée ou
+apporteuse peut être transférée à la ou les sociétés bénéficiaires des apports.
+Le transfert de la créance est effectué pour sa valeur nominale.
+
+En cas de scission ou d'apport partiel d'actif, la créance est transmise au
+prorata du montant de l'actif net réel apporté à la ou aux sociétés
+bénéficiaires des apports apprécié à la date d'effet de l'opération.
+
+Un décret précise les modalités de transfert de la créance.
 
 III. (Abrogé).
 

@@ -45,7 +45,9 @@ dénaturés ; emploi de substances dénaturantes non conformes aux types officie
 vente ou détention de spiritueux dans la préparation desquels sont entrés des
 alcools dénaturés ou des mélanges d'alcool éthylique et de corps appartenant à
 la famille chimique des alcools ou présentant une fonction chimique alcool,
-susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois ;
+susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois
+lorsque ces mélanges sont destinés à la consommation humaine ou qu'ils
+présentent des dangers pour la santé publique ;
 
 8° détention ou vente par un fabricant ou marchand d'ouvrages d'or ou contenant
 de l'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons
@@ -71,14 +73,4 @@ accidentellement, en vue d'un profit, des cigarettes avec du tabac à fumer ;
 c) Les préposés aux entrepôts et à la vente des tabacs qui falsifient des tabacs
 manufacturés ;
 
-11° fabrication, détention, transport ou commercialisation d'allumettes de
-fraude conditionnées ou non ;
-
-détention frauduleuse d'ustensiles, instruments ou machines destinés à la
-fabrication d'allumettes lorsque cette détention s'accompagne de celle
-d'allumettes ou de matières susceptibles d'être utilisées pour la production de
-ces dernières ;
-
-fabrication, détention, transport ou commercialisation en fraude, soit d'un
-mélange chimique propre à la confection de têtes d'allumettes, soit d'unités de
-conditionnement munies d'un frottoir d'allumage.
+11° Devenu sans objet.

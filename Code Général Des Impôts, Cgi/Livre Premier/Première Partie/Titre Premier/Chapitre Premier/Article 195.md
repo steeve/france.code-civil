@@ -57,4 +57,4 @@ dispositions du code des pensions militaires d'invalidité et des victimes de la
 guerre, bénéficient d'une demi-part supplémentaire de quotient familial.
 
 Les contribuables qui bénéficient des dispositions des 3 ou 4 ne peuvent
-bénéficier des dispositions de l'alinéa précédent.
+bénéficier des dispositions du premier alinéa.

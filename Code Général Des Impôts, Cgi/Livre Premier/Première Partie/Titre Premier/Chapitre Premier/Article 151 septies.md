@@ -11,7 +11,7 @@ L'exonération prévue au premier alinéa s'applique sous les mêmes conditions 
 plus-values réalisées dans le cadre d'une activité agricole par des
 contribuables dont la moyenne des recettes, toutes taxes comprises, encaissées
 au cours des deux années civiles qui précèdent celle de leur réalisation
-n'excède pas 1 000 000 F.
+n'excède pas 152 600 euros.
 
 Le délai prévu au premier alinéa est décompté à partir du début d'activité. Par
 exception à cette règle, si cette activité fait l'objet d'un contrat de
@@ -22,11 +22,11 @@ visées au premier alinéa.
 
 Les plus-values réalisées à l'occasion de la cession de matériels agricoles ou
 forestiers par les entreprises de travaux agricoles ou forestiers sont exonérées
-si le chiffre d'affaires de ces entreprises est inférieur à 1 000 000 F et si
+si le chiffre d'affaires de ces entreprises est inférieur à 152 600 euros et si
 les autres conditions mentionnées au présent article sont remplies. Le chiffre
-d'affaires annuel de 1 000 000 F, prévu au présent alinéa, s'entend tous droits
-et taxes compris. Un décret précisera les modalités d'application du présent
-alinéa.
+d'affaires annuel de 152 600 euros, prévu au présent alinéa, s'entend tous
+droits et taxes compris. Un décret précisera les modalités d'application du
+présent alinéa.
 
 Les plus-values mentionnées aux premier, deuxième et quatrième alinéas
 s'entendent des plus-values nettes déterminées après compensation avec les
@@ -52,5 +52,5 @@ réalisées lors de la cession de locaux d'habitation meublés ou destinés à �
 loués meublés et faisant l'objet d'une location directe ou indirecte par des
 personnes autres que les loueurs professionnels. Les loueurs professionnels
 s'entendent des personnes inscrites en cette qualité au registre du commerce et
-des sociétés qui réalisent plus de 150 000 F de recettes annuelles ou retirent
-de cette activité au moins 50 % de leur revenu.
+des sociétés qui réalisent plus de 23 000 euros de recettes annuelles ou
+retirent de cette activité au moins 50 % de leur revenu.

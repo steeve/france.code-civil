@@ -15,10 +15,10 @@ Les dispositions du premier alinéa s'appliquent même si le nom de l'entreprise
 versante est associé aux opérations réalisées par ces organismes.
 
 2. La limite de déduction mentionnée au 1 est fixée à 3,25 p. 1 000 pour les
-dons faits à des fondations ou associations reconnues d'utilité publique et
-répondant aux conditions fixées au 1, ainsi qu'aux associations cultuelles ou de
-bienfaisance qui sont autorisées à recevoir des dons et legs et aux
-établissements publics des cultes reconnus d'Alsace-Moselle.
+dons faits à des fondations ou associations reconnues d'utilité publique ou à
+des musées de France et répondant aux conditions fixées au 1, ainsi qu'aux
+associations cultuelles ou de bienfaisance qui sont autorisées à recevoir des
+dons et legs et aux établissements publics des cultes reconnus d'Alsace-Moselle.
 
 La condition relative à la reconnaissance d'utilité publique est réputée remplie
 par les associations régies par la loi locale maintenue en vigueur dans les

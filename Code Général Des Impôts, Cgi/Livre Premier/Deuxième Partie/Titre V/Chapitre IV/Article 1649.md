@@ -19,11 +19,10 @@ bâties et non bâties seront applicables dans les départements d'outre-mer, ai
 que, le cas échéant, les mesures d'adaptation nécessaires.
 
 Un décret en Conseil d'Etat fixe la date d'entrée en vigueur et les adaptations
-nécessaires à l'application dans les départements d'outre-mer des articles
-1411-II, 1465, 1518, 1518 bis, 1636 B sexies, 1636 B septies, 1647 B quinquies
-et 1648 B (2).
+nécessaires à l'application dans les départements d'outre-mer du II de l'article
+1411 et des articles 1465, 1518, 1518 bis, 1636 B sexies, 1636 B septies et 1648
+B (2).
 
-(1) Annexe II, art. 327 E à 327 AB.
+(1) Annexe II, art. 329 à 333 J.
 
-(2) Annexe II, art. 327 AB et décret n° 85-260 du 22 février 1985, article 2 (JO
-du 24).
+(2) Décret n° 85-260 du 22 février 1985, article 3 (JO du 24).

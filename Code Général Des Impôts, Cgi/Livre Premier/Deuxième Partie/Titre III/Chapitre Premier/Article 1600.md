@@ -33,14 +33,22 @@ crédit mutuel ;
 les sociétés d'intérêt collectif agricole.
 
 11° Les artisans pêcheurs et les sociétés de pêche artisanale visés aux 1° et 1°
-bis de l'article 1455 ;
+bis de l'article 1455.
 
-Un décret fixe, chaque année, les sommes à imposer pour subvenir aux dépenses
-des chambres de commerce et d'industrie dont le budget est approuvé par le
-ministre chargé de l'industrie.
+La base d'imposition est réduite de moitié pour les artisans régulièrement
+inscrits au répertoire des métiers et qui restent portés sur la liste électorale
+de la chambre de commerce et d'industrie de leur circonscription (1).
 
-Des arrêtés préfectoraux fixent les sommes à imposer pour subvenir aux dépenses
-des autres chambres de commerce et d'industrie.
+Pour 2002, le produit de la taxe est arrêté par les chambres de commerce et
+d'industrie, sans que celui-ci puisse augmenter de plus de 1,5 % par rapport au
+produit de l'année précédente, afin de mettre en oeuvre des actions ou de
+réaliser des investissements dans le cadre de conventions conclues avec l'Etat
+dans des conditions définies par le décret prévu au dix-huitième alinéa.
+
+En l'absence de telles conventions, le produit arrêté par les chambres de
+commerce et d'industrie ne peut augmenter, par rapport à celui de l'année
+précédente, que d'un taux égal au quart du taux d'augmentation prévu au
+quinzième alinéa.
 
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie le
 rôle comprend les redevables de la taxe pour frais de chambres de commerce de

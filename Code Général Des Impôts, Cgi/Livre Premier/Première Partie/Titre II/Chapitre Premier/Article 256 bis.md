@@ -22,7 +22,7 @@ prévu aux articles 298 quater et 298 quinquies.
 Ces dispositions ne sont applicables que lorsque le montant des acquisitions
 réalisées par les personnes mentionnées ci-dessus n'a pas excédé, au cours de
 l'année civile précédente, ou n'excède pas, pendant l'année civile en cours au
-moment de l'acquisition, le seuil de 70 000 F.
+moment de l'acquisition, le seuil de 10 000 euros.
 
 Ce montant est égal à la somme, hors taxe sur la valeur ajoutée, des
 acquisitions de biens, autres que des moyens de transport neufs, les alcools,
@@ -30,7 +30,7 @@ les boissons alcooliques, les huiles minérales et les tabacs manufacturés, aya
 donné lieu à une livraison de biens située dans un autre Etat membre de la
 Communauté européenne, en application des dispositions de la législation de cet
 Etat prise pour la mise en oeuvre de l'article 8 et du B de l'article 28 ter de
-la directive C.E.E. n° 77-388 du 17 mai 1977 du Conseil des communautés
+la directive CEE n° 77-388 du 17 mai 1977 du Conseil des communautés
 européennes.
 
 2° bis Les acquisitions intracommunautaires de biens d'occasion d'oeuvres d'art,
@@ -40,8 +40,8 @@ sont pas soumises à la taxe sur la valeur ajoutée lorsque le vendeur ou
 l'assujetti est un assujetti revendeur qui a appliqué dans l'Etat membre de
 départ de l'expédition ou du transport du bien les dispositions de la
 législation de cet Etat prises pour la mise en oeuvre des B ou C de l'article 26
-bis de la directive n° 77/388/C.E.E. du Conseil des Communautés européennes du
-17 mai 1977.
+bis de la directive n° 77/388/CEE du Conseil des Communautés européennes du 17
+mai 1977.
 
 3° Est considérée comme acquisition intracommunautaire l'obtention du pouvoir de
 disposer comme un propriétaire d'un bien meuble corporel expédié ou transporté

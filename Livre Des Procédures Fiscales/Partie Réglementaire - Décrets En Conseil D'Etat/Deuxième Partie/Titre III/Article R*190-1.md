@@ -19,7 +19,8 @@ siège, la partie des biens présentant le plus grand revenu d'après la matrice
 cadastrale.
 
 Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant
-d'une direction régionale ou d'une direction spécialisée, la réclamation peut
-être adressée au directeur chargé de cette direction.
+d'une direction régionale, d'une direction spécialisée ou d'un service à
+compétence nationale, la réclamation peut être adressée au directeur chargé de
+ces directions ou de ce service.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.

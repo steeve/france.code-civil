@@ -2,7 +2,7 @@ Article 1599 I
 ----
 Pour les véhicules ayant moins de cinq ans d'âge, les tarifs applicables,
 majorés des frais d'assiette et de recouvrement prévus au V de l'article 1647,
-sont arrondis au franc pair le plus proche. Pour les véhicules ayant plus de
+sont arrondis à l'euro pair le plus proche. Pour les véhicules ayant plus de
 cinq ans et moins de vingt ans d'âge, ils sont égaux à la moitié de ceux
 concernant les véhicules de moins de cinq ans. Pour les véhicules ayant plus de
 vingt ans mais moins de vingt-cinq ans d'âge, ils sont arrondis en négligeant

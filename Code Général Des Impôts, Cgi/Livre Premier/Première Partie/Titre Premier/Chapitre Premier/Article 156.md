@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 53360 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 cinquième inclusivement.
 
@@ -75,7 +75,7 @@ détenus directement ou indirectement par une personne physique ;
 
 - de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er
 janvier 1996 et ayant donné lieu avant cette date à une commande accompagnée du
-versement d'acomptes au moins égaux à 50 p. 100 de leur prix ;
+versement d'acomptes au moins égaux à 50 % de leur prix ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -130,9 +130,9 @@ du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientat
 pour l'aménagement et le développement du territoire. Les travaux doivent faire
 l'objet d'une convention approuvée par le représentant de l'Etat dans le
 département par laquelle le propriétaire de l'immeuble ou les propriétaires dans
-le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifié fixant
-le statut de la copropriété des immeubles bâtis s'engagent à procéder à la
-réhabilitation complète des parties communes de l'immeuble bâti. Le ou les
+le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifiée
+fixant le statut de la copropriété des immeubles bâtis s'engagent à procéder à
+la réhabilitation complète des parties communes de l'immeuble bâti. Le ou les
 propriétaires doivent s'engager à louer les locaux nus à usage de résidence
 principale du locataire pendant une durée de six ans. La location doit prendre
 effet dans les douze mois qui suivent la date d'achèvement des travaux. Ce
@@ -156,7 +156,7 @@ licenciement ou au décès du contribuable ou de l'un des époux soumis à
 imposition commune.
 
 Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues aux cinquième et sixième alinéas sont fixées par décret ;
+dispositions prévues aux cinquième et sixième alinéas sont fixées par décret.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
@@ -182,12 +182,12 @@ Un contribuable ne peut pour un même logement ou une même souscription de titr
 pratiquer les réductions d'impôt mentionnées aux articles 199 undecies ou 199
 undecies A et imputer un déficit foncier sur le revenu global.
 
-4° (abrogé).
+4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
-octies, 150 nonies et 150 decies lorsque l'option prévue au 8° du I de l'article
-35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
-profits de même nature réalisés au cours de la même année ou des cinq années
+octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
+l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
+les profits de même nature réalisés au cours de la même année ou des cinq années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
@@ -199,18 +199,18 @@ suivantes.
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
 marchandises réalisées à l'étranger.
 
-7° (abrogé)
+7° (Abrogé à compter de l'imposition des revenus de 1996 ;
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
 imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est
 déductible du revenu global de l'année de prise du brevet et des neuf années
-suivantes.
+suivantes ;
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation
 des revenus des différentes catégories :
 
-1° Intérêts des emprunts contractés, antérieurement au 1er novembre 1959 pour
+1° Intérêts des emprunts contractés antérieurement au 1er novembre 1959 pour
 faire un apport en capital à une entreprise industrielle ou commerciale ou à une
 exploitation agricole ; intérêts des emprunts qui sont ou qui seront contractés,
 au titre des dispositions relatives aux prêts de réinstallation ou de
@@ -239,19 +239,21 @@ premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de
 sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont
 effectués sur une période supérieure à douze mois à compter de la date à
 laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande
-conjointe (1), est passé en force de chose jugée et les rentes versées en
-application des articles 276 ou 278 du même code (1) ainsi que les pensions
-alimentaires versées en vertu d'une décision de justice, en cas de séparation de
-corps ou de divorce, ou en cas d'instance en séparation de corps ou de divorce
-lorsque le conjoint fait l'objet d'une imposition séparée ; contribution aux
-charges du mariage définie à l'article 214 du code civil, lorsque son versement
-résulte d'une décision de justice et à condition que les époux fassent l'objet
-d'une imposition séparée ; dans la limite de 2 700 euros et, dans les conditions
+conjointe, est passé en force de chose jugée et les rentes versées en
+application des articles 276 ou 278 du même code en cas de séparation de corps
+ou de divorce, ou en cas d'instance en séparation de corps ou en divorce et
+lorsque le conjoint fait l'objet d'une imposition séparée, les pensions
+alimentaires versées en vertu d'une décision de justice et en cas de révision
+amiable de ces pensions, le montant effectivement versé dans les conditions
+fixées par les articles 208 et 371-2 du code civil ; contribution aux charges du
+mariage définie à l'article 214 du code civil, lorsque son versement résulte
+d'une décision de justice et à condition que les époux fassent l'objet d'une
+imposition séparée ; dans la limite de 2 700 euros et, dans les conditions
 fixées par un décret en Conseil d'Etat, les versements destinés à constituer le
 capital de la rente prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
-pour ses enfants dont il n'a pas la garde ;
+pour ses enfants dont il n'a pas la garde.
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée
@@ -280,7 +282,7 @@ faite pour l'application aux salariés du régime de sécurité sociale.
 l'exception de ceux effectués pour les gens de maison ;
 
 5° Versements effectués en vue de la retraite mutualiste du combattant visée à
-l'article L. 222-2 (2) du code de la mutualité ;
+l'article L. 222-2 du code de la mutualité ;
 
 6° (Abrogé) ;
 
@@ -292,7 +294,7 @@ d. (sans objet).
 
 8° (Abrogé) ;
 
-9° (Transféré sous l'article 83-2° bis) ;
+9° ....
 
 9° bis et 9° ter (Abrogés) ;
 
@@ -304,16 +306,6 @@ proportion elles sont admises en déduction ;
 11° Les primes ou cotisations des contrats d'assurances conclus en application
 des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance
 obligatoire contre les accidents de la vie privée, les accidents du travail et
-les maladies professionnelles des personnes non salariées des professions
-agricoles.
+les maladies professionnelles des non salariés des professions agricoles ;
 
 12° (sans objet).
-
-(1) Ces dispositions s'appliquent aux jugements prononcés en application de la
-loi n° 2000-596 du 30 juin 2000 relative à la prestation compensatoire en
-matière de divorce.
-
-(2) Ces dispositions s'appliquent à compter de l'entrée en vigueur des
-dispositions de l'ordonnance n° 2001-350 du 19 avril 2001 (22 avril 2001)
-relative au code de la mutualité et transposant les directives 92/49/CEE et
-92/96/CEE du Conseil des 18 juin et 10 novembre 1992.

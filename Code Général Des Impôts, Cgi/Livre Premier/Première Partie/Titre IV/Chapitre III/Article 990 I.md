@@ -9,7 +9,7 @@ la fraction rachetable des contrats et des primes versées au titre de la
 fraction non rachetable des contrats autres que ceux mentionnés au premier
 alinéa du 2° de l'article 199 septies et que ceux mentionnés aux articles 154
 bis, 885 J et au 1° de l'article 998 et souscrits dans le cadre d'une activité
-professionnelle, diminuée d'un abattement de 1 000 000 F.
+professionnelle, diminuée d'un abattement de 152 500 euros.
 
 Le bénéficiaire doit produire auprès des organismes d'assurance et assimilés une
 attestation sur l'honneur indiquant le montant des abattements déjà appliqués
@@ -30,6 +30,3 @@ III. - Les organismes d'assurance et assimilés non établis en France et admis 
 y opérer en libre prestation de services doivent désigner un représentant
 résidant en France personnellement responsable du paiement du prélèvement prévu
 au I (1).
-
-(1) Ces dispositions s'appliquent aux contrats souscrits à compter du 13 octobre
-1998 et aux contrats en cours pour les primes versées à compter de la même date.

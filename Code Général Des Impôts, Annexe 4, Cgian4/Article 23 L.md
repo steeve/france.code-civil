@@ -3,8 +3,9 @@ Article 23 L
 Sont dispensés de la déclaration prévue à l'article 49 B de l'annexe III au code
 général des impôts :
 
-1° Les contrats de prêts dont le montant en principal n'excède pas 5.000 F, sous
-réserve de l'application des dispositions du b du 2 de l'article 49 B susvisé ;
+1° Les contrats de prêts dont le montant en principal n'excède pas 760 euros,
+sous réserve de l'application des dispositions du b du 2 de l'article 49 B
+susvisé ;
 
 2° (Abrogé) ;
 

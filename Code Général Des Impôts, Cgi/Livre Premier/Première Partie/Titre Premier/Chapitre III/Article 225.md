@@ -7,6 +7,5 @@ salariés visés à l'article L. 722-20 dudit code.
 
 Son taux est fixé à 0,50 %.
 
-Pour le calcul de la taxe, les rémunérations imposables sont arrondies au franc
-ou à l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est
-comptée pour 1.
+Pour le calcul de la taxe, les rémunérations imposables sont arrondies à l'euro
+le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

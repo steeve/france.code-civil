@@ -51,8 +51,8 @@ ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitatio
 l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes
 déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la
 déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces
-conséquences sont également applicables si l'engagement prévu au cinquième
-alinéa cesse d'être respecté.
+conséquences sont également applicables si l'engagement prévu au sixième alinéa
+cesse d'être respecté.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens
 ayant ouvert droit à déduction sont transmis dans le cadre des opérations
@@ -76,7 +76,7 @@ de cinq ans à compter de la réalisation de l'investissement. A défaut, ils
 doivent ajouter à leur résultat imposable de l'exercice de cession le montant
 des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la
 proportion de leurs droits dans la société ou le groupement, des sommes déjà
-réintégrées en application des dispositions du sixième alinéa.
+réintégrées en application des dispositions du huitième alinéa.
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs
 mis à la disposition d'une entreprise dans le cadre d'un contrat de location si
@@ -100,10 +100,11 @@ bien ou des titres de la société bailleresse sont rétrocédés à l'entrepris
 locataire sous forme de diminution du loyer et, le cas échéant, du prix de
 cession du bien à l'exploitant.
 
-Si l'une des conditions énumérées au onzième alinéa cesse d'être respectée dans
-le délai mentionné au 1° du onzième alinéa, les sommes déduites sont rapportées
-au résultat imposable de l'entreprise propriétaire de l'investissement au titre
-de l'exercice au cours duquel cet événement se réalise.
+Si l'une des conditions énumérées aux quatorzième à dix-huitième alinéas cesse
+d'être respectée dans le délai mentionné au quatorzième alinéa, les sommes
+déduites sont rapportées au résultat imposable de l'entreprise propriétaire de
+l'investissement au titre de l'exercice au cours duquel cet événement se
+réalise.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur
 revenu imposable une somme égale au montant total des souscriptions au capital
@@ -168,15 +169,15 @@ b) (abrogé)
 
 c) (abrogé)
 
-d)- l'opération a reçu l'agrément préalable du ministre du budget dans les
+d) l'opération a reçu l'agrément préalable du ministre du budget dans les
 conditions prévues au III.
 
 II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions
 au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées
 exclusivement à l'acquisition ou à la construction de logements neufs dans les
 départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la
-location de tels logements dans les conditions mentionnées au cinquième alinéa
-du I du présent article.
+location de tels logements dans les conditions mentionnées aux sixième et
+septième alinéas du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à
 l'exception de celle mentionnée à la troisième phrase du premier alinéa du même
@@ -227,7 +228,7 @@ déduction fiscale est pratiquée.
 
 III bis. (Abrogé).
 
-III ter. (transféré).
+III ter. (Transféré sous le III).
 
 III quater. (abrogé).
 

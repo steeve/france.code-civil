@@ -21,7 +21,7 @@ Cette déclaration doit être remise par chaque redevable à la recette des imp�
 dont dépend le lieu d'abattage ou de traitement du gibier sauvage avant le 25 du
 mois suivant celui au cours duquel les opérations imposables ont été réalisées.
 La redevance doit être acquittée dans le même délai. Lorsque son montant est
-inférieur à 1 000 F par mois, les redevables sont admis à déposer leur
+inférieur à 150 euros par mois, les redevables sont admis à déposer leur
 déclaration et à payer la redevance correspondante par trimestre.
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental

@@ -41,7 +41,7 @@ l'établissement public de coopération intercommunale sont égaux aux rapports
 constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans
 l'ensemble des communes membres.
 
-Par dérogation aux dispositions de l'alinéa précédent, dans les établissements
+Par dérogation aux dispositions du premier alinéa, dans les établissements
 publics de coopération intercommunale qui décident d'appliquer les dispositions
 du 1°, et lorsqu'ils percevaient une fiscalité additionnelle l'année précédant
 celle de l'application de ces dispositions, les rapports entre les taux de taxe
@@ -236,13 +236,19 @@ L'attribution de compensation ainsi déterminée est diminuée :
 a. Du montant des compensations perçues par l'établissement public de
 coopération intercommunale sur le territoire de la commune l'année précédant
 celle de la première application des dispositions du présent article, en
-contrepartie des exonérations prévues aux articles 1390, 1391 et au I de
+contrepartie des exonérations prévues aux articles 1383 B, 1390, 1391 et au I de
 l'article 1414 ;
 
 b. Du montant net des charges transférées, lorsque la décision de
 l'établissement public de coopération intercommunale de faire application des
 dispositions du présent article s'accompagne d'un transfert de compétences ; ce
 montant est calculé dans les conditions définies au IV.
+
+c. Du montant des reversements autorisés par l'article 11 de la loi n° 80-10 du
+10 janvier 1980 portant aménagement de la fiscalité directe locale, de tout ou
+partie de la part communale de taxe professionnelle au profit de l'établissement
+public de coopération intercommunale l'année précédant celle de la première
+application de ces dispositions.
 
 Lorsque l'attribution de compensation est négative, la commune est tenue
 d'effectuer un versement à due concurrence à l'établissement public de

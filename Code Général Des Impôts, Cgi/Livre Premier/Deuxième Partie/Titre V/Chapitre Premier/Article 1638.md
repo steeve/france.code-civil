@@ -17,8 +17,8 @@ Les différences qui affectent les taux d'imposition appliqués sur le territoir
 des communes préexistantes sont réduites chaque année d'un treizième et
 supprimées à partir de la treizième année.
 
-Les dispositions des deux alinéas précédents sont également applicables dans le
-cas de réunion d'une section de commune ou d'une portion du territoire d'une
+Les dispositions des premier et deuxième alinéas sont également applicables dans
+le cas de réunion d'une section de commune ou d'une portion du territoire d'une
 commune à une autre commune. Un décret en Conseil d'Etat précise les conditions
 d'application du présent alinéa (1).
 

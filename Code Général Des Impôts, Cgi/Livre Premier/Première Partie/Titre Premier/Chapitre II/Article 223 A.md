@@ -9,14 +9,18 @@ l'imposition forfaitaire annuelle dus par les sociétés du groupe. Le capital d
 la société mère ne doit pas être détenu à 95 % au moins, directement ou
 indirectement, par une autre personne morale soumise à l'impôt sur les sociétés
 dans les conditions de droit commun ou selon les modalités prévues aux articles
-214 et 217 bis.
+214 et 217 bis. Toutefois, le capital de la société mère peut être détenu
+indirectement à 95 % ou plus par une autre personne morale soumise à
+l'imp&lt;CB&gt;t sur les sociétés dans les conditions de droit commun ou selon
+les modalités prévues aux articles 214 et 217 bis, par l'intermédiaire d'une ou
+plusieurs personnes morales non soumises à cet impôt dans ces mêmes conditions.
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à
 l'article L. 225-183 du code de commerce a pour effet, au cours d'un exercice,
 de réduire à moins de 95 p. 100 la participation dans le capital d'une société
 filiale, ce capital est réputé avoir été détenu selon les modalités fixées au
-premier alinéa si le pourcentage de 95 p. 100 est à nouveau atteint à la clôture
-de l'exercice.
+premier alinéa si le pourcentage de 95 % est à nouveau atteint à la clôture de
+l'exercice.
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs
 résultats qui peuvent être vérifiés dans les conditions prévues par les articles

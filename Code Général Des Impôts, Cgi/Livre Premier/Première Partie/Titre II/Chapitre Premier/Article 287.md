@@ -13,8 +13,8 @@ Ces redevables peuvent, sur leur demande, être autorisés, dans des conditions
 qui sont fixées par arrêté du ministre de l'économie et des finances, à disposer
 d'un délai supplémentaire d'un mois.
 
-Lorsque la taxe exigible annuellement est inférieure à 12 000 F, ils sont admis
-à déposer leurs déclarations par trimestre civil.
+Lorsque la taxe exigible annuellement est inférieure à 4 000 euros, ils sont
+admis à déposer leurs déclarations par trimestre civil.
 
 3. Les redevables placés sous le régime simplifié d'imposition prévu à l'article
 302 septies A déposent au titre de chaque année ou exercice une déclaration qui
@@ -56,7 +56,7 @@ représenter au moins 80 % de l'impôt réellement dû pour le trimestre
 correspondant.
 
 Les conditions d'application du présent 3, notamment les modalités de versement
-et de remboursement des acomptes, sont fixées par décret en Conseil d'Etat (1).
+et de remboursement des acomptes, sont fixées par décret en Conseil d'Etat.
 
 4. En cas de cession ou de cessation d'une activité professionnelle, les
 redevables sont tenus de souscrire dans les trente jours la déclaration prévue
@@ -79,6 +79,3 @@ livraisons de biens dont le lieu est situé en France en application des
 dispositions de l'article 258 B et des livraisons de biens effectuées en France
 pour lesquelles le destinataire de la livraison est désigné comme redevable de
 la taxe en application des dispositions du 2 ter de l'article 283.
-
-(1) Ces dispositions entrent en vigueur à compter de l'acompte dû en juillet
-1999.

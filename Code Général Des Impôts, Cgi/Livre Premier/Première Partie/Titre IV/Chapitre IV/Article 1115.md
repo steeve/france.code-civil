@@ -10,13 +10,13 @@ sont faites par l'article 290 ;
 b. D'autre part, qu'elles fassent connaître leur intention de revendre dans un
 délai de quatre ans.
 
-En cas d'acquisitions successives par des personnes mentionnées au premier
-alinéa, le délai imparti au premier acquéreur s'impose à chacun de ces
-personnes.
+En cas d'acquisitions successives par des personnes mentionnées aux premier à
+troisième alinéas, le délai imparti au premier acquéreur s'impose à chacun de
+ces personnes.
 
-Pour les biens acquis avant le 1er janvier 1993, le délai mentionné aux premier
-et deuxième alinéas et en cours à cette date est prorogé jusqu'au 31 décembre
-1998.
+Pour les biens acquis avant le 1er janvier 1993, le délai mentionné aux
+troisième et quatrième alinéas et en cours à cette date est prorogé jusqu'au 31
+décembre 1998.
 
 Pour l'application de la condition de revente, les apports purs et simples
 effectués à compter du 1er janvier 1996 ne sont pas considérés comme des ventes.

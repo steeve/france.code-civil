@@ -44,10 +44,10 @@ la moyenne des résultats des trois exercices précédents. Pour le calcul de ce
 moyenne, il n'est pas tenu compte des reports déficitaires.
 
 II. L'apport d'une exploitation individuelle dans les conditions visées au
-sixième alinéa du I de l'article 151 octies à une société civile agricole par un
-exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant
-celui de l'apport n'est pas considéré pour l'application du I comme une
-cessation d'activité si la société bénéficiaire de l'apport en remplit les
+neuvième alinéa du I de l'article 151 octies à une société civile agricole par
+un exploitant agricole qui a pratiqué la déduction au titre d'un exercice
+précédant celui de l'apport n'est pas considéré pour l'application du I comme
+une cessation d'activité si la société bénéficiaire de l'apport en remplit les
 conditions et s'engage à utiliser la déduction conformément à son objet dans les
 cinq années qui suivent celle au cours de laquelle elle a été pratiquée.
 

@@ -12,11 +12,11 @@ besoins de son activité professionnelle pendant la période de référence déf
 aux articles 1467 A et 1478, à l'exception de celles qui ont été détruites ou
 cédées au cours de la même période ;
 
-b. les salaires au sens du 1 de l'article 231 ainsi que les rémunérations
-allouées aux dirigeants de sociétés mentionnés aux articles 62 et 80 ter, versés
-pendant la période de référence définie au a à l'exclusion des salaires versés
-aux apprentis sous contrat et aux handicapés physiques ; ces éléments sont pris
-en compte pour 18 % de leur montant (1) ;
+b. les rémunérations au sens du 1 de l'article 231 ainsi que celles allouées aux
+dirigeants de sociétés mentionnés aux articles 62 et 80 ter, versées pendant la
+période de référence définie au a à l'exclusion des salaires versés aux
+apprentis sous contrat et aux handicapés physiques ; ces éléments sont pris en
+compte pour 18 % de leur montant (1) ;
 
 2° Dans le cas des titulaires de bénéfices non commerciaux, des agents
 d'affaires et intermédiaires du commerce, employant moins de cinq salariés, le
@@ -28,7 +28,3 @@ la période de référence définie au 1° a (2).
 Les éléments servant à la détermination des bases de la taxe professionnelle et
 des taxes additionnelles sont arrondis à l'euro le plus proche. La fraction
 d'euro égale à 0,50 est comptée pour 1.
-
-(1) Cet alinéa sera abrogé à compter des impositions établies au titre de 2003.
-
-(2) Voir Annexe II art. 310 HA, 310 HC à 310 HE.

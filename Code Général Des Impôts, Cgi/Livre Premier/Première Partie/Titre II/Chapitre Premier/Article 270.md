@@ -4,8 +4,8 @@ I. La taxe sur la valeur ajoutée est liquidée au vu des déclarations souscrit
 par les assujettis dans les conditions prévues à l'article 287.
 
 Elle frappe les sommes imposables et l'ensemble des éléments servant à la
-liquidation de la taxe arrondis au franc ou à l'euro le plus proche ; la
-fraction de franc ou d'euro égale à 0,50 étant comptée pour 1.
+liquidation de la taxe arrondis à l'euro le plus proche ; la fraction d'euro
+égale à 0,50 étant comptée pour 1.
 
 II. La liquidation de la taxe exigible au titre des livraisons à soi-même
 mentionnées au 7° ter de l'article 257 peut être effectuée jusqu'au 31 décembre
@@ -16,6 +16,3 @@ service.
 
 La mise en service est, en tout état de cause, déclarée à l'administration dans
 un délai d'un mois (1).
-
-(1) Ces dispositions sont applicables aux ouvrages mis en service à compter du
-12 septembre 2000.

@@ -16,7 +16,7 @@ seuils de population nécessaires pour une transformation en communauté
 d'agglomération, si les deux tiers au moins des communes du groupement comptent
 moins de 5 000 habitants.
 
-b) c) (abrogés).
+b) et c) (abrogés).
 
 Les crédits de la dotation de développement rural sont répartis entre les
 départements en tenant compte du nombre de communes regroupées et du nombre
@@ -82,10 +82,10 @@ II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
 2° Une première part, au plus égale à 27 % de ce surplus, qui sert à verser une
 compensation aux communes qui enregistrent d'une année sur l'autre une perte
-importante de bases d'imposition à la taxe professionnelle. Cette compensation
-est versée de manière dégressive sur deux ans. Ce délai est porté à quatre ans
-pour les communes bénéficiaires de cette première part, à compter du 1er janvier
-1990.
+importante de bases d'imposition à la taxe professionnelle ou de ressources de
+redevances des mines. Cette compensation est versée de manière dégressive sur
+deux ans. Ce délai est porté à quatre ans pour les communes bénéficiaires de
+cette première part, à compter du 1er janvier 1990.
 
 Ce délai est réduit à trois ans pour les communes bénéficiaires de cette
 première part, à compter du 1er janvier 1998.
@@ -93,11 +93,11 @@ première part, à compter du 1er janvier 1998.
 Les conditions que doivent remplir les communes pour bénéficier de cette
 première part ainsi que le calcul des attributions qui leur reviennent sont
 fixées par décret en Conseil d'Etat en tenant compte, notamment, de la perte de
-produit de taxe professionnelle et de l'importance relative de la perte de
-produit fiscal qui en résulte par rapport aux recettes de la commune provenant
-de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. A
-compter du 1er janvier 1991, les communes dont les pertes de bases sont
-compensées sur quatre ans, bénéficient :
+produit de taxe professionnelle ou de ressources de redevances des mines et de
+l'importance relative de la perte de produit fiscal qui en résulte par rapport
+aux recettes de la commune provenant de la taxe d'habitation, des taxes
+foncières et de la taxe professionnelle. A compter du 1er janvier 1991, les
+communes dont les pertes de bases sont compensées sur quatre ans, bénéficient :
 
 La première année, d'une attribution égale au plus à 90 % de la perte de bases
 qu'elles ont enregistrée ;
@@ -129,7 +129,7 @@ prévues pour les communes ;
 
 2° bis Une deuxième part qui sert à verser :
 
-1. En 1999, en 2000 et en 2001 :
+1. En 1999, en 2000, en 2001 et en 2002 :
 
 a. Une compensation aux communes éligibles en 1998 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -166,7 +166,7 @@ Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 égales à la baisse enregistrée par chaque commune entre 1998 et 1999 de la
 dotation prévue au IV de l'article 6 de la loi de finances précitée.
 
-2. En 2000 et en 2001 :
+2. En 2000, en 2001 et en 2002 :
 
 a. Une compensation aux communes éligibles en 1999 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -202,7 +202,7 @@ Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 dotation prévue au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317
 du 30 décembre 1986) ;
 
-3. En 2001 :
+3. En 2001 et en 2002 :
 
 a. Une compensation aux communes éligibles en 2000 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
@@ -240,7 +240,7 @@ du 30 décembre 1986).
 
 Lorsque la somme qui doit être attribuée au titre de la compensation pour une
 commune ou un établissement public de coopération intercommunale est inférieure
-à 500 F, le versement de cette somme n'est pas effectué ;
+à 76,22 euros, le versement de cette somme n'est pas effectué ;
 
 3° Une part résiduelle, au plus égale à 5 % de ce surplus et qui est versée aux
 communes qui connaissent des difficultés financières graves en raison d'une

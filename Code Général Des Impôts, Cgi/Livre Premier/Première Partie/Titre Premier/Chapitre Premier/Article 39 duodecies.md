@@ -42,12 +42,13 @@ portefeuille sont réputées porter par priorité sur les titres de même nature
 acquis ou souscrits à la date la plus ancienne.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en
-rémunération d'un apport partiel d'actif soumis au régime prévu à l'article 210
-B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport
-constituent deux catégories distinctes de titres jusqu'à la fin du délai de
-trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce
-délai sont réputées porter en priorité sur les titres acquis ou souscrits
-indépendamment de l'opération d'apport.
+rémunération d'un apport partiel d'actif ou d'une scission soumis au régime
+prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de
+l'opération d'apport ou de scission constituent deux catégories distinctes de
+titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les
+cessions de titres intervenues dans ce délai sont réputées porter en priorité
+sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de
+scission.
 
 7.
 
@@ -113,7 +114,3 @@ de la date d'ouverture de cet exercice ou de cette période d'imposition. La
 fraction de la plus-value correspondant aux amortissements visés au deuxième
 alinéa du II du même article est considérée comme à court terme pour
 l'application du b du 2.
-
-(1) Ces dispositions sont applicables pour la détermination des plus-values ou
-moins-values réalisées au cours des exercices clos à compter du 31 décembre
-1993.

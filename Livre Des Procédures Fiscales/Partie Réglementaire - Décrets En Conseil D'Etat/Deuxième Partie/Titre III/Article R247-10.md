@@ -7,13 +7,13 @@ au trésorier-payeur général dont dépend le lieu d'imposition.
 
 Après examen de la demande, la décision appartient :
 
-a) Au trésorier-payeur général sur avis conforme du directeur des services
-fiscaux lorsque les sommes n'excèdent pas 2 000 000 F par cote. Toutefois,
-lorsque les sommes n'excèdent pas 250 000 F par cote, le trésorier-payeur
+a) au trésorier-payeur général sur avis conforme du directeur des services
+fiscaux lorsque les sommes n'excèdent pas 304 898,03 euros par cote. Toutefois,
+lorsque les sommes n'excèdent pas 38 112,25 euros par cote, le trésorier-payeur
 général prend la décision si le directeur des services fiscaux n'a pas formulé
 son avis dans le délai de deux mois.
 
-b) Abrogé.
+b) (abrogé à compter du 01/01/1998).
 
-c) Au ministre de l'économie, des finances et de l'industrie, dans les autres
+c) au ministre de l'économie, des finances et de l'industrie, dans les autres
 cas.

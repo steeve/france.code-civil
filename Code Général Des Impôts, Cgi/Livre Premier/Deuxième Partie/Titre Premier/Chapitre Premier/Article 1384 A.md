@@ -11,13 +11,12 @@ affectés à l'habitation principale, mentionnés aux 3° et 5° de l'article L.
 351-2 du code de la construction et de l'habitation lorsqu'ils sont financés à
 concurrence de plus de 50 % au moyen d'un prêt prévu à l'article R. 331-1 du
 même code, et qu'ils bénéficient des dispositions des 2 ou 3 du I de l'article
-278 sexies. La condition de financement s'apprécie en tenant compte des prêts
-consentis au titre de la participation des employeurs à l'effort de
-construction, pour un organisme dont l'un des objets est de contribuer au
-logement des personnes défavorisées, qui est agréé à cette fin par le
-représentant de l'Etat dans le département, et qui bénéficie d'une subvention
-pour la construction de logements locatifs aidés faisant l'objet d'une
-convention ouvrant droit à l'aide personnalisée au logement.
+278 sexies. Pour les constructions financées dans les conditions prévues aux
+articles R. 331-14 à R. 331-16 du code de la construction et de l'habitation, la
+condition de financement s'apprécie en tenant compte des subventions versées par
+l'Etat, les collectivités territoriales et les établissements publics de
+coopération intercommunale ainsi que des prêts consentis au titre de la
+participation des employeurs à l'effort de construction (1).
 
 Toutefois, la durée de l'exonération est ramenée à dix ans pour les logements en
 accession à la propriété pour la réalisation desquels aucune demande de prêt n'a
@@ -27,6 +26,31 @@ Cette exonération ne s'applique pas aux logements financés au moyen de l'avanc
 remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la
 construction et de l'habitation.
 
+I bis Pour les constructions de logements visées au deuxième alinéa du I et pour
+lesquelles l'ouverture de chantier est intervenue à compter du 1er janvier 2002,
+la durée de l'exonération est portée à vingt ans lorsque ces constructions
+satisfont à au moins quatre des cinq critères de qualité environnementale
+suivants :
+
+a. modalités de conception, notamment assistance technique du maître d'ouvrage
+par un professionnel ayant des compétences en matière d'environnement ;
+
+b. modalités de réalisation, notamment gestion des déchets du chantier ;
+
+c. performance énergétique et acoustique ;
+
+d. utilisation d'énergie et de matériaux renouvelables ;
+
+e. maîtrise des fluides.
+
+Pour bénéficier de cette durée d'exonération, le redevable de la taxe doit
+joindre à la déclaration prévue par l'article 1406 un certificat établi au
+niveau départemental par l'administration chargée de l'équipement constatant le
+respect des critères de qualité environnementale de la construction.
+
+La définition technique de ces critères, le contenu ainsi que les modalités de
+délivrance du certificat sont fixés par décret en Conseil d'Etat.
+
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde
 prévues aux articles L. 615-1 à L. 615-5 du code de la construction et de
@@ -35,4 +59,5 @@ l'habitation, la durée d'exonération mentionnée au I est prolongée de cinq a
 Avant le 31 décembre de chaque année, la commission mentionnée à l'article L.
 615-1 du code de la construction et de l'habitation adresse à la direction des
 services fiscaux du lieu de situation de ces logements la liste des logements et
-de leurs propriétaires répondant aux conditions mentionnées au premier alinéa.
+de leurs propriétaires répondant aux conditions mentionnées au premier alinéa
+(2).

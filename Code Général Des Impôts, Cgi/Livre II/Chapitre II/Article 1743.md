@@ -18,7 +18,7 @@ autres instruments créés pour le paiement des dividendes, intérêts, arrérag
 produits quelconques de valeurs mobilières.
 
 Quiconque, dans le même but, a tenté d'effectuer l'une quelconque des opérations
-visées à l'alinéa précédent est puni des mêmes peines.
+visées au premier alinéa est puni des mêmes peines.
 
 (1) En ce qui concerne le dépôt des plaintes, voir livre des procédures
 fiscales, art. L 228 à L 230.

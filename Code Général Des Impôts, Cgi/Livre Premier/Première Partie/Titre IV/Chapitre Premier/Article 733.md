@@ -21,9 +21,9 @@ mentionnées à l'article L. 321-2 du code de commerce (1).
 Le droit est assis sur le montant des sommes que contient cumulativement le
 procès-verbal de la vente, augmenté des charges imposées aux acquéreurs.
 
-Les adjudications à la folle enchère de biens mentionnés au premier alinéa sont
-assujetties au même droit mais seulement sur ce qui excède le prix de la
-précédente adjudication, si le droit en a été acquitté.
+Les adjudications à la folle enchère de biens mentionnés aux premier à troisième
+alinéas sont assujetties au même droit mais seulement sur ce qui excède le prix
+de la précédente adjudication, si le droit en a été acquitté.
 
 (1) Cette exonération s'applique aux ventes réalisées à compter du 1er janvier
 2001.

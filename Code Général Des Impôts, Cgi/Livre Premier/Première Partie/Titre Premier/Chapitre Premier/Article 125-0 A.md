@@ -56,13 +56,13 @@ dans l'innovation, actions de sociétés de capital risque ou de sociétés
 financières d'innovation ;
 
 e) Actions émises par des sociétés qui exercent une activité autre que les
-activités mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et
-dont les titres ne sont pas admis aux négociations sur un marché réglementé ;
+activités mentionnées au quatrième alinéa du I de l'article 44 sexies et dont
+les titres ne sont pas admis aux négociations sur un marché réglementé ;
 
 f) Titres admis aux négociations sur les marchés réglementés de valeurs de
 croissance de l'Espace économique européen, ou les compartiments de valeurs de
 croissance de ces marchés, dont la liste est fixée par arrêté du ministre chargé
-de l'économie ;
+de l'économie.
 
 Les titres mentionnés aux a, b, e et f doivent être émis par des sociétés qui
 ont leur siège dans un Etat de la Communauté européenne et sont soumises à
@@ -79,28 +79,28 @@ la retraite anticipée ou de son invalidité ou de celle de son conjoint
 correspondant au classement dans la deuxième ou troisième catégorie prévue à
 l'article L. 341-4 du code de la sécurité sociale ;
 
-Un décret fixe les modalités d'application du I et notamment les obligations
-déclaratives des contribuables et des établissements payeurs.
+Les produits en cause sont constitués par la différence entre les sommes
+remboursées au bénéficiaire et le montant des primes versées.
 
 Lorsque la durée du bon ou du contrat est égale ou supérieure à six ans pour les
 bons ou contrats souscrits entre le 1er janvier 1983 et le 31 décembre 1989 et à
 huit ans pour les bons ou contrats souscrits à compter du 1er janvier 1990, il
 est opéré, pour l'ensemble des bons ou contrats détenus par un même
-contribuable, un abattement annuel de 30 000 F pour les contribuables
-célibataires, veufs ou divorcés et de 60 000 F pour les contribuables mariés
+contribuable, un abattement annuel de 4 600 euros pour les contribuables
+célibataires, veufs ou divorcés et de 9 200 euros pour les contribuables mariés
 soumis à imposition commune sur la somme des produits acquis à compter du 1er
 janvier 1998, ou constatés à compter de la même date pour les bons ou contrats
 en unités de compte visés au deuxième alinéa de l'article L. 131-1 du code des
 assurances.
 
-Les produits en cause sont constitués par la différence entre les sommes
-remboursées au bénéficiaire et le montant des primes versées.
+Un décret fixe les modalités d'application du I et notamment les obligations
+déclaratives des contribuables et des établissements payeurs.
 
 II. Les dispositions de l'article 125 A, à l'exception du IV de cet article,
 sont applicables aux produits prévus au I. Le taux du prélèvement est fixé :
 
 1° Lorsque le bénéficiaire des produits révèle son identité et son domicile
-fiscal dans les conditions prévues à l'article 125 A III bis 4° :
+fiscal dans les conditions prévues au 4° du III bis de l'article 125 A :
 
 a. A 45 % lorsque la durée du contrat a été inférieure à deux ans ; ce taux est
 de 35 p. 100 pour les contrats souscrits à compter du 1er janvier 1990 ;

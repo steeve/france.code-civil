@@ -7,12 +7,12 @@ en cours au 31 décembre de l'année d'imposition.
 
 Le montant de la réduction d'impôt est fixé à :
 
-400 F par enfant fréquentant un collège ;
+61 euros par enfant fréquentant un collège ;
 
-1.000 F par enfant fréquentant un lycée d'enseignement général et technologique
-ou un lycée professionnel ;
+153 euros par enfant fréquentant un lycée d'enseignement général et
+technologique ou un lycée professionnel ;
 
-1.200 F par enfant suivant une formation d'enseignement supérieur.
+183 euros par enfant suivant une formation d'enseignement supérieur.
 
 Le bénéfice de la réduction d'impôt est subordonné à la condition que soient
 mentionnés sur la déclaration des revenus, pour chaque enfant concerné, ses nom

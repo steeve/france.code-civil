@@ -35,9 +35,9 @@ redevable pour le dépôt de ses déclarations de taxes sur le chiffre d'affaire
 Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au
 cours duquel les opérations imposables ont été réalisées. La redevance est
 acquittée dans le même délai. Toutefois, lorsque le montant annuel de l'ensemble
-des redevances sanitaires exigibles est inférieur à 12 000 F, il est admis que
-les redevables déposent leurs déclarations et s'acquittent de la redevance avant
-le 25 du mois suivant chaque trimestre civil.
+des redevances sanitaires exigibles est inférieur à 1 830 euros, il est admis
+que les redevables déposent leurs déclarations et s'acquittent de la redevance
+avant le 25 du mois suivant chaque trimestre civil.
 
 IV. - Les saisies pratiquées par les services d'inspection sanitaire ainsi que
 les exportations ou les expéditions vers les Etats membres de la Communauté

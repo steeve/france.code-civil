@@ -7,9 +7,8 @@ d'utilisation sont définies à l'article 155 H.
 
 II. Outre la série normale des vignettes payantes, dont les types correspondent
 aux différentes catégories d'imposition, il existe une vignette spéciale
-destinée à la délivrance des duplicata et une vignette gratuite devant permettre
-d'identifier certaines catégories de véhicules exonérés de la taxe. Ces
-vignettes sont constituées du même élément que les vignettes payantes.
+destinée à la délivrance des duplicata et constituée du même élément que les
+vignettes payantes.
 
 III. Les modèles de vignettes sont fixés par décision du ministre chargé du
 budget.

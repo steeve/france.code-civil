@@ -13,7 +13,7 @@ de parts de fondateurs ou de parts bénéficiaires des sociétés par actions no
 cotées en bourse, et de parts ou titres du capital, souscrits par les clients,
 des établissements de crédit mutualistes ou coopératifs (1).
 
-Ce droit est plafonné à 20 000 F par mutation ;
+Ce droit est plafonné à 3 049 euros par mutation ;
 
 2° A 4,80 % :
 
@@ -48,7 +48,3 @@ est subordonné à cet accord (2).
 Les perceptions mentionnées au I ne sont pas applicables aux cessions de droits
 sociaux résultant d'opérations de pensions régies par les articles L. 432-12 à
 L. 432-19 du code monétaire et financier.
-
-(1) Voir également l'article 639.
-
-(2) Voir les articles 1740 quinquies et 1740 sexies.

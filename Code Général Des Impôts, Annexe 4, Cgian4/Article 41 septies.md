@@ -70,7 +70,7 @@ a) Le numéro et la date de la facture ;
 b) La date et l'heure de constitution du message ;
 
 c) Les montants hors taxes et toutes taxes de la transaction ainsi que le code
-monnaie lorsque la facture n'est pas libellée en francs français ;
+monnaie lorsque la facture n'est pas libellée en euros ;
 
 d) Les éléments d'identification de l'émetteur ou du récepteur donnés par le
 système de télétransmission (code, nom ou dénomination sociale, numéro SIRET,

@@ -69,7 +69,7 @@ d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
 cours duquel s'est produit le fait générateur.
 
 Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
-condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et
+condition qu'elle précède la date d'exigibilité prévue au premier alinéa et
 qu'il ne s'agisse pas d'une facture d'acompte.
 
 (1) Ces dispositions sont applicables aux ouvrages mis en service à compter du

@@ -1,7 +1,7 @@
 Article 15
 ----
 1° Les relevés sont établis sous forme de fiches individuelles conformes aux
-modèles ci-après.
+modèles ci-après (non reproduits - Cerfa n° 30-0812 et n° 30-0813).
 
 Toutefois, les établissements qui peuvent présenter les renseignements que
 comportent ces modèles au moyen de fiches mécanographiques ont la faculté de
@@ -18,7 +18,7 @@ b. La date de paiement ;
 
 c. Le numéro de la pièce de paiement correspondante si celle-ci est numérotée ;
 
-d. Selon le cas l'une des mentions suivantes :
+d. Selon le cas, l'une des mentions suivantes :
 
 Les nom et prénoms ou raison sociale du bénéficiaire des revenus, ainsi que
 l'adresse de son domicile ou de son siège social ;
@@ -48,20 +48,20 @@ revenus des valeurs autres que celles visées au a ;
 c. Le montant net payé au titre des revenus visés aux a et b, après déduction,
 le cas échéant :
 
-De la retenue à la source prévue à l'article 119 bis du code général des impôts
+de la retenue à la source prévue à l'article 119 bis du code général des impôts
 ;
 
-De l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangères ;
+de l'impôt étranger, s'il s'agit de revenus de valeurs mobilières étrangères ;
 
-Des frais d'encaissement des coupons ;
+des frais d'encaissement des coupons ;
 
 d. L'avoir fiscal ou le crédit d'impôt attaché à la perception des revenus visés
 aux a et b ;
 
 e. Le montant net payé des revenus non imposables à l'impôt sur le revenu, les
-intérêts des emprunts 4,25 % 1963 et 4,25 % -4,75 % 1963 étant, le cas échéant,
+intérêts des emprunts 4,25 % 1963 et 4,25 % - 4,75 % 1963 étant, le cas échéant,
 mentionnés à part.
 
 Pour les produits payés en monnaie étrangère, les sommes figurant sur les
-relevés de coupons doivent être indiquées pour leur contre-valeur en francs au
+relevés de coupons doivent être indiquées pour leur contre-valeur en euros au
 jour du paiement.

@@ -5,13 +5,14 @@ additionnelles à cette taxe, la décision sur les demandes des contribuables
 tendant à obtenir une modération, remise ou transaction appartient :
 
 a) Au directeur des services fiscaux chargé d'une direction départementale
-lorsque les sommes faisant l'objet de la demande n'excèdent pas 750 000 F par
-cote, exercice ou affaire, selon la nature des impôts ;
+lorsque les sommes faisant l'objet de la demande n'excèdent pas 114 336,76 euros
+par cote, exercice ou affaire, selon la nature des impôts ;
 
 b) Au directeur chargé d'un service à compétence nationale ou d'une direction
 spécialisée, pour les affaires relatives à des impositions établies à
 l'initiative des agents placés sous son autorité, lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 1 100 000 F par cote, exercice ou affaire ;
+l'objet de la demande n'excèdent pas 167 693,92 euros par cote, exercice ou
+affaire ;
 
 c) Abrogé.
 

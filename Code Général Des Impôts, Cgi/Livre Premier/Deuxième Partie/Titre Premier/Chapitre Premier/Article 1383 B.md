@@ -7,23 +7,24 @@ la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire et affectés, au 1er janvier 1997, à une activité
 entrant dans le champ d'application de la taxe professionnelle sont exonérés de
 taxe foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve
-que les conditions d'exercice de l'activité prévues aux premier et quatrième
-alinéas du I quater de l'article 1466 A soient remplies.
+que les conditions d'exercice de l'activité prévues aux premier et quatrième à
+septième alinéas du I quater de l'article 1466 A soient remplies.
 
-Pour les immeubles affectés, après le 1er janvier 1997, à une activité entrant
-dans le champ d'application de la taxe professionnelle, l'exonération prévue au
-premier alinéa s'applique à compter du 1er janvier de l'année qui suit celle où
-est intervenue cette affectation, sous réserve que la condition d'effectif
-prévue au premier alinéa du I quater de l'article 1466 A soit remplie.
+Pour les immeubles affectés, après le 1er janvier 1997 et avant le 31 décembre
+2001, à une activité entrant dans le champ d'application de la taxe
+professionnelle, l'exonération prévue au premier alinéa s'applique à compter du
+1er janvier de l'année qui suit celle où est intervenue cette affectation, sous
+réserve que la condition d'effectif prévue au premier alinéa du I quater de
+l'article 1466 A soit remplie.
 
 L'exonération prévue aux premier et deuxième alinéas cesse de s'appliquer à
 compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus
 affectés à une activité entrant dans le champ d'application de la taxe
 professionnelle.
 
-En cas de changement d'exploitant, l'exonération s'applique pour une durée de
-cinq ans à compter du 1er janvier de l'année suivant celle où est intervenu le
-changement.
+En cas de changement d'exploitant avant le 31 décembre 2001, l'exonération
+s'applique pour une durée de cinq ans à compter du 1er janvier de l'année
+suivant celle où est intervenu le changement.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 groupement de collectivités territoriales et ne peut avoir pour effet de

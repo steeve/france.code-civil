@@ -81,16 +81,17 @@ la réduction prévue au présent article pour la période restant à courir à 
 date du décès.
 
 4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation
-du capital des sociétés mentionnées au 2 dont le montant est supérieur à 30 000
-000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance
-du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa
-part dans un délai de trois mois.
+du capital des sociétés mentionnées au 2 dont le montant est supérieur à 4 600
+000 euros (1) doit avoir été portée, préalablement à sa réalisation, à la
+connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection
+motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la
 période définie au 1 sont prises en compte, pour les investissements mentionnés
-au a du 2, dans la limite de 10 000 F par mètre carré de surface habitable.
+au a du 2, dans la limite de 1 525 euros (1) par mètre carré de surface
+habitable.
 
-6. La réduction d'impôt s'applique pour le calcul de l'impôt d^ u au titre de
+6. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de
 l'année d'achèvement de l'immeuble ou de son acquisition si elle est
 postérieure, ou de la souscription des parts ou actions, et des quatre années
 suivantes. Chaque année, la base de la réduction est égale à 20 % des sommes

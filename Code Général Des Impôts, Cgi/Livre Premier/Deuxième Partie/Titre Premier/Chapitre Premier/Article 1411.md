@@ -45,7 +45,7 @@ locatives brutes.
 
 Dans ce cas, la valeur locative moyenne servant de référence pour le calcul des
 abattements est la valeur locative moyenne des habitations du département, ou de
-l'établissement public de coopération intercommunale à fiscalité propre ;
+l'établissement public de coopération intercommunale à fiscalité propre.
 
 En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
@@ -53,10 +53,10 @@ commune.
 
 III. Sont considérés comme personnes à la charge du contribuable :
 
-Ses enfants ou les enfants qu'il a recueillis lorsqu'ils répondent à la
+ses enfants ou les enfants qu'il a recueillis lorsqu'ils répondent à la
 définition donnée pour le calcul de l'impôt sur le revenu ;
 
-Ses ascendants ou ceux de son conjoint âgés de plus de soixante dix ans ou
+ses ascendants ou ceux de son conjoint âgés de plus de soixante dix ans ou
 infirmes lorsqu'ils résident avec lui et que leurs revenus de l'année précédente
 n'excèdent pas la limite prévue à l'article 1417.
 
@@ -69,9 +69,5 @@ Les abattements, fixés en valeur absolue conformément au 5 du II, sont majoré
 proportionnellement à la variation des valeurs locatives des logements résultant
 de l'application des articles 1518 et 1518 bis.
 
-V. La valeur locative moyenne ainsi que les abattements sont arrondis au franc
-le plus proche. La fraction de franc égale à 0,50 est comptée pour 1 (1).
-
-(1) Annexe II, art. 310 H.
-
-Pour l'application de cet article, voir l'article 1639 A bis.
+V. La valeur locative moyenne ainsi que les abattements sont arrondis à l'euro
+le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1 (1) (2).

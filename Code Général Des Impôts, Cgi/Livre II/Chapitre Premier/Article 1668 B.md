@@ -18,20 +18,13 @@ ou de la période qui précède, imposables aux taux mentionnés au I de l'artic
 d'imposition arrêtée en 2001 et à 3 % pour les exercices clos ou la période
 d'imposition arrêtée à compter du 1er janvier 2002.
 
-Le versement anticipé mentionné au premier alinéa est arrondi au franc ou à
-l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée
-pour 1.
+Le versement anticipé mentionné au premier alinéa est arrondi à l'euro le plus
+proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
 Lorsque la somme due au titre d'un exercice ou d'une période d'imposition en
 application du premier alinéa est supérieure à la contribution dont l'entreprise
 prévoit qu'elle sera finalement redevable au titre de ce même exercice ou de
 cette même période, l'entreprise peut réduire ce versement à concurrence de
-l'excédent estimé. Elle remet alors au comptable du Trésor chargé du
-recouvrement des impôts directs, avant la date d'exigibilité du versement
-anticipé, une déclaration datée et signée.
+l'excédent estimé.
 
-Si la déclaration mentionnée au troisième alinéa est reconnue inexacte à la
-suite de la liquidation de la contribution, la majoration prévue au 1 de
-l'article 1762 est appliquée aux sommes non réglées.
-
-IV. Les modalités d'application du présent article sont fixées par décret.
+IV. Les modalités d'application du présent article sont fixées par décret (1).

@@ -9,23 +9,19 @@ taux fixé au b du I de l'article 219 diminué de sa fraction correspondant à l
 plus-value nette provenant de la cession des éléments d'actif et sur le résultat
 net de la concession de licences d'exploitation des éléments mentionnés au 1 de
 l'article 39 terdecies du dernier exercice pour sa fraction non imposée au taux
-fixé au b du I de l'article 219. Pour les sociétés nouvellement créées, ces
-acomptes sont déterminés d'après un impôt de référence calculé au taux fixé au
-deuxième alinéa du I de l'article 219 sur le produit évalué à 5 % du capital
-social.
+fixé au b du I de l'article 219. Les sociétés nouvellement créées sont
+dispensées du versement d'acomptes au cours de leur premier exercice d'activité
+ou de leur première période d'imposition arrêtée conformément au second alinéa
+du I de l'article 209.
 
-Les acomptes mentionnés au premier alinéa sont arrondis au franc ou à l'euro le
-plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée pour 1.
+Les acomptes mentionnés au premier alinéa sont arrondis à l'euro le plus proche.
+La fraction d'euro égale à 0,50 est comptée pour 1.
 
 Les paiements doivent être effectués dans les vingt premiers jours des mois de
 février, mai, août et novembre de chaque année.
 
-Les sociétés créées à compter du 1er janvier 1977 sont, au cours des douze
-premiers mois de leur activité, dispensées du versement des acomptes calculés
-sur la base de leur capital.
-
 Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et dont le
-chiffre d'affaires du dernier exercice clos est inférieur à 350 000 F sont
+chiffre d'affaires du dernier exercice clos est inférieur à 84 000 euros sont
 dispensés du versement des acomptes.
 
 1 bis et 1 ter. (Abrogés pour les exercices ouverts à compter du 1er janvier
@@ -47,14 +43,8 @@ dans les trente jours de la date de dépôt des bordereaux-avis de versement.
 d'un exercice est égal ou supérieur à la cotisation totale d'impôt sur les
 sociétés dont elle sera redevable au titre de l'exercice concerné, avant
 imputation des crédits d'impôt et avoirs fiscaux, peut se dispenser de nouveaux
-versements d'acomptes en remettant au comptable du Trésor chargé du recouvrement
-des impôts directs, avant la date d'exigibilité du prochain versement à
-effectuer, une déclaration datée et signée (1).
+versements d'acomptes.
 
-4 ter. Abrogé pour les acomptes échus au cours d'exercices ouverts à compter du
-1er janvier 1998.
+4 ter. Abrogé.
 
 5. Les modalités d'application du présent article sont fixées par décret.
-
-(1) Ces dispositions s'appliquent aux acomptes dus au titre d'exercices ouverts
-à compter du 1er janvier 2001.
