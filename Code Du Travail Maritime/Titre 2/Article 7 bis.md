@@ -1,37 +1,21 @@
 Article 7 bis
 ----
-Nul marin âgé de moins de vingt-cinq ans ne peut être inscrit au rôle d'équipage
-d'un navire de plus de 250 tonneaux de jauge brute, pour y remplir un emploi du
-pont, de la machine ou du navire radioélectrique, s'il n'est titulaire :
+Pour pouvoir être inscrit sur le rôle d'équipage d'un navire de plus de 250
+tonneaux de jauge brute en vue d'y remplir un emploi du pont, de la machine ou
+du service général, les marins âgés de moins de vingt-cinq ans doivent justifier
+d'une formation professionnelle dans les conditions définies par le ministre
+chargé de la marine marchande.
 
-1° D'un certificat d'apprentissage maritime ou d'un certificat attestant qu'il a
-fréquenté assidûment une école d'apprentissage maritime pendant la durée d'une
-session de formation, délivrés dans des conditions fixées par arrêté du ministre
-chargé de la marine marchande ;
+A cette fin, des arrêtés du ministre chargé de la marine marchande, pris après
+consultation des organisations professionnelles intéressées, déterminent :
 
-2° Ou, pour les spécialités où la formation professionnelle est sanctionnée par
-le département de l'éducation nationale, d'un certificat d'aptitude
-professionnelle ou d'un diplôme au moins équivalent, délivré par les services de
-l'enseignement technique, sous réserve qu'il ait subi avec succès les épreuves
-d'un examen de formation nautique, après avoir suivi, dans des conditions fixées
-par arrêté du ministre chargé de la marine marchande, une session spéciale de
-formation dans une école d'apprentissage maritime ;
+1° La liste des brevets, diplômes ou certificats consacrant cette formation
+professionnelle, selon les genres de navigation et les catégories
+professionnelles ;
 
-3° Ou d'un certificat, diplôme ou brevet d'élève, d'élève officier ou d'officier
-de la marine marchande, ou du certificat spécial de radiotélégraphiste des
-postes, télégraphes et téléphones, ou d'un certificat attestant qu'il a suivi
-assidûment les cours d'une école nationale de la marine marchande pendant la
-durée d'une scolarité ;
+2° Les conditions d'admission dans les écoles d'apprentissage maritime,
+l'organisation et le fonctionnement de ces écoles, les modalités de délivrance
+des certificats consacrant la formation professionnelle qui y est dispensée ;
 
-4° Ou d'un des brevets de spécialité de la marine nationale figurant sur une
-liste fixée par arrêté conjoint du ministre chargé de la marine marchande et du
-ministre des forces armées.
-
-A défaut de candidats remplissant l'une ou l'autre des conditions ci-dessus
-mentionnées, des dispenses peuvent être accordées sauf pour l'embarquement d'un
-mousse ou d'un novice dans des conditions fixées par arrêté du ministre chargé
-de la marine marchande.
-
-Les conditions que doivent remplir les agents du service général pour être
-inscrits au rôle d'équipage des navires de plus de 250 tonneaux de jauge brute,
-sont fixées par un arrêté du ministre chargé de la marine marchande.
+3° Les conditions dans lesquelles, en l'absence de candidats possédant la
+formation professionnelle requise, les dispenses peuvent être accordées.
