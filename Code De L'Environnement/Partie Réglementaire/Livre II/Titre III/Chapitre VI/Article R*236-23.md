@@ -21,7 +21,7 @@ est inférieure à :
 0,23 mètre pour les truites autres que la truite de mer, l'omble ou saumon de
 fontaine et l'omble chevalier ;
 
-0,23 mètre pour le black-bass dans les eaux de la 2e catégorie ;
+0,30 mètre pour le black-bass dans les eaux de la 2e catégorie ;
 
 0,20 mètre pour le mulet ;
 

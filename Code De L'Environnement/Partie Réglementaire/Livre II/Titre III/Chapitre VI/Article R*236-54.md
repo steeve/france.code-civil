@@ -30,7 +30,10 @@ préfectoral, pris en application des articles R. 236-6, R. 236-7, R. 236-8, R.
 
 8° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile,
 d'instruments, filets ou engins de pêche prohibés destinés à être utilisés dans
-les eaux soumises aux dispositions de la présente section.
+les eaux soumises aux dispositions de la présente section ;
+
+9° Le fait de ne pas respecter les prescriptions du 5° de l'article R. 236-19
+relatives au maintien en captivité et au transport des carpes.
 
 L'amende encourue sera celle qui est prévue pour les contraventions de la 4e
 classe lorsque les infractions aux 1°, 3°, 4°, 5°, 6° et 7° ont été commises de
