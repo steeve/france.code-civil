@@ -30,8 +30,8 @@ part, plus de 50 p. 100 de la marge prévue au présent article, d'autre part,
 plus de 50 p. 100 du montant réglementaire de la marge défini à l'article R.
 334-5.
 
-7. Sur demande et justification de l'entreprise et avec l'accord du ministre de
-l'économie, des finances et du budget, et des autorités de contrôle des Etats
+7. Sur demande et justification de l'entreprise et avec l'accord de la
+commission de contrôle des assurances, et des autorités de contrôle des Etats
 membres de la Communauté économique européenne où l'entreprise exerce son
 activité, les plus-values pouvant résulter de la sous-estimation d'éléments
 d'actif et de la surestimation d'éléments de passif, dans la mesure où de telles

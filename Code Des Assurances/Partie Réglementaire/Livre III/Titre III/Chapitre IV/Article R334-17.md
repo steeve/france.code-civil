@@ -4,9 +4,8 @@ Une entreprise étrangère, dont le siège social n'est pas établi sur le
 territoire d'un Etat membre de la Communauté économique européenne, agréée ou
 demandant l'agrément pour pratiquer les opérations mentionnées aux 1 à 18 et 20
 à 26 de l'article R. 321-1 en France et dans un ou plusieurs autres Etats
-membres peut demander, en motivant son choix, au ministre chargé de l'économie
-et des finances de faire l'objet en France de la vérification de solvabilité
-globale.
+membres peut demander, en motivant son choix, à la commission de contrôle des
+assurances de faire l'objet en France de la vérification de solvabilité globale.
 
 L'entreprise doit justifier qu'elle informe de cette demande les autorités de
 contrôle des autres Etats membres dans lesquels elle est agréée ou demande
@@ -34,9 +33,9 @@ opérations mentionnées aux 1 à 18 de l'article R. 321-1 ;
 - à 200 000 unités de compte de la Communauté économique européenne pour
 pratiquer les opérations mentionnées aux 20 à 26 de l'article R. 321-1.
 
-Ces mesures prennent effet à la date à laquelle le ministre chargé de l'économie
-et des finances s'engage vis-à-vis des autorités de contrôle des autres Etats
-membres à exercer la vérification de solvabilité globale.
+Ces mesures prennent effet à la date à laquelle la commission de contrôle des
+assurances s'engage vis-à-vis des autorités de contrôle des autres Etats membres
+à exercer la vérification de solvabilité globale.
 
 La vérification de solvabilité globale prend en compte les informations reçues
 des autorités de contrôle des autres Etats intéressés, membres de la Communauté

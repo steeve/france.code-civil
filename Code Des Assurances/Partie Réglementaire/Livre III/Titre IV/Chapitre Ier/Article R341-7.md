@@ -6,7 +6,7 @@ française dans les conditions fixées par le décret mentionné à l'article R.
 341-1.
 
 Pour les entreprises soumises à une vérification de solvabilité globale exercée
-par le ministre de l'économie et des finances, en vertu de la section IV du
+par la commission de contrôle des assurances, en vertu de la section IV du
 chapitre IV du titre III du présent livre, les mêmes dispositions sont
 applicables aux opérations effectuées dans l'ensemble des pays auxquels s'étend
 cette vérification.

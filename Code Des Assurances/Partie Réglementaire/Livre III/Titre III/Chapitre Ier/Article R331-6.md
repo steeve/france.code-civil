@@ -3,8 +3,9 @@ Article R331-6
 Les provisions techniques correspondant aux autres opérations d'assurance sont
 les suivantes :
 
-1° Provision mathématique des rentes : valeur des engagements de l'entreprise en
-ce qui concerne les rentes et accessoires de rentes mis à sa charge ;
+1° Provision mathématique des rentes : valeur actuelle des engagements de
+l'entreprise en ce qui concerne les rentes et accessoires de rentes mis à sa
+charge ;
 
 2° Provision pour risques en cours : provision destinée à couvrir les risques et
 les frais généraux afférents, pour chacun des contrats à prime payable d'avance,
@@ -15,10 +16,10 @@ prime, ou à défaut le terme fixé par le contrat ;
 valeurs comprises dans l'actif de l'entreprise et à la diminution de leur revenu
 ;
 
-4° Provision pour sinistres restant à payer : valeur estimative des dépenses
-pour sinistres non réglés et montant des dépenses pour sinistres réglés restant
-à payer à la date de l'inventaire, y compris les capitaux constitutifs des
-rentes non encore mises à la charge des entreprises ;
+4° Provision pour sinistres à payer : valeur estimative des dépenses en
+principal et en frais, tant internes qu'externes, nécessaires au règlement de
+tous les sinistres survenus et non payés, y compris les capitaux constitutifs
+des rentes non encore mises à la charge de l'entreprise ;
 
 5° Provision pour risques croissants : provision pouvant être exigée, dans les
 conditions fixées par le décret prévu à l'avant-dernier alinéa de l'article R.
@@ -30,9 +31,10 @@ respectivement pris par l'assureur et par les assurés ;
 
 a) Provision destinée à faire face aux charges exceptionnelles afférentes aux
 opérations garantissant les risques dus à des éléments naturels, le risque
-atomique et les risques de responsabilité civile dus à la pollution, et calculée
-dans les conditions fixées par l'article 2 de la loi n° 74-1114 du 27 décembre
-1974 et par le décret n° 75-768 du 13 août 1975 ;
+atomique, les risques de responsabilité civile dus à la pollution et les risques
+spatiaux et calculée dans les conditions fixées par l'article 2 de la loi n°
+74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13 août 1975 et le
+décret n° 86-741 du 14 mai 1986 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique
 éventuelle apparaissant à la fin de l'exercice, et calculée dans les conditions
@@ -46,4 +48,4 @@ engagements respectivement pris l'un envers l'autre par le réassureur et le
 cédant ;
 
 8° Toutes autres provisions techniques qui peuvent être fixées par décrets en
-Conseil d'Etat pris après avis du conseil national des assurances.
+Conseil d'Etat.

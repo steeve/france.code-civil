@@ -7,10 +7,10 @@ montant minimal réglementaire, disposent d'un délai expirant le 27 décembre 1
 pour justifier dudit montant.
 
 Si elles ne sont pas en mesure de respecter ce délai, elles peuvent bénéficier,
-avec l'accord du ministre chargé de l'économie et des finances, d'un délai
+avec l'accord de la commission de contrôle des assurances, d'un délai
 supplémentaire expirant le 27 décembre 1991.
 
 Ce délai supplémentaire ne peut être accordé que si l'entreprise soumet à
-l'approbation du ministre chargé de l'économie et des finances soit le plan de
+l'approbation de la commission de contrôle des assurances soit le plan de
 redressement prévu à l'article R. 323-2, soit le plan de financement à court
 terme prévu à l'article R. 323-4.

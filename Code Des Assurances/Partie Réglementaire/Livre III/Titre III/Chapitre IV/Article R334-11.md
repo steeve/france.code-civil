@@ -13,8 +13,8 @@ correspondant pas aux engagements, y compris la réserve de capitalisation ;
 
 4. Les bénéfices reportés.
 
-5. Sur demande et justification de l'entreprise et avec l'accord du ministre de
-l'économie, des finances et du Budget ;
+5. Sur demande et justification de l'entreprise et avec l'accord de la
+commission de contrôle des assurances ;
 
 a) un montant représentant 50 % des bénéfices futurs de l'entreprise. Le montant
 des bénéfices futurs est obtenu en multipliant le bénéfice annuel estimé de
