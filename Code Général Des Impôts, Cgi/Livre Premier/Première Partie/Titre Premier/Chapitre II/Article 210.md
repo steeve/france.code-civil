@@ -20,8 +20,9 @@ a. Que les sociétés bénéficiaires des apports soient toutes de nationalité
 française ; toutefois, pour l'application de ces dispositions, sont assimilées
 aux sociétés de nationalité française les sociétés constituées dans les termes
 de la loi française et ayant leur siège social dans les départements
-d'outre-mer, en Polynésie française, à Saint-Pierre-et-Miquelon, aux îles Wallis
-et Futuna et dans les Terres australes et antarctiques françaises.
+d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en
+Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes
+et antarctiques françaises.
 
 b. Que les apports résultent de conventions prenant effet à la même date pour
 les différentes sociétés qui en sont bénéficiaires et entraînent, dès leur
@@ -33,10 +34,10 @@ de ces formes, à condition que :
 a. La société bénéficiaire de l'apport soit de nationalité française au sens du
 a du 1° ;
 
-b. L'apport ait été préalablement agréé par le ministre de l'économie et des
+b.L'apport ait été préalablement agréé par le ministre de l'économie et des
 finances.
 
-3. L'application des dispositions du présent article est subordonnée à
+3.L'application des dispositions du présent article est subordonnée à
 l'obligation, constatée dans l'acte de fusion ou d'apport :
 
 a. De calculer, en ce qui concerne les éléments autres que les marchandises
@@ -46,8 +47,8 @@ ainsi que les plus-values ultérieures résultant de la réalisation de ces
 fusionnées ou pour la société apporteuse, déduction faite des amortissements
 déjà réalisés par elles ;
 
-b. D'inscrire immédiatement au passif, en contre-partie des éléments d'actif
-pris en charge, des provisions pour renouvellement de l'outillage et du matériel
+b.D'inscrire immédiatement au passif, en contre-partie des éléments d'actif pris
+en charge, des provisions pour renouvellement de l'outillage et du matériel
 égales à celles figurant au moment de la fusion ou de l'apport dans les
 écritures des sociétés fusionnées ou de la société apporteuse et qui étaient
 afférentes aux éléments apportés.
@@ -59,8 +60,8 @@ qui leur sont attribués, soit à la société bénéficiaire de l'apport partie
 
 L'obligation prévue au a n'est pas applicable aux fusions ou apports visés au 1
 et au 2° du 2 qui ont été réalisés avant le 1er janvier 1950, sous réserve
-qu'ils aient reçu l'agrément du ministère des finances après avis du
-commissariat général du plan d'équipement et de la productivité.
+qu'ils aient reçu l'agrément du ministère des finances après avis du Centre
+d'analyse stratégique d'équipement et de la productivité.
 
 4. Les dispositions du présent article sont applicables aux plus-values visées
 au I de l'article 238 octies.

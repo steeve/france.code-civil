@@ -7,5 +7,7 @@ conditions prévues à l'article 4 ter, une provision destinée à faire face au
 risques particuliers afférents à ces crédits.
 
 Sont considérées comme effectuées à l'étranger les opérations faites à
-destination de pays autres que les territoires de la République Francaise
-(France métropolitaine, départements d'outre-mer et territoires d'outre-mer).
+destination de pays autres que les territoires de la République française
+(France métropolitaine, départements d'outre-mer, Saint-Pierre-et-Miquelon,
+Mayotte, Nouvelle-Calédonie, Polynésie française, les îles Wallis et Futuna et
+les Terres australes et antarctiques françaises).

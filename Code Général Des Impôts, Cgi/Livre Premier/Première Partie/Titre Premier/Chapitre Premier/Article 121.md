@@ -16,12 +16,13 @@ comparable au régime de l'article 210 A.
 1° Les amortissements de tout ou partie du capital social, des parts d'intérêts
 ou commandites effectués par les sociétés concessionnaires de l'Etat, des
 départements, communes et autres collectivités publiques, ainsi que par les
-sociétés concessionnaires de la Polynésie française, de
-Saint-Pierre-et-Miquelon, des îles Wallis et Futuna et des Terres australes et
-antarctiques françaises, communes et autres collectivités publiques de ces
-collectivités, dès lors que ces amortissements sont justifiés par la caducité de
-tout ou partie de l'actif social, notamment par dépérissement progressif ou par
-obligation de remise en fin de concession à l'autorité concédante ;
+sociétés concessionnaires de Saint-Pierre-et-Miquelon, de Mayotte, de
+Nouvelle-Calédonie, de Polynésie française, des îles Wallis et Futuna et des
+Terres australes et antarctiques françaises, communes et autres collectivités
+publiques de ces collectivités, dès lors que ces amortissements sont justifiés
+par la caducité de tout ou partie de l'actif social, notamment par dépérissement
+progressif ou par obligation de remise en fin de concession à l'autorité
+concédante ;
 
 2° Les remboursements sur les réserves incorporées au capital avant le 1er
 janvier 1949 ainsi que les sommes incorporées avant cette date au capital ou aux

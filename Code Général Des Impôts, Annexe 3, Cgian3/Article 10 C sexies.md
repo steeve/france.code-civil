@@ -16,14 +16,16 @@ pour objet d'effectuer la recherche et l'exploitation des minerais figurant sur
 la liste visée à l'article 10 C quinquies ou d'améliorer la récupération des
 substances minérales comprises dans ces mêmes minerais.
 
-Le terme "participations" s'entend, au sens du c, des actions ou des parts
+Le terme " participations " s'entend, au sens du c, des actions ou des parts
 d'intérêts ainsi que des sommes avancées aux sociétés ou organismes ci-dessus
 visés et effectivement destinées à être investies par ces sociétés et organismes
 dans des travaux de recherche ou de récupération des substances minérales
 considérées.
 
 II. Lorsque le remploi de la provision est effectué pour la mise en valeur de
-gisements situés hors de la France métropolitaine, des départements et
-territoires d'outre-mer, sa validité est subordonnée à un agrément du ministre
-de l'économie et des finances, après avis du ministre du développement
-industriel et scientifique.
+gisements situés hors de la France métropolitaine, des départements d'outre-mer,
+de Saint-Pierre-et-Miquelon, de Mayotte, de Nouvelle-Calédonie, de Polynésie
+française, des îles Wallis et Futuna et des Terres australes et antarctiques
+françaises, sa validité est subordonnée à un agrément du ministre de l'économie
+et des finances, après avis du ministre du développement industriel et
+scientifique.
