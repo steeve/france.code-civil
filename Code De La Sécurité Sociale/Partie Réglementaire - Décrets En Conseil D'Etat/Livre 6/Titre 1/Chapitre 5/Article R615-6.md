@@ -8,10 +8,10 @@ l'activité principale et, le cas échéant, le rattachement au régime dont
 celle-ci dépend ont lieu au 1er juillet suivant l'expiration de cette année
 civile.
 
-Aucun changement de régime ne peut intervenir au cours de la période d'une année
-s'ouvrant le 1er juillet, sauf dans le cas où l'intéressée cesse d'exercer
-l'activité principale qui a déterminé le rattachement au régime dont elle
-relève.
+Aucun changement de régime ne peut intervenir au cours de la période de trois
+années s'ouvrant le 1er juillet, sauf dans le cas où l'intéressée cesse
+d'exercer l'activité principale qui a déterminé le rattachement au régime dont
+elle relève.
 
 Les dispositions de l'alinéa précédent ne font pas obstacle à l'application de
 celles prévues en matière de coordination entre le régime agricole et les autres
