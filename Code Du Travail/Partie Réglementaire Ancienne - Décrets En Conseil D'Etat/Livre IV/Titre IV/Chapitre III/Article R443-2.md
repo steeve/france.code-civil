@@ -4,12 +4,6 @@ Les règlements des plans d'épargne comportent en annexe les critères de choix
 la liste des instruments de placement ainsi que les notices des SICAV et des
 fonds communs de placement offerts aux adhérents.
 
-Les règlements des plans mentionnés à l'article L. 443-1-2 peuvent prévoir que
-l'identité du ou des fonds communs de placement solidaires auxquels peuvent
-souscrire les adhérents à ces plans est précisée au plus tard six mois après le
-dépôt du plan à la direction départementale du travail, de l'emploi et de la
-formation professionnelle.
-
 Lorsque le plan offre plusieurs instruments de placement, son règlement précise
 les modalités selon lesquelles l'adhérent peut modifier l'affectation de son
 épargne entre ces instruments. Toutefois, le règlement du plan peut prévoir des
