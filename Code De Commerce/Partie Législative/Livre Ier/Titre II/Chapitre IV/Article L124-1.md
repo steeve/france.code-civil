@@ -35,15 +35,17 @@ alinéas de l'article L. 124-15, doivent être rétrocédés dans un délai maxi
 sept ans ;
 
 6° Définir et mettre en oeuvre par tous moyens une politique commerciale commune
-propre à assurer le développement et l'activité de ses associés, et notamment :
+propre à assurer le développement et l'activité de ses associés, notamment :
 
-- par la mise à disposition d'enseignes ou de marques dont elles ont la
-propriété ou la jouissance ;
+-par la mise en place d'une organisation juridique appropriée ;
 
-- par la réalisation d'opérations commerciales publicitaires ou non pouvant
+-par la mise à disposition d'enseignes ou de marques dont elles ont la propriété
+ou la jouissance ;
+
+-par la réalisation d'opérations commerciales publicitaires ou non pouvant
 comporter des prix communs ;
 
-- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et
+-par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et
 de présentation de produits, d'architecture et d'organisation des commerces ;
 
 7° Prendre des participations même majoritaires dans des sociétés directement ou

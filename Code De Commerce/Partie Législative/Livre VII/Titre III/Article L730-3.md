@@ -1,10 +1,12 @@
 Article L730-3
 ----
 Le tarif des redevances perçues auprès des titulaires d'autorisation
-d'occupation est établi par le gestionnaire et approuvé par le préfet.
+d'occupation ou des autres formes de contribution des usagers du marché à son
+fonctionnement est établi par le gestionnaire et approuvé par le préfet.
 
-Le gestionnaire du marché doit présenter un compte prévisionnel d'exploitation
-qui assure son équilibre financier.
+Le gestionnaire du marché doit présenter un compte de résultat prévisionnel
+permettant de faire face à l'ensemble de ses obligations sociales, financières
+et sanitaires établies ou prévisibles (1).
 
 Si l'exploitation financière d'un marché présente ou laisse prévoir un
 déséquilibre grave, les ministres de tutelle peuvent, après avoir conseillé le

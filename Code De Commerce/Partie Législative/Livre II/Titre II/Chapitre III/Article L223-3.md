@@ -1,7 +1,7 @@
 Article L223-3
 ----
 Le nombre des associés d'une société à responsabilité limitée ne peut être
-supérieur à cinquante. Si la société vient à comprendre plus de cinquante
-associés, elle doit, dans le délai de deux ans, être transformée en société
-anonyme. A défaut, elle est dissoute, à moins que, pendant ledit délai, le
-nombre des associés ne soit devenu égal ou inférieur à cinquante.
+supérieur à cent. Si la société vient à comprendre plus de cent associés, elle
+est dissoute au terme d'un délai d'un an à moins que, pendant ce délai, le
+nombre des associés soit devenu égal ou inférieur à cent ou que la société ait
+fait l'objet d'une transformation.

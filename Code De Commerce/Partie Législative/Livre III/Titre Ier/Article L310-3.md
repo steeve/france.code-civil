@@ -6,10 +6,10 @@ accéléré de marchandises en stock.
 
 Ces ventes ne peuvent être réalisées qu'au cours de deux périodes par année
 civile d'une durée maximale de six semaines dont les dates sont fixées dans
-chaque département par le préfet selon des modalités fixées par le décret prévu
-à l'article L. 310-7 et ne peuvent porter que sur des marchandises proposées à
-la vente et payées depuis au moins un mois à la date de début de la période de
-soldes considérée.
+chaque département par l'autorité administrative compétente selon des modalités
+fixées par le décret prévu à l'article L. 310-7 et ne peuvent porter que sur des
+marchandises proposées à la vente et payées depuis au moins un mois à la date de
+début de la période de soldes considérée.
 
 II. - Dans toute publicité, enseigne, dénomination sociale ou nom commercial,
 l'emploi du mot : solde(s) ou de ses dérivés est interdit pour désigner toute

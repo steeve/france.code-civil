@@ -1,9 +1,9 @@
 Article L223-25
 ----
-Le gérant est révocable par décision des associés représentant plus de la moitié
-des parts sociales. Toute clause contraire est réputée non écrite. Si la
-révocation est décidée sans juste motif, elle peut donner lieu à
-dommages-intérêts.
+Le gérant peut être révoqué par décision des associés dans les conditions de
+l'article L. 223-29, à moins que les statuts prévoient une majorité plus forte.
+Si la révocation est décidée sans juste motif, elle peut donner lieu à des
+dommages et intérêts.
 
 En outre, le gérant est révocable par les tribunaux pour cause légitime, à la
 demande de tout associé.

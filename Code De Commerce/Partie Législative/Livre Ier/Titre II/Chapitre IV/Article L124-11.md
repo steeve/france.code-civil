@@ -1,6 +1,6 @@
 Article L124-11
 ----
-S'il s'agit d'une coopérative exerçant les activités prévues au 1° de l'article
+S'il s'agit d'une coopérative exerçant les activités prévues au 2° de l'article
 L. 124-1, le remboursement des parts sociales de l'associé qui se retire ou qui
 est exclu s'effectue, par dérogation à l'article 18 de la loi du 10 septembre
 1947 portant statut de la coopération, dans les conditions prévues par les

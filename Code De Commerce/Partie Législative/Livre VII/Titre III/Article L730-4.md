@@ -1,15 +1,18 @@
 Article L730-4
 ----
-Dans les formes prévues à l'article L. 730-1, un périmètre de protection peut
-être institué autour du marché d'intérêt national.
+Un périmètre de référence peut être institué autour du marché d'intérêt national
+par décret en Conseil d'Etat.
 
-Le périmètre de protection comporte l'application des interdictions prévues à
-l'article L. 730-5.. Les interdictions prévue à l'article L. 730-6 peuvent, en
-outre, s'appliquer à la totalité ou à une ou plusieurs parties de ce périmètre.
+Le périmètre de référence comporte l'application des interdictions prévues à
+l'article L. 730-5.
 
-Les interdictions prévues aux articles L. 730-5 et L. 730-6 s'appliquent aux
-ventes et aux opérations accessoires à la vente de ceux des produits dont les
-listes sont fixées dans chaque cas par arrêté des ministres de tutelle. Les
-listes des produits visés par les interdictions mentionnées à l'article L. 730-5
-peuvent être plus étendues que celles des produits visés par les interdictions
-mentionnées à l'article L. 730-6.
+Les interdictions prévues s'appliquent aux ventes et aux opérations accessoires
+à la vente de ceux des produits dont les listes sont fixées dans chaque cas par
+arrêté des ministres de tutelle.
+
+Le décret mentionné au premier alinéa détermine l'implantation du marché
+d'intérêt national.
+
+La suppression anticipée de tout ou partie du périmètre, l'extension de
+l'implantation du marché ou son transfert à l'intérieur du périmètre peuvent
+être déterminés par décision de l'autorité administrative compétente.

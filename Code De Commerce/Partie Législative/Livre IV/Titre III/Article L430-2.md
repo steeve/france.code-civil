@@ -10,7 +10,7 @@ supérieur à 150 millions d'euros ;
 
 - le chiffre d'affaires total hors taxes réalisé en France par deux au moins des
 entreprises ou groupes des personnes physiques ou morales concernés est
-supérieur à 15 millions d'euros ;
+supérieur à 50 millions d'euros ;
 
 - l'opération n'entre pas dans le champ d'application du règlement (CEE) n°
 4064/89 du Conseil du 21 décembre 1989 relatif au contrôle des opérations de
