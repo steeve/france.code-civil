@@ -1,11 +1,10 @@
 Article D651-12
 ----
-Les sociétés et entreprises peuvent, en cas de force majeure ou de bonne foi
-dûment prouvées, formuler une demande en réduction des majorations de retard
-encourues en application de l'article D. 651-11. Cette requête ne peut être
-examinée qu'après le règlement de la totalité des contributions qui ont donné
-lieu à application desdites majorations. Elle doit être présentée, à peine
-d'irrecevabilité, dans les deux mois suivant la date dudit règlement, devant le
-tribunal des affaires de sécurité sociale , dans les conditions prévues à
-l'article D. 651-20. Toutefois, ce tribunal statue en dernier ressort, quel que
-soit le chiffre de la demande.
+Les majorations pour retard de déclaration du chiffre d'affaires ou de paiement
+de la contribution ainsi que celles prévues à l'article L. 243-14 sont liquidées
+par le directeur de l'organisme chargé du recouvrement.
+
+Elles doivent être versées dans le mois de leur notification par mise en demeure
+effectuée par le directeur de l'organisme chargé du recouvrement dans les
+conditions prévues aux articles L. 244-2 et L. 244-3 et sont recouvrées comme la
+contribution sociale de solidarité.

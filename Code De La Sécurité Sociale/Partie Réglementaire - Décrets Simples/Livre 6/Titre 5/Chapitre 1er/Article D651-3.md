@@ -10,11 +10,11 @@ Pour l'application du premier alinéa, les entreprises de négoce en l'état des
 produits du sol et de l'élevage, engrais et produits connexes sont celles qui
 réalisent plus de la moitié de leurs achats ou de leurs ventes avec les
 producteurs agricoles ou leurs coopératives et qui ont pour activité le négoce
-en gros des produits suivants : céréales, graines oléagineuses, plantes,
+en gros des produits suivants : céréales, graines oléagineuses, plants,
 semences, aliments pour le bétail, paille, fourrage, engrais, produits
 phytosanitaires, bétail, viande, fruits, légumes et tubercules, volailles et
 gibiers, produits laitiers, légumes secs, vins, miel, forêt, betteraves, laine,
-lin, olive, protéagineux, sel, tabac.
+lin, olive, protéagineux, sel, tabac, plantes médicinales et aromatiques.
 
 La marge brute mentionnée au premier alinéa s'obtient à partir des indications
 qui doivent figurer, pour chaque exercice, dans le compte de résultat prévu à
