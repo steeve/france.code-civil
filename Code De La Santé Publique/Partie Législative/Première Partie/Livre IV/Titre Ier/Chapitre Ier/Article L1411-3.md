@@ -1,25 +1,11 @@
 Article L1411-3
 ----
-La conférence régionale de santé analyse l'évolution des besoins de santé et
-procède à l'examen des données relatives à la situation sanitaire et sociale de
-la population, propres à la région.
+Il est créé dans chaque région et dans la collectivité territoriale de Corse un
+conseil régional de santé qui a pour mission de contribuer à la définition et à
+la mise en oeuvre des politiques régionales de santé. Il siège en formation
+plénière ou en sections spécialisées.
 
-Elle établit les priorités de santé publique de la région qui peuvent faire
-l'objet de programmes dont l'élaboration et la mise en oeuvre sont coordonnées
-par le représentant de l'Etat dans la région.
-
-Elle fait des propositions pour améliorer l'état de santé de la population au
-regard de l'ensemble des moyens de la région tant dans le domaine sanitaire que
-les domaines médico-social et social.
-
-Le rapport de la conférence régionale est transmis à la conférence nationale de
-santé, à l'agence régionale de l'hospitalisation, à l'union régionale des
-caisses d'assurance maladie et à l'union des médecins exerçant à titre libéral.
-
-La conférence régionale de santé rassemble les représentants de l'Etat, des
-collectivités territoriales, des organismes d'assurance maladie, des
-professionnels du champ sanitaire et social, des institutions et établissements
-sanitaires et sociaux et des usagers.
-
-Un décret en Conseil d'Etat détermine les conditions d'application des
-dispositions du présent article.
+Le représentant de l'Etat dans la région ou dans la collectivité territoriale de
+Corse et le directeur de l'agence régionale de l'hospitalisation assistent sans
+voix délibérative aux travaux de la formation plénière et des sections
+spécialisées.

@@ -27,6 +27,7 @@ L'établissement dispose d'un délai de trois mois pour présenter ses observati
 à compter de la date de notification, par l'agence régionale de
 l'hospitalisation ou le ministre chargé de la santé, des motifs du projet de
 retrait d'autorisation. La décision de retrait est motivée. Elle est prise après
-consultation, selon le cas, du comité régional ou du Comité national de
-l'organisation sanitaire et sociale, auquel aura été préalablement communiqué
-l'ensemble des éléments de la procédure contradictoire.
+consultation, selon le cas, de la section compétente du conseil régional de
+santé ou du Comité national de l'organisation sanitaire et sociale, auquel aura
+été préalablement communiqué l'ensemble des éléments de la procédure
+contradictoire.

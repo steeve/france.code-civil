@@ -13,13 +13,12 @@ opérer dans ses activités, son organisation, sa gestion et dans ses modes de
 coopération.
 
 Ils définissent, en outre, des objectifs en matière de qualité et de sécurité
-des soins ainsi que de mise en oeuvre des orientations adoptées par la
-conférence régionale de santé prévue à l'article L. 1411-3. Ils prévoient les
-délais de mise en oeuvre de la procédure d'accréditation mentionnée à l'article
-L. 6113-3.
+des soins ainsi que de mise en oeuvre des orientations adoptées par le conseil
+régional de santé prévu à l'article L. 1411-3. Ils prévoient les délais de mise
+en oeuvre de la procédure d'accréditation mentionnée à l'article L. 6113-3.
 
-Ils favorisent la participation des établissements aux réseaux de soins et aux
-communautés d'établissements de santé mentionnés aux articles L. 6121-5 et L.
+Ils favorisent la participation des établissements aux réseaux de santé et aux
+communautés d'établissements de santé mentionnés aux articles L. 6321-1 et L.
 6121-6 ainsi qu'aux actions de coopération prévues au titre III du présent
 livre.
 
