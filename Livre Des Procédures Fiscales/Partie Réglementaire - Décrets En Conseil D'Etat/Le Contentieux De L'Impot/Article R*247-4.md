@@ -6,17 +6,17 @@ contribuables tendant à obtenir une modération, remise ou transaction appartie
 
 a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une
 direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 400.000 F [*montant limite*] par cote, exercice ou affaire, selon
+n'excèdent pas 750.000 F [*montant limite*] par cote, exercice ou affaire, selon
 la nature des impôts ;
 
 b) Au directeur régional des impôts ou au directeur des services fiscaux chargé
 d'une direction spécialisée, pour les affaires relatives à des impositions
 établies à l'initiative des agents placés sous son autorité, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 600.000 F par cote, exercice ou
+faisant l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou
 affaire ;
 
 c) Au directeur général des impôts, après avis du comité du contentieux fiscal,
 douanier et des changes, lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 1.000.000 F par cote, exercice ou affaire ;
+n'excèdent pas 1.750.000 F par cote, exercice ou affaire ;
 
 d) Au ministre, après avis du comité précité, dans les autres cas.
