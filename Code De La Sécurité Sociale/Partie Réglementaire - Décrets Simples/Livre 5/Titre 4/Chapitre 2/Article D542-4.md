@@ -1,14 +1,12 @@
 Article D542-4
 ----
-Outre les enfants qui, vivant au foyer de l'allocataire, ouvrent droit aux
-prestations familiales ou qui, bien que n'ouvrant pas droit à ces prestations,
-doivent être considérés comme étant à charge au sens des articles L. 512-3 et L.
-513-1, sont également considérés comme à charge pour l'ouverture du droit à
-l'allocation de logement et le calcul de son montant les personnes vivant au
-foyer de l'allocataire ci-dessous désignées et dont les ressources déterminées
-dans les conditions prévues à l'article D. 542-10 n'excèdent pas le plafond
-individuel prévu à l'article L. 815-8 en vigueur au 31 décembre de l'année de
-référence :
+Outre les enfants âgés de moins de vingt et un ans et qui, vivant au foyer de
+l'allocataire, sont à sa charge au sens des articles L. 512-3 et L. 513-1, sont
+également considérés comme à charge pour l'ouverture du droit à l'allocation de
+logement et le calcul de son montant les personnes vivant au foyer de
+l'allocataire ci-dessous désignées et dont les ressources déterminées dans les
+conditions prévues à l'article D. 542-10 n'excèdent pas le plafond individuel
+prévu à l'article L. 815-8 en vigueur au 31 décembre de l'année de référence :
 
 1°) ascendants de l'allocataire ou de son conjoint, âgés d'au moins
 soixante-cinq ans ;
