@@ -13,6 +13,9 @@ b) Les taxes versées par les bénéficiaires de plans de chasse individuels ;
 c) Le produit des contributions imposées aux fédérations départementales des
 chasseurs en application de l'article R. 226-4 ;
 
+d) Le produit de la redevance additionnelle instituée par l'article 34 I de la
+loi de finances rectificative pour 1993 (n° 93-859 du 22 juin 1993).
+
 2° En dépenses :
 
 a) Les indemnités versées aux victimes des dégâts mentionnés à l'article L.
