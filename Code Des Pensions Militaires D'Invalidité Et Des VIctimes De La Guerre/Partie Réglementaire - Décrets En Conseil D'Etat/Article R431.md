@@ -1,13 +1,5 @@
 Article R431
 ----
-Toutes les propositions sont transmises au ministre des anciens combattants et
-victimes de guerre avec, pour chacune d'elles, la mention de l'avis du
-commissaire du Gouvernement ; en cas de désaccord avec la commission, cet avis
-doit être motivé. Le classement définitif est arrêté par le ministre des anciens
-combattants et victimes de guerre qui établit, par emploi et suivant un
-numérotage continu dans chacune des rubriques A, A', B, B', C, C', D, E, la
-liste de classement. Cette dernière est publiée au Journal officiel.
-
 Il est établi au cours du premier semestre de chaque année une liste générale
 annuelle de classement. Le cas échéant, une ou plusieurs listes provisoires
 complémentaires sont établies entre les dates de publication de deux listes
@@ -29,6 +21,6 @@ c) Par les autres candidats au titre de l'année en cours.
 
 Les candidats visés aux alinéas b et c concourent entre eux en vue de
 l'établissement de la liste générale annuelle et reçoivent, par emploi et par
-rubrique (A, A', B, B', C, C', D, E) un numéro définitif de classement faisant
-suite éventuellement au numérotage des candidats non nommés de la liste annuelle
+rubrique (A, B, C, D, E) un numéro définitif de classement faisant suite
+éventuellement au numérotage des candidats non nommés de la liste annuelle
 précédente.

@@ -14,8 +14,8 @@ nominations doivent être faites jusqu'à épuisement en suivant l'ordre des
 inscriptions.
 
 A défaut de candidat classé dans une liste générale annuelle ou une liste
-provisoire complémentaire, sous les rubriques A, A', B, B', C, C', le ministre
-désigne des candidats classés sous la rubrique D.
+provisoire complémentaire, sous les rubriques A, B, C, le ministre désigne des
+candidats classés sous la rubrique D.
 
 Pour les vacances revenant exclusivement aux candidats bénéficiaires du
 paragraphe 2 de la section I susvisée, il est fait appel aux seuls candidats
@@ -39,6 +39,6 @@ cancéreuse ou nerveuse, soit définitivement guéris.
 Les candidats qui ont reçu un avis de désignation pour un emploi font connaître
 au ministre des anciens combattants et victimes de guerre, dans le délai d'un
 mois à compter de la date de réception de cet avis, s'ils acceptent leur
-nomination audit emploi. Les candidats qui, dans le délai ci-dessus, n'ont pas
+nomination audit emploi. Les candidats qui, dans le cas ci-dessus, n'ont pas
 fait connaître leur acceptation ou leur refus sont considérés comme ayant refusé
 l'emploi. L'avis de désignation doit reproduire cette disposition.
