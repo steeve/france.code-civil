@@ -1,13 +1,15 @@
 Article R10
 ----
 La qualité d'officier de police judiciaire peut être attribuée aux
-fonctionnaires du corps des inspecteurs de la police nationale et, en ce qui
-concerne les infractions prévues à l'article L. 23-1 du Code de la route, aux
-fonctionnaires du corps des commandants et officiers de paix de la police
-nationale. Les fonctionnaires de ces deux catégories doivent compter au moins
-deux ans de services effectifs dans leur corps en qualité de titulaire et avoir
-satisfait aux épreuves d'un examen technique.
+fonctionnaires du corps de commandement et d'encadrement de la police nationale
+ayant satisfait aux épreuves d'un examen technique.
 
-Les modalités d'organisation de cet examen et le programme des épreuves sont
-fixés par arrêté conjoint du garde des sceaux, ministre de la Justice, et du
-ministre de l'Intérieur.
+Elle peut être attribuée dans les mêmes conditions aux fonctionnaires du corps
+de maîtrise et d'application de la police nationale comptant au moins trois ans
+de services dans ce corps. Ceux-ci doivent avoir exercé au moins deux ans de
+services dans ce corps au 1er janvier de l'année de l'examen pour être autorisés
+à subir les épreuves.
+
+Les modalités d'organisation de l'examen technique et le programme des épreuves
+sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et
+du ministre de l'intérieur.
