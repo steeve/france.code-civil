@@ -7,9 +7,9 @@ fait au cours de deux réunions spécifiques.
 
 Ce projet devra tenir compte des orientations de la formation professionnelle
 dans l'entreprise dont le comité d'entreprise a eu à délibérer, du résultat des
-négociations avec les organisations syndicales prévues à l'article L. 932-2
-ainsi que, le cas échéant, du plan pour l'égalité professionnelle prévu à
-l'article L. 123-4 du présent code.
+négociations avec les organisations syndicales prévues aux articles L. 932-1, L.
+932-2 et L. 933-2 ainsi que, le cas échéant, du plan pour l'égalité
+professionnelle prévu à l'article L. 123-4 du présent code.
 
 Le comité d'entreprise donne, en outre, son avis sur les conditions d'accueil,
 d'insertion et de formation de jeunes dans l'entreprise, notamment de jeunes

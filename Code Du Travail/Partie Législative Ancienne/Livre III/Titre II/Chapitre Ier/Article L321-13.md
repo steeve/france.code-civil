@@ -12,6 +12,10 @@ l'entreprise concernée. Cette cotisation n'est pas due dans les cas suivants
 
 1° Licenciement pour faute grave ou lourde ;
 
+1° bis Licenciement en cas de refus par le salarié d'une modification de son
+contrat de travail consécutive à une réduction de la durée du travail organisée
+par une convention ou un accord collectif ;
+
 2° Licenciement résultant d'une cessation d'activité de l'employeur, pour raison
 de santé ou de départ en retraite, qui entraîne la fermeture définitive de
 l'entreprise ;

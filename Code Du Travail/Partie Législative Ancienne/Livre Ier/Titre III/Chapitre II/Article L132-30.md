@@ -2,14 +2,20 @@ Article L132-30
 ----
 Des accords conclus dans les conditions prévues par l'article L. 132-2 peuvent
 regrouper au plan local ou départemental, professionnel ou interprofessionnel,
-les entreprises occupant moins de onze salariés [*effectif*], ainsi que celles
-occupant moins de cinquante salariés.
+les entreprises occupant moins de cinquante salariés. Dans le cas où les accords
+mentionnés au deuxième alinéa sont conclus dans le périmètre d'un groupement
+d'employeurs constitué dans les formes prévues à l'article L. 127-1, ce seuil
+d'effectif ne s'applique pas.
 
 Ces accords instituent des commissions paritaires professionnelles ou
 interprofessionnelles, qui concourent à l'élaboration et à l'application de
 conventions ou accords collectifs de travail, ainsi qu'à l'examen des
 réclamations individuelles et collectives et de toute autre question relative
-aux conditions d'emploi et de travail des salariés intéressés.
+aux conditions d'emploi et de travail des salariés intéressés. Les accords
+conclus dans le cadre des commissions locales peuvent prendre la forme d'accords
+professionnels, interprofessionnels ou d'accords interentreprises signés par
+chacun des chefs des entreprises visées par ces accords. Les accords
+interentreprises sont soumis au régime prévu à l'article L. 132-19.
 
 Ces accords peuvent prévoir des modalités particulières de représentation du
 personnel des entreprises visées au premier alinéa du présent article et du
