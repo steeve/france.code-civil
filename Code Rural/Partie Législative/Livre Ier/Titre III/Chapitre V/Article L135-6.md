@@ -3,8 +3,8 @@ Article L135-6
 Lorsque l'état d'abandon des fonds ou leur défaut d'entretien est de nature à
 constituer un danger pour ces fonds ou pour les fonds situés à leur voisinage et
 qu'une association foncière pastorale libre ou autorisée n'a pu être constituée
-pour y remédier, le préfet peut user des pouvoirs définis au quatrième alinéa de
-l'article 26 de la loi du 21 juin 1865 précitée. La constitution d'office de
+pour y remédier, le préfet peut user des pouvoirs définis à l'article 43 de
+l'ordonnance du 1er juillet 2004 précitée. La constitution d'office de
 l'association ne peut avoir pour objet la réalisation des équipements mentionnés
 au dernier alinéa de l'article L. 135-1.
 

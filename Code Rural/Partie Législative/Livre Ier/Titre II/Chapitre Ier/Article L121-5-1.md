@@ -4,8 +4,10 @@ La procédure des échanges et cessions d'immeubles forestiers visés au 8° de
 l'article L. 121-1 est conduite par une commission communale ou intercommunale
 d'aménagement foncier spécifique ainsi composée :
 
-a) La commission communale d'aménagement foncier est présidée par un magistrat
-de l'ordre judiciaire.
+a) La commission communale d'aménagement foncier est présidée par un commissaire
+enquêteur désigné par le président du tribunal de grande instance dans le
+ressort duquel la commission a son siège, dans les conditions fixées par décret
+en Conseil d'Etat.
 
 La commission comprend également :
 
@@ -45,8 +47,10 @@ commission intercommunale d'aménagement foncier spécifique qui a les mêmes
 pouvoirs que la commission communale visée au a. La commission intercommunale
 est ainsi composée :
 
-La commission intercommunale d'aménagement foncier est présidée par un magistrat
-de l'ordre judiciaire.
+La commission intercommunale d'aménagement foncier est présidée par un
+commissaire enquêteur désigné par le président du tribunal de grande instance
+dans le ressort duquel la commission a son siège, dans les conditions fixées par
+décret en Conseil d'Etat.
 
 La commission comprend également :
 

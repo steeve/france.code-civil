@@ -2,15 +2,14 @@ Article L322-5
 ----
 Les propriétaires d'immeubles compris dans le périmètre d'une association
 foncière urbaine autorisée et n'ayant pas adhéré à l'association peuvent, dans
-le délai d'un mois à partir de [*point de départ*] la publication de la décision
-administrative autorisant l'association, délaisser ces immeubles moyennant
-indemnité. A défaut d'accord amiable, l'indemnité est fixée comme en matière
-d'expropriation.
+le délai de trois mois à partir de la publication de la décision administrative
+autorisant l'association, délaisser ces immeubles moyennant indemnité. A défaut
+d'accord amiable, l'indemnité est fixée comme en matière d'expropriation.
 
 Lorsque l'association a pour objet le groupement de parcelles, il est en outre
 possible à tous les propriétaires d'immeubles compris dans le périmètre syndical
 de délaisser, moyennant indemnité, leurs propriétés ou leurs quote-parts de
-propriété sur les parcelles groupées, dans le délai d'un mois à partir de la
+propriété sur les parcelles groupées, dans le délai de trois mois à partir de la
 publication de l'arrêté de l'autorité administrative visé à l'article L. 322-7
 (troisième alinéa). A défaut d'accord amiable, l'indemnité est fixée comme en
 matière d'expropriation.

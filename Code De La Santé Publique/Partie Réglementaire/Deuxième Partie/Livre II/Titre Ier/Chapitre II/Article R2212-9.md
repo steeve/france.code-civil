@@ -8,5 +8,3 @@ peuvent être réalisées que dans le cadre d'une convention conclue entre un
 médecin et un établissement de santé public ou privé, satisfaisant aux
 dispositions de l'article L. 2322-1 et conforme à la convention type constituant
 l'annexe 22-1.
-
-Ces dispositions ne sont pas applicables aux femmes du groupe rhésus négatif.

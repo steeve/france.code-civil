@@ -12,20 +12,20 @@ L'acte amiable portant cession d'un bâtiment ou d'un ouvrage à l'association
 produit les mêmes effets que l'acte de cession amiable en matière
 d'expropriation en ce qui concerne l'extinction des droits réels et personnels ;
 à défaut d'accord amiable des propriétaires sur leur cession, ces bâtiments ou
-ouvrages font l'objet d'une expropriation dans les conditions fixées par
-l'ordonnance n. 58-997 du 23 octobre 1958 modifiée ;
+ouvrages font l'objet d'une expropriation dans les conditions fixées par le code
+de l'expropriation pour cause d'utilité publique ;
 
 b) Etablit le projet de remembrement et en saisit l'autorité administrative qui,
 après avoir vérifié sa compatibilité avec la réglementation de l'urbanisme, le
 soumet à une enquête publique.
 
 Après enquête publique, et en cas d'observations formulées au cours de celle-ci,
-avis d'une commission présidée par le juge de l'expropriation, et dont la
-composition est fixée par décret, l'autorité administrative prononce les
-transferts et attributions de propriété. L'acte de l'autorité administrative
-impose, en tant que de besoin, des prescriptions propres à l'opération, en
-complément de la réglementation d'urbanisme applicable à la zone considérée. Ces
-prescriptions font partie du dossier soumis à l'enquête.
+avis d'une commission, et dont la composition est fixée par décret, l'autorité
+administrative prononce les transferts et attributions de propriété. L'acte de
+l'autorité administrative impose, en tant que de besoin, des prescriptions
+propres à l'opération, en complément de la réglementation d'urbanisme applicable
+à la zone considérée. Ces prescriptions font partie du dossier soumis à
+l'enquête.
 
 L'arrêté de l'autorité administrative éteint par lui-même et à sa date, pour les
 immeubles qu'il concerne, les servitudes ainsi que les droits réels conférés aux
@@ -40,19 +40,19 @@ seront fixés par décret ; ils s'exercent éventuellement sur les soultes.
 
 L'arrêté de l'autorité administratives met fin dans les mêmes conditions aux
 contrats de louage dont ces immeubles étaient l'objet. Si le bail éteint était
-soumis aux dispositions du décret n. 53-960 du 30 septembre 1953, l'association
-foncière urbaine devra au preneur une indemnité calculée selon les règles fixées
-par ce décret à moins qu'elle ne préfère lui offrir le bail d'un local
-équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne les
-locaux d'habitation ou professionnels, quelle que soit la nature du titre
-d'occupation, le droit au relogement est exercé comme en matière
-d'expropriation.
+soumis aux dispositions du chapitre V du titre IV du livre Ier du code de
+commerce, l'association foncière urbaine devra au preneur une indemnité calculée
+selon les règles fixées par ces dispositions à moins qu'elle ne préfère lui
+offrir le bail d'un local équivalent à celui dont la jouissance lui a été
+retirée. En ce qui concerne les locaux d'habitation ou professionnels, quelle
+que soit la nature du titre d'occupation, le droit au relogement est exercé
+comme en matière d'expropriation.
 
-La juridiction instituée à l'article 12 de l'ordonnance n. 58-997 du 23 octobre
-1958 est compétente pour statuer sur les contestations relatives à l'évaluation
-des parcelles remembrées. Elle statue aussi sur les contestations soulevées à
-l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres
-droits réels.
+La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour cause
+d'utilité publique est compétente pour statuer sur les contestations relatives à
+l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations
+soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques
+et autres droits réels.
 
 L'avis de la commission prévue ci-dessus et la décision motivée prise,
 consécutivement à cet avis, par l'organe compétent de l'association foncière

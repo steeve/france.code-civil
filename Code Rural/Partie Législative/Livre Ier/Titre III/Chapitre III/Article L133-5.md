@@ -2,10 +2,8 @@ Article L133-5
 ----
 Les associations foncières de remembrement ou leurs unions peuvent également :
 
-1° Poursuivre l'exécution, l'entretien et l'exploitation des travaux énumérés à
-l'article 1er de la loi du 21 juin 1865 sur les associations syndicales, sans
-préjudice éventuellement des dispositions de l'article 26 de ladite loi et des
-articles 114 à 122 du code rural ;
+1° Poursuivre la construction ou l'entretien des ouvrages ou la réalisation des
+travaux prévus à l'article 1er de l'ordonnance du 1er juillet 2004 précitée ;
 
 2° Exécuter tous travaux d'élargissement, de régularisation et de redressement
 des cours d'eau non domaniaux, même non accessoires des travaux de curage. Les

@@ -1,8 +1,8 @@
 Article L222-2
 ----
-Le comité régional de l'environnement, les conseils départementaux d'hygiène et
-les représentants des organismes agréés prévus à l'article L. 221-3 sont
-associés à l'élaboration du plan régional pour la qualité de l'air.
+Les conseils départementaux d'hygiène et les représentants des organismes agréés
+prévus à l'article L. 221-3 sont associés à l'élaboration du plan régional pour
+la qualité de l'air.
 
 Le projet de plan est mis à la disposition du public pour consultation. Il est
 transmis pour avis aux communes, aux établissements publics de coopération

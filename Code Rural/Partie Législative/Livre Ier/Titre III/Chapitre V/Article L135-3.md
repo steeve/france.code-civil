@@ -6,8 +6,7 @@ pastorale autorisée si, tout à la fois :
 1° La moitié au moins des propriétaires, dont les terres situées dans le
 périmètre représentent la moitié au moins de la superficie totale des terres
 incluses dans ce périmètre, a adhéré à l'association expressément ou dans les
-conditions prévues à l'article 11 de la loi du 21 juin 1865 sur les associations
-syndicales ;
+conditions prévues à l'article 13 de l'ordonnance du 1er juillet 2004 précitée ;
 
 2° L'association, un propriétaire des terres situées dans le périmètre ou, à
 défaut, un tiers prend l'engagement d'acquérir les biens dont le ou les
