@@ -22,8 +22,8 @@ service de lutte antituberculeuse effectue le dépistage de la tuberculose aupr�
 des personnes ayant été en contact avec un détenu présentant une maladie
 tuberculeuse.
 
-En application de l'article L. 11 du code de la santé publique, la déclaration
-obligatoire des cas de tuberculose est faite par le médecin ayant effectué le
-diagnostic et est transmise par le médecin responsable des structures visées aux
-articles D. 368 et D. 371 au médecin inspecteur de santé publique de la
-direction départementale des affaires sanitaires et sociales.
+En application de l'article L. 3113-1 du code de la santé publique, la
+déclaration obligatoire des cas de tuberculose est faite par le médecin ayant
+effectué le diagnostic et est transmise par le médecin responsable des
+structures visées aux articles D. 368 et D. 371 au médecin inspecteur de santé
+publique de la direction départementale des affaires sanitaires et sociales.
