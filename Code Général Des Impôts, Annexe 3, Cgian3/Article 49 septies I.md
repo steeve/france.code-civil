@@ -1,7 +1,7 @@
 Article 49 septies I
 ----
 Pour la détermination des dépenses de recherche visées à l'article 244 quater
-B-II-a et b du code général des impôts, il y a lieu de retenir :
+B-II-a , b et f du code général des impôts, il y a lieu d retenir :
 
 a. Les dotations aux amortissements fiscalement déductibles, y compris les
 amortissements pratiqués au cours de l'exercice et réputés différés en période
