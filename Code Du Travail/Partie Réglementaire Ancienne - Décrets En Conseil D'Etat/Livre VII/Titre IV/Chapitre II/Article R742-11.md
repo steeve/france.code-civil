@@ -1,9 +1,14 @@
 Article R742-11
 ----
-Il est institué au siège de chaque direction des affaires maritimes une
-commission régionale de conciliation dont la compétence territoriale s'étend à
-toute la circonscription de ladite direction.
+Chacune des commissions régionales de conciliation comprend [*composition*] :
 
-La commission régionale est compétente sous réserve des dispositions de
-l'article R. 742-10 pour connaître de tous les conflits collectifs de travail
-survenant dans sa circonscription.
+- Le directeur des affaires maritimes ou son représentant, président ;
+
+- Un membre du tribunal administratif dans le ressort duquel se trouve le siège
+de la direction ;
+
+- Six [*nombre*] représentants des armateurs, respectivement, pour la navigation
+de commerce et pour la pêche maritime ;
+
+- Six représentants des personnels navigants respectivement pour la navigation
+de commerce et pour la pêche maritime.

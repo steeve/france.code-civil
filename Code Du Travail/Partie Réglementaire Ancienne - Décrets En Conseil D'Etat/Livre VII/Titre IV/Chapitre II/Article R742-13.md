@@ -1,21 +1,17 @@
 Article R742-13
 ----
-Chacune des commissions régionales de conciliation comprend [*composition*] :
+Quand les parties intéressées prennent l'initiative de recourir à la procédure
+réglementaire de conciliation, la partie la plus diligente adresse au ministre
+ou au directeur des affaires maritimes intéressé une requête aux fins de
+conciliation rédigée sur papier libre et exposant les points sur lesquels porte
+le litige.
 
-Le directeur des affaires maritimes ou son représentant, président ;
+Le directeur des affaires maritimes transmet la requête au secrétaire de la
+commission compétente.
 
-Un membre du tribunal administratif dans le ressort duquel se trouve le siège de
-la direction ;
+Quand le ministre ou le directeur saisit spontanément la commission, il adresse
+à celle-ci une communication écrite indiquant l'objet du conflit.
 
-Six [*nombre*] représentants des armateurs, respectivement pour la navigation de
-commerce et pour la pêche maritime ;
-
-Six représentants des personnels navigants, respectivement pour la navigation de
-commerce et pour la pêche maritime.
-
-Quand le conflit examiné concerne seulement les officiers, les représentants des
-personnels navigants sont des représentants des officiers.
-
-Quand le conflit examiné concerne directement à la fois les personnels officiers
-et non officiers, les organisations représentant les officiers désignent deux
-des six représentants des personnels navigants.
+Les requêtes et communications susvisées doivent être inscrites à leur date sur
+un registre tenu au ministère de la marine marchande ou dans chaque direction
+des affaires maritimes [*formalités*].

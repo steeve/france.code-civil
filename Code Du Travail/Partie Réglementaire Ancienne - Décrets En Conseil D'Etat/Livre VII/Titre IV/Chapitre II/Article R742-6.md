@@ -1,11 +1,29 @@
 Article R742-6
 ----
-La conclusion de toute convention ou de tout accord collectif doit être signalée
-aux personnels navigants intéressés par avis affiché à bord du navire ainsi que
-dans les bureaux des affaires maritimes du port siège de l'entreprise et du port
-d'armement du navire.
+La commission nationale de la négociation collective de la marine marchande a la
+composition suivante :
 
-Une copie de la convention collective applicable est annexée au rôle d'équipage
-du navire. Le texte des conventions collectives en vigueur est tenu à la
-disposition de tout intéressé dans les quartiers des affaires maritimes
-[*publicité*].
+Le ministre chargé de la marine marchande ou son représentant, président ;
+
+Un membre du Conseil d'Etat en activité ou honoraire ;
+
+Un représentant du ministre chargé du travail ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Neuf [*nombre*] représentants des armateurs, désignés respectivement pour la
+navigation de commerce et pour la pêche maritime, par les organisations
+syndicales nationales les plus représentatives dans chacun de ces deux genres de
+navigation ;
+
+Neuf représentants des personnels navigants désignés, respectivement pour la
+navigation de commerce et pour la pêche maritime, par les organisations
+syndicales nationales les plus représentatives dans chacun de ces deux genres de
+navigation ;
+
+Des membres suppléants en nombre double de celui des membres titulaires prévus
+aux alinéas précédents sont nommés dans les mêmes conditions.
+
+Les modalités d'organisation et les règles de fonctionnement de la commission
+sont fixées par arrêté du ministre chargé de la marine marchande et du ministre
+chargé du travail.

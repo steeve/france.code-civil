@@ -1,14 +1,9 @@
 Article R742-2
 ----
-A la demande de l'une des organisations syndicales les plus représentatives
-d'armateurs ou de personnels navigants ou de sa propre initiative, le ministre
-chargé de la marine marchande peut provoquer la réunion dans les conditions
-prévues par l'article L. 133-6, d'une commission mixte, en vue de la conclusion
-d'une convention collective régionale ou locale.
-
-A la demande de l'une des organisations syndicales d'officiers de la marine
-marchande les plus représentatives, des conventions particulières, régionales ou
-locales peuvent être discutées,
-
-dans les mêmes conditions, entre les représentants de ces organisations et les
-représentants des organisations d'armateurs mentionnées à l'alinéa précédent.
+Les dispositions d'une convention ou d'un accord collectif national, régional ou
+local peuvent, par arrêté du ministre chargé du travail et du ministre chargé de
+la marine marchande et après avis motivé de la commission nationale de la
+négociation collective de la marine marchande mentionnée à l'article R. 742-5
+être rendues obligatoires pour tous les armateurs et tous les personnels
+navigants compris dans le champ d'application de la convention ou de l'accord
+collectif [*arrêté d'extension*].
