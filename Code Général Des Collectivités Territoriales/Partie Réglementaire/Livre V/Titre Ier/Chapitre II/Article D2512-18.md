@@ -1,23 +1,28 @@
 Article D2512-18
 ----
-Il est institué une commission consultative des programmes immobiliers de la
-brigade de sapeurs-pompiers de Paris.
+Il est institué auprès du préfet de police une commission consultative de
+gestion de la brigade de sapeurs-pompiers de Paris.
 
 La commission est composée :
 
 a) Du préfet de police ;
 
-b) Du général, commandant la brigade de sapeurs-pompiers de Paris ;
+b) Des préfets des départements des Hauts-de-Seine, de la Seine-Saint-Denis et
+du Val-de-Marne ou de leurs représentants ;
 
-c) Au titre de représentants des départements, des présidents des conseils
-généraux des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ou de
-leur remplaçant ;
+c) Du général, commandant la brigade de sapeurs-pompiers de Paris ou de son
+représentant ;
 
-d) Au titre de représentants des communes, d'un conseiller désigné pour la durée
-de son mandat par le conseil de Paris et, dans les départements des
-Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, d'un maire désigné
-pour la durée de son mandat par le préfet sur proposition des associations
-départementales de maires ;
+d) Du directeur général du personnel, du budget, du matériel et du contentieux
+de la préfecture de police ou de son représentant ;
 
-e) Des préfets des départements des Hauts-de-Seine, de la Seine-Saint-Denis et
-du Val-de-Marne.
+e) De six conseillers de Paris représentant la commune et le département de
+Paris et désignés par le conseil de Paris ;
+
+f) De deux conseillers généraux de chacun des conseils généraux des départements
+des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne et désignés par
+ceux-ci ;
+
+g) De deux maires par département représentant l'ensemble des communes de chaque
+département des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne,
+désignés par le collège des maires de chacun de ces départements.
