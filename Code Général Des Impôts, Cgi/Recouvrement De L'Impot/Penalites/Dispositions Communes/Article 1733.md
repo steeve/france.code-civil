@@ -1,24 +1,39 @@
 Article 1733
 ----
-1. En cas de taxation d'office à défaut de déclaration dans les délais
-prescrits, les droits mis à la charge du contribuable sont majorés du montant de
-l'intérêt de retard prévu à l'article 1728, sans que ce montant puisse être
-inférieur à 10 % des droits dus pour chaque période d'imposition.
+I. L'intérêt de retard et les majorations prévus à l'article 1729 ne sont pas
+applicables en ce qui concerne les droits dus à raison de l'insuffisance des
+prix ou évaluations déclarés pour la perception des droits d'enregistrement ou
+de la taxe de publicité foncière ainsi qu'en ce qui concerne les impôts sur les
+revenus et les taxes accessoires autres que la taxe d'apprentissage, lorsque
+l'insuffisance des chiffres déclarés n'excède pas le dixième de la base
+d'imposition.
 
-La majoration est de 25 % [*taux, pourcentage*] si la déclaration n'est pas
-parvenue à l'administration dans un délai de trente jours à partir de la
-notification par pli recommandé d'une mise en demeure d'avoir à la produire dans
-ce délai [*point de départ*]. Si la déclaration n'est pas parvenue dans un délai
-de trente jours après une nouvelle mise en demeure notifiée par l'administration
-dans les mêmes formes, la majoration est de 100 %.
+II. Pour l'application du I, sont assimilés à une insuffisance de déclaration
+lorsqu'ils ne sont pas justifiés :
 
-1 bis. Lorsque la procédure de taxation d'office prévue en cas de défaut de
-production des déclarations mentionnées à l'article L 66-1° du livre des
-procédures fiscales n'est pas mise en oeuvre en application de l'article L 67 du
-même livre, les intérêts de retard fixés au 1 demeurent exigibles.
+a) Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199
+sexies, 199 sexies C et 199 septies ;
 
-2. Dans le cas d'évaluation d'office des bases d'imposition prévu à l'article L
-74 du livre des procédures fiscales, les suppléments de droits mis à la charge
-du contribuable sont assortis, suivant le cas, soit de la majoration de 150 %
-mentionnée à l'article 1729-1, soit de l'amende, égale au double de cette
-majoration, édictée à l'article 1731.
+b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou
+à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
+199 quater B ;
+
+c) Les achats nets de valeurs mobilières ouvrant droit à la réduction d'impôt
+prévue à l'article 199 quinquies ;
+
+d) Les dépenses de recherche ouvrant droit au crédit d'impôt prévu à l'article
+244 quater B [*CIR*] ;
+
+e) Les dépôts dans les fonds salariaux ouvrant droit à la réduction d'impôt
+prévue à l'article 199 octies ;
+
+f) La base sur laquelle a été calculée la réduction prévue à l'article 199
+nonies.
+
+III. Pour l'application du I, la base sur laquelle a été calculée la réduction
+d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de
+déclaration en cas de non-respect de l'engagement ou de cession du logement.
+
+IV. Pour l'application du I en cas de redressements apportés aux résultats des
+sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance des
+chiffres déclarés s'apprécie au niveau de chaque société.
