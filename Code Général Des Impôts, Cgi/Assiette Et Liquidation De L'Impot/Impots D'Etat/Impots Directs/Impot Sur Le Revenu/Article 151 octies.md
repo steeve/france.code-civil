@@ -15,6 +15,10 @@ jusqu'à la cession de ces immobilisations par la société si elle est antérie
 effectuée au nom de la société bénéficiaire de l'apport selon les modalités
 prévues au d du 3 de l'article 210 A pour les fusions de sociétés.
 
+Sous les conditions fixées au a du 3 de l'article 210 A, les provisions
+afférentes aux éléments transférés ne sont rapportées au résultat imposable de
+l'entreprise apporteuse que si elles deviennent sans objet.
+
 II. Le régime défini au I s'applique [* champ d'application*] :
 
 - sur simple option exercée dans l'acte constatant la constitution de la
@@ -23,9 +27,10 @@ collectif, une société en commandite simple, une société à responsabilité
 limitée dans laquelle la gérance est majoritaire ou à une société civile
 exerçant une activité professionnelle ;
 
-- sur agrément, lorsque l'apport est consenti à une société par actions, à une
-société à responsabilité limitée dans laquelle la gérance est minoritaire ou à
-une société préexistante.
+- sur agrément (1), lorsque l'apport est consenti à une société par actions, à
+une société à responsabilité limitée dans laquelle la gérance est minoritaire ou
+à une société préexistante ; l'agrément est supprimé pour les apports réalisés à
+compter du 1er janvier 1988.
 
 L'option est exercée dans l'acte d'apport conjointement par l'apporteur et la
 société ; elle entraîne l'obligation de respecter les règles prévues au présent
@@ -41,3 +46,5 @@ constatées à l'occasion d'apports en sociétés réalisés à compter du 1er a
 1981 [*date, point de départ*] ; les dispositions des articles 41 et 93
 quater-II cessent d'être applicables à ces plus-values à compter de la même
 date.
+
+(1) Voir Annexe IV, art. 170 septies B et 170 octies.
