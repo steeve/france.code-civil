@@ -1,19 +1,19 @@
 Article D651-10
 ----
-Lorsque l'imprimé mentionné à l'article D. 651-8 n'a pas été retourné à
-l'organisme chargé du recouvrement à la date limite fixée audit article le
-montant de la contribution sociale de solidarité est fixé d'office à titre
-provisionnel par ledit organisme.
+Lorsque la société ou l'entreprise assujettie n'a pas effectué auprès de
+l'organisme chargé du recouvrement la déclaration prévue à l'article L. 651-5
+dans les délais prescrits pour l'application de cet article, le chiffre
+d'affaires pour asseoir la contribution est fixé d'office par ledit organisme à
+partir des éléments dont il dispose ou des comptes annuels dont il est fait
+publicité.
 
-La société ou l'entreprise est redevable dans ce cas d'une majoration égale à 10
-p. 100 de la somme ainsi fixée, avec minimum de 100 F et dans la limite d'un
-maximum de 1.000 F, sans préjudice, lorsque l'imprimé n'a pas été retourné à
-l'expiration du délai de quinzaine suivant l'envoi de la mise en demeure prévue
-à l'article L. 244-2, des sanctions pénales prévues au quatrième alinéa de
-l'article L. 651-5.
+Les montants dus, lorsque le chiffre d'affaires estimé est supérieur ou égal au
+seuil fixé par le premier alinéa de l'article L. 651-3, sont réclamés à titre
+provisionnel, par voie de mise en demeure dans les conditions mentionnées à
+l'article L. 244-2.
 
-En l'absence de mise en recouvrement d'une contribution fixée à titre
-provisionnel, la société ou l'entreprise défaillante est redevable soit d'une
-majoration calculée dans les conditions fixées à l'alinéa qui précède sur la
-base de la contribution dont elle est redevable, soit, si elle n'est redevable
-d'aucune contribution, d'une pénalité de retard de 100 F.
+Lorsque l'organisme ne dispose pas d'éléments suffisants pour établir une
+estimation du chiffre d'affaires dans les conditions prévues au premier alinéa,
+celui-ci est fixé forfaitairement par rapport au seuil fixé au premier alinéa de
+l'article L. 651-3 et les montants dus sont réclamés à titre provisionnel selon
+les modalités définies à l'alinéa précédent.
