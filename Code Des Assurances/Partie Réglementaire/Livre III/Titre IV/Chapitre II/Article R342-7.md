@@ -31,7 +31,7 @@ ouverts au grand-livre général ; chaque balance doit être arrêtée dans les 
 mois suivant ce jour.
 
 d) Un livre relié des inventaires annuels, sur lequel sont transcrits les
-résultats de ceux-ci, comme il est prévu à l'article 9 du code de commerce.
+résultats de ceux-ci.
 
 e) Un dossier des opérations d'inventaire réunissant les documents justificatifs
 des chiffres d'inventaire, du bilan, du compte d'exploitation et du compte de
