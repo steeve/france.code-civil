@@ -1,6 +1,6 @@
 Article 1078-1
 ----
-Le lot de certains enfants pourra être formé, en totalité ou en partie, des
+Le lot de certains gratifiés pourra être formé, en totalité ou en partie, des
 donations, soit rapportables, soit préciputaires, déjà reçues par eux de
 l'ascendant, eu égard éventuellement aux emplois et remplois qu'ils auront pu
 faire dans l'intervalle.

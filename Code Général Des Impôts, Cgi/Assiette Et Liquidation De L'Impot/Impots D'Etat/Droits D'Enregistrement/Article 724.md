@@ -2,10 +2,9 @@ Article 724
 ----
 I Les traités ou conventions ayant pour objet la transmission à titre onéreux
 d'un office sont soumis à un droit d'enregistrement de 13,80 % [*taux*]. Lorsque
-l'assiette du droit n'excède pas 200.000 F [*montant plafond*], le calcul de ce
-droit s'effectue après un abattement de 50.000 F. Il est perçu sur le prix
-exprimé dans l'acte de cession et le capital des charges qui peuvent ajouter au
-prix.
+l'assiette du droit n'excède pas 250.000 F [*montant plafond*], le calcul de ce
+droit s'effectue après un abattement de 100.000 F ; lorsque cette assiette est
+supérieure à 250.000 F sans excéder 350.000 F, l'abattement est de 50.000 F.
 
 II En cas de création de nouvelles charges ou de nomination de nouveaux
 titulaires sans présentation, par suite de destitution ou pour tout autre motif,

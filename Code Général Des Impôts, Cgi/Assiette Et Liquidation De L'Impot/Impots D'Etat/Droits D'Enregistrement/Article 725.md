@@ -4,8 +4,10 @@ Toute cession d'un droit à un bail ou du bénéfice d'une promesse de bail port
 sur tout ou partie d'un immeuble, qu'elle que soit la forme qui lui est donnée
 par les parties, qu'elle soit qualifiée cession de pas de porte, indemnité de
 départ ou autrement, est soumise à un droit d'enregistrement de 13,80 %
-[*taux*]. Lorsque l'assiette du droit n'excède pas 200.000 F [*montant
-plafond*], le calcul de ce droit s'effectue après un abattement de 50.000 F.
+[*taux*]. Lorsque l'assiette du droit n'excède pas 250.000 F [*montant
+plafond*], le calcul de ce droit s'effectue après un abattement de 100.000 F ;
+lorsque cette assiette est supérieure à 250.000 F sans excéder 350.000 F,
+l'abattement est de 50.000 F.
 
 Le droit est perçu sur le montant de la somme ou indemnité stipulée par le
 cédant à son profit ou sur la valeur vénale réelle du droit cédé, déterminée par
