@@ -2,7 +2,7 @@ Article D910-9
 ----
 Dans les départements autres que les départements d'outre-mer, le comité
 départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi, comportant vingt-trois membres, se compose :
+l'emploi se compose :
 
 1° Du préfet du département ou de son représentant ;
 
@@ -35,15 +35,18 @@ Pour le département de Paris, de quatre représentants élus du conseil de Pari
 
 10° De trois représentants des chambres consulaires : un de la ou des chambres
 d'agriculture, un de la ou des chambres des métiers et un de la ou des chambres
-de commerce et d'industrie.
+de commerce et d'industrie ;
+
+11° Des parlementaires élus dans le département ;
 
 Les représentants élus des collectivités territoriales visés au a et b du 9°
 sont élus par l'assemblée délibérante locale respectivement concernée suivant
 les modalités prévues aux quatrième et cinquième alinéas de l'article L. 121-12
 du code des communes.
 
-Des suppléants sont désignés dans les mêmes conditions que les titulaires qu'ils
-peuvent remplacer aux séances du comité départemental.
+Pour chacun des membres titulaires, à l'exception des parlementaires, un membre
+suppléant est désigné dans les mêmes conditions que le titulaire, qu'il peut
+remplacer aux séances du comité départemental.
 
 Le préfet du département arrête la liste des membres du comité, titulaires et
 suppléants, pour une durée de trois ans. Ce mandat peut être renouvelé. Les

@@ -38,7 +38,8 @@ mentionnées aux 9° et 10° ;
 
 7° Le montant de la rémunération brute du salarié ;
 
-8° Le montant de la contribution sociale généralisée ;
+8° Le montant de la contribution sociale généralisée et de la contribution pour
+le remboursement de la dette sociale ;
 
 9° La nature et le montant des cotisations salariales retenues sur cette
 rémunération brute en application de dispositions législatives, réglementaires
