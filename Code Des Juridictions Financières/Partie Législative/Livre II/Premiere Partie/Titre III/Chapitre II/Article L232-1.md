@@ -242,6 +242,13 @@ Le représentant de l'Etat dans le département règle et rend exécutoire le bu
 rectifié en conséquence.S'il s'écarte des propositions formulées par la chambre
 régionale des comptes, il assortit sa décision d'une motivation explicite.
 
+Art. L. 1612-15-1. - En cas d'absence de convention visée à l'article 21-4 de la
+loi no 82-1153 du 30 décembre 1982 précitée, le préfet de région peut mettre en
+oeuvre, dans les conditions de l'article L. 1612-15, une procédure d'inscription
+d'office au budget de la région, au bénéfice de la Société nationale des chemins
+de fer français dans la limite de la part de la compensation visée au quatrième
+alinéa de l'article L. 1614-8-1.
+
 Art.L. 1612-16.-A défaut de mandatement d'une dépense obligatoire par le maire,
 le président du conseil général ou le président du conseil régional suivant le
 cas, dans le mois suivant la mise en demeure qui lui en a été faite par le
