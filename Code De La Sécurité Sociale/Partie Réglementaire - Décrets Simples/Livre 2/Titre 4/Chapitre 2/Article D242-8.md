@@ -11,9 +11,9 @@ Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L.
 
 1° Le taux de la cotisation d'assurance maladie, maternité, invalidité, décès
 assise sur les avantages de retraite servis par les organismes du régime général
-de sécurité sociale des salariés est fixé à 2,80 % ;
+de sécurité sociale des salariés est fixé à 3,2 % ;
 
 2° Le taux de la cotisation d'assurance maladie, maternité, invalidité, décès
 assise sur les avantages de retraite mentionnés à l'article L. 241-2, autres que
 ceux servis par les organismes du régime général de sécurité sociale des
-salariés, est fixé à 3,80 %.
+salariés, est fixé à 4,2 %.

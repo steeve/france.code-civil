@@ -13,4 +13,4 @@ plafond et 9,60 % dans la limite de cinq fois le plafond ;
 
 Le taux de la cotisation due sur les allocations ou pensions mentionnées à
 l'article D. 612-3 servies aux personnes mentionnées au deuxième alinéa de
-l'article L. 131-7-1 est fixé à 2,40 % dans la limite de cinq fois le plafond.
+l'article L. 131-7-1 est fixé à 2,8 % dans la limite de cinq fois le plafond.
