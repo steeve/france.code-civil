@@ -1,12 +1,12 @@
 Article R241-7
 ----
-Les services médicaux du travail d'entreprise ou d'établissement doivent faire
+Les services de santé au travail d'entreprise ou d'établissement doivent faire
 l'objet d'un agrément préalable par le directeur régional du travail et de
 l'emploi, après avis du médecin inspecteur régional du travail et de la main
 d'oeuvre.
 
 Le directeur régional du travail et de l'emploi peut autoriser le rattachement
-au service médical du travail qu'il agrée d'un établissement de l'entreprise
+au service de santé au travail qu'il agrée d'un établissement de l'entreprise
 situé dans le ressort d'une région limitrophe, sous réserve de l'accord du
 directeur régional du travail et de l'emploi géographiquement compétent.
 
