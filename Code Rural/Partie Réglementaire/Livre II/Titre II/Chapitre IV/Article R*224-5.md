@@ -1,8 +1,9 @@
 Article R*224-5
 ----
-Par dérogation aux dispositions de l'article R. 224-4, les espèces de gibier
-figurant au tableau ci-après ne peuvent être chassées que pendant les périodes
-comprises entre les dates et aux conditions spécifiques de chasse suivantes :
+Par exception aux dispositions de l'article R. 224-4, le préfet ne peut fixer
+les périodes d'ouverture de la chasse aux espèces de gibier figurant au tableau
+ci-après qu'entre les dates et sous réserve des conditions spécifiques de chasse
+suivantes :
 
 Espèces, date d'ouverture spécifique au plus tôt le ..., date de clôture
 spécifique au plus tard le ....
@@ -48,70 +49,9 @@ reste du territoire, troisième dimanche de septembre, 1er novembre.
 
 Oiseaux de passage :
 
-Oies : 1er septembre, 31 janvier.
+Caille des blés, alouette des champs, bécasse des bois, pigeon ramier, pigeon
+biset, pigeon colombin, tourterelle turque, grive draine, grive litorne, grive
+mauvis, grive musicienne et merle noir, ouverture générale, 31 janvier, néant.
 
-Conditions spécifiques de chasse :
-
-avant le 1er septembre, ces espèces ne peuvent être chassées à terre qu'à poste
-fixe matérialisé de main d'homme.
-
-Canards, rallidés et foulques :
-
-- grandes régions de nidification, 1er septembre ; râle d'eau et macreuses, 20
-février.
-
-- autres régions, 10 août ; autres espèces, 31 janvier.
-
-Limicoles (sauf bécassines et bécasse des bois) :
-
-- domaine public maritime, 10 août ; barge à queue noire, vanneau huppé et
-pluvier doré, 31 janvier.
-
-- autres territoires : 1er septembre ; autres espèces, 10 février.
-
-Bécassines : 1er septembre, 10 février.
-
-Bécasse des bois : ouverture générale, 20 février.
-
-Conditions spécifiques de chasse :
-
-hors la période d'ouverture générale, la bécasse ne peut être chassée que sous
-bois, dans les conditions fixées par arrêté préfectoral.
-
-Caille des blés : 1er septembre, clôture générale.
-
-Conditions spécifiques de chasse :
-
-hors la période d'ouverture générale, la caille ne peut être chassée qu'au chien
-d'arrêt et la tenue d'un carnet de prélèvements est obligatoire.
-
-Colombidés (sauf tourterelle des bois) et turdidés : ouverture générale, 10
-février.
-
-Conditions spécifiques de chasse :
-
-hors la période d'ouverture générale, ces espèces ne peuvent être chassées qu'à
-poste fixe matérialisé de main d'homme.
-
-Tourterelle des bois : 1er septembre, clôture générale.
-
-Alouette des champs : ouverture générale, 31 janvier.
-
-Gibier d'eau :
-
-Canard colvert, ouverture générale, 15 février.
-
-Autres gibiers d'eau, ouverture générale, dernier jour de février.
-
-Conditions spécifiques de chasse :
-
-Hors la période d'ouverture générale, ces espèces ne peuvent être chassées que :
-
-1° En zone de chasse maritime ;
-
-2° Sur les fleuves, rivières, canaux, réservoirs, lacs, étangs et dans les
-marais non asséchés, le tir au-dessus de la nappe d'eau étant seul autorisé.
-
-Le ministre chargé de la chasse peut délimiter, par arrêté pris après avis du
-Conseil national de la chasse et de la faune sauvage, des grandes régions de
-nidification de canards, rallidés et foulques.
+Gibier d'eau et autres espèces d'oiseaux de passage, 1er septembre, 31 janvier,
+néant.
