@@ -9,8 +9,8 @@ suivants :
 1° A l'expédition ou à la livraison si elle est assujettie et identifiée à la
 TVA ou si elle a désigné un mandataire ponctuel mentionné à l'article 95 B ou un
 représentant conformément à l'article 289 A du code général des impôts, et ne
-bénéficie pas de la franchise prévue à l'article 293 B du code général des
-impôts ;
+bénéficie pas des franchises prévues aux articles 293 B et 298 bis A du code
+général des impôts ;
 
 2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions
 prévues à l'article 20-5 du règlement (C.E.E.) n° 3330-91, un montant annuel
