@@ -20,8 +20,17 @@ II de l'article 238 septies A.
 
 3° bis (Dispositions transférées sous le 3 °) ;
 
-4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de
-l'article 81 ;
+((3° ter Les avantages en nature procurés aux souscripteurs d'un emprunt
+négociable émis par une région qui remplissent les conditions suivantes :
+
+a. Leur nature est en relation directe avec l'investissement financé ;
+
+b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix
+d'émission.)) (1').
+
+4° Les pensions, prestations et allocations affranchies de
+
+l'impôt en vertu de l'article 81 ;
 
 5° Les produits et plus-values que procurent les placements effectués dans le
 cadre d'un plan d'épargne en vue de la retraite ainsi que les avoirs fiscaux et
@@ -43,7 +52,7 @@ délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 l'exception des intérêts des livrets supplémentaires ouverts dans les conditions
 prévues au décret n° 65-1158 du 24 décembre 1965 ;
 
-7° bis. (Disposition périmée) ;
+7° bis (Disposition périmée) ;
 
 7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire
 ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
@@ -52,18 +61,18 @@ ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
 
 8° bis (Périmé).
 
-8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de
+8° ter Les plus-values éventuelles de cession ou de remboursement des titres de
 l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13 mai 1977 ;
 
 9° (Dispositions devenues sans objet) ;
 
-9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement
+9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement
 ouverts en application des articles L 315-1 à L 315-6 du code de la construction
 et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces
 comptes ;
 
-9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert
-en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
+9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en
+application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des
 chantiers et de l'agriculture ;
@@ -79,7 +88,7 @@ métiers.
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater. Le produit des placements en valeurs mobilières effectués sur un
+9° quater Le produit des placements en valeurs mobilières effectués sur un
 compte pour le développement industriel [*CODEVI*] ouvert par les personnes
 physiques ayant leur domicile fiscal en France dans les établissements et
 organismes autorisés à recevoir des dépôts.
@@ -93,10 +102,10 @@ plafond fixé par décret (4) dans la limite de 20.000 F par compte.
 Les valeurs mobilières sont celles servant au financement de l'industrie
 française et entrant dans des catégories fixées par décret (5) ;
 
-9° quinquies. Les intérêts des sommes inscrites sur les livrets
+9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
-loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
-économique.
+loi n° 84-578 du 9 juillet 1984 ((modifiée)) (5') sur le développement de
+l'initiative économique.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -106,7 +115,7 @@ loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
 engagements d'épargne à long terme pris par les personnes physiques dans les
 conditions prévues à l'article 163 bis A ;
 
-16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
+16° bis Les sommes et revenus visés à l'article 163 bis AA ;
 
 17° Les sommes et revenus visés à l'article 163 bis B ;
 
@@ -132,9 +141,19 @@ commune ou de l'un des événements suivants survenu à l'un d'entre eux :
 Expiration des droits aux allocations d'assurance chômage prévues par le code du
 travail en cas de licenciement ;
 
+((Il en est de même des produits provenant du retrait des fonds ainsi que de la
+prime d'épargne et des intérêts capitalisés lorsque le retrait intervient dans
+les conditions prévues au I de l'article 15 de la loi de finances pour 1994 (n°
+93-1352 du 30 décembre 1993). L'exonération des produits s'applique dans les
+mêmes conditions aux titulaires du plan ne bénéficiant pas d'un droit à
+versement de prime lorsque leur cotisation d'impôt sur le revenu au titre de
+l'année 1992, déterminée conformément aux I et II de l'article 1417, n'excède
+pas la limite mentionnée au 1 bis de l'article 1657.)) (5").
+
 Cessation d'activité non salariée à la suite d'un jugement de liquidation
 judiciaire en application des dispositions de la loi n° 85-98 du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises ;
+((modifiée)) (5') relative au redressement et à la liquidation judiciaires des
+entreprises ;
 
 Invalidité correspondant au classement dans les 2e ou 3° catégories prévues à
 l'article L. 341-4 du code de la sécurité sociale.
@@ -143,6 +162,8 @@ Un décret en Conseil d'Etat précise les modalités d'application ainsi que les
 obligations déclaratives des contribuables et des intermédiaires.
 
 (1) Voir article 125 D.
+
+(1') Modification de la loi 93-1444.
 
 (2) Annexe III, 41 ZC et 41 ZG.
 
@@ -156,3 +177,7 @@ dans les conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du
 JO du 2 octobre).
 
 (5) Décret n° 83-872 du 30 septembre 1983 (JO du 2 octobre).
+
+(5') Modification.
+
+(5") Modification de la loi 93-1352 art. 15 II.

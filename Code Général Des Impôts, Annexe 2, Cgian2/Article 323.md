@@ -1,8 +1,9 @@
 Article 323
 ----
-Pour l'application des dispositions de l'article 366 ter du code rural, les
-contributions prévues à l'article 1628 quater-II du code général des impôts pour
-l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
+Pour l'application des dispositions de ((l'article L421-8 du code des
+assurances)) (M), les contributions prévues au II de l'article 1628 quater du
+code général des impôts pour l'alimentation du fonds de garantie sont assises
+dans les conditions suivantes :
 
 1° La contribution des sociétés d'assurances ou des assureurs est
 proportionnelle aux sommes recouvrées par eux au titre de la contribution des

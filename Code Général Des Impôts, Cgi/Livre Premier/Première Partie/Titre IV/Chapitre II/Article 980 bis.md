@@ -31,6 +31,10 @@ communs de créances.
 capital et à l'introduction d'une valeur à la cote officielle ou à la cote du
 second marché (2).
 
+((8° Aux opérations d'achat ou de vente de valeurs de toute nature effectuées
+par une personne physique ou morale qui est domiciliée ou établie hors de
+France.)) (Modification de la loi 93-1444).
+
 (1) Les dispositions de l'article 12 de la loi 92-666 s'appliquent aux
 opérations conclues à compter du 20 juillet 1992.
 
