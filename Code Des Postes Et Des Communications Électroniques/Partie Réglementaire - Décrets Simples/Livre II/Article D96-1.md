@@ -1,14 +1,14 @@
 Article D96-1
 ----
-La commission consultative des radio- communications est composée de quinze
+La commission consultative des radiocommunications est composée de vingt et un
 membres nommés par arrêté du ministre chargé des télécommunications. Elle
 comprend :
 
-- cinq représentants des fournisseurs de services radioélectriques ;
+- sept représentants des fournisseurs de services radioélectriques ;
 
-- cinq représentants des utilisateurs de ces services ;
+- sept représentants des utilisateurs de ces services ;
 
-- cinq personnalités qualifiées.
+- sept personnalités qualifiées.
 
 La commission des radiocommunications est saisie sur tout projet visant à
 définir les procédures d'autorisation, à fixer ou à modifier les conditions
@@ -55,10 +55,10 @@ de compétence. Dans ce cas, elle en informe le ministre chargé des
 télécommunications.
 
 Le ministre chargé des télécommunications transmet à la commission supérieure du
-service public des postes et télé- communications les conclusions de la
-commission des radio- communications sur les questions qui lui sont soumises en
-application des alinéas 2, 3 et 4 du présent article. Les avis de la commission
-des radiocommunications peuvent être publiés par le ministre chargé des
+service public des postes et télécommunications les conclusions de la commission
+des radiocommunications sur les questions qui lui sont soumises en application
+des alinéas 2, 3 et 4 du présent article. Les avis de la commission des
+radiocommunications peuvent être publiés par le ministre chargé des
 télécommunications. La commission peut, également, décider, à l'initiative de
 son président et avec l'accord de la majorité de ses membres, de rendre publics
 ses avis. Dans ce cas, elle en informe le ministre chargé des

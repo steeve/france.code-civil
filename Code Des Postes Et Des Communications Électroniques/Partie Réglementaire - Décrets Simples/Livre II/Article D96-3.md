@@ -24,5 +24,7 @@ Les membres des commissions veillent à garantir la confidentialité des faits,
 informations, ou documents dont ils ont connaissance dans l'exercice ou à
 l'occasion de leurs fonctions au sein de ces dernières.
 
-Le secrétariat de chacune des commissions est assuré par la direction de la
-réglementation générale du ministère chargé des télécommunications.
+Le secrétariat de chacune des commissions est assuré par le service de la
+régulation des télécommunications de la direction générale des postes et
+télécommunications du ministère de l'industrie, des postes et télécommunications
+et du commerce extérieur.

@@ -1,16 +1,16 @@
 Article D96-2
 ----
 La commission consultative des services de télécommunications est composée de
-dix-huit membres nommés par arrêté du ministre chargé des télécommunications.
+vingt et un membres nommés par arrêté du ministre chargé des télécommunications.
 Elle comprend :
 
-- six représentants des fournisseurs des services supports et des services à
+- sept représentants des fournisseurs des services supports et des services à
 valeur ajoutée visés aux articles L. 34-2 et L. 34-5 du code des postes et
 télécommunications ;
 
-- six représentants des utilisateurs de ces services ;
+- sept représentants des utilisateurs de ces services ;
 
-- six personnalités qualifiées.
+- sept personnalités qualifiées.
 
 La commission consultative des services de télécommunications est saisie par le
 ministre chargé des télécommunications des projets visant à définir les
@@ -56,12 +56,15 @@ son président et avec l'accord de la majorité de ses membres, de se saisir de
 toute question entrant dans son domaine de compétence. Dans ce cas, elle en
 informe le ministre chargé des télécommunications.
 
+
 Le ministre chargé des télécommunications transmet à la commission supérieure du
 service public des postes et télécommunications les conclusions de la commission
-consultative des services de télécommunications sur les questions qui lui sont
-soumises en application des alinéas 2 et 3 du présent article. Les avis de la
-commission des services de télécommunications peuvent être publiés par le
-ministre chargé des télécommunications. La commission peut, également, décider,
-à l'initiative de son président et avec l'accord de la majorité de ses membres,
-de rendre publics ses avis. Dans ce cas, elle en informe le ministre chargé des
+consultative des services de
+
+télécommunications sur les questions qui lui sont soumises en application des
+alinéas 2 et 3 du présent article. Les avis de la commission des services de
+télécommunications peuvent être publiés par le ministre chargé des
+télécommunications. La commission peut, également, décider, à l'initiative de
+son président et avec l'accord de la majorité de ses membres, de rendre publics
+ses avis. Dans ce cas, elle en informe le ministre chargé des
 télécommunications.
