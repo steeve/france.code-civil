@@ -10,7 +10,7 @@ application de l'article L. 111-1 sur le territoire de la commune.
 Le projet ne doit pas être contraire aux objectifs visés à l'article L. 110 et
 aux lois d'aménagement et d'urbanisme mentionnées à l'article L. 111-1-1 du
 présent Code. Les dispositions du présent article ne peuvent s'appliquer sur le
-territoire d'une commune que pendant une durée maximale non renouvelable de deux
-ans à compter de la date à laquelle le conseil municipal a précisé les modalités
-d'application de l'article L. 111-1, conformément au premier alinéa de cet
-article.
+territoire d'une commune que pendant une durée maximale non renouvelable de
+quatre ans à compter de la date à laquelle le conseil municipal a précisé les
+modalités d'application de l'article L. 111-1, conformément au premier alinéa de
+cet article.
