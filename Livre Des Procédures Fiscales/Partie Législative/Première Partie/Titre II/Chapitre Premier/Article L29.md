@@ -24,6 +24,7 @@ distillation pour des usages déterminés et qui ne mettent en oeuvre aucune
 matière alcoolique.
 
 Ces dispenses ne peuvent être accordées qu'aux détenteurs pourvus d'une
-autorisation personnelle toujours révocable donnée par l'administration.
+autorisation personnelle toujours révocable donnée par le directeur régional des
+douanes et droits indirects.
 
 (1) Voir code général des impôts, annexe IV, art. 51.
