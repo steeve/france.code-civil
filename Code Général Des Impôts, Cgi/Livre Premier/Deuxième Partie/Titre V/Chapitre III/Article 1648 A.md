@@ -8,8 +8,6 @@ prélèvement égal au produit du montant des bases excédentaires par le taux e
 vigueur dans la commune. Le seuil d'écrêtement résultant de cette disposition
 est, pour 1991, divisé par 0,960.
 
-(Périmé).
-
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence
 à cette notion, est prise en compte la valeur nette des bases de taxe
 professionnelle après écrêtement.
@@ -76,6 +74,10 @@ moyenne nationale des bases de taxe professionnelle par habitant, il est perçu
 directement un prélèvement au profit du fonds départemental de péréquation de la
 taxe professionnelle égal au produit du montant des bases excédentaires par le
 taux de taxe professionnelle du district.
+
+((I quinquies. La moyenne des bases de taxe professionnelle par habitant à
+retenir pour l'application en Corse des I, I ter et I quater est multipliée par
+0,75)) (M).
 
 II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou
@@ -204,6 +206,8 @@ VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (2).
 
 (1) Cette disposition a un caractère interprétatif.
+
+(M) Modification.
 
 (2) Voir annexe II, art. 328 à 328 B et décret n° 81-120 du 6 février 1981 (J.O.
 des 9 et 10).

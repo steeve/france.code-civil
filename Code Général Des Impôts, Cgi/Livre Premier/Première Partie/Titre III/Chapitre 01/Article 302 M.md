@@ -1,10 +1,10 @@
 Article 302 M
 ----
 Les produits en suspension de droits en provenance ou à destination d'un autre
-Etat membre de la Communauté économique européenne [*CEE*] circulent, lorsqu'ils
-ne sont pas placés sous un régime suspensif douanier, sous couvert d'un document
-d'accompagnement établi par l'expéditeur et permettant de vérifier leur
-situation au regard de l'impôt.
+Etat membre de la Communauté européenne circulent, lorsqu'ils ne sont pas placés
+sous un régime suspensif douanier, sous couvert d'un document d'accompagnement
+établi par l'expéditeur et permettant de vérifier leur situation au regard de
+l'impôt.
 
 Il en est de même pour les produits qui ont déjà été mis à la consommation en
 provenance ou à destination d'un autre Etat membre de la Communauté européenne

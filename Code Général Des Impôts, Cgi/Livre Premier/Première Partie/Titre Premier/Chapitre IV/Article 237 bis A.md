@@ -1,28 +1,28 @@
 Article 237 bis A
 ----
 I. Les sommes portées au cours d'un exercice à la réserve spéciale de
-participation constituée en application du chapitre II de l'ordonnance n°
-86-1134 du 21 octobre 1986 modifiée sont déductibles pour l'assiette de l'impôt
-sur les sociétés ou de l'impôt sur le revenu exigible au titre de l'exercice au
-cours duquel elles sont réparties entre les salariés. L'application de cette
+participation constituée en application du chapitre II ((du titre IV du livre IV
+du code du travail)) (M) sont déductibles pour l'assiette de l'impôt sur les
+sociétés ou de l'impôt sur le revenu exigible au titre de l'exercice au cours
+duquel elles sont réparties entre les salariés. L'application de cette
 disposition est subordonnée au dépôt de l'accord de participation à la direction
 départementale du travail et de l'emploi du lieu où cet accord a été conclu.
 
 II. 1. Les entreprises peuvent constituer, en franchise d'impôt, une provision
-pour investissement égale à ((50 p. 100)) (1) du montant des sommes portées à la
-réserve spéciale de participation au cours du même exercice et admises en
-déduction des bénéfices imposables, qui sont attribuées en plus de la
-participation de droit commun en application d'accords qui répondent aux
-conditions prévues à l'article 12 de l'ordonnance n° 86-1134 du 21 octobre 1986.
+pour investissement égale à 50 p. 100 du montant des sommes portées à la réserve
+spéciale de participation au cours du même exercice et admises en déduction des
+bénéfices imposables, qui sont attribuées en plus de la participation de droit
+commun en application d'accords qui répondent aux conditions prévues à
+((l'article L442-6 du code du travail)) (M).
 
-((Les entreprises ayant adopté un régime facultatif conformément à l'article L.
+Les entreprises ayant adopté un régime facultatif conformément à l'article L.
 442-15 du code du travail peuvent également constituer, dans les mêmes
 conditions, une provision pour investissement égale à 25 p. 100 du montant des
 sommes portées à la réserve de participation au cours du même exercice et qui
-correspondent à la participation de droit commun.)) (1)
+correspondent à la participation de droit commun. (1)
 
-((Le montant de la provision visée aux premier et deuxième alinéas est réduit))
-(1) de moitié lorsque les accords prévoient que les sommes attribuées sont
+Le montant de la provision visée aux premier et deuxième alinéas est réduit (1)
+de moitié lorsque les accords prévoient que les sommes attribuées sont
 indisponibles pendant trois ans [*durée*] seulement.
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en
@@ -38,10 +38,10 @@ réserve provenant de cette affectation ne peut être répartie qu'entre les seu
 détenteurs d'actions de travail.
 
 3. Le montant de la provision pour investissement que les sociétés coopératives
-ouvrières de production [*SCOP*] peuvent constituer à la clôture d'un exercice
-est au plus égal à celui des sommes portées à la réserve spéciale de
-participation au titre du même exercice. Les dotations à la réserve légale et au
-fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de
+ouvrières de production peuvent constituer à la clôture d'un exercice est au
+plus égal à celui des sommes portées à la réserve spéciale de participation au
+titre du même exercice. Les dotations à la réserve légale et au fonds de
+développement de ces sociétés peuvent tenir lieu, à due concurrence, de
 provision pour investissement.
 
 Cette disposition n'est pas applicable aux sociétés coopératives ouvrières de
@@ -70,7 +70,7 @@ sociétés du groupe dont il s'agit, ou à plusieurs d'entre elles.
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 premier jour du premier exercice ouvert après le 23 octobre 1986.
 
-(1) Modification de la loi.
+(M) Modification de la loi. [*Cf. Instruction 1996-04-29 4N-1-96*].
 
-[*Cf. art. 34 : ces dispositions s'appliquent pour la détermination des
-résultats imposables du premier exercice ouvert à compter du 1er janvier 1994.*]
+(1) Ces dispositions s'appliquent pour la détermination des résultats imposables
+du premier exercice ouvert à compter du 1er janvier 1994.

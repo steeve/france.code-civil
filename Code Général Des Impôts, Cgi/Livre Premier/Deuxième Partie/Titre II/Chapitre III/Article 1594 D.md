@@ -18,7 +18,11 @@ le taux ne peut être supérieur à :
 
 5,5 p. 100 à compter du 1er juin 1995 ;
 
-5 p. 100 à compter du 1er juin 1996.
+((5 p. 100 à compter du 1er juin 1996 ou, à compter de la même date et jusqu'au
+31 mai 1997, à celui applicable au 1er juin 1995 s'il est inférieur à ce taux))
+(M).
 
 Les dispositions du premier et du deuxième alinéa ne sont pas applicables au
 droit proportionnel de 0,60 p. 100.
+
+(M) Modification.

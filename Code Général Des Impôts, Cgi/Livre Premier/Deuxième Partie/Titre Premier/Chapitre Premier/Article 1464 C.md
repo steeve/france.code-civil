@@ -26,8 +26,5 @@ peuvent concerner :
 l'une de ces deux taxes seulement ;
 
 2° Les établissements créés et les établissements repris par les entreprises
-visées à l'article 1464 B-I ou l'une seulement de ces deux catégories
+visées au I de l'article 1464 B ou l'une seulement de ces deux catégories
 d'établissements.
-
-Elles peuvent être prises jusqu'au 31 octobre 1983 ou, pour les entreprises
-créées en 1984, jusqu'au 1er juillet 1984.

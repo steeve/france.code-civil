@@ -6,16 +6,14 @@ sociétés, peut se constituer seule redevable de l'impôt sur les sociétés d�
 l'ensemble des résultats du groupe formé par elle-même et les sociétés dont elle
 détient 95 p. 100 au moins du capital, de manière continue au cours de
 l'exercice, directement ou indirectement par l'intermédiaire de sociétés du
-groupe. Dans ce cas, elle est également redevable du supplément d'impôt sur les
-sociétés mentionné au c du paragraphe I de l'article 219 dû à raison des
-bénéfices distribués par les sociétés du groupe, ainsi que du précompte et de
-l'imposition forfaitaire annuelle dus par les sociétés du groupe.
+groupe. ((Dans ce cas, elle est également redevable du précompte et de
+l'imposition forfaitaire annuelle dus par les sociétés du groupe)) (M).
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à
-l'article 208-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales a pour effet, au cours d'un exercice, de réduire à moins de 95 p.
-100 la participation dans le capital d'une société filiale, ce capital est
-réputé avoir été détenu selon les modalités fixées au premier alinéa si le
+l'article 208-7 ((modifié)) (M) de la loi n° 66-537 du 24 juillet 1966 sur les
+sociétés commerciales a pour effet, au cours d'un exercice, de réduire à moins
+de 95 p. 100 la participation dans le capital d'une société filiale, ce capital
+est réputé avoir été détenu selon les modalités fixées au premier alinéa si le
 pourcentage de 95 p. 100 est à nouveau atteint à la clôture de l'exercice.
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs
@@ -39,18 +37,17 @@ Toutefois, l'option produit immédiatement effet, pour les exercices ouverts au
 cours des six premiers mois de l'année 1988, si elle est formulée avant le 1er
 juillet 1988. L'option est valable pour cinq exercices.
 
-((Sous réserve des dispositions prévues aux c et d du 6 de l'article 223 L, la
+Sous réserve des dispositions prévues aux c et d du 6 de l'article 223 L, la
 société mère notifie, avant la clôture de chacun des exercices arrêtés au cours
 de la période de validité de l'option, la liste des sociétés membres du groupe à
 compter de l'exercice suivant. A défaut, le résultat d'ensemble est déterminé à
 partir du résultat des sociétés mentionnées sur la dernière liste notifiée au
 service dans le délai indiqué à la phrase qui précède si ces sociétés continuent
-à remplir les conditions prévues à la présente section.)) (Modification de la
-loi 93-1352).
+à remplir les conditions prévues à la présente section. Chaque société du groupe
+est tenue solidairement au paiement de l'impôt sur les sociétés, de l'imposition
+forfaitaire annuelle et du précompte et, le cas échéant, des intérêts de retard,
+majorations et amendes fiscales correspondantes, dont la société mère est
+redevable, à hauteur de l'impôt et des pénalités qui seraient dus par la société
+si celle-ci n'était pas membre du groupe.
 
-Chaque société du groupe est tenue solidairement au paiement de l'impôt sur les
-sociétés, de l'imposition forfaitaire annuelle et du précompte et, le cas
-échéant, des intérêts de retard, majorations et amendes fiscales
-correspondantes, dont la société mère est redevable, à hauteur de l'impôt et des
-pénalités qui seraient dus par la société si celle-ci n'était pas membre du
-groupe.
+(M) Modification.

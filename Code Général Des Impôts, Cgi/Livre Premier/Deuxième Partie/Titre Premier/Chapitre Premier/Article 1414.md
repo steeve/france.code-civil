@@ -4,8 +4,8 @@ I. Sont, à compter de 1992, exonérés de la taxe d'habitation afférente à le
 habitation principale lorsqu'ils occupent cette habitation dans les conditions
 prévues à l'article 1390 :
 
-1° les titulaires de l'allocation supplémentaire du fonds national de solidarité
-prévue par la loi n° 56-639 du 30 juin 1956 (1) ;
+1° les titulaires de l'allocation supplémentaire ((mentionnée à l'article L815-2
+ou à l'article L815-3 du code de la sécurité sociale )) (1) ;
 
 2° les contribuables âgés de plus de 60 ans ainsi que les veuves et veufs qui ne
 sont pas soumis à l'impôt sur le revenu au titre de l'année précédente au sens
@@ -28,14 +28,13 @@ III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office 
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
 cette habitation dans les conditions prévues à l'article 1390.
 
-((IV. Les contribuables visés au 2° du I ci-dessus sont également dégrevés de la
+IV. Les contribuables visés au 2° du I ci-dessus sont également dégrevés de la
 taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
 cette habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
 demandeurs d'emploi et ne disposent pas de ressources supérieures au revenu
-minimum d'insertion)) (2).
+minimum d'insertion.
 
-(1) Voir livre des procédures fiscales, art. L98.
+(1) Modification.
 
-(2) Modification de la loi 93-1353.
-
-[*Cf. Instruction 1994-05-31 6D-2-94.*]
+[*Cf. Instruction 1994-05-31 6D-2-94. Réponse ministérielle 1996-10-03 6D-3-96.
+Instruction 1996-10-31 6D-4-96.*]

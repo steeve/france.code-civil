@@ -33,15 +33,15 @@ la valeur du bien, déterminée dans les conditions fixées au c du I de l'artic
 régularisation est notifiée à l'acquéreur.
 
 6° Pour les biens expédiés ou transportés par un donneur d'ordre dans un autre
-Etat membre de la Communauté économique européenne, pour faire l'objet d'un
-travail à façon :
+Etat membre de la Communauté européenne, pour faire l'objet d'un travail à façon
+:
 
 a) Le numéro par lequel le donneur d'ordre est identifié à la taxe sur la valeur
 ajoutée ;
 
 b) Le numéro par lequel est identifié, dans l'Etat membre de la Communauté
-économique européenne d'arrivée de l'expédition ou de transport des biens,
-l'entrepreneur de l'ouvrage.
+européenne d'arrivée de l'expédition ou de transport des biens, l'entrepreneur
+de l'ouvrage.
 
 c) Une mention signalant que les biens sont expédiés ou transportés pour les
-besoins d'un travail à façon. vigueur le 1er janvier 1993).
+besoins d'un travail à façon.

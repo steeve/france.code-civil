@@ -1,18 +1,18 @@
 Article 38
 ----
 1. Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies,
-le bénéfice imposable [*définition*] est le bénéfice net, déterminé d'après les
-résultats d'ensemble des opérations de toute nature effectuées par les
-entreprises, y compris notamment les cessions d'éléments quelconques de l'actif,
-soit en cours, soit en fin d'exploitation (1).
+le bénéfice imposable est le bénéfice net, déterminé d'après les résultats
+d'ensemble des opérations de toute nature effectuées par les entreprises, y
+compris notamment les cessions d'éléments quelconques de l'actif, soit en cours,
+soit en fin d'exploitation (1).
 
-2. Le bénéfice net [*définition*] est constitué par la différence entre les
-valeurs de l'actif net à la clôture et à l'ouverture de la période dont les
-résultats doivent servir de base à l'impôt diminuée des suppléments d'apport et
-augmentée des prélèvements effectués au cours de cette période par l'exploitant
-ou par les associés. L'actif net [*définition*] s'entend de l'excédent des
-valeurs d'actif sur le total formé au passif par les créances des tiers, les
-amortissements et les provisions justifiés.
+2. Le bénéfice net est constitué par la différence entre les valeurs de l'actif
+net à la clôture et à l'ouverture de la période dont les résultats doivent
+servir de base à l'impôt diminuée des suppléments d'apport et augmentée des
+prélèvements effectués au cours de cette période par l'exploitant ou par les
+associés. L'actif net s'entend de l'excédent des valeurs d'actif sur le total
+formé au passif par les créances des tiers, les amortissements et les provisions
+justifiés.
 
 2 bis. Pour l'application des 1 et 2, les produits correspondant à des créances
 sur la clientèle ou à des versements reçus à l'avance en paiement du prix sont
@@ -22,25 +22,25 @@ fournitures de services.
 
 Toutefois, ces produits doivent être pris en compte :
 
-Pour les prestations continues rémunérées notamment par des intérêts ou des
+a. Pour les prestations continues rémunérées notamment par des intérêts ou des
 loyers et pour les prestations discontinues mais à échéances successives
 échelonnées sur plusieurs exercices, au fur et à mesure de l'exécution ;
 
-Pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à
-la date de cette réception, même si elle est seulement provisoire ou faite avec
-réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle
-est antérieure.
+b. Pour les travaux d'entreprise donnant lieu à réception complète ou partielle,
+à la date de cette réception, même si elle est seulement provisoire ou faite
+avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si
+elle est antérieure.
 
 La livraison [*définition*] au sens du premier alinéa s'entend de la remise
 matérielle du bien lorsque le contrat de vente comporte une clause de réserve de
 propriété.
 
 Ces dispositions s'appliquent à la détermination des résultats imposables des
-exercices clos à compter du 31 décembre 1978 [*date, point de départ*]. Les
-produits qui, en application de la législation précédemment en vigueur, ont déjà
-servi à la détermination des résultats d'exercices antérieurs sont déduits pour
-la détermination des résultats des exercices auxquels les sommes correspondantes
-doivent désormais être rattachées. (1 a).
+exercices clos à compter du 31 décembre 1978. Les produits qui, en application
+de la législation précédemment en vigueur, ont déjà servi à la détermination des
+résultats d'exercices antérieurs sont déduits pour la détermination des
+résultats des exercices auxquels les sommes correspondantes doivent désormais
+être rattachées.
 
 3. Pour l'application des 1 et 2, les stocks sont évalués au prix de revient ou
 au cours du jour de la clôture de l'exercice, si ce cours est inférieur au prix
@@ -52,7 +52,7 @@ Les travaux en cours sont évalués au prix de revient.
 des créances et dettes libellées en monnaies étrangères par rapport aux montants
 initialement comptabilisés sont déterminés à la clôture de chaque exercice en
 fonction du dernier cours de change et pris en compte pour la détermination du
-résultat imposable de l'exercice.
+résultat imposable de l'exercice (1').
 
 Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent
 les titres libellés en monnaie étrangère à la clôture de chaque exercice en
@@ -60,15 +60,15 @@ fonction du dernier cours de change connu, les écarts de conversion constatés
 sont pris en compte pour la détermination du résultat imposable de l'exercice. A
 la clôture de chaque exercice, le prix de revient des titres est augmenté ou
 diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa.
-((Toutefois, lorsque les établissements concernés détiennent des titres
+Toutefois, lorsque les établissements concernés détiennent des titres
 d'investissement mentionnés à l'article 38 bis B et des titres de participation,
 libellés en monnaie étrangère et dont l'acquisition a été financée en francs,
 les écarts de conversion mentionnés au présent alinéa et constatés sur ces
 titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans
 ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte
-des écarts de conversion)) (1'). Ces dispositions sont applicables aux écarts de
-change relatifs à la période postérieure à l'ouverture du premier exercice clos
-à compter du 31 décembre 1990.
+des écarts de conversion. Ces dispositions sont applicables aux écarts de change
+relatifs à la période postérieure à l'ouverture du premier exercice clos à
+compter du 31 décembre 1990.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
@@ -88,7 +88,7 @@ Toutefois, en cas d'échange avec soulte, le profit réalisé est, à concurrenc
 montant de la soulte reçue, compris dans le bénéfice de l'exercice au cours
 duquel intervient l'échange.
 
-Les dispositions des deux alinéas qui précèdent ne sont pas applicables si la
+Les dispositions des premier et deuxième alinéas ne sont pas applicables si la
 soulte excède 10 p. 100 de la valeur nominale des parts ou actions reçues, ou si
 elle excède le profit réalisé (3).
 
@@ -104,10 +104,10 @@ bourse de valeurs ou traités sur un marché ou par référence à un marché (4
 
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la
 clôture de l'exercice a pour clause exclusive de compenser le risque d'une
-opération de ((l'un des deux exercices suivants)) (1'), traitée sur un marché de
-nature différente, l'imposition du profit réalisé sur le contrat est reportée au
+opération de l'un des deux exercices suivants, traitée sur un marché de nature
+différente, l'imposition du profit réalisé sur le contrat est reportée au
 dénouement de celui-ci, à condition que les opérations dont la compensation est
-envisagée figurent sur le document prévu au 3° (5) (5') ;
+envisagée figurent sur le document prévu au 3° (5);
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour
 seul objet la couverture du risque de change d'une opération future est imposé
@@ -139,30 +139,79 @@ déclaration de résultats de l'exercice. A défaut, la perte sur une position
 n'est pas déductible du résultat imposable (6).
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
-d'une offre publique d'échange ((ou de la conversion d'obligations en actions))
-(6'), réalisée conformément à la réglementation en vigueur, est compris dans le
+d'une offre publique d'échange ou de la conversion d'obligations en actions,
+réalisée conformément à la réglementation en vigueur, est compris dans le
 résultat de l'exercice au cours duquel les actions reçues en échange sont
 cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de
 ces titres est déterminé par rapport à la valeur que les actions remises à
-l'échange ((ou les obligations converties)) (6') avaient du point de vue fiscal.
+l'échange ou les obligations converties avaient du point de vue fiscal ; ((le
+délai de deux ans mentionné à l'article 39 duodecies s'apprécie à compter de la
+date d'acquisition des actions remises à l'échange)) (M).
 
-Toutefois, en cas d'échange (ou de conversion)) (6') avec soulte, la plus-value
-réalisée est, à concurrence du montant de la soulte reçue, comprise dans le
-bénéfice de l'exercice au cours duquel intervient l'échange ((ou la conversion))
-(6'). Le montant imposable peut bénéficier du régime des plus-values à long
-terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée
-sur les ((actions)) (6') détenus depuis deux ans au moins.
+Toutefois, en cas d'échange ou de conversion avec soulte, la plus-value réalisée
+est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de
+l'exercice au cours duquel intervient l'échange ou la conversion. ((Il en est de
+même en cas d'échange d'actions assorties de droits de souscription
+d'obligations, attachés ou non, et de conversion d'obligations en actions
+assorties des mêmes droits, de la fraction de la plus-value qui correspond à la
+valeur réelle de ces droits à la date de l'opération d'échange ou de conversion
+ou au prix de ces droits calculé dans les conditions du deuxième alinéa du 1° du
+8 du présent article s'ils sont échangés ou convertis pour un prix unique)) (M).
+Le montant imposable peut bénéficier du régime des plus-values à long terme
+prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les
+actions détenus depuis deux ans au moins.
 
-Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la
-valeur nominale des parts ou des actions attribuées ou si la soulte reçue excède
-la plus-value réalisée.
+((Ces dispositions ne sont pas applicables si le total de la soulte et, le cas
+échéant, du prix des droits mentionnés au deuxième alinéa dépasse 10 p. 100 de
+la valeur nominale des actions attribuées ou si ce total excède la plus-value
+réalisée.
 
-Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre
-1991, les dispositions du présent paragraphe ne sont pas applicables si l'un des
+((Lorsqu'une entreprise remet à l'échange plusieurs titres en application des
+modalités d'échange, la valeur mentionnée à la deuxième phrase du premier alinéa
+correspond au total de la valeur que chacun de ces titres avait du point de vue
+fiscal ; le délai de deux ans mentionné au même alinéa s'apprécie à compter de
+la date d'acquisition ou de souscription la plus récente des actions remises à
+l'échange par cette entreprise.
+
+((Lorsqu'une entreprise reçoit à l'occasion d'une opération d'échange ou de
+conversion plusieurs titres en application des modalités d'échange ou des bases
+de la conversion, la valeur mentionnée à la deuxième phrase du premier alinéa
+est répartie proportionnellement à la valeur réelle à la date de cette opération
+ou à la valeur résultant de leur première cotation si les titres reçus sont des
+actions assorties de droits de souscription d'actions, attachés ou non, émises
+pour un prix unique à l'occasion d'une telle opération)) (7).
+
+((Pour les opérations réalisées au cours d'exercices clos à compter du 31
+décembre 1994, les dispositions du présent 7 ne sont pas applicables si l'un des
 coéchangistes remet à l'échange des actions émises lors d'une augmentation de
-capital réalisée par une société qui détient directement ou indirectement une
-participation dans l'autre société avec laquelle l'échange est réalisé ou par
-une société détenue directement ou indirectement par cette dernière (7).
+capital réalisée depuis moins de trois ans par une société qui détient
+directement ou indirectement une participation supérieure à 5 p. 100 du capital
+de l'autre société avec laquelle l'échange est réalisé ou par une société dont
+plus de 5 p. 100 du capital est détenu directement ou indirectement par cette
+autre société.
+
+((Les augmentations de capital visées au sixième alinéa sont celles résultant :
+
+((a - d'un apport en numéraire ;
+
+((b - d'un apport de créances ou de titres exclus du régime des plus-values à
+long terme en application du I de l'article 219 ;
+
+((c - de l'absorption d'une société dont l'actif est composé principalement de
+numéraire ou de droits cités au b ou de l'apport d'actions ou de parts d'une
+telle société.
+
+((Les dispositions du présent article s'appliquent aux opérations d'échange
+portant sur des certificats d'investissement, des certificats coopératifs
+d'investissement, des certificats pétroliers, des certificats de droit de vote
+et des actions à dividende prioritaire sans droit de vote ainsi qu'à la
+conversion d'actions ordinaires en actions à dividende prioritaire sans droit de
+vote ou de ces dernières en actions ordinaires.
+
+((Les dispositions du présent 7 s'appliquent au remboursement, par la société
+émettrice, des porteurs d'obligations remboursables en actions, lorsque cette
+même société procède à l'opération susvisée par émission concomitante
+d'actions)) (7).
 
 7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux
 résultant d'une fusion de sociétés, ou d'une scission de société bénéficiant du
@@ -171,6 +220,13 @@ au cours duquel les droits sociaux reçus en échange sont cédés. Dans ce cas,
 profit ou la perte résultant de la cession ultérieure de ces droits sociaux est
 déterminé par rapport à la valeur que les droits sociaux remis à l'échange
 avaient du point de vue fiscal.
+
+((En cas de scission de société, la valeur fiscale des titres de chaque société
+bénéficiaire des apports reçus en contrepartie de ceux-ci est égale au produit
+de la valeur fiscale des titres de la société scindée par le rapport existant à
+la date de l'opération de scission entre la valeur réelle des titres de chaque
+société bénéficiaire dans le cadre de cette opération et la valeur réelle des
+titres de la société scindée)) (8).
 
 Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à
 concurrence du montant de la soulte reçue, comprise dans le bénéfice de
@@ -181,7 +237,7 @@ depuis deux ans au moins.
 
 Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la
 valeur nominale des parts ou des actions attribuées ou si la soulte excède la
-plus-value réalisée (7).
+plus-value réalisée.
 
 8. 1° La plus-value de cession séparée de valeurs mobilières et de droits de
 souscription qui leur sont attachés, acquis pour un prix unique, est calculée
@@ -228,7 +284,7 @@ est déterminée en fonction de leur prix de revient ;
 
 4° Un décret définit les modalités d'application du présent article ainsi que
 les obligations déclaratives des entreprises qui appliquent la méthode
-d'évaluation prévue au 1° (8).
+d'évaluation prévue au 1° (9).
 
 10. La plus-value de cession d'un immeuble par une société civile immobilière
 non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une
@@ -245,11 +301,7 @@ constatés par la société d'assurance.
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 A.
 
-(1 a) Cf. Instruction 1994-08-11 4A-11-94 pour les honoraires perçus par les
-entreprises d'expert-comptable.
-
-(1') Modification de la loi 93-1353. Cf. Instruction 1994-03-07 4A-6-94 et
-Instruction 1994-04-20 4A-9-94.
+(1') [*Cf. Instruction 1995-02-06 4A-2-95*].
 
 (2) Disposition applicable pour la détermination des résultats des exercices
 clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
@@ -261,15 +313,15 @@ loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
 (5) Voir annexe III, art. 2 B.
 
-(5") Ces dispositions s'appliquent pour déterminer les résultats des exercices
+Ces dispositions s'appliquent pour déterminer les résultats des exercices
 ouverts à compter du 1er janvier 1994.
 
 (6) Voir annexe III, art. 2 C.
 
-(6') Modification de la loi 94-679. Ces dispositions s'appliquent aux
-conversions d'obligations en actions réalisées à compter du 1er janvier 1993
+(7) Modification. Ces dispositions s'appliquent pour la détermination des
+résultats des exercices ouverts à compter du 1er janvier 1994.
 
-(7) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
-exercices ouverts à compter du 1er janvier 1992.
+(8) Ces dispositions s'appliquent aux opérations qui affectent les résultats des
+exercices ouverts à compter du 1er janvier 1995.
 
-(8) Voir annexe III, art. 38 B.
+(9) Voir annexe III, art. 38 B.

@@ -8,8 +8,8 @@ pris après avis des organisations professionnelles (1).
 
 Ces associations ont pour fondateurs soit des ordres ou des organisations
 professionnelles légalement constituées des membres des professions mentionnées
-au premier alinéa, soit des experts comptables et des comptables agréés ou des
-sociétés inscrites à l'ordre des experts comptables et des comptables agréés.
+au premier alinéa, soit des experts comptables ou des sociétés inscrites à
+l'ordre des experts comptables et des comptables agréés.
 
 Seuls peuvent adhérer à ces associations les membres des professions libérales
 et les titulaires de charges et offices qui souscrivent à l'engagement pris,

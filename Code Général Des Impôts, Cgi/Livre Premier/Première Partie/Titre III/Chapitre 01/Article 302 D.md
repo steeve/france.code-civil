@@ -12,7 +12,7 @@ qui met à la consommation ;
 b) Lors de la constatation de manquants.
 
 II. L'impôt est également exigible, pour les produits déjà mis à la consommation
-dans un autre Etat de la Communauté économique européenne :
+dans un autre Etat de la Communauté européenne :
 
 a) Lors de la réception en France de ces produits par un opérateur accomplissant
 de manière indépendante une activité économique ou par un organisme exerçant une

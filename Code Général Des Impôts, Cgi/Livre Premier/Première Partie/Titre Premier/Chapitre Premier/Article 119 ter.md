@@ -11,8 +11,8 @@ justifier auprès du débiteur ou de la personne qui assure le paiement de ces
 revenus qu'elle est le bénéficiaire effectif des dividendes et qu'elle remplit
 les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de la Communauté
-économique européenne et n'être pas considérée, aux termes d'une convention en
+a) Avoir son siège de direction effective dans un Etat membre de la ((Communauté
+européenne)) (M) et n'être pas considérée, aux termes d'une convention en
 matière de double imposition conclue avec un Etat tiers, comme ayant sa
 résidence fiscale hors de la Communauté ;
 
@@ -41,5 +41,7 @@ dispositions du 1.
 
 4 Un décret précise en tant que de besoin les modalités d'application des
 présentes dispositions.
+
+(M) Modification.
 
 (1) Arrêté du 21 janvier 1992 (JO du 15 février).

@@ -10,7 +10,8 @@ ayant pour objet l'aide à domicile et habilité au titre de l'aide sociale ou
 conventionné par un organisme de sécurité sociale.
 
 La réduction d'impôt est égale à 50 p. 100 du montant des dépenses effectivement
-supportées, retenues dans la limite de (( 26.000 F )) (Modification de la loi).
+supportées, retenues dans la limite de ((90.000 F)) (Modification de la loi)
+(1').
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du
 paiement des salaires et des cotisations sociales, de l'identité du
@@ -22,7 +23,3 @@ l'article 197 ; elle ne peut donner lieu à remboursement.
 
 2° Les personnes qui n'ont pas leur domicile fiscal en France ne bénéficient pas
 de la réduction d'impôt (2).
-
-(1) Décret 92-18 du 6 janvier 1992 (JO du 8).
-
-(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.

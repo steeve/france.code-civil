@@ -1,14 +1,14 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 % en ce
-qui concerne [*champ d'application*] :
+La taxe sur la valeur ajoutée *TVA* est perçue au taux réduit de 5,50 % en ce
+qui concerne *champ d'application* :
 
 a. Les prestations relatives :
 
 - à la fourniture de logement et aux trois quarts du prix de pension ou de
 demi-pension dans les établissements d'hébergement ; ce taux s'applique aux
 locations meublées dans les mêmes conditions que pour les établissements
-d'hébergement (1) (Modification de la loi) ;
+d'hébergement (1) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
@@ -59,7 +59,6 @@ b quater. Les transports de voyageurs ;
 b quinquies. Les droits d'entrée dans les salles de spectacles
 cinématographiques quels que soient le procédé de fixation ou de transmission et
 la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
-(art. 11 XI de la loi 91-716)
 
 b sexies. (Abrogé).
 
@@ -77,7 +76,7 @@ disposition du public sur un réseau cablé;
 3° Les services autorisés de télévision par voie hertzienne et les services de
 télévision mis à la disposition du public sur un réseau câblé prévus par les
 chapitres 1er et 2 du titre II de la loi n° 86-1067 du 30 septembre 1986
-relative à la liberté de la communication ;
+modifiée relative à la liberté de la communication ;
 
 b nonies. Les droits d'entrée perçus pour la visite des parcs à décors animés
 qui illustrent un thème culturel et pour la pratique des activités directement
@@ -93,15 +92,13 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies. Les abonnements relatifs aux livraisons d'électricité, de gaz
-combustible et d'énergie calorifique, à usage domestique, distribués par réseaux
-publics.
+b decies. (Abrogé par la loi 94-1162) (3').
 
 c, d, e (Abrogé) (à compter du 1er janvier 1993, art. 11 XI de la loi 91-716);
 
 f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
-par l'Etat dans le cadre de l'aide juridictionnelle (5).
+par l'Etat dans le cadre de l'aide juridictionnelle.
 
 g) Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des
 oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant
@@ -109,3 +106,11 @@ sur les oeuvres cinématographiques et sur les livres.
 
 Cette disposition n'est pas applicable aux cessions de droits portant sur des
 oeuvres d'architecture et des logiciels.
+
+(1) Annexe IV, art. 30.
+
+(2) Annexe III, art. 85 bis.
+
+(3) Disposition à caractère interprétatif.
+
+(3') *Cf. Instruction 1995-03-03 3C-3-95.*

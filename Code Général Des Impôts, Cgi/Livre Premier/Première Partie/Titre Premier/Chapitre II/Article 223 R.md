@@ -1,6 +1,6 @@
 Article 223 R
 ----
-En cas de sortie du groupe de l'une des sociétés mentionnées au cinquième alinéa
+En cas de sortie du groupe de l'une des sociétés mentionnées au sixième alinéa
 de l'article 223 B, les subventions indirectes qui proviennent d'une remise de
 biens composant l'actif immobilisé pour un prix différent de leur valeur réelle,
 déduites pour la détermination du résultat des exercices ouverts à compter du
@@ -23,7 +23,7 @@ ces acomptes ont été versés ; les résultats comptables sont retenus en
 proportion de la participation détenue par la société dans le capital de la
 société distributrice.
 
-((Lorsqu'un groupe bénéficie des dispositions prévues au 5 de l'article 223-I,
-la partie du déficit afférente à une société, calculée dans les conditions
-prévues audit 5 et qui demeure reportable, ne peut plus être imputée si cette
-société sort du groupe.)) (Modification de la loi 93-1532).
+Lorsqu'un groupe bénéficie des dispositions prévues au 5 de l'article 223-I, la
+partie du déficit afférente à une société, calculée dans les conditions prévues
+audit 5 et qui demeure reportable, ne peut plus être imputée si cette société
+sort du groupe.

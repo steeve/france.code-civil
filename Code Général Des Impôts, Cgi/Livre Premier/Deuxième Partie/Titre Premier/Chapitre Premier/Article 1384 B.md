@@ -8,3 +8,6 @@ acquis en vue de leur location avec le concours financier de l'Etat en
 application du 3° de l'article L351-2 du code de la construction et de
 l'habitation ainsi que les logements faisant l'objet d'un bail à réhabilitation
 en application de l'article L252-1 du même code.
+
+Les obligations déclaratives des personnes et organismes entrant dans le champ
+d'application du premier alinéa sont fixées par décret.RL&gt;

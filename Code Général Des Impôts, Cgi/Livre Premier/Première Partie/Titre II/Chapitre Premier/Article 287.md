@@ -36,18 +36,17 @@ au 1.
 a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons
 de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens
 installés ou montés sur le territoire d'un autre Etat membre de la Communauté
-économique européenne, et des livraisons dont le lieu n'est pas situé en France
-en application des dispositions de l'article 258 A ;
+européenne, et des livraisons dont le lieu n'est pas situé en France en
+application des dispositions de l'article 258 A ;
 
 b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des
 acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le
 cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre
-Etat membre de la Communauté économique européenne et installés ou montés en
-France, ((des livraisons de biens dont le lieu est situé en France en
-application des dispositions de l'article 258 B et des livraisons de biens
-effectuées en France pour lesquelles le destinataire de la livraison est désigné
-comme redevable de la taxe en application des dispositions du 2 ter de l'article
-283)) (4 ).RL&gt;
+Etat membre de la Communauté européenne et installés ou montés en France, des
+livraisons de biens dont le lieu est situé en France en application des
+dispositions de l'article 258 B et des livraisons de biens effectuées en France
+pour lesquelles le destinataire de la livraison est désigné comme redevable de
+la taxe en application des dispositions du 2 ter de l'article 283 (4 ).RL&gt;
 
 (1) Annexe IV, art. 32, 33 et 38 à 41.
 
@@ -55,5 +54,4 @@ comme redevable de la taxe en application des dispositions du 2 ter de l'article
 
 (3) Voir Annexe II, art. 242 quater à 242 septies L.
 
-(4) Modifications de la loi 93-1353, dispositions applicables à compter du 1er
-janvier 1993.
+(4) Dispositions applicables à compter du 1er janvier 1993.

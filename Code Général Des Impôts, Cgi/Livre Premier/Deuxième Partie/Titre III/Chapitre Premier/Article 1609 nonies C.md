@@ -2,8 +2,8 @@ Article 1609 nonies C
 ----
 I. Les communautés de villes sont substituées aux communes membres pour
 l'application des dispositions relatives à la taxe professionnelle, à
-l'exception des I et II des articles 1648 A et 1648 AA ainsi que des 1° et 3° du
-II de l'article 1648 B. Elles perçoivent le produit de cette taxe.
+l'exception des I et II des articles 1648 A et 1648 AA ((ainsi que du 3° du II
+de l'article 1648 B)) (M). Elles perçoivent le produit de cette taxe.
 
 Il est créé une commission locale chargée d'évaluer les transferts de charges
 entre la communauté de villes et les communes membres, composée d'au moins un
@@ -59,17 +59,15 @@ inférieur à 10 p. 100.
 du 1° ci-dessus, le taux de taxe professionnelle est fixé par le conseil de
 communauté dans les conditions prévues au II de l'article 1636 B decies.
 
-((3° En cas de rattachement d'une commune à un groupement faisant application du
+3° En cas de rattachement d'une commune à un groupement faisant application du
 présent article, les dispositions des I et II de l'article 1638 quater sont
-applicables)) (1').
+applicables.
 
 III. 1° La communauté verse à chaque commune membre une attribution de
 compensation égale au produit de taxe professionnelle perçu par elle l'année
 précédant l'institution du taux de taxe professionnelle communautaire diminué du
 coût net des charges transférées calculé dans les conditions définies au I
 ci-dessus.
-
-(Abrogé).
 
 Les reversements de taxe professionnelle prévus à l'alinéa précédent constituent
 une dépense obligatoire pour la communauté. Le conseil de communauté communique
@@ -82,7 +80,7 @@ dans la même proportion.
 
 2° Le conseil de communauté prélève sur le produit de la taxe professionnelle le
 montant nécessaire à la couverture des charges transférées dans les conditions
-prévues au I ci-desus.
+prévues au I ci-dessus.
 
 Les charges correspondant aux compétences communautaires financées par la taxe
 professionnelle perçue par la communauté sont fixées lors de l'examen du budget
@@ -104,15 +102,15 @@ A défaut de réunion de la majorité requise dans les trois mois suivant la mis
 en application du présent article, la dotation de solidarité communautaire est
 répartie selon les règles suivantes :
 
-- 30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans
+30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans
 chaque commune ;
 
-- 30 p. 100 selon les bases de taxe professionnelle par habitant de chaque
-commune ;
+30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune
+;
 
-- 30 p. 100 selon la population communale totale ;
+30 p. 100 selon la population communale totale ;
 
-- 10 p. 100 selon le nombre d'établissements soumis à la législation sur les
+10 p. 100 selon le nombre d'établissements soumis à la législation sur les
 installations classées implantées dans chaque commune.
 
 IV. Lorsqu'il est fait application à un groupement doté d'une fiscalité propre
@@ -150,13 +148,10 @@ s'agit d'un groupement ayant opté pour le régime fiscal prévu au présent art
 ou, lorsqu'il s'agit d'une communauté de villes, par le groupement dont celle-ci
 est issue ou auquel elle s'est substituée.
 
-VI. 1. Les sommes versées aux communes en application du IV de l'article 6 de la
-loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par
-l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991),
-l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation relative à
-l'administration territoriale de la République ((et l'article 54 de la loi de
-finances pour 1994 (n° 93-1352 du 30 décembre 1993) )) (1') leur restent
-acquises lorsqu'elles deviennent membres d'une communauté de villes.
+VI 1. ((Les sommes versées aux communes en application du IV modifié de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986)
+leur restent acquises lorsqu'elles deviennent membres d'une communauté de
+villes)) (M).
 
 2. Les groupements de communes soumis aux dispositions du prése article
 bénéficient de la compensation prévue au IV bis de l'article 6 précité de la loi
@@ -183,4 +178,4 @@ groupement dont celle-ci est issue ou auquel elle s'est substituée.
 
 (1) Voir décret 93-220 du 16 février 1993, JO du 18).
 
-(1') Modifications de la loi.
+(M) Modifications de la loi.

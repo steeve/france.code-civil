@@ -1,12 +1,12 @@
 Article 168
 ----
-1 En cas de disproportion marquée entre le train de vie d'un contribuable et ses
-revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
+1. En cas de disproportion marquée entre le train de vie d'un contribuable et
+ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme
 forfaitaire déterminée en appliquant à certains éléments de ce train de vie le
 barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2,
-lorsque cette somme ((est supérieure ou égale à 287.750 F ; cette limite est
+lorsque cette somme est supérieure ou égale à 287750 F ; cette limite est
 relevée chaque année dans la même proportion que la limite supérieure de la
-première tranche du barème de l'impôt sur le revenu )) (M) :
+première tranche du barème de l'impôt sur le revenu :
 
 ELEMENTS DU TRAIN DE VIE / BASE.
 
@@ -71,8 +71,8 @@ Le nombre de tonneaux à prendre en considération est égal au nombre de tonnea
 correspondant à la jauge brute sous déduction, le cas échéant, d'un abattement
 pour vétusté égal à 25 %, 50 % ou 75 % suivant que la construction du yacht ou
 du bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans
-ou plus de vingt-cinq ans [*délai*]. Le tonnage ainsi obtenu est arrondi, s'il y
-a lieu, à l'unité immédiatement inférieure.
+ou plus de vingt-cinq ans. Le tonnage ainsi obtenu est arrondi, s'il y a lieu, à
+l'unité immédiatement inférieure.
 
 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au
 moins 20 CV /
@@ -106,9 +106,9 @@ cheval / 9.000 F.
 Deux fois le montant des loyers payés ou des participations versées lorsqu'il
 dépasse 30 000 F.
 
-12. : Clubs de golf : participation dans les clubs de golf et abonnements payés
-en vue de disposer de leurs installations / Deux fois le montant des sommes
-versées lorsqu'il dépasse 30 000 F.
+12. Clubs de golf : participation dans les clubs de golf et abonnements payés en
+vue de disposer de leurs installations / Deux fois le montant des sommes versées
+lorsqu'il dépasse 30 000 F.
 
 Les éléments dont il est fait état pour la détermination de la base d'imposition
 sont ceux dont ont disposé, pendant l'année de l'imposition, les membres du
@@ -120,22 +120,18 @@ fixée proportionnellement aux droits de chacune d'entre elles.
 Les revenus visés au présent article sont ceux qui résultent de la déclaration
 du contribuable et, en cas d'absence de déclaration, ils sont comptés pour zéro.
 
-2 La somme forfaitaire déterminée en application du barème est majorée de 50 p.
-100 lorsqu'elle est supérieure ou égale à deux fois la limite ((mentionnée au
-1)) (1) (M) et lorsque le contribuable a disposé de plus de six éléments du
-train de vie figurant au barème.
+2. La somme forfaitaire déterminée en application du barème est majorée de 50 p.
+100 lorsqu'elle est supérieure ou égale à deux fois la limite mentionnée au 1 et
+lorsque le contribuable a disposé de plus de six éléments du train de vie
+figurant au barème.
 
-2 bis La disproportion marquée entre le train de vie d'un contribuable et ses
+2 bis. La disproportion marquée entre le train de vie d'un contribuable et ses
 revenus est établie lorsque la somme forfaitaire qui résulte de l'application du
-barème et des majorations prévus aux 1 et 2 excède d'au moins un tiers, pour
+barème et de la majoration prévus aux 1 et 2 excède d'au moins un tiers, pour
 l'année de l'imposition et l'année précédente, le montant du revenu net global
 déclaré y compris les revenus exonérés ou taxés selon un taux proportionnel ou
 libérés de l'impôt par l'application d'un prélèvement.
 
-3 Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de
+3. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de
 son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son
 train de vie.
-
-(1) 564.760 F pour l'imposition des revenus de 1992.
-
-(M) Modifications de la loi 93-1352.

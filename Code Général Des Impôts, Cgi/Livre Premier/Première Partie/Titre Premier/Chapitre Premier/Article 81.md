@@ -1,6 +1,6 @@
 Article 81
 ----
-Sont affranchis de l'impôt *exonérations* :
+Sont affranchis de l'impôt :
 
 1° Les allocations spéciales destinées à couvrir les frais inhérents à la
 fonction ou à l'emploi et effectivement utilisées conformément à leur objet ;
@@ -11,16 +11,16 @@ b (Transféré sous l'article 80 ter-b) ;
 
 2° Les prestations familiales énumérées par l'article L. 511-1 du code de la
 sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle
-agréée ((ainsi que la majoration de cette aide)) (M) et l'allocation de garde
-d'enfant à domicile visées respectivement aux articles L. 841-1 et L. 842-1 du
-même code, l'allocation de salaire unique, l'allocation de salaire unique,
-l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues
-dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977
-instituant le complément familial, l'allocation aux adultes handicapés, les
-suppléments de revenu familial prévus par la loi n° 80-545 du 17 juillet 1980
-portant diverses dispositions en vue d'améliorer la situation des familles
-nombreuses, et l'allocation pour dépenses de scolarité instituée par l'article
-121 de la loi n° 92-1376 du 30 septembre 1992 ;
+agréée ainsi que la majoration de cette aide et l'allocation de garde d'enfant à
+domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code,
+l'allocation de salaire unique, l'allocation de salaire unique, l'allocation de
+la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre
+des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le
+complément familial, l'allocation aux adultes handicapés, les suppléments de
+revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses
+dispositions en vue d'améliorer la situation des familles nombreuses, et
+((l'aide à la scolarité instituée par l'article 23 de la loi n° 94-629 du 25
+juillet 1994 relative à la famille)) (M) ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
 de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
@@ -100,8 +100,8 @@ actif dans le service de la coopération ou dans le service de l'aide technique 
 
 17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné
-aux articles 208-14 et 208-18 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales ;
+aux articles 208-14 et 208-18 modifié de la loi n° 66-537 du 24 juillet 1966 sur
+les sociétés commerciales ;
 
 17° ter Le versement complémentaire effectué par les sociétés coopératives
 ouvrières de production en application de l'article 40 de la loi n° 78-763 du 19
@@ -109,22 +109,27 @@ juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de p
 sociales destinées exclusivement à leurs salariés ;
 
 18° Les sommes versées par l'entreprise en application d'un plan d'épargne
-d'entreprise établi conformément aux dispositions du chapitre III de
-l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée ;
+d'entreprise établi conformément aux dispositions du ((chapitre III du titre IV
+du livre IV du code du travail)) (M) ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
 retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
 titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
 d'entreprise ;
 
-Les dispositions de l'alinéa précédent bénéficient également, dans les mêmes
+((L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
+dans les conditions prévues au huitième alinéa de l'article L. 441-2 du code du
+travail, à la direction départementale du travail, de l'emploi et de la
+formation professionnelle du lieu où il a été conclu ;)) (M)
+
+Les dispositions du premier alinéa bénéficient également dans les mêmes
 conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 25 F [*montant*] par titre (2), le complément de
-rémunération résultant de la contribution de l'employeur à l'acquisition par le
-salarié des titres-restaurant émis conformément aux dispositions du titre III de
+19° Dans la limite de 25 F par titre (2), le complément de rémunération
+résultant de la contribution de l'employeur à l'acquisition par le salarié des
+titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
 comprise entre un minimum et un maximum fixés par arrêté du ministre de
 l'économie et des finances (3).
@@ -141,7 +146,9 @@ salaire minimum interprofessionnel de croissance apprécié sur une base mensuel
 
 20° Les attributions gratuites d'actions :
 
-a. (Abrogé); b. (Abrogé).
+a. (Abrogé);
+
+b. (Abrogé).
 
 c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des
 assurances, faites au personnel des entreprises nationales d'assurances en
@@ -157,12 +164,40 @@ du 4 janvier 1973.
 22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
 L122-14-13 du code du travail (5) dans la limite de 20 000 F.
 
-23° L'indemnité compensatoire pour frais de transport instituée par les décrets
-n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août 1989.
+23° ((L'indemnité compensatoire pour frais de transport attribuée aux
+magistrats, militaires, fonctionnaires et agents de la fonction publique de
+l'Etat, aux fonctionnaires et agents de la fonction publique hospitalière, aux
+fonctionnaires et agents des collectivités territoriales et de leurs
+établissements publics et aux agents de droit public de la poste et de France
+Télécom en service dans les départements de la Haute-Corse et de la Corse-du-Sud
+;)) (M)
 
-(M) Modification de la loi.
+((24° Les primes et indemnités attribuées par l'Etat aux agents publics et aux
+salariés à l'occasion du transfert hors de la région d'Ile-de-France du service,
+de l'établissement ou de l'entreprise où ils exercent leur activité)) (6).
 
-(1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
+((25° La valeur des actions de la compagnie nationale Air France que l'Etat cède
+gratuitement à ceux de ses salariés qui consentent une réduction de leurs
+salaires pendant une durée de trois ans, dans les conditions fixées par
+l'article 17 de la loi n° 94-679 du 8 août 1994 ;
+
+((26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce
+titre, prévue à l'article 79-1 du titre VI relatif aux sociétés anonymes à
+participation ouvrière de la loi modifiée du 24 juillet 1867 ;
+
+((27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement
+et les aides spécifiques en faveur des conjoints survivants servies en
+application de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens
+membres des formations supplétives et assimilés ou victimes de la captivité en
+Algérie ;
+
+((28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du
+complément de cotisation d'assurance vieillesse, prévue à l'article 63 de la loi
+de modernisation de l'agriculture (n° 95-95 du 1er février 1995))) (M).
+
+(M) Modification.
+
+(1) Voir décret 64-285 du 2 avril 1964 (JO du 4).
 
 (2) Chiffre applicable à partir de l'imposition des revenus de 1993 ; cette
 limite était antérieurement de 21,50 F.
@@ -172,3 +207,6 @@ limite était antérieurement de 21,50 F.
 (4) Annexe II, art. 39.
 
 (5) Code du travail, art. L122-14-13.
+
+(6) Modification. Ces dispositions s'appliquent aux versements effectués à
+compter du 1er janvier 1995.

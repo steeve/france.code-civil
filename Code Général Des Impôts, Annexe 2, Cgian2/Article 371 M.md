@@ -5,10 +5,8 @@ des impôts, les associations de membres de professions libérales et de
 titulaires de charges et offices doivent être légalement constituées. Leurs
 membres fondateurs sont exclusivement soit des ordres professionnels ou des
 organisations professionnelles légalement constituées de membres de professions
-libérales ou de titulaires de charges et offices, soit des experts comptables et
-des comptables agréés ou des sociétés d'expertise comptable ou d'entreprises de
-comptabilité reconnues par l'ordre des experts comptables et des comptables
-agréés.
+libérales ou de titulaires de charges et offices, soit des experts comptables ou
+des sociétés d'expertise comptable.
 
 Les organisations professionnelles mentionnées au premier alinéa comprennent les
 organismes professionnels dont l'existence est prévue par la législation
@@ -30,3 +28,8 @@ seuls adhérents de l'association exerçant une profession libérale ou titulair
 de charges et offices.
 
 Elles ne peuvent agir en qualité de mandataires de leurs membres.
+
+Toutefois, les associations peuvent recevoir mandat de leurs membres ayant
+adhéré au système de transfert des données fiscales et comptables pour
+transmettre les informations correspondant aux obligations déclaratives de ces
+membres.

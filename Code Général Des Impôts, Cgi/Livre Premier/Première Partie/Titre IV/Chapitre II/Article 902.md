@@ -46,7 +46,7 @@ droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n°
 
 6° à 13 ° (Abrogés) ;
 
-14° Les répertoires et le registre visés aux articles 867 et 868 ;
+14° Les répertoires et le registre visés aux articles 867 et 868.
 
 14° bis et 15° (Abrogés) ;
 
@@ -96,9 +96,12 @@ disposition s'applique à compter du 3 octobre 1983 ;
 
 14° Les minutes, originaux et expéditions des actes constatant la formation de
 sociétés en nom collectif, en commandite simple, à responsabilité limitée et par
-actions.
+actions ((ainsi que des sociétés civiles à objet agricole)) (M) ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
 87-416 du 17 juin 1987 sur l'épargne.
 
 (1) Décret n° 67-1165 du 22 décembre 1967 et arrêté du même jour.
+
+(M) Modification de la loi. [*Cf. Instruction 1995-02-20 7M-2-95, Instruction
+1996-05-14 7M-3-96*].

@@ -60,3 +60,9 @@ Taux normal :
 2. A compter du 24 mai 1993 : 27,87
 
 Minimum de perception par mille unités ou par mille grammes : 7 F.
+
+((A compter du 1er août 1995 et jusqu'au 31 décembre 1996, les taux normaux pour
+les différents groupes de produits prévus au premier alinéa sont minorés de 0,4
+point)) (M).
+
+(M) Modification.

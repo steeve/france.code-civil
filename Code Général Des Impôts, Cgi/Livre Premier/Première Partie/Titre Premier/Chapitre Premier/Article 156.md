@@ -16,7 +16,7 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement
 Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède ((150.000 F)) (1); ces déficits peuvent cependant
+nets d'autres sources excède (( 200.000 F )) (1); ces déficits peuvent cependant
 être admis en déduction des bénéfices de même nature des années suivantes
 jusqu'à la cinquième inclusivement.
 
@@ -28,27 +28,34 @@ semblables durant la même année ou les cinq années suivantes ( Voir toutefois
 I bis ci-dessous) ;
 
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
-fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail
-conformément au statut du fermage, sur ceux des neuf années suivantes ; cette
-disposition n'est pas applicable aux propriétaires de monuments classés
-monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
-l'objet d'un agrément ministériel ((ni aux nus-propriétaires pour le déficit
-foncier qui résulte des travaux qu'ils payent en application des dispositions de
-l'article 605 du code civil, lorsque le démembrement de propriété d'un immeuble
-bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni
-condition et consentie entre parents jusqu'au quatrième degré inclusivement))
-(1').
+fonciers des cinq années suivantes ; cette disposition n'est pas applicable aux
+propriétaires de monuments classés monuments historiques, inscrits à
+l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ni
+aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils
+payent en application des dispositions de l'article 605 du code civil, lorsque
+le démembrement de propriété d'un immeuble bâti résulte de succession ou de
+donation entre vifs, effectuée sans charge ni condition et consentie entre
+parents jusqu'au quatrième degré inclusivement (2) (2')
 
-Cette disposition n'est pas non plus applicable aux déficits provenant de
-travaux réalisés à compter du 1er juillet 1993 par les propriétaires de locaux
-d'habitation et exécutés dans le cadre d'une opération groupée de restauration
-immobilière réalisée en application des dispositions des articles L. 313-1 à L.
-313-15 du code de l'urbanisme ainsi que des frais de relogement, d'adhésion à
-des associations foncières urbaines libres ou des indemnités d'éviction versées
-à cette occasion lorsque ces propriétaires prennent l'engagement de les louer
-nus, à usage de résidence principale du locataire, pendant une durée de six ans.
-La location doit prendre effet dans les douze mois qui suivent la date
-d'achèvement des travaux de restauration.
+((Cette disposition n'est pas non plus applicable aux déficits provenant de
+dépenses autres que les intérêts d'emprunt effectuées sur des locaux
+d'habitation par leurs propriétaires et à leur initiative, ou à celle d'une
+collectivité publique ou d'un organisme chargé par elle de l'opération et
+répondant à des conditions fixées par décret, en vue de la restauration complète
+d'un immeuble bâti en application des articles L. 313-1 à L. 313-3 du code de
+l'urbanisme et payées à compter de la date de publication du plan de sauvegarde
+et de mise en valeur. Il en est de même, lorsque les travaux de restauration ont
+été déclarés d'utilité publique en application de l'article L. 313-4-1 du code
+de l'urbanisme, des déficits provenant des mêmes dépenses effectuées sur un
+immeuble situé dans un secteur sauvegardé, dès sa création dans les conditions
+prévues à l'article L. 313-1 du même code, ou dans une zone de protection du
+patrimoine architectural, urbain et paysager créée en application de l'article
+70 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de
+compétences entre les communes, les départements, les régions et l'Etat. Les
+propriétaires prennent l'engagement de les louer nus, à usage de résidence
+principale du locataire, pendant une durée de six ans. La location doit prendre
+effet dans les douze mois qui suivent la date d'achèvement des travaux de
+restauration)) (3).
 
 Ce dispositif s'applique dans les mêmes conditions lorsque les locaux
 d'habitation sont la propriété d'une société non soumise à l'impôt sur les
@@ -61,9 +68,9 @@ l'application de l'article 1733.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
-L'imputation est limitée à 50 000 F. La fraction du déficit supérieure à 50 000
-F et la fraction du déficit non imputable résultant des intérêts d'emprunt sont
-déduites dans les conditions prévues au premier alinéa.
+L'imputation est limitée à (( 70 000 F )). La fraction du déficit supérieure à
+(( 70 000 F )) (4) et la fraction du déficit non imputable résultant des
+intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
 Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire de
 titres d'une société non soumise à l'impôt sur les sociétés les vend, le revenu
@@ -77,14 +84,14 @@ l'un des époux soumis à une imposition commune.
 
 Un contribuable ne peut pour un même logement ou une même souscription de titres
 pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et imputer un
-déficit foncier sur le revenu global.
+déficit foncier sur le revenu global (5).
 
 4° Des déficits réalisés par des personnes, autres que les loueurs
-professionnels au sens du dernier alinéa de l'article 151 septies, louant
-directement ou indirectement des locaux d'habitation meublés ou destinés à être
-meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de
-cette même activité au cours des années suivantes jusqu'à la cinquième
-inclusivement.
+professionnels au sens du sixième alinéa de l'article 151 septies, dernier
+alinéa, louant directement ou indirectement des locaux d'habitation meublés ou
+destinés à être meublés ; ces déficits s'imputent exclusivement sur les
+bénéfices retirés de cette même activité au cours des années suivantes jusqu'à
+la cinquième inclusivement.
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
 octies et 150 nonies et 150 decies lorsque l'option prévue au 8° du paragraphe I
@@ -124,14 +131,11 @@ ayant accédé à l'indépendance ;
 
 1° bis (Devenu sans objet).
 
-1° ter. Dans les conditions fixées par décret (voir Annexe III, art. 41 E à 41
-J),les charges foncières afférentes aux immeubles classés monuments historiques
-ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie
-du patrimoine national en raison de leur caractère historique ou artistique
-particulier et qui auront été agréés à cet effet par le ministre de l'économie
-et des finances ;
-
-1° quater (Devenu sans objet) ;
+1° ter. Dans les conditions fixées par décret, les charges foncières afférentes
+aux immeubles classés monuments historiques ou inscrits à l'inventaire
+supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
+raison de leur caractère historique ou artistique particulier et qui auront été
+agréés à cet effet par le ministre de l'économie et des finances ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
@@ -144,7 +148,7 @@ du code civil, lorsque son versement résulte d'une décision de justice et à
 condition que les époux fassent l'objet d'une imposition séparée ; dans la
 limite de 18.000 F et, dans les conditions fixées par un décret en Conseil
 d'Etat, les versements destinés à constituer le capital de la rente prévue à
-l'article 294 du code civil (Voir Annexe II, art. 91 quinquies) ;
+l'article 294 du code civil (7).
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
 pour ses enfants dont il n'a pas la garde ;
@@ -156,8 +160,7 @@ au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne
 peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est
 versée au profit d'un enfant inscrit dans l'enseignement supérieur [*étudiant*].
-Cet avantage minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Le
-chiffre de 4000 F s'applique pour l'imposition des revenus de 1990 et de 1989).
+Cet avantage minimal ne peut néanmoins excéder 35 p. 100 des sommes versées.
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du
@@ -171,10 +174,11 @@ calcul de l'impôt ;
 résultant des articles 205 à 211 du code civil à des personnes agées de plus de
 soixante-quinze ans vivant sous le toit du contribuable et dont le revenu
 imposable n'excède pas le plafond de ressources fixé pour l'octroi de
-l'allocation supplémentaire du Fonds national de solidarité. La déduction opérée
-par le contribuable ne peut excéder, par bénéficiaire, l'évaluation des
-avantages en nature de logement et de nourriture faite pour l'application aux
-salariés du régime de sécurité sociale.
+l'allocation supplémentaire (( mentionnée à l'article L815-2 ou à l'article
+L815-3 du code de la sécurité sociale)) (9). La déduction opérée par le
+contribuable ne peut excéder, par bénéficiaire, l'évaluation des avantages en
+nature de logement et de nourriture faite pour l'application aux salariés du
+régime de sécurité sociale.
 
 3° (Abrogé) ;
 
@@ -190,7 +194,7 @@ l'article L. 321-9 du code de la mutualité ;
 
 c. (Abrogé) ;
 
-d. (Devenu sans objet.
+d. Devenu sans objet.
 
 8° (Abrogé) ;
 
@@ -208,11 +212,31 @@ des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire
 des personnes non salariées contre les accidents de la vie privée, les accidents
 du travail et les maladies professionnelles dans l'agriculture.
 
-12° (Sans objet). (A compter de l'imposition des revenus de 1988, la déduction
-des sommes versées pour l'emploi d'une aide à domicile est remplacée par une
-réduction d'impôt sur le revenu (voir l'article 199 quaterdecies)).
+(1) Modification. Le seuil de 200.000 F est applicable à compter de l'imposition
+des revenus de 1995.
 
-(1) Le seuil de 150.000 F est applicable à compter de l'imposition des revenus
-de 1994 : loi 93-1352 art. 35.
+(2) Modification. La durée du report des déficits fonciers afférents aux
+immeubles ruraux était précédemment de neuf ans. Elle est ramenée à cinq ans
+pour les dépenses payées à compter du 1er janvier 1995. [*Cf. Instruction
+1995-02-24 5D-3-95.*]
 
-(1') Modification de la loi art. 10.
+(2') La disposition relative à l'imputation des déficits fonciers des
+nus-propriétaires s'applique aux dépenses payées à compter du 1er janvier 1993.
+
+(3) Modification. Ces dispositions s'appliquent aux dépenses payées par les
+propriétaires qui ont obtenu une autorisation de travaux à compter du 1er
+janvier 1995. [*Cf. Instruction 1995-05-17 5D-5-95*].
+
+(4) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier
+1995. (5) Les dispositions relatives à l'imputation sur le revenu global des
+déficits fonciers résultant des dépenses autres que les intérêts d'emprunt
+s'appliquent aux dépenses payées à compter du 1er janvier 1993.
+
+(6) Voir Annexe III, art. 41 E à 41 J.
+
+(7) Voir Annexe II, art. 91 quinquies.
+
+(8) Le chiffre de 4000 F s'applique à compter de l'imposition des revenus de
+1989.
+
+(9) Modification.

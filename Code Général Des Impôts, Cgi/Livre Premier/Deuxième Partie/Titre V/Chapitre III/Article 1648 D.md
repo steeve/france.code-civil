@@ -3,12 +3,12 @@ Article 1648 D
 I. A compter de 1983, il est institué une cotisation de péréquation de la taxe
 professionnelle à la charge des établissements situés dans les communes où le
 taux global de cette taxe est inférieur au taux global moyen constaté l'année
-précédente au niveau national [*redevables*].
+précédente au niveau national.
 
-II. Cette cotisation est assise [*assiette*] sur les bases nettes imposables des
+II. Cette cotisation est assise sur les bases nettes imposables des
 établissements mentionnés au I.
 
-Son taux est fixé à [*tarif*] :
+Son taux est fixé à :
 
 1. 1 % dans les communes où le rapport entre le taux global de la taxe et le
 taux moyen mentionné au I est inférieur à 0,5. Ce taux est éventuellement réduit
@@ -37,3 +37,8 @@ fixé à 0,75 % dans le cas visé au II-1.
 IV. Le taux global de taxe professionnelle est égal à la somme du taux perçu au
 profit des collectivités locales et de leurs groupements dotés d'une fiscalité
 propre.
+
+((V. Les dispositions du présent article ne sont pas applicables en Corse à
+compter de 1995)) (M).
+
+(M) Modification.
