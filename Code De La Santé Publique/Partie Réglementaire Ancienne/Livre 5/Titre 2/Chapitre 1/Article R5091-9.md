@@ -9,9 +9,9 @@ Le ministre [*autorité compétente*] statue sur la demande après avis du préf
 du chef du service régional de l'action sanitaire et sociale, du directeur
 régional de la sécurité sociale, du pharmacien inspecteur régional de la santé,
 du conseil régional de l'ordre des pharmaciens, du conseil supérieur de la
-pharmacie et du conseil supérieur de la mutualité ou de sa section permanente.
-Le silence gardé pendant plus de quatre mois par le ministre sur cette demande
-vaut décision de rejet.
+pharmacie et du conseil supérieur de la mutualité ou de sa commission
+spécialisée. Le silence gardé pendant plus de quatre mois par le ministre sur
+cette demande vaut décision de rejet.
 
 Les autorités et organismes mentionnés à l'alinéa précédent doivent émettre leur
 avis dans un délai de deux mois à partir de la date à laquelle ils sont saisis,
