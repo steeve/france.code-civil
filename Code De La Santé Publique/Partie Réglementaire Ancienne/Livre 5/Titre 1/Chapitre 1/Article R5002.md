@@ -6,41 +6,52 @@ Pharmacopée.
 
 Cette commission se compose de trente-sept membres :
 
-Un professeur en exercice d'une unité d'enseignement et de recherche de
-pharmacie désigné par le ministre chargé de la santé publique, président ;
+1° Dix membres de droit :
 
-Deux professeurs en exercice appartenant l'un à une unité d'enseignement et de
-recherche de médecine, l'autre à une unité d'enseignement et de recherche de
-pharmacie, désignés par le ministre chargé de la santé publique, vice-présidents
-;
+- le directeur de la pharmacie et du médicament au ministère chargé de santé
+publique ou son représentant ;
 
-Le chef du service central de la pharmacie et des médicaments, secrétaire
-général ;
+- le directeur de l'Institut national de la santé et de la recherche médicale ou
+son représentant ;
 
-Un professeur en exercice d'une unité d'enseignement et de recherche de
-pharmacie, désigné par le ministre chargé de la santé publique, secrétaire
-technique ;
+- le directeur général du Laboratoire national de la santé ou son représentant ;
 
-Le pharmacien inspecteur de la santé, chargé des questions de Pharmacopée,
-formulaire et recherche appliquée au service central de la pharmacie et des
-médicaments, secrétaire technique adjoint ;
+- le directeur de la recherche au ministère de l'éducation nationale ou son
+représentant ;
 
-Le président du conseil national de l'Ordre des pharmaciens ;
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes au ministère de l'économie, des finances et du budget, ou son
+représentant ;
 
-Trente membres nommés par le ministre chargé de la santé publique, dont quinze
-pharmaciens ou personnalités qualifiées, et, sur présentation du ministre de
-l'éducation nationale, quinze professeurs ou maîtres de conférences agrégés de
-l'enseignement supérieur en exercice lors de leur désignation.
+- le président de la mission scientifique et technique au ministère chargé de la
+recherche ou son représentant ;
 
-La commission ne peut valablement délibérer que si douze au moins de ses membres
-sont présents.
+- le président du Conseil national de l'ordre des pharmaciens ou son
+représentant ;
 
-La commission est renouvelable, tous les trois ans, et tous les mandats prennent
-fin à la date du renouvellement.
+- le représentant de l'union des industries chimiques ou son représentant ;
 
-Elle élabore un règlement intérieur prévoyant, notamment, la constitution de
-sous-commissions, de groupes de travail et d'un conseil restreint.
+- le président du conseil de direction de l'Office national interprofessionnel
+des plantes à parfum, aromatiques et médicinales ou son représentant ;
 
-Le ministre chargé de la santé publique peut nommer, pour une durée maximale de
-trois ans, des membres correspondants, qui peuvent être appelés à participer aux
-travaux et aux séances des sous-commissions et groupes de travail.
+- le président du syndicat national de l'industrie pharmaceutique ou son
+représentant.
+
+2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée
+de trois ans :
+
+- un membre de la mission scientifique de la direction de la pharmacie et du
+médicament au ministère chargé de la santé ;
+
+- vingt-six personnalités choisies en raison de leur compétence scientifique ou
+technique, dont six au moins sur proposition du ministre chargé des universités.
+
+Vingt-sept suppléants sont désignés dans les mêmes conditions que les
+titulaires. Ils remplacent ces derniers soit en cas d'empêchement, soit s'il se
+produit une vacance en cours de mandat.
+
+Le président et le vice-président sont désignés par le ministre chargé de la
+santé parmi les membres de la commission.
+
+En cas d'absence du président et du vice-président, le ministre chargé de la
+santé nomme un président de séance.
