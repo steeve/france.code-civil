@@ -1,8 +1,9 @@
 Article L241-6
 ----
-Les charges de prestations familiales sont couvertes par des cotisations,
-ressources et contributions centralisées par la caisse nationale des allocations
-familiales qui suit l'exécution de toutes les dépenses [*financement*].
+Les charges de prestations familiales et des aides à l'emploi pour la garde des
+jeunes enfants sont couvertes par des cotisations, ressources et contributions
+centralisées par la caisse nationale des allocations familiales qui suit
+l'exécution de toutes les dépenses [*financement*].
 
 Les cotisations et ressources mentionnées à l'alinéa précédent comprennent :
 
