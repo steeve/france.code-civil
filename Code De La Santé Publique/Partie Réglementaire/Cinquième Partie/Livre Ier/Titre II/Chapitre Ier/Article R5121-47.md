@@ -18,9 +18,10 @@ L'autorisation de mise sur le marché est également suspendue ou retirée par l
 directeur général de l'agence :
 
 1° Lorsqu'il apparaît que les renseignements fournis à l'occasion de la demande
-d'autorisation de mise sur le marché sont erronés, que les conditions prévues à
-la présente section ne sont pas ou ne sont plus remplies ou que les contrôles
-n'ont pas été effectués ;
+d'autorisation de mise sur le marché sont erronés ou n'ont pas été modifiés
+conformément à l'article R. 5121-37, que les conditions prévues à la présente
+section ne sont pas ou ne sont plus remplies ou que les contrôles n'ont pas été
+effectués ;
 
 2° Lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas
 conformes aux prescriptions générales ou spécifiques prévues au présent titre.

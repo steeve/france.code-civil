@@ -55,6 +55,6 @@ des lois et règlements en vigueur ;
 17° Le classement du médicament en matière de prescription et de délivrance,
 mentionné dans l'autorisation de mise sur le marché ;
 
-18° Pour les médicaments homéopathiques mentionnés au 5° de l'article R. 5121-29
+18° Pour les médicaments homéopathiques mentionnés au 4° de l'article R. 5121-29
 la mention : "Médicament homéopathique traditionnellement utilisé dans" suivie
 de l'indication thérapeutique.
