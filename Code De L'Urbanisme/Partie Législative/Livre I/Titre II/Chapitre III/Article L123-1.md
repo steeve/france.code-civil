@@ -7,12 +7,13 @@ comporter l'interdiction de construire.
 
 A cette fin, ils doivent :
 
-1° délimiter des zones urbaines en prenant notamment en considération la valeur
-agronomique des sols ainsi que les structures agricoles et l'existence de zones
-de terrain produisant des denrées de qualité supérieure et des zones comportant
-des équipements spéciaux importants et déterminer des zones d'affectation des
-sols selon l'usage principal qui doit en être fait ou la nature des activités
-dominantes qui peuvent y être exercées ;
+1° Délimiter des zones urbaines ou à urbaniser en prenant notamment en
+considération la valeur agronomique des sols, les structures agricoles, les
+terrains produisant des denrées de qualité supérieure, l'existence de risques
+naturels prévisibles et de risques technologiques, la présence d'équipements
+spéciaux importants et déterminer des zones d'affectation des sols selon l'usage
+principal qui doit en être fait ou la nature des activités dominantes qui
+peuvent y être exercées ; ".
 
 2° définir, en fonction des situations locales, les règles concernant le droit
 d'implanter des constructions, leur destination et leur nature.
