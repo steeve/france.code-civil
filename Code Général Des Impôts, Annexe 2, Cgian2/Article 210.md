@@ -16,11 +16,11 @@ date. Lorsqu'un immeuble acquis ou construit en vue de la vente est utilisé
 directement par l'assujetti, la date de la première utilisation se substitue à
 celle de l'acquisition ou de l'achèvement.
 
-II. Les dispositions du premier alinéa du I s'appliquent aux autres biens
-constituant des immobilisations qui sont cédés, apportés ou ont disparu avant le
-commencement de la quatrième année qui suit celle de leur acquisition, de leur
-importation ou de leur première utilisation. Toutefois, la diminution est d'un
-cinquième au lieu d'un dixième par année civile ou fraction d'année civile.
+II. Les dispositions du I s'appliquent aux autres biens constituant des
+immobilisations qui sont cédés, apportés ou ont disparu avant le commencement de
+la quatrième année qui suit celle de leur acquisition, de leur importation ou de
+leur première utilisation. Toutefois, la diminution est d'un cinquième au lieu
+d'un dixième par année civile ou fraction d'année civile.
 
 III. L'obligation prévue au présent article peut être transférée à une société
 absorbante ou à une société bénéficiaire de l'apport du bien.
