@@ -17,6 +17,10 @@ l'appréciation des ressources.
 Ce décret détermine aussi le délai dans lequel le conjoint survivant demande
 l'attribution de cette prestation postérieurement à la date du décès.
 
+Le conjoint survivant de nationalité étrangère résidant en France doit justifier
+de la régularité de son séjour par la production d'un titre ou document figurant
+sur une liste fixée par décret.
+
 L'allocation de veuvage est également servie, qu'il réside ou non en France, au
 conjoint survivant de l'assuré qui relevait du régime de l'assurance volontaire
 vieillesse institué par les articles L. 742-2 et suivants, sous réserve qu'il

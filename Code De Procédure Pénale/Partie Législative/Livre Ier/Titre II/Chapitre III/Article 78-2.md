@@ -40,8 +40,3 @@ de vérifier le respect des obligations de détention, de port et de présentati
 des titres et documents prévues par la loi. Le fait que le contrôle d'identité
 révèle une infraction autre que celle de non-respect des obligations susvisées
 ne constitue pas une cause de nullité des procédures incidentes.
-
-La personne de nationalité étrangère dont l'identité est contrôlée en
-application des dispositions du présent article doit être en mesure de présenter
-les pièces ou documents sous le couvert desquels elle est autorisée à séjourner
-en France.

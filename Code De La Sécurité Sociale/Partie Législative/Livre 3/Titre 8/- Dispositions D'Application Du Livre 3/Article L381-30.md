@@ -1,9 +1,10 @@
 Article L381-30
 ----
-Les détenus sont affiliés obligatoirement aux assurances maladie et maternité du
-régime général de sécurité sociale à compter soit de la date à partir de
-laquelle ils exécutent un travail pénal, soit de la date à laquelle ils cessent
-d'avoir droit aux prestations d'un régime obligatoire.
+Nonobstant les dispositions de l'article L. 115-6, les détenus sont affiliés
+obligatoirement aux assurances maladie et maternité du régime général de
+sécurité sociale à compter soit de la date à partir de laquelle ils exécutent un
+travail pénal, soit de la date à laquelle ils cessent d'avoir droit aux
+prestations d'un régime obligatoire.
 
 Ils ont droit, à ce titre, aux prestations en nature pour les membres de leur
 famille au sens de l'article L. 313-3.
