@@ -1,19 +1,12 @@
 Article L124-4
 ----
-Les règles applicables aux échanges d'immeubles ruraux en matière de droit
-d'enregistrement et de taxe de publicité foncière sont fixées par les articles
-708 et 709 du code général des impôts, ci-après reproduits :
+Quand les échanges sont établis par acte notarié, le département peut prendre en
+charge les frais occasionnés si la commission départementale d'aménagement
+foncier reconnaît leur utilité pour l'aménagement foncier. Ces échanges peuvent
+comporter des cessions de parcelle d'une superficie et d'une valeur inférieure
+aux seuils définis aux premier et deuxième alinéas de l'article L. 121-24, et
+des usucapions mentionnées à l'article L. 121-25.
 
-"Art. 708 : Les échanges d'immeubles ruraux effectués conformément à l'article
-L. 124-1 du code rural sont exonérés de la taxe de publicité foncière ou, le cas
-échéant, du droit d'enregistrement.
-
-"Toutefois, les soultes et plus-values résultant de ces échanges sont passibles
-de la taxe de publicité foncière ou du droit d'enregistrement au taux prévu pour
-les ventes d'immeubles".
-
-"Art. 709 : Par dérogation aux dispositions du deuxième alinéa de l'article 708,
-le taux de la taxe de publicité foncière ou du droit d'enregistrement est réduit
-à 2 p. 100 lorsque la commission départementale d'aménagement foncier estime que
-l'échange est de nature à favoriser les conditions de l'exploitation agricole
-des immeubles échangés".
+Pour l'application des dispositions de l'article L. 124-1 aux échanges
+mentionnées au précédent alinéa, le transfert de propriété résulte de
+l'intervention de l'acte notarié.

@@ -25,5 +25,5 @@ accompagnée d'un certificat dûment établi par le vétérinaire traitant.
 
 Le tribunal peut prononcer la déchéance du bénéfice des mesures prévues au
 présent article à l'encontre des contrevenants aux dispositions des articles
-L223-18 à L223-22 du code rural, relatifs à la vaccination antiaphteuse
+L223-3, L223-18 et L223-19 du code rural, relatifs à la vaccination antiaphteuse
 obligatoire.

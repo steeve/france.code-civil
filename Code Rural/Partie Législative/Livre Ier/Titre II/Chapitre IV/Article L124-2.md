@@ -1,7 +1,9 @@
 Article L124-2
 ----
-Le département peut participer aux frais occasionnés par des échanges
-d'immeubles ruraux effectués conformément à l'article L. 124-1 si la commission
-départementale d'aménagement foncier a reconnu l'utilité de ces échanges pour
-l'amélioration des conditions de l'exploitation agricole ou de la production
-forestière.
+Lorsqu'un transfert de propriété résulte d'un échange d'immeubles ruraux, un
+droit de plantation de vigne d'une surface au plus égale à celle du fonds
+transféré est également cessible, même si le fonds transféré n'est pas planté en
+vigne au jour de l'échange.
+
+Cette disposition supprime, pour les opérations mentionnées au premier alinéa,
+le caractère d'incessibilité des droits de plantation.

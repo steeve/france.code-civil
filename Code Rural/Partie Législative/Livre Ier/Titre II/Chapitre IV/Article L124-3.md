@@ -1,12 +1,22 @@
 Article L124-3
 ----
-Lorsqu'un ou plusieurs participants possédant moins du quart de la superficie
-envisagée et représentant moins de la moitié de l'ensemble des participants fait
-opposition à un échange multilatéral portant sur un périmètre déterminé
-conformément aux dispositions de l'article L. 121-14, alors que sa participation
-est indispensable à la réalisation du projet, les autres échangistes peuvent
-solliciter l'arbitrage de la commission départementale. Celle-ci peut fixer les
-conditions dans lesquelles l'échange multilatéral doit être réalisé.
+Les projets d'échanges amiables d'immeubles ruraux répondant aux conditions
+définies ci-dessous peuvent être adressés à la commission départementale
+d'aménagement foncier qui, si elle en reconnaît l'utilité au regard des
+objectifs poursuivis par l'aménagement foncier, les transmet au conseil général.
+Si celui-ci approuve l'opération, le président du conseil général la rend
+exécutoire dans les conditions prévues à l'article L. 121-21.
 
-La décision de la commission départementale d'aménagement foncier est transmise
-au préfet, qui peut la rendre exécutoire.
+Les immeubles échangés doivent être situés soit dans le même canton, soit dans
+un canton et dans une commune limitrophe de celui-ci. En dehors de ces limites,
+l'un des immeubles échangés doit être contigu aux propriétés de celui des
+échangistes qui le recevra.
+
+Les échanges peuvent comporter des soultes, déterminées par accord amiable entre
+les intéressés, afin de compenser une différence de valeur vénale entre les
+immeubles échangés.
+
+Les projets d'échanges mentionnés au premier alinéa peuvent comporter des
+cessions de petites parcelles réalisées dans les conditions prévues à l'article
+L. 121-24 ainsi que des usucapions constatées selon la procédure prévue à
+l'article L. 121-25.

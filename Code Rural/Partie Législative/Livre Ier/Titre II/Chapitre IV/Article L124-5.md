@@ -1,9 +1,10 @@
 Article L124-5
 ----
-Lorsqu'un transfert de propriété résulte d'un échange amiable, un droit de
-plantation de vigne d'une surface au plus égale à celle du fonds transféré est
-également cessible, même si le fonds transféré n'est pas planté en vigne au jour
-de l'échange.
-
-Cette disposition supprime, pour les opérations mentionnées au premier alinéa,
-le caractère d'incessibilité des droits de plantation.
+Lorsque le conseil général a ordonné une opération d'échanges et cessions
+d'immeubles ruraux et a fixé le périmètre correspondant, la commission communale
+ou intercommunale d'aménagement foncier prescrit une enquête publique destinée à
+recueillir les observations des propriétaires et titulaires de droits réels et
+personnels sur l'étendue de leurs droits sur les parcelles incluses dans le
+périmètre et à recenser les biens vacants et sans maître ou présumés tels ainsi
+que les éventualités de cessions de petites parcelles. Les modalités de cette
+enquête sont fixées par décret en Conseil d'Etat.

@@ -7,8 +7,8 @@ n'a pas effectivement été mis en valeur dans les délais prévus à l'article 
 par décret en Conseil d'Etat.
 
 Le préfet peut dès lors attribuer, après avis de la commission départementale
-des structures, l'autorisation d'exploiter à l'un des demandeurs ayant présenté
-un plan de remise en valeur.
+d'orientation de l'agriculture, l'autorisation d'exploiter à l'un des demandeurs
+ayant présenté un plan de remise en valeur.
 
 L'autorisation d'exploiter emporte de plein droit l'existence d'un bail à ferme
 soumis aux dispositions du titre Ier du livre IV nouveau du code rural sans

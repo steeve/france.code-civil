@@ -1,13 +1,8 @@
 Article L123-22
 ----
-La commission communale d'aménagement foncier, après accord du conseil
-municipal, peut décider que l'attribution de terrains dans la surface affectée à
-l'urbanisation entraîne de plein droit, dès la clôture des opérations de
-remembrement, l'adhésion des propriétaires à une association foncière urbaine,
-dont elle détermine le périmètre.
-
-Lorsqu'une association foncière urbaine n'est pas créée, les terrains sur
-lesquels il ne peut être construit, en raison de leur forme ou de leur surface
-non conformes aux prescriptions édictées par le règlement du plan d'occupation
-des sols, sont regroupés et affectés en indivision, en une ou plusieurs
-parcelles constructibles au regard dudit règlement.
+En cas de moins-value résultant de l'exécution de travaux en méconnaissance de
+l'article L. 121-19 ou de l'inexécution de travaux correspondant à une bonne
+gestion forestière, une indemnité compensatrice est fixée par la commission
+communale ou intercommunale, mise en recouvrement par l'association foncière ou,
+en l'absence de celle-ci, par la commune auprès du contrevenant comme en matière
+de contributions directes et versée à l'attributaire de la parcelle.

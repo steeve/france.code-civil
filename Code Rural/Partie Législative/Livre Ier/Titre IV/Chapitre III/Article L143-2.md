@@ -20,8 +20,7 @@ par la cession séparée des terres et de bâtiments d'habitation ou d'exploitat
 ;
 
 7° La mise en valeur et la protection de la forêt ainsi que l'amélioration des
-structures sylvicoles dans le cadre des conventions passées avec l'Etat en
-application de l'article L. 512-6 du code forestier ;
+structures sylvicoles dans le cadre des conventions passées avec l'Etat ;
 
 8° La réalisation des projets de mise en valeur des paysages et de protection de
 l'environnement approuvés par l'Etat ou les collectivités locales et leurs

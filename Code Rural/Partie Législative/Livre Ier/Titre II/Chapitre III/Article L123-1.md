@@ -1,7 +1,8 @@
 Article L123-1
 ----
-Le remembrement, applicable aux propriétés rurales non bâties, se fait au moyen
-d'une nouvelle distribution des parcelles morcelées et dispersées.
+L'aménagement foncier agricole et forestier, applicable aux propriétés rurales
+non bâties, se fait au moyen d'une nouvelle distribution des parcelles morcelées
+et dispersées.
 
 Il a principalement pour but, par la constitution d'exploitations rurales d'un
 seul tenant ou à grandes parcelles bien groupées, d'améliorer l'exploitation

@@ -1,23 +1,27 @@
 Article L126-3
 ----
-Lorsqu'un immeuble est apporté à un groupement forestier constitué à l'intérieur
-d'un périmètre mentionné au 2° de l'article L. 126-1, l'apporteur peut, à défaut
-de titre régulier de propriété et sous réserve de l'exercice éventuel de
-l'action en revendication, justifier des faits de possession dans les termes de
-l'article 2229 du code civil par la déclaration qu'il en fait en présence de
-deux témoins. Cette déclaration est reçue par le notaire dans l'acte d'apport.
+Le préfet peut prononcer la protection de boisements linéaires, haies et
+plantations d'alignement, existants ou à créer, soit lorsque les emprises
+foncières correspondantes ont été identifiées en application du 6° de l'article
+L. 123-8 du présent code, soit lorsque le propriétaire en fait la demande. Dans
+ce dernier cas, lorsque ces boisements, haies et plantations séparent ou
+morcellent des parcelles attenantes données à bail, la demande est présentée
+conjointement par le bailleur et le preneur.
 
-Les parts d'intérêts représentatives de l'apport d'un immeuble mentionné à
-l'alinéa précédent font mention des conditions dans lesquelles la possession de
-l'immeuble a été établie.
+Ces boisements, haies et plantations sont identifiés par un plan et un
+descriptif de leur situation dans les parcelles cadastrales.
 
-Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, l'inscription
-d'un immeuble au livre foncier vaut titre de propriété jusqu'à preuve contraire.
+Leur destruction est soumise à l'autorisation préalable du préfet, donnée après
+avis de la commission départementale d'aménagement foncier s'il s'agit
+d'éléments identifiés en application du 6° de l'article L. 123-8 du présent
+code.
 
-En cas d'action en revendication d'un immeuble apporté à un groupement forestier
-dans les conditions mentionnées ci-dessus, le propriétaire peut seulement
-prétendre au transfert, à son profit, des parts d'intérêts représentatives dudit
-apport ; ce transfert est subordonné au remboursement des dépenses exposées par
-les précédents détenteurs de ces parts du fait de la constitution et du
-fonctionnement du groupement, diminuées des bénéfices éventuellement répartis
-par le groupement.
+Les boisements linéaires, haies et plantations d'alignement protégés en
+application du présent article bénéficient des aides publiques et des
+exonérations fiscales attachées aux bois, forêts et terrains à boiser. Ils
+peuvent donner lieu à la passation d'un contrat d'entretien avec le propriétaire
+ou le preneur.
+
+A la demande du propriétaire, le préfet peut également, sur avis de la
+commission départementale d'aménagement foncier, prononcer la protection de
+vergers de hautes tiges.

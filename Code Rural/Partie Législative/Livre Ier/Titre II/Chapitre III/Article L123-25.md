@@ -23,4 +23,5 @@ terrains constituant l'emprise des ouvrages ou des zones projetés avant le
 transfert de propriété résultant des opérations d'aménagement foncier ;
 
 5° Les dépenses relatives aux opérations d'aménagement foncier et de certains
-travaux connexes sont mises à la charge du maître de l'ouvrage.
+travaux connexes du périmètre perturbé par l'ouvrage sont mises à la charge du
+maître de l'ouvrage.

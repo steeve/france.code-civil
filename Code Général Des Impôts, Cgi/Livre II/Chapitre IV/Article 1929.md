@@ -15,8 +15,8 @@ conservation des hypothèques dans la forme et de la manière prescrite par la
 loi.
 
 3. Pour la garantie du paiement des droits complémentaires et supplémentaires
-éventuellement exigibles en vertu de l'article 1840 G bis, le Trésor possède sur
-les immeubles du groupement forestier ou sur l'immeuble objet de la mutation une
+éventuellement exigibles en vertu de l'article 1840 G, le Trésor possède sur les
+immeubles du groupement forestier ou sur l'immeuble objet de la mutation une
 hypothèque légale qui prend rang du jour de son inscription à la conservation
 des hypothèques sur tout ou partie de ces biens dans la forme et de la manière
 prescrite par la loi.
@@ -28,19 +28,20 @@ de propriété au profit d'établissements ou de sociétés, en vue de la réali
 d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
 donner lieu à l'établissement d'une servitude d'utilité publique au titre de
 ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction
-de reconstituer les boisements après coupe rase en application du 1° de
-l'article L. 126-1 du code rural. Lorsque la sûreté a été cantonnée sur le bien
-cédé, les droits complémentaires et supplémentaires correspondant à d'autres
-biens deviennent exigibles et sont colloqués sur le prix de vente au rang de
-l'inscription si l'hypothèque légale n'a pu être inscrite en rang utile sur ces
-autres biens préalablement à la cession. Il en est de même lorsque la sûreté a
-été cantonnée sur des bois et forêts qui font l'objet soit d'une mutation de
-jouissance ou de propriété au profit d'établissements ou de sociétés, en vue de
-la réalisation d'équipements, aménagements ou constructions d'intérêt public,
-qui pourraient donner lieu à l'établissement d'une servitude d'utilité publique
-au titre de ladite mutation, soit d'une interdiction de reboisement après coupe
-rase en application du 1° de l'article L. 126-1 du code rural, soit d'un
-procès-verbal dressé en application du III de l'article 1840 G bis.
+de reconstituer les boisements après coupe rase en application des deuxième à
+neuvième alinéas de l'article L. 126-1 du code rural. Lorsque la sûreté a été
+cantonnée sur le bien cédé, les droits complémentaires et supplémentaires
+correspondant à d'autres biens deviennent exigibles et sont colloqués sur le
+prix de vente au rang de l'inscription si l'hypothèque légale n'a pu être
+inscrite en rang utile sur ces autres biens préalablement à la cession. Il en
+est de même lorsque la sûreté a été cantonnée sur des bois et forêts qui font
+l'objet soit d'une mutation de jouissance ou de propriété au profit
+d'établissements ou de sociétés, en vue de la réalisation d'équipements,
+aménagements ou constructions d'intérêt public, qui pourraient donner lieu à
+l'établissement d'une servitude d'utilité publique au titre de ladite mutation,
+soit d'une interdiction de reboisement après coupe rase en application des
+deuxième à neuvième alinéas de l'article L. 126-1 du code rural, soit d'un
+procès-verbal dressé en application du III de l'article 1840 G.
 
 4. Sont tenus solidairement au paiement de la taxe locale d'équipement :
 

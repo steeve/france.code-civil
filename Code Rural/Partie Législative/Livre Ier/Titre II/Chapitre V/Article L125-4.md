@@ -1,17 +1,17 @@
 Article L125-4
 ----
 Le préfet peut attribuer l'autorisation d'exploiter, après avis de la commission
-départementale des structures agricoles et de la commission départementale
-d'aménagement foncier sur le plan de remise en valeur. En cas de pluralité de
-demandes, cette autorisation est attribuée en priorité à un agriculteur qui
-s'installe ou, à défaut, à un exploitant agricole à titre principal. A défaut
-d'accord amiable entre le demandeur désigné par le préfet et le propriétaire,
-ainsi que lorsqu'un mandataire a été désigné en application de l'article L.
-125-2, le tribunal paritaire des baux ruraux fixe les conditions de jouissance
-et le montant du fermage conformément aux dispositions du titre Ier du livre IV
-nouveau du code rural qui sont applicables de plein droit, le propriétaire ayant
-la faculté de demander qu'il soit fait application des dispositions des articles
-L. 416-1 à L. 416-9. Le tribunal peut ordonner l'exécution provisoire.
+départementale d'orientation de l'agriculture sur le plan de remise en valeur.
+En cas de pluralité de demandes, cette autorisation est attribuée en priorité à
+un agriculteur qui s'installe ou, à défaut, à un exploitant agricole à titre
+principal.A défaut d'accord amiable entre le demandeur désigné par le préfet et
+le propriétaire, ainsi que lorsqu'un mandataire a été désigné en application de
+l'article L. 125-2, le tribunal paritaire des baux ruraux fixe les conditions de
+jouissance et le montant du fermage conformément aux dispositions du titre Ier
+du livre IV nouveau du code rural qui sont applicables de plein droit, le
+propriétaire ayant la faculté de demander qu'il soit fait application des
+dispositions des articles L. 416-1 à L. 416-9. Le tribunal peut ordonner
+l'exécution provisoire.
 
 Sous peine de résiliation, le fonds doit être mis en valeur dans le délai d'un
 an à compter de la date à laquelle la décision est devenue exécutoire.

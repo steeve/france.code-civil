@@ -3,22 +3,24 @@ Article L126-1
 Afin de favoriser une meilleure répartition des terres entre les productions
 agricoles, la forêt, les espaces de nature ou de loisirs et les espaces habités
 en milieu rural et d'assurer la préservation de milieux naturels ou de paysages
-remarquables, les préfets peuvent, après avis des chambres d'agriculture, des
-centres régionaux de la propriété forestière et des conseils généraux, définir :
+remarquables, les conseils généraux peuvent, après avis des chambres
+d'agriculture et des centres régionaux de la propriété forestière, définir :
 
-1° Les zones dans lesquelles des plantations et des semis d'essences forestières
-ou dans lesquelles la reconstitution après coupe rase peuvent être interdits ou
+Les zones dans lesquelles des plantations et des semis d'essences forestières ou
+dans lesquelles la reconstitution après coupe rase peuvent être interdits ou
 réglementés ; lorsqu'elles s'appliquent à des terrains déjà boisés, les
 interdictions ou réglementations ne peuvent concerner que des parcelles boisées
 isolées ou rattachées à un massif dont la superficie est inférieure à un seuil
-de surface défini par le préfet selon des modalités fixées par décret en Conseil
-d'Etat, sur la base des motifs visés au premier alinéa. Les interdictions et les
+de surface par grande zone forestière homogène défini par le conseil général
+après avis du centre régional de la propriété forestière et de la chambre
+d'agriculture selon des modalités fixées par décret en Conseil d'Etat, sur la
+base des motifs visés au premier alinéa. Les interdictions et les
 réglementations ne sont pas applicables aux parcs ou jardins attenant à une
 habitation.
 
 Les productions de sapins de Noël font l'objet d'une déclaration annuelle
 portant sur la surface, la densité, le lieu et la date de plantation, auprès du
-ministère chargé de l'agriculture.
+conseil général.
 
 On entend par production de sapins de Noël la plantation d'essences forestières,
 dont la liste est fixée par décret, et qui remplit des conditions également
@@ -45,9 +47,13 @@ Les interdictions de reconstitution de boisements doivent être compatibles avec
 les objectifs définis par les orientations régionales forestières prévues à
 l'article L. 4 du code forestier.
 
-2° et 3° (alinéas abrogés) ;
-
-4° Les secteurs dans lesquels peut être réalisé, à la demande du conseil général
-ou avec son accord, un aménagement agricole et forestier dans les conditions
-prévues par les articles L. 126-4 et L. 126-5. Cet aménagement peut, en outre,
-être mis en oeuvre dans les zones de montagne.
+Lorsque, après déboisement, le terrain faisant l'objet d'une interdiction de
+reconstituer le boisement ne peut être mis en valeur, notamment à des fins
+agricoles, dans des conditions économiques normales, le propriétaire peut mettre
+en demeure la collectivité publique qui a édicté la réglementation ou qui s'est
+opposée au boisement de procéder à son acquisition dans les conditions et délais
+prévus à l'article L. 123-17 du code de l'urbanisme. A défaut d'accord amiable
+sur le prix ou de levée de l'interdiction de reconstituer le boisement dans un
+délai de trois mois, le juge de l'expropriation saisi par les propriétaires ou
+la collectivité publique concernée prononce le transfert de propriété et fixe le
+prix du bien.

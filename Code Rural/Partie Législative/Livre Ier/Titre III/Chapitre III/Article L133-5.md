@@ -1,6 +1,7 @@
 Article L133-5
 ----
-Les associations foncières de remembrement ou leurs unions peuvent également :
+Les associations foncières d'aménagement foncier agricole et forestier ou leurs
+unions peuvent également :
 
 1° Poursuivre la construction ou l'entretien des ouvrages ou la réalisation des
 travaux prévus à l'article 1er de l'ordonnance du 1er juillet 2004 précitée ;

@@ -1,18 +1,13 @@
 Article L123-18
 ----
-Lorsque, dans une ou plusieurs communes, l'élaboration ou la révision d'un plan
-d'occupation des sols est prescrite et qu'une commission communale ou
-intercommunale est instituée, le préfet, après accord du ou des conseils
-municipaux, ordonne le remembrement-aménagement dans les conditions prévues à
-l'article L. 121-14 et en fixe le périmètre.
+Par dérogation aux dispositions du troisième alinéa de l'article L. 123-1, la
+distance moyenne entre les lots attribués à un propriétaire et leurs voies de
+desserte ne peut être plus longue que la distance moyenne entre les lots
+apportés par ce propriétaire et leurs voies de desserte initiales, sauf accord
+de l'intéressé. Toutefois, cette distance peut être majorée de 10 % au maximum
+dans la mesure nécessaire au regroupement parcellaire.
 
-Dans le périmètre de remembrement-aménagement, la part de surface agricole
-affectée à l'urbanisation et à la constitution de réserves foncières destinées
-aux équipements collectifs et aux zones d'activité détermine le pourcentage de
-superficie que chaque propriétaire se voit attribuer au prorata de ses droits,
-respectivement en terrains urbanisables et en terres agricoles.
-
-Les prélèvements opérés à l'occasion d'une opération de remembrement-aménagement
-prennent notamment en considération la valeur agronomique des sols ainsi que les
-structures agricoles et l'existence de zones de terrains produisant des denrées
-de qualité supérieure ou comportant des équipements spéciaux importants.
+Dans le cas d'une compensation entre parcelles forestières et parcelles
+agricoles, les parcelles forestières attribuées peuvent être plus éloignées des
+centres d'exploitation ou des voies de desserte existantes que les parcelles
+agricoles apportées.

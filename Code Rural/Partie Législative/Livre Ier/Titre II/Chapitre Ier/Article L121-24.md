@@ -1,22 +1,22 @@
 Article L121-24
 ----
-Lorsqu'un propriétaire ne possède, au sein du périmètre d'un aménagement foncier
-visé aux 1°, 2°, 5° ou 6° de l'article L. 121-1, qu'une parcelle ou un ensemble
-de parcelles de même nature de culture d'une superficie totale inférieure à un
-seuil fixé par la commission départementale d'aménagement foncier dans la limite
-d'un hectare et demi et d'une valeur inférieure à 1 500 euros et que cette
-parcelle ou cet ensemble de parcelles ne fait pas partie des catégories
-d'immeubles visées aux articles L. 123-2 et L. 123-3, ce propriétaire peut
-vendre cette parcelle ou cet ensemble de parcelles dans les conditions définies
-ci-après.
+Lorsqu'un propriétaire ne possède, au sein d'un périmètre d'aménagement foncier
+agricole et forestier ou d'échanges et cessions amiables d'immeubles ruraux,
+qu'une parcelle ou un ensemble de parcelles de même nature de culture d'une
+superficie totale inférieure à un seuil fixé par la commission départementale
+d'aménagement foncier dans la limite d'un hectare et demi et d'une valeur
+inférieure à 1 500 euros et que cette parcelle ou cet ensemble de parcelles ne
+fait pas partie des catégories d'immeubles visées aux articles L. 123-2 et L.
+123-3, ce propriétaire peut vendre cette parcelle ou cet ensemble de parcelles
+dans les conditions définies ci-après.
 
-Au sein du périmètre d'un aménagement foncier visé au 8° de l'article L. 121-1
-et lorsque ces cessions améliorent la structure des fonds forestiers, les
-propriétaires peuvent céder, dans les conditions prévues aux trois alinéas
-suivants et dans la limite de 7 500 euros par propriétaire au cours de
-l'ensemble de la procédure d'aménagement foncier, toute parcelle boisée ne
-faisant pas partie des catégories d'immeubles visées aux articles L. 123-2 et L.
-123-3.
+Au sein d'un périmètre d'un aménagement foncier d'échanges et cessions amiables
+d'immeubles forestiers et lorsque ces cessions améliorent la structure des fonds
+forestiers, les propriétaires peuvent céder, dans les conditions prévues aux
+trois alinéas suivants et dans la limite de 7 500 euros par propriétaire au
+cours de l'ensemble de la procédure d'aménagement foncier, toute parcelle boisée
+ne faisant pas partie des catégories d'immeubles visées aux articles L. 123-2 et
+L. 123-3.
 
 Le projet de cession, passé par acte sous seing privé, est adressé pour
 autorisation à la commission communale ou intercommunale qui s'assure que la

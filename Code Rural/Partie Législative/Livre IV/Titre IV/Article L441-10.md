@@ -9,7 +9,7 @@ constitué une commission composée :
 il est dit à l'article L. 441-5.
 
 Cette commission fixe l'ordre et la cadence dans lesquels seront faits le
-parcellement et le remembrement. En cas de partage, la voix du président est
-prépondérante. Les décisions prises à la majorité sont sans appel, sauf recours
-pour incompétence, excès de pouvoir ou violation de la loi devant la juridiction
-administrative.
+parcellement et l'aménagement foncier agricole et forestier. En cas de partage,
+la voix du président est prépondérante. Les décisions prises à la majorité sont
+sans appel, sauf recours pour incompétence, excès de pouvoir ou violation de la
+loi devant la juridiction administrative.

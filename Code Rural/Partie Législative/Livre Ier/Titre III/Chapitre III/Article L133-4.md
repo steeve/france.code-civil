@@ -1,9 +1,7 @@
 Article L133-4
 ----
-A l'intérieur d'un périmètre de remembrement-aménagement, les associations
-foncières de remembrement ou leurs unions peuvent assurer temporairement, à la
-demande des propriétaires de terrains attribués dans la surface affectée à
-l'urbanisation et après accord, le cas échéant, de l'association foncière
-urbaine, l'exploitation agricole de ces terrains. L'association foncière de
-remembrement peut à cette fin conclure pour le compte des propriétaires des
-conventions qui ne relèvent pas de la législation sur le fermage.
+Les travaux réalisés par l'association foncière font l'objet d'états distincts,
+selon qu'ils se rapportent aux zones forestières, aux zones viticoles ou aux
+autres zones agricoles. Les dépenses afférentes aux travaux communs à ces zones
+sont réparties entre ces états en fonction de l'intérêt respectif des propriétés
+aux travaux.

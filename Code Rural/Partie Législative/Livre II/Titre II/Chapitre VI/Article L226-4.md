@@ -1,18 +1,15 @@
 Article L226-4
 ----
-La possibilité d'une indemnisation par la fédération départementale des
-chasseurs laisse subsister le droit d'exercer contre le responsable des dommages
-une action fondée sur l'article 1382 du code civil.
+Par dérogation à l'article L. 226-2, dans les zones de pâturage estival en
+montagne et en cas de force majeure, ou en cas de nécessité d'ordre sanitaire,
+constatées par l'autorité administrative, il est procédé à l'élimination des
+cadavres d'animaux par incinération ou par enfouissement. L'élimination sur
+place des cadavres mentionnés à l'article L. 226-1 relève du service public de
+l'équarrissage.
 
-Celui qui obtient en justice la condamnation du responsable à des
-dommages-intérêts doit, dans la limite de leur montant, reverser à la fédération
-départementale des chasseurs l'indemnité déjà versée par celle-ci.
+Il peut également être procédé à l'enfouissement des cadavres d'animaux
+familiers et de sous-produits de gibiers sauvages.
 
-Celui qui obtient du responsable du dommage un règlement amiable, sans l'accord
-de la fédération départementale des chasseurs, perd le droit de réclamer à
-celle-ci une indemnité et doit lui rembourser l'intégralité de celle qui lui
-aurait déjà été versée.
-
-La fédération départementale des chasseurs a toujours la possibilité de demander
-elle-même au responsable, par voie judiciaire ou à l'amiable, de lui verser le
-montant de l'indemnité qu'elle a elle-même accordée.
+Les conditions et les lieux d'incinération et d'enfouissement sont définis par
+arrêté du ministre chargé de l'agriculture et, le cas échéant, des autres
+ministres intéressés.

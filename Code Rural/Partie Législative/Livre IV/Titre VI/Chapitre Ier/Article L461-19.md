@@ -11,8 +11,8 @@ Echappent également au droit de préemption :
 
 2° Les échanges, sous réserve que, s'il y a soulte, celle-ci n'excède pas la
 moitié de la valeur des biens échangés, à moins qu'il ne s'agisse d'opérations
-assimilables à des opérations de remembrement ou rentrant dans le cadre de
-telles opérations ;
+assimilables à des opérations d'aménagement foncier agricole et forestier ou
+rentrant dans le cadre de telles opérations ;
 
 3° Les aliénations de fonds ruraux inclus dans une propriété d'agrément dont ils
 forment l'accessoire.
