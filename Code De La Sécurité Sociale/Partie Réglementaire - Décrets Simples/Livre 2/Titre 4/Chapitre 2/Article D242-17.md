@@ -1,6 +1,12 @@
 Article D242-17
 ----
-Le montant du plafond prenant effet au 1er janvier de chaque année est fixé à
-partir du plafond applicable au 1er janvier de l'année précédente, compte tenu
-de l'évolution moyenne des salaires de l'année précédant l'entrée en vigueur du
-décret prévu à l'article D. 242-16 ci-dessus.
+Le montant du plafond est fixé, pour chaque année civile, à partir du plafond
+applicable au cours de l'année antérieure, ci-après dénommée année de référence.
+Il tient compte de l'évolution moyenne estimée des salaires de cette année de
+référence prévue par le dernier rapport économique et financier annexé au projet
+de loi de finances.
+
+Le cas échéant, le plafond applicable au cours de l'année civile suivante tient
+compte de la nouvelle estimation de l'évolution moyenne des salaires de l'année
+de référence figurant dans le dernier rapport économique et financier annexé au
+projet de loi de finances.
