@@ -25,7 +25,11 @@ L'arrêté interministériel prévu au présent article fixe en outre le plafond
 la prime de déménagement.
 
 Le loyer mensuel payé par les étudiants logés en résidence universitaire est
-réputé égal à 416 F .
+réputé égal à :
+
+431 F lorsqu'il s'agit d'une personne isolée ;
+
+669 F lorsqu'il s'agit d'un ménage.
 
 Ce montant est augmenté de la majoration forfaitaire représentative des charges.
 
@@ -42,21 +46,21 @@ départements d'outre-mer.
 Dans le cas visé à l'alinéa précédent, il est fait application à chaque personne
 ou ménage concerné :
 
--du coefficient N correspondant à la situation familiale du ménage ou de la
+- du coefficient N correspondant à la situation familiale du ménage ou de la
 personne tel que défini à l'article D. 755-24 ;
 
--de l'élément C prévu au présent article dans les conditions fixées par l'arrêté
-mentionné ci-dessus.
+- de l'élément C prévu au présent article dans les conditions fixées par
+l'arrêté mentionné ci-dessus.
 
 Lorsque plusieurs personnes ou ménages constituant des foyers distincts occupent
 le même logement et qu'ils sont copropriétaires du logement et cotitulaires du
 prêt, il est fait application à chaque personne ou ménage concerné :
 
--du coefficient N correspondant à la situation familiale du ménage ou de la
+- du coefficient N correspondant à la situation familiale du ménage ou de la
 personne tel que défini à l'article D. 755-24 ;
 
--de l'élément C prévu au présent article dans des conditions fixées par l'arrêté
-mentionné ci-dessus.
+- de l'élément C prévu au présent article dans des conditions fixées par
+l'arrêté mentionné ci-dessus.
 
 Lorsque le logement occupé est une chambre, le loyer principal effectivement
 payé est pris en compte dans la limite d'un plafond mensuel auquel s'ajoute la
