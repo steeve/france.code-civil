@@ -8,4 +8,7 @@ direction des services fiscaux du lieu de l'établissement, avant le 16 février
 fixé par l'administration.
 
 Dans le même délai, il est remis au contribuable duplicata des renseignements
-figurant sur cet état.
+figurant sur cet état. Les renseignements prévus à l'article 199 quinquies F du
+code général des impots doivent figurer sur la déclaration faite au nom du
+client en application du 1 de l'article 242 ter du même code lorsque cette
+déclaration doit être souscrite.

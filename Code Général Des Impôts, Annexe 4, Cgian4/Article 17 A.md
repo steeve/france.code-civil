@@ -9,12 +9,7 @@ domicile réel ou du siège social du bénéficiaire ainsi que de la pièce
 dont procèdent les revenus payés et le décompte des sommes mises en paiement
 avec l'indication le cas échéant de la retenue opérée au profit du Trésor.
 
-2. Si l'opération fait l'objet du relevé prévu à l'article 58, dernier alinéa de
-l'annexe II précitée elle donne lieu à l'établissement de relevés individuels ou
-collectifs comportant outre les indications sus-énoncées la référence au compte
-du déposant. Toutefois cette référence pourra suppléer sur les relevés
-collectifs l'indication de l'identité et du domicile réel ou du siège social du
-bénéficiaire des coupons.
+2. (Devenu sans objet).
 
 3. Les pièces établies sont réunies en deux liasses relatives l'une aux
 paiements faits à des personnes ayant en France leur domicile réel ou leur siège

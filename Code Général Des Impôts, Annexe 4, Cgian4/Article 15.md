@@ -32,20 +32,9 @@ f. Suivant le cas soit la mention " C " (connu) soit l'indication de la pièce
 justificative présentée ou son numéro de référence à la liste figurant à
 l'article 13.
 
-3° Les relevés visés à l'article 58 de l'annexe II au code général des impôts
-(coupons crédités en compte) portent :
+3° (Devenu sans objet).
 
-a. La désignation et l'adresse de l'établissement qui a porté les coupons au
-crédit du compte;
-
-b. La désignation du titulaire du compte (nom prénoms et adresse du domicile ou
-raison sociale et adresse du siège);
-
-c. Le numéro du compte;
-
-d. L'année au cours de laquelle le compte a été crédité.
-
-4° Les relevés visés aux 2° et 3° comportent en outre :
+4° Les relevés visés au 2° comportent en outre :
 
 a. Le montant imposable à l'impôt sur le revenu déduction faite des seuls frais
 d'encaissement des coupons d'une part des produits de valeurs mobilières à
