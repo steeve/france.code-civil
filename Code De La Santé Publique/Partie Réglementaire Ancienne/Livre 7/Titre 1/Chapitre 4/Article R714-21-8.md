@@ -17,8 +17,9 @@ décret n° 90-92 du 24 janvier 1990 et au 2° de l'article R. 714-21-6 du prés
 code ;
 
 3° Les candidats à une première nomination dans le corps des praticiens
-hospitaliers issus des concours sur titres et travaux prévus aux articles 6-I et
-6-II du décret n° 84-131 du 24 février 1984 qui font acte de candidature à
-l'emploi de praticien hospitalier correspondant ainsi que les candidats à
-l'intégration dans ce corps prévue par le dernier alinéa de l'article 16 du même
-décret.
+hospitaliers issus des épreuves de type 1 du concours national de praticien des
+établissements publics de santé prévues à l'article 3 du décret n° 99-517 du 25
+juin 1999 organisant le concours national de praticien des établissements
+publics de santé qui font acte de candidature à l'emploi de praticien
+hospitalier correspondant ainsi que les candidats à l'intégration dans ce corps
+prévue par le dernier alinéa de l'article 16 du même décret.
