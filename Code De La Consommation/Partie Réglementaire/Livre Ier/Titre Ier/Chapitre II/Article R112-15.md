@@ -20,6 +20,8 @@ n'ont subi l'adjonction que de produits lactés, d'enzymes et de cultures de
 micro-organismes, nécessaires à la fabrication, ou que du sel nécessaire à la
 fabrication des fromages autres que frais ou fondus ;
 
-5° Produits constitués d'un seul ingrédient ;
+5° Produits ne comportant qu'un seul ingrédient à condition que la dénomination
+de vente soit identique au nom de l'ingrédient ou qu'elle permette de déterminer
+la nature de l'ingrédient sans risque de confusion.
 
-6° Agents d'aromatisation dont le support et les additifs devront être indiqués.
+6° (supprimé).

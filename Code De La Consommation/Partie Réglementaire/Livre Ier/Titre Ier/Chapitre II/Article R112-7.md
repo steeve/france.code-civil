@@ -12,10 +12,9 @@ denrée alimentaire possède des caractéristiques particulières alors que tout
 les denrées alimentaires similaires possèdent ces mêmes caractéristiques.
 
 Sous réserve des dispositions applicables aux denrées destinées à une
-alimentation particulière au sens du décret n° 81-574 du 15 mai 1981 ainsi
-qu'aux eaux minérales naturelles, l'étiquetage d'une denrée alimentaire ne doit
-pas faire état de propriétés de prévention, de traitement et de guérison d'une
-maladie humaine ni évoquer ces propriétés.
+alimentation particulière ainsi qu'aux eaux minérales naturelles, l'étiquetage
+d'une denrée alimentaire ne doit pas faire état de propriétés de prévention, de
+traitement et de guérison d'une maladie humaine ni évoquer ces propriétés.
 
 Les interdictions ou restrictions prévues ci-dessus s'appliquent également à la
 présentation des denrées alimentaires, notamment à la forme ou à l'aspect donné
