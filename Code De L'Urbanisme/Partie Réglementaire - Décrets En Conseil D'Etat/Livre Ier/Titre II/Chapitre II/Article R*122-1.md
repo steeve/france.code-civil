@@ -1,11 +1,7 @@
 Article R*122-1
 ----
-Les schémas directeurs d'aménagement et d'urbanisme sont établis pour les
-communes, parties ou ensembles de communes dont les perspectives d'évolution
-requièrent la définition d'orientations fondamentales d'aménagement devant
-constituer le cadre des interventions de l'Etat, des collectivités locales et
-des établissements et services publics [*champ d'application*].
-
-Les schémas directeurs d'aménagement et d'urbanisme sont établis dans le cadre
-des directives nationales d'aménagement du territoire et éventuellement de
-directives particulières données par le préfet de région.
+Les schémas directeurs et les schémas de secteur sont établis pour des communes,
+parties ou ensembles de communes comprises dans des agglomérations ou des
+ensembles géographiques présentant une communauté d'intérêts économiques et
+sociaux et dont les perspectives d'évolution, de mise en valeur et de protection
+requièrent la définition d'orientations fondamentales d'aménagement.
