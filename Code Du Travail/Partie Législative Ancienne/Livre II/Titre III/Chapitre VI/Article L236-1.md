@@ -30,17 +30,16 @@ Les entreprises de moins de cinquante salariés peuvent se regrouper sur un plan
 professionnel ou interprofessionnel en vue de la constitution d'un comité
 d'hygiène, de sécurité et des conditions de travail.
 
-Dans la branche d'activité du bâtiment et des travaux publics, les entreprises
-occupant habituellement au moins trois cents salariés sont tenues, nonobstant
-leur obligation d'adhérer à un organisme professionnel d'hygiène, de sécurité et
-des conditions de travail créé en application du 4° de l'article L. 231-2, de
-mettre en place un comité d'hygiène, de sécurité et des conditions de travail.
-Ces entreprises sont également tenues de mettre en place un comité d'hygiène, de
-sécurité et des conditions de travail dans leurs établissements occupant
-habituellement au moins cinquante salariés.En outre, sur proposition de
-l'inspecteur du travail saisi par le comité d'entreprise ou, en l'absence de
-celui-ci, par les délégués du personnel, le directeur régional du travail et de
-l'emploi peut imposer la création d'un comité dans les entreprises occupant
-entre 50 et 299 salariés [*effectif*] lorsque cette mesure est nécessaire en
-raison du danger particulier de l'activité ou de l'importance des risques
-constatés.
+Dans la branche d'activité du bâtiment et des travaux publics, les dispositions
+du présent article s'appliquent, à l'exclusion du troisième alinéa, aux
+établissements occupant habituellement au moins cinquante salariés [*effectif*].
+En outre, dans les entreprises employant au moins cinquante salariés dans
+lesquelles aucun établissement n'est tenu de mettre en place un comité, sur
+proposition de l'inspecteur du travail saisi par le comité d'entreprise ou, en
+l'absence de celui-ci par les délégués du personnel, le directeur régional du
+travail et de l'emploi peut imposer la création d'un comité lorsque cette mesure
+est nécessaire en raison du danger particulier de l'activité ou de l'importance
+des risques constatés. La mise en place d'un comité d'hygiène, de sécurité et
+des conditions de travail ne dispense pas les entreprises de leur obligation
+d'adhérer à un organisme professionnel de sécurité et des conditions de travail
+créé en application de l'article L. 231-2.
