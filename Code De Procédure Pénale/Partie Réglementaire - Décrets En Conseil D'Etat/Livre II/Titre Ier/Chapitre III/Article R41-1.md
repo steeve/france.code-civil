@@ -11,9 +11,9 @@ Val-d'Oise et des Yvelines ;
 
 3° Cent jurés pour les cours d'assises du Calvados, de la Corse-du-Sud, de la
 Haute-Corse, du Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de
-l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de
-Meurthe-et-Moselle, de la Meuse, du Pas-de-Calais, des Pyrénées-Atlantiques, de
-la Réunion, de la Seine-Maritime, de la Somme, du Var, de Vaucluse et des Vosges
-;
+l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de la Marne,
+de Meurthe-et-Moselle, de la Meuse, du Pas-de-Calais, des Pyrénées-Atlantiques,
+de la Réunion, du Bas-Rhin, du Haut-Rhin, de la Seine-Maritime, de la Somme, du
+Var, de Vaucluse et des Vosges ;
 
 4° Cinquante jurés pour les autres cours d'assises.
