@@ -44,13 +44,13 @@ continue pour 75 % au moins par des personnes physiques ou des personnes morales
 détenues par des personnes physiques. Pour la détermination de ce pourcentage,
 les participations des sociétés de capital-risque, des sociétés de développement
 régional et des sociétés financières d'innovation ne sont pas prises en compte à
-la condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de
-l'article 39 terdecies entre la société bénéficiaire de l'apport et ces
-dernières sociétés. De même, ce pourcentage ne tient pas compte des
-participations des fonds communs de placement à risque et des fonds communs de
-placement dans l'innovation. Cette condition n'est pas exigée lorsque les titres
-de la société bénéficiaire de l'apport sont ultérieurement admis à la
-négociation sur un marché français ou étranger ;
+la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
+39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même,
+ce pourcentage ne tient pas compte des participations des fonds communs de
+placement à risque et des fonds communs de placement dans l'innovation. Cette
+condition n'est pas exigée lorsque les titres de la société bénéficiaire de
+l'apport sont ultérieurement admis à la négociation sur un marché français ou
+étranger ;
 
 f) Les droits sociaux représentatifs de l'apport en numéraire doivent être
 détenus directement et en pleine propriété par le contribuable ;

@@ -14,13 +14,12 @@ paiement des produits de la participation.
 
 Si, à la date mentionnée au premier alinéa, la participation dans le capital de
 la société émettrice est réduite à moins de 5 p. 100 du fait de l'exercice
-d'options de souscription d'actions dans les conditions prévues à l'article 208
-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le
-régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau
-atteint à la suite de la première augmentation de capital suivant cette date et
-au plus tard dans un délai de trois ans.
+d'options de souscription d'actions dans les conditions prévues à l'article L.
+225-183 du code de commerce, le régime des sociétés mères lui reste applicable
+si ce pourcentage est à nouveau atteint à la suite de la première augmentation
+de capital suivant cette date et au plus tard dans un délai de trois ans ;
 
-c. Les titres de participation doivent avoir été souscrits à l'émission. A
+c. Les titres de participations doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
 conserver pendant un délai de deux ans.
 
@@ -47,48 +46,49 @@ dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
 marchés financiers, ne peuvent être pris en compte pour l'application du régime
 défini au présent article par les parties à l'opération de pension.
 
-2. 3. 4. (Abrogés).
+2. à 4. (Abrogés pour la détermination des résultats des exercices ouverts à
+compter du 1er janvier 1993).
 
-4. bis (Abrogé).
-
-5. (Abrogé).
+4. bis et 5. (Abrogés).
 
 6. Le régime fiscal des sociétés mères n'est pas applicable :
 
 a. Aux produits des actions de sociétés d'investissement, des sociétés de
 développement régional ;
 
-b. b bis. (Abrogés).
+b. b bis. (Abrogés pour la détermination des résultats des exercices ouverts à
+compter du 1er janvier 1993).
 
-b. ter Aux produits des titres auxquels ne sont pas attachés des droits de vote.
+b. ter Aux produits des titres auxquels ne sont pas attachés des droits de vote
+;
 
 c. (Périmé)
 
 d. Aux dividendes distribués aux actionnaires des sociétés immobilières pour le
-commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208
-et prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du
-même article.
+commerce et l'industrie visés au dixième alinéa du 3° quater de l'article 208 et
+prélevés sur les bénéfices exonérés visés au neuvième alinéa du 3° quater du
+même article ;
 
 e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le
 financement des télécommunications visées à l'article 1er de la loi n° 69-1160
 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une
-société immobilière pour le commerce et l'industrie en application du quatrième
-alinéa de l'article 208 3° quinquies.
+société immobilière pour le commerce et l'industrie en application du huitième
+alinéa du 3° quinquies de l'article 208 ;
 
-f. (abrogé)
+f. (abrogé pour les exercices ouverts à compter du 1er janvier 2000).
 
 g. Aux produits et plus-values nets distribués par les sociétés de
 capital-risque exonérés en application du 3° septies de l'article 208.
 
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des
-actions des sociétés immobilières d'investissement régies par l'article 33-I de
-la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion régies
-par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas et
-pendant les périodes ci-après :
+actions des sociétés immobilières d'investissement régies par le I de l'article
+33 de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion
+régies par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas
+et pendant les périodes ci-après :
 
-1° Pendant vingt-cinq ans à compter de leur émission, pour les action souscrites
-en espèces et entièrement libérées par les sociétés participantes avant le 1er
-janvier 1966 ;
+1° Pendant vingt-cinq ans à compter de leur émission, pour les actions
+souscrites en espèces et entièrement libérées par les sociétés participantes
+avant le 1er janvier 1966 ;
 
 2° (Disposition périmée).
 
@@ -102,12 +102,11 @@ En ce qui concerne les actions visées aux 1°, aucun pourcentage minimal de
 participation n'est exigé pour l'application du régime défini au présent
 article.
 
-8. (Transféré).
+8. (Transféré sous le paragraphe 6 d ci-dessus).
 
-9. Une participation détenue en application de l'article 6 de la loi n° 88-50 du
-18 janvier 1988 relative à la mutualisation de la Caisse nationale de crédit
-agricole ou des articles L. 512-10, L. 512-55 et L. 512-94 du code monétaire et
-financier qui remplit les conditions ouvrant droit au régime fiscal des sociétés
-mères autres que celle relative au taux de participation au capital de la
-société émettrice peut ouvrir droit à ce régime lorsque son prix de revient est
-au moins égal à 150 millions de francs.
+9. Une participation détenue en application des articles L. 512-10, L. 512-47,
+L. 512-55 et L. 512-94 du code monétaire et financier qui remplit les conditions
+ouvrant droit au régime fiscal des sociétés mères autres que celle relative au
+taux de participation au capital de la société émettrice peut ouvrir droit à ce
+régime lorsque son prix de revient, apprécié collectivement ou individuellement
+pour les entités visées ci-dessus, est au moins égal à 22 800 000 euros.

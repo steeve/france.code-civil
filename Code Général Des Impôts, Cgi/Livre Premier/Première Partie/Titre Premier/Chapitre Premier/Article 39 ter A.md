@@ -8,4 +8,4 @@ premier exercice clos à compter du 31 décembre 2000 ne rapportent à leurs
 résultats imposables, au même rythme que l'amortissement, qu'une somme égale à
 20 % du montant de ces investissements. Toutefois, le montant non rapporté en
 application des dispositions prévues à la phrase qui précède ne peut excéder
-globalement 16 millions de francs.
+globalement 2 440 000 €.

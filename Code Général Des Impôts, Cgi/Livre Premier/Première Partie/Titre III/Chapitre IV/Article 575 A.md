@@ -3,39 +3,27 @@ Article 575 A
 Pour les différents groupes de produits définis à l'article 575, le taux normal
 est fixé conformément au tableau ci-après :
 
-Groupe de produits : Cigarettes
+GROUPE DE PRODUITS/ TAUX NORMAL (applicable au 1er janvier 2002)
 
-Taux normal à compter du 1er avril 2000 : 58,99
+Cigarettes : 58,99
 
-Groupe de produits : Cigares
+Cigares : 20,00
 
-Taux normal à compter du 1er avril 2000 : 25,00 (1)
+Tabacs fine coupe destinés à rouler les cigarettes : 51,69
 
-Groupe de produits : Tabacs fine coupe destinés à rouler les cigarettes
+Autres tabacs à fumer : 47,43
 
-Taux normal à compter du 1er avril 2000 : 51,69
+Tabacs à priser : 40,89
 
-Groupe de produits : Autres tabacs à fumer
+Tabacs à mâcher : 28,16
 
-Taux normal à compter du 1er avril 2000 : 47,43
+Le minimum de perception mentionné à l'article 575 est fixé à 90 euros (1) pour
+les cigarettes. Toutefois, pour les cigarettes brunes, ce minimum de perception
+est fixé à 87 euros (1).
 
-Groupe de produits : Tabacs à priser
-
-Taux normal à compter du 1er avril 2000 : 40,89
-
-Groupe de produits : Tabacs à mâcher
-
-Taux normal à compter du 1er avril 2000 : 28,16
-
-Le minimum de perception mentionné à l'article 575 est fixé à 540 F (1) pour les
-cigarettes. Toutefois, pour les cigarettes brunes, ce minimum de perception est
-fixé à 510 F (1).
-
-Il est fixé à 270 F pour les tabacs de fine coupe destinés à rouler les
-cigarettes et à 330 F pour les cigares (1).
+Il est fixé à 45 euros (1) pour les tabacs de fine coupe destinés à rouler les
+cigarettes et les autres tabacs à fumer et à 55 euros (1) pour les cigares.
 
 Sont considérées comme cigarettes brunes les cigarettes dont la composition en
 tabac naturel comprend un minimum de 60 % de tabacs relevant des codes NC
 2401-10-41, 2401-10-70, 2401-20-41 ou 2401-20-70 du tarif des douanes.
-
-(1) Ces dispositions s'appliquent à compter du 8 janvier 2001.

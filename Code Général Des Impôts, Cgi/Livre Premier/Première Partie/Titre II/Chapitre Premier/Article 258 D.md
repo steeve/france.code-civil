@@ -6,8 +6,8 @@ dispose d'un numéro d'identification à la taxe sur la valeur ajoutée dans un
 autre Etat membre de la Communauté, ne sont pas soumises à la taxe sur la valeur
 ajoutée lorsque les conditions suivantes sont réunies :
 
-1° L'acquéreur est un assujetti qui n'est pas établi en France et qui n'y a pas
-désigné de représentant en application du I de l'article 289 A ;
+1° L'acquéreur est un assujetti qui n'est pas établi ou identifié en France et
+qui n'y a pas désigné de représentant en application du I de l'article 289 A ;
 
 2° L'acquisition intracommunautaire est effectuée pour les besoins d'une
 livraison consécutive du même bien à destination d'un assujetti ou d'une
@@ -27,12 +27,12 @@ b. Le numéro d'identification à la taxe sur la valeur ajoutée en France du
 destinataire de la livraison ;
 
 c. La mention : " Application de l'article 28 quater, titre E, paragraphe 3, de
-la directive (C.E.E.) n° 77-388 du 17 mai 1977 modifiée ".
+la directive (CEE) n° 77-388 du 17 mai 1977 modifiée ".
 
 II. Pour l'application du II de l'article 258 C, sont considérées comme soumises
 à la taxe sur la valeur ajoutée dans l'Etat membre de destination des biens, les
 acquisitions qui y sont réalisées dans les conditions de l'article 28 quater,
-titre E, paragraphe 3, de la directive (C.E.E.) n° 77-388 du Conseil des
+titre E, paragraphe 3, de la directive (CEE) n° 77-388 du Conseil des
 communautés européennes du 17 mai 1977, en matière d'harmonisation des
 législations des Etats membres relatives aux taxes sur le chiffre d'affaires,
 modifiée, et sous réserve que l'acquéreur :
@@ -47,8 +47,8 @@ b. Le numéro d'identification à la taxe sur la valeur ajoutée du destinataire
 la livraison consécutive dans l'Etat membre où les biens ont été expédiés ou
 transportés ;
 
-c. La mention : " Application de l'article 28 quater, titre E, paragraphe 3, de
-la directive (C.E.E.) n° 77-388 du 17 mai 1977 modifiée ".
+c. La mention : "Application de l'article 28 quater, titre E, paragraphe 3, de
+la directive (CEE) n° 77-388 du 17 mai 1977 modifiée".
 
 2° Dépose l'état récapitulatif mentionné à l'article 289 B dans lequel doivent
 figurer distinctement :
@@ -62,7 +62,5 @@ transportés ;
 c. Pour chaque destinataire, le montant total, hors taxe sur la valeur ajoutée,
 des livraisons de biens consécutives effectuées dans l'Etat membre où les biens
 ont été expédiés ou transportés. Ces montants sont déclarés au titre de la
-période où la taxe sur la valeur ajoutée est devenue exigible sur ces
-livraisons. (1).
-
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1993.
+période où la taxe sur la valeur ajoutée est devenue exigible sur ces livraisons
+(1).

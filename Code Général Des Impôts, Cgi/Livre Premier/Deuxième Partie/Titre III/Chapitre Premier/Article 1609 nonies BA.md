@@ -40,6 +40,15 @@ c. les dispositions des articles 1648 A et 1648 AA ne s'appliquent pas à la
 partie de la zone d'activités située hors de l'agglomération nouvelle, mais qui
 fait l'objet de la convention.
 
+3. Lorsqu'une commune fait application des dispositions du présent article,
+l'établissement public de coopération intercommunale soumis au régime de
+l'article 1609 nonies C auquel elle adhère lui est substitué dans les
+délibérations qu'elle a prises en application du I. L'agglomération nouvelle se
+substitue à cet établissement public de coopération intercommunale pour
+l'application de l'ensemble des dispositions relatives à la taxe professionnelle
+et perçoit le produit de la taxe acquittée dans la zone pour la période de la
+convention restant à courir. Les dispositions du 2 sont applicables.
+
 III. Toutefois, l'organisme délibérant de l'agglomération nouvelle et le conseil
 municipal de la commune peuvent décider, par délibérations concordantes, de
 réduire progressivement dans la partie de la zone d'activités située hors de

@@ -4,18 +4,17 @@ Les impositions énumérées ci-après sont recouvrées et les infractions répr
 selon les modalités et sous le bénéfice des sûretés prévues en matière de taxe
 sur la valeur ajoutée, par l'administration chargée de les percevoir :
 
-1° à 3° (Abrogés);
+1° à 3° (Abrogés) ;
 
-4° (Abrogé) ;
+4° (Abrogé à compter du 1er janvier 1993) ;
 
-5° et 6° (Abrogés);
+5° et 6° (Abrogés) ;
 
-7° (Abrogé par la loi 95-1346).
+7° (Abrogé à compter du 1er janvier 1996) ;
 
-8° et 9° (Abrogés);
+8° et 9° (Abrogés) ;
 
-10° Cotisation incluse dans la taxe sur la valeur ajoutée (art. 1609
-septdecies).
+10° cotisation incluse dans la taxe sur la valeur ajoutée (art. 1609 septdecies)
+;
 
-11° La taxe spéciale sur le prix des places de spectacles cinématographiques
-(art. 1609 duovicies).
+11° (Abrogé à compter du 1er janvier 2002).

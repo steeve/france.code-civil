@@ -1,139 +1,130 @@
 Article 1609 duovicies
 ----
-Il est perçu une taxe spéciale incluse dans le prix des billets d'entrée dans
-les salles de spectacles cinématographiques quels que soient le procédé de
-fixation ou de transmission et la nature du support des oeuvres ou documents
-audiovisuels qui y sont présentés.
+I. - Il est perçu une taxe spéciale sur les billets d'entrée dans les salles de
+spectacles cinématographiques due mensuellement par les exploitants de ces
+salles. Cette taxe est due quels que soient le procédé de fixation ou de
+transmission et la nature du support des oeuvres ou documents audiovisuels qui y
+sont présentés.
+
+II. - La taxe spéciale est perçue dans les salles où sont données au moins deux
+séances par semaine. Toutefois, la taxe n'est pas perçue dans les salles
+définies comme petites exploitations dont les exploitants auront renoncé au
+bénéfice du régime de soutien financier de l'Etat à l'industrie
+cinématographique.
+
+Les petites exploitations cinématographiques sont celles qui enregistrent moins
+de 1200 entrées hebdomadaires en moyenne pendant une période continue d'une
+année civile et qui réalisent moins de 370 euros de recettes hebdomadaires en
+moyenne pendant la même période. Ces conditions sont appréciées par salle.
+
+Un décret fixe les modalités d'application de cette disposition et, notamment,
+la durée de validité de la renonciation mentionnée au premier alinéa.
+
+Les représentations assujetties au paiement de la taxe spéciale sont soumises
+aux dispositions du code de l'industrie cinématographique.
+
+III. - La taxe est assise sur le prix des billets d'entrée délivrés aux
+spectateurs pendant les semaines cinématographiques achevées au cours du mois
+considéré.
 
 Le prix des billets d'entrée s'entend du prix effectivement acquitté par le
 spectateur ou, en cas de formule d'accès au cinéma donnant droit à des entrées
 multiples, du prix de référence par place sur lequel s'engage l'exploitant de
 salle et qui constitue la base de la répartition des recettes entre ce dernier
-et le distributeur et les ayants droit de chaque oeuvre cinématographique (1).
+et le distributeur et les ayants droit de chaque oeuvre cinématographique.
 
-Les représentations assujetties au paiement de la taxe spéciale sont soumises
-aux dispositions du code de l'industrie cinématographique.
+IV. - La taxe spéciale est due selon le tarif ci après :
 
-La taxe spéciale est due selon le tarif ci-après :
+- 0,03 euro pour les places dont le prix est inférieur à 0,70 euro ;
 
-0,20 F pour les places dont le prix est inférieur à 5 F ;
+- 0,11 euro pour les places dont le prix est égal ou supérieur à 0,70 euro et
+inférieur à 0,90 euro ;
 
-0,75 F pour les places dont le prix est égal ou supérieur à 5 F et inférieur à 6
-F ;
+- 0,13 euro pour les places dont le prix est égal ou supérieur à 0,90 euro et
+inférieur à 1,00 euro ;
 
-0,85 F pour les places dont le prix est égal ou supérieur à 6 F et inférieur à 7
-F ;
+- 0,16 euro pour les places dont le prix est égal ou supérieur à 1,00 euro et
+inférieur à 1,20 euro ;
 
-1,05 F pour les places dont le prix est égal ou supérieur à 7 F et inférieur à 8
-F ;
+- 0,18 euro pour les places dont le prix est égal ou supérieur à 1,20 euro et
+inférieur à 1,50 euro ;
 
-1,20 F pour les places dont le prix est égal ou supérieur à 8 F et inférieur à
-9,40 F ;
+- 0,22 euro pour les places dont le prix est égal ou supérieur à 1,50 euro et
+inférieur à 1,60 euro ;
 
-1,40 F pour les places dont le prix est égal ou supérieur à 9,40 F et inférieur
-à 10,50 F ;
+- 0,23 euro pour les places dont le prix est égal ou supérieur à 1,60 euro et
+inférieur à 1,70 euro ;
 
-1,50 F pour les places dont le prix est égal ou supérieur à 10,50 F et inférieur
-à 11,50 F ;
+- 0,24 euro pour les places dont le prix est égal ou supérieur à 1,70 euro et
+inférieur à 1,80 euro ;
 
-1,60 F pour les places dont le prix est égal ou supérieur à 11,50 F et inférieur
-à 12,50 F ;
+- 0,25 euro pour les places dont le prix est égal ou supérieur à 1,80 euro et
+inférieur à 1,90 euro ;
 
-1,70 F pour les places dont le prix est égal ou supérieur à 12,50 F et inférieur
-à 13,80 F ;
+- 0,26 euro pour les places dont le prix est égal ou supérieur à 1,90 euro et
+inférieur à 2,00 euros ;
 
-1,80 F pour les places dont le prix est égal ou supérieur à 13,80 F et inférieur
-à 14,90 F ;
+- 0,27 euro pour les places dont le prix est égal ou supérieur à 2,00 euros et
+inférieur à 2,10 euros ;
 
-1,90 F pour les places dont le prix est égal ou supérieur à 14,90 F et inférieur
-à 16 F ;
+- 0,28 euro pour les places dont le prix est égal ou supérieur à 2,10 euros et
+inférieur à 2,30 euros ;
 
-2 F pour les places dont le prix est égal ou supérieur à 16 F et inférieur à 17
-F ;
+- 0,29 euros pour les places dont le prix est égal ou supérieur à 2,30 euros et
+inférieur à 2,50 euros ;
 
-2,10 F pour les places dont le prix est égal ou supérieur à 17 F et inférieur à
-18 F ;
+- 0,30 euros pour les places dont le prix est égal ou supérieur à 2,50 euros et
+inférieur à 2,60 euros ;
 
-2,25 F pour les places dont le prix est égal ou supérieur à 18 F et inférieur à
-19 F ;
+- 0,32 euros pour les places dont le prix est égal ou supérieur à 2,60 euros et
+inférieur à 2,70 euros ;
 
-2,35 F pour les places dont le prix est égal ou supérieur à 19 F et inférieur à
-20 F ;
+- 0,34 euros pour les places dont le prix est égal ou supérieur à 2,70 euros et
+inférieur à 2,80 euros.
 
-2,45 F pour les places dont le prix est égal ou supérieur à 20 F et inférieur à
-21 F ;
+Pour les places dont le prix est égal ou supérieur à 2,80 euros et inférieur à
+4,30 euros, la taxe est majorée de 0,01 euros chaque fois que le prix de la
+place atteint un multiple de 0,10 euros ;
 
-2,55 F pour les places dont le prix est égal ou supérieur à 21 F et inférieur à
-22 F ;
+- 0,50 euros pour les places dont le prix est égal ou supérieur à 4,30 euros et
+inférieur à 4,70 euros ;
 
-2,65 F pour les places dont le prix est égal ou supérieur à 22 F et inférieur à
-23 F ;
+- 0,52 euros pour les places dont le prix est égal ou supérieur à 4,70 euros et
+inférieur à 4,80 euros.
 
-2,75 F pour les places dont le prix est égal ou supérieur à 23 F et inférieur à
-24 F ;
-
-2,85 F pour les places dont le prix est égal ou supérieur à 24 F et inférieur à
-25 F ;
-
-2,95 F pour les places dont le prix est égal ou supérieur à 25 F et inférieur à
-26 F ;
-
-3,05 F pour les places dont le prix est égal ou supérieur à 26 F et inférieur à
-27 F ;
-
-3,15 F pour les places dont le prix est égal ou supérieur à 27 F et inférieur à
-28 F ;
-
-3,20 F pour les places dont le prix est égal ou supérieur à 28 F et inférieur à
-29 F ;
-
-3,25 F pour les places dont le prix est égal ou supérieur à 29 F et inférieur à
-30 F ;
-
-3,30 F pour les places dont le prix est égal ou supérieur à 30 F et inférieur à
-31 F.
-
-Au-delà, la taxe est majorée de 0,10 F chaque fois que le prix de la place
-atteint un multiple de 1 F.
+Au-delà, la taxe est majorée de 0,01 euro chaque fois que le prix de la place
+atteint un multiple de 0,10 euro.
 
 Ces taux sont multipliés par 1,5 en cas de projection de films de caractère
 pornographique ou d'incitation à la violence.
 
 Les spectacles cinématographiques auxquels s'appliquent ces dispositions sont
-désignés par le ministre chargé du cinéma après avis de la commission de
-contrôle des films cinématographiques. Les réclamations et les recours
-contentieux relatifs à ces décisions sont instruits par le département de la
-culture.
+désignés par le ministre chargé de la culture et de la communication après avis
+de la commission de classification des films cinématographiques. Les
+réclamations et les recours contentieux relatifs à ces décisions sont instruits
+par le ministère de la culture.
 
-La taxe spéciale est perçue dans les salles où sont donnés au moins deux séances
-par semaine. Toutefois, la taxe n'est pas perçue dans les salles définies comme
-petites exploitations, dont les exploitants auront renoncé au bénéfice du régime
-de soutien financier de l'Etat à l'industrie cinématographique ; un décret pris
-sur le rapport du ministre d'Etat chargé des affaires culturelles et du ministre
-de l'économie et des finances fixe les modalités d'application de cette
-disposition et, notamment, la durée de validité de l'option exercée par les
-exploitants.
-
-Le montant de la taxe ne peut entrer en compte dans la détermination de
+V. - Le montant de la taxe ne peut entrer en compte dans la détermination de
 l'assiette des divers impôts, taxes et droits de toute nature autres que la taxe
-sur la valeur ajoutée auxquels est soumise la recette normale des salles de
-spectacles cinématographiques.
+sur la valeur ajoutée auxquels est soumise la recette des salles de spectacles
+cinématographiques.
 
-Le contentieux de la taxe est assuré et les infractions en matière d'assiette
-sont sanctionnées selon les règles propres à la taxe sur la valeur ajoutée.
+VI. - La taxe spéciale n'est pas perçue dans les salles des départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
-Les sanctions applicables à la taxe spéciale sur le prix des places
-cinématographiques ne peuvent être mises en recouvrement avant l'expiration d'un
-délai de trente jours à compter de la notification du document par lequel
-l'administration a fait connaître au contrevenant la sanction qu'elle se propose
-d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé
-de présenter dans ce délai ses observations.
+VII. - Les personnes redevables de la taxe doivent déposer pour chaque salle de
+spectacles cinématographiques une déclaration conforme au modèle prescrit par la
+direction générale des impôts et comportant les indications nécessaires à
+l'assiette et à la perception de la taxe.
 
-Le produit de la taxe est porté en recettes au compte d'affectation spéciale
-institué par l'article 76 de la loi de finances pour 1960 (n° 59-1454 du 26
-décembre 1959).
+Cette déclaration est souscrite auprès de la recette des impôts dont relève la
+salle de spectacles cinématographiques. Elle est déposée en un seul exemplaire
+avant le 25 du mois suivant celui au cours duquel les opérations imposables ont
+été réalisées. La taxe est acquittée dans le même délai.
 
-La taxe spéciale prévue au premier alinéa n'est pas perçue dans les salles des
-départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
+VIII. - La taxe spéciale est recouvrée et contrôlée selon les mêmes procédures
+et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la
+valeur ajoutée.
 
-(1) Ces dispositions entrent en vigueur à compter du 1er janvier 2001.
+Les réclamations sont présentées, instruites et jugées selon les règles
+applicables à cette même taxe.

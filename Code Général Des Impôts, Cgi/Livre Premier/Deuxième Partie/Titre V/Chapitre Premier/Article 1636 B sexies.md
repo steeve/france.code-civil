@@ -1,10 +1,10 @@
 Article 1636 B sexies
 ----
-I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B
-decies, les conseils généraux, les conseils municipaux et les instances
-délibérantes des organismes de coopération intercommunale dotés d'une fiscalité
-propre votent chaque année les taux des taxes foncières, de la taxe d'habitation
-et de la taxe professionnelle. Ils peuvent :
+I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B decies
+les conseils généraux, les conseils municipaux et les instances délibérantes des
+organismes de coopération intercommunale dotés d'une fiscalité propre votent
+chaque année les taux des taxes foncières, de la taxe d'habitation et de la taxe
+professionnelle. Ils peuvent :
 
 a) Soit faire varier dans une même proportion les taux des quatre taxes
 appliqués l'année précédente ;
@@ -54,7 +54,7 @@ foncières et de la taxe professionnelle sont majorés des taux de ces
 celle de l'imposition.
 
 Lorsque au titre d'une année il est fait application des dispositions du premier
-ou du deuxième alinéa la variation en hausse du taux de la taxe d'habitation ou
+ou du deuxième alinéa, la variation en hausse du taux de la taxe d'habitation ou
 du taux moyen de la taxe d'habitation et des taxes foncières à prendre en
 compte, pour l'application du 1, pour la détermination du taux de la taxe
 professionnelle ou du taux de la taxe foncière sur les propriétés non bâties,
@@ -65,7 +65,7 @@ la taxe foncière sur les propriétés non bâties a été augmenté dans ces
 conditions, il ne peut pas être fait application du premier ou du deuxième
 alinéa pendant les trois années suivantes.
 
-3. Pour les départements et les communes lorsque le taux de la taxe
+3. Pour les départements et les communes, lorsque le taux de la taxe
 professionnelle ainsi déterminé est inférieur à la moyenne constatée pour cette
 taxe l'année précédente dans l'ensemble des collectivités de même nature, il
 peut faire l'objet d'une majoration au plus égale à 5 p. 100 de cette moyenne
@@ -85,19 +85,34 @@ précédente par la communauté urbaine.
 Dans les communes, membres d'un établissement public de coopération
 intercommunale, qui, l'année de l'adhésion à l'établissement public de
 coopération intercommunale et l'année suivante, ont rempli les conditions pour
-bénéficier des dispositions du premier ou du deuxième alinéa, le conseil
-municipal peut, à compter de la deuxième année suivant celle de l'adhésion,
-majorer le taux de taxe professionnelle selon les modalités prévues ci-dessus
-lorsque, à compter de cette même année, le taux de la taxe professionnelle
-déterminé en application du 1 est inférieur à la moyenne constatée pour cette
-taxe l'année précédente dans l'ensemble des communes et que le taux moyen
-pondéré des trois autres taxes perçues au profit de la collectivité concernée
-est au plus inférieur de 20 p. 100 au taux moyen pondéré constaté l'année
-précédente pour ces trois taxes dans l'ensemble des communes. Ces règles sont
-applicables pour les communes qui ont adhéré à un établissement public de
-coopération intercommunale à compter de 1995.
+bénéficier des dispositions du premier alinéa, le conseil municipal peut, à
+compter de la deuxième année suivant celle de l'adhésion, majorer le taux de
+taxe professionnelle selon les modalités prévues ci-dessus lorsque, à compter de
+cette même année, le taux de la taxe professionnelle déterminé en application du
+1 est inférieur à la moyenne constatée pour cette taxe l'année précédente dans
+l'ensemble des communes et que le taux moyen pondéré des trois autres taxes
+perçues au profit de la collectivité concernée est au plus inférieur de 20 % au
+taux moyen pondéré constaté l'année précédente pour ces trois taxes dans
+l'ensemble des communes. Ces règles sont applicables pour les communes qui ont
+adhéré à un établissement public de coopération intercommunale à compter de
+1995.
 
-4. et 5. (périmés).
+4. Par exception aux dispositions du b du 1, pour les départements dans lesquels
+le taux de taxe professionnelle de l'année précédente est inférieur au taux
+moyen national de cette taxe constaté la même année pour l'ensemble des
+départements, le conseil général peut, sans pouvoir dépasser ce taux, augmenter
+son taux de taxe professionnelle, par rapport à l'année précédente, dans la
+limite d'une fois et demie l'augmentation de son taux de taxe d'habitation ou,
+si elle est moins élevée, de son taux moyen pondéré de la taxe d'habitation et
+des taxes foncières.
+
+Les dispositions du premier alinéa ne sont pas applicables lorsqu'il est fait
+application des dispositions du quatrième alinéa du 2.
+
+La majoration prévue au 3 n'est pas applicable l'année au titre de laquelle il
+est fait application des dispositions du premier alinéa (1).
+
+5. (Périmé).
 
 I bis. 1. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de

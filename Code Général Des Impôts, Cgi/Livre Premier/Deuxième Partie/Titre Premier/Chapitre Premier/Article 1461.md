@@ -22,3 +22,9 @@ conditions telles qu'elle peut être tenue pour désintéressée.
 6° L'Union d'économie sociale prévue à l'article L. 313-17 du code de la
 construction et de l'habitation, sauf pour les activités effectuées en
 application du 5° de l'article L. 313-19 du même code.
+
+7° Les syndicats professionnels, quelle que soit leur forme juridique, et leurs
+unions pour leurs activités portant sur l'étude et la défense des droits et des
+intérêts collectifs matériels ou moraux de leurs membres ou des personnes qu'ils
+représentent et à condition qu'ils fonctionnent conformément aux dispositions
+qui les régissent.

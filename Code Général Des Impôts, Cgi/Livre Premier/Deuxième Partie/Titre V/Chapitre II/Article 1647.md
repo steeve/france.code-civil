@@ -20,7 +20,7 @@ cotisations perçues au profit des organismes de sécurité sociale soumis au
 contrôle de la cour des comptes, dans les conditions déterminées par les
 articles L. 154-1 et L. 154-2 du code de la sécurité sociale. Le taux de ce
 prélèvement et les modalités de remboursement sont fixés par arrêté du ministre
-de l'économie et des finances.
+de l'économie et des finances (1).
 
 IV. (Sans objet).
 

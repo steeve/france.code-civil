@@ -35,29 +35,27 @@ au moins des parts de la copropriété et prend un engagement en ce sens envers
 les autres souscripteurs ;
 
 h) Le navire n'est pas acquis auprès d'un organisme, ou d'une entreprise, lié
-directement ou indirectement, au sens des dispositions du 1 bis de l'article 39
-terdecies, à l'entreprise mentionnée au f.
+directement ou indirectement, au sens des dispositions du 12 de l'article 39, à
+l'entreprise mentionnée au f.
 
 En outre, le projet de copropriété quirataire doit avoir fait, préalablement à
 sa réalisation, l'objet d'un agrément délivré par le ministre chargé du budget
 après avis du ministre chargé de la marine marchande et du ministre chargé de
 l'équipement naval. Cet agrément est accordé lorsque l'investissement, effectué
 au prix du marché et à un coût financier normal, permet de renforcer la flotte
-de l'entreprise mentionnée au f du premier alinéa et présente, au regard
-notamment des besoins du secteur concerné de la flotte de commerce, un intérêt
-économique justifiant l'avantage fiscal demandé.
+de l'entreprise mentionnée au f et présente, au regard notamment des besoins du
+secteur concerné de la flotte de commerce, un intérêt économique justifiant
+l'avantage fiscal demandé.
 
-Dans le cas où l'une des conditions fixées au a et b et d à h du premier alinéa
-n'est pas remplie ou cesse de l'être, le montant total des sommes qui avaient
-été déduites est ajouté, selon le cas, au revenu net global de l'année ou au
-bénéfice de l'exercice au cours de laquelle ou au titre duquel le manquement est
-intervenu.
+Dans le cas où l'une des conditions fixées au a et b et d à h n'est pas remplie
+ou cesse de l'être, le montant total des sommes qui avaient été déduites est
+ajouté, selon le cas, au revenu net global de l'année ou au bénéfice de
+l'exercice au cours de laquelle ou au titre duquel le manquement est intervenu.
 
-Lorsqu'un souscripteur autre que l'entreprise visée au f du premier alinéa ne
-respecte pas l'engagement prévu au c du même alinéa, le montant des sommes
-déduites est ajouté, selon le cas, au revenu net global de chaque année ou au
-bénéfice de chaque exercice au cours de laquelle ou au titre duquel les
-versements ont été effectués.
+Lorsqu'un souscripteur autre que l'entreprise visée au f ne respecte pas
+l'engagement prévu au c, le montant des sommes déduites est ajouté, selon le
+cas, au revenu net global de chaque année ou au bénéfice de chaque exercice au
+cours de laquelle ou au titre duquel les versements ont été effectués.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent
 article.

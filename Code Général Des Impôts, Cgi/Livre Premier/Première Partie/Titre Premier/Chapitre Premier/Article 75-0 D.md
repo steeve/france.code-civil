@@ -1,9 +1,8 @@
 Article 75-0 D
 ----
 Sur option des contribuables titulaires de bénéfices agricoles soumis à un
-régime réel d'imposition, le montant correspondant à la différence entre
-l'indemnité attribuée en compensation de l'abattage d'un troupeau réalisé dans
-le cadre de la lutte contre l'encéphalopathie spongiforme bovine et la valeur en
+régime réel d'imposition, le montant correspondant à la différence entre les
+indemnités prévues par l'article L. 221-2 du code rural (1) et la valeur en
 stock ou en compte d'achats des animaux abattus peut être rattaché, par
 fractions égales, aux résultats de l'exercice de sa réalisation et des six
 exercices suivants.
