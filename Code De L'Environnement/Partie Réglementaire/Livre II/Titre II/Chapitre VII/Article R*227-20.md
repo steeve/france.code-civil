@@ -2,11 +2,13 @@ Article R*227-20
 ----
 Le préfet peut, par arrêté motivé, prévoir qu'il sera, compte tenu des
 particularités de la situation locale au regard des intérêts mentionnés à
-l'article R. 227-6, dérogé aux dispositions de l'article R. 227-19 dans les
-conditions définies au tableau suivant (type de formalité, espèce concernée,
-date limite de la période autorisée) :
+l'article R. 227-6, dérogé aux dispositions des articles R. 227-18 et R. 227-19
+dans les conditions définies au tableau suivant (type de formalité, espèce
+concernée, date limite de la période autorisée) :
 
 Sans formalité : pigeon ramier, 31 mars.
+
+Sans formalité : Ragondin et rat musqué, ouverture générale.
 
 Déclaration au préfet : étourneau sansonnet, 31 mars.
 

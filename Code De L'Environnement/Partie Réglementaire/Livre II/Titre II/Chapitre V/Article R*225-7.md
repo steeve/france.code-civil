@@ -2,7 +2,7 @@ Article R*225-7
 ----
 La commission compétente est :
 
-1° Pour le grand gibier, la commission mentionnée à l'article R. 226-8.
+1° Pour le grand gibier, la commission mentionnée à l'article R. 226-6.
 
 2° Pour le petit gibier, une commission comprenant :
 
@@ -30,4 +30,4 @@ président de la fédération départementale des chasseurs ;
 concernés ;
 
 - deux représentants d'associations de protection de la nature agréées au titre
-de l'article L. 141-1.
+de l'article L. 252-1.
