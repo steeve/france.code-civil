@@ -11,8 +11,7 @@ dernières années :
 
 - en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
 
-- en une baisse de 20 % du prix des transactions immobilières publié par la
-chambre des notaires de Paris.
+- en une baisse de 20 % du prix des transactions immobilières.
 
 Le test consiste à comparer l'ensemble des décaissements et des encaissements
 prévisibles de l'entreprise au cours des cinq exercices qui suivent le dernier
@@ -33,4 +32,5 @@ en compte est égal au triple du taux annuel moyen des rachats constatés au cou
 des années passées.
 
 Les entreprises transmettent les résultats du test chaque année à la commission
-de contrôle avant le 31 mars.
+de contrôle avant le 31 mars dans la forme de l'état C 6 bis Test d'exigibilité
+défini dans l'annexe à l'article A. 344-10.

@@ -1,41 +1,181 @@
 Article Annexe tableau n° 5
 ----
-(1) Répartition à titre transitoire des sièges de sénateurs entre les séries
-(2).
+I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code
+électoral et fixant la répartition des sièges de sénateurs entre les séries est
+ainsi rédigé :
 
-REPRESENTATION DES DEPARTEMENTS :
 
-SERIE A : Ain à Indre, Guyane.
+Représentation des départements
 
-SERIE B : Indre-et-Loire à Pyrénées-Orientales, Réunion.
+SÉRIE A :
 
-SERIE C : Bas-Rhin à Yonne, Essonne à Yvelines, Guadeloupe, Martinique.
+Ain à Indre : 95
 
-REPRESENTATION DE LA NOUVELLE-CALEDONIE, des collectivités d'outre-mer et des
-Français établis hors de France.
+Guyane : 1
 
-SERIE A : Polynésie française, Iles Wallis et Futuna. Français établis hors de
-France.
+= 96
 
-SERIE B : Nouvelle-Calédonie. Français établis hors de France.
+SÉRIE B :
 
-SERIE C : Mayotte. Saint-Pierre-et-Miquelon. Français établis hors de France.
+Indre-et-Loire à Pyrénées-Orientales : 94
 
-(1) Loi n° 2003-697 du 30 juillet 2003, article 2 :
+La Réunion : 3
 
-I. - La série 1 est composée des sièges de l'ancienne série B et des sièges des
-sénateurs de l'ancienne série C dont la durée du mandat a été fixée pour le
-renouvellement partiel de 2004 à six ans.
+= 97
 
-La série 2 est composée des sièges de l'ancienne série A et des sièges des
-sénateurs de l'ancienne série C dont la durée du mandat a été fixée pour le
-renouvellement partiel de 2004 à neuf ans.
+SÉRIE C :
 
-II - Une loi votée avant le renouvellement partiel de 2004 mettra à jour le
-tableau n° 5 annexé au code électoral à la suite du découpage des séries 1 et 2
-par tirage au sort.
+Bas-Rhin à Yonne : 68
 
-III - Les dispositions du I entreront en vigueur à compter du renouvellement
-partiel de 2010.
+Essonne à Yvelines : 47
 
-(2) Loi n° 2003-697 du 30 juillet 2003, article 2-IV.
+Guadeloupe, Martinique : 5
+
+= 120
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
+Français établis hors de France
+
+SÉRIE A :
+
+Polynésie française : 1
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE B :
+
+Nouvelle-Calédonie : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE C :
+
+Mayotte : 2
+
+Saint-Pierre-et-Miquelon : 1
+
+Français établis hors de France : 4
+
+= 127
+
+II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi
+rédigé :
+
+
+Représentation des départements
+
+SÉRIE A :
+
+Ain à Indre : 103
+
+Guyane : 2
+
+= 105
+
+SÉRIE B :
+
+Indre-et-Loire à Pyrénées-Orientales : 94
+
+La Réunion : 3
+
+= 97
+
+SÉRIE C :
+
+Bas-Rhin à Yonne : 68
+
+Essonne à Yvelines : 47
+
+Guadeloupe, Martinique : 5
+
+= 120
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
+Français établis hors de France
+
+SÉRIE A :
+
+Polynésie française : 2
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 4
+
+= 112
+
+SÉRIE B :
+
+Nouvelle-Calédonie : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE C :
+
+Mayotte : 2
+
+Saint-Pierre-et-Miquelon : 1
+
+Français établis hors de France : 4
+
+= 127
+
+III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi
+rédigé :
+
+
+Représentation des départements
+
+SÉRIE 1 :
+
+Indre-et-Loire à Pyrénées-Orientales : 97
+
+Seine-et-Marne : 6
+
+Essonne à Yvelines : 47
+
+Guadeloupe, Martinique, La Réunion : 9
+
+= 159
+
+SÉRIE 2 :
+
+Ain à Indre : 103
+
+Bas-Rhin à Yonne à l'exception de la Seine-et-Marne : 62
+
+Guyane : 2
+
+= 167
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
+Français établis hors de France
+
+SÉRIE 1 :
+
+Mayotte : 2
+
+Saint-Pierre-et-Miquelon : 1
+
+Nouvelle-Calédonie : 2
+
+Français établis hors de France : 6
+
+= 170
+
+SÉRIE 2 :
+
+Polynésie française : 2
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 6
+
+= 176
