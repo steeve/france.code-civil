@@ -5,8 +5,9 @@ l'affectation de biens en capital :
 
 1. Versement d'une somme d'argent ;
 
-2. Abandon de biens en nature, meubles ou immeubles, mais pour l'usufruit
-seulement, le jugement opérant cession forcée en faveur du créancier ;
+2. Abandon de biens en nature, meubles ou immeubles, en propriété, en usufruit,
+pour l'usage ou l'habitation, le jugement opérant cession forcée en faveur du
+créancier ;
 
 3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de
 verser les revenus à l'époux créancier de la prestation jusqu'au terme fixé.
