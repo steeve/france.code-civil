@@ -1,29 +1,21 @@
 Article L231-1
 ----
-Tout contrat autre que celui mentionné au titre II du présent livre, par lequel
-une personne se charge de la construction d'un immeuble à usage d'habitation ou
-d'un immeuble à usage professionnel et d'habitation ne comportant qu'un seul
-logement d'après un plan qu'elle a proposé ou fait proposer au maître de
-l'ouvrage doit comporter les énonciations suivantes [*contenu*] :
+Toute personne qui se charge de la construction d'un immeuble à usage
+d'habitation ou d'un immeuble à usage professionnel et d'habitation ne
+comportant pas plus de deux logements destinés au même maître de l'ouvrage
+d'après un plan qu'elle a proposé ou fait proposer doit conclure avec le maître
+de l'ouvrage un contrat soumis aux dispositions de l'article L. 231-2.
 
-a) L'affirmation de la conformité du projet aux règles de construction
-prescrites en application du présent code et, notamment, de son livre Ier ;
+Cette obligation est également imposée :
 
-b) La consistance et les caractéristiques techniques du bâtiment à construire ;
+a) A toute personne qui se charge de la construction d'un tel immeuble à partir
+d'un plan fourni par un tiers à la suite d'un démarchage à domicile ou d'une
+publicité faits pour le compte de cette personne ;
 
-c) Les devis descriptifs et les conditions d'exécution techniques des travaux ;
+b) A toute personne qui réalise une partie des travaux de construction d'un tel
+immeuble dès lors que le plan de celui-ci a été fourni par cette personne ou,
+pour son compte, au moyen des procédés visés à l'alinéa précédent.
 
-d) Le prix convenu ainsi que les limites et conditions dans lesquelles la
-révision du prix peut intervenir ;
-
-e) Les modalités de règlement à mesure de l'avancement des travaux ;
-
-f) Le délai dans lequel le bâtiment doit être édifié ;
-
-g) La description et l'estimation du coût de ceux des travaux d'équipement
-intérieur ou extérieur qui sont indispensables à l'implantation et à
-l'utilisation ou à l'habitation de l'immeuble et qui ne sont pas compris dans le
-prix ;
-
-h) La garantie apportée par la personne qui s'est chargée de la construction
-pour la bonne exécution de sa mission.
+Cette personne est dénommée constructeur au sens du présent chapitre et réputée
+constructeur de l'ouvrage au sens de l'article 1792-1 du code civil reproduit à
+l'article L. 111-14.
