@@ -1,19 +1,17 @@
 Article R151-1
 ----
-Sont punis d'une amende [*sanction*] de 3 000 F à 6 000 F [*(1)*] inclusivement
-et peuvent l'être en outre d'un emprisonnement de dix jours à un mois [*durée*]:
+Seront punis des peines applicables aux contraventions de la 5e classe :
 
-1° Le pilote qui n'a pas tenu un quelconque des livres de bord ;
+" 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de
+l'aéronef lorsque ce document est exigé par la réglementation en vigueur ;
 
-2° Le propriétaire qui a omis de conserver un quelconque des livres de bord
-pendant les trois ans à partir de la dernière inscription [*infraction*];
+" 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef
+pendant les trois ans qui suivent la dernière inscription ;
 
-3° Ceux qui ont contrevenu à l'article R. 131-3 ainsi qu'aux textes pris pour
-son application ;
+" 3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
 
-4° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ;
+" 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront
+pas obtenu l'autorisation requise par l'article R. 131-3 et les pilotes qui
+auront participé à ces manifestations ;
 
-5° Ceux qui ont contrevenu à l'article R. 133-12. (3)
-
-En cas de récidive la peine d'emprisonnement prévue par l'article R. 37 du code
-pénal est prononcée (2).
+" 5° Ceux qui auront contrevenu à l'article R. 133-12. "

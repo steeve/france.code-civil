@@ -10,5 +10,5 @@ b) Les conditions du maintien de l'aptitude au vol et de son contrôle ;
 c) Les règles d'utilisation des aéronefs mentionnées à l'article R. 133-1 (1°,
 c) et du contrôle y afférent ;
 
-d) Les documents relatifs à la navigabilité et aux limitations de nuisances qui
-doivent être emportés à bord de l'aéronef.
+d) La liste et le contenu des documents de bord déterminés en fonction des types
+d'aéronefs et de la nature des vols.
