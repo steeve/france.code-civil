@@ -26,4 +26,4 @@ tissus, cellules, produits ou prestations y est mentionné.
 Il est procédé sur l'assiette définie aux alinéas précédents à un abattement
 forfaitaire de 100 000 Euros.
 
-Le taux de la contribution est fixé à 5 %.
+Le taux de la contribution est fixé à 10 %.

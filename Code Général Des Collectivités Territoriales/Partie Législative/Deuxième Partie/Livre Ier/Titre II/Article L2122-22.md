@@ -15,7 +15,7 @@ la commune qui n'ont pas un caractère fiscal ;
 réalisation des emprunts destinés au financement des investissements prévus par
 le budget, et aux opérations financières utiles à la gestion des emprunts, y
 compris les opérations de couvertures des risques de taux et de change ainsi que
-de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de de
+de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de
 l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, et
 de passer à cet effet les actes nécessaires ;
 
@@ -78,3 +78,6 @@ participe au coût d'équipement d'une zone d'aménagement concerté et de signe
 convention prévue par le troisième alinéa de l'article L. 332-11-2 du même code
 précisant les conditions dans lesquelles un propriétaire peut verser la
 participation pour voirie et réseaux.
+
+20° De réaliser les lignes de trésorerie sur la base d'un montant maximum
+autorisé par le conseil municipal.

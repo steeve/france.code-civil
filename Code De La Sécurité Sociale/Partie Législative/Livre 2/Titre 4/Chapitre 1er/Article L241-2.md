@@ -9,8 +9,10 @@ cotisations ainsi que les avantages de retraite versés au titre des articles L.
 381-1 et L. 742-1 du présent code, à l'exclusion des bonifications ou
 majorations pour enfants autres que les annuités supplémentaires ;
 
-2°) les allocations et revenus de remplacement [*assurance chomâge*] mentionnés
-à l'article L. 131-2.
+2°) les allocations et revenus de remplacement mentionnés à l'article L. 131-2 ;
+
+3° Le produit de la contribution additionnelle à la contribution sociale de
+solidarité à la charge des sociétés, prévue par l'article L. 245-13.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté ministériel pour
 certaines catégories de travailleurs salariés ou assimilés.

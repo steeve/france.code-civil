@@ -1,5 +1,8 @@
 Article L245-13
 ----
 Il est institué, au profit de la Caisse nationale de l'assurance maladie des
-travailleurs salariés, une cotisation perçue sur les bières fortes, en raison
-des risques que comporte l'usage immodéré de ces produits pour la santé.
+travailleurs salariés, une contribution additionnelle à la contribution sociale
+de solidarité à la charge des sociétés prévue par les articles L. 651-1 et
+suivants. Cette contribution additionnelle est assise, recouvrée, exigible et
+contrôlée dans les mêmes conditions que celles applicables à la contribution
+sociale de solidarité à la charge des sociétés. Son taux est de 0,03 %.

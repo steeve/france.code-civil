@@ -55,12 +55,14 @@ création.
 II bis. - La communauté d'agglomération est titulaire du droit de préemption
 urbain dans les périmètres fixés, après délibération concordante de la ou des
 communes concernées, par le conseil de communauté pour la mise en oeuvre de la
-politique communautaire d'équilibre social de l'habitat. ;
+politique communautaire d'équilibre social de l'habitat.
 
 III. - Lorsque l'exercice des compétences mentionnées aux I et II du présent
 article est subordonné à la reconnaissance de leur intérêt communautaire, cet
 intérêt est déterminé à la majorité des deux tiers du conseil de la communauté
-d'agglomération.
+d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigueur
+de l'arrêté prononçant le transfert de compétence. A défaut, la communauté
+d'agglomération exerce l'intégralité de la compétence transférée.
 
 IV. - La communauté d'agglomération peut transférer certaines de ses compétences
 à un syndicat mixte dont le périmètre inclut en totalité le périmètre
@@ -70,6 +72,10 @@ V. - Par convention passée avec le département, une communauté d'agglomérati
 peut exercer pour le département tout ou partie des compétences d'aide sociale
 que celui-ci lui confie.
 
-VI. - La communauté d'agglomération peut attribuer des fonds de concours aux
-communes membres afin de contribuer à la réalisation ou au fonctionnement
-d'équipements dont l'utilité dépasse manifestement l'intérêt communal.
+VI. - Afin de financer la réalisation ou le fonctionnement d'un équipement, des
+fonds de concours peuvent être versés entre la communauté d'agglomération et les
+communes membres après accords concordants exprimés à la majorité simple du
+conseil communautaire et des conseils municipaux concernés.
+
+Le montant total des fonds de concours ne peut excéder la part du financement
+assurée, hors subventions, par le bénéficiaire du fonds de concours.

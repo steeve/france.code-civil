@@ -7,8 +7,7 @@ informations connues d'elle avant ou après l'inscription et que ces information
 conduisent à modifier les appréciations portées par la commission mentionnée à
 l'article L. 5123-3 du code de la santé publique notamment pour ce qui concerne
 le service médical rendu ou l'amélioration du service médical rendu par ce
-médicament, les ministres chargés de la santé et de la sécurité sociale peuvent
-prononcer, après avis du Comité économique des produits de santé et après que
+médicament, le Comité économique des produits de santé peut prononcer, après que
 l'entreprise a été mise en mesure de présenter ses observations, une pénalité
 financière à l'encontre de ladite entreprise.
 

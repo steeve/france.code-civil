@@ -1,17 +1,16 @@
 Article L311-3
 ----
 Sont notamment compris parmi les personnes auxquelles s'impose l'obligation
-[*d'application aux assurances sociales*] prévue à l'article L. 311-2, même
-s'ils ne sont pas occupés dans l'établissement de l'employeur ou du chef
-d'entreprise, même s'ils possèdent tout ou partie de l'outillage nécessaire à
-leur travail et même s'ils sont rétribués en totalité ou en partie à l'aide de
-pourboires :
+prévue à l'article L. 311-2, même s'ils ne sont pas occupés dans l'établissement
+de l'employeur ou du chef d'entreprise, même s'ils possèdent tout ou partie de
+l'outillage nécessaire à leur travail et même s'ils sont rétribués en totalité
+ou en partie à l'aide de pourboires :
 
 1°) les travailleurs à domicile soumis aux dispositions des articles L. 721-1 et
 suivants du code du travail ;
 
-2°) les voyageurs et représentants de commerce [*VRP*] soumis aux dispositions
-des articles L. 751-1 et suivants du code du travail ;
+2°) les voyageurs et représentants de commerce soumis aux dispositions des
+articles L. 751-1 et suivants du code du travail ;
 
 3°) les employés d'hôtels, cafés et restaurants ;
 
@@ -57,7 +56,7 @@ mineurs non émancipés d'un gérant sont considérées comme possédées par ce
 dernier ;
 
 12°) Les présidents-directeurs et directeurs généraux des sociétés anonymes et
-des sociétés d'exercice libéral à forme anonyme ;.
+des sociétés d'exercice libéral à forme anonyme ;
 
 13°) les membres des sociétés coopératives ouvrières de production ainsi que les
 gérants, les directeurs généraux, les présidents du conseil d'administration et
@@ -127,4 +126,6 @@ sociale ;
 
 25° Les personnes bénéficiaires d'un appui à la création ou à la reprise d'une
 activité économique dans les conditions définies par l'article L. 127-1 du code
-de commerce.
+de commerce ;
+
+26° Les personnes mentionnées au 2° de l'article L. 781-1 du code du travail.

@@ -1,12 +1,12 @@
 Article L224-5-2
 ----
-L'union est dotée d'un comité exécutif des directeurs composé des directeurs de
-la Caisse nationale de l'assurance maladie des travailleurs salariés, de la
-Caisse nationale des allocations familiales, de la Caisse nationale d'assurance
-vieillesse des travailleurs salariés, de l'Agence centrale des organismes de
-sécurité sociale et de quatre directeurs d'organismes régionaux ou locaux de
-sécurité sociale du régime général désignés dans des conditions fixées par
-décret.
+L'union est dotée d'un comité exécutif des directeurs composé du directeur
+général de la Caisse nationale de l'assurance maladie des travailleurs salariés
+et des directeurs, de la Caisse nationale des allocations familiales, de la
+Caisse nationale d'assurance vieillesse des travailleurs salariés, de l'Agence
+centrale des organismes de sécurité sociale et de quatre directeurs d'organismes
+régionaux ou locaux de sécurité sociale du régime général désignés dans des
+conditions fixées par décret.
 
 Le comité exécutif peut s'adjoindre deux personnes qualifiées.
 

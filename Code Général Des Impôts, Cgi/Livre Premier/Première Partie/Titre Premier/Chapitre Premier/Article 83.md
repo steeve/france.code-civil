@@ -25,7 +25,13 @@ sécurité sociale ;
 janvier 2002).
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance
-complémentaire auxquels le salarié est affilié à titre obligatoire.
+complémentaire auxquels le salarié est affilié à titre obligatoire, à condition,
+lorsque ces cotisations ou primes financent des garanties portant sur le
+remboursement ou l'indemnisation de frais occasionnés par une maladie, une
+maternité ou un accident, que ces garanties ne couvrent pas la participation
+mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et
+qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même
+code.
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
 dans la limite, y compris les versements de l'employeur, d'un montant égal à la
@@ -51,14 +57,14 @@ versées par l'entreprise au plan d'épargne pour la retraite collectif défini 
 l'article L. 443-1-2 du code du travail et exonérées en application du 18° de
 l'article 81 ;
 
-2° 0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus
+2°-0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus
 de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à
 l'imposition des revenus de 2003 continuent de s'appliquer, si elles sont plus
 favorables, aux cotisations ou primes versées aux régimes de retraite et de
 prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire
 avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 
-2° 0 ter Dans les limites prévues au deuxième alinéa du 1° quater, les
+2°-0 ter Dans les limites prévues au deuxième alinéa du 1° quater, les
 cotisations versées aux régimes de prévoyance complémentaire et, dans les
 limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées
 aux régimes de retraite complémentaire répondant aux conditions fixées à

@@ -25,7 +25,7 @@ moitié au moins des conseils municipaux de ces communes représentant les deux
 tiers de la population. Cette majorité doit nécessairement comprendre le conseil
 municipal de la commune dont la population est supérieure à la moitié de la
 population totale concernée ou, à défaut, de la commune dont la population est
-la plus importante. A défaut de délibération dans le délai de trois mois à
+la plus importante.A défaut de délibération dans le délai de trois mois à
 compter de la notification du projet d'extension de périmètre, l'accord est
 réputé donné.
 
@@ -38,10 +38,13 @@ particulier de syndicats de communes ou de syndicats mixtes, le retrait
 s'effectue dans les conditions fixées à l'article L. 5216-7 ou à l'article L.
 5215-22 selon le cas.
 
-L'extension du périmètre entraîne une nouvelle répartition entre toutes les
-communes des sièges au conseil du nouvel établissement, dans les conditions qui
-lui sont applicables. Elle entraîne l'application à l'ensemble des biens,
-équipements et services publics nécessaires à l'exercice des compétences
-transférées, ainsi que des droits et obligations attachés à ces biens,
-équipements et services publics à la date du transfert, des dispositions du II
-de l'article L. 5211-18.
+Dans un délai de trois mois à compter de la notification de l'arrêté portant
+projet d'extension du périmètre, toutes les communes intéressées par le projet
+se prononcent sur une nouvelle répartition des sièges au conseil de
+l'établissement public dans les conditions applicables au nouvel établissement
+public. Cette nouvelle répartition des sièges entre en vigueur à la date de
+transformation et d'extension du périmètre de l'établissement public. Elle
+entraîne l'application à l'ensemble des biens, équipements et services publics
+nécessaires à l'exercice des compétences transférées, ainsi que des droits et
+obligations attachés à ces biens, équipements et services publics à la date du
+transfert, des dispositions du II de l'article L. 5211-18.

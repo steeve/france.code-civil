@@ -21,7 +21,15 @@ survenance ou n'ont pu être prises.
 L'état de catastrophe naturelle est constaté par arrêté interministériel qui
 détermine les zones et les périodes où s'est située la catastrophe ainsi que la
 nature des dommages résultant de celle-ci couverts par la garantie visée au
-premier alinéa du présent article.
+premier alinéa du présent article. Cet arrêté précise, pour chaque commune ayant
+demandé la reconnaissance de l'état de catastrophe naturelle, la décision des
+ministres. Cette décision est ensuite notifiée à chaque commune concernée par le
+représentant de l'Etat dans le département, assortie d'une motivation. L'arrêté
+doit être publié au Journal officiel dans un délai de trois mois à compter du
+dépôt des demandes à la préfecture. De manière exceptionnelle, si la durée des
+enquêtes diligentées par le représentant de l'Etat dans le département est
+supérieure à deux mois, l'arrêté est publié au plus tard deux mois après la
+réception du dossier par le ministre chargé de la sécurité civile.
 
 Les cavités souterraines considérées peuvent être naturelles ou d'origine
 humaine. Dans ce dernier cas, sont exclus de l'application du présent chapitre

@@ -8,9 +8,10 @@ peuvent pas dépasser les prix limites résultant de l'application de l'article 
 Pour les médicaments figurant dans un groupe générique prévu au 5° de l'article
 L. 5121-1 du code de la santé publique, la base de remboursement des frais
 exposés par les assurés peut être limitée à un tarif forfaitaire de
-responsabilité arrêté par les ministres de la santé et de la sécurité sociale
-après avis du Comité économique des produits de santé institué par l'article L.
-162-17-3 du présent code.
+responsabilité décidé par le Comité économique des produits de santé institué
+par l'article L. 162-17-3 du présent code, sauf opposition conjointe des
+ministres concernés, qui arrêtent dans ce cas le tarif forfaitaire de
+responsabilité dans un délai de quinze jours après la décision du comité.
 
 Lorsque le tarif forfaitaire s'applique, le plafond mentionné à l'article L.
 138-9 est fixé à 2,5 % du prix des médicaments.

@@ -12,7 +12,7 @@ Sur le montant brut des traitements, indemnités autres que celles visées au 7�
 du II ci-dessous, émoluments, salaires, des revenus des artistes-auteurs
 assimilés fiscalement à des traitements et salaires et des allocations de
 chômage, il est opéré une réduction représentative de frais professionnels
-forfaitairement fixée à 5 p. 100 de ce montant.
+forfaitairement fixée à 3 p. 100 de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
 aux intéressés en sus des revenus visés au premier alinéa.

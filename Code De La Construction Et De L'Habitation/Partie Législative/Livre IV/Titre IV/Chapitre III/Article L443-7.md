@@ -29,7 +29,7 @@ Le conseil d'administration ou de surveillance de chaque organisme d'habitations
 vente de logements, fixe les objectifs à atteindre en nombre de logements mis en
 vente et apprécie les résultats obtenus l'année précédente.
 
-Le conseil départemental de l'habitat est saisi chaque année d'un rapport du
+Le comité régional de l'habitat est saisi chaque année d'un rapport du
 représentant de l'Etat portant sur la vente de logements d'habitation à loyer
 modéré. Ce rapport analyse si le réinvestissement des fonds provenant de la
 vente permet le maintien quantitatif et qualitatif de l'offre locative. Il peut

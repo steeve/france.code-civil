@@ -2,7 +2,8 @@ Article L217-3
 ----
 Les directeurs et les agents comptables des organismes régionaux et locaux sont
 nommés parmi les personnes inscrites sur une liste d'aptitude établie dans des
-conditions fixées par décret en Conseil d'Etat.
+conditions fixées par décret en Conseil d'Etat sous réserve des dispositions
+prévues à l'article L. 217-3-1.
 
 Pour chaque nomination, le directeur de l'organisme national concerné propose au
 conseil d'administration de l'organisme régional ou local une liste de trois

@@ -1,6 +1,5 @@
 Article L322-4
 ----
-Les taux de participation fixés en application des articles L. 322-2 et L. 322-3
-peuvent être modifiés en fonction des résultats financiers du régime sur le plan
-national dans les conditions déterminées par l'article L. 251-4 [*augmentation
-du ticket modérateur*].
+La participation de l'assuré mentionnée au II de l'article L. 322-2 n'est pas
+exigée pour ses ayants droit mineurs ainsi que pour les bénéficiaires de la
+protection complémentaire en matière de santé mentionnée à l'article L. 861-1.

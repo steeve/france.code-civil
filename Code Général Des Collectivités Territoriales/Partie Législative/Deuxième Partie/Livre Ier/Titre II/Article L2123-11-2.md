@@ -1,10 +1,11 @@
 Article L2123-11-2
 ----
-A l'issue de son mandat, tout maire d'une commune de 1 000 habitants au moins ou
-tout adjoint dans une commune de 20 000 habitants au moins qui, pour l'exercice
-de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur
-sa demande, une allocation différentielle de fin de mandat s'il se trouve dans
-l'une des situations suivantes :
+A l'occasion du renouvellement général des membres du conseil municipal, tout
+maire d'une commune de 1 000 habitants au moins ou tout adjoint dans une commune
+de 20 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui,
+pour l'exercice de son mandat, avait cessé d'exercer son activité
+professionnelle perçoit, sur sa demande, une allocation différentielle de fin de
+mandat s'il se trouve dans l'une des situations suivantes :
 
 - être inscrit à l'Agence nationale pour l'emploi conformément aux dispositions
 de l'article L. 311-2 du code du travail ;

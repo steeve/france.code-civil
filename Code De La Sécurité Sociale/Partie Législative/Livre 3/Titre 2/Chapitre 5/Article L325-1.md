@@ -5,10 +5,11 @@ départements du Haut-Rhin, du Bas-Rhin et de la Moselle assure à ses
 bénéficiaires des prestations servies en complément de celles du régime général
 des salariés prévues aux 1°, 2°, 4° et 7° de l'article L. 321-1, pour couvrir
 tout ou partie de la participation laissée à la charge de l'assuré en
-application de l'article L. 322-2. Il peut prendre en charge tout ou partie du
-forfait journalier institué à l'article L. 174-4. Ces prestations sont
-déterminées par le conseil d'administration de l'instance de gestion du régime
-local dans des conditions définies par décret.
+application de l'article L. 322-2 à l'exception de celle mentionnée au II de cet
+article. Il peut prendre en charge tout ou partie du forfait journalier institué
+à l'article L. 174-4. Ces prestations sont déterminées par le conseil
+d'administration de l'instance de gestion du régime local dans des conditions
+définies par décret.
 
 II. - Le régime local est applicable aux catégories d'assurés sociaux du régime
 général des salariés mentionnés ci-après :

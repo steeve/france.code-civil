@@ -11,14 +11,16 @@ en compte les frais inhérents à la gestion et à la dispensation de ces
 spécialités.
 
 A défaut de déclaration ou en cas d'opposition définitive du comité, le prix de
-cession au public est fixé par arrêté des ministres compétents après avis du
-comité et au plus tard dans un délai de soixante-quinze jours après
-l'inscription de la spécialité sur la liste prévue à l'article L. 5126-4 du code
-de la santé publique, ou lorsque la spécialité figurait sur cette liste
-préalablement à l'obtention de l'autorisation de mise sur le marché, dans un
-délai de soixante-quinze jours après l'obtention de cette autorisation. La
-fixation du prix de cession tient compte principalement des prix de vente
-pratiqués pour cette spécialité, des prix des médicaments à même visée
+cession au public est fixé par décision du Comité économique des produits de
+santé et au plus tard dans un délai de soixante-quinze jours après l'inscription
+de la spécialité sur la liste prévue à l'article L. 5126-4 du code de la santé
+publique, ou lorsque la spécialité figurait sur cette liste préalablement à
+l'obtention de l'autorisation de mise sur le marché, dans un délai de
+soixante-quinze jours après l'obtention de cette autorisation. Les ministres
+concernés peuvent faire opposition conjointe à la décision du comité et arrêtent
+dans ce cas le tarif de responsabilité dans un délai de quinze jours après cette
+décision. La fixation du prix de cession tient compte principalement des prix de
+vente pratiqués pour cette spécialité, des prix des médicaments à même visée
 thérapeutique, des volumes de vente prévus ou constatés, des conditions
 prévisibles ou réelles d'utilisation du médicament et de l'amélioration du
 service médical apportée par le médicament appréciée par la commission prévue à

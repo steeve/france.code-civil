@@ -1,11 +1,11 @@
 Article L3114-5
 ----
-Dans les départements où est constatée l'existence de conditions entraînant le
+Un arrêté du ministre chargé de la santé établit et tient à jour la liste des
+départements où est constatée l'existence de conditions entraînant un risque de
 développement de maladies humaines transmises par l'intermédiaire d'insectes et
-constituant une menace pour la santé de la population, les mesures de lutte
-nécessaires relèvent de la compétence de l'Etat.
+constituant une menace pour la santé de la population. Dans ces départements, la
+définition des mesures de lutte nécessaires relève de la compétence de l'Etat.
 
-Les dépenses correspondantes sont à la charge de l'Etat.
-
-Un arrêté du ministre chargé de la santé fixe la liste des départements
-concernés.
+Un décret, pris après avis du Conseil supérieur d'hygiène publique de France,
+détermine la nature des mesures susceptibles d'être prises pour faire obstacle à
+ce risque.

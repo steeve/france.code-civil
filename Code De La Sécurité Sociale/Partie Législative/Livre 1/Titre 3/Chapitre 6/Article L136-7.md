@@ -5,6 +5,9 @@ l'article 125 A du code général des impôts sont assujettis à une contributio
 l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du
 II et sauf s'ils sont versés aux personnes visées au III du même article.
 
+Les plus-values mentionnées aux articles 150 U à 150 UB du code général des
+impôts sont également assujetties à cette contribution.
+
 II. - Sont également assujettis à la contribution selon les modalités prévues au
 I, pour la part acquise à compter du 1er janvier 1997 et, le cas échéant,
 constatée à compter de cette même date en ce qui concerne les placements visés

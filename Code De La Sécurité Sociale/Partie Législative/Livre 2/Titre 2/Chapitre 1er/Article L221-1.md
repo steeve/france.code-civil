@@ -12,7 +12,8 @@ l'équilibre financier de chacune de ces deux gestions ;
 travail et des maladies professionnelles ainsi que de concourir à la
 détermination des recettes nécessaires au maintien de l'équilibre de cette
 branche selon les règles fixées par les chapitres Ier et II du titre IV du
-présent livre ;
+présent livre et dans le respect de la loi de financement de la sécurité sociale
+;
 
 3°) de promouvoir une action de prévention, d'éducation et d'information de
 nature à améliorer l'état de santé de ses ressortissants et de coordonner les
@@ -23,8 +24,7 @@ la convention prévue à l'article L. 227-1 du présent code ;
 
 4°) d'exercer une action sanitaire et sociale et de coordonner l'action
 sanitaire et sociale des caisses régionales et des caisses primaires d'assurance
-maladie dans le cadre d'un programme fixé par arrêté ministériel après avis de
-son conseil d'administration ;
+maladie ;
 
 5°) d'organiser et de diriger le contrôle médical ;
 
@@ -32,8 +32,7 @@ son conseil d'administration ;
 et des caisses primaires d'assurance maladie, et sur la gestion de leur
 patrimoine immobilier ;
 
-7°) de mettre en oeuvre les actions conventionnelles prévues par le 3° de
-l'article L. 162-6 ;
+7°) de mettre en oeuvre les actions conventionnelles ;
 
 8°) De centraliser l'ensemble des opérations, y compris les opérations pour
 compte de tiers, des caisses primaires et régionales d'assurance maladie, des

@@ -1,7 +1,7 @@
 Article L322-3
 ----
-La participation de l'assuré peut être limitée ou supprimée dans les conditions
-fixées par décret en Conseil d'Etat, dans les cas suivants :
+La participation de l'assuré mentionnée au premier alinéa de l'article L. 322-2
+peut être limitée ou supprimée dans les cas suivants :
 
 1°) lorsque, à l'occasion d'une hospitalisation ou au cours d'une période de
 temps déterminée, la dépense demeurant à la charge de l'intéressé dépasse un
@@ -13,8 +13,8 @@ d'acquisition de l'appareil ;
 
 3°) lorsque le bénéficiaire a été reconnu atteint d'une des affections,
 comportant un traitement prolongé et une thérapeutique particulièrement
-coûteuse, inscrites sur une liste établie par décret après avis du haut comité
-médical ;
+coûteuse, inscrites sur une liste établie par décret après avis de la Haute
+Autorité mentionnée à l'article L. 161-37 ;
 
 4°) lorsque le bénéficiaire a été reconnu par le contrôle médical atteint d'une
 affection non inscrite sur la liste mentionnée ci-dessus, et comportant un
@@ -68,3 +68,9 @@ programmes mentionnés au 6° de l'article L. 321-1 ;
 La liste mentionnée au 3° du présent article comporte également en annexe les
 critères médicaux utilisés pour la définition de l'affection et ouvrant droit à
 la limitation ou à la suppression de la participation de l'assuré.
+
+Sur proposition de l'Union nationale des caisses d'assurance maladie, un décret,
+pris après avis de la haute autorité mentionnée à l'article L. 161-37, peut
+réserver la limitation ou la suppression de la participation des assurés en
+application des 3° et 4° du présent article aux prestations exécutées dans le
+cadre d'un réseau de santé ou d'un dispositif coordonné de soins.

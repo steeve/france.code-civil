@@ -37,7 +37,8 @@ En cas de diagnostic ou de pronostic grave, le secret médical ne s'oppose pas �
 ce que la famille, les proches de la personne malade ou la personne de confiance
 définie à l'article L. 1111-6 reçoivent les informations nécessaires destinées à
 leur permettre d'apporter un soutien direct à celle-ci, sauf opposition de sa
-part.
+part. Seul un médecin est habilité à délivrer, ou à faire délivrer sous sa
+responsabilité, ces informations.
 
 Le secret médical ne fait pas obstacle à ce que les informations concernant une
 personne décédée soient délivrées à ses ayants droit, dans la mesure où elles

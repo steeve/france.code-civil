@@ -4,9 +4,8 @@ Les rapports entre les organismes d'assurance maladie et l'ensemble des
 pharmaciens titulaires d'officine sont définis par une convention nationale
 conclue pour une durée au plus égale à cinq ans entre une (ou plusieurs)
 organisation(s) syndicales(s) représentative(s) des pharmaciens titulaires
-d'officine, d'une part, et la Caisse nationale de l'assurance maladie des
-travailleurs salariés et au moins une autre caisse nationale d'assurance
-maladie, d'autre part.
+d'officine, d'une part, et l'Union nationale des caisses d'assurance maladie,
+d'autre part.
 
 La convention détermine notamment :
 

@@ -3,9 +3,8 @@ Article L162-12-9
 Les rapports entre les organismes d'assurance maladie et les
 masseurs-kinésithérapeutes sont définis par une convention nationale conclue
 pour une durée au plus égale à cinq ans entre une ou plusieurs des organisations
-syndicales les plus représentatives des masseurs-kinésithérapeutes et la Caisse
-nationale de l'assurance maladie des travailleurs salariés et au moins une autre
-caisse nationale d'assurance maladie.
+syndicales les plus représentatives des masseurs-kinésithérapeutes et l'Union
+nationale des caisses d'assurance maladie.
 
 Cette convention détermine notamment :
 

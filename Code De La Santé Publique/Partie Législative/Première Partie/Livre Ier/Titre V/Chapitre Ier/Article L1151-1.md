@@ -14,8 +14,7 @@ Elles peuvent également être soumises à des règles de bonne pratique.
 
 La liste de ces actes, procédés, techniques, méthodes et prescriptions et les
 règles qui leur sont applicables sont fixées par des décrets pris après avis de
-l'Agence nationale d'accréditation et d'évaluation en santé et, lorsque est en
-cause l'utilisation de dispositifs médicaux, de l'Agence française de sécurité
-sanitaire des produits de santé. Ces décrets peuvent prévoir la réalisation
-d'évaluations périodiques auxquelles les professionnels qui y sont assujettis
-sont tenus de coopérer.
+la Haute Autorité de santé et, lorsque est en cause l'utilisation de dispositifs
+médicaux, de l'Agence française de sécurité sanitaire des produits de santé. Ces
+décrets peuvent prévoir la réalisation d'évaluations périodiques auxquelles les
+professionnels qui y sont assujettis sont tenus de coopérer.

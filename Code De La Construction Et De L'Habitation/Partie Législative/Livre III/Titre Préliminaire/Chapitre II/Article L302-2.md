@@ -18,8 +18,8 @@ avis.
 
 Au vu de ces avis, l'organe délibérant de l'établissement public de coopération
 intercommunale délibère à nouveau sur le projet et le transmet au représentant
-de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au conseil
-départemental de l'habitat.
+de l'Etat. Celui-ci le soumet pour avis, dans un délai de deux mois, au comité
+régional de l'habitat.
 
 Le représentant de l'Etat, s'il estime que le projet de programme local de
 l'habitat ne répond pas à l'objectif de répartition équilibrée et diversifiée de

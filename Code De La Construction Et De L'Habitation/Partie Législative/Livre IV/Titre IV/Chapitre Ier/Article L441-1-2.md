@@ -6,8 +6,8 @@ respect des principes définis à l'article L. 441.
 
 Dans chaque département, le représentant de l'Etat dans le département conclut,
 tous les trois ans, après consultation des conférences intercommunales prévues à
-l'article L. 441-1-4 et du conseil départemental de l'habitat, un accord
-collectif avec les organismes disposant d'un patrimoine locatif social dans le
+l'article L. 441-1-4 et du comité régional de l'habitat, un accord collectif
+avec les organismes disposant d'un patrimoine locatif social dans le
 département. Cet accord définit pour chaque organisme un engagement annuel
 quantifié d'attribution de logements aux personnes cumulant des difficultés
 économiques et sociales et visées dans le plan départemental d'action pour le

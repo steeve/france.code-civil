@@ -9,9 +9,8 @@ hospitaliers ont pour mission :
 2° D'agréer les organismes formateurs, notamment sur la base des programmes
 proposés ;
 
-3° D'agréer, après avis de l'Agence nationale d'accréditation et d'évaluation en
-santé, les organismes aptes à effectuer les procédures d'évaluation visées à
-l'article L. 4133-1 ;
+3° D'agréer, après avis de la Haute Autorité de santé, les organismes aptes à
+effectuer les procédures d'évaluation visées à l'article L. 4133-1 ;
 
 4° De fixer les règles que suivent les conseils régionaux pour valider le
 respect de l'obligation de formation médicale continue. Ces règles sont

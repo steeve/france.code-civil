@@ -28,14 +28,14 @@ code de la santé publique y est mentionnée.
 
 II. - Il est procédé sur l'assiette définie au I :
 
-1° A un abattement forfaitaire égal à 1,5 million d'euros et à un abattement de
+1° A un abattement forfaitaire égal à 2,5 million d'euros et à un abattement de
 3 % des dépenses mentionnées au 1° du I ;
 
 2° A un abattement d'un montant égal à 30 % du chiffre d'affaires hors taxes
 réalisé en France métropolitaine et dans les départements d'outre-mer au titre
 des spécialités génériques définies à l'article L. 5121-1 du code de la santé
 publique à l'exception de celles qui sont remboursées sur la base d'un tarif
-arrêté en application de l'article L. 162-16 du présent code, bénéficiant d'une
+décidé en application de l'article L. 162-16 du présent code, bénéficiant d'une
 autorisation de mise sur le marché et inscrites sur la liste mentionnée au
 premier alinéa de l'article L. 162-17 du présent code ou sur la liste mentionnée
 à l'article L. 5123-2 du code de la santé publique ;
@@ -62,24 +62,4 @@ premier alinéa de l'article L. 162-17 du présent code ou sur la liste mentionn
 Pour chaque part de l'assiette correspondant à l'une des quatre tranches
 définies ci-après, le taux applicable est fixé comme suit :
 
-(A) : PART DE L'ASSIETTE correspondant au rapport "R" entre l'assiette définie
-aux 1° à 3° du I après déduction, le cas échéant, des abattements et le chiffre
-d'affaires hors taxes
-
-(B) : TAUX de la contribution par tranche (en pourcentage)
-
-!----------------------!----------!
-
-! A ! B !
-
-!----------------------!----------!
-
-! R &lt; 6,5 % ! 16 !
-
-!6,5 % &lt; ou = R &lt; 12 % ! 21 !
-
-! 12 % &lt; ou = R &lt; 14 % ! 27 !
-
-! R &gt; ou = 14 % ! 32 !
-
-!----------------------!----------!
+Tableau non reproduit

@@ -19,7 +19,12 @@ régimes facultatifs mis en place dans les conditions fixées par les articles L
 644-1 et L. 723-14 du code de la sécurité sociale par les organismes visés aux
 articles L. 644-1 et L. 723-1 du code de la sécurité sociale pour les mêmes
 risques et gérés dans les mêmes conditions, dans une section spécifique au sein
-de l'organisme.
+de l'organisme, à condition, lorsque ces cotisations ou primes financent des
+garanties portant sur le remboursement ou l'indemnisation de frais occasionnés
+par une maladie, une maternité ou un accident, que ces garanties ne couvrent pas
+la participation mentionnée au II de l'article L. 322-2 du code de la sécurité
+sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1
+du même code.
 
 II. - Les cotisations versées aux régimes obligatoires complémentaires
 d'assurance vieillesse mentionnés au premier alinéa du I, pour la part de ces

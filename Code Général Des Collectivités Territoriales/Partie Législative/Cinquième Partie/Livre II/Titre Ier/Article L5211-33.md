@@ -65,17 +65,18 @@ La garantie calculée au titre des 2° et 3° ne peut représenter plus de 40 % 
 la dotation totale attribuée.
 
 Un établissement public de coopération intercommunale à fiscalité propre qui
-change de catégorie ou qui fait suite à un ou plusieurs autres établissements
-publics de coopération intercommunale à fiscalité propre perçoit, les deux
-premières années d'attribution de la dotation dans la nouvelle catégorie, une
-attribution par habitant au moins égale à celle l'année précédente, augmentée
-comme la dotation forfaitaire prévue à l'article L. 2334-7. En outre, s'il fait
-application des dispositions de l'article 1609 nonies C du code général des
-impôts, il ne peut, au titre des troisième, quatrième et cinquième années
-d'attribution dans la même catégorie et sous réserve de l'application des 2° et
-3° du présent article, percevoir une attribution par habitant inférieure,
-respectivement, à 95 %, 90 % et 85 % de la dotation par habitant perçue l'année
-précédente.
+change de catégorie, qui est issue d'une fusion dans le cadre des dispositions
+de l'article L. 5211-41-3 ou qui fait suite à un ou plusieurs autres
+établissements publics de coopération intercommunale à fiscalité propre perçoit,
+les deux premières années d'attribution de la dotation dans la nouvelle
+catégorie ou après la fusion, une attribution par habitant au moins égale à
+celle l'année précédente, augmentée comme la dotation forfaitaire prévue à
+l'article L. 2334-7. En outre, s'il fait application des dispositions de
+l'article 1609 nonies C du code général des impôts, il ne peut, au titre des
+troisième, quatrième et cinquième années d'attribution dans la même catégorie et
+sous réserve de l'application des 2° et 3° du présent article, percevoir une
+attribution par habitant inférieure, respectivement, à 95 %, 90 % et 85 % de la
+dotation par habitant perçue l'année précédente.
 
 Une communauté d'agglomération, créée ex nihilo, perçoit la deuxième année
 d'attribution de la dotation une attribution par habitant au moins égale à celle

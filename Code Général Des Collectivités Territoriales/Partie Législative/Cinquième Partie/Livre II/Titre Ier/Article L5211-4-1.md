@@ -30,21 +30,31 @@ intérêt, le bénéfice du régime indemnitaire qui leur était applicable.
 Il en est de même lorsqu'à l'inverse, par suite de modifications des statuts de
 la communauté, des personnels de celle-ci sont transférés à des communes.
 
-II. - Lorsqu'un service ou une partie de service d'un établissement public de
-coopération intercommunale est économiquement et fonctionnellement nécessaire à
-la mise en oeuvre conjointe de compétences relevant tant de l'établissement
-public que des communes membres, une convention conclue entre les exécutifs de
-l'établissement et des communes concernées, après accord des organes
-délibérants, peut prévoir les modalités de la mise à disposition de ce service
-ou de cette partie de service au profit d'une ou plusieurs de ces communes.
-Cette convention prévoit notamment les conditions de remboursement des frais de
-fonctionnement du service par la commune.
+II. - Les services d'un établissement public de coopération intercommunale
+peuvent être en tout ou partie mis à disposition d'une ou plusieurs de ses
+communes membres, pour l'exercice de leurs compétences, lorsque cette mise à
+disposition présente un intérêt dans le cadre d'une bonne organisation des
+services. Une convention conclue entre l'établissement et les communes
+intéressées fixe alors les modalités de cette mise à disposition. Cette
+convention prévoit notamment les conditions de remboursement par la commune des
+frais de fonctionnement du service.
 
-Le maire de la commune concernée adresse directement au chef du service mis à
-disposition toutes instructions nécessaires à l'exécution des tâches qu'il
-confie audit service. Il contrôle l'exécution de ces tâches.
+Dans les mêmes conditions, par dérogation au I, les services d'une commune
+membre peuvent être en tout ou partie mis à disposition d'un établissement
+public de coopération intercommunale pour l'exercice de ses compétences, lorsque
+cette mise à disposition présente un intérêt dans le cadre d'une bonne
+organisation des services.
+
+Le maire ou le président de l'établissement public adresse directement au chef
+du service mis à disposition toutes instructions nécessaires à l'exécution des
+tâches qu'il confie audit service. Il contrôle l'exécution de ces tâches.
 
 Il peut donner, sous sa surveillance et sa responsabilité, par arrêté,
-délégation de signature au chef dudit service, lorsque celui-ci est mentionné à
-l'article L. 5211-9, pour l'exécution des missions qu'il lui confie en
-application de l'alinéa précédent.
+délégation de signature au chef dudit service pour l'exécution des missions
+qu'il lui confie en application de l'alinéa précédent.
+
+Un établissement public de coopération intercommunale à fiscalité propre peut
+également, dans le cadre d'une gestion unifiée du personnel de l'établissement
+public et de celles des communes membres qui en ont exprimé le souhait, et dans
+les conditions fixées par le conseil de communauté, mettre son personnel et ses
+services à la disposition des communes qui en font la demande.

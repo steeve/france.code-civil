@@ -4,9 +4,9 @@ L'assemblée interprofessionnelle nationale est consultée par le ministre charg
 de la santé sur toutes les questions intéressant les professions constituant le
 conseil.
 
-Elle coordonne l'élaboration des règles de bonnes pratiques qu'elle soumet à
-l'Agence nationale d'accréditation et d'évaluation en santé. Elle donne un avis
-sur la démographie des professions relevant du conseil.
+Elle coordonne l'élaboration des règles de bonnes pratiques qu'elle soumet à la
+Haute Autorité de santé. Elle donne un avis sur la démographie des professions
+relevant du conseil.
 
 Elle est saisie des recours contre les décisions des collèges professionnels
 régionaux prévus à l'article L. 4393-1 en matière d'inscription au tableau du

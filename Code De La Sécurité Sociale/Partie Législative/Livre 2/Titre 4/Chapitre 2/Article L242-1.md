@@ -48,7 +48,11 @@ alinéa de l'article L. 443-8 du code du travail est pris en compte pour
 l'application de ces limites ;
 
 2° Dans des limites fixées par décret, pour les contributions au financement de
-prestations complémentaires de prévoyance.
+prestations complémentaires de prévoyance, à condition, lorsque ces
+contributions financent des garanties portant sur le remboursement ou
+l'indemnisation de frais occasionnés par une maladie, une maternité ou un
+accident, que ces garanties ne couvrent pas la participation mentionnée au II de
+l'article L. 322-2.
 
 Toutefois, les dispositions des trois alinéas précédents ne sont pas applicables
 lorsque lesdites contributions se substituent à d'autres éléments de
@@ -65,9 +69,11 @@ Sont également pris en compte, dans les conditions prévues à l'article L.
 commerce, d'un établissement artisanal, ou d'un établissement commercial ou
 industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la
 location, dans ce dernier cas, comprenne ou non tout ou partie des éléments
-incorporels du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus
-par une personne qui réalise des actes de commerce au titre de l'entreprise
-louée ou y exerce une activité.
+incorporels
+
+du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus par une
+personne qui réalise des actes de commerce au titre de l'entreprise louée ou y
+exerce une activité.
 
 Sont aussi prises en compte les indemnités versées à l'occasion de la rupture du
 contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation

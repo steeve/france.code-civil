@@ -2,8 +2,7 @@ Article L162-32-1
 ----
 Les rapports entre les organismes d'assurance maladie et les centres de santé
 sont définis par un accord national conclu pour une durée au plus égale à cinq
-ans par la Caisse nationale de l'assurance maladie des travailleurs salariés, au
-moins une autre caisse nationale d'assurance maladie et une ou plusieurs
+ans par l'Union nationale des caisses d'assurance maladie et une ou plusieurs
 organisations représentatives des centres de soins infirmiers, ainsi qu'une ou
 plusieurs organisations représentatives des centres de soins médicaux, dentaires
 et polyvalents.

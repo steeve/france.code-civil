@@ -1,7 +1,7 @@
 Article L231-6-1
 ----
-Ne peuvent être désignés comme administrateur ou perdent le bénéfice de leur
-mandat :
+Ne peuvent être désignés comme membre du conseil ou administrateur ou perdent le
+bénéfice de leur mandat :
 
 1° Les assurés volontaires, les assurés personnels, les employeurs et les
 travailleurs indépendants qui n'ont pas satisfait à leurs obligations à l'égard
@@ -14,9 +14,8 @@ exerçaient une fonction de direction dans la branche pour laquelle ils
 sollicitent un mandat, ou qui ont fait l'objet depuis moins de dix ans d'un
 licenciement pour motif disciplinaire ;
 
-3° Au conseil d'administration de la caisse primaire d'assurance maladie, les
-agents des sections locales de la caisse dont ils assurent une partie des
-attributions ;
+3° Au conseil de la caisse primaire d'assurance maladie, les agents des sections
+locales de la caisse dont ils assurent une partie des attributions ;
 
 4° Les agents exerçant effectivement, ou ayant cessé d'exercer depuis moins de
 cinq ans, dans le cadre de leurs attributions, des fonctions de contrôle ou de
@@ -28,11 +27,11 @@ a) Pour la Caisse nationale de l'assurance maladie des travailleurs salariés,
 les caisses régionales d'assurance maladie et les caisses primaires d'assurance
 maladie :
 
--les personnes qui exercent des fonctions de direction dans un établissement
+- les personnes qui exercent des fonctions de direction dans un établissement
 public de santé ou des fonctions de direction ou un mandat d'administrateur dans
 un établissement de santé privé à but lucratif ou non lucratif ;
 
--les personnes qui produisent, offrent ou délivrent des soins, des biens ou des
+- les personnes qui produisent, offrent ou délivrent des soins, des biens ou des
 services médicaux donnant lieu à prise en charge par l'assurance maladie, ainsi
 que les mandataires d'organisations représentant les professions de ces
 personnes ;
@@ -55,7 +54,7 @@ ressortissants dudit organisme.
 Perdent également le bénéfice de leur mandat :
 
 1° Les personnes qui cessent d'appartenir à l'organisation qui a procédé à leur
-désignation au sein d'un conseil d'administration ;
+désignation au sein d'un conseil ou d'un conseil d'administration ;
 
 2° Les personnes dont le remplacement est demandé par l'organisation qui a
 procédé à leur désignation.

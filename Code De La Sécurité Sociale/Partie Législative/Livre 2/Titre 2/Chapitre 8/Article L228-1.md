@@ -21,9 +21,9 @@ Le conseil de surveillance élabore son règlement intérieur. Le président du
 conseil de surveillance est un membre du Parlement désigné d'un commun accord
 par les deux Assemblées. Le président de chaque caisse nationale et de l'agence
 centrale et le président de la commission des accidents du travail et des
-maladies professionnelles, ainsi que le directeur de chaque organisme national
-assistent avec voix délibérative à ses délibérations. Un représentant du
-ministre chargé de la sécurité sociale assiste aux réunions.
+maladies professionnelles, ainsi que le directeur général ou le directeur de
+chaque organisme national assistent avec voix délibérative à ses délibérations.
+Un représentant du ministre chargé de la sécurité sociale assiste aux réunions.
 
 Le conseil de surveillance se réunit au moins deux fois par an pour examiner les
 conditions de mise en oeuvre des conventions d'objectifs et de gestion visées

@@ -13,7 +13,7 @@ substitution ou d'une transformation de groupement préexistant sont applicables
 
 a. lorsqu'elles sont prises dans les conditions prévues à l'article 1639 A bis,
 aux opérations réalisées l'année de la création de l'établissement public de
-coopération intercommunale quand celle-ci est postérieure au 1er octobre (1) ;
+coopération intercommunale quand celle-ci est postérieure au 1er octobre ;
 
 b. lorsqu'elles sont prises en application de l'article 1465, aux opérations
 réalisées antérieurement à la date de création de l'établissement public de
@@ -71,3 +71,42 @@ la zone d'activités économiques sont maintenues pour la quotité et la durée
 initialement prévues. Les dispositions du premier alinéa sont maintenues
 lorsqu'elles étaient appliquées antérieurement à la modification du régime
 fiscal de l'établissement public de coopération intercommunale.
+
+IV. - 1. Sous réserve des dispositions de l'article 1466, l'établissement public
+de coopération intercommunale issu de la fusion, réalisée dans les conditions
+prévues par l'article L. 5211-41-3 du code général des collectivités
+territoriales ou, lorsque le périmètre du nouvel établissement public de
+coopération intercommunale a été fixé par arrêté du représentant de l'Etat, les
+conseils municipaux des communes membres ou l'organe délibérant du ou des
+établissements publics de coopération intercommunale doivent prendre avant le
+1er octobre de l'année de la fusion les délibérations applicables à compter de
+l'année suivante en matière de taxe professionnelle sur l'ensemble du
+territoire.
+
+2. A défaut de délibérations prises dans les conditions prévues au 1, les
+délibérations adoptées antérieurement par chaque établissement public de
+coopération intercommunale préexistant :
+
+a. Sont maintenues pour leur durée et leur quotité lorsqu'elles sont prises en
+application des articles 1464 B, 1464 D, 1464 E, 1464 F, 1464 G, 1465, 1465 A,
+1465 B, des I, I ter, I quater et I quinquies de l'article 1466 A et des
+articles 1466 B, 1466 B bis et 1466 C, et que les dispositions prévues par ces
+articles sont en cours d'application ou sont applicables pour la première fois
+l'année suivant celle de la fusion. Lorsque le nouvel établissement public de
+coopération intercommunale est soumis aux dispositions du I de l'article 1609
+nonies C, il en est de même pour les délibérations prises, d'une part, par les
+communes visées au deuxième alinéa du 2° du I de l'article L. 5211-41-3 du code
+général des collectivités territoriales et, d'autre part, par les communes
+membres d'un établissement public de coopération intercommunale préexistant à
+fiscalité propre additionnelle ou sans fiscalité propre ; toutefois, dans ce
+dernier cas, les exonérations sont maintenues en proportion du taux d'imposition
+de la commune et de l'établissement public de coopération intercommunale l'année
+de la fusion ;
+
+b. Sont maintenues pour la première année suivant celle de la fusion
+lorsqu'elles sont prises en application des articles 1459 (3°), 1464, 1464 A,
+1464 H, 1469 A quater, 1518 A et 1647 D. Il en est de même pour les
+délibérations prises par les communes visées au deuxième alinéa du 2° du I de
+l'article L. 5211-41-3 du code général des collectivités territoriales lorsque
+le nouvel établissement public de coopération intercommunale est soumis aux
+dispositions du I de l'article 1609 nonies C.

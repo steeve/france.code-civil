@@ -4,14 +4,13 @@ Les rapports entre les organismes d'assurance maladie et les directeurs de
 laboratoires privés d'analyses médicales sont définis par une convention
 nationale conclue pour une durée au plus égale à cinq ans entre une ou plusieurs
 organisations syndicales les plus représentatives des directeurs de laboratoire
-d'analyses de biologie médicale et la Caisse nationale de l'assurance maladie
-des travailleurs salariés et au moins une autre caisse nationale d'assurance
+d'analyses de biologie médicale et l'Union nationale des caisses d'assurance
 maladie.
 
 Cette convention détermine notamment :
 
 1° Les obligations respectives des caisses primaires d'assurance maladie et des
-directeurs de laboratoires privés d'analyses médicales :
+directeurs de laboratoires privés d'analyses médicales ;
 
 2° Les modalités du contrôle de l'exécution par les laboratoires des obligations
 qui découlent pour eux de l'application de la convention ;

@@ -31,8 +31,8 @@ mineurs, soit à leurs facultés de discernement s'agissant des majeurs sous
 tutelle.
 
 Des recommandations de bonnes pratiques sur la délivrance de l'information sont
-établies par l'Agence nationale d'accréditation et d'évaluation en santé et
-homologuées par arrêté du ministre chargé de la santé.
+établies par la Haute Autorité de santé et homologuées par arrêté du ministre
+chargé de la santé.
 
 En cas de litige, il appartient au professionnel ou à l'établissement de santé
 d'apporter la preuve que l'information a été délivrée à l'intéressé dans les
