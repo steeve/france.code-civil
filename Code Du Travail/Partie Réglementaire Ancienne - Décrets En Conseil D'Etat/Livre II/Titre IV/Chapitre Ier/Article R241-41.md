@@ -19,5 +19,3 @@ dangereux ;
 
 6° L'éducation sanitaire dans le cadre de l'établissement en rapport avec
 l'activité professionnelle.
-
-Il peut participer aux études et enquêtes épidémiologiques.

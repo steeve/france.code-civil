@@ -2,8 +2,8 @@ Article R241-56
 ----
 Au moment de la visite d'embauchage, le médecin du travail constitue un dossier
 médical qu'il ne peut communiquer qu'aux médecins inspecteurs régionaux du
-travail et de la main-d'oeuvre, ou, à la demande de l'intéressé, à son médecin
-traitant [*secret professionnel*].
+travail et de la main-d'oeuvre, ou, à la demande de l'intéressé, au médecin de
+son choix [*secret professionnel*].
 
 Ce dossier est complété après chaque examen médical ultérieur.
 

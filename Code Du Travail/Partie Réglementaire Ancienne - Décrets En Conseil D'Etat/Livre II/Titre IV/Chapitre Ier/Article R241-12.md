@@ -6,7 +6,7 @@ non lucratif, doté de la personnalité civile et de l'autonomie financière
 [*statut*].
 
 Il est administré par le président de cet organisme, sous la surveillance du
-comité interentreprises ou, à défaut, de la commission de contrôle.
+comité interentreprises ou, de la commission de contrôle.
 
 Toutefois, des modalités particulières de gestion peuvent être établies d'accord
 entre le président du service médical du travail interentreprises et le comité

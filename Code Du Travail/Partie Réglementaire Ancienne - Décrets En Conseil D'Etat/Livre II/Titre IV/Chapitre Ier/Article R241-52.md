@@ -10,10 +10,10 @@ b) Au dépistage des maladies à caractère professionnel prévues à l'article 
 500 du code de la sécurité sociale et des maladies professionnelles non
 concernées par les règlements pris en application de l'article L. 231-2 ;
 
-c) Au dépistage des maladies contagieuses.
+c) Au dépistage des maladies dangereuses pour l'entourage.
 
 Ces examens sont, selon le cas, à la charge soit de l'employeur, soit du service
-interentreprises, lesquels sont tensus de fournir au médecin du travail le moyen
+interentreprises, lesquels sont tenus de fournir au médecin du travail le moyen
 d'assurer le respect de l'anonymat des examens.
 
 Le médecin choisit l'organisme chargé de pratiquer les examens.
