@@ -12,9 +12,11 @@ Cette durée de validité ne peut être inférieure à cinq ans, sauf pour les
 activités de soins nécessitant des dispositions particulières dans l'intérêt de
 la santé publique.
 
-Le renouvellement de cette autorisation est subordonné aux mêmes conditions que
-celles fixées à l'article L. 712-12-1. La demande de renouvellement est déposée
-par l'établissement au moins un an avant son échéance dans les conditions fixées
-à l'article L. 712-15. En cas d'absence de réponse de l'autorité compétente six
+Le renouvellement de cette autorisation est subordonné aux conditions prévues
+aux 2° et 3° de l'article L. 712-9, à celles fixées à l'article L. 712-12-1 et
+aux résultats de l'évaluation appréciés selon des modalités arrêtées par le
+ministre chargé de la santé. La demande de renouvellement est déposée par
+l'établissement au moins un an avant son échéance dans les conditions fixées à
+l'article L. 712-15. En cas d'absence de réponse de l'autorité compétente six
 mois avant l'échéance, l'autorisation est réputée renouvelée par tacite
 reconduction.

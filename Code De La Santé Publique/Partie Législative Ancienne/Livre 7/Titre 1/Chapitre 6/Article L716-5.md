@@ -6,9 +6,10 @@ public hospitalier ou ayant passé convention avec les départements pour recevo
 des bénéficiaires de l'aide sociale, la tarification des services rendus
 comporte deux éléments relatifs, l'un aux prestations de soins fournies, l'autre
 aux prestations d'hébergement. L'élément de tarification relatif aux prestations
-de soins est fixé par le représentant de l'Etat après avis du président du
-conseil général. Au vu de cette décision, le président du conseil général fixe
-l'élément de tarification relatif aux prestations d'hébergement.
+de soins est fixé par le directeur de l'agence régionale de l'hospitalisation
+après avis du président du conseil général. Au vu de cette décision, le
+président du conseil général fixe l'élément de tarification relatif aux
+prestations d'hébergement.
 
 L'élément de tarification relatif aux prestations de soins est décidé dans la
 limite d'un plafond fixé annuellement [*périodicité*] par un arrêté

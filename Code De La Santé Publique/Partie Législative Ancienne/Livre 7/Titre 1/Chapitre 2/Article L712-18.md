@@ -1,8 +1,8 @@
 Article L712-18
 ----
-Selon les cas, le ministre chargé de la santé ou le représentant de l'Etat peut
-prononcer la suspension totale ou partielle de l'autorisation de fonctionner
-d'une installation ou d'une activité de soins :
+Selon les cas, le ministre chargé de la santé ou le directeur de l'agence
+régionale de l'hospitalisation peut prononcer la suspension totale ou partielle
+de l'autorisation de fonctionner d'une installation ou d'une activité de soins :
 
 1° En cas d'urgence tenant à la sécurité des malades ;
 
@@ -17,16 +17,16 @@ La décision de suspension est transmise sans délai à l'établissement concern
 assortie d'une mise en demeure.
 
 A l'issue d'un délai d'un mois si la mise en demeure est restée sans effet, le
-ministre ou le représentant de l'Etat saisit dans un délai de quinze jours,
-selon les cas, le comité national ou le comité régional de l'organisation
-sanitaire et sociale qui, dans les quarante-cinq jours de la saisine, émet un
-avis sur la mesure de suspension au vu des observations formulées par
-l'établissement concerné.
+ministre ou le directeur de l'agence régionale de l'hospitalisation saisit dans
+un délai de quinze jours, selon les cas, le comité national ou le comité
+régional de l'organisation sanitaire et sociale qui, dans les quarante-cinq
+jours de la saisine, émet un avis sur la mesure de suspension au vu des
+observations formulées par l'établissement concerné.
 
-Le ministre ou son représentant doit alors se prononcer à titre définitif,
-éventuellement sur le retrait d'autorisation ou sur la modification de son
-contenu. Il peut également assortir l'autorisation des conditions particulières
-mentionnées à l'article L. 712-13.
+Le ministre ou le directeur de l'agence régionale de l'hospitalisation doit
+alors se prononcer à titre définitif, éventuellement sur le retrait
+d'autorisation ou sur la modification de son contenu. Il peut également assortir
+l'autorisation des conditions particulières mentionnées à l'article L. 712-13.
 
 Les décisions de suspension ou de retrait prises selon les modalités mentionnées
 ci-dessus ne font pas obstacle à d'éventuelles poursuites judiciaires.

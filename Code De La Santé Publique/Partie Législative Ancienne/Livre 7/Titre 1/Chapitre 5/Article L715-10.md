@@ -1,8 +1,8 @@
 Article L715-10
 ----
-Les établissements d'hospitalisation privés, autres que ceux visés à l'article
-L. 715-6, peuvent conclure avec l'Etat des contrats de concession pour
-l'exécution du service public hospitalier.
+Les établissements d'hospitalisation privés, autres que ceux visés aux articles
+L. 715-6 et L. 715-13, peuvent conclure avec l'Etat des contrats de concession
+pour l'exécution du service public hospitalier.
 
 Ces contrats comportent :
 

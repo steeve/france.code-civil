@@ -14,5 +14,11 @@ compétence et dans le respect de leurs propres règles professionnelles.
 Les établissements sont tenus de protéger la confidentialité des informations
 qu'ils détiennent sur les personnes qu'ils accueillent.
 
+Les médecins membres de l'inspection générale des affaires sociales, les
+médecins inspecteurs de la santé publique et les médecins conseils des
+organismes d'assurance maladie ont accès, dans le respect des règles de
+déontologie médicale, à ces informations lorsqu'elles sont nécessaires à
+l'exercice de leurs missions.
+
 Les modalités d'application du présent article sont fixées par voie
 réglementaire, après avis du Conseil national de l'ordre des médecins.

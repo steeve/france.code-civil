@@ -1,7 +1,7 @@
 Article L712-8
 ----
-Sont soumis à l'autorisation du ministre chargé de la santé ou du représentant
-de l'Etat les projets relatifs à :
+Sont soumis à l'autorisation du ministre chargé de la santé ou du directeur de
+l'agence régionale de l'hospitalisation les projets relatifs à :
 
 1° La création, l'extension, la conversion totale ou partielle de tout
 établissement de santé, public ou privé, ainsi que le regroupement de tels

@@ -8,6 +8,10 @@ Les médecins et les autres professionnels de santé non hospitaliers peuvent ê
 associés au fonctionnement des établissements assurant le service public
 hospitalier. Ils peuvent recourir à leur aide technique. Ils peuvent, par
 contrat, recourir à leur plateau technique afin d'en optimiser l'utilisation.
+Toutefois, lorsque ce plateau technique appartient à un centre hospitalier et
+est destiné à l'accomplissement d'actes qui requièrent l'hospitalisation des
+patients, son accès aux médecins et sages-femmes non hospitaliers s'effectue
+dans les conditions définies à l'article L. 714-36.
 
 En outre, les établissements visés à l'article L. 711-4 coopèrent avec les
 établissements de santé privés autres que ceux visés au 2° dudit article ainsi

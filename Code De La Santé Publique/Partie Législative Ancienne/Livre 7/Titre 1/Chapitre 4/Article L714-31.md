@@ -13,7 +13,8 @@ l'exercice de l'activité libérale.
 La durée de l'activité libérale ne peut excéder le cinquième de la durée de
 service hebdomadaire à laquelle sont astreints les praticiens. Les autres
 conditions et limites de l'exercice de l'activité libérale sont fixées, en
-fonction de la discipline concernée, par voie réglementaire. En outre,
-s'agissant de la greffe d'organes ou de tissu humain, aucun des actes ainsi
-exercés ne peut concerner directement ou indirectement le prélèvement, le
+fonction de la discipline concernée, par voie réglementaire.
+
+En outre, s'agissant de la greffe d'organes ou de tissu humain, aucun des actes
+ainsi exercés ne peut concerner directement ou indirectement le prélèvement, le
 transport ou la greffe.

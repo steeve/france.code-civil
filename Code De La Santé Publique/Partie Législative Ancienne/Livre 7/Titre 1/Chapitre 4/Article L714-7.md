@@ -1,40 +1,66 @@
 Article L714-7
 ----
-Le budget, avant le 15 octobre de chaque année [*date limite*], ainsi que les
-décisions modificatives mentionnées au 3° de l'article L. 714-4 sont présentés
-par le directeur au conseil d'administration et votés par celui-ci par groupes
-fonctionnels de dépenses selon une nomenclature fixée par décret. Le nombre de
-ces groupes est fixé à quatre pour la section d'exploitation.
+I. - Le budget et les décisions modificatives mentionnés au 3° de l'article L.
+714-4 sont préparés et présentés par le directeur. Le budget de l'année est voté
+par le conseil d'administration au plus tard le 15 octobre de l'année
+précédente. Il est établi en cohérence avec les éléments financiers figurant au
+contrat mentionné aux articles L. 710-16 et L. 710-16-1.
 
-Ces délibérations sont transmises sans délai au représentant de l'Etat en vue de
-leur approbation. Elles sont réputées approuvées si ce dernier n'a pas fait
-connaître son opposition dans un délai de quarante-cinq jours à compter de la
-date de réception.
+Les autorisations de dépenses et les prévisions de recettes qui figurent au
+budget sont présentées et votées par groupes fonctionnels, dont la composition
+est conforme à une nomenclature fixée par décret. Les décisions modificatives
+sont présentées et votées dans les mêmes formes.
 
-Dans ce délai, s'il estime ces prévisions injustifiées ou excessives compte tenu
-des orientations du schéma d'organisation sanitaire, de l'activité de
-l'établissement et enfin d'un taux d'évolution des dépenses hospitalières qui
-est fixé, avant le 30 septembre, à partir des hypothèses économiques générales
-et par référence à la politique sanitaire et sociale de l'Etat par les ministres
-chargés respectivement de l'économie, du budget, de la santé et de la sécurité
-sociale, le représentant de l'Etat peut modifier le montant global des dépenses
-prévues et leur répartition entre les groupes fonctionnels.
+Les délibérations relatives au budget et aux décisions modificatives sont
+transmises sans délai au directeur de l'agence régionale de l'hospitalisation en
+vue de leur approbation.
 
-Au vu de la décision du représentant de l'Etat, le conseil d'administration
-peut, dans un délai de quinze jours à compter de la réception, faire connaître
-ses propositions au représentant de l'Etat. Ce dernier dispose d'un délai de
-quinze jours à compter de la réception de ces propositions pour maintenir ou
-pour apporter, en les motivant, des modifications aux prévisions de dépenses.
+Le directeur de l'agence régionale de l'hospitalisation peut modifier le montant
+global des dépenses et des recettes prévues ainsi que leur répartition entre les
+groupes fonctionnels compte tenu, d'une part et prioritairement, du montant de
+la dotation régionale définie à l'article L. 174-1-1 du code de la sécurité
+sociale et, d'autre part, des orientations du schéma régional d'organisation
+sanitaire et des priorités de la politique de santé, du projet d'établissement
+mentionné à l'article L. 714-11, du contrat pluriannuel défini aux articles L.
+710-16 et L. 710-16-1 et de son exécution, ainsi que de l'activité et des coûts
+de l'établissement, appréciés selon les modalités prévues aux articles L. 710-6
+et L. 710-7 et comparés à ceux des autres établissements de la région et de la
+France entière.
 
-A défaut de décision du représentant de l'Etat à l'issue de ce délai, les
-propositions du conseil d'administration sont réputées approuvées [*accord
-tacite*]. Le représentant de l'Etat arrête en conséquence le montant de la
-dotation globale et les tarifs de prestations. Au vu de la décision du
-représentant de l'Etat arrêtée dans les conditions ci-dessus, le directeur
-procède, dans un délai de quinze jours suivant cette décision, à la répartition
-des dépenses approuvées entre les comptes de chaque groupe fonctionnel. En sa
-plus proche séance, le conseil d'administration est informé de cette
-répartition.
+Le directeur de l'agence régionale de l'hospitalisation dispose d'un délai de
+quarante-cinq jours à compter de la réception du budget ou des décisions
+modificatives pour faire connaître les modifications qu'il estime nécessaires.
+Ce délai est fixé à trente jours pour les décisions modificatives qui ne
+modifient pas le montant total des dépenses et des recettes du budget. Dans un
+délai de quinze jours à compter de la réception de ces observations, le conseil
+d'administration peut faire de nouvelles propositions. Le directeur de l'agence
+régionale de l'hospitalisation dispose d'un délai de trente jours à compter de
+la publication de la loi de financement de la sécurité sociale pour arrêter
+définitivement les autorisations de dépenses et les prévisions de recettes du
+budget de l'année et, en conséquence, le montant de la dotation globale annuelle
+et les tarifs de prestation mentionnés respectivement aux articles L. 174-1 et
+L. 174-3 du code de la sécurité sociale. S'agissant des décisions modificatives,
+ce dernier délai est fixé à quinze jours à compter de la réception des
+propositions du conseil d'administration.
 
-Le budget ainsi réparti est exécutoire à compter de la date de sa transmission
-au représentant de l'Etat.
+Au vu de la décision motivée du directeur de l'agence régionale de
+l'hospitalisation arrêtée dans les conditions ci-dessus, le directeur procède,
+dans un délai de quinze jours suivant cette décision, à la répartition des
+autorisations de dépenses et des prévisions de recettes approuvées entre les
+comptes de chaque groupe fonctionnel. En sa plus prochaine séance, le conseil
+d'administration est informé de cette répartition. Le budget ainsi réparti est
+exécutoire à compter de la date de sa transmission au directeur de l'agence
+régionale de l'hospitalisation.
+
+II. - Le directeur de l'agence régionale de l'hospitalisation peut demander à
+chacun des établissements de délibérer sur une décision modificative prenant en
+compte les corrections budgétaires ainsi que l'ajustement de la dotation globale
+et des tarifs de prestations, rendus nécessaires pour permettre le respect du
+montant de la dotation régionale en cas de révision de son montant.
+
+A défaut d'adoption par le conseil d'administration de la décision modificative
+mentionnée à l'alinéa précédent dans un délai de trente jours à compter de la
+réception de cette demande, le directeur de l'agence régionale de
+l'hospitalisation arrête la décision modificative du budget, la rend exécutoire
+et arrête, en conséquence, le montant de la dotation globale annuelle et les
+tarifs de prestations.

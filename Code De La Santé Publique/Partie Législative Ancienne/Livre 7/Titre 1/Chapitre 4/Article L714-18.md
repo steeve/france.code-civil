@@ -3,8 +3,9 @@ Article L714-18
 Le comité technique d'établissement est obligatoirement consulté sur
 [*attribution*] :
 
-1° Le projet d'établissement et les programmes d'investissement relatifs aux
-travaux et équipements matériels lourds ;
+1° Le projet d'établissement, le projet de contrat pluriannuel mentionné aux
+articles L. 710-16 et L. 710-16-1 et les programmes d'investissement relatifs
+aux travaux et équipements matériels lourds ;
 
 2° Le budget, le rapport prévu à l'article L. 714-6 et les comptes ainsi que le
 tableau des emplois ;
@@ -13,24 +14,27 @@ tableau des emplois ;
 pharmaceutiques, odontologiques définies à la section 3 du présent chapitre et
 des services autres que médicaux, pharmaceutiques et odontologiques ;
 
-4° Les conditions et l'organisation du travail dans l'établissement, notamment
+4° Emet un avis sur les modalités de constitution des centres de responsabilité
+dans les conditions prévues à l'article L. 714-26-1 ;
+
+5° Les conditions et l'organisation du travail dans l'établissement, notamment
 les programmes de modernisation des méthodes et techniques de travail et leurs
 incidences sur la situation du personnel ;
 
-5° Les règles concernant l'emploi des diverses catégories de personnels pour
+6° Les règles concernant l'emploi des diverses catégories de personnels pour
 autant qu'elles n'ont pas été fixées par des dispositions législatives ou
 réglementaires ;
 
-6° Les critères de répartition de certaines primes et indemnités ;
+7° Les critères de répartition de certaines primes et indemnités ;
 
-7° La politique générale de formation du personnel et notamment le plan de
+8° La politique générale de formation du personnel et notamment le plan de
 formation ;
 
-8° Le bilan social et les modalités d'une politique d'intéressement ;
+9° Le bilan social et les modalités d'une politique d'intéressement ;
 
-9° Les actions de coopération visées aux sections 2 et 3 du chapitre III du
+10° Les actions de coopération visées aux sections 2, 3 et 4 du chapitre III du
 présent titre en ce qu'elles concernent la création d'un syndicat
 interhospitalier, l'affiliation ou le retrait d'un tel syndicat, la création ou
-l'adhésion à un groupement d'intérêt public, à un groupement d'intérêt
-économique, les conventions concernant les actions de coopération
-internationale.
+l'adhésion à un groupement de coopération sanitaire, à un groupement d'intérêt
+public, à un groupement d'intérêt économique, les conventions concernant les
+actions de coopération internationale.

@@ -5,10 +5,11 @@ d'administration d'un établissement public de santé peut décider d'arrêter
 librement l'organisation des soins et le fonctionnement médical de
 l'établissement, dans le respect du projet d'établissement approuvé.
 
-Cette décision est prise sur proposition de la commission médicale
-d'établissement siégeant en formation restreinte aux praticiens titulaires et
-adoptée à la majorité des deux tiers de cette assemblée après avis du comité
-technique d'établissement.
+Cette décision est prise à l'initiative du président du conseil
+d'administration, du président de la commission médicale d'établissement ou du
+directeur de l'établissement, après avis conforme de la commission médicale
+d'établissement siégeant en formation restreinte aux praticiens titulaires. Le
+comité technique d'établissement est consulté.
 
 Dans ce cas, le conseil d'administration nomme les responsables des structures
 médicales et médico-techniques ainsi créées après avis de la commission médicale

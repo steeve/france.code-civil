@@ -8,5 +8,6 @@ Dans le cas où ils ne sont pas dotés de la personnalité morale, la demande es
 présentée par la collectivité publique ou l'institution à caractère privé dont
 ils relèvent.
 
-L'autorisation est accordée par le représentant de l'Etat sur avis conforme du
-conseil d'administration du syndicat intéressé.
+L'autorisation est accordée par le directeur de l'agence régionale de
+l'hospitalisation sur avis conforme du conseil d'administration du syndicat
+intéressé.

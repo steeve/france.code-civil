@@ -27,19 +27,25 @@ Ils comportent des sections.
 Le comité national comprend en outre un député désigné par la commission des
 affaires culturelles, familiales et sociales de l'Assemblée nationale et un
 sénateur désigné par la commission des affaires sociales du Sénat. Il est
-présidé par un conseiller d'Etat ou par un conseiller mai^tre à la Cour des
+présidé par un conseiller d'Etat ou par un conseiller maître à la Cour des
 comptes. Un collège national d'experts, dont la composition est fixée par
 décret, est constitué auprès du comité national.
 
 Les comités régionaux sont présidés par un magistrat du corps des cours
 administratives d'appel et des tribunaux administratifs ou du corps des
-conseillers de chambres régionales des comptes.
+conseillers de chambres régionales des comptes. Ils comprennent en outre le
+directeur de l'agence régionale de l'hospitalisation.
 
 La composition et les modalités de fonctionnement des comités et celles des
 formations qu'ils comportent sont fixées par voie réglementaire.
 
-Un rapport élaboré chaque année par les services de l'Etat et les organismes
-d'assurance maladie sur le montant total des dépenses des régimes d'assurance
-maladie dans la région pour l'année écoulée, sur les évolutions constatées et
-sur les évolutions prévisibles pour l'année suivante est présenté au comité
-régional de l'organisation sanitaire et sociale.
+Un collège régional d'experts est créé auprès de chaque comité régional de
+l'organisation sanitaire et sociale. Ses missions, sa composition et les
+modalités de sa coopération avec l'agence régionale de l'hospitalisation sont
+fixées par décret.
+
+Un rapport élaboré chaque année par l'agence régionale de l'hospitalisation sur
+le montant total des dépenses des régimes d'assurance maladie dans la région
+pour l'année écoulée, sur les évolutions constatées et sur les évolutions
+prévisibles pour l'année suivante est présenté au comité régional de
+l'organisation sanitaire et sociale.

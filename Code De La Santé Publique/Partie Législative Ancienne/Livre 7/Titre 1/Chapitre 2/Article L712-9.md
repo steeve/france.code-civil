@@ -7,7 +7,8 @@ fixées par l'article L. 712-16, lorsque le projet :
 qu'ils sont définis par la carte sanitaire ;
 
 2° Est compatible avec les objectifs fixés par le schéma d'organisation
-sanitaire mentionné à l'article L. 712-3 ;
+sanitaire mentionné à l'article L. 712-3 ainsi qu'avec l'annexe du schéma
+mentionnée à l'article L. 712-3-1 ;
 
 3° Satisfait à des conditions techniques de fonctionnement fixées par décret.
 

@@ -15,16 +15,16 @@ renouvelable, par le ministre chargé de la santé après avis de la commission
 médicale d'établissement qui siège en formation restreinte aux praticiens
 titulaires et du conseil d'administration ; le renouvellement est prononcé après
 avis de la commission médicale d'établissement, puis du conseil
-d'administration, par le représentant de l'Etat dans la région, y compris en ce
-qui concerne les chefs de service nommés avant l'entrée en vigueur de la loi n°
-91-1406 du 31 décembre 1991 portant diverses dispositions d'ordre social. Il est
-subordonné au dépôt, auprès du représentant de l'Etat dans la région et des
-instances citées ci-dessus, quatre mois avant l'expiration du mandat, d'une
-demande de l'intéressé, accompagnée d'un bilan de son activité en qualité de
-chef de service ou de département et d'un projet pour le mandat sollicité. Le
-non-renouvellement est notifié à l'intéressé avant le terme de son mandat. Il
-peut être fait appel de cette décision dans un délai de deux mois auprès du
-ministre chargé de la santé.
+d'administration, par le directeur de l'agence régionale de l'hospitalisation, y
+compris en ce qui concerne les chefs de service nommés avant l'entrée en vigueur
+de la loi n° 91-1406 du 31 décembre 1991 portant diverses dispositions d'ordre
+social. Il est subordonné au dépôt, auprès du directeur de l'agence régionale de
+l'hospitalisation et des instances citées ci-dessus, quatre mois avant
+l'expiration du mandat, d'une demande de l'intéressé, accompagnée d'un bilan de
+son activité en qualité de chef de service ou de département et d'un projet pour
+le mandat sollicité. Le non-renouvellement est notifié à l'intéressé avant le
+terme de son mandat. Il peut être fait appel de cette décision dans un délai de
+deux mois auprès du ministre chargé de la santé.
 
 Les conditions de candidature et de nomination dans ces fonctions, dont
 certaines peuvent être propres à la psychiatrie, sont fixées par voie

@@ -7,9 +7,10 @@ lorsque cette carte ou ce schéma est national ou interrégional. Dans ce dernie
 cas, ils recueillent également l'avis des comités régionaux concernés.
 
 Après avis du comité régional de l'organisation sanitaire et sociale, le
-représentant de l'Etat arrête la carte sanitaire lorsque la zone sanitaire
-retenue pour son élaboration est un secteur, un groupe de secteurs ou une
-région, ainsi que le schéma régional d'organisation sanitaire.
+directeur de l'agence régionale de l'hospitalisation arrête la carte sanitaire
+lorsque la zone sanitaire retenue pour son élaboration est un secteur, un groupe
+de secteurs ou une région, ainsi que le schéma régional d'organisation
+sanitaire.
 
 Le schéma régional de psychiatrie est arrêté compte tenu des schémas élaborés au
 niveau départemental après avis des conseils départementaux de santé mentale

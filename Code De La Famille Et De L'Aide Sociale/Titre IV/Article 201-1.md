@@ -1,14 +1,15 @@
 Article 201-1
 ----
 Les recours sont introduits devant la commission interrégionale de la
-tarification sanitaire et sociale [*compétente*] par toute personne physique ou
-morale intéressée, par les organismes de sécurité sociale et par le représentant
-de l'Etat dans le département où a son siège l'établissement ou le service dont
-la tarification est contestée.
+tarification sanitaire et sociale par toute personne physique ou morale
+intéressée, par les organismes de sécurité sociale, par le directeur de l'agence
+régionale de l'hospitalisation et par le représentant de l'Etat dans le
+département où a son siège l'établissement ou le service dont la tarification
+est contestée.
 
 Le délai de recours est d'un mois. Il court à compter de la date de publication
 de la décision attaquée ou à l'égard des personnes et organismes auxquels elle
-est notifiée à compter de la date de notification [*point de départ*].
+est notifiée à compter de la date de notification.
 
 L'appel est porté dans le délai d'un mois à compter de la notification du
 jugement devant la section permanente du Conseil supérieur de l'aide sociale.
