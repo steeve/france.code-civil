@@ -41,3 +41,12 @@ délibérante de la collectivité territoriale ou du groupement contractant. Tou
 révision de cette participation doit faire l'objet d'un avenant à la convention
 approuvé par l'assemblée délibérante de la collectivité territoriale ou du
 groupement contractant au vu d'un rapport spécial établi par l'aménageur.
+
+L'opération d'aménagement pourra bénéficier, avec l'accord préalable de la
+collectivité contractante, de subventions versées par d'autres collectivités
+territoriales en vue de financer les actions d'aménagement public. Si ces
+subventions sont versées directement à l'organisme aménageur, celui-ci devra
+rendre compte de leur attribution, de leur échéancier et de leur encaissement
+effectif dans le rapport annuel prévu au quatrième alinéa (3°). Il devra
+également rendre compte de leur utilisation à la collectivité ayant accordé la
+subvention.

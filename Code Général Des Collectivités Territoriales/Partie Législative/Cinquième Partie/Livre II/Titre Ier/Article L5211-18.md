@@ -4,7 +4,8 @@ I. - Sans préjudice des dispositions de l'article L. 5215-40, le périmètre de
 l'établissement public de coopération intercommunale peut être ultérieurement
 étendu, par arrêté du ou des représentants de l'Etat dans le ou les départements
 concernés, par adjonction de communes nouvelles, sous réserve de l'absence
-d'opposition de plus du tiers des conseils municipaux des communes membres :
+d'opposition de plus du tiers des conseils municipaux des communes membres
+représentant au moins la moitié de la population de ces communes :
 
 1° Soit à la demande des conseils municipaux des communes nouvelles. La
 modification est alors subordonnée à l'accord de l'organe délibérant de

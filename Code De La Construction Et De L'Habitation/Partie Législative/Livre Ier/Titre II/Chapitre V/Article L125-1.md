@@ -1,5 +1,12 @@
 Article L125-1
 ----
-L'installation d'ascenseurs dépourvus de portes de cabine est interdite. Les
-infractions à cette disposition sont constatées, poursuivies et sanctionnées
-selon les règles fixées par les articles L. 152-1 à L. 152-10.
+Les dispositions de la présente section s'appliquent aux ascenseurs qui sont
+destinés à desservir de manière permanente les bâtiments et les constructions.
+
+Ne sont pas concernés par les dispositions de la présente section les
+installations à câbles, y compris les funiculaires pour le transport public ou
+non des personnes, les ascenseurs spécialement conçus et construits à des fins
+militaires ou de maintien de l'ordre, les ascenseurs équipant les puits de mine,
+les élévateurs de machinerie de théâtre, les ascenseurs installés dans des
+moyens de transport, les ascenseurs liés à une machine et exclusivement destinés
+à l'accès au poste de travail de celle-ci et les ascenseurs de chantier.

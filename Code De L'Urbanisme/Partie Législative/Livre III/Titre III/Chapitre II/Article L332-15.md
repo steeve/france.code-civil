@@ -14,6 +14,14 @@ Les obligations imposées par l'alinéa ci-dessus s'étendent au branchement des
 droit du terrain sur lequel ils sont implantés et notamment aux opérations
 réalisées à cet effet en empruntant des voies privées ou en usant de servitudes.
 
+L'autorisation peut également, avec l'accord du demandeur et dans les conditions
+définies par l'autorité organisatrice du service public de l'eau ou de
+l'électricité, prévoir un raccordement aux réseaux d'eau ou d'électricité
+empruntant, en tout ou partie, des voies ou emprises publiques, sous réserve que
+ce raccordement n'excède pas cent mètres et que les réseaux correspondants,
+dimensionnés pour correspondre exclusivement aux besoins du projet, ne soient
+pas destinés à desservir d'autres constructions existantes ou futures.
+
 En cas de classement ultérieur dans la voirie et les réseaux publics, les
 travaux exigés au titre des équipements propres n'ouvrant pas droit à l'action
 en répétition prévue à l'article L. 332-6.

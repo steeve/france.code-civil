@@ -1,7 +1,8 @@
 Article L480-6
 ----
-L'extinction de l'action publique résultant du décès du prévenu ou de l'amnistie
-ne fait pas obstacle à l'application des dispositions de l'article L. 480-5.
+L'extinction de l'action publique résultant du décès du prévenu, de la
+dissolution de la personne morale mise en cause ou de l'amnistie ne fait pas
+obstacle à l'application des dispositions de l'article L. 480-5.
 
 Si le tribunal correctionnel n'est pas saisi lors de cette extinction, l'affaire
 est portée devant le tribunal de grande instance du lieu de la situation de

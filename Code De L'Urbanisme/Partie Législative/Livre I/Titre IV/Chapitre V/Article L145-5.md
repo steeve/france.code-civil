@@ -15,8 +15,10 @@ projets visés au 1° de l'article l. 111-1-2.
 
 Lorsqu'un plan local d'urbanisme est établi, les dispositions du présent article
 peuvent être adaptées par ce document d'urbanisme pour permettre une extension
-mesurée des agglomérations ou l'ouverture d'un terrain de camping dans le
-respect du paysage et des caractéristiques propres à cet espace sensible.
+mesurée des agglomérations ou l'ouverture d'un terrain de camping, ou la
+réalisation d'un équipement culturel dont l'objet est directement lié au
+caractère lacustre des lieux, dans le respect du paysage et des caractéristiques
+propres à cet espace sensible.
 
 Lorsqu'un schéma de cohérence territorial ou un schéma de secteur est établi
 pour l'ensemble des communes riveraines, ou un plan local d'urbanisme si le plan

@@ -5,5 +5,5 @@ compte de la communauté d'intérêts économiques et sociaux à l'échelle d'un
 vallée, d'un pays, d'un massif local ou d'une entité géographique constituant
 une unité d'aménagement cohérent.
 
-Le périmètre est arrêté par le représentant de l'Etat dans les conditions
-définies au III de l'article L. 122-3 du présent code.
+Le périmètre est publié par arrêté du représentant de l'Etat dans les conditions
+définies au IV de l'article L. 122-3.

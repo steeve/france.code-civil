@@ -1,14 +1,14 @@
 Article L156-3
 ----
-I. - Les terrains situés dans les parties actuellement urbanisées de la commune
+I.-Les terrains situés dans les parties actuellement urbanisées de la commune
 comprises dans la bande littorale définie à l'article L. 156-2 sont préservés
 lorsqu'ils sont à l'usage de plages, d'espaces boisés, de parcs ou de jardins
 publics. Il en est de même des espaces restés naturels situés dans les parties
 actuellement urbanisées de la bande littorale précitée, sauf si un intérêt
 public exposé au plan local d'urbanisme justifie une autre affectation.
 
-II. - Les secteurs de la zone dite des cinquante pas géométriques situés dans
-les parties actuellement urbanisées de la commune ou au droit de ces parties
+II.-Les secteurs de la zone dite des cinquante pas géométriques situés dans les
+parties actuellement urbanisées de la commune ou au droit de ces parties
 peuvent, dès lors qu'ils sont déjà équipés ou occupés à la date de publication
 de la loi n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection
 et la mise en valeur de la zone dite des cinquante pas géométriques dans les
@@ -26,5 +26,6 @@ de l'équilibre du milieu marin et terrestre.
 Ces installations organisent ou préservent l'accès et la libre circulation le
 long du rivage.
 
-III. - Sont autorisées, dans les secteurs visés au II ci-dessus, l'adaptation,
-la réfection et l'extension limitée des constructions existantes.
+III.-Sont autorisés, dans les secteurs visés au II ci-dessus, l'adaptation, le
+changement de destination, la réfection et l'extension limitée des constructions
+existantes.

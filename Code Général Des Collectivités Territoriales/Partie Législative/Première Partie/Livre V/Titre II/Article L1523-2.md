@@ -35,3 +35,13 @@ intervention, librement négociées entre les parties ;
 
 6° Les pénalités applicables en cas de défaillance de la société ou de mauvaise
 exécution du contrat.
+
+La convention peut prévoir les conditions dans lesquelles d'autres collectivités
+territoriales apportent, le cas échéant, leur aide financière pour des actions
+et opérations d'aménagement public visées aux articles L. 300-1 à L. 300-5 du
+code de l'urbanisme. Une convention spécifique est conclue entre l'organisme
+signataire de la convention publique d'aménagement et la collectivité qui
+accorde la ou les subventions.
+
+Les concours financiers visés au présent article ne sont pas régis par les
+dispositions du titre Ier du présent livre.

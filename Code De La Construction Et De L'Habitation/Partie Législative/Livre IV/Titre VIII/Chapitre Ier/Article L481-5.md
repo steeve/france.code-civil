@@ -1,8 +1,8 @@
 Article L481-5
 ----
 Les conseils d'administration des sociétés d'économie mixte gérant des logements
-sociaux comprennent des représentants des locataires qui disposent d'une voix
-consultative.
+sociaux comprennent des représentants de leurs locataires qui disposent d'une
+voix consultative.
 
 Les représentants des locataires sont élus sur des listes de candidats
 présentées par des associations oeuvrant dans le domaine du logement social.

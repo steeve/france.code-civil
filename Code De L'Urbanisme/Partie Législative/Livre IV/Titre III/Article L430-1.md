@@ -34,4 +34,8 @@ l'Etat.
 
 Toutefois, les immeubles classés en application de la loi du 31 décembre 1913,
 ainsi que les sites classés en application de la loi du 2 mai 1930, demeurent
-régis par les dispositions particulières de ces lois.
+régis par les dispositions particulières de ces lois ;
+
+h) Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un
+plan d'occupation des sols approuvé, dans des périmètres délimités par
+délibération du conseil municipal.

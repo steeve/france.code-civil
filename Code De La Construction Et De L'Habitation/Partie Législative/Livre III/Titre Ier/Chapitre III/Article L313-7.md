@@ -53,19 +53,6 @@ professionnel dans les conditions et sous les peines prévues à l'article 226-1
 et 226-14 du code pénal. Ce secret ne peut leur être opposé, sauf par les
 auxiliaires de justice.
 
-A la demande du ministre chargé du logement, l'Agence nationale pour la
-participation des employeurs à l'effort de construction peut contrôler les
-opérations réalisées à l'aide de fonds provenant de la participation des
-employeurs à l'effort de construction par les organismes qui n'ont pas le statut
-d'organisme agréé pour collecter cette participation. A ce titre, elle a accès à
-tous les livres, pièces, documents et justifications nécessaires à l'exercice de
-son contrôle.
-
-Les dispositions de l'alinéa précédent ne s'appliquent pas aux organismes
-d'habitations à loyer modéré et aux sociétés d'économie mixte exerçant à titre
-principal une activité de construction, d'acquisition ou de gestion de logements
-sociaux.
-
 L'agence nationale établit un rapport annuel sur l'évolution de l'ensemble des
 sommes investies au titre de la participation des employeurs à l'effort de
 construction.

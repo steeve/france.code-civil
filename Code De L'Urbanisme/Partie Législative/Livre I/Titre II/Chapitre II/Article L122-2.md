@@ -1,29 +1,36 @@
 Article L122-2
 ----
-En l'absence d'un schéma de cohérence territoriale applicable, les zones
-naturelles et les zones d'urbanisation future délimitées par les plans locaux
-d'urbanisme des communes ne peuvent pas être ouvertes à l'urbanisation.
+Dans les communes qui sont situées à moins de quinze kilomètres de la périphérie
+d'une agglomération de plus de 50 000 habitants au sens du recensement général
+de la population, ou à moins de quinze kilomètres du rivage de la mer, et qui ne
+sont pas couvertes par un schéma de cohérence territoriale applicable, le plan
+local d'urbanisme ne peut être modifié ou révisé en vue d'ouvrir à
+l'urbanisation une zone à urbaniser délimitée après le 1er juillet 2002 ou une
+zone naturelle.
 
-Toutefois, une extension limitée de l'urbanisation peut être prévue par les
-plans locaux d'urbanisme et les cartes communales avec l'accord du préfet. Cet
-accord est donné après avis de la commission départementale des sites et de la
-chambre d'agriculture qui apprécient l'impact de l'urbanisation sur
-l'environnement et les activités agricoles.
+Dans les communes mentionnées au premier alinéa et à l'intérieur des zones à
+urbaniser ouvertes à l'urbanisation après l'entrée en vigueur de la loi n°
+2003-590 du 2 juillet 2003 urbanisme et habitat, il ne peut être délivré
+d'autorisation d'exploitation commerciale en application des l° à 6° et du 8° du
+I de l'article L. 720-5 du code de commerce ou d'autorisation de création des
+salles de spectacles cinématographiques en application du I de l'article 36-1 de
+la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de
+l'artisanat.
 
-Lorsqu'un périmètre de schéma de cohérence territoriale a été arrêté, il peut
-être dérogé aux dispositions du premier alinéa avec l'accord de l'établissement
-public prévu à l'article L. 122-4.
-
-Les dispositions du présent article ne sont pas applicables dans les communes
-situées à plus de quinze kilomètres de la périphérie d'une agglomération de plus
-de 15 000 habitants au sens du recensement général de la population, et à plus
-de quinze kilomètres du rivage de la mer.
+Il peut être dérogé aux dispositions des deux alinéas précédents soit avec
+l'accord du préfet donné après avis de la commission départementale des sites et
+de la chambre d'agriculture, soit, lorsque le périmètre d'un schéma de cohérence
+territoriale incluant la commune a été arrêté, avec l'accord de l'établissement
+public prévu à l'article L. 122-4. La dérogation ne peut être refusée que si les
+inconvénients éventuels de l'urbanisation envisagée pour les communes voisines,
+pour l'environnement ou pour les activités agricoles sont excessifs au regard de
+l'intérêt que représente pour la commune la modification ou la révision du plan.
 
 Le préfet peut, par arrêté motivé pris après avis de la commission de
 conciliation, constater l'existence d'une rupture géographique due à des
 circonstances naturelles, notamment au relief, et, en conséquence, exclure du
 champ d'application du présent article une ou plusieurs communes situées à moins
-de quinze kilomètres de la périphérie d'une agglomération de plus de 15 000
+de quinze kilomètres de la périphérie d'une agglomération de plus de 50 000
 habitants.
 
 Pour l'application du présent article, les schémas d'aménagement régionaux

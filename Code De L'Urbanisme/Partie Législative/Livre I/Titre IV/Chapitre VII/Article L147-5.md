@@ -20,29 +20,30 @@ secteurs déjà urbanisés et desservis par des équipements publics dès lors
 qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil
 d'habitants exposés aux nuisances.
 
-2° Les opérations de rénovation des quartiers ou de réhabilitation de l'habitat
-existant, ainsi que l'amélioration, l'extension mesurée ou la reconstruction des
-constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
-pas un accroissement de la capacité d'accueil d'habitants exposés aux nuisances,
-elles peuvent, en outre, être admises dans les secteurs déjà urbanisés et
-desservis par des équipements publics de la zone C lorsqu'elles n'entraînent pas
-d'accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
+2° La rénovation, la réhabilitation, l'amélioration, l'extension mesurée ou la
+reconstruction des constructions existantes peuvent être admises lorsqu'elles
+n'entraînent pas un accroissement de la capacité d'accueil d'habitants exposés
+aux nuisances ;
 
 3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis
 que lorsqu'ils sont nécessaires à l'activité aéronautique ou indispensables aux
-populations existantes.
+populations existantes ;
 
 4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de
 laquelle les constructions sont autorisées mais doivent faire l'objet des
 mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation
 d'une zone D est obligatoire pour les aérodromes visés au 3 de l'article 266
-septies du code des douanes.
+septies du code des douanes ;
 
 5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter
 des secteurs où, pour permettre le renouvellement urbain des quartiers ou
 villages existants, des opérations de réhabilitation et de réaménagement urbain
 peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation de
-la population soumise aux nuisances sonores.
+la population soumise aux nuisances sonores. Postérieurement à la publication
+des plans d'exposition au bruit, à la demande de la commune ou de
+l'établissement public de coopération intercommunale compétent en matière de
+plan local d'urbanisme, de tels secteurs peuvent également être délimités par
+arrêté préfectoral pris après enquête publique.
 
 Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien
 immobilier situé dans l'une des zones de bruit définies par un plan d'exposition

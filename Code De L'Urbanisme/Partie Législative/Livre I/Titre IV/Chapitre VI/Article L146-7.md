@@ -4,7 +4,8 @@ La réalisation de nouvelles routes est organisée par les dispositions du prés
 article.
 
 Les nouvelles routes de transit sont localisées à une distance minimale de 2.000
-mètres du rivage.
+mètres du rivage. Cette disposition ne s'applique pas aux rives des plans d'eau
+intérieurs.
 
 La création de nouvelles routes sur les plages, cordons lagunaires, dunes ou en
 corniche est interdite.

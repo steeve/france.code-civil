@@ -29,7 +29,7 @@ avant le 1er janvier 2003. Les dispositions du présent alinéa ne font pas
 obstacle à la mise en oeuvre des dispositions des articles L. 122-5, L. 122-15
 et L. 122-16, dans leur rédaction issue de la loi n° 2000-1208 du 13 décembre
 2000 précitée, ni la modification du périmètre du schéma directeur dans les
-conditions définies par le dernier alinéa du présent article.
+conditions définies par le onzième alinéa du présent article.
 
 Lorsque l'établissement public qui a établi le schéma directeur a été dissous ou
 n'est plus compétent en matière de schéma directeur ou de schéma de cohérence
@@ -71,6 +71,14 @@ régime juridique défini par le présent chapitre. L'organe délibérant de
 l'établissement public de coopération intercommunale délibère, en application de
 l'article L. 300-2, sur les modalités de la concertation avec la population.
 
+Les schémas directeurs approuvés avant l'entrée en vigueur de la loi n°
+2000-1208 du 13 décembre 2000 précitée et les schémas directeurs approuvés ou
+révisés dans les conditions définies par les troisième et quatrième alinéas
+peuvent faire l'objet d'une modification, sans être mis en forme de schéma de
+cohérence territoriale, dans les conditions définies par le second alinéa de
+l'article L. 122-13, lorsque la modification ne porte pas atteinte à leur
+économie générale.
+
 Les dispositions des schémas directeurs en cours de modification dont
 l'application anticipée a été décidée avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée demeurent applicables jusqu'à
@@ -88,3 +96,27 @@ directeur dont elle se retire. La modification du périmètre est décidée par
 arrêté préfectoral, après avis de l'établissement public de coopération
 intercommunale ou du syndicat mixte chargé de l'élaboration du schéma directeur,
 s'il existe.
+
+Lorsque l'établissement public mentionné à l'article L. 122-4 a été constitué,
+avant l'entrée en vigueur de la loi n° 2003-590 du 2 juillet 2003 urbanisme et
+habitat, sous la forme d'un syndicat mixte comprenant d'autres personnes
+publiques que les communes et les établissements publics de coopération
+intercommunale compétents compris dans le périmètre du schéma de cohérence
+territoriale, ce syndicat reste compétent jusqu'à l'approbation du schéma de
+cohérence territoriale ou, lorsqu'il s'agit d'un schéma directeur, jusqu'à
+l'approbation de la révision de ce schéma mentionnée au deuxième alinéa. Les
+personnes publiques autres que les communes et les établissements publics de
+coopération intercommunale compétents compris dans le périmètre du schéma se
+retirent du syndicat mixte dans le délai de six mois à compter de l'approbation
+du schéma ou de sa révision. A l'issue de ce délai, le retrait est prononcé
+d'office par arrêté préfectoral.
+
+Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
+2000-1208 du 13 décembre 2000 précitée ou un schéma directeur approuvé dans le
+délai d'un an à compter de l'entrée en vigueur de ladite loi en application du
+troisième alinéa ou un schéma directeur révisé avant le 1er janvier 2003 en
+application du quatrième alinéa est annulé pour vice de forme ou de procédure,
+l'établissement public prévu à l'article L. 122-4 peut l'approuver à nouveau,
+après enquête publique, dans le délai d'un an à compter de la décision
+juridictionnelle qui l'a annulé, sans mettre le schéma directeur en forme de
+schéma de cohérence territoriale.

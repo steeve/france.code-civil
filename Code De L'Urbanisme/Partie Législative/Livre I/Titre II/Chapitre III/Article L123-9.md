@@ -8,7 +8,10 @@ local d'urbanisme.
 
 Le conseil municipal arrête le projet de plan local d'urbanisme. Celui-ci est
 alors soumis pour avis aux personnes publiques associées à son élaboration ainsi
-que, à leur demande, aux communes limitrophes et aux établissements publics de
-coopération intercommunale directement intéressés. Ces personnes donnent un avis
-dans les limites de leurs compétences propres, au plus tard trois mois après
-transmission du projet de plan ; à défaut, ces avis sont réputés favorables.
+que, à leur demande, aux communes limitrophes, aux établissements publics de
+coopération intercommunale directement intéressés, ainsi qu'à l'établissement
+public chargé d'un schéma de cohérence territoriale dont la commune est
+limitrophe, lorsqu'elle n'est pas couverte par un tel schéma. Ces personnes
+donnent un avis dans les limites de leurs compétences propres, au plus tard
+trois mois après transmission du projet de plan ; à défaut, ces avis sont
+réputés favorables.

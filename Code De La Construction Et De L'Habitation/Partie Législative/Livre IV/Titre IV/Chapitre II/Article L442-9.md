@@ -9,7 +9,12 @@ d'économie mixte de construction et de gestion de logements locatifs sociaux, l
 gérant bénéficie de toutes les délégations nécessaires à l'accomplissement de sa
 mission, dans des conditions fixées par décret.
 
-Les organismes d'habitations à loyer modéré peuvent également être autorisés à
-prendre en gérance dans les mêmes conditions des logements appartenant à des
-sociétés d'économie mixte de construction et de gestion de logements locatifs
-sociaux ou à des collectivités territoriales.
+Lorsqu'ils prennent en gérance des logements appartenant à l'Etat, à une
+collectivité territoriale ou à un groupement de collectivités territoriales, à
+des sociétés d'économie mixte de construction et de gestion de logements
+sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée
+à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre
+2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association, les organismes d'habitations à loyer modéré
+bénéficient de toutes les délégations nécessaires à l'exercice de leur mission,
+dans des conditions fixées par décret.
