@@ -1,65 +1,28 @@
 Article 238 bis-0 A
 ----
-Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
-sociétés sont autorisées à déduire du montant de leur bénéfice imposable la
-valeur d'acquisition des oeuvres d'art, des livres, des objets de collection ou
-des documents de haute valeur artistique ou historique, dont l'offre de donation
-à l'Etat a été acceptée. Cette déduction s'effectue dans les conditions
-suivantes :
+Les entreprises imposées à l'impôt sur les sociétés d'après leur bénéfice réel
+peuvent bénéficier d'une réduction d'impôt égale à 90 % des versements effectués
+avant le 31 décembre 2006 en faveur de l'achat de biens culturels présentant le
+caractère de trésors nationaux ayant fait l'objet d'un refus de délivrance d'un
+certificat d'exportation par l'autorité administrative, dans les conditions
+prévues à l'article 7 de la loi n° 92-1477 du 31 décembre 1992 relative aux
+produits soumis à certaines restrictions de circulation et à la complémentarité
+entre les services de police, de gendarmerie et de douane et pour lesquels
+l'Etat a fait au propriétaire du bien une offre d'achat dans les conditions
+prévues par l'article 9-1 de la même loi.
 
-1. L'entreprise s'engage à remettre le bien à l'Etat dans un délai maximum de
-dix ans à compter de l'acceptation définitive de cette offre par l'Etat. Cette
-acceptation est prononcée selon la procédure prévue à l'article 1716 bis, après
-avis du conseil artistique de la réunion des musées nationaux. Cet avis doit
-être communiqué dans un délai d'un mois.
+Les versements ne sont pas déductibles pour la détermination du bénéfice
+imposable.
 
-Lorsqu'elle a été acceptée, l'offre de don devient irrévocable.
+Les versements doivent faire l'objet d'une acceptation par les ministres chargés
+de la culture et du budget.
 
-2. L'offre de don doit être faite dans le délai d'un mois à compter de
-l'acquisition du bien. Il devient insaisissable et incessible à compter de
-l'acceptation de l'offre.
+La réduction d'impôt s'applique sur l'impôt sur les sociétés dû au titre de
+l'exercice au cours duquel les versements sont acceptés. Toutefois, la réduction
+d'impôt ne peut être supérieure à 50 % du montant de l'impôt dû par l'entreprise
+au titre de cet exercice conformément au I de l'article 219. Pour les sociétés
+membres d'un groupe au sens de l'article 223 A, la limite de 50 % s'applique
+pour l'ensemble du groupe par référence à l'impôt dû par la société mère du
+groupe.
 
-L'offre de don peut également porter sur un bien que l'entreprise se propose
-d'acquérir. Elle doit alors être accompagnée d'une promesse synallagmatique de
-vente du bien sous condition suspensive de l'acceptation de l'offre de don par
-l'Etat. Le bien devient insaisissable et incessible à compter de l'acceptation
-de l'offre.
-
-3. Les sommes admises en déduction sont égales au coût d'acquisition ou, si elle
-est inférieure, à la valeur fixée selon la procédure mentionnée au 1 et acceptée
-par l'entreprise. Lorsqu'elle pratique cette déduction, l'entreprise n'est pas
-autorisée à déduire une provision pour dépréciation de l'oeuvre.
-
-En cas d'acquisition par l'entreprise lors d'une vente aux enchères publiques,
-l'offre ne peut être acceptée que pour une valeur égale au prix déterminé lors
-de la vente.
-
-4. La déduction s'effectue au cours de la période prévue au 1, par fractions
-égales, dans la limite mentionnée au 2 de l'article 238 bis.
-
-5. L'entreprise inscrit à un compte de provision spéciale les sommes
-correspondant aux déductions opérées en application du 4.
-
-Lorsque le bien est transféré à l'Etat dans les conditions prévues au 1, le
-compte de provision spéciale est soldé par le crédit du compte d'immobilisation
-correspondant.
-
-6. Pendant cette période, le bien doit être exposé au public. Il peut être placé
-en dépôt auprès d'une région, d'un département, d'une commune, de leurs
-établissements publics ou d'un établissement public à caractère scientifique,
-culturel ou professionnel défini à l'article L. 711-2 du code de l'éducation.
-Une convention, passée entre le donateur, l'Etat et la collectivité ou
-l'établissement intéressé, détermine les conditions de dépôt.
-
-7. Lorsque le tribunal prononce la liquidation judiciaire ou autorise la cession
-de l'entreprise en application des dispositions du titre II du livre VI du code
-de commerce avant le terme prévu du délai fixé au 1, la propriété du bien est
-transférée à l'Etat.
-
-8. Lorsque la propriété du bien ne peut être transférée à l'Etat dans les
-conditions prévues au 1, et en dehors de l'hypothèse visée au 7, les sommes
-inscrites au compte de provision spéciale sont rapportées au résultat de
-l'exercice au cours duquel il apparaît que le bien ne peut plus être transféré.
-
-Dans ce cas, il est fait application de l'intérêt de retard prévu à l'article
-1727, à compter de la date à laquelle les sommes ont été déduites.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
