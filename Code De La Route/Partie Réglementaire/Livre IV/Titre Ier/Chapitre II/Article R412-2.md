@@ -1,10 +1,11 @@
 Article R412-2
 ----
-I. - En circulation, tout conducteur d'un véhicule à moteur, dont le poids total
-autorisé en charge n'excède pas 3,5 tonnes, et dont les sièges sont équipés de
-ceintures en application des dispositions du livre 3, doit s'assurer que les
-passagers âgés de moins de treize ans qu'il transporte sont maintenus soit par
-un système homologué de retenue pour enfant, soit par une ceinture de sécurité.
+I. - En circulation, tout conducteur d'un véhicule à moteur dont les sièges sont
+équipés de ceintures en application des dispositions du livre III, à l'exception
+des autobus et des autocars dont le poids total autorisé en charge excède 3,5
+tonnes, doit s'assurer que les passagers âgés de moins de treize ans qu'il
+transporte sont maintenus soit par un système homologué de retenue pour enfant,
+soit par une ceinture de sécurité.
 
 II. - De même, il doit s'assurer que tout enfant de moins de dix ans est retenu
 par un système homologué de retenue pour enfant adapté à sa morphologie et à son
