@@ -14,5 +14,6 @@ et sous le contrôle de la caisse des dépôts et consignations ou d'un organism
 habilité à collecter la participation des employeurs à l'effort de construction,
 en application de l'article R. 313-9 2 ;
 
-- des personnes physiques ou morales ayant obtenu un avis favorable de la
-commission des primes prévues à l'article R. 311-16.
+- des personnes physiques ou morales ayant obtenu l'agrément du préfet sur avis
+conforme du directeur départemental de l'équipement et du trésorier-payeur
+général du département.
