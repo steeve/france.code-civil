@@ -15,5 +15,6 @@ excéder un an ;
 1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 Lorsque cette mission est effectuée par une association qui a passé une
-convention avec le ministère de la justice, l'indemnité allouée est portée
-respectivement à 1 000 F, 1 670 F et 2 670 F.
+convention avec le premier président et le procureur général de la cour d'appel
+dans le ressort de laquelle est situé son siège social, l'indemnité allouée est
+portée respectivement à 1.000 F, 1.670 F et 2.670 F.
