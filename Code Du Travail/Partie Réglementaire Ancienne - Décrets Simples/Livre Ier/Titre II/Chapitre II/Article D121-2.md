@@ -44,6 +44,9 @@ l'étranger ;
 Les activités de coopération, d'assistance technique, d'ingénierie et de
 recherche à l'étranger ;
 
+Les activités [*des associations intermédiaires*] mentionnées à l'article L. 128
+[*L. 128-1*] du code du travail ;
+
 La recherche scientifique réalisée dans le cadre d'une convention
 internationale, d'un arrangement administratif international pris en application
 d'une telle convention, ou par des chercheurs étrangers résidant temporairement
