@@ -1,4 +1,6 @@
 Article A443-3
 ----
-Les dispositions des articles A. 443-1 et A. 443-2 ne peuvent être modifiées que
-par arrêté du ministre chargé de l'urbanisme.
+La demande d'autorisation de stationnement isolé d'une ou plusieurs caravanes
+pendant plus de trois mois par an, rendue nécessaire en application des
+dispositions de l'article R. 443-4, est établie conformément au modèle annexé au
+présent article (non reproduit).

@@ -8,7 +8,7 @@ dont le permis de construire constitue le fait générateur, soit :
 La taxe locale d'équipement et la taxe complémentaire à la taxe locale
 d'équipement perçue en région d'Ile-de-France ;
 
-La taxe départementale d'espaces verts ;
+La taxe départementale d'espaces naturels sensibles ;
 
 La taxe départementale pour le financement des conseils d'architecture,
 d'urbanisme et de l'environnement ;
@@ -19,3 +19,6 @@ Le versement résultant du dépassement du plafond légal de densité ;
 
 La redevance pour création de locaux à usage de bureaux et de locaux de
 recherche en région d'Ile-de-France.
+
+La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des
+impôts.

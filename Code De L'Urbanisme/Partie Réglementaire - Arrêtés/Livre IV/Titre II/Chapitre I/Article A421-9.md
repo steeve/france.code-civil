@@ -1,4 +1,4 @@
 Article A421-9
 ----
-Sur le territoire de la ville de Paris, la consultation s'effectue aux lieux,
-jours et heures fixés par arrêté du préfet de Paris.
+La déclaration d'ouverture de chantier prévue à l'article R. 421-40 est établie
+conformément à la rédaction du modèle annexé au présent article.

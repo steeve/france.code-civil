@@ -1,4 +1,5 @@
 Article A410-2
 ----
-Les dispositions de l'article A. 410-1 ne peuvent être modifiées que par arrêté
-du ministre chargé de l'urbanisme.
+La réponse à la demande de certificat d'urbanisme est établie conformément à
+l'un ou l'autre des deux modèles intitulés respectivement Certificat d'urbanisme
+positif et Certificat d'urbanisme négatif et annexés au présent article.
