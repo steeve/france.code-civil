@@ -1,7 +1,7 @@
 Article 2 sexdecies-0 A
 ----
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du
-code général des impôts, les conditions prévues au quatrième alinéa du e du 1°
+I. - Pour l'application du sixième alinéa du e du 1° du I de l'article 31 du
+code général des impôts, les conditions prévues au cinquième alinéa du e du 1°
 du I du même article s'apprécient en tenant compte du montant :
 
 a. Du loyer payé au bailleur par l'organisme sans but lucratif locataire ;
