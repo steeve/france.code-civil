@@ -5,11 +5,28 @@ l'attribution d'une allocation spéciale pour les travailleurs âgés faisant
 l'objet d'un licenciement pour motif économique qui, selon des modalités fixées
 par chaque convention, auront été déclarés non susceptibles d'un reclassement.
 
-Ces conventions fixent le montant des ressources garanties et le montant de
-l'allocation spéciale, compte tenu, le cas échéant, du montant de l'indemnité de
-licenciement et des allocations ayant le même objet que la présente allocation.
-Elles déterminent également le niveau de la contribution financière acquittée
-par l'entreprise signataire de la convention.
+Ces conventions déterminent le montant de la contribution financière due par
+l'entreprise signataire de la convention.
+
+Le salaire de référence servant de base à la détermination de l'allocation
+spéciale est fixé d'après les rémunérations sur lesquelles ont été assises les
+contributions au régime d'assurance chômage au titre des douze derniers mois
+civils précédant le dernier jour de travail payé à l'intéressé, dans la limite
+du double du plafond prévu à l'article L. 241-3 du code de la sécurité sociale.
+Il est calculé selon les règles définies dans le cadre du régime d'assurance
+chômage visé à la section 1 du chapitre Ier du titre V du livre III du présent
+code.
+
+Le montant total de l'allocation spéciale est égal à 65 % du salaire journalier
+de référence défini à l'alinéa précédent dans la limite du plafond prévu à
+l'article L. 241-3 du code de la sécurité sociale auxquels s'ajoutent 50 % du
+salaire de référence pour la part de ce salaire comprise entre une et deux fois
+ce même plafond.
+
+Le montant minimum de l'allocation ne peut être inférieur au montant minimum de
+l'allocation d'assurance prévue à l'article L. 351-3 du code du travail. Le
+montant de l'allocation journalière garantie ne peut excéder 85 % du salaire de
+référence.
 
 II. - Elles peuvent également prévoir une allocation de préretraite progressive
 pour les travailleurs âgés lorsque la transformation volontaire de leur emploi à
@@ -40,19 +57,35 @@ convention, sur la base d'une compensation du volume d'heures libéré par le
 passage à temps partiel du préretraité correspondant à la durée moyenne de
 travail pluriannuelle mentionnée à l'alinéa précédent.
 
-Les conventions de préretraite progressive déterminent le montant des ressources
-garanties et de l'allocation compte tenu, le cas échéant, des allocations ayant
-le même objet. Elles déterminent également le nombre de recrutements de
-demandeurs d'emploi, et notamment de ceux rencontrant des difficultés
-particulières d'accès à l'emploi, effectués par l'entreprise en compensation du
-passage à temps partiel des salariés en préretraite progressive, ainsi que le
-niveau de sa contribution financière.
+Les conventions déterminent le nombre de recrutements de demandeurs d'emploi,
+et, notamment de ceux rencontrant des difficultés particulières d'accès à
+l'emploi, que l'entreprise s'engage à effectuer en compensation du passage à
+temps partiel des salariés en préretraite progressive, ainsi que le montant de
+sa contribution financière.
 
 La contribution est majorée pour toute adhésion non compensée par l'embauche
 d'un demandeur d'emploi. Les taux de cette contribution peuvent être minorés
 pour tenir compte de la proportion des recrutements de demandeurs d'emploi
 rencontrant des difficultés particulières d'accès à l'emploi prévue dans la
 convention.
+
+Le salaire de référence servant de base à la détermination de l'allocation de
+préretraite progressive est fixé d'après les rémunérations sur lesquelles ont
+été assises les contributions au régime d'assurance chômage au titre des douze
+derniers mois civils précédant le dernier jour de travail payé à l'intéressé,
+dans la limite du double du plafond prévu à l'article L. 241-3 du code de la
+sécurité sociale. Il est calculé selon les règles définies dans le cadre du
+régime d'assurance chômage visé à la section 1 du chapitre Ier du titre V du
+livre III du code du travail.
+
+Le montant total de l'allocation est égal à 30 % du salaire journalier de
+référence défini à l'alinéa précédent dans la limite du plafond prévu à
+l'article L. 241-3 du code de la sécurité sociale auxquels s'ajoutent 25 % du
+salaire de référence pour la part de ce salaire comprise entre une et deux fois
+ce même plafond.
+
+Le montant minimum de l'allocation ne peut être inférieur à la moitié du montant
+minimum de l'allocation visé au cinquième alinéa du I.
 
 III. - Les allocations spéciales et de préretraite progressive sont servies au
 plus tard jusqu'à soixante-cinq ans. Les conditions dans lesquelles elles
@@ -74,12 +107,8 @@ de préretraite progressive peut être maintenu en tenant compte des rémunérat
 est également maintenue dans le cas où le salarié exerce des missions de turorat
 hors temps de travail dans les conditions définies à l'article L. 322-4 (3°).
 
-IV. - Le salaire de référence servant de base à la détermination des allocations
-versées aux salariés bénéficiaires des conventions conclues en application du
-présent article est fixé d'après les rémunérations sur lesquelles ont été
-assises les contributions au régime d'assurance chômage au titre des douze mois
-civils précédant le dernier jour de travail payé à l'intéressé. Il est
-revalorisé dans des conditions et suivant des modalités définies par décret.
+IV. - Le salaire de référence et le montant minimum de chaque allocation sont
+revalorisés dans des conditions et suivant des modalités définies par décret.
 
 V. - Un arrêté conjoint du ministre chargé de l'emploi et du ministre chargé du
 budget précise notamment les conditions d'adhésion des salariés aux conventions
