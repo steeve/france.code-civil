@@ -11,3 +11,11 @@ la mise en oeuvre de ressources communautaires.
 Toutefois le fonds n'est pas compétent pour assurer le paiement des restitutions
 pour les produits agricoles exportés sous forme de marchandises ne relevant pas
 de l'annexe I du traité instituant la Communauté européenne.
+
+Le fonds assure le suivi du marché de l'alcool éthylique d'origine agricole
+conformément au règlement (CE) n° 670/2003 du Conseil du 8 avril 2003
+établissant des mesures spécifiques relatives au marché de l'alcool éthylique
+d'origine agricole.
+
+Un arrêté du ministre chargé de l'agriculture fixera les modalités d'application
+de l'article R. 623-2, alinéa 3.
