@@ -1,7 +1,7 @@
 Article 50
 ----
 A l'exception des collectivités locales et de leurs groupements, des services
-départementaux de lutte contre l'incendie, des bureaux d'aide sociale dotés
+départementaux de lutte contre l'incendie, des centres d'action sociale dotés
 d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités
 locales, du centre de formation des personnels communaux et des caisses des
 écoles, les personnes physiques et morales, associations et organismes, qui

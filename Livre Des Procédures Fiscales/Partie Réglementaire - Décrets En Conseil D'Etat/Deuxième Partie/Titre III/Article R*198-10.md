@@ -12,5 +12,5 @@ En cas de rejet total ou partiel de la réclamation, la décision doit être
 motivée [*obligation*].
 
 Les décisions de l'administration sont notifiées dans les mêmes conditions que
-celles prévues par l'article R. 200-4 pour les notifications faites au cours de
-la procédure devant le tribunal administratif.
+celles prévues pour les notifications faites au cours de la procédure devant le
+tribunal administratif.

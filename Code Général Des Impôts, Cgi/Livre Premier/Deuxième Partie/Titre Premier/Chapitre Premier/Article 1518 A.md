@@ -7,4 +7,8 @@ lutte contre la pollution des eaux et de l'atmosphère faisant l'objet d'un
 amortissement exceptionnel au titre des articles 39 quinquies E et 39 quinquies
 F.
 
-(1) Annexe II, art. 31 unvicies
+A compter du 1er janvier 1991, les valeurs locatives des installations destinées
+à la lutte contre la pollution des eaux et de l'atmosphère visées au premier
+alinéa sont prises en compte à raison de la moitié de leur montant.
+
+(1) Annexe II, art. 310 unvicies

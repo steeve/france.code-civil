@@ -12,8 +12,8 @@ taux est fixé par le conseil général. Il ne peut excéder 0,3 % de la valeur 
 l'ensemble immobilier déterminée conformément à l'article 1585 D.
 
 La taxe est assise [*assiette*] et recouvrée selon les mêmes modalités et sous
-les mêmes sanctions que la taxe locale d'équipement. Elle doit être payée à la
-recette des impôts de la situation des biens en un versement exigible à
+les mêmes sanctions que la taxe locale d'équipement. Elle doit être payée au
+comptable du Trésor de la situation des biens en un versement exigible à
 l'expiration du délai prévu au troisième alinéa de l'article 1723 quater pour le
 premier versement de la taxe locale d'équipement. Son produit est perçu au
 profit du département [*organisme bénéficiaire*].

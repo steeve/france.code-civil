@@ -9,10 +9,10 @@ augmentée par arrêté ministériel.
 La perception de l'impôt est obligatoire dans toutes les communes.
 
 Le tarif en vigueur demeure applicable tant qu'il n'est pas modifié par une
-délibération du conseil municipal prise conformément à l'article 1560-II.
+délibération du conseil municipal prise conformément au II de l'article 1560.
 
 Pour tenir compte du droit des pauvres supprimé, les communes sont tenues de
-verser aux bureaux d'aide sociale une fraction du produit de l'impôt au moins
+verser aux centres d'action sociale une fraction du produit de l'impôt au moins
 égale au tiers des sommes perçues.
 
 Toutefois, le conseil municipal peut, après avis de la commission

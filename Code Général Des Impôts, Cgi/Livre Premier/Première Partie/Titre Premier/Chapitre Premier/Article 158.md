@@ -6,16 +6,16 @@ et dans les conditions prévues aux 2 à 6 ci-après, sans qu'il y ait lieu de
 distinguer suivant que ces revenus ont leur source en France ou hors de France.
 
 Toutefois, en ce qui concerne les entreprises et exploitations situées hors de
-France [*à l'étranger*], les règles fixées par le présent code pour la
-détermination forfaitaire des bénéfices imposables ne sont pas applicables.
+France, les règles fixées par le présent code pour la détermination forfaitaire
+des bénéfices imposables ne sont pas applicables.
 
 2. Le revenu net foncier est déterminé conformément aux dispositions des
 articles 14, 15 et 28 à 31.
 
-3. Les revenus de capitaux mobiliers [*définition*] comprennent tous les revenus
-visés au VII de la 1ère sous-section de la présente section, à l'exception des
-revenus expressément affranchis de l'impôt en vertu de l'article 157 et des
-revenus ayant supporté le prélèvement visé à l'article 125 A.
+3. Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
+de la 1ère sous-section de la présente section, à l'exception des revenus
+expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
+ayant supporté le prélèvement visé à l'article 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés à l'alinéa précédent sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
@@ -24,13 +24,12 @@ espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 Pour l'assiette de l'impôt sur le revenu des années antérieures à 1986, il est
 opéré un abattement de 5.000 F par an et par foyer fiscal sur la somme des
 revenus imposables, provenant de titres participatifs ou de valeurs mobilières à
-revenu fixe émis en France [*intérêts d'obligations*] et inscrits à la cote
-officielle d'une bourse de valeurs française, et d'intérêts servis sur les
-versements effectués dans les fonds salariaux. Toutefois, ces dispositions ne
-s'appliquent pas aux valeurs assorties d'une clause d'indexation et dont la
-liste est fixée par arrêté du ministre de l'économie et des finances (1). Un
-décret fixera, en tant que de besoin, les conditions d'application du présent
-alinéa.
+revenu fixe émis en France et inscrits à la cote officielle d'une bourse de
+valeurs française, et d'intérêts servis sur les versements effectués dans les
+fonds salariaux. Toutefois, ces dispositions ne s'appliquent pas aux valeurs
+assorties d'une clause d'indexation et dont la liste est fixée par arrêté du
+ministre de l'économie et des finances (1). Un décret fixera, en tant que de
+besoin, les conditions d'application du présent alinéa.
 
 L'abattement prévu au troisième alinéa est opéré sur les revenus des obligations
 mentionnées à l'article 132 ter qui ont été remises en échange d'actions de
@@ -69,8 +68,9 @@ célibataires, veufs ou divorcés et de 16.000 F pour les contribuables mariés
 soumis à imposition commune. Il ne s'applique pas aux revenus d'actions qui ne
 répondent pas aux conditions prévues par la première phrase du 1° de l'article
 163 octies lorsqu'ils sont encaissés par des personnes qui détiennent,
-directement ou indirectement, plus de 35 p. 100 [*pourcentage de participation*]
-des droits sociaux dans la société distributrice.
+directement ou indirectement, plus de 35 p. 100 des droits sociaux dans la
+société distributrice. Pour l'application de cette disposition, les droits
+sociaux appartenant au conjoint sont considérés comme détenus indirectement.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -113,9 +113,16 @@ Aucun abattement n'est appliqué à la partie des bénéfices résultant d'un
 redressement, sauf lorsque ce redressement fait suite à une déclaration
 rectificative souscrite spontanément par l'adhérent.
 
-L'établissement de la mauvaise foi d'un adhérent entraîne la perte de
-l'abattement pour l'année au titre de laquelle le redressement est effectué [*(3
-bis)*].
+L'abattement n'est pas appliqué lorsque la déclaration professionnelle, la
+déclaration d'ensemble des revenus ou les déclarations de chiffre d'affaires
+n'ont pas été souscrites dans les délais et qu'il s'agit de la deuxième
+infraction successive concernant la même catégorie de déclaration.
+
+L'établissement de la mauvaise foi d'un adhérent à l'occasion d'un redressement
+relatif à l'impôt sur le revenu ou à la taxe sur la valeur ajoutée auxquels il
+est soumis du fait de son activité professionnelle entraîne la perte de
+l'abattement et de la réduction d'impôt prévue à l'article 199 quater B du
+présent code, pour l'année au titre de laquelle le redressement est effectué.
 
 4 ter. (Sans objet).
 
@@ -142,11 +149,12 @@ troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant.
 
 Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et
-indemnités accessoires supérieurs à 320 000 F alloués par une ou plusieurs
+indemnités accessoires supérieurs à 413 200 F alloués par une ou plusieurs
 sociétés à une personne qui détient, directement ou indirectement, plus de 35 p.
-100 des droits sociaux sont retenus, pour la fraction excédant 320.000 F, à
-raison de 90 p. 100 de leur montant, net de frais professionnels (4). Ce chiffre
-est porté à 400 000 F pour l'impositions des revenus de 1988.
+100 des droits sociaux sont retenus, pour la fraction excédant 413 200 F, à
+raison de 90 p. 100 de leur montant, net de frais professionnels. Pour
+l'application de cette disposition, les droits sociaux appartenant au conjoint
+sont considérés comme détenus indirectement.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
@@ -218,9 +226,8 @@ cotisations ayant fait l'objet de la déduction prévue à l'article 83-1° bis.
 1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578 du 9 juillet 1984 art. 8 II (J.O.
 du 11).
 
-(3) Plafond fixé à 25.000 F pour l'imposition des revenus de 1986, à 25.900 F
-pour l'imposition des revenus de 1987 et à 26.600 F pour l'imposition des
-revenus de 1988.
+(3) Plafond fixé à 25.900 F pour l'imposition des revenus de 1987 et à 26.600 F
+pour l'imposition des revenus de 1988.
 
 (4) Limite applicable pour l'imposition des revenus de 1987. Cette limite était
 fixée à 250.000 F pour l'imposition des revenus de 1986.

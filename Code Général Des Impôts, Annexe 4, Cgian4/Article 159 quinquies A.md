@@ -8,4 +8,4 @@ relevant des branches 3 à 9 de l'article R. 321-1 du code des assurances.
 II. Le taux annuel de la contribution est fixé, pour 1989, à 1 F par contrat.
 Les sommes correspondantes sont perçues par les entreprises d'assurance à
 l'occasion de l'émission des primes ou cotisations recouvrées par elles entre le
-1er janvier et le 31 décembre 1989.
+1er janvier et le 31 décembre 1990.

@@ -1,7 +1,6 @@
 Article 998
 ----
-Par dérogation aux articles 991, 992 et 993, sont exonérées de la taxe spéciale
-:
+Par dérogation à l'article 991 sont exonérées de la taxe spéciale :
 
 1° Les assurances de groupe souscrites par une entreprise ou un groupe
 d'entreprises au profit de leurs salariés ou par un groupement professionnel
@@ -20,6 +19,4 @@ moyen de satisfaire à une disposition prévue par une convention collective ou 
 accord d'entreprise ou résultant du contrat de travail de l'ensemble ou d'un
 nombre significatif de salariés de l'entreprise.
 
-2° Les assurances temporaires en cas de décès prévues par la législation sur les
-habitations à loyer modéré, le crédit mutuel et la coopération agricoles et le
-crédit maritime mutuel.
+2° (Sans objet).

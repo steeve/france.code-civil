@@ -10,17 +10,16 @@ opérations lucratives auxquelles ils se livrent, sous déduction :
 I. Du déficit constaté pour une année dans une catégorie de revenus ; si le
 revenu global n'est pas suffisant pour que l'imputation puisse être
 intégralement opérée, l'excédent du déficit est reporté successivement sur le
-revenu global des années suivantes jusqu'à la cinquième année inclusivement
-[*délai*].
+revenu global des années suivantes jusqu'à la cinquième année inclusivement.
 
 Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 70.000 F [*montant*] ; ces déficits peuvent
+nets d'autres sources excède 100.000 F [*montant*] ; ces déficits peuvent
 cependant être admis en déduction des bénéfices de même nature des années
-suivantes jusqu'à la cinquième inclusivement. (Le seuil de 70.000 F est
-applicable à compter de l'imposition des revenus de 1987. Antérieurement il
-était de 40.000 F) ;
+suivantes jusqu'à la cinquième inclusivement. (Le seuil de 100.000 F est
+applicable à compter de l'imposition des revenus de 1990. Antérieurement il
+était de 70.000 F) ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -92,7 +91,7 @@ code civil et pensions alimentaires versées en vertu d'une décision de justice
 en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation
 de corps ou de divorce lorsque le conjoint fait l'objet d'une imposition séparée
 ; dans la limite de 18.000 F et, dans les conditions fixées par un décret en
-Conseil d'Etat les versements destinés à constituer le capital de la rente
+Conseil d'Etat, les versements destinés à constituer le capital de la rente
 prévue à l'article 294 du code civil (Voir Annexe II, art. 91 quinquies) ;
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
@@ -103,10 +102,10 @@ prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doubl�
 au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
 Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne
-peut être inférieur par enfant à 3 500 F lorsque la pension alimentaire est
-versée au profit d'un enfant inscrit dans l'enseignement supérieur. Cet avantage
-minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Les dispositions
-de cet alinéa s'appliquent à compter de l'imposition des reveus de 1988).
+peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est
+versée au profit d'un enfant inscrit dans l'enseignement supérieur [*étudiant*].
+Cet avantage minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Les
+dispositions de cet alinéa s'appliquent à compter du 1er janvier 1990).
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant,
 bénéficier à la fois de la déduction d'une pension alimentaire et du

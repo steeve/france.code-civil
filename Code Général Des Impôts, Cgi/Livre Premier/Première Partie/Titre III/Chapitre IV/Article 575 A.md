@@ -3,60 +3,40 @@ Article 575 A
 Pour les différents groupes de produits définis à l'article 575, le taux normal
 et le minimum de perception sont fixés conformément au tableau ci-après :
 
-Groupe de produits :
+Groupe de produits : Cigarettes
 
+Taux normal : 51,14
 
-Cigarettes
+Minimum de perception par mille unités ou par mille grammes :
 
-Taux normal : 49,76
+30 F
 
-Minimum de perception par mille unités ou par mille grammes : 30 F
+Groupe de produits : Cigares Taux normal : 26,74
 
-Groupe de produits :
+Minimum de perception par mille unités ou par mille grammes :
 
+34 F
 
-Cigares à enveloppe extérieure en tabac naturel
+Groupe de produits : Tabacs à fumer
 
-:
+Taux normal : 42,73
 
-Taux normal : 25,95
+Minimum de perception par mille unités ou par mille grammes :
 
-Minimum de perception par mille unités ou par mille grammes : 34 F
+12 F
 
-Groupe de produits :
+Groupe de produits : Tabacs à priser
 
+Taux normal : 36,25
 
-Cigares à enveloppe extérieure en tabac reconstitué
+Minimum de perception par mille unités ou par mille grammes :
 
-:
+8 F
 
-Taux normal : 29,80
+Groupe de produits : Tabacs à mâcher
 
-Minimum de perception par mille unités ou par mille grammes : 39
+Taux normal : 23,65
 
-Groupe de produits :
+Minimum de perception par mille unités ou par mille grammes :
 
-
-Tabacs à fumer
-
-Taux normal : 41,55
-
-Minimum de perception par mille unités ou par mille grammes : 12
-
-Groupe de produits :
-
-
-Tabacs à priser
-
-Taux normal : 35,23
-
-Minimum de perception par mille unités ou par mille grammes : 8
-
-Groupe de produits :
-
-
-Tabacs à mâcher
-
-Taux normal : 22,93
-
-Minimum de perception par mille unités ou par mille grammes : 7
+7 F.

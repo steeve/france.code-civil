@@ -6,7 +6,7 @@ application des dispositions de l'article 39 ter B-1 du code général des impô
 conditions prévues par les articles 10 C quinquies à 10 G de l'annexe III au
 code précité sont les suivantes :
 
-Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, minerai
+Minerai d'aluminium, amiante, minerai d'andalousite, antimoine, ardoise, minerai
 d'argent, argiles réfractaires kaoliniques, minerai d'arsenic, barytine, minerai
 de béryllium, minerai de bismuth, minerai de bore, minerai de chrome, minerai de
 cobalt, colombotantalite, minerai de cuivre, minerai d'étain, fluorine, kaolin,

@@ -10,7 +10,10 @@ N'entrent pas en compte pour la détermination du revenu net global :
 en France avec l'autorisation du ministre de l'économie et des finances à
 l'exception des primes de remboursement attachées aux titres émis à compter du
 1er juin 1985 lorsqu'elles sont supérieures à 5 % [*pourcentage maximal*] du
-nominal (1) ;
+nominal (1) et de celles distribuées ou réparties à compter du 1er janvier 1989
+par un organisme de placement collectif en valeurs mobilières visé par la loi n°
+88-1201 du 23 décembre 1988 lorsque ces primes représentent plus de 10 p. 100 du
+montant de la distribution ou de la répartition.
 
 3° bis (Dispositions transférées sous le 3 °) ;
 
@@ -29,27 +32,29 @@ délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 l'exception des intérêts des livrets supplémentaires ouverts dans les conditions
 prévues au décret n° 65-1158 du 24 décembre 1965 ;
 
-7° bis. (Disposition périmée) ;
+7° bis (Disposition périmée) ;
 
 7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire
 ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
 
-8° (Devenu sans objet) 8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973
-autorisé par la loi n° 73-965 du 16 octobre 1973, ainsi que les plus-values
-éventuelles de cession ou de remboursement de ces titres ;
+8° (Devenu sans objet).
 
-8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de
+8° bis Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n°
+73-965 du 16 octobre 1973, ainsi que les plus-values éventuelles de cession ou
+de remboursement de ces titres ;
+
+8° ter Les plus-values éventuelles de cession ou de remboursement des titres de
 l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13 mai 1977 ;
 
 9° (Dispositions devenues sans objet) ;
 
-9° bis. Les intérêts des sommes inscrites sur les comptes d'épargne-logement
+9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement
 ouverts en application des articles L 315-1 à L 315-6 du code de la construction
 et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces
 comptes ;
 
-9° ter. Les intérêts versés au titulaire du compte d'épargne sur livret ouvert
-en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
+9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en
+application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des
 chantiers et de l'agriculture ;
@@ -64,7 +69,7 @@ métiers.
 Il en est de même de la prime versée au travailleur manuel qui procède
 effectivement à la création ou au rachat d'une entreprise artisanale ;
 
-9° quater. Le produit des placements en valeurs mobilières effectués sur un
+9° quater Le produit des placements en valeurs mobilières effectués sur un
 compte pour le développement industriel [*CODEVI*] ouvert par les personnes
 physiques ayant leur domicile fiscal en France dans les établissements et
 organismes autorisés à recevoir des dépôts.
@@ -78,10 +83,9 @@ plafond fixé par décret (4) dans la limite de 20.000 F par compte.
 Les valeurs mobilières sont celles servant au financement de l'industrie
 française et entrant dans des catégories fixées par décret (5) ;
 
-9° quinquies. Les intérêts des sommes inscrites sur les livrets
+9° quinquies Les intérêts des sommes inscrites sur les livrets
 d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la
-loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
-économique.
+loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économique.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -91,7 +95,7 @@ loi n° 84-578 du 8 [*9*] juillet 1984 sur le développement de l'initiative
 engagements d'épargne à long terme pris par les personnes physiques dans les
 conditions prévues à l'article 163 bis A ;
 
-16° bis. Les sommes et revenus visés à l'article 163 bis AA ;
+16° bis Les sommes et revenus visés à l'article 163 bis AA ;
 
 17° Les sommes et revenus visés à l'article 163 bis B ;
 
@@ -106,6 +110,26 @@ d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978
 relative à l'indemnisation des français rapatriés d'outre-mer.
 
 21° Les avantages visés à l'article 163 bis D.
+
+22° Le versement au-delà de la huitième année qui suit l'ouverture d'un plan
+d'épargne populaire des produits capitalisés, de la rente viagère et de la prime
+d'épargne auxquels le plan ouvre droit. Il en est de même lorsque le retrait des
+fonds intervient avant la fin de la huitième année à la suite du décès du
+titulaire du plan ou dans les deux ans du décès du conjoint soumis à imposition
+commune ou de l'un des événements suivants survenu à l'un d'entre eux :
+
+Expiration des droits aux allocations d'assurance chômage prévues par le code du
+travail en cas de licenciement ;
+
+Cessation d'activité non salariée à la suite d'un jugement de liquidation
+judiciaire en application des dispositions de la loi n° 85-98 du 25 janvier 1985
+relative au redressement et à la liquidation judiciaires des entreprises ;
+
+Invalidité correspondant au classement dans les 2e ou 3° catégories prévues à
+l'article L. 341-4 du code de la sécurité sociale.
+
+Un décret en Conseil d'Etat précise les modalités d'application ainsi que les
+obligations déclaratives des contribuables et des intermédiaires.
 
 (1) Voir article 125 D.
 

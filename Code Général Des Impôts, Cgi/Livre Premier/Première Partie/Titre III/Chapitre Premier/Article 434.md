@@ -8,6 +8,7 @@ les fraudes et falsifications en matière de produits ou de services.
 
 Les cidres et poirés ne présentant pas la composition prévue pour être
 considérés comme propres à la consommation, mais répondant aux caractéristiques
-fixées par l'article 17 du décret n° 53-978 du 30 septembre 1953, ne peuvent
+définies à l'annexe III au décret n° 87-600 du 29 juillet 1987 modifiant les
+dispositions du titre II du décret n° 53-978 du 30 septembre 1953, ne peuvent
 être mis en vente, ou vendus pour la consommation sous quelque dénomination que
 ce soit.

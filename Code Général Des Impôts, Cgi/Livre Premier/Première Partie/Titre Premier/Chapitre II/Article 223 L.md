@@ -39,13 +39,37 @@ d'effet, peuvent être reportés sur les bénéfices ultérieurs de la société
 groupe, sur agrément du ministre chargé du budget et dans la limite définie par
 cet agrément.
 
-b) Si une société du groupe absorbe une autre société membre du groupe depuis
-moins de cinq ans, la société mère doit, par exception aux dispositions du
-premier alinéa de l'article 223 J, rapporter au résultat d'ensemble de
-l'exercice au cours duquel l'opération est réalisée une somme égale au montant
-de l'excédent de déficit mentionné à cet alinéa. Les dispositions de la deuxième
-phrase du même alinéa ne sont pas applicables.
+b) Lorsqu'une société membre du groupe depuis moins de cinq ans fusionne avec
+une autre société ou lui apporte ou reçoit d'elle une branche complète
+d'activité, la société mère rapporte au résultat d'ensemble de l'exercice au
+cours duquel l'opération est réalisée le montant de l'excédent de déficit et des
+autres sommes qui doivent être rapportées en application de l'article 223 J ;
+elle rapporte également à la plus ou moins-value nette à long terme d'ensemble
+du même exercice l'excédent de moins-value à long terme mentionné au même
+article ; les dispositions de la deuxième phrase des premier et deuxième alinéas
+de cet article ne sont pas applicables. Ces excédents sont déterminés à la
+clôture de l'exercice précédant l'opération. Ces dispositions s'appliquent
+également en cas d'apport de titres de sociétés consenti à des sociétés non
+soumises à l'impôt de titres de sociétés consenti à des sociétés non soumises à
+l'impôt sur les sociétés ou placé sous un régime de report d'imposition des
+plus-values autre que celui défini à l'article 223 F ou d'apport de titres de
+sociétés dont les résultats sont imposés selon les modalités prévues à l'article
+8.
 
-Les dispositions de l'alinéa précédent s'appliquent également si une société du
+Toutefois, en cas de fusion ou d'apport entre sociétés du groupe, la société
+mère peut, par une décision motivée, se dispenser de rapporter les sommes
+mentionnées au premier alinéa. Si l'une ou l'autre des sociétés concernées sort
+du groupe moins de cinq ans à compter de son entrée ou, pour la société
+bénéficiaire de l'apport, à compter de l'entrée de la société apporteuse si
+celle-ci est plus récente, la société mère rapporte ces sommes aux résultats et
+à la plus ou moins-value nette d'ensemble de l'exercice en cours à la date de la
+sortie. Si la société bénéficiaire de l'apport sort du groupe plus de cinq ans
+après son entrée, la société mère rapporte les sommes mentionnées au premier
+alinéa qui concernent la seule société apporteuse. Les dispositions des deux
+phrases qui précèdent s'appliquent en cas de nouvel apport de tout ou partie des
+activités qui ont été apportées avec le bénéfice de la dispense prévue à la
+première phrase du présent alinéa.
+
+Les dispositions du premier alinéa s'appliquent également si une société du
 groupe est affectée dans les cinq ans qui suivent son entrée dans le groupe par
 l'un des événements mentionnés au 2 ou au 5 de l'article 221.

@@ -5,16 +5,13 @@ titre III de la première partie du livre Ier du code général des impôts et a
 législations édictant les mêmes règles en matière de procédure et de
 recouvrement, les agents de l'administration des impôts, habilités à cet effet
 par le directeur général des impôts, peuvent effectuer des visites en tous
-lieux, même privés, où les pièces et documents se rapportant à ces infractions
-sont susceptibles d'être détenus et procéder à leur saisie. Ils sont accompagnés
-d'un officier de police judiciaire.
+lieux, même privés, où les pièces, documents, objets ou marchandises se
+rapportant à ces infractions sont susceptibles d'être détenus et procéder à leur
+saisie. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une
 ordonnance du président du tribunal de grande instance dans le ressort duquel
-sont situés les locaux à visiter.
-
-L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles
-prévues par le code de procédure pénale ; ce pourvoi n'est pas suspensif.
+sont situés les locaux à visiter ou d'un juge délégué par lui.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
@@ -23,11 +20,52 @@ d'information en possession de l'administration de nature à justifier la visite
 Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et
 de le tenir informé de leur déroulement.
 
+L'ordonnance comporte :
+
+- le cas échéant, mention de la délégation du président du tribunal de grande
+instance ;
+
+- l'adresse des lieux à visiter ;
+
+- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu
+l'autorisation de procéder aux opérations de visite.
+
+Le juge motive sa décision par l'indication des éléments de fait et de droit
+qu'il retient et qui laissent présumer, en l'espèce, l'existence des infractions
+dont la preuve est recherchée.
+
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un
+coffre dans un établissement de crédit dont la personne occupant les lieux
+visités est titulaire et où des pièces, documents, objets ou marchandises se
+rapportant aux infractions visées au 1. sont susceptibles de se trouver, ils
+peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris
+l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette
+autorisation est portée au procès-verbal prévu au 4.
+
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
 
 Il peut se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles
+prévues par le code de procédure pénale. Les délais de pourvoi courent à compter
+de la notification ou de la signification de l'ordonnance. Ce pourvoi n'est pas
+suspensif.
+
+L'ordonnance est notifiée, verbalement et sur place au moment de la visite, à
+l'occupant des lieux ou à son représentant qui en reçoit copie intégrale contre
+récépissé ou émargement au procès-verbal prévu au 4. En l'absence de l'occupant
+des lieux ou de son représentant, l'ordonnance est notifiée après la visite par
+lettre recommandée avec avis de réception. La notification est réputée faite à
+la date de réception figurant sur l'avis.
+
+A défaut de réception, il est procédé à la signification de l'ordonnance dans
+les conditions prévues par les articles 550 et suivants du code de procédure
+pénale.
+
+Les délai et modalités de la voie de recours sont mentionnés sur les actes de
+notification et de signification.
 
 3. La visite ne peut être commencée avant six heures ni après vingt et une
 heures ; dans les lieux ouverts au public elle peut également être commencée

@@ -16,9 +16,10 @@ la seule déduction des frais, à l'oeuvre au profit de laquelle la séance est
 donnée. Faute de produire ces justifications dans un délai maximal de deux mois,
 la perception portée en consignation est convertie en recette définitive. En
 outre, ces mêmes organisateurs et bénéficiaires doivent tenir leur comptabilité
-à la disposition des agents des impôts pendant le délai prévu à l'article L82 du
-livre des procédures fiscales. En aucun cas, la réduction d'impôt ne doit être
-accordée :
+à la disposition des agents des impôts pendant le délai prévu au premier alinéa
+du I de l'article L102 B.
+
+En aucun cas, la réduction d'impôt ne doit être accordée :
 
 a Aux manifestations de bienfaisance n'ayant pas fait l'objet d'une autorisation
 administrative; b Aux manifestations qui ne laisseraient aux oeuvres au profit

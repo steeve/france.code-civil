@@ -1,8 +1,8 @@
 Article 1636 B sexies
 ----
-I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B
-decies, les conseils régionaux autres que celui de la région d'Ile-de-France,
-les conseils généraux, les conseils municipaux et les instances délibérantes des
+I. 1 Sous réserve des dispositions des articles 1636 B septies et 1636 B decies,
+les conseils régionaux autres que celui de la région d'Ile-de-France, les
+conseils généraux, les conseils municipaux et les instances délibérantes des
 organismes de coopération intercommunale dotés d'une fiscalité propre votent
 chaque année les taux des taxes foncières, de la taxe d'habitation et de la taxe
 professionnelle. Ils peuvent :
@@ -20,7 +20,7 @@ révision, le taux de la taxe foncière sur les propriétés non bâties ne peut
 lui-même excéder celui de l'année précédente corrigé de la variation du taux de
 la taxe d'habitation.
 
-2. Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur
+2 Toutefois, le taux de la taxe d'habitation, le taux de la taxe foncière sur
 les propriétés bâties ou le taux de la taxe foncière sur les propriétés non
 bâties peut, à compter de 1989, être diminué jusqu'au niveau du taux moyen
 national de la taxe constaté l'année précédente pour, selon le cas, les communes
@@ -29,17 +29,23 @@ jusqu'au niveau du taux de la taxe professionnelle de la collectivité ou du
 groupement concerné sans que ces diminutions soient prises en compte pour
 l'application, à la baisse, des dispositions du b du 1.
 
-Lorsque au titre d'une année il est fait application des dispositions de
-l'alinéa précédent, la variation en hausse du taux de la taxe d'habitation ou du
-taux moyen de la taxe d'habitation et des taxes foncières à prendre en compte,
-pour l'application du 1, pour la détermination du taux de la taxe
-professionnelle ou du taux de la taxe foncière sur les propriétés non bâties,
-est réduite de moitié pendant les trois années suivantes. Lorsque au titre d'une
-année, le taux de la taxe professionnelle ou le taux de la taxe foncière sur les
-propriétés non bâties a été augmenté dans ces conditions, il ne peut pas être
-fait application de l'alinéa précédent pendant les trois années suivantes.
+Pour l'application des dispositions de l'alinéa précédent aux communes membres
+de groupements dotés ou non d'une fiscalité propre, les taux communaux de la
+taxe d'habitation, des taxes foncières et de la taxe professionnelle sont
+majorés des taux de ces groupements pour l'année précédant celle de
+l'imposition.
 
-3. Pour les départements et les communes lorsque le taux de la taxe
+Lorsque au titre d'une année il est fait application des dispositions du premier
+alinéa, la variation en hausse du taux de la taxe d'habitation ou du taux moyen
+de la taxe d'habitation et des taxes foncières à prendre en compte, pour
+l'application du 1, pour la détermination du taux de la taxe professionnelle ou
+du taux de la taxe foncière sur les propriétés non bâties, est réduite de moitié
+pendant les trois années suivantes. Lorsque au titre d'une année, le taux de la
+taxe professionnelle ou le taux de la taxe foncière sur les propriétés non
+bâties a été augmenté dans ces conditions, il ne peut pas être fait application
+du premier alinéa pendant les trois années suivantes.
+
+3 Pour les départements et les communes lorsque le taux de la taxe
 professionnelle ainsi déterminé est inférieur à la moyenne constatée pour cette
 taxe l'année précédente dans l'ensemble des collectivités de même nature, il
 peut faire l'objet d'une majoration au plus égale à 5 p. 100 de cette moyenne
@@ -75,18 +81,20 @@ dans l'ensemble des communes et, d'autre part, excède une fois et demie le taux
 communal de taxe professionnelle, le taux communal de taxe d'habitation peut, au
 titre d'une seule année, être diminué de 15 p. 100 au plus sans que cette
 réduction soit prise en compte pour l'application des dispositions du b du 1 du
-I. Pour les cinq années qui suivent celle au titre de laquelle il a été fait
+I (Cette disposition n'est plus applicable à compter de 1989).
+
+Pour les cinq années qui suivent celle au titre de laquelle il a été fait
 application de l'alinéa précédent, le taux de taxe professionnelle et le taux de
 la taxe foncière sur les propriétés non bâties ne peuvent augmenter que si le
 taux de taxe d'habitation est, préalablement ou simultanément, majoré dans une
 proportion supérieure à la réduction effectuée en application de l'alinéa
 précédent. Dans ce cas, la variation du taux de taxe d'habitation à prendre en
 considération pour l'application du b du 1 du I est celle qui excède
-l'augmentation due à la suppression de la réduction.
-
-Lorsqu'il a été fait application des dispositions prévues au premier alinéa, une
-nouvelle réduction ne peut être opérée qu'à compter de la sixième année
-suivante.
+l'augmentation due à la suppression de la réduction (Ces dispositions ne sont
+pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2
+du I). Lorsqu'il a été fait application des dispositions prévues au premier
+alinéa, une nouvelle réduction ne peut être opérée qu'à compter de la sixième
+année suivante.
 
 Ces dispositions ne font pas obstacle à l'application du 3 du I.
 

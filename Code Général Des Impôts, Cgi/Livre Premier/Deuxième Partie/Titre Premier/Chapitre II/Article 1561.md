@@ -20,8 +20,8 @@ sportives organisées pendant l'année sur le territoire de la commune bénéfic
 de la même exemption ;
 
 c. Les organisateurs des réunions visées aux a et b doivent tenir leur
-comptabilité à la disposition des agents des impôts pendant le délai prévu à
-l'article L 82 du livre des procédures fiscales ;
+comptabilité à la disposition des agents des impôts pendant le délai prévu au
+premier alinéa du I de l'article L102 B ;
 
 4° Par délibération du conseil municipal, les sommes versées à des oeuvres de
 bienfaisance à la suite de manifestations organisées dans le cadre de mouvements

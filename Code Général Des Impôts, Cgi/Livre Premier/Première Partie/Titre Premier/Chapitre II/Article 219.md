@@ -1,32 +1,47 @@
 Article 219
 ----
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
-10 F est négligée.
-
-Le taux de l'impôt est fixé à 39 % (1).
-
-Toutefois :
+10 F est négligée. Le taux de l'impôt est fixé à 37 %. Toutefois :
 
 a. Le montant net des plus-values à long terme autres que celles visées à
 l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de 15
 %, dans les conditions prévues au 1 du I de l'article 39 quindecies et à
-l'article 209 quater.
+l'article 209 quater. Pour l'imposition des plus-values à long terme réalisées à
+compter du 20 octobre 1989, autres que celles visées à l'article 39 terdecies,
+le taux de 15 p. 100 est porté à 19 p. 100 ;
 
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
-les plus-values à long terme réalisées au cours des dix exercices suivants.
+les plus-values à long terme réalisées au cours des dix exercices suivants. Les
+moins-values à long terme existant à l'ouverture du premier exercice clos après
+le 20 octobre 1989 qui sont afférentes aux éléments d'actifs autres que ceux
+visés à l'article 39 terdecies et au I de l'article 691 sont imputées sur les
+plus-values à long terme imposables au taux de 19 p. 100 mentionné à l'alinéa
+précédent ;
 
 Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices
-ouverts à compter du 1er janvier 1989, cet excédent peut être déduit des
-bénéfices de l'exercice de liquidation à raison des quinze trente-neuvièmes de
-son montant (2). Pour les liquidations intervenues en cours des exercices
-ouverts à compter du 1er janvier 1988, cet excédent peut être déduit à raison
-des quinze quarante- deuxièmes de son montant.
+ouverts à compter du 1er janvier 1990 l'excédent des moins-values à long terme
+subies à compter du 20 octobre 1989 peut être déduit des bénéfices de l'exercice
+de liquidation à raison des dix-neuf trente-septièmes de son montant. Cette
+fraction est égale à dix-neuf trente-neuvièmes si la liquidation est intervenue
+au cours d'exercices ouverts en 1989 ou à dix-neuf quarante-deuxièmes si la
+liquidation est intervenue au cours d'exercices ouverts en 1988.
+
+Pour les moins-values à long terme subies avant le 20 octobre 1989 cette
+fraction est égale à quinze quarante-cinquièmes si la liquidation est intervenue
+au cours d'exercices ouverts entre le 1er janvier 1986 et le 31 décembre 1987,
+quinze quarante-deuxièmes si la liquidation est intervenue au cours d'exercices
+ouverts en 1988, quinze trente-neuvièmes si la liquidation est intervenue au
+cours d'exercices ouverts en 1989 et quinze trente-septièmes si la liquidation
+intervient au cours d'exercices ouverts à compter du 1er janvier 1990.
+
+Les provisions pour dépréciation du portefeuille existant à l'ouverture du
+premier exercice clos après le 20 octobre 1989 sont comprises dans les
+plus-values à long terme imposables au taux de 19 p. 100 lorsqu'elles deviennent
+sans objet.
 
 Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
 fait l'objet d'une imposition séparée au taux de 25 % dans les conditions
-prévues par ce texte et par l'article 209 quater.
-
-b. (Disposition périmée).
+prévues par ce texte et par l'article 209 quater. b. (Disposition périmée).
 
 c. Le taux de l'impôt sur les sociétés est porté à 42 p. 100 pour les
 distributions, au sens du présent code, effectuées par les entreprises au cours
@@ -92,7 +107,7 @@ profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'
 permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972
 [*période*] ou pour lesquels aura été déposée, avant le 1er janvier 1972, la
 déclaration de construction visée à l'article L 430-3 du code de l'urbanisme
-(3).
+(2).
 
 Toutefois, en ce qui concerne ces profits :
 
@@ -102,12 +117,10 @@ b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-(1) Pour les exercices ouverts à compter du 1er janvier 1989. Il est réduit à 37
-p. 100 pour les exercices ouverts à compter du 1er janvier 1990.
-
-(2) Cette fraction est égale à quinze quarante-cinquièmes lorsque la liquidation
+(1) Cette fraction est égale à quinze quarante-cinquièmes lorsque la liquidation
 est intervenue au cours des exercices ouverts entre le 1er janvier 1986 et le 31
 décembre 1987. Elle est égale à quinze quarante-deuxièmes lorsque la liquidation
-est intervenue au cours des exercices ouverts à compter du 1er janvier 1988. (3)
-Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O. du
-1er janvier 1977).
+est intervenue au cours des exercices ouverts à compter du 1er janvier 1988.
+
+(2) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
+du 1er janvier 1977).

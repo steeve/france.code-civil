@@ -3,7 +3,7 @@ Article 99
 Les contribuables soumis obligatoirement au régime de la déclaration contrôlée
 ou qui désirent être imposés d'après ce régime sont tenus d'avoir un
 livre-journal servi au jour le jour et présentant le détail de leurs recettes et
-de leurs dépenses professionnelles [*obligations*].
+de leurs dépenses professionnelles.
 
 Ils doivent en outre tenir un document appuyé des pièces justificatives
 correspondantes, comportant la date d'acquisition ou de création et le prix de
@@ -12,5 +12,4 @@ montant des amortissements effectués sur ces éléments, ainsi qu'éventuelleme
 le prix et la date de cession de ces mêmes éléments.
 
 Ils doivent conserver ces registres ainsi que toutes les pièces justificatives
-jusqu'à l'expiration du délai prévu à l'article L 82 du livre des procédures
-fiscales.
+selon les modalités prévues aux deux premiers alinéas du I de l'article L102 B.
