@@ -1,8 +1,10 @@
 Article R351-12
 ----
-Il n'est pas tenu compte à partir du premier jour du mois civil suivant celui au
-cours duquel survient l'événement ou le changement de situation, sous réserve
-que le bénéficiaire en apporte la preuve, des ressources du conjoint :
+Il n'est pas tenu compte, à partir du premier jour du mois civil suivant celui
+au cours duquel survient l'événement ou le changement de situation, sous réserve
+que la preuve en soit apportée :
+
+Des ressources du conjoint du bénéficiaire :
 
 - soit décédé ;
 
@@ -15,20 +17,25 @@ convention temporaire passée à ce sujet entre les époux ;
 
 - soit absent du domicile en raison d'une séparation de fait des époux ;
 
+Des revenus d'activité professionnelle ni des indemnités de chômage perçues par
+le conjoint du bénéficiaire ;
+
 - soit appelé sous les drapeaux ;
+
+- soit détenu, les ressources du conjoint étant toutefois prises en
+considération s'il est placé dans le régime de semi-liberté ;
 
 - soit cessant toute activité professionnelle pour se consacrer à un enfant de
 moins de trois ans ou à plusieurs enfants ;
 
-- soit détenu : les ressources du conjoint étant toutefois prises en
-considération s'il est placé sous le régime de semi-liberté.
+Lorsque l'une des situations mentionnées au présent article prend fin, il est
+tenu compte :
 
-Lorsque le conjoint du bénéficiaire se trouve dans l'une des situations
-mentionnées au premier alinéa et que cette situation prend fin, il est tenu
-compte des ressources perçues par l'intéressé à partir du premier jour du mois
-civil au cours duquel :
+Des ressources perçues par le conjoint du bénéficiaire à partir du premier jour
+du mois au cours duquel la vie commune est reprise ;
 
-- soit la vie commune est reprise ;
+Des revenus d'activité professionnelle ou des indemnités de chômage à partir du
+premier jour du mois au cours duquel :
 
 - soit la période d'accomplissement du service national ou de détention expire ;
 

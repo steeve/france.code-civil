@@ -2,8 +2,8 @@ Article R351-2-1
 ----
 L'aide personnalisée est accordée à l'accédant titulaire d'un contrat de
 location-accession lorsque le vendeur est titulaire d'un prêt défini par les
-articles R. 331-59-8 et suivants et supporte les charges afférentes à ce prêt
-[*bénéficiaire*].
+articles R. 331-59-8 et suivants ou d'un prêt défini par les articles R331-76-1
+et suivants et supporte les charges afférentes à ce prêt [*bénéficiaire*].
 
 Le droit à l'aide personnalisée est ouvert :
 
