@@ -15,9 +15,19 @@ les entreprises assujetties une péréquation des charges sur le plan national
 tout en tenant compte des particularités propres à chacune des deux catégories
 définies au deuxième alinéa du présent article.
 
-Des arrêtés du ministre chargé du travail et du ministre chargé des finances et
-des affaires économiques, pris après avis de la Caisse nationale de
-surcompensation du bâtiment et des travaux publics de France, répartissent les
-entreprises entre les deux catégories ci-dessus définies d'après la
-nomenclature, des activités économiques et fixent le montant de l'abattement
-prévu à l'article R. 731-18 ainsi que les taux des cotisations.
+Des arrêtés du ministre chargé de l'emploi et du ministre chargé de l'économie
+et des finances, pris après avis de la Caisse nationale de surcompensation du
+bâtiment et des travaux publics de France, répartissent les entreprises entre
+les deux catégories ci-dessus définies d'après la nomenclature des activités
+économiques et fixent le montant de l'abattement prévu à l'article R. 731-18.
+
+Ces arrêtés fixent également chaque année les taux de cotisations mises à la
+charge des entreprises et le montant du fonds de réserve destiné à assurer le
+remboursement dans les conditions définies au présent chapitre des indemnités
+mentionnées aux articles précédents. Lorsque ce montant est dépassé, le conseil
+d'administration de la Caisse nationale de surcompensation du bâtiment et des
+travaux publics de France peut, si les ministres chargés de l'emploi et de
+l'économie et des finances, préalablement informés, n'ont pas fait connaître
+leur opposition dans un délai d'un mois à compter de la réception de cette
+information, réduire pour le reste de l'année les cotisations des entreprises
+dans la limite de 20 % des taux initialement fixés.
