@@ -11,3 +11,8 @@ Il ne peut comporter de dispositions lésant les salariés dans leur emploi ou
 leur travail, en raison de leur sexe, de leurs moeurs, de leur situation de
 famille, de leurs origines, de leurs opinions ou confessions, ou de leur
 handicap, à capacité professionnelle égale [*non discrimination*].
+
+Le règlement intérieur est rédigé en français [*langue*]. [Dispositions
+déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 94-345 DC du 29 juillet 1994.] Il peut être accompagné de
+traductions en une ou plusieurs langues étrangères.
