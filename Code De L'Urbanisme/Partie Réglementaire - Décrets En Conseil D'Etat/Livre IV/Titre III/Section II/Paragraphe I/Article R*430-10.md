@@ -12,3 +12,7 @@ régional des affaires culturelles.
 L'avis est réputé favorable s'il n'a pas été donné [*silence*] dans les délais
 prescrits aux alinéas précédents, sauf si l'affaire a été évoquée avant
 l'expiration de ces délais, dans les conditions prévues à l'article R. 430-14.
+
+Lorsque le bâtiment est situé dans un secteur sauvegardé et qu'il est fait
+application du troisième alinéa de l'article L. 313-2, il est procédé ainsi
+qu'il est dit aux articles R. 313-17-1 et R. 313-17-2.

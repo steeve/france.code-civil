@@ -16,16 +16,23 @@ instruction, sauf si l'architecte des bâtiments de France fait connaître dans 
 délai, par une décision motivée, à cette autorité, son intention d'utiliser un
 délai plus long qui ne peut, en tout état de cause, excéder quatre mois.
 
-En cas de désaccord du maire ou de l'autorité compétente pour délivrer le permis
-de construire avec l'avis de l'architecte des bâtiments de France, le
-commissaire de la République de région est saisi du dossier. Le commissaire de
-la République de région donne, après consultation du collège régional du
-patrimoine et des sites, un avis qui se substitue à celui de l'architecte des
-bâtiments de France.
+En application du deuxième alinéa de l'article 71 de la loi n° 83-8 du 7 janvier
+1983 modifiée, le préfet de région, saisi par le maire ou par l'autorité
+compétente pour délivrer le permis de construire par lettre recommandée avec
+demande d'avis de réception dans un délai d'un mois à compter de la réception de
+l'avis émis par l'architecte des Bâtiments de France, émet, après consultation
+de la commission régionale du patrimoine et des sites, un avis qui se substitue
+à celui de l'architecte des Bâtiments de France.
 
-L'avis du commissaire de la République de région est réputé confirmer l'avis de
-l'architecte des bâtiments de France faute d'avoir été formulé dans le délai de
-quatre mois à compter de sa saisine.
+Lorsque le maire n'est pas l'autorité compétente pour délivrer le permis, le
+préfet de région notifie à cette autorité la demande qui lui est adressée par le
+maire.
 
-Si le ministre compétent a décidé, dans ces délais, d'évoquer le dossier, le
-permis de construire ne peut être délivré qu'avec son accord exprès.
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour
+délivrer le permis. Le préfet de région est réputé confirmer l'avis de
+l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de
+quatre mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre chargé de la culture. Dans ce cas, le permis ne peut être
+délivré qu'avec l'accord exprès de ce dernier. La décision d'évoquer le dossier
+prise par le ministre est notifiée au pétitionnaire, au maire et à l'autorité
+compétente.
