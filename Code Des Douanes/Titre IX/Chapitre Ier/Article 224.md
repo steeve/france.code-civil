@@ -1,6 +1,10 @@
 Article 224
 ----
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat.
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat, ou,
+lorsqu'il est perçu au titre des navires de plaisance visés au dernier alinéa de
+l'article 223, au profit de la collectivité territoriale de Corse un prélèvement
+pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit.
+Ce prélèvement est affecté au budget général.
 
 Il est recouvré par année civile.
 
