@@ -14,7 +14,7 @@ caisse centrale des mutuelles agricoles ;
 
 - six représentants des entreprises d'assurance agréées pour pratiquer les
 opérations d'assurance contre les risques de responsabilité civile résultant de
-l'emploi de véhicules terrestres à moteur, désignées par ces entreprises ;
+l'emploi de véhicules terrestres à moteur, désignés par ces entreprises ;
 
 - un représentant des entreprises d'assurance agréées pour pratiquer les
 opérations d'assurance mentionnées au 13 de l'article R. 321-1 et pratiquant
@@ -25,7 +25,7 @@ respectivement sur la proposition du directeur général de la Caisse des dépô
 et consignations, de l'assemblée des présidents des chambres de commerce et
 d'industrie de France, de l'assemblée permanente des présidents des chambres
 d'agriculture de France, de la fédération française des clubs automobiles, de la
-fédération nationale des transporteurs routiers et du conseil supérieur de la
+fédération nationale des transporteurs routiers et de l'Office national de la
 chasse.
 
 Le conseil élit son président parmi ses membres.

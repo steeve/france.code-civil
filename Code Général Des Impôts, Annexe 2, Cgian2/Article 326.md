@@ -8,7 +8,7 @@ Contribution des sociétés d'assurances : 12 % de la totalité des charges des
 opérations du fonds de garantie afférentes à la chasse et à la destruction des
 animaux nuisibles;
 
-Contribution des assurés, somme forfaitaire maximum de 1 franc par personne
+Contribution des assurés, somme forfaitaire maximum de 2,50 francs par personne
 garantie.
 
 1) Annexe III, art. 340 sexies.

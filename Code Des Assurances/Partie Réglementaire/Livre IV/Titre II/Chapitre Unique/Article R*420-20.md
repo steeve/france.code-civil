@@ -2,15 +2,15 @@ Article R*420-20
 ----
 1. Pour bénéficier des dispositions de l'article R. 420-18 toute victime de
 dommages matériels mentionnés audit article doit, sous peine de déchéance de ses
-droits éventuels à l'égard du fonds de garantie, adresser audit fond une
+droits éventuels à l'égard du fonds de garantie, adresser audit fonds une
 déclaration accompagnée de l'état descriptif des dommages et de justifications
 relatives à l'identité de l'adversaire, à sa responsabilité et à l'absence ou à
 l'insuffisance d'assurance ou de garantie de la personne présumée responsable
-des dommages. Cette déclaration doit être adressée au fonds dans le délai d'un
-mois à compter du jour où la victime a eu connaissance de l'absence ou de
+des dommages. Cette déclaration doit être adressée au fonds dans le délai de
+deux mois à compter du jour où la victime a eu connaissance de l'absence ou de
 l'insuffisance de garantie de la personne présumée responsable des dommages
 notamment par le refus de prise en charge du sinistre par l'assureur de cette
-personne et au plus tard dans le délai de six mois a compter du jour de
+personne et au plus tard dans le délai de six mois à compter du jour de
 l'accident, sauf si la victime est en mesure de rapporter la preuve qu'ayant
 fait elle-même ou par mandataire des diligences nécessaires pour obtenir la
 prise en charge de ses dommages par un assureur, il ne lui a pas été possible

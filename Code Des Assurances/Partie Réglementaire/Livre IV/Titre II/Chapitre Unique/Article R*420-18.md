@@ -5,16 +5,8 @@ application de l'article L. 420-1 du code sont uniquement ceux qui sont causés
 accidentellement par un ou plusieurs véhicules terrestres à moteur ainsi que par
 les remorques ou semi-remorques de ces véhicules.
 
-Sont exclus du bénéfice du fonds de garantie :
-
-a) Le propriétaire, hormis le cas où le véhicule a été volé, le conducteur et,
-d'une façon générale, toute personne qui a la garde du véhicule au moment de
-l'accident ;
-
-b) Lorsqu'ils sont transportés dans le véhicule : le conjoint, les ascendants et
-descendants des personnes mentionnées au a et dont la responsabilité est engagée
-du fait de l'accident ainsi que les représentants légaux de la personne morale
-propriétaire du véhicule.
+Sont exclus du bénéfice du fonds de garantie les dommages subis par le véhicule
+qui a causé l'accident ainsi que les dommages aux biens du conducteur.
 
 Lorsque le véhicule qui a causé l'accident a été volé, sont également exclus du
 bénéfice du fonds de garantie les complices du vol et d'une manière générale
@@ -39,7 +31,7 @@ en précisant le numéro de la police.
 2. Les dispositions des articles R. 420-13 à R. 420-16 sont applicables à
 l'indemnisation des dommages matériels.
 
-3. Le fonds de garantie ne prend pas en charge des dommages matériels subis par
+3. Le fonds de garantie ne prend pas en charge les dommages matériels subis par
 l'Etat et par les collectivités publiques, entreprises et organismes
 bénéficiaires d'une dérogation à l'obligation d'assurance accordée en
 application de l'article L. 211-3.

@@ -14,5 +14,5 @@ Contribution des responsables d'accidents corporels non assurés :
 lorsque l'accident résulte d'une opération de destruction des animaux nuisibles
 effectuée en vertu des articles 393 à 395 du code rural ;
 
-Contribution des assurés : somme forfaitaire maximale de 1 F par personne
+Contribution des assurés : somme forfaitaire maximale de 2,50 F par personne
 garantie.
