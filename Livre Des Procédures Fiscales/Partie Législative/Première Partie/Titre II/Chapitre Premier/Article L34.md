@@ -1,10 +1,10 @@
 Article L34
 ----
 Chez les marchands en gros de boissons et les fabricants de vinaigre, les agents
-de l'administration des impôts peuvent intervenir dans les magasins, caves et
-celliers, depuis le lever jusqu'au coucher du soleil [*horaires*] en vue
-d'effectuer les vérifications nécessaires à la constatation des quantités de
-boissons restant en magasin ou de s'assurer de la régularité des opérations.
+de l'administration peuvent intervenir dans les magasins, caves et celliers,
+depuis le lever jusqu'au coucher du soleil en vue d'effectuer les vérifications
+nécessaires à la constatation des quantités de boissons restant en magasin ou de
+s'assurer de la régularité des opérations.
 
 Ces vérifications ne peuvent être empêchées par aucun obstacle du fait des
 marchands en gros ; ceux-ci doivent toujours être en mesure soit par eux-mêmes,

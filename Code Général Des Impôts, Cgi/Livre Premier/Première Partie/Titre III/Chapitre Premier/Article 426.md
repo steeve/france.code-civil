@@ -2,14 +2,14 @@ Article 426
 ----
 Tout envoi de sucre ou de glucose fait par quantités de 25 kilogrammes au moins
 à une personne n'en faisant pas le commerce ou n'exerçant pas une industrie qui
-en comporte l'emploi doit être accompagné d'un acquit-à-caution qui est remis au
-bureau de déclarations de la direction générale des impôts par le destinataire
-dans les quarante-huit heures suivant l'expiration du délai de transport. Le
-négociant convaincu d'avoir, en violation des dispositions du présent article,
-livré sans acquit-à-caution du sucre ou du glucose par quantités supérieures à
-25 kilogrammes, est assujetti, pendant la campagne en cours et la campagne
-suivante, à tenir un compte d'entrées et de sorties des sucres et glucoses et à
-se soumettre aux vérifications de l'administration (1).
+en comporte l'emploi doit être accompagné d'un acquit-à-caution qui est remis à
+l'administration par le destinataire dans les quarante-huit heures suivant
+l'expiration du délai de transport. Le négociant convaincu d'avoir, en violation
+des dispositions du présent article, livré sans acquit-à-caution du sucre ou du
+glucose par quantités supérieures à 25 kilogrammes, est assujetti, pendant la
+campagne en cours et la campagne suivante, à tenir un compte d'entrées et de
+sorties des sucres et glucoses et à se soumettre aux vérifications de
+l'administration (1).
 
 1) Article abrogé par l'article 5-III de la loi n° 70-576 du 3 juillet 1970.
 Toutefois, cette abrogation n'entrera en vigueur qu'après publication d'un

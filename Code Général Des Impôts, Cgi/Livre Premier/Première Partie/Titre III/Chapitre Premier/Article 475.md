@@ -6,8 +6,8 @@ chaptalisés.
 
 La délivrance aux bouilleurs de profession de l'acquit jaune d'or est
 subordonnée à la justification que les producteurs des vins mis en oeuvre ne se
-sont livrés à aucune opération de sucrage en première cuvée [*condition*]. Cette
-justification est fournie sous forme d'attestations délivrées par le service des
-impôts du lieu de production en même temps que le titre de mouvement applicable
-aux vins. Ces attestations sont représentées par le bouilleur avec les
-acquits-à-caution ayant servi à légitimer le transport.
+sont livrés à aucune opération de sucrage en première cuvée. Cette justification
+est fournie sous forme d'attestations délivrées par l'administration du lieu de
+production en même temps que le titre de mouvement applicable aux vins. Ces
+attestations sont représentées par le bouilleur avec les acquits-à-caution ayant
+servi à légitimer le transport.

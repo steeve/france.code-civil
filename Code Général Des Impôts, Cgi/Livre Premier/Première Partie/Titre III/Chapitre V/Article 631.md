@@ -1,10 +1,11 @@
 Article 631
 ----
-Les frais d'exercice que les redevables sont tenus de rembourser au service des
-impôts, en vertu de dispositions législatives ou réglementaires, consistent dans
-le versement du traitement brut moyen du grade auquel appartiennent les agents
-attachés en permanence à l'établissement, majoré de 20 % à titre de frais
-généraux et des différentes indemnités effectivement touchées par ces agents.
+Les frais d'exercice que les redevables sont tenus de rembourser à
+l'administration, en vertu de dispositions législatives ou réglementaires,
+consistent dans le versement du traitement brut moyen du grade auquel
+appartiennent les agents attachés en permanence à l'établissement, majoré de 20
+% à titre de frais généraux et des différentes indemnités effectivement touchées
+par ces agents.
 
 La rémunération servant de base au calcul des frais de surveillance est celle
 d'un fonctionnaire ayant deux enfants à charge dans la localité où se trouve

@@ -1,11 +1,10 @@
 Article 308
 ----
 Tout détenteur d'appareils ou de portions d'appareils propres à la distillation,
-à la fabrication ou au repassage d'eaux-de-vie ou d'esprits, est tenu de faire
-au bureau de déclarations de la direction générale des impôts, dans les cinq
-jours qui suivent son entrée en possession [*délai*], une déclaration énonçant
-le nombre, la nature et la capacité de ses appareils ou portions d'appareils
-[*mentions*].
+à la fabrication ou au repassage d'eaux-de-vie ou d'esprits, est tenu de faire à
+l'administration, dans les cinq jours qui suivent son entrée en possession, une
+déclaration énonçant le nombre, la nature et la capacité de ses appareils ou
+portions d'appareils.
 
 Les appareils sont, s'il y a lieu, poinçonnés.
 
