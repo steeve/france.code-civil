@@ -46,8 +46,9 @@ d'assurance maladie et maternité des travailleurs non-salariés et des caisses
 mutuelles régionales d'assurance maladie et maternité des travailleurs
 non-salariés ;
 
-6° en ce qui concerne les régimes obligatoires de base d'assurance maladie : les
-unions régionales des caisses d'assurance maladie ;
+6° en ce qui concerne les régimes obligatoires de base d'assurance maladie :
+l'Union nationale des caisses d'assurance maladie et les unions régionales des
+caisses d'assurance maladie ;
 
 7°) en ce qui concerne le régime des expatriés : une caisse des Français de
 l'étranger ;

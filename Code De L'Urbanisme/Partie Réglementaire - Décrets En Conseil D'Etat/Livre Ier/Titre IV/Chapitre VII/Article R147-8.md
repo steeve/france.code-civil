@@ -7,9 +7,9 @@ délibérants des établissements publics de coopération intercommunale compét
 est transmis pour avis par le préfet à :
 
 - l'Autorité de contrôle des nuisances sonores aéroportuaires pour les
-aérodromes visés au 3 de l'article 266 septies du code des douanes, qui
-recueille au préalable l'avis de la commission consultative de l'environnement
-concernée ;
+aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des
+impôts, qui recueille au préalable l'avis de la commission consultative de
+l'environnement concernée ;
 
 - la commission consultative de l'environnement, lorsqu'elle existe, pour les
 autres aérodromes.
