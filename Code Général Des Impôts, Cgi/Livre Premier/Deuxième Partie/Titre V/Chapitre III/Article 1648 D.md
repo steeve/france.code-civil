@@ -31,14 +31,11 @@ II bis. Les taux de 1 %, de 0,75 % et de 0,50 % visés au II sont majorés et
 respectivement portés à 1,70 %, 1,25 % et 0,8 % pour les impositions établies au
 titre de 1990 et des années suivantes.
 
-III. A titre transitoire, le taux de la cotisation de péréquation pour 1983 est
-fixé à 0,75 % dans le cas visé au II-1.
+III. (Périmé).
 
 IV. Le taux global de taxe professionnelle est égal à la somme du taux perçu au
 profit des collectivités locales et de leurs groupements dotés d'une fiscalité
 propre.
 
-((V. Les dispositions du présent article ne sont pas applicables en Corse à
-compter de 1995)) (M).
-
-(M) Modification.
+V. Les dispositions du présent article ne sont pas applicables en Corse à
+compter de 1995.

@@ -5,10 +5,6 @@ contribuable, est égal au dixième de l'impôt établi au titre de ses revenus 
 l'avant-dernière année, ou, si cet impôt n'a pas encore été établi, de l'impôt
 sur ses derniers revenus annuels imposés.
 
-((Toutefois, les prélèvements effectués lors des quatre premiers mois de l'année
-1994 sont réduits de 6 p. 100 dans une limite mensuelle de 1 000 F))
-(Modification de la loi).
-
 S'il estime que les prélèvements mensuels effectués ont atteint le montant des
 cotisations dont il sera finalement redevable, le contribuable peut demander la
 suspension des prélèvements suivants.

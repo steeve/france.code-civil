@@ -3,7 +3,7 @@ Article 119 bis
 1. Sous réserve des dispositions de l'article 125 A, les revenus de capitaux
 mobiliers entrant dans les prévisions des articles 118, 119, 238 septies B et
 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est
-fixé par l'article 187-1.
+fixé par le 1 de l'article 187.
 
 Toutefois, les produits des titres de créances mentionnés au 1° bis du III bis
 de l'article 125 A sont placés en dehors du champ d'application de la retenue à
@@ -27,14 +27,14 @@ La retenue à la source ne s'applique pas (2) aux distributions des sociétés d
 capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de
 la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
 
-- la distribution entre dans les prévisions du 4 de l'article 39 terdecies ;
+a) la distribution entre dans les prévisions du 4 de l'article 39 terdecies ;
 
-- le bénéficiaire effectif est une personne morale qui a son siège de direction
+b) le bénéficiaire effectif est une personne morale qui a son siège de direction
 effective dans un Etat ayant conclu avec la France une convention fiscale
 comportant une clause d'assistance administrative pour l'application du droit
 interne ;
 
-- la distribution est comprise dans des bénéfices déclarés dans cet Etat mais
+c) la distribution est comprise dans des bénéfices déclarés dans cet Etat mais
 bénéficie d'une exonération d'impôt.
 
 (1) Annexe II, art. 48, 75 à 79.

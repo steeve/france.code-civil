@@ -10,7 +10,7 @@ cession ou cessation intervient dans les cinq ans qui suivent l'année du
 versement de l'aide.
 
 L'apport d'une entreprise individuelle à une société ne fait pas perdre le
-bénéfice de l'exonération prévue à l'alinéa précédent lorsque son bénéficiaire
+bénéfice de l'exonération prévue au premier alinéa lorsque son bénéficiaire
 conserve l'ensemble des titres qu'il a reçus en contrepartie de l'apport jusqu'à
 la fin de la cinquième année qui suit celle du versement de l'aide et qu'il
 exerce effectivement le contrôle de la société. L'intéressé est considéré comme

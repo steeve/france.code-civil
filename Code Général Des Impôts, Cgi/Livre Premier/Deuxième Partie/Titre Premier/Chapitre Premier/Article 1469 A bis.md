@@ -9,8 +9,9 @@ l'article 1467 A. Cette disposition est applicable aux chantiers de travaux
 publics visés à l'article 1479.
 
 Les bases retenues pour le calcul de la réduction s'entendent avant application
-des réductions prévues à l'alinéa précédent et aux articles 1468, 1468 bis, 1472
-A et 1472 A bis. Il n'est pas tenu compte de l'accroissement résultant soit de
-transferts d'immobilisations, de salariés ou d'activité de travaux publics, soit
-des modalités de répartition forfaitaire des bases, soit d'une cessation totale
-ou partielle de l'exonération appliquée à l'établissement.
+des réductions prévues ((au premier alinéa)) (M) et aux articles 1468, 1468 bis,
+1472 A et 1472 A bis. Il n'est pas tenu compte de l'accroissement résultant soit
+de transferts d'immobilisations, de salariés ou d'activité de travaux publics,
+soit des modalités de répartition forfaitaire des bases, soit d'une cessation
+totale ou partielle de l'exonération appliquée à l'établissement. (M)
+Modification.
