@@ -1,27 +1,35 @@
 Article 244 novodecies
 ----
-1. La gérance d'un débit de tabac spécial est attribuée :
+La revente des tabacs manufacturés par le revendeur s'effectue selon les
+modalités suivantes :
 
-a) Dans les cas visés au I de l'article 244 terdecies, au candidat titulaire
-exclusif d'un contrat de concession d'occupation d'un emplacement du domaine
-public ou au responsable du domaine public géré en régie ;
+1. Le revendeur est tenu de payer, directement et à l'enlèvement du tabac, le
+gérant du débit de tabac de rattachement lors de chaque approvisionnement ;
 
-b) Dans les cas visés au II du même article, au candidat titulaire exclusif d'un
-droit d'exercice d'une activité commerciale dans une enceinte non librement
-accessible au public.
+2. Le revendeur ne peut recevoir directement ou indirectement, pour l'achat des
+tabacs manufacturés auprès du débit de tabac de rattachement ou leur vente dans
+son établissement, aucune gratification, récompense ou présent de quelque
+personne que ce soit ;
 
-2. Le candidat à la gérance d'un débit de tabac spécial, retenu selon la
-procédure visée au 1, ne peut entrer en fonction et être autorisé à
-approvisionner son point de vente en tabac qu'après signature du contrat
-mentionné au deuxième alinéa du 1 de l'article 244 decies conjointement avec le
-directeur général des douanes et droits indirects. Ledit contrat est établi en
-deux exemplaires. Le premier est conservé par l'administration des douanes et
-droits indirects et le second par le débitant de tabac.
+3. Le revendeur ou son représentant dûment mandaté doit transporter les tabacs,
+sous sa seule responsabilité, entre le débit de tabac de rattachement et son
+établissement, sous couvert d'un carnet de revente délivré pour
+l'approvisionnement auprès du débit de rattachement.
 
-3. Un débit de tabac spécial peut être exploité par le salarié de la société en
-nom collectif dont le gérant a la qualité de débitant de tabac.
+L'achat, l'établissement et la délivrance des carnets de revente incombent
+exclusivement au débit de tabac de rattachement. Le carnet de revente est établi
+au nom propre du revendeur. Il est personnel et incessible.
 
-4. En cas de force majeure ou de circonstances exceptionnelles, un débit de
-tabac spécial peut être fermé ou déplacé sur décision du directeur général des
-douanes et droits indirects et sous réserve du respect des dispositions de
-l'article 244 terdecies.
+S'agissant des cigares, conformément au III de l'article 244 septdecies, le
+revendeur doit détenir un deuxième carnet de revente. Dans ce cas, le carnet est
+exclusivement réservé à l'approvisionnement des cigares.
+
+Le carnet de revente est présenté par le revendeur à toute réquisition des
+agents des douanes et droits indirects. Il doit être conservé par le revendeur
+pendant six ans à compter de la date de la dernière opération qui y est inscrite
+conformément aux dispositions de l'article L. 102 B du livre des procédures
+fiscales.
+
+Un arrêté des ministres chargés de la santé et du budget fixe le contenu, la
+présentation et les conditions et modalités de fonctionnement du carnet de
+revente.

@@ -22,7 +22,7 @@ postérieure ;
 lorsqu'il s'agit d'un logement que le contribuable fait construire.
 
 3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au
-dernier alinéa du 6 de l'article 199 undecies A du code général des impôts,
+septième alinéa du 6 de l'article 199 undecies A du code général des impôts,
 selon le cas, soit une attestation du constructeur, du vendeur ou de
 l'entreprise ayant procédé à l'installation des équipements de production
 d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse de
@@ -50,7 +50,7 @@ l'article 46 AG duodecies lorsque la location est consentie dans les conditions
 du 2° du 6 de l'article 199 undecies A du code général des impôts.
 
 5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des
-dispositions du dernier alinéa du 6 de l'article 199 undecies A du code général
+dispositions du septième alinéa du 6 de l'article 199 undecies A du code général
 des impôts.
 
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée,

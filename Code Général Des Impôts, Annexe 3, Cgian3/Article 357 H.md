@@ -23,7 +23,7 @@ revenus.
 
 Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en
 ce qui concerne l'impôt sur le revenu faisant l'objet de la demande de délais de
-paiement ne peuvent bénéficier des dispositions de cet article.
+paiement ne peuvent bénéficier des dispositions du I.
 
 III. - Les délais de paiement prévus au I courent à compter du mois de la
 demande et jusqu'au 31 mars de l'année suivant celle de la mise en recouvrement

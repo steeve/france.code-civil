@@ -15,6 +15,5 @@ aides rémunérées à condition de ne percevoir aucune rémunération à ce tit
 
 Les entreprises sont informées par l'organisme de la conformité de l'aide
 accordée au règlement (CE) n° 70/2001 de la Commission du 12 janvier 2001
-susvisé lorsque celui-ci leur notifie l'aide. La décision leur notifiant
-l'octroi de l'aide précise que ce règlement est à leur disposition au siège de
-l'organisme.
+lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de
+l'aide précise que ce règlement est à leur disposition au siège de l'organisme.

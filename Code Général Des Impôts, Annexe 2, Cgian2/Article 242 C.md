@@ -16,7 +16,7 @@ c) Les comptes de l'organisme sont certifiés par un commissaire aux comptes.
 
 II. - L'adéquation de la rémunération aux sujétions imposées aux dirigeants
 désignés au d du 1° du 7 de l'article 261 du même code est réputée acquise
-lorsque, dans la limite du montant prévu au neuvième alinéa de cet article, les
+lorsque, dans la limite du montant prévu au neuvième alinéa du d précité, les
 conditions suivantes sont satisfaites :
 
 a) La rémunération versée est la contrepartie de l'exercice effectif de son
@@ -54,9 +54,9 @@ dont il est membre.
 IV. - L'organisme qui rémunère, en application du d du 1° du 7 de l'article 261
 du même code, un ou plusieurs de ses dirigeants, doit communiquer chaque année à
 la direction des services fiscaux dont il dépend un document attestant du
-montant de ses ressources mentionnées au huitième alinéa du même article,
-constaté dans les conditions prévues à ce même alinéa et précisant l'identité
-des dirigeants rémunérés.
+montant de ses ressources mentionnées au huitième alinéa du d précité, constaté
+dans les conditions prévues à ce même alinéa et précisant l'identité des
+dirigeants rémunérés.
 
 Ce document doit être déposé au plus tard dans les six mois suivant la clôture
 de l'exercice au titre duquel les rémunérations ont été versées.

@@ -12,4 +12,4 @@ ou le personnel de l'organisme qui est associé à la prise de décision.
 
 Ils prévoient en outre que les organismes s'engagent à accorder des aides
 compatibles avec le règlement (CE) n° 70/2001 de la Commission du 12 janvier
-2001 susvisé. Ce règlement est annexé à leurs statuts.
+2001. Ce règlement est annexé à leurs statuts.

@@ -7,8 +7,7 @@ aux entreprises aidées de nature à prouver qu'elles entrent effectivement dans
 le champ d'application du dispositif défini au 4 de l'article 238 bis du code
 général des impôts. Ils communiquent également annuellement à cette même
 autorité tous renseignements permettant de garantir la conformité des aides
-accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001
-susvisé.
+accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001.
 
 Ces organismes adressent leurs comptes et leur bilan annuels certifiés par un
 commissaire aux comptes ainsi que leur rapport d'activité approuvé par

@@ -1,6 +1,7 @@
 Article 244 quaterdecies
 ----
-Les débits de tabac temporaires sont exclusivement destinés à vendre au détail
-des tabacs manufacturés à l'occasion de manifestations publiques se tenant dans
-des enceintes non librement accessibles au public. Il ne peut être créé de débit
-de tabac temporaire dans des manifestations à caractère culturel ou sportif.
+Le candidat à la gérance d'un débit de tabac ordinaire, selon la procédure de
+l'adjudication, de la présentation de successeur ou de la permutation, ne peut
+entrer en fonction et être autorisé par l'administration des douanes et droits
+indirects à approvisionner son point de vente en tabac, qu'après signature du
+contrat visé au deuxième alinéa du 1 de l'article 244 sexies.
