@@ -18,5 +18,5 @@ semestre de formation dans un service hospitalier ou une administration publique
 agréés spécifiquement pour cette spécialité.
 
 Ils ne peuvent exercer plus de deux semestres consécutivement dans le même
-service médical du travail pour l'obtention du diplôme d'études spécialisées de
+service de santé au travail pour l'obtention du diplôme d'études spécialisées de
 cette spécialité.

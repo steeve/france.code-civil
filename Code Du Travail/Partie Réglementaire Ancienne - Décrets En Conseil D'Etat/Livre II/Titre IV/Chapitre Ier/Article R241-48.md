@@ -31,10 +31,10 @@ au cours soit des douze mois précédents [*période*] si le salarié est à nou
 embauché par le même employeur, soit des six derniers mois lorsque le salarié
 change d'entreprise.
 
-Les dispositions de l'alinéa qui précède ne sont pas applicables aux salariés
-bénéficiant d'une surveillance médicale prévue par les règlements pris en
-application de l'article L. 231-2 (2°) ou relevant des dispositions de l'article
-R. 241-50.
+Les dispositions des quatre alinéas précédents ne sont pas applicables aux
+salariés bénéficiant d'une surveillance médicale prévue par les règlements pris
+en application de l'article L. 231-2 (2°) ou relevant des dispositions de
+l'article R. 241-50.
 
 Elles peuvent s'appliquer, en cas de pluralité d'employeurs, sous réserve que
 ceux-ci aient conclu un accord prévoyant notamment les modalités de répartition

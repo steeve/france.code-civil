@@ -1,11 +1,11 @@
 Article R241-34-3
 ----
 Le médecin du travail, maître de stage, auprès duquel l'interne effectue son
-stage doit exercer au moins à mi-temps dans le service médical qui accueille cet
-interne et doit disposer d'au moins dix-sept heures par mois pour assurer la
-formation de ce dernier. Il en est obligatoirement tenu compte pour réduire dans
-une proportion correspondante l'effectif des salariés dont il assure la
-surveillance.
+stage doit exercer au moins à mi-temps dans le service de santé au travail qui
+accueille cet interne et doit disposer d'au moins dix-sept heures par mois pour
+assurer la formation de ce dernier. Il en est obligatoirement tenu compte pour
+réduire dans une proportion correspondante l'effectif des salariés dont il
+assure la surveillance.
 
 La convention mentionnée à l'article R. 241-34-2 précise notamment le nom du
 médecin du travail, maître de stage, ainsi que l'effectif complémentaire de

@@ -8,5 +8,5 @@ Les membres salariés des commissions sont indemnisés intégralement par leur
 employeur des pertes de salaires résultant de l'exercice de leur mandat, y
 compris le temps de déplacement, ainsi que des frais de transport.
 
-Le service médical interentreprise rembourse à l'employeur les frais ainsi
-engagés [*charge financière*].
+Le service de santé au travail interentreprise rembourse à l'employeur les frais
+ainsi engagés.

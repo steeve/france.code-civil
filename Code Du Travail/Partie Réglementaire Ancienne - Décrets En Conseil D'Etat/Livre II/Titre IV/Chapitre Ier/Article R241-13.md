@@ -5,8 +5,9 @@ soit géographiques et professionnels, soit géographiques et interprofessionnel
 ; le nombre de médecins du travail affectés à un secteur médical ne peut être
 supérieur à celui correspondant à l'emploi de six médecins du travail à temps
 complet, sans que leur nombre puisse excéder huit, sauf dérogation
-exceptionnelle accordée par le directeur régional du travail et de l'emploi
-après avis du médecin-inspecteur régional du travail et de la main-d'oeuvre.
+exceptionnelle accordée par le directeur régional du travail, de l'emploi et de
+la formation professionnelle après avis du médecin-inspecteur régional du
+travail et de la main-d'oeuvre.
 
 Chaque secteur médical comporte au moins un centre médical fixe.
 
