@@ -6,5 +6,5 @@ conjointement avec la mère, sous les conditions prévues à l'article 334-2
 ci-dessus.
 
 L'enfant pourra toutefois demander à reprendre le nom qu'il portait
-antérieurement par une demande qu'il soumettra au tribunal de grande instance,
+antérieurement par une demande qu'il soumettra au juge aux affaires familiales,
 dans les deux années suivant sa majorité.

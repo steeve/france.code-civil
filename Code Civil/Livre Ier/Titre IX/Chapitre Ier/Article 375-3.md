@@ -18,6 +18,6 @@ divorce rendu entre les père et mère, ces mesures ne peuvent être prises que 
 un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé
 postérieurement à la décision statuant sur les modalités de l'exercice de
 l'autorité parentale ou confiant l'enfant à un tiers. Elles ne peuvent faire
-obstacle à la faculté qu'aura le tribunal de décider, par application des
-articles 287 et 287-1, à qui l'enfant devra être confié. Les mêmes règles sont
-applicables à la séparation de corps.
+obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par
+application des articles 287 et 287-1, à qui l'enfant devra être confié. Les
+mêmes règles sont applicables à la séparation de corps.

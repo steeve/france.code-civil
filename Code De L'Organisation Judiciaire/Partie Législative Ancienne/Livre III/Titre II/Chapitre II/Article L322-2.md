@@ -1,9 +1,8 @@
 Article L322-2
 ----
-Le juge des tutelles connaît [*compétence*] :
+Le juge des tutelles connaît :
 
-1° Des contestations relatives à l'autorité parentale, conformément à l'article
-372-1 du Code civil ;
+1° (paragraphe abrogé) ;
 
 2° De l'émancipation conformément à l'article 477 du Code civil ;
 
@@ -17,5 +16,5 @@ incapables majeurs, conformément aux articles 491-1, 509 et 493 du Code civil ;
 loi n° 66-774 du 18 octobre 1966 ;
 
 6° De la tutelle des pupilles de la nation, dans les cas et conditions prévues
-par les articles L473 et suivants du Code des pensions militaires d'invalidité
+par les articles L. 473 et suivants du Code des pensions militaires d'invalidité
 et des victimes de guerre.

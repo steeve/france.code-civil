@@ -1,9 +1,7 @@
 Article 372-1
 ----
-Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de
-l'enfant, la pratique qu'ils avaient précédemment pu suivre dans des occasions
-semblables leur tiendrait lieu de règle.
+Il est justifié de la communauté de vie entre les père et mère au moment de la
+reconnaissance de leur enfant par un acte délivré par le juge aux affaires
+familiales établi au vu des éléments apportés par le demandeur.
 
-A défaut d'une telle pratique ou en cas de contestation sur son existence ou son
-bien-fondé, l'époux le plus diligent pourra saisir le juge des tutelles qui
-statuera après avoir tenté de concilier les parties.
+Ni l'acte ni le refus de le délivrer ne sont sujets à recours.

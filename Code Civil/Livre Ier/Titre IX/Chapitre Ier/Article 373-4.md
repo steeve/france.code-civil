@@ -5,5 +5,5 @@ exercée par les père et mère ; toutefois, la personne à qui l'enfant a été
 confié accomplit tous les actes usuels relatifs à sa surveillance et à son
 éducation.
 
-Le tribunal, en confiant l'enfant à titre provisoire à un tiers, peut décider
-qu'il devra requérir l'ouverture d'une tutelle.
+Le juge aux affaires familiales, en confiant l'enfant à titre provisoire à un
+tiers, peut décider qu'il devra requérir l'ouverture d'une tutelle.

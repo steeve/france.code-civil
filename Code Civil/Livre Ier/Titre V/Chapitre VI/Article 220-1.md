@@ -1,8 +1,8 @@
 Article 220-1
 ----
 Si l'un des époux manque gravement à ses devoirs et met ainsi en péril les
-intérêts de la famille, le président du tribunal de grande instance peut
-prescrire toutes les mesures urgentes que requièrent ces intérêts.
+intérêts de la famille, le juge aux affaires familiales peut prescrire toutes
+les mesures urgentes que requièrent ces intérêts.
 
 Il peut notamment interdire à cet époux de faire, sans le consentement de
 l'autre, des actes de disposition sur ses propres biens ou sur ceux de la

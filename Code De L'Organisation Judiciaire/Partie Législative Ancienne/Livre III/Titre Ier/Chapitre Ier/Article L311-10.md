@@ -13,4 +13,5 @@ ou son délégué soit à la demande du juge saisi, soit d'office.
 
 Toutefois, les dispositions du présent article ne sont pas applicables en
 matières disciplinaires ou relatives à l'état des personnes, sous réserve des
-dispositions particulières au divorce et à la séparation de corps.
+dispositions particulières aux matières de la compétence du juge aux affaires
+familiales.
