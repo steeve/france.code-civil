@@ -16,7 +16,8 @@ exonérations d'impôts et avantages fiscaux de toute nature prévus en faveur d
 propriétés boisées ou des reboisements seront supprimés, les propriétaires
 pourront être tenus de détruire le boisement irrégulier et il pourra, lors des
 opérations de remembrement, ne pas être tenu compte de la nature boisée du
-terrain ;
+terrain ; il pourra être procédé à la destruction d'office des boisements
+irréguliers.
 
 2° Ils définissent les périmètres dans lesquels seront développées, par
 priorité, les actions forestières ainsi que les utilisations des terres et les
