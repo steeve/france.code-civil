@@ -1,0 +1,10 @@
+Article 706-5
+----
+A peine de forclusion, la demande d'indemnité doit être présentée dans le délai
+d'un an à compter de la date de l'infraction. Lorsque des poursuites pénales
+sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la
+juridiction qui a statué définitivement sur l'action publique ou sur l'action
+civile engagée devant la juridiction répressive. Toutefois, la commission relève
+le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir
+ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son
+préjudice ou pour tout autre motif légitime.
