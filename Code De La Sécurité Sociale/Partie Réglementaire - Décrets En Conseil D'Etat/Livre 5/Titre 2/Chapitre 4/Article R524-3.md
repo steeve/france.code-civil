@@ -16,3 +16,5 @@ l'allocation de rentrée scolaire ;
 invalidité ou de l'assurance accident du travail ;
 
 3°) du capital décès servi par un régime de sécurité sociale.
+
+4°) de l'aide à la famille pour l'emploi d'une assistante maternelle agréée.
