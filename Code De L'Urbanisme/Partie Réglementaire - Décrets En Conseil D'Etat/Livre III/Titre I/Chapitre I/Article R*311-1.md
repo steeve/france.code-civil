@@ -1,10 +1,6 @@
 Article R*311-1
 ----
-Les zones d'aménagement concerté ont pour objet [*définition*] l'aménagement et
-l'équipement de terrains bâtis ou non bâtis, notamment en vue de la réalisation
-:
-
-1. De constructions à usage d'habitation, de commerce, d'industrie, de services
-;
-
-2. D'installations et d'équipements collectifs publics ou privés.
+L'initiative de création d'une zone d'aménagement concerté peut être prise par
+l'Etat, une collectivité territoriale ou par un établissement public ayant
+vocation, de par la loi ou ses statuts, à réaliser ou à faire réaliser l'objet
+de la zone.

@@ -1,14 +1,10 @@
 Article R*311-4
 ----
-L'aménagement et l'équipement de la zone sont :
+Lorsque la création de la zone est de la compétence du préfet, le conseil
+municipal de la commune sur le territoire de laquelle il est envisagé de créer
+la zone ou l'organe délibérant de l'établissement public de coopération
+intercommunale compétent émet préalablement un avis sur le dossier de création.
 
-1. Soit conduits directement par la personne morale qui a pris l'initiative de
-sa création ;
-
-2. Soit à la demande de ladite personne morale, réalisés par un établissement
-constitué en application de l'article L. 321-1 ou concédés à un établissement
-public répondant aux conditions définies à l'article R. 311-2 ou à une société
-d'économie mixte répondant aux conditions définies à l'article L. 300-4 ;
-
-3. Soit confiés, par cette personne morale, selon les stipulations d'une
-convention à une personne privée ou publique.
+L'avis est réputé émis à l'issue d'un délai de trois mois à compter de la
+réception par le maire ou le président de l'établissement public de coopération
+intercommunale du dossier de création.
