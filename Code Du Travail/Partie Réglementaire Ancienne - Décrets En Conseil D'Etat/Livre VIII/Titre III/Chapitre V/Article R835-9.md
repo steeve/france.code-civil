@@ -8,6 +8,6 @@ son représentant, président ;
 Le délégué général à l'emploi et à la formation professionnelle ou son
 représentant ;
 
-Le délégué interministériel au revenu minimum d'insertion ou son représentant ;
+Le directeur général de l'action sociale ou son représentant ;
 
 Le directeur du budget ou son représentant.
