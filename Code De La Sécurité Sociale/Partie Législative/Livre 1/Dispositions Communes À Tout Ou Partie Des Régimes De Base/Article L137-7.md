@@ -17,6 +17,3 @@ A l'appui de chaque versement, elles sont tenues de produire à l'Agence central
 des organismes de sécurité sociale une déclaration conforme à un modèle fixé par
 arrêté du ministre chargé de la sécurité sociale et du ministre chargé des
 assurances.
-
-La contribution est recouvrée et contrôlée par l'Agence centrale des organismes
-de sécurité sociale dans les conditions prévues au 3° de l'article L. 225-1-1.

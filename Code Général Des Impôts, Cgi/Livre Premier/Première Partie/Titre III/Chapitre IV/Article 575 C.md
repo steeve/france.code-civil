@@ -1,6 +1,7 @@
 Article 575 C
 ----
-Le droit de consommation est exigible à la mise à la consommation.
+Le droit de consommation est exigible à la mise à la consommation ou lors de
+l'importation.
 
 Sous réserve des dispositions mentionnées au 3° de l'article 302 F ter, le droit
 de consommation est liquidé le dernier jour de chaque mois d'après la
@@ -16,4 +17,5 @@ le droit de consommation est recouvré selon les procédures et sous le bénéfi
 des sûretés prévues par le code général des impôts en matière de contributions
 indirectes.
 
-A l'importation, le droit est recouvré comme en matière de douane.
+A l'importation, le droit est dû par l'importateur ; il est recouvré comme en
+matière de douane.
