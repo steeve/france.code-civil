@@ -8,10 +8,11 @@ Lorsque la commune est membre d'un syndicat de communes, d'un district ou d'une
 communauté urbaine, le transfert peut avoir lieu dans les mêmes conditions sur
 le territoire d'une autre commune appartenant au même groupement de communes.
 
-Les cendres sont alors répandues dans le jardin du souvenir mentionné à
-l'article R. 361-14.
+Les cendres des restes exhumés sont déposées dans un columbarium, dans
+l'ossuaire ou dispersées dans le lieu spécialement affecté à cet effet prévu à
+l'article R. 361-10.
 
 Les noms des personnes, même si aucun reste n'a été retrouvé, sont consignés
 dans un registre tenu à la disposition du public et peuvent être gravés sur un
-dispositif établi en matériaux durables dans le jardin du souvenir ou au-dessus
-de l'ossuaire.
+dispositif établi en matériaux durables dans dans le lieu spécialement affecté à
+cet effet ou au-dessus de l'ossuaire.

@@ -1,12 +1,18 @@
 Article R361-14
 ----
-Après la crémation [*incinération*] d'un corps, l'urne prévue à l'article R.
-361-45 est remise à la famille pour être déposée, à sa convenance, dans une
-sépulture, un colombarium ou une propriété publique ou privée.
+Après la crémation d'un corps, l'urne prévue à l'article R 361-45 est remise à
+toute personne qui a qualité pour pourvoir aux funérailles.
 
-Les cendres contenues dans l'urne peuvent être dispersées en pleine nature, mais
-ne peuvent l'être sur les voies publiques.
+A la demande de toute personne qui a qualité pour pourvoir aux funérailles et
+après autorisation délivrée par le maire du lieu du dépôt, l'urne est déposée
+dans une sépulture, dans une case de columbarium ou scellée sur un monument
+funéraire.
 
-Le conseil municipal peut décider la création, dans l'enceinte d'un cimetière,
-d'un "jardin du souvenir" où les cendres pulvérisées des corps incinérés peuvent
-être répandues à la demande des familles.
+Elle peut aussi être déposée dans une propriété privée.
+
+Les cendres peuvent être dispersées en pleine nature, mais ne peuvent l'être sur
+les voies publiques.
+
+Le maire de la commune du lieu de la dispersion autorise, à la demande de toute
+personne qui a qualité pour pourvoir aux funérailles, la dispersion des cendres
+dans le lieu spécialement affecté à cet effet prévu à l'article R. 361-10.

@@ -12,6 +12,9 @@ de toute personne qui a qualité pour pourvoir aux funérailles et justifie de s
 2° Un certificat du médecin chargé par l'officier d'état civil de s'assurer du
 décès et affirmant que celui-ci ne pose pas de problème médico-légal.
 
+3° Le cas échéant, l'attestation du médecin ou du thanatopracteur prévue au
+troisième alinéa de l'article R. 363-16.
+
 Lorsque le décès pose un problème médico-légal, la crémation ne peut avoir lieu
 qu'après l'autorisation du parquet [*conditions de forme*] qui peut subordonner
 celle-ci à une autopsie préalable, effectuée par un médecin légiste choisi sur
