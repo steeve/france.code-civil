@@ -6,10 +6,11 @@ Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 
 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
 
 2° Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à
-l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1
-et 434-10 du code pénal ;
+l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1,
+223-1 et 434-10 du code pénal ;
 
-3° Les délits en matière de coordination des transports ;
+3° Les délits en matière de réglementations relatives aux transports terrestres
+;
 
 4° Les délits prévus par le 2° de l'article 32 du décret-loi du 18 avril 1939
 fixant le régime des matériels de guerre, armes et munitions ;

@@ -6,7 +6,9 @@ peines privatives ou restrictives de droits suivantes peuvent être prononcées 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire,
 cette suspension pouvant être limitée, selon des modalités déterminées par
 décret en conseil d'Etat, à la conduite en dehors de l'activité professionnelle
-;
+; cette limitation n'est toutefois pas possible en cas de délit pour lequel la
+suspension du permis de conduire, encourue à titre de peine complémentaire, ne
+peut pas être limitée à la conduite en dehors de l'activité professionnelle ;
 
 2° L'interdiction de conduire certains véhicules pendant une durée de cinq ans
 au plus ;

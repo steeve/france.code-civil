@@ -25,15 +25,21 @@ terrestres placés sous l'autorité du ministre chargé des transports ;
 
 7° Les agents des douanes ;
 
-8° Les agents du concessionnaire d'une autoroute ou d'un ouvrage routier ouvert
-à la circulation publique et soumis à péage, agréés par le préfet ;
+8° Les agents des concessionnaires d'une autoroute ou d'un ouvrage routier
+ouvert à la circulation publique et soumis à péage, agréés par le préfet ;
 
 9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la
 voirie routière ;
 
-10° Les agents des exploitants d'aérodromes, assermentés et agréés par le
-préfet, pour les seules contraventions aux règles de stationnement dans
-l'emprise de l'aérodrome.
+10° Les agents des exploitants d'aérodromes, assermentés et agréés par le préfet
+pour les seules contraventions aux règles de stationnement dans l'emprise de
+l'aérodrome ;
+
+11° Les agents de police judiciaire adjoints ;
+
+12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules
+ou éléments de véhicules, placés sous l'autorité des ministres chargés de
+l'industrie et des transports.
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus
 est habilitée à constater est fixée par décret en Conseil d'Etat.

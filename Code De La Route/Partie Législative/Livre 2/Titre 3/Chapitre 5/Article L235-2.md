@@ -22,7 +22,8 @@ Si ces épreuves de dépistage se révèlent positives ou lorsque le conducteur
 refuse ou est dans l'impossibilité de les subir, les officiers ou agents de
 police judiciaire font procéder à des vérifications consistant en des analyses
 ou examens médicaux, cliniques et biologiques, en vue d'établir si la personne
-conduisait sous l'influence de substances ou plantes classées comme stupéfiants.
+conduisait en ayant fait usage de substances ou plantes classées comme
+stupéfiants.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

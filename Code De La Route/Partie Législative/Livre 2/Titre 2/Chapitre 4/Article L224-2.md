@@ -19,6 +19,13 @@ par l'alinéa précédent, le permis de conduire est remis à la disposition de
 l'intéressé, sans préjudice de l'application ultérieure des articles L. 224-7 à
 L. 224-9.
 
+Lorsqu'il est fait application des dispositions de l'article L. 235-2, les
+dispositions du présent article sont applicables au conducteur si les analyses
+et examens médicaux, cliniques et biologiques établissent qu'il conduisait après
+avoir fait usage de substances ou plantes classées comme stupéfiants. Il en est
+de même si le conducteur ou l'accompagnateur de l'élève conducteur a refusé de
+se soumettre aux épreuves de vérification prévues par l'article L. 235-2.
+
 Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est
 établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté,
 les dispositions du présent article sont applicables au conducteur.

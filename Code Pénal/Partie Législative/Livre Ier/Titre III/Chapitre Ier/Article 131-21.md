@@ -19,3 +19,8 @@ la contrainte judiciaire sont applicables.
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction
 ou son attribution, dévolue à l'Etat, mais elle demeure grevée, à concurrence de
 sa valeur, des droits réels licitement constitués au profit de tiers.
+
+Lorsque la chose confisquée est un véhicule qui n'a pas été saisi au cours de la
+procédure, le condamné doit, sur l'injonction qui lui en est faite par le
+ministère public, remettre ce véhicule au service ou à l'organisme chargé de sa
+destruction ou de son aliénation.

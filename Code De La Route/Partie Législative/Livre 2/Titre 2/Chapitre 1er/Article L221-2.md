@@ -1,9 +1,9 @@
 Article L221-2
 ----
-I. - Le fait, pour toute personne en état de récidive au sens de l'article
-132-11 du code pénal, de conduire un véhicule sans être titulaire du permis de
-conduire correspondant à la catégorie du véhicule considéré est puni de deux ans
-d'emprisonnement et de 3 750 euros d'amende.
+I. - Le fait, pour toute personne en état de récidive au sens du deuxième alinéa
+de l'article 132-11 du code pénal, de conduire un véhicule sans être titulaire
+du permis de conduire correspondant à la catégorie du véhicule considéré est
+puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de l'infraction prévue au présent article encourt
 également les peines complémentaires suivantes :
@@ -16,8 +16,17 @@ relative à l'enfance délinquante ;
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et
 131-25 du code pénal.
 
-3° La confiscation de la chose qui a servi ou était destinée à commettre
-l'infraction.
+3° (Alinéa supprimé)
+
+4° L'interdiction de conduire certains véhicules terrestres à moteur, y compris
+ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
+durée de cinq ans au plus ;
+
+5° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
+sécurité routière ;
+
+6° La confiscation du véhicule dont le condamné s'est servi pour commettre
+l'infraction, s'il en est le propriétaire.
 
 III. - L'immobilisation peut être prescrite, dans les conditions prévues aux
 articles L. 325-1 à L. 325-3.

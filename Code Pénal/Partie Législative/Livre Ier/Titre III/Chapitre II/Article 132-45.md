@@ -40,4 +40,8 @@ l'infraction ;
 13° S'abstenir d'entrer en relation avec certaines personnes, notamment la
 victime de l'infraction.
 
-14° Ne pas détenir ou porter une arme.
+14° Ne pas détenir ou porter une arme ;
+
+15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule
+terrestre à moteur, accomplir, à ses frais, un stage de sensibilisation à la
+sécurité routière.

@@ -28,4 +28,8 @@ employées ou susceptibles d'être employées comme conducteur de véhicule à m
 
 7° Aux entreprises d'assurances pour les personnes dont elles garantissent ou
 sont appelées à garantir la responsabilité encourue du fait des dommages causés
-par les véhicules à moteur.
+par les véhicules à moteur ;
+
+8° A l'organisme chargé de la délivrance et de la gestion des cartes de
+conducteur associées au chronotachygraphe électronique utilisé pour le contrôle
+des transports routiers.

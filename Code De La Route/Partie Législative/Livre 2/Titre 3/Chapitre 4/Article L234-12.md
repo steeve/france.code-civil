@@ -11,10 +11,7 @@ l'infraction, s'il en est propriétaire, les dispositions de l'article L. 325-9
 2° L'immobilisation, pendant une durée d'un an au plus, du véhicule dont le
 prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire.
 
-II. - Toute personne coupable de l'une des infractions prévues aux articles L.
-234-1 et L. 234-8 et commise simultanément avec l'une des infractions prévues
-aux articles 221-6 et 222-19 du code pénal encourt les peines complémentaires
-prévues au I du présent article.
+II. (Paragraphe abrogé).
 
 III. - Le fait de détruire, détourner ou tenter de détruire ou de détourner un
 véhicule confisqué en application des dispositions du présent article est puni
