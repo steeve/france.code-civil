@@ -1,14 +1,14 @@
 Article L35-7
 ----
 Après consultation publique et avis de l'Autorité de régulation des
-télécommunications et de la Commission supérieure du service public des postes
-et des communications électroniques, le Gouvernement remet au Parlement avant le
-1er mars 2005, puis tous les trois ans, un rapport sur l'application du présent
-chapitre. Il comporte une analyse et une évaluation détaillée pour chaque
-catégorie d'usagers du coût de l'ensemble des services de communications
-électroniques, y compris ceux non mentionnés dans ce chapitre comme la
-téléphonie mobile et l'accès à Internet. Il évalue les sommes dépensées par les
-ménages pour avoir accès aux technologies de l'information. Il fait des
+communications électroniques et des postes et de la Commission supérieure du
+service public des postes et des communications électroniques, le Gouvernement
+remet au Parlement avant le 1er mars 2005, puis tous les trois ans, un rapport
+sur l'application du présent chapitre. Il comporte une analyse et une évaluation
+détaillée pour chaque catégorie d'usagers du coût de l'ensemble des services de
+communications électroniques, y compris ceux non mentionnés dans ce chapitre
+comme la téléphonie mobile et l'accès à Internet. Il évalue les sommes dépensées
+par les ménages pour avoir accès aux technologies de l'information. Il fait des
 propositions pour faire baisser le montant de la facture téléphonique des
 ménages ainsi que pour enrichir le contenu du service universel eu égard aux
 évolutions technologiques, aux besoins de la société et de l'aménagement

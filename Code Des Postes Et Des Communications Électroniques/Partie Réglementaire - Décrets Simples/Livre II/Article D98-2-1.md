@@ -18,18 +18,20 @@ Parlement européen et du Conseil du 26 février 1998 concernant l'application d
 la fourniture d'un réseau ouvert (ONP) à la téléphonie vocale et l'établissement
 d'un service universel des communications électroniques dans un environnement
 concurrentiel. L'opérateur communique les résultats de ces mesures à l'Autorité
-de régulation des télécommunications lorsqu'elle les demande.
+de régulation des communications électroniques et des postes lorsqu'elle les
+demande.
 
-L'Autorité de régulation des télécommunications peut demander à l'opérateur de
-rendre publiques ces informations sous une forme appropriée.
+L'Autorité de régulation des communications électroniques et des postes peut
+demander à l'opérateur de rendre publiques ces informations sous une forme
+appropriée.
 
 
 Clause d
 
-L'opérateur communique à l'Autorité de régulation des télécommunications, selon
-les modalités qu'elle définit, les spécifications techniques détaillées
-concernant les interfaces d'accès au réseau avant que celles-ci ne soient mises
-en oeuvre.
+L'opérateur communique à l'Autorité de régulation des communications
+électroniques et des postes, selon les modalités qu'elle définit, les
+spécifications techniques détaillées concernant les interfaces d'accès au réseau
+avant que celles-ci ne soient mises en oeuvre.
 
 Ces spécifications couvrent toutes les interfaces généralement fournies, et
 notamment :
@@ -52,11 +54,11 @@ téléphonie vocale.
 
 Ces spécifications sont mises à disposition des personnes qui en font la
 demande, selon les modalités définies par l'Autorité de régulation des
-télécommunications.
+communications électroniques et des postes.
 
-L'opérateur signale à l'Autorité de régulation des télécommunications, sans
-retard indû, les caractéristiques de son réseau qui affectent le bon
-fonctionnement des équipements terminaux.
+L'opérateur signale à l'Autorité de régulation des communications électroniques
+et des postes, sans retard indû, les caractéristiques de son réseau qui
+affectent le bon fonctionnement des équipements terminaux.
 
 L'interface physique au point de référence S/T éventuellement fournie par
 l'opérateur est conforme aux spécifications publiées en application de l'article

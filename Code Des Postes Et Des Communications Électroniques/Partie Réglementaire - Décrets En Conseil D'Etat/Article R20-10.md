@@ -19,10 +19,10 @@ particulières à l'utilisation de l'équipement dans certains Etats membres de 
 Communauté européenne.
 
 Ces marquages, apposés sous la responsabilité de la personne responsable,
-respectent les modèles définis par l'Autorité de régulation des
-télécommunications, en conformité, pour le marquage CE mentionné au b ci-dessus,
-avec le modèle figurant à l'annexe VII de la directive 1999/5/CE du Parlement
-européen et du Conseil du 9 mars 1999.
+respectent les modèles définis par l'Autorité de régulation des communications
+électroniques et des postes, en conformité, pour le marquage CE mentionné au b
+ci-dessus, avec le modèle figurant à l'annexe VII de la directive 1999/5/CE du
+Parlement européen et du Conseil du 9 mars 1999.
 
 II. - Chaque exemplaire de l'équipement mis sur le marché doit être accompagné
 d'une déclaration de conformité aux exigences essentielles et des informations
@@ -45,8 +45,8 @@ la tête pour les équipements terminaux radioélectriques.
 
 La déclaration et les informations prévues au II du présent article sont
 rédigées en langue française. Elles sont conformes aux prescriptions fixées par
-l'Autorité de régulation des télécommunications en application de l'article L.
-36-6.
+l'Autorité de régulation des communications électroniques et des postes en
+application de l'article L. 36-6.
 
 La nature des informations prévues au c ci-dessus est définie par arrêté
 conjoint du ministre chargé des communications électroniques, du ministre chargé

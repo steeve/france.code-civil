@@ -92,8 +92,8 @@ Dans le cas où l'identification de la ligne appelante est offerte et est
 indiquée avant l'établissement de l'appel, l'opérateur permet à tout abonné de
 refuser, par un moyen simple, les appels entrants émanant d'une ligne non
 identifiée. L'opérateur peut, pour des raisons techniques justifiées, demander à
-l'Autorité de régulation des télécommunications de disposer d'un délai pour la
-mise en oeuvre de cette fonction.
+l'Autorité de régulation des communications électroniques et des postes de
+disposer d'un délai pour la mise en oeuvre de cette fonction.
 
 2.5. L'opérateur permet à l'abonné vers lequel des appels sont transférés
 d'interrompre ou de faire interrompre le transfert d'appel gratuitement et par
@@ -112,9 +112,10 @@ regard des messages transmis et des informations liées aux communications.
 L'opérateur prend toutes les dispositions nécessaires pour assurer la sécurité
 des communications empruntant son réseau. Il se conforme aux prescriptions
 techniques en matière de sécurité éventuellement édictées par l'Autorité de
-régulation des télécommunications selon l'article L. 36-6. Dans ce cadre et à
-titre confidentiel, l'Autorité de régulation des télécommunications peut se
-faire communiquer les dispositions prises pour la sécurisation du réseau.
+régulation des communications électroniques et des postes selon l'article L.
+36-6. Dans ce cadre et à titre confidentiel, l'Autorité de régulation des
+communications électroniques et des postes peut se faire communiquer les
+dispositions prises pour la sécurisation du réseau.
 
 L'opérateur informe ses clients des services existants permettant le cas échéant
 de renforcer la sécurité des communications.
@@ -222,16 +223,16 @@ précompétitive.
 
 L'opérateur est libre de la répartition de ces sommes, dont il rend compte a
 posteriori. A cet effet, il présente à l'Autorité de régulation des
-télécommunications et au ministre chargé des communications électroniques un
-récapitulatif précisant ses actions de promotions et de subventions et ses
-travaux, études, recherches, développement et formation en matière de
-communications électroniques, notamment ses actions avec des organismes de
-recherche.
+communications électroniques et des postes et au ministre chargé des
+communications électroniques un récapitulatif précisant ses actions de
+promotions et de subventions et ses travaux, études, recherches, développement
+et formation en matière de communications électroniques, notamment ses actions
+avec des organismes de recherche.
 
-L'Autorité de régulation des télécommunications peut, à la demande de
-l'opérateur qui présente alors un plan pluriannuel, autoriser la réalisation des
-dépenses correspondantes sur plusieurs années afin d'assurer une contribution
-plus régulière sur l'ensemble de la durée de l'autorisation.
+L'Autorité de régulation des communications électroniques et des postes peut, à
+la demande de l'opérateur qui présente alors un plan pluriannuel, autoriser la
+réalisation des dépenses correspondantes sur plusieurs années afin d'assurer une
+contribution plus régulière sur l'ensemble de la durée de l'autorisation.
 
 n) Conditions nécessaires pour assurer l'équivalence de traitement des
 opérateurs internationaux conformément aux dispositions des III et IV de
@@ -246,17 +247,17 @@ d'accès au marché et d'interconnexion équivalant à ceux reconnus par la
 réglementation française. L'équivalence de traitement est assurée de plein droit
 pour les pays appartenant à l'Espace économique européen et, pour les autres
 pays, est appréciée par le ministre chargé des communications électroniques sur
-proposition de l'Autorité de régulation des télécommunications, en fonction
-notamment des accords internationaux en vigueur.
+proposition de l'Autorité de régulation des communications électroniques et des
+postes, en fonction notamment des accords internationaux en vigueur.
 
 Pour l'acheminement du trafic international en provenance ou à destination d'un
 pays où l'équivalence de traitement n'est pas assurée, l'opérateur prend toute
 disposition utile pour garantir l'absence de discrimination entre lui et ses
 concurrents, notamment dans la détermination des taux de retour du trafic et des
 taxes de répartition appliqués par les opérateurs de ce pays. Il informe
-l'Autorité de régulation des télécommunications de toutes mesures prises à cet
-effet et de toutes difficultés éventuelles rencontrées dans la recherche de cet
-objectif.
+l'Autorité de régulation des communications électroniques et des postes de
+toutes mesures prises à cet effet et de toutes difficultés éventuelles
+rencontrées dans la recherche de cet objectif.
 
 Lorsque :
 
@@ -265,28 +266,30 @@ destination de pays où l'équivalence de traitement n'est pas assurée, soit
 directement, soit par l'intermédiaire d'un pays n'appartenant pas à l'Espace
 économique européen ;
 
-- et que l'Autorité de régulation des télécommunications constate, pour le
-trafic téléphonique entre la France et ce pays, que l'égalité des conditions de
-concurrence ne peut être préservée au bénéfice des autres opérateurs autorisés,
+- et que l'Autorité de régulation des communications électroniques et des postes
+constate, pour le trafic téléphonique entre la France et ce pays, que l'égalité
+des conditions de concurrence ne peut être préservée au bénéfice des autres
+opérateurs autorisés,
 
 l'opérateur peut être tenu, sur demande de l'Autorité de régulation des
-télécommunications, d'offrir aux opérateurs autorisés en application des
-articles L. 33-1 et L. 34-1, l'accès aux infrastructures de transmission et de
-commutation utilisées pour l'acheminement du trafic concerné, dans des
-conditions propres à rétablir l'égalité des conditions de concurrence. Les
-dispositions des articles L. 34-8 et L. 36-8 s'appliquent aux demandes formulées
-par les autres opérateurs et aux accords conclus dans ce cadre.
+communications électroniques et des postes, d'offrir aux opérateurs autorisés en
+application des articles L. 33-1 et L. 34-1, l'accès aux infrastructures de
+transmission et de commutation utilisées pour l'acheminement du trafic concerné,
+dans des conditions propres à rétablir l'égalité des conditions de concurrence.
+Les dispositions des articles L. 34-8 et L. 36-8 s'appliquent aux demandes
+formulées par les autres opérateurs et aux accords conclus dans ce cadre.
 
 L'application de la présente clause s'effectue dans le respect des engagements
 internationaux souscrits par la France.
 
 p) Obligations permettant le contrôle du cahier des charges par l'Autorité de
-régulation des télécommunications.
+régulation des communications électroniques et des postes.
 
-L'opérateur doit fournir à l'Autorité de régulation des télécommunications des
-éléments chiffrés relatifs à l'exploitation de son réseau dans les domaines
-financiers, commerciaux et techniques. Il s'engage notamment à communiquer à
-l'Autorité de régulation des télécommunications les informations suivantes :
+L'opérateur doit fournir à l'Autorité de régulation des communications
+électroniques et des postes des éléments chiffrés relatifs à l'exploitation de
+son réseau dans les domaines financiers, commerciaux et techniques. Il s'engage
+notamment à communiquer à l'Autorité de régulation des tes communications
+électroniques et des postes les informations suivantes :
 
 - sans délai, toute modification dans le capital et les droits de vote de
 l'opérateur autorisé et, dans le cas des sociétés cotées en bourse, toute
@@ -304,13 +307,13 @@ d'administration ;
 - tarifs et conditions générales de l'offre ;
 
 - selon une périodicité qui sera définie par décision de l'Autorité de
-régulation des télécommunications :
+régulation des communications électroniques et des postes :
 
 - les données de trafic et de chiffre d'affaires ;
 
 - les informations relatives à l'utilisation qualitative et quantitative des
-ressources attribuées par l'Autorité de régulation des télécommunications,
-notamment fréquences et numéros ;
+ressources attribuées par l'Autorité de régulation des communications
+électroniques et des postes, notamment fréquences et numéros ;
 
 - les informations nécessaires au calcul des contributions au financement du
 service universel ;
@@ -319,7 +322,8 @@ service universel ;
 indicateurs pertinents permettant de l'apprécier, et aux conventions
 d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
-- à la demande de l'Autorité de régulation des télécommunications :
+- à la demande de l'Autorité de régulation des communications électroniques et
+des postes :
 
 - l'ensemble des conventions d'interconnexion ;
 
@@ -328,12 +332,13 @@ d'acheminement de trafic signées avec un opérateur français ou étranger ;
 Lorsque l'opérateur fait appel contractuellement à des sociétés de
 commercialisation de services, il doit veiller, dans ses relations
 contractuelles avec ces sociétés, au respect de ses engagements au regard des
-informations à transmettre à l'Autorité de régulation des télécommunications.
+informations à transmettre à l'Autorité de régulation des communications
+électroniques et des postes.
 
-A la demande de l'Autorité de régulation des télécommunications motivée au titre
-de l'exercice de l'une de ses compétences, l'opérateur fournit d'autres
-informations nécessaires qui sont traitées dans le respect du secret des
-affaires, et notamment :
+A la demande de l'Autorité de régulation des communications électroniques et des
+postes motivée au titre de l'exercice de l'une de ses compétences, l'opérateur
+fournit d'autres informations nécessaires qui sont traitées dans le respect du
+secret des affaires, et notamment :
 
 - les contrats entre l'opérateur et les distributeurs, revendeurs ou société de
 commercialisation ;
@@ -345,8 +350,9 @@ commercialisation ;
 - les contrats avec les clients ;
 
 - toute information nécessaire à l'instruction par l'Autorité de régulation des
-télécommunications des demandes de conciliation en vue de régler les litiges
-entre opérateurs conformément aux dispositions de l'article L. 36-9 ;
+communications électroniques et des postes des demandes de conciliation en vue
+de régler les litiges entre opérateurs conformément aux dispositions de
+l'article L. 36-9 ;
 
 - les contrats avec les opérateurs des pays tiers ;
 
@@ -356,7 +362,7 @@ entre les filiales de l'opérateur, les sociétés appartenant au même groupe o
 des branches d'activité de l'opérateur distinctes de celles couvertes par la
 présente autorisation.
 
-L'Autorité de régulation des télécommunications peut exercer un contrôle du
-respect des conditions de l'autorisation. Ce contrôle s'effectue dans les
-conditions définies par le code des postes et des communications électroniques,
-et notamment les articles L. 32-4 et L. 36-13.
+L'Autorité de régulation des communications électroniques et des postes peut
+exercer un contrôle du respect des conditions de l'autorisation. Ce contrôle
+s'effectue dans les conditions définies par le code des postes et des
+communications électroniques, et notamment les articles L. 32-4 et L. 36-13.

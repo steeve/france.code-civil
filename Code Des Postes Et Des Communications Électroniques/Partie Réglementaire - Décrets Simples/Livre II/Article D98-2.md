@@ -21,12 +21,13 @@ radioélectriques, lorsque cet accord est requis, en application du 5° de
 l'article R. 52-2-1.
 
 L'opérateur transmet la demande directement à l'Agence nationale des fréquences
-et en informe l'Autorité de régulation des télécommunications.
+et en informe l'Autorité de régulation des communications électroniques et des
+postes.
 
-Dans le cadre défini par l'Autorité de régulation des télécommunications,
-l'opérateur peut adresser directement à l'Agence nationale des fréquences ses
-demandes d'assignation de fréquences en application du 4° de l'article R.
-52-2-1.
+Dans le cadre défini par l'Autorité de régulation des communications
+électroniques et des postes, l'opérateur peut adresser directement à l'Agence
+nationale des fréquences ses demandes d'assignation de fréquences en application
+du 4° de l'article R. 52-2-1.
 
 Clause m.
 
@@ -61,8 +62,8 @@ contractuelle minimale.
 L'opérateur met ces informations, tenues à jour, à la disposition du public dans
 ses points de vente. Par ailleurs, il met en place un ou des moyens simples et
 gratuits d'accéder à distance à ces informations. Il communique ces informations
-à l'Autorité de régulation des télécommunications avant de les porter à la
-connaissance du public.
+à l'Autorité de régulation des communications électroniques et des postes avant
+de les porter à la connaissance du public.
 
 Le service fourni est ouvert à tous ceux qui en font la demande, dans le respect
 des conditions générales d'offre de l'opérateur, et tant que la qualité de

@@ -23,8 +23,8 @@ Résistance bénéficiaires de l'article L. 189 du même code.
 
 Le ministre chargé des communications électroniques fixe au 1er novembre de
 chaque année pour l'année suivante, par arrêté, pris après avis de l'Autorité de
-régulation des télécommunications, le montant mensuel de la réduction tarifaire
-accordée.
+régulation des communications électroniques et des postes, le montant mensuel de
+la réduction tarifaire accordée.
 
 Le montant de la compensation versée à chaque opérateur par le fonds de service
 universel des communications électroniques est égal au coût net de l'offre
@@ -80,18 +80,19 @@ Le fonds de service universel des communications électroniques assure la
 compensation, au profit de chaque opérateur, des dettes téléphoniques prises en
 charge. Le préfet constate trimestriellement, pour chacun des opérateurs
 concernés, le montant de ces dettes. Il communique à chaque opérateur le montant
-qui le concerne et à l'Autorité de régulation des télécommunications l'ensemble
-des montants constatés.
+qui le concerne et à l'Autorité de régulation des communications électroniques
+et des postes l'ensemble des montants constatés.
 
 III. - Les opérateurs qui souhaitent offrir à leurs clients la possibilité de
 bénéficier des dispositions du I ou du II transmettent leur demande
 simultanément au ministre chargé des communications électroniques et à
-l'Autorité de régulation des télécommunications. Le ministre se prononce dans un
-délai de deux mois suivant la réception de la demande, après avis de l'Autorité
-de régulation des télécommunications. Si l'Autorité de régulation des
-télécommunications ne se prononce pas dans le délai d'un mois à compter de la
-réception de la demande, son avis est réputé positif. A défaut de réponse du
-ministre dans le délai de deux mois, la demande est considérée comme acceptée.
+l'Autorité de régulation des communications électroniques et des postes. Le
+ministre se prononce dans un délai de deux mois suivant la réception de la
+demande, après avis de l'Autorité de régulation des communications électroniques
+et des postes. Si l'Autorité de régulation des communications électroniques et
+des postes ne se prononce pas dans le délai d'un mois à compter de la réception
+de la demande, son avis est réputé positif. A défaut de réponse du ministre dans
+le délai de deux mois, la demande est considérée comme acceptée.
 
 Le montant total des aides accordées au titre du I et du II ainsi que des frais
 de gestion considérés au I est au plus égal à 0,8 % du chiffre d'affaires du

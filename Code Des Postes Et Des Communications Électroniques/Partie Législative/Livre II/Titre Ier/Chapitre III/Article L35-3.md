@@ -3,13 +3,13 @@ Article L35-3
 I. - Les coûts nets imputables aux obligations de service universel sont évalués
 sur la base d'une comptabilité appropriée tenue par les opérateurs désignés pour
 assurer ces obligations et auditée, à leurs frais, par un organisme indépendant
-désigné par l'Autorité de tes régulation des télécommunications. L'évaluation de
-ces coûts nets prend en compte l'avantage sur le marché que les opérateurs
-soumis à des obligations de service universel retirent, le cas échéant, de ces
-obligations. Les coûts nets pris en compte en application du III ne peuvent être
-supérieurs aux engagements pris, le cas échéant, dans le cadre des appels à
-candidatures prévus à l'article L. 35-2, par les opérateurs désignés pour
-assurer les obligations du service universel.
+désigné par l'Autorité de régulation des communications électroniques et des
+postes. L'évaluation de ces coûts nets prend en compte l'avantage sur le marché
+que les opérateurs soumis à des obligations de service universel retirent, le
+cas échéant, de ces obligations. Les coûts nets pris en compte en application du
+III ne peuvent être supérieurs aux engagements pris, le cas échéant, dans le
+cadre des appels à candidatures prévus à l'article L. 35-2, par les opérateurs
+désignés pour assurer les obligations du service universel.
 
 II. - La contribution de chaque opérateur au financement du service universel
 est calculée au prorata de son chiffre d'affaires réalisé au titre des services
@@ -41,7 +41,7 @@ aucun versement ne lui est dû.
 Le montant des contributions nettes dont les opérateurs sont redevables au fonds
 en application du II et le montant des sommes dues par le fonds aux opérateurs
 désignés pour assurer les obligations du service universel sont déterminés par
-l'Autorité de régulation des télécommunications.
+l'Autorité de régulation des communications électroniques et des postes.
 
 La gestion comptable et financière du fonds est assurée par la Caisse des dépôts
 et consignations dans un compte spécifique. Les frais de gestion exposés par la
@@ -50,11 +50,12 @@ recouvrées par la caisse, selon les modalités prévues pour le recouvrement de
 créances de cet établissement.
 
 En cas de défaut de versement de sa contribution par un opérateur, l'Autorité de
-régulation des télécommunications prononce une des sanctions prévues à l'article
-L. 36-11. En cas de nouvelle défaillance, elle peut prononcer l'interdiction
-d'exploiter un réseau ouvert au public ou de fournir au public des services de
-communications électroniques. Si les sommes dues ne sont pas recouvrées dans un
-délai d'un an, elles sont imputées sur le fonds lors de l'exercice suivant.
+régulation des communications électroniques et des postes prononce une des
+sanctions prévues à l'article L. 36-11. En cas de nouvelle défaillance, elle
+peut prononcer l'interdiction d'exploiter un réseau ouvert au public ou de
+fournir au public des services de communications électroniques. Si les sommes
+dues ne sont pas recouvrées dans un délai d'un an, elles sont imputées sur le
+fonds lors de l'exercice suivant.
 
 IV. - Un décret en Conseil d'Etat, pris après avis de la Commission supérieure
 du service public des postes et des communications électroniques, fixe les
