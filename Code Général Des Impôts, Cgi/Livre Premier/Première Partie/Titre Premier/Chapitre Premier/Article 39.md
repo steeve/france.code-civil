@@ -89,9 +89,7 @@ leur ordonnancement ;
 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre
 de versement émis au cours de l'exercice ;
 
-4° ter. La taxe sur les encours de crédits prévue à l'article 235 ter N ;
-toutefois, cette taxe ne peut être portée dans les charges déductibles qu'au
-titre de l'exercice clos après son paiement ;
+4° ter (Abrogé) ;
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges
 nettement précisées et que des événements en cours rendent probables, à

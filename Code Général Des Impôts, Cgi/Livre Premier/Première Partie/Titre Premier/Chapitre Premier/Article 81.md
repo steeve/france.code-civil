@@ -126,10 +126,11 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
 du 27 septembre 1967 et les textes pris pour son application (4) ;
 
-19°bis Le complément de rémunération résultant de la contribution de l'employeur
-à l'acquisition de chèques-vacances par les salariés, dans les conditions fixées
-par l'ordonnance n° 82-283 du 26 mars 1982 (5), dans la limite du salaire
-minimum interprofessionnel de croissance apprécié sur une base mensuelle ;
+19° bis Le complément de rémunération résultant de la contribution de
+l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
+conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée (5), dans
+la limite du salaire minimum interprofessionnel de croissance apprécié sur une
+base mensuelle ;
 
 20° Les attributions gratuites d'actions :
 

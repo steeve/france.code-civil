@@ -31,16 +31,19 @@ Cette limite est portée à 5 p. 100 pour les dons faits à des fondations ou
 associations reconnues d'utilité publique et répondant aux conditions fixées au
 1, ainsi qu'aux associations cultuelles ou de bienfaisance qui sont autorisées à
 recevoir des dons et legs et aux établissements publics des cultes reconnus
-d'Alsace-Moselle. La condition relative à la reconnaissance d'utilité publique
-est réputée remplie par les associations régies par la loi locale maintenue en
-vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin,
-lorsque la mission de ces associations est reconnue d'utilité publique. Un
-décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
-modalités de la procédure déconcentrée permettant de l'accorder (1). Les
-versements affectés à la fourniture gratuite en France de repas à des personnes
-en difficulté ouvrent droit, au choix du contribuable, à une réduction d'impôt
-sur le revenu égale à 50 p. 100 du montant de ces versements pris dans la limite
-de 400 F. Le paragraphe II de l'article 199 sexies A est applicable.
+d'Alsace-Moselle. La limite de 5 % s'applique également aux versements effectués
+au profit du comité d'organisation des sezième jeux olympiques d'hiver
+d'Albertville et de la Savoie [*art. 4 de la loi n° 87-571 du 23 juillet 1987*].
+La condition relative à la reconnaissance d'utilité publique est réputée remplie
+par les associations régies par la loi locale maintenue en vigueur dans les
+départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de
+ces associations est reconnue d'utilité publique. Un décret en Conseil d'Etat
+fixe les conditions de cette reconnaissance et les modalités de la procédure
+déconcentrée permettant de l'accorder (1). Les versements affectés à la
+fourniture gratuite en France de repas à des personnes en difficulté ouvrent
+droit, au choix du contribuable, à une réduction d'impôt sur le revenu égale à
+50 p. 100 du montant de ces versements pris dans la limite de 400 F. Le
+paragraphe II de l'article 199 sexies A est applicable.
 
 A compter de l'imposition des revenus de 1989, cette disposition s'applique aux
 versements mentionnés à l'alinéa précédent lorsqu'ils sont affectés à la

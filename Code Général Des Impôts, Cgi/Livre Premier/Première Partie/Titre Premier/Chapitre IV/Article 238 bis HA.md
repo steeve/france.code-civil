@@ -45,12 +45,9 @@ bénéfice des déductions prévues aux II, les sommes déduites sont rapportée
 [*réintégration*] au résultat imposable de l'année de cession, dans la limite,
 de la totalité du prix de cession.
 
-V. Les dispositions des I et II s'appliquent jusqu'au 31 décembre 1996 [*date
-limite*].
+V. Les dispositions du présent article sont applicables entre le 15 septembre
+1986 et le 31 décembre 1996 [*date limite*].
 
-Un décret précise, en tant que de besoin, les modalités de leur application (1)
-(2).
+Un décret précise, en tant que de besoin, les modalités de leur application (1).
 
 (1) Annexe III, art. 46 quaterdecies A à 46 quaterdecies I.
-
-(2) Rédaction en vigueur à compter du 15 septembre 1986.

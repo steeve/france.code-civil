@@ -1,10 +1,8 @@
 Article L341-6
 ----
-Il est interdit à toute personne d'engager ou de conserver [*de façon
-irrégulière*] à son service un étranger non muni du titre l'autorisant à exercer
-une activité salariée en France, lorsque la possession de ce titre est exigée en
-vertu soit de dispositions législatives ou réglementaires, soit de traités ou
-accords internationaux.
+Nul ne peut, directement ou par personne interposée, engager, conserver à son
+service ou employer pour quelque durée que ce soit un étranger non muni du titre
+l'autorisant à exercer une activité salariée en France.
 
 Il est également interdit à toute personne d'engager ou de conserver à son
 service un étranger dans une catégorie professionnelle, une profession ou une

@@ -21,7 +21,10 @@ partie d'un immeuble quelle que soit la forme donnée par les parties, qu'elle
 soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à
-1,60 % [*taux*].
+1,60 % [*taux*]. Le taux de 1,60 % est réduit à 1,40 % pour les mutations visées
+aux 3°, 4° et 5° ci-dessus constatées par un acte passé ou une convention
+conclue à compter du 1er octobre 1988. Le taux est fixé à 0,50 % pour les
+mutations à titre onéreux prévues au 2°.
 
 Elle est soumise aux règles qui gouvernent l'exigibilité, la restitution et le
 recouvrement des droits ou de la taxe auxquels elle s'ajoute (2).

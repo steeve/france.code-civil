@@ -3,8 +3,8 @@ Article L352-2
 Les accords ayant pour objet exclusif le versement d'allocations spéciales aux
 travailleurs sans emploi et, éventuellement, aux travailleurs partiellement
 privés d'emploi, peuvent être agréés par arrêté du ministre chargé du travail
-lorsqu'ils sont conclus sur le plan national et interprofessionnel, entre
-organisations syndicales les plus représentatives d'employeurs et de
+lorsqu'ils sont négociés et conclus sur le plan national et interprofessionnel,
+entre organisations syndicales les plus représentatives d'employeurs et de
 travailleurs au sens de l'article L. 133-2 du présent code, et qu'ils ne
 comportent aucune stipulation incompatible avec les dispositions législatives ou
 réglementaires en vigueur, en particulier avec celles relatives au contrôle de

@@ -1,19 +1,19 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui
+La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui
 concerne [*champ d'application*] :
 
 a. Les prestations relatives :
 
 - à la fourniture de logement et aux trois quarts du prix de pension ou de
 demi-pension dans les établissements d'hébergement autres que les hôtels de
-tourisme de catégorie luxe (1); dans les mêmes conditions que pour les
-établissements d'hébergement (2) ;
+tourisme de catégorie 4 étoiles luxe ; ce taux s'applique aux locations meublées
+dans les mêmes conditions que pour les établissements d'hébergement (1) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
-d'entreprises et répondant aux conditions qui sont fixées par décret (3) ;
+d'entreprises et répondant aux conditions qui sont fixées par décret (2) ;
 
 a ter. Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
@@ -23,10 +23,10 @@ a quater. (Abrogé) ;
 
 b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants des services de distribution d'eau et
-d'assainissement (4) ;
+d'assainissement (3) ;
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
-d'assainissement (4) ;
+d'assainissement (3) ;
 
 b bis. Les spectacles suivants :
 
@@ -58,7 +58,7 @@ ou d'incitation à la violence mentionnés à l'article 281 bis A ;
 
 b sexies. Une partie du prix des billets d'entrée donnant exclusivement accès à
 des concerts donnés dans des établissements agréés où il est servi des
-consommations pendant le spectacle (4).
+consommations pendant le spectacle.
 
 La partie du prix d'entrée taxée au taux réduit est déterminée, dans chaque
 établissement, en appliquant à ce prix un pourcentage égal au rapport existant,
@@ -71,13 +71,13 @@ des services rendus.
 L'agrément est prononcé conjointement par le ministre de la culture et le
 ministre de l'économie, des finances et du budget après avis d'une commission
 dont la composition et le fonctionnement sont prévus par arrêté de ces mêmes
-ministres (5).
+ministres (4).
 
 Un décret en Conseil d'Etat fixe les conditions de l'agrément et les modalités
-d'application du présent article (6).
+d'application du présent article (5).
 
 b septies. Les prestations de services effectuées par les agences de voyages et
-les organisateurs de circuits touristiques (7).
+les organisateurs de circuits touristiques.
 
 b octies. La redevance pour droit d'usage des appareils récepteurs de télévision
 ;
@@ -109,6 +109,10 @@ Lorsqu'un prix forfaitaire et global donne l'accès à l'ensemble des
 manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
+
+b decies. Les abonnements relatifs aux livraisons d'électricité, de gaz
+combustible et d'énergie calorifique, à usage domestique, distribués par réseaux
+publics.
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :

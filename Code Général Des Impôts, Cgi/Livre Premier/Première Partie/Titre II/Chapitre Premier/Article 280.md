@@ -34,7 +34,7 @@ douanes;
 - glace hydrique;
 
 2° Les produits suivants, utilisés pour l'alimentation humaine et non passibles
-du taux super réduit :
+du taux réduit :
 
 - boissons alcooliques;
 
@@ -131,6 +131,5 @@ Les locations et les ventes desdits biens et équipements à l'administration de
 postes et télécommunications sont soumises à la taxe sur la valeur ajoutée au
 taux intermédiaire.
 
-(1) Voir art. 278 bis, renvoi 2.
-
-(2) Annexe III, art. 88 (3) Voir annexe II, art. 259.
+(1) Voir art. 278 bis, renvoi 2. (2) Annexe III, art. 88 (3) Voir annexe II,
+art. 259.
