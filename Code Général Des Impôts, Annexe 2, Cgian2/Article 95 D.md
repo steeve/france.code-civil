@@ -8,4 +8,7 @@ Les autres opérations ne sont prises en compte que si elles se concluent par la
 sortie effective de valeurs du patrimoine du cédant. La date est alors celle de
 la livraison des titres.
 
-Le prix de vente est diminué des frais inhérents à l'opération.
+Le prix de vente est diminué des frais inhérents à l'opération. Le remboursement
+aux associés de parts ou actions par les sociétés coopératives visées à
+l'article 199 quinquies-0 A du code général des impôts est assimilé à une
+cession à titre onéreux.
