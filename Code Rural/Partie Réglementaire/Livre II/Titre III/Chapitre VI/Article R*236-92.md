@@ -1,6 +1,6 @@
 Article R*236-92
 ----
-L'arrêté du ministre ou celui du préfet détermine :
+L'arrêté du préfet détermine :
 
 1° L'emplacement, les limites amont et aval de la section concernée du cours
 d'eau, canal ou plan d'eau ;

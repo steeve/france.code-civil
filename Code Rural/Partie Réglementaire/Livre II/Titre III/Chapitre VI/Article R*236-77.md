@@ -1,6 +1,6 @@
 Article R*236-77
 ----
-L'autorisation délivrée par le ministre précise :
+L'autorisation délivrée par le préfet :
 
 1° L'identité et la qualité du bénéficiaire de l'autorisation ainsi que celles
 de la ou des personnes responsables de l'exécution matérielle de l'opération ;

@@ -9,7 +9,7 @@ de l'exécution matérielle de l'opération ;
 
 3° Les objectifs poursuivis ;
 
-4° Le ou les départements pour lesquels l'autorisation est demandée ;
+4° (alinéa supprimé) ;
 
 5° Dans le cas d'une demande effectuée pour réaliser une notice ou une étude
 d'impact au sens de l'article 2 de la loi du 10 juillet 1976, la nature du

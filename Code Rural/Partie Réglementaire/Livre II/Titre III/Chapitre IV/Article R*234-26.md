@@ -5,11 +5,11 @@ et, le cas échéant, l'association agréée de pêcheurs amateurs aux engins et
 filets sur les eaux du domaine public sont obligatoirement regroupées en une
 fédération départementale des associations agréées de pêche et de pisciculture
 dont les statuts, qui doivent être conformes à des statuts types pris par arrêté
-ministériel, sont approuvés par le ministre chargé de la pêche en eau douce.
+ministériel, sont approuvés par le préfet.
 
 Toute modification des statuts d'une fédération départementale doit être soumise
-dans les trois mois à l'approbation de ce ministre. La fédération départementale
-des associations agréées de pêche et de pisciculture est constituée et déclarée
+dans les trois mois à l'approbation du préfet. La fédération départementale des
+associations agréées de pêche et de pisciculture est constituée et déclarée
 conformément à la loi du 1er juillet 1901 ou aux articles 21 à 79 du code civil
 local maintenu en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de
 la Moselle par la loi du 1er juin 1924 susmentionnée.

@@ -16,5 +16,5 @@ un compte-rendu de l'opération avec les résultats des captures, présentés so
 une forme fixée par le ministre chargé de la pêche en eau douce ;
 
 4° Adresser dans le délai de six mois après l'expiration de l'autorisation au
-ministre chargé de la pêche en eau douce un rapport indiquant les opérations
-réalisées, leurs lieux, dates et objets.
+préfet coordonnateur de bassin un rapport indiquant les opérations réalisées,
+leurs lieux, dates et objets.
