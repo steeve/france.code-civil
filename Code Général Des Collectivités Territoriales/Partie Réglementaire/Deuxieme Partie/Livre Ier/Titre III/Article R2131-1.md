@@ -1,25 +1,14 @@
 Article R2131-1
 ----
-La transmission au préfet ou au sous-préfet des marchés des communes et de leurs
-établissements publics autres que les établissements publics de santé comporte,
-les pièces suivantes :
+La commune, lorsqu'elle choisit d'effectuer par voie électronique la
+transmission de tout ou partie des actes mentionnés à l'article L. 2131-2,
+recourt à un dispositif de télétransmission ayant fait l'objet d'une
+homologation dans des conditions fixées par arrêté du ministre de l'intérieur.
 
-1° La copie des pièces constitutives du marché, à l'exception des plans ;
+L'homologation est subordonnée au respect des prescriptions contenues dans un
+cahier des charges annexé à l'arrêté mentionné au précédent alinéa.
 
-2° La délibération autorisant le représentant légal de la commune ou de
-l'établissement à passer le marché ;
-
-3° La copie de l'avis d'appel public à la concurrence ainsi que, s'il y a lieu,
-de la lettre de consultation ;
-
-4° Le règlement de la consultation, lorsque l'établissement d'un tel document
-est obligatoire ;
-
-5° Les procès-verbaux et rapports de la commission d'adjudication ou d'appel
-d'offres et les avis du jury de concours, avec les noms et qualités des
-personnes qui y ont siégé, ainsi que le rapport du représentant légal de la
-commune ou de l'établissement public prévu par l'article 312 ter du code des
-marchés publics ;
-
-6° Les renseignements, attestations et déclarations fournis en vertu de
-l'article 50 du code des marchés publics.
+Aucun dispositif ne peut être homologué s'il n'assure l'identification et
+l'authentification de la collectivité territoriale émettrice, l'intégrité des
+flux de données relatives aux actes mentionnés au premier alinéa ainsi que la
+sécurité et la confidentialité de ces données.
