@@ -1,9 +1,9 @@
 Article L932-1
 ----
-Le comité d'entreprise est obligatoirement consulté sur les orientations de la
-formation professionnelle dans l'entreprise en fonction des perspectives
-économiques et de l'évolution de l'emploi, des investissements et des
-technologies dans l'entreprise.
+Le comité d'entreprise est obligatoirement consulté tous les ans [*périodicité*]
+sur les orientations de la formation professionnelle dans l'entreprise en
+fonction des perspectives économiques et de l'évolution de l'emploi, des
+investissements et des technologies dans l'entreprise.
 
 Ces orientations doivent prendre en compte l'analyse de la situation comparée
 des hommes et des femmes, telle qu'elle ressort des informations fournies par
