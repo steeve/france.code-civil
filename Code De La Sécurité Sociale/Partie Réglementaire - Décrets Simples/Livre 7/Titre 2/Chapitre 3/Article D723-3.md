@@ -1,4 +1,4 @@
-Article D723-2-1
+Article D723-3
 ----
 La pension prévue à l'article L. 723-10 peut être liquidée avant l'âge de
 soixante ans pour les assurés qui justifient, dans le régime d'assurance
