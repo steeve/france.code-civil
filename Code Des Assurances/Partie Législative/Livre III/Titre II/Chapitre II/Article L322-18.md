@@ -22,3 +22,5 @@ part de ces actionnaires dans le capital de la société ne dépasse pas ou dép
 10 % ; l'un au moins de ces membres représente les personnes physiques
 détentrices d'actions ; ces représentants sont élus selon des modalités fixées
 par décret en Conseil d'Etat.
+
+f) Le président du conseil d'administration de la société centrale concernée.
