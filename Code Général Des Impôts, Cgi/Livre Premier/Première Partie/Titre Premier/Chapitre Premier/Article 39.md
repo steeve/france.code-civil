@@ -97,11 +97,12 @@ condition qu'elles aient été effectivement constatées dans les écritures de
 l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une
 entreprise en vue de faire face au versement d'allocations en raison du départ à
 la retraite ou préretraite des membres ou anciens membres de son personnel, ou
-de ses mandataires sociaux, La dépréciation des oeuvres d'art inscrites à
-l'actif d'une entreprise peut donner lieu à la constitution d'une provision.
-Cette dépréciation doit être constatée par un expert agréé par le ministre
-chargé de la culture lorsque le coût d'acquisition de l'oeuvre est supérieur à
-50 000 F..
+de ses mandataires sociaux,
+
+La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut
+donner lieu à la constitution d'une provision. Cette dépréciation doit être
+constatée par un expert agréé par le ministre chargé de la culture lorsque le
+coût d'acquisition de l'oeuvre est supérieur à 50 000 F..
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité
@@ -185,8 +186,10 @@ La dépréciation de titres prêtés dans les conditions du chapitre V de la loi
 87-416 du 17 juin 1987 sur l'épargne ne peut donner lieu, de la part du prêteur
 ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne
 peut constituer de provision pour dépréciation de la créance représentative de
-ces titres ; Par exception aux dispositions du onzième alinéa qui précède, la
-provision éventuellement constituée par une entreprise en vue de faire face à la
+ces titres ;
+
+Par exception aux dispositions du onzième alinéa qui précède, la provision
+éventuellement constituée par une entreprise en vue de faire face à la
 dépréciation d'une participation dans une filiale implantée à l'étranger n'est
 admise sur le plan fiscal que pour la fraction de son montant qui excède les
 sommes déduites en application des dispositions des articles 39 octies A et 39
@@ -247,7 +250,7 @@ voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
 prix d'acquisition du véhicule excédant 65 000 F (9) ;
 
-- Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
+Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de
 plaisance à voile ou à moteur ainsi que de leur entretien.
 
@@ -301,13 +304,14 @@ pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte po
 la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat
 du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
-8. Si un fonds de commerce ou un établissement artisanal est loué dans les
-conditions prévues au 3° de l'article 1er de la loi n°66-455 du 2 juillet 1966
-relative aux entreprises pratiquant le crédit-bail, la quote-part des loyers
-pris en compte pour la fixation du prix de vente convenu pour l'acceptation de
-la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt
-sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement
-dans le contrat de crédit-bail.
+8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments
+incorporels non amortissables est loué dans les conditions prévues au 3° de
+l'article 1er de la loi n°66-455 du 2 juillet 1966 relative aux entreprises
+pratiquant le crédit-bail, la quote-part des loyers pris en compte pour la
+fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale
+de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû
+par le locataire. Elle doit être indiquée distinctement dans le contrat de
+crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives (12).
@@ -323,7 +327,9 @@ exercice. L'indemnité correspondant à ces derniers droits est considérée com
 déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
-indemnités. Un décret fixe les modalités d'application du présent 9 (13).
+indemnités.
+
+Un décret fixe les modalités d'application du présent 9 (13).
 
 (1) L'option est formulée sur un imprimé conforme au modèle établi par
 l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
@@ -355,4 +361,4 @@ antérieurement, elle était fixée à 35.000 F.
 
 (12) Annexe III, art. 38 quindecies E.
 
-(13 Annexe III, art. 49 octies à 49 octies D.
+(13) Annexe III, art. 49 octies à 49 octies D.

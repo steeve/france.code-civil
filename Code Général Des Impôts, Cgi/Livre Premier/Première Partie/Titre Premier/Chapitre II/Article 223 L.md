@@ -20,10 +20,10 @@ montant.
 
 5. Pour le calcul de la participation et de la réserve spéciale de participation
 prévues par les articles 7 à 21 de l'ordonnance n° 86-1134 du 21 octobre 1986
-relative à l'intéressement et à la participation des salariés aux résultats de
-l'entreprise et à l'actionnariat des salariés, chaque société du groupe retient
-le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme
-si elle était imposée séparément.
+modifiée relative à l'intéressement et à la participation des salariés aux
+résultats de l'entreprise et à l'actionnariat des salariés, chaque société du
+groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés
+déterminés comme si elle était imposée séparément.
 
 6. a) (Abrogé).
 

@@ -4,9 +4,9 @@ Les actes, pièces et écrits relatifs à la réalisation de remembrements fonci
 opérés à l'amiable et portant sur des terrains destinés à la construction
 d'immeubles à usage d'habitation sont exonérés des droits de timbre et, sous
 réserve des dispositions de l'article 1020, des droits d'enregistrement à
-condition que ces remembrements aient fait l'objet d'une autorisation
-préfectorale donnée dans les formes prévues par la réglementation applicable en
-matière de lotissement (1).
+condition que ces remembrements aient fait l'objet d'une autorisation donnée
+dans les formes prévues par la réglementation applicable en matière de
+lotissement (1).
 
 La même exonération est applicable aux actes, pièces et écrits relatifs à la
 réalisation de remembrements opérés par les associations foncières urbaines en
@@ -18,5 +18,4 @@ Les procès-verbaux de réorganisation foncière ou de remembrement et les arrê
 en vue du remembrement préalable à la reconstruction ne donnent pas lieu à la
 perception de la taxe de publicité foncière.
 
-1) Code de l'urbanisme, IIe partie, livre III, titre Ier, chapitre V (R. 315-1 à
-R. 315-31).
+(1) Code de l'urbanisme, L.315-1-1 et R. 315-1 à R. 315-31 4.

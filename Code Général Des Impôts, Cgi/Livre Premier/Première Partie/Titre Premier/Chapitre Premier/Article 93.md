@@ -22,8 +22,8 @@ bénéfices industriels et commerciaux.
 portant sur des voitures particulières, à l'exclusion de la part de loyer visée
 à l'article 39-4.
 
-Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour
-l'adhésion à une association agréée ne sont pas prises en compte pour la
+4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement,
+pour l'adhésion à une association agréée ne sont pas prises en compte pour la
 détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du
 fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
@@ -87,6 +87,10 @@ dispositions du deuxième alinéa de l'article 93 quater-I.
 
 5. Pour l'application du 1, les parts de sociétés civiles de moyens constituent
 des éléments affectés à l'exercice de la profession.
+
+6. Les biens acquis à l'échéance des contrats mentionnés au III de l'article 93
+quater constituent des éléments d'actif affectés à l'exercice de l'activité non
+commerciale pour l'application du présent article.
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
 nationalisation, voir art. 248 B.

@@ -10,7 +10,8 @@ opérations lucratives auxquelles ils se livrent, sous déduction :
 I. Du déficit constaté pour une année dans une catégorie de revenus ; si le
 revenu global n'est pas suffisant pour que l'imputation puisse être
 intégralement opérée, l'excédent du déficit est reporté successivement sur le
-revenu global des années suivantes jusqu'à la cinquième année inclusivement.
+revenu global des années suivantes jusqu'à la cinquième année inclusivement
+[*délai*].
 
 Toutefois, n'est pas autorisée l'imputation :
 
@@ -18,7 +19,7 @@ Toutefois, n'est pas autorisée l'imputation :
 nets d'autres sources excède 100.000 F [*montant*] ; ces déficits peuvent
 cependant être admis en déduction des bénéfices de même nature des années
 suivantes jusqu'à la cinquième inclusivement. (Le seuil de 100.000 F est
-applicable à compter de l'imposition des revenus de 1990. Antérieurement il
+applicable à compter de l'imposition des revenus de 1989. Antérieurement il
 était de 70.000 F) ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
@@ -46,16 +47,20 @@ meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés d
 cette même activité au cours des années suivantes jusqu'à la cinquième
 inclusivement.
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter et 150
-octies, lorsque l'option prévue au 8° du paragraphe I de l'article 35 n'a pas
-été exercée ; ces pertes sont imputables exclusivement sur les profits de même
-nature réalisés au cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
+octies et 150 nonies lorsque l'option prévue au 8° du paragraphe I de l'article
+35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
+profits de même nature réalisés au cours de la même année ou des cinq années
+suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
 terme d'instruments financiers [*MATIF*] ou d'options négociables [*MONEP*] ;
 ces pertes sont imputables exclusivement sur les profits de même nature réalisés
 dans les mêmes conditions au cours de la même année ou des cinq années
 suivantes.
+
+Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
+marchandises réalisées à l'étranger.
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
@@ -86,13 +91,16 @@ et des finances ;
 
 2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées
 avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées
-par les articles 205 à 211 du code civil ; rentes prévues à l'article 276 du
-code civil et pensions alimentaires versées en vertu d'une décision de justice,
-en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation
-de corps ou de divorce lorsque le conjoint fait l'objet d'une imposition séparée
-; dans la limite de 18.000 F et, dans les conditions fixées par un décret en
-Conseil d'Etat, les versements destinés à constituer le capital de la rente
-prévue à l'article 294 du code civil (Voir Annexe II, art. 91 quinquies) ;
+par les articles 205 à 211 et 367 du code civil ; rentes prévues à l'article 276
+du code civil et pensions alimentaires versées en vertu d'une décision de
+justice, en cas de séparation de corps ou de divorce, ou en cas d'instance en
+séparation de corps ou de divorce lorsque le conjoint fait l'objet d'une
+imposition séparée ; contribution aux charges du mariage définie à l'article 214
+du code civil, lorsque son versement résulte d'une décision de justice et à
+condition que les époux fassent l'objet d'une imposition séparée ; dans la
+limite de 18.000 F et, dans les conditions fixées par un décret en Conseil
+d'Etat, les versements destinés à constituer le capital de la rente prévue à
+l'article 294 du code civil (Voir Annexe II, art. 91 quinquies) ;
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
 pour ses enfants dont il n'a pas la garde ;
@@ -134,11 +142,11 @@ l'article L. 321-9 du code de la mutualité ;
 
 6° (Abrogé) ;
 
-7° a et b (Devenus sans objets) (2).
+7° a et b (Devenus sans objets).
 
 c. (Abrogé) ;
 
-d. (Devenu sans objet) (2).
+d. (Devenu sans objet).
 
 8° (Abrogé) ;
 

@@ -7,7 +7,13 @@ exonérées, à condition que l'activité ait été exercée pendant au moins ci
 [*délai*], et que le bien n'entre pas dans le champ d'application de l'article
 691.
 
-Lorsque ces conditions ne sont pas remplies, il est fait application :
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a
+et b du II de l'article L. 13-15 du code de l'expropriation pour cause d'utilité
+publique ne sont pas considérés comme des biens entrant dans le champ
+d'application de l'article 691 (2).
+
+Lorsque les conditions visées au premier alinéa ne sont pas remplies, il est
+fait application :
 
 - des règles prévues aux articles 150 A à 150 S pour les terrains à bâtir et les
 terres à usage agricole ou forestier ;
@@ -28,3 +34,6 @@ leur revenu.
 (1) Plafond applicable aux plus-values réalisées à compter du 1er janvier 1988.
 Antérieurement les recettes ne devaient pas excéder la limite du forfait ou de
 l'évaluation administrative.
+
+(2) Disposition applicable aux plus-values réalisées à compter du 1er janvier
+1991.

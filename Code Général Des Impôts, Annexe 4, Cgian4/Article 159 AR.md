@@ -3,10 +3,12 @@ Article 159 AR
 Le montant de la taxe parafiscale perçue sur les graines oléagineuses, visée à
 l'article 363 F de l'annexe II au code général des impôts destinée au Fonds
 national du développement agricole est fixé comme suit pour la campagne
-1989-1990 :
+1990-1991 :
 
-" Colza et navette : 7,10 F par tonne ;
+Colza : 6,40 F par tonne ;
 
-" Tournesol : 8,60 F par tonne ;
+Navette : 6,40 F par tonne ;
 
-" Soja : 4,55 F par tonne.
+Tournesol : 7,75 F par tonne ;
+
+Soja : 4,10 F par tonne.

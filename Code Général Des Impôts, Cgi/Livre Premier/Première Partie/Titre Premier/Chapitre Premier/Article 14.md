@@ -1,9 +1,9 @@
 Article 14
 ----
-Sous réserve des dispositions de l'article 15, sont compris dans la catégorie
-des revenus fonciers [*définition*], lorsqu'ils ne sont pas inclus dans les
-bénéfices d'une entreprise industrielle, commerciale ou artisanale, d'une
-exploitation agricole ou d'une profession non commerciale :
+Sous réserve des dispositions de l'article 15 et de l'article 15 bis, sont
+compris dans la catégorie des revenus fonciers, lorsqu'ils ne sont pas inclus
+dans les bénéfices d'une entreprise industrielle, commerciale ou artisanale,
+d'une exploitation agricole ou d'une profession non commerciale :
 
 1° Les revenus des propriétés bâties, telles que maisons et usines, ainsi que
 les revenus :

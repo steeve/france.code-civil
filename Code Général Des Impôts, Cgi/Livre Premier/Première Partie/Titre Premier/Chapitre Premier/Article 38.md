@@ -54,6 +54,16 @@ initialement comptabilisés sont déterminés à la clôture de chaque exercice 
 fonction du dernier cours de change et pris en compte pour la détermination du
 résultat imposable de l'exercice.
 
+Lorsque des établissements de crédit ou des maisons de titres mentionnés à
+l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la
+clôture de chaque exercice en fonction du dernier cours de change connu, les
+écarts de conversion constatés sont pris en compte pour la détermination du
+résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de
+revient des titres est augmenté ou diminué, selon les cas, des écarts de
+conversion mentionnés à ce même alinéa. Ces dispositions sont applicables aux
+écarts de change relatifs à la période postérieure à l'ouverture du premier
+exercice clos à compter du 31 décembre 1990.
+
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
 placement est compris dans le résultat de l'exercice au cours duquel les parts
 du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par

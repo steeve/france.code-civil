@@ -1,13 +1,17 @@
 Article 1408
 ----
-I La taxe est établie au nom des personnes qui ont, à quelque titre que ce soit,
-la disposition ou la jouissance des locaux imposables.
+I. La taxe est établie au nom des personnes qui ont, à quelque titre que ce
+soit, la disposition ou la jouissance des locaux imposables.
 
 Les fonctionnaires et les employés civils et militaires logés gratuitement dans
 les bâtiments appartenant à l'Etat, aux départements, aux communes ou aux
 hospices sont imposables pour les locaux affectés à leur habitation personnelle.
 
-II Sont exonérés :
+Les sociétés d'attribution d'immeubles en jouissance à temps partagé sont
+redevables de la taxe d'habitation afférente aux locaux attribués en jouissance
+à leurs membres.
+
+II. Sont exonérés :
 
 1° Les établissements publics scientifiques, d'enseignement et d'assistance;
 

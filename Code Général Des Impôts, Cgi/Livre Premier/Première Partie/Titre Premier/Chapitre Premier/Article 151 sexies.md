@@ -7,4 +7,9 @@ contribuable, suivant les règles des articles 150 A à 150 S, pour la partie
 correspondant à cette période. Cette partie est exonérée s'il s'agit d'une terre
 agricole qui n'entre pas dans le champ d'application de l'article 691 et qui est
 exploitée par un agriculteur ayant exercé son activité à titre principal pendant
-au moins cinq ans [*délai*].
+au moins cinq ans.
+
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a
+et b du II de l'article L. 13-15 du code de l'expropriation pour cause d'utilité
+publique ne sont pas considérés comme des biens entrant dans le champ
+d'application de l'article 691.

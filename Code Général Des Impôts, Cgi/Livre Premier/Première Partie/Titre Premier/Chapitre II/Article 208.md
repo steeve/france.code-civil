@@ -145,19 +145,10 @@ provenant des opérations de crédit-bail et de location ou des plus-values
 qu'elles réalisent dans le cadre des opérations de crédit-bail ;
 
 3° septies. Les sociétés de capital-risque qui fonctionnent dans les conditions
-prévues à l'article 1er de la loi 85-695 du 11 juillet 1985 :
+prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée sur les
+produits et plus-values nets provenant de leur portefeuille ;
 
-a) pour les produits et plus-values nets provenant des titres de sociétés
-non-cotées qu'elles détiennent ;
-
-b) pour les plus-values nettes provenant des actions acquises avant leur
-admission à la cote officielle ou à la cote du second marché et qui sont cédées
-dans un délai de trois ans à compter de cette admission ;
-
-c) Pour les produits et plus-values nets d'autres placements effectués dans la
-limite du tiers de ce portefeuille de titres (3);
-
-3° octies Les fonds communs de créances pour les bénéfices réalisés dans le
+3° octies. Les fonds communs de créances pour les bénéfices réalisés dans le
 cadre de leur objet légal ;
 
 4° Les associations de mutilés de guerre et d'anciens combattants reconnues

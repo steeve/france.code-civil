@@ -3,7 +3,7 @@ Article 219
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
 10 F est négligée.
 
-Le taux de l'impôt est fixé à 37 % (1).
+Le taux normal de l'impôt est fixé à 34 % (1).
 
 Toutefois :
 
@@ -20,32 +20,59 @@ moins-values à long terme existant à l'ouverture du premier exercice clos apr�
 le 20 octobre 1989 qui sont afférentes aux éléments d'actifs autres que ceux
 visés à l'article 39 terdecies et au I de l'article 691 sont imputées sur les
 plus-values à long terme imposables au taux de 19 p. 100 mentionné à l'alinéa
-précédent ;
+précédent. Les moins-values à long terme afférentes à des éléments d'actif
+relevant du taux de 19 p. 100 et existant à l'ouverture du premier exercice clos
+à compter du 1er novembre 1990 peuvent s'imputer sur les plus-values à long
+terme correspondant à la cession de titres mentionnées au sixième alinéa pour
+une fraction de leur montant égale à dix-neuf vingt-cinquièmes.
 
 Toutefois, en cas de liquidation d'entreprise intervenue au cours des exercices
-ouverts à compter du 1er janvier 1990 l'excédent des moins-values à long terme
-subies à compter du 20 octobre 1989 peut être déduit des bénéfices de l'exercice
-de liquidation à raison des dix-neuf trente-septièmes de son montant. Cette
-fraction est égale à dix-neuf trente-neuvièmes si la liquidation est intervenue
-au cours d'exercices ouverts en 1989 ou à dix-neuf quarante-deuxièmes si la
-liquidation est intervenue au cours d'exercices ouverts en 1988.
+ouverts à compter du 1er janvier 1991, l'excédent des moins-values à long terme
+subies à compter du 20 octobre 1989, peut être déduit des bénéfices de
+l'exercice de liquidation à raison des dix-neuf trente-quatrièmes de son
+montant. Cette fraction est égale à dix-neuf trente-septièmes si la liquidation
+est intervenue au cours d'exercices ouverts en 1990 ou à dix-neuf
+trente-neuvièmes si la liquidation est intervenue au cours d'exercices ouverts
+en 1989.
 
-Pour les moins-values à long terme subies avant le 20 octobre 1989 cette
+Pour les moins-values à long terme subies avant le 20 octobre 1989, cette
 fraction est égale à quinze quarante-cinquièmes si la liquidation est intervenue
 au cours d'exercices ouverts entre le 1er janvier 1986 et le 31 décembre 1987,
 quinze quarante-deuxièmes si la liquidation est intervenue au cours d'exercices
 ouverts en 1988, quinze trente-neuvièmes si la liquidation est intervenue au
-cours d'exercices ouverts en 1989 et quinze trente-septièmes si la liquidation
-intervient au cours d'exercices ouverts à compter du 1er janvier 1990.
+cours d'exercices ouverts en 1989, quinze trente-septièmes si la liquidation est
+intervenue au cours d'exercices ouverts en 1990, et quinze trente-quatrièmes si
+la liquidation intervient au cours d'exercices ouverts à compter du 1er janvier
+1991.
 
-Les provisions pour dépréciation du portefeuille existant à l'ouverture du
-premier exercice clos après le 20 octobre 1989 sont comprises dans les
-plus-values à long terme imposables au taux de 19 p. 100 lorsqu'elles deviennent
-sans objet.
+Sous réserve des dispositions du huitième alinéa, les provisions pour
+dépréciation du portefeuille existant à l'ouverture du premier exercice clos
+après le 20 octobre 1989 sont comprises dans les plus-values à long terme
+imposables au taux de 19 % lorsqu'elles deviennent sans objet.
 
-Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
-fait l'objet d'une imposition séparée au taux de 25 % dans les conditions
-prévues par ce texte et par l'article 209 quater.
+Pour la détermination des résultats imposables des exercices clos à compter du
+1er novembre 1990, le taux de 19 p. 100 mentionné au premier alinéa du a est
+porté à 25 p. 100 pour l'imposition des plus-values nettes à long terme
+réalisées lors de la cession de titres du portefeuille, à l'exclusion des parts
+ou actions de sociétés, autres que celles émises par les sociétés
+d'investissement à capital variable, des bons de souscription d'actions, des
+certificats d'investissement et des certificats coopératifs d'investissement.
+Par exception, le taux de 25 p. 100 est applicable aux plus-values nettes à long
+terme afférentes aux titres de sociétés dont l'actif est constitué
+principalement par des titres relevant de ce même taux en application de la
+phrase qui précède ou dont l'activité consiste de manière prépondérante en la
+gestion des mêmes valeurs pour leur propre compte.
+
+Le montant net des plus-values à long terme mentionnées au sixième alinéa et des
+plus-values visées au II de l'article 39 quindecies fait l'objet d'une
+imposition séparée au taux de 25 p. 100 dans les conditions prévues par ce
+dernier texte et par l'article 209 quater.
+
+Les provisions pour dépréciation existant à l'ouverture du premier exercice clos
+à compter du 1er novembre 1990 qui se rapportent aux titres soumis au régime
+d'imposition prévu au premier alinéa, lorsqu'elles sont réintégrées dans le
+résultat, sont soumises au régime des plus-values à long terme imposables au
+taux de 25 p. 100.
 
 b. (Disposition périmée).
 
@@ -103,7 +130,16 @@ parts sociales et exonérées en application des alinéas précédents, le suppl
 d'impôt est dû à raison de ces distributions dans la limite de cette différence.
 Pour l'application de cette disposition, le montant moyen du capital est égal au
 rapport de la somme des montants respectifs du capital à la fin de chaque mois
-sur le nombre de mois de l'exercice.
+sur le nombre de mois de l'exercice (2).
+
+Les distributions payées en certificats coopératifs d'investissement
+conformément aux dispositions du I de l'article 32 de la loi n° 91-5 du 3
+janvier 1991 modifiant diverses dispositions intéressant l'agriculture et la
+forêt ne sont pas retenues pour l'application des dispositions du c dans les
+conditions et limites prévues pour les distributions payées en actions ou parts
+sociales par les sociétés ou coopératives à capital variable autres que celles
+qui sont régies par la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales.
 
 d bis. Pour l'application du premier alinéa du d, les distributions exonérées du
 précompte mobilier en application du 8° du 3 de l'article 223 sexies sont
@@ -129,7 +165,7 @@ profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'
 permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972
 [*période*] ou pour lesquels aura été déposée, avant le 1er janvier 1972, la
 déclaration de construction visée à l'article L 430-3 du code de l'urbanisme
-(2).
+(3).
 
 Toutefois, en ce qui concerne ces profits :
 
@@ -139,11 +175,14 @@ b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1990. Il
-était fixé à 45 % pour les exercices ouverts entre le 1er janvier 1986 et le 31
-décembre 1987, à 42 % pour les exercices ouverts entre le 1er janvier 1988 et le
-31 décembre 1988 et à 39 % pour les exercices ouverts à compter du 1er janvier
-1989.
+(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1991. Il
+était fixé à 37 % pour les exercices ouverts à compter du 1er janvier 1990, à 39
+% pour les exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à
+42 % pour les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988
+et à 45 % pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre
+1987.
 
-(2) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
+(2) Voir annexe III, art. 46 quater-0 ZY.
+
+(3) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
 du 1er janvier 1977).

@@ -4,7 +4,7 @@ L'impôt de solidarité sur la fortune du redevable ayant son domicile fiscal en
 France est réduit de la différence entre, d'une part, le total de cet impôt et
 des impôts dus en France et à l'étranger au titre des revenus et produits de
 l'année précédente, calculés avant imputation de l'avoir fiscal, des crédits
-d'impôt et des retenues non libératoires, et, d'autre part, 70 p. 100 du total
+d'impôt et des retenues non libératoires, et, d'autre part, 85 p. 100 du total
 des revenus nets de frais professionnels soumis en France et à l'étranger à
 l'impôt sur le revenu au titre de l'année précédente et des produits soumis à un
 prélèvement libératoire de cet impôt.

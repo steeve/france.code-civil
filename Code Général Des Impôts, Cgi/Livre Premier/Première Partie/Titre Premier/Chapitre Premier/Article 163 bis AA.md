@@ -2,7 +2,7 @@ Article 163 bis AA
 ----
 Les sommes revenant aux salariés au titre de la participation des salariés aux
 résultats de l'entreprise, en application du chapitre II de l'ordonnance n°
-86-1134 du 21 octobre 1986, sont exonérées d'impôt sur le revenu.
+86-1134 du 21 octobre 1986 modifiée, sont exonérées d'impôt sur le revenu.
 
 L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée
 de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est

@@ -2,9 +2,9 @@ Article 237 bis A
 ----
 I. Les sommes portées au cours d'un exercice à la réserve spéciale de
 participation constituée en application du chapitre II de l'ordonnance n°
-86-1134 du 21 octobre 1986 sont déductibles pour l'assiette de l'impôt sur les
-sociétés ou de l'impôt sur le revenu exigible au titre de l'exercice au cours
-duquel elles sont réparties entre les salariés. L'application de cette
+86-1134 du 21 octobre 1986 modifiée sont déductibles pour l'assiette de l'impôt
+sur les sociétés ou de l'impôt sur le revenu exigible au titre de l'exercice au
+cours duquel elles sont réparties entre les salariés. L'application de cette
 disposition est subordonnée au dépôt de l'accord de participation à la direction
 départementale du travail et de l'emploi du lieu où cet accord a été conclu.
 

@@ -51,3 +51,6 @@ l'étranger, quelle que soit la nature ou l'origine des produits distribués.
 
 12° Les profits résultant des opérations réalisées à l'étranger sur un marché à
 terme d'instruments financiers ou d'options négociables [*MONEP*].
+
+Cette disposition est applicable aux profits résultant des opérations à terme
+sur marchandises réalisées à l'étranger.

@@ -6,16 +6,16 @@ et dans les conditions prévues aux 2 à 6 ci-après, sans qu'il y ait lieu de
 distinguer suivant que ces revenus ont leur source en France ou hors de France.
 
 Toutefois, en ce qui concerne les entreprises et exploitations situées hors de
-France, les règles fixées par le présent code pour la détermination forfaitaire
-des bénéfices imposables ne sont pas applicables.
+France [*à l'étranger*], les règles fixées par le présent code pour la
+détermination forfaitaire des bénéfices imposables ne sont pas applicables.
 
-2. Le revenu net foncier est déterminé conformément aux dispositions des
-articles 14, 15 et 28 à 31.
+2. Le revenu net foncier est déterminé conformément aux disposition des articles
+14 à 33 quinquies.
 
-3. Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
-de la 1ère sous-section de la présente section, à l'exception des revenus
-expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
-ayant supporté le prélèvement visé à l'article 125 A.
+3. Les revenus de capitaux mobiliers [*définition*] comprennent tous les revenus
+visés au VII de la 1ère sous-section de la présente section, à l'exception des
+revenus expressément affranchis de l'impôt en vertu de l'article 157 et des
+revenus ayant supporté le prélèvement visé à l'article 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés à l'alinéa précédent sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
@@ -24,12 +24,13 @@ espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 Pour l'assiette de l'impôt sur le revenu des années antérieures à 1986, il est
 opéré un abattement de 5.000 F par an et par foyer fiscal sur la somme des
 revenus imposables, provenant de titres participatifs ou de valeurs mobilières à
-revenu fixe émis en France et inscrits à la cote officielle d'une bourse de
-valeurs française, et d'intérêts servis sur les versements effectués dans les
-fonds salariaux. Toutefois, ces dispositions ne s'appliquent pas aux valeurs
-assorties d'une clause d'indexation et dont la liste est fixée par arrêté du
-ministre de l'économie et des finances (1). Un décret fixera, en tant que de
-besoin, les conditions d'application du présent alinéa.
+revenu fixe émis en France [*intérêts d'obligations*] et inscrits à la cote
+officielle d'une bourse de valeurs française, et d'intérêts servis sur les
+versements effectués dans les fonds salariaux. Toutefois, ces dispositions ne
+s'appliquent pas aux valeurs assorties d'une clause d'indexation et dont la
+liste est fixée par arrêté du ministre de l'économie et des finances (1). Un
+décret fixera, en tant que de besoin, les conditions d'application du présent
+alinéa.
 
 L'abattement prévu au troisième alinéa est opéré sur les revenus des obligations
 mentionnées à l'article 132 ter qui ont été remises en échange d'actions de
@@ -68,9 +69,10 @@ célibataires, veufs ou divorcés et de 16.000 F pour les contribuables mariés
 soumis à imposition commune. Il ne s'applique pas aux revenus d'actions qui ne
 répondent pas aux conditions prévues par la première phrase du 1° de l'article
 163 octies lorsqu'ils sont encaissés par des personnes qui détiennent,
-directement ou indirectement, plus de 35 p. 100 des droits sociaux dans la
-société distributrice. Pour l'application de cette disposition, les droits
-sociaux appartenant au conjoint sont considérés comme détenus indirectement.
+directement ou indirectement, plus de 35 p. 100 [*pourcentage de participation*]
+des droits sociaux dans la société distributrice. Pour l'application de cette
+disposition, les droits sociaux appartenant au conjoint sont considérés comme
+détenus indirectement.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -149,9 +151,9 @@ troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant.
 
 Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et
-indemnités accessoires supérieurs à 413 200 F alloués par une ou plusieurs
+indemnités accessoires supérieurs à 426.400 F alloués par une ou plusieurs
 sociétés à une personne qui détient, directement ou indirectement, plus de 35 p.
-100 des droits sociaux sont retenus, pour la fraction excédant 413 200 F, à
+100 des droits sociaux sont retenus, pour la fraction excédant 426.400 F, à
 raison de 90 p. 100 de leur montant, net de frais professionnels. Pour
 l'application de cette disposition, les droits sociaux appartenant au conjoint
 sont considérés comme détenus indirectement.
@@ -165,9 +167,9 @@ professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas
 
 b. Les dispositions du a sont applicables aux allocations versées aux
 travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et
-troisième alinéas, ainsi qu'aux participations en espèces allouées aux
-travailleurs mentionnées à l'article 231 bis C-1 sous réserve des dispositions
-du 18° bis de l'article 81.
+troisième alinéas, ainsi qu'aux participations en espèces et, à compter du 1er
+janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs
+mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions de
@@ -197,7 +199,7 @@ déclaration porte chaque année sur les arrérages correspondant à la période
 douze mois qui suit la période à laquelle se rapportent les arrérages imposables
 au titre de l'année précédente.
 
-Pour l'application de cette règle, les arrérages échus en 1987 sont répartis
+Pour l'application de cette règle, les arrérages échus en 1987 son répartis
 également sur le nombre de mois auxquels ils correspondent, arrondi au nombre
 entier le plus proche.
 

@@ -2,10 +2,10 @@ Article 81 bis
 ----
 I. L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs
 mobilières attribuées aux salariés ou acquises pour leur compte en application
-des articles 7 à 21 de l'ordonnance n° 86-1134 du 21 octobre 1986, relative à
-l'intéressement et à la participation des salariés aux résultats de l'entreprise
-et à l'actionnariat des salariés donnent lieu à la délivrance d'un certificat
-distinct, conformément aux dispositions de l'article 77.
+des articles 7 à 21 de l'ordonnance n° 86-1134 modifiée du 21 octobre 1986,
+relative à l'intéressement et à la participation des salariés aux résultats de
+l'entreprise et à l'actionnariat des salariés donnent lieu à la délivrance d'un
+certificat distinct, conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de
 l'article 163 bis AA du code général des impôts, le certificat est établi pour

@@ -1,7 +1,7 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui
-concerne [*champ d'application*] :
+La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 % en ce
+qui concerne [*champ d'application*] :
 
 a. Les prestations relatives :
 
@@ -20,6 +20,10 @@ condition que soit délivrée à tout client une note d'un modèle agréé par
 l'administration indiquant les dates de séjour et le montant de la somme due ;
 
 a quater. (Abrogé) ;
+
+a quinquies. Les prestations de soins dispensées par les établissements thermaux
+autorisés dans les conditions fixées par l'article L. 162-21 du code de la
+sécurité sociale.
 
 b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants des services de distribution d'eau et
@@ -47,7 +51,8 @@ b bis. Les spectacles suivants :
 ceux qui sont assimilés à des loteries foraines en application de l'article 7 de
 la loi du 21 mai 1836 portant prohibition des loteries ;
 
-b ter. Les droits d'entrée pour la visite des parcs zoologiques et botaniques ;
+b ter. Les droits d'entrée pour la visite des parcs zoologiques et botaniques,
+des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
 b quater. Les transports de voyageurs ;
 
@@ -58,33 +63,12 @@ la nature du support des oeuvres ou documents audiovisuels qui sont présentés.
 Cette disposition n'est pas applicable aux oeuvres ou aux films pornographiques
 ou d'incitation à la violence mentionnés à l'article 281 bis A ;
 
-b sexies. Une partie du prix des billets d'entrée donnant exclusivement accès à
-des concerts donnés dans des établissements agréés où il est servi des
-consommations pendant le spectacle.
-
-La partie du prix d'entrée taxée au taux réduit est déterminée, dans chaque
-établissement, en appliquant à ce prix un pourcentage égal au rapport existant,
-l'année précédente, entre les rémunérations versées aux musiciens pour les
-prestations rendues dans cet établissement, augmentées, s'il y a lieu, des
-charges sociales, le tout majoré de 10 %, et les charges qui doivent figurer
-dans le compte d'exploitation générale de ce même établissement pour l'ensemble
-des services rendus.
-
-L'agrément est prononcé conjointement par le ministre de la culture et le
-ministre de l'économie, des finances et du budget après avis d'une commission
-dont la composition et le fonctionnement sont prévus par arrêté de ces mêmes
-ministres (4).
-
-Un décret en Conseil d'Etat fixe les conditions de l'agrément et les modalités
-d'application du présent article (5).
+b sexies. (Abrogé).
 
 b septies. Les prestations de services effectuées par les agences de voyages et
 les organisateurs de circuits touristiques.
 
-b octies. La redevance pour droit d'usage des appareils récepteurs de télévision
-;
-
-Les abonnements souscrits par les usagers afin de recevoir :
+b octies. Les abonnements souscrits par les usagers afin de recevoir :
 
 1° Les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29
 juillet 1982 sur la communication audiovisuelle ;
@@ -125,7 +109,7 @@ de courtage ou de façon, portant sur les produits suivants :
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
 et des abeilles, ainsi que les produits entrant dans la composition de ces
 aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
-finances pris après avis des professions intéressées (8) ;
+finances pris après avis des professions intéressées (4) ;
 
 14° (Dispositions devenues sans objet) ;
 
@@ -151,20 +135,18 @@ e. Les opérations d'achat, d'importation, de vente, de livraison, de commission
 de courtage, de façon ainsi que de location ou de cession de droits portant sur
 les livres.
 
-(1) Avant le 1er juin 1988, le taux réduit ne s'appliquait pas aux hôtels et
-relais de tourisme de catégorie 4 étoiles.
+f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
+à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
+par l'Etat dans le cadre de l'aide judiciaire ou d'une procédure de commission
+ou de désignation d'office (5).
 
-(2) Annexe IV, art. 30.
+(1) Annexe IV, art. 30.
 
-(3) Annexe III, art. 85 bis.
+(2) Annexe III, art. 85 bis.
 
-(4) Disposition à caractère interprétatif.
+(3) Disposition à caractère interprétatif.
 
-(5) Arrêté 1984-12-07 (JONC du 8) ;
-
-(6) Annexe II, art. 242 ter A à 242 ter F et Annexe IV, art. 170 septies A et
-170 octies).
-
-(7) Dispositions applicables à compter du 1er avril 1985.
-
-(8) Annexe IV, art. 31.
+(4) Annexe IV, art. 31. (5) Disposition applicable à compter du 1er avril 1991.
+La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les
+mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou
+indemnisation des commissions et désignations d'office"

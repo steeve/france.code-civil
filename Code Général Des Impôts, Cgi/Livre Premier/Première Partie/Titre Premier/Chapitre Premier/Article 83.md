@@ -36,8 +36,9 @@ de retraite ou à des rachats de cotisations afférents à la tranche C du salai
 effectués auprès de régimes de retraites complémentaires adhérant à
 l'association générale des institutions de retraites des cadres ;
 
-2° bis Les contributions payées par les salariés prévues par l'article L 351-3
-du code du travail relatif aux allocations d'assurance ;
+2° bis Les contributions versées par les salariés en application des
+dispositions de l'article L. 351-3 du code du travail et destinées à financer le
+régime d'assurance des travailleurs privés d'emploi ;
 
 2° ter La contribution exceptionnelle de solidarité en faveur des travailleurs
 privés d'emploi, instituée par l'article 2 modifié de la loi n° 82-939 du 4
