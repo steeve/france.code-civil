@@ -24,6 +24,7 @@ conditions d'application du 4., notamment les modalités de calcul et de contrô
 des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités
 de mise en oeuvre de la garantie.
 
-5. Jusqu'au 31 décembre 1982 [*date*], les travaux d'amélioration de logements
-achevés avant le 1er janvier 1972. Un arrêté conjoint des ministres chargés des
-finances et du logement fixe le montant minimal de ces travaux.
+5. Jusqu'à une date postérieure de trois mois au 23 février 1983, les travaux
+d'amélioration de logements achevés avant le 1er janvier 1972. Un arrêté
+conjoint des ministres chargés des finances et du logement fixe le montant
+minimal de ces travaux.
