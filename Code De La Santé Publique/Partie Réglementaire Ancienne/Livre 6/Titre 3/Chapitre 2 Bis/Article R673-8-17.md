@@ -39,4 +39,6 @@ propre à favoriser la bonne application de la réglementation en vigueur. Il
 évolutifs et sur les résultats des activités de greffe, y compris par type de
 greffe et par équipe. Les avis, les recommandations et le rapport du conseil
 médical et scientifique sont transmis par son président au directeur général et
-au président du conseil d'administration.
+au président du conseil d'administration ainsi qu'au ministre chargé de la
+santé, aux préfets de région et de département intéressés et aux directeurs
+d'agences régionales de l'hospitalisation intéressés.
