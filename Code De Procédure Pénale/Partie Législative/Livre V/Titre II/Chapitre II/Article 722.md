@@ -35,16 +35,14 @@ suspension des peines, de placement sous surveillance électronique et de
 libération conditionnelle sont accordées, ajournées, refusées, retirées ou
 révoquées par décision motivée du juge de l'application des peines saisi
 d'office, sur la demande du condamné ou sur réquisition du procureur de la
-République. Cette décision est rendue, au vu des observations écrites du
-condamné ou de son avocat, après avis de la commission de l'application des
-peines ; à sa demande, le condamné, assisté le cas échéant de son avocat, peut
-également présenter oralement des observations devant le juge de l'application
-des peines ; ce magistrat procède à cette audition et statue sans être assisté
-d'un greffier ; le condamné peut demander à bénéficier de l'aide
-juridictionnelle. La décision du juge de l'application des peines peut être
-attaquée par la voie de l'appel par le condamné ou le procureur de la République
-dans le délai de dix jours à compter de sa notification. L'appel est porté
-devant la chambre des appels correctionnels.
+République. Cette décision est rendue, après avis du représentant de
+l'administration pénitentiaire, à l'issue d'un débat contradictoire tenu en
+chambre du conseil, au cours duquel le juge de l'application des peines entend
+les réquisitions du ministère public et les observations du condamné ainsi que,
+le cas échéant, celle de son avocat ; elle peut être attaquée par la voie de
+l'appel par le condamné, par le procureur de la République et par le procureur
+général, dans le délai de dix jours à compter de sa notification. L'appel est
+porté devant la chambre des appels correctionnels.
 
 Les décisions du juge de l'application des peines sont exécutoires par
 provision. Toutefois, lorsque l'appel du ministère public est formé, dans les
@@ -54,4 +52,6 @@ jusqu'à ce que la cour ait statué. L'affaire doit venir devant la cour d'appel
 au plus tard dans les deux mois suivant l'appel du parquet, faute de quoi
 celui-ci est non avenu.
 
-Un décret détermine les modalités d'application des deux alinéas précédents.
+Un décret détermine les modalités d'application des deux alinéas précédents. Ce
+décret précise la localisation des débats contradictoires que doit tenir le juge
+de l'application des peines lorsqu'ils concernent des condamnés incarcérés.
