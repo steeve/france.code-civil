@@ -1,6 +1,6 @@
 Article L6414-1
 ----
-L'établissement public de santé territorial est une personne morale de droit
+L'établissement public de santé de Mayotte est une personne morale de droit
 public dotée de l'autonomie administrative et financière. Son objet principal
 n'est ni industriel ni commercial. Il est administré par un conseil
 d'administration et dirigé par un directeur nommé par arrêté des ministres

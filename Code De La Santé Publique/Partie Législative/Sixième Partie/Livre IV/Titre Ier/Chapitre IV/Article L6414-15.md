@@ -1,6 +1,6 @@
 Article L6414-15
 ----
-Dans l'établissement public de santé territorial le comité technique
+Dans l'établissement public de santé de Mayotte le comité technique
 d'établissement est présidé par le directeur, ou son représentant, membre du
 corps des personnels de direction de l'établissement et composé de représentants
 du personnel, mentionnés au 2° de l'article L. 6414-22, élus par collèges

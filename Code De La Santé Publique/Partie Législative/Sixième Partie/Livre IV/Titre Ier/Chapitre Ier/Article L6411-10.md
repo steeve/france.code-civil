@@ -1,6 +1,6 @@
 Article L6411-10
 ----
-L'établissement public de santé territorial développe une politique d'évaluation
+L'établissement public de santé de Mayotte développe une politique d'évaluation
 des pratiques professionnelles, des modalités d'organisation des soins et de
 toute action concourant à une prise en charge globale du malade afin notamment
 d'en garantir la qualité et l'efficience.

@@ -49,11 +49,6 @@ d'affectation dans les conditions prévues au premier alinéa de l'article L.
 lorsqu'elle reprend son travail à l'issue de la période de suspension définie au
 présent article.
 
-Elle a le droit pendant cette période, à la charge de l'employeur, à la moitié
-du salaire qu'elle percevait au moment de la suspension du travail ; elle
-conserve le droit aux prestations en nature. La seconde moitié de son salaire
-lui est versée par la caisse de prévoyance sociale de Mayotte.
-
 Toute convention contraire est nulle de plein droit.
 
 Pendant une période de quinze mois à compter de la naissance de l'enfant, la

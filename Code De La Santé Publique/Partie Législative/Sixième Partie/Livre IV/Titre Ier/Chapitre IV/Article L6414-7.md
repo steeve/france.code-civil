@@ -19,14 +19,13 @@ Le directeur de l'agence régionale de l'hospitalisation peut modifier le montan
 global des dépenses et des recettes prévues ainsi que leur répartition entre les
 groupes fonctionnels compte tenu, d'une part et prioritairement, du montant de
 la dotation régionale définie à l'article L. 174-1-1 du code de la sécurité
-sociale et à l'article 14 de l'ordonnance n° 96-1122 du 20 décembre 1996
-précitée et, d'autre part, des orientations du schéma régional d'organisation
-sanitaire et des priorités de la politique de santé, du projet d'établissement
-mentionné à l'article L. 6414-11, du contrat pluriannuel défini aux articles L.
-6411-15 et L. 6411-16 et de son exécution, ainsi que de l'activité et des coûts
-de l'établissement, appréciés selon les modalités prévues aux articles L.
-6411-12 et L. 6411-13 et comparés à ceux des autres établissements d'outre-mer
-et de métropole.
+sociale et à l'article L. 6415-1 du présent code et, d'autre part, des
+orientations du schéma régional d'organisation sanitaire et des priorités de la
+politique de santé, du projet d'établissement mentionné à l'article L. 6414-11,
+du contrat pluriannuel défini aux articles L. 6411-15 et L. 6411-16 et de son
+exécution, ainsi que de l'activité et des coûts de l'établissement, appréciés
+selon les modalités prévues aux articles L. 6411-12 et L. 6411-13 et comparés à
+ceux des autres établissements d'outre-mer et de métropole.
 
 Le directeur de l'agence régionale de l'hospitalisation dispose d'un délai de
 quarante-cinq jours à compter de la réception du budget ou des décisions
@@ -40,10 +39,9 @@ la publication de la loi de financement de la sécurité sociale pour arrêter
 définitivement les autorisations de dépenses et les prévisions de recettes du
 budget de l'année et, en conséquence, le montant de la dotation globale annuelle
 et les tarifs de prestations mentionnés respectivement aux articles L. 174-1 du
-code de la sécurité sociale et 17 de l'ordonnance n° 96-1122 du 20 décembre 1996
-précitée. S'agissant des décisions modificatives, ce dernier délai est fixé à
-quinze jours à compter de la réception des propositions du conseil
-d'administration.
+code de la sécurité sociale et L. 6415-4 du présent code. S'agissant des
+décisions modificatives, ce dernier délai est fixé à quinze jours à compter de
+la réception des propositions du conseil d'administration.
 
 Au vu de la décision motivée du directeur de l'agence régionale de
 l'hospitalisation arrêtée dans les conditions ci-dessus, le directeur procède,

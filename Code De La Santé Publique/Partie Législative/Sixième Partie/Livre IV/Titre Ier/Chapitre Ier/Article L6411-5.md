@@ -1,6 +1,6 @@
 Article L6411-5
 ----
-L'établissement public de santé territorial est chargé d'assurer le service
+L'établissement public de santé de Mayotte est chargé d'assurer le service
 public hospitalier à Mayotte.
 
 Cet établissement garantit l'égal accès de tous aux soins qu'il dispense. Il est

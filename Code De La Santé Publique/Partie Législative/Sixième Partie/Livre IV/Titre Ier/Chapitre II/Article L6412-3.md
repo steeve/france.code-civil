@@ -6,7 +6,7 @@ Le comité territorial de l'organisation sanitaire comprend :
 de prévoyance sociale de Mayotte ;
 
 2° Des représentants des institutions de santé et de l'établissement public de
-santé territorial ;
+santé de Mayotte ;
 
 3° Des représentants des personnels de ces institutions et de cet établissement
 ;

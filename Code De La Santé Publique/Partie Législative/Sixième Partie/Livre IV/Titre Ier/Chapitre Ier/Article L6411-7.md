@@ -1,6 +1,6 @@
 Article L6411-7
 ----
-L'établissement public de santé territorial peut comporter une ou plusieurs
+L'établissement public de santé de Mayotte peut comporter une ou plusieurs
 unités participant au service d'aide médicale urgente, appelées SAMU, dont les
 missions et l'organisation sont fixées par voie réglementaire.
 

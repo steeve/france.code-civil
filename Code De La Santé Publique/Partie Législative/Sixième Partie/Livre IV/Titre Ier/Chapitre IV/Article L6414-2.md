@@ -1,7 +1,7 @@
 Article L6414-2
 ----
-Le conseil d'administration de l'établissement public de santé territorial de
-Mayotte comprend six catégories de membres :
+Le conseil d'administration de l'établissement public de santé de Mayotte
+comprend six catégories de membres :
 
 1° Des représentants de la collectivité départementale et des communes ;
 

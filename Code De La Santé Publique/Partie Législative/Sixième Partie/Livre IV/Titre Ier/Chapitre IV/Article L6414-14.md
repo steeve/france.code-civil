@@ -1,6 +1,6 @@
 Article L6414-14
 ----
-Dans l'établissement public de santé territorial une commission médicale
+Dans l'établissement public de santé de Mayotte une commission médicale
 d'établissement est composée des représentants des personnels médicaux,
 odontologiques et pharmaceutiques qui élit son président et dont la composition
 et les règles de fonctionnement sont fixées par voie réglementaire.

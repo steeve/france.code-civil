@@ -5,4 +5,4 @@ applicables à Mayotte.
 
 Les dispositions relatives à la passation des marchés publics applicables à
 Mayotte sont adaptées, par voie réglementaire, aux conditions particulières de
-la gestion de l'établissement public de santé territorial.
+la gestion de l'établissement public de santé de Mayotte.

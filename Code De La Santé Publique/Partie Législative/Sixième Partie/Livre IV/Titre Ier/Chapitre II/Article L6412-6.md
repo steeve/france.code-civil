@@ -4,7 +4,7 @@ Les dispositions des articles L. 6122-1 à L. 6122-5, L. 6122-7 à L. 6122-14, �
 l'exception du deuxième alinéa de l'article L. 6122-7, sont applicables à
 Mayotte pour les projets relatifs à :
 
-1° La création et l'extension de l'établissement public de santé territorial ;
+1° La création et l'extension de l'établissement public de santé de Mayotte ;
 
 2° La création, l'extension et la transformation des installations mentionnées à
 l'article L. 6121-2, y compris les équipements matériels lourds définis à

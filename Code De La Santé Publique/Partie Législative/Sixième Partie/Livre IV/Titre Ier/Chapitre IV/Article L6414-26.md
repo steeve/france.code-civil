@@ -1,7 +1,7 @@
 Article L6414-26
 ----
 L'activité libérale ne peut être exercée que par les praticiens nommés dans
-l'établissement public de santé territorial ; elle peut comprendre des
+l'établissement public de santé de Mayotte ; elle peut comprendre des
 consultations, des soins en hospitalisation et des actes médico-techniques à
 condition :
 

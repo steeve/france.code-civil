@@ -1,7 +1,7 @@
 Article L6414-18
 ----
-Le conseil d'administration de l'établissement public de santé territorial de
-Mayotte définit l'organisation des soins et le fonctionnement médical de
+Le conseil d'administration de l'établissement public de santé de Mayotte
+définit l'organisation des soins et le fonctionnement médical de
 l'établissement, dans le respect du projet d'établissement approuvé, après avis
 conforme de la commission médicale d'établissement siégeant en formation
 restreinte. Le comité technique d'établissement est consulté. Le conseil

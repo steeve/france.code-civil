@@ -1,7 +1,7 @@
 Article L6411-11
 ----
 Afin d'assurer l'amélioration continue de la qualité et de la sécurité des
-soins, l'établissement public de santé territorial doit faire l'objet d'une
+soins, l'établissement public de santé de Mayotte doit faire l'objet d'une
 procédure externe d'évaluation dénommée accréditation.
 
 Cette procédure, conduite par l'Agence nationale d'accréditation et d'évaluation
@@ -22,7 +22,7 @@ cette obligation.
 En l'absence de contrat pluriannuel d'objectifs et de moyens mentionné à
 l'article L. 6411-15, l'agence régionale de l'hospitalisation territorialement
 compétente saisit le conseil d'administration de l'établissement public de santé
-territorial d'une demande tendant à ce que cette procédure soit engagée.
+de Mayotte d'une demande tendant à ce que cette procédure soit engagée.
 
 L'agence régionale de l'hospitalisation se substitue à l'établissement pour
 demander la mise en oeuvre de la procédure d'accréditation si celui-ci ne l'a

@@ -1,8 +1,8 @@
 Article L6414-27
 ----
 Les modalités d'exercice de l'activité libérale font l'objet d'un contrat conclu
-entre le praticien concerné et l'établissement public de santé territorial sur
-la base d'un contrat type d'activité libérale établi par voie réglementaire.
+entre le praticien concerné et l'établissement public de santé de Mayotte sur la
+base d'un contrat type d'activité libérale établi par voie réglementaire.
 
 Ce contrat est approuvé par le représentant du Gouvernement après avis du
 conseil d'administration et de la commission médicale d'établissement, pour une

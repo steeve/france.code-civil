@@ -13,8 +13,7 @@ lourds ;
 3° Le rapport prévu à l'article L. 6414-6 ainsi que sur le budget et les
 décisions modificatives y compris les propositions de dotation globale et de
 tarifs de prestations mentionnés aux articles L. 174-1 du code de la sécurité
-sociale et 17 de l'ordonnance n° 96-1122 du 30 décembre 1996 relative à
-l'amélioration de la santé publique à Mayotte ;
+sociale et L. 6415-4 du présent code ;
 
 4° Les comptes et l'affectation des résultats d'exploitation ;
 

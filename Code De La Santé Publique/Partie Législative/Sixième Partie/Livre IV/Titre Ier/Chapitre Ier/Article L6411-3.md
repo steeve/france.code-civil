@@ -1,6 +1,6 @@
 Article L6411-3
 ----
-L'établissement public de santé territorial a pour objet de dispenser :
+L'établissement public de santé de Mayotte a pour objet de dispenser :
 
 1° Avec ou sans hébergement :
 

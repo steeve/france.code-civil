@@ -1,6 +1,6 @@
 Article L6411-4
 ----
-L'établissement public de santé territorial concourt :
+L'établissement public de santé de Mayotte concourt :
 
 1° A l'enseignement universitaire et postuniversitaire et à la recherche de type
 médical, odontologique et pharmaceutique dans les conditions prévues par voie

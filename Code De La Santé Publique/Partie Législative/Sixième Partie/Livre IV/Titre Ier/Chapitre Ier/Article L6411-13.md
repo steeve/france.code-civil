@@ -1,6 +1,6 @@
 Article L6411-13
 ----
-L'établissement public de santé territorial transmet à l'agence régionale de
+L'établissement public de santé de Mayotte transmet à l'agence régionale de
 l'hospitalisation territorialement compétente, ainsi qu'à l'Etat et aux
 organismes d'assurance maladie, les informations relatives à ses moyens de
 fonctionnement et à son activité qui sont nécessaires à l'élaboration et à la

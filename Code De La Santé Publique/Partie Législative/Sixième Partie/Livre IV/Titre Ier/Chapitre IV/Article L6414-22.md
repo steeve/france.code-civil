@@ -1,7 +1,7 @@
 Article L6414-22
 ----
-Les personnels exerçant dans l'établissement public de santé territorial de
-Mayotte comprennent :
+Les personnels exerçant dans l'établissement public de santé de Mayotte
+comprennent :
 
 1° Des agents appartenant aux personnels de direction des établissements
 mentionnés à l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986
@@ -26,9 +26,8 @@ statuts, qui sont différents selon que ces praticiens consacrent tout ou partie
 de leur activité à l'établissement, sont établis par voie réglementaire ;
 
 4° Des médecins, des biologistes, des odontologistes et des pharmaciens attachés
-des hôpitaux recrutés par l'établissement public de santé territorial de
-Mayotte, conformément aux dispositions réglementaires fixées par leur statut
-particulier.
+des hôpitaux recrutés par l'établissement public de santé de Mayotte,
+conformément aux dispositions réglementaires fixées par leur statut particulier.
 
 En outre, lorsque la nature des fonctions ou les besoins du service le
 justifient, des médecins, biologistes, odontologistes et pharmaciens

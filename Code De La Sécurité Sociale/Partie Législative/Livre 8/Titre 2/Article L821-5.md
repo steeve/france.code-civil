@@ -27,4 +27,6 @@ sociale.
 L'Etat verse au fonds national des prestations familiales, géré par la caisse
 nationale des allocations familiales, une subvention correspondant au montant
 des dépenses versées au titre de l'allocation aux adultes handicapés et de son
-complément.
+complément ainsi qu'au titre de l'allocation pour adulte handicapé prévue à
+l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la
+protection sanitaire et sociale à Mayotte.

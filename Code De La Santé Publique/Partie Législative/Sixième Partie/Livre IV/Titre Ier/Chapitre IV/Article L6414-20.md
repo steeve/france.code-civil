@@ -1,6 +1,6 @@
 Article L6414-20
 ----
-Dans l'établissement public de santé territorial un service de soins infirmiers
+Dans l'établissement public de santé de Mayotte un service de soins infirmiers
 est confiée à l'infirmier général, membre de l'équipe de direction.
 
 Une commission, présidée par le directeur du service des soins infirmiers et

@@ -2,8 +2,8 @@ Article L6415-4
 ----
 Le directeur de l'agence régionale d'hospitalisation territorialement compétente
 à l'égard de Mayotte fixe par arrêté la tarification des prestations dispensées
-par l'établissement public de santé territorial de Mayotte. Cette tarification
-sert de base :
+par l'établissement public de santé de Mayotte. Cette tarification sert de base
+:
 
 1° A la facturation des soins et de l'hébergement des malades ;
 
@@ -13,7 +13,7 @@ code de la sécurité sociale.
 
 Les personnes qui ne sont pas affiliées au régime d'assurance maladie-maternité
 de Mayotte et qui ont reçu des soins ou ont été hébergées par l'établissement
-public de santé territorial acquittent directement les factures établies par cet
+public de santé de Mayotte acquittent directement les factures établies par cet
 établissement en application du 1° ci dessus. Toutefois, ces factures sont
 payées :
 

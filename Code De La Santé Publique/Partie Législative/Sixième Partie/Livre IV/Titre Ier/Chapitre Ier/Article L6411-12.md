@@ -1,6 +1,6 @@
 Article L6411-12
 ----
-L'établissement public de santé territorial procède à l'analyse de son activité.
+L'établissement public de santé de Mayotte procède à l'analyse de son activité.
 
 Dans le respect du secret médical et des droits des malades, il met en oeuvre
 des systèmes d'information qui tiennent compte notamment des pathologies et des
