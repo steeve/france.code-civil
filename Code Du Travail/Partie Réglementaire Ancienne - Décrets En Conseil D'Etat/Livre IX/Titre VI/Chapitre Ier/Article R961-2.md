@@ -1,36 +1,49 @@
 Article R961-2
 ----
 Les stages relevant du deuxième alinéa de l'article 82 de la loi n° 83-8 du 7
-janvier 1983 sont agréés, soit par le Premier ministre, après avis du conseil
-national de la formation professionnelle, de la promotion sociale et de l'emploi
-ou de sa commission permanente, soit par le commissaire de la République de la
-région intéressée après avis du comité régional de la formation professionnelle,
-de la promotion sociale et de l'emploi.
+janvier 1983 sont agréés :
+
+a) Par le Premier ministre, après avis du Conseil national de la formation
+professionnelle, de la promotion sociale et de l'emploi ou de sa commission
+permanente, pour les stages organisés et financés au niveau national ;
+
+b) Par le préfet de région, après avis du comité régional de la formation
+professionnelle, de la promotion sociale et de l'emploi, pour les stages
+organisés et financés au niveau régional ;
+
+c) Par le préfet de département, après avis du comité régional de la formation
+professionnelle, de la promotion sociale et de l'emploi, pour les stages
+organisés et financés au niveau départemental.
+
+La consultation des organismes mentionnés ci-dessus porte sur les programmes au
+titre desquels sont organisés les stages dont l'agrément est envisagé.
+
+Les autres stages sont agréés par le président du conseil régional après avis
+dudit comité. L'autorité administrative compétente pour délivrer l'agrément
+examine le projet de stage selon les critères d'appréciation suivants :
+
+- nature du stage, conditions d'admission du stagiaire, niveau de la formation,
+contenu des programmes, sanction des études, qualification des enseignants et
+des responsables du stage, installation des locaux et exercice du contrôle
+financier, technique et pédagogique.
+
+La décision d'agrément précise :
+
+1° S'il s'agit de stages dont la durée est préalablement définie :
+
+a) Le nombre maximal de stagiaires susceptibles d'être rémunérés chaque année ;
+
+b) La durée totale et la durée hebdomadaire du stage, ainsi que le nombre de
+mois-stagiaires ;
+
+c) Les dates de début et de fin du stage.
+
+2° S'il s'agit de stages accueillant des stagiaires en continu :
+
+le nombre annuel de mois-stagiaires.
 
 Les autres stages sont agréés par le président du conseil régional après avis
 dudit comité.
-
-L'agrément est subordonné à des conditions concernant :
-
-La nature du stage ;
-
-Le nombre maximum des stagiaires susceptibles d'être rémunérés chaque année ;
-
-L'admission du stagiaire ;
-
-La durée totale et la durée hebdomadaire de la formation dispensée ;
-
-Le niveau de cette formation ;
-
-Le contenu des programmes ;
-
-La sanction des études ;
-
-La qualification des enseignants et des responsables du stage ;
-
-L'installation des locaux ;
-
-L'exercice du contrôle financier, technique et pédagogique.
 
 En outre, les stages organisés par les employeurs en application de l'article L.
 961-4 ne peuvent être agréés que dans le cas ou leur création est motivée par
