@@ -7,26 +7,17 @@ en application de l'article 76 du code de l'artisanat et aux fonds d'assurance
 formation prévus à l'article L 961-10 du code du travail, au moyen d'une taxe
 additionnelle à la taxe professionnelle acquittée par les chefs d'entreprises
 individuelles ou les sociétés soumis à l'obligation de s'inscrire au répertoire
-des métiers conformément aux dispositions du décret n° 83-487 du 10 juin 1983
-ainsi que par les chefs d'entreprises individuelles et les sociétés qui,
-conformément aux dispositions de l'article 7 du décret précité, demeurent
-immatriculés au répertoire des métiers.
+des métiers ainsi que par les chefs d'entreprises individuelles et les sociétés
+qui demeurent immatriculés au répertoire des métiers.
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à ((615 F)) (M) peut
-être révisé lors du vote de la loi de finances de l'année (1).
+a. un droit fixe par ressortissant, dont le maximum fixé à ((620 F)) (M) (1)
+peut être révisé lors du vote de la loi de finances de l'année.
 
 Ce droit fait également l'objet d'une majoration de 10 p. 100 du montant maximum
 du droit fixe, dont le produit alimente un fonds national créé à cet effet,
 destiné à financer des actions de promotion et de communication.
-
-Les ressources de ce fonds sont gérées par un établissement public à caractère
-administratif créé à cet effet par décret en Conseil d'Etat.
-
-Les ressources perçues au titre de cette majoration antérieurement à l'année
-1997 sont reversées par le Trésor public au fonds national visé aux deuxième et
-troisième alinéas du a ;
 
 Toutefois, au titre de l'année 1997, cette majoration n'est pas applicable aux
 ressortissants des chambres de métiers ayant voté ladite majoration au titre des
@@ -60,9 +51,10 @@ artisans.
 Toutefois, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, les
 entreprises relevant des chambres de métiers versent une contribution égale à
 0,145 % du montant annuel du plafond de la sécurité sociale en vigueur au 1er
-janvier de l'année d'imposition à l'établissement public ((visé à l'article 5 de
-la loi n° 82-1091 du 23 décembre 1982)) (M).
+janvier de l'année d'imposition à l'établissement public visé à l'article 5 de
+la loi n° 82-1091 du 23 décembre 1982.
 
 (M) Modification.
 
-(1) A compter de 1997.
+(1) "Ce montant est exceptionnellement majoré de 7 F, en 1999, pour permettre le
+financement de l'organisation des élections aux chambres de métiers."
