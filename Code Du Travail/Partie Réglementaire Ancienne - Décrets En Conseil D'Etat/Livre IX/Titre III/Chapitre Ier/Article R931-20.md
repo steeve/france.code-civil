@@ -14,8 +14,7 @@ commissions paritaires professionnelles ou interprofessionnelles de l'emploi
 compétentes ;
 
 Répartition prévisionnelle des crédits entre les actions ou catégories reconnues
-prioritaires et les actions ou catégories non prioritaires et les actions ou
-catégories non prioritaires ;
+prioritaires et les actions ou catégories non prioritaires ;
 
 Information des employeurs et des salariés sur les priorités et la répartition
 mentionnées aux deux alinéas précédents.

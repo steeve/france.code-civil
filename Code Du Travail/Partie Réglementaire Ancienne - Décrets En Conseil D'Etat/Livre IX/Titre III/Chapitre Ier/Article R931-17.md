@@ -1,7 +1,7 @@
 Article R931-17
 ----
 Lorsque les nécessités propres de l'entreprise ou de l'exploitation font
-obstacle à ce que toutes les demandes présentées au titre de l'article L. 931-14
+obstacle à ce que toutes les demandes présentées au titre de l'article L. 931-29
 soient simultanément satisfaites, les candidats sont départagés selon l'ordre de
 priorité ci-après :
 
