@@ -1,13 +1,10 @@
 Article L321-1
 ----
-Les établissements ou professions dans lesquels toute embauche ou résiliation de
-contrat de travail doit être portée à la connaissance des services publics de la
-main-d'oeuvre sont définis par arrêté du ministre chargé du travail et des
-ministres intéressés.
-
-Lorsqu'à l'occasion d'un licenciement pour motif économique, le ministre chargé
-du travail passe avec une entreprise l'une des conventions prévues au 2° de
-l'article L. 322-4 du présent code, cette convention peut être subordonnée à
-l'engagement de l'entreprise de soumettre ses embauches ultérieures, pendant la
-durée d'effet de ladite convention, à l'accord préalable de l'autorité
-administrative compétente.
+Dans les entreprises ou établissements visés à l'article L. 321-2, en cas de
+licenciement collectif pour motif économique, à défaut de convention ou accord
+collectif de travail applicable, l'employeur définit, après consultation du
+comité d'entreprise ou, à défaut, des délégués du personnel, les critères
+retenus pour fixer l'ordre des licenciements. Ces critères prennent notamment en
+compte les charges de famille et en particulier celles des parents isolés,
+l'ancienneté de service dans l'établissement ou l'entreprise et les qualités
+professionnelles.
