@@ -4,7 +4,7 @@ Le conseil scientifique de l'Agence nationale d'accréditation et d'évaluation 
 santé comprend, outre son président, deux sections composées de membres reconnus
 pour leur compétence dans les domaines définis à l'article L. 791-7.
 
-I. - La section de l'évaluation comprend quinze membres :
+I. - La section de l'évaluation comprend dix-huit membres :
 
 1° Un membre nommé sur proposition du directeur général de l'Institut national
 de la santé et de la recherche médicale ;
@@ -18,14 +18,15 @@ recherche scientifique ;
 4° Un membre nommé sur proposition du président de la conférence des doyens des
 facultés de médecine ;
 
-5° Onze personnes qualifiées, parmi lesquelles figurent un pharmacien, un
-ingénieur biomédical, un kinésithérapeute, un infirmier, un économiste de la
-santé et six professionnels relevant du titre Ier du livre IV du présent code,
-dont au moins un médecin nommé après avis des présidents des unions des médecins
-exerçant à titre libéral, sur proposition des présidents des sections desdites
-unions et un médecin expérimenté en bio-statistique.
+5° Quatorze personnes qualifiées, parmi lesquelles figurent un médecin ou un
+pharmacien spécialisé en biologie médicale, un pharmacien, un ingénieur
+biomédical, un kinésithérapeute, un infirmier, un économiste de la santé et six
+professionnels relevant du titre Ier du livre IV du présent code, dont au moins
+un médecin nommé après avis des présidents des unions des médecins exerçant à
+titre libéral, sur proposition des présidents des sections desdites unions et un
+médecin expérimenté en bio-statistique.
 
-II. - La section de l'accréditation comprend quinze membres :
+II. - La section de l'accréditation comprend dix-huit membres :
 
 1° Un membre nommé sur proposition du président de la conférence des présidents
 de commission médicale d'établissement des centres hospitaliers universitaires ;
@@ -56,7 +57,7 @@ de centre hospitalier ;
 9° Un membre nommé sur proposition du collège national d'experts mentionné à
 l'article L. 712-6 ;
 
-10° Six personnes qualifiées notamment dans les domaines des activités
+10° Neuf personnes qualifiées notamment dans les domaines des activités
 paramédicales, de l'accréditation, de la qualité, de l'organisation, de la
 gestion financière ou de l'hygiène hospitalière ; deux d'entre elles sont des
 personnalités étrangères, dont au moins un ressortissant de l'Union européenne,
