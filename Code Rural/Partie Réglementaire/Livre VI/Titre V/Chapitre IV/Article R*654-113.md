@@ -3,7 +3,7 @@ Article R*654-113
 Tout transfert de références laitières doit faire l'objet d'une demande déposée
 auprès du préfet du département où se situe l'exploitation ou la partie
 d'exploitation reprise par la personne physique ou morale qui reprend celle-ci,
-dans un délai d'un an à compter, selon le cas, de la date de la reprise des
+dans un délai de six mois à compter, selon le cas, de la date de la reprise des
 terres, de la constitution de la société, ou de l'apport.
 
 La demande est transmise au producteur cédant qui peut solliciter sous un mois
@@ -18,7 +18,7 @@ La décision prend effet à la date de reprise des terres. En cours de campagne
 laitière et à condition que la demande de transfert soit déposée auprès du
 préfet dans le délai prévu à l'article R. 654-75, les quantités de référence
 avant transfert sont réparties prorata temporis ou, en cas d'accord formel des
-parties, en tenant compte des livraisons effectuées par le cédant depuis le
-début de la campagne. Si la demande de transfert est déposée après le délai
-mentionné ci-dessus, le transfert est pris en compte au titre de la campagne
-suivante.
+parties, en tenant compte des livraisons et des ventes directes effectuées par
+le cédant depuis le début de la campagne. Si la demande de transfert est déposée
+après le délai mentionné ci-dessus, le transfert est pris en compte au titre de
+la campagne suivante.

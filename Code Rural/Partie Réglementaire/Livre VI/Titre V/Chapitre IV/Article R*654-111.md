@@ -26,13 +26,6 @@ référence laitières dont disposait l'intéressé avant son adhésion au group
 Le transfert au groupement des nouvelles quantités de référence laitières ne
 donne pas lieu à prélèvement.
 
-Toutefois, il est fait application de ces prélèvements lorsque l'un des associés
-agrandit son exploitation de surfaces auxquelles correspondent des quantités de
-référence laitières. Ces prélèvements sont calculés en tenant compte des
-quantités de référence laitières dont disposait l'intéressé avant son adhésion
-au groupement. Le transfert au groupement des nouvelles quantités de référence
-laitières ne donne pas lieu à prélèvement.
-
 II. - L'autorisation accordée par le préfet est subordonnée au respect par les
 associés du groupement agricole d'exploitation en commun des conditions définies
 au III. Le préfet est habilité à vérifier sur place le fonctionnement du
