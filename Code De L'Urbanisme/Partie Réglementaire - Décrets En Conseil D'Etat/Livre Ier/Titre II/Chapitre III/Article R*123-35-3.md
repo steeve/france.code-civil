@@ -1,16 +1,18 @@
 Article R*123-35-3
 ----
-Lorsque l'utilite publique d'une opération doit être déclarée dans les
+Lorsque l'utilité publique d'une opération doit être déclarée dans les
 conditions prévues à l'article L. 123-8, la mise en compatibilité du plan
-d'occupation des sols est effectuée selon les modalités définies ci-après.
+d'occupation des sols est effectuée selon les modalités ci-après.
 
-Le commissaire de la République informe de la nature de l'opération et de ses
-implications sur le plan d'occupation des sols, le maire ou le président de
-l'établissement public de coopération intercommunale, ainsi que les présidents
-du conseil régional, du conseil général et des organismes consulaires.
+Le préfet informe de la nature de l'opération et de ses implications sur le plan
+d'occupation des sols, le maire ou le président de l'établissement public de
+coopération intercommunale, ainsi que les présidents du conseil régional, du
+conseil général et des organismes consulaires. Lorsqu'il en fait la demande au
+préfet, le président d'une association mentionnée à l'article L. 121-8 est
+consulté dans les conditions prévues au dernier alinéa de l'article R. 123-9.
 
-Simultanément, il ouvre, par arrêté, l'enquête publique portant à la fois sur
-l'utilité publique de l'opération et sur la mise en compatibilité du P.O.S..
+Simultanément, le préfet ouvre, par arrêté, l'enquête publique portant à la fois
+sur l'utilité publique de l'opération et sur la mise en compatibilité du P.O.S..
 Cette enquête s'ouvre et s'effectue conformément aux dispositions des articles
 R. 11-14-1 et suivants du code de l'expropriation pour cause d'utilité publique
 ou des textes prévoyant une procédure propre d'enquête préalable à la
@@ -32,5 +34,4 @@ donné.
 
 Lorsqu'une déclaration d'utilité publique qui emporte approbation des nouvelles
 dispositions du plan d'occupation des sols ne relève pas de la compétence du
-commissaire de la République, elle est contresignée ou consignée par le ministre
-chargé de l'urbanisme.
+préfet, elle est contresignée ou cosignée par le ministre chargé de l'urbanisme.

@@ -2,16 +2,15 @@ Article R*123-10
 ----
 Lorsque les avis ou accords mentionnés à l'article R. 123-9 ont été recueillis
 ou sont réputés acquis, le projet de plan, éventuellement modifié par le conseil
-municipal pour tenir compte de ces avis, des communications du commissaire de la
-République et des propositions de la commission de conciliation instituée par
-l'article L. 121-9, est rendu public par arrêté du maire.
+municipal pour tenir compte de ces avis, des communications du préfet et des
+propositions de la commission de conciliation instituée par l'article L. 121-9,
+est rendu public par arrêté du maire.
 
 Le plan d'occupation des sols rendu public comporte en annexe les avis des
 personnes publiques consultées mentionnées aux 1er et 3é alinéas de l'article R.
-123-9 et des associations agréées en application de l'article L. 121-8 ayant
-présenté des observations, les communications du commissaire de la République,
-ainsi que la liste des autres personnes consultées au cours de l'élaboration du
-plan d'occupation des sols.
+123-9 et des associations mentionnées à l'article L. 121-8 ayant présenté des
+observations, les communications du préfet, ainsi que la liste des autres
+personnes consultées au cours de l'élaboration du plan d'occupation des sols.
 
 L'arrêté rendant public le plan d'occupation des sols fait l'objet pendant un
 mois d'un affichage en mairie ou au siège de l'établissement public de
