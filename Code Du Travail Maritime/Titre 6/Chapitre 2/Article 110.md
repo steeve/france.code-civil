@@ -6,7 +6,7 @@ confère à ce mineur capacité pour accomplir tous les actes se rattachant à s
 engagements, notamment pour toucher ses salaires.
 
 Le retrait de l'autorisation ne peut être opposé aux tiers s'il n'a pas été
-porté à la connaissance avant la formation du contrat.
+porté à leur connaissance avant la formation du contrat.
 
 L'autorisation ne peut être retirée quand le mineur a atteint l'âge de dix-huit
 ans.

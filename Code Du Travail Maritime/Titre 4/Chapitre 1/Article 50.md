@@ -6,7 +6,5 @@ règlements particuliers auxquels le contrat se réfère, ne peut donner lieu à
 aucune amende ou suspension partielle de salaires autres que les amendes ou
 suspension résultant de l'application des lois pénales.
 
-Cette disposition ne s'applique ni aux dédits stipulés dans les contrats
-d'engagement pour le cas de rupture du contrat avant le terme fixé, ni aux
-amendes prévues, en vertu d'usages en vigueur, dans les contrats d'engagement à
-la part ou au profit pour la pêche.
+Cette disposition ne s'applique pas aux dédits stipulés dans les contrats
+d'engagement pour les cas de rupture du contrat avant le terme fixé.

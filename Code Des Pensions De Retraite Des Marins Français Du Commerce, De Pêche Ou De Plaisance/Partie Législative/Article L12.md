@@ -30,10 +30,10 @@ navigation sont employés d'une façon permanente dans les services techniques d
 entreprises d'armement maritimes et des sociétés de classification reconnues ;
 
 7° Le temps pendant lequel les marins ayant antérieurement accompli au moins
-cinq ans de navigation professionnelle sont titulaires de fonctions permanentes
-dans les organisations syndicales maritimes régulièrement constituées, dans les
-foyers, dépôts ou maisons de marins à la condition qu'ils n'aient cessé de
-naviguer que pour exercer ces fonctions ;
+cinq ans de navigation professionnelle sont titulaires d'une fonction permanente
+dans les organisations professionnelles ou syndicales maritimes régulièrement
+constituées, dans les foyers, dépôts ou maisons de marins, à la condition qu'ils
+n'aient cessé de naviguer que pour exercer cette fonction ;
 
 8° Le temps pendant lequel les marins ayant accompli au moins cinq ans de
 navigation professionnelle ont été investis d'un mandat parlementaire, à la
@@ -44,7 +44,24 @@ réglementaire, les marins sont privés d'emploi [*chômeurs*] et perçoivent un
 revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du
 travail ou une allocation de conversion au sens du 4° de l'article L. 322-4 du
 code du travail ou une allocation versée dans le cadre de l'article L. 322-3 du
-code du travail.
+code du travail ou une allocation versée en application de l'article 53 de la
+loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les
+cultures marines.
+
+10° Le temps pendant lequel :
+
+- un marin interrompt la navigation pour les besoins de la gestion de
+l'entreprise qu'il dirige, à condition que les périodes correspondantes
+représentent, par année civile, moins de 50 % du tolal des services validés pour
+pension ;
+
+- un marin, ayant accompli au moins dix ans de navigation professionnelle, cesse
+de naviguer pour gérer personnellement, de façon permanente, l'entreprise
+d'armement maritime qu'il dirige ;
+
+11° Le temps passé dans les activités mentionnées aux 7° et 10° dès lors que le
+marin est reconnu atteint d'une infirmité le mettant dans l'impossibilité
+absolue et définitive de continuer l'exercice de la navigation.
 
 La prise en compte de services accomplis par les marins dans d'autres positions
 spéciales afférentes à leur profession peut être autorisée par voie

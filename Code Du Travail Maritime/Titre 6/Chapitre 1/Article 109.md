@@ -1,6 +1,7 @@
 Article 109
 ----
-L'armateur peut toujours congédier le capitaine, sauf dommages-intérêts en cas
-de renvoi injustifié. Le congédiement du capitaine n'est pas subordonné, hors
-des ports métropolitains, à l'autorisation de l'autorité chargée de l'inspection
-du travail maritime prévue au paragraphe 2 de l'article 95 ci-dessus.
+Le contrat d'engagement maritime conclu entre un armateur et un capitaine prend
+fin dans les conditions fixées au titre 5.
+
+Toutefois, l'application des dispositions du mandat confié au capitaine par
+l'armateur est indépendante de la procédure de licenciement du capitaine.

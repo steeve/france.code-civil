@@ -42,13 +42,12 @@ par la loi après consultation de la commission permanente du Conseil national d
 la formation professionnelle, de la promotion sociale et de l'emploi prévue à
 l'article L. 910-1.
 
-Sous réserve des dispositions qui précèdent et de celles de l'article L.
-950-2-4, les employeurs s'acquittent de l'obligation prévue à l'article L. 950-1
-:
+Sous réserve des dispositions qui précèdent et de celles de l'article L. 951-5,
+les employeurs s'acquittent de l'obligation prévue à l'article L. 950-1 :
 
 1° En finançant des actions de formation ou des actions permettant de réaliser
 un bilan de compétences au bénéfice de leurs personnels dans le cadre d'un plan
-de formation dans les conditions définies aux articles L. 932-6 et L. 932-1 et
+de formation dans les conditions définies aux articles L. 933-3 et L. 933-1 et
 au titre des congés de formation prévus à l'article L. 931-1 ;
 
 2° En contribuant au financement d'un fonds d'assurance-formation créé en
@@ -56,7 +55,7 @@ application de l'article L. 961-8 ;
 
 3° En finançant des actions de formation au bénéfice de travailleurs privés
 d'emploi, organisés dans des centres de formation conventionnés par l'Etat ou
-par les régions, en application de l'article L. 940-1 ci-dessus [*chômeurs*];
+par les régions, en application de l'article L. 941-1 ci-dessus [*chômeurs*];
 
 4° En effectuant, dans la limite de 10 p. 100 du montant de la participation à
 laquelle ils sont tenus au titre de l'année en cours, des versements à des
@@ -77,6 +76,12 @@ de conversion prévues à l'article L. 322-3.
 Sont regardées comme des actions de formation [*définition*] au sens du 1° et du
 3° du présent article et peuvent également faire l'objet d'un financement soit
 par les fonds d'assurance-formation, soit dans le cadre des dispositions de
-l'article L. 950-2-4, les formations destinées à permettre aux cadres bénévoles
-du mouvement coopératif, associatif ou mutualiste d'acquérir les compétences
+l'article L. 951-5, les formations destinées à permettre aux cadres bénévoles du
+mouvement coopératif, associatif ou mutualiste d'acquérir les compétences
 nécessaires à l'exercice de leurs responsabilités.
+
+Pour le secteur des entreprises de pêche maritime et de cultures marines,
+l'employeur verse à l'organisme collecteur paritaire agréé mentionné au
+troisième alinéa de l'article L. 953-4 la fraction de la contribution qui
+n'aurait pas été utilisée directement au financement de la formation
+professionnelle au profit de ses salariés.

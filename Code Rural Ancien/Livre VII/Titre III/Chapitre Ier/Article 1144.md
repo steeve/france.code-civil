@@ -13,8 +13,11 @@ prolongement de l'acte de production ou dans les structures d'accueil
 touristique qui ont pour support l'exploitation.
 
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture
-et de pisciculture et établissements assimilés, à l'exception de ceux qui
-relèvent du régime social des marins ;
+et de pisciculture et établissements assimilés ainsi qu'aux pêcheurs maritimes à
+pied professionnels tels que définis par le décret en Conseil d'Etat prévu par
+la loi n° 85-542 du 22 mai 1985 modifiant le décret du 9 janvier 1852 sur
+l'exercice de la pêche maritime, à l'exception de ceux qui relèvent du régime
+social des marins ;
 
 3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des
 entreprises de travaux forestiers.

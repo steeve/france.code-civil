@@ -1,17 +1,18 @@
 Article 33
 ----
-Tout contrat d'engagement, aux termes duquel la rémunération du marin consiste,
-en tout ou partie, en une part sur le profit ou sur le fret, doit déterminer les
-dépenses et charges à déduire du produit brut, pour former le produit net.
-Aucune déduction, autres que celles stipulées, ne peut être admise au détriment
-du marin.
+Tout contrat d'engagement aux termes duquel la rémunération du marin consiste,
+en tout ou partie, en une part sur le produit des ventes ou sur d'autres
+éléments du chiffre d'affaires définis par le contrat doit déterminer les
+dépenses et charges à déduire du produit brut, ou des autres éléments pris en
+compte pour former le produit net. Aucune déduction autre que celles stipulées
+ne peut être admise au détriment du marin.
 
-Toutefois, à défaut de stipulation contraire expresse, la charge des congés
-payés sur les navires de pêche armés exclusivement à la part s'impute sur les
-frais communs du navire.
+En cas de litige, l'armateur est tenu de communiquer au juge saisi le détail du
+calcul de la rémunération, avec les pièces justificatives. Ces éléments doivent
+également être communiqués à l'autorité chargée de l'inspection du travail
+maritime sur sa demande écrite.
 
-Lors du règlement, le décompte des dépenses et charges communes et le décompte
-des produits et bénéfices sont remis par l'armateur sous sa signature, avec
-leurs justifications et pièces comptables originales, à l'autorité chargée de
-l'inspection du travail maritime chargée de la liquidation des comptes
-individuels de salaires.
+Un décret en Conseil d'Etat pris après avis des organisations représentatives
+d'armateurs et de marins détermine, en tenant compte notamment des dispositions
+de l'article 72 du présent code, les dépenses et les charges qui ne peuvent en
+aucun cas être déduites du produit brut mentionné au premier alinéa.

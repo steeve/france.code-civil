@@ -18,8 +18,10 @@ commerçant ;
 forestiers ;
 
 5° Aux exploitants des établissements de conchyliculture ou de pisciculture et
-établissements assimilés, sauf lorsque les intéressés relèvent du régime social
-des marins.
+établissements assimilés ainsi qu'aux pêcheurs maritimes à pied professionnels
+tels que définis par le décret en Conseil d'Etat prévu par la loi n° 85-542 du
+22 mai 1985 modifiant le décret du 9 janvier 1852 sur l'exercice de la pêche
+maritime, sauf lorsque les intéressés relèvent du régime social des marins.
 
 Les ouvriers agricoles travaillant seuls ou avec l'aide de leur famille, avec
 des outils leur appartenant en propre, sont réputés, pour l'application des

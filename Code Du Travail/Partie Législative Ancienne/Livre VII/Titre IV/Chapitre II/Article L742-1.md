@@ -6,9 +6,10 @@ des navires sont régis par des lois particulières.
 L'inspection du travail des marins de commerce, de la pêche et de la plaisance
 est confiée aux officiers et fonctionnaires relevant du ministère chargé de la
 marine marchande dans les conditions définies par un décret en Conseil d'Etat
-qui fixe la répartition entre ces agents des compétences attribuées à
-l'inspecteur du travail, au directeur départemental du travail et de l'emploi et
-au directeur régional du travail et de l'emploi par le présent code.
+qui fixe la répartition entre ces agents des compétences attribuées au
+contrôleur du travail, à l'inspecteur du travail, au directeur départemental du
+travail et de l'emploi et au directeur régional du travail et de l'emploi par le
+présent code.
 
 Les officiers et inspecteurs des affaires maritimes, les agents assermentés des
 affaires maritimes, les officiers et agents de police judiciaire sont chargés de

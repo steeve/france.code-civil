@@ -21,3 +21,9 @@ des régimes de protection sociale agricole.
 Les caisses de mutualité sociale agricole reversent le montant de leur collecte
 à un fonds d'assurance formation habilité à cet effet par l'Etat, dans les
 conditions fixées par décret en Conseil d'Etat.
+
+S'agissant des chefs d'entreprise de cultures marines et des travailleurs
+indépendants du même secteur, et, le cas échéant, de leurs conjoints,
+collaborateurs ou associés, les caisses de mutualité sociale agricole reversent
+le montant de leur collecte à l'organisme collecteur paritaire agréé mentionné
+au troisième alinéa de l'article L. 953-4.

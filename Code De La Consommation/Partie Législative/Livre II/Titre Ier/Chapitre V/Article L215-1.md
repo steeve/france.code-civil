@@ -28,7 +28,14 @@ recherche et de l'environnement ;
 
 8° Les agents agréés et commissionnés conformément à l'article 65 de la loi de
 finances du 27 février 1912, modifié par l'article 3 du décret-loi du 14 juin
-1938.
+1938 ;
+
+9° Les administrateurs des affaires maritimes, les inspecteurs des affaires
+maritimes, les techniciens experts du service de la sécurité de la navigation
+maritime, les officiers du corps technique et administratif des affaires
+maritimes, les contrôleurs des affaires maritimes, les syndics des gens de mer,
+les personnels embarqués d'assistance et de surveillance des affaires maritimes,
+les techniciens du contrôle des établissements de pêche maritime.
 
 Il sera statué par des décrets en Conseil d'Etat sur les pouvoirs conférés aux
 autorités qualifiées pour rechercher et constater les infractions aux chapitres
