@@ -23,7 +23,12 @@ même pour la réalisation de loges de gardien ;
 
 d) Pour des opérations dont le maître d'ouvrage est une commune de moins de 5
 000 habitants, lorsque l'importance des travaux et les conditions d'équilibre
-financier de l'opération le justifient.
+financier de l'opération le justifient ;
+
+e) Pour la réalisation de travaux effectués dans les logements-foyers pour
+travailleurs migrants mentionnés au 3° de l'article R. 351-55 lorsque, à l'issue
+des travaux, le nouveau statut de ces logements-foyers est celui des résidences
+sociales mentionnées au 2° de l'article R. 351-55.
 
 En outre, le représentant de l'Etat dans le département peut, à titre
 exceptionnel, porter le taux de la subvention au plus à 40 p. 100 du coût
