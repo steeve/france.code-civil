@@ -14,21 +14,23 @@ membres ou associés soient des établissements ou entreprises mentionnés aux 1
 4. Les personnes morales établies en France et ayant pour objet principal ou
 unique l'activité de compensation d'instruments financiers ;
 
-5. Dans des conditions fixées par le règlement général du Conseil des marchés
+5. Dans des conditions fixées par le règlement général de l'Autorité des marchés
 financiers, les établissements de crédit, les entreprises d'investissement et
 les personnes morales ayant pour objet principal ou unique l'activité de
 compensation d'instruments financiers, qui ne sont pas établis en France.
 
-Les organismes visés aux 1, 2 et 4 du présent article sont soumis, pour leur
-activité de compensation, aux règles d'approbation du programme d'activité, de
-contrôle et de sanction fixées par le présent code pour les prestataires de
-services d'investissement. En outre, les organismes mentionnés au 4 sont soumis
+Les organismes mentionnés aux 1° à 4° sont soumis, pour leur activité de
+compensation d'instruments financiers, aux obligations législatives et
+réglementaires et aux règles de contrôle et de sanction fixées par le présent
+code pour les prestataires de services d'investissement. Les personnes morales
+mentionnées aux 1° et 2° font l'objet d'une habilitation délivrée dans le cadre
+de leur agrément. Les personnes morales mentionnées aux 3° et 4° sont soumises
 aux règles d'agrément fixées par le présent code pour les entreprises
 d'investissement.
 
-Les organismes mentionnés au 5 doivent être soumis dans leur Etat d'origine à
+Les organismes mentionnés au 5° doivent être soumis dans leur Etat d'origine à
 des règles d'exercice de l'activité de compensation et de contrôle équivalentes
-à celles en vigueur en France. Le Conseil des marchés financiers exerce à
+à celles en vigueur en France. L'Autorité des marchés financiers exerce à
 l'égard de ces organismes les pouvoirs de contrôle et de sanction prévus par le
 présent code pour les prestataires de services d'investissement, en tenant
 compte de la surveillance exercée par les autorités compétentes de chaque Etat

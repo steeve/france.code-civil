@@ -13,5 +13,8 @@ leur employeur ;
 d'informations confidentielles.
 
 Les dispositions du règlement intérieur énonçant ces conditions et obligations
-sont intégrées au programme d'activité présenté au Conseil des marchés
-financiers en application de l'article L. 532-1.
+sont intégrées au programme d'activité présenté à l'Autorité des marchés
+financiers en application de l'article L. 532-1 préalablement à la délivrance
+d'un agrément portant sur le service mentionné au 4 de l'article L. 321-1 ou au
+comité des établissements de crédit et des entreprises d'investissement en
+application des articles L. 532-2 et L. 532-3.
