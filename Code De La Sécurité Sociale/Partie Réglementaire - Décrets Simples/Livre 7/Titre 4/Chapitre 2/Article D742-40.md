@@ -1,10 +1,5 @@
 Article D742-40
 ----
-Lorsque le professionnel libéral est exonéré du paiement de ses cotisations, le
-conjoint collaborateur :
-
-- reste redevable de sa cotisation lorsque l'exonération est accordée en
-application de l'article L. 642-3.
-
-- est dispensé du paiement de sa cotisation lorsque l'exonération du
-professionnel libéral est accordée en application de l'article L. 642-2.
+Lorsque le professionnel libéral est exonéré du paiement de ses cotisations en
+application de l'article L. 642-3, le conjoint collaborateur reste redevable de
+sa cotisation.
