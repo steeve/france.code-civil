@@ -23,6 +23,12 @@ milieux naturels, de la faune ou de la flore.
 Il en est de même si les installations ou travaux impliquent la réalisation par
 la commune d'équipements nouveaux non prévus.
 
+L'autorisation peut comporter des prescriptions de nature à assurer une
+meilleure insertion des aménagements dans le site et les paysages.
+
+Ces prescriptions sont obligatoires pour les aménagements prévus à l'article R.
+146-2 du code de l'urbanisme.
+
 Lorsque la prescription spéciale imposée en vertu des alinéas précédents
 consiste en la création de clôtures celles-ci sont édifiées sans déclaration
 préalable.

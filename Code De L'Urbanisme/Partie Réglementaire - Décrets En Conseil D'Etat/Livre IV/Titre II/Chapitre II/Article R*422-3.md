@@ -13,8 +13,9 @@ Le dossier joint à la déclaration comprend un plan de situation du terrain, un
 plan de masse et une représentation de l'aspect extérieur de la construction,
 faisant apparaître les modifications projetées.
 
-Le dossier est complété le cas échéant, des documents mentionnés aux articles R.
-421-3-1, R. 421-3-4, R. 421-4, R. 421-5, R. 421-6, ou R. 421-7.
+Le dossier est complété le cas échéant, des documents mentionnés au 9° de
+l'article R. 421-2 et aux articles R. 421-3-1, R. 421-3-4, R. 421-4, R. 421-5,
+R. 421-6, ou R. 421-7.
 
 Un arrêté du ministre chargé de l'urbanisme fixe le modèle national de ladite
 déclaration et précise le contenu du dossier à joindre.

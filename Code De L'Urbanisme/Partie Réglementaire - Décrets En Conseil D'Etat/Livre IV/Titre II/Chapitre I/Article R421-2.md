@@ -30,7 +30,13 @@ elle décrit le paysage et l'environnement existants et expose et justifie les
 dispositions prévues pour assurer l'insertion dans ce paysage de la
 construction, de ses accès et de ses abords ;
 
-8° L'étude d'impact, lorsqu'elle est exigée.
+8° L'étude d'impact, lorsqu'elle est exigée ;
+
+9° Lorsque la demande concerne, dans un espace remarquable ou dans un milieu du
+littoral à préserver au sens de l'article L. 146-6, un projet de construction
+visé au d de l'article R. 146-2, une notice précisant l'activité économique qui
+doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
+activité répond aux critères définis par cet article.
 
 B. Les pièces 6 et 7 ne sont pas exigibles pour les demandes de permis de
 construire répondant à la fois aux trois conditions suivantes :
