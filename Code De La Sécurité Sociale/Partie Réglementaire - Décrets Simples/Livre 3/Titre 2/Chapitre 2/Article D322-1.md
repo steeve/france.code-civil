@@ -38,7 +38,7 @@ sévères ;
 
 - insuffisance respiratoire chronique grave ;
 
-- lèpre ;
+- maladie d'Alzheimer et autres démences ;
 
 - maladie de Parkinson ;
 
@@ -56,7 +56,7 @@ généralisée évolutive ;
 
 - polyarthrite rhumatoïde évolutive grave ;
 
-- psychose, trouble grave de la personnalité, arriération mentale ;
+- affections psychiatriques de longue durée ;
 
 - rectocolite hémorragique et maladie de Crohn évolutives ;
 
@@ -69,6 +69,6 @@ degrés) jusqu'à maturation rachidienne ;
 
 - suites de transplantation d'organe ;
 
-- tuberculose active ;
+- tuberculose active, lèpre ;
 
 - tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
