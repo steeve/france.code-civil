@@ -14,8 +14,8 @@ bénéfice imposable déterminé d'après les résultats du plus récent exercic
 à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une
 année d'après les résultats de la dernière période d'imposition.
 
-Chacun des deuxième et troisième acomptes est égal à 11 p. 100 du bénéfice
-imposable défini [*(1)*].
+Chacun des deuxième et troisième acomptes est égal à 12,5 p. 100 du bénéfice
+imposable défini.
 
 Toutefois en cas d'exercice d'une durée inférieure ou supérieure à un an les
 acomptes sont calculés sur la base des bénéfices rapportés à une période de
@@ -31,6 +31,3 @@ régularisé sur la base des résultats du dernier exercice ou de la dernière
 période d'imposition lors du versement du plus prochain acompte.
 
 Le montant des acomptes est arrondi au franc inférieur.
-
-[*(1) cette disposition s'applique aux acomptes échus au cours d'exercices
-ouverts à compter du 1er janvier 1988.*]
