@@ -8,6 +8,9 @@ comités régionaux de coordination de la mutualité ;
 
 Un député et un sénateur, élus par leur assemblée respective ;
 
+Le président de la commission de contrôle des mutuelles et des institutions de
+prévoyance ou son représentant ;
+
 Un membre du Conseil d'Etat, désigné par le vice-président ;
 
 Un représentant du ministre chargé de la mutualité ;
