@@ -92,14 +92,13 @@ anniversaire, les bénéficiaires remplissent les conditions nécessaires à la
 validation d'une retraite à taux plein au sens de l'article R. 351-27 du code de
 la sécurité sociale ou de l'article R. 351-45 du même code.
 
-VI. - Une convention passée entre l'Etat représenté par le ministre chargé de
-l'emploi, l'entreprise et, le cas échéant, l'organisme gestionnaire désigné par
-l'accord professionnel pour effectuer, au nom de l'entreprise, le versement de
-l'allocation aux bénéficiaires de la cessation d'activité indique le nombre
-maximum de salariés susceptibles d'être placés en cessation d'activité pendant
-la période prévue au I du présent article ainsi que, parmi ceux-ci, le nombre
-des salariés dont l'allocation pourra faire l'objet d'une prise en charge
-partielle par l'Etat.
+VI. - Une convention passée entre l'Etat, l'entreprise et, le cas échéant,
+l'organisme gestionnaire désigné par l'accord professionnel pour effectuer, au
+nom de l'entreprise, le versement de l'allocation aux bénéficiaires de la
+cessation d'activité indique le nombre maximum de salariés susceptibles d'être
+placés en cessation d'activité pendant la période prévue au I du présent article
+ainsi que, parmi ceux-ci, le nombre des salariés dont l'allocation pourra faire
+l'objet d'une prise en charge partielle par l'Etat.
 
 La convention prévoit que, chaque année, l'entreprise fait connaître par une
 déclaration au ministre chargé de l'emploi le nombre de salariés répartis par
