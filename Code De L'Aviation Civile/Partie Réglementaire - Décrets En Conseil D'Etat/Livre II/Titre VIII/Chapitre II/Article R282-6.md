@@ -1,9 +1,16 @@
 Article R282-6
 ----
-L'employeur des personnels agréés dispense à ceux-ci une formation portant sur
+L'employeur des personnes possédant l'agrément prévu au b de l'article L. 282-8
+dispense à ceux-ci une formation initiale et une formation continue portant sur
 les principes généraux de sûreté et l'utilisation des dispositifs techniques de
-contrôle.
+contrôle ainsi que des entraînements périodiques à la détection des objets et
+substances illicites. L'employeur ne peut faire exécuter les tâches prévues à
+l'article L. 282-8 que par des personnes ayant bénéficié de ces formations et de
+ces entraînements.
 
-Les services compétents de l'Etat s'assurent, en effectuant les vérifications
-nécessaires, de la qualification des agents pour l'exercice des tâches qui leur
-sont confiées.
+L'employeur se conforme à un niveau de performance en matière de détection des
+objets et substances illicites. Il procède à des tests de performance en
+situation opérationnelle. Il communique le résultat de ces tests aux services
+compétents de l'Etat. Un arrêté conjoint des ministres chargés des transports,
+de l'intérieur, de la défense et des douanes définit les modalités de ces tests
+et le niveau de performance requis.

@@ -1,30 +1,25 @@
 Article R213-6
 ----
-Les pouvoirs de police exercés par les préfets sur l'emprise des aérodromes en
-application de l'article L. 213-2 comprennent tout ce qui concerne le bon ordre,
-la sûreté, la sécurité et la salubrité, et notamment le soin de fixer par voie
-réglementaire :
+Le titre de circulation prévu au I de l'article R. 213-4 est délivré par le
+préfet exerçant les pouvoirs de police sur l'aérodrome pour lequel le titre est
+sollicité pour la durée de l'activité en zone réservée de son bénéficiaire.
 
-a) Les conditions de circulation et de stationnement dans la zone publique des
-personnes et des véhicules, et notamment des taxis, voitures de louage et
-véhicules de transport ;
+La délivrance du titre de circulation en zone réservée de l'aérodrome est
+subordonnée :
 
-b) Les conditions d'accès, de circulation et de stationnement des personnes et
-des véhicules admis à pénétrer en zone réservée ;
+a) A la justification de l'habilitation prévue à l'article R. 213-4 ;
 
-c) Les zones accessibles au stationnement et à la circulation des aéronefs ;
+b) A la justification d'une activité en zone réservée de l'aérodrome et, le cas
+échéant, dans les secteurs sollicités ;
 
-d) Les dispositions applicables sur les aires de stationnement des aéronefs, en
-plus de celles qui sont édictées par la réglementation sur la circulation
-aérienne ;
+c) A la présentation d'une attestation de connaissances datant de moins de deux
+ans telle que prévue au troisième alinéa du I de l'article R. 213-4.
 
-e) Les mesures de protection contre l'incendie ;
+Un arrêté conjoint des ministres chargés de l'intérieur, de la défense, des
+transports et des douanes fixe la liste des titres de circulation en zone
+réservée, leurs règles de port, d'utilisation et de restitution ainsi que les
+connaissances mentionnées au troisième alinéa du I de l'article R. 213-4.
 
-f) Les prescriptions sanitaires ;
-
-g) Les dispositions applicables à la garde et à la conservation des aéronefs,
-véhicules, matériels et marchandises utilisant la plate-forme ou les
-installations de l'aérodrome.
-
-Les mesures particulières d'application des règles générales ainsi définies sont
-fixées par les autorités énumérées à l'article L. 282-7.
+Le préfet retire le titre de circulation, dans les formes édictées à l'article
+24 de la loi du 12 avril 2000 susvisée, dès lors que l'une des conditions
+indiquées aux a ou b ci-dessus n'est plus remplie par son bénéficiaire.

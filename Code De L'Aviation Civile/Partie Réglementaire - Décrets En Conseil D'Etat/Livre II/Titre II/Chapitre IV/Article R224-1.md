@@ -18,7 +18,9 @@ Usage d'installations et d'outillages divers ;
 
 Occupation de terrains et d'immeubles ;
 
-Visite de tout ou partie des zones réservées de l'aérodrome.
+Visite de tout ou partie des zones réservées de l'aérodrome ;
+
+Accès à certaines parties de la zone publique.
 
 Les redevances devront être appropriées aux services rendus.
 

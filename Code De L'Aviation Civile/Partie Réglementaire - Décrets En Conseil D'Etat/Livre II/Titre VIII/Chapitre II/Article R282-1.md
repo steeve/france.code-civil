@@ -1,13 +1,13 @@
 Article R282-1
 ----
-Sans préjudice de l'application de dispositions régissant le cas des
-contraventions de grande voirie, ceux qui auront contrevenu aux dispositions de
-l'arrêté préfectoral réglementant les conditions d'exploitation de l'aérodrome
-seront punis :
+Sans préjudice de l'application des dispositions régissant le cas des
+contraventions de grande voirie et le cas des contraventions au code de la route
+en zone publique, ceux qui ont contrevenu aux dispositions de l'arrêté
+préfectoral pris en application des points c, h et i de l'article R. 213-3 sont
+punis :
 
-1° De l'amende prévue par le 4° de l'article 131-13 du code pénal pour les
-contraventions de la quatrième classe, lorsque l'infraction aura été commise
-dans une zone non librement accessible au public ;
+1. De l'amende prévue pour les contraventions de la 4e classe, lorsque
+l'infraction aura été commise dans la zone réservée ;
 
-2° De l'amende prévue par le 3° de l'article 131-13 du code pénal pour les
-contraventions de la troisième classe dans les autres cas.
+2. De l'amende prévue pour les contraventions de la 3e classe dans la zone
+publique.

@@ -1,11 +1,22 @@
 Article R213-4
 ----
-Un arrêté préfectoral détermine et délimite, en dehors de la zone militaire
-existant sur les aérodromes mixtes, la zone publique et la zone réservée ainsi
-que les secteurs dont elles peuvent être composées. Cet arrêté fixe les
-dispositions relatives à l'exercice de la police de l'exploitation.
+I. - L'accès en zone réservée d'un aérodrome des personnes autres que celles
+visées au II est soumis à la possession d'une habilitation valable sur
+l'ensemble du territoire national et d'un titre de circulation permettant la
+circulation dans un ou plusieurs secteurs de cette zone.
 
-Lorsque l'emprise d'un aérodrome s'étend sur plusieurs départements, le préfet
-chargé d'y exercer les pouvoirs de police prévus à l'article L. 213-2 est
-désigné par arrêté du ministre de l'intérieur après avis du ministre chargé de
-l'aviation civile.
+Les entreprises ou les organismes autorisés à occuper ou utiliser la zone
+réservée de l'aérodrome formulent les demandes d'habilitation et du titre de
+circulation au profit de leurs salariés ou des personnes agissant pour leur
+compte.
+
+Ces entreprises ou ces organismes leur dispensent les connaissances relatives
+aux principes généraux de sûreté et aux règles particulières à respecter à
+l'intérieur de la zone réservée d'un aérodrome et leur délivrent l'attestation
+correspondante.
+
+II. - Dans le cadre défini par un arrêté conjoint des ministres chargés des
+transports, de la défense, de l'intérieur et des douanes, un arrêté préfectoral
+mentionné à l'article R. 213-3 fixe les conditions particulières d'accès en zone
+réservée des passagers, des personnels navigants, des fonctionnaires et agents
+de l'Etat et des personnes admises pour une durée inférieure à une semaine.

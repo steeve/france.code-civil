@@ -1,25 +1,34 @@
 Article R321-9
 ----
-Sauf règles particulières ou exemptions prévues à l'article R. 321-11, le
-transporteur aérien est tenu d'effectuer ou de faire effectuer une visite de
-sûreté des expéditions selon les modalités prévues à l'article R. 321-10 dans
-les cas suivants :
+I. - Le transporteur aérien n'embarque à bord des aéronefs qu'il exploite que
+des expéditions assorties de documents portant la mention "fret sécurisé". Il
+doit au préalable avoir effectué ou fait effectuer une visite de sûreté des
+expéditions selon les modalités prévues à l'article R. 321-10.
 
-a) Ces expéditions lui sont présentées par une entreprise ou un organisme qui
-n'est pas un "expéditeur connu" ;
+II. - Il n'est dispensé de cette obligation que dans les cas suivants :
 
-b) Ces expéditions lui sont présentées par un "expéditeur connu" et doivent être
-soumises à une visite de sûreté, en vertu du III de l'article R. 321-7 ;
+a) Expéditions présentées par un "expéditeur connu" avec la mention "fret
+sécurisé" ;
 
-c) Ces expéditions sont des bagages non accompagnés ou du fret déposé
-directement par un expéditeur ;
+b) Expéditions en transit, lorsqu'elles proviennent d'un Etat mettant en oeuvre
+un programme similaire concernant la sûreté du fret ou lorsque le transporteur
+aérien concerné a lui-même appliqué ou fait appliquer au départ des mesures de
+sûreté équivalentes à celles prévues au présent chapitre et ayant fait l'objet
+d'une approbation selon les modalités définies par un arrêté du ministre chargé
+des transports ;
 
-d) Ces expéditions sont destinées à être embarquées sur certains vols où les
-contrôles prévus à l'article L. 282-8 sont imposés dans des circonstances
-particulières par l'Etat ;
+c) Expéditions exemptées ou faisant l'objet de règles particulières en
+application de l'article R. 321-11.
 
-e) Ces expéditions sont en transit sous couvert d'une lettre de transport aérien
-et en provenance d'un Etat ne mettant pas en oeuvre un programme similaire
-concernant la sûreté du fret, sauf si ce même transporteur aérien a appliqué ou
-fait appliquer au départ des mesures de sûreté équivalentes à celles prévues au
-présent chapitre.
+III. - Lorsque l'expédition est remise par un "expéditeur connu" avec la mention
+"fret non sécurisé en provenance d'un client connu", le transporteur aérien
+procède à l'échantillonnage prévu à l'article R. 321-7-2 et à une visite de
+sûreté de cet échantillonnage.
+
+IV. - Le transporteur aérien appose ou fait apposer la mention "fret sécurisé"
+sur les documents accompagnant les expéditions qui ont été soumises aux visites
+de sûreté mentionnées aux I et III ci-dessus.
+
+V. - Les dispositions du présent article ne font pas obstacle aux contrôles qui
+peuvent être imposés sur certains vols ou dans certaines circonstances en
+application de l'article L. 282-8.
