@@ -17,3 +17,9 @@ interviennent en qualité de prêteurs ou d'emprunteurs;
 
 5o Les contrats de prêts réalisés sous la forme d'émission de bons de caisse par
 des banques ou d'émission publique d'obligations.
+
+Toutefois, la dispense de déclaration des contrats de prêts prévue aux 1° à 5°
+ci-dessus ne s'applique pas aux bons ou titres mentionnés au 2° du III bis de
+l'article 125 A du code général des impôts lorsque leur détenteur communique son
+identité et son domicile fiscal à l'établissement qui assure le paiement des
+intérêts ou le remboursement de ces bons ou titres.
