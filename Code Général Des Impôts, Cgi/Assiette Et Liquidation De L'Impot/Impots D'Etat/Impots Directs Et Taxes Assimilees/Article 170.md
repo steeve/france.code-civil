@@ -10,6 +10,15 @@ l'ensemble de ses revenus ou bénéfices, la déclaration est limitée à
 l'indication de ceux de ces revenus ou bénéfices qui sont soumis à l'impôt sur
 le revenu.
 
+La déclaration mentionnée au premier alinéa doit faire apparaître le montant des
+produits de placements à revenu fixe soumis au prélèvement libératoire de
+l'impôt sur le revenu et pour lesquels le contribuable a renoncé à l'anonymat,
+ainsi que le montant des profits de construction soumis au prélèvement
+libératoire de 50% prévu à l'article 235 quinquies (1).
+
+1 bis. Les époux doivent conjointement signer la déclaration d'ensemble des
+revenus de leur foyer.
+
 2 Les personnes, sociétés, ou autres collectivités ayant leur domicile, leur
 domicile fiscal ou leur siège en France qui se font envoyer de l'étranger ou
 encaissent à l'étranger soit directement, soit par un intermédiaire quelconque,
@@ -29,3 +38,5 @@ revenu global.
 
 Pour l'application des dispositions du présent code, le revenu déclaré
 [*définition*] s'entend du revenu imposable ainsi calculé.
+
+(1) Disposition applicable à compter de l'imposition des revenus de 1983.

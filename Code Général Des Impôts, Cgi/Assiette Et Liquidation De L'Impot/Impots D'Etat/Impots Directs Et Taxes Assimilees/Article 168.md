@@ -12,10 +12,8 @@ le loyer a été régulièrement constaté ou est notoirement connu et, à défa
 ces éléments, par voie d'appréciation.
 
 Les éléments dont il est fait état pour la détermination de la base d'imposition
-sont ceux dont ont disposé, pendant l'année de l'imposition, le contribuable, sa
-femme, les personnes considérées comme étant à sa charge au sens de l'article
-196 lorsqu'elles n'ont pas fait l'objet de demandes d'imposition distincte,
-ainsi que les personnes désignées aux articles 196 A bis et 196 B.
+sont ceux dont ont disposé, pendant l'année de l'imposition, les membres du
+foyer fiscal désignés à l'article 6-1 et 3.
 
 Pour les éléments dont disposent conjointement plusieurs personnes, la base est
 fixée proportionnellement aux droits de chacune d'entre elles.
@@ -352,7 +350,3 @@ totalité ou en partie, du fait que le contribuable a disposé de revenus
 expressément exonérés de l'impôt sur le revenu par une disposition particulière,
 l'intéressé peut, à condition d'en apporter la preuve, obtenir que la base
 d'imposition forfaitaire soit diminuée du montant desdits revenus exonérés.
-
-1) Nouvelle limite et nouveaux montants en francs du barème applicables pour la
-première fois, pour l'établissement de l'impôt sur le revenu dû au titre de
-l'année 1978.

@@ -14,7 +14,7 @@ ou veuf ayant cinq enfants à charge 5 (2) Célibataire ou divorcé ayant six
 enfants à charge 5 (2) et ainsi de suite, en augmentant d'une demi-part par
 enfant à charge du contribuable.
 
-En cas d'imposition séparée des époux par application de l'article 6-3, chaque
+En cas d'imposition séparée des époux par application de l'article 6-4, chaque
 époux est considéré comme un célibataire ayant à sa charge les enfants dont il a
 la garde.
 
