@@ -1,11 +1,11 @@
 Article L814-5
 ----
-Les dépenses entraînées par l'attribution de l'allocation spéciale, de la
-majoration prévue à l'article L. 814-2 et de l'action sociale sont à la charge
-d'un fonds spécial géré par la caisse des dépôts et consignations, sous la
-surveillance d'une commission composée de représentants des divers organismes
-participant à son financement.
+Les dépenses entraînées par l'attribution de l'allocation spéciale, par l'action
+sociale prévue à l'article L. 814-7 et par la prise en charge, au titre de
+l'article L. 741-4, des cotisations d'assurance personnelle des titulaires de
+l'allocation spéciale sont à la charge du service de l'allocation spéciale
+vieillesse, géré par la Caisse des dépôts et consignations sous la surveillance
+d'une commission dont la composition est fixée par décret.
 
-Les dépenses de ce fonds sont couvertes par une contribution de tous les
-organismes chargés d'allouer des retraites, pensions, rentes ou allocations de
-vieillesse en application de dispositions législatives ou réglementaires.
+Les dépenses du service de l'allocation spéciale vieillesse sont remboursées par
+le fonds institué par l'article L. 135-1.

@@ -11,4 +11,7 @@ et collectivités religieuses dont relèvent les assurés ;
 3°) par les actifs des régimes de prévoyance auxquels se substitue le régime
 institué par le présent chapitre ;
 
-4°) par des recettes diverses.
+4°) par des recettes diverses ;
+
+5°) Par une contribution du fonds institué par l'article L. 135-1 dans les
+conditions fixées par l'article L. 135-2.

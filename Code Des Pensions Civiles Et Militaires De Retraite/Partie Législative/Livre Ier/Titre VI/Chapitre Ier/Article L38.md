@@ -12,5 +12,6 @@ article L. 18, les enfants ouvrant droit à cette majoration.
 
 Cette pension de réversion, compte tenu des ressources extérieures, ne pourra
 être inférieure à la somme totale formée par le cumul de l'allocation servie aux
-vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds
-national de solidarité, quelle que soit la date de sa liquidation.
+vieux travailleurs salariés augmentée de l'allocation supplémentaire mentionnée
+à l'article L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit
+la date de sa liquidation.

@@ -3,7 +3,7 @@ Article L241-6
 Les charges de prestations familiales et des aides à l'emploi pour la garde des
 jeunes enfants sont couvertes par des cotisations, ressources et contributions
 centralisées par la caisse nationale des allocations familiales qui suit
-l'exécution de toutes les dépenses [*financement*].
+l'exécution de toutes les dépenses .
 
 Les cotisations et ressources mentionnées à l'alinéa précédent comprennent :
 
@@ -20,4 +20,6 @@ conditions fixées par décret ;
 3°) des cotisations et ressources affectées aux prestations familiales des
 personnes salariées et non-salariées des régimes agricoles ;
 
-4°) Le produit de la contribution sociale généralisée.
+4°) une fraction du produit des contributions sociales mentionnées aux articles
+L. 136-1, L. 136-6 et L. 136-7 à concurrence d'un montant correspondant à
+l'application d'un taux de 1,1 p. 100 à l'assiette de ces contributions.
