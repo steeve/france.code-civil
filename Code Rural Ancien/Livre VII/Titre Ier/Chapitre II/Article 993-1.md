@@ -17,12 +17,15 @@ Les modalités d'information par l'employeur des droits acquis par le salarié ;
 Le délai de présentation à l'employeur de la demande du bénéfice du repos
 compensateur ;
 
-Le délai maximum suivant l'ouverture du droit pendant lequel le repos doit
-obligatoirement être pris ;
-
 Les conditions dans lesquelles l'attribution du repos compensateur peut être
 différée compte tenu des impératifs liés au fonctionnement de l'entreprise ou de
 l'exploitation.
+
+Le repos compensateur doit obligatoirement être pris dans un délai maximum de
+deux mois suivant l'ouverture du droit sous réserve des cas de report définis
+par décret. L'absence de demande de prise du repos par le salarié ne peut
+entraîner la perte de son droit au repos. Dans ce cas, l'employeur est tenu de
+lui demander de prendre effectivement ses repos dans un délai maximum d'un an.
 
 A défaut d'accord entre des organisations syndicales d'employeurs et de salariés
 les plus représentatives au plan national, un décret fixe également les
@@ -39,5 +42,3 @@ du repos compensateur auquel il avait droit ou avant qu'il ait acquis des droits
 suffisants pour pouvoir prendre ce repos. Elle est alors versée à ceux des
 ayants droit qui auraient qualité pour obtenir le paiement des salaires
 arriérés.
-
-L'indemnité ci-dessus a le caractère de salaire.

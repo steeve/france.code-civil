@@ -9,19 +9,20 @@ L'abattement prévu à l'alinéa précédent est également applicable en cas de
 transformation de contrats à durée indéterminée à temps plein en contrats à
 durée indéterminée à temps partiel. La transformation doit s'accompagner d'une
 ou de plusieurs embauches sous contrat à durée indéterminée permettant de
-maintenir le volume des heures de travail prévu aux contrats transformés, sauf
-si elle constitue une alternative à un licenciement collectif pour motif
-économique effectué dans le cadre de la procédure de l'article L. 321-2.
+maintenir le volume des heures de travail prévu aux contrats transformés.
 
 Pour ouvrir le bénéfice de cet abattement, le contrat doit prévoir une durée
 hebdomadaire de travail, qui peut être calculée, le cas échéant, sur le mois,
-comprise entre seize heures, heures supplémentaires ou heures complémentaires
-non comprises, et trente-deux heures, heures supplémentaires ou heures
-complémentaires comprises.
+comprise entre dix-huit heures, heures complémentaires non comprises, et
+trente-deux heures, heures complémentaires ou supplémentaires comprises.
 
 Le bénéfice de l'abattement peut également être accordé aux contrats de travail
 à temps partiel qui prévoient une durée du travail comprise entre les limites
-prévues à l'alinéa précédent calculées sur une base annuelle.
+prévues à l'alinéa précédent calculées sur une base annuelle. Il n'est toutefois
+ouvert, dans ce cas, que lorsque le temps partiel calculé sur une base annuelle
+résulte de l'application dans l'entreprise d'un accord collectif définissant les
+modalités et les garanties suivant lesquelles le travail à temps partiel est
+pratiqué à la demande du salarié.
 
 Le contrat ne peut prévoir plus d'une interruption d'activité au cours de la
 même journée, sauf dérogation prévue par une convention collective ou un accord
@@ -71,7 +72,7 @@ d'un contrat à durée déterminée conclu entre l'employeur et ce salarié.
 
 L'employeur qui procède à une embauche et prétend au bénéfice de l'abattement
 prévu au présent article en fait par écrit la déclaration à l'autorité
-administrative compétente, dans les trente jours suivant la prise d'effet du
+administrative compétente, dans les soixante jours suivant la prise d'effet du
 contrat ou de l'avenant au contrat. En cas de non-conformité de ce dernier aux
 conditions fixées par les articles L. 212-4-2 et suivants et aux alinéas
 ci-dessus, l'autorité administrative compétente dispose d'un délai d'un mois à
@@ -83,7 +84,7 @@ l'abattement ne soit pas applicable à l'embauche ou à la transformation
 d'emplois en cause. Il en est de même lorsque l'une des conditions posées au
 présent article n'est pas remplie.
 
-L'employeur qui a procédé à un licenciement économique au cours des six mois
+L'employeur qui a procédé à un licenciement économique au cours des douze mois
 précédant une embauche susceptible d'ouvrir droit à l'abattement prévu au
 premier alinéa ne peut bénéficier de ce dernier qu'après accord préalable de
 l'autorité administrative compétente qui dispose d'un délai d'un mois

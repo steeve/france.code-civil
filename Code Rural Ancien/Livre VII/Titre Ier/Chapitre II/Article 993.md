@@ -5,7 +5,8 @@ droit à un repos compensateur dans les conditions définies ci-après.
 
 Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur
 est égale à 50 p. 100 du temps de travail accompli en heures supplémentaires
-au-delà de quarante-deux heures.
+au-delà de quarante-deux heures. Ce seuil est fixé à quarante et une heures à
+compter du 1er janvier 1999.
 
 Dans les établissements énumérés au 7° de l'article 1144 qui n'ont pas une
 activité de production agricole, les heures supplémentaires effectuées au-delà
@@ -23,6 +24,7 @@ et les établissements énumérés au 7° du même article qui ont une activité
 production agricole, être calculée sur la base d'un ou de plusieurs jours de
 congé par an lorsque la durée hebdomadaire de travail des salariés intéressés a
 dépassé en moyenne quarante-deux heures pendant une période de douze mois
-consécutifs. Ce mode de calcul ne peut résulter que d'une convention collective
+consécutifs. Cette moyenne est fixée à quarante et une heures à compter du 1er
+janvier 1999. Ce mode de calcul ne peut résulter que d'une convention collective
 ou d'un accord collectif étendus ; il doit s'appliquer à l'ensemble des salariés
 des entreprises liées par cette convention ou cet accord.

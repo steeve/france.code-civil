@@ -36,9 +36,8 @@ Le contrat de travail détermine également les limites dans lesquelles peuvent
 le contrat. Le nombre d'heures complémentaires effectuées par un salarié à temps
 partiel au cours d'une même semaine ou d'un même mois ne peut être supérieur au
 dixième de la durée hebdomadaire ou mensuelle de travail prévue dans son
-contrat. Toutefois, une convention ou un accord collectif de branche étendu ou
-une convention ou un accord d'entreprise ou d'établissement peut porter cette
-limite jusqu'au tiers de cette durée.
+contrat. Toutefois, une convention ou un accord collectif de branche étendu peut
+porter cette limite jusqu'au tiers de cette durée.
 
 Cet accord ou cette convention peut également faire varier en deçà de sept jours
 et jusqu'à un minimum de trois jours ouvrés le délai, prévu au quatrième alinéa
@@ -58,11 +57,27 @@ la durée fixée conventionnellement. Le refus d'effectuer les heures
 complémentaires proposées par l'employeur au-delà des limites fixées par le
 contrat ne constitue pas une faute ou un motif de licenciement.
 
+Lorsque, pendant une période de douze semaines consécutives, l'horaire moyen
+réellement effectué par un salarié a dépassé de deux heures au moins par
+semaine, ou de l'équivalent mensuel ou annuel de cette durée, l'horaire prévu
+dans son contrat, celui-ci est modifié, sous réserve d'un préavis de sept jours
+et sauf opposition du salarié intéressé, en ajoutant à l'horaire antérieurement
+fixé la différence entre cet horaire et l'horaire moyen réellement effectué.
+
 Lorsque la durée du travail est fixée dans le cadre de l'année, les heures
 complémentaires ainsi que, le cas échéant, les heures supplémentaires ne peuvent
 être effectuées que dans les périodes travaillées prévues par le contrat de
 travail et leur nombre ne peut être supérieur, au cours d'une même année, au
 dixième de la durée annuelle prévue dans le contrat, sauf convention ou accord
-collectif de branche étendu dans les conditions prévues au présent article, ou
-convention ou accord d'entreprise ou d'établissement pouvant porter cette limite
-jusqu'au tiers de cette durée.
+collectif de branche étendu dans les conditions prévues au présent article
+pouvant porter cette limite jusqu'au tiers de cette durée.
+
+Les horaires de travail des salariés à temps partiel ne peuvent comporter, au
+cours d'une même journée, plus d'une interruption d'activité ou une interruption
+supérieure à deux heures, que si une convention ou un accord collectif de
+branche étendus ou agréés en application de l'article 16 de la loi n° 75-535 du
+30 juin 1975 relative aux institutions sociales et médico-sociales le prévoit
+soit expressément, soit en définissant les plages horaires pendant lesquelles
+les salariés doivent exercer leur activité et leur répartition dans la journée
+de travail, moyennant des contreparties spécifiques et en tenant compte des
+exigences propres à l'activité exercée.
