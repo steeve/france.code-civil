@@ -10,6 +10,12 @@ coopération intercommunale à fiscalité propre, elles pourront, par délibéra
 concordantes avec ce dernier, établir un reversement partiel du produit de la
 redevance d'enlèvement des ordures ménagères au profit de ce dernier.
 
+Par dérogation aux dispositions précédentes, les établissements publics de
+coopération intercommunale à fiscalité propre qui exercent la totalité de la
+compétence prévue à l'article L. 2224-13 et qui adhérent, pour l'ensemble de
+cette compétence, à un syndicat mixte, peuvent percevoir la redevance en lieu et
+place de ce syndicat mixte.
+
 La redevance est instituée par l'assemblée délibérante de la collectivité locale
 ou de l'établissement public qui en fixe le tarif.
 
