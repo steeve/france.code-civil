@@ -6,9 +6,7 @@ l'article 706-16 l'exigent, le juge des libertés et de la détention du tribuna
 de grande instance peut, à la requête du procureur de la République, décider que
 les perquisitions, visites domiciliaires et saisies de pièces à conviction
 pourront être faites sans l'assentiment de la personne chez laquelle elles ont
-lieu. Si ces opérations ne concernent pas des locaux d'habitation, le juge des
-libertés et de la détention peut autoriser leur réalisation en dehors des heures
-prévues à l'article 59.
+lieu.
 
 (Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la
 Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet

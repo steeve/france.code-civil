@@ -6,8 +6,7 @@ l'exigent, la garde à vue d'une personne peut faire l'objet d'une prolongation
 supplémentaire de quarante-huit heures.
 
 Cette prolongation est autorisée soit, à la requête du procureur de la
-République, par le président du tribunal de grande instance dans le ressort
-duquel s'exerce la garde à vue ou un juge délégué par lui, soit, dans les cas
+République, par le juge des libertés et de la détention, soit, dans les cas
 prévus par les articles 72 et 154, par le juge d'instruction.
 
 La personne gardée à vue doit être présentée à l'autorité qui statue sur la
