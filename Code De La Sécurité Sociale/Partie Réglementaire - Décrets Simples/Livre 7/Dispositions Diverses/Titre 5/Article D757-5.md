@@ -1,8 +1,9 @@
 Article D757-5
 ----
 Pour bénéficier de l'allocation, le requérant doit souscrire une demande
-conforme au modèle arrêté par le ministre chargé de la sécurité sociale . Des
-exemplaires de la demande sont mis à la disposition des intéressés par les
+conforme au modèle arrêté par le ministre chargé de la sécurité sociale .
+
+Des exemplaires de la demande sont mis à la disposition des intéressés par les
 caisses générales de sécurité sociale, la direction régionale de la sécurité
 sociale des Antilles et de la Guyane et la direction départementale de la
 sécurité sociale de la Réunion.

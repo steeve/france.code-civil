@@ -1,11 +1,18 @@
 Article D842-1
 ----
-Le montant trimestriel des allocations de garde d'enfant à domicile servies au
-titre d'un ou plusieurs emplois mentionné à l'article L. 533-1 est égal à 100 p.
-100 du montant des cotisations acquittées en application des articles D. 242-3 à
-D. 242-7 et des cotisations afférentes à la retraite complémentaire et à
-l'assurance contre le risque de privation d'emploi, dans la limite de 6 000 F.
+I. - Le montant trimestriel maximal de l'allocation visé au I de l'article L.
+842-2 est égal à l'ensemble des cotisations patronales et salariales d'origine
+légale ou conventionnelle imposées par la loi et afférentes au salaire minimum
+qui, en application de la convention collective nationale des employés de
+maison, doit être versée aux gardes d'enfant ayant moins de trois ans
+d'ancienneté pour 522 heures de travail dans la limite des cotisations
+acquittées au titre du ou des emplois.
 
-Le montant visé au premier alinéa est réduit de moitié lorsque l'allocation
-parentale d'éducation à mi-taux visée à l'article L. 532-4 est servie au
-bénéficiaire de l'allocation de garde d'enfant à domicile.
+La date retenue pour apprécier ce salaire minimum conventionnel ainsi que le
+montant des cotisations y afférentes est, chaque année, le 1er octobre précédant
+l'année civile au cours de laquelle l'emploi est exercé.
+
+II. - Le montant trimestriel de l'allocation à taux réduit visé au II de
+l'article L. 842-2 est égal à la moitié du montant de l'allocation visé au I du
+présent article dans la limite des cotisations acquittées au titre du ou des
+emplois.
