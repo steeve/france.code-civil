@@ -1,10 +1,7 @@
 Article R122-2
 ----
-La lettre prévue à l'article L. 122-14 indique l'objet de l'entretien
-[*licenciement*] entre le salarié et l'employeur.
-
-Elle précise [*mentions*] en outre, la date, l'heure et le lieu de cet entretien
-et rappelle que le salarié peut se faire assister pour cet entretien par une
-personne de son choix appartenant au personnel de l'entreprise ou, en l'absence
-d'institutions représentatives dans l'entreprise, par une personne de son choix
-inscrite sur la liste dressée par le préfet conformément à l'article L. 122-14.
+L'indemnité minimum de licenciement prévue à l'article L. 122-9 ne peut être
+inférieure à une somme calculée, par année de service dans l'entreprise, sur la
+base de vingt heures de salaire pour les travailleurs rémunérés à l'heure et de
+un dixième de mois pour les travailleurs rémunérés au mois. Le salaire servant
+de base au calcul de l'indemnité est le salaire moyen des trois derniers mois.
