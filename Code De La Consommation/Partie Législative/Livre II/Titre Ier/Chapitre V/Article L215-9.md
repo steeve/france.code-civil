@@ -1,5 +1,6 @@
 Article L215-9
 ----
-Toutes les expertises nécessitées par l'application des chapitres II à VI seront
-contradictoires et le prix des échantillons reconnus bons sera remboursé d'après
-leur valeur le jour du prélèvement.
+Les essais et analyses effectués dans le cadre de la recherche et de la
+constatation des infractions au présent livre sont contradictoires et le prix
+des échantillons dont la non-conformité à la réglementation n'a pas été établie
+est remboursé d'après leur valeur le jour du prélèvement.

@@ -9,3 +9,7 @@ de travail et moyens de protection concernés, au moyen de procès-verbaux
 transmis au parquet, les infractions aux dispositions de l'article L. 233-5 et
 des I et III de l'article L. 233-5-3 commises à l'occasion d'une des opérations
 mentionnées au II de l'article L. 233-5.
+
+Les agents de la direction générale de la concurrence, de la consommation et de
+la répression des fraudes mentionnés à l'alinéa précédent disposent à cet effet
+des pouvoirs prévus au livre II du code de la consommation.

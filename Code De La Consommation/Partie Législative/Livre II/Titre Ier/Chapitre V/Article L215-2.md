@@ -1,8 +1,9 @@
 Article L215-2
 ----
-Dans les lieux énumérés au premier alinéa de l'article L. 213-4 et sur la voie
+Dans les lieux mentionnés au premier alinéa de l'article L. 215-3 et sur la voie
 publique, les autorités qualifiées pour rechercher et constater les infractions
-aux chapitres II à VI le sont également pour les infractions aux dispositions
-réglementaires prises en application des articles 258, 259, 262, 275-1, 275-2 et
-275-4 du code rural fixant les normes sanitaires et qualitatives des denrées
+au présent livre le sont également, dans les conditions prévues au présent
+livre, pour les infractions aux dispositions réglementaires prises en
+application des articles L. 231-1, L. 231-2, L. 231-5, L. 236-1, L. 236-2 et L.
+236-4 du code rural fixant les normes sanitaires et qualitatives des denrées
 animales et d'origine animale mises en vente.

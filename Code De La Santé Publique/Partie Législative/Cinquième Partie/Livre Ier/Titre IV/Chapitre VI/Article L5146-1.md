@@ -1,6 +1,6 @@
 Article L5146-1
 ----
-Le contrôle de l'application des dispositions du présent chapitre, ainsi que des
+Le contrôle de l'application des dispositions du présent titre, ainsi que des
 mesures réglementaires prises pour leur application, est assuré concurremment
 par les pharmaciens inspecteurs de santé publique agissant conformément aux
 articles L. 1421-1, L. 1421-2, L. 1421-3 et L. 5127-2, par les vétérinaires

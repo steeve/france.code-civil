@@ -14,7 +14,7 @@ personnes qui participent à la fabrication, à la transformation, au transport,
 l'entreposage, à la vente des produits ou qui assurent des prestations de
 services ;
 
-3° Peuvent ordonner que ces produits soient retirés du marché ou repris en vue
+3° Peuvent ordonner que ces produits soient retirés du marché ou rappelés en vue
 de leur modification, de leur remboursement total ou partiel ou de leur échange,
 et prévoir des obligations relatives à l'information des consommateurs. Ils
 peuvent également ordonner la destruction de ces produits lorsque celle-ci

@@ -1,17 +1,20 @@
 Article L215-3
 ----
-Pour rechercher et constater les infractions aux chapitres II à VI, les agents
-peuvent pénétrer de jour dans les lieux et véhicules énumérés au premier alinéa
-de l'article L. 213-4.
+Pour rechercher et constater les infractions au présent livre, les agents
+peuvent opérer sur la voie publique, pénétrer entre 8 heures et 20 heures dans
+les lieux utilisés à des fins professionnelles et dans les lieux d'exécution
+d'une prestation de service, ainsi que procéder au contrôle du chargement des
+véhicules utilisés aux mêmes fins et de ses conditions de conservation.
 
-Ils peuvent également pénétrer de nuit dans ces mêmes lieux lorsque ceux-ci sont
-ouverts au public ou lorsqu'à l'intérieur de ceux-ci sont en cours des activités
-de production, de fabrication, de transformation, de conditionnement, de
-transport ou de commercialisation.
+Ils peuvent également pénétrer en dehors de ces heures dans ces mêmes lieux
+lorsque ceux-ci sont ouverts au public ou lorsqu'à l'intérieur de ceux-ci sont
+en cours des activités de production, de fabrication, de transformation, de
+conditionnement, de transport ou de commercialisation.
 
 Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuvent
-être effectués que de jour et avec l'autorisation du procureur de la République
-si l'occupant s'y oppose.
+être effectués qu'entre 8 heures et 20 heures, et avec l'autorisation du juge
+des libertés et de la détention du tribunal de grande instance dans le ressort
+duquel sont situés ces lieux si l'occupant s'y oppose.
 
 Les agents peuvent exiger la communication ou procéder à la saisie des documents
 de toute nature, entre quelques mains qu'ils se trouvent, propres à faciliter

@@ -11,13 +11,9 @@ En cas de danger grave ou immédiat, le représentant de l'Etat dans le
 département prend les mesures d'urgence qui s'imposent. Il en réfère aussitôt au
 ministre intéressé et au ministre chargé de la consommation, qui se prononcent,
 par arrêté conjoint, dans un délai de quinze jours. Il peut, dans l'attente de
-la décision ministérielle, faire procéder à la consignation, dans tous les lieux
-énumérés à l'article L. 213-4, des produits susceptibles de présenter un danger
-pour la santé ou la sécurité des personnes. Les produits consignés sont laissés
-à la garde de leur détenteur après inventaire. Il peut, dans les mêmes
-conditions, suspendre la prestation d'un service.
+la décision ministérielle, suspendre la prestation d'un service.
 
-Pour les produits entrant dans le champ de compétence de l' Agence française de
+Pour les produits entrant dans le champ de compétence de l'Agence française de
 sécurité sanitaire des aliments, les résultats des investigations et les
 propositions mentionnées au premier alinéa sont transmis, dans les mêmes
 conditions, au directeur général de l'agence.
