@@ -29,9 +29,9 @@ l'économie et des finances ses propositions concernant les participations
 financières, les conventions de délégations de service public ainsi que la
 création de filiales.
 
-Il adopte l'état de prévisions de recettes et de dépenses ainsi que les comptes
-financiers et soumet ces documents à l'approbation du ministre chargé de
-l'aviation civile et du ministre chargé de l'économie et des finances.
+Il adopte le budget et les comptes de l'établissement et soumet ces documents à
+l'approbation du ministre chargé de l'aviation civile et du ministre chargé de
+l'économie et des finances.
 
 Il arrête les grands projets d'ouvrages et d'installations et définit le
 programme pluriannuel d'investissements.

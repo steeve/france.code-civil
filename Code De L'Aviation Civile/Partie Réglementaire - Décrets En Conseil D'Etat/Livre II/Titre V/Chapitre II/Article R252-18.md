@@ -1,16 +1,14 @@
 Article R252-18
 ----
-Le directeur général est chargé de la préparation et de l'exécution de l'état de
-prévisions de recettes et de dépenses ainsi que de l'exécution des décisions du
-conseil d'administration.
+Le directeur général est chargé de la préparation et de l'exécution du budget
+ainsi que de l'exécution des décisions du conseil d'administration.
 
 Il reçoit délégation permanente dans les limites fixées par le conseil
 d'administration pour la passation des contrats et marchés et les transactions
 en cas de litige.
 
-Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à
-celui d'agent comptable et à ceux qui sont prévus aux articles R. 252-12-2 et R.
-252-19.
+Dans la limite des effectifs autorisés, il nomme à tous les emplois, sauf à ceux
+qui sont prévus aux articles R. 252-12-2 et R. 252-19.
 
 Il est consulté sur les nominations aux emplois de direction.
 
