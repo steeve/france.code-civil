@@ -1,11 +1,6 @@
 Article L332-1
 ----
-Une procédure collective de redressement judiciaire civil des difficultés
-financières du débiteur qui se trouve dans la situation de surendettement
-caractérisée au premier alinéa de l'article L. 331-2 est ouverte, devant le juge
-de l'exécution du domicile du débiteur, dans les cas mentionnés à l'article L.
-331-12.
-
-Elle peut l'être également à la demande d'un débiteur ou, d'office, par le juge
-de l'exécution ou à la demande d'un autre juge lorsque à l'occasion d'un litige
-ou d'une procédure d'exécution est constatée une situation de surendettement.
+S'il n'a pas été saisi de la contestation prévue à l'article L. 332-2, le juge
+de l'exécution confère force exécutoire aux mesures recommandées par la
+commission en application de l'article L. 331-7, après en avoir vérifié la
+régularité.

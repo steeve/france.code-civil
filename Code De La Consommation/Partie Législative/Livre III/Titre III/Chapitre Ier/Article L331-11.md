@@ -1,4 +1,7 @@
 Article L331-11
 ----
-La commission informe le juge de l'exécution du lieu du domicile du débiteur de
-la conclusion du plan conventionnel de règlement et des mesures qu'il comporte.
+Les membres de la commission, ainsi que toute personne qui participe à ses
+travaux ou est appelée au traitement de la situation de surendettement, sont
+tenus de ne pas divulguer à des tiers les informations dont ils ont eu
+connaissance dans le cadre de la procédure instituée par le présent chapitre, à
+peine des sanctions prévues à l'article 226-13 du code pénal.

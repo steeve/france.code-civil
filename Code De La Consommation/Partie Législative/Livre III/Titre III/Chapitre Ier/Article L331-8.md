@@ -1,5 +1,6 @@
 Article L331-8
 ----
-Le juge de l'exécution est compétent pour connaître des recours dirigés contre
-les décisions prises par la commission sur la recevabilité des demandes
-d'ouverture d'une procédure amiable.
+Les mesures recommandées en application de l'article L. 331-7 et rendues
+exécutoires par l'application de l'article L. 332-1 ou de l'article L. 332-2 ne
+sont pas opposables aux créanciers dont l'existence n'aurait pas été signalée
+par le débiteur et qui n'en auraient pas été avisés par la commission.

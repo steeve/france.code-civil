@@ -8,6 +8,6 @@ lorsqu'elles sont nées de contrats conclus antérieurement au 1er juillet 1989.
 Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un
 réaménagement ou d'un rééchelonnement, le point de départ du délai de forclusion
 est le premier incident non régularisé intervenu après le premier aménagement ou
-rééchelonnement conclu entre les intéressés ou après adoption d'un plan de
-règlement ou après décision du juge survenue en application du titre III du
-présent livre.
+rééchelonnement conclu entre les intéressés ou après adoption du plan
+conventionnel de redressement prévu à l'article L. 331-6 ou après décision du
+juge de l'exécution sur les mesures mentionnées à l'article L. 331-7.
