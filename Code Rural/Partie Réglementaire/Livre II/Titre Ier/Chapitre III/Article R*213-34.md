@@ -1,10 +1,29 @@
 Article R*213-34
 ----
-Pendant la durée de la suspension de fonctionnement prononcée en application des
-articles R. 213-28 ou R. 213-32, l'exploitant est tenu d'assurer à son personnel
-le paiement des salaires, indemnités et rémunérations de toute nature auxquels
-il avait droit jusqu'alors.
+Le préfet s'assure préalablement :
 
-Lorsque la fermeture de l'établissement est ordonnée en application des articles
-R. 213-30 ou R. 213-32, l'exploitant est tenu d'assurer, sous le contrôle de
-l'administration, le placement des animaux.
+1° En ce qui concerne les établissements de catégorie a, que les locaux,
+installations, aménagements ou équipements prévus, ainsi que les conditions de
+fonctionnement envisagées, sont conformes aux prescriptions mentionnées à
+l'article R. 213-28 ;
+
+2° En ce qui concerne les établissements de catégorie b, que les clôtures
+isolent complètement et durablement de l'espace ouvert les animaux détenus ;
+
+3° Que les locaux, installations, aménagements ou équipements prévus, ainsi que
+les conditions de fonctionnement envisagées, tiennent compte des prescriptions
+relatives à la protection de la nature, au contrôle sanitaire, à la protection
+des animaux et à la santé publique.
+
+Le préfet statue :
+
+1° Pour les établissements de la catégorie a, après avis du directeur
+départemental de l'agriculture et de la forêt, du président de la chambre
+départementale d'agriculture, du président de la fédération départementale des
+chasseurs et d'un représentant d'une organisation professionnelle d'élevage du
+gibier ;
+
+2° Pour les établissements de la catégorie b, après avis du directeur
+départemental de l'agriculture et de la forêt, du président de la chambre
+départementale d'agriculture et d'un représentant d'une organisation
+professionnelle d'élevage du gibier.

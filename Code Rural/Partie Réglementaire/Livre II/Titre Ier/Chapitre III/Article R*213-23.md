@@ -1,8 +1,15 @@
 Article R*213-23
 ----
-Les établissements énumérés à l'article L. 213-4 doivent tenir tous registres et
-documents administratifs permettant aux agents et services habilités d'en
-effectuer le contrôle. La liste et la nature de ces documents, les conditions de
-leur tenue, sont précisées pour chaque catégorie d'établissements par arrêtés
-conjoints du ministre chargé de la protection de la nature et du ministre dont
-relève l'établissement.
+Les établissements se livrant à l'élevage, à la vente ou au transit des espèces
+de gibier dont la chasse est autorisée sont répartis en deux catégories :
+
+1° Les établissements dont tout ou partie des animaux qu'ils détiennent sont
+destinés directement ou par leur descendance à être introduits dans la nature ;
+ces établissements constituent la catégorie a ;
+
+2° Les établissements dont tous les animaux qu'ils détiennent ont une autre
+destination, notamment la production de viande ; ces établissements constituent
+la catégorie b.
+
+Ces deux catégories seront désignées respectivement par l'expression catégorie a
+et catégorie b, dans la présente section.

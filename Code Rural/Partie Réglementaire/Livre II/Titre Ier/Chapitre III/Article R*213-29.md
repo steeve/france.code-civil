@@ -1,12 +1,10 @@
 Article R*213-29
 ----
-Si l'exploitant n'a pas obtempéré dans le délai fixé, le préfet peut :
-
-1° Soit faire procéder d'office aux frais de l'exploitant à l'exécution des
-mesures prescrites ;
-
-2° Soit obliger l'exploitant à consigner entre les mains d'un comptable public
-une somme répondant du montant des travaux à réaliser, laquelle sera restituée à
-l'exploitant au fur et à mesure de l'exécution des travaux ; il est, le cas
-échéant, procédé au recouvrement de cette somme comme en matière de créances
-étrangères à l'impôt et aux domaines.
+Tout animal détenu dans un établissement doit être muni, dès son arrivée dans
+l'établissement ou le plus tôt possible après sa naissance, d'une marque
+inamovible permettant d'identifier sa provenance. Des arrêtés des ministres
+chargés de la chasse et de l'agriculture fixent les conditions dans lesquelles
+est effectué ce marquage. Ils prévoient également un dispositif particulier
+d'identification pour les animaux détenus dans des établissements de catégorie b
+permettant de les distinguer des animaux de même espèce destinés à
+l'introduction dans le milieu naturel.

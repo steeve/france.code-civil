@@ -14,5 +14,5 @@ dossier présenté et après avis du préfet, arrête la liste des espèces ains
 le nombre des animaux de chaque espèce que l'établissement est autorisé à
 détenir.
 
-A défaut d'une telle déclaration, les dispositions des sections 1 à 3 leur sont
-applicables.
+A défaut d'une telle déclaration, les dispositions des sections 1, 3 et 4 leur
+sont applicables.
