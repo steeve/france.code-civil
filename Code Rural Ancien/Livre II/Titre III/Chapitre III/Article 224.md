@@ -9,9 +9,10 @@ La peste bovine dans toutes les espèces de ruminants ;
 
 La péripneumonie contagieuse ;
 
-La tuberculose des bovidés dans les conditions fixées par décret sur la
-proposition du ministre de l'agriculture et après avis du comité consultatif des
-épizooties ;
+La tuberculose due à Mycobacterium bovis et à Mycobacterium tuberculosis chez
+les bovinés des espèces Bos taurus, Bos indicus, Bison bison, Bison bonasus et
+Bubalus bubalus et chez les cervidés d'élevage quand elle est mise en évidence
+dans les conditions fixées par arrêté du ministre chargé de l'agriculture ;
 
 La clavelée dans l'espèce ovine ;
 
