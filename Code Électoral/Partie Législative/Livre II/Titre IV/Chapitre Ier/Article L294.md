@@ -1,11 +1,11 @@
 Article L294
 ----
-Dans les départements qui ont droit à quatre sièges de sénateurs ou moins,
+Dans les départements qui ont droit à deux sièges de sénateurs ou moins,
 l'élection a lieu au scrutin majoritaire à deux tours.
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 
-1° La majorité absolue des suffrages exprimés;
+1° La majorité absolue des suffrages exprimés ;
 
 2° Un nombre de voix égal au quart des électeurs inscrits.
 

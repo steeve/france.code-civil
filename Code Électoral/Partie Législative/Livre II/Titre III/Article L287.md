@@ -1,8 +1,8 @@
 Article L287
 ----
-Le choix des conseils municipaux ne peut porter ni sur un député, ni sur un
-conseiller régional, ni sur un conseiller à l'Assemblée de Corse, ni sur un
-conseiller général.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse
+et les conseillers généraux ne peuvent être désignés délégués, élus ou de droit,
+par les conseils municipaux dans lesquels ils siègent.
 
 Au cas où un député, un conseiller régional, un conseiller à l'Assemblée de
 Corse ou un conseiller général serait délégué de droit comme conseiller

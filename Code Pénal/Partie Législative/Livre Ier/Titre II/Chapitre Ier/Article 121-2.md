@@ -10,4 +10,5 @@ responsables pénalement que des infractions commises dans l'exercice d'activit�
 susceptibles de faire l'objet de conventions de délégation de service public.
 
 La responsabilité pénale des personnes morales n'exclut pas celle des personnes
-physiques auteurs ou complices des mêmes faits.
+physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du
+quatrième alinéa de l'article 121-3.

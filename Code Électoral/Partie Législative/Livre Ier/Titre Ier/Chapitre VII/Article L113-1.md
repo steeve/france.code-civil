@@ -7,7 +7,8 @@ ou tout candidat tête de liste en cas de scrutin de liste, qui :
 1° Aura, en vue de financer une campagne électorale, recueilli des fonds en
 violation des prescriptions de l'article L. 52-4 ;
 
-2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ;
+2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ou
+L. 308-1 ;
 
 3° Aura dépassé le plafond des dépenses électorales fixé en application de
 l'article L. 52-11 ;

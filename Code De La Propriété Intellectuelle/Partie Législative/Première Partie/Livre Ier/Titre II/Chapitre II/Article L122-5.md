@@ -28,10 +28,9 @@ que dans les réunions publiques d'ordre politique et les cérémonies officiell
 ;
 
 d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou
-plastiques destinées à figurer dans le catalogue d'une vente aux enchères
-publiques effectuée en France par un officier public ou ministériel pour les
-exemplaires qu'il met à la disposition du public avant la vente dans le seul but
-de décrire les oeuvres d'art mises en vente.
+plastiques destinées à figurer dans le catalogue d'une vente judiciaire
+effectuée en France pour les exemplaires mis à la disposition du public avant la
+vente dans le seul but de décrire les oeuvres d'art mises en vente.
 
 Un décret en Conseil d'Etat fixe les caractéristiques des documents et les
 conditions de leur distribution.
