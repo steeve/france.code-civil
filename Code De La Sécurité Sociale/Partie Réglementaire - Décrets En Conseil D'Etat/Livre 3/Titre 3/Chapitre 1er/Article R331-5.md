@@ -1,10 +1,14 @@
 Article R331-5
 ----
-L'indemnité journalière prévue à l'article L. 331-3 est égale à 84 p. 100 du
-gain journalier de base . Elle est allouée même si l'enfant n'est pas né vivant.
+L'indemnité journalière prévue à l'article L. 331-3 est égale au gain journalier
+de base. Elle est allouée même si l'enfant n'est pas né vivant.
 
-Le gain journalier de base est déterminé selon les modalités prévues aux
-articles R. 323-4, R. 323-8 et R. 362-2.
+Pour le calcul de l'indemnité journalière de repos, le gain journalier de base
+est déterminé selon les règles prévues aux articles R. 323-4, R. 323-8 et R.
+362-2. Toutefois, pour l'application de ces dispositions, le salaire de base
+pris en compte est diminué, à due concurrence, du montant des cotisations et
+contributions sociales obligatoires y afférent, selon des modalités fixées par
+arrêté du ministre chargé de la sécurité sociale.
 
 L'indemnité journalière de repos ne peut être inférieure à un minimum fixé par
 arrêté du ministre chargé de la sécurité sociale et du ministre chargé du

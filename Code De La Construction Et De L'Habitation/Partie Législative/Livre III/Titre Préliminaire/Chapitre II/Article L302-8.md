@@ -14,7 +14,7 @@ qui ont précédé l'engagement.
 
 Les communes qui ont pris au cours de l'année 1995 l'engagement triennal
 mentionné ci-dessus et qui ne sont pas dotées d'un programme local de l'habitat
-au 1er janvier 1996 redeviennent à cette date redevables de la contribution
+au 1er juillet 1996 redeviennent à cette date redevables de la contribution
 prévue à l'article L. 302-7.
 
 Sont considérés comme logements sociaux pour l'application du présent article :

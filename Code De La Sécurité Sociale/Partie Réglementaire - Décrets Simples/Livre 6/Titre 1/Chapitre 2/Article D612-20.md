@@ -4,8 +4,9 @@ Une majoration de 10 p. 100 est applicable aux cotisations qui n'ont pas été
 acquittées à l'échéance.
 
 A l'expiration d'un délai de trois mois qui court à compter de la date
-d'échéance , le montant des cotisations dues par l'assuré défaillant est
-augmenté de 3,5 p. 100 par trimestre ou fraction de semestre écoulé.
+d'échéance prévue à l'article D. 612-13, le montant des cotisations dues est
+augmenté, par trimestre ou fraction de trimestre de retard, d'une majoration
+dont le taux est fixé au deuxième alinéa de l'article R. 243-18.
 
 L'organisme conventionné est tenu de percevoir ces majorations.
 

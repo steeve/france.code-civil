@@ -6,9 +6,7 @@ sont tenus d'adresser, dans les huit premier jours de chaque mois [*délai*], au
 directeur départemental du travail et de la main-d'oeuvre, le relevé des
 contrats de travail conclus ou résiliés au cours du mois précédent.
 
-Ce relevé doit contenir les mentions [*obligatoires*]
-
-suivantes :
+Ce relevé doit contenir les mentions [*obligatoires*] suivantes :
 
 1. Nom et adresse de l'employeur ;
 
@@ -25,8 +23,8 @@ Sur la demande expresse des services chargés du contrôle de l'emploi, l'adress
 du ou des salariés visés au 3° ci-dessus devra en outre être communiquée.
 
 Tout employeur qui embauche une personne inscrite comme demandeur d'emploi à
-l'Agence nationale pour l'emploi doit dans les quarante-huit heures suivant
-l'embauche en informer le service de l'agence dont il relève [*délai*].
+l'Agence nationale pour l'emploi doit dans les huit jours suivant l'embauche en
+informer le service de l'agence dont il relève [*délai*].
 
 Cette information est transmise par un document fourni au demandeur par l'Agence
 nationale pour l'emploi [*ANPE*] au demandeur d'emploi qui est tenu de le

@@ -12,16 +12,16 @@ Le montant auquel doivent être inférieurs ou égaux les gains et rémunératio
 versés au cours du mois civil pour ouvrir droit à l'exonération de cotisation
 prévue par le premier et le cinquième alinéa est porté à 169 fois le salaire
 minimum de croissance majoré de 20 p. 100 à compter du 1er janvier 1995, de 30
-p. 100 à compter du 1er janvier 1996, de 40 p. 100 à compter du 1er janvier 1997
-et de 50 p. 100 à compter du 1er janvier 1998.
+p. 100 à compter du 1er janvier 1998, de 40 p. 100 à compter du 1er janvier 1999
+et de 50 p. 100 à compter du 1er janvier 2000.
 
 Ouvrent droit à la réduction de cotisation de moitié prévue par le premier et le
 cinquième alinéa les gains et rémunérations versés au cours du mois civil qui
 sont, à chacune des dates indiquées à l'alinéa précédent, supérieurs aux
-montants fixés à ces dates mais qui sont inférieurs ou égaux à 169 fois le
+montants fixés à ces dates, mais qui sont inférieurs ou égaux à 169 fois le
 salaire minimum de croissance majoré de 30 p. 100 à compter du 1er janvier 1995,
-de 40 p. 100 à compter du 1er janvier 1996, de 50 p. 100 à compter du 1er
-janvier 1997 et de 60 p. 100 à compter du 1er janvier 1998.
+de 40 p. 100 à compter du 1er janvier 1998, de 50 p. 100 à compter du 1er
+janvier 1999 et de 60 p. 100 à compter du 1er janvier 2000.
 
 Dans les professions dans lesquelles le salaire minimum de croissance est, en
 vertu de dispositions réglementaires, calculé sur une base supérieure à 169

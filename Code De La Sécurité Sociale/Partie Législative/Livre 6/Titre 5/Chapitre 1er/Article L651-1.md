@@ -5,7 +5,7 @@ travailleurs non-salariés des professions non-agricoles et des régimes
 d'assurance vieillesse des professions mentionnées aux articles L. 621-3, L.
 721-1 et L. 723-1, une contribution sociale de solidarité à la charge :
 
-1°) des sociétés anonymes ;
+1°) des sociétés anonymes et des sociétés par actions simplifiées ;
 
 2°) des sociétés à responsabilité limitée ;
 
@@ -42,4 +42,7 @@ d'assurer l'approvisionnement de leurs associés coopérateurs en leur procurant
 les produits, les équipements, les instruments et les animaux nécessaires à
 leurs exploitations agricoles et des sociétés coopératives agricoles ayant pour
 objet exclusif l'utilisation de matériels agricoles par les associés
-coopérateurs.
+coopérateurs ainsi que les coopératives visées au chapitre Ier du titre III de
+la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines
+activités d'économie sociale, ayant pour objet exclusif soit l'avitaillement,
+soit l'armement de leurs associés coopérateurs.
