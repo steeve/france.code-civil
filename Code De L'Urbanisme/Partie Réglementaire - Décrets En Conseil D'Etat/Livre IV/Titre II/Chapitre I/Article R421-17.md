@@ -1,6 +1,6 @@
 Article R421-17
 ----
-Lorsque le projet est soumis à enquête publique dans les conditions prévues par
+Lorsque le projet est soumis à enquête publique dans les condition prévues par
 les chapitres I et II du décret n° 85-453 du 23 avril 1985, celle-ci est
 organisée par le préfet lorsque le permis de construire est délivré au nom de
 l'Etat, et par le maire ou le président de l'établissement public de coopération
@@ -26,3 +26,9 @@ projetée, il n'y a pas lieu à nouvelle enquête au titre du permis de construi
 à condition que le dossier soumis à cette enquête ait été complété par des
 pièces devant figurer au dossier de demande de permis de construire, à
 l'exclusion de celles mentionnées à l'article R. 421-3-1 du présent code.
+
+Lorsque le projet a précédemment fait l'objet d'une enquête publique réalisée en
+application de l'article 23-3 du décret n° 93-306 du 9 mars 1993 modifié et que
+l'avis de mise à l'enquête indiquait que celle-ci portait également sur la
+construction projetée, il n'y a pas lieu à une nouvelle enquête au titre du
+permis de construire.
