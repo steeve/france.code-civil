@@ -1,13 +1,13 @@
 Article 280 A
 ----
-Le gérant ou le dépositaire des actifs d'un fonds commun de placement régi par
-la loi n° 79-594 du 13 juillet 1979 agissant pour le compte du gérant, doit, en
-cas de décès d'un propriétaire de parts du fonds :
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement agissant
+pour le compte du gérant, doit, en cas de décès d'un propriétaire de parts du
+fonds :
 
-1° Déposer dans le délai prévu à l'article 806-I du code général des impôts,
+1° Déposer dans le délai prévu au I l'article 806 du code général des impôts,
 auprès de la direction des services fiscaux désignée au premier alinéa de
-l'article 41 sexdecies A [*lieu de dépôt*], une déclaration rédigée sur les
-formules imprimées visées au II de l'article 806 et mentionnant :
+l'article 41 sexdecies A, une déclaration rédigée sur les formules imprimées
+visées au II de l'article 806 et mentionnant :
 
 - la dénomination du fonds, le nom ou la raison sociale et l'adresse du gérant ;
 
@@ -21,6 +21,6 @@ valeur de rachat déterminée à cette date, la date et le montant de la derniè
 valeur de rachat dégagée avant le décès et de celle dégagée immédiatement après
 ;
 
-2° Se conformer aux prescriptions des deux premiers alinéas de l'article 806-III
-du code général des impôts vis-à-vis des héritiers, légataires, ou donataires
-domiciliés hors de France [*à l'étranger*].
+2° Se conformer aux prescriptions des deux premiers alinéas du III de l'article
+806 du code général des impôts vis-à-vis des héritiers, légataires, ou
+donataires domiciliés hors de France.
