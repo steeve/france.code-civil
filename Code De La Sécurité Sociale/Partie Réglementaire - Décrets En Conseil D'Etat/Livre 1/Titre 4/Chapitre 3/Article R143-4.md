@@ -1,8 +1,9 @@
 Article R143-4
 ----
-Les commissions régionales sont présidées, suivant le cas, par le directeur
-régional des affaires sanitaires et sociales ou par le chef du service régional
-de l'inspection du travail, de l'emploi et de la politique sociale agricoles.
+Les tribunaux du contentieux de l'incapacité sont présidés, suivant le cas, par
+le directeur régional des affaires sanitaires et sociales ou par le chef du
+service régional de l'inspection du travail, de l'emploi et de la politique
+sociale agricoles.
 
 Le directeur régional des affaires sanitaires et sociales ou le chef du service
 régional de l'inspection du travail, de l'emploi et de la politique sociale
@@ -11,7 +12,7 @@ activité ou honoraire, de la direction régionale des affaires sanitaires et
 sociales ou du service régional de l'inspection du travail, de l'emploi et de la
 politique sociale agricoles, selon le cas.
 
-Les commissions régionales comprennent en outre :
+Les tribunaux du contentieux de l'incapacité comprennent en outre :
 
 1°) un médecin expert désigné par le directeur régional des affaires sanitaires
 et sociales ou par le chef du service régional de l'inspection du travail, de
@@ -28,7 +29,7 @@ exploitants agricoles, par la caisse de mutualité sociale agricole
 territorialement compétente ;
 
 4°) un représentant du directeur régional du travail et de l'emploi dans la
-circonscription duquel se trouve le siège de la commission ;
+circonscription duquel se trouve le siège du tribunal ;
 
 5°) un assesseur représentant les employeurs ou les travailleurs indépendants et
 un assesseur représentant les travailleurs salariés choisis sur la liste des

@@ -7,10 +7,10 @@ Dans les huit jours, celui-ci peut, dans le cas où ces décisions lui paraissen
 contraires à la loi, soit en prononcer l'annulation soit en suspendre
 l'exécution jusqu'à décision du ministre chargé de la sécurité sociale qu'il
 saisit aux fins d'annulation. Le ministre informe la caisse nationale compétente
-laquelle lui fait connaître, le cas échéant, son avis. Lorsque la décision du
-ministre n'intervient pas dans le délai d'un mois à compter de la date à
-laquelle il a été saisi , la décision du conseil d'administration est exécutoire
-de plein droit.
+laquelle lui fait connaître, le cas échéant, son avis. Lorsque la décision
+ministérielle n'intervient pas dans le délai de quarante jours à compter de la
+date de suspension par le préfet de région de la décision du conseil
+d'administration, cette décision est exécutoire de plein droit.
 
 Lorsque les décisions lui paraissent de nature à compromettre l'équilibre
 financier des risques, le préfet de région peut, dans un délai de huit jours, en

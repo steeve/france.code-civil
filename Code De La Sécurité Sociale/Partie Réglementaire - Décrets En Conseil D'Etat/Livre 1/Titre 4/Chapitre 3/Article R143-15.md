@@ -1,7 +1,8 @@
 Article R143-15
 ----
-La commission nationale technique prévue à l'article L. 143-3 est composée de
-membres titulaires et de membres suppléants choisis parmi :
+La Cour nationale de l'incapacité et de la tarification de l'assurance des
+accidents du travail prévue à l'article L. 143-3 est composée de membres
+titulaires et de membres suppléants choisis parmi :
 
 1°) les magistrats de l'ordre administratif ou de l'ordre judiciaire, en
 activité ou honoraires, désignés par arrêté conjoint du garde des sceaux,
