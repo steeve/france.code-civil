@@ -1,0 +1,26 @@
+Article L322-7
+----
+Des accords d'entreprise conclus dans le cadre d'une convention de branche ou
+d'un accord professionnel sur l'emploi national, régional ou local, peuvent
+prévoir la réalisation d'actions de formation de longue durée en vue de
+favoriser l'adaptation des salariés aux évolutions de l'emploi dans
+l'entreprise, notamment de ceux qui présentent des caractéristiques sociales les
+exposant plus particulièrement aux conséquences de l'évolution économique ou
+technologique.
+
+Ils ouvrent droit au bénéfice d'une aide de l'Etat d'un montant forfaitaire par
+salarié calculé en fonction de la durée de la formation, sur agrément du
+ministre chargé du travail et dans des conditions fixées par voie réglementaire.
+Le montant de l'aide est majoré lorsque la formation est organisée au bénéfice
+de salariés âgés de quarante-cinq ans et plus.
+
+L'agrément prévu à l'alinéa précédent est accordé après avis du comité supérieur
+de l'emploi. Il est donné pour la durée de validité de l'accord et peut être
+retiré si les conditions posées pour son attribution cessent d'être remplies.
+
+Les entreprises dépourvues de représentants syndicaux bénéficient des mêmes
+aides dans des conditions fixées par voie réglementaire lorsqu'elles appliquent
+une convention de branche ou un accord professionnel sur l'emploi qui en prévoit
+la possibilité et détermine les modalités de son application directe. L'aide est
+attribuée après avis du comité d'entreprise ou, à défaut, des délégués du
+personnel, lorsqu'ils existent.

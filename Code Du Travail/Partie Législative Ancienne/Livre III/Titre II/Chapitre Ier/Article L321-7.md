@@ -20,11 +20,12 @@ mises en oeuvre.
 
 L'autorité administrative compétente, à laquelle la liste des salariés dont il
 est envisagé de rompre le contrat de travail est transmise, dispose, pour
-procéder aux vérifications prévues à l'alinéa précédent, d'un délai de quatorze
-jours à compter de la date de notification [*point de départ*] lorsque le nombre
-des licenciements est inférieur à cent, de vingt et un jours lorsque le nombre
-des licenciements est au moins égal à cent et inférieur à deux cent cinquante,
-et de trente jours lorsque ce nombre est au moins égal à deux cent cinquante.
+procéder aux vérifications prévues à l'alinéa précédent, d'un délai de vingt et
+un jours à compter de la date de notification [*point de départ*] lorsque le
+nombre des licenciements est inférieur à cent, de vingt-huit jours lorsque le
+nombre des licenciements est au moins égal à cent et inférieur à deux cent
+cinquante, et de trente-cinq jours lorsque ce nombre est au moins égal à deux
+cent cinquante.
 
 En toute hypothèse, ce délai ne peut être inférieur au délai conventionnel prévu
 au dernier alinéa de l'article L. 321-3 augmenté de sept jours.
@@ -42,3 +43,14 @@ réponse intervient au-delà du délai prévu à l'article L. 321-6, celui-ci es
 reporté jusqu'à la date d'envoi de l'information à l'autorité administrative
 compétente. Les lettres de licenciement ne pourront être adressées aux salariés
 qu'à compter de cette date.
+
+L'autorité administrative compétente peut présenter toute proposition pour
+compléter ou modifier le plan social, en tenant compte de la situation
+économique de l'entreprise.
+
+Ces propositions sont formulées avant la dernière réunion du comité d'entreprise
+; elles sont communiquées à l'employeur et au comité d'entreprise ou aux
+délégués du personnel. En l'absence de comité d'entreprise ou de délégués du
+personnel, elles sont portées à la connaissance des salariés par voie
+d'affichage sur les lieux de travail ainsi que la réponse motivée de l'employeur
+à ces propositions, qu'il adresse à l'autorité administrative compétente.

@@ -3,9 +3,9 @@ Article L123-9
 Le propriétaire d'un terrain bâti ou non bâti réservé par un plan d'occupation
 des sols pour un ouvrage public, une voie publique, une installation d'intérêt
 général ou un espace vert peut, dès que le plan est opposable aux tiers, même si
-à cette date une décision de sursis à statuer lui ayant été opposée est en est
-en cours de validité, exiger de la collectivité ou du service public au bénéfice
-duquel le terrain a été réservé qu'il soit procédé à son acquisition.
+à cette date une décision de sursis à statuer lui ayant été opposée est en cours
+de validité, exiger de la collectivité ou du service public au bénéfice duquel
+le terrain a été réservé qu'il soit procédé à son acquisition.
 
 Au cas où le terrain viendrait à faire l'objet d'une transmission pour cause de
 décès, les ayants-droit du propriétaire décédé peuvent, sur justification que
@@ -37,9 +37,10 @@ transfert de propriété et fixe le prix du terrain. Ce prix, y compris
 l'indemnité de réemploi, est fixé et payé comme en matière d'expropriation, le
 terrain étant considéré comme ayant cessé d'être compris dans un emplacement
 réservé. Toutefois, la date de référence prévue à l'article L. 13-15 du code de
-l'expropriation pour cause d'utilité publique est celle de la publication du
-plan d'occupation des sols, de la modification ou de la révision dudit plan
-délimitant la zone dans laquelle est située l'emplacement réservé.
+l'expropriation pour cause d'utilité publique est celle à laquelle est devenu
+opposable aux tiers le plus récent des actes rendant public, approuvant,
+révisant ou modifiant le plan d'occupation des sols et délimitant la zone dans
+laquelle est situé l'emplacement réservé.
 
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités
 auxquelles peuvent prétendre les personnes mentionnées au troisième alinéa

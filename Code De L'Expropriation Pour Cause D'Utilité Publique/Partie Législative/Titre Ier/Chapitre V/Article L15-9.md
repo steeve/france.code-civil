@@ -1,12 +1,12 @@
 Article L15-9
 ----
 Lorsque l'exécution des travaux de construction d'autoroutes, de routes express,
-de routes nationales ou de sections nouvelles de routes nationales et d'oléoducs
-régulièrement déclarés d'utilité publique risque d'être retardée par des
-difficultés tenant à la prise de possession d'un ou plusieurs terrains non
-bâtis, situés dans les emprises de l'ouvrage, un décret pris sur avis conforme
-du Conseil d'Etat pourra, à titre exceptionnel, autoriser la prise de possession
-de ces terrains.
+de routes nationales ou de sections nouvelles de routes nationales, de voies de
+chemins de fer et d'oléoducs régulièrement déclarés d'utilité publique risque
+d'être retardée par des difficultés tenant à la prise de possession d'un ou
+plusieurs terrains non bâtis, situés dans les emprises de l'ouvrage, un décret
+pris sur avis conforme du Conseil d'Etat pourra, à titre exceptionnel, autoriser
+la prise de possession de ces terrains.
 
 Cette prise de possession a lieu dans les conditions fixées à l'article L. 15-7.
 Le projet motivé qui est soumis au Conseil d'Etat par l'administration
@@ -23,4 +23,4 @@ Faute par l'administration de poursuivre la procédure d'expropriation dans le
 mois [*délai*] qui suit la prise de possession, le juge, saisi par le
 propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été
 ordonné et, en tout état de cause, fixe le prix du terrain et, éventuellement,
-l'indemnité spéciale prévue à l'alinéa 1er de l'article L. 15-8.
+l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.

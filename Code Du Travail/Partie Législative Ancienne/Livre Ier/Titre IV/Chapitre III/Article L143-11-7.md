@@ -13,7 +13,8 @@ mentionnées au deuxième alinéa de l'article L. 322-3 est versée directement 
 organismes gestionnaires mentionnés à l'article L. 351-21.
 
 3. Pour les salaires et les indemnités de congés payés couvertes en applications
-du 3° de l'article L. 143-11-1, dans les dix jours suivant l'expiration des
+du 3° de l'article L. 143-11-1 et les salaires couverts en application du
+dernier alinéa de ce même article, dans les dix jours suivant l'expiration des
 périodes de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond
 mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 ;
 

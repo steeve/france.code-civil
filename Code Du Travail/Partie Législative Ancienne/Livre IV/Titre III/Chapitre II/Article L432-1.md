@@ -7,11 +7,6 @@ volume ou la structure des effectifs, la durée du travail, les conditions
 d'emploi, de travail et de formation professionnelle du personnel
 [*attributions*].
 
-Chaque année, le comité d'entreprise étudie l'évolution de l'emploi dans
-l'entreprise au cours de l'année passée et les prévisions d'emploi établies par
-l'employeur pour l'année à venir. Le procès-verbal de cette réunion est transmis
-dans un délai de quinze jours à l'autorité administrative compétente.
-
 Le comité d'entreprise est obligatoirement saisi en temps utile des projets de
 compression des effectifs [*licenciement*] ; il émet un avis sur l'opération
 projetée et ses modalités d'application. Cet avis est transmis à l'autorité

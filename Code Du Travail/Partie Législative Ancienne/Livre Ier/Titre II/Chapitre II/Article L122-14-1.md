@@ -21,3 +21,11 @@ En cas de licenciement collectif pour motif économique concernant au moins dix
 salariés dans une même période de trente jours, la lettre prévue au premier
 alinéa du présent article ne peut être adressée avant l'expiration du délai
 prévue à l'article L. 321-6.
+
+Lorsque le licenciement pour motif économique d'un salarié est notifié au cours
+du délai de réflexion prévu au quatrième alinéa de l'article L. 321-6 ou au
+premier alinéa de l'article L. 321-6-1, la lettre mentionne le délai de réponse
+dont dispose encore le salarié pour accepter ou refuser la convention de
+conversion. Elle précise, en outre, que le licenciement ne prend effet, dans les
+conditions prévues au premier alinéa, qu'en cas de refus du salarié d'adhérer à
+la convention.
