@@ -4,9 +4,14 @@ Le montant de l'aide forfaitaire de l'Etat à l'employeur prévue au 1° du I de
 l'article L. 832-2 varie en fonction de la durée du travail ; il est fixé par
 décret.
 
-La moitié de cette aide est versée à la prise d'effet de la convention.
+Cette aide est versée à l'employeur pendant la durée du contrat s'il est à durée
+déterminée, et pendant une durée maximale de deux ans si le contrat est à durée
+indéterminée.
 
-Le solde est versé à la fin du quinzième mois suivant la date de l'embauche du
-salarié ou, le cas échéant, au terme de la formation dispensée au salarié
-lorsque ce terme se situe au-delà du quinzième mois suivant la date de
-l'embauche.
+Elle est versée, sur présentation par l'employeur d'un justificatif attestant de
+l'emploi du bénéficiaire du contrat dans l'établissement, à la fin du troisième
+mois du contrat, à la fin du douzième mois et à la fin du contrat si celui-ci
+est à durée déterminée de plus de douze mois, ou à la fin du vingt-quatrième
+mois du contrat s'il est à durée indéterminée. Le montant de chaque versement
+est calculé en fonction de la durée écoulée du contrat après déduction des
+versements déjà effectués.

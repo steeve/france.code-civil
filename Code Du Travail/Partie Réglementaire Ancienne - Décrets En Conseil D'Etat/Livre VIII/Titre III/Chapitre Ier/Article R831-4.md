@@ -1,7 +1,8 @@
 Article R831-4
 ----
 La convention, qui est conclue entre l'Agence nationale pour l'emploi, agissant
-au nom de l'Etat, et l'employeur doit préciser notamment :
+au nom de l'Etat, et l'employeur doit préciser notamment [*mentions
+obligatoires*] :
 
 a) Le nom et l'adresse du bénéficiaire ;
 
@@ -13,13 +14,15 @@ c) L'identité et la qualité de l'employeur ;
 
 d) Les caractéristiques de l'emploi proposé ;
 
-e) la durée hebdomadaire de travail ;
+e) La nature et la durée du contrat de travail ;
 
-f) Le montant de la rémunération correspondante ;
+f) la durée hebdomadaire de travail ;
 
-g) Le montant et les modalités de versement de l'aide de l'Etat ;
+g) Le montant de la rémunération correspondante ;
 
-h) Les modalités de contrôle de l'application de la convention.
+h) Le montant et les modalités de versement de l'aide de l'Etat ;
+
+i) Les modalités de contrôle de l'application de la convention.
 
 Lorsque l'Etat concourt à la prise en charge d'une formation au titre de
 l'article L. 832-2, sont précisés dans la convention ou dans un avenant conclu
