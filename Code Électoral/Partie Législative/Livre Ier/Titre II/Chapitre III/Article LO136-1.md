@@ -5,3 +5,10 @@ du cas de tout candidat susceptible de se voir opposer les dispositions du
 deuxième alinéa de l'article L.O. 128. Le Conseil constitutionnel constate, le
 cas échéant, l'inéligibilité et, s'il s'agit du candidat proclamé élu, il le
 déclare, par la même décision, démissionnaire d'office.
+
+La Commission pour la transparence financière de la vie politique saisit le
+bureau de l'Assemblée nationale du cas de tout député susceptible de se voir
+opposer les dispositions du premier alinéa de l'article L.O. 128. Le Conseil
+constitutionnel, saisi par le bureau de l'Assemblée nationale, constate, le cas
+échéant, l'inéligibilité et, par la même décision, déclare le député
+démissionnaire d'office.
