@@ -5,9 +5,11 @@ documents publiés est fixé à :
 
 1° Copies intégrales de documents :
 
-- 40 F par bordereau d'inscription demandé ;
+40 F par bordereau d'inscription demandé ;
 
-- 100 F par publication demandée(1).
+100 F par publication demandée autre que les copies d'états descriptifs de
+division ou de règlements de copropriété pour lesquelles le tarif des salaires
+exigibles est fixé à 200 F.
 
 Lorsque le requérant n'indique pas les références aux documents, il sera perçu
 un acompte provisionnel de 100 F, non remboursable.
@@ -18,6 +20,4 @@ requérant.
 
 2° Extraits littéraux de documents :
 
-- 40 F par extrait littéral demandé (1).
-
-(1) Date d'effet le 1er septembre 1990.
+40 F par extrait littéral demandé.
