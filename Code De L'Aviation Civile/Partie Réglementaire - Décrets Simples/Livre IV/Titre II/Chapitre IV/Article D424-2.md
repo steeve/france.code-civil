@@ -20,9 +20,7 @@ et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporair
 ou permanente de travail et de décès consécutifs à un accident aérien survenu en
 service ou une maladie imputable au service aérien.
 
-4° De recevoir et d'examiner sous réserve des compétences dévolues par les
-articles D. 434-1 et suivants aux commissions médicales régionales de l'aviation
-civile :
+4° De recevoir et d'examiner :
 
 a) Les appels interjetés par les candidats aux fonctions réservées au personnel
 navigant professionnel et les titulaires d'une licence du personnel navigant
@@ -51,5 +49,4 @@ titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclare
 un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
 conseil médical de l'aéronautique civile. (1)
 
-e) Les appels interjetés contre les décisions des commissions médicales
-régionales de l'aviation civile.
+(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
