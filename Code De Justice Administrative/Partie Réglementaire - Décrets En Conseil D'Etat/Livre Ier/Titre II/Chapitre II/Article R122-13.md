@@ -7,3 +7,6 @@ peut statuer par ordonnance dans les cas prévus à l'article précédent.
 
 Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont
 manifestement pas susceptibles d'entraîner l'infirmation du jugement attaqué.
+
+Ces dispositions sont applicables aux appels enregistrés avant le 1er janvier
+2005.
