@@ -6,4 +6,4 @@ centre de distribution de travail à domicile, est égal [*montant*] au salaire
 minimum de croissance déterminé en application des articles L. 141-1 et
 suivants, affecté du même pourcentage que celui du rendement atteint par
 l'intéressé par rapport à un rendement normal. Ce salaire minimum ne peut en
-aucun cas être inférieur au tiers du salaire minimum de croissance.
+aucun cas être inférieur à 35 p. 100 du salaire minimum de croissance.
