@@ -18,7 +18,7 @@ manifestations cliniques ischémiques ;
 - cardiopathie congénitale mal tolérée, insuffisance cardiaque grave et
 valvulopathie grave ;
 
-- cirrhose du foie décompensée ;
+- maladies chroniques actives du foie et cirrhoses ;
 
 - déficit immunitaire primitif grave nécessitant un traitement prolongé,
 infection par le virus de l'immuno-déficience humaine ;
@@ -26,8 +26,9 @@ infection par le virus de l'immuno-déficience humaine ;
 - diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être
 équilibré par le seul régime ;
 
-- forme grave d'une affection neuro-musculaire (dont miopathie) ; -
-hémoglobinopathie homozygote ;
+- forme grave d'une affection neuro-musculaire (dont miopathie) ;
+
+- hémoglobinopathie homozygote ;
 
 - hémophilie ;
 
@@ -57,8 +58,9 @@ généralisée évolutive ;
 
 - psychose, trouble grave de la personnalité, arriération mentale ;
 
-- rectocolite hémorragique et maladie de Crohn évolutives ; - sclérose en
-plaques invalidante ;
+- rectocolite hémorragique et maladie de Crohn évolutives ;
+
+- sclérose en plaques invalidante ;
 
 - scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25
 degrés) jusqu'à maturation rachidienne ;
