@@ -20,7 +20,6 @@ l'organisme ou du service qui assure la maîtrise d'ouvrage, la maîtrise d'oeuv
 ou le contrôle de l'opération soumise à enquête ou au sein des associations
 concernées par cette opération.
 
-L'indemnisation des commissaires enquêteurs et des membres des commissions
-d'enquête est assurée par l'Etat, selon les modalités arrêtées conjointement par
-les ministres chargés du budget, de l'urbanisme, de l'intérieur et de
-l'environnement.
+L'indemnisation du commissaire enquêteur ou des membres de la commission
+d'enquête est assurée dans les conditions prévues aux articles 10 et 10-1 du
+décret n° 85-453 du 23 avril 1985.
