@@ -12,7 +12,9 @@ Toutefois, les cotisations des détenus qui suivent un stage de formation
 professionnelle sont calculées et prises en charge dans les conditions prévues
 par l'article L. 980-3 du code du travail.
 
-Les dispositions du présent article ne sont pas applicables aux condamnés placés
-sous le régime de semi-liberté, qui, exerçant une activité professionnelle dans
-les mêmes conditions que les travailleurs libres, sont affiliés au régime
-d'assurance vieillesse dont ils relèvent au titre de cette activité.
+Les dispositions du présent article ne sont pas applicables aux condamnés
+bénéficiant d'une mesure de semi-liberté ou de placement à l'extérieur en
+application de l'article 723 du code de procédure pénale qui, exerçant une
+activité professionnelle dans les mêmes conditions que les travailleurs libres,
+sont affiliés au régime d'assurance vieillesse dont ils relèvent au titre de
+cette activité.
