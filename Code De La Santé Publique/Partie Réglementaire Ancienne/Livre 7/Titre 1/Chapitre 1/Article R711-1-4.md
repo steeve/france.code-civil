@@ -39,10 +39,11 @@ soins infirmiers ;
 l) Au plus cinq professionnels paramédicaux ou médicotechniques ;
 
 m) Au plus cinq membres choisis parmi les médecins, pharmaciens, sages-femmes,
-odontologistes, dont un médecin spécialiste de l'épidémiologie, un médecin
-spécialiste des maladies infectieuses et une sage-femme lorsqu'ils existent ;
-dans les établissements publics de santé, ces membres sont proposés par la
-commission médicale d'établissement.
+odontologistes, dont le président du comité du médicament et des dispositifs
+médicaux stériles, ainsi qu'un médecin spécialiste de l'épidémiologie, un
+médecin spécialiste des maladies infectieuses et une sage-femme lorsqu'ils
+existent ; dans les établissements publics de santé, ces membres sont proposés
+par la commission médicale d'établissement.
 
 Les modalités de composition du comité de lutte contre les infections
 nosocomiales sont arrêtées par le conseil d'administration dans les
