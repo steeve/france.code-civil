@@ -1,7 +1,7 @@
 Article R212-6
 ----
-Des sections sont créées dans chacune des chambres régionales des comptes
-ci-après :
+Les chambres régionales des comptes désignées ci-après sont composées de
+sections dont le nombre est fixé comme suit :
 
 Alsace : une section ;
 
@@ -17,7 +17,7 @@ Centre : deux sections ;
 
 Champagne-Ardenne : une section ;
 
-Ile-de-France : sept sections ;
+Ile-de-France : huit sections ;
 
 Languedoc-Roussillon : deux sections ;
 
@@ -37,6 +37,6 @@ Picardie : une section ;
 
 Poitou-Charentes : une section ;
 
-Provence-Alpes-Côte d'Azur : trois sections ;
+Provence-Alpes-Côte d'Azur : quatre sections ;
 
-Rhône-Alpes : trois sections.
+Rhône-Alpes : quatre sections. "
