@@ -12,6 +12,8 @@ suivantes :
 
 3. Obstétrique ;
 
+3. Gynécologie-obstétrique ;
+
 4. Psychiatrie ;
 
 5. Soins de suite ou de réadaptation ;
@@ -77,7 +79,7 @@ scellées ;
 8. Traitement des affections cancéreuses par rayonnements ionisants de haute
 énergie ;
 
-9. Néonatologie et réanimation néonatale ;
+9. Obstétrique, néonatologie, réanimation néonatale ;
 
 10. Traitement de l'insuffisance rénale chronique ;
 
