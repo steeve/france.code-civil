@@ -17,6 +17,8 @@ d. du revenu familial institué par l'article L. 562-1 ;
 e. de l'aide personnalisée au logement instituée par les articles L. 351-1 et
 suivants du code de la construction et de l'habitation ;
 
-2°) les capitaux décès autres que ceux qui sont mentionnés au a. du 1° ci-dessus
-sont censés procurer au conjoint survivant un revenu annuel évalué à 15 p. 100
-de leur montant pendant la période de trois ans à compter du décès.
+2°) les capitaux décès autres que ceux qui sont mentionnés au a du 1° ci-dessus
+sont censés procurer au conjoint survivant, pendant la période de trois ans à
+compter du décès, un revenu annuel calculé sur la base du taux d'intérêt servi
+aux titulaires du livret A des caisses d'épargne en vigueur au 1er janvier de
+chaque année.
