@@ -9,53 +9,53 @@ territoire étranger et amenés au jour par des puits et installations sis en
 France.
 
 II. 1° A compter du 1er janvier 1981 [*date point de départ*], les taux de la
-redevance communale des mines sont fixés à (1) :
+redevance communale des mines sont fixés à :
 
-- 84,80 F par kilogramme d'or contenu pour les minerais aurifères ;
+84,80 F par kilogramme d'or contenu pour les minerais aurifères ;
 
-- 3,44 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
+3,44 F par kilogramme d'uranium contenu pour les minerais d'uranium ;
 
-- 157 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
+157 F par tonne d'oxyde de tungstène contenu pour les minerais de tungstène ;
 
-- 2,88 F par kilogramme d'argent contenu pour les minerais argentifères ;
+2,88 F par kilogramme d'argent contenu pour les minerais argentifères ;
 
-- 0,68 F par tonne nette livrée pour la bauxite ;
+0,68 F par tonne nette livrée pour la bauxite ;
 
-- 0,885 F par tonne nette livrée pour la fluorine.
+0,885 F par tonne nette livrée pour la fluorine.
 
 Pour le chlorure de sodium, les taux de la redevance communale des mines sont
 fixés, à compter du 1er janvier 1981, de la manière suivante :
 
-- 0,844 F par tonne nette livrée pour le sel extrait par abattage ;
+0,844 F par tonne nette livrée pour le sel extrait par abattage ;
 
-- 0,509 F par tonne nette livrée pour le sel extrait en dissolution par sondage
-et livré raffiné ;
+0,509 F par tonne nette livrée pour le sel extrait en dissolution par sondage et
+livré raffiné ;
 
-- 0,171 F par tonne de chlorure de sodium contenu pour le sel extrait en
+0,171 F par tonne de chlorure de sodium contenu pour le sel extrait en
 dissolution par sondage et livré en dissolution (1).
 
 1° bis A compter du 1er janvier 1982, les taux de la redevance communale des
-mines sont fixés à (1) :
+mines sont fixés à :
 
-- 3,17 F par tonne nette extraite pour le charbon ;
+3,17 F par tonne nette extraite pour le charbon ;
 
-- 12,95 F par tonne nette extraite pour le pétrole brut ;
+12,95 F par tonne nette extraite pour le pétrole brut ;
 
-- 3,80 F par mille mètres cubes extraits pour le gaz naturel ;
+3,80 F par mille mètres cubes extraits pour le gaz naturel ;
 
-- 11,87 F par tonne nette livrée pour le propane et le butane ;
+11,87 F par tonne nette livrée pour le propane et le butane ;
 
-- 10,73 F par tonne nette livrée pour l'essence de dégazolinage ;
+10,73 F par tonne nette livrée pour l'essence de dégazolinage ;
 
-- 3,42 F par tonne de soufre contenu pour les minerais de soufre autres que les
+3,42 F par tonne de soufre contenu pour les minerais de soufre autres que les
 pyrites de fer (2).
 
-1° ter. Pour les gisements mis en exploitation à compter du 1er janvier 1992,
-les taux de la redevance communale des mines sont fixés à :
+1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les
+taux de la redevance communale des mines sont fixés à :
 
-- 3,31 F par mille mètres cubes extraits pour le gaz naturel ;
+3,31 F par mille mètres cubes extraits pour le gaz naturel ;
 
-- 11,30 F par tonne nette extraite pour le pétrole brut.
+11,30 F par tonne nette extraite pour le pétrole brut.
 
 2° Les taux de la redevance applicables à partir du 1er janvier 1954 aux
 substances minérales concédées autres que celles mentionnées au 1° et au 1° bis
@@ -70,9 +70,14 @@ des mines par application de l'article 5 du Code minier (3).
 III. Les modalités d'application des I et II sont fixées par décret en Conseil
 d'Etat rendu après avis du conseil général des mines (4).
 
-IV. Les taux prévus au II évoluent chaque année comme l'indice de valeur du
-produit intérieur brut [*PIB*] total, tel qu'il est estimé dans la projection
-économique présentée en annexe au projet de loi de finances de l'année (5).
+IV. Les taux prévus au 1°, 1° bis et 2° du II évoluent chaque année comme
+l'indice de valeur du produit intérieur brut [*PIB*] total, tel qu'il est estimé
+dans la projection économique présentée en annexe au projet de loi de finances
+de l'année (5).
+
+Les taux visés au 1° ter du II évoluent chaque année comme l'indice des prix tel
+qu'il est estimé dans la projection économique présentée en annexe au projet de
+loi de finances de l'année.
 
 V. Les modalités d'attribution et de répartition de la redevance communale sont
 fixées par décrets en Conseil d'Etat (6).

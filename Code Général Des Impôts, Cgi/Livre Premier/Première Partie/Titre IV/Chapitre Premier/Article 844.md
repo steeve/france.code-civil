@@ -1,7 +1,7 @@
 Article 844
 ----
 La taxe proportionnelle de publicité foncière applicable aux inscriptions
-d'hypothèques judiciaires ou conventionnelles visées à l'article 663-1° est
+d'hypothèques judiciaires ou conventionnelles visées au 1° de l'article 663 est
 perçue au taux de 0,60 %.
 
 Elle est liquidée sur les sommes garanties en capital, intérêts et accessoires,
@@ -10,6 +10,8 @@ le bordereau. Il n'est perçu qu'une seule taxe pour chaque créance quel que so
 le nombre des créanciers requérants et celui des débiteurs grevés (1).
 
 Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une
-taxe fixe de 70 F.
+taxe fixe de 100 F (2).
 
 (1) Voir Annexe III, art. 261.
+
+(2) A compter du 15 janvier 1992.

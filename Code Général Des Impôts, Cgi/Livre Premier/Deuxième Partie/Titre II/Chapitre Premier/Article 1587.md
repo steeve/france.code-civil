@@ -62,8 +62,11 @@ les taux de la redevance départementale des mines sont fixés à (2) :
 mentionnées au 1° et au 1° bis, sont fixés dans les conditions prévues à
 l'article 1519-II pour la redevance communale (2).
 
-III. Les taux visés au II varient dans les conditions prévues à l'article
-1519-IV.
+III Les taux visés aux 1°, 1° bis et 2° du II varient dans les conditions
+prévues au premier alinéa du IV de l'article 1519.
+
+Les taux visés au 1° ter du II varient dans les conditions prévues au deuxième
+alinéa du IV de l'article 1519.
 
 (1) Taux à majorer des perceptions prévues aux articles 1641 et 1644.
 
