@@ -1,6 +1,12 @@
 Article 275
 ----
-Le maximum des taxes à percevoir sur les navires pour une opération d'entrée et
-de sortie, par application des articles 271 à 274 ci-dessus est fixé à la somme
-du décuple des taxes perçues en vertu de l'article 277 et du double des taxes
-perçues par application de l'article 278 ci-après.
+A l'occasion de leur séjour dans un port maritime, les navires de plaisance ou
+de sport peuvent être soumis à une redevance dite d'équipement des ports de
+plaisance dont les taux sont variables suivant les ports.
+
+Cette redevance est à la charge du propriétaire du navire.
+
+Les taux applicables dans chaque port sont fixés par arrêté ministériel pris
+dans les formes prévues au premier alinéa de l'article 272 ci-dessus, la
+consultation étant étendue au ministre chargé de la jeunesse et des sports et au
+ministre chargé du tourisme.
