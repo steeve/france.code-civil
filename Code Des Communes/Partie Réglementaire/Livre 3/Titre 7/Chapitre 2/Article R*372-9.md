@@ -1,5 +1,6 @@
 Article R*372-9
 ----
-Lorsque l'usager est alimenté par un service public de distribution, la
-redevance correspondante est assise sur le nombre de mètres cubes d'eau
-[*volume*] réellement prélevé ou, le cas échéant, sur le forfait facturé.
+Lorsque la consommation d'eau est calculée de façon forfaitaire, en application
+du deuxième alinéa du II de l'article 13 de la loi n° 92-3 du 3 janvier 1992 sur
+l'eau, la redevance d'assainissement peut être également calculée
+forfaitairement.

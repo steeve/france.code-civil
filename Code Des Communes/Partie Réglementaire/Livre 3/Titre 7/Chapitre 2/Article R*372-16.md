@@ -1,4 +1,5 @@
 Article R*372-16
 ----
-Conformément à l'article L. 322-5, le budget du service chargé de
-l'assainissement doit s'équilibrer en recettes et en dépenses.
+A défaut de paiement dans un délai de trois mois à compter de la présentation de
+la quittance et dans les quinze jours d'une mise en demeure par lettre
+recommandée avec demande d'avis de réception, la redevance est majorée de 25 %.

@@ -1,6 +1,9 @@
 Article R*372-15
 ----
-A défaut de paiement dans un délai de trois mois à compter de la présentation de
-la quittance et dans les quinze jours d'une mise en demeure par lettre
-recommandée avec demande d'avis de réception [*conditions de forme*], la
-redevance est majorée de 25 p. 100 [*pourcentage - sanctions*].
+La facturation des sommes dues par les usagers est faite au nom du titulaire de
+l'abonnement à l'eau, à défaut au nom du propriétaire du fonds de commerce, à
+défaut au nom du propriétaire de l'immeuble.
+
+Toutefois, la part de la redevance d'assainissement non collectif qui porte sur
+le contrôle de la conception, de l'implantation et de la bonne exécution des
+installations est facturée au propriétaire de l'immeuble.
