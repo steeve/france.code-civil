@@ -20,13 +20,7 @@ Occupation de terrains et d'immeubles ;
 
 Visite de tout ou partie des zones réservées de l'aérodrome.
 
-Mise en place et fonctionnement des dispositifs destinés à assurer la sûreté des
-usagers du transport aérien ; ces dispositifs comprennent exclusivement ceux qui
-sont nécessaires pour compléter les moyens dont disposent normalement les
-services chargés de la police en vue d'assurer l'ordre public sur les
-aérodromes.
-
-Les redevances doivent être appropriées aux services rendus.
+Les redevances devront être appropriées aux services rendus.
 
 Les redevances revenant à l'Etat, à des collectivités publiques et
 établissements publics sont perçues par un comptable public.
