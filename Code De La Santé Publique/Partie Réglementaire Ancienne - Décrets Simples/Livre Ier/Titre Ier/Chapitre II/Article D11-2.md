@@ -10,6 +10,8 @@ Maladies infectieuses :
 
 - brucellose ;
 
+- charbon ;
+
 - choléra ;
 
 - diphtérie ;
