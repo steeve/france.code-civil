@@ -2,7 +2,7 @@ Article 219
 ----
 I. Pour le calcul de l'impôt, le bénéfice imposable est arrondi au franc ou à
 l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée
-pour I.
+pour 1.
 
 Le taux normal de l'impôt est fixé à 33,1/3 %.
 
@@ -20,7 +20,7 @@ exercices ouverts à compter du 1er janvier 1994 sont imputées sur les
 moins-values à long terme imposées au taux de 19 %. L'excédent des moins-values
 à long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994
 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à
-raison des 19/33,33e de son montant.
+raison des 19/33,33e de son montant ;
 
 a ter. Le régime des plus-values et moins-values à long terme cesse de
 s'appliquer au résultat de la cession de titres du portefeuille réalisée au
@@ -68,7 +68,7 @@ date.
 Ces règles s'appliquent lorsque l'entreprise transfère des titres d'un compte du
 bilan au compte de titres de participation ou procède à des transferts entre
 l'un des comptes du bilan et l'une des subdivisions spéciales mentionnées au
-troisième alinéa sous réserve que le premier terme de la différence mentionnée
+troisième alinéa, sous réserve que le premier terme de la différence mentionnée
 au cinquième alinéa s'entend, pour les titres cotés, du cours moyen des trente
 derniers jours précédant celui du transfert et, pour les titres non cotés, de
 leur valeur probable de négociation et sans préjudice de l'application des
@@ -116,7 +116,7 @@ immédiate des plus-values et des provisions omises ; les moins-values ne peuven
 être déduites que des résultats imposables de l'exercice au cours duquel les
 titres considérés sont cédés. L'omission des valeurs ou provisions devant
 figurer sur cet état entraîne l'application de la pénalité prévue à l'article
-1734 quater.
+1734 quater ;
 
 a quater. Pour les exercices ouverts à compter du 1er janvier 1997, le régime
 des plus et moins-values à long terme cesse de s'appliquer à la plus ou
@@ -133,32 +133,33 @@ les bénéfices imposables. Cette imputation n'est possible que dans la limite d
 gains nets retirés de la cession des éléments d'actifs exclus du régime des plus
 et moins-values à long terme en application du premier alinéa ;
 
-b. Par exception aux deuxième et quatrième alinéas, pour les redevables ayant
-réalisé un chiffre d'affaires de moins de 50 millions de francs au cours de
-l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le
-taux de l'impôt applicable au bénéfice imposable est fixé, dans la limite de 250
-000 F de bénéfice imposable par période de douze mois, à 25 % pour les exercices
-ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier
-2002. Toutefois, pour les exercices ouverts en 2001, les résultats relevant du
-régime des plus values à long terme sont imposés au taux prévu au a et ne sont
-pas pris en compte pour l'appréciation de la limite de 250 000 F.
+b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
+les redevables ayant réalisé un chiffre d'affaires de moins de 50 millions de
+francs au cours de l'exercice ou de la période d'imposition, ramené s'il y a
+lieu à douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé,
+dans la limite de 250 000 F de bénéfice imposable par période de douze mois, à
+25 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à
+compter du 1er janvier 2002. Toutefois, pour les exercices ouverts en 2001, les
+résultats relevant du régime des plus values à long terme sont imposés au taux
+prévu au a et ne sont pas pris en compte pour l'appréciation de la limite de 250
+000 F.
 
 Pour la société mère d'un groupe mentionné à l'article 223 A, le chiffre
 d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune
 des sociétés membres de ce groupe. Le capital des sociétés mentionnées au
-premier alinéa doit être entièrement libéré et détenu de manière continue pour
-75 % au moins par des personnes physiques ou par une société répondant aux mêmes
-conditions dont le capital est détenu, pour 75 % au moins, par des personnes
-physiques. Pour la détermination de ce pourcentage, les participations des
-sociétés de capital-risque, des fonds communs de placement à risques, des
-sociétés de développement régional et des sociétés financières d'innovation ne
-sont pas prises en compte à la condition qu'il n'existe pas de lien de
-dépendance au sens du 1 bis de l'article 39 terdecies entre la société en cause
-et ces dernières sociétés ou ces fonds.
+premier alinéa du présent b doit être entièrement libéré et détenu de manière
+continue pour 75 % au moins par des personnes physiques ou par une société
+répondant aux mêmes conditions dont le capital est détenu, pour 75 % au moins,
+par des personnes physiques. Pour la détermination de ce pourcentage, les
+participations des sociétés de capital-risque, des fonds communs de placement à
+risques, des sociétés de développement régional et des sociétés financières
+d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de
+lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société
+en cause et ces dernières sociétés ou ces fonds ;
 
-c. (abrogé).
+c. (abrogé) ;
 
-d. à e. (Sans objet).
+d. à e. (Sans objet) ;
 
 f. Les sociétés mentionnées aux 1 à 3 de l'article 206, soumises à l'impôt sur
 les sociétés dans les conditions de droit commun, autres que les sociétés à

@@ -6,13 +6,7 @@ déduire chaque année de leur bénéfice une somme plafonnée soit à 15 000 F,
 10 p. 100 de la fraction de bénéfice comprise entre 150 000 F et 500 000 F. Le
 taux de 10 p. 100 est porté à 15 p. 100 pour les exercices ouverts à compter du
 1er janvier 1998 et à 20 p. 100 pour les exercices ouverts à compter du 1er
-janvier 1999. Le taux de 10 p. 100 est porté à 20 p. 100 pour les exercices
-ouverts à compter du 1er janvier 1997 pour les exploitants qui remplissent les
-conditions d'obtention des aides prévues pour la réalisation de travaux
-d'amélioration et de construction, qui s'incorporent aux bâtiments
-d'exploitation rurale, destinés à satisfaire aux obligations prévues par les
-textes d'application de la loi n° 76-663 du 19 juillet 1976 modifiée relative
-aux installations classées pour la protection de l'environnement.
+janvier 1999.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, la limite de la déduction visée
@@ -49,11 +43,11 @@ d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 20 p. 10
 la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
 moyenne, il n'est pas tenu compte des reports déficitaires.
 
-II. L'apport d'une exploitation individuelle, dans les conditions visées au
-sixième alinéa du I de l'article 151 octies à une société civile agricole par un
-exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant
-celui de l'apport n'est pas considéré pour l'application du I comme une
-cessation d'activité si la société bénéficiaire de l'apport en remplit les
+II. L'apport d'une exploitation individuelle dans les conditions visées au
+sixième alinéa du I de l'article 151 octies, à une société civile agricole par
+un exploitant agricole qui a pratiqué la déduction au titre d'un exercice
+précédant celui de l'apport n'est pas considéré pour l'application du I comme
+une cessation d'activité si la société bénéficiaire de l'apport en remplit les
 conditions et s'engage à utiliser la déduction conformément à son objet dans les
 cinq années qui suivent celle au cours de laquelle elle a été pratiquée.
 

@@ -15,3 +15,9 @@ justification du paiement antérieur des droits.
 Toute introduction ultérieure de boissons doit être légitimée par un document
 mentionné au II de l'article 302 M ou une quittance attestant du paiement des
 droits.
+
+Les personnes ou associations qui établissent des débits de boissons temporaires
+vendant des boissons des deux premiers groupes en vertu d'une autorisation
+municipale, ou du préfet de police à Paris, délivrée au titre des articles L.
+3334-2 et L. 3335-4 du code de la santé publique ne sont pas soumises à
+l'obligation déclarative prévue par le présent article.

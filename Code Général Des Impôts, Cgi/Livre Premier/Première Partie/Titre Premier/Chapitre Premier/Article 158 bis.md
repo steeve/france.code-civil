@@ -28,3 +28,9 @@ Le crédit d'impôt calculé dans les conditions prévues au premier alinéa est
 majoré d'un montant égal à 20 % du précompte versé par la société distributrice.
 Pour le calcul de cette majoration, il n'est pas tenu compte du précompte dû à
 raison d'un prélèvement sur la réserve des plus-values à long terme.
+
+Le taux du crédit d'impôt prévu au premier alinéa est fixé à 25 % pour les
+crédits d'impôt utilisés en 2001 et à 15 % pour les crédits d'impôt utilisés à
+compter du 1er janvier 2002. La majoration mentionnée au deuxième alinéa est
+portée à 50 % pour les crédits d'impôt utilisés en 2001 et à 70 % pour les
+crédits d'impôt utilisés à compter du 1er janvier 2002.

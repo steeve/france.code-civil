@@ -19,7 +19,7 @@ donation ou de vente ;
 
 3° L'affirmation que le donateur, le défunt ou le vendeur n'a pas bénéficié pour
 cet immeuble des réductions d'impôt prévues aux articles 199 decies A, 199
-decies B et 199 undecies du code général des impôts ;
+decies B, 199 undecies et 199 undecies A du code général des impôts ;
 
 4° En cas de vente, l'engagement mentionné au 3° de l'article 1055 bis du code
 général des impôts.

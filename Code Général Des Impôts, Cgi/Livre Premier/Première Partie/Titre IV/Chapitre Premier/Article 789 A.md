@@ -6,7 +6,7 @@ industrielle, commerciale, artisanale, agricole ou libérale si les conditions
 suivantes sont réunies :
 
 a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un
-engagement collectif de conservation d'une durée minimale de huit ans en cours
+engagement collectif de conservation d'une durée minimale de deux ans en cours
 au jour du décès, qui a été pris par le défunt, pour lui et ses ayants cause à
 titre gratuit, avec d'autres associés ;
 
@@ -33,7 +33,7 @@ conservation ;
 
 c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la
 déclaration de succession, pour lui et ses ayants cause à titre gratuit, de
-conserver les parts ou les actions transmises pendant une durée de huit ans à
+conserver les parts ou les actions transmises pendant une durée de six ans à
 compter de la date d'expiration du délai visé au a.
 
 En cas de démembrement de propriété, l'engagement de conservation est signé

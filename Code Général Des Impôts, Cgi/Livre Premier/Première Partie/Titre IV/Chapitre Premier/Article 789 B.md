@@ -7,12 +7,12 @@ industrielle, commerciale, artisanale, agricole ou libérale si les conditions
 suivantes sont réunies :
 
 a. L'entreprise individuelle mentionnée ci-dessus a été détenue depuis plus de
-trois ans par le défunt lorsqu'elle a été acquise à titre onéreux ;
+deux ans par le défunt lorsqu'elle a été acquise à titre onéreux ;
 
 b. Chacun des héritiers, donataires ou légataires prend l'engagement dans la
 déclaration de succession, pour lui et ses ayants cause à titre gratuit, de
 conserver l'ensemble des biens affectés à l'exploitation de l'entreprise pendant
-une durée de huit ans à compter de la date du décès.
+une durée de six ans à compter de la date du décès.
 
 En cas de démembrement de propriété, l'engagement de conservation est signé
 conjointement par l'usufruitier et le nu-propriétaire. En cas de réunion de

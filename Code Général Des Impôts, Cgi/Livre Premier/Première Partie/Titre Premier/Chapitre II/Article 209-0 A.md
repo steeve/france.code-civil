@@ -50,7 +50,7 @@ mentionnée au a sont rémunérés par des dividendes ouvrant droit à l'avoir
 fiscal. Les produits des titres définis à la phrase précédente sont constitués
 directement par ces dividendes et par les plus-values résultant de leur cession.
 
-((Les entreprises régies par le code des assurances qui détiennent, à la clôture
+Les entreprises régies par le code des assurances qui détiennent, à la clôture
 du premier exercice d'application du présent article, des titres d'organismes de
 placement collectif en valeurs mobilières investis principalement en actions
 sans atteindre le seuil de 90 % sont dispensées de constater l'écart mentionné
@@ -60,13 +60,13 @@ copie de l'engagement à la déclaration de résultat de l'exercice. Si cet
 engagement n'est pas respecté, l'écart non imposé est rattaché au résultat
 imposable de l'exercice au cours duquel il aurait dû être imposé en application
 du deuxième alinéa ; l'entreprise produit alors au service des impôts compétent
-une déclaration rectificative avant le 1er décembre 1998)) (M).
+une déclaration rectificative avant le 1er décembre 1998.
 
 Pour les parts d'un fonds commun de placement à risques qui remplit les
-conditions prévues au 1° bis du II de l'article 163 quinquies B, les entreprises
-peuvent s'abstenir de constater l'écart mentionné au deuxième alinéa à condition
-de s'engager à les conserver pendant un délai d'au moins cinq ans à compter de
-leur date d'acquisition. L'engagement est réputé avoir été pris dès lors que cet
+conditions prévues au II de l'article 163 quinquies B, les entreprises peuvent
+s'abstenir de constater l'écart mentionné au deuxième alinéa à condition de
+s'engager à les conserver pendant un délai d'au moins cinq ans à compter de leur
+date d'acquisition. L'engagement est réputé avoir été pris dès lors que cet
 écart n'a pas été soumis spontanément à l'impôt. En cas de rupture de
 l'engagement, l'entreprise acquitte spontanément une taxe dont le montant est
 calculé en appliquant à l'impôt qui aurait été versé en application du deuxième
@@ -128,5 +128,3 @@ clôture de l'exercice, le montant de l'écart retenu est égal à celui constat
 depuis le plus tardif des événements suivants :
 
 l'ouverture de l'exercice ou l'acquisition des parts ou actions.
-
-(M) Modification.

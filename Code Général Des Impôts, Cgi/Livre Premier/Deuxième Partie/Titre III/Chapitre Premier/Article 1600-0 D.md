@@ -9,7 +9,7 @@ personnes visées au III de l'article 125 A précité.
 II. Sont également assujettis à la contribution selon les modalités prévues au
 I, pour la part acquise à compter du 1er janvier 1997 et, le cas échéant,
 constatée à compter de cette même date en ce qui concerne les placements visés
-du 3 au 10 :
+du 3 au 9 :
 
 1. Les intérêts et primes d'épargne des comptes d'épargne logement visés à
 l'article L. 315-1 du code de la construction et de l'habitation, respectivement
@@ -34,13 +34,13 @@ respectivement lors de leur inscription en compte et de leur versement ;
 valeurs ou de la clôture d'un plan d'épargne en actions défini à l'article 163
 quinquies D dans les conditions ci-après :
 
-a) Avant l'expiration de la huitième année, le gain net est déterminé par
+a. Avant l'expiration de la huitième année, le gain net est déterminé par
 différence entre, d'une part, la valeur liquidative du plan ou la valeur de
 rachat pour les contrats de capitalisation à la date du retrait ou du rachat et,
 d'autre part, la valeur liquidative ou de rachat au 1er janvier 1997 majorée des
 versements effectués depuis cette date ;
 
-b) Après l'expiration de la huitième année, le gain net afférent à chaque
+b. Après l'expiration de la huitième année, le gain net afférent à chaque
 retrait ou rachat est déterminé par différence entre, d'une part, le montant du
 retrait ou rachat et, d'autre part, une fraction de la valeur liquidative ou de
 rachat au 1er janvier 1997 augmentée des versements effectués sur le plan depuis
@@ -59,14 +59,21 @@ conditions prévues à l'article L. 442-4 du même code ;
 7. Lorsque les intéressés demandent la délivrance des sommes ou valeurs
 provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du
 livre IV du code du travail, le revenu constitué par la différence entre le
-montant de ces sommes ou valeurs et le montant des sommes versées dans le plan ;
+montant de ces sommes ou valeurs et le montant des sommes versées dans le plan
+augmentées, le cas échéant, des sommes attribuées au titre de la réserve
+spéciale de la participation des salariés aux résultats de l'entreprise et des
+sommes versées dans le ou les précédents plans, à concurrence du montant des
+sommes transférées dans les conditions prévues aux articles L. 442-5 et L. 443-2
+du code du travail, l'opération de transfert ne constituant pas une délivrance
+des sommes concernées ;
 
 8. Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II de l'article 163
-quinquies B, les gains nets mentionnés au 1 du III de l'article 150-0 A ainsi
-que les distributions effectuées par les sociétés de capital-risque dans les
-conditions prévues au deuxième alinéa de l'article 163 quinquies C, lors de leur
-versement ;
+quinquies B, les distributions effectuées par les sociétés de capital-risque
+dans les conditions prévues aux deuxième à cinquième alinéas du I et aux
+deuxième à sixième alinéas du II de l'article 163 quinquies C, lors de leur
+versement, ainsi que les gains nets mentionnés aux 1 et 1 bis du III de
+l'article 150-0 A ;
 
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
@@ -88,8 +95,9 @@ soumis l'année précédente à la contribution sociale généralisée au cours 
 mois de décembre et janvier et retenus à hauteur de 90 % de leur montant.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
-le taux de la contribution fixé à l'article 1600-0 E ; son paiement doit
-intervenir le 30 novembre au plus tard.
+le taux de la contribution fixé à l'article 1600-0 E. Son paiement doit
+intervenir le 30 septembre pour sept neuvièmes de son montant et le 30 novembre
+au plus tard pour les deux neuvièmes restants.
 
 2. Lors du dépôt en janvier et février des déclarations, l'établissement payeur
 procède à la liquidation de la contribution. Lorsque le versement effectué en

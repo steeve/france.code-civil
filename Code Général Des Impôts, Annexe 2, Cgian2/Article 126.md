@@ -16,15 +16,6 @@ détermination de son résultat consolidé, est limitée au chiffre obtenu par
 l'application de ces dispositions, selon le cas, au résultat consolidé, au
 chiffre d'affaires consolidé du groupe ou au montant consolidé de ses ventes.
 
-Toutefois, pour l'application des dispositions de l'article 39 ter du code
-général des impôts, le chiffre d'affaires consolidé n'est pris en considération
-qu'à concurrence du montant des ventes des produits marchands extraits des
-divers gisements. Les provisions constituées en application de ce texte peuvent,
-sauf disposition contraire de la décision d'agrément, être employées dans tous
-pays, Etats ou territoires dans lesquels la société agréée possède des
-exploitations directes ou indirectes dont les résultats doivent être compris
-dans le résultat consolidé du groupe.
-
 4. Des arrêtés du ministre de l'économie et des finances adapteront, en tant que
 de besoin, les conditions de forme auxquelles peuvent être subordonnées
 certaines déductions de charges, lorsque l'observation de ces conditions par les
