@@ -32,7 +32,10 @@ secret des informations mentionnées à l'article L. 5131-7 ;
 
 7° Les modalités d'application de l'article L. 5131-10 en ce qui concerne le
 contenu des informations demandées, les règles assurant le respect de leur
-confidentialité et le délai maximum de réponse.
+confidentialité et le délai maximum de réponse ;
+
+8° Les conditions de mise à la disposition du public des informations
+mentionnées à l'article L. 5131-7-1.
 
 Des décrets fixent les conditions d'utilisation professionnelle des produits
 cosmétiques lorsque cette utilisation est susceptible de comporter des dangers
