@@ -38,3 +38,14 @@ l'habitation ;
 
 " 9° La réalisation d'opérations de logements-foyers à usage locatif tels que
 définis aux articles R. 351-55 et R. 351-56.
+
+" Dans les limites et conditions fixées par la présente section, des subventions
+définies par la sous-section 2 peuvent être accordées pour financer
+l'acquisition de logements locatifs et, le cas échéant, les travaux
+d'amélioration. Les dispositions des articles R. 331-9 à R. 331-11 et R. 331-24
+relatives aux opérations d'acquisition-amélioration sont applicables à ces
+logements, y compris en l'absence de travaux. Le coût d'acquisition de ces
+logements ne doit pas excéder un pourcentage du prix témoin des opérations
+d'acquisition-amélioration fixé par arrêté des ministres chargés de la
+construction et de l'habitation et des finances pour des zones géographiques
+déterminées. "

@@ -38,16 +38,3 @@ la redevance pour installations de distribution de carburants d'aviation, à
 l'application, en dehors des territoires d'outre-mer, de l'article 195 bis du
 Code des douanes, dans la mesure où cette redevance s'applique aux quantités de
 produits pétroliers distribués.
-
-D - Par dérogation aux dispositions de l'article R. 224-1, la redevance pour
-mise en place et fonctionnement des dispositifs destinés à assurer la sûreté des
-usagers du transport aérien est perçue par la collectivité ou l'établissement
-gestionnaire de l'aérodrome selon les règles de recouvrement qui lui sont
-propres. Les conditions d'établissement et de perception ainsi que les taux de
-cette redevance sont fixés par arrêté ministériel après avis du conseil
-supérieur de l'aviation marchande. Les taux sont établis pour chaque aérodrome
-ou catégories d'aérodromes en fonction des dépenses qui y sont exposées pour
-assurer la sûreté. Cet arrêté détermine également les conditions de répartition
-du produit de la redevance entre l'Etat et les collectivités ou établissements
-gestionnaires en fonction des dépenses qu'ils supportent respectivement au titre
-des dispositifs ci-dessus mentionnés.
