@@ -5,7 +5,7 @@ d'assurance maladie et maternité et qu'ils résident en France métropolitaine 
 soient détachés temporairement à l'étranger, les ministres des cultes et les
 membres des congrégations et collectivités religieuses ainsi que les personnes
 titulaires de la pension de vieillesse ou de la pension d'invalidité instituée
-respectivement par l'article L. 721-5 et par l'article L. 721-9 relèvent du
+respectivement par l'article L. 721-5 et par l'article L. 381-18-1 relèvent du
 régime général de sécurité sociale, dans les conditions prévues par la présente
 section et sont affiliés à la caisse d'assurance vieillesse, invalidité et
 maladie des cultes mentionnée à l'article L. 721-2.

@@ -1,22 +1,15 @@
 Article R381-62
 ----
-L'arrêté prévu au deuxième alinéa de l'article L. 381-17 fixe les bases
-forfaitaires et les taux des cotisations, compte tenu du coût moyen par assuré
-des prestations auxquelles ouvre droit le régime prévu par l'article L. 381-12.
+La base forfaitaire mentionnée respectivement aux 1° et 2° de l'article L.
+381-17 correspond, pour chaque mois, à la valeur horaire du salaire minimum de
+croissance en vigueur, multipliée par le nombre légal d'heures de travail
+mensuel en vigueur.
 
-La somme de la cotisation due par les assurés non pensionnés et de la cotisation
-due pour ces assurés par les associations, congrégations ou collectivités
-religieuses dont ils relèvent ne peut excéder un montant égal à 370 fois la
-valeur horaire du salaire minimum de croissance en vigueur à la date de l'arrêté
-prévu au deuxième alinéa de l'article L. 381-17 susmentionné
+Le taux des cotisations mentionnées respectivement aux 1° et 2° de l'article L.
+381-17 est égal au taux des cotisations respectivement à la charge des
+employeurs et des salariés mentionnés à l'article L. 241-2.
 
-Les cotisations dues par les titulaires d'une pension servie en application de
-l'article L. 721-1 et celles dues à leur titre par les associations,
-congrégations ou collectivités religieuses dont ils relèvent sont calculées en
-appliquant aux cotisations mentionnées à l'alinéa précédent un abattement fixé
-par l'arrêté susvisé aux alinéas précédents. Cet abattement ne peut être
-inférieur à 50 %.
-
-Le montant des réductions accordées en application du troisième alinéa de
-l'article L. 381-17 ne peut excéder, au titre d'un exercice, 5 p. 100 du produit
-des cotisations de l'année précédente.
+A titre transitoire, du 1er janvier 2002 jusqu'au 30 juin 2005, la base
+mentionnée au premier alinéa est augmentée de la valeur de la garantie de
+rémunération mensuelle la plus élevée prévue à l'article 32 de la loi n° 2000-37
+du 19 janvier 2000 modifiée.
