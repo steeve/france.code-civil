@@ -24,4 +24,6 @@ d) Fécondation in vitro par micro-manipulation ;
 
 e) Conservation des gamètes ;
 
-f) Conservation des embryons en vue de transfert.
+f) Conservation des embryons en vue de transfert ;
+
+g) Conservation des embryons en vue de leur accueil.
