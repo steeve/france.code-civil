@@ -14,8 +14,8 @@ au taux de 3,8 % les revenus visés aux 1° et 2° du III de l'article L. 136-2,
 perçus par les personnes dont la cotisation d'impôt sur le revenu de l'année
 précédente est inférieure au montant mentionné au 1 bis de l'article 1657 du
 code général des impôts et dont le montant des revenus de l'avant-dernière année
-tels que définis au V de l'article 1417 du code général des impôts excède les
-seuils déterminés en application des dispositions des I et IV du même article.
+tels que définis au IV de l'article 1417 du code général des impôts excède les
+seuils déterminés en application des dispositions des I et III du même article.
 
 IV. - Le produit des contributions mentionnées au I est versé à la Caisse
 nationale des allocations familiales pour la part correspondant à un taux de 1,1

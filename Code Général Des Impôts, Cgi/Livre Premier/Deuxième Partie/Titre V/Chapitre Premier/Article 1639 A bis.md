@@ -28,12 +28,12 @@ d'enlèvement des ordures ménagères, prises par les communes ou leurs
 établissements publics de coopération intercommunale conformément aux articles
 1520, 1609 bis, 1609 quater, 1609 quinquies, 1609 quinquies C et 1609 nonies D
 dans leur rédaction en vigueur avant l'adoption de cette loi, restent
-applicables pour l'établissement des impositions afférentes à 2000 et 2001, sous
-réserve des délibérations prises avant le 15 octobre 2000 pour percevoir la taxe
-dans les conditions prévues par cette même loi.
+applicables pour l'établissement des impositions afférentes à 2000, 2001 et
+2002, sous réserve des délibérations prises avant le 15 octobre 2001 pour
+percevoir la taxe dans les conditions prévues par cette même loi.
 
-Au 15 octobre 2001, les communes ou les établissements public s de coopération
+Au 15 octobre 2002, les communes ou les établissements publics de coopération
 intercommunale devront s'être mis en conformité avec la loi pour pouvoir
 continuer à percevoir la taxe d'enlèvement des ordures ménagères au 1er janvier
-2002. A défaut, ces collectivités perdront le bénéfice de la perception de cette
+2003. A défaut, ces collectivités perdront le bénéfice de la perception de cette
 taxe.

@@ -25,11 +25,17 @@ compter de la troisième année d'attribution de la dotation dans la même
 catégorie, une attribution par habitant supérieure à 120 % de la dotation par
 habitant perçue l'année précédente.
 
-Les disponibilités dégagées par la mise en oeuvre des dispositions de l'alinéa
-précédent sont réparties à l'ensemble des établissements de la catégorie visée à
-ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la
-dotation de base et la dotation de péréquation ne soient pondérées par le
-coefficient d'intégration fiscale.
+Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas aux
+communautés de communes créées depuis le 1er janvier 1992 tant que leur
+attribution par habitant reste inférieure à 120 % de l'attribution par habitant
+perçue en application des dispositions du premier et du deuxième alinéa de
+l'article L. 5211-32.
+
+Les disponibilités dégagées par la mise en oeuvre des dispositions du cinquième
+alinéa du présent article sont réparties à l'ensemble des établissements de la
+catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30
+sans que la dotation de base et la dotation de péréquation ne soient pondérées
+par le coefficient d'intégration fiscale.
 
 Les communautés urbaines faisant application des dispositions de l'article 1609
 nonies C du code général des impôts et qui sont issues de la transformation de

@@ -6,6 +6,10 @@ l'allocataire, du nombre de personnes à charge vivant au foyer, du fait que le
 bénéficiaire occupe son logement en qualité de locataire d'un appartement meublé
 ou non meublé ou d'accédant à la propriété.
 
+La prise en compte des ressources peut faire l'objet de dispositions
+spécifiques, lorsque le demandeur est âgé de moins de vingt-cinq ans et qu'il
+bénéficie d'un contrat de travail autre qu'un contrat à durée indéterminée.
+
 Le loyer principal effectivement payé n'est pris en considération que dans la
 limite du prix licite et de plafonds mensuels fixés par arrêté interministériel.
 

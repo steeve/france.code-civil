@@ -1,66 +1,36 @@
 Article 1417
 ----
-I. Pour les impositions établies au titres de 1998, les dispositions de
-l'article 1414 bis sont applicables aux contribuables dont le montant des
-revenus de 1997 n'excède pas la somme de 25 000 F pour la première part de
-quotient familial majorée de 10 000 F pour chaque demi-part supplémentaire,
-retenues pour le calcul de l'impôt sur le revenu au titre de 1997.
-
-I bis. Pour les impositions établies au titre de 1997, les dispositions de
+I. - Pour les impositions établies au titre de 2000, les dispositions de
 l'article 1391, du 3 du II et du III de l'article 1411, des 2° et 3° du I de
-l'article 1414 ainsi que de l'article 1414 A sont applicables aux contribuables
-dont le montant des revenus de 1996 n'excède pas la somme de 43 080 F, pour la
-première part de quotient familial, majorée de 11 530 F pour chaque demi-part
-supplémentaire, retenues pour le calcul de l'impôt sur le revenu au titre de
-1996. Pour la Martinique, la Guadeloupe et la Réunion, les montants des revenus
-sont fixés à 50 990 F, pour la première part, majorée de 12 190 F pour la
-première demi-part et 11 530 F pour chaque demi-part supplémentaire à compter de
-la deuxième. Pour la Guyane, ces montants sont fixés respectivement à 53 290 F,
-14 670 F et 11 530 F.
-
-II. Pour les impositions établies au titre de 1997, les dispositions de
-l'article 1414 B sont applicables aux contribuables dont le montant des revenus
-de 1996 n'excède pas la somme de 48 950 F, pour la première part de quotient
-familial, majorée de 11 530 F pour chaque demi-part supplémentaire, retenues
-pour le calcul de l'impôt sur le revenu au titre de 1996. Pour la Martinique, la
-Guadeloupe et la Réunion, les montants des revenus sont fixés à 55 020 F, pour
-la première part, majorée de 16 550 F pour la première demi-part et 11 530 F
+l'article 1414 sont applicables aux contribuables dont le montant des revenus de
+1999 n'excède pas la somme de 44 110 F, pour la première part de quotient
+familial, majorée de 11 790 F pour chaque demi-part supplémentaire, retenues
+pour le calcul de l'impôt sur le revenu au titre de 1999. Pour la Martinique, la
+Guadeloupe et la Réunion, les montants des revenus sont fixés à 52 200 F, pour
+la première part, majorée de 12 470 F pour la première demi-part et 11 790 F
 pour chaque demi-part supplémentaire à compter de la deuxième. Pour la Guyane,
-ces montants sont fixés à 57 990 F, pour la première part, majorée de 18 630 F
-pour la première demi-part, 12 650 F pour la deuxième demi-part et 11 530 F pour
-chaque demi-part supplémentaire à compter de la troisième.
+ces montants sont fixés respectivement à 54 570 F, 15 020 F et 11 790 F.
 
-III. Pour les impositions établies au titre de 1998, les dispositions de
-l'article 1414 C sont applicables aux contribuables dont le montant des revenus
-de 1997 n'excède pas la somme de 102 370 F, pour la première part de quotient
-familial, majorée de 23 920 F pour la première demi-part et 18 830 F à compter
+II. - Pour les impositions établies au titre de 2000, les dispositions de
+l'article 1414 A sont applicables aux contribuables dont le montant des revenus
+de 1999 n'excède pas la somme de 103 710 F, pour la première part de quotient
+familial, majorée de 24 230 F pour la première demi-part et 19 070 F à compter
 de la deuxième demi-part supplémentaire, retenues pour le calcul de l'impôt sur
-le revenu au titre de 1997. Pour la Martinique, la Guadeloupe et la Réunion, les
-montants des revenus sont fixés à 123 730 F, pour la première part, majorée de
-26 260 F pour la première demi-part, 25 030 F pour la deuxième demi-part et 18
-830 F pour chaque demi-part supplémentaire à compter de la troisième. Pour la
-Guyane, ces montants sont fixés à 135 600 F pour la première part, majorée de 26
-260 F pour chacune des deux premières demi-parts, 22 370 F pour la troisième
-demi-part et 18 830 F pour chaque demi-part supplémentaire à compter de la
+le revenu au titre de 1999. Pour la Martinique, la Guadeloupe et la Réunion, les
+montants des revenus sont fixés à 125 350 F, pour la première part, majorée de
+26 600 F pour la première demi-part, 25 350 F pour la deuxième demi-part et 19
+070 F pour chaque demi-part supplémentaire à compter de la troisième. Pour la
+Guyane, ces montants sont fixés à 137 370 F pour la première part, majorée de 26
+600 F pour chacune des deux premières demi-parts, 22 660 F pour la troisième
+demi-part et 19 070 F pour chaque demi-part supplémentaire à compter de la
 quatrième.
 
-IV. Les dispositions des I bis et II s'appliquent dans les mêmes conditions aux
-impositions établies au titre de 1998 et des années suivantes. Toutefois, chaque
-année, l'indexation des montants de revenus est identique à l'indexation de la
-limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+III. - Les dispositions des I et II s'appliquent dans les mêmes conditions aux
+impositions établies au titre de 2001 et des années suivantes. Toutefois, chaque
+année, les montants de revenus sont indexés comme la limite supérieure de la
+première tranche du barème de l'impôt sur le revenu.
 
-Les dispositions du I s'appliquent dans les mêmes conditions aux impositions
-établies au titre de 1999 et des années suivantes. Toutefois, chaque année,
-l'indexation des montants de revenus est identique à l'indexation de la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu.
-
-Les dispositions du premier alinéa du III s'appliquent dans les mêmes conditions
-aux impositions établies au titre de 1999 et des années suivantes. Toutefois,
-chaque année, l'indexation des montants de revenus est identique à l'indexation
-de la limite supérieure de la première tranche du barème de l'impôt sur le
-revenu.
-
-V. 1° Pour l'application du présent article, le montant des revenus s'entend du
+IV. 1° Pour l'application du présent article, le montant des revenus s'entend du
 montant net après application éventuelle des règles de quotient définies à
 l'article 163-0 A des revenus et plus-values retenus pour l'établissement de
 l'impôt sur le revenu au titre de l'année précédente.
@@ -80,10 +50,4 @@ ceux perçus par les fonctionnaires des organisations internationales, ainsi que
 de ceux exonérés par application d'une convention internationale relative aux
 doubles impositions.
 
-Ces dispositions s'appliquent pour la détermination du montant des revenus de
-l'année 1997 et des années suivantes.
-
-2° Les limites de revenus à retenir pour l'application des articles 1414 B et
-1414 C sont déterminées en tenant compte de la somme du nombre de parts retenues
-pour l'établissement de l'impôt sur le revenu de chacune des personnes au nom
-desquelles la taxe d'habitation est établie.
+2°) Abrogé (à compter des impositions établies au titre de 2000.)

@@ -77,11 +77,11 @@ d'emprunts contractés par l'Etat et par les collectivités publiques ou privée
 l'ordonnance n° 67-830 du 27 septembre 1967 et des textes pris pour son
 application ;
 
-7° (Disposition devenue sans objet : décret n° 83-359 du 2 mai 1983, art. 21) ;
+7° (sans objet) ;
 
 8° (Abrogé) ;
 
-9° (Disposition périmée).
+9° (périmé).
 
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
 modifiée portant création des chèques-vacances.
@@ -95,9 +95,10 @@ chapitres II et III du titre I du livre III du code de la consommation ;
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal
 ;
 
-14° Les minutes, originaux et expéditions des actes constatant la formation de
-sociétés en nom collectif, en commandite simple, à responsabilité limitée et par
-actions ainsi que des sociétés civiles à objet agricole ;
+14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes
+constatant la formation de sociétés en nom collectif, en commandite simple, à
+responsabilité limitée et par actions ainsi que des sociétés civiles à objet
+agricole ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n°
 87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs,

@@ -1,11 +1,10 @@
 Article 1636 B sexies
 ----
 I. 1. Sous réserve des dispositions des articles 1636 B septies et 1636 B
-decies, les conseils régionaux autres que celui de la région d'Ile-de-France,
-les conseils généraux, les conseils municipaux et les instances délibérantes des
-organismes de coopération intercommunale dotés d'une fiscalité propre votent
-chaque année les taux des taxes foncières, de la taxe d'habitation et de la taxe
-professionnelle. Ils peuvent :
+decies, les conseils généraux, les conseils municipaux et les instances
+délibérantes des organismes de coopération intercommunale dotés d'une fiscalité
+propre votent chaque année les taux des taxes foncières, de la taxe d'habitation
+et de la taxe professionnelle. Ils peuvent :
 
 a) Soit faire varier dans une même proportion les taux des quatre taxes
 appliqués l'année précédente ;
@@ -32,11 +31,11 @@ taxe d'habitation.
 les propriétés bâties ou le taux de la taxe foncière sur les propriétés non
 bâties peut, à compter de 1989, être diminué jusqu'au niveau du taux moyen
 national de la taxe constaté l'année précédente pour, selon le cas, les communes
-et leurs ((établissements publics de coopération intercommunale)) (M), les
-départements, les régions ou, s'il est plus élevé, jusqu'au niveau du taux de la
-taxe professionnelle de la collectivité ou de ((l'établissement public de
-coopération intercommunale)) (M) concerné sans que ces diminutions soient prises
-en compte pour l'application, à la baisse, des dispositions du b du 1.
+et leurs établissements publics de coopération intercommunale, les départements,
+ou, s'il est plus élevé, jusqu'au niveau du taux de la taxe professionnelle de
+la collectivité ou de l'établissement public de coopération intercommunale
+concerné sans que ces diminutions soient prises en compte pour l'application, à
+la baisse, des dispositions du b du 1.
 
 Lorsque les dispositions du premier alinéa ne sont pas applicables, le taux de
 la taxe d'habitation peut cependant être diminué, à compter de 1997, jusqu'au
@@ -48,10 +47,10 @@ cette diminution soit prise en compte pour l'application, à la baisse, des
 dispositions du b du 1.
 
 Pour l'application des dispositions des premier et deuxième alinéas aux communes
-membres des ((établissements publics de coopération intercommunale)) (M) dotés
-ou non d'une fiscalité propre, les taux communaux de la taxe d'habitation, des
-taxes foncières et de la taxe professionnelle sont majorés des taux de ces
-((établissements publics de coopération intercommunale)) pour l'année précédant
+membres des établissements publics de coopération intercommunale dotés ou non
+d'une fiscalité propre, les taux communaux de la taxe d'habitation, des taxes
+foncières et de la taxe professionnelle sont majorés des taux de ces
+établissements publics de coopération intercommunale pour l'année précédant
 celle de l'imposition.
 
 Lorsque au titre d'une année il est fait application des dispositions du premier
@@ -83,9 +82,9 @@ foncières, de la taxe d'habitation et de la taxe professionnelle perçues au
 profit de la commune et les taux respectifs des mêmes taxes, votés l'année
 précédente par la communauté urbaine.
 
-Dans les communes, membres d'un ((établissement public de coopération
-intercommunale)) (M), qui, l'année de l'adhésion à ((l'établissement public de
-coopération intercommunale)) et l'année suivante, ont rempli les conditions pour
+Dans les communes, membres d'un établissement public de coopération
+intercommunale, qui, l'année de l'adhésion à l'établissement public de
+coopération intercommunale et l'année suivante, ont rempli les conditions pour
 bénéficier des dispositions du premier ou du deuxième alinéa, le conseil
 municipal peut, à compter de la deuxième année suivant celle de l'adhésion,
 majorer le taux de taxe professionnelle selon les modalités prévues ci-dessus
@@ -95,8 +94,10 @@ taxe l'année précédente dans l'ensemble des communes et que le taux moyen
 pondéré des trois autres taxes perçues au profit de la collectivité concernée
 est au plus inférieur de 20 p. 100 au taux moyen pondéré constaté l'année
 précédente pour ces trois taxes dans l'ensemble des communes. Ces règles sont
-applicables pour les communes qui ont adhéré à un ((établissement public de
-coopération intercommunale)) (M) à compter de 1995.
+applicables pour les communes qui ont adhéré à un établissement public de
+coopération intercommunale à compter de 1995.
+
+4. et 5. (périmés).
 
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
@@ -108,13 +109,10 @@ bases de ces trois taxes dans la commune pour l'année d'imposition, et, d'autre
 part, le taux moyen pondéré de ces trois taxes constaté l'année précédente dans
 l'ensemble des communes.
 
-I ter. (Dispositions périmées).
+I ter. (périmé).
 
-II. En cas de création d'un ((établissement public de coopération
-intercommunale)) (M) doté d'une fiscalité propre, les rapports entre les taux
-des quatre taxes établies par ((l'établissement public de coopération
-intercommunale)) doivent être égaux, la première année, aux rapports constatés
-l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble
-des communes membres.
-
-(M) Modification.
+II. En cas de création d'un établissement public de coopération intercommunale
+doté d'une fiscalité propre, les rapports entre les taux des quatre taxes
+établies par l'établissement public de coopération intercommunale doivent être
+égaux, la première année, aux rapports constatés l'année précédente entre les
+taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
