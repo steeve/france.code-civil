@@ -1,28 +1,35 @@
 Article 2-1
 ----
-La commission communale, lorsqu'elle dresse l'état des parcelles incultes ou
-manifestement sous-exploitées, en application de l'article 40 du présent code,
-lorsqu'elle définit, soit de sa propre initiative, soit à la demande du
-représentant de l'Etat dans le département, le ou les périmètres des opérations
-d'aménagement foncier forestier mentionnés au d de l'article 3 ou le ou les
-périmètres des opérations d'aménagement foncier agricole et forestier mentionnés
-au 4° de l'article 52-1 du présent code et lorsqu'elle met en oeuvre les
-procédures particulières à ces périmètres, est complétée par deux propriétaires
-forestiers de la commune désignés par la chambre d'agriculture sur proposition
-du centre régional de la propriété forestière, deux suppléants étant, en outre,
-désignés selon la même procédure, et par deux propriétaires forestiers de la
-commune désignés par le conseil municipal qui désigne, en outre, deux
-suppléants.
+La commission communale d'aménagement foncier est présidée par un des juges
+chargés du service du tribunal d'instance dans le ressort duquel la commission a
+son siège, désigné par le premier président de la cour d'appel, ou par un
+suppléant du juge d'instance, désigné dans les conditions prévues par le code de
+l'organisation judiciaire. Un président suppléant est désigné dans les mêmes
+conditions.
 
-A défaut de propriétaires forestiers en nombre suffisant, les membres titulaires
-ou suppléants sont désignés par la chambre d'agriculture sur proposition du
-centre régional de la propriété forestière ou le conseil municipal parmi des
-personnalités qualifiées en raison de leur expérience en matière d'aménagement
-forestier.
+La commission comprend également :
 
-Lorsque des parcelles soumises au régime forestier sont incluses dans un des
-périmètres mentionnés au présent article, le représentant de l'office national
-des forêts ou son délégué fait partie de droit de la commission communale.
+1° Le maire ou l'un des conseillers municipaux désigné par lui ;
 
-Il peut être institué une commission intercommunale dans les conditions prévues
-à l'article 6.
+2° Trois exploitants, propriétaires ou preneurs en place exerçant sur le
+territoire d'une commune ou, à défaut, sur le territoire d'une commune
+limitrophe ainsi que deux suppléants, désignés par la chambre d'agriculture ;
+
+3° Trois propriétaires de biens fonciers non bâtis dans la commune ainsi que
+deux propriétaires suppléants, élus par le conseil municipal ;
+
+4° Une personne qualifiée en matière de protection de la nature, désignée par le
+représentant de l'Etat dans le département ;
+
+5° Deux fonctionnaires désignés par le représentant de l'Etat dans le
+département ;
+
+6° Un délégué du directeur des services fiscaux.
+
+A défaut de désignation des exploitants par la chambre d'agriculture ou
+d'élection des propriétaires par le conseil municipal, dans un délai de trois
+mois après leur saisine respective, le représentant de l'Etat dans le
+département procède à leur désignation.
+
+La commission peut appeler à titre consultatif toute personne dont il lui paraît
+utile de provoquer l'avis.

@@ -3,7 +3,8 @@ Article 25
 La commission communale de remembrement a qualité pour décider à l'occasion des
 opérations et dans leur périmètre :
 
-1° L'établissement de tous chemins nécessaires pour desservir les parcelles ;
+1° L'établissement de tous chemins d'exploitation nécessaires pour desservir les
+parcelles ;
 
 2° L'exécution de travaux tels que l'arrachage de haies, l'arasement de talus,
 le comblement de fossés, lorsque ces travaux présentent un caractère d'intérêt
@@ -19,19 +20,8 @@ non domaniaux, soit lorsque ces travaux sont indispensables à l'établissement
 d'un lotissement rationnel, soit lorsqu'ils sont utiles au bon écoulement des
 eaux nuisibles, en raison de l'exécution de travaux visés au 3°.
 
-5° L'établissement de tous ouvrages nécessaires à la protection des forêts.
+5° L'exécution de tous travaux et la réalisation de tous ouvrages nécessaires à
+la protection des forêts.
 
 L'assiette des ouvrages mentionnés aux 1°, 3°, 4° et 5° est prélevée sans
 indemnité sur la totalité des terres à remembrer.
-
-Le département assure l'exécution des travaux et le règlement des dépenses des
-travaux visés aux 1°, 2°, 3° et 4° ; la part de dépenses incombant aux
-propriétaires est déterminée par un arrêté concerté du ministre de l'agriculture
-et du ministre de l'économie et des finances.
-
-Les conditions dans lesquelles sont fixées les bases de la répartition de la
-dépense entre les propriétaires intéressés sont déterminées par le règlement
-d'administration publique prévu à l'article 54.
-
-Après leur achèvement, les ouvrages sont remis gratuitement par le département
-et deviennent la propriété de l'association foncière visée à l'article 27.

@@ -2,7 +2,7 @@ Article 54
 ----
 Un règlement d'administration publique détermine les conditions d'exécution des
 chapitres qui précèdent et notamment, outre les modalités d'application des
-articles 3, 6, 19, 25, 26, 27, 28, 34. La procédure à suivre devant la
+articles 2-2, 4, 4-1, 7, 7-1, 27 et 28 la procédure à suivre devant la
 commission départementale, les rapports avec les services des contributions
 directes et du cadastre, les conditions d'aliénation et de concession des lots
 créés et non attribués, la fixation des bases de répartition entre les

@@ -1,9 +1,13 @@
 Article 38
 ----
-Les échanges d'immeubles ruraux effectués conformément à l'article 37 et dont la
-commission départementale de réorganisation foncière et de remembrement aura
-reconnu l'utilité particulière, du point de vue notamment de l'amélioration des
-conditions de l'exploitation agricole, bénéficient d'une participation
-financière de l'Etat à ceux des frais de l'échange énumérés dans un arrêté
-concerté du ministre de l'agriculture et du ministre des finances, qui fixe
-également le taux et les modalités de cette participation.
+Lorsqu'un ou plusieurs participants possédant du quart de la superficie
+envisagée et représentant moins de la moitié de l'ensemble des participants fait
+opposition à un échange multilatéral portant sur un périmètre déterminé
+conformément aux dispositions de l'article 4-1 du présent code, alors que sa
+participation est indispensable à la réalisation du projet, les autres
+échangistes pourront solliciter l'arbitrage de la commission départementale.
+Celle-ci pourra fixer les conditions dans lesquelles l'échange multilatéral
+devra être réalisé.
+
+La décision de la commission départementale d'aménagement foncier sera transmise
+au représentant de l'Etat dans le département, qui pourra la rendre exécutoire.

@@ -1,25 +1,41 @@
 Article 1
 ----
-L'aménagement foncier agricole et rural a pour objet, dans le cadre des
-dispositions du titre Ier de la loi n° 60-808 du 5 août 1960 et notamment de son
-article 7, d'assurer une structure des propriétés et des exploitations agricoles
-et forestières conforme à une utilisation rationnelle des terres et des
-bâtiments, compte tenu en particulier de la nature des sols et de leur
-conservation, de leur vocation culturale, des techniques agricoles et de leur
-évolution, du milieu humain et du peuplement rural, de l'économie générale du
-pays et de l'économie propre du terroir considéré.
+L'aménagement foncier rural a pour objet d'assurer la mise en valeur et
+l'amélioration des conditions d'exploitation des propriétés agricoles ou
+forestières.
 
-L'aménagement foncier est réalisé notamment par :
+Il contribue également à l'aménagement du territoire communal défini par les
+documents d'urbanisme opposables aux tiers.
 
-- une nouvelle répartition parcellaire des terres et des bâtiments au moyen du
-remembrement, des cessions et échanges des droits de propriété et d'exploitation
-;
+Il est réalisé par la mise en oeuvre, de façon indépendante ou coordonnée, des
+modes d'aménagement foncier suivants :
 
-- l'exécution de travaux d'infrastructure nécessaires à l'aménagement des
-terres, tels les travaux connexes au remembrement et tous autres de nature à
-améliorer rationnellement la productivité ;
+1° La réorganisation foncière régie par le chapitre II du présent titre ;
 
-- la mise en valeur des terres incultes récupérables et le boisement ;
+2° Le remembrement ou le remembrement-aménagement régis par le chapitre III du
+présent titre ;
 
-- l'encouragement aux diverses formes de groupements volontaires de propriétés
-et d'exploitations, ainsi qu'à l'agrandissement des exploitations non rentables.
+3° Les échanges d'immeubles ruraux régis par le chapitre IV du présent titre ;
+
+4° La mise en valeur des terres incultes ou manifestement sous-exploitées régie
+par le chapitre V du présent titre ;
+
+5° L'aménagement foncier forestier régi par le chapitre II du titre Ier du livre
+V du code forestier ;
+
+6° L'aménagement foncier agricole et forestier régi par la section II du
+chapitre VI du présent titre et le chapitre II du titre Ier du livre V du code
+forestier ;
+
+7° La réglementation des boisements régie par la section 1ère du chapitre VI du
+présent titre.
+
+Les opérations d'aménagement foncier sont conduites, sous la responsabilité de
+l'Etat, par des commissions d'aménagement foncier, conformément à la politique
+des structures des exploitations agricoles, à la politique forestière et dans le
+respect du milieu naturel. Ces commissions doivent favoriser la concertation
+entre toutes les parties intéressées.
+
+L'aménagement foncier rural s'applique aux propriétés rurales non bâties et,
+dans les conditions fixées par les dispositions législatives propres à chaque
+mode d'aménagement foncier, à des propriétés bâties.

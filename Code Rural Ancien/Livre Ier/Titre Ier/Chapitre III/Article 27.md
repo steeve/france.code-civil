@@ -1,18 +1,28 @@
 Article 27
 ----
 Dès que la commission communale s'est prononcée en application de l'article 25,
-il est constitué obligatoirement entre les propriétaires des parcelles à
-remembrer une association foncière dont les règles de constitution et de
-fonctionnement sont fixées par le règlement d'administration publique prévu à
-l'article 54.
+il est constitué entre les propriétaires des parcelles à remembrer une
+association foncière soumise au régime prévu par la loi du 21 juin 1865 précitée
+et dont les règles de constitution et de fonctionnement sont fixées par le
+décret en Conseil d'Etat.
 
-Cette association a pour objet la prise en charge, la gestion et l'entretien des
-chemins d'exploitation et des ouvrages visés à l'article 19-4 et aux 1°, 3° et
-4° de l'article 25.
+La constitution de l'association est obligatoire sauf si, à la demande de la
+commission communale d'aménagement foncier et après avis de la commission
+départementale, le conseil municipal s'engage à réaliser l'ensemble des travaux
+décidés par la commission communale.
 
-Lorsque ces chemins et ces ouvrages présentent un intérêt commun pour plusieurs
-associations foncières, celles-ci peuvent se constituer pour la mission
-ci-dessus en unions d'associations foncières autorisées par arrêté préfectoral.
+Cette association a pour objet la réalisation, l'entretien et la gestion des
+travaux ou ouvrages mentionnés aux articles 19-4, 25 et 25-1 du présent code.
 
-L'adhésion à cette union est donnée valablement par les bureaux des associations
-foncières.
+Lorsque ces travaux ou ouvrages présentent un intérêt commun pour plusieurs
+associations foncières, celles-ci peuvent se constituer, pour les missions
+mentionnées à l'alinéa précédent, en unions d'associations foncières autorisées
+par arrêté du représentant de l'Etat dans le département. La décision d'adhésion
+à une union est valablement prise par les bureaux des associations foncières.
+Les unions d'associations foncières sont soumises au même régime que les
+associations foncières.
+
+L'association foncière assure le règlement des dépenses et recouvre les sommes
+correspondantes sur les propriétaires intéressés. Les conditions dans lesquelles
+sont fixées les bases de répartition sont déterminées par décret en Conseil
+d'Etat.

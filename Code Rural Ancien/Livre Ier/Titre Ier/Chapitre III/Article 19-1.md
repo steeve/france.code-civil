@@ -4,7 +4,7 @@ I. - Lorsque, dans une ou plusieurs communes, l'élaboration ou la révision d'u
 plan d'occupation des sols est prescrite et qu'une commission communale ou
 intercommunale est instituée, le représentant de l'Etat dans le département,
 après accord du ou des conseils municipaux, ordonne le remembrement-aménagement
-dans les conditions prévues à l'article 3 et en fixe le périmètre.
+dans les conditions prévues à l'article 4-1 et en fixe le périmètre.
 
 II. - Dans le périmètre de remembrement-aménagement, la part de surface agricole
 affectée à l'urbanisation et à la constitution de réserves foncières destinées

@@ -1,28 +1,19 @@
 Article 5-1
 ----
-Lorsque des décisions prises par la commission communale statuant en matière
-d'aménagement foncier forestier sont portées devant la commission départementale
-d'aménagement foncier, celle-ci est complétée par :
+La préparation et l'exécution des opérations d'aménagement foncier sont
+assurées, sous la direction des commissions communales ou intercommunales
+d'aménagement foncier, par des techniciens rémunérés par le département en
+application de barèmes fixés, après avis du comité des finances locales prévu à
+l'article L. 234-20 du code des communes, par arrêté conjoint du ministre de
+l'agriculture et du ministre chargé du budget.
 
-- le président du centre régional de la propriété forestière ou son représentant
-;
+Lorsqu'il s'agit de l'exécution d'une opération de remembrement, de
+remembrement-aménagement, de réorganisation foncière, d'aménagement foncier
+forestier ou d'aménagement foncier agricole et forestier, le technicien est
+choisi sur la liste des géomètres agréés établie par le ministre de
+l'agriculture.
 
-- un représentant de l'office national des forêts ;
-
-- le président du syndicat départemental des propriétaires forestiers
-sylviculteurs ou son représentant ;
-
-- deux propriétaires forestiers et deux suppléants choisis par le représentant
-de l'Etat dans le département sur une liste d'au moins six noms présentés par la
-chambre d'agriculture sur proposition du centre régional de la propriété
-forestière ;
-
-- deux maires ou deux délégués communaux élus par les conseils municipaux,
-représentant les communes propriétaires des forêts soumises au régime forestier
-en application de l'article L. 111-1 du code forestier, désignés par la réunion
-des maires ou des délégués communaux de ces communes dans le département.
-
-Les propriétaires forestiers désignés comme membres suppléants siègent soit en
-cas d'absence des membres titulaires, soit lorsque la commission départementale
-est appelée à délibérer sur des réclamations concernant une opération dans le
-périmètre de laquelle l'un des membres titulaires est propriétaire.
+Pour chaque opération, ce technicien est désigné par le président du conseil
+général sur proposition de la commission communale ou intercommunale après avis
+du représentant de l'Etat dans le département, et après avis du conseil
+municipal s'il s'agit d'une opération de remembrement-aménagement.

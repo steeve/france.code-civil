@@ -6,7 +6,7 @@ décidés par la commission communale d'aménagement foncier et exécutés, aux 
 des propriétaires, par l'association foncière visée à l'article 27.
 
 La répartition des dépenses entre les propriétaires de terrains intéressés est
-faite dans les conditions prévues à l'article 25.
+faite dans les conditions prévues à l'article 27 susvisé.
 
 L'assiette des ouvrages collectifs est prélevée sans indemnité sur la totalité
 de la surface à l'urbanisation.

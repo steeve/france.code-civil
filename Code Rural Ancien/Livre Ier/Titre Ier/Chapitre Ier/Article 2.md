@@ -1,33 +1,22 @@
 Article 2
 ----
-La commission communale d'aménagement foncier est présidée par le juge chargé du
-service du tribunal d'instance, ou, en cas de nécessité, par un autre juge du
-tribunal de grande instance désigné par le premier président de la cour d'appel.
-Elle comprend également :
+Le représentant de l'Etat dans le département peut instituer une commission
+communale d'aménagement foncier, après avis du conseil général, lorsque
+l'utilité d'un aménagement foncier lui est signalée, notamment par le conseil
+municipal ou par des propriétaires ou des exploitants de la commune.
 
-Trois délégués du directeur départemental de l'agriculture ;
+L'institution d'une commission communale d'aménagement foncier est de droit :
 
-Un délégué du directeur des services fiscaux ;
+1° Si le conseil général le demande ;
 
-Une personne qualifiée pour les problèmes de la protection de la nature désignée
-par le préfet ;
+2° En cas de mise en oeuvre de l'article 10 de la loi n° 62-933 du 8 août 1962
+complémentaire à la loi d'orientation agricole ;
 
-Le maire ou l'un des conseillers municipaux désigné par lui ;
+3° En zone de montagne, lorsqu'elle est demandée à l'occasion de l'élaboration
+ou de la révision d'un plan d'occupation des sols, et, dans les mêmes
+conditions, dans les zones définies par décret pris après avis de la commission
+départementale d'aménagement foncier et accord du conseil général ;
 
-Trois exploitants, propriétaires ou non dans la commune, ainsi que deux
-suppléants, désignés par la chambre d'agriculture ;
-
-Trois propriétaires titulaires et deux propriétaires suppléants, élus par le
-conseil municipal.
-
-A défaut de désignation des exploitants par la chambre d'agriculture ou
-d'élection des propriétaires par le conseil municipal, dans un délai de trois
-mois après leur saisine respective, le préfet procède, sur proposition du
-directeur départemental de l'agriculture, à la désignation des exploitants et
-des propriétaires visés ci-dessus.
-
-Un fonctionnaire désigné par le directeur départemental de l'agriculture remplit
-les fonctions de secrétaire de la commission.
-
-La commission peut appeler, à titre consultatif, toute personne dont il lui
-paraît utile de provoquer l'avis.
+4° Après avis du conseil municipal de la commune, lorsque le programme d'une
+charte intercommunale d'aménagement et de développement approuvé a prévu la mise
+en oeuvre d'une opération d'aménagement foncier.
