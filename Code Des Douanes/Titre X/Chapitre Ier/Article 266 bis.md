@@ -7,3 +7,5 @@ produits déclarés pour la consommation avant la date de changement du tarif
 existant en stock à cette date chez les importateurs, producteurs, raffineurs,
 négociants et distributeurs de produits pétroliers et assimilés, à l'exception
 des produits se trouvant dans les cuves des stations-services.
+
+Ce relèvement n'est pas recouvré lorsque son montant est inférieur à 500 F.
