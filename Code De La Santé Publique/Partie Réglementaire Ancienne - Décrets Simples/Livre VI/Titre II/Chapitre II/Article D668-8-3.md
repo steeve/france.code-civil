@@ -1,13 +1,13 @@
 Article D668-8-3
 ----
-Le ministre chargé de la santé arrête annuellement la liste d'aptitude
-mentionnée à l'article D. 668-8-1.
+La durée de validité de l'inscription sur la liste d'aptitude est de six ans.
+Les personnes dont la durée de validité de l'inscription vient à échéance et qui
+souhaitent être réinscrites doivent en faire la demande selon la procédure
+définie à l'article D. 668-8-4, à l'exception des directeurs d'établissement de
+transfusion sanguine en exercice, dont la réinscription sur la liste est de
+droit pour une nouvelle durée de six ans.
 
-Les personnes déjà inscrites sur la liste sont réinscrites automatiquement lors
-de chaque révision annuelle, sauf si elles font connaître leur intention de ne
-plus y figurer.
-
-Les personnes ayant fait l'objet d'un retrait de leur agrément en qualité de
-directeur d'établissement de transfusion sanguine tel que visé à l'article L.
-668-11 ou ne remplissant plus les conditions d'inscription visées à l'article D.
-668-8-2 sont radiées de la liste d'aptitude.
+Les directeurs d'établissement de transfusion sanguine révoqués pour faute
+professionnelle par le président de l'Etablissement français du sang ou ne
+remplissant plus les conditions d'inscription visées à l'article D. 668-8-2 sont
+radiés de la liste d'aptitude.
