@@ -10,9 +10,7 @@ III. Le taux normal du droit d'enregistrement ou de la taxe de publicité
 foncière perçus sur les apports visés à l'article 809-I-3° et II est fixé à 8,60
 %.
 
-III bis. Le taux prévu au III est réduit à 1 % lorsqu'un courtier d'assurances
-maritimes apporte, avant le 1er juillet 1980, son entreprise à une société ayant
-pour objet principal le courtage d'assurances.
+III bis. (Disposition périmée).
 
 IV. Les taux visés au II et au III sont réduits à 0,60 % :
 
