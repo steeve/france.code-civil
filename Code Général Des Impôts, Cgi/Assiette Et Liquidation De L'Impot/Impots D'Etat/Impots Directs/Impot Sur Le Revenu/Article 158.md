@@ -47,11 +47,11 @@ réservé aux contribuables dont le revenu net global défini à l'article 156
 n'excède pas la limite de la dixième tranche du barème prévu à l'article 197-I,
 ce chiffre étant arrondi à la dizaine de milliers de francs supérieure.
 
-Les abattements prévus aux troisième, quatrième et cinquième alinéas du présent
-paragraphe peuvent, le cas échéant, être utilisés, en tout ou en partie, par les
-porteurs de parts de fonds communs de placement régis par la loi n° 79-594 du 13
-juillet 1979, lors de l'imposition en leur nom des produits répartis par le
-fonds.
+Les abattements prévus aux troisième, quatrième, cinquième et sixième alinéas du
+présent paragraphe peuvent, le cas échéant, être utilisés, en tout ou en partie,
+par les porteurs de parts de fonds communs de placement régis par la loi n°
+79-594 du 13 juillet 1979, lors de l'imposition en leur nom des produits
+répartis par le fonds.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -77,13 +77,13 @@ résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs diver
 
 4 bis. Les adhérents des centres de gestion agréés définis aux articles 1649
 quater C à 1649 quater E, placés sous un régime réel d'imposition et dont le
-chiffre d'affaires ou de recettes n'excède pas 2.200.000 F pour les agriculteurs
+chiffre d'affaires ou de recettes n'excède pas 2.497.000 F pour les agriculteurs
 et pour les entreprises dont le commerce principal est de vendre des
 marchandises, objets, fournitures et denrées à emporter ou à consommer sur place
-ou de fournir le logement et 663.000 F en ce qui concerne les autres
+ou de fournir le logement et 753.000 F en ce qui concerne les autres
 entreprises, bénéficient d'un abattement de 20 % sur leur bénéfice imposable
 dans la catégorie des bénéfices industriels et commerciaux [*BIC*] ou des
-bénéfices agricoles [*BA*]. Les chiffres de 2.200.000 F et 663.000 F
+bénéfices agricoles [*BA*]. Les chiffres de 2.497.000 F et 753.000 F
 s'apprécient dans les mêmes conditions que les limites fixées pour l'application
 du régime forfaitaire (3).
 
@@ -112,9 +112,9 @@ somme de 5.000 F.
 4 ter. Les adhérents des associations agréées des professions libérales définies
 aux articles 1649 quater F à 1649 quater H, imposés à l'impôt sur le revenu
 selon le régime de la déclaration contrôlée et dont les recettes n'excèdent pas
-773.000 F bénéficient d'un abattement de 20 % sur leur bénéfice imposable.
+900.000 F bénéficient d'un abattement de 20 % sur leur bénéfice imposable.
 Toutefois cet abattement ne peut se cumuler avec d'autres déductions
-forfaitaires ou abattements d'assiette. Le chiffre de 773.000 F s'apprécie dans
+forfaitaires ou abattements d'assiette. Le chiffre de 900.000 F s'apprécie dans
 les mêmes conditions que la limite fixée pour l'application du régime de
 l'évaluation administrative (5).
 
@@ -157,13 +157,13 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
 l'imposition des revenus de 1978, excéder 6.000 F. Ce plafond est applicable au
 montant des pensions ou retraites perçu par chaque retraité ou pensionné membre
-du foyer fiscal (6) ; il est revalorisé chaque année dans la même proportion que
-la limite de la première tranche du barème prévu à l'article 197 (7).
+du foyer fiscal ; il est revalorisé chaque année dans la même proportion que la
+limite de la première tranche du barème prévu à l'article 197 (6).
 
 L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal (8).
+pensionné membre du foyer fiscal.
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les
 pensions et retraites après application des dispositions des deuxième et
@@ -174,12 +174,12 @@ Par exception aux dispositions de l'alinéa précédent, les salaires et indemni
 accessoires supérieurs à 150.000 F alloués par des sociétés à des personnes qui
 détiennent, directement ou indirectement, plus de 35 % des droits sociaux sont
 retenus, pour la fraction excédant 150.000 F, à raison de 90 % de leur montant,
-net de frais professionnels (9).
+net de frais professionnels.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 frais professionnels, et pensions qui excède une fois et demie la limite de la
 dernière tranche du barème prévu à l'article 197-I, ce chiffre étant arrondi à
-la dizaine de milliers de francs supérieure.
+la dizaine de milliers de francs supérieure (4).
 
 Toutefois, pour l'imposition des revenus des années 1978 et 1979, cette limite
 est fixée à 360.000 F ;
@@ -206,7 +206,7 @@ crédirentier lors de l'entrée en jouissance de la rente, est fixée :
 
 - à 40 % s'il est âgé de 60 à 69 ans inclus ;
 
-- à 30 % s'il est âgé de plus de 69 ans (10).
+- à 30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes
 conditions que les revenus énumérés à l'article 124.
@@ -218,29 +218,14 @@ cotisations ayant fait l'objet de la déduction prévue à l'article 83-1° bis.
 
 (2) Chiffre applicable à compter de l'imposition des revenus de 1978.
 
-(3) Chiffres applicables pour l'imposition des revenus de 1980. Pour
-l'imposition des revenus de 1979, ces chiffres étaient de 1.915.000 F et 577.000
+(3) Chiffres applicables pour l'imposition des revenus de 1981. Pour
+l'imposition des revenus de 1980, ces chiffres étaient de 2.200.000 F et 663.000
 F.
 
-(4) Cette limite était fixée à 360.000 F pour l'imposition des revenus de 1978
-et de 1979.
+(4) Cette limite était fixée à 410.000 F pour l'imposition des revenus de 1980
+et 460.000 pour l'imposition des revenus de 1981.
 
-(5) Chiffre applicable pour l'imposition des revenus de 1980. Pour l'imposition
-des revenus de 1979, ce chiffre était de 672.000 F.
+(5) Chiffre applicable pour l'imposition des revenus de 1981. Pour l'imposition
+des revenus de 1980, ce chiffre était de 773.000 F.
 
-(6) Disposition applicable pour l'imposition des revenus de 1979. Pour
-l'imposition des revenus de 1977 et 1978, le plafond était apprécié par foyer
-fiscal.
-
-(7) Il est ainsi fixé à 6.700 F pour l'imposition des revenus de 1979 et à 7.600
-F pour l'imposition des revenus de 1980.
-
-(8) Disposition applicable à compter de l'imposition des revenus de 1978.
-
-(9) Chiffre limite applicable à compter de l'imposition des revenus de l'année
-1977.
-
-(10) Pour 1978, le plafond à partir duquel les arrérages de rentes étaient
-taxables à concurrence de 80 % avait été porté à 25.000 F (loi n° 77-1467 du 30
-décembre 1977, art. 37). Cette disposition, qui constituait le deuxième alinéa
-de l'article 158-6, a été abrogée à compter du 1er janvier 1979.
+(6) Il est ainsi fixé à 8.700 F pour l'imposition des revenus. de 1981.
