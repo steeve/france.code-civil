@@ -1,13 +1,13 @@
 Article R*111-18
 ----
-Les bâtiments d'habitation collectifs doivent être accessibles aux handicapés
-physiques circulant en fauteuil roulant.
+Doivent être accessibles, par un cheminement praticable sans discontinuité, aux
+personnes handicapées à mobilité réduite, y compris celles qui se déplacent en
+fauteuil roulant, les bâtiments d'habitation collectifs, les logements situés
+dans ces bâtiments, les ascenseurs ou un ascenseur au moins par batterie
+d'ascenseurs, les locaux collectifs affectés aux ensembles résidentiels et une
+partie des places de stationnement d'automobiles destinées aux habitants et aux
+visiteurs.
 
-Dans ces bâtiments, les logements doivent être accessibles aux handicapés
-physiques circulant en fauteuil roulant et les portes intérieures desdits
-logements permettre le passage d'une personne en fauteuil roulant. Cette
-disposition ne s'impose toutefois aux logements situés en étage que s'ils sont
-desservis par un ascenseur utilisable par de tels handicapés.
-
-Un arrêté du ministre chargé de la construction et de l'habitation fixe les
-modalités d'application du présent article.
+Dans les mêmes bâtiments, les étages non desservis par ascenseurs doivent être
+accessibles à toutes personnes handicapées à mobilité réduite par un escalier
+conçu de telle sorte que les intéressés puissent recevoir une aide appropriée.
