@@ -13,7 +13,3 @@ prêts à moyen terme ou pour prêts à long terme individuels et collectifs.
 Les dépôts de fonds reçus par ces caisses, et dont l'échéance est supérieure à
 deux ans, sont employés par elles en opérations de crédit à moyen terme ou à
 long terme d'une durée correspondante ou en opérations de crédit à court terme.
-
-Toutefois, les dépôts reçus par les caisses locales affiliées à une caisse
-régionale de crédit agricole mutuel doivent être transmis immédiatement à ladite
-caisse régionale qui en assure la gestion.

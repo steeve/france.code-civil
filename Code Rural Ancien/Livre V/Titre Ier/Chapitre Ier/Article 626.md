@@ -1,22 +1,5 @@
 Article 626
 ----
-Les statuts déterminent le siège, la circonscription territoriale et le mode
-d'administration des caisses de crédit agricole mutuel.
-
-Ils fixent la nature et l'étendue de leurs opérations, les règles à suivre pour
-la modification des statuts, la dissolution de la société, la composition du
-capital, la proportion dans laquelle chacun des membres peut contribuer à la
-constitution de ce capital et les conditions dans lesquelles il peut se retirer.
-
-Ils peuvent prévoir la possibilité pour les caisses de crédit agricole mutuel
-d'admettre comme sociétaires les personnes pour lesquelles elles ont effectué
-une des opérations visées aux articles 1er, 5, 6 et 7 de la loi n° 84-46 du 24
-janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
-
-Ils règlent l'étendue et les conditions de la responsabilité qui incombe à
-chacun des sociétaires dans les engagements pris par la caisse, conformément aux
-dispositions de l'article 621.
-
 Les statuts des caisses de crédit agricole mutuel doivent en outre, rappeler
 expressément les règles visées dans les articles 618, troisième alinéa, 637, 640
 et 647.
