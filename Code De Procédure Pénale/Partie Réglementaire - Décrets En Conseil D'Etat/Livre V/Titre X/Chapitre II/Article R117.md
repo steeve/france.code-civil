@@ -1,17 +1,20 @@
 Article R117
 ----
 Chaque médecin régulièrement requis ou commis reçoit à titre d'honoraires une
-somme calculée en fonction des cotations suivantes [*lettres clés et
-coefficients*] :
+somme calculée en fonction des cotations [*lettres clés et coefficients*]
+suivantes :
 
 1° a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt
-d'un rapport ... C 2,5
+d'un rapport ... C 2,5 ;
 
 b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime,
-la fixation des taux d'incapacité et le dépôt d'un rapport ... C 3,5
+la fixation des taux d'incapacité et le dépôt d'un rapport ... C 3,5 ;
 
 c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 25
-du Code des débits de boissons :
+du Code des débits de boissons et pour l'examen clinique et le prélèvement
+biologique prévus par l'article R. 235-6 du code de la route, ainsi que le
+recueil de liquide biologique et le dépistage de stupéfiants prévus par
+l'article R. 235-4 du même code ;
 
 - auxquels il est procédé entre 7 heures et 22 heures ... C 1,5
 
@@ -22,7 +25,12 @@ indemnité de 70 F).
 indemnité de 50 F).
 
 d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ...
-C 2
+C 2.
+
+e) Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la
+route, le matériel nécessaire au dépistage est fourni par le praticien requis,
+les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au
+prix unitaire d'acquisition de ce matériel sans pouvoir excéder 25 euros.
 
 2° Pour un transport sur les lieux et description de cadavre ... C 2,5
 
