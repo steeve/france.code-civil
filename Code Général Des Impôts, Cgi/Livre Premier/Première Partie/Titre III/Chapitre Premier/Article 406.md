@@ -6,8 +6,8 @@ en franchise aux bouilleurs de cru à titre d'allocation familiale :
 1° (Abrogé à compter du 1er janvier 1993).
 
 2° Les alcools expédiés à des distillateurs ou bouilleurs de profession, à des
-marchands en gros, à des fabricants de vinaigre, à la condition qu'ils soient
-pris en charge au compte des destinataires ;
+entrepositaires agréés, à des fabricants de vinaigre, à la condition qu'ils
+soient pris en charge au compte des destinataires ;
 
 3° (Abrogé à compter du 1er janvier 1993).
 

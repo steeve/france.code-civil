@@ -3,8 +3,9 @@ Article 137
 Le compte de matières premières prévu par l'article 353 du code général des
 impôts présente :
 
-Aux charges, les quantités de raisins secs reçues en vertu d'acquits-à-caution
-ou de déclarations régulières et les excédents constatés ;
+Aux charges, les quantités de raisins secs reçues en vertu de documents
+mentionnés au I de l'article 302 M du code général des impôts ou de déclarations
+régulières et les excédents constatés ;
 
 Aux sorties :
 

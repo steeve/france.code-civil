@@ -17,7 +17,7 @@ d'immobilisations ou de travaux de recherches réalisés pour la mise en valeur
 des gisements d'hydrocarbures dans la métropole et dans ces mêmes pays et
 territoires, soit à l'acquisition de participations dans les sociétés et
 organismes désignés par arrêté du ministre de l'économie et des finances et du
-ministre de l'industrie (1), et ayant pour objet d'effectuer la recherche et
+ministre de l'industrie, et ayant pour objet d'effectuer la recherche et
 l'exploitation de gisements d'hydrocarbures dans lesdits pays et territoires.
 Toutefois, à compter des exercices clos postérieurement au 24 décembre 1963, ces
 bénéfices peuvent, après agrément du ministre de l'économie et des finances, sur
@@ -29,19 +29,18 @@ Les bénéfices affectés à la provision à la clôture d'un exercice doivent �
 remployés, dans les conditions prévues ci-dessus, dans un délai de cinq ans à
 partir de la date de cette clôture. Toutefois le délai d'emploi des provisions
 constituées au cours d'exercices clos à partir du 31 décembre 1980 est fixé à un
-an (2). ((Le délai d'emploi de provisions constituées au cours d'exercices clos
-à partir du 31 décembre 1994 est fixé à deux ans)) (2').
+an. Le délai d'emploi de provisions constituées au cours d'exercices clos à
+partir du 31 décembre 1994 est fixé à deux ans.
 
-Si le remploi est effectué dans ((l'un des délais susvisés)) (2'), les sommes
+Si le remploi est effectué dans l'un des délais susvisés, les sommes
 correspondantes peuvent être transférées à un compte de réserve ordinaire
 assimilé aux réserves constituées par prélèvements sur les soldes bénéficiaires
 soumis à l'impôt.
 
 Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice
-imposable de l'exercice au cours duquel a expiré ((l'un des délais ci-dessus
-définis)) (2'). L'impôt correspondant à la réintégration des sommes non
-employées dans le délai d'un an est majoré de l'intérêt de retard prévu à
-l'article 1729.
+imposable de l'exercice au cours duquel a expiré l'un des délais ci-dessus
+définis. L'impôt correspondant à la réintégration des sommes non employées dans
+le délai d'un an est majoré de l'intérêt de retard prévu à l'article 1729.
 
 1 bis a. Les immobilisations, participations financières et créances acquises en
 emploi de la provision au cours d'exercices clos avant le 31 décembre 1980 font
@@ -54,21 +53,21 @@ résultats imposables, au même rythme que l'amortissement, une somme égale au
 montant de ces investissements. Lorsque la provision est employée sous une autre
 forme, la même réintégration est effectuée en une seule fois.
 
-Toutefois, pour les investissements réalisés hors de France [*à l'étranger*] au
-cours des exercices clos avant le 1er janvier 1985, la réintégration ne porte
-que sur 60 % de leur montant. En ce qui concerne les travaux de recherches ou
+Toutefois, pour les investissements réalisés hors de France au cours des
+exercices clos avant le 1er janvier 1985, la réintégration ne porte que sur 60 %
+de leur montant. En ce qui concerne les travaux de recherches ou
 d'immobilisations réalisés en France au cours des exercices clos avant le 1er
-janvier ((2000)) (2') ou les prises de participations effectuées au cours de la
-même période dans des sociétés ou organismes mentionnés au présent article et
-ayant pour objet exclusif la recherche et l'exploitation de gisements
-d'hydrocarbures en France, la réintégration ne porte que sur 20 % du montant de
-ces investissements.
+janvier 2002 ou les prises de participations effectuées au cours de la même
+période dans des sociétés ou organismes mentionnés au présent article et ayant
+pour objet exclusif la recherche et l'exploitation de gisements d'hydrocarbures
+en France, la réintégration ne porte que sur 20 % du montant de ces
+investissements.
 
 Les entreprises imposées selon le régime du bénéfice mondial ou du bénéfice
 consolidé défini à l'article 209 quinquies effectuent la réintégration dans leur
 résultat d'ensemble.
 
-2. Un décret règle la mise en application du 1 et 1 bis a (3).
+2. Un décret règle la mise en application du 1 et 1 bis a.
 
 3. Pour la détermination des résultats des exercices ouverts à compter du 1er
 janvier 1976, des arrêtés conjoints du ministre de l'économie et des finances et
@@ -81,12 +80,3 @@ dépenses exposées ou des immobilisations réalisées.
 Les dispositions précédentes ne sont applicables qu'aux dépenses faites sur des
 permis d'exploration obtenus ou renouvelés après le 24 septembre 1975 et à
 compter de la date d'obtention ou de renouvellement.
-
-(1) Annexe IV, art. 4 A et 4 B.
-
-(2) Les provisions constituées au cours des exercices clos avant le 31 décembre
-1980 peuvent être employées jusqu'au 31 décembre 1981.
-
-(2') Modification de la loi. [*Cf. Instruction 1995-02-15 4E-1-95*].
-
-(3) Annexe III, art. 10 A à 10 C et 10 D à 10 G.

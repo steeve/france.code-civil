@@ -6,4 +6,5 @@ ou au point de sortie du territoire, des appareils ou portions d'appareils pour
 lesquels des expéditions ont été délivrées, un procès-verbal est dressé, et
 l'expéditeur est rendu responsable de la contravention, à moins qu'il ne mette
 l'administration en mesure d'exercer des poursuites efficaces contre la personne
-à qui incombe le défaut de décharge de l'acquit-à-caution.
+à qui incombe le défaut de décharge du document mentionné au I de l'article 302
+M.

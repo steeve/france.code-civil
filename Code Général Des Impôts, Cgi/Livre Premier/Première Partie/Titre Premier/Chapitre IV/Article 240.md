@@ -4,8 +4,7 @@ Article 240
 versent à des tiers des commissions, courtages, ristournes commerciales ou
 autres, vacations, honoraires occasionnels ou non, gratifications et autres
 rémunérations, doivent déclarer ces sommes dans les conditions prévues aux
-articles 87, 87 A et 89, lorsqu'elles dépassent 500 F par an pour un même
-bénéficiaire (1).
+articles 87,87 A et 89 (1).
 
 Ces sommes sont cotisées, au nom du bénéficiaire, d'après la nature d'activité
 au titre de laquelle ce dernier les a perçues.
@@ -23,6 +22,3 @@ organismes placés sous le contrôle de l'autorité administrative.
 3. (Transféré sous le 1 du I de l'article 1736).
 
 (1) Voir Annexe III, art. 47 et 47 A.
-
-Limite applicable à compter de l'imposition des revenus de 1984. Elle était
-précèdemment de 300 F.

@@ -1,8 +1,8 @@
 Article 54-0 T
 ----
 Les feuilles métalliques et les capsules, revêtues du timbre, ne peuvent
-circuler que sous le couvert d'un acquit-à-caution garantissant le double des
-droits qu'elles représentent.
+circuler que sous le couvert d'un document mentionné au I de l'article 302 M du
+code général des impôts.
 
 Elles doivent être expédiées directement par le fabricant au destinataire, en
 caisses ou en boîtes de carton rigide, scellées par le fabricant.

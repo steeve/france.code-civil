@@ -1,8 +1,8 @@
 Article 178-0 bis
 ----
-Les marchands en gros, les importateurs et les personnes qui réalisent des
+Les entrepositaires agréés, les importateurs et les personnes qui réalisent des
 acquisitions intracommunautaires, redevables du droit de circulation dans les
-conditions visées à l'article 439 du code général des impôts, ne peuvent
+conditions visées à l'article 302 D du code général des impôts, ne peuvent
 bénéficier du tarif prévu pour les vins visés au a bis du 2° de l'article 438 du
 même code obtenus conformément aux dispositions prévues par les règlements
 communautaires 822/87/CEE et 823/87/CEE du 16 mars 1987 qu'après justification

@@ -8,8 +8,9 @@ des mêmes droits à raison d'un hectolitre de vin pour 130 litres ou 130
 kilogrammes de vendanges.
 
 Toutefois, les vendanges fraîches expédiées par les récoltants à des pressoirs
-de vinification circulent sous le lien de laissez-passer à l'intérieur d'un
-périmètre constitué par l'arrondissement de récolte et les cantons limitrophes.
+de vinification circulent sous le lien de documents mentionnés au II de
+l'article 302 M à l'intérieur d'un périmètre constitué par l'arrondissement de
+récolte et les cantons limitrophes.
 
 L'administration a la faculté d'accorder aux conditions qu'elle détermine des
 facilités particulières pour la circulation des vendanges fraîches expédiées par

@@ -3,10 +3,10 @@ Article 350 quater
 I. - La direction générale des douanes et droits indirects exerce les
 compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620,
-1562, ((1565 septies)) (M) du code général des impôts ;
+1° Aux articles 306, 321, 412, 426, 427, 450, 454, 560, 1562, 1565 septies du
+code général des impôts ;
 
-2° Au deuxième alinéa de l'article 444 du code général des impôts ;
+2° Au premier alinéa de l'article 444 du code général des impôts ;
 
 3° A l'article 511 bis du code général des impôts.
 
@@ -21,8 +21,7 @@ II. La direction générale des douanes et droits indirects exerce :
 
 1° Les attributions prévues à l'article 319 du code général des impôts ;
 
-2° Le contrôle mentionné aux articles 471, 473 et 474 du code général des impôts
-;
+2° (Sans objet).
 
 3° Le monopole de vente au détail mentionné au premier alinéa de l'article 568
 du code général des impôts.
@@ -37,5 +36,3 @@ général des impôts ;
 
 3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent
 et de platine en application de l'article 541 du code général des impôts.
-
-(1) Modification.

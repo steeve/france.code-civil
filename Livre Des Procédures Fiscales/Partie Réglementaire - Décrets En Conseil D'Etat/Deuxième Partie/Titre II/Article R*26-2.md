@@ -1,7 +1,7 @@
 Article R*26-2
 ----
 Les agents du service des douanes et droits indirects sont autorisés, aux fins
-d'analyse, à prélever des échantillons chez les marchands en gros et les
+d'analyse, à prélever des échantillons chez les entrepositaires agréés et les
 détaillants d'alcool dénaturé par le procédé général.
 
 Des prélèvements peuvent être effectués également sur les liquides mis en vente

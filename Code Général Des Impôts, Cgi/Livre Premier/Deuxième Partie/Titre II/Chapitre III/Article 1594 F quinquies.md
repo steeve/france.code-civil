@@ -1,11 +1,11 @@
 Article 1594 F quinquies
 ----
-((Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au
-taux de 0,60 %)) (M) :
+Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au
+taux de 0,60 % :
 
 A. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée en
 vertu du 7° de l'article 257, les mutations à titre onéreux d'immeubles autres
-que ceux mentionnés ((au I du A de l'article 1594-0 G)) (M) ;
+que ceux mentionnés au I du A de l'article 1594-0 G ;
 
 B. Sans préjudice de l'application des dispositions du 7° de l'article 257, les
 mutations de propriété faites entre les propriétaires participant aux opérations
@@ -59,11 +59,11 @@ ayants cause à titre gratuit continuent de mettre personnellement en valeur
 lesdits biens dans le cadre de la société, jusqu'à l'expiration du délai de cinq
 ans à compter de leur date d'acquisition.
 
-II. ((Les acquisitions)) (M) d'immeubles visées au I faites sous les mêmes
-conditions en vue de l'installation d'un descendant majeur de l'acquéreur. En
-pareil cas, l'engagement d'exploiter est pris par le descendant. L'aliénation ou
-la location du bien acquis consentie à titre onéreux par l'acquéreur au
-descendant installé n'entraîne pas la déchéance du bénéfice du taux réduit.
+II. Les acquisitions d'immeubles visées au I faites sous les mêmes conditions en
+vue de l'installation d'un descendant majeur de l'acquéreur. En pareil cas,
+l'engagement d'exploiter est pris par le descendant. L'aliénation ou la location
+du bien acquis consentie à titre onéreux par l'acquéreur au descendant installé
+n'entraîne pas la déchéance du bénéfice du taux réduit.
 
 E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de
 développement prioritaire délimités par le décret n° 94-1139 du 26 décembre 1994
@@ -85,8 +85,8 @@ d'un délai d'un an à compter de la date du transfert de propriété, que le bi
 acquis a été donné à bail à long terme à un jeune agriculteur bénéficiaire des
 aides à l'installation.
 
-((Ce taux)) (M) s'applique aux acquisitions effectuées par l'acquéreur à hauteur
-d'une valeur globale n'excédant pas 650 000 F.
+Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une
+valeur globale n'excédant pas 650 000 F.
 
 F. Les ventes résultant de l'application des articles L128-4 à L128-7 du code
 rural relatifs à la mise en valeur agricole des terres incultes, des terres
@@ -108,22 +108,13 @@ droits non perçus lors de l'acquisition sont exigibles à première réquisitio
 
 Les modalités d'application du présent G sont fixées par décret.
 
-H. ((Les acquisitions, par une société de crédit-bail, d'immeubles)) (M) dont
-elle concède immédiatement la jouissance au vendeur par un contrat de
-crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si
-cette formalité est obligatoire en application des dispositions de l'article 28
-du décret n° 55-22 du 4 janvier 1955 modifié.
+H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle
+concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à
+la condition que ce dernier fasse l'objet d'une publication si cette formalité
+est obligatoire en application des dispositions de l'article 28 du décret n°
+55-22 du 4 janvier 1955 modifié.
 
-I. ((Les acquisitions par une société agréée pour le financement des économies
-d'énergie, d'installations de caractère immobilier)) (M) dont elle concède
-immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la
-condition que ce dernier fasse l'objet d'une publication si cette formalité est
-obligatoire en application des dispositions de l'article 28 du décret n° 55-22
-du 4 janvier 1955 modifié.
-
-Ces dispositions s'appliquent seulement aux acquisitions effectuées dans le
-cadre de l'exercice des activités exonérées d'impôt sur les sociétés en
-application du 3° sexies de l'article 208.
+I. (supprimé)
 
 J. Les cessions de constructions provisoires, réalisées en application de
 l'article L 60 du code du domaine de l'Etat.
@@ -131,5 +122,3 @@ l'article L 60 du code du domaine de l'Etat.
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans
 le périmètre de lotissements qui sont agréés dans des conditions fixées par
 décret.
-
-(M) Modification.

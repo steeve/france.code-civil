@@ -15,23 +15,15 @@ lieu à des amendes d'un montant égal à 80 p. 100 de la taxe sur la valeur
 ajoutée calculée sur la valeur d'achat sur le marché intérieur, à la date de
 constatation de l'infraction, de biens ou services similaires.
 
-L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de
-trente jours à compter de la notification du document par lequel
-l'administration a fait connaître au contrevenant la sanction qu'elle se propose
-d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé
-de présenter dans ce délai ses observations.
-
 L'infraction peut être constatée par la direction générale des impôts ou la
 direction générale des douanes et droits indirects.
 
-((L'amende est prononcée, dans le même délai de reprise qu'en matière de taxe
-sur la valeur ajoutée, par l'administration qui constate l'infraction. Le
+L'amende est prononcée, dans le même délai de reprise qu'en matière de taxe sur
+la valeur ajoutée, par l'administration qui constate l'infraction. Le
 recouvrement et le contentieux de cette amende sont assurés et suivis par
 l'administration qui prononce l'amende suivant les mêmes procédures, et sous les
-mêmes garanties, sûretés et privilèges que ceux prévus pour cette taxe)) (M).
+mêmes garanties, sûretés et privilèges que ceux prévus pour cette taxe.
 
 Lorsqu'une infraction prévue au présent article a fait l'objet d'une amende
 prononcée par l'une des deux administrations, elle ne peut plus être sanctionnée
 par l'autre.
-
-(M) Modification de la loi 97-1269.

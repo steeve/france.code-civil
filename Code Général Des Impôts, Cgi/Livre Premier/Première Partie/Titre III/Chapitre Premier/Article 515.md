@@ -13,8 +13,8 @@ Après leur transformation en dilutions acéto-alcooliques, qui doit avoir lieu
 dans les conditions déterminées par l'administration, ces boissons et liquides
 sont affranchis des droits dont ils étaient passibles.
 
-Les inventaires ont lieu selon les règles régissant les marchands en gros de
-boissons (1).
+Les inventaires ont lieu selon les règles régissant les entrepositaires agréés
+de boissons (1).
 
 Les manquants constatés lors des inventaires et excédant les déductions légales
 sont frappés de la taxe sur la valeur ajoutée, et selon la nature des produits,

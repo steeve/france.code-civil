@@ -56,26 +56,23 @@ montant de ces sommes ou valeurs et le montant des sommes versées dans le plan 
 
 8. Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II de l'article 163
-quinquies B, les gains nets mentionnés à l'article 92 G ainsi que les
-distributions effectuées par les sociétés de capital-risque dans les conditions
-prévues au deuxième alinéa de l'article 163 quinquies C, lors de leur versement
-;
+quinquies B, les gains nets mentionnés au 1 du III de l'article 150-0 A ainsi
+que les distributions effectuées par le sociétés de capital-risque dans les
+conditions prévues au deuxième alinéa de l'article 163 quinquies C, lors de leur
+versement ;
 
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
-en vertu d'un engagement d'épargne à long terme respectivement visés aux 5° de
-l'article 92 D et 16° de l'article 157, lors de l'expiration du contrat ;
+en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
+III de l'article 150-0 A et 16° de l'article 157, lors de l'expiration du
+contrat ;
 
-10. Les revenus mentionnés au 5° de l'article 157 procurés par les placements
-effectués dans le cadre d'un plan d'épargne en vue de la retraite, lors des
-retraits.
+10. (Abrogé)
 
 II. Les dispositions du I ne sont pas applicables aux revenus visés au 3
 s'agissant des seuls contrats en unités de comptes et aux 5 à 10, lorsque ces
 revenus entrent dans le champ d'application de l'article 1600-0 G.
 
 III. Les revenus de placement visés au I, acquis ou en ce qui concerne les
-placements visés du 3 au 10 du même I, constatés à la date du ((31 janvier
-2014)) (M) et pour lesquels la contribution n'est pas encore exigible sont
-soumis à cette date à la contribution.
-
-(M) Modification.
+placements visés du 3 au 10 du même I, constatés à la date du 31 janvier 2014 et
+pour lesquels la contribution n'est pas encore exigible sont soumis à cette date
+à la contribution.

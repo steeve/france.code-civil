@@ -14,14 +14,14 @@ hydromels destinés à l'usage des voyageurs en cours de route;
 d'homme, par les récoltants, de leur pressoir ou d'un pressoir public à leurs
 caves ou celliers ou de l'une à l'autre de leurs caves;
 
-((5° Les cidres et poirés répondant à la définition légale de ces boissons et
+5° Les cidres et poirés répondant à la définition légale de ces boissons et
 commercialisés dans les conditions fixées par arrêté du ministre chargé du
-budget pris après avis du ministre chargé de l'agriculture ;)) (1) (M).
+budget pris après avis du ministre chargé de l'agriculture ;(1)
 
 6° Dans les mêmes conditions que les cidres visés au 5°, les jus de raisin, de
 pommes ou de poires, concentrés ou non, lorsqu'ils sont livrés en récipients
-d'une contenance ne dépassant pas ((2 litres)) (M), ou pour les jus concentrés
-d'un contenu en poids ne dépassant pas 25 kilogrammes;
+d'une contenance ne dépassant pas 2 litres , ou pour les jus concentrés d'un
+contenu en poids ne dépassant pas 25 kilogrammes;
 
 7° (Abrogé);
 
@@ -32,6 +32,12 @@ réserve qu'ils soient conditionnés en récipients d'une contenance au plus ég
 à un litre, capsulés et étiquetés par des fabricants soumis au contrôle de
 l'administration.
 
-(1) Annexe IV, art. 54 bis à 54 quinquies.
+9° Les alcools et boissons alcooliques achetés, reçus ou détenus à des fins non
+commerciales par les particuliers non récoltants et transportés par eux-mêmes
+ou, en cas de changement de domicile, pour leur compte.
 
-(M) Modification .
+La disposition prévue à l'alinéa précédent ne s'applique pas aux vins contenus
+dans des bouteilles, sauf en cas de changement de domicile. Un décret en définit
+les conditions d'application.
+
+(1) Annexe IV, art. 54 bis à 54 quinquies.

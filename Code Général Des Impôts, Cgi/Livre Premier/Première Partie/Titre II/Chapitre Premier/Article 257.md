@@ -20,7 +20,7 @@ actions ou parts de sociétés immobilières et dont les résultats doivent êtr
 compris dans les bases de l'impôt sur le revenu au titre des bénéfices
 industriels ou commerciaux ;
 
-7° Les opérations concourant à la production ou à la livraison d'immeubles (1).
+7° Les opérations concourant à la production ou à la livraison d'immeubles.
 
 Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
@@ -43,7 +43,7 @@ usage d'habitation.
 
 Toutefois, lorsque le cédant est une collectivité territoriale ou un groupement
 de collectivités territoriales, il peut, sur option, soumettre la cession à la
-taxe sur la valeur ajoutée (2).
+taxe sur la valeur ajoutée.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des troisième
 et quatrième alinéas ;
@@ -125,7 +125,7 @@ bien ou les éléments le composant ont ouvert droit à une déduction complète
 partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les
 prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux
 de faible valeur et des échantillons. Le montant à retenir pour l'imposition des
-prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté (3).
+prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté.
 Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 
 b) L'affectation par un assujetti aux besoins de son entreprise d'un bien
@@ -159,12 +159,12 @@ b) Les prestations de services à titre gratuit effectuées par l'assujetti pour
 ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des
 fins étrangères à son entreprise.
 
-3. Un décret en Conseil d'Etat (4) définit les opérations désignée ci-dessus
-ainsi que le moment où la taxe devient exigible ;
+3. Un décret en Conseil d'Etat définit les opérations désignée ci-dessus ainsi
+que le moment où la taxe devient exigible ;
 
 9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à
 lui-même et qui portent sur les viandes des animaux de boucherie et de
-charcuterie tels qu'ils sont définis par décret (5) ;
+charcuterie tels qu'ils sont définis par décret ;
 
 10° Les achats à des non-assujettis à la taxe sur la valeur ajoutée :
 
@@ -178,8 +178,8 @@ c) De conserves alimentaires ;
 
 d) (Abrogé à compter du 1er janvier 1995) ;
 
-11° Les quantités de boissons manquantes chez les marchands en gros en sus des
-déductions et soumises aux droits indirects ;
+11° Les quantités de boissons manquantes chez les entrepositaires agréés en sus
+des déductions et soumises aux droits indirects ;
 
 12° (Abrogé) ;
 
@@ -187,14 +187,14 @@ déductions et soumises aux droits indirects ;
 navigation aérienne mentionnées au 4° du II de l'article 262 d'autres compagnies
 ne remplissant pas les conditions fixées à cet article. Les modalités
 d'application de cette disposition sont fixées, en tant que de besoin, par des
-arrêtés du ministre de l'économie et des finances (6) ;
+arrêtés du ministre de l'économie et des finances ;
 
 14° (Abrogé) ;
 
 15° Les biens et produits mentionnés aux 2° et 3° du II de l'article 262
 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article.
 Les modalités d'application de cette disposition sont fixées, en tant que de
-besoin, par des arrêtés du ministre de l'économie et des finances (7) ;
+besoin, par des arrêtés du ministre de l'économie et des finances ;
 
 16° et 17° (Abrogés) ;
 
@@ -205,18 +205,3 @@ prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relati
 19° Les sommes attribuées par les sociétés de course au titre des gains de
 course réalisés par les entraîneurs pour les chevaux dont ils sont
 propriétaires.
-
-(1) Voir Annexe II, art. 243 à 259.
-
-(2) Ces dispositions s'appliquent aux ventes ayant acquis date certaine à
-compter du 22 octobre 1998.
-
-(3) Voir Annexe IV, art. 23 N.
-
-(4) Voir Annexe II, art. 173 à 175.
-
-(5) Annexe III, art. 65 A.
-
-(6) Annexe IV, art. 45.
-
-(7) Annexe IV, art. 42 à 46.

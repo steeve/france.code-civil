@@ -23,8 +23,8 @@ dénouement du contrat ;
 placements de même nature mentionnés à l'article 125-0 A quelle que soit leur
 date de souscription, lors de leur inscription au contrat ou lors du dénouement
 pour les bons et contrats en unités de compte visés au deuxième alinéa de
-l'article L. 131-1 du code des assurances, ((à l'exception des produits attachés
-aux contrats visés au 2° de l'article 199 septies)) (M) ;
+l'article L. 131-1 du code des assurances, à l'exception des produits attachés
+aux contrats visés au 2° de l'article 199 septies ;
 
 4. Les produits des plans d'épargne populaire, ainsi que les rentes viagères et
 les primes d'épargne visés au premier alinéa du 22° de l'article 157,
@@ -63,18 +63,17 @@ montant de ces sommes ou valeurs et le montant des sommes versées dans le plan 
 
 8. Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II de l'article 163
-quinquies B, les gains nets mentionnés à l'article 92 G ainsi que les
-distributions effectuées par les sociétés de capital-risque dans les conditions
-prévues au deuxième alinéa de l'article 163 quinquies C, lors de leur versement
-;
+quinquies B, les gains nets mentionnés au 1 du III de l'article 150-0 A ainsi
+que les distributions effectuées par les sociétés de capital-risque dans les
+conditions prévues au deuxième alinéa de l'article 163 quinquies C, lors de leur
+versement ;
 
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
-en vertu d'un engagement d'épargne à long terme respectivement visés aux 5° de
-l'article 92 D et 16° de l'article 157, lors de l'expiration du contrat ;
+en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du
+III de l'article 150-0 A et 16° de l'article 157, lors de l'expiration du
+contrat ;
 
-10. Les revenus mentionnés au 5° de l'article 157 procurés par les placements
-effectués dans le cadre d'un plan d'épargne en vue de la retraite, lors des
-retraits.
+10. (Abrogé)
 
 III. Les dispositions du II ne sont pas applicables aux revenus visés au 3 dudit
 II s'agissant des seuls contrats en unités de compte ni aux revenus mentionnés
@@ -104,5 +103,3 @@ de placement et, le cas échéant, sur les autres prélèvements ; l'excédent
 V. La contribution visée aux I, II et IV est assise, contrôlée et recouvrée
 selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le
 prélèvement mentionné à l'article 125 A.
-
-(M) Modification.

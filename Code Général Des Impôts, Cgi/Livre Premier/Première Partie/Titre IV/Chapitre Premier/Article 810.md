@@ -3,13 +3,14 @@ Article 810
 I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 1 500
 F.
 
-II. Abrogé.
+II. (Abrogé).
 
-III. Le taux normal du droit d'enregistrement ou de la taxe de publicité
+III. Le tarif normal du droit d'enregistrement ou de la taxe de publicité
 foncière perçus sur les apports visés au 3° du I et au II de l'article 809 est
-fixé à 2,60 % pour les apports qui ont pour objet un immeuble ou des droits
-immobiliers et à 8,60 % pour ceux qui ont pour objet un fonds de commerce, une
-clientèle, un droit à un bail ou à une promesse de bail.
+fixé à 2 % pour les apports qui ont pour objet un immeuble ou des droits
+immobiliers et, selon le tarif prévu à l'article 719, pour ceux qui ont pour
+objet un fonds de commerce, une clientèle, un droit à un bail ou à une promesse
+de bail.
 
 A partir du 1er janvier 1991, ce taux est réduit à 1 p. 100 sur les apports de
 fonds de commerce, de clientèle, de droit à un bail ou à une promesse de bail
@@ -26,8 +27,8 @@ conditions prévues au deuxième alinéa donne lieu au paiement du seul droit fi
 mentionné au I.
 
 En cas de non-respect de l'engagement de conservation des titres, la différence
-entre le droit de 2,60 % ou de 8,60 p. 100 majoré des taxes additionnelles et
-les droits et taxes initialement acquittés est exigible immédiatement.
+entre le droit prévu au premier alinéa majoré des taxes additionnelles et les
+droits et taxes initialement acquittés est exigible immédiatement.
 
 Toutefois, la reprise n'est pas effectuée en cas de donation, si le donataire
 prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au
@@ -36,13 +37,14 @@ terme de la cinquième année suivant l'apport ou le changement du régime fisca
 La reprise n'est pas davantage effectuée en cas de cession, si le cessionnaire
 prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au
 terme de la cinquième année suivant le changement de régime fiscal lorsque ce
-dernier intervient entre le 1er janvier 1997 et le 31 décembre 1998.
+dernier intervient entre le 1er janvier 1997 et le 31 décembre 2001.
 
-Les biens qui ont bénéficié de la réduction du taux à 1 p. cent en 1991 ou ont
-supporté le droit fixe prévu au troisième alinéa sont soumis au droit de
-mutation à titre onéreux s'ils sont attribués, lors du partage social, à un
-associé autre que l'apporteur et au régime prévu au 3° du I de l'article 809
-s'ils sont apportés à une autre société passible de l'impôt sur les sociétés.
+Les biens qui ont bénéficié de la réduction du taux à 1 p. cent en 1991 ou qui
+ont supporté le droit fixe prévu au troisième alinéa ou en ont été exonérés en
+application de l'article 810 bis sont soumis au droit de mutation à titre
+onéreux s'ils sont attribués, lors du partage social, à un associé autre que
+l'apporteur et au régime prévu au 3° du I de l'article 809 s'ils sont apportés à
+une autre société passible de l'impôt sur les sociétés.
 
 III bis. (Disposition périmée).
 

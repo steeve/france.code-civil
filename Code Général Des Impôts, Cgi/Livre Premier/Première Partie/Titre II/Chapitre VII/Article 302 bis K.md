@@ -103,9 +103,7 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 prescription est suspendue et interrompue dans les conditions de droit commun et
 notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-4. Les sanctions prévues ci-dessus ne peuvent être mises en recouvrement avant
-l'expiration d'un délai de trente jours à compter de leur notification. Durant
-ce délai, l'entreprise peut présenter toute observation.
+4. (abrogé)
 
 V. - Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est
 assuré par les agents comptables du budget annexe de l'aviation civile selon les

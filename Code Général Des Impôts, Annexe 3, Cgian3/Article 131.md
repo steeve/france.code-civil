@@ -1,7 +1,8 @@
 Article 131
 ----
 Toute introduction de raisins secs dans la fabrique doit être justifiée par la
-représentation d'un acquit-à-caution.
+représentation d'un document mentionné au I de l'article 302 M du code général
+des impôts.
 
 Toute introduction de matières premières, autres que les raisins, destinées à la
 fabrication de boissons alcooliques doit faire, une heure au moins à l'avance,

@@ -2,13 +2,13 @@ Article 321
 ----
 Pour les distillations faites en atelier public ou dans les locaux des
 associations coopératives, les bouilleurs de cru sont personnellement dispensés
-de toute déclaration; l'accomplissement de cette formalité, qui doit avoir lieu
+de toute déclaration ; l'accomplissement de cette formalité, qui doit avoir lieu
 trois jours avant le commencement des travaux, incombe, soit au possesseur de
 l'alambic (professionnel ou simple particulier), soit au gérant de
 l'association.
 
 Le transport des matières premières et des produits fabriqués s'effectue sous le
-lien d'acquits-à-caution ou de laissez-passer.
+lien des documents mentionnés au I ou au II de l'article 302 M.
 
 Les eaux-de-vie ne peuvent être enlevées qu'après reconnaissance du service. A
 défaut de reconnaissance, l'enlèvement ne peut être opéré avant l'heure fixée

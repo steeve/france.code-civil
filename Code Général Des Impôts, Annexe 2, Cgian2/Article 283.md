@@ -6,8 +6,8 @@ du paiement des livraisons qui en résultent.
 
 Les débitants ne peuvent recevoir pour la commercialisation des tabacs
 manufacturés et la publicité concernant ces produits, aucun avantage, direct ou
-indirect, autre que la remise prévue au 3° de l'article 570 du code général des
-impôts.
+indirect, autre que la remise prévue au 3° du I de l'article 570 du code général
+des impôts.
 
 La répartition des espaces publicitaires entre les différentes marques est
 arrêtée, sur le plan national, par un accord entre les fabricants, les

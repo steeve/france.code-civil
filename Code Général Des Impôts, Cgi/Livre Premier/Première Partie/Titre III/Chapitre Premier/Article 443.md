@@ -1,9 +1,12 @@
 Article 443
 ----
-Sauf le cas où les boissons sont contenues dans des récipients revêtus de
-capsules, empreintes ou vignettes représentatives des droits indirects sur
-l'alcool, le vin, le cidre, aucun enlèvement, déplacement ou transport d'alcool,
-vins, cidres, poirés, hydromels ou jus de raisin, de pommes ou de poires
-concentrés ou non, ne peut être fait sans déclaration préalable de l'expéditeur
-ou de l'acheteur et sans que le transporteur soit muni d'un titre de mouvement
-délivré par l'administration.
+Sous réserve des dispositions du règlement (CEE) n° 2238/93 de la Commission, du
+26 juillet 1993, relatif aux documents accompagnant les transports des produits
+viti-vinicoles et aux registres à tenir dans le secteur viti-vinicole, lorsque
+des alcools, des produits intermédiaires, des produits visés aux articles 435 et
+438 ou des bières circulent en régime de suspension des droits d'accises entre
+deux entrepôts fiscaux suspensifs des droits d'accises, le titre de mouvement
+n'est pas exigé si les informations qu'il contient sont transmises par voie
+télématique et si l'opérateur a fait l'objet, à cet effet, d'une procédure
+d'agrément par l'administration. Les modalités d'application du présent article
+sont définies par décret.

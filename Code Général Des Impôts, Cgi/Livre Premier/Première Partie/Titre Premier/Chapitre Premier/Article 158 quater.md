@@ -8,9 +8,9 @@ de gestion ;
 
 2° Par les sociétés d'investissement régies par le titre II de l'ordonnance n°
 45-2710 du 2 novembre 1945 et remplissant les conditions prévues à l'article 208
-A, par les sociétés d'investissement à capital variable [*SICAV*] régies par
-((la loi n° 88-1201 du 23 décembre 1988 modifiée)) (M) et par les sociétés
-visées au 1° ter de l'article 208 ;
+A, par les sociétés d'investissement à capital variable [*SICAV*] régies par la
+loi n° 88-1201 du 23 décembre 1988 modifiée et par les sociétés visées au 1° ter
+de l'article 208 ;
 
 3° Par les sociétés immobilières pour le commerce et l'industrie visés au
 cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices
@@ -21,9 +21,7 @@ lorsqu'ils sont prélevés sur des résultats exonérés en application des prem
 et deuxième alinéas de l'article 208-3° quinquies ou lorsqu'ils sont distribués
 en application du quatrième alinéa du même article.
 
-5° Par les sociétés agréées pour le financement des économies d'énergie
-(SOFERGIE) et résultant de l'exercice des activités exonérées en application du
-3° sexies de l'article 208 ;
+5° (supprimé)
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de
 produits et plus-values nets exonérés en application du 3° septies de l'article
@@ -36,5 +34,3 @@ proviennent de produits nets exonérés en application de l'article 208 quinquie
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du
 3 de l'article 223 sexies.
-
-(M) Modification de la loi 96-597.

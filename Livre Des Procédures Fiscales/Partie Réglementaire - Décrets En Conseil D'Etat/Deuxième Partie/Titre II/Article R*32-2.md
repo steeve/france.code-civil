@@ -5,4 +5,4 @@ contrôles prévus par le présent livre, les exploitants des distilleries doive
 fournir la main-d'oeuvre et les instruments nécessaires.
 
 Pour ces opérations, les exploitants des distilleries sont tenus de se conformer
-aux prescriptions prévues pour les marchands en gros par l'article L34.
+aux prescriptions prévues pour les entrepositaires agréés par l'article L. 34.

@@ -12,17 +12,17 @@ Les boissons alcooliques passibles d'un des droits mentionnés au premier aliné
 lorsqu'elles sont additionnées exclusivement d'eau, ne sont pas soumises à la
 taxe.
 
-II. - Le tarif de la taxe mentionnée au I est fixé à 36,4 F p ar décilitre
+II. - Le tarif de la taxe mentionnée au I est fixé à 36,4 F par décilitre
 d'alcool pur.
 
 III. - La taxe est due lors de la mise à la consommation en France des boissons
 résultant d'un mélange mentionnées au I. Elle est acquittée, selon le cas, par
-les fabricants, les marchands en gros, les importateurs, les personnes qui
+les fabricants, les entrepositaires agréés, les importateurs, les personnes qui
 réalisent l'acquisition intracommunautaire de ces boissons ou par les personnes
 visées au b du II de l'article 302 D.
 
 IV. - Cette taxe est recouvrée et contrôlée sous les mêmes règles, conditions,
 garanties et sanctions qu'en matière de contributions indirectes.
 
-V. - Le produit de cette taxe est versé à l'Agence centrale d es organismes de
+V. - Le produit de cette taxe est versé à l'Agence centrale des organismes de
 sécurité sociale.

@@ -4,12 +4,10 @@ Article 223 sexies
 les produits distribués par une société sont prélevés sur des sommes à raison
 desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal
 prévu au deuxième alinéa du I de l'article 219, cette société est tenue
-d'acquitter un précompte égal au ((crédit d'impôt calculé dans les conditions
-prévues au I de l'article 158 bis. Toutefois, le précompte est égal au crédit
-d'impôt calculé dans les conditions prévues au II de l'article 158 bis lorsque
-la société justifie qu'il est susceptible d'être utilisé. Le précompte est dû au
-titre des distributions ouvrant droit au crédit d'impôt prévu à l'article 158
-bis quels qu'en soient les bénéficiaires)) (M).
+d'acquitter un précompte égal au crédit d'impôt calculé dans les conditions
+prévues au I de l'article 158 bis. Le précompte est dû au titre des
+distributions ouvrant droit au crédit d'impôt prévu à l'article 158 bis quels
+qu'en soient les bénéficiaires.
 
 Il est également exigible lorsque les produits distribués sont prélevés sur les
 résultats d'exercice clos depuis plus de cinq ans ou depuis une date antérieure
@@ -51,9 +49,7 @@ lorsqu'ils sont prélevés sur des résultats exonérés en application des prem
 et deuxième alinéas du 3° quinquies de l'article 208 ou lorsqu'ils sont
 distribués en application du quatrième alinéa du même article ;
 
-5° Par les sociétés agréées pour le financement des économies d'énergie
-(Sofergie) et résultant de l'exercice des activités exonérées en application du
-3° sexies de l'article 208 ;
+5° (supprimé)
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de
 produits et plus-values nets exonérés en application du 3° septies de l'article
@@ -74,9 +70,6 @@ leur bénéfice comptable hors plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la
 distribution qui provient des dividendes de ces participations (2).
-
-(M) Modification - Ces dispositions s'appliquent aux distributions mises en
-paiement à compter du 1er janvier 1999.
 
 (1) Annexe III, art. 46 quater-0 C à 46 quater-0 F et 381 T.
 

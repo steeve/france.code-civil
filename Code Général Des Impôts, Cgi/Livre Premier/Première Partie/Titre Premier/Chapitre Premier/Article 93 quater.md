@@ -18,7 +18,7 @@ années suivantes à condition que, pendant cette période, l'exploitation des
 droits concédés représente au moins la moitié du chiffre d'affaires de
 l'entreprise.
 
-((I ter. L'imposition de la plus-value constatée lors de l'apport, par un
+I ter. L'imposition de la plus-value constatée lors de l'apport, par un
 inventeur personne physique, d'un brevet, d'une invention brevetable, ou d'un
 procédé de fabrication industriel qui remplit les conditions mentionnées aux a,
 b et c du 1 de l'article 39 terdecies, à une société chargée de l'exploiter
@@ -28,9 +28,9 @@ jusqu'à la date de la cession ou du rachat des droits sociaux reçus en
 rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
-((Les dispositions des quatrième et cinquième alinéas du II de l'article 151
-octies sont applicables aux plus-values dont l'imposition est reportée en
-application du premier alinéa)) (M) (1).
+Les dispositions du dernier alinéa (4) du II de l'article 151 octies sont
+applicables aux plus-values dont l'imposition est reportée en application du
+premier alinéa (1).
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à
@@ -41,12 +41,15 @@ L'application de cette disposition est subordonnée à la condition que l'apport
 soit réalisé dans le délai de dix ans à compter de la publication du décret en
 Conseil d'Etat propre à la profession considérée.
 
-Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas de
+Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas
+d'opérations soumises aux dispositions du I de l'article 151 octies A ou de
 transformation de la société civile professionnelle en société d'exercice
 libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou
-actions de l'associé. Les dispositions des quatrième et cinquième alinéas du II
-de l'article 151 octies sont applicables à l'associé à compter de la
-transformation (2).
+actions de l'associé. Les dispositions du dernier alinéa (4) du II de l'article
+151 octies sont applicables à l'associé à compter de la réalisation des
+opérations soumises aux dispositions du I de l'article 151 octies A ou de la
+transformation de la société civile professionnelle en société d'exercice
+libéral ;
 
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values
 constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151
@@ -78,16 +81,14 @@ au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 4. Un décret fixe les conditions d'application du présent IV, notamment les
 obligations déclaratives des contribuables.
 
-((V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à
-la perte réalisés lors de l'échange de droits sociaux résultant d'une fusion ou
+V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la
+perte réalisés lors de l'échange de droits sociaux résultant d'une fusion ou
 d'une scission de sociétés bénéficiant du régime prévu à l'article 210 B,
 lorsque ces droits sont affectés à l'exercice de la profession au sens de
 l'article 93.
 
-((Ce régime est applicable sous les conditions et sanctions prévues à l'article
-54 septies)) (M) (3).
-
-(M) Modification de la loi 96-1181.
+Les personnes placées sous le régime prévu à l'alinéa précédent sont soumises
+aux obligations définies à l'article 54 septies.(4)
 
 (1) La disposition s'applique aux apports réalisés à compter du 1er janvier
 1997.
@@ -97,3 +98,6 @@ compter du 1er janvier 1994.
 
 (3) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er
 janvier 1997.
+
+(4) Ces dispositions s'appliquent aux opérations réalisées à compter du 1er
+janvier 2000.

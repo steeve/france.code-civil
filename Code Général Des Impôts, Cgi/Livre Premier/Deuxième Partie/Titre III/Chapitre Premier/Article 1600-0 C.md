@@ -20,20 +20,24 @@ d'instruments financiers et de marchandises, ainsi que sur les marchés d'option
 négociables soumis à l'impôt sur le revenu à un taux proportionnel.
 
 Pour l'application du premier alinéa du présent e, le gain net retiré de la
-cession d'actions acquises dans les conditions prévues aux articles 208 1 à 208
-8 2 modifiés de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+cession d'actions acquises dans les conditions prévues aux articles 208-1 à
+208-8-2 modifiés de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
 commerciales est égal à la différence entre le prix effectif de cession des
 actions net des frais et taxes acquittés par le cédant et le prix de
 souscription ou d'achat majoré, le cas échéant, des rémunérations visées au
 deuxième alinéa de l'article L. 242-1 du code de la sécurité sociale ;
 
-f) ((De tous revenus qui entrent dans la catégorie des bénéfices industriels et
+f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
 commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles, à
 l'exception de ceux qui sont assujettis à la contribution sur les revenus
 d'activité et de remplacement définie aux articles L. 136-1 à L. 136-5 du code
-de la sécurité sociale)) (M) ;
+de la sécurité sociale ;
 
 g) (Sans objet) ;
+
+Pour la détermination de l'assiette de la contribution, il n'est pas fait
+application des abattements mentionnés au I de l'article 125-0 A et au 3 et au 4
+bis de l'article 158.
 
 II. Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I :
@@ -48,14 +52,12 @@ sociale.
 
 III. La contribution portant sur les revenus mentionnés aux I et II est assise,
 contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
-privilèges et sanctions que l'impôt sur le revenu. Le produit de cette
-contribution est versé à l'Agence centrale des organismes de sécurité sociale
-sans déduction d'une retenue pour frais d'assiette et de perception.
+privilèges et sanctions que l'impôt sur le revenu.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.
 
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
-par article de rôle est inférieur à 160 F.
+par article de rôle est inférieur à 400 F.
 
 Par dérogation à l'article 150 R, le paiement ne peut être fractionné.
