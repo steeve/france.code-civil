@@ -15,7 +15,7 @@ excède le montant de la taxe due d'après les éléments qui figurent sur cette
 déclaration, l'excédent de taxe dont l'imputation ne peut être faite est
 reporté, jusqu'à épuisement, sur la ou les déclarations suivantes. Toutefois,
 cet excédent peut faire l'objet de remboursements dans les conditions fixées par
-les articles 242-0 A à 242-0 L et par l'article 271-4 du code général des
+les articles 242-0 A à 242-0 K et par l'article 271-4 du code général des
 impôts.
 
 3. Les régularisations de déductions auxquelles les assujettis procèdent doivent
