@@ -1,19 +1,26 @@
 Article R26
 ----
-La commission prévue à l'article 149-1 est saisie par une requête signée du
-demandeur et remise ou adressée au secrétaire de la commission qui en délivre
-récépissé.
+Le premier président de la cour d'appel dans le ressort de laquelle a été
+prononcée la décision de non-lieu, de relaxe ou d'acquittement est saisi par une
+requête signée du demandeur ou d'un des mandataires mentionnés au premier alinéa
+de l'article R. 27 et remise contre récépissé ou adressée par lettre recommandée
+avec demande d'avis de réception au greffe de la cour d'appel.
 
-La requête contient l'exposé des faits et toutes indications utiles, notamment :
+La requête contient l'exposé des faits, le montant de l'indemnité demandée et
+toutes indications utiles, notamment en ce qui concerne :
 
-1° Sur la date et la nature de la décision qui a ordonné la détention provisoire
-ainsi que sur l'établissement pénitentiaire où cette détention a été subie ;
+1° La date et la nature de la décision qui a ordonné la détention provisoire
+ainsi que l'établissement pénitentiaire où cette détention a été subie ;
 
-2° Sur la juridiction qui a pronconcé la décision de non-lieu, de relaxe ou
-d'acquittement ainsi que sur la date de sa décision ;
+2° La juridiction qui a prononcé la décision de non-lieu, de relaxe ou
+d'acquittement ainsi que la date de cette décision ;
 
-3° Sur la nature et le montant des préjudices allégués ;
+3° L'adresse où doivent être faites les notifications au demandeur.
 
-4° Sur l'adresse où doivent être faites les notifications au demandeur.
+La requête est accompagnée de toutes pièces justificatives, notamment de la
+copie de la décision de non-lieu, de relaxe ou d'acquittement.
 
-La requête est accompagnée de toutes pièces justificatives.
+Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision
+de non-lieu, de relaxe ou d'acquittement devenue définitive que si, lors de la
+notification de cette décision, la personne a été avisée de son droit de
+demander une indemnisation ainsi que des dispositions de l'article 149-1.

@@ -1,12 +1,5 @@
 Article R40-3
 ----
-Parmi les magistrats désignés pour composer la commission, le bureau de la Cour
-de cassation désigne celui qui est chargé d'en exercer la présidence, ainsi que
-son suppléant.
-
-La désignation des magistrats appelés à composer la commission est faite pour
-l'année judiciaire.
-
-Lorsqu'un des magistrats désignés cesse de pouvoir faire partie de la
-commission, il est procédé à une désignation en remplacement qui produit effet
-jusqu'à l'expiration de l'année en cours.
+Lorsque le recours prévu au premier alinéa de l'article 149-3 n'est pas exercé,
+le dossier de la procédure pénale est renvoyé, avec une copie de la décision, à
+la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement.

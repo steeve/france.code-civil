@@ -1,9 +1,12 @@
 Article R27
 ----
-Dans un délai de quinze jours à compter de la réception de la requête, le
-secrétaire de la commission en transmet copie au procureur général près la Cour
-de cassation et, par lettre recommandée avec demande d'avis de réception, à
-l'agent judiciaire du Trésor.
+Devant le premier président de la cour d'appel, le demandeur et l'agent
+judiciaire du Trésor peuvent être assistés ou représentés par un avocat ou
+représentés par un avoué inscrit auprès de la cour d'appel.
 
-Il demande au greffe de la juridiction qui a rendu la décision de non-lieu, de
-relaxe ou d'acquittement la communication du dossier de la procédure.
+Lorsqu'une partie est assistée par un avocat, les notifications par lettre
+recommandée avec demande d'avis de réception prévues par les articles suivants
+sont faites au seul avocat et copie en est adressée par lettre simple à la
+partie. Lorsqu'une partie est représentée par un avocat ou un avoué inscrit
+auprès de la cour d'appel, ces notifications sont faites dans les mêmes formes
+au seul avocat ou avoué.

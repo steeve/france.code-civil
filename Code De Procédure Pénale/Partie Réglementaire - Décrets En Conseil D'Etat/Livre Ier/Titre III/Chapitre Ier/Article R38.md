@@ -1,7 +1,12 @@
 Article R38
 ----
-Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que la
-commission ne l'en décharge d'une partie ou de la totalité.
+La décision du premier président de la cour d'appel est rendue en audience
+publique.
 
-La décision de la commission comporte exécution forcée pour le paiement des
-dépens.
+Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit
+par remise d'une copie contre récépissé, soit par lettre recommandée avec
+demande d'avis de réception. La notification indique que la décision peut faire
+l'objet d'un recours devant la Commission nationale d'indemnisation des
+détentions provisoires dans un délai de dix jours.
+
+Une copie de la décision est remise au procureur général.

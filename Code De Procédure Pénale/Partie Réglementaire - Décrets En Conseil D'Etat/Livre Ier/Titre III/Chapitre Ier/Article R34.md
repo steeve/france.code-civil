@@ -1,4 +1,7 @@
 Article R34
 ----
-La commission procède ou fait procéder à toutes mesures d'instruction utiles,
-notamment, s'il y a lieu, à l'audition du demandeur.
+Le premier président de la cour d'appel procède ou fait procéder à toutes
+mesures d'instruction utiles. Il peut, s'il l'estime nécessaire, entendre le
+demandeur, en présence de son avocat ou celui-ci dûment convoqué, et en présence
+de l'agent judiciaire du Trésor et du procureur général ou ceux-ci dûment
+convoqués.

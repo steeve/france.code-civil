@@ -1,6 +1,12 @@
 Article R32
 ----
-Dans le délai d'un mois à compter de la dernière des notifications prévues à
-l'article précédent, le demandeur remet ou adresse au secrétaire de la
-commission ses observations en réponse qui sont communiquées à l'agent
-judiciaire du Trésor et au procureur général dans le délai de quinze jours.
+Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration
+du délai prévu à l'article précédent, le greffe de la cour d'appel transmet le
+dossier au procureur général.
+
+Le procureur général dépose ses conclusions dans les deux mois.
+
+Le greffe de la cour d'appel notifie au demandeur par lettre recommandée avec
+demande d'avis de réception, dans le délai de quinze jours à compter de leur
+dépôt, les conclusions du procureur général. Il communique, dans le même délai,
+ces conclusions à l'agent judiciaire du Trésor.

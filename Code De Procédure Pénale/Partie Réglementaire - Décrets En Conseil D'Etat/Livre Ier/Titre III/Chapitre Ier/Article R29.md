@@ -1,9 +1,5 @@
 Article R29
 ----
-L'agent judiciaire du Trésor peut prendre connaissance du dossier de la
-procédure pénale au secrétariat de la commission. Il lui est délivré sans frais,
-sur sa demande, copie des pièces.
-
-L'agent judiciaire du Trésor dépose ses conclusions au secrétariat de la
-commission dans le délai de deux mois à compter de la réception de la lettre
-recommandée prévue à l'article R. 27.
+Le demandeur peut se faire délivrer sans frais copie des pièces de la procédure
+pénale. Seul son avocat peut prendre communication du dossier au greffe de la
+cour d'appel.
