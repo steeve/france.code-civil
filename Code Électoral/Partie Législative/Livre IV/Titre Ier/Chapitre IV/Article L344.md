@@ -15,3 +15,7 @@ d'option est ouvert dans les mêmes conditions. A défaut d'option dans le déla
 d'un mois à compter de la date à laquelle est survenue la cause
 d'incompatibilité, le conseiller régional est déclaré démissionnaire de son
 mandat par arrêté du représentant de l'Etat dans la région.
+
+Les arrêtés du représentant de l'Etat dans la région mentionnés aux deux alinéas
+précédents peuvent être contestés dans les dix jours suivant leur notification
+devant le Conseil d'Etat.

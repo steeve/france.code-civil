@@ -2,7 +2,8 @@ Article L52-15
 ----
 La Commission nationale des comptes de campagne et des financements politiques
 approuve et, après procédure contradictoire, rejette ou réforme les comptes de
-campagne.
+campagne. Elle arrête le montant du remboursement forfaitaire prévu à l'article
+L. 52-11-1.
 
 Hors le cas prévu à l'article L. 118-2, elle se prononce dans les six mois du
 dépôt des comptes. Passé ce délai, les comptes sont réputés approuvés.

@@ -17,10 +17,10 @@ assuré par le candidat suivant dans l'ordre de la liste.
 Lorsque les dispositions des alinéas précédents ne peuvent plus être appliquées,
 il est procédé au renouvellement du conseil municipal :
 
-1° Dans les deux mois de la dernière vacance, si le conseil municipal a perdu le
-tiers de ses membres, et sous réserve de l'application du deuxième alinéa de
-l'article L. 258;
+1° Dans les trois mois de la dernière vacance, si le conseil municipal a perdu
+le tiers de ses membres, et sous réserve de l'application du deuxième alinéa de
+l'article L. 258 ;
 
-2° Dans les conditions prévues aux articles L2122-8 et L2122-14 du code général
-des collectivités territoriales, s'il est nécessaire de compléter le conseil
-avant l'élection d'un nouveau maire.
+2° Dans les conditions prévues aux articles L. 2122-8 et L. 2122-14 du code
+général des collectivités territoriales, s'il est nécessaire de compléter le
+conseil avant l'élection d'un nouveau maire.
