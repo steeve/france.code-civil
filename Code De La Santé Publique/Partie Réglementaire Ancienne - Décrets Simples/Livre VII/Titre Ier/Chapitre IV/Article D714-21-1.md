@@ -14,7 +14,11 @@ En dehors de l'établissement et dans des conditions permettant l'accomplissemen
 de leurs fonctions universitaires, elles peuvent consister en missions
 d'expertise ou de conseil relatifs à la santé publique soit dans les services
 déconcentrés de la circonscription régionale où est situé l'établissement dont
-ils relèvent, soit dans les services centraux de l'Etat.
+ils relèvent, soit dans les services centraux de l'Etat, soit auprès de l'Agence
+nationale d'accréditation et d'évaluation en santé, à l'exception des missions
+comportant un lien direct ou indirect avec leur établissement d'origine, soit
+auprès des agences régionales de l'hospitalisation, à l'exception de celle dont
+relève leur établissement d'origine.
 
 Les consultants demeurent rattachés à leur établissement d'origine.
 
