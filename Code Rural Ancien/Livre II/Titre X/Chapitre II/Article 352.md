@@ -1,7 +1,7 @@
 Article 352
 ----
 Le ministre de l'agriculture prescrit par arrêté tous traitements ou mesures
-nécessaires pour combattre la propagation des parasites et animaux inscrits sur
+nécessaires pour combattre la propagation des organismes nuisibles inscrits sur
 la liste prévue à l'article 342. Il peut ordonner la mise en quarantaine, la
 désinfection, l'interdiction de planter et de multiplier, et, au besoin, la
 destruction par le feu ou par tout autre procédé, des végétaux existants sur le

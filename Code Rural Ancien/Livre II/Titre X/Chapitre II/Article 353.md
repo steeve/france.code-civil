@@ -12,7 +12,7 @@ agricoles, pour la perte résultant de la destruction des végétaux non contami
 ordonnée par mesure de précaution.
 
 Aucune allocation n'est accordée pour la destruction des végétaux sur lesquels
-l'existence du parasite dangereux a été constatée toutes les fois que le
+l'existence de l'organisme nuisible été constatée toutes les fois que le
 propriétaire ou l'usager du terrain sur lequel se trouvent les végétaux n'a pas
 effectué la déclaration prévue à l'article 350 et ne peut prouver à dire de
 témoins ou de toute autre manière que des traitements ont été effectués en vue

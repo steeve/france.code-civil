@@ -12,9 +12,9 @@ notamment, de diffuser les indications fournies par les stations régionales
 d'avertissement ;
 
 3° De signaler au directeur des services agricoles de leur département
-l'apparition de tout nouveau parasite figurant sur la liste prévue à l'article
-342, ou le développement inaccoutumé des parasites dont la présence est
-normalement constatée sur leur territoire ;
+l'apparition de tout nouvel organisme nuisible figurant sur la liste prévue à
+l'article 342, ou le développement inaccoutumé des organismes nuisibles dont la
+présence est normalement constatée sur leur territoire ;
 
 4° D'exécuter, soit à la demande du service de la protection des végétaux, soit
 à la demande des particuliers, les traitements insecticides et

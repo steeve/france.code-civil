@@ -9,7 +9,7 @@ cette notification au préfet du département et au maire de la commune sur le
 territoire de laquelle les opérations doivent avoir lieu.
 
 Les travaux de défense sanitaire sont alors effectués par le groupement agréé de
-défense contre les ennemis des cultures sous le contrôle du service de la
+défense contre les organismes nuisibles sous le contrôle du service de la
 protection des végétaux, et, au cas de carence de ce groupement, par ce service
 lui-même.
 
