@@ -22,8 +22,8 @@ titulaire de la charge ou de l'office ou du jour de la cessation effective si
 elle est postérieure à cette publication.
 
 2. Les contribuables sont tenus de faire parvenir à l'administration dans le
-délai de soixante jours prévu au 1, la déclaration visée à l'article 97 ou à
-l'article 101 [*obligation*].
+délai prévu au 1, la déclaration visée à l'article 97 ou à l'article 101
+[*obligation*].
 
 Si les contribuables ne produisent pas la déclaration visée au premier alinéa du
 présent paragraphe, les bases d'imposition sont arrêtées d'office [*sanction du
