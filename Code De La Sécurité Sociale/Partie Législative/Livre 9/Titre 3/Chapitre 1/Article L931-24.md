@@ -2,8 +2,10 @@ Article L931-24
 ----
 Pour les opérations mentionnées au a de l'article L. 931-1 réalisées directement
 par les institutions de prévoyance, la créance garantie par le privilège ou
-l'hypothèque légale est arrêtée au montant de la provision correspondante telle
-qu'elle est définie dans des conditions fixées par décret en Conseil d'Etat.
+l'hypothèque légale est arrêtée au montant des cotisations à rembourser par
+préférence en cas de renonciation au bulletin d'adhésion ou au contrat et de la
+provision correspondante telle qu'elle est définie dans des conditions fixées
+par décret en Conseil d'Etat.
 
 Pour les opérations mentionnées au b et au c de l'article L. 931-1 réalisées
 directement par ces mêmes institutions, la créance garantie est arrêtée au

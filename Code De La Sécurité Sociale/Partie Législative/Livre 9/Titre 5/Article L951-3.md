@@ -34,3 +34,11 @@ En cas de partage égal des voix, celle du président est prépondérante.
 Le mandat des membres de la présente commission à la date de publication de la
 loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite s'achève le 31
 décembre 2000.
+
+Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans
+les cinq ans qui suivent l'expiration de celui-ci, recevoir de rétribution d'une
+mutuelle ou d'une union, d'une institution de prévoyance ou d'une entreprise
+régie par le code des assurances avec lesquelles l'institution de prévoyance, la
+mutuelle ou l'union établissent des comptes consolidés ou combinés conformément
+à l'article L. 931-34 du présent livre ou à l'article L. 212-7 du code de la
+mutualité.

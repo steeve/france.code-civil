@@ -10,9 +10,13 @@ en application de l'article L. 931-1 ;
 leur adéquation au programme d'activité de l'institution ;
 
 3° L'honorabilité et la qualification ou l'expérience professionnelle des
-personnes chargées de la diriger ;
+personnes chargées de la diriger appréciées dans les conditions définies à
+l'article L. 931-9 ;
 
-4° Les modalités de constitution de son fonds d'établissement.
+4° Les modalités de constitution de son fonds d'établissement ;
+
+5° L'engagement d'adhérer au fonds paritaire de garantie prévu à l'article L.
+931-35.
 
 Le ministre refuse l'agrément, après avis de la commission de contrôle instituée
 à l'article L. 951-1 du code de la sécurité sociale, lorsque l'exercice de la
@@ -25,3 +29,6 @@ plusieurs de ces personnes.
 
 La liste des documents à produire à l'appui d'une demande d'agrément est fixée
 par arrêté du ministre chargé de la sécurité sociale.
+
+L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits
+par l'institution requérante.

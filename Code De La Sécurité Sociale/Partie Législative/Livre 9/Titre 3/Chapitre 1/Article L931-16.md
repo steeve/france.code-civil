@@ -7,11 +7,12 @@ contrats couvrant des risques ou des engagements situés sur le territoire d'un
 Etat membre de la Communauté européenne avec ses droits et obligations à une ou
 plusieurs des institutions de prévoyance ou de leurs succursales, à une ou
 plusieurs des entreprises d'assurance françaises ou de leurs succursales régies
-par le code des assurances, à une ou plusieurs des entreprises d'assurance dont
-l'Etat d'origine est membre de la Communauté européenne ou de leurs succursales
-établies sur le territoire de celles-ci ou à une ou plusieurs entreprises
-d'assurance établies dans l'Etat du risque ou de l'engagement et agréés dans cet
-Etat.
+par le code des assurances, à une ou plusieurs des mutuelles ou unions ou de
+leurs succursales régies par le livre II du code de la mutualité, à une ou
+plusieurs des entreprises d'assurance dont l'Etat d'origine est membre de la
+Communauté européenne ou de leurs succursales établies sur le territoire de
+celles-ci ou à une ou plusieurs entreprises d'assurance établies dans l'Etat du
+risque ou de l'engagement et agréés dans cet Etat.
 
 La demande de transfert est portée à la connaissance des créanciers par un avis
 publié au Journal officiel, qui leur impartit un délai de deux mois pour

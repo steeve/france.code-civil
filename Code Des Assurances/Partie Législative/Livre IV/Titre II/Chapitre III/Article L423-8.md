@@ -19,7 +19,7 @@ adhérentes ;
 versée au fonds de garantie moyennant la constitution de garanties appropriées ;
 
 - la formule de répartition de ces cotisations annuelles, dont l'assiette est
-constituée du montant des provisions mathématiques, pondérée par les cotisations
+constituée du montant des provisions techniques, pondérée par les cotisations
 déjà versées ainsi que par les indicateurs de la situation financière de chacun
 des adhérents, et notamment leur solvabilité, reflétant les risques objectifs
 que l'adhérent fait courir au fonds ;
