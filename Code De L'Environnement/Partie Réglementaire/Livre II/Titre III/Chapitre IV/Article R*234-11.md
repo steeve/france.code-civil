@@ -7,7 +7,7 @@ celles mentionnées au 6° de l'article R. 234-10, le ministre n'y fasse
 opposition.
 
 Toutefois, les délibérations portant sur les matières énumérées aux 1°, 3°, 4°,
-8° et 14° de l'article R. 234-10 ne deviennent exécutoires qu'à l'issue du délai
+8° et 13° de l'article R. 234-10 ne deviennent exécutoires qu'à l'issue du délai
 d'un mois suivant la réception du procès-verbal par le ministre chargé de la
 pêche en eau douce et par le ministre chargé du budget sauf opposition expresse
 de l'un d'entre eux. Les délibérations portant sur les matières énumérées aux 7°

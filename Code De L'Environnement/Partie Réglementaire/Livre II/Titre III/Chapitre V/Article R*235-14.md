@@ -9,8 +9,8 @@ charges pour l'exploitation de chaque lot, après avis, le cas échéant, de
 l'organisme ou de la collectivité gestionnaire. Ces clauses ont notamment pour
 objet :
 
-1° La désignation des lots où l'exercice de la pêche aux engins et aux filets
-est jugé nécessaire à une gestion rationnelle des ressources piscicoles ;
+1° La désignation des lots où l'exercice de la pêche est jugé nécessaire à une
+gestion rationnelle des ressources piscicoles ;
 
 2° L'indication, pour les lots mentionnés au 1°, du mode d'exploitation retenu,
 par voie de location ou de licences, et le nombre maximum de licences de chaque

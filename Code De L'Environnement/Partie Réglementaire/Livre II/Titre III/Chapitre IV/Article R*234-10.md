@@ -32,9 +32,7 @@ neuf ans ;
 
 11° L'acceptation des dons et legs ;
 
-12° Les actions en justice ;
-
-13° L'organisation et les missions des délégations régionales du Conseil
+12° L'organisation et les missions des délégations régionales du Conseil
 supérieur de la pêche ;
 
-14° Les conditions générales d'attribution des aides et subventions.
+13° Les conditions générales d'attribution des aides et subventions.

@@ -31,7 +31,7 @@ S'il est déjà locataire d'un lot, le pêcheur professionnel doit aussi justifi
 précédemment.
 
 Les demandes présentées par les pêcheurs professionnels sont soumises à l'avis
-de la commission des structures de la pêche professionnelle en eau douce,
+de la commission de bassin pour la pêche professionnelle en eau douce,
 mentionnée à l'article R. 235-13-1.
 
 Les demandes prévues par le présent article sont adressées au préfet par lettre
