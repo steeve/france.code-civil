@@ -14,4 +14,6 @@ l'exercice social sont déficitaires.
 
 Le montant imposable des rémunérations visées à l'alinéa précédent est déterminé
 sous déduction des frais inhérents à l'exploitation sociale et effectivement
-supportés par les bénéficiaires dans l'exercice de leurs fonctions.
+supportés par les bénéficiaires dans l'exercice de leurs fonctions ainsi que des
+intérêts des emprunts visés aux 2° quater et 2° quinquies de l'article 83 dans
+les conditions et limites énoncées à cet article.
