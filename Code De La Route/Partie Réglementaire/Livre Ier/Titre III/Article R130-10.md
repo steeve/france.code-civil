@@ -1,0 +1,19 @@
+Article R130-10
+----
+I. - Sans préjudice des pouvoirs conférés à d'autres agents par des lois
+spéciales, peuvent régler la circulation :
+
+1° Les gendarmes auxiliaires placés sous le commandement de militaires de la
+gendarmerie et les volontaires servant en qualité de militaires dans la
+gendarmerie ;
+
+2° Les policiers auxiliaires et les adjoints de sécurité placés sous le
+commandement de fonctionnaires de la police nationale ;
+
+3° Certains personnels militaires des unités de circulation de l'arme du train
+pour assurer l'acheminement des véhicules militaires.
+
+II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation
+et la définition des catégories de personnels habilités font l'objet d'un arrêté
+conjoint du ministre de l'intérieur, du ministre de la justice, du ministre
+chargé des armées et du ministre chargé des transports.

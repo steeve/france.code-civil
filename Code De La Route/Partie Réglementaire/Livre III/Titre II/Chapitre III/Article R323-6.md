@@ -26,11 +26,3 @@ terrestres, les véhicules utilisés pour l'enseignement de la conduite des
 véhicules à moteur, les véhicules utilisés dans le cadre de l'exploitation des
 entreprises de remise et de tourisme, ainsi que les taxis et les voitures de
 remise.
-
-IV. - Au titre des mesures prises sur le fondement de l'article 15 du décret n°
-2001-449 du 25 mai 2001 et en application d'un plan de protection de
-l'atmosphère, le préfet peut étendre par arrêté l'obligation de visite
-complémentaire visée au II, pour les voitures particulières autres que celles
-mentionnées au III ci-dessus et au I de l'article R. 318-2, immatriculées dans
-le département. Il en informe les ministres chargés des transports et de
-l'environnement.

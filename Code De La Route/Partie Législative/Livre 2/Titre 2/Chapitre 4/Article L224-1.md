@@ -1,0 +1,17 @@
+Article L224-1
+----
+Lorsque les épreuves de dépistage de l'imprégnation alcoolique et le
+comportement du conducteur permettent de présumer que celui-ci conduisait sous
+l'empire de l'état alcoolique défini à l'article L. 234-1 ou lorsque les mesures
+faites au moyen de l'appareil homologué mentionné à l'article L. 234-4 ont
+établi cet état, les officiers et agents de police judiciaire retiennent à titre
+conservatoire le permis de conduire de l'intéressé. Ces dispositions sont
+applicables à l'accompagnateur de l'élève conducteur.
+
+Il en est de même en cas de conduite en état d'ivresse manifeste ou
+d'accompagnement en état d'ivresse manifeste d'un élève conducteur ou lorsque le
+conducteur ou l'accompagnateur refuse de se soumettre aux épreuves et mesures
+prévues à l'alinéa précédent. Le procès-verbal fait état des raisons pour
+lesquelles il n'a pu être procédé aux épreuves de dépistage prévues au premier
+alinéa ; en cas d'état d'ivresse manifeste du conducteur ou de l'accompagnateur,
+les épreuves doivent être effectuées dans les plus brefs délais.
