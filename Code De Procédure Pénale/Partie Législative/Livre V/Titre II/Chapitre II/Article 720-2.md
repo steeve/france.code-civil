@@ -26,7 +26,9 @@ Les réductions de peine accordées pendant la période de sûreté ne seront
 imputées que sur la partie de la peine excédant cette durée.
 
 Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la
-remise d'une peine au moins égale à dix ans d'incarcération sanctionnant une
-infraction mentionnée au premier alinéa entraîne de plein droit l'application de
-la période de sûreté pour la durée maximale applicable à la détention restant à
-subir.
+remise d'une peine privative de liberté, non assortie du sursis, au moins égale
+à dix ans et sanctionnant une infraction mentionnée au premier alinéa entraîne
+de plein droit le maintien de la période de sûreté pour une durée globale qui
+correspond à la moitié de la peine résultant de cette commutation ou remise,
+sans pouvoir toutefois excéder la durée de la période de sûreté attachée à la
+peine prononcée.
