@@ -20,10 +20,11 @@ communs de placement dont l'objet est limité à la gestion d'un portefeuille de
 valeurs mentionnées aux 1° et 2° ci-dessus.
 
 4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou
-au compartiment spécial du marché hors cote des bourses françaises de valeurs.
+à la cote du second marché des bourses françaises de valeurs.
 
-4° bis Actions et parts des sociétés commerciales françaises non inscrites à la
-cote officiel des bourses françaises de valeurs.
+4° bis Actions et parts de sociétés commerciales françaises non inscrites à la
+cote officielle ou à la cote du second marché des bourses françaises de valeurs,
+ainsi que les parts de fonds communs de placement à risques.
 
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou
 inscrites à la cote d'une bourse de valeurs, dans les conditions déterminées par
@@ -39,9 +40,9 @@ Tous autres immeubles situés en France métropolitaine et dans les département
 et territoires d'outre-mer, sur autorisation donnée dans chaque cas par le
 ministre de l'économie et des finances.
 
-Parts ou actions de sociétés immobilières non inscrites à la cote officielle des
-bourses françaises de valeurs, dans les conditions déterminées dans chaque cas
-par le ministre de l'économie et des finances.
+Parts ou actions de sociétés immobilières non inscrites à la cote officielle où
+la cote du second marché des bourses françaises de valeurs, dans les conditions
+déterminées dans chaque cas par le ministre de l'économie et des finances.
 
 Droits réels immobiliers donnant à leurs titulaires les prérogatives du
 propriétaire pendant une durée au moins égale à trente ans ;
@@ -68,7 +69,7 @@ Prêts aux organismes d'habitation à loyer modéré mentionnés à l'article 15
 code de l'urbanisme et de l'habitation, aux coopératives de construction et aux
 sociétés d'économie mixte de construction de logements, et obligations libérées
 émises par lesdits organismes. Chacun de ces prêts ou obligations doit
-bénéficier de la garantie totale et inconditionnelle de la collectivité locale
+bénéficier de la garantie totale et inconditionnelle de la collectivité local
 intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et
 sans réserve, la collectivité garante au débiteur défaillant.
 
@@ -87,7 +88,7 @@ ministre de l'économie et des finances.
 12° Prêts sur les valeurs mentionnées aux 1° et 15° du présent article, dans la
 limite de 75 p. 100 au plus de leur montant nominal ;
 
-13° Parts ou actions d'entreprises étrangères d'assurance dans lesquelles des
+13° Parts ou actions d'entreprises étrangères d'assurances dans lesquelles des
 entreprises françaises d'assurance, de réassurance ou de capitalisation,
 individuellement ou collectivement, possèdent une participation au moins égale à
 20 p. 100 du capital social. Ces valeurs sont admises en représentation des
