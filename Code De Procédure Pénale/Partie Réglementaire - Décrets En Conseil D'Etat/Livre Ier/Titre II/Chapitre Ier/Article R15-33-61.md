@@ -1,4 +1,4 @@
-Article R15-33-24
+Article R15-33-61
 ----
 Lorsqu'il est fait application des dispositions du premier alinéa de l'article
 62-1, le procès-verbal des déclarations de la personne entendue mentionne
