@@ -8,11 +8,9 @@ aux retraites liquidées sans que ce pourcentage puisse être supérieur à celu
 fixé au titre de la même année pour les cotisations.
 
 Le bénéfice de la revalorisation applicable aux éléments de retraite en cours de
-constitution n'est pas accordé à l'adhérent qui tout en restant affilié au
-régime de base a renoncé, définitivement ou non, à cotiser au régime
-complémentaire ou a choisi une classe inférieure de cotisation sauf s'il
-justifie que cette dernière cotisation représente au moins 3 p. 100 des revenus
-mentionnés à l'article D. 635-22.
+constitution n'est pas accordé à l'adhérent qui, tout en restant affilié au
+régime de base, a renoncé, définitivement ou non, à cotiser au régime
+complémentaire.
 
 Dans le cas des personnes mentionnées au 1° du deuxième alinéa de l'article D.
 635-20, le bénéfice des revalorisations applicables aux éléments de retraite en
