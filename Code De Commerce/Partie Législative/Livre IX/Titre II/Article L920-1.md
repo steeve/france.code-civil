@@ -17,4 +17,7 @@ dispositions suivantes du présent code sont applicables à Mayotte :
 6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à
 L. 628-8 ;
 
-7° Le livre VIII.
+7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et
+des dispositions relatives aux délégués consulaires ;
+
+8° Le livre VIII.

@@ -1,7 +1,13 @@
 Article L571-1
 ----
-Les dispositions du titre II du présent livre sont applicables à Mayotte à
-l'exception de celles des articles L. 522-3, L. 522-4, L. 522-6, L. 523-8 à L.
-523-13, du troisième alinéa de l'article L. 524-1, des deuxième à cinquième
-alinéas de l'article L. 527-1, des articles L. 527-2 et L. 527-3 et sous réserve
-des dispositions suivantes.
+Sous réserve des dispositions du présent chapitre, sont applicables à Mayotte :
+
+- les dispositions du chapitre Ier du titre Ier du présent livre, à l'exception
+de celles des articles L. 511-1, L. 511-3, L. 511-4, L. 511-5 et L. 511-6 ;
+
+- les articles L. 515-1 à L. 515-5.
+
+Pour l'application à Mayotte de ces dispositions, les mots :
+
+"chambre d'agriculture" sont remplacés par les mots : "chambre de l'agriculture,
+de la pêche et de l'aquaculture".
