@@ -1,11 +1,7 @@
 Article 1142-12
 ----
 Les exploitants agricoles exerçant leur activité dans les départements
-d'outre-mer bénéficient des allocations familiales dans les conditions prévues
-par le présent chapitre.
-
-Ils bénéficient de l'allocation de rentrée scolaire, de l'allocation de
-logement, de l'allocation d'éducation spéciale, de l'allocation de soutien
-familial, de l'allocation de parent isolé, du complément familial dans les
-conditions respectivement prévues aux articles L. 523, L. 533, L. 538, L. 544,
-L. 758-2, L. 758-3 du code de la sécurité sociale.
+d'outre-mer bénéficient des prestations familiales mentionnées au chapitre V du
+titre V du livre VII du code de la sécurité sociale, dans les conditions prévues
+par le présent chapitre et par les articles L. 755-3, L. 755-4, L. 755-12, L.
+755-14, L. 755-16 à L. 755-25 du code de la sécurité sociale.
