@@ -13,7 +13,8 @@ d) Le directeur général des impôts ;
 
 e) Le directeur du budget ;
 
-f) Le directeur du Trésor ;
+f) Le directeur général du Trésor et de la politique économique ou son
+représentant ;
 
 g) Le délégué général à l'emploi et à la formation professionnelle ;
 

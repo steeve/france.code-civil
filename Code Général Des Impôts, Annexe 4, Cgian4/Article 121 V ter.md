@@ -19,7 +19,8 @@ Le directeur général des impôts ;
 
 Le directeur du budget ;
 
-Le directeur du Trésor ;
+Le directeur général du Trésor et de la politique économique ou son représentant
+;
 
 Le directeur de la comptabilité publique ;
 
