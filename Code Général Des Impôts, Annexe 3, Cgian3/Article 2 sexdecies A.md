@@ -1,6 +1,6 @@
 Article 2 sexdecies A
 ----
-Pendant la période de mise à disposition du logement prévue au cinquième alinéa
+Pendant la période de mise à disposition du logement prévue au deuxième alinéa
 du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des
 impôts, le contribuable joint chaque année à sa déclaration de revenu une note
 annexe établie conformément à un modèle fixé par l'administration qui comporte

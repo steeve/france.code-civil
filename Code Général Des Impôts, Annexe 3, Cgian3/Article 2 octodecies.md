@@ -28,5 +28,8 @@ documents relatifs aux opérations ayant affecté ce compte sont conservés jusq
 la fin de la troisième année suivant celle de l'expiration de l'engagement
 mentionné au I.
 
-III. - Les associés joignent à chacune de leurs déclarations des revenus un
-exemplaire du document mentionné au II de l'article 2 septdecies.
+III. - Les associés joignent à chacune de leurs déclarations des revenus y
+compris pendant la période de mise à disposition du logement prévue au deuxième
+alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code
+général des impôts un exemplaire du document mentionné au II de l'article 2
+septdecies.
