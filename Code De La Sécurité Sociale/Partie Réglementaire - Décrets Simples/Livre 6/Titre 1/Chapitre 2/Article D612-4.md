@@ -15,9 +15,9 @@ A titre provisoire :
 
 1°) en application du troisième alinéa ci-dessus, le taux de la cotisation due
 sur les revenus procurés par l'exercice d'une ou plusieurs activités
-non-salariées non-agricoles est fixé à 12,90 p. 100 dont 3,10 p. 100 dans la
-limite du plafond et 9,80 p. 100 dans la limite de cinq fois le plafond ;
+non-salariées non-agricoles est fixé à 11,40 p. 100 dont 2,40 p. 100 dans la
+limite du plafond et 9,00 p. 100 dans la limite de cinq fois le plafond ;
 
 2°) le taux de la cotisation due sur les allocations ou pensions mentionnées à
-l'article D. 612-3 ci-dessus est fixé à 3,4 p. 100 dans la limite de cinq fois
+l'article D. 612-3 ci-dessus est fixé à 2,40 p. 100 dans la limite de cinq fois
 le plafond.

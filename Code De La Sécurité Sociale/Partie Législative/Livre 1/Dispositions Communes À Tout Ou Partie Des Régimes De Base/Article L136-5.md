@@ -6,22 +6,21 @@ cotisations du régime général de sécurité sociale selon les règles et sous
 garanties et sanctions applicables au recouvrement des cotisations au régime
 général pour la même catégorie de revenus. La contribution portant sur les
 revenus tirés de l'activité d'artiste-auteur et visés au premier alinéa du I de
-l'article 128 ci-dessus [*nouvel article L136-2 du code de la sécurité sociale*]
-est recouvrée dans les conditions et par les organismes agréés, prévus au
-chapitre II du titre VIII du livre III. La contribution portant sur les revenus
-non soumis à cotisations au régime général de la sécurité sociale est, sauf
-disposition expresse contraire, précomptée par les entreprises ou par les
-organismes débiteurs de ces revenus et versée aux organismes chargés du
-recouvrement des cotisations du régime général selon les règles et sous les
-garanties et sanctions applicables au recouvrement des cotisations du régime
-général assises sur les salaires.
+l'article L. 136-2 est recouvrée dans les conditions et par les organismes
+agréés, prévus au chapitre II du titre VIII du livre III. La contribution
+portant sur les revenus non soumis à cotisations au régime général de la
+sécurité sociale est, sauf disposition expresse contraire, précomptée par les
+entreprises ou par les organismes débiteurs de ces revenus et versée aux
+organismes chargés du recouvrement des cotisations du régime général selon les
+règles et sous les garanties et sanctions applicables au recouvrement des
+cotisations du régime général assises sur les salaires.
 
 Les unions pour le recouvrement des cotisations de sécurité sociale et
 d'allocations familiales et les caisses générales de sécurité sociale sont
 habilitées à faire tout contrôle sur le versement de la contribution dans les
 conditions fixées au chapitre III du titre IV du livre II du code de la sécurité
-sociale dans sa rédaction publiée à la date de la publication de la loi n°
-93-936 du 22 juillet 1993.
+sociale dans sa rédaction publiée à la date de la publication de la dernière loi
+de financement de la sécurité sociale.
 
 II. - La contribution due sur les revenus des personnes assujetties aux régimes
 de la sécurité sociale des salariés et non-salariés des professions agricoles
@@ -29,16 +28,19 @@ est directement recouvrée et contrôlée par les caisses de mutualité sociale
 agricole dans les conditions prévues par les décrets n° 50-1225 du 21 septembre
 1950, n° 76-1282 du 29 décembre 1976, n° 80-480 du 27 juin 1980 et n° 84-936 du
 22 octobre 1984 dans leur rédaction publiée à la date de la publication de la
-loi 93-936 du 22 juillet 1993.
+dernière loi de financement de la sécurité sociale.
 
-III. - La contribution due sur les pensions d'invalidité est précomptée par
-l'organisme débiteur dans les conditions prévues aux articles L. 243-2 et 1031
-du code rural. La contribution due sur les allocations ou pensions de retraite
-mentionnées à l'article L. 612-4 et servies par les régimes de base et les
-régimes complémentaires est précomptée lors de leur versement par l'organisme
-débiteur de ces prestations ; elle est versée à l'agence centrale des organismes
-de sécurité sociale dans les conditions prévues au deuxième alinéa de l'article
-L. 612-9. La contribution due sur les allocations ou pensions de retraite
+III. - La contribution due sur les pensions d'invalidité et sur les indemnités
+journalières ou allocations visées au 7° du II de l'article L. 136-2 est
+précomptée par l'organisme débiteur de ces prestations et versée à l'Agence
+centrale des organismes de sécurité sociale, dans les conditions prévues aux
+articles L. 243-2 et L. 612-9 du présent code et à l'article 1031 du code rural.
+La contribution due sur les allocations ou pensions de retraite mentionnées à
+l'article L. 612-4 et servies par les régimes de base et les régimes
+complémentaires est précomptée lors de leur versement par l'organisme débiteur
+de ces prestations ; elle est versée à l'agence centrale des organismes de
+sécurité sociale dans les conditions prévues au deuxième alinéa de l'article L.
+612-9. La contribution due sur les allocations ou pensions de retraite
 mentionnées au II de l'article 1106-6-1 du code rural est précomptée lors de
 leur versement par l'organisme débiteur de ces prestations. La contribution
 sociale généralisée due sur les indemnités de congés payés et sur les avantages
@@ -52,21 +54,24 @@ IV. - La contribution sociale entre dans les obligations financières incombant
 aux employeurs, ou personnes qui y sont substituées en droit, en vertu des
 articles L. 124-8 et L. 763-9 du code du travail.
 
-V. - Les règles édictées ci-dessus donnent lieu à application :" 1° Des
-dispositions de l'article L. 133-3 et des chapitres III et IV du titre IV du
-livre II dans leur rédaction publiée à la date dde la publication de la loi n°
-93-936 du 22 juillet 1993.
+V. - Les règles édictées ci-dessus donnent lieu à application :
+
+1° Des dispositions de l'article L. 133-3 et des chapitres III et IV du titre IV
+du livre II dans leur rédaction publiée à la date de la publication de la
+dernière loi de financement de la sécurité sociale.
 
 2° Des dispositions des articles 1034, 1035 et 1036 du chapitre V du titre II du
 livre VII du code rural et du décret n° 79-707 du 8 août 1979 dans sa rédaction
-publiée à la date de la publication de la loi 93-639 [*93-936*] du 22 juillet
-1993." Les différends nés de l'assujettissement à la contribution des revenus
-mentionnés aux articles 127 à 130 [*nouveaux articles L136-1 à L136-4 du code de
-la sécurité sociale*] relèvent du contentieux de la sécurité sociale et sont
-réglés selon les dispositions applicables aux cotisations de sécurité sociale,
-conformément aux dispositions du chapitre III du titre III et des chapitres II,
-III et IV du titre IV du livre Ier dans leur rédaction publiée à la date de la
-publication de la loi n° 93-639 [*93-936*] du 22 juillet 1993. Toutefois, les
-décisions rendues par les tribunaux de sécurité sociale jugeant des différends
-portant sur la contribution sociale sur les revenus d'activité et de
-remplacement sont susceptibles d'appel quel que soit le montant du litige.
+publiée à la date de la publication de la dernière loi de financement de la
+sécurité sociale.
+
+Les différends nés de l'assujettissement à la contribution des revenus
+mentionnés aux articles L. 136-1 à L.136-4 relèvent du contentieux de la
+sécurité sociale et sont réglés selon les dispositions applicables aux
+cotisations de sécurité sociale, conformément aux dispositions du chapitre III
+du titre III et des chapitres II, III et IV du titre IV du livre Ier dans leur
+rédaction publiée à la date de la publication de la dernière loi de financement
+de la sécurité sociale. Toutefois, les décisions rendues par les tribunaux de
+sécurité sociale jugeant des différends portant sur la contribution sociale sur
+les revenus d'activité et de remplacement sont susceptibles d'appel quel que
+soit le montant du litige.

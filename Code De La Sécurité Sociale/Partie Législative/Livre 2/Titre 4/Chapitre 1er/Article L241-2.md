@@ -18,3 +18,8 @@ Les cotisations dues au titre des assurances maladie, maternité, invalidité et
 décès sont à la charge des employeurs et des travailleurs salariés et personnes
 assimilées ainsi que des titulaires des avantages de retraite et des allocations
 et revenus de remplacement mentionnés aux 1° et 2° du présent article.
+
+Les ressources des assurances maladie, maternité, invalidité et décès sont en
+outre constituées par une fraction du produit du droit de consommation prévu à
+l'article 575 du code général des impôts, dans les conditions fixées par la loi
+de finances pour 1997.

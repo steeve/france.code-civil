@@ -10,9 +10,11 @@ perçues directement ou par l'entremise d'un tiers à titre de pourboire.
 
 Lorsque le bénéficiaire d'une option accordée dans les conditions prévues aux
 articles 208-1 à 208-8-2 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales lève cette option, est considéré comme une rémunération l'avantage
-correspondant à la différence définie au II de l'article 80 bis du code général
-des impôts.
+commerciales ne remplit pas les conditions prévues au I de l'article 163 bis C
+du code général des impôts, est considéré comme une rémunération le montant
+déterminé conformément au II du même article. Toutefois l'avantage correspondant
+à la différence définie au II de l'article 80 bis du code général des impôts est
+considéré comme une rémunération lors de la levée de l'option.
 
 Il ne peut être opéré sur la rémunération ou le gain des intéressés servant au
 calcul des cotisations des assurances sociales, des accidents du travail et des

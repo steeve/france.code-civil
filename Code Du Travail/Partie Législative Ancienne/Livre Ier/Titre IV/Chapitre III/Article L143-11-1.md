@@ -31,6 +31,10 @@ du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des
 entreprises et pendant le maintien provisoire de l'activité autorisé par le
 jugement de liquidation.
 
+La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les
+cotisations et contributions sociales et salariales d'origine légale, ou
+d'origine conventionnelle imposée par la loi.
+
 L'assurance couvre également la contribution, échue ou à échoir, due par
 l'employeur pour le financement des allocations mentionnées au deuxième alinéa
 de l'article L. 322-3, lorsque la convention de conversion a été conclue
@@ -40,6 +44,6 @@ liquidation judiciaires.
 Lorsque la convention de conversion a été conclue postérieurement à ce jugement,
 la contribution de l'employeur et les salaires dus aux salariés y ayant adhéré
 pendant le délai de réponse prévu par le premier alinéa de l'article L. 321-6-1
-sont couvertes par l'assurance si le bénéfice de ladite convention a été proposé
+sont couverts par l'assurance si le bénéfice de ladite convention a été proposé
 au salarié concerné pendant l'une des périodes indiquées au 2° du présent
 article.

@@ -3,8 +3,9 @@ Article L138-2
 Le taux de la contribution est fixé trimestriellement. Il est de [*montant*] :
 
 a) 1,5 p. 100 si le chiffre d'affaires hors taxes réalisé par l'ensemble des
-établissements assujettis au cours du trimestre s'accroît de 6 p. 100 ou plus
-par rapport à la même période de l'année précédente ;
+entreprises visées à l'article L. 138-1 assujettis au cours du trimestre
+s'accroît de 6 p. 100 ou plus par rapport à la même période de l'année
+précédente ;
 
 b) 1,35 p. 100 si la progression de ce chiffre d'affaires est comprise entre 5
 p. 100 et moins de 6 p. 100 ;
