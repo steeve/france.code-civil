@@ -3,56 +3,58 @@ Article R221-4
 Les tribunaux administratifs désignés ci-après sont composés de plusieurs
 chambres, dont le nombre est fixé comme suit :
 
-Amiens : 3 chambres ;
+Amiens : quatre chambres ;
 
-Bastia : 2 chambres ;
+Bastia : deux chambres ;
 
-Besançon : 2 chambres ;
+Besançon : deux chambres ;
 
-Bordeaux : 4 chambres ;
+Bordeaux : quatre chambres ;
 
-Caen : 2 chambres ;
+Caen : deux chambres ;
 
-Cergy-Pontoise : 5 chambres ;
+Cergy-Pontoise : six chambres ;
 
-Châlons-en-Champagne : 2 chambres ;
+Châlons-en-Champagne : trois chambres ;
 
-Clermont-Ferrand : 2 chambres ;
+Clermont-Ferrand : deux chambres ;
 
-Dijon : 3 chambres ;
+Dijon : trois chambres ;
 
-Grenoble : 5 chambres ;
+Grenoble : cinq chambres ;
 
-Lille : 6 chambres ;
+Lille : six chambres ;
 
-Limoges : 2 chambres ;
+Limoges : deux chambres ;
 
-Lyon : 7 chambres ;
+Lyon : sept chambres ;
 
-Marseille : 8 chambres ;
+Marseille : huit chambres ;
 
-Melun : 5 chambres ;
+Melun : six chambres ;
 
-Montpellier : 5 chambres ;
+Montpellier : six chambres ;
 
-Nancy : 2 chambres ;
+Nancy : deux chambres ;
 
-Nantes : 4 chambres ;
+Nantes : cinq chambres ;
 
-Nice : 6 chambres ;
+Nice : sept chambres ;
 
-Orléans : 3 chambres ;
+Orléans : trois chambres ;
 
-Pau : 2 chambres ;
+Pau : deux chambres ;
 
-Poitiers : 3 chambres ;
+Poitiers : trois chambres ;
 
-Rennes : 5 chambres ;
+Rennes : cinq chambres ;
 
-Rouen : 3 chambres ;
+Rouen : trois chambres ;
 
-Strasbourg : 4 chambres ;
+Saint-Denis : deux chambres ;
 
-Toulouse : 4 chambres ;
+Strasbourg : quatre chambres ;
 
-Versailles : 7 chambres.
+Toulouse : quatre chambres ;
+
+Versailles : sept chambres.

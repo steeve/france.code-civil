@@ -3,8 +3,8 @@ Article R221-8
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit
 :
 
-Paris : 5 chambres ;
+Paris : cinq chambres ;
 
-Bordeaux et Lyon : 4 chambres ;
+Bordeaux, Lyon, Marseille et Nantes : quatre chambres ;
 
-Douai, Marseille, Nancy et Nantes : 3 chambres.
+Douai et Nancy : trois chambres.
