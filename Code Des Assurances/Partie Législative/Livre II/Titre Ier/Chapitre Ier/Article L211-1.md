@@ -25,5 +25,7 @@ Ces contrats doivent être souscrits auprès d'une entreprise d'assurance agré�
 pour pratiquer les opérations d'assurance contre les accidents résultant de
 l'emploi de véhicules automobiles.
 
-Les membres de la famille du conducteur ou de l'assuré sont considérés comme des
-tiers au sens du premier alinéa du présent article.
+Les membres de la famille du conducteur ou de l'assuré, ainsi que les élèves
+d'un établissement d'enseignement de la conduite des véhicules terrestres à
+moteur agréé, en cours de formation ou d'examen, sont considérés comme des tiers
+au sens du premier alinéa du présent article.
