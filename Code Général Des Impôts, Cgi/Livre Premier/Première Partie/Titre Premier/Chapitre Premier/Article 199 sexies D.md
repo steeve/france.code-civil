@@ -38,7 +38,9 @@ adapter leur logement. Il en est de même lorsque les immeubles sont situés dan
 une zone classée en état de catastrophe naturelle et que les dépenses sont
 effectuées dans l'année qui suit la date de constatation de cet état par arrêté
 ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès
-de la préfecture ou d'un organisme régi par le code des assurances.
+de la préfecture ou d'un organisme régi par le code des assurances. Il en est de
+même pour les travaux initiaux de prévention et de lutte contre les termites et
+les autres insectes xylophages, ainsi que pour leur renouvellement.
 
 II. Pour une même opération, les dispositions du I sont exclusives de
 l'application des dispositions de l'article 199 sexies.
