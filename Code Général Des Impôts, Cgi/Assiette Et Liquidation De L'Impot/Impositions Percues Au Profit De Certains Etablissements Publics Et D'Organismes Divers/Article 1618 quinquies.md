@@ -24,11 +24,11 @@ II. Les taux de la taxe sont fixés comme suit (1) :
 
 : : F : F :
 
-: Huile d'olive : 0,719 : 0,648 :
+: Huile d'olive : 0,743 : 0,670 :
 
-: Huiles d'arachide et de maïs : 0,648 : 0,591 :
+: Huiles d'arachide et de maïs : 0,670 : 0,611 :
 
-: Huiles de colza et de pépins de : 0,331 : 0,303 :
+: Huiles de colza et de pépins de : 0,342 : 0,313 :
 
 : raisin : : :
 
@@ -36,11 +36,11 @@ II. Les taux de la taxe sont fixés comme suit (1) :
 
 : huiles d'animaux marins (autres : : :
 
-: que la baleine) : 0,564 : 0,494 :
+: que la baleine) : 0,583 : 0,511 :
 
-: Huiles de coprah et de palmiste : 0,431 : - :
+: Huiles de coprah et de palmiste : 0,446 : - :
 
-: Huile de palme et huile de baleine : 0,395 : - :
+: Huile de palme et huile de baleine : 0,408 : - :
 
 Pour les produits alimentaires importés incorporant des huiles imposables, la
 taxation est effectuée selon les quantités et les natures d'huile entrant dans
@@ -62,8 +62,9 @@ ne frappe que les huiles effectivement destinées à l'alimentation humaine, pou
 qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée
 en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1985.
+(1) Taux applicables à compter du 1er janvier 1986.
 
-(2) Annexe IV, art. 159 ter A.
+(2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par
+un arrêté du 2 janvier 1986 (J.O. du 16).
 
 (3) Annexe III, art. 333 A à 333 G bis.

@@ -5,7 +5,7 @@ valeur ajoutée sont exonérées de tout droit proportionnel d'enregistrement.
 
 II Sont exonérées du droit de bail prévu à l'article 736 :
 
-1° Les mutations de jouissance dont le loyer annuel n'excède pas 1.000 F
+1° Les mutations de jouissance dont le loyer annuel n'excède pas 1.500 F
 [*montant plafond*] (1) ;
 
 2° Les locations de terrains consenties par l'Etat aux sociétés agréées pour le
@@ -14,6 +14,5 @@ financement des télécommunications;
 3° Les baux à construction soumis, sur option, à la taxe sur la valeur ajoutée;
 l'exonération est applicable dans les conditions prévues à l'article 691.
 
-(1) Pour les locations d'immeubles urbains et les locations verbales d'immeubles
-ruraux, le seuil de 1.000 F s'applique à compter de la période d'imposition
-s'ouvrant le 1er octobre 1982.
+(1) Seuil applicable à compter de la période d'imposition s'ouvrant le 1er
+octobre 1985.

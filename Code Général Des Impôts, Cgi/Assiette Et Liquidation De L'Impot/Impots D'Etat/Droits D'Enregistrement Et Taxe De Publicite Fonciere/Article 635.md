@@ -45,11 +45,11 @@ avec publicité et concurrence ;
 bénéficiaires ou cession de parts sociales dans les sociétés dont le capital
 n'est pas divisé en actions ;
 
-8° Lorsque le loyer annuel excède 1.000 F [*montant*], les actes portant
+8° Lorsque le loyer annuel excède 1.500 F [*montant*], les actes portant
 mutation de jouissance de fonds de commerce ou de clientèles et de droits de
 chasse ou de droits de pêche ;
 
-9° Lorsque le loyer annuel excède 1.000 F, les actes portant mutation de
+9° Lorsque le loyer annuel excède 1.500 F, les actes portant mutation de
 jouissance à durée limitée d'immeubles ruraux.
 
 (1) Voir Annexe IV, art. 60.

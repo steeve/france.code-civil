@@ -1,12 +1,9 @@
 Article 848
 ----
-Sont soumis à un droit d'enregistrement de 390 F [*montant*] :
+Sont soumis à un droit d'enregistrement de 410 F [*montant*] :
 
 1° Les certificats de propriété, autres que ceux établis par les secrétariats
 des juridictions judiciaires.
-
-Toutefois, les certificats de propriété exigés par la réglementation relative au
-régime des titres nominatifs sont enregistrés gratuitement ;
 
 2° Les inventaires de meubles, objets mobiliers, titres et papiers.
 

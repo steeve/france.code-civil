@@ -22,4 +22,10 @@ fiscal des sociétés de personnes dans les conditions prévues à l'article 3-I
 décret n° 55-594 du 20 mai 1955 modifié ou dans celles prévues par l'article 239
 bis AA.
 
-4° (Périmé).
+4° De l'associé unique d'une société à responsabilité limitée lorsque cet
+associé est une personne physique [*EURL*] ;
+
+5° De l'associé unique d'une exploitation agricole à responsabilité limitée et
+des associés d'une exploitation agricole à responsabilité limitée formée
+uniquement entre personnes parentes en ligne directe ou entre frères et soeurs
+ainsi qu'entre les conjoints de ces personnes [*EARL*].
