@@ -19,7 +19,6 @@ communication des renseignements relatifs à l'exécution de leurs obligations
 Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que
 l'instruction de la demande d'indemnité et leur divulgation est interdite.
 
-Des provisions peuvent être accordées par le président. Lorsqu'une provision est
-demandée, dès le dépôt de la requête en indemnisation, le président statue dans
-le délai d'un mois ; dans ce cas, elle ne peut excéder le quart du maximum fixé
-en application de l'article 706-9.
+Le président de la commission peut accorder une ou plusieurs provisions en tout
+état de la procédure ; il est statué dans le délai d'un mois à compter de la
+demande de provision.

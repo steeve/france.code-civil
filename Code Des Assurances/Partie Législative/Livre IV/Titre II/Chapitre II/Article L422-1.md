@@ -1,8 +1,8 @@
 Article L422-1
 ----
-La réparation intégrale des dommages corporels résultant des actes mentionnés à
-l'article L. 126-1 est assurée par l'intermédiaire du fonds de garantie contre
-les actes de terrorisme.
+Pour l'application de l'article L. 126-1, la réparation intégrale des dommages
+résultant d'une atteinte à la personne est assurée par l'intermédiaire du fonds
+de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 Ce fonds, doté de la personnalité civile, est alimenté par un prélèvement sur
 les contrats d'assurance de biens dans des conditions définies par décret en

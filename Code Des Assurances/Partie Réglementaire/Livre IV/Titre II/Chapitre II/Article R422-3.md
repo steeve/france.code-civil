@@ -8,7 +8,7 @@ tous les livres et documents comptables.
 
 Les décisions prises par le conseil d'administration ou par les autorités
 auxquelles il accorde délégation sont exécutoires dans un délai de quinze jours
-à dater de la décision si le commissaire du Gouvernement ne signifie pas soit
+à dater de la décision si le commissaire du Gouvernement ne signifie pas, soit
 qu'il approuve immédiatement, soit qu'il s'oppose à la décision. Toutefois, le
 délai ci-dessus est ramené à cinq jours en ce qui concerne les décisions ne
 comportant pas un engagement financier pour le fonds.

@@ -1,22 +1,30 @@
 Article 706-3
 ----
 Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui
-présentent le caractère matériel d'une infraction peut obtenir de l'Etat une
-indemnité lorsque sont réunies les conditions suivantes :
+présentent le caractère matériel d'une infraction peut obtenir la réparation
+intégrale des dommages qui résultent des atteintes à la personne, lorsque sont
+réunies les conditions suivantes :
 
-1° Ces faits soit ont causé un dommage corporel et ont entraîné la mort, une
-incapacité permanente ou une incapacité totale de travail personnel pendant plus
-d'un mois, soit sont prévus et réprimés par les articles 331 à 331-1 du Code
-pénal ;
+1° Ces atteintes n'entrent pas dans le champ d'application de l'article L. 126-1
+du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985
+tendant à l'amélioration de la situation des victimes d'accidents de la
+circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour
+origine un acte de chasse ou de destruction des animaux nuisibles ;
 
-2° Le préjudice consiste en un trouble grave dans les conditions de vie
-résultant d'une perte ou d'une diminution de revenus, d'un accroissement de
-charges, d'une inaptitude à exercer une activité professionnelle ou d'une
-atteinte à l'intégrité soit physique, soit mentale ;
+2° Ces faits :
 
-3° La personne lésée ne peut obtenir, à un titre quelconque, la réparation ou
-une indemnisation effective et suffisante de ce préjudice.
+- soit ont entraîné la mort, une incapacité permanente ou une incapacité totale
+de travail personnel égale ou supérieure à un mois ;
 
-Toutefois, l'indemnité peut être refusée, ou son montant réduit, en raison du
-comportement de la personne lésée lors de l'infraction ou de ses relations avec
-l'auteur des faits.
+- soit sont prévus et réprimés par les articles 331 à 333-1 du code pénal ;
+
+3° La personne lésée est de nationalité française. Dans le cas contraire, les
+faits ont été commis sur le territoire national et la personne lésée est :
+
+- soit ressortissante d'un Etat membre de la Communauté économique européenne ;
+
+- soit, sous réserve des traités et accords internationaux, en séjour régulier
+au jour des faits ou de la demande.
+
+La réparation peut être refusée ou son montant réduit à raison de la faute de la
+victime.
