@@ -26,7 +26,18 @@ des allocations d'assurance.
 
 Les allocations d'assurance [*chômage*] sont financées par des contributions des
 employeurs et des salariés assises sur les rémunérations brutes dans la limite
-d'un plafond [*assiette*].
+d'un plafond. Elles peuvent être également financées par des contributions
+forfaitaires à la charge des employeurs à l'occasion de la fin d'un contrat de
+travail dont la durée permet l'ouverture de droits aux allocations.
+
+Les contributions forfaitaires visées à l'alinéa précédent ne sont toutefois pas
+applicables :
+
+- aux contrats conclus en application des articles L. 115-1 et L. 322-4-7 et du
+chapitre Ier du titre VIII du livre IX ;
+
+- aux contrats conclus par une personne physique pour un service rendu à son
+domicile, ou pour l'emploi d'une assistante maternelle agréée.
 
 Les taux des contributions et allocations sont calculés de manière à garantir
 l'équilibre financier du régime.

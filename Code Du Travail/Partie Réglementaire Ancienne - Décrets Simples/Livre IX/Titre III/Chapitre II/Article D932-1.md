@@ -1,15 +1,15 @@
 Article D932-1
 ----
-Pour l'application des dispositions de l'article L. 932-6 du code du travail, le
+Pour l'application des dispositions de l'article L. 933-3 du code du travail, le
 chef d'entreprise communique aux membres du comité d'entreprise, ou à défaut aux
 délégués du personnel, aux délégués syndicaux et, le cas échéant, aux membres de
 la commission prévue à l'article L. 434-7 dudit code, les documents suivants :
 
 a) Les orientations de la formation professionnelle dans l'entreprise telles
-qu'elles résultent de la consultation prévue à l'article L. 932-1 du code du
+qu'elles résultent de la consultation prévue à l'article L. 933-1 du code du
 travail ;
 
-b) Le résultat éventuel des négociations prévues à l'article L. 932-2 du code du
+b) Le résultat éventuel des négociations prévues à l'article L. 933-2 du code du
 travail ;
 
 c) La déclaration relative à la participation des employeurs au développement de
@@ -17,7 +17,7 @@ la formation professionnelle continue et, le cas échéant, la déclaration
 spéciale concernant le crédit d'impôt formation professionnelle ;
 
 d) Les conclusions éventuelles des services de contrôle visés à l'article L.
-951-13 du code du travail sur le caractère libératoire des dépenses imputées sur
+950-8 du code du travail sur le caractère libératoire des dépenses imputées sur
 la participation des entreprises et/ou le caractère éligible des dépenses
 exposées au titre du crédit d'impôt formation professionnelle ;
 

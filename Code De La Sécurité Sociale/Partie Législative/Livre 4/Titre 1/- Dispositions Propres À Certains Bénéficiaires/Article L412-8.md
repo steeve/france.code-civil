@@ -26,7 +26,9 @@ cadre de leur scolarité ou de leurs études ;
 
 c. les personnes effectuant des stages de formation professionnelle continue
 conformément aux dispositions du livre IX du code du travail, pour les accidents
-survenus par le fait ou à l'occasion de cette formation ;
+survenus par le fait ou à l'occasion de cette formation y compris si cette
+formation est effectuée par des salariés en partie hors du temps de travail dans
+les conditions fixées par l'article L. 932-1 du code du travail ;
 
 d. les bénéficiaires des allocations [*du FNE*] mentionnées au 4° du deuxième
 alinéa de l'article L. 322-4 du code du travail pour les accidents survenus par
@@ -34,16 +36,18 @@ le fait ou à l'occasion des actions favorisant leur reclassement ;
 
 e. les bénéficiaires des allocations versées au titre de l'article L. 322-3 du
 code du travail pour les accidents survenus par le fait ou à l'occasion des
-actions favorisant leur conversion ; 3°) les personnes accomplissant un stage de
-réadaptation fonctionnelle ou de rééducation professionnelle dans les conditions
-prévues par le présent code, les assurés sociaux bénéficiaires de l'article L.
-324-1 [*relatif aux maladies de longue durée*] ou titulaires d'une pension
-d'invalidité en vertu du chapitre 1er du titre IV du livre III et les personnes
-autres que celles appartenant aux catégories ci-dessus et qui, en vertu d'un
-texte législatif ou réglementaire, effectuent un stage de rééducation
-professionnelle dans les écoles administrées par l'office national des anciens
-combattants et victimes de la guerre, pour les accidents survenus par le fait ou
-à l'occasion de la réadaptation ou de la rééducation ;
+actions favorisant leur conversion ;
+
+3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
+rééducation professionnelle dans les conditions prévues par le présent code, les
+assurés sociaux bénéficiaires de l'article L. 324-1 [*relatif aux maladies de
+longue durée*] ou titulaires d'une pension d'invalidité en vertu du chapitre 1er
+du titre IV du livre III et les personnes autres que celles appartenant aux
+catégories ci-dessus et qui, en vertu d'un texte législatif ou réglementaire,
+effectuent un stage de rééducation professionnelle dans les écoles administrées
+par l'office national des anciens combattants et victimes de la guerre, pour les
+accidents survenus par le fait ou à l'occasion de la réadaptation ou de la
+rééducation ;
 
 4°) les pupilles de l'éducation surveillée, pour les accidents survenus par le
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
@@ -67,21 +71,23 @@ missions dans les conditions définies par décret ;
 8°) les personnes mentionnées à l'article 2 du décret-loi du 17 juin 1938
 relatif à la réorganisation et à l'unification du régime d'assurance des marins
 pour les accidents du travail et les maladies professionnelles survenus en
-dehors de l'exécution du contrat d'engagement maritime ; 9°) les salariés
-accomplissant un stage de formation dans les conditions prévues par les articles
-L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les accidents survenus
-par le fait ou à l'occasion de cette formation. 10°) les bénéficiaires de
-l'allocation de revenu minimum d'insertion instituée par la loi n° 88-1088 du
-1er décembre 1988 relative au revenu minimum d'insertion, pour les accidents
-survenus par le fait ou à l'occasion des actions favorisant leur insertion, dans
-des conditions déterminées par décret.
+dehors de l'exécution du contrat d'engagement maritime ;
+
+9°) les salariés accomplissant un stage de formation dans les conditions prévues
+par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
+accidents survenus par le fait ou à l'occasion de cette formation ;
+
+10°) les bénéficiaires de l'allocation de revenu minimum d'insertion instituée
+par la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum
+d'insertion, pour les accidents survenus par le fait ou à l'occasion des actions
+favorisant leur insertion, dans des conditions déterminées par décret ;
 
 11°) Les demandeurs d'emploi, pour les accidents survenus par le fait ou à
 l'occasion de leur participation à des actions d'aide à la création d'entreprise
 ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi
-dispensées ou prescrites par l'Agence nationale pour l'emploi.
+dispensées ou prescrites par l'Agence nationale pour l'emploi ;
 
-12° Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
+12°) Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
 code du travail, pour siéger dans une instance instituée par une disposition
 législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents
 survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne

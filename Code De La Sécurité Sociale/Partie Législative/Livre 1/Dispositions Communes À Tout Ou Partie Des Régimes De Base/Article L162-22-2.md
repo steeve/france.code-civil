@@ -10,18 +10,17 @@ loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière et compte te
 de l'évolution des techniques médicales, des besoins de la population et de la
 nécessaire maîtrise des dépenses de santé :
 
-1° Le montant total annuel des frais d'hospitalisation comportant un hébergement
-dans les établissements de soins ayant passé convention en application de
-l'article L. 162-22, pris en charge par les régimes d'assurance maladie. Ce
-montant peut être révisé s'il se produit une modification importante et
-imprévisible des conditions économiques ou de l'activité médicale ;
+1° Le montant total annuel des frais d'hospitalisation dans les établissements
+de soins ayant passé convention en application de l'article L. 162-22, pris en
+charge par les régimes d'assurance maladie. Ce montant peut être révisé s'il se
+produit une modification importante et imprévisible des conditions économiques
+ou de l'activité médicale ;
 
-2° Les tarifs des prestations mentionnées au 2° de l'article L. 162-22-1 et
-servant de base au calcul de la participation de l'assuré ;
+2° Les tarifs des prestations servant de base au calcul de la participation de
+l'assuré ;
 
 3° La classification des prestations ne comportant pas d'hébergement dispensées
-dans ces établissements et prises en charge par les régimes ainsi que les tarifs
-afférents à ces prestations.
+dans ces établissements et prises en charge par les régimes.
 
 La ou les organisations syndicales signataires de cet accord constituent le
 comité professionnel national de l'hospitalisation privée et sont habilitées à

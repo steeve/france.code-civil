@@ -12,3 +12,7 @@ applicables au personnel de l'entreprise concernée.
 
 Le décret prévu au premier alinéa fixe les conditions dans lesquelles les
 avantages en nature peuvent être déduits du salaire.
+
+Si le contrat d'apprentissage a été précédé d'un contrat d'orientation prévu à
+l'article L. 981-7 dans la même entreprise, la durée de celui-ci est prise en
+compte pour le calcul de la rémunération et de l'ancienneté.

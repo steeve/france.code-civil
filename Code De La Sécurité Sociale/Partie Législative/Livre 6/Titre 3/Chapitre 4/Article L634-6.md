@@ -4,7 +4,7 @@ Le service d'une pension de vieillesse prenant effet postérieurement au 30 juin
 1984, liquidée au titre des régimes d'assurance vieillesse des professions
 artisanales, industrielles et commerciales, et dont l'entrée en jouissance
 intervient à compter d'un âge fixé par décret en Conseil d'Etat, est subordonné,
-jusqu'au 31 décembre 1991, à la cessation définitive de l'activité non-salariée
+jusqu'au 31 décembre 1992, à la cessation définitive de l'activité non-salariée
 ou, pour les assurés exerçant une activité salariée, à la rupture définitive de
 tout lien professionnel avec l'employeur.
 

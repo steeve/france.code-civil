@@ -1,16 +1,16 @@
 Article L421-3
 ----
----Le permis de construire ne peut être accordé que si les constructions
-projetées sont conformes aux dispositions législatives et réglementaires
-concernant l'implantation des constructions, leur destination, leur nature, leur
-architecture, leurs dimensions et l'aménagement de leurs abords et si le
-demandeur s'engage à respecter les règles générales de construction prises en
-application du chapitre Ier du titre Ier du livre Ier du code de la construction
-et de l'habitation. "
+Le permis de construire ne peut être accordé que si les constructions projetées
+sont conformes aux dispositions législatives et réglementaires concernant
+l'implantation des constructions, leur destination, leur nature, leur
+architecture, leurs dimensions leur assainissement et l'aménagement de leurs
+abords et si le demandeur s'engage à respecter les règles générales de
+construction prises en application du chapitre Ier du titre Ier du livre Ier du
+code de la construction et de l'habitation. "
 
----En outre, pour les immeubles de grande hauteur ou les établissements recevant
-du public, le permis de construire ne peut être délivré que si les constructions
-ou les travaux projetés sont conformes aux règles de sécurité propres à cet type
+En outre, pour les immeubles de grande hauteur ou les établissements recevant du
+public, le permis de construire ne peut être délivré que si les constructions ou
+les travaux projetés sont conformes aux règles de sécurité propres à cet type
 d'immeubles ou d'établissements, que les locaux concernés soient ou non à usage
 d'habitation.
 
@@ -31,13 +31,13 @@ plusieurs communes et exerçant la compétence définie à l'article 4-12. de la
 n. 66-1069 du 31 décembre 1966, en vue de la réalisation de parcs publics de
 stationnement dont la construction est prévue.
 
----Le montant de cette participation ne peut excéder 50.000 F par place de
+Le montant de cette participation ne peut excéder 50.000 F par place de
 stationnement ; cette valeur, fixée par référence à l'indice du coût de la
 construction du quatrième trimestre 1985 publié par l'Institut national de la
 statistique et des études économiques, est modifiée au 1er novembre de chaque
 année en fonction de l'indice connu à cette date.
 
----Un Décret en Conseil d'Etat détermine les conditions d'application des
-quatrième et cinquième alinéa du présent article et précise notamment les
-modalités d'établissement, de liquidation et de recouvrement de la participation
-prévue au quatrième alinéa , ainsi que les sanctions et garanties y afférentes.
+Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième
+et cinquième alinéa du présent article et précise notamment les modalités
+d'établissement, de liquidation et de recouvrement de la participation prévue au
+quatrième alinéa , ainsi que les sanctions et garanties y afférentes.

@@ -5,7 +5,7 @@ de loyer, compte tenu de leurs ressources :
 
 1°) les personnes âgées ayant dépassé un âge déterminé ;
 
-2°) les personnes âgées ayant dépassé un âge déterminé et inaptes au travail ou
+2°) les personnes âgées ayant dépassé un âge déterminé et inapt es au travail ou
 anciens déportés ou internés, titulaires de la carte de déporté ou interné de la
 Résistance ou de la carte de déporté ou interné politique ou bénéficiaires des
 articles L. 161-19, L. 351-8 et L. 643-2 ;

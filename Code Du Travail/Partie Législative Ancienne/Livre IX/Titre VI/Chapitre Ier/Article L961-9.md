@@ -2,17 +2,18 @@ Article L961-9
 ----
 Les fonds d'assurance-formation destinés aux salariés d'une ou plusieurs
 branches professionnelles contribuent au développement de la formation
-professionnelle continue. Ils réunissent des moyens financiers à l'aide desquels
-ils versent notamment une rémunération de substitution aux salariés
-bénéficiaires d'un congé de formation au cours des stages mentionnés à l'article
-L. 900-2.
+professionnelle continue.
 
 Ils doivent être agréés par l'Etat après avis du conseil national de la
 formation professionnelle, de la promotion sociale et de l'emploi ou de sa
-délégation permanente ou des comités régionaux de la formation professionnelle,
+commission permanente ou des comités régionaux de la formation professionnelle,
 de la promotion sociale et de l'emploi.
 
-Leur gestion est assurée paritairement.
+Leur gestion est assurée paritairement. Ils mutualisent les sommes qu'ils
+perçoivent des entreprises. A compter du 1er janvier 1992, ils doivent être
+créés par voie d'accords conclus entre les organisations syndicales de salariés
+et d'employeurs représentatives dans le champ d'application professionnel ou
+territorial de l'accord.
 
 Les contributions versées par les employeurs ne sont soumises ni aux cotisations
 de sécurité sociale, ni, le cas échéant, à la taxe sur les salaires

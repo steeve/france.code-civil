@@ -9,4 +9,5 @@ prestation de serment.
 
 La caisse perçoit également une cotisation assise sur les revenus professionnels
 tirés de la profession d'avocat de l'avant-dernière année retenus pour le calcul
-de l'impôt sur le revenu ; son taux est fixé par décret.
+de l'impôt sur le revenu dans la limite d'un plafond fixé par décret ; le taux
+de cette cotisation est également fixé par décret.

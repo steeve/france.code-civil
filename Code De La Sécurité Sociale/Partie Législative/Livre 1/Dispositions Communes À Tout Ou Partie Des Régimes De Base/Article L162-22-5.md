@@ -7,16 +7,15 @@ l'article 22 de la loi n° 70-1318 du 31 décembre 1970 portant réforme
 hospitalière et compte tenu de l'évolution des techniques médicales, des besoins
 de la population et de la nécessaire maîtrise des dépenses de santé :
 
-1° Le montant annuel des frais d'hospitalisation comportant un hébergement dans
-les établissements de soins ayant passé convention en application de l'article
-L. 162-22, pris en charge par les régimes d'assurance maladie ;
+1° Le montant annuel des frais d'hospitalisation dans les établissements de
+soins ayant passé convention en application de l'article L. 162-22, pris en
+charge par les régimes d'assurance maladie ;
 
-2° Les tarifs des prestations mentionnées au 2° de l'article L. 162-22-1 et
-servant de base au calcul de la participation de l'assuré ;
+2° Les tarifs des prestations servant de base au calcul de la participation de
+l'assuré.
 
 3° La classification des prestations ne comportant pas d'hébergement dispensées
-dans ces établissements et prises en charge par les régimes ainsi que les tarifs
-afférents à ces prestations.
+dans ces établissements et prises en charge par les régimes.
 
 Cet arrêté fixe, en outre, les dispositions prévues aux 1°, 2° et 3° du II.
 
@@ -28,9 +27,9 @@ d'assurance maladie des travailleurs salariés et des organisations syndicales
 nationales les plus représentatives des établissements de soins privés :
 
 1° La répartition par zone géographique du montant total des frais afférents à
-l'hospitalisation comportant un hébergement dans les établissements de soins
-ayant passé convention en application de l'article L. 162-22, pris en charge par
-les régimes d'assurance maladie ;
+l'hospitalisation dans les établissements de soins ayant passé convention en
+application de l'article L. 162-22, pris en charge par les régimes d'assurance
+maladie ;
 
 2° Les modalités de détermination des sommes dues à ces établissements de soins
 compte tenu, d'une part, du nombre et de la nature des prestations prises en

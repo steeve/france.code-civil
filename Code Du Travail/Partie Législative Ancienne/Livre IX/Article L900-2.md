@@ -24,7 +24,7 @@ mutation d'activité, soit dans le cadre, soit en dehors de leur entreprise ;
 
 5. Les actions de conversion. Elles ont pour objet de permettre à des
 travailleurs salariés dont le contrat de travail est rompu d'accéder à des
-emplois exigeant une qualification différente ou à des travailleurs non-salariés
+emplois exigeant une qualification différente ou à des travailleurs non salariés
 d'accéder à de nouvelles activités professionnelles ;
 
 6. Les actions d'acquisition, d'entretien ou de perfectionnement des
@@ -32,3 +32,10 @@ connaissances. Elles ont pour objet d'offrir aux travailleurs, dans le cadre de
 l'éducation permanente, les moyens d'accéder à la culture, de maintenir ou de
 parfaire leur qualification et leur niveau culturel ainsi que d'assumer des
 responsabilités accrues dans la vie associative.
+
+Entrent également dans le champ d'application des dispositions relatives à la
+formation professionnelle continue les actions permettant de réaliser un bilan
+de compétences. Elles ont pour objet de permettre à des travailleurs d'analyser
+leurs compétences professionnelles et personnelles ainsi que leurs aptitudes et
+leurs motivations afin de définir un projet professionnel et, le cas échéant, un
+projet de formation.

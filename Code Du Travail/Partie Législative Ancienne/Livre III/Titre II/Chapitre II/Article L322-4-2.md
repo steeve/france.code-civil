@@ -13,7 +13,13 @@ ayant assumé des charges de famille.
 Les contrats de retour à l'emploi conclus en vertu de ces conventions donnent
 droit :
 
-1° A une aide forfaitaire de l'Etat dont le montant est fixé par décret ;
+1° A une aide forfaitaire de l'Etat lorsque les bénéficiaires sont soit âgés de
+plus de cinquante ans et inscrits comme demandeurs d'emploi pendant au moins
+douze mois durant les dix-huit mois qui ont précédé l'embauche, soit
+bénéficiaires de l'allocation de revenu minimum d'insertion sans emploi depuis
+plus d'un an, soit demandeurs d'emploi depuis plus de trois ans, soit
+bénéficiaires de l'obligation d'emploi instituée par l'article L. 323-1. Le
+montant de cette aide est fixé par décret ;
 
 2° A la prise en charge par l'Etat des frais de formation lorsque le contrat
 associe l'exercice d'une activité professionnelle et le bénéfice d'une formation

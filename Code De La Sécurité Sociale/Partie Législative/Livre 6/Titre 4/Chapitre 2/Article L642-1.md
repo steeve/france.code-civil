@@ -13,7 +13,7 @@ articles L. 134-1 et L. 134-2.
 Les charges mentionnées aux 1° et 2° sont couvertes par une cotisation
 forfaitaire et par une cotisation proportionnelle déterminée en pourcentage des
 revenus professionnels libéraux de l'avant-dernière année retenus pour le calcul
-de l'impôt sur le revenu.
+de l'impôt sur le revenu dans la limite d'un plafond fixé par décret.
 
 Le montant de la cotisation forfaitaire et le taux de la cotisation
 proportionnelle aux revenus sont fixés par décret rendu après consultation du

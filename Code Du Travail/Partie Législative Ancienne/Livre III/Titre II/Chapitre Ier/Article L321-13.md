@@ -7,16 +7,13 @@ l'article L. 351-21 une cotisation égale à trois mois du salaire brut moyen de
 douze derniers mois travaillés. Cette cotisation n'est pas due dans les cas
 suivants [*exonération*] :
 
-1° Ancienneté du salarié inférieure à deux ans ;
+1° Licenciement pour faute grave ou lourde ;
 
-2° Licenciement pour faute grave ou lourde ;
-
-3° Licenciement résultant d'une cessation d'activité de l'employeur, pour raison
+2° Licenciement résultant d'une cessation d'activité de l'employeur, pour raison
 de santé ou de départ en retraite, qui entraîne la fermeture définitive de
 l'entreprise ;
 
-3° bis Rupture du contrat de travail, par un particulier, d'un employé de maison
-;
+3° Rupture du contrat de travail, par un particulier, d'un employé de maison ;
 
 4° Licenciement visé à l'article L. 321-12 ;
 

@@ -16,18 +16,3 @@ Par dérogation à l'article L. 122-3-2, et sous réserve de clauses contractuel
 ou conventionnelles relatives aux bénéficiaires de contrats emploi-solidarité
 prévoyant une durée moindre, la période d'essai au titre de ces contrats est
 d'un mois [*durée*] .
-
-Les contrats emploi-solidarité peuvent être rompus avant leur terme dans les cas
-prévus à l'article L. 122-3-8 et à l'initiative du salarié pour occuper un autre
-emploi ou pour suivre une action de formation. La méconnaissance de ces
-dispositions ouvre droit à des dommages et intérêts dans les conditions prévues
-aux deuxième et troisième alinéas de l'article L. 122-3-8.
-
-Le contrat emploi-solidarité ne peut se cumuler avec une activité
-professionnelle ou une formation professionnelle rémunérée.
-
-En cas de dénonciation de la convention par les services du ministère chargé de
-l'emploi en raison d'une des situations prévues à l'alinéa précédent, le contrat
-emploi-solidarité peut être rompu avant son terme à l'initiative de l'employeur,
-sans qu'il y ait lieu à dommages et intérêts tels que prévus par l'article L.
-122-3-8.

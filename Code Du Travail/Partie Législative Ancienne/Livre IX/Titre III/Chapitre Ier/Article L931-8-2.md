@@ -10,11 +10,14 @@ prendre en charge le bénéficiaire du congé uniquement lorsque sa demande n'es
 pas susceptible de se rattacher à une action de formation au sens de l'article
 L. 900-2 du présent code ou bien lorsque les demandes de prise en charge
 présentées à un organisme paritaire ne peuvent être toutes simultanément
-satisfaites
+satisfaites.
 
-Dans ce dernier cas, un décret en Conseil d'Etat détermine les conditions dans
-lesquelles les organismes paritaires mentionnés à l'article L. 950-2-2 sont
-admis à déclarer prioritaires certaines catégories d'actions ou de publics.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les
+organismes paritaires mentionnés à l'article L. 951-3 sont admis à déclarer
+prioritaires certaines catégories d'actions ou de publics ainsi que les
+modalités suivant lesquelles les salariés qui n'ont pas obtenu l'accord pour la
+prise en charge de leur formation peuvent faire réexaminer leur demande par
+lesdits organismes.
 
 Les salariés bénéficiaires d'un congé de formation ont droit, dès lors qu'ils
 ont obtenu l'accord de l'un des organismes mentionnés à l'article L. 950-2-2

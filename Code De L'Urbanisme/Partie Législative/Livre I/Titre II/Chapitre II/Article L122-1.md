@@ -1,6 +1,6 @@
 Article L122-1
 ----
-"- Les schémas directeurs fixent les orientations fondamentales de l'aménagement
+"Les schémas directeurs fixent les orientations fondamentales de l'aménagement
 des territoires intéressés, compte tenu de l'équilibre qu'il convient de
 préserver entre l'extension urbaine, l'exercice des activités agricoles, des
 autres activités économiques et la préservation des sites et paysages naturels
@@ -15,7 +15,7 @@ transport, la localisation des services et activités les plus importants.
 fixent les orientations générales de l'extension de l'urbanisation et de la
 restructuration des espaces urbanisés. Ils définissent la capacité d'accueil des
 espaces urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre
-emploi et habitat ainsi que des moyens de transport.
+emploi et habitat ainsi que des moyens de transport et de la gestion des eaux.
 
 " Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que
 ceux des collectivités locales et des établissements et services publics. Ils
