@@ -1,8 +1,9 @@
 Article R513-8
 ----
 Les délibérations sont prises à la majorité absolue des votants. En cas de
-partage, la voix du président est prépondérante, excepté dans les scrutins
-secrets.
+partage, la voix du président est prépondérante, sauf dans les scrutins secrets.
+Lorsqu'un président de chambre départementale est également président de chambre
+régionale, il dispose d'une voix au titre de chacune de ces qualités.
 
 Le vote a lieu au scrutin public sur la demande du quart des membres présents ;
 les noms des votants, avec l'indication de leur vote, sont alors insérés au

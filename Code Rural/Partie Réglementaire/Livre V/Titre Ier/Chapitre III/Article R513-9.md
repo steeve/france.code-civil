@@ -9,3 +9,6 @@ disponibles. Il établit les titres de perception.
 Il nomme le personnel qui est placé sous l'autorité d'un directeur des services.
 Le directeur des services assiste, à titre consultatif, aux séances des divers
 organes de l'assemblée permanente et à celles de l'assemblée elle-même.
+
+Les dispositions du troisième alinéa de l'article R. 511-64 sont applicables à
+l'assemblée permanente des chambres d'agriculture.
