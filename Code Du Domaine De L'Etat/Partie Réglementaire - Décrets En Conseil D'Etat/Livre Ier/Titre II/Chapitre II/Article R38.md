@@ -1,12 +1,16 @@
 Article R38
 ----
-Les demandes visées à l'article précédent doivent être formulées par
+Les demandes mentionnées à l'article R. 37 doivent être formulées par
 délibération de l'organisme ayant qualité pour accepter les libéralités au nom
 de l'établissement.
 
 Elles sont adressées au préfet du département dans lequel est situé
-l'établissement gratifié. Elles sont accompagnées des pièces prévues à l'article
-R. 27 (1°, 2°, 3° et 5°) ainsi que des budgets et des comptes de l'établissement
-afférents aux trois derniers exercices et du budget de l'exercice en cours.
+l'établissement gratifié.
 
-Les demandes sont enregistrées à la préfecture. Il en est délivré récépissé.
+Le préfet accomplit, s'il y a lieu, les formalités prévues à l'article R. 29.
+Lorsqu'il fait procéder aux publications prévues à l'article R. 42, une affiche
+doit en outre être apposée à la mairie du lieu de situation de l'établissement.
+
+Les dispositions de l'article R. 30 sont applicables aux demandes de révision ou
+de restitution mentionnées à l'article R. 37. Le ministre intéressé est le
+ministre chargé de la tutelle de l'établissement public gratifié.

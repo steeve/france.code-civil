@@ -1,13 +1,22 @@
 Article R42
 ----
-Si postérieurement à la réduction ou modification de l'affectation de charges
-résultant d'une libéralité, l'exécution totale ou partielle des obligations
-initialement imposées redevient possible, elle peut être demandée par le
-disposant ou ses ayants droit. La demande est adressée au préfet du département
-où est situé l'établissement intéressé, il en est accusé réception.
+Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses
+ayants droit sont inconnues, une affiche est apposée pendant un mois, à la
+diligence du préfet compétent, à la mairie du dernier domicile ou de la dernière
+résidence connus en France du disposant ainsi qu'à la mairie du lieu de
+situation des immeubles donnés ou légués. Les maires adressent au préfet un
+certificat constatant l'affichage.
 
-Dans la huitaine, le préfet notifie la demande à l'établissement gratifié et
-l'invite à produire dans le délai d'un mois ses observations.
+Le préfet fait en outre procéder à l'insertion d'un avis dans un journal
+paraissant dans le ou les départements dont dépendent les communes où a été
+effectué l'affichage.
 
-La décision est prise par l'autorité qui a prononcé la réduction ou la
-modification des charges et dans les mêmes formes.
+Après accomplissement de ces formalités, l'avis est publié au Journal officiel.
+Lorsque le disposant n'avait en France ni domicile ni résidence connus, une
+seconde publication est faite au Journal officiel un mois après la première.
+
+Les avis et affiches énoncent sommairement la révision ou la restitution
+envisagée. Ils indiquent que pendant un délai de trois mois à compter de la
+dernière publication au Journal officiel, le disposant ou ses ayants droit
+peuvent prendre connaissance du dossier à la préfecture, exprimer leur adhésion
+ou leur opposition et formuler leurs observations écrites.

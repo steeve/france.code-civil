@@ -1,14 +1,7 @@
 Article R43
 ----
-Les dispositions des articles R. 32 à R. 35 sont applicables aux restitutions de
-libéralités faites à des établissements publics de l'Etat autres que des
-établissements publics d'assistance ou de bienfaisance.
-
-Toutefois le procès-verbal visé à l'article R. 32 est établi par le représentant
-de l'établissement gratifié et signé par lui, conjointement avec le préfet, sauf
-dans le cas où la remise des biens aux bénéficiaires de la restitution
-intervient postérieurement à la signification de l'ordonnance confiant la
-gestion desdits biens aux domaines.
-
-La requête au président du tribunal est, s'il y a lieu, présentée par le préfet
-du département dans lequel est situé l'établissement gratifié.
+Lorsque le lieu d'ouverture de la succession est situé à l'étranger, le préfet
+du département de Paris est compétent pour appliquer les prescriptions des
+articles R. 22 et R. 23 ; il intervient de même pour l'application de l'article
+R. 29 lorsque le disposant n'a jamais eu de résidence en France et que les biens
+donnés ou légués sont situés à l'étranger.
