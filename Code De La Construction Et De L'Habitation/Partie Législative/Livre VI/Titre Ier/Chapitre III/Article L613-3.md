@@ -8,5 +8,6 @@ relogement des intéressés soit assuré dans des conditions suffisantes respect
 l'unité et les besoins de la famille.
 
 Les dispositions du présent article ne sont toutefois pas applicables lorsque
-les personnes dont l'expulsion a été ordonnée occupent des locaux situés dans un
-immeuble ayant fait l'objet d'un arrêté de péril.
+les personnes dont l'expulsion a été ordonnée sont entrées dans les locaux par
+voie de fait ou lorsque ceux-ci sont situés dans un immeuble ayant fait l'objet
+d'un arrêté de péril.
