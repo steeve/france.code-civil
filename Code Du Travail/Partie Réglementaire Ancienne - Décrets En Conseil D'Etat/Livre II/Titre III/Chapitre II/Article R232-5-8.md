@@ -21,5 +21,5 @@ toute nouvelle installation ou toute modification des conditions de recyclage.
 Les installations de recyclage doivent comporter un système de surveillance
 permettant de déceler les défauts des dispositifs d'épuration. En cas de défaut,
 les mesures nécessaires sont prises par l'employeur pour maintenir le respect
-des valeurs limites définies à l'article R. 232-5-5, le cas échéant, en arrêtant
-le recyclage.
+des valeurs limites définies aux I et II de l'article R. 232-5-5, le cas
+échéant, en arrêtant le recyclage.

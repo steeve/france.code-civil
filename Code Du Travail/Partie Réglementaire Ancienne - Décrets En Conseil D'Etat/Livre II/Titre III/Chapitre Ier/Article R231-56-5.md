@@ -14,7 +14,7 @@ veiller à ce qu'ils soient effectivement portés. En tout état de cause,
 l'exposition des travailleurs ne peut pas être permanente et doit être limitée
 pour chacun au strict nécessaire.
 
-Les travailleurs non protégés ne sont pas autorisés à travailler dans la zone
+Les travailleurs non protégés ne sont pas autorisés à rester dans la zone
 affectée.
 
 Afin de maintenir ou restaurer les conditions de salubrité dans cette zone,

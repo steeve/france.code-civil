@@ -39,6 +39,16 @@ b) En dehors des visites périodiques, l'employeur est tenu de faire examiner pa
 le médecin du travail tout travailleur qui se déclare incommodé par des travaux
 qu'il exécute. Cet examen peut être réalisé à l'initiative du travailleur.
 
+Si, au vu des examens médicaux qui ont été pratiqués, le médecin du travail
+estime qu'une valeur limite biologique fixée en application des articles L.
+231-2 et L. 231-7 est susceptible d'être dépassée, eu égard à la nature des
+travaux confiés à un travailleur, il en informe l'intéressé.
+
+En cas de dépassement, le médecin du travail, s'il considère que ce dépassement
+résulte de l'exposition professionnelle, en informe l'employeur, sous une forme
+non nominative, afin que ce dernier applique les dispositions prévues aux
+articles R. 231-56-1, R. 231-56-3, R. 231-56-4-1 et R. 231-56-8.
+
 c) Le médecin du travail est informé par l'employeur des absences pour cause de
 maladie d'une durée supérieure à dix jours des travailleurs exposés aux agents
 cancérogènes, mutagènes ou toxiques pour la reproduction.
