@@ -8,8 +8,8 @@ certification ;
 2° Délivré, utilisé ou tenté d'utiliser un label agricole n'ayant pas fait
 l'objet d'une homologation ;
 
-3° Assuré une certification sans satisfaire aux conditions prévues à l'article
-L. 115-23 ;
+3° Assuré une certification sans satisfaire aux conditions prévues aux articles
+L. 643-3 à L. 643-7 du code rural ;
 
 4° Utilisé un mode de présentation faisant croire ou de nature à faire croire
 qu'un produit bénéficie d'un label agricole ou d'une certification ;

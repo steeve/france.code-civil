@@ -1,9 +1,14 @@
 Article L115-7
 ----
-Les appellations d'origine définies par voie législative ou réglementaire avant
-le 1er juillet 1990 sont considérées comme répondant aux conditions de l'article
-L. 115-6. Toute modification ultérieure des textes définissant ces appellations
-doit intervenir conformément à la procédure prévue au même article.
+Les dispositions transitoires relatives aux appellations d'origine en matière
+agricole et agro-alimentaire sont définies à l'article L. 641-4 du code rural,
+ci-après reproduit :
+
+"Art. L. 641-4. - Les appellations d'origine définies par voie législative ou
+réglementaire avant le 1er juillet 1990 sont considérées comme répondant aux
+conditions de l'article L. 641-3. Toute modification ultérieure des textes
+définissant ces appellations doit intervenir conformément à la procédure prévue
+au même article.
 
 Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été
 définie par voie judiciaire avant le 1er juillet 1990, ou a été acquise en
@@ -14,6 +19,6 @@ produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une
 demande de reconnaissance en appellation d'origine contrôlée a été déposée
 auprès de l'Institut national des appellations d'origine avant le 31 décembre
 1996, se verront attribuer cette reconnaissance, par décret, s'ils satisfont aux
-conditions fixées à l'article L. 115-5. A compter du 1er juillet 2000, ou en cas
+conditions fixées à l'article L. 641-3. A compter du 1er juillet 2000, ou en cas
 de refus de reconnaissance de l'appellation d'origine contrôlée, ces
-appellations seront caduques.
+appellations seront caduques.".
