@@ -1,8 +1,7 @@
 Article 223 L
 ----
-1. Les dispositions de l'article 214 A ne sont pas applicables aux sommes
-allouées à titre de dividendes par des sociétés du groupe à d'autres sociétés du
-même groupe.
+1. (Dispositions devenues sans objet pour les exercices ouverts à compter du 1er
+janvier 1992).
 
 2. Les sociétés du groupe ne peuvent pas bénéficier du crédit d'impôt mentionné
 aux articles 220 quater et 220 quater A.

@@ -18,7 +18,8 @@ pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n�
 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux
 adultes handicapés, les suppléments de revenu familial prévus par la loi n°
 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la
-situation des familles nombreuses ;
+situation des familles nombreuses, et l'allocation pour dépenses de scolarité
+instituée par l'article 121 de la loi n° 92-1376 du 30 septembre 1992 ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code
 de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement
@@ -28,8 +29,7 @@ l'habitation ;
 2° ter Les majorations de retraite ou de pension pour charges de famille ;
 
 3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du
-contrat de travail à salaire différé prévu par l'article 63 du décret du 29
-juillet 1939 relatif à la famille et à la natalité française ;
+contrat de travail à salaire différé prévu par l'article L321-13 du code rural ;
 
 4° Les pensions servies en vertu des dispositions du code des pensions
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
@@ -79,9 +79,7 @@ du fait de la loi ;
 
 14° ter L'indemnité prévue par l'article L209-15 du code de la santé publique ;
 
-15° Les prestations, visées à l'article 20 de la loi n° 62-933 du 8 août 1962
-complémentaire à la loi d'orientation agricole, dans le cadre de l'entraide
-entre agriculteurs.
+15° Les prestations, visées aux articles L325-1 et L325-2 du code rural.
 
 Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux
 départements d'outre-mer *DOM* ;

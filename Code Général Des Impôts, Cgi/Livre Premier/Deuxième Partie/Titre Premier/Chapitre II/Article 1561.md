@@ -8,11 +8,11 @@ Sont exonérés de l'impôt prévu aux trois premières catégories de l'article
 3° a. Jusqu'à concurrence de 20.000 F [*montant*] de recettes par manifestation,
 les réunions sportives organisées par des associations sportives régies par la
 loi du 1er juillet 1901 agréées par le ministre compétent ou par des sociétés
-sportives visées à l'article 11 de la loi n° 84-610 du 16 juillet 1984 relative
-à l'organisation et à la promotion des activités physiques et sportives et,
-jusqu'à concurrence de 5.000 F, les quatre premières manifestations annuelles
-organisées au profit exclusif d'établissements publics ou d'associations
-légalement constituées agissant sans but lucratif ;
+sportives visées à l'article 11 de la loi n° 84-610 du 16 juillet 1984 modifié
+relative à l'organisation et à la promotion des activités physiques et sportives
+et, jusqu'à concurrence de 5.000 F, les quatre premières manifestations
+annuelles organisées au profit exclusif d'établissements publics ou
+d'associations légalement constituées agissant sans but lucratif ;
 
 b. Toutefois, l'exemption totale pourra être accordée aux compétitions relevant
 d'activités sportives limitativement énumérées par arrêtés des ministres de

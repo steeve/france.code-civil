@@ -23,28 +23,26 @@ soit qualifiée cession de pas de porte, indemnité de départ ou autrement.
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à
 1,20 p. cent. Le taux est fixé à 0,40 p. cent pour les mutations à titre onéreux
 visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées
-par un acte passé ou une convention conclue à compter du 1er octobre 1991, les
-taux de la taxe sont fixés à :
+par un acte passé ou une convention conclue à compter du 10 mai 1993, les taux
+de la taxe sont fixés à :
 
 FRACTION DE LA VALEUR TAXABLE :
 
-N'excédant pas 100 000 F
+N'excédant pas 150.000 F
 
 TARIF APPLICABLE : 0 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
-
-Comprise entre 100 000 F et 500 000 F
+Comprise entre 150.000 F et 700.000 F
 
 TARIF APPLICABLE : 0,40 %
 
 FRACTION DE LA VALEUR TAXABLE :
 
+Supérieure à 700.000 F
 
-Supérieure à 500 000 F
-
-TARIF APPLICABLE : 1 % .
+TARIF APPLICABLE : 1 % (1).
 
 Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental
 d'enregistrement ou à la taxe départementale de publicité foncière mentionnés
@@ -64,8 +62,7 @@ agricole;
 
 3° Ventes d'objets donnés en gage prévues par l'article 93 du code de commerce;
 
-4° Ventes opérées en vertu de l'article 11 de la loi du 30 avril 1906 sur les
-warrants agricoles;
+4° Ventes opérées en vertu de l'article L342-11 du code rural ;
 
 5° Ventes opérées en vertu de la loi du 8 août 1913 sur les warrants hôteliers
 en cas de non-paiement du warrant;

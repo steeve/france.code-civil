@@ -16,13 +16,14 @@ l'exonération éventuelle est prise en consignation au nom de l'oeuvre
 bénéficiaire.
 
 Les organisateurs et les bénéficiaires de ces représentations doivent justifier
-auprès du service des impôts de l'affectation de la totalité des recettes, sous
-la seule déduction des frais, à l'oeuvre au profit de laquelle la séance est
-donnée. Faute de produire ces justifications dans un délai maximal de deux mois,
-la perception portée en consignation est convertie en recette définitive. En
-outre, ces mêmes organisateurs et bénéficiaires doivent tenir leur comptabilité
-à la disposition des agents des impôts pendant le délai prévu au premier alinéa
-du I de l'article L102 B du livre des procédures fiscales (1).
+auprès du service de l'administration de l'affectation de la totalité des
+recettes, sous la seule déduction des frais, à l'oeuvre au profit de laquelle la
+séance est donnée. Faute de produire ces justifications dans un délai maximal de
+deux mois, la perception portée en consignation est convertie en recette
+définitive. En outre, ces mêmes organisateurs et bénéficiaires doivent tenir
+leur comptabilité à la disposition des agents de cette administration pendant le
+délai prévu au premier alinéa du I de l'article L102 B du livre des procédures
+fiscales (1).
 
 En aucun cas, la réduction d'impôt ne doit être accordée :
 
@@ -36,8 +37,8 @@ prévues par la réglementation en vigueur;
 5° Quatre des manifestations sportives organisées dans l'année par les
 associations sportives agréées par le ministre chargé des sports et par les
 groupements sportifs et les sociétés sportives visés à l'article 11 de la loi n°
-84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des
-activités physiques et sportives ;
+84-610 du 16 juillet 1984 modifié relative à l'organisation et à la promotion
+des activités physiques et sportives ;
 
 6° Les appareils automatiques mis en exploitation au cours du deuxième semestre
 de l'année.

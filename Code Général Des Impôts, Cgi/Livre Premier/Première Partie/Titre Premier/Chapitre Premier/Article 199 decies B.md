@@ -11,7 +11,7 @@ principale du locataire pendant six ans ;
 l'immeuble ou son acquisition si elle est postérieure ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
-le décret prévu au troisième alinéa du 3° du I de l'article 156.
+décret.
 
 Ces dispositions s'appliquent également aux souscriptions au capital de sociétés
 civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le régime

@@ -1,53 +1,87 @@
 Article 256
 ----
-I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens meubles
-et les prestations de services effectuées à titre onéreux par un assujetti
-agissant en tant que tel.
+I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et les
+prestations de services effectuées à titre onéreux par un assujetti agissant en
+tant que tel.
 
-II. La livraison d'un bien meuble [*définition*] s'entend du transfert de
-propriété d'un bien meuble corporel même si ce transfert est opéré en vertu
-d'une réquisition de l'autorité publique. L'électricité, le gaz, la chaleur, le
-froid et les biens similaires sont considérés comme des biens meubles corporels.
+II. 1° Est considéré comme livraison d'un bien [*définition*] , le transfert du
+pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
 
-Est assimilée à une livraison de bien meuble la délivrance d'un bien meuble
-corporel faite :
+2° Sont notamment considérés comme des biens meubles corporels :
 
-en exécution d'un contrat qui prévoit la vente à tempérament ou la location de
-ce bien pendant une période et qui est assorti d'une clause selon laquelle la
-propriété du bien est normalement acquise au détenteur ou à ses ayants droit au
-plus tard lors du paiement de la dernière échéance ;
+l'électricité, le gaz, la chaleur, le froid et les biens similaires.
 
-ou en vertu d'un contrat de vente qui comporte une clause de réserve de
-propriété, la délivrance [*définition*] s'entendant de la remise matérielle des
-biens ;
+3° Sont également considérés comme livraisons de biens :
 
-ou en vertu d'un contrat de commission à l'achat ou à la vente portant sur des
-déchets neufs d'industrie ou des matières de récupération.
+a) Le transfert de propriété d'un bien meuble corporel opéré en vertu d'une
+réquisition de l'autorité publique ;
 
-III. Les opérations autres que celles définies au II et, notamment, la livraison
-de biens meubles incorporels, les travaux immobiliers, les opérations de façon,
-les opérations de commission autres que celles portant sur des déchets neufs
-d'industrie ou des matières de récupération, sont considérées comme des
-prestations de services.
+b) La délivrance d'un travail à façon, c'est-à-dire la remise à son client par
+l'entrepreneur de l'ouvrage d'un bien meuble qu'il a fabriqué ou assemblé au
+moyen de matières ou d'objets que le client lui a confiés à cette fin, que
+l'entrepreneur ait fourni ou non une partie des matériaux utilisés ;
 
-IV. Sont également considérées comme des prestations de services (Disposition à
+c) La remise matérielle d'un bien meuble corporel en vertu d'un contrat qui
+prévoit la location de ce bien pendant une certaine période ou sa vente à
+tempérament et qui est assorti d'une clause selon laquelle la propriété de ce
+bien est normalement acquise au détenteur ou à ses ayants droit au plus tard
+lors du paiement de la dernière échéance ;
+
+d) La remise matérielle d'un bien meuble corporel en vertu d'un contrat de vente
+qui comporte une clause de réserve de propriété.
+
+III. Est assimilé à une livraison de biens, le transfert par un assujetti d'un
+bien de son entreprise à destination d'un autre Etat membre de la Communauté
+économique européenne.
+
+Est considéré comme un transfert au sens des dispositions qui précèdent
+l'expédition ou le transport, par un assujetti ou pour son compte, d'un bien
+meuble corporel pour les besoins de son entreprise, à l'exception de
+l'expédition ou du transport d'un bien qui, dans l'Etat membre d'arrivée, est
+destiné :
+
+a) A être utilisé temporairement pour les besoins de prestations de services
+effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, si
+ce bien était importé, au bénéfice de l'admission temporaire en exonération
+totale de droits ;
+
+b) A faire l'objet d'une délivrance de travail à façon ou de travaux à condition
+que le bien soit réexpédié ou transporté en France à destination de cet
+assujetti ;
+
+c) A faire l'objet d'une installation ou d'un montage.
+
+IV. Les opérations autres que celles qui sont définies au II, notamment la
+cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne
+pas faire ou à tolérer un acte ou une situation, et les travaux immobiliers,
+sont considérés comme des prestations de services ;
+
+2° Sont également considérées comme des prestations de services (Disposition à
 caractère interprétatif) :
 
-1° Les opérations, y compris la négociation, portant sur les devises, les
+a) Les opérations, y compris la négociation, portant sur les devises, les
 billets de banque et les monnaies qui sont des moyens de paiement légaux à
 l'exception des monnaies et billets de collection.
 
+Le chiffre d'affaires afférent à ces opérations est constitué par le montant des
+profits et autres rémunérations.
+
 Sont considérés comme des monnaies et billets de collection, les pièces en or,
-en argent, ou autre métal, ainsi que les billets qui ne sont pas normalement
+en argent ou autre métal, ainsi que les billets qui ne sont pas normalement
 utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un
 intérêt numismatique ;
 
-2° Les opérations, autres que celles de garde et de gestion, portant sur les
-actions, les parts de sociétés ou d'associations, les obligations et les autres
-titres, à l'exclusion des titres représentatifs de marchandises et des parts
-d'intérêt dont la possession assure en droit ou en fait l'attribution en
-propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien
-immeuble.
+b) Les opérations portant sur les actions, les parts de sociétés ou
+d'associations, les obligations et les autres titres, à l'exclusion des titres
+représentatifs de marchandises et des parts d'intérêt dont la possession assure
+en droit ou en fait l'attribution en propriété ou en jouissance d'un bien
+immeuble ou d'une fraction d'un bien immeuble.
 
-Le chiffre d'affaires afférent aux opérations visées aux 1° et 2° est constitué
-par le montant des profits et autres rémunérations.
+Le chiffre d'affaires afférent aux opérations, autres que celles de garde et de
+gestion, mentionnées ci-dessus est constitué par le montant des profits et
+autres rémunérations.
+
+V. L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
+s'entremet dans une livraison de bien ou une prestation de services, est réputé
+avoir personnellement acquis et livré le bien, ou reçu et fourni les services
+considérés.

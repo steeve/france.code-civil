@@ -1,8 +1,9 @@
 Article 164 M
 ----
-Sauf autorisation de l'administration des impôts les empreintes fournies par les
-machines à timbrer doivent comporter exclusivement selon une disposition fixée
-pour chacun des usages autorisés :
+Sauf autorisation de l'administration des impôts, ou de l'administration des
+douanes et droits indirects, pour ce qui la concerne, les empreintes fournies
+par les machines à timbrer doivent comporter exclusivement selon une disposition
+fixée pour chacun des usages autorisés :
 
 L'emblème, timbre, sigle ou indicatif officiel prescrit ;
 

@@ -2,8 +2,9 @@ Article 207
 ----
 1. Sont exonérés de l'impôt sur les sociétés :
 
-1° (Disposition devenue sans objet : loi n° 84-1208 du 29 décembre 1984, art.
-85) ;
+1° (Disposition devenue sans objet).
+
+code rural, autres que celles définies à l'article 206-6 ;
 
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition
 qu'elle fonctionnent conformément aux dispositions qui les régissent :
@@ -109,13 +110,35 @@ effectuent des apports de travail ;
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
-1 bis. Lorsque les sociétés coopératives agricoles ou leurs unions émettent des
+1 bis. Lorsque les sociétés coopératives ou leurs unions émettent des
 certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas
 applicable à la fraction des résultats correspondant à la part du montant
 nominal des certificats coopératifs dans le capital social.
 
 Les résultats sont déterminés selon les règles fixées par l'article 209, avant
 déduction des ristournes.
+
+1 ter. - Pour les sociétés coopératives et leurs unions autres que celles qui
+sont mentionnées aux 2° et 3° du 1 ou autres que celles qui relèvent du 4° du
+même 1, l'exonération prévue au 1 est limitée à la fraction des résultats
+calculée proportionnellement aux droits des coopérateurs dans le capital lorsque
+les associés non coopérateurs détiennent 20 p. 100 au moins du capital et que
+leurs parts sociales peuvent donner lieu à rémunération.
+
+Les résultats sont déterminés selon les règles visées à l'article 209 avant
+déduction des ristournes.
+
+1 quater. - Pour les sociétés coopératives et leurs unions autres que celles qui
+sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable
+lorsque les associés non coopérateurs et les titulaires de certificats
+coopératifs d'investissement détiennent plus de 50 p. 100 du capital et que
+leurs parts sociales peuvent donner lieu à rémunération.
+
+1 quinquies. - Pour l'application des dispositions du 1 ter et du 1 quater, sont
+regardées comme associés non coopérateurs les personnes physiques ou morales qui
+n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci
+n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
+à la réalisation des objectifs de celle-ci.
 
 2. (Abrogé)
 

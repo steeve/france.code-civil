@@ -14,7 +14,10 @@ relevant du code de la mutualité, soit auprès d'entreprises d'assurances régi
 par le livre III du code des assurances.
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de
-prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
+prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire
+ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre
+obligatoire au régime de prévoyance des joueurs professionnels de football
+institué par la charte du football professionnel.
 
 Lorsque le total des versements du salarié et de l'employeur tant aux caisses de
 sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de

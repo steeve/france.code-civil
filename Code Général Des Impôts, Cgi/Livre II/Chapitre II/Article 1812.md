@@ -13,8 +13,7 @@ Quiconque met les agents habilités à constater lesdites infractions dans
 l'impossibilité d'accomplir leurs fonctions soit en leur refusant l'entrée de
 ses locaux de fabrication, de dépôt ou de vente, soit de toute autre manière,
 est puni, indépendamment des peines prévues à l'article 1798, deuxième alinéa,
-des peines prévues à l'article 6 de la loi du 28 juillet 1912 modifiée par
-l'article unique de celle du 20 mars 1919.
+des peines prévues à l'article L217-10 du code de la consommation .
 
 Les infractions sont recherchées et constatées à la diligence du ministère
 public, comme en matière de fraudes et de falsifications.

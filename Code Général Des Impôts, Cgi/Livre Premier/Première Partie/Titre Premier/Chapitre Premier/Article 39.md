@@ -36,12 +36,29 @@ de même des charges sociales et fiscales afférentes à cette indemnité.
 
 Un décret fixe les modalités d'application de ces dispositions (2).
 
-2° Sauf s'ils sont pratiqués par une copropriété de navires (3), les
-amortissements réellement effectués par l'entreprise, dans la limite de ceux qui
-sont généralement admis d'après les usages de chaque nature d'industrie, de
-commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y
-compris ceux qui auraient été différés au cours d'exercices antérieurs
-déficitaires, sous réserve des dispositions de l'article 39 B.
+1° ter Pour les emprunts contractés à compter du 1er janvier 1993, la fraction,
+courue au cours de l'exercice, de la rémunération égale à la différence entre
+les sommes ou valeurs à verser, autres que les intérêts, et celles reçues à
+l'émission, lorsque cette rémunération excède 10 p. 100 des sommes initialement
+mises à la disposition de l'emprunteur.
+
+Cette fraction courue est déterminée de manière actuarielle, selon la méthode
+des intérêts composés.
+
+Pour les emprunts dont le montant à rembourser est indexé, ces dispositions
+s'appliquent à la fraction de la rémunération qui est certaine dans son principe
+et son montant dès l'origine, si cette fraction excède 10 p. 100 des sommes
+initialement mises à la disposition de l'emprunteur. Elles ne sont pas
+applicables aux emprunts convertibles et à ceux dont le remboursement est à la
+seule initiative de l'emprunteur.
+
+2° Sauf s'ils sont pratiqués par une copropriété de navires (3), une copropriété
+de cheval de course ou d'étalon, les amortissements réellement effectués par
+l'entreprise, dans la limite de ceux qui sont généralement admis d'après les
+usages de chaque nature d'industrie, de commerce ou d'exploitation et compte
+tenu des dispositions de l'article 39 A, y compris ceux qui auraient été
+différés au cours d'exercices antérieurs déficitaires, sous réserve des
+dispositions de l'article 39 B.
 
 Les décrets en Conseil d'Etat (4) prévus à l'article 273 fixent les conséquences
 des déductions prévues à l'article 271 sur la comptabilisation et
@@ -59,6 +76,9 @@ entièrement libéré.
 A compter du 1er janvier 1983, les produits des clauses d'indexation afférentes
 aux sommes mises ou laissées à la disposition d'une société par ses associés ou
 ses actionnaires sont assimilés à des intérêts.
+
+La rémunération mentionnée au 1° ter est retenue pour l'appréciation de la
+limitation prévue au premier alinéa.
 
 La limite prévue au premier alinéa n'est pas applicable aux intérêts afférents
 aux avances consenties par une société à une autre société lorsque la première
@@ -219,11 +239,14 @@ déterminée par référence à la valeur fiscale des actifs auxquels les élém
 reçus se sont substitués (10).
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
-du 23 septembre 1967.
+du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3 de
+la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de
+certaines catégories de commerçants et artisans âgés, modifiée par l'article 113
+de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984) ;
 
-Le fait générateur de cette contribution est constitué par l'existence de
-l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est
-due ;
+Le fait générateur de cette contribution ou de cette taxe est constitué par
+l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de
+laquelle elle est due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,

@@ -4,7 +4,7 @@ Les distributions par les sociétés de capital-risque qui fonctionnent dans les
 conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985
 modifiée [*DDOEF*] prélevées sur des plus-values nettes provenant des titres de
 leur portefeuille sont soumises, lorsque l'actionnaire est une personne
-physique, au taux d'imposition prévu à l'article 200 A.
+physique, au taux d'imposition prévu au 2 de l'article 200 A.
 
 Toutefois les distributions prélevées sur des plus-values provenant du
 portefeuille coté ou non coté, ou sur les revenus des titres non cotés de la

@@ -32,8 +32,8 @@ prévue à l'article 231 ter ;
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la
 construction, la réparation ou l'amélioration des propriétés;
 
-e) Une déduction forfaitaire fixée à 8 % [*pourcentage*] des revenus bruts et
-représentant les frais de gestion, l'assurance et l'amortissement.
+e) Une déduction forfaitaire fixée à 10 % [*pourcentage*] des revenus bruts et
+représentant les frais de gestion, l'assurance et l'amortissement (1).
 
 Le taux de cette déduction [*forfaitaire pour certains logements neufs*] est
 porté à 25 p. 100 pour les revenus des dix premières années de location des
@@ -85,3 +85,5 @@ mentionnés à l'article 743-2° ;
 e) (Devenu sans objet).
 
 II (Transféré sous l'article 156-II-1° ter).
+
+(1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1993.

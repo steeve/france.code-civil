@@ -7,14 +7,19 @@ Toutefois le contribuable qui cesse toute activité dans un établissement n'est
 pas redevable de la taxe pour les mois restant à courir, sauf en cas de cession
 de l'activité exrcée dans l'établissement.
 
+Lorsqu'au titre d'une année une cotisation de taxe professionnelle a été émise
+au nom d'une personne autre que le redevable légal de l'impôt, l'imposition de
+ce dernier, au titre de la même année, est établie au profit de l'Etat dans la
+limite du dégrèvement accordé au contribuable imposé à tort.
+
 II. En cas de création d'un établissement autre que ceux mentionnés au III, la
 taxe professionnelle n'est pas due pour l'année de la création.
 
 Pour les deux années suivant celle de la création, la base d'imposition est
 calculée d'après les immobilisations dont le redevable a disposé au 31 décembre
-de la première année d'activité et les salaires versés ou les recettes réalisées
-au cours de cette même année. Ces deux éléments sont ajustés pour correspondre à
-une année pleine.
+de la première année d'activité et les salaires dus au titre de cette même année
+ou les recettes réalisées au cours de cette même année. Ces deux éléments sont
+ajustés pour correspondre à une année pleine.
 
 Pour les impositions établies au titre de 1988 et des années suivantes, en cas
 de création d'établissement, la base du nouvel exploitant est réduite de moitié

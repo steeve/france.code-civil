@@ -15,8 +15,7 @@ l'établissement d'un rôle ou à la notification d'un avis de mise en recouvrem
 c) De la réalisation de l'événement qui motive la réclamation.
 
 Toutefois, dans les cas suivants, les réclamations doivent être présentées au
-plus tard le 31 décembre [*date limite*] de l'année suivant celle, selon le cas
-:
+plus tard le 31 décembre de l'année suivant celle, selon le cas :
 
 a) De la réception par le contribuable d'un nouvel avis d'imposition réparant
 les erreurs d'expédition que contenait celui adressé précédemment ;

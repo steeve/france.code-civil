@@ -6,11 +6,13 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 1° (Abrogé)
 
 1° bis. Les sociétés d'investissement qui sont constituées et fonctionnent dans
-les conditions prévues au titre II de l'ordonnance du 2 novembre 1945 précitée,
-pour la partie des bénéfices visée au 1°. Ces sociétés cesseront de bénéficier
-des dispositions du présent alinéa trois ans après leur création, si leurs
-actions ne sont pas introduites à la cote officielle ou à la cote du second
-marché d'une bourse de valeurs avant ce délai ;
+les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre
+1945, pour la partie des bénéfices provenant des produits nets de leur
+portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou
+parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de
+bénéficier des dispositions du présent alinéa trois ans après leur création, si
+leurs actions ne sont pas introduites à la cote officielle ou à la cote du
+second marché d'une bourse de valeurs avant ce délai ;
 
 1° bis A. Les sociétés d'investissement à capital variable [*SICAV*] régies par
 la loi n° 88-1201 du 23 décembre 1988 pour les bénéfices réalisés dans le cadre
@@ -54,7 +56,7 @@ bénéfice net provenant d'opérations de crédit-bail réalisées en France, co
 avant le 1er janvier 1996 et portant sur des immeubles affectés à une activité
 industrielle ou commerciale ou sur des locaux à usage de bureaux neufs et
 vacants au 1er octobre 1992, ainsi que pour les plus-values dégagées par la
-cession d'immeubles dans le cadre de ces opérations (Nota).
+cession d'immeubles dans le cadre de ces opérations.
 
 Le bénéfice net des sociétés visées aux premier et deuxième alinéas provenant de
 la location simple de leurs immeubles, par contrat conclu avant le 1er janvier
@@ -120,7 +122,7 @@ cet impôt à concurrence de :
 L'exonération totale ou partielle est subordonnée à la condition que les
 dividendes non soumis à l'impôt sur les sociétés provenant de la société
 immobilière pour le commerce et l'industrie soient redistribués par la société
-apporteuse avant la fin de l'exercice qui suit celui de leur encaissement.
+apporteuse avant la fin de l'exercice qui suit celui de leur encaissement. "
 
 3° sexies. Les sociétés agréées dans les conditions prévues par l'article 30 de
 la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à

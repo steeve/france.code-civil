@@ -8,12 +8,13 @@ location qui est obligatoirement assorti de clauses par lesquelles le
 concessionnaire s'engage à assurer l'entretien du matériel pendant toute la
 durée de la location.
 
-L'administration des impôts n'intervient pas dans la fixation des prix de
-location et des tarifs d'entretien mais ces prix et tarifs doivent lui être
-notifiés par le concessionnaire à titre d'information.
+L'administration des impôts ou l'administration des douanes et droits indirects,
+pour ce qui la concerne, n'intervient pas dans la fixation des prix de location
+et des tarifs d'entretien, mais ces prix et tarifs doivent lui être notifiés par
+le concessionnaire à titre d'information.
 
 Toutefois en ce qui concerne les machines mentionnées aux articles 54 sexies à
-54 nonies l'administration des impôts peut aux conditions qu'elle détermine
-renoncer aux principes de mise à la disposition des usagers énoncés aux alinéas
-précédents pour les parties des machines constituant les dispositifs de commande
-et non soumises à scellement d'inviolabilité.
+54 nonies l'administration des douanes et droits indirects peut, aux conditions
+qu'elle détermine renoncer aux principes de mise à la disposition des usagers
+énoncés aux alinéas précédents pour les parties des machines constituant les
+dispositifs de commande et non soumises à scellement d'inviolabilité.

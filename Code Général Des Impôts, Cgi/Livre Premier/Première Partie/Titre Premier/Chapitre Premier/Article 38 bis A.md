@@ -1,14 +1,13 @@
 Article 38 bis A
 ----
-Par dérogation aux dispositions de l'article 38, les établissements de crédit et
-les maisons de titres mentionnées à l'article 99 de la loi n° 84-46 du 24
-janvier 1984 relative à l'activité et au contrôle des établissements de crédit
-qui inscrivent sur un compte de titres de transaction à l'actif de leur bilan
-des valeurs mobilières cotées ou négociables sur un marché sont imposés au taux
-normal et dans les conditions de droit commun sur l'écart résultant de
-l'évaluation de ces titres au cours le plus récent à la clôture de l'exercice ou
-lors de leur retrait du compte, ainsi que sur les profits et les pertes dégagés
-lors de leur cession.
+Par dérogation aux dispositions de l'article 38, les établissements de crédit
+mentionnés à l'article 18 modifié de la loi n° 84-46 du 24 janvier 1984 relative
+à l'activité et au contrôle des établissements de crédit qui inscrivent sur un
+compte de titres de transactions à l'actif de leur bilan des valeurs mobilières
+cotées ou négociables sur un marché sont imposés au taux normal et dans les
+conditions de droit commun sur l'écart résultant de l'évaluation de ces titres
+au cours le plus récent à la clôture de l'exercice ou lors de leur retrait du
+compte, ainsi que sur les profits et les pertes dégagés lors de leur cession.
 
 Si les valeurs mobilières ne sont pas cédées dans le délai de six mois suivant
 leur acquisition, elles sont transférées de manière irréversible au compte de

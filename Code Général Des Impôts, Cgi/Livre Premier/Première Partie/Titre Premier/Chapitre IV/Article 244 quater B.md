@@ -1,32 +1,29 @@
 Article 244 quater B
 ----
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
-leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 25 % [*taux*]
+leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 50 % [*taux*]
 de l'excédent des dépenses de recherche exposées au cours d'une année par
 rapport à la moyenne des dépenses de même nature, revalorisées de la hausse des
 prix à la consommation, exposées au cours des deux années précédentes (1).
 
 Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de leur
-création est égal à 25 % des dépenses de recherche exposées au cours de cette
-période.
+création est égal à 50 % des dépenses de recherche exposées au cours de cette
+période (2).
 
-Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions de francs
-[*montant limite*].
+(Abrogé) (2).
 
-Le crédit d'impôt afférent aux années 1985 et suivantes est porté à 50 p. 100 :
-son montant est plafonné pour chaque entreprise à 5 millions de francs. Ce
-plafond est porté à 40 millions de francs pour le calcul du crédit d'impôt
-attribué au titre des années 1991 et suivantes.
+Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de
+personnes, à 40 millions de francs. Il s'apprécie en prenant en compte la
+fraction du crédit d'impôt correspondant aux parts des associés de sociétés de
+personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de
+groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C
+(2).
 
 Pour le calcul du crédit d'impôt attribué au titre des années 1986 et suivantes,
 le crédit est égal à 50 % des dépenses de recherche de la première année au
 cours de laquelle l'entreprise expose des dépenses de cette nature.
 
-Si au titre d'une année l'entreprise augmente ses dépenses de recherche et de
-développement expérimental externes visées au d du II, le plafond de 5 millions
-de francs est majoré de la part du crédit d'impôt qui provient de l'augmentation
-de ces dépenses, dans la limite globale de 10 millions de francs, pour le calcul
-du crédit d'impôt attribué au titre des années 1987 à 1990.
+(Abrogé)
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont [*champ
 d'application*] :
@@ -55,7 +52,7 @@ agréés dans les mêmes conditions ;
 e) Les frais de prise et de maintenance de brevets ;
 
 f) Les dotations aux amortissements des brevets acquis en vue de réaliser des
-opérations de recherche et de développement expérimental (2) ;
+opérations de recherche et de développement expérimental (3) (4) ;
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise,
 définies comme suit, pour la moitié de leur montant :
@@ -64,12 +61,12 @@ définies comme suit, pour la moitié de leur montant :
 les salariés participent aux réunions officielles de normalisation ;
 
 2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses
-sont fixées forfaitairement à 30 p. 100 des salaires mentionnés au 1° (3).
+sont fixées forfaitairement à 30 p. 100 des salaires mentionnés au 1° (5).
 
 3° Dans des conditions fixées par décret, les dépenses exposées par le chef
 d'une entreprise individuelle pour sa participation aux réunions officielles de
 normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de
-présence auxdites réunions (5) ;
+présence auxdites réunions (6) ;
 
 h. Les dépenses liées à l'élaboration de nouvelles collections exposées par les
 entreprises industrielles du secteur textile-habillement-cuir et définies comme
@@ -88,7 +85,11 @@ au 1° ;
 opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses
 de personnel mentionnées au 1° ;
 
-4° Les frais de dépôt des dessins et modèles (4).
+4° Les frais de dépôt des dessins et modèles.
+
+Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul
+du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié
+du crédit d'impôt prévu à l'article 220 septies.
 
 III. Les subventions publiques reçues par les entreprises à raison des
 opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de
@@ -101,63 +102,43 @@ indirecte, ou résultant de fusions, scissions, apports ou opérations assimilé
 il est fait abstraction, pour le calcul de la variation des dépenses de
 recherche, de la part de cette variation provenant exclusivement du transfert.
 
-IV. Les dispositions du présent article s'appliquent aux dépenses mentionnées au
-a à f du II, exposées au cours des années 1983 à 1987, sur option de
-l'entreprise valable jusqu'au terme de cette période.
+IV. (Périmé).
 
 IV bis. Sur option de l'entreprise, les dispositions du présent article sont
 également applicables aux dépenses exposées :
 
-a) Au cours des années 1985 à 1988 par les entreprises n'ayant pas exercé
-l'option prévue au paragraphe IV ;
+a) b) c) (Périmés).
 
-b) En 1988 par les entreprises ayant exercé l'option prévue au paragraphe IV ou
-créées en 1988 et remplissant les conditions prévues aux 1° et 3° du paragraphe
-II et au paragraphe III de l'article 44 bis.
+d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du
+crédit d'impôt recherche au titre de l'année 1992 ou par celles qui n'ont jamais
+bénéficié du dispositif du crédit d'impôt recherche (2).
 
-c) Au cours des années 1990 à 1992 par les entreprises n'ayant pas encore
-bénéficié du dispositif du crédit d'impôt-recherche.
+IV ter. (Périmé).
 
-IV ter. L'entreprise qui a bénéficié du crédit d'impôt prévu au I au titre de
-l'année 1986 ou d'une année antérieure, ou qui a engagé des dépenses de
-recherche et de développement expérimental en 1987, peut opter en 1988 pour
-l'application dudit crédit d'impôt aux dépenses de recherche et de développement
-expérimental exposées de 1987 à 1989. Cette option peut être reconduite en 1991
-pour l'application de cet article aux dépenses de recherche de 1990 à 1992.
-
-V. a) L'entreprise industrielle et commerciale imposée d'après le bénéfice réel
-qui n'a pas bénéficié du crédit d'impôt prévu au I peut opter en 1989 pour
-l'application dudit crédit d'impôt aux dépenses de recherche exposées de 1988 à
-1990.
-
-Le crédit d'impôt est égal à 30 p. 100 de l'excédent des dépenses de recherche
-et de développement expérimental visées au II et exposées au cours de chacune
-des années 1988 à 1990 par rapport aux dépenses de même nature exposées en 1987
-revalorisées en fonction de la hausse des prix à la consommation. Les dépenses
-de chacune de ces années sont retenues dans la limite de 3 millions de francs.
-
-b) L'entreprise qui a bénéficié des dispositions du a jusqu'en 1990 peut opter
-en 1992 pour l'application du crédit d'impôt prévu au I à ses dépenses de
-recherche des années 1991 et 1992.
+V. (Périmé).
 
 VI. Un décret fixe les conditions d'application du présent article. Il en adapte
 les dospositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec
-l'année civile (5).
+l'année civile (7).
 
 (1) Moyenne de référence retenue pour la détermination du crédit d'impôt
 afférent aux années 1990 à 1992.
 
 Ces dispositions sont applicables, sur option de l'entreprise exercée en 1993,
 pour le calcul du crédit d'impôt recherche afférent à l'année 1992. (2) Ces
-dépenses sont prises en compte pour la première fois pour le calcul du crédit
-d'impôt de l'année 1987.
+dispositions s'appliquent pour le calcul du crédit d'impôt-recherche des années
+1992 à 1995.
 
-(3) Dépenses de normalisation retenues pour la détermination du crédit d'impôt
+(3) Ces dépenses sont prises en compte pour la première fois pour le calcul du
+crédit d'impôt de l'année 1987.
+
+(4) En ce qui concerne le contrôle, voir livre des procédures fiscales, art.
+L45.
+
+(5) Dépenses de normalisation retenues pour la détermination du crédit d'impôt
 afférent aux années 1990 à 1992.
 
-(4) Ces dispositions s'appliquent pour le calcul du crédit d'impôt-recherche de
-l'année 1992.
+(6) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45
+B.
 
-En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
-
-(5) Annexe III, art. 49 septies F à 49 septies N.
+(7) Annexe III, art. 49 septies F à 49 septies N.

@@ -15,8 +15,8 @@ La taxe est assise [*assiette*] et recouvrée selon les mêmes modalités et sou
 les mêmes sanctions que la taxe locale d'équipement. Elle doit être payée au
 comptable du Trésor de la situation des biens en un versement exigible à
 l'expiration du délai prévu au troisième alinéa de l'article 1723 quater pour le
-premier versement de la taxe locale d'équipement. Son produit est perçu au
-profit du département [*organisme bénéficiaire*].
+premier versement ou le versement unique de la taxe locale d'équipement. Son
+produit est perçu au profit du département [*organisme bénéficiaire*].
 
 (1) Les décisions des conseils généraux relatives à la taxe sont applicables à
 compter du 1er mai 1982 si elles interviennent avant cette date et à compter du

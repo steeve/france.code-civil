@@ -5,9 +5,9 @@ I Présentent également le caractère de bénéfices industriels et commerciaux
 réalisés par les personnes physiques désignées ci-après :
 
 1° Personnes qui, habituellement, achètent en leur nom, en vue de les revendre,
-des immeubles, des fonds de commerce, des actions [*valeurs mobilières*] ou
-parts de sociétés immobilières ou qui, habituellement, souscrivent, en vue de
-les revendre, des actions ou parts créées ou émises par les mêmes sociétés.
+des immeubles, des fonds de commerce, des actions ou parts de sociétés
+immobilières ou qui, habituellement, souscrivent, en vue de les revendre, des
+actions ou parts créées ou émises par les mêmes sociétés.
 
 Ces personnes s'entendent notamment de celles qui achètent des biens immeubles,
 en vue d'édifier un ou plusieurs bâtiments et de les vendre, en bloc ou par
@@ -34,12 +34,19 @@ ou d'industrie;
 
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
+7° bis Membres de copropriétés de cheval de course ou d'étalon mentionnés à
+l'article 8 quinquies. Toutefois, les revenus de ces copropriétaires conservent
+le caractère de bénéfices de l'exploitation agricole ou de bénéfices des
+professions non commerciales lorsque leurs parts de copropriété sont inscrites à
+l'actif d'une exploitation agricole dont elles constituent un moyen
+complémentaire ou figurent dans les immobilisations d'une activité non
+commerciale nécessaires à l'exercice de celle-ci.
+
 8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger,
 directement ou par personne interposée, des opérations sur un marché à terme
-d'instruments financiers ou d'options négociables [*MONEP*] ou sur des bons
-d'option (1), à condition qu'elles aient opté pour ce régime dans les quinze
-jours du début du premier exercice d'imposition à ce titre. L'option est
-irrévocable.
+d'instruments financiers ou d'options négociables ou sur des bons d'option (1),
+à condition qu'elles aient opté pour ce régime dans les quinze jours du début du
+premier exercice d'imposition à ce titre. L'option est irrévocable.
 
 Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par
 personne interposée, des opérations à terme sur marchandises sur le marché à

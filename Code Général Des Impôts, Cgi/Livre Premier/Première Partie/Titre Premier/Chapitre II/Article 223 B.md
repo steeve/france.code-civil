@@ -4,9 +4,10 @@ Le résultat d'ensemble est déterminé par la société mère en faisant la som
 algébrique des résultats de chacune des sociétés du groupe, déterminés dans les
 conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
 
-Le résultat d'ensemble est diminué de la quote-part de frais et charges visée au
-paragraphe I de l'article 216 qui est comprise dans ses résultats par une
-société du groupe à raison de sa participation dans une autre société du groupe.
+En ce qui concerne la détermination des résultats des exercices ouverts avant le
+1er janvier 1993, le résultat d'ensemble est diminué de la quote-part de frais
+et charges comprise dans ses résultats par une société du groupe à raison de sa
+participation dans une autre société du groupe.
 
 Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des

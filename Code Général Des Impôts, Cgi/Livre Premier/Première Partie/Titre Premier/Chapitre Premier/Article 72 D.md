@@ -21,9 +21,8 @@ d'immobilisations amortissables strictement nécessaires à l'activité ou pour
 l'acquisition et pour la production de stocks de produits ou animaux dont le
 cycle de rotation est supérieur à un an.
 
-Pour les exploitants agricoles qui bénéficient des dispositions de l'article 73
-B, la déduction est pratiquée après application de l'abattement prévu au
-paragraphe I de l'article 44 bis.
+La déduction est pratiquée après application de l'abattement prévu à l'article
+73 B.
 
 Lorsque la déduction est utilisée à l'acquisition ou à la création
 d'immobilisations amortissables, la base d'amortissement de celles-ci est

@@ -21,9 +21,8 @@ celles qui déterminent l'arrêt de la filière ;
 2° (Abrogé) ;
 
 3° Les prestations réalisées dans le cadre de l'entraide entre agriculteurs
-définie par l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la
-loi d'orientation agricole. Cette exonération pourra être étendue par décret en
-Conseil d'Etat aux départements d'outre-mer (2) ;
+définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra
+être étendue par décret en Conseil d'Etat aux départements d'outre-mer (2) ;
 
 4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui
 concerne la vente des produits de leur pêche (poissons, crustacés, coquillages
@@ -142,15 +141,17 @@ contribution des employeurs à l'effort de construction visée à l'article 235 
 
 c. (Devenu sans objet) ;
 
-par les sociétés d'aménagement foncier et d'établissement rural [*SAFER*]
-constituées en application de l'article L141-1 du même code et agréées par le
-ministre de l'agriculture et le ministre du budget (4) ;
+d. Les opérations immobilières résultant de l'application des dispositions des
+articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement
+foncier et d'établissement rural [*SAFER*] constituées en application de
+l'article L141-1 du même code et agréées par le ministre de l'agriculture et le
+ministre du budget (4) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions de
 l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole,
 réalisées par les sociétés d'aménagement foncier et d'établissement rural
-[*SAFER*] constituées en application de l'article L141-1 du même code et agréées
-par le ministre de l'agriculture et le ministre du budget (4) ;
+constituées en application de ce même article et agréées par le ministre de
+l'agriculture et le ministre du budget (4) ;
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis
 postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
@@ -288,8 +289,6 @@ dans les conditions et selon les modalités prévues par décret en Conseil d'Et
 (3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont
 souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8
 septembre 1989.
-
-Ces dispositions entrent en vigueur le 1er janvier 1993.
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 

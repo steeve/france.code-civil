@@ -21,7 +21,7 @@ mois suivant celui au cours duquel le nouveau débiteur de l'impôt a été avis
 la décision de mutation.
 
 1 ter La majoration prévue au 1 est appliquée au montant de la contribution
-mentionnée à l'article 1600-0 B qui n'a pas été réglé dans les trente jours
+mentionnée à l'article 1600-0 C qui n'a pas été réglé dans les trente jours
 suivant la mise en recouvrement.
 
 2 Cette majoration ne peut être cumulée avec celle prévue à l'article 1762.

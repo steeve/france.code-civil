@@ -16,17 +16,23 @@ c Les opérations, y compris la négociation, concernant les dépôts de fonds,
 comptes courants, paiements, virements, créances, chèques et autres effets de
 commerce, à l'exception du recouvrement de créances;
 
-d Les opérations visées au 1° du IV de l'article 256 ;
+d Les opérations, y compris la négociation, portant sur les devises, les billets
+de banque et les monnaies qui sont des moyens de paiement légaux à l'exception
+des monnaies et billets de collection ;
 
-e Les opérations visées au 2° du IV de l'article 256 ;
+e Les opérations, autres que celles de garde et de gestion portant sur les
+actions, les parts de sociétés ou d'associations, les obligations et les autres
+titres, à l'exclusion des titres représentatifs de marchandises et des parts
+d'intérêt dont la possession assure en droit ou en fait l'attribution en
+propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien
+immeuble ;
 
-e Les opérations, autres que celles de garde et de gestion f La gestion de fonds
-communs de placement et de fonds communs de créances ;
+f La gestion de fonds communs de placement et de fonds communs de créances ;
 
 g Les opérations relatives à l'or, autre que l'or à usage industriel,
 lorsqu'elles sont réalisées par les établissements de crédit, sociétés de
 bourse, changeurs, escompteurs et remisiers, ou par toute autre personne qui en
-fait son activité principale (1) ;
+fait son activité principale ;
 
 2° Les opérations d'assurance et de réassurance ainsi que les prestations de
 services afférentes à ces opérations effectuées par les courtiers et

@@ -1,7 +1,6 @@
 Article R*256-1
 ----
-L'avis de mise en recouvrement individuel prévu à l'article L. 256 comporte
-[*mentions*] :
+L'avis de mise en recouvrement individuel prévu à l'article L. 256 comporte :
 
 1° Les indications nécessaires à la connaissance des droits, taxes, redevances,
 impositions ou autres sommes qui font l'objet de cet avis ;

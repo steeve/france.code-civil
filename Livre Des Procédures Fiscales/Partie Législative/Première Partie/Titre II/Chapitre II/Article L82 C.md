@@ -1,4 +1,5 @@
 Article L82 C
 ----
 A l'occasion de toute instance devant les juridictions civiles ou criminelles,
-le ministère public peut communiquer les dossiers à l'administration des impôts.
+le ministère public peut communiquer les dossiers à l'administration des
+finances.

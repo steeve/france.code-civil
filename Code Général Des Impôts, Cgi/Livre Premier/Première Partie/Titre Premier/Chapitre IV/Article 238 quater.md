@@ -36,8 +36,8 @@ depuis une date antérieure au 1er janvier 1962 ou y être entrés depuis cette
 date par succession ou par donation ; toutefois, aucune condition de date
 d'entrée dans le patrimoine n'est exigée pour les apports effectués par les
 sociétés d'aménagement foncier et d'établissement rural constituées et
-fonctionnant conformément aux dispositions des articles 15 à 18 de la loi n°
-60-808 du 5 août 1960 modifiée ;
+fonctionnant conformément aux dispositions des articles L141-1 à L142-6, L142-8,
+L144-2 et L144-3 du code rural ;
 
 3° La transformation ou l'apport ne doit pas comporter de transmission de biens
 meubles ou immeubles entre les membres du groupement ou d'autres personnes.

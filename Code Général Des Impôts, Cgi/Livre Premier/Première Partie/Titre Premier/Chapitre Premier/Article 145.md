@@ -39,10 +39,7 @@ contrat de prêt pour l'application du régime fiscal des sociétés mères.
 6. Le régime fiscal des sociétés mères n'est pas applicable :
 
 a. Aux produits des actions de sociétés d'investissement, des sociétés de
-développement régional, des sociétés financières pour le développement
-économique outre-mer, des sociétés de financement de recherches et
-d'exploitation des gisements d'hydrocarbures liquides ou gazeux et des sociétés
-sahariennes de développement ;
+développement régional ;
 
 b. b bis. (Abrogés).
 
@@ -94,6 +91,6 @@ En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal
 participation n'est exigé pour l'application du régime défini au présent
 article.
 
-8. (Transféré sous le paragraphe 6 d ci-dessus).
+8. (Transféré sous le paragraphe 6-d du ci-dessus).
 
 (1) Annexe II, art. 102 F.

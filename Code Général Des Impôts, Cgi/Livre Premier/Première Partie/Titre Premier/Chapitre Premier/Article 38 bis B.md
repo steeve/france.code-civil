@@ -1,10 +1,10 @@
 Article 38 bis B
 ----
-I. Lorsque des établissements de crédit ou des maisons de titres mentionnés à
-l'article 38 bis A achètent ou souscrivent des titres à revenu fixe pour un prix
-différent de leur prix de remboursement, le profit ou la perte correspondant à
-cette différence est réparti sur la durée restant à courir jusqu'au
-remboursement. Cette répartition est effectuée :
+I. Lorsque des établissements de crédit mentionnés à l'article 38 bis A achètent
+ou souscrivent des titres à revenu fixe pour un prix différent de leur prix de
+remboursement, le profit ou la perte correspondant à cette différence est
+réparti sur la durée restant à courir jusqu'au remboursement. Cette répartition
+est effectuée :
 
 de manière linéaire pour les valeurs mobilières ; dans ce cas, le prix
 d'acquisition s'entend coupon couru à l'achat exclu ;

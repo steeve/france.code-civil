@@ -1,6 +1,6 @@
 Article 199 ter
 ----
-I a Lorsque les bénéficiaires des revenus de capitaux mobilier visés aux
+I a. Lorsque les bénéficiaires des revenus de capitaux mobilier visés aux
 articles 108 à 119, 238 septies B et 1678 bis sont tenus, en exécution de
 dispositions de la législation fiscale, de souscrire, pour l'assiette de l'impôt
 sur le revenu, une déclaration comprenant lesdits revenus, la somme à la retenue
@@ -8,17 +8,16 @@ de laquelle ces revenus ont donné lieu, en vertu des articles 119 bis et 1678
 bis, est imputée sur le montant de l'impôt sur le revenu liquidé au vu de cette
 déclaration dans les conditions fixées par l'article 193.
 
-Ces dispositions ne sont pas applicables à la retenue à la source pratiquée sur
-les intérêts des obligations visés au deuxième alinéa du III de l'article 125 A.
-
 Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une
 déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la
-source seront restituées [*remboursement*], dans la mesure où elles ne pourront
-être admises à imputation sur l'impôt sur le revenu par suite de son montant
-inférieur ou de sa non-exigibilité dans des conditions qui seront fixées par
-décret en conseil d'Etat (1).
+source seront restituées, dans la mesure où elles ne pourront être admises à
+imputation sur l'impôt sur le revenu par suite de son montant inférieur ou de sa
+non-exigibilité dans des conditions qui seront fixées par décret en conseil
+d'Etat (1). Ces dispositions ne sont pas applicables à la retenue à la source
+pratiquée sur les intérêts des obligations visés au deuxième alinéa du III de
+l'article 125 A.
 
-b En ce qui concerne les revenus de source étrangère visés aux articles 120 à
+b. En ce qui concerne les revenus de source étrangère visés aux articles 120 à
 123, l'imputation est limitée au montant du crédit correspondant à l'impôt
 retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est
 prévu par les conventions internationales.
@@ -26,7 +25,7 @@ prévu par les conventions internationales.
 I bis (Abrogé).
 
 II Les actionnaires des sociétés d'investissement ou des sociétés assimilées
-visées aux 1° à 1° quinquies de l'article 208 et des sociétés de capital-risque
+visées aux 1° bis à 1° ter de l'article 208 et des sociétés de capital-risque
 visés au 3° septies du même article peuvent effectuer l'imputation de tout ou
 partie des crédits d'impôt et avoirs fiscaux attachés aux produits du
 portefeuille de ces sociétés dans les mêmes conditions que s'ils avaient perçu
@@ -43,8 +42,8 @@ françaises ordinaires.
 Le montant à imputer est ajouté pour l'assiette de l'impôt sur le revenu au
 revenu net perçu par l'actionnaire.
 
-Lorsque les sociétés d'investissement admises au bénéfice du régime prévu à
-l'article 208 1° bis et 1° bis A ne peuvent transférer à leurs actionnaires tout
+Lorsque les sociétés d'investissement admises au bénéfice du régime prévu aux 1°
+bis et 1° bis A de l'article 208 ne peuvent transférer à leurs actionnaires tout
 ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits de leur
 portefeuille encaissés au cours d'un exercice, les crédits et avoirs non
 utilisés sont susceptibles d'être reportés sur les quatre exercices suivants.

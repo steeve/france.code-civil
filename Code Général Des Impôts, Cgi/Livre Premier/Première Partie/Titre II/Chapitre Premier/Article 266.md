@@ -2,43 +2,39 @@ Article 266
 ----
 1. La base d'imposition est constituée (1) :
 
-a. Pour les livraisons de biens et des prestations de services, par toutes les
-sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le
-prestataire en contre-partie de la livraison ou de la prestation (2) ;
+a) Pour les livraisons de biens, les prestations de services et les acquisitions
+intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou
+à recevoir par le fournisseur ou le prestataire en contrepartie de ces
+opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les
+subventions directement liées au prix de ces opérations (2) ;
 
 b. Pour les opérations ci-après, par le montant total de la transaction :
 
-Opérations d'entremise qui ne sont pas rémunérées exclusivement par une
-commission dont le taux est fixé au préalable d'après le prix, la quantité ou la
-nature des biens ou des services ou qui ne donnent pas lieu à reddition de
-compte au commettant du prix auquel le mandataire a traité avec l'autre
-contractant ;
-
-Opérations effectuées en vertu d'un contrat de commission à l'achat ou à la
-vente portant sur des déchets neufs d'industrie ou des matières de récupération
-;
-
-Opérations d'entremise qui aboutissent à la livraison de produits imposables par
-les personnes qui ne sont pas redevables de la taxe, à l'exception des
-opérations portant sur les objets d'occasion et les animaux vivants de boucherie
-et de charcuterie ;
+Opérations réalisées par un intermédiaire mentionné au V de l'article 256 et au
+III de l'article 256 bis (2) ;
 
 Opérations réalisées par les personnes établies en France qui s'entremettent
 dans la livraison de biens ou l'exécution de services par des redevables qui
-n'ont pas établi en France le siège de leur activité, un établissement stable,
-leur domicile ou leur résidence habituelle ;
+n'ont pas établi dans la Communauté économique européenne le siège de leur
+activité, un établissement stable, leur domicile ou leur résidence habituelle
+(2) ;
 
-b bis. Pour les opérations visées au IV de l'article 256, qui ont fait l'objet
-de l'option prévue à l'article 260 B, par le montant des profits et autres
-rémunérations ;
+b bis) Pour la livraison ou l'acquisition intracommunautaire d'un travail à
+façon, par toutes les sommes, valeurs, biens ou services qui constituent la
+contrepartie du travail fourni et des matériaux apportés par le façonnier (2) ;
 
-c. Pour les livraisons à soi-même :
+b ter) Pour les opérations visées au e du 1° de l'article 261 C qui ont fait
+l'objet de l'option prévue à l'article 260 B, par le montant des profits et
+autres rémunérations ;
+
+c. Pour les livraisons à soi-même et les acquisitions intracommunautaires
+mentionnées au 2° du II de l'article 256 bis (2) :
 
 Lorsqu'elles portent sur des biens, par le prix d'achat de ces biens ou de biens
 similaires ou, à défaut de prix d'achat, par le prix de revient, déterminés dans
 le lieu et au moment où la taxe devient exigible ;
 
-Lorsqu'il s'agit de services, par les dépenses engagées pour leur exécution :
+Lorsqu'il s'agit de services, par les dépenses engagées pour leur exécution ;
 
 d. Pour les achats, par le prix d'achat majoré, le cas échéant, des impôts à la
 charge de la marchandise ;
@@ -58,10 +54,10 @@ les achats imposables.
 
 g. Par la différence entre le prix de vente et le prix d'achat pour les ventes
 de biens acquis auprès d'un particulier ou d'un assujetti n'ayant pas eu droit à
-déduction lors de leur acquisition, importation ou livraison à soi-même, autres
-que celles portant sur les biens visés au 13° de l'article 257. Cette
-disposition n'est pas applicable aux biens dont l'importation est exonérée en
-application du 9° du II de l'article 291 (4);
+déduction lors de leur achat, importation, acquisition intracommunautaire, ou
+livraison à soi-même, autres que celles portant sur les biens visés au 13° de
+l'article 257. Cette disposition n'est pas applicable aux biens dont
+l'importation est exonérée en application du 9° du II de l'article 291 (2);
 
 h. Pour les opérations d'entremise effectuées par les concessionnaires
 d'ouvrages de circulation routière, par la différence entre le montant total des
@@ -75,7 +71,12 @@ cumulé des dépenses de financement et des charges d'exploitation, la taxe sur 
 valeur ajoutée est due sur la fraction des recettes de péage correspondant au
 rapport entre les charges d'exploitation et le total des dépenses.
 
-1 bis. (Abrogé).
+1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont
+exprimés dans une monnaie autre que le franc français, le taux de change à
+appliquer est celui du dernier taux déterminé par référence au cours constaté
+sur le marché des changes entre banques centrales et publié par la Banque de
+France, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 269
+(2).
 
 1 ter a. (abrogé).
 
@@ -126,7 +127,7 @@ devenir la propriété du bailleur en fin de bail.
 
 (1) Voir Annexe III, art. 76-1.
 
-(2) Voir, toutefois, art. 267 bis.
+(2) Dispositions en vigueur le 1er janvier 1993.
 
 (3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir
 même Annexe, art. 71.
