@@ -6,3 +6,6 @@ la composition et le fonctionnement sont fixés par décret.
 Peuvent être entendus par la commission les personnalités médicales ou
 pharmaceutiques, ainsi que les représentants qualifiés des organismes ou
 services dont la commission désire avoir l'avis.
+
+La commission établit chaque année un rapport d'activité qui est remis au
+Parlement.

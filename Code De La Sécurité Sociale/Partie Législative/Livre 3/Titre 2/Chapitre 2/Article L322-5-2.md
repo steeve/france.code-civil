@@ -23,4 +23,8 @@ convention ;
 et de ses annexes annuelles ;
 
 5° Sans préjudice des compétences du pouvoir réglementaire, les modalités de
-détermination des sommes dues aux entreprises.
+détermination des sommes dues aux entreprises ;
+
+6° Les conditions de rémunération des entreprises de transports sanitaires pour
+leur participation à la garde départementale organisée dans les conditions
+prévues au dernier alinéa de l'article L. 6312-5 du code de la santé publique.

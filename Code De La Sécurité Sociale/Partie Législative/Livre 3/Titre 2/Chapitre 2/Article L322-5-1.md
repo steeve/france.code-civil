@@ -6,4 +6,4 @@ par une entreprise de transports sanitaires conventionnée.
 
 La participation de l'assuré versée aux prestataires de transports sanitaires
 est calculée sur la base des tarifs mentionnés aux articles L. 162-14-2 ou L.
-162-15-2.
+162-5-9.

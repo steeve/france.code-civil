@@ -24,7 +24,7 @@ vieillesse liquidée postérieurement au 30 juin 1984 dans un des régimes énum
 au premier alinéa de l'article L. 634-6 du code de la sécurité sociale.
 
 Elles ne font pas obstacle à l'exercice des activités énumérées aux 1°, 2°, 3°,
-4° et 5° de l'article L. 161-22 du code de la sécurité sociale.
+4°, 5° et 7° de l'article L. 161-22 du code de la sécurité sociale.
 
 Sous réserve des dispositions de l'article L. 815-2 du code de la sécurité
 sociale, le schéma directeur départemental des structures agricoles, fixé après

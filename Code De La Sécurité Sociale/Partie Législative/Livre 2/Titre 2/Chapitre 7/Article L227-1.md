@@ -8,8 +8,8 @@ familiales et l'Agence centrale des organismes de sécurité sociale des
 conventions d'objectifs et de gestion comportant des engagements réciproques des
 signataires.
 
-Ces conventions déterminent, pour les branches visées aux 1°, 3° et 4° de
-l'article L. 200-2 et pour les organismes de recouvrement, les objectifs
+Ces conventions déterminent, pour les branches mentionnées aux 1°, 2°, 3° et 4°
+de l'article L. 200-2 et pour les organismes de recouvrement, les objectifs
 pluriannuels de gestion, les moyens de fonctionnement dont les branches et les
 organismes disposent pour les atteindre et les actions mises en oeuvre à ces
 fins par chacun des signataires.

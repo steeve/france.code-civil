@@ -9,7 +9,8 @@ cotisations ainsi que les avantages de retraite versés au titre des articles L.
 381-1 et L. 742-1 du présent code, à l'exclusion des bonifications ou
 majorations pour enfants autres que les annuités supplémentaires ;
 
-2°) les allocations et revenus de remplacement mentionnés à l'article L. 131-2.
+2°) les allocations et revenus de remplacement [*assurance chomâge*] mentionnés
+à l'article L. 131-2.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté ministériel pour
 certaines catégories de travailleurs salariés ou assimilés.
@@ -22,8 +23,8 @@ et revenus de remplacement mentionnés aux 1° et 2° du présent article.
 Les ressources des assurances maladie, maternité, invalidité et décès sont en
 outre constituées par :
 
-1° Une fraction égale à 8,84 % du droit de consommation prévu à l'article 575 du
-code général des impôts ;
+1° Une fraction égale à 15,20 % du droit de consommation prévu à l'article 575
+du code général des impôts ;
 
 2° Le remboursement par la Caisse nationale des allocations familiales des
 indemnités versées en application des articles L. 331-8 et L. 722-8-3.
