@@ -1,6 +1,6 @@
 Article R513-15
 ----
-Chaque employeur adresse, au plus tard le 31 juillet de l'année de l'élection
+Chaque employeur adresse, au plus tard le 10 septembre de l'année de l'élection
 générale [*date limite*], au maire de la commune où il exerce son activité
 professionnelle principale un état en vue de sa propre inscription. Il précise
 la section dont il relève.
