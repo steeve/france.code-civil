@@ -7,29 +7,27 @@ plusieurs personnes agissant ensemble, soit d'acquérir ou de perdre le pouvoir
 de contrôle effectif sur la gestion d'une entreprise, soit de passer au-dessus
 ou au-dessous des seuils de la moitié, du tiers, du cinquième ou du dixième des
 droits de vote, doit faire l'objet d'une déclaration de cette ou ces personnes
-auprès du ministre chargé de l'économie et des finances préalablement à sa
-réalisation.
+auprès du comité des entreprises d'assurance préalablement à sa réalisation.
 
 Cette déclaration est accompagnée d'un dossier dont la composition est fixée par
-arrêté dudit ministre. Dès réception du dossier complet, le ministre dispose
-d'un délai de trois mois pour s'opposer à l'opération, après avis de la
-commission des entreprises d'assurances mentionnée à l'article L. 411-4, par
+arrêté du ministre chargé de l'économie. Dès réception du dossier complet, le
+comité dispose d'un délai de trois mois pour s'opposer à l'opération, par
 décision motivée à la ou les personnes intéressées par lettre recommandée avec
 accusé de réception. L'opération peut être réalisée dès réception d'une
-autorisation du ministre dans le délai défini au présent alinéa ou, en cas de
-silence du ministre, à l'expiration de ce même délai.
+autorisation du comité dans le délai défini au présent alinéa ou, en cas de
+silence du comité, à l'expiration de ce même délai.
 
 En outre, toute transaction ayant pour résultat de permettre à une personne ou à
 plusieurs personnes agissant ensemble de prendre, d'acquérir ou de céder le
 vingtième des droits de vote doit être déclarée par cette ou ces personnes au
-ministre chargé de l'économie et des finances préalablement à sa réalisation.
+comité des entreprises d'assurance préalablement à sa réalisation.
 
 Les opérations mentionnées au premier alinéa du présent paragraphe sont
-seulement portées immédiatement à la connaissance du ministre chargé de
-l'économie et des finances lorsqu'elles sont conclues entre des personnes
-relevant du droit d'un ou plusieurs Etats membres de l'Espace économique
-européen et appartenant au groupe de celles qui détiennent déjà un pouvoir de
-contrôle effectif sur l'entreprise assujettie.
+seulement portées immédiatement à la connaissance du comité des entreprises
+d'assurance lorsqu'elles sont conclues entre des personnes relevant du droit
+d'un ou plusieurs Etats membres de l'Espace économique européen et appartenant
+au groupe de celles qui détiennent déjà un pouvoir de contrôle effectif sur
+l'entreprise assujettie.
 
 Lorsque, en vertu de dispositions législatives ou statutaires, le nombre ou la
 répartition des droits de vote est différent par rapport au nombre ou à la

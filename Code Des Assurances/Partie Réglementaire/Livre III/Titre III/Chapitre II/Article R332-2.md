@@ -46,17 +46,20 @@ autres que celles visées au 5° ;
 
 6° Actions, parts et droits émis par des sociétés commerciales et obligations,
 titres participatifs et titres subordonnés émis par les sociétés d'assurance
-mutuelles, ayant leur siège social sur le territoire de l'un des Etats membres
-de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis, 2° ter 3°, 4°, 5°,
-5° bis, 7° bis, 8° et 9° bis ;
+mutuelles, les mutuelles, unions et fédérations régies par le code de la
+mutualité et les institutions de prévoyance régies par le titre III du livre IX
+du code de la sécurité sociale ayant leur siège social sur le territoire de l'un
+des Etats membres de l'O.C.D.E., autres que les valeurs visées aux 2°, 2° bis,
+2° ter 3°, 4°, 5°, 5° bis, 7° bis, 8° et 9° bis ;
 
-7° Parts des fonds communs de placement à risques du chapitre IV de la loi n°
-88-1201 du 23 décembre 1988 et parts de fonds communs de placement dans
-l'innovation mentionnés au chapitre IV bis de la même loi ;
+7° Parts des fonds communs de placement à risques de l'article L. 214-36 du code
+monétaire et financier, parts des fonds communs de placement dans l'innovation
+de l'article L. 214-41 du même code et parts des fonds d'investissement de
+proximité de l'article L. 214-41-1 du même code ;
 
 7° bis Actions des sociétés d'investissement à capital variable et parts des
-fonds communs de placement bénéficiant d'une procédure allégée mentionnés aux
-chapitres IV ter et V ter de la loi n° 88-1201 du 23 décembre 1988 modifiée.
+fonds communs de placement des articles L. 214-35, L. 214-35-2, L. 214-37 et L.
+214-38 du code monétaire et financier ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement, autres que celles mentionnées aux 3°,7° et 7° bis , dans
