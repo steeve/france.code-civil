@@ -12,10 +12,9 @@ structure et notamment de la taille moyenne des logements, selon des modalités
 fixées par arrêté conjoint des ministres chargés de la construction et de
 l'habitation et des finances.
 
-L'assiette de la subvention de l'Etat ainsi définie est majorée le cas échéant
+L'assiette de la subvention de l'Etat ainsi définie est majorée, le cas échéant,
 en fonction de la qualité des logements et des sujétions rencontrées par
-l'opération, dans la limite totale de 30 p. 100 en construction neuve et 25 p.
-100 en acquisition-amélioration, et dans des conditions fixées par arrêté du
+l'opération, dans la limite de 30 % et dans des conditions fixées par arrêté du
 ministre chargé de la construction et de l'habitation.
 
 L'assiette de la subvention de l'Etat peut être majorée d'un coût forfaitaire
@@ -47,15 +46,19 @@ plus ;
 expérimental.
 
 3° Pour les opérations autres que celles prévues au 2°, le taux de subvention
-est au plus égal à 12 p. 100 de l'assiette définie au 1°. Il peut être porté :
+est au plus égal à 12 % de l'assiette définie au 1° et le montant de la
+subvention ne peut dépasser 15 % du prix de revient de l'opération.
 
-- au plus à 20 p. 100 de cette assiette pour des opérations d'habitat adapté aux
-besoins des populations rencontrant des difficultés particulières. A titre
-exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 p. 100 au plus
-;
+Le taux de la subvention peut être porté :
 
-- au plus à 15 p. 100 de cette assiette pour des opérations à caractère
-expérimental.
+- au plus à 20 % de cette assiette pour des opérations d'habitat adapté aux
+besoins des populations rencontrant des difficultés particulières avec un
+montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération.
+A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 % au
+plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient
+de l'opération ;
+
+- au plus à 15 % de cette assiette pour des opérations à caractère expérimental.
 
 4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention
 complémentaire.
