@@ -11,3 +11,6 @@ La caisse perçoit également une cotisation assise sur les revenus professionne
 tirés de la profession d'avocat de l'avant-dernière année retenus pour le calcul
 de l'impôt sur le revenu dans la limite d'un plafond fixé par décret ; le taux
 de cette cotisation est également fixé par décret.
+
+La caisse reçoit une contribution du fonds institué par l'article L. 135-1 dans
+les conditions fixées par l'article L. 135-2.

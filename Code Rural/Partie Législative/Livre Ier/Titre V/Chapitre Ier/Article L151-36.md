@@ -4,14 +4,13 @@ Les départements, les communes ainsi que les groupements de ces collectivités 
 les syndicats mixtes créés en application de l'article L. 166-1 du code des
 communes peuvent prescrire ou exécuter les travaux entrant dans les catégories
 ci-dessous définies, lorsqu'ils présentent, du point de vue agricole ou
-forestier ou du point de vue de l'aménagement des eaux, un caractère d'intérêt
-général ou d'urgence :
+forestier, un caractère d'intérêt général ou d'urgence :
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents,
 reboisement et aménagement des versants, défense contre les incendies et
 réalisation de travaux de desserte forestière ;
 
-2° Défense des rives et du fond des rivières non domaniales ;
+2° (alinéa abrogé) ;
 
 3° Curage, approfondissement, redressement et régularisation des canaux et cours
 d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
@@ -22,9 +21,7 @@ d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
 
 6° Irrigation, épandage, colmatage et limonage ;
 
-7° Aménagement soit du bassin d'un cours d'eau non domanial ou d'une partie de
-ce bassin, soit seulement d'un cours d'eau non domanial ou d'une section de
-celui-ci.
+7° (alinéa abrogé).
 
 Les personnes morales mentionnées au premier alinéa prennent en charge les
 travaux qu'elles ont prescrits ou exécutés. Elles peuvent toutefois, dans les

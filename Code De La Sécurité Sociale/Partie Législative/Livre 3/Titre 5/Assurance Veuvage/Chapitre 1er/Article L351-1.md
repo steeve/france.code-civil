@@ -4,16 +4,15 @@ L'assurance vieillesse garantit une pension de retraite à l'assuré qui en
 demande la liquidation à partir d'un âge déterminé.
 
 Le montant de la pension résulte de l'application au salaire annuel de base d'un
-taux croissant, jusqu'à un maximum dit " taux plein ", en fonction de la durée
+taux croissant, jusqu'à un maximum dit "taux plein", en fonction de la durée
 d'assurance, dans une limite déterminée, tant dans le régime général que dans un
 ou plusieurs autres régimes obligatoires, ainsi que de celle des périodes
 reconnues équivalentes, ou en fonction de l'âge auquel est demandée cette
 liquidation.
 
 Si l'assuré a accompli dans le régime général une durée d'assurance inférieure à
-la limite mentionnée au deuxième alinéa, la pension servie par ce régime est
-d'abord calculée sur la base de cette durée, puis réduite compte tenu de la
-durée réelle d'assurance.
+une limite déterminée, la pension servie par ce régime est d'abord calculée sur
+la base de cette durée, puis réduite compte tenu de la durée réelle d'assurance.
 
 Les modalités de calcul du salaire de base, des périodes d'assurance ou des
 périodes équivalentes susceptibles d'être prises en compte et les taux

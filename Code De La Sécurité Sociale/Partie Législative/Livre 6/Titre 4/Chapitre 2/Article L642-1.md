@@ -21,3 +21,7 @@ conseil d'administration de la Caisse nationale d'assurance vieillesse des
 professions libérales. Ces cotisations sont calculées de telle sorte qu'elles
 couvrent les charges de l'année courante et, le cas échéant, le déficit de
 l'année précédente.
+
+Le régime des allocations de vieillesse mentionnées à l'article L. 643-1 reçoit
+une contribution du fonds institué par l'article L. 135-1 dans les conditions
+fixées par l'article L. 135-2.
