@@ -28,8 +28,8 @@ d'organisation des marchés. Il est consulté sur les orientations données dans
 cadre de l'élaboration des contrats de plan Etat-régions ;
 
 c) A la cohérence des actions menées en matière de recherche, d'expérimentation
-et de développement agricole, en liaison avec l'Association nationale pour le
-développement agricole.
+et de développement agricole, en liaison avec l'Agence de développement agricole
+et rural.
 
 Indépendamment des attributions qui lui sont conférées par les dispositions
 législatives et réglementaires en vigueur, le conseil examine et peut rendre des

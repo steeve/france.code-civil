@@ -16,9 +16,11 @@ présent chapitre ;
 
 Les recettes de l'office sont constituées par :
 
-1° Une dotation globale versée dans les conditions prévues par l'article L.
-174-2 du code de la sécurité sociale et dont le montant est fixé chaque année
-par la loi de financement de la sécurité sociale ;
+1° Une dotation globale versée par les organismes d'assurance maladie dans des
+conditions fixées par décret. La répartition de cette dotation entre les
+différents régimes d'assurance maladie s'effectue dans les conditions prévues à
+l'article L. 174-2 du code de la sécurité sociale. Le montant de cette dotation
+est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 2° Le produit des remboursements des frais d'expertise prévus aux articles L.
 1142-14 et L. 1142-15 ;
@@ -26,4 +28,6 @@ par la loi de financement de la sécurité sociale ;
 3° Le produit des pénalités prévues aux mêmes articles ;
 
 4° Le produit des recours subrogatoires mentionnés aux articles L. 1142-15 et L.
-1142-17.
+1142-17 ;
+
+5° Une dotation versée par l'Etat en application de l'article L. 3111-9.

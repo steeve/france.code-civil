@@ -3,7 +3,11 @@ Article L861-1
 Les personnes résidant en France dans les conditions prévues par l'article L.
 380-1, dont les ressources sont inférieures à un plafond déterminé par décret,
 révisé chaque année pour tenir compte de l'évolution des prix, ont droit à une
-couverture complémentaire dans les conditions définies à l'article L. 861-3. Ce
+couverture complémentaire dans les conditions définies à l'article L. 861-3.
+Cette révision prend effet chaque année au 1er juillet. Elle tient compte de
+l'évolution prévisible des prix de l'année civile en cours, le cas échéant
+corrigée de la différence entre le taux d'évolution retenu pour fixer le plafond
+de l'année précédente et le taux d'évolution des prix de cette même année. Ce
 plafond varie selon la composition du foyer et le nombre de personnes à charge.
 
 Un décret en Conseil d'Etat précise les conditions d'âge, de domicile et de

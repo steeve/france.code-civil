@@ -7,6 +7,11 @@ des autres litiges entre usagers et professionnels de santé, établissements de
 santé, services de santé ou organismes ou producteurs de produits de santé
 mentionnés aux articles L. 1142-1 et L. 1142-2.
 
+Toutefois, un arrêté du ministre chargé de la santé et du ministre chargé de la
+sécurité sociale peut instituer une commission interrégionale de conciliation et
+d'indemnisation des accidents médicaux, des affections iatrogènes et des
+infections nosocomiales compétente pour deux ou plusieurs régions.
+
 La commission siège en formation de règlement amiable des accidents médicaux,
 des affections iatrogènes et des infections nosocomiales et en formation de
 conciliation.

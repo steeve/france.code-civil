@@ -1,11 +1,11 @@
 Article L142-3
 ----
 Le Conseil de la politique monétaire comprend, outre le gouverneur et les deux
-sous-gouverneurs de la Banque de France, six membres.
+sous-gouverneurs de la Banque de France, quatre membres.
 
-Ces six membres sont nommés par décret en Conseil des ministres pour une durée
-de neuf ans, sous réserve des dispositions des quatrième et cinquième alinéas du
-présent article.
+Ces quatre membres sont nommés par décret en Conseil des ministres pour une
+durée de six ans, sous réserve des dispositions des quatrième et cinquième
+alinéas du présent article.
 
 Ils sont choisis sur une liste, comprenant un nombre de noms triple de celui des
 membres à désigner, qui est établie d'un commun accord, ou à défaut à parts
@@ -17,7 +17,7 @@ au Gouvernement, les listes dressées pour le renouvellement des membres
 mentionnés au deuxième alinéa sont soumises pour avis au Conseil de la politique
 monétaire.
 
-Les membres mentionnés au deuxième alinéa sont renouvelés par tiers tous les
+Les membres mentionnés au deuxième alinéa sont renouvelés par moitié tous les
 trois ans. Il est pourvu au remplacement des membres du conseil au moins huit
 jours avant l'expiration de leurs fonctions. Si l'un de ces membres ne peut
 exercer son mandat jusqu'à son terme, il est pourvu immédiatement à son

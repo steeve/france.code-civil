@@ -21,7 +21,10 @@ dans des rôles généraux ainsi que de la compensation prévue au D de l'articl
 modifié de la loi de finances pour 1999, n° 98-1266 du 30 décembre 1998, versée
 au titre de l'année précédente en contrepartie de la suppression de la part des
 salaires et rémunérations visés au b du 1° de l'article 1467 dans la base
-d'imposition à la taxe professionnelle.
+d'imposition à la taxe professionnelle, et de la compensation prévue au B de
+l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002)
+versée au titre de l'année précédente en contrepartie de la réduction de la
+fraction imposable des recettes visée au 2° de l'article 1467.
 
 IV. Le produit fiscal à recouvrer dans chacune des communes membres au profit
 d'un syndicat de communes est réparti entre les taxes foncières, la taxe
@@ -34,10 +37,16 @@ professionnelle sont majorées du montant, calculé à partir du seul taux
 communal, de la compensation prévue pour l'année d'imposition au D de l'article
 44 modifié de la loi de finances pour 1999 précitée en contrepartie de la
 suppression de la part des salaires et rémunérations visés au b du 1° de
-l'article 1467 dans la base d'imposition à la taxe professionnelle.
+l'article 1467 dans la base d'imposition à la taxe professionnelle et diminuées
+du prélèvement effectué en application du 1 du III de l'article 29 de la loi de
+finances pour 2003 (n° 2002-1575 du 30 décembre 2002), ainsi que de la
+compensation prévue pour l'année d'imposition au B de l'article 26 de la loi de
+finances pour 2003 précitée en contrepartie de la réduction de la fraction
+imposable des recettes visée au 2° de l'article 1467.
 
 Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part
-reversée par la commune au syndicat du montant de la compensation visée au
-premier alinéa.
+reversée par la commune au syndicat du montant des compensations mentionnées au
+premier alinéa et majoré du prélèvement effectué en application du 1 du III de
+l'article 29 de la loi de finances pour 2003 précitée.
 
 V. Les dispositions du présent article entreront en vigueur à compter de 1981.

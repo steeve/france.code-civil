@@ -3,19 +3,19 @@ Article L213-8
 Ainsi qu'il est dit à l'article 58 de la loi de finances pour 2000 (loi n°
 99-1172 du 30 décembre 1999) ci-après reproduit :
 
-" I. - L'intitulé du compte d'affectation spéciale n° 902-00 " Fonds national de
-développement des adductions d'eau ", créé par le décret n° 54-982 du 1er
-octobre 1954, devient " Fonds national de l'eau ".
+"I. - L'intitulé du compte d'affectation spéciale n° 902-00 "Fonds national de
+développement des adductions d'eau", créé par le décret n° 54-982 du 1er octobre
+1954, devient "Fonds national de l'eau".
 
 Ce compte comporte deux sections :
 
-La première section, dénommée " Fonds national de développement des adductions
-d'eau ", retrace les opérations relatives au financement des adductions d'eau
+La première section, dénommée "Fonds national de développement des adductions
+d'eau", retrace les opérations relatives au financement des adductions d'eau
 conformément aux dispositions des articles L. 2335-9 et suivants du code général
 des collectivités territoriales. Le ministre chargé de l'agriculture est
 l'ordonnateur principal de cette section.
 
-La deuxième section, dénommée " Fonds national de solidarité pour l'eau ",
+La deuxième section, dénommée "Fonds national de solidarité pour l'eau",
 concerne les actions de solidarité pour l'eau. Le ministre chargé de
 l'environnement est l'ordonnateur principal de cette section. Il est assisté par
 un comité consultatif dont la composition est fixé par décret.
@@ -24,8 +24,9 @@ La deuxième section retrace :
 
 En recettes :
 
-- le produit du prélèvement de solidarité pour l'eau versé par les agences de
-l'eau dont le montant est déterminé chaque année en loi de finances ;
+- dans la limite de soixante millions d'euros le produit du prélèvement de
+solidarité pour l'eau versé par les agences de l'eau dont le montant est
+déterminé chaque année en loi de finances ;
 
 - les recettes diverses ou accidentelles.
 
@@ -69,4 +70,4 @@ l'Etat étrangères à l'impôt, au domaine, aux amendes et autres condamnations
 pécuniaires.
 
 Le montant du prélèvement de solidarité pour l'eau est inscrit comme dépense
-obligatoire dans le budget primitif des agences de l'eau. "
+obligatoire dans le budget primitif des agences de l'eau."

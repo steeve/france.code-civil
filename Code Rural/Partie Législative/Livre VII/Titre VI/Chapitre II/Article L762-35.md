@@ -1,9 +1,10 @@
 Article L762-35
 ----
-Les dispositions de la section 2 du chapitre II du titre V sont applicables aux
-personnes non salariées de l'agriculture exerçant leur activité dans les
-départements d'outre-mer, sous réserve des adaptations nécessaires à leur mise
-en oeuvre, qui sont déterminées par décret en Conseil d'Etat.
+Les dispositions de la sous-section 3 de la section 3 du chapitre II du titre
+III du présent livre relatives à l'assurance vieillesse complémentaire
+obligatoire des personnes non salariées, à l'exclusion des modalités de
+l'assiette définies à l'article L. 732-59 et de celles de l'article L. 732-61,
+sont applicables aux chefs d'exploitation agricole des départements d'outre-mer
+dans les conditions et sous les réserves précisées à la présente section.
 
-Les contributions visées à l'article 1622 du code général des impôts sont
-perçues sur les contrats souscrits en application du présent article.
+Les prestations sont dues à compter du 1er avril 2003.

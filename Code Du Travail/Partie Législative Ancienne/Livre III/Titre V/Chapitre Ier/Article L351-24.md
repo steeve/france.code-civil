@@ -31,7 +31,7 @@ Les régions peuvent contribuer à la mise en place d'une ingénierie dans le ca
 de l'aide à la création d'entreprise prévue par le présent article. La décision
 d'attribution de cette aide emporte décision d'attribution des droits visés aux
 articles L. 161-1 et L. 161-1-1 du code de la sécurité sociale. A titre
-expérimental et jusqu'au 31 décembre 2002, cette décision peut être déléguée à
+expérimental et jusqu'au 31 décembre 2003, cette décision peut être déléguée à
 des organismes habilités par l'Etat dans des conditions fixées par décret en
 Conseil d'Etat.
 

@@ -76,14 +76,15 @@ coopération intercommunale dotés d'une fiscalité propre, prise dans les
 conditions prévues au I de l'article 1639 A bis, la base nette imposable des
 établissements existant au 1er janvier 1997 et de ceux ayant fait l'objet de
 l'une des opérations prévues au premier alinéa, effectuée avant le 31 décembre
-2001, fait l'objet d'un abattement à l'issue de la période d'exonération prévue
-au quatrième alinéa et au titre des trois années suivant l'expiration de
-celle-ci. Le montant de cet abattement est égal, la première année, à 60 % de la
-base exonérée de la dernière année d'application du dispositif prévu au
-quatrième alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année
-suivante. L'application de cet abattement ne peut conduire à réduire la base
-d'imposition de l'année considérée de plus de 60 % de son montant la première
-année, 40 % la deuxième année et 20 % la troisième.
+2001 ou de l'une des opérations prévues au deuxième alinéa du I quater dans les
+zones mentionnées au premier alinéa du I quater, fait l'objet d'un abattement à
+l'issue de la période d'exonération prévue au quatrième alinéa et au titre des
+trois années suivant l'expiration de celle-ci. Le montant de cet abattement est
+égal, la première année, à 60 % de la base exonérée de la dernière année
+d'application du dispositif prévu au quatrième alinéa. Il est ramené à 40 % la
+deuxième année et à 20 % l'année suivante. L'application de cet abattement ne
+peut conduire à réduire la base d'imposition de l'année considérée de plus de 60
+% de son montant la première année, 40 % la deuxième année et 20 % la troisième.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
@@ -100,15 +101,26 @@ salariés au plus au 1er janvier 1997 ou à la date de leur création, si elle e
 postérieure, bénéficient de l'exonération de taxe professionnelle à compter du
 1er janvier 1997 dans les conditions prévues au I ter, pour leurs établissements
 situés dans les zones franches urbaines définies au B du 3 de l'article 42
-modifié de la loi n° 95-115 du 4 février 1995.
+modifié de la loi n° 95-115 du 4 février 1995. Par exception aux dispositions
+prévues au cinquième alinéa du I ter, pour les entreprises de moins de cinq
+salariés, pendant la période de référence retenue pour la dernière année
+d'application du dispositif prévu au quatrième alinéa du I ter, le montant de
+l'abattement est égal, les cinq premières années, à 60 % de la base exonérée la
+dernière année d'application du dispositif prévu au quatrième alinéa du I ter.
+Il est ramené à 40 % les sixième et septième années et à 20 % les huitième et
+neuvième années. L'application de cet abattement ne peut conduire à réduire la
+base d'imposition de l'année considérée de plus de 60 % de son montant les cinq
+premières années, 40 % les sixième et septième années et 20 % les huitième et
+neuvième années (1).
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
-d'une création, d'une extension ou d'un changement d'exploitant entre cette date
-et le 31 décembre 2001, cette exonération est accordée dans la limite d'un
-montant de base nette imposable fixé à 3 millions de francs. Ce seuil est
-actualisé chaque année dans les conditions prévues au I. Dans cette limite, la
-base exonérée comprend, le cas échéant, les éléments d'imposition correspondant
-aux extensions d'établissement intervenues en 1996.
+d'une création entre cette date et le 1er janvier 2008, d'une extension ou d'un
+changement d'exploitant entre cette date et le 31 décembre 2001, cette
+exonération est accordée dans la limite d'un montant de base nette imposable
+fixé à 3 millions de francs. Ce seuil est actualisé chaque année dans les
+conditions prévues au I. Dans cette limite, la base exonérée comprend, le cas
+échéant, les éléments d'imposition correspondant aux extensions d'établissement
+intervenues en 1996.
 
 La limite de base nette imposable visée au deuxième alinéa est fixée à 336 150
 euros au titre de 2002 (344 420 euros après actualisation) et, sous réserve de

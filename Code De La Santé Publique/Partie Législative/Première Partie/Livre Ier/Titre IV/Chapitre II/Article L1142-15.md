@@ -13,9 +13,12 @@ L'acceptation de l'offre de l'office vaut transaction au sens de l'article 2044
 du code civil. La transaction est portée à la connaissance du responsable et, le
 cas échéant, de son assureur.
 
-L'office est subrogé, à concurrence des sommes versées, dans les droits de la
-victime contre la personne responsable du dommage ou, le cas échéant, son
-assureur. Il peut en outre obtenir remboursement des frais d'expertise.
+Sauf dans le cas où le délai de validité de la couverture d'assurance garantie
+par les dispositions du cinquième alinéa de l'article L. 251-2 du code des
+assurances est expiré, l'office est subrogé, à concurrence des sommes versées,
+dans les droits de la victime contre la personne responsable du dommage ou, le
+cas échéant, son assureur. Il peut en outre obtenir remboursement des frais
+d'expertise.
 
 En cas de silence ou de refus explicite de la part de l'assureur de faire une
 offre, ou lorsque le responsable des dommages n'est pas assuré, le juge, saisi

@@ -42,10 +42,13 @@ versement au plan d'épargne d'entreprise ;
 
 3° a) L'indemnité parlementaire et l'indemnité de fonction prévues aux articles
 1er et 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique
-relative à l'indemnité des membres du Parlement ainsi que les indemnités
-particulières que les assemblées parlementaires versent à certains de leurs
-membres exerçant des fonctions particulières et désignés par leur assemblée ou
-par son bureau ;
+relative à l'indemnité des membres du Parlement, l'indemnité représentative de
+frais de mandat, au plus égale au montant brut cumulé des deux précédentes et
+versée à titre d'allocation spéciale pour frais par les assemblées à tous leurs
+membres, ainsi que, la plus élevée d'entre elles ne pouvant être supérieure de
+plus de la moitié à ce montant, les indemnités de fonction complémentaires
+versées, au même titre, en vertu d'une décision prise par le Bureau desdites
+assemblées, à certains de leurs membres exerçant des fonctions particulières ;
 
 b) Les indemnités versées aux représentants français au Parlement européen dans
 les conditions prévues à l'article 1er de la loi n° 79-563 du 6 juillet 1979

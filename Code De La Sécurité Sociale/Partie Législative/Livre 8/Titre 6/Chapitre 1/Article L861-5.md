@@ -19,11 +19,11 @@ devant la commission départementale d'aide sociale. En l'absence de notificatio
 de la décision au demandeur, la demande est considérée comme acceptée.
 
 Lorsque la situation du demandeur l'exige, le bénéfice de la protection
-complémentaire en matière de santé est attribué, dès le dépôt de la demande, aux
-personnes présumées remplir les conditions prévues aux articles L. 380-1 et L.
-861-1. Le bénéfice de cette protection est interrompu si la vérification de la
-situation du bénéficiaire démontre qu'il ne remplit pas les conditions
-susmentionnées.
+complémentaire en matière de santé est attribué au premier jour du mois de dépôt
+de la demande, aux personnes présumées remplir les conditions prévues aux
+articles L. 380-1 et L. 861-1. Le bénéfice de cette protection est interrompu si
+la vérification de la situation du bénéficiaire démontre qu'il ne remplit pas
+les conditions susmentionnées.
 
 Les droits reconnus conformément aux articles L. 861-1 à L. 861-4 sont attribués
 pour une période d'un an renouvelable.
