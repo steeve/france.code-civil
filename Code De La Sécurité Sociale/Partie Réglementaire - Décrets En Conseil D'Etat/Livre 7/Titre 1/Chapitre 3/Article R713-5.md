@@ -1,7 +1,7 @@
 Article R713-5
 ----
 Le conseil d'administration règle par ses délibérations les affaires de la
-caisse.
+caisse. Il autorise les transactions.
 
 Sous réserve de l'application des dispositions prévues par les décrets n°
 53-1227 du 10 décembre 1953 et n° 62-1587 du 29 décembre 1962, les délibérations
