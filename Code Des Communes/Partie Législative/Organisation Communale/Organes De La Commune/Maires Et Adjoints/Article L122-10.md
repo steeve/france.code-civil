@@ -1,7 +1,7 @@
 Article L122-10
 ----
 Les démissions des maires et des adjoints sont adressées au représentant de
-l'Etat dans le département ; elles sont définitives à partir de leur acceptation
+l'Etat dans le département, elles sont définitives à partir de leur acceptation
 par le représentant de l'Etat dans le département [*commissaire de la
 République*], ou, à défaut de cette acceptation, un mois après un nouvel envoi
 de la démission [*délai*] constatée par lettre recommandée [*conditions de
@@ -15,3 +15,6 @@ délégation spéciale*] jusqu'à l'installation de leurs successeurs.
 Toutefois, en cas de renouvellement intégral, les fonctions de maire et
 d'adjoint sont, à partir de l'installation du nouveau conseil jusqu'à l'élection
 du maire, exercées parmi les conseillers municipaux dans l'ordre du tableau.
+
+La procédure prévue au présent article s'applique également lorsque le maire ou
+l'adjoint se démettent simultanément du mandat de conseiller municipal.
