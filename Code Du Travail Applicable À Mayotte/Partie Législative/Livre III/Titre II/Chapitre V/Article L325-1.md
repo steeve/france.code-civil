@@ -12,9 +12,9 @@ armées ayant accompli leur temps de service comme stagiaire dans une unité du
 service militaire adapté sont réputés avoir satisfait aux conditions
 d'inscription prévues au même alinéa.
 
-Le montant de cette aide forfaitaire est fixé par décret. Elle est réputée
-accordée si un refus explicite n'intervient pas dans le mois qui suit la
-demande.
+Le montant de cette aide modulable dans la limite d'un plafond est fixé par
+décret. Elle est réputée accordée si un refus explicite n'intervient pas dans le
+mois qui suit la demande.
 
 L'Etat peut participer par convention au financement des actions de conseil ou
 de formation à la gestion d'entreprise qui sont organisées avant la création ou
