@@ -1,23 +1,22 @@
 Article L4133-1
 ----
-L'entretien et le perfectionnement de ses connaissances constituent pour chaque
-médecin un devoir professionnel.
+La formation médicale continue a pour objectif l'entretien et le
+perfectionnement des connaissances, y compris dans le domaine des droits de la
+personne ainsi que l'amélioration de la prise en charge des priorités de santé
+publique.
 
-Tout médecin, qu'il exerce à titre libéral ou dans un établissement de santé
-public ou privé participant au service public hospitalier, doit justifier du
-respect de cette obligation soit auprès du conseil régional de la formation
-médicale continue mentionné à l'article L. 4133-4, soit auprès de la commission
-médicale d'établissement mentionnée à l'article L. 6144-1 ou à l'article L.
-6161-8.
+Elle constitue une obligation pour tout médecin tenu pour exercer sa pratique de
+s'inscrire à l'ordre des médecins en vertu des dispositions du 3° de l'article
+L. 4111-1.
 
-Ces organismes délivrent tous les cinq ans à chaque médecin, après examen de son
-dossier, une attestation dont ils transmettent un exemplaire au conseil
-départemental de l'ordre des médecins et, s'agissant des médecins exerçant à
-titre libéral, un exemplaire au service du contrôle médical de la caisse
-primaire d'assurance maladie du lieu d'exercice. Cette attestation peut, le cas
-échéant, être assortie d'observations et de recommandations.
+L'obligation de formation peut être satisfaite, au choix du médecin, soit en
+participant à des actions de formation agréées, soit en se soumettant à une
+procédure adaptée d'évaluation des connaissances réalisée par un organisme
+agréé, soit en présentant oralement au conseil régional un dossier répondant à
+l'obligation mentionnée au présent article. Le respect de l'obligation fait
+l'objet d'une validation. La méconnaissance de cette obligation est de nature à
+entraîner des sanctions disciplinaires.
 
-La méconnaissance de cette obligation est de nature à entraîner des sanctions
-disciplinaires. Le conseil régional de la formation médicale continue et la
-commission médicale d'établissement saisissent à cet effet le conseil régional
-de l'ordre des médecins.
+Peut obtenir un agrément toute personne morale de droit public ou privé, à
+caractère lucratif ou non, dès lors qu'elle répond aux critères fixés par les
+conseils nationaux mentionnés à l'article L. 4133-2.

@@ -31,7 +31,7 @@ pharmaceutiques ;
 7° Les conventions passées en application de l'article L. 6142-5 et des textes
 pris pour son application et de l'article L. 6161-10 ;
 
-8° La constitution d'un réseau de soins mentionné à l'article L. 6121-5, d'une
+8° La constitution d'un réseau de santé mentionné à l'article L. 6321-1, d'une
 communauté d'établissements de santé mentionnée à l'article L. 6121-6, les
 actions de coopération mentionnées aux chapitres II à V du titre III du présent
 livre en ce qu'elles concernent la création d'un syndicat interhospitalier, d'un

@@ -21,4 +21,6 @@ de formation ou d'information ;
 
 6° Etablit, chaque année, un rapport qui comporte, d'une part, la synthèse des
 données de veille sanitaire, d'autre part, l'ensemble des propositions et des
-recommandations faites aux pouvoirs publics dans le cadre de ses missions.
+recommandations faites aux pouvoirs publics dans le cadre de ses missions ;
+
+7° Organise des auditions publiques sur des thèmes de santé publique.

@@ -5,7 +5,8 @@ publique, les inspecteurs des affaires sanitaires et sociales, les ingénieurs d
 génie sanitaire, les ingénieurs d'études sanitaires et les techniciens
 sanitaires contrôlent, dans le cadre de leurs compétences respectives,
 l'application des règles générales d'hygiène et des lois et règlements relatifs
-à la protection des personnes en matière de recherche biomédicale et de médecine
+aux droits des personnes malades et des usagers du système de santé, à la
+protection des personnes en matière de recherche biomédicale et de médecine
 génétique, au don et à l'utilisation des éléments et produits du corps humain, à
 la prévention des risques sanitaires des milieux, aux eaux destinées à la
 consommation humaine, à la prévention des risques liés à certaines activités

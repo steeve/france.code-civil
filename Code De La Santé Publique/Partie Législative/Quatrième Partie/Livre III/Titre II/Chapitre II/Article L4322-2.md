@@ -1,7 +1,13 @@
 Article L4322-2
 ----
-Peuvent exercer la profession de pédicure-podologue et porter le titre de
-pédicure-podologue, accompagné ou non d'un qualificatif, les personnes
-titulaires d'un diplôme, certificat ou titre mentionné aux articles L. 4322-3 et
-L. 4322-4, ou titulaires des autorisations prévues aux articles L. 4322-5 et L.
-4322-6 et inscrites au tableau de l'ordre des pédicures-podologues.
+Les pédicures-podologues ne peuvent exercer leur profession, à l'exception de
+ceux qui relèvent du service de santé des armées, que s'ils sont inscrits sur
+une liste dressée par le représentant de l'Etat dans le département de leur
+résidence professionnelle, qui enregistre leurs diplômes, certificats, titres ou
+autorisations. L'inscription mentionne la ou les catégories dans lesquelles le
+pédicure-podologue exerce, à titre libéral, ou en tant que salarié du secteur
+public ou du secteur privé.
+
+Les dispositions des trois derniers alinéas de l'article L. 4311-15 et celles
+des articles L. 4311-16 à L. 4311-21, L. 4311-26 et L. 4311-27 leur sont
+applicables.

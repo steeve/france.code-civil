@@ -8,8 +8,8 @@ judiciaire dans le ressort de son tribunal.
 
 Le procureur de la République contrôle les mesures de garde à vue. Il visite les
 locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois
-par trimestre ; il tient à cet effet un registre répertoriant le nombre et la
-fréquence des contrôles effectués dans ces différents locaux.
+par an ; il tient à cet effet un registre répertoriant le nombre et la fréquence
+des contrôles effectués dans ces différents locaux.
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de
 police judiciaire prévus par la section II du chapitre Ier du titre Ier du

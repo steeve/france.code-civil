@@ -1,14 +1,16 @@
 Article L5126-1
 ----
 Les établissements de santé et les établissements médico-sociaux dans lesquels
-sont traités des malades, les syndicats interhospitaliers ainsi que les
-organismes, établissements et services mentionnés aux articles L. 5126-8, L.
-5126-9 et L. 5126-13 peuvent disposer d'une ou plusieurs pharmacies à usage
-intérieur dans les conditions prévues au présent chapitre.
+sont traités des malades, les syndicats interhospitaliers, les installations de
+chirurgie esthétique satisfaisant aux conditions prévues à l'article L. 6322-1
+ainsi que les organismes, établissements et services mentionnés aux articles L.
+5126-8, L. 5126-9 et L. 5126-13 peuvent disposer d'une ou plusieurs pharmacies à
+usage intérieur dans les conditions prévues au présent chapitre.
 
 L'activité des pharmacies à usage intérieur est limitée à l'usage particulier
 des malades dans les établissements de santé ou médico-sociaux où elles ont été
-constituées ou qui appartiennent au syndicat interhospitalier.
+constituées ou qui appartiennent au syndicat interhospitalier ou dans les
+installations de chirurgie esthétique.
 
 Toutefois, dans le cadre de recherches biomédicales réalisées sur des produits,
 substances ou médicaments, la pharmacie à usage intérieur d'un établissement de

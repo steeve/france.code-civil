@@ -31,4 +31,5 @@ modalités prévues à l'article L. 3211-12, de toute personne hospitalisée san
 son consentement ou retenue dans un établissement défini à l'article L. 3222-1.
 
 Les personnels des établissements de santé sont tenus de répondre à toutes
-demandes d'information formulées par la commission.
+demandes d'information formulées par la commission et de lui fournir toutes
+données médicales nécessaires à l'accomplissement de ses missions.

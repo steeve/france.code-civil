@@ -26,9 +26,10 @@ programmes de dépistage visant à réduire les risques de maladies aux
 conséquences mortelles évitables par des actions de sensibilisation collectives
 ou individuelles.
 
-Un décret fixe la liste des examens et tests de dépistage qui ne peuvent être
-réalisés que par des professionnels et des organismes ayant souscrit à la
-convention type mentionnée au troisième alinéa.
+Un décret fixe la liste des examens et tests de dépistage y compris lorsqu'ils
+sont effectués dans le cadre d'une démarche individuelle de recours aux soins,
+qui ne peuvent être réalisés que par des professionnels et des organismes ayant
+souscrit à la convention type mentionnée au troisième alinéa.
 
 L'Etat participe aux actions d'accompagnement, de suivi et d'évaluation de ces
 programmes.

@@ -3,11 +3,12 @@ Article L3213-1
 A Paris, le préfet de police et, dans les départements, les représentants de
 l'Etat prononcent par arrêté, au vu d'un certificat médical circonstancié,
 l'hospitalisation d'office dans un établissement mentionné à l'article L. 3222-1
-des personnes dont les troubles mentaux compromettent l'ordre public ou la
-sûreté des personnes. Le certificat médical circonstancié ne peut émaner d'un
-psychiatre exerçant dans l'établissement accueillant le malade. Les arrêtés
-préfectoraux sont motivés et énoncent avec précision les circonstances qui ont
-rendu l'hospitalisation nécessaire.
+des personnes dont les troubles mentaux nécessitent des soins et compromettent
+la sûreté des personnes ou portent atteinte, de façon grave, à l'ordre public.
+Le certificat médical circonstancié ne peut émaner d'un psychiatre exerçant dans
+l'établissement accueillant le malade. Les arrêtés préfectoraux sont motivés et
+énoncent avec précision les circonstances qui ont rendu l'hospitalisation
+nécessaire.
 
 Dans les vingt-quatre heures suivant l'admission, le directeur de
 l'établissement d'accueil transmet au représentant de l'Etat dans le département

@@ -12,6 +12,3 @@ Les peines encourues par les personnes morales sont :
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans
 l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
-
-Dans le cas prévu par le 4° de l'article 227-26, la peine mentionnée au 1° de
-l'article 131-39 est également encourue.

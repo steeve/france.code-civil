@@ -28,8 +28,8 @@ le rapport prévu à l'article L. 6143-3, sur le projet de budget, sur les compt
 de l'établissement, ainsi que sur tous les aspects techniques et financiers des
 activités médicales, odontologiques et pharmaceutiques ;
 
-6° Emet un avis sur la constitution d'un réseau de soins mentionné à l'article
-L. 6121-5, d'une communauté d'établissements de santé mentionnée à l'article L.
+6° Emet un avis sur la constitution d'un réseau de santé mentionné à l'article
+L. 6321-1, d'une communauté d'établissements de santé mentionnée à l'article L.
 6121-6, ainsi que sur les actions de coopération mentionnées aux chapitres II à
 V du titre III du présent livre, en ce qu'elles concernent la création d'un
 syndicat interhospitalier, d'un groupement de coopération sanitaire, d'un

@@ -16,3 +16,8 @@ l'article L. 5124-15 et à les dispenser aux malades qui y sont traités. Ils
 peuvent, en outre, à titre accessoire, être autorisés à exercer d'autres
 activités de santé, notamment des activités de soins et de laboratoire d'analyse
 de biologie médicale, conformément aux règles applicables à ces activités.
+
+Les activités de laboratoires d'analyses de biologie médicale mentionnées au
+précédent alinéa sont autorisées par l'autorité compétente de l'Etat dans le
+département ; cette autorisation vaut autorisation de dispenser des soins aux
+assurés sociaux au sens de l'article L. 162-21 du code de la sécurité sociale.
