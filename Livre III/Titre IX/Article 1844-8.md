@@ -1,7 +1,8 @@
 Article 1844-8
 ----
 La dissolution de la société entraîne sa liquidation, hormis les cas prévus à
-l'article 1844-4. Elle n'a d'effet à l'égard des tiers qu'après sa publication.
+l'article 1844-4 et au troisième alinéa de l'article 1844-5. Elle n'a d'effet à
+l'égard des tiers qu'après sa publication.
 
 Le liquidateur est nommé conformément aux dispositions des statuts. Dans le
 silence de ceux-ci, il est nommé par les associés ou, si les associés n'ont pu
