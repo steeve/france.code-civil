@@ -3,22 +3,31 @@ Article D714-21-1
 Les professeurs des universités-praticiens hospitaliers et les professeurs des
 universités-praticiens hospitaliers des centres de soins, d'enseignement et de
 recherche dentaires qui bénéficient d'une prolongation d'activité en application
-de la loi n° 86-1304 du 23 décembre 1986 peuvent exercer des fonctions
-hospitalières en qualité de consultants dans les conditions fixées par le
-présent décret.
+de la loi n° 86-1304 du 23 décembre 1986 peuvent demander à poursuivre des
+fonctions hospitalières en qualité de consultants dans les conditions fixées par
+le présent décret.
 
-Les fonctions hospitalières prévues aux deux derniers alinéas de l'article L.
-714-21 peuvent être exercées dans une structure de l'établissement.
+La mission des consultants s'inscrit dans un projet contractualisé qui doit
+correspondre à un apport d'expérience et de compétence auprès de l'établissement
+hospitalier ou d'un organisme d'intérêt général, dans des conditions compatibles
+avec l'accomplissement de leurs fonctions universitaires.
 
-En dehors de l'établissement et dans des conditions permettant l'accomplissement
-de leurs fonctions universitaires, elles peuvent consister en missions
-d'expertise ou de conseil relatifs à la santé publique soit dans les services
-déconcentrés de la circonscription régionale où est situé l'établissement dont
-ils relèvent, soit dans les services centraux de l'Etat, soit auprès de l'Agence
-nationale d'accréditation et d'évaluation en santé, à l'exception des missions
-comportant un lien direct ou indirect avec leur établissement d'origine, soit
-auprès des agences régionales de l'hospitalisation, à l'exception de celle dont
-relève leur établissement d'origine.
+Au sein de l'établissement, les fonctions des consultants peuvent consister en
+une mission transversale, ou non, effectuée dans leur dernière structure de
+rattachement, soit dans une autre.
+
+A l'extérieur de l'établissement, ces fonctions peuvent consister notamment en
+des missions d'expertise ou de conseil relatives à la santé publique et être
+effectuées dans les services centraux de l'Etat ou dans les services
+déconcentrés ou dans tout établissement public ou organisme d'intérêt général
+ayant un lien avec leur domaine de compétence.
+
+Lorsqu'elles s'exercent auprès de l'Agence nationale d'accréditation et
+d'évaluation en santé, les missions des consultants ne peuvent comporter un lien
+direct ou indirect avec leur établissement d'affectation.
+
+Les consultants ne peuvent exercer de mission auprès de l'agence régionale de
+l'hospitalisation dont relève leur établissement d'affectation.
 
 Les consultants demeurent rattachés à leur établissement d'origine.
 
