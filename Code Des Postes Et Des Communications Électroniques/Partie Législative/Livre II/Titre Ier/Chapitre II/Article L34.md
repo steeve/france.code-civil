@@ -17,7 +17,7 @@ d'interdire que les informations nominatives la concernant soient utilisées dan
 des opérations commerciales, ainsi que de pouvoir obtenir communication desdites
 informations nominatives et exiger qu'elles soient rectifiées, complétées,
 clarifiées, mises à jour ou effacées, dans les conditions prévues aux articles
-35 et 36 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés.
 
 Le consentement préalable des abonnés à un opérateur de téléphonie mobile est

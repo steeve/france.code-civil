@@ -11,6 +11,6 @@ l'Etat pour obtenir les informations administratives nécessaires à cette
 vérification.
 
 Lorsque ces informations sont conservées sur support informatique, elles peuvent
-faire l'objet d'une transmission autorisée dans les conditions prévues à
-l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés.
+faire l'objet d'une transmission selon les modalités prévues au chapitre IV de
+la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés.

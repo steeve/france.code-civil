@@ -1,5 +1,5 @@
 Article 226-23
 ----
-Les dispositions des articles 226-17 à 226-19 sont applicables aux fichiers non
-automatisés ou mécanographiques dont l'usage ne relève pas exclusivement de
-l'exercice du droit à la vie privée.
+Les dispositions de l'article 226-19 sont applicables aux traitements non
+automatisés de données à caractère personnel dont la mise en oeuvre ne se limite
+pas à l'exercice d'activités exclusivement personnelles.
