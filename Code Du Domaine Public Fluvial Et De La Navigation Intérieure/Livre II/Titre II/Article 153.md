@@ -3,12 +3,7 @@ Article 153
 Les procès-verbaux dressés en exécution de l'article précédent sont dispensés
 d'enregistrement et de timbre.
 
-Ceux qui ont été dressés par des agents de surveillance et gardes assermentés
-doivent, à peine de nullité, être affirmés dans les trois jours devant le juge
-du tribunal d'instance ou le maire, soit du lieu du délit, soit de la résidence
-de l'agent.
-
-Lesdits procès-verbaux font foi jusqu'à preuve contraire.
+Ils font foi jusqu'à preuve contraire.
 
 Les procès-verbaux qui ont été dressés dans les ports étrangers par les hommes
 de l'art désignés en l'article 152 ci-dessus, sont enregistrés à la chancellerie
