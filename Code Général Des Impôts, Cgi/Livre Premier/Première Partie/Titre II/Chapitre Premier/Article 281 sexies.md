@@ -1,6 +1,6 @@
 Article 281 sexies
 ----
-Jusqu'au 31 décembre 1992, la taxe sur la valeur ajoutée est perçue au taux de
+Jusqu'au 31 décembre 1996, la taxe sur la valeur ajoutée est perçue au taux de
 2,10 % en ce qui concerne les ventes d'animaux vivants de boucherie et de
 charcuterie faites à des personnes non assujetties à cette taxe (1).
 

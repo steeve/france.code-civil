@@ -1,9 +1,9 @@
 Article 238 septies B
 ----
 I Quand la prime de remboursement prévue à l'émission ou lors de l'acquisition
-originelle du droit excède 10 p. 100 du nominal ou du prix d'acquisition de ce
-droit, ou encore quand le contrat d'émission d'un emprunt obligataire prévoit
-une capitalisation partielle ou totale des intérêts, la prime ou l'intérêt sont
+originelle du droit excède 10 % du nominal ou du prix d'acquisition de ce droit,
+ou encore quand le contrat d'émission d'un emprunt obligataire prévoit une
+capitalisation partielle ou totale des intérêts, la prime ou l'intérêt sont
 imposés après une répartition par annuités.
 
 Chaque annuité est imposée au nom du détenteur du titre ou du droit à la date
@@ -18,24 +18,24 @@ le cas échéant de la fraction non encore imposée de la prime.
 Ces règles ne s'appliquent pas aux titres émis par l'Etat dont le porteur à la
 possibilité d'obtenir la conversion dans les trois ans suivant l'émission.
 
-II (Abrogé pour les exercices clos à compter du 29 septembre 1989. Ancienne
-rédaction : Les primes de remboursement ou intérêts mentionnés au I, afférents
-aux titres et droits détenus par les sociétés d'investissement à capital
-variable (SICAV) et fonds communs de placement, sont, pour le calcul de l'impôt,
-réputés distribués, chaque année entre les actionnaires ou porteurs de parts
-pour un montant défini selon les modalités prévues à ce I).
+II Les primes de remboursement ou intérêts mentionnés au I, afférents aux titres
+et droits détenus par les sociétés d'investissement à capital variable (SICAV)
+et fonds communs de placement, sont, pour le calcul de l'impôt, réputés
+distribués, chaque année entre les actionnaires ou porteurs de parts pour un
+montant défini selon les modalités prévues à ce I. (Abrogé pour les exercices
+clos à compter du 29 septembre 1989.)
 
 III Les dispositions des I et II ne s'appliquent qu'aux titres émis à compter du
-1er juin 1985 [*date*].
+1er juin 1985.
 
 IV 1. Pour les emprunts ou titres ainsi que pour les opérations de démembrement
 visés au II de l'article 238 septies A, la prime de remboursement et les
 intérêts versés chaque année sont imposés après une répartition par annuités
-quand la prime excède 10 p. 100 du prix d'acquisition.
+quand la prime excède 10 % du prix d'acquisition.
 
 Cependant, la répartition par annuités n'est pas applicable aux emprunts ou
 titres visés au 1 du II de l'article 238 septies A dont le prix moyen à
-l'émission est supérieur à 90 p. 100 de la valeur de remboursement.
+l'émission est supérieur à 90 % de la valeur de remboursement.
 
 2. L'annuité est calculée en appliquant au prix d'acquisition le taux d'intérêt
 actuariel déterminé à la date de l'acquisition. Toutefois, lors du remboursement
@@ -63,8 +63,12 @@ prévue pour le remboursement.
 6. Le prélèvement prévu à l'article 125 A est opéré à la date prévue au 5
 ci-dessus. Ce prélèvement est pratiqué par la personne chez laquelle le titre ou
 le droit est déposé ou inscrit en compte, ou, dans les autres cas, par le
-débiteur sur le compte approvisionné par le contribuable à cet effet (1).
+débiteur sur le compte approvisionné par le contribuable à cet effet.
 
-(1) Ces dispositions sont applicables à un emprunt qui fait l'objet d'émissions
-successives et d'une cotation en bourse unique si une partie de cet emprunt a
-été émise après le 1er janvier 1992.
+7. Les dispositions du présent article cessent de s'appliquer aux titres ou
+droits émis à compter du 1er janvier 1993 et détenus par les contribuables
+autres que ceux mentionnés au V de l'article 238 septies E.
+
+V A compter du 3 juin 1992, la répartition par annuités prévue aux I et IV cesse
+de s'appliquer aux titres détenus par les personnes physiques et non inscrits à
+un actif professionnel.

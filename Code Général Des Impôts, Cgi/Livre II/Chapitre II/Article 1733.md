@@ -28,8 +28,8 @@ b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestio
 c) Les achats nets de valeurs mobilières ouvrant droit à la réduction d'impôt
 prévue à l'article 199 quinquies ;
 
-d) Les dépenses de recherche et de formation professionnelle ouvrant droit aux
-crédits d'impôts prévus aux articles 244 quater B et 244 quater C ;
+d) Les dépenses de recherche et de formation ouvrant droit aux crédits d'impôts
+prévus aux articles 244 quater B et 244 quater C ;
 
 e) Les dépôts dans les fonds salariaux ouvrant droit à la réduction d'impôt
 prévue à l'article 199 octies ;

@@ -16,7 +16,7 @@ L'impôt acquitté localement par la société étrangère est imputable dans la
 proportion mentionnée au premier alinéa sur l'impôt établi en France à condition
 d'être comparable à l'impôt sur les sociétés.
 
-I bis. - 1. Lorsqu'une personne morale passible de l'impôt sur les sociétés
+I bis 1. Lorsqu'une personne morale passible de l'impôt sur les sociétés
 exploite une entreprise hors de France ou détient directement ou indirectement
 10 p. 100 au moins des actions, parts, droits financiers ou droits de vote dans
 une société ou un groupement, établi hors de France, ou détient dans une telle
@@ -87,11 +87,11 @@ commerciale effective ;
 - et qu'elle réalise ses opérations de façon prépondérante sur le marché local
 (1).
 
-II. Les dispositions du I bis ne s'appliquent pas si la personne morale établit
-que les opérations de l'entreprise, de la société ou du groupement, établi hors
-de France n'ont pas principalement pour effet de permettre la localisation de
-bénéfices dans un Etat ou territoire où il est soumis à un régime fiscal
-privilégié. Cette condition est réputée remplie notamment :
+II bis. Les dispositions du I bis ne s'appliquent pas si la personne morale
+établit que les opérations de l'entreprise, de la société ou du groupement,
+établi hors de France n'ont pas principalement pour effet de permettre la
+localisation de bénéfices dans un Etat ou territoire où elle est soumise à un
+régime fiscal privilégié. Cette condition est réputée remplie notamment :
 
 - lorsque l'entreprise, la société ou le groupement établi hors de France a
 principalement une activité industrielle ou commerciale effective ;
@@ -103,6 +103,37 @@ III. Un décret en Conseil d'Etat fixe les conditions d'application des
 dispositions qui précèdent et notamment les modalités permettant d'éviter la
 double imposition des bénéfices effectivement répartis ainsi que les obligations
 déclaratives de l'entreprise ou de la personne morale (2).
+
+IV. 1. Les dispositions du I bis s'appliquent à raison :
+
+a) des créations ou acquisitions d'entreprises mentionnées au 1 du I bis
+intervenues à compter du 30 septembre 1992 ;
+
+b) des acquisitions ou souscriptions d'actions, parts, droits financiers ou
+droits de vote mentionnés au I bis intervenues à compter de cette même date,
+ayant pour effet de conférer à la personne morale la détention de 10 p. 100
+visée au même 1 du I bis ou, si ce taux est déjà atteint, de le maintenir ou de
+l'augmenter ;
+
+c) des acquisitions ou souscriptions de participations, faites à compter de
+cette même date, permettant d'atteindre le seuil de 150 millions de francs visé
+au 1 du I bis ou d'augmenter le montant de la participation si ce seuil est déjà
+atteint.
+
+2. Les dispositions du I cessent de s'appliquer à raison des sociétés qui y sont
+mentionnées, créées ou acquises à compter du 30 septembre 1992.
+
+3. Les dispositions du I sont abrogées et remplacées par celles du I bis pour la
+détermination des résultats imposables des exercices de l'entreprise mentionnée
+audit I, ouverts à compter du 1er janvier 2003. Toutefois, les dispositions
+dudit I bis, en ce qu'elles sont relatives à l'appréciation de la détention
+directe et indirecte et du régime fiscal privilégié ainsi qu'à la détermination
+des résultats bénéficiaires de la société étrangère, s'appliquent pour la
+détermination des résultats imposables des exercices de l'entreprise mentionnée
+au I clos à compter du 31 décembre 1992.
+
+4. Les dispositions du II bis s'appliquent, à compter du 30 septembre 1992, aux
+personnes morales passibles de l'impôt sur les sociétés mentionnées au I bis.
 
 (1) Cette disposition s'applique pour les exercices ouverts à compter du 1er
 janvier 1991.

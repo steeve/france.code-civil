@@ -4,10 +4,7 @@ Le résultat consolidé défini à l'article 116 de l'annexe II au code généra
 impôts est rectifié, dans la proportion mentionnée au c et au d du 1 de ce même
 article, à raison des opérations mentionnées à l'article 23 bis A.
 
-1. Il est diminué de la quote-part de frais et charges visée au I de l'article
-216 du code général des impôts qui est comprise dans les résultats d'une société
-retenus pour la détermination du résultat consolidé à raison de sa participation
-dans une société qui répond à la même condition.
+1. (Sans objet, édition du 18 août 1993).
 
 2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la
 détermination du résultat consolidé ou compris dans le résultat d'ensemble d'un
@@ -17,16 +14,16 @@ le résultat consolidé est majoré :
 
 1° Du montant des dotations complémentaires aux provisions constituées :
 
-a) Par une société en vue de faire face à la dépréciation des créances qu'elle
+a. Par une société en vue de faire face à la dépréciation des créances qu'elle
 détient sur une autre société ou aux risques qu'elle encourt du fait d'une telle
 société ;
 
-b) A raison des participations détenues dans une autre société dans la
+b. A raison des participations détenues dans une autre société dans la
 proportion existant entre le taux réduit d'imposition prévu au premier alinéa du
 a du I de l'article 219 du code général des impôts et le taux normal prévu au
 deuxième alinéa du I du même article ;
 
-c) En application des dispositions des articles 39 octies A, 39 octies B ou 39
+c. En application des dispositions des articles 39 octies A, 39 octies B ou 39
 octies D du code général des impôts, par une société française à raison des
 investissements réalisés à l'étranger. Si le résultat de l'exploitation
 étrangère qui a fait l'objet de l'investissement n'est pas retenu pour la

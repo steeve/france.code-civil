@@ -12,9 +12,7 @@ du 6 août 1945;
 calcul des amortissements;
 
 3° La valeur locative des biens faisant l'objet d'un contrat de crédit-bail
-mobilier est déterminée d'après leur prix de revient stipulé dans l'acte; cette
-valeur n'est pas modifiée lorsque, à l'expiration du contrat, les biens sont
-acquis par le locataire;
+mobilier est déterminée d'après leur prix de revient stipulé dans l'acte.
 
 4° Les limites de 400.000 F et d'un million de francs s'apprécient pour
 l'ensemble de l'entreprise.

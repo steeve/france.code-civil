@@ -6,15 +6,19 @@ territoriales et leurs groupements dotés d'une fiscalité propre, il est accord
 le dégrèvement de la taxe foncière sur les propriétés non bâties afférente aux
 parcelles exploitées par les jeunes agriculteurs installés à compter du 1er
 janvier 1992 et qui bénéficient de la dotation d'installation prévue par les
-décrets n° 81-246 du 17 mars 1981 et n° 88-176 du 23 février 1988.
+décrets n° 81-246 du 17 mars 1981 et n° 88-176 du 23 février 1988 modifié.
+
+Lorsque les jeunes agriculteurs sont associés ou deviennent associés d'une
+société civile au cours des cinq années suivant celle de leur installation, le
+dégrèvement s'applique aux parcelles qu'ils apportent à la société ou mettent à
+sa disposition.
 
 Ce dégrèvement est accordé pour une période ne pouvant excéde r cinq ans à
-compter de l'année suivant celle de l'installation de l'exploitant. Il n'est pas
-effectué de dégrèvement d'un montant inférieur à 50 F.
+compter de l'année suivant celle de l'installation de l'exploitant.
 
-Pour bénéficier de ce dégrèvement, l'exploitant doit souscrire avant le 31 mars
-de chaque année une déclaration, par commune et propriétaire, des parcelles
-exploitées au 1er janvier.
+Pour bénéficier de ce dégrèvement, l'exploitant doit souscrire avant le 31
+janvier de chaque année une déclaration, par commune et propriétaire, des
+parcelles exploitées au 1er janvier.
 
 Le montant du dégrèvement bénéficie au fermier dans les conditions prévues à
 l'article 1er de la loi n° 57-1260 du 12 décembre 1957.
