@@ -1,10 +1,11 @@
 Article R1142-13
 ----
 La demande en vue de l'indemnisation d'un dommage imputable à un acte de
-prévention, de diagnostic ou de soins est présentée à la commission régionale
-dans le ressort de laquelle a été effectué l'acte de prévention, de diagnostic
-ou de soins en cause. La demande est présentée au moyen d'un formulaire conforme
-au modèle approuvé par le conseil d'administration de l'office.
+prévention, de diagnostic ou de soins est présentée à la commission régionale ou
+interrégionale dans le ressort de laquelle a été effectué l'acte de prévention,
+de diagnostic ou de soins en cause. La demande est présentée au moyen d'un
+formulaire conforme au modèle approuvé par le conseil d'administration de
+l'office.
 
 La demande est envoyée à la commission par lettre recommandée avec accusé de
 réception ou déposée auprès du secrétariat de la commission contre récépissé.

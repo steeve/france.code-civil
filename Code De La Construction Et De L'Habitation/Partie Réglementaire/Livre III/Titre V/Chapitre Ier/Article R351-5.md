@@ -1,20 +1,24 @@
 Article R351-5
 ----
-I. - Les ressources servant à déterminer le loyer minimum qui doit rester à la
-charge du bénéficiaire et le coéfficient de prise en charge, tels que définis à
-l'article R. 351-19, sont celles percues pendant l'année civile précédant la
-période prévue par l'article R.351-4 par le bénéficiaire son conjoint et les
+I. - Les ressources prises en considération pour le calcul de l'aide
+personnalisée sont celles perçues par le bénéficiaire, son conjoint et les
 personnes vivant habituellement au foyer. Sont considérées comme vivant
-habituellement au foyer les personnes y ayant résidé plus de six mois [*durée*]
-au cours de ladite année civile et qui y résident encore au moment de la demande
-ou au début de la période de paiement.
+habituellement au foyer les personnes y ayant résidé plus de six mois au cours
+de l'année civile précédant la période de paiement prévue par l'article R. 351-4
+et qui y résident encore au moment de la demande ou au début de la période de
+paiement.
 
-II. - Sous réserve des dispositions des articles R. 351-6 à R. 351-7-2 et R.
-351-10 à R. 351-14-1, les ressources prises en considération s'entendent du
-total des revenus nets catégoriels retenus pour l'établissement de l'impôt sur
-le revenu d'après le barème, des revenus taxés à un taux proportionnel ou soumis
-à un prélèvement libératoire de l'impôt sur le revenu, ainsi que des revenus
-perçus hors de France ou versés par une organisation internationale.
+Sont retenues les ressources perçues pendant ladite année civile, appréciées
+selon les dispositions ci-dessous et après application le cas échéant des
+dispositions des articles R. 351-6, R. 351-7-1, R. 351-7-2 et R. 351-10 à R.
+351-14-1, sauf dans les cas prévus à l'article R. 351-7 où sont retenues les
+ressources évaluées forfaitairement conformément aux dispositions dudit article.
+
+II. - Les ressources prises en considération s'entendent du total des revenus
+nets catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après
+le barème, des revenus taxés à un taux proportionnel ou soumis à un prélèvement
+libératoire de l'impôt sur le revenu, ainsi que des revenus perçus hors de
+France ou versés par une organisation internationale.
 
 Est également prise en considération, suivant les règles applicables en matière
 d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de
@@ -22,21 +26,24 @@ l'article 83 et au quatrième alinéa du 5 (a) de l'article 158 du code généra
 des impôts, l'indemnité journalière mentionnée au 2° de l'article L. 431-1 du
 code de la sécurité sociale.
 
+Sont également prises en compte les majorations de retraite ou de pensions pour
+enfants exonérées de l'impôt sur le revenu en application du 2° ter de l'article
+81 du code général des impôts à l'exception de celles correspondant aux
+retraites ou pensions liquidées avant le 1er janvier 2004 et dont sont
+titulaires les personnes bénéficiant, au 30 juin 2005, de l'aide personnalisée
+au logement (NOTA).
+
 Ne sont pas déduits du décompte des ressources les déficits constatés au cours
 d'une année antérieure à celle qui est prise en considération et qui font
-l'objet d'un report, en vertu de l'article 156-I du code général des impôts.
+l'objet d'un report, en vertu du I de l'article 156 du code général des impôts.
 
 Sont déduits de ce décompte :
-
-- les frais de garde des enfants à charge dans la limite d'un montant maximum
-fixé par arrêté des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture ;
 
 - les créances alimentaires mentionnées au 2° du II de l'article 156 du code
 général des impôts ;
 
-- l'abattement mentionné à l'article 157 bis du code général des impôts en
-faveur des personnes âgées ou invalides.
+- l'abattement mentionné à l'article 157 bis du code général des impôts pour les
+personnes nées avant le 1er janvier 1931 et pour les personnes invalides.
 
 Sont exclus de ce décompte :
 

@@ -12,8 +12,8 @@ de données nominatives qu'ils administrent.
 L'officier de police judiciaire, intervenant sur réquisition du procureur de la
 République préalablement autorisé par ordonnance du juge des libertés et de la
 détention, peut requérir des opérateurs de télécommunications, et notamment de
-ceux mentionnés à l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986
-relative à la liberté de communication, de prendre, sans délai, toutes mesures
+ceux mentionnés au 1 du I de l'article 6 de la loi 2004-575 du 21 juin 2004 pour
+la confiance dans l'économie numérique, de prendre, sans délai, toutes mesures
 propres à assurer la préservation, pour une durée ne pouvant excéder un an, du
 contenu des informations consultées par les personnes utilisatrices des services
 fournis par les opérateurs.
@@ -32,4 +32,4 @@ personnes morales est l'amende, suivant les modalités prévues par l'article
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de
 l'informatique et des libertés, détermine les catégories d'organismes visés au
 premier alinéa ainsi que les modalités d'interrogation, de transmission et de
-traitement des informations requises. ;
+traitement des informations requises.
