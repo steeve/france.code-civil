@@ -23,6 +23,13 @@ Il est accordé en fonction de la capacité financière des organismes, de leur
 organisation territoriale, professionnelle ou interprofessionnelle et de leur
 aptitude à assurer leur mission compte tenu de leurs moyens.
 
+Toutefois, dans chacun des départements d'outre-mer, les fonds visés aux I bis
+et II de l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre
+1984) ne peuvent être collectés que par des organismes agréés à compétence
+interprofessionnelle, à l'exception des contributions des entreprises relevant
+du secteur du bâtiment et des travaux publics et de la coopération et du
+développement agricoles.
+
 Les organismes collecteurs paritaires agréés peuvent conclure avec toutes
 personnes morales, et notamment les chambres de commerce et d'industrie, les
 chambres de métiers et les chambres d'agriculture, des conventions dont l'objet
@@ -33,6 +40,11 @@ l'article L. 910-1. Les chambres peuvent percevoir auprès de toutes les
 entreprises les fonds destinés à des actions de formation professionnelle, en
 application de conventions de formation annuelles ou pluriannuelles conclues
 dans le cadre des dispositions de l'article L. 920-1.
+
+Dans les départements d'outre-mer, les organismes collecteurs agréés à
+compétence interprofessionnelle rendent compte aux organismes agréés à
+compétence nationale et professionnelle de l'utilisation des fonds collectés
+auprès d'entreprises relevant du champ professionnel de ces organismes.
 
 Les conditions d'application du présent article sont précisées par décret en
 Conseil d'Etat.
