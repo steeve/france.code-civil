@@ -11,8 +11,8 @@ a) Etablissements publics d'aménagement créés en application des articles L.
 
 b) Sociétés d'économie mixte répondant aux conditions définies par l'article L.
 300-4 du code de l'urbanisme, et qui sont chargées de l'opération de
-restauration en vertu d'une convention ou d'une concession d'aménagement conclue
-avec la collectivité publique ;
+restauration en vertu d'une convention publique d'aménagement conclue avec la
+collectivité publique ;
 
 c) Organismes d'habitation à loyer modéré habilités à réaliser des opérations
 d'aménagement en vertu des articles L. 421-1, L. 421-4 et L. 422-2 du code de la

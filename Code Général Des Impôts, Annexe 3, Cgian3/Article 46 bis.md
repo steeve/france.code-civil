@@ -1,7 +1,7 @@
 Article 46 bis
 ----
-Les établissements publics et sociétés d'économie mixte concessionnaires
-d'opérations d'aménagement, en application du deuxième alinéa de l'article L
+Les établissements publics et sociétés d'économie mixte chargés de l'aménagement
+par une convention contractée en application du deuxième alinéa de l'article L
 300-4 du code de l'urbanisme, sont éxonérés de l'impôt sur les sociétés, sous
 les conditions énoncées à l'article 46 ter, pour la fraction de leurs bénéfices
 nets provenant soit de l'exécution des travaux d'aménagement, d'équipement

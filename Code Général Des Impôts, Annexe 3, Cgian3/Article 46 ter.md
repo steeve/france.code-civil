@@ -10,5 +10,5 @@ est demandée proviennent d'opérations conformes à leur objet ;
 2° En ce qui concerne les sociétés d'économie mixte, qu'elles fonctionnent
 conformément aux dispositions de l'article R 321-21 du code de l'urbanisme et
 que les bénéfices dont l'exonération est demandée proviennent d'opérations
-effectuées par elles dans le cadre d'une concession d'aménagement prévue à
-l'article L 300-4 du même code.
+effectuées par elles dans le cadre d'une convention publique d'aménagement
+prévue à l'article L 300-4 du même code.

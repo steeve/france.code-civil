@@ -1,7 +1,7 @@
 Article 1648 B
 ----
 I. Le fonds national de péréquation de la taxe professionnelle comprend deux
-fractions.
+fractions :
 
 1° La première fraction est dénommée : "dotation de développement rural". Son
 montant est arrêté par le comité des finances locales et est au minimum égal aux
@@ -65,16 +65,16 @@ général des collectivités territoriales.
 
 La population à prendre en compte pour l'application du présent article est
 celle définie à l'article L. 2334-2 du code général des collectivités
-territoriales.
+territoriales ;
 
 2° La seconde fraction est répartie par application des dispositions du II. Son
 montant est fixé par le comité des finances locales par différence entre les
 ressources prévues à l'article 1648 A bis et les sommes nécessaires à
 l'application des dispositions du 1° ci-dessus ainsi qu'à l'application des
 dispositions du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996
-relative à la mise en oeuvre du pacte de relance pour la ville. Les sommes ainsi
-dégagées ne peuvent être inférieures à 90 p. 100 du montant des ressources
-définies aux 1°, 2° et 3° du II de l'article 1648 A bis.
+modifiée relative à la mise en oeuvre du pacte de relance pour la ville. Les
+sommes ainsi dégagées ne peuvent être inférieures à 90 p. 100 du montant des
+ressources définies aux 1°, 2° et 3° du II de l'article 1648 A bis.
 
 II. Le surplus des ressources du fonds défini au 2° du I comporte :
 
@@ -99,8 +99,8 @@ de la taxe d'habitation, des taxes foncières et de la taxe professionnelle. A
 compter du 1er janvier 1991, les communes dont les pertes de bases sont
 compensées sur quatre ans, bénéficient :
 
-La première année, d'une attribution égale au plus à 90 p. 100 de la perte de
-bases qu'elles ont enregistrée ;
+La première année, d'une attribution égale au plus à 90 % de la perte de bases
+qu'elles ont enregistrée ;
 
 La deuxième année, de 75 % de l'attribution reçue l'année précédente ;
 
@@ -111,12 +111,12 @@ La quatrième année, de 25 % de l'attribution reçue la première année.
 A compter du 1er janvier 1998, les communes dont les pertes de bases sont
 compensées sur trois ans bénéficient :
 
-- la première année, d'une attribution au plus égale à 90 % de la perte de bases
+la première année, d'une attribution au plus égale à 90 % de la perte de bases
 qu'elles ont enregistrée ;
 
-- la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
+la deuxième année, de 75 % de l'attribution reçue l'année précédente ;
 
-- la troisième année, de 50 % de l'attribution reçue la première année.
+la troisième année, de 50 % de l'attribution reçue la première année.
 
 Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour
 les communes situées dans les cantons où l'Etat anime une politique de
@@ -125,13 +125,13 @@ conversion industrielle et dont la liste est fixée par décret.
 Les groupements de communes dotés d'une fiscalité propre qui remplissent les
 conditions fixées par décret en Conseil d'Etat bénéficient, à compter du 1er
 janvier 1992, de la compensation prévue au présent 2°, selon les modalités
-prévues pour les communes.
+prévues pour les communes ;
 
-2° bis. Une deuxième part qui sert à verser :
+2° bis Une deuxième part qui sert à verser :
 
 1. En 1999, en 2000 et en 2001 :
 
-a) Une compensation aux communes éligibles en 1998 à la dotation de solidarité
+a. Une compensation aux communes éligibles en 1998 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
 territoriales et aux communes bénéficiaires, en 1998, de la première fraction de
 la dotation de solidarité rurale visée à l'article L. 2334-21 du code général
@@ -142,7 +142,7 @@ de cette part sont égales à la baisse enregistrée par chaque commune entre 19
 et 1999 de la dotation prévue au IV de l'article 6 de la loi de finances
 précitée ;
 
-b) Une compensation aux établissements publics de coopération intercommunale à
+b. Une compensation aux établissements publics de coopération intercommunale à
 fiscalité propre dont un membre au moins est éligible, en 1998, soit à la
 dotation de solidarité urbaine prévue à l'article L. 2334-15 du code général des
 collectivités territoriales, soit à la première fraction de la dotation de
@@ -155,7 +155,7 @@ la population des communes éligibles soit à la dotation de solidarité urbaine
 soit à la première fraction de la dotation de solidarité rurale, membres du
 groupement dans la population totale du groupement ;
 
-c) Une compensation aux communes bénéficiaires en 1998 de la seconde fraction de
+c. Une compensation aux communes bénéficiaires en 1998 de la seconde fraction de
 la dotation de solidarité rurale visée à l'article L. 2334-22 du code général
 des collectivités territoriales et dont le potentiel fiscal par habitant, tel
 qu'il est défini à l'article L. 2334-4 du code précité est inférieur à 90 % du
@@ -202,12 +202,48 @@ Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 dotation prévue au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317
 du 30 décembre 1986) ;
 
+3. En 2001 :
+
+a. Une compensation aux communes éligibles en 2000 à la dotation de solidarité
+urbaine prévue à l'article L. 2334-15 du code général des collectivités
+territoriales et aux communes bénéficiaires, en 2000, de la première fraction de
+la dotation de solidarité rurale visée à l'article L. 2334-21 du même code, et
+qui connaissent en 2001 une baisse de la dotation prévue au IV de l'article 6 de
+la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986). Les attributions
+qui reviennent aux communes bénéficiaires de cette part sont égales à la baisse
+enregistrée par chaque commune, entre 2000 et 2001, de la dotation prévue au IV
+de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986)
+;
+
+b. Une compensation aux établissements publics de coopération intercommunale à
+fiscalité propre dont un membre au moins est éligible, en 2000, soit à la
+dotation de solidarité urbaine, soit à la première fraction de la dotation de
+solidarité rurale. Les attributions qui reviennent aux groupements bénéficiaires
+de cette part sont égales à la baisse enregistrée par chaque groupement, entre
+2000 et 2001, de la dotation prévue au IV de l'article 6 de la loi de finances
+pour 1987 (n° 86-1317 du 30 décembre 1986), à hauteur du pourcentage que
+représente la population des communes éligibles, soit à la dotation de
+solidarité urbaine, soit à la première fraction de la dotation de solidarité
+rurale, membres du groupement dans la population totale du groupement ;
+
+c. Une compensation aux communes bénéficiaires en 2000 de la seconde fraction de
+la dotation de solidarité rurale visée à l'article L. 2334-22 du code général
+des collectivités territoriales et dont le potentiel fiscal par habitant, tel
+qu'il est défini à l'article L. 2334-4 du même code, est inférieur à 90 % du
+potentiel fiscal moyen par habitant des communes appartenant au même groupe
+démographique, et qui connaissent en 2001 une baisse de la dotation prévue au IV
+de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
+Les attributions qui reviennent aux communes bénéficiaires de cette part sont
+égales à la baisse enregistrée par chaque commune entre 2000 et 2001 de la
+dotation prévue au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317
+du 30 décembre 1986).
+
 Lorsque la somme qui doit être attribuée au titre de la compensation pour une
 commune ou un établissement public de coopération intercommunale est inférieure
 à 500 F, le versement de cette somme n'est pas effectué ;
 
-3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée
-aux communes qui connaissent des difficultés financières graves en raison d'une
+3° Une part résiduelle, au plus égale à 5 % de ce surplus et qui est versée aux
+communes qui connaissent des difficultés financières graves en raison d'une
 baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe
 professionnelle ou de leurs ressources de redevance des mines, et dont le budget
 primitif de l'exercice en cours a été soumis à la chambre régionale des comptes

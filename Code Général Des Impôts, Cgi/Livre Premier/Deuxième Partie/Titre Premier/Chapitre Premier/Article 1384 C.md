@@ -10,9 +10,9 @@ Sont également exonérés de taxe foncière sur les propriétés bâties pendan
 durée de quinze ans les logements visés au 4° de l'article L. 351-2 du code de
 la construction et de l'habitation qui, en vue de leur location ou attribution à
 titre temporaire aux personnes défavorisées mentionnées à l'article 1er de la
-loi n° 90-449 du 31 mai 1990 visant la mise en oeuvre du droit au logement, sont
-améliorés au moyen d'une aide financière de l'Agence nationale pour
-l'amélioration de l'habitat par des organismes ne se livrant pas à une
+loi n° 90-449 du 31 mai 1990 modifiée visant la mise en oeuvre du droit au
+logement, sont améliorés au moyen d'une aide financière de l'Agence nationale
+pour l'amélioration de l'habitat par des organismes ne se livrant pas à une
 exploitation ou à des opérations de caractère lucratif et agréés à cette fin par
 le représentant de l'Etat dans le département. Le bénéfice de l'exonération est
 subordonné à la condition que la décision de subvention intervienne dans un

@@ -5,9 +5,9 @@ articles L. 324-1 et suivants du code de l'urbanisme, une taxe spéciale
 d'équipement destinée à permettre à ces établissements de financer les
 acquisitions foncières et immobilières correspondant à leur vocation.
 
-Le montant de cette taxe est arrêté chaque année par le conseil d'administration
-de l'établissement public dans les limites d'un plafond fixé pour chaque
-établissement par la loi de finances.
+Le produit de cette taxe est arrêté chaque année par l'assemblée générale de
+l'établissement public dans les limites d'un plafond fixé par la loi de
+finances.
 
 Ce montant est réparti, dans les conditions définies au II de l'article 1636 B
 octies, entre toutes les personnes physiques ou morales assujetties aux taxes

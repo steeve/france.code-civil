@@ -5,19 +5,25 @@ locative cadastrale de ces propriétés déterminée conformément aux règles
 définies par les articles 1509 à 1518 A et sous déduction de 20 % de son
 montant.
 
-La valeur locative cadastrale des terrains situés dans les zones urbaines
-délimitées par un plan d'occupation des sols approuvé conformément au code de
-l'urbanisme, déterminée en application du premier alinéa, peut, sur délibération
-(2) du conseil municipal et pour le calcul de la contribution communale, être
-majorée dans la limite de ((500 %)) (1). Cette disposition ne s'applique pas :
+La valeur locative cadastrale des terrains constructibles situés dans les zones
+urbaines délimitées par une carte communale, un plan local d'urbanisme ou un
+plan de sauvegarde et de mise en valeur approuvé conformément au code de
+l'urbanisme, peut, sur délibération du conseil municipal prise dans les
+conditions prévues au premier alinéa du I de l'article 1639 A bis, être majorée
+d'une valeur forfaitaire qui ne peut excéder 5 F par mètre carré, pour le calcul
+de la part revenant aux communes et aux établissements publics de coopération
+intercommunale sans fiscalité propre. Cette disposition n'est pas applicable aux
+terrains déjà classés dans la catégorie fiscale des terrains à bâtir.
 
-Aux terrains déjà classés dans la catégorie fiscale des terrains à bâtir ;
+La liste des terrains constructibles concernés est dressée par le maire. Cette
+liste, ainsi que les modifications qui y sont apportées en cas de révision ou de
+modification des documents d'urbanisme, sont communiquées à l'administration des
+impôts avant le 1er septembre de l'année qui précède l'année d'imposition. En
+cas d'inscription erronée, les dégrèvements en résultant sont à la charge de la
+commune ; ils s'imputent sur les attributions mentionnées à l'article L. 2332-2
+du code général des collectivités territoriales (1).
 
-Aux terrains non constructibles au regard du plan d'occupation des sols. La
-liste de ces derniers est, pour chaque commune, communiquée à l'administration
-des impôts par le ministère chargé de l'urbanisme.
-
-(1) Modification de la loi 93-1352.
-
-(2) Ces délibérations cessent de produire effet à compter des impositions
-établies au titre de 2002.
+(1) Les délibérations prises en application du deuxième alinéa de l'article 1396
+du code général des impôts dans sa rédaction antérieure à l'entrée en vigueur de
+la loi n° 2000-1208 du 14 décembre 2000 cessent de produire effet à compter des
+impositions établies au titre de 2002.
