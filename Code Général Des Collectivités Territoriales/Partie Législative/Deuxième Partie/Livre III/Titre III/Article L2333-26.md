@@ -10,10 +10,11 @@ mise en valeur du littoral, dans les communes de montagne au sens de la loi n°
 montagne, dans les communes qui réalisent des actions de promotion en faveur du
 tourisme et dans celles qui réalisent des actions de protection et de gestion de
 leurs espaces naturels, le conseil municipal peut instituer, pour chaque nature
-d'hébergement, soit une taxe de séjour perçue dans les conditions prévues aux
-articles L. 2333-30 à L. 2333-40 et L. 2563-7, soit une taxe de séjour
-forfaitaire perçue dans les conditions prévues aux articles L. 2333-41 à L.
-2333-46. Les natures d'hébergement sont fixées par décret en Conseil d'Etat.
+d'hébergement à titre onéreux, soit une taxe de séjour perçue dans les
+conditions prévues aux articles L. 2333-30 à L. 2333-40 et L. 2563-7, soit une
+taxe de séjour forfaitaire perçue dans les conditions prévues aux articles L.
+2333-41 à L. 2333-46. Les natures d'hébergement sont fixées par décret en
+Conseil d'Etat.
 
 Les délibérations prises en application du premier alinéa précisent les natures
 d'hébergement auxquelles s'appliquent les taxes.

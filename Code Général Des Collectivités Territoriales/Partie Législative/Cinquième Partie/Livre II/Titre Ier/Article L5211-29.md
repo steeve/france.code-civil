@@ -25,10 +25,6 @@ l'article 1609 nonies C du code général des impôts ;
 les communautés urbaines faisant application des dispositions de l'article 1609
 nonies C du code général des impôts.
 
-De 2000 à 2002, la dotation par habitant des communautés urbaines est fixée par
-le Comité des finances locales et ne prend pas en compte les sommes nécessaires
-au mécanisme de garantie prévu à l'article L. 5211-33.
-
 II La dotation par habitant de la catégorie des communautés d'agglomération
 créées, ou issues de la transformation d'un établissement public de coopération
 intercommunale, avant le 1er janvier 2005 est fixée à 250 F au 1er janvier 2000.
@@ -52,7 +48,7 @@ communautés de communes ne faisant pas application de ces dispositions.
 
 A compter du 1er janvier 2003, le montant de la dotation d'intercommunalité
 affecté aux communautés urbaines est celui qui résulte de l'application du
-troisième alinéa du I de l'article L. 5211-30.
+deuxième alinéa du I de l'article L. 5211-30.
 
 La dotation par habitant de la catégorie des communautés urbaines ayant opté
 pour les dispositions de l'article 1609 nonies C du code général des impôts ne
@@ -68,3 +64,18 @@ nouvelle.
 La majoration de la dotation des communautés d'agglomération, constituée en
 application de l'alinéa précédent, est répartie selon les modalités de l'article
 L. 5211-30.
+
+A compter de 2002, la dotation moyenne par habitant des communautés de communes
+ne faisant pas application des dispositions de l'article 1609 nonies C du code
+général des impôts qui perçoivent la dotation d'intercommunalité dans cette
+catégorie au titre de la deuxième année au moins est majorée, le cas échéant,
+d'une somme lui permettant d'atteindre le montant de la dotation moyenne par
+habitant qui leur a été notifiée l'année précédente, augmentée comme la dotation
+forfaitaire visée à l'article L. 2334-7. Pour l'application de ces dispositions
+en 2002, la dotation moyenne par habitant prise en compte au titre de 2001
+intègre la quote-part de la régularisation de la dotation globale de
+fonctionnement prévue par l'article L. 1613-2-1.
+
+Cette majoration est répartie entre les établissements publics de coopération
+intercommunale bénéficiaires comme les dotations de base et de péréquation
+auxquelles elle s'ajoute.

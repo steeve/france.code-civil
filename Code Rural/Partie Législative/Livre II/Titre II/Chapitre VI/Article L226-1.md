@@ -1,7 +1,12 @@
 Article L226-1
 ----
-En cas de dégâts causés aux récoltes soit par les sangliers, soit par les grands
-gibiers provenant d'une réserve où ils font l'objet de reprise ou d'un fonds sur
-lequel a été exécuté un plan de chasse prévu par l'article L. 225-1, celui qui a
-subi un préjudice peut en réclamer l'indemnisation à la fédération
-départementale des chasseurs.
+La collecte et l'élimination des cadavres d'animaux, celles des viandes, abats
+et sous-produits animaux saisis à l'abattoir reconnus impropres à la
+consommation humaine et animale, ainsi que celles des matériels présentant un
+risque spécifique au regard des encéphalopathies spongiformes subaiguës
+transmissibles, dénommés matériels à risque spécifiés et dont la liste est
+arrêtée par le ministre chargé de l'agriculture, constituent une mission de
+service public qui relève de la compétence de l'Etat.
+
+L'exécution de ce service public de l'équarrissage est assurée selon les
+modalités fixées par décret en Conseil d'Etat.

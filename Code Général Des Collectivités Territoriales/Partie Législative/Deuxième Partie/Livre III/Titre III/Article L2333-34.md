@@ -1,6 +1,9 @@
 Article L2333-34
 ----
-Peuvent être exemptées de la taxe de séjour, dans les stations hydrominérales,
-climatiques et uvales, les personnes qui sont exclusivement attachées aux
-malades ou celles qui, par leur travail ou leur profession, participent au
-fonctionnement ou au développement de la station.
+Le conseil municipal peut, par délibération, prévoir l'exemption des personnes :
+
+1° Qui, par leur travail ou leur profession, participent au fonctionnement et au
+développement de la station ;
+
+2° Qui occupent des locaux dont le loyer est inférieur à un montant déterminé
+par décret.

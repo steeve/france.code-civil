@@ -36,7 +36,7 @@ si l'évolution des ressources de la dotation globale de fonctionnement, en
 application de l'indexation prévue au premier alinéa de l'article L. 1613-1,
 résulte pour un tiers au moins de la progression du produit intérieur brut en
 volume, le comité des finances locales fixe le taux de progression de ces
-montants entre 50 p. 100 et 55 p. 100 du taux de progression de l'ensemble de
+montants entre 45 p. 100 et 55 p. 100 du taux de progression de l'ensemble de
 ces ressources ;
 
 dans le cas contraire, ces montants progressent de la moitié du taux d'évolution

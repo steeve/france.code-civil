@@ -1,7 +1,7 @@
 Article L2334-6
 ----
-- Le produit des impôts, taxes et redevances pris en considération pour le
-calcul de l'effort fiscal comprend les ressources nettes provenant de :
+Le produit des impôts, taxes et redevances pris en considération pour le calcul
+de l'effort fiscal comprend les ressources nettes provenant de :
 
 a) La taxe foncière sur les propriétés bâties. Son montant est majoré de la
 somme correspondant aux exonérations dont ont bénéficié, en application des
@@ -11,18 +11,20 @@ mesure où elles sont compensées par l'Etat, ainsi qu'aux exonérations
 permanentes dont ont bénéficié, en application de l'article 1382 du code général
 des impôts, les résidences universitaires, les locaux utilisés au casernement
 des personnels des armées ainsi que les locaux des établissements publics de
-santé dès lors que ceux-ci occupent plus de 10 p. 100 du territoire communal ;
+santé dès lors que ceux-ci occupent plus de 10 % du territoire communal ;
 
 Il est également majoré, dans la mesure où elles sont compensées par l'Etat, de
 la somme correspondant aux exonérations prévues aux articles 1390 et 1391 du
 code général des impôts ;
 
+Il est également majoré de la somme correspondant à l'abattement prévu à
+l'article 1388 bis du code général des impôts.
+
 b) La taxe foncière sur les propriétés non bâties. Son montant est majoré de la
 somme correspondant aux exonérations dont ont bénéficié, en application de
 l'article 1394 du code général des impôts, les terrains des universités, les
 terrains affectés aux armées ainsi que les terrains des établissements publics
-de santé dès lors que ceux-ci occupent plus de 10 p. 100 du territoire communal
-;
+de santé dès lors que ceux-ci occupent plus de 10 % du territoire communal ;
 
 c) La taxe d'habitation, majorée de la somme correspondant aux exonérations
 permanentes dont ont bénéficié, en application de l'article 1408 du code général

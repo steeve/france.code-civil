@@ -42,10 +42,20 @@ respectivement pris par l'assureur et par les assurés ;
 
 a) Provision destinée à faire face aux charges exceptionnelles afférentes aux
 opérations garantissant les risques dus à des éléments naturels, le risque
-atomique, les risques de responsabilité civile dus à la pollution et les risques
-spatiaux et calculée dans les conditions fixées par l'article 2 de la loi n°
-74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13 août 1975 et le
-décret n° 86-741 du 14 mai 1986 ;
+atomique, les risques de responsabilité civile dus à la pollution, les risques
+spatiaux, les risques liés au transport aérien, et les risques liés aux
+attentats et au terrorisme, et calculée dans les conditions fixées par l'article
+2 de la loi n° 74-1114 du 27 décembre 1974, par le décret n° 75-768 du 13 août
+1975, le décret n° 86-741 du 14 mai 1986 et l'article 39 quinquies G du code
+général des impôts. Toutefois, pour la détermination du bénéfice technique
+annuel pris en compte pour le calcul de la dotation annuelle de la provision
+pour les risques liés aux attentats et au terrorisme prévue à l'article 39
+quinquies G du code général des impôts et pour la détermination de la limite du
+montant global de cette provision prévue à cet article, les primes pour attentat
+et terrorisme pour chacun des deux exercices 2001 et 2002 ne pourront excéder
+3,75 % des primes émises au titre des dommages aux biens correspondant aux
+branches 8 et 9 de l'article R. 321-1 et agrégées dans les conditions définies à
+l'article A. 341-1 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique
 éventuelle apparaissant à la fin de l'exercice, et calculée dans les conditions

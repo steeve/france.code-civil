@@ -1,7 +1,7 @@
 Article 200
 ----
 1. Ouvrent droit à une réduction d'impôt sur le revenu égale à 50 % de leur
-montant les sommes prises dans la limite de 6 % du revenu imposable qui
+montant les sommes prises dans la limite de 10 % du revenu imposable qui
 correspondent à des dons et versements, y compris l'abandon exprès de revenus ou
 produits, effectués par les contribuables domiciliés en France au sens de
 l'article 4 B, au profit :
@@ -64,13 +64,14 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 2 000 F. Il n'en est
-pas tenu compte pour l'application de la limite mentionnée au 1.
+difficulté. Ces versements sont retenus dans la limite de 400 euros pour
+l'imposition des revenus de 2001. Il n'en est pas tenu compte pour l'application
+de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, à
-la dizaine de francs supérieure.
+barème de l'impôt sur le revenu de l'année précédant celle des versements. Le
+montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
 5. Le bénéfice des dispositions des 1 et 4 est subordonné à la condition que
 soient jointes à la déclaration des revenus des pièces justificatives, répondant
@@ -79,8 +80,22 @@ versements ainsi que l'identité des bénéficiaires. A défaut, la réduction
 d'impôt est refusée sans notification de redressement préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
-cotisations d'un montant égal ou inférieur à 20 000 F ne mentionnent pas la
+cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la
 dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les
 modalités d'application de cette disposition.
 
-6. et 7. Abrogés.
+6. Par dérogation aux dispositions du premier alinéa du 5 et jusqu'à
+l'imposition des revenus de l'année 2003, le bénéfice de la réduction d'impôt
+est accordé aux contribuables qui transmettent la déclaration de leurs revenus
+par voie électronique, en application de l'article 1649 quater B ter, à la
+condition que soient mentionnés sur cette déclaration l'identité de chaque
+organisme bénéficiaire et le montant total des versements effectués au profit de
+chacun d'entre eux au titre de l'année d'imposition des revenus.
+
+L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations
+versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas,
+les versements sont d'un montant égal ou inférieur à 3 000 euros.
+
+La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne
+peuvent pas justifier des versements effectués par la présentation des pièces
+justificatives mentionnées au premier alinéa du 5.

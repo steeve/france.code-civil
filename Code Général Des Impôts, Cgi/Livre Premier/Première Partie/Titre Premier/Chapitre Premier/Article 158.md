@@ -15,14 +15,14 @@ des bénéfices imposables ne sont pas applicables.
 3. Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII
 de la 1ère sous-section de la présente section, à l'exception des revenus
 expressément affranchis de l'impôt en vertu de l'article 157 et des revenus
-ayant supporté le prélèvement visé à l'article 125 A .
+ayant supporté le prélèvement visé à l'article 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
 espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-Il est opéré un abattement annuel de 8.000 F pour les contribuables
-célibataires, veufs ou divorcés et de 16.000 F pour les contribuables mariés
+Il est opéré un abattement annuel de 1 220 euros pour les contribuables
+célibataires, veufs ou divorcés et de 2 440 euros pour les contribuables mariés
 soumis à imposition commune sur la somme des revenus et gains imposables
 suivants :
 
@@ -36,13 +36,9 @@ françaises inscrites à la cote officielle ou au second marché des bourses
 françaises de valeurs ou qui, inscrites au hors-cote, font l'objet de
 transactions d'une importance et d'une fréquence qui sont fixées par décret
 lorsqu'ils sont encaissés par des personnes qui détiennent, directement ou
-indirectement, plus de 35 % des droits sociaux dans la société distributrice. Il
-ne s'applique pas aux revenus d'actions qui ne répondent pas aux conditions
-prévues par la première phrase du 1° de l'article 163 octies lorsqu'ils sont
-encaissés par des personnes qui détiennent, directement ou indirectement, plus
-de 35 p. 100 des droits sociaux dans la société distributrice. Pour
-l'application de cette disposition, les droits sociaux appartenant au conjoint
-sont considérés comme détenus indirectement.
+indirectement, plus de 35 % des droits sociaux dans la société distributrice.
+Pour l'application de cette disposition, les droits sociaux appartenant au
+conjoint sont considérés comme détenus indirectement.
 
 4° (Dispositions abrogées) ;
 
@@ -71,16 +67,16 @@ soumis à une imposition commune.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
-articles 34 à 61 A, et 302 septies A bis du présent code ; les rémunérations
-mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet
-article ; les bénéfices de l'exploitation agricole sont déterminées conformément
-aux dispositions des articles 63 à 78 du présent code et des articles L1 à L4 du
-livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une
-profession non commerciale sont déterminés conformément aux dispositions des
-articles 92 à 103 du présent code. Toutefois, les plus-values à long terme
-définies aux articles 39 duodecies et 39 terdecies 1 sont distraites des
-bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les
-conditions prévues aux articles 39 terdecies 2, 39 quindecies et 93 quater.
+articles 34 à 61 A, et 302 septies A bis ; les rémunérations mentionnées à
+l'article 62 sont déterminées conformément aux dispositions de cet article ; les
+bénéfices de l'exploitation agricole sont déterminées conformément aux
+dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
+procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non
+commerciale sont déterminés conformément aux dispositions des articles 92 à 103.
+Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au
+1 de 39 terdecies sont distraites des bénéfices en vue d'être distinctement
+taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39
+terdecies et aux articles 39 quindecies et 93 quater.
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou
 agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les
@@ -102,7 +98,7 @@ fixée au cinquième alinéa du a du 5 ;
 
 La limitation du montant de l'abattement résultant de l'application du deuxième
 alinéa est opérée sur la totalité du revenu net professionnel déclaré par une
-même personne physique, dans une même catégorie de revenus ;
+même personne physique, dans une même catégorie de revenus.
 
 Aucun abattement n'est appliqué à la partie des bénéfices résultant d'un
 redressement, sauf lorsque ce redressement fait suite à une déclaration
@@ -116,8 +112,8 @@ infraction successive concernant la même catégorie de déclaration.
 L'établissement de la mauvaise foi d'un adhérent à l'occasion d'un redressement
 relatif à l'impôt sur le revenu ou à la taxe sur la valeur ajoutée auxquels il
 est soumis du fait de son activité professionnelle entraîne la perte de
-l'abattement et de la réduction d'impôt prévue à l'article 199 quater B du
-présent code, pour l'année au titre de laquelle le redressement est effectué.
+l'abattement et de la réduction d'impôt prévue à l'article 199 quater B, pour
+l'année au titre de laquelle le redressement est effectué.
 
 4 ter. (disposition devenue sans objet).
 
@@ -127,15 +123,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 20 000 F. Ce plafond s'applique au montant total des pensions et
+excéder 3 160 euros. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 1.800 F, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 323 euros, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 1 800 F est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 323 euros est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
@@ -145,24 +141,24 @@ troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant déclaré spontanément.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
-frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
-revenus de 1982 et 1983.
+frais professionnels, et pensions qui excède 111 900 euros pour l'imposition des
+revenus de 2001.
 
 La limite mentionnée au cinquième alinéa est relevée chaque année dans la même
 proportion que la limite supérieure de la première tranche du barème de l'impôt
-sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, au millier de
-francs supérieur.
+sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, à la centaine
+d'euros supérieure.
 
-b. Les dispositions du a sont applicables aux allocations mentionnées à
-l'article 231 bis D, premier et troisième alinéas, aux participations en espèces
-et, à compter du 1er janvier 1991, aux dividendes des actions de travail,
-alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces
-sommes sont imposables, de même qu'à l'aide financière mentionnée à l'article
-L129-3 du code du travail.
+b. Les dispositions du a sont applicables aux allocations mentionnées aux
+premier et troisième alinéas de l'article 231 bis D, aux participations en
+espèces et, à compter du 1er janvier 1991, aux dividendes des actions de
+travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque
+ces sommes sont imposables, de même qu'à l'aide financière mentionnée à
+l'article L129-3 du code du travail.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
-ou des régimes mentionnés au deuxième alinéa de l'article 154 bis ;
+ou des régimes mentionnés au deuxième alinéa de l'article 154 bis.
 
 Les dispositions du a sont également applicables aux prestations servies sous
 forme de rentes au titre des contrats d'assurance de groupe visés au premier
@@ -190,14 +186,14 @@ déclaration porte chaque année sur les arrérages correspondant à la période
 douze mois qui suit la période à laquelle se rapportent les arrérages imposables
 au titre de l'année précédente.
 
-Pour l'application de cette règle, les arrérages échus en 1987 son répartis
+Pour l'application de cette règle, les arrérages échus en 1987 sont répartis
 également sur le nombre de mois auxquels ils correspondent, arrondi au nombre
 entier le plus proche.
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un
 revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que
 pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du
-crédirentier lors de l'entrée en jouissance de la rente, est fixée :
+crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
 - à 70 % si l'intéressé est âgé de moins de 50 ans ;
 

@@ -83,13 +83,13 @@ civile ou de lutte contre l'incendie ;
 recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde
 de silicium ;
 
-4. Aux préparations pour lessives, y compris les préparations auxiliaires de
-lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux
-d'extraction, aux produits antiparasitaires à usage agricole et aux produits
-assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article
-lorsque la première livraison après fabrication nationale consiste en une
-expédition directe à destination d'un Etat membre de la Communauté européenne ou
-en une exportation ;
+4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations
+auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le
+linge, aux matériaux d'extraction, aux produits antiparasitaires à usage
+agricole et aux produits assimilés mentionnés respectivement au a du 4 et aux 5,
+6 et 7 du I du présent article lorsque la première livraison après fabrication
+nationale consiste en une expédition directe à destination d'un Etat membre de
+la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au
 répertoire des métiers.

@@ -35,3 +35,10 @@ A compter de 1997, l'augmentation annuelle de ce solde est répartie par le
 comité des finances locales entre la dotation de solidarité urbaine et la
 dotation de solidarité rurale de manière à ce que chacune en reçoive 45 p. 100
 au moins et 55 p. 100 au plus.
+
+En 2002, le montant des crédits affectés à la dotation de solidarité rurale en
+application des dispositions précédentes est majoré de 1,5 million d'euros. En
+2003, le montant de cette majoration n'est pas pris en compte pour la
+répartition, entre la dotation de solidarité urbaine et la dotation de
+solidarité rurale, de l'augmentation du solde de la dotation d'aménagement telle
+qu'elle est prévue par l'alinéa précédent.

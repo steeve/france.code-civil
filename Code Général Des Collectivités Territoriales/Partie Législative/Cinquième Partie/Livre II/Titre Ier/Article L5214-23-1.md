@@ -2,11 +2,14 @@ Article L5214-23-1
 ----
 Les communautés de communes faisant application des dispositions de l'article
 1609 nonies C du code général des impôts dont la population est comprise entre 3
-500 habitants et 50 000 habitants au plus ou bien, lorsqu'elle est supérieure à
-50 000 habitants, n'inclut pas de commune centre ou de commune chef-lieu de
-département de plus de 15 000 habitants, sont éligibles à la dotation prévue au
-neuvième alinéa de l'article L. 5211-29 lorsqu'elles exercent au moins quatre
-des cinq groupes de compétences suivants :
+500 habitants et 50 000 habitants au plus ou, lorsqu'elle est inférieure à 3 500
+habitants, et qu'elles sont situées en zone de revitalisation rurale de montagne
+et comprennent au moins dix communes dont un chef-lieu de canton ou la totalité
+des communes d'un canton ou bien, lorsqu'elle est supérieure à 50 000 habitants,
+n'inclut pas de commune centre ou de commune chef-lieu de département de plus de
+15 000 habitants, sont éligibles à la dotation prévue au neuvième alinéa de
+l'article L. 5211-29 lorsqu'elles exercent au moins quatre des cinq groupes de
+compétences suivants :
 
 1° En matière de développement économique : aménagement, entretien et gestion de
 zones d'activité industrielle, commerciale, tertiaire, artisanale ou touristique

@@ -61,7 +61,10 @@ personnes non salariées des professions agricoles ;
 
 7° Les sommes représentatives de la prise en compte par les régimes d'assurance
 vieillesse de base des périodes de volontariat du service national de leurs
-assurés.
+assurés ;
+
+8° Les frais de gestion administrative du fonds correspondant à des opérations
+de solidarité.
 
 Les sommes mentionnées aux a, b et d du 4° et au 7° sont calculées sur une base
 forfaitaire déterminée après avis des conseils d'administration des caisses des

@@ -59,8 +59,8 @@ détenu, pour 75 % au moins, par des personnes physiques. Pour la détermination
 de ce pourcentage, les participations des sociétés de capital-risque, des fonds
 communs de placement à risques, des sociétés de développement régional et des
 sociétés financières d'innovation ne sont pas prises en compte à la condition
-qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39
-terdecies entre la société en cause et ces dernières sociétés ou ces fonds.
+qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société en cause et ces dernières sociétés ou ces fonds.
 
 Dans tous les cas, les organismes mentionnés au premier alinéa doivent être
 agréés par le ministre chargé du budget.

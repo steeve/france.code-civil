@@ -50,6 +50,11 @@ précédents retraits ou rachats ; cette fraction est égale au rapport du monta
 du retrait ou rachat effectué à la valeur liquidative totale du plan à la date
 du retrait ou du rachat ;
 
+La valeur liquidative ou de rachat ne tient pas compte des gains nets et
+produits de placement mentionnés au 8° afférents aux parts des fonds communs de
+placement à risques et aux actions des sociétés de capital-risque détenues dans
+le plan.
+
 6° Lorsque les intéressés demandent la délivrance des droits constitués à leur
 profit au titre de la participation aux résultats de l'entreprise en application
 du chapitre II du titre IV du livre IV du code du travail, le revenu constitué

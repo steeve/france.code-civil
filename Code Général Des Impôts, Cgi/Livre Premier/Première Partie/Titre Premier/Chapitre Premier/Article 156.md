@@ -15,7 +15,7 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 350 000 F ; ces déficits peuvent cependant être
+nets d'autres sources excède 53360 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 cinquième inclusivement.
 
@@ -86,7 +86,7 @@ semblables durant la même année ou les cinq années suivantes ;
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
-l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel, ni
+l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ni
 aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils
 payent en application des dispositions de l'article 605 du code civil, lorsque
 le démembrement de propriété d'un immeuble bâti résulte de succession ou de
@@ -160,11 +160,11 @@ dispositions prévues aux cinquième et sixième alinéas sont fixées par décr
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
-L'imputation est limitée à 70 000 F. La fraction du déficit supérieure à 70 000
-F et la fraction du déficit non imputable résultant des intérêts d'emprunt sont
-déduites dans les conditions prévues au premier alinéa.
+L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure à 10
+700 euros et la fraction du déficit non imputable résultant des intérêts
+d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
-La limite mentionnée au huitième alinéa est portée à 100 000 F pour les
+La limite mentionnée au huitième alinéa est portée à 15 300 euros pour les
 contribuables qui constatent un déficit foncier sur un logement pour lequel est
 pratiquée la déduction prévue au f du 1° du I de l'article 31.
 
@@ -185,9 +185,9 @@ undecies A et imputer un déficit foncier sur le revenu global.
 4° (abrogé).
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150
-octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de
-l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur
-les profits de même nature réalisés au cours de la même année ou des cinq années
+octies, 150 nonies et 150 decies lorsque l'option prévue au 8° du I de l'article
+35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les
+profits de même nature réalisés au cours de la même année ou des cinq années
 suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
@@ -197,15 +197,15 @@ réalisés dans les mêmes conditions au cours de la même année ou des cinq an
 suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
-marchandises réalisées à l'étranger ;
+marchandises réalisées à l'étranger.
 
-7° (abrogé) ;
+7° (abrogé)
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
 imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est
 déductible du revenu global de l'année de prise du brevet et des neuf années
-suivantes ;
+suivantes.
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation
 des revenus des différentes catégories :
@@ -222,7 +222,7 @@ ayant accédé à l'indépendance ;
 1° ter. Dans les conditions fixées par décret, les charges foncières afférentes
 aux immeubles classés monuments historiques ou inscrits à l'inventaire
 supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
-raison de leur caractère historique ou artistique particulier, ou en raison du
+raison de leur caractère historique ou artistique particulier ou en raison du
 label délivré par la "Fondation du patrimoine" en application de l'article 2 de
 la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce
 label a été accordé sur avis favorable du service départemental de
@@ -238,19 +238,20 @@ aux ascendants quand il est fait application des dispositions prévues aux
 premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de
 sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont
 effectués sur une période supérieure à douze mois à compter de la date à
-laquelle le jugement de divorce est passé en force de chose jugée et les rentes
-mentionnées à l'article 276 du même code ainsi que les pensions alimentaires
-versées en vertu d'une décision de justice, en cas de séparation de corps ou de
-divorce, ou en cas d'instance en séparation de corps ou de divorce lorsque le
-conjoint fait l'objet d'une imposition séparée ; contribution aux charges du
-mariage définie à l'article 214 du code civil, lorsque son versement résulte
-d'une décision de justice et à condition que les époux fassent l'objet d'une
-imposition séparée ; dans la limite de 18 000 F et, dans les conditions fixées
-par un décret en Conseil d'Etat, les versements destinés à constituer le capital
-de la rente prévue à l'article 294 du code civil.
+laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande
+conjointe (1), est passé en force de chose jugée et les rentes versées en
+application des articles 276 ou 278 du même code (1) ainsi que les pensions
+alimentaires versées en vertu d'une décision de justice, en cas de séparation de
+corps ou de divorce, ou en cas d'instance en séparation de corps ou de divorce
+lorsque le conjoint fait l'objet d'une imposition séparée ; contribution aux
+charges du mariage définie à l'article 214 du code civil, lorsque son versement
+résulte d'une décision de justice et à condition que les époux fassent l'objet
+d'une imposition séparée ; dans la limite de 2 700 euros et, dans les conditions
+fixées par un décret en Conseil d'Etat, les versements destinés à constituer le
+capital de la rente prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
-pour ses enfants dont il n'a pas la garde.
+pour ses enfants dont il n'a pas la garde ;
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée
@@ -279,7 +280,7 @@ faite pour l'application aux salariés du régime de sécurité sociale.
 l'exception de ceux effectués pour les gens de maison ;
 
 5° Versements effectués en vue de la retraite mutualiste du combattant visée à
-l'article L. 321-9 du code de la mutualité ;
+l'article L. 222-2 (2) du code de la mutualité ;
 
 6° (Abrogé) ;
 
@@ -307,3 +308,12 @@ les maladies professionnelles des personnes non salariées des professions
 agricoles.
 
 12° (sans objet).
+
+(1) Ces dispositions s'appliquent aux jugements prononcés en application de la
+loi n° 2000-596 du 30 juin 2000 relative à la prestation compensatoire en
+matière de divorce.
+
+(2) Ces dispositions s'appliquent à compter de l'entrée en vigueur des
+dispositions de l'ordonnance n° 2001-350 du 19 avril 2001 (22 avril 2001)
+relative au code de la mutualité et transposant les directives 92/49/CEE et
+92/96/CEE du Conseil des 18 juin et 10 novembre 1992.

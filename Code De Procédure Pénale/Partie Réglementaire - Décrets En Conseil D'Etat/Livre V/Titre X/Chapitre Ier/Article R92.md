@@ -84,4 +84,6 @@ République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
 
 21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue
 à l'article R. 53 ou qu'il a été fait application des dispositions de l'article
-R. 53-6.
+R. 53-6 ;
+
+22° Les indemnités accordées en application de l'article 800-2.

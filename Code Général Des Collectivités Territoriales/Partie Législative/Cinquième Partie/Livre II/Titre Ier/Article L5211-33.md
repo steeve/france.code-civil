@@ -10,13 +10,8 @@ dispositions de l'article 1609 nonies C du code général des impôts ne peuvent
 percevoir une attribution par habitant inférieure à la dotation par habitant
 perçue l'année précédente.
 
-Les sommes nécessaires à l'application du mécanisme de garantie défini ci-dessus
-sont prélevées de 2000 à 2002 sur la dotation d'aménagement mentionnée à
-l'article L. 2334-13 après utilisation, à cet effet, des disponibilités dégagées
-par la mise en oeuvre des dispositions du septième alinéa du présent article.
-
 A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation
-d'intercommunalité dans les conditions prévues au troisième alinéa du I de
+d'intercommunalité dans les conditions prévues au deuxième alinéa du I de
 l'article L. 5211-30.
 
 Les communautés de communes ne faisant pas application des dispositions de

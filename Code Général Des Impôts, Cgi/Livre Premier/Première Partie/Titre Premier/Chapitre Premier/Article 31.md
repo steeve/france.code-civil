@@ -19,9 +19,9 @@ des frais correspondant à des travaux de construction, de reconstruction ou
 d'agrandissement ;
 
 b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et
-commerciaux destinées à faciliter l'accueil des handicapés, à l'exclusion des
-frais correspondant à des travaux de construction, de reconstruction ou
-d'agrandissement ;
+commerciaux destinées à protéger ces locaux des effets de l'amiante ou à
+faciliter l'accueil des handicapés, à l'exclusion des frais correspondant à des
+travaux de construction, de reconstruction ou d'agrandissement ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
 code de l'urbanisme et les zones de protection du patrimoine architectural,
@@ -135,24 +135,54 @@ d'appréciation des loyers et des ressources de l'occupant.
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
-logement ouvrant droit aux dispositions du sixième alinéa, cette allocation est
-versée au bailleur.
+logement ouvrant droit aux dispositions du cinquième alinéa, cette allocation
+est versée au bailleur.
 
-En cas de non-respect de l'un des engagements mentionnés au cinquième alinéa ou
-de cession du logement ou des parts sociales, le supplément de déduction
-forfaitaire fait l'objet d'une reprise au titre de l'année de la rupture de
-l'engagement ou de la cession. En cas d'invalidité correspondant au classement
-dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
-code de la sécurité sociale, de licenciement ou de décès du contribuable ou de
-l'un des époux soumis à imposition commune, cette reprise n'est pas appliquée.
+Le taux de déduction mentionné au premier alinéa est porté à 60 % pendant trois
+ans, pour les revenus tirés de la location des logements qui répondent aux
+normes d'habitabilité définies par décret et qui sont loués par une personne
+physique ou une société non soumise à l'impôt sur les sociétés en vertu d'un
+bail conclu, reconduit ou renouvelé à compter du 1er janvier 2002. Le
+contribuable ou la société propriétaire doit s'engager à louer le logement nu
+pendant une durée de trois ans au moins à des personnes qui en font leur
+habitation principale. Cet engagement prévoit en outre que le loyer et les
+ressources du locataire, constatées à la date à laquelle la location avec ce
+locataire ouvre droit pour la première fois aux dispositions du présent alinéa,
+ne doivent pas excéder des plafonds qui seront fixés par décret à des niveaux
+inférieurs à ceux mentionnés au cinquième alinéa. L'engagement prévoit également
+que la location ne peut pas être conclue avec un membre du foyer fiscal, un
+ascendant ou un descendant du contribuable ou, si le logement est la propriété
+d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un
+membre de son foyer fiscal, un ascendant ou un descendant d'un associé. Les
+associés des sociétés précitées s'engagent à conserver leurs parts pendant au
+moins trois ans. Un contribuable ne peut, pour un même logement ou une même
+souscription de titres, pratiquer la réduction d'impôt mentionnée à l'article
+199 undecies A et bénéficier de la déduction forfaitaire au taux de 60 % prévue
+au présent alinéa.
 
-Tant que la condition de loyer prévue au cinquième alinéa demeure remplie, le
-bénéfice du taux majoré est prorogé par périodes de trois ans, en cas de
-poursuite, de reconduction ou de renouvellement du contrat de location.
+La location du logement consentie à un organisme sans but lucratif qui le met à
+la disposition de personnes défavorisées mentionnées à l'article 1er de la loi
+n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement autres
+qu'un membre du foyer fiscal, un ascendant ou un descendant du contribuable, et
+qui est agréé à cet effet par le représentant de l'Etat dans le département, ne
+fait pas obstacle au bénéfice de la déduction prévue au huitième alinéa ;
+
+En cas de non-respect de l'un des engagements mentionnés au cinquième ou au
+huitième alinéa ou de cession du logement ou des parts sociales, le supplément
+de déduction forfaitaire fait l'objet d'une reprise au titre de l'année de la
+rupture de l'engagement ou de la cession. En cas d'invalidité correspondant au
+classement dans la deuxième ou la troisième des catégories prévues à l'article
+L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du
+contribuable ou de l'un des époux soumis à imposition commune, cette reprise
+n'est pas appliquée.
+
+Tant que la condition de loyer prévue au cinquième ou au huitième alinéa demeure
+remplie, le bénéfice du taux majoré est prorogé par périodes de trois ans, en
+cas de poursuite, de reconduction ou de renouvellement du contrat de location.
 
 Sous réserve que les conditions de loyer et de ressources du nouveau locataire
-prévues au cinquième alinéa soient remplies, le taux majoré demeure également
-applicable en cas de changement de titulaire du bail.
+prévues au cinquième ou au huitième alinéa soient remplies, le taux majoré
+demeure également applicable en cas de changement de titulaire du bail.
 
 Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à
 6 % pour les revenus des neuf premières années de location des logements ouvrant
@@ -300,8 +330,8 @@ non-respect des conditions de location ou de cession du logement, les déduction
 pratiquées pendant l'ensemble de la période triennale sont remises en cause dans
 les conditions de droit commun. A l'issue de cette période, et sous réserve que
 les conditions de loyer et de ressources prévues au e soient remplies, le
-propriétaire peut bénéficier de la déduction forfaitaire majorée au taux de 25
-%, qu'il y ait ou non changement de titulaire du bail.
+propriétaire peut bénéficier de la déduction forfaitaire majorée au taux de 25 %
+ou de 60 %, qu'il y ait ou non changement de titulaire du bail.
 
 La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
@@ -330,8 +360,8 @@ location ou de cession du logement, les déductions pratiquées pendant l'ensemb
 de la période triennale sont remises en cause dans les conditions de droit
 commun. A l'issue de cette période, et sous réserve que les conditions de loyer
 et de ressources prévues au e soient remplies, le propriétaire peut bénéficier
-de la déduction forfaitaire majorée au taux de 25 %, qu'il y ait ou non
-changement de titulaire du bail ;
+de la déduction forfaitaire majorée au taux de 25 % ou de 60 %, qu'il y ait ou
+non changement de titulaire du bail ;
 
 2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
 l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
@@ -370,7 +400,7 @@ ne s'applique pas.
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux
 articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un
-logement ouvrant droit aux dispositions du huitième alinéa, cette allocation est
+logement ouvrant droit aux dispositions du présent g, cette allocation est
 versée au bailleur.
 
 Pour un même logement, les dispositions du présent g sont exclusives de
