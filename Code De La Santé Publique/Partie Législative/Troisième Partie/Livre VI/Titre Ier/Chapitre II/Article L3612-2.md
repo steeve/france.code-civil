@@ -34,11 +34,11 @@ français désigné par son président ;
 - une personnalité désignée par le président du Comité consultatif national
 d'éthique pour les sciences de la vie et de la santé.
 
-Le mandat des membres du conseil est de six ans. Il n'est ni révocable ni
-renouvelable. Il n'est pas interrompu par les règles concernant la limite d'âge
-éventuellement applicables aux intéressés. Un membre, dont l'empêchement est
-constaté par le conseil statuant à la majorité des deux tiers de ses membres,
-est déclaré démissionnaire d'office.
+Le mandat des membres du conseil est de six ans. Il n'est pas révocable et peut
+être renouvelé une fois. Il n'est pas interrompu par les règles concernant la
+limite d'âge éventuellement applicables aux intéressés. Un membre, dont
+l'empêchement est constaté par le conseil statuant à la majorité des deux tiers
+de ses membres, est déclaré démissionnaire d'office.
 
 Les membres du conseil prêtent serment dans des conditions fixées par décret.
 

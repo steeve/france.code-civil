@@ -5,7 +5,7 @@ une personne physique, une ou plusieurs des peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire,
 cette suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle ;
+professionnelle sauf si le règlement exclut expressément cette limitation ;
 
 2° L'interdiction de détenir ou de porter, pour une durée de trois ans au plus,
 une arme soumise à autorisation ;
@@ -17,4 +17,11 @@ ou dont il a la libre disposition ;
 délivrance d'un nouveau permis pendant trois ans au plus ;
 
 5° La confiscation de la chose qui a servi ou était destinée à commettre
-l'infraction ou de la chose qui en est le produit.
+l'infraction ou de la chose qui en est le produit ;
+
+6° L'interdiction de conduire certains véhicules terrestres à moteur, y compris
+ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
+durée de trois ans au plus ;
+
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
+sécurité routière.

@@ -18,8 +18,7 @@ autorisations de stationnement, donnant droit à l'usage de ces emplacements sur
 le territoire communal, aux personnes titulaires de la carte Station debout
 pénible prévue à l'article L. 241-3-1 du même code. Le stationnement sans
 autorisation d'un véhicule sur ces emplacements réservés est considéré comme
-gênant et constitue une infraction au sens de l'article R. 417-10 du code de la
-route.
+gênant.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

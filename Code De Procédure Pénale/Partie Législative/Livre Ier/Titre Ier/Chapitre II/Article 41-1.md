@@ -10,7 +10,10 @@ ou par délégation :
 la loi ;
 
 2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou
-professionnelle ;
+professionnelle en cas d'infraction commise à l'occasion de la conduite d'un
+véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement,
+par l'auteur des faits, à ses frais, d'un stage de sensibilisation à la sécurité
+routière ;
 
 3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi
 ou des règlements ;

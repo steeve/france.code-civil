@@ -3,8 +3,10 @@ Article L121-3
 Par dérogation aux dispositions de l'article L. 121-1, le titulaire du
 certificat d'immatriculation du véhicule est redevable pécuniairement de
 l'amende encourue pour des contraventions à la réglementation sur les vitesses
-maximales autorisées et sur les signalisations imposant l'arrêt des véhicules, à
-moins qu'il n'établisse l'existence d'un vol ou de tout autre événement de force
+maximales autorisées, sur le respect des distances de sécurité entre les
+véhicules, sur l'usage de voies et chaussées réservées à certaines catégories de
+véhicules et sur les signalisations imposant l'arrêt des véhicules, à moins
+qu'il n'établisse l'existence d'un vol ou de tout autre événement de force
 majeure ou qu'il n'apporte tous éléments permettant d'établir qu'il n'est pas
 l'auteur véritable de l'infraction.
 

@@ -20,4 +20,4 @@ relative à l'enfance délinquante ;
 131-25 du code pénal.
 
 III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre
-de points initial du permis de conduire.
+maximal de points du permis de conduire.

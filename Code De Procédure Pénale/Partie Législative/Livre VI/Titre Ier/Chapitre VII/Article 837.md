@@ -16,7 +16,7 @@ conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du cod
 pénal ;
 
 3° Les délits prévus par les dispositions applicables localement en matière de
-coordination des transports ;
+réglementations relatives aux transports terrestres ;
 
 4° Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à
 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°),
@@ -56,7 +56,7 @@ conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du cod
 pénal ;
 
 3° Les délits prévus par les dispositions applicables localement en matière de
-coordination des transports ;
+réglementations relatives aux transports terrestres ;
 
 4° Les délits prévus par les dispositions applicables localement en matière de
 chasse, de pêche, de protection de la faune et de la flore et en matière de

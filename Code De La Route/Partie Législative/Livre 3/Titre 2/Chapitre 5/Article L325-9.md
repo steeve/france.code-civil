@@ -11,3 +11,9 @@ de deux ans. A l'expiration de ce délai, ce produit est acquis à l'Etat.
 Lorsque le produit de la vente est inférieur au montant des frais visés
 ci-dessus, le propriétaire ou ses ayants droit restent débiteurs de la
 différence. Celle-ci est recouvrée dans les conditions fixées par décret.
+
+Le montant des redevances pour frais de fourrière est fixé par arrêté et tient
+compte des difficultés de mise en oeuvre des opérations d'enlèvement et de garde
+liées à l'importance des communes dans lesquelles ces opérations sont effectuées
+et à l'existence des problèmes de circulation et de stationnement que
+connaissent ces communes.

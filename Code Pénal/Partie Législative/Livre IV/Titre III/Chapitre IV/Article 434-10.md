@@ -7,4 +7,5 @@ qu'il peut avoir encourue, est puni de deux ans d'emprisonnement et de 30000
 euros d'amende.
 
 Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines
-prévues par ces articles sont portées au double.
+prévues par ces articles sont portées au double hors les cas prévus par les
+articles 221-6-1, 222-19-1 et 222-20-1.

@@ -5,7 +5,10 @@ privatives ou restrictives de droits suivantes peuvent être prononcées :
 
 1° La suspension, pour une durée d'un an au plus, du permis de conduire, cette
 suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle ;
+professionnelle ; cette limitation n'est toutefois pas possible en cas de
+contravention pour laquelle la suspension du permis de conduire, encourue à
+titre de peine complémentaire, ne peut pas être limitée à la conduite en dehors
+de l'activité professionnelle ;
 
 2° L'immobilisation, pour une durée de six mois au plus, d'un ou de plusieurs
 véhicules appartenant au condamné ;

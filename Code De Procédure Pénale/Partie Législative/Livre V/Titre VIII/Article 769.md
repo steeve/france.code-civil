@@ -44,7 +44,9 @@ et 133-14 du code pénal calculés à compter du jour où les condamnations doiv
 jour où la condamnation est devenue définitive ;
 
 5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans
-à compter du jour où ces condamnations sont devenues définitives ;
+à compter du jour où ces condamnations sont devenues définitives ; ce délai est
+porté à quatre ans lorsqu'il s'agit d'une contravention dont la récidive
+constitue un délit ;
 
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de
 trois ans à compter du jour où l'exécution de la mesure a été constatée, si la

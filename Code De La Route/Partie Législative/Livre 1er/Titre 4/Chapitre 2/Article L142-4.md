@@ -1,7 +1,7 @@
 Article L142-4
 ----
-Pour l'application dans la collectivité territoriale de Mayotte du 9° de
-l'article L. 130-4, les agents verbalisateurs compétents sont :
+Pour l'application à Mayotte du 9° de l'article L. 130-4, les agents
+verbalisateurs compétents sont :
 
 1° Sur les voies de toutes catégories :
 
@@ -14,6 +14,6 @@ b) Les agents de police municipale ;
 a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics
 de l'Etat, assermentés ;
 
-b) Les techniciens des travaux publics de l'Etat, les contrôleurs principaux de
+b) Les techniciens des travaux publics de l'Etat, les contrôleurs principaux des
 travaux publics de l'Etat et les agents des travaux publics de l'Etat, quand ils
 sont commissionnés et assermentés à cet effet.

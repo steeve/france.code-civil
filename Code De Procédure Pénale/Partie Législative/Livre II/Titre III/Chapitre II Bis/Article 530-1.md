@@ -13,3 +13,10 @@ l'amende ou de l'indemnité forfaitaire dans les cas prévus par le premier alin
 de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure
 au montant de l'amende forfaitaire majorée dans les cas prévus par le second
 alinéa de l'article 529-2 et le second alinéa de l'article 529-5.
+
+Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de
+relaxe, s'il a été procédé à la consignation prévue par cet article, le montant
+de la consignation est reversé, à sa demande, à la personne à qui avait été
+adressé l'avis de paiement de l'amende forfaitaire ou ayant fait l'objet des
+poursuites. En cas de condamnation, l'amende prononcée ne peut être inférieure
+au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %.

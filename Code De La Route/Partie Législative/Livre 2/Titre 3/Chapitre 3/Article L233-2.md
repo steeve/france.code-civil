@@ -1,10 +1,10 @@
 Article L233-2
 ----
-I. - Le fait pour tout conducteur de refuser de se soumettre à toutes
+I.-Le fait pour tout conducteur de refuser de se soumettre à toutes
 vérifications prescrites concernant son véhicule ou sa personne est puni de
 trois mois d'emprisonnement et de 3 750 euros d'amende.
 
-II. - Toute personne coupable de ce délit encourt également les peines
+II.-Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire,
@@ -19,5 +19,5 @@ relative à l'enfance délinquante ;
 3° La peine de jours-amende, dans les conditions fixées aux articles 131-5 et
 131-25 du code pénal.
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre
-de points initial du permis de conduire.
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre
+maximal de points du permis de conduire.
