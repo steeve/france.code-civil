@@ -4,14 +4,13 @@ L'assemblée générale ordinaire est réunie au moins une fois par an, dans les
 mois de la clôture de l'exercice, sous réserve de prolongation de ce délai par
 décision de justice.
 
-Après lecture de son rapport, le conseil d'administration ou le directoire,
-selon le cas, présente à l'assemblée les comptes annuels et le cas échéant, les
-comptes consolidés. En outre, les commissaires aux comptes relatent, dans leur
-rapport, l'accomplissement de la mission qui leur est dévolue par l'article L.
-225-235.
+Le conseil d'administration ou le directoire présente à l'assemblée son rapport
+ainsi que les comptes annuels et, le cas échéant, les comptes consolidés. En
+outre, les commissaires aux comptes relatent, dans leur rapport,
+l'accomplissement de la mission qui leur est dévolue par l'article L. 225-235.
 
 L'assemblée délibère et statue sur toutes les questions relatives aux comptes
-annuels de l'exercice écoulé.
+annuels et, le cas échéant, aux comptes consolidés de l'exercice écoulé.
 
 Elle exerce les pouvoirs qui lui sont attribués notamment par l'article L.
 225-18, le quatrième alinéa de l'article L. 225-24, le troisième alinéa de

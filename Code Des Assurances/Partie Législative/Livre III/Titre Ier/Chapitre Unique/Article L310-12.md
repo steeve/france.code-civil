@@ -41,6 +41,11 @@ périodicité et le contenu des informations et des documents que les entreprise
 mentionnées au présent alinéa sont tenues de communiquer périodiquement à la
 commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
+La commission s'assure également que les dispositions du titre VI du livre V du
+code monétaire et financier sont appliquées par les entreprises mentionnées à
+l'article L. 310-1 ainsi que par les personnes physiques ou morales mentionnées
+au cinquième alinéa et soumises à son contrôle.
+
 Le mandat des membres de la présente commission à la date de publication de la
 loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite est prolongé
 jusqu'au 31 décembre 2000.

@@ -7,7 +7,8 @@ du Conseil national des assurances, prend en compte :
 - les moyens techniques et financiers dont la mise en oeuvre est proposée et
 leur adéquation au programme d'activité de l'entreprise ;
 
-- l'honorabilité et la qualification des personnes chargées de la conduire ;
+- l'honorabilité, la compétence et l'expérience des personnes chargées de la
+conduire, appréciées dans les conditions définies à l'article L. 322-2 ;
 
 - la répartition de son capital et la qualité des actionnaires ou, pour les
 sociétés mentionnées à l'article L. 322-26-1, les modalités de constitution du
@@ -26,3 +27,6 @@ La liste des documents à produire à l'appui d'une demande d'agrément présent
 conformément aux dispositions des articles L. 321-1, L. 321-7, L. 321-8 et L.
 321-9 du code des assurances est, pour chaque type d'agrément, fixée par arrêté
 du ministre de l'économie et des finances.
+
+L'octroi de l'agrément peut être subordonné au respect d'engagements souscrits
+par l'entreprise requérante.

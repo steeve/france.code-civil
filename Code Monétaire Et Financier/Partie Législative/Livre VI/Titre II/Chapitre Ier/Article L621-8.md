@@ -14,4 +14,6 @@ commission des opérations de bourse, la commission appose également un visa
 préalable quand une personne physique ou morale fait une offre publique
 d'acquisition de titres de capital ou de titres de créance d'un émetteur faisant
 appel public à l'épargne ou lorsqu'une société faisant appel public à l'épargne
-procède à l'achat de ses propres titres de capital.
+procède à l'achat de ses propres titres de capital. La note sur laquelle la
+commission appose un visa préalable contient les orientations en matière
+d'emploi de la personne physique ou morale qui effectue l'offre publique.

@@ -17,6 +17,8 @@ services, à l'exclusion des escomptes non prévus sur la facture.
 
 La facture mentionne également la date à laquelle le règlement doit intervenir.
 Elle précise les conditions d'escompte applicables en cas de paiement à une date
-antérieure à celle résultant de l'application des conditions générales de vente.
-Le règlement est réputé réalisé à la date à laquelle les fonds sont mis, par le
-client, à la disposition du bénéficiaire ou de son subrogé.
+antérieure à celle résultant de l'application des conditions générales de vente
+ainsi que le taux des pénalités exigibles le jour suivant la date de règlement
+inscrite sur la facture. Le règlement est réputé réalisé à la date à laquelle
+les fonds sont mis, par le client, à la disposition du bénéficiaire ou de son
+subrogé.

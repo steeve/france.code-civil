@@ -6,14 +6,20 @@ pour une activité professionnelle qui en fait la demande son barème de prix et
 ses conditions de vente. Celles-ci comprennent les conditions de règlement et,
 le cas échéant, les rabais et ristournes.
 
-Les conditions de règlement doivent obligatoirement préciser les modalités de
-calcul et les conditions dans lesquelles des pénalités sont appliquées dans le
-cas où les sommes dues sont versées après la date de paiement figurant sur la
-facture, lorsque le versement intervient au-delà du délai fixé par les
-conditions générales de vente.
+Sauf dispositions contraires figurant aux conditions de vente ou convenues entre
+les parties, le délai de règlement des sommes dues est fixé au trentième jour
+suivant la date de réception des marchandises ou d'exécution de la prestation
+demandée.
 
-Ces pénalités sont d'un montant au moins équivalent à celui qui résulterait de
-l'application d'un taux égal à une fois et demie le taux de l'intérêt légal.
+Les conditions de règlement doivent obligatoirement préciser les conditions
+d'application et le taux d'intérêt des pénalités de retard exigibles le jour
+suivant la date de règlement figurant sur la facture dans le cas où les sommes
+dues sont réglées après cette date. Sauf disposition contraire qui ne peut
+toutefois fixer un taux inférieur à une fois et demie le taux d'intérêt légal,
+ce taux est égal au taux d'intérêt appliqué par la Banque centrale européenne à
+son opération de refinancement la plus récente majoré de 7 points de
+pourcentage. Les pénalités de retard sont exigibles sans qu'un rappel soit
+nécessaire.
 
 La communication prévue au premier alinéa s'effectue par tout moyen conforme aux
 usages de la profession.

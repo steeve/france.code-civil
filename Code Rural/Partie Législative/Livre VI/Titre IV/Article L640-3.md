@@ -1,6 +1,7 @@
 Article L640-3
 ----
-Le fonds de valorisation et de communication est destiné à valoriser les
-spécificités et les savoir-faire de l'agriculture et à communiquer sur ses
-métiers et ses terroirs. Un décret en Conseil d'Etat précise les modalités
-d'application de ces dispositions.
+Un décret définit les modes de production raisonnés en agriculture et précise
+les modalités de qualification des exploitations et de contrôle applicables,
+ainsi que les conditions d'agrément des organismes chargés de la mise en oeuvre.
+Il détermine également les conditions d'utilisation du qualificatif
+d'"agriculture raisonnée" ou de toute autre dénomination équivalente.

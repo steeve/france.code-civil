@@ -24,6 +24,11 @@ d'investissement ;
 6. Dispose d'un programme d'activité approuvé pour chacun des métiers qu'elle
 entend exercer.
 
+Le comité peut assortir l'agrément de conditions particulières visant à
+préserver l'équilibre de la structure financière de l'entreprise. Le comité peut
+également subordonner l'octroi de l'agrément au respect d'engagements souscrits
+par l'entreprise requérante.
+
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de
 surveillance de l'entreprise requérante est susceptible d'être entravé soit par
 l'existence de liens de capital ou de contrôle directs ou indirects entre

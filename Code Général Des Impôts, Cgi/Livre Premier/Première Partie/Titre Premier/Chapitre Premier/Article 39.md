@@ -77,7 +77,7 @@ dispositions de l'article 39 B.
 
 Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des
 déductions prévues à l'article 271 sur la comptabilisation et l'amortissement
-des biens ;
+des biens;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou
 mettent à la disposition de la société, en sus de leur part du capital, quelle
@@ -256,9 +256,9 @@ l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est
 comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de
 l'article 39 quindecies. La provision pour dépréciation constituée
 antérieurement, le cas échéant, sur des titres prêtés dans les conditions
-prévues à l'article L. 432-6 du code monétaire et financier n'est pas réintégrée
-; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée
-jusqu'à la restitution de ces titres.
+prévues au chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne
+n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et
+demeurer inchangée jusqu'à la restitution de ces titres.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres
 de participation ne peuvent faire l'objet d'une provision que s'il est justifié
@@ -273,15 +273,16 @@ exercices ultérieurs à concurrence du montant des provisions de même nature
 constituées à la clôture de chacun de ces exercices ou, le cas échéant, aux
 résultats de l'exercice de cession.
 
-La dépréciation de titres prêtés dans les conditions prévues à l'article L.
-432-6 du code monétaire et financier ne peut donner lieu, de la part du prêteur
-ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne
-peut constituer de provision pour dépréciation de la créance représentative de
-ces titres ;
+La dépréciation de titres prêtés dans les conditions du chapitre V modifié de la
+loi n° 87-416 du 17 juin 1987 sur l'épargne ne peut donner lieu, de la part du
+prêteur ou de l'emprunteur, à la constitution d'une provision. De même le
+prêteur ne peut constituer de provision pour dépréciation de la créance
+représentative de ces titres ;
 
 La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension
-dans les conditions prévues par les articles L. 432-12 à L. 432-19 du code
-monétaire et financier , ne peut donner lieu, de la part du cessionnaire, à la
+dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant
+diverses dispositions relatives à la Banque de France, à l'assurance, au crédit
+et aux marchés financiers, ne peut donner lieu, de la part du cessionnaire, à la
 constitution d'une provision déductible sur le plan fiscal.
 
 Par exception aux dispositions du quatorzième alinéa qui précède, la provision
@@ -460,12 +461,13 @@ la détermination du résultat imposable lorsqu'elles sont supportées par l'Eta
 du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
 8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments
-incorporels non amortissables est loué dans les conditions prévues au 3 de
-l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise
-en compte pour la fixation du prix de vente convenu pour l'acceptation de la
-promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt
-sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement
-dans le contrat de crédit-bail.
+incorporels non amortissables est loué dans les conditions prévues au 3° de
+l'article 1er de la loi n° 66-455 du 2 juillet 1966 modifiée relative aux
+entreprises pratiquant le crédit-bail, la quote-part de loyers prise en compte
+pour la fixation du prix de vente convenu pour l'acceptation de la promesse
+unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les
+bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le
+contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives.
@@ -485,11 +487,12 @@ indemnités.
 
 Un décret fixe les modalités d'application du présent 9.
 
-10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L.
-313-7 du code monétaire et financier, la quote-part de loyers prise en compte
-pour la détermination du prix de cession de l'immeuble à l'issue du contrat et
-se rapportant à des éléments non amortissables n'est pas déductible du résultat
-imposable du crédit-preneur.
+10. Si un immeuble est loué dans les conditions prévues au 2° de l'article 1er
+de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
+crédit-bail, la quote-part de loyers prise en compte pour la détermination du
+prix de cession de l'immeuble à l'issue du contrat et se rapportant à des
+éléments non amortissables n'est pas déductible du résultat imposable du
+crédit-preneur.
 
 Toutefois, pour les opérations concernant les immeubles achevés après le 31
 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le

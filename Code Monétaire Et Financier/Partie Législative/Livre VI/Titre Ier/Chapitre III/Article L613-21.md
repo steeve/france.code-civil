@@ -4,11 +4,12 @@ I. - Si un établissement de crédit, ou une des personnes mentionnées au premi
 alinéa de l'article L. 613-2 a enfreint une disposition législative ou
 réglementaire afférente à son activité, n'a pas répondu à une recommandation ou
 n'a pas tenu compte d'une mise en garde ou encore n'a pas respecté les
-engagements pris à l'occasion d'une demande d'agrément ou d'une autorisation ou
-dérogation prévue par les dispositions législatives ou réglementaires
-applicables aux établissements de crédit et aux entreprises d'investissement, la
-commission bancaire, sous réserve des compétences du conseil des marchés
-financiers, peut prononcer l'une des sanctions disciplinaires suivantes :
+conditions particulières posées ou les engagements pris à l'occasion d'une
+demande d'agrément ou d'une autorisation ou dérogation prévue par les
+dispositions législatives ou réglementaires applicables aux établissements de
+crédit et aux entreprises d'investissement, la commission bancaire, sous réserve
+des compétences du conseil des marchés financiers, peut prononcer l'une des
+sanctions disciplinaires suivantes :
 
 1. L'avertissement ;
 

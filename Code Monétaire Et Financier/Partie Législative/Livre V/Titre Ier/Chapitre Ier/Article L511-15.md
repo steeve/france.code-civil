@@ -1,9 +1,10 @@
 Article L511-15
 ----
-Le retrait d'agrément est prononcé par le comité des établissements de crédit et
-des entreprises d'investissement, soit à la demande de l'établissement de
-crédit, soit d'office, lorsque l'établissement ne remplit plus les conditions
-auxquelles l'agrément est subordonné, lorsqu'il n'a pas fait usage de son
+Le retrait d'agrément est prononcé par le Comité des établissements de crédit et
+des entreprises d'investissement à la demande de l'établissement. Il peut aussi
+être décidé d'office par le comité si l'établissement ne remplit plus les
+conditions ou les engagements auxquels était subordonné son agrément ou une
+autorisation ultérieure, ou si l'établissement n'a pas fait usage de son
 agrément dans un délai de douze mois ou lorsqu'il n'exerce plus son activité
 depuis au moins six mois.
 

@@ -1,12 +1,14 @@
 Article L532-6
 ----
 Le retrait d'agrément d'une entreprise d'investissement autre qu'une société de
-gestion de portefeuille est prononcé par le comité des établissements de crédit
-et des entreprises d'investissement, soit à la demande de l'entreprise
-d'investissement, soit d'office, lorsque l'entreprise ne remplit plus les
-conditions auxquelles l'agrément est subordonné, lorsqu'elle n'a pas fait usage
-de son agrément dans un délai de douze mois ou lorsqu'elle n'exerce plus son
-activité depuis au moins six mois.
+gestion de portefeuille est prononcé par le Comité des établissements de crédit
+et des entreprises d'investissement à la demande de l'entreprise
+d'investissement. Il peut aussi être décidé d'office par le comité si
+l'entreprise d'investissement ne remplit plus les conditions ou les engagements
+auxquels étaient subordonnés son agrément ou une autorisation ultérieure, ou si
+l'entreprise d'investissement n'a pas fait usage de son agrément dans un délai
+de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six
+mois.
 
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est
 déterminée par le comité des établissements de crédit et des entreprises
