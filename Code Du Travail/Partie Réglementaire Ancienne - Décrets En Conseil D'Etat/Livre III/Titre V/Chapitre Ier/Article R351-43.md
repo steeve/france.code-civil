@@ -1,31 +1,22 @@
 Article R351-43
 ----
-I. La demande tendant à obtenir l'aide instituée par l'article L. 351-24 doit
-être adressée au commissaire de la République du département [*autorité
-compétente*] par pli recommandé avec demande d'avis de réception postal
-[*condition de forme*].
+Pour l'application des dispositions de l'article L. 351-24, sont considérés
+comme remplissant la condition de contrôle effectif de l'entreprise créée ou
+reprise lorsqu'elle est constituée sous la forme de société :
 
-Elle doit être préalable à la création ou à la reprise de l'entreprise ou à
-l'exercice de la nouvelle activité.
+1° Le demandeur du bénéfice de ces dispositions qui détient, personnellement ou
+avec son conjoint, ses ascendants et descendants, plus de la moitié du capital
+de la société, sans que sa part personnelle puisse être inférieure à 35 % de
+celui-ci ;
 
-La demande doit être accompagnée d'un dossier permettant d'apprécier la réalité
-et la consistance du projet de création ou de reprise de l'entreprise ou
-d'exercice de la nouvelle activité ; ce dossier doit comporter des indications
-précises sur le contenu du projet, les conditions d'acquisition des actifs, les
-apports de fonds propres et les concours financiers nécessaires pour assurer
-l'exploitation de l'entreprise ainsi que sur les conditions de l'exercice
-effectif du contrôle de celle-ci.
+2° Le demandeur qui a la qualité de dirigeant de la société et qui détient,
+personnellement ou avec son conjoint, ses ascendants et descendants, au moins un
+tiers du capital de celle-ci, sans que sa part personnelle puisse être
+inférieure à 25 % et sous réserve qu'un autre actionnaire ou porteur de parts ne
+détienne pas directement ou indirectement plus de la moitié du capital ;
 
-Le dossier doit comporter la justification de l'appartenance du demandeur de
-l'aide à l'une des catégories mentionnées à l'article R. 351-41.
-
-Un arrêté du ministre chargé de l'emploi.
-
-II. Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet
-en l'état. Cette décision fait connaître au demandeur la liste des pièces
-manquantes ou incomplètes.
-
-L'envoi au préfet du complément de dossier, par pli recommandé avec demande
-d'avis de réception postal, ou son dépôt contre remise d'un accusé de réception,
-fait courir de nouveau le délai de trois mois mentionné au quatrième alinéa de
-l'article L. 351-24.
+3° Les demandeurs qui détiennent ensemble plus de la moitié du capital de la
+société, à condition qu'un ou plusieurs d'entre eux aient la qualité de
+dirigeant et que chaque demandeur détienne une part de capital égale à un
+dixième au moins de la part détenue par le principal actionnaire ou porteur de
+parts.
