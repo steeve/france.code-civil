@@ -1,51 +1,21 @@
 Article R832-2
 ----
-L'allocation de logement est accordée si le local occupé par le demandeur est
-d'une superficie habitable d'au moins 9 mètres carrés pour une personne seule et
-de 7 mètres carrés par personne en plus.
+La condition de superficie prévue au premier alinéa de l'article R. 831-13-1 est
+réputée remplie en ce qui concerne les personnes qui occupent un logement
+aménagé de manière à constituer une unité d'habitation autonome et situé dans un
+foyer doté de services collectifs.
 
-Lorsque la condition de superficie n'est pas remplie au moment de la demande,
-l'allocation de logement peut être accordée, à titre exceptionnel, par décision
-de la caisse d'allocations familiales ou de la caisse de mutualité sociale
-agricole concernée. Le conseil d'administration de l'organisme débiteur est
-informé de la décision prise.
-
-Au moment du renouvellement des droits, l'allocation de logement peut être
-accordée à titre exceptionnel, pour une période de deux ans renouvelable une
-fois, et sous le contrôle du juge, par décision du conseil d'administration de
-la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole
-concernée et, lorsque le demandeur appartient aux catégories mentionnées à
-l'article 8 du décret n° 71-612 du 15 juillet 1971, par décision de l'organisme
-débiteur, sur avis favorable d'une commission dont la composition et le
-fonctionnement sont fixés par arrêté interministériel.
-
-Cette dérogation peut être prolongée dans les mêmes conditions par période de
-deux ans renouvelable, après enquête sociale et au vu d'une attestation motivée
-du commissaire de la République certifiant que l'allocataire ne peut être logé
-conformément aux conditions fixées au premier alinéa du présent article sauf si
-le local est loué ou sous-loué à une personne hébergée en application de la loi
-n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur
-domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
-
-L'allocation de logement n'est pas due si le local est loué ou sous-loué en
-partie à des tiers.
-
-La condition de superficie prévue au premier alinéa est réputée remplie en ce
-qui concerne les personnes qui occupent un logement aménagé de manière à
-constituer une unité d'habitation autonome et situé dans un foyer doté de
-services collectifs.
-
-Les dispositions des deuxième, troisième et quatrième alinéas ne sont pas
-applicables aux personnes résidant dans une maison de retraite ou hébergées dans
-les unités et centres de long séjour relevant de la loi n° 70-1318 du 31
-décembre 1970 portant réforme hospitalière, celles-ci doivent disposer d'une
-chambre d'au moins 9 mètres carrés pour une personne seule et de 16 mètres
-carrés pour deux personnes. Le droit à l'allocation de logement n'est pas ouvert
-si la chambre est occupée par plus de deux personnes. Les personnes ou les
-ménages bénéficiaires de l'allocation de logement et qui s'en trouveraient
-exclus par application des présentes normes continueront à en bénéficier, pour
-le même local, dans la limite des dérogations qui leur avaient été accordées
-avant le 1er juillet 1978.
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article R.
+831-13-1 ne sont pas applicables aux personnes résidant dans une maison de
+retraite ou hébergées dans les unités et centres de long séjour relevant de la
+loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière, celles-ci
+doivent disposer d'une chambre d'au moins 9 mètres carrés pour une personne
+seule et de 16 mètres carrés pour deux personnes. Le droit à l'allocation de
+logement n'est pas ouvert si la chambre est occupée par plus de deux personnes.
+Les personnes ou les ménages bénéficiaires de l'allocation de logement et qui
+s'en trouveraient exclus par application des présentes normes continueront à en
+bénéficier, pour le même local, dans la limite des dérogations qui leur avaient
+été accordées avant le 1er juillet 1978.
 
 Les caractéristiques des locaux affectés aux personnes hébergées en application
 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des
