@@ -1,10 +1,8 @@
 Article R*137
 ----
-Tout conseiller ou groupe de conseillers municipaux peut présenter une liste de
-candidats comprenant un nombre de noms inférieur ou égal au total des délégués
-titulaires et suppléants à élire ; ces listes de candidats doivent être déposées
-sur le bureau du conseil municipal avant l'ouverture de la séance réservée à
-l'élection des délégués et suppléants.
+Dans les communes de 3 500 habitants et plus, les listes de candidats doivent
+être déposées auprès du bureau électoral prévu à l'article R. 133 avant
+l'ouverture du scrutin en vue de l'élection des délégués et des suppléants.
 
 Les listes de candidats ainsi déposées doivent indiquer :
 

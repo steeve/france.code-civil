@@ -37,9 +37,8 @@ qu'il devait être inscrit au rôle des contributions directes dans le départem
 au 1er janvier de l'année de l'élection.
 
 En outre, s'il n'est pas maire, conseiller général, conseiller régional, député
-ou sénateur, le candidat doit produire un titre d'identité ou, à défaut, une
-fiche d'état civil établissant qu'il aura vingt et un ans révolus le jour de
-l'élection.
+ou sénateur, le candidat doit produire un titre d'identité établissant qu'il
+aura dix-huit ans révolus le jour de l'élection.
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que
 l'éligibilité du candidat puisse être contestée devant le juge de l'élection.
