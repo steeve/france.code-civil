@@ -1,9 +1,9 @@
 Article 744
 ----
-On ne représente pas les personnes vivantes, mais seulement celles qui sont
-mortes.
+Dans chaque ordre, l'héritier le plus proche exclut l'héritier plus éloigné en
+degré.
 
-On peut représenter celui à la succession duquel on a renoncé.
+A égalité de degré, les héritiers succèdent par égale portion et par tête.
 
-La loi ne distingue pas, pour l'exercice de la représentation, entre la
-filiation légitime et la filiation naturelle.
+Le tout sauf ce qui sera dit ci-après de la division par branches et de la
+représentation.

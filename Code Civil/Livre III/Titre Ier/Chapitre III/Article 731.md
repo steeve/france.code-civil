@@ -1,5 +1,4 @@
 Article 731
 ----
-Les successions sont déférées aux enfants et descendants du défunt, à ses
-ascendants, à ses parents collatéraux et à son conjoint survivant, dans l'ordre
-et suivant les règles ci-après déterminées.
+La succession est dévolue par la loi aux parents et au conjoint successibles du
+défunt dans les conditions définies ci-après.

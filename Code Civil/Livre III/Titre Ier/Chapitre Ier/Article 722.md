@@ -1,9 +1,6 @@
 Article 722
 ----
-Si ceux qui ont péri ensemble avaient quinze ans accomplis et moins de soixante,
-le mâle est toujours présumé avoir survécu, lorsqu'il y a égalité d'âge, ou si
-la différence qui existe n'excède pas une année.
-
-S'ils étaient du même sexe, la présomption de survie, qui donne ouverture à la
-succession dans l'ordre de la nature doit être admise : ainsi le plus jeune est
-présumé avoir survécu au plus âgé.
+Les conventions qui ont pour objet de créer des droits ou de renoncer à des
+droits sur tout ou partie d'une succession non encore ouverte ou d'un bien en
+dépendant ne produisent effet que dans les cas où elles sont autorisées par la
+loi.

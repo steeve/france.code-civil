@@ -9,3 +9,6 @@ En cas de divorce ou de séparation de corps, ce droit pourra être attribué, e
 considération des intérêts sociaux et familiaux en cause, par la juridiction
 saisie de la demande en divorce ou en séparation de corps, à l'un des époux,
 sous réserve des droits à récompense ou à indemnité au profit de l'autre époux.
+
+En cas de décès d'un des époux, le conjoint survivant cotitulaire du bail
+dispose d'un droit exclusif sur celui-ci sauf s'il y renonce expressément.

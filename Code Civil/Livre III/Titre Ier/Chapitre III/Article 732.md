@@ -1,4 +1,4 @@
 Article 732
 ----
-La loi ne considère ni la nature ni l'origine des biens pour régler la
-succession.
+Est conjoint successible le conjoint survivant non divorcé, contre lequel
+n'existe pas de jugement de séparation de corps ayant force de chose jugée.

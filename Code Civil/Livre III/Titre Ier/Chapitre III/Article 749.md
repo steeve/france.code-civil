@@ -1,7 +1,5 @@
 Article 749
 ----
-Dans le cas où la personne morte sans postérité laisse des frères, soeurs ou des
-descendants d'eux, si le père ou la mère est prédécédé, la portion qui leur
-aurait été dévolue conformément au précédent article se réunit à la moitié
-déférée aux frères, soeurs ou à leurs représentants, ainsi qu'il sera expliqué à
-la section V du présent chapitre.
+Lorsque la succession est dévolue à des collatéraux autres que les frères et
+soeurs ou leurs descendants, elle se divise par moitié entre ceux de la branche
+paternelle et ceux de la branche maternelle.

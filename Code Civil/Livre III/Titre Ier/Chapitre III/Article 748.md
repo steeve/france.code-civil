@@ -1,9 +1,9 @@
 Article 748
 ----
-Lorsque les père et mère d'une personne morte sans postérité lui ont survécu, si
-elle a laissé des frères, soeurs, ou des descendants d'eux, la succession se
-divise en deux portions égales, dont moitié seulement est déférée au père et à
-la mère, qui la partagent entre eux également.
+Dans chaque branche succède, à l'exclusion de tout autre, l'ascendant qui se
+trouve au degré le plus proche.
 
-L'autre moitié appartient aux frères, soeurs ou descendants d'eux, ainsi qu'il
-sera expliqué dans la section V du présent chapitre.
+Les ascendants au même degré succèdent par tête.
+
+A défaut d'ascendant dans une branche, les ascendants de l'autre branche
+recueillent toute la succession.

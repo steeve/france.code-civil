@@ -1,8 +1,9 @@
 Article 738
 ----
-En ligne collatérale, les degrés se comptent par les générations, depuis l'un
-des parents jusques et non compris l'auteur commun, et depuis celui-ci jusqu'à
-l'autre parent.
+Lorsque les père et mère survivent au défunt et que celui-ci n'a pas de
+postérité, mais des frères et soeurs ou des descendants de ces derniers, la
+succession est dévolue, pour un quart, à chacun des père et mère et, pour la
+moitié restante, aux frères et soeurs ou à leurs descendants.
 
-Ainsi, deux frères sont au deuxième degré ; l'oncle et le neveu sont au
-troisième degré ; les cousins germains au quatrième ; ainsi de suite.
+Lorsqu'un seul des père et mère survit, la succession est dévolue pour un quart
+à celui-ci et pour trois quarts aux frères et soeurs ou à leurs descendants.

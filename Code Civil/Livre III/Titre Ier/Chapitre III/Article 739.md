@@ -1,4 +1,4 @@
 Article 739
 ----
-La représentation est une fiction de la loi, dont l'effet est de faire entrer
-les représentants dans la place, dans le degré et dans les droits du représenté.
+A défaut d'héritier des deux premiers ordres, la succession est dévolue aux
+ascendants autres que les père et mère.

@@ -1,6 +1,6 @@
 Article 832-1
 ----
-Par dérogation aux dispositions des alinéas onzième et treizième de l'article
+Par dérogation aux dispositions des alinéas quatorzième et seizième de l'article
 832 et à moins que le maintien de l'indivision ne soit demandé en application
 des articles 815 (deuxième alinéa) et 815-1, l'attribution préférentielle visée
 au troisième alinéa de l'article 832 est de droit pour toute exploitation

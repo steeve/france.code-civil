@@ -1,4 +1,4 @@
 Article 723
 ----
-La loi règle l'ordre de succéder entre les héritiers légitimes, les héritiers
-naturels et le conjoint survivant. A leur défaut, les biens passent à l'Etat.
+Les successeurs universels ou à titre universel sont tenus d'une obligation
+indéfinie aux dettes de la succession.

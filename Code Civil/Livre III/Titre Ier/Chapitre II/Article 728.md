@@ -1,5 +1,7 @@
 Article 728
 ----
-Le défaut de dénonciation ne peut être opposé aux ascendants et descendants du
-meurtrier, ni à ses alliés au même degré, ni à son époux ou à son épouse, ni à
-ses frères ou soeurs, ni à ses oncles et tantes, ni à des neveux et nièces.
+N'est pas exclu de la succession le successible frappé d'une cause d'indignité
+prévue aux articles 726 et 727, lorsque le défunt, postérieurement aux faits et
+à la connaissance qu'il en a eue, a précisé, par une déclaration expresse de
+volonté en la forme testamentaire, qu'il entend le maintenir dans ses droits
+héréditaires ou lui a fait une libéralité universelle ou à titre universel.

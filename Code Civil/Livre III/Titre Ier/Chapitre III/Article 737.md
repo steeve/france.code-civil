@@ -1,6 +1,5 @@
 Article 737
 ----
-En ligne directe, on compte autant de degrés qu'il y a de générations entre les
-personnes : ainsi le fils est, à l'égard du père, au premier degré ; le
-petit-fils, au second ; et réciproquement du père et de l'aïeul à l'égard des
-fils et petits-fils.
+Lorsque les père et mère sont décédés avant le défunt et que celui-ci ne laisse
+pas de postérité, les frères et soeurs du défunt ou leurs descendants lui
+succèdent, à l'exclusion des autres parents, ascendants ou collatéraux.

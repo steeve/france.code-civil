@@ -1,13 +1,6 @@
 Article 759
 ----
-Les enfants naturels dont le père ou la mère était, au temps de leur conception,
-engagé dans les liens du mariage avec une autre personne, n'excluent pas
-celle-ci de la succession de leur auteur, lorsque, à leur défaut, elle y eût été
-appelée par application des articles 765 et 766 ci-dessous.
-
-En pareil cas, ils ne recevront, quel que soit leur nombre, que la moitié de ce
-qui, en leur absence, aurait été dévolu au conjoint selon les articles précités,
-le calcul étant fait ligne par ligne.
-
-La répartition de la succession se fixe d'après l'état des vocations
-héréditaires au jour du décès, nonobstant toutes renonciations ultérieures.
+Tout usufruit appartenant au conjoint sur les biens du prédécédé, qu'il résulte
+de la loi, d'un testament ou d'une donation de biens à venir, donne ouverture à
+une faculté de conversion en rente viagère, à la demande de l'un des héritiers
+nus-propriétaires ou du conjoint successible lui-même.
