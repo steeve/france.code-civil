@@ -1,8 +1,8 @@
 Article R*123-31
 ----
 Le préfet constitue d'office dans chacune des communes désignées en vertu de
-l'article R. 123-30 la commission communale d'aménagement foncier prévue à
-l'article L. 121-3.
+l'article R. 123-30 la commission communale ou intercommunale d'aménagement
+foncier prévue aux articles L. 121-3 à L. 121-5.
 
 Il peut instituer des commissions intercommunales lorsqu'il y a lieu, pour
 plusieurs communes limitrophes, de poursuivre en commun des opérations de

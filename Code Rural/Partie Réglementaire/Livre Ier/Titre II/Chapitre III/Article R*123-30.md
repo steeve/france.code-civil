@@ -12,6 +12,6 @@ décision portant déclaration d'utilité publique.
 Lorsque la réalisation d'un ouvrage à caractère linéaire est envisagée, les
 préfets des départements intéressés désignent, après avis des commissions
 départementales d'aménagement foncier, les communes dans lesquelles il y a lieu
-de consulter les commissions communales d'aménagement foncier en vue de
-l'application des dispositions des articles L. 123-23, L. 123-24 et L. 133-1 à
+de constituer les commissions communales d'aménagement foncier en vue de
+l'application des dispositions des articles L. 123-24 à L. 123-26 et L. 133-1 à
 L. 133-6.
