@@ -16,10 +16,6 @@ procédure de régularisation prévue à l'article L. 68 ;
 le délai légal les déclarations qu'elles sont tenues de souscrire en leur
 qualité de redevables des taxes ;
 
-Les mêmes dispositions s'appliquent en cas d'absence de dépôt dans le délai
-légal des déclarations abrégées prévues à l'article 242 quater de l'annexe II au
-code général des impôts.
-
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont
 pas déposé une déclaration ou qui n'ont pas présenté un acte à la formalité de
 l'enregistrement dans le délai légal, sous réserve de la procédure de
