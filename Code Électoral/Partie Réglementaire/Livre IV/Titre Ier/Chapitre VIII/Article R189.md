@@ -1,4 +1,11 @@
 Article R189
 ----
-Les dispositions des articles R. 107 à R. 109 sont applicables à la composition
-et au fonctionnement de la commission instituée par l'article L. 359.
+La commission départementale de recensement des votes prévue à l'article L. 359
+du code électoral est instituée par arrêté du préfet du département.
+
+Elle comprend trois magistrats, dont le président de la commission, désignés par
+le premier président de la cour d'appel, un conseiller général et un
+fonctionnaire désigné par le préfet.
+
+Un représentant de chacune des listes peut assister aux opérations de la
+commission.
