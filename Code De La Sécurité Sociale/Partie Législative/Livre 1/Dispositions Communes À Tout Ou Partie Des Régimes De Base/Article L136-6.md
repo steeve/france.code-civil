@@ -53,9 +53,7 @@ supporté la contribution prévue à l'article L. 136-1.
 
 III. - La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
-sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit de cette
-contribution est versé à l'Agence centrale des organismes de sécurité sociale
-sans déduction d'une retenue pour frais d'assiette et de perception.
+sûretés, privilèges et sanctions que l'impôt sur le revenu.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.

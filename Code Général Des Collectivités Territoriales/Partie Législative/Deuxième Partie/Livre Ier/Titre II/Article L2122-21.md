@@ -10,7 +10,11 @@ conséquence, tous actes conservatoires de ses droits ;
 2° De gérer les revenus, de surveiller les établissements communaux et la
 comptabilité communale ;
 
-3° De préparer et proposer le budget et ordonnancer les dépenses ;
+3° De préparer et proposer le budget et ordonnancer les dépenses de les imputer
+en section d'investissement conformément à chacune des délibérations expresses
+de l'assemblée pour les dépenses d'équipement afférentes à des biens meubles ne
+figurant pas sur les listes et d'une valeur inférieure à un seuil fixé par
+arrêté des ministres en charge des finances et des collectivités locales ;
 
 4° De diriger les travaux communaux ;
 

@@ -37,3 +37,8 @@ rural ;
 7° Les conditions matérielles dans lesquelles les indications, visées au dernier
 alinéa de l'article L. 213-4, devront être portées à la connaissance des
 acheteurs sur les étiquettes, annonces, réclames, papiers de commerce.
+
+Les décrets prévus au présent article sont pris après avis de l'Agence française
+de sécurité sanitaire des aliments lorsqu'ils portent sur des produits entrant
+dans son champ de compétence ou qu'ils comportent des dispositions visant à
+prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
