@@ -1,14 +1,14 @@
 Article L213-1
 ----
-Les femmes ne peuvent être employées à aucun travail de nuit dans les usines,
-manufactures, mines et carrières, chantiers, ateliers et leurs dépendances, de
-quelque nature que ce soit, publics ou privés, laïques ou religieux, même
-lorsque ces établissements ont un caractère d'enseignement professionnel ou de
-bienfaisance, ainsi que dans les offices publics et ministériels, les
-établissements des professions libérales, des sociétés civiles, des syndicats
-professionnels et des associations de quelque nature que ce soit.
+Le recours au travail de nuit doit être exceptionnel. Il doit prendre en compte
+les impératifs de protection de la sécurité et de la santé des salariés et doit
+être justifié par la nécessité d'assurer la continuité de l'activité économique
+ou des services d'utilité sociale.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables aux femmes qui
-occupent des postes de direction ou de caractère technique et impliquant une
-responsabilité, non plus qu'aux femmes occupées dans les services de l'hygiène
-et du bien être qui n'effectuent pas normalement un travail manuel.
+La mise en place dans une entreprise ou un établissement du travail de nuit au
+sens de l'article L. 213-3 ou son extension à de nouvelles catégories de
+salariés sont subordonnées à la conclusion préalable d'une convention ou d'un
+accord collectif étendu ou d'un accord d'entreprise ou d'établissement.
+
+Cet accord collectif doit comporter les justifications du recours au travail de
+nuit visées au premier alinéa.

@@ -1,10 +1,14 @@
 Article L122-28
 ----
-L'employeur qui décide de licencier un salarié doit notifier le licenciement par
-lettre recommandée avec demande d'avis de réception ou remise en main propre
-contre décharge ; la date de présentation de la lettre recommandée ou, selon le
-cas, la date figurant sur la décharge précitée fixe le point de départ du délai
-congé.
-
 L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre
-de licenciement.
+de licenciement mentionnée à l'article L. 122-27-1.
+
+Lorsque le licenciement est prononcé pour un motif économique, la lettre de
+licenciement doit énoncer les motifs économiques ou de changement technologique
+invoqués par l'employeur. En outre, l'employeur est tenu, à la demande écrite du
+salarié, de lui indiquer par écrit les critères retenus en application de
+l'article L. 320-2.
+
+Lorsque le licenciement est prononcé pour un motif économique, mention doit être
+faite dans la lettre de licenciement de la priorité de réembauchage prévue par
+l'article L. 320-13 et de ses conditions de mise en oeuvre.

@@ -10,5 +10,5 @@ l'interdiction d'exercer, pendant une durée maximale de cinq ans, certaines
 fonctions qu'il énumère soit dans l'entreprise, soit dans une ou plusieurs
 catégories d'entreprises qu'il définit.
 
-La violation de cette interdiction est punie d'une amende de 9000 euros et d'un
-emprisonnement de deux ans ou de l'une de ces peines seulement.
+La violation de cette interdiction est punie d'un an d'emprisonnement et de 9
+000 Euros d'amende ou de l'une de ces peines seulement.

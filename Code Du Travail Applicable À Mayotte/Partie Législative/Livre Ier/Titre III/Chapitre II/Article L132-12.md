@@ -16,3 +16,18 @@ organisations de salariés au moins quinze jours avant la date d'ouverture de la
 négociation. Au cours de cet examen, la partie patronale fournira aux
 organisations syndicales les informations nécessaires pour permettre de négocier
 en toute connaissance de cause.
+
+Les organisations visées au premier alinéa se réunissent pour négocier tous les
+trois ans sur les mesures tendant à assurer l'égalité professionnelle entre les
+femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux
+inégalités constatées. La négociation porte notamment sur les points suivants :
+
+a) Les conditions d'accès à l'emploi, à la formation et à la promotion
+professionnelle ;
+
+b) Les conditions de travail et d'emploi.
+
+La négociation sur l'égalité professionnelle se déroule sur la base d'un rapport
+présentant la situation comparée des hommes et des femmes dans ces domaines et
+sur la base d'indicateurs pertinents, reposant sur des éléments chiffrés, pour
+chaque secteur d'activité.

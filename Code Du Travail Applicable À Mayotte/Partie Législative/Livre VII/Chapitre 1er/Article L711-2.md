@@ -25,4 +25,8 @@ pour définir un projet professionnel et, le cas échéant, de formation ;
 8° La lutte contre l'illettrisme ;
 
 9° Les actions de formation continue relatives à la radioprotection des
-personnes prévues par l'article L. 1333-11 du code de la santé publique.
+personnes prévues par l'article L. 1333-11 du code de la santé publique ;
+
+10° Les actions permettant aux salariés de faire valider les acquis de leurs
+expériences en vue de l'acquisition d'un diplôme ou d'un titre à finalité
+professionnelle en application de l'article L. 335-5 du code de l'éducation.

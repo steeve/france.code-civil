@@ -11,5 +11,6 @@ soit pour l'ensemble des salariés, soit pour certaines catégories seulement,
 sont définies par voie réglementaire.
 
 Le registre du personnel est tenu à la disposition des délégués du personnel et
-des fonctionnaires et agents chargés de veiller à l'application du présent code
-et des agents de la caisse de prévoyance sociale.
+des membres du comité d'entreprise et des fonctionnaires et agents chargés de
+veiller à l'application du présent code et des agents de la caisse de prévoyance
+sociale.

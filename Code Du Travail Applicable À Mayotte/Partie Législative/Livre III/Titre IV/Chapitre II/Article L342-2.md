@@ -1,20 +1,9 @@
 Article L342-2
 ----
-I. - En cas de condamnation pour les faits prévus aux articles L. 330-2 et L.
-330-4, le tribunal peut ordonner, aux frais de la personne condamnée,
-l'affichage du jugement aux portes des établissements de l'entreprise et sa
-publication dans les journaux qu'il désigne. Il peut également prononcer
-l'interdiction de séjour pour une durée de cinq ans au plus.
+Toute infraction aux dispositions de l'article L. 330-5 est punie de cinq ans
+d'emprisonnement et de 15 000 Euros d'amende.
 
-II. - En cas de condamnation pour les faits prévus à l'article L. 330-4, le
-tribunal peut également prononcer la confiscation de tout ou partie des outils,
-machines, matériaux, véhicules, embarcations, navires ou aéronefs utilisés ou
-stockés à l'occasion de l'infraction ou qui auront servi à la commettre, ainsi
-que du produit du travail effectué par les étrangers dépourvus de l'autorisation
-visée à l'article L. 330-1. Le tribunal devra désigner les objets sur lesquels
-portera la confiscation.
+Ces peines sont portées à dix ans d'emprisonnement et à 100 000 Euros d'amende
+lorsque l'infraction est commise en bande organisée.
 
-III. - Il peut également prononcer, pour les personnes condamnées au titre de
-l'infraction visée au deuxième alinéa du I de l'article L. 342-1, la
-confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature,
-meubles ou immeubles, divis ou indivis.
+L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.

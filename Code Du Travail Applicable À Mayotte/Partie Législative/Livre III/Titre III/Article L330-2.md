@@ -1,5 +1,7 @@
 Article L330-2
 ----
-Dans la collectivité départementale de Mayotte, il est interdit à toute personne
-d'engager ou de conserver à son service un étranger non muni d'une autorisation
-de travail délivrée par le représentant de l'Etat.
+Pour entrer à Mayotte en vue d'y exercer une profession salariée, l'étranger
+doit présenter, outre les documents et visas exigés par les conventions
+internationales et les règlements en vigueur, un contrat de travail visé par
+l'autorité administrative ou une autorisation de travail et un certificat
+médical.

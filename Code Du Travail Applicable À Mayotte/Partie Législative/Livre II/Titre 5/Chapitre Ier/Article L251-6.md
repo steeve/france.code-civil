@@ -1,6 +1,6 @@
 Article L251-6
 ----
-Nonobstant les dispositions de l'article L. 230-10, lorsqu'un risque sérieux
+Nonobstant les dispositions de l'article L. 231-3, lorsqu'un risque sérieux
 d'atteinte à l'intégrité physique d'un travailleur résulte de l'inobservation
 des dispositions du titre III du présent livre ou des textes pris pour leur
 application, le directeur du travail, de l'emploi et de la formation

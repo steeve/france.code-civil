@@ -4,11 +4,12 @@ Seules les entreprises habilitées par l'autorité administrative compétente
 peuvent conclure des contrats de qualification.
 
 Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après
-consultation des délégués du personnel, s'ils existent, d'une convention avec un
-établissement d'enseignement public ou un organisme de formation alternée public
-ou privé prévoyant les modalités d'organisation de la formation alternée, soit à
-l'adhésion de l'entreprise à un accord-cadre conclu entre l'Etat et une
-organisation professionnelle ou interprofessionnelle.
+consultation du comité d'entreprise ou, à défaut, des délégués du personnel,
+s'ils existent, d'une convention avec un établissement d'enseignement public ou
+un organisme de formation alternée public ou privé prévoyant les modalités
+d'organisation de la formation alternée, soit à l'adhésion de l'entreprise à un
+accord-cadre conclu entre l'Etat et une organisation professionnelle ou
+interprofessionnelle.
 
 Cet accord-cadre, conclu après consultation des organisations syndicales de
 salariés représentatives au sens de l'article L. 412-3, définit les conditions

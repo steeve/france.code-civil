@@ -1,19 +1,19 @@
 Article L312-6
 ----
-Celui qui a été condamné pour avoir recouru aux services d'un travailleur
-clandestin est tenu solidairement avec celui-ci au paiement des impôts, taxes et
-cotisations dus par ce dernier au Trésor et à la caisse de prévoyance sociale, à
-raison des travaux ou services effectués pour son compte.
+Les fonctionnaires et agents de contrôle visés à l'article L. 312-5 sont
+habilités à se communiquer réciproquement tous renseignements et tous documents
+nécessaires à l'accomplissement de leur mission de lutte contre le travail
+dissimulé.
 
-En ce qui concerne les impôts, taxes et cotisations établis annuellement, le
-paiement exigible en vertu de l'alinéa précédent est fixé au prorata de la
-valeur des travaux ou services exécutés par les travailleurs clandestins.
+Ces fonctionnaires et agents, sur leur demande écrite, obtiennent de la part de
+l'organisme chargé du régime de protection sociale tous renseignements et tous
+documents utiles à l'accomplissement de cette mission. A la demande écrite de
+cet organisme, ils lui transmettent tous renseignements et tous documents lui
+permettant de recouvrer des sommes impayées ou d'obtenir le remboursement de
+sommes indûment versées.
 
-Celui qui confie à un entrepreneur inscrit au registre du commerce ou au
-répertoire des métiers l'exécution d'un certain travail ou la fourniture de
-certains services, alors que cet entrepreneur, ne possédant manifestement pas
-lui-même les moyens pour assurer ces prestations, les sous-traite à son tour à
-un entrepreneur clandestin, est tenu solidairement avec celui avec lequel il a
-traité et l'entrepreneur clandestin au paiement des salaires et accessoires,
-impôts, taxes et cotisations dus aux salariés, au Trésor et à la caisse de
-prévoyance sociale à raison des travaux ou services effectués pour son compte.
+Les fonctionnaires et agents de contrôle mentionnés ci-dessus sont habilités,
+lorsque le siège de l'entreprise est domicilié dans des locaux occupés en commun
+par plusieurs entreprises, à se faire communiquer par l'entreprise
+domiciliataire tous documents détenus dans ses locaux nécessaires à
+l'accomplissement de leur mission de lutte contre le travail dissimulé.

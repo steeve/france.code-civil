@@ -11,5 +11,5 @@ l'agrément du salarié. Dans ce cas, une fraction doit être au moins de douze
 jours ouvrables continus compris entre deux jours de repos hebdomadaire.
 
 Lorsque le congé s'accompagne de la fermeture de l'établissement, le
-fractionnement peut être effectué par l'employeur sur avis conforme des
-représentants du personnel.
+fractionnement peut être effectué par l'employeur sur avis conforme du comité
+d'entreprise ou, à défaut, des délégués du personnel.

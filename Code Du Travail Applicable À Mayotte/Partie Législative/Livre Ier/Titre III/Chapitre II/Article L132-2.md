@@ -1,7 +1,7 @@
 Article L132-2
 ----
 La convention ou l'accord collectif de travail est un acte, écrit à peine de
-nullité et rédigé en français, qui est conclu entre :
+nullité, qui est conclu entre :
 
 - d'une part, une ou plusieurs organisations syndicales de salariés reconnues
 représentatives au sens de l'article L. 412-3 du présent code ou qui sont
