@@ -1,11 +1,11 @@
 Article R61
 ----
-Le vote de chaque électeur est constaté par la signature ou le paraphe de l'un
-des membres du bureau, apposé sur la liste d'émargement en face du nom du
-votant.
+Un assesseur est chargé de veiller à l'application des dispositions du dernier
+alinéa de l'article L. 62-1 et du second alinéa de l'article L. 64.
 
-En même temps, la carte électorale ou l'attestation d'inscription en tenant lieu
-est estampillée au moyen d'un timbre portant la date du scrutin.
+Après la signature de la liste d'émargement, la carte électorale ou
+l'attestation d'inscription en tenant lieu est estampillée par un autre
+assesseur au moyen d'un timbre portant la date du scrutin.
 
 Les opérations visées au présent article sont réparties entre les assesseurs
 désignés par les candidats ou listes en présence conformément aux dispositions
