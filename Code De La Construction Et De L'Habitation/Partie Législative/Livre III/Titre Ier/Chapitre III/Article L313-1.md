@@ -5,27 +5,35 @@ collectivités locales et de leurs établissements publics administratifs,
 assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime
 agricole au regard des lois sur la sécurité sociale pour lesquelles des règles
-spéciales ont été édictées en application du 3 a dudit article 231, doivent
-consacrer au financement d'acquisition et d'aménagement de terrains destinés
-exclusivement à la construction de logements sociaux, de construction de
-logements, d'acquisition, d'aménagement ou de remise en état de logements
-anciens des sommes représentant à compter du 1er janvier 1991, 0,55 p. 100 et, à
-compter du 1er janvier 1992, 0,45 p. 100 au moins du montant, entendu au sens
-des règles prévues au chapitres Ier et II du titre IV du livre II du code de la
+spéciales ont été édictées en application du a du 3 dudit article 231, doivent
+consacrer des sommes représentant 0,45 % au moins du montant, entendu au sens
+des règles prévues aux chapitres Ier et II du titre IV du livre II du code de la
 sécurité sociale, des rémunérations versées par eux au cours de l'exercice
-écoulé. Ces dispositions sont applicables aux établissements publics ayant un
-caractère industriel ou commercial, ainsi qu'aux organismes de l'Etat, des
-collectivités locales et de leurs établissements publics ayant le même
-caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant
-le 30 juin 1991 pourront, pour la fraction excédant les sommes dues avec un taux
-de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison des
-salaires payés en 1991.
+écoulé au financement :
 
-Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion
-d'indemnités de dommages de guerre, ont investi au cours d'un exercice,
-postérieurement à l'exercice 1948, une somme supérieure à celle prévue à
-l'alinéa précédent peuvent reporter l'excédent sur les exercices postérieurs au
-1er septembre 1953.
+a) De construction ou d'acquisition de logements, d'aménagement ou de remise en
+état de logements anciens, d'acquisition et d'aménagement de terrains destinés
+exclusivement à la construction de logements sociaux ;
+
+b) De prise en charge temporaire, en cas de difficultés exceptionnelles des
+emprunteurs, d'une partie des remboursements de prêts immobiliers destinés à
+l'accession sociale à la propriété ;
+
+c) D'aides directes à des personnes physiques pour le changement de logement ou
+le maintien dans celui-ci et l'accès au logement locatif, de garanties de loyer
+et charges apportées aux bailleurs ;
+
+d) De dépenses d'accompagnement social dans le domaine du logement ;
+
+e) D'aides à des organismes agréés d'information du public sur le logement.
+
+Ces dispositions sont applicables aux établissements publics ayant un caractère
+industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités
+locales et de leurs établissements publics ayant le même caractère.
+
+Les employeurs qui, au moyen de leurs ressources propres, ont investi au cours
+d'un exercice une somme supérieure à celle prévue au premier alinéa peuvent
+reporter l'excédent sur les exercices postérieurs.
 
 Une fraction de la somme à investir doit, dans la limite d'un neuvième, être
 réservée par priorité aux logements des travailleurs immigrés et de leurs

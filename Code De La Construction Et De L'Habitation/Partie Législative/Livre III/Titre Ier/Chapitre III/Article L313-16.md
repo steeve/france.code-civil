@@ -16,12 +16,12 @@ Lorsque l'organisme est associé de l'Union d'économie sociale du logement et
 qu'il ne souscrit pas sa quote-part du capital de cette union, ne s'acquitte pas
 des contributions prévues aux articles L. 313-20 et L. 313-25, manque de manière
 grave et répétée aux recommandations de l'union, ne respecte pas les conventions
-prévues au 2° de l'article L. 313-19 ou réalise des opérations en méconnaissance
-des dispositions du 4° du même article, l'agence nationale met l'organisme en
-demeure de prendre, dans un délai déterminé, toute mesure de redressement utile.
-En cas de carence de l'organisme à prendre ces mesures de redressement, le
-ministre chargé du logement peut, après avis de l'agence nationale et de
-l'union, retirer l'agrément de collecte de cet organisme.
+prévues au 2° et 2°bis de l'article L. 313-19 ou réalise des opérations en
+méconnaissance des dispositions du 4° du même article, l'agence nationale met
+l'organisme en demeure de prendre, dans un délai déterminé, toute mesure de
+redressement utile. En cas de carence de l'organisme à prendre ces mesures de
+redressement, le ministre chargé du logement peut, après avis de l'agence
+nationale et de l'union, retirer l'agrément de collecte de cet organisme.
 
 En cas de retrait d'agrément, le ministre chargé du logement transfère, sur
 proposition ou après avis de l'agence nationale, la situation active et passive

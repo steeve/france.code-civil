@@ -17,6 +17,12 @@ associations départementales d'information sur le logement qui ont signé une
 convention avec l'Etat, à l'information sur le logement des salariés et
 d'améliorer la gestion des associés collecteurs ;
 
+2° bis. Assure, à compter d'une date fixée par décret et dans des conditions
+fixées par convention avec l'Etat, le financement des aides prévues au b de
+l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis
+par le fonds de garantie de l'accession sociale à la propriété mentionné au
+troisième alinéa de l'article L. 312-1 ;.
+
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins
 mentionnées au 2°. Ces recommandations ne peuvent déroger aux conventions
 ci-dessus mentionnées ;

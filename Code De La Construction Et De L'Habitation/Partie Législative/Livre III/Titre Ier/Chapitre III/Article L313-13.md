@@ -29,10 +29,10 @@ Les dispositions du présent article sont en outre applicables lorsque
 l'association ne souscrit pas sa quote-part du capital de l'Union d'économie
 sociale du logement, ne s'acquitte pas des contributions prévues aux articles L.
 313-20 et L. 313-25, manque de manière grave et répétée aux recommandations de
-l'union, ne respecte pas les conventions prévues au 2° de l'article L. 313-19 ou
-réalise des opérations en méconnaissance des dispositions du 4° du même article.
-Toutefois, la sanction est prononcée par le ministre après avis de l'Agence
-nationale et de l'union.
+l'union, ne respecte pas les conventions prévues au 2° et 2° bis de l'article L.
+313-19 ou réalise des opérations en méconnaissance des dispositions du 4° du
+même article. Toutefois, la sanction est prononcée par le ministre après avis de
+l'Agence nationale et de l'union.
 
 En cas d'urgence, le ministre précité peut, après avis de l'Agence nationale
 rendu dans un délai qui ne peut excéder huit jours, suspendre un ou plusieurs
