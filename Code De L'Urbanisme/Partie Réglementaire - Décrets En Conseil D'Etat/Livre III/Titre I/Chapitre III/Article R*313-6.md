@@ -6,9 +6,9 @@ qu'il y a lieu de consulter sur ce projet. Faute de réponse dans les deux mois
 du jour où ils ont été saisis, leur avis est réputé favorable. L'ensemble des
 avis ainsi recueillis est soumis à la commission locale du secteur sauvegardé.
 
-Lorsqu'il en fait la demande au préfet, le président d'une association [*locale
-d'usagers*] agréée en application de l'article L. 121-8 reçoit communication du
-projet de plan de sauvegarde et de mise en valeur ou est invité à en prendre
-connaissance au lieu désigné à cet effet. Il peut faire connaître ses
-observations sur le projet au plus tard un mois après en avoir eu connaissance
-[*délai*].
+Lorsqu'il en fait la demande au préfet, le président d'une association
+mentionnée à l'article L. 121-8 reçoit communication du projet de plan de
+sauvegarde et de mise en valeur ou est invité à en prendre connaissance au lieu
+désigné à cet effet. Il peut faire connaître ses observations sur le projet dans
+le délai d'un mois courant à compter de la réception du projet de plan ou de la
+date à laquelle il a pris connaissance de celui-ci.
