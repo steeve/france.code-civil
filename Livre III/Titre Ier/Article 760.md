@@ -1,11 +1,13 @@
 Article 760
 ----
-Les enfants naturels dont le père ou la mère était, au temps de leur conception,
-engagé dans les liens d'un mariage d'où sont issus des enfants légitimes, sont
-appelés à la succession de leur auteur en concours avec ces enfants ; mais
-chacun d'eux ne recevra que la moitié de la part à laquelle il aurait eu droit
-si tous les enfants du défunt, y compris lui-même, eussent été légitimes.
+A défaut d'accord entre les parties, la demande de conversion est soumise au
+juge. Elle peut être introduite jusqu'au partage définitif.
 
-La fraction dont sa part hériditaire est ainsi diminuée accroîtra aux seuls
-enfants issus du mariage auquel l'adultère a porté atteinte ; elle se divisera
-entre eux à proportion de leurs parts héréditaires.
+S'il fait droit à la demande de conversion, le juge détermine le montant de la
+rente, les sûretés que devront fournir les cohéritiers débiteurs, ainsi que le
+type d'indexation propre à maintenir l'équivalence initiale de la rente à
+l'usufruit.
+
+Toutefois, le juge ne peut ordonner contre la volonté du conjoint la conversion
+de l'usufruit portant sur le logement qu'il occupe à titre de résidence
+principale, ainsi que sur le mobilier le garnissant.

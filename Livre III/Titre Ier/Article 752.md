@@ -1,9 +1,8 @@
 Article 752
 ----
-Le partage de la moitié ou des trois quarts dévolus aux frères ou soeurs, aux
-termes de l'article précédent, s'opère entre eux par égales portions, s'ils sont
-tous du même lit ; s'ils sont de lits différents, la division se fait par moitié
-entre les deux lignes paternelle et maternelle du défunt ; les germains prennent
-part dans les deux lignes, et les utérins ou consanguins chacun dans leur ligne
-seulement : s'il n'y a de frères ou soeurs que d'un côté, ils succèdent à la
-totalité, à l'exclusion de tous autres parents de l'autre ligne.
+La représentation a lieu à l'infini dans la ligne directe descendante.
+
+Elle est admise dans tous les cas, soit que les enfants du défunt concourent
+avec les descendants d'un enfant prédécédé, soit que tous les enfants du défunt
+étant morts avant lui, les descendants desdits enfants se trouvent entre eux en
+degrés égaux ou inégaux.

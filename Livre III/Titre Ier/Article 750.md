@@ -1,8 +1,9 @@
 Article 750
 ----
-En cas de prédécès des père et mère d'une personne morte sans postérité, ses
-frères, soeurs ou leurs descendants sont appelés à la succession, à l'exclusion
-des ascendants et des autres collatéraux.
+Dans chaque branche succède, à l'exclusion de tout autre, le collatéral qui se
+trouve au degré le plus proche.
 
-Ils succèdent, ou de leur chef, ou par représentation, ainsi qu'il a été réglé
-dans la section II du présent chapitre.
+Les collatéraux au même degré succèdent par tête.
+
+A défaut de collatéral dans une branche, les collatéraux de l'autre branche
+recueillent toute la succession.

@@ -1,14 +1,6 @@
 Article 725
 ----
-Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la
-succession.
-
-Ainsi, sont incapables de succéder :
-
-1° Celui qui n'est pas encore conçu ;
-
-2° L'enfant qui n'est pas né viable ;
-
-3° Celui qui est mort civilement.
+Pour succéder, il faut exister à l'instant de l'ouverture de la succession ou,
+ayant déjà été conçu, naître viable.
 
 Peut succéder celui dont l'absence est présumée selon l'article 112.

@@ -1,10 +1,7 @@
 Article 721
 ----
-Si ceux qui ont péri ensemble avaient moins de quinze ans, le plus âgé sera
-présumé avoir survécu.
+Les successions sont dévolues selon la loi lorsque le défunt n'a pas disposé de
+ses biens par des libéralités.
 
-S'ils étaient tous au-dessus de soixante ans, le moins âgé sera présumé avoir
-survécu.
-
-Si les uns avaient moins de quinze ans, et les autres plus de soixante, les
-premiers seront présumés avoir survécu.
+Elles peuvent être dévolues par les libéralités du défunt dans la mesure
+compatible avec la réserve héréditaire.

@@ -1,4 +1,4 @@
 Article 756
 ----
-La filiation naturelle ne crée de droits successoraux qu'autant qu'elle est
-légalement établie.
+Le conjoint successible est appelé à la succession, soit seul, soit en concours
+avec les parents du défunt.

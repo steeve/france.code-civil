@@ -1,8 +1,6 @@
 Article 753
 ----
-A défaut de frères ou soeurs ou de descendants d'eux et à défaut d'ascendants
-dans une ligne, la succession est dévolue en totalité aux ascendants de l'autre
-ligne ; à défaut d'ascendants dans l'une et l'autre ligne, la succession est
-dévolue pour moitié aux parents les plus proches dans chaque ligne.
-
-S'il y a concours de parents collatéraux au même degré, ils partagent par tête.
+Dans tous les cas où la représentation est admise, le partage s'opère par
+souche, comme si le représenté venait à la succession ; s'il y a lieu, il
+s'opère par subdivision de souche. A l'intérieur d'une souche ou d'une
+subdivision de souche, le partage se fait par tête.

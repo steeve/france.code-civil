@@ -1,7 +1,7 @@
 Article 730
 ----
-Les enfants de l'indigne, venant à la succession de leur chef, et sans le
-secours de la représentation, ne sont pas exclus pour la faute de leur père ;
-mais celui-ci ne peut, en aucun cas, réclamer, sur les biens de cette
-succession, l'usufruit que la loi accorde aux pères et mères sur les biens de
-leurs enfants.
+La preuve de la qualité d'héritier s'établit par tous moyens.
+
+Il n'est pas dérogé aux dispositions ni aux usages concernant la délivrance de
+certificats de propriété ou d'hérédité par des autorités judiciaires ou
+administratives.
