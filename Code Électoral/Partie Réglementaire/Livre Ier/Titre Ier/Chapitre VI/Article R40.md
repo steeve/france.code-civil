@@ -1,9 +1,9 @@
 Article R40
 ----
 Les électeurs se réunissent au chef-lieu de la commune. Toutefois, ils peuvent
-être répartis par arrêté du commissaire de la République en autant de bureaux de
-vote que l'exigent les circonstances locales et le nombre des électeurs; le
-siège de ces bureaux peut être fixé hors du chef-lieu de la commune.
+être répartis par arrêté du préfet a en autant de bureaux de vote que l'exigent
+les circonstances locales et le nombre des électeurs; le siège de ces bureaux
+peut être fixé hors du chef-lieu de la commune.
 
 L'arrêté instituant les bureaux de vote ou reconduisant l'institution antérieure
 de ces bureaux doit être notifié au maire avant le 31 août de chaque année; tels
@@ -13,4 +13,5 @@ et la clôture suivante. Les lieux de vote sont désignés dans l'arrêté
 préfectoral instituant les bureaux.
 
 Toutefois, cet arrêté peut être modifié pour tenir compte des changements
-intervenus dans les limites des circonscriptions administratives.
+intervenus dans les limites des circonscriptions administratives ou des
+circonscriptions prévues par l'article L. 124.

@@ -1,9 +1,8 @@
 Article R*101
 ----
-L'Etat des listes des candidats dont la déclaration a été définitivement
-enregistrée est arrêtée, dans l'ordre du dépôt des listes, par le commissaire de
-la République et publié deux semaines avant la date du scrutin.
+La liste des candidats dont la déclaration de candidature a été définitivement
+enregistrée et de leurs remplaçants est arrêtée et publiée par le préfet.
 
-Cet état indique pour chaque liste son titre ainsi que les noms et prénoms des
-candidats, énumérés dans l'ordre de leur présentation sur la liste, tel qu'il
-résulte de la déclaration.
+La publication doit intervenir, pour le premier tour, deux semaines avant la
+date du scrutin et, pour le second tour, le lendemain de la date limite fixée
+pour le dépôt des candidatures.

@@ -1,5 +1,8 @@
 Article R*102
 ----
-Lorsqu'il y a lieu à application du premier alinéa de l'article L. 163, il est
-immédiatement procédé à la publication par le commissaire de la République de la
-modification intervenue.
+Lorsqu'il y a lieu à application de l'article L. 163, la désignation du
+remplaçant doit être notifiée au préfet au plus tard le cinquième jour précédant
+le scrutin.
+
+Il est immédiatement procédé, dès enregistrement, à la publication du changement
+intervenu.
