@@ -1,8 +1,7 @@
 Article R421-63-1
 ----
-Sont applicables, dans la collectivité territoriale de Mayotte, à l'exception de
-l'article R. 421-9, les sections I, II, IV et V du présent chapitre, sous
-réserve des adaptations suivantes :
+Sont applicables, à Mayotte, à l'exception de l'article R. 421-9, les sections
+I, II, IV et V du présent chapitre, sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 421-14, deuxième alinéa, les mots :
 "suivant le taux de la demande, le tribunal d'instance ou le tribunal de grande
