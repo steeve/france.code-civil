@@ -1,18 +1,10 @@
 Article L235-6
 ----
-Le collège interentreprises a pour mission :
-
-- De provoquer la mise en harmonie des plans prévus à l'article L. 235-3 et de
-leurs mises à jour ;
-
-- De contribuer à la coordination des mesures prises pour assurer le respect des
-règles d'hygiène et de sécurité du travail applicables au chantier ;
-
-- De vérifier qu'il est effectivement donné suite aux mesures retenues par les
-membres du collège ;
-
-L'intervention du collège interentreprises ne saurait modifier, d'une part, la
-nature et l'étendue des responsabilités qui incombent aux entrepreneurs en
-application des autres dispositions du code du travail et, d'autre part, les
-attributions et le fonctionnement des autres institutions compétentes en matière
-d'hygiène et de sécurité.
+Lorsque plusieurs entreprises sont appelées à intervenir sur un chantier qui
+soit fait l'objet de la déclaration préalable prévue à l'article L. 235-2, soit
+nécessite l'exécution d'un ou plusieurs des travaux inscrits sur une liste de
+travaux comportant des risques particuliers fixée par arrêté des ministres
+chargés du travail et de l'agriculture, le maître d'ouvrage fait établir par le
+coordonnateur un plan général de coordination en matière de sécurité et de
+protection de la santé qui est rédigé dès la phase de conception, d'étude et
+d'élaboration du projet et tenu à jour pendant toute la durée des travaux.

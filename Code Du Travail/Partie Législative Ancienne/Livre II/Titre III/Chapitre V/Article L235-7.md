@@ -1,9 +1,12 @@
 Article L235-7
 ----
-Un décret en Conseil d'Etat pris en application de l'article L. 231-2 détermine
-les conditions d'établissement, d'application et de contrôle du plan d'hygiène
-et de sécurité ainsi que les règles de fonctionnement des collèges
-interentreprises d'hygiène et de sécurité et les modalités des relations qu'ils
-entretiennent avec les comités d'hygiène de sécurité et des conditions de
-travail créés en application du sixième alinéa de l'article L. 236-1 ou, à
-défaut, avec les délégués du personnel.
+Avant le début des travaux, un plan particulier de sécurité et de protection de
+la santé est adressé :
+
+1° Au coordonnateur, par chacune des entreprises, y compris les entreprises
+sous-traitantes, appelées à intervenir à un moment quelconque des travaux sur un
+chantier soumis à l'obligation visée à l'article L. 235-6 ;
+
+2° Au maître d'ouvrage, par toute entreprise appelée à exécuter seule des
+travaux dont la durée et le volume prévus excèdent des seuils fixés par décret
+en Conseil d'Etat.

@@ -1,13 +1,17 @@
 Article L235-5
 ----
-Lorsque, dans les cas prévus à l'article L. 235-3, le nombre des entreprises, y
-compris, dans des conditions fixées par décret, les entreprises sous-traitantes,
-dépasse un seuil fixé par voie réglementaire et que l'effectif prévisible des
-travailleurs doit dépasser à un moment quelconque des travaux un nombre fixé par
-la même voie, le maître de l'ouvrage est tenu d'insérer, dans les contrats
-conclus avec tous les entrepreneurs intéressés, une clause prévoyant la
-constitution d'un collège interentreprises d'hygiène et de sécurité
-[*obligations*] .
+L'intervention du coordonnateur ne modifie ni la nature ni l'étendue des
+responsabilités qui incombent, en application des autres dispositions du présent
+code, à chacun des participants aux opérations de bâtiment et de génie civil.
 
-Ce collège comprend obligatoirement le ou les maîtres d'oeuvre et les
-entrepreneurs ainsi que les sous-traitants.
+Sauf dans les cas prévus aux 1° et 2° de l'article L. 235-4, les dispositions
+nécessaires pour assurer aux personnes chargées d'une mission de coordination,
+en application de l'article L. 235-4, l'autorité et les moyens indispensables à
+l'exercice de leur mission sont déterminées par voie contractuelle, notamment
+par les contrats de maîtrise d'oeuvre.
+
+Les modalités de mise en oeuvre de la coordination sont précisées par un décret
+en Conseil d'Etat qui définit notamment les missions imparties au coordonnateur
+ainsi que la nature, l'étendue et la répartition des obligations qui incombent
+respectivement aux maîtres d'ouvrage, aux coordonnateurs, aux entrepreneurs et
+aux maîtres d'oeuvre.
