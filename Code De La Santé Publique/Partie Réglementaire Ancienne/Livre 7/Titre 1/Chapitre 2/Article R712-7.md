@@ -10,22 +10,21 @@ a) Pour les installations et structures correspondant aux disciplines énuméré
 au I de l'article R. 712-2, à l'exception de la psychiatrie et des soins de
 suite et de réadaptation ;
 
-b) Pour les activités de soins énumérées aux 5° et 6° du III de l'article R.
-712-2 ;
+b) Pour l'activité de soins visée au 5° du III de l'article R. 712-2 ;
 
 2. Par secteur psychiatrique ou groupe de secteurs psychiatriques pour les
 installations et structures de psychiatrie ;
 
 3. Par région :
 
-a) Pour les soins de suite et de réadaptation ;
+a) Pour la réanimation et les soins de suite et de réadaptation ;
 
 b) Pour les équipements matériels lourds énumérés aux 2, 3, 4, 5, 7 (a), 8, 9,
 10, 11 et 12 du II de l'article R. 712-2 ;
 
-c) Pour les activités de soins énumérées aux 7° à 10° et au 12° du III de
-l'article R. 712-2, à l'exception, au 9°, de l'activité d'obstétrique, qui
-s'apprécie au niveau du secteur sanitaire.
+c) Pour les activités de soins énumérées aux 6° à 10°, à l'exception dans le 9°
+de l'activité obstétrique qui s'apprécie au niveau du secteur sanitaire, et au
+12° du III de l'article R. 712-2.
 
 Les indices de besoins afférents aux installations, équipements et activités
 énumérés par le présent article sont fixés par le directeur de l'agence

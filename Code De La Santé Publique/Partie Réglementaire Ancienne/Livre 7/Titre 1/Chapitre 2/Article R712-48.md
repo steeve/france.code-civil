@@ -12,7 +12,10 @@ b) Les activités de soins mentionnées aux 1, 3, 4, 5, 6, 9 et 11 du III de
 l'article R. 712-2 ;
 
 c) Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires
-mentionnées au b de l'article R. 712-2-1.
+mentionnées au b de l'article R. 712-2-1 ;
+
+d) Les installations correspondant à la discipline mentionnée au 7 du I de
+l'article R. 712-2.
 
 II. - Sept ans pour :
 

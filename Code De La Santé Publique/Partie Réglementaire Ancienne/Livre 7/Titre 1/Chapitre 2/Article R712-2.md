@@ -18,7 +18,9 @@ suivantes :
 
 5. Soins de suite ou de réadaptation ;
 
-6. Soins de longue durée.
+6. Soins de longue durée ;
+
+7. Réanimation.
 
 II. - Les équipements matériels lourds définis à l'article L. 712-19 énumérés
 ci-après :
