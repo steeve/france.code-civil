@@ -10,11 +10,14 @@ produits de santé. Cette ordonnance doit indiquer lisiblement :
 prescripteur, son identifiant lorsqu'il existe, son adresse, sa signature et la
 date à laquelle l'ordonnance a été rédigée ;
 
-2° La dénomination du médicament ou du produit prescrit, sa posologie et son
-mode d'emploi, et, s'il s'agit d'une préparation, la formule détaillée ;
+2° La dénomination du médicament ou du produit prescrit, ou le principe actif du
+médicament désigné par sa dénomination commune, la posologie et le mode
+d'emploi, et, s'il s'agit d'une préparation, la formule détaillée ;
 
-3° Soit la durée de traitement, soit le nombre d'unités de conditionnement et,
-le cas échéant, le nombre de renouvellements de la prescription ;
+3° La durée de traitement ou, lorsque la prescription comporte la dénomination
+du médicament au sens du I de l'article R. 5000, le nombre d'unités de
+conditionnement et, le cas échéant, le nombre de renouvellements de la
+prescription ;
 
 4° Pour un médicament classé dans la catégorie des médicaments à prescription
 initiale hospitalière en application des dispositions de l'article R. 5143-5-3,
