@@ -7,3 +7,12 @@ d'intervention foncière, lorsqu'ils sont aliénés volontairement à titre oné
 sous quelque forme que ce soit.
 
 Le droit de préemption peut également être exercé en cas d'adjudication forcée.
+
+En cas de contrat de location-accession régi par les dispositions de la loi n°
+84-595 du 12 juillet 1984 définissant la location-accession à la propriété
+immobilière, le droit de préemption s'exerce avant la signature de ce contrat et
+non au moment de la levée de l'option par l'accédant.
+
+Dans le cas prévu à l'alinéa précédent, le délai de dix ans mentionné au a de
+l'article L. 211-4 et au a de l'article L. 211-5 s'apprécie à la date de la
+signature du contrat de location-accession.

@@ -32,3 +32,10 @@ conformes à des conventions types annexées aux décrets ;
 
 5. Les logements-foyers qui peuvent être assimilés, dans des conditions fixées
 par décret en Conseil d'Etat, aux logements mentionnés aux 2 et 3 ci-dessus.
+
+6. Les logements occupés par des titulaires de contrats de location-accession
+conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
+définissant la location-accession à la propriété immobilière, lorsque ces
+logements ont été construits, améliorés ou acquis et améliorés au moyen de
+formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et
+les conditions d'octroi sont fixées par décret.

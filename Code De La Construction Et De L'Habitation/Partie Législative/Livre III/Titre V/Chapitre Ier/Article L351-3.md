@@ -13,7 +13,8 @@ personnes vivant habituellement à son foyer ; toutefois un abattement est opér
 sur le montant des ressources, lorsque le conjoint perçoit des revenus résultant
 de l'exercice d'une activité professionnelle ;
 
-3. Le montant du loyer ou des charges de remboursement des prêts contractés pour
+3. Le montant du loyer ou de la redevance définie par la loi n° 84-595 du 12
+juillet 1984 précitée ou des charges de remboursement des prêts contractés pour
 l'acquisition du logement ou son amélioration, pris en compte dans la limite
 d'un plafond, ainsi que les dépenses accessoires retenues forfaitairement.
 
