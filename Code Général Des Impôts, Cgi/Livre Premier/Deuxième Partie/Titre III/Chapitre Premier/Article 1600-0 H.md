@@ -1,0 +1,21 @@
+Article 1600-0 H
+----
+- Sont également assujettis à la contribution mentionnée à l'article 1600-0 G,
+dans les conditions et selon les modalités prévues aux I et II de cet article :
+
+1. Les revenus d'activité et de remplacement de source étrangère perçus à
+compter du 1er février 1996 et jusqu'au 31 janvier 2009 et soumis en France à
+l'impôt sur le revenu. Pour l'application de ces dispositions, le 3° de
+l'article 83 et le a du 5 de l'article 158 ne sont pas applicables. La
+déclaration prévue à l'article 170 mentionne distinctement les revenus concernés
+;
+
+2. Les sommes soumises à l'impôt sur le revenu en application de l'article L. 69
+du livre des procédures fiscales au titre des années visées au I de l'article
+1600-0 G ;
+
+3. Tous autres revenus perçus au titre des années définies au I de l'article
+1600-0 G, dont l'imposition est attribuée à la France par une convention
+internationale relative aux doubles impositions et qui n'ont pas supporté la
+contribution instituée par l'article 14 de l'ordonnance n° 96-50 du 24 janvier
+1996.
