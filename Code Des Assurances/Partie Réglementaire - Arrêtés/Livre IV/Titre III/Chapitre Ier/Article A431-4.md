@@ -1,15 +1,15 @@
 Article A431-4
 ----
-Les prises ou extensions de participations financières effectuées par la caisse
-centrale de réassurance dans les conditions prévues par la législation en
-vigueur doivent, nonobstant toutes dispositions contraires des statuts, faire
-l'objet d'une approbation par arrêté du ministre de l'économie et des finances
-dans tous les cas où ces prises ou extensions de participations ont pour effet
-de lui attribuer une part égale ou supérieure de 10 %, dans le capital d'une
-entreprise.
+La caisse centrale de réassurance ne peut apporter sa couverture au titre de
+l'article A. 431-3 que si les conditions suivantes sont remplies :
 
-Toutefois, la caisse centrale de réassurance peut effectuer, sans l'approbation
-mentionnée ci-dessus, toutes prises ou extensions de participations financières
-dans le capital des sociétés immobilières de promotion définies au titre Ier de
-la loi du 16 juillet 1971, lorsque le montant de ces prises ou extensions de
-participations dans le capital ne dépasse pas 500.000 F.
+a) Les biens sont situés en France ;
+
+b) Les biens sont assurés ou réassurés par une entreprise agréée en France pour
+pratiquer les risques correspondants ou dispensée de l'agrément administratif en
+application de l'article L. 321-4.
+
+Si la condition prévue au b n'est pas remplie, la caisse centrale de réassurance
+peut, par dérogation aux dispositions ci-dessus, apporter sa couverture au titre
+de l'article A. 431-3 avec l'accord du ministre chargé de l'économie et des
+finances.

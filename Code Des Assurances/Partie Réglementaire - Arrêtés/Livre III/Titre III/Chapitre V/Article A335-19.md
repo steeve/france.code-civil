@@ -1,8 +1,10 @@
 Article A335-19
 ----
-Les commissions et rétributions de même nature allouées à l'occasion
-d'opérations de courtage d'assurance ne peuvent excéder les montants maximaux
-fixés par les articles A. 335-20 et A. 335-21 en ce qui concerne les assurances
-garantissant les établissements industriels et assimilés contre les risques
-d'incendie, d'explosion et les risques annexes lorsqu'ils sont couverts par le
-contrat d'assurance incendie.
+Le montant de la rétribution allouée aux personnes habilitées à présenter des
+opérations d'assurance ne peut, en ce qui concerne la garantie contre les
+risques de catastrophes naturelles, excéder 8 % du montant de la prime ou
+cotisation, nette de tous accessoires et taxes afférents à cette garantie.
+
+Toutefois, cette rétribution n'exclut pas l'attribution d'une commission de
+gestion, calculée en fonction des travaux effectivement réalisés pour
+l'instruction ou le règlement de chaque dossier de sinistre.

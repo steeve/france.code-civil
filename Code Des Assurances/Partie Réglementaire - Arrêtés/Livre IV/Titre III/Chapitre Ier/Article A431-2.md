@@ -1,114 +1,16 @@
 Article A431-2
 ----
-La caisse centrale de réassurance dresse, le 31 décembre de chaque année,
-l'inventaire du fonds de revalorisation de certaines rentes allouées en
-réparation du préjudice causé par un véhicule à moteur et établit un compte
-général d'exploitation et de pertes et profits, dans la forme ci-après :
+Comme il est dit au 6° de l'article A. 1 du code du domaine de l'Etat, sont
+dispensées de l'examen des commissions mentionnées à l'article R. 10 du même
+code les acquisitions d'immeubles, de droits immobiliers et de droits sociaux
+donnant vocation à l'attribution en pleine propriété d'immeubles ou de parties
+d'immeuble poursuivies par la caisse centrale de réassurance, à la condition
+qu'il soit attesté par le ministre chargé de l'économie et des finances
+(direction des assurances) :
 
-1° Bilan.
+1° Que ces acquisitions sont faites en vue de représenter par des immeubles les
+provisions techniques de cette entreprise ;
 
-Actif :
-
-Immobilisations en France :
-
-Immeubles.
-
-Immobilisations en cours.
-
-Autres valeurs immobilisées en France :
-
-Valeurs mobilières admises en représentation des engagements.
-
-Prêts et effets assimilés admis en représentations des engagements.
-
-Valeurs réalisables à court terme et disponibles :
-
-Créances sur l'Etat.
-
-Débiteurs divers.
-
-Chèques et coupons à encaisser.
-
-Banques, chèques postaux, caisse.
-
-Autres éléments détaillés de l'actif.
-
-Résultats - Déficit de l'exercice.
-
-Total.
-
-Passif :
-
-Excédents des exercices antérieurs.
-
-Dettes à long et moyen terme.
-
-Provisions techniques :
-
-Provisions pour majorations à payer.
-
-Dettes à court terme :
-
-Dettes d'Etat.
-
-Créditeurs divers.
-
-Avances.
-
-Autres éléments détaillés du passif.
-
-Résultats - Excédent de l'exercice.
-
-Total.
-
-2° Compte général d'exploitation et de pertes et profits.
-
-Débit :
-
-Charges des prestations payées :
-
-A ajouter : provisions pour majorations de rentes à la clôture de l'exercice.
-
-A déduire : provisions pour majorations de rentes à l'ouverture de l'exercice.
-
-Charges de gestion :
-
-Frais exposés par la caisse centrale de réassurance.
-
-Frais d'assiette de la contribution additionnelle.
-
-Charges des placements :
-
-Frais sur titres et sur immeubles.
-
-Autres frais.
-
-Dotations aux amortissements sur placements.
-
-Provisions pour moins-values sur placements à la clôture de l'exercice.
-
-Moins-values sur cession d'éléments d'actif.
-
-Excédent net total (solde créditeur).
-
-Total.
-
-Crédit :
-
-Contribution additionnelle.
-
-Produits des placements :
-
-Produits financiers sur titres et immeubles.
-
-Autres produits financiers.
-
-Provisions pour moins-values sur placements à l'ouverture de l'exercice.
-
-Plus-values sur cession d'éléments d'actif.
-
-Autres profits.
-
-Insuffisance nette totale (solde débiteur).
-
-Total.
+2° Qu'elles n'ont pas pour objet principal d'assurer l'installation et le
+fonctionnement de ses services ou de tout autre service public ou d'intérêt
+public.

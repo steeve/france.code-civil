@@ -1,9 +1,9 @@
 Article A331-25
 ----
 Pour l'application de l'article R. 331-26, les sinistres corporels sont réputés
-graves lorsqu'ils ont entraîné ou sont présumés devoir entraîner, pour l'une des
-personnes mentionnées à l'article R. 211-6, l'une au moins des conséquences
-suivantes :
+graves lorsqu'ils ont entraîné ou sont présumés devoir entraîner, pout toutes
+personnes autre que celles énumérées respectivement au premier alinéa de
+l'article R. 211-2 et au premier alinéa de l'article R. 211-3 :
 
 - le décès ;
 
@@ -17,5 +17,6 @@ certificat médical, une atteinte à l'intégrité physique n'ayant pas permis l
 reprise d'activité dans le même délai.
 
 Sont également réputés graves les sinistres corporels qui ont entraîné, pour
-deux ou plusieurs personnes mentionnées au même article R. 211-6, des taux
-d'incapacité permanente dont la somme atteint 40 p. 100 au moins.
+deux ou plusieurs personnes autres que celles énumérées respectivement au
+premier alinéa de l'article R. 211-2 et au premier alinéa de l'article R. 211-3,
+des taux d'incapacité permanente dont la somme atteint 40 p. 100 au moins.
