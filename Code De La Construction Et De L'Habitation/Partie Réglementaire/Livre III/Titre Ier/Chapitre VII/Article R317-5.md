@@ -20,3 +20,17 @@ raisons professionnelles ou familiales, destiner leur logement à leur résidenc
 principale, ils peuvent le donner en location, dans des conditions fixées par
 arrêté conjoint du ministre chargé de l'économie et des finances et du ministre
 chargé du logement.
+
+Par dérogation aux dispositions du premier alinéa du présent article et de
+l'article R. 317-1, les bénéficiaires de l'avance qui ne peuvent plus, pour des
+raisons professionnelles, destiner leur logement à leur résidence principale
+peuvent solliciter l'octroi d'une avance pour l'acquisition d'une nouvelle
+résidence principale, sous réserve du remboursement préalable du capital restant
+dû de l'avance initiale. La nouvelle avance est octroyée dans les conditions du
+présent chapitre appréciées à la date de la nouvelle demande.
+
+L'établissement de crédit qui a octroyé la première avance reverse à l'organisme
+visé à l'article R. 312-3-1 du présent code, pour le compte de l'Etat, une
+fraction de la subvention destinée à compenser l'absence d'intérêt, déterminée
+en fonction de la durée résiduelle de l'avance au moment de son remboursement
+anticipé.
