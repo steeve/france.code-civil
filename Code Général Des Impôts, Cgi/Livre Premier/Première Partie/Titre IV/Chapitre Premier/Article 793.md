@@ -67,6 +67,11 @@ sont détenues ou qui ont été détenues par une société civile régie par la
 autorisées à faire publiquement appel à l'épargne ou par une entreprise
 d'assurance ou de capitalisation ;
 
+Les dispositions de la loi n° 70-1299 du 31 décembre 1970 relative aux
+groupements fonciers agricoles [*GFA*] peuvent être étendues et adaptées aux
+départements d'outre-mer par décret en Conseil d'Etat, après avis des conseils
+généraux de ces départements (2).
+
 5° Les reversions de rentes viagères entre époux ou entre parents en ligne
 directe ;
 
@@ -82,10 +87,12 @@ condition que soient appliquées les dispositions prévues aux articles 703, 184
 G bis-II et III, et 1929-3 ; 3° Les biens donnés à bail dans les conditions
 prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, à
 concurrence des trois quarts de leur valeur, sous réserve des dispositions de
-l'article 793 bis (2).
+l'article 793 bis (3).
 
 (1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à
 l'article 822 IV.
+
+(2) Voir décret n° 179-146 du 14 février 1979.
 
 (2) Ces dispositions s'appliquent aux successions ouvertes et aux donations
 consenties à compter du 1er juillet 1992.
