@@ -1,14 +1,11 @@
 Article D62
 ----
 Les hôpitaux et établissements de soins publics ou reconnus d'utilité publique
-sont habilités à délivrer des consultations et des soins à titre externe aux
-bénéficiaires du présent chapitre. Les tarifs applicables sont ceux prévus à
-l'article 48 du décret n° 891 du 17 avril 1943.
-
-Les établissements privés agréés dans les conditions fixées à l'article D. 67
-sont également habilités à délivrer des consultations et des soins à titre
-externe, les tarifs applicables étant, dans ce cas, ceux en vigueur en matière
-de sécurité sociale.
+et les établissements privés agréés sont habilités à donner des consultations et
+à dispenser des soins externes aux bénéficiaires du présent chapitre. Les tarifs
+applicables sont ceux fixés par l'agence régionale de l'hospitalisation dont
+relève l'hôpital ou l'établissement auprès duquel le pensionné a consulté ou
+reçu des soins.
 
 Les établissements publics et privés ne peuvent, en matière de consultations et
 soins externes, prétendre au règlement par le directeur interdépartemental des

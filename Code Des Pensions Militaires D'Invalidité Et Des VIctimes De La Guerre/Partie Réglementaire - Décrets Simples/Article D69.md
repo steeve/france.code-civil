@@ -10,6 +10,4 @@ d'urgence prévu à l'article D. 71.
 
 Le bulletin doit spécifier la nature exacte de l'affection ou complication
 justifiant l'hospitalisation. Il doit également indiquer l'établissement public
-ou privé choisi par le pensionné, sous réserve des dispositions de l'article 237
-du Code de la santé publique s'il s'agit d'un établissement de lutte contre la
-tuberculose.
+ou privé choisi par le pensionné.
