@@ -21,7 +21,9 @@ fouille. En ce qui concerne la visite des personnes, leur intervention porte sur
 la mise en oeuvre des dispositifs de contrôle. Avec le consentement de la
 personne, ils peuvent procéder à des palpations de sécurité. Dans ce cas, la
 palpation de sécurité doit être faite par une personne du même sexe que la
-personne qui en fait l'objet.
+personne qui en fait l'objet. En ce qui concerne les transports de marchandises,
+ils peuvent procéder à des contrôles visant à détecter une présence humaine sans
+pénétrer eux-mêmes à l'intérieur des véhicules ou de leur chargement.
 
 Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque la
 moralité de la personne ou son comportement apparaît incompatible avec

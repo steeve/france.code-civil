@@ -11,3 +11,8 @@ commise au cours du délai d'épreuve ou un manquement aux mesures de contrôle 
 aux obligations particulières qui lui sont imposées. Il l'informe de la
 possibilité qu'il aura de voir déclarer sa condamnation non avenue s'il observe
 une conduite satisfaisante.
+
+Lorsque la juridiction prononce, à titre de peine complémentaire, la peine
+d'interdiction du territoire français pour une durée de dix ans au plus, il est
+sursis à son exécution durant le temps de la mise à l'épreuve prévue au premier
+alinéa.

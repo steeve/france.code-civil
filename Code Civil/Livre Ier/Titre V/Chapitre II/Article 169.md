@@ -5,7 +5,7 @@ mariage peut dispenser, pour des causes graves, de la publication et de tout
 délai ou de l'affichage de la publication seulement.
 
 Il peut également, dans des cas exceptionnels, dispenser les futurs époux, ou
-l'un d'eux seulement, de la remise du certificat médical exigé par le deuxième
+l'un d'eux seulement, de la remise du certificat médical exigé par le troisième
 alinéa de l'article 63.
 
 Le certificat médical n'est exigible d'aucun des futurs époux au cas de péril

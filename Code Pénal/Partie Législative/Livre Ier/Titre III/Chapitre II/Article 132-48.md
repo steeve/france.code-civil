@@ -7,3 +7,7 @@ peines, ordonner la révocation en totalité ou en partie du ou des sursis
 antérieurement accordés. Cette révocation ne peut être ordonnée pour des
 infractions commises avant que la condamnation assortie du sursis ait acquis un
 caractère définitif.
+
+La mesure d'interdiction du territoire français est exécutoire de plein droit en
+cas de révocation totale du sursis avec mise à l'épreuve dans les conditions
+prévues au présent article.

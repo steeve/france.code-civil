@@ -11,8 +11,9 @@ France.
 
 Peut, dans les mêmes conditions, réclamer la nationalité française :
 
-1° L'enfant recueilli en France et élevé par une personne de nationalité
-française ou confié au service de l'aide sociale à l'enfance ;
+1° L'enfant qui, depuis au moins cinq années, est recueilli en France et élevé
+par une personne de nationalité française ou qui, depuis au moins trois années,
+est confié au service de l'aide sociale à l'enfance ;
 
 2° L'enfant recueilli en France et élevé dans des conditions lui ayant permis de
 recevoir, pendant cinq années au moins une formation française, soit par un

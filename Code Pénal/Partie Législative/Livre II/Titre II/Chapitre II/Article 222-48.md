@@ -6,7 +6,3 @@ ans au plus, à l'encontre de tout étranger coupable de l'une des infractions
 définies aux articles 222-1 à 222-8 et 222-10, aux 1° et 2° de l'article 222-14,
 aux articles 222-23 à 222-26, 222-30, 222-34 à 222-39 ainsi qu'à l'article
 222-15 dans les cas visés au deuxième alinéa de cet article.
-
-Les dispositions des sept derniers alinéas de l'article 131-30 ne sont pas
-applicables aux personnes coupables des infractions définies aux articles
-222-34, 222-35, 222-36 et 222-38.

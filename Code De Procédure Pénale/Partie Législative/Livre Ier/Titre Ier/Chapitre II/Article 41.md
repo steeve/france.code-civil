@@ -29,6 +29,20 @@ commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
 d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition
 de placement en détention provisoire.
 
+A l'exception des infractions prévues aux articles 19 et 27 de l'ordonnance n°
+45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des
+étrangers en France, en cas de poursuites pour une infraction susceptible
+d'entraîner à son encontre le prononcé d'une mesure d'interdiction du territoire
+français d'un étranger qui déclare, avant toute saisine de la juridiction
+compétente, se trouver dans l'une des situations prévues par les articles
+131-30-1 ou 131-30-2 du code pénal, le procureur de la République ne peut
+prendre aucune réquisition d'interdiction du territoire français s'il n'a
+préalablement requis, suivant les cas, l'officier de police judiciaire
+compétent, le service pénitentiaire d'insertion et de probation, le service
+compétent de la protection judiciaire de la jeunesse, ou toute personne
+habilitée dans les conditions de l'article 81, sixième alinéa, afin de vérifier
+le bien-fondé de cette déclaration.
+
 Le procureur de la République peut également recourir à une association d'aide
 aux victimes ayant fait l'objet d'un conventionnement de la part des chefs de la
 cour d'appel, afin qu'il soit porté aide à la victime de l'infraction.

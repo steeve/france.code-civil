@@ -13,7 +13,7 @@ notification lorsque l'arrêté est notifié par voie administrative ou dans les
 sept jours lorsqu'il est notifié par voie postale, demander l'annulation de cet
 arrêté au président du tribunal administratif.
 
-Le président ou son délégué statue dans un délai de quarante-huit heures à
+Le président ou son délégué statue dans un délai de soixante-douze heures à
 compter de sa saisine. Il peut se transporter au siège de la juridiction la plus
 proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de
 l'article 35 bis de la présente ordonnance.
@@ -50,4 +50,4 @@ A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera
 interjeté, dans les mêmes conditions, devant le président de la cour
 administrative d'appel territorialement compétente ou un membre de cette cour
 désigné par lui. Le même décret fixe les conditions d'application de cette
-disposition. "
+disposition".

@@ -12,7 +12,9 @@ Ils constatent, en outre, les infractions aux dispositions des articles L. 431,
 L. 472, deuxième alinéa, et L. 473, alinéa premier, du code de la sécurité
 sociale ainsi que les infractions définies au 3° et au 6° de l'article 225-2 du
 code pénal et les infractions prévues par les articles 225-13 à 225-15-1 du même
-code.
+code. Ils constatent également les infractions prévues par les articles 21 et 21
+bis de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions
+d'entrée et de séjour des étrangers en France.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions
 peuvent être exercées par des fonctionnaires de contrôle assimilés.
