@@ -1,14 +1,21 @@
 Article R623-5
 ----
-Il est défini pour chaque organisme un actif de référence obtenu en totalisant
-les actifs énumérés à l'article R. 623-2 à l'exclusion :
+Les bons à moyen terme négociables mentionnés au 4° de l'article R. 623-3
+doivent répondre aux conditions suivantes :
 
-- des éléments patrimoniaux détenus pour le fonctionnement des services
-administratifs du régime et pour la mise en oeuvre de la réglementation de
-l'action sociale applicable à ce régime ;
+a) Provenir d'une émission au moins égale à 30 millions d'euros ;
 
-- des disponibilités nécessaires au service des prestations ; ces disponibilités
-dont le montant est fixé par le conseil d'administration de chaque organisme
-dans la limite des sommes nécessaires au paiement d'une échéance trimestrielle
-de ces prestations doivent être exclusivement investies en placements mentionnés
-aux 1°, 2° et 13° à 16° de l'article R. 623-2.
+b) Etre valorisés par au moins deux organismes distincts et non liés
+financièrement ni entre eux, ni avec la caisse de base ou section
+professionnelle détentrice des bons ;
+
+c) Faire sur cette base l'objet d'un cours publié au moins une fois tous les
+quinze jours et tenu à la disposition du public en permanence ;
+
+d) Comporter une clause de liquidité émanant de l'émetteur ou d'un garant qui
+doit garantir que les actifs pourraient être rachetés à un cours cohérent avec
+le cours publié, c'est-à-dire prenant en compte la variation du taux d'intérêt
+et du prix des sous-jacents entre les dates de publication du cours et de
+transaction ;
+
+e) Comporter une clause garantissant à terme le prix d'émission.
