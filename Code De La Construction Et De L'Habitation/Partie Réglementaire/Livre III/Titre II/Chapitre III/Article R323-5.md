@@ -1,6 +1,5 @@
 Article R323-5
 ----
-Peuvent seuls donner lieu à l'attribution de subventions les travaux définis par
-arrêté du ministre chargé de la construction et de l'habitation et ayant pour
-effet de mettre les logements en conformité avec les normes minimales
-d'habitabilité ou d'en améliorer la qualité.
+La décision de subvention est prise par le représentant de l'Etat dans le
+département [*autorité compétente*]. Elle est accordée au vu d'un programme de
+travaux joint à la demande de subvention.

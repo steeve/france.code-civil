@@ -1,5 +1,5 @@
 Article R323-10
 ----
-Les travaux doivent être commencés dans un délai de deux ans à compter de la
-décision d'octroi de subvention et doivent être achevés dans un délai de trois
-ans à compter de cette même date [*condition*].
+Un prêt complémentaire à la subvention peut être consenti par les caisses
+d'épargne, la Caisse des dépôts et consignations ou tout autre établissement
+habilité à consentir des prêts aux collectivités locales.
