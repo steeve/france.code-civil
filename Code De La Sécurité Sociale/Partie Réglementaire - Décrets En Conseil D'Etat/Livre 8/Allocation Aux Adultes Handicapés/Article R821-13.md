@@ -4,7 +4,9 @@ A partir du premier jour du mois suivant une période de quarante-cinq jours
 révolus passés dans une maison d'accueil spécialisée , le montant de
 l'allocation aux adultes handicapés est réduit de manière que son bénéficiaire
 conserve, après paiement du forfait journalier prévu à l'article L. 174-4,12 p.
-100 du montant mensuel de ladite allocation.
+100 du montant mensuel de ladite allocation. L'intéressé ne peut recevoir une
+allocation plus élevée que celle qu'il percevrait s'il n'était pas placé en
+maison d'accueil spécialisée.
 
 Toutefois, la réduction de l'allocation n'est opérée que pendant les périodes où
 la personne handicapée est effectivement accueillie dans l'établissement, à
@@ -18,3 +20,7 @@ de reclassement professionnel ;
 
 2°) lorsque le bénéficiaire a un ou plusieurs enfants, ou un ou plusieurs
 ascendants à sa charge au sens de l'article L. 313-3.
+
+Le service de l'allocation est repris au taux normal à compter du premier jour
+du mois suivant la date à laquelle l'intéressé n'est plus placé en maison
+d'accueil spécialisée.
