@@ -1,16 +1,15 @@
 Article R*223-2
 ----
-L'examen préalable à la délivrance du permis de chasser comporte des épreuves
-théoriques et pratiques organisées chaque année par l'Office national de la
-chasse et de la faune sauvage selon des modalités fixées par arrêté du ministre
-chargé de la chasse. Ces épreuves se déroulent dans les installations de
-formation des différents départements, dont l'office a certifié, pour le compte
-de l'Etat, la conformité aux caractéristiques techniques définies par le
-ministre chargé de la chasse en application de l'article R. 223-6.
+La brucellose dans l'espèce bovine donne lieu à déclaration dans les cas autres
+que ceux mentionnés au 1 du E de l'article R. 223-21.
 
-L'Office national de la chasse et de la faune sauvage reçoit les demandes
-d'inscription à l'examen, adresse les convocations et délivre les certificats de
-réussite aux épreuves théoriques et pratiques.
+Tout propriétaire, toute personne ayant, à quelque sorte que ce soit, la charge
+des soins ou la garde d'un animal atteint de cette maladie est tenu d'en faire
+la déclaration sans délai. La même obligation est faite à tout vétérinaire ou
+tout directeur de laboratoire ayant connaissance de cette maladie.
 
-Plusieurs sessions peuvent être organisées dans chaque département au cours
-d'une même année.
+Cette déclaration est faite dans les conditions prévues à l'article L. 223-5.
+Elle est en outre transmise au préfet du département où se trouve l'animal.
+
+Le ministre chargé de l'agriculture fixe par arrêté les critères selon lesquels
+les animaux sont réputés atteints de la maladie mentionnée au premier alinéa.

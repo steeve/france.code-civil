@@ -1,5 +1,5 @@
 Article R214-7
 ----
-Le dossier de demande d'agrément est adressé en quatorze exemplaires au ministre
-chargé de la protection de la nature (direction de la protection de la nature)
-qui le soumet à la commission des conservatoires botaniques nationaux.
+Les dispositions du décret n° 47-681 du 27 mars 1947 portant réglementation des
+associations tenant un livre généalogique s'appliquent aux animaux de l'espèce
+canine sous réserve des dispositions des articles R. 214-8 à R. 214-15.

@@ -1,8 +1,9 @@
 Article R214-19
 ----
-Saisi d'un projet de désignation d'une zone spéciale de conservation, le
-ministre chargé de l'environnement décide de proposer la zone pour la
-constitution du réseau communautaire Natura 2000. Cette proposition est notifiée
-à la Commission européenne. Lorsque la zone proposée est inscrite par la
-Commission européenne sur la liste des sites d'importance communautaire, le
-ministre de l'environnement prend un arrêté la désignant comme site Natura 2000.
+Le contrôle des établissements ouverts au public pour l'utilisation d'équidés
+est exercé par le préfet.
+
+Ce contrôle porte sur la sécurité, l'hygiène, l'enseignement, les normes
+techniques et l'état de la cavalerie de ces établissements selon des
+prescriptions définies par arrêtés conjoints du ministre chargé de
+l'agriculture, du ministre de l'intérieur et du ministre chargé des sports.

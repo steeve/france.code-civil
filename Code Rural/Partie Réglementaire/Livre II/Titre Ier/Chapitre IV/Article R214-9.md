@@ -1,9 +1,10 @@
 Article R214-9
 ----
-La commission entend le rapporteur et étudie ses propositions.
-
-Le demandeur est invité à présenter son dossier mais la commission délibère à
-huis clos.
-
-La commission rend son avis au ministre accompagné, le cas échéant, du projet de
-cahier des charges.
+Tout litige relatif aux opérations intéressant la sélection de la race,
+l'inscription au livre généalogique et la confirmation des animaux, intervenant
+entre la fédération tenant le livre généalogique et une association spécialisée
+agréée, peut être soumis à l'arbitrage de la commission scientifique et
+technique prévue à l'article R. 214-15 ; cette commission s'adjoint, à cette
+occasion, un représentant de l'association spécialisée intéressée ; l'arbitrage
+de la commission est susceptible d'un recours devant le ministre chargé de
+l'agriculture.

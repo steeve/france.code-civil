@@ -1,16 +1,17 @@
 Article R*221-30
 ----
-Les membres du conseil sont nommés par le préfet pour une période de trois ans
-renouvelable.
+Les indications permettant d'identifier les animaux et de connaître le nom et
+l'adresse de leur propriétaire sont portées à un fichier national.
 
-Nul ne peut être nommé membre de plus d'un conseil départemental. Toutefois, les
-membres des conseils départementaux de la région Ile-de-France pourront être
-nommés dans plusieurs conseils de cette région.
+Un arrêté du ministre chargé de l'agriculture fixe les règles relatives à
+l'établissement, à la mise à jour, au contrôle et à l'exploitation des fichiers
+nationaux. Le ministre peut confier la gestion d'un fichier national à une
+personne répondant aux conditions d'aptitude, d'expérience et de compétence
+technique exigées pour la tenue d'un fichier nominatif et agréée dans les
+conditions prévues à l'article R. 221-31.
 
-En cas de démission, de décès ou de perte de la qualité au titre de laquelle ils
-ont été désignés, les membres nommés doivent être remplacés dans les trois mois.
-Le mandat des nouveaux membres expire à la date à laquelle aurait normalement
-pris fin celui de leur prédécesseur.
-
-Les membres sont remplacés en cas d'absence ou d'empêchement par des membres
-suppléants nommés en même temps et dans les mêmes conditions que les titulaires.
+N'ont accès au nom et à l'adresse des propriétaires des animaux que les
+gestionnaires du fichier ainsi que, aux seules fins de recherche d'un animal par
+son numéro d'identification, les fonctionnaires de police, les gendarmes, les
+agents des services de secours contre l'incendie, les agents des services
+vétérinaires, les vétérinaires praticiens et les gestionnaires des fourrières.

@@ -1,6 +1,8 @@
 Article R*223-1
 ----
-L'autorisation prévue par l'article L. 223-2 est délivrée annuellement par les
-directeurs départementaux et interdépartementaux des affaires maritimes.
-
-Cette autorisation est valable pour l'ensemble de la zone de chasse maritime.
+Lorsqu'elle est mise en évidence dans les conditions fixées par arrêté du
+ministre chargé de l'agriculture, la tuberculose due à Mycobacterium bovis et à
+Mycobacterium tuberculosis est maladie à déclaration obligatoire chez toutes les
+espèces animales domestiques ou sauvages autres que celles pour lesquelles la
+tuberculose a été inscrite à la nomenclature des maladies réputées contagieuses
+figurant aux articles R. 223-21 et R. 223-22.

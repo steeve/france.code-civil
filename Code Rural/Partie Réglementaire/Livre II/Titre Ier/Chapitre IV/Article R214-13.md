@@ -1,9 +1,9 @@
 Article R214-13
 ----
-Lorsque l'activité ou le fonctionnement d'un conservatoire n'est pas conforme
-aux objectifs qu'il poursuit, et en particulier à son cahier des charges, le
-ministre chargé de la protection de la nature peut retirer son agrément de
-conservatoire botanique national.
+L'envoi des déclarations de saillies par l'éleveur à la fédération tenant le
+livre généalogique doit avoir lieu dans les quatre semaines suivant la saillie,
+celui des déclarations de naissance dans un délai qui ne pourra excéder deux
+semaines suivant la naissance.
 
-Il recueille au préalable l'avis de la commission des conservatoires botaniques
-nationaux et entend le responsable de l'établissement.
+Le contrôle de ces déclarations incombe à la fédération tenant le livre
+généalogique qui, notamment, fera procéder à des visites inopinées des élevages.

@@ -1,19 +1,13 @@
 Article R*223-3
 ----
-Les candidats à l'examen préalable au permis de chasser présentent une seule
-demande d'inscription à l'ensemble des épreuves théoriques et pratiques de cet
-examen.
+Lorsqu'une des maladies contagieuses énumérées aux articles R. 223-21 et R.
+223-22 est suspectée ou signalée dans une commune, le maire en informe
+immédiatement le préfet du département et le sous-préfet de l'arrondissement, et
+leur fait connaître les mesures et les arrêtés qu'il a pris, conformément aux
+dispositions du présent chapitre, pour empêcher l'extension de la contagion. Le
+préfet accuse réception au maire et prend s'il y a lieu, dans le plus bref
+délai, un arrêté pour prescrire les mesures à mettre à exécution.
 
-En cas d'échec aux épreuves théoriques ou pratiques, les candidats doivent, pour
-participer à une nouvelle session, déposer un nouveau dossier d'inscription.
-
-Sous réserve des dispositions de l'article R. 223-8, nul ne peut être admis à
-prendre part aux épreuves théoriques de l'examen préalable à la délivrance du
-permis de chasser s'il n'a quinze ans le jour de ces épreuves et s'il n'a
-participé préalablement aux formations préparant aux épreuves théoriques et
-pratiques du permis de chasser. Cette participation doit être attestée par le
-responsable des formations suivies par le candidat.
-
-Un candidat ne peut être admis à se présenter aux épreuves pratiques qu'après
-avoir réussi les épreuves théoriques, et dans un délai de dix-huit mois à
-compter de la délivrance du certificat de réussite à ces épreuves.
+Les arrêtés des maires et des préfets sont transmis au ministre chargé de
+l'agriculture, qui peut prendre, par un arrêté spécial, des mesures applicables
+à plusieurs départements.

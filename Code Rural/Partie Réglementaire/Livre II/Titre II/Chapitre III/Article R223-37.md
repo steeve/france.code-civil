@@ -1,16 +1,21 @@
 Article R223-37
 ----
-Le jury mentionné au deuxième alinéa de l'article L. 423-5 comprend :
+Dans les départements officiellement déclarés infectés de rage, au cours des
+huit jours ouvrés et francs prévus à l'article L. 211-21, seuls les chiens et
+les chats errants capturés et mis en fourrière, identifiés et vaccinés contre la
+rage, peuvent être restitués à leur propriétaire sur présentation d'une carte
+d'identification et d'un certificat de vaccination antirabique, valablement
+établis antérieurement à la capture de l'animal, et en cours de validité.
 
-- deux représentants de l'Etat, désignés par le préfet du département où le
-demandeur d'un permis de chasser est domicilié ;
+Sans préjudice des mesures prises au titre de l'article R. 223-35, dans les
+fourrières des départements officiellement déclarés infestés de rage, sont
+abattus :
 
-- deux représentants de la fédération départementale des chasseurs, dont un
-responsable de la formation préparatoire à l'examen du permis de chasser.
+1° Dans un délai de quatre jours maximum, les chiens et les chats non identifiés
+;
 
-Le jury examine les dossiers des recours dans le délai d'un mois à compter de sa
-saisine ; à l'issue de ce délai, il est réputé avoir rendu son avis.
-
-Le silence gardé pendant plus de trois mois par l'autorité administrative
-mentionnée au même alinéa vaut décision de rejet du recours dont elle a été
-saisie.
+2° Après un délai de huit jours ouvrés et francs, les chiens et les chats
+identifiés non réclamés par leur propriétaire, ou dont le propriétaire n'a pas
+présenté au gestionnaire de la fourrière la carte d'identification et le
+certificat de vaccination antirabique de l'animal, valablement établi
+antérieurement à sa capture, et en cours de validité.

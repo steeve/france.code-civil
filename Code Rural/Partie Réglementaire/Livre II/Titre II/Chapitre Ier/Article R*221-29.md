@@ -1,30 +1,19 @@
 Article R*221-29
 ----
-Le conseil est présidé par le préfet ou son délégué. Il comprend :
+1° Seules des personnes habilitées par le préfet peuvent procéder au marquage
+prévu par les articles R. 221-27 à R. 221-35.
 
-1° Huit représentants des intérêts cynégétiques :
+Le ministre chargé de l'agriculture fixe par arrêté les règles relatives à la
+présentation et à l'instruction de la demande d'habilitation ;
 
-a) Le président de la fédération des chasseurs ou son délégué ;
+2° Les vétérinaires sont habilités de plein droit ;
 
-b) Sept personnes qualifiées nommées sur proposition du président de la
-fédération des chasseurs.
+3° L'habilitation des personnes appelées à mettre en oeuvre des techniques de
+marquage qui ne relèvent pas de la médecine vétérinaire est prononcée après avis
+d'une commission comportant au moins un vétérinaire ; la commission apprécie la
+qualification du demandeur au vu de ses connaissances théoriques et pratiques ;
 
-2° Quatre représentants des intérêts agricoles et sylvicoles :
-
-a) Un représentant de l'Office national des forêts ;
-
-b) Un représentant du centre régional de la propriété forestière ;
-
-c) Le président de la chambre d'agriculture ou son délégué ;
-
-d) Un représentant des intérêts agricoles choisi parmi les organisations les
-plus représentatives.
-
-3° Deux représentants d'organismes scientifiques ou personnes qualifiées dans
-les sciences de la nature ;
-
-4° Deux représentants d'associations agréées au titre de l'article L. 252-1,
-choisies parmi les organisations les plus représentatives.
-
-Le secrétariat du conseil est assuré par la direction départementale de
-l'agriculture et de la forêt.
+4° La suspension ou le retrait de l'habilitation peuvent intervenir, y compris
+pour les praticiens habilités de plein droit, après avis de la commission
+mentionnée au 3° ci-dessus, en cas de faute grave commise à l'occasion
+d'opérations d'identification.

@@ -1,9 +1,6 @@
 Article R*221-35
 ----
-Lorsque les ressources annuelles d'une fédération départementale ou
-interdépartementale des chasseurs excèdent les dépenses correspondant à son
-objet tel qu'il est défini par l'article L. 221-2 et par ses statuts, l'excédent
-est versé à une réserve, dont le montant ne peut dépasser le chiffre des
-dépenses de la dernière année d'activité. Le surplus est reversé à l'Office
-national de la chasse et de la faune sauvage, qui l'affecte à des dépenses
-d'intérêt cynégétique général.
+L'identification des chiens et des chats ou d'autres carnivores domestiques à
+l'initiative de leur propriétaire ne comporte les effets attachés à
+l'identification obligatoire prévue par l'article L. 214-5 qu'à la condition
+d'être effectuée selon les règles fixées par le présent paragraphe.

@@ -1,10 +1,9 @@
 Article R221-24
 ----
-Il est institué auprès du préfet de chaque département un organisme consultatif
-dénommé "conseil départemental de la chasse et de la faune sauvage", chargé de
-lui donner son avis sur les moyens propres à :
+Avant d'entrer en fonctions, les agents mentionnés aux articles R. 221-21 à R.
+221-23 prêtent, devant le tribunal d'instance de leur domicile, le serment
+ci-après : "Je jure et promets de bien et loyalement remplir mes fonctions et
+d'observer en tout les devoirs qu'elles m'imposent".
 
-1° Préserver la faune sauvage et ses habitats ;
-
-2° Favoriser la gestion du capital cynégétique et de la faune sauvage dans le
-respect des équilibres biologiques et des intérêts agricoles et forestiers.
+La prestation de serment n'est pas renouvelée en cas de changement de grade ou
+d'emploi.

@@ -1,11 +1,8 @@
 Article R*226-9
 ----
-La commission se réunit à la diligence de son président. Ses décisions sont
-prises à la majorité des voix, celle du président étant prépondérante en cas de
-partage égal des voix.
-
-Elle désigne annuellement un de ses membres qui est chargé d'établir les
-procès-verbaux des séances et de surveiller l'exécution de ses décisions.
-
-Elle est assistée d'un secrétariat organisé à la diligence de l'Office national
-de la chasse et de la faune sauvage.
+Les personnes responsables des marchés désignées conformément aux dispositions
+des articles R. 226-7 et R. 226-8 sont chargées de l'engagement et de la
+liquidation des dépenses afférentes à ces marchés. Celles-ci sont ordonnancées
+par le directeur général du Centre national pour l'aménagement des structures
+des exploitations agricoles puis mises en paiement par l'agent comptable du
+centre.

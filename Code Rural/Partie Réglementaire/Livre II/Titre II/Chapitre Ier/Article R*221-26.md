@@ -1,7 +1,6 @@
 Article R*221-26
 ----
-L'Office national de la chasse et de la faune sauvage peut contribuer aux
-dépenses de fonctionnement des conseils régionaux de la chasse.
-
-Les conseils régionaux de la chasse sont soumis au contrôle financier institué
-par le décret du 25 octobre 1935.
+Les animaux qui n'ont pas été identifiés par les établissements de l'élevage,
+dans les conditions prévues aux articles 1er à 8 du décret n° 69-422 du 6 mai
+1969, peuvent faire l'objet d'une identification appliquée à l'initiative des
+services vétérinaires en vue de faciliter les contrôles sanitaires.

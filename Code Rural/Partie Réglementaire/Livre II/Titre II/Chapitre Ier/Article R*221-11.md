@@ -1,10 +1,10 @@
 Article R*221-11
 ----
-Les membres du conseil d'administration autres que les membres de droit sont
-désignés pour une période de six ans renouvelable. Il est pourvu à leur
-remplacement ou à leur renouvellement partiel par moitié tous les trois ans,
-dans les conditions fixées par arrêté du ministre chargé de la chasse.
+Les vétérinaires biologistes des armées exécutent les opérations de prophylaxie
+collective dirigées par l'Etat et les opérations de police sanitaire sur les
+animaux appartenant au ministère de la défense et sur ceux, de toute origine,
+qui séjournent de manière permanente ou occasionnelle à l'intérieur des
+enceintes militaires.
 
-Les membres du conseil d'administration sont remplacés en cas d'absence ou
-d'empêchement par des membres suppléants nommés dans les mêmes conditions que
-les titulaires.
+Les dispositions des articles R. 221-13 à R. 221-16 ne sont pas applicables aux
+vétérinaires biologistes des armées.

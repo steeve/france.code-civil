@@ -1,14 +1,30 @@
 Article R214-8
 ----
-La commission désigne en son sein un rapporteur.
+Il est tenu, pour les animaux de l'espèce canine, un livre généalogique unique,
+divisé en autant de sections que de races.
 
-Le rapporteur examine le dossier et demande, le cas échéant, des pièces
-complémentaires.
+Le livre est tenu par une fédération nationale agréée, ouverte notamment aux
+associations spécialisées par race.
 
-Il peut visiter l'établissement demandeur.
+L'association spécialisée la plus représentative pour chaque race ou groupe de
+races, sous réserve qu'elle adhère à la fédération tenant le livre généalogique,
+dans les conditions prévues par les statuts de ladite fédération, peut être
+agréée.
 
-Il rédige un projet d'avis. Si l'avis proposé est favorable, le rapporteur
-élabore un projet de cahier des charges, propre à l'établissement, et comprenant
-notamment l'ensemble des contraintes scientifiques et techniques à respecter
-pour assurer, dans des conditions optimales, la conservation génétique des
-taxons concernés.
+L'agrément est accordé en tenant compte notamment de la régularité de la
+constitution et du fonctionnement de l'association, de la définition de ses
+objectifs, de l'importance des effectifs concernés et de l'organisation générale
+de l'élevage canin.
+
+L'association spécialisée agréée est alors chargée de définir les standards de
+la race ainsi que les règles techniques de qualification des animaux au livre
+généalogique en accord avec la fédération tenant le livre généalogique.
+
+Les agréments prévus ci-dessus et les retraits d'agrément sont prononcés par
+arrêté du ministre chargé de l'agriculture après avis du conseil supérieur de
+l'élevage.
+
+Plusieurs associations spécialisées par race peuvent être invitées par
+l'autorité chargée de l'agrément à se regrouper pour constituer des unités
+suffisamment importantes et des ensembles autant que possible homogènes de races
+présentant entre elles des affinités.

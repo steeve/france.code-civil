@@ -1,27 +1,15 @@
 Article R*223-4
 ----
-Les épreuves théoriques de l'examen portent sur les matières ci-après :
+Doivent être considérés comme suspects d'une maladie contagieuse et doivent,
+comme tels, donner lieu à la déclaration prescrite par l'article L. 223-5, les
+animaux présentant des symptômes ou des lésions qui ne peuvent être rattachés
+d'une façon certaine à une maladie non contagieuse.
 
-1° Connaissance de la faune sauvage, de ses habitats et des modalités de leur
-gestion ;
+Lorsqu'une maladie contagieuse prend un caractère envahissant, tout état maladif
+non caractérisé doit entraîner la suspicion. Les mesures relatives à la rage
+relèvent dans ce cas de l'article R. 223-23.
 
-2° Connaissance de la chasse ;
-
-3° Connaissance des armes et des munitions, de leur emploi et des règles de
-sécurité ;
-
-4° Connaissance des lois et règlements relatifs aux matières qui précèdent.
-
-Les épreuves pratiques de l'examen portent sur :
-
-1° Les conditions d'évolution sur un parcours de chasse simulé avec tir à blanc
-;
-
-2° Les conditions de maniement et de transport d'une arme de chasse ;
-
-3° Le tir dans le respect des règles de sécurité.
-
-Un arrêté du ministre chargé de la chasse précise le programme et les modalités
-des épreuves théoriques et pratiques de l'examen. Les modalités des épreuves
-pratiques peuvent être adaptées pour tenir compte des possibilités des candidats
-présentant un handicap compatible avec la pratique de la chasse.
+Doivent être considérés comme contaminés les animaux qui ont cohabité avec des
+animaux atteints de maladie contagieuse ou qui ont subi le contact d'animaux, de
+personnes ou d'objets qui auraient été eux-mêmes en contact avec des animaux
+atteints de maladie contagieuse.

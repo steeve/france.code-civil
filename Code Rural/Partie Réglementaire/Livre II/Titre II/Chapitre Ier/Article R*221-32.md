@@ -1,9 +1,23 @@
 Article R*221-32
 ----
-Les présidents des fédérations départementales des chasseurs sont nommés pour
-trois ans par le ministre chargé de la chasse sur proposition des conseils
-d'administration desdites fédérations. Ils sont remplacés dans les mêmes formes
-en cas de démission, décès ou révocation.
+1° Toute personne procédant au marquage est tenue :
 
-Nul ne peut être nommé aux fonctions de président s'il est âgé de moins de
-vingt-trois ans ou de plus de soixante-douze ans.
+a) De délivrer immédiatement au propriétaire de l'animal un document attestant
+le marquage ;
+
+b) D'adresser dans les huit jours au gestionnaire du fichier national le
+document attestant le marquage ;
+
+2° Le vendeur ou le donateur est tenu :
+
+a) D'adresser dans les huit jours au gestionnaire du fichier national le
+document attestant l'identification ;
+
+b) D'adresser dans les huit jours au gestionnaire du fichier national le
+document attestant la mutation ;
+
+3° En cas de changement d'adresse, le propriétaire doit signaler celle-ci au
+fichier national.
+
+Les documents nécessaires à la mise en oeuvre des dispositions ci-dessus sont
+conformes à un modèle arrêté par le ministre chargé de l'agriculture.

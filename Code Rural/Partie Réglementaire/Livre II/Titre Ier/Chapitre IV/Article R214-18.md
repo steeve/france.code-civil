@@ -1,14 +1,14 @@
 Article R214-18
 ----
-Le préfet soumet pour avis le projet de périmètre de zone spéciale de
-conservation ou de zone de protection spéciale aux communes et aux
-établissements publics de coopération intercommunale concernés sur le territoire
-desquels est localisée en tout ou en partie la zone envisagée. Les conseils
-municipaux et les organes délibérants des établissements publics émettent leur
-avis motivé dans le délai de deux mois à compter de leur saisine. A défaut de
-s'être prononcés dans ce délai, ils sont réputés avoir émis un avis favorable.
+Il est interdit de garder en plein air des animaux des espèces bovine, ovine,
+caprine et des équidés :
 
-Le ou les préfets transmettent au ministre chargé de l'environnement le projet
-de désignation de site Natura 2000, assorti des avis qu'ils ont recueillis.
-S'ils s'écartent des avis motivés mentionnés au premier alinéa, ils en indiquent
-les raisons dans le projet qu'ils transmettent.
+1° Lorsqu'il n'existe pas de dispositifs et d'installations destinés à éviter
+les souffrances qui pourraient résulter des variations climatiques ;
+
+2° Lorsque l'absence de clôtures, d'obstacles naturels ou de dispositifs
+d'attache ou de contention en nombre suffisant est de nature à leur faire courir
+un risque d'accident.
+
+Les animaux gardés, élevés ou engraissés dans les parcages d'altitude ne sont
+soumis à ces dispositions qu'en dehors des périodes normales d'estivage.

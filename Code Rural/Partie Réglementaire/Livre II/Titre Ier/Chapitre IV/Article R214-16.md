@@ -1,6 +1,5 @@
 Article R214-16
 ----
-Pour l'application du II de l'article L. 414-1 du code de l'environnement, un
-arrêté du ministre chargé de l'environnement fixe la liste des oiseaux sauvages
-qui peuvent justifier la mise en oeuvre de la procédure de désignation de zones
-de protection spéciale.
+Pour l'exercice des missions prévues à l'article L. 214-19, les vétérinaires
+inspecteurs sont commissionnés, lors de leur première prise de fonctions par le
+ministre chargé de l'agriculture.

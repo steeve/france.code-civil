@@ -1,12 +1,14 @@
 Article R*221-6
 ----
-Les fonctions de membre du Conseil national de la chasse et de la faune sauvage
-sont gratuites, de même que la participation aux séances des personnes invitées
-par le président en application du deuxième alinéa de l'article R. 221-5. Il
-peut toutefois être alloué des indemnités correspondant aux frais de déplacement
-et de séjour effectivement supportés à l'occasion des réunions, dans les
-conditions fixées pour le règlement des frais occasionnés par les déplacements
-des personnels civils à la charge du budget de l'Etat.
+Par dérogation aux dispositions de l'article R. 221-4, un mandat spécialisé est
+attribué par le préfet lorsque les opérations de prophylaxie collective des
+animaux concernent des élevages d'intérêt génétique particulier ainsi que des
+élevages d'espèces particulières déterminées par arrêté du ministre chargé de
+l'agriculture ; un même vétérinaire peut, en ce cas, demander et se voir
+attribuer un ou plusieurs mandats sanitaires spécialisés sans qu'il y ait lieu
+de limiter ceux-ci aux seuls départements limitrophes de celui où ce vétérinaire
+a établi son domicile professionnel.
 
-Les membres suppléants ne peuvent prétendre à ces indemnités que s'ils
-remplacent un membre titulaire empêché ou absent.
+Le mandat sanitaire spécialisé habilite son titulaire à procéder dans les
+élevages mentionnés à l'alinéa précédent aux mêmes opérations que celles
+définies à l'article R. 221-5.
