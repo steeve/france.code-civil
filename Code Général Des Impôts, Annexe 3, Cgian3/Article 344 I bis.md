@@ -10,7 +10,7 @@ destination de la Principauté de Monaco.
 collectivités territoriales de Mayotte ou Saint-Pierre-et-Miquelon, les
 personnes physiques déclarent à l'administration des douanes les sommes, titres
 ou valeurs objet des transferts qu'elles réalisent pour leur propre compte ou
-pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à 50 000 F.
+pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à 7 600 euros.
 
 3. Les dispositions des 1 et 2 sont applicables aux envois postaux.
 

@@ -12,6 +12,5 @@ De même, les résultats des opérations effectuées par les établissements ou
 filiales mentionnés au II de l'article 10 GA bis ainsi que les charges ou
 produits résultant de leur détention ne sont pas pris en considération.
 
-Les résultats mentionnés au premier alinéa sont convertis en francs français sur
-la base du taux de change en vigueur à la clôture de l'exercice de la filiale
-étrangère.
+Les résultats mentionnés au premier alinéa sont convertis en euros sur la base
+du taux de change en vigueur à la clôture de l'exercice de la filiale étrangère.

@@ -12,25 +12,25 @@ des zones d'économie rurale dominante et des zones d'économie montagnarde, ain
 que pour les opérations réalisées à compter du 1er janvier 1995, dans les zones
 de revitalisation rurale délimitées par décret :
 
-1° Dans les communes situées dans une unité urbaine d'au moins 50.000 habitants
-: réalisation d'un investissement minimal de 800.000 F et création d'au moins 30
-emplois :
+1° Dans les communes situées dans une unité urbaine d'au moins 50 000 habitants
+: réalisation d'un investissement minimal de 122 000 euros et création d'au
+moins 30 emplois :
 
-2° Dans les communes situées dans une unité urbaine d'au moins 15.000 habitants
-et de moins de 50.000 habitants : réalisation d'un investissement minimal de
-500.000 F et création d'au moins 15 emplois ;
+2° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants
+et de moins de 50 000 habitants : réalisation d'un investissement minimal de 76
+000 euros et création d'au moins 15 emplois ;
 
-3° Dans les autres communes : réalisation d'un investissement minimal de 300.000
-F et création d'au moins 6 emplois ;
+3° Dans les autres communes : réalisation d'un investissement minimal de 46 000
+euros et création d'au moins 6 emplois ;
 
 b. Dans les autres zones où s'applique l'exonération temporaire :
 
-1° Dans les communes situées dans une unité urbaine d'au moins 15.000 habitants
-: réalisation d'un investissement minimal de 800.000 F et création d'au moins 30
-emplois ;
+1° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants
+: réalisation d'un investissement minimal de 122 000 euros et création d'au
+moins 30 emplois ;
 
-2° Dans les autres communes : réalisation d'un investissement minimal de 300.000
-F et création d'au moins 10 emplois.
+2° Dans les autres communes : réalisation d'un investissement minimal de 46 000
+euros et création d'au moins 10 emplois.
 
 II. En cas d'extension d'un établissement industriel :
 
@@ -40,20 +40,20 @@ des zones d'économie rurale dominante et des zones d'économie montagnarde, ain
 que pour les opérations réalisées à compter du 1er janvier 1995, dans les zones
 de revitalisation rurale délimitées par décret :
 
-1° Dans les communes situées dans une unité urbaine d'au moins 50.000 habitants
+1° Dans les communes situées dans une unité urbaine d'au moins 50 000 habitants
 :
 
-Réalisation d'un investissement minimal de 800.000 F, et
+Réalisation d'un investissement minimal de 122 000 euros, et
 
 Soit création d'au moins 30 emplois se traduisant par un accroissement net d'au
 moins 25 % du nombre des emplois ;
 
 Soit création d'au moins 120 emplois ;
 
-2° Dans les communes situées dans une unité urbaine d'au moins 15.000 habitants
-et de moins de 50.000 habitants :
+2° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants
+et de moins de 50 000 habitants :
 
-Réalisation d'un investissement minimal de 500.000 F, et
+Réalisation d'un investissement minimal de 76 000 euros, et
 
 Soit création d'au moins 15 emplois se traduisant par un accroissement net d'au
 moins 20 % du nombre des emplois ;
@@ -65,7 +65,7 @@ Soit création d'au moins 120 emplois ;
 
 3° Dans les autres communes :
 
-Réalisation d'un investissement minimal de 300.000 F, et
+Réalisation d'un investissement minimal de 46 000 euros, et
 
 Soit création d'au moins 6 emplois se traduisant par un accroissement net d'au
 moins 20 % du nombre des emplois ;
@@ -77,10 +77,10 @@ Soit création d'au moins 120 emplois ;
 
 b. Dans les autres zones où s'applique l'exonération temporaire :
 
-1° Dans les communes situées dans une unité urbaine d'au moins 15.000 habitants
+1° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants
 :
 
-Réalisation d'un investissement minimal de 800.000 F, et
+Réalisation d'un investissement minimal de 122 000 euros, et :
 
 Soit création d'au moins 30 emplois se traduisant par un accroissement net d'au
 moins 25 % du nombre des emplois ;
@@ -89,7 +89,7 @@ Soit création d'au moins 120 emplois ;
 
 2° Dans les autres communes :
 
-Réalisation d'un investissement minimal de 300.000 F, et
+Réalisation d'un investissement minimal de 46 000 euros, et :
 
 Soit création d'au moins 10 emplois se traduisant par un accroissement net d'au
 moins 25 % du nombre des emplois ;
@@ -102,13 +102,13 @@ Soit création d'au moins 120 emplois.
 III. En cas de création ou de décentralisation d'un établissement de recherche
 scientifique ou technique :
 
-Réalisation d'un investissement minimal de 100.000 F et création d'au moins 10
-emplois.
+Réalisation d'un investissement minimal de 15 000 euros et création d'au moins
+10 emplois.
 
 IV. En cas d'extension d'un établissement de recherche scientifique ou technique
 :
 
-Réalisation d'un investissement minimal de 100.000 F, et
+Réalisation d'un investissement minimal de 15 000 euros, et :
 
 Soit création d'au moins 10 emplois se traduisant par une augmentation d'au
 moins 25 % du nombre des emplois ;

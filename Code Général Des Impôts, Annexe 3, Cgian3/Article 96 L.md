@@ -3,7 +3,7 @@ Article 96 L
 La déclaration mentionnée à l'article 289 C du code général des impôts, servie
 ligne par ligne, comporte les mentions suivantes :
 
-1 Quel que soit le flux considéré :
+1. Quel que soit le flux considéré :
 
 a) Le numéro d'assujetti à la T.V.A. de l'opérateur ;
 
@@ -14,11 +14,11 @@ c) La période au titre de laquelle est établie la déclaration ;
 d) La nature du flux d'échanges ;
 
 e) Le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom
-et le numéro d'agrément de la tierce personne mentionnée à l'article 96 K ;
+de la tierce personne mentionnée à l'article 96 K ;
 
 f) Le régime de l'opération, sous réserve des dispositions du 3.
 
-2 Au titre des livraisons de biens quelle que soit leur valeur :
+2. Au titre des livraisons de biens, quelle que soit leur valeur :
 
 a) Le numéro d'identification à la T.V.A. de l'acquéreur pour les livraisons de
 biens exonérées en application du I de l'article 262 ter du code général des
@@ -31,30 +31,30 @@ T.V.A. délivré à cette entreprise par cet Etat ;
 
 c) Abrogé ;
 
-d) La valeur fiscale en francs des livraisons de biens effectuées ;
+d) La valeur fiscale en euros des livraisons de biens effectuées ;
 
 e) S'il y a lieu, le montant des régularisations commerciales effectuées en
-application du 1 de l'article 272 du code général des impôts ;
+application du 1 de l'article 272 du code général des impôts.
 
-3 Autres informations :
+3. Autres informations :
 
-1° Le nombre et la nature des autres informations portées sur la déclaration
+Le nombre et la nature des autres informations portées sur la déclaration
 dépendent de la nature des flux précisés à l'article 96 J et du montant des
 échanges par rapport aux seuils statistiques définis à l'article 28 du règlement
-(C.E.E.) n° 3330-91 et fixés par arrêté du ministre chargé des douanes.
+C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes :
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires
 est supérieur au seuil d'assimilation :
 
 1° La nomenclature de produit ;
 
-2° La valeur fiscale en francs des introductions/expéditions de biens ;
+2° La valeur fiscale en euros des introductions/expéditions de biens ;
 
 3° L'Etat membre de provenance ou de destination des produits ;
 
-4° La valeur statistique en francs déterminée selon les modalités prévues à
+4° La valeur statistique en euros déterminée selon les modalités prévues à
 l'article 12 du règlement C.E.E. n° 3046-92 du 22 octobre 1992 dès lors que la
-valeur fiscale n'est pas exigée ;
+valeur fiscale n'est pas exigée.
 
 Ces opérateurs ont la possibilité de mentionner au maximum dix des
 sous-positions de la nomenclature combinée des produits les plus importantes en
@@ -70,13 +70,13 @@ intracommunautaires est supérieur au seuil de simplification :
 2° La masse nette de la marchandise et, le cas échéant, les unités
 supplémentaires ;
 
-3° La nature de la transaction.
+3° La nature de la transaction ;
 
 c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b
 dont le montant annuel des échanges intracommunautaires excède un seuil fixé par
 arrêté :
 
-1° La valeur statistique en francs ;
+1° La valeur statistique en euros ;
 
 2° Les conditions de livraison ;
 
@@ -84,10 +84,10 @@ arrêté :
 
 4° Le département d'expédition initiale ou de destination du produit.
 
-d) Les opérateurs ont la possibilité de regrouper sous une position unique de la
-nomenclature combinée les transactions dont le montant en valeur est inférieur à
-un seuil fixé par arrêté du ministre chargé des douanes. Dans ce cas, les
-informations visées aux b et c ne sont pas renseignées.
+d) Les opérateurs ont la possibilité de regrouper, sous une position unique de
+la nomenclature combinée, les transactions dont le montant en valeur est
+inférieur à un seuil fixé par arrêté du ministre chargé des douanes. Dans ce
+cas, les informations visées aux b et c ne sont pas renseignées.
 
 Pour les opérateurs visés aux b et c, le montant total repris sous cette
 position unique de la nomenclature combinée ne peut cependant pas excéder une

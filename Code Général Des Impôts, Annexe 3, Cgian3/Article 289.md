@@ -6,11 +6,11 @@ décret n° 55-1350 modifié du 14 octobre 1955, est fixé comme suit :
 
 1° Réquisitions ne comportant pas la désignation des immeubles :
 
-75 F par personne individuellement désignée dans la demande ;
+11 € par personne individuellement désignée dans la demande ;
 
 2° Réquisitions formulées sans indication de personne :
 
-75 F par immeuble indiqué.
+11 € par immeuble indiqué.
 
 Est considéré comme immeuble chaque îlot de propriété ou parcelle cadastrale ou
 chaque lot de copropriété pour les biens faisant l'objet d'un état descriptif de
@@ -19,11 +19,11 @@ division ou d'un document analogue ;
 3° Réquisitions comportant à la fois la désignation individuelle des immeubles
 et des personnes :
 
-75 F pour celles formulées du chef de trois personnes au maximum et portant sur
+11 € pour celles formulées du chef de trois personnes au maximum et portant sur
 cinq immeubles au maximum.
 
 Il est perçu en sus de ce tarif :
 
-30 F par personne indiquée au-delà de la troisième ;
+5 € par personne indiquée au-delà de la troisième ;
 
-6 F par immeuble au-delà du cinquième.
+1 € par immeuble au-delà du cinquième.

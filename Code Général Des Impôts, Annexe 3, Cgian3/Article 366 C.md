@@ -5,5 +5,5 @@ impôts donne lieu à un versement anticipé pour chaque période servant de bas
 aux impositions dans les conditions fixées au premier alinéa du III de l'article
 1668 B du code précité.
 
-Sont dispensées du versement anticipé les sociétés dont la contribution n'excède
-pas 100 F.
+Sont dispensées du versement anticipé, les sociétés dont la contribution
+n'excède pas 15 euros.
