@@ -3,7 +3,8 @@ Article 174
 Chez les dénaturateurs d'alcool par le procédé général, il est tenu un compte
 d'alcool en nature.
 
-Ce compte est chargé en volume et en alcool pur déterminé au dixième de degré :
+Ce compte est chargé en volume et en alcool pur déterminé à partir du titre
+alcoométrique volumique lu estimé au dixième :
 
 1° Des quantités d'alcool régulièrement introduites dans l'établissement ;
 
