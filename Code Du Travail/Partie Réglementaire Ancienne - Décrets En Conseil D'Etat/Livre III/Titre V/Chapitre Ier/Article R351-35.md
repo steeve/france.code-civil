@@ -1,20 +1,26 @@
 Article R351-35
 ----
-L'exercice d'une activité professionnelle est [*cumul*] compatible avec le
-versement des allocations [*chomage*] instituées par les articles L. 351-9 et L.
-351-10 [*d'insertion, de solidarité*], à condition que :
+L'exercice d'une activité professionnelle ne peut être cumulé avec le versement
+des allocations [*ch&lt;CB&gt;mage*] instituées par les articles L. 351-9 et L.
+351-10 que tant que le nombre total des heures travaillées depuis le début du
+versement des allocations concernées n'excède pas sept cent cinquante.
 
-1° La durée de cette activité soit inférieure à soixante-dix-huit heures par
-mois ;
+Ce plafond n'est toutefois pas opposable :
 
-2° Le revenu mensuel brut qu'elle procure n'excède pas soixante-dix-huit fois le
-montant de l'allocation de base mentionnée à l'article R. 351-14 ;
+1° Aux demandeurs d'emploi inscrits auprès de l'Agence nationale pour l'emploi
+depuis plus de trois ans ;
 
-3° Le nombre total des heures de travail accomplies au-delà de quarante heures
-par mois, depuis le début du versement des allocations concernées, n'excède pas
-quatre cent cinquante.
+2° Aux demandeurs d'emploi âgés de cinquante ans ou plus inscrits auprès de
+l'Agence nationale pour l'emploi pendant au moins douze mois durant les dix-huit
+mois précédant l'application aux intéressés des dispositions du présent article
+;
 
-Pour les allocataires qui ont dépassé le plafond fixé au 3° de l'alinéa
-précédent, la durée de l'activité ne doit pas dépasser quarante heures par mois
-et le revenu mensuel brut qu'elle procure ne doit pas excéder quarante fois le
-montant de l'allocation de base mentionnée à l'article R. 351-14.
+3° Aux bénéficiaires de l'allocation de revenu minimum d'insertion inscrits
+auprès de l'Agence nationale pour l'emploi pendant au moins douze mois durant
+les dix-huit mois précédant l'application aux intéressés des dispositions du
+présent article.
+
+Lorsque le plafond est atteint pendant la durée d'exécution d'un contrat
+emploi-solidarité prévu à l'article L. 322-4-7, l'intéressé conserve le bénéfice
+de ses allocations, dans les conditions fixées à l'article R. 351-36, jusqu'à
+l'expiration de ce contrat.
