@@ -1,7 +1,7 @@
 Article R331-48
 ----
 Lorsque les logements sont construits ou acquis et améliorés, par les personnes
-physiques mentionnées à l'article R. 331-39, 1°, qui assurent elles-mêmes la
+physiques mentionnées à l'article R. 331-39, 1., qui assurent elles-mêmes la
 maîtrise d'ouvrage, ces logements, pour pouvoir faire l'objet d'une décision
 favorable, doivent :
 
@@ -20,4 +20,8 @@ les opérations d'agrandissement de logements existants, par extension ou
 surélévation, ou d'aménagement à usage de logement de locaux non destinés à
 l'habitation peuvent faire l'objet d'une décision favorable, lorsqu'elles sont
 réalisées par des personnes physiques propriétaires des logements ou locaux et
-assurant elles-mêmes la maîtrise d'ouvrage des travaux.
+assurant elles-mêmes la maîtrise d'ouvrage des travaux. Sont assimilés à des
+propriétaires les titulaires de contrat leur donnant vocation à l'attribution à
+terme de la propriété du logement qu'ils occupent ainsi que les porteurs de
+parts ou d'actions de sociétés leur donnant vocation à l'attribution en
+propriété du logement qu'ils occupent.

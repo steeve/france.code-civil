@@ -7,5 +7,5 @@ de trois mois qui suit l'acte la constatant.
 
 Si la mutation intervient au profit d'une personne occupant le logement à titre
 de résidence principale et remplissant les conditions de ressources fixées à
-l'article R. 331-42, le nouveau propriétaire peut obtenir, sur autorisation du
-préfet, le transfert des prêts à son profit.
+l'article R. 331-42, le nouveau propriétaire peut obtenir le transfert du prêt à
+son profit.
