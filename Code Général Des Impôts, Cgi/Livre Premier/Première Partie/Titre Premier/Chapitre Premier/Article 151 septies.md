@@ -41,9 +41,7 @@ montant de 36 000 Euros.
 II. - Les plus-values réalisées dans le cadre d'une activité agricole sont
 exonérées dans les conditions applicables aux entreprises mentionnées au 1° du a
 du I. Le terme de recettes s'entend de la moyenne des recettes encaissées au
-cours des deux années civiles qui précèdent leur réalisation. Pour les
-plus-values réalisées à la suite d'une expropriation, la condition que
-l'activité agricole ait été exercée pendant au moins cinq ans n'est pas requise.
+cours des deux années civiles qui précèdent leur réalisation.
 
 III. - Lorsque l'activité de l'entreprise se rattache aux deux catégories
 définies aux 1° et 2° du a du I :
@@ -89,11 +87,16 @@ publique ne sont pas considérés comme des biens entrant dans le champ
 d'application du A de l'article 1594-0 G.
 
 Lorsque les conditions mentionnées aux I, II, III, IV ou au deuxième alinéa du
-présent V ne sont pas remplies, il est fait application du régime des
-plus-values professionnelles prévu aux articles 39 duodecies à 39 quindecies et
-93 quater.
+présent V ne sont pas remplies, il est fait application :
 
-Les dispositions des articles 150 U à 150 VH sont applicables aux plus-values
+Des règles prévues aux articles 150 A à 150 S pour les terrains à bâtir et les
+terres à usage agricole ou forestier ;
+
+Du régime fiscal des plus-values professionnelles prévu aux articles 39
+duodecies à 39 quindecies et à 93 quater pour les autres éléments de l'actif
+immobilisé.
+
+Les dispositions des articles 150 A à 150 S sont applicables aux plus-values
 réalisées lors de la cession de locaux d'habitation meublés ou destinés à être
 loués meublés et faisant l'objet d'une location directe ou indirecte par des
 personnes autres que les loueurs professionnels. Les loueurs professionnels
