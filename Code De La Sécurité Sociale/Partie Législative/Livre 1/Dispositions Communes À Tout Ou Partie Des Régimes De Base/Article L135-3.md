@@ -8,9 +8,9 @@ L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1, à concurrence d'un montant
 correspondant à l'application d'un taux de 1,05 p. 100 à l'assiette de ces
 contributions ;
 
-2° (Paragraphe supprimé)
+2° [*Paragraphe supprimé*]
 
-3° (Paragraphe abrogé)
+3° Le produit de la taxe instituée à l'article L. 137-1 ;
 
 4° Une fraction, fixée par arrêté des ministres chargés de la sécurité sociale
 et du budget, du solde du produit de la contribution sociale de solidarité à la
