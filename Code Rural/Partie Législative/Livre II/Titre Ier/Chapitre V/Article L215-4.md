@@ -9,4 +9,6 @@ par le prévenu.
 
 Le jugement de condamnation peut prononcer la confiscation de l'objet de
 l'infraction ainsi que des instruments et véhicules ayant servi à commettre
-l'infraction.
+l'infraction. Il peut également ordonner l'affichage ou la publication d'un
+extrait du jugement à la charge de l'auteur de l'infraction, dans les conditions
+prévues à l'article 131-35 du code pénal.

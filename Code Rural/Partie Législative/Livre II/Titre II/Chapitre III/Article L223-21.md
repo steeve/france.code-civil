@@ -1,6 +1,7 @@
 Article L223-21
 ----
-La délivrance et le visa du permis de chasser peuvent être refusés :
+La délivrance du permis de chasser peut être refusée et la validation du permis
+peut être retirée :
 
 1° Aux alcooliques signalés à l'autorité sanitaire comme étant présumés
 dangereux, par application des dispositions de l'article L. 355-2 du code de la
@@ -22,6 +23,6 @@ plants venus naturellement ou faits de main d'homme ;
 5° A ceux qui ont été condamnés pour vagabondage, mendicité, vol, escroquerie,
 ou abus de confiance.
 
-La faculté de refuser la délivrance ou le visa du permis de chasser aux
-condamnés mentionnés aux 3°, 4° et 5° du présent article cesse cinq ans après
-l'expiration de la peine.
+La faculté de refuser la délivrance ou de retirer la validation du permis de
+chasser aux condamnés mentionnés aux 3°, 4° et 5° du présent article cesse cinq
+ans après l'expiration de la peine.

@@ -5,4 +5,5 @@ emprisonnement de dix jours à un mois :
 
 1° Ceux qui auront chassé en temps prohibé ;
 
-2° Ceux qui auront chassé pendant la nuit.
+2° Ceux qui auront chassé la nuit dans des conditions autres que celles visées
+aux articles L. 224-4 et L. 224-4-1.

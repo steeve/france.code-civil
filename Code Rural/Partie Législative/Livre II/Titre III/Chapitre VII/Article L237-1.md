@@ -20,9 +20,9 @@ assermentés de cet établissement visés à l'article L. 122-7 du code forestie
 
 4° Les gardes champêtres ;
 
-5° Les agents de l'Office national de la chasse commissionnés à cet effet par le
-ministre chargé de la protection de la nature et assermentés dans la
-circonscription à laquelle ils sont affectés.
+5° Les agents de l'Office national de la chasse et de la faune sauvage
+commissionnés à cet effet par le ministre chargé de la protection de la nature
+et assermentés dans la circonscription à laquelle ils sont affectés.
 
 Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les
 conditions dans lesquelles, au-delà de la limite de salure des eaux, est

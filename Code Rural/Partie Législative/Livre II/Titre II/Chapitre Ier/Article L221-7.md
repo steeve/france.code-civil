@@ -1,4 +1,7 @@
 Article L221-7
 ----
-Les fédérations des chasseurs sont soumises au contrôle financier institué par
-le décret du 25 octobre 1935.
+Les fédérations départementales des chasseurs sont soumises au contrôle visé aux
+articles L. 111-7 et L. 211-6 du code des juridictions financières.
+
+Les fédérations départementales des chasseurs sont en outre soumises au contrôle
+économique et financier de l'Etat.

@@ -1,3 +1,3 @@
 Article L223-9
 ----
-Le permis de chasser est visé annuellement par l'autorité administrative.
+Le permis de chasser est validé par l'autorité administrative.

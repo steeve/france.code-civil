@@ -1,7 +1,7 @@
 Article L213-4
 ----
 Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des
-animaux mentionnés à l'article L. 212-1 ci-dessus :
+animaux d'espèces non domestiques :
 
 1° Les établissements définis à l'article L. 213-3 ;
 
