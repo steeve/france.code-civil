@@ -6,10 +6,9 @@ paiement et aviser le directeur de la caisse.
 
 Celui-ci peut, dans la limite de la délégation reçue du conseil
 d'administration, sous sa responsabilité personnelle et pécuniaire, requérir par
-écrit qu'il soit passé outre au refus de paiement [*dérogation*].
-
-L'agent comptable paie immédiatement et annexe à l'ordre de dépense l'original
-de la réquisition qu'il a reçue. Il en rend compte au président du conseil
+écrit qu'il soit passé outre au refus de paiement *dérogation*. L'agent
+comptable paie immédiatement et annexe à l'ordre de dépense l'original de la
+réquisition qu'il a reçue. Il en rend compte au président du conseil
 d'administration qui en informe le conseil d'administration. La responsabilité
 pécuniaire du directeur est, le cas échéant, mise en cause par le conseil
 d'administration.
@@ -22,8 +21,8 @@ comité départemental d'examen des comptes ;
 2°) par le ministre chargé de la sécurité sociale, sur avis de la Cour des
 comptes émis à la suite d'une seconde vérification.
 
-Dans ce cas, le directeur bénéficie des dispositions des articles D. 253-63, D.
-253-64 et D. 253-65.
+Dans ce cas, le directeur bénéficie des dispositions des articles D. 253-78, D.
+253-79 et D. 253-80.
 
 Il ne peut être procédé à la réquisition dans les cas suivants :
 
@@ -37,4 +36,5 @@ Il ne peut être procédé à la réquisition dans les cas suivants :
 limitatifs ;
 
 5°) suspension ou annulation de la décision du conseil d'administration par
-application des articles L. 151-1 et R. 151-1.
+application des articles L. 151-1 et R. 151-1 et des articles L. 152-1 et R.
+152-1 applicable au régime d'assurance vieillesse des professions libérales.

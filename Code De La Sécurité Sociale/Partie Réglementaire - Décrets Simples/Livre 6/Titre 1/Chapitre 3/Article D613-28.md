@@ -10,3 +10,4 @@ vérifié, dans les conditions prévues par le présent chapitre :
 3°) l'imputation de la dépense ;
 
 4°) la disponibilité des crédits dans le cas où ces derniers sont limitatifs.
+Les contrôles seront sélectifs suivant la nature de la dépense.

@@ -14,9 +14,9 @@ consignations ou ses préposés ;
 4°) les comptes de fonds tenus par la Banque de France et par les établissements
 bancaires agréés.
 
-Les divers comptes de disponibilités sont ouverts sur décision du conseil
-d'administration à la diligence de l'agent comptable. Avis de l'ouverture de ces
-comptes doit être donné au trésorier-payeur général intéressé.
+Les divers comptes de disponibilités sont ouverts sur décision conjointe du
+directeur et de l'agent comptable. Avis de l'ouverture de ces comptes doit être
+donné au trésorier-payeur général intéressé.
 
 L'agent comptable qui provoque l'ouverture d'un compte externe de disponibilité
 non prévu par la réglementation commet une faute de service passible de sanction
