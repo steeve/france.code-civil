@@ -1,8 +1,7 @@
 Article 443
 ----
-La commission départementale appelée à donner son avis sur les demandes dans les
-cas prévus par les articles 432 et 434 est composée ainsi qu'il suit
-[*composition*]:
+La commission départementale appelée à donner son avis sur les demandes en
+décharge ou en atténuation de responsabilité est composée ainsi qu'il suit :
 
 Le préfet ou son représentant président;
 

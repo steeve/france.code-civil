@@ -1,8 +1,11 @@
 Article 441
 ----
-Les recours prévus à l'article 440 sont instruits comme les demandes en décharge
-ou en atténuation de responsabilité relevant directement de la compétence du
-ministre de l'économie et des finances.
+Les comptables du Trésor chargés du recouvrement des impôts directs ainsi que
+les receveurs particuliers des finances sont admis à se pourvoir devant le
+ministre du budget contre les décisions rejetant les demandes de sursis de
+versement.
+
+Le recours a un effet suspensif.
 
 La décision du ministre est notifiée par la voie hiérarchique aux comptables
-intéressés et au directeur des services fiscaux.
+intéressés.
