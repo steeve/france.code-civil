@@ -16,15 +16,14 @@ directeur des services fiscaux lorsque les sommes n'excèdent pas 400.000 F
 La décision appartient au directeur de la comptabilité publique lorsque,
 s'agissant de sommes n'excédant pas la limite prévue au troisième alinéa, le
 trésorier-payeur général a émis un avis ne concordant pas avec celui du
-directeur des services fiscaux [*contraire*] et qu'ayant été saisies de
-l'affaire en raison de ce désaccord, la direction de la comptabilité publique et
-la direction générale des impôts ont émis des avis concordants.
+directeur des services fiscaux et qu'ayant été saisies de l'affaire en raison de
+ce désaccord, la direction de la comptabilité publique et la direction générale
+des impôts ont émis des avis concordants.
 
 Il en est de même, lorsque s'agissant de sommes qui excèdent la limite précitée,
 la direction de la comptabilité publique et la direction générale des impôts ont
 émis des avis concordants.
 
-Le ministre statue, après avis du comité des remises et transactions, quel que
-soit le montant des sommes dues, lorsque les avis émis par la direction de la
-comptabilité publique et la direction générale des impôts ne sont pas
-concordants.
+Le ministre statue, quel que soit le montant des sommes dues, lorsque les avis
+émis par la direction de la comptabilité publique et la direction générale des
+Impôts ne sont pas concordants.
