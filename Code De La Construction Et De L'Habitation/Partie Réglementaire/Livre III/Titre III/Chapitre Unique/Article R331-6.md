@@ -10,7 +10,11 @@ intervenue dans un délai maximum de quatre mois à compter de la date de la
 demande de décision favorable, cette demande est réputée rejetée.
 
 La décision favorable ne peut être prise qu'après la passation, par le
-demandeur, d'une convention prévue au 3° de l'article L. 351-2.
+demandeur, d'une convention prévue au 3° de l'article L. 351-2. Toutefois, pour
+les opérations financées dans les conditions de l'article R. 331-14 et
+bénéficiant de subventions prévues aux 2° et 3° de l'article R. 331-15, la
+conclusion de la convention peut intervenir, au plus tard, lors du versement du
+premier acompte prévu à l'article R. 331-16.
 
 Pour les opérations de construction, le nombre de logements pouvant faire
 l'objet de décisions favorables du préfet ne peut excéder la limite qui lui a
