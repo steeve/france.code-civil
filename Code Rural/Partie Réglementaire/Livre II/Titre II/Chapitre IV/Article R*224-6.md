@@ -1,10 +1,18 @@
 Article R*224-6
 ----
-Le ministre chargé de la chasse peut, par arrêté publié au moins vingt jours
-avant la date de sa prise d'effet, autoriser la chasse au gibier d'eau avant la
-date d'ouverture générale et jusqu'à celle-ci :
+Les dérogations mentionnées au cinquième alinéa de l'article L. 224-2 peuvent
+être accordées par les préfets pour permettre la capture, la détention, ou toute
+autre exploitation judicieuse, en petites quantités, des oies, du pigeon ramier
+et des grives, jusqu'au 20 février.
 
-1° En zone de chasse maritime ;
+Un arrêté du ministre chargé de la chasse, pris après avis du Conseil national
+de la chasse et de la faune sauvage, précise les conditions dans lesquelles ces
+prélèvements peuvent être autorisés et les modalités des contrôles à mettre en
+oeuvre. Le ministre fixe également, par espèce, après avis de la fédération
+nationale de la chasse et de l'Office national de la chasse et de la faune
+sauvage, le nombre maximal d'oiseaux susceptibles d'être ainsi prélevés par
+département.
 
-2° Sur les fleuves, rivières, canaux, réservoirs, lacs, étangs et dans les
-marais non asséchés, le tir au-dessus de la nappe d'eau étant seul autorisé.
+Les préfets définissent, dans les conditions prévues à l'article L. 225-5, le
+nombre maximal d'oiseaux susceptibles d'être prélevés par les bénéficiaires de
+la dérogation.
