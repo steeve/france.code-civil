@@ -5,3 +5,7 @@ de l'entreprise exploitée en société ainsi que leur conjoint et leurs enfants
 non émancipés ne peuvent bénéficier directement ou indirectement à quelque titre
 que ce soit de la participation des employeurs. Il en est de même de
 l'exploitant individuel, de son conjoint et de leurs enfants non émancipés.
+
+Toutefois, le conjoint du dirigeant de société ou de l'exploitant individuel et
+leurs enfants non émancipés, salariés d'une autre entreprise, peuvent bénéficier
+d'un prêt au titre de la participation des employeurs de cette entreprise.

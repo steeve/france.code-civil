@@ -17,14 +17,15 @@ l'article R. 313-39 (alinéa 2) ;
 conditions fixées par arrêté conjoint du ministre chargé de la construction et
 de l'habitation et du ministre chargé des finances.
 
+Ces prêts ne doivent pas constituer un accessoire au contrat de travail.
+
 2. Souscriptions de titres de sociétés immobilières dont les parts ou actions ne
 permettent par l'attribution en toute propriété ou en jouissance de logements.
 
 Ces sociétés ont pour objet :
 
-a) Soit l'acquisition et l'aménagement de terrains destinés à la construction de
-logements sociaux ou la gestion de logements locatifs sociaux dont elles ne sont
-pas propriétaires.
+a) Soit la gestion de logements locatifs sociaux dont elles ne sont pas
+propriétaires.
 
 Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a et b) doivent
 détenir au moins 95 p. 100 du capital de ces sociétés.
@@ -62,9 +63,7 @@ conditions de fonctionnement et d'intervention de ces sociétés sont définies 
 arrêté conjoint du ministre chargé de la construction et de l'habitation et du
 ministre chargé des finances.
 
-3. Prêts à des sociétés mentionnées au 2. ci-dessus autres que celles ayant pour
-objet la gestion de logements locatifs sociaux dont elles ne sont pas
-propriétaires.
+3. Prêts à des sociétés mentionnées au 2. et au 2. bis ci-dessus.
 
 4. Prêts :
 
@@ -106,9 +105,8 @@ subventions ou en vue de souscriptions de titres mentionnés au 2. ci-dessus.
 versements de la participation des employeurs en application de l'article R.
 313-9 (2., c).
 
-10. Participations sous forme de subventions ou de prêts au financement des
-opérations d'aménagement de logements existants occupés par des handicapés
-physiques.
+10. Participation sous forme de subventions ou de prêts au financement
+d'aménagement spécifique de logement pour des handicapés physiques.
 
 11. Prêts à des personnes morales pour le financement complémentaire de travaux
 d'aménagement ou de remise en état sur les immeubles existants occupés ou
@@ -118,3 +116,14 @@ exploitations minières et assimilées prévu par le décret n. 46-1433 du 14 ju
 construction et de l'habitation et du ministre chargé des finances.
 
 12. Versements à l'organisme visé à l'article R. 313-36 (alinéa 2).
+
+13. Prêts à des personnes morales qui réalisent, dans les grandes
+agglomérations, des opérations de logements locatifs à usage d'habitation
+principale dont le loyer est fixé par convention entre l'Etat et la personne
+morale et qui sont destinés à des familles dont les ressources ne dépassent pas
+un plafond fixé par arrêté du ministre chargé de la construction et de
+l'habitation.
+
+Les conditions de ces prêts, les modalités d'occupation des logements ainsi que
+celles du contrôle exercé par l'organisme collecteur sont déterminées par une
+convention conclue entre les personnes morales et les organismes collecteurs.

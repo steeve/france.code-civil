@@ -11,4 +11,6 @@ considérée ;
 
 Le financement de l'amélioration de logements existants au titre de la
 participation des employeurs doit intervenir au plus tard trois mois après
-l'exécution de travaux.
+l'achèvement des travaux. En cas d'acquisition en vue d'amélioration de
+logements, ce délai est porté à vingt-quatre mois à compter de la date
+d'acquisition.

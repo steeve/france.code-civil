@@ -1,7 +1,7 @@
 Article R*313-9
 ----
-Les quatre cinquièmes [*pourcentage*] de la participation sont utilisés selon
-les modalités ci-après [*bénéficiaires*] :
+La participation est, sous réserve des dispositions prévues à l'article R.
+313-10, utilisée selon les modalités ci-après [*bénéficiaires*] :
 
 1. Prêts aux salariés de l'employeur pour faciliter la construction de leur
 propre logement ;
