@@ -10,8 +10,8 @@ Ils peuvent délivrer ces produits seulement aux conditions suivantes :
 1° Sous forme de préparations magistrales ou de préparations composées inscrites
 à la pharmacopée ou au formulaire national ;
 
-2° En nature, dans les conditions fixées à l'article 641 du code de la santé
-publique.
+2° En nature, dans les conditions fixées à l'article L. 3322-5 du code de la
+santé publique.
 
 Les pharmaciens d'officine doivent tenir, sur un registre préalablement coté et
 paraphé par le pharmacien inspecteur de santé publique, un compte d'entrées et

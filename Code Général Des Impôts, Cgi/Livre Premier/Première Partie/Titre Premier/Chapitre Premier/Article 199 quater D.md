@@ -4,7 +4,7 @@ Les contribuables célibataires, veufs ou divorcés domiciliés en France au sen
 de l'article 4 B peuvent bénéficier d'une réduction de leur impôt sur le revenu
 égale à 25 p. 100 des dépenses nécessitées par la garde des enfants âgés de
 moins de six ans qu'ils ont à leur charge. Le montant global des dépenses à
-retenir pour le calcul de la réduction d'impôt est limité à 15.000 F par enfant,
+retenir pour le calcul de la réduction d'impôt est limité à 15 000 F par enfant,
 sans pouvoir excéder le montant des revenus professionnels net de frais. Les
 dispositions du 5 du I de l'article 197 sont applicables.
 
@@ -17,10 +17,8 @@ l'enseignement supérieur (1).
 
 Les dépenses définies au premier alinéa s'entendent des sommes versées à une
 assistante maternelle mentionnée à l'article 80 sexies ou à un établissement de
-garde répondant aux conditions prévues à l'article L. 180 du code de la santé
-publique (2).
+garde répondant aux conditions prévues à l'article L. 2324-1 du code de la santé
+publique.
 
-(1) Le chiffre de 15.000 F s'applique à partir de l'imposition des revenus de
+(1) Le chiffre de 15 000 F s'applique à partir de l'imposition des revenus de
 1989.
-
-(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.
