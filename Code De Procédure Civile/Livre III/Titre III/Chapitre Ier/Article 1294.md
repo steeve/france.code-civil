@@ -5,6 +5,9 @@ ressort du tribunal qui l'a rendu.
 
 Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le
 mariage a été célébré à fin de mention en marge de l'acte de célébration.
+Lorsque l'union a été célébrée à l'étranger et qu'un acte de mariage a été
+dressé ou transcrit sur un registre français, le dispositif du jugement est
+notifié aux mêmes fins à l'autorité détenant ce registre.
 
 Si un contrat de mariage a été passé par les époux, le dispositif de la décision
 est notifié par lettre recommandée avec demande d'avis de réception au notaire
