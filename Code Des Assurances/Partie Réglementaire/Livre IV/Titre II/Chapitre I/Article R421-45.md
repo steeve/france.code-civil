@@ -1,8 +1,8 @@
 Article R421-45
 ----
 Il est ouvert dans les écritures de la Caisse des dépôts et consignations un
-compte de dépôt intitulé : fonds de garantie (art. L. 421-1 du code des
-assurances et art. 366 ter du code rural).
+compte de dépôt intitulé : fonds de garantie (art. L. 421-1 et art. L. 421-8 du
+code des assurances).
 
 Toutes les opérations concernant ce compte sont ordonnées par le représentant
 qualifié du fonds.

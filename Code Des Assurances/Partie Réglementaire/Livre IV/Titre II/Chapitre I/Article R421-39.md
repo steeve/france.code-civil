@@ -1,8 +1,8 @@
 Article R421-39
 ----
 Les taux et quotité des contributions mentionnées à l'article R. 421-38 sont
-fixés par décret rendu sur le rapport du ministre de l'économie et des finances,
-dans la limite des montants maximaux ci-après :
+fixés par arrêté du ministre chargé des assurances, dans la limite des montants
+maximaux ci-après :
 
 Contribution des entreprises d'assurance : 12 % de la totalité des charges des
 opérations du fonds de garantie afférentes à la chasse et à la destruction des
