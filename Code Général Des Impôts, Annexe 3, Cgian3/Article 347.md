@@ -70,25 +70,15 @@ coefficients d'actualisation des valeurs locatives des bois et forêts, un des
 représentants des contribuables doit être propriétaire de bois et forêts ; il
 est appelé à siéger.
 
-III. 1. Sous réserve des dispositions ci-après, il est désigné deux suppléants
-pour un titulaire.
-
-2. Si le président de la commission le juge utile, le nombre de suppléants peut
-être augmenté, pour la ville de Paris, jusqu'à :
-
-soixante-quinze, en ce qui concerne les représentants des contribuables désignés
-par la chambre de commerce et d'industrie ;
-
-vingt-cinq, en ce qui concerne les représentants des contribuables désignés par
-la chambre des métiers et par les organisations ou organismes professionnels
-regroupant les titulaires de revenus non commerciaux.
-
-3. Dans les mêmes conditions qu'au 2, le nombre de suppléants peut être porté
-respectivement à trente et à quinze, pour les départements de plus de 600 000
-habitants.
+III ((Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants
+peut toutefois être modifié dans les conditions et limites fixées par arrêté du
+ministre chargé du budget)) (M).
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est
 saisie d'un litige intéressant un contribuable qui relève de l'administration
 des douanes et des droits indirects au regard desdites taxes, l'un des
 représentants de la direction générale des impôts peut être remplacé par un
 fonctionnaire de la direction générale des douanes et des droits indirects.
+
+(M) Modification qui entrera en vigueur pour les désignations des représentants
+appelés à siéger en 1998.
