@@ -1,7 +1,7 @@
 Article D173-19
 ----
 Lorsqu'un des bénéficiaires des régimes de retraites mentionnés à l'article D.
-173-15, a été admis à effectuer sous ce régime des versements rétroactifs pour
+173-15 a été admis à effectuer sous ce régime des versements rétroactifs pour
 des services antérieurement accomplis dans la collectivité ou l'établissement et
 que, pour la période correspondant à ces services, il a acquitté les versements
 prévus par les législations sur les retraites ouvrières et paysannes et les
@@ -12,8 +12,7 @@ de retraites. La part correspondant aux contributions personnelles de l'assuré
 est réduite, par ladite collectivité ou ledit établissement, des versements
 rétroactifs que l'intéressé doit effectuer au titre de son régime de retraites.
 
-L'annulation de versement prescrite au premier alinéa ci-dessus est opérée soit
-par la caisse du régime général de sécurité sociale chargée de la gestion du
-risque vieillesse dont l'intéressé relevait en dernier lieu, soit lorsqu'il
-s'agit d'un fonctionnaire de l'Etat soumis à la législation sur les pensions
-civiles et militaires, par le commissaire de la République de région.
+L'annulation de versement prescrite au premier alinéa ci-dessus est opérée par
+la caisse du régime général de sécurité sociale chargée de la gestion du risque
+vieillesse dont l'intéressé relevait en dernier lieu à la demande de
+l'établissement ou de la collectivité concerné.
