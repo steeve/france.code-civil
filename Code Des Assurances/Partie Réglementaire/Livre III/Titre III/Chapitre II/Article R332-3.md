@@ -12,30 +12,37 @@ même article et affectées à la représentation des provisions techniques ;
 énumérées au même article et affectées à la représentation des provisions
 techniques ;
 
-3° Les prêts mentionnés aux 9°, 10° et 11° de l'article R. 332-2 ne peuvent
-représenter plus de 35 p. 100 du montant au bilan des valeurs énumérées au même
-article et affectées à la représentation des provisions techniques ;
+3° Les prêts mentionnés aux 9°, 10°, 10 bis et 11° de l'article R. 332-2 ne
+peuvent représenter plus de 35 p. 100 du montant au bilan des valeurs énumérées
+au même article et affectées à la représentation des provisions techniques ;
 
 4° Les liquidités mentionnées au 16° de l'article R. 332-2 ne peuvent
 représenter plus de 15 p. 100 du montant au bilan des valeurs énumérées au même
 article et affectées à la représentation des provisions techniques ;
 
-5° Sauf dérogation accordée par le ministre de l'économie et des finances :
+5° Sauf dérogation accordée par décision ministérielle :
 
-- un même immeuble ou les parts ou actions d'une même société immobilière ne
+a) Un même immeuble ou les parts ou actions d'une même société immobilière ne
 peuvent représenter plus de 10 p. 100 du montant au bilan des valeurs énumérées
 à l'article R. 332-2 et affectées à la représentation des provisions techniques
 ;
 
-- les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception
-des valeurs émises par l'Etat ou jouissant de sa garantie, ne peuvent
-représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à
+b) Les valeurs émises ou les prêts obtenus par un même emprunteur, à l'exception
+des valeurs émises par l'Etat ou jouissant de sa garantie ou émises par des
+organismes figurant sur une liste établie par le ministre de l'économie, ne
+peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs énumérées à
 l'article R. 332-2 et affectées à la représentation des provisions techniques ;
 
-Les actions, parts et autres valeurs mobilières inscrites au compartiment
+c) Les actions, parts et autres valeurs mobilières inscrites au compartiment
 spécial du marché hors cote des bourses françaises de valeurs ne peuvent
 représenter plus de 5 p. 100 de l'ensemble des valeurs mentionnées au 4° de
-l'article R. 332-2.
+l'article R. 332-2 ;
+
+d) Les valeurs mentionnées au 4° bis de l'article R. 332-2 autres que les
+actions d'entreprises d'assurance, de réassurance et de capitalisation ne
+peuvent représenter plus de 5 p. 100 du montant au bilan des valeurs visées au
+4° de l'article R. 332-2. Cette limite est réduite à 1 p. 100 lorsque ces
+valeurs sont émises par le même émetteur.
 
 6° L'ensemble des parts ou actions d'entreprises étrangères d'assurance ou de
 capitalisation mentionnées à l'article R. 332-2, 13°, ne peut dépasser 5 p. 100
@@ -44,10 +51,9 @@ représentation des provisions techniques ;
 
 7° Une entreprise d'assurance ou de capitalisation ne peut détenir au titre des
 valeurs énumérées à l'article R. 332-2 et affectées à la représentation des
-provisions techniques, plus de 5 p. 100 des titres inscrits à la cote officielle
-des bourses françaises de valeurs d'une même entreprise d'assurance, de
-réassurance ou de capitalisation, sauf dérogation accordée par le ministre de
-l'économie et des finances ;
+provisions techniques, plus de 50 p. 100 des actions d'une même entreprise
+d'assurance, de réassurance ou de capitalisation, sauf dérogation accordée par
+le ministre de l'économie et des finances ;
 
 8° Les titres de rente et les obligations non cotées émises par l'Etat français
 ou jouissant de sa garantie et les obligations non cotées émises par le Crédit
@@ -58,7 +64,7 @@ l'article R. 332-2, 12° et du 1° du présent article.
 9° Les provisions techniques des entreprises opérant à la fois sur le territoire
 français et sur le territoire monégasque doivent être représentées dans les
 conditions prévues par la réglementation française ; toutefois, les actifs admis
-en représentation desdites provisions peuvent comprendre, à concurrence de 5 p.
+en représentation desdites provisions peuvent comprendre à concurrence de 5 p.
 100 du montant de celles-ci, des placements mobiliers ou immobiliers
 monégasques, sur autorisation donnée conjointement, pour chaque entreprise ou
 pour chaque cas, par le ministre de l'économie et des finances de la République
