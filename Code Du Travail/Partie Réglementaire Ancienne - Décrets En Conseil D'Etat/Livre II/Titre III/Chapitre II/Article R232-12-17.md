@@ -8,11 +8,11 @@ Le premier secours est assuré par des extincteurs en nombre suffisant et
 maintenus en bon état de fonctionnement.
 
 Il y a au moins un extincteur portatif à eau pulvérisée de 6 litres au minimum
-ou, en cas de risque électrique, à poudre de 6 kilogrammes, pour 200 mètres
-carrés de plancher, avec un minimum d'un appareil par niveau.
+pour 200 mètres carrés de plancher, avec un minimum d'un appareil par niveau.
 
-En outre, les locaux présentant des risques particuliers d'incendie doivent être
-dotés d'au moins un extincteur approprié aux risques.
+Lorsque les locaux présentent des risques d'incendie particuliers, notamment des
+risques électriques, ils doivent être dotés d'extincteurs dont le nombre et le
+type sont appropriés aux risques.
 
 Les établissements sont équipés, si cela est jugé nécessaire, de robinets
 d'incendie armés, de colonnes sèches, de colonnes humides, d'installations fixes

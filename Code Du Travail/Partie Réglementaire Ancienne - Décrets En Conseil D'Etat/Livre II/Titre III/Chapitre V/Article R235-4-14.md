@@ -14,8 +14,8 @@ l'intérieur du sas.
 Leurs escaliers et leurs ascenseurs doivent être :
 
 a) Soit encloisonnés dans des cages coupe-feu de degré 1 heure comportant des
-portes pare-flammes de degré demi-heure et un dispositif de désenfumage en
-partie supérieure ;
+portes pare-flammes de degré demi-heure et pour les escaliers, un dispositif de
+désenfumage en partie supérieure ;
 
 b) Soit à l'air libre.
 
