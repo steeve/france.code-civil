@@ -4,11 +4,10 @@ I. La perception des taxes sur les produits forestiers visées aux articles 1613
 et 1618 bis du code général des impôts est suspendue jusqu'à décision contraire
 sur les produits suivants :
 
-1° Bois de trituration feuillus et chutes de scierie de toutes essences,destinés
-à la fabrication des pâtes et des panneaux. 2° Petits bois de conifères non
-écorcés, dont le diamètre à une distance du gros bout au plus égale à 1,60 m
-n'excède pas 11 cm sur écorce, destinés à la fabrication des pâtes et des
-panneaux.
+1° Bois de trituration et chutes de scierie de toutes essences, destinés à la
+fabrication de pâtes et de panneaux.
+
+2° (Abrogé).
 
 II. (Abrogé).
 
@@ -44,9 +43,9 @@ d'importation, les intéressés doivent justifier, par la tenue d'une comptabili
 matières, de l'origine et de l'espèce des bois dont il s'agit.
 
 VII. A. La perception de la taxe prévue à l'article 1613 du code général des
-impôts est suspendue en totalité jusqu'au 31 décembre 1984 sur les produits
-ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction
-générale des douanes et droits indirects, lorsqu'ils sont destinés à
+impôts est suspendue en totalité jusqu'au 31 décembre 1986 [*(1)*] sur les
+produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la
+direction générale des douanes et droits indirects, lorsqu'ils sont destinés à
 l'exportation :
 
 1° Bois de mine de conifères et de feuillus (44-03-510 et 44-03-910) ;
@@ -60,9 +59,9 @@ B. La perception de la taxe prévue à l'article 1613 du même code est suspendu
 partiellement :
 
 - sur les sciages de feuillus destinés à l'exportation, le taux de celle-ci
-étant ramenée à 1 p. 100 jusqu'au 31 décembre 1984 ; - sur les grumes et sciages
+étant ramenée à 2 p. 100 jusqu'au 31 décembre 1986 ; - sur les grumes et sciages
 de résineux destinés à l'exportation, le taux de celle-ci étant ramenée à 0,5 p.
-100 jusqu'au 31 décembre 1984.
+100 jusqu'au 31 décembre 1986.
 
 VIII. Les dispositions du VII sont applicables aux exportations effectuées par
 des négociants ou des imprégnateurs, sous réserve que ceux-ci adressent aux
@@ -71,3 +70,6 @@ du code général des impôts.
 
 Les dates prises en considération pour l'application des exonérations aux bois
 exportés sont celles du passage en douane des produits considérés.
+
+[*(1) : disposition prorogée jusqu'au 31 décembre 1987, avec effet à compter du
+1er janvier 1987, décret 86-1408 1986-12-31 art. 1, art. 2*].
