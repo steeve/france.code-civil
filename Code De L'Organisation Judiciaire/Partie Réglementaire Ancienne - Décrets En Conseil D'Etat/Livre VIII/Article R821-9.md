@@ -5,7 +5,7 @@ commerce et d'industrie ou une chambre des métiers, le greffier peut, à la
 demande de la chambre de commerce et d'industrie ou de la chambre des métiers,
 être autorisé par arrêté du garde des sceaux, ministre de la justice, à exercer
 tout ou partie des activités dévolues aux centres de formalités des entreprises
-par le décret n° 81-257 du 18 mars 1981 modifié lorsque, dans l'intérêt des
+par le décret n° 96-650 du 19 juillet 1996 modifié lorsque, dans l'intérêt des
 usagers, l'ouverture d'une annexe de ces centres apparaît nécessaire dans la
 ville où la juridiction commerciale a son siège.
 
