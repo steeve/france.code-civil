@@ -8,4 +8,4 @@ Pour les condamnés, cette faculté s'exerce dans les conditions déterminées p
 une instruction de service.
 
 La destination à donner à ces subsides est réglée conformément aux dispositions
-des articles D. 328 et D. 329.
+des articles D. 319 et D. 320-3.
