@@ -26,39 +26,96 @@ variation annuelle de l'indice du coût de la construction.
 2° a) Une subvention peut être octroyée aux opérations de construction
 suivantes. Le taux de subvention est au plus égal à :
 
-- 8 p. 100 de l'assiette définie au 1° pour les opérations d'habitat adapté aux
-besoins de populations rencontrant des difficultés particulières. A titre
-exceptionnel, le préfet peut, par dérogation, porter ce taux à 13 p. 100 au plus
-;
+8 % de l'assiette définie au 1° pour les opérations de construction mentionnées
+au dernier alinéa de l'article R. 331-1. A titre exceptionnel, le préfet peut,
+par dérogation, porter ce taux à 13 % au plus ;
 
-- 3 p. 100 de cette assiette pour les opérations à caractère expérimental.
+20 % de cette assiette pour les opérations de construction mentionnées au
+dernier alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui
+rencontrent des difficultés d'insertion particulières ;
+
+12 % de cette assiette pour la réalisation de logements-foyers dénommés
+résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998,
+choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
+sur la valeur ajoutée ;
+
+3 % de cette assiette pour les opérations à caractère expérimental ; ce taux
+peut être porté à 12 % pour les opérations de relogement liées à des
+démolitions.
 
 b) Par dérogation au a, une subvention peut être octroyée aux opérations de
-construction réalisées en Corse. Le taux de subvention est au plus égal à 9,5 p.
-100 de l'assiette définie au 1°. Il peut être porté :
+construction réalisées en Corse. Le taux de subvention est au plus égal à 9,5 %
+de l'assiette définie au 1°. Il peut être porté :
 
-- au plus à 17,5 p. 100 de cette assiette pour des opérations d'habitat adapté
-aux besoins de populations rencontrant des difficultés particulières. A titre
-exceptionnel, le préfet peut, par dérogation, porter ce taux à 22,5 p. 100 au
-plus ;
+Au plus à 17,5 % de cette assiette pour les opérations de construction
+mentionnées au dernier alinéa de l'article R. 331-1. A titre exceptionnel, le
+préfet peut, par dérogation, porter ce taux à 22,5 % au plus ;
 
-- au plus à 12,5 p. 100 de cette assiette pour des opérations à caractère
-expérimental.
+Au plus à 30 % de cette assiette pour les opérations de construction mentionnées
+au dernier alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui
+rencontrent des difficultés d'insertion particulières ;
 
-3° Pour les opérations autres que celles prévues au 2°, le taux de subvention
-est au plus égal à 12 % de l'assiette définie au 1° et le montant de la
-subvention ne peut dépasser 15 % du prix de revient de l'opération.
+Au plus à 12 % de cette assiette pour la réalisation de logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er
+janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière
+soumise à taxe sur la valeur ajoutée ;
+
+Au plus à 12,5 % de cette assiette pour des opérations à caractère expérimental
+; ce taux peut être porté à 20 % pour les opérations de relogement liées à des
+démolitions.
+
+3° a) Pour les opérations autres que celles prévues au 2°, le taux de subvention
+est au plus égal à 5 % de l'assiette définie au 1° et le montant de la
+subvention ne peut dépasser 10 % du prix de revient de l'opération.
 
 Le taux de la subvention peut être porté :
 
-- au plus à 20 % de cette assiette pour des opérations d'habitat adapté aux
-besoins des populations rencontrant des difficultés particulières avec un
-montant de subvention ne pouvant excéder 25 % du prix de revient de l'opération.
-A titre exceptionnel, le préfet peut, par dérogation, porter ce taux à 25 % au
-plus, avec un montant de subvention ne pouvant excéder 25 % du prix de revient
-de l'opération ;
+Au plus à 13 % de cette assiette pour des opérations mentionnées au dernier
+alinéa de l'article R. 331-1 avec un montant de subvention ne pouvant excéder 18
+% du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par
+dérogation, porter ce taux à 18 % au plus, avec un montant de subvention ne
+pouvant excéder 18 % du prix de revient de l'opération ;
 
-- au plus à 15 % de cette assiette pour des opérations à caractère expérimental.
+Au plus à 20 % de cette assiette pour des opérations mentionnées au dernier
+alinéa de l'article R. 331-1 et adaptées aux besoins de ménages qui rencontrent
+des difficultés d'insertion particulières, avec un montant de subvention ne
+pouvant excéder 25 % du prix de revient de l'opération. A titre exceptionnel, le
+préfet peut, par dérogation, porter ce taux à 25 % au plus, avec un montant de
+subvention ne pouvant excéder 25 % du prix de revient de l'opération ;
+
+Au plus à 12 % de cette assiette pour la réalisation des logements-foyers
+dénommés résidences sociales par des maîtres d'ouvrage ayant, avant le 1er
+janvier 1998, choisi de les gérer sous la forme d'une activité parahôtelière
+soumise à la taxe sur la valeur ajoutée ;
+
+Au plus à 8 % de cette assiette pour des opérations à caractère expérimental ;
+ce taux peut être porté à 12 % pour des opérations de relogement liées à des
+démolitions.
+
+b) Par dérogation au a, pour les opérations réalisées en Corse autres que celles
+prévues au 2° ainsi que pour la réalisation de logements-foyers dénommés
+résidences sociales par des maîtres d'ouvrage ayant, avant le 1er janvier 1998,
+choisi de les gérer sous la forme d'une activité parahôtelière soumise à la taxe
+sur la valeur ajoutée, le taux de subvention est au plus égal à 12 % de
+l'assiette définie au 1° et le montant de la subvention ne peut dépasser 15 % du
+prix de revient de l'opération. Le taux de subvention peut être porté :
+
+Au plus à 20 % pour des opérations mentionnées au dernier alinéa de l'article R.
+331-1, avec un montant de subvention ne pouvant excéder 25 % du prix de revient
+de l'opération. A titre exceptionnel, le préfet peut, par dérogation, porter ce
+taux à 25 % au plus, avec un montant de subvention ne pouvant excéder 25 % du
+prix de revient de l'opération ;
+
+Au plus à 30 % pour des opérations mentionnées au dernier alinéa de l'article R.
+331-1 et adaptées aux besoins de ménages qui rencontrent des difficultés
+d'insertion particulières, avec un montant de subvention ne pouvant excéder 35 %
+du prix de revient de l'opération. A titre exceptionnel, le préfet peut, par
+dérogation, porter ce taux à 35 % au plus, avec un montant de subvention ne
+pouvant excéder 35 % du prix de revient de l'opération ;
+
+Au plus à 15 % de cette assiette pour des opérations à caractère expérimental ;
+ce taux peut être porté à 20 % pour les opérations de relogement liées à des
+démolitions.
 
 4° La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention
 complémentaire.
