@@ -5,5 +5,3 @@ personnalisée est fixé dans la double limite des dépenses justifiées réelle
 engagées par le bénéficiaire et d'un plafond fixé, en fonction de la composition
 de la famille, par arrêté conjoint des ministres chargés des finances, de la
 construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-Le montant de cette prime est arrondi au franc le plus proche.

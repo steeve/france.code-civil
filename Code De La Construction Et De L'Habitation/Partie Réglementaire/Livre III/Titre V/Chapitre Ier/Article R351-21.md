@@ -19,7 +19,7 @@ au produit d'une valeur numérique fixée par arrêté conjoint des ministres
 chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du
 coefficient N prévu à l'article R. 351-19.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+Le résultat est divisé par douze.
 
 Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 500 F
 mentionné à l'article R. 351-19. Les pourcentages et le coefficient N prévus au

@@ -13,7 +13,7 @@ montant égal au produit d'une valeur numérique fixée par arrêté conjoint de
 ministres chargés de la sécurité sociale, du budget, de l'agriculture et du
 logement et du coefficient N prévu à l'article R. 351-61.
 
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+Le résultat est divisé par douze.
 
 L'équivalence de loyer et de charges minima est déterminée pour chaque
 intervalle de ressources de 500 F mentionné à l'article R. 351-61. Les

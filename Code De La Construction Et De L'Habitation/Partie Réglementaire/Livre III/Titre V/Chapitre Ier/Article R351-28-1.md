@@ -96,5 +96,4 @@ Les tranches de revenus sur lesquelles sont effectuées les retenues ou la
 retenue forfaitaire sont revalorisées au 1er juillet de chaque année
 conformément à l'évolution en moyenne annuelle des prix à la consommation hors
 tabac de l'année civile précédente, par arrêté conjoint des ministres chargés de
-la sécurité sociale, du budget et de l'agriculture. Ces montants sont arrondis
-au franc le plus proche.
+la sécurité sociale, du budget et de l'agriculture.

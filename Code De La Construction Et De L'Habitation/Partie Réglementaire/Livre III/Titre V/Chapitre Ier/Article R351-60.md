@@ -18,6 +18,3 @@ l'habitation et de l'agriculture ;
 d) E0 représente l'équivalence de loyer et de charges locatives minima, telle
 que définie à l'article R. 351-62 ou R. 351-62-1, prise en compte pour le calcul
 de l'aide personnalisée.
-
-Le montant de l'aide personnalisée au logement est arrondi au franc le plus
-proche.
