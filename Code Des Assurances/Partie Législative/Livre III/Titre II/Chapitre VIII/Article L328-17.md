@@ -1,7 +1,7 @@
 Article L328-17
 ----
-Sont applicables à la Nouvelle-Calédonie, à la Polynésie française et à
-Saint-Pierre-et-Miquelon les dispositions de l'article L. 328-12.
+Sont applicables dans les territoires d'outre-mer et dans la collectivité
+territoriale de Mayotte les dispositions de l'article L. 328-12.
 
 Les dispositions précitées entrent en vigueur, dans le territoire de Wallis et
 Futuna, le premier jour du trimestre civil suivant la publication de l'arrêté

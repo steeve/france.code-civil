@@ -15,4 +15,4 @@ les courtiers d'assurance.
 
 Le montant de la contribution due par chaque entreprise d'assurance, en
 application du 1° ci-dessus, est fixé chaque année par arrêté du ministre de
-l'économie et des finances sur proposition du conseil national des assurances.
+l'économie et des finances.

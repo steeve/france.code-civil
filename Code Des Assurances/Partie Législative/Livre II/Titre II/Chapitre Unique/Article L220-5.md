@@ -1,10 +1,11 @@
 Article L220-5
 ----
 Toute personne assujettie à l'obligation d'assurance qui n'a pu obtenir la
-souscription d'un contrat auprès d'au moins trois des entreprises d'assurance
-mentionnées à l'article L. 220-2 peut saisir un bureau central de tarification
-dont les conditions de constitution et les règles de fonctionnement sont fixées
-par décret en Conseil d'Etat.
+souscription d'un contrat pour les risques mentionnés à l'article L. 220-1
+auprès d'au moins trois des entreprises agréées dans la branche correspondante à
+ces risques peut saisir un bureau central de tarification dont les conditions de
+constitution et les règles de fonctionnement sont fixées par décret en Conseil
+d'Etat.
 
 Le bureau central de tarification a pour rôle exclusif de fixer le montant de la
 prime moyennant laquelle les entreprises d'assurance auprès desquelles la

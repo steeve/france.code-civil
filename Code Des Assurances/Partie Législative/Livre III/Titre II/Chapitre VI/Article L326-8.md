@@ -2,9 +2,10 @@ Article L326-8
 ----
 Nonobstant l'existence de toute autre créance, les créances que garantit le
 privilège établi à l'article L. 326-7 doivent être payées par le liquidateur,
-sur simple ordonnance du juge-commissaire, dans les dix jours de l'arrêté
-prononçant le retrait total d'agrément si le liquidateur a en main les fonds
-nécessaires.
+sur simple ordonnance du juge-commissaire, dans les dix jours de la décision du
+ministre de l'économie et des finances ou de la commission de contrôle des
+assurances prononçant le retrait total d'agrément si le liquidateur a en main
+les fonds nécessaires.
 
 Toutefois, avant tout établissement du montant de ces créances, le liquidateur
 doit, avec l'autorisation du juge-commissaire et dans la mesure des fonds

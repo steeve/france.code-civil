@@ -1,12 +1,11 @@
 Article L310-2
 ----
-Toute entreprise française soumise au contrôle de l'Etat en vertu de l'article
-L. 310-1 doit être constituée sous l'une des formes suivantes : société anonyme,
-société à forme mutuelle, société mutuelle, union de mutuelles, tontine.
+Toute entreprise française mentionnée à l'article L. 310-1 doit être constituée
+sous forme de société anonyme ou de société d'assurance mutuelle.
 
 Une entreprise française ne peut pratiquer la réassurance que si elle est
 constituée sous l'une des formes suivantes : société anonyme, société en
-commandite par actions, société à forme mutuelle. Les sociétés mutuelles et
+commandite par actions, société d'assurance mutuelle. Les sociétés mutuelles et
 leurs unions ne peuvent accepter de risques en réassurance que dans les
 conditions fixées par le décret prévu à l'article L. 310-3.
 

@@ -1,15 +1,15 @@
 Article L310-8
 ----
-Sans préjudice des règles de contrôle applicables aux entreprises mentionnées à
-l'article L. 310-1, le ministre de l'économie et des finances peut exiger la
-modification de la présentation ou de la teneur de tous documents faisant état
-d'une opération d'assurance ou de capitalisation, destinés à être distribués au
-public, publiés, remis aux porteurs de contrats ou adhérents, ou diffusés par
-des moyens audio-visuels.
+Le ministre chargé de l'économie et des finances peut exiger la communication,
+préalablement à leur diffusion, de tous les documents à caractère contractuel ou
+publicitaire ayant pour objet une opération d'assurance ou de capitalisation.
 
-Il peut également exiger la communication préalable de ces mêmes documents. En
-l'absence d'observation de sa part, dans un délai de vingt et un jours à compter
-de la communication, les documents peuvent être distribués, publiés, remis ou
-diffusés. Après l'expiration de ce délai, le ministre conserve, à tout moment,
-le pouvoir de demander, pour l'avenir, la modification des documents en
-circulation.
+Dans un délai d'un mois à compter de la communication d'un document d'assurance,
+le ministre chargé de l'économie et des finances peut en prescrire la
+modification. A l'expiration de ce délai, le document peut être diffusé auprès
+du public.
+
+S'il apparaît qu'un document mis en circulation est contraire aux dispositions
+législatives et réglementaires, le ministre chargé de l'économie et des finances
+peut en décider le retrait ou en exiger la réformation après avis conforme de la
+commission consultative de l'assurance.

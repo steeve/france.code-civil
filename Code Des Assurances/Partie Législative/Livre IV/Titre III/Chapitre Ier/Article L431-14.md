@@ -18,10 +18,10 @@ La gestion du fonds est confiée à la caisse centrale de réassurance.
 
 Le fonds est alimenté par une contribution des assurés assise sur les primes ou
 cotisations d'assurance émises à compter du 1er janvier 1986 et correspondant
-aux garanties d'assurance obligatoire des dommages à la construction ainsi
-qu'aux garanties d'assurance décennale souscrites par toute personne, qu'elle
-soit ou non liée au maître d'ouvrage par un contrat de louage d'ouvrage, pour
-couvrir sa responsabilité dans les travaux de bâtiment.
+aux garanties d'assurance des dommages à la construction ainsi qu'aux garanties
+d'assurance décennale souscrites par toute personne, qu'elle soit ou non liée au
+maître d'ouvrage par un contrat de louage d'ouvrage, pour couvrir sa
+responsabilité dans les travaux de bâtiment.
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et
 comportant des garanties autres que celles visées à l'alinéa précédent doivent
