@@ -34,3 +34,11 @@ décembre 1967 ou titulaires de la carte du combattant attribuée dans les
 conditions fixées par la loi n° 74-1044 du 9 décembre 1974, ainsi que des
 veuves, orphelins et ascendants des militaires décédés du fait de leur
 participation à ces opérations.
+
+7° Des militaires des forces armées françaises ainsi que des personnes civiles
+titulaires de la carte du combattant du fait de leur participation, en vertu des
+décisions des autorités françaises, au sein d'unités françaises ou alliées ou de
+forces internationales, soit à des conflits armés, soit à des opérations ou
+missions menées conformément aux obligations et engagements internationaux de la
+France, ainsi que des veuves, veufs, orphelins ou ascendants des civils ou
+militaires décédés du fait de leur participation à ces opérations.

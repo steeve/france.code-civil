@@ -1,3 +1,4 @@
 Article L269
 ----
-article abrogé
+Les combattants volontaires de la Résistance bénéficient d'une bonification de
+dix jours pour engagement volontaire.
