@@ -11,6 +11,10 @@ et à l'institut d'émission d'outre-mer ;
 3. Aux entreprises et services mentionnés à l'article L. 310-1 du code des
 assurances et aux courtiers d'assurance et de réassurance ;
 
+3 bis. Aux institutions ou unions régies par les titres III et IV du livre IX du
+code de la sécurité sociale ou relevant du II de l'article L. 727-2 du code
+rural ;
+
 4. Aux organismes entrant dans le champ de l'article L. 111-1 du code de la
 mutualité ;
 
@@ -48,4 +52,6 @@ cours d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
 de meubles aux enchères publiques.
 
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
-désignées sous le nom d'organismes financiers.
+désignées sous le nom d'organismes financiers ;
+
+14. Aux intermédiaires habilités mentionnés à l'article L. 211-4.
