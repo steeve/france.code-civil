@@ -5,16 +5,14 @@ Des centres de formalités des entreprises sont créés :
 1° Par les chambres de commerce et d'industrie :
 
 - pour les commerçants et les sociétés commerciales à l'exclusion de ceux qui
-sont assujettis à l'inscription au répertoire des métiers ;
+sont assujettis à l'immatriculation au répertoire des métiers ;
 
-- pour les groupements d'intérêt économique ;
+Pour les groupements d'intérêt économique ;
 
 2° Par les chambres de métiers :
 
-- pour les entreprises artisanales ;
-
-- pour les commerçants et les sociétés commerciales également assujettis à
-l'inscription au répertoire des métiers ;
+- pour les personnes physiques et les sociétés assujetties à l'immatriculation
+au répertoire des métiers ;
 
 3° Par les greffes des tribunaux de commerce ou des tribunaux de grande instance
 statuant commercialement :
