@@ -4,9 +4,8 @@ Les contraventions des quatre premières classes pour lesquelles l'action
 publique est éteinte par le paiement d'une amende forfaitaire sont les suivantes
 :
 
-1° Contraventions réprimées par le code de la route punies uniquement d'une
-peine d'amende, à l'exclusion de toute peine complémentaire, qu'elles entraînent
-ou non un retrait des points affectés au permis de conduire sous réserve des
+1° Contraventions réprimées par le code de la route qu'elles entraînent ou non
+un retrait des points affectés au permis de conduire sous réserve des
 dispositions de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
 
 2° Contraventions en matière de transport et de circulation réprimées par :

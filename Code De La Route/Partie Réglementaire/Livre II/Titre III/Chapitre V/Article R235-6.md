@@ -8,9 +8,9 @@ biologique peut également être effectué par un biologiste requis dans les mê
 conditions.
 
 Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à
-sa disposition par l'officier ou l'agent de police judiciaire ci-dessus
-mentionné, en se conformant aux méthodes prescrites par arrêté du ministre
-chargé de la santé pris après avis du directeur général de l'Agence française de
-sécurité sanitaire des produits de santé.
+sa disposition par un officier ou un agent de police judiciaire, en se
+conformant aux méthodes prescrites par arrêté du ministre chargé de la santé
+pris après avis du directeur général de l'Agence française de sécurité sanitaire
+des produits de santé.
 
 Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
