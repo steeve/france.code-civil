@@ -13,18 +13,6 @@ lorsque cet affichage ou cette publicité ont été apposés à un emplacement
 publicitaire prohibé en exécution d'un contrat conclu entre l'exploitant de cet
 emplacement et la personne pour le compte de qui ils ont été réalisés.
 
-Lorsque la mise en demeure a été déférée au tribunal administratif pour excès de
-pouvoir, le président du tribunal administratif ou le magistrat qu'il délègue,
-statuant en référé, peut, si la demande lui en est présentée dans les huit jours
-francs de la notification de l'arrêté et si les moyens énoncés dans la requête
-paraissent sérieux et de nature à justifier l'annulation de l'arrêté, ordonner
-la suspension de l'astreinte jusqu'à la décision à intervenir au principal.
-
-Le président statue dans les quinze jours de la saisine, selon des modalités
-définies par décret en Conseil d'Etat. L'ordonnance est exécutoire, nonobstant
-appel devant le Conseil d'Etat ; copie en est adressée sans délai au procureur
-de la République.
-
 L'astreinte est recouvrée, dans les conditions prévues par les dispositions
 relatives aux produits communaux, au bénéfice de la commune sur le territoire de
 laquelle ont été commis les faits constatés ; à défaut par le maire de liquider

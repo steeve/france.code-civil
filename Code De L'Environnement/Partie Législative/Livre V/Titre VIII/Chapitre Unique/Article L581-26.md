@@ -12,9 +12,7 @@ relatives aux produits communaux, au bénéfice de la commune sur le territoire 
 laquelle le manquement a été constaté. La personne visée a accès au dossier et
 est mise à même de présenter ses observations écrites, dans un délai d'un mois,
 sur le projet de sanction de l'administration. La décision du préfet, qui doit
-être motivée, est susceptible d'un recours de pleine juridiction. Le référé
-prévu à l'article L. 581-30 pour les astreintes s'applique aussi pour les
-amendes.
+être motivée, est susceptible d'un recours de pleine juridiction.
 
 Les dispositions du présent article sont applicables en cas d'infraction aux
 dispositions des articles L. 581-4, L. 581-5 et L. 581-24.
