@@ -13,13 +13,13 @@ ses ayants droit par lettre recommandée avec demande d'avis de réception. Le
 double de cette décision est envoyé à la caisse régionale et à l'employeur au
 service duquel est survenu l'accident.
 
-La notification adressée à la victime invite celle-ci à faire connaître à la
-caisse, dans un délai de dix jours, à l'aide d'un formulaire annexé à la
-notification, si elle demande l'envoi soit à elle-même, soit au médecin qu'elle
-désigne à cet effet, d'une copie du rapport médical prévu au cinquième alinéa de
-l'article R. 434-34.
+La notification adressée à la victime ou à ses ayants droit invite ceux-ci à
+faire connaître à la caisse, dans un délai de dix jours, à l'aide d'un
+formulaire annexé à la notification, s'ils demandent l'envoi, soit à eux-mêmes,
+soit au médecin que désignent à cet effet la victime ou ses ayants droit, d'une
+copie du rapport médical prévu au cinquième alinéa de l'article R. 434-34.
 
 La caisse procède à cet envoi dès réception de la demande, en indiquant que la
-victime ou le médecin qu'elle désigne à cet effet peuvent, dans un délai de
-quinzaine suivant la réception du rapport, prendre connaissance au service du
-contrôle médical de la caisse des autres pièces médicales.
+victime, ses ayants droit ou le médecin désigné à cet effet peuvent, dans un
+délai de quinzaine suivant la réception du rapport, prendre connaissance au
+service du contrôle médical de la caisse des autres pièces médicales.

@@ -6,13 +6,13 @@ versement des cotisations, incombent à la personne ou à l'organisme responsabl
 de la gestion de l'établissement ; toutefois, pour les élèves et étudiants des
 établissements publics relevant du ministre de l'éducation nationale, le
 versement des cotisations incombe au recteur. En outre, lorsque les étudiants en
-médecine de deuxième année du deuxième cycle effectuent dans les conditions
-prévues au b du 2° de l'article L. 412-8 un stage hospitalier, l'obligation de
-déclaration de l'accident du travail instituée par l'article L. 441-2 incombe à
-l'établissement de santé dans lequel est effectué le stage. Cet établissement
-adresse à l'unité de formation et de recherche médicale dont relève l'étudiant
-copie de la déclaration d'accident du travail envoyée à la caisse primaire
-d'assurance maladie compétente.
+médecine, en chirurgie dentaire ou en pharmacie qui n'ont pas un statut
+hospitalier effectuent, dans les conditions prévues au b du 2° de l'article L.
+412-8, un stage hospitalier, l'obligation de déclaration de l'accident du
+travail instituée par l'article L. 441-2 incombe à l'établissement de santé dans
+lequel est effectué le stage. Cet établissement adresse à l'unité de formation
+et de recherche dont relève l'étudiant copie de la déclaration d'accident du
+travail envoyée à la caisse primaire d'assurance maladie compétente.
 
 Le salaire servant de base au calcul des rentes et des cotisations est égal au
 salaire minimum mentionné à l'article L. 434-16.
