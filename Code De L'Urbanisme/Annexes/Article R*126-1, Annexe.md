@@ -295,7 +295,8 @@ B. - Sécurité publique
 Plans de prévention des risques naturels prévisibles établis en application de
 la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité
 civile, à la protection de la forêt contre l'incendie et à la prévention des
-risques majeurs.
+risques majeurs, ou plans de prévention des risques miniers établis en
+application de l'article 94 du code minier.
 
 Documents valant plans de prévention des risques naturels prévisibles en
 application de l'article 40-6 de la loi n° 87-565 du 22 juillet 1987 précitée.

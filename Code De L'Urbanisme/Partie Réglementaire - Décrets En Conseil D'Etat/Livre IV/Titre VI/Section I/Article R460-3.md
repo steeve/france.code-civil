@@ -34,4 +34,6 @@ juillet 1976 relative à la protection de la nature.
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de
 prévention des risques naturels prévisibles établi en application de la loi n°
 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la
-protection de la forêt contre l'incendie et à la prévention des risques majeurs.
+protection de la forêt contre l'incendie et à la prévention des risques majeurs,
+ou par un plan de prévention des risques miniers établi en application de
+l'article 94 du code minier.
