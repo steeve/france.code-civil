@@ -41,16 +41,14 @@ de l'article 210 A ainsi que des plus-values réintégrées en application du d 
 la société, mentionné au b du 1 et au 3, est augmenté de ces profits ou
 plus-values.
 
-5. ((Dans les situations visées aux c et d du 6 de l'article 223 L, la fraction
-du déficit qui n'a pu être reportée au titre d'un exercice dans les conditions
-prévues à l'article 223 S peut, dans la mesure où ce déficit correspond à celui
-des sociétés membres du groupe ayant cessé et qui font partie du nouveau groupe,
-s'imputer sur les résultats, déterminés selon les modalités prévues au 4 du
-présent article et par dérogation au a du 1 du présent article, des sociétés
-mentionnées ci-dessus.
+5. ((Dans les situations visées aux c, d ou e du 6 de l'article 223 L, et sous
+réserve, le cas échéant, de l'obtention de l'agrément prévu au II de l'article
+209, la fraction du déficit qui n'a pu être reportée au titre d'un exercice dans
+les conditions prévues à l'article 223 S peut, dans la mesure où ce déficit
+correspond à celui de la société mère absorbée ou à)) (M) celui des sociétés
+membres du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer
+sur les résultats, déterminés selon les modalités prévues au 4 du présent
+article et par dérogation au a du 1 du présent article, des sociétés mentionnées
+ci-dessus.
 
-((Ces dispositions s'appliquent sur agrément préalable délivré par le ministre
-du budget et dans la mesure définie par cet agrément. L'agrément est accordé si,
-compte tenu de l'origine des déficits, l'avantage fiscal est justifié du point
-de vue économique et social, eu égard à la nature et à l'importance des
-activités transférées ou acquises.)) (Modification de la loi 93-1352).
+(M) Modification des lois.

@@ -14,6 +14,15 @@ s'effectue avec des entreprises établies dans un Etat étranger ou dans un
 territoire situé hors de France dont le régime fiscal est privilégié au sens du
 deuxième alinéa de l'article 238 A.
 
-A défaut d'éléments précis pour opérer les redressements prévus à l'alinéa
-précédent, les produits imposables sont déterminés par comparaison avec ceux des
-entreprises similaires exploitées normalement.
+En cas de défaut de réponse à la demande faite en application de l'article L. 13
+B du livre des procédures fiscales, les bases d'imposition concernées par la
+demande sont évaluées par l'administration à partir des éléments dont elle
+dispose et en suivant la procédure contradictoire définie aux articles L. 57 à
+L. 61 du même livre (1).
+
+A défaut d'éléments précis pour opérer les redressements prévus aux premier,
+deuxième et troisième alinéas, les produits imposables sont déterminés par
+comparaison avec ceux des entreprises similaires exploitées normalement.
+
+(1) Dispositions applicables aux contrôles engagés à compter de la date d'entrée
+en vigueur de la loi.

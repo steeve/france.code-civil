@@ -14,3 +14,8 @@ quatrième mois suivant celui de l'expiration du délai de déclaration.
 
 2. L'intérêt de retard cesse d'être décompté lorsque les majorations prévues aux
 articles 1761 et 1762 quater sont applicables.
+
+3. Lorsqu'il est fait application de l'article L. 188 A du livre des procédures
+fiscales, le décompte de l'intérêt de retard est arrêté au dernier jour du mois
+de la notification de redressement intervenue dans le délai initial de reprise
+ou, à défaut, au dernier jour de ce délai.
