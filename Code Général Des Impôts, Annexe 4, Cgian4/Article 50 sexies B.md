@@ -23,3 +23,26 @@ l'indication de la séance pour laquelle ils sont valables.
 Les obligations concernant les mentions à porter sur les billets d'entrée dans
 les salles de spectacles cinématographiques, la fourniture et l'utilisation de
 ces billets sont fixées par la réglementation de l'industrie cinématographiques.
+
+Dans le cadre de cette réglementation, l'utilisation de caisses automatisées est
+autorisée pour l'impression et l'édition des billets d'entrée dans les salles de
+spectacles cinématographiques.
+
+Les caractéristiques et le fonctionnement de ces caisses sont conformes au
+cahier des charges approuvé conjointement par le directeur général des impôts et
+le directeur général du Centre national de la cinématographie. Le programme de
+ces caisses est homologué par le directeur général du Centre national de la
+cinématographie.
+
+Le Centre national de la cinématographie s'assure de la conformité des matériels
+proposés par les constructeurs au cahier des charges.
+
+Les caisses automatisées sont pourvues de dispositifs qui permettent aux agents
+des impôts et du Centre national de la cinématographie chargés du contrôle de
+vérifier à tout moment que l'utilisation des matériels est conforme au cahier
+des charges et de s'assurer du respect de la réglementation en vigueur.
+
+Les caisses automatisées peuvent être équipées d'un dispositif permettant la
+vente, par avance, de billets d'entrée à une séance déterminée. Dans ce cas, les
+billets ne peuvent être délivrées que pour la semaine cinématographique en
+cours.
