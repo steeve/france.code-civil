@@ -6,6 +6,12 @@ caisse chargée de la liquidation des droits à prestation de vieillesse ayant
 reçu les derniers versements du " de cujus " ou qui a liquidé sa pension une
 demande conforme au modèle arrêté par le ministre chargé de la sécurité sociale.
 
+La caisse régionale d'assurance vieillesse de Strasbourg a compétence exclusive
+pour recevoir la demande, procéder à l'étude et à la liquidation des droits et
+servir ces avantages, lorsque le bénéficiaire ou, en cas de partage de ces
+avantages en application de l'article L. 353-3, l'un des bénéficiaires réside
+dans les départements du Haut-Rhin, du Bas-Rhin ou de la Moselle.
+
 Le conjoint survivant et le conjoint divorcé doivent obligatoirement joindre à
 cette demande la copie de l'acte de naissance de l'assuré.
 
