@@ -17,8 +17,8 @@ nature à aggraver les risques.
 Dans des conditions fixées par décret, la commission des accidents du travail et
 des maladies professionnelles fixe les éléments de calcul des cotisations dues
 au titre des accidents du travail et des maladies professionnelles conformément
-aux conditions générales de l'équilibre financier de la sécurité sociale
-déterminées par la loi de financement de la sécurité sociale ;
+aux conditions générales de l'équilibre financier de la branche déterminées par
+la loi de financement de la sécurité sociale ;
 
 La délibération de la commission est transmise au ministre chargé de la sécurité
 sociale avant le 31 janvier de chaque année ;

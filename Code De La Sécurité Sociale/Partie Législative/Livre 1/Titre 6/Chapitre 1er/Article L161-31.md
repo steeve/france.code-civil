@@ -16,6 +16,13 @@ Le contenu de la carte, les modalités d'identification de son titulaire et ses
 modes de délivrance, de renouvellement, de mise à jour et d'utilisation sont
 fixés par décret en Conseil d'Etat.
 
+I. bis - Les organismes servant les prestations d'un régime de base d'assurance
+maladie inscrivent sur une liste d'opposition les numéros des cartes en
+circulation et en cours de validité perdues, volées ou dénoncées. Les conditions
+de mise en oeuvre de cette liste sont fixées par les conventions nationales,
+accords nationaux et contrats ou autres dispositions applicables mentionnés à
+l'article L. 161-34.
+
 II. - Cette carte électronique comporte un volet d'urgence destiné à recevoir
 les informations nécessaires aux interventions urgentes. Les professionnels de
 santé peuvent porter sur le volet, avec le consentement exprès du titulaire de

@@ -33,5 +33,10 @@ sociale. Son président remet un avis au Parlement sur la mise en oeuvre des
 conventions d'objectifs et de gestion. Il fixe l'ordre du jour du conseil de
 surveillance.
 
+Le président du conseil de surveillance peut solliciter de l'inspection générale
+des affaires sociales, en accord avec le ministre chargé de la sécurité sociale,
+une mission d'appui dans le cadre des travaux préparatoires à la rédaction de
+l'avis mentionné à l'alinéa précédent.
+
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

@@ -3,8 +3,11 @@ Article L174-1-1
 Chaque année est défini un objectif des dépenses d'assurance maladie constitué
 des activités suivantes :
 
-1° Les activités de psychiatrie et de soins de suite ou de réadaptation exercées
-par les établissements de santé mentionnés à l'article L. 174-1 ;
+1° Les activités de psychiatrie exercées par les établissements de santé
+mentionnés à l'article L. 174-1 ;
+
+1° bis Les activités de soins de suite et de réadaptation exercées par les
+établissements de santé mentionnés à l'article L. 174-1 ;
 
 2° L'ensemble des activités des établissements mentionnés à l'article L.
 162-22-16 ;
@@ -28,9 +31,9 @@ et L. 174-15 et de celles fixées en application des articles L. 6147-5 et L.
 
 Le montant de cet objectif est arrêté par l'Etat en fonction de l'objectif
 national de dépenses d'assurance maladie. Ce montant prend en compte, outre la
-part mentionnée à l'article L. 162-43, les évolutions de toute nature à l'issue
-desquelles des établissements de santé ou des services ou des activités de ces
-établissements se trouvent placés pour tout ou partie sous un régime juridique
+part mentionnée à l'article L. 162-43, les évolutions de toute nature à la suite
+desquelles des établissements, des services ou des activités sanitaires ou
+médico-sociaux se trouvent placés pour tout ou partie sous un régime juridique
 ou de financement différent de celui sous lequel ils étaient placés auparavant.
 
 Le montant de cet objectif est constitué, après imputation de la part mentionnée

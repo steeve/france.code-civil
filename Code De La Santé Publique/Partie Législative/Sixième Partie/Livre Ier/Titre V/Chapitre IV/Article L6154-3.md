@@ -12,3 +12,9 @@ consultations et le volume des actes qu'il effectue.
 
 L'activité libérale donne lieu au versement à l'établissement par le praticien
 d'une redevance dans des conditions déterminées par décret.
+
+Les actes de scanographie donnent lieu au reversement, au bénéfice du praticien
+radiologue hospitalier par l'établissement public qui l'emploie, d'une
+quote-part du forfait technique lorsque ces actes sont réalisés dans le cadre de
+l'exercice libéral de ce praticien. Un décret en Conseil d'Etat fixe les
+conditions d'application de cette disposition.

@@ -9,3 +9,7 @@ compris lorsqu'il a été fait dans le cadre de la dispense d'avance des frais,
 peut, sous réserve que l'assuré n'en conteste pas le caractère indu, être
 récupéré par un ou plusieurs versements ou par retenue sur les prestations à
 venir en fonction de la situation sociale du ménage.
+
+L'organisme mentionné au premier alinéa informe le cas échéant, s'il peut être
+identifié, l'organisme d'assurance maladie complémentaire de l'assuré de la mise
+en oeuvre de la procédure visée au présent article.

@@ -28,9 +28,30 @@ Pour les sociétés d'assurances et de capitalisation régies par le code des
 assurances et les sociétés de réassurances, l'assiette de la contribution
 sociale de solidarité est constituée, pour leur activité principale, par les
 primes et acceptations de l'exercice, nettes de cessions et rétrocessions,
-telles qu'elles ressortent du compte d'exploitation générale, résultant des
-dispositions relatives à la comptabilité des entreprises d'assurances et de
-capitalisation.
+telles qu'elles ressortent du compte de résultat, conforme aux dispositions
+relatives à la comptabilité des entreprises d'assurances et de capitalisation.
+
+Pour les mutuelles et unions de mutuelles relevant du livre II du code de la
+mutualité, institutions de prévoyance et unions d'institutions de prévoyance
+relevant du titre III du livre IX du présent code et institutions de prévoyance
+relevant de la section 4 du chapitre II du titre II du livre VII du code rural,
+l'assiette de la contribution sociale de solidarité est constituée, pour leur
+activité principale, par les cotisations, primes et acceptations de l'exercice,
+nettes de cessions et de rétrocessions, telles qu'elles ressortent du compte de
+résultat, conforme aux dispositions relatives à la comptabilité des mutuelles et
+institutions de prévoyance.
+
+Pour les redevables mentionnés aux deux alinéas précédents, ne sont comprises
+dans le chiffre d'affaires retenu pour asseoir la contribution ni les
+cotisations, primes et acceptations provenant de contrats exonérés de la taxe
+sur les conventions d'assurances en application des 15° et 16° de l'article 995
+du code général des impôts, ni les remises qui leur sont versées dans le cadre
+de leur participation à la gestion d'un régime légal d'assurance maladie et
+maternité.
+
+Pour les redevables mentionnés au cinquième alinéa, ne sont pas comprises dans
+le chiffre d'affaires retenu pour asseoir la contribution des subventions
+accordées par le fonds prévu à l'article L. 421-1 du code de la mutualité.
 
 Par dérogation au premier alinéa, les entreprises dont le chiffre d'affaires,
 calculé selon les modalités prévues aux alinéas précédents, est inférieur au

@@ -6,5 +6,5 @@ l'employeur et 0,75 % à la charge du salarié ou assimilé, sur la totalité de
 rémunérations ou gains de l'intéressé.
 
 Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L.
-131-7-1, le taux de la cotisation est fixé à 18,30 %, soit 12,80 % à la charge
-de l'employeur et 5,50 % à la charge du salarié ou assimilé.
+131-9, le taux de la cotisation est fixé à 18,30 %, soit 12,80 % à la charge de
+l'employeur et 5,50 % à la charge du salarié ou assimilé.

@@ -5,7 +5,10 @@ service attendu d'un produit, d'un acte ou d'une prestation de santé ou du
 service qu'ils rendent. Elle peut être également consultée, notamment par
 l'Union nationale des caisses d'assurance maladie, sur le bien-fondé et les
 conditions de remboursement d'un ensemble de soins ou catégorie de produits ou
-prestations et, le cas échéant, des protocoles de soins les associant.
+prestations et, le cas échéant, des protocoles de soins les associant. Les
+entreprises, établissements, organismes et professionnels concernés sont tenus
+de lui transmettre les informations qu'elle demande à cet effet après les avoir
+rendues anonymes.
 
 Sans préjudice des mesures prises par l'Agence française de sécurité sanitaire
 des produits de santé dans le cadre de ses missions de sécurité sanitaire, et

@@ -14,7 +14,7 @@ Les ressources de la Haute Autorité sont constituées notamment par :
 déterminés sur proposition du directeur par le collège ;
 
 4° Une fraction de 10 % du produit de la contribution prévue aux articles L.
-245-1 à L. 245-6 ;
+245-1 à L. 245-5-1 A ;
 
 5° Le montant des taxes mentionnées aux articles L. 5123-5 et L. 5211-5-1 du
 code de la santé publique ;
