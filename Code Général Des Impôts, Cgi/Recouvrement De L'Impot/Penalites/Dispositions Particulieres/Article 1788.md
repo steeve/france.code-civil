@@ -1,12 +1,12 @@
 Article 1788
 ----
 Toute contravention à l'article 302 octies est passible d'une amende de 1 F à 50
-F prononcée par le tribunal correctionnel à la requête de l'administration.
+F prononcée par le tribunal correctionnel à la requête de l'administration (1).
 
 En cas de récidive, les marchandises sont confisquées.
 
 Faute par les redevables intéressés de produire les justifications prévues ou de
-représenter le récépissé de consignation visé audit article, les marchandises
+présenter le récépissé de consignation visé audit article, les marchandises
 mises en vente sont saisies à leurs frais jusqu'à ce qu'ils se soient conformés
 aux prescriptions de la loi.
 
@@ -15,3 +15,6 @@ les marchandises saisies sont vendues publiquement pour désintéresser le Trés
 
 S'il s'agit de marchandises périssables, la vente est effectuée immédiatement
 sous réserve des droits des intéressés.
+
+(1) En ce qui concerne la constatation des infractions, voir livre des
+procédures fiscales, art. L. 212.

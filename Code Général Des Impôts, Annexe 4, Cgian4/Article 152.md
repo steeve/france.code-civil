@@ -24,14 +24,13 @@ ainsi que son nom.
 Les encaissements sont totalisés en fin de journée. La recette est inscrite en
 chiffres et en lettres et certifiée exacte par le caissier.
 
-Les 11, 21 et 1er de chaque mois la recette totale de la dizaine écoulée est
+Les 11, 21 et 1er de chaque mois, la recette totale de la dizaine écoulée est
 déclarée par le président du comité de direction des jeux ou son suppléant
 conformément aux prescriptions de l'administration [*date de déclaration*].
 Lorsque le produit brut des jeux ne dépasse pas 10.000 F par an dans les cercles
 où sont pratiqués seulement les jeux de commerce et dans les maisons de jeux
 l'administration peut autoriser les associations ou les exploitants à déclarer
-les recettes et à payer l'impôt mensuellement. En outre dans les cercles visés
-au présent article et dans les maisons de jeux des abonnements peuvent être
-consentis selon les conditions prévues par les articles 1700 et 1939-1, deuxième
-alinéa du code général des impôts pour la généralité des établissements de
-spectacles.
+les recettes et à payer l'impôt mensuellement. En outre dans les cercles
+désignés au présent article et dans les maisons de jeux des abonnements peuvent
+être consentis selon les conditions prévues par les articles 1700 du code
+général des impôts pour la généralité des établissements de spectacles.

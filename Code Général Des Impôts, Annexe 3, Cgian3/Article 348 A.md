@@ -9,6 +9,6 @@ Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations qui
 sont annexées au procès-verbal.
 
 2. Le directeur des services agricoles appelé à se faire entendre par la
-commission départementale conformément à l'article 66 du code général des impôts
-peut se faire représenter par un fonctionnaire de son service devant cette
-commission.
+commission départementale conformément à l'article R. 1-2 du livre des
+procédures fiscales peut se faire représenter par un fonctionnaire de son
+service devant cette commission.

@@ -9,7 +9,7 @@ dissimulé une part des sommes sujettes à l'impôt, soit qu'il ait organisé so
 insolvabilité ou mis obstacle par d'autres manoeuvres au recouvrement de
 l'impôt, soit en agissant de toute autre manière frauduleuse, est passible,
 indépendamment des sanctions fiscales applicables, d'une amende de 5.000 F à
-250.000 F et d'un emprisonnement d'un an à cinq ans ou de l'une de ces deux
+250.000 F, et d'un emprisonnement d'un an à cinq ans ou de l'une de ces deux
 peines seulement. Lorsque les faits ont été réalisés ou facilités au moyen soit
 d'achats ou de ventes sans facture, soit de factures ne se rapportant pas à des
 opérations réelles, ou qu'ils ont eu pour objet d'obtenir de l'Etat des
@@ -41,11 +41,5 @@ L'article 463 du code pénal peut être appliqué, sauf en ce qui concerne les
 peines prévues au troisième alinéa et à la deuxième phrase du quatrième alinéa
 du présent article.
 
-Les poursuites sont engagées sur la plainte du service chargé de l'assiette ou
-du recouvrement de l'impôt, sans qu'il y ait lieu, le cas échéant, de mettre, au
-préalable, l'intéressé en demeure de faire ou de compléter sa déclaration. Elles
-sont portées devant le tribunal correctionnel dans le ressort duquel l'un
-quelconque des impôts en cause aurait dû être établi, ou acquitté, sans
-préjudice de l'application des articles 203 et 210 du code de procédure pénale.
-Cette plainte peut être déposée jusqu'à la fin de la troisième année qui suit
-celle au cours de laquelle l'infraction a été commise.
+Les poursuites sont engagées dans les conditions prévues aux articles L 229 à L
+231 du livre des procédures fiscales.

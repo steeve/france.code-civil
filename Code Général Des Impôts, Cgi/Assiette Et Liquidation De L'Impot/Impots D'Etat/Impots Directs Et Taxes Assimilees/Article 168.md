@@ -15,7 +15,7 @@ Les éléments dont il est fait état pour la détermination de la base d'imposi
 sont ceux dont ont disposé, pendant l'année de l'imposition, le contribuable, sa
 femme, les personnes considérées comme étant à sa charge au sens de l'article
 196 lorsqu'elles n'ont pas fait l'objet de demandes d'imposition distincte,
-ainsi que les personnes désignées aux articles 196 A et 196 B.
+ainsi que les personnes désignées aux articles 196 A bis et 196 B.
 
 Pour les éléments dont disposent conjointement plusieurs personnes, la base est
 fixée proportionnellement aux droits de chacune d'entre elles.

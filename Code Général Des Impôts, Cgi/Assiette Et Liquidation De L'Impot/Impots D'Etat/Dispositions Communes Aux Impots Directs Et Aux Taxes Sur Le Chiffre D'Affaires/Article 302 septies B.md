@@ -20,3 +20,6 @@ l'ensemble immobilier :
 
 - comme il est dit à l'article L 142-2 du code de l'urbanisme, la taxe
 départementale d'espaces verts.
+
+- la taxe pour le financement des dépenses des conseils d'architecture,
+d'urbanisme et de l'environnement prevue par l'article 1599 B.

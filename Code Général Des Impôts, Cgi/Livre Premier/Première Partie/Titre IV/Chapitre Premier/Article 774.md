@@ -13,4 +13,12 @@ obligatoires, documents*] :
 des procédures fiscales, une attestation, datée et signée par lui, mentionnant
 le montant de sa créance sur la succession de l'exploitant ;
 
-2° (abrogé)
+2° Un certificat du maire indiquant soit qu'il travaillait habituellement sur un
+fonds rural et précisant qu'il participait encore au travail agricole à la date
+du décès de l'exploitant, soit qu'il avait cessé toute participation pour
+accomplir son service militaire légal ou par suite de maladie ou d'infirmité
+physique le mettant dans l'impossibilité de se livrer aux travaux agricoles.
+
+Le maire compétent pour délivrer le certificat est celui de la commune dans
+laquelle l'héritier créancier avait son domicile à la date du décès de
+l'exploitant.

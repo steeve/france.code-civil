@@ -7,5 +7,5 @@ le service des impôts attestant qu'il est autorisé à faire emploi de ces
 substances.
 
 Ces certificats sont conservés par le vendeur ou l'expéditeur desdites
-substances pendant le délai prévu à l'article 2002 bis du code général des
-impôts et présentés à toute réquisition des fonctionnaires des impôts.
+substances pendant le délai prévu à l'article L. 82 du livre des procédures
+fiscales et présentés à toute réquisition des fonctionnaires des impôts.

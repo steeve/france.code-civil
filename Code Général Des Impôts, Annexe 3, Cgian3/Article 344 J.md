@@ -1,12 +1,13 @@
 Article 344 J
 ----
-1° Pour l'application des dispositions de l'article 1649 septies G 3° du code
-général des impôts, relatif aux conditions d'application de la le versement des
-rappels de droits simples et des intérêts de retard visés au premier alinéa
-dudit article s'effectue sur présentation d'une fiche de paiement préalablement
-annotée par l'agent chargé de la vérification des mentions relatives au
-comptable compétent à l'identité du débiteur des impôts taxes et intérêts de
-retard et au montant de la dette fiscale;
+1° Pour l'application des dispositions de l'article L. 62 du livre des
+procédures fiscales relatif aux conditions d'application de la procédure de
+règlement particulière, le versement des rappels de droits simples et des
+intérêts de retard visés au premier alinéa dudit article s'effectue sur
+présentation d'une fiche de paiement préalablement annotée par l'agent chargé de
+la vérification des mentions relatives au comptable compétent à l'identité du
+débiteur des impôts taxes et intérêts de retard et au montant de la dette
+fiscale;
 
 2° Le versement des droits simples et intérêts de retard est constaté par la
 délivrance d'un certificat de paiement qui mentionne obligatoirement :

@@ -8,6 +8,6 @@ L'exploitant est tenu d'assister ou de se faire représenter aux opérations de
 relevés de ces appareils effectuées par les agents des impôts.
 
 Les prises en charge ainsi opérées sont corrigées lorsque le contrôle technique
-des compteurs effectué dans l'un des cas prévus à l'article 64 fait apparaître
-une discordance de plus de 0,5 % entre les indications des appareils et les
-quantités d'alcool réellement produites.
+des compteurs effectué dans l'un des cas prévus à l'article R. 32-1 du livre des
+procédures fiscales fait apparaître une discordance de plus de 0,5 % entre les
+indications des appareils et les quantités d'alcool réellement produites.

@@ -24,9 +24,9 @@ III Le bénéfice des dispositions du II est réservé :
 a Aux entreprises normalement placées sous le régime du forfait et qui optent
 pour le régime du bénéfice réel;
 
-b Aux autres entreprises dont le chiffre d'affaires n'excède pas le double des
-limites prévues au 1 de l'article 302 ter ainsi qu'aux sociétés civiles de
-moyens définies à l'article 36 de la loi n° 66-879 du 29 novembre 1966.
+b Aux autres entreprises dont le chiffre d'affaires n'excède pas les limites
+prévues au I de l'article 302 septies A ainsi qu'aux sociétés civiles de moyens
+définies à l'article 36 de la loi n° 66-879 du 29 novembre 1966.
 
 Les entreprises conservent le bénéfice de ces dispositions pour la première
 année au cours de laquelle le chiffre d'affaires limite fixé à l'alinéa

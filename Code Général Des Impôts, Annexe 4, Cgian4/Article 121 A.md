@@ -51,9 +51,9 @@ comptable à l'appui de la recette des droits de timbre.
 
 IV. Les entrepreneurs commissionnaires et intermédiaires de transports publics
 routiers de marchandises bénéficiaires d'une autorisation de paiement sur états
-doivent conserver pendant le délai prévu à l'article 2002 bis du code général
-des impôts [*obligation de conservation*] tous les documents nécessaires au
-contrôle et notamment les bordereaux visés au I, les registres à souche de
-récépissés et les carnets d'enregistrement de ces registres les souches des
-feuilles d'expédition et des feuilles de route. Ces documents sont présentés à
-toute réquisition des agents des impôts.
+doivent conserver pendant le délai prévu à l'article L. 82 du livre des
+procédures fiscales [*obligation de conservation*] tous les documents
+nécessaires au contrôle et notamment les bordereaux visés au I, les registres à
+souche de récépissés et les carnets d'enregistrement de ces registres les
+souches des feuilles d'expédition et des feuilles de route. Ces documents sont
+présentés à toute réquisition des agents des impôts.

@@ -1,11 +1,11 @@
 Article 98 bis
 ----
 1 Les exploitants agricoles qui bénéficient du régime du remboursement
-forfaitaire institué par l'article 298 quater du code général des impôts
-peuvent, pour leurs ventes de fruits et légumes, recevoir mandat de leurs
-clients assujettis à la taxe sur la valeur ajoutée de rédiger en leur lieu et
-place les attestations qu'ils doivent joindre à la déclaration annuelle prévue à
-l'article 266-I de l'annexe II au code général des impôts.
+forfaitaire prévu aux articles 298 bis, 298 quater et 298 quinquies du code
+général des impôts peuvent, pour leurs ventes de fruits et légumes, recevoir
+mandat de leurs clients redevables de la taxe sur la valeur ajoutée de rédiger
+en leur lieu et place les attestations qu'ils doivent joindre à la déclaration
+annuelle prévue à l'article 266-I de l'annexe II au code général des impôts.
 
 2 Le mandat doit être donné par écrit et figurer soit sur un document valable
 pour une année civile, soit sur les bulletins d'achat que les acheteurs
@@ -26,8 +26,8 @@ opposable au client qu'elle concerne.
 
 5 Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat
 ou les bons de livraison correspondant aux attestations qu'ils ont établies
-eux-mêmes, pendant le délai prévu à l'article 2002 bis du code général des
-impôts et les représenter à toute demande des agents de l'administration des
+eux-mêmes, pendant le délai prévu à l'article L. 82 du livre des procédures
+fiscales et les représenter à toute demande des agents de l'administration des
 impôts.
 
 6 Les attestations annuelles rédigées par les exploitants agricoles sont

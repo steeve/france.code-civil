@@ -7,5 +7,5 @@ la taxe foncière sur les propriétés bâties pendant une durée de quinze ans 
 compter de l'année qui suit celle de leur achèvement [*point de départ*].
 
 Cette disposition s'applique aux constructions pour lesquelles une demande de
-prêt est déposée avant le 31 décembre 1981 [*date limite*] à condition que le
+prêt est déposée avant le 31 décembre 1982 [*date limite*] à condition que le
 prêt soit effectivement accordé.

@@ -1,48 +1,50 @@
 Article 575 A
 ----
-Pour les différents groupes de produits définis à l'article 575, le taux normal,
-le minimum de perception, le droit de seuil et le taux réduit sont fixés
-conformément au tableau ci-après :
+Pour les différents groupes de produits définis à l'article 575, le taux normal
+et le minimum de perception sont fixés conformément taux réduit sont fixés
+conformément au tableau ci-après (1) :
 
--------------------------------------------------------------------- : : TAUX :
-MINIMUM : MONTANT : TAUX :
+---------------------------------------------------------:
 
-: GROUPES : normal : de : du droit : réduit :
+: : TAUX : MINIMUM :
 
-: : : perception : de seuil : :
+: GROUPES : normal : de perception :
 
-: DE :---------:------------:-----------:---------:
+: : : :
 
-: : Pour- : Par mille unités : Pour- :
+: DE : : :
 
-: PRODUITS : centage : ou par mille grammes : centage :
+: : : Par mille unités :
 
-: : : : :
+: PRODUITS : : ou par mille grammes :
 
-:---------------------:---------:------------------------:---------:
+: : : :
 
-: : : F : F : :
+:---------------------:---------:------------------------:
 
-: : : : : :
+: : : F :
 
-: Cigarettes : 47,20 : 30 : - : - :
+: : : :
 
-: Cigares à enveloppe : : : : :
+: Cigarettes : 49,20 : 30 :
 
-: extérieure en : : : : :
+: Cigares à enveloppe : : :
 
-: tabac naturel : 22,50 : 34 : 112 : 14,70 :
+: extérieure en : : :
 
-: Cigares à enveloppe : : : : :
+: tabac naturel : 24,50 : 34 :
 
-: extérieure en : : : : :
+: Cigares à enveloppe : : :
 
-: tabac reconstitué : 26,20 : 39 : 130 : 17 :
+: extérieure en : : :
 
-: Tabacs à fumer : 37,50 : 12 : 35 : 27,80 :
+: tabac reconstitué : 28,20 : 39 :
 
-: Tabacs à priser : 31,40 : 8 : - : - :
+: Tabacs à fumer : 39,50 : 12 :
 
-: Tabacs à mâcher : 19,60 : 7 : - : - :
+: Tabacs à priser : 33,40 : 8 :
 
---------------------------------------------------------------------
+: Tabacs à mâcher : 21,60 : 7 :
+
+----------------------------------------------------------- (1) Dispositions
+applicables à compter du 1er février 1982.

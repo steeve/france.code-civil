@@ -6,10 +6,10 @@ de 10 % [*sanction, pénalité*] , visée à l'article 1762 du code général de
 impôts est appliquée aux sommes non réglées.
 
 2. Le recouvrement des acomptes ou fractions d'acomptes non réglés et de la
-majoration de 10 % correspondante est poursuivi le cas échéant dans les
-conditions prévues par les articles 1842, 1843, 1844, 1846, 1848, 1908 à 1912 du
-code général des impôts en vertu d'un titre de perception rendu exécutoire par
-le trésorier-payeur général.
+majoration de 10 % correspondante est poursuivi, le cas échéant, en vertu d'un
+titre de perception rendu exécutoire par le trésorier-payeur général. Les
+dispositions du titre IV du livre des procédures fiscales concernant les impôts
+dont le recouvrement incombe aux comptables du Trésor, sont applicables.
 
 3. Les omissions totales ou partielles constatées dans l'établissement de ce
 titre ainsi que les erreurs commises dans le calcul des acomptes ou de la

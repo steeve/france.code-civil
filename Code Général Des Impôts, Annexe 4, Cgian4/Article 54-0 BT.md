@@ -21,5 +21,5 @@ L'administration peut à la demande des intéressés agréer des modèles diffé
 pourvu qu'ils comportent les indications réglementaires.
 
 Les bordereaux doivent être conservés et tenus à la disposition des agents des
-impôts jusqu'à l'expiration du délai prévu à l'article 2002 bis du code général
-des impôts.
+impôts jusqu'à l'expiration du délai prévu à e l'article L. 82 du livre des
+procédures fiscales.

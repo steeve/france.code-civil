@@ -7,8 +7,9 @@ tient compte des gains ou des pertes [*plus-values, moins-values*] provenant
 soit de la réalisation des éléments d'actif affectés à l'exercice de la
 profession, soit des cessions de charges ou d'offices, ainsi que de toutes
 indemnités reçues en contrepartie de la cessation de l'exercice de la profession
-ou du transfert d'une clientèle. Les dépenses déductibles comprennent notamment
-[*définition*] :
+ou du transfert d'une clientèle (1).
+
+Les dépenses déductibles comprennent notamment [*définition*] :
 
 1° Le loyer des locaux professionnels. Lorsque le contribuable est propriétaire
 de locaux affectés à l'exercice de sa profession, aucune déduction n'est
@@ -18,6 +19,10 @@ apportée, de ce chef, au bénéfice imposable.
 bénéfices industriels et commerciaux.
 
 1 bis. (Abrogé).
+
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location au
+sens de l'article 281 bis C portant sur des voitures particulières, à
+l'exclusion de la part de loyer visée à l'article 39-4.
 
 1 ter. Les agents généraux d'assurances et leurs sous-agents peuvent demander
 que le revenu imposable provenant des commissions versées par les compagnies
@@ -61,3 +66,6 @@ dispositions du deuxième alinéa de l'article 93 quater-I.
 
 5. Pour l'application du 1, les parts de sociétés civiles de moyens constituent
 des éléments affectés à l'exercice de la profession.
+
+(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
+nationalisation, voir art. 248 B.

@@ -11,4 +11,4 @@ La même règle est applicable pour les impositions établies en 1980. Toutefois
 la réduction est limitée à la moitié de celle accordée en 1979.
 
 Les demandes doivent être présentées dans le délai général de réclamation fixé
-par l'article 1932-1 du code général des impôts.
+par l'article R. 196-2 du livre des procédures fiscales.

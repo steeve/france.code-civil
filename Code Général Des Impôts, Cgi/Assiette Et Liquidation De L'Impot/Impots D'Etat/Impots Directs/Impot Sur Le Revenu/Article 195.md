@@ -28,15 +28,26 @@ l'adoptant comme enfant recueilli dans les conditions prévues à l'article 196
 depuis l'âge de 10 ans. Cette disposition n'est pas applicable si l'enfant
 adopté est décédé avant d'avoir atteint l'âge de 16 ans.
 
+f. Sont âgés de plus de soixante-quinze ans et titulaires de la carte du
+combattant ou d'une pension servie en vertu des dispositions du code des
+pensions militaires d'invalidité et des victimes de guerre ; cette disposition
+est également applicable aux veuves, âgées de plus de soixante-quinze ans, des
+personnes mentionnées ci-dessus.
+
 2. Le quotient familial prévu à l'article 194 est augmenté d'une part entière,
 au lieu d'une demi-part, pour chaque enfant titulaire de la carte d'invalidité
 prévue à l'article 173 du code de la famille et de l'aide sociale.
 
-3. (Abrogé).
+3. Le quotient familial prévu à l'article 194 est augmenté d'une demi-part pour
+les contribuables mariés, lorsque l'un ou l'autre des conjoints remplit l'une
+des conditions fixées au 1 c, d et d bis (1).
 
 4. Le quotient familial prévu à l'article 194 est augmenté d'une part pour les
 contribuables mariés invalides lorsque chacun des conjoints remplit l'une des
-conditions fixées au 1 c, d et d bis (1).
+conditions fixées au 1 c, d et d bis (2).
 
-(1) Disposition nouvelle applicable, pour la première fois, pour l'imposition
+(1) Dispositions applicables pour la première fois pour la détermination des
+revenus imposables au titre de l'année 1981.
+
+(2) Disposition nouvelle applicable, pour la première fois, pour l'imposition
 des revenus de l'année 1980.

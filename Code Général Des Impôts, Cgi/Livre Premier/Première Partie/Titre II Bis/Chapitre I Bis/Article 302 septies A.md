@@ -3,8 +3,11 @@ Article 302 septies A
 I Il est institué par décret en conseil d'Etat (1) un régime simplifié de
 liquidation des taxes sur le chiffre d'affaires dues par les personnes qui ne
 sont pas placées sous le régime du forfait et dont le chiffre d'affaires
-n'excède pas le double des limites prévues pour l'application de ce régime
-[*montant plafond*].
+n'excède pas 1.800.000 F, s'il s'agit d'entreprises dont le commerce principal
+est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
+consommer sur place ou de fournir le logement, ou 540.000 F, s'il s'agit
+d'autres entreprises. Ces limites s'apprécient dans les mêmes conditions que les
+limites fixées pour l'application du régime forfaitaire.
 
 II Le régime simplifié prévu au I demeure applicable pour l'établissement de
 l'imposition due au titre de la première année au cours de laquelle les chiffres

@@ -65,7 +65,7 @@ fournitures de prothèses dentaires par les dentistes et les prothésistes;
 2° Les livraisons, commissions, courtages et façons portant sur les organes, le
 sang et le lait humains;
 
-3° Les soins dispensés aux animaux par les vétérinaires;
+3° (Abrogé) ;
 
 4° a Les prestations de services et les livraisons de biens qui leur sont
 étroitement liées, effectuées dans le cadre :
@@ -151,10 +151,7 @@ travail, ainsi que par les sociétés et organismes à but désintéressé habil
 recevoir la contribution des employeurs à l'effort de construction visée à
 l'article 235 bis;
 
-c Les opérations de lotissement faites suivant la procédure simplifiée
-applicable en matière d'urbanisme, à la condition que le terrain ait été acquis
-par voie de succession ou de donation-partage remontant à plus de trois ans
-[*délai*] ;
+c (Devenu sans objet) ;
 
 d Les opérations immobilières résultant de l'application des dispositions de
 l'article 15 de la loi n° 60-808 du 5 août 1960 d'orientation agricole,

@@ -22,5 +22,5 @@ social et l'autre aux paiements faits à des personnes domiciliées ou ayant leu
 siège hors de France [*à l'étranger*].
 
 4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la
-disposition de l'administration pendant le délai prévu à l'article 2002 bis du
-code général des impôts.
+disposition de l'administration pendant le délai prévu à l'article L. 82 du
+livre des procédures fiscales.

@@ -1,14 +1,15 @@
 Article 64
 ----
-1 Sous réserve des dispositions des articles 68 A à 69 quinquies, le bénéfice
+1. Sous réserve des dispositions des articles 68 A à 69 quinquies, le bénéfice
 imposable des exploitations situées en France est déterminé forfaitairement
-conformément aux prescriptions des 2 à 5 (1).
+conformément aux prescriptions des 2 à 5.
 
-2 Le bénéfice forfaitaire est déterminé par hectare, pour chaque catégorie ou
-chaque nature d'exploitation, d'après la valeur des récoltes levées et des
-autres produits de la ferme réalisés au cours de l'année civile diminuée des
-charges immobilières et des frais et charges supportés au cours de la même année
-à l'exception du fermage [*calcul*].
+2. Le bénéfice forfaitaire est déterminé [*calcul*], dans les conditions prévues
+aux articles L 1 à L 4 du livre des procédures fiscales, par hectare, pour
+chaque catégorie ou chaque nature d'exploitation, d'après la valeur des récoltes
+levées et des autres produits de la ferme réalisés au cours de l'année civile
+diminuée des charges immobilières et des frais et charges supportés au cours de
+la même année à l'exception du fermage.
 
 Toutefois, pour certaines natures de cultures ou d'exploitations, il peut être
 déterminé d'après tous autres éléments appropriés permettant d'évaluer le
@@ -27,16 +28,20 @@ indépendamment de la personne de l'exploitant, influent sur les résultats de
 l'exploitation.
 
 L'administration des impôts peut soumettre chaque année, entre le 1er décembre
-de l'année de l'imposition et le 15 février de l'année suivante [*période*], à
-la commission départementale [*des impôts directs et des taxes sur le chiffre
-d'affaires*] prévue à l'article 1651, des propositions portant sur les
+de l'année de l'imposition et le 15 février de l'année suivante, à la commission
+départementale prévue à l'article 1651, des propositions portant sur les
 coefficients de correction prévus à l'alinéa précédent.
+
+Les majorations forfaitaires des valeurs locatives effectuées entre deux
+actualisations, en application de l'article 1518 bis, sont sans incidence sur le
+classement des exploitations de polyculture pour le calcul du bénéfice
+forfaitaire agricole.
 
 L'évaluation du bénéfice forfaitaire à l'hectare doit être faite de telle façon
 que les chiffres fixés dans un département correspondent à ceux établis dans un
 département voisin pour des terres de productivité semblable.
 
-3 Sous réserve du cas visé au 2, deuxième alinéa, le bénéfice forfaitaire de
+3. Sous réserve du cas visé au 2, deuxième alinéa, le bénéfice forfaitaire de
 chaque exploitation est obtenu en multipliant le bénéfice forfaitaire moyen à
 l'hectare correspondant à la catégorie ou à la nature de l'exploitation
 considérée par la superficie de cette exploitation.
@@ -52,7 +57,7 @@ des frais et charges d'exploitation correspondant à ces parcelles. Cette
 disposition n'est pas applicable dans le cas où la perte ayant été générale, il
 en a été tenu compte pour la fixation du bénéfice forfaitaire moyen à l'hectare.
 
-4 En ce qui concerne les terres prises à ferme par l'exploitant, le bénéfice
+4. En ce qui concerne les terres prises à ferme par l'exploitant, le bénéfice
 imposable est obtenu en retranchant du bénéfice déterminé conformément au 3 ou
 au 2, deuxième alinéa, le montant du fermage moyen correspondant à la catégorie
 ou à la nature de l'exploitation.
@@ -61,7 +66,7 @@ Ce montant est déterminé défalcation faite des charges immobilières qui ont 
 été admises en déduction pour le calcul du bénéfice forfaitaire par application
 du 2, premier alinéa.
 
-5 En cas de calamités telles que grêle, gelée, inondation, dégâts occasionnés
+5. En cas de calamités telles que grêle, gelée, inondation, dégâts occasionnés
 par les rongeurs sur les récoltes en terre, mortalité du bétail, l'exploitant
 peut demander que le bénéfice forfaitaire de son exploitation soit réduit du
 montant des pertes subies par ses récoltes ou sur son cheptel à condition de
@@ -72,5 +77,3 @@ et légalisé par la mairie s'il s'agit de pertes de bétail.
 Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue à
 l'alinéa qui précède à l'encontre des contrevenants aux dispositions des
 articles 234 à 239 du code rural.
-
-1) Voir le renvoi (1) de l'article 66.

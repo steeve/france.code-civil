@@ -30,10 +30,10 @@ des impôts la majoration de 10 % est calculée en tenant compte du bénéfice p
 dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation
-et de la majoration de 10 % correspondante est poursuivi le cas échéant dans les
-conditions prévues par les articles 1842, 1843, 1844, 1846, 1848 et 1908 à 1912
-du code général des impôts en vertu d'un titre de perception rendu exécutoire
-par le trésorier-payeur général.
+et de la majoration de 10 % correspondante est poursuivi, le cas échéant, en
+vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général.
+Les dispositions du titre IV du livre des procédures fiscales concernant les
+impôts dont le recouvrement incombe aux comptables du Trésor, sont applicables.
 
 Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le
 montant la majoration de 10 % est recouvrée en vertu d'un rôle émis par le

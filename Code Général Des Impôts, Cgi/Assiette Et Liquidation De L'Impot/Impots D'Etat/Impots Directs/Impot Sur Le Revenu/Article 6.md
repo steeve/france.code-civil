@@ -11,7 +11,8 @@ propre travail ou d'une fortune indépendante de la sienne.
 2 bis Toute personne majeure âgée de moins de vingt et un ans, ou de moins de
 vingt-cinq ans lorsqu'elle poursuit ses études, ou, quel que soit son âge,
 lorsqu'elle effectue son service militaire ou est atteinte d'une infirmité, peut
-opter, dans le délai de déclaration, entre :
+opter, dans le délai de déclaration et sous réserve des dispositions de
+l'article 156-II-2°, dernier alinéa, entre :
 
 1° L'imposition de ses revenus dans les conditions de droit commun;
 

@@ -1,8 +1,9 @@
 Article 164 F octies
 ----
 I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au
-code général des impôts [*relatives aux bons de remis*] sont applicables aux
-chaussures et articles chaussants de toute nature.
+code général des impôts et de l'article R. 24-1 du livre des procédures fiscales
+[*relatives aux bons de remis*] sont applicables aux chaussures et articles
+chaussants de toute nature.
 
 II. Ne donnent pas lieu à l'établissement de bons de remis les transports des
 produits désignés au I, effectués entre leurs magasins de stockage et leurs

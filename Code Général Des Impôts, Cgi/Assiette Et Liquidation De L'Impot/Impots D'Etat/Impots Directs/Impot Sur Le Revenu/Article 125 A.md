@@ -22,7 +22,9 @@ l'imposition de droit commun.
 
 II bis. Le prélèvement est applicable dans tous les cas aux produits des sommes
 inscrites aux comptes spéciaux sur livrets ouverts à leurs déposants par les
-caisses de crédit mutuel non agricole mentionnées à l'article 207-3 (2).
+caisses de crédit mutuel non agricole régies par l'article 5 de l'ordonnance n°
+58-966 du 16 octobre 1958 et fonctionnant conformément aux dispositions du
+décret n° 62-1305 du 6 novembre 1962 (2).
 
 Il est assis sur le tiers de ces produits.
 

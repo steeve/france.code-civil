@@ -1,6 +1,6 @@
 Article 153
 ----
-Tous les carnets et registres visés aux articles 148 à 152 sont servis sans
+Tous les carnets et registres visés aux articles 149 à 152 sont servis sans
 rature ni surcharge.
 
 Les cercles et maisons de jeux sont tenus de représenter à toute réquisition les

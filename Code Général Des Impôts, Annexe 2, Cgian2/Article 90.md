@@ -9,7 +9,7 @@ dernier alinéa, le montant de l'impôt correspondant à la déduction dont
 l'intéressé a bénéficié est reversé de plein droit à l'Etat, sans préjudice de
 l'application d'une majoration de 25 %.
 
-La cotisation correspondante, qui peut être établie nonobstant les dispositions
-de l'article 1966 du code général des impôts, est exigible en totalité dès la
-mise en recouvrement du rôle sous les sanctions édictées par l'article 1761
-dudit code.
+La cotisation correspondante, qui peut être établie malgré l'expiration du délai
+de reprise fixé par l'article L. 169 du livre des procédures fiscales, est
+exigible en totalité dès la mise en recouvrement du rôle sous les sanctions
+édictées par l'article 1761 dudit code.

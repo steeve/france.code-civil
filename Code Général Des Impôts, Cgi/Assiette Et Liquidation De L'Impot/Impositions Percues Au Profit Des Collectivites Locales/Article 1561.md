@@ -20,13 +20,13 @@ et des sports (1).
 La même exemption totale des manifestations sportives pourra être accordée à
 l'occasion de réunions exceptionnelles par délibération du conseil municipal ;
 
-c. Les organisateurs des réunions visées aux a et b doivent tenir leur
+c. De même, les conseils municipaux pourront exonérer de l'impôt sur les
+spectacles les sommes versées à des oeuvres de bienfaisance à la suite de
+manifestations organisées dans le cadre de mouvements nationaux d'entraide ;
+
+4° Les organisateurs des réunions visées au 3°-a et b devront tenir leur
 comptabilité à la disposition des agents des impôts pendant le délai prévu à
 l'article L 82 du livre des procédures fiscales ;
-
-4° Par délibération du conseil municipal, les sommes versées à des oeuvres de
-bienfaisance à la suite de manifestations organisées dans le cadre de mouvements
-nationaux d'entraide ;
 
 5° Les places offertes gratuitement aux blessés de guerre hospitalisés, aux
 mutilés et réformés de guerre, aux anciens militaires et marins titulaires de

@@ -1,8 +1,6 @@
 Article 120
 ----
-En vue des vérifications de l'administration tant au siège des entreprises que
-dans les établissements annexes bureaux agences ou succursales les
-intermédiaires de transports doivent conserver pendant le délai prévu à
-l'article 2002 bis du code général des impôts tous les documents de comptabilité
-et autres nécessaires pour la vérification et notamment ceux visés à l'article
-116 [*obligation de conservation*].
+Tous les documents de comptabilité et autres nécessaires pour la vérification
+des états fournis à l'appui du versement des droits de timbre, et notamment ceux
+prescrits par l'article 116, doivent être conservés pendant le délai prévu à
+l'article L. 82 du livre des procédures fiscales.
