@@ -1,57 +1,47 @@
 Article R815-59
 ----
-Le comité du fonds national de solidarité est composé comme suit :
+Le comité du fonds spécial d'invalidité est composé comme suit :
 
-1°) le ministre chargé de la sécurité sociale, président ;
+1° Le directeur de la sécurité sociale, président ;
 
-2°) trois représentants du régime général de sécurité sociale des travailleurs
-salariés des professions non-agricoles désignés par le conseil d'administration
-de la caisse nationale d'assurance vieillesse des travailleurs salariés parmi
-ses membres représentants des salariés ;
+2° Un représentant du régime général de sécurité sociale des travailleurs
+salariés, désigné par le conseil d'administration de la Caisse nationale de
+l'assurance maladie des travailleurs salariés parmi ses membres représentants
+des salariés ;
 
-3°) un représentant du régime des assurances sociales des travailleurs salariés
-des professions agricoles désigné par le conseil d'administration de la caisse
-centrale de secours mutuels agricoles parmi ses membres représentants des
-salariés ;
+3° Deux représentants des régimes des assurances sociales des travailleurs
+salariés et non salariés des professions agricoles, désignés parmi ses membres
+par le conseil central d'administration de la mutualité sociale agricole ;
 
-4°) un représentant des régimes spéciaux de travailleurs salariés désigné par le
-conseil d'administration de la caisse autonome de la sécurité sociale dans les
-mines parmi ses membres représentants des salariés ;
+4° Un représentant des régimes spéciaux des travailleurs salariés, désigné par
+le conseil d'administration de la caisse autonome de la sécurité sociale dans
+les mines parmi ses membres représentants des salariés ;
 
-5°) deux représentants du régime d'assurance vieillesse des travailleurs
-non-salariés des professions agricoles désignés parmi ses membres par le conseil
-d'administration de la caisse nationale d'assurance vieillesse agricole ;
+5° Un représentant du régime d'assurance vieillesse et invalidité des
+professions artisanales, désigné parmi ses membres par le conseil
+d'administration de la Caisse nationale de l'organisation autonome d'assurance
+vieillesse des travailleurs non salariés des professions artisanales ;
 
-6°) un représentant du régime d'assurance vieillesse des professions artisanales
-désigné parmi ses membres par le conseil d'administration de la caisse nationale
-de l'assurance vieillesse artisanale ;
+6° Un représentant du régime d'assurance vieillesse et invalidité des
+professions industrielles et commerciales, désigné parmi ses membres par le
+conseil d'administration de la Caisse nationale de l'organisation autonome
+d'assurance vieillesse des travailleurs non salariés des professions
+industrielles et commerciales ;
 
-7°) un représentant du régime d'assurance vieillesse des professions
-industrielles et commerciales désigné parmi ses membres par le conseil
-d'administration de la caisse nationale de l'assurance vieillesse des
-professions industrielles et commerciales ;
+7° Le directeur du budget ou son représentant ;
 
-8°) un représentant du fonds spécial d'allocation vieillesse désigné par le
-directeur général de la Caisse des dépôts et consignations après avis de la
-commission consultative de ce fonds ;
+8° Le directeur chargé de la protection sociale au ministère de l'agriculture ou
+son représentant ;
 
-9°) le directeur de la sécurité sociale ou son représentant ;
-
-10°) le directeur de l'action sociale ou son représentant ;
-
-11°) le directeur du budget ou son représentant ;
-
-12°) le directeur du Trésor ou son représentant ;
-
-13°) le directeur des affaires sociales au ministère chargé de l'agriculture ou
-son représentant.
+9° Le directeur de l'action sociale ou son représentant.
 
 Le directeur général de la Caisse des dépôts et consignations ou son
 représentant assiste aux séances du comité.
 
-Les représentants des régimes d'assurances vieillesse sont désignés pour cinq
-ans [*durée du mandat*]. Leur mandat est renouvelable. Il cesse lorsqu'ils
-perdent la qualité en vertu de laquelle ils ont été désignés. Leurs remplaçants
-sont nommés pour la durée du mandat restant à courir.
+Les représentants des régimes d'assurance invalidité sont désignés pour cinq
+ans. Il est procédé dans les mêmes conditions à la désignation de membres
+suppléants.
 
-Il est procédé dans les mêmes conditions à la désignation de membres suppléants.
+Le mandat des représentants et des suppléants est renouvelable. Il cesse
+lorsqu'ils perdent la qualité en vertu de laquelle ils ont été désignés. Leurs
+remplaçants sont nommés pour la durée du mandat restant à courir.

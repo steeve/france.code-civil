@@ -49,8 +49,7 @@ au 3° de l'article L. 351-12 du même code et par les salariés des employeurs 
 la pêche maritime non couverts par lesdits articles.
 
 Ces dispositions ne sont pas applicables aux gains et rémunérations versés par
-les organismes ou services mentionnés au second alinéa de l'article L. 212-1,
-par les organismes visés à l'article 1er de la loi n° 90-568 du 2 juillet 1990
+les organismes visés à l'article 1er de la loi n° 90-568 du 2 juillet 1990
 relative à l'organisation du service public de la poste et des
 télécommunications, par des particuliers employeurs, ni aux gains et
 rémunérations perçus par les salariés ou assimilés dont l'emploi donne lieu à

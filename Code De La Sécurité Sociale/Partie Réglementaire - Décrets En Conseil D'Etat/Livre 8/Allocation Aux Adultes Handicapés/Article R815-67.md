@@ -5,15 +5,15 @@ consignations établit, dans les conditions indiquées ci-après, les propositio
 de subventions forfaitaires se rapportant à l'année en cours.
 
 Elle détermine, pour chaque organisme et service, le montant de la subvention
-forfaitaire par titulaire de prestations de vieillesse. Ce montant est égal au
+forfaitaire par titulaire de prestations d'invalidité. Ce montant est égal au
 quotient du montant des arrérages payés par les organismes et services au cours
 de l'année précédente du fait de l'application du présent chapitre par le nombre
-total des bénéficiaires de prestations de vieillesse.
+total des bénéficiaires de prestations d'invalidité.
 
 Elle propose, pour chaque organisme ou service, une subvention forfaitaire dont
 le montant est, en application de l'article L. 815-17, au plus égal au produit
-majoré de 5 p. 100 du nombre de bénéficiaires de prestations de vieillesse par
-le montant unitaire de la subvention affecté, le cas échéant, d'un coefficient
+majoré de 5 p. 100 du nombre de bénéficiaires de prestations d'invalidité par le
+montant unitaire de la subvention affecté, le cas échéant, d'un coefficient
 destiné à tenir compte de l'évolution des charges imposées aux organismes et
 services pendant l'année en cours.
 

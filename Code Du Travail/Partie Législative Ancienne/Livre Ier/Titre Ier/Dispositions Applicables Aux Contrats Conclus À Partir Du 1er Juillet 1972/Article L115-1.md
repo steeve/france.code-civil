@@ -22,7 +22,7 @@ professionnelles en relation directe avec la qualification objet du contrat et,
 sous réserve des dispositions de l'article L. 116-1-1, des enseignements
 dispensés pendant le temps de travail dans un centre de formation d'apprentis.
 Le contenu des relations conventionnelles qui lient l'employeur et la ou les
-entreprises d'un Etat membre de la Communauté économique européenne susceptibles
+entreprises d'un Etat membre de la Communauté européenne susceptibles
 d'accueillir temporairement l'apprenti est fixé par le décret mentionné à
 l'article L. 119-4.
 

@@ -1,9 +1,13 @@
 Article 122
 ----
-Le juge d'instruction peut, selon les cas décerner mandat de comparution,
-d'amener, de dépôt ou d'arrêt. Le mandat de comparution a pour objet de mettre
-la personne à l'encontre de laquelle il est décerné en demeure de se présenter
-devant le juge à la date et à l'heure indiquées par ce mandat.
+Le juge d'instruction peut décerner mandat de comparution, d'amener ou d'arrêt.
+Il peut également, soit d'office dans le cas prévu par le quatrième alinéa de
+l'article 145, soit en exécution des décisions de la chambre prévue par
+l'article 137-1, décerner mandat de dépôt.
+
+Le mandat de comparution a pour objet de mettre la personne à l'encontre de
+laquelle il est décerné en demeure de se présenter devant le juge à la date et à
+l'heure indiquées par ce mandat.
 
 Le mandat d'amener est l'ordre donné par le juge à la force publique de conduire
 immédiatement la personne à l'encontre de laquelle il est décerné devant lui.

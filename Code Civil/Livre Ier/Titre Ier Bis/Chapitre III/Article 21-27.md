@@ -8,8 +8,8 @@ considérée, s'il a été condamné à une peine égale ou supérieure à six m
 d'emprisonnement, non assortie d'une mesure de sursis.
 
 Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non
-expressément rapporté ou abrogé (1), soit d'une interdiction du territoire
-français non entièrement exécutée.
+expressément rapporté ou abrogé, soit d'une interdiction du territoire français
+non entièrement exécutée.
 
 Il en est de même de celui dont le séjour en France est irrégulier au regard des
 lois et conventions relatives au séjour des étrangers en France.
