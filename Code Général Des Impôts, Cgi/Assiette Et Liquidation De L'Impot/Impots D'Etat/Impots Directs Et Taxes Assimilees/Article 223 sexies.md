@@ -39,4 +39,8 @@ l'article 1er de la loi n° 69-1160 du 24 décembre 1969 ;
 5° Par les sociétés agréées pour le financement des économies d'énergie
 mentionnées à l'article 208-3° sexies.
 
+6° Par les sociétés de capital-risque lorsque ces distributions proviennent de
+produits et plus-values nets exonérés en application du 3° septies de l'article
+208.
+
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.

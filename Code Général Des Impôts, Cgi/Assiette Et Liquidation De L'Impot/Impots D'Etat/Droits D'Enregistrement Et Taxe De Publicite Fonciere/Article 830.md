@@ -1,6 +1,6 @@
 Article 830
 ----
-Sont enregistrés au droit fixe de 1.050 F [*montant*] les actes constatant des
+Sont enregistrés au droit fixe de 1.160 F [*montant*] les actes constatant des
 apports mobiliers faits :
 
 a. Aux sociétés immobilières d'investissement visées à l'article 33-I de la loi
@@ -15,3 +15,6 @@ l'article 1er de la loi n° 69-1160 du 24 décembre 1969 ;
 
 d. Aux sociétés agréées pour le financement des économies d'énergie mentionnées
 à l'article 208-3° sexies.
+
+e. Aux sociétés civiles mentionnées à l'article 11-I de la loi n° 84-1208 du 29
+décembre 1984.

@@ -1,10 +1,10 @@
 Article 51
 ----
-1 Ne sont pas compris dans les bases de la taxe sur les salaires les
+1. Ne sont pas compris dans les bases de la taxe sur les salaires les
 allocations, sommes et traitements énumérés à l'article 81 du code général des
 impôts.
 
-2 Sous réserve des dispositions des 1 et 3, la taxe à la charge des personnes,
+2. Sous réserve des dispositions des 1 et 3, la taxe à la charge des personnes,
 associations et organismes visés à l'article 50 est calculée sur le montant
 total des rémunérations effectivement payées par ces personnes, associations et
 organismes à l'ensemble de leur personnel - y compris la valeur des avantages en
@@ -12,8 +12,8 @@ nature - quels que soient l'importance des rémunérations et le lieu du domicil
 des bénéficiaires.
 
 Ces rémunérations sont comprises dans la base de calcul de la taxe pour leur
-montant brut, avant déduction des retenues, cotisations et contributions visées
-à l'article 83-1° à 2° ter du code général des impôts.
+montant brut, avant déduction des cotisations et contributions visées aux 1° à
+2° ter de l'article 83 du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de
 professions qui bénéficient, en vertu de l'article 5 de l'annexe IV au code
@@ -26,13 +26,13 @@ constituée, à moins qu'il n'en soit disposé autrement, par le montant global 
 rémunérations acquises aux intéressés, y compris les indemnités versées à titre
 de frais d'emploi, de service, de route et autres allocations similaires.
 
-3 L'assiette de la taxe est constituée par une partie des rémunérations versées,
-déterminée en appliquant à l'ensemble des rémunérations définies au 2 le rapport
-existant, au titre de l'année civile précédant celle du paiement desdites
-rémunérations, entre le chiffre d'affaires qui n'a pas été passible de la taxe
-sur la valeur ajoutée et le chiffre d'affaires total.
+3. L'assiette de la taxe est constituée par une partie des rémunérations
+versées, déterminée en appliquant à l'ensemble des rémunérations définies au 2
+le rapport existant, au titre de l'année civile précédant celle du paiement
+desdites rémunérations, entre le chiffre d'affaires qui n'a pas été passible de
+la taxe sur la valeur ajoutée et le chiffre d'affaires total.
 
-4 L'estimation des rémunérations allouées sous la forme d'avantages en nature
+4. L'estimation des rémunérations allouées sous la forme d'avantages en nature
 est faite d'après les évaluations prévues pour l'application aux salariés du
 régime de sécurité sociale lorsque le montant des sommes effectivement perçues
 en espèces par le bénéficiaire n'est pas supérieur au chiffre limite fixé pour

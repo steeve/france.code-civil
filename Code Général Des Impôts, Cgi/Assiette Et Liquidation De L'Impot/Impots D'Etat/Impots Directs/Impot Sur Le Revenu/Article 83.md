@@ -3,8 +3,7 @@ Article 83
 Le montant net du revenu imposable est déterminé en déduisant du montant brut
 des sommes payées et des avantages en argent ou en nature accordés :
 
-1° Les retenues faites par l'employeur en vue de la constitution de pensions ou
-de retraites ;
+1° Les cotisations de sécurité sociale ;
 
 1° bis Les cotisations afférentes au régime de retraite complémentaire institué
 par la caisse nationale de prévoyance de la fonction publique. Des décrets (1)
@@ -15,7 +14,16 @@ relevant du code de la mutualité, soit auprès d'entreprises d'assurances régi
 par le livre III du code des assurances ou de la caisse nationale de prévoyance
 ;
 
-2° La cotisation ouvrière aux assurances sociales ;
+2° Les cotisations ou les primes versées aux organismes de retraite et de
+prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
+
+Lorsque le total des versements du salarié et de l'employeur tant aux caisses de
+sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de
+retraite et de prévoyance complémentaires excède 19 % d'une somme égale à huit
+fois le plafond annuel moyen retenu pour le calcul des cotisations de sécurité
+sociale ou lorsqu'à l'intérieur de cette limite, les versements aux seuls
+organismes de prévoyance dépassent 3 % de la même somme, l'excédent est ajouté à
+la rémunération ;
 
 2° bis Les contributions payées par les salariés prévues par l'article L 351-3
 du code du travail relatif aux allocations d'assurance ainsi que la part
@@ -71,23 +79,21 @@ couverts par des allocations spéciales.
 La déduction à effectuer du chef des frais professionnels est calculée
 forfaitairement en fonction du revenu brut, après défalcation des retenues,
 cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et 83
-bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 40.000 F
-pour l'imposition des rémunérations perçues à compter du 1er janvier 1979
-[*date*] ; ce plafond est relevé dans la même proportion que la limite
-supérieure de la septième tranche du barème de l'impôt sur le revenu (2).
-Toutefois, la déduction est limitée à 50.900 F pour l'imposition des revenus des
-années 1982 et 1983.
+bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 54.770 F
+pour l'imposition des rémunérations perçues en 1984. Chaque année, le plafond
+retenu pour l'imposition des revenus de l'année précédente est relevé dans la
+même proportion que la limite supérieure de la septième tranche du barème de
+l'impôt sur le revenu.
 
 Toutefois, en ce qui concerne les catégories de professions qui comportent des
 frais dont le montant est notoirement supérieur à celui résultant de
 l'application du pourcentage prévu à l'alinéa précédent, un arrêté ministériel
-(3) fixe le taux de la déduction dont les contribuables appartenant à ces
+(2) fixe le taux de la déduction dont les contribuables appartenant à ces
 professions peuvent bénéficier en sus de la déduction forfaitaire visée audit
-alinéa. Cette déduction supplémentaire est limitée à 50.000 F (3). Elle est
-calculée sur le montant global des rémunérations et des remboursements et
-allocations pour frais professionnels perçus par les intéressés, après
-application à ce montant de la déduction forfaitaire pour frais professionnels
-de 10 %.
+alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée
+sur le montant global des rémunérations et des remboursements et allocations
+pour frais professionnels perçus par les intéressés, après application à ce
+montant de la déduction forfaitaire pour frais professionnels de 10 %.
 
 Le montant de la ou des déductions forfaitaires pour frais professionnels ne
 peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des
@@ -102,5 +108,4 @@ prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales.
 
 (1) Annexe III, art. 38 septdecies.
 
-(2) Plafond fixé à 50.900 F pour l'imposition des revenus de 1981. (3) Annexe
-IV, art. 5 et 5 A.
+(2) Annexe IV, art. 5 et 5 A.

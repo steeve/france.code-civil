@@ -9,10 +9,10 @@ provisions de toute nature, du capital des sociétés visées à l'article 108 ;
 de francs par société lorsque l'acte qui constate l'incorporation est enregistré
 postérieurement au 30 juin 1978 ;
 
-2° Le taux est réduit à 6 % pour les actes enregistrés entre le 1er janvier 1978
-et le 31 décembre 1987 [*période*], lorsque l'augmentation de capital est
-réalisée au moyen de l'incorporation de bénéfices, de réserves ou de provisions
-de toute nature et lorsque l'une des conditions ci-après se trouve remplie :
+2° Le taux est réduit à 6 % pour les actes enregistrés du 1er janvier 1978 au 31
+décembre 1984 et à 1 % pour les actes enregistrés à compter du 1er janvier 1985
+concernant des apports réalisés avant le 1er juin 1985 lorsque l'une des
+conditions ci-après se trouve remplie :
 
 a. L'acte constate en même temps une augmentation de capital en numéraire pour
 un montant au moins égal à celui des sommes incorporées ;

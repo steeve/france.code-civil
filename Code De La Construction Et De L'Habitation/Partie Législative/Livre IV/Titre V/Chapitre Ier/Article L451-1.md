@@ -5,10 +5,11 @@ sous l'égide des sociétés de crédit immobilier et les sociétés coopérativ
 construction bénéficiant de prêts accordés dans le cadre de la législation sur
 les habitations à loyer modéré sont soumis au contrôle de l'administration.
 
-Les organismes mentionnés au titre III, chapitre II, sont soumis au même
+Les organismes mentionnés au chapitre II du titre III, sont soumis au même
 contrôle en ce qui concerne les opérations pour lesquelles ils ont obtenu un
-prêt de l'Etat ou de la caisse de prêts aux organismes d'habitations à loyer
-modéré.
+prêt de l'Etat, de la caisse de prêts aux organismes d'habitations à loyer
+modéré ou de la caisse des dépôts et consignations en application du 3° de
+l'article L. 351-2
 
 Il en est de même pour les groupements d'intérêt économique constitués en
 application de l'ordonnance n. 67-821 du 23 septembre 1967, qui comprennent au

@@ -1,10 +1,10 @@
 Article 317 nonies
 ----
 La taxe différentielle sur les véhicules à moteur perçue en application de
-l'article 1599 C-a du code général des impôts est applicable aux véhicules
+l'article 1599 C du code général des impôts est applicable aux véhicules
 automobiles mentionnés au titre II du livre Ier du code de la route (deuxième
 partie) et immatriculés sur le territoire métropolitain et dans les départements
-d'outre-mer [*DOM*].
+d'outre-mer.
 
 Toutefois, sont dispensés de la taxe, dans les conditions déterminées par un
 arrêté du ministre chargé du budget, les véhicules dont les propriétaires

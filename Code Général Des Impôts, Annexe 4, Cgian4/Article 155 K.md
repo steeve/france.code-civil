@@ -1,8 +1,6 @@
 Article 155 K
 ----
-Sont dispensés de la taxe différentielle sur les véhicules à moteur [*vignette*]
-et de la taxe spéciale sur les véhicules d'une puissance fiscale supérieure à 16
-CV :
+Sont dispensés de la taxe différentielle sur les véhicules à moteur :
 
 1° Les véhicules immatriculés dans les séries spéciales "CMD", "CD" "C" et "K",
 à l'exclusion de ceux dont le numéro d'immatriculation comprend la lettre "X"

@@ -62,10 +62,11 @@ dividendes et revenus assimilés distribués en rémunération des sommes qui, a
 des associés ou actionnaires possédant en droit ou en fait la direction de
 l'entreprise, sont incorporées au capital au cours de la période du 1er janvier
 1977 au 31 décembre 1980 sous le régime de l'enregistrement au droit fixe prévu
-à l'article 812 A-I; toutefois ces dispositions ne sont pas applicables aux
-sociétés dans lesquelles, après la réalisation de l'augmentation de capital, les
-droits de vote attachés aux actions ou aux parts sont détenus, directement ou
-indirectement, pour 50 % [*pourcentage*] ou plus par d'autres sociétés.
+à l'article 10-I de la loi n° 76-1232 du 29 décembre 1976 ; toutefois ces
+dispositions ne sont pas applicables aux sociétés dans lesquelles, après la
+réalisation de l'augmentation de capital, les droits de vote attachés aux
+actions ou aux parts sont détenus, directement ou indirectement, pour 50 %
+[*pourcentage*] ou plus par d'autres sociétés.
 
 III Un décret en conseil d'Etat fixe les conditions d'application du présent
 article. Il précise la date à laquelle une augmentation de capital en numéraire

@@ -25,15 +25,17 @@ dotation globale de fonctionnement au prorata des sommes reçues au cours de
 l'exercice correspondant. Une fraction peut, par anticipation, être notifiée au
 début de l'année où elle intervient.
 
-Au cas où la dotation globale de fonctionnement ainsi calculée présenterait par
-rapport à celle de l'exercice précédent un taux de progression inférieur à celui
-constaté pendant la même période de référence, pour l'accroissement du
-traitement annuel des fonctionnaires défini à l'article 22 de l'ordonnance n°
-59-244 du 4 février 1959, afférent à l'indice 100, c'est ce dernier taux qui
-serait appliqué lors de la régularisation du montant de la dotation globale de
-fonctionnement.
-
-Chaque année, le montant de la dotation globale de fonctionnement est arrêté,
-pour être inscrit dans le projet de loi de finances, sur proposition du comité
-des finances locales institué par l'article L. 234-20, qui est saisi des
-éléments d'évaluation fournis par le ministre du budget.
+A compter de la régularisation afférente à l'exercice 1984, si la dotation
+globale de fonctionnement ainsi calculée présente par rapport à celle de
+l'exercice précédent un taux de progression inférieur à celui constaté pendant
+la même période de référence pour l'accroissement du total annuel du traitement
+et de l'indemnité de résidence, définis à l'article 20 de la loi n° 83-634 du 13
+juillet 1983 portant droits et obligations des fonctionnaires et afférents à
+l'indice nouveau majoré 334, ce dernier taux est appliqué lors de la
+régularisation du montant de la dotation globale de fonctionnement. Toutefois, à
+titre exceptionnel, la dotation globale de fonctionnement de l'exercice 1984
+fait l'objet d'une régularisation égale à 0,6 p. 100 de son montant. Chaque
+année, le montant de la dotation globale de fonctionnement est arrêté, pour être
+inscrit dans le projet de loi de finances, r sur proposition du comité des
+finances locales institué par l'article L. 234-20, qui est saisi des éléments
+d'évaluation fournis par le ministre du budget.
