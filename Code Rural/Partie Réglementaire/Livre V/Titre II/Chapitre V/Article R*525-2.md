@@ -14,6 +14,5 @@ l'autorité départementale.
 
 Sont agréées par arrêté du ministre de l'agriculture, après avis de la
 commission centrale d'agrément prévue à l'article R. 528-2, les unions de
-coopératives agricoles et les unions mixtes prévues par l'article R. 521-4 ainsi
-que toutes les sociétés coopératives agricoles qui n'entrent pas dans les cas
-prévus par les deux alinéas précédents.
+coopératives agricoles ainsi que toutes les sociétés coopératives agricoles qui
+n'entrent pas dans les cas prévus par les deux alinéas précédents.

@@ -1,14 +1,12 @@
 Article R523-8
 ----
 L'autorisation requise par l'article L. 523-5 est donnée par une commission
-spéciale constituée au sein du conseil supérieur de la coopération agricole par
-les membres de ce conseil comprenant :
+spéciale constituée auprès du Conseil supérieur de la coopération agricole.
+Cette commission comprend :
 
-- un représentant du ministre de l'agriculture ;
+- deux représentants du ministre chargé de l'agriculture ;
 
-- un représentant du ministre de l'économie ;
-
-- un représentant du ministre du budget ;
+- un représentant du ministre chargé de l'économie et des finances ;
 
 - un représentant du garde des sceaux, ministre de la justice ;
 

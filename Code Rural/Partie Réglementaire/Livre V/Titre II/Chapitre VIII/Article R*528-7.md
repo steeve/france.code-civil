@@ -2,7 +2,8 @@ Article R*528-7
 ----
 L'ordre du jour des réunions du conseil supérieur de la coopération agricole et
 de la commission centrale d'agrément est arrêté par le ministre de
-l'agriculture.
+l'agriculture. Les conditions de préparation et d'organisation de ces réunions
+sont définies dans le cadre d'un règlement intérieur.
 
 Le conseil supérieur de la coopération agricole et la commission centrale
 d'agrément délibèrent valablement sur les questions portées à l'ordre du jour,
