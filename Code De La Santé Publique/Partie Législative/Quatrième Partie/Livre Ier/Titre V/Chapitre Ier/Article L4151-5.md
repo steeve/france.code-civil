@@ -30,4 +30,11 @@ ou partie, sanctionnant une formation de sage-femme acquise dans cet Etat
 antérieurement aux dates fixées par l'arrêté mentionné au a et non conforme aux
 obligations communautaires, si cet Etat atteste que l'intéressé s'est consacré
 de façon effective et licite aux activités de sage-femme pendant au moins trois
-années au cours des cinq années précédant la délivrance de cette attestation.
+années au cours des cinq années précédant la délivrance de cette attestation ;
+
+d) Un diplôme, certificat ou autre titre de sage-femme délivré par un Etat
+membre, conformément aux obligations communautaires, ne figurant pas sur la
+liste mentionnée au a, s'il est accompagné d'une attestation de cet Etat
+certifiant qu'il sanctionne une formation conforme à ces obligations et qu'il
+est assimilé, par lui, aux diplômes, certificats et titres figurant sur cette
+liste.
