@@ -1,7 +1,13 @@
 Article R5117
 ----
-L'expérimentation des médicaments [*définition*], au sens du 6° de l'article L.
-605, s'entend des expertises auxquelles il est procédé, dans les conditions
-fixées aux articles R. 5118 à R. 5127, en vue de vérifier qu'un produit
-susceptible de faire l'objet d'une demande d'autorisation de mise sur le marché,
-possède les propriétés définies au 1° du troisième alinéa de l'article L. 601.
+On entend par expérimentation des médicaments [*définition*], au sens du 6 de
+l'article L. 605, toutes recherches, essais, ou expérimentations, ci-après
+dénommés essais, auxquels il est procédé :
+
+1° En vue de l'obtention d'une autorisation de mise sur le marché ;
+
+2° Après la délivrance de cette autorisation.
+
+Sans préjudice des dispositions législatives et réglementaires du livre II bis
+du présent code, ces essais sont réalisés dans les conditions fixées au présent
+paragraphe.

@@ -1,14 +1,16 @@
 Article R5124
 ----
-Le programme des expertises est déterminé par le responsable de la mise sur le
-marché et l'expert, compte tenu des règles générales d'expertise définies à la
-présente section.
+Lorsqu'un essai clinique est conduit dans un établissement public ou privé, le
+promoteur fait connaître préalablement au directeur de l'établissement, pour
+information :
 
-Si l'expert justifie que les protocoles prévus à l'article R. 5118 sont
-inapplicables en l'espèce, le responsable de la mise sur le marché est tenu de
-communiquer au ministre chargé de la santé publique le programme des expertises
-retenu préalablement à la mise en oeuvre de celles-ci.
+1. Le titre de l'essai ;
 
-Ce programme peut être mis à exécution si le ministre chargé de la santé
-publique n'a pas formulé d'opposition dans le délai d'un mois à compter de la
-réception de la communication ci-dessus indiquée [*accord tacite*] .
+2. L'identité du ou des investigateurs et le ou les lieux concernés dans
+l'établissement ;
+
+3. La date à laquelle il est envisagé de commencer l'essai et la durée prévue de
+celui-ci ;
+
+4. Les éléments du protocole et toutes autres informations utiles pour
+l'application des dispositions de l'article R. 2038.

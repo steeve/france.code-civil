@@ -1,11 +1,18 @@
 Article R5127
 ----
-Le ministre chargé de la santé publique peut demander au responsable de la mise
-sur le marché de lui communiquer le programme d'une expertise lorsqu'il estime
-que le produit nouveau qui fait l'objet de cette expertise est susceptible de
-créer un risque anormal ou lorsqu'il y a des présomptions graves et concordantes
-d'une atteinte à la santé publique.
+Tout essai donne lieu à un rapport établi par l'expérimentateur ou
+l'investigateur qui a réalisé cet essai. Ce rapport doit être daté et signé et
+rappeler :
 
-Le ministre chargé de la santé publique [*autorité compétente*] peut faire
-opposition à la poursuite de l'exécution dudit programme dans le délai d'un mois
-suivant la réception de celui-ci.
+1. L'identité du ou des expérimentateurs ou investigateurs, leurs titres,
+expérience et fonctions ;
+
+2. Les dates et lieux de réalisation de l'essai ;
+
+3. Pour le médicament soumis à l'essai, les renseignements mentionnés au 2 de
+l'article R. 5122 ;
+
+4. Pour un médicament de référence, les renseignements mentionnés au 3 de
+l'article R. 5122 ;
+
+5. Pour un placebo, les renseignements mentionnés au 4 de l'article R. 5122.

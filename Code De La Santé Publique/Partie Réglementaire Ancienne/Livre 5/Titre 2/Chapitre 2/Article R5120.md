@@ -1,13 +1,14 @@
 Article R5120
 ----
-Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui
-concerne la nature des produits essayés, les essais eux-mêmes et leurs résultats
-[*obligation*].
+Sous réserve des dispositions de l'article L. 209-12 du présent code et de
+celles prises pour leur application, les expérimentateurs, les investigateurs et
+toutes personnes appelées à collaborer aux essais sont tenus au secret
+professionnel en ce qui concerne notamment la nature des produits étudiés, les
+essais, les personnes qui s'y prêtent et les résultats obtenus.
 
-Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au
-responsable de la mise sur le marché et aux services compétents du ministère de
-la santé publique.
+Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux
+essais qu'au ministre chargé de la santé et aux médecins et pharmaciens
+inspecteurs mentionnés à l'article L. 209-13.
 
-Aucune publication relative à l'expérimentation d'un médicament ne peut être
-effectuée sans l'accord conjoint de l'expert et du responsable de la mise sur le
-marché intéressé [*condition*].
+Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans
+l'accord conjoint de l'expérimentateur ou de l'investigateur et du promoteur.

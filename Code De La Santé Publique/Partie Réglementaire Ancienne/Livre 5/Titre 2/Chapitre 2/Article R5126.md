@@ -1,18 +1,28 @@
 Article R5126
 ----
-Lorsqu'il est procédé à une expertise clinique, le responsable de la mise sur le
-marché qui demande cette expertise doit, en même temps, signaler au ministre
-chargé de la santé publique [*renseignements obligatoires*] :
+En cas de nécessité impérieuse pour la santé publique, le promoteur peut être
+autorisé à fournir à titre onéreux à des établissements de soins un médicament
+dans des conditions fixées par les ministres chargés de la santé et de la
+sécurité sociale.
 
-a) L'objet de cette expertise ;
+Cette autorisation ne peut être accordée qu'après avis de la commission
+mentionnée à l'article R. 5140, et lorsque toutes les conditions suivantes sont
+réunies :
 
-b) Le nom du ou des experts qui en sont chargés ;
+1. Le médicament concerné est destiné à traiter une maladie grave ;
 
-c) La date probable d'exécution de cette expertise ;
+2. Il ne peut être remplacé par un autre traitement ;
 
-d) Le ou les lieux où cette expertise est réalisée.
+3. Il existe des preuves d'efficacité et de sécurité suffisantes pour permettre
+son utilisation dans des conditions approuvées par le ministre chargé de la
+santé ;
 
-Lorsque l'expertise a lieu dans un établissement hospitalier public, le
-responsable de la mise sur le marché communique ces mêmes indications au
-pharmacien de cet établissement, lequel est alors soumis aux obligations
-définies à l'article R. 5120.
+4. Une demande d'autorisation de mise sur le marché français a été déposée ou
+une lettre d'engagement de dépôt d'une telle demande a été adressée au ministre
+chargé de la santé ;
+
+5. Le promoteur s'engage à poursuivre les essais nécessaires pour la
+constitution du dossier d'autorisation de mise sur le marché.
+
+L'autorisation mentionnée au deuxième alinéa du présent article est accordée
+pour une durée maximale d'un an.
