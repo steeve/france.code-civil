@@ -23,4 +23,4 @@ leur rémunération d'activité et des avantages mentionnés à l'article D. 242
 n'excède pas la valeur déterminée, selon le cas, au 1° ou 2° du présent alinéa.
 
 Les montants maximum des rémunérations et avantages déterminés en application
-des dispositions du présent article sont arrondis au franc supérieur.
+des dispositions du présent article sont arrondis à l'euro supérieur.

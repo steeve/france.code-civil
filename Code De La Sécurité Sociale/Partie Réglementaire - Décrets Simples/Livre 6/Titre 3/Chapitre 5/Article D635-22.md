@@ -38,7 +38,7 @@ Classe F (coefficient 10/3) ;
 
 Classe G (coefficient 4).
 
-La cotisation est arrondie au franc inférieur.
+La cotisation est arrondie à l'euro le plus proche.
 
 En outre, une classe réduite dont la cotisation est égale aux deux tiers de
 celle de la classe A est ouverte aux personnes dont les revenus mentionnés

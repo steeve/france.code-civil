@@ -31,5 +31,3 @@ supérieurs à 80 % et au plus égaux à 110 % du plafond visé à l'article L. 
 19,24 % de la base mensuelle de calcul des allocations familiales pour l'enfant
 âgé de trois à six ans lorsque le ménage ou la personne a perçu des revenus
 supérieurs à 110 % du plafond visé à l'article L. 543-1.
-
-Ces montants sont arrondis au franc le plus proche.

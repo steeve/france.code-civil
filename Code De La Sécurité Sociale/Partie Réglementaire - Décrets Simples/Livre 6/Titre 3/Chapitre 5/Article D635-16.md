@@ -3,8 +3,7 @@ Article D635-16
 Le taux de la cotisation annuelle d'assurance invalidité-décès est fixé à 2 p.
 100 du revenu mentionné à l'article D. 635-15.
 
-La cotisation annuelle, ainsi déterminée, est arrondie au multiple de deux
-francs le plus voisin.
+La cotisation annuelle, ainsi déterminée, est arrondie à l'euro le plus proche.
 
 Elle est répartie en deux fractions semestrielles d'égal montant, exigibles des
 assurés et payables par eux aux mêmes dates et conditions que celles mentionnées
