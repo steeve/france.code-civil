@@ -3,7 +3,7 @@ Article L512-91
 Les sommes disponibles après imputation sur le résultat net comptable des
 versements aux réserves légales et statutaires sont réparties par l'assemblée
 générale entre l'intérêt servi aux parts sociales, les distributions opérées
-conformément aux articles 11 bis, 18 et 19 nonies de la loi du 10 septembre 1947
+conformément aux articles 11 bis, 18 et 19 vicies de la loi du 10 septembre 1947
 portant statut de la coopération, les mises en réserve et les affectations au
 financement de projets d'économie locale et sociale. Les sommes mises en réserve
 doivent représenter au minimum le tiers des sommes disponibles telles que
@@ -14,7 +14,7 @@ la situation financière de la caisse d'épargne et de prévoyance dont il s'agi
 Les sommes affectées au financement des projets d'économie locale et sociale ne
 peuvent excéder, pour chaque caisse d'épargne et de prévoyance, le montant total
 de l'intérêt servi aux parts sociales et des distributions effectuées
-conformément aux articles 11 bis, 18 et 19 nonies de la loi n° 47-1775 du 10
+conformément aux articles 11 bis, 18 et 19 vicies de la loi n° 47-1775 du 10
 septembre 1947 susmentionnée, ni être inférieures au tiers des sommes
 disponibles après la mise en service.
 

@@ -23,3 +23,8 @@ l'approbation de l'assemblée générale de la personne morale fondatrice.
 Les transferts financiers de la mutuelle ou de l'union fondatrice au profit de
 la mutuelle ou de l'union qu'elle a créée ne peuvent remettre en cause les
 exigences de solvabilité définies à l'article L. 212-1.
+
+Lorsque la cotisation afférente aux activités de la mutuelle ou de l'union ainsi
+créée est incluse dans la cotisation globale prélevée par la mutuelle ou l'union
+fondatrice, les statuts de cette dernière prévoient la part de cotisation qui
+est affectée à chacun des deux organismes.

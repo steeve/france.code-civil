@@ -20,3 +20,9 @@ les femmes divorcées.
 S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension
 ou de la rente d'invalidité, aucun rappel n'est dû pour les périodes
 d'application de la suspension.
+
+La suspension prévue en raison de la perte de la nationalité française ne
+s'applique pas aux veuves algériennes d'anciens fonctionnaires français dès lors
+que n'ayant pas souscrit la déclaration récognitive de nationalité française
+après l'accession à l'indépendance de l'Algérie, elles ont établi leur domicile
+en France depuis le 1er janvier 1963 et y résident de manière habituelle.

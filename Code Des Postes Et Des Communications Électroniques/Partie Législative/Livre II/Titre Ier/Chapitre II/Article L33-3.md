@@ -18,5 +18,13 @@ télécommunications, de la défense et de l'intérieur ;
 5° Les installations radioélectriques n'utilisant pas des fréquences
 spécifiquement assignées à leur utilisateur.
 
+6° Les installations radioélectriques permettant de rendre inopérants dans les
+salles de spectacles, tant pour l'émission que pour la réception, les téléphones
+mobiles de tous types dans l'enceinte des salles de spectacles.
+
+Les salles de spectacles sont tout lieu dont l'aménagement spécifique est
+destiné à permettre la représentation ou la diffusion au public d'une oeuvre de
+l'esprit.
+
 Les conditions d'utilisation des installations radioélectriques mentionnées
-ci-dessus sont déterminées dans les conditions prévues à l'article L. 36-6.
+ci-dessus sont déterminées dans les conditions prévues à l'article L. 36-6 ;

@@ -6,3 +6,6 @@ pour un quart, aux producteurs.
 
 La rémunération pour copie privée des vidéogrammes bénéficie à parts égales aux
 auteurs au sens du présent code, aux artistes-interprètes et aux producteurs.
+
+La rémunération pour copie privée des oeuvres visées au second alinéa de
+l'article L 311-1 bénéficie à parts égales aux auteurs et aux éditeurs.

@@ -1,8 +1,9 @@
 Article L351-10
 ----
-Les chômeurs de longue durée qui ont épuisé leurs droits à l'allocation
-d'assurance et qui satisfont à des conditions d'activité antérieure et de
-ressources ont droit à une allocation de solidarité spécifique.
+Les travailleurs privés d'emploi qui ont épuisé leurs droits à l'allocation
+d'assurance ou à l'allocation de fin de formation visée à l'article L. 351-10-2
+et qui satisfont à des conditions d'activité antérieure et de ressources ont
+droit à une allocation de solidarité spécifique.
 
 Cette allocation est également attribuée aux bénéficiaires de l'allocation
 d'assurance âgés de cinquante ans au moins qui satisfont aux conditions

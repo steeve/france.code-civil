@@ -3,8 +3,7 @@ Article L167-1
 I. - Les partis et groupements peuvent utiliser les antennes du service public
 de radiodiffusion et de télévision pour leur campagne en vue des élections
 législatives. Chaque émission est diffusée par les sociétés nationales de
-télévision et de radiodiffusion sonore. Cette diffusion s'effectue simultanément
-sur les antennes des sociétés nationales de télévision.
+télévision et de radiodiffusion sonore.
 
 II. - Pour le premier tour de scrutin, une durée d'émission de trois heures est
 mise à la disposition des partis et groupements représentés par des groupes

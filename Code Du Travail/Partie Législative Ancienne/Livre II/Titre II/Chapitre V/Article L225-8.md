@@ -1,20 +1,24 @@
 Article L225-8
 ----
-I. - Lorsqu'un salarié, membre d'une association déclarée en application de la
-loi du 1er juillet 1901 relative au contrat d'association ou inscrite au
-registre des associations en application de la loi du 19 avril 1908 applicable
-au contrat d'association dans les départements du Bas-Rhin, du Haut-Rhin et de
-la Moselle ou d'une mutuelle au sens du code de la mutualité, est désigné comme
-représentant de cette association ou de cette mutuelle pour siéger dans une
-instance, consultative ou non, instituée par une disposition législative ou
-réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou
-départemental, l'employeur est tenu de lui accorder le temps nécessaire pour
+I. - Lorsqu'un travailleur salarié ou apprenti, membre d'une association
+déclarée en application de la loi du 1er juillet 1901 relative au contrat
+d'association ou inscrite au registre des associations en application de la loi
+du 19 avril 1908 applicable au contrat d'association dans les départements du
+Bas-Rhin, du Haut-Rhin et de la Moselle ou d'une mutuelle au sens du code de la
+mutualité, est désigné comme représentant de cette association ou de cette
+mutuelle pour siéger dans une instance, consultative ou non, instituée par une
+disposition législative ou réglementaire auprès d'une autorité de l'Etat à
+l'échelon national, régional ou départemental, ou d'une collectivité
+territoriale, l'employeur est tenu de lui accorder le temps nécessaire pour
 participer aux réunions de cette instance.
 
 II. - Si à l'occasion de cette représentation le salarié subit une diminution de
-rémunération, il reçoit de l'Etat une indemnité compensant, en totalité ou
-partiellement et, le cas échéant, sous forme forfaitaire, la diminution de
-rémunération.
+rémunération, il reçoit de l'Etat ou de la collectivité territoriale une
+indemnité compensant, en totalité ou partiellement et, le cas échéant, sous
+forme forfaitaire, la diminution de rémunération. L'employeur peut décider de
+maintenir celle-ci en totalité ou partie, au-delà de l'indemnité compensatrice.
+En ce cas, les sommes versées peuvent faire l'objet d'une déduction fiscale,
+dans les conditions fixées à l'article 238 bis du code général des impôts.
 
 III. - La durée du congé de représentation ne peut dépasser neuf jours ouvrables
 par an. Elle peut être fractionnée en demi-journées. Elle est assimilée à une

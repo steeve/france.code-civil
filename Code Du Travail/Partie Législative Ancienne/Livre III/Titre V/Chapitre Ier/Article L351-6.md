@@ -8,7 +8,7 @@ demande d'avis de réception qui invite l'intéressé à régulariser sa situati
 dans les quinze jours.
 
 La mise en demeure ne peut concerner que les périodes d'emploi comprises dans
-les cinq ans qui précèdent la date de son envoi.
+les trois ans qui précèdent la date de son envoi.
 
 L'institution gestionnaire de l'allocation d'assurance transmet au directeur
 départemental du travail et de l'emploi copie de la contrainte signifiée à
