@@ -1,8 +1,7 @@
 Article 340 sexies
 ----
-1. Les taux des contributions destinées à l'alimentation du fonds de garantie
-pour l'indemnisation des victimes d'accidents corporels de chasse sont les
-suivants :
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie
+créé au profit des victimes d'accidents corporels de chasse sont les suivants :
 
 a. Contribution des entreprises d'assurances : 10 % de la totalité des charges
 du fonds de garantie ;

@@ -1,6 +1,6 @@
 Article 322
 ----
-Conformément à l'article R. 420-27 du code des assurances, les contributions
+Conformément à l'article R. 421-27 du code des assurances, les contributions
 prévues pour l'alimentation du fonds de garantie créé au profit des victimes
 d'accidents d'automobile et prévu à l'article 1628 quater du code général des
 impôts sont assises et recouvrées dans les conditions suivantes :
@@ -24,7 +24,7 @@ La contribution doit être acquitée dans un délai d'un mois à compter de la
 réclamation adressée par la direction générale des impôts;
 
 3° La contribution des assurés est assise sur toutes les primes ou cotisations
-qu'ils versent aux entreprises d'assurance mentionnées à l'article L. 420-2 du
+qu'ils versent aux entreprises d'assurance mentionnées à l'article L. 421-2 du
 code des assurances pour l'assurance des risque de responsabilité civile
 résultant d'accidents causés par les véhicules définis au 1°. Elle est perçue
 par les entreprises d'assurance et recouvrée selon les modalités fixées par
