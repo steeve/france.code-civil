@@ -1,17 +1,17 @@
 Article 779
 ----
-I ((Pour la perception des droits de mutation à titre gratuit, il est effectué
-un abattement :
+I Pour la perception des droits de mutation à titre gratuit, il est effectué un
+abattement :
 
-((a) de 400 000 F sur la part du conjoint survivant pour les mutations à titre
+a) de 400 000 F sur la part du conjoint survivant pour les mutations à titre
 gratuit entre vifs consenties par actes passés entre le 1er janvier 1999 et le
 31 décembre 1999 et pour les successions ouvertes entre ces mêmes dates et de
 500 000 F pour les mutations à titre gratuit entre vifs consenties par actes
 passés à compter du 1er janvier 2000 et pour les successions ouvertes à compter
 de cette date ;
 
-((b)- de 300 000 F sur la part de chacun des ascendants et sur la part de chacun
-des enfants vivants ou représentés)) (M).
+b)- de 300 000 F sur la part de chacun des ascendants et sur la part de chacun
+des enfants vivants ou représentés.
 
 Entre les représentants des enfants prédécédés, cet abattement se divise d'après
 les règles de la dévolution légale.
@@ -21,11 +21,20 @@ l'abattement, représentés par leurs descendants donataires dans les conditions
 prévues par le code civil en matière de représentation successorale.
 
 II Pour la perception des droits de mutation à titre gratuit, il est effectué un
-abattement de 300.000 F sur la part de tout héritier, légataire ou donataire,
+abattement de 300 000 F sur la part de tout héritier, légataire ou donataire,
 incapable de travailler dans des conditions normales de rentabilité, en raison
 d'une infirmité physique ou mentale, congénitale ou acquise.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du précédent
 alinéa.
 
-(M) Modification.
+III Pour la perception des droits de mutation à titre gratuit, il est effectué
+un abattement de 300 000 F sur la part du partenaire lié au donateur ou au
+testateur par un pacte civil de solidarité défini à l'article 515-1 du code
+civil. Pour les mutations à titre gratuit entre vifs consenties par actes passés
+à compter du 1er janvier 2000 et pour les successions ouvertes à compter de
+cette date, le montant de l'abattement est de 375 000 F.
+
+Cet abattement ne s'applique aux donations que si, à la date du fait générateur
+des droits, les partenaires sont liés depuis au moins deux ans par un pacte
+civil de solidarité.
