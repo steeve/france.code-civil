@@ -1,11 +1,11 @@
 Article 21-4
 ----
 Le Gouvernement peut s'opposer par décret en Conseil d'Etat, pour indignité ou
-défaut d'assimilation, à l'acquisition de la nationalité française par le
-conjoint étranger dans un délai d'un an à compter de la date du récépissé prévu
-au deuxième alinéa de l'article 26 ou, si l'enregistrement a été refusé, à
-compter du jour où la décision judiciaire admettant la régularité de la
-déclaration est passée en force de chose jugée.
+défaut d'assimilation, autre que linguistique, à l'acquisition de la nationalité
+française par le conjoint étranger dans un délai d'un an à compter de la date du
+récépissé prévu au deuxième alinéa de l'article 26 ou, si l'enregistrement a été
+refusé, à compter du jour où la décision judiciaire admettant la régularité de
+la déclaration est passée en force de chose jugée.
 
 En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais
 acquis la nationalité française.

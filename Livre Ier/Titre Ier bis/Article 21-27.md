@@ -16,4 +16,8 @@ lois et conventions relatives au séjour des étrangers en France.
 
 Les dispositions du présent article ne sont pas applicables à l'enfant mineur
 susceptible d'acquérir la nationalité française en application des articles
-21-7, 21-11, 21-12 et 22-1.
+21-7, 21-11, 21-12 et 22-1, ni au condamné ayant bénéficié d'une réhabilitation
+de plein droit ou d'une réhabilitation judiciaire conformément aux dispositions
+de l'article 133-12 du code pénal, ou dont la mention de la condamnation a été
+exclue du bulletin n° 2 du casier judiciaire, conformément aux dispositions des
+articles 775-1 et 775-2 du code de procédure pénale.
