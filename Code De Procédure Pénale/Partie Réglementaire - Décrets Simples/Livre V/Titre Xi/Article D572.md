@@ -1,5 +1,5 @@
 Article D572
 ----
-Le présent code, ainsi que les décrets qui le modifient est applicable aux
-départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et
-de Saint-Pierre-et-Miquelon.
+Chaque tribunal de grande instance comprend un comité de probation et
+d'assistance aux libérés chargé d'exécuter les missions prévues par les articles
+D. 574 à D. 577.
