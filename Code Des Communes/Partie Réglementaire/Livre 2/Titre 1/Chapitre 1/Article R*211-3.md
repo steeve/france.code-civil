@@ -24,9 +24,15 @@ de 3 500 habitants ou moins peuvent comporter une présentation fonctionnelle
 conforme aux dispositions ci-dessus.
 
 2. Dans les communes de 10 000 habitants et plus votant leur budget par
-fonction, la présentation par nature prévue au premier alinéa de l'article L.
-2312-3 du code général des collectivités territoriales s'effectue au niveau le
-plus fin de la nomenclature par nature.
+fonction, la présentation prévue au premier alinéa de l'article L. 2312-3 du
+code général des collectivités territoriales s'effectue au niveau le plus fin de
+la nomenclature par fonction pour les opérations et les services individualisés.
+
+Pour le budget, la présentation ainsi définie est croisée avec les comptes par
+nature à deux chiffres.
+
+Pour le compte administratif, cette présentation est croisée avec le compte le
+plus détaillé ouvert dans la nomenclature par nature.
 
 Pour le budget, la présentation par nature ainsi définie est croisée avec chacun
 des chapitres budgétaires retraçant les opérations et les services

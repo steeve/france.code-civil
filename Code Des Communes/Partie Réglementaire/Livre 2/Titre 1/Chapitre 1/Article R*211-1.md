@@ -9,5 +9,6 @@ Par la suite, cette délibération ne peut être modifiée qu'un e seule fois, a
 plus tard à la fin du premier exercice budgétaire complet suivant le
 renouvellement du conseil municipal.
 
-Toutefois, pour l'exercice 1998, le conseil municipal peut revenir sur la
-modalité de vote retenue sans préjudice des dispositions de l'alinéa précédent.
+Toutefois, pour les exercices 1998 à 2000 le conseil municipal peut revenir sur
+la modalité de vote retenue sans préjudice des dispositions de l'alinéa
+précédent.

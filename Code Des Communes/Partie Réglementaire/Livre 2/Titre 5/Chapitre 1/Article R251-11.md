@@ -19,7 +19,8 @@ les conditions prévues au quatrième alinéa du II de l'article R. 211-3.
 
 Le budget d'un syndicat institué dans les conditions fixées à l'article L.
 5212-16 du code général des collectivités territoriales est voté dans les
-conditions prévues à l'alinéa précédent, en distinguant les compétences
+conditions prévues à l'alinéa précédent. La présentation du budget est complétée
+par un tableau récapitulatif croisant les comptes par nature et les compétences
 déléguées par les communes adhérentes, faisant l'objet s'il y a lieu de budgets
 annexes au budget principal. Les dépenses d'administration générale sont
 réparties à l'intérieur de chaque budget annexe ou subdivision correspondant à
