@@ -11,7 +11,7 @@ En outre, pour les logements que le contribuable acquiert en vue de les
 réhabiliter, les contribuables sont tenus de joindre à leur déclaration des
 revenus de l'année d'achèvement des travaux les états et attestations prévus à
 l'article 2 quindecies C ainsi que, lorsque ces états sont requis, les états
-prévus aux articles L. 1334-5 et L. 1334-7 du code de la santé publique fournis
+prévus aux articles L. 1334-5 et L. 1334-13 du code de la santé publique fournis
 par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de
 vente du logement.
 
