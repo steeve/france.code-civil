@@ -1,11 +1,8 @@
 Article L342-2
 ----
-La société Air France doit couvrir par ses ressources propres l'ensemble de ses
-dépenses d'exploitation, l'intérêt et l'amortissement des emprunts,
-l'amortissement du matériel et des installations et les provisions à constituer
-pour couvrir les risques de tout ordre.
-
-Toutefois, les obligations qui lui sont imposées dans l'intérêt général font
-l'objet de contrats préalables assortis de cahiers des charges, passées entre la
-société, d'une part, l'Etat, les collectivités publiques de la métropole et
-d'outre-mer, d'autre part.
+Sous réserve des dispositions applicables aux obligations de service public
+imposées sur les services aériens réguliers intracommunautaires, les obligations
+qui sont imposées à la société Air France dans l'intérêt général font l'objet de
+contrats préalables assortis de cahiers des charges, passés entre la société,
+d'une part, l'Etat, les collectivités publiques de la métropole et d'outre-mer,
+d'autre part.
