@@ -1,23 +1,17 @@
 Article R*232-6
 ----
-L'autorisation est incessible. Elle peut être assortie de conditions relatives
-au mode de transport et à l'utilisation des spécimens concernés.
+L'autorisation comprend les indications suivantes :
 
-Sa délivrance est subordonnée :
+1° L'identité du titulaire de l'autorisation, personne physique ou morale ;
 
-a) A l'interdiction de céder les spécimens transportés à une autre personne que
-le destinataire désigné dans la demande ;
+2° Le but de l'opération ;
 
-b) A l'obligation de laisser aux agents visés à l'article L. 237-1 le libre
-accès aux fins de contrôle des spécimens ;
+3° La désignation du lieu de l'opération ;
 
-c) A l'obligation de remettre dans un délai d'un an après la fin de la période
-de validité de l'autorisation lorsqu'elle n'est pas renouvelée, et au maximum
-tous les cinq ans, et le cas échéant avant une nouvelle demande d'autorisation,
-un rapport sur l'utilisation des spécimens.
+4° Le matériel utilisé pour la capture ou le transport des poissons ;
 
-L'autorisation peut être retirée à tout moment sans indemnité, sur décision
-motivée.
+5° Les noms scientifiques et communs des espèces concernées, le stade de
+développement des poissons ainsi que leur quantité ;
 
-Un arrêté du ministre chargé de la pêche en eau douce fixe la forme et le
-contenu de la demande d'autorisation.
+6° La durée ou la période de validité de l'autorisation fixée en fonction de la
+nature de l'opération, qui ne peut toutefois excéder cinq années.

@@ -1,7 +1,6 @@
 Article R*232-7
 ----
-Toute personne qui aura transporté à l'état vivant des poissons, des crustacés
-ou des grenouilles appartenant à des espèces susceptibles de provoquer des
-déséquilibres biologiques sans autorisation, ou qui n'aura pas respecté les
-prescriptions de l'autorisation qui lui a été délivrée, sera punie de la peine
-d'amende prévue pour les contraventions de la 5e classe.
+Dans le délai de six mois suivant la réalisation de l'opération, le titulaire de
+l'autorisation en informe le Conseil supérieur de la pêche. Si la période de
+validité de l'autorisation est supérieure à un an, il adresse un compte rendu
+annuel.

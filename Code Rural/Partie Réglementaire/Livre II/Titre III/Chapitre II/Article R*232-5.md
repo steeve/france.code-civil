@@ -1,10 +1,11 @@
 Article R*232-5
 ----
-L'autorisation ne peut être délivrée qu'à des fins scientifiques :
+Lorsqu'elles portent sur l'introduction ou la capture de poissons dans une
+partie de cours d'eau ou dans un plan d'eau mitoyen à plusieurs départements,
+les autorisations prévues aux articles L. 232-10 (2°) et L. 236-9 sont délivrées
+par le préfet du département où sera effectivement réalisée l'opération.
 
-- pour une durée ne dépassant pas dix ans, à des établissements publics qui
-procèdent à des recherches scientifiques ou constituent des collections ouvertes
-au public ;
-
-- pour une durée ne dépassant pas un an, à toute autre personne morale ou
-physique.
+Lorsqu'elle porte sur le transport à travers plusieurs départements de poissons
+vivants appartenant à des espèces susceptibles de provoquer des déséquilibres
+biologiques, l'autorisation prévue à l'article L. 232-11 est délivrée par le
+préfet du département de destination des poissons.
