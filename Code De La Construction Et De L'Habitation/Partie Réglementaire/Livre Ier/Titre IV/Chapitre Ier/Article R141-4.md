@@ -1,12 +1,13 @@
 Article R141-4
 ----
-Il peut être organisé, à l'initiative des préfets de région ou des préfets, des
-conférences de coordination des maîtres d'ouvrage ayant pour objet la
-confrontation et la mise au point de divers programmes d'équipement et de
-construction à réaliser sur plusieurs années ; elles ont à connaître aussi des
-projets des divers maîtres d'ouvrage touchant la constitution d'une réserve de
-terrains d'assiette et l'élaboration de programmes d'équipement connexes. Elles
-coordonnent la mise en oeuvre de l'exécution de ces programmes.
+Il peut être organisé, à l'initiative des représentants de l'Etat dans la région
+ou dans le département, des conférences de coordination des maîtres d'ouvrage
+ayant pour objet la confrontation et la mise au point de divers programmes
+d'équipement et de construction à réaliser sur plusieurs années ; elles ont à
+connaître aussi des projets des divers maîtres d'ouvrage touchant la
+constitution d'une réserve de terrains d'assiette et l'élaboration de programmes
+d'équipement connexes. Elles coordonnent la mise en oeuvre de l'exécution de ces
+programmes.
 
 A ces conférences participent, aux côtés des représentants des collectivités
 locales et des services publics intéressés, les représentants qualifiés des

@@ -1,6 +1,6 @@
 Article L315-19
 ----
-Les dispositions de la présente sous-section sont applicables aux comptes
+Les dispositions de la présente section sont applicables aux comptes
 d'épargne-construction ouverts jusqu'au 4 février 1959 au nom de toute personne
 physique, soit par les caisses d'épargne, soit par les organismes avec lesquels
 la caisse des dépôts et consignations a conclu un accord.

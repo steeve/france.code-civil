@@ -6,4 +6,4 @@ Crédit foncier de France.
 
 Les modalités de gestion et de fonctionnement de l'Agence nationale pour
 l'amélioration de l'habitat, notamment l'utilisation de ses ressources, sont
-déterminées par un règlement d'administration publique.
+déterminées par un décret en conseil d'Etat.

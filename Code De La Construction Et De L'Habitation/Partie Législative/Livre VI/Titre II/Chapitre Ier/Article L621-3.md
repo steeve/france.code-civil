@@ -10,5 +10,4 @@ personnel sont supportées exclusivement par la ou les communes intéressées, p
 
 Dans les hypothèses prévues aux deux alinéas précédents, l'organisation et le
 fonctionnement du service municipal ou intercommunal du logement sont assurés,
-dans les mêmes conditions que les autres services, par les communes intéressées
-sous le contrôle du préfet.
+dans les mêmes conditions que les autres services, par les communes intéressées.

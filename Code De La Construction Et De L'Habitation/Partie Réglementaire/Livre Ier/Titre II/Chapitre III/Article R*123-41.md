@@ -1,7 +1,7 @@
 Article R*123-41
 ----
 Les commissions se réunissent sur convocation de leur président ou à la demande
-du préfet.
+du représentant de l'Etat dans le département.
 
 Lorsqu'il ne préside pas la commission, chaque maire assiste de droit, avec voix
 délibérative, à la réunion où il est procédé à l'examen des affaires concernant

@@ -2,13 +2,11 @@ Article 86
 ----
 Peuvent bénéficier des dispositions de l'article 85 :
 
-1° Les personnes qui ont déposé des fonds à un compte d'épargne-crédit et obtenu
-un prêt dans les conditions prévues par les articles L 315-8 à L 315-18 et R
-315-43 à R 315-68 du code de la construction et de l'habitation;
+1° (Devenu sans objet) ;
 
 2° Les personnes qui ont souscrit un contrat de crédit différé et obtenu un prêt
-dans les conditions prévues à la loi no 52-332 du 24 mars 1952 modifiée et au
-décret no 52-1326 du 15 décembre 1952 modifié.
+dans les conditions prévues à la loi n° 52-332 du 24 mars 1952 modifiée et au
+décret n° 52-1326 du 15 décembre 1952 modifié.
 
 Les dispositions du présent article ne peuvent toutefois s'appliquer qu'aux
 contribuables qui font construire des immeubles ou parties d'immeubles affectés

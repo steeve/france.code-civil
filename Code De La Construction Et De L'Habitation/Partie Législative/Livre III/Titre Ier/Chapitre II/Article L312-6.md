@@ -9,3 +9,5 @@ l'accession à la propriété.
 Pour ces opérations, les chambres de commerce et d'industrie peuvent être
 autorisées à émettre des emprunts dans les conditions définies à l'article 22 de
 la loi du 9 avril 1898.
+
+L'article L. 312-3 est applicable aux chambres de commerce et d'industrie.
