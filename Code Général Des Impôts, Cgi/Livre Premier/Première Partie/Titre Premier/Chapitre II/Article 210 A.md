@@ -21,16 +21,18 @@ a. Elle doit reprendre à son passif :
 
 - d'autre part, la réserve spéciale où la société absorbée a porté les
 plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15
-%, de 18 %, 19 % ou de 25 %.
+%, de 18 %, 19 % ou de 25 % ainsi que la réserve où ont été portées les
+provisions pour fluctuation des cours en application du sixième alinéa du 5° du
+1 de l'article 39.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des
-((résultats dont la prise en compte avait été différée pour l'imposition de
-cette dernière)) (M).
+résultats dont la prise en compte avait été différée pour l'imposition de cette
+dernière.
 
 c. Elle doit calculer les plus-values réalisées ultérieurement à l'occasion de
 la cession des immobilisations non amortissables qui lui sont apportées d'après
 la valeur qu'elles avaient, du point de vue fiscal, dans les écritures de la
-société absorbée.
+société absorbée (1).
 
 d. Elle doit réintégrer dans ses bénéfices imposables les plus-values dégagées
 lors de l'apport des biens amortissables. La réintégration des plus-values est
@@ -43,7 +45,7 @@ plus-values nettes sur les constructions, les plantations et les agencements et
 aménagements des terrains excède 90 p. 100 de la plus-value nette globale sur
 éléments amortissables, la réintégration des plus-values afférentes aux
 constructions, aux plantations et aux agencements et aménagements des terrains
-(1) est effectuée par parts égales sur une période égale à la durée moyenne
+(2) est effectuée par parts égales sur une période égale à la durée moyenne
 pondérée d'amortissement de ces biens. Toutefois, la cession d'un bien
 amortissable entraîne l'imposition immédiate de la fraction de la plus-value
 afférente à ce bien qui n'a pas encore été réintégrée. En contrepartie, les
@@ -58,11 +60,7 @@ l'exercice au cours duquel intervient l'opération le profit correspondant à la
 différence entre la nouvelle valeur de ces éléments et la valeur qu'ils avaient,
 du point de vue fiscal, dans les écritures de la société absorbée.
 
-4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter
-pour l'imposition au taux réduit, prévue au a bis du I de l'article 219, de la
-plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce
-cas, le montant des réintégrations définies au d du 3 est réduit à due
-concurrence.
+4. (Sans objet).
 
 5. Les droits afférents à un contrat de crédit-bail conclu dans les conditions
 prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966
@@ -86,16 +84,12 @@ immobilisé.
 
 Pour l'application du c du 3, en cas de cession ultérieure des titres mentionnés
 au premier alinéa, la plus-value est calculée d'après la valeur que ces titres
-avaient, du point de vue fiscal, dans les écritures de la société absorbée (2).
+avaient, du point de vue fiscal, dans les écritures de la société absorbée (3).
 
-(1) Ces dispositions s'appliquent à l'imposition des résultats des exercices
-ouverts à compter du 1er janvier 1995.
+(1) Ces dispositions sont applicables aux opérations de fusion ou assimilées,
+qui seront réalisées à compter du 1er janvier 1997. (2) Ces dispositions
+s'appliquent à l'imposition des résultats des exercices ouverts à compter du 1er
+janvier 1995.
 
-(2) Ces dispositions sont applicables aux opérations de fusion prenant effet au
+(3) Ces dispositions sont applicables aux opérations de fusion prenant effet au
 cours des exercices ouverts à compter du 1er janvier 1994.
-
-[*Cf. Instruction 1995-06-29 4I-1-95.*]
-
-(M) Modification de la loi 96-1182. Ces dispositions sont applicables aux
-opérations de fusion ou assimilées, qui seront réalisées à compter du 1er
-janvier 1997. [*Instruction 1997-12-01 4I-3-97*].

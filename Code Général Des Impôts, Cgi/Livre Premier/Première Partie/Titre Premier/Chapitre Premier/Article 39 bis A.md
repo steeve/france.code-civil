@@ -58,10 +58,10 @@ d'actifs non amortissables sont rapportées, par parts égales, au bénéfice
 imposable de l'exercice au cours duquel ces éléments sont acquis et des quatre
 exercices suivants.
 
-7. Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1
-de l'article 39, les provisions non utilisées conformément à leur objet avant la
-fin de la cinquième année suivant celle de leur constitution sont rapportées aux
-bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal
-au produit de ces provisions par le taux de l'intérêt de retard prévu au
+7. Sans préjudice de l'application des dispositions du treizième alinéa du 5° du
+1 de l'article 39, les provisions non utilisées conformément à leur objet avant
+la fin de la cinquième année suivant celle de leur constitution sont rapportées
+aux bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant
+égal au produit de ces provisions par le taux de l'intérêt de retard prévu au
 troisième alinéa de l'article 1727, appliqué dans les conditions mentionnées à
 l'article 1727 A.

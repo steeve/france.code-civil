@@ -19,5 +19,13 @@ révolus et moins de soixante-quinze ans (2).
 Les taux prévus pour les donations mentionnées aux trois premiers alinéas du
 présent article réalisées par un donateur âgé de moins de soixante-cinq ans
 s'appliquent aux donations-partages et aux donations consenties par actes passés
-entre le 1er avril 1996 et le 31 décembre 1997 lorsque le donateur est âgé de
-soixante-cinq ans révolus et de moins de soixante-quinze ans.
+entre le 1er avril 1996 et le 31 décembre ((1998)) (M) lorsque le donateur est
+âgé de soixante-cinq ans révolus et de moins de soixante-quinze ans.
+
+(M) Modification.
+
+(1) Ces dispositions sont applicables aux donations-partages consenties par
+actes passés à compter du 1er avril 1996.
+
+(2) Cette disposition s'applique aux actes de donation passés à compter du 1er
+avril 1996.

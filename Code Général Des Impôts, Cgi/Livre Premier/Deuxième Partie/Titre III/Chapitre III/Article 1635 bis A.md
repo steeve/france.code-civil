@@ -19,25 +19,18 @@ a) 10 % en ce qui concerne les conventions d'assurances contre l'incendie;
 
 b) 5 % en ce qui concerne les autres conventions d'assurances.
 
-Ces taux sont portés respectivement à 15 % et à 7 % pour une période de cinq ans
-à compter du 1er janvier 1992.
-
-((Pour une période d'un an à compter du 1er janvier 1997, le taux prévu au a est
-maintenu à 15 % et celui prévu au b est maintenu à 7 %, à l'exception des
-conventions couvrant les dommages aux cultures et la mortalité du bétail dont le
-taux est fixé à 5 %)) (M) ;
+((Pour 1998, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à
+7 % à l'exception des conventions couvrant les dommages aux cultures et la
+mortalité du bétail, dont le taux reste fixé à 5 %)) (M).
 
 Les contrats d'assurance sur les risques de gel de récoltes sont exonérés de
 cette contribution.
 
-2° A titre exceptionnel, à compter du 1er juillet 1987 et pour une durée de dix
-ans, une contribution additionnelle complémentaire de 7 % sur toutes les primes
-ou cotisations afférentes aux conventions d'assurance couvrant les risques de
-responsabilité publique et de dommages relatifs aux véhicules utilitaires
-affectés aux exploitants agricoles (2).
-
-((La contribution additionnelle complémentaire prévue par le premier alinéa est
-prorogée au taux de 7 % jusqu'au 31 décembre 1997)) (M) ;
+2° A titre exceptionnel, à compter du 1er juillet 1987 et ((jusqu'au 31 décembre
+1998)) (M), une contribution additionnelle complémentaire de 7 % sur toutes les
+primes ou cotisations afférentes aux conventions d'assurance couvrant les
+risques de responsabilité publique et de dommages relatifs aux véhicules
+utilitaires affectés aux exploitations agricoles (2).
 
 Les modalités d'application en seront fixées par un arrêté conjoint du ministre
 chargé de l'agriculture et du ministre chargé du budget (3) ;
@@ -61,7 +54,7 @@ les risques nautiques desdites exploitations.
 (1) Voir annexe II, art. 326 et décret n° 65-842 du 4 octobre 1965, art. 1
 modifié.
 
-(M) Modification de la loi.
+(M) Modification.
 
 (2) A compter du 1er janvier 1992.
 

@@ -25,11 +25,12 @@ l'ensemble des éléments d'actif immobilisé affectés à l'exercice d'une acti
 professionnelle, la prise en charge du passif, dont sont grevés les biens de la
 nature de ceux énumérés au 3° du I qui sont compris dans l'apport, donne
 ouverture à un droit de mutation dont le taux est ramené à 8,60 % prévu par le
-III de l'article 810. Pour les apports réalisés à compter du 1er janvier 1992,
-le droit de mutation est remplacé par un droit fixe de 500 F (2) si l'apporteur
-s'engage à conserver pendant cinq ans les titres remis en contrepartie de
-l'apport. En cas de non-respect de l'engagement de conservation des titres, les
-dispositions prévues au III de l'article 810 sont applicables.
+III de l'article 810. ((Pour les apports réalisés à compter du 1er janvier 1992,
+le droit de mutation est remplacé par un droit fixe si l'apporteur s'engage à
+conserver pendant cinq ans les titres remis en contrepartie de l'apport. Le
+droit fixe est de 1.500 F pour les apports réalisés à compter du 1er janvier
+1998)) (M). En cas de non-respect de l'engagement de conservation des titres,
+les dispositions prévues au III de l'article 810 sont applicables.
 
 Si la société cesse de remplir les conditions qui lui ont permis de bénéficier
 de cet avantage, la différence entre, d'une part, le droit de mutation majoré
@@ -40,13 +41,13 @@ II. Lorsqu'une personne morale dont les résultats ne sont pas soumis à l'impô
 sur les sociétés devient passible de cet impôt, le changement de son régime
 fiscal rend les droits et taxes de mutation à titre onéreux exigibles sur les
 apports purs et simples qui lui ont été faits depuis le 1er août 1965 par des
-personnes non soumises audit impôt (3). Les droits sont perçus sur la valeur
+personnes non soumises audit impôt (2). Les droits sont perçus sur la valeur
 vénale des biens à la date du changement.
 
 III. (Abrogé).
 
 (1) cf. Jurisprudence 1997-10-24 7H-1-97.
 
-(2) A compter du 15 janvier 1992, 430 F du 1er janvier au 14 janvier 1992.
+(2) Annexe II, art. 295 à 301. [*Cf. Jurisprudence 1993-07-21 7H-1-93*].
 
-(3) Annexe II, art. 295 à 301. [*Cf. Jurisprudence 1993-07-21 7H-1-93*].
+(M) Modification.

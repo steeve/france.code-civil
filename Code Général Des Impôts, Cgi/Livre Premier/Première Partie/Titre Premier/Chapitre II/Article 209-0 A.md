@@ -1,10 +1,9 @@
 Article 209-0 A
 ----
-1° Pour la détermination de leur résultat imposable, les entreprises autres que
-celles qui sont régies par le code des assurances qui détiennent des parts ou
-actions d'organismes de placement collectif en valeurs mobilières français
-[*OPCVM*] ou étrangers évaluent ces parts ou actions, à la clôture de chaque
-exercice, à leur valeur liquidative.
+1° Pour la détermination de leur résultat imposable, les entreprises qui
+détiennent des parts ou actions d'organismes de placement collectif en valeurs
+mobilières français [*OPCVM*] ou étrangers évaluent ces parts ou actions, à la
+clôture de chaque exercice, à leur valeur liquidative.
 
 L'écart entre la valeur liquidative à l'ouverture et à la clôture de l'exercice
 constaté lors de cette évaluation est compris dans le résultat imposable de
@@ -22,6 +21,12 @@ détenues par cette personne ou cet organisme. Cet écart est retenu au prorata
 des actions, parts ou droits détenus par l'entreprise imposable dans la personne
 ou l'organisme détenteur, et regardé comme affectant la valeur de ces actions,
 parts ou droits.
+
+((Les dispositions des premier, deuxième et troisième alinéas ne sont pas
+applicables aux parts ou actions d'organismes de placement collectif en valeurs
+mobilières français et étrangers détenues par les entreprises exerçant
+majoritairement leur activité dans le secteur de l'assurance sur la vie ou de
+capitalisation)) (M).
 
 Les dispositions des premier, deuxième et troisième alinéas ne sont pas
 applicables aux parts ou actions d'organismes de placement collectif en valeurs
@@ -44,8 +49,6 @@ b. les titres dont la valeur est retenue pour le calcul de la proportion
 mentionnée au a sont rémunérés par des dividendes ouvrant droit à l'avoir
 fiscal. Les produits des titres définis à la phrase précédente sont constitués
 directement par ces dividendes et par les plus-values résultant de leur cession.
-
-(Périmé) (M).
 
 Pour les parts d'un fonds commun de placement à risques qui remplit les
 conditions prévues au 1° bis du II de l'article 163 quinquies B, les entreprises
@@ -82,8 +85,9 @@ nature les valeurs liquidatives de ces parts ou actions qui sont retenues pour
 la détermination de l'écart imposable en application du présent article. Cet
 état doit être représenté à toute réquisition de l'administration.
 
-4° Les dispositions du présent article s'appliquent pour la détermination des
-résultats imposables des exercices clos à compter du 1er novembre 1992.
+4° Les dispositions du présent article ((sous réserve du 5°)) (M), s'appliquent
+pour la détermination des résultats imposables des exercices clos à compter du
+1er novembre 1992.
 
 Pour le premier exercice d'application, l'écart est déterminé à partir de la
 valeur liquidative des parts ou actions à la plus tardive des dates suivantes :
@@ -96,5 +100,21 @@ postérieure, et le 1er juillet 1992 ;
 d'autre part, entre le 1er juillet 1992 et la date de clôture de l'exercice ;
 
 Le montant de l'écart retenu est égal à celui constaté depuis la plus tardive
-des dates suivantes : date d'ouverture de l'exercice ou date d'acquisition. (M)
-Modification.
+des dates suivantes : date d'ouverture de l'exercice ou date d'acquisition.
+
+((5° Pour les parts ou actions détenues par des entreprises d'assurances, les
+dispositions du présent article s'appliquent à la détermination des résultats
+imposables des exercices clos à compter du 1er novembre 1997.
+
+((Pour le premier exercice d'application, l'écart est déterminé à partir de la
+valeur liquidative des parts ou actions concernées, à la plus tardive des dates
+suivantes : 1er juillet 1997, date d'acquisition ou celle d'ouverture de
+l'exercice. Toutefois, si un écart de sens opposé est constaté entre, d'une
+part, le début de l'exercice, ou la date d'acquisition si elle est postérieure,
+et le 1er juillet 1997 et, d'autre part, entre le 1er juillet 1997 et la date de
+clôture de l'exercice, le montant de l'écart retenu est égal à celui constaté
+depuis le plus tardif des événements suivants :
+
+l'ouverture de l'exercice ou l'acquisition des parts ou actions)) (M).
+
+(M) Modification.

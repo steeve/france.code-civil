@@ -23,16 +23,16 @@ L'application des dispositions de l'alinéa précédent est subordonnée à
 l'obligation, pour les nouveaux exploitants, pour la société absorbante ou
 nouvelle ou pour la société bénéficiaire de l'apport :
 
-D'inscrire immédiatement à leur passif la provision figurant dans les écritures
-du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et
-qui était afférente aux éléments transférés, en distinguant, suivant les
-modalités fixées à l'article 10 decies, le montant des dotations de chaque
-exercice ;
+a. D'inscrire immédiatement à leur passif la provision figurant dans les
+écritures du précédent exploitant, des sociétés fusionnées ou de la société
+apporteuse et qui était afférente aux éléments transférés, en distinguant,
+suivant les modalités fixées à l'article 10 decies, le montant des dotations de
+chaque exercice ;
 
-De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans les
-mêmes conditions qu'aurait dû le faire le précédent exploitant en application du
-sixième alinéa du 5° du 1 de l'article 39 du code général des impôts et de
-l'article 10 undecies ci-dessus.
+b. De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans
+les mêmes conditions qu'aurait dû le faire le précédent exploitant en
+application du neuvième alinéa du 5° du 1 de l'article 39 du code général des
+impôts et de l'article 10 undecies ci-dessus.
 
 Cet engagement doit être joint à la déclaration des résultats de l'exercice de
 cession, de cessation ou de décès.

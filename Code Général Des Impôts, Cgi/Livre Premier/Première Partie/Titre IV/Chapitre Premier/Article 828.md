@@ -1,7 +1,7 @@
 Article 828
 ----
 I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 1.220 F :
+foncière de 1 500 F :
 
 1° (Abrogé).
 
@@ -26,4 +26,4 @@ l'article L322-12 du code de l'urbanisme (1).
 
 II. (Abrogé).
 
-(1) Article abrogé par la loi n°85-729 du 18 juillet 1985.
+(1) Article abrogé par la loi n° 85-729 du 18 juillet 1985.

@@ -105,15 +105,15 @@ sur la liste sont instruits par le département de l'intérieur.
 
 1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1
 bis A et 1 bis A bis pour la partie des publications qu'elles impriment hors
-d'un état membre de la ((Communauté européenne)) (M).
+d'un état membre de la Communauté européenne.
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions
 mentionnés au présent article sont amortis pour un montant égal à la fraction du
 prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou
 provisions.
 
-Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1 de
-l'article 39, les provisions non utilisées conformément à leur objet avant la
+Sans préjudice de l'application des dispositions du treizième alinéa du 5° du 1
+de l'article 39, les provisions non utilisées conformément à leur objet avant la
 fin de la cinquième année suivant celle de leur constitution sont rapportées aux
 bénéfices soumis à l'impôt au titre de ladite année.
 
@@ -131,5 +131,3 @@ acquise par ces journalistes et salariés au service de l'ancienne entreprise,
 qu'elles doivent verser en cas de licenciement de ces derniers.
 
 (1) Annexe IV, art. 4 octies.
-
-(M) Modification.

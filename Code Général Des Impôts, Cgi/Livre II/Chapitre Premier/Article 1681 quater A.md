@@ -23,11 +23,11 @@ septembre de chaque année, doit préciser le montant présumé des taxes, être
 datée, signée et adressée au comptable du Trésor avant le 10 d'un mois donné
 pour prendre effet le mois suivant.
 
-Lorsqu'il apparaît que le montant des taxes mises en recouvrement est supérieur
-de plus de 10 p. 100 au montant présumé par le contribuable, celui-ci perd pour
-l'année le bénéfice de son option pour le paiement mensuel et une majoration de
-10 p. 100 lui est appliquée sur la différence entre la moitié des taxes dues et
-le montant des prélèvements effectués conformément à sa demande.
+Lorsque le montant des taxes mises en recouvrement est supérieur de plus de 10 %
+à celui présumé par le contribuable, la différence entre la moitié des taxes
+dues et le montant des prélèvements effectués conformément à la demande du
+contribuable ainsi que la majoration de 10 % appliquée sur ce montant sont
+acquittées avec le prélèvement du deuxième mois suivant.
 
 C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'un
 des prélèvements visé au B. Le complément éventuel est prélevé en décembre.

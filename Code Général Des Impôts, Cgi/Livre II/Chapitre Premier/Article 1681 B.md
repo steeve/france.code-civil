@@ -5,9 +5,6 @@ contribuable, est égal au dixième de l'impôt établi au titre de ses revenus 
 l'avant-dernière année, ou, si cet impôt n'a pas encore été établi, de l'impôt
 sur ses derniers revenus annuels imposés.
 
-((Toutefois, les prélèvements effectués lors des quatre premiers mois de l'année
-1997 sont réduits de 6 p. 100 dans une limite mensuelle de 1 000 F)) (M).
-
 S'il estime que les prélèvements mensuels effectués ont atteint le montant des
 cotisations dont il sera finalement redevable, le contribuable peut demander la
 suspension des prélèvements suivants.
@@ -21,10 +18,8 @@ chaque année, doit préciser le montant présumé de l'impôt, être datée, si
 adressée au comptable du Trésor avant le 10 d'un mois donné pour prendre effet
 le mois suivant.
 
-Lorsqu'il apparaît que le montant de l'impôt est supérieur de plus de 10 p. 100
-au montant de l'impôt présumé par le contribuable, celui-ci perd pour l'année le
-bénéfice de son option pour le paiement mensuel et une majoration de 10 p. 100
-lui est appliquée sur la différence entre les deux tiers de l'impôt dû et le
-montant des prélèvements effectués conformément à sa demande.
-
-(M) Modification de la loi 96-1181.
+Lorsque le montant de l'impôt mis en recouvrement est supérieur de plus de 10 %
+à celui présumé par le contribuable, la différence entre les deux tiers de
+l'impôt dû et le montant des prélèvements effectués conformément à la demande du
+contribuable ainsi que la majoration de 10 % appliquée sur ce montant sont
+acquittées avec le prélèvement du deuxième mois suivant.

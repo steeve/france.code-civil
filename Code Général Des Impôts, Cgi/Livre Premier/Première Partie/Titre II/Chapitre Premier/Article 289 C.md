@@ -16,4 +16,11 @@ déclarants, utilisateurs de cette méthode de transmission, doivent respecter l
 prescriptions d'un cahier des charges, publié par arrêté du ministre chargé du
 budget, définissant notamment les modalités de cette transmission, les supports
 autorisés et les conditions d'authentification des déclarations ainsi
-souscrites.
+souscrites. 4. Les documents nécessaires à l'établissement de la déclaration
+prévue au 2 doivent être conservés par les assujettis pendant un délai de six
+ans à compter de la date de l'opération faisant l'objet de cette déclaration.
+
+5. Les agents des douanes peuvent exiger sans préavis, à des fin de contrôle
+statistique, la communication des documents nécessaires à l'établissement de la
+déclaration prévue au 2 chez toute personne physique ou morale tenue de
+souscrire celle-ci.

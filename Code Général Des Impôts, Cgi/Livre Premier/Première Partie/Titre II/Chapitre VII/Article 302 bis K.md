@@ -7,9 +7,10 @@ public aérien. Elle est ajoutée aux prix demandés aux passagers.
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre
 de passagers embarquant en France selon le tarif suivant :
 
-((21 F par passager embarqué à destination d'un territoire étranger ;
+((a 20 F par passager embarqué à destination de la France ou d'un autre Etat
+membre de la Communauté européenne)) (M).
 
-((14 F par passager embarqué vers d'autres destinations (M).
+((b 35 F par passager embarqué vers d'autres destinations)) (M).
 
 Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fourni
 par l'administration de l'aviation civile, le nombre de passagers embarqués le
@@ -60,4 +61,4 @@ Le contentieux est suivi par la direction générale de l'aviation civile. Les
 réclamations sont présentées, instruites et jugées comme pour les taxes sur le
 chiffre d'affaires.
 
-(M) Modification de la loi 96-1181.
+(M) Modification de la loi 97-1269.

@@ -18,14 +18,14 @@ une imposition forfaitaire annuelle d'un montant fixé à :
 25 000 F pour les personnes morales dont le chiffre d'affaires est compris entre
 10 000 000 F et 50 000 000 F ;
 
-35 000 F pour les personnes morales dont le chiffre d'affaires est compris entre
-50 000 000 F et 100 000 000 F ;
+((50 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est
+compris entre 50 000 000 F et 100 000 000 F ;
 
-50 000 F pour les personnes morales dont le chiffre d'affaires est compris entre
-100 000 000 F et 500 000 000 F ;
+((75 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est
+compris entre 100 000 000 F et 500 000 000 F ;
 
-100 000 F pour les personnes morales dont le chiffre d'affaires est égal ou
-supérieur à 500 000 000 F.
+((150 000 F)) (M) pour les personnes morales dont le chiffre d'affaires est égal
+ou supérieur à 500 000 000 F.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires,
 tous droits et taxes compris, du dernier exercice clos.
@@ -41,3 +41,5 @@ exonérées de cette imposition.
 Les sociétés en liquidation judiciaire sont exonérées de l'imposition
 forfaitaire annuelle pour la période postérieure au jugement déclaratif de
 liquidation.
+
+(M) Modification.

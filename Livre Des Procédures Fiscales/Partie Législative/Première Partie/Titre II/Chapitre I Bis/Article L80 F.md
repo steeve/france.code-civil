@@ -17,7 +17,7 @@ privé, ainsi qu'aux terrains et aux entrepôts. Ils ont également accès aux
 moyens de transport à usage professionnel et à leur chargement.
 
 Ils peuvent se faire délivrer copie des pièces se rapportant aux opérations
-devant donner lieu à facturation.
+ayant donné ou devant donner lieu à facturation.
 
 Ils peuvent recueillir sur place ou sur convocation des renseignements et
 justifications. Ces auditions donnent lieu à l'établissement de comptes rendus

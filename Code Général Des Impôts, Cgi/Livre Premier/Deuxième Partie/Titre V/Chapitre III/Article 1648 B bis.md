@@ -16,8 +16,7 @@ montants respectifs sur les produits définis aux 1° et 2° du I, des sommes
 nécessaires à :
 
 1° l'application du III de l'article 52 de la loi n° 95-115 du 4 février 1995
-((modifiée)) (M) d'orientation pour l'aménagement et le développement du
-territoire ;
+modifiée d'orientation pour l'aménagement et le développement du territoire ;
 
 2° puis à la quote-part destinée aux communes des départements d'outre-mer. Elle
 est calculée en appliquant au montant de la part communale diminuée du
@@ -42,7 +41,13 @@ appartenant au même groupe démographique.
 
 Par dérogation à l'alinéa précédent, il n'est pas tenu compte de la seconde
 condition pour les communes dont le taux d'imposition à la taxe professionnelle
-est égal au plafond prévu aux IV et V de l'article 1636 B septies.
+est égal au plafond prévu aux IV et V de l'article 1636 B septies. ((Par
+dérogation aux dispositions précédentes, les communes de 10 000 habitants au
+moins dont le potentiel fiscal est inférieur du tiers au potentiel fiscal moyen
+par habitant de l'ensemble des communes appartenant au même groupe
+démographique, et l'effort fiscal est supérieur à 80 % de l'effort fiscal moyen
+des communes appartenant au même groupe démographique bénéficient du fonds dans
+les conditions prévues au IV)) (M).
 
 Les communes qui remplissent la première condition mais pas la seconde, sans que
 leur effort fiscal ne soit inférieur à 90 p. 100 de l'effort fiscal moyen des
@@ -95,6 +100,6 @@ démographique.
 VI. Aucune attribution calculée en application des alinéas précédents n'est
 versée si son montant est inférieur ou égal à 2 000 F.
 
-(M) Modification.
+(M) Modification de la loi 97-1269.
 
 (1) Ces dispositions s'appliquent à compter de l'exercice 1996.

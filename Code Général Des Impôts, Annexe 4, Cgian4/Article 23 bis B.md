@@ -4,7 +4,7 @@ Le résultat consolidé défini à l'article 116 de l'annexe II au code généra
 impôts est rectifié, dans la proportion mentionnée au c et au d du 1 de ce même
 article, à raison des opérations mentionnées à l'article 23 bis A.
 
-1. (Sans objet, édition du 18 août 1993).
+1. (Sans objet)
 
 2. Lorsque les résultats des sociétés mentionnées ci-après sont retenus pour la
 détermination du résultat consolidé ou compris dans le résultat d'ensemble d'un
@@ -33,9 +33,9 @@ modalités prévues au III de l'article 39 octies B ou au III de l'article 39
 octies D du code déjà cité ;
 
 2° Des déductions effectuées au titre des dispositions du 2 de l'article 39
-quinquies A et du II de l'article 238 bis HA du code général des impôts par une
-société à raison des sommes versées pour la souscription au capital d'une autre
-société.
+quinquies A et du II de l'article 217 undecies du code général des impôts par
+une société à raison des sommes versées pour la souscription au capital d'une
+autre société.
 
 3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction
 des subventions et abandons de créances qui n'est pas déductible, au sens de

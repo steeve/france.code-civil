@@ -11,7 +11,7 @@ dans les conditions prévues à l'article L. 47 A ainsi que l'absence de respect
 des obligations comptables visées au III de l'article 277 A du code général des
 impôts entraînent le retrait de l'autorisation prévue au 2° du I de l'article
 277 A du même code. Ce retrait est notifié à l'intéressé à l'issue du délai de
-quinze jours prévu à l'article L. 80 H.
+trente jours prévu à l'article L. 80 H.
 
 Les conséquences de ce retrait d'autorisation sont opposées à l'intéressé et aux
 personnes visées au 2 du II de l'article 277 A du code général des impôts, au
