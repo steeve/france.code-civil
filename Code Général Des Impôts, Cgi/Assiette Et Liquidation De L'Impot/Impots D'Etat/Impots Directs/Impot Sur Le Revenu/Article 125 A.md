@@ -1,12 +1,12 @@
 Article 125 A
 ----
-I. Sous réserve des dispositions des articles 119 bis-1, 125 B et 157-2° bis,
-les personnes physiques qui bénéficient d'intérêts, arrérages et produits de
-toute nature de fonds d'Etat, obligations, bons et autres titres de créances,
-dépôts, cautionnements et comptes courants, dont le débiteur est domicilié ou
-établi en France, peuvent opter pour leur assujettissement à un prélèvement qui
-libère les revenus auxquels il s'applique de l'impôt sur le revenu [*prélèvement
-libératoire, champ d'application*].
+I. Sous réserve des dispositions des articles 119 bis-1 et 125 B, les personnes
+physiques qui bénéficient d'intérêts, arrérages et produits de toute nature de
+fonds d'Etat, obligations, titres participatifs, bons et autres titres de
+créances, dépôts, cautionnements et comptes courants, dont le débiteur est
+domicilié ou établi en France, peuvent opter pour leur assujettissement à un
+prélèvement qui libère les revenus auxquels il s'applique de l'impôt sur le
+revenu [*prélèvement libératoire, champ d'application*].
 
 La retenue à la source éventuellement opérée sur ces revenus est imputée sur le
 prélèvement.
@@ -36,7 +36,8 @@ France [*à l'étranger*].
 
 III bis. Le taux du prélèvement est fixé :
 
-1° A 25 % pour les produits d'obligations négociables ;
+1° A 25 % pour les produits d'obligations négociables et de titres participatifs
+;
 
 2° A un tiers pour les produits des bons du Trésor sur formules, des bons
 d'épargne des PTT, des bons de la caisse nationale du crédit agricole, des bons
@@ -51,13 +52,21 @@ que ces titres aient été émis avant le 1er juin 1978 ;
 janvier 1980 (3) ;
 
 4° A 38 % pour les produits des bons et titres émis à compter de la date
-d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 lorsque le
-bénéficiaire des intérêts communique aux établissements payeurs, au moment du
-paiement, son identité et son domicile fiscal, et à 42 % lorsque cette condition
-n'est pas remplie ;
+d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 et avant le 1er
+janvier 1983 lorsque le bénéficiaire des intérêts communique aux établissements
+payeurs, au moment du paiement, son identité et son domicile fiscal, et à 42 %
+lorsque cette condition n'est pas remplie ;
 
 5° A 38 % pour les produits des placements, autres que les bons et titres,
-courus à partir du 1er janvier 1980.
+courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
+
+6° A 45 % pour les produits des bons et titres émis à compter du 1er janvier
+1983 lorsque le bénéficiaire des intérêts communique aux établissements payeurs,
+au moment du paiement, son identité et son domicile fiscal, et à 50 % lorsque
+cette condition n'est pas remplie ;
+
+7° A 45 % pour les produits des placements, autres que les bons et titres courus
+à partir du 1er janvier 1983.
 
 IV. L'option pour le prélèvement est subordonnée :
 
