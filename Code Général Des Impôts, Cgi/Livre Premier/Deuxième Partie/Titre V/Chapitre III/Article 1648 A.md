@@ -11,17 +11,17 @@ est, pour 1991, divisé par 0,960.
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence
 à cette notion, est prise en compte la valeur nette des bases de taxe
 professionnelle après écrêtement ou après déduction de l'équivalent en bases du
-prélèvement versé au fonds départemental de la taxe professionnelle au titre du
-deuxième alinéa du b du 2 du I ter.
+prélèvement versé au fonds départemental de la taxe professionnelle au titre des
+deuxième à quatrième alinéas du b du 2 du I ter.
 
-Dans le cas où une commune visée par les dispositions qui précèdent appartient à
-un établissement public de coopération intercommunale auquel elle versait, avant
-le 1er mai 1991, une contribution budgétaire calculée par référence au produit
-global de sa taxe professionnelle ou de ses quatre taxes ou s'était engagée, par
-accord conventionnel, à reverser une partie de ce produit à une ou plusieurs
-communes voisines, il est appliqué sur les bases de cette commune, pour
-l'application des premier et deuxième alinéas, une réduction de bases
-correspondant au montant des sommes en cause.
+Dans le cas où une commune visée par les dispositions des premier et deuxième
+alinéas appartient à un établissement public de coopération intercommunale
+auquel elle versait, avant le 1er mai 1991, une contribution budgétaire calculée
+par référence au produit global de sa taxe professionnelle ou de ses quatre
+taxes ou s'était engagée, par accord conventionnel, à reverser une partie de ce
+produit à une ou plusieurs communes voisines, il est appliqué sur les bases de
+cette commune, pour l'application des premier et deuxième alinéas, une réduction
+de bases correspondant au montant des sommes en cause.
 
 La réduction appliquée aux bases des communes bénéficiant des dispositions du
 troisième alinéa est maintenue en cas de transformation, à compter de la date de
@@ -94,7 +94,7 @@ les conditions prévues au présent article.
 
 Toutefois, verront leurs ressources fiscales diminuées chaque année d'un
 prélèvement égal au produit de l'écrêtement intervenu l'année précédant
-l'application de l'alinéa précédent :
+l'application du premier alinéa :
 
 1° les établissements publics de coopération intercommunale soumis au régime du
 1° du I de l'article 1609 nonies C et qui faisaient l'objet l'année précédente
@@ -132,10 +132,16 @@ l'établissement diminue par rapport à celui de l'année d'adoption du régime 
 prélèvement, tel qu'il a été fixé pour la première année d'application, le
 montant du prélèvement est réduit dans la même proportion.
 
-Pour l'application des deux alinéas précédents, le montant du produit de taxe
-professionnelle correspondant à l'établissement est égal pour l'année considérée
-au produit des bases de taxe professionnelle de l'établissement par le taux voté
-l'année précédente par l'établissement public de coopération intercommunale.
+Pour l'application des sixième et septième alinéas, le montant du produit de
+taxe professionnelle correspondant à l'établissement est égal pour l'année
+considérée au produit des bases de taxe professionnelle de l'établissement par
+le taux voté l'année précédente par l'établissement public de coopération
+intercommunale.
+
+c. A compter du 1er janvier 2002, les dispositions du b sont également
+applicables aux établissements publics de coopération intercommunale mentionnés
+au quatrième alinéa du I quater et faisant application, à compter de cette date,
+des dispositions du I de l'article 1609 nonies C.
 
 I quater. Pour les communautés de communes, lorsque les bases d'imposition d'un
 établissement rapportées au nombre d'habitants de la commune sur le territoire
