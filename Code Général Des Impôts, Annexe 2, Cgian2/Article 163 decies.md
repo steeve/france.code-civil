@@ -6,8 +6,8 @@ employeurs à l'ensemble de leur personnel à titre de traitements, salaires,
 indemnités et émoluments, y compris la valeur des avantages en nature, quel que
 soit le lieu du domicile des bénéficiaires.
 
-Sont exclues de ce montant les sommes définies à l'article 81 et aux articles
-231 bis C à 231 bis J du code général des impôts.
+Sont exclues les sommes définies à l'article 81 et aux articles 231 bis C à 231
+bis J et 231 bis M du code général des impôts.
 
 2. Les sommes prévues au 1 sont comprises dans la base de calcul de la
 participation pour leur montant brut, avant déduction des retenues, cotisations
