@@ -37,20 +37,14 @@ IV. Le bénéfice des dispositions prévues aux I à III peut-être accordé aux
 groupements d'entreprises.
 
 V. Le bénéfice des mêmes dispositions peut être accordé, après agrément de
-l'opération, aux banques, aux établissements de crédit à statut légal spécial et
-aux établissements et organismes financiers dont la liste est fixée par décret
-(1) et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une
+l'opération, aux établissements de crédit dont la liste est fixée par décret (1)
+et aux entreprises industrielles et commerciales qui, dans l'intérêt d'une
 entreprise française et en vue d'accompagner l'investissement à l'étranger de
 cette dernière, participent au capital de la société étrangère constituée à cet
 effet par l'entreprise ou à laquelle celle-ci se trouve elle-même associée.
 
-En cas de non-respect par l'entreprise française, par la banque, l'établissement
-de crédit ou l'organisme financier des engagements ou conditions auxquels
-l'agrément est subordonné, les dispositions de l'article 1756 sont applicables à
-la banque, à l'établissement de crédit ou à l'organisme financier (2).
+En cas de non-respect par l'entreprise française ou par l'établissement de
+crédit des engagements ou conditions auxquels l'agrément est subordonné, les
+dispositions de l'article 1756 sont applicables à l'établissement de crédit.
 
 (1) Annexe III, art. 10 GA.
-
-(2) Disposition applicable pour la première fois pour l'établissement de l'impôt
-sur le revenu dû au titre de l'année 1979 et pour l'impôt sur les sociétés aux
-exercices clos à compter du 31 décembre 1979.

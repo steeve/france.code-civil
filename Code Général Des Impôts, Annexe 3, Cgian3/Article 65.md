@@ -7,10 +7,8 @@ Les agents de change ; La Banque française du commerce extérieur ;
 
 La Banque de France ;
 
-Les banques inscrites ;
-
-La Caisse centrale des banques populaires et les banques populaires agréées par
-leur chambre syndicale ;
+Les établissements de crédit ; La Caisse centrale des banques populaires et les
+banques populaires agréées par leur chambre syndicale ;
 
 La Caisse centrale de crédit coopératif ;
 
@@ -25,5 +23,3 @@ agricole mutuel ;
 Le Crédit foncier communal d'Alsace et de Lorraine ;
 
 Le Crédit foncier de France ;
-
-Les établissements financiers autorisés à effectuer des opérations sur titres.

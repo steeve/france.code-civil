@@ -6,3 +6,6 @@ principal est la construction et la vente d'immeubles à usage d'habitation qui
 ont, antérieurement au 1er janvier 1965, bénéficié de la garantie de l'Etat en
 ce qui concerne leurs engagements financiers, est obligatoirement assuré par un
 commissaire du Gouvernement.
+
+Les sociétés de crédit immobilier sont, en outre, soumises au contrôle de la
+commission bancaire.

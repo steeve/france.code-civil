@@ -33,10 +33,10 @@ immeuble;
 
 f La gestion de fonds communs de placement;
 
-d Les opérations relatives à l'or autre que l'or à usage industriel lorsqu'elles
-sont réalisées par les banques, établissements financiers, agents de change,
+g Les opérations relatives à l'or, autre que l'or à usage industriel,
+lorsqu'elles sont réalisées par les établissements de crédit, agents de change,
 changeurs, escompteurs et remisiers, ou par toute autre personne qui en fait son
-activité principale;
+activité principale ;
 
 2° Les opérations d'assurance et de réassurance ainsi que les prestations de
 services afférentes à ces opérations effectuées par les courtiers et

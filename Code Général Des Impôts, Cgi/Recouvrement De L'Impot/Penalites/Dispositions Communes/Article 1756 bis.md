@@ -1,21 +1,20 @@
 Article 1756 bis
 ----
-I. Nonobstant toutes dispositions contraires, mais sans préjudice des règles
-particulières concernant les caisses d'épargne, les entreprises, établissements
-ou organismes qui reçoivent du public, sous forme de dépôt ou autrement, des
-fonds remboursables à vue ou à moins de trois ans ne peuvent, sans contrevenir à
-l'interdiction faite par l'article 17 de la loi n° 56-760 du 2 août 1956,
-directement ou indirectement, par quelque moyen que ce soit, payer sur les
-sommes ainsi reçues des intérêts à des taux supérieurs à ceux qui résultent des
-décisions du conseil national du crédit en ce qui concerne les organismes
-relevant de la compétence de celui-ci, ou qui sont fixés par le ministre de
-l'économie et des finances après avis du conseil national du crédit.
+I. Nonobstant toutes dispositions contraires, il est interdit à tout
+établissement de crédit qui reçoit du public des fonds à vue ou à moins de cinq
+ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération
+supérieure à celle fixée, selon les cas, par le comité de la réglementation
+bancaire ou par décret ou par le ministre chargé de l'économie et des finances ;
+il lui est également interdit d'ouvrir ou de maintenir ouverts dans des
+conditions irrégulières des comptes bénéficiant d'une aide publique, notamment
+sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
+excédant les plafonds autorisés.
 
-Sans préjudice, le cas échéant, des sanctions disciplinaires prévues par les
-textes régissant les entreprises, établissements ou organismes intéressés, les
-infractions aux dispositions du présent article sont punies d'une amende fiscale
-dont le taux est fixé à vingt fois le montant des intérêts payés, sans que cette
-amende puisse être inférieure à 500 F [*montant minimum*].
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
+commission bancaire, les infractions aux dispositions du présent article sont
+punies d'une amende fiscale dont le taux est fixé à vingt fois le montant des
+intérêts payés, sans que cette amende puisse être inférieure à 500 F [*montant
+minimum*].
 
 Un décret pris sur le rapport du ministre de l'économie et des finances fixe les
 modalités d'application du présent article, et notamment les conditions dans

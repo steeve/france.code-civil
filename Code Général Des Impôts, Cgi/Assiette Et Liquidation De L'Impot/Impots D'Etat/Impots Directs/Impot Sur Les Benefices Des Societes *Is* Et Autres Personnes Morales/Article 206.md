@@ -66,18 +66,28 @@ paragraphe, notamment les dispositions transitoires qui seraient nécessaires en
 raison de la modification du régime fiscal applicable aux organismes mentionnés
 au 1°.
 
-7. Les caisses de crédit mutuel mentionnées à l'article 5 de l'ordonnance n°
-58-966 du 16 octobre 1958 relative à diverses dispositions concernant le Trésor
-sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun
-(3).
+7. Les caisses de crédit mutuel mentionnées à l'article 5 modifié de
+l'ordonnance n° 58-966 du 16 octobre 1958 relative à diverses dispositions
+concernant le Trésor sont assujetties à l'impôt sur les sociétés dans les
+conditions de droit commun.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
-d'application de cette disposition (4).
+d'application de cette disposition (3).
+
+8. Le fonds de garantie des banques populaires prévu à l'article 6 de la loi du
+13 août 1936 tendant à modifier et à compléter l'organisation du crédit au petit
+et moyen commerce et à la petite et moyenne industrie est assujetti à l'impôt
+sur les sociétés dans les conditions de droit commun (4).
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article
+(5).
 
 (1) Voir Annexe III, art. 46 quater-0 A.
 
-(2) Annexe II, art. 102 H à 102 O.
+(2) Annexe II, art. 102 H à 102 N.
 
-(3) Disposition applicable à compter du 1er janvier 1980.
+(3) Annexe II, art. 102 O à 102 R.
 
-(4) Annexe II, art. 102 O à 102 R.
+(4) Disposition applicable aux exercices ouverts à compter du 1er janvier 1984.
+
+(5) Annexe II, art. 102 RA à 102 RC.

@@ -1,11 +1,11 @@
 Article 4 quater
 ----
-LES ETABLISSEMENTS DE BANQUE OU DE CREDIT CONSENTANT DES CREDITS A MOYEN ET A
-LONG TERME POUR LE REGLEMENT DES VENTES OU DES TRAVAUX EFFECTUES A L'ETRANGER
-SONT ADMIS A CONSTITUER EN FRANCHISE D'IMPOT SUR LE REVENU OU D'IMPOT SUR LES
-SOCIETES, DANS LES CONDITIONS PREVUES AUX ARTICLES 4 QUINQUIES A 4 SEPTIES, UNE
-PROVISION DESTINEE A FAIRE FACE AUX RISQUES PARTICULIERS AFFERENTS A CES CREDITS
-EONT CONSIDEREES COMME EFFECTUEES A L'ETRANGER LES OPERATIONS FAITES A
-DESTINATION DE PAYS AUTRES QUE LES TERRITOIRES DE LA REPUBLIQUE FRANCAISE
-(FRANCE METROPOLITAINE, DEPARTEMENTS D'OUTRE-MER *DOM* ET TERRITOIRES
-D'OUTRE-MER *TOM*).
+Les établissements de crédit consentant des crédits à moyen et à long terme pour
+le règlement des ventes ou des travaux effectués à l'etranger sont admis à
+constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés, dans
+les conditions prévues aux articles 4 quinquies à 4 septies, une provision
+destinée à faire face aux risques particuliers afférents à ces crédits.
+
+Sont considérées comme effectuées a l'etranger les opérations faites à
+destination de pays autres que les territoires de la Republique francaise
+(France métropolitaine, départements d'outre-mer et territoires d'outre-mer).

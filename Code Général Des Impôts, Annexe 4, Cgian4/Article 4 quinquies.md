@@ -1,10 +1,10 @@
 Article 4 quinquies
 ----
-LE BENEFICE DE LA PROVISION PREVUE A L'ARTICLE 4 QUATER EST LIMITE AUX
-OPERATIONS QUI FONT L'OBJET D'UNE OUVERTURE DE CREDIT AU COURS DES ANNEES 1966 A
+Le bénéfice de la provision prévue à l'article 4 quater est limité aux
+opérations qui font l'objet d'une ouverture de credit au cours des années 1966 à
 1980.
 
-SON MONTANT NE PEUT EXCEDER 20 % DU MONTANT DU RISQUE PROPRE AUX CREDITS DEFINIS
-CI-DESSUS QUI N'EST PAS COUVERT EFFECTIVEMENT PAR LA COMPAGNIE FRANCAISE POUR LE
-COMMERCE EXTERIEUR (COFACE) OU PAR TOUTE BANQUE OU ETABLISSEMENT FINANCIER, NI 1
-% DU MONTANT DE CES MEMES CREDITS QUI FIGURE AU BILAN DE CLOTURE DE L'EXERCICE.
+Son montant ne peut excéder 20 % du montant du risque propre aux crédits définis
+ci-dessus qui n'est pas couvert effectivement par la compagnie francaise pour le
+commerce extérieur (Coface) ou par tout établissement de crédit, ni 1 % du
+montant de ces mêmes crédits qui figure au bilan de clôture de l'exercice.

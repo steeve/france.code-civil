@@ -25,9 +25,9 @@ travaux, fournitures et services extérieurs, à l'exception des loyers afféren
 aux biens pris en crédit-bail, les frais de transports et déplacements, les
 frais divers de gestion.
 
-3. La production des entreprises de banque, des établissements financiers, des
-établissements de crédit, des entreprises ayant pour activité exclusive la
-gestion des valeurs mobilières est égale à la différence entre :
+3. La production des établissements de crédit, des entreprises ayant pour
+activité exclusive la gestion des valeurs mobilières est égale à la différence
+entre :
 
 - d'une part, les produits d'exploitation bancaires et produits accessoires ;
 

@@ -1,8 +1,8 @@
 Article 188 I
 ----
-Le prélèvement opéré par les agences et succursales de banques par les caisses
-publiques et par les caisses d'épargne peut faire l'objet de versements globaux
-dans les conditions prévues à l'article 188 H.
+Le prélèvement opéré par les agences et succursales des établissements de crédit
+par les caisses publiques et par les caisses d'épargne peut faire l'objet de
+versements globaux dans les conditions prévues à l'article 188 H.
 
 La déclaration préalable qui doit être adressée à la direction des services
 fiscaux de la résidence de l'organisme centralisateur peut viser à la fois le
