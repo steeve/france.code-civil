@@ -4,6 +4,8 @@ Sont réputées agricoles toutes les activités correspondant à la maîtrise et
 l'exploitation d'un cycle biologique de caractère végétal ou animal et
 constituant une ou plusieurs étapes nécessaires au déroulement de ce cycle ainsi
 que les activités exercées par un exploitant agricole qui sont dans le
-prolongement de l'acte de production ou qui ont pour support l'exploitation.
+prolongement de l'acte de production ou qui ont pour support l'exploitation. Les
+activités de cultures marines sont réputées agricoles, nonobstant le statut
+social dont relèvent ceux qui les pratiquent.
 
 Les activités agricoles ainsi définies ont un caractère civil.

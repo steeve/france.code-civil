@@ -21,3 +21,7 @@ mai 1993 [*date limite*].
 
 L'employeur ne peut verser cette contribution qu'à un seul organisme collecteur
 agréé.
+
+S'agissant des entreprises de pêche maritime et de cultures marines, l'employeur
+reverse le montant de cette contribution à l'organisme collecteur paritaire
+agréé mentionné au troisième alinéa de l'article L. 953-4.
