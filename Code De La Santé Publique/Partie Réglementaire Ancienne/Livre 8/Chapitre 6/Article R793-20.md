@@ -1,4 +1,4 @@
-Article R5089-21
+Article R793-20
 ----
 Les opérations financières et comptables de l'établissement sont effectuées
 conformément aux dispositions du décret n° 53-1227 du 10 décembre 1953 relatif à

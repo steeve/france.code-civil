@@ -1,4 +1,4 @@
-Article R5089-4
+Article R793-4
 ----
 En cas de vacance d'un siège au conseil d'administration pour quelque cause que
 ce soit, un autre membre est nommé dans les mêmes conditions. Le mandat de ce

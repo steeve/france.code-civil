@@ -1,6 +1,6 @@
-Article R5089-2
+Article R793-2
 ----
-Pour l'exercice de ses missions, définies à l'article L. 567-2, l'agence peut
+Pour l'exercice de ses missions, définies à l'article L. 793-1, l'agence peut
 notamment :
 
 1° Acquérir les biens meubles ou immeubles nécessaires ;
