@@ -1,5 +1,5 @@
 Article L352-4
 ----
-Un arrêté conjoint du ministre chargé du budget et du ministre chargé de
+Un arrêté conjoint du ministre chargé des finances et du ministre chargé de
 l'emploi détermine les mesures propres à assurer la sécurité et la liquidité des
-réserves des organismes mentionnés à l'article L. 351-22.
+fonds des organismes mentionnés aux articles L. 351-21 et L. 351-22.

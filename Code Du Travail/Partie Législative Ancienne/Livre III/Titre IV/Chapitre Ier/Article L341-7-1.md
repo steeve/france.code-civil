@@ -1,12 +1,7 @@
 Article L341-7-1
 ----
-Il est interdit à tout employeur de se faire rembourser par un travailleur
-étranger soit la redevance forfaitaire qu'il a versée à l'office des migrations
-internationales [*OMI*] au titre de ce travailleur, soit les frais de voyage
-qu'il a réglés pour la venue de celui-ci en France.
-
-Il est également interdit à toute personne, sous réserve des dispositions de
-l'article L. 762-10 [*agents artistiques*], d'exiger d'un travailleur étranger
-des versements d'argent ou d'opérer sur le salaire du travailleur des retenues
-sous la dénomination de frais ou sous d'autres dénominations en vue ou à
-l'occasion de son introduction en France ou de son embauchage.
+Il est interdit à tout employeur de se faire rembourser la redevance forfaitaire
+qu'il a versée à l'office des migrations internationales ou les frais de voyage
+qu'il a réglés pour la venue d'un travailleur étranger en France ainsi que
+d'opérer sur le salaire de celui-ci des retenues, sous quelque dénomination que
+ce soit, à l'occasion de son engagement.

@@ -4,7 +4,7 @@ Les accords conclus entre employeurs et travailleurs à l'effet de servir des
 allocations aux travailleurs bénéficiaires des conventions de conversion visées
 à l'article L. 322-3 et de contribuer aux dépenses de fonctionnement relatives à
 ces conventions peuvent être rendus obligatoires en vertu de la procédure
-d'agrément prévue à l'article L. 352-2.
+d'agrément prévue aux articles L. 352-2 et L. 352-2-1.
 
 Ces allocations et ces dépenses peuvent être financées par les contributions des
 employeurs visées au deuxième alinéa de l'article L. 322-3 et par celles visées

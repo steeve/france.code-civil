@@ -19,7 +19,9 @@ Le salaire différé résultant du contrat de travail institué par l'article 63
 décret du 29 juillet 1939 relatif à la famille et à la natalité françaises, pour
 l'année échue et l'année courante :
 
-Les rémunérations pour les six derniers mois des salariés et apprentis ;
+Les rémunérations pour les six derniers mois des salariés, apprentis et
+l'indemnité due par l'employeur aux jeunes en stage d'initiation à la vie
+professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
 
 L'indemnité de fin de contrat prévue à l'article L. 122-3-5 du code du travail
 et l'indemnité de précarité d'emploi prévue à l'article L. 124-4-4 du même code.
