@@ -1,7 +1,8 @@
 Article R426-18
 ----
-Dans le cas de jouissance anticipée de la pension mentionnée au deuxième alinéa
-de l'article R. 426-15-1, la pension annuelle calculée conformément aux
+Dans le cas de jouissance anticipée avant l'âge de cinquante ans, à l'exception
+des situations visées à l'article R. 426-15-2, de la pension mentionnée au a de
+l'article R. 426-15-1, la pension annuelle calculée conformément aux
 prescriptions du présent chapitre est affectée des coefficients de minoration
 suivants :
 
@@ -17,6 +18,3 @@ COEFFICIENTS
 48 ans / 0,88
 
 49 ans / 0,95
-
-Ces coefficients peuvent être modifiés par décision du conseil d'administration
-en fonction de l'évolution des tables de mortalité.

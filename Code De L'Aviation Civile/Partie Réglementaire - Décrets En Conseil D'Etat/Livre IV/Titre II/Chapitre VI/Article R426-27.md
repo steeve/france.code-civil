@@ -14,4 +14,22 @@ d'orphelins versées entre la liquidation des droits conformément à cet articl
 R. 426-17 et l'âge normal d'entrée en jouissance de la retraite ;
 
 c) Section dite Fonds d'assurance chargée de l'application des articles L. 424-5
-et L. 424-6.
+et L. 424-6 ;
+
+d) Il est procédé, au 31 décembre de chaque année, au reversement sur le fonds
+de retraite des excédents éventuels de chacun des deux autres fonds, constatés
+au-delà des plus élevées des valeurs suivantes :
+
+Fonds spécial :
+
+900 millions de francs ;
+
+Neuf fois le montant des prestations annuelles versées apparaissant au dernier
+bilan approuvé.
+
+Fonds d'assurance :
+
+200 millions de francs ;
+
+Cinq fois le montant des cotisations annuelles apparaissant au dernier bilan
+approuvé.

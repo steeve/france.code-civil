@@ -1,18 +1,30 @@
 Article R426-16-2
 ----
-La revalorisation des pensions s'effectue à titre provisionnel au 1er janvier et
-au 1er juillet de chaque année en deux fractions égales.
+Les pensions sont revalorisées au 1er janvier et au 1er juillet de chaque année.
 
-Les taux d'augmentation applicables à chacune de ces dates sont calculés de
-telle sorte que le taux d'évolution en moyenne annuelle soit égal au taux
-d'évolution du salaire brut moyen annuel par tête versé par les entreprises non
-financières, non agricoles, qui est prévu, pour l'année considérée, par le
-rapport mentionné à l'article 32 de l'ordonnance n° 59-2 du 2 janvier 1959 et
-annexé au projet de loi de finances de ladite année.
+Le taux de revalorisation appliqué à titre provisionnel au 1er janvier est égal
+à la moitié du taux annuel pratiqué au 1er juillet précédent.
 
-Il est procédé, au 1er juillet de l'année suivante, à un ajustement du taux de
-revalorisation des pensions. Le taux de cet ajustement est égal au rapport entre
-l'indice de variation des salaires mentionné au b de l'article R. 426-5,
-correspondant à l'année au titre de laquelle a été établie la revalorisation
-provisionnelle et l'indice de revalorisation provisionnelle applicable à ladite
-année.
+Le taux de revalorisation annuel appliqué au 1er juillet est déterminé par les
+formules ci-dessous :
+
+a) Lorsque N est supérieur à 2, le taux de revalorisation en pourcentage est
+égal à :
+
+(formule non reproduite).
+
+Le conseil d'administration peut faire varier ce taux dans un intervalle E de
+plus ou moins 0,5 p. 100 ;
+
+b) Lorsque N est inférieur ou égal à 2, le taux de revalorisation en pourcentage
+est égal à :
+
+(formule non reproduite).
+
+Dans ces formules :
+
+Ic représente le pourcentage de variation des prix à la consommation hors tabac
+France entière publié par l'I.N.S.E.E. pour les douze mois de l'année précédente
+;
+
+N est la valeur définie au f de l'article R. 426-5.

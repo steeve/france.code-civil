@@ -1,8 +1,11 @@
 Article R426-11
 ----
-Le droit à pension à taux plein n'est ouvert que lorsque l'affilié compte au
-moins vingt-cinq annuités acquises au titre de services valables pour la
-retraite tels qu'ils sont définis à l'article R. 426-13.
+Une pension de retraite est servie à l'affilié qui en demande la liquidation à
+partir d'un âge déterminé, dans les conditions précisées aux articles suivants.
 
-Lorsque l'intéressé compte moins de vingt-cinq annuités au titre de services
+Cette pension est dite à taux plein si l'affilié compte un nombre déterminé
+d'annuités acquises au titre des services valables pour la retraite tels qu'ils
+sont définis à l'article R. 426-13.
+
+Lorsque l'intéressé compte moins que ce nombre d'annuités au titre de services
 valables pour la retraite, il a droit à une pension proportionnelle.
