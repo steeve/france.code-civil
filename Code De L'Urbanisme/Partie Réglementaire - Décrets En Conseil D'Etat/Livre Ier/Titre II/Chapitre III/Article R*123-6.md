@@ -7,12 +7,12 @@ urbaniser les secteurs à caractère naturel de la commune destinés à être ou
 Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas
 échéant, d'assainissement existant à la périphérie immédiate d'une zone AU ont
 une capacité suffisante pour desservir les constructions à implanter dans
-l'ensemble de cette zone, le projet d'aménagement et de développement durable et
-le règlement définissent les conditions d'aménagement et d'équipement de la
-zone. Les constructions y sont autorisées soit lors de la réalisation d'une
-opération d'aménagement d'ensemble, soit au fur et à mesure de la réalisation
-des équipements internes à la zone prévus par le projet d'aménagement et de
-développement durable et le règlement.
+l'ensemble de cette zone, les orientations d'aménagement et le règlement
+définissent les conditions d'aménagement et d'équipement de la zone. Les
+constructions y sont autorisées soit lors de la réalisation d'une opération
+d'aménagement d'ensemble, soit au fur et à mesure de la réalisation des
+équipements internes à la zone prévus par les orientations d'aménagement et le
+règlement.
 
 Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas
 échéant, d'assainissement existant à la périphérie immédiate d'une zone AU n'ont

@@ -3,7 +3,7 @@ Article R*123-11
 Les zones U, AU, A et N sont délimitées sur un ou plusieurs documents
 graphiques.
 
-Les documents graphiques font, en outre, apparaître s'il y a lieu :
+Les documents graphiques du règlement font, en outre, apparaître s'il y a lieu :
 
 a) Les espaces boisés classés définis à l'article L. 130-1 ;
 

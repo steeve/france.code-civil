@@ -50,4 +50,6 @@ d'ensemble a été approuvé en application de l'article L. 332-9 ;
 13. Le périmètre des secteurs situés au voisinage des infrastructures de
 transports terrestres, dans lesquels des prescriptions d'isolement acoustique
 ont été édictées en application de l'article L. 571-10 du code de
-l'environnement.
+l'environnement ;
+
+14. Le plan des zones à risque d'exposition au plomb ;

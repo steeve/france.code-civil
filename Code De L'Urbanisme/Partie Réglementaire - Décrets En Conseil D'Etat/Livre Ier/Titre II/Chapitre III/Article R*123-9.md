@@ -18,7 +18,9 @@ d'un assainissement individuel ;
 
 5° La superficie minimale des terrains constructibles, lorsque cette règle est
 justifiée par des contraintes techniques relatives à la réalisation d'un
-dispositif d'assainissement non collectif ;
+dispositif d'assainissement non collectif ou lorsque cette règle est justifiée
+pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone
+considérée ;
 
 6° L'implantation des constructions par rapport aux voies et emprises publiques
 ;
@@ -43,7 +45,10 @@ de stationnement ;
 13° Les obligations imposées aux constructeurs en matière de réalisation
 d'espaces libres, d'aires de jeux et de loisirs, et de plantations ;
 
-14° Le coefficient d'occupation du sol défini par l'article R. 123-10.
+14° Le coefficient d'occupation du sol défini par l'article R. 123-10 et, le cas
+échéant, dans les zones d'aménagement concerté, la surface de plancher
+développée hors oeuvre nette dont la construction est autorisée dans chaque
+îlot.
 
 Lorsque le plan de déplacements urbains a délimité, en application de l'article
 28-1-2 de la loi n° 82-1153 du 30 décembre 1982 modifiée, des périmètres à

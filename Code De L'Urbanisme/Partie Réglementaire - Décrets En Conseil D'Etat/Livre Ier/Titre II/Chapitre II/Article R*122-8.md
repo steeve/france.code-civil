@@ -9,6 +9,7 @@ territoriale ne peut être approuvé qu'après avis de la chambre d'agriculture 
 le cas échéant, de l'Institut national des appellations d'origine dans les zones
 d'appellation d'origine contrôlée et du centre régional de la propriété
 forestière lorsqu'il prévoit une réduction des espaces agricoles ou forestiers.
-Il va de même en cas de révision. Ces avis sont rendus dans un délai de deux
+Il va de même en cas de révision, de modification et de mise en compatibilité en
+application de l'article L. 122-15. Ces avis sont rendus dans un délai de deux
 mois à compter de la saisine. En l'absence de réponse à l'issue de ce délai,
 l'avis est réputé favorable.

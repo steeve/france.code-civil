@@ -1,7 +1,7 @@
 Article R*122-3
 ----
-Le document d'orientation, dans le respect des objectifs et des principes
-énoncés aux articles L. 110 et L. 121-1, précise :
+Le document d'orientations générales, dans le respect des objectifs et des
+principes énoncés aux articles L. 110 et L. 121-1, précise :
 
 1° Les orientations générales de l'organisation de l'espace et de la
 restructuration des espaces urbanisés ;
