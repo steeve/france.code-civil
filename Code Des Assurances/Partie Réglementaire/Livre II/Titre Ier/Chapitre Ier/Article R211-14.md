@@ -14,9 +14,12 @@ A défaut d'un de ces documents, la justification est fournie aux autorités
 judiciaires par tous moyens.
 
 Sera puni de la peine d'amende prévue pour les contraventions de deuxième classe
-tout conducteur d'un véhicule mentionné à l'article L. 211-1 qui ne sera pas en
-mesure de présenter un des documents justificatifs prévus aux articles R. 211-15
-à R. 211-18.
+tout conducteur d'un véhicule mentionné à l'article L. 211-1 et non soumis à
+l'obligation prévue à l'article R. 211-21-1 qui ne sera pas en mesure de
+présenter un des documents justificatifs prévus aux articles R. 211-15, R.
+211-17 et au deuxième alinéa de l'article R. 211-18. Toutefois, ces dispositions
+ne sont pas applicables lorsque ce conducteur est passible de la sanction prévue
+à l'alinéa suivant.
 
 Sera punie de la peine d'amende prévue pour les contraventions de la 4e classe
 toute personne qui, invitée à justifier dans un délai de cinq jours de la

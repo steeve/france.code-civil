@@ -12,11 +12,9 @@ b) Un numéro permettant l'identification du souscripteur ;
 
 c) Le numéro d'immatriculation du véhicule ;
 
-d) Le nom du souscripteur lorsque le véhicule n'est pas soumis à immatriculation
-;
+d) Le numéro de moteur lorsque le véhicule n'est pas soumis à immatriculation ;
 
-e) Sa date de fin de validité ou, pour le certificat provisoire, sa date de
-délivrance.
+e) Les dates de début et de fin de validité.
 
 Par dérogation au deuxième alinéa, le certificat délivré aux personnes
 mentionnées à l'alinéa 1er de l'article R. 211-3 ne doit comporter que les
