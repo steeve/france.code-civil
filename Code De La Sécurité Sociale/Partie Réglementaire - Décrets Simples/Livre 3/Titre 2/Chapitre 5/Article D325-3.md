@@ -4,17 +4,26 @@ Le régime local est administré par un conseil d'administration comprenant :
 
 1° Membres délibérants :
 
-- vingt et un représentants des assurés sociaux désignés par les unions
+- vingt-trois représentants des assurés sociaux désignés par les unions
 interprofessionnelles départementales du Haut-Rhin, du Bas-Rhin et de la Moselle
 des organisations syndicales nationales de salariés représentatives visées au 1°
 de l'article L. 221-3 ;
 
-Un arrêté pris par le préfet de la région Alsace détermine la répartition des
-sièges entre les représentants des assurés sociaux en fonction du nombre de
-sièges obtenus dans les trois départements susvisés lors des dernières élections
-générales des administrateurs des caisses primaires d'assurance maladie ou, le
-cas échéant, des dernières élections, à la représentation proportionnelle avec
-application de la règle du plus fort reste ;
+Les sièges des représentants des assurés sociaux sont répartis ainsi qu'il suit
+:
+
+Confédération française démocratique du travail : 7 ;
+
+Confédération générale du travail : 5 ;
+
+Confédération générale du travail-Force ouvrière : 5 ;
+
+Confédération française des travailleurs chrétiens : 4 ;
+
+Confédération française de l'encadrement-CGC : 2 ;
+
+Un nombre de suppléants égal à celui des titulaires est désigné par les mêmes
+organisations syndicales ;
 
 - une personne qualifiée appartenant à une organisation de salariés désignée par
 le préfet de région ;
@@ -29,6 +38,9 @@ associations familiales ;
 
 - un médecin-conseil désigné par le médecin-conseil régional du régime général
 de sécurité sociale de la région de Strasbourg ;
+
+- un représentant désigné par les comités départementaux des retraités et des
+personnes âgées du Haut-Rhin, du Bas-Rhin et de la Moselle ;
 
 - le directeur et l'agent comptable du régime local.
 
