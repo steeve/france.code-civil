@@ -6,13 +6,12 @@ Les annexes comprennent :
 leur destination, leur superficie et l'indication des collectivités, services et
 organismes publics bénéficiaires ;
 
-2. La liste des opérations déclarées d'utilité publique à l'occasion de
-l'approbation du plan d'occupation des sols ;
+*2. abrogé* 3. Les éléments ci-après relatifs aux réseaux d'eau et
+d'assainissement et au système d'élimination des déchets :
 
-3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au
-système d'élimination des déchets :
-
-a) Les schémas des réseaux d'eau et d'assainissement existants ;
+a) Les schémas des réseaux d'eau et d'assainissement existants ainsi que les
+zones qui ont été délimitées en application de l'article L. 2224-10 du code
+général des collectivités territoriales.
 
 b) Une note technique accompagnée d'un plan décrivant les caractéristiques
 essentielles de ces réseaux en leur état futur et justifiant les emplacements
@@ -29,9 +28,9 @@ c) Une note technique traitant du système d'élimination des déchets.
 4. Les servitudes d'utilité publique soumises aux dispositions de l'article L.
 126-1 ainsi que les bois ou forêts soumis au régime forestier ;
 
-5. Les directives d'aménagement national applicables en vertu de l'article R.
-111-15 ainsi que les prescriptions nationales ou particulières prises en
-application de l'article L. 111-1-1.
+5. L'indication du lieu où le schéma directeur et les directives territoriales
+d'aménagement prises en application de l'article L. 111-1-1 du code de
+l'urbanisme, s'ils existent, peuvent être consultés.
 
 6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en
 application de l'alinéa 2 de l'article L. 315-2-1.

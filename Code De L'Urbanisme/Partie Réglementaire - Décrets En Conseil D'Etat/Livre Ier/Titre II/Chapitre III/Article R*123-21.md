@@ -46,6 +46,10 @@ g) Edicter les prescriptions relatives aux équipements et aménagement qui
 peuvent être autorisés dans les zones qui sont ou peuvent être aménagées en vue
 de la pratique du ski et les secteurs réservés aux remontées mécaniques.
 
+h) Edicter les prescriptions de nature à assurer la protection des éléments de
+paysage, quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en
+valeur.
+
 3° Pour les zones dans lesquelles s'applique le transfert des possibilités de
 construction prévu à l'article L. 123-2, le règlement fixe les modalités de ce
 transfert et notamment la superficie minimale du terrain au profit duquel le

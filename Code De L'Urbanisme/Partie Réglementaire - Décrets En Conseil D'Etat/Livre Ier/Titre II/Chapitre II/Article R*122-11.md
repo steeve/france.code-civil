@@ -1,17 +1,17 @@
 Article R*122-11
 ----
 Le projet de schéma directeur ou de schéma de secteur arrêté, accompagné des
-avis exprimés à la suite des constatations prévues au premier alinéa et au
-deuxième alinéa de l'article R. 122-10 et des communications du commissaire de
-la République mentionnées au troisième alinéa du même article, est mis par
-décision du président de l'établissement à la disposition du public pendant un
-mois au siège de l'établissement et dans les mairies des communes concernées.
+avis exprimés à la suite des consultations prévues au premier alinéa et au
+deuxième alinéa de l'article R. 122-10 et des communications du préfet
+mentionnées au troisième alinéa du même article, est mis par décision du
+président de l'établissement à la disposition du public pendant un mois au siège
+de l'établissement et dans les mairies des communes concernées.
 
 Cette décision est affichée au siège de l'établissement public et dans les
 mairies des communes pendant la même durée de un mois. Mention en est insérée en
-caractères apparents dans deux journaux régionaux ou locaux diffusés dans le ou
-les départements concernés huit jours au moins avant la date à compter de
-laquelle le projet est mis à la disposition du public.
+caractères apparents dans deux journaux diffusés dans le ou les départements
+concernés huit jours au moins avant la date à compter de laquelle le projet est
+mis à la disposition du public.
 
 La décision fixe :
 

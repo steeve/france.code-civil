@@ -25,6 +25,10 @@ Ne peuvent constituer des projets d'intérêt général, les projets réalisés 
 l'initiative des collectivités locales responsables de l'élaboration du document
 d'urbanisme concerné.
 
+Le projet d'ouvrage, de travaux ou de protection est qualifié de projet
+d'intérêt général par le préfet en vue de sa prise en compte dans le document
+d'urbanisme concerné.
+
 Ont la qualité d'intervenants, au sens de l'article L. 121-12 du présent code,
 l'Etat, les régions, les départements, les communes, les groupements de
 collectivités, les établissements publics et les autres personnes ayant la
