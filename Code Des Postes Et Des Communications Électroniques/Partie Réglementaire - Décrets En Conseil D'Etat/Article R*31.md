@@ -9,17 +9,18 @@ commissaire enquêteur.
 
 La préparation du dossier d'enquête s'effectue comme suit :
 
-Sur la demande du ministre intéressé, à laquelle est joint un projet de plan, le
-préfet désigne par arrêté les communes sur le territoire desquelles les agents
-qualifiés sont autorisés à procéder à une étude préliminaire. Ces agents ont la
-faculté de pénétrer dans les propriétés non closes de murs ou de clôtures
-équivalentes situées sur le territoire de ces communes, ainsi qu'à l'intérieur
-des propriétés même closes et des bâtiments, à condition, en ce qui concerne les
-propriétés closes et les bâtiments, qu'ils aient été expressément mentionnés
-dans ledit arrêté. Ainsi qu'il est dit à l'article L. 58, les propriétaires et
-usagers sont tenus de se prêter aux investigations nécessaires et, notamment, de
-faire fonctionner, à la demande des agents, les installations et appareils que
-ceux-ci considèrent comme susceptibles de produire des troubles.
+Sur la demande du ministre intéressé ou de l'exploitant public de
+télécommunications, à laquelle est joint un projet de plan, le préfet désigne
+par arrêté les communes sur le territoire desquelles les agents qualifiés sont
+autorisés à procéder à une étude préliminaire. Ces agents ont la faculté de
+pénétrer dans les propriétés non closes de murs ou de clôtures équivalentes
+situées sur le territoire de ces communes, ainsi qu'à l'intérieur des propriétés
+même closes et des bâtiments, à condition, en ce qui concerne les propriétés
+closes et les bâtiments, qu'ils aient été expressément mentionnés dans ledit
+arrêté. Ainsi qu'il est dit à l'article L. 58, les propriétaires et usagers sont
+tenus de se prêter aux investigations nécessaires et, notamment, de faire
+fonctionner, à la demande des agents, les installations et appareils que ceux-ci
+considèrent comme susceptibles de produire des troubles.
 
 Après achèvement de l'enquête, le plan des servitudes qui en résulte est
 approuvé par décret pris sous le contreseing du ministre intéressé et du

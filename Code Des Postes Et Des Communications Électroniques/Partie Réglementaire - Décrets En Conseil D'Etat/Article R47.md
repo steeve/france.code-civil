@@ -2,7 +2,7 @@ Article R47
 ----
 Est puni [*sanction*] d'une amende de 3 000 à 6 000 F [*taux résultant du décret
 89-989 du 29 décembre 1989*] et peut être puni d'un emprisonnement de dix jours
-à un mois [*durée résultant du décret n° 80-567 du 18 juillet 1980*] :
+à un mois [*durée résultant du décret n° 80-569 du 18 juillet 1980*] :
 
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart
 de mille nautique d'un câble sous-marin, dont il est en mesure de connaître la

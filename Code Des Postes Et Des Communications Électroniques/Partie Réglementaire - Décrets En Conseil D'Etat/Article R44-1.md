@@ -7,9 +7,8 @@ travaux publics ou privés projetés sont présentées par le maître de l'ouvra
 le maîre d'oeuvre dans les conditions ci-après.
 
 La demande est adressée par lettre recommandée en trois exemplaires ou par télex
-au directeur chargé des services régionaux des télécommunications, au plus tôt
-soixante jours et au plus tard vingt jours [*délai*] avant l'ouverture du
-chantier.
+au responsable territorial de l'exploitant public, au plus tôt soixante jours et
+au plus tard vingt jours [*délai*] avant l'ouverture du chantier.
 
 Elle doit comporter les indications suivantes :
 

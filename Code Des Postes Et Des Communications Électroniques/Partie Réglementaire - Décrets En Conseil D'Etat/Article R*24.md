@@ -2,9 +2,9 @@ Article R*24
 ----
 Dans toute zone primaire, secondaire ou spéciale de dégagement, ainsi que dans
 tout secteur de dégagement, il est interdit, sauf autorisation du ministre dont
-les services exploitent ou contrôlent le centre, de créer des obstacles fixes ou
-mobiles dont la partie la plus haute excède une cote fixée par le décret prévu à
-l'article R. 25.
+les services exploitent le centre ou exercent la tutelle sur lui, de créer des
+obstacles fixes ou mobiles dont la partie la plus haute excède une cote fixée
+par le décret prévu à l'article R. 25.
 
 Lorsque la configuration du terrain le permet, les zones sont divisées en
 plusieurs parties, une cote particulière étant fixée pour chaque partie.
