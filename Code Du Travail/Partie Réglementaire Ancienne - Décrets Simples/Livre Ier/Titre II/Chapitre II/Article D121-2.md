@@ -36,16 +36,15 @@ L'entreposage et le stockage de la viande ;
 
 Le sport professionnel ;
 
-
-Le bâtiment et les travaux publics pour les chantiers à
-
-l'étranger ;
+Le bâtiment et les travaux publics pour les chantiers à l'étranger ;
 
 Les activités de coopération, d'assistance technique, d'ingénierie et de
 recherche à l'étranger ;
 
 Les activités [*des associations intermédiaires*] mentionnées à l'article L. 128
-[*L. 128-1*] du code du travail ;
+du code du travail ;
+
+Les activités exercées dans le cadre de l'article L. 129-1 (2°).
 
 La recherche scientifique réalisée dans le cadre d'une convention
 internationale, d'un arrangement administratif international pris en application
