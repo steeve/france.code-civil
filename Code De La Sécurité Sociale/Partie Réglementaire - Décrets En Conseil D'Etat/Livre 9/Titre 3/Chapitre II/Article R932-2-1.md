@@ -1,6 +1,6 @@
 Article R932-2-1
 ----
-I. - Les dispositions des articles R. 932-1-1 à R. 932-1-7 s'appliquent aux
+I. - Les dispositions des articles R. 932-1-1 à R. 932-1-6 s'appliquent aux
 opérations collectives à adhésion facultative des institutions de prévoyance et
 de leurs unions visées au deuxième alinéa de l'article L. 932-14. Les
 dispositions de l'article R. 932-1-5 s'appliquent dans le cas prévu au I de
@@ -15,7 +15,7 @@ alinéa dudit article. Pour ces dernières opérations, le bulletin d'adhésion 
 le contrat contiennent en outre les nom et adresse du participant et
 l'indication de la ou des personnes couvertes et comportent en caractères très
 apparents les clauses mentionnées au g du premier alinéa de l'article R.
-932-1-1. Les dispositions des articles R. 932-1-2 et R. 932-1-4 à R. 932-1-7
+932-1-1. Les dispositions des articles R. 932-1-2 et R. 932-1-4 à R. 932-1-6
 s'appliquent également sous réserve de substituer au terme adhérent le terme
 participant.
 
