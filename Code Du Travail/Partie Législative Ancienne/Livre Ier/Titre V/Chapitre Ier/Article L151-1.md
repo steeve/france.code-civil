@@ -1,6 +1,8 @@
 Article L151-1
 ----
-En cas de récidive, l'infraction [*à l'incapacité de recevoir des apprentis*] à
-l'article L. 111-8 sera punie d'un emprisonnement de deux à quatre mois et d'une
-amende de 2.000 F à 8.000 F [*montant résultant de la loi 1468 du 30 décembre
-1977*] ou de l'une de ces deux peines seulement.
+Sera puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 250 000 F
+(1) [*montant*] toute personne physique qui, en qualité de responsable d'un des
+organismes collecteurs visés à l'article L. 119-1-1, aura utilisé
+frauduleusement les fonds collectés.
+
+(1) : Amende applicable depuis le 9 mai 1996.

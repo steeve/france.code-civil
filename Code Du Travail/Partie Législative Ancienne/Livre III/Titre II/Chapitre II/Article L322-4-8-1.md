@@ -11,6 +11,14 @@ au moins un an, ou demandeurs d'emploi depuis plus de trois ans [*chômeurs de
 longue durée*], ou bénéficiaires de l'obligation d'emploi instituée par
 l'article L. 323-1.
 
+Peuvent également être embauchés à ce titre, sans avoir effectué préalablement
+un contrat emploi-solidarité, les jeunes âgés de dix-huit ans à moins de
+vingt-six ans résidant dans les grands ensembles et quartiers d'habitat dégradé
+dont la liste est fixée par décret [*emplois de ville*], rencontrant des
+difficultés particulières d'accès à l'emploi et ayant au plus achevé un second
+cycle de l'enseignement secondaire général, technologique ou professionnel
+[*jeunes en difficulté*].
+
 La durée de ces conventions ne peut excéder douze mois, renouvelables par voie
 d'avenant dans la limite d'une durée maximale de soixante mois.
 
@@ -37,7 +45,8 @@ la formation professionnelle et de l'effort de construction.
 
 L'Etat peut également prendre en charge tout ou partie des frais engagés au
 titre des actions de formation professionnelle destinées aux personnes recrutées
-à l'issue d'un contrat emploi-solidarité, dans des conditions fixées par décret.
+en application des conventions mentionnées au I, dans des conditions fixées par
+décret.
 
 Les aides et les exonérations prévues par le présent article ne peuvent être
 cumulées avec une autre aide de l'Etat à l'emploi.
