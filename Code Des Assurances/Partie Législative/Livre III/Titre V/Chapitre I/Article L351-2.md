@@ -7,7 +7,7 @@ afférentes :
 
 - aux accidents du travail et aux maladies professionnelles ;
 
-- à la responsabilité civile des véhicules terrestres à moteur à l'exception de
+- à la responsabilité civile des véhicules terrestres à moteur, à l'exception de
 la responsabilité du transporteur ;
 
 - à la responsabilité civile des exploitants d'installations nucléaires ;

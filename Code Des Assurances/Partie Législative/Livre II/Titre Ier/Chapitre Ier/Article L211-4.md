@@ -7,7 +7,8 @@ suivants : Saint-Siège, Saint-Marin, Monaco, Autriche, Finlande, Norvège, Suè
 Suisse, Liechtenstein. Cette garantie, lorsqu'elle est appelée à jouer hors du
 territoire français, est accordée par l'assureur dans les limites et conditions
 prévues par la législation nationale de l'Etat sur le territoire duquel s'est
-produit le sinistre.
+produit le sinistre ou par celle de l'Etat où le véhicule a son stationnement
+habituel lorsque la couverture d'assurance y est plus favorable.
 
 Cette assurance doit également comporter une garantie de la responsabilité
 civile en cas de sinistre survenant au cours du trajet reliant directement deux

@@ -10,4 +10,5 @@ Les informations mentionnées à l'alinéa précédent doivent figurer sur tous
 documents remis au souscripteur.
 
 Le contrat ou la note de couverture doit indiquer l'adresse de l'établissement
-qui accorde la couverture ainsi que, le cas échéant, celle du siège social.
+qui accorde la couverture, le cas échéant celle du siège social, ainsi que le
+nom et l'adresse du représentant mentionné à l'article L. 351-6-1.

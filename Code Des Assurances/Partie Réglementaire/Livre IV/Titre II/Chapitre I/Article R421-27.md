@@ -7,7 +7,8 @@ les conditions suivantes :
 1° La contribution des entreprises d'assurance est proportionnelle aux primes ou
 cotisations du dernier exercice, accessoires et rappels compris et annulations
 déduites, relative à l'assurance des véhicules terrestres à moteur et des
-remorques ou semi-remorques des véhicules. Elle est liquidée et recouvrée par le
+remorques ou semi-remorques des véhicules lorsque le risque est situé sur le
+territoire de la République française. Elle est liquidée et recouvrée par le
 fonds de garantie.
 
 2° La contribution des responsables d'accidents causés par l'utilisation des

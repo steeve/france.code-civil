@@ -1,20 +1,22 @@
 Article R421-25
 ----
 Le fonds de garantie groupe obligatoirement toutes les entreprises, d'une part,
-agréées pour pratiquer les opérations d'assurance contre les risques de
-responsabilité civile résultant de l'emploi des véhicules terrestres à moteur
-mentionnés au 10 de l'article R. 321-1, d'autre part, agréées pour pratiquer les
-opérations d'assurance mentionnées au 13 de l'article R. 321-1 et pratiquant
-effectivement les opérations d'assurance chasse.
+pratiquant sur le territoire de la République française les opérations
+d'assurance contre les risques de responsabilité civile résultant de l'emploi
+des véhicules terrestres à moteur mentionnés au 10 de l'article R. 321-1,
+d'autre part, agréées pour pratiquer les opérations d'assurance mentionnées au
+13 de l'article R. 321-1 et pratiquant effectivement les opérations d'assurance
+chasse.
 
 Il est administré par un conseil d'administration composé de quatorze membres :
 
 - un représentant des sociétés d'assurances mutuelles agricoles désigné par la
 caisse centrale des mutuelles agricoles ;
 
-- six représentants des entreprises d'assurance agréées pour pratiquer les
-opérations d'assurance contre les risques de responsabilité civile résultant de
-l'emploi de véhicules terrestres à moteur, désignés par ces entreprises ;
+- six représentants des entreprises d'assurance pratiquant sur le territoire de
+la République française les opérations d'assurance contre les risques de
+responsabilité civile résultant de l'emploi de véhicules terrestres à moteur,
+désignés par ces entreprises ;
 
 - un représentant des entreprises d'assurance agréées pour pratiquer les
 opérations d'assurance mentionnées au 13 de l'article R. 321-1 et pratiquant
