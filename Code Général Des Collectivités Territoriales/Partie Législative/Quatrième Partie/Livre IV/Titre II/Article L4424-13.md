@@ -17,6 +17,10 @@ conditions fixées en application de l'article L. 121-9 du code de l'urbanisme.
 Le plan prend en compte ces projets et ces opérations et comporte, le cas
 échéant, les dispositions nécessaires à leur réalisation.
 
+Le plan d'aménagement et de développement durable fait l'objet d'une évaluation
+environnementale dans les conditions définies par les articles L. 121-10 à L.
+121-15 du code de l'urbanisme.
+
 Le projet de plan arrêté par le conseil exécutif est soumis pour avis au conseil
 économique, social et culturel de Corse ainsi qu'au conseil des sites de Corse,
 puis adopté par l'Assemblée de Corse. Les dispositions du projet de plan prises
@@ -32,3 +36,8 @@ modalités que pour son adoption.
 
 Le plan d'aménagement et de développement durable est révisé selon les modalités
 prévues au présent article.
+
+Au plus tard à l'expiration d'un délai de dix ans à compter de la délibération
+approuvant le plan d'aménagement et de développement durable, l'Assemblée de
+Corse procède à une analyse des résultats de son application, notamment du point
+de vue de l'environnement.
