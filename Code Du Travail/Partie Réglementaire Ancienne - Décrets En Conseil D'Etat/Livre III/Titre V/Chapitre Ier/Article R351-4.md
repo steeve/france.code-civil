@@ -11,5 +11,6 @@ fixé par l'accord mentionné à l'article L. 351-8.
 Les employeurs auxquels s'appliquent les dispositions du premier alinéa du
 présent article doivent renvoyer à celle des institutions gestionnaires du
 régime d'assurance chômage dont ils relèvent, après l'avoir dûment complété, le
-bordereau de régularisation annuelle que celle-ci leur adresse. Le cas échéant,
-l'employeur joint à ce bordereau le versement y afférent.
+bordereau annuel de déclaration de l'ensemble des rémunérations payées à leurs
+salariés. Le cas échéant, l'employeur joint à ce bordereau le versement y
+afférent.
