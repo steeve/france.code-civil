@@ -10,8 +10,8 @@ taxes qui seront liquidés.
 est fixée par arrêté du ministre de l'économie et des finances.
 
 3. Le paiement des droits et taxes ainsi garantis dont le montant total à
-l'échéance excède 500 000 F doit être fait par virement directement opéré sur le
-compte du Trésor ouvert dans les écritures de la Banque de France ;
+l'échéance excède 50000 euros doit être fait par virement directement opéré sur
+le compte du Trésor ouvert dans les écritures de la Banque de France ;
 
 4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne
 l'application d'une majoration de 0,2 % du montant des sommes dont le versement
