@@ -6,26 +6,26 @@ mensuelles sont effectuées comme suit :
 I. - Il est tenu compte :
 
 a) De l'ensemble des catégories de ressources prises en compte à l'article R.
-531-10, perçues par l'allocataire et son conjoint ou concubin durant l'année
+532-3, perçues par l'allocataire et son conjoint ou concubin durant l'année
 civile de référence précédant la période du 1er juillet au 30 juin suivant au
 cours de laquelle est effectué le recouvrement de l'indu.
 
 Ces revenus s'entendent avant tout abattement fiscal et déduction hormis la
-déduction des créances alimentaires mentionnées au a de l'article R. 531-10.
+déduction des créances alimentaires mentionnées au a de l'article R. 532-3.
 
-Il est fait application des dispositions des articles R. 531-11 à R. 531-14 à
-l'exception de la référence qui est faite dans ces articles à l'article R.
-531-10 et sous réserve de l'application de l'alinéa précédent.
+Il est fait application des dispositions des articles R. 532-4 à R. 532-8 à
+l'exception de la référence qui est faite dans ces articles à l'article R. 532-3
+et sous réserve de l'application de l'alinéa précédent.
 
 Les revenus ainsi déterminés sont divisés par douze ;
 
 b) Des prestations servies par les organismes débiteurs de prestations
 familiales, à l'exception de l'allocation de rentrée scolaire, des compléments
 d'allocation d'éducation spéciale liés aux périodes de retour au foyer,
-lorsqu'ils ne sont pas payés mensuellement, de l'allocation de garde d'enfant à
-domicile, de l'aide à la famille pour l'emploi d'une assistante maternelle
-agréée et sa majoration ; sont également exclus les versements d'allocation aux
-adultes handicapés et de son complément ainsi que ceux du revenu minimum
+lorsqu'ils ne sont pas payés mensuellement, de la prime à la naissance ou à
+l'adoption et du complément de libre choix du mode de garde de la prestation
+d'accueil du jeune enfant ; sont également exclus les versements d'allocation
+aux adultes handicapés et de son complément ainsi que ceux du revenu minimum
 d'insertion, lorsqu'ils sont liés aux périodes de congé ou de suspension de
 prise en charge mentionnées respectivement aux articles R. 821-8, R. 821-13, R.
 821-14 et à l'article 29 du décret n° 88-1111 du 12 décembre 1988 modifié
