@@ -29,8 +29,15 @@ b) Les décisions de suspension ou de retrait d'autorisation de dispenser des
 soins remboursables aux assurés sociaux ;
 
 7° Les projets de contrats de concession pour l'exécution du service public
-hospitalier prévus à l'article L. 715-10 dans le cas où l'approbation relève du
-ministre chargé de la santé ;
+hospitalier prévus à l'article L. 715-10 ainsi que les décisions mettant fin à
+ces contrats en application de l'article R. 715-10-12, dans le cas où
+l'approbation relève du ministre chargé de la santé ;
 
 8° Les recours hiérarchiques formés auprès du ministre en application des
-articles L. 712-5 et L. 712-16.
+articles L. 712-5 et L. 712-16 ;
+
+9° Les demandes d'admission à participer au service public hospitalier ainsi que
+les décisions mettant fin d'office à cette participation en application de
+l'article R. 715-6-7, dans les cas où elles portent sur des disciplines,
+activités de soins et équipements matériels lourds pour lesquels l'autorisation
+relève du ministre chargé de la santé.
