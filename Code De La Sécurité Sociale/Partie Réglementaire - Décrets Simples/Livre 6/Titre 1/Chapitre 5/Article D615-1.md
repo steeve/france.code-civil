@@ -14,17 +14,11 @@ définies au 4° ci-dessous. La participation de l'assuré est également suppri
 pour les frais de traitement d'une des affections visées au 3° de l'article L.
 322-3 du code de la sécurité sociale.
 
-2°) 20 p. 100 des tarifs pour les frais de traitement des affections visées au
-3° de l'article L. 322-3 du code de la sécurité sociale, lorsqu'il s'agit de
-frais autres que ceux mentionnés au 1° du présent article.
-
-Toutefois, cette participation est supprimée lorsque le bénéficiaire est atteint
-d'une desdites affections pour les frais pharmaceutiques. Elle est également
-supprimée pour le même bénéficiaire, pour les frais de traitements
-roentgenthérapique, curiethérapique ou par les isotopes radioactifs, à la
-condition, en ce qui concerne les traitements dont il s'agit, que le nombre de
-séances, d'un coefficient total au moins égal à Z 50, ait fait l'objet d'un
-accord préalable de la caisse après avis du contrôle médical ;
+2°) La participation de l'assuré aux tarifs servant de base au calcul des
+prestations en nature de l'assurance maladie est supprimée lorsque le malade est
+reconnu atteint d'une affection inscrite sur la liste prévue au 3° de l'article
+L. 322-3, pour les frais relatifs au traitement au sens de l'article R. 615-69,
+de l'affection dont le malade est reconnu atteint.
 
 3°) la participation de l'assuré est supprimée en ce qui concerne les frais de
 fourniture d'appareils d'orthopédie mentionnés au 2° de l'article L. 322-3 ;
@@ -53,7 +47,7 @@ il est fait appel à un expert dans les conditions prévues à l'article R. 141-
 
 8° La participation de l'assuré est supprimée pour les frais d'analyses ou
 d'examens de laboratoire relatifs au dépistage sérologique de l'infection par le
-virus de l'immunodéficience humaine.
+virus de l'immunodéficience humaine et par le virus de l'hépatite C.
 
 La décision de la caisse fixe la durée de la période d'exonération, sous réserve
 du maintien du droit aux prestations en application de l'article L. 615-8.
