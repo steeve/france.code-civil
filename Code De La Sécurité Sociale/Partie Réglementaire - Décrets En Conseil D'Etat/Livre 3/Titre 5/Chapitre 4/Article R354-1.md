@@ -15,9 +15,11 @@ La caisse régionale d'assurance vieillesse de Strasbourg a compétence exclusiv
 pour recevoir la demande, procéder à l'étude et à la liquidation des droits et
 servir ces avantages, lorsque le bénéficiaire ou, en cas de partage de ces
 avantages en application de l'article L. 353-3, l'un des bénéficiaires réside
-dans les départements du Haut-Rhin, du Bas-Rhin ou de la Moselle. Elle est
-également compétente pour recevoir les demandes tendant à l'attribution des
-pensions prévues aux articles L. 357-9 et L. 357-10.
+dans les départements du Haut-Rhin, du Bas-Rhin ou de la Moselle ou lorsque,
+résidant hors de ces départements, le bénéficiaire ou l'un des bénéficiaires
+relève du régime local d'assurance maladie en application des 9° et 10° du II de
+l'article L. 325-1. Elle est également compétente pour recevoir les demandes
+tendant à l'attribution des pensions prévues aux articles L. 357-9 et L. 357-10.
 
 Le conjoint survivant et le conjoint divorcé doivent obligatoirement joindre à
 cette demande la copie de l'acte de naissance de l'assuré.
