@@ -11,9 +11,12 @@ garantie est étendue aux effets des catastrophes naturelles, dans les condition
 prévues au contrat correspondant.
 
 Sont considérés comme les effets des catastrophes naturelles, au sens du présent
-chapitre, les dommages matériels directs ayant eu pour cause déterminante
-l'intensité anormale d'un agent naturel, lorsque les mesures habituelles à
-prendre pour prévenir ces dommages n'ont pu empêcher leur survenance ou n'ont pu
-être prises.
+chapitre, les dommages matériels directs non assurables ayant eu pour cause
+déterminante l'intensité anormale d'un agent naturel, lorsque les mesures
+habituelles à prendre pour prévenir ces dommages n'ont pu empêcher leur
+survenance ou n'ont pu être prises.
 
-L'état de catastrophe naturelle est constaté par arrêté interministériel.
+L'état de catastrophe naturelle est constaté par arrêté interministériel qui
+détermine les zones et les périodes où s'est située la catastrophe ainsi que la
+nature des dommages résultant de celle-ci couverts par la garantie visée au
+premier alinéa du présent article.

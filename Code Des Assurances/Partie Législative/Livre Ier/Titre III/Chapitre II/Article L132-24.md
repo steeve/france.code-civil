@@ -1,12 +1,12 @@
 Article L132-24
 ----
-Le contrat d'assurance cesse d'avoir effet quand le bénéficiaire a occasionné
-volontairement la mort de l'assuré.
+Le contrat d'assurance cesse d'avoir effet à l'égard du bénéficiaire qui a été
+condamné pour avoir donné volontairement la mort à l'assuré.
 
-Le montant de la provision mathématique doit être versé par l'assureur aux
-héritiers ou ayants cause du contractant, si les primes ont été payées pendant
-trois ans au moins.
+Le montant de la provision mathématique doit être versé par l'assureur au
+contractant ou à ses ayants cause à moins qu'ils ne soient condamnés comme
+auteurs ou complices du meurtre de l'assuré.
 
-En cas de simple tentative, le contractant a le droit de révoquer l'attribution
-du bénéfice de l'assurance, même si l'auteur de cette tentative avait déjà
-accepté le bénéfice de la stipulation faite à son profit.
+Si le bénéficiaire a tenté de donner la mort à l'assuré, le contractant a le
+droit de révoquer l'attribution du bénéfice de l'assurance, même si le
+bénéficiaire avait déjà accepté la stipulation faite à son profit.

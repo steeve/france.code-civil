@@ -11,8 +11,7 @@ peuvent étendre le bénéfice de cette disposition aux régimes de retraites
 complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des
 collectivités locales et des établissements publics, soit auprès d'organismes
 relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies
-par le livre III du code des assurances ou de la caisse nationale de prévoyance
-(1) ;
+par le livre III du code des assurances.
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de
 prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
@@ -122,7 +121,11 @@ immeubles, des véhicules et autres biens dont la durée d'utilisation est
 supérieure à un an s'entend de la dépréciation que ces biens ont subie au cours
 de l'année d'imposition .
 
-(1) Annexe III, art. 38 septdecies.
+Sont assimilées à des frais professionnels réels les dépenses exposées en vue de
+l'obtention d'un diplôme ou d'une qualification professionnelle dans la
+perspective d'une insertion ou d'une conversion professionnelle par les
+personnes tirant un revenu de la pratique d'un sport. (1) Annexe III, art. 38
+septdecies.
 
 (2) A compter de l'imposition des revenus de 1988 et de 1989, la base de calcul
 des limites de 19 % et de 3 % est égale à douze fois le plafond annuel moyen

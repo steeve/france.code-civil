@@ -8,4 +8,8 @@ prescriptions des articles L. 321-1 et L. 321-2.
 Toutefois, les dispositions de l'alinéa ci-dessus ne sont pas applicables à
 l'assurance des risques liés aux transports maritimes et aériens ainsi qu'aux
 opérations de libre prestation de services et de coassurance communautaire
-définies aux chapitres Ier et II du titre V du présent livre.
+définies au titre V du présent livre. En outre, il peut être dérogé aux
+dispositions du précédent alinéa sur décision du ministre de l'économie et des
+finances s'il est constaté qu'une couverture d'assurance d'un risque ne peut
+être trouvée auprès des entreprises d'assurance qui se sont conformées aux
+prescriptions des articles L. 321-1, L. 321-2 et du titre V du présent livre.
