@@ -10,14 +10,13 @@ chacun des régimes par les diminutions des taux de cotisation d'assurance
 maladie destinées à compenser pour les assujettis le relèvement du taux de la
 contribution sociale généralisée ;
 
-2° Pour la fraction restant après la répartition visée au 1° :
+2° Pour la fraction restant après la répartition au 1° :
 
-a) En priorité, en fonction du déficit comptable, le cas échéant avant
-affectation de la contribution sociale de solidarité sur les sociétés, du régime
-d'assurance maladie des travailleurs non salariés des professions non agricoles
-et du régime d'assurance maladie des travailleurs salariés ;
+a) En priorité au régime d'assurance maladie des travailleurs salariés, dans la
+limite de son déficit comptable ;
 
-b) Puis, le cas échéant, au prorata du déficit comptable des autres régimes
+b) Puis, le cas échéant avant affectation de la contribution sociale de
+solidarité sur les sociétés, au prorata du déficit comptable des autres régimes
 obligatoires d'assurance maladie.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article,
