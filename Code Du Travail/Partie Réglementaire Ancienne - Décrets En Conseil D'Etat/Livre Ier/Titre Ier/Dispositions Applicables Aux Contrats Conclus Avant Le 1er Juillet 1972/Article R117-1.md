@@ -46,3 +46,7 @@ sociale et de l'emploi à engager en surnombre un élève d'une classe préparat
 rattachée à un établissement d'enseignement professionnel ou à un collège de
 premier cycle, s'il prend l'engagement de recruter ce dernier ultérieurement en
 qualité d'apprenti.
+
+Les apprentis dont le contrat a été prorogé en application des dispositions de
+l'article L. 117-9 ne sont pas pris en compte pour la détermination des plafonds
+d'emploi définis au présent article.
