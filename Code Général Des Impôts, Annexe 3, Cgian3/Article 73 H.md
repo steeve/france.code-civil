@@ -9,9 +9,8 @@ destinées à l'exportation;
 
 2° Les preneurs des services portant sur des marchandises importées doivent
 délivrer aux prestataires des attestations certifiant que ces marchandises sont
-placées sous un des régimes suspensifs prévus aux 13° et 13° bis du II de
-l'article 262 du code général des impôts et aux 1° et 1° bis du II de l'article
-291 du même code.
+placées sous un des régimes suspensifs prévus au b du 2 du I et au b du 1° du II
+de l'article 291 du code général des impôts.
 
 II Les prestataires de services sont tenus, pour leur part :
 
