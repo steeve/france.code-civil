@@ -2,14 +2,15 @@ Article R*225-1
 ----
 Le plan de chasse aux cerfs, daims, mouflons et chevreuils est de droit.
 
-Le plan de chasse peut être institué pour les autres espèces de gibier par
-arrêté du ministre chargé de la chasse.
+Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et
+qu'il porte sur un département, le plan de chasse est institué par le préfet sur
+proposition du directeur départemental de l'agriculture et de la forêt après
+avis du conseil départemental de la chasse et de la faune sauvage et du
+président de la fédération départementale des chasseurs. Le préfet peut
+instituer un plan de chasse dans les mêmes conditions pour une partie seulement
+du département à la condition que celle-ci constitue une unité de gestion de
+l'espèce.
 
-Lorsqu'il porte sur plusieurs départements ou sur une espèce de gibier d'eau,
-l'arrêté est pris après avis du Conseil national de la chasse et de la faune
-sauvage.
-
-Lorsqu'il porte sur un seul département ou une partie de département, l'arrêté
-est pris après avis du préfet. Le préfet formule son avis après avoir consulté
-le directeur départemental de l'agriculture et de la forêt et le président de la
-fédération départementale des chasseurs.
+Lorsqu'il concerne le gibier d'eau ou qu'il porte sur plusieurs départements, le
+plan de chasse est institué par le ministre chargé de la chasse après avis du
+Conseil national de la chasse et de la faune sauvage.
