@@ -16,16 +16,16 @@ code de la sécurité sociale ou relevant du II de l'article L. 727-2 du code
 rural ;
 
 4. Aux organismes entrant dans le champ de l'article L. 111-1 du code de la
-mutualité ;
+mutualité (1) ;
 
 5. Aux entreprises d'investissement, aux membres des marchés réglementés
 d'instruments financiers et aux personnes morales mentionnées aux articles L.
 421-8 et L. 442-2, ainsi qu'aux organismes de placement collectif en valeurs
 mobilières mentionnés au 1 du I de l'article L. 214-1, aux sociétés de gestion
-d'organismes de placements collectifs mentionnées au II de l'article L. 214-1,
-aux intermédiaires en biens divers mentionnés au titre V du présent livre, aux
+d'organismes de placements collectifs mentionnées à l'article L. 543-1, aux
+intermédiaires en biens divers mentionnés au titre V du présent livre, aux
 personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3
-et L. 341-4 et aux conseillers en investissements financiers.
+et L. 341-4 et aux conseillers en investissements financiers ;
 
 6. Aux changeurs manuels ;
 
@@ -33,13 +33,15 @@ et L. 341-4 et aux conseillers en investissements financiers.
 portant sur l'acquisition, la vente, la cession ou la location de biens
 immobiliers ;
 
-8. Aux représentants légaux et aux directeurs responsables de casinos ;
+8. Aux représentants légaux et aux directeurs responsables de casinos et aux
+groupements, cercles et sociétés organisant des jeux de hasard, des loteries,
+des paris, des pronostics sportifs ou hippiques ;
 
 9. Aux personnes se livrant habituellement au commerce ou organisant la vente de
-pierres précieuses, de matériaux précieux, d'antiquités et d'oeuvres d'art.
+pierres précieuses, de matériaux précieux, d'antiquités et d'oeuvres d'art ;
 
 10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L.
-511-7.
+511-7 ;
 
 11. Aux experts comptables et aux commissaires aux comptes ;
 
@@ -49,9 +51,9 @@ Conseil d'Etat et à la Cour de cassation, aux avocats et aux avoués près les
 cours d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
 
 13. Aux commissaires-priseurs judiciaires et aux sociétés de ventes volontaires
-de meubles aux enchères publiques.
-
-Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
-désignées sous le nom d'organismes financiers ;
+de meubles aux enchères publiques ;
 
 14. Aux intermédiaires habilités mentionnés à l'article L. 211-4.
+
+Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
+désignées sous le nom d'organismes financiers.
