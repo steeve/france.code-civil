@@ -1,10 +1,22 @@
 Article L162-16-1
 ----
-Le prix de vente au public de chacune des spécialités mentionnées à l'article L.
-162-17 peut être fixé par convention entre l'entreprise exploitant cette
-spécialité et le Comité économique du médicament conformément à l'article L.
-162-17-4 ou, à défaut, par arrêté des ministres chargés de la santé, de la
-sécurité sociale et de l'économie.
+Le prix de vente au public de chacun des médicaments mentionnés au premier
+alinéa de l'article L. 162-17 est fixé par convention entre l'entreprise
+exploitant le médicament et le comité économique du médicament conformément à
+l'article L. 162-17-4 ou, à défaut, par arrêté des ministres chargés de la
+sécurité sociale, de la santé et de l'économie, après avis du comité. La
+fixation de ce prix tient compte principalement de l'amélioration du service
+médical rendu apportée par le médicament, des prix des médicaments à même visée
+thérapeutique, des volumes de vente prévus ou constatés ainsi que des conditions
+prévisibles et réelles d'utilisation du médicament.
+
+Ce prix comprend les marges prévues par l'arrêté interministériel mentionné à
+l'article L. 162-38 ainsi que les taxes en vigueur.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article, et notamment les procédures et délais de fixation des prix.
+
+Sont constatées et poursuivies, dans les conditions fixées par le titre VI de
+l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et
+de la concurrence, les infractions aux conventions et arrêtés mentionnés
+ci-dessus.

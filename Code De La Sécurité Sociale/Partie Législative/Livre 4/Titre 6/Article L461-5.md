@@ -20,5 +20,6 @@ transmis immédiatement par la caisse primaire à l'inspecteur du travail charg�
 de la surveillance de l'entreprise ou, s'il y a lieu, au fonctionnaire qui en
 exerce les attributions en vertu d'une législation spéciale.
 
-Du jour de la cessation du travail court le délai de prescription prévu à
-l'article L. 431-2 .
+Sans préjudice des dispositions du premier alinéa de l'article L. 461-1, le
+délai de prescription prévu à l'article L. 431-2 court à compter de la cessation
+du travail.

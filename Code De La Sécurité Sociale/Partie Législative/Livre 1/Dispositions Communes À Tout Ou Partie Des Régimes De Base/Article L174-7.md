@@ -16,14 +16,3 @@ bénéficiaires de l'aide sociale dans les établissements énumérés à l'arti
 de la loi n° 75-535 du 30 juin 1975 modifiée sont supportées par les régimes
 d'assurance maladie ou au titre de l'aide sociale, suivant les modalités fixées
 par voie réglementaire, éventuellement suivant des formules forfaitaires.
-
-Le représentant de l'Etat peut augmenter les prévisions de recettes et de
-dépenses, mentionnées au 5° de l'article 26-1 de la loi no 75-535 du 30 juin
-1975, qui lui paraîtraient insuffisantes. Il peut également supprimer ou
-diminuer les prévisions de dépenses s'il estime celles-ci injustifiées ou
-excessives, compte tenu, d'une part, des conditions de satisfaction des besoins
-de la population, d'autre part, d'un taux moyen d'évolution des dépenses qui est
-fixé par arrêté interministériel, à partir des hypothèses économiques générales,
-notamment des prévisions d'évolution des prix et des salaires, et par référence
-à la politique sanitaire et sociale de l'Etat. La décision d'amputer ou de
-refuser une dépense doit être motivée.

@@ -14,11 +14,6 @@ sécurité sociale mentionnées à l'article 154 bis du code général des impô
 ajoutées au bénéfice pour le calcul de la contribution à l'exception de celles
 prises en compte dans le revenu défini à l'article L. 242-11.
 
-Sont soumis à la contribution les bénéfices non commerciaux et les bénéfices
-industriels et commerciaux au sens des dispositions du code général des impôts
-qui ne sont pas visés aux articles 128 et 130 de la présente loi, même s'ils ne
-sont pas visés à l'article L. 242-11.
-
 La contribution est, à titre provisionnel, assise sur le revenu professionnel de
 l'avant-dernière année précédant celle au titre de laquelle elle est due, puis
 ajustée sur le revenu professionnel de l'année précédente. Lorsque le revenu

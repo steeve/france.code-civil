@@ -19,6 +19,15 @@ du code général des impôts. Il n'est pas tenu compte des reports déficitaire
 des amortissements réputés différés au sens du 2° du 1 de l'article 39 du code
 général des impôts et des plus-values et moins-values à long terme.
 
+Sont également pris en compte, dans les conditions prévues au deuxième alinéa,
+les revenus tirés de la location de tout ou partie d'un fonds de commerce, d'un
+établissement artisanal, ou d'un établissement commercial ou industriel muni du
+mobilier ou du matériel nécessaire à son exploitation, que la location, dans ce
+dernier cas, comprenne ou non tout ou partie des éléments incorporels du fonds
+de commerce ou d'industrie, lorsque ces revenus sont perçus par une personne qui
+réalise des actes de commerce au titre de l'entreprise louée ou y exerce une
+activité.
+
 Les cotisations sont calculées, chaque année, à titre provisionnel, en
 pourcentage du revenu professionnel de l'avant-dernière année ou des revenus
 forfaitaires. Elles font l'objet d'un ajustement provisionnel calculé en

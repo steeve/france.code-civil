@@ -4,13 +4,14 @@ L'assurance maladie comporte :
 
 1°) la couverture des frais de médecine générale et spéciale, des frais de soins
 et de prothèses dentaires, des frais pharmaceutiques et d'appareils, des frais
-d'analyses et d'examens de laboratoire, des frais d'hospitalisation et de
-traitement dans des établissements de soins, de réadaptation fonctionnelle et de
-rééducation ou d'éducation professionnelle, ainsi que des frais d'interventions
-chirurgicales nécessaires pour l'assuré et les membres de sa famille, au sens
-fixé par l'article L. 313-3, y compris la couverture des médicaments, produits
-et objets contraceptifs et des frais d'analyses et d'examens de laboratoire
-ordonnés en vue de prescriptions contraceptives ;
+d'analyses et d'examens de laboratoire, y compris la couverture des frais
+relatifs aux actes d'investigation individuels, des frais d'hospitalisation et
+de traitement dans des établissements de soins, de réadaptation fonctionnelle et
+de rééducation ou d'éducation professionnelle, ainsi que des frais
+d'interventions chirurgicales nécessaires pour l'assuré et les membres de sa
+famille, au sens fixé par l'article L. 313-3, y compris la couverture des
+médicaments, produits et objets contraceptifs et des frais d'analyses et
+d'examens de laboratoire ordonnés en vue de prescriptions contraceptives ;
 
 2°) la couverture des frais de transport de l'assuré ou des ayants droit se
 trouvant dans l'obligation de se déplacer pour recevoir les soins ou subir les
@@ -46,4 +47,8 @@ du code de la santé publique ;
 
 7°) La couverture des frais afférents aux vaccinations dont la liste est fixée
 par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de la
-santé.
+santé ;
+
+8° La couverture des frais relatifs aux examens de dépistage effectués dans le
+cadre des programmes arrêtés en application des dispositions de l'article L. 55
+du code de la santé publique.

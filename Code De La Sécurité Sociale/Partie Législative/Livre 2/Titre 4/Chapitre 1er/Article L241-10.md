@@ -1,21 +1,29 @@
 Article L241-10
 ----
-Sans préjudice des droits du salarié concerné aux prestations correspondantes de
-sécurité sociale, la rémunération d'une aide à domicile est exonérée totalement
-des cotisations patronales d'assurances sociales, d'accidents du travail et
+I. - La rémunération d'une aide à domicile est exonérée totalement des
+cotisations patronales d'assurances sociales, d'accidents du travail et
 d'allocations familiales, lorsque celle-ci est employée effectivement à leur
-domicile et pour leur service personnel, par :
+service personnel, à leur domicile ou chez des membres de leur famille, par :
 
-a) Des personnes vivant seules et des couples vivant indépendamment des autres
-membres de leur famille, sous réserve de satisfaire à une condition d'âge
-déterminée par décret ;
+a) Des personnes ayant atteint un âge déterminé et dans la limite, par foyer, et
+pour l'ensemble des rémunérations versées, d'un plafond de rémunération fixé par
+décret ;
 
 b) Des personnes ayant à charge un enfant ouvrant droit au complément de
-l'allocation d'éducation spéciale mentionnée à l'article L. 541-1 ;
+l'allocation d'éducation spéciale mentionné à l'article L. 541-1 ;
 
-c) Des personnes vivant seules, se trouvant dans l'obligation de recourir à
-l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie
-et titulaires :
+c) Des personnes titulaires :
+
+- soit de l'allocation compensatrice pour tierce personne ;
+
+- soit d'une majoration pour tierce personne servie au titre de l'assurance
+invalidité, de la législation des accidents du travail ou d'un régime spécial de
+sécurité sociale ou de l'article L. 18 du code des pensions militaires
+d'invalidité et des victimes de la guerre ;
+
+d) Des personnes se trouvant, dans des conditions définies par décret, dans
+l'obligation de recourir à l'assistance d'une tierce personne pour accomplir les
+actes ordinaires de la vie et titulaires :
 
 - soit d'un avantage de vieillesse servi en application du présent code ou du
 code rural ;
@@ -24,20 +32,13 @@ code rural ;
 sociale, sous réserve d'avoir dépassé un âge déterminé par décret ;
 
 - soit d'une pension allouée aux militaires invalides au titre de l'article L. 2
-du code des pensions militaires d'invalidité et des victimes de guerre, sous
+du code des pensions militaires d'invalidité et des victimes de la guerre, sous
 réserve d'avoir dépassé un âge déterminé par décret ;
 
-- soit de l'allocation compensatrice pour tierce personne ;
-
-- soit d'une majoration pour tierce personne servie au titre de l'assurance
-invalidité, de la législation des accidents du travail ou d'un régime spécial de
-sécurité sociale ou de l'article L. 18 du code des pensions militaires
-d'invalidité et des victimes de guerre.
-
-d) Des personnes titulaires de la prestation spécifique dépendance visée à
-l'article 2 de la loi n° 97-60 du 24 janvier 1997 tendant à mieux répondre aux
-besoins des personnes âgées par l'institution d'une prestation spécifique
-dépendance.
+e) Des personnes remplissant, dans des conditions définies par décret, la
+condition de degré de dépendance prévue à l'article 2 de la loi n° 97-60 du 24
+janvier 1997 tendant à mieux répondre aux besoins des personnes âgées par
+l'institution d'une prestation spécifique dépendance.
 
 L'exonération est accordée sur la demande des intéressés par l'organisme chargé
 du recouvrement des cotisations dans les conditions fixées par arrêté
@@ -46,21 +47,52 @@ ministériel.
 Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domicile
 avec l'allocation de garde d'enfant à domicile prévue à l'article L. 533-1.
 
-Le bénéfice des dispositions du présent article est également ouvert dans les
-mêmes conditions aux personnes âgées ou handicapées adultes qui ont passé un
-contrat conforme aux dispositions du cinquième alinéa de l'article 6 de la loi
-n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur
-domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
+II. - Les personnes qui ont passé un contrat conforme aux dispositions du
+cinquième alinéa de l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative
+à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes
+âgées ou handicapées adultes sont exonérées totalement, dans les conditions
+prévues à l'avant-dernier alinéa du I, des cotisations patronales d'assurances
+sociales, d'accidents du travail et d'allocations familiales dues sur la
+rémunération qu'elles versent à ces particuliers.
 
-Le droit à l'exonération est également ouvert aux personnes ou aux couples
-vivant avec des membres de leur famille et remplissant la condition d'âge fixée
-au a ci-dessus ou se trouvant dans l'obligation de recourir à l'assistance d'une
-tierce personne pour accomplir les actes ordinaires de la vie et titulaires de
-l'un des avantages mentionnés au c ci-dessus, dès lors qu'ils emploient une aide
-à domicile pendant une durée au moins égale à un minimum fixé par décret.
+III. - Les rémunérations des aides à domicile employées sous contrat à durée
+indéterminée par les associations admises, en application de l'article L. 129-1
+du code du travail, à exercer des activités concernant la garde d'enfant ou
+l'assistance aux personnes âgées ou handicapées, les centres communaux et
+intercommunaux d'action sociale et les organismes habilités au titre de l'aide
+sociale ou ayant passé convention avec un organisme de sécurité sociale sont
+exonérées totalement des cotisations patronales d'assurances sociales,
+d'accidents du travail et d'allocations familiales pour la fraction versée en
+contrepartie de l'exécution des tâches effectuées chez les personnes visées aux
+b, c, d et e du I ou bénéficiaires de prestations d'aide ménagère aux personnes
+âgées ou handicapées au titre de l'aide sociale légale ou dans le cadre d'une
+convention conclue entre ces associations ou organismes et un organisme de
+sécurité sociale.
 
-Les rémunérations des aides à domicile employées par les associations agréées au
-titre de l'article L. 129-1 du code du travail, les organismes habilités au
-titre de l'aide sociale ou ayant passé convention avec un organisme de sécurité
-sociale bénéficient d'une exonération de 30 p. 100 des cotisations patronales
-d'assurances sociales, d'accidents du travail et d'allocations familiales.
+Un décret détermine les modalités d'application de l'exonération prévue par
+l'alinéa ci-dessus et notamment :
+
+- les informations et pièces que les associations, les centres communaux et
+intercommunaux d'action sociale et les organismes visés au précédent alinéa
+doivent produire auprès des organismes chargés du recouvrement des cotisations
+de sécurité sociale du régime général ;
+
+- les modalités selon lesquelles les organismes chargés du recouvrement des
+cotisations de sécurité sociale du régime général vérifient auprès des
+organismes servant les prestations mentionnées aux b, c, d et e du I ou les
+prestations d'aide ménagère visées au précédent alinéa que les personnes au
+titre desquelles cette exonération a été appliquée ont la qualité de
+bénéficiaires desdites prestations.
+
+Les rémunérations des aides à domicile ayant la qualité d'agent titulaire d'un
+centre communal ou intercommunal d'action sociale bénéficient d'une exonération
+de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de
+l'article R. 711-1 du présent code pour la fraction de ces rémunérations
+remplissant les conditions définies au premier alinéa du présent paragraphe.
+
+IV. - Par dérogation aux dispositions de l'article L. 131-7 du présent code,
+l'exonération prévue au III n'est pas compensée par le budget de l'Etat.
+
+V. - Les dispositions du présent article sont applicables aux périodes d'emploi
+postérieures au 31 décembre 1998 ; toutefois, la limite prévue au a du I est
+applicable aux périodes d'emploi postérieures au 31 mars 1999.

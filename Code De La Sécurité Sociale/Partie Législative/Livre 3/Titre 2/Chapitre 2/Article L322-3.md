@@ -28,7 +28,8 @@ titre d'un avantage vieillesse ;
 couverts au titre du 2° de l'article L. 321-1 ;
 
 7°) lorsque l'assuré est hébergé dans un établissement mentionné à l'article 3
-de la loi n° 75-535 du 30 juin 1975 ;
+de la loi n° 75-535 du 30 juin 1975 ou lorsqu'il bénéficie de soins dispensés
+par un centre mentionné à l'article L. 355-1-1 du code de la santé publique ;
 
 8°) lorsque l'assuré est hébergé dans une unité ou un centre de long séjour
 mentionné à l'article L. 174-5 ou à l'article 52.1 de la loi n° 70-1318 du 31
@@ -58,4 +59,7 @@ L. 341-16 et L. 371-1 en ce qui concerne les frais engagés pour eux-mêmes ;
 
 15°) pour les soins consécutifs aux sévices subis par les mineurs victimes
 d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27
-du code pénal.
+du code pénal ;
+
+16°) Pour les frais d'examens de dépistage effectués dans le cadre des
+programmes mentionnés au 8° de l'article L. 321-1.

@@ -28,11 +28,11 @@ acquittés par le cédant et le prix de souscription ou d'achat majoré, le cas
 échéant, des rémunérations visées au deuxième alinéa de l'article L. 242-1 du
 code de la sécurité sociale.
 
-f) Des revenus des locations meublées non professionnelles ;
-
-g) De tous autres revenus mentionnés à l'article 92 du code général des impôts
-et qui n'ont pas été assujettis à la contribution en application de l'article L.
-136-3.
+f) De tous revenus qui entrent dans la catégorie des bénéfices industriels et
+commerciaux, des bénéfices non commerciaux ou des bénéfices agricoles au sens du
+code général des impôts, à l'exception de ceux qui sont assujettis à la
+contribution sur les revenus d'activité et de remplacement définie aux articles
+L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
 application des abattements mentionnés au I de l'article 125-0 A et au 3 et au 4
@@ -53,7 +53,9 @@ supporté la contribution prévue à l'article L. 136-1.
 
 III. - La contribution portant sur les revenus mentionnés aux I et II ci-dessus
 est assise, contrôlée et recouvrée selon les mêmes règles et sous les mêmes
-sûretés, privilèges et sanctions que l'impôt sur le revenu.
+sûretés, privilèges et sanctions que l'impôt sur le revenu. Le produit de cette
+contribution est versé à l'Agence centrale des organismes de sécurité sociale
+sans déduction d'une retenue pour frais d'assiette et de perception.
 
 Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.
