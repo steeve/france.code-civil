@@ -1,12 +1,11 @@
 Article R314-16
 ----
-Les conventions prévues par les articles R. 314-4 et R. 314-5 et concernant les
-logements réservés aux personnels militaires ainsi que les avenants aux
-conventions déjà conclues sont, sauf en cas de délégation aux préfets donnée en
-application du décret n. 68-1070 du 29 novembre 1968, signés par le ministre de
-la défense sur proposition d'une commission dite "Commission d'études pour le
-logement des personnels militaires", présidée par ledit ministre et composée de
-:
+Les conventions prévues par l'article R. 314-4 et concernant les logements
+réservés aux personnels militaires ainsi que les avenants aux conventions déjà
+conclues sont, sauf en cas de délégation aux préfets donnée en application du
+décret n° 68-1070 du 29 novembre 1968, signés par le ministre de la défense sur
+proposition d'une commission dite "Commission d'études pour le logement des
+personnels militaires", présidée par ledit ministre et composée de :
 
 - deux représentants du ministre chargé de la construction et de l'habitation ;
 
