@@ -44,3 +44,8 @@ L'ensemble des dépenses constituant la valeur du risque est pris en compte par
 les caisses régionales d'assurance maladie dès que ces dépenses leur ont été
 communiquées par les caisses primaires, sans préjudice de l'application des
 décisions de justice ultérieures.
+
+Le montant des prestations et indemnités afférentes aux accidents du travail
+résultant d'une agression perpétrée au moyen d'armes à feu ou d'explosifs n'est
+pas imputé au compte de l'employeur lorsque celle-ci est attribuable à un tiers
+qui n'a pu être identifié.
