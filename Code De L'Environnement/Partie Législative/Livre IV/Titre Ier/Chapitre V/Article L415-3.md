@@ -2,10 +2,18 @@ Article L415-3
 ----
 Est puni de six mois d'emprisonnement et de 9 000 euros d'amende :
 
-1° Le fait de porter atteinte à la conservation d'espèces animales non
-domestiques ou végétales non cultivées en violation des interdictions prévues à
-l'article L. 411-1, à l'exception des perturbations intentionnelles, et des
-règlements pris en application de l'article L. 411-2 ;
+1° Le fait, en violation des interdictions prévues par les dispositions de
+l'article L. 411-1 et par les règlements pris en application de l'article L.
+411-2 :
+
+a) De porter atteinte à la conservation d'espèces animales non domestiques, à
+l'exception des perturbations intentionnelles ;
+
+b) De porter atteinte à la conservation d'espèces végétales non cultivées ;
+
+c) De détruire des sites contenant des fossiles permettant d'étudier l'histoire
+du monde vivant ainsi que les premières activités humaines, de détruire ou
+d'enlever des fossiles présents sur ces sites ;
 
 2° Le fait d'introduire volontairement dans le milieu naturel un spécimen d'une
 espèce animale ou végétale en violation des dispositions de l'article L. 411-3

@@ -1,6 +1,6 @@
 Article L531-1
 ----
-Au sens du présent titre et de l'article L. 124-3, on entend par :
+Au sens du présent titre et de l'article L. 125-3, on entend par :
 
 1° Organisme : toute entité biologique non cellulaire, cellulaire ou
 multicellulaire, capable de se reproduire ou de transférer du matériel génétique

@@ -16,6 +16,6 @@ morales de droit public mentionnées à l'alinéa précédent intervenues
 matériellement ou financièrement ont droit au remboursement, par le ou les
 responsables, des frais exposés par elles.
 
-Les chambres d'agriculture, les parcs naturels nationaux et les centres
+Les chambres d'agriculture, les parcs naturels régionaux et les centres
 régionaux de la propriété forestière peuvent également exercer les droits
 reconnus à la partie civile dans les conditions définies ci-dessus.

@@ -15,10 +15,11 @@ fonctionnement de l'installation présente pour les intérêts visés à l'artic
 desdits actes, ce délai étant, le cas échéant, prolongé jusqu'à la fin d'une
 période de deux années suivant la mise en activité de l'installation.
 
-II. - Les dispositions du I ne sont pas applicables aux décisions concernant les
-autorisations d'exploitation de carrières pour lesquelles le délai de recours
-est fixé à six mois à compter de l'achèvement des formalités de publicité de la
-déclaration de début d'exploitation transmise par l'exploitant au préfet.
+II. - Les dispositions du 2° du I ne sont pas applicables aux décisions
+concernant les autorisations d'exploitation de carrières pour lesquelles le
+délai de recours est fixé à six mois à compter de l'achèvement des formalités de
+publicité de la déclaration de début d'exploitation transmise par l'exploitant
+au préfet.
 
 Elles ne sont pas non plus applicables aux décisions concernant les
 autorisations d'exploitation d'installations classées concourant à l'exécution

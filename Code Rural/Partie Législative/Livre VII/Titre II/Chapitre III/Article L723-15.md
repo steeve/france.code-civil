@@ -6,7 +6,7 @@ cotisants, des caisses de mutualité sociale agricole forment trois collèges
 
 1° Le premier collège comprend :
 
-a) Les chefs d'exploitation ou d'entreprise mentionnés à l'article L. 722-1
+a) Les chefs d'exploitations ou d'entreprises mentionnées à l'article L. 722-1
 n'employant pas de main-d'oeuvre salariée à titre permanent ;
 
 b) Les membres non-salariés de leur famille travaillant sur l'exploitation ou
@@ -17,7 +17,7 @@ dans l'entreprise ;
 
 3° Le troisième collège comprend :
 
-a) Les chefs d'exploitation ou d'entreprise mentionnés à l'article L. 722-1
+a) Les chefs d'exploitations ou d'entreprises mentionnées à l'article L. 722-1
 employant une main-d'oeuvre salariée, à titre permanent ;
 
 b) Les membres non-salariés de leur famille travaillant sur l'exploitation ou

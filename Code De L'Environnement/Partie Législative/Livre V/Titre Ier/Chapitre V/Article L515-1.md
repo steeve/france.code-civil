@@ -25,3 +25,7 @@ classés appellation d'origine contrôlée, vin délimité de qualité supérieu
 dans les aires de production de vins de pays, à l'avis du ministre chargé de
 l'agriculture, après avis de l'Institut national des appellations d'origine et
 de l'Office national interprofessionnel des vins.
+
+La durée nécessaire à la réalisation des diagnostics et des opérations de
+fouilles d'archéologie préventive interrompt la durée de l'autorisation
+administrative d'exploitation de carrière.

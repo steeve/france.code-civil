@@ -4,7 +4,7 @@ Dans le cas d'avarie ou d'accident en mer survenu à tout navire, aéronef, engi
 ou plate-forme transportant ou ayant à son bord des substances nocives,
 dangereuses ou des hydrocarbures, et pouvant créer un danger grave d'atteinte au
 littoral ou aux intérêts connexes au sens de l'article II-4 de la convention de
-Bruxelles du 27 novembre 1969 sur l'intervention en haute mer en cas d'accident
+Bruxelles du 29 novembre 1969 sur l'intervention en haute mer en cas d'accident
 entraînant ou pouvant entraîner une pollution par les hydrocarbures, l'armateur
 ou le propriétaire du navire, le propriétaire ou l'exploitant de l'aéronef,
 engin ou plate-forme peuvent être mis en demeure de prendre toutes les mesures

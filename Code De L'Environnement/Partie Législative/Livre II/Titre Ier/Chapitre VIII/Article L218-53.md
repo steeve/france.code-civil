@@ -14,7 +14,8 @@ de l'Etat affectés aux services maritimes ainsi que les agents desdits services
 commissionnés à cet effet ;
 
 3° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat
-affectés au service des mines des arrondissements minéralogiques intéressés ;
+affectés à la direction régionale de l'industrie, de la recherche et de
+l'environnement intéressée ;
 
 4° Les officiers de port et officiers de port adjoints, les agents de la police
 de la navigation et de la surveillance des pêches maritimes ;

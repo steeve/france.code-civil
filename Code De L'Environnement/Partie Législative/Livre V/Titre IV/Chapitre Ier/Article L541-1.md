@@ -1,6 +1,6 @@
 Article L541-1
 ----
-I. - Les dispositions du présent chapitre et de l'article L. 124-1 ont pour
+I. - Les dispositions du présent chapitre et de l'article L. 125-1 ont pour
 objet :
 
 1° De prévenir ou réduire la production et la nocivité des déchets, notamment en

@@ -6,8 +6,8 @@ travaux prescrits par l'arrêté visé à l'article L. 581-27, s'il n'a pas ét�
 procédé à leur exécution dans le délai fixé par cet arrêté.
 
 Les frais de l'exécution d'office sont supportés par la personne à qui a été
-notifié l'arrêté, sauf si cette personne est exemptée de l'astreinte en
-application des dispositions du troisième alinéa de l'article L. 581-30.
+notifié l'arrêté, sauf si l'exécution des dispositions de cet arrêté relatives à
+l'astreinte a été suspendue par le juge administratif des référés.
 
 L'administration est tenue de notifier, au moins huit jours à l'avance, à la
 personne privée propriétaire ou occupant des lieux, la date de commencement des
