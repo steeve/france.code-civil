@@ -1,8 +1,7 @@
 Article 337
 ----
-Le taux de la cotisation est fixé par arrêté conjoint du ministre du
-développement industriel et scientifique et du ministre de l'économie et des
-finances (1), sans pouvoir dépasser 0,062 % du montant du chiffre d'affaires
-imposable.
-
-1) Annexe IV, art. 159 A.
+Les taxes parafiscales dont l'assiette est commune avec les impôts ou taxes
+perçus au profit de l'Etat ou de toute autre collectivité sont assises,
+liquidées et recouvrées suivant les mêmes règles, sous les mêmes garanties et
+les mêmes sanctions que lesdits impôts et taxes. Les réclamations sont,
+présentées et jugées comme celles qui concernent ces impôts et taxes.

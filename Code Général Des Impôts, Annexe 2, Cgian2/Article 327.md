@@ -1,9 +1,6 @@
 Article 327
 ----
-Sur le montant des encaissements effectués par le service des impôts au titre
-des contributions visées à l'article 325, il est opéré un prélèvement de 2 %
-[*pourcentage*].
-
-Ce prélèvement sert à couvrir dans les limites et conditions fixées par arrêté
-du ministre chargé des finances, les dépenses de matériel et de personnel
-résultant des recouvrements effectués pour le compte du fonds de garantie.
+Les dispositions du troisième alinéa du I de l'article 1638 du code général des
+impôts ne sont applicables que lorsque la section de commune ou la portion du
+territoire communal réunie à une autre commune compte au moins cinquante
+habitants à la date de la décision prononçant la mesure de rattachement.

@@ -1,9 +1,8 @@
 Article 335
 ----
-Les entreprises ressortissant au centre d'études techniques des industries de
-l'habillement, qui fabriquent, font fabriquer, façonnent ou assurent la
-présentation définitive des produits, sont redevables, pour le fonctionnement de
-ce centre, d'une cotisation. Sous réserve des dispositions des articles 336 à
-338, cette cotisation est assise et recouvrée par la direction générale des
-impôts [*autorité compétente*] suivant les mêmes règles, sous les mêmes
-garanties et les mêmes sanctions que la taxe sur la valeur ajoutée.
+Les taxes parafiscales sont établies par décret en Conseil d'Etat pris sur le
+rapport du ministre chargé du budget et du ou des ministres intéressés et
+obligatoirement contresigné par le ministre de l'économie. Ces décrets fixent
+l'affectation, l'assiette, le fait générateur, les règles de liquidation et de
+recouvrement de ces taxes ainsi que leur durée, qui ne peut en aucun cas excéder
+cinq ans, et leur taux ou une limite maximum pour ce taux.

@@ -7,11 +7,7 @@ directement, au profit d'un fonds départemental de la taxe professionnelle, un
 prélèvement égal au produit du montant des bases excédentaires par le taux en
 vigueur dans la commune.
 
-Le seuil d'écrêtement défini au premier alinéa est substitué à celui de 10.000
-F, mentionné au sixième alinéa, lorsqu'il devient supérieur.
-
-Les versements au fonds départemental, au titre de 1979, doivent être effectués
-avant le 31 mars 1980 [*date limite*].
+(Périmé).
 
 Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référence
 à cette notion, est prise en compte la valeur nette des bases de taxe
@@ -22,20 +18,14 @@ un groupe de communes auquel elle versait, avant le 1er janvier 1976, une
 contribution budgétaire calculée par référence au produit global de sa taxe
 professionnelle ou s'était engagée, avant cette date, par accord conventionnel,
 à reverser une partie de ce produit à une ou plusieurs communes voisines, il est
-appliqué sur les bases de cette commune, pour l'application des premier à
-quatrième alinéas, une réduction de bases correspondant au montant des sommes en
+appliqué sur les bases de cette commune, pour l'application des premier et
+deuxième alinéas, une réduction de bases correspondant au montant des sommes en
 cause.
 
-Pour les établissements créés avant le 1er janvier 1976, le seuil d'écrêtement
-est fixé à 10.000 F ; la part qui correspond à cet excédent n'est prélevée qu'à
-compter de 1979 et elle est réduite de 80 % au titre de cette même année, de 60
-% au titre de 1980, de 50 % au titre de 1981, de 40 % au titre de 1982, de 30 %
-au titre de 1983, de 20 % au titre de 1984 et de 10 % au titre de 1985.
-
-De plus, pour ces établissements, à l'exception de ceux produisant de l'énergie
-ou traitant des combustibles, l'assiette du prélèvement est limitée de manière
-que la commune conserve au moins 80 % du montant des bases de taxe
-professionnelle imposables à son profit en 1979.
+(Périmé). Pour les établissements créés avant le 1er janvier 1976, à l'exception
+de ceux produisant de l'énergie ou traitant des combustibles, l'assiette du
+prélèvement est limitée de manière que la commune conserve au moins 80 % du
+montant des bases de taxe professionnelle imposables à son profit en 1979.
 
 Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations
 nouvelles.
