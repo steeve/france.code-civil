@@ -13,9 +13,6 @@ Les locaux sans caractère industriel ou commercial loués par l'Etat, les
 départements, les communes et les établissements publics, scientifiques,
 d'enseignement et d'assistance et affectés à un service public,
 
-Les locaux situés dans la partie de la commune où ne fonctionne pas le service
-d'enlèvement des ordures.
-
 III. 1. Les conseils municipaux déterminent annuellement les cas où les locaux à
 usage industriel ou commercial peuvent être exonérés de la taxe. La liste des
 établissements exonérés est affichée à la porte de la mairie.
@@ -35,3 +32,7 @@ suivant celle de la demande.
 3. Les exonérations visées aux 1 et 2 sont décidées par les organes délibérants
 des groupements de communes lorsque ces derniers sont substitués aux communes
 pour l'institution de la taxe d'enlèvement des ordures ménagères.
+
+4. Sauf délibération contraire des communes ou des organes délibérants de leurs
+groupements, les locaux situés dans la partie de la commune où ne fonctionne pas
+le service d'enlèvement des ordures sont exonérés de la taxe.

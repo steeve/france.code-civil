@@ -1,7 +1,7 @@
 Article 46 quater-0 YN
 ----
-Pour la détermination des dépenses visées aux b, c, d et e du 1° du A du III et
-aux b, c, d et e du 2° du A du III de l'article 220 sexies du code général des
+Pour la détermination des dépenses visées aux b, c, d et e du 1° du 1 du III et
+aux b, c, d et e du 2° du 1 du III de l'article 220 sexies du code général des
 impôts, il y a lieu de retenir les dotations aux amortissements fiscalement
 déductibles afférentes aux immobilisations détenues par l'entreprise de
 production déléguée et affectées directement à la réalisation de l'oeuvre

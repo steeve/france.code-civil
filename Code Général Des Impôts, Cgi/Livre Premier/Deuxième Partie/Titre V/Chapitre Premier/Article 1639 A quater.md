@@ -36,4 +36,4 @@ d'application ou sont applicables pour la première fois l'année suivant celle 
 la fusion ;
 
 b. Pour la première année suivant celle de la fusion lorsqu'elle sont prises en
-application des articles 1382 B, 1395 C, 1396, 1411 et 1518 A.
+application des articles 1382 B, 1382 C, 1395 C, 1396, 1411 et 1518 A.

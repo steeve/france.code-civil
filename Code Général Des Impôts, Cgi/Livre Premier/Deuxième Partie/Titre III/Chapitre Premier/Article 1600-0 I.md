@@ -6,4 +6,4 @@ sécurité sociale à l'exception de ceux ayant déjà supporté la contribution
 titre des 3 et 4 du I de l'article 1600-0 J.
 
 Cette contribution est assise, recouvrée et contrôlée selon les modalités
-prévues au II de l'article L. 136-7 du code de la sécurité sociale.
+prévues au V et VI de l'article L. 136-7 du code de la sécurité sociale.

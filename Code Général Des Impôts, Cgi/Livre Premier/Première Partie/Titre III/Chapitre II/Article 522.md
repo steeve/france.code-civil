@@ -1,10 +1,10 @@
 Article 522
 ----
-Les titres légaux des ouvrages d'or ou contenant de l'or ainsi que les titres
-légaux des ouvrages en argent ou en platine sont les suivants :
+Les titres légaux des ouvrages d'or ainsi que les titres légaux des ouvrages en
+argent ou en platine sont les suivants :
 
-a) 999 millièmes, 916 millièmes et 750 millièmes pour les ouvrages en or ; 585
-millièmes et 375 millièmes pour les ouvrages contenant de l'or ;
+a) 999 millièmes, 916 millièmes, 750 millièmes, 585 millièmes et 375 millièmes
+pour les ouvrages en or ;
 
 b) 999 millièmes, 925 millièmes et 800 millièmes pour les ouvrages en argent ;
 
@@ -17,4 +17,4 @@ Aucune tolérance négative de titre n'est admise.
 
 Le titre des ouvrages est garanti par l'Etat, par les organismes de contrôle
 agréés par l'Etat ou par les professionnels habilités par une convention conclue
-avec l'administration des douanes et droits indirects (1).
+avec l'administration des douanes et droits indirects.

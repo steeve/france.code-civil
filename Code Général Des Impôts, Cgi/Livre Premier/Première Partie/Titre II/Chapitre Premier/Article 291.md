@@ -64,6 +64,8 @@ ministre du budget ;
 
 9° (Abrogé à compter du 1er janvier 1995).
 
+10° Les importations de gaz naturel ou d'électricité.
+
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 
 1° La réimportation, par la personne qui les a exportés, de biens dans l'état où

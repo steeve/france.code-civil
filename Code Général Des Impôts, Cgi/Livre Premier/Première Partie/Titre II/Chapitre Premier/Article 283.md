@@ -24,6 +24,11 @@ première ou de produits semi-ouvrés d'une pureté égale ou supérieure à 325
 millièmes, la taxe est acquittée par le destinataire. Toutefois, le vendeur est
 solidairement tenu au paiement de la taxe.
 
+2 quinquies. Pour les livraisons mentionnées au III de l'article 258, la taxe
+est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe
+sur la valeur ajoutée en France lorsque son fournisseur est établi hors de
+France.
+
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture
 est redevable de la taxe du seul fait de sa facturation.
 

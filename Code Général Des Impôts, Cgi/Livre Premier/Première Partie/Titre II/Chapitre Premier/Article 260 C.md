@@ -21,7 +21,7 @@ l'épargne, aux profits tirés des pensions réalisées dans les conditions pré
 par les articles L. 432-12 à L. 432-19 du code monétaire et financier ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est
-établie par arrêté du ministre chargé des finances (1) ;
+établie par arrêté du ministre chargé des finances ;
 
 6° Aux cessions de valeurs mobilières et de titres de créances négociables ;
 
@@ -34,29 +34,19 @@ créances ou en rémunération de la gestion des créances cédées ;
 9° Aux opérations bancaires afférentes au financement d'exportations, de
 livraisons exonérées en vertu du I de l'article 262 ter ou d'opérations situées
 hors de France, dont la liste est fixée par arrêté du ministre chargé du budget
-(2) ; toutefois, l'option englobe les commissions afférentes au financement
+; toutefois, l'option englobe les commissions afférentes au financement
 d'exportations ou de livraisons exonérées en vertu du I de l'article 262 ter
 lorsque, par l'effet de l'option, les commissions de même nature sont
 elles-mêmes soumises à la taxe sur la valeur ajoutée en régime intérieur ;
 
 10° Aux opérations soumises à la taxe sur les conventions d'assurance ;
 
-11° Aux opérations visées aux d et g du 1° de l'article 261 C (3) ;
+11° Aux opérations visées aux d et g du 1° de l'article 261 C ;
 
 12° Aux commissions perçues lors de l'émission et du placement d'emprunts
-obligataires (4).
+obligataires et d'actions.
 
 13° Abrogé.
 
 14° Aux opérations portant sur les produits de capitalisation relevant du code
 des assurances.
-
-(1) Annexe IV, art. 23 O.
-
-(2) Voir l'article 23 P de l'annexe IV.
-
-(3) Disposition applicable à compter du 29 juillet 1991 ; en ce concerne
-l'incidence sur les droits à déduction, voir le deuxième alinéa de l'article 214
-de l'annexe II.
-
-(4) Disposition applicable à compter du 1er janvier 1994 ;

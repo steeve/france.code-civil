@@ -4,8 +4,8 @@ I. Les personnes physiques qui prennent des engagements d'épargne à long terme
 sont exonérées de l'impôt sur le revenu à raison des produits des placements en
 valeurs mobilières effectués en vertu de ces engagements.
 
-II. Le crédit d'impôt ou l'avoir fiscal attaché à ces produits est porté au
-crédit du compte d'épargne qui retrace les engagements pris.
+II. Le crédit d'impôt attaché à ces produits est porté au crédit du compte
+d'épargne qui retrace les engagements pris.
 
 III. Le bénéfice des dispositions qui précèdent est subordonné aux conditions
 suivantes :

@@ -9,8 +9,8 @@ suivants :
 1° A l'expédition ou à la livraison si elle est assujettie et identifiée à la
 TVA ou si elle a désigné un mandataire ponctuel mentionné à l'article 95 B ou un
 représentant conformément à l'article 289 A du code général des impôts, et ne
-bénéficie pas des franchises prévues aux articles 293 B et 298 bis A du code
-général des impôts ;
+bénéficie pas de la franchise prévue à l'article 293 B du code général des
+impôts ;
 
 2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions
 prévues à l'article 20-5 du règlement (C.E.E.) n° 3330-91, un montant annuel
@@ -24,3 +24,7 @@ membre de la Communauté européenne n'est pas tenue de s'identifier à la taxe 
 la valeur ajoutée en France conformément au II de l'article 95, la déclaration
 afférente aux acquisitions intracommunautaires visées au 4° du I de l'article
 277 A du même code est souscrite par la personne mentionnée à l'article 85 D.
+
+Pour les opérations portant sur l'électricité ou le gaz naturel acheminé par
+conduite, la déclaration est souscrite par la personne chargée de la gestion du
+réseau de transport permettant l'échange entre la France et les autres pays.

@@ -9,7 +9,7 @@ l'article 119 bis du code général des impôts ;
 2° Au prélèvement sur les produits de placement à revenu fixe prévu à l'article
 125 A ;
 
-3° Au précompte prévu à l'article 223 sexies ;
+3° (abrogé).
 
 4° (abrogé).
 

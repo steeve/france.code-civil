@@ -11,7 +11,9 @@ qui s'y rapportent, sont dues par le destinataire de l'opération imposable.
 Les dispositions du premier alinéa ne sont pas applicables lorsque les personnes
 non établies dans la communauté européenne réalisent uniquement des opérations
 mentionnées au I de l'article 277 A en suspension du paiement de la taxe sur la
-valeur ajoutée.
+valeur ajoutée ou lorsqu'elles réalisent uniquement des livraisons de gaz
+naturel ou d'électricité pour lesquelles la taxe est due en France par
+l'acquéreur conformément aux dispositions du 2 quinquies de l'article 283.
 
 II Pour l'application du 2 de l'article 283 et à défaut du paiement de la taxe
 par le preneur, le prestataire non établi dans la Communauté européenne est tenu

@@ -1,9 +1,9 @@
 Article 213
 ----
-L'empreinte du poinçon de maître des fabricants d'ouvrages d'or ou contenant de
-l'or, d'argent et de platine visés à l'article 545 du code général des impôts
-doit avoir la forme d'un pentagone irrégulier dont tous les côtés sont égaux et
-représentant un carré surmonté d'un triangle.
+L'empreinte du poinçon de maître des fabricants d'ouvrages d'or, d'argent et de
+platine visés à l'article 545 du code général des impôts doit avoir la forme
+d'un pentagone irrégulier dont tous les côtés sont égaux et représentant un
+carré surmonté d'un triangle.
 
 Les proportions de ce poinçon sont fixées par le fabricant, selon le genre et la
 dimension de l'objet fabriqué.

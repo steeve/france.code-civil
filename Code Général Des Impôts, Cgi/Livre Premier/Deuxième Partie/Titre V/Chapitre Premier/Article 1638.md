@@ -20,7 +20,7 @@ supprimées à partir de la treizième année.
 Les dispositions des premier et deuxième alinéas sont également applicables dans
 le cas de réunion d'une section de commune ou d'une portion du territoire d'une
 commune à une autre commune. Un décret en Conseil d'Etat précise les conditions
-d'application du présent alinéa (1).
+d'application du présent alinéa.
 
 II. Les dispositions du premier alinéa du I ne s'appliquent pas lorsque, pour
 chacune des taxes en cause, le taux d'imposition appliqué dans la commune
@@ -28,4 +28,6 @@ préexistante la moins imposée était égal ou supérieur à 80 % du taux
 d'imposition correspondant appliqué dans la commune préexistante la plus imposée
 pour l'année antérieure à l'établissement du premier des douze budgets susvisés.
 
-(1) Annexe II, art. 327 A.
+III. - L'arrêté de fusion de communes pris par le représentant de l'Etat dans le
+département ne produit ses effets au plan fiscal à compter de l'année suivante
+qu'à la condition qu'il intervienne avant le 1er octobre de l'année.

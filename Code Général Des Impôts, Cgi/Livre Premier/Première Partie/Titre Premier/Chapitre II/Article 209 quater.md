@@ -4,6 +4,9 @@ Article 209 quater
 l'article 219 diminuées du montant de cet impôt, sont portées à une réserve
 spéciale.
 
+L'inscription à cette réserve spéciale cesse pour les plus-values imposées au
+titre des exercices ouverts à compter du 1er janvier 2004.
+
 2. Les sommes prélevées sur cette réserve sont rapportées aux résultats de
 l'exercice en cours lors de ce prélèvement, sous déduction de l'impôt perçu lors
 de la réalisation des plus-values correspondantes.
@@ -12,7 +15,7 @@ de la réalisation des plus-values correspondantes.
 
 a. Si la société est dissoute ;
 
-b. En cas d'incorporation au capital ;
+b. En cas d'incorporation au capital intervenue avant le 1er janvier 2005 ;
 
-c. En cas d'imputation de pertes sur la réserve spéciale ; les pertes ainsi
-annulées cessent d'être reportables.
+c. En cas d'imputation de pertes sur la réserve spéciale avant le 1er janvier
+2005 ; les pertes ainsi annulées cessent d'être reportables.

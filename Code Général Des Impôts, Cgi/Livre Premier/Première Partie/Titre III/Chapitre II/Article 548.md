@@ -16,26 +16,32 @@ deuxième alinéa du I de l'article 535.
 
 Dans ce cas, les ouvrages sont revêtus par l'importateur, dans ses locaux, des
 poinçons de responsabilité et de garantie dans les conditions fixées par décret
-en Conseil d'Etat (1).
+en Conseil d'Etat.
 
-Les ouvrages aux titres légaux, fabriqués ou mis en libre pratique dans un Etat
-membre de l'Union européenne, comportant déjà l'empreinte, d'une part, d'un
-poinçon de fabricant ou d'un poinçon de responsabilité et, d'autre part, d'un
-poinçon de titre, enregistrés dans cet Etat, peuvent être commercialisés sur le
-territoire national sans contrôle préalable d'un bureau de garantie français ou
-d'un organisme agréé français, selon le cas, à la condition que le poinçon de
-fabricant dont ils sont revêtus ait été déposé au service de l'administration ou
-à un organisme de contrôle agréé (1) et le poinçon de titre reconnu par ce
-service. Toutefois les personnes qui les commercialisent sur le territoire
-national ont la faculté de présenter ces ouvrages à la garantie pour y être
-essayés et insculpés du poinçon de titre français. En l'absence de l'une de ces
-empreintes, ces ouvrages sont soumis aux dispositions des quatre premiers
-alinéas (1).
+Les ouvrages aux titres légaux, fabriqués ou mis en libre pratique dans un autre
+Etat membre de la Communauté européenne ou importés d'un autre Etat partie à
+l'accord instituant l'Espace économique européen ou de Turquie, comportant déjà
+l'empreinte, d'une part, d'un poinçon de fabricant ou d'un poinçon de
+responsabilité et, d'autre part, d'un poinçon de titre enregistrés dans cet Etat
+peuvent être commercialisés sur le territoire national sans contrôle préalable
+d'un bureau de garantie français ou d'un organisme de contrôle agréé selon le
+cas. Le poinçon de titre doit être apposé par un organisme indépendant ou par
+l'administration compétente de l'Etat concerné selon des normes identiques ou
+équivalentes à celles exigées en France pour le contrôle et la certification du
+titre. Les services en charge de la garantie publient une liste des Etats
+membres ou Etats associés utilisant des systèmes de contrôle et de certification
+des titres de métal précieux équivalents ou identiques au système français,
+ainsi qu'une liste des organismes de contrôle habilités par ces Etats et des
+poinçons qu'ils utilisent. Toutefois, les personnes qui les commercialisent sur
+le territoire national ont la faculté de présenter ces ouvrages au bureau de
+garantie ou à un organisme de contrôle agréé pour y être testés et marqués du
+poinçon de garantie français. En l'absence de l'une de ces empreintes, ces
+ouvrages sont soumis aux dispositions des quatre premiers alinéas.
 
-Les fabricants ou leurs représentants ou les professionnels responsables de
-l'introduction en France de leurs ouvrages en provenance des autres Etats
-membres de l'Union européenne doivent déposer leur poinçon au service de la
-garantie préalablement à toute opération.
+Lorsqu'ils apposent un poinçon de responsabilité, les professionnels
+responsables de l'importation et de l'introduction en France d'ouvrages en
+métaux précieux doivent déposer leur poinçon au service de la garantie
+préalablement à toute opération.
 
 Sont exemptés des dispositions ci-dessus :
 

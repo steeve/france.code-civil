@@ -5,9 +5,9 @@ et 202 lorsque les sociétés ou organismes placés sous le régime des sociét�
 personnes défini aux articles 8 à 8 ter cessent totalement ou partiellement
 d'être soumis à ce régime ou s'ils changent leur objet social ou leur activité
 réelle ou lorsque les personnes morales mentionnées aux articles 238 ter, 239
-quater A, 239 quater B, 239 quater C, 239 septies et au paragraphe I des
-articles 239 quater et 239 quinquies deviennent passibles de l'impôt sur les
-sociétés.
+quater A, 239 quater B, 239 quater C, 239 quater D, 239 septies et au paragraphe
+I des articles 239 quater et 239 quinquies deviennent passibles de l'impôt sur
+les sociétés.
 
 Toutefois en l'absence de création d'une personne morale nouvelle, les bénéfices
 en sursis d'imposition, les plus-values latentes incluses dans l'actif social et
@@ -27,13 +27,13 @@ II. Si une société ou un organisme dont les revenus n'ont pas la nature de
 bénéfices d'une entreprise industrielle, commerciale, artisanale ou minière,
 d'une exploitation agricole ou d'une activité non commerciale cesse totalement
 ou partiellement d'être soumis à l'un des régimes définis aux articles 8 à 8
-ter, 238 ter, 239 quater A, 239 quater B, 239 quater C, 239 septies et au I des
-articles 239 quater et 239 quinquies, l'impôt sur le revenu est établi au titre
-de la période d'imposition précédant immédiatement le changement de régime, à
-raison des revenus et des plus-values non encore imposés à la date du changement
-de régime, y compris ceux qui proviennent des produits acquis et non encore
-perçus ainsi que des plus-values latentes incluses dans le patrimoine ou l'actif
-social.
+ter, 238 ter, 239 quater A, 239 quater B, 239 quater C, 239 quater D, 239
+septies et au I des articles 239 quater et 239 quinquies, l'impôt sur le revenu
+est établi au titre de la période d'imposition précédant immédiatement le
+changement de régime, à raison des revenus et des plus-values non encore imposés
+à la date du changement de régime, y compris ceux qui proviennent des produits
+acquis et non encore perçus ainsi que des plus-values latentes incluses dans le
+patrimoine ou l'actif social.
 
 Toutefois, en l'absence de création d'une personne morale nouvelle, ces
 dernières plus-values ne sont pas taxées dans les conditions prévues au premier

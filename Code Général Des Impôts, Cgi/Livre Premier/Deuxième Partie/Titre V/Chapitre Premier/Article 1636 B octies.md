@@ -4,17 +4,17 @@ I. (Abrogé).
 
 II. Les produits des taxes spéciales d'équipement perçues au profit des
 établissements publics fonciers visés à l'article L. 324-1 du code de
-l'urbanisme et au b de l'article L. 321-1 du même code, de l'établissement
-public foncier de Normandie, de l'établissement public foncier de Lorraine, de
-l'établissement public foncier du Nord - Pas-de-Calais, de l'établissement
-public d'aménagement de la Guyane, des agences pour la mise en valeur des
-espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe et
-en Martinique, de l'établissement public foncier de l'Ouest Rhône-Alpes et de
-l'établissement public foncier de Provence-Alpes-Côte d'Azur sont répartis entre
-les taxes foncières, la taxe d'habitation et la taxe professionnelle
-proportionnellement aux recettes que chacune de ces taxes a procurées l'année
-précédente à l'ensemble des communes et de leurs groupements situés dans le
-ressort de ces établissements.
+l'urbanisme, de l'établissement public d'aménagement de la Basse-Seine, de
+l'établissement public de la métropole lorraine, de l'établissement public
+foncier du Nord - Pas-de-Calais, de l'établissement public d'aménagement de la
+Guyane, des agences pour la mise en valeur des espaces urbains de la zone dite
+des cinquante pas géométriques en Guadeloupe et en Martinique, de
+l'établissement public foncier de l'Ouest Rhône-Alpes et de l'établissement
+public foncier de Provence-Alpes-Côte d'Azur sont répartis entre les taxes
+foncières, la taxe d'habitation et la taxe professionnelle proportionnellement
+aux recettes que chacune de ces taxes a procurées l'année précédente à
+l'ensemble des communes et de leurs groupements situés dans le ressort de ces
+établissements.
 
 III. - Pour l'application du II, les recettes s'entendent de celles figurant
 dans des rôles généraux. Elles sont majorées du montant perçu l'année précédente

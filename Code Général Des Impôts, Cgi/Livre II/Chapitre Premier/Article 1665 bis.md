@@ -13,8 +13,7 @@ suivant la période d'activité de six mois.
 
 La régularisation de cet acompte intervient lors de la liquidation de l'impôt
 afférent aux revenus de l'année du paiement de cet acompte, après imputation
-éventuelle des différents crédits d'impôt, de l'avoir fiscal et de la prime pour
-l'emploi.
+éventuelle des différents crédits d'impôt et de la prime pour l'emploi.
 
 Les demandes formulées sur la base de renseignements inexacts en vue d'obtenir
 le paiement d'un acompte donnent lieu à l'application d'une amende fiscale de

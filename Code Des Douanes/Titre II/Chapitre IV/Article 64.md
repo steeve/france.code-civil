@@ -5,7 +5,8 @@ Article 64
 par le directeur général des douanes et droits indirects peuvent procéder à des
 visites en tous lieux, même privés, où les marchandises et documents se
 rapportant à ces délits sont susceptibles d'être détenus et procéder à leur
-saisie. Ils sont accompagnés d'un officier de police judiciaire.
+saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police
+judiciaire.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une
 ordonnance du juge des libertés et de la détention du tribunal de grande

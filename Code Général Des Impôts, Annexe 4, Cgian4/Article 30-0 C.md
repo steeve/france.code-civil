@@ -1,9 +1,9 @@
 Article 30-0 C
 ----
 Les ascenseurs et matériels assimilés soumis au taux réduit de la taxe sur la
-valeur ajoutée en application du cinquième alinéa de l'article 278 quinquies du
-code général des impôts sont les matériels suivants, spécialement conçus pour le
-déplacement d'une personne handicapée :
+valeur ajoutée en application du quatrième alinéa du II de l'article 278
+quinquies du code général des impôts sont les matériels suivants, spécialement
+conçus pour le déplacement d'une personne handicapée :
 
 1. Les appareils élévateurs verticaux, installés à demeure, comportant une
 plate-forme aménagée en vue du transport d'une personne handicapée, debout ou en

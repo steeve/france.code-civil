@@ -19,7 +19,7 @@ déterminée conformément au a ;
 c. Le montant de la redevance audiovisuelle applicable aux appareils installés
 dans les débits de boissons à consommer sur place de 2e, 3e et 4e catégories
 visés à l'article L. 3331-1 du code de la santé publique est égal à quatre fois
-le montant fixé au III de l'article 1605 du présent code ;
+le montant fixé au III de l'article 1605 ;
 
 2° N'entrent pas dans le champ d'application de la redevance audiovisuelle :
 
@@ -56,7 +56,7 @@ et du Sénat ;
 
 a. Les personnes morales de droit public pour leurs activités non assujetties à
 la taxe sur la valeur ajoutée en application des dispositions du premier alinéa
-de l'article 256 B du présent code ;
+de l'article 256 B ;
 
 b. Les associations caritatives hébergeant des personnes en situation
 d'exclusion ;
@@ -66,25 +66,25 @@ L. 312-1 du code de l'action sociale et des familles gérés par une personne
 publique et habilités à recevoir des bénéficiaires de l'aide sociale en
 application des articles L. 313-6 et L. 313-8-1 du même code ;
 
-d. Les établissements et services sociaux et médico-sociaux visés par l'article
-L. 312-1 du code de l'action sociale et des familles gérés par une personne
-privée lorsqu'ils ont été habilités à recevoir des bénéficiaires de l'aide
-sociale en application des articles L. 313-6 et L. 313-8-1 du même code ;
+d. Les établissements et services sociaux et médico-sociaux visés par l' article
+L. 312-1 précité gérés par une personne privée lorsqu'ils ont été habilités à
+recevoir des bénéficiaires de l'aide sociale en application des articles L.
+313-6 et L. 313-8-1 précités ;
 
 e. Les établissements de santé visés par les titres IV et VI du livre Ier de la
 sixième partie du code de la santé publique ;
 
 4° Lorsque l'appareil ou le dispositif de réception est loué auprès d'une
 entreprise, le locataire doit la redevance audiovisuelle à raison d'un
-vingt-sixième du tarif fixé au III de l'article 1605 du présent code, par
-semaine ou fraction de semaine de location.
+vingt-sixième du tarif fixé au III de l'article 1605, par semaine ou fraction de
+semaine de location.
 
 Le locataire paie la redevance audiovisuelle entre les mains de l'entreprise de
 location en sus du loyer.
 
 L'entreprise de location reverse le montant des redevances perçues au service de
 l'administration chargée de recouvrer la redevance audiovisuelle dans les
-conditions prévues aux 5° et 6° du présent article ;
+conditions prévues aux 5° et 6° ;
 
 5° Les personnes physiques ou morales mentionnées au 2° du II de l'article 1605
 et redevables de la taxe sur la valeur ajoutée déclarent la redevance
@@ -104,7 +104,7 @@ c. Sur la déclaration annuelle mentionnée au 1° du I de l'article 298 bis et
 déposée dans le courant de l'année au cours de laquelle la redevance
 audiovisuelle est due, pour les exploitants agricoles imposés à la taxe sur la
 valeur ajoutée selon le régime simplifié mentionné à cet article. Pour ceux de
-ces redevables qui ont exercé l'option prévue au troisième alinéa du I de
+ces redevables qui ont exercé l'option prévue au quatrième alinéa du I de
 l'article 1693 bis, la redevance audiovisuelle est déclarée sur la déclaration
 déposée au titre du premier trimestre de l'année au cours de laquelle elle est
 due.

@@ -1,8 +1,8 @@
 Article 215
 ----
-Les ouvrages d'or ou contenant de l'or, d'argent et de platine à tous titres non
-légaux doivent être revêtus du poinçon visé à l'article 213 dès la fin de la
-fabrication et avant tout polissage ou vernissage.
+Les ouvrages d'or, d'argent et de platine à tous titres non légaux doivent être
+revêtus du poinçon visé à l'article 213 dès la fin de la fabrication et avant
+tout polissage ou vernissage.
 
 Les ouvrages qui ne sont pas marqués de ce poinçon en application des
 dispositions de l'article 545 du code général des impôts doivent être expédiés

@@ -1,13 +1,13 @@
 Article 238 bis K
 ----
 I. Lorsque des droits dans une société ou un groupement mentionnés aux articles
-8, 8 quinquies, 239 quater, 239 quater B ou 239 quater C sont inscrits à l'actif
-d'une personne morale passible de l'impôt sur les sociétés dans les conditions
-de droit commun ou d'une entreprise industrielle, commerciale, artisanale ou
-agricole imposable à l'impôt sur le revenu de plein droit selon un régime de
-bénéfice réel, la part de bénéfice correspondant à ces droits est déterminée
-selon les règles applicables au bénéfice réalisé par la personne ou l'entreprise
-qui détient ces droits.
+8,8 quinquies, 239 quater, 239 quater B, 239 quater C ou 239 quater D sont
+inscrits à l'actif d'une personne morale passible de l'impôt sur les sociétés
+dans les conditions de droit commun ou d'une entreprise industrielle,
+commerciale, artisanale ou agricole imposable à l'impôt sur le revenu de plein
+droit selon un régime de bénéfice réel, la part de bénéfice correspondant à ces
+droits est déterminée selon les règles applicables au bénéfice réalisé par la
+personne ou l'entreprise qui détient ces droits.
 
 Si les droits en cause sont détenus par une société exerçant une activité
 agricole créée avant le 1er janvier 1997 ou un groupement d'exploitation en

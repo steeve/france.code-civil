@@ -1,8 +1,8 @@
 Article 30-0 B
 ----
 La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur
-ajoutée en application du premier alinéa de l'article 278 quinquies du code
-général des impôts est fixée comme suit :
+ajoutée en application du I de l'article 278 quinquies du code général des
+impôts est fixée comme suit :
 
 1. Pour les handicapés moteurs :
 
