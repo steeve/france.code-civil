@@ -13,7 +13,7 @@ L'exploit de signification doit mentionner les nom, prénoms, professions et
 résidence de ces témoins ou experts.
 
 Les citations faites à la requête des parties sont à leurs frais, ainsi que les
-indemnités des témoins cités, s'ils en requièrent, sauf au ministère public à
-faire citer, à sa requête les témoins qui lui sont indiqués par l'accusé, dans
-le cas où il juge que leur déclaration peut être utile pour la découverte de la
-vérité.
+indemnités des témoins cités, s'ils en requièrent. Toutefois, le ministère
+public est tenu de citer à sa requête les témoins, dont la liste lui a été
+communiquée par les parties, cinq jours au moins avant l'ouverture des débats ;
+cette liste ne peut comporter plus de cinq noms.
