@@ -1,15 +1,18 @@
 Article R231-64
 ----
-Lorsque l'inspecteur du travail met le chef d'établissement en demeure de faire
-procéder à des analyses en application de l'article L. 231-7 (5e alinéa), il
-fixe le délai dans lequel les résultats de ces analyses devront lui être
-adressés par le chef d'établissement.
+1. Dans les lieux où des travailleurs sont susceptibles d'être en contact avec
+des agents biologiques pathogènes pouvant être présents dans l'organisme de
+patients ou de personnes décédées ou chez des animaux vivants ou morts, des
+mesures appropriées doivent être prises pour assurer la protection et la
+sécurité des travailleurs, notamment par une information sur les procédés de
+décontamination et de désinfection, et la mise en oeuvre des procédés permettant
+de manipuler et d'éliminer sans risque les déchets contaminés.
 
-Le chef d'établissement choisit un organisme compétent sur la liste prévue à
-l'article R. 231-63 ci-dessus. Le prélèvement des échantillons de produits à
-analyser et leur expédition à l'organisme agréé choisi sont effectués sous le
-contrôle de l'inspecteur du travail.
+Un arrêté des ministres chargés du travail, de l'agriculture et de la santé
+fixe, en tant que de besoin, des procédures d'élimination des déchets
+contaminés.
 
-Les résultats des analyses sont adressés par le chef d'établissement à
-l'inspecteur du travail, qui en transmet copie au médecin inspecteur du travail
-et à l'organisme désigné en application de l'article R. 231-60.
+2. Dans les services accueillant des patients ou dans les locaux où se trouvent
+des animaux susceptibles d'être contaminés par des agents biologiques des
+groupes 3 ou 4, les mesures d'isolement ou de confinement sont définies par un
+arrêté des ministres chargés du travail, de l'agriculture et de la santé.
