@@ -13,8 +13,8 @@ vertu des conventions prévues à l'article L. 311-8. Dans les localités où le
 services susmentionnés n'existent pas, ils doivent se présenter personnellement
 auprès des services de la mairie de leur domicile.
 
-Ils sont tenus de justifier de leur identité ainsi que de leur domiciliation et
-de tout changement de celle-ci. Les travailleurs étrangers doivent en outre
+Ils sont tenus de justifier de leur identité et déclarent leur domiciliation
+auprès des services susmentionnés. Les travailleurs étrangers doivent en outre
 justifier de la régularité de leur situation au regard des dispositions qui
 réglementent l'exercice d'activités professionnelles par les étrangers.
 
