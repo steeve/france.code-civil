@@ -50,6 +50,8 @@ u) Orthopoxviroses, dont la variole ;
 
 v) Tularémie ;
 
+Rougeole.
+
 2° Autre maladie :
 
 - saturnisme chez les enfants mineurs.
