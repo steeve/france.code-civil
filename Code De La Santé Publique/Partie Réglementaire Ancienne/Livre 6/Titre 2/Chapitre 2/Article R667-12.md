@@ -21,7 +21,9 @@ président de l'agence.
 III. - Conformément aux dispositions de l'article L. 667-7, le président de
 l'agence saisit pour avis le conseil d'administration de ses projets de
 décisions relatives aux agréments, approbations, autorisations et retraits
-prévus aux articles L. 668-1, L. 668-4, L. 668-8 et L. 668-11.
+prévus aux articles L. 668-1, L. 668-4, L. 668-8 et L. 668-11 ainsi que de ses
+projets de décisions relatives à l'agrément prévu à l'article R. 668-5-3 et à
+l'appréciation de conformité prévue à l'article R. 668-5-7.
 
 Le président de l'agence rend compte au conseil d'administration des décisions
 qu'il prend en application de l'article L. 668-5 ainsi que des mises en demeure
