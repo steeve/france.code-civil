@@ -23,4 +23,9 @@ cinq ans au plus, des produits de participations ouvrant droit au régime des
 sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
-III Abrogé.
+II bis. Les distributions mises en paiement à compter du 1er janvier 2000,
+ouvrant droit ou non à l'avoir fiscal, sont prélevées d'abord sur les bénéfices
+soumis à l'impôt sur les sociétés ou exonérés au titre d'exercices clos depuis
+cinq ans au plus, puis sur tous les autres bénéfices ou réserves disponibles.
+
+III (Abrogé).
