@@ -18,9 +18,10 @@ comité régional de la formation professionnelle, de la promotion sociale et de
 l'emploi, arrêtent conjointement une liste des organismes chargés de
 l'évaluation des compétences des jeunes. Ils sont choisis parmi les organismes
 prestataires de bilans de compétences au sens du décret n° 92-1075 du 2 octobre
-1992 et les centres de formation d'apprentis.
+1992 et les centres de formation d'apprentis ou les sections d'apprentissage.
 
-Le directeur du centre de formation d'apprentis est chargé d'organiser, avec un
+Le directeur du centre de formation d'apprentis ou, dans le cas d'une section
+d'apprentissage, le responsable d'établissement est chargé d'organiser, avec un
 ou des établissements figurant sur la liste, la mise en oeuvre de l'évaluation
 des compétences prévue à l'alinéa précédent.
 

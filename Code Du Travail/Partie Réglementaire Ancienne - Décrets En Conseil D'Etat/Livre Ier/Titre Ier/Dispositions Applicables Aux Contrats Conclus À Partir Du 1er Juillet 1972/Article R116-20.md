@@ -11,8 +11,9 @@ Les instances ci-dessus mentionnées émettent leur avis en tenant compte :
 1° Des besoins de formation professionnelle existant ou à prévoir dans le champ
 d'application de la convention envisagée ;
 
-2° De la cohérence du projet avec le schéma prévisionnel de l'apprentissage
-prévu par l'article 83 de la loi n° 83-8 du 7 janvier 1983 modifié ;
+2° De la cohérence du projet avec le plan régional de développement des
+formations professionnelles des jeunes prévu par l'article 83 de la loi n° 83-8
+du 7 janvier 1983 ;
 
 3° Des recommandations émises par les commissions professionnelles consultatives
 ;
