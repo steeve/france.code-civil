@@ -13,8 +13,8 @@ son entrée en fonction.
 
 Lorsque les dispositions du premier alinéa du présent article ne peuvent être
 appliquées, le siège demeure vacant jusqu'au prochain renouvellement du conseil
-régional. Toutefois, si le tiers des sièges de conseillers régionaux élus dans
-un département vient à être vacant par suite du décès de leurs titulaires, il
-est procédé au renouvellement intégral des conseillers régionaux élus dans ce
-département dans les trois mois qui suivent la dernière vacance pour cause de
-décès.
+régional. Toutefois, si le tiers des sièges d'un conseil régional vient à être
+vacant par suite du décès de leurs titulaires, il est procédé au renouvellement
+intégral du conseil régional dans les trois mois qui suivent la dernière vacance
+pour cause de décès, sauf le cas où le renouvellement général des conseils
+régionaux doit intervenir dans les trois mois suivant ladite vacance.
