@@ -8,7 +8,9 @@ Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la
 consommation et de la répression des fraudes. Le ministre chargé de l'économie
-veille à leur exécution.
+veille à leur exécution. Les décisions peuvent prévoir une publication limitée
+pour tenir compte de l'intérêt légitime des parties à ce que leurs secrets
+d'affaires ne soient pas divulgués.
 
 Le recours n'est pas suspensif. Toutefois, le premier président de la cour
 d'appel de Paris peut ordonner qu'il soit sursis à l'exécution de la décision si

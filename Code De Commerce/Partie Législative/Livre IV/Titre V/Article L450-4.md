@@ -1,14 +1,17 @@
 Article L450-4
 ----
-Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la
-saisie de documents et de tout support d'information, que dans le cadre
-d'enquêtes demandées par le ministre chargé de l'économie ou le rapporteur
-général du Conseil de la concurrence sur proposition du rapporteur et sur
-autorisation judiciaire donnée par ordonnance du président (1) du tribunal de
-grande instance dans le ressort duquel sont situés les lieux à visiter, ou d'un
-juge délégué par lui. Lorsque ces lieux sont situés dans le ressort de plusieurs
-juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une
-ordonnance unique peut être délivrée par l'un des présidents (1) compétents.
+Les enquêteurs ne peuvent procéder aux visite s en tous lieux ainsi qu'à la
+saisie de documents et de tout support d'information que dans le cadre
+d'enquêtes demandées par la Commission européenne, le ministre chargé de
+l'économie ou le rapporteur général du Conseil de la concurrence sur proposition
+du rapporteur, sur autorisation judiciaire donnée par ordonnance du juge des
+libertés et de la détention du tribunal de grande instance dans le ressort
+duquel sont situés les lieux à visiter. Ils peuvent également, dans les mêmes
+conditions, procéder à la pose de scellés sur tous locaux commerciaux, documents
+et supports d'information dans la limite de la durée de la visite de ces locaux.
+Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et
+qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance
+unique peut être délivrée par l'un des présidents (1) compétents.
 
 Le juge doit vérifier que la demande d'autorisation qui lui est soumise est
 fondée ; cette demande doit comporter tous les éléments d'information en
@@ -20,10 +23,12 @@ pratiques dont la preuve est recherchée.
 
 La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui
 les a autorisées. Il désigne un ou plusieurs officiers de police judiciaire
-chargés d'assister à ces opérations et de le tenir informé de leur déroulement.
-Lorsqu'elles ont lieu en dehors du ressort de son tribunal de grande instance,
-il délivre une commission rogatoire pour exercer ce contrôle au président (1) du
-tribunal de grande instance dans le ressort duquel s'effectue la visite.
+chargés d'assister à ces opérations et d'apporter leur concours en procédant le
+cas échéant aux réquisitions nécessaires, ainsi que de le tenir informé de leur
+déroulement. Lorsqu'elles ont lieu en dehors du ressort de son tribunal de
+grande instance, il délivre une commission rogatoire pour exercer ce contrôle au
+président (1) du tribunal de grande instance dans le ressort duquel s'effectue
+la visite.
 
 Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il
 peut décider la suspension ou l'arrêt de la visite.
@@ -47,8 +52,9 @@ de la direction générale de la concurrence, de la consommation et de la
 répression des fraudes ou de celle du Conseil de la concurrence.
 
 Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de
-police judiciaire peuvent seuls prendre connaissance des pièces et documents
-avant leur saisie.
+police judiciaire et, le cas échéant, les agents et autres personnes mandatés
+par la Commission européenne peuvent seuls prendre connaissance des pièces et
+documents avant leur saisie.
 
 Les inventaires et mises sous scellés sont réalisés conformément à l'article 56
 du code de procédure pénale.

@@ -1,6 +1,6 @@
 Article L462-9
 ----
-Le Conseil de la concurrence peut, pour ce qui relève de ses compétences et
+I.- Le Conseil de la concurrence peut, pour ce qui relève de ses compétences et
 après information préalable du ministre chargé de l'économie, communiquer les
 informations ou les documents qu'il détient ou qu'il recueille, à leur demande,
 à la Commission des Communautés européennes ou aux autorités des autres Etats
@@ -40,3 +40,17 @@ conventions organisant ses relations avec les autorités des autres Etats
 exerçant des compétences analogues. Ces conventions sont approuvées par le
 conseil dans les conditions prévues à l'article L. 463-7. Elles sont publiées au
 Journal officiel.
+
+II.-Dans la mise en oeuvre des règles de concurrence prévues aux articles 81 et
+82 du traité instituant la Communauté européenne, les autorités de concurrence
+appliquent les dispositions du règlement n° 1 / 2003 du Conseil relatif à la
+mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité
+instituant la Communauté européenne, à l'exclusion des dispositions des cinq
+premiers alinéas du I du présent article.
+
+Pour l'application des dispositions du 4 de l'article 11 de ce règlement, le
+Conseil de la concurrence transmet à la Commission européenne un résumé de
+l'affaire ainsi qu'un document exposant l'orientation envisagée, qui peut être
+la notification de griefs ou le rapport mentionnés à l'article L. 463-2. Il peut
+mettre ces mêmes documents à la disposition des autres autorités de concurrence
+des Etats membres de la Communauté européenne.

@@ -2,8 +2,8 @@ Article L463-2
 ----
 Sans préjudice des mesures prévues à l'article L. 464-1 le rapporteur général
 notifie les griefs aux intéressés ainsi qu'au commissaire du Gouvernement, qui
-peuvent consulter le dossier et présenter leurs observations dans un délai de
-deux mois.
+peuvent consulter le dossier sous réserve des dispositions de l'article L. 463-4
+et présenter leurs observations dans un délai de deux mois.
 
 Le rapport est ensuite notifié aux parties, au commissaire du Gouvernement et
 aux ministres intéressés. Il est accompagné des documents sur lesquels se fonde
