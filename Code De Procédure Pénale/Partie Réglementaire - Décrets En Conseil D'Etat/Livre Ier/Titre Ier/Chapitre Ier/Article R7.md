@@ -13,5 +13,5 @@ blessé dans le service à l'occasion d'une opération de police au cours de
 laquelle il a fait preuve de qualités particulières de courage.
 
 En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne
-peut prendre effet avant que les bénéficiaires aient accompli cinq ans en
+peut prendre effet avant que les bénéficiaires aient accompli quatre ans en
 activité de service dans la gendarmerie.

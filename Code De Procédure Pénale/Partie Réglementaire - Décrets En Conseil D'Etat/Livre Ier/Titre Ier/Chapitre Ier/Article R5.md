@@ -1,7 +1,7 @@
 Article R5
 ----
 La qualité d'officier de police judiciaire peut être attribuée à la suite d'un
-examen technique aux gendarmes comptant au moins cinq ans de service dans la
+examen technique aux gendarmes comptant au moins quatre ans de service dans la
 gendarmerie.
 
 Les candidats doivent totaliser au moins trois ans de service dans la

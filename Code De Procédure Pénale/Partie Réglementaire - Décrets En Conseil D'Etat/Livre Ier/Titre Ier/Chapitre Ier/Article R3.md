@@ -8,12 +8,14 @@ d'officier de police judiciaire est composée comme suit :
 parmi le premier avocat général et les avocats généraux près la Cour de
 cassation, président ;
 
-2° Neuf magistrats du ministère public, dont deux au plus peuvent être des
-magistrats honoraires ou en retraite ;
+2° Le général de gendarmerie, inspecteur général des armées, ou son représentant
+;
 
-3° Le général inspecteur général de la gendarmerie ou son représentant ;
+3° Des magistrats du ministère public, dont quatre au plus peuvent être des
+magistrats honoraires, et des officiers supérieurs de la gendarmerie dont quatre
+au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
+huit et au plus de quinze, est déterminé par arrêté conjoint du garde des
+sceaux, ministre de la justice, et du ministre chargé des armées en fonction du
+nombre de candidats à l'examen technique prévu à l'article R. 5.
 
-Huit officiers supérieurs de gendarmerie.
-
-Le secrétariat de la commission est assuré par la direction de la gendarmerie et
-de la justice militaire.
+Le secrétariat de la commission est assuré par la gendarmerie nationale.
