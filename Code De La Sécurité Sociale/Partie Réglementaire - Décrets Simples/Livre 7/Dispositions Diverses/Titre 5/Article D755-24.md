@@ -4,13 +4,13 @@ Sous réserve des dispositions prévues à l'alinéa ci-dessous, le montant de
 l'allocation de logement est obtenu par application de la formule prévue à
 l'article D. 542-5.
 
-Les limites inférieures et supérieures de chacune des tranche s de ressources
+Les limites inférieures et supérieures de chacune des tranches de ressources
 prévues au 5° de l'article D. 542-5 sont affectées des coefficients (ou nombre
 de parts) ci-après :
 
 1,5 pour un ménage sans enfant ;
 
-2,3 pour un ménage ou une personne avec un enfant ou personne à charge ;
+2,5 pour un ménage ou une personne avec un enfant ou une personne à charge ;
 
 3 pour un ménage ou une personne avec deux enfants ou personnes à charge ;
 
