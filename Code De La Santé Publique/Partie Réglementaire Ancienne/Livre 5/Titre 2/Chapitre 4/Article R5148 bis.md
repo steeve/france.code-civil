@@ -6,17 +6,35 @@ indiquer pour chacun des médicaments prescrits :
 
 1° La posologie ;
 
-2° Soit la durée du traitement, soit le nombre d'unités de conditionnement.
+2° Soit la durée du traitement, soit, lorsque la prescription comporte la
+dénomination du médicament au sens du I de l'article R. 5000, le nombre d'unités
+de conditionnement.
 
-Si la durée du traitement est supérieure à un mois, l'ordonnance doit indiquer
-le nombre de renouvellements de la prescription par périodes maximales d'un mois
-dans la limite de six mois de traitement ou, pour les médicaments contraceptifs,
-par périodes maximales de trois mois dans la limite d'un an de traitement.
+Toutefois, si l'une ou l'autre des mentions prévues aux 1° et 2° ou les deux
+font défaut, le médicament peut être pris en charge si le pharmacien dispense le
+nombre d'unités de conditionnement correspondant aux besoins du patient après
+avoir recueilli l'accord du prescripteur qu'il mentionne expressément sur
+l'ordonnance. Lorsque le médicament n'est pas soumis aux dispositions de
+l'article R. 5194, il peut être pris en charge sans l'accord du prescripteur si
+le pharmacien délivre soit le nombre d'unités de conditionnement qui figure sur
+l'ordonnance sous réserve de délivrer le conditionnement commercialisé
+comportant le plus petit nombre d'unités de prise, soit, si le nombre d'unités
+de conditionnement ne figure pas sur l'ordonnance, le conditionnement comportant
+le plus petit nombre d'unités de prise, parmi les conditionnements
+commercialisés.
 
-Le pharmacien ne peut délivrer en une seule fois une quantité de médicaments
-correspondant à une durée de traitement supérieure à quatre semaines ou à trente
-jours selon le conditionnement. Toutefois, les médicaments contraceptifs peuvent
-être délivrés pour une durée de douze semaines.
+Toute ordonnance comportant la prescription d'un médicament pour une durée de
+traitement supérieure à un mois doit, pour permettre la prise en charge de ce
+médicament, indiquer soit le nombre de renouvellements de la prescription par
+périodes maximales d'un mois, soit la durée totale de traitement, dans la limite
+de douze mois. Pour les médicaments contraceptifs, le renouvellement de la
+prescription peut se faire par périodes maximales de trois mois.
+
+Pour en permettre la prise en charge, le pharmacien ne peut délivrer en une
+seule fois une quantité de médicaments correspondant à une durée de traitement
+supérieure à quatre semaines ou à trente jours selon le conditionnement.
+Toutefois, les médicaments contraceptifs peuvent être délivrés pour une durée de
+douze semaines.
 
 Le pharmacien est tenu de délivrer le conditionnement le plus économique
 compatible avec les mentions figurant sur l'ordonnance.

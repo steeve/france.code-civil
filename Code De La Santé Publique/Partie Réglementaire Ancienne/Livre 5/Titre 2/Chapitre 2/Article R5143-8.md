@@ -22,8 +22,11 @@ présente les spécialités génériques, ainsi que leur spécialité de référ
 groupe générique, en précisant leur dosage et leur forme pharmaceutique, ainsi
 que les excipients à effet notoire des spécialités qui en contiennent. Lorsque
 la spécialité de référence n'est plus commercialisée, le répertoire l'indique.
-Les groupes génériques sont regroupés par principe actif désigné par sa
-dénomination commune internationale et par voie d'administration.
+Les groupes génériques sont regroupés par principe actif désigné par "sa
+dénomination commune précédée de la mention : "dénomination commune :" et par
+voie d'administration. Les mentions qui doivent, en application de l'article R.
+5000-1, figurer dans une prescription libellée en dénomination commune sont
+spécifiées, sur le répertoire, à l'attention des prescripteurs.
 
 Les décisions d'identification des spécialités génériques dont l'autorisation de
 mise sur le marché est suspendue ou supprimée par le directeur général de
