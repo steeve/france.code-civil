@@ -9,8 +9,7 @@ a) Soit de la possession d'un diplôme mentionné sur une liste fixée par arrê
 pris par le ministre de l'économie, des finances et du budget, le ministre de
 l'agriculture, le ministre de l'éducation nationale et le ministre de la
 formation professionnelle, ainsi que de l'accomplissement d'un stage
-professionnel d'une durée minimale de deux cents heures, effectué en six
-semaines au moins et quatre mois au plus ;
+professionnel ;
 
 b) Soit de l'exercice à temps complet, pendant deux ans au moins, dans les
 services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L.
@@ -18,20 +17,18 @@ services intérieurs ou extérieurs d'une entreprise mentionnée à l'article L.
 général d'assurances ou d'un agent d'assurances ou d'une société mentionnés au
 dernier alinéa du présent article, de fonctions relatives à la production ou à
 l'application de contrats d'assurance ou de capitalisation ainsi que de
-l'accomplissement d'un stage professionnel d'une durée minimale de deux cents
-heures, effectué en six semaines au moins et quatre mois au plus.
+l'accomplissement d'un stage professionnel soit de l'exercice à temps complet
+pendant un an au moins, en qualité de cadre ou de dirigeant, dans ces mêmes
+entreprises.
 
 c) Soit de l'exercice, pendant deux ans au moins, en qualité de cadre ou de chef
 d'entreprise, de fonctions de responsabilité dans une entreprise industrielle ou
-commerciale, ainsi que de l'accomplissement d'un stage professionnel
-préliminaire d'une durée minimale de deux cents heures, effectué en six semaines
-au moins et quatre mois au plus ;
+commerciale, ainsi que de l'accomplissement d'un stage professionnel ;
 
-d) Soit de l'accomplissement d'un stage professionnel d'une durée minimale de
-six cents heures, effectué en seize semaines au moins et un an au plus. Dans ce
-cas, il est vérifié au début du stage que les candidats ont un niveau suffisant
-de connaissances générales. Les résultats du contrôle de ces connaissances
-doivent être annexés au livret de stage mentionné à l'article R. 514-5.
+d) Soit de l'accomplissement d'un stage professionnel. Dans ce cas, il est
+vérifié au début du stage que les candidats ont un niveau suffisant de
+connaissances générales. Les résultats du contrôle de ces connaissances doivent
+être annexés au livret de stage mentionné à l'article R. 514-5.
 
 Les dispositions prévues aux a, b, c et d ci-dessus sont également applicables
 aux personnes physiques salariées lorsqu'elles exercent les fonctions de

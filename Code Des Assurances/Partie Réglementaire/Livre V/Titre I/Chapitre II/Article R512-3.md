@@ -16,10 +16,10 @@ servir de garantie au vendeur dans une vente à crédit : le vendeur ou les
 personnes concourant à la réalisation de la vente.
 
 3° Assurances de perte par amortissement de valeurs mobilières au-dessous de
-leurs cours : les établissements financiers et de crédit, les sociétés de
-bourse, les intermédiaires mentionnés à l'article 13 de la loi modifiée du 14
-juin 1941 et les préposés de ces établissements ou personnes, ainsi que les
-notaires et leurs préposés qu'ils auront mandatés spécialement à cet effet ;
+leurs cours : les établissements de crédit, les sociétés de bourse, les
+intermédiaires mentionnés à l'article 65 de la loi n° 84-46 du 24 janvier 1984
+et les préposés de ces établissements ou personnes, ainsi que les notaires et
+leurs préposés qu'ils auront mandatés spécialement à cet effet ;
 
 4° Assurances des risques "villégiatures", "camping", "sports d'hiver",
 "vacances", "voyages", souscrites pour trois mois au plus et non renouvelables :

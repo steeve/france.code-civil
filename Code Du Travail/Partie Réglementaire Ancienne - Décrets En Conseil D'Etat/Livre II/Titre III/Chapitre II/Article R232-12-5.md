@@ -1,7 +1,11 @@
 Article R232-12-5
 ----
-Les dispositions des articles R. 232-2 à R232-2-3 ne sont applicable qu'au cas
-où le travail est effectué dans les locaux de l'exploitation, de l'entreprise ou
-de l'établissement agricole ou à proximité de ceux-ci et, si ce n'est pas le
-cas, lorsque les salariés y prennent et finissent leur travail de façon
-habituelle.
+Tous les escaliers doivent se prolonger jusqu'au niveau d'évacuation sur
+l'extérieur. Les parois et les marches ne doivent pas comporter de revêtement
+facilement inflammable au sens défini par l'arrêté cité à l'article R. 235-4-15.
+
+Les escaliers doivent être munis de rampe ou de main-courante ; ceux d'une
+largeur au moins égale à 1,5 mètre en sont munis de chaque côté.
+
+Les escaliers desservant les étages doivent être dissociés, au niveau de
+l'évacuation sur l'extérieur, de ceux desservant les sous-sols.

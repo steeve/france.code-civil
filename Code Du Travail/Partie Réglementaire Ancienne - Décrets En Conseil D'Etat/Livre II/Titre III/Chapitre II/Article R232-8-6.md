@@ -17,7 +17,7 @@ par un travailleur au-dessous du niveau de 90 dB (A) et où les protecteurs
 individuels prévus à l'article R. 232-8-3 ne peuvent assurer une exposition
 sonore résiduelle conforme au III dudit article, l'inspecteur du travail peut
 accorder des dérogations à cette disposition pour une période ne dépassant pas
-trois ans [*durée limite*] . Ces dérogations sont renouvelables.
+trois ans [*durée limite*]. Ces dérogations sont renouvelables.
 
 Dans ce cas toutefois des protecteurs individuels procurant le plus haut degré
 de protection possible doivent être fournis.

@@ -4,110 +4,28 @@ Dans les locaux à pollution non spécifique, lorsque l'aération est assurée p
 des dispositifs de ventilation, le débit minimal d'air neuf à introduire par
 occupant est fixé dans le tableau ci-après.
 
-:================================:
+Désignation des locaux :
 
-: DESIGNATION DES LOCAUX :
+Bureaux, locaux sans travail physique
 
-:--------------------------------:
+Débit minimal d'air neuf par occupant (en mètres cubes par heure) : 25
 
-: Bureaux, :
+Désignation des locaux :
 
-: Locaux sans travail physique :
+Locaux de restauration, locaux de vente, locaux de réunion
 
-:--------------------------------:
+Débit minimal d'air neuf par occupant (en mètres cubes par heure) : 30
 
-: DEBIT MINIMAL :
+Désignation des locaux :
 
-: d'air neuf par occupant :
 
-: (en mètres cubes par heure) :
+Ateliers et locaux avec travail physique léger
 
-:--------------------------------:
+Débit minimal d'air neuf par occupant (en mètres cubes par heure) : 45
 
-: 25 :
+Désignation des locaux :
 
-: :
 
-:================================:
+Autres ateliers et locaux
 
-:================================:
-
-: DESIGNATION DES LOCAUX :
-
-:--------------------------------:
-
-: Locaux de restauration, :
-
-: Locaux de vente, :
-
-: Locaux de réunion :
-
-:--------------------------------:
-
-: DEBIT MINIMAL :
-
-: d'air neuf par occupant :
-
-: (en mètres cubes par heure) :
-
-:--------------------------------:
-
-: 30 :
-
-: :
-
-:================================:
-
-:================================:
-
-: DESIGNATION DES LOCAUX :
-
-:--------------------------------:
-
-: Ateliers et locaux avec :
-
-: travail physique léger :
-
-: :
-
-:--------------------------------:
-
-: DEBIT MINIMAL :
-
-: d'air neuf par occupant :
-
-: (en mètres cubes par heure) :
-
-:--------------------------------:
-
-: 45 :
-
-: :
-
-:================================:
-
-:================================:
-
-: DESIGNATION DES LOCAUX :
-
-:--------------------------------:
-
-: Autres ateliers et locaux :
-
-: :
-
-:--------------------------------:
-
-: DEBIT MINIMAL :
-
-: d'air neuf par occupant :
-
-: (en mètres cubes par heure) :
-
-:--------------------------------:
-
-: 60 :
-
-: :
-
-:================================:
+Débit minimal d'air neuf par occupant (en mètres cubes par heure) : 60

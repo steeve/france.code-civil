@@ -1,9 +1,11 @@
 Article R232-5-1
 ----
 Pour l'application de la présente sous-section, les termes mentionnés ci-dessous
-ont les significations suivantes [*définition*]. Air neuf : air pris à l'air
-libre hors des sources de pollution. Air recyclé : air pris et réintroduit dans
-un local ou un groupe de locaux.
+ont les significations suivantes [*définition*].
+
+Air neuf : air pris à l'air libre hors des sources de pollution.
+
+Air recyclé : air pris et réintroduit dans un local ou un groupe de locaux.
 
 Toutefois, l'air pris hors des points de captage de polluants et réintroduit
 dans le même local après conditionnement thermique n'est pas considéré comme de
