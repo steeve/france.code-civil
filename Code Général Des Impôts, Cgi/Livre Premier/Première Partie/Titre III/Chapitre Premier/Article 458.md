@@ -1,6 +1,6 @@
 Article 458
 ----
-Sont affranchis des formalités à la circulation [*dispense*] :
+Sont affranchis des formalités à la circulation :
 
 1° Quelle que soit la quantité déplacée, les alcools dénaturés suivant le
 procédé général et les produits achevés préparés avec ces alcools;
@@ -14,15 +14,14 @@ hydromels destinés à l'usage des voyageurs en cours de route;
 d'homme, par les récoltants, de leur pressoir ou d'un pressoir public à leurs
 caves ou celliers ou de l'une à l'autre de leurs caves;
 
-5° Les cidres doux et poirés doux, les cidres pur jus doux et poirés pur jus
-doux répondant à la définition légale de ces boissons et commercialisés dans les
-conditions fixées par arrêté du ministre de l'économie et des finances pris
-après avis du ministre de l'agriculture (1);
+((5° Les cidres et poirés répondant à la définition légale de ces boissons et
+commercialisés dans les conditions fixées par arrêté du ministre chargé du
+budget pris après avis du ministre chargé de l'agriculture ;)) (1) (M).
 
-6° Dans les mêmes conditions que les cidres doux visés au 5°, les jus de raisin,
-de pommes ou de poires, concentrés ou non, lorsqu'ils sont livrés en récipients
-d'une contenance ne dépassant pas 1 litre, ou pour les jus concentrés d'un
-contenu en poids ne dépassant pas 25 kilogrammes;
+6° Dans les mêmes conditions que les cidres visés au 5°, les jus de raisin, de
+pommes ou de poires, concentrés ou non, lorsqu'ils sont livrés en récipients
+d'une contenance ne dépassant pas ((2 litres)) (M), ou pour les jus concentrés
+d'un contenu en poids ne dépassant pas 25 kilogrammes;
 
 7° (Abrogé);
 
@@ -33,4 +32,6 @@ réserve qu'ils soient conditionnés en récipients d'une contenance au plus ég
 à un litre, capsulés et étiquetés par des fabricants soumis au contrôle de
 l'administration.
 
-1) Annexe IV, art. 54 bis à 54 quinquies.
+(1) Annexe IV, art. 54 bis à 54 quinquies.
+
+(M) Modification .
