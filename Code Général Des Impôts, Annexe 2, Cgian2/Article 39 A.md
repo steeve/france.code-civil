@@ -25,8 +25,8 @@ d'invalidité prévue à l'article 173 du code de la famille et de l'aide social
 
 5° Divorce ou séparation de corps ;
 
-6° Redressement judiciaire ou liquidation de biens du contribuable ou de l'un
-des époux soumis à une imposition commune ;
+6° Redressement ou liquidation judiciaires du contribuable ou de l'un des époux
+soumis à une imposition commune ;
 
 7° Tout autre évènement exceptionnel affectant la situation personnelle,
 familiale ou professionnelle du contribuable et revêtant un caractère de gravité

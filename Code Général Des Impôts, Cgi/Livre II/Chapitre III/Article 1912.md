@@ -3,19 +3,19 @@ Article 1912
 1. Les frais de poursuites à la charge des contribuables sont calculés sur le
 montant des termes échus, conformément au tarif suivant :
 
-Commandement, 3 % [*taux, pourcentage*] du montant du débet ;
+a. Commandement, 3 % du montant du débet ;
 
-Saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
+b. Saisie, quelle que soit la nature de la saisie, 5 % du montant du débet ;
 
-Opposition sur saisie antérieure, 2,5 % du montant du débet ;
+c. Opposition sur saisie antérieure, 2,5 % du montant du débet ;
 
-Signification de vente, 1,5 % du montant du débet ;
+d. Signification de vente, 1,5 % du montant du débet ;
 
-Affiches, 1,5 % du montant du débet ;
+e. Affiches, 1,5 % du montant du débet ;
 
-Inventaire des biens saisis, 1 % du montant du débet ;
+f. Inventaire des biens saisis, 1 % du montant du débet ;
 
-Procès-verbal de vente, 1 % du montant du débet.
+g. Procès-verbal de vente, 1 % du montant du débet.
 
 En cas de saisie interrompue par un versement immédiat du contribuable à la
 caisse du comptable du Trésor chargé du recouvrement des impôts directs, le

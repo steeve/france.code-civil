@@ -11,13 +11,15 @@ soit du procès-verbal de carence.
 
 II La déclaration prévue au I, doit être produite au plus tard le 5 avril de
 l'année suivant celle au cours de laquelle les dépenses définies à l'article L
-950-2 du code du travail ont été effectuées [*date limite*].
+950-2 du code du travail ont été effectuées.
 
 En cas de cession ou de cessation d'entreprise, la déclaration afférente à
 l'année en cours et, le cas échéant, celle afférente à l'année précédente, sont
-déposées dans les soixante jours de la cession ou de la cessation [*délai*]. En
-cas de décès de l'employeur, ces déclarations sont déposées dans les six mois
-qui suivent la date du décès.
+déposées dans les soixante jours de la cession ou de la cessation. En cas de
+décès de l'employeur, ces déclarations sont déposées dans les six mois qui
+suivent la date du décès.
 
-En cas de redressement judiciaire , elles sont produites, [*delai*] dans les
-soixante jours de la date du jugement.
+En cas de ((redressement ou de liquidation judiciaires)) (M) , elles sont
+produites dans les soixante jours de la date du jugement.
+
+(M) Modification.
