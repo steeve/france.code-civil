@@ -1,8 +1,9 @@
 Article L135-7
 ----
 Sauf s'il s'agit d'une association libre, la distraction des terres incluses
-dans le périmètre d'une association foncière pastorale peut être autorisée par
-décision du préfet, en vue d'une affectation non agricole :
+dans le périmètre d'une association foncière pastorale peut, à la demande du
+propriétaire, être autorisée par décision du préfet, en vue d'une affectation
+non agricole :
 
 - soit dans le cadre d'un plan d'urbanisme ou d'un plan d'occupation des sols ;
 

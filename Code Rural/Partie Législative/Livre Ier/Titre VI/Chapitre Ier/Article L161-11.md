@@ -11,8 +11,8 @@ délibérer dans le délai d'un mois sur cette proposition.
 
 Si le conseil municipal n'accepte pas la proposition ou s'il ne délibère pas
 dans le délai prescrit, il peut être constitué une association syndicale
-autorisée dans les conditions prévues par l'article 1er (10°) et le titre III de
-la loi du 21 juin 1865 précitée.
+autorisée dans les conditions prévues par le c de l'article 1er et le titre III
+de l'ordonnance du 1er juillet 2004 précitée.
 
 Le chemin remis à l'association syndicale reste toutefois ouvert au public sauf
 délibération contraire du conseil municipal et de l'assemblée générale de

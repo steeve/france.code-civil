@@ -8,9 +8,9 @@ relatifs aux associations syndicales.
 
 Les intéressés groupés en association syndicale autorisée ne peuvent se
 soustraire à son paiement qu'en délaissant leur propriété au profit de l'Etat ;
-l'indemnité de délaissement est fixée dans les conditions prévues à l'article 14
-de la loi du 21 juin 1865 sur les associations syndicales, compte non tenu de la
-plus-value résultant pour le fonds des travaux exécutés.
+l'indemnité de délaissement est fixée dans les conditions prévues à l'article 17
+de l'ordonnance du 1er juillet 2004 précitée, compte non tenu de la plus-value
+résultant pour le fonds des travaux exécutés.
 
 L'association syndicale est débitrice à l'égard de l'Etat d'une somme égale à la
 fraction fixée dans les conditions prévues au 2° de l'article L. 151-5, de la

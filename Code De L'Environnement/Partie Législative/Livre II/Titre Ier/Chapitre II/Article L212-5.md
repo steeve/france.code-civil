@@ -7,9 +7,10 @@ sont faits des ressources en eau existantes.
 Il prend en compte les documents d'orientation et les programmes de l'Etat, des
 collectivités territoriales et de leurs groupements, des syndicats mixtes, des
 établissements publics, des autres personnes morales de droit public, ainsi que
-des sociétés d'économie mixte et des associations syndicales de la loi du 21
-juin 1865 sur les associations syndicales ayant des incidences sur la qualité,
-la répartition ou l'usage de la ressource en eau.
+des sociétés d'économie mixte et des associations syndicales libres de
+l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations
+syndicales de propriétaires ayant des incidences sur la qualité, la répartition
+ou l'usage de la ressource en eau.
 
 Il énonce, ensuite, les priorités à retenir pour atteindre les objectifs définis
 à l'article L. 212-3, en tenant compte de la protection du milieu naturel

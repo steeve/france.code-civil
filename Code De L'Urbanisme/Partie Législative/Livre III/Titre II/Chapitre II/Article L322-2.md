@@ -3,7 +3,7 @@ Article L322-2
 Peuvent faire l'objet d'une association foncière urbaine :
 
 1° Le remembrement de parcelles et la modification corrélative de l'assiette des
-droits de propriété, des charges et des servitudes y attachées ainsi que la
+droits de propriété, des charges et des servitudes y attachées, ainsi que la
 réalisation des travaux d'équipement et d'aménagement nécessaires ;
 
 2° Le groupement de parcelles en vue, soit d'en conférer l'usage à un tiers,
@@ -25,8 +25,8 @@ d'agrément ;
 5° La conservation, la restauration et la mise en valeur des secteurs
 sauvegardés ainsi que la restauration immobilière régies par les articles L.
 313-1 à L. 313-15, les articles 3 et 12 de la loi n° 48-1360 du 1er septembre
-1948 modifiée et les articles 10, 20, et 38-1 du décret n° 53-960 du 30
-septembre 1953 modifié.
+1948 modifiée et les articles L. 145-6, L. 145-18 et L. 145-28 du code de
+commerce ;
 
 6° Le remembrement foncier ou le groupement de parcelles en vue de la
 restructuration urbaine des grands ensembles et quartiers d'habitat dégradé

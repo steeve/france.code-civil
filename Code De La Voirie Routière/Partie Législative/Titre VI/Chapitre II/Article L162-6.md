@@ -9,4 +9,4 @@ d'une servitude légale à cet effet.
 
 Les propriétaires des voies privées et des immeubles riverains peuvent être
 tenus de se constituer en syndicat dans les conditions fixées aux articles 2 à
-16 de la loi du 22 juillet 1912 relative à l'assainissement des voies privées.
+18 de la loi du 22 juillet 1912 relative à l'assainissement des voies privées.

@@ -7,8 +7,8 @@ agricole autorisée si, tout à la fois :
 la superficie des terrains compris dans le périmètre de l'association ou les
 deux tiers au moins des propriétaires représentant la moitié au moins de la
 superficie ont donné leur adhésion ou sont considérés comme ayant adhéré à
-l'association dans les conditions prévues à l'article 11 de la loi du 21 juin
-1865 précitée ;
+l'association dans les conditions prévues à l'article 13 de l'ordonnance du 1er
+juillet 2004 ;
 
 2° Une collectivité territoriale, la société d'aménagement foncier et
 d'établissement rural, l'association, un propriétaire de terres situées dans le
