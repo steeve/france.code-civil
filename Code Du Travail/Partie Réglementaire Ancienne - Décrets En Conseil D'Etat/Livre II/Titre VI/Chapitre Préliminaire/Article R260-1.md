@@ -1,7 +1,9 @@
 Article R260-1
 ----
-Les infractions à l'article L. 200-3 et aux règlements pris pour son application
-seront passibles d'une amende de 600 F à 1.300 F [*montant*].
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans des
+conditions contraires aux prescriptions mentionnée aux articles R. 261-1, R.
+261-5, R. 261-6, R. 261-7, R. 261-8, R. 262-1, R. 262-3, R. 262-6, R. 262-7.
 
-En cas de récidive dans le délai d'un an, les contrevenants seront passibles
-d'une amende de 1.300 F à 3.000 F [*1*].
+En cas de pluralité de contraventions entraînant les peines de la récidive,
+l'amende est appliquée autant de fois qu'il a été relevé de nouvelles
+infractions.
