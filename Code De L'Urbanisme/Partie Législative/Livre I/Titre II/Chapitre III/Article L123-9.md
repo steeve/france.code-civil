@@ -2,16 +2,10 @@ Article L123-9
 ----
 Le propriétaire d'un terrain bâti ou non bâti réservé par un plan d'occupation
 des sols pour un ouvrage public, une voie publique, une installation d'intérêt
-général ou un espace vert peut, à compter du jour où le plan est rendu public,
-même si à cette date une décision de sursis lui ayant été opposée est en cours
-de validité, exiger de la collectivité ou du service public au bénéfice duquel
-le terrain a été réservé qu'il soit procédé à son acquisition dans un délai de
-deux ans à compter du jour de la demande [*droit de délaissement*]. Ce délai
-peut être prorogé une fois pour une durée d'un an, sauf dans les cas où il y a
-eu sursis à statuer en application des articles L. 123-5 et L. 123-7. Lorsqu'il
-s'agit d'un terrain agricole effectivement exploité, cette prorogation devra
-être justifiée selon une procédure dont les modalités seront fixées par les
-décrets prévus à l'article L. 125-1.
+général ou un espace vert peut, dès que le plan est opposable aux tiers, même si
+à cette date une décision de sursis à statuer lui ayant été opposée est en est
+en cours de validité, exiger de la collectivité ou du service public au bénéfice
+duquel le terrain a été réservé qu'il soit procédé à son acquisition.
 
 Au cas où le terrain viendrait à faire l'objet d'une transmission pour cause de
 décès, les ayants-droit du propriétaire décédé peuvent, sur justification que
@@ -30,8 +24,14 @@ collectivité ou du service public bénéficiaire, et tenus de se faire connaît
 ces derniers, dans le délai de deux mois, à défaut de quoi ils seront exclus de
 tout droit à indemnité.
 
-A défaut d'accord amiable à l'expiration du délai mentionné au premier alinéa
-ci-dessus, le juge de l'expropriation, saisi soit par le propriétaire, soit par
+La collectivité ou le service public au bénéfice duquel le terrain est réservé
+doit se prononcer dans le délai d'un an à compter de la réception en mairie de
+la demande du propriétaire. En cas d'accord amiable, le prix d'acquisition doit
+être payé au plus tard deux ans à compter de la réception en mairie de cette
+demande.
+
+A défaut d'accord amiable à l'expiration du délai d'un an mentionné à l'alinéa
+précédent, le juge de l'expropriation, saisi soit par le propriétaire, soit par
 la collectivité ou le service public bénéficiaire de la réserve, prononce le
 transfert de propriété et fixe le prix du terrain. Ce prix, y compris
 l'indemnité de réemploi, est fixé et payé comme en matière d'expropriation, le
@@ -45,12 +45,16 @@ Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités
 auxquelles peuvent prétendre les personnes mentionnées au troisième alinéa
 ci-dessus.
 
-Si, trois mois après l'expiration du délai mentionné à l'alinéa premier
+Le propriétaire d'un terrain partiellement réservé par un plan d'occupation des
+sols peut en requérir l'emprise totale dans les cas prévus aux articles L. 13-10
+et L. 13-11 du code de l'expropriation pour cause d'utilité publique.
+
+Si, trois mois après l'expiration du délai d'un an mentionné au quatrième alinéa
 ci-dessus, le juge de l'expropriation n'a pas été saisi, la réserve n'est plus
 opposable au propriétaire comme aux tiers, un mois après la mise en demeure de
 procéder à sa levée, adressée à l'autorité compétente par le propriétaire. Cette
 faculté ne fait pas obstacle à la saisine du juge de l'expropriation au-delà de
-ces trois mois, dans les conditions prévues au quatrième alinéa ci-dessus.
+ces trois mois, dans les conditions prévues au cinquième alinéa ci-dessus.
 
 L'acte ou la décision portant transfert de propriété éteint par lui-même et à sa
 date tous droits réels ou personnels existant sur les immeubles cédés, même en
