@@ -7,6 +7,7 @@ et, à Paris, aux secrétaires généraux des mairies annexes, par pli recommand
 admis en franchise postale, au plus tard cinq jours avant le jour du scrutin
 [*délai*]. L'Etat prend à sa charge les dépenses résultant de cet envoi.
 
-Le maire, ou à Paris, le secrétaire général, délivre un récépissé de cette
-déclaration. Ce récépissé sert de titre et garantit les droits attachés à la
-qualité d'assesseur.
+Le maire, ou, à Paris, le secrétaire général, fait parvenir un récépissé de
+cette déclaration au mandataire de la liste ou le lui remet en main propre s'il
+en fait la demande. Ce récépissé sert de titre et garantit les droits attachés à
+la qualité d'assesseur.
