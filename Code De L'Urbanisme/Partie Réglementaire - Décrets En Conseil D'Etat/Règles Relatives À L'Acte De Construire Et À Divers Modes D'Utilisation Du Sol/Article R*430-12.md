@@ -1,9 +1,13 @@
 Article R*430-12
 ----
-La décision est prise par le préfet [*autorité compétente*]. Celui-ci peut
-déléguer sa signature au directeur départemental de l'équipement ou aux
-subordonnés de ce dernier, sauf si le maire et le directeur départemental de
-l'équipement ont émis des avis en sens opposé.
+La décision doit être conforme à l'avis du ministre chargé des monuments
+historiques ou du ministre chargé des sites, ou de leur délégué, lorsque
+l'immeuble est, selon le cas :
 
-Le préfet agit par délégation du ministre chargé du logement pour l'application
-de l'article 11 de la loi n. 48-1360 du 1er septembre 1948.
+1° Inscrit sur l'inventaire supplémentaire des monuments historiques ;
+
+2° Situé dans le champ de visibilité d'un édifice classé ou inscrit ;
+
+3° Protégé au titre de l'article 9 de la loi du 2 mai 1930 ;
+
+4° Compris dans un secteur sauvegardé.

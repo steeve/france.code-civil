@@ -14,8 +14,8 @@ précédent est publié par voie d'affichage à la mairie pendant deux mois
 registre chronologique des actes de publication et de notification des arrêtés
 du maire prévu à l'article R. 122-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie d'une
-amende de 600 F à 2000 F [*sanction*].
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende
+prévue pour les contraventions de la cinquième classe [*sanction*].
 
 Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du
 logement règle les formes de l'affichage.
