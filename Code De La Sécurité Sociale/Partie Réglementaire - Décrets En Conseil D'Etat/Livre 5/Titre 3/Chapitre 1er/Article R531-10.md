@@ -1,22 +1,19 @@
 Article R531-10
 ----
-Sous réserve des dispositions des articles R. 531-11 à 531-14 et du deuxième
-alinéa du présent article, les ressources prises en considération s'entendent du
-total des revenus nets catégoriels retenus pour l'établissement de l'impôt sur
-le revenu d'après le barème, à l'exclusion des revenus des enfants ayant fait
-l'objet d'une imposition commune et après imputation :
+Sous réserve des dispositions des articles R. 531-11 à R. 531-14 et des alinéas
+suivants du présent article, les ressources prises en considération s'entendent
+du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
+sur le revenu d'après le barème, à l'exclusion des revenus des enfants ayant
+fait l'objet d'une imposition commune et après :
 
-- de la déduction des frais de garde des enfants mentionnée à l'article 154 ter
-du code général des impôts, dans la limite d'un montant fixé par arrêté du
-ministre chargé de la sécurité sociale ;
-
-- de la déduction au titre des créances alimentaires mentionnée au 2° du II de
+a) La déduction au titre des créances alimentaires mentionnée au 2° du II de
 l'article 156 du code général des impôts ;
 
-- de l'abattement mentionné à l'article 157 bis du code général des impôts en
-faveur des personnes âgées ou invalides.
+b) L'abattement mentionné à l'article 157 bis du code général des impôts en
+faveur des personnes âgées ou invalides ;
 
-des impôts en faveur des personnes âgées ou invalides.
+c) Une déduction représentative des frais de garde des enfants à charge, dont le
+montant maximum est fixé par arrêté du ministre chargé de la sécurité sociale.
 
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
 d'insertion mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988.
