@@ -15,4 +15,7 @@ globale ;
 2° Le montant des forfaits annuels de soins fixés dans les conditions
 respectivement prévues à la sous-section 3 de la section 1 du chapitre V du
 décret n° 58-1202 du 11 décembre 1958, au titre III du décret n° 61-09 du 3
-janvier 1961 ainsi qu'à la section 4 du chapitre VI du présent titre.
+janvier 1961 ainsi qu'à la section 4 du chapitre VI du présent titre ;
+
+3° La dotation globale relative aux soins prévue à l'article R. 174-9 du code de
+la sécurité sociale.
