@@ -7,6 +7,6 @@ aux compétitions relevant des activités sportives ci-après :
 
 athlétisme aviron natation gymnastique et escrime;
 
-jusqu'au 31 décembre 1980 aux compétitions relevant des activités sportives
+jusqu'au 31 décembre 1984 aux compétitions relevant des activités sportives
 ci-après : aikido boxe française canoe-kayak haltérophilie handball hockey sur
 gazon judo karaté lutte pelote basque ski tennis de table tir et volley-ball.
