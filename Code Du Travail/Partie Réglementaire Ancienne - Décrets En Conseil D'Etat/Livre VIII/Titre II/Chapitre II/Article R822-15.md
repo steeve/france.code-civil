@@ -14,5 +14,6 @@ La répartition des sièges fait l'objet d'un accord entre le président du serv
 médical et les organisations syndicales les plus représentatives intéressées.
 
 Les difficultés auxquelles peut donner lieu l'application de cet article sont
-tranchées par le directeur régional du travail et de l'emploi [*recours,
-autorité compétente*].
+tranchées par le directeur du travail, de l'emploi et de la formation
+professionnelle ou chef du service du travail, de l'emploi et de la formation
+professionnelle [*recours, autorité compétente*].

@@ -12,6 +12,8 @@ L'employeur ou le président du service transmet dans le délai d'un mois à
 compter de sa présentation à l'organisme compétent, un exemplaire du rapport
 annuel d'activité de chaque médecin et un exemplaire du rapport global
 d'activité du service accompagné, le cas échéant, des observations formulées par
-l'organisme de contrôle, soit aux inspecteurs du travail, soit aux directeurs
-régionaux du travail et de l'emploi, selon le cas. Ils adressent les mêmes
-documents aux médecins-inspecteurs régionaux du travail et de la main-d'oeuvre.
+l'organisme de contrôle, soit aux inspecteurs du travail, soit aux directeurs du
+travail de l'emploi, et de la formation professionnelle ou chefs du service du
+travail, de l'emploi et de la formation professionnelle, selon le cas. Ils
+adressent les mêmes documents aux médecins-inspecteurs régionaux du travail et
+de la main-d'oeuvre.

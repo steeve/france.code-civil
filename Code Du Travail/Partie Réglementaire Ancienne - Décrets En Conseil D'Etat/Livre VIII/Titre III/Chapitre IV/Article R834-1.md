@@ -14,9 +14,7 @@ régional de l'Agence nationale pour l'emploi, qui exerce les compétences
 dévolues en métropole au comité régional par l'article R. 311-4-8 et au comité
 départemental par l'article R. 311-4-10 ;
 
-III. - Pour l'application de l'article R. 311-4-6, le directeur régional du
-travail et de l'emploi des départements d'outre-mer est remplacé, en tant que de
-besoin, par le directeur départemental du travail et de l'emploi ;
+III. - *Paragraphe abrogé*
 
 IV. - Pour l'application du 1° du II de l'article R. 311-4-8 et du cinquième
 alinéa de l'article R. 311-4-15, les termes : "délégation régionale" et "délégué

@@ -1,10 +1,11 @@
 Article R822-23
 ----
-Lorsque sont constatées des infractions au présent chapitre, le directeur
-régional du travail et de l'emploi [*autorité compétente*] peut, après avis du
-médecin-inspecteur régional et de la main-d'oeuvre, modifier ou retirer, par une
-décision motivée, l'approbation ou l'agrément donnés en application de l'article
-R. 822-21.
+Lorsque sont constatées des infractions au présent chapitre, le directeur du
+travail, de l'emploi et de la formation professionnelle ou chef du service du
+travail, de l'emploi et de la formation professionnelle [*autorité compétente*]
+peut, après avis du médecin-inspecteur régional et de la main-d'oeuvre, modifier
+ou retirer, par une décision motivée, l'approbation ou l'agrément donnés en
+application de l'article R. 822-21.
 
 Ces mesures ne peuvent intervenir que lorsque le président du service médical
 interentreprises aura été invité par lettre recommandée avec demande d'avis de

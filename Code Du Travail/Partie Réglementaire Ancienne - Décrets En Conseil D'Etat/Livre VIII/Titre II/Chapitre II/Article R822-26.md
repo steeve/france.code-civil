@@ -10,10 +10,11 @@ fin du quatrième mois qui suit l'année pour laquelle ils ont été établis.
 
 Ils adressent un exemplaire de ces rapports, accompagné des observations de
 l'organisme compétent, selon le cas, soit aux inspecteurs du travail, soit aux
-directeurs régionaux du travail et de l'emploi chargés du contrôle des services
-médicaux interentreprises, dans le délai d'un mois à compter de la présentation
-desdits rapports à l'organisme concerné. Ils en adressent également, dans les
-mêmes délais, un exemplaire aux médecins inspecteurs régionaux du travail et de
-la main-d'oeuvre.
+directeurs du travail, de l'emploi et de la formation professionnelle ou chefs
+du service du travail, de l'emploi et de la formation professionnelle chargés du
+contrôle des services médicaux interentreprises, dans le délai d'un mois à
+compter de la présentation desdits rapports à l'organisme concerné. Ils en
+adressent également, dans les mêmes délais, un exemplaire aux médecins
+inspecteurs régionaux du travail et de la main-d'oeuvre.
 
 Un arrêté du ministre chargé du travail fixe le modèle de rapport annuel.
