@@ -8,8 +8,9 @@ la suivante :
 a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest,
-Concarneau, Lorient, La Rochelle, à l'exception du port de plaisance des
-Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Le Fret, Roscanvel, Concarneau, Lorient, La Rochelle, à l'exception du port de
+plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio,
+Bastia.
 
 b) Départements d'outre-mer :
 
