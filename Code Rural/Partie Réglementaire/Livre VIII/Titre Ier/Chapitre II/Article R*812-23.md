@@ -32,13 +32,19 @@ Les élèves qui ont subi les épreuves avec succès reçoivent de leur école l
 diplôme d'agronomie approfondie et le diplôme d'ingénieur agronome portant
 mention de l'école d'origine.
 
-III. - Centre de troisième cycle d'une université ou d'un établissement public à
-caractère scientifique et culturel habilité à délivrer un doctorat, à condition
-que la discipline choisie soit agréée par le directeur de l'école nationale
-supérieure agronomique d'origine.
+III. - Etablissement d'enseignement supérieur français ou étranger, notamment un
+centre de troisième cycle d'une université ou d'un établissement public habilité
+à délivrer un doctorat, à condition que la formation choisie soit agréée par le
+directeur de l'Ecole nationale supérieure agronomique où le diplôme d'agronomie
+générale a été obtenu, après avis des conseils compétents de cette école. Cet
+agrément peut être assorti d'une obligation de formation complémentaire.
 
-Dans ce cas, les conditions d'inscription et de scolarité et la sanction des
-enseignements sont les mêmes que celles qui sont mentionnées au II ci-dessus.
+Les modalités du contrôle des connaissances en vue de la délivrance, à l'issue
+de la troisième année de spécialisation, du diplôme d'agronomie approfondie et
+du diplôme d'ingénieur agronome de l'Ecole nationale supérieure agronomique
+ayant délivré le diplôme d'agronomie générale sont définies par les organes
+compétents de cette école, le cas échéant par voie de convention avec
+l'établissement d'accueil.
 
 IV. - Ecole d'application ou de spécialisation du ministère de l'agriculture
 dans les conditions fixées par les dispositions concernant l'accès de ces
