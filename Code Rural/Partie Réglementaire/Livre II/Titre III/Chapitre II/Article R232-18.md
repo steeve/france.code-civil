@@ -1,19 +1,6 @@
 Article R232-18
 ----
-L'agrément est subordonné à l'engagement écrit pris par l'exploitant de
-respecter les obligations suivantes :
-
-1° Accompagner toute fourniture d'un document justifiant l'identité de
-l'exploitant ;
-
-2° Ne fournir que des lots de poissons ne présentant pas de vices apparents ;
-
-3° Ne fournir des lots de poissons susceptibles de provoquer des déséquilibres
-biologiques et dont la liste est fixée par l'article R. 232-1 qu'au détenteur de
-l'autorisation mentionnée à l'article L. 232-11 ;
-
-4° Déclarer sans délai au préfet toute mortalité anormale constatée dans son
-établissement ;
-
-5° Accepter toutes les visites effectuées par le directeur des services
-vétérinaires ou son représentant.
+Font l'objet de l'agrément prévu à l'article L. 232-12 les établissements de
+pisciculture ou d'aquaculture dont les produits sont utilisés en tout ou partie
+au repeuplement ou à l'alevinage des eaux mentionnées au titre III de la
+première partie du livre II.

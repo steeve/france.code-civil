@@ -1,50 +1,9 @@
 Article R*232-1
 ----
-La liste des espèces de poissons, de grenouilles et de crustacés susceptibles de
-provoquer des déséquilibres biologiques dans les eaux visées au titre III du
-livre II du code rural et dont l'introduction dans ces eaux est, de ce fait,
-interdite, est fixée comme suit :
-
-Poissons :
-
-Le poisson-chat : Ictalurus melas ;
-
-La perche soleil : Lepomis gibbosus.
-
-Grenouilles :
-
-Les espèces de grenouilles (Rana sp.) autres que :
-
-Rana arvalis : grenouille des champs ;
-
-Rana dalmatina : grenouille agile ;
-
-Rana iberica : grenouille ibérique ;
-
-Rana honnorati : grenouille d'Honnorat ;
-
-Rana esculenta : grenouille verte de Linné ;
-
-Rana lessonae : grenouille de Lessona ;
-
-Rana perezi : grenouille de Perez ;
-
-Rana ridibunda : grenouille rieuse ;
-
-Rana temporaria : grenouille rousse ;
-
-Rana groupe esculenta : grenouille verte de Corse.
-
-Crustacés :
-
-Le crabe chinois : Eriocheir sinensis.
-
-Les espèces d'écrevisses autres que :
-
-Astacus astacus : écrevisse à pattes rouges ;
-
-Astacus torrentium : écrevisse des torrents ;
-
-Austropotamobius pallipes : écrevisse à pattes blanches ;
-
-Astacus leptodactylus : écrevisse à pattes grêles.
+Toute autorisation délivrée en application de l'article 10 de la loi n° 92-3 du
+3 janvier 1992 sur l'eau pour l'installation ou l'aménagement d'ouvrages ainsi
+que pour l'exécution de travaux dans le lit d'un cours d'eau vaut autorisation,
+au titre de l'article L. 232-3, lorsqu'ils sont de nature à détruire les
+frayères, les zones de croissance ou les zones d'alimentation ou de réserves de
+nourriture de la faune piscicole. Dans ce cas, elle fixe les mesures
+compensatoires visant à remettre en état le milieu naturel aquatique.
