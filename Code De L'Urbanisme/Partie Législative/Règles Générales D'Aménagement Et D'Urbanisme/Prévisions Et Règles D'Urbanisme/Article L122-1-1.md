@@ -14,9 +14,11 @@ représentant plus de la moitié de la population totale de celles-ci ou des
 conseils municipaux d'au moins la moitié des communes intéressées représentant
 plus des deux tiers de la population totale et après consultation des
 départements, ainsi que des régions pour les ensembles de communes qui dépassent
-100000 habitants.
-
-Les communes confient, dans les mêmes conditions de majorité,
+100000 habitants. Dans les régions de Guadeloupe, de Guyane, de Martinique et de
+la Réunion, le conseil régional et le conseil général sont consultés, quel que
+soit le nombre d'habitants de l'ensemble des communes regroupées dans le
+périmètre du schéma directeur ou du schéma de secteur. Les communes confient,
+dans les mêmes conditions de majorité,
 
 l'élaboration ou la révision du schéma directeur ou du schéma de secteur, soit à
 un établissement public de coopération intercommunale existant ayant compétence
