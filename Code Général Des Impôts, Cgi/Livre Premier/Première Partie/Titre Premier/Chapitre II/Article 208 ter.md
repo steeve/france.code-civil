@@ -3,10 +3,9 @@ Article 208 ter
 Les collectivités imposables en vertu du 5 de l'article 206 n'ont pas à
 comprendre dans leurs revenus imposables :
 
-a. Les intérêts des sommes inscrites sur les livrets de caisse d'épargne (1),
-sur les comptes d'épargne-construction, mentionnés aux articles L 315-19 à L
-315-32 du code de la construction et de l'habitation et sur les comptes
-d'épargne-crédit mentionnés aux articles L 315-8 à L 315-18 du même code;
+a. Les intérêts des sommes inscrites sur les livrets de caisse d'épargne (1) et
+sur les comptes d'épargne-construction, mentionnés aux articles L. 315-19 à L.
+315-32 du code de la construction et de l'habitation ;
 
 b. Dans les conditions et sous les réserves prévues par le 1° de l'article 133,
 les intérêts, arrérages et autres produits des emprunts non négociables
