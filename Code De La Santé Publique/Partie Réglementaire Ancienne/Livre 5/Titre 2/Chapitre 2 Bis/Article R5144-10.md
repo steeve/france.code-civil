@@ -14,7 +14,7 @@ Le directeur des hôpitaux ou son représentant ;
 Le directeur général de l'Institut national de la santé et de la recherche
 médicale ou son représentant.
 
-2° Trente et un membres nommés par le ministre chargé de la santé pour une durée
+2° Trente-deux membres nommés par le ministre chargé de la santé pour une durée
 de trois ans :
 
 - onze cliniciens dont au moins trois médecins généralistes ;
@@ -39,9 +39,11 @@ de médecine ;
 nationale de pharmacie ;
 
 - deux personnalités choisies en raison de leur compétence en
-pharmaco-épidémiologie.
+pharmaco-épidémiologie ;
 
-Trente et un suppléants sont désignés dans les mêmes conditions que les membres
+- un représentant du comité technique de toxicovigilance.
+
+Trente-deux suppléants sont désignés dans les mêmes conditions que les membres
 titulaires. Ils remplacent ces derniers en cas d'empêchement. Ils leur succédent
 s'il se produit une vacance en cours de mandat, pour la durée du mandat restant
 à courir.

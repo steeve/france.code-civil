@@ -10,7 +10,9 @@ représentant de chacun des centres régionaux de pharmacovigilance.
 Il est chargé :
 
 - de coordonner la collecte des informations sur les effets indésirables des
-médicaments et produits mentionnés à l'article R. 5144-1 ;
+médicaments et produits mentionnés à l'article R. 5144-1 et de les transmettre
+au comité technique de toxicovigilance prévu à l'article R. 145-5-9 du présent
+code ;
 
 - d'évaluer les informations collectées ;
 
