@@ -4,9 +4,12 @@ Au vu de tous les renseignements recueillis, la caisse primaire se prononce sur
 l'existence d'une incapacité permanente et, le cas échéant, sur le taux de
 celle-ci et sur le montant de la rente due à la victime ou à ses ayants droit.
 
-Le barême indicatif d'invalidité, dont il est tenu compte pour la détermination
-du taux d'incapacité permanente en matière d'accidents du travail, est annexé au
-présent livre (annexe I).
+Les barèmes indicatifs d'invalidité dont il est tenu compte pour la
+détermination du taux d'incapacité permanente d'une part en matière d'accidents
+du travail et d'autre part en matière de maladies professionnelles sont annexés
+au présent livre. Lorsque ce dernier barème ne comporte pas de référence à la
+lésion considérée, il est fait application du barème indicatif d'invalidité en
+matière d'accidents du travail.
 
 La décision motivée est immédiatement notifiée par la caisse à la victime ou à
 ses ayants droit par lettre recommandée avec demande d'avis de réception. Le

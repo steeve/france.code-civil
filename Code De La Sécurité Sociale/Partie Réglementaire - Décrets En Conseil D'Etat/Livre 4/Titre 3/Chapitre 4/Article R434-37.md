@@ -3,8 +3,8 @@ Article R434-37
 Les rentes mentionnées à l'article L. 434-15 sont payables à la résidence du
 titulaire [*lieu*], par trimestre et à terme échu .
 
-Toutefois, lorsque le taux d'incapacité permanente est égal ou supérieur à 66,66
-p. 100, la rente est versée mensuellement par la caisse primaire débitrice, sous
+Toutefois, lorsque le taux d'incapacité permanente est égal ou supérieur à 50 p.
+100, la rente est versée mensuellement par la caisse primaire débitrice, sous
 réserve de son paiement soit par lettre chèque, soit par virement sur un compte
 bancaire, postal ou d'épargne ouvert au nom du titulaire ou de son représentant
 dûment mandaté [*mode*].
