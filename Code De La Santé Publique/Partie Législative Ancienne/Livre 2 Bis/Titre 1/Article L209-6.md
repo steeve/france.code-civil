@@ -1,7 +1,7 @@
 Article L209-6
 ----
-Les mineurs, les majeurs sous tutelle, les personnes séjournant dans un
-établissement sanitaire ou social et les malades en situation d'urgence ne
+Les mineurs, les majeurs protégés par la loi et les personnes admises dans un
+établissement sanitaire ou social à d'autres fins que celle de la recherche ne
 peuvent être sollicités pour une recherche biomédicale que si l'on peut en
 attendre un bénéfice direct pour leur santé.
 

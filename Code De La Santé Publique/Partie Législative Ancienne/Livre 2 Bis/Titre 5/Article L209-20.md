@@ -1,7 +1,7 @@
 Article L209-20
 ----
-Est puni d'un emprisonnement de deux mois à un an [*durée*] et d'une amende de 6
-000 F à 100 000 F (1) [*montant*] ou de l'une de ces deux peines seulement :
+Est puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1)
+[*montant*] :
 
 - quiconque aura pratiqué ou fait pratiquer une recherche biomédicale sans avoir
 obtenu l'avis préalable prévu par l'article L. 209-12 du présent code ;
