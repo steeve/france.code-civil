@@ -18,4 +18,8 @@ communication ;
 3° D'utiliser une fréquence, un équipement ou une installation radioélectrique
 dans des conditions non conformes aux dispositions de l'article L. 34-9 ou sans
 posséder l'autorisation prévue à l'article L. 89 ou en dehors des conditions
-réglementaires générales prévues à l'article L. 33-3.
+réglementaires générales prévues à l'article L. 33-3 ;
+
+4° De commercialiser ou de procéder à l'installation d'appareils conçus pour
+rendre inopérants les téléphones mobiles de tous types, tant pour l'émission que
+pour la réception, en dehors des cas prévus à l'article L. 33-3.

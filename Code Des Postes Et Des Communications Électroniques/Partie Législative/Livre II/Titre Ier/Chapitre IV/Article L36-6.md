@@ -9,7 +9,8 @@ catégories de réseaux et de services, en application des articles L. 33-1 et L
 34-1 ;
 
 2° Les prescriptions applicables aux conditions techniques et financières
-d'interconnexion, conformément à l'article L. 34-8 ;
+d'interconnexion, conformément à l'article L. 34-8 et aux conditions techniques
+et financières de l'itinérance locale, conformément à l'article L. 34-8-1 ;
 
 3° Les prescriptions techniques applicables, le cas échéant, aux réseaux et
 terminaux, en vue de garantir leur interopérabilité, la portabilité des

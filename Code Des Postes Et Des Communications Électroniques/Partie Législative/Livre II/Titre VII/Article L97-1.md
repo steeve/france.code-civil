@@ -21,6 +21,9 @@ prises qu'après avis de l'agence lorsqu'elles relèvent de la compétence du
 Conseil supérieur de l'audiovisuel et qu'avec son accord dans tous les autres
 cas.
 
+Elle instruit pour le compte de l'Etat les demandes d'autorisation présentées en
+application de l'article L. 97-2.
+
 Un décret en Conseil d'Etat fixe le délai à l'issue duquel cet avis ou cet
 accord sont réputés acquis ainsi que, le cas échéant, les catégories
 d'installations pour lesquelles, en raison de leurs caractéristiques techniques,

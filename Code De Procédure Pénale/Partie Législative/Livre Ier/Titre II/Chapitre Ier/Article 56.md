@@ -1,15 +1,16 @@
 Article 56
 ----
 Si la nature du crime est telle que la preuve en puisse être acquise par la
-saisie des papiers, documents ou autres objets en la possession des personnes
-qui paraissent avoir participé au crime ou détenir des pièces ou objets relatifs
-aux faits incriminés, l'officier de police judiciaire se transporte sans
-désemparer au domicile de ces derniers pour y procéder à une perquisition dont
-il dresse procès-verbal.
+saisie des papiers, documents, données informatiques ou autres objets en la
+possession des personnes qui paraissent avoir participé au crime ou détenir des
+pièces, informations ou objets relatifs aux faits incriminés, l'officier de
+police judiciaire se transporte sans désemparer au domicile de ces derniers pour
+y procéder à une perquisition dont il dresse procès-verbal.
 
 Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a
 éventuellement recours en application de l'article 60, le droit de prendre
-connaissance des papiers ou documents avant de procéder à leur saisie.
+connaissance des papiers, documents ou données informatiques avant de procéder à
+leur saisie.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles
 pour que soit assuré le respect du secret professionnel et des droits de la
@@ -21,9 +22,19 @@ font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire 
 de leur mise sous scellés définitifs et ce, en présence des personnes qui ont
 assisté à la perquisition suivant les modalités prévues à l'article 57.
 
+Il est procédé à la saisie des données informatiques nécessaires à la
+manifestation de la vérité en plaçant sous main de justice soit le support
+physique de ces données, soit une copie réalisée en présence des personnes qui
+assistent à la perquisition.
+
+Si une copie est réalisée, il peut être procédé, sur instruction du procureur de
+la République, à l'effacement définitif, sur le support physique qui n'a pas été
+placé sous main de justice, des données informatiques dont la détention ou
+l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
+
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne
-maintient que la saisie des objets et documents utiles à la manifestation de la
-vérité.
+maintient que la saisie des objets, documents et données informatiques utiles à
+la manifestation de la vérité.
 
 Le procureur de la République peut également, lorsque la saisie porte sur des
 espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas

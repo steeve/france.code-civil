@@ -17,3 +17,14 @@ d'une qualité et d'un prix équivalents. Le consommateur est informé de cette
 possibilité de manière claire et compréhensible. Les frais de retour consécutifs
 à l'exercice du droit de rétractation sont, dans ce cas, à la charge du
 fournisseur et le consommateur doit en être informé.
+
+Le professionnel est responsable de plein droit à l'égard du consommateur de la
+bonne exécution des obligations résultant du contrat conclu à distance, que ces
+obligations soient à exécuter par le professionnel qui a conclu ce contrat ou
+par d'autres prestataires de services, sans préjudice de son droit de recours
+contre ceux-ci.
+
+Toutefois, il peut s'exonérer de tout ou partie de sa responsabilité en
+apportant la preuve que l'inexécution ou la mauvaise exécution du contrat est
+imputable, soit au consommateur, soit au fait, imprévisible et insurmontable,
+d'un tiers au contrat, soit à un cas de force majeure.

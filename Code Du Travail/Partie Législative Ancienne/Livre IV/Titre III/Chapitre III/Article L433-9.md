@@ -1,8 +1,10 @@
 Article L433-9
 ----
-L'élection a lieu au scrutin secret et sous enveloppe. Il est procédé à des
-votes séparés pour les membres titulaires, les membres suppléants, dans chacune
-des catégories professionnelles formant des collèges distincts.
+L'élection a lieu au scrutin secret et sous enveloppe ou par vote électronique,
+dans les conditions et selon les modalités définies par décret en Conseil
+d'Etat. Il est procédé à des votes séparés pour les membres titulaires, les
+membres suppléants, dans chacune des catégories professionnelles formant des
+collèges distincts.
 
 L'élection a lieu pendant le temps de travail. Toutefois, un accord contraire
 peut être conclu entre l'employeur et l'ensemble des organisations syndicales

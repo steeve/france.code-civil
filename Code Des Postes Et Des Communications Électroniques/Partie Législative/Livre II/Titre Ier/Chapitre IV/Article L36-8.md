@@ -30,15 +30,23 @@ mentionnés au premier alinéa dudit article ;
 2° Les possibilités et les conditions d'une utilisation partagée entre
 opérateurs, prévue à l'article L. 47, d'installations existantes situées sur le
 domaine public et, prévue à l'article L. 48, d'installations existantes situées
-sur une propriété privée.
+sur une propriété privée ;
 
 Elle se prononce sur ces différends dans les conditions de forme et de procédure
 prévues au I. En outre, elle procède à une consultation publique de toutes les
 parties intéressées avant toute décision imposant l'utilisation partagée entre
 opérateurs des installations mentionnées au 2°.
 
+2° bis La conclusion ou l'exécution de la convention d'itinérance locale prévue
+à l'article L. 34-8-1 ;
+
 3° Les conditions techniques et financières de la fourniture des listes
-d'abonnés prévue à l'article L. 33-4.
+d'abonnés prévue à l'article L. 33-4 ;
+
+4° Les conditions techniques et tarifaires d'exercice d'une activité d'opérateur
+de télécommunications ou d'établissement, de mise à disposition ou de partage
+des réseaux et infrastructures de télécommunications visés à l'article L. 1425-1
+du code général des collectivités territoriales.
 
 III. - Les décisions prises par l'Autorité de régulation des télécommunications
 en application des I et II peuvent faire l'objet d'un recours en annulation ou

@@ -33,7 +33,8 @@ ou ceux qui sont certifiés ou d'utiliser des cartes de paiement ;
 l'infraction ou de la chose qui en est le produit ;
 
 9° L'affichage de la décision prononcée ou la diffusion de celle-ci soit par la
-presse écrite, soit par tout moyen de communication audiovisuelle.
+presse écrite, soit par tout moyen de communication au public par voie
+électronique.
 
 Les peines définies aux 1° et 3° ci-dessus ne sont pas applicables aux personnes
 morales de droit public dont la responsabilité pénale est susceptible d'être

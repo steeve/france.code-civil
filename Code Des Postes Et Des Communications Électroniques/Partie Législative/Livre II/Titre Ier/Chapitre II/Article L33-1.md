@@ -30,7 +30,7 @@ s'il y a lieu ;
 e) Les prescriptions exigées par la protection de la santé et de l'environnement
 et par les objectifs d'aménagement du territoire et d'urbanisme, comportant, le
 cas échéant, les conditions d'occupation du domaine public et les modalités de
-partage des infrastructures ;
+partage des infrastructures ou d'itinérance locale ;
 
 f) Les prescriptions exigées par la défense et la sécurité publiques ;
 
