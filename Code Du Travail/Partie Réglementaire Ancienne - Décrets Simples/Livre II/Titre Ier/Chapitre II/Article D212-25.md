@@ -1,6 +1,6 @@
 Article D212-25
 ----
-Le contingent d'heures supplémentaires prévu à l'article L. 212-6 est fixé à 180
+Le contingent d'heures supplémentaires prévu à l'article L. 212-6 est fixé à 220
 heures par an et par salarié, pour les ouvriers, les employés, les agents de
 maîtrise et les cadres mentionnés à l'article L. 212-15-2 ainsi que pour les
 salariés itinérants non cadres et les cadres mentionnés à l'article L. 212-15-3
