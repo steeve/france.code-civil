@@ -2,13 +2,13 @@ Article R167-7
 ----
 Les personnes ou organismes auxquels la décision du juge doit être notifiée
 peuvent, dans le délai de quinze jours à compter de la notification, interjeter
-appel, soit par déclaration au greffe de la juridiction qui a rendu la décision
-attaquée, soit par simple lettre recommandée avec accusé de réception adressée à
-ce greffe.
+appel, soit par déclaration au greffe de la cour d'appel, soit par simple lettre
+recommandée avec accusé de réception adressée à ce greffe. Ils y joignent une
+copie de la décision attaquée.
 
-Dans les huit jours qui suivent la déclaration d'appel ou la réception de la
-lettre recommandée, le greffier de la juridiction qui a rendu la décision
-attaquée transmet le dossier de la procédure au greffier de la cour d'appel.
+A la demande du greffier de la cour d'appel, le greffe de la juridiction qui a
+rendu la décision attaquée lui transmet le dossier de la procédure dans les
+meilleurs délais.
 
 L'appel est instruit et jugé par la chambre de la cour d'appel chargée des
 affaires des mineurs selon la procédure fixée à l'article L. 223-1 du code de
