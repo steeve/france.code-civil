@@ -1,7 +1,7 @@
 Article L123-11
 ----
-Les zones à urbaniser en priorité sont supprimées de plein droit à compter du
-premier jour du troisième mois qui suit la publication de la loi d'orientation
-de la ville n° 91-662 du 13 juillet 1991. L'abrogation ne porte pas atteinte aux
-relations contractuelles éventuelles entre les collectivités publiques
-concédantes et les concessionnaires.
+Lorsque l'enquête prévue à l'article L. 123-10 concerne une zone d'aménagement
+concerté, elle vaut enquête préalable à la déclaration d'utilité publique des
+travaux prévus dans la zone à condition que le dossier soumis à l'enquête
+comprenne les pièces requises par le code de l'expropriation pour cause
+d'utilité publique.

@@ -1,63 +1,23 @@
 Article L311-4
 ----
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de
-zone compatible avec les orientations du schéma directeur, s'il en existe un. Ce
-plan prend en considération les dispositions du programme local de l'habitat
-lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles
-L. 123-1 et L. 130-1. et précise les mesures destinées à préserver la qualité
-des paysages. Il est élaboré par la personne publique qui a pris l'initiative de
-la création de la zone.
+Il ne peut être mis à la charge de l'aménageur de la zone que le coût des
+équipements publics à réaliser pour répondre aux besoins des futurs habitants ou
+usagers des constructions à édifier dans la zone.
 
-Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et
-dans les formes que la personne publique qui a prix l'initiative de la création
-de la zone détermine, la région et le département ; l'autorité compétente pour
-créer la zone d'aménagement concerté peut demander que soit recueilli l'avis de
-tout organisme ou association ayant compétence en matière de construction,
-d'aménagement ou d'urbanisme.
+Lorsque la capacité des équipements programmés excède les besoins de
+l'opération, seule la fraction du coût proportionnelle à ces besoins peut être
+mise à la charge de l'aménageur.
 
-Le représentant de l'Etat porte à la connaissance de la personne publique qui a
-pris l'initiative de la création, les prescriptions, servitudes et dispositions
-mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute
-autre information qu'il juge utile à l'élaboration du plan d'aménagement de
-zone.
+Lorsqu'un équipement doit être réalisé pour répondre aux besoins des futurs
+habitants ou usagers des constructions à édifier dans plusieurs opérations
+successives devant faire l'objet de zones d'aménagement concerté ou de
+programmes d'aménagement d'ensemble, la répartition du coût de cet équipement
+entre différentes opérations peut être prévue dès la première, à l'initiative de
+l'autorité publique qui approuve l'opération.
 
-Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque
-la commune est compétente pour créer la zone et par le représentant de l'Etat
-dans le département lorsqu'il a cette compétence. Le plan d'aménagement de zone
-est ensuite approuvé par l'autorité compétente pour créer la zone, après avis du
-conseil municipal ou de l'organe délibérant de l'établissement public de
-coopération intercommunale compétent lorsque l'Etat est compétent pour créer la
-zone. Lorsque le dossier du plan d'aménagement de zone soumis à l'enquête
-comprend les pièces requises par le code de l'expropriation pour cause d'utilité
-publique, l'enquête prévue ci-dessus vaut enquête préalable à la déclaration
-d'utilité publique des travaux nécessaires à l'aménagement de la zone.
-
-Lorsque la commune est dotée d'un plan d'occupation des sols opposable aux
-tiers, l'autorité compétente peut, par dérogation aux dispositions des deuxième
-et troisième alinéas du présent article, soumettre directement à enquête
-publique un projet de plan d'aménagement de zone, à condition que ce projet ne
-porte pas atteinte à l'économie générale du plan d'occupation des sols, ne
-concerne pas les espaces boisés classés et ne comporte pas de graves risques de
-nuisances.
-
-Le plan d'aménagement de zone approuvé est opposable à toute personne publique
-ou privée pour l'exécution de tous travaux, installations ou constructions
-affectant l'utilisation du sol.
-
-Lorsque l'acte de création de la zone décide de maintenir en vigueur les
-dispositions du plan d'occupation des sols rendu public ou approuvé, ce document
-tient lieu de plan d'aménagement de la zone.
-
-Après mise en demeure non suivie d'effet dans les six mois de la personne qui a
-élaboré le plan d'aménagement de zone et de l'autorité compétente pour approuver
-ledit plan, le représentant de l'Etat dans le département peut élaborer et
-approuver, après avis du conseil municipal ou de l'organe délibérant de
-l'établissement public de coopération intercommunale compétent et enquête
-publique, la modification du plan d'aménagement de zone afin que celui-ci soit
-compatible, dans les conditions prévues par l'article L. 111-1-1, avec les
-orientations d'un schéma directeur ou d'un schéma de secteur approuvé ou arrêté
-postérieurement à l'approbation du plan, ou avec les directives territoriales
-d'aménagement, ou avec les lois d'aménagement et d'urbanisme, ou pour permettre
-la réalisation d'un nouveau projet d'intérêt général relevant de l'Etat, de la
-région, du département ou d'autres intervenants, et correspondant aux
-définitions prises en application de l'article L. 121-12.
+Lorsqu'une construction est édifiée sur un terrain n'ayant pas fait l'objet
+d'une cession, location ou concession d'usage consentie par l'aménageur de la
+zone, une convention conclue entre la commune ou l'établissement public de
+coopération intercommunale et le constructeur précise les conditions dans
+lesquelles celui-ci participe au coût d'équipement de la zone. La convention
+constitue une pièce obligatoire du dossier de permis de construire ou de lotir.
