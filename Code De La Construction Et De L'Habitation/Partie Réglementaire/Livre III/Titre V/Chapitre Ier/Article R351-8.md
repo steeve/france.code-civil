@@ -4,9 +4,11 @@ Sont considérés comme personnes à charge au sens des titres III à V du prés
 livre, sous réserve qu'ils vivent habituellement au foyer :
 
 1° Les enfants ouvrant droit aux prestations familiales et ceux qui, bien que
-n'ouvrant pas droit à ces prestations, doivent être considérés comme étant à
-charge au sens des articles L. 512-3 et L. 513-1 du code de la sécurité sociale
-;
+n'ouvrant pas droit à ces prestations, doivent être considérés comme à charge au
+sens des 1° et 2° de l'article L. 512-3 et de l'article L. 513-1 du code de la
+sécurité sociale et ont un âge inférieur à l'âge limite fixé au premier alinéa
+de l'article D. 542-4 du code de la sécurité sociale en application du dernier
+alinéa de l'article L. 512-3 du même code ;
 
 2° a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins
 soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail et dont les
