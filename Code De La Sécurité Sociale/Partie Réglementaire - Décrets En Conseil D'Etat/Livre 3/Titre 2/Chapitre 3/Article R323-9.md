@@ -7,3 +7,8 @@ l'avant-dernier alinéa de l'article R. 323-4. Pour les assurés ayant trois
 enfants ou plus à charge au sens de l'article L. 313-3, l'indemnité servie à
 partir du trente et unième jour qui suit le point de départ de l'incapacité de
 travail ne peut dépasser le cinq cent quarantième de ce plafond.
+
+Toutefois à partir du premier jour du septième mois de perception ininterrompue
+de ces indemnités, les montants maximaux mentionnés au précédent alinéa sont
+fixés respectivement au sept centième et au cinq cent vingt-cinquième du montant
+annuel du plafond retenu.
