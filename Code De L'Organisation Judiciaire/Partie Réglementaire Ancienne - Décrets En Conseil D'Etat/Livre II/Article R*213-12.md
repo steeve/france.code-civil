@@ -10,4 +10,8 @@ Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
 2° Les présidents de chambre dans l'ordre de leurs nominations à la cour d'appel
 comme présidents ;
 
-3° Les conseillers dans l'ordre de leurs nominations à la cour d'appel.
+3° Les conseillers du premier grade dans l'ordre de leur nomination à la cour
+d'appel ;
+
+4° Les conseillers du second grade dans l'ordre de leur nomination à la cour
+d'appel.
