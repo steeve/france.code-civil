@@ -1,7 +1,7 @@
 Article L15-9
 ----
-Lorsque l'exécution des travaux de construction de voies rapides, de routes
-nationales ou de sections nouvelles de routes nationales et d'oléoducs
+Lorsque l'exécution des travaux de construction d'autoroutes, de routes express,
+de routes nationales ou de sections nouvelles de routes nationales et d'oléoducs
 régulièrement déclarés d'utilité publique risque d'être retardée par des
 difficultés tenant à la prise de possession d'un ou plusieurs terrains non
 bâtis, situés dans les emprises de l'ouvrage, un décret pris sur avis conforme
@@ -23,4 +23,4 @@ Faute par l'administration de poursuivre la procédure d'expropriation dans le
 mois [*délai*] qui suit la prise de possession, le juge, saisi par le
 propriétaire, prononce le transfert de propriété si celui-ci n'a pas encore été
 ordonné et, en tout état de cause, fixe le prix du terrain et, éventuellement,
-l'indemnité spéciale prévue à l'alinéa 1 de l'article L. 15-8.
+l'indemnité spéciale prévue à l'alinéa 1er de l'article L. 15-8.
