@@ -6,9 +6,7 @@ l'article 1663 qui n'ont pas été réglées le 15 du deuxième mois suivant cel
 la mise en recouvrement des rôles [*délai de paiement*].
 
 Toutefois, pour tous les impôts normalement perçus par voie de rôle au titre de
-l'année en cours, aucune majoration n'est appliquée avant le 15 septembre pour
-les communes de plus de 3.000 habitants [*nombre*] et avant le 31 octobre pour
-les autres communes.
+l'année en cours, aucune majoration n'est appliquée avant le 15 septembre.
 
 Si la date de la majoration coïncide avec celle du versement d'un des acomptes
 provisionnels prévus à l'article 1664, elle peut être reportée d'un mois par

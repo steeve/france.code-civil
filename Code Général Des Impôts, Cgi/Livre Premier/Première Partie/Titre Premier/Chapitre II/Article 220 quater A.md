@@ -1,8 +1,8 @@
 Article 220 quater A
 ----
 I. La société constituée exclusivement pour le rachat de tout ou partie du
-capital d'une entreprise, dans les conditions mentionnées au paragraphe II (1),
-peut bénéficier d'un crédit d'impôt.
+capital d'une entreprise, dans les conditions mentionnées au II, peut bénéficier
+d'un crédit d'impôt (1).
 
 Pour chaque exercice, le crédit d'impôt est égal à un pourcentage des intérêts
 dus au titre de cet exercice sur les emprunts contractés par la société
@@ -13,7 +13,7 @@ crédit d'impôt est limité au montant de l'impôt sur les sociétés acquitté
 société rachetée au titre de ce dernier exercice, dans la proportion des droits
 sociaux que la société nouvelle détient dans la société rachetée. Il est imputé
 sur l'impôt sur les sociétés dû au titre du même exercice par la société
-nouvelle ; l'excédent est remboursé à la société.
+nouvelle ; l'excédent est remboursé à la société (2).
 
 Le crédit d'impôt prévu au présent article ne constitue pas un produit imposable
 pour la détermination du résultat de la société créée. Les intérêts qui servent
@@ -33,17 +33,16 @@ nouvelle.
 Les administrateurs de la société rachetée peuvent lui être liés par un contrat
 de travail.
 
-II. Le bénéfice des dispositions du paragraphe I est subordonné aux conditions
-suivantes :
+II. Le bénéfice des dispositions du I est subordonné aux conditions suivantes :
 
 a) La société rachetée et la société nouvelle doivent être soumises au régime de
 droit commun de l'impôt sur les sociétés.
 
 b) La société rachetée doit exercer une activité industrielle et commerciale au
 sens de l'article 34 ou une activité professionnelle au sens du 1 de l'article
-92 ou une activité agricole. Elle doit avoir employé au moins vingt salariés
-[*nombre, effectif*] au cours de chacune des deux années qui précèdent le rachat
-[*période*].
+92 ou une activité agricole. Elle doit avoir employé au moins dix salariés au
+cours de chacune des deux années qui précèdent le rachat (3). Cette dernière
+condition est requise pour les exercices ouverts à compter du 1er janvier 1991.
 
 c) Les droits de vote attachés aux actions ou aux parts de la société nouvelle
 doivent être détenus pour plus de 50 p. 100 par les personnes qui, à la date du
@@ -57,7 +56,7 @@ capital est détenu pour plus de 50 p. 100 par la société rachetée est assimi
 un salarié de cette dernière.
 
 Ces droits ne doivent pas être détenus, directement ou indirectement, pour plus
-de 50 p. 100 par d'autres sociétés.
+de 50 p. 100 par d'autres sociétés (4).
 
 Pour l'application des dispositions du présent paragraphe, les droits de vote de
 la société nouvelle qui sont détenus par une société en nom collectif ou une
@@ -69,18 +68,18 @@ a pour seul objet la détention des titres de la société nouvelle.
 Si des titres de la société nouvelle sont cédés par la société en nom collectif
 ou la société civile ou si des titres de l'une de ces deux dernières sociétés
 sont cédés par les salariés, les sanctions prévues aux quatrième et cinquième
-alinéas du paragraphe II de l'article 83 bis et à l'article 1740 quinquies sont
+alinéas du II de l'article 83 bis et à l'article 1740 quinquies sont
 applicables.
 
 d) La société nouvelle doit détenir, dès sa création, plus de 50 p. 100 des
 droits de vote de la société rachetée. La direction de la société rachetée doit
-être assurée par une ou plusieurs des personnes salariées mentionnées au c.
+être assurée par une ou plusieurs des personnes salariées mentionnées au c (5).
 
 Un salarié ne peut détenir, directement ou indirectement, 50 p. 100 ou plus des
 droits de vote de la société nouvelle ou de la société rachetée. Les titres de
 la société rachetée qui sont détenus, directement ou indirectement, par les
 salariés mentionnés au c ne peuvent être cédés à la société nouvelle que contre
-remise de titres de cette dernière société.
+remise de titres de cette dernière société (6).
 
 En cas de fusion des deux sociétés, les salariés en cause doivent détenir plus
 de 50 p. 100 des droits de vote de la société qui résulte de la fusion.
@@ -88,14 +87,23 @@ de 50 p. 100 des droits de vote de la société qui résulte de la fusion.
 Les emprunts mentionnés au deuxième alinéa du paragraphe I doivent être
 contractés pour une durée égale à quinze ans au plus. Leur taux actuariel brut
 est au plus égal au taux moyen de rendement brut à l'émission des obligations
-des sociétés privées de l'année civile qui précède la date du contrat, majoré de
-deux points et demi. Ils ne doivent comporter aucun autre avantage ou droit au
-profit du prêteur autres que ceux attachés à des obligations convertibles ou à
-des obligations assorties de bons de souscription d'actions mentionnées au
-dernier alinéa du paragraphe I.
+des sociétés privées du mois qui précède la date du contrat, majoré de deux
+points et demi. Ils ne doivent comporter aucun autre avantage ou droit au profit
+du prêteur autres que ceux attachés à des obligations convertibles ou à des
+obligations assorties de bons de souscription d'actions mentionnées au dernier
+alinéa du I.
 
-Le rachat est effectué entre le 15 avril 1987 et le 31 décembre 1991 [*dates,
-période*].
+Le rachat est effectué entre le 15 avril 1987 et le 31 décembre 1991.
 
-(1) Voir l'article 1740 quinquies pour le cas ou l'une des conditions cesse
+(1) Voir l'article 1740 quinquies pour le cas où l'une des conditions cesse
 d'être satisfaite.
+
+(2) Voir Annexe III, art. 46 quater-0 RA, 46 quater-0 RE et 46 quater-0 RG.
+
+(3) Voir Annexe III, art. 46 quater-0 RD.
+
+(4) Voir Annexe III, art. 46 quater-0 RB.
+
+(5) Voir Annexe III, art. 46 quater-0 RC 1er alinéa.
+
+(6) Voir Annexe III, art. 46 quater-0 RC 2e et 3e alinéas.

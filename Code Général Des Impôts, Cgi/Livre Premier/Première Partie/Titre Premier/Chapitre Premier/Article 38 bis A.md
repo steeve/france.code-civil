@@ -26,3 +26,12 @@ récent des titres à la date du prêt ; elle est évaluée au cours le plus ré
 des titres prêtés à la clôture de l'exercice. Lors de leur restitution, les
 titres sont repris au compte de titres de transaction pour la valeur de la
 créance à cette date.
+
+Les dispositions du premier et du troisième alinéa du présent article
+s'appliquent aux titres de créances négociables sur un marché réglementé ainsi
+qu'aux instruments du marché interbancaire. Si les titres n'ont pas été cédés
+dans un délai de six mois, les dispositions du premier alinéa cessent de
+s'appliquer (1).
+
+(1) Ces dispositions s'appliquent pour la détermination des résultats imposables
+des exercices clos à compter du 31 décembre 1990.

@@ -1,6 +1,6 @@
 Article 119 bis
 ----
-1 Sous réserve des dispositions de l'article 125 A, les revenus de capitaux
+1. Sous réserve des dispositions de l'article 125 A, les revenus de capitaux
 mobiliers entrant dans les prévisions des articles 118, 119, 238 septies B et
 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est
 fixé par l'article 187-1.
@@ -11,16 +11,32 @@ la source. Il en est de même pour la prime de remboursement visée à l'article
 238 septies A.
 
 Les revenus des titres émis à compter du 1er janvier 1987, tels qu'ils sont
-définis aux articles 118, 119, 238 septies B, sont placés hors du champ
+définis aux articles 118, 119 et 238 septies B, sont placés hors du champ
 d'application de la retenue à la source.
 
-2 Sous réserve des dispositions de l'article 239 bis B, les produits visés aux
+2. Sous réserve des dispositions de l'article 239 bis B, les produits visés aux
 articles 108 à 117 bis donnent lieu à l'application d'une retenue à la source
 dont le taux est fixé par l'article 187-1 lorsqu'ils bénéficient à des personnes
-qui n'ont pas leur domicile fiscal ou leur siège en France [*à l'étranger*]. Un
-décret fixe les modalités et conditions d'application de cette disposition (1).
+qui n'ont pas leur domicile fiscal ou leur siège en France. Un décret fixe les
+modalités et conditions d'application de cette disposition (1).
 
-Toutefois, la retenue à la source ne s'applique pas aux sommes visées à
-l'article 111-a, premier alinéa.
+Toutefois, la retenue à la source ne s'applique pas aux sommes visées au premier
+alinéa du a de l'article 111.
 
-1) Annexe II, art. 48, 75 à 79.
+La retenue à la source ne s'applique pas (2) aux distributions des sociétés de
+capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de
+la loi n° 85-695 du 11 juillet 1985 modifiée lorsque :
+
+- la distribution entre dans les prévisions du 4 de l'article 39 terdecies ;
+
+- le bénéficiaire effectif est une personne morale qui a son siège de direction
+effective dans un Etat ayant conclu avec la France une convention fiscale
+comportant une clause d'assistance administrative pour l'application du droit
+interne ;
+
+- la distribution est comprise dans des bénéfices déclarés dans cet Etat mais
+bénéficie d'une exonération d'impôt.
+
+(1) Annexe II, art. 48, 75 à 79.
+
+(2) Disposition applicable à compter du 1er janvier 1991.

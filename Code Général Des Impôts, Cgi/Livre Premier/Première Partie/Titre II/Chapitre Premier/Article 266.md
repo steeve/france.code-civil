@@ -14,6 +14,10 @@ nature des biens ou des services ou qui ne donnent pas lieu à reddition de
 compte au commettant du prix auquel le mandataire a traité avec l'autre
 contractant ;
 
+- opérations effectuées en vertu d'un contrat de commission à l'achat ou à la
+vente portant sur des déchets neufs d'industrie ou des matières de récupération
+;
+
 - opérations d'entremise qui aboutissent à la livraison de produits imposables
 par les personnes qui ne sont pas redevables de la taxe, à l'exception des
 opérations portant sur les objets d'occasion et les animaux vivants de boucherie

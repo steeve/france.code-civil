@@ -1,6 +1,6 @@
 Article 235 ter L
 ----
-Un prélèvement spécial de 25 % [*taux*] (1) est perçu sur la fraction des
+Un prélèvement spécial de 30 % [*taux*] (1) est perçu sur la fraction des
 bénéfices industriels et commerciaux imposables à l'impôt sur les sociétés ou à
 l'impôt sur le revenu qui résulte de la production, de la distribution ou de la
 représentation de films pornographiques ou d'incitation à la violence.
@@ -26,8 +26,8 @@ article (2). Il fixe également les conditions d'établissement et de recouvreme
 du prélèvement, les obligations des redevables, les règles de contentieux, les
 garanties de recouvrement et les sanctions applicables (3).
 
-1) Le taux de 25 % s'applique aux bénéfices des exercices ouverts à compter du
-1er janvier 1990.
+1) Le taux de 30 % s'applique aux bénéfices des exercices ouverts compter du 1er
+janvier 1991.
 
 2) Annexe II, art. 163 septdecies à 163 vicies.
 

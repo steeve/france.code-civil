@@ -30,8 +30,7 @@ effectués pour le compte de personnes établies à l'étranger ;
 2° Les opérations de livraison, de réparation, de transformation, d'entretien,
 d'affrètement et de location portant sur :
 
-- les navires de commerce maritime ou destinés à la navigation de commerce sur
-les fleuves internationaux ;
+- les navires de commerce maritime ;
 
 - les bateaux utilisés pour l'exercice d'une activité industrielle en haute mer
 ;
@@ -80,11 +79,10 @@ pour la partie du trajet située en dehors du territoire continental ;
 
 13° Les livraisons de biens placés sous les régimes douaniers de l'entrepôt, des
 magasins et aires de dédouanement, du perfectionnement actif et du transit ainsi
-que les prestations de services relatives à ces biens (7) ;
-
-13° bis Les livraisons des biens visés au 1° bis du II de l'article 291 lorsque
-l'acheteur est établi en dehors du territoire national et les prestations de
-services relatives à ces biens.
+que les prestations de services relatives à ces biens (7) ; 13° bis Les
+livraisons des biens visés au 1° bis du II de l'article 291 lorsque l'acheteur
+est établi en dehors du territoire national et les prestations de services
+relatives à ces biens.
 
 14° Les prestations de services se rapportant à l'importation de biens et dont
 la valeur est comprise dans la base d'imposition de l'importation.

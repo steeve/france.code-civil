@@ -1,17 +1,15 @@
 Article 1465
 ----
 Dans les zones définies par l'autorité compétente où l'aménagement du territoire
-le rend utile, les collectivités locales et les communautés urbaines peuvent,
-par une délibération de portée générale, exonérer de la taxe professionnelle en
-totalité ou en partie les entreprises qui procèdent sur leur territoire, soit à
-des décentralisations, extensions ou créations d'activités industrielles ou de
-recherche scientifique et technique, ou de services de direction, d'études,
-d'ingénierie et d'informatique, soit à une reconversion d'activité, soit à la
-reprise d'établissements en difficulté. Cette délibération ne peut avoir pour
-effet de reporter l'application du régime d'imposition de droit commun au-delà
-du 1er janvier de la cinquième année suivant celle au cours de laquelle sont
-intervenues la décentralisation, la création, l'extension, la reconversion
-d'activité ou la reprise d'établissements [*délai*].
+le rend utile, les collectivités locales et leurs groupements dotés d'une
+fiscalité propre peuvent, par une délibération de portée générale, exonérer de
+la taxe professionnelle en totalité ou en partie les entreprises qui procèdent
+sur leur territoire, soit à des décentralisations, extensions ou créations
+d'activités industrielles ou de recherche scientifique et technique, ou de
+services de direction, d'études, d'ingénierie et d'informatique, soit à une
+reconversion d'activité, soit à la reprise d'établissements en difficulté. Cette
+délibération ne peut avoir pour effet de reporter de plus de cinq ans
+l'application du régime d'imposition de droit commun.
 
 Lorsqu'il s'agit de décentralisations, extensions ou créations d'établissements
 industriels ou de recherche scientifique et technique répondant à des conditions
@@ -20,7 +18,7 @@ et du nombre des emplois créés, l'exonération est acquise sans autre formalit
 En cas de décentralisation, extension ou création de services de direction,
 d'études, d'ingénierie et d'informatique et en cas de reconversion d'activité ou
 de reprise d'établissements, elle est soumise à agrément dans les conditions
-prévues à l'article 1649 nonies.
+prévues à l'article 1649 nonies (2).
 
 Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il est
 accordé par une procédure décentralisée.
@@ -31,7 +29,7 @@ nouvelles appréciée par rapport à la dernière année précédant l'opératio
 rapport à la moyenne des trois dernières années si celle-ci est supérieure.
 Toutefois, le prix de revient des immobilisations exonérées ne peut excéder dix
 millions de francs [*montant*] par emploi créé. Par délibération, les
-collectivités locales peuvent fixer ce montant à un niveau moins élevé.
+collectivités locales peuvent fixer ce montant à un niveau moins élevé (3).
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à
 condition de l'avoir indiqué au service des impôts au plus tard lors du dépôt de
@@ -48,7 +46,9 @@ cette exonération.
 
 Pour l'application du présent article, les délibérations prises par les conseils
 municipaux s'appliquent aux impositions perçues au profit des groupements de
-communes autres que les communautés urbaines.
+communes autres que les communautés urbaines en ce qui concerne les
+décentralisations, extensions, créations, reconversions d'activité ou reprises
+d'établissements en difficulté réalisées avant le 1er janvier 1991.
 
 Lorsque tout ou partie de la part communale de la taxe professionnelle acquittée
 par les entreprises implantées sur une zone d'activités économiques créée ou
@@ -64,8 +64,13 @@ de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre
 de la taxe professionnelle.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article
-(2).
+(4).
 
 (1) Annexe III, art. 322 G à 322 L.
 
-(2) Annexe II, art. 310 HB bis à 310 HB septies.
+(2) Annexe IV, art. 121 quinquies DB quater à 121 quinquies DB septies.
+
+(3) Le chiffre de dix millions s'applique pour les exonérations qui prennent
+effet à compter du 1er janvier 1989. Il était fixé antérieurement à un million.
+
+(4) Annexe II, art. 310 HB bis à 310 HB septies.

@@ -35,22 +35,24 @@ agricole :
 - à 19 % pour les assurances contre les risques de toute nature de navigation
 maritime ou fluviale des bateaux de sport ou de plaisance ;
 
-4° (Abrogé) (1) ;
+4° (Abrogé) ;
 
 5° (Abrogé) ;
 
 5° bis Pour les assurances contre les risques de toute nature relatifs aux
 véhicules terrestres à moteur :
 
-- à 7 % ;
+- à 18 % ; ce taux est réduit à 9 p. 100 pour les contrats relatifs aux
+véhicules utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes
+(1) ;
 
 6° Pour toutes autres assurances :
 
-- à 9 % Les risques d'incendie couverts par des assurances ayant pour objet des
-risques de transport sont compris dans les risques désignés sous le 3° ou sous
-le 6°, suivant qu'il s'agit de transports par eau et par air ou de transports
+- à 9 %.
+
+Les risques d'incendie couverts par des assurances ayant pour objet des risques
+de transport sont compris dans les risques désignés sous le 3° ou sous le 6°,
+suivant qu'il s'agit de transports par eau et par air ou de transports
 terrestres.
 
-(1) Cette abrogation s'applique à compter du 1er juillet 1990, sauf pour les
-opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
-populaire pour lesquels la date d'application est fixée au 1er janvier 1990.
+(1) Ces dispositions sont applicables à compter du 1er juillet 1991.

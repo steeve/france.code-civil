@@ -5,13 +5,18 @@ location par un contrat de crédit-bail est inférieur à la valeur résiduelle 
 cet immeuble dans les écritures de la société immobilière pour le commerce et
 l'industrie [*SICOMI*] bailleresse, le locataire acquéreur est tenu de
 réintégrer, dans les bénéfices de son entreprise afférents à l'exercice en cours
-au moment de la cession, la fraction des loyers versés correspondant à la
+au moment de la cession, la fraction des loyers versés pendant la période au
+cours de laquelle l'intéressé a été titulaire du contrat et correspondant à la
 différence entre ladite valeur résiduelle et le prix de cession de l'immeuble.
 
 Toutefois, lorsque la durée du contrat de crédit-bail est d'au moins quinze ans,
 cette réintégration est limitée à la différence entre le prix de revient du
 terrain sur lequel la construction a été édifiée et le prix de cession de
 l'immeuble au locataire.
+
+Cette disposition ne s'applique pas aux opérations conclues à compter du 1er
+janvier 1991 autres que celles mentionnées au deuxième alinéa du 3° quater de
+l'article 208.
 
 Pour l'application du premier alinéa ci-dessus, la valeur résiduelle de
 l'immeuble cédé [*définition*] s'entend de la différence entre son prix de

@@ -25,19 +25,7 @@ l'entreprise et à l'actionnariat des salariés, chaque société du groupe reti
 le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme
 si elle était imposée séparément.
 
-6. a) Les déficits dont le report a été autorisé en application du paragraphe II
-de l'article 209 à la suite d'une fusion ou opération assimilée effectuée à
-compter du 16 septembre 1987 et qui n'ont pas été déduits par la société
-bénéficiaire des apports avant son entrée dans le groupe sont reportables sur
-les bénéfices ultérieurs de cette société, sur agrément du ministre chargé du
-budget et dans la limite définie par cet agrément.
-
-Lorsqu'une société du groupe reçoit des apports d'une autre société, les
-déficits de la société apporteuse ou de la société bénéficiaire de l'apport qui
-n'ont pas été déduits avant la fusion ou opération assimilée, ou sa date
-d'effet, peuvent être reportés sur les bénéfices ultérieurs de la société du
-groupe, sur agrément du ministre chargé du budget et dans la limite définie par
-cet agrément.
+6. a) (Abrogé).
 
 b) Lorsqu'une société membre du groupe depuis moins de cinq ans fusionne avec
 une autre société ou lui apporte ou reçoit d'elle une branche complète
@@ -49,12 +37,12 @@ du même exercice l'excédent de moins-value à long terme mentionné au même
 article ; les dispositions de la deuxième phrase des premier et deuxième alinéas
 de cet article ne sont pas applicables. Ces excédents sont déterminés à la
 clôture de l'exercice précédant l'opération. Ces dispositions s'appliquent
-également en cas d'apport de titres de sociétés consenti à des sociétés non
-soumises à l'impôt de titres de sociétés consenti à des sociétés non soumises à
-l'impôt sur les sociétés ou placé sous un régime de report d'imposition des
-plus-values autre que celui défini à l'article 223 F ou d'apport de titres de
-sociétés dont les résultats sont imposés selon les modalités prévues à l'article
-8.
+également en cas d'apport de titres de société consenti à des sociétés du groupe
+et placé sous le régime prévu à l'article 210 B ou en cas d'apport de titres de
+société dont les résultats sont imposés selon les modalités prévues à l'article
+8, ou en cas d'apport de titres consenti à des sociétés établies dans un Etat ou
+territoire où elles sont soumises à un régime fiscal privilégié au sens de
+l'article 238 A.
 
 Toutefois, en cas de fusion ou d'apport entre sociétés du groupe, la société
 mère peut, par une décision motivée, se dispenser de rapporter les sommes
@@ -68,8 +56,11 @@ après son entrée, la société mère rapporte les sommes mentionnées au premi
 alinéa qui concernent la seule société apporteuse. Les dispositions des deux
 phrases qui précèdent s'appliquent en cas de nouvel apport de tout ou partie des
 activités qui ont été apportées avec le bénéfice de la dispense prévue à la
-première phrase du présent alinéa.
+première phrase du présent alinéa (1).
 
 Les dispositions du premier alinéa s'appliquent également si une société du
 groupe est affectée dans les cinq ans qui suivent son entrée dans le groupe par
 l'un des événements mentionnés au 2 ou au 5 de l'article 221.
+
+(1) Dispositions applicables à l'impôt dû par les sociétés sur leurs résultats
+des exercices clos à compter du 31 décembre 1989.

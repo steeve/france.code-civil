@@ -9,11 +9,38 @@ au prorata de la commande de chacun d'eux;
 2° En ce qui concerne les sociétés coopératives ouvrières de production
 [*SCOP*], la part des bénéfices nets qui est distribuée aux travailleurs dans
 les conditions prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet
-1978 (1) , sauf lorsqu'il est fait application des dispositions prévues à
-l'article 26 de cette loi et qu'un ou plusieurs associés non-employés détiennent
-directement ou indirectement plus de la moitié du capital;
+1978 portant statut des sociétés coopératives ouvrières de production sauf
+lorsqu'il est fait application des dispositions prévues à l'article 26 de cette
+loi et qu'un ou plusieurs associés non-employés détiennent directement ou
+indirectement plus de la moitié du capital;
 
-3° (Abrogé) 4° (Disposition périmée).
+3° (Abrogé)
+
+4° (Disposition périmée).
+
+5° En ce qui concerne les sociétés d'intérêt collectif agricole, les bonis
+provenant des opérations faites avec les associés coopérateurs et distribués à
+ces derniers au prorata de leurs activités.
+
+Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agricole
+lorsque les associés visés à l'article L. 522-1 du code rural et les
+établissements de crédit détiennent directement ou par l'intermédiaire de leurs
+filiales 80 p. 100 ou plus du capital ou des voix et que les associés visés aux
+1°, 2° et 3° du même article détiennent moins de 50 p. 100 du capital ou des
+voix.
+
+A titre transitoire, les sociétés visées à l'alinéa précédent pourront déduire
+de leur résultat imposable une fraction de ces bonis égale à :
+
+- 66 2/3 p. 100 de leur montant au titre de 1991 ;
+
+- 33 1/3 p. 100 de leur montant au titre de 1992.
+
+6° La fraction éventuelle des ristournes déduites en vertu des 1°, 2° et 5° qui
+dépasse 50 p. 100 des excédents pouvant être répartis d'un exercice est
+réintégrée au résultat du même exercice à concurrence des sommes apportées ou
+mises à disposition de la coopérative par les bénéficiaires au cours des deux
+exercices suivants.
 
 2 Le Gouvernement pourra, par décrets pris en conseil des ministres, après avis
 du conseil d'Etat, avant le 31 décembre 1957, autoriser la déduction d'une
@@ -33,7 +60,5 @@ conditions, aux sociétés ayant émis avant le 31 décembre 1965 des obligation
 convertibles en actions, ainsi qu'aux sociétés françaises constituées ou ayant
 procédé à l'augmentation de leur capital entre le 31 décembre 1961 et le 31
 décembre 1965 [*période*].
-
-(1) Loi portant statut des sociétés coopératives ouvrières de production.
 
 (2) Annexe II, art. 96 à 99.

@@ -1,7 +1,11 @@
 Article 219
 ----
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à
-10 F est négligée. Le taux de l'impôt est fixé à 37 %. Toutefois :
+10 F est négligée.
+
+Le taux de l'impôt est fixé à 37 % (1).
+
+Toutefois :
 
 a. Le montant net des plus-values à long terme autres que celles visées à
 l'article 39 quindecies-II fait l'objet d'une imposition séparée au taux de 15
@@ -41,7 +45,9 @@ sans objet.
 
 Le montant net des plus-values à long terme visées à l'article 39 quindecies-II
 fait l'objet d'une imposition séparée au taux de 25 % dans les conditions
-prévues par ce texte et par l'article 209 quater. b. (Disposition périmée).
+prévues par ce texte et par l'article 209 quater.
+
+b. (Disposition périmée).
 
 c. Le taux de l'impôt sur les sociétés est porté à 42 p. 100 pour les
 distributions, au sens du présent code, effectuées par les entreprises au cours
@@ -51,14 +57,26 @@ Pour l'application de l'alinéa précédent, un supplément d'impôt sur les
 sociétés, égal à 3/58 du montant net distribué, est dû sur ces distributions à
 concurrence de la somme algébrique des résultats comptables des mêmes exercices,
 diminuée des distributions antérieures décidées conformément aux statuts de la
-société et soumises au supplément d'impôt. Le supplément est également dû sur
-les sommes réputées distribuées au cours de ces exercices en application des
-articles 109 à 115 quinquies 1°.
+société et soumises au supplément d'impôt. Cette somme algébrique ainsi réduite
+est diminuée, dans la limite de son montant positif, des sommes portées à la
+réserve spéciale prévue à l'article 209 quater et afférentes à des plus-values
+réalisées au cours d'exercices ouverts à compter du 1er janvier 1989 ; les
+sommes prélevées sur cette réserve pour être portées en réserve ordinaire au
+cours des mêmes exercices sont ajoutées à cette somme algébrique. Le supplément
+est également dû sur les sommes réputées distribuées au cours de ces exercices
+en application des articles 109 à 115 quinquies 1°.
 
-Pour les exercices ouverts à compter du 1er janvier 1990, le taux du supplément
-défini à l'alinéa précédent est porté à 5/58 du montant net distribué, à
-concurrence de la somme algébrique des résultats comptables de ces mêmes
-exercices, ainsi que des sommes réputées distribuées.
+Pour les distributions effectuées au cours des exercices ouverts à compter du
+1er janvier 1990, le taux du supplément défini à l'alinéa précédent est porté à
+5/58 du montant net distribué, à concurrence de la somme algébrique des
+résultats comptables de ces mêmes exercices, ainsi que des sommes réputées
+distribuées.
+
+Pour les distributions effectuées au cours des exercices ouverts à compter du
+1er janvier 1991, le taux du supplément d'impôt défini au deuxième alinéa est
+porté à 8/58 du montant net distribué, à concurrence de la somme algébrique des
+résultats comptables de ces mêmes exercices, ainsi que des sommes réputées
+distribuées.
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223
 sexies a été acquitté ne sont pas retenues pour l'application des dispositions
@@ -86,6 +104,10 @@ d'impôt est dû à raison de ces distributions dans la limite de cette différe
 Pour l'application de cette disposition, le montant moyen du capital est égal au
 rapport de la somme des montants respectifs du capital à la fin de chaque mois
 sur le nombre de mois de l'exercice.
+
+d bis. Pour l'application du premier alinéa du d, les distributions exonérées du
+précompte mobilier en application du 8° du 3 de l'article 223 sexies sont
+considérées comme ayant entraîné le paiement du précompte.
 
 e. Le supplément d'impôt sur les sociétés dû à raison des acomptes versés sur
 les dividendes afférents à un exercice fait l'objet d'une liquidation définitive
@@ -117,10 +139,11 @@ b. L'application de ce taux réduit est subordonnée à la condition que les
 opérations de construction correspondantes présentent un caractère accessoire
 pour la société intéressée.
 
-(1) Cette fraction est égale à quinze quarante-cinquièmes lorsque la liquidation
-est intervenue au cours des exercices ouverts entre le 1er janvier 1986 et le 31
-décembre 1987. Elle est égale à quinze quarante-deuxièmes lorsque la liquidation
-est intervenue au cours des exercices ouverts à compter du 1er janvier 1988.
+(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1990. Il
+était fixé à 45 % pour les exercices ouverts entre le 1er janvier 1986 et le 31
+décembre 1987, à 42 % pour les exercices ouverts entre le 1er janvier 1988 et le
+31 décembre 1988 et à 39 % pour les exercices ouverts à compter du 1er janvier
+1989.
 
 (2) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O.
 du 1er janvier 1977).

@@ -28,6 +28,13 @@ allocataires bénéficiant du revenu minimum d'insertion institué par la loi n�
 bénéficiaires de l'allocation d'insertion prévue à l'article L. 351-9 du code du
 travail.
 
+8° Les personnes occupant un logement situé dans les départements de Paris, des
+Hauts-de-Seine, de Seine-Saint-Denis, du Val-de-Marne, de la Seine-et-Marne, des
+Yvelines, de l'Essonne et du Val-d'Oise.
+
+9° Les personnes occupant un logement situé dans les départements de la
+Guadeloupe, de la Martinique, de la Guyane et de la Réunion.
+
 Cette allocation de logement ne peut se cumuler avec celle qui est prévue par
 l'article L. 542-1 du présent code, sous réserve des dispositions prévues au
 dernier alinéa de l'article L. 831-1 ci-dessus.

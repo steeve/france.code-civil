@@ -1,8 +1,8 @@
 Article 39 terdecies
 ----
 1 Le régime des plus-values à long terme est applicable, dans les conditions et
-limites qui pourront être fixées par décret (1), aux produits des cessions de
-brevets, de procédés et de techniques, ainsi qu'aux concessions de licences
+limites qui pourront être fixées par décret, aux produits des cessions de
+brevets, de procédés et de techniques (1), ainsi qu'aux concessions de licences
 exclusives d'exploitation. Pour l'imposition des bénéfices des exercices clos à
 partir du 31 décembre 1984, ce régime s'applique également aux concessions non
 exclusives d'exploitation.
@@ -13,8 +13,8 @@ particulière. Ces dispositions cessent d'être applicables pour l'imposition de
 bénéfices des exercices clos à partir du 31 décembre 1984.
 
 Ce régime s'applique également, dans des conditions et limites qui seront fixées
-par décret (1), aux produits de cessions de brevets ou de concessions de
-licences d'exploitation de brevets en cours de délivrance.
+par décret, aux produits de cessions de brevets ou de concessions de licences
+d'exploitation de brevets en cours de délivrance.
 
 Les dispositions qui précèdent ne sont pas applicables lorsque les droits,
 procédés et techniques ne présentent pas le caractère d'éléments de l'actif
@@ -43,9 +43,21 @@ régime fiscal des plus-values à long terme.
 
 3 (Abrogé)
 
-4 Les distributions par les sociétés de capital-risque de produits et
-plus-values nets éxonérés en application du 3° septies de l'article 208 sont
-soumises, lorsque l'actionnaire est une entreprise, au régime fiscal des
-plus-values à long terme.
+4 Les distributions par les sociétés de capital-risque qui fonctionnent dans les
+conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985
+portant diverses dispositions d'ordre économique et financier sont soumises,
+lorsque l'actionnaire est une entreprise, au régime fiscal des plus-values à
+long terme réalisées lors de la cession d'actions si la distribution est
+prélevée sur des plus-values :
 
-(1) Décret à émettre
+- provenant de titres, cotés ou non cotés, détenus depuis au moins deux ans et
+de la nature de ceux qui sont visés dans la première phrase du premier alinéa du
+I du même article 1er ;
+
+- et réalisées au cours de l'exercice au titre duquel la distribution est
+effectuée ou des trois exercices précédents (2).
+
+(1) [*cessions ou concessions de logiciels originaux ou génériques par des
+personnes physiques*] loi 89-935 art. 21.
+
+(2) Ces dispositions sont applicables à compter du 1er janvier 1991.

@@ -52,21 +52,48 @@ portefeuille ;
 63-683 du 13 juillet 1963, pour la fraction de leur bénéfice net qui provient de
 la location de leurs immeubles ;
 
-3° quater. Les sociétés immobilières pour le commerce et l'industrie [*SICOMI*]
-visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967, pour la
-fraction de leur bénéfice net provenant de la location de leurs immeubles ainsi
-que pour les plus-values dégagées par la cession de ces immeubles dans le cadre
-d'opérations de crédit-bail ; Lorsque des sociétés immobilières pour le commerce
-et l'industrie louent leurs immeubles en location simple à des personnes
-physiques ou morales exerçant dans les locaux une activité administrative ou une
-profession n'ayant pas un caractère industriel ou commercial, les dispositions
-du premier alinéa sont limitées au bénéfice net ou aux plus-values provenant des
-immeubles qui sont utilisés pour l'exercice d'une profession industrielle ou
-commerciale ; Toutefois, ne sont pas exonérés d'impôt sur les sociétés les
-bénéfices réalisés directement ou indirectement à l'étranger. Les dispositions
-du d) du 6 de l'article 145, du 3° de l'article 158 quater, de l'article 209 ter
-et du 3° du 3 de l'article 223 sexies ne sont pas applicables aux dividendes
-prélevés sur ces bénéfices.
+3° quater. Les sociétés qui, à la date du 1er janvier 1991 étaient autorisées à
+porter la dénomination de société immobilière pour le commerce et l'industrie
+visée à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967 relative aux
+opérations de crédit-bail et aux sociétés immobilières pour le commerce et
+l'industrie, pour la fraction de leur bénéfice net provenant d'opérations de
+crédit-bail réalisées en France et conclues avant le 1er janvier 1991 ainsi que
+pour les plus-values dégagées par la cession d'immeubles dans le cadre de ces
+opérations.
+
+Par dérogation aux dispositions de l'alinéa précédent, les sociétés immobilières
+pour le commerce et l'industrie sont, sur option de leur part exercée avant le
+1er juillet 1991, exonérées d'impôt sur les sociétés pour la fraction de leur
+bénéfice net provenant d'opérations de crédit-bail réalisées en France, conclues
+avant le 1er janvier 1996 et portant sur des immeubles affectés à une activité
+industrielle ou commerciale autres que les locaux à usage de bureau, ainsi que
+pour les plus-values dégagées par la cession d'immeubles dans le cadre de ces
+opérations.
+
+Le bénéfice net des sociétés visées aux premier et deuxième alinéas provenant de
+la location simple de leurs immeubles, par contrat conclu avant le 1er janvier
+1991, à des personnes physiques ou morales qui y exercent une activité
+industrielle ou commerciale, est retenu pour le calcul de l'impôt sur les
+sociétés à concurrence de :
+
+- 20 p. 100 de son montant pour l'exercice clos en 1991 ;
+
+- 40 p. 100 pour l'exercice clos en 1992 ;
+
+- 60 p. 100 pour l'exercice clos en 1993 ;
+
+- 80 p. 100 pour l'exercice clos en 1994 ;
+
+- 100 p. 100 pour les exercices clos en 1995 et ultérieurement.
+
+Les bénéfices qui proviennent des opérations totalement ou partiellement
+exonérées en application des alinéas précédents sont obligatoirement distribués
+à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant la fin de
+l'exercice qui suit celui de leur réalisation.
+
+Les dispositions du d du 6 de l'article 145, du 3° de l'article 158 quater, du
+3° de l'article 209 ter et du 3° du 3 de l'article 223 sexies sont applicables
+aux dividendes prélevés sur ces bénéfices.
 
 Les sommes qui sont investies, soit directement, soit par l'intermédiaire de
 filiales, dans des immobilisations à l'étranger sont soumises à l'impôt sur les

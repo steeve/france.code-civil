@@ -8,10 +8,7 @@ Toutefois dans les zones dans lesquelles des plantations et semis d'essences
 forestières sont interdits ou réglementés dans des conditions déterminées par
 décret en Conseil d'Etat (1), en vertu des dispositions de l'article 52-1 du
 code rural, les plantations ou semis exécutés en violation de ces conditions ne
-peuvent bénéficier de l'exonération; 2° Les marais desséchés, pendant les vingt
-premières années après le desséchement; Cette exonération est subordonnée à une
-délibération des collectivités locales prise dans les conditions définies à
-l'article 1639 A bis pour les marais desséchés à compter de 1991 ;
+peuvent bénéficier de l'exonération; 2° (Abrogé).
 
 3° Les terres incultes, les terres vaines et vagues ou en friche depuis quinze
 ans [*délai*], qui sont plantées en mûriers ou arbres fruitiers ou mises en

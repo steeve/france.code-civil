@@ -15,11 +15,12 @@ II. L'exonération est subordonnée aux conditions suivantes :
 décembre 1989, ces fonds doivent être soumis aux dispositions du titre II bis de
 la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement et
 leurs actifs doivent être constitués de façon constante et pour 40 % au moins de
-titres, y compris les obligations convertibles, émis. a. Aux fins
-d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par
-des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à
-l'article 34 et dont les actions ne sont pas admises à la cote officielle ou à
-la cote du second marché ;
+titres, y compris les obligations convertibles, émis.
+
+a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er
+janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une
+activité visée à l'article 34 et dont les actions ne sont pas admises à la cote
+officielle ou à la cote du second marché ;
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée
 par apport en numéraire après le 1er janvier 1984 ;
@@ -32,8 +33,7 @@ dispositions d'ordre économique et financier.
 
 Toutefois, jusqu'au 31 décembre 1992, l'exonération s'applique si toute
 augmentation de l'actif des fonds est investie pour 50 p. 100 au moins en titres
-visés au premier alinéa du I de l'article 1er de la loi précitée, dont la moitié
-au moins doivent être souscrits à l'émission.
+visés au premier alinéa du I de l'article 1er de la loi précitée.
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans
 le fonds et demeurer indisponibles pendant la période visée au I, premier alinéa

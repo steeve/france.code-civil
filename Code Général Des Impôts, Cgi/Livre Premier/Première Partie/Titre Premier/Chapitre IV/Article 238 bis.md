@@ -7,7 +7,9 @@ effectués au profit d'oeuvres ou d'organismes d'intérêt général ayant un
 caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif,
 familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à
 la défense de l'environnement naturel ou à la diffusion de la culture, de la
-langue et des connaissances scientifiques françaises.
+langue et des connaissances scientifiques françaises notamment quand ces
+versements sont faits au bénéfice d'une fondation d'entreprise, même si cette
+dernière porte le nom d'entreprise fondatrice.
 
 Sont également déductibles, dans la même limite, les dons prévus à l'article L.
 52-8 du code électoral versés à une association de financement électoral ou à un
@@ -43,11 +45,12 @@ suivants, après déduction des versements effectués au titre de chacun de ces
 exercices, sans qu'il puisse en résulter un dépassement des plafonds de
 déductibilité définis à ces mêmes 1 et 2.
 
-4. La déduction mentionnée au 1 peut être effectuée, dans la limite de 2 p. 1000
-pour les dons faits à des organismes répondant à des conditions quant à leur
-statut et leurs conditions de fonctionnement fixées par décret en Conseil d'Etat
-et ayant pour objet exclusif de participer, par le versement d'aides
-financières, à la création d'entreprises (2).
+4. Pour les sommes versées au cours des exercices ouverts à compter du 1er
+janvier 1991, la déduction mentionnée au I peut être effectuée, dans la limite
+de 3 pour 1000 pour les dons faits à des organismes répondant à des conditions
+quant à leur statut et leurs conditions de fonctionnement fixées par décret en
+Conseil d'Etat et ayant pour objet exclusif de participer, par le versement
+d'aides financières, à la création d'entreprises (2).
 
 Dans tous les cas, ces organismes doivent être agréés par le ministre chargé du
 budget.

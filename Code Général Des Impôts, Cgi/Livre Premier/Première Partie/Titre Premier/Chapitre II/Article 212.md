@@ -7,13 +7,15 @@ conditions prévues à l'article 39-1-3°.
 Toutefois :
 
 1° La déduction n'est admise, en ce qui concerne les associés ou actionnaires
-possédant, en droit ou en fait, la direction de l'entreprise que dans la mesure
-où ces sommes n'excèdent pas, pour l'ensemble desdits associés ou actionnaires,
-une fois et demie le montant du capital social.
+possédant, en droit ou en fait, la direction de l'entreprise ou détenant plus de
+50 p. 100 des droits financiers ou des droits de vote attachés aux titres émis
+par la société, que dans la mesure où ces sommes n'excèdent pas, pour l'ensemble
+desdits associés ou actionnaires, une fois et demie le montant du capital
+social.
 
 Cette limite n'est pas applicable :
 
-a. Aux intérêts bénéficiant des dispositions de l'article 125 C-I ;
+a. Aux intérêts bénéficiant des dispositions de l'article 125 C I ;
 
 b. Aux intérêts afférents aux avances consenties par une société ou à une autre
 société lorsque la première possède, au regard de la seconde, la qualité de

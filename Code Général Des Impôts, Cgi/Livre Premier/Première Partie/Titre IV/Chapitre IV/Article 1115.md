@@ -7,5 +7,8 @@ des droits et taxes de mutation à condition :
 - d'une part, qu'elles se conforment aux obligations particulières qui leur sont
 faites par l'article 290;
 
-- d'autre part, qu'elles fassent connaître leur intention de revendre dans un
-délai de cinq ans.
+-d'autre part, qu'elles fassent connaître leur intention de revendre dans un
+délai de quatre ans.
+
+-En cas d'acquisitions successives par des personnes mentionnées ci-dessus, le
+délai imparti au premier acquéreur s'impose à chacune de ces personnes.
