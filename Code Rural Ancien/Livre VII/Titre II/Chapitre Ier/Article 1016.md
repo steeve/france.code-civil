@@ -1,4 +1,4 @@
 Article 1016
 ----
-Les conseils de la mutualité sociale agricole rendent compte de leur gestion aux
-nouvelles assemblées générales.
+Le personnel salarié ne peut pas faire partie du conseil d'administration de la
+caisse de mutualité sociale agricole qui l'emploie.

@@ -1,10 +1,14 @@
 Article 1023
 ----
-L'employeur qui refuse à un salarié l'autorisation de quitter le travail pour
-exprimer son vote est passible d'une amende de 80 à 160 F par salarié pour
-lequel l'infraction a été commise.
+En cas d'irrégularités graves, de mauvaise gestion ou de carence du conseil
+d'administration d'un organisme de mutualité sociale agricole, ce conseil peut
+être suspendu ou dissous par un arrêté du ministre de l'agriculture qui nomme un
+administrateur provisoire.
 
-Les articles 31 à 52 du décret organique du 2 février 1852, l'article 6 de la
-loi du 7 juillet 1874 et les articles 1er, 2, 3, 4, 10 et 11 de la loi du 31
-mars 1914 relatifs aux pénalités en cas de fraude électorale et de corruption
-dans les opérations électorales sont applicables.
+En cas de faute grave d'un administrateur, celui-ci peut être révoqué, après
+avis du conseil, par arrêté du ministre de l'agriculture.
+
+Les administrateurs révoqués ainsi que les membres d'un conseil d'administration
+qui a été dissous ne peuvent faire partie d'un conseil d'administration, à
+quelque titre que ce soit, pendant une durée de quatre ans à compter de la
+révocation ou de la dissolution.

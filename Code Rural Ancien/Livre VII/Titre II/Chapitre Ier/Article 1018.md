@@ -1,17 +1,10 @@
 Article 1018
 ----
-Une assemblée générale centrale de la mutualité sociale agricole, commune à la
-caisse centrale de secours mutuels agricoles et à la caisse centrale
-d'allocations familiales agricoles, est formée des délégués élus par les
-conseils d'administration de la mutualité sociale agricole, à raison de deux
-délégués appartenant au premier collège, d'un délégué appartenant au deuxième
-collège et d'un délégué appartenant au troisième collège.
+Les scrutins pour l'élection des délégués communaux des premier et troisième
+collèges et des délégués cantonaux du deuxième collège ont lieu le même jour à
+une date fixée par arrêté du ministre de l'agriculture.
 
-L'assemblée générale élit dans son sein le conseil central d'administration de
-la mutualité sociale agricole qui comprend seize membres, dont huit appartenant
-au premier collège, quatre appartenant au deuxième collège et quatre appartenant
-au troisième collège.
+Le vote a lieu dans les mairies sous la présidence du maire ou de son délégué.
 
-Le conseil central d'administration de la mutualité sociale agricole comporte,
-en outre, deux représentants des familles désignés par l'union nationale des
-associations familiales sur la proposition des associations familiales rurales.
+L'électeur empêché de prendre part au scrutin peut voter par procuration dans
+les conditions et limites fixées par le décret prévu à l'article 1023-1.

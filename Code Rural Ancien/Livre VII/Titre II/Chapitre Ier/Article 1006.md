@@ -1,28 +1,24 @@
 Article 1006
 ----
-Sont électeurs dans les collèges ci-dessus définis, à condition de n'avoir pas
-été condamnés à l'une des peines entraînant, selon la loi française, la
-déchéance des droits civiques :
+Les délégués communaux des premier et troisième collèges élisent dans leur sein
+six délégués cantonaux et six suppléants, à raison de quatre délégués et quatre
+suppléants pour le premier collège et de deux délégués et deux suppléants pour
+le troisième.
 
-a) Les personnes de nationalité française ou protégées françaises, âgées de
-dix-huit ans au moins, bénéficiaires ou non des prestations et dont toutes les
-cotisations, personnellement dues par elles et réclamées depuis six mois au
-moins, ont été acquittées ;
+Sont proclamés élus pour chacun des collèges, les délégués et suppléants ayant
+obtenu le plus grand nombre de voix au scrutin majoritaire à un tour.
 
-b) Dans le cadre des règles de réciprocité prévues par les accords
-internationaux, les personnes de nationalité étrangère âgées de dix-huit ans au
-moins, bénéficiaires ou non des prestations, et dont toutes les cotisations,
-dues par elles, et réclamées depuis six mois au moins, ont été acquittées, et
-qui résident depuis deux ans au moins en France ;
+En cas de vacance au sein des délégués cantonaux des premier et troisième
+collèges, les suppléants des délégués dont les fonctions ont pris fin sont
+appelés à prendre part à l'assemblée générale de la mutualité sociale agricole
+jusqu'aux élections cantonales suivantes.
 
-c) Si elles sont âgées de dix-huit ans au moins, ont acquitté toutes les
-cotisations dues par elles et réclamées depuis moins de six mois, qu'elles
-bénéficient ou non des prestations, les personnes de nationalité étrangère
-exerçant en France l'activité d'exploitant agricole, en vertu de dispositions de
-droit interne français prises pour l'application des articles 52 à 58 du traité
-instituant la Communauté économique européenne, et notamment des dispositions du
-décret n° 63-1019 du 10 octobre 1963 relatif à l'accès à la condition
-d'exploitant agricole de certains ressortissants de cette Communauté.
+A Paris et dans les villes divisées en arrondissements ou en cantons qui ne
+comprennent pas de communes suburbaines, les électeurs des premier et troisième
+collèges procèdent directement, par arrondissement ou par canton, à l'élection
+de six délégués cantonaux et six suppléants, dans les conditions prévues aux
+deux premiers alinéas du présent article.
 
-Lorsque l'employeur est une personne morale, l'électeur est un mandataire
-désigné par elle à cet effet.
+Dans le cas du regroupement de l'ensemble des communes d'un canton, il est
+procédé à l'élection des délégués cantonaux et de leurs suppléants, dans les
+conditions prévues à l'alinéa précédent.
