@@ -52,3 +52,6 @@ réalisation d'opérations pour lesquelles la réserve a été constituée
 conformément aux dispositions des articles L. 221-1 et L. 221-2 du code de
 l'urbanisme ou de l'article 13 (2ème alinéa) de la loi n. 70-612 du 10 juillet
 1970.
+
+" 7°. - Les immeubles expropriés en vue de l'aménagement et de l'exploitation
+d'installations d'élimination ou de traitement des déchets. "
