@@ -9,5 +9,5 @@ l'article 99 et de toutes pièces justificatives.
 
 Si les renseignements et justifications fournis sont jugés insuffisants,
 l'administration détermine le bénéfice imposable et engage la procédure de
-redressement contradictoire prévue à l'article L 55 du livre des procédures
+rectification contradictoire prévue à l'article L 55 du livre des procédures
 fiscales.

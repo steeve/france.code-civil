@@ -2,7 +2,7 @@ Article L209
 ----
 Lorsque le tribunal administratif rejette totalement ou partiellement la demande
 d'un contribuable tendant à obtenir l'annulation ou la réduction d'une
-imposition établie en matière d'impôts directs à la suite d'un redressement ou
+imposition établie en matière d'impôts directs à la suite d'une rectification ou
 d'une taxation d'office, les cotisations ou fractions de cotisations maintenues
 à la charge du contribuable et pour lesquelles celui-ci avait présenté une
 réclamation assortie d'une demande de sursis de paiement donnent lieu au

@@ -1,6 +1,6 @@
 Article L56
 ----
-La procédure de redressement contradictoire n'est pas applicable :
+La procédure de rectification contradictoire n'est pas applicable :
 
 1° En matière d'impositions directes perçues au profit des collectivités locales
 ou d'organismes divers ;

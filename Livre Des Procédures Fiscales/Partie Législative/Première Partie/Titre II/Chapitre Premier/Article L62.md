@@ -5,7 +5,7 @@ lesquels porte cette vérification, les contribuables dont le chiffre d'affaires
 de l'un quelconque des exercices soumis à vérification, ajusté, s'il y a lieu, à
 une période de douze mois, ne dépasse pas les limites prévues au paragraphe I de
 l'article 302 septies A du code général des impôts, peuvent, à condition de
-présenter une demande en ce sens avant toute notification de redressement,
+présenter une demande en ce sens avant toute proposition de rectification,
 réparer, moyennant le paiement de l'intérêt de retard visé à l'article 1727 du
 même code, les erreurs ou inexactitudes, omissions ou insuffisances constatées.
 

@@ -12,5 +12,5 @@ inférieur à deux mois.
 En l'absence de réponse ou si les justifications prévues à l'article 885 Z du
 code général des impôts ou demandées en application du premier alinéa sont
 estimées insuffisantes, l'administration peut rectifier les déclarations d'impôt
-de solidarité sur la fortune en se conformant à la procédure de redressement
+de solidarité sur la fortune en se conformant à la procédure de rectification
 contradictoire prévue à l'article L. 55.

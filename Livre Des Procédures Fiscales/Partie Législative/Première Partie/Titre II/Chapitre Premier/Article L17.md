@@ -8,6 +8,6 @@ lorsque ce prix ou cette évaluation paraît inférieur à la valeur vénale ré
 des biens transmis ou désignés dans les actes ou déclarations.
 
 La rectification correspondante est effectuée suivant la procédure de
-redressement contradictoire prévue à l'article L. 55, l'administration étant
+rectification contradictoire prévue à l'article L. 55, l'administration étant
 tenue d'apporter la preuve de l'insuffisance des prix exprimés et des
 évaluations fournies dans les actes ou déclarations.

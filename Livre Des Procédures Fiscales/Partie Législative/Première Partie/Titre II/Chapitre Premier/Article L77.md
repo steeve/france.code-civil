@@ -6,7 +6,7 @@ supplément de taxes sur le chiffre d'affaires et taxes assimilées afférent à
 exercice donné est déduit, pour l'assiette de l'impôt sur le revenu ou de
 l'impôt sur les sociétés, des résultats du même exercice, sauf demande expresse
 des contribuables, formulée dans le délai qui leur est imparti pour répondre à
-la notification de redressements. Dans ce dernier cas, la prescription est
+la proposition de rectification. Dans ce dernier cas, la prescription est
 réputée interrompue, au sens des articles L. 76 et L. 189, à hauteur des bases
 de l'impôt sur le revenu ou de l'impôt sur les sociétés notifiées avant
 déduction du supplément de taxes sur le chiffre d'affaires et taxes assimilées.
@@ -14,10 +14,10 @@ déduction du supplément de taxes sur le chiffre d'affaires et taxes assimilée
 Toutefois, lorsque la taxe sur la valeur ajoutée rappelée est afférente à une
 opération au titre de laquelle la taxe due peut être totalement ou partiellement
 déduite par le redevable lui-même, les dispositions prévues au premier alinéa ne
-s'appliquent pas au montant de la taxe déductible (1).
+s'appliquent pas au montant de la taxe déductible.
 
 Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où
-le bénéfice correspondant aux redressements effectués est considéré comme
+le bénéfice correspondant aux rectifications effectuées est considéré comme
 distribué, par application des articles 109 et suivants du code général des
 impôts, à des associés ou actionnaires dont le domicile ou le siège est situé en
 France, demander que l'impôt sur le revenu supplémentaire dû par les

@@ -90,7 +90,7 @@ l'intermédiaire de leur mandataire.
 que soient jointes à la déclaration des revenus des pièces justificatives,
 répondant à un modèle fixé par un arrêté attestant le total du montant et la
 date des versements ainsi que l'identité des bénéficiaires. A défaut, la
-réduction d'impôt est refusée sans notification de redressement préalable.
+réduction d'impôt est refusée sans proposition de rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
 cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la

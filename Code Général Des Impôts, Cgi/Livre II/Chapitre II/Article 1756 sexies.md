@@ -11,8 +11,6 @@ insuffisances, inexactitudes ou omissions que comportent les déclarations.
 a. Que ces insuffisances, inexactitudes ou omissions n'aient fait l'objet,
 antérieurement à la date d'expédition de la lettre recommandée mentionnée au 1,
 de l'engagement d'aucune procédure administrative ou judiciaire ni d'aucune
-notification de redressement ;
+proposition de rectification ;
 
-b. Que l'impôt en principal soit acquitté dans les délais impartis (1).
-
-(1) Dispositions applicables à compter du 1er janvier 1983.
+b. Que l'impôt en principal soit acquitté dans les délais impartis.

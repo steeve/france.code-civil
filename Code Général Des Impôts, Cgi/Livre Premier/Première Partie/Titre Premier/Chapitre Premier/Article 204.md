@@ -29,6 +29,6 @@ produite par les ayants droit du défunt dans les six mois de la date du décès
 Elle est soumise aux règles et sanctions prévues à l'égard des déclarations
 annuelles. Les demandes d'éclaircissements et de justifications prévues par les
 articles L 10 et L 16 du livre des procédures fiscales ainsi que les
-notifications mentionnées à l'article L 57 du même livre peuvent être
-valablement adressées à l'un quelconque des ayants droit ou des signataires de
-la déclaration de succession.
+propositions de rectification mentionnées à l'article L 57 du même livre peuvent
+être valablement adressées à l'un quelconque des ayants droit ou des signataires
+de la déclaration de succession.

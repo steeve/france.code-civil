@@ -1,6 +1,6 @@
 Article L45 A
 ----
-Lorsqu'une vérification de comptabilité ou une procédure de redressement
+Lorsqu'une vérification de comptabilité ou une procédure de rectification
 requiert des connaissances techniques particulières, l'administration peut faire
 appel aux conseils techniques d'agents de l'Etat ou des établissements publics
 figurant sur une liste arrêtée par le ministre chargé du budget.

@@ -18,7 +18,7 @@ articles 1761 et 1762 quater sont applicables.
 
 3. Lorsqu'il est fait application de l'article L. 188 A du livre des procédures
 fiscales, le décompte de l'intérêt de retard est arrêté au dernier jour du mois
-de la notification de redressement intervenue dans le délai initial de reprise
+de la proposition de rectification intervenue dans le délai initial de reprise
 ou, à défaut, au dernier jour de ce délai.
 
 4. En cas de manquement aux engagements pris en application du b du 2° du 2 de
