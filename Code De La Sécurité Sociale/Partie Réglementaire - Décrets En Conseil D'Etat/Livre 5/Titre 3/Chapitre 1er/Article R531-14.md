@@ -2,9 +2,9 @@ Article R531-14
 ----
 I. - Il est procédé à une évaluation forfaitaire des ressources de la personne
 et de son conjoint ou concubin, conformément au II ci-dessous, dès lors que l'un
-ou l'autre perçoit une rémunération et ne perçoit pas l'allocation mentionnée à
-l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum
-d'insertion :
+ou l'autre perçoit une rémunération et ne perçoit ni l'allocation mentionnée à
+l'article L. 262-3 du code de l'action sociale et des familles ni l'allocation
+mentionnée à l'article L. 821-1 du présent code :
 
 a) Lors de l'ouverture du droit, si le total des ressources de la personne ou du
 ménage perçues au titre de l'année civile de référence et appréciées selon les
@@ -19,10 +19,12 @@ ci-dessus, si ni le bénéficiaire ni son conjoint ou concubin n'a disposé de
 ressources appréciées conformément à l'article R. 531-10 pendant l'année civile
 de référence.
 
-La condition relative à l'existence d'une activité professionnelle rémunérée ou
-à la perception de l'allocation mentionnée à l'article 4 de la loi du 1er
-décembre 1988 précitée est appréciée au cours du mois civil précédant
-l'ouverture du droit ou du mois de mai précédant le renouvellement du droit.
+La condition relative à l'existence d'une activité professionnelle rémunérée ou,
+à la perception de l'allocation mentionnée à l'article L. 262-3 du code de
+l'action sociale et des familles ou à celle de l'allocation mentionnée à
+l'article L. 821-1 du présent code est appréciée au cours du mois civil
+précédant l'ouverture du droit ou du mois de mai précédant le renouvellement du
+droit.
 
 II. - L'évaluation forfaitaire correspond :
 
