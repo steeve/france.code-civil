@@ -16,5 +16,6 @@ trente jours prévu à l'article L. 80 H.
 Les conséquences de ce retrait d'autorisation sont opposées à l'intéressé et aux
 personnes visées au 2 du II de l'article 277 A du code général des impôts, au
 regard d'impositions de toute nature, dans le cadre des procédures de
-redressement mentionnées aux articles L. 55 et suivants, sauf pour l'application
-de l'amende prévue à l'article 1788 octies du code général des impôts.
+rectification mentionnées aux articles L. 55 et suivants, sauf pour
+l'application de l'amende prévue à l'article 1788 octies du code général des
+impôts.

@@ -1,6 +1,6 @@
 Article L57
 ----
-L'administration adresse au contribuable une notification de redressement qui
+L'administration adresse au contribuable une proposition de rectification qui
 doit être motivée de manière à lui permettre de formuler ses observations ou de
 faire connaître son acceptation.
 

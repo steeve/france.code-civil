@@ -14,6 +14,6 @@ les actes qui donnent lieu à la formalité fusionnée en application de l'artic
 l'Etat.
 
 Les compensations de droits sont opérées dans les mêmes conditions au profit du
-contribuable qui a fait l'objet d'un redressement lorsqu'il démontre qu'une
-taxation excessive a été établie à son détriment ou lorsque le redressement fait
-apparaître une double imposition.
+contribuable qui a fait l'objet d'une rectification lorsqu'il démontre qu'une
+taxation excessive a été établie à son détriment ou lorsque la rectification
+fait apparaître une double imposition.
