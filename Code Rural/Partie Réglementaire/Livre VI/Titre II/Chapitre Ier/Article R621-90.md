@@ -1,0 +1,6 @@
+Article R621-90
+----
+Les coopératives et les négociants en grains adressent régulièrement au service
+régional de l'Office national interprofessionnel des céréales des bordereaux
+mensuels portant détail et total de toutes les opérations d'entrée et de sortie
+des céréales avec désignation des vendeurs et des acheteurs.
