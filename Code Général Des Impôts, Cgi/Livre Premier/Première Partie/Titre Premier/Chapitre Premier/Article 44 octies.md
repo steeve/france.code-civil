@@ -3,24 +3,26 @@ Article 44 octies
 I. Les contribuables qui exercent ou créent des activités avant le 31 décembre
 2001 dans les zones franches urbaines définies au B du 3 de l'article 42 modifié
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire sont exonérés d'impôt sur le revenu ou d'impôt sur
-les sociétés à raison des bénéfices provenant des activités implantées dans la
-zone jusqu'au terme du cinquante-neuvième mois suivant celui de la délimitation
-de la zone pour les contribuables qui y exercent déjà leur activité ou, dans le
-cas contraire, celui de leur début d'activité dans l'une de ces zones. Ces
-bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à
-hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés
-respectivement au cours de la première, de la deuxième ou de la troisième
-période de douze mois suivant cette période d'exonération. Cependant pour les
-entreprises de moins de cinq salariés, ces bénéfices sont soumis à l'impôt sur
-le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur
-montant selon qu'ils sont réalisés respectivement au cours des cinq premières,
-de la sixième et septième ou de la huitième et neuvième périodes de douze mois
-suivant cette période d'exonération. L'effectif salarié s'apprécie au cours de
-la dernière période d'imposition au titre de laquelle l'exonération au taux de
-100 % s'applique. Les salariés saisonniers ou à temps incomplet sont pris en
-compte au prorata de la durée du temps de travail prévue à leur contrat. La date
-de délimitation des zones franches urbaines visée au présent article est réputée
+développement du territoire et dont la liste figure au I de l'annexe à la loi n°
+96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour
+la ville, sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à
+raison des bénéfices provenant des activités implantées dans la zone jusqu'au
+terme du cinquante-neuvième mois suivant celui de la délimitation de la zone
+pour les contribuables qui y exercent déjà leur activité ou, dans le cas
+contraire, celui de leur début d'activité dans l'une de ces zones. Ces bénéfices
+sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de
+40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au
+cours de la première, de la deuxième ou de la troisième période de douze mois
+suivant cette période d'exonération. Cependant pour les entreprises de moins de
+cinq salariés, ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt
+sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils
+sont réalisés respectivement au cours des cinq premières, de la sixième et
+septième ou de la huitième et neuvième périodes de douze mois suivant cette
+période d'exonération. L'effectif salarié s'apprécie au cours de la dernière
+période d'imposition au titre de laquelle l'exonération au taux de 100 %
+s'applique. Les salariés saisonniers ou à temps incomplet sont pris en compte au
+prorata de la durée du temps de travail prévue à leur contrat. La date de
+délimitation des zones franches urbaines mentionnée au présent I est réputée
 correspondre, dans tous les cas, au 1er janvier 1997.
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité
@@ -110,3 +112,15 @@ d'activités préexistantes exercées dans les zones franches urbaines ou qui
 reprennent de telles activités, sauf pour la durée restant à courir, si
 l'activité reprise ou transférée bénéficie ou a bénéficié du régime
 d'exonération prévu au présent article.
+
+VI. - Les dispositions des I à IV sont applicables aux contribuables qui
+exercent ou qui créent des activités entre le 1er janvier 2004 et le 31 décembre
+2008 inclus dans les zones franches urbaines définies au B du 3 de l'article 42
+de la loi n° 95-115 du 4 février 1995 précitée et dont la liste figure au I bis
+de l'annexe à la loi n° 96-987 du 14 novembre 1996 précitée.
+
+L'exonération s'applique à l'exercice ou la création d'activités résultant d'une
+reprise, d'un transfert, d'une concentration ou d'une restructuration
+d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont
+bénéficié du régime prévu au présent article, l'exonération ne s'applique que
+pour sa durée restant à courir.

@@ -3,43 +3,38 @@ Article 83
 Le montant net du revenu imposable est déterminé en déduisant du montant brut
 des sommes payées et des avantages en argent ou en nature accordés :
 
-1° Les cotisations de sécurité sociale ;
+1° Les cotisations de sécurité sociale, y compris les cotisations d'assurance
+vieillesse versées en exercice des facultés de rachat prévues aux articles L.
+351-14-1 du code de la sécurité sociale et L. 9 bis du code des pensions civiles
+et militaires de retraite, les cotisations versées aux régimes de retraite
+complémentaire mentionnés au chapitre Ier du titre II du livre IX du code de la
+sécurité sociale, ainsi que les cotisations au régime public de retraite
+additionnel obligatoire institué par l'article 76 de la loi n° 2003-775 du 21
+août 2003 portant réforme des retraites ;
 
-1° bis Les cotisations afférentes au régime de retraite complémentaire institué
-par la caisse nationale de prévoyance de la fonction publique. Des décrets
-peuvent étendre le bénéfice de cette disposition aux régimes de retraites
-complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des
-collectivités locales et des établissements publics, soit auprès d'organismes
-relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies
-par le livre III du code des assurances.
+1° bis Abrogé
 
 1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17
 janvier 2002).
 
-2° Les cotisations ou les primes versées aux organismes de retraite et de
-prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire
-ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre
-obligatoire au régime de prévoyance des joueurs professionnels de football
-institué par la charte du football professionnel.
+1° quater Les cotisations ou primes versées aux régimes de prévoyance
+complémentaire auxquels le salarié est affilié à titre obligatoire, dans la
+limite d'un plafond, qui tient compte des versements du salarié et de
+l'employeur, fixé par la loi. En cas d'excédent, celui-ci est ajouté à la
+rémunération ;
 
-Lorsque le total des versements du salarié et de l'employeur tant aux caisses de
-sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de
-retraite et de prévoyance complémentaires excède 19 % d'une somme égale à huit
-fois le plafond annuel moyen retenu pour le calcul des cotisations de sécurité
-sociale ou lorsqu'à l'intérieur de cette limite, les versements aux seuls
-organismes de prévoyance dépassent 3 % de la même somme, l'excédent est ajouté à
-la rémunération ;
+2° Les cotisations ou primes versées aux régimes de retraite supplémentaire
+auxquels le salarié est affilié à titre obligatoire ainsi que les cotisations
+versées, à compter du 1er janvier 1993, à titre obligatoire au régime de
+prévoyance des joueurs professionnels de football institué par la charte du
+football professionnel.
 
-Lorsque le total des versements aux caisses de sécurité sociale au titre de
-l'assurance vieillesse et aux régimes de retraites complémentaires adhérant à
-l'association des régimes de retraite complémentaire et à l'association générale
-des institutions de retraites des cadres excède 19 p. 100 d'une somme égale à
-huit fois le plafond annuel moyen retenu pour le calcul des cotisations de
-sécurité sociale, l'excédent n'est pas réintégré s'il correspond à des
-cotisations qui ne donnent pas droit à l'attribution de points supplémentaires
-de retraite ou à des rachats de cotisations afférents à la tranche C du salaire
-effectués auprès de régimes de retraites complémentaires adhérant à
-l'association générale des institutions de retraites des cadres ;
+Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles
+dans la limite d'un plafond fixé par la loi, qui tient compte des versements du
+salarié et de l'employeur ainsi que, le cas échéant, de l'abondement de
+l'employeur au plan partenarial d'épargne salariale volontaire pour la retraite
+défini à l'article L. 443-1-2 du code du travail. En cas d'excédent, celui-ci
+est ajouté à la rémunération ;
 
 2° bis Les contributions versées par les salariés en application des
 dispositions de l'article L. 351-3 du code du travail et destinées à financer le

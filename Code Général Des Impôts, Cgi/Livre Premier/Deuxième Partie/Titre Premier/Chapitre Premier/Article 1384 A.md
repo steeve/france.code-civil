@@ -14,9 +14,10 @@ même code, et qu'ils bénéficient des dispositions des 2 ou 3 du I de l'articl
 278 sexies. Pour les constructions financées dans les conditions prévues aux
 articles R. 331-14 à R. 331-16 du code de la construction et de l'habitation, la
 condition de financement s'apprécie en tenant compte des subventions versées par
-l'Etat, les collectivités territoriales et les établissements publics de
-coopération intercommunale ainsi que des prêts consentis au titre de la
-participation des employeurs à l'effort de construction (1).
+l'Etat, L'Agence nationale pour la rénovation urbaine, les collectivités
+territoriales et les établissements publics de coopération intercommunale ainsi
+que des prêts consentis au titre de la participation des employeurs à l'effort
+de construction.
 
 Toutefois, la durée de l'exonération est ramenée à dix ans pour les logements en
 accession à la propriété pour la réalisation desquels aucune demande de prêt n'a
@@ -26,9 +27,9 @@ Cette exonération ne s'applique pas aux logements financés au moyen de l'avanc
 remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la
 construction et de l'habitation.
 
-I bis Pour les constructions de logements visées au deuxième alinéa du I et pour
-lesquelles l'ouverture de chantier est intervenue à compter du 1er janvier 2002,
-la durée de l'exonération est portée à vingt ans lorsque ces constructions
+I bis. Pour les constructions de logements visées au deuxième alinéa du I et
+pour lesquelles l'ouverture de chantier est intervenue à compter du 1er janvier
+2002, la durée de l'exonération est portée à vingt ans lorsque ces constructions
 satisfont à au moins quatre des cinq critères de qualité environnementale
 suivants :
 
@@ -59,5 +60,4 @@ l'habitation, la durée d'exonération mentionnée au I est prolongée de cinq a
 Avant le 31 décembre de chaque année, la commission mentionnée à l'article L.
 615-1 du code de la construction et de l'habitation adresse à la direction des
 services fiscaux du lieu de situation de ces logements la liste des logements et
-de leurs propriétaires répondant aux conditions mentionnées au premier alinéa
-(2).
+de leurs propriétaires répondant aux conditions mentionnées au premier alinéa.

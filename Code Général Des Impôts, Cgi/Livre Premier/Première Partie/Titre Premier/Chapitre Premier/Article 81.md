@@ -226,3 +226,8 @@ disposition unilatérale de l'employeur aux marins exposés ou ayant été expos
 l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activité
 visée au 9° de l'article L. 12 du code des pensions de retraite des marins
 français du commerce, de pêche ou de plaisance.
+
+34° ...
+
+35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du
+travail.(1)

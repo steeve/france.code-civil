@@ -40,20 +40,20 @@ et affecté au plan d'épargne.
 
 Les entreprises peuvent constituer, en franchise d'impôt, une provision pour
 investissement égale à 25 % du montant des versements complémentaires effectués
-dans le cadre du plan partenarial d'épargne salariale volontaire défini à
-l'article L. 443-1-2 du code du travail. Ce taux est porté à 50 % pour les
-versements complémentaires investis en titres donnant accès au capital de
-l'entreprise.
+dans le cadre du plan partenarial d'épargne salariale volontaire pour la
+retraite défini à l'article L. 443-1-2 du code du travail. Ce taux est porté à
+50 % pour les versements complémentaires investis en titres donnant accès au
+capital de l'entreprise.
 
 Les entreprises qui versent, au titre du plan partenarial d'épargne salariale
-volontaire créé à l'article L. 443-1-2 du code du travail et dans le cadre des
-dispositions de l'article L. 443-7 du même code, des sommes complémentaires au
-montant versé par leurs salariés pour l'acquisition de parts de fonds régis par
-les quinzième à dix-huitième alinéas de l'article L. 214-39 du code monétaire et
-financier peuvent constituer, en franchise d'impôt, une provision pour
-investissement égale à 35 % des versements complémentaires. Les titres
-d'entreprises solidaires ou d'organismes acquis doivent être conservés pendant
-deux ans au moins par le fonds.
+volontaire pour la retraite créé à l'article L. 443-1-2 du code du travail et
+dans le cadre des dispositions de l'article L. 443-7 du même code, des sommes
+complémentaires au montant versé par leurs salariés pour l'acquisition de parts
+de fonds régis par les quinzième à dix-huitième alinéas de l'article L. 214-39
+du code monétaire et financier peuvent constituer, en franchise d'impôt, une
+provision pour investissement égale à 35 % des versements complémentaires. Les
+titres d'entreprises solidaires ou d'organismes acquis doivent être conservés
+pendant deux ans au moins par le fonds.
 
 2. Les sociétés anonymes à participation ouvrière peuvent constituer, en
 franchise d'impôt, à la clôture de chaque exercice, une provision pour
@@ -100,14 +100,15 @@ sociétés peut, sur autorisation du ministre chargé des finances, transférer 
 ou partie de son droit à constitution de ladite provision à l'une des autres
 sociétés du groupe dont il s'agit, ou à plusieurs d'entre elles.
 
-6. Lorsqu'un plan partenarial d'épargne salariale volontaire défini à l'article
-L. 443-1-2 du code du travail est créé par un accord de groupe prévu par
-l'article L. 444-3 du même code, la provision pour investissement est constituée
-par chacune des sociétés intéressées dans la limite des contributions
-complémentaires effectivement versées dans ce cadre. Toutefois, chacune de ces
-sociétés peut, sur autorisation du ministre chargé des finances, transférer tout
-ou partie de son droit à constitution de ladite provision à l'une des autres
-sociétés du groupe dont il s'agit, ou à plusieurs d'entre elles.
+6. Lorsqu'un plan partenarial d'épargne salariale volontaire pour la retraite
+défini à l'article L. 443-1-2 du code du travail est créé par un accord de
+groupe prévu par l'article L. 444-3 du même code, la provision pour
+investissement est constituée par chacune des sociétés intéressées dans la
+limite des contributions complémentaires effectivement versées dans ce cadre.
+Toutefois, chacune de ces sociétés peut, sur autorisation du ministre chargé des
+finances, transférer tout ou partie de son droit à constitution de ladite
+provision à l'une des autres sociétés du groupe dont il s'agit, ou à plusieurs
+d'entre elles.
 
 III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 premier jour du premier exercice ouvert après le 23 octobre 1986.

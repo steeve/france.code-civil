@@ -4,11 +4,13 @@ Sauf délibération contraire de la collectivité territoriale ou du groupement 
 collectivités territoriales, à compter du 1er janvier 1997, les immeubles situés
 dans les zones franches urbaines définies au B du 3 de l'article 42 modifié de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire et affectés, au 1er janvier 1997, à une activité
-entrant dans le champ d'application de la taxe professionnelle sont exonérés de
-taxe foncière sur les propriétés bâties pour une durée de cinq ans, sous réserve
-que les conditions d'exercice de l'activité prévues aux premier et quatrième à
-septième alinéas du I quater de l'article 1466 A soient remplies.
+développement du territoire et dont la liste figure au I de l'annexe à la loi n°
+96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour
+la ville, et affectés, au 1er janvier 1997, à une activité entrant dans le champ
+d'application de la taxe professionnelle sont exonérés de taxe foncière sur les
+propriétés bâties pour une durée de cinq ans, sous réserve que les conditions
+d'exercice de l'activité prévues aux premier et quatrième à septième alinéas du
+I quater de l'article 1466 A soient remplies.
 
 Pour les immeubles affectés, après le 1er janvier 1997 et avant le 31 décembre
 2001, à une activité entrant dans le champ d'application de la taxe

@@ -24,7 +24,7 @@ normal.
 IV. Les options mentionnées au a du II et au deuxième alinéa du III doivent être
 formulées avant le 1er mai de la première année à laquelle elles s'appliquent.
 
-V. Pour l'application des dispositions du présent article et du deuxième alinéa
-de l'article 151 septies, les recettes provenant d'opérations d'élevage ou de
-culture portant sur des animaux ou des produits appartenant à des tiers sont
-multipliées par cinq.
+V. Pour l'application des dispositions du présent article et du II de l'article
+151 septies, les recettes provenant d'opérations d'élevage ou de culture portant
+sur des animaux ou des produits appartenant à des tiers sont multipliées par
+cinq.

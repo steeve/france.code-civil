@@ -1,7 +1,7 @@
 Article 278 sexies
 ----
-I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 p. 100 en ce
-qui concerne :
+I. La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui
+concerne :
 
 1. Les ventes et les apports en société de terrains à bâtir et de biens
 assimilés à ces terrains par les 1° et 3° du I de l'article 1594-0 G consentis
@@ -19,8 +19,9 @@ ou de jouissance.
 l'article 257 de logements sociaux à usage locatif mentionnés aux 3° et 5° de
 l'article L. 351-2 du code de la construction et de l'habitation dont la
 construction a été financée au moyen d'un prêt prévu à l'article R. 331-1 du
-même code qui bénéficient de la décision favorable prise dans les conditions
-prévues aux articles R. 331-3 et R. 331-6 du même code.
+même code ou d'une subvention de l'Agence nationale pour la rénovation urbaine
+qui bénéficient de la décision favorable prise dans les conditions prévues aux
+articles R. 331-3 et R. 331-6 du même code.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5°
 de l'article L. 351-2 du code de la construction et de l'habitation et qui

@@ -47,3 +47,6 @@ VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 VIII. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 de 2,5 % sur le montant des taxes mentionnées aux articles 1609 quinvicies, 1609
 sexvicies et 1635 bis M.
+
+IX. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+de 2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.

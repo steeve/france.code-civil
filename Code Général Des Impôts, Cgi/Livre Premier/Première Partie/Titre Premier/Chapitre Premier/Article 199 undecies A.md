@@ -2,9 +2,11 @@ Article 199 undecies A
 ----
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables
 domiciliés en France au sens de l'article 4 B qui investissent dans les
-départements et territoires d'outre-mer, dans les collectivités territoriales de
-Mayotte et Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie entre le 1er
-janvier 2001 et le 31 décembre 2006.
+départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en
+Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et
+les Terres australes et antarctiques françaises, entre la date de promulgation
+de la loi n° 2003-660 du 21 juillet 2003 de programme pour l'outre-mer et le 31
+décembre 2017.
 
 2. La réduction d'impôt s'applique :
 
@@ -46,27 +48,51 @@ associés de la société, leur conjoint ou les membres de leur foyer fiscal, qu
 en font leur habitation principale. Les souscripteurs doivent s'engager à
 conserver les parts pendant cinq ans au moins à compter de ces mêmes dates ;
 
-e) Aux souscriptions en numéraire au capital des sociétés de développement
+e) Au montant des travaux de réhabilitation réalisés par une entreprise et
+portant sur des logements achevés depuis plus de quarante ans, situés dans les
+départements, collectivités ou territoires visés au 1, que le propriétaire prend
+l'engagement, pour une durée de cinq ans, soit d'affecter dès l'achèvement des
+travaux à son habitation principale, soit de louer nu dans les six mois qui
+suivent l'achèvement des travaux à des personnes qui en font leur habitation
+principale et autres que son conjoint ou un membre de son foyer fiscal. Un
+décret détermine les conditions d'application de ces dispositions, et notamment
+la nature des travaux de réhabilitation éligibles ;
+
+f) Aux souscriptions en numéraire au capital des sociétés de développement
 régional des départements, territoires ou collectivités visés au 1 ou de
 sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun
 effectuant dans les douze mois de la clôture de la souscription des
 investissements productifs neufs dans ces départements, territoires ou
-collectivités et dont l'activité réelle se situe dans les secteurs définis au
-premier alinéa du I de l'article 199 undecies B. Lorsque la société affecte tout
-ou partie de la souscription à la construction d'immeubles destinés à l'exercice
-d'une activité située dans l'un de ces secteurs, elle doit s'engager à en
-achever les fondations dans les deux ans qui suivent la clôture de la
-souscription. La société doit s'engager à maintenir l'affectation des biens à
-l'activité dans les secteurs visés ci-dessus pendant les cinq ans qui suivent
-leur acquisition ou pendant leur durée normale d'utilisation si elle est
+collectivités et dont l'activité réelle se situe dans les secteurs éligibles
+pour l'application des dispositions du I de l'article 199 undecies B. Lorsque la
+société affecte tout ou partie de la souscription à la construction d'immeubles
+destinés à l'exercice d'une activité située dans l'un de ces secteurs, elle doit
+s'engager à en achever les fondations dans les deux ans qui suivent la clôture
+de la souscription. La société doit s'engager à maintenir l'affectation des
+biens à l'activité dans les secteurs visés ci-dessus pendant les cinq ans qui
+suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est
 inférieure ;
 
-f) Aux souscriptions en numéraire au capital d'une société mentionnée au II bis
+g) Aux souscriptions en numéraire, agréées par le ministre chargé du budget, au
+capital de sociétés qui ont pour objet le financement par souscriptions en
+numéraire au capital ou par prêts participatifs, selon des modalités et limites
+fixées par décret, d'entreprises exerçant leur activité exclusivement outre-mer
+dans un secteur éligible défini au I de l'article 199 undecies B et qui
+affectent ces prêts et souscriptions à l'acquisition et à l'exploitation
+d'investissements productifs neufs.
+
+Ces sociétés spécialisées ne bénéficient pas, pour la détermination de leur
+propre résultat, des déductions prévues à l'article 217 undecies.
+
+L'équivalent de 60 % de la réduction d'impôt ainsi obtenue doit bénéficier à
+l'entreprise qui acquiert et exploite l'investissement ;
+
+h) Aux souscriptions en numéraire au capital d'une société mentionnée au II bis
 de l'article 217 undecies, sous réserve de l'obtention d'un agrément préalable
 du ministre chargé du budget délivré dans les conditions prévues au III du même
 article.
 
-Les souscripteurs de parts ou actions des sociétés mentionnées aux e et f
+Les souscripteurs de parts ou actions des sociétés mentionnées aux f, g et h
 doivent s'engager à les conserver pendant cinq ans à compter de la date de la
 souscription.
 
@@ -82,26 +108,39 @@ date du décès.
 
 4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation
 du capital des sociétés mentionnées au 2 dont le montant est supérieur à 4 600
-000 euros (1) doit avoir été portée, préalablement à sa réalisation, à la
+000 euros doit avoir été portée, préalablement à sa réalisation, à la
 connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection
 motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la
 période définie au 1 sont prises en compte, pour les investissements mentionnés
-au a du 2, dans la limite de 1 525 euros (1) par mètre carré de surface
-habitable.
+aux a, b, c, d, et e du 2, dans la limite de 1 750 Euros hors taxes par mètre
+carré de surface habitable. Cette limite est relevée par arrêté chaque année, au
+1er janvier, dans la même proportion que la variation de l'index de la
+construction publié par l'institut de la statistique de chaque collectivité,
+lorsqu'il existe.
 
-6. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de
-l'année d'achèvement de l'immeuble ou de son acquisition si elle est
-postérieure, ou de la souscription des parts ou actions, et des quatre années
-suivantes. Chaque année, la base de la réduction est égale à 20 % des sommes
-effectivement payées au 31 décembre de l'année au cours de laquelle le droit à
-réduction d'impôt est né.
+6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a
+du 2, pour le calcul de l'impôt dû au titre de l'année d'achèvement de
+l'immeuble ou de son acquisition si elle est postérieure, et des neuf années
+suivantes. Pour les investissements visés aux b, c, d, e, f, g et h du 2, elle
+est effectuée pour le calcul de l'impôt dû au titre de l'année d'achèvement de
+l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription
+des parts ou actions, et des quatre années suivantes. Chaque année, la base de
+la réduction est égale, pour les investissements mentionnés au a du 2, à 10 %
+des sommes effectivement payées au 31 décembre de l'année au cours de laquelle
+le droit à réduction d'impôt est né et, pour les investissements visés aux b, c,
+d, e, f, g et h du 2, à 20 % des sommes effectivement payées au 31 décembre de
+l'année au cours de laquelle le droit à réduction d'impôt est né.
 
-La réduction d'impôt est égale à 25 % de la base définie au premier alinéa.
+La réduction d'impôt est égale à 25 % de la base définie au premier alinéa, pour
+les investissements mentionnés au a et au e du 2, à 40 % de la même base, pour
+les investissements mentionnés aux b, c et d du 2, et à 50 % de la même base
+pour les investissements mentionnés aux f, g et h du 2.
 
-Toutefois, elle est portée à 40 % de cette base pour les investissements
-mentionnés aux b, c et d du 2, si les conditions suivantes sont réunies :
+La réduction d'impôt est portée à 50 % de la base définie au premier alinéa pour
+les investissements mentionnés aux b, c et d du 2, si les conditions suivantes
+sont réunies :
 
 1° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six
 mois de son achèvement ou de son acquisition si elle est postérieure et pendant
@@ -113,6 +152,19 @@ postérieure ;
 
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
 décret.
+
+Toutefois, pour les investissements réalisés dans les départements d'outre-mer
+et la collectivité départementale de Mayotte mentionnés aux a, b, c, d et e du
+2, les taux de 25 %, 40 % et 50 % visés aux deuxième et troisième alinéas sont
+majorés de dix points lorsque le logement est situé dans une zone urbaine
+sensible définie au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire.
+
+En outre, lorsque des dépenses d'équipements de production d'énergie utilisant
+une source d'énergie renouvelable sont réalisées dans le logement, les taux de
+la réduction d'impôt visés aux deuxième, troisième et sixième alinéas sont
+majorés de quatre points. Un arrêté du ministre chargé du budget fixe la nature
+des dépenses d'équipements qui ouvrent droit à cette majoration.
 
 7. En cas de non-respect des engagements mentionnés aux 2 et 6, ou de cession ou
 de démembrement du droit de propriété, dans des situations autres que celle

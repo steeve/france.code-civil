@@ -18,8 +18,8 @@ l'article 3 du règlement (CEE) n° 3703/85 de la Commission du 23 décembre 198
 commercialisation pour certains poissons frais ou réfrigérés ;
 
 2. En cas de retrait définitif dans le cadre de l'organisation commune des
-marchés instituée par le règlement (CEE) n° 3759/92 du Conseil, du 17 décembre
-1992, portant organisation commune des marchés dans le secteur des produits de
+marchés instituée par le règlement (CE) n° 104/2000 du Conseil du 17 décembre
+1999, portant organisation commune des marchés dans le secteur des produits de
 la pêche et de l'aquaculture ;
 
 3. En cas de débarquement direct de poissons frais par un navire de pêche

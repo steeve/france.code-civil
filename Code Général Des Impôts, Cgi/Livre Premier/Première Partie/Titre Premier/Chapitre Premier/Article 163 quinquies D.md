@@ -8,7 +8,7 @@ Chaque contribuable ou chacun des époux soumis à imposition commune ne peut ê
 titulaire que d'un plan. Un plan ne peut avoir qu'un titulaire.
 
 Le titulaire d'un plan effectue des versements en numéraire dans une limite de
-132 000 euros (1).
+132 000 euros.
 
 II. 1. Les parts des fonds mentionnés au 3 du III de l'article 150-0 A ne
 peuvent figurer dans le plan d'épargne en actions.
@@ -28,7 +28,7 @@ doivent pas, pendant la durée du plan, détenir ensemble, directement ou
 indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont
 les titres figurent au plan ou avoir détenu cette participation à un moment
 quelconque au cours des cinq années précédant l'acquisition de ces titres dans
-le cadre du plan (2).
+le cadre du plan.
 
 III. 1. Au-delà de la huitième année, les retraits partiels de sommes ou de
 valeurs et, s'agissant des contrats de capitalisation, les rachats partiels
@@ -38,5 +38,10 @@ versement n'est possible après le premier retrait ou le premier rachat.
 2. Avant l'expiration de la huitième année, tout retrait de sommes ou de valeurs
 figurant sur le plan ou tout rachat entraîne la clôture du plan.
 
+3. Les retraits de sommes ou de valeurs ou les rachats, s'agissant de contrats
+de capitalisation, réalisés dans les conditions prévues dans la deuxième phrase
+du 2 du II de l'article 150-0 A n'entraînent pas la clôture du plan. Toutefois,
+aucun versement n'est possible après le premier retrait ou le premier rachat.
+
 IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans
-le cadre du plan sont restitués dans des conditions fixées par décret (3).
+le cadre du plan sont restitués dans des conditions fixées par décret.

@@ -51,9 +51,9 @@ c) Actions ou parts d'organismes de placement collectif en valeurs mobilières
 qui emploient plus de 60 % de leur actif en titres et droits mentionnés aux a et
 b ;
 
-d) Parts de fonds communs de placement à risques, de fonds communs de placement
-dans l'innovation, actions de sociétés de capital risque ou de sociétés
-financières d'innovation ;
+d) Parts de fonds communs de placement à risques, de fonds d'investissement de
+proximité, de fonds communs de placement dans l'innovation, actions de sociétés
+de capital risque ou de sociétés financières d'innovation ;
 
 e) Actions émises par des sociétés qui exercent une activité autre que les
 activités mentionnées au quatrième alinéa du I de l'article 44 sexies et dont

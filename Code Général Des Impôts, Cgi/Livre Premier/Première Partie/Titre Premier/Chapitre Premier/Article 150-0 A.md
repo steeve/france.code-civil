@@ -53,11 +53,19 @@ du code de commerce ;
 
 2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à
 l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de
-rachat avant l'expiration de la cinquième année dans les mêmes conditions. Pour
-l'appréciation de la limite mentionnée au 1 du I, la valeur liquidative du plan
-ou la valeur de rachat pour un contrat de capitalisation à la date de sa clôture
-est ajoutée au montant des cessions réalisées en dehors du plan au cours de la
-même année ;
+rachat avant l'expiration de la cinquième année dans les mêmes conditions. Cette
+disposition n'est pas applicable aux sommes ou valeurs retirées ou rachetées,
+lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le
+rachat, au financement de la création ou de la reprise d'une entreprise dont le
+titulaire du plan, son conjoint, son ascendant ou son descendant assure
+personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs
+sont utilisées à la souscription en numéraire au capital initial d'une société,
+à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de
+l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la
+date du versement. Pour l'appréciation de la limite mentionnée au 1 du I, la
+valeur liquidative du plan ou la valeur de rachat pour un contrat de
+capitalisation à la date de sa clôture est ajoutée au montant des cessions
+réalisées en dehors du plan au cours de la même année ;
 
 3. Au gain net retiré des cessions de titres de sociétés immobilières pour le
 commerce et l'industrie non cotées ;

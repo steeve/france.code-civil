@@ -1,7 +1,8 @@
 Article 575
 ----
 Les tabacs manufacturés vendus dans les départements de la France continentale
-et les tabacs qui y sont importés sont soumis à un droit de consommation.
+et les tabacs ainsi que le papier à rouler les cigarettes qui y sont importés
+sont soumis à un droit de consommation.
 
 Le droit de consommation sur les cigarettes comporte une part spécifique par
 unité de produit et une part proportionnelle au prix de détail. Toutefois, pour
@@ -26,7 +27,7 @@ Pour les autres cigarettes, la part proportionnelle est déterminée en appliqua
 le taux de base à leur prix de vente au détail.
 
 Le montant du droit de consommation applicable aux cigarettes mentionnées au
-précédent alinéa ne peut être inférieur à un minimum de perception fixé par 1
+cinquième alinéa ne peut être inférieur à un minimum de perception fixé par 1
 000 unités.
 
 Les tabacs manufacturés autres que les cigarettes sont soumis à un taux normal

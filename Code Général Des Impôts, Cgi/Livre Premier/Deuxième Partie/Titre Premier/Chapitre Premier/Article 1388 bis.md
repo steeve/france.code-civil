@@ -17,14 +17,6 @@ convention passée entre le propriétaire et le représentant de l'Etat dans le
 département, relative à l'entretien et à la gestion du parc, ayant pour but
 d'améliorer la qualité du service rendu aux locataires.
 
-Toutefois, pour les impositions établies au titre de 2001, l'abattement prévu au
-I est appliqué aux logements appartenant à des organismes ou à des sociétés
-d'économie mixte soit qui ont fait l'objet d'un plan de redressement attesté par
-la Caisse de garantie du logement social, soit dont le conseil d'administration
-a pris une délibération décidant, pour l'ensemble de leurs logements autres que
-ceux faisant l'objet de travaux de réhabilitation aidés par l'Etat, de maintenir
-jusqu'au 31 décembre 2001 le montant des loyers en vigueur au 31 décembre 2000.
-
 Cet abattement s'applique au titre des impositions établies de 2001 à 2006 et à
 compter du 1er janvier de l'année suivant celle de la signature de la
 convention.
@@ -39,7 +31,4 @@ financement de la construction ou de l'acquisition. Lorsque la déclaration est
 souscrite hors délai, l'abattement s'applique pour la période restant à courir
 après le 31 décembre de l'année de la souscription.
 
-IV. - Pour l'application de l'abattement prévu au I au titre de 2001, la
-déclaration visée au III, accompagnée d'une copie de l'attestation de la Caisse
-de garantie du logement social ou de la délibération visées au II, doit être
-souscrite avant le 31 janvier 2001.
+IV. - (périmé).

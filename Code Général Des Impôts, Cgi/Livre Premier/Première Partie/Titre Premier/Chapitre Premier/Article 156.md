@@ -30,7 +30,7 @@ déficits non déductibles pour ces motifs peuvent cependant être imputés sur 
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions,
 durant la même année ou les cinq années suivantes. Ces modalités d'imputation
 sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du huitième alinéa de l'article 151 septies, louant
+professionnels au sens du huitième alinéa du V de l'article 151 septies, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés.
 
@@ -257,8 +257,7 @@ fixées par un décret en Conseil d'Etat, les versements destinés à constituer
 capital de la rente prévue à l'article 294 du code civil.
 
 Le contribuable ne peut opérer aucune déduction pour ses descendants mineurs
-lorsqu'ils sont pris en compte pour la détermination de son quotient familial
-(1).
+lorsqu'ils sont pris en compte pour la détermination de son quotient familial.
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée

@@ -19,11 +19,12 @@ c. le bien ne doit pas être cédé avant l'expiration d'un délai de dix ans à
 compter de l'acquisition ;
 
 d. durant la période visée au c, le bien doit être placé en dépôt auprès d'un
-musée de France.
+musée de France, d'un service public d'archives ou d'une bibliothèque relevant
+de l'Etat ou placée sous son contrôle technique.
 
 La réduction d'impôt est subordonnée à l'agrément du ministre de l'économie et
 des finances qui se prononce après avis de la commission prévue à l'article 7 de
 la loi n° 92-1477 du 31 décembre 1992 précitée.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article
-(1).
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

@@ -4,13 +4,10 @@ Les systèmes de télétransmission des factures utilisés par les entreprises d
 les conditions prévues par l'article 289 bis du code général des impôts doivent
 respecter les spécifications suivantes :
 
-I. - Sont considérés comme utilisateurs les entreprises, fournisseurs ou
-clients, qui émettent ou reçoivent des factures télétransmises.
-
-Les intermédiaires qui interviennent éventuellement dans la transmission des
-messages ne sont pas considérés comme des utilisateurs. Ils ne doivent pas
-intervenir dans la constitution du message et ne doivent ni le modifier ni
-l'altérer.
+I. - Sont considérés comme utilisateurs les entreprises, fournisseurs ou clients
+qui émettent des factures télétransmises par eux-mêmes, ou par un tiers ou un
+client mandaté à cet effet, ou qui reçoivent des factures télétransmises, et ce
+quelle que soit la personne qui les a reçues en son nom et pour son compte.
 
 II. - Le système de télétransmission utilisé doit assurer au minimum les
 fonctions suivantes :
@@ -27,6 +24,9 @@ c) L'archivage des factures émises et reçues ;
 
 d) La restitution sur papier ou sur écran, en langage clair, à la demande de
 l'administration, de la facture et de la liste récapitulative.
+
+e) L'accessibilité immédiate aux données dématérialisées en cas de demande de
+l'administration.
 
 III. - 1. Les logiciels de télétransmission des factures peuvent mettre en
 oeuvre une ou plusieurs structures de messages et ne doivent ni les modifier ni
@@ -97,9 +97,15 @@ b) L'archivage des factures dématérialisées ou l'archivage des factures papie
 c) La (les) date(s) d'entrée en phase de dématérialisation avec le partenaire,
 et, le cas échéant, la (les) date(s) de sortie.
 
-VI. - 1. Les messages factures émis et reçus ainsi que la liste récapitulative
-et le fichier des partenaires doivent être conservés dans l'ordre chronologique
-d'émission et de réception.
+VI. - 1. Les messages factures émis par l'entreprise, par un tiers ou un client
+mandaté à cet effet ainsi que la liste récapitulative et le fichier des
+partenaires doivent être accessibles et conservés dans leur contenu originel et
+dans l'ordre chronologique de leur émission.
+
+Les messages factures reçus, quelle que soit la personne qui les a reçus en son
+nom et pour son compte, ainsi que la liste récapitulative et le fichier des
+partenaires doivent être accessibles et conservés dans leur contenu originel et
+dans l'ordre chronologique de leur réception.
 
 2. Les fichiers informatiques dans lesquels sont conservés les messages
 factures, la liste récapitulative et le fichier des partenaires doivent être

@@ -27,7 +27,7 @@ soumis à imposition commune sur la somme des revenus et gains imposables
 suivants :
 
 1° et 2° (Dispositions abrogées pour l'imposition des revenus des années 1996 et
-suivantes).
+suivantes) ;
 
 3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois,
 cet abattement ne peut être effectué sur le montant des revenus d'actions
@@ -42,7 +42,7 @@ Pour l'application de cette disposition, les droits sociaux appartenant au
 conjoint sont considérés comme détenus indirectement.
 
 4° (Dispositions abrogées pour l'imposition des revenus des années 1996 et
-suivantes).
+suivantes) ;
 
 5° Produits des parts de société ou d'exploitation agricole à responsabilité
 limitée et des parts bénéficiaires ou de fondateur lorsque ces parts sont émises
@@ -50,7 +50,7 @@ par des sociétés ou exploitations soumises à l'impôt sur les sociétés et q
 produits sont encaissés par des personnes détenant, directement ou
 indirectement, moins de 35 % des droits sociaux dans la société distributrice.
 Pour l'application de cette disposition, les droits sociaux appartenant au
-conjoint sont considérés comme détenus indirectement.
+conjoint sont considérés comme détenus indirectement ;
 
 6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel
 qui remplissent les conditions visées au I de l'article 125 C. Les dispositions
@@ -65,8 +65,8 @@ L'abattement prévu au troisième alinéa est réduit de moitié pour l'impositi
 des revenus de l'année 2002 lorsque le revenu net imposable excède pour les
 contribuables célibataires, veufs ou divorcés le montant mentionné à la dernière
 tranche du barème de l'impôt sur le revenu fixé au 1 du I de l'article 197. Ce
-montant est doublé pour les contribuables mariés soumis à une imposition commune
-(1).
+montant est doublé pour les contribuables mariés soumis à une imposition
+commune.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -77,9 +77,9 @@ dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
 procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non
 commerciale sont déterminés conformément aux dispositions des articles 92 à 103.
 Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au
-1 de 39 terdecies sont distraites des bénéfices en vue d'être distinctement
-taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39
-terdecies et aux articles 39 quindecies et 93 quater.
+1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être
+distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de
+l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou
 agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les
@@ -170,6 +170,10 @@ alinéa de l'article 154 bis-0 A.
 b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du
 17 janvier 2002) ;
 
+b quater. Les dispositions du a sont applicables aux pensions servies au titre
+des plans d'épargne individuelle pour la retraite créés par l'article 108 de la
+loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
+
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 font l'objet d'impositions distinctes par application des dispositions du b du 4
 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son
@@ -205,4 +209,5 @@ La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes
 conditions que les revenus énumérés à l'article 124.
 
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux
-cotisations ayant fait l'objet de la déduction prévue au 1° bis de l'article 83.
+cotisations ayant fait l'objet de la déduction prévue au I de l'article 163
+quatervicies.
