@@ -7,10 +7,21 @@ les suivantes :
 l'entreprise en ce qui concerne les rentes et accessoires de rentes mis à sa
 charge ;
 
-2° Provision pour risques en cours : provision destinée à couvrir les risques et
-les frais généraux afférents, pour chacun des contrats à prime payable d'avance,
-à la période comprise entre la date de l'inventaire et la prochaine échéance de
-prime, ou à défaut le terme fixé par le contrat ;
+2° Provision pour primes non acquises : provision, calculée selon les méthodes
+fixées par arrêté du ministre de l'économie, destinée à constater, pour
+l'ensemble des contrats en cours, la part des primes émises et des primes
+restant à émettre se rapportant à la période comprise entre la date de
+l'inventaire et la date de la prochaine échéance de prime ou, à défaut, du terme
+du contrat ;
+
+2° bis Provision pour risques en cours : provision, calculée selon les méthodes
+fixées par arrêté du ministre de l'économie, destinée à couvrir, pour l'ensemble
+des contrats en cours, la charge des sinistres et des frais afférents aux
+contrats, pour la période s'écoulant entre la date de l'inventaire et la date de
+la première échéance de prime pouvant donner lieu à révision de la prime par
+l'assureur ou, à défaut, entre la date de l'inventaire et le terme du contrat,
+pour la part de ce coût qui n'est pas couverte par la provision pour primes non
+acquises ;
 
 3° Réserve de capitalisation : réserve destinée à parer à la dépréciation des
 valeurs comprises dans l'actif de l'entreprise et à la diminution de leur revenu
@@ -38,7 +49,10 @@ décret n° 86-741 du 14 mai 1986 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique
 éventuelle apparaissant à la fin de l'exercice, et calculée dans les conditions
-fixées à l'article R. 331-33.
+fixées à l'article R. 331-33 ;
+
+c) Provision destinée à faire face aux fluctuations de sinistralité afférentes
+aux opérations d'assurance de groupe contre les risques de dommages corporels.
 
 7° Provision mathématique des réassurances : provision à constituer par les
 entreprises mentionnées aux 2° et 3° de l'article L. 310-1 qui acceptent en

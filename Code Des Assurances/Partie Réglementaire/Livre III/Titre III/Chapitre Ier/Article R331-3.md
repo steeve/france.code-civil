@@ -25,11 +25,15 @@ de l'actif ;
 6° Provision pour risque d'exigibilité des engagements techniques : provision
 destinée à faire face à une insuffisante liquidité des placements, notamment en
 cas de modification du rythme de règlement des sinistres, calculée dans les
-conditions définies au premier alinéa de l'article R. 331-5-1.
+conditions définies au premier alinéa de l'article R. 331-5-1 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir
 les charges résultant du report des frais d'acquisition constaté en application
-de l'article R. 332-35.
+de l'article R. 332-35 ;
+
+8° Provision pour égalisation : provision destinée à faire face aux fluctuations
+de sinistralité afférentes aux opérations d'assurance de groupe contre le risque
+décès.
 
 Un engagement ne peut être provisionné qu'au titre d'une seule des catégories
 mentionnées au présent article.
