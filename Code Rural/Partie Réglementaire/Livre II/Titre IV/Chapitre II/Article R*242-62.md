@@ -1,14 +1,16 @@
 Article R*242-62
 ----
-En dehors d'exceptions justifiées, telles que refus de paiement d'honoraires,
-injures graves, le vétérinaire est tenu de répondre dans les limites de ses
-possibilités et de sa compétence à tout appel qui lui est adressé pour donner
-des soins à un animal en péril.
+Autres activités.
 
-Il doit alors s'efforcer de recueillir toutes informations concernant les
-éventuelles interventions antérieures d'autres confrères.
+Toute activité commerciale est interdite dans les lieux d'exercice mentionnés à
+l'article R. 242-40. Toutefois, n'est pas considérée comme une activité
+commerciale l'hospitalisation, la délivrance des médicaments, des aliments
+physiologiques ou diététiques et, d'une façon générale, celle des produits,
+matériels et services en rapport avec l'exercice de la médecine vétérinaire. Le
+vétérinaire doit veiller au respect de la législation en vigueur concernant la
+mise sur le marché de ces divers produits et services.
 
-Il peut refuser de soigner un animal examiné préalablement par un autre confrère
-s'il estime qu'en l'absence d'informations ou en présence d'informations
-insuffisantes son intervention fait courir un risque à l'animal qui lui est
-confié.
+Tout courtage en matière de commerce d'animaux, la collecte ou la gestion de
+tous contrats d'assurance en général, y compris ceux qui couvrent les risques
+maladie, chirurgie ou mortalité des animaux, sont interdits aux vétérinaires
+exerçant la médecine et la chirurgie des animaux.
