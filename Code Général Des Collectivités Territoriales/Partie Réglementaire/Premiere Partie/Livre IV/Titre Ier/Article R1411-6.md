@@ -5,10 +5,9 @@ Le préfet qui saisit la chambre régionale des comptes d'une convention relativ
 joint à cette saisine, outre le texte intégral de l'acte, tous documents et
 renseignements utiles à son examen et relatifs à sa passation.
 
-Les dispositions de l'article 101 du décret n° 95-945 du 23 août 1995 relatif
-aux chambres régionales des comptes ainsi que celles des articles R. 1612-8, R.
-1612-12 et R. 1612-13, relatives au contrôle des actes budgétaires, sont
-applicables.
+Les dispositions des articles R. 242-1, R. 263-13 et R. 263-41 du code des
+juridictions financières ainsi que celles des articles R. 1612-8, R. 1612-12 et
+R. 1612-13, relatives au contrôle des actes budgétaires, sont applicables.
 
 La chambre rend un avis motivé dans lequel elle examine notamment les modalités
 de passation, l'économie générale de la convention ainsi que son incidence

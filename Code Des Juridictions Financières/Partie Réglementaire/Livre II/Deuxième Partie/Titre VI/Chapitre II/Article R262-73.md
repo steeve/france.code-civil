@@ -1,0 +1,6 @@
+Article R262-73
+----
+En cas d'absence de réponse à la lettre d'observations provisoires dans le délai
+imparti, la chambre territoriale des comptes peut arrêter ses observations
+définitives, qui sont notifiées conformément aux dispositions de l'article R.
+262-71.
