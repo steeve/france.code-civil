@@ -2,8 +2,8 @@ Article R119-66
 ----
 Le contrôle de la formation donnée aux apprentis dans les entreprises auxquelles
 s'applique le décret n° 73-942 du 3 octobre 1973 est assuré par des inspecteurs
-de l'apprentissage qui relèvent des chambres de métiers des départements
-ci-dessus indiqués.
+de l'apprentissage qui relèvent des chambres de métiers et de l'artisanat des
+départements ci-dessus indiqués.
 
 Le contrôle de la formation donnée aux apprentis dans les entreprises relevant
 des secteurs de l'industrie et du commerce est assuré par des inspecteurs de

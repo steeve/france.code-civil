@@ -5,6 +5,6 @@ d'apprentissage, le responsable de l'établissement d'enseignement ou de
 l'établissement de formation et de recherche soumet la demande d'habilitation,
 prévue à l'article R. 116-14-1, au chef du service académique de l'inspection de
 l'apprentissage ou au directeur régional de l'agriculture et de la forêt, après
-avoir recueilli l'avis de la chambre de métiers ou de la chambre de commerce et
-d'industrie dont relèvent la ou les entreprises concernées *autorités
-compétentes*.
+avoir recueilli l'avis de la chambre de métiers et de l'artisanat ou de la
+chambre de commerce et d'industrie dont relèvent la ou les entreprises
+concernées.

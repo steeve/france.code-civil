@@ -9,7 +9,8 @@ situation par tout mode de preuve, notamment par la production :
 a) D'un certificat de radiation du registre du commerce et des sociétés, du
 répertoire des métiers ou du registre des entreprises des départements du
 Haut-Rhin, du Bas-Rhin et de la Moselle, ou d'un certificat de cessation
-d'activité du chef d'entreprise délivré par la chambre des métiers ;
+d'activité du chef d'entreprise délivré par la chambre de métiers et de
+l'artisanat ;
 
 b) D'une attestation de radiation des rôles de la taxe professionnelle ;
 

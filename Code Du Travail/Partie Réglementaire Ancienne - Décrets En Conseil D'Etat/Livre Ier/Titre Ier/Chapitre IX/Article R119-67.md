@@ -1,8 +1,8 @@
 Article R119-67
 ----
-Nul ne peut être nommé inspecteur de l'apprentissage d'une chambre de métiers ou
-d'une chambre de commerce et d'industrie en application de l'article R. 119-66
-*conditions* :
+Nul ne peut être nommé inspecteur de l'apprentissage d'une chambre de métiers et
+de l'artisanat ou d'une chambre de commerce et d'industrie en application de
+l'article R. 119-66 :
 
 1. S'il ne possède la nationalité française ;
 
@@ -35,11 +35,11 @@ supérieur.
 Ces dispositions ne sont pas opposables aux inspecteurs de l'apprentissage en
 fonctions à la date de publication du présent décret.
 
-Les inspecteurs de l'apprentissage des chambres de métiers et des chambres de
-commerce et d'industrie qui seront recrutés sont commissionnés par le ministre
-de l'éducation nationale pour une durée de trois ans renouvelable sans
-limitation de durée.
+Les inspecteurs de l'apprentissage des chambres de métiers et de l'artisanat et
+des chambres de commerce et d'industrie qui seront recrutés sont commissionnés
+par le ministre de l'éducation nationale pour une durée de trois ans
+renouvelable sans limitation de durée.
 
 Les dispositions de l'article R. 119-60 sont applicables aux inspecteurs de
-l'apprentissage des chambres de métiers et des chambres de commerce et
-d'industrie.
+l'apprentissage des chambres de métiers et de l'artisanat et des chambres de
+commerce et d'industrie.

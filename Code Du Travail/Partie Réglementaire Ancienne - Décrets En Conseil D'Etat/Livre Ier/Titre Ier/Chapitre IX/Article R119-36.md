@@ -27,16 +27,16 @@ l'application de la législation du travail et des lois sociales dans la branche
 d'activité à laquelle se rattache l'entreprise, par l'intermédiaire de l'un des
 organismes mentionnés au premier alinéa de l'article R. 119-39.
 
-II. Pour les entreprises relevant de la chambre de métiers :
+II. Pour les entreprises relevant de la chambre de métiers et de l'artisanat :
 
 - nul ne peut être maître d'apprentissage s'il n'est âgé de vingt-quatre ans
 révolus ;
 
 - le maître d'apprentissage doit être titulaire du brevet de maîtrise délivré
-par les chambres de métiers du Haut-Rhin, du Bas-Rhin et de la Moselle, ou d'un
-diplôme ou titre de niveau équivalent.
+par les chambres de métiers et de l'artisanat du Haut-Rhin, du Bas-Rhin et de la
+Moselle, ou d'un diplôme ou titre de niveau équivalent.
 
 Toutefois, dans des métiers de création récente, ainsi que là où des cas
 particuliers le rendraient nécessaire, il peut être dérogé à la condition de
-titre ci-dessus définie. Dans ce cas, l'avis de la chambre de métiers doit être
-demandé avant l'enregistrement du contrat d'apprentissage.
+titre ci-dessus définie. Dans ce cas, l'avis de la chambre de métiers et de
+l'artisanat doit être demandé avant l'enregistrement du contrat d'apprentissage.
