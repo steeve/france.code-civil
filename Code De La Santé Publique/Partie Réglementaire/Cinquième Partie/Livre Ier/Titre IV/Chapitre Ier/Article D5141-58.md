@@ -4,10 +4,10 @@ Les montants du droit progressif prévu à l'article L. 5141-8 sont fixés comme
 indiqué ci-après pour les demandes de modification d'autorisation de mise sur le
 marché relevant d'une procédure nationale :
 
-1° 7 600 euros pour une demande de modification de type III présentée
+1° 11 600 euros pour une demande de modification de type III présentée
 conformément aux articles R. 5141-35 à R. 5141-37 ;
 
-2° 3 800 euros pour une demande de modification de type II présentée
+2° 5 800 euros pour une demande de modification de type II présentée
 conformément aux articles R. 5141-35 à R. 5141-37 ;
 
 3° 950 euros pour une demande de modification de type I présentée conformément
