@@ -24,3 +24,6 @@ général des impôts.
 235 ter F du code général des impôts ou, à défaut, le procès-verbal de carence
 prévu à l'article L 433-13 du code du travail ou le procès-verbal de la
 délibération de l'un des organismes prévus à l'article 163 undecies.
+
+3° Eventuellement les références de l'engagement de développement prévu à
+l'article L. 950-2-4 du code du travail.

@@ -1,17 +1,10 @@
 Article R950-10
 ----
-Sous réserve de l'application, le cas échéant, du deuxième alinéa de l'article
-R. 950-8, dans le cas où le montant des versements effectués à l'organisme de
-formation par l'employeur est supérieur au montant des dépenses exposées par
-l'organisme formateur pour la formation du personnel de cet employeur, ces
-versements ne sont pris en compte que si l'employeur et l'organisme de formation
-assurent, à l'expiration de la période de validité de la convention, la
-résorption de cet excédent.
+La convention d'application mentionnée au deuxième alinéa de l'article R. 950-8
+est conclue entre l'employeur et l'organisme de formation au titre de chaque
+année de participation. Elle détermine un programme de formation et un
+engagement financier.
 
-En ce qui concerne les conventions pluriannuelles la résorption de l'excédent
-doit intervenir, au plus tard, à la fin de chaque période triennale [*limite*].
-
-Les intérêts produits par les sommes versées par les employeurs au titre des
-conventions et déposées ou placées ont le même caractère que les sommes dont ils
-sont issus. Ils sont soumis aux mêmes conditions d'utilisation et à la même
-procédure de contrôle.
+Ne peuvent figurer dans la convention prévue au premier alinéa que les actions
+de formation qui concernent les salariés de l'employeur signataire et sont
+appelées à débuter après la conclusion de cette convention.
