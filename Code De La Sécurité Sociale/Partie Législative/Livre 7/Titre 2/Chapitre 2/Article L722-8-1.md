@@ -1,8 +1,9 @@
 Article L722-8-1
 ----
-Lorsqu'elles remplissent les conditions de collaboration professionnelle
-définies par décret, les conjointes d'infirmiers relevant du régime d'assurance
-obligatoire institué par le présent chapitre bénéficient :
+Les conjointes des praticiens et auxiliaires médicaux relevant du régime
+d'assurance obligatoire institué par le présent chapitre qui remplissent les
+conditions de collaboration professionnelle définies par décret bénéficient à
+l'occasion de la maternité :.
 
 - d'une allocation forfaitaire de repos maternel destinée à compenser
 partiellement la diminution de leur activité ;
@@ -24,10 +25,11 @@ de la prestation étant égale à la moitié de celle qui est prévue en cas de
 maternité.
 
 Ces allocations sont également accordées aux femmes titulaires de l'agrément
-mentionné aux articles 63 ou 100-3 du code de la famille et de l'aide sociale
-lorsqu'elles adoptent ou accueillent un enfant en vue de son adoption par
-décision de l'autorité étrangère compétente, à condition que l'enfant ait été
-autorisé, à ce titre, à entrer sur le territoire français.
+mentionné aux articles L. 225-2 à L. 225-7 et L. 225-18 ou L. 225-15 du code de
+l'action sociale et des familles lorsqu'elles adoptent ou accueillent un enfant
+en vue de son adoption par décision de l'autorité étrangère compétente, à
+condition que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire
+français.
 
 Un décret détermine les modalités d'application du présent article, et notamment
 le montant des allocations et la durée maximum du remplacement indemnisable.

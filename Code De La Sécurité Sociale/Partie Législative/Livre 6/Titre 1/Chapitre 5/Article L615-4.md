@@ -3,10 +3,10 @@ Article L615-4
 Les personnes exerçant simultanément plusieurs activités dont l'une relève de
 l'assurance obligatoire des travailleurs non salariés des professions non
 agricoles sont affiliées et cotisent simultanément aux régimes dont relèvent ces
-activités .
+activités.
 
-Toutefois, le droit aux prestations n'est ouvert que dans le régime dont relève
-leur activité principale.
+Le droit aux prestations en nature leur est ouvert dans le régime de leur choix,
+selon des modalités définies par décret.
 
 Lorsque l'activité salariée exercée simultanément avec l'activité principale non
 salariée non agricole répond aux conditions prévues à l'article L. 313-1 pour

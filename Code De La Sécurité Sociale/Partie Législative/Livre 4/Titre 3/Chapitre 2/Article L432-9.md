@@ -11,8 +11,8 @@ psychotechnique préalable.
 
 L'indemnité journalière pour la période mentionnée à l'article L. 433-1 ou la
 rente est intégralement maintenue au mutilé en rééducation. Si elle est
-inférieure au salaire minimum du manoeuvre de la profession en vue de laquelle
-la victime est réadaptée, celle-ci reçoit, à défaut de rémunération pendant la
+inférieure au salaire perçu avant l'accident ou, s'il est plus élevé, au salaire
+minimum de croissance, celle-ci reçoit, à défaut de rémunération pendant la
 durée de la rééducation, un supplément à la charge de la caisse, destiné à
 porter cette indemnité ou rente au montant dudit salaire.
 

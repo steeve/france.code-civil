@@ -1,17 +1,15 @@
 Article L431-2
 ----
 Les droits de la victime ou de ses ayants droit aux prestations et indemnités
-prévues par le présent livre se prescrivent par deux ans à dater [* délai de
-prescription, point de départ*] :
+prévues par le présent livre se prescrivent par deux ans à dater :
 
-1°) du jour de l'accident ou de la clôture de l'enquête ou de la cessation du
-paiement de l'indemnité journalière ;
+1°) du jour de l'accident ou de la cessation du paiement de l'indemnité
+journalière ;
 
 2°) dans les cas prévus respectivement au premier alinéa de l'article L. 443-1
 et à l'article L. 443-2, de la date de la première constatation par le médecin
 traitant de la modification survenue dans l'état de la victime, sous réserve, en
-cas de contestation, de l'avis émis par l'expert ou de la clôture de l'enquête
-effectuée à l'occasion de cette modification ou de la date de cessation du
+cas de contestation, de l'avis émis par l'expert ou de la date de cessation du
 paiement de l'indemnité journalière allouée en raison de la rechute ;
 
 3°) du jour du décès de la victime en ce qui concerne la demande en révision

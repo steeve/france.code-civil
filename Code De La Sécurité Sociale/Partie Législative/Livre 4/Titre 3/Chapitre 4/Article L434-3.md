@@ -1,9 +1,9 @@
 Article L434-3
 ----
 En dehors des cas prévus aux articles L. 434-9 et L. 434-20, la pension allouée
-à la victime de l'accident peut, après l'expiration d'un délai déterminé, être
-remplacée en partie par un capital mais seulement dans des conditions fixées par
-décret en Conseil d'Etat et suivant un tarif fixé par arrêté ministériel.
+à la victime de l'accident peut être remplacée en partie par un capital mais
+seulement dans des conditions fixées par décret en Conseil d'Etat et suivant un
+tarif fixé par arrêté ministériel.
 
 Le capital peut être converti en rente viagère. Les conditions de cette
 conversion sont fixées par décret en Conseil d'Etat.
