@@ -257,6 +257,13 @@ au sein de ces organismes ;
 
 2°) animateurs réguliers dûment mandatés de ces organismes.
 
+L. - En ce qui concerne les associations intermédiaires (art. L. 128 du code du
+travail, décret n° 87-303 du 30 avril 1987, modifié par décret n° 90-418 du 16
+mai 1990) :
+
+Membres bénévoles administrant les associations intermédiaires agréées par le
+préfet du département concerné.
+
 III. INSTITUTIONS JUDICIAIRES
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
@@ -305,23 +312,28 @@ IV. MINISTERES
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-A. - En ce qui concerne le ministère de la justice (articles D. 472 à D. 477 et
-articles D. 547 à D. 551 du code de procédure pénale, loi n° 51-687 du 24 mai
-1951) :
+A. - En ce qui concerne le ministère de la justice (art. D. 472 à D. 477 et art.
+D. 579 du code de procédure pénale, ordonnance n° 45-174 du 2 février 1945,
+ordonnance n° 58-1300 du 23 décembre 1958, décret n° 78-381 du 20 mars 1978,
+modifié par le décret n° 81-583 du 18 mai 1981) :
 
-1°) visiteurs de prison agréés par le ministère de la justice ;
+1° Visiteurs de prison agréés par le directeur régional de l'administration
+pénitentiaire après avis du préfet et du juge de l'application des peines ;
 
-2°) délégués des comités de probation et d'assistance aux libérés nommés par le
-juge de l'application des peines ;
+2° Membres bénévoles des comités de probation et d'assistance aux libérés agréés
+par le juge de l'application des peines ;
 
-3°) délégués à la liberté surveillée désignés par le juge des enfants ;
+3° Délégués à la liberté surveillée désignés par le juge des enfants ;
 
-4°) membres des conseils d'administration et animateurs réguliers dûment
-mandatés d'associations agréées par arrêté du garde des sceaux et ayant pour but
-le reclassement social et professionnel des condamnés.
+4° Membres de conseils d'administration et bénévoles dûment mandatés
+d'associations agréées par le ministère de la justice et contribuant à la
+réinsertion sociale et professionnelle des personnes se trouvant placées sous
+main de justice ;
 
-B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, R.
-323-82 et R. 323-83 du code du travail) :
+5° Conciliateurs.
+
+B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, L.
+122-14, R. 323-82 et R. 323-83 D. 122-1 à D. 122-5 du code du travail) :
 
 1°) membres du conseil supérieur pour le reclassement professionnel et social
 des travailleurs handicapés prévu à l'article R. 323-82 du code du travail et
@@ -330,6 +342,9 @@ travail ;
 
 2°) membres des commissions techniques d'orientation et de reclassement
 professionnel prévues à l'article L. 323-11 du code du travail.
+
+3°) conseillers des salariés convoqués à un entretien préalable à licenciement
+inscrits sur une liste dressée par le préfet du département.
 
 C. - En ce qui concerne le ministère chargé des affaires sociales et ministère
 chargé de l'éducation (loi n° 75-534 du 30 juin 1975 d'orientation en faveur des
