@@ -1,22 +1,15 @@
 Article L815-10
 ----
-L'allocation supplémentaire peut être suspendue ou révisée ou retirée
-[*suppression*] à tout moment lorsqu'il est constaté que l'une des conditions
-exigées pour son service n'est pas remplie ou lorsque les ressources de
-l'allocataire ont varié.
+Les services ou organismes mentionnés à l'article L. 815-7 statuent sur le droit
+des bénéficiaires à l'allocation de solidarité aux personnes âgées instituée par
+le présent chapitre et en assurent le paiement.
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles la suspension,
-la révision ou le retrait peuvent être effectués par les services ou organismes
-mentionnés à l'article L. 815-9 ou à défaut par le fonds institué par l'article
-L. 135-1 ou le fonds spécial d'invalidité mentionné par l'article L. 815-3-1. La
-décision du fonds institué par l'article L. 135-1 ou le fonds spécial
-d'invalidité mentionné par l'article L. 815-3-1 s'impose à l'organisme ou
-service mentionné à l'article L. 815-9.
+Cette allocation est cessible et saisissable dans les mêmes conditions et
+limites que le salaire. Toutefois, elle ne l'est que dans la limite de 90 % au
+profit des établissements hospitaliers et des caisses de sécurité sociale pour
+le paiement des frais d'hospitalisation.
 
-Dans tous les cas, les arrérages versés sont acquis aux bénéficiaires sauf
-lorsqu'il y a fraude, absence de déclaration des ressources, omission de
-ressources dans les déclarations.
-
-Toute demande de remboursement de trop-perçu se prescrit par deux ans à compter
-de la date du paiement de l'allocation entre les mains du bénéficiaire [*délai
-de prescription*].
+Par dérogation à l'alinéa précédent, lorsque l'allocation s'ajoute à un avantage
+de vieillesse soumis à des règles de cessibilité ou de saisissabilité
+particulières, ces règles sont applicables à l'allocation. Pour l'application de
+ces règles, les quotités saisissables sont déterminées séparément.

@@ -1,6 +1,5 @@
 Article L815-22
 ----
-Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre
-notamment en ce qui concerne les bénéficiaires des régimes énumérés par le
-décret prévu à l'article L. 711-1 et les bénéficiaires de plusieurs avantages de
-vieillesse résultant de dispositions législatives ou réglementaires.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles le fonds
+institué par l'article L. 135-1 participe aux dépenses de gestion et de
+contentieux résultant de l'application du présent chapitre.

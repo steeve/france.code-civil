@@ -1,6 +1,9 @@
 Article L815-21
 ----
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles le fonds
-institué par l'article L. 135-1 ou le fonds spécial d'invalidité mentionné par
-l'article L. 815-3-1 participe aux dépenses de gestion et de contentieux
-résultant de l'application du présent chapitre.
+Le fonds institué par l'article L. 135-1 peut mettre les allocations payées à
+tort à la charge de l'organisme ou du service qui a procédé à la liquidation de
+l'allocation.
+
+Les autorités chargées de l'exercice de la tutelle des organismes et services
+mentionnés à l'article L. 815-7 peuvent prescrire les mesures de contrôle et de
+redressement qui s'avèrent nécessaires.

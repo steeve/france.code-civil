@@ -1,8 +1,13 @@
 Article L815-8
 ----
-L'allocation supplémentaire n'est due que si le total de cette allocation et des
-ressources personnelles de l'intéressé et du conjoint, si le bénéficiaire est
-marié, n'excède pas des chiffres limites fixés par décret [*plafond*]. Lorsque
-le total de la ou des allocations supplémentaires et des ressources personnelles
-de l'intéressé ou des époux dépasse ces chiffres, la ou les allocations sont
-réduites à due concurrence.
+La commission du service de l'allocation de solidarité aux personnes âgées
+mentionnée à l'article L. 815-7 statue sur les demandes de subventions, aides
+individuelles et secours instruites par la Caisse des dépôts et consignations.
+
+Les décisions d'attribution de subvention ne sont exécutoires qu'en l'absence
+d'opposition formée, dans les conditions fixées par décret, par l'autorité
+compétente de l'Etat.
+
+Les dépenses entraînées par l'action sociale prévue au présent article sont
+remboursées au service de l'allocation de solidarité aux personnes âgées par le
+fonds institué par l'article L. 135-1.

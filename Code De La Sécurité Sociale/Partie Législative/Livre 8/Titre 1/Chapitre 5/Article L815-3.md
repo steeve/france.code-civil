@@ -1,13 +1,6 @@
 Article L815-3
 ----
-Bénéficie également de l'allocation supplémentaire , dans les conditions
-ci-après, toute personne de nationalité française résidant sur le territoire
-métropolitain ou dans un département mentionné à l'article L. 751-1, y ayant
-résidé ou ayant résidé dans un territoire d'outre-mer, à
-Saint-Pierre-et-Miquelon ou à Mayotte, pendant une durée et dans des conditions
-fixées par décret, quel que soit son âge, titulaire d'un avantage viager servi
-au titre de l'assurance invalidité ou de vieillesse par un régime de sécurité
-sociale résultant de dispositions législatives ou réglementaires, si cette
-personne est atteinte d'une invalidité générale réduisant sa capacité de travail
-ou de gain dans des proportions déterminées ou si elle a obtenu cet avantage en
-raison d'une invalidité générale au moins égale.
+Les personnes qui ont été reconnues inaptes au travail pour l'attribution d'un
+avantage de vieillesse résultant de dispositions législatives ou réglementaires
+sont considérées comme inaptes au travail pour l'application du présent
+chapitre.

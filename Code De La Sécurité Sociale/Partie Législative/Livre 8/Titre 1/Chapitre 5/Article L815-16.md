@@ -1,6 +1,6 @@
 Article L815-16
 ----
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles toute personne,
-institution ou entreprise est tenue de déclarer aux organismes ou services
-mentionnés à l'article L. 815-9, les avantages viagers qu'elle a l'obligation de
-servir à des personnes susceptibles de bénéficier du présent chapitre.
+Pour l'exercice de sa mission, le service ou l'organisme chargé de la gestion de
+l'allocation vérifie les déclarations des bénéficiaires, le cas échéant en
+coopération avec les institutions étrangères auxquelles ils sont ou ont été
+affiliés.
