@@ -2,7 +2,7 @@ Article 97
 ----
 Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous
 réserve des nécessités de l'information et du respect, le cas échéant, de
-l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge
+l'obligation stipulée par l'alinéa 3 de l'article [*96*] précédent, le juge
 d'instruction ou l'officier de police judiciaire par lui commis a seul le droit
 d'en prendre connaissance avant de procéder à la saisie.
 

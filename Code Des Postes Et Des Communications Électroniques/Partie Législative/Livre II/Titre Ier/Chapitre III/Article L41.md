@@ -1,6 +1,7 @@
 Article L41
 ----
-Tout agent de l'exploitant public, d'un exploitant de réseau autorisé en vertu
-de l'article L. 33-1 ou d'un fournisseur de services de télécommunications qui
-viole le secret de la correspondance confiée au service auquel il participe est
-puni des peines mentionnées à l'article 187 du code pénal.
+Tout agent de l'exploitant public, tout agent d'un exploitant de réseau de
+télécommunications autorisé ou d'un fournisseur de services de
+télécommunications qui viole le secret des correspondances émises par la voie
+des télécommunications est puni des peines mentionnées à l'article 186-1 du code
+pénal.
