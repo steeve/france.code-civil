@@ -1,6 +1,6 @@
 Article L353
 ----
-Les dépenses exposées par les départements pour l'application de l'article L.
-326 sont réparties entre l'Etat et les départements dans les conditions prévues
-par l'article 190 du Code de la famille et de l'aide sociale [*charge
-financière*].
+Les dépenses exposées en application de l'article L. 326 sont à la charge de
+l'Etat sans préjudice de la participation des régimes d'assurance maladie aux
+dépenses de soins [*dépistage et prophylaxie des maladies mentales et de
+l'alcoolisme*].

@@ -23,6 +23,18 @@ sont fixées par décret en Conseil d'Etat, après avis du comité des finances
 locales.
 
 Lorsqu'une commune remplit les conditions requises pour bénéficier à la fois de
-la dotation instituée par le présent article et de la dotation particulière
-instituée par l'article L. 234-14 en faveur des communes touristiques ou
-thermales, seule la plus élevée des deux dotations lui est versée.
+la dotation particulière instituée par le présent article et de la dotation
+particulière instituée par l'article L. 234-14 en faveur des communes
+touristiques ou thermales, seule la plus élevée des deux dotations lui est
+versée.
+
+Les communes qui, en 1982, ont bénéficié de la dotation particulière instituée
+par le présent article en faveur des villes centres d'agglomération et qui, en
+1983, ne remplissent plus les conditions requises par les alinéas 1er et 4
+ci-dessus, soit en raison des mouvements de population constatés lors du
+recensement général de population de 1982, soit en raison de la modification de
+la structure des agglomérations, continuent, à titre transitoire, à bénéficier
+de cette dotation particulière pendant une période de trois ans à compter du 1er
+janvier 1983.
+
+Il leur est attribué une dotation égale à celle perçue en 1982.

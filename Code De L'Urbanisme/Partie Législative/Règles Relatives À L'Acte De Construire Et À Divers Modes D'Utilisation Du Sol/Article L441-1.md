@@ -1,7 +1,6 @@
 Article L441-1
 ----
-Les dispositions du présent titre sont applicables [*autorisation des clôtures*]
-:
+Les dispositions du présent chapitre sont applicables :
 
 a) Dans les communes dotées d'un plan d'occupation des sols rendu public ou
 approuvé ;

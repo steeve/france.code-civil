@@ -35,11 +35,6 @@ municipaux des communes membres. Les conseils municipaux doivent faire connaîtr
 leur accord ou leur désaccord dans un délai de trois mois ; à défaut, l'accord
 est réputé donné.
 
-Dans les communes couvertes par un schéma directeur ou un schéma de secteur
-approuvé ou arrêté, le projet de plan d'occupation des sols est rendu public par
-le maire ou le président de l'établissement public compétent avec en annexe les
-avis ou les accords des personnes publiques consultées. Le plan d'occupation des
-sols rendu public est opposable à toute personne publique ou privée pour
-l'exécution de tous travaux, constructions, plantations, affouillements ou
-exhaussements des sols, pour la création de lotissements et l'ouverture des
-installations classées.
+Le projet de plan d'occupation des sols est rendu public par le maire ou le
+président de l'établissement public compétent avec en annexe les avis ou les
+accords des personnes publiques consultées.
