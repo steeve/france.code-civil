@@ -25,4 +25,5 @@ membres d'un groupe au sens de l'article 223 A, la limite de 50 % s'applique
 pour l'ensemble du groupe par référence à l'impôt dû par la société mère du
 groupe.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article
+(1).
