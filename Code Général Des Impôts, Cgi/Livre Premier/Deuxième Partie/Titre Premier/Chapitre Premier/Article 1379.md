@@ -1,7 +1,7 @@
 Article 1379
 ----
 I. Les communes perçoivent, dans les conditions déterminées par le présent
-chapitre [*art. 1379 à art. 1528*] :
+chapitre :
 
 1° La taxe foncière sur les propriétés bâties ;
 
@@ -23,3 +23,9 @@ II. Elles peuvent, en outre, instituer les taxes suivantes :
 
 3° Taxe de balayage, lorsqu'elles assurent le balayage de la superficie des
 voies livrées à la circulation publique qui incombe aux propriétaires riverains.
+
+III. Les communes membres d'une communauté ou d'un syndicat d'agglomération
+nouvelle visés à l'article 1609 nonies B perçoivent le produit des taxes
+foncières, de la taxe d'habitation et des autres droits et taxes, à l'exclusion
+de la taxe professionnelle, conformément aux dispositions applicables aux
+communes.

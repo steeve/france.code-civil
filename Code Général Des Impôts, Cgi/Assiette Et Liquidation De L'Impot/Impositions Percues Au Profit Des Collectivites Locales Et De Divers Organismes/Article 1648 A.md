@@ -37,9 +37,8 @@ ou traitant des combustibles, l'assiette du prélèvement est limitée de maniè
 que la commune conserve au moins 80 % du montant des bases de taxe
 professionnelle imposables à son profit en 1979.
 
-Les dispositions du présent paragraphe ne s'appliquent pas aux organismes
-mentionnés à l'article 4 de la loi n° 70-610 du 10 juillet 1970 tendant à
-faciliter la création d'agglomérations nouvelles.
+Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations
+nouvelles.
 
 II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou
@@ -60,10 +59,9 @@ remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
 
 Le solde est réparti :
 
-1° D'une part entre les communes, les groupements de communes et les organismes
-mentionnés à l'article 4 de la loi n° 70-610 du 10 juillet 1970 tendant à
-faciliter la création d'agglomérations nouvelles, défavorisés par la faiblesse
-de leur potentiel fiscal ou l'importance de leurs charges ;
+1° D'une part entre les communes, les groupements de communes et les
+agglomérations nouvelles, défavorisés par la faiblesse de leur potentiel fiscal
+ou l'importance de leurs charges ;
 
 2° D'autre part :
 
@@ -100,6 +98,12 @@ V. Une fraction des recettes départementales de la taxe professionnelle peut
 également être affectée au fonds par décision du conseil général. Ce supplément
 de recettes est réparti par lui entre les communes suivant les critères qu'il
 détermine.
+
+V bis - Pour l'application du présent article, les communautés ou syndicats
+d'agglomérations nouvelles visés à l'article 1609 nonies sont substitués aux
+communes membres. Leur potentiel fiscal est calculé en tenant compte des bases
+de taxe d'habitation et de taxes foncières imposées au profit des communes
+membres.
 
 VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).

@@ -8,13 +8,16 @@ professions.
 
 Ils sont également chargés de veiller à l'application des dispositions des
 conventions et accords collectifs de travail répondant aux conditions fixées au
-titre III du livre 1er dudit code, qui concernent les professions agricoles.
+titre III du livre 1er dudit code qui concernent les professions agricoles.
 
 Ils constatent les infractions aux dispositions ci-dessus indiquées, aux
 dispositions générales de prévention ayant fait l'objet d'un arrêté d'extension
 du ministre de l'agriculture ainsi qu'aux mesures particulières de prévention
 rendues obligatoires par arrêté du ministre de l'agriculture pour tous les
 employeurs d'un secteur professionnel déterminé.
+
+Ils constatent également les infractions à la règle de l'égalité professionnelle
+définies au 3° de l'article 416 du code pénal.
 
 Les dispositions des articles L. 611-8, L. 611-10 et L. 611-11 sont applicables
 à ces inspecteurs.
