@@ -24,3 +24,9 @@ taux déterminé par application de l'indice de pension 33.
 Les titulaires de la carte âgés de soixante-cinq ans, autres que ceux visés aux
 alinéas précédents, bénéficient de la retraite au taux déterminé par application
 de l'indice de pension 33.
+
+Les bénéficiaires d'une pension d'invalidité au titre du présent code,
+indemnisant une ou plusieurs infirmités imputables à des services accomplis au
+cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de
+l'ordre hors métropole et titulaires de la carte du combattant, ont droit à la
+retraite du combattant à l'âge de soixante ans.

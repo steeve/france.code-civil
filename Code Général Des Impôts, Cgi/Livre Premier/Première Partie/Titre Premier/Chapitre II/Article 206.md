@@ -15,11 +15,12 @@ lucratif.
 1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1
 les associations régies par la loi du 1er juillet 1901, les associations régies
 par la loi locale maintenue en vigueur dans les départements de la Moselle, du
-Bas-Rhin et du Haut-Rhin, les fondations reconnues d'utilité publique, les
+Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 411-1 et
+suivants du code du travail, les fondations reconnues d'utilité publique, les
 fondations d'entreprise et les congrégations, dont la gestion est désintéressée,
 lorsque leurs activités non lucratives restent significativement prépondérantes
 et le montant de leurs recettes d'exploitation encaissées au cours de l'année
-civile au titre de leurs activités lucratives n'excède pas 250 000 F.
+civile au titre de leurs activités lucratives n'excède pas 60 000 euros.
 
 Les organismes mentionnés au premier alinéa deviennent passibles de l'impôt sur
 les sociétés prévu au 1 à compter du 1er janvier de l'année au cours de laquelle
@@ -36,12 +37,12 @@ visées aux articles 34 et 35.
 
 Toutefois, les sociétés civiles dont l'activité principale entre dans le champ
 d'application de l'article 63 peuvent bénéficier des dispositions de l'article
-75 lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant du
-forfait prévu aux articles 64 à 65 A ne sont pas passibles de l'impôt visé au 1
-lorsque les activités accessoires visées aux articles 34 et 35 qu'elles peuvent
-réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices résultant
-de ces activités sont alors déterminés et imposés d'après les règles qui leur
-sont propres.
+72 bis lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant
+du forfait prévu aux articles 64 à 65 B ne sont pas passibles de l'impôt visé au
+1 lorsque les activités accessoires visées aux articles 34 et 35 qu'elles
+peuvent réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices
+résultant de ces activités sont alors déterminés et imposés d'après les règles
+qui leur sont propres.
 
 3. Sont soumis à l'impôt sur les sociétés s'ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
@@ -58,7 +59,7 @@ e. Les sociétés à responsabilité limitée dont l'associé unique est une per
 physique ;
 
 f. Les exploitations agricoles à responsabilité limitée mentionnée au 5° de
-l'article 8.
+l'article 8 ;
 
 g. les groupements d'intérêt public mentionnés à l'article 239 quater B.
 
@@ -100,8 +101,8 @@ montant brut.
 5 bis. Les associations intermédiaires conventionnées, visées à l'article L.
 322-4-16-3 du code du travail, dont la gestion est désintéressée et les
 associations de services aux personnes, agréées en application de l'article
-L129-1 du même code, sont soumises à l'impôt sur les sociétés dans les
-conditions prévues au 5 ;
+L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
+prévues au 5 ;
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier

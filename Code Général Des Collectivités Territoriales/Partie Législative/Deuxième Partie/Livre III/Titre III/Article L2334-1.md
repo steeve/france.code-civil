@@ -7,7 +7,7 @@ d'une dotation d'aménagement.
 Le montant de la régularisation, auquel est ajouté le reliquat comptable
 éventuel du même exercice, est réparti entre les bénéficiaires de la dotation
 globale de fonctionnement au prorata des sommes perçues au titre de la dotation
-initiale de l'année au cours de laquelle la régularisation est versée.
+initiale de l'année à laquelle cette régularisation correspond.
 
 A compter de 2000, le montant de la dotation globale de fonctionnement visée au
 premier alinéa est égal à la différence entre le montant de la dotation prévue à

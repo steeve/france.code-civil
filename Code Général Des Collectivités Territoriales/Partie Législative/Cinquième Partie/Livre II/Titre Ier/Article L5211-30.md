@@ -1,15 +1,10 @@
 Article L5211-30
 ----
 I. - Les sommes affectées à chacune des catégories d'établissements publics de
-coopération intercommunale mentionnées aux 2°, 3°, 4°, et 5° du I de l'article
-L. 5211-29 sont réparties entre les établissements après prélèvement des sommes
-nécessaires à l'application des dispositions de l'article L. 5211-33, à raison
-de 15 % pour la dotation de base et de 85 % pour la dotation de péréquation.
-
-De 2000 à 2002, les sommes affectées aux deux catégories des communautés
-urbaines mentionnées au 6° du I de l'article L. 5211-29 sont réparties entre ces
-établissements à raison de 15 % pour la dotation de base et de 85 % pour la
-dotation de péréquation.
+coopération intercommunale mentionnées au I de l'article L. 5211-29 sont
+réparties entre les établissements après prélèvement des sommes nécessaires à
+l'application des dispositions de l'article L. 5211-33, à raison de 15 % pour la
+dotation de base et de 85 % pour la dotation de péréquation.
 
 A compter du 1er janvier 2003, les sommes affectées à la catégorie des
 communautés urbaines sont réparties de sorte que le montant de l'attribution par
@@ -24,9 +19,8 @@ première année d'attribution, à la dotation moyenne par habitant de la catég
 des communautés urbaines.
 
 Chaque établissement public de coopération intercommunale doté d'une fiscalité
-propre mentionné aux premier et deuxième alinéas perçoit, par prélèvement sur le
-montant total des sommes affectées à la catégorie d'établissement à laquelle il
-appartient :
+propre mentionné au premier alinéa perçoit, par prélèvement sur le montant total
+des sommes affectées à la catégorie d'établissement à laquelle il appartient :
 
 a) Une dotation de base, calculée en fonction de la population totale des
 communes regroupées et pondérée, le cas échéant, par le coefficient
@@ -115,9 +109,8 @@ les communautés de communes faisant application des dispositions de l'article
 dernière année connue de la compensation prévue au D de l'article 44 de la loi
 de finances pour 1999 précitée et, le cas échéant, de celles prévues au B de
 l'article 4 de la loi n° 96-987 du 14 novembre 1996 précitée ou au B de
-l'article 3 de la loi n° 96-1143 du 26 décembre 1996 précitée.
-
-2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie
+l'article 3 de la loi n° 96-1143 du 26 décembre 1996 précitée. 2° Pour
+déterminer le coefficient d'intégration fiscale moyen d'une catégorie
 d'établissement public de coopération intercommunale, sont prises en compte les
 sommes des recettes et des dépenses de transfert de l'ensemble des
 établissements publics percevant depuis plus de deux ans la dotation

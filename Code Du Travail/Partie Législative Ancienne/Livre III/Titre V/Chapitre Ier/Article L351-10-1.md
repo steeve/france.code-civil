@@ -1,28 +1,53 @@
 Article L351-10-1
 ----
-Les bénéficiaires de l'allocation de solidarité spécifique mentionnée au premier
-alinéa de l'article L. 351-10 ou de l'allocation de revenu minimum d'insertion
-prévue à l'article 2 de la loi n° 88-1088 du 1er décembre 1988 relative au
-revenu minimum d'insertion peuvent bénéficier d'une allocation spécifique
-d'attente, à la charge du fonds mentionné à l'article L. 351-9, lorsqu'ils
-justifient, avant l'âge de soixante ans, d'au moins cent soixante trimestres
-validés dans les régimes de base obligatoires d'assurance vieillesse ou de
-périodes reconnues équivalentes. Le total des ressources des bénéficiaires de
-l'allocation spécifique d'attente ne pourra être inférieur à un montant fixé par
-décret.
+Les demandeurs d'emploi qui justifient, avant l'âge de soixante ans, d'au moins
+160 trimestres validés dans les régimes de base obligatoires d'assurance
+vieillesse ou de périodes reconnues équivalentes bénéficient sous conditions de
+ressources d'une allocation équivalent retraite.
 
-Le montant de cette allocation n'est pas pris en compte pour le calcul de
-l'allocation de solidarité spécifique et de l'allocation de revenu minimum
-d'insertion des intéressés.
+Cette allocation se substitue, pour leurs titulaires, à l'allocation de
+solidarité spécifique mentionnée au premier alinéa de l'article L. 351-10 ou à
+l'allocation de revenu minimum d'insertion prévue à l'article L. 262-3 du code
+de l'action sociale et des familles. Elle prend la suite de l'allocation
+d'assurance chômage pour ceux qui ont épuisé leurs droits à cette allocation.
+Elle peut également la compléter lorsque cette allocation ne permet pas
+d'assurer à son bénéficiaire un total de ressources égal à celui prévu à
+l'alinéa suivant.
 
-Pour les titulaires du revenu minimum d'insertion ne percevant pas l'allocation
-de solidarité spécifique, le service de l'allocation spécifique d'attente est
-assuré dans les conditions prévues par une convention conclue entre, d'une part,
-l'Etat et, d'autre part, la Caisse nationale des allocations familiales et la
-Caisse centrale de mutualité sociale agricole. Pour les bénéficiaires de
-l'allocation de solidarité spécifique, ce service est assuré dans les conditions
-prévues par une convention conclue entre l'Etat et les organismes gestionnaires
-des allocations de solidarité mentionnés à l'article L. 351-21.
+Le total des ressources du bénéficiaire de l'allocation équivalent retraite,
+dans la limite de plafonds fixés par décret en Conseil d'Etat, ne pourra être
+inférieur à 877 Euro. Les ressources prises en considération pour l'appréciation
+de ce montant ne comprennent pas les allocations d'assurance ou de solidarité,
+les rémunérations de stage ou les revenus d'activité du conjoint de l'intéressé,
+ou de son concubin ou de son partenaire lié à lui par un pacte civil de
+solidarité, tels qu'ils doivent être déclarés à l'administration fiscale pour le
+calcul de l'impôt sur le revenu.
 
-Un décret en Conseil d'Etat fixe les mesures d'application du présent article.
-Le montant de cette allocation est fixé par décret.
+Les bénéficiaires de l'allocation équivalent retraite bénéficient, à leur
+demande, de la dispense de recherche d'emploi prévue au deuxième alinéa de
+l'article L. 351-16.
+
+L'allocation équivalent retraite est à la charge du fonds mentionné à l'article
+L. 351-9. Son service est assuré dans les conditions prévues par une convention
+conclue entre l'Etat et les organismes gestionnaires des allocations de
+solidarité mentionnés à l'article L. 351-21.
+
+Un décret en Conseil d'Etat fixe les plafonds de ressources mentionnés au
+troisième alinéa et les conditions de ressources mentionnées au premier alinéa
+pour les personnes seules et les couples, ainsi que les autres conditions
+d'application du présent article.
+
+Le montant de l'allocation équivalent retraite à taux plein est fixé par décret.
+
+L'allocation équivalent retraite est cessible et saisissable dans les mêmes
+conditions et limites que les salaires.
+
+Les dispositions du présent article seront applicables à l'entrée en vigueur du
+décret en Conseil d'Etat mentionné au sixième alinéa du présent article.
+
+Pour l'application du présent article, les organismes gestionnaires visés à
+l'article L. 351-21 reçoivent des organismes visés à l'article L. 262-30 du code
+de l'action sociale et des familles les informations nominatives nécessaires et
+mettent en oeuvre des traitements automatisés de ces informations, dans les
+conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.

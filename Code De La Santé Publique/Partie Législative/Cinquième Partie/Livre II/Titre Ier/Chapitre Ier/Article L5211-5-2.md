@@ -8,7 +8,7 @@ européenne, de leurs mandataires.
 
 Le taux de cette taxe est fixé à 0,15 % du chiffre d'affaires annuel hors taxes
 réalisé. La taxe n'est pas exigible lorsque les ventes n'ont pas atteint, au
-cours de l'année civile précédente, un montant hors taxes de 5 000 000 F.
+cours de l'année civile précédente, un montant hors taxes de 763 000 euros.
 
 Une obligation de déclaration est instituée selon les mêmes conditions et les
 mêmes pénalités que celles fixées aux premier et deuxième alinéas de l'article

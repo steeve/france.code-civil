@@ -1,49 +1,32 @@
 Article L322-4-2
 ----
 Afin de faciliter l'insertion professionnelle durable des demandeurs d'emploi de
-longue durée, des bénéficiaires du revenu minimum d'insertion, des bénéficiaires
-de l'obligation d'emploi prévue à l'article L. 323-1, des bénéficiaires de
-l'allocation spécifique de solidarité, des femmes isolées assumant ou ayant
-assumé des charges de famille, des bénéficiaires de l'allocation d'assurance
-veuvage, des Français ayant perdu leur emploi à l'étranger, dès leur retour en
-France, des personnes âgées de plus de cinquante ans privées d'emploi et des
-personnes déterminées par décret rencontrant des difficultés particulières
-d'accès à l'emploi, l'Etat peut conclure avec des employeurs des conventions
-ouvrant droit au bénéfice de contrats de travail dénommés contrats
-initiative-emploi.
+longue durée, des bénéficiaires de minima sociaux et des personnes qui, du fait
+de leur âge, de leur handicap, de leur situation sociale ou familiale,
+rencontrent des difficultés particulières d'accès à l'emploi, l'Etat peut
+conclure avec des employeurs des conventions ouvrant droit au bénéfice de
+contrats de travail dénommés contrats initiative-emploi.
 
-Les demandeurs d'emploi de longue durée bénéficiaires pendant leurs derniers
-dix-huit mois de chômage d'un stage de formation, ou ayant été contraints
-pendant cette même période à un congé maladie, remplissent les conditions
-d'accès au bénéfice des contrats initiative-emploi.
-
-L'Etat peut également conclure avec des employeurs des conventions ouvrant droit
-au bénéfice de contrats initiative-emploi qui peuvent être conclus avec des
-salariés bénéficiaires d'un contrat de travail en application des articles L.
-322-4-7, L. 322-4-8-1 ou L. 322-4-16, au terme de ce contrat, lorsque ces
-salariés appartenaient au début de ce même contrat à l'une des catégories
-définies au premier alinéa.
+Les durées d'inscription comme demandeur d'emploi, exigées pour accéder au
+dispositif du contrat initiative-emploi, sont prolongées des périodes de stages
+de formation et des périodes pendant lesquelles les intéressés ont bénéficié
+d'un contrat de travail en application des articles L. 322-4-7, L. 322-4-8-1 ou
+L. 322-4-16, ou des périodes d'indisponibilité dues à une maladie, une maternité
+ou un accident du travail.
 
 Les contrats initiative-emploi peuvent être des contrats de travail à temps
-partiel, sans condition de durée minimale en ce qui concerne les personnes
-handicapées contraintes à des horaires limités pour des raisons médicales.
+partiel. En ce qui concerne les personnes handicapées contraintes à des horaires
+limités pour des raisons médicales, il n'existe pas de durée minimale.
 
-Les contrats initiative-emploi conclus en vertu de ces conventions donnent droit
-:
+Les contrats initiative-emploi donnent droit à une aide de l'Etat dont le
+montant peut être modulé en fonction de la gravité des difficultés d'accès à
+l'emploi.
 
-1° A une aide de l'Etat pour les catégories de bénéficiaires rencontrant les
-difficultés d'accès à l'emploi les plus graves. Ces catégories ainsi que les
-conditions d'octroi et le montant de l'aide, qui peut être modulée en fonction
-de la gravité des difficultés d'accès à l'emploi, sont fixés par décret ;
+Les convention visées au premier alinéa peuvent prévoir un accompagnement dans
+l'emploi, une aide à la formation liée à l'activité de l'entreprise ainsi qu'une
+aide au tutorat. Aucune convention ne peut être conclue pour une embauche
+bénéficiant d'une autre aide à l'emploi.
 
-2° A l'exonération des cotisations patronales de sécurité sociale dans les
-conditions fixées à l'article L. 322-4-6.
-
-Les conventions peuvent prévoir une formation liée à l'activité de l'entreprise
-ouvrant droit à une aide de l'Etat, à laquelle peut s'ajouter, pour les chômeurs
-de plus de deux ans, une aide au tutorat.
-
-Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre
-aide à l'emploi. L'exonération ne peut pas être cumulée avec une autre
-exonération partielle ou totale de cotisations patronales ni avec l'application
-de taux spécifiques, d'assiettes ou de montants forfaitaires de cotisations.
+Un décret en Conseil d'Etat précise les conditions d'application du présent
+article, notamment les conditions d'éligibilité des bénéficiaires et les
+montants des aides afférentes aux conventions.

@@ -1,10 +1,10 @@
 Article L12
 ----
-Entrent également en compte pour la pension [*calcul, validation de périodes*] :
+Entrent également en compte pour la pension :
 
-1° Le temps [*période*] de navigation accompli par les marins français sous le
-pavillon d'un Etat placé sous protectorat ou mandat français ou sur des
-bâtiments autorisés à naviguer sous pavillon français dans les mers lointaines ;
+1° Le temps de navigation accompli par les marins français sous le pavillon d'un
+Etat placé sous protectorat ou mandat français ou sur des bâtiments autorisés à
+naviguer sous pavillon français dans les mers lointaines ;
 
 2° Le temps de navigation accompli sous pavillon monégasque ;
 
@@ -25,8 +25,8 @@ nature technique à bord du même bâtiment ;
 
 6° Dans la limite d'une durée fixée par décret en Conseil d'Etat :
 
-Le temps pendant lequel les marins ayant accompli au moins dix ans [*durée*] de
-navigation sont employés d'une façon permanente dans les services techniques des
+Le temps pendant lequel les marins ayant accompli au moins dix ansde navigation
+sont employés d'une façon permanente dans les services techniques des
 entreprises d'armement maritimes et des sociétés de classification reconnues ;
 
 7° Le temps pendant lequel les marins ayant antérieurement accompli au moins
@@ -37,31 +37,33 @@ n'aient cessé de naviguer que pour exercer cette fonction ;
 
 8° Le temps pendant lequel les marins ayant accompli au moins cinq ans de
 navigation professionnelle ont été investis d'un mandat parlementaire, à la
-condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat.
+condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat ;
 
 9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie
-réglementaire, les marins sont privés d'emploi [*chômeurs*] et perçoivent un
-revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du
-travail ou une allocation de conversion au sens du 4° de l'article L. 322-4 du
-code du travail ou une allocation versée dans le cadre de l'article L. 322-3 du
-code du travail ou une allocation versée en application de l'article 53 de la
-loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les
-cultures marines.
+réglementaire, les marins sont privés d'emploi et perçoivent un revenu de
+remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail ou
+une allocation de conversion au sens du 4° de l'article L. 322-4 du code du
+travail ou une allocation versée dans le cadre de l'article L. 322-3 du code du
+travail (1) ou une allocation versée en application de l'article 53 de la loi n°
+97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures
+marines ou une allocation de cessation anticipée d'activité versée par la caisse
+générale de prévoyance des marins en faveur des marins exposés ou ayant été
+exposés à l'amiante ;
 
 10° Le temps pendant lequel :
 
-- un marin interrompt la navigation pour les besoins de la gestion de
+-un marin interrompt la navigation pour les besoins de la gestion de
 l'entreprise qu'il dirige, à condition que les périodes correspondantes
-représentent, par année civile, moins de 50 % du tolal des services validés pour
+représentent, par année civile, moins de 50 % du total des services validés pour
 pension ;
 
-- un marin, ayant accompli au moins dix ans de navigation professionnelle, cesse
+-un marin, ayant accompli au moins dix ans de navigation professionnelle, cesse
 de naviguer pour gérer personnellement, de façon permanente, l'entreprise
 d'armement maritime qu'il dirige ;
 
 11° Le temps passé dans les activités mentionnées aux 7° et 10° dès lors que le
 marin est reconnu atteint d'une infirmité le mettant dans l'impossibilité
-absolue et définitive de continuer l'exercice de la navigation.
+absolue et définitive de continuer l'exercice de la navigation ;
 
 12° Dans des limites fixées par voie réglementaire, les périodes pendant
 lesquelles un marin a perçu une pension d'invalidité en raison d'une maladie ou

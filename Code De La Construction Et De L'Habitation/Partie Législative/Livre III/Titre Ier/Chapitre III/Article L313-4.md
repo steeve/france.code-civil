@@ -6,4 +6,5 @@ d'Etat, aux investissements prévus à l'article L. 313-1 sont, dans la mesure o
 ils n'ont pas procédé à ces investissements, assujettis à une cotisation de 2 p.
 100 calculée sur les bases fixées à l'article L. 313-1.
 
-Cette cotisation est établie et recouvrée comme en matière d'impôts directs.
+Cette cotisation est recouvrée selon les modalités et sous les suretés,
+garanties et sanctions applicables aux taxes sur le chiffre d'affaires.

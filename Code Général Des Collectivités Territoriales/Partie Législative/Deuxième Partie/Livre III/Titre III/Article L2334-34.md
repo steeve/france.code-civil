@@ -40,5 +40,4 @@ réalisation d'une opération déterminée correspondant à une dépense réelle
 directe d'investissement.
 
 Ces subventions doivent leur être notifiées en totalité au cours du premier
-trimestre de l'année civile ; dès réception de la notification, les communes
-peuvent engager les travaux auxquels se rapportent les subventions.
+trimestre de l'année civile.

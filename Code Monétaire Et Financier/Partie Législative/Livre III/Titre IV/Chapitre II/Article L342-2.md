@@ -1,6 +1,6 @@
 Article L342-2
 ----
-Sans préjudice des dispositions particulières prévues au troisième alinéa de
+Sans préjudice des dispositions particulières prévues au huitième alinéa de
 l'article L. 214-36, le démarchage en vue d'opérations sur valeurs mobilières
 n'est autorisé que dans les limites et sous les conditions prévues par le
 présent chapitre.

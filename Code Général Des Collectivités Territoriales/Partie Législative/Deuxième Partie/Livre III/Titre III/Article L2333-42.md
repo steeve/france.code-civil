@@ -2,11 +2,10 @@ Article L2333-42
 ----
 Le tarif de la taxe de séjour forfaitaire est fixé avant le début de la période
 de perception, par délibération du conseil municipal, conformément à un barème
-établi par décret en Conseil d'Etat pour chaque nature et pour chaque catégorie
-d'hébergement sur la base du classement officiel des hébergements et
-installations accueillant les personnes visées à l'article L. 2333-29. Le tarif
-ne peut être inférieur à 1 F, ni supérieur à 7 F, par unité de capacité
-d'accueil et par nuitée.
+établi par décret pour chaque nature et pour chaque catégorie d'hébergement sur
+la base du classement officiel des hébergements et installations accueillant les
+personnes visées à l'article L. 2333-29. Le tarif ne peut être inférieur à 0, 2
+euro, ni supérieur à 1, 5 euro, par unité de capacité d'accueil et par nuitée.
 
 Le montant total de la taxe peut être réduit par application d'un coefficient
 destiné à tenir compte de la fréquentation habituelle des établissements

@@ -7,7 +7,7 @@ d'une pension si elles sont âgées de plus de soixante ans et si elles justifie
 d'une durée de mariage et de soins donnés d'une manière constante pendant au
 moins quinze années.
 
-Le taux de cette majoration est fixé à l'indice de pension 230.
+Le taux de cette majoration est fixé à l'indice de pension 350.
 
 Une majoration spéciale est attribuée, pour les soins donnés par elles à leur
 mari, aux veuves des grands invalides relevant de l'article L. 18 et
@@ -16,4 +16,4 @@ d'une pension, si elles sont âgées de plus de soixante ans et si elles
 justifient d'une durée de mariage et de soins donnés d'une manière constante
 pendant au moins quinze années.
 
-Le taux de cette majoration est fixé à l'indice de pension 140.
+Le taux de cette majoration est fixé à l'indice de pension 260.

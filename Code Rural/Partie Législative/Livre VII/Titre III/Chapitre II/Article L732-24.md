@@ -15,12 +15,3 @@ fonction des cotisations versées en application du 2° de l'article L. 731-42
 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant
 les coefficients fixés en application de l'article L. 351-11 du code de la
 sécurité sociale.
-
-La pension de retraite proportionnelle des chefs d'exploitation ou d'entreprise
-agricole justifiant de conditions minimales de durée d'activité agricole non
-salariée et d'assurance en tant que chef d'exploitation ou d'entreprise agricole
-est calculée ou révisée en tenant compte, selon des modalités fixées par décret,
-des périodes d'assurance accomplies par les intéressés en qualité d'aide
-familial défini au 2° de l'article L. 722-10 à partir de l'âge de majorité. Pour
-les pensions déjà liquidées, ce décret précise les périodes assimilées aux
-périodes d'assurance précédemment mentionnées.
