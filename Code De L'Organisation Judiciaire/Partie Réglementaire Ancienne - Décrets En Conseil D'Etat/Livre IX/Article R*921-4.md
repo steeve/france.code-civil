@@ -1,10 +1,10 @@
 Article R*921-4
 ----
-Pendant la première quinzaine du mois de décembre, les magistrats du siège se
-réunissent dans chaque tribunal de grande instance pour fixer l'affectation des
-vice-présidents et juges entre les chambres du tribunal.
+L'ordonnance prise par le président du tribunal de grande instance en
+application de l'article L. 710-1 intervient après avis de l'assemblée générale
+des magistrats du siège.
 
-Le procureur de la République est entendu en ses observations.
+Elle précise le nombre, le jour et la nature des audiences, conformément aux
+dispositions en vigueur.
 
-En cas de désaccord, la décision est prise par le premier président de la cour
-d'appel.
+Un magistrat peut être affecté à plusieurs chambres.

@@ -1,11 +1,10 @@
 Article R*311-23
 ----
-Pendant la première quinzaine du mois de décembre, le président après l'avis de
-l'assemblée générale des magistrats du siège, fixe par ordonnance la répartition
-dans les chambres et services du tribunal des vice-présidents et juges dont ce
-tribunal est composé.
+L'ordonnance prise par le président du tribunal de grande instance en
+application de l'article L. 710-1 intervient dans la première quinzaine du mois
+de décembre après avis de l'assemblée générale des magistrats du siège.
 
-Cette ordonnance précise le nombre, le jour et la nature des audiences
-conformément aux dispositions en vigueur.
+Elle précise le nombre, le jour et la nature des audiences conformément aux
+dispositions en vigueur.
 
 Un magistrat peut être affecté à plusieurs chambres.

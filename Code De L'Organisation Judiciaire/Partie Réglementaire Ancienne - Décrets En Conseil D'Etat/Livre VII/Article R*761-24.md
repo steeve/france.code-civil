@@ -22,8 +22,9 @@ prévention prévus par les articles 12 (4°) et 16 du décret n° 83-459 du 8 j
 1983 portant création d'un conseil national et relatif aux conseils
 départementaux et communaux de prévention de la délinquance ;
 
-5° Détermine le nombre des audiences correctionnelles, conformément à l'article
-399 du Code de procédure pénale ;
+5° Emet un avis sur le projet d'ordonnance préparé par le président fixant le
+nombre et le jour des audiences correctionnelles, conformément à l'article 399
+du code de procédure pénale ;
 
 6° Emet un avis sur les critères généraux de répartition des dossiers entre les
 chambres et de distribution des affaires entre les magistrats spécialisés du

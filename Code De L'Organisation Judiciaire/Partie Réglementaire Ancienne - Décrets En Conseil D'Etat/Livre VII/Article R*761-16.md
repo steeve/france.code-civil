@@ -6,7 +6,8 @@ siège du tribunal de grande instance et les magistrats du parquet de ce tribuna
 sont membres de l'assemblée des magistrats du tribunal de grande instance.
 
 L'assemblée des magistrats du tribunal de grande instance comprend en outre les
-juges chargés du service d'un tribunal d'instance.
+juges chargés du service d'un tribunal d'instance et les juges chargés de la
+présidence ou du service d'une chambre détachée.
 
 Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions
 de l'assemblée des magistrats.

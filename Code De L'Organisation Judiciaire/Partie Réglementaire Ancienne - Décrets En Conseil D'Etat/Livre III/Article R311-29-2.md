@@ -2,7 +2,7 @@ Article R311-29-2
 ----
 Lorsque le président du tribunal de grande instance délègue les fonctions de
 juge de l'exécution à un ou plusieurs juges du tribunal, la délégation est
-effectuée selon les modalités prévues aux articles R. 311-23 et R. 311-24.
+effectuée selon les modalités prévues à l'article L. 710-1.
 
 L'ordonnance prise en application de l'alinéa qui précède est adressée au
 bâtonnier de l'ordre des avocats et au président de la chambre départementale
