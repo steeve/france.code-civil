@@ -7,7 +7,7 @@ défendeur :
 la chose ou du lieu de l'exécution de la prestation de service ;
 
 - en matière délictuelle, la juridiction du lieu du fait dommageable ou celle
-dans le ressort de laquelle le dommage est subi ;
+dans le ressort de laquelle le dommage a été subi ;
 
 - en matière mixte, la juridiction du lieu où est situé l'immeuble ;
 
