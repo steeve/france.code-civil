@@ -1,7 +1,7 @@
 Article R423-78
 ----
 Dans le mois suivant celui au cours duquel s'est tenue l'assemblée générale
-ordinaire réunie en application de l'article 157 de la loi du 24 juillet 1966,
+ordinaire réunie en application de l'article L. 225-100 du code du commerce,
 sont adressées :
 
 a) Pour les sociétés d'habitations à loyer modéré, au préfet, au ministre chargé
@@ -17,3 +17,6 @@ anonymes de crédit immobilier, des copies des documents annuels, soumis
 conformément à la loi à l'assemblée générale des actionnaires, auxquelles est
 joint le procès-verbal de cette assemblée, ainsi que le document mentionné au
 troisième alinéa de l'article R. 423-68.
+
+En cas de report de l'assemblée générale, la décision de justice accordant un
+délai supplémentaire est transmise dans les mêmes conditions.

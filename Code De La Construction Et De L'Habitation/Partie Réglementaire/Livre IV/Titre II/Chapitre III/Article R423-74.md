@@ -1,9 +1,14 @@
 Article R423-74
 ----
-Les fonds libres appartenant à une société d'habitations à loyer modéré doivent
-être déposés au Trésor, à la caisse des dépôts et consignations, à un compte de
-chèques postaux, dans une caisse d'épargne ou à la Banque de France, sauf
-l'encaisse nécessaire aux besoins courants.
+Les sociétés d'habitations à loyer modéré déposent leurs fonds auprès du Trésor
+public, à la Caisse des dépôts et consignations, à la Banque de France, à La
+Poste ou auprès d'un établissement de crédit ayant obtenu un agrément en vertu
+des dispositions applicables dans les Etats membres de la Communauté européenne
+ou les autres Etats parties à l'accord sur l'Espace économique européen.
+
+Elles peuvent également effectuer des dépôts sur un compte à terme ouvert dans
+les mêmes conditions ou sur un premier livret de la Caisse nationale d'épargne
+ou des caisses d'épargne et de prévoyance.
 
 Les conditions de placement des fonds disponibles des sociétés anonymes de
 crédit immobilier et des établissements de crédit qu'elles contrôlent, ensemble
