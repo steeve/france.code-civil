@@ -1,11 +1,11 @@
 Article 1052
 ----
-I. Sous réserve des dispositions de l'article 827-I, les actes les actes
+I. Sous réserve des dispositions du I de l'article 827, les actes les actes
 nécessaires à la constitution et à la dissolution des organismes d'habitations à
 loyer modéré définis dans le livre IV du code de la construction et de
 l'habitation sont dispensés du timbre et soumis gratuitement à la publicité
-foncière ou à l'enregistrement, s'ils remplissent les conditions visées à
-l'article 809-I-1°, c'est-à-dire s'ils ne portent pas transmission de biens
+foncière ou à l'enregistrement, s'ils remplissent les conditions visées au 1° du
+I de l'article 809, c'est-à-dire s'ils ne portent pas transmission de biens
 meubles ou immeubles entre les associés ou autres personnes.
 
 Les pouvoirs en vue de la représentation aux assemblées générales sont dispensés
@@ -22,8 +22,9 @@ II. Ces dispositions sont applicables :
 aux articles L561-1 et L561-2 du code rural ;
 
 2° Aux sociétés coopératives artisanales ainsi qu'aux groupements de ces mêmes
-coopératives visés à l'article 64 du code de l'artisanat.
+coopératives visés au titre 1er de la loi n° 83-657 du 20 juillet 1983 relative
+au développement de certaines activités d'économie sociale (1).
 
-III. Les sociétés coopératives artisanales réalisant les opérations désignées à
-l'article 1er de la loi du 2 août 1932 et leurs membres bénéficient des
-exonérations fiscales prévues au I.
+III. (Sans objet)
+
+(1) Loi modifiée par la loi n° 85-703 12 juillet 1985, art. 17 et 18.
