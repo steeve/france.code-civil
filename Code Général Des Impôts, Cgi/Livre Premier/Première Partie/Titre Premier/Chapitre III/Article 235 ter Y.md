@@ -6,8 +6,8 @@ financement du commerce et de l'industrie, doivent acquitter une contribution
 annuelle sur certaines dépenses et charges comptabilisées au cours de l'année
 précédente.
 
-I bis. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
-créant les plans d'épargne retraite ne sont pas assujettis à cette contribution.
+I bis. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du
+17 janvier 2002).
 
 II. La contribution est assise sur les dépenses et charges comptabilisées au
 cours de l'année précédente au titre des frais de personnel, des travaux,

@@ -13,8 +13,6 @@ des sociétés françaises perçus par les caisses de retraite et de prévoyance
 par les fondations et associations reconnues d'utilité publique est reçu en
 paiement de l'impôt sur les sociétés dû par ces organismes. L'excédent éventuel
 est restitué dans la mesure où ces organismes ne détiennent pas des titres qui
-représentent au moins 10 p. 100 du capital de la société émettrice. Ces
-dispositions ne sont pas applicables aux fonds d'épargne retraite mentionnés au
-11 de l'article 206.
+représentent au moins 10 % du capital de la société émettrice.
 
 4. (Sans objet).

@@ -3,12 +3,12 @@ Article 80 duodecies
 1. Sous réserve de l'exonération prévue au 22° de l'article 81, constitue une
 rémunération imposable toute indemnité versée à l'occasion de la rupture du
 contrat de travail, à l'exception des indemnités de licenciement ou de départ
-volontaire versées dans le cadre d'un plan social au sens des articles L. 321-4
-et L. 321-4-1 du code du travail, des indemnités mentionnées à l'article L.
-122-14-4 du même code ainsi que de la fraction des indemnités de licenciement ou
-de mise à la retraite qui n'excède pas le montant prévu par la convention
-collective de branche, par l'accord professionnel et interprofessionnel ou, à
-défaut, par la loi.
+volontaire versées dans le cadre d'un plan de sauvegarde de l'emploi au sens des
+articles L. 321-4 et L. 321-4-1 du code du travail, des indemnités mentionnées à
+l'article L. 122-14-4 du même code ainsi que de la fraction des indemnités de
+licenciement ou de mise à la retraite qui n'excède pas le montant prévu par la
+convention collective de branche, par l'accord professionnel et
+interprofessionnel ou, à défaut, par la loi.
 
 La fraction des indemnités de licenciement ou de mise à la retraite (1) exonérée
 en application du premier alinéa ne peut être inférieure ni à 50 % de leur

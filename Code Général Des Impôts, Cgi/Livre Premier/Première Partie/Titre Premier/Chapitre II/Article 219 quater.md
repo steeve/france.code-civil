@@ -10,6 +10,3 @@ courant et autres effets publics ou privés, qu'elles réalisent sur le marché
 monétaire ou sur le marché hypothécaire ;
 
 2° Sur le montant brut des intérêts des dépôts qu'elles effectuent.
-
-Ces dispositions ne sont pas applicables aux fonds d'épargne retraite mentionnés
-au 11 de l'article 206.

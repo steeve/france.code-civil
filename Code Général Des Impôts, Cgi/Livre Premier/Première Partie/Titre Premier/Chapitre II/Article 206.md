@@ -37,12 +37,12 @@ visées aux articles 34 et 35.
 
 Toutefois, les sociétés civiles dont l'activité principale entre dans le champ
 d'application de l'article 63 peuvent bénéficier des dispositions de l'article
-72 bis lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant
-du forfait prévu aux articles 64 à 65 B ne sont pas passibles de l'impôt visé au
-1 lorsque les activités accessoires visées aux articles 34 et 35 qu'elles
-peuvent réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices
-résultant de ces activités sont alors déterminés et imposés d'après les règles
-qui leur sont propres.
+75 lorsqu'elles sont soumises à un régime réel d'imposition. Celles relevant du
+forfait prévu aux articles 64 à 65 B ne sont pas passibles de l'impôt visé au 1
+lorsque les activités accessoires visées aux articles 34 et 35 qu'elles peuvent
+réaliser n'excèdent pas le seuil fixé à l'article 75 : les bénéfices résultant
+de ces activités sont alors déterminés et imposés d'après les règles qui leur
+sont propres.
 
 3. Sont soumis à l'impôt sur les sociétés s'ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
@@ -58,12 +58,12 @@ d. Les sociétés en participation ;
 e. Les sociétés à responsabilité limitée dont l'associé unique est une personne
 physique ;
 
-f. Les exploitations agricoles à responsabilité limitée mentionnée au 5° de
+f. Les exploitations agricoles à responsabilité limitée mentionnées au 5° de
 l'article 8 ;
 
 g. les groupements d'intérêt public mentionnés à l'article 239 quater B.
 
-h. Les sociétés civiles professionnelles visées à l'article 8 ter.
+h. Les sociétés civiles professionnelles visées à l'article 8 ter.(1)
 
 Cette option entraîne l'application auxdites sociétés et auxdits groupements,
 sous réserve des exceptions prévues par le présent code, de l'ensemble des
@@ -84,7 +84,7 @@ assujettis audit impôt en raison :
 
 a. De la location des immeubles bâtis et non bâtis dont ils sont propriétaires,
 et de ceux auxquels ils ont vocation en qualité de membres de sociétés
-immobilières de copropriété visées à l'article 1655 ter ;
+immobilières de copropriété visées à l'article 1655 ter (2) ;
 
 b. De l'exploitation des propriétés agricoles ou forestières ;
 
@@ -102,7 +102,7 @@ montant brut.
 322-4-16-3 du code du travail, dont la gestion est désintéressée et les
 associations de services aux personnes, agréées en application de l'article
 L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions
-prévues au 5 ;
+prévues au 5.
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier
@@ -112,36 +112,29 @@ assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
 2° Lorsqu'elles n'exercent aucune activité bancaire pour leur propre compte ou
 aucune activité rémunérée d'intermédiaire financier, les caisses locales
 mentionnées au 1° sont redevables de l'impôt sur les sociétés dans les
-conditions prévues au 5 et à l'article 219 bis ;
+conditions prévues au 5 et à l'article 219 bis.
 
 3° Un décret en Conseil d'Etat fixe les modalités d'application du présent 6,
 notamment les dispositions transitoires qui seraient nécessaires en raison de la
-modification du régime fiscal applicable aux organismes mentionnés au 1°.
+modification du régime fiscal applicable aux organismes mentionnés au 1° (3).
 
 7. Les caisses de crédit mutuel mentionnées à l'article L. 512-55 du code
 monétaire et financier sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions
-d'application de cette disposition.
+d'application de cette disposition (4).
 
-8. Le fonds de garantie des banques populaires prévu à l'article L. 512-16 du
-code monétaire et financier est assujetti à l'impôt sur les sociétés dans les
-conditions de droit commun.
-
-Un décret en Conseil d'Etat fixe les conditions d'application de cette
-disposition.
+8. (disposition devenue sans objet)
 
 9. Les caisses de crédit mutuel agricole et rural affiliées à la fédération
 centrale du crédit mutuel agricole et rural visée à l'article L. 511-30 du code
 monétaire et financier sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
-Un décret fixe les conditions d'application du présent 9.
+Un décret fixe les conditions d'application du présent 9 (5).
 
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
 sont assujetties à l'impôt sur les sociétés ;
 
-11. Les fonds d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997
-créant les plans d'épargne retraite sont assujettis à l'impôt sur les sociétés,
-dans les conditions de droit commun.
+11. (abrogé).
