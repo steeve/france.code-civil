@@ -250,7 +250,10 @@ et contrôlées en fonction du but prévu ;
 11.5.2. Les dispositifs émettant des rayonnements ionisants destinés au
 radiodiagnostic sont conçus et fabriqués de façon à atteindre une qualité
 d'image et/ou de résultat convenant au but médical prévu tout en réduisant au
-minimum l'exposition du patient et de l'utilisateur aux rayonnements ;
+minimum l'exposition du patient et de l'utilisateur aux rayonnements. Ces
+dispositifs sont équipés, lorsque cela est techniquement possible, d'un
+dispositif permettant à l'utilisateur d'être renseigné sur la quantité de
+rayonnements produite par l'appareil au cours de la procédure radiologique.
 
 11.5.3. Les dispositifs émettant des rayonnements ionisants destinés à la
 radiothérapie doivent être conçus et fabriqués de façon à permettre une
@@ -509,7 +512,7 @@ p) Le degré de précision indiqué pour les dispositifs de mesurage ;
 q) Lors de sa mise sur le marché, chaque dispositif doit être accompagné d'une
 notice d'instructions comprenant les éléments suivants :
 
-- l'année d'imposition du marquage CE ;
+- l'année d'apposition du marquage CE ;
 
 - les informations nécessaires permettant au médecin de sélectionner le
 dispositif adéquat ainsi que le logiciel et les accessoires adaptés ;
