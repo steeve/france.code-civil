@@ -1,8 +1,8 @@
 Article D19-3
 ----
 Pour bénéficier des tarifs de presse, du tarif spécifique ou du tarif des
-publications administratives, ou encore des abattements sur les tarifs de
-presse, les journaux et écrits périodiques doivent avoir reçu un certificat
+publications administratives, ou encore des réductions prévues à l'article D.
+19-2, les journaux et écrits périodiques doivent avoir reçu un certificat
 d'inscription délivré par la commission paritaire des publications et agences de
 presse ou l'une de ses sous-commissions et être classés dans l'une des
 catégories visées aux articles D. 18, D. 19 ou D. 19-1. En outre, le certificat
