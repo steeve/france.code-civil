@@ -1,6 +1,8 @@
 Article R323-50
 ----
-Les services de l'emploi présentent chaque année à la commission départementale
-d'orientation des infirmes un rapport sur les résultats des placements. Celle-ci
-établit un rapport d'ensemble à l'intention des commissions régionales
-consultatives d'emploi et de reclassement des travailleurs handicapés.
+Le directeur départemental du travail [*attributions*] et de la main-d'oeuvre
+fait connaître chaque année à la commission technique d'orientation et de
+reclassement professionnel les résultats des placements concernant les
+travailleurs handicapés.
+
+Cette information est reprise dans le rapport prévu à l'article D. 323-3-16.
