@@ -8,7 +8,7 @@ intéressé. Les membres de cette commission sont nommés par arrêté du minist
 chargé du travail. Cette commission [*mission*] est chargée de présenter au
 ministre chargé du travail des propositions concernant notamment :
 
-- la revision de la liste des infirmités compatibles avec les emplois réservés
+- la révision de la liste des infirmités compatibles avec les emplois réservés
 énumérés à l'article D. 313 du Code des pensions militaires d'invalidité et des
 victimes de guerre ;
 
@@ -16,4 +16,4 @@ victimes de guerre ;
 administration pour l'admission des candidats.
 
 Cette commission conduira ses travaux en liaison avec le comité médical
-supérieur de l'article 7 du décret n. 59-310 du 14 février 1959.
+supérieur de l'article 7 du décret n° 59-310 du 14 février 1959.

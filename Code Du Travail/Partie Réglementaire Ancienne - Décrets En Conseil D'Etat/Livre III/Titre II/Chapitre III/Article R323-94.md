@@ -1,6 +1,6 @@
 Article R323-94
 ----
-Les établissements, sociétés et entreprises énumérés à l'article L. 323-12 (4.),
+Les établissements, sociétés et entreprises énumérés à l'article L. 323-12 (4°),
 non régis par l'article R. 323-93 sont soumis aux dispositions de la présente
 sous-section sous réserve des dérogations suivantes :
 

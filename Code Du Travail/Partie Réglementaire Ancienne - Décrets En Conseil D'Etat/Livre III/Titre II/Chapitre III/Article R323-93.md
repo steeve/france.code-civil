@@ -1,6 +1,6 @@
 Article R323-93
 ----
-Pour l'application de l'article L. 323-12 (4 ) sont soumis aux dispositions de
+Pour l'application de l'article L. 323-12 (4°) sont soumis aux dispositions de
 la présente sous-section :
 
 - d'une part, les administrations de l'Etat, des départements, des communes et
