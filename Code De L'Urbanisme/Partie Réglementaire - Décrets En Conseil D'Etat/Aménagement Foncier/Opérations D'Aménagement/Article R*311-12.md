@@ -1,19 +1,26 @@
 Article R*311-12
 ----
-Au vu du dossier, le programme et l'échéancier sont approuvés et les moyens
-publics de financement de l'opération sont définis [*autorité compétente*] :
+Le préfet transmet pour avis le projet de plan d'aménagement de zone à la
+chambre de commerce et d'industrie et à la chambre de métiers intéressées. Ces
+établissements publics disposent d'un délai d'un mois pour faire connaître leurs
+observations éventuelles.
 
-Par le préfet, toutes les fois que la réalisation de la zone n'implique pas
-d'autres financements publics que ceux dont la programmation est de sa
-compétence ;
+Le projet de plan d'aménagement de zone est soumis à une enquête publique dans
+les formes prévues par les articles R. 11-4 et suivants du code de
+l'expropriation pour cause d'utilité publique.
 
-Par le préfet de région lorsque la réalisation de la zone implique des
-financements publics dont la programmation est de la compétence de ce préfet.
+L'enquête publique effectuée en application de l'alinéa précédent vaut enquête
+préalable à la déclaration d'utilité publique des opérations, acquisitions ou
+expropriations prévues au plan d'aménagement.
 
-Toutefois, des arrêtés conjoints du ministre chargé de l'urbanisme, du ministre
-de l'intérieur et du ministre de l'économie et des finances peuvent prévoir que
-ces décisions sont prises sur le rapport du préfet de région, par des ministres
-ou par des organismes interministériels ayant compétence à cet effet, lorsque
-cette dérogation aux dispositions des alinéas précédents est justifiée par
-l'importance soit de la zone d'aménagement concerté, soit de la participation
-financière des collectivités publiques.
+Le projet de plan d'aménagement de zone et les conclusions du commissaire
+enquêteur ou de la commission d'enquête sont soumis pour avis par le préfet au
+conseil municipal de la commune ou à l'organe délibérant de l'établissement
+public groupant plusieurs communes et ayant compétence en matière d'urbanisme.
+Cette formalité n'est pas obligatoire si la commune ou l'établissement public de
+regroupement a pris l'initiative de la création de la zone et si l'avis du
+commissaire enquêteur ou de la commission d'enquête est favorable.
+
+L'avis est réputé favorable [*silence*] s'il n'est pas intervenu dans un délai
+de deux mois. Si le conseil municipal ou l'organe délibérant entend faire
+connaître son opposition, celle-ci doit être expressément formulée.

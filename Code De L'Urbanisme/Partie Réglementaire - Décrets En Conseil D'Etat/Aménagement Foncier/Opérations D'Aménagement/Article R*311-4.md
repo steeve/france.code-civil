@@ -5,21 +5,22 @@ L'aménagement et l'équipement de la zone sont :
 1. Soit conduits directement par la personne morale qui a pris l'initiative de
 sa création ;
 
-2. Soit à la demande de ladite personne morale, réalisés par un autre
-établissement public /M/ou concédés à une société d'économie mixte, constitués
-en application des articles L. 321-1 et R. 321-1/M/DECR.0163 ART. 1 : ou
-concédés, soit à une société d'économie mixte constituée en application des
-articles L. 321-1 et R. 321-1, soit à un office public d'habitations à loyer
-modéré ayant reçu une extension de compétence en application de l'article 9 du
-décret n. 58-1469 du 31 décembre 1958// .
+2. Soit à la demande de ladite personne morale, réalisés par un établissement
+public visé à l'article L. 321-1 (alinéa 1), ou concédés à l'un des
+établissements publics mentionnés à l'article R. 311-2 ou à une société
+d'économie mixte constituée en application de l'article R. 321-1 ;
 
-3. Soit confiés, par cette personne morale, à une personne publique ou privée,
-selon les stipulations d'une convention.
+3. Soit confiés, par cette personne morale, selon les stipulations d'une
+convention à une personne privée ou publique.
 
 Dans ce dernier cas, la convention est approuvée :
 
 a) Soit par le préfet, si elle est conforme à une convention type approuvée par
-le décret en Conseil d'Etat ;
+décret en Conseil d'Etat ;
 
 b) Soit, à défaut, par arrêté conjoint du ministre chargé de l'urbanisme et du
 ministre de l'intérieur.
+
+Lorsque la zone d'aménagement concerté a pour objet la réalisation d'une
+opération de rénovation urbaine, la convention applicable est celle prévue à
+l'article R. 312-1 (alinéa 3).
