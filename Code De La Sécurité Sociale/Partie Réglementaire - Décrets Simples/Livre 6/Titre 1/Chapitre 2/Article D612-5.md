@@ -3,10 +3,11 @@ Article D612-5
 Pour les assurés mentionnés au 1° de l'article L. 615-1, le montant de la
 cotisation annuelle ne peut être inférieur à celui de la cotisation qui serait
 due au titre d'un revenu égal à 40 p. 100 du plafond de la sécurité sociale en
-vigueur au 1er juillet de l'année en cours. Le montant de l'acompte ne peut être
+vigueur au 1er juillet de l'année en cours. Le montant de la fraction
+semestrielle de la cotisation payable au plus tard le 1er avril ne peut être
 inférieur à celui de la moitié de la cotisation qui serait due au titre d'un
 revenu égal à 40 p. 100 du plafond de la sécurité sociale au 1er janvier
-précédant la date limite de paiement de l'acompte.
+précédent.
 
 Pour les personnes mentionnées à l'article L. 615-4, la cotisation minimale
 prévue à l'alinéa précédent n'est pas applicable lorsque leur activité
