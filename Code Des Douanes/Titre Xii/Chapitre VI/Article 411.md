@@ -33,7 +33,12 @@ g) toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûm
 son auteur ou un tiers d'une exonération, d'un dégrèvement ou d'une taxe réduite
 prévus en ce qui concerne les produits pétroliers ;
 
-h) l'inobservation totale ou partielle des obligations prévues à l'article 122
+h) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment
+son auteur ou un tiers d'une exonération, d'un dégrèvement, d'une déduction,
+d'un remboursement ou d'une taxe réduite prévus en ce qui concerne l'octroi de
+mer et l'octroi de mer régional ;
+
+i) l'inobservation totale ou partielle des obligations prévues à l'article 122
 ci-dessus.
 
 3. Sont également sanctionnées des peines contraventionnelles de la 2e classe
