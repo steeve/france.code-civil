@@ -1,0 +1,5 @@
+Article R119-56
+----
+Des rapports annuels sur l'activité des services d'inspection de l'apprentissage
+sont adressés au préfet de région ainsi qu'au président du conseil régional par
+le recteur, et par le directeur régional de l'agriculture et de la forêt.

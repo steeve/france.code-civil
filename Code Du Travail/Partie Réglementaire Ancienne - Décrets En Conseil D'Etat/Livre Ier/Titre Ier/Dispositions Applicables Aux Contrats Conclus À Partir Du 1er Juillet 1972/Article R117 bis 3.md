@@ -1,7 +1,7 @@
 Article R117 bis 3
 ----
-L'autorisation est accordée par l'inspecteur du travail après avis du chef du
-service académique de l'inspection de l'apprentissage [*autorité compétente*].
+L'autorisation est accordée par l'inspecteur du travail après avis du recteur
+[*autorité compétente*].
 
 Elle vaut pour tous les apprentis boulangers de l'établissement.
 

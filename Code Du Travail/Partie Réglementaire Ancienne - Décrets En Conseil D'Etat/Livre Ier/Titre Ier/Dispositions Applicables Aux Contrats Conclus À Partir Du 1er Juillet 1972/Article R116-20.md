@@ -6,14 +6,16 @@ commission permanente du Conseil national de la formation professionnelle, de la
 promotion sociale et de l'emploi, soit au comité régional de la formation
 professionnelle, de la promotion sociale et de l'emploi intéressé.
 
-Les organismes ci-dessus mentionnés émettent leur avis en tenant compte :
+Les instances ci-dessus mentionnées émettent leur avis en tenant compte :
 
 1° Des besoins de formation professionnelle existant ou à prévoir dans le champ
 d'application de la convention envisagée ;
 
 2° De la cohérence du projet avec le schéma prévisionnel de l'apprentissage
-prévu par l'article 83 de la loi n° 83-8 du 7 janvier 1983 modifié ; 3° Des
-recommandations émises par les commissions professionnelles consultatives ;
+prévu par l'article 83 de la loi n° 83-8 du 7 janvier 1983 modifié ;
+
+3° Des recommandations émises par les commissions professionnelles consultatives
+;
 
 4° Des garanties offertes par le gestionnaire du centre, notamment en ce qui
 concerne les locaux, l'équipement et le personnel ;

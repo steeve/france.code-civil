@@ -7,10 +7,9 @@ désirent préparer un diplôme ou titre de même niveau, lorsque la nouvelle
 qualification recherchée est en rapport direct avec celle qui résulte du premier
 diplôme ou titre obtenu.
 
-La décision est prise par le chef du service académique de l'inspection de
-l'apprentissage ou par le directeur régional de l'agriculture et de la forêt
-après avis du directeur du centre de formation d'apprentis [*autorité
-compétente*].
+La décision est prise par le recteur ou par le directeur régional de
+l'agriculture et de la forêt après avis du directeur du centre de formation
+d'apprentis [*autorité compétente*].
 
 Faute de réponse dans le délai d'un mois suivant le dépôt de la demande, la
 décision est réputée positive [*accord tacite*].

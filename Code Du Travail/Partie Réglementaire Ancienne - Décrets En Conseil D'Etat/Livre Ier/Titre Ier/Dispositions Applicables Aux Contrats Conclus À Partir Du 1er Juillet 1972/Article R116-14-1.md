@@ -7,9 +7,8 @@ d'entreprises habilités en vue d'assurer une partie des enseignements
 technologiques et pratiques normalement assurés par le centre.
 
 La demande d'habilitation est soumise par le directeur du centre de formation
-d'apprentis au chef du service académique de l'inspection de l'apprentissage ou
-au directeur régional de l'agriculture et de la forêt. Elle est accompagnée d'un
-dossier comportant obligatoirement [*contenu*] :
+d'apprentis au recteur ou au directeur régional de l'agriculture et de la forêt.
+Elle est accompagnée d'un dossier comportant obligatoirement [*contenu*] :
 
 a) Le compte rendu de la consultation du ou des comités d'entreprise ou, à
 défaut, des délégués du personnel ;
@@ -27,10 +26,10 @@ e) L'avis du conseil de perfectionnement du centre de formation d'apprentis.
 L'habilitation ne peut être accordée que si le projet pédagogique présenté est
 de nature à assurer une formation satisfaisante.
 
-Le chef du service académique de l'inspection de l'apprentissage ou le directeur
-régional de l'agriculture et de la forêt statue dans le délai de deux mois à
-compter de la réception de la demande [*point de départ*]-; à défaut de réponse
-dans ce délai, l'habilitation est réputée accordée [*accord tacite*].
+Le recteur ou le directeur régional de l'agriculture et de la forêt statue dans
+le délai de deux mois à compter de la réception de la demande [*point de
+départ*]-; à défaut de réponse dans ce délai, l'habilitation est réputée
+accordée [*accord tacite*].
 
 L'habilitation vaut pour la durée de la convention conclue entre le centre de
 formation et une ou plusieurs entreprises ou un groupement d'entreprises, sauf
