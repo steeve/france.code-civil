@@ -15,7 +15,7 @@ b) La détermination du groupe Rh D (RH1) et, en cas de Rh D négatif (RH : - 1)
 la détermination des autres antigènes du système rhésus : C (RH2), E (RH3), c
 (RH4) et e (RH5) ;
 
-2° La cherche des anticorps anti-érythrocytaires pouvant avoir une incidence
+2° La recherche des anticorps anti-érythrocytaires pouvant avoir une incidence
 clinique transfusionnelle ;
 
 3° La détection des anticorps anti-A et anti-B immuns ;
@@ -66,3 +66,25 @@ article ;
 - prévoit les conditions d'utilisation de ces prélèvements au vu des résultats
 des tests et analyses obligatoires, en fonction du caractère allogénique ou
 autologue des greffes.
+
+V. - Un arrêté du ministre chargé de la santé peut prévoir :
+
+1. Des analyses biologiques et tests de dépistage à effectuer pour la sélection
+des donneurs d'hématies destinées à stimuler la synthèse d'anticorps anti-D chez
+des donneurs de plasma Rh-immunisés en vue de la préparation d'immunoglobulines
+anti-D ;
+
+2. Des analyses biologiques et tests de dépistage à effectuer pour la sélection
+des donneurs de plasma Rh-immunisés en vue de la préparation d'immunoglobulines
+anti-D ;
+
+3. Des analyses biologiques et tests de dépistage à effectuer, en supplément des
+analyses et tests mentionnés au I du présent article sur tout prélèvement
+d'hématies destinées à restimuler la synthèse d'anticorps anti-D chez des
+donneurs de plasma en vue de la préparation d'immunoglobulines anti-D ;
+
+4. Les conditions d'utilisation des prélèvements en cause au vu des résultats
+des tests et analyses supplémentaires ;
+
+5. Des analyses biologiques et tests de dépistage à effectuer chez les donneurs
+de plasma.
