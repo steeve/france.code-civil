@@ -13,7 +13,7 @@ non salariés agricoles ;
 c) Les subventions du fonds spécial d'invalidité mentionné à l'article L.
 815-3-1 du code de la sécurité sociale ainsi que la contribution du fonds
 institué par l'article L. 135-1 du même code dans les conditions prévues par
-l'article L. 136-2 du code précité ;
+l'article L. 135-2 du code précité, à l'exception de son 6° ;
 
 d) Le versement des soldes de compensation résultant de l'application de
 l'article 2 de la loi n° 74-1094 du 24 décembre 1974 ;
@@ -30,19 +30,24 @@ h) Le versement de l'Etat au titre de l'allocation aux adultes handicapés.
 
 a) Les versements destinés au paiement par les caisses des prestations
 familiales, des prestations des assurances sociales et des prestations de
-l'assurance vieillesse des non salariés agricoles y compris les prestations
+l'assurance vieillesse des non salariés agricoles, y compris les prestations
 versées en application des dispositions du livre IX du code de la sécurité
-sociale ;
+sociale et à l'exception des majorations de pensions accordées en fonction du
+nombre d'enfants pour les ressortissants du régime de protection sociale des
+personnes non salariées des professions agricoles ;
 
-b) (abrogé) ;
+b) Le remboursement de frais de personnels mis par les caisses de mutualité
+sociale agricole à la disposition des services relevant du ministre chargé de
+l'agriculture et compétents en matière de protection sociale agricole ;
 
 c) Le remboursement au budget général :
 
-- des deux tiers des dépenses de fonctionnement du service de l'inspection des
-lois sociales en agriculture ;
+- des dépenses de fonctionnement dans la limite maximale des deux tiers desdites
+dépenses, des services relevant du ministre chargé de l'agriculture et
+compétents en matière de protection sociale agricole ;
 
 - de la rémunération des agents de l'Etat dont l'activité est consacrée au
-service des prestations sociales agricoles, ainsi que les dépenses de matériel
+service des prestations sociales agricoles, ainsi que les dépenses de matériels
 correspondantes ;
 
 d) Les frais de fonctionnement de budget annexe du comité de gestion prévu à

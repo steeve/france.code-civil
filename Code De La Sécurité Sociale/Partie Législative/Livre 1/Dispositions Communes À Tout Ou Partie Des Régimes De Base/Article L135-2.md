@@ -1,9 +1,8 @@
 Article L135-2
 ----
 Les dépenses prises en charge par le fonds visé à l'article L. 135-1 font
-l'objet de deux sections distinctes ainsi constituées :
-
-Section 1 : Dépenses à titre permanent
+l'objet de deux sections distinctes ainsi constituées : Section 1 : Dépenses à
+titre permanent
 
 1° Le financement des allocations aux personnes âgées mentionnées :
 
@@ -61,7 +60,11 @@ L. 621-3 du présent code et à l'article 1024 du code rural des réductions de 
 durée d'assurance ou de périodes reconnues équivalentes, définies à l'article L.
 351-7-1 ci-après.
 
-Section 2 : Dépenses à titre exceptionnel
+6° Les sommes correspondant au paiement par les organismes visés aux articles
+1002 et 1142-8 du code rural des majorations des pensions accordées en fonction
+du nombre d'enfants aux ressortissants du régime de protection sociale des
+personnes non salariées des professions agricoles. Section 2 : Dépenses à titre
+exceptionnel
 
 Le remboursement échelonné à l'Etat, en capital et en intérêt, des sommes
 nécessaires à la prise en charge par celui-ci des avances accordées à l'Agence

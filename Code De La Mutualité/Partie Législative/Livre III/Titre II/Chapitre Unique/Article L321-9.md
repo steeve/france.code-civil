@@ -49,3 +49,8 @@ Le taux de la majoration mentionnée au premier alinéa est réduit de moitié
 lorsque les rentes sont souscrites par les personnes visées aux alinéas
 ci-dessus après un délai de dix ans à compter de l'attribution de la carte du
 combattant ou du titre de reconnaissance de la Nation.
+
+Le montant maximal donnant lieu à majoration par l'Etat de la rente qui peut
+être constituée au profit des bénéficiaires visés par les dispositions du
+présent article est revalorisé au 1er janvier de chaque année en fonction de
+l'indice des prix à la consommation hors tabac.
