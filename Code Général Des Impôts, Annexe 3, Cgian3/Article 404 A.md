@@ -1,7 +1,7 @@
 Article 404 A
 ----
-Les garanties fournies en contrepartie du fractionnement prévu à l'article
-396-1o peuvent outre les formes énumérées à l'article 400, revêtir celle de
+I. Les garanties fournies en contrepartie du fractionnement prévu a l'article
+396-1° peuvent outre les formes énumérées à l'article 400, revêtir celle de
 l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
 
 Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu
@@ -41,3 +41,8 @@ Offices ministériels;
 Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actions;
 
 Valeurs mobilières non cotées en Bourse.
+
+II. La possibilité d'étaler sur une période maximale de dix ans le paiement ds
+droits de succession prévue pour les héritiers en ligne directe par le quatrième
+alinéa du I est étendue, sous les mêmes conditions, à tous les héritiers et
+légataires pour les biens mentionnés à l'article 396-6°.
