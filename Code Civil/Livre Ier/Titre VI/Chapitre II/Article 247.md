@@ -9,7 +9,8 @@ spécialement chargé de veiller à la sauvegarde des intérêts des enfants min
 Le juge aux affaires matrimoniales a compétence exclusive pour prononcer le
 divorce lorsqu'il est demandé par consentement mutuel.
 
-Il est également seul compétent pour statuer, après le prononcé du divorce,
-quelle qu'en soit la cause, sur la garde des enfants et la modification de la
-pension alimentaire. Il statue alors sans formalité et peut être saisi par les
-parties intéressées sur simple requête.
+Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit
+la cause, pour statuer sur les modalités de l'exercice de l'autorité parentale
+et sur la modification de la pension alimentaire, ainsi que pour décider de
+confier les enfants à un tiers. Il statue alors sans formalité et peut être
+saisi par les parties intéressées sur simple requête.
