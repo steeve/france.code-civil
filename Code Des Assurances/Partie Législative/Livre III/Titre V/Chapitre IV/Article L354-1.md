@@ -10,16 +10,16 @@ plusieurs entreprises dont le siège social se trouve dans un Etat partie à
 l'accord sur l'Espace économique européen ou de leurs succursales établies dans
 des Etats parties à l'accord sur l'Espace économique européen, ou à une ou
 plusieurs entreprises d'assurance établies et agréées dans l'Etat du risque ou
-de l'engagement partie à l'accord sur l'Espace économique européen. Le ministre
-chargé de l'économie et des finances n'approuve le transfert que s'il a reçu
-l'accord des autorités de contrôle de l'Etat de libre prestation de services.
+de l'engagement partie à l'accord sur l'Espace économique européen. Le Comité
+des entreprises d'assurance n'approuve le transfert que s'il a reçu l'accord des
+autorités de contrôle de l'Etat de libre prestation de services.
 
 En outre, lorsque l'entreprise cessionnaire est établie dans un Etat partie à
 l'accord sur l'Espace économique européen autre que l'Etat de libre prestation
-de services, le ministre chargé de l'économie et des finances n'approuve le
-transfert que si les autorités de contrôle de l'Etat d'établissement de
-l'entreprise cessionnaire ont donné leur accord. Toutefois, lorsque l'entreprise
-cessionnaire est une succursale établie dans un Etat membre des Communautés
-européennes dont l'Etat d'origine est également membre de celles-ci, l'accord
-mentionné au présent alinéa est donné par les autorités de contrôle de l'Etat
-d'origine de l'entreprise cessionnaire.
+de services, le Comité des entreprises d'assurance n'approuve le transfert que
+si les autorités de contrôle de l'Etat d'établissement de l'entreprise
+cessionnaire ont donné leur accord. Toutefois, lorsque l'entreprise cessionnaire
+est une succursale établie dans un Etat membre des Communautés européennes dont
+l'Etat d'origine est également membre de celles-ci, l'accord mentionné au
+présent alinéa est donné par les autorités de contrôle de l'Etat d'origine de
+l'entreprise cessionnaire.

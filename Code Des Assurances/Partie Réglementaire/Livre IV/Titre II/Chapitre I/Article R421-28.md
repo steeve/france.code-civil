@@ -10,7 +10,7 @@ charges du fonds de garantie ;
 - contribution des responsables d'accidents non assurés :
 
 10 p. 100 des indemnités restant à leur charge. Toutefois, ce taux est ramené à
-5 p. 100 lorsque l'accident a été provoqué par un véhicule utilisé par l'Etat,
+5 p. 100 lorsque l'accident a été provoqué par un véhicule utilisé par l'Etat ou
 un Etat étranger pour lequel a été fournie l'attestation prévue à l'article R.
 211-25. Il est également ramené à 5 p. 100 des indemnités restant à leur propre
 charge pour les bénéficiaires d'une assurance avec franchise.

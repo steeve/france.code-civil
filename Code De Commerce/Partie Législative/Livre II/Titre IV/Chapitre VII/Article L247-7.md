@@ -14,11 +14,7 @@ l'exercice écoulé, dans les trois mois de la clôture de chaque exercice ;
 
 3° (supprimé) ;
 
-4° De ne pas convoquer au moins une fois par an les associés pour leur rendre
-des comptes annuels, en cas de continuation de l'exploitation sociale ;
-
-5° De continuer d'exercer ses fonctions à l'expiration de son mandat, sans en
-demander le renouvellement ;
+4° et 5° : Paragraphes abrogés.
 
 6° De ne pas déposer à un compte ouvert dans un établissement de crédit au nom
 de la société en liquidation, dans le délai de quinze jours à compter de la

@@ -1,44 +1,81 @@
 Article L951-3
 ----
-La commission comprend cinq membres nommés [*mode de désignation*] pour une
-durée de cinq ans par arrêté conjoint du ministre chargé de la sécurité sociale
-et du ministre chargé de l'agriculture [*autorités compétentes*] :
+La composition et l'organisation administrative de la commission de contrôle
+sont fixées par l'article L. 310-12-1 du code des assurances ci-après reproduit
+:
 
-1° Un membre du Conseil d'Etat ayant au moins le rang de conseiller d'Etat,
-président, proposé par le vice-président du Conseil d'Etat ;
+"Art. L. 310-12-1. - La Commission de contrôle des assurances. des mutuelles et
+des institutions de prévoyance est composée de neuf membres :
 
-2° Un membre de la Cour de cassation ayant au moins le rang de conseiller à la
-Cour de cassation, proposé par le premier président de la Cour de cassation ;
+1° Un président nommé par décret ;
 
-3° Un membre de la Cour des comptes ayant au moins le rang de conseiller maître,
-proposé par le premier président de la Cour des comptes ;
+2° Le gouverneur de la Banque de France, président de la Commission bancaire ;
 
-4° Deux membres choisis en raison de leur compétence, l'un dans le secteur de la
-mutualité, après avis du Conseil supérieur de la mutualité, l'autre dans celui
-des institutions dont les opérations sont soumises au contrôle de la commission.
+3° Un conseiller d'Etat, proposé par le vice-président du Conseil d'Etat ;
 
-Cinq suppléants sont nommés dans les mêmes conditions.
+4° Un conseiller à la Cour de cassation, proposé par le premier président de la
+Cour de cassation ;
 
-Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
-Leur mandat n'est pas interrompu par les règles concernant la limite d'âge qui
-leur est éventuellement applicable.
+5° Un conseiller maître à la Cour des comptes, proposé par le premier président
+de la Cour des comptes ;
 
-Le directeur de la sécurité sociale ou son représentant siège auprès de la
-commission en qualité de commissaire du Gouvernement ; lorsque les travaux de la
-commission concernent les institutions définies à l'article 1050 du code rural,
-il est remplacé par le directeur des exploitations, de la politique sociale et
-de l'emploi ou son représentant.
+6° Quatre membres choisis en raison de leur compétence en matière d'assurance,
+de mutualité et de prévoyance.
 
+Les membres mentionnés aux 3° à 6° sont nommés par arrêté conjoint des ministres
+chargés de l'économie, de la sécurité sociale et de la mutualité.
+
+Le gouverneur de la Banque de France peut être représenté. Des suppléants du
+président et des autres membres sont nommés dans les mêmes conditions que les
+titulaires.
+
+Le directeur du Trésor, ou son représentant, et le directeur de la sécurité
+sociale, ou son représentant, siègent auprès de la commission de contrôle en
+qualité de commissaires du Gouvernement. sans voix délibérative. Ils peuvent,
+sauf en matière de sanctions, demander une seconde délibération dans des
+conditions fixées par décret en Conseil d'Etat. Lorsqu'elle décide d'une
+sanction, la commission de contrôle délibère hors de leur présence.
+
+Le président et les membres mentionnés aux 3° à 6° sont nommés pour une durée de
+cinq ans. Leur mandat est renouvelable une fois.
+
+En cas de vacance d'un siège de membre de la commission de contrôle pour quelque
+cause que ce soit, il est procédé à son remplacement pour la durée du mandat
+restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en
+compte pour l'application de la règle de renouvellement. Les membres titulaires
+et suppléants de la commission ne peuvent être révoqués.
+
+Les décisions de la commission de contrôle sont prises à la majorité des voix.
 En cas de partage égal des voix, celle du président est prépondérante.
 
-Le mandat des membres de la présente commission à la date de publication de la
-loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite s'achève le 31
-décembre 2000.
+Dans des matières et conditions fixées par décret en Conseil d'Etat, la
+commission de contrôle peut créer en son sein une ou plusieurs commissions
+spécialisées et leur donner délégation pour prendre des décisions de portée
+individuelle. Il est créé au moins une commission spécialisée compétente à
+l'égard des organismes régis par le livre III du code de la mutualité.
 
-Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans
-les cinq ans qui suivent l'expiration de celui-ci, recevoir de rétribution d'une
-mutuelle ou d'une union, d'une institution de prévoyance ou d'une entreprise
-régie par le code des assurances avec lesquelles l'institution de prévoyance, la
-mutuelle ou l'union établissent des comptes consolidés ou combinés conformément
-à l'article L. 931-34 du présent livre ou à l'article L. 212-7 du code de la
-mutualité.
+La commission de contrôle peut également constituer des commissions
+consultatives, dans lesquelles elle nomme le cas échéant des experts, pour
+préparer et instruire ses décisions.
+
+Le président de la commission de contrôle a qualité pour agir au nom de celle-ci
+devant toute juridiction.
+
+Il peut déléguer sa signature dans les matières où il tient de dispositions
+législatives ou réglementaires une compétence propre.
+
+Les services de la commission de contrôle sont dirigés par un secrétaire général
+nommé parmi les membres du corps de contrôle des assurances par arrêté conjoint
+des ministres chargés de l'économie, de la sécurité sociale et de la mutualité,
+après avis de la commission.
+
+Le personnel des services de la commission de contrôle est composé d'agents
+publics mis à sa disposition dans des conditions fixées par décret en Conseil
+d'Etat, d'agents contractuels de droit public et de salariés de droit privé.
+
+Sur proposition du secrétaire général, la commission de contrôle fixe les règles
+de déontologie applicables au personnel des services de la commission.
+
+La Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance et la Commission bancaire se réunissent conjointement au moins deux
+fois par an et en tant que de besoin sur des sujets d'intérêt commun."

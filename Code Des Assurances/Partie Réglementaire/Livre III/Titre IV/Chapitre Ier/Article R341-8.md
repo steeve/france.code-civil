@@ -14,7 +14,7 @@ temps que les comptes annuels, dans les conditions définies au présent article
 Cet arrêté doit concerner l'ensemble des entreprises pratiquant une même
 catégorie d'opérations.
 
-La commission de contrôle des assurances peut demander que les comptes annuels
-lui soient communiqués avant d'être soumis à l'assemblée générale, à partir de
-la date à laquelle ils doivent être tenus à la disposition des commissaires aux
-comptes.
+La commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance peut demander que les comptes annuels lui soient communiqués avant
+d'être soumis à l'assemblée générale, à partir de la date à laquelle ils doivent
+être tenus à la disposition des commissaires aux comptes.

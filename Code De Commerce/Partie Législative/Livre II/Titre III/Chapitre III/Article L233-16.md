@@ -21,8 +21,8 @@ autre associé ou actionnaire ne détenait, directement ou indirectement, une
 fraction supérieure à la sienne ;
 
 3° Soit du droit d'exercer une influence dominante sur une entreprise en vertu
-d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet et
-que la société dominante est actionnaire ou associée de cette entreprise.
+d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet.
+(1)
 
 III. - Le contrôle conjoint est le partage du contrôle d'une entreprise
 exploitée en commun par un nombre limité d'associés ou d'actionnaires, de sorte

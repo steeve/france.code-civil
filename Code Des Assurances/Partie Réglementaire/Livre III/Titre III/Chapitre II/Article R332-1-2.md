@@ -7,4 +7,5 @@ passif et des estimations comparées de l'exigibilité de leur passif et de la
 liquidité de leur actif. Les résultats de cette évaluation sont déterminés et
 présentés selon des principes généraux définis par arrêté du ministre chargé de
 l'économie. Ils sont annexés à l'état trimestriel des placements destiné à la
-commission de contrôle des assurances.
+commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance.

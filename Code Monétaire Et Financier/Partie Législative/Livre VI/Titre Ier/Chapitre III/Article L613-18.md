@@ -11,3 +11,14 @@ l'initiative de la commission lorsque la gestion de l'établissement ou de
 l'entreprise ne peut plus être assurée dans des conditions normales, ou lorsque
 a été prise l'une des sanctions mentionnées aux 4 et 5 du I de l'article L.
 613-21.
+
+Lorsque la situation laisse craindre à terme une incapacité de l'établissement
+ou de l'entreprise à assurer la rémunération de l'administrateur provisoire, le
+fonds de garantie des dépôts peut, sur proposition de la Commission bancaire,
+décider d'en garantir le paiement. La charge correspondante est imputée au
+mécanisme de garantie des titres pour les personnes mentionnées au premier
+alinéa de l'article L. 613-2 autres que les établissements de crédit. Elle est
+imputée au fonds de garantie des cautions pour les établissements pour lesquels
+ce mécanisme est mis en oeuvre. En cas de mise en oeuvre conjointe, la charge
+est imputée à parts égales sur les différents mécanismes de garanties mis en
+oeuvre.

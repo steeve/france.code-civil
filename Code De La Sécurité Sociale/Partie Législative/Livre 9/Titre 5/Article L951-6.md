@@ -2,16 +2,25 @@ Article L951-6
 ----
 La commission peut demander aux commissaires aux comptes d'une institution tout
 renseignement sur l'activité de celle-ci. Les commissaires aux comptes sont
-alors déliés, à son égard, du secret professionnel [*information*].
+alors déliés, à son égard, du secret professionnel.
+
+La commission de contrôle peut également transmettre aux commissaires aux
+comptes des personnes mentionnées au premier alinéa les informations nécessaires
+à l'accomplissement de leur mission. Ces informations sont couvertes par le
+secret professionnel.
+
+La commission de contrôle peut en outre transmettre des observations écrites aux
+commissaires aux comptes qui sont alors tenus d'apporter des réponses en cette
+forme.
 
 Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à
-la commission tout fait ou décision concernant l'institution visée à l'alinéa
-précédent, dont ils ont eu connaissance dans l'exercice de leur mission, de
-nature :
+la commission tout fait ou décision concernant l'institution visée au premier
+alinéa, dont ils ont eu connaissance dans l'exercice de leur mission, de nature
+:
 
-- à constituer une violation des dispositions du chapitre Ier du titre III du
-livre IX ou du présent titre et susceptible d'avoir des effets significatifs sur
-la situation financière, le résultat ou le patrimoine ;
+- à constituer une violation des dispositions législatives et réglementaires qui
+leur sont applicables et susceptible d'avoir des effets significatifs sur la
+situation financière, le résultat ou le patrimoine ;
 
 - à porter atteinte à la continuité de son exploitation ;
 

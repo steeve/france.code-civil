@@ -5,9 +5,7 @@ l'article L. 421-8 ainsi que les personnes mentionnées à l'article L. 214-83-1
 sont tenus de respecter des règles de bonne conduite destinées à garantir la
 protection des investisseurs et la régularité des opérations.
 
-Ces règles sont établies par le Conseil des marchés financiers et, pour celles
-ayant trait aux services définis au 4 de l'article L. 321-1, par la Commission
-des opérations de bourse.
+Ces règles sont établies par l'Autorité des marchés financiers.
 
 Elles portent, le cas échéant, sur les services connexes que ces prestataires
 sont susceptibles de fournir.
@@ -38,6 +36,16 @@ peuvent être évités, veiller à ce que leurs clients soient traités équitab
 7. Se conformer à toutes les réglementations applicables à l'exercice de leurs
 activités de manière à promouvoir au mieux les intérêts de leurs clients et
 l'intégrité du marché.
+
+8. Pour les sociétés de gestion de portefeuille, exercer les droits attachés aux
+titres détenus par les organismes de placement collectif en valeurs mobilières
+qu'elles gèrent, dans l'intérêt exclusif des actionnaires ou des porteurs de
+parts de ces organismes de placement collectif en valeurs mobilières et rendre
+compte de leurs pratiques en matière d'exercice des droits de vote dans des
+conditions fixées par le règlement général de l'Autorité des marchés financiers.
+En particulier, lorsqu'elles n'exercent pas ces droits de vote, elles expliquent
+leurs motifs aux porteurs de parts ou actionnaires des organismes de placement
+collectif en valeurs mobilières.
 
 Les règles énoncées au présent article doivent être appliquées en tenant compte
 de la compétence professionnelle, en matière de services d'investissement, de la

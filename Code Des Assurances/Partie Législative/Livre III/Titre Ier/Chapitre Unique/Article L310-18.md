@@ -1,10 +1,12 @@
 Article L310-18
 ----
-Si une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 a enfreint
-une disposition législative ou réglementaire afférente à son activité, la
-commission peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou
-plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité du
-manquement :
+Si une entreprise mentionnée à l'article L. 310-1-1, aux 1°, 3° ou 4° de
+l'article L. 310-2 ou à l'article L. 322-1-2 a enfreint une disposition
+législative ou réglementaire qui lui est applicable ou a des pratiques qui
+mettent en péril sa marge de solvabilité ou l'exécution des engagements qu'elle
+a contractés envers les assurés, adhérents ou ayants droit, la commission peut
+prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des
+sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -17,26 +19,34 @@ dans l'exercice de l'activité ;
 
 4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
 
-5° Le retrait total ou partiel d'agrément ;
+5° Le retrait total ou partiel d'agrément ou d'autorisation ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
 
-Il en va de même si elle n'a pas déféré à l'injonction de l'article L. 310-17.
+La commission de contrôle peut décider de reporter sa décision à l'issue d'un
+délai qu'elle impartit à l'entreprise, pour prendre toute mesure de nature à
+mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
 
-En outre, la commission peut prononcer, soit à la place, soit en sus de ces
+En outre, la Commission peut prononcer soit à la place, soit en sus de ces
 sanctions, une sanction pécuniaire. Le montant de cette sanction pécuniaire doit
-être fonction de la gravité des manquements commis, sans pouvoir excéder 3 p.
-100 du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos
-calculé sur une période de douze mois. Ce maximum est porté à 5 p. 100 en cas de
-nouvelle violation de la même obligation. Les sommes correspondantes sont
-versées au Trésor public. Elles sont recouvrées comme des créances de l'Etat
-étrangères à l'impôt et au domaine.
+être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % du
+chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos calculé
+sur une période de 12 mois. Ce maximum est porté à 5 % en cas de nouvelle
+violation de la même obligation. Les sommes correspondantes sont versées au
+Trésor public. Elles sont recouvrées comme des créances de l'Etat étrangères à
+l'impôt et au domaine.
 
-Dans tous les cas visés au présent article, la commission de contrôle des
-assurances statue après une procédure contradictoire. Les responsables de
-l'entreprise sont obligatoirement mis à même d'être entendus avant que la
-commission de contrôle n'arrête sa décision. Ils peuvent se faire représenter ou
-assister.
+Pour les sociétés de groupe d'assurance définies à l'article L. 322-1-2, le
+montant maximum de la sanction pécuniaire est défini par référence au chiffre
+d'affaires de celle des entreprises d'assurance incluses par intégration globale
+dans la consolidation ou la combinaison dont le total des primes émises au cours
+du dernier exercice clos est le plus élevé.
+
+Dans tous les cas visés au présent article, la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance statue après une
+procédure contradictoire. Elle informe obligatoirement les intéressés de leur
+droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se
+faire représenter ou assister.
 
 Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la
 notification de la décision, former un recours de pleine juridiction devant le

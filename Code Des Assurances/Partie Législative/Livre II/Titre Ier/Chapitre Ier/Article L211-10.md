@@ -8,5 +8,5 @@ qu'elle peut à son libre choix se faire assister d'un avocat et, en cas d'exame
 médical, d'un médecin.
 
 Sous la même sanction, cette correspondance porte à la connaissance de la
-victime les dispositions du quatrième alinéa de l'article L. 211-9 et celles de
+victime les dispositions du troisième alinéa de l'article L. 211-9 et celles de
 l'article L. 211-12.

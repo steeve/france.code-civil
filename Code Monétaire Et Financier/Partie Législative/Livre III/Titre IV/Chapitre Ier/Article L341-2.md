@@ -1,33 +1,44 @@
 Article L341-2
 ----
-I. - Il est interdit à toute personne de se livrer au démarchage :
+Les règles concernant le démarchage bancaire ou financier ne s'appliquent pas :
 
-1. En vue de conseiller ou d'offrir des prêts d'argent ;
+1° Aux prises de contact avec les investisseurs qualifiés définis à l'article L.
+411-2 et avec les personnes morales dont le total du bilan, le chiffre
+d'affaires, le montant des actifs gérés, les recettes ou les effectifs sont
+supérieurs à un seuil fixé par décret ;
 
-2. En vue de recueillir sous forme de dépôts ou autrement des fonds du public ;
+2° Aux prises de contact dans les locaux des personnes mentionnées à l'article
+L. 341-3, sauf lorsque ces personnes sont contractuellement liées, en vue de la
+commercialisation d'instruments financiers et de produits d'épargne, aux
+sociétés exploitant des magasins de grande surface visés à la section 3 du
+chapitre Ier du titre V du livre IV du code de l'urbanisme, et que leurs locaux
+sont implantés dans les locaux de ces magasins ;
 
-3. En vue de conseiller la souscription de plans d'épargne prévoyant, même pour
-partie, l'acquisition de parts de sociétés civiles immobilières ;
+3° Aux démarches dans les locaux professionnels d'une personne morale à la
+demande de cette dernière ;
 
-4. En vue de proposer tous autres placements de fonds.
+4° Aux prises de contact avec des personnes morales, lorsqu'elles portent
+exclusivement sur les services visés au 4 de l'article L. 321-2 ;
 
-Sont notamment considérées comme placement de fonds les opérations mentionnées à
-l'article L. 550-1.
+5° Lorsque la personne visée est déjà cliente de la personne pour le compte de
+laquelle la prise de contact a lieu, dès lors que l'opération proposée
+correspond, à raison de ses caractéristiques, des risques ou des montants en
+cause, à des opérations habituellement réalisées par cette personne ;
 
-II. - Toutefois, n'est pas soumis à cette interdiction et reste régi par la
-réglementation qui lui est propre, le démarchage en vue de la souscription ou de
-l'achat de valeurs mobilières, de la souscription de contrats d'assurance ou de
-capitalisation, de l'achat de fonds de commerce ou d'immeubles, ou de parts de
-sociétés immobilières donnant droit à la jouissance d'un immeuble ou d'une
-fraction d'immeuble déterminée, ou en vue d'opérations sur les marchés à terme
-réglementés de marchandises.
+6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue
+de proposer un contrat de financement de biens ou de prestations de services
+répondant aux conditions prévues à la section 5 du chapitre Ier du titre Ier du
+livre III du code de la consommation, ou constituant une location-vente ou une
+location avec option d'achat visées à l'article L. 311-2 dudit code. Il en va de
+même lorsque ces contrats sont destinés aux besoins d'une activité
+professionnelle ;
 
-Se livre au démarchage au sens du présent article celui qui, à l'une des fins
-mentionnées à l'alinéa premier, se rend habituellement soit au domicile ou à la
-résidence des personnes, soit sur leurs lieux de travail, soit dans des lieux
-ouverts au public et non réservés à de telles fins.
+7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour
+le compte d'un établissement de crédit en vue de proposer des contrats de
+financement de ventes à tempérament aux personnes, physiques ou morales, autres
+que celles visées au 1°, à la condition que le nom de l'établissement prêteur et
+le coût du crédit soient mentionnés, sous peine de nullité ;
 
-Sont également considérés comme actes de démarchage les offres de services
-faites ou les conseils donnés de façon habituelle en vue des mêmes opérations au
-domicile ou à la résidence des personnes, ou sur leurs lieux de travail, par
-l'envoi de lettres ou circulaires ou par communications téléphoniques.
+8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un
+établissement de crédit, en vue de proposer des crédits visés au titre Ier du
+livre III du code de la consommation.

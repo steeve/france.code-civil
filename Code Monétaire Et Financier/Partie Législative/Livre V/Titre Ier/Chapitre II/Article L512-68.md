@@ -8,6 +8,6 @@ des sables, graviers et amendements marins et à la récolte des végétaux
 provenant de la mer ou du domaine maritime.
 
 Les établissements de crédit maritime mutuel peuvent également effectuer toute
-opération de banque en faveur de leurs sociétaires et de ceux de la caisse
-centrale de crédit coopératif et recevoir de toute personne des dépôts de fonds
-et de titres.
+opération de banque en faveur de leurs sociétaires et de ceux de la Banque
+fédérale des banques populaires et recevoir de toute personne des dépôts de
+fonds et de titres.

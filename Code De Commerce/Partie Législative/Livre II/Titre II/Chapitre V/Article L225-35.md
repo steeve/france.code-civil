@@ -13,9 +13,9 @@ l'ignorer compte tenu des circonstances, étant exclu que la seule publication
 des statuts suffise à constituer cette preuve.
 
 Le conseil d'administration procède aux contrôles et vérifications qu'il juge
-opportuns. Chaque administrateur reçoit toutes les informations nécessaires à
-l'accomplissement de sa mission et peut se faire communiquer tous les documents
-qu'il estime utiles.
+opportuns. Le président ou le directeur général de la société est tenu de
+communiquer à chaque administrateur tous les documents et informations
+nécessaires à l'accomplissement de sa mission.
 
 Les cautions, avals et garanties donnés par des sociétés autres que celles
 exploitant des établissements bancaires ou financiers font l'objet d'une

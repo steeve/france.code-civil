@@ -58,8 +58,8 @@ l'article L. 214-31, le conseil de surveillance peut agir en justice pour
 défendre ou faire valoir les droits ou intérêts des porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de
-chaque porteur de parts et dont le contenu est précisé par un règlement de la
-Commission des opérations de bourse. Il s'assure de la diffusion régulière par
+chaque porteur de parts et dont le contenu est précisé par un règlement de
+l'Autorité des marchés financiers. Il s'assure de la diffusion régulière par
 l'entreprise de l'information aux porteurs de parts.
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du

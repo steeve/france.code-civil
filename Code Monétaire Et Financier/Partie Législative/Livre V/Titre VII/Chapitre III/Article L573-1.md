@@ -1,7 +1,7 @@
 Article L573-1
 ----
-I. - Est puni de trois ans d'emprisonnement et de 375000 euros d'amende le fait,
-pour toute personne physique ;
+I. - Est puni de trois ans d'emprisonnement et de 375 000 euros d'amende le
+fait, pour toute personne physique :
 
 1. De fournir des services d'investissement à des tiers à titre de profession
 habituelle sans y avoir été autorisée dans les conditions prévues à l'article L.

@@ -7,10 +7,10 @@ financiers.
 Toute personne qui vient à posséder, directement ou indirectement, une fraction
 du capital ou des droits de vote d'une entreprise de marché représentant plus du
 dixième, du cinquième, du tiers, de la moitié ou des deux tiers est tenue d'en
-informer le Conseil des marchés financiers, dans des conditions et selon des
+informer l'Autorité des marchés financiers, dans des conditions et selon des
 modalités prévues par décret. En cas de manquement à cette obligation
 déclarative et sans préjudice des dispositions de l'article L. 233-14 du code de
-commerce, le Conseil des marchés financiers ou tout actionnaire peut demander au
+commerce, l'Autorité des marchés financiers ou tout actionnaire peut demander au
 juge de suspendre, jusqu'à régularisation de la situation, l'exercice des droits
 de vote attachés aux actions de l'entreprise de marché qui n'ont pas été
 régulièrement déclarées.
@@ -21,7 +21,7 @@ et sans préjudice des dispositions de l'article L. 233-14 du code de commerce,
 demander au juge de suspendre, jusqu'à régularisation de la situation,
 l'exercice des droits de vote attachés aux actions de l'entreprise de marché
 détenues directement ou indirectement. Sur proposition du Conseil des marchés
-financiers et après avis de la Commission des opérations de bourse et de la
+financiers et après avis de la Commission des opérations de bourse (1) et de la
 Banque de France, le ministre peut également procéder à une révision de la
 reconnaissance du marché réglementé ou à son retrait, dans les conditions
 prévues à l'article L. 421-1.

@@ -14,5 +14,5 @@ liquidation judiciaires, ainsi qu'aux juges commis à la surveillance du registr
 du commerce et des sociétés à l'occasion des demandes d'inscription audit
 registre ;
 
-4° A la Commission des opérations de bourse en ce qui concerne les personnes
-morales faisant appel public à l'épargne.
+4° A l'Autorité des marchés financiers en ce qui concerne les personnes morales
+faisant appel public à l'épargne.

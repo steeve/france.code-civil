@@ -2,7 +2,7 @@ Article L214-34
 ----
 I. - Les statuts ou le règlement d'un organisme de placement collectif en
 valeurs mobilières dit nourricier peuvent prévoir, dans des conditions fixées
-par un règlement de la commission des opérations de bourse, que son actif est
+par un règlement général de l'Autorité des marchés financiers, que son actif est
 investi en totalité en actions ou parts d'un seul organisme de placement
 collectif en valeurs mobilières, dit maître, et, à titre accessoire, en
 liquidités.
@@ -18,12 +18,11 @@ les organismes de placement collectif nourriciers sont alors soumis aux règles
 de détention, de commercialisation, de publicité et de démarchage applicables au
 fonds maître ;
 
-3. Soit un organisme de placement collectif bénéficiant d'une procédure allégée
-régi par l'article L. 214-35 ; la souscription ou l'acquisition d'actions ou de
-parts des organismes de placement collectif nourriciers sont réservées aux
-investisseurs mentionnés aux deuxième et troisième alinéas de l'article L. 411-2
-lorsque le montant initialement investi est inférieur au montant mentionné au I
-de l'article L. 214-35.
+3. Soit un organisme de placement collectif en valeurs mobilières réservé à
+certains investisseurs relevant de la sous-section 6 de la présente section.
+Dans ce cas, les règles de détention d'investissement, de démarchage et de
+commercialisation de l'organisme de placements collectifs nourricier sont celles
+de l'organisme de placements collectifs maître.
 
 4. Soit un organisme de placement collectif soumis à la législation d'un Etat
 bénéficiant de la procédure de reconnaissance mutuelle des agréments définie par
@@ -41,7 +40,7 @@ c) La conclusion avec l'autorité de contrôle compétente pour la surveillance 
 organismes de placement collectif en valeurs mobilières d'une convention
 d'échange d'informations et d'assistance.
 
-Un règlement de la commission des opérations de bourse précise les conditions
+Un règlement général de l'Autorité des marchés financiers précise les conditions
 d'application du présent II.
 
 III. - Les dépositaires et les commissaires aux comptes des organismes de

@@ -22,7 +22,5 @@ Les dispositions de l'article L. 228-10, du 3° de l'article L. 242-3 et de
 l'article L. 242-4 ne sont pas applicables aux bons mentionnés au présent
 article.
 
-Les dispositions des 4° et 5° de l'article L. 242-18 et de l'article L. 242-19
-relatives à la protection des droits des titulaires de bons de souscription sont
-applicables aux valeurs mobilières ou aux bons mentionnés aux articles L.
-228-91, L. 228-93 et au présent article.
+Sont nulles les délibérations prises en violation des articles L. 228-91, L.
+228-93 et du présent article.

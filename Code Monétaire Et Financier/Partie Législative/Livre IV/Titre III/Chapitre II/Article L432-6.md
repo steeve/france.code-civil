@@ -1,7 +1,7 @@
 Article L432-6
 ----
-Les dispositions des articles L. 432-8 et L. 432-9 sont applicables aux prêts de
-titres qui remplissent les conditions suivantes :
+Les dispositions de l'article L. 432-9 sont applicables aux prêts de titres qui
+remplissent les conditions suivantes :
 
 1. Le prêt porte sur des instruments financiers visés aux 1, 2 et 3 de l'article
 L. 211-1 ou sur tous instruments équivalents émis sur le fondement de droits
@@ -21,7 +21,7 @@ civil ;
 4. Les titres sont empruntés par une personne morale soumise de plein droit à un
 régime réel d'imposition, par un organisme de placement collectif en valeurs
 mobilières, ou par une personne, société ou institution non résidente ayant un
-statut comparable .
+statut comparable.
 
 Les parties peuvent convenir de remises complémentaires, en pleine propriété,
 d'espèces ou de titres, pour tenir compte de l'évolution de la valeur des titres

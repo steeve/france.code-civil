@@ -23,17 +23,19 @@ présent code.
 
 III. - La dérogation visée au troisième alinéa de l'article R. 332-17 ne peut
 être accordée que dans la mesure où, de l'avis de la commission de contrôle des
-assurances, elle ne diminue pas la qualité de la représentation des engagements
-réglementés, et notamment dans les limites fixées ci-après :
+assurances, des mutuelles et des institutions de prévoyance, elle ne diminue pas
+la qualité de la représentation des engagements réglementés, et notamment dans
+les limites fixées ci-après :
 
-- la durée, fixée initialement par la commission de contrôle des assurances, ne
-peut excéder un exercice, éventuellement renouvelable dans les conditions
-définies par la commission ;
+- la durée, fixée initialement par la commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance, ne peut excéder un exercice,
+éventuellement renouvelable dans les conditions définies par la commission ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à
 aucun moment excéder :
 
-- le montant maximum fixé par la commission de contrôle des assurances ;
+- le montant maximum fixé par la commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance ;
 
 - la moitié du montant total des engagements réglementés tels que définis à
 l'article R. 331-1 du présent code ;

@@ -1,5 +1,6 @@
 Article L353-5
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende de 6000 euros, le fait,
-pour toute personne, de méconnaître les obligations prescrites par les articles
-L. 342-6, L. 342-13 à L. 342-17 et L. 342-19.
+Les agents mentionnés à l'article L. 450-1 du code de commerce sont qualifiés
+pour procéder à la recherche et à la constatation des infractions prévues aux
+articles L. 353-1 et L. 353-2 du présent code dans les conditions fixées par les
+articles L. 450-2 à L. 450-4, L. 450-7 et L. 450-8 du code de commerce.

@@ -2,18 +2,19 @@ Article R321-22
 ----
 Une entreprise dont tous les agréments ont cessé de plein droit d'être valables
 ou ont fait l'objet d'arrêtés constatant leur caducité soumet à l'approbation de
-la commission de contrôle des assurances, dans un délai d'un mois à partir de la
-date où son dernier agrément a cessé de plein droit d'être valable ou a fait
-l'objet d'un arrêté constatant sa caducité, un programme de liquidation
-précisant notamment les délais prévisibles et les conditions financières de la
-liquidation, ainsi que les moyens en personnel et en matériels mis en oeuvre
-pour la gestion des engagements résiduels. Lorsque la gestion des engagements
-résiduels est déléguée à un tiers, le projet de contrat de délégation et un
-dossier décrivant la qualité du délégataire et de ses dirigeants, son
-organisation, sa situation financière et les moyens mis en oeuvre sont
-communiqués à la commission, qui peut, en application du dernier alinéa de
-l'article L. 310-12, réaliser tous contrôles sur pièces et sur place du
-délégataire, jusqu'à liquidation intégrale des engagements.
+la commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance, dans un délai d'un mois à partir de la date où son dernier agrément
+a cessé de plein droit d'être valable ou a fait l'objet d'un arrêté constatant
+sa caducité, un programme de liquidation précisant notamment les délais
+prévisibles et les conditions financières de la liquidation, ainsi que les
+moyens en personnel et en matériels mis en oeuvre pour la gestion des
+engagements résiduels. Lorsque la gestion des engagements résiduels est déléguée
+à un tiers, le projet de contrat de délégation et un dossier décrivant la
+qualité du délégataire et de ses dirigeants, son organisation, sa situation
+financière et les moyens mis en oeuvre sont communiqués à la commission, qui
+peut, en application du dernier alinéa de l'article L. 310-12, réaliser tous
+contrôles sur pièces et sur place du délégataire, jusqu'à liquidation intégrale
+des engagements.
 
 Si la commission estime que le programme de liquidation présenté par
 l'entreprise n'est pas conforme aux intérêts des assurés, elle ne l'approuve pas

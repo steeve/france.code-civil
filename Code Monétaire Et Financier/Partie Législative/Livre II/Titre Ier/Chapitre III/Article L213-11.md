@@ -8,4 +8,4 @@ situation financière et l'évolution de l'activité de l'association.
 
 Les mentions qui doivent figurer sur ces documents sont fixées par décret, leurs
 éléments chiffrés sont visés par un commissaire aux comptes choisi sur la liste
-prévue par le I de l'article L. 225-219 du code de commerce.
+prévue par le I de l'article L. 822-1 du code de commerce.

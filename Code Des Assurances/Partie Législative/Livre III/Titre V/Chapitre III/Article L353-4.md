@@ -1,11 +1,11 @@
 Article L353-4
 ----
-I. - Sous la seule réserve d'en informer préalablement le ministre chargé de
-l'économie et des finances, toute entreprise d'assurance peut prendre sur le
-territoire de la République française des engagements en régime de libre
-prestation de services lorsque le souscripteur a pris l'initiative de solliciter
-ces engagements auprès de l'entreprise d'assurance. Un décret en Conseil d'Etat
-fixe les documents à produire à l'appui de cette information.
+I. - Sous la seule réserve d'en informer préalablement le Comité des entreprises
+d'assurance, toute entreprise d'assurance peut prendre sur le territoire de la
+République française des engagements en régime de libre prestation de services
+lorsque le souscripteur a pris l'initiative de solliciter ces engagements auprès
+de l'entreprise d'assurance. Un décret en Conseil d'Etat fixe les documents à
+produire à l'appui de cette information.
 
 Le souscripteur est réputé avoir pris l'initiative lorsque l'une au moins des
 deux situations suivantes est réalisée :
@@ -31,11 +31,3 @@ l'entreprise d'assurance concernée est soumise au régime de contrôle de l'Eta
 où elle est établie ; il signe également, le cas échéant, une déclaration
 analogue avant de prendre connaissance des informations mentionnées au dernier
 alinéa (2°) du I.
-
-III. - Toute entreprise d'assurance prenant sur le territoire de la République
-française, en libre prestation de services, des engagements dans les conditions
-prévues au présent article est tenue, lorsque la demande lui en est faite dans
-le but de contrôler le respect des dispositions législatives et réglementaires
-applicables à ces engagements, de remettre au ministre chargé de l'économie et
-des finances les conditions générales et spéciales des polices d'assurance, les
-tarifs, formulaires et autres imprimés que l'entreprise utilise.

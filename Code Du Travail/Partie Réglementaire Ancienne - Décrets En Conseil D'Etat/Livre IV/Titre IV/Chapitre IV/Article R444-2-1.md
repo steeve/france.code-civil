@@ -1,6 +1,6 @@
 Article R444-2-1
 ----
-Le Conseil supérieur de la participation comprend [*composition*] :
+Le Conseil supérieur de la participation comprend :
 
 1° Le ministre chargé du travail, président, ou son représentant ;
 
@@ -8,7 +8,7 @@ Le Conseil supérieur de la participation comprend [*composition*] :
 
 Un représentant du ministre chargé des petites et moyennes entreprises ;
 
-Un représentant de la Commission des opérations de bourse ;
+Un représentant de l'Autorité des marchés financiers ;
 
 Un représentant du ministre chargé des affaires sociales ;
 

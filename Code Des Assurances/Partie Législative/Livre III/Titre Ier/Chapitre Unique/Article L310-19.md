@@ -7,14 +7,23 @@ groupe mixte d'assurance définies à l'article L. 322-1-2, tout renseignement s
 l'activité de l'organisme contrôlé. Les commissaires aux comptes sont alors
 déliés, à son égard, du secret professionnel.
 
+La commission de contrôle peut également transmettre aux commissaires aux
+comptes des personnes mentionnées au premier alinéa les informations nécessaires
+à l'accomplissement de leur mission. Ces informations sont couvertes par le
+secret professionnel.
+
+La commission de contrôle peut en outre transmettre des observations écrites aux
+commissaires aux comptes qui sont alors tenus d'apporter des réponses en cette
+forme.
+
 Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à
 la Commission de contrôle des assurances tout fait concernant l'entreprise ou la
-société visée à l'alinéa précédent ou toute décision prise par ses dirigeants,
-dont ils ont eu connaissance dans l'exercice de leur mission, de nature :
+société visée au premier alinéa ou toute décision prise par ses dirigeants, dont
+ils ont eu connaissance dans l'exercice de leur mission, de nature :
 
-- à constituer une violation aux dispositions des titres II à IV du livre III et
-du chapitre Ier du titre IV du livre IV du présent code, susceptible d'avoir des
-effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+- à constituer une violation aux dispositions législatives et réglementaires qui
+leur sont applicables, susceptible d'avoir des effets significatifs sur la
+situation financière, le résultat ou le patrimoine ;
 
 - à porter atteinte à la continuité de son exploitation ;
 

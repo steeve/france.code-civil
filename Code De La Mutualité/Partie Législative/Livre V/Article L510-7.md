@@ -19,9 +19,6 @@ redressement ou de sauvegarde de cette mutuelle ou union.
 La commission de contrôle peut procéder à la vérification sur place des
 informations nécessaires à la surveillance complémentaire instituée à l'article
 L. 212-7-2 auprès de la mutuelle ou l'union et de ses organismes apparentés.
-Lorsque l'un de ces organismes apparentés est un organisme relevant du code des
-assurances, l'extension du contrôle de la commission consiste dans le recueil
-d'informations auprès de la commission de contrôle des assurances.
 
 Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L.
 212-7-2, la commission souhaite vérifier des informations utiles à l'exercice de

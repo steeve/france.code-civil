@@ -3,15 +3,16 @@ Article L151-3
 I. - Le ministre chargé de l'économie, s'il constate qu'un investissement
 étranger est ou a été réalisé dans des activités participant en France, même à
 titre occasionnel, à l'exercice de l'autorité publique, ou qu'un investissement
-étranger est de nature à mettre en cause l'ordre public, la santé publique ou la
-sécurité publique, ou qu'il est ou a été réalisé dans des activités de
-recherche, de production ou de commerce d'armes, de munitions, de poudres et
-substances explosives destinées à des fins militaires ou de matériels de guerre,
-en l'absence de la demande d'autorisation préalable exigée sur le fondement du c
-du 1 de l'article L. 151-2 ou malgré un refus d'autorisation ou sans qu'il soit
-satisfait aux conditions dont l'autorisation est assortie, peut enjoindre à
-l'investisseur de ne pas donner suite à l'opération, de la modifier ou de faire
-rétablir à ses frais la situation antérieure.
+étranger est de nature à mettre en cause l'ordre public, la santé publique, la
+sécurité publique, ou la défense nationale, ou que cet investissement est ou a
+été réalisé dans des activités de recherche, de production ou de commerce
+d'armes, de munitions, de poudres et substances explosives destinées à des fins
+militaires ou de matériels de guerre, en l'absence de la demande d'autorisation
+préalable exigée sur le fondement du c du 1 de l'article L. 151-2 ou malgré un
+refus d'autorisation ou sans qu'il soit satisfait aux conditions dont
+l'autorisation est assortie, peut enjoindre à l'investisseur de ne pas donner
+suite à l'opération, de la modifier ou de faire rétablir à ses frais la
+situation antérieure.
 
 Cette injonction ne peut intervenir qu'après l'envoi d'une mise en demeure à
 l'investisseur de faire connaître ses observations dans un délai de quinze

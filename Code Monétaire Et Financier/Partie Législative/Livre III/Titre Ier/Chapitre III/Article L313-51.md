@@ -1,7 +1,6 @@
 Article L313-51
 ----
-Un règlement du comité de la réglementation bancaire et financière précise
-notamment :
+Un arrêté du ministre chargé de l'économie précise notamment :
 
 1. Les modalités d'indemnisation ;
 

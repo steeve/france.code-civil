@@ -1,8 +1,8 @@
 Article L532-9
 ----
 L'entreprise d'investissement qui exerce, à titre principal, le service
-mentionné au 4 de l'article L. 321-1, est agréée par la Commission des
-opérations de bourse et prend le nom de société de gestion de portefeuille.
+mentionné au 4 de l'article L. 321-1, est agréée par l'Autorité des marchés
+financiers et prend le nom de société de gestion de portefeuille.
 
 Pour délivrer l'agrément à une société de gestion de portefeuille, la commission
 vérifie si celle-ci :
@@ -28,23 +28,22 @@ au 4 de l'article L. 321-1 ;
 7. Dispose d'un programme d'activité pour chacun des services qu'elle entend
 fournir.
 
-La Commission des opérations de bourse peut refuser l'agrément lorsque
-l'exercice de la mission de surveillance de la société de gestion de
-portefeuille est susceptible d'être entravé soit par l'existence d'un lien de
-capital ou de contrôle direct ou indirect entre l'entreprise requérante et
-d'autres personnes physiques ou morales, soit par l'existence de dispositions
-législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur
-l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
+L'Autorité des marchés financiers peut refuser l'agrément lorsque l'exercice de
+la mission de surveillance de la société de gestion de portefeuille est
+susceptible d'être entravé soit par l'existence d'un lien de capital ou de
+contrôle direct ou indirect entre l'entreprise requérante et d'autres personnes
+physiques ou morales, soit par l'existence de dispositions législatives ou
+réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique
+européen et dont relèvent une ou plusieurs de ces personnes.
 
-La Commission des opérations de bourse statue, après l'avis prévu à l'article L.
-621-29, dans un délai de trois mois à compter de la présentation de la demande.
-Sa décision est motivée et notifiée au demandeur.
+L'Autorité des marchés financiers statue dans un délai de trois mois à compter
+de la présentation de la demande. Sa décision est motivée et notifiée au
+demandeur.
 
 La commission peut assortir l'agrément de conditions particulières visant à
 préserver l'équilibre de la structure financière de la société de gestion. Elle
 peut également subordonner l'octroi de l'agrément au respect d'engagements
 souscrits par la société requérante.
 
-Un règlement de la Commission des opérations de bourse pris conformément aux
-dispositions de l'article L. 621-29 précise les conditions d'agrément des
-sociétés de gestion de portefeuille.
+Un règlement général de l'Autorité des marchés financiers précise les conditions
+d'agrément des sociétés de gestion de portefeuille.

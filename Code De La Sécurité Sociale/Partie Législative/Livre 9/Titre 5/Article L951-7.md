@@ -18,7 +18,4 @@ d'institutions de prévoyance implantées à l'étranger.
 
 La commission de contrôle peut procéder à la vérification sur place des
 informations nécessaires à la surveillance complémentaire instituée à l'article
-L. 933-3 auprès de l'institution et de ses organismes apparentés. Lorsque l'un
-de ces organismes apparentés est un organisme relevant du code des assurances,
-l'extension du contrôle de la commission consiste dans le recueil d'informations
-auprès de la commission de contrôle des assurances.
+L. 933-3 auprès de l'institution et de ses organismes apparentés.

@@ -1,20 +1,20 @@
 Article L321-2
 ----
-Le ministre chargé de l'économie et des finances informe la Commission des
-communautés européennes de toute décision d'agrément d'une entreprise contrôlée
-par une entreprise dont le siège social est établi dans un Etat non partie à
-l'accord sur l'Espace économique européen. Le contrôle s'entend au sens des
-articles 355-1 et 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales.
+Le Comité des entreprises d'assurance informe la Commission des communautés
+européennes de toute décision d'agrément d'une entreprise contrôlée par une
+entreprise dont le siège social est établi dans un Etat non partie à l'accord
+sur l'Espace économique européen. Le contrôle s'entend au sens des articles L.
+233-3 et L. 233-16 du code de commerce.
 
 Sur demande de l'autorité compétente des communautés européennes fondée sur ce
 qu'il a été constaté que les entreprises d'assurance ayant leur siège social
 dans un Etat membre des communautés n'ont pas accès au marché d'un Etat non
 partie à l'accord sur l'espace économique européen ou n'y bénéficient pas du
-même traitement que les entreprises qui y ont leur siège, le ministre sursoit,
-pendant une durée de trois mois, à toute décision sur l'agrément d'une
-entreprise contrôlée par une entreprise ayant son siège dans ledit Etat. Le
-délai de trois mois peut être prorogé sur décision du Conseil des communautés.
+même traitement que les entreprises qui y ont leur siège, le Comité des
+entreprises d'assurance sursoit, pendant une durée de trois mois, à toute
+décision sur l'agrément d'une entreprise contrôlée par une entreprise ayant son
+siège dans ledit Etat. Le délai de trois mois peut être prorogé sur décision du
+Conseil des communautés.
 
 Les dispositions de l'alinéa qui précède ne s'appliquent pas à la création d'une
 entreprise d'assurance contrôlée par une entreprise d'assurance déjà établie sur

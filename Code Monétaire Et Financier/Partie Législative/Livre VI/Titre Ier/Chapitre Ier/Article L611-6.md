@@ -1,7 +1,7 @@
 Article L611-6
 ----
-Sont exclus du domaine de compétence du Comité de la réglementation bancaire et
-financière :
+Ne sont pas soumis à l'avis du Comité consultatif de la législation et de la
+réglementation financières les arrêtés pris dans les matières suivantes :
 
 1. En ce qui concerne les banques mutualistes ou coopératives, la définition des
 conditions d'accès au sociétariat ainsi que les limitations du champ d'activité

@@ -1,24 +1,24 @@
 Article L212-11
 ----
-Les mutuelles et unions ainsi que leurs succursales mentionnées à l'article L.
-212-8 peuvent être autorisées, dans les conditions définies au présent article,
-à transférer tout ou partie de leur portefeuille d'opérations, avec ses droits
-et obligations et couvrant des risques ou des engagements situés sur le
-territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à
-l'accord sur l'Espace économique européen, à une ou plusieurs des mutuelles ou
-unions régies par le présent code, à une ou plusieurs des institutions de
-prévoyance régies par le code de la sécurité sociale ou l'article L. 727-2 du
-code rural, et à une ou plusieurs des entreprises d'assurance régies par le code
-des assurances ou dont l'Etat d'origine est membre de la Communauté européenne
-ou partie à l'accord sur l'Espace économique européen. Elles peuvent également
-être autorisées à effectuer ces transferts auprès des succursales des organismes
-visés ci-dessus et établies sur le territoire d'un Etat membre de la Communauté
-européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
-Elles peuvent également être autorisées à effectuer ces transferts auprès
-d'entreprises d'assurance dont le siège est établi dans un Etat qui n'est pas
-partie à l'accord sur l'Espace économique européen mais dont la succursale est
-établie et agréée dans l'Etat du risque ou de l'engagement, membre de la
-Communauté européenne ou partie à l'accord sur l'Espace économique européen.
+Les mutuelles et unions ainsi que leurs succursales peuvent être autorisées,
+dans les conditions définies au présent article, à transférer tout ou partie de
+leur portefeuille d'opérations, avec ses droits et obligations et couvrant des
+risques ou des engagements situés sur le territoire d'un Etat membre de la
+Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen, à une ou plusieurs des mutuelles ou unions régies par le présent code,
+à une ou plusieurs des institutions de prévoyance régies par le code de la
+sécurité sociale ou l'article L. 727-2 du code rural, et à une ou plusieurs des
+entreprises d'assurance régies par le code des assurances ou dont l'Etat
+d'origine est membre de la Communauté européenne ou partie à l'accord sur
+l'Espace économique européen. Elles peuvent également être autorisées à
+effectuer ces transferts auprès des succursales des organismes visés ci-dessus
+et établies sur le territoire d'un Etat membre de la Communauté européenne ou
+d'un Etat partie à l'accord sur l'Espace économique européen. Elles peuvent
+également être autorisées à effectuer ces transferts auprès d'entreprises
+d'assurance dont le siège est établi dans un Etat qui n'est pas partie à
+l'accord sur l'Espace économique européen mais dont la succursale est établie et
+agréée dans l'Etat du risque ou de l'engagement, membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen.
 
 Dans tous les cas, le nouvel assureur doit respecter les garanties concernant
 les activités transférées, telles que la mutuelle ou l'union les avaient
@@ -49,7 +49,7 @@ l'avis de l'autorité de contrôle de l'Etat du risque ou de l'engagement.
 
 Pour les transferts de portefeuilles d'opérations relevant du b du 1° du I de
 l'article L. 111-1, cette approbation est en outre fondée sur les données de
-l'état sur les plus values latentes prévu à l'article L. 212-6.
+l'état sur les plus-values latentes prévu à l'article L. 212-6.
 
 L'approbation rend le transfert opposable aux membres participants ainsi qu'aux
 créanciers à partir de la date de publication au Journal officiel de l'arrêté

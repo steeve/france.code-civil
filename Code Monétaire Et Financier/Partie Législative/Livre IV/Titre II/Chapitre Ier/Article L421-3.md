@@ -8,15 +8,11 @@ la cotation, les dispositions d'organisation des transactions, les conditions de
 suspension des négociations d'un ou plusieurs instruments financiers, les règles
 relatives à l'enregistrement et à la publicité des négociations.
 
-Ces règles sont approuvées par le conseil des marchés financiers.
+Ces règles sont approuvées par l'Autorité des marchés financiers.
 
-Les modifications de ces règles sont notifiées au conseil des marchés
-financiers, à la commission des opérations de bourse et à la Banque de France.
-Le conseil se prononce sur leur compatibilité avec la reconnaissance mentionnée
-à l'article L. 421-1, informe la commission des opérations de bourse et la
-Banque de France de sa décision, et saisit le ministre chargé de l'économie en
-cas de constat d'une incompatibilité de ces modifications avec la décision de
-reconnaissance. En cas de désaccord avec la décision prise par le conseil des
-marchés financiers, la commission des opérations de bourse ou la Banque de
-France peuvent saisir le ministre chargé de l'économie dans un délai de quinze
-jours après la transmission de la décision du conseil des marchés financiers.
+Les modifications de ces règles sont notifiées à l'Autorité des marchés
+financiers et à la Banque de France. L'Autorité des marchés financiers se
+prononce sur leur compatibilité avec la reconnaissance mentionnée à l'article L.
+421-1, informe la Banque de France de sa décision, et saisit le ministre chargé
+de l'économie en cas de constat d'une incompatibilité de ces modifications avec
+la décision de reconnaissance.

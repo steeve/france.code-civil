@@ -12,17 +12,16 @@ libellés dans la monnaie d'un des Etats parties à l'accord sur l'Espace
 économique européen, sur ordre ou au bénéfice de leur clientèle :
 
 1. Les retards dans l'exécution des virements effectués dont le montant est au
-plus égal à un seuil fixé par un règlement du comité de la réglementation
-bancaire et financière donnent droit, même en l'absence de faute, sans préjudice
-des recours de droit commun et au plus tard quatorze jours ouvrables après
-l'exécution du virement, à une indemnité dont les modalités de calcul sont
-définies par ce même règlement ;
+plus égal à un seuil fixé par un arrêté du ministre chargé de l'économie donnent
+droit, même en l'absence de faute, sans préjudice des recours de droit commun et
+au plus tard quatorze jours ouvrables après l'exécution du virement, à une
+indemnité dont les modalités de calcul sont définies par ce même règlement ;
 
 2. Les virements mentionnés au 1 qui ne sont pas menés à leur fin donnent lieu,
 même en l'absence de faute et dans un délai de quatorze jours ouvrables après
 réception d'une demande, à restitution au donneur d'ordre des fonds en cause,
-dans une limite et selon des modalités définies par un règlement du comité de la
-réglementation bancaire et financière.
+dans une limite et selon des modalités définies par un arrêté du ministre chargé
+de l'économie.
 
 Cette restitution est faite sans préjudice des recours de droit commun en
 matière de responsabilité.
@@ -40,5 +39,5 @@ donneur d'ordre ;
 bénéficiaire du virement si la non-exécution est de son fait ou de celui d'un
 établissement intermédiaire choisi par lui ;
 
-5. Un règlement du comité de la réglementation bancaire et financière précise
-les modalités d'application du présent article.
+5. Un arrêté du ministre chargé de l'économie précise les modalités
+d'application du présent article.

@@ -7,5 +7,5 @@ totale du patrimoine. De telles cessions sont réputées répondre aux condition
 définies par l'article L. 214-50.
 
 Les rapports de la société de gestion, des commissaires aux comptes ainsi que
-les projets de résolution de l'assemblée générale sont transmis à la commission
-des opérations de bourse un mois avant la date de l'assemblée générale.
+les projets de résolution de l'assemblée générale sont transmis à l'Autorité des
+marchés financiers un mois avant la date de l'assemblée générale.

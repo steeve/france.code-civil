@@ -24,7 +24,7 @@ ou à l'ordre public français ou lorsqu'une procédure pénale quelconque a dé
 ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive
 pour les mêmes faits.
 
-Sous réserve des attributions du Conseil des marchés financiers et de la
-Commission des opérations de bourse, les dispositions du présent article et des
-articles L. 613-12 et L. 613-13 s'appliquent aux entreprises d'investissement et
-aux activités de services d'investissement des établissements de crédit.
+Sous réserve des attributions de l'Autorité des marchés financiers, les
+dispositions du présent article et des articles L. 613-12 et L. 613-13
+s'appliquent aux entreprises d'investissement et aux activités de services
+d'investissement des établissements de crédit.

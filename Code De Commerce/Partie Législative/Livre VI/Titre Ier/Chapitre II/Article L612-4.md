@@ -1,12 +1,13 @@
 Article L612-4
 ----
 Toute association ayant reçu annuellement de l'Etat ou de ses établissements
-publics ou des collectivités locales une subvention dont le montant est fixé par
-décret doit établir chaque année un bilan, un compte de résultat et une annexe
-dont les modalités d'établissement sont précisées par décret.
+publics ou des collectivités locales une ou plusieurs subventions dont le
+montant global excède un montant fixé par décret doit établir chaque année un
+bilan, un compte de résultat et une annexe dont les modalités d'établissement
+sont précisées par décret.
 
 Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes
-et un suppléant choisis sur la liste mentionnée à l'article L. 225-219 qui
+et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 qui
 exercent leurs fonctions dans les conditions prévues par le livre II sous
 réserve des règles qui leur sont propres. Les dispositions de l'article L.
 242-27 sont applicables.

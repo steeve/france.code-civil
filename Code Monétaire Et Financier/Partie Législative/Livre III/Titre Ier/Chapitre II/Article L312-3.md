@@ -1,14 +1,13 @@
 Article L312-3
 ----
 Nonobstant toutes dispositions contraires, il est interdit à tout établissement
-de crédit qui reçoit du public des fonds en compte à vue ou à moins de cinq ans,
-et par quelque moyen que ce soit, de verser sur ces fonds une rémunération
-supérieure à celle fixée par règlement du comité de la réglementation bancaire
-et financière ou par le ministre chargé de l'économie. Il lui est également
-interdit d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des
-comptes bénéficiant d'une aide publique, notamment sous forme d'exonération
-fiscale, ou d'accepter sur ces comptes des sommes excédant les plafonds ainsi
-autorisés.
+de crédit qui reçoit du public des fonds en compte à vue à moins de cinq ans, et
+par quelque moyen que ce soit, de verser sur ces fonds une rémunération
+supérieure à celle fixée par le ministre chargé de l'économie. Il lui est
+également interdit d'ouvrir ou de maintenir ouverts dans des conditions
+irrégulières des comptes bénéficiant d'une aide publique, notamment sous forme
+d'exonération fiscale, ou d'accepter sur ces comptes des sommes excédant les
+plafonds ainsi autorisés.
 
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
 commission bancaire, les infractions aux dispositions du présent article sont

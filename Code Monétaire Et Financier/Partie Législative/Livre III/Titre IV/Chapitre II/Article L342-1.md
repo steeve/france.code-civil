@@ -1,12 +1,11 @@
 Article L342-1
 ----
-Le colportage des valeurs mobilières est interdit. Se livre au colportage celui
-qui se rend au domicile ou à la résidence des personnes ou sur leurs lieux de
-travail ou dans des lieux publics pour offrir ou acquérir des valeurs mobilières
-avec livraison immédiate des titres et paiement immédiat total ou partiel sous
-quelque forme que ce soit.
+Sont interdits le colportage et le démarchage en vue de la vente, de l'achat ou
+de l'échange de l'or en lingots, barres, monnaies étrangères et pièces d'or
+démonétisées.
 
-Toutefois, ces activités ne sont pas interdites dans les locaux des
-établissements de crédit ou des prestataires de services d'investissement
-lorsqu'elles s'y exercent conformément à la destination de ces locaux ou lieux
-publics et dans les conditions où elles y sont normalement pratiquées.
+Se livre au colportage de ces matières celui qui se rend au domicile des
+particuliers, autres que les banquiers, agents de change et négociants en métaux
+précieux, ou dans les lieux publics non réservés à cet effet, pour offrir ou se
+procurer les matières ci-dessus désignées, avec livraison et paiement immédiats,
+en totalité ou en partie, soit en numéraire, soit en valeurs.

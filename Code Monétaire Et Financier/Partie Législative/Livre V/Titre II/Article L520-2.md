@@ -2,8 +2,8 @@ Article L520-2
 ----
 Pour l'application du présent titre :
 
-Le Comité de la réglementation bancaire et financière peut, par voie de
-règlement, soumettre les changeurs manuels à des règles particulières.
+Le ministre chargé de l'économie peut, par voie d'arrêté, soumettre les
+changeurs manuels à des règles particulières.
 
 La commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels
 dans les conditions prévues à l'article L. 520-3.

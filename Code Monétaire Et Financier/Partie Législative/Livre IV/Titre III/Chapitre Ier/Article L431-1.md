@@ -10,7 +10,7 @@ financier, l'intermédiaire habilité mentionné au premier alinéa de l'article
 et les restrictions dont l'instrument financier peut être frappé et porte un
 code permettant de déterminer l'opération à laquelle il se rattache.
 
-Le règlement général du Conseil des marchés financiers détermine les modalités
-et les délais de circulation du bordereau de références nominatives entre
-l'intermédiaire habilité, le dépositaire central et la personne morale
+Le règlement général de l'Autorité des marchés financiers détermine les
+modalités et les délais de circulation du bordereau de références nominatives
+entre l'intermédiaire habilité, le dépositaire central et la personne morale
 émettrice.

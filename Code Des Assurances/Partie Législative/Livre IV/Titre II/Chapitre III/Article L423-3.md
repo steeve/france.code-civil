@@ -13,4 +13,4 @@ limites prévues par décret en Conseil d'Etat.
 
 Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du
 calcul de sa contribution, dont le montant est arrêté par la Commission de
-contrôle des assurances.
+contrôle des assurances, des mutuelles et des institutions de prévoyance.

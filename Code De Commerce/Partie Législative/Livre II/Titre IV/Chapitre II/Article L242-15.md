@@ -3,21 +3,7 @@ Article L242-15
 Est puni d'une amende de 3750 euros le fait, pour le président ou les
 administrateurs d'une société anonyme :
 
-1° De ne pas faire tenir pour toute réunion de l'assemblée des actionnaires, une
-feuille de présence émargée par les actionnaires présents et les mandataires,
-certifiée exacte par le bureau de l'assemblée, et contenant :
-
-a) Les nom, prénom usuel et domicile de chaque actionnaire présent et le nombre
-d'actions dont il est titulaire, ainsi que le nombre de voix attaché à ces
-actions ;
-
-b) Les nom, prénom usuel et domicile de chaque mandataire et le nombre d'actions
-de ses mandants, ainsi que le nombre de voix attaché à ces actions ;
-
-c) Les nom, prénom usuel et domicile de chaque actionnaire représenté et le
-nombre d'actions dont il est titulaire, ainsi que le nombre de voix attaché à
-ces actions ou, à défaut de ces mentions, le nombre de pouvoirs donnés à chaque
-mandataire ;
+1° Paragraphe abrogé.
 
 2° De ne pas annexer à la feuille de présence les pouvoirs donnés à chaque
 mandataire ;

@@ -11,7 +11,7 @@ Par dérogation aux dispositions de l'alinéa précédent, les transactions qui 
 sont mentionnées peuvent être effectuées en dehors d'un marché réglementé si la
 demande en est faite par des investisseurs résidant habituellement ou établis
 sur le territoire français et si la transaction remplit les conditions définies
-par le règlement général du conseil des marchés financiers concernant son
+par le règlement général de l'Autorité des marchés financiers concernant son
 volume, le statut de l'investisseur, la nature de l'instrument financier négocié
 et l'information du marché réglementé sur lequel cet instrument est admis. Cette
 dérogation est accordée de plein droit pour toutes les transactions qui,

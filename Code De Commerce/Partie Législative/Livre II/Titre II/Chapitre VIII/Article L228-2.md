@@ -2,8 +2,8 @@ Article L228-2
 ----
 I. - En vue de l'identification des détenteurs des titres au porteur, les
 statuts peuvent prévoir que la société émettrice est en droit de demander à tout
-moment, contre rémunération à sa charge, à l'organisme chargé de la compensation
-des titres, selon le cas, le nom ou la dénomination, la nationalité, l'année de
+moment, contre rémunération à sa charge, au dépositaire central d'instruments
+financiers, selon le cas, le nom ou la dénomination, la nationalité, l'année de
 naissance ou l'année de constitution et l'adresse des détenteurs de titres
 conférant immédiatement ou à terme le droit de vote dans ses propres assemblées
 d'actionnaires ainsi que la quantité de titres détenue par chacun d'eux et, le

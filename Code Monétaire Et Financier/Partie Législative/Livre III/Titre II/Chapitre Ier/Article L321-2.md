@@ -19,8 +19,11 @@ concernant les fusions et le rachat d'entreprises ;
 6. Les services de change lorsque ceux-ci sont liés à la fourniture de services
 d'investissement ;
 
-7. La location de coffres-forts.
+7. La location de coffres-forts ;
+
+8. La négociation de marchandises sous-jacentes aux instruments mentionnés au 4
+du II de l'article L. 211-1, lorsqu'elle est liée à l'exécution de ces contrats.
 
 Les conditions dans lesquelles les opérations prévues au 2 sont effectuées par
-les entreprises d'investissement sont fixées par le comité de la réglementation
-bancaire et financière.
+les entreprises d'investissement sont fixées par le ministre chargé de
+l'économie.

@@ -11,17 +11,17 @@ civil. Le transfert de propriété qui en résulte est opposable, dès cet insta
 à la société et aux tiers. La société de gestion garantit la bonne fin de ces
 transactions.
 
-Un règlement de la Commission des opérations de bourse fixe les modalités de
+Un règlement général de l'Autorité des marchés financiers fixe les modalités de
 mise en oeuvre du présent I, et en particulier les conditions d'information sur
 le marché secondaire des parts et de détermination de la période
 d'enregistrement des ordres.
 
 II. Lorsque la société de gestion constate que les ordres de vente inscrits
 depuis plus de douze mois sur le registre mentionné au I représentent au moins
-10 % des parts émises par la société, elle en informe sans délai la Commission
-des opérations de bourse. La même procédure est applicable au cas où les
-demandes de retrait non satisfaites dans un délai de douze mois représentent au
-moins 10 % des parts.
+10 % des parts émises par la société, elle en informe sans délai l'Autorité des
+marchés financiers. La même procédure est applicable au cas où les demandes de
+retrait non satisfaites dans un délai de douze mois représentent au moins 10 %
+des parts.
 
 Dans les deux mois à compter de cette information, la société de gestion
 convoque une assemblée générale extraordinaire et lui propose la cession

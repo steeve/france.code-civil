@@ -5,7 +5,7 @@ sur les prises de participations significatives sont fixées par le 1° et le 2�
 du I et le III de l'article L. 247-1 et par l'article L. 247-2 du code de
 commerce, reproduits ci-après :
 
-" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le
+" I.-Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le
 fait, pour les présidents, les administrateurs, les directeurs généraux ou les
 gérants de toute société :
 
@@ -20,35 +20,34 @@ prise de contrôle d'une telle société ;
 de l'ensemble de la société, des filiales de la société et des sociétés qu'elle
 contrôle par branche d'activité ;
 
-III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux
+III.-Est puni des peines mentionnées au I le fait, pour le commissaire aux
 comptes, de ne pas faire figurer dans son rapport les mentions visées au 1° du I
-du présent article.
+du présent article. "
 
-Art. L. 247-2. - I. - Est puni d'une amende de 18000 euros le fait pour les
+" Art.L. 247-2.-I.-Est puni d'une amende de 18 000 euros le fait, pour les
 présidents, les administrateurs, les membres du directoire, les gérants ou les
 directeurs généraux des personnes morales, ainsi que pour les personnes
 physiques de s'abstenir de remplir les obligations d'informations auxquelles
 cette personne est tenue, en application de l'article L. 233-7, du fait des
 participations qu'elle détient.
 
-II. - Est puni de la même peine le fait, pour les présidents, les
-administrateurs, les membres du directoire, les gérants ou les directeurs
-généraux d'une société, de s'abstenir de procéder aux notifications auxquelles
-cette société est tenue, en application de l'article L. 233-12, du fait des
-participations qu'elle détient dans la société par actions qui la contrôle.
+II.-Est puni de la même peine le fait, pour les présidents, les administrateurs,
+les membres du directoire, les gérants ou les directeurs généraux d'une société,
+de s'abstenir de procéder aux notifications auxquelles cette société est tenue,
+en application de l'article L. 233-12, du fait des participations qu'elle
+détient dans la société par actions qui la contrôle.
 
-III. - Est puni de la même peine le fait, pour les présidents, les
+III.-Est puni de la même peine le fait, pour les présidents, les
 administrateurs, les membres du directoire, les gérants ou les directeurs
 généraux d'une société, d'omettre de faire mention dans le rapport présenté aux
 actionnaires sur les opérations de l'exercice de l'identité des personnes
-détenant des participations significatives dans cette société des modifications
+détenant des participations significatives dans cette société, des modifications
 intervenues au cours de l'exercice, du nom des sociétés contrôlées et de la part
 du capital de la société que ces sociétés détiennent, dans les conditions
 prévues par l'article L. 233-13.
 
-IV. - Est puni de la même peine le fait, pour le commissaire aux comptes,
+IV.-Est puni de la même peine le fait, pour le commissaire aux comptes,
 d'omettre dans son rapport les mentions visées au III.
 
-V. - Pour les sociétés faisant publiquement appel à l'épargne, les poursuites
-sont engagées après que l'avis de la Commission des opérations de bourse a été
-demandé. "
+V.-Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont
+engagées après que l'avis de l'Autorité des marchés financiers a été demandé. "

@@ -1,8 +1,8 @@
 Article L511-18
 ----
-Le comité de la réglementation bancaire et financière précise les conditions
-d'application des articles L. 511-15 à L. 511-17. Il fixe notamment les
-modalités selon lesquelles :
+Le ministre chargé de l'économie précise les conditions d'application des
+articles L. 511-15 à L. 511-17. Il fixe notamment les modalités selon lesquelles
+:
 
 1. Les décisions de retrait d'agrément et de radiation sont portées à la
 connaissance du public ;

@@ -12,3 +12,12 @@ justice la désignation d'un commissaire aux comptes, le président du conseil
 d'administration ou du directoire dûment appelé. Le mandat ainsi conféré prend
 fin lorsqu'il a été pourvu par l'assemblée générale à la nomination du ou des
 commissaires.
+
+Lorsqu'une société de commissaires aux comptes est absorbée par une autre
+société de commissaires aux comptes, la société absorbante poursuit le mandat
+confié à la société absorbée jusqu'à la date d'expiration de ce dernier.
+
+Toutefois, par dérogation aux dispositions du premier alinéa, l'assemblée
+générale de la société contrôlée peut, lors de sa première réunion postérieure à
+l'absorption, délibérer sur le maintien du mandat, après avoir entendu le
+commissaire aux comptes.

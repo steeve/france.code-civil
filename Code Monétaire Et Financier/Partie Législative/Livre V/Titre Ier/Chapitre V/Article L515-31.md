@@ -14,7 +14,8 @@ peut exercer l'action prévue à l'article L. 225-233 du code de commerce.
 Par dérogation aux dispositions du dernier alinéa de l'article L. 225-236 du
 code de commerce, le droit d'information du contrôleur peut s'étendre à la
 communication des pièces, contrats et documents détenus par la société chargée
-de la gestion ou du recouvrement des prêts, des obligations et autres
-ressources, en application de l'article L. 515-22, à condition que ces pièces,
-contrats et documents soient directement en rapport avec les opérations
-réalisées par cette société pour le compte de la société de crédit foncier.
+de la gestion ou du recouvrement des prêts, créances assimilées, titres et
+valeurs, des obligations et autres ressources, en application de l'article L.
+515-22, à condition que ces pièces, contrats et documents soient directement en
+rapport avec les opérations réalisées par cette société pour le compte de la
+société de crédit foncier.

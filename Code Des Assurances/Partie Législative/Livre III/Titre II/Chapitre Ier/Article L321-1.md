@@ -1,7 +1,8 @@
 Article L321-1
 ----
 Les entreprises mentionnées au 1° de l'article L. 310-2 ne peuvent commencer
-leurs opérations qu'après avoir obtenu un agrément administratif. Toutefois, en
+leurs opérations qu'après avoir obtenu un agrément administratif délivré par le
+Comité des entreprises d'assurance mentionné à l'article L. 413-1. Toutefois, en
 ce qui concerne les opérations d'acceptation en réassurance, cet agrément n'est
 pas exigé.
 

@@ -1,7 +1,7 @@
 Article L322-3
 ----
-Un règlement du comité de la réglementation bancaire et financière, pris sur
-avis conforme du conseil des marchés financiers, détermine notamment :
+Un arrêté du ministre chargé de l'économie, pris sur avis conforme de L'Autorité
+des marchés financiers, détermine notamment :
 
 1. Le plafond d'indemnisation par investisseur, les modalités et délais
 d'indemnisation ainsi que les règles relatives à l'information de la clientèle ;

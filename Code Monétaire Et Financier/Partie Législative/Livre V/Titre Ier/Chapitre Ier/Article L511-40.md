@@ -4,7 +4,7 @@ Tout établissement de crédit doit justifier à tout moment que son actif excè
 effectivement d'un montant au moins égal au capital minimum mentionné à
 l'article L. 511-11 le passif dont il est tenu envers les tiers.
 
-Toutefois, le comité de la réglementation bancaire et financière fixe les
-conditions dans lesquelles des établissements résultant de la fusion de deux ou
-plusieurs établissements de crédit, et qui ne satisfont pas aux dispositions du
-précédent alinéa, peuvent poursuivre leurs activités.
+Toutefois, le ministre chargé de l'économie fixe les conditions dans lesquelles
+des établissements résultant de la fusion de deux ou plusieurs établissements de
+crédit, et qui ne satisfont pas aux dispositions du précédent alinéa, peuvent
+poursuivre leurs activités.

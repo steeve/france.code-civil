@@ -17,11 +17,11 @@ d'investissement.
 Pendant cette période :
 
 1. L'entreprise d'investissement demeure soumise au contrôle de la commission
-bancaire et du Conseil des marchés financiers. La commission bancaire, le
-Conseil des marchés financiers et la commission des opérations de bourse peuvent
-prononcer les sanctions disciplinaires prévues aux articles L. 613-21, L. 621-24
-à L. 621-27, L. 622-15 à L. 622-18 à l'encontre de toute entreprise
-d'investissement ayant fait l'objet d'un retrait d'agrément ;
+bancaire et à l'Autorité des marchés financiers. La commission bancaire et
+l'Autorité des marchés financiers peuvent prononcer les sanctions disciplinaires
+prévues à l'article L. 613-21 et les sanctions prévues à l'article L. 621-15 à
+l'encontre de toute entreprise d'investissement ayant fait l'objet d'un retrait
+d'agrément ;
 
 2. Elle ne peut effectuer que des opérations strictement nécessaires à
 l'apurement de ses services d'investissements ;
@@ -38,11 +38,19 @@ d'investissement.
 Au terme de cette période, l'entreprise perd la qualité d'entreprise
 d'investissement et doit avoir changé sa dénomination sociale.
 
-Toute entreprise d'investissement ayant décidé sa dissolution anticipée avant le
-terme de cette période demeure soumise, jusqu'à la clôture de sa liquidation, au
-contrôle de la commission bancaire et du Conseil des marchés financiers. La
-commission bancaire, le Conseil des marchés financiers et la commission des
-opérations de bourse peuvent prononcer les sanctions disciplinaires prévues aux
-articles L. 613-21, L. 621-24 à L. 621-27, L. 622-15 à L. 622-18. L'entreprise
-ne peut faire état de sa qualité d'entreprise d'investissement qu'en précisant
-qu'elle est en liquidation.
+Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil,
+la dissolution anticipée d'une entreprise d'investissement ne peut être
+prononcée qu'après obtention du retrait de son agrément par le Comité des
+établissements de crédit et des entreprises d'investissement ou, lorsque
+l'entreprise est agréée en tant que société de gestion de portefeuille, de
+l'Autorité des marchés financiers. Par dérogation aux articles L. 123-1 et L.
+237-3 du code de commerce, la publication et l'inscription modificative au
+registre du commerce et des sociétés concernant le prononcé de cette dissolution
+doivent mentionner la date de la décision de retrait d'agrément prononcée par le
+Comité des établissements de crédit et des entreprises d'investissement ou par
+l'Autorité des marchés financiers. Jusqu'à la clôture de sa liquidation,
+l'entreprise reste soumise au contrôle de la Commission bancaire ou de
+l'Autorité des marchés financiers, qui peuvent prononcer l'ensemble des
+sanctions prévues, selon les cas, aux articles L. 613-21 et L. 621-15 du présent
+code. L'entreprise ne peut faire état de sa qualité d'entreprise
+d'investissement sans préciser qu'elle est en liquidation.

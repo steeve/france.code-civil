@@ -7,8 +7,8 @@ juillet 1985 portant diverses dispositions d'ordre économique et financier,
 d'une société financière d'innovation mentionnée au III (B) de l'article 4 de la
 loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre
 économique et financier ou d'une société de gestion habilitée à gérer les fonds
-communs de placement régis par les articles L. 214-35, L. 214-36 et L. 214-41 du
-code monétaire et financier.
+communs de placement régis par les articles L. 214-36 et L. 214-41 du code
+monétaire et financier.
 
 Dès lors que les conditions prévues au présent article ne sont plus remplies,
 toute personne physique doit se démettre des mandats ne répondant pas aux

@@ -1,7 +1,7 @@
 Article L512-69
 ----
 Le crédit maritime mutuel est pratiqué par trois catégories d'établissements de
-crédit affiliés à la caisse centrale de crédit coopératif :
+crédit affiliés à la Banque fédérale des banques populaires :
 
 1. Des caisses régionales de crédit maritime mutuel ;
 

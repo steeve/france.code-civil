@@ -1,6 +1,6 @@
 Article L611-4
 ----
-Le Comité de la réglementation bancaire et financière précise également :
+Le ministre chargé de l'économie précise également :
 
 1. Les conditions dans lesquelles les entreprises d'investissement peuvent
 effectuer les opérations mentionnées au 2 de l'article L. 321-2 ;

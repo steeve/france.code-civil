@@ -16,7 +16,12 @@ mutualité ;
 
 5. Aux entreprises d'investissement, aux membres des marchés réglementés
 d'instruments financiers et aux personnes morales mentionnées aux articles L.
-421-8 et L. 442-2 ;
+421-8 et L. 442-2, ainsi qu'aux organismes de placement collectif en valeurs
+mobilières mentionnés au 1 du I de l'article L. 214-1, aux sociétés de gestion
+d'organismes de placements collectifs mentionnées au II de l'article L. 214-1,
+aux intermédiaires en biens divers mentionnés au titre V du présent livre, aux
+personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3
+et L. 341-4 et aux conseillers en investissements financiers.
 
 6. Aux changeurs manuels ;
 
@@ -28,6 +33,9 @@ immobiliers ;
 
 9. Aux personnes se livrant habituellement au commerce ou organisant la vente de
 pierres précieuses, de matériaux précieux, d'antiquités et d'oeuvres d'art.
+
+10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L.
+511-7.
 
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont
 désignées sous le nom d'organismes financiers.

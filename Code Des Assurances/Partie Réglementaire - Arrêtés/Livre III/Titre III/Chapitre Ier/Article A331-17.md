@@ -25,10 +25,11 @@ acceptations couvrant ces catégories ;
 - à l'exercice de souscription pour les catégories 35 à 38 et pour les
 acceptations couvrant ces catégories.
 
-La commission de contrôle des assurances peut prescrire à une entreprise de
-prendre des dispositions appropriées pour le calcul prévu au précédent alinéa ;
-elle peut également, si le taux calculé en application du précédent alinéa
-apparaît insuffisant en raison d'évolutions récentes et significatives de la
-sinistralité ou de la tarification, prescrire l'utilisation d'un taux plus élevé
-; elle peut également, sur la base de justifications appropriées fournies par
-l'entreprise, autoriser l'utilisation d'un taux inférieur.
+La commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance peut prescrire à une entreprise de prendre des dispositions
+appropriées pour le calcul prévu au précédent alinéa ; elle peut également, si
+le taux calculé en application du précédent alinéa apparaît insuffisant en
+raison d'évolutions récentes et significatives de la sinistralité ou de la
+tarification, prescrire l'utilisation d'un taux plus élevé ; elle peut
+également, sur la base de justifications appropriées fournies par l'entreprise,
+autoriser l'utilisation d'un taux inférieur.

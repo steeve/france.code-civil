@@ -1,7 +1,7 @@
 Article L221-11
 ----
 Les dispositions concernant les pouvoirs, les incompatibilités visées à
-l'article L. 225-222, les fonctions, les obligations, la responsabilité, la
+l'article L. 822-3, les fonctions, les obligations, la responsabilité, la
 suppléance, la récusation, la révocation, la rémunération des commissaires aux
 comptes des sociétés anonymes sont applicables aux sociétés en nom collectif,
 sous réserve des règles propres à celles-ci.

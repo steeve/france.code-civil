@@ -1,12 +1,9 @@
 Article L310-17
 ----
-Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 enfreint
-une disposition législative ou réglementaire dans le domaine relevant du
-contrôle de la commission ou a un comportement qui met en péril sa marge de
-solvabilité ou l'exécution des engagements qu'elle a contractés envers les
-assurés, la commission, après avoir mis ses dirigeants en mesure de présenter
-leurs observations, peut lui adresser une mise en garde.
-
-Elle peut, également, dans les mêmes conditions, lui adresser une injonction à
-l'effet de prendre, dans un délai déterminé, toutes mesures destinées à rétablir
-ou renforcer son équilibre financier ou à corriger ses pratiques.
+La commission de contrôle peut adresser à tout organisme ou toute personne
+soumis à son contrôle une recommandation de prendre toutes les mesures
+appropriées pour restaurer ou renforcer sa situation financière, améliorer ses
+méthodes de gestion ou assurer l'adéquation de son organisation à ses activités
+ou à ses objectifs de développement. L'organisme est tenu de répondre dans un
+délai de deux mois en précisant les mesures prises à la suite de cette
+recommandation.

@@ -12,4 +12,4 @@ Le fonds de garantie peut engager toute action en responsabilité à l'encontre
 des dirigeants de droit ou de fait de l'entreprise d'assurance dont la
 défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de
 tout ou partie des sommes versées par lui. Il en informe la Commission de
-contrôle des assurances.
+contrôle des assurances, des mutuelles et des institutions de prévoyance.

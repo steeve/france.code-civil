@@ -3,7 +3,7 @@ Article L227-10
 Le commissaire aux comptes présente aux associés un rapport sur les conventions
 intervenues directement ou par personne interposée entre la société et son
 président, l'un de ses dirigeants, l'un de ses actionnaires disposant d'une
-fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une société
+fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une société
 actionnaire, la société la contrôlant au sens de l'article L. 233-3.
 
 Les associés statuent sur ce rapport.

@@ -4,8 +4,8 @@ Le fonds commun de créances est constitué à l'initiative conjointe d'une soci
 chargée de la gestion du fonds et d'une personne morale dépositaire des actifs
 du fonds.
 
-La société de gestion du fonds doit être agréée par la commission des opérations
-de bourse qui peut, par décision motivée, retirer son agrément.
+La société de gestion du fonds doit être agréée par l'Autorité des marchés
+financiers qui peut, par décision motivée, retirer son agrément.
 
 Cette société de gestion et la personne morale dépositaire des actifs
 établissent une note destinée à l'information préalable des souscripteurs sur

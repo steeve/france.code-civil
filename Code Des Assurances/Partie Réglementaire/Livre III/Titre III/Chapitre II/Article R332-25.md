@@ -1,8 +1,9 @@
 Article R332-25
 ----
-La commission de contrôle des assurances notifie à l'entreprise, par lettre
-recommandée, la liste des éléments de l'actif dont la valeur est à expertiser et
-le nom de l'expert qu'elle a choisi pour chacun d'eux.
+La commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance notifie à l'entreprise, par lettre recommandée, la liste des éléments
+de l'actif dont la valeur est à expertiser et le nom de l'expert qu'elle a
+choisi pour chacun d'eux.
 
 Dans un délai de quinze jours au plus à dater de l'envoi de cette lettre,
 l'entreprise fait connaître à la commission, par lettre recommandée, pour chacun

@@ -3,8 +3,7 @@ Article L312-10
 Le conseil de surveillance exerce le contrôle permanent de la gestion du fonds
 de garantie des dépôts. Il élabore le règlement intérieur du fonds de garantie
 et les règles d'emploi de ses fonds, qui sont homologués par un arrêté du
-ministre chargé de l'économie après approbation par le comité de la
-réglementation bancaire et financière. Il élit en son sein son président.
+ministre chargé de l'économie. Il élit en son sein son président.
 
 Le conseil de surveillance approuve les comptes et nomme les commissaires aux
 comptes. A la fin de chaque exercice, il est remis au ministre chargé de

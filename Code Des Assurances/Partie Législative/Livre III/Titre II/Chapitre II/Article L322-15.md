@@ -7,8 +7,8 @@ a) Trois administrateurs représentant l'Etat, désignés par le ministre de
 l'économie et des finances ;
 
 b) Un administrateur désigné par le ministre de l'économie et des finances en
-raison de sa compétence technique, après avis du conseil national des
-assurances. Un deuxième administrateur est désigné dans les mêmes conditions
+raison de sa compétence technique, après avis du Comité consultatif du secteur
+financier. Un deuxième administrateur est désigné dans les mêmes conditions
 lorsque les actionnaires autres que l'Etat ne sont représentés que par un
 administrateur ;
 

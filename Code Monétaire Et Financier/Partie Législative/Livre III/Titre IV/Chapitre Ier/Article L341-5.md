@@ -1,13 +1,13 @@
 Article L341-5
 ----
-Les dispositions du deuxième alinéa de l'article L. 341-4 ne sont pas
-applicables aux démarcheurs qui, pour le compte d'un établissement de crédit,
-proposent des contrats de financement de ventes à tempérament, à la condition
-que le nom de l'établissement prêteur et le coût du crédit soient mentionnés
-dans le contrat et que le montant total des agios perçus tant par cet
-établissement que par les intermédiaires corresponde au barème que l'organisme
-prêteur est autorisé à pratiquer par le comité des établissements de crédit et
-des entreprises d'investissement.
+Toute personne physique ou morale mandatée pour exercer des activités de
+démarchage bancaire ou financier doit être en mesure de justifier à tout moment
+de l'existence d'un contrat d'assurance la couvrant contre les conséquences
+pécuniaires de sa responsabilité civile professionnelle, en cas de manquement à
+ses obligations professionnelles telles que définies au présent chapitre.
 
-Dans tous les cas, l'emprunteur peut demander l'annulation d'un contrat passé en
-violation des dispositions de l'alinéa précédent.
+Le niveau minimal des garanties qui doivent être apportées par l'assurance de
+responsabilité civile professionnelle est fixé par décret en fonction des
+conditions dans lesquelles l'activité est exercée, notamment de l'existence d'un
+seul ou de plusieurs mandats, et des produits et services faisant l'objet du
+démarchage.
