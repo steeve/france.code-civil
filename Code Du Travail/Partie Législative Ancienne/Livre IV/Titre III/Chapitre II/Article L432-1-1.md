@@ -16,8 +16,8 @@ conditions d'exécution des actions prévues au titre de l'année écoulée.
 
 Préalablement à la réunion de consultation, les membres du comité reçoivent un
 rapport écrit comportant toutes informations utiles sur la situation de
-l'entreprise, notamment celles prévues au présent article et à l'avant-dernier
-alinéa de l'article L. 432-4.
+l'entreprise, notamment celles prévues au présent article et à l'article L.
+432-4-1.
 
 Ce rapport et le procès-verbal de la réunion sont transmis dans un délai de
 quinze jours à l'autorité administrative compétente.

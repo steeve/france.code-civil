@@ -1,13 +1,10 @@
 Article L122-3-16
 ----
-Les contrats de travail à caractère saisonnier peuvent comporter une clause de
-reconduction pour la saison suivante.
-
-Une convention ou un accord collectif peut prévoir que tout employeur ayant
-occupé un salarié dans un emploi à caractère saisonnier doit lui proposer, sauf
-motif réel et sérieux, un emploi de même nature, pour la même saison de l'année
-suivante. La convention ou l'accord doit en définir les conditions, notamment en
-ce qui concerne la période d'essai, et prévoir en particulier dans quel délai
-cette proposition est faite au salarié avant le début de la saison et le montant
-minimum de l'indemnité perçue par le salarié s'il n'a pas reçu de proposition de
-réemploi.
+Les organisations syndicales représentatives peuvent exercer en justice toutes
+actions en application de la présente section en faveur d'un salarié sans avoir
+à justifier d'un mandat de l'intéressé. Celui-ci doit avoir été averti par
+lettre recommandée avec accusé de réception [*condition de forme*] et ne pas s'y
+être opposé dans un délai de quinze jours à compter de la date à laquelle
+l'organisation syndicale lui a notifié son intention. Le salarié peut toujours
+intervenir à l'instance engagée par le syndicat et y mettre un terme à tout
+moment.

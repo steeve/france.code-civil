@@ -57,16 +57,16 @@ prévues par la loi n° 66-537 du 24 juillet 1966 modifiée.
 Le comité d'entreprise reçoit communication des documents comptables établis par
 les entreprises qui ne revêtent pas la forme de société commerciale.
 
-Dans les sociétés [*en difficulté économique*] visées à l'article 340-1 de la
-loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales, les
-documents établis en application de cet article et des articles 340-2 et 340-3
-de la même loi sont communiqués au comité d'entreprise. Il en est de même dans
-les sociétés non visées à cet article qui établissent ces documents. Les
-informations données au comité d'entreprise en application du présent alinéa
-sont réputées confidentielles au sens de l'article L. 432-7. Les dispositions
-qui précèdent s'appliquent aux groupements d'intérêt économique mentionnés à
-l'article 10-1 de l'ordonnance n° 67-821 du 23 septembre 1967 sur les
-groupements d'intérêt économique.
+Dans les sociétés visées à l'article 340-1 de la loi n° 66-537 du 24 juillet
+1966 modifiée sur les sociétés commerciales, les documents établis en
+application de cet article et des articles 340-2 et 340-3 de la même loi sont
+communiqués au comité d'entreprise. Il en est de même dans les sociétés non
+visées à cet article qui établissent ces documents. Les informations données au
+comité d'entreprise en application du présent alinéa sont réputées
+confidentielles au sens de l'article L. 432-7. Les dispositions qui précèdent
+s'appliquent aux groupements d'intérêt économique mentionnés à l'article 10-1 de
+l'ordonnance n° 67-821 du 23 septembre 1967 sur les groupements d'intérêt
+économique.
 
 Le comité d'entreprise reçoit également communication du rapport visé aux
 articles 64-2 et 226 de la loi du 24 juillet 1966 susvisée et des réponses,
@@ -82,18 +82,4 @@ Chaque trimestre dans les entreprises d'au moins trois cents salariés
 également le comité des mesures envisagées en ce qui concerne l'amélioration, le
 renouvellement ou la transformation de l'équipement ou des méthodes de
 production et d'exploitation et de leurs incidences sur les conditions de
-travail et d'emploi. La situation de l'emploi est analysée en retraçant
-l'évolution des effectifs et de la qualification des salariés par sexe, y
-compris pour les salariés sous contrat à durée déterminée, les travailleurs
-temporaires et les salariés appartenant à une entreprise extérieure. L'employeur
-doit également préciser les motifs l'ayant amené à recourir à ces trois
-catégories de personnel. Le comité peut prendre connaissance des contrats passés
-avec les entreprises de travail temporaire pour la mise à disposition des
-travailleurs temporaires ainsi qu'avec les établissements de travail protégé
-lorsque ceux-ci prévoient la formation et l'embauche de travailleurs handicapés
-par l'entreprise.
-
-Les contrats de stage d'initiation à la vie professionnelle prévus à l'article
-L. 980-9 sont pris en compte dans l'analyse de la situation de l'emploi visée à
-l'alinéa précédent. Il en est de même des contrats de retour à l'emploi prévus à
-l'article L. 322-4-2.
+travail et d'emploi.

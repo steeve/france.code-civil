@@ -47,16 +47,16 @@ de créances mentionnés au 1° bis du III bis du présent article.
 
 III bis. Le taux du prélèvement est fixé :
 
-1° A 15 % pour les produits d'obligations négociables et de titres
-participatifs.
+1° A 15 % pour les produits d'obligations négociables et de titres participatifs
+(3).
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements
 effectués dans les fonds salariaux et aux produits capitalisés sur un plan
 d'épargne populaire dont la durée est égale ou supérieure à 4 ans ;
 
-I° bis. A 15 p. 100 pour les produits des titres de créances négociables sur un
+1° bis. A 15 p. 100 pour les produits des titres de créances négociables sur un
 marché réglementé en application d'une disposition législative particulière et
-non susceptibles d'être cotés.
+non susceptibles d'être cotés (3).
 
 2° A un tiers pour les produits des bons du Trésor sur formules, des bons
 d'épargne des PTT, des bons de la caisse nationale du crédit agricole, des bons
@@ -72,28 +72,29 @@ janvier 1980 ;
 
 4° A 38 % pour les produits des bons et titres émis à compter de la date
 d'entrée en vigueur de la loi n° 80-30 du 18 janvier 1980 et avant le 1er
-janvier 1983 lorsque le bénéficiaire des intérêts communique aux établissements
-payeurs, au moment du paiement, son identité et son domicile fiscal, et à 42 %
-lorsque cette condition n'est pas remplie ;
+janvier 1983 lorsque le bénéficiaire des intérêts autorise l'établissement
+payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
+à l'administration fiscale,
+
+et à 42 % lorsque cette condition n'est pas remplie ;
 
 5° A 38 % pour les produits des placements, autres que les bons et titres,
 courus du 1er janvier 1980 au 31 décembre 1982 inclus ;
 
 6° A 45 % pour les produits des bons et titres émis à compter du 1er janvier
 1983 et à 35 p. 100 pour les produits des bons et titres émis à compter du 1er
-janvier 1990, lorsque le bénéficiaire des intérêts communique aux établissements
-payeurs, au moment du paiement, son identité et son domicile fiscal, et à 50 %
-lorsque cette condition n'est pas remplie ;
+janvier 1990, lorsque le bénéficiaire des intérêts autorise l'établissement
+payeur, au moment du paiement, à communiquer son identité et son domicile fiscal
+à l'administration fiscale, et à 50 % lorsque cette condition n'est pas remplie
+;
 
 7° A 45 % pour les produits des placements, autres que les bons et titres courus
-à partir du 1er janvier 1983, et à 35 p. 100 pour les produits de placements
-courus à partir du 1er janvier 1990.
-
-et à 50 % lorsque cette condition n'est pas remplie ;
+à partir du 1er janvier 1983, à 35 p. 100 pour les produits de placements courus
+à partir du 1er janvier 1990.
 
 8° A 15 p. 100 pour les produits des parts émises par les fonds communs de
 créances. Le boni de liquidation peut être soumis à ce prélèvement au taux de 35
-p. 100.
+p. 100 (3).
 
 IV. L'option pour le prélèvement est subordonnée :
 
@@ -114,10 +115,12 @@ d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une
 profession non commerciale.
 
 VI. Les modalités et conditions d'application du présent article sont fixées par
-décret (3).
+décret (4).
 
 (1) Annexe IV, art. 6 quater et 6 quinquies.
 
 (2) Voir décret n° 76-79 du 26 janvier 1976 (J.O. du 29).
 
-(3) Annexe III, art. 41 duodecies A à 41 duodecies H.
+(3) Taux applicable aux produits encaissés à compter du 1er janvier 1990.
+
+(4) Annexe III, art. 41 duodecies A à 41 duodecies H.

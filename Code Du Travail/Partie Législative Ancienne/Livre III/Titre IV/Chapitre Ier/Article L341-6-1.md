@@ -13,14 +13,12 @@ la période d'emploi illicite :
 
 1° Au paiement du salaire et des accessoires de celui-ci conformément aux
 dispositions législatives ou réglementaires et aux stipulations contractuelles
-applicables à son emploi,
-
-déduction faite des sommes antérieurement perçues au titre de la période
-considérée ;
+applicables à son emploi, déduction faite des sommes antérieurement perçues au
+titre de la période considérée ;
 
 2° En cas de rupture de la relation de travail, a une indemnité forfaitaire
 égale à un mois de salaire à moins que l'application des règles figurant aux
-articles L. 122-3-5, L. 122-3-8, L. 122-3-9 (2ème alinéa), L. 122-8 et L. 122-9
+articles L. 122-3-4, L. 122-3-8, deuxième alinéa, L. 122-8 et L. 122-9
 [*relatives aux indemnités de préavis et de licenciement*] ou des stipulations
 contractuelles correspondantes ne conduise à une solution plus favorable.
 

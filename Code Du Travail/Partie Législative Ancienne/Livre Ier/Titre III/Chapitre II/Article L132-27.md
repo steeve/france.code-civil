@@ -4,14 +4,16 @@ Dans les entreprises où sont constituées une ou plusieurs sections syndicales
 d'organisations représentatives au sens de l'article L. 132-2, l'employeur est
 tenu d'engager chaque année une négociation sur les salaires effectifs
 [*périodicité*], la durée effective et l'organisation du temps de travail. Cette
-négociation est l'occasion d'un examen par les parties de l'évolution et des
-prévisions annuelles ou pluriannuelles d'emploi établies dans l'entreprise. A
-défaut d'une initiative de ce dernier depuis plus de douze mois suivant la
-précédente négociation, la négociation s'engage obligatoirement à la demande
-d'une organisation syndicale représentative dans le délai fixé à l'article L.
-132-28 ci-après ; la demande de négociation formulée par l'organisation
-syndicale est transmise dans les huit jours par l'employeur aux autres
-organisations représentatives.
+négociation est l'occasion d'un examen par les parties de l'évolution de
+l'emploi dans l'entreprise, et notamment du nombre des contrats de travail à
+durée déterminée, des missions de travail temporaire et du nombre des journées
+de travail effectuées par les intéressés, ainsi que des prévisions annuelles ou
+pluriannuelles d'emploi établies dans l'entreprise. A défaut d'une initiative de
+ce dernier depuis plus de douze mois suivant la précédente négociation, la
+négociation s'engage obligatoirement à la demande d'une organisation syndicale
+représentative dans le délai fixé à l'article L. 132-28 ci-après ; la demande de
+négociation formulée par l'organisation syndicale est transmise dans les huit
+jours par l'employeur aux autres organisations représentatives.
 
 Dans les entreprises visées à l'alinéa précédent, comportant des établissements
 ou groupes d'établissements distincts, cette négociation peut avoir lieu au

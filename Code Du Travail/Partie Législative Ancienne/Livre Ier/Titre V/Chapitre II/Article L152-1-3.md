@@ -1,5 +1,7 @@
 Article L152-1-3
 ----
-Toute infraction aux dispositions de l'article L. 122-42 est punie d'une amende
-de 2000 F à 20000 F et, en cas de récidive, d'une amende de 10000 F à 40000 F
-[*montant*].
+Toute violation par l'employeur des dispositions des articles L. 122-1, L.
+122-1-1, L. 122-1-2, L. 122-2, L. 122-2-1, L. 122-3 et L. 122-3-11 est punie
+d'une amende de 4 000 F à 20 000 F [*montant*] et, en cas de récidive, d'une
+amende de 8 000 F à 40 000 F et d'un emprisonnement de deux mois à six mois
+[*durée*] ou de l'une de ces deux peines seulement.

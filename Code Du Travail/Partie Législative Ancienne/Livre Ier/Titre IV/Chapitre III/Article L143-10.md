@@ -15,9 +15,9 @@ fois le plafond retenu pour le calcul des cotisations de sécurité sociale
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement
 les salaires, appointements ou commissions proprement dites mais encore tous les
-accessoires et notamment l'indemnité de fin de contrat [*à durée déterminée*]
-mentionnée à l'article L. 122-3-5, l'indemnité pour inobservation du délai congé
-mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à
-l'article L. 122-32-6 et l'indemnité de précarité d'emploi mentionnée à
-l'article L. 124-4-4 et ainsi que la contribution de l'employeur à l'allocation
-de conversion due au titre d'une convention visée à l'article L. 322-3.
+accessoires et notamment l'indemnité [*de précarité*] mentionnée à l'article L.
+122-3-4, l'indemnité pour inobservation du délai congé mentionnée à l'article L.
+122-8, l'indemnité compensatrice mentionnée à l'article L. 122-32-6 et
+l'indemnité mentionnée à l'article L. 124-4-4 et ainsi que la contribution de
+l'employeur à l'allocation de conversion due au titre d'une convention visée à
+l'article L. 322-3.

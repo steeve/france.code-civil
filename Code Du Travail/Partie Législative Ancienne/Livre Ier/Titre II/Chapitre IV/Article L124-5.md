@@ -12,8 +12,8 @@ transport.
 A défaut, ou si le nouveau contrat est d'une durée inférieure à celle restant à
 courir du contrat précédent, l'entrepreneur de travail temporaire doit assurer
 au salarié une rémunération équivalente à celle qu'il aurait perçue jusqu'au
-terme du contrat, y compris l'indemnité de précarité d'emploi mentionnée à
-l'article L. 124-4-4.
+terme du contrat, y compris l'indemnité destinée à compenser la précarité de sa
+situation mentionnée à l'article L. 124-4-4.
 
 Toutefois, lorsque la durée restant à courir du contrat rompu est supérieure à
 quatre semaines, les obligations visées aux alinéas précédents peuvent être

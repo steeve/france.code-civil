@@ -13,3 +13,11 @@ Les délégués du personnel qui exercent les attributions économiques du comit
 d'entreprise dans les conditions prévues à l'article L. 431-3 [*carence de
 comité d'entreprise*] bénéficient, en outre, d'un crédit de vingt heures par
 mois.
+
+Dans les entreprises de travail temporaire, les heures de délégation utilisées
+entre deux missions, conformément à des dispositions conventionnelles, par un
+délégué du personnel titulaire, pour l'exercice de son mandat, sont considérées
+comme des heures de travail. Elles sont réputées être rattachées, pour ce qui
+concerne leur rémunération et les charges sociales y afférentes, au dernier
+contrat de travail avec l'entreprise de travail temporaire au titre de laquelle
+il a été élu délégué du personnel titulaire.
