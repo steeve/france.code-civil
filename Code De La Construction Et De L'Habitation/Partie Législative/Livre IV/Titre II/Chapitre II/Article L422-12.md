@@ -1,8 +1,19 @@
 Article L422-12
 ----
-Par dérogation aux dispositions des articles 153 et 155 de la loi n. 66-537 du
-24 juillet 1966, sur les sociétés commerciales, modifiée, les règles de quorum
-et de majorité prévues à ces articles sont calculées dans les assemblées des
-sociétés coopératives d'habitations à loyer modéré mentionnées aux articles L.
-422-3 et L. 422-13 en fonction du nombre des associés présents ou représentés et
-non pas du nombre des actions.
+Les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
+coopération sont applicables aux sociétés anonymes coopératives d'habitations à
+loyer modéré mentionnées aux articles L. 422-3 et L. 422-13, à l'exception des
+dispositions des troisième et quatrième alinéas de son article 16 et de son
+article 18.
+
+Pour l'application de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947
+précitée, les associés ayant qualité d'organismes d'habitation à loyer modéré
+énumérés à l'article L. 411-2 bénéficient des dispositions fixées par le
+troisième alinéa de cet article.
+
+Lorsqu'il est fait application de l'article 25 de la loi n° 47-1775 du 10
+septembre 1947 précitée par une société coopérative d'habitations à loyer
+modéré, les réserves ne peuvent être distribuées aux associés ni incorporées au
+capital de la société issue de la transformation. En cas de dissolution de
+ladite société, la partie de l'actif net de liquidation correspondant à ces
+réserves doit être attribuée conformément à l'article L. 422-11.

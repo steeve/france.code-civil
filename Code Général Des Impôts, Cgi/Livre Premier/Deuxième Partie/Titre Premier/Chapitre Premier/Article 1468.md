@@ -1,6 +1,6 @@
 Article 1468
 ----
-I La base de la taxe professionnelle est réduite (1) :
+I. La base de la taxe professionnelle est réduite (1) :
 
 1° Pour les coopératives et unions de coopératives agricoles et les sociétés
 d'intêrêt collectif agricole, de moitié ;
@@ -33,20 +33,28 @@ de transformation, de réparation ou des prestations de services et pour lesquel
 la rémunération du travail représente plus de 50 % du chiffre d'affaires global,
 tous droits et taxes compris :
 
--des trois-quarts, lorsqu'ils emploient un salarié et pour lesquels la
+Des trois-quarts, lorsqu'ils emploient un salarié et pour lesquels la
 rémunération du travail représente plus de 50 p. 100 du chiffre d'affaires
 global, tous droits et taxes compris (3).
 
--de la moitié, lorsqu'ils emploient deux salariés ;
+De la moitié, lorsqu'ils emploient deux salariés ;
 
--d'un quart, lorsqu'ils emploient trois salariés.
+D'un quart, lorsqu'ils emploient trois salariés.
 
 Les apprentis sous contrat ne sont pas comptés au nombre des salariés.
 
 La rémunération du travail s'entend de la somme du bénéfice, des salaires versés
 et des cotisations sociales y afférentes.
 
-II (Dispositions devenues sans objet).
+3° Pour les sociétés coopératives et unions de sociétés coopératives d'artisans,
+les sociétés coopératives et unions de sociétés coopératives de
+patrons-bateliers et les sociétés coopératives maritimes, de moitié, lorsque
+leur capital est détenu à concurrence de 20 p. 100 au moins et de 50 p. 100 au
+plus par des associés non coopérateurs au sens du 1 quinquies de l'article 207
+et des titulaires de certificats coopératifs d'investissement lorsque les
+statuts prévoient qu'ils peuvent être rémunérés.
+
+II. (Dispositions devenues sans objet).
 
 (1) Annexe II, art. 310 HA.
 

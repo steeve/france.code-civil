@@ -1,17 +1,38 @@
 Article L422-3
 ----
 Les sociétés anonymes coopératives de production d'habitations à loyer modéré
-ont pour objet d'assister, à titre de prestataires de services, des personnes
-physiques et des sociétés coopératives de construction, constituées en
-application du livre II, titre Ier, chapitre III, pour la réalisation et la
-gestion de programmes de construction en accession à la propriété.
+ont pour objet :
 
-Elles peuvent également réaliser des hébergements de loisirs à vocation sociale
-selon les modalités prévues à l'article L. 421-1, lorsqu'elles bénéficient de
-l'extension de compétences prévues à l'article L. 422-3-1.
+" 1° D'assister, à titre de prestataires de services, des personnes physiques et
+des sociétés coopératives de construction, constituées en application du
+chapitre III du titre Ier du livre II, pour la réalisation et la gestion de
+programmes de construction en accession à la propriété ;
 
-Toutefois, à défaut de pouvoir constituer une société coopérative de
-construction en raison de la dispersion des parcelles, les sociétés anonymes
-coopératives de production d'habitations à loyer modéré peuvent procéder à la
-construction de maisons individuelles destinées à être vendues en l'état futur
-d'achèvement à des personnes physiques [*attributions*].
+" 2° En vue de l'accession à la propriété, de construire, acquérir, réaliser des
+travaux, vendre et gérer des immeubles à usage d'habitation ou à usage
+professionnel ou d'habitation ou destinés à cet usage ;
+
+" 3° D'assister, à titre de prestataires de services, des personnes physiques ou
+morales en vue de la réalisation de tous travaux portant sur des immeubles
+existants et destinés à usage d'habitation ou à usage professionnel et
+d'habitation ;
+
+" 4° De réaliser des lotissements ;
+
+" 5° De réaliser des hébergements de loisir à vocation sociale selon les
+modalités prévues à l'article L. 421-1.
+
+" Toute opération réalisée en application du 2° du présent article doit faire
+l'objet d'une garantie de financement et d'une garantie d'acquisition des locaux
+non vendus.
+
+" Les sociétés anonymes coopératives de production d'habitations à loyer modéré
+font procéder périodiquement à l'examen analytique de leur situation financière
+et de leur gestion. Un décret en Conseil d'Etat, pris après avis du comité
+permanent du Conseil supérieur des habitations à loyer modéré, détermine les
+modalités de mise en oeuvre de la procédure, dite de révision coopérative,
+
+définie au présent alinéa, ainsi que les conditions d'agrément garantissant le
+pluralisme de son exercice et le respect des principes coopératifs.
+
+" Un décret détermine les modalités d'application du présent article. "

@@ -14,5 +14,6 @@ dans celui des habitants de cette région sans distinction professionnelle.
 
 Les sociétés d'intérêt collectif agricole ont le statut de société coopérative
 et sont régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la
-coopération, à l'exception des articles 3, 4, 9, du deuxième alinéa de l'article
-16 et des deuxième et troisième alinéas de l'article 27.
+coopération, à l'exception des articles 3, 3 bis, 4, 9, des deux derniers
+alinéas de l'article 11, de l'article 11 bis, du deuxième alinéa de l'article 16
+et des deuxième et troisième alinéas de l'article 27.

@@ -13,9 +13,8 @@ excédents annuels des caisses régionales de crédit agricole mutuel doivent ê
 soumis à l'approbation de la caisse nationale de crédit agricole un mois au
 moins avant la tenue de l'assemblée générale.
 
-En aucun cas, il ne peut être attribué aux parts sociales, dans la limite du
-taux maximum fixé à l'article 618, 3e alinéa, un intérêt supérieur à celui qui a
-été approuvé par la caisse nationale de crédit agricole.
+En aucun cas, il ne peut être attribué aux parts sociales un intérêt supérieur à
+celui qui a été approuvé par la caisse nationale de crédit agricole.
 
 Les comptes annuels des caisses locales sont soumis, dans les mêmes conditions,
 à l'approbation des caisses régionales de crédit agricole mutuel.
