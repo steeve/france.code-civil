@@ -1,13 +1,9 @@
 Article R*421-17
 ----
-Au bureau mentionné à l'article R. 421-15 sont adjoints, pour constituer le
-conseil restreint, trois administrateurs élus dans les mêmes conditions que les
-membres du bureau.
+Le conseil d'administration peut former en son sein des commissions chargées
+d'étudier des questions qu'il détermine expressément.
 
-Outre les pouvoirs qui peuvent lui être délégués par le conseil d'administration
-en vertu de l'article précédent, le conseil restreint contrôle, pour le compte
-du conseil d'administration, l'application que fait le directeur général de la
-politique décidée par ledit conseil, et, à ce titre, il peut demander toutes
-justifications au directeur général.
-
-Il rend compte de son activité au conseil d'administration.
+Elles sont convoquées par le président du conseil d'administration, qui en est
+le président de droit. Au cours de leur première réunion les commissions
+désignent un vice-président qui peut les convoquer et les présider si le
+président est absent ou empêché.

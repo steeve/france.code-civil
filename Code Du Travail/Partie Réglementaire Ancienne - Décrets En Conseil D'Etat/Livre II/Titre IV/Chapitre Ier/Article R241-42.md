@@ -17,8 +17,11 @@ Afin d'éviter toute altération de la santé des salariés du fait de leur trav
 il est informé :
 
 De la nature et de la composition des produits utilisés ainsi que de leurs
-modalités d'emploi. Indépendamment des dispositions de l'article L. 231-7 et des
+modalités d'emploi, indépendamment des dispositions de l'article L. 231-7 et des
 règlements pris pour son application ;
 
 Des résultats de toutes les mesures et analyses effectuées dans les domaines
 visés à l'article R. 241-41.
+
+Il peut également demander à tout moment communication des documents mentionnés
+à l'article L. 620-6, premier alinéa.

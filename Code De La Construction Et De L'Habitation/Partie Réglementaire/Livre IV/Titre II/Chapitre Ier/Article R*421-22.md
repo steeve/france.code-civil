@@ -16,11 +16,9 @@ fixe les effectifs et la rémunération du personnel dans la limite des crédits
 prévus à cet effet par le budget et dans les conditions prévues par l'article 27
 du décret n. 73-986 du 22 octobre 1973.
 
-Il fournit au conseil restreint et au conseil d'administration les informations
-qu'ils demandent.
+Il fournit au conseil d'administration les informations qu'ils demandent.
 
-Il rend compte de sa gestion au conseil d'administration et au conseil
-restreint.
+Il rend compte de sa gestion au conseil d'administration.
 
 Il présente annuellement au conseil d'administration un rapport sur sa gestion.
 

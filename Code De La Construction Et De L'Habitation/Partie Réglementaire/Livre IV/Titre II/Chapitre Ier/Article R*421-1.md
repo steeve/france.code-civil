@@ -1,35 +1,28 @@
 Article R*421-1
 ----
-Les offices publics d'habitations à loyer modéré peuvent demander à être
-transformés en offices publics d'aménagement et de construction. Cette
-transformation est prononcée par décret en Conseil d'Etat pris sur le rapport du
-ministre chargé de la construction et de l'habitation, du ministre chargé des
-finances et du ministre de l'intérieur, après avis de la collectivité locale ou
-de l'établissement public local qui a participé à leur dotation, du [*comité
-départemental des habitations à loyer modéré*] conseil départemental de
-l'habitat du département du siège, du conseil général, du préfet, du comité
-régional des habitations à loyer modéré, s'il a été constitué, du préfet de
-région et du conseil supérieur des habitations à loyer modéré.
+Sur leur demande, et après avis conforme de la collectivité locale ou de
+l'établissement public de rattachement les offices publics d'habitations à loyer
+modéré peuvent être transformés en office public d'aménagement et de
+construction.
+
+Cette transformation est prononcée par arrêté du ministre chargé de l'intérieur
+et de la décentralisation, du ministre chargé des finances et du ministre chargé
+de l'urbanisme et du logement, après avis du Conseil supérieur des habitations à
+loyer modéré.
 
 Deux ou plusieurs offices publics d'habitations à loyer modéré appartenant à une
 même région peuvent demander à se transformer par voie de fusion en un seul
 office public d'aménagement et de construction ; cette transformation est
-soumise aux règles fixées à l'alinéa précédent.
+soumise aux règles fixées aux alinéas précédents.
 
-Seuls peuvent obtenir la transformation mentionnée aux deux premiers alinéas les
-offices publics d'habitations à loyer modéré dont la compétence et la qualité de
-la gestion sur les plans administratif, financier, technique et social ont été
-constatées.
+Seuls peuvent obtenir la transformation les offices publics d'habitations à
+loyer modéré dont la qualité de gestion est compatible avec une telle opération.
+Cette qualité est appréciée au regard de la situation financière et des
+perspectives d'activité de l'office ainsi que des résultats d'un contrôle opéré
+en vertu de l'article L. 451-1.
 
-A cet effet, ils doivent faire l'objet d'un contrôle opéré en vertu de l'article
-L. 451-1, à moins qu'un tel contrôle ait été effectué au cours de l'année
-précédant la demande de transformation.
-
-Ces offices doivent avoir des capacités administratives, techniques et
-financières qui leur permettent, au cours de chacune des trois années suivant la
-transformation, de réaliser au moins 500 logements ou des opérations
-d'aménagement nécessitant la mise en oeuvre de moyens d'une importance
-équivalente.
+Seuls sont soumis à ce contrôle les offices n'en ayant pas fait l'objet au cours
+des douze mois précédant la demande de transformation.
 
 L'office public d'aménagement et de construction est substitué dans les droits
 et obligations du ou des offices publics d'habitations à loyer modéré dont il

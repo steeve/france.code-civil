@@ -11,4 +11,4 @@ b) La nature des travaux incompatibles avec certains types de handicaps ;
 
 c) Les modalités de rémunération de la prestation de service ;
 
-d) Les conditions d'une offre d'embauche à l'issue du contrat.
+d) Les conditions d'une offre d'embauche.

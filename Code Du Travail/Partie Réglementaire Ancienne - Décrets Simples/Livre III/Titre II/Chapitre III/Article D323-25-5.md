@@ -10,4 +10,4 @@ travail à accomplir ;
 
 c) Les éléments et les modalités de paiement de la rémunération due au salarié ;
 
-d) Les conditions d'une offre d'embauche à l'issue du contrat.
+d) Les conditions d'une offre d'embauche.

@@ -7,8 +7,8 @@ Il veille à la conservation des droits, privilèges et hypothèques de l'office
 fait, le cas échéant, au directeur général toutes représentations utiles pour
 que soit assurée cette conservation.
 
-Dans le cadre défini par le conseil restreint, il se concerte avec le directeur
-général sur les modalités et délais de recouvrement.
+Dans le cadre défini par le conseil d'administration, il se concerte avec le
+directeur général sur les modalités et délais de recouvrement.
 
 Les produits de l'office sont recouvrés soit en vertu de contrats et de
 jugements exécutoires, soit, à défaut, en vertu d'états émis et rendus
@@ -25,10 +25,10 @@ de leur inexécution.
 
 Sauf lorsqu'il s'agit d'une dette de l'agent comptable ou d'un régisseur, les
 créances peuvent faire l'objet d'une remise gracieuse par le conseil
-d'administration ou, sur délégation de celui-ci, par le conseil restreint.
+d'administration.
 
-Indépendamment de la contribution prévue à l'article R.421-30, des indemnités de
-fonction et de sujétions peuvent être allouées à l'agent comptable par le
+Indépendamment de la contribution prévue à l'article R. 421-30, des indemnités
+de fonction et de sujétions peuvent être allouées à l'agent comptable par le
 conseil d'administration, conformément à un barème déterminé conjointement par
 le ministre chargé des finances et le ministre chargé de la construction et de
 l'habitation.

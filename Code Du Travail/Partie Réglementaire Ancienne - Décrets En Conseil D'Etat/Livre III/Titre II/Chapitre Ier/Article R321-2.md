@@ -43,3 +43,21 @@ main-d'oeuvre [*compétence*] qui en avise l'employeur par lettre recommandée.
 Cette lettre peut être remplacée par une notification accompagnée d'un reçu que
 l'employeur date et signe. Si l'employeur refuse de recevoir notification, il
 fait mention de ce refus sur ledit reçu.
+
+Lorsqu'un employeur est conjointement assujetti aux dispositions des articles L.
+122-1-1 et L. 321-1, la demande doit comporter :
+
+1° Les informations mentionnées aux 1° à 6° ci-dessus ; toutefois pour
+l'application de l'article L. 122-1-1 (2°) les nom, prénoms, nationalité, date
+de naissance, sexe et adresse prévus au 3° ci-dessus pourront être fournis au
+plus tard à la date de recrutement du salarié ;
+
+2° Les justifications du recours au contrat à durée déterminée ;
+
+3° Le cas échéant les informations mentionnées au 3° de l'article D. 121-5.
+
+Dans ce cas la décision prise sur cette demande doit parvenir à l'employeur dans
+un délai de quinze jours à compter de la date de réception de celle-ci.
+
+A défaut de réception d'une décision dans ce délai, l'autorisation demandée est
+réputée acquise [*accord tacite*].
