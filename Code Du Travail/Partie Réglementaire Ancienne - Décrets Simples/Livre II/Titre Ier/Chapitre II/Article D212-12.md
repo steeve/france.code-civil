@@ -1,8 +1,7 @@
 Article D212-12
 ----
 Dans les établissements et professions assujetties à la réglementation de la
-durée du travail, et pour lesquels est intervenu un décret pris en application
-de l'article L. 212-2, à l'exception des entreprises de transport soumises au
+durée du travail, à l'exception des entreprises de transport soumises au
 contrôle technique du ministère des transports, le dépassement de la durée
 quotidienne du travail effectif, fixée à dix heures par le deuxième alinéa de
 l'article L. 212-1, peut être autorisé dans tous les cas où un surcroît
