@@ -5,8 +5,8 @@ droit concernant les obligations de versement ou de dépôt prévues aux article
 L. 261-10 à L. 261-12 ne produisent effet qu'un mois après la date de la
 sommation ou du commandement de payer demeuré infructueux.
 
-Un délai peut être demandé pendant le mois ainsi imparti, conformément à
-l'article 1244 du code civil.
+Un délai peut être demandé pendant le mois ainsi imparti, conformément aux
+articles 1244-1 à 1244-3 du code civil.
 
 Les effets des clauses de résolution de plein droit sont suspendus pendant le
 cours des délais octroyés dans les conditions prévues à l'article 1244 du code
