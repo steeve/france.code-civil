@@ -39,4 +39,8 @@ logements situés dans des copropriétés connaissant des difficultés important
 de fonctionnement ou être syndics de ces copropriétés ;
 
 - réaliser des hébergements de loisirs à vocation sociale dans les conditions
-prévues à l'article L. 421-1.
+prévues à l'article L. 421-1 ;
+
+Elles peuvent aussi prendre à bail des logements vacants pour les donner en
+sous-location à des personnes physiques dans les conditions fixées par les
+articles L. 444-1 et suivants.
