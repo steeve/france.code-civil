@@ -13,3 +13,6 @@ prescription de prolongation.
 
 L'arrêté mentionné au deuxième alinéa de l'article L. 321-2 est pris par le
 ministre chargé de la sécurité sociale .
+
+La caisse fixe dans son règlement intérieur les modalités selon lesquelles les
+lettres mentionnées aux alinéas ci-dessus lui sont envoyées ou remises.
