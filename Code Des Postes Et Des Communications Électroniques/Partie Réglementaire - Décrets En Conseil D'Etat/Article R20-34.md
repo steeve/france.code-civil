@@ -5,42 +5,41 @@ perçoivent l'allocation de solidarité spécifique ou l'allocation aux adultes
 handicapés et qui ont souscrit un abonnement au service téléphonique fixe auprès
 de l'opérateur qui les dessert, autorisé selon les conditions fixées au III,
 bénéficient, sur leur demande, d'une réduction de leur facture téléphonique. A
-cette fin, elles adressent chaque année leur demande à l'organisme gestionnaire
-de la prestation au titre de laquelle le droit à réduction tarifaire leur est
-ouvert. Cette demande précise que l'intéressé autorise l'organisme à communiquer
-les informations personnelles suivantes aux opérateurs concernés : nom, prénom,
-adresse et numéro de téléphone. L'organisme transmet à ces opérateurs la liste
-de leurs abonnés ayants droit.
+cette fin, l'organisme gestionnaire de la prestation au titre de laquelle le
+droit à réduction tarifaire est ouvert leur délivre chaque année une
+attestation. L'intéressé transmet ladite attestation accompagnée du nom de
+l'opérateur qui le dessert et du numéro de sa ligne téléphonique au prestataire,
+chargé par les opérateurs de la gestion du dispositif de réduction tarifaire, et
+autorise ce prestataire à communiquer les informations suivantes aux opérateurs
+concernés : nom, prénom, adresse et numéro de téléphone.
 
-Peuvent également bénéficier de cette même réduction, majorée de 25 F hors taxes
-par mois, les invalides de guerre cumulant le bénéfice des articles L. 16 et L.
-18 du code des pensions militaires d'invalidité et des victimes de la guerre
-dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul du
-complément de pension prévu à l'article L. 16 dudit code, les aveugles de guerre
-bénéficiaires de l'article L. 18 du code précité et les aveugles de la
+Peuvent également bénéficier de cette même réduction, majorée de 4 euros hors
+taxes par mois, les invalides de guerre cumulant le bénéfice des articles L. 16
+et L. 18 du code des pensions militaires d'invalidité et des victimes de la
+guerre dont les invalidités supplémentaires sont évaluées à 10 % pour le calcul
+du complément de pension prévu à l'article L. 16 dudit code, les aveugles de
+guerre bénéficiaires de l'article L. 18 du code précité et les aveugles de la
 Résistance bénéficiaires de l'article L. 189 du même code.
 
 Le ministre chargé des télécommunications fixe au 1er novembre de chaque année
 pour l'année suivante, par arrêté, pris après avis de l'Autorité de régulation
 des télécommunications, le montant mensuel de la réduction tarifaire accordée.
-Le montant hors taxe de cette réduction est au plus égal à la moitié du tarif
-d'abonnement mensuel de référence défini à l'article R. 20-32.
-
 Le montant de la compensation versée à chaque opérateur par le fonds de service
 universel des télécommunications est égal au coût net de l'offre tarifaire
-auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires.
-Le coût net de l'offre tarifaire est égal au produit du montant des réductions
-tarifaires accordées par le nombre des abonnés de l'opérateur qui en
-bénéficient.
+auquel s'ajoutent les coûts de gestion exposés par les organismes gestionnaires
+et par le prestataire chargé de la gestion du dispositif de réduction tarifaire
+pour le compte des opérateurs. Le coût net de l'offre tarifaire est égal au
+produit du montant des réductions tarifaires accordées par le nombre des abonnés
+de l'opérateur qui en bénéficient.
 
 II. - Les personnes physiques utilisant, au lieu de leur résidence principale,
 un service téléphonique fixe d'un opérateur autorisé selon les conditions fixées
 au III peuvent demander une aide pour assurer le paiement de leur dette
 téléphonique. Les dépenses prises en charge comprennent exclusivement
 l'abonnement au service téléphonique fixe et les communications nationales vers
-des abonnés au service téléphonique fixe, à l'exclusion des communications
-mettant en oeuvre des mécanismes de reversement au destinataire final de la
-communication.
+des abonnés au service téléphonique fixe ou mobile, à l'exclusion des
+communications mettant en oeuvre des mécanismes de reversement au destinataire
+final de la communication.
 
 La décision de prise en charge de tout ou partie des dépenses mentionnées à
 l'alinéa précédent est prise par le préfet du département dans lequel est située
@@ -51,7 +50,7 @@ concernés, des organismes de protection sociale et des opérateurs de
 télécommunications.
 
 La demande de prise en charge de la dette téléphonique doit être adressée au
-secrétariat de la commission au plus tard quinze jours après que l'opérateur a
+secrétariat de la commission au plus tard trente jours après que l'opérateur a
 mis en demeure l'abonné de s'acquitter de celle-ci. Le secrétariat de la
 commission informe l'opérateur de cette saisine dans un délai de huit jours à
 compter de la réception de la demande. Le préfet statue sur la demande au plus
@@ -65,16 +64,15 @@ l'alinéa précédent bénéficient, à partir du moment où ce secrétariat a a
 l'opérateur, d'un accès restreint au service téléphonique, comportant la
 possibilité de recevoir des appels ainsi que d'acheminer les appels aux services
 gratuits et d'urgence. L'obligation d'assurer cet accès restreint cesse après
-que le préfet a statué sur la demande et, au plus tard, soixante-quinze jours
+que le préfet a statué sur la demande et, au plus tard, quatre-vingt dix jours
 après la date de réception par l'abonné de la mise en demeure de payer
 mentionnée au précédent alinéa.
 
 Un arrêté du ministre chargé des télécommunications fixe, dans chaque
 département, en tenant compte de la population et du nombre de bénéficiaires du
-revenu minimum d'insertion de ce département, le montant maximal des crédits
-disponibles pour la prise en charge des dettes téléphoniques. Le montant total
-des aides est au plus égal à 0,15 % du chiffre d'affaires du service
-téléphonique au public.
+revenu minimum d'insertion de ce département, le montant des crédits disponibles
+pour la prise en charge des dettes téléphoniques. Le montant total des aides est
+au plus égal à 0,15 % du chiffre d'affaires du service téléphonique au public.
 
 Le fonds de service universel des télécommunications assure la compensation, au
 profit de chaque opérateur, des dettes téléphoniques prises en charge. Le préfet
