@@ -4,10 +4,10 @@ Le fonds de solidarité vieillesse est dirigé par un directeur, nommé par arr�
 conjoint du ministre chargé de la sécurité sociale et du ministre chargé du
 budget.
 
-En cas de vacance de l'emploi de directeur ou d'empêchement de celui-ci, ses
-fonctions sont provisoirement exercées par l'un des représentants au conseil
-d'administration du ministre chargé de la sécurité sociale, désigné à cet effet
-par ledit ministre.
+En cas de vacance provisoire de l'emploi de directeur ou d'empêchement de
+celui-ci, ses fonctions sont exercées par un agent de l'établissement nommé par
+arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé
+du budget.
 
 Le directeur dirige l'établissement et est responsable de son bon
 fonctionnement. Il exerce toutes les compétences qui ne sont pas attribuées à
@@ -19,8 +19,7 @@ il rend compte de sa gestion ;
 2° Il représente l'établissement en justice et dans tous les actes de la vie
 civile ;
 
-3° Il prépare le budget du fonds de solidarité vieillesse et le budget annexe du
-fonds de réserve et les exécute ;
+3° Il prépare le budget du fonds de solidarité vieillesse et l'exécute ;
 
 4° Il est ordonnateur des dépenses et des recettes du fonds ;
 

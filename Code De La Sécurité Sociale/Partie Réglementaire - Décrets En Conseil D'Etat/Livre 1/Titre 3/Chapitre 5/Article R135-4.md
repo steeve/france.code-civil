@@ -2,12 +2,10 @@ Article R135-4
 ----
 Le conseil d'administration a pour rôle :
 
-1° D'adopter le budget du fonds de solidarité vieillesse et le budget annexe du
-fonds de réserve prévu à l'article R. 135-18 ;
+1° D'adopter le budget du fonds de solidarité vieillesse ;
 
 2° D'approuver le rapport annuel d'activité et le compte financier du fonds de
-solidarité vieillesse qui intègre le compte rendu financier spécifique du budget
-annexe du fonds de réserve ;
+solidarité vieillesse ;
 
 3° D'approuver les conventions prévues à l'article R. 135-13 ;
 
