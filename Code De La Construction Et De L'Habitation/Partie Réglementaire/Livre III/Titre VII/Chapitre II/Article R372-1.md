@@ -34,3 +34,6 @@ blanchissage, service de soins ou services sociaux éducatifs moyennant une
 redevance. Un arrêté conjoint du ministre chargé de l'outre-mer, du ministre
 chargé de l'économie et des finances et du ministre chargé du logement fixe en
 tant que de besoin des règles particulières d'application.
+
+8. L'acquisition de logements dans le cadre des dispositions prévues à l'article
+L. 261-3.
