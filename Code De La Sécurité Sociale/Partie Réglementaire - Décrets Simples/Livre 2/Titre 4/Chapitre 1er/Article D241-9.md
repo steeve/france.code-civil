@@ -1,18 +1,14 @@
 Article D241-9
 ----
-La réduction prévue à l'article L. 241-13 est déterminée chaque mois en fonction
-des gains et rémunérations, au sens de l'article L. 242-1, versés au salarié au
-cours du mois.
+Lorsque le bénéfice de la réduction mentionnée à l'article L. 241-13 est cumulé,
+au titre du versement d'une même rémunération, avec celui de l'aide prévue à
+l'article 3 de la loi n° 98-461 du 13 juin 1998 d'orientation et d'incitation
+relative à la réduction du temps de travail, le cas échéant majorée, le montant
+mensuel de la réduction est minoré de 54 Euros.
 
-Lorsque le nombre d'heures rémunérées est inférieur au nombre d'heures
-correspondant à la durée légale ou conventionnelle collective du travail
-applicable dans l'établissement ou la partie d'établissement où est employé le
-salarié et définie sur le mois civil, le montant de la réduction, plafonné le
-cas échéant en application de l'article D. 241-8, est minoré en fonction du
-rapport entre ces deux nombres d'heures.
-
-Pour l'application de l'alinéa précédent, les périodes de suspension du contrat
-de travail donnant lieu au maintien de tout ou partie de la rémunération sont
-prises en compte pour un nombre d'heures égal au produit de la durée habituelle
-du travail du salarié par le pourcentage de la rémunération demeuré à la charge
-de l'employeur.
+Lorsque le nombre d'heures rémunérées au cours du mois civil est inférieur à la
+durée collective du travail applicable dans l'établissement ou la partie de
+l'établissement où est employé le salarié calculée sur le mois, le montant de la
+minoration est réduit selon le rapport entre le nombre d'heures rémunérées,
+déterminé le cas échéant conformément aux articles D. 241-7 ou D. 241-8, et
+cette durée collective.

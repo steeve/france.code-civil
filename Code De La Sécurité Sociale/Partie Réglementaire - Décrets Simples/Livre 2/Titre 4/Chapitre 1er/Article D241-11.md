@@ -1,16 +1,15 @@
 Article D241-11
 ----
-Les employeurs doivent tenir à la disposition des agents de contrôle mentionnés
-à l'article L. 243-7 un document justificatif du montant des réductions qu'ils
-ont appliquées indiquant, par établissement et par mois civil, la durée du
-travail applicable, le nombre de salariés concernés et le montant total des
-réductions appliquées ainsi que, pour chacun des salariés, son identité, le
-montant de la rémunération versée, le nombre d'heures rémunérées, le nombre
-d'heures pris en compte au titre des périodes de suspension du contrat de
-travail ayant donné lieu à rémunération et le montant de la réduction appliquée.
+Lorsque le bénéfice de la réduction prévue à l'article L. 241-13 est cumulé, au
+titre du versement d'une même rémunération, avec celui de l'aide prévue à
+l'article 3 de la loi n° 98-461 du 13 juin 1998 d'orientation et d'incitation
+relative à la réduction du temps de travail ou de la réduction prévue par
+l'article L. 241-14, sont d'abord appliquées l'aide ou la réduction mentionnée à
+l'article L. 241-14, puis la réduction prévue par l'article L. 241-13.
 
-Pour les salariés mentionnés aux articles R. 241-5 à R. 241-9-1, doivent
-également être mentionnés, selon les cas, la période d'emploi rémunérée ou la
-durée écoulée depuis le dernier versement de la rémunération visées à l'article
-R. 241-5, la majoration visée à l'article R. 241-8 et le plafond visé à
-l'article R. 241-9 ou à l'article R. 241-9-1.
+Le montant total des allégements obtenu par application de la réduction
+mentionnée à l'article L. 241-13, dont le bénéfice est le cas échéant cumulé
+avec les mesures d'allégement mentionnées à l'alinéa précédent, est dans tous
+les cas limité au montant des cotisations mentionnées au I dudit article dues
+pour l'emploi du salarié au titre des gains et rémunérations versés au cours du
+mois.
