@@ -20,9 +20,12 @@ ministre chargé de la sécurité sociale et du ministre chargé de la culture.
 
 La commission se prononce à la majorité de ses membres, en tenant compte
 notamment de la totalité des revenus nets de frais passibles de l'impôt sur le
-revenu des assurés qui demandent à bénéficier d'une prise en charge de leurs
-cotisations, et de tous autres éléments relatifs à la situation économique et
-sociale des intéressés.
+revenu des assurés, de leur conjoint, de leur concubin ou de leur partenaire lié
+par un pacte civil de solidarité qui demandent à bénéficier d'une prise en
+charge de leurs cotisations, et de tous autres éléments relatifs à la situation
+économique et sociale des intéressés, appréciée compte tenu de celle de leur
+conjoint, de leur concubin ou de leur partenaire lié par un pacte civil de
+solidarité.
 
 Deux commissaires du Gouvernement, désignés respectivement par le ministre
 chargé de la sécurité sociale et le ministre chargé de la culture, assistent aux

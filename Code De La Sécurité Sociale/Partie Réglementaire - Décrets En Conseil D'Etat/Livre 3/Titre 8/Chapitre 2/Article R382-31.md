@@ -2,7 +2,7 @@ Article R382-31
 ----
 Les personnes mentionnées à l'article R. 382-1, qui justifient avoir retiré de
 leur activité artistique des ressources au moins égales, au cours d'une année
-civile, à 1 200 fois la valeur horaire moyenne du salaire minimum de croissance
+civile, à 900 fois la valeur horaire moyenne du salaire minimum de croissance
 pour l'année considérée, sont réputées remplir les conditions de durée de
 travail requises par les articles R. 313-1 à R. 313-9 pour avoir droit et ouvrir
 droit aux prestations des assurances maladie, maternité, invalidité et décès.

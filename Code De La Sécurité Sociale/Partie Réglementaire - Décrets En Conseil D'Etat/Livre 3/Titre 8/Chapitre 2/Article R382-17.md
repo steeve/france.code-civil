@@ -22,10 +22,10 @@ est calculée en pourcentage du montant brut des droits d'auteur versés à
 l'auteur directement ou indirectement.
 
 Pour l'application de l'alinéa précédent, on entend par droit d'auteur la
-rémunération au sens des articles 35 et 36 de la loi n° 57-298 du 11 mars 1957,
-afférente à la cession par l'auteur de ses droits sur son oeuvre, et versée soit
-directement à l'auteur ou à ses ayants droit, soit sous forme de redevance à un
-tiers habilité à les recevoir.
+rémunération au sens des articles L. 131-4 et L. 132-6 du code de la propriété
+intellectuelle afférente à la cession par l'auteur de ses droits sur son oeuvre,
+et versée soit directement à l'auteur ou à ses ayants droit, soit sous forme de
+redevance à un tiers habilité à les recevoir.
 
 Le chiffre d'affaires mentionné au deuxième alinéa ci-dessus est celui de
 l'année civile précédant la date de la déclaration prévue au deuxième alinéa de

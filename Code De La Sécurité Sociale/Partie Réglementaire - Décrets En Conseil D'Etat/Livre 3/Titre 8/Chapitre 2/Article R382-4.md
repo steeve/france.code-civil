@@ -8,10 +8,7 @@ des diffuseurs sont nommés après consultation des organisations professionnell
 de ces derniers.
 
 Il est institué une commission pour chacune des branches professionnelles
-mentionnées aux 1°, 2°, 4° et 5° de l'article R. 382-2, et deux commissions pour
-la branche professionnelle mentionnée au 3° du même article, l'une de ces deux
-commissions ayant compétence pour les artistes peintres. Les commissions sont
-ainsi composées :
+mentionnées à l'article R. 382-2. Les commissions sont ainsi composées :
 
 Commission des écrivains. Nombre de membres représentants :
 
@@ -34,7 +31,7 @@ De l'Etat : 2
 
 Nombre total de membres représentants : 11.
 
-Commissions des auteurs d'oeuvres graphiques et plastiques. Nombre de membres
+Commission des auteurs d'oeuvres graphiques et plastiques. Nombre de membres
 représentants :
 
 Des auteurs : 6

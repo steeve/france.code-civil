@@ -7,8 +7,10 @@ année et le 30 juin de l'année suivante, à 1,5 p. 100 du montant recouvré lo
 de l'année civile précédente.
 
 Peuvent bénéficier de cette action sociale les personnes mentionnées à l'article
-R. 382-24 que leur situation économique et sociale met dans l'impossibilité de
-s'acquitter des cotisations sociales dont elles sont redevables.
+R. 382-24 que leur situation économique et sociale, appréciée compte tenu de
+celle de leur conjoint, de leur concubin ou de leur partenaire lié par un pacte
+civil de solidarité met dans l'impossibilité de s'acquitter des cotisations
+sociales dont elles sont redevables.
 
 Le montant des cotisations prises en charge, pour la période comprise entre le
 1er juillet et le 30 juin, ne peut excéder la différence entre les cotisations
