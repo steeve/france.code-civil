@@ -1,6 +1,9 @@
 Article L122-3-2
 ----
-La rupture du contrat de travail à durée déterminée, au cours de l'une
-quelconque de ses périodes de validité, ouvre droit, sauf en cas de force
-majeure ou de faute grave, à des dommages-intérêts correspondant au préjudice
-subi [*montant*].
+Lorsque le contrat comporte un terme fixé avec précision dès sa conclusion, il
+peut comporter une clause prévoyant le report de ce terme [*mention*] ; dans ce
+cas, il peut être renouvelé une fois pour une durée déterminée au plus égale à
+celle de la période initiale.
+
+Les conditions de renouvellement du contrat doivent faire l'objet d'un avenant
+si elles n'ont pas été stipulées dans le contrat initial.

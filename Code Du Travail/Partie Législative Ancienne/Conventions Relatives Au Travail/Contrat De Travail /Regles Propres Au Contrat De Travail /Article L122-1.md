@@ -1,29 +1,22 @@
 Article L122-1
 ----
-Le contrat de travail à durée déterminée comporte un terme certain et fixé avec
-précision dès sa conclusion.
+Le contrat de travail peut être conclu pour une durée déterminée dans les cas
+suivants [*conditions*] :
 
-Il ne peut être renouvelé qu'une fois, pour une période également déterminée
-dont la durée ne peut excéder celle de la période initiale et en application
-d'une clause figurant dans le contrat initial. Il peut toutefois comporter une
-clause prévoyant deux renouvellements à condition que la durée totale du contrat
-ne soit pas supérieure à un an.
+1° Absence temporaire ou suspension du contrat de travail d'un salarié, ne
+résultant pas d'un conflit collectif du travail [*remplacement*] ;
 
-Sauf commun accord des parties ou résolution judiciaire, le contrat de travail à
-durée déterminée ne peut être résilié qu'en cas de faute grave ou de force
-majeure.
+2° Survenance d'un surcroît exceptionnel et temporaire d'activité ;
 
-Sans préjudice des dispositions des articles L. 231-8, L. 412-15, L. 420-23 et
-L. 436-2, il cesse de plein droit à l'échéance du terme [*date*].
+3° Exécution d'une tâche occasionnelle, précisément définie et non durable.
 
-Si une relation contractuelle de travail subsiste après cette échéance, le
-contrat devient un contrat à durée indéterminée.
+Ce contrat [*à durée déterminée*] doit comporter un terme fixé avec précision
+dès sa conclusion [*mention*] ; sa durée totale [*maximum*], compte tenu, le cas
+échéant, du report du terme prévu à l'article L. 122-3-2, ne peut excéder six
+mois dans le cas défini au 2° ci-dessus et un an dans le cas défini au 3°
+ci-dessus.
 
-Dans tous les cas, l'ancienneté du salarié est appréciée à compter du jour de
-son entrée dans l'entreprise [*point de départ*].
-
-A défaut de dispositions conventionnelles ou d'usages applicables à l'activité
-concernée, le contrat de travail à durée déterminée peut comporter une période
-d'essai dont la durée ne peut excéder deux semaines si le contrat est conclu
-pour une durée inférieure à quatre mois, un mois si le contrat est conclu pour
-une durée de quatre mois à un an, deux mois dans les autres cas.
+Toutefois, lorsque le contrat est conclu pour le motif mentionné au 1°
+ci-dessus, il peut ne pas comporter un terme précis ; il doit alors être conclu
+pour une durée minimale et il a pour terme la fin de l'absence du salarié
+remplacé.

@@ -20,11 +20,9 @@ considérée ;
 
 2° En cas de rupture de la relation de travail, a une indemnité forfaitaire
 égale à un mois de salaire à moins que l'application des règles figurant aux
-articles L. 122-2-1, L. 122-3-1, L. 122-8 et L. 122-9 [*relatives aux indemnités
-de préavis et de licenciement*]
-
-ou des stipulations contractuelles correspondantes ne conduise à une solution
-plus favorable.
+articles L. 122-3-5, L. 122-3-8, L. 122-3-9 (2ème alinéa), L. 122-8 et L. 122-9
+[*relatives aux indemnités de préavis et de licenciement*] ou des stipulations
+contractuelles correspondantes ne conduise à une solution plus favorable.
 
 La juridiction prud'homale saisie peut ordonner par provision le versement de
 l'indemnité forfaitaire visée à l'alinéa précédent.

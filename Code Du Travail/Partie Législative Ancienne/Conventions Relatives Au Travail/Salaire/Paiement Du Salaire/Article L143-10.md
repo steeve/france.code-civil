@@ -12,9 +12,9 @@ fois le plafond retenu pour le calcul des cotisations de sécurité sociale
 [*montant*].
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement
-les salaires, appointements ou commissions proprement dits, mais encore tous les
-accessoires et notamment l'indemnité due pour inobservation du préavis [*en cas
-de contrat à durée déterminée*] prévu à l'article L. 122-3-1 et du délai-congé
-prévu à l'article L. 122-6 et l'indemnité compensatrice [*de délai-congé en cas
-de licenciement de salarié victime d'un accident du travail*] prévue à l'article
-L. 122-32-6 du présent code.
+les salaires, appointements ou commissions proprement dites mais encore tous les
+accessoires et notamment l'indemnité de fin de contrat [*à durée déterminée*]
+mentionnée à l'article L. 122-3-5, l'indemnité pour inobservation du délai congé
+mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à
+l'article L. 122-32-6 et l'indemnité de précarité d'emploi mentionnée à
+l'article L. 124-4-4.
