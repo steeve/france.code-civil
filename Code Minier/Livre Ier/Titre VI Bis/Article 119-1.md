@@ -13,17 +13,21 @@ b) Cession ou amodiation non conforme aux règles du code ;
 c) Infractions graves aux prescriptions de police, de sécurité ou d'hygiène ;
 inobservation des mesures imposées en application de l'article 79 ;
 
-d) Pour les permis ou les autorisations de recherches : inactivité persistante
-ou activité manifestement sans rapport avec l'effort financier souscrit et, plus
-généralement, inobservation des engagements souscrits visés dans l'acte
-institutif ;
+d) Pour les permis de mines ou les autorisations de recherche de mines :
+inactivité persistante ou activité manifestement sans rapport avec l'effort
+financier et, plus généralement, inobservation des engagements souscrits visés
+dans l'acte institutif ; pour les permis exclusifs de recherches de stockages
+souterrains : inactivité persistante ;
 
 e) Pour les titres ou les autorisations d'exploitation : absence ou insuffisance
 prolongée d'exploitation manifestement contraire aux possibilités du gisement ou
-à l'intérêt des consommateurs et non justifiée par l'état du marché,
+à l'intérêt des consommateurs et non justifiées par l'état du marché,
 exploitation effectuée dans des conditions telles qu'elle est de nature à
 compromettre sérieusement l'intérêt économique, la conservation et l'utilisation
-ultérieure des gisements ;
+ultérieure du gisement et, en matière de stockage souterrain du gaz naturel,
+l'accomplissement des missions de service public relatives à la sécurité
+d'approvisionnement, au maintien de l'équilibre des réseaux raccordés et à la
+continuité de fourniture du gaz naturel ;
 
 f) Inobservation des dispositions des deuxième et troisième alinéas de l'article
 81 ;

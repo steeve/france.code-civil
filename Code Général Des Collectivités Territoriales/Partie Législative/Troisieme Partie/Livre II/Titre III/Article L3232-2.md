@@ -15,3 +15,9 @@ travaux mentionnés à l'article L. 2335-9, d'autre part, entre les collectivit�
 territoriales ou leurs groupements et les maîtres d'ouvrage des travaux
 d'électrification rurale pouvant bénéficier des participations du fonds
 d'amortissement des charges d'électrification.
+
+Quand, dans un département, existe un établissement public de coopération
+constitué dans le domaine de l'électricité et réunissant tous les maîtres
+d'ouvrage pouvant bénéficier des participations du Fonds d'amortissement des
+charges d'électrification, la répartition des dotations de ce fonds est réglée
+par cet établissement public.
