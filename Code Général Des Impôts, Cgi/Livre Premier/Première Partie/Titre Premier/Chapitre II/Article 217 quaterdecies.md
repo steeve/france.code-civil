@@ -15,4 +15,4 @@ d'une somme égale au produit de ce montant par le taux de l'intérêt de retard
 prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions
 mentionnées à l'article 1727 A.
 
-Un décret fixe les obligations déclaratives (1).
+Un décret fixe les obligations déclaratives (1) (2).
