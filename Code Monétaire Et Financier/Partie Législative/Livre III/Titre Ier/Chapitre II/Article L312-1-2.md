@@ -27,6 +27,6 @@ justifications. Ils ne peuvent accéder à ces locaux qu'entre huit heures et
 vingt heures. Le secret professionnel ne peut être opposé aux agents agissant
 dans le cadre des pouvoirs qui leur sont conférés par le présent article.
 
-Les procès-verbaux sont tranmis au procureur de la République dans les cinq
-jours suivant leur établissement. Une copie en est également remise à
-l'intéressé.
+Pour les infractions sanctionnées pénalement, les procès-verbaux sont transmis
+au procureur de la République dans les cinq jours suivant leur établissement.
+Dans tous les cas, une copie du procès-verbal est remise à l'intéressé.

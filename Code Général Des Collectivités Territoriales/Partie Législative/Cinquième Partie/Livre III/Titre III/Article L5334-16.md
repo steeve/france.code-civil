@@ -1,6 +1,6 @@
 Article L5334-16
 ----
-- Le potentiel fiscal de chaque commune intègre, au titre de la taxe
+Le potentiel financier de chaque commune intègre, au titre de la taxe
 professionnelle, une quote-part déterminée en divisant la somme des dotations de
 coopération visées à l'article L. 5334-8 et des compléments de ressources prévus
 à l'article L. 5334-9 par le taux de taxe professionnelle voté l'année

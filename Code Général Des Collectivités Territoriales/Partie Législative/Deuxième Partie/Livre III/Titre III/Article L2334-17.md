@@ -3,8 +3,8 @@ Article L2334-17
 L'indice synthétique de ressources et de charges mentionné à l'article L.
 2334-16 pour les communes de 10 000 habitants et plus est constitué :
 
-1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000
-habitants et plus et le potentiel fiscal par habitant de la commune, tel que
+1° Du rapport entre le potentiel financier par habitant des communes de 10 000
+habitants et plus et le potentiel financier par habitant de la commune, tel que
 défini à l'article L. 2334-4 ;
 
 2° Du rapport entre la proportion de logements sociaux dans le total des

@@ -1,6 +1,6 @@
 Article L5211-35
 ----
-- En cas de fusion volontaire de toutes les communes précédemment regroupées au
+En cas de fusion volontaire de toutes les communes précédemment regroupées au
 sein d'un établissement public de coopération intercommunale à fiscalité propre
 ayant au moins deux années d'existence, et qui entraîne la dissolution dudit
 établissement, la dotation forfaitaire de la commune issue de la fusion est
@@ -10,7 +10,7 @@ coopération intercommunale à fiscalité propre attribuée l'année précédant
 fusion.
 
 La dotation forfaitaire de la commune issue de la fusion évolue conformément aux
-dispositions des articles L. 2334-7 et L. 2334-9.
+dispositions de l'article L. 2334-7.
 
 En cas de constitution d'un nouvel établissement public de coopération
 intercommunale à fiscalité propre comprenant la commune fusionnée, la part de la

@@ -1,13 +1,83 @@
 Article L2334-7
 ----
-Chaque commune reçoit une dotation forfaitaire.
+A compter de 2005, la dotation forfaitaire comprend :
 
-Pour 1994, le montant de cette dotation est égal à la somme des dotations reçues
-en 1993 en application des articles L. 234-2, L. 234-4, L. 234-10 et, le cas
-échéant, des articles L. 234-14-2, L. 234-19-1 et L. 234-19-2 du code des
-communes dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993
-portant réforme de la dotation globale de fonctionnement et modifiant le code
-des communes et le code général des impôts.
+1° Une dotation de base destinée à tenir compte des charges liées à l'importance
+de sa population.
+
+Pour 2005, cette dotation de base est égale pour chaque commune au produit de sa
+population par un montant de 60 Euros par habitant à 120 Euros par habitant en
+fonction croissante de la population de la commune, dans des conditions définies
+par décret en Conseil d'Etat.
+
+A compter de 2006, la dotation par habitant perçue au titre de la dotation de
+base augmente selon un taux fixé par le comité des finances locales, égal au
+plus à 75 % du taux de progression de l'ensemble des ressources de la dotation
+globale de fonctionnement ;
+
+2° Une dotation proportionnelle à la superficie, égale à 3 Euros par hectare en
+2005 et à 5 Euros par hectare dans les communes situées en zone de montagne. A
+compter de 2006, ce montant évolue selon le taux d'indexation fixé par le comité
+des finances locales pour la dotation de base. A compter de 2005, le montant de
+cette dotation perçu par les communes de Guyane ne peut excéder le triple du
+montant qu'elles perçoivent au titre de la dotation de base ;
+
+3° Les montants correspondant aux montants antérieurement perçus au titre du I
+du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
+1998) et du 2° bis du II de l'article 1648 B du code général des impôts dans sa
+rédaction antérieure à la loi de finances pour 2004 (n° 2003-1311 du 30 décembre
+2003). En 2005, ces montants sont indexés pour les communes qui en bénéficient
+selon un taux de 1 %. A compter de 2006, ces montants progressent selon un taux
+fixé par le comité des finances locales, égal au plus à 50 % du taux de
+croissance de l'ensemble des ressources de la dotation globale de fonctionnement
+;
+
+Lorsqu'une commune cesse, à compter de 2005, d'appartenir à un groupement de
+communes faisant application des dispositions de l'article 1609 nonies C du code
+général des impôts, la commune perçoit au titre du présent 3° une part des
+montants perçus par le groupement au titre de la dotation de compensation prévue
+à l'article L. 5211-28-1 du présent code. Cette part est calculée en fonction du
+montant des bases de taxe professionnelle des communes qui adhèrent ou quittent
+ce groupement ayant servi au calcul de la compensation prévue au I du D de
+l'article 44 de la loi de finances pour 1999 précitée. Cette part est minorée,
+le cas échéant, en fonction de la part du prélèvement subi par le groupement en
+application du premier alinéa du III de l'article 29 de la loi de finances pour
+2003 (n° 2002-1575 du 30 décembre 2002) qui a été calculée à partir des bases de
+taxe professionnelle de France Télécom de cette commune ;
+
+4° Une garantie. Cette garantie est versée en 2005, le cas échéant, lorsque le
+montant prévu au a ci-dessous est supérieur aux montants mentionnés au b. Elle
+est égale en 2005 à la différence entre :
+
+a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux de
+1 % hors montants des compensations mentionnées au 3° ;
+
+b. Et la somme de la dotation de base et de la dotation proportionnelle à la
+superficie calculées en application des 1° et 2°.
+
+A compter de 2006, cette garantie évolue selon un taux égal à 25 % du taux de
+progression de l'ensemble des ressources de la dotation globale de
+fonctionnement.
+
+Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de
+la somme des composantes de cette dotation par rapport à la somme des montants
+versés l'année précédente en application des alinéas précédents, hors les
+montants prévus au 3°. Pour l'application de cette disposition en 2005, le
+montant de la dotation forfaitaire pris en compte au titre de 2004 est égal au
+montant total de la dotation forfaitaire versée en 2004, hors les montants
+correspondant à la compensation antérieurement perçue en application du I du D
+de l'article 44 de la loi de finances pour 1999.
+
+Pour le calcul de la garantie des communes ayant connu en 2004 un recensement
+général ou un recensement complémentaire initial, il est fait référence au
+montant de la dotation de base hors gain lié à la croissance de la population
+constatée à l'issue de ce recensement.
+
+Pour le calcul de la garantie des communes ayant connu en 2004 un recensement
+complémentaire de confirmation, le montant de la dotation forfaitaire à prendre
+en compte au titre du a correspond au montant de la dotation forfaitaire due au
+titre de 2004 en retenant la population effectivement constatée à l'issue du
+recensement de confirmation.
 
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de
 la dotation supplémentaire aux communes et groupements touristiques ou thermaux
@@ -22,45 +92,6 @@ constituant le groupement les dotations prévues à l'article L. 234-13 du code
 des communes, dans sa rédaction antérieure à la loi n° 93-1436 du 31 décembre
 1993 précitée, continuent à les percevoir. Pour 1994, le montant de ces
 dotations est égal à la somme reçue en 1993.
-
-En 1995, les montants définis aux trois précédents alinéas progressent, sous
-réserve des dispositions des articles L. 2334-9 à L. 2334-12, de la moitié du
-taux d'évolution de l'ensemble des ressources affectées à la dotation globale de
-fonctionnement.
-
-A compter de 1996, le taux de progression des montants mentionnés au précédent
-alinéa est ainsi calculé, sous réserve des dispositions des articles L. 2334-9 à
-L. 2334-12 :
-
-si l'évolution des ressources de la dotation globale de fonctionnement, en
-application de l'indexation prévue au premier alinéa de l'article L. 1613-1,
-résulte pour un tiers au moins de la progression du produit intérieur brut en
-volume, le comité des finances locales fixe le taux de progression de ces
-montants entre 45 p. 100 et 55 p. 100 du taux de progression de l'ensemble de
-ces ressources ;
-
-dans le cas contraire, ces montants progressent de la moitié du taux d'évolution
-de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
-
-En 1996, la dotation forfaitaire de l'ensemble des communes, calculée selon les
-modalités prévues ci-dessus, est majorée, d'une part, de 97,5 millions de
-francs, répartis au prorata de leurs populations, et, d'autre part, de 22
-millions de francs, répartis au prorata du nombre des écoles primaires et
-maternelles situées sur leur territoire à la rentrée scolaire 1994. Les sommes
-correspondant à cette dernière compensation sont reversées par les communes
-bénéficiaires aux groupements de communes dont elles sont membres lorsque
-ceux-ci sont compétents en matière de fonctionnement des établissements
-d'enseignement élémentaire et préélémentaire. Les années suivantes, ces
-majorations évoluent selon les modalités définies aux sixième à huitième
-alinéas.
-
-A compter de 1999, la dotation forfaitaire des communes qui, en application de
-l'article 10 de la loi n° 91-429 du 13 mai 1991 instituant une dotation de
-solidarité urbaine et un fonds de solidarité des communes de la région
-d'Ile-de-France, réformant la dotation globale de fonctionnement des communes et
-des départements et modifiant le code des communes, ont contribué à partir de
-1991 au financement de la dotation de solidarité urbaine, et qui bénéficiaient
-en 1997 de cette même dotation, est relevée d'un pourcentage égal à 8,9 %.
 
 A compter de 2004, la dotation forfaitaire à prendre en compte au titre de 2003
 est majorée pour chaque commune du montant dû au titre de 2003 en application du
@@ -87,9 +118,3 @@ et place des communes. A cet effet, l'ensemble des crédits correspondant à la
 compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
-
-A compter de 2004, la dotation forfaitaire de chaque commune évolue chaque
-année, sous réserve des dispositions des articles L. 2334-9 à L. 2334-12, selon
-un taux de progression fixé par le comité des finances locales entre 45 % et 55
-% du taux de progression de l'ensemble des ressources de la dotation globale de
-fonctionnement.

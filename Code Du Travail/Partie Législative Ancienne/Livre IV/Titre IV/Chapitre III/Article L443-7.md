@@ -14,7 +14,7 @@ sommes à concurrence du montant consacré par le salarié ou personne mentionn�
 au troisième alinéa de l'article L. 443-1 à l'acquisition d'actions ou de
 certificats d'investissement émis par l'entreprise ou par une entreprise liée à
 celle-ci au sens de l'article 208-4 de la loi n° 66-537 du 24 juillet 1966
-précitée, sans que cette majoration puisse excéder 50 %.
+précitée, sans que cette majoration puisse excéder 80 %.
 
 La modulation éventuelle des sommes versées par l'entreprise ne saurait résulter
 que de l'application de règles à caractère général, qui ne peuvent, en outre, en

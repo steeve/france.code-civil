@@ -1,24 +1,26 @@
 Article L3334-7
 ----
-- Les départements dont le potentiel fiscal par habitant est inférieur d'au
-moins 40 p. 100 au potentiel fiscal moyen par habitant de l'ensemble des
-départements ou dont le potentiel fiscal moyen par kilomètre carré est inférieur
-d'au moins 60 p. 100 au potentiel fiscal moyen par kilomètre carré de l'ensemble
-des départements bénéficient d'une dotation de fonctionnement minimale.
+La dotation de fonctionnement minimale est attribuée aux départements ne
+répondant pas aux conditions démographiques mentionnées au premier alinéa de
+l'article L. 3334-6-1.
+
+Ne peuvent être éligibles les départements dont le potentiel financier par
+habitant est supérieur au double du potentiel financier moyen par habitant des
+départements déterminés en application du premier alinéa.
 
 Un décret en Conseil d'Etat fixe les modalités de répartition de la dotation
-entre les départements en tenant compte, notamment, de leur potentiel fiscal et
-de la longueur de leur voirie.
+entre les départements en tenant compte, notamment, de leur potentiel financier
+et de la longueur de leur voirie.
 
-Le montant des sommes à répartir entre les départements bénéficiaires est
-prélevé sur les ressources affectées à la dotation globale de fonctionnement des
-départements ; il est fixé chaque année par le comité des finances locales.
+Pour 2005, les départements éligibles ne peuvent percevoir une dotation de
+fonctionnement minimale inférieure à 106 % ou supérieure à 130 % au montant
+perçu l'année précédente. Pour 2005, le montant à prendre en compte correspond
+au montant de dotation de péréquation perçu en 2004 par chaque département,
+majoré le cas échéant de la dotation de fonctionnement minimale perçue en 2004.
 
-Pour 1988, ce montant ne peut être inférieur à 90 millions de francs. Aucun
-département ne pourra recevoir une somme inférieure à 450 000 F. Pour les années
-ultérieures, ces minima évoluent comme le montant des ressources affectées à la
-dotation globale de fonctionnement des départements, déduction faite des sommes
-affectées à la garantie de progression minimale.
+A compter de 2006, les départements éligibles ne peuvent percevoir une dotation
+de fonctionnement minimale inférieure à celle perçue l'année précédente ou
+supérieure à 130 % du montant perçu cette même année.
 
 La dotation revenant aux départements qui cessent de remplir les conditions pour
 bénéficier de la dotation de fonctionnement minimale est égale, la première

@@ -1,8 +1,15 @@
 Article L351-1
 ----
-Est puni de 15000 Euros d'amende le fait de méconnaître l'une des obligations
-mentionnées au I de l'article L. 312-1-1 ou l'une des interdictions édictées au
-I de l'article L. 312-1-2.
+Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des
+obligations mentionnées aux deuxième, troisième, quatrième et cinquième alinéas
+du I de l'article L. 312-1-1. Cette amende est prononcée et recouvrée suivant
+les règles applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi
+par l'administration qui a constaté l'infraction.
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième
+classe le fait de méconnaître l'une des obligations mentionnées aux premier,
+sixième et septième alinéas du I de l'article L. 312-1-1 ou l'une des
+interdictions édictées au I de l'article L. 312-1-2.
 
 Les personnes morales peuvent être déclarées responsables pénalement dans les
 conditions prévues par l'article 121-2 du code pénal des infractions définies à

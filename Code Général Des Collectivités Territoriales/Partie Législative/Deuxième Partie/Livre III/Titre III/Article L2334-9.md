@@ -1,15 +1,9 @@
 Article L2334-9
 ----
-En cas d'augmentation de la population d'une commune constatée à l'occasion d'un
-recensement général ou complémentaire, la dotation forfaitaire revenant à cette
-commune est calculée en appliquant au montant antérieurement perçu indexé dans
-les conditions prévues à l'article L. 2334-7 un taux d'augmentation égal à 50 %
-du taux de croissance de la population telle qu'elle a été constatée.
-
-Par dérogation à l'alinéa précédent, lorsque le recensement général de
-population de 1999 fait apparaître une augmentation de la population d'une
-commune, seule une part de cette augmentation est prise en compte en 2000 et en
-2001 dans les conditions prévues au dernier alinéa de l'article L. 2334-2.
+Lorsque le recensement général de population de 1999 fait apparaître une
+augmentation de la population d'une commune, seule une part de cette
+augmentation est prise en compte en 2000 et en 2001 dans les conditions prévues
+au dernier alinéa de l'article L. 2334-2.
 
 Lorsque le recensement général de population de 1999 fait apparaître une
 diminution de la population d'une commune, la dotation forfaitaire revenant à

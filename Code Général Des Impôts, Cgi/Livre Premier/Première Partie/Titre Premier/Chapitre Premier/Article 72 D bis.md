@@ -12,7 +12,7 @@ cet exercice au moins égale au montant de la déduction. L'épargne
 professionnelle ainsi constituée doit être inscrite à l'actif du bilan de
 l'exploitation.
 
-Les sommes déposées sur le compte peuvent être utilisées au cours des cinq
+Les sommes déposées sur le compte peuvent être utilisées au cours des sept
 exercices qui suivent celui de leur versement en cas d'intervention de l'un des
 aléas d'exploitation dont la liste est fixée par décret.
 
@@ -22,12 +22,12 @@ correspondante est rapportée au résultat de l'exercice au cours duquel le
 retrait est intervenu.
 
 Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des
-cinq exercices qui suivent celui de leur versement, la déduction correspondante
-est rapportée aux résultats du cinquième exercice suivant celui au titre duquel
+sept exercices qui suivent celui de leur versement, la déduction correspondante
+est rapportée aux résultats du septième exercice suivant celui au titre duquel
 elle a été pratiquée.
 
 Lorsque des sommes déposées sur le compte sont utilisées à des emplois autres
-que celui défini ci-dessus au cours des cinq exercices qui suivent celui de leur
+que celui défini ci-dessus au cours des sept exercices qui suivent celui de leur
 dépôt, l'ensemble des déductions correspondant aux sommes figurant sur le compte
 au jour de cette utilisation est rapporté au résultat de l'exercice au cours
 duquel cette utilisation a été effectuée.
@@ -37,7 +37,7 @@ de l'article 151 octies, à une société civile agricole par un exploitant
 agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de
 l'apport n'est pas considéré pour l'application du I comme une cessation
 d'activité si la société bénéficiaire de l'apport en remplit les conditions et
-s'engage à utiliser les sommes déposées sur le compte au cours des cinq
+s'engage à utiliser les sommes déposées sur le compte au cours des sept
 exercices qui suivent celui au titre duquel la déduction correspondante a été
 pratiquée.
 

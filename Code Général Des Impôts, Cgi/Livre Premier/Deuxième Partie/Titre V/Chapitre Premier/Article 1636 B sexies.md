@@ -97,31 +97,42 @@ l'ensemble des communes. Ces règles sont applicables pour les communes qui ont
 adhéré à un établissement public de coopération intercommunale à compter de
 1995.
 
-4. A compter de 2003 et par exception aux dispositions du b du 1, les communes,
-les départements et les organismes de coopération intercommunale dotés d'une
-fiscalité propre peuvent augmenter leur taux de taxe professionnelle, par
+4. a. A compter de 2003 et par exception aux dispositions du b du 1, les
+communes, les départements et les organismes de coopération intercommunale dotés
+d'une fiscalité propre peuvent augmenter leur taux de taxe professionnelle, par
 rapport à l'année précédente, dans la limite d'une fois et demie l'augmentation
 de leur taux de taxe d'habitation ou, si elle est moins élevée, de leur taux
 moyen pondéré de la taxe d'habitation et des taxes foncières.
 
-Les dispositions du premier alinéa du présent 4 ne sont pas applicables
-lorsqu'il est fait application des dispositions du quatrième alinéa du 2.
+Les dispositions du premier alinéa ne sont pas applicables lorsqu'il est fait
+application des dispositions du quatrième alinéa du 2.
 
 La majoration prévue au 3 n'est pas applicable s'il est fait application des
-dispositions du premier alinéa du présent 4.
+dispositions du premier alinéa.
 
-5. En 2003, l'instance délibérante d'un établissement public de coopération
-intercommunale faisant application des dispositions de l'article 1609 nonies C
-fixe librement le taux de la taxe professionnelle à condition que le produit
-attendu de cette taxe, majoré de la compensation prévue au D de l'article 44 de
-la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), ne soit pas
-supérieur au produit voté de cette taxe en 2002, majoré de la même compensation
-pour 2002.
+b. A compter de 2005 et par exception aux dispositions du troisième alinéa du b
+du 1, les communes, les départements et les établissements publics de
+coopération intercommunale dotés d'une fiscalité propre peuvent diminuer leur
+taux de taxe professionnelle, par rapport à l'année précédente, dans une
+proportion au moins égale à la moitié, soit de la diminution du taux de taxe
+d'habitation ou de celle du taux moyen pondéré de la taxe d'habitation et des
+taxes foncières, soit de la plus importante de ces diminutions lorsque ces deux
+taux sont en baisse.
 
-Les dispositions du premier alinéa ne s'appliquent pas aux établissements
-publics de coopération intercommunale dont le périmètre est modifié en 2002 et
-ne font pas obstacle à l'application des autres dispositions du présent code, si
-elles permettent le vote d'un taux de taxe professionnelle plus élevé.
+Lorsqu'il est fait application du premier alinéa, les dispositions des quatrième
+et cinquième alinéas du 2 sont applicables.
+
+5. L'instance délibérante d'un établissement public de coopération
+intercommunale faisant application de l'article 1609 nonies C et dont le taux de
+taxe professionnelle est inférieur à 75 % de la moyenne de sa catégorie
+constatée l'année précédente au niveau national peut fixer le taux de taxe
+professionnelle dans cette limite, sans que l'augmentation du taux soit
+supérieure à 5 %.
+
+Les catégories mentionnées au premier alinéa s'entendent des communautés
+d'agglomération, des communautés de communes faisant application de l'article
+1609 nonies C et des communautés urbaines faisant application de ce même
+article.
 
 I bis. 1. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
@@ -157,3 +168,53 @@ taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 Les dispositions du premier alinéa sont applicables l'année qui suit celle au
 titre de laquelle l'établissement public de coopération intercommunale a voté un
 taux égal à zéro pour les quatre taxes.
+
+III. - 1. Les communes et leurs établissements publics de coopération
+intercommunale à fiscalité propre ayant institué la taxe d'enlèvement des
+ordures ménagères conformément aux articles 1520, 1609 bis, 1609 quinquies C,
+1609 nonies A ter, 1609 nonies B et 1609 nonies D votent le taux de cette taxe
+dans les conditions fixées à l'article 1639 A.
+
+2. Ils peuvent définir, dans les conditions prévues au 1 du II de l'article 1639
+A bis, des zones de perception de la taxe d'enlèvement des ordures ménagères sur
+lesquelles ils votent des taux différents en vue de proportionner le montant de
+la taxe à l'importance du service rendu apprécié en fonction des conditions de
+réalisation du service et de son coût. Les communes ou les établissements
+publics de coopération intercommunale sur le territoire desquels est située une
+installation de transfert ou d'élimination des déchets prévue par un plan
+départemental d'élimination des déchets ménagers peuvent également définir une
+zone, d'un rayon d'un kilomètre au maximum, sur laquelle ils votent un taux
+différent ; dans ce cas, la commune ou l'établissement public de coopération
+intercommunale ne peut définir sur ce périmètre des zones en fonction de
+l'importance du service rendu.
+
+Toutefois, à titre dérogatoire, l'établissement public de coopération
+intercommunale à fiscalité propre ayant institué la taxe peut, pour une période
+qui ne peut excéder dix ans, voter des taux différents sur son périmètre, afin
+de limiter les hausses de cotisations liées à l'harmonisation du mode de
+financement. Cette disposition peut également être mise en oeuvre en cas de
+rattachement d'une ou plusieurs communes. L'établissement public de coopération
+intercommunale décide, dans les conditions prévues au 1 du II de l'article 1639
+A bis, de l'application de ce dispositif et de la délimitation des zones sur
+lesquelles des taux différents sont votés.
+
+3. Pour l'application du 2 :
+
+a. Pour les établissements publics de coopération intercommunale qui perçoivent
+la taxe dans les conditions prévues au b de l'article 1609 nonies A ter, le
+syndicat mixte définit, dans les conditions prévues au 1 du II de l'article 1639
+A bis, les zones de perception de la taxe en fonction de l'importance du service
+rendu. Il décide, dans les mêmes conditions, de l'application du deuxième alinéa
+du 2 et du périmètre sur lequel ce dispositif est mis en oeuvre ;
+
+b. La période durant laquelle des taux différents peuvent être votés en
+application du deuxième alinéa s'applique à compter du 1er janvier 2005 pour
+tous les établissements publics de coopération intercommunale qui perçoivent la
+taxe à cette date et à compter de la première année au titre de laquelle
+l'établissement public de coopération intercommunale perçoit la taxe pour ceux
+qui se mettent en conformité avec la loi n° 99-586 du 12 juillet 1999 relative
+au renforcement et à la simplification de la coopération intercommunale ainsi
+que pour les groupements nouvellement constitués. Elle s'applique à compter de
+l'année qui suit celle du rattachement en cas de rattachement de communes ;
+
+c. Les dispositions du 2 peuvent être appliquées simultanément.

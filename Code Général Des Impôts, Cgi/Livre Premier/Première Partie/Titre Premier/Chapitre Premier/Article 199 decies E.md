@@ -20,8 +20,14 @@ Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, 
 logements faisant partie d'une résidence de tourisme classée dans une zone
 rurale, autre qu'une zone de revitalisation rurale précitée, inscrite sur la
 liste pour la France des zones concernées par l'objectif n° 2 prévue à l'article
-4 du règlement (CE) n° 1260/1999 du Conseil du 21 juin 1999 portant dispositions
-générales sur les fonds structurels.
+4 du règlement (CE) n° 1260 / 1999 du Conseil du 21 juin 1999 portant
+dispositions générales sur les fonds structurels.
+
+Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les
+logements faisant partie d'une résidence de tourisme classée et située dans le
+périmètre d'intervention d'un établissement public chargé de l'aménagement d'une
+agglomération nouvelle créée en application de la loi n° 70-610 du 10 juillet
+1970 tendant à faciliter la création d'agglomérations nouvelles.
 
 Le propriétaire doit s'engager à louer le logement nu pendant au moins neuf ans
 à l'exploitant de la résidence de tourisme. Cette location doit prendre effet

@@ -18,10 +18,10 @@ communes du groupement comptent moins de 5 000 habitants.
 Les crédits de la dotation de développement rural sont répartis entre les
 départements en tenant compte du nombre de communes regroupées et du nombre
 d'établissements publics de coopération intercommunale, de la population
-regroupée, du potentiel fiscal et, le cas échéant, du coefficient d'intégration
-fiscale de ces établissements. La répartition peut également tenir compte du
-nombre de communes regroupées et d'établissements publics de coopération
-intercommunale situés en zone de montagne.
+regroupée, du potentiel financier et, le cas échéant, du coefficient
+d'intégration fiscale de ces établissements. La répartition peut également tenir
+compte du nombre de communes regroupées et d'établissements publics de
+coopération intercommunale situés en zone de montagne.
 
 Les attributions sont arrêtées par le représentant de l'Etat dans le
 département, sous forme de subventions, après avis de la commission d'élus
