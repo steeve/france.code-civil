@@ -1,7 +1,9 @@
 Article L332-10
 ----
 Le déclassement total ou partiel d'un territoire classé en réserve naturelle est
-prononcé après enquête publique, par décret en Conseil d'Etat.
+prononcé après enquête publique, par décret en Conseil d'Etat lorsqu'il s'agit
+d'une réserve naturelle nationale, ou par délibération du conseil régional
+lorsqu'il s'agit d'une réserve naturelle régionale.
 
 Il fait l'objet des mesures prévues à l'article L. 332-4.
 

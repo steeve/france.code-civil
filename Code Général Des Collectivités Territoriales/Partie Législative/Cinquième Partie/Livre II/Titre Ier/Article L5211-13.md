@@ -6,10 +6,11 @@ bénéficient pas d'indemnité au titre des fonctions qu'ils exercent au sein de
 ces établissements, les frais de déplacement qu'ils engagent à l'occasion des
 réunions de ces conseils ou comités, du bureau, des commissions instituées par
 délibération dont ils sont membres, des comités consultatifs prévus par
-l'article L. 5211-49-1 et des organes délibérants ou des bureaux des organismes
-où ils représentent leur établissement peuvent être remboursés lorsque la
-réunion a lieu dans une commune autre que la leur.
+l'article L. 5211-49-1 de la commission consultative prévue par l'article L.
+1413-1 et des organes délibérants ou des bureaux des organismes où ils
+représentent leur établissement peuvent être remboursés lorsque la réunion a
+lieu dans une commune autre que la leur.
 
-" La dépense est à la charge de l'organisme qui organise la réunion.
+La dépense est à la charge de l'organisme qui organise la réunion.
 
-" Un décret fixe les modalités d'application du présent article.
+Un décret fixe les modalités d'application du présent article.

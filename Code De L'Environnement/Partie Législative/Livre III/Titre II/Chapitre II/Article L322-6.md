@@ -1,10 +1,10 @@
 Article L322-6
 ----
 Le Conservatoire de l'espace littoral et des rivages lacustres peut être
-affectataire, à titre gratuit, d'immeubles dépendant du domaine privé de l'Etat.
-Toutefois, lorsque le service précédemment affectataire est doté de l'autonomie
-financière, l'immeuble est affecté à titre onéreux à l'établissement public ou
-lui est cédé dans les formes du droit commun.
+affectataire, à titre gratuit, d'immeubles dépendant du domaine public ou privé
+de l'Etat. Toutefois, lorsque le service précédemment affectataire est doté de
+l'autonomie financière, l'immeuble est affecté à titre onéreux à l'établissement
+public ou lui est cédé dans les formes du droit commun.
 
 Le Conservatoire de l'espace littoral et des rivages lacustres est substitué à
 l'Etat dans la gestion des immeubles qui lui sont affectés : il passe toutes

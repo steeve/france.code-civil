@@ -13,6 +13,5 @@ mandat.
 Ne peuvent être membres de ces conseils les conseillers généraux et les
 conseillers régionaux.
 
-Les articles L. 4134-7 et L. 4135-1, les premier et troisième alinéas de
-l'article L. 4135-19 et l'article L. 4135-26 sont applicables aux présidents et
-aux membres des conseils consultatifs.
+Les articles L. 4134-6 à L. 4134-7-2 sont applicables aux présidents et aux
+membres des conseils consultatifs.

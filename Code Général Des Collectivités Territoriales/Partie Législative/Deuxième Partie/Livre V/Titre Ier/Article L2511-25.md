@@ -20,8 +20,10 @@ Sous réserve des dispositions des alinéas précédents, sont applicables au ma
 d'arrondissement et à ses adjoints les dispositions des articles L. 2122-4 à L.
 2122-7, des premier et deuxième alinéas de l'article L. 2122-8, des premier et
 troisième alinéas de l'article L. 2122-10, des articles L. 2122-12, L. 2122-15,
-L. 2122-16, du second alinéa de l'article L. 2122-18 et de l'article L. 2123-31.
-En cas d'application de l'article L. 2122-15, le représentant de l'Etat dans le
+L. 2122-16, du second alinéa de l'article L. 2122-18 de l'article L. 3122-3, de
+l'article L. 4133-3 et de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen. En cas
+d'application de l'article L. 2122-15, le représentant de l'Etat dans le
 département informe le maire de la commune de la démission du maire
 d'arrondissement ou de ses adjoints.
 

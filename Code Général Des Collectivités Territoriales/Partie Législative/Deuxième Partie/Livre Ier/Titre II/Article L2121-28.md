@@ -1,8 +1,8 @@
 Article L2121-28
 ----
-- I. - Dans les conseils municipaux des communes de plus de 100 000 habitants,
-le fonctionnement des groupes d'élus peut faire l'objet de délibérations sans
-que puissent être modifiées, à cette occasion, les décisions relatives au régime
+I. - Dans les conseils municipaux des communes de plus de 100 000 habitants, le
+fonctionnement des groupes d'élus peut faire l'objet de délibérations sans que
+puissent être modifiées, à cette occasion, les décisions relatives au régime
 indemnitaire des élus.
 
 II. - Dans ces mêmes conseils municipaux, les groupes d'élus se constituent par
@@ -18,7 +18,7 @@ Le maire peut, dans les conditions fixées par le conseil municipal et sur
 proposition des représentants de chaque groupe, affecter aux groupes d'élus une
 ou plusieurs personnes. Le conseil municipal ouvre au budget de la commune, sur
 un chapitre spécialement créé à cet effet, les crédits nécessaires à ces
-dépenses, sans qu'ils puissent excéder 25 p. 100 du montant total des indemnités
+dépenses, sans qu'ils puissent excéder 30 % du montant total des indemnités
 versées chaque année aux membres du conseil municipal.
 
 Le maire est l'ordonnateur des dépenses susmentionnées.

@@ -34,6 +34,11 @@ d'orientation des transports intérieurs n'entrent pas dans l'assiette du
 prélèvement, à due concurrence, de la compensation forfaitaire des charges
 transférées.
 
+Les dépenses réalisées en application de l'expérimentation prévue aux articles
+104, 105 et 111 de la loi n° 2002-276 du 27 février 2002 relative à la
+démocratie de proximité n'entrent pas dans l'assiette du prélèvement, à due
+concurrence, de la compensation forfaitaire des charges transférées.
+
 Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage
 de la pénultième année, tel qu'il est calculé par l'Institut national de la
 statistique et des études économiques, est supérieur au taux de chômage annuel

@@ -13,7 +13,9 @@ la commune qui n'ont pas un caractère fiscal ;
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la
 réalisation des emprunts destinés au financement des investissements prévus par
-le budget et de passer à cet effet les actes nécessaires ;
+le budget, et aux opérations financières utiles à la gestion des emprunts, y
+compris les opérations de couvertures des risques de taux et de change, et de
+passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation,
 l'exécution et le règlement des marchés de travaux, de fournitures et de

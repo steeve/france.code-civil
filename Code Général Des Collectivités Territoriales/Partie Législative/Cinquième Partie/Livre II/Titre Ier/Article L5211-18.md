@@ -42,7 +42,6 @@ par délibérations concordantes de l'organe délibérant et des conseils munici
 des communes membres se prononçant dans les conditions de majorité qualifiée
 requise pour la création de l'établissement. Il en va de même lorsque
 l'établissement public est compétent en matière de zones d'aménagement concerté.
-L'affectation des personnels est décidée dans les mêmes conditions.
 
 L'établissement public de coopération intercommunale est substitué de plein
 droit, à la date du transfert de compétences, aux communes qui le composent dans

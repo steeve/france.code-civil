@@ -1,10 +1,10 @@
 Article L2511-22
 ----
-- Pour l'exercice des compétences du conseil d'arrondissement, le conseil
-municipal peut, dans les cas et conditions qu'il détermine, donner délégation au
-conseil d'arrondissement pour traiter sur mémoires ou sur factures, dans la
-limite de la réglementation applicable, et pour passer des contrats, à
-l'exception des marchés. Lorsque cette délégation est accordée à un
+Pour l'exercice des compétences du conseil d'arrondissement, le conseil
+municipal donne délégation, dans les cas et conditions qu'il détermine, au
+conseil d'arrondissement pour préparer, passer, exécuter et régler les marchés
+de travaux, fournitures et services qui peuvent être passés sans formalités
+préalables en raison de leur montant. Lorsque cette délégation est accordée à un
 arrondissement, elle est donnée, de ce fait, à l'ensemble des arrondissements.
 
 Ces actes sont soumis aux mêmes règles que les actes de même nature décidés par

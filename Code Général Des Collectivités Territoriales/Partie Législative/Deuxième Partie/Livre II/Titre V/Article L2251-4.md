@@ -4,7 +4,8 @@ Article L2251-4
 pour objet l'exploitation de salles de spectacle cinématographique dans des
 conditions fixées par décret en Conseil d'Etat. Ces subventions ne peuvent être
 attribuées qu'aux établissements qui, quel que soit le nombre de leurs salles,
-réalisent en moyenne hebdomadaire moins de 2 200 entrées.
+réalisent en moyenne hebdomadaire moins de 7 500 entrées ou qui font l'objet
+d'un classement art et essai dans des conditions fixées par décret.
 
 Ces aides ne peuvent bénéficier aux entreprises spécialisées dans la projection
 de films visés à l'article 279 bis du code général des impôts.

@@ -1,16 +1,18 @@
 Article L4321-1
 ----
-- Sont obligatoires pour la région :
+Sont obligatoires pour la région :
 
 1° Les dépenses relatives au fonctionnement des organes délibérants et à
 l'entretien de l'hôtel de la région ;
 
 2° Les dépenses relatives aux indemnités de fonction prévues aux articles L.
 4135-15 à L. 4135-18 et aux frais de formation des élus visés à l'article L.
-4135-11 ;
+4135-12 ainsi que les cotisations des régions au fonds institué par l'article L.
+1621-2 ;
 
-3° Les cotisations aux régimes de retraite des élus en application des articles
-L. 4135-21 à L. 4135-24 ;
+3° Les cotisations au régime général de la sécurité sociale en application de
+l'article L. 4135-20-2 et aux régimes de retraites des élus en application des
+articles L. 4135-21 à L. 4135-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 

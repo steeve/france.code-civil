@@ -5,7 +5,8 @@ d'intérêt communal concernant tout ou partie du territoire de la commune. Ces
 comités comprennent des personnes qui peuvent ne pas appartenir au conseil,
 notamment des représentants des associations locales.
 
-Chaque année, il en fixe la composition sur proposition du maire.
+Sur proposition du maire, il en fixe la composition pour une durée qui ne peut
+excéder celle du mandat municipal en cours.
 
 Chaque comité est présidé par un membre du conseil municipal, désigné par le
 maire.

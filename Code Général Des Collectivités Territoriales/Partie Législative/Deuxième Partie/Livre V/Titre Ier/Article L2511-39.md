@@ -1,23 +1,23 @@
 Article L2511-39
 ----
-- A défaut d'accord entre le conseil municipal et les conseils d'arrondissement
-sur les modalités de calcul des dotations des arrondissements, la répartition
-des sommes destinées à ces dotations est effectuée entre les arrondissements
-dans les conditions fixées ci-après.
+A défaut d'accord entre le conseil municipal et les conseils d'arrondissement
+sur les modalités de calcul des dotations de gestion locale des arrondissements,
+la répartition des sommes destinées à ces dotations est effectuée entre les
+arrondissements dans les conditions fixées ci-après.
 
-La dotation des arrondissements comprend deux parts.
+La dotation de gestion locale des arrondissements comprend deux parts.
 
 Les sommes affectées par le conseil municipal au titre de la première part pour
-l'ensemble des arrondissements ne peuvent être inférieures à 80 p. 100 du
-montant total des dotations des arrondissements. Ces sommes sont réparties la
-première année en fonction de l'importance relative des dépenses de
+l'ensemble des arrondissements ne peuvent être inférieures à 80 % du montant
+total des dotations de gestion locale des arrondissements. Ces sommes sont
+réparties la première année en fonction de l'importance relative des dépenses de
 fonctionnement, à l'exclusion des dépenses de personnel et des frais financiers,
 effectuées par la commune dans chacun des arrondissements, au cours des trois
 derniers exercices budgétaires, au titre des équipements et services qui
 relèveront des attributions des conseils d'arrondissement en application des
-dispositions du présent chapitre. L'évaluation de ces dépenses est faite de
-façon contradictoire par la commission prévue par l'article L. 2511-36 ; en cas
-de désaccord du maire de la commune ou du maire d'arrondissement sur les
+dispositions du présent chapitre.L'évaluation de ces dépenses est faite de façon
+contradictoire par la commission prévue par l'article L. 2511-36 ; en cas de
+désaccord du maire de la commune ou du maire d'arrondissement sur les
 propositions de la commission, le conseil municipal se prononce. Pour les années
 ultérieures, la part de chaque arrondissement est modifiée pour tenir compte des
 changements intervenus dans la liste des équipements ou services relevant des

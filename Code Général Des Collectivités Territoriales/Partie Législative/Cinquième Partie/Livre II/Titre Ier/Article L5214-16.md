@@ -35,7 +35,7 @@ création de la communauté de communes. ;
 
 V. - La communauté de communes peut attribuer des fonds de concours aux communes
 membres afin de contribuer à la réalisation ou au fonctionnement d'équipements
-d'intérêt commun.
+dont l'utilité dépasse manifestement l'intérêt communal.
 
 VI. - La communauté de communes, lorsqu'elle est dotée d'une compétence dans ce
 domaine, peut exercer le droit de préemption urbain dans les périmètres fixés,

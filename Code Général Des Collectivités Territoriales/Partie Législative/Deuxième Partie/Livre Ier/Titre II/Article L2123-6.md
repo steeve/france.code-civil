@@ -1,7 +1,7 @@
 Article L2123-6
 ----
-- Des décrets en Conseil d'Etat fixent en tant que de besoin les modalités
-d'application des dispositions des articles L. 2123-3 à L. 2123-5. Ils précisent
+Des décrets en Conseil d'Etat fixent en tant que de besoin les modalités
+d'application des dispositions des articles L. 2123-2 à L. 2123-5. Ils précisent
 notamment les limites dans lesquelles les conseils municipaux peuvent voter les
 majorations prévues à l'article L. 2123-4 ainsi que les conditions dans
 lesquelles ces articles s'appliquent aux membres des assemblées délibérantes et

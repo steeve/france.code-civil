@@ -4,3 +4,5 @@ Article L2511-19
 représentants de la commune dans les organismes dont le champ d'action est
 limité à l'arrondissement et dans lesquels la commune doit être représentée en
 vertu de dispositions applicables à ces organismes.
+
+Cette disposition est appliquée aux conseils d'école.

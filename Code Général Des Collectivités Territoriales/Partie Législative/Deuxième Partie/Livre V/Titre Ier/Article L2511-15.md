@@ -1,11 +1,14 @@
 Article L2511-15
 ----
-- Le conseil d'arrondissement est consulté par le maire de la commune, dans des
+Le conseil d'arrondissement est consulté par le maire de la commune, dans des
 conditions fixées par décret en Conseil d'Etat, avant toute délibération du
 conseil municipal portant sur l'établissement, la révision ou la modification du
-plan d'occupation des sols lorsque le périmètre du projet de plan d'occupation
-des sols ou le projet de modification ou de révision concerne, en tout ou
-partie, le ressort territorial de l'arrondissement.
+plan local d'urbanisme lorsque le périmètre du projet de plan ou le projet de
+modification ou de révision concerne, en tout ou partie, le ressort territorial
+de l'arrondissement.
+
+Le conseil d'arrondissement peut également proposer au conseil municipal la
+modification de la partie du plan concernant l'arrondissement.
 
 Le conseil d'arrondissement est consulté dans les mêmes conditions avant toute
 délibération du conseil municipal portant sur un projet d'opération

@@ -4,3 +4,11 @@ Article L4221-5
 commission permanente, à l'exception de celles relatives au vote du budget, à
 l'approbation du compte administratif et aux mesures de même nature que celles
 visées à l'article L. 1612-15.
+
+Dans les limites qu'il aura fixées, le conseil régional peut également déléguer
+à son président la possibilité de procéder à la réalisation des emprunts
+destinés au financement des investissements prévus par le budget, et aux
+opérations financières utiles à la gestion des emprunts, y compris les
+opérations de couverture des risques de taux et de change, et de passer à cet
+effet les actes nécessaires. Le président informe le conseil des actes pris dans
+le cadre de cette délégation.

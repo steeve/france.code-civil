@@ -35,3 +35,6 @@ des collectivités territoriales et, jusqu'à l'approbation de celui-ci, le sch�
 d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n°
 2002-92 du 22 janvier 2002 relative à la Corse ont valeur de schéma de cohérence
 territoriale.
+
+Les dispositions du présent article sont applicables à compter du 1er juillet
+2002.

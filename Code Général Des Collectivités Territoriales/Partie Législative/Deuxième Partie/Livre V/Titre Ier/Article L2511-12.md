@@ -1,11 +1,11 @@
 Article L2511-12
 ----
-- Le conseil d'arrondissement peut adresser des questions écrites au maire de la
+Le conseil d'arrondissement peut adresser des questions écrites au maire de la
 commune sur toute affaire intéressant l'arrondissement. En l'absence de réponse
-écrite dans un délai de trois mois, la question est inscrite de droit à l'ordre
-du jour de la séance du conseil municipal qui suit l'expiration de ce délai. Le
-conseil municipal fixe les conditions de publicité des questions et des
-réponses.
+écrite dans un délai de quarante-cinq jours, la question est inscrite de droit à
+l'ordre du jour de la séance du conseil municipal qui suit l'expiration de ce
+délai. Le conseil municipal fixe les conditions de publicité des questions et
+des réponses.
 
 A la demande du conseil d'arrondissement, le conseil municipal débat de toute
 affaire intéressant l'arrondissement. Les questions soumises à débat sont

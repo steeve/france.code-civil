@@ -3,8 +3,8 @@ Article L211-7
 Dans le respect de la carte des formations supérieures instituée par l'article
 L. 614-3, l'Etat peut confier aux collectivités territoriales ou à leurs
 groupements la maîtrise d'ouvrage de constructions ou d'extensions
-d'établissements d'enseignement supérieur relevant du ministre chargé de
-l'enseignement supérieur ou du ministre de l'agriculture.
+d'établissements d'enseignement supérieur relevant des divers ministres ayant la
+tutelle de tels établissements.
 
 A cette fin, l'Etat conclut une convention avec la collectivité territoriale ou
 le groupement intéressé ; cette convention précise notamment le lieu

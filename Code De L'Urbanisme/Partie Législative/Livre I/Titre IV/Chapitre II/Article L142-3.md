@@ -12,8 +12,8 @@ conseil général qu'avec l'accord du représentant de l'Etat dans le départeme
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur
 tout terrain ou ensemble de droits sociaux donnant vocation à l'attribution en
-propriété ou en jouissance de terrains qui font l'objet d'une aliénation
-volontaire, à titre onéreux, sous quelque forme que ce soit.
+propriété ou en jouissance de terrains qui font l'objet d'une aliénation, à
+titre onéreux, sous quelque forme que ce soit.
 
 A titre exceptionnel, l'existence d'une construction ne fait pas obstacle à
 l'exercice du droit de préemption dès lors que le terrain est de dimension
@@ -22,6 +22,15 @@ localisation, nécessaire à la mise en oeuvre de la politique des espaces
 naturels sensibles des départements. Dans le cas où la construction acquise est
 conservée, elle est affectée à un usage permettant la fréquentation du public et
 la connaissance des milieux naturels.
+
+Lorsque la mise en oeuvre de la politique prévue à l'article L. 142-1 le
+justifie, le droit de préemption peut s'exercer pour acquérir la fraction d'une
+unité foncière comprise à l'intérieur de la zone de préemption. Dans ce cas, le
+propriétaire peut exiger que le titulaire du droit de préemption se porte
+acquéreur de l'ensemble de l'unité foncière. Le prix d'acquisition fixé par la
+juridiction compétente en matière d'expropriation tient compte de l'éventuelle
+dépréciation subie, du fait de la préemption partielle, par la fraction restante
+de l'unité foncière.
 
 En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une
 disposition législative ou réglementaire, l'acquisition par le titulaire du
@@ -47,6 +56,21 @@ préemption est subordonné à l'accord explicite du département. Au cas où ni
 conservatoire ni l'établissement public chargé d'un parc national ou d'un parc
 naturel régional n'est compétent, la commune peut se substituer au département
 si celui-ci n'exerce pas son droit de préemption.
+
+Lorsqu'il est territorialement compétent, le Conservatoire de l'espace littoral
+et des rivages lacustres peut prendre l'initiative de l'institution de zones de
+préemption à l'extérieur des zones délimitées par le département en application
+du présent article, des zones urbaines ou à urbaniser délimitées par les plans
+d'urbanisme locaux et des zones constructibles délimitées par les cartes
+communales. Le projet de périmètre est adressé pour avis au département et à la
+commune ou à l'établissement public de coopération intercommunale compétent. Ces
+avis sont réputés favorables s'ils n'interviennent pas dans un délai de trois
+mois après transmission du projet. Le périmètre est délimité par arrêté
+préfectoral. En cas d'avis défavorable de la commune ou de l'établissement
+public de coopération intercommunale compétent, il ne peut être délimité que par
+décret en Conseil d'Etat. A l'intérieur des périmètres ainsi délimités, le
+conservatoire exerce les compétences attribuées au département par le présent
+article.
 
 Lorsque la commune fait partie d'un établissement public de coopération
 intercommunale y ayant vocation, elle peut, en accord avec cet établissement,

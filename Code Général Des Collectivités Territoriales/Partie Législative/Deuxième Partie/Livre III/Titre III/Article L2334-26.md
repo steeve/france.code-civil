@@ -1,12 +1,13 @@
 Article L2334-26
 ----
-- A compter de l'exercice 1986, les communes reçoivent une dotation spéciale,
+A compter de l'exercice 1986, les communes reçoivent une dotation spéciale,
 prélevée sur les recettes de l'Etat, au titre des charges qu'elles supportent
 pour le logement des instituteurs.
 
 Cette dotation évolue, chaque année, comme la dotation globale de
 fonctionnement, compte tenu, le cas échéant, de la régularisation prévue à
-l'article L. 1613-2.
+l'article L. 1613-2. Le Comité des finances locales peut majorer cette dotation
+de tout ou partie du reliquat comptable afférent au dernier exercice connu.
 
 Cette dotation est répartie par le comité des finances locales
 proportionnellement au nombre des instituteurs, exerçant dans les écoles

@@ -2,7 +2,11 @@ Article L122-24-1
 ----
 Les employeurs sont tenus de laisser à leurs salariés, candidats à l'Assemblée
 nationale ou au Sénat, le temps nécessaire pour participer à la campagne
-électorale dans la limite de vingt jours ouvrables.
+électorale dans la limite de vingt jours ouvrables. Le même droit est accordé,
+sur leur demande, aux salariés candidats au Parlement européen, au conseil
+municipal dans une commune d'au moins 3 500 habitants, au conseil général, au
+conseil régional et à l'Assemblée de Corse, dans la limite de dix jours
+ouvrables.
 
 Le salarié bénéficie à sa convenance des dispositions de l'alinéa précédent, à
 condition que chaque absence soit au moins d'une demi-journée entière. Il doit

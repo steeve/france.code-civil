@@ -4,6 +4,8 @@ Le commissaire enquêteur ou le président de la commission d'enquête conduit
 l'enquête de manière à permettre au public de prendre une connaissance complète
 du projet et de présenter ses appréciations, suggestions et contre-propositions.
 
+Il reçoit le maître d'ouvrage de l'opération soumise à l'enquête publique.
+
 Il peut recevoir tous documents, visiter les lieux concernés, à l'exception des
 lieux d'habitation, après information préalable des propriétaires et des
 occupants par les soins de l'autorité compétente, entendre toutes personnes dont

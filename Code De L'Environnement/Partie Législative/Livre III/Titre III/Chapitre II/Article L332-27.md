@@ -15,5 +15,8 @@ de l'article L. 141-1 du présent code.
 
 Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal
 statue soit sur la mise en conformité des lieux avec les prescriptions formulées
-par le ministre chargé de la protection de la nature, soit sur leur
+respectivement par le ministre chargé de l'environnement, le président du
+conseil régional ou le président du conseil exécutif de Corse, selon qu'il
+s'agit d'une réserve naturelle nationale, d'une réserve naturelle régionale, ou
+d'une réserve naturelle classée par l'Assemblée de Corse, soit sur le
 rétablissement dans leur état antérieur.
