@@ -2,10 +2,7 @@ Article L913-1
 ----
 Aucune disposition comportant une discrimination fondée sur le sexe ne peut être
 insérée, à peine de nullité, dans les conventions, accords ou décisions
-unilatérales relevant de l'article L. 911-1 .
+unilatérales relevant de l'article L. 911-1 [*interdiction*].
 
 L'alinéa précédent ne fait pas obstacle aux dispositions relatives à la
 protection de la femme en raison de la maternité.
-
-Il ne s'applique pas aux dispositions relatives à la fixation de l'âge de la
-retraite et aux conditions d'attribution des pensions de reversion.
