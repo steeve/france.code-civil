@@ -4,9 +4,11 @@ La demande d'autorisation d'ouverture d'un entrepôt fiscal mentionné au 2° du
 de l'article 277 A du code général des impôts est présentée dans les conditions
 ci-après :
 
-1. Le demandeur doit être un assujetti établi en France ou le représentant d'un
-assujetti établi dans un autre Etat membre de la Communauté européenne, qui a
-été désigné conformément au I de l'article 289 A du code général des impôts.
+1. Le demandeur doit être un assujetti établi en France ou un assujetti établi
+dans un autre Etat membre de la Communauté européenne, identifié à la taxe sur
+la valeur ajoutée en France et qui y a désigné un mandataire pour accomplir en
+son nom et pour son compte les formalités et obligations afférentes audit régime
+d'entrepôt fiscal objet de la demande d'autorisation d'ouverture ;
 
 2. La demande est déposée :
 
