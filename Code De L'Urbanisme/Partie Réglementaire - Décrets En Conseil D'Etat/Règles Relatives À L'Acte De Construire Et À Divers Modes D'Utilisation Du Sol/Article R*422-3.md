@@ -8,14 +8,25 @@ matériaux qui seront utilisés.
 
 Le maire peut, dans le délai d'un mois à compter de la réception de la
 déclaration, faire connaître à l'intéressé par un avis motivé qu'il n'est pas
-favorable à l'exécution des travaux projetés. Par le même courrier, le maire
-doit adresser copie de son avis au préfet qui, après avoir procédé à la
-consultation de la conférence permanente du permis de construire, décide, dans
-un délai de deux mois à compter de la réception de l'avis du maire, d'autoriser
-ou d'interdire les travaux projetés.
+favorable à l'exécution des travaux projetés. Le déclarant doit alors surseoir à
+l'exécution des travaux, jusqu'à ce que l'autorité compétente ait pris position
+sur le projet.
 
-Le déclarant doit, en cas d'avis défavorable du maire, surseoir à l'exécution
-des travaux jusqu'à ce que le préfet ait pris position sur le projet. En
-l'absence de notification de la décision [*tacite*] du préfet, à l'expiration du
-délai de deux mois mentionné à l'alinéa ci-dessus, les travaux peuvent être
-librement exécutés.
+Dans les communes où un plan d'occupation des sols a été approuvé, à l'exclusion
+des cas mentionnés au quatrième alinéa de l'article L. 421-2-1, le maire ou, le
+cas échéant, le président de l'établissement public de coopération
+intercommunale compétent décide, dans un délai de deux mois à compter de la
+notification de l'avis du maire à l'intéressé, après consultation éventuelle de
+la conférence permanente du permis de construire, d'autoriser ou d'interdire les
+travaux projetés.
+
+Dans les autres communes, et dans les cas mentionnés au quatrième alinéa de
+l'article L. 421-2-1, le maire adresse au commissaire de la République copie de
+l'avis prévu au deuxième alinéa par le même courrier. Le commissaire de la
+République, après consultation de la conférence permanente du permis de
+construire, décide dans un délai de deux mois à compter de la réception de
+l'avis du maire, d'autoriser ou d'interdire les travaux projetés.
+
+En l'absence de notification de la décision de l'autorité compétente à
+l'expiration du délai de deux mois mentionné à l'alinéa ci-dessus, les travaux
+peuvent être exécutés [*autorisation tacite*].
