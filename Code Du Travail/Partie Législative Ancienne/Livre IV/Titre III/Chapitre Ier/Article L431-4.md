@@ -9,10 +9,9 @@ techniques de production [*attributions*].
 Il formule, à son initiative, et examine, à la demande du chef d'entreprise,
 toute proposition de nature à améliorer les conditions de travail, d'emploi et
 de formation professionnelle des salariés, leurs conditions de vie dans
-l'entreprise ainsi que les conditions dans lesquelles ils bénéficient d'une
-couverture contre le risque décès, les risques portant atteinte à l'intégrité
-physique de la personne ou liés à la maternité ou les risques d'incapacité de
-travail ou d'invalidité.
+l'entreprise ainsi que les conditions dans lesquelles ils bénéficient de
+garanties collectives mentionnées à l'article L. 911-2 du code de la sécurité
+sociale.
 
 Il exerce ses missions sans préjudice des dispositions relatives à l'expression
 des salariés, aux délégués du personnel et aux délégués syndicaux.

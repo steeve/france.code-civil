@@ -4,17 +4,6 @@ L'employeur qui décide de licencier un salarié doit notifier le licenciement p
 lettre recommandée avec demande d'avis de réception ; la date de présentation de
 la lettre recommandée fixe le point de départ du délai-congé.
 
-Les dispositions de l'alinéa précédent ne sont pas applicables en cas de
-redressement ou de liquidation judiciaires.
-
-Cette lettre ne peut être expédiée moins d'un jour franc [*délai*] après la date
-pour laquelle le salarié a été convoqué en application des dispositions de
-l'article L. 122-14.
-
-En l'absence d'institutions représentatives du personnel dans l'entreprise, les
-délais visés à l'alinéa précédent sont respectivement de quatre jours et de
-douze jours.
-
 Toutefois, si le salarié est licencié individuellement pour un motif d'ordre
 économique ou s'il est inclus dans un licenciement collectif d'ordre économique
 concernant moins de dix salariés dans une même période de trente jours, la
@@ -23,6 +12,13 @@ moins de sept jours à compter de la date pour laquelle le salarié a été conv
 en application de l'article L. 122-14 [*délai d'envoi*]. Ce délai est de quinze
 jours en cas de licenciement individuel d'un membre du personnel d'encadrement
 tel que défini au troisième alinéa de l'article L. 513-1.
+
+En l'absence d'institutions représentatives du personnel dans l'entreprise, les
+délais visés à l'alinéa précédent sont respectivement de quatre jours et de
+douze jours.
+
+Les dispositions des deux alinéas précédents ne sont pas applicables en cas de
+redressement ou de liquidation judiciaires.
 
 En cas de licenciement collectif pour motif économique concernant au moins dix
 salariés dans une même période de trente jours, la lettre prévue au premier

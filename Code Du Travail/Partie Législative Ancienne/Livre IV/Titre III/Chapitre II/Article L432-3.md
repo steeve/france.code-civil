@@ -21,8 +21,8 @@ travail ainsi que sur le plan d'étalement des congés dans les conditions prév
 aménagements d'horaires prévus à l'article L. 212-4-8.
 
 Il est également consulté, en liaison avec le comité d'hygiène, de sécurité et
-des conditions de travail, sur les mesures prises [*conditions de leur accueil,
-période d'essai et aménagement des postes de travail*] en vue de faciliter la
+des conditions de travail, sur les mesures prises - conditions de leur accueil,
+période d'essai et aménagement des postes de travail - en vue de faciliter la
 mise ou la remise au travail des accidentés du travail, des invalides de guerre
 et assimilés, des invalides civils, des travailleurs handicapés, notamment sur
 celles qui sont relatives à l'application de la section première du chapitre III
@@ -43,10 +43,8 @@ professionnelle dans l'entreprise dans les conditions prévues à l'article l.
 dans les conditions prévues à l'article L. 933-3.
 
 Le comité d'entreprise est obligatoirement informé et consulté préalablement à
-la mise en place d'une couverture des salariés contre le risque décès, les
-risques portant atteinte à l'intégrité physique de la personne ou liés à la
-maternité ou les risques d'incapacité de travail ou d'invalidité ou à la
-modification de la couverture existante.
+la mise en place d'une garantie collective mentionnée à l'article L. 911-2 du
+code de la sécurité sociale ou à la modification de celle-ci.
 
 Le comité d'entreprise est obligatoirement consulté sur :
 

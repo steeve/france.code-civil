@@ -1,17 +1,19 @@
 Article 268
 ----
-1. Les cigarettes, les cigares et cigarillos, le tabac à fumer, le tabac à
-mâcher et le tabac à priser, destinés à être consommés dans les départements de
-la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles
-d'un droit de consommation.
+1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à
+priser, les tabacs fine coupe destinés à rouler les cigarettes et les autres
+tabacs à fumer, destinés à être consommés dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un
+droit de consommation.
 
 Pour les produits des espèces fabriquées et vendues au public en France
 continentale, le droit de consommation est fixé à des taux permettant leur vente
 au détail à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion à des
 prix égaux aux deux tiers des prix de vente au détail en France continentale
-s'il s'agit de cigarettes et de tabac à fumer, à mâcher et à priser, et aux 85
-p. 100 des prix de vente au détail en France continentale, s'il s'agit de
-cigares et de cigarillos.
+s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser, de tabacs
+fine coupe destinés à rouler les cigarettes et des autres tabacs à fumer, et aux
+85 % des prix de vente au détail en France continentale, s'il s'agit de cigares
+et de cigarillos.
 
 Pour les autres produits, les taux du droit de consommation sont ceux
 applicables aux produits visés à l'alinéa précédent et présentant la plus grande
