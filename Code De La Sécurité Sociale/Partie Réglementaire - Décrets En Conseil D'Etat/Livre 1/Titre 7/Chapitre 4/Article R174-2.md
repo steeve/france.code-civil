@@ -1,6 +1,11 @@
 Article R174-2
 ----
-Le forfait journalier institué à l'article L. 174-4 est déterminé compte tenu du
-coût journalier moyen d'hébergement. Son montant qui ne peut excéder la moitié
-de ce coût est fixé par arrêté des ministres chargés de la sécurité sociale, de
-la santé, de l'agriculture, de l'économie, des finances et du budget.
+Chaque année, dans un délai de quinze jours suivant la promulgation de la loi de
+financement de la sécurité sociale, les ministres chargés de la santé, de la
+sécurité sociale et du budget arrêtent, sur recommandation du conseil de
+l'hospitalisation, le montant de l'objectif de dépenses d'assurance maladie
+mentionné à l'article L. 174-1-1.
+
+Dans un délai de quinze jours suivant la publication de cet arrêté, les
+ministres chargés de la santé et de la sécurité sociale arrêtent les dotations
+régionales mentionnées au même article.
