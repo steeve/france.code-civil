@@ -31,8 +31,7 @@ sociétés, les dirigeants s'entendent au sens des personnes mentionnées au
 premier alinéa du 1° de l'article 885 O bis du code général des impôts.
 
 Les entreprises solidaires répondant aux conditions fixées ci-dessus sont
-agréées par décision conjointe du ministre chargé de l'économie et du ministre
-chargé de l'économie solidaire.
+agréées par l'autorité administrative.
 
 Sont assimilés à ces entreprises les organismes dont l'actif est composé pour au
 moins 80 % de titres émis par des entreprises solidaires ou les établissements

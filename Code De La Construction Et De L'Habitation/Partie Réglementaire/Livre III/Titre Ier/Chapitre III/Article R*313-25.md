@@ -23,6 +23,9 @@ e) Les produits résultant du placement des fonds en attente d'un emploi conform
 aux articles R. 313-31, R. 313-34 et R. 313-52 à R. 313-56 pour la part excédant
 une limite fixée par décret.
 
+f) Le surplus du produit net de la liquidation excédant la moitié du capital
+social des sociétés mentionnées à l'article R. 313-31-2.
+
 Les versements faits par ces organismes à d'autres organismes collecteurs
 mentionnés à l'article R. 313-9 (2°, a et b), à l'Agence nationale pour la
 participation des employeurs à l'effort de construction et à l'Union d'économie
