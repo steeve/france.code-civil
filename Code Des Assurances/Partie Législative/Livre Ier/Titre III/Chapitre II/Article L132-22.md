@@ -1,17 +1,23 @@
 Article L132-22
 ----
-Sauf dans le cas de force majeure constaté par décret rendu sur le rapport du
-ministre de l'économie et des finances, le rachat, sur la demande de l'assuré,
-est obligatoire.
+Les modalités de calcul de la valeur de rachat sont déterminées par un règlement
+général mentionné dans la police et établi par l'assureur après avis de
+l'autorité administrative.
 
-Des avances peuvent être faites par l'assureur à l'assuré.
+Dès la signature du contrat, l'assureur informe le contractant que ce règlement
+général est tenu à sa disposition sur sa demande. L'assureur doit communiquer au
+contractant, sur la demande de celui-ci, le texte du règlement général.
 
-Le prix du rachat, le nombre de primes à payer avant que le rachat ou les
-avances puissent être demandés, doivent être déterminés par un règlement général
-de l'assureur, pris sur avis du ministre de l'économie et des finances.
+L'assureur doit, en outre, communiquer au contractant le montant de la valeur de
+rachat à l'échéance annuelle de la prime et préciser en termes intelligibles
+dans cette communication ce que signifie l'opération de rachat et quelles sont
+ses conséquences légales et contractuelles.
 
-Les dispositions du règlement général ne peuvent être modifiées par une
-convention particulière.
+Dans la limite de cette valeur, l'assureur peut consentir des avances au
+contractant.
 
-Les conditions de rachat doivent être indiquées dans la police, de manière que
-l'assuré puisse à toute époque connaître la somme à laquelle il a droit.
+Sauf dans le cas de circonstances exceptionnelles constaté par décret,
+l'assureur doit, à la demande du contractant, verser à celui-ci la valeur de
+rachat du contrat, dans un délai qui ne peut excéder deux mois. les intérêts de
+retard au taux légal courent de plein droit à compter de l'expiration de ce
+délai.

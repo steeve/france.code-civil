@@ -1,13 +1,25 @@
 Article L132-20
 ----
-L'assureur n'a pas d'action pour exiger le paiement des primes. Le défaut de
-paiement d'une prime n'a pour sanction, après accomplissement des formalités
-prescrites par l'article L. 113-3, que la résiliation pure et simple de
-l'assurance ou la réduction de ses effets.
+L'assureur n'a pas d'action pour exiger le paiement des primes.
 
-Dans les contrats d'assurance en cas de décès faits pour la durée entière de la
-vie de l'assuré, sans condition de survie, et dans tous les contrats où les
-sommes ou rentes assurées sont payables après un certain nombre d'années, le
-défaut de paiement ne peut avoir pour effet que la réduction du capital ou de la
-rente assurée, nonobstant toute convention contraire, pourvu qu'il ait été payé
-au moins trois primes annuelles.
+Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son
+échéance, l'assureur adresse au contractant une lettre recommandée par laquelle
+il l'informe qu'à l'expiration d'un délai de quarante jours à dater de l'envoi
+de cette lettre le défaut de paiement, à l'assureur ou au mandataire désigné par
+lui, de la prime ou fraction de prime échue ainsi que des primes éventuellement
+venues à échéance au cours dudit délai, entraîne :
+
+- soit la résiliation du contrat en cas d'inexistence ou d'insuffisance de la
+valeur de rachat ;
+
+- soit l'avance par l'assureur de la prime ou fraction de prime non payée, dans
+la limite de la valeur de rachat du contrat, selon des modalités déterminées par
+un règlement général mentionné dans la police et établi par l'assureur, après
+avis de l'autorité administrative ;
+
+- soit la réduction du contrat dans le cas où le contractant renonce
+expressément à l'avance ci-dessus, avant l'expiration du délai de quarante jours
+précité.
+
+L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tous
+les cas.

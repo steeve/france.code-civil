@@ -7,13 +7,12 @@ décret en Conseil d'Etat.
 
 A défaut de paiement d'une prime, ou d'une fraction de prime, dans les dix jours
 de son échéance, et indépendamment du droit pour l'assureur de poursuivre
-l'exécution du contrat en justice sous réserve des dispositions de l'article L.
-132-20, la garantie ne peut être suspendue que trente jours après la mise en
-demeure de l'assuré. Au cas où la prime annuelle a été fractionnée, la
-suspension de la garantie, intervenue en cas de non-paiement d'une des fractions
-de prime, produit ses effets jusqu'à l'expiration de la période annuelle
-considérée. La prime ou fraction de prime est portable dans tous les cas, après
-la mise en demeure de l'assuré.
+l'exécution du contrat en justice, la garantie ne peut être suspendue que trente
+jours après la mise en demeure de l'assuré. Au cas où la prime annuelle a été
+fractionnée, la suspension de la garantie, intervenue en cas de non-paiement
+d'une des fractions de prime, produit ses effets jusqu'à l'expiration de la
+période annuelle considérée. La prime ou fraction de prime est portable dans
+tous les cas, après la mise en demeure de l'assuré.
 
 L'assureur a le droit de résilier le contrat dix jours après l'expiration du
 délai de trente jours mentionné au deuxième alinéa du présent article.
@@ -25,5 +24,5 @@ fractions de prime ayant fait l'objet de la mise en demeure et celles venues à
 échéance pendant la période de suspension ainsi que, éventuellement, les frais
 de poursuites et de recouvrement.
 
-Toute clause réduisant les délais fixés par les dispositions précédentes ou
-dispensant l'assureur de la mise en demeure est nulle.
+Les dispositions des alinéas 2 à 4 du présent article ne sont pas applicables
+aux assurances sur la vie.

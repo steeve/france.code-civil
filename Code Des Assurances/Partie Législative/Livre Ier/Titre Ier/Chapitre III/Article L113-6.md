@@ -10,6 +10,6 @@ lequel l'assureur ne couvre plus le risque est restituée à la masse.
 
 En cas de liquidation de biens ou de règlement judiciaire de l'assureur, le
 contrat prend fin un mois après la déclaration de liquidation de biens ou de
-règlement judiciaire, sous réserve des dispositions de l'article L. 132-27.
+règlement judiciaire, sous réserve des dispositions de l'article L. 327-4.
 L'assuré peut réclamer le remboursement de la prime payée pour le temps où
 l'assurance ne court plus.

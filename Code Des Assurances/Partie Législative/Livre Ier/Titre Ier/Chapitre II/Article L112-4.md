@@ -1,6 +1,8 @@
 Article L112-4
 ----
-La police d'assurance est datée du jour où elle est établie. Elle indique :
+La police d'assurance est datée du jour où elle est établie.
+
+Elle indique :
 
 - les noms et domiciles des parties contractantes ;
 
@@ -15,5 +17,5 @@ La police d'assurance est datée du jour où elle est établie. Elle indique :
 
 - la prime ou la cotisation de l'assurance.
 
-Les clauses des polices édictant des nullités ou des déchéances ne sont valables
-que si elles sont mentionnées en caractères très apparents.
+Les clauses des polices édictant des nullités, des déchéances ou des exclusions
+ne sont valables que si elles sont mentionnées en caractères très apparents.

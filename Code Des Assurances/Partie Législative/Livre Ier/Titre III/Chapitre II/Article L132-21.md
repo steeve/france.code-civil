@@ -1,16 +1,14 @@
 Article L132-21
 ----
-Les conditions de la réduction doivent être indiquées dans la police de manière
-que l'assuré puisse à toute époque connaître la somme à laquelle l'assurance est
-réduite en cas de cessation du paiement des primes.
+Les modalités de calcul de la valeur de réduction sont déterminées par un
+règlement général mentionné dans la police et établi par l'assureur après accord
+de l'autorité administrative.
 
-L'assurance réduite être inférieure à celle que l'assuré obtiendrait en
-appliquant comme prime unique à la souscription d'une assurance de même nature,
-et conformément aux tarifs d'inventaire en vigueur lors de l'assurance
-primitive, une somme égale à la provision mathématique de son contrat à la date
-de la résiliation, cette provision étant diminuée de 1 % au plus de la somme
-primitivement assurée.
+Dès la signature du contrat, l'assureur informe le contractant que ce règlement
+général est tenu à sa disposition sur sa demande. L'assureur doit communiquer au
+contractant, sur la demande de celui-ci, le texte du règlement général.
 
-Quand l'assurance a été souscrite pour partie moyennant le paiement d'une prime
-unique, la partie de l'assurance qui correspond à cette prime demeure en
-vigueur, nonobstant le défaut de paiement des primes périodiques.
+L'assureur doit, en outre, communiquer au contractant le montant de la valeur de
+réduction du contrat à l'échéance annuelle de la prime et préciser en termes
+intelligibles dans cette communication ce que signifie l'opération de réduction
+et quelles sont ses conséquences légales et contractuelles.
