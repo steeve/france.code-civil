@@ -1,20 +1,20 @@
 Article A612-5
 ----
-Sont membres de la conférence permanente du permis de construire de la ville de
-Paris :
+Sont membres de la conférence permanente du permis de construire du département
+de Paris :
 
 Le préfet de Paris ou le secrétaire général, président ;
 
-Les directeurs chargés, à la préfecture de Paris, des affaires concernant
-l'urbanisme, l'habitation, la santé publique, les beaux-arts, la jeunesse et les
-sports, l'enseignement, l'architecture, les questions domaniales et les services
-techniques ; Le président de la section permanente de la commission
-départementale des sites ;
+Le directeur de l'urbanisme et des équipements de la préfecture de Paris ;
+
+Le directeur départemental de l'action sanitaire et sociale ;
+
+Le président de la délégation permanente de la commission départementale des
+sites ;
 
 L'inspecteur général des monuments historiques ;
 
-Le directeur de la division Urbanisme du service régional de l'équipement de la
-région d'Ile-de-France ;
+L'inspecteur d'académie ;
 
 Le directeur de l'hygiène et de la sécurité publique de la préfecture de police
 ;
