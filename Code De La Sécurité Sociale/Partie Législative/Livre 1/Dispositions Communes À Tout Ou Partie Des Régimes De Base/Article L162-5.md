@@ -29,10 +29,16 @@ spécialisée ainsi que les dispositions permettant, d'une part, une meilleure
 coordination de leurs interventions et, d'autre part, l'amélioration du recours
 aux établissements de soins hospitaliers ;
 
+2° bis Le cas échéant, les conditions tendant à éviter à l'assuré social de
+payer directement les honoraires aux médecins ;
+
 3° Les conditions de l'indemnisation des médecins qui participent aux actions de
 formation médicale continue visée à l'article L. 367-2 du code de la santé
 publique ainsi que le montant de la contribution mentionnée à l'article L. 367-8
 du même code ;
+
+3° bis Le cas échéant, les conditions de promotion des actions d'évaluation des
+pratiques professionnelles individuelles ou collectives ;
 
 4° Les modalités de financement des expérimentations et des actions innovantes ;
 
@@ -49,7 +55,9 @@ dépenses dans chaque circonscription de caisse ;
 
 7° Le cas échéant, les modalités de financement et d'organisation de la
 reconversion professionnelle des médecins exerçant à titre libéral et les
-conditions d'attribution d'une aide à la reconversion. Elles peuvent prévoir de
+conditions d'attribution d'une aide à la reconversion dont le montant peut
+varier en fonction de la zone géographique et de l'exercice, par le médecin,
+d'une spécialité ou de la médecine générale. Elles peuvent prévoir de
 subordonner cette aide à l'engagement du médecin à renoncer à tout exercice de
 la médecine nécessitant une inscription au tableau de l'Ordre des médecins ainsi
 que les modalités de son remboursement en cas de reprise d'une activité telle
@@ -68,4 +76,29 @@ l'article 6 de la loi n° 93-8 du 4 janvier 1993 relative aux relations entre le
 professions de santé et l'assurance maladie ;
 
 10° Les conditions dans lesquelles est assuré le suivi des dépassements
-d'honoraires et de leur évolution.
+d'honoraires et de leur évolution ;
+
+12° Le cas échéant :
+
+a) Les conditions particulières d'exercice propres à favoriser la coordination
+des soins par un médecin généraliste choisi par le patient, et les modes de
+rémunération, autres que le paiement à l'acte, y afférents ;
+
+b) Les conditions particulières d'exercice permettant la prise en charge globale
+de patients dans le cadre de réseaux de soins et les modes de rémunération des
+médecins participant à ces réseaux ;
+
+c) Les droits et obligations respectifs des médecins, des patients et des
+caisses, ainsi que des modalités d'évaluation associées aux formes d'exercice et
+modes de rémunération mentionnés aux a et b ci-dessus.
+
+13° Le cas échéant, les modes de rémunération, autres que le paiement à l'acte,
+des activités de soins ainsi que les modes de rémunération des activités non
+curatives des médecins, et notamment de prévention, d'éducation pour la santé,
+de formation, d'évaluation, d'études de santé publique, de veille sanitaire,
+prévus par des contrats passés entre les médecins concernés et les organismes
+d'assurance maladie et définissant les obligations relatives aux conditions
+d'exercice qui en résultent pour les intéressés.
+
+Pour la mise en oeuvre des 12° et 13°, il peut être fait application des
+dérogations mentionnées au II de l'article L. 162-31-1.
