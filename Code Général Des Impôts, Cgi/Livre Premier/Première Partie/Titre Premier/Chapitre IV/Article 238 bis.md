@@ -9,7 +9,7 @@ familial, culturel ou concourant à la mise en valeur du patrimoine artistique, 
 la défense de l'environnement naturel ou à la diffusion de la culture, de la
 langue et des connaissances scientifiques françaises notamment quand ces
 versements sont faits au bénéfice d'une fondation d'entreprise, même si cette
-dernière porte le nom d'entreprise fondatrice.
+dernière porte le nom de l'entreprise fondatrice.
 
 Sont également déductibles, dans la même limite, les dons prévus à l'article L.
 52-8 du code électoral versés à une association de financement électoral ou à un
@@ -59,6 +59,9 @@ budget.
 statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des
 versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
-(1) Voir le décret n° 85-1304 du 9 décembre 1985, JO du 11).
+6. Pour les dons visés au deuxième alinéa du 1, l'association de financement ou
+le mandataire financier délivre au donateur un reçu dont un décret en Conseil
+d'Etat fixe les conditions d'établissement et d'utilisation. (1) Voir le décret
+n° 85-1304 du 9 décembre 1985, JO du 11).
 
 (2) Voir le décret n° 85-865 du 9 août 1985, JO du 15.
