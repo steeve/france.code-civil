@@ -1,4 +1,4 @@
-Article L954-5
+Article L924-5
 ----
 Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi
 rédigés :
@@ -13,7 +13,7 @@ saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu
 ou de relaxe.
 
 Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un
-recours devant la cour d'appel.
+recours devant le tribunal supérieur d'appel.
 
-La cour d'appel statue dans un délai de dix jours à compter de la réception des
-pièces. "
+Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de la
+réception des pièces. "

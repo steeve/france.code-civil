@@ -1,3 +1,6 @@
 Article L736-4
 ----
-La section 1 du chapitre IV du titre Ier du livre VI est applicable à Mayotte.
+Les articles L. 614-1 à L. 614-3 sont applicables à Mayotte sous réserve de
+supprimer, à l'article L. 614-2, les mots : "et de toute proposition de
+règlement ou de directive communautaires avant son examen par le Conseil des
+Communautés européennes".
