@@ -10,5 +10,5 @@ cette attestation fait apparaître distinctement, le cas échéant, le montant d
 cotisations ou primes correspondant aux rachats mentionnés au c du 2 du I du
 même article.
 
-Un double de l'attestation mentionnée au premier alinéa est produit dans le même
-délai à l'administration fiscale.
+Un double de l'attestation mentionnée à l'alinéa précédent est produit dans le
+même délai à l'administration fiscale.
