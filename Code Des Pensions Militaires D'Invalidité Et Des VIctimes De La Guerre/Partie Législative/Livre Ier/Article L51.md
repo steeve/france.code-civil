@@ -2,23 +2,21 @@ Article L51
 ----
 Le montant des pensions allouées dans les conditions fixées à l'article L. 50
 est fixé aux quatre tiers de la pension au taux normal pour les veuves non
-remariées dont les revenus imposables à l'imp&lt;CB&gt;t unique sur le revenu
-des personnes physiques n'excède pas une somme égale, par part de revenu au sens
-de l'article 194 et 195 du Code général des imp&lt;CB&gt;ts, à celle en deçà de
-laquelle aucune cotisation n'est perçue en ce qui concerne les bénéficiaires des
-revenus du travail salarié et qui se trouvent dans l'une des situations
-suivantes :
+remariées dont les revenus imposables à l'impôt unique sur le revenu des
+personnes physiques n'excède pas une somme égale, par part de revenu au sens des
+articles 194 et 195 du Code général des impôts, à celle en deçà de laquelle
+aucune cotisation n'est perçue en ce qui concerne les bénéficiaires des revenus
+du travail salarié et qui se trouvent dans l'une des situations suivantes :
 
-1° Soit âgées de plus de cinquante-sept ans ;
+1° Soit âgées de cinquante ans et plus ;
 
 2° Soit infirmes ou atteintes d'une maladie incurable ou entraînant une
 incapacité permanente de travail.
 
-Si les revenus imposables à l'imp&lt;CB&gt;t unique sur le revenu des personnes
-physiques sont supérieurs à la somme ci-dessus définie, la partie de la pension
-prévue à l'alinéa précédent excédant selon le cas le taux normal ou le taux de
-réversion est réduite à concurrence de la portion du revenu dépassant ladite
-somme.
+Si les revenus imposables à l'impôt unique sur le revenu des personnes physiques
+sont supérieurs à la somme ci-dessus définie, la partie de la pension prévue à
+l'alinéa précédent excédant selon le cas le taux normal ou le taux de réversion
+est réduite à concurrence de la portion du revenu dépassant ladite somme.
 
 Le montant de la pension est déterminé par application de l'indice 500 pour les
 veuves âgées de plus de quarante ans et celles qui, avant cet âge, sont infirmes
@@ -44,5 +42,5 @@ orphelins de guerre dont le père et la mère sont décédés.
 Un décret contresigné par le ministre des anciens combattants et victimes de
 guerre et le ministre de l'économie et des finances déterminera, pour
 l'application de l'article L. 50 et du présent article, les indices
-correspondants aux taux de pensions allouées aux veuves non remariées, en
+correspondant aux taux de pensions allouées aux veuves non remariées, en
 fonction du grade détenu par leur mari.
