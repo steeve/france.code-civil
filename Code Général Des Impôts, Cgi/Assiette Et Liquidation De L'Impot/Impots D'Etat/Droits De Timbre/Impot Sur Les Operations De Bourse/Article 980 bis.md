@@ -13,8 +13,7 @@ officielle de cette bourse.
 
 L'exonération ne s'applique pas aux obligations échangeables ou convertibles en
 actions, aux valeurs assorties de clauses d'indexation ou de clauses de
-participation aux bénéfices de la société émettrice, aux titres dont les
-intérêts bénéficient du régime prévu par l'article 157-8° ;
+participation aux bénéfices de la société émettrice;
 
 3° Aux opérations de bourse effectuées dans le cadre de placements en report par
 les personnes qui font de tels placements ;
