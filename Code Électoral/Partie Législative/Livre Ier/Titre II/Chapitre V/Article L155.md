@@ -1,12 +1,19 @@
 Article L155
 ----
-Cette déclaration doit également indiquer les nom, prénoms, date et lieu de
-naissance, domicile et profession de la personne appelée à remplacer le candidat
-élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation
-écrite du remplaçant ; celui-ci doit remplir les conditions d'éligibilité
-exigées des candidats.
+La déclaration de candidature résulte du dépôt à la préfecture d'une liste
+comprenant un nombre de candidats égal au nombre de sièges à pourvoir augmenté
+de deux.
 
-Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de
-candidatures.
+Elle est faite collectivement pour chaque liste par le candidat tête de liste ou
+par un mandataire porteur d'un mandat écrit établi par ce candidat.
 
-Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+La liste déposée comporte la signature de chacun des candidats. Elle indique
+expressément :
+
+1° Le titre de la liste;
+
+2° Les nom, prénoms, date et lieu de naissance, domicile et profession de chacun
+des candidats.
+
+La déclaration de candidature peut comporter l'indication d'un emblème que les
+candidats choisissent pour qu'il soit imprimé sur leur bulletin de vote.
