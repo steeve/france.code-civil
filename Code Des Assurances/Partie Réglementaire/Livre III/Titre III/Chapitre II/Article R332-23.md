@@ -10,9 +10,12 @@ Cette expertise peut être également demandée à la commission de contrôle de
 assurances par les entreprises.
 
 La valeur résultant de l'expertise doit figurer dans l'évaluation de la valeur
-de réalisation des placements prévue à l'article R. 332-20 (2°). Elle peut
+de réalisation des placements prévue à l'article R. 332-20-1. Elle peut
 également être inscrite à l'actif du bilan dans les limites et les conditions
-fixées dans chaque cas par la commission de contrôle des assurances.
+fixées dans chaque cas par la commission de contrôle des assurances. Elle
+constitue alors le nouveau prix d'achat mentionné à l'article R. 332-20, la
+différence entre cette valeur et la valeur comptable antérieure étant constatée
+en compte de résultat.
 
 Les conditions de l'expertise sont fixées par décret et les frais en sont à la
 charge des entreprises.
