@@ -1,5 +1,6 @@
 Article D767-3
 ----
-Le conseil d'administration définit les orientations du fonds, prend les
-décisions pour lesquelles la présente section lui en attribue le pouvoir, suit
-l'exécution de ses décisions et surveille la gestion du fonds.
+Sur décision du conseil d'administration, le directeur du fonds peut aussi
+conclure des accords cadre définissant des modalités de collaboration
+particulière avec l'Etat, les collectivités territoriales et certains organismes
+publics ou privés, aux plans national et régional.

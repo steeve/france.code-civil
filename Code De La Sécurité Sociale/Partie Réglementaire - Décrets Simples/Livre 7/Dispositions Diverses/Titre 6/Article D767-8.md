@@ -1,26 +1,16 @@
 Article D767-8
 ----
-Outre ce qui est dit à l'article L. 767-2 du code de la sécurité sociale, les
-ressources du fonds sont constituées par :
+Le conseil d'administration définit les orientations pluriannuelles du fonds. Il
+établit un programme annuel qui détermine notamment les secteurs d'intervention
+du fonds au niveau national ou déconcentré et le montant des crédits
+correspondants. Il arrête le budget du fonds.
 
-- les contributions, prêts ou avances du Fonds social européen ou de tout autre
-organisme international ;
+Sur le rapport du directeur et sous réserve des dispositions des articles D.
+767-13 et D. 767-22, le conseil d'administration répartit les crédits entre les
+organismes et les associations pour réaliser les actions projetées sur le plan
+national ou dans les régions où ne sont pas instituées de commissions régionales
+prévues à l'article D. 767-15. Dans les mêmes conditions, il décide si ces
+crédits sont attribués sous forme de subventions, d'avances ou de prêts.
 
-- le remboursement des prêts et avances ;
-
-- les subventions et produits divers.
-
-Les dépenses du fonds sont constituées par :
-
-- des subventions, et plus particulièrement des subventions dont le montant est
-forfaitaire et plafonné par un pourcentage du coût total de l'opération fixé par
-catégorie d'action ;
-
-- des prêts dont le taux et la durée d'amortissement sont fixés par conventions
-;
-
-- des avances dont la durée maximum est de deux ans renouvelable une fois ;
-
-- des frais de fonctionnement ;
-
-- des dépenses diverses.
+Le conseil examine toute question relevant de sa compétence si un tiers des
+administrateurs au moins le demandent .

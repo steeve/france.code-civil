@@ -1,6 +1,10 @@
 Article D767-5
 ----
-Un agent comptable, qui exerce ses fonctions dans les conditions définies par
-les décrets n° 53-1227 du 10 décembre 1953, n° 62-1587 du 29 décembre 1962 et
-par l'article 60 de la loi n° 63-156 du 23 février 1963, est nommé par arrêté du
-ministre chargé du budget. Cet arrêté fixe le montant de son cautionnement.
+Le président du conseil d'administration est nommé par décret, sur proposition
+du ministre chargé des immigrés.
+
+Les autres membres du conseil sont nommés par arrêté du même ministre. Ceux
+mentionnés aux 1°, 2° (a, b, c, d, e et f), 3° (a et b) et 4° (a et b) de
+l'article D. 767-4 ont un suppléant qui est désigné dans les mêmes conditions
+qu'eux. Les suppléants, hormis le cas d'absence ou d'empêchement de la personne
+qu'ils remplacent, ne peuvent prendre part aux délibérations du conseil.

@@ -1,17 +1,14 @@
 Article D767-11
 ----
-Le conseil d'administration du fonds d'action sociale établit chaque année un
-programme de contrôle de l'emploi des subventions, prêts et avances, en liaison
-avec l'inspection générale des affaires sociales, la direction de la population
-et des migrations et le secrétariat général de la Commission nationale pour le
-logement des immigrés.
+Le conseil d'administration arrête un programme national de contrôle, annuel ou
+pluriannuel, sur proposition du directeur, et en liaison avec les services de
+l'Etat compétents, notamment l'inspection générale des affaires sociales.
 
-Le programme annuel de contrôle est mis en oeuvre par le service de contrôle du
-fonds d'action sociale. Pour exercer les actions de contrôle, le conseil
-d'administration du fonds d'action sociale peut demander aux ministres
+Pour la mise en oeuvre de ce programme, le fonds peut demander aux ministres
 compétents le concours des différents corps d'inspection et de contrôle qui leur
-sont rattachés.
+sont rattachés ou faire appel à des organismes extérieurs.
 
-Le directeur du fonds d'action sociale dépose chaque année un rapport sur les
-actions ayant bénéficié du concours de l'établissement et sur la situation
-financière de celui-ci.
+Lorsque des manquements graves apparaissent dans la réalisation des actions
+financées par le fonds, le directeur peut prendre des mesures d'urgence dont il
+informe, dans les meilleurs délais, le conseil d'administration ou, le cas
+échéant, la commission régionale pour l'insertion des populations immigrées.

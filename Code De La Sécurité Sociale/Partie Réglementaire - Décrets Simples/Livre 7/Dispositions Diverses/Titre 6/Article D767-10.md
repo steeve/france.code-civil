@@ -1,6 +1,10 @@
 Article D767-10
 ----
-Les conditions de réalisation des actions financées en tout ou partie par le
-fonds font l'objet de conventions entre celui-ci et les organismes financés.
-Ceux-ci fournissent au fonds des comptes rendus d'activités et de gestion dont
-les conventions précisent les modalités.
+Les délibérations du conseil d'administration du fonds deviennent exécutoires de
+plein droit s'il n'y a pas opposition motivée du ministre chargé du budget ou du
+ministre chargé des immigrés dans les quinze jours qui suivent la communication
+qui leur est faite de ces délibérations.
+
+Toutefois, le programme annuel mentionné à l'article D. 767-8 doit être approuvé
+par arrêté conjoint du ministre chargé du budget et du ministre chargé des
+immigrés.

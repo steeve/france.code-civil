@@ -1,9 +1,14 @@
 Article D767-17
 ----
-Un arrêté conjoint du ministre chargé des immigrés et du ministre chargé du
-budget fixe le montant de l'indemnité représentative de frais qui peut être
-allouée au président du conseil d'administration du fonds d'action sociale.
+Les membres des commissions régionales sont nommés par le préfet de la région.
 
-Les membres de ce conseil et ceux des commissions régionales sont indemnisés par
-le fonds des frais qu'occasionne leur participation à ces instances conformément
-aux dispositions de l'article 38 de la loi n° 85-772 du 25 juillet 1985.
+Les membres représentant les salariés, les employeurs, l'union nationale des
+associations familiales et les caisses d'allocations familiales ainsi que les
+personnalités mentionnées au 3° de l'article D. 767-15 ont un suppléant désigné
+dans les mêmes conditions qu'eux.
+
+Les suppléants, hormis le cas d'absence ou d'empêchement du titulaire, ne
+peuvent participer aux délibérations de la commission.
+
+La durée du mandat des membres des commissions régionales est de trois ans,
+renouvelable.
