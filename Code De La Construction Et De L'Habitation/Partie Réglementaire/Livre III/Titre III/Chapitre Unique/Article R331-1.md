@@ -40,14 +40,15 @@ l'habitation ;
 définis aux articles R. 351-55 et R. 351-56.
 
 Dans les limites et conditions fixées par la présente section, et notamment par
-les articles R. 331-12, R. 331-14, R. 331-15, des subventions définies par la
-sous-section 2 peuvent être accordées pour financer l'acquisition de logements
-locatifs et le cas échéant les travaux d'amélioration ainsi que les opérations
-et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de l'alinéa précédent. Le
-coût d'acquisition de ces logements ne doit pas excéder un pourcentage de la
-valeur de base des opérations d'acquisition-amélioration fixée par arrêté des
-ministres chargés de la construction et de l'habitation et des finances pour les
-zones géographiques déterminées.
-
-Ces dispositions s'appliquent également aux logements-foyers dénommés résidences
-sociales et mentionnés à l'article R. 351-55.
+les articles R. 331-12, R. 331-14, R. 331-15, des subventions et des prêts
+définis par la sous-section 2 peuvent être accordés pour financer l'acquisition
+de logements locatifs et le cas échéant les travaux d'amélioration ainsi que les
+opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de l'alinéa
+précédent. Les dispositions des articles R. 331-9 à R. 331-24 relatives aux
+opérations d'acquisition-amélioration sont applicables à ces logements y compris
+en l'absence de travaux. Le coût d'acquisition de ces logements ne doit pas
+excéder un pourcentage de la valeur de base des opérations
+d'acquisition-amélioration fixée par arrêté des ministres chargés de la
+construction et de l'habitation et des finances pour les zones géographiques
+déterminées. Ces dispositions s'appliquent également aux logements-foyers
+dénommés résidences sociales et mentionnés à l'article R. 351-55.
