@@ -1,21 +1,9 @@
 Article 363 AG
 ----
-Le montant maximal est fixé par tonne à :
+Le taux maximal est fixé à :
 
-a. 6,10 F pour le blé tendre ;
+a) 0,85 Euro par tonne pour le blé tendre, l'orge, le maïs et le blé dur ;
 
-b. 6,10 F pour l'orge ;
+b) 0,79 Euro par tonne pour le seigle, le riz et le triticale ;
 
-c. 6,10 F pour le maïs ;
-
-d. 6,05 F pour le blé dur ;
-
-e. 5,65 F pour le seigle ;
-
-f. 3,85 F pour le sorgho ;
-
-g. 3,85 F pour l'avoine ;
-
-h. 5,75 F pour le riz ;
-
-i. 6,65 F pour le triticale.
+c) 0,54 Euro par tonne pour le sorgho et l'avoine.
