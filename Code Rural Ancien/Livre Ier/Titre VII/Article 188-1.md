@@ -1,7 +1,9 @@
 Article 188-1
 ----
 I. - Le contrôle des structures des exploitations agricoles concerne
-exclusivement l'exploitation des biens.
+exclusivement l'exploitation des biens quelle que soit la nature de l'acte en
+vertu duquel est assurée la jouissance des biens et notamment dans les cas visés
+à l'article L. 411-1 du présent code.
 
 Il a pour but conformément aux objectifs de la loi n° 80-502 du 4 juillet 1980
 et des schémas directeurs départementaux des structures agricoles :
@@ -19,12 +21,12 @@ son exercice à temps partiel par des actifs ruraux non agricoles, en fonction d
 l'intérêt économique, social et démographique qui s'attache à la pluriactivité
 dans chaque département.
 
-II. - Dans chaque département, un schéma directeur des structures agricoles
-détermine les priorités de la politique d'aménagement des structures
-d'exploitation, et fixe les conditions de la mise en oeuvre des dispositions du
-présent titre.
+II. - Le schéma directeur départemental des structures agricoles détermine les
+priorités de la politique d'aménagement des structures d'exploitation et fixe
+les conditions de la mise en oeuvre des dispositions du présent titre.
 
-Ce schéma, préparé par le préfet, après avis de la chambre d'agriculture et de
-la commission départementale des structures agricoles, est établi par arrêté du
-ministre de l'agriculture, après avis de la commission nationale des structures
-agricoles.
+Ce schéma est préparé et arrêté par le représentant de l'Etat dans le
+département après avis du conseil général, de la chambre d'agriculture, de la
+commission départementale des structures agricoles et, si plus de la moitié des
+membres présents ou représentés de cette dernière le demandent, de la commission
+nationale des structures agricoles.
