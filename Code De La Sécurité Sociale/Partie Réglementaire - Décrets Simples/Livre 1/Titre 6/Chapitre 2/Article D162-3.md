@@ -1,83 +1,27 @@
 Article D162-3
 ----
-La commission chargée, dans chaque région, en application de l'article 1er du
-décret n° 65-411 du 26 mai 1965 modifié, d'accorder, de refuser ou de retirer
-aux établissements autres que ceux qui sont mentionnés à l'article 31 de la loi
-n° 70-1318 du 31 décembre 1970 et à l'article L. 162-32 l'autorisation de donner
-des soins aux assurés sociaux du régime général, aux bénéficiaires salariés et
-non salariés des législations sociales agricoles et aux bénéficiaires des
-assurances maladie et maternité des travailleurs non salariés des professions
-non agricoles est composée comme suit :
+L'objectif de dépenses d'assurance maladie commun aux activités de médecine,
+chirurgie, obstétrique et odontologie mentionné à l'article L. 162-22-9 est
+constitué des charges d'assurance maladie afférentes aux frais d'hospitalisation
+couverts par les éléments suivants :
 
-1°) l'inspecteur régional de la santé ou son représentant ;
+1° Les forfaits mentionnés à l'article R. 162-32 ;
 
-2°) le directeur régional des affaires sanitaires et sociales ou son
-représentant ;
+2° Les spécialités pharmaceutiques et les produits et prestations mentionnés à
+l'article L. 162-22-7 ;
 
-3°) le chef du service régional de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles ou son représentant ;
+3° Les consultations et actes mentionnés au premier alinéa de l'article L.
+162-26 et relatifs aux activités de médecine, chirurgie, obstétrique et
+odontologie ;
 
-4°) le directeur départemental de la concurrence et de la consommation du
-chef-lieu de la région ou son représentant ;
+4° Les forfaits annuels mentionnés à l'article L. 162-22-8 ;
 
-5°) trois représentants des caisses d'assurance maladie des travailleurs
-salariés, désignés par le conseil d'administration de la caisse régionale
-d'assurance maladie ;
+5° Les forfaits relatifs aux interruptions volontaires de grossesse réalisées en
+établissement de santé dans les conditions prévues au chapitre II du titre Ier
+du livre II de la deuxième partie du code de la santé publique ;
 
-6°) deux représentants des caisses de mutualité sociale agricole de la région,
-désignés d'un commun accord par les présidents des conseils d'administration
-desdites caisses ;
-
-7°) un représentant des caisses mutuelles régionales d'assurance maladie et
-maternité des travailleurs non salariés des professions non agricoles de la
-région, désigné d'un commun accord par les présidents des conseils
-d'administration de ces caisses ;
-
-8°) deux médecins-conseils désignés par le médecin-conseil régional du régime
-général d'assurance maladie des travailleurs salariés ;
-
-9°) un médecin-conseil des législations sociales agricoles, désigné d'un commun
-accord par les présidents des conseils d'administration des caisses de mutualité
-sociale agricole de la région ;
-
-10°) un médecin-conseil désigné d'un commun accord par les présidents des
-conseils d'administration des caisses mutuelles régionales d'assurance maladie
-et maternité des travailleurs non salariés des professions non agricoles de la
-région ;
-
-11°) un médecin qualifié par ses connaissances particulières de médecine
-hospitalière, désigné par les syndicats médicaux intéressés ;
-
-12°) cinq représentants des établissements de soins privés, désignés
-respectivement par les organisations professionnelles les plus représentatives
-des maisons de santé de la région et par les organisations les plus
-représentatives des établissements privés à but non lucratif de la région selon
-les proportions fixées par le commissaire de la République de la région en
-fonction de l'importance respective de ces deux catégories d'établissements.
-
-Des membres suppléants représentant les caisses d'assurance maladie des
-travailleurs salariés, les caisses de mutualité sociale agricole, les caisses
-mutuelles régionales d'assurance maladie et maternité des travailleurs non
-salariés des professions non agricoles, le corps médical et les établissements
-de soins sont désignés dans les mêmes conditions.
-
-La présidence de la commission est assurée par le commissaire de la République
-de région et, en son absence, par l'inspecteur régional de la santé, premier
-vice-président, ou par le directeur régional des affaires sanitaires et
-sociales, second vice-président.
-
-La commission ne peut valablement délibérer que si la moitié au moins de ses
-membres sont présents.
-
-En cas de partage, la voix du président est prépondérante.
-
-Le mandat des représentants titulaires et suppléants des caisses d'assurance
-maladie des travailleurs salariés, des caisses de mutualité sociale agricole et
-des caisses mutuelles régionales d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles prend obligatoirement
-fin au moment du renouvellement des conseils d'administration qui les ont
-désignés.
-
-Les organismes intéressés ainsi que les syndicats médicaux et les organisations
-représentatives des établissements de soins ont à tout moment la possibilité de
-procéder au remplacement de leurs représentants titulaires et suppléants.
+6° Les forfaits techniques, fixés en application des dispositions de l'article
+L. 162-1-7, facturés par les établissements de santé mentionnés aux d et e de
+l'article L. 162-22-6 titulaires d'une autorisation administrative de
+fonctionnement d'un équipement matériel lourd en application des dispositions du
+II de l'article R. 712-37-1 du code de la santé publique.
