@@ -1,6 +1,7 @@
 Article R*223-14
 ----
-Un duplicata de la validation peut être obtenu par le titulaire du permis de
-chasser auprès du comptable du Trésor qui a reçu le paiement initial des taxes
-et redevances, après paiement de la taxe mentionnée au 2° de l'article L. 423-14
-du code de l'environnement.
+Un duplicata du document de validation peut être obtenu par le titulaire du
+permis de chasser auprès de la fédération départementale ou interdépartementale
+des chasseurs à laquelle il adhère, après vérification par celle-ci du paiement
+initial des droits et redevances dans des conditions définies par arrêté
+conjoint du ministre chargé de la chasse et du ministre chargé du budget.
