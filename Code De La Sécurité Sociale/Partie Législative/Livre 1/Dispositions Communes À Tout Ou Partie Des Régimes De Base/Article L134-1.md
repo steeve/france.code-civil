@@ -7,9 +7,14 @@ du I de l'article 1050 du code rural. Cette compensation porte sur les charges
 de l'assurance maladie et maternité au titre des prestations en nature et de
 l'assurance vieillesse au titre des droits propres.
 
-La compensation entre les régimes spéciaux d'assurance vieillesse des salariés
+La compensation entre les régimes spéciaux d'assurance vieillesse de salariés
 porte sur l'ensemble des charges de l'assurance vieillesse et est calculée sur
 la base de la moyenne des prestations servies par les régimes concernés.
+
+Toutefois, les sommes effectivement versées par les régimes en application du
+deuxième alinéa et au-delà des versements effectués en application du premier
+alinéa ne peuvent être supérieures, pour chacun d'entre eux et chaque exercice
+comptable, à 25 p. 100 du total des prestations qu'ils servent.
 
 La compensation tend à remédier aux inégalités provenant des déséquilibres
 démographiques et des disparités de capacités contributives entre les différents

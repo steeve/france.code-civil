@@ -54,7 +54,9 @@ abattements prévus au présent article.
 
 Le bénéfice de l'abattement est suspendu lorsque la condition prévue au
 troisième alinéa du présent article n'est plus remplie. Il cesse de plein droit
-si l'une des autres conditions ci-dessus énoncées n'est plus remplie.
+si l'une des autres conditions ci-dessus énoncées n'est plus remplie. Toutefois
+les salariés employés à temps partiel qui bénéficient des allocations prévues au
+3° de l'article L. 322-4 n'ouvrent pas droit à l'abattement.
 
 L'embauche ne peut pas ouvrir droit à l'abattement dans les cas suivants :
 

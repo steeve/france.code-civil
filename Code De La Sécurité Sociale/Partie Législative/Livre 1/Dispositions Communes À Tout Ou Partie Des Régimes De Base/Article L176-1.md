@@ -1,14 +1,19 @@
 Article L176-1
 ----
-Toute reconnaissance de maladie professionnelle entraînant un règlement de
-prestations en nature donne lieu, par le régime débiteur de ces prestations, à
-un reversement forfaitaire dont le montant est fixé par décret à l'assurance
-maladie dudit régime.
+Il est institué à la charge de la branche accidents du travail et maladies
+professionnelles, au profit de la branche maladie, maternité, invalidité, décès
+du régime général, un versement annuel pour tenir compte des dépenses supportées
+par cette dernière branche au titre des affections non prises en charge en
+application du livre IV.
 
-Le coût correspondant au montant du reversement forfaitaire est pris en compte
-dans la détermination de la cotisation due au titre des accidents du travail et
-maladies professionnelles pour chacun des régimes concernés.
+Le montant de ce versement est pris en compte dans la détermination des éléments
+de calcul de la cotisation due au titre des accidents du travail et des maladies
+professionnelles. Il est revalorisé dans les conditions fixées à l'article L.
+434-17.
 
-La participation au financement du reversement forfaitaire des collectivités,
-établissements et entreprises mentionnées aux articles L. 413-13 et L. 413-14
-est calculée et versée selon des modalités particulières fixées par décret.
+Un décret détermine les modalités de la participation au financement de ce
+versement forfaitaire des collectivités, établissements et entreprises
+mentionnés à l'article L. 413-13 et assumant directement la charge totale de la
+réparation des accidents du travail et des maladies professionnelles, en
+fonction des effectifs et des risques professionnels encourus dans les secteurs
+d'activité dont ils relèvent.
