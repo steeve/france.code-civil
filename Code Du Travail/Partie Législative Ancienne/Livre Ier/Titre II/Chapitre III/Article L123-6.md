@@ -8,3 +8,7 @@ opposé dans un délai de quinze jours à compter de la date à laquelle
 l'organisation syndicale lui a notifié son intention.
 
 L'intéressé peut toujours intervenir à l'instance engagée par le syndicat.
+
+Pour les actions qui naissent du dernier alinéa de l'article L. 123-1
+[*harcèlement sexuel*] exercées en faveur d'un salarié, les organisations
+syndicales doivent justifier d'un accord écrit de l'intéressé.

@@ -2,8 +2,7 @@ Article L123-1
 ----
 Sous réserve des dispositions particulières du présent code et sauf si
 l'appartenance à l'un ou l'autre sexe est la condition déterminante de
-l'exercice d'un emploi ou d'une activité professionnelle, nul ne peut [*non
-discrimination*] :
+l'exercice d'un emploi ou d'une activité professionnelle, nul ne peut :
 
 a) Mentionner ou faire mentionner dans une offre d'emploi, quels que soient les
 caractères du contrat de travail envisagé, ou dans toute autre forme de
@@ -24,3 +23,11 @@ et de salariés les plus représentatives au niveau national, la liste des emplo
 et des activités professionnelles pour l'exercice desquels l'appartenance à l'un
 ou l'autre sexe constitue la condition déterminante. Cette liste est révisée
 périodiquement dans les mêmes formes.
+
+Nul ne peut prendre en considération le fait que la personne intéressée a subi
+ou refusé de subir les agissements définis à l'article L. 122-46, ou bien a
+témoigné de tels agissements [*harcèlement sexuel*] ou les a relatés, pour
+décider, notamment en matière d'embauche, de rémunération, de formation,
+d'affectation, de qualification, de classification, de promotion
+professionnelle, de mutation, de résiliation, de renouvellement de contrat de
+travail ou de sanctions disciplinaires.
