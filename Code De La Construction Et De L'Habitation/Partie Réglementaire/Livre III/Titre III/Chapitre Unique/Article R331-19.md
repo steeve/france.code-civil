@@ -1,8 +1,11 @@
 Article R331-19
 ----
-La quotité maximum des prêts accordés par le Crédit foncier de France aux
-bénéficiaires mentionnés à l'article R. 331-17 est égale à 70 p. 100 de
-l'assiette de subvention calculée conformément au 1° de l'article R. 331-15 du
-présent code. Un arrêté conjoint des ministres chargés de la construction et de
-l'habitation et des finances fixe les conditions d'application du présent
-article.
+L'octroi du prêt est subordonné à l'obtention de la décision favorable prise
+dans les conditions prévues aux articles R. 331-3 et R. 331-6 et à la passation
+par le demandeur d'une convention prévue aux 3° ou 5° de l'article L. 351-2 dont
+la durée est au moins égale à la durée initiale du prêt, sans pouvoir être
+inférieure à quinze ans ni supérieure à trente ans.
+
+Le dépôt de la demande de prêt doit être effectué auprès de l'établissement
+prêteur dans un délai maximum de six mois après la date de la décision favorable
+précitée, faute de quoi ladite décision est frappée de caducité.

@@ -1,16 +1,6 @@
 Article R331-17
 ----
-Les prêts prévus à l'article R. 331-1 peuvent être attribués à des personnes
-morales ou physiques, lorsqu'elles contribuent au financement de l'opération par
-un financement propre minimum fixé par arrêté conjoint des ministres chargés de
-la construction et de l'habitation et des finances, et qu'elles s'engagent à
-assurer elles-mêmes la gestion de ces logements ou à la confier à des personnes
-ou organismes agréés par arrêté du ministre chargé de la construction et de
-l'habitation.
-
-L'octroi de ces prêts est subordonné à la passation par le demandeur d'une
-convention prévue au 3° de l'article L. 351-2.
-
-Pour les opérations de construction, la décision favorable prise dans les
-conditions prévues aux articles R. 331-3 et R. 331-6 porte agrément de
-l'opération.
+La Caisse des dépôts et consignations ainsi que les établissements de crédit qui
+ont conclu avec celle-ci une convention sous l'égide de l'Etat sont habilités à
+consentir les prêts prévus à l'article R. 331-1 et régis par la présente
+sous-section.

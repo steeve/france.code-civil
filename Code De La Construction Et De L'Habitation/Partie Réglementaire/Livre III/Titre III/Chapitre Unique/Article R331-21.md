@@ -1,9 +1,6 @@
 Article R331-21
 ----
-A la suite de la révision du taux des prêts à taux révisables visés à l'article
-R. 331-20, aucune annuité, à partir de la quatrième et à l'exclusion de la
-dernière, ne peut être supérieure de plus de 8 p. 100, ni inférieure à l'annuité
-précédente.
-
-Un arrêté conjoint des ministres chargés de la construction et de l'habitation
-et des finances définit les conditions d'application du présent article.
+Les prêts régis par la présente sous-section peuvent être transférés aux
+personnes et organismes mentionnés à l'article R. 331-18 sous réserve de
+l'accord du représentant de l'Etat dans le département et de l'établissement
+prêteur.
