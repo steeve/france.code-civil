@@ -8,8 +8,9 @@ médecin conseil régional adjoint remplissent les fonctions de conseiller
 technique de l'ensemble des caisses d'assurance maladie de leur région,
 notamment en matière d'action sanitaire et sociale. Le médecin conseil régional
 établit, chaque année, le rapport d'activité du contrôle médical pour la région.
-Ce rapport est adressé à la caisse nationale, au directeur régional des affaires
-sanitaires et sociales et au ministre chargé de la sécurité sociale.
+Ce rapport est adressé à la caisse nationale, à l'union régionale des caisses
+d'assurance maladie, au directeur régional des affaires sanitaires et sociales
+et au ministre chargé de la sécurité sociale.
 
 Le médecin conseil régional ou le médecin conseil régional adjoint est invité
 aux séances du conseil d'administration de la caisse régionale d'assurance
