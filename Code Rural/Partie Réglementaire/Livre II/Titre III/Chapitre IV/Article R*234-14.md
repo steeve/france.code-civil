@@ -1,13 +1,13 @@
 Article R*234-14
 ----
-Les gardes-pêche sont commissionnés par le ministre chargé de la pêche en eau
-douce.
+Les techniciens et les gardes-pêche sont commissionnés par le ministre chargé de
+la pêche en eau douce.
 
 Ils exercent les missions qui leur sont confiées par la loi.
 
-Ils assurent sur toute l'étendue des circonscriptions pour lesquelles ils sont
-assermentés la recherche et la constatation des infractions à la police de la
-pêche en eau douce.
+Ils assurent de jour, de nuit, les dimanches et les jours fériés sur toute
+l'étendue des circonscriptions pour lesquelles ils sont assermentés la recherche
+et la constatation des infractions à la police de la pêche en eau douce.
 
 Ils participent à :
 
