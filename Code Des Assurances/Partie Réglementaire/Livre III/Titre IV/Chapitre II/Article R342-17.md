@@ -51,11 +51,11 @@ B 22 Analyse du résultat technique de certaines combinaisons.
 B 23 Détail des provisions mathématiques pour risques en cours. B 24 Détail par
 pays des provisions mathématiques pour risques en cours.
 
-A 25 Participation des assurés aux résultats techniques et aux produits
-financiers.
+A 25 Participation des assurés sur la vie ou des porteurs de contrats de
+capitalisation aux résultats techniques et financiers.
 
-B 26 Etat justificatif de la participation minimale des assurés aux bénéfices
-des entreprises d'assurance sur la vie.
+B 26 Etat justificatif de la participation des assurés sur la vie ou des
+porteurs de contrats de capitalisation aux résultats techniques et financiers.
 
 B 27 Etat concernant les opérations de coassurance communautaire. Les
 entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque
