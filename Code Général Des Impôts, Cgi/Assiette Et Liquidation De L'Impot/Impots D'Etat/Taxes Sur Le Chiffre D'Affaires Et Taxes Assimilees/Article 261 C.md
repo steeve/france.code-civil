@@ -4,8 +4,9 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 1° Les opérations bancaires et financières suivantes :
 
-a L'octroi et la négociation de crédits ainsi que la gestion de crédits
-effectuée par celui qui les a octroyés;
+a L'octroi et la négociation de crédits, la gestion de crédits effectuée par
+celui qui les a octroyés et les prêts de titres effectués dans les conditions du
+chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne ;
 
 b La négociation et la prise en charge d'engagements, de cautionnements et
 d'autres sûretés et garanties ainsi que la gestion de garanties de crédits
@@ -42,5 +43,5 @@ activité principale ;
 services afférentes à ces opérations effectuées par les courtiers et
 intermédiaires d'assurances;
 
-3° Les livraisons à leur valeur officielle de timbres fiscaux, de papiers
-timbrés et de timbres-poste ayant cours ou valeur d'affranchissement en France.
+3° Les livraisons à leur valeur officielle de timbres fiscaux et de
+timbres-poste ayant cours ou valeur d'affranchissement en France.

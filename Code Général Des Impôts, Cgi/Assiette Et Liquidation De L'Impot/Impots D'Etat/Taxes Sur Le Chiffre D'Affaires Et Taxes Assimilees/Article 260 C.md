@@ -11,7 +11,8 @@ adhérentes à la confédération nationale du crédit mutuel;
 3° Aux opérations effectuées entre elles par les caisses de crédit agricole
 mentionnées à l'article 614 du code rural;
 
-4° Aux intérêts et agios;
+4° Aux intérêts, agios et rémunérations de prêts de titres effectués dans les
+conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne ;
 
 5° Aux rémunérations assimilables à des intérêts ou agios dont la liste est
 établie par arrêté du ministre chargé des finances (1);
