@@ -1,6 +1,6 @@
 Article R*197-3
 ----
-Toute réclamation doit à peine d'irrecevabilité [*mentions obligatoires*] :
+Toute réclamation doit à peine d'irrecevabilité :
 
 a) Mentionner l'imposition contestée ;
 

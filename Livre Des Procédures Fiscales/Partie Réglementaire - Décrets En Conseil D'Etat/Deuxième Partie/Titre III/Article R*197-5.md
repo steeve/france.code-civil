@@ -1,4 +1,4 @@
 Article R*197-5
 ----
-Tout réclamant domicilié hors de France [*à l'étranger*] doit faire élection de
-domicile en France [*obligation*].
+Tout réclamant domicilié hors de France doit faire élection de domicile en
+France.
