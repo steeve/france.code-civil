@@ -1,28 +1,33 @@
 Article D981-18
 ----
-L'employeur choisit, avec son accord, un tuteur parmi les salariés qualifiés de
-l'entreprise, en tenant compte de son niveau de qualification, qui devra être au
-moins égal à celui du jeune et de l'objectif à atteindre. Le tuteur doit
-justifier d'une expérience professionnelle d'au moins deux ans.
+Outre les dépenses mentionnées à l'article R. 964-16-1, les ressources des
+organismes de mutualisation mentionnés au IV de l'article 30 précité de la loi
+de finances pour 1985 peuvent être destinées au financement des dépenses liées à
+l'exercice par les tuteurs des missions suivantes :
 
-Le tuteur suit les activités de trois jeunes au plus, tous contrats d'insertion
-en alternance et d'apprentissage confondus. Lorsque l'employeur assume ce suivi,
-il ne peut l'exercer qu'à l'égard de deux jeunes.
+- accueillir, aider, informer et guider les jeunes visés au IV ter dudit article
+30 ;
 
-Toutefois, lorsqu'un salarié titulaire d'un contrat d'insertion en alternance
-est mis à disposition d'une entreprise utilisatrice dans les conditions prévues
-par l'article L. 124-21 ou d'une entreprise membre du groupement visé à
-l'article L. 127-1, l'employeur peut déroger aux dispositions des deux alinéas
-précédents sous réserve que l'entreprise utilisatrice ou le membre du groupement
-ait désigné un tuteur répondant aux conditions précitées ; l'exercice des
-fonctions tutorales est réparti entre le tuteur désigné par l'employeur et le
-tuteur désigné par l'entreprise utilisatrice ou le membre du groupement.
+- initier ces jeunes aux différentes activités de l'entreprise ;
 
-Le tuteur a pour mission d'accueillir, d'aider, d'informer et de guider le jeune
-pendant la durée du contrat et de veiller au respect de son emploi du temps. Il
-assure la liaison avec le ou les organismes chargés de mettre en oeuvre les
-actions d'orientation, de formation ou d'adaptation et participe à l'évaluation
-du jeune.
+- contribuer à l'acquisition par ces jeunes des savoir-faire professionnels ;
 
-L'employeur lui permet de disposer du temps nécessaire pour exercer ses
-fonctions.
+- organiser avec les salariés concernés l'activité de ces jeunes dans
+l'entreprise ;
+
+- assurer, le cas échéant, la liaison avec les organismes chargés de la
+formation, du bilan ou de l'orientation professionnelle, ou de l'accompagnement
+du jeune à l'extérieur de l'entreprise.
+
+Les dépenses prises en charge comprennent exclusivement les rémunérations et
+charges sociales légales et conventionnelles ainsi que les frais de transport.
+Elles sont financées dans la limite d'un plafond de 1 500 F par mois et par
+jeune, pendant une durée maximale de six mois.
+
+La prise en charge par les organismes collecteurs mentionnés au premier alinéa,
+correspondant aux dépenses mentionnées aux deux alinéas précédents, s'effectue à
+la fin du sixième mois du contrat, sur présentation par l'employeur de
+justificatifs dont la nature est précisée par les organismes mentionnés au
+premier alinéa. Ces justificatifs comprennent au moins une copie du contrat de
+travail, une attestation de l'emploi du jeune dans l'établissement et les noms
+et qualités du ou des tuteurs.
