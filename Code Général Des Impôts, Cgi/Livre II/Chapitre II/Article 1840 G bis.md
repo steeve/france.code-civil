@@ -9,11 +9,11 @@ d'enregistrement, et, en outre, un droit supplémentaire égal à la moitié de 
 réduction consentie.
 
 II. En cas d'infraction aux règles de jouissance qu'il a pris l'engagement de
-suivre dans les conditions prévues à l'article 703, l'héritier, le donataire ou
-le légataire, l'acquéreur ou leurs ayants cause sont tenus d'acquitter à
-première réquisition le complément de droit d'enregistrement ou de taxe de
-publicité foncière et, en outre, un supplément de droit ou taxe égal à la moitié
-de la réduction consentie.
+suivre dans les conditions prévues au b du 3° du 1 de l'article 793 l'héritier,
+le donataire ou le légataire, l'acquéreur ou leurs ayants cause sont tenus
+d'acquitter à première réquisition le complément de droit d'enregistrement ou de
+taxe de publicité foncière et, en outre, un supplément de droit ou taxe égal à
+la moitié de la réduction consentie.
 
 III. Les infractions visées aux I et II sont constatées par des procès-verbaux
 dressés par les agents du service départemental de l'agriculture.
