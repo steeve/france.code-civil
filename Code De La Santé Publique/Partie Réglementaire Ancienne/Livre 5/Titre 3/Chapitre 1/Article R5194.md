@@ -1,27 +1,32 @@
 Article R5194
 ----
-Tout achat ou toute cession, même à titre gratuit, des substances du tableau B
-doit être inscrit sur un registre spécial coté et paraphé par le maire ou le
-commissaire de police [*autorités compétentes*].
+Toute ordonnance comportant une prescription de médicaments ou produits
+mentionnés à la présente section doit indiquer lisiblement [*mentions
+obligatoires*]:
 
-L'autorité qui vise ce registre spécial doit se faire présenter l'autorisation
-délivrée à l'intéressé. Elle mentionne, sur la première page dudit registre, la
-date à laquelle cette autorisation a été donnée.
+1° Le nom, l'adresse et la qualité du prescripteur, sa signature et la date à
+laquelle elle a été rédigée ;
 
-L'inscription sur le registre de chacune de ces opérations reçoit un numéro
-d'ordre qui peut s'appliquer à tous les produits contenus dans une même
-réception ou livraison. Elle doit être faite sans aucun blanc, rature, ni
-surcharge, au moment même de la réception ou de la livraison.
+2° La dénomination du médicament ou du produit prescrit, sa posologie et son
+mode d'emploi ;
 
-Elle indique les nom, profession et adresse soit de l'acheteur, soit du vendeur,
-ainsi que la quantité du produit avec le nom sous lequel il est inscrit au
-tableau B et le numéro de référence prévu à l'article R. 5192. Pour les
-préparations, les mêmes indications sont inscrites ainsi que la quantité de la
-ou des drogues simples du tableau B qui y sont contenues.
+3° La quantité prescrite ou la durée du traitement et, éventuellement, le nombre
+de renouvellements.
 
-Pour l'achat ou la réception, le numéro de référence donné par le vendeur au
-produit livré est en outre mentionné sur le registre.
+En outre, elle mentionne :
 
-Dans le cas de revente d'un produit ou d'une préparation dans un emballage
-revêtu d'un cachet d'origine, le ou les numéros de référence portés sur
-l'étiquette d'origine sont mentionnés sur le registre.
+1° Lorsqu'elle est destinée à la médecine humaine, les nom et prénoms, le sexe
+et l'âge du malade ;
+
+2° Lorsqu'elle est destinée à la médecine vétérinaire, les nom et prénoms et
+l'adresse du détenteur de l'animal ou des animaux ainsi que les moyens
+d'identification de ceux-ci.
+
+Toute commande à usage professionnel de médicaments ou produits mentionnés à la
+présente section doit indiquer :
+
+1° Le nom, la qualité, le numéro d'inscription à l'ordre, l'adresse et la
+signature du praticien, ainsi que la date ;
+
+2° La dénomination et la quantité du médicament ou du produit ; 3° La mention
+"Usage professionnel".

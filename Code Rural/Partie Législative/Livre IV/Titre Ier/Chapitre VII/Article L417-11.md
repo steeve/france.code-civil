@@ -29,8 +29,9 @@ Toutefois, nonobstant toute disposition contraire, la conversion ne pourra être
 refusée lorsque la demande sera faite par le métayer en place depuis huit ans et
 plus.
 
-Un décret en Conseil fixera, en tant que de besoin, les modalités d'application
-de cette disposition.
+Sans préjudice de l'application immédiate de l'alinéa précédent, les modalités
+de l'indemnisation éventuellement due au bailleur sont fixées par un décret en
+Conseil d'Etat.
 
 Une demande de conversion ne peut être considérée comme une rupture de contrat,
 ni justifier une demande de reprise du propriétaire. Cette disposition est

@@ -1,18 +1,16 @@
 Article R5205
 ----
-A l'exception des liniments et des pommades, il est interdit de renouveler les
-préparations comportant des substances du tableau B à une dose et à une
-concentration supérieures à celles fixées par l'arrêté prévu à l'article R.
-5170.
+Les médicaments et produits relevant de la liste I sont détenus dans des
+armoires ou des locaux fermés à clef et ne contenant rien d'autre, à l'exception
+des substances dangereuses classées comme très toxiques ou toxiques, en
+application de l'article R. 5152.
 
-En ce qui concerne les liniments et les pommades, les renouvellements d'une même
-ordonnance ne peuvent être exécutés qu'après le délai déterminé par le mode
-d'emploi indiqué par l'auteur de la prescription. Ils doivent être mentionnés
-sur le registre sous un nouveau numéro d'ordre.
+Les médicaments et produits relevant de la liste II sont détenus séparément de
+tout autre médicament, produit ou substance, à l'exception des substances
+classées comme nocives, corrosives et irritantes, en application de l'article R.
+5152. Cependant, ces médicaments et produits doivent être disposés de façon à ne
+pas être directement accessibles au public.
 
-Cette inscription peut consister dans l'indication du numéro sous lequel
-l'ordonnance a été primitivement inscrite et du nom et de la quantité du
-stupéfiant prescrit.
-
-Mention de la date et du numéro du renouvellement doit être faite sur
-l'ordonnance.
+Les dispositions du présent article ne sont pas applicables [*champ
+d'application*] aux spécialités pharmaceutiques et aux produits ayant fait
+l'objet du conditionnement sous lequel ils sont délivrés aux utilisateurs.

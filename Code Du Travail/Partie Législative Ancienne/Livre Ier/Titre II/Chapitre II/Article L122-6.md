@@ -14,7 +14,6 @@ comprise entre six mois et moins de deux ans à un délai-congé d'un mois ;
 d'au moins deux ans, à un délai-congé de deux mois.
 
 Les dispositions des 2° et 3° ci-dessus ne sont applicables qu'à défaut de loi,
-de contrat de travail, de convention ou accord collectif de travail, de
-règlement de travail en agriculture ou d'usages conduisant soit à un
-délai-congé, soit à une condition d'ancienneté de services, plus favorable pour
-le travailleur intéressé.
+de contrat de travail, de convention ou accord collectif de travail ou d'usages
+conduisant soit à un délai-congé, soit à une condition d'ancienneté de services,
+plus favorable pour le travailleur intéressé.
