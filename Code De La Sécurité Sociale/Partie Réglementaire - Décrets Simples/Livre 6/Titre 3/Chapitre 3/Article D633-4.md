@@ -1,10 +1,19 @@
 Article D633-4
 ----
-A défaut de déclaration par l'assuré de ses revenus professionnels dans les
-conditions prévues à l'article D. 633-3, la caisse procède à l'appel d'une
-cotisation calculée sur la base d'un revenu égal au plafond mentionné à
-l'article L. 633-10. Dans le cas où la déclaration des revenus professionnels,
-intervenue postérieurement, entraîne une rectification du montant de cette
-cotisation, la cotisation effectivement due est assortie, hors le cas de force
-majeure ou de bonne foi dûment justifié, d'une pénalité de 3 p. 100 payable en
-même temps qu'elle.
+L'assuré qui n'a pas souscrit la déclaration de revenus prévue à l'article R.
+115-5, ou, le cas échéant, celle prévue au deuxième alinéa de l'article D.
+633-3, est redevable d'une cotisation provisoire calculée et notifiée
+conformément aux dispositions de l'article R. 242-14.
+
+Cette cotisation provisoire ne peut toutefois excéder le montant de la
+cotisation due sur le plafond mentionné au deuxième alinéa de l'article L.
+633-10.
+
+La cotisation annuelle effectivement due par l'assuré qui a souscrit avec retard
+l'une des déclarations de revenus mentionnées au premier alinéa est assortie
+d'une pénalité calculée et recouvrée dans les conditions prévues à l'article R.
+242-14. Cette pénalité peut toutefois faire l'objet d'une remise totale ou
+partielle dans les conditions prévues à l'article D. 633-15. Elle peut également
+faire l'objet de sursis à poursuites accordés par le directeur de l'organisme
+chargé du recouvrement, sous réserve qu'ils soient assortis de garanties du
+débiteur.

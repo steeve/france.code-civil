@@ -8,7 +8,9 @@ exercées par les intéressés, tels qu'ils sont retenus pour l'assiette de l'im
 sur le revenu.
 
 La cotisation provisionnelle est payable d'avance et répartie en deux échéances
-semestrielles fixées au 1er avril et au 1er octobre.
+semestrielles fixées au 1er avril et au 1er octobre. Lorsque l'assuré s'est
+libéré pour la date prévue d'au moins la moitié de la somme demandée, le solde
+est payable au plus tard le dernier jour du semestre considéré.
 
 La fraction de la cotisation payable, à titre provisionnel, le 1er avril de
 chaque année est assise sur les revenus professionnels de l'avant-dernière année
@@ -23,11 +25,8 @@ Il est procédé le 1er octobre de l'année suivante à la régularisation du mo
 des cotisations provisionnelles mentionnées ci-dessus sur la base des revenus de
 l'année à laquelle se rapporte la cotisation due. Si le montant de la cotisation
 définitive est supérieur à celui des cotisations appelées à titre provisionnel,
-le solde doit être acquitté par l'assuré à ladite échéance et, le cas échéant,
-ajouté aux sommes dues au titre de la première fraction semestrielle de
-cotisation provisionnelle suivante ou à la date d'échéance semestrielle
-suivante. Dans le cas contraire, le solde est remboursé à l'échéance du 1er
-octobre précitée.
+le solde doit être acquitté par l'assuré à ladite échéance. Dans le cas
+contraire, le solde est remboursé à l'échéance du 1er octobre précitée.
 
 En outre, lorsque le revenu professionnel de l'année de référence est supérieur
 au revenu forfaitaire constituant l'assiette de la cotisation minimale prévue

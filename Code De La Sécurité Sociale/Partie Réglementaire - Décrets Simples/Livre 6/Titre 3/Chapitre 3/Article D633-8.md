@@ -19,7 +19,8 @@ année le bénéfice de son option.
 
 A défaut de paiement dans les conditions susmentionnées, les cotisations
 deviennent exigibles selon les dispositions prévues aux articles D. 633-7 et D.
-633-13 à D. 633-15.
+633-13 à D. 633-15. Toutefois, aucune majoration de retard n'est appliquée aux
+cotisations déjà prélevées.
 
 En cas de cessation d'activité professionnelle, le solde de la cotisation du
 trimestre en cours devient immédiatement exigible .

@@ -10,18 +10,9 @@ sur des montants inférieurs à un seuil fixé par arrêté du ministre chargé 
 sécurité sociale. A partir de ce seuil, il est statué sur proposition du
 directeur par la commission de recours amiable.
 
-Lorsque les cotisations sont acquittées avec un retard d'un mois ou plus à
-compter de la date limite d'exigibilité, un minimum de majoration de retard fixé
-au quatrième alinéa de l'article R. 243-20 des cotisations arriérées par mois ou
-fraction de mois de retard doit obligatoirement être laissé à la charge du
-débiteur.
-
-Toutefois, par dérogation à l'alinéa précédent, la commission de recours amiable
-ou le directeur de la caisse, en cas de retard involontaire de paiement, de
-bonne foi ou de circonstances exceptionnelles dûment justifiés, peuvent décider,
-dans la limite de leur compétence respective, la remise totale ou partielle des
-majorations. Les décisions tant du directeur que de la commission de recours
-amiable doivent être motivées.
+Il ne peut être accordé de remise des majorations de retard que sous les
+conditions et limites prévues aux troisième et quatrième alinéas et à la
+première phrase du cinquième alinéa de l'article R. 243-20.
 
 Les dispositions des articles R. 243-19-1, R. 243-20-2 et R. 244-2 sont
 applicables aux majorations de retard prévues à l'article D. 633-13.

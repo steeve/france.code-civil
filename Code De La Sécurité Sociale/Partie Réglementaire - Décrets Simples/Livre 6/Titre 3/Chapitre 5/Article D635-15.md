@@ -4,7 +4,7 @@ Pour les assurés en activité, autres que ceux mentionnés aux troisième et
 quatrième alinéas ci-après, la cotisation annuelle d'assurance invalidité-décès
 est assise sur le même revenu que celui utilisé pour le calcul de leur
 cotisation provisionnelle d'assurance vieillesse mentionnée aux articles D.
-633-2 à D. 633-5 .
+633-2 à D. 633-5.
 
 Toutefois, le montant de cette cotisation annuelle ne peut être inférieur à
 celui de la cotisation qui serait due au titre d'un revenu correspondant à la
@@ -27,4 +27,5 @@ l'application du second alinéa du présent article.
 La cotisation annuelle d'assurance invalidité-décès des personnes cotisant à
 titre volontaire est assise sur le même revenu que celui utilisé pour le calcul
 de leur cotisation volontaire d'assurance vieillesse sous réserve de
-l'application du second alinéa du présent article.
+l'application du second alinéa du présent article. Elle fait aussi l'objet de
+l'application du troisième alinéa de l'article D. 633-4.
