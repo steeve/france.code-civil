@@ -1,6 +1,5 @@
 Article R232
 ----
-Lorsque la taxe est définitive, quel que soit le mode de paiement choisi par la
-partie prenante, l'état ou le mémoire est transmis par le chef du
-secrétariat-greffe au régisseur d'avances qui effectue le paiement au bénéfice
-de la partie prenante ou de son mandataire.
+Les contestations relatives à la liquidation des dépens en matière d'ordonnance
+pénale sont portées devant le juge qui a prononcé la condamnation dans les
+conditions prévues par les articles 710 et suivants.

@@ -1,7 +1,9 @@
 Article R235
 ----
-Dans les ordonnances de taxe notifiées pour exécution au comptable direct du
-Trésor, pour les frais avancés par le Trésor et qui ne restent pas
-définitivement à la charge de l'Etat, il doit être mentionné qu'il n'y a pas de
-partie civile en cause, que la partie civile a obtenu le bénéfice de l'aide
-judiciaire ou qu'il n'y a pas eu de consignation suffisante [*obligation*].
+Lorsque l'action publique a été mise en mouvement par une partie civile et que
+celle-ci n'a pas obtenu le bénéfice de l'aide judiciaire, les frais
+d'instruction, expédition et signification des jugements sont prélevés sur la
+somme consignée, le cas échéant, par la partie civile.
+
+Dans tous les cas où la consignation n'a pas été faite ou si elle est
+insuffisante, ces frais sont avancés par le Trésor public.

@@ -1,11 +1,14 @@
 Article R221
 ----
-lorsqu'il y a lieu de déplacer des registres, minutes et autres papiers d'un
-greffe ou des archives d'une cour ou d'un tribunal, il est dressé sans frais par
-le greffier, et, à son défaut, par le président de la cour ou du tribunal,
-suivant le cas, un bref état des registres et papiers à transporter.
+Pour le recouvrement des frais d'enquêtes sociales ordonnées en matière
+d'exercice de l'autorité parentale, il est procédé comme en matière de frais de
+justice criminelle, correctionnelle et de police.
 
-Si les archives déplacées sont celles d'un parquet, l'inventaire est dressé,
-suivant le cas, par le procureur général, le procureur de la République, ou
-l'officier du ministère public près le tribunal de police, et, à défaut de ce
-dernier, par le président du tribunal de police.
+La partie condamnée aux dépens peut former un recours contre la disposition de
+la décision relative à la liquidation de ces frais. A défaut d'appel sur le
+fond, le recours, motivé, est formé au greffe de la juridiction dont émane la
+décision, dans le mois de la notification de cette décision. Il est porté devant
+la chambre d'accusation.
+
+En l'absence de condamnation aux dépens, les frais d'enquête sociale sont
+recouvrés contre la partie désignée par le juge qui a ordonné l'enquête.
