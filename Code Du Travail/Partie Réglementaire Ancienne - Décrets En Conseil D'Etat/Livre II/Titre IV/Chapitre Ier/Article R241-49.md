@@ -1,9 +1,14 @@
 Article R241-49
 ----
-Tout salarié doit bénéficier, dans les douze mois qui suivent l'examen effectué
-en application de l'article R. 241-48, d'un examen médical en vue de s'assurer
-du maintien de son aptitude au poste de travail occupé.
+I. - Chaque salarié bénéficie d'examens médicaux périodiques, au moins tous les
+vingt-quatre mois, en vue de s'assurer du maintien de son aptitude au poste de
+travail occupé. Le premier de ces examens a lieu dans les vingt-quatre mois qui
+suivent l'examen d'embauche prévu à l'article R. 241-48.
 
-Cet examen doit être renouvelé au moins une fois par an [*périodicité*].
+II. - Les examens périodiques pratiqués dans le cadre de la surveillance
+médicale renforcée définie à l'article R. 241-50 sont renouvelés au moins
+annuellement, sous réserve de dispositions particulières prévues par les
+règlements pris en application de l'article L. 231-2 (2°).
 
-Tout salarié peut bénéficier d'un examen médical à sa demande.
+III. - Tout salarié bénéficie d'un examen médical à la demande de l'employeur ou
+à sa demande. Cette dernière demande ne peut motiver une sanction.

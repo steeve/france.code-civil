@@ -17,4 +17,4 @@ travail en fonctions avant le 23 octobre 1957.
 
 Chaque médecin du travail est tenu de faire enregistrer ses titres auprès de
 l'inspection médicale du travail compétente, dans le mois qui suit son entrée en
-fonction dans un service médical du travail.
+fonction dans un service de santé au travail.

@@ -8,9 +8,9 @@ santé.
 
 Chaque convention est établie entre :
 
-a) L'employeur responsable du service médical d'entreprise ou d'établissement ou
-le président du service médical interentreprises dans lequel s'effectue le stage
-d'un interne en médecine du travail ;
+a) L'employeur responsable du service de santé au travail d'entreprise ou
+d'établissement ou le président du service de santé au travail interentreprises
+dans lequel s'effectue le stage d'un interne en médecine du travail ;
 
 b) Le directeur de l'unité de formation et de recherche de médecine dont relève
 cet interne ;
@@ -22,6 +22,6 @@ signature, au médecin inspecteur régional du travail et de la main-d'oeuvre.
 
 La convention fixe notamment les conditions de la validation du stage, prévue à
 l'article 29 du décret n° 88-321 du 7 avril 1988, et les modalités de
-remboursement, par l'entreprise ou le service médical interentreprises d'accueil
-à l'établissement hospitalier de rattachement de l'interne, des rémunérations
-versées à ce dernier.
+remboursement, par l'entreprise ou le service de santé au travail
+interentreprises d'accueil à l'établissement hospitalier de rattachement de
+l'interne, des rémunérations versées à ce dernier.

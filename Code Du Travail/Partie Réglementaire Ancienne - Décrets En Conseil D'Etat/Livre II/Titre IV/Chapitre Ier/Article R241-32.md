@@ -2,22 +2,29 @@ Article R241-32
 ----
 Le médecin du travail assure personnellement l'ensemble de ses fonctions ;
 celles-ci sont exclusives de toute autre fonction dans les établissements dont
-il a la charge [*non cumul*].
+il a la charge.
 
-Le temps minimal dont le médecin du travail doit disposer pour remplir sa
-mission est fixé à une heure par mois pour :
+Dans les services de santé au travail interentreprises, le groupe d'entreprises
+ou d'établissements confié à chaque médecin du travail, en application des
+dispositions de l'article R. 241-28, est déterminé, après prise en compte du
+temps consacré à l'action en milieu de travail tel que défini à l'article R.
+241-47, par :
 
-Vingt employés ou assimilés ;
+- un nombre maximal d'entreprises ou d'établissements attribués ;
 
-Quinze ouvriers ou assimilés ;
+- un effectif maximal de salariés placés sous surveillance médicale, dont le
+nombre est pondéré par un coefficient représentant la périodicité des examens
+médicaux telle que définie aux articles R. 241-49 et R. 241-50 ;
 
-Dix salariés soumis à une surveillance médicale prévue par les règlements pris
-en application de l'article L. 231-2 (2°) et ceux qui relèvent des dispositions
-de l'article R. 241-50 ;
+- un nombre maximal annuel d'examens médicaux.
 
-Dix travailleurs temporaires soumis à la surveillance médicale prévue par les
-décrets pris en application de l'article L. 231-2 (2°) et à la surveillance
-médicale afférente aux travaux comportant des exigences ou des risques spéciaux
-déterminés par l'arrêté mentionné à l'article R. 241-50 ; chaque travailleur
-temporaire compte pour un dans l'effectif de l'entreprise utilisatrice, quels
-que soient le nombre et la durée des missions.
+Pour un médecin du travail à plein temps, le nombre maximal d'entreprises ou
+d'établissements attribués est fixé à 450, le nombre maximal annuel d'examens
+médicaux à 3 200 et l'effectif maximal de salariés placés sous surveillance
+médicale à 3 300. Ces plafonds, appliqués à un médecin du travail à temps
+partiel, sont calculés au prorata de son temps de travail.
+
+Dans les services de santé au travail d'entreprise ou d'établissement, le
+secteur d'entreprise confié à chaque médecin du travail, en application des
+dispositions de l'article R. 241-28, est déterminé en fonction d'un effectif de
+salariés suivis, dans les conditions définies aux cinq alinéas précédents.
