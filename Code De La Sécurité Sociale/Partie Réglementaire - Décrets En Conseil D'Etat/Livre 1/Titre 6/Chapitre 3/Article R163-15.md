@@ -2,11 +2,12 @@ Article R163-15
 ----
 La commission de la transparence comprend :
 
-1° Vingt membres titulaires ayant voix délibérative, nommés par arrêté du
-ministre chargé de la santé et du ministre chargé de la sécurité sociale pour
-une durée de trois ans renouvelable deux fois :
+1° Vingt membres titulaires ayant voix délibérative, nommés par décision du
+collège de la Haute Autorité de santé pour une durée de trois ans renouvelable
+deux fois :
 
-a) Un président ;
+a) Un président choisi en raison de sa compétence scientifique dans le domaine
+du médicament ;
 
 b) Deux vice-présidents ;
 
@@ -40,5 +41,5 @@ de la mutualité sociale agricole, ou leur représentant, médecin ou pharmacien
 qu'ils désignent ;
 
 c) Un représentant des organisations syndicales représentatives des fabricants
-de produits pharmaceutiques nommé, sur proposition de celles-ci, par arrêté du
-ministre chargé de la santé et du ministre chargé de la sécurité sociale.
+de produits pharmaceutiques nommé, sur proposition de celles-ci, par décision du
+collège de la Haute Autorité de santé.
