@@ -35,4 +35,15 @@ responsable, ou responsable intérimaire, et fixant ses attributions ;
 de pharmacien :
 
 - de toutes pièces précisant la nature, les conditions et modalités d'exercice
-de ladite activité.
+de ladite activité ;
+
+5° Lorsqu'elle vise à l'inscription d'une société d'exercice libéral, outre les
+pièces mentionnées au 1° :
+
+a) De la copie des statuts de la société et de son règlement intérieur ;
+
+b) De la liste des associés, mentionnant, pour chacun d'eux, sa qualité de
+professionnel en exercice ou la catégorie de personnes au titre de laquelle il
+est associé ;
+
+c) De l'indication de la répartition du capital entre les associés.

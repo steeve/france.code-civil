@@ -1,7 +1,7 @@
 Article R*5015-1
 ----
-Les dispositions de la présente section s'imposent à tous les pharmaciens
-inscrits à l'un des tableaux de l'Ordre.
+Les dispositions de la présente section s'imposent à tous les pharmaciens et
+sociétés d'exercice libéral inscrits à l'un des tableaux de l'ordre.
 
 Les infractions à ces dispositions relèvent de la juridiction disciplinaire de
 l'ordre, sans préjudice des poursuites pénales qu'elles seraient susceptibles

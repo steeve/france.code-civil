@@ -1,7 +1,7 @@
 Article R5014-2
 ----
-Dans tous les cas mentionnés à l'article R. 5014-1 la demande est accompagnée
-des pièces suivantes :
+Pour tous les pharmaciens mentionnés à l'article R. 5014-1 la demande est
+accompagnée des pièces suivantes :
 
 1° Un extrait d'acte de naissance ou une fiche d'état civil datant de moins de
 trois mois ;
