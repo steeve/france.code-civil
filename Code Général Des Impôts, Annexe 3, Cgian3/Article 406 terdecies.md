@@ -14,17 +14,14 @@ l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette taxe
 ainsi qu'aux impôts et taxes mentionnés aux 2° à 5° et 7° à 15° de l'article
 344-0 B.
 
-Elles s'appliquent en outre, sur option de l'entreprise, à la taxe sur les
-salaires prévue à l'article 231 du code précité, aux taxes foncières sur les
-propriétés bâties et non bâties et à leurs taxes additionnelles et annexes
+Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur
+les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes
 recouvrées dans les mêmes conditions. L'option s'applique aux cotisations dues
 au titre de l'ensemble des établissements et immeubles de l'entreprise. Formulée
 par écrit avant le 30 novembre d'une année, l'option prend effet le 1er janvier
 de l'année suivante, pour une durée de cinq ans, renouvelable par tacite
 reconduction à défaut de dénonciation trente jours au moins avant l'expiration
-de la période. En matière de taxe sur les salaires, l'option s'applique aux
-versements dus au titre des salaires versés à compter de la date d'effet de
-l'option.
+de la période.
 
 III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes
 conditions que celles prévues à l'article 344-0 C. Toutefois, les impositions

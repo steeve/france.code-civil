@@ -17,8 +17,8 @@ aux taxes, contributions et redevances assises et contrôlées comme en matière
 taxe sur la valeur ajoutée ;
 
 5° Aux déclarations de taxes et participations assises sur les salaires prévues
-aux articles 229, 235 ter J, 235 ter KD du code précité et 161 de l'annexe II au
-même code ;
+aux articles 229, 235 ter J, 235 ter KD du code précité, 161 de l'annexe II et
+369 de l'annexe III au même code ;
 
 6° A la déclaration de cotisation minimum de taxe professionnelle prévue au IV
 de l'article 1647 E du même code ;
