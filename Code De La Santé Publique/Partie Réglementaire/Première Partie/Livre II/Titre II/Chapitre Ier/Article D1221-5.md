@@ -25,7 +25,10 @@ clinique transfusionnelle ;
 5° Les tests et analyses biologiques suivants en vue du dépistage de maladies
 transmissibles :
 
-a) Le dépistage sérologique de la syphilis ;
+a) Le dépistage sérologique de la syphilis, la recherche de l'infection par
+l'agent de la syphilis peut être réalisée en différé, dans les heures ouvrables
+suivant le prélèvement de cellules souches hématopoïétiques ou de cellules
+somatiques mononucléées destinées à la réalisation de préparations cellulaires ;
 
 b) La détection de l'antigène HBs ;
 
@@ -40,6 +43,4 @@ dans une zone d'endémie telle que définie par l'Organisation mondiale de la
 santé lorsque le prélèvement est effectué plus de quatre mois et moins de trois
 ans après la date de leur retour de la zone d'endémie ;
 
-g) La détection des anticorps anti-HBc ;
-
-h) Le dosage des alanine-aminotransférases (ALAT).
+g) La détection des anticorps anti-HBc.
