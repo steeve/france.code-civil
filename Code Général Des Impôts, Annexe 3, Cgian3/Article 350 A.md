@@ -1,7 +1,7 @@
 Article 350 A
 ----
 1. Dans le département de la Corse et dans les départements d'outre-mer les
-inspecteurs principaux ou divisionnaires des impôts appelés à faire partie de la
+inspecteurs principaux ou départementaux des impôts appelés à faire partie de la
 commission départementale de conciliation instituée par l'article 1653 A du code
 général des impôts peuvent être remplacés par des inspecteurs des impôts.
 

@@ -9,7 +9,7 @@ assure les fonctions de président ;
 2° Du directeur des services fiscaux ou de son délégué ;
 
 3° De trois fonctionnaires de la direction générale des impôts ayant au moins le
-grade d'inspecteur divisionnaire ;
+grade d'inspecteur départemental ;
 
 4° D'un notaire désigné par la ou les chambres de notaires du département, ou de
 son suppléant ;
