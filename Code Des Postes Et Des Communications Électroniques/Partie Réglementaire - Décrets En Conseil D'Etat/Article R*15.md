@@ -8,6 +8,6 @@ tarif réduit.
 La location des fils utilisés par les journaux et agences de presse bénéficie
 également d'une réduction.
 
-Une subvention annuelle est inscrite, au profit de l'exploitant public, au
-budget général en compensation des réductions tarifaires accordées en
-application des articles R. 15 à R. 20.
+Une subvention annuelle est inscrite, au profit des opérateurs, au budget
+général en compensation des réductions tarifaires accordées en application des
+articles R. 15 à R. 20.
