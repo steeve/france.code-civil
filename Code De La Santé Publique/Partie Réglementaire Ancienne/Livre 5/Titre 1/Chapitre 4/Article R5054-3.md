@@ -10,4 +10,8 @@ b) Le déroulement de campagnes publicitaires ;
 
 c) L'utilisation promotionnelle des différents médias.
 
-Ces avis peuvent être rendus publics.
+La commission peut également émettre, à la demande du ministre, ou de sa propre
+initiative, des recommandations sur le bon usage des médicaments.
+
+Le ministre chargé de la santé peut rendre publics les avis et recommandations
+de la commission.

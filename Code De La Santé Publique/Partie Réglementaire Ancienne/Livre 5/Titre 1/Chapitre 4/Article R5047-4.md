@@ -1,8 +1,9 @@
 Article R5047-4
 ----
 Il peut être mis fin à l'autorisation de publicité par décision motivée du
-ministre chargé de la santé, après avis de la commission de contrôle de la
-publicité.
+ministre chargé de la santé, après avis de la commission chargée du contrôle de
+la publicité et de la diffusion de recommandations sur le bon usage des
+médicaments.
 
 Le bénéficiaire du visa doit, avant que la commission ne donne son avis, être
 mis à même de présenter ses observations écrites ou d'être entendu par la

@@ -8,7 +8,8 @@ sécurité sociale, en application des articles R. 163-1 à R. 163-12 du code de
 sécurité sociale, ainsi que la publicité relative aux produits et objets
 mentionnés aux deuxième et troisième alinéas de l'article L. 551 sont soumises à
 une autorisation du ministre chargé de la santé dénommée visa de publicité et
-délivrée après avis de la commission de contrôle de la publicité. Ce visa est
+délivrée après avis de la commission chargée du contrôle de la publicité et de
+la diffusion de recommandations sur le bon usage des médicaments. Ce visa est
 réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.
 
 Pour les autres médicaments toute publicité auprès du public est interdite.

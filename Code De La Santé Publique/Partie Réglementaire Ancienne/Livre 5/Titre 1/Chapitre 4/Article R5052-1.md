@@ -52,3 +52,9 @@ a) L'indication des phénomènes toxiques et des accidents d'intolérance possib
 b) Les risques d'accoutumance ou de dépendance ;
 
 c) Le mode de surveillance du malade pour déceler les accidents éventuels.
+
+Toute présentation orale d'une spécialité pharmaceutique doit être accompagnée
+de la remise d'une fiche signalétique comportant le résumé des caractéristiques
+du médicament prévu à l'article R. 5128-1 ainsi que les mentions exigées par la
+législation sur les prix et la législation sociale. Cette fiche doit être
+parfaitement lisible.
