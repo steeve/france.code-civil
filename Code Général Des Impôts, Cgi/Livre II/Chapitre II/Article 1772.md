@@ -36,5 +36,4 @@ manoeuvres.
 3. Quiconque est convaincu d'avoir opéré sciemment une inscription sous une
 rubrique inexacte des dépenses supportées par une entreprise, en vue de
 dissimuler des bénéfices ou revenus imposables au nom de l'entreprise elle-même
-ou d'un tiers, est passible, indépendamment de la sanction fiscale visée à
-l'article 1763, des peines prévues au 1.
+ou d'un tiers, est passible, des peines prévues au 1.

@@ -9,12 +9,15 @@ ou réglementaire.
 
 Relèvent de la même juridiction les réclamations qui tendent à obtenir la
 réparation d'erreurs commises par l'administration dans la détermination d'un
-résultat déficitaire, même lorsque ces dernières n'entraînent pas la mise en
-recouvrement d'une imposition supplémentaire. Les réclamations peuvent être
-présentées à compter de la réception de la réponse aux observations du
-contribuable mentionnée à l'article L. 57 ou, en cas de saisine de la commission
-départementale des impôts directs et des taxes sur le chiffre d'affaires, à
-compter de la notification de l'avis rendu par cette commission.
+résultat déficitaire ou d'un excédent de taxe sur la valeur ajoutée déductible
+sur la taxe sur la valeur ajoutée collectée au titre d'une période donnée, même
+lorsque ces erreurs n'entraînent pas la mise en recouvrement d'une imposition
+supplémentaire. Les réclamations peuvent être présentées à compter de la
+réception de la réponse aux observations du contribuable mentionnée à l'article
+L. 57, ou à compter d'un délai de 30 jours après la notification prévue à
+l'article L. 76 ou, en cas de saisine de la commission départementale des impôts
+directs et des taxes sur le chiffre d'affaires, à compter de la notification de
+l'avis rendu par cette commission.
 
 Sont instruites et jugées selon les règles du présent chapitre toutes actions
 tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de

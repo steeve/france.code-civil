@@ -7,8 +7,8 @@ minutes, aux actes et procès-verbaux de vente de prises et de navires ou bris d
 navires et aux actes administratifs, n'ont pas été consignés aux mains des
 greffiers et des autorités administratives, dans les délais prescrits pour
 l'enregistrement ou la formalité fusionnée, le recouvrement en est poursuivi
-contre les parties qui supportent, en outre, les sanctions prévues aux articles
-1728 et 1835.
+contre les parties qui supportent, en outre, les sanctions prévues à l'article
+1728.
 
 A cet effet, les greffiers et les autorités administratives fournissent aux
 agents des impôts, dans la décade qui suit l'expiration des délais, des extraits

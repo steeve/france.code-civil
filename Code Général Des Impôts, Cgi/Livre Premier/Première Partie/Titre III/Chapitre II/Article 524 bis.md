@@ -2,10 +2,11 @@ Article 524 bis
 ----
 Sont dispensés du poinçon de garantie :
 
-a) Les ouvrages antérieurs à l'année 1838 ;
+a) Les ouvrages antérieurs à l'année 1838 et ceux postérieurs à cette date déjà
+revêtus d'anciens poinçons français de garantie ;
 
 b) Les ouvrages contenant de l'or, de l'argent ou du platine et d'un poids
-inférieur à des seuils fixés par décret (1) ;
+inférieur à des seuils fixés par décret ;
 
 c) Les ouvrages qui ne peuvent supporter l'empreinte des poinçons sans
 détérioration ;

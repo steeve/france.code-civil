@@ -16,8 +16,7 @@ que les biens sont destinés à faire l'objet, en l'état ou après transformati
 d'une livraison mentionnée au premier alinéa ou que les prestations de services
 sont afférentes à ces biens. Cette attestation doit comporter l'engagement
 d'acquitter la taxe sur la valeur ajoutée au cas où les biens et les services ne
-recevraient pas la destination qui a motivé la franchise, sans préjudice des
-pénalités prévues aux articles 1725 à 1740.
+recevraient pas la destination qui a motivé la franchise.
 
 II. Les dispositions du I s'appliquent aux organismes sans but lucratif dont la
 gestion est désintéressée qui exportent des biens à l'étranger dans le cadre de

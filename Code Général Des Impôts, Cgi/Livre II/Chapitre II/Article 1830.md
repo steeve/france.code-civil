@@ -4,7 +4,3 @@ Pour l'application des pénalités prévues à l'article 1728 en cas de retard d
 l'exécution de la formalité fusionnée, il n'est pas tenu compte de la période
 comprise entre le dépôt de l'acte refusé et la nouvelle présentation à la
 formalité si celle-ci intervient dans le mois de la notification du refus.
-
-Sous la même condition il n'est pas fait application de l'amende fixe prévue
-dans les cas visés à l'article 1835, lorsque le retard résulte du refus de
-publier.

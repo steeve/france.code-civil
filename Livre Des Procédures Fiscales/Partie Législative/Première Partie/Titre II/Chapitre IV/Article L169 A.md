@@ -11,8 +11,7 @@ l'article 119 bis du code général des impôts ;
 
 3° Au précompte prévu à l'article 223 sexies ;
 
-4° A la taxe forfaitaire sur les plus-values de liquidation de certaines
-sociétés prévue à l'article 239 bis B ;
+4° (abrogé).
 
 5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art.
 23) ;

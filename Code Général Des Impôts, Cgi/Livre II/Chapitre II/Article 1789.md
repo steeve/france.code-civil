@@ -1,12 +1,12 @@
 Article 1789
 ----
 Au cas où un contrevenant ayant encouru depuis moins de trois ans une des
-amendes fiscales ou des majorations prévues aux articles 1725, 1726, 1729, 1740
-et 1784 commet intentionnellement une nouvelle infraction, il peut être traduit
+amendes fiscales ou des majorations prévues aux articles 1725, 1726, 1729 et
+1740 commet intentionnellement une nouvelle infraction, il peut être traduit
 devant le tribunal correctionnel, à la requête de l'administration compétente,
-et puni par ce même tribunal, indépendamment de l'amende fiscale prévue à
-l'article 1785 A, d'un emprisonnement de six mois. Le tribunal correctionnel
-peut ordonner, à la demande de l'administration, que le jugement soit publié
-intégralement ou par extrait dans les journaux qu'il désigne et affiché dans les
-lieux qu'il indique, le tout aux frais du condamné. Toutes les dispositions de
-l'article L216-3 du code de la consommation sont applicables dans ce cas.
+et puni par ce même tribunal d'un emprisonnement de six mois. Le tribunal
+correctionnel peut ordonner, à la demande de l'administration, que le jugement
+soit publié intégralement ou par extrait dans les journaux qu'il désigne et
+affiché dans les lieux qu'il indique, le tout aux frais du condamné. Toutes les
+dispositions de l'article L216-3 du code de la consommation sont applicables
+dans ce cas.

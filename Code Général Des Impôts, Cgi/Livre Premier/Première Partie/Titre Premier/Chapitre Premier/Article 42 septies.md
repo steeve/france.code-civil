@@ -19,12 +19,13 @@ Les subventions affectées à la création ou à l'acquisition d'une immobilisat
 non amortissable sont rapportées par fractions égales au bénéfice imposable des
 années pendant lesquelles cette immobilisation est inaliénable aux termes du
 contrat accordant la subvention ou, à défaut de clause d'inaliénabilité, au
-bénéfice des dix années suivant celle de l'attribution de la subvention)) ;
+bénéfice des dix années suivant celle de l'attribution de la subvention ;
 
-La subvention attribuée par l'intermédiaire d'une entreprise de crédit-bail est
-répartie, par parts égales, sur les exercices clos au cours de la période
-couverte par le contrat de crédit-bail, à la condition que la décision accordant
-cette subvention prévoie son reversement immédiat au crédit-preneur.
+Lorsque la subvention est attribuée au crédit-preneur directement ou lorsqu'elle
+l'est par l'intermédiaire d'une entreprise de crédit-bail et que la décision
+accordant cette subvention prévoit son reversement immédiat au crédit-preneur,
+cette dernière est répartie, par parts égales, sur les exercices clos au cours
+de la période couverte par le contrat de crédit-bail.
 
 En cas de cession des immobilisations visées aux deuxième et troisième alinéas,
 la fraction de la subvention non encore rapportée aux bases de l'impôt est
@@ -38,7 +39,7 @@ opération pour les biens non amortissables, et sur la durée d'amortissement po
 les biens amortissables. En cas de cession ultérieure des biens en cause, la
 fraction de la subvention non encore rapportée au résultat imposable de la
 société bénéficiaire de l'apport sera comprise dans son bénéfice imposable de
-l'exercice de cession (1). Ces dispositions s'appliquent en cas de cession ou de
+l'exercice de cession. Ces dispositions s'appliquent en cas de cession ou de
 résiliation d'un contrat de crédit-bail ; la période mentionnée à la deuxième
 phrase s'entend alors de celle restant à courir à la date de l'opération
 concernée jusqu'à l'échéance de ce contrat.
@@ -46,6 +47,3 @@ concernée jusqu'à l'échéance de ce contrat.
 2 Les dispositions du 1 sont applicables aux subventions d'équipement versées à
 leurs adhérents par les groupements professionnels agréés prévus par le décret
 n° 55-877 du 30 juin 1955.
-
-(1) Ces dispositions s'appliquent aux apports réalisés à compter du 1er janvier
-1997.

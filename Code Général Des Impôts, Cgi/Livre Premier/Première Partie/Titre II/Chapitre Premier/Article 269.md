@@ -2,9 +2,8 @@ Article 269
 ----
 1 Le fait générateur de la taxe se produit :
 
-a) Au moment où la livraison, l'achat au sens du 10° de l'article 257,
-l'acquisition intracommunautaire du bien ou la prestation de services est
-effectué ;
+a) Au moment où la livraison, l'acquisition intracommunautaire du bien ou la
+prestation de services est effectué ;
 
 a bis) Pour les livraisons autres que celles qui sont visées au c du 3° du II de
 l'article 256 ainsi que pour les prestations de services qui donnent lieu à
@@ -36,7 +35,7 @@ soi-même de travaux d'entretien mentionnés au c du 7° bis de l'article 257
 effectués au cours de ce trimestre ;
 
 e) Pour les livraisons à soi-même mentionnées au 7° ter de l'article 257, au
-moment de la mise en service (1).
+moment de la mise en service.
 
 2. La taxe est exigible :
 

@@ -91,11 +91,11 @@ développement.
 La provision visée au cinquième alinéa du 1 peut également être utilisée au
 titre des dépenses de formation prévues à l'article L. 444-1 du code du travail.
 
-5. Lorsqu'un accord est conclu au sein d'un groupe de sociétés et aboutit à
-dégager une réserve globale de participation, la provision pour investissement
-est constituée par chacune des sociétés intéressées dans la limite de sa
-contribution effective à la participation globale. Toutefois, chacune de ces
-sociétés peut, sur autorisation du ministre chargé des finances, transférer tout
+5. Lorsqu'un accord est conclu au sein d'un groupe de sociétés soumis au régime
+défini aux articles 223 A et suivants et aboutit à dégager une réserve globale
+de participation, la provision pour investissement est constituée par chacune
+des sociétés intéressées dans la limite de sa contribution effective à la
+participation globale. Toutefois, chacune de ces sociétés peut transférer tout
 ou partie de son droit à constitution de ladite provision à l'une des autres
 sociétés du groupe dont il s'agit, ou à plusieurs d'entre elles.
 

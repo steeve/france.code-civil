@@ -11,12 +11,10 @@ la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648
 AA, et perçoivent le produit de cette taxe.
 
 2° Les communautés de communes faisant application des dispositions fiscales
-prévues au III de l'article 1609 quinquies C et, jusqu'au 1er janvier 2002, les
-districts faisant application des dispositions de l'article 1609 quinquies A et
-les communautés de villes sont substitués aux communes membres pour
-l'application des dispositions relatives à la taxe professionnelle, à
-l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le produit
-de cette taxe.
+prévues au III de l'article 1609 quinquies C sont substituées aux communes
+membres pour l'application des dispositions relatives à la taxe professionnelle,
+à l'exception des I et II des articles 1648 A et 1648 AA, et perçoivent le
+produit de cette taxe.
 
 II. 1° Les établissements publics de coopération intercommunale visés au I
 peuvent décider, par délibération du conseil de l'établissement public de

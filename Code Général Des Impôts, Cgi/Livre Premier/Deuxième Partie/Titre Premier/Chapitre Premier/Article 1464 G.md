@@ -20,9 +20,3 @@ du ministre chargé du budget et du ministre chargé des ports.
 Les entreprises qui entendent bénéficier de ces dispositions doivent déclarer,
 chaque année, au service des impôts, les éléments entrant dans le champ
 d'application de l'exonération.
-
-Pour l'année 2001, les délibérations des collectivités territoriales ou des
-établissements publics de coopération intercommunale doivent intervenir au plus
-tard au 31 janvier 2001 et les entreprises doivent déclarer, au plus tard le 15
-février 2001, pour chacun de leurs établissements, les éléments entrant dans le
-champ de l'exonération.

@@ -1,6 +1,5 @@
 Article 468
 ----
-Tout expéditeur de marcs de raisins, de lies sèches et de levures alcooliques
-est tenu de se munir, auprès de l'administration, d'un document mentionné au II
-de l'article 302 M indiquant le poids des produits expédiés et l'adresse du
-destinataire.
+Tout expéditeur de marcs de raisins ou de lies est tenu d'établir un document
+mentionné au II de l'article 302 M indiquant le poids pour les marcs ou le
+volume et le titre alcoométrique volumique pour les lies.
