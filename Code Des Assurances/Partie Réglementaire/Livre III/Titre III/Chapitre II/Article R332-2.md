@@ -22,6 +22,9 @@ valeurs mentionnées aux 1° et 2° ci-dessus.
 4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou
 au compartiment spécial du marché hors cote des bourses françaises de valeurs.
 
+4° bis Actions et parts des sociétés commerciales françaises non inscrites à la
+cote officiel des bourses françaises de valeurs.
+
 5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou
 inscrites à la cote d'une bourse de valeurs, dans les conditions déterminées par
 arrêté du ministre de l'économie et des finances ;
@@ -33,7 +36,7 @@ l'économie.
 7° Immeubles bâtis en France métropolitaine.
 
 Tous autres immeubles situés en France métropolitaine et dans les départements
-et territoires d'outre mer, sur autorisation donnée dans chaque cas par le
+et territoires d'outre-mer, sur autorisation donnée dans chaque cas par le
 ministre de l'économie et des finances.
 
 Parts ou actions de sociétés immobilières non inscrites à la cote officielle des
@@ -51,7 +54,7 @@ hypothécaires consenties en vue de la construction d'immeubles d'habitation, à
 condition que les immeubles soient situés en France métropolitaine ou dans les
 départements et territoires d'outre-mer et que, sauf dérogation accordée par le
 ministre de l'économie et des finances, l'ensemble des hypothèques en premier
-rang sur un même immeuble n'excède pas 50 p. 100 de la valeur estimative dudit
+rang sur un même immeuble n'excède pas 80 p. 100 de la valeur estimative dudit
 immeuble.
 
 Prêts garantis par des hypothèques maritimes en premier rang, dans les
@@ -72,6 +75,10 @@ sans réserve, la collectivité garante au débiteur défaillant.
 Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou
 autres rémunérations de services, et obligations libérées émises par lesdits
 organismes ;
+
+10° bis Les prêts consentis à des sociétés d'assurance à forme mutuelle dans les
+conditions prévues à l'article R. 322-74 et sur autorisation donnée cas par cas
+par le ministre de l'économie.
 
 11° Prêts ou effets représentatifs de prêts aux entreprises industrielles et
 commerciales dans les conditions et avec les garanties déterminées par arrêté du
