@@ -1,8 +1,9 @@
 Article L941-4
 ----
-Les articles L. 922-11, L. 931-9, L. 931-13, L. 931-14, L. 931-18 à L. 931-23,
-le premier alinéa de l'article L. 931-24, les articles L. 931-25 à L. 931-29 et
-l'article L. 931-32 s'appliquent aux institutions de retraite supplémentaire.
-
-Les dispositions de l'article L. 913-1 sont applicables aux statuts et
-règlements de retraite de ces institutions.
+Un décret en Conseil d'Etat précise en tant que de besoin les modalités de
+fonctionnement des institutions de gestion de retraite supplémentaire et
+notamment les mentions qu'elles doivent faire figurer dans leurs statuts et
+documents d'information. Un arrêté du ministre chargé de la sécurité sociale
+détermine les états comptables et statistiques que les institutions adressent
+chaque année à la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance.

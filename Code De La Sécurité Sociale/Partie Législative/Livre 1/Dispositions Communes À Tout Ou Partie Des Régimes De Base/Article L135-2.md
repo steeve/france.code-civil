@@ -13,7 +13,7 @@ juillet 1963) portant maintien de la stabilité économique et financière ;
 
 c) Au 1° de l'article 1110 du code rural ;
 
-d) Au second alinéa de l'article L. 643-1 ;
+d) Au dernier alinéa de l'article L. 643-1 ;
 
 2° Les dépenses attachées au service de l'allocation spéciale visée aux articles
 L. 814-1 et L. 814-3 et supportées par les régimes d'assurance vieillesse de
@@ -37,8 +37,10 @@ a) Des périodes de service national légal de leurs assurés ;
 b) Des périodes pendant lesquelles les assurés ont bénéficié des allocations
 mentionnées aux articles L. 322-3, L. 351-3, L. 351-9, L. 351-10 et L. 351-10-2
 du code du travail, des allocations spéciales mentionnées au 2° de l'article L.
-322-4 du même code et de l'allocation de préparation à la retraite mentionnée à
-l'article 125 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) ;
+322-4 du même code, de l'allocation de préparation à la retraite mentionnée à
+l'article 125 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991)
+et de la rémunération prévue au quatrième alinéa de l'article L. 321-4-3 du code
+du travail ;
 
 c) Des périodes de chômage non indemnisé visées au 3° de l'article L. 351-3 du
 présent code ;

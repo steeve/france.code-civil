@@ -1,28 +1,19 @@
 Article L634-6
 ----
-Le service d'une pension de vieillesse prenant effet postérieurement au 30 juin
-1984 , liquidée au titre des régimes d'assurance vieillesse des professions
-artisanales, industrielles et commerciales, et dont l'entrée en jouissance
-intervient à compter d'un âge fixé par décret en Conseil d'Etat, est subordonné
-à la cessation définitive de l'activité non salariée ou, pour les assurés
-exerçant une activité salariée, à la rupture définitive de tout lien
-professionnel avec l'employeur.
+Le service d'une pension de vieillesse liquidée au titre des régimes d'assurance
+vieillesse des professions artisanales, industrielles et commerciales et dont
+l'entrée en jouissance intervient à compter d'un âge fixé par décret en Conseil
+d'Etat est subordonné à la cessation définitive des activités relevant du ou
+desdits régimes.
 
-Il est suspendu dès lors que l'assuré reprend, à quelque titre que ce soit, une
-activité professionnelle dans la ou les entreprises exploitées à la date de la
-cessation d'activité non salariée.
+Les dispositions du premier alinéa ne font pas obstacle à l'exercice par
+l'assuré d'une activité procurant des revenus inférieurs à des seuils adaptés
+selon les zones géographiques concernées et déterminés dans des conditions
+fixées par décret.
 
-Les dispositions des alinéas précédents ne sont pas applicables aux assurés
-ayant obtenu, avant le 1er juillet 1984, le service d'une pension de vieillesse
-liquidée postérieurement au 31 mars 1983 dans un des régimes énumérés au premier
-alinéa de l'article L. 161-22.
+Lorsque l'assuré reprend une activité lui procurant des revenus supérieurs à
+ceux prévus à l'alinéa précédent, il en informe la caisse compétente et le
+service de la pension est suspendu.
 
-Elles ne font pas obstacle à l'exercice des activités énumérées au deuxième
-alinéa de l'article L. 161-22.
-
-Les dispositions des deux premiers alinéas ne sont pas opposables à l'assuré qui
-demande le bénéfice de sa pension au titre des articles L. 351-15, L. 634-3-1,
-L. 643-8-1 du présent code ou 1121-2 du code rural.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent
-article et notamment de son deuxième alinéa.
+Les dispositions du premier alinéa ne sont pas opposables à l'assuré qui demande
+le bénéfice de sa pension au titre de l'article L. 634-3-1.

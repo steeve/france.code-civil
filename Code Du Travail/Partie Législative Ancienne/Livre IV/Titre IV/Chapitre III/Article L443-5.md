@@ -1,19 +1,18 @@
 Article L443-5
 ----
 Les sociétés peuvent procéder à des augmentations de capital réservées aux
-adhérents d'un plan d'épargne d'entreprise ou d'un plan partenarial d'épargne
-salariale volontaire.
+adhérents d'un plan d'épargne d'entreprise.
 
 Lorsque les titres sont admis aux négociations sur un marché réglementé, le prix
 de cession est fixé d'après les cours de bourse ; le prix de souscription ne
 peut être ni supérieur à la moyenne des cours cotés aux vingt séances de bourse
 précédant le jour de la décision fixant la date d'ouverture de la souscription
-ni inférieur de plus de 20 p. 100 à cette moyenne ou de 30 % dans le cas d'un
-plan partenarial d'épargne salariale volontaire mis en place en application de
-l'article L. 443-1-2. La décision fixant la date de souscription est prise par
-le conseil d'administration ou le directoire, selon le cas, ou par son président
-s'il a reçu une délégation en ce sens en application du V de l'article L.
-225-129 du code de commerce.
+ni inférieur de plus de 20 % à cette moyenne ou de 30 % lorsque la durée
+d'indisponibilité prévue par le plan en application de l'article L. 443-6 est
+supérieure ou égale à dix ans. La décision fixant la date de souscription est
+prise par le conseil d'administration ou le directoire, selon le cas, ou par son
+président s'il a reçu une délégation en ce sens en application du V de l'article
+L. 225-129 du code de commerce.
 
 Lorsque les titres ne sont pas admis aux négociations sur un marché réglementé,
 le prix de cession est déterminé conformément aux méthodes objectives retenues
@@ -33,12 +32,13 @@ l'attribution gratuite d'actions ou d'autres titres donnant accès au capital.
 L'avantage total résultant de cette attribution et, le cas échéant, de l'écart
 entre le prix de souscription et la moyenne des cours mentionnée au deuxième
 alinéa ne peut pas dépasser l'avantage dont auraient bénéficié les adhérents au
-plan d'épargne si cet écart avait été de 20 % ou de 30 % dans le cas d'un plan
-mentionné à l'article L. 443-1-2. Par ailleurs, l'assemblée générale peut
-également prévoir une attribution gratuite d'actions ou d'autres titres donnant
-accès au capital, sous réserve que la prise en compte de leur contre-valeur
-pécuniaire, évaluée au prix de souscription, n'ait pour effet de dépasser les
-limites prévues à l'article L. 443-7.
+plan d'épargne si cet écart avait été de 20 % ou de 30 % lorsque la durée
+d'indisponibilité prévue par le plan en application de l'article L. 443-6 est
+supérieure ou égale à dix ans. Par ailleurs, l'assemblée générale peut également
+prévoir une attribution gratuite d'actions ou d'autres titres donnant accès au
+capital, sous réserve que la prise en compte de leur contre-valeur pécuniaire,
+évaluée au prix de souscription, n'ait pour effet de dépasser les limites
+prévues à l'article L. 443-7.
 
 L'avantage constitué par l'écart entre le prix de souscription et la moyenne des
 cours mentionnés au deuxième alinéa et, le cas échéant, par l'attribution

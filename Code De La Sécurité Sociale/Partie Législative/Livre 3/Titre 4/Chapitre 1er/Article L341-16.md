@@ -1,10 +1,10 @@
 Article L341-16
 ----
 Par dérogation aux dispositions de l'article L. 341-15, lorsque l'assuré, dont
-la pension d'invalidité a pris fin à l'âge minimum auquel s'ouvre le droit à
-pension de vieillesse, exerce une activité professionnelle, la pension de
-vieillesse allouée au titre de l'inaptitude au travail n'est concédée que si
-l'assuré n'y fait pas opposition.
+la pension d'invalidité a pris fin à l'âge prévu au premier alinéa de l'article
+L. 351-1, exerce une activité professionnelle, la pension de vieillesse allouée
+au titre de l'inaptitude au travail n'est concédée que si l'assuré n'y fait pas
+opposition.
 
 Si, à l'âge susmentionné, l'assuré renonce à l'attribution de cette pension de
 vieillesse substituée, ses droits à l'assurance vieillesse sont ultérieurement

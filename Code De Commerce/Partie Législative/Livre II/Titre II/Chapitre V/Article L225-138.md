@@ -55,9 +55,8 @@ du souscripteur, soit par versements périodiques, soit par prélèvements égau
 réguliers sur le salaire du souscripteur ;
 
 6° Les actions ainsi souscrites délivrées avant l'expiration du délai de cinq
-ans prévu à l'article L. 443-6 du code du travail ou des délais de sept ou dix
-ans prévus au deuxième alinéa du I de l'article L. 443-1-2 dudit code ne sont
-négociables qu'après avoir été intégralement libérées ;
+ans prévu à l'article L. 443-6 du code du travail ne sont négociables qu'après
+avoir été intégralement libérées ;
 
 7° Les actions réservées aux adhérents aux plans d'épargne mentionnés aux
 articles L. 443-1 et L. 443-1-2 du code du travail peuvent, par dérogation aux

@@ -16,14 +16,22 @@ de l'accord mentionné au premier alinéa s'il remplit les conditions fixées po
 en bénéficier, soit à l'indemnité minimum de licenciement prévue à l'article L.
 122-9 du présent code.
 
-La mise à la retraite s'entend par la possibilité donnée à l'entreprise de
-rompre le contrat de travail d'un salarié qui peut bénéficier d'une pension de
-vieillesse à taux plein, au sens du chapitre Ier du titre V du livre III du code
-de la sécurité sociale, et qui remplit les conditions d'ouverture à la pension
-de vieillesse, ou, si elles existent, les conditions d'âge prévues par la
-convention ou l'accord collectif, ou le contrat de travail. Si les conditions de
-mise à la retraite ne sont pas remplies, la rupture du contrat de travail par
-l'employeur constitue un licenciement.
+La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre
+le contrat de travail d'un salarié ayant atteint l'âge visé au 1° de l'article
+L. 351-8 du code de la sécurité sociale. Dans le cadre d'une convention ou d'un
+accord collectif étendu conclu avant le 1er janvier 2008 fixant des
+contreparties en termes d'emploi ou de formation professionnelle, ou en cas de
+cessation d'activité en application d'un accord professionnel mentionné à
+l'article L. 352-3 du présent code ou d'une convention conclue en application du
+3° de l'article L. 322-4 ou dans le cadre du bénéfice de tout autre avantage de
+préretraite défini antérieurement à la date de publication de la loi n° 2003-775
+du 21 août 2003 portant réforme des retraites, un âge inférieur peut être fixé,
+dès lors que le salarié peut bénéficier d'une pension de vieillesse à taux plein
+au sens du code de la sécurité sociale. Cet âge ne peut être inférieur à celui
+fixé au premier alinéa de l'article L. 351-1 du code de la sécurité sociale.
+
+Si les conditions de mise à la retraite ne sont pas réunies, la rupture du
+contrat de travail par l'employeur constitue un licenciement.
 
 L'employeur ou le salarié, selon que l'initiative du départ à la retraite émane
 de l'un ou de l'autre, est tenu de se conformer aux dispositions des 1°, 2°, 3°

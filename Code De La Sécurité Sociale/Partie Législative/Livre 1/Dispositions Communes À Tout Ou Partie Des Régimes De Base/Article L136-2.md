@@ -68,11 +68,11 @@ leurs établissements publics aux élus municipaux, cantonaux et régionaux ;
 e) Les allocations versées à l'issue des mandats locaux par le fonds mentionné
 par l'article L. 1621-2 du code général des collectivités territoriales.
 
-4° Les contributions prévues au cinquième alinéa de l'article L. 242-1 du
-présent code et au cinquième alinéa de l'article 1031 du code rural, à
-l'exception de celles versées aux institutions mettant en oeuvre les régimes de
-retraite complémentaire mentionnés au chapitre Ier du titre II du livre IX du
-présent code lorsqu'elles sont exonérées en vertu des deux articles précités ;
+4° Les contributions des employeurs destinées au financement des prestations
+complémentaires de retraite et de prévoyance, à l'exception de celles visées au
+cinquième alinéa de l'article L. 242-1 du présent code et au cinquième alinéa de
+l'article L. 741-10 du code rural et de celles destinées au financement des
+régimes de retraite visés au I de l'article L. 137-11 du présent code ;
 
 5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
 sommes versées à l'occasion de la rupture du contrat de travail pour la fraction
@@ -133,8 +133,7 @@ ou en divorce ;
 5° Les salaires versés au titre des contrats conclus en application de l'article
 L. 117-1 du code du travail.
 
-6° L'allocation de veuvage visée à l'article L. 356-1 du présent code et aux
-articles 1031-1 et 1142-26 du code rural.
+6° (Abrogé).
 
 7° L'indemnité de cessation d'activité visée au V de l'article 41 de la loi de
 financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
