@@ -15,8 +15,9 @@ mutuelles d'assurance vieillesse agricoles. Dans cette gestion, il ne pourra
 attribuées à chacun des régimes précédemment gérés par ces caisses.
 
 Les statuts et règlements intérieurs des caisses de mutualité sociale agricole
-sont approuvés par le ministre de l'agriculture après avis de l'union des
-caisses centrales de la mutualité agricole.
+sont approuvés par le ministre chargé de l'agriculture, après avis du conseil
+central d'administration de la mutualité sociale agricole. Le ministre peut
+déléguer ce pouvoir au commissaire de la République pour la région.
 
 Les caisses de mutualité sociale agricole comprennent un service de
 recouvrement, contrôle et contentieux et des sections dont les opérations font
