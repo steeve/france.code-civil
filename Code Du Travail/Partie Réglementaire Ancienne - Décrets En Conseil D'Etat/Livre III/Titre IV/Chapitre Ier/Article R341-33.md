@@ -21,3 +21,10 @@ avis, au directeur de l'office des migrations internationales le procès-verbal
 ainsi que les observations de l'employeur, s'il en a été produit, et, le cas
 échéant, l'avis du fonctionnaire compétent en raison de la nature de l'activité
 exercée par l'employeur.
+
+Pour l'application du troisième alinéa de l'article R. 341-35,
+
+le directeur départemental du travail et de l'emploi joint, le cas échéant, à la
+proposition qu'il adresse au directeur de l'Office des migrations
+internationales l'avis du fonctionnaire compétent en raison de la nature de
+l'activité exercée par l'employeur.
