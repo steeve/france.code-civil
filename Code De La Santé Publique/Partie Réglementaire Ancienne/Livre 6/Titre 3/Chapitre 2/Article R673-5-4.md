@@ -1,8 +1,0 @@
-Article R673-5-4
-----
-La disposition des locaux ainsi que les modalités d'accueil des donneurs et des
-couples receveurs doivent être de nature à assurer l'anonymat du don et la
-confidentialité des activités.
-
-Une pièce est aménagée pour les entretiens préalables au don ou à la cession de
-gamètes.
