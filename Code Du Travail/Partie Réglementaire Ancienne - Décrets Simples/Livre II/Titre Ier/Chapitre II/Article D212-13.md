@@ -1,17 +1,10 @@
 Article D212-13
 ----
-Dans les établissements et professions assujetties à la réglementation de la
-durée du travail, et pour lesquels est intervenu un décret pris en application
-de l'article L. 212-2, à l'exception des entreprises de transport soumises au
-contrôle technique du ministère des transports, le dépassement de la durée
-quotidienne du travail effectif, fixée à dix heures par le deuxième alinéa de
-l'article L. 212-1, peut être autorisé dans tous les cas où un surcroît
-temporaire d'activité est imposé, notamment pour l'un des motifs ci-après.
+Les demandes de dérogation, accompagnées des justifications utiles et de l'avis
+du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent,
+sont adressées par l'employeur à l'inspecteur du travail [*autorité
+compétente*].
 
-Travaux devant être exécutés dans un délai déterminé en raison de leur nature,
-des charges imposées à l'entreprise ou des engagements contractés par celle-ci ;
-
-Travaux saisonniers ;
-
-Travaux impliquant une activité accrue pendant certains jours de la semaine, du
-mois ou de l'année.
+Dans un délai maximum de quinze jours suivant la date de réception de la
+demande, l'inspecteur du travail fait connaître sa décision à l'employeur ainsi
+que, s'il y a lieu, aux représentants du personnel.
