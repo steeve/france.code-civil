@@ -29,7 +29,13 @@ du groupe hospitalier ;
 
 8. Le règlement intérieur de l'hôpital ou du groupe hospitalier ;
 
-9. La désignation des praticiens hospitaliers chargés des unités fonctionnelles.
+9. La désignation des praticiens hospitaliers chargés des unités fonctionnelles
+;
+
+10. Le rapport de la commission des relations avec les usagers et de la qualité
+de la prise en charge mentionné à l'article L. 1112-3. Ce rapport est transmis
+au conseil d'administration accompagné des propositions et avis de la commission
+de surveillance.
 
 La commission de surveillance peut émettre des voeux tendant à assurer un
 meilleur fonctionnement de l'hôpital ou du groupe hospitalier. Ces voeux sont
