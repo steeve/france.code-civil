@@ -1,7 +1,8 @@
 Article 775
 ----
-Le bulletin n. 2 est le relevé des fiches du casier judiciaire applicables à la
-même personne, à l'exclusion de celles concernant les décisions suivantes :
+Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la
+même personne, à l'exclusion de celles concernant les décisions suivantes
+[*catégories*] :
 
 1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de
 l'ordonnance n. 45-174 du 2 février 1945 modifiée, relative à l'enfance
@@ -19,7 +20,7 @@ l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
 ;
 
 6° Les condamnations auxquelles sont applicables les dispositions de l'article
-343 du Code de justice militaire ;
+343 du code de justice militaire ;
 
 7° En matière de redressement judiciaire, les jugements prononçant la faillite
 personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25
@@ -47,13 +48,14 @@ jour où elles sont devenues définitives.
 
 Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en
 application de l'article 43-1, est supérieure à cinq ans, la condamnation
-demeure mentionnée au bulletin n. 2 pendant la même durée ;
+demeure mentionnée au bulletin n° 2 pendant la même durée ;
 
-12° Les déclarations de culpabilité assorties d'une dispense de peine ;
+12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un
+ajournement du prononcé de celle-ci ;
 
 13° Les condamnations prononcées par des juridictions étrangères.
 
-Les bulletins n. 2 fournis en cas de contestation concernant l'inscription sur
+Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur
 les listes électorales, ne comprennent que les décisions entraînant des
 incapacités en matière d'exercice du droit de vote.
 

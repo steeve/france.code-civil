@@ -13,7 +13,10 @@ Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former 
 pourvoi en cassation leur sont signifiés à la requête du procureur général dans
 les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à
 l'inculpé, à la partie civile ou au requérant mentionné au cinquième alinéa de
-l'article 99 tant que le juge d'instruction n'a pas clôturé son information.
+l'article 99 tant que le juge d'instruction n'a pas clôturé son information. Ils
+peuvent être notifiés à l'inculpé détenu par les soins du chef de
+l'établissement pénitentiaire qui adresse, sans délai, au procureur général
+l'original ou la copie du récépissé signé par l'inculpé.
 
 Toute notification d'acte à la dernière adresse déclarée par une partie est
 réputée faite à sa personne.
