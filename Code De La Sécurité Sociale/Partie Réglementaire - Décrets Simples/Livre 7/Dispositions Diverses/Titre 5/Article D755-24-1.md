@@ -19,3 +19,9 @@ logement et du montant des ressources prises en compte pour le calcul de
 l'allocation de logement, déterminées en application des articles D 542-10 et D
 542-11. Lorsque la mensualité nette est inférieure au minimum, il est appliqué
 au montant mensuel de l'allocation un abattement égal à la différence constatée.
+
+Toutefois, les dispositions du troisième alinéa ne sont pas applicables aux
+ménages ayant bénéficié d'une aide de l'Etat pour l'acquisition d'un logement
+évolutif social, ni aux ménages qui acquièrent un logement très social ayant
+fait l'objet d'une aide de l'Etat à la construction de logements à vocation très
+sociale.
