@@ -34,3 +34,16 @@ intérim.
 
 Ce pharmacien est choisi de préférence parmi les pharmaciens ou pharmaciens
 assistants de la société.
+
+IV. - Le remplacement des pharmaciens des établissements pharmaceutiques de la
+Pharmacie centrale des armées est assuré dans les conditions ci-après fixées :
+
+Le pharmacien responsable désigne, parmi les pharmaciens qui lui sont
+subordonnés, le pharmacien responsable intérimaire qui doit satisfaire aux mêmes
+conditions que lui. Le pharmacien responsable intérimaire doit se voir confier
+les mêmes pouvoirs et attributions que ceux conférés au pharmacien responsable
+et les exercer effectivement pendant la durée du remplacement. Si le pharmacien
+responsable intérimaire est un pharmacien délégué, un pharmacien délégué
+intérimaire est en même temps désigné pour assurer son remplacement. Les
+pharmaciens intérimaires doivent se consacrer exclusivement à cette activité
+pendant la période où ils en ont la charge.

@@ -25,4 +25,7 @@ Dans le cas où un désaccord portant sur l'application des règles édictées d
 l'intérêt de la santé publique oppose un organe de gestion, d'administration, de
 direction ou de surveillance au pharmacien responsable, celui-ci doit en
 informer, selon le cas, le directeur général de l'Agence du médicament ou le
-pharmacien inspecteur régional de la santé.
+pharmacien inspecteur régional de la santé ou, s'agissant des pharmaciens
+chimistes des armées, l'inspecteur technique des services pharmaceutiques et
+chimiques des armées, à charge pour celui-ci, si nécessaire, de saisir le
+directeur général de l'Agence du médicament.

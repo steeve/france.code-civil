@@ -15,4 +15,5 @@ peut avoir effet que pour un an au plus.
 
 Les dispositions de l'article R. 5114-5 sont applicables à la situation prévue
 au présent article dans toute la mesure où elles sont de nature à lui être
-appliquées.
+appliquées. Les dispositions du présent alinéa ne s'appliquent pas aux
+pharmaciens chimistes des armées.

@@ -4,5 +4,5 @@ Le pharmacien fabricant, grossiste-répartiteur ou dépositaire doit exercer
 personnellement sa profession.
 
 Tout acte pharmaceutique doit être effectué sous la surveillance effective d'un
-pharmacien qui a rempli les formalités prévues à l'article L. 514 du code de la
-santé publique.
+pharmacien qui a rempli sauf s'il s'agit d'un pharmacien chimiste des armées les
+formalités prévues à l'article L. 514 du code de la santé publique.

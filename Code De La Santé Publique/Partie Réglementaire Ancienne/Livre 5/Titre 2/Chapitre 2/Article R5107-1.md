@@ -7,6 +7,11 @@ qualitative des médicaments, l'analyse quantitative des principes actifs ainsi
 que les essais et vérifications nécessaires pour assurer la qualité des
 spécialités pharmaceutiques.
 
+Pour la désignation du pharmacien responsable des établissements pharmaceutiques
+de la Pharmacie centrale des armées, l'exercice de ces activités au sein de la
+Pharmacie centrale des armées pendant la période précédant l'octroi des
+autorisations d'ouverture desdits établissements est pris en compte.
+
 La durée d'exercice ci-dessus prévue est ramenée à six mois pour les pharmaciens
 qui ont obtenu un titre ou diplôme concernant des études relatives aux
 techniques énumérées à l'alinéa précédent lorsque ce titre ou diplôme figure sur

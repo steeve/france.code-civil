@@ -1,8 +1,9 @@
 Article R5114-2
 ----
-Tout pharmacien fabricant, grossiste-répartiteur ou dépositaire doit, après son
-inscription à l'ordre, faire enregistrer son diplôme, conformément à l'article
-L. 514 du code de la santé publique.
+A l'exception des pharmaciens chimistes des armées, tout pharmacien fabricant,
+grossiste-répartiteur ou dépositaire doit, après son inscription à l'ordre,
+faire enregistrer son diplôme, conformément à l'article L. 514 du code de la
+santé publique.
 
 Le diplôme ne peut être enregistré que pour un seul établissement.
 

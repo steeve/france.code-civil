@@ -8,3 +8,5 @@ directeur général de l'Agence du médicament ou au pharmacien inspecteur régi
 de la santé selon que l'établissement relève du 1° ou du 2° de l'article R.
 5108, et au conseil central de l'ordre et il est pourvu par ledit employeur au
 remplacement de l'intéressé.
+
+Le présent article ne s'applique pas aux pharmaciens chimistes des armées.
