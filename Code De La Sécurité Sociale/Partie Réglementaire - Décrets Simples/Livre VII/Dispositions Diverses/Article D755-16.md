@@ -1,11 +1,8 @@
 Article D755-16
 ----
-Les ressources mentionnées à l'article D. 755-15 s'entendent du revenu net
-imposable de l'année civile antérieure à l'exercice au cours duquel le droit à
-l'allocation est ouvert ou maintenu, abstraction faite des déductions opérées en
-vertu de l'article 156-1 du code général des impôts au titre des reports des
-déficits constatés au cours d'une année antérieure à celle qui est prise en
-considération.
+Les ressources mentionnées à l'article D. 755-15 sont déterminées dans les
+conditions prévues aux premier, deuxième et troisième alinéas de l'article D.
+542-10.
 
 Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire de
 3.686 F [*montant*] :

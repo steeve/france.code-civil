@@ -23,9 +23,9 @@ du local ;
 à charge qui viennent y habiter périodiquement ou qui sont momentanément absents
 pour des raisons tenant à leur état de santé ou à leur éducation ;
 
-4°) une déclaration sur l'honneur indiquant le total des ressources nettes
-imposables perçues au cours de l'année précédente par toutes les personnes
-vivant habituellement au foyer ;
+4°) une déclaration sur l'honneur indiquant le total des ressources imposables
+perçues au cours de l'année précédente par toutes les personnes vivant
+habituellement au foyer ;
 
 5°) Toutes justifications des changements survenus au cours de la période de
 paiement dans la situation de ressources de la famille, dans les cas prévus aux
