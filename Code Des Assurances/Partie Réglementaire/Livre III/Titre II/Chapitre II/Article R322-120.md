@@ -30,3 +30,10 @@ moins 300 000 adhérents.
 
 Les dispositions des articles R. 322-83 et R. 322-84 ne sont pas applicables aux
 organismes mentionnés ci-dessus.
+
+Pour l'application du présent 4°, est assimilée à un organisme à compétence
+nationale toute entreprise d'assurance ou de réassurance mentionnée aux articles
+L. 310-1 et L. 310-1-1, constituée sous forme de société anonyme et dont la
+majorité des droits de vote est détenue conjointement, directement ou
+indirectement, par au moins sept sociétés ou caisses mutuelles de réassurances
+agricoles comptant au total au moins 300 000 adhérents.
