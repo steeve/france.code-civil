@@ -2,9 +2,9 @@ Article 220
 ----
 1 a Sur justifications, la retenue à la source ou la taxe forfaitaire [*de 15
 %*] prévue à l'article 239 bis B à laquelle ont donné ouverture les revenus des
-capitaux mobiliers, visés aux articles 108 à 119 et 1678 bis, perçus par la
-société ou la personne morale est imputée sur le montant de l'impôt à sa charge
-en vertu du présent chapitre.
+capitaux mobiliers, visés aux articles 108 à 119, 238 septies B et 1678 bis,
+perçus par la société ou la personne morale est imputée sur le montant de
+l'impôt à sa charge en vertu du présent chapitre.
 
 Toutefois, la déduction à opérer de ce chef ne peut excéder la fraction de ce
 dernier impôt correspondant au montant desdits revenus.

@@ -9,8 +9,9 @@ destinées à l'exportation;
 
 2° Les preneurs des services portant sur des marchandises importées doivent
 délivrer aux prestataires des attestations certifiant que ces marchandises sont
-placées sous le régime de l'admission temporaire, de l'entrepôt, des magasins et
-aires de dédouanement, du perfectionnement actif ou du transit, selon le cas.
+placées sous un des régimes suspensifs prévus aux 13° et 13° bis du II de
+l'article 262 du code général des impôts et aux 1° et 1° bis du II de l'article
+291 du même code.
 
 II Les prestataires de services sont tenus, pour leur part :
 
