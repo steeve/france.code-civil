@@ -13,9 +13,3 @@ d'accès à l'emploi conclus hors des secteurs d'activité définis par les arti
 
 Il est également informé du montant des dépenses effectuées au titre de
 l'article L. 322-4-19 du présent code.
-
-Le ministre chargé de la lutte contre l'exclusion et le ministre chargé du
-budget présentent, avant le 1er septembre, au comité directeur le montant
-prévisionnel pour l'année suivante de la participation financière de l'Etat
-visée à l'article 2 du décret du 20 janvier 1989 précité et sa répartition entre
-les départements d'outre-mer.

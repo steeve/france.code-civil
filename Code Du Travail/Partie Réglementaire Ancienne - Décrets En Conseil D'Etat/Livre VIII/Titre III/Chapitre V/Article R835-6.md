@@ -11,8 +11,8 @@ Saint-Pierre-et-Miquelon ;
 formation professionnelle dans les départements d'outre-mer, à Mayotte et dans
 la collectivité territoriale de Saint-Pierre-et-Miquelon ;
 
-3° Par le ministre chargé de l'outre-mer, de l'activité des agences d'insertion
-;
+3° Par le président de leur conseil d'administration, de l'activité des agences
+d'insertion ;
 
 4° Par le ministre chargé de l'outre-mer, de l'activité de l'agence mahoraise
 pour le développement d'activités d'utilité sociale.

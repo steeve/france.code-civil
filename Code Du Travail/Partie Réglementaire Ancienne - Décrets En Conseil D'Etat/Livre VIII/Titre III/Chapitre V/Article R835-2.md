@@ -21,12 +21,7 @@ consolidé ;
 interprofessionnelle pour l'emploi dans l'industrie et le commerce (UNEDIC) au
 titre de l'assurance chômage des contrats d'insertion par l'activité ;
 
-7° L'attribution aux agences d'insertion de la contribution de l'Etat visée à
-l'article 2 du décret du 20 janvier 1989 modifié portant application aux
-départements d'outre-mer de la loi n° 88-1088 du 1er décembre 1988 modifiée
-relative au revenu minimum d'insertion, après déduction de la part de cette
-contribution affectée au logement social des bénéficiaires du revenu minimum
-d'insertion ;
+7° (Paragraphe abrogé)
 
 8° Le financement des dépenses prévues par l'article L. 322-4-19 du présent code
 ;

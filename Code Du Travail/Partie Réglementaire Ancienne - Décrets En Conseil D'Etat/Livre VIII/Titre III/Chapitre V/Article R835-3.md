@@ -6,7 +6,7 @@ Le ministre chargé de l'outre-mer ou son représentant, président ;
 
 Les ministres chargés de l'économie et des finances, du travail, de l'emploi et
 de la formation professionnelle, de la sécurité sociale, de la lutte contre
-l'exclusion, du budget et du logement ou leurs représentants ;
+l'exclusion, et du budget ou leurs représentants ;
 
 Six députés désignés par le président de l'Assemblée nationale et représentant
 chacune des six collectivités concernées ;
