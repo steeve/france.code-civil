@@ -9,5 +9,6 @@ usent de la faculté prévue par les lois spéciales de déposer leurs requêtes
 préfecture ou à la sous-préfecture.
 
 Lorsque la demande est présentée devant les tribunaux administratifs de
-Mamoudzou, de Papeete et de Nouvelle-Calédonie, les délais de recours sont
-augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
+Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, les délais de
+recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le
+territoire.

@@ -5,5 +5,5 @@ code de procédure civile s'ajoutent aux délais normalement impartis.
 
 Toutefois, ne bénéficient pas de ce délai supplémentaire ceux qui, en matière
 électorale, déposent leur requête à la préfecture ou à la sous-préfecture ou, en
-Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, auprès des
-services du délégué du gouvernement.
+Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à
+Mayotte, auprès des services du représentant de l'Etat.

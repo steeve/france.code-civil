@@ -17,3 +17,6 @@ l'expédition est adressée dans tous les cas au haut-commissaire.
 
 Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au
 représentant du gouvernement.
+
+Devant le tribunal administratif de Mata-Utu, l'expédition est adressée à
+l'administrateur supérieur.
