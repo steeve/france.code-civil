@@ -29,8 +29,8 @@ h) Le responsable de l'équipe opérationnelle d'hygiène ;
 
 i) Le médecin responsable de l'information médicale ;
 
-j) Un membre de l'équipe opérationnelle d'hygiène désigné par celle-ci en son
-sein ;
+j) Un membre du personnel infirmier appartenant à l'équipe opérationnelle
+d'hygiène hospitalière ;
 
 k) Un infirmier exerçant une activité de soins ; dans les établissements publics
 de santé, cet infirmier est désigné en son sein par la commission du service de
