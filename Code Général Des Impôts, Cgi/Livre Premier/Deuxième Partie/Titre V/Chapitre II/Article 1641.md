@@ -18,8 +18,6 @@ taxe de balayage ;
 
 taxe pour frais de chambres d'agriculture ;
 
-taxe perçue au profit du budget annexe des prestations sociales agricoles ;
-
 taxe pour frais de chambres de commerce et d'industrie ;
 
 taxe pour frais de chambres de métiers.

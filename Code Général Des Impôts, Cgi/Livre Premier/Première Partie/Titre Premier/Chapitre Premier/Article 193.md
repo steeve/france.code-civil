@@ -12,10 +12,9 @@ L'impôt brut est égal au produit de la cotisation ainsi obtenue par le nombre 
 parts.
 
 L'impôt dû par le contribuable est calculé à partir de l'impôt brut diminué,
-s'il y a lieu, des réductions d'impôt prévues par les articles 199 quater B, 199
-sexies, et 199 septies, sauf application, le cas échéant, de l'imputation prévue
-aux articles 182 B, 199 ter et 199 ter A et sous réserve de l'utilisation
-éventuelle de l'avoir fiscal visé au I de l'article 158 bis.
+s'il y a lieu, des réductions d'impôt prévues par les articles 199 quater B à
+200, et, le cas échéant, des retenues à la source et crédits d'impôt mentionnés
+aux articles 182 A, 182 B, 199 ter, 199 ter A et 200 quater à 200 septies.
 
 Pour l'application du premier alinéa, le revenu imposable ainsi que les
 différents éléments ayant concouru à sa détermination, sont arrondis à l'euro le

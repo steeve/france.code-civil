@@ -25,8 +25,8 @@ les communes qui ont décidé de la création de la communauté de communes, à
 l'exclusion de toute autre, étaient antérieurement associées dans un même
 syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
 
-Pour cette première année, elles ne peuvent voter que le produit de cette taxe,
-à l'exclusion de toute modification de ses règles d'établissement.
+Pour cette première année, elles ne peuvent voter que le taux de cette taxe, à
+l'exclusion de toute modification de ses règles d'établissement.
 
 II. Le conseil d'une communauté de communes ayant créé, créant ou gérant une
 zone d'activités économiques qui se situe sur le territoire d'une ou de

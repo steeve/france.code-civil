@@ -27,11 +27,11 @@ indirectement, de manière continue au cours de l'exercice ne sont pas
 assujetties à la présente contribution sur les plus-values imposées en
 application du IV de l'article 219.
 
-IV. Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance
-visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionnée
-à l'article 223 septies ne sont pas imputables sur la contribution.
+IV. Les crédits d'impôt de toute nature ainsi que la créance visée à l'article
+220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223
+septies ne sont pas imputables sur la contribution.
 
 V. Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les
 mêmes garanties et sanctions.
 
-VI. Les modalités d'application du présent article sont fixées par décret (1).
+VI. Les modalités d'application du présent article sont fixées par décret.
