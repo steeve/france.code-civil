@@ -22,6 +22,11 @@ demeure impayé des travaux exécutés, celui-ci peut surseoir à l'exécution d
 contrat après mise en demeure restée sans effet à l'issue d'un délai de quinze
 jours.
 
+Les dispositions de l'alinéa précédent ne s'appliquent pas lorsque le maître de
+l'ouvrage conclut un marché de travaux pour son propre compte et pour la
+satisfaction de besoins ne ressortissant pas à une activité professionnelle en
+rapport avec ce marché.
+
 Les dispositions du présent article ne s'appliquent pas aux marchés conclus par
 un organisme visé à l'article L. 411-2 du code de la construction et de
 l'habitation, ou par une société d'économie mixte, pour des logements à usage
