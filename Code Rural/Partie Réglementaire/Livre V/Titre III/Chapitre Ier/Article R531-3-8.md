@@ -3,7 +3,7 @@ Article R531-3-8
 La commission nationale d'agrément des sociétés d'intérêt collectif agricole,
 prévue au troisième alinéa de l'article L. 531-2 et appelée à formuler tout avis
 sur les dossiers qui lui sont présentés, est constituée auprès du Conseil
-supérieur de la coopération agricole.
+supérieur d'orientation de la coopération agricole.
 
 Elle est ainsi composée :
 
@@ -21,7 +21,7 @@ la Confédération française de la coopération agricole ;
 l'Association nationale des industries agro-alimentaires ;
 
 - un représentant des organisations syndicales agricoles désigné sur proposition
-du Conseil supérieur de la coopération agricole.
+du Conseil supérieur d'orientation de la coopération agricole.
 
 Les membres représentant l'administration ou désignés ès qualités peuvent se
 faire représenter. Des suppléants sont désignés pour les autres membres.
