@@ -1,9 +1,8 @@
 Article L442-8
 ----
 Les frais de déplacement de la victime ou de ses ayants droit, qui doivent
-quitter la commune où ils résident pour répondre à la convocation du
-médecin-conseil ou se soumettre à une expertise, à un contrôle ou à un
-traitement en vertu du présent livre, sont à la charge [*financière*] de la
+répondre à la convocation du médecin-conseil ou se soumettre à une expertise, à
+un contrôle ou à un traitement en vertu du présent livre, sont à la charge de la
 caisse primaire d'assurance maladie. Ils sont payés selon le tarif prévu par
 l'article L. 322-5.
 

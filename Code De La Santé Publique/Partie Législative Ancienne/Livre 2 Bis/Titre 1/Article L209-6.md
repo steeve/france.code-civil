@@ -5,8 +5,8 @@ Les mineurs, les majeurs sous tutelle, les personnes séjournant dans un
 peuvent être sollicités pour une recherche biomédicale que si l'on peut en
 attendre un bénéfice direct pour leur santé.
 
-Toutefois, les recherches sans finalité thérapeutique directe sont admises si
-les trois conditions suivantes sont remplies :
+Toutefois, les recherches sans bénéfice individuel direct sont admises si les
+trois conditions suivantes sont remplies :
 
 - ne présenter aucun risque sérieux prévisible pour leur santé ;
 

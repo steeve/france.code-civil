@@ -7,8 +7,8 @@ fait connaître :
 
 - l'objectif de la recherche, sa méthodologie et sa durée ;
 
-- les contraintes et les risques prévisibles, y compris en cas d'arrêt de la
-recherche avant son terme ;
+- les bénéfices attendus, les contraintes et les risques prévisibles, y compris
+en cas d'arrêt de la recherche avant son terme ;
 
 - l'avis du comité mentionné à l'article L. 209-12 du présent code.
 

@@ -6,9 +6,10 @@ compétente après avis des organismes d'assurance maladie pour chaque
 sociale. Dans les autres établissements privés, des conventions sont conclues
 avec les organismes d'assurance maladie. Un décret en Conseil d'Etat fixe les
 conditions dans lesquelles les conventions ainsi conclues sont homologuées par
-l'autorité administrative. La section permanente du conseil supérieur de l'aide
-sociale est compétente pour statuer en matière contentieuse sur les recours
-contre les décisions de l'autorité administrative compétente.
+l'autorité administrative. Les commissions interrégionales de la tarification
+sanitaire et sociale sont compétentes en premier ressort pour statuer en matière
+contentieuse sur les recours contre les décisions de l'autorité administrative
+compétente.
 
 Les caisses du régime de l'assurance maladie des travailleurs salariés sont
 habilitées à assurer le versement de la totalité des sommes dues aux

@@ -28,6 +28,9 @@ son conseil d'administration ;
 et des caisses primaires d'assurance maladie, et sur la gestion de leur
 patrimoine immobilier.
 
+7°) de mettre en oeuvre les actions conventionnelles prévues par le 3° de
+l'article L. 162-6.
+
 La caisse nationale exerce, au titre des attributions énoncées ci-dessus, un
 pouvoir de contrôle sur les caisses régionales et primaires d'assurance maladie.
 
