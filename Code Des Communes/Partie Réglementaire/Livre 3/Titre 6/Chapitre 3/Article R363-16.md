@@ -1,12 +1,13 @@
 Article R363-16
 ----
-Avant son inhumation ou sa crémation [*incinération*], le corps d'une personne
+Avant son inhumation ou sa crémation[*incinération*], le corps d'une personne
 décédée est mis en bière.
 
 La housse imperméable éventuellement utilisée pour envelopper le corps avant sa
-mise en bière est fabriqué dans un matériau biodégradable. Elle est d'un modéle
-agrée par le ministre chargé de la santé aprés avis du Conseil supérieur
-d'hygiène publique de France.
+mise en bière est fabriquée dans un matériau biodégradable. Elle doit répondre a
+des caractéristiques de composition, de résistance et d'étanchéité fixées par
+arrêté du ministre chargé de la santé aprés avis du Conseil national d'hygiène
+publique de France et du Conseil national des opérations funéraires.
 
 Si la personne décédée était porteuse d'une prothèse renfermant des
 radio-éléments artificiels, un médecin atteste de la récupération de l'appareil
