@@ -1,8 +1,8 @@
 Article R211-7
 ----
 L'assurance doit être souscrite pour une somme d'au moins cinq millions de
-francs par véhicule et par sinistre corporel, et d'au moins trois millions de
-francs par véhicule et par sinistre matériel, sans préjudice des dispositions de
+francs par victime de sinistre corporel, et d'au moins trois millions de francs
+par véhicule et par sinistre matériel, sans préjudice des dispositions de
 l'article L. 211-7.
 
 Par dérogation aux dispositions de l'alinéa précédent, l'assurance doit être
