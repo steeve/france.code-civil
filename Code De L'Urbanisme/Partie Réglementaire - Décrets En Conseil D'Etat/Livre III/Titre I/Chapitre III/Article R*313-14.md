@@ -10,6 +10,10 @@ décide de surseoir à statuer sur la demande ou délivre, le cas échéant,
 l'autorisation en énonçant, s'il y a lieu, les prescriptions auxquelles le
 pétitionnaire doit se conformer.
 
-En l'absence [*silence*] de notification de la décision de l'architecte des
-bâtiments de France dans le délai de deux mois, l'autorisation [*tacite*] est
-réputée accordée.
+En l'absence de notification de la décision de l'architecte des bâtiments de
+France dans le délai de deux mois, l'autorisation est réputée accordée.
+
+En cas de refus de délivrance de l'autorisation spéciale de travaux par
+l'architecte des Bâtiments de France, le pétitionnaire peut saisir le préfet de
+région ou, dans la collectivité territoriale de Corse, le préfet de Corse,
+suivant les modalités définies à l'article R. 313-17-1.

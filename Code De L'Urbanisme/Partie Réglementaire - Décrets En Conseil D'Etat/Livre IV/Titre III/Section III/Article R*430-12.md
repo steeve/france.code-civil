@@ -10,4 +10,7 @@ l'immeuble est, selon le cas :
 
 3° Protégé au titre des articles 4 ou 9 de la loi du 2 mai 1930 ;
 
-4° Compris dans un secteur sauvegardé.
+4° Compris dans un secteur sauvegardé ;
+
+5° Compris dans une zone de protection du patrimoine architectural, urbain ou
+paysager.

@@ -3,11 +3,11 @@ Article R313-17-2
 Lorsque le maire ou l'autorité compétente pour délivrer le permis de construire
 ou de démolir saisit le préfet de région, en application du quatrième alinéa de
 l'article L. 313-2, de l'avis émis par l'architecte des Bâtiments de France
-conformément, selon le cas, à l'article R. 313-3 ou R. 313-15, le délai au terme
-duquel le permis est réputé accordé faute de notification à l'autorité
+conformément, selon le cas, à l'article R. 313-13 ou R. 313-15, le délai au
+terme duquel le permis est réputé accordé faute de notification à l'autorité
 compétente d'une décision expresse est suspendu jusqu'à la notification à
 l'autorité compétente pour délivrer le permis de l'avis du préfet de région ou
-l'expiration du délai de quatre mois mentionné au dernier alinéa de l'article R.
+l'expiration du délai de trois mois mentionné au septième alinéa de l'article R.
 313-17-1.
 
 Dans le cas prévu au quatrième alinéa de l'article L. 313-2, le préfet de région
@@ -30,6 +30,3 @@ pétitionnaire mentionne que, conformément au troisième alinéa du présent
 article, le délai au terme duquel le permis est réputé accordé faute de
 notification par l'autorité compétente d'une décision expresse est suspendu
 jusqu'à ce que le ministre se soit prononcé.
-
-II. - A l'article R. 313-19-3 du code de l'urbanisme, la référence à l'article
-R. 313-17 est remplacée par la référence à l'article R. 313-17-2.
