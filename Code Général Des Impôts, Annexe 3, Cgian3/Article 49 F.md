@@ -23,8 +23,8 @@ Les produits et revenus visés aux troisième alinéa doivent également être
 mentionnés séparément, lorsque la contribution sociale généralisée prévue au II
 de l'article L. 136-7 du code de la sécurité sociale, le prélèvement mentionné à
 l'article L. 245-15 du même code et la contribution additionnelle prévue au 2°
-de l'article 11 de la loi n° 2004-626 du 30 juin 2004 leur ont déjà été
-appliqués.
+de l'article L. 14-10-4 du code de l'action sociale et des familles leur ont
+déjà été appliqués.
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par
 application d'un prélèvement, la déclaration comporte l'indication de celui-ci

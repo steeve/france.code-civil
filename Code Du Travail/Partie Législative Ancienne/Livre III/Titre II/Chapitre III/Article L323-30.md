@@ -1,17 +1,12 @@
 Article L323-30
 ----
-Les personnes handicapées pour lesquelles le placement dans un milieu normal de
-travail s'avère impossible peuvent être admises soit dans un atelier protégé si
-leur capacité de travail est au moins égale à un pourcentage de la capacité
-normale fixé par décret, soit dans un centre d'aide par le travail prévu à
-l'article L. 344-2 du code de l'action sociale et des familles.
+Les personnes handicapées pour lesquelles une orientation sur le marché du
+travail par la commission mentionnée à l'article L. 146-9 du code de l'action
+sociale et des familles s'avère impossible peuvent être admises dans un
+établissement ou service mentionné au a du 5° du I de l'article L. 312-1 du même
+code.
 
-En outre, des centres de distribution de travail à domicile assimilés aux
-ateliers protégés peuvent procurer aux travailleurs handicapés des travaux
-manuels ou intellectuels à effectuer à domicile.
-
-La commission technique d'orientation et de reclassement professionnel prévue à
-l'article L. 323-11 se prononce par une décision motivée, en tenant compte de la
-capacité de travail et des possibilités réelles d'intégration, sur l'embauche ou
-l'admission dans les ateliers protégés ou les centres d'aide par le travail ;
-elle peut prendre une décision provisoire valable pour une période d'essai.
+La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles se prononce par une décision motivée, en tenant compte des possibilités
+réelles d'insertion, sur une orientation vers le marché du travail ou sur
+l'admission en centre d'aide par le travail.
