@@ -2,8 +2,8 @@ Article D2411-1
 ----
 Le montant minimal annuel moyen de revenus ou produits des biens de la section
 en dessous duquel la commission syndicale n'est pas constituée en application de
-l'article L. 2411-5 est fixé à 2164 F de revenu cadastral. Le montant ainsi fixé
-est actualisé dans le mois qui suit le renouvellement général des conseils
+l'article L. 2411-5 est fixé à 332 euros de revenu cadastral. Le montant ainsi
+fixé est actualisé dans le mois qui suit le renouvellement général des conseils
 municipaux et selon les mêmes proportions que celles résultant de l'évolution
 moyenne des revenus cadastraux au plan national. L'actualisation est constatée
 par arrêté conjoint du ministre chargé de l'économie et des finances et du
