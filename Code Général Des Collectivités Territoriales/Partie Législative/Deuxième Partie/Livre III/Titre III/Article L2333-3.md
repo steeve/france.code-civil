@@ -1,14 +1,27 @@
 Article L2333-3
 ----
-- La taxe est due par les usagers pour les quantités d'électricité consommée sur
-le territoire de la commune, à l'exception de celles qui concernent l'éclairage
-de la voirie nationale, départementale et communale et de ses dépendances.
+La taxe est due par les consommateurs finaux pour les quantités d'électricité
+livrées sur le territoire de la commune, à l'exception de celles qui concernent
+l'éclairage de la voirie nationale, départementale, intercommunale et communale
+et de ses dépendances.
 
 Elle est assise :
 
-1° Sur 80 p. 100 du montant total hors taxes de la facture d'électricité lorsque
-la fourniture est faite par le distributeur sous une puissance souscrite
-inférieure ou égale à 36 kVA ;
+1° Sur 80 % du montant total hors taxes des factures acquittées par un
+consommateur final, qu'elles portent sur la fourniture, l'acheminement ou sur
+ces deux prestations, lorsque l'électricité est livrée sous une puissance
+souscrite inférieure ou égale à 36 kVA ;
 
-2° Et sur 30 p. 100 dudit montant lorsque la fourniture est faite sous une
-puissance souscrite supérieure à 36 kVA et inférieure ou égale à 250 kVA.
+2° Et sur 30 % de ce montant lorsque l'électricité est livrée sous une puissance
+souscrite supérieure à 36 kVA et inférieure ou égale à 250 kVA.
+
+La puissance souscrite prise en compte est celle qui figure dans le contrat de
+fourniture d'un consommateur non éligible ou dans le contrat d'accès au réseau
+conclu par un consommateur éligible, ou pour son compte, au sens des
+dispositions de l'article 22 de la loi n° 2000-108 du 10 février 2000 relative à
+la modernisation et au développement du service public de l'électricité.
+
+Lorsque l'électricité est livrée sur plusieurs points de livraison situés sur
+plusieurs communes et fait l'objet d'une facturation globale par un fournisseur,
+la facture est répartie, pour le calcul de la taxe, au prorata de la
+consommation de chaque point de livraison.

@@ -33,20 +33,21 @@ chacune de ces taxes procurerait à la commune, si l'on appliquait les taux de
 l'année précédente aux bases de l'année d'imposition.
 
 IV bis. - Pour l'application du IV, les recettes afférentes à la taxe
-professionnelle sont majorées du montant, calculé à partir du seul taux
-communal, de la compensation prévue pour l'année d'imposition au D de l'article
-44 modifié de la loi de finances pour 1999 précitée en contrepartie de la
-suppression de la part des salaires et rémunérations mentionnée au 1 du I du A
-de l'article 44 précité dans la base d'imposition à la taxe professionnelle et
-diminuées du prélèvement effectué en application du 1 du III de l'article 29 de
-la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002), ainsi que de la
-compensation prévue pour l'année d'imposition au B de l'article 26 de la loi de
-finances pour 2003 précitée en contrepartie de la réduction de la fraction
-imposable des recettes visée au 2° de l'article 1467.
+professionnelle sont majorées de la part, calculée à partir du seul taux
+communal, du montant perçu en 2003, en application du D de l'article 44 de la
+loi de finances pour 1999 précitée et du 1 du III de l'article 29 de la loi de
+finances pour 2003 précitée, indexé chaque année comme la dotation forfaitaire
+prévue par l'article L. 2334-7 du code général des collectivités territoriales,
+ainsi que du montant de la compensation prévue pour l'année d'imposition au B de
+l'article 26 de la loi de finances pour 2003 précitée en contrepartie de la
+réduction de la fraction imposable des recettes visée au 2° de l'article 1467.
 
-Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part
-reversée par la commune au syndicat du montant des compensations mentionnées au
-premier alinéa et majoré du prélèvement effectué en application du 1 du III de
-l'article 29 de la loi de finances pour 2003 précitée.
+Pour l'application du IV, le produit fiscal à recouvrer est minoré de la part,
+reversée par la commune au syndicat, du montant perçu en 2003, en application du
+D de l'article 44 de la loi de finances pour 1999 précitée et du 1 du III de
+l'article 29 de la loi de finances pour 2003 précitée, indexé chaque année comme
+la dotation forfaitaire prévue par l'article L. 2334-7 du code général des
+collectivités territoriales ainsi que du montant de la compensation mentionnée
+au premier alinéa.
 
 V. Les dispositions du présent article entreront en vigueur à compter de 1981.

@@ -1,9 +1,8 @@
 Article 1498
 ----
-La valeur locative de tous les biens autres que les locaux d'habitation ou à
-usage professionnel visés au I de l'article 1496 et que les établissements
-industriels visés à l'article 1499 est déterminée au moyen de l'une des méthodes
-indiquées ci-après :
+La valeur locative de tous les biens autres que les locaux visés au I de
+l'article 1496 et que les établissements industriels visés à l'article 1499 est
+déterminée au moyen de l'une des méthodes indiquées ci-après :
 
 1° Pour les biens donnés en location à des conditions de prix normales, la
 valeur locative est celle qui ressort de cette location ;
@@ -19,8 +18,8 @@ particulier ou exceptionnel ;
 
 b. La valeur locative des termes de comparaison est arrêtée :
 
-Soit en partant du bail en cours à la date de référence de la révision (1)
-lorsque l'immeuble type était loué normalement à cette date,
+Soit en partant du bail en cours à la date de référence de la révision lorsque
+l'immeuble type était loué normalement à cette date,
 
 Soit, dans le cas contraire, par comparaison avec des immeubles similaires
 situés dans la commune ou dans une localité présentant, du point de vue

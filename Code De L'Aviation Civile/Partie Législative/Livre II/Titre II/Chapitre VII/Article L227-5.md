@@ -1,20 +1,21 @@
 Article L227-5
 ----
-Pour les aérodromes visés au 3 de l'article 266 septies du code des douanes,
-l'Autorité de contrôle des nuisances sonores aéroportuaires :
+Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code
+général des impôts, l'Autorité de contrôle des nuisances sonores aéroportuaires
+:
 
 1° Définit :
 
-- les indicateurs de mesure du bruit et de la gêne sonore ;
+-les indicateurs de mesure du bruit et de la gêne sonore ;
 
-- les prescriptions techniques applicables, en conformité avec les normes
+-les prescriptions techniques applicables, en conformité avec les normes
 internationales, aux dispositifs de mesure de bruit et de suivi des trajectoires
 ;
 
-- les prescriptions concernant le nombre et l'emplacement des stations de mesure
+-les prescriptions concernant le nombre et l'emplacement des stations de mesure
 de bruit pour chacun de ces aérodromes ;
 
-- les prescriptions d'exploitation du réseau de stations.
+-les prescriptions d'exploitation du réseau de stations.
 
 Ces indicateurs et prescriptions sont, après homologation par arrêté des
 ministres chargés de l'environnement et de l'aviation civile, publiés au Journal
@@ -45,10 +46,9 @@ transporteurs aériens et des services de l'Etat concernés ;
 informations relatives aux plans d'exposition au bruit et aux plans de gêne
 sonore et émet des recommandations pour améliorer l'accès à ces informations ;
 
-6° Est consultée sur le projet de plan de gêne sonore visé au II de l'article 19
-de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit et
-sur le projet de plan d'exposition au bruit et recommande leur révision quand
-elle l'estime nécessaire ;
+6° Est consultée sur le projet de plan de gêne sonore visé à l'article L. 571-16
+du code de l'environnement et sur le projet de plan d'exposition au bruit et
+recommande leur révision quand elle l'estime nécessaire ;
 
 7° Est consultée sur les projets de textes réglementaires fixant pour les
 aérodromes concernés les mesures visant à assurer la protection de leur
@@ -57,11 +57,10 @@ dépasser, et sur les projets d'élaboration ou de modification des procédures 
 départ, d'attente et d'approche aux instruments des mêmes aérodromes ;
 
 8° Contrôle, à son initiative ou sur saisine de la commission consultative de
-l'environnement mentionnée à l'article 2 de la loi n° 85-696 du 11 juillet 1985
-précitée, le respect des engagements pris par les différentes parties
-intéressées à l'exploitation de l'aérodrome en vue d'assurer la maîtrise des
-nuisances sonores liées à cette exploitation. Elle rend publics les résultats de
-ce contrôle ;
+l'environnement mentionnée à l'article L. 571-13 du code de l'environnement, le
+respect des engagements pris par les différentes parties intéressées à
+l'exploitation de l'aérodrome en vue d'assurer la maîtrise des nuisances sonores
+liées à cette exploitation. Elle rend publics les résultats de ce contrôle ;
 
 9° Peut être saisie, en cas de désaccord sur l'exécution des engagements visés
 au 8°, d'une demande de médiation par l'une ou l'autre des parties, par la

@@ -50,7 +50,12 @@ Les entreprises concernées sont tenues de souscrire avant le 1er mai 1993 des
 déclarations rectificatives pour les impositions complémentaires à établir au
 titre de l'année 1993 ;
 
-3° bis La valeur locative des matériels agricoles utilisés exclusivement à des
+3° bis Les biens visés aux 2° et 3°, utilisés par une personne qui n'en est ni
+propriétaire, ni locataire, ni sous-locataire, sont imposés au nom de leur
+sous-locataire ou, à défaut, de leur locataire ou, à défaut, de leur
+propriétaire dans le cas où ceux-ci sont passibles de taxe professionnelle ;
+
+3° ter La valeur locative des matériels agricoles utilisés exclusivement à des
 travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
 fixée par arrêté du ministre chargé du budget ;

@@ -25,3 +25,19 @@ déclaré.
 
 3. Les infractions aux dispositions de l'article 1649 A bis sont passibles d'une
 amende de 750 euros par avance non déclarée.
+
+4. L'organisme ou l'entité ou, à défaut de personnalité morale, son gérant ou
+représentant au regard des tiers, qui mentionne sur les documents prévus au
+huitième alinéa du 1 de l'article 242 ter des informations qui conduisent à tort
+à ne pas considérer les revenus réalisés lors des cessions, remboursements ou
+rachats de leurs parts ou actions comme des intérêts au sens du septième alinéa
+du 1 de ce même article est passible d'une amende fiscale annuelle de 25 000
+euros.
+
+5. Par dérogation au 1, l'absence d'individualisation des sommes prévues au
+sixième alinéa du 1 de l'article 242 ter ainsi que l'insuffisance de déclaration
+des sommes en cause sont sanctionnées par une amende fiscale forfaitaire de 150
+Euros par information omise ou erronée, dans la limite de 500 Euros par
+déclaration. Cette amende n'est pas applicable pour les infractions commises sur
+la base des informations fournies à l'établissement payeur dans les conditions
+prévues au huitième alinéa du 1 de l'article 242 ter.

@@ -32,8 +32,8 @@ populations existantes ;
 4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de
 laquelle les constructions sont autorisées mais doivent faire l'objet des
 mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation
-d'une zone D est obligatoire pour les aérodromes visés au 3 de l'article 266
-septies du code des douanes ;
+d'une zone D est obligatoire pour les aérodromes mentionnés au I de l'article
+1609 quatervicies A du code général des impôts ;
 
 5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter
 des secteurs où, pour permettre le renouvellement urbain des quartiers ou

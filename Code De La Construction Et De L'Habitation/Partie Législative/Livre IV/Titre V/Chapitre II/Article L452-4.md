@@ -29,12 +29,15 @@ du dernier exercice clos.
 La cotisation est également réduite d'un montant proportionnel au nombre des
 logements à usage locatif et des logements-foyers ayant fait l'objet au cours de
 l'année écoulée d'une première mise en service par l'organisme et d'une
-convention en application du 3° ou du 5° de l'article L. 351-2. Dans le cas des
-logements-foyers, le nombre retenu est celui des unités ouvrant droit à
-redevance.
+convention en application du 3° ou du 5° de l'article L. 351-2 ou, dans les
+départements d'outre-mer, construits, acquis ou améliorés avec le concours
+financier de l'Etat. Dans le cas des logements-foyers, le nombre retenu est
+celui des unités ouvrant droit à redevance.
 
 Le taux de la cotisation, qui ne peut excéder 1,5 %, le montant de la réduction
 par allocataire et celui de la réduction par logement ou logement-foyer situé
 dans les quartiers mentionnés au cinquième alinéa ainsi que celui de la
-réduction par logement ou logement-foyer nouvellement conventionnés sont fixés
-par arrêtés des ministres chargés du logement, de l'économie et des finances.
+réduction par logement ou logement-foyer nouvellement conventionnés ou, dans les
+départements d'outre-mer, nouvellement construits, acquis ou améliorés avec le
+concours financier de l'Etat sont fixés par arrêtés des ministres chargés du
+logement, de l'économie et des finances.

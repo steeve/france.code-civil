@@ -2,7 +2,8 @@ Article 1455
 ----
 Sont exonérés de la taxe professionnelle :
 
-1° Les pêcheurs, lors même que la barque qu'ils montent leur appartient ;
+1° Les pêcheurs utilisant pour leur activité professionnelle un ou deux bateaux,
+même s'ils en sont propriétaires ;
 
 1° bis Les sociétés de pêche artisanale visées au I de l'article 21 de la loi n°
 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures

@@ -13,9 +13,9 @@ exercices ouverts à compter du 1er janvier 1987.
 1 bis Par dérogation aux dispositions du 1, la réintégration aux bénéfices
 imposables du montant net des plus-values à court terme réalisées à l'occasion
 d'opérations de reconversion par les entreprises qui ont obtenu l'agrément prévu
-aux articles 1465 et 1466 peut être étalée sur dix ans [*délai*], sans que la
-somme rattachée aux bénéfices de chaque année puisse être inférieure au dixième
-de ce montant.
+aux articles 1465 et 1466 peut être étalée sur dix ans, sans que la somme
+rattachée aux bénéfices de chaque année puisse être inférieure au dixième de ce
+montant.
 
 1 ter Par dérogation aux dispositions du 1, la plus-value nette à court terme
 afférente à des biens amortissables, réalisée à la suite de la perception
@@ -27,10 +27,10 @@ Chaque fraction est égale au rapport du montant de cette plus-value nette, dans
 la limite du montant global de la plus-value nette à court terme de l'exercice
 au cours duquel elle est réalisée, à la durée moyenne d'amortissement déjà
 pratiquée sur les biens détruits ou expropriés, pondérée en fonction du prix
-d'acquisition de ces biens et limitée à quinze ans (1).
+d'acquisition de ces biens et limitée à quinze ans.
 
-1 quater. Par dérogation aux dispositions du 1, la plus-value à court terme
-provenant de la cession, avant le 31 décembre 2003, d'un navire de pêche ou de
+1 quater Par dérogation aux dispositions du 1, la plus-value à court terme
+provenant de la cession, avant le 31 décembre 2010, d'un navire de pêche ou de
 parts de copropriété d'un tel navire et réalisée en cours d'exploitation par une
 entreprise de pêche maritime ou dont l'activité est de fréter des navires de
 pêche peut être répartie par parts égales, sur les sept exercices suivant
@@ -84,6 +84,3 @@ faire l'entreprise apporteuse.
 
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours
 d'un exercice est déduit des bénéfices de cet exercice.
-
-(1) Ces dispositions s'appliquent pour les sinistres ou expropriations
-intervenus au cours des exercices clos à compter du 31 décembre 1994.

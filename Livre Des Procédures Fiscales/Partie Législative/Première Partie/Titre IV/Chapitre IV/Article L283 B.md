@@ -4,6 +4,31 @@ Le recouvrement des créances mentionnées à l'article L. 283 A est confié, se
 la nature de la créance, aux comptables du Trésor, des impôts ou des douanes
 compétents en application du présent code.
 
+L'administration compétente donne suite à la demande d'assistance au
+recouvrement d'un Etat membre de la Communauté européenne dès lors que :
+
+1° Cette demande contient une déclaration certifiant que la créance ou le titre
+de recouvrement ne sont pas contestés dans l'Etat requérant et que les
+procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent
+aboutir au paiement intégral de la créance ;
+
+2° Le montant total de la créance ou des créances à la charge de la même
+personne est supérieur ou égal à 1 500 euros.
+
+Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat
+membre lorsque la demande initiale concerne des créances fondées sur un titre
+exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre
+en cause font l'objet d'une contestation, le délai de cinq ans court à compter
+de la date à laquelle il a été définitivement statué sur la créance ou le titre
+de l'Etat requérant.
+
+Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du
+dépôt d'une contestation de la créance, l'administration compétente suspend le
+recouvrement de la créance jusqu'à la notification de la décision de l'instance
+compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande
+expresse de poursuite de la procédure de recouvrement assortie d'une déclaration
+certifiant que son droit national lui permet de recouvrer la créance contestée.
+
 Les titres de recouvrement transmis par l'Etat membre requérant sont directement
 reconnus comme des titres exécutoires. Ils sont notifiés au débiteur.
 
@@ -14,12 +39,7 @@ ci-après :
 1° Elles ne bénéficient pas du privilège prévu aux articles 1920 à 1929 du code
 général des impôts ;
 
-2° Dès qu'il est informé par l'Etat membre requérant ou par le redevable du
-dépôt d'une contestation de la créance, le comptable public suspend le
-recouvrement de la créance jusqu'à la notification de la décision de l'instance
-étrangère compétente ;
-
-3° Les questions relatives à la prescription de l'action en recouvrement et au
+2° Les questions relatives à la prescription de l'action en recouvrement et au
 caractère interruptif ou suspensif des actes effectués par le comptable public
 pour le recouvrement des créances d'un autre Etat membre sont appréciées selon
 la législation de cet Etat.

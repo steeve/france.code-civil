@@ -20,8 +20,9 @@ acquis dans le cas où l'effectif d'une entreprise passe au-dessous de onze
 salariés ;
 
 2° Les entreprises du secteur du bâtiment et des travaux publics occupant
-cinquante salariés au plus. Le taux d'exonération est réduit à 50 % au-delà de
-ce seuil d'effectif ;
+cinquante salariés au plus à l'exclusion des entreprises et des établissements
+publics mentionnés à l'article L. 131-2 du code du travail. Le taux
+d'exonération est réduit à 50 % au-delà de ce seuil d'effectif ;
 
 3° A l'exclusion des entreprises et établissements publics mentionnés à
 l'article L. 131-2 du code du travail :
@@ -47,24 +48,26 @@ l'entreprise compte plusieurs établissements dans le même département.
 L'effectif est apprécié dans les conditions prévues par les articles L. 421-1 et
 L. 421-2 du code du travail.
 
-II. - L'exonération est égale à 100 % du montant des cotisations patronales dans
-la limite d'un montant de rémunération égal au salaire minimum de croissance
-majoré de 40 % applicable aux cotisations afférentes aux salaires et
-rémunérations des salariés employés par les entreprises, quel que soit leur
-effectif, des secteurs de l'industrie, de la restauration, à l'exception de la
-restauration de tourisme classée, de la presse, de la production audiovisuelle,
-des énergies renouvelables, des nouvelles technologies de l'information et de la
-communication et des centres d'appel, de la pêche, des cultures marines, de
-l'aquaculture, de l'agriculture, y compris les coopératives agricoles et
-sociétés d'intérêt collectif agricoles et leurs unions, les coopératives
-maritimes et leurs unions.
+II. - A l'exclusion des entreprises et établissements publics mentionnés à
+l'article L. 131-2 du code du travail, l'exonération est égale à 100 % du
+montant des cotisations patronales dans la limite d'un montant de rémunération
+égal au salaire minimum de croissance majoré de 40 % applicable aux cotisations
+afférentes aux salaires et rémunérations des salariés employés par les
+entreprises, quel que soit leur effectif, des secteurs de l'industrie, de la
+restauration, à l'exception de la restauration de tourisme classée, de la
+presse, de la production audiovisuelle, des énergies renouvelables, des
+nouvelles technologies de l'information et de la communication et des centres
+d'appel, de la pêche, des cultures marines, de l'aquaculture, de l'agriculture,
+y compris les coopératives agricoles et sociétés d'intérêt collectif agricoles
+et leurs unions, les coopératives maritimes et leurs unions.
 
-III. - L'exonération est égale à 100 % du montant des cotisations patronales
-dans la limite d'un montant de rémunération égal au salaire minimum de
-croissance majoré de 50 % applicable aux cotisations afférentes aux salaires et
-rémunérations des salariés employés par les entreprises, quel que soit leur
-effectif, des secteurs du tourisme, de la restauration de tourisme classée et de
-l'hôtellerie.
+III. - A l'exclusion des entreprises et établissements publics mentionnés à
+l'article L. 131-2 du code du travail, l'exonération est égale à 100 % du
+montant des cotisations patronales dans la limite d'un montant de rémunération
+égal au salaire minimum de croissance majoré de 50 % applicable aux cotisations
+afférentes aux salaires et rémunérations des salariés employés par les
+entreprises, quel que soit leur effectif, des secteurs du tourisme, de la
+restauration de tourisme classée et de l'hôtellerie.
 
 IV. - Lorsque dans une même entreprise ou un même établissement sont exercées
 plusieurs activités, l'exonération est applicable au titre des salariés employés

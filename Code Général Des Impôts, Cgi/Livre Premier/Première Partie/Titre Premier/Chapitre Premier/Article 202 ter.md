@@ -10,11 +10,18 @@ articles 239 quater et 239 quinquies deviennent passibles de l'impôt sur les
 sociétés.
 
 Toutefois en l'absence de création d'une personne morale nouvelle, les bénéfices
-en sursis d'imposition et les plus-values latentes incluses dans l'actif social
-ne font pas l'objet d'une imposition immédiate à la double condition qu'aucune
-modification ne soit apportée aux écritures comptables et que l'imposition
-desdits bénéfices et plus-values demeure possible sous le nouveau régime fiscal
-applicable à la société ou à l'organisme concerné.
+en sursis d'imposition, les plus-values latentes incluses dans l'actif social et
+les profits non encore imposés sur les stocks ne font pas l'objet d'une
+imposition immédiate à la double condition qu'aucune modification ne soit
+apportée aux écritures comptables et que l'imposition desdits bénéfices,
+plus-values et profits demeure possible sous le nouveau régime fiscal applicable
+à la société ou à l'organisme concerné.
+
+Lorsque les éléments figurant en stock ont bénéficié des dispositions prévues au
+I de l'article 72 B, le montant des frais engagés qui constituent des éléments
+du coût de production et qui n'ont pas majoré la valeur des stocks en
+application du deuxième alinéa du I du même article n'est pas pris en compte
+pour déterminer la valeur d'évaluation des stocks prévue au 3 de l'article 38.
 
 II. Si une société ou un organisme dont les revenus n'ont pas la nature de
 bénéfices d'une entreprise industrielle, commerciale, artisanale ou minière,

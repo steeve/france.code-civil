@@ -1,6 +1,7 @@
 Article 266 undecies
 ----
-Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies
+A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les
+assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies
 sous la forme d'une déclaration annuelle et de trois acomptes. Chaque acompte
 est égal à un tiers du montant de la taxe due au titre de l'année précédente et
 fait l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre.

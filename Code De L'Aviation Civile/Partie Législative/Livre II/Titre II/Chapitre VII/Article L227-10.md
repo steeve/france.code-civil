@@ -1,11 +1,11 @@
 Article L227-10
 ----
-Pour les aérodromes mentionnés au 3 de l'article 266 septies du code des
-douanes, la modification de la circulation aérienne de départ et d'approche aux
-instruments, en-dessous d'une altitude fixée par décret en Conseil d'Etat, fait
-l'objet d'une enquête publique préalable organisée par l'autorité
-administrative, dans les conditions prévues au chapitre III du titre II du livre
-Ier du code de l'environnement.
+Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code
+général des impôts, la modification de la circulation aérienne de départ et
+d'approche aux instruments, en-dessous d'une altitude fixée par décret en
+Conseil d'Etat, fait l'objet d'une enquête publique préalable organisée par
+l'autorité administrative, dans les conditions prévues au chapitre III du titre
+II du livre Ier du code de l'environnement.
 
 Les modifications à prendre en compte sont celles revêtant un caractère
 permanent et ayant pour effet de modifier, de manière significative, les

@@ -56,6 +56,10 @@ distribués en application du neuvième alinéa du même article ;
 produits et plus-values nets exonérés en application du 3° septies de l'article
 208 ;
 
+6° bis Par les sociétés uni-personnelles d'investissement à risque définies à
+l'article 208 D lorsque ces distributions sont prélevées sur des bénéfices
+exonérés en application de ce même article.
+
 7° Par les personnes morales implantées dans les zones prévues au 5° de
 l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à
 prendre diverses mesures d'ordre économique et social, lorsque ces distributions
@@ -75,4 +79,5 @@ distribution qui provient des dividendes de ces participations ;
 
 9° par les sociétés d'investissements immobiliers cotées et leurs filiales
 visées à l'article 208 C et prélevés sur les bénéfices exonérés en application
-du premier alinéa du II de cet article.
+du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à
+l'imposition prévue au IV de l'article 219.
