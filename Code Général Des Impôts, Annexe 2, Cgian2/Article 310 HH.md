@@ -7,8 +7,7 @@ territoire national et qui disposent en France de locaux ou de terrains :
 national, ainsi que de leurs équipements, biens mobiliers et véhicules qui y
 sont rattachés, est intégralement prise en compte ; celle des immeubles et
 installations situés à l'étranger, ainsi que de leurs équipements, biens
-mobiliers et véhicules qui y sont rattachés, n'est pas prise en compte ; les
-mêmes règles valent pour les salaires versés au personnel ;
+mobiliers et véhicules qui y sont rattachés, n'est pas prise en compte ;
 
 2° La valeur locative de l'ensemble des véhicules dont dispose une entreprise de
 transport ou de pêche maritime, ainsi que de leurs équipements et matériel de
@@ -17,5 +16,4 @@ taxes de l'entreprise, de celles qui correspondent à des opérations effectuée
 dans les limites du territoire national et soumises à la taxe sur la valeur
 ajoutée ; toutefois, lorsque le trafic assuré par l'entreprise est
 principalement en provenance de France ou à destination de la France, la
-proportion retenue ne peut être inférieure au dixième ; les salaires du
-personnel affecté aux véhicules sont retenus dans les mêmes proportions.
+proportion retenue ne peut être inférieure au dixième.

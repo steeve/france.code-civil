@@ -93,10 +93,7 @@ d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposit
 période. Pour la détermination de ce rapport, la valeur locative des
 immobilisations passibles d'une taxe foncière est celle déterminée, conformément
 à l'article 1467, au 1er janvier de l'année au cours de laquelle est clos
-l'exercice, ou au 1er janvier de l'année d'imposition des bénéfices et, par
-dérogation aux dispositions du b du 1° de l'article 1467, les salaires afférents
-à l'activité exercée en Corse sont pris en compte pour 36 p. 100 de leur
-montant.
+l'exercice, ou au 1er janvier de l'année d'imposition des bénéfices.
 
 IV. 1° Pour les entreprises créées après le 1er janvier 1997 et jusqu'au 31
 décembre 2001, le bénéfice ainsi calculé est exonéré dans la limite prévue au

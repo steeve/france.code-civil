@@ -1,9 +1,9 @@
 Article 310 HN
 ----
 Les entreprises de travaux publics sont imposées au lieu de chaque chantier, en
-raison des salaires versés au personnel qui y travaille et de la valeur locative
-des immobilisations qui y sont affectées; cette dernière est répartie
-proportionnellement aux salaires versés sur les différents chantiers.
+raison de la valeur locative des immobilisations qui y sont affectées ; cette
+dernière est répartie proportionnellement aux salaires versés sur les différents
+chantiers.
 
 Toutefois, les bases d'imposition relatives aux chantiers ayant duré moins de
 trois mois sont rattachées à la plus proche des communes où l'entreprise dispose

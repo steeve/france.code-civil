@@ -5,9 +5,8 @@ général des impôts sont réparties entre les communes concernées de la mani�
 suivante :
 
 1° Les locaux et terrains, notamment ceux des sièges sociaux, sont imposables en
-totalité dans la commune où ils se trouvent; il en va de même des salaires
-versés au personnel qui y est affecté et, sous réserve de l'article 310 HO, des
-biens et équipements qui y sont installés;
+totalité dans la commune où ils se trouvent ; il en va de même, sous réserve de
+l'article 310 HO, des biens et équipements qui y sont installés ;
 
 2° Les autres bases d'imposition, y compris la valeur locative des véhicules,
 sont réparties dans les conditions fixées aux articles 310 HM, 310 HN et 310 HO.
