@@ -8,6 +8,9 @@ chef de l'établissement, à téléphoner à leurs frais ou aux frais de leur
 correspondant. L'identité du correspondant et le contenu de la conversation sont
 contrôlés.
 
+Dans les centres pour peines aménagées, les condamnés peuvent téléphoner, à
+leurs frais ou aux frais de leur correspondant, aux personnes de leur choix.
+
 En outre, dans les centres de détention, les condamnés sont autorisés à
 téléphoner une fois par mois, selon les modalités énoncées ci-dessus, aux
 membres de leur famille ou aux titulaires de permis de visite.
