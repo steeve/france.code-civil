@@ -1,7 +1,33 @@
 Article L121-18
 ----
-Dans toute offre de vente d'un bien ou de fourniture d'une prestation de
-services qui est faite à distance à un consommateur, le professionnel est tenu
-d'indiquer le nom de son entreprise, ses coordonnées téléphoniques ainsi que
-l'adresse de son siège et, si elle est différente, celle de l'établissement
-responsable de l'offre.
+Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3
+ainsi que de celles prévues pour l'application de l'article L. 214-1, l'offre de
+contrat doit comporter les informations suivantes :
+
+1° Le nom du vendeur du produit ou du prestataire de service, son numéro de
+téléphone, son adresse ou, s'il s'agit d'une personne morale, son siège social
+et, si elle est différente, l'adresse de l'établissement responsable de l'offre
+;
+
+2° Le cas échéant, les frais de livraison ;
+
+3° Les modalités de paiement, de livraison ou d'exécution ;
+
+4° L'existence d'un droit de rétractation, sauf dans les cas où les dispositions
+de la présente section excluent l'exercice de ce droit ;
+
+5° La durée de la validité de l'offre et du prix de celle-ci ;
+
+6° Le coût de l'utilisation de la technique de communication à distance utilisée
+lorsqu'il n'est pas calculé par référence au tarif de base ;
+
+7° Le cas échéant, la durée minimale du contrat proposé, lorsqu'il porte sur la
+fourniture continue ou périodique d'un bien ou d'un service.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque,
+sont communiquées au consommateur de manière claire et compréhensible, par tout
+moyen adapté à la technique de communication à distance utilisée.
+
+En cas de démarchage par téléphone ou par toute autre technique assimilable, le
+professionnel doit indiquer explicitement au début de la conversation son
+identité et le caractère commercial de l'appel.

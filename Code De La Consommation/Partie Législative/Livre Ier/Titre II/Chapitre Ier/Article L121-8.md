@@ -1,15 +1,19 @@
 Article L121-8
 ----
-La publicité qui met en comparaison des biens ou services en utilisant soit la
-citation ou la représentation de la marque de fabrique, de commerce ou de
-service d'autrui, soit la citation ou la représentation de la raison sociale ou
-de la dénomination sociale, du nom commercial ou de l'enseigne d'autrui n'est
-autorisée que si elle est loyale, véridique et qu'elle n'est pas de nature à
-induire en erreur le consommateur. Elle doit être limitée à une comparaison
-objective qui ne peut porter que sur des caractéristiques essentielles,
-significatives, pertinentes et vérifiables de biens ou services de même nature
-et disponibles sur le marché. Lorsque la comparaison porte sur les prix, elle
-doit concerner des produits identiques vendus dans les mêmes conditions et
-indiquer la durée pendant laquelle sont maintenus les prix mentionnés comme
-siens par l'annonceur. La publicité comparative ne peut pas s'appuyer sur des
-opinions ou des appréciations individuelles ou collectives.
+Toute publicité qui met en comparaison des biens ou services en identifiant,
+implicitement ou explicitement, un concurrent ou des biens ou services offerts
+par un concurrent n'est licite que si :
+
+1° Elle n'est pas trompeuse ou de nature à induire en erreur ;
+
+2° Elle porte sur des biens ou services répondant aux mêmes besoins ou ayant le
+même objectif ;
+
+3° Elle compare objectivement une ou plusieurs caractéristiques essentielles,
+pertinentes, vérifiables et représentatives de ces biens ou services, dont le
+prix peut faire partie.
+
+Toute publicité comparative faisant référence à une offre spéciale doit
+mentionner clairement les dates de disponibilité des biens ou services offerts,
+le cas échéant la limitation de l'offre à concurrence des stocks disponibles et
+les conditions spécifiques applicables.

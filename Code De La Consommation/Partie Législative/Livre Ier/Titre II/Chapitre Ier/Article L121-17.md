@@ -1,14 +1,16 @@
 Article L121-17
 ----
-Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un
-service de radiodiffusion sonore ou de télévision sont définies par le II de
-l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
-télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
+Ne sont pas soumis aux dispositions de la présente section les contrats :
 
-"II. - Le dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou
-de télévision défini à l'article 2 de la présente loi qui aura programmé et fait
-diffuser ou distribuer une émission en violation des règles fixées en vertu du
-même article sera puni d'une amende de 500 000 F [*sanctions pénales*].
+1° Portant sur des services financiers ;
 
-Dans le cas de récidive, l'auteur de l'infraction pourra être puni d'une amende
-de 1 000 000 F".
+2° Conclus par le moyen de distributeurs automatiques ou pour des prestations
+fournies dans des locaux commerciaux automatisés ;
+
+3° Conclus avec les opérateurs de télécommunications pour l'utilisation des
+cabines téléphoniques publiques ;
+
+4° Conclus pour la construction et la vente des biens immobiliers ou portant sur
+d'autres droits relatifs à des biens immobiliers, à l'exception de la location ;
+
+5° Conclus lors d'une vente aux enchères publiques.
