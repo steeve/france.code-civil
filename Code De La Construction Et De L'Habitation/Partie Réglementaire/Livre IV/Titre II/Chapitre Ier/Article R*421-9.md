@@ -1,24 +1,24 @@
 Article R*421-9
 ----
-La durée du mandat du conseil d'administration est de quatre ans. Les membres du
-conseil sont renouvelés par moitié tous les deux ans, excepté les représentants
-des locataires élus pour quatre ans. Un tirage au sort parmi, d'une part, les
-membres désignés par les préfets, d'autre part, les autres membres, désigne ceux
-des membres du conseil qui seront soumis à renouvellement à l'expiration de la
-première période biennale. Les membres sortant sont rééligibles.
+La durée du mandat du conseil d'administration est de trois ans.
 
-Toutefois :
+Les membres désignés par la collectivité locale ou l'établissement public de
+rattachement font l'objet d'une nouvelle désignation après chaque renouvellement
+partiel ou total de l'organe délibérant qui les a élus. En cas de suspension ou
+de dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection
+de ses délégués par le nouvel organe.
 
-- les représentants des collectivités locales suivent le sort de l'assemblée
-locale quant à la durée de leur mandat sans que cette dernière puisse excéder
-quatre ans ; en cas de suspension ou de dissolution de l'assemblée, ce mandat
-est continué jusqu'au jour de la nomination de représentants par la nouvelle
-assemblée.
+Les membres désignés par les conseils d'administration des caisses d'allocations
+familiales et par l'union départementale des associations familiales, ainsi que
+les membres désignés par le commissaire de la République, font l'objet d'une
+nouvelle désignation chaque fois que les collectivités locales ou les
+établissements publics doivent eux-mêmes procéder à une désignation de leurs
+représentants au conseil d'administration.
 
-- la perte de la qualité de locataire ou de membre du personnel met un terme au
-mandat des administrateurs nommés en cette qualité.
+Les membres sortants du conseil peuvent être désignés à nouveau.
 
-Si un membre du conseil d'administration vient à cesser ses fonctions avant
-l'expiration de la durée normale de son mandat, il est pourvu immédiatement à
-son remplacement. En ce cas, les fonctions du nouveau membre expirent à la date
-où auraient normalement cessé celles du membre qu'il a remplacé.
+Si un membre vient à cesser ses fonctions au conseil d'administration avant
+l'expiration de la durée normale de son fonctions avant l'expiration de la durée
+normale de son mandat, il est procédé immédiatement à son remplacement. Les
+fonctions du nouveau membre expirent à la date où auraient normalement cessé
+celles du membre qu'il a remplacé.
