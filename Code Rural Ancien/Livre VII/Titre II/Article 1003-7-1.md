@@ -63,7 +63,7 @@ d'assurance maladie dues par les chefs d'exploitation ou d'entreprise mentionné
 à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
 par décret.
 
-V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie
+V. - Bénéficient d'une exonération totale des cotisations à l'assurance maladie
 des exploitants agricoles (Amexa), les titulaires de la retraite de vieillesse
 agricole et les titulaires de la retraite forfaitaire accordée en vertu de
 l'article 1122-1 du présent code, percevant l'allocation supplémentaire prévue
@@ -71,8 +71,14 @@ au livre IX du code de la sécurité sociale, lorsqu'ils ont cessé toute activi
 professionnelle ou exploitent moins de trois hectares, sous réserve des
 coefficients d'équivalence prévus à l'article 188-4 du présent code.
 
-VI. - Des cotisations de solidarité peuvent être exigées des personnes dirigeant
-une exploitation ou une entreprise agricoles dont l'importance est inférieure à
-celle définie au I ci-dessus et supérieure à un minimum fixé par décret. Les
-bases de calcul de ces cotisations sont déterminées par décret en fonction de
-l'importance de l'exploitation ou de l'entreprise.
+VI. - Les personnes qui dirigent une exploitation ou une entreprise agricoles
+dont l'importance est inférieure à celle définie au I ci-dessus et supérieure à
+un minimum fixé par décret ont à leur charge une cotisation de solidarité
+calculée en pourcentage de leurs revenus professionnels ou de l'assiette
+forfaitaire définis à l'article 1003-12. Son taux est fixé par décret.
+
+VII. - Les associés de sociétés de personnes non affiliés au régime des
+personnes non salariées des professions agricoles et percevant des revenus
+professionnels tels que définis à l'article 1003-12 ont à leur charge une
+cotisation de solidarité calculée en pourcentage de ces revenus. Le taux de la
+cotisation est déterminé par décret.
