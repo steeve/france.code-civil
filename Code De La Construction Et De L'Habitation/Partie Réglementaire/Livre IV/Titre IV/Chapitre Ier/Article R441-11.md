@@ -1,8 +1,6 @@
 Article R441-11
 ----
-Le préfet peut exercer le droit de réservation qui lui est reconnu par l'alinéa
-3 de l'article L. 441-1 lors de la première mise en location des logements ou au
-fur et à mesure qu'ils se libèrent. La réservation donne lieu à une convention
-avec l'organisme d'habitations à loyer modéré.
-
-A défaut elle est réglée par arrêté du préfet.
+Le contrat de location des logements mentionnés à l'article 441-1 ne peut, en
+aucun cas, être l'accessoire d'un contrat de travail. Cette interdiction ne
+s'applique pas aux logements attribués pour nécessité de service par l'organisme
+bailleur aux personnes affectées au gardiennage des immeubles.

@@ -1,6 +1,8 @@
 Article R441-7
 ----
-Toute offre de logement doit indiquer le délai de réponse accordé au
-bénéficiaire de cette offre pour faire connaître son acceptation ou son refus
-[*mention obligatoire*]. Ce délai ne peut être inférieur à dix jours. Le défaut
-de réponse dans le délai imparti équivaut à un refus.
+La charte intercommunale prévue à l'article L. 441-1-5 est soumise au vote des
+maires des communes, membres de la conférence intercommunale, dont le territoire
+comporte des logements locatifs sociaux. Son adoption requiert l'approbation
+d'au moins la moitié d'entre eux, représentant au moins les deux tiers de la
+population de ces communes, ou d'au moins les deux tiers d'entre eux,
+représentant au moins la moitié de la population.

@@ -1,28 +1,6 @@
 Article R441-4
 ----
-Les logements sont attribués en priorité :
-
-a) Aux personnes qui ont un besoin urgent de logement lié à la réalisation d'une
-opération d'urbanisme, à l'évacuation d'un immeuble déclaré en état de péril, à
-une expulsion prononcée sans qu'il y ait expulsion pour mauvaise foi, à une
-situation d'hébergement à titre temporaire, à l'occupation d'un logement qui a
-fait l'objet d'une déclaration d'insalubrité ou qui ne satisfait pas aux normes
-de salubrité et d'occupation prises en compte pour l'octroi de l'allocation de
-logement ;
-
-b) Aux personnes ayant des difficultés spécifiques de logement, en particulier
-lorsqu'il s'agit de personnes handicapées, de familles nombreuses, de femmes
-enceintes, de chefs de famille monoparentale ou de jeunes à la recherche d'un
-premier logement ;
-
-c) Aux personnes qu'un nouvel emploi conduit à changer de résidence ;
-
-d) Aux personnes ayant des difficultés graves à faire face aux dépenses liées au
-logement qu'elles occupent à la suite d'une réduction brutale de leurs
-ressources;
-
-e) Aux associations mentionnées à l'article R. 441-1.
-
-Le règlement départemental établi par le préfet en application de l'article L.
-441-2 précise les conditions dans lesquelles ces différents critères sont pris
-en compte.
+Les logements construits ou aménagés en vue de leur occupation par des personnes
+handicapées sont attribués à celles-ci ou, à défaut de candidat, en priorité à
+des personnes âgées dont l'état le justifie ou à des ménages hébergeant de
+telles personnes.

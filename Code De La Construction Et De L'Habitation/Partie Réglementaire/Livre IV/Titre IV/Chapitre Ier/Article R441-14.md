@@ -1,9 +1,6 @@
 Article R441-14
 ----
-En cas de manquements graves ou répétés aux règles d'attribution des logements
-le préfet peut confier à un délégué le soin de procéder à la conciliation prévue
-au troisième alinéa de l'article L. 441-2.
-
-En cas d'échec de cette conciliation, le préfet peut, dans les conditions fixées
-par la même disposition, désigner le délégué spécial chargé de prononcer les
-attributions de logements.
+Les dispositions de la présente section se substituent, en ce qui concerne les
+logements gérés par les organismes d'habitations à loyer modéré, aux
+dispositions ayant le même objet de la section I du chapitre III du titre V du
+livre III du présent code (deuxième partie).

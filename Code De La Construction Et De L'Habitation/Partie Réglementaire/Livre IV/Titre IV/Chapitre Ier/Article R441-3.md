@@ -1,18 +1,20 @@
 Article R441-3
 ----
-Compte tenu des caractéristiques des logements mentionnés à l'article L. 441-1,
-de la composition des foyers et de l'ancienneté des demandes, les attributions
-sont prononcées par chaque organisme d'habitations à loyer modéré, en fonction
-tant des besoins que de l'ensemble des ressources des demandeurs à la recherche
-d'un logement en vue notamment :
+Les commissions d'attribution prévues à l'article L. 441-2 procèdent à l'examen
+des demandes en tenant compte notamment de la composition, du niveau de
+ressources et des conditions de logement actuelles du ménage. Elles tiennent
+compte en outre de l'éloignement des lieux de travail et de la proximité des
+équipements répondant aux besoins des demandeurs.
 
-a) De leur permettre d'occuper un logement correspondant à la taille et à la
-composition du ménage ;
+En veillant à la mixité sociale des villes et des quartiers, elles attribuent
+les logements disponibles par priorité aux personnes privées de logement ou dont
+la demande présente un caractère d'urgence en raison de la précarité ou de
+l'insalubrité du logement qu'elles occupent, ainsi qu'aux personnes cumulant des
+difficultés économiques et sociales mentionnées à l'accord collectif
+départemental prévu par l'article L. 441-1-2.
 
-b) De les rapprocher de leur lieu de travail ou des équipements correspondant à
-leurs besoins ;
-
-c) De rapprocher ou regrouper les membres d'une même famille, et notamment de
-rendre possible un regroupement familial au sens du décret n° 76-383 du 29 avril
-1976 modifié relatif aux conditions d'entrée et de séjour en France des membres
-des familles des étrangers autorisés à séjourner en France.
+Les autres demandes de logement social sont satisfaites par priorité au bénéfice
+de catégories de personnes définies par le règlement départemental prévu à
+l'article L. 441-1-1 dans le respect des orientations définies par les
+conférences intercommunales prévues à l'article L. 441-1-5, lorsqu'elles
+existent.
