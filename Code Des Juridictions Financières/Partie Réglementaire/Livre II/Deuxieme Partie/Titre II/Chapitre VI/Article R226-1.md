@@ -18,7 +18,3 @@ leur départ en mobilité ;
 c) Dans l'administration préfectorale ou dans un secrétariat général pour les
 affaires régionales situé dans la région au sein de laquelle la chambre
 régionale des comptes exerce ses compétences.
-
-Les magistrats des chambres régionales des comptes recrutés en application des
-articles L. 221-4 à L. 221-6 sont considérés comme ayant satisfait à la
-mobilité.

@@ -17,6 +17,9 @@ l'article L. 112-5, puis de chacun des conseillers maîtres dans l'ordre inverse
 de leur ancienneté dans le grade. Il opine le dernier. En cas de partage, sa
 voix est prépondérante.
 
+Toutefois, en matière de gestion de fait et d'amende, la formation délibère hors
+la présence du rapporteur.
+
 Une section peut renvoyer à la chambre une affaire qui lui a été attribuée.
 
 Préalablement à la délibération sur l'envoi des observations énumérées à

@@ -11,3 +11,9 @@ Un arrêté du premier président pris après avis du procureur général défin
 conditions dans lesquelles la Cour élabore les propositions d'insertion dans ce
 rapport des observations présentées par les chambres régionales et territoriales
 des comptes.
+
+Un membre du corps des magistrats des chambres régionales des comptes apporte en
+qualité de chargé de mission son concours à l'accomplissement des travaux du
+comité. Il est mis, avec son accord, à disposition de la Cour des comptes par
+arrêté du ministre chargé des finances, sur proposition du premier président de
+la Cour des comptes.

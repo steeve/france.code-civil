@@ -29,4 +29,4 @@ rapports lui sont communiqués soit sur sa demande, soit sur décision des
 présidents de chambre.
 
 Il peut assister aux séances des chambres et des sections et y présenter des
-observations orales.
+observations orales. Il ne prend pas part au délibéré.
