@@ -16,3 +16,7 @@ congrégations ou collectivités religieuses dont ils relèvent sont calculées 
 appliquant aux cotisations mentionnées à l'alinéa précédent un abattement fixé
 par l'arrêté susvisé aux alinéas précédents. Cet abattement ne peut être
 inférieur à 50 %.
+
+Le montant des réductions accordées en application du troisième alinéa de
+l'article L. 381-17 ne peut excéder, au titre d'un exercice, 5 p. 100 du produit
+des cotisations de l'année précédente.

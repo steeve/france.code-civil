@@ -1,18 +1,16 @@
 Article R381-64
 ----
-Les cotisations prévues à l'article L. 381-17 sont payables à deux échéances
-semestrielles fixées au 31 janvier pour le premier semestre et au 31 juillet
-pour le second semestre [*date*].
+Les cotisations prévues à l'article L. 381-17 sont payables chaque mois à terme
+échu.
 
-Toutefois, le débiteur peut demander, avant la date d'une échéance, à
-s'acquitter de la somme due en deux versements trimestriels d'égal montant. Dans
-ce cas, la seconde fraction trimestrielle doit être versée le 30 avril ou le 31
-octobre au plus tard.
+Les cotisations prévues aux 1° et 2° de l'article L. 381-17 sont versées par les
+associations, congrégations ou collectivités religieuses dans les quinze
+premiers jours suivant le mois au titre duquel elles sont dues.
 
-Lors de l'affiliation d'un assuré, les cotisations dues pour la période
-s'écoulant entre la date d'effet de l'affiliation et la plus prochaine échéance
-sont calculées au prorata de cette période et versées à cette échéance.
-
-Les cotisations [*personnelles à la charge des assurés*] prévues au 1° de
-l'article L. 381-17 peuvent être payées par les associations, congrégations ou
-collectivités religieuses pour le compte des assurés qui relèvent d'elles.
+Chaque versement de cotisations est obligatoirement accompagné d'un bordereau
+daté et signé par les associations, congrégations ou collectivités religieuses
+concernées indiquant les éléments nécessaires à la détermination des cotisations
+à leur charge et à celles des assurés. Ce bordereau est conforme à un modèle
+fixé par arrêté du ministre chargé de la sécurité sociale. Toutefois, les
+assurés visés au quatrième alinéa de l'article R. 381-57 versent les cotisations
+prévues au 1° de l'article L. 381-17.
