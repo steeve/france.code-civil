@@ -1,22 +1,29 @@
 Article L766-1
 ----
-Les soins dispensés aux bénéficiaires du présent titre et à leurs ayants droit
-ouvrent droit aux prestations des assurances maladie et maternité prévues par le
-présent titre.
+La demande d'adhésion à l'une des assurances volontaires
+maladie-maternité-invalidité ou maladie-maternité prévues par les chapitres II à
+V du présent titre doit être formulée dans un délai déterminé. Ce délai est
+calculé, selon le cas :
 
-Sous réserve des dispositions des conventions et règlements internationaux
-concernant les travailleurs [*détachés à l'étranger*] mentionnés à l'article L.
-761-1, ces prestations sont servies dans le pays où les bénéficiaires du présent
-titre exercent leur activité sur la base des dépenses réelles, dans la limite
-des prestations qui auraient été servies pour des soins analogues reçus en
-France, ou dans la limite de tarifs de responsabilité fixés par arrêté
-ministériel après avis de la caisse désignée en application de l'article L.
-766-4.
+- soit à compter de la date à laquelle l'intéressé pouvait adhérer à l'une de
+ces assurances volontaires ;
 
-Les dispositions des articles L. 162-1 à L. 162-9, L. 162-11, L. 162-12, L.
-162-14, L. 162-16 à L. 162-18, L. 162-20 à L. 162-30, L. 164-1, L. 314-1 et L.
-432-2 à L. 432-10 ne sont pas applicables aux soins dispensés à l'étranger.
+- soit, pour les personnes qui, résidant dans un pays étranger, deviennent
+titulaires d'une pension de retraite servie par un régime français d'assurance
+vieillesse, à la date de liquidation de cette pension ;
 
-La caisse compétente peut, pour l'exercice de son contrôle, demander le concours
-des organismes de sécurité sociale du pays dans lequel les soins ont été
-dispensés et des autorités consulaires françaises.
+- soit, pour les personnes qui, après avoir résidé dans un Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen,
+s'installent dans un pays tiers, à compter de la date à laquelle elles cessent
+de relever du régime de sécurité sociale de cet Etat.
+
+Toutefois, les demandes présentées après l'expiration de ce délai peuvent être
+satisfaites compte tenu de l'âge de l'intéressé, ou sous réserve du paiement des
+cotisations afférentes à la période écoulée depuis cette date dans la limite
+d'un plafond.
+
+L'adhésion prend effet et le droit aux prestations est ouvert à l'issue de
+délais fixés en fonction du risque couvert et de l'âge de l'affilié. Ces délais
+doivent permettre d'assurer, le cas échéant, la continuité de la couverture des
+risques au regard de la législation française au moment du départ et du retour
+en France de l'assuré.

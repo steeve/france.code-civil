@@ -1,10 +1,7 @@
 Article L212-3
 ----
 Par dérogation aux dispositions de l'article L. 212-2, le conseil
-d'administration de la caisse nationale d'allocations familiales de la pêche
-maritime est composé pour la moitié de représentants des travailleurs
-indépendants, pour deux sixièmes de représentants des pêcheurs salariés et pour
-un sixième de représentants des employeurs.
-
-Les dispositions du dernier alinéa de l'article L. 212-2 sont applicables à
-l'organisme mentionné au premier alinéa du présent article.
+d'administration de la caisse maritime d'allocations familiales est composé de
+trente-cinq membres dont quinze représentants des armateurs et travailleurs
+indépendants, quinze représentants des salariés, quatre représentants des
+associations familiales et une personne qualifiée.

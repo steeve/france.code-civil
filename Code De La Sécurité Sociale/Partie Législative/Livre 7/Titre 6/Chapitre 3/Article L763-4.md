@@ -4,9 +4,9 @@ La couverture des charges résultant de l'application du présent chapitre est
 assurée par une cotisation calculée sur la base d'une assiette forfaitaire.
 
 Les assurés volontaires sont répartis, dans des conditions fixées par décret, en
-fonction de leurs revenus professionnels, en trois catégories fixées par
-référence au plafond des cotisations de sécurité sociale et dans la limite de
-celui-ci.
+fonction de la totalité de leurs ressources dont leurs revenus professionnels,
+en trois catégories fixées par référence au plafond des cotisations de sécurité
+sociale et dans la limite de celui-ci.
 
 La cotisation est à la charge du travailleur ; le taux en est fixé par décret et
 il est révisé chaque fois que l'exige l'équilibre financier du système constitué

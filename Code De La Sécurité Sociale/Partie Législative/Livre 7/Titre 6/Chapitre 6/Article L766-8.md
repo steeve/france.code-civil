@@ -8,7 +8,7 @@ Ils sont appelés à remplacer, dans l'ordre de la liste, les administrateurs
 titulaires dont le siège deviendrait vacant.
 
 Ces nouveaux représentants siègent jusqu'au renouvellement suivant du conseil
-d'administration .
+d'administration.
 
 Chaque organisation ayant désigné un ou plusieurs représentants au conseil
 d'administration peut désigner un administrateur suppléant.

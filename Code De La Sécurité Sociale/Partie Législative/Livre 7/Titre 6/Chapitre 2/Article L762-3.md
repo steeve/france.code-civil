@@ -28,12 +28,7 @@ paiement de tout ou partie des cotisations. Le taux des cotisations mentionnées
 au 1° du présent article est arrêté par l'autorité compétente de l'Etat, après
 avis de la caisse des Français de l'étranger, selon des modalités fixées par
 décret qui tiennent compte des réductions de dépenses liées aux adhésions
-présentées par les entreprises pour le compte de leurs travailleurs. Une
-exonération temporaire des cotisations ou un abattement spécifique sur leur taux
-peuvent être arrêtés, après avis de la Caisse des Français de l'étranger, selon
-des modalités fixées par décret, pour des emplois nouvellement créés à
-l'étranger occupés par des personnes de moins de trente ans, de nationalité
-française et relevant d'entreprises mandataires de leurs salariés.
+présentées par les entreprises pour le compte de leurs travailleurs.
 
 La part de cotisation prise en charge par l'employeur ne peut dans tous les cas
 être inférieure à une fraction, fixée par décret, du montant total de la

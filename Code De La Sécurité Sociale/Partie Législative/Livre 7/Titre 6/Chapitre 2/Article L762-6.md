@@ -6,5 +6,5 @@ droit des prestations en nature prévues au 1° de l'article L. 321-1 et à
 l'article L. 331-2.
 
 Pour la participation de l'assuré expatrié aux dépenses d'assurance maladie, il
-est fait application de l'article L. 322-2 [*ticket modérateur*] sous réserve
-des modalités particulières prévues par voie réglementaire.
+est fait application de l'article L. 322-2 sous réserve des modalités
+particulières prévues par voie réglementaire.
