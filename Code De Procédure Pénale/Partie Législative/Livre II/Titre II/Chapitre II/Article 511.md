@@ -1,7 +1,8 @@
 Article 511
 ----
-Le nombre des audiences correctionnelles est déterminé à la fin de chaque année
-judiciaire pour l'année judiciaire suivante par l'assemblée générale de la cour.
+Le nombre et le jour des audiences correctionnelles sont fixés à la fin de
+chaque année judiciaire pour l'année judiciaire suivante par ordonnance du
+premier président prise après avis de l'assemblée générale de la cour d'appel.
 
-Il peut être modifié dans les mêmes conditions en cours d'année, suivant les
-nécessités.
+Cette ordonnance peut être modifiée dans les mêmes conditions en cours d'année,
+suivant les nécessités.
