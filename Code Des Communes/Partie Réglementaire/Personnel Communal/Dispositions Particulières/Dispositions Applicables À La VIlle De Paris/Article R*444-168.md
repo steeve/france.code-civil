@@ -7,3 +7,7 @@ réduits de moitié.
 
 A l'expiration de son congé, elle est réintégrée de plein droit au besoin en
 surnombre, dans son administration d'origine.
+
+Les modalités d'application du congé post-natal prévues pour les fonctionnaires
+de l'Etat sont applicables aux fonctionnaires de la commune de Paris régis par
+le présent code.
