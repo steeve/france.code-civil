@@ -10,10 +10,16 @@ raccordement de son logement à un réseau d'eau public et éventuellement, à
 l'assainissement des W.C. dont dispose ce logement. Aucune dérogation ne peut
 être accordée aux dispositions du dernier alinéa du 1° de l'article D. 755-19.
 
-Lorsque le demandeur occupe un logement ne répondant pas aux conditions fixées
-au 2° de l'article D. 755-19, l'allocation de logement peut être attribuée à
-titre exceptionnel, dans les formes prévues aux premier et deuxième alinéas du
-présent article, pour une période de deux ans renouvelable une fois.
+Lorsque la condition de superficie prévue au 2° de l'article D. 755-19 n'est pas
+remplie au moment de la demande, l'allocation de logement peut être accordée, à
+titre exceptionnel, par décision de la caisse d'allocations familiales
+concernée. Le conseil d'administration de l'organisme débiteur est informé de la
+décision prise.
+
+Au moment du renouvellement des droits, l'allocation de logement peut être
+accordée à titre exceptionnel et pour une période de deux ans renouvelable une
+fois, par décision du conseil d'administration de la caisse d'allocations
+familiales.
 
 Cette dérogation peut être prolongée dans les mêmes conditions par période de
 deux ans renouvelable, après enquête sociale et au vu d'une attestation motivée
