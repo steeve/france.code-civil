@@ -132,23 +132,22 @@ avant ou du train arrière de ce dernier ;
 - véhicule et matériel agricoles : véhicule ou matériel normalement destiné à
 l'exploitation agricole et ci-dessous énuméré et défini :
 
-a) Tracteur agricole : véhicule à moteur spécialement conçu pour tirer ou
-actionner tout matériel normalement destiné à l'exploitation agricole, dont la
-vitesse de marche par construction ne peut excéder 40 km/h en palier ;
+a) Tracteur agricole : véhicule à moteur, à roues ou à chenilles, ayant au moins
+deux essieux et une vitesse maximale par construction comprise entre 6 et 40
+km/h en palier, dont la fonction réside essentiellement dans sa puissance de
+traction et qui est spécialement conçu pour tirer, pousser, porter ou actionner
+certains équipements interchangeables destinés à des usages agricoles ou
+forestiers, ou tracter des remorques agricoles ou forestières.
 
 b) Machine agricole automotrice : appareil pouvant évoluer par ses propres
 moyens, normalement destiné à l'exploitation agricole et dont la vitesse de
-marche par construction ne peut excéder 25 km/h en palier ; des dispositions
-spéciales définies par arrêté du ministre chargé des transports, prises après
-consultation du ministre chargé de l'agriculture, sont applicables aux machines
-agricoles automotrices à un seul essieu.
-
-Les tracteurs agricoles et machines agricoles automotrices peuvent être aménagés
-pour transporter deux convoyeurs au plus. Ils peuvent également être aménagés
-pour transporter une charge dont le poids doit toujours être inférieur à 80 % du
-poids à vide d'un véhicule ainsi que des outils. Un arrêté du ministre des
-transports, pris après consultation du ministre de l'agriculture, fixe les
-modalités d'application du présent alinéa ;
+marche par construction ne peut excéder 25 km/h en palier ; cette vitesse est
+portée à 40 km/h pour les appareils dont la largeur est inférieure ou égale à
+2,55 mètres et dont les limites de cylindrée ou de puissance sont supérieures à
+celles relatives aux quadricycles légers à moteur. Des dispositions spéciales
+définies par arrêté du ministre chargé des transports, prises après consultation
+du ministre chargé de l'agriculture, sont applicables aux machines agricoles
+automotrices à un seul essieu.
 
 c) Véhicule ou appareil remorqué :
 
