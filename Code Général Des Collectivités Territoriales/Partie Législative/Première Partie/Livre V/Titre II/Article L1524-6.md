@@ -1,6 +1,6 @@
 Article L1524-6
 ----
-- Lorsqu'une collectivité territoriale ou un groupement de collectivités
+Lorsqu'une collectivité territoriale ou un groupement de collectivités
 territoriales a accordé sa garantie aux emprunts contractés par une société
 d'économie mixte locale, elle ou il a le droit, à condition de ne pas en être
 actionnaire directement représenté au conseil d'administration ou de
@@ -16,7 +16,7 @@ Le délégué peut procéder à la vérification des livres et des documents
 comptables et s'assurer de l'exactitude de leurs mentions.
 
 Le délégué rend compte de son mandat dans les mêmes conditions que celles
-prévues pour les représentants au conseil d'administration par le septième
+prévues pour les représentants au conseil d'administration par le quatorzième
 alinéa de l'article L. 1524-5.
 
 Les mêmes dispositions sont applicables aux collectivités territoriales et aux

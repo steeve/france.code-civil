@@ -11,14 +11,15 @@ Les prises de participation sont subordonnées aux conditions suivantes :
 juillet 1966 sur les sociétés commerciales, sous réserve des dispositions du
 présent titre ;
 
-2° Les communes, les départements, les régions et leurs groupements détiennent,
-séparément ou à plusieurs, plus de la moitié du capital de ces sociétés et des
-voix dans les organes délibérants.
+2° Les collectivités territoriales et leurs groupements détiennent, séparément
+ou à plusieurs, plus de la moitié du capital de ces sociétés et des voix dans
+les organes délibérants.
 
-Sous réserve de la conclusion d'un accord préalable entre les Etats concernés,
-des collectivités territoriales des Etats limitrophes et leurs groupements
-peuvent participer au capital de sociétés d'économie mixte locales dont l'objet
-social est conforme à l'article L. 1521-1.
+Sous réserve, pour les Etats qui ne sont pas membres de l'Union européenne, de
+la conclusion d'un accord préalable avec les Etats concernés, des collectivités
+territoriales étrangères et leurs groupements peuvent participer au capital de
+sociétés d'économie mixte locales dont l'objet social est conforme à l'article
+L. 1521-1.
 
 Ils ne peuvent toutefois pas détenir, séparément ou à plusieurs, plus de la
 moitié du capital et des voix dans les organes délibérants détenus par

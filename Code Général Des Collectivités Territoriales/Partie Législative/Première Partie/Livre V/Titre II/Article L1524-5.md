@@ -22,6 +22,26 @@ désigne parmi les élus de ces collectivités ou groupements le ou les
 représentants communs qui siégeront au conseil d'administration ou de
 surveillance.
 
+Les personnes qui assurent la représentation d'une collectivité territoriale ou
+d'un groupement au sein du conseil d'administration ou de surveillance d'une
+société d'économie mixte doivent respecter, au moment de leur désignation, la
+limite d'âge prévue au premier alinéa des articles L. 225-19 et L. 225-70 du
+code de commerce.
+
+Quand les mêmes personnes assument les fonctions de président du conseil
+d'administration, elles doivent également respecter, au moment de leur
+désignation, la limite d'âge prévue à l'article L. 225-48 du code de commerce.
+
+Ces personnes ne peuvent être déclarées démissionnaires d'office si,
+postérieurement à leur nomination, elles dépassent la limite d'âge statutaire ou
+légale.
+
+Il n'est pas tenu compte de ces personnes pour le calcul du nombre des
+administrateurs ou des membres du conseil de surveillance qui peuvent demeurer
+en fonction au-delà de la limite d'âge, en vertu soit des statuts de la société,
+soit, à défaut de dispositions express dans les statuts, des articles précités
+du code de commerce.
+
 Par dérogation à l'article 91 de la loi n° 66-537 du 24 juillet 1966 précitée,
 la responsabilité civile qui résulte de l'exercice du mandat des représentants
 incombe à la collectivité territoriale ou au groupement dont ils sont
@@ -30,23 +50,48 @@ spéciale, cette responsabilité incombe solidairement aux collectivités
 territoriales ou aux groupements membres de cette assemblée.
 
 Les élus locaux agissant en tant que mandataires des collectivités territoriales
-ou de leur groupement au sein du conseil d'administration ou du conseil de
-surveillance d'une société d'économie mixte locale ne sont pas considérés comme
-entrepreneurs de services municipaux, départementaux ou régionaux au sens des
-articles L. 207, L. 231 et L. 343 du code électoral.
+ou de leurs groupements au sein du conseil d'administration ou du conseil de
+surveillance des sociétés d'économie mixte locales et exerçant, à l'exclusion de
+toute autre fonction dans la société, les fonctions de membre, de président du
+conseil d'administration ou du conseil de surveillance et de président assurant
+les fonctions de directeur général d'une société d'économie mixte locale ne sont
+pas considérés comme entrepreneurs de services municipaux, départementaux ou
+régionaux au sens des articles L. 207, L. 231 et L. 343 du code électoral.
 
-Lorsque ces représentants souhaitent exercer des fonctions entraînant la
-perception de rémunérations ou d'avantages particuliers, ils doivent y être
-autorisés par une délibération expresse de l'assemblée qui les a désignés ;
-cette délibération fixe le montant maximum des rémunérations ou avantages
-susceptibles d'être perçus ainsi que la nature des fonctions qui les justifient.
+Ces représentants peuvent percevoir une rémunération ou des avantages
+particuliers à condition d'y être autorisés par une délibération expresse de
+l'assemblée qui les a désignés ; cette délibération fixe le montant maximum des
+rémunérations ou avantages susceptibles d'être perçus ainsi que la nature des
+fonctions qui les justifient.
+
+Les élus locaux agissant en tant que mandataires des collectivités territoriales
+ou de leurs groupements au sein du conseil d'administration ou de surveillance
+des sociétés d'économie mixte locales et exerçant les fonctions de membre ou de
+président du conseil d'administration, de président-directeur général ou de
+membre ou de président du conseil de surveillance, ne sont pas considérés comme
+étant intéressés à l'affaire, au sens de l'article L. 2131-11, lorsque la
+collectivité ou le groupement délibère sur ses relations avec la société
+d'économie mixte locale.
+
+Toutefois, ils ne peuvent participer aux commissions d'appel d'offres ou aux
+commissions d'attribution de délégations de service public de la collectivité
+territoriale ou du groupement lorsque la société d'économie mixte locale est
+candidate à l'attribution d'un marché public ou d'une délégation de service
+public dans les conditions prévues aux articles L. 1411-1 et suivants.
+
+En cas de fin légale du mandat de l'assemblée, le mandat de ses représentants au
+conseil d'administration ou au conseil de surveillance est prorogé jusqu'à la
+désignation de leurs remplaçants par la nouvelle assemblée, leurs pouvoirs se
+limitant à la gestion des affaires courantes.
 
 Les organes délibérants des collectivités territoriales et de leurs groupements
 actionnaires se prononcent sur le rapport écrit qui leur est soumis au moins une
 fois par an par leurs représentants au conseil d'administration ou au conseil de
-surveillance. Lorsque ce rapport est présenté à l'assemblée spéciale, celle-ci
-assure la communication immédiate aux mêmes fins aux organes délibérants des
-collectivités et groupements qui en sont membres.
+surveillance, et qui porte notamment sur les modifications des statuts qui ont
+pu être apportées à la société d'économie mixte. Lorsque ce rapport est présenté
+à l'assemblée spéciale, celle-ci assure la communication immédiate aux mêmes
+fins aux organes délibérants des collectivités et groupements qui en sont
+membres.
 
 Toute prise de participation d'une société d'économie mixte locale dans le
 capital d'une société commerciale fait préalablement l'objet d'un accord exprès

@@ -34,7 +34,7 @@ que l'échéancier de leur amortissement ;
 7° Des comptes et des annexes produits par les délégataires de service public ;
 
 8° Du tableau des acquisitions et cessions immobilières mentionné au c de
-l'article L. 1523-3.
+l'article L. 300-5 du code de l'urbanisme.
 
 Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1°
 font l'objet d'une insertion dans une publication locale diffusée dans la
