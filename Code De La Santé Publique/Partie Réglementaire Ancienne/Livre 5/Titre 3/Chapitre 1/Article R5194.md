@@ -17,7 +17,12 @@ de renouvellements ;
 4° Pour un médicament classé dans la catégorie des médicaments à prescription
 initiale hospitalière en application des dispositions de l'article R. 5143-5-3,
 la date à laquelle un nouveau diagnostic doit être effectué lorsque
-l'autorisation de mise sur le marché le prévoit.
+l'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation
+le prévoit ;
+
+5° Les mentions prévues au quatrième alinéa de l'article R. 5143-5-4 et au 3° de
+l'article R. 5143-5-5 lorsque l'autorisation de mise sur le marché ou
+l'autorisation temporaire d'utilisation les prévoit.
 
 En outre, elle mentionne :
 
@@ -34,5 +39,6 @@ présente section doit indiquer :
 1° Le nom, la qualité, le numéro d'inscription à l'ordre, l'adresse et la
 signature du praticien, ainsi que la date ;
 
-2° La dénomination et la quantité du médicament ou du produit ; 3° La mention
-"Usage professionnel".
+2° La dénomination et la quantité du médicament ou du produit ;
+
+3° La mention "Usage professionnel".

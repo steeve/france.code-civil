@@ -29,5 +29,5 @@ de santé publique.
 La prescription par un médecin exerçant au sein d'un établissement de
 transfusion sanguine, d'un service de dialyse à domicile ou d'un centre
 spécialisé de soins aux toxicomanes et la délivrance aux malades qui y sont
-traités ne sont autorisées que si l'autorisation de mise sur le marché les
-prévoit expressément.
+traités ne sont autorisées que si l'autorisation de mise sur le marché ou
+l'autorisation temporaire d'utilisation les prévoit expressément.

@@ -23,7 +23,8 @@ traitement desquelles le médicament est habituellement utilisé.
 La prescription initiale par un médecin exerçant au sein d'un établissement de
 transfusion sanguine, d'un service de dialyse à domicile ou d'un centre
 spécialisé de soins aux toxicomanes n'est autorisée que si l'autorisation de
-mise sur le marché le prévoit expressément.
+mise sur le marché ou l'autorisation temporaire d'utilisation le prévoit
+expressément.
 
 Lorsque les caractéristiques du médicament le justifient, l'autorisation de mise
 sur le marché ou l'autorisation temporaire d'utilisation peut fixer le délai au

@@ -8,4 +8,10 @@ renouvellement, de la présentation simultanée de l'ordonnance initiale.
 Si la prescription du médicament est réservée à certaines catégories de
 prescripteurs en application du 2° de l'article R. 5143-5-5, le pharmacien
 s'assure que la qualification ou le titre du prescripteur apparaissant sur
-l'ordonnance est conforme à ce que prévoit l'autorisation de mise sur le marché.
+l'ordonnance est conforme à ce que prévoit l'autorisation de mise sur le marché
+ou l'autorisation temporaire d'utilisation.
+
+Si la prescription d'un médicament est soumise aux dispositions du quatrième
+alinéa de l'article R. 5143-5-4 ou du 3° de l'article R. 5143-5-5, le pharmacien
+s'assure que les mentions prévues par ces dispositions figurent sur
+l'ordonnance.
