@@ -1,10 +1,16 @@
 Article D212-14
 ----
-Les demandes de dérogation, accompagnées des justifications utiles et de l'avis
-du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent,
-sont adressées par l'employeur à l'inspecteur du travail [*autorité
-compétente*].
+En cas d'urgence, l'employeur peut déroger sous sa propre responsabilité, dans
+les hypothèses envisagées à l'article D. 212-12, à la limitation de la durée
+quotidienne du travail. S'il n'a pas encore adressé de demande de dérogation, il
+doit présenter immédiatement à l'inspecteur du travail une demande de
+régularisation accompagnée des justifications et avis mentionnés à l'article D.
+212-13 et de toutes explications nécessaires sur les causes ayant nécessité une
+prolongation de la durée quotidienne du travail sans autorisation préalable.
 
-Dans un délai maximum de quinze jours suivant la date de réception de la
-demande, l'inspecteur du travail fait connaître sa décision à l'employeur ainsi
-que, s'il y a lieu, aux représentants du personnel.
+S'il se trouve dans l'attente d'une réponse à une demande de dérogation, il doit
+informer immédiatement l'inspecteur du travail de l'obligation où il s'est
+trouvé d'anticiper la décision attendue et en donner les raisons.
+
+Dans l'un et l'autre cas, l'inspecteur du travail fait connaître sa décision
+selon les modalités prévues au deuxième alinéa de l'article D. 212-13.

@@ -1,11 +1,5 @@
 Article D212-17
 ----
-Une convention ou un accord collectif étendu ou un accord collectif d'entreprise
-ou d'établissement peut prévoir le dépassement de la durée maximale quotidienne
-de travail, fixée par le deuxième alinéa de l'article L. 212-1 à condition que
-ce dépassement n'ait pas pour effet de porter la durée quotidienne de travail
-effectif à plus de douze heures [*maximum*].
-
-Les accords collectifs d'entreprise ou d'établissement visés à l'alinéa
-ci-dessus doivent, pour entrer en vigueur, ne pas avoir fait l'objet de
-l'opposition prévue par l'article L. 132-26.
+Les dispositions de la présente section sont applicables aux établissements
+visés à l'article L. 620-2 du code du travail, à l'exception de ceux visés par
+les décrets n° 83-40 du 26 janvier 1983 et n° 83-1111 du 19 décembre 1983.

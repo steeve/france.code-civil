@@ -1,24 +1,17 @@
 Article D212-12
 ----
-Dans les établissements où l'activité présente des variations saisonnières
-importantes [*conditions*] , il peut être substitué à la période prévue à
-l'article D. 212-6, après avis du comité d'entreprise ou, à défaut, des délégués
-du personnel, une autre période, dont la durée ne doit pas excéder deux mois,
-déterminée en fonction des exigences de fonctionnements propres à
-l'établissement. Cette procédure peut être mise en oeuvre, au choix de
-l'employeur, soit au niveau de l'établissement, soit au niveau de l'entreprise.
+Dans les établissements et professions assujetties à la réglementation de la
+durée du travail, et pour lesquels est intervenu un décret pris en application
+de l'article L. 212-2, à l'exception des entreprises de transport soumises au
+contrôle technique du ministère des transports, le dépassement de la durée
+quotidienne du travail effectif, fixée à dix heures par le deuxième alinéa de
+l'article L. 212-1, peut être autorisé dans tous les cas où un surcroît
+temporaire d'activité est imposé, notamment pour l'un des motifs ci-après.
 
-L'employeur est tenu d'en aviser l'inspecteur du travail dans un délai de deux
-semaines [*obligations*] .
+Travaux devant être exécutés dans un délai déterminé en raison de leur nature,
+des charges imposées à l'entreprise ou des engagements contractés par celle-ci ;
 
-Toutefois, lorsque les conditions de fonctionnement de l'établissement
-présentent des particularités de nature à justifier une dérogation à la durée
-maximum de deux mois prévue au premier alinéa du présent article, l'employeur
-peut en adresser la demande à l'inspecteur du travail qui la transmet au
-directeur du travail.
+Travaux saisonniers ;
 
-Cette demande doit être motivée et accompagnée de l'avis du comité d'entreprise
-ou, à défaut, de celui des délégués du personnel. Le directeur du travail prend
-sa décision au vu d'un rapport établi par l'inspecteur du travail indiquant,
-notamment, si la situation de l'établissement est de nature à justifier l'octroi
-de la dérogation sollicitée.
+Travaux impliquant une activité accrue pendant certains jours de la semaine, du
+mois ou de l'année.
