@@ -18,29 +18,59 @@ Pour les différents groupes de produits mentionnés aux alinéas précédents, 
 taux normal du droit de consommation applicable dans les départements de Corse
 est fixé conformément au tableau ci-après :
 
-GROUPE DE PRODUITS : Cigarettes
 
-TAUX NORMAL (en %) : 34,5
+GROUPE DE PRODUITS
 
-GROUPE DE PRODUITS : Cigares
+Cigarettes
 
-TAUX NORMAL (en %) : 10
+TAUX NORMAL (en %)
 
-GROUPE DE PRODUITS : Tabacs fine coupe destinés à rouler les cigarettes
+34,5
 
-TAUX NORMAL (en %) : 27
 
-GROUPE DE PRODUITS : Autres tabacs à fumer
+GROUPE DE PRODUITS
 
-TAUX NORMAL (en %) : 22
+Cigares
 
-GROUPE DE PRODUITS : Tabacs à priser
+TAUX NORMAL (en %)
 
-TAUX NORMAL (en %) : 15
+10
 
-GROUPE DE PRODUITS : Tabacs à mâcher
 
-TAUX NORMAL (en %) : 13.
+GROUPE DE PRODUITS
+
+Tabacs fine coupe destinés à rouler les cigarettes
+
+TAUX NORMAL (en %)
+
+27
+
+
+GROUPE DE PRODUITS
+
+Autres tabacs à fumer
+
+TAUX NORMAL (en %)
+
+22
+
+
+GROUPE DE PRODUITS
+
+Tabacs à priser
+
+TAUX NORMAL (en %)
+
+15
+
+
+GROUPE DE PRODUITS
+
+Tabacs à mâcher
+
+TAUX NORMAL (en %)
+
+13
 
 II. - Pour les cigarettes, le prix de vente au détail appliqué dans les
 départements de Corse est au moins égal à 68 % des prix de vente continentaux
@@ -73,9 +103,9 @@ de contributions indirectes.
 V. - Le produit du droit de consommation est affecté au financement de travaux
 de mise en valeur de la Corse et versé à concurrence :
 
-a. d'un quart au budget des départements de la Corse ;
+- d'un quart au budget des départements de la Corse ;
 
-b. de trois quarts au budget de la collectivité territoriale de Corse.
+- de trois quarts au budget de la collectivité territoriale de Corse.
 
 VI. - Les unités de conditionnement doivent être revêtues des mentions
 prescrites par l'administration.
