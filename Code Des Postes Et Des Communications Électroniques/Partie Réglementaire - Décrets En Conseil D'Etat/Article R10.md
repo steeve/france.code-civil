@@ -1,69 +1,46 @@
 Article R10
 ----
-Au sens du présent article, on entend par " utilisateur d'un réseau de
-télécommunications " l'abonné au service de télécommunications ou le tiers
-déclaré utilisateur du service par le titulaire de l'abonnement.
+Toute personne ayant souscrit un abonnement au service téléphonique au public a
+le droit de figurer gratuitement sur une liste d'abonnés ou d'utilisateurs
+destinée à être publiée.
 
-En vertu de l'article L. 33-4 du présent code, la mise à disposition du public,
-à titre gratuit ou onéreux, de listes d'utilisateurs des réseaux de
-télécommunications ouverts au public est soumise à déclaration préalable.
+Elle peut obtenir gratuitement de l'opérateur auprès duquel elle est abonnée ou
+au distributeur de ce service :
 
-Ne sont notamment pas soumis à déclaration les répertoires ou annuaires destinés
-à l'usage interne des membres d'un groupement de personnes, dès lors qu'ils sont
-directement associés à l'objet du groupement ou que les numéros du service de
-télécommunications n'y figurent qu'à titre accessoire.
+1. De ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées
+ou susceptibles d'être consultées par les services universels de renseignements
+;
 
-La déclaration prévue à l'article L. 33-4 du code des postes et
-télécommunications est effectuée pour chaque nouvelle édition de la publication
-par l'éditeur de la publication ou, annuellement, par le responsable du service
-en cas d'accès par voie télématique à la liste d'utilisateurs.
+2. Que ces listes ne comportent pas l'adresse complète de son domicile sauf
+lorsque l'activité professionnelle mentionnée consiste à fournir des biens ou
+des services aux consommateurs ;
 
-Elle précise :
+3. Que ces listes ne comportent pas de référence à son sexe, sous réserve
+d'absence d'homonymie sur la même liste ;
 
-1. Le nom ou la raison sociale, l'objet social, le domicile ou le siège social
-du déclarant ;
+4. Que les données à caractère personnel la concernant issues des listes
+d'abonnés ou d'utilisateurs ne soient pas utilisées dans des opérations de
+prospection directe soit par voie postale, soit par voie de communications
+électroniques, sans préjudice des dispositions de l'article L. 34-5, à
+l'exception des opérations concernant la fourniture du service téléphonique au
+public et relevant de la relation contractuelle entre l'opérateur et l'abonné.
 
-2. La dénomination de la publication et des services de télécommunications
-fournis aux utilisateurs figurant dans cette liste ;
+5. Que ces données ne soient pas mentionnées sur des listes d'abonnés ou
+d'utilisateurs permettant la recherche inversée de l'identité de l'abonné et de
+l'utilisateur à partir de son numéro de téléphone.
 
-3. L'origine et les modalités de collecte des informations recueillies auprès
-des utilisateurs démarchés ou de tiers en vue de leur publication dans la liste
-déclarée ;
+Les abonnés sont informés par les opérateurs ou leurs distributeurs des droits
+mentionnés aux alinéas précédents au moment où ils souscrivent leur abonnement.
+Ces droits peuvent être exercés au moment de la souscription de l'abonnement ou,
+ultérieurement, à tout moment, auprès de l'opérateur ou du distributeur du
+service.
 
-4. Les caractéristiques de présentation de cette liste et les types
-d'informations qui y figureront ;
+Les abonnés qui ont demandé le bénéfice des dispositions prévues au 1 ci-dessus
+bénéficient de plein droit des dispositions du 4.
 
-5. Les conditions de la mise à disposition du public de la liste d'utilisateurs.
-
-Elle est accompagnée :
-
-1. D'un exemplaire de la liste d'utilisateurs ; pour les listes accessibles par
-voie télématique, le déclarant met à la disposition de la direction générale des
-postes et télécommunications du ministère chargé des télécommunications un accès
-permanent et gratuit au service télématique ;
-
-2. D'une copie de l'acte réglementaire pris en application de l'article 15 de la
-loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés ou du récépissé de déclaration délivré par la Commission nationale de
-l'informatique et des libertés en application de son article 16.
-
-3. De l'engagement de l'éditeur de la publication ou du responsable du service
-télématique de ne pas utiliser à des fins autres que l'édition de la liste
-d'utilisateurs les informations nominatives figurant sur cette liste.
-
-La déclaration est effectuée auprès de la direction générale des postes et
-télécommunications du ministère chargé des télécommunications.
-
-Il est délivré un récépissé de la déclaration à la réception du dossier complet.
-
-Tout changement portant sur un des éléments énumérés aux paragraphes 1 à 5 du
-présent article fait l'objet d'une déclaration selon les modalités prévues
-ci-dessus.
-
-Toute personne qui, sans avoir fait la déclaration préalable prévue au présent
-article, aura mis à la disposition du public une liste d'utilisateurs d'un
-réseau de télécommunications ouvert au public sera punie de la peine d'amende
-prévue pour les contraventions de la cinquième classe.
-
-En cas de récidive, le contrevenant sera puni de l'amende prévue pour la
-récidive des contraventions de la 5e classe.
+Les abonnés qui ont opté pour un mode de règlement entièrement prépayé de leurs
+communications et qui n'ont aucun engagement contractuel de durée avec leur
+opérateur doivent, pour figurer sur les listes d'abonnés ou d'utilisateurs
+mentionnées au premier alinéa, formuler une demande auprès de leur opérateur ou
+distributeur. Ils fournissent à cette fin les renseignements prévus au I de
+l'article R. 10-3.

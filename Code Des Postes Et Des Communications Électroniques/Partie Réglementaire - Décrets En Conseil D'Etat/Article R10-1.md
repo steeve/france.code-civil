@@ -1,12 +1,15 @@
 Article R10-1
 ----
-Les personnes physiques ayant souscrit un abonnement au service du téléphone
-fixe ou du télex peuvent, en application de l'article 26 de la loi n° 78-17 du 6
-janvier 1978, demander, sans redevance supplémentaire, à ne pas figurer sur les
-extraits des listes d'utilisateurs, commercialisés par l'exploitant public.
+Le fait d'utiliser, dans des opérations de prospection directe, des données à
+caractère personnel contenues dans les listes d'abonnés ou d'utilisateurs du
+service téléphonique au public relatives aux personnes ayant exprimé leur
+opposition, par application des dispositions du 4 de l'article R. 10, quel que
+soit le mode d'accès à ces données, est puni, pour chaque correspondance ou
+chaque appel, de l'amende prévue pour les contraventions de la quatrième classe,
+sans préjudice de l'application du premier alinéa de l'article 226-18 du code
+pénal.
 
-Est interdit l'usage par quiconque, à des fins commerciales ou de diffusion dans
-le public, des informations nominatives extraites des listes d'utilisateurs et
-concernant les personnes mentionnées à l'alinéa précédent. Toutefois, ces
-informations peuvent être utilisées ou communiquées aux seules fins d'édition
-des listes d'utilisateurs mentionnés à l'article R. 10.
+La prospection directe des personnes physiques en violation des dispositions du
+premier alinéa de l'article L. 34-5 est punie, pour chaque communication, de
+l'amende prévue pour les contraventions de la quatrième classe, sans préjudice
+de l'application du premier alinéa de l'article 226-18 du code pénal.
