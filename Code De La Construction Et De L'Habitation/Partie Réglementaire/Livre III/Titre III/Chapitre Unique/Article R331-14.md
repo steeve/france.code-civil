@@ -1,14 +1,13 @@
 Article R331-14
 ----
-Pour les opérations de construction, la décision favorable prise dans les
-conditions prévues aux articles R. 331-3 et R. 331-6 porte agrément de
+La décision favorable portant octroi de subvention de l'Etat, prise dans les
+conditions prévues aux articles R. 331-3 et R. 331-6, porte agrément de
 l'opération. Elle ouvre droit à des prêts accordés par la Caisse des dépôts et
-consignations. Elle peut être suivie d'une décision du préfet portant octroi de
-subventions de l'Etat dans les limites fixées par la présente sous-section.
+consignations.
 
-Pour les autres opérations, la décision favorable prise dans les conditions
-prévues aux articles R. 331-3 et R. 331-6 ouvre droit, dans les limites fixées
-par la présente sous-section, à des subventions de l'Etat et à des prêts
+Pour les opérations ne bénéficiant pas de subventions prévues à l'article R.
+331-15, la décision favorable, prise dans les conditions prévues aux articles R.
+331-3 et R. 331-6, porte agrément de l'opération. Elle ouvre droit à des prêts
 accordés par la Caisse des dépôts et consignations.
 
 Ces subventions et ces prêts peuvent être attribués à :
