@@ -1,8 +1,10 @@
 Article 252-1
 ----
-La tentative de conciliation peut être suspendue et reprise sans formalité, en
-ménageant aux époux des temps de réflexion dans une limite de huit jours.
+Lorsque le juge cherche à concilier les époux, il doit s'entretenir
+personnellement avec chacun d'eux séparément avant de les réunir en sa présence.
 
-Si un plus long délai paraît utile, le juge peut décider de suspendre la
-procédure et de recourir à une nouvelle tentative de conciliation dans les six
-mois au plus. Il ordonne, s'il y a lieu, les mesures provisoires nécessaires.
+Les avocats sont ensuite appelés à assister et à participer à l'entretien.
+
+Dans le cas où l'époux qui n'a pas formé la demande ne se présente pas à
+l'audience ou se trouve hors d'état de manifester sa volonté, le juge
+s'entretient avec l'autre conjoint et l'invite à la réflexion.

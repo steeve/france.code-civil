@@ -1,4 +1,4 @@
 Article 259-1
 ----
-Un époux ne peut verser aux débats les lettres échangées entre son conjoint et
-un tiers qu'il aurait obtenues par violence ou fraude.
+Un époux ne peut verser aux débats un élément de preuve qu'il aurait obtenu par
+violence ou fraude.

@@ -1,11 +1,13 @@
 Article 265
 ----
-Le divorce est réputé prononcé contre un époux s'il a eu lieu à ses torts
-exclusifs. Il est aussi réputé prononcé contre l'époux qui a pris l'initiative
-du divorce lorsqu'il a été obtenu en raison de la rupture de la vie commune.
+Le divorce est sans incidence sur les avantages matrimoniaux qui prennent effet
+au cours du mariage et sur les donations de biens présents quelle que soit leur
+forme.
 
-L'époux contre lequel le divorce est prononcé perd les droits que la loi ou des
-conventions passées avec des tiers attribuent au conjoint divorcé.
-
-Ces droits ne sont pas perdus en cas de partage des torts ou de divorce par
-consentement mutuel.
+Le divorce emporte révocation de plein droit des avantages matrimoniaux qui ne
+prennent effet qu'à la dissolution du régime matrimonial ou au décès de l'un des
+époux et des dispositions à cause de mort, accordés par un époux envers son
+conjoint par contrat de mariage ou pendant l'union, sauf volonté contraire de
+l'époux qui les a consentis. Cette volonté est constatée par le juge au moment
+du prononcé du divorce et rend irrévocables l'avantage ou la disposition
+maintenus.

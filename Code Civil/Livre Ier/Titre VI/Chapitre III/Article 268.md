@@ -1,5 +1,7 @@
 Article 268
 ----
-Quand le divorce est prononcé sur demande conjointe, les époux décident
-eux-mêmes du sort des donations et avantages qu'ils s'étaient consentis ; s'ils
-n'ont rien décidé à cet égard, ils sont censés les avoir maintenus.
+Les époux peuvent, pendant l'instance, soumettre à l'homologation du juge des
+conventions réglant tout ou partie des conséquences du divorce.
+
+Le juge, après avoir vérifié que les intérêts de chacun des époux et des enfants
+sont préservés, homologue les conventions en prononçant le divorce.

@@ -9,7 +9,8 @@ formalité ait été exécutée, alors même que le délai pour y procéder ne s
 pas encore expiré.
 
 Sont exceptés les actes de cette nature qui se signifient à partie ou par
-affiches et proclamations.
+affiches et proclamations ainsi que les copies exécutoires des jugements de
+divorce rendus en application de l'article 232 du code civil.
 
 Les notaires peuvent, toutefois, faire des actes en vertu ou en conséquence
 d'actes dont le délai d'enregistrement ou d'exécution de la formalité fusionnée

@@ -1,8 +1,10 @@
 Article 266
 ----
-Quand le divorce est prononcé aux torts exclusifs de l'un des époux, celui-ci
-peut être condamné à des dommages-intérêts en réparation du préjudice matériel
-ou moral que la dissolution du mariage fait subir à son conjoint.
+Sans préjudice de l'application de l'article 270, des dommages et intérêts
+peuvent être accordés à un époux en réparation des conséquences d'une
+particulière gravité qu'il subit du fait de la dissolution du mariage soit
+lorsqu'il était défendeur à un divorce prononcé pour altération définitive du
+lien conjugal et qu'il n'avait lui-même formé aucune demande en divorce, soit
+lorsque le divorce est prononcé aux torts exclusifs de son conjoint.
 
-Ce dernier ne peut demander des dommages-intérêts qu'à l'occasion de l'action en
-divorce.
+Cette demande ne peut être formée qu'à l'occasion de l'action en divorce.

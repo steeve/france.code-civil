@@ -1,4 +1,4 @@
 Article 237
 ----
-Un époux peut demander le divorce, en raison d'une rupture prolongée de la vie
-commune, lorsque les époux vivent séparés de fait depuis six ans.
+Le divorce peut être demandé par l'un des époux lorsque le lien conjugal est
+définitivement altéré.
