@@ -1,107 +1,95 @@
 Article R332-2
 ----
-Sous réserve des dispositions des articles R. 332-1 et des articles R. 332-4 à
-R. 332-7, les provisions techniques mentionnées aux articles R. 331-3, R. 331-5
-et R. 331-6 sont représentées par les actifs suivants :
+Sous réserve des dispositions de l'article R. 332-1 et des dérogations prévues
+aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à
+l'article R. 331-1 sont représentés par les actifs suivants :
 
-1° Valeurs émises par l'Etat français ou jouissant de sa garantie, inscrites à
-la cote officielle des bourses françaises de valeurs ou en instance
-d'inscription, ainsi que les portions de coupons attachés à celles de ces
-valeurs évaluées selon les règles de l'article R. 332-19, courues à la clôture
-de chaque exercice ;
+A. - Valeurs mobilières et titres assimilés.
 
-2° Autres obligations inscrites à la cote officielle des bourses françaises de
-valeurs ou en instance d'inscription, ainsi que les portions de coupons attachés
-aux mêmes obligations évaluées selon les règles de l'article R. 332-19, courues
-à la clôture de chaque exercice ;
+1° Obligations et titres participatifs inscrits à la cote officielle des bourses
+françaises de valeurs ou en instance d'inscription ;
+
+2° Obligations non cotées émises par l'Etat ou jouissant de sa garantie et
+obligations non cotées émises par le Crédit foncier et communal d'Alsace et de
+Lorraine avant le 15 décembre 1972 ;
 
 3° Actions des sociétés d'investissement à capital variable et parts des fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
-valeurs mentionnées aux 1° et 2° ci-dessus.
+valeurs mentionnées au 1° ci-dessus :
 
-4° Actions, parts et autres valeurs mobilières inscrites à la cote officielle ou
-à la cote du second marché des bourses françaises de valeurs.
+4° Actions et autres valeurs mobilières inscrites à la cote officielle ou à la
+cote du second marché des bourses françaises de valeurs, autres que celles
+mentionnées aux 7° et 8° ;
 
-4° bis Actions et parts de sociétés commerciales françaises non inscrites à la
-cote officielle ou à la cote du second marché des bourses françaises de valeurs,
-ainsi que les parts de fonds communs de placement à risques.
+5° Actions, parts et droits émis par des sociétés commerciales françaises, à
+l'exception des valeurs mentionnées aux 4° et 7° ;
 
-5° Valeurs mobilières étrangères ayant fait l'objet d'une émission publique ou
-inscrites à la cote d'une bourse de valeurs, dans les conditions déterminées par
-arrêté du ministre de l'économie et des finances ;
+6° Parts de fonds communs de placement à risques, dans les conditions fixées par
+arrêté du ministre chargé de l'économie et des finances ;
 
-6° Actions de sociétés d'investissement à capital variable et parts de fonds
-communs de placement, dans les conditions déterminées par arrêté du ministre de
-l'économie.
+7° Actions d'entreprises françaises d'assurance, de réassurance ou de
+capitalisation ;
 
-7° Immeubles bâtis en France métropolitaine.
+8° Actions d'entreprises étrangères d'assurance dans les conditions fixées dans
+chaque cas par le ministre chargé de l'économie et des finances ;
 
-Tous autres immeubles situés en France métropolitaine et dans les départements
-et territoires d'outre-mer, sur autorisation donnée dans chaque cas par le
-ministre de l'économie et des finances.
+9° Actions de sociétés d'investissement à capital variable et parts de fonds
+communs de placement, autres que celles mentionnées aux 3° et 6°, dans les
+conditions déterminées par arrêté du ministre chargé de l'économie et des
+finances.
 
-Parts ou actions de sociétés immobilières non inscrites à la cote officielle où
-la cote du second marché des bourses françaises de valeurs, dans les conditions
-déterminées dans chaque cas par le ministre de l'économie et des finances.
+B. - Actifs immobiliers.
 
-Droits réels immobiliers donnant à leurs titulaires les prérogatives du
-propriétaire pendant une durée au moins égale à trente ans ;
+10° Immeubles bâtis situés sur le territoire de la République française ;
 
-8° Billets émis et négociables sur le marché hypothécaire, conformément aux
-règles de fonctionnement de ce marché ;
+11° Immeubles non bâtis situés sur le territoire de la République française et
+parts de sociétés civiles à objet foncier, sur autorisation donnée cas par cas
+par le ministre chargé de l'économie et des finances ;
 
-9° Prêts en première hypothèque sur tous immeubles et ouvertures de crédits
-hypothécaires consenties en vue de la construction d'immeubles d'habitation, à
-condition que les immeubles soient situés en France métropolitaine ou dans les
-départements et territoires d'outre-mer et que, sauf dérogation accordée par le
-ministre de l'économie et des finances, l'ensemble des hypothèques en premier
-rang sur un même immeuble n'excède pas 80 p. 100 de la valeur estimative dudit
-immeuble.
+12° Droits réels immobiliers ;
 
-Prêts garantis par des hypothèques maritimes en premier rang, dans les
-conditions déterminées par décret ;
+13° Parts ou actions de sociétés immobilières non inscrites à la cote officielle
+ou à la cote du second marché des bourses françaises de valeurs, dans les
+conditions déterminées dans chaque cas par le ministre chargé de l'économie et
+des finances.
 
-10° Prêts aux communes, syndicats de communes, communautés urbaines, districts,
-établissements publics hospitaliers, départements, régions, territoires
-d'outre-mer, et obligations libérées émises par lesdites collectivités.
+C. - Prêts, bons et dépôts
 
-Prêts aux organismes d'habitation à loyer modéré mentionnés à l'article 159 du
-code de l'urbanisme et de l'habitation, aux coopératives de construction et aux
-sociétés d'économie mixte de construction de logements, et obligations libérées
-émises par lesdits organismes. Chacun de ces prêts ou obligations doit
-bénéficier de la garantie totale et inconditionnelle de la collectivité local
-intéressée. Cette garantie doit avoir pour effet de substituer, immédiatement et
-sans réserve, la collectivité garante au débiteur défaillant.
+14° Prêts aux collectivités territoriales et à leurs établissements publics
+administratifs ;
 
-Prêts aux ports autonomes ou aux chambres de commerce garantis par des péages ou
-autres rémunérations de services, et obligations libérées émises par lesdits
-organismes ;
+15° Prêts aux établissements publics de l'Etat. Toutefois, les prêts aux
+établissements de crédit sont autorisés cas par cas par le ministre de
+l'économie et des finances.
 
-10° bis Les prêts consentis à des sociétés d'assurance à forme mutuelle dans les
-conditions prévues à l'article R. 322-74 et sur autorisation donnée cas par cas
-par le ministre de l'économie.
+16° Prêts aux organismes d'habitation à loyer modéré, aux coopératives de
+construction et aux sociétés d'économie mixte de construction de logements, dans
+les conditions déterminées à l'article R. 332-12 ;
 
-11° Prêts ou effets représentatifs de prêts aux entreprises industrielles et
-commerciales dans les conditions et avec les garanties déterminées par arrêté du
-ministre de l'économie et des finances.
+17° Prêts consentis à des sociétés d'assurance à forme mutuelle, dans les
+conditions prévues à l'article R. 332-74 et sur autorisation donnée cas par cas
+par le ministre chargé de l'économie et des finances ;
 
-12° Prêts sur les valeurs mentionnées aux 1° et 15° du présent article, dans la
-limite de 75 p. 100 au plus de leur montant nominal ;
+18° Dans les conditions déterminées à l'article R. 332-13, prêts aux entreprises
+industrielles et commerciales. Toutefois, les prêts aux établissements de crédit
+sont autorisés cas par cas par le ministre chargé de l'économie et des finances.
 
-13° Parts ou actions d'entreprises étrangères d'assurances dans lesquelles des
-entreprises françaises d'assurance, de réassurance ou de capitalisation,
-individuellement ou collectivement, possèdent une participation au moins égale à
-20 p. 100 du capital social. Ces valeurs sont admises en représentation des
-provisions techniques dans les conditions fixées, dans chaque cas, par le
-ministre de l'économie et des finances ;
+19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions
+fixées à l'article R. 332-14 ;
 
-14° Créances nettes sur le fonds de garantie prévu par la législation sur les
-accidents du travail, sur le fonds de garantie institué par l'article L. 420-1
-et sur le fonds institué par l'article 2 de la loi n° 74-1118 du 27 décembre
-1974 ;
+20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à
+l'article R. 332-15 ;
 
-15° Bons du Trésor et autres valeurs, à court ou moyen terme, figurant sur une
-liste fixée par arrêté du ministre de l'économie et des finances ;
+21° Billets négociables sur le marché hypothécaire ;
 
-16° Fonds déposés chez les comptables du Trésor, aux chèques postaux et dans les
-banques.
+22° Bons figurant sur une liste établie par le ministre chargé de l'économie et
+des finances ;
+
+23° Bons du Trésor ;
+
+24° Dépôts auprès des comptables du Trésor, des centres de chèques postaux, de
+la Banque de France, de la Caisse des dépôts et consignations et des
+établissements de crédit.
+
+Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits
+placements.
