@@ -9,7 +9,11 @@ pour un même secteur de produits tel qu'il est défini au 2° de l'article L.
 
 Les comités économiques agricoles doivent être soit des syndicats agricoles
 régis par le livre IV du code du travail, soit des associations régies par la
-loi du 1er juillet 1901 ; toutefois, l'adhésion ne peut être refusée à un
-groupement de producteurs reconnu qui en ferait la demande.
+loi du 1er juillet 1901 ; toutefois, l'adhésion ne peut être refusée à une
+organisation de producteurs reconnu qui en ferait la demande.
 
 Les comités économiques agricoles édictent des règles communes à leurs membres.
+
+Les comités économiques agricoles contribuent à la mise en oeuvre des politiques
+économiques nationales et communautaires et peuvent être consultés sur les
+orientations de la politique de filière les concernant.

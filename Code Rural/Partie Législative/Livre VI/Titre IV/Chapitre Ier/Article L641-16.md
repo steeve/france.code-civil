@@ -1,21 +1,20 @@
 Article L641-16
 ----
-Le comité national peut, dans les mêmes conditions que les syndicats
-professionnels constitués conformément aux dispositions du chapitre Ier du titre
-Ier du livre IV du code du travail, contribuer à la défense des appellations
-d'origine en France et à l'étranger, collaborer à cet effet avec les syndicats
-formés pour la défense de ces appellations, ester en justice pour cette défense.
+Afin d'appliquer les mesures de gestion du potentiel de production des vins de
+qualité produits dans les régions déterminées (VQPRD) prévues dans le cadre de
+l'organisation commune du marché vitivinicole, le ministre de l'agriculture et
+celui chargé de l'économie et des finances, par arrêté pris conjointement sur
+proposition de l'Institut national des appellations d'origine après avis des
+syndicats de défense intéressés, fixent, par appellation ou groupe
+d'appellations, les contingents de plantations nouvelles, de transferts de
+droits de replantations, de replantations internes aux exploitations et du
+surgreffage, et définissent les critères de répartition de ces contingents.
 
-Ce comité peut demander le commissionnement d'agents de la répression des
-fraudes, en vue de contribuer à l'application des lois et règlements en vigueur,
-notamment en ce qui concerne la sincérité des déclarations de récolte avec
-appellations d'origine et le respect des décisions définissant ces appellations.
+Les autorisations de plantations nouvelles, de transfert de droits de
+replantation, de replantations internes aux exploitations et de surgreffage sont
+délivrées par arrêté pris conjointement par le ministre de l'agriculture et
+celui chargé de l'économie et des finances sur proposition de l'Institut
+national des appellations d'origine après avis des syndicats de défense
+intéressés.
 
-Ces agents peuvent contrôler les cépages employés par les récoltants des
-diverses appellations.
-
-Quand le comité national délibère sur toutes les questions relatives au commerce
-international et à la protection des appellations d'origine à l'étranger, il lui
-est adjoint cinq délégués du commerce d'exportation des vins et spiritueux,
-nommés par le ministre de l'agriculture, un représentant du ministre chargé du
-commerce et un représentant du ministre des affaires étrangères.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

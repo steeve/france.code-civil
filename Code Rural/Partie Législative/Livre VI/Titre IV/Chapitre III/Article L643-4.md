@@ -19,3 +19,9 @@ janvier 1994, d'un label agricole ou d'une certification de conformité peuvent
 continuer de porter une mention d'origine géographique sans bénéficier d'une
 indication géographique protégée pendant une période de huit ans à compter de la
 date précitée.
+
+Par dérogation aux dispositions du premier alinéa, pour les produits de la pêche
+maritime, un label agricole ou une certification de conformité peut comporter
+une mention géographique qui n'est pas enregistrée comme indication géographique
+protégée ou reconnue comme appellation d'origine contrôlée. Les obligations
+d'information des consommateurs prévues à l'article L. 642-4 sont applicables.

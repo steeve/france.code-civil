@@ -10,6 +10,10 @@ naturels ou fabriqués, mis en vente ou destinés à être mis en vente, des
 appellations d'origine qu'il savait inexactes sera puni des peines prévues à
 l'article L. 213-1.
 
+"Sera puni des mêmes peines quiconque aura utilisé un mode de présentation
+faisant croire ou de nature à faire croire qu'un produit bénéficie d'une
+appellation contrôlée.
+
 "Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux
 qu'il désignera et son insertion intégrale ou par extraits dans les journaux
 qu'il indiquera, le tout aux frais du condamné.

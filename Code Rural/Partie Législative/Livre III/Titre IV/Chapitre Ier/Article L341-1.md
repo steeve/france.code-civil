@@ -1,25 +1,46 @@
 Article L341-1
 ----
-L'aide financière de l'Etat, sous forme de prêts, et notamment de prêts spéciaux
-à long terme, de subventions, de remises partielles ou totales d'impôts ou de
-taxe, est accordée en priorité aux exploitants agricoles, aux sociétés de
-culture et aux regroupements d'exploitants, en vue de leur permettre de se
-rapprocher des conditions optimales résultant des études prévues à l'article L.
-312-6 pour les encourager, notamment :
+I. - L'aide financière de l'Etat aux exploitants agricoles prend la forme de
+subventions, de prêts ou de bonifications d'intérêts, de remises partielles ou
+totales d'impôts ou de taxes. Ces aides sont modulées et plafonnées sur la base
+de critères économiques de l'exploitation, du nombre d'actifs, de facteurs
+environnementaux et d'aménagement du territoire.
 
-1° Soit à s'installer, lorsqu'il s'agit de jeunes agriculteurs ;
+Les objectifs prioritaires de cette aide financière sont :
 
-2° Soit à agrandir, à grouper ou à convertir partiellement ou totalement leurs
-exploitations pour les rendre viables ;
+- l'installation de jeunes agriculteurs encouragée par la politique
+d'installation définie à l'article L. 330-1 ;
 
-3° Soit, grâce au développement des migrations rurales, à s'installer dans une
-autre région.
+- l'adaptation du système d'exploitation aux exigences économiques,
+environnementales et sociales, notamment dans le cadre des contrats territoriaux
+d'exploitation.
 
-Ces aides concourent également au développement de l'exercice, sous forme de
-société, des activités agricoles.
+Sauf lorsqu'elle a revêtu la forme de prêts, l'aide financière peut être
+interrompue si l'exploitation ne satisfait plus aux conditions de mise en valeur
+de l'espace agricole ou forestier mentionnées au schéma directeur départemental
+des structures agricoles défini à l'article L. 312-1 ou au projet agricole
+départemental défini à l'article L. 313-1, ou si les engagements souscrits dans
+le cadre du contrat territorial d'exploitation ne sont pas tenus. Dans tous les
+cas, elle peut donner lieu à remboursement si ces circonstances sont imputables
+à l'exploitant.
 
-Les comptes de l'aide financière ainsi consentie sont présentés chaque année au
-Parlement, en même temps que le rapport prévu à l'article 6 de la loi n° 60-808
-du 5 août 1960 d'orientation agricole. Ils devront autant que possible préciser
-par région, par importance d'exploitation et éventuellement par type de
-production les prêts et subventions accordés.
+II. - Lorsque, pendant la période d'engagement du titulaire d'un contrat
+territorial d'exploitation, une part de l'exploitation est transmise à une autre
+personne, le contrat peut être résilié.
+
+Lorsqu'il est fait application de l'un des modes d'aménagement foncier défini au
+titre II du livre Ier (nouveau) du présent code, conduisant à un changement
+d'exploitant pour tout ou partie de la surface dont l'exploitation a donné lieu
+à la signature d'un contrat territorial d'exploitation, le bénéfice des aides
+prévues par ce contrat est maintenu au bénéfice du contractant initial s'il est
+à même de tenir les engagements souscrits, soit que ces derniers soient sans
+lien avec les surfaces concernées par le changement, soit qu'ils puissent être
+transférés sur les surfaces attribuées ou conservées sans préjudicier aux
+objectifs du contrat. Lorsque le respect de l'intégralité des engagements ne
+peut être assuré, le contrat est selon les cas modifié par avenant ou résilié
+par l'autorité administrative.
+
+III. - Les litiges relatifs aux contrats territoriaux d'exploitation sont portés
+devant les tribunaux administratifs.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

@@ -10,3 +10,8 @@ circonstances, faire résilier le bail.
 
 En cas de résiliation provenant du fait du preneur, celui-ci est tenu des
 dommages et intérêts, ainsi qu'il est prévu à l'article L. 411-36.
+
+Le fait que le preneur applique sur les terres prises à bail des méthodes
+culturales ayant pour objet de protéger l'environnement, la qualité de l'eau ou
+des produits, ou de préserver la biodiversité, ne peut être invoqué à l'appui
+d'une demande de résiliation formée en application du présent article.

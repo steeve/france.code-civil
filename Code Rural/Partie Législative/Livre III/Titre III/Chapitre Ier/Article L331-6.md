@@ -1,12 +1,14 @@
 Article L331-6
 ----
-La déclaration ou la demande d'autorisation est adressée au préfet du
-département sur le territoire duquel est situé le fonds. Lorsque la demande
-d'autorisation porte sur un fonds n'appartenant pas au demandeur, celui-ci doit
-justifier qu'il en a préalablement informé le propriétaire.
-
-La déclaration prévue à l'article L. 331-4 est réputée enregistrée et
-l'opération correspondante peut être réalisée si, dans un délai d'un mois à
-compter de sa réception, le préfet n'a pas avisé le déclarant que l'opération
-relève du régime d'autorisation prévu aux articles L. 331-2 et L. 331-3 et sera,
-par suite, soumise par ses soins à la procédure définie à l'article L. 331-7.
+Tout preneur, lors de la conclusion d'un bail, doit faire connaître au bailleur
+la superficie et la nature des biens qu'il exploite ; mention expresse en est
+faite dans le bail. Si le preneur est tenu d'obtenir une autorisation
+d'exploiter en application de l'article L. 331-2, le bail est conclu sous
+réserve de l'octroi de ladite autorisation. Le refus définitif de l'autorisation
+ou le fait de ne pas avoir présenté la demande d'autorisation exigée en
+application de l'article L. 331-2 dans le délai imparti par l'autorité
+administrative en application du premier alinéa de l'article L. 331-7 emporte la
+nullité du bail que le préfet du département dans lequel se trouve le bien objet
+du bail, le bailleur ou la société d'aménagement foncier et d'établissement
+rural, lorsqu'elle exerce son droit de préemption, peut faire prononcer par le
+tribunal paritaire des baux ruraux.

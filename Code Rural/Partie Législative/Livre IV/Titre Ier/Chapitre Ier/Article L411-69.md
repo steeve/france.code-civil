@@ -7,7 +7,9 @@ par le bailleur, quelle que soit la cause qui a mis fin au bail.
 Sont assimilées aux améliorations les réparations nécessaires à la conservation
 d'un bâtiment indispensable pour assurer l'exploitation du bien loué ou
 l'habitation du preneur, effectuées avec l'accord du bailleur par le preneur et
-excédant les obligations légales de ce dernier.
+excédant les obligations légales de ce dernier. Il en est de même des travaux
+ayant pour objet de permettre d'exploiter le bien loué en conformité avec la
+législation ou la réglementation.
 
 En cas de vente du bien loué, l'acquéreur doit être averti par l'officier public
 ou ministériel chargé de la vente du fait qu'il supportera, à la sortie du

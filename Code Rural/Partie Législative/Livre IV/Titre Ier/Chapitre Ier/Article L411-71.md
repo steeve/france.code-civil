@@ -33,7 +33,10 @@ et L. 411-60 du présent code, et en ce qui concerne les travaux régulièrement
 exécutés en application des 1 et 3 du I de l'article L. 411-73 du présent code,
 l'indemnité est égale à la valeur au jour de l'expiration du bail des
 améliorations apportées compte tenu de leurs conditions techniques et
-économiques d'utilisation.
+économiques d'utilisation ;
+
+5° En ce qui concerne les travaux imposés par l'autorité administrative,
+l'indemnité est fixée comme au 1°, sauf accord écrit et préalable des parties.
 
 La part des travaux mentionnés au présent article dont le financement a été
 assuré par une subvention ne donne pas lieu à indemnité.

@@ -1,36 +1,47 @@
 Article L813-2
 ----
-L'établissement, pour lequel l'association ou l'organisme responsable a, en
-application de l'article L. 813-3 ou des conventions de formation
-professionnelles, conclu un contrat, concourt aux missions suivantes :
+Les formations de l'enseignement agricole privé peuvent s'étendre de la classe
+de quatrième du collège jusqu'à la dernière année de formation de techniciens
+supérieurs. Ces formations sont organisées de façon à faciliter les poursuites
+d'études, les changements d'orientation et le passage entre les formations sous
+contrats de travail de type particulier et celles sous statut scolaire. Les
+élèves, étudiants, apprentis et stagiaires disposent de l'ensemble des
+informations de nature à leur permettre l'élaboration d'un projet d'orientation.
+Ils bénéficient notamment d'une information sur l'évolution de la demande de
+qualification, les professions et les formations qui y préparent.
 
-1° Assurer une formation technologique et scientifique initiale qui conduise à
-des qualifications professionnelles ou à des spécialisations reconnues au sens
-de l'article 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur
-l'enseignement technologique ;
+Les formations assurées par l'enseignement et la formation professionnelle
+agricoles privés sont dispensées suivant des programmes et référentiels
+nationaux, qui en précisent respectivement le contenu et les objectifs et qui
+sont arrêtés soit par le ministre de l'agriculture, soit conjointement par le
+ministre de l'agriculture et le ministre de l'éducation nationale, soit par le
+ministre de l'éducation nationale. Ces formations sont organisées en cycles. Là
+où le besoin existe, des actions permettant la connaissance et la diffusion des
+langues et cultures régionales sont organisées dans les établissements.
 
-2° Assurer une formation professionnelle continue qui offre aux personnes
-énumérées à l'article L. 992-1 du code du travail la possibilité d'acquérir, de
-compléter, d'élargir, de diversifier ou de modifier une qualification ou une
-spécialisation ;
+Des enseignements artistiques sont assurés à titre obligatoire ou facultatif
+dans les établissements mentionnés au présent article.
 
-3° Participer à l'animation du milieu rural ;
+Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du
+code du travail, les formations dispensées par l'enseignement général,
+technologique et professionnel et la formation professionnelle agricoles privés
+sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus
+équivalents aux diplômes de même niveau de l'enseignement général, technologique
+et professionnel.
 
-4° Contribuer à la liaison entre les activités de développement,
-l'expérimentation et la recherche agricoles et para-agricoles.
+Chaque établissement privé d'enseignement et de formation professionnelle
+agricoles établit un projet d'établissement. Celui-ci définit les modalités
+particulières de mise en oeuvre des programmes et référentiels nationaux
+mentionnés à l'article L. 811-2 ainsi que les actions relevant de l'autonomie
+pédagogique de l'établissement. Il comporte une partie relative à l'évolution
+des structures pédagogiques.
 
-Ces formations peuvent s'étendre de la première année du cycle d'orientation
-jusqu'à la dernière année de formation de techniciens supérieurs. Elles doivent
-favoriser le passage des élèves au niveau supérieur et leur permettre, en outre,
-soit de s'orienter en cours d'études vers une voie différente, soit, s'ils
-proviennent de l'enseignement général technologique et professionnel, de
-s'intégrer dans une filière de formation agricole. A cet effet, peuvent être
-créées des classes préparatoires et des classes d'adaptation. Les élèves des
-établissements sous contrat ont accès au service d'orientation prévu à l'article
-L. 811-2.
+Le projet d'établissement est élaboré et adopté dans les conditions prévues par
+l'article 18 de la loi n° 89-486 du 10 juillet 1989 précitée pour une durée de
+trois à cinq ans.
 
-Sous réserve des dispositions du troisième alinéa (2°) du présent article,
-chaque établissement prépare à des diplômes d'Etat.
+La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans
+des conditions fixées par le ministre de l'agriculture.
 
-L'article L. 811-3 est applicable aux établissements d'enseignement agricoles
-privés sous contrat.
+Les dispositions de l'article L. 811-3 sont applicables aux établissements
+d'enseignement agricole privé sous contrat.

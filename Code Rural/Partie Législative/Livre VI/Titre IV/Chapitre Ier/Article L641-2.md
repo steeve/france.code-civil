@@ -13,12 +13,19 @@ l'objet de procédures d'agrément.
 L'appellation d'origine contrôlée ne peut jamais être considérée comme
 présentant un caractère générique et tomber dans le domaine public.
 
-Le nom géographique qui constitue l'appellation d'origine ou toute autre mention
-l'évoquant ne peuvent être employés pour aucun produit similaire, sans préjudice
-des dispositions législatives ou réglementaires en vigueur au 6 juillet 1990, ni
+Le nom qui constitue l'appellation d'origine ou toute autre mention l'évoquant
+ne peuvent être employés pour aucun produit similaire, sans préjudice des
+dispositions législatives ou réglementaires en vigueur au 6 juillet 1990, ni
 pour aucun autre produit ou service lorsque cette utilisation est susceptible de
 détourner ou d'affaiblir la notoriété de l'appellation d'origine.
 
 Les appellations d'origine vins délimités de qualité supérieure mentionnées à
 l'article L. 641-24 et celles qui sont en vigueur, le 1er juillet 1990, dans les
 départements d'outre-mer conservent leur statut.
+
+Après avis des syndicats de défense intéressés et, le cas échéant, de
+l'organisme de défense et de gestion visé à l'article L. 641-25, l'Institut
+national des appellations d'origine propose la reconnaissance des appellations
+d'origine contrôlées, laquelle comporte la délimitation de l'aire géographique
+de production et la détermination des conditions de production et d'agrément de
+chacune de ces appellations d'origine contrôlées.

@@ -1,16 +1,16 @@
 Article L551-2
 ----
-Les groupements de producteurs reconnus peuvent bénéficier de priorités et
-d'avantages particuliers dans l'attribution de l'aide que l'Etat pourra apporter
-pour l'organisation de la production ou pour le conditionnement, le stockage, la
-transformation, la commercialisation aux fins de vente en gros de produits
-agricoles. Les groupements de producteurs reconnus bénéficient également, à
-soumission égale, d'un droit de préférence dans les marchés par adjudication ou
-appel d'offres de l'Etat, des collectivités locales ou de leurs établissements
+Les producteurs organisés peuvent bénéficier de priorités dans l'attribution de
+l'aide que l'Etat peut apporter pour l'organisation de la production et des
+marchés, en conformité avec les règles communautaires. Les aides décidées sont
+modulées en fonction du degré d'organisation et des engagements des producteurs.
+Les organisations de producteurs reconnus bénéficient également, à soumission
+égale, d'un droit de préférence dans les marchés par adjudication ou appel
+d'offres de l'Etat, des collectivités locales ou de leurs établissements
 publics.
 
 Les dispositions relatives aux marchés publics sont également applicables aux
-groupements de producteurs agricoles ressortissant des Etats membres de la
+organisations de producteurs agricoles ressortissant des Etats membres de la
 Communauté économique européenne présentant des caractéristiques comparables et
 inscrits sur une liste établie par le ministre de l'agriculture.
 

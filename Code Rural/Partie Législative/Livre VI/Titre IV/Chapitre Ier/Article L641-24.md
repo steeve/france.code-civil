@@ -1,10 +1,10 @@
 Article L641-24
 ----
 Les vins pour lesquels le bénéfice d'une appellation d'origine non contrôlée a
-été revendiqué en vertu des articles L. 641-17 à L. 641-23 ne peuvent être mis
-en vente et circuler sous la dénomination de vins délimités de qualité
-supérieure que accompagnés d'un label délivré par le syndicat viticole
-intéressé.
+été revendiqué en vertu de l'article L. 641-18 du code rural et des articles L.
+115-5 à L. 115-8 du code de la consommation ne peuvent être mis en vente et
+circuler sous la dénomination de vins délimités de qualité supérieure que
+accompagnés d'un label délivré par le syndicat viticole intéressé.
 
 Les conditions auxquelles doivent répondre ces vins en vue de l'obtention du
 label, ainsi que les modalités de délivrance de celui-ci, sont fixées pour

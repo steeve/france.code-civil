@@ -1,10 +1,22 @@
 Article L641-21
 ----
-Parmi les vins produits sur le territoire national, seuls peuvent bénéficier des
-dispositions prévues aux articles L. 641-1 à L. 641-6 ainsi qu'aux articles L.
-641-17 à L. 641-20 les vins à appellation d'origine contrôlée et les vins
-délimités de qualité supérieure.
+Dans le respect des dispositions communautaires, le ministre de l'agriculture
+peut décider, après avis du syndicat de défense concerné et de l'organisation
+professionnelle compétente, que la mise en bouteille et le conditionnement des
+vins bénéficiant d'une appellation d'origine s'effectue dans les régions de
+production.
 
-Quiconque a vendu, mis en vente ou en circulation des vins en violation des
-dispositions de l'alinéa précédent est puni des peines prévues à l'article L.
-115-16 du code de la consommation.
+Toute infraction au présent article est punie des peines figurant à l'article L.
+213-1 du code de la consommation. Les personnes mentionnées à l'article L. 215-1
+du même code ainsi que les agents de l'Institut national des appellations
+d'origine commissionnés conformément à ce même article ou à l'article L. 641-6
+du présent code sont qualifiés pour procéder à la recherche et à la constatation
+des infractions.
+
+Les produits en infraction avec les dispositions du premier alinéa sont saisis
+conformément aux dispositions des articles L. 215-5 à L. 215-8 du code de la
+consommation.
+
+Les dispositions du présent article peuvent être mises en oeuvre à compter de la
+mise en bouteille et du conditionnement des vins vinifiés avec les raisins
+récoltés en 2000.

@@ -11,8 +11,10 @@ direction générale des impôts ;
 16 du code de procédure pénale, et les agents de police judiciaire désignés à
 l'article 20 dudit code ;
 
-3° Les vétérinaires inspecteurs, les préposés sanitaires, les agents techniques
-sanitaires ;
+3° Les vétérinaires inspecteurs, les ingénieurs des travaux agricoles, les
+techniciens spécialisés des services du ministère chargé de l'agriculture, les
+préposés sanitaires, les agents techniques sanitaires, les ingénieurs et
+techniciens chargés de la protection des végétaux;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de
 santé publique ;

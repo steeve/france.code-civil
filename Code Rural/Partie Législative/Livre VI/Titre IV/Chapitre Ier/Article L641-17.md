@@ -1,12 +1,5 @@
 Article L641-17
 ----
-Aucun vin n'a droit à une appellation d'origine régionale ou locale s'il ne
-provient de cépages et d'une aire de production consacrés par des usages locaux,
-loyaux et constants.
-
-L'aire de production est la surface comprenant les communes ou parties de
-communes propres à produire le vin de l'appellation.
-
 Les vins provenant des hybrides producteurs directs n'ont en aucun cas droit à
 une appellation d'origine.
 

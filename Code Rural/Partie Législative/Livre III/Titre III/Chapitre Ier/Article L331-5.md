@@ -1,11 +1,10 @@
 Article L331-5
 ----
-Les ateliers de production hors sol qui constituent le complément de l'activité
-agricole de l'exploitation ne sont pris en compte pour le calcul des superficies
-mentionnées aux articles L. 331-2, L. 331-3 et L. 331-4 que pour la fraction de
-leur superficie, corrigée des coefficients d'équivalence prévus à l'article L.
-312-5, qui excède la surface minimale d'installation.
-
-En outre, sont exclus, même s'ils sont ensuite transformés en terre de culture,
-les bois, landes, taillis, friches et étangs autres que ceux servant à l'élevage
-piscicole.
+Les informations concernant les structures des exploitations agricoles figurant
+dans les fichiers des caisses de mutualité sociale agricole ou les organismes
+qui en tiennent lieu dans les départements d'outre-mer, dans les centres de
+formalités des entreprises tenus par les chambres d'agriculture, dans le
+registre de l'agriculture, ou dans le système intégré de gestion et de contrôle
+mis en place pour l'application de la réglementation communautaire, sont
+communiquées, sur sa demande, à l'autorité administrative lorsqu'elles sont
+nécessaires à l'exercice du contrôle des structures.

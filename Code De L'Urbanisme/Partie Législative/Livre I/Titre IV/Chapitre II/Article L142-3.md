@@ -69,3 +69,6 @@ préemption deviennent propriété du département.
 Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de
 préemption" s'entend également du délégataire en application du précédent
 alinéa, s'il y a lieu.
+
+Les représentants des organisations professionnelles agricoles et forestières
+sont consultés sur la délimitation de ces zones de préemption.

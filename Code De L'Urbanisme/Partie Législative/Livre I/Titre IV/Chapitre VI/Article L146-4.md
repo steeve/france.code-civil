@@ -4,6 +4,14 @@ I - L'extension de l'urbanisation doit se réaliser soit en continuité avec les
 agglomérations et villages existants, soit en hameaux nouveaux intégrés à
 l'environnement.
 
+Par dérogation aux dispositions de l'alinéa précédent, les constructions ou
+installations liées aux activités agricoles ou forestières qui sont
+incompatibles avec le voisinage des zones habitées peuvent être autorisées, en
+dehors des espaces proches du rivage, avec l'accord du préfet après avis de la
+commission départementale des sites, perspectives et paysages. Cet accord est
+refusé si les constructions ou installations sont de nature à porter atteinte à
+l'environnement ou aux paysages.
+
 II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des
 rives des plans d'eau intérieurs désignés à l'article 2 de la loi n° 86-2 du 3
 janvier 1986 précitée doit être justifiée et motivée, dans le plan d'occupation

@@ -14,6 +14,6 @@ produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une
 demande de reconnaissance en appellation d'origine contrôlée a été déposée
 auprès de l'Institut national des appellations d'origine avant le 31 décembre
 1996, se verront attribuer cette reconnaissance, par décret, s'ils satisfont aux
-conditions fixées à l'article L. 641-3. A compter du 1er juillet 2000, ou en cas
+conditions fixées à l'article L. 641-2. A compter du 1er juillet 2000, ou en cas
 de refus de reconnaissance de l'appellation d'origine contrôlée, ces
 appellations seront caduques.
