@@ -5,6 +5,12 @@ Le dossier soumis à l'instruction comporte l'étude d'impact définie à l'arti
 construction ou d'extension excède le montant fixé au C de l'article 3 du même
 décret.
 
+Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à
+l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de
+l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des
+transports intérieurs, lorsque les travaux constituent un grand projet
+d'infrastructures tel que défini à l'article 3 du même décret.
+
 L'instruction comporte exclusivement les formalités ci-après qui sont effectuées
 simultanément :
 
