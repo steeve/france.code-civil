@@ -1,11 +1,8 @@
 Article R*212-4
 ----
-L'assemblée des chambres connaît des demandes en annulation de l'élection des
-bâtonniers ou des membres des conseils de l'ordre et de recours dirigés contre
-les décisions ou délibérations de ces conseils [*compétence*].
-
-Elle reçoit le serment des magistrats et procède à l'installation des membres de
-la cour et du parquet général ainsi que du greffier en chef.
+L'assemblée des chambres reçoit le serment des magistrats et procède à
+l'installation des membres de la cour et du parquet général, ainsi que du
+greffier en chef.
 
 A Paris, les attributions conférées par le présent article à l'assemblée de ces
 chambres sont exercées par les trois premières chambres de la cour.
