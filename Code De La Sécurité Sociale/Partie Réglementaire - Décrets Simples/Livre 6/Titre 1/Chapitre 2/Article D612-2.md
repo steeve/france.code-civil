@@ -12,14 +12,9 @@ semestrielles fixées au 1er avril et au 1er octobre. Lorsque l'assuré s'est
 libéré pour la date prévue d'au moins la moitié de la somme demandée, le solde
 est payable au plus tard le dernier jour du semestre considéré.
 
-La fraction de la cotisation payable, à titre provisionnel, le 1er avril de
-chaque année est assise sur les revenus professionnels de l'avant-dernière année
-tels que définis ci-dessus.
-
-La fraction de la cotisation provisionnelle payable le 1er octobre de l'année en
-cours est assise sur les revenus professionnels nets imposables de l'année
-précédente, déduction faite de la fraction payable au 1er avril et émise dans
-les conditions prévues à l'alinéa précédent.
+Les fractions de cotisation payables, à titre provisionnel, les 1er avril et 1er
+octobre de chaque année sont assises sur les revenus professionnels de
+l'avant-dernière année tels que définis ci-dessus.
 
 Il est procédé le 1er octobre de l'année suivante à la régularisation du montant
 des cotisations provisionnelles mentionnées ci-dessus sur la base des revenus de
