@@ -110,10 +110,12 @@ construction et de l'habitation ou d'une subvention de l'Agence nationale pour
 la rénovation urbaine, et qui sont réalisés à compter du 1er janvier 1998 ;
 
 c. De travaux d'entretien, autres que l'entretien des espaces verts et les
-travaux de nettoyage, pour lesquels le fait générateur est intervenu à compter
-du 15 septembre 1999 et qui sont réalisés avant le 31 décembre 2003.
+travaux de nettoyage.
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
+
+Ces dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit
+de la taxe sur la valeur ajoutée en application de l'article 279-0 bis.
 
 7° ter Les livraisons à soi-même d'ouvrages de circulation routière donnant lieu
 à la perception de péages soumis à la taxe sur la valeur ajoutée ;
@@ -203,9 +205,7 @@ besoin, par des arrêtés du ministre de l'économie et des finances ;
 
 16° et 17° (Abrogés) ;
 
-18° La redevance pour droit d'usage des appareils récepteurs de télévision
-prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relative
-à la liberté de communication ;
+18° La redevance audiovisuelle ;
 
 19° Les sommes attribuées par les sociétés de course au titre des gains de
 course réalisés par les entraîneurs pour les chevaux dont ils sont

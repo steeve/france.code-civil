@@ -15,3 +15,6 @@ une imposition commune.
 
 Le montant des versements est plafonné dans une limite fixée par voie
 réglementaire.
+
+A compter du 25 septembre 2003, il ne peut plus être ouvert de plans d'épargne
+populaire.

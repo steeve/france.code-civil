@@ -1,21 +1,19 @@
 Article 75-0 A
 ----
-1. Lorsqu'un exploitant réalise un bénéfice supérieur à 15 250 euros et excédant
-une fois et demie la moyenne des résultats des trois années précédentes, il peut
-demander que la fraction de ce bénéfice qui dépasse 15 250 euros, ou cette
-moyenne si elle est supérieure, soit imposée selon les règles prévues à
-l'article 150 R. Toutefois, le paiement de l'impôt ne peut être fractionné.
+1. Lorsqu'un exploitant réalise un bénéfice supérieur à 15 250 Euros et excédant
+une fois et demie la moyenne des résultats des trois années précédentes, la
+fraction de ce bénéfice qui dépasse 15 250 Euros, ou cette moyenne si elle est
+supérieure, peut, sur option expresse de l'exploitant, être imposée selon les
+modalités suivantes : cette fraction est divisée par cinq ; le résultat est
+ajouté au revenu global net ; l'impôt est égal à cinq fois la cotisation
+supplémentaire ainsi obtenue.
 
 Pour les agriculteurs soumis au régime transitoire d'imposition, la limite de 15
 250 euros prévue au premier alinéa est ramenée à 7 625 euros.
 
 2. Pour la détermination des bénéfices de l'année considérée et des trois années
-antérieures, il n'est pas tenu compte :
-
-des déductions ou réintégrations des intérêts des emprunts contractés pour
-l'acquisition de terres qui ont fait l'objet d'une déduction accélérée ;
-
-des bénéfices soumis à un taux proportionnel.
+antérieures, il n'est pas tenu compte des bénéfices soumis à un taux
+proportionnel.
 
 Pour le calcul de la moyenne, il n'est pas tenu compte des reports déficitaires
 ; les déficits sont retenus pour un montant nul.

@@ -12,9 +12,9 @@ La taxe forfaitaire tient lieu de la retenue à la source prévue au 2 de
 l'article 119 bis ainsi que de l'impôt sur le revenu à la charge du bénéficiaire
 de ces répartitions. Elle est établie et recouvrée selon les mêmes modalités que
 la retenue à la source applicable aux distributions antérieures au 1er janvier
-1966 (1). Elle est assimilée à cette retenue pour l'application de l'article
-220. Elle n'est pas admise en déduction pour l'assiette de l'impôt sur le revenu
-ni de l'impôt sur les sociétés.
+1966. Elle est assimilée à cette retenue pour l'application de l'article 220.
+Elle n'est pas admise en déduction pour l'assiette de l'impôt sur le revenu ni
+de l'impôt sur les sociétés.
 
 II. L'application des dispositions du I est réservée aux sociétés qui auront
 obtenu à cette fin, préalablement à leur dissolution, un agrément du ministre de
@@ -24,7 +24,7 @@ caractère économique et social. L'agrément peut comporter des limitations et
 modalités de la liquidation et la destination à donner aux éléments d'actif
 liquidés. Pour les petites entreprises, l'agrément est accordé selon une
 procédure décentralisée, dans des conditions qui sont fixées par arrêté du
-ministre de l'économie et des finances (2).
+ministre de l'économie et des finances.
 
 III. Les plus-values nettes réalisées lors de ces opérations peuvent être
 imposées en totalité suivant les règles applicables aux plus-values à long
@@ -42,12 +42,4 @@ Les plus-values à long terme visées au deuxième alinéa ne peuvent être dimi
 du montant des moins-values afférentes aux autres éléments de l'actif
 immobilisé.
 
-IV. Les distributions auxquelles donnent lieu ces opérations n'ouvrent pas droit
-au crédit d'impôt prévu à l'article 158 bis lorsqu'elles ont été soumises à la
-taxe forfaitaire de 15 % libératoire de l'impôt sur le revenu.
-
-(1) En ce qui concerne les règles de prescription, voir livre des procédures
-fiscales, art. L169 A.
-
-(2) Voir l'arrêté du 17 mai 1976 (JO du 22 juin) et l'article 170 septies de
-l'annexe IV.
+IV. (abrogé).

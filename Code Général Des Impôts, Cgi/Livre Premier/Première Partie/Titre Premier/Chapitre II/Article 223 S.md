@@ -21,12 +21,9 @@ le groupe pendant la période d'application du régime défini à l'article 223 
 encore reportables à l'expiration de cette période sont imputables par la
 société qui était redevable des impôts mentionnés audit article dus par le
 groupe, sur son bénéfice ou sa plus-value nette à long terme, selon les
-modalités prévues aux troisième et quatrième alinéas du I de l'article 209 ou à
-l'article 39 quindecies. En cas d'absorption par la société mère de toutes les
-autres sociétés du groupe, emportant changement de son objet social ou de son
-activité réelle au sens des dispositions du 5 de l'article 221, cette
-disposition s'applique à la fraction de ce déficit ou de cette moins-value qui
-ne correspond pas à ceux subis par la société mère (1).
-
-(1) Ces dispositions s'appliquent aux fusions réalisées à compter du 1er janvier
-1996.
+modalités prévues au troisième alinéa du I de l'article 209 ou à l'article 39
+quindecies. En cas d'absorption par la société mère de toutes les autres
+sociétés du groupe, emportant changement de son objet social ou de son activité
+réelle au sens des dispositions du 5 de l'article 221, cette disposition
+s'applique à la fraction de ce déficit ou de cette moins-value qui ne correspond
+pas à ceux subis par la société mère.

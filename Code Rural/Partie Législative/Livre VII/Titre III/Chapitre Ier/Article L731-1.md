@@ -1,9 +1,12 @@
 Article L731-1
 ----
-Ainsi qu'il est dit au I de l'article 58 de la loi de finances pour 1960 (n°
-59-1454 du 26 décembre 1959), le budget annexe des prestations sociales
-agricoles institué par cet article est rattaché pour ordre au budget général de
-l'Etat ; sa gestion administrative est confiée au ministre chargé de
-l'agriculture assisté d'un comité de gestion du budget annexe.
+Il est créé un fonds dont la mission est d'assurer le financement des
+prestations sociales des non-salariés agricoles définies à l'article L. 731-5.
+La gestion de ces prestations et le recouvrement des cotisations correspondantes
+sont assurés dans les conditions prévues aux articles L. 723-2 et L. 731-30.
 
-La composition et le rôle de ce comité sont fixés par décret.
+Les recettes et dépenses du fonds, dénommé Fonds de financement des prestations
+sociales des non-salariés agricoles, sont retracées dans les comptes de
+l'établissement public national à caractère administratif dénommé Etablissement
+de gestion du fonds de financement des prestations sociales des non-salariés
+agricoles, créé à cet effet. Cet établissement est soumis au contrôle de l'Etat.

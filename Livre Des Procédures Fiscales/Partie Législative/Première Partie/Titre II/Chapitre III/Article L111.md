@@ -19,8 +19,8 @@ aux directions des services fiscaux dont dépendent ces résidences,
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions
 fixées par décret, par l'indication du nombre de parts retenu pour l'application
-du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge
-de chaque redevable et du montant de l'avoir fiscal.
+du quotient familial, du revenu imposable et du montant de l'imp&lt;CB&gt;t mis
+à la charge de chaque redevable.
 
 I bis. Une liste des personnes assujetties à la taxe départementale sur le
 revenu est dressée par commune pour les impositions établies dans son ressort.

@@ -1,24 +1,29 @@
 Article L4332-8
 ----
-- Le potentiel fiscal d'une région est déterminé par application aux bases
-brutes servant à l'assiette des impositions régionales des trois taxes de la
-pénultième année du taux moyen national d'imposition de la même année à chacune
-de ces taxes. Il est majoré d'un produit potentiel déterminé en fonction des
-compensations servies par l'Etat aux régions à raison des exonérations ou
-réductions de bases de fiscalité directe et de la suppression de la part
-régionale de la taxe d'habitation.
+Les régions d'outre-mer et les régions métropolitaines dont le potentiel fiscal
+par habitant est inférieur d'au moins 15 % au potentiel fiscal moyen par
+habitant de l'ensemble des régions bénéficient d'une dotation de péréquation.
 
-Ce produit potentiel est calculé dans les conditions suivantes :
+Le montant total de la dotation de péréquation est égal à la différence entre
+l'ensemble des ressources affectées à la dotation globale de fonctionnement des
+régions et la dotation forfaitaire prévue à l'article L. 4332-7.
 
-- les bases de fiscalité de chacune des taxes concernées et de la taxe
-d'habitation sont établies par le rapport du montant de la compensation de la
-pénultième année, ou de la fraction de compensation lorsque la taxe en question
-a fait l'objet de mesures différentes d'exonérations ou de réductions de bases,
-sur le dernier taux voté ou constaté l'année précédant la mise en oeuvre de la
-mesure d'exonération ou de réduction de bases et de la suppression de la part
-régionale de la taxe d'habitation.
+Les régions d'outre-mer bénéficient d'une quote-part de la dotation de
+péréquation. Cette quote-part est déterminée par application au montant total de
+la dotation de péréquation du rapport entre la population des régions
+d'outre-mer, telle qu'elle résulte du dernier recensement général, et la
+population totale des autres régions bénéficiaires de la dotation de
+péréquation.
 
-- ainsi déterminées, ces bases sont pondérées par le taux moyen national
-d'imposition à chacune de ces taxes et celui de la taxe d'habitation de l'année
-précédant la mise en oeuvre de la mesure d'exonération ou de réduction de bases
-et de la suppression de la part régionale de la taxe d'habitation.
+La dotation de péréquation des régions métropolitaines est répartie :
+
+1° Pour moitié, proportionnellement à l'écart relatif entre 85 % du potentiel
+fiscal par habitant de l'ensemble des régions et le potentiel fiscal par
+habitant de chaque région, pondéré par son effort fiscal et sa population ;
+
+2° Pour moitié, proportionnellement au rapport entre le potentiel fiscal moyen
+par kilomètre carré de l'ensemble des régions et le potentiel fiscal par
+kilomètre carré de chaque région bénéficiaire.
+
+La dotation de péréquation fait l'objet de deux versements, l'un avant le 31
+juillet, l'autre avant le 31 décembre de l'exercice en cours.

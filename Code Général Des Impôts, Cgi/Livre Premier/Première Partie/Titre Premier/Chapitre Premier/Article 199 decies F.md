@@ -4,7 +4,7 @@ La réduction d'impôt mentionnée à l'article 199 decies E est accordée au ti
 des dépenses de reconstruction, d'agrandissement, de grosses réparations ou
 d'amélioration.
 
-La réduction est calculée, au taux de 10 %, sur le montant de s travaux de
+La réduction est calculée, au taux de 20 %, sur le montant de s travaux de
 reconstruction, d'agrandissement, de grosses réparations et d'amélioration, à
 l'exclusion de ceux qui constituent des charges déductibles des revenus fonciers
 en application de l'article 31, réalisés à l'occasion de cette opération. Elle

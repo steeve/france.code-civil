@@ -1,13 +1,13 @@
 Article L2335-13
 ----
 Les modalités d'assiette ainsi qu'à compter du 1er janvier 1996 les tarifs de la
-redevance prévue à l'article L. 2335-10 sont fixés comme suit :
+taxe prévue à l'article L. 2335-10 sont fixés comme suit :
 
 I. - Eau tarifée au mètre cube, même forfaitairement, ou à la jauge :
 
 a) Eau utilisée pour les besoins domestiques :
 
-Tarif au mètre cube : 0,02134 euro.
+Tarif au mètre cube : 0,02134 euros.
 
 b) Eau utilisée pour les besoins industriels ou agricoles :
 
@@ -54,7 +54,7 @@ TARIF ANNUEL (en euros) : 6,40
 
 DIAMETRE De 31 à 40 mm
 
-TARIF ANNUEL (en euros) : 17,70
+TARIF ANNUEL (en euros) : 17,07
 
 
 DIAMETRE excédant 40 mm

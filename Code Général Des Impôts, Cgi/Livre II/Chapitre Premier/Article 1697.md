@@ -14,7 +14,6 @@ sur la valeur ajoutée, par l'administration chargée de les percevoir :
 
 8° et 9° (Abrogés) ;
 
-10° cotisation incluse dans la taxe sur la valeur ajoutée (art. 1609 septdecies)
-;
+10° (Abrogé) ;
 
 11° (Abrogé à compter du 1er janvier 2002).

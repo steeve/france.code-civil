@@ -19,8 +19,9 @@ qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 37,30
 euros (244,64 F) par hectolitre. Ce taux spécifique est fixé à 35,09 euros par
 hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77
 euros par hectolitre pour la période du 21 janvier 2002 au 31 décembre 2002, et
-37,06 euros par hectolitre pour la période du 1er janvier 2003 au 20 janvier
-2003.
+37,06 euros par hectolitre pour la période du 1er janvier 2003 au 28 février
+2003. Le taux spécifique est fixé à 38 euros par hectolitre pour la période du
+1er mars 2003 au 31 décembre 2004.
 
 Le remboursement est plafonné à 20 000 litres de gazole par semestre et par
 véhicule. Il est accordé aux entreprises établies dans la Communauté européenne
@@ -30,7 +31,10 @@ carburant dans des véhicules ci-dessus définis et immatriculés dans l'un des
 Etats membres.
 
 La période couverte par le remboursement s'entend de la période comprise entre
-le 21 janvier d'une année et le 20 janvier de l'année suivante.
+le 21 janvier d'une année et le 20 janvier de l'année suivante. Pour les
+consommations de gazole réalisées en 2004, la période couverte par le
+remboursement s'entend de la période comprise entre le 21 janvier 2004 et le 31
+décembre 2004.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au
 service des douanes à partir du 22 juillet et du 22 janvier suivant

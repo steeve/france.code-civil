@@ -3,8 +3,7 @@ Article 1655 quater
 I. La société constituée entre les professionnels pour la conservation du stock
 de produits pétroliers prévu à l'article 2 de la loi 92-1443 du 31 décembre 1992
 portant réforme du régime pétrolier et dont les statuts sont approuvés par
-décret, n'est imposée sur ses bénéfices que lors de leur distribution, dans les
-conditions prévues à l'article 223 sexies.
+décret, est exonérée d'impôt sur les sociétés .
 
 La société est tenue de distribuer chaque année les bénéfices de l'exercice.
 Toutefois, les ministres peuvent autoriser le réinvestissement des bénéfices.
@@ -24,8 +23,8 @@ maintenir sa qualité physique, se font valeur pour valeur.
 
 Les versements des associés à la société sont déductibles de leurs résultats
 imposables à concurrence des frais de gestion et des charges financières de la
-société et d'une somme de 61 000 000 d'euros représentant les premières charges
-de remboursement de l'emprunt souscrit par la société pour constituer son stock
+société et d'une somme de 61 000 000 € représentant les premières charges de
+remboursement de l'emprunt souscrit par la société pour constituer son stock
 initial.
 
 Les actions de cette société ne peuvent être cédées qu'avec l'autorisation des

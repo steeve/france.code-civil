@@ -12,12 +12,14 @@ conseil d'administration, en tout ou partie, et pour la durée de son mandat,
 être chargé de procéder, dans les limites déterminées par le conseil
 d'administration, à la réalisation des emprunts destinés au financement des
 investissements prévus par le budget et de passer à cet effet les actes
-nécessaires. Il peut être chargé de prendre toute décision concernant la
-préparation, la passation, l'exécution et le règlement des marchés de travaux,
-de fournitures et de services visés à l'article 28 du code des marchés publics
-et pouvant être passés sans formalités préalables. Il peut être chargé de fixer
-les rémunérations et de régler les frais et honoraires des avocats, notaires,
-avoués, huissiers de justice et experts.
+nécessaires. Il peut recevoir délégation pour prendre les décisions mentionnées
+au III de l'article L. 1618-2. Il informe le conseil d'administration des actes
+pris dans le cadre de cette délégation. Il peut être chargé de prendre toute
+décision concernant la préparation, la passation, l'exécution et le règlement
+des marchés de travaux, de fournitures et de services visés à l'article 28 du
+code des marchés publics et pouvant être passés sans formalités préalables. Il
+peut être chargé de fixer les rémunérations et de régler les frais et honoraires
+des avocats, notaires, avoués, huissiers de justice et experts.
 
 Il peut déléguer, par arrêté, sous sa surveillance et sa responsabilité,
 l'exercice d'une partie de ses fonctions aux membres du bureau du conseil

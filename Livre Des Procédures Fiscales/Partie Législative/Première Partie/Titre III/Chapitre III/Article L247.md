@@ -14,6 +14,10 @@ elles s'ajoutent sont définitives ;
 d'impôts lorsque ces pénalités et, le cas échéant, les impositions auxquelles
 elles s'ajoutent ne sont pas définitives.
 
+Les dispositions des troisième et quatrième alinéas sont le cas échéant
+applicables s'agissant des sommes dues au titre de l'intérêt de retard visé à
+l'article 1727 du code général des impôts.
+
 L'administration peut également décharger de leur responsabilité les personnes
 tenues au paiement d'impositions dues par un tiers.
 

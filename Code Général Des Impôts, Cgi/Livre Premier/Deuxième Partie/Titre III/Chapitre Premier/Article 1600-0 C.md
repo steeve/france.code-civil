@@ -13,7 +13,7 @@ b) Des rentes viagères constituées à titre onéreux ;
 
 c) Des revenus de capitaux mobiliers ;
 
-d) Des plus-values mentionnées aux articles 150 A et 150 A bis ;
+d) Des plus-values mentionnées aux articles 150 U à 150 UB ;
 
 e) Des plus-values, gains en capital et profits réalisés sur les marchés à terme
 d'instruments financiers et de marchandises, ainsi que sur les marchés d'options
@@ -49,6 +49,11 @@ convention internationale relative aux doubles impositions et qui n'ont pas
 supporté la contribution prévue à l'article L. 136-1 du code de la sécurité
 sociale.
 
+II bis. Les personnes physiques fiscalement domiciliées en France au sens de
+l'article 4 B sont également assujetties à la contribution mentionnée au I à
+raison des plus-values exonérées d'imp&lt;CB&gt;t sur le revenu en application
+du 7 du III de l'article 150-0 A.
+
 III. La contribution portant sur les revenus mentionnés aux I et II est assise,
 contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés,
 privilèges et sanctions que l'impôt sur le revenu. Le produit annuel de cette
@@ -60,5 +65,3 @@ applicables.
 
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
 par article de rôle est inférieur à 61 euros.
-
-Par dérogation à l'article 150 R, le paiement ne peut être fractionné.

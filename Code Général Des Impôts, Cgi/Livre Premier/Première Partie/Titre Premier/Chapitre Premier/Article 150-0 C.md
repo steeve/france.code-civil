@@ -30,9 +30,9 @@ en contrepartie de l'apport doivent être intégralement libérés lors de leur
 souscription ;
 
 c) La société bénéficiaire de l'apport doit exercer une activité autre que
-celles mentionnées au quatrième alinéa du I de l'article 44 sexies et, sans
-avoir exercé d'option pour un autre régime d'imposition, être passible en France
-de l'impôt sur les sociétés de plein droit ou sur option ;
+celles mentionnées au sixième alinéa du I de l'article 44 sexies et, sans avoir
+exercé d'option pour un autre régime d'imposition, être passible en France de
+l'impôt sur les sociétés de plein droit ou sur option ;
 
 d) La société bénéficiaire de l'apport ne doit pas avoir été créée dans le cadre
 d'une concentration, d'une restructuration, d'une extension ou d'une reprise
@@ -76,11 +76,11 @@ prévu à l'article 1727 décompté de la date à laquelle cet impôt aurait dû
 acquitté.
 
 6. A compter du 1er janvier 2000, lorsque les titres reçus en contrepartie de
-l'apport font l'objet d'une opération d'échange dans les conditions du quatrième
-alinéa de l'article 150 A bis ou dans les conditions prévues à l'article 150-0
-B, l'imposition de la plus-value antérieurement reportée en application du 1 est
-reportée de plein droit au moment où s'opérera la transmission, le rachat, le
-remboursement ou l'annulation des nouveaux titres reçus.
+l'apport font l'objet d'une opération d'échange dans les conditions prévues au
+II de l'article 150 UB et à l'article 150-0 B, l'imposition de la plus-value
+antérieurement reportée en application du 1 est reportée de plein droit au
+moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation
+des nouveaux titres reçus.
 
 7. (Abrogé)
 

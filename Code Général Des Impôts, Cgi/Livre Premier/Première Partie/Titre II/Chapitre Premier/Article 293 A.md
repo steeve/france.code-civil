@@ -9,8 +9,10 @@ dette douanière, que les biens importés soient passibles ou non de droits à
 l'importation.
 
 La taxe doit être acquittée par la personne désignée comme destinataire réel des
-biens sur la déclaration d'importation. Toutefois, le déclarant en douane est
-solidairement tenu au paiement de la taxe.
+biens sur la déclaration d'importation. Toutefois, cette taxe est solidairement
+due par le déclarant en douane qui agit dans le cadre d'un mandat de
+représentation indirecte, tel que défini par l'article 5 du code des douanes
+communautaires.
 
 Le taux de la taxe applicable aux importations est celui en vigueur au moment de
 la déclaration de mise à la consommation. Dans les cas de réimportation prévus à

@@ -50,5 +50,9 @@ demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
 contribuables qui se sont abstenus de répondre aux demandes de justifications
 mentionnées au deuxième alinéa de l'article L. 16.
 
+5° Les plus-values réalisées par les contribuables qui se sont abstenus de
+répondre aux demandes de justifications mentionnées au deuxième alinéa de
+l'article L. 16.
+
 Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation
 d'office prévus aux 1° et 2°.

@@ -48,3 +48,6 @@ propre.
 
 V. Les dispositions du présent article ne sont pas applicables en Corse à
 compter de 1995.
+
+VI. - A compter de 2004, le produit de cette cotisation est affecté au budget
+général de l'Etat.

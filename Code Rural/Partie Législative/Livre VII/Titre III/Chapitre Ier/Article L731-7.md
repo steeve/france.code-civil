@@ -1,11 +1,11 @@
 Article L731-7
 ----
-Ainsi qu'il est dit au I de l'article 58 de la loi de finances mentionnée à
-l'article L. 731-1, il est constitué un fonds de réserve alimenté par les
-excédents de recettes du budget annexe dont le montant maximal est fixé à un
-dixième du montant des dépenses dudit budget de l'année précédente.
+Le fonds est organisé en sections, qui se répartissent de la manière suivante :
 
-Les disponibilités de ce fonds de réserve sont déposées au Trésor.
+1° Assurance maladie, invalidité et maternité ;
 
-Les prélèvements sur le fonds de réserve sont autorisés par arrêté du ministre
-chargé de l'agriculture et du ministre chargé du budget.
+2° Prestations familiales ;
+
+3° Assurance vieillesse et veuvage ;
+
+4° Charges de gestion du fonds.

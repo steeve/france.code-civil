@@ -5,7 +5,7 @@ général des collectivités territoriales, les chambres régionales des comptes
 sont destinataires des ordres de réquisition notifiés au comptable de
 l'établissement par l'ordonnateur d'un établissement public de santé ou d'un
 syndicat interhospitalier, régis par le livre VII du code de la santé publique,
-conformément aux dispositions de l'article L. 714-15, deuxième à septième
+conformément aux dispositions de l'article L. 6145-8, deuxième à septième
 alinéas, de ce code reproduit ci-après :
 
 Art. L. 6145-8, deuxième à septième alinéas.
@@ -28,15 +28,3 @@ de l'établissement et notifié au trésorier-payeur général du département q
 transmet à la chambre régionale des comptes.
 
 En cas de réquisition, le comptable est déchargé de sa responsabilité.
-
-Le comptable assiste avec voix consultative au conseil d'administration de
-l'établissement lorsque celui-ci délibère sur des affaires de sa compétence.
-
-Les conditions de placement et de rémunération des fonds des établissements
-publics de santé sont déterminés par décret.
-
-A la demande de l'ordonnateur, le comptable informe ce dernier de la situation
-de paiement des mandats et du recouvrement des titres de recettes, de la
-situation de la trésorerie et de tout élément utile à la bonne gestion de
-l'établissement. Il paie les mandats dans l'ordre de priorité indiqué par
-l'ordonnateur.

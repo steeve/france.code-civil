@@ -12,11 +12,11 @@ a. Sur option, aux exploitants normalement placés sous le régime du forfait ;
 
 b. De plein droit, aux autres exploitants, y compris ceux dont le forfait a été
 dénoncé par l'administration, dont la moyenne des recettes, mesurée sur deux
-années consécutives, n'excède pas 274 400 euros.
+années consécutives, n'excède pas 350 000 euros.
 
 III. En cas de dépassement de la limite mentionnée au b du II, les intéressés
-sont soumis de plein droit au régime normal d'imposition d'après le bénéfice
-réel à compter de la première année suivant la période biennale considérée.
+sont soumis de plein droit au régime réel normal d'imposition à compter du
+premier exercice suivant la période biennale considérée.
 
 Les deux catégories d'exploitants prévues au II peuvent opter pour le régime
 normal.

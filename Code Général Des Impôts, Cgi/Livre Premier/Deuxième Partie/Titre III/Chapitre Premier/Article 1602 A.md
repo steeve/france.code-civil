@@ -9,6 +9,10 @@ difficulté au titre des deux années suivant celle de leur création.
 
 Cette exonération est subordonnée à une délibération des organismes consulaires
 dans le ressort desquels sont situés les établissements de ces entreprises.
+Toutefois, les délibérations prises par les chambres de métiers s'appliquent à
+la part de la taxe additionnelle à la taxe professionnelle pour frais de
+chambres de métiers revenant aux chambres régionales de métiers et à l'Assemblée
+permanente des chambres de métiers.
 
 Ces délibérations sont prises dans les conditions prévues au II de l'article
 1464 C.

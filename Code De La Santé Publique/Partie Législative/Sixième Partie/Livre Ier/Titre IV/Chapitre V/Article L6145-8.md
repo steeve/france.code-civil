@@ -25,9 +25,6 @@ En cas de réquisition, le comptable est déchargé de sa responsabilité.
 Le comptable assiste avec voix consultative au conseil d'administration de
 l'établissement lorsque celui-ci délibère sur des affaires de sa compétence.
 
-Les conditions de placement et de rémunération des fonds des établissements
-publics de santé sont déterminées par décret.
-
 A la demande de l'ordonnateur, le comptable informe ce dernier de la situation
 de paiement des mandats et du recouvrement des titres de recettes, de la
 situation de trésorerie et de tout élément utile à la bonne gestion de

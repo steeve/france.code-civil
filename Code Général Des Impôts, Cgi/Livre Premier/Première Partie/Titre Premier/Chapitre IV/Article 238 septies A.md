@@ -45,7 +45,9 @@ autres que ceux mentionnés au V de l'article 238 septies E.
 
 V. Lorsque les titres ou droits mentionnés au II et au III ont été reçus, à
 compter du 1er janvier 2000, dans le cadre d'une opération d'échange dans les
-conditions prévues à l'article 150-0 B, la prime de remboursement mentionnée au
-II est calculée à partir du prix ou de la valeur d'acquisition des titres ou
-droits remis à l'échange, diminué de la soulte reçue ou majoré de la soulte
-versée.
+conditions prévues à l'article 150-0 B, au quatrième alinéa de l'article 150 A
+bis en vigueur avant la date de promulgation de la loi de finances pour 2004 (n°
+2003-1311 du 30 décembre 2003) ou au II de l'article 150 UB, la prime de
+remboursement mentionnée au II est calculée à partir du prix ou de la valeur
+d'acquisition des titres ou droits remis à l'échange, diminué de la soulte reçue
+ou majoré de la soulte versée.

@@ -1,121 +1,131 @@
 Article 220 sexies
 ----
-I. Les sociétés non cotées soumises à l'impôt sur les sociétés dans les
-conditions de droit commun qui procèdent au cours des années 1992 et 1993 à une
-augmentation de capital peuvent bénéficier d'un crédit d'impôt sur les sociétés
-égal à 25 p. 100 des souscriptions en numéraire.
+I. - Les entreprises de production cinématographique soumises à l'impôt sur les
+sociétés qui assument les fonctions d'entreprises de production déléguées
+peuvent bénéficier d'un crédit d'impôt au titre des dépenses de production
+mentionnées au III correspondant à des opérations effectuées en France en vue de
+la réalisation d'oeuvres cinématographiques de longue durée agréées et pouvant
+bénéficier du soutien financier de l'industrie cinématographique prévu à
+l'article 57 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).
 
-II. Le crédit d'impôt visé au I s'applique lorsque les conditions suivantes sont
-remplies :
+II. - Les oeuvres cinématographiques mentionnées au I doivent être réalisées
+dans les conditions suivantes :
 
-1° Le chiffre d'affaires de l'exercice précédant l'augmentation de capital,
-rapporté s'il y a lieu à un exercice de douze mois, n'excède pas 500 millions de
-francs hors taxes si l'entreprise exerce son activité principalement dans le
-secteur de l'industrie et 100 millions de francs hors taxes si elle exerce son
-activité dans un autre secteur ; pour les entreprises qui n'exercent pas
-exclusivement une activité industrielle, le caractère principal de celle-ci est
-apprécié en comparant le chiffre d'affaires de cette activité à celui de
-l'ensemble des autres activités en retenant le chiffre d'affaires de l'activité
-commerciale à hauteur du tiers de son montant ;
+1° Les oeuvres cinématographiques de fiction ainsi que les oe uvres
+cinématographiques documentaires doivent être réalisées essentiellement avec le
+concours :
 
-2° A la date de l'augmentation de capital, les titres de la société ne répondent
-pas à la définition de la première phrase du 1° de l'article 163 octies ; cette
-définition s'applique lorsque la cotation a lieu dans des conditions comparables
-sur un marché étranger ;
+a) De techniciens collaborateurs de création ainsi que d'ouvriers de la
+production qui sont soit de nationalité française, soit ressortissants d'un Etat
+membre de la Communauté européenne, d'un Etat partie à la convention européenne
+sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers
+européen avec lequel la Communauté européenne a conclu des accords ayant trait
+au secteur audiovisuel, et pour lesquels les cotisations sociales sont
+acquittées auprès des organismes régis par le code de la sécurité sociale. Les
+étrangers, autres que les ressortissants européens précités, ayant la qualité de
+résidents français sont assimilés aux citoyens français ;
 
-3° Le capital de la société doit être entièrement libéré et détenu, y compris
-après l'augmentation de capital, pour plus de 50 p. 100 par des personnes
-physiques ;
+b) D'industries techniques de la cinématographie qui sont établies en France et
+qui y effectuent personnellement les prestations liées au tournage ainsi que les
+prestations de post-production. Ces industries techniques doivent être
+titulaires de l'autorisation prévue à l'article 14 du code de l'industrie
+cinématographique lorsque celle-ci est obligatoire ;
 
-4° Les souscriptions ne doivent pas entrer dans le champ d'application des
-dispositions du 2 de l'article 39 quinquies A, des articles 199 undecies et 199
-terdecies, du II de l'article 238 bis HA et de l'article 238 bis HE ;
+2° Les oeuvres cinématographiques d'animation doivent être réalisées
+principalement avec le concours :
 
-5° Les souscriptions en numéraire versées au titre de chaque augmentation de
-capital doivent être au moins égales à 25 p. 100 des capitaux propres à la
-clôture de l'exercice précédant cette opération. Les capitaux propres
-comprennent le capital, les primes liées au capital, les écarts de réévaluation,
-les réserves, le report à nouveau, les provisions ayant supporté l'impôt, les
-provisions réglementées constituées en franchise d'impôt et le résultat de
-l'exercice.
+a) De techniciens collaborateurs de création ainsi que de collaborateurs chargés
+de la préparation et de la fabrication de l'animation qui sont soit de
+nationalité française, soit ressortissants d'un Etat membre de la Communauté
+européenne, d'un Etat partie à la convention européenne sur la télévision
+transfrontière du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la
+Communauté européenne a conclu des accords ayant trait au secteur audiovisuel,
+et pour lesquels les cotisations sociales sont acquittées auprès des organismes
+régis par le code de la sécurité sociale. Les étrangers, autres que les
+ressortissants européens précités, ayant la qualité de résidents français sont
+assimilés aux citoyens français ;
 
-III. La base du crédit d'impôt est constituée des souscriptions en numéraire
-versées l'année au cours de laquelle l'augmentation de capital a été décidée.
-Elle est diminuée de la variation nette négative du montant global des comptes
-courants d'associés et de la réduction des capitaux propres mentionnés au 5° du
-II constatées entre le 15 septembre 1991 et la date de l'augmentation de
-capital. Toutefois, il n'est pas tenu compte de la réduction des capitaux
-propres qui résulte d'une distribution de bénéfices décidée par l'assemblée
-générale avant le 15 septembre 1991.
+b) De prestataires spécialisés dans les travaux de préparation et de fabrication
+de l'animation qui sont établis en France et qui effectuent personnellement ces
+travaux ;
 
-IV. Le montant du crédit d'impôt déterminé au titre de chacune des années 1992
-et 1993 est plafonné à 500 000 F. Il est imputable pour moitié sur l'impôt sur
-les sociétés dû au titre du premier exercice clos à compter du 31 décembre de
-l'année de l'augmentation de capital et, pour l'autre moitié, sur l'impôt dû au
-titre de l'exercice suivant.
+c) D'industries techniques de la cinématographie qui sont établies en France et
+qui effectuent personnellement les prestations de post-production. Ces
+industries techniques doivent être titulaires de l'autorisation prévue à
+l'article 14 du code de l'industrie cinématographique lorsque celle-ci est
+obligatoire ;
 
-Le crédit d'impôt qui n'a pu être imputé dans les conditions prévues à l'alinéa
-précédent n'est ni reportable ni restituable.
+3° Le respect des conditions prévues au 1° et au 2° est apprécié au moyen d'un
+barème de points attribués aux personnels et aux prestations mentionnés aux a et
+b du 1° et aux a, b et c du 2° répartis en groupes de professions et
+d'activités. Ce barème est fixé par décret.
 
-V. Le crédit d'impôt est réduit ou reversé :
+III. - A. - Le crédit d'impôt, calculé au titre de chaque exercice, est égal à
+20 % du montant total des dépenses suivantes correspondant à des opérations
+effectuées en France :
 
-1° En totalité lorsqu'il est constaté, au cours des trois années qui suivent
-l'augmentation de capital, une réduction des capitaux propres mentionnés au 5°
-du II, majorés du crédit d'impôt et des souscriptions en numéraire ayant donné
-lieu au crédit d'impôt ;
+1° Pour les oeuvres cinématographiques de fiction ainsi que pou r les oeuvres
+cinématographiques documentaires :
 
-2° Dans la limite de 25 p. 100 de la variation nette négative du montant global
-des comptes courants d'associés constatée au cours de la même période ;
+a) Les salaires et charges sociales afférents aux techniciens et ouvriers de la
+production cinématographique engagés par l'entreprise de production et pour
+lesquels les cotisations sociales sont acquittées auprès des organismes régis
+par le code de la sécurité sociale ;
 
-3° Dans la limite de 25 p. 100 des souscriptions au capital de sociétés non
-cotées versées au cours des années 1992 et 1993 ainsi que des sommes mises à la
-disposition d'autres sociétés au cours des mêmes années qui ont servi
-directement ou indirectement à une augmentation de capital éligible au crédit
-d'impôt.
+b) Les dépenses liées à l'utilisation de studios de prises de vues, y compris la
+construction de décors, d'effets spéciaux de tournage, ainsi que les dépenses de
+costumes, de coiffure et de maquillage ;
 
-VI. En cas de fusion ou d'absorption d'une société qui a bénéficié du crédit
-d'impôt, la société absorbante doit reverser le ou les crédits d'impôt de la
-société absorbée :
+c) Les dépenses de matériels techniques nécessaires au tournage ;
 
-1° En totalité lorsqu'il est constaté une réduction des capitaux propres de la
-société absorbante entre la date de la fusion et l'expiration du délai de trois
-ans qui suit l'augmentation de capital de la société absorbée ;
+d) Les dépenses de post-production, y compris les effets spéciaux ;
 
-2° Dans la limite de 25 p. 100 de la variation nette négative du montant global
-des comptes courants des associés de la société absorbée constatée au cours de
-la même période ;
+e) Les dépenses de pellicules et autres supports d'images et les dépenses de
+laboratoires ;
 
-3° Dans la limite de 25 p. 100 des souscriptions par la société absorbante au
-capital de sociétés non cotées versées au cours des années 1992 et 1993 ainsi
-que des sommes mises à la disposition d'autres sociétés au cours des mêmes
-années qui ont servi directement ou indirectement à une augmentation de capital
-éligible au crédit d'impôt.
+2° Pour les oeuvres cinématographiques d'animation :
 
-VII. Pour l'application des V et VI, il n'est procédé à aucun reversement
-lorsque la réduction des capitaux propres est exclusivement motivée par
-l'apurement des pertes subies par la société après l'augmentation de capital
-ayant donné lieu au crédit d'impôt ou lorsque la variation nette négative du
-montant global des comptes courants d'associés provient de leur incorporation au
-capital.
+a) Les salaires et charges sociales afférents aux techniciens de la production
+cinématographique et aux collaborateurs chargés de la préparation et de la
+fabrication de l'animation engagés par l'entreprise de production et pour
+lesquels les cotisations sociales sont acquittées auprès des organismes régis
+par le code de la sécurité sociale ;
 
-VIII. Pour l'appréciation de la réduction des capitaux propres et de la
-variation des comptes courants visées aux III, V et VI, il n'est pas tenu compte
-de la part qui provient d'une réévaluation, de fusions, scissions, apports ou
-opérations assimilées.
+b) Les dépenses liées au recours à des prestataires spécialisés dans les travaux
+de préparation et de fabrication de l'animation ;
 
-IX. Le montant du crédit d'impôt à reverser est majoré de l'intérêt de retard
-prévu à l'article 1727, décompté de la date à laquelle le crédit d'impôt a été
-imputé par la société.
+c) Les dépenses de matériels techniques nécessaires à la mise en images ;
 
-X. Pour l'application du présent article, les souscriptions en numéraire versées
-entre le 15 novembre et le 31 décembre 1991 et liées à une augmentation de
-capital décidée au cours de la même période sont réputées avoir été versées le
-1er janvier 1992.
+d) Les dépenses de post-production, y compris les effets spéciaux ;
 
-X bis. Les dispositions du présent article ne sont pas applicables à la personne
-morale qui bénéficie du crédit d'impôt mentionné au I de l'article 220 septies.
+e) Les dépenses de pellicules et autres supports d'images et les dépenses de
+laboratoires.
 
-XI. Un décret fixe les conditions d'application du présent article, notamment
-les obligations déclaratives des sociétés (1).
+B. - Pour les dépenses correspondant aux prestations mentionnées au A, les
+prestataires auxquels fait appel l'entreprise de production doivent être établis
+en France et y effectuer personnellement ces prestations.
 
-(1) Voir les articles 46 quater-0 YD et 46 quater-0 YE de l'annexe III.
+C. - Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance par
+le directeur général du Centre national de la cinématographie d'un agrément à
+titre provisoire attestant que l'oeuvre cinématographique remplira les
+conditions prévues au II. Cet agrément est délivré sur la base de pièces
+justificatives, comprenant notamment un devis détaillé des dépenses de
+production individualisant les dépenses prévues en France ainsi que la liste
+nominative des salariés, industries techniques et prestataires spécialisés,
+précisant leur nationalité. Pour les salariés mentionnés au a du 1° et au a du
+2° du II, l'entreprise de production doit également fournir copie de la
+déclaration prévue à l'article L. 320 du code du travail et du document en
+accusant réception par l'organisme destinataire.
+
+IV. - Les subventions publiques non remboursables reçues par les entreprises et
+directement affectées aux dépenses visées au III sont déduites des bases de
+calcul du crédit d'impôt.
+
+V. - La somme des crédits d'impôt calculés au titre d'une même oeuvre
+cinématographique ne peut excéder 500 000 Euros pour une oeuvre
+cinématographique de fiction ou une oeuvre cinématographique documentaire et 750
+000 Euros pour une oeuvre cinématographique d'animation.
+
+En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des
+entreprises de production, proportionnellement à sa part dans les dépenses
+exposées.

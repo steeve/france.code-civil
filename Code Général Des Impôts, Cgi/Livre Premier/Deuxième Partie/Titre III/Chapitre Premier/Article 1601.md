@@ -12,17 +12,20 @@ de la sécurité sociale sont dégrevées d'office de la taxe.
 
 Cette taxe est composée :
 
-a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la
-limite d'un montant maximum fixé à 105 euros ;
+a. D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés
+par la chambre de métiers, la chambre régionale de métiers et l'Assemblée
+permanente des chambres de métiers dans la limite d'un montant maximum fixé
+respectivement à 93,50 Euros, 7 Euros et 12,50 Euros ;
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté
 par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit
-fixe.
+fixe revenant aux chambres de métiers majoré d'un coefficient de 1,12.
 
 Toutefois, les chambres de métiers sont autorisées à porter le produit du droit
 additionnel jusqu'à 85 % du produit du droit fixe, afin de mettre en oeuvre des
 actions ou de réaliser des investissements, dans des conditions définies par
-décret en Conseil d'Etat (1).
+décret en Conseil d'Etat.
 
-Le présent article n'est pas applicable dans les départements du Bas-Rhin, du
-Haut-Rhin et de la Moselle.
+Les dispositions du présent article relatives aux chambres de métiers ne sont
+pas applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle.

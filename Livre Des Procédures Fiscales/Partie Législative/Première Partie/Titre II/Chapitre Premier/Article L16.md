@@ -12,7 +12,8 @@ L'administration peut demander au contribuable des justifications sur tous les
 éléments servant de base à la détermination du revenu foncier tels qu'ils sont
 définis aux articles 28 à 33 quinquies du code général des impôts ainsi que des
 gains de cession de valeurs mobilières ou de droits sociaux tels qu'ils sont
-définis aux articles 150-0 A à 150-0 E du même code.
+définis aux articles 150-0 A à 150-0 E du même code et des plus-values telles
+qu'elles sont définies aux articles 150 U à 150 VH du même code.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les
 points sur lesquels elles portent et mentionner à l'intéressé le délai de

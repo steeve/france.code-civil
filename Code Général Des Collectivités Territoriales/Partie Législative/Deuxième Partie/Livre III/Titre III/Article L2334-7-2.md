@@ -53,11 +53,13 @@ ci-dessus est insuffisant, le complément est prélevé sur le montant de
 l'attribution de compensation versée par le groupement à la commune.
 
 A compter de 2001, le montant du prélèvement visé à l'alinéa précédent évolue
-comme la dotation forfaitaire.
+comme la dotation forfaitaire. A compter de 2004, le montant du prélèvement est
+calculé conformément aux dispositions de l'avant-dernier alinéa de l'article L.
+2334-7.
 
 Il est créé, à compter de 2000, un fonds qui dispose en ressources du
-prélèvement défini au premier alinéa du III. Les ressources de ce fonds sont
-réparties en application de l'article L. 3334-7-1.
+prélèvement défini au premier alinéa du III. Les ressources de ce fonds viennent
+abonder la dotation globale de fonctionnement de l'année.
 
 Les sommes affectées à ce fonds ne sont pas prises en compte dans le montant de
 la dotation globale de fonctionnement pour l'application des I et II de

@@ -1,24 +1,17 @@
 Article 150 VA
 ----
-Pour l'application des dispositions de l'article 150 A, la plus-value réalisée
-du 25 novembre 1993 au 31 décembre 1994 lors de la cession d'un logement peut,
-sur demande du contribuable, être exonérée lorsque le produit de la cession est
-investi, dans un délai de quatre mois, dans l'acquisition ou la construction
-d'un immeuble situé en France et affecté exclusivement à l'habitation principale
-du cédant.
+I. - Le prix de cession à retenir est le prix réel tel qu'il est stipulé dans
+l'acte. Lorsqu'une dissimulation de prix est établie, le prix porté dans l'acte
+doit être majoré du montant de cette dissimulation.
 
-Cette exonération s'applique dans la limite d'un montant de cession de 600.000 F
-pour un contribuable célibataire, veuf ou divorcé ou 1.200.000 F pour des
-contribuables mariés soumis à imposition commune. Ces limites s'apprécient sur
-la période mentionnée à l'alinéa précédent.
+Lorsqu'un bien est cédé contre une rente viagère, le prix de cession retenu pour
+ce bien est la valeur en capital de la rente, à l'exclusion des intérêts.
 
-En cas de franchissement de ces limites, la fraction de la plus-value dont le
-montant est exonéré est déterminée selon le rapport existant entre 600.000 F ou
-1.200.000 F, selon le cas, et le montant de la cession.
+II. - Le prix de cession est majoré de toutes les charges et indemnités
+mentionnées au deuxième alinéa du I de l'article 683. Les indemnités d'assurance
+consécutives à un sinistre partiel ou total d'un immeuble ne sont pas prises en
+compte.
 
-Ces dispositions ne sont pas applicables aux cessions d'immeubles dont
-l'acquisition a ouvert droit au bénéfice des dispositions des articles 199
-nonies, 199 decies A et 199 undecies.
-
-Un décret précise les modalités d'application du présent article, notamment les
-obligations déclaratives des contribuables.
+III. - Le prix de cession est réduit, sur justificatifs, du montant de la taxe
+sur la valeur ajoutée acquittée et des frais, définis par décret, supportés par
+le vendeur à l'occasion de cette cession.

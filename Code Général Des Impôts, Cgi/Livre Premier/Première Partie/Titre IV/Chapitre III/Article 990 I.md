@@ -6,10 +6,10 @@ un ou plusieurs organismes d'assurance et assimilés, à raison du décès de
 l'assuré, sont assujetties à un prélèvement de 20 % à concurrence de la part
 revenant à chaque bénéficiaire de ces sommes, rentes ou valeurs correspondant à
 la fraction rachetable des contrats et des primes versées au titre de la
-fraction non rachetable des contrats autres que ceux mentionnés au premier
-alinéa du 2° de l'article 199 septies et que ceux mentionnés aux articles 154
-bis, 885 J et au 1° de l'article 998 et souscrits dans le cadre d'une activité
-professionnelle, diminuée d'un abattement de 152 500 euros.
+fraction non rachetable des contrats autres que ceux mentionnés au 1° du I de
+l'article 199 septies et que ceux mentionnés aux articles 154 bis, 885 J et au
+1° de l'article 998 et souscrits dans le cadre d'une activité professionnelle,
+diminuée d'un abattement de 152 500 euros.
 
 Le bénéficiaire doit produire auprès des organismes d'assurance et assimilés une
 attestation sur l'honneur indiquant le montant des abattements déjà appliqués
@@ -29,4 +29,4 @@ et suivants.
 III. - Les organismes d'assurance et assimilés non établis en France et admis à
 y opérer en libre prestation de services doivent désigner un représentant
 résidant en France personnellement responsable du paiement du prélèvement prévu
-au I (1).
+au I.

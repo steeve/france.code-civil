@@ -1,13 +1,7 @@
 Article L731-8
 ----
-Ainsi qu'il est dit au I de l'article 58 de la loi de finances mentionnée à
-l'article L. 731-1, en fin d'année, les excédents de recettes ou de dépenses du
-budget annexe sont réglés comme suit :
-
-1° Les excédents de recettes sont affectés, d'abord, au remboursement des
-avances du Trésor, ensuite, au fonds de réserve prévu à l'article L. 731-7.
-Lorsque le fonds de réserve atteint le maximum fixé par ledit article, les
-excédents de recettes sont reportés sur l'année suivante ;
-
-2° Les excédents de dépenses sont couverts par des prélèvements sur le fonds de
-réserve, ou, à défaut, par des avances du Trésor.
+Les frais d'assiette et de recouvrement des divers impôts, taxes et amendes
+mentionnés à l'article L. 731-4 sont à la charge du fonds en proportion du
+produit qui lui est directement affecté. Leur montant est fixé par arrêté du
+ministre chargé du budget et du ministre chargé de l'agriculture dans la limite
+de 0,5 % de ce produit.

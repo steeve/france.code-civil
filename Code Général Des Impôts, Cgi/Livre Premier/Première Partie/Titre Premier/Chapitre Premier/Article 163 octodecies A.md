@@ -36,11 +36,12 @@ profit de sociétés soumises à l'impôt sur les sociétés qui remplissent les
 conditions mentionnées à l'article 44 sexies.
 
 Toutefois, pour l'application du premier alinéa du II de l'article 44 sexies,
-les participations des sociétés de capital-risque, des sociétés de développement
-régional et des sociétés financières d'innovation ne sont pas prises en compte à
-la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
-39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même,
-ce pourcentage ne tient pas compte des participations des fonds communs de
+les participations des sociétés de capital-risque, des sociétés unipersonnelles
+d'investissement à risque, des sociétés de développement régional et des
+sociétés financières d'innovation ne sont pas prises en compte à la condition
+qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société bénéficiaire de l'apport et ces dernières sociétés. De même, ce
+pourcentage ne tient pas compte des participations des fonds communs de
 placement à risques, des fonds d'investissement de proximité ou des fonds
 communs de placement dans l'innovation.
 
