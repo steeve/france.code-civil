@@ -51,6 +51,12 @@ chaque année l'indice applicable en fonction du produit obtenu en multipliant
 l'indice de 1981, soit 15,18, par le coefficient global d'évolution des salaires
 entre 1981 et l'année précédant immédiatement l'exercice en cours.
 
+" A compter du 1er juillet 1990, les calculs ci-dessus ne prendront en compte
+que les navigants âgés de plus de trente ans et de moins de quarante-neuf ans au
+1er janvier de l'année considérée ; l'exercice civil de base 1981 du deuxième
+alinéa est remplacé par l'exercice civil de base 1989 dont l'indice, fixé à
+24,44, se substitue à l'indice 15,18 de 1981. "
+
 c) Salaire moyen indexé de carrière
 
 Pour chacune des annuités ou fractions d'annuités validées à titre onéreux, le
@@ -59,10 +65,11 @@ présent article, ayant servi d'assiette aux cotisations, par l'indice de l'ann�
 correspondante. Le salaire moyen indexé de carrière est obtenu en divisant la
 somme des salaires indexés par le nombre d'annuités validées à titre onéreux.
 
-Toutefois, et sous réserve du d du présent article, lorsque l'affilié réunit
-plus de vingt-cinq annuités constituées de services civils, les salaires
-afférents aux vingt-cinq meilleures annuités sont seuls pris en compte dans ce
-calcul.
+" Toutefois, et sous réserve du paragraphe d du présent article, lorsque
+l'affilié ne bénéficie pas des dispositions prévues au e de l'article R. 426-13
+et réunit plus de vingt-cinq annuités validées à titre onéreux, les salaires
+afférents aux vingt-cinq meilleures annuités sont seuls pris en compte dans le
+calcul. "
 
 Lorsque la durée totale des services civils et des services de guerre précédés
 et suivis de services civils est supérieure à vingt-cinq ans, seuls sont pris en

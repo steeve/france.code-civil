@@ -7,9 +7,10 @@ acquittées sur les salaires versés aux intéressés pendant lesdites périodes
 Les services mentionnés aux f, g, h, k et l de l'article R. 426-13 ne peuvent
 être pris en compte que moyennant le versement par l'intéressé, pour chaque
 année à valider, de la double cotisation définie aux articles R. 426-6, R. 426-7
-et R. 426-8, assise sur le premier salaire annuel brut perçu après reprise
-d'activité normale, à l'exclusion des rémunérations des périodes de stage, de
-formation ou de contrôle.
+et R. 426-8 et des cotisations prévues à l'article R.426-10, assise sur le
+premier salaire annuel brut perçu après reprise d'activité normale, à
+l'exclusion des rémunérations des périodes de stage, de formation ou de
+contrôle.
 
 Les services mentionnés aux b et i de l'article précédent ne peuvent être pris
 en compte que moyennant le rachat des droits correspondant aux cotisations

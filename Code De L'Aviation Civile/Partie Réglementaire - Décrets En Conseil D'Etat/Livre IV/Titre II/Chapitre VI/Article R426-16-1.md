@@ -7,7 +7,10 @@ indexé majoré défini au d de l'article R. 426-5.
 Ce salaire est divisé en deux tranches conformément au e de l'article R. 426-5.
 A chacune d'elles est attribué, pour toute annuité validée définie à l'article
 R. 426-13, dans la limite de vingt-cinq, un taux de pension égal à 1,85 p. 100
-pour la première tranche et à 1,4 p. 100 pour la deuxième tranche.
+pour la première tranche et à 1,4 p. 100 pour la deuxième tranche. La somme
+obtenue est multipliée par l'indice de revalorisation des pensions et des
+limites des tranches de salaires applicables à la date de liquidation de la
+pension. "
 
 Si l'affilié a eu au moins trois enfants, la part de la pension correspondant à
 la première tranche définie à l'article R. 426-5 e est majorée de 2,5 p. 100.
