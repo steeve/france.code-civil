@@ -1,11 +1,9 @@
 Article D635-10
 ----
-Les disponibilités du régime institué par l'article D. 635-2 excédant ses
-besoins de trésorerie peuvent être utilisées pour consentir des avances de
-trésorerie au régime de base d'assurance vieillesse des professions artisanales
-mentionné aux articles L. 634-2 à L. 634-5.
-
-Un arrêté du ministre chargé de la sécurité sociale, du ministre chargé du
-budget et du ministre chargé de l'artisanat fixe les conditions dans lesquelles
-ces opérations sont réalisées et comptabilisées ainsi que le taux de
-rémunération et les conditions de remboursement des avances en cause.
+Le taux de la cotisation annuelle d'assurance vieillesse complémentaire des
+industriels et commerçants est fixé pour l'année 2004 à 3,5 % pour le premier
+semestre et à 4,5 % pour le second semestre. Ce taux s'applique sur le revenu
+professionnel dans une limite égale à trois fois le plafond prévu à l'article L.
+241-3. Pour les assurés commençant l'exercice de leur activité, la cotisation
+annuelle est calculée sur les revenus forfaitaires mentionnés au sixième alinéa
+de l'article L. 131-6.

@@ -1,15 +1,14 @@
 Article D635-7
 ----
-Il est ouvert au nom de chacun des assurés un compte de points de retraite ; le
-nombre de points portés à ce compte chaque année est déterminé en divisant par
-un revenu de référence le montant de la cotisation prévue au premier alinéa de
-l'article D. 635-6, et versée par l'assuré au titre de cet exercice.
+Le taux de la cotisation annuelle d'assurance vieillesse complémentaire des
+artisans est fixé à 7 %. Ce taux s'applique sur le revenu professionnel dans une
+limite égale à quatre fois le plafond prévu à l'article L. 241-3. Pour les aides
+familiaux, la cotisation annuelle est assise sur un revenu égal au tiers du
+plafond mentionné à l'article L. 241-3 ou sur un revenu égal à celui du chef
+d'entreprise, si celui-ci est inférieur. Pour les assurés commençant l'exercice
+d'une profession artisanale ou assimilée, la cotisation annuelle est assise :
 
-Sous les conditions d'attribution et de service définies par le règlement prévu
-à l'article L. 635-5, le montant annuel de la prestation du régime d'assurance
-vieillesse complémentaire allouée à l'assuré est obtenu par le produit du nombre
-total de points de retraite porté au compte de l'intéressé par la valeur donnée
-au point de retraite.
+1° Pour l'année ou la fraction d'année de début d'exercice, sur un revenu
+correspondant au tiers du plafond mentionné à l'article L. 241-3 ;
 
-Le taux de rendement du régime s'obtient, chaque année, par le rapport de la
-valeur du point de retraite et de celle du revenu de référence.
+2° Pour l'année suivante, sur un revenu correspondant à la moitié dudit plafond.

@@ -1,4 +1,8 @@
 Article D635-1
 ----
-L'arrêté mentionné à l'article L. 635-1 est pris par le ministre chargé de la
-sécurité sociale.
+La Caisse nationale de l'organisation autonome d'assurance vieillesse des
+professions artisanales et la Caisse nationale de l'organisation autonome
+d'assurance vieillesse des professions industrielles et commerciales assurent,
+chacune en ce qui la concerne, la gestion d'un régime complémentaire obligatoire
+d'assurance vieillesse. Ce régime attribue des avantages révisables chaque
+année, selon les ressources qui lui sont affectées.
