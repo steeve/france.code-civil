@@ -12,7 +12,7 @@ recouvrés par les comptables de la direction générale des impôts ;
 
 c) Au directeur régional des douanes et droits indirects, s'il s'agit de
 contributions indirectes, droits, taxes, redevances, impositions assimilées et
-du droit spécifique prévu par l'article 527 du code général des impôts recouvrés
+de la contribution prévue par l'article 527 du code général des impôts recouvrés
 par les comptables de la direction générale des douanes et droits indirects.
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le
