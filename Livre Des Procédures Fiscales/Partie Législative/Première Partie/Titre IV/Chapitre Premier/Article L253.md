@@ -18,3 +18,8 @@ intercommunale à fiscalité additionnelle en établissement public de coopérat
 intercommunale à taxe professionnelle unique, les variations d'imposition pour
 les taxes acquittées par les ménages s'appliquent à la part cumulée de la
 commune et de l'intercommunalité.
+
+Les avis d'imposition des contribuables des communes soumises aux prélèvements
+prévus à l'article L 2531-13 du code général des collectivités territoriales
+mentionnent le montant de la contribution de leur commune au fonds de solidarité
+des communes de la région d'Ile-de-France.

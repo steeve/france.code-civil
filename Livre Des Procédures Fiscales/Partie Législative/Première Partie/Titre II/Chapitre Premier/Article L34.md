@@ -22,9 +22,10 @@ l'article 515 du code général des impôts. Les agents de l'administration
 contrôlent la régularité des énonciations qui y sont portées. A l'occasion de
 cet examen, les agents peuvent contrôler la cohérence entre les indications
 portées dans la comptabilité matières et les pièces de recettes et de dépenses
-et sur les documents d'accompagnement visés à l'article 302 M. Ils peuvent
-demander, en outre, tous renseignements, justifications ou éclaircissements,
-relatifs aux indications portées dans la comptabilité matières.
+et sur les documents d'accompagnement visés à l'article 302 M du code précité.
+Ils peuvent demander, en outre, tous renseignements, justifications ou
+éclaircissements, relatifs aux indications portées dans la comptabilité
+matières.
 
 Chaque intervention fait l'objet d'un procès-verbal relatant les opérations
 effectuées, dont copie est transmise à l'occupant des locaux contrôlés.
