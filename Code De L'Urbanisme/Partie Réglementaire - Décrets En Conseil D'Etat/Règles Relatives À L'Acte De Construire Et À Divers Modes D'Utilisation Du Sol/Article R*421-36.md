@@ -33,9 +33,9 @@ chargé de l'urbanisme ont émis des avis en sens contraire ;
 
 8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ;
 
-9° Pour les constructions susceptibles d'être exposées au bruit autour des
-aérodromes et comprises dans les secteurs définis par arrêté du commissaire de
-la République ;
+9° Pour les constructions comprises dans les zones délimitées par le plan
+d'exposition au bruit d'un aérodrome approuvé par arrêté du commissaire de la
+République ;
 
 10° Pour les constructions pour lesquelles un changement de destination doit
 être autorisé en application de l'article L. 631-7 du code de la construction et
