@@ -8,12 +8,8 @@ un relevé des opérations de l'année précédente mentionnant :
 1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a
 effectuées et des rachats opérés par le fonds.
 
-Ce montant distingue les fractions représentatives des titres cotés et non cotés
-d'après le rapport existant entre ces deux catégories de titres à la date et
-dans les conditions définies à l'article 39 quater ;
-
-2° La valeur globale des apports en nature de titres, ventilée entre titres
-cotés et titres non cotés, effectués par chaque propriétaire de parts ;
+2° La valeur globale des apports en nature de titres effectués par chaque
+propriétaire de parts ;
 
 3° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des
 parts pendant une partie de l'année, la période pendant laquelle la limite de 10
@@ -33,9 +29,7 @@ ses parts annulées, leur catégorie et leur valeur moyenne pondérée d'acquisi
 
 c. Le montant des attributions en nature ou en espèces, autres que celles
 présentant le caractère de revenus de capitaux mobiliers, revenant à chaque
-propriétaire, ventilé en proportion des titres cotés et non cotés par rapport au
-montant total constitué par ces deux catégories de titres compris dans les
-avoirs du fonds à la date de la dissolution ou de la distribution ;
+propriétaire.
 
 5° En cas de distribution d'une partie des avoirs du fonds effectuée sans
 annulation de parts :
@@ -47,7 +41,6 @@ propriétaire de parts ainsi que le nombre et la catégorie de parts détenues
 ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ;
 
 c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant
-à chaque propriétaire, ventilé dans les conditions précisées au 4° ;
+à chaque propriétaire.
 
-d. Le rapport existant entre le montant de la distribution et celui des avoirs
-du fonds à la date de la distribution.
+d. (abrogé)
