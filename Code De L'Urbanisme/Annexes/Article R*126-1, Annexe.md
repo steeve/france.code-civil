@@ -23,22 +23,16 @@ Servitude de passage sur le littoral instituée en application des articles L.
 
 c) Eaux.
 
-Servitudes attachées aux conditions de flottage à bûches perdues sur les cours
-d'eau non domaniaux instituées en application des articles 30 à 32 de la loi du
-8 avril 1898 sur le régime des eaux.
+Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement
+ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes
+instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les
+conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
 
-Servitudes prévues aux articles 100 et 101 du code rural ainsi que celles
-prévues par le décret n° 59-96 du 7 janvier 1959 relatif au passage des engins
-mécaniques d'entretien sur les berges et dans le lit des cours d'eau non
-domaniaux.
-
-Servitudes attachées à la protection des eaux potables instituées en vertu de
-l'article L. 20 du code de la santé publique et du décret n° 61-859 du 1er août
-1961, modifié par le décret n° 67-1093 du 15 décembre 1967, pris pour son
-application.
+Servitudes attachées à la protection des eaux potables instituées en vertu des
+articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 
 Servitudes attachées à la protection des eaux minérales instituées en
-application des articles L. 736 et suivants du code de la santé publique.
+application des articles L. 1322-3 à L. 1322-13 du code de la santé publique.
 
 d) Réserves naturelles et parcs nationaux.
 
@@ -315,3 +309,6 @@ dispositions en matière de transports.
 Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663
 du 19 juillet 1976 relative aux installations classées pour la protection de
 l'environnement.
+
+Servitudes d'utilité publique instituées en application de l'article L. 211-12
+du code de l'environnement.

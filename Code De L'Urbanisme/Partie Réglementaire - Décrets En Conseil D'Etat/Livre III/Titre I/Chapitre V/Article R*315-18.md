@@ -43,3 +43,10 @@ les autorités et services publics habilités à demander que soient prescrites 
 contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le
 délai d'un mois, ces autorités et services publics sont réputés n'avoir aucune
 proposition de contribution à formuler.
+
+Lorsque le projet est situé dans une zone de servitude instituée en application
+de l'article L. 211-12 du code de l'environnement et est susceptible, en raison
+de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet.
+Celui-ci dispose d'un délai de deux mois pour s'opposer à l'exécution des
+travaux ou prescrire les modifications nécessaires.
