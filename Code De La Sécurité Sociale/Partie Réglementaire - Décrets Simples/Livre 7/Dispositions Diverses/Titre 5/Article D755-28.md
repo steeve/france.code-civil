@@ -23,3 +23,8 @@ pour la première fois par le bénéficiaire.
 
 L'arrêté interministériel prévu au présent article fixe en outre le plafond de
 la prime de déménagement.
+
+Le loyer mensuel payé par les étudiants logés en résidence universitaire est
+réputé égal à 400 F [*montant*].
+
+Ce montant est augmenté de la majoration forfaitaire représentative des charges.

@@ -1,8 +1,8 @@
 Article D755-16
 ----
 Les ressources mentionnées à l'article D. 755-15 sont déterminées dans les
-conditions prévues aux premier, deuxième, troisième et quatrième alinéas de
-l'article D. 542-10.
+conditions prévues aux premier, deuxième, troisième, quatrième et dernier
+alinéas de l'article D. 542-10.
 
 Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire
 déterminé dans les conditions prévues aux cinquième et sixième alinéas de
