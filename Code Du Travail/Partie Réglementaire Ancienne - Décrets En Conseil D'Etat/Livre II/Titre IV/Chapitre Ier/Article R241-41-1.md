@@ -1,15 +1,16 @@
 Article R241-41-1
 ----
-Le médecin du travail établit chaque année un plan d'études qui porte sur les
-risques, les postes et les conditions de travail dans la ou les entreprises dont
-il a la charge.
+Le médecin du travail établit chaque année [*périodicité*], en fonction de
+l'état et des besoins de santé des salariés, un plan d'activité en milieu de
+travail qui porte sur les risques, les postes et les conditions de travail. Ce
+plan prévoit notamment les études à entreprendre ainsi que le nombre et la
+fréquence minimaux des visites des lieux de travail, dans la ou les entreprises
+dont le médecin a la charge.
 
-Dans les entreprises où il existe un comité d'hygiène, de sécurité et des
-conditions de travail, ce plan est transmis au comité auquel il est présenté
-pour avis, sur rapport du médecin du travail.
+Ce plan peut concerner une ou plusieurs entreprises et être commun à plusieurs
+médecins du travail.
 
-Dans les autres cas, le plan d'études peut être commun à plusieurs médecins du
-travail et concerner plusieurs entreprises ou groupes d'entreprises. Il est
-transmis pour avis au comité d'entreprise ou aux délégués du personnel de la ou
-des entreprises intéressées puis communiqué pour information à la commission de
-contrôle ou au comité interentreprises.
+Le plan ou, dans le cas d'un plan concernant plusieurs entreprises, les éléments
+du plan propres à l'entreprise sont transmis à l'employeur qui le soumet, pour
+avis, au comité d'hygiène, de sécurité et des conditions de travail concerné,
+sur le rapport du médecin du travail ou, à défaut, aux délégués du personnel.

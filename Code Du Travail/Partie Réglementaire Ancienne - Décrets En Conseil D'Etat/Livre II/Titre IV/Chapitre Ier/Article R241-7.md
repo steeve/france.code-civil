@@ -5,6 +5,11 @@ l'objet d'un agrément préalable par le directeur régional du travail et de
 l'emploi, après avis du médecin inspecteur régional du travail et de la main
 d'oeuvre.
 
+Le directeur régional du travail et de l'emploi peut autoriser le rattachement
+au service médical du travail qu'il agrée d'un établissement de l'entreprise
+situé dans le ressort d'une région limitrophe, sous réserve de l'accord du
+directeur régional du travail et de l'emploi géographiquement compétent.
+
 L'agrément ne peut être refusé que pour des motifs tirés de la non-conformité
 aux prescriptions du présent chapitre.
 

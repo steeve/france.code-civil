@@ -1,6 +1,6 @@
 Article R241-1
 ----
-Le service médical du travail des entreprises et établissements prévus à
+Le service médical du travail des entreprises et établissements mentionnés à
 l'article L. 241-1, à l'exception des entreprises et établissements agricoles
 ainsi que des établissements régis par le chapitre II du présent titre, est
 organisé sous la forme :
@@ -16,6 +16,19 @@ choix est fait par l'employeur, sauf opposition du comité d'entreprise ou, le
 cas échéant, du comité central d'entreprise, ou, à défaut, des délégués du
 personnel préalablement consultés.
 
-En cas d'opposition, la décision de l'employeur est subordonnée à l'autorisation
-du directeur régional du travail et de l'emploi, qui se prononce après avis du
-médecin inspecteur régional du travail et de la main-d'oeuvre.
+En cas d'opposition, qui doit être motivée, la décision de l'employeur est
+subordonnée à l'autorisation du directeur régional du travail et de l'emploi,
+prise après avis du médecin inspecteur régional du travail et de la
+main-d'oeuvre.
+
+La demande d'autorisation est accompagnée du procès-verbal de la réunion du
+comité d'entreprise ou du comité central d'entreprise ou, le cas échéant, de
+l'avis des délégués du personnel et précise les raisons du choix opéré par
+l'employeur.
+
+L'autorisation est réputée acquise si aucune réponse n'a été notifiée à
+l'employeur dans le délai d'un mois à compter de la réception de sa demande.
+
+Les autorisations et les refus d'autorisation sont motivés. En cas
+d'autorisation implicite, les motifs doivent être fournis, sur demande, dans le
+délai d'un mois.

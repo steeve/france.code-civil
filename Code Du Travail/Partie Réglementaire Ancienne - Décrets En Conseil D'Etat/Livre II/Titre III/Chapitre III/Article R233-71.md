@@ -9,5 +9,7 @@ Les résultats des examens et vérifications effectués à cet effet ainsi que l
 détail des mesures prises sont tenus à la disposition de l'inspecteur du
 travail, de l'agent de contrôle des services de prévention des caisses
 régionales d'assurance maladie et des caisses de mutualité sociale agricole
-ainsi que du comité d'hygiène et de sécurité ou, à défaut, des délégués du
-personnel [*information*].
+ainsi que de l'organisme professionnel d'hygiène, de sécurité et des conditions
+de travail créé en application du 4° de l'article L. 231-2, s'il y a lieu, et du
+comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des
+délégués du personnel [*information*].

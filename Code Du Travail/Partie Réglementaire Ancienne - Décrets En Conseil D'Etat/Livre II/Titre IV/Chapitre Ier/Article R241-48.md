@@ -1,12 +1,12 @@
 Article R241-48
 ----
-Tout salarié fait l'objet d'un examen médical avant l'embauchage ou au plus tard
-avant l'expiration de la période d'essai qui suit l'embauchage [*période*].
+I. - Tout salarié fait l'objet d'un examen médical avant l'embauchage ou au plus
+tard avant l'expiration de la période d'essai qui suit l'embauchage [*période*].
 
-Le salarié soumis à une surveillance médical spéciale définie à l'article R.
+Le salarié soumis à une surveillance médicale spéciale définie à l'article R.
 241-50 bénéficie obligatoirement de cet examen avant son embauchage.
 
-L'examen médical pour but :
+L'examen médical a pour but :
 
 1° De rechercher si le salarié n'est pas atteint d'une affection dangereuse pour
 les autres travailleurs ;
@@ -17,13 +17,25 @@ d'établissement envisage de l'affecter ;
 3° De proposer éventuellement les adaptations du poste ou l'affectation à
 d'autres postes.
 
-Lorsqu'un salarié change d'entreprise moins de trois mois après une visite
-médicale à l'issue de laquelle aucune inaptitude n'a été reconnue, l'examen
-d'embauchage n'est pas obligatoire s'il est appelé à occuper un emploi similaire
-et s'il communique au médecin du travail du nouveau service la fiche médicale
-établie en application de l'article R. 241-57. Le médecin du travail apprécie
-s'il doit être procédé à un nouvel examen médical.
+II. - Sauf si le médecin du travail l'estime nécessaire ou si le salarié en fait
+la demande, un nouvel examen d'embauchage n'est pas obligatoire lorsque les
+conditions suivantes sont réunies :
 
-Le délai de trois mois est porté à six mois dans le cas où le salarié qui change
-d'entreprise reste sous la surveillance du même médecin du travail ou du même
-service interentreprises.
+1° Le salarié est appelé à occuper un emploi identique ;
+
+2° Le médecin du travail concerné est en possession de la fiche d'aptitude
+établie en application de l'article R. 241-57 ;
+
+3° Aucune inaptitude n'a été reconnue lors du dernier examen médical intervenu
+au cours soit des douze mois précédents [*période*] si le salarié est à nouveau
+embauché par le même employeur, soit des six derniers mois lorsque le salarié
+change d'entreprise.
+
+Les dispositions de l'alinéa qui précède ne sont pas applicables aux salariés
+bénéficiant d'une surveillance médicale prévue par les règlements pris en
+application de l'article L. 231-2 (2°) ou relevant des dispositions de l'article
+R. 241-50.
+
+Elles peuvent s'appliquer, en cas de pluralité d'employeurs, sous réserve que
+ceux-ci aient conclu un accord prévoyant notamment les modalités de répartition
+de la charge de la surveillance médicale.
