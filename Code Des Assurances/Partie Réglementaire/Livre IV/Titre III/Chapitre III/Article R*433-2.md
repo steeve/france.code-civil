@@ -1,7 +1,6 @@
 Article R*433-2
 ----
-Le ministre de l'économie et des finances et le ministre chargé de la sécurité
-sociale fixent par arrêté, sur proposition de la commission supérieure de la
-caisse nationale de prévoyance, les taux d'intérêt et les tables de mortalité
-servant de base à l'établissement des tarifs des diverses catégories
-d'assurances.
+Une ou plusieurs conventions entre la caisse nationale de prévoyance et la
+caisse des dépôts et consignations définissent les conditions dans lesquelles la
+caisse des dépôts et consignations assure la gestion de la caisse nationale de
+prévoyance.

@@ -1,21 +1,16 @@
 Article R*433-1
 ----
-Sont applicables à la caisse nationale de prévoyance les dispositions suivantes
-de la deuxième partie "Réglementaire" du présent code :
+La Caisse nationale de prévoyance est un établissement public national à
+caractère industriel et commercial doté de la personnalité morale et de
+l'autonomie financière.
 
-a) Titre Ier et III du livre Ier ;
+Elle est placée sous la tutelle du ministre chargé de l'économie et des
+finances.
 
-b) Titre IV du livre Ier, à l'exception de l'article R. 140-6 ; c) Sections I,
-II et III du titre VI du livre Ier ;
+Elle peut accomplir les missions qui lui sont confiées par la loi soit
+directement, soit par l'intermédiaire d'entreprises dans lesquelles elle détient
+la majorité au sein des organes délibérants.
 
-d) Articles R. 310-1 à R. 310-2 ;
-
-e) Titre III du livre III, à l'exception du chapitre V, ainsi que de l'article
-R. 331-7 ;
-
-f) Titre IV du livre III ;
-
-Toutefois, les pouvoirs du ministre de l'économie et des finances et du conseil
-national des assurances sont exercés par la commission supérieure de la caisse
-nationale de prévoyance pour l'application des dispositions du titre III du
-livre III.
+Elle peut également aux mêmes fins prendre des participations dans des
+entreprises se livrant à des activités complémentaires ou connexes et
+directement reliées à ses activités propres.
