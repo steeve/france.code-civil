@@ -7,6 +7,6 @@ produit provenant de celle-ci, à quelque personne qu'ils appartiennent et en
 quelque lieu qu'ils se trouvent, dès lors que leur propriétaire ne pouvait en
 ignorer l'origine ou l'utilisation frauduleuse.
 
-Dans les cas prévus par les articles 222-34, 222-35, 222-36 et 222-38, peut
-également être prononcée la confiscation de tout ou partie des biens du
+Dans les cas prévus par les articles 222-34, 222-35, 222-36, 222-38 et 222-39-1,
+peut également être prononcée la confiscation de tout ou partie des biens du
 condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou indivis.

@@ -1,8 +1,7 @@
 Article 788
 ----
-Le condamné doit, sauf le cas de prescription, justifier du paiement des frais
-de justice, de l'amende et des dommages-intérêts ou de la remise qui lui en est
-faite.
+Le condamné doit, sauf le cas de prescription, justifier du paiement de l'amende
+et des dommages-intérêts ou de la remise qui lui en est faite.
 
 A défaut de cette justification, il doit établir qu'il a subi le temps de
 contrainte judiciaire déterminé par la loi ou que le Trésor a renoncé à ce moyen
@@ -11,10 +10,6 @@ d'exécution.
 S'il est condamné pour banqueroute frauduleuse, il doit justifier du paiement du
 passif de la faillite en capital, intérêts et frais ou de la remise qui lui en
 est faite.
-
-Néanmoins, si le condamné justifie qu'il est hors d'état de se libérer des frais
-de justice, il peut être réhabilité même dans le cas où ces frais n'auraient pas
-été payés ou ne l'auraient été qu'en partie.
 
 En cas de condamnation solidaire, la cour fixe la part des dommages-intérêts ou
 du passif qui doit être payée par le demandeur.

@@ -38,7 +38,9 @@ de sa dénonciation, de sa plainte ou de sa déposition ;
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de
 la victime à une ethnie, une nation, une race ou une religion déterminée ;
 
-7° A raison de l'orientation sexuelle de la victime.
+7° A raison de l'orientation sexuelle de la victime ;
+
+8° Par plusieurs personnes agissant en bande organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables aux infractions prévues par le présent article. Toutefois,

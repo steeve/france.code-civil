@@ -16,7 +16,8 @@ mesure d'instruction, afin de permettre à la partie civile d'apporter les
 justificatifs de ses demandes. Ce renvoi est de droit lorsqu'il est demandé par
 les parties civiles. Le tribunal doit alors fixer la date de l'audience à
 laquelle il sera statué sur l'action civile. La présence du ministère public à
-cette audience n'est pas obligatoire.
+cette audience n'est pas obligatoire. A cette audience, le tribunal est composé
+du seul président siègeant à juge unique.
 
 Les dispositions du présent article sont applicables lorsque le tribunal
 correctionnel, dans sa composition prévue par le premier alinéa de l'article

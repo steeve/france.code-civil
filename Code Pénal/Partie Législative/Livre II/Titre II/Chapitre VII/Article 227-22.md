@@ -13,3 +13,6 @@ les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif 
 Les mêmes peines sont notamment applicables au fait, commis par un majeur,
 d'organiser des réunions comportant des exhibitions ou des relations sexuelles
 auxquelles un mineur assiste ou participe.
+
+Les peines sont portées à dix ans d'emprisonnement et 1 000 000 Euros d'amende
+lorsque les faits ont été commis en bande organisée.

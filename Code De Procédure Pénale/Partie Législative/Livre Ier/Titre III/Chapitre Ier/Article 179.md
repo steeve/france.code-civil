@@ -1,7 +1,9 @@
 Article 179
 ----
 Si le juge estime que les faits constituent un délit, il prononce, par
-ordonnance, le renvoi de l'affaire devant le tribunal correctionnel.
+ordonnance, le renvoi de l'affaire devant le tribunal correctionnel. Cette
+ordonnance précise, s'il y a lieu, que le prévenu bénéficie des dispositions de
+l'article 132-78 du code pénal.
 
 L'ordonnance de règlement met fin à la détention provisoire ou au contrôle
 judiciaire.

@@ -1,8 +1,7 @@
 Article 224-3
 ----
 L'infraction prévue par l'article 224-1 est punie de trente ans de réclusion
-criminelle lorsqu'elle est commise soit en bande organisée, soit à l'égard de
-plusieurs personnes.
+criminelle lorsqu'elle est commise à l'égard de plusieurs personnes.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté
 sont applicables à cette infraction.

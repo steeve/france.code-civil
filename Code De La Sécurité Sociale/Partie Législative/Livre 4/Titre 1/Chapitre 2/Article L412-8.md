@@ -52,9 +52,10 @@ combattants et victimes de la guerre, pour les accidents survenus par le fait ou
 fait ou à l'occasion d'un travail commandé, dans les conditions déterminées par
 un décret ;
 
-5°) les détenus exécutant un travail pénal ou les condamnés exécutant un travail
-d'intérêt général pour les accidents survenus par le fait ou à l'occasion de ce
-travail, dans les conditions déterminées par un décret ;
+5°) les détenus exécutant un travail pénal, les condamnés exécutant un travail
+d'intérêt général et les personnes effectuant un travail non rémunéré dans le
+cadre d'une composition pénale pour les accidents survenus par le fait ou à
+l'occasion de ce travail, dans les conditions déterminées par décret ;
 
 6°) les personnes qui participent bénévolement au fonctionnement d'organismes à
 objet social créés en vertu ou pour l'application d'un texte législatif ou

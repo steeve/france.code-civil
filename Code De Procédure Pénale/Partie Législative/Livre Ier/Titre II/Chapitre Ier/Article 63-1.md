@@ -10,7 +10,8 @@ Mention de cet avis est portée au procès-verbal et émargée par la personne
 gardée à vue ; en cas de refus d'émargement, il en est fait mention.
 
 Les informations mentionnées au premier alinéa doivent être communiquées à la
-personne gardée à vue dans une langue qu'elle comprend.
+personne gardée à vue dans une langue qu'elle comprend, le cas échéant au moyen
+de formulaires écrits.
 
 Si cette personne est atteinte de surdité et qu'elle ne sait ni lire ni écrire,
 elle doit être assistée par un interprète en langue des signes ou par toute

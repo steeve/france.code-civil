@@ -2,9 +2,10 @@ Article L215-6
 ----
 Ainsi qu'il est dit à l'article 521-1 du code pénal ci-après reproduit :
 
-"Le fait, publiquement ou non, d'exercer des sévices graves ou de commettre un
-acte de cruauté envers un animal domestique, ou apprivoisé, ou tenu en
-captivité, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+"Le fait, publiquement ou non, d'exercer des sévices graves, ou de nature
+sexuelle ou de commettre un acte de cruauté envers un animal domestique, ou
+apprivoisé, ou tenu en captivité, est puni de deux ans d'emprisonnement et de
+30000 euros d'amende.
 
 "A titre de peine complémentaire, le tribunal peut interdire la détention d'un
 animal, à titre définitif ou non.

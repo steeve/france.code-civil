@@ -21,8 +21,9 @@ juridictionnelle ;
 6° Les personnes qui ont été déclarées en état de faillite et n'ont pas été
 réhabilitées ;
 
-7° Celles auxquelles les fonctions de juré sont interdites en vertu de l'article
-288, alinéa 5, du présent code ou de l'article 131-26 du Code pénal ;
+7° Les personnes qui ont fait l'objet d'une condamnation en vertu de l'article
+288 du présent code ou celles auxquelles les fonctions de juré sont interdites
+en vertu de l'article 131-26 du code pénal ;
 
 8° Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs
 en curatelle et ceux qui sont placés dans un établissement d'aliénés en vertu

@@ -25,6 +25,7 @@ général, qui procède ainsi qu'il est dit aux articles 194 et suivants.
 Si le président de la chambre de l'instruction constate qu'il a été fait appel
 d'une ordonnance non visée aux alinéas 1 à 3 du présent article, il rend
 d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de
-voies de recours. Il en est de même lorsqu'il est fait appel, après expiration
-du délai prévu au quatrième alinéa du présent article, de toute ordonnance du
-juge d'instruction ou lorsque l'appel est devenu sans objet.
+voies de recours. Il en est de même lorsque l'appel a été formé après
+l'expiration du délai prévu au quatrième alinéa ou lorsque l'appel est devenu
+sans objet. Le président de la chambre de l'instruction est également compétent
+pour constater le désistement de l'appel formé par l'appelant.

@@ -10,9 +10,10 @@ réception et si elle est accompagnée :
 
 1° Soit de l'un des documents suivants :
 
-a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule, ou une
-copie de la déclaration de destruction de véhicule établie conformément aux
-dispositions du code de la route ;
+a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule ou pour
+le délit d'usurpation de plaque d'immatriculation prévu par l'article L. 317-4-1
+du code de la route, ou une copie de la déclaration de destruction de véhicule
+établie conformément aux dispositions du code de la route ;
 
 b) Une lettre signée de l'auteur de la requête ou de la réclamation précisant
 l'identité, l'adresse, ainsi que la référence du permis de conduire de la

@@ -13,10 +13,10 @@ procès-verbal. L'avocat peut, à tout moment, consulter le dossier.
 
 Si le procureur de la République estime nécessaire de soumettre le prévenu
 jusqu'à sa comparution devant le tribunal à une ou plusieurs obligations du
-contrôle judiciaire, il le traduit sur-le-champ devant le président du tribunal
-ou le juge délégué par lui, statuant en chambre du conseil avec l'assistance
-d'un greffier. Ce magistrat peut, après audition du prévenu, son avocat ayant
-été avisé et entendu en ses observations, s'il le demande, prononcer cette
-mesure dans les conditions et suivant les modalités prévues par les articles 138
-et 139. Cette décision est notifiée verbalement au prévenu et mentionnée au
-procès-verbal dont copie lui est remise sur-le-champ.
+contrôle judiciaire, il le traduit sur-le-champ devant le juge des libertés et
+de la détention, statuant en chambre du conseil avec l'assistance d'un greffier.
+Ce magistrat peut, après audition du prévenu, son avocat ayant été avisé et
+entendu en ses observations, s'il le demande, prononcer cette mesure dans les
+conditions et suivant les modalités prévues par les articles 138 et 139. Cette
+décision est notifiée verbalement au prévenu et mentionnée au procès-verbal dont
+copie lui est remise sur-le-champ.
