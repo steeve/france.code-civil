@@ -1,25 +1,21 @@
 Article R*322-26
 ----
-Les représentants des actionnaires autres que l'Etat aux collèges qui exercent
-les pouvoirs de l'assemblée générale et aux conseils d'administration sont
-désignés par élection au scrutin secret. Le vote pour ces élections se fait par
-correspondance ou sur le lieu de travail pour les membres du personnel, par
-correspondance pour les autres actionnaires. Chaque action donne droit à une
-voix. En cas de vacance, l'élection a lieu dans les trois mois à dater de la
-constatation de la vacance.
+Les représentants de l'Etat dans les conseils d'administration des sociétés
+centrales d'assurance et des entreprises du groupe Mutuelle générale française
+sont choisis, soit parmi les fonctionnaires conformément au décret n° 52-49 du
+11 janvier 1952 relatif au statut des représentants de l'Etat dans les conseils
+des sociétés d'économie mixte, soit parmi les agents de l'Etat d'un niveau
+équivalent à celui des fonctionnaires de catégorie A ;
 
-Deux mois avant le scrutin, les actionnaires sont avertis soit par l'insertion
-d'un avis au Bulletin des annonces légales obligatoires et par un affichage sur
-les lieux du travail, soit par l'envoi d'une lettre individuelle à l'adresse
-mentionnée dans les registres sur lesquels les actions sont immatriculées.
+Ils peuvent également être choisis parmi les présidents directeurs généraux et
+directeurs généraux adjoints des organismes mentionnés à l'article 1er de la loi
+du 26 juillet 1983 susvisée relative à la démocratisation du secteur public ;
 
-Les candidats doivent être titulaires de six actions au moins. Ils doivent faire
-parvenir leur candidature au président du conseil d'administration ou à la
-personne mandatée à cet effet un mois au moins avant la date du scrutin.
+Ils cessent leurs fonctions s'ils perdent la qualité en vertu de laquelle ils
+ont été nommés ;
 
-Le président du conseil d'administration ou son représentant arrête la liste des
-candidats et en assure la publication quinze jours au moins avant le scrutin
-dans l'une ou l'autre des formes mentionnées au deuxième alinéa ci-dessus.
-
-Le candidat ou, le cas échéant, les deux candidats ayant obtenu le plus grand
-nombre de voix sont déclarés élus.
+Il leur est interdit d'entrer à un titre quelconque au service de la société
+dont ils ont été administrateur avant l'expiration d'un délai de cinq ans à
+compter du jour où ils ont quitté son conseil d'administration, sauf
+autorisation spéciale du ministre de l'économie, des finances et du budget et du
+ministre qui les a proposés.
