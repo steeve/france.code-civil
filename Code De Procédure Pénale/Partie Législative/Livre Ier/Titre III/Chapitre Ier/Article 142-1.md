@@ -1,10 +1,9 @@
 Article 142-1
 ----
-Le juge d'instruction ou le président du tribunal de grande instance ou le juge
-délégué par lui en application de l'article 137-1 peut, avec le consentement de
-la personne mise en examen ordonner, ou décider, que la partie du cautionnement
-affectée à la garantie des droits de la victime ou du créancier d'une dette
-alimentaire soit versée à ceux-ci par provision, sur leur demande.
+Le juge d'instruction ou la chambre prévue par l'article 137-1 peut, avec le
+consentement de la personne mise en examen, ordonner, ou décider, que la partie
+du cautionnement affectée à la garantie des droits de la victime ou du créancier
+d'une dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
 
 Ce versement peut aussi être ordonné, ou décidé, même sans le consentement de la
 personne mise en examen, lorsqu'une décision de justice exécutoire a accordé à
