@@ -10,6 +10,8 @@ infractions au présent alinéa sont constatées par les agents des douanes et
 sanctionnées conformément à l'article 410 du code des douanes.
 
 Cette mesure ne s'applique pas aux animaux vivants ou à leurs produits, ainsi
-qu'aux denrées animales ou d'origine animale, transportés par des moyens de
-transport reliant de manière régulière et directe deux points géographiques de
-la Communauté européenne.
+qu'aux denrées animales ou d'origine animale, aux produits destinés à
+l'alimentation animale, aux micro-organismes pathogènes pour les animaux et aux
+produits susceptibles de les véhiculer, transportés par des moyens de transport
+reliant de manière régulière et directe deux points géographiques de la
+Communauté européenne.

@@ -1,4 +1,6 @@
 Article L121-25
 ----
-Les conditions d'exécution des articles L. 121-1 à L. 121-24 sont fixées par
-décret en Conseil d'Etat.
+Pour les parcelles d'une superficie et d'une valeur inférieures aux seuils
+définis au premier alinéa de l'article L. 121-24, le président de la commission
+départementale d'aménagement foncier est habilité à constater l'usucapion par
+acte administratif de notoriété.

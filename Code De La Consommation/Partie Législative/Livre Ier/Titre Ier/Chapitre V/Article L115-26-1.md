@@ -13,7 +13,7 @@ Constitue une attestation de spécificité le nom du produit qui figure au
 registre des attestations de spécificité tenu par la Commission des Communautés
 européennes.
 
-Seules les appellations d'origine mentionnées aux articles L. 641-1 à L. 641-6
+Seules les appellations d'origine ne concernant pas les vins et eaux-de-vie
 peuvent faire l'objet d'une demande en vue de leur enregistrement comme
 appellations d'origine protégées.
 
@@ -23,6 +23,5 @@ d'enregistrement d'une indication géographique protégée s'effectue dans le ca
 des dispositions du chapitre III du présent titre et suivant la procédure fixée
 par l'article L. 641-6.
 
-La demande d'enregistrement d'une indication géographique ou d'une attestation
-de spécificité ne peut s'effectuer que dans le cadre des dispositions du
-chapitre III du présent titre".
+La demande d'enregistrement d'une attestation de spécificité ne peut s'effectuer
+que dans le cadre des dispositions du chapitre III du présent titre".

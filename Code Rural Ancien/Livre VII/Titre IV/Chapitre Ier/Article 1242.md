@@ -14,7 +14,10 @@ investigations comptables relevant de leur mission. Ils rendent compte de leur
 mandat à l'assemblée générale appelée à statuer sur les comptes de chaque
 exercice.
 
-Un exemplaire du rapport du ou des commissaires aux comptes et une copie du
-procès-verbal de chaque assemblée générale doivent être transmis dans le délai
-d'un mois au ministre de l'agriculture et au ministre des finances par
-l'intermédiaire de la caisse centrale de mutualité sociale agricole.
+Les décisions des assemblées générales des caisses départementales et
+pluridépartementales de mutualité sociale agricole et de la Caisse centrale de
+la mutualité sociale agricole ainsi que des associations et groupements
+d'intérêt économique, mentionnés aux articles 1000-2 et 1002 à 1002-4, sont
+soumises à l'approbation de l'autorité compétente de l'Etat dans les mêmes
+conditions que les délibérations des conseils d'administration desdits
+organismes.

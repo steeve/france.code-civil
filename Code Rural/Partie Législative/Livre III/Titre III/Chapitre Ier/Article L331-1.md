@@ -1,23 +1,29 @@
 Article L331-1
 ----
-Le contrôle des structures des exploitations agricoles concerne exclusivement
-l'exploitation des biens quelle que soit la nature de l'acte en vertu duquel est
-assurée la jouissance des biens et notamment dans les cas mentionnés par
-l'article L. 411-1.
+Le contrôle des structures des exploitations agricoles s'applique à la mise en
+valeur des biens fonciers ruraux au sein d'une exploitation agricole, quels que
+soient la forme ou le mode d'organisation juridique de celle-ci, et le titre en
+vertu duquel la mise en valeur est assurée.
 
-Il a pour but, conformément aux objectifs de la loi n° 80-502 du 4 juillet 1980
-d'orientation agricole et des schémas directeurs départementaux des structures
-agricoles :
+Est qualifié d'exploitation agricole, au sens du présent chapitre, l'ensemble
+des unités de production mises en valeur directement ou indirectement par la
+même personne, quels qu'en soient le statut, la forme ou le mode d'organisation
+juridique, dont les activités sont mentionnées à l'article L. 311-1.
 
-1° De favoriser l'installation d'agriculteurs remplissant les conditions de
-formation ou d'expérience professionnelle fixées par décret ;
+L'objectif prioritaire du contrôle des structures est de favoriser
+l'installation d'agriculteurs, y compris ceux engagés dans une démarche
+d'installation progressive.
 
-2° De contribuer à la constitution ou à la préservation d'exploitations
-familiales à responsabilité personnelle et de favoriser l'agrandissement des
-exploitations dont les dimensions sont insuffisantes ;
+En outre, il vise :
 
-3° De déterminer les conditions d'accès à la profession agricole de personnes
-physiques issues d'autres catégories sociales ou professionnelles et celles de
-son exercice à temps partiel par des actifs ruraux non agricoles, en fonction de
-l'intérêt économique, social et démographique qui s'attache à la pluriactivité
-dans chaque département.
+- soit à empêcher le démembrement d'exploitations agricoles viables pouvant
+permettre l'installation d'un ou plusieurs agriculteurs ;
+
+- soit à favoriser l'agrandissement des exploitations agricoles dont les
+dimensions, les références de production ou les droits à aide sont insuffisants
+au regard des critères arrêtés dans le schéma directeur départemental des
+structures ;
+
+- soit à permettre l'installation ou conforter l'exploitation d'agriculteurs
+pluriactifs partout où l'évolution démographique et les perspectives économiques
+le justifient.

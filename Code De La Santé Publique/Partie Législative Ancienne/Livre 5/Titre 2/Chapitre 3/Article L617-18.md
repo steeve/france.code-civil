@@ -59,6 +59,23 @@ d'outre-mer ;
 15° Les conditions d'octroi, de suspension ou de retrait des autorisations
 visées aux deuxième et troisième alinéas de l'article L. 617-1.
 
+16° Les conditions dans lesquelles interviennent les décisions accordant,
+renouvelant, modifiant, soumettant à des obligations spécifiques, suspendant ou
+supprimant une autorisation de mise sur le marché, ou un enregistrement de
+médicament homéopathique vétérinaire, ainsi que les règles de procédure
+applicables aux recours ouverts contre lesdites décisions ;
+
+17° Les modalités de présentation des demandes tendant à obtenir
+l'enregistrement d'un médicament homéopathique vétérinaire prévu à l'article L.
+617-3-1, la nature du dossier ainsi que les règles relatives à l'étiquetage et à
+la notice de ces médicaments ;
+
+18° Les règles particulières applicables aux essais pharmacologiques,
+toxicologiques et cliniques des médicaments homéopathiques vétérinaires autres
+qu'immunologiques faisant l'objet d'une autorisation de mise sur le marché
+conformément aux principes et aux particularités de la médecine homéopathique
+pratiquée.
+
 A l'exception des cas visés aux 1°, 6° et 14° du présent article, les décrets
 mentionnés au premier alinéa sont pris après avis de l'Agence française de
 sécurité sanitaire des aliments.

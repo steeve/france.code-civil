@@ -1,9 +1,9 @@
 Article 1106-3-1
 ----
-L'assurance prévue au présent chapitre prend en charge la couverture partielle
-des frais exposés par les personnes du sexe féminin mentionnées aux 1°, 2°, 4°
-et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux
-de l'exploitation agricole lorsque, prenant part de manière constante à ces
+L'assurance prévue au présent chapitre prend en charge la couverture des frais
+exposés par les personnes du sexe féminin mentionnées aux 1°, 2°, 4° et 5° du I
+de l'article 1106-1 pour assurer leur remplacement dans les travaux de
+l'exploitation agricole lorsque, prenant part de manière constante à ces
 travaux, elles sont empêchées de les accomplir en raison de la maternité ou de
 l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service
 d'aide sociale à l'enfance ou par un organisme autorisé pour l'adoption. Le

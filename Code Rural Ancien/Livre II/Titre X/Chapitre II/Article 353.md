@@ -1,10 +1,10 @@
 Article 353
 ----
 La destruction de végétaux ne peut être exécutée qu'après constatation
-contradictoire de l'état des lieux, en présence du maire ou de son délégué, d'un
-agent de la protection des végétaux et du propriétaire ou usager des terrains ou
-magasins, ou de son représentant dûment appelés ; de cette opération, il est
-dressé procès-verbal signé des parties.
+contradictoire de l'état des lieux, en présence du maire ou de son délégué,
+d'agents relevant des catégories mentionnées au A de l'article 363-1 et du
+propriétaire ou usager des terrains ou magasins, ou de son représentant dûment
+appelés ; de cette opération, il est dressé procès-verbal signé des parties.
 
 Une allocation, ne dépassant pas les deux tiers de leur valeur, peut être
 accordée, par décision du préfet et sur proposition du directeur des services

@@ -1,17 +1,40 @@
 Article 254
 ----
-Lorsque les animaux ont dû être abattus comme atteints de péripneumonie
-contagieuse dans l'espèce bovine, de peste porcine, de pasteurellose du porc et
-de salmonellose du porc, la chair ne peut être livrée à la consommation qu'en
-vertu d'une autorisation spéciale du maire, sur l'avis conforme, écrit et
-motivé, délivrée par le vétérinaire sanitaire.
+I. - Il est interdit d'administrer, de mettre sur le marché, d'introduire sur le
+territoire métropolitain ou dans les départements d'outre-mer et de détenir, en
+vue d'administrer, même dans un but thérapeutique, aux animaux des espèces dont
+la chair ou les produits sont destinés à l'alimentation humaine, des produits
+contenant des stilbènes, leurs dérivés, sels ou esters, ainsi que des substances
+à action thyréostatique.
 
-Toutefois, les poumons et autres viscères doivent être détruits ou enfouis en
-observant les précautions visées à l'article 241. Le maire adresse immédiatement
-au préfet copie de l'autorisation qu'il a accordée : il y joint un duplicata de
-l'avis formulé par le vétérinaire sanitaire et l'attestation que les poumons et
-autres viscères ont été détruits ou enfouis en sa présence ou en présence de son
-délégué.
+II. - Il est interdit de mettre sur le marché ou d'introduire sur le territoire
+métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces
+dont la chair ou les produits sont destinés à l'alimentation humaine, ou
+d'administrer à de tels animaux des substances à activité anabolisante,
+anticatabolisante ou bêta-agoniste.
 
-Des décrets spécifient les cas dans lesquels la chair des animaux atteints des
-maladies ci-dessus peut être livrée à la consommation.
+Toutefois, après autorisation de l'autorité administrative, ces substances
+peuvent entrer dans la composition de médicaments satisfaisant aux conditions
+prévues aux articles L. 617-1 et L. 617-2 du code de la santé publique.
+L'administration de ces médicaments est subordonnée à des conditions
+particulières ; elle ne peut être effectuée que par ou sous la responsabilité
+d'un vétérinaire ayant satisfait aux obligations prévues à l'article 309.
+
+III. - Sont interdites la détention, la cession, à titre gratuit ou onéreux, des
+animaux ou des denrées alimentaires provenant d'animaux ayant reçu une substance
+dont l'usage est prohibé en application des I et II du présent article.
+
+IV. - Il est interdit d'administrer aux animaux des espèces dont la chair ou les
+produits sont destinés à l'alimentation humaine et, pour les personnes ayant la
+garde de tels animaux, de détenir sans justification une substance ou
+composition relevant de l'article L. 617-6 du code de la santé publique qui ne
+bénéficie pas d'autorisation au titre des réglementations relatives aux
+médicaments vétérinaires ou aux substances destinées à l'alimentation animale.
+
+V. - Par arrêtés pris après avis de l'Agence française de sécurité sanitaire des
+aliments, et, en ce qui concerne les médicaments à usage humain, après avis de
+l'Agence française de sécurité sanitaire des produits de santé, le ministre de
+l'agriculture et le ministre chargé de la santé peuvent, pour des motifs de
+santé publique ou de santé animale, interdire ou restreindre la prescription et
+la délivrance de médicaments en vue d'une administration à des animaux, ainsi
+que l'administration de médicaments à des animaux.

@@ -1,7 +1,9 @@
 Article 1002
 ----
 Les caisses de mutualité sociale agricole sont dotées de la personnalité morale
-et régies par l'article 1235 du présent code.
+et sont constitués et fonctionnent conformément aux prescriptions du code de la
+mutualité, sous réserve des dispositions du présent code et du code de la
+sécurité sociale et des textes pris pour leur application.
 
 Les caisses de mutualité sociale agricole sont départementales ou
 pluridépartementales. Elles sont chargées de la gestion des régimes obligatoires

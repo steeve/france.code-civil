@@ -1,44 +1,44 @@
 Article L331-3
 ----
-Sont également soumises à autorisation préalable, quelles que soient les
-superficies en cause, les opérations ci-après :
+L'autorité administrative, après avis de la commission départementale
+d'orientation de l'agriculture, se prononce sur la demande d'autorisation en se
+conformant aux orientations définies par le schéma directeur départemental des
+structures agricoles applicable dans le département dans lequel se situe le
+fonds faisant l'objet de la demande. Elle doit notamment :
 
-1° Les installations, les agrandissements ou les réunions d'exploitations
-agricoles au bénéfice :
+1° Observer l'ordre des priorités établi par le schéma départemental entre
+l'installation des jeunes agriculteurs et l'agrandissement des exploitations
+agricoles, en tenant compte de l'intérêt économique et social du maintien de
+l'autonomie de l'exploitation faisant l'objet de la demande ;
 
-a) Des personnes physiques qui ne satisfont pas aux conditions de capacité ou
-d'expérience professionnelle fixées par décret ; pour l'appréciation des
-critères d'expérience professionnelle, seule est prise en compte l'expérience
-acquise sur une superficie au moins égale à la moitié de la surface minimale
-d'installation en qualité d'exploitant, de conjoint participant à l'exploitation
-agricole, d'aide familiale, d'associé d'exploitation ou de salarié agricole.
-Dans les départements d'outre-mer, cette superficie est celle mentionnée à
-l'article 1142-13 ;
+2° S'assurer, en cas d'agrandissement ou de réunion d'exploitations, que toutes
+les possibilités d'installation sur une exploitation viable ont été considérées
+;
 
-b) Des personnes physiques qui ont atteint l'âge auquel les exploitants peuvent
-prétendre à bénéficier d'un avantage de vieillesse agricole ;
+3° Prendre en compte les références de production ou droits à aide dont
+disposent déjà le ou les demandeurs ainsi que ceux attachés aux biens objets de
+la demande en appréciant les conséquences économiques de la reprise envisagée ;
 
-2° Les installations, les agrandissements ou les réunions d'exploitations
-agricoles ayant pour conséquence :
+4° Prendre en compte la situation personnelle du ou des demandeurs, notamment en
+ce qui concerne l'âge et la situation familiale ou professionnelle et, le cas
+échéant, celle du preneur en place ;
 
-a) De supprimer une exploitation agricole d'une superficie au moins égale à deux
-fois la surface minimale d'installation ou de ramener la superficie d'une
-exploitation agricole en deçà de ce seuil. Toutefois, lorsque dans un
-département ou dans une région agricole d'un département la superficie moyenne
-des exploitations est inférieure à la surface minimale d'installation nationale,
-le schéma directeur départemental peut abaisser ce seuil à une fois et demie la
-surface minimale d'installation ;
+5° Prendre en compte la participation du demandeur ou, lorsque le demandeur est
+une personne morale, de ses associés à l'exploitation directe des biens objets
+de la demande dans les conditions prévues à l'article L. 411-59 ;
 
-b) De priver une exploitation agricole d'un bâtiment essentiel à son
-fonctionnement, sauf s'il est reconstruit ou remplacé ;
+6° Tenir compte du nombre d'emplois non salariés et salariés permanents ou
+saisonniers sur les exploitations concernées ;
 
-3° Nonobstant les dispositions du 1° de l'article L. 331-2, les agrandissements
-ou réunions d'exploitations pour les biens dont la distance par rapport au siège
-de l'exploitation du demandeur est supérieure à un maximum fixé par le schéma
-directeur départemental des structures agricoles, sans que ce maximum puisse
-être inférieur à 5 kilomètres ;
+7° Prendre en compte la structure parcellaire des exploitations concernées, soit
+par rapport au siège de l'exploitation, soit pour éviter que des mutations en
+jouissance ne remettent en cause des aménagements réalisés à l'aide de fonds
+publics ;
 
-4° A titre transitoire et jusqu'au 30 juin 1998, les créations ou extensions de
-capacité des ateliers hors sol, au-delà d'un seuil de capacité de production et
-selon des modalités fixées par décret, susceptibles de remettre en cause
-l'équilibre des structures sociales qui caractérisent cette activité.
+8° Prendre en compte la poursuite d'une activité agricole bénéficiant de la
+certification du mode de production biologique.
+
+L'autorisation peut n'être délivrée que pour une partie de la demande, notamment
+si certaines des parcelles sur lesquelles elle porte font l'objet d'autres
+candidatures prioritaires. Elle peut également être conditionnelle ou
+temporaire.

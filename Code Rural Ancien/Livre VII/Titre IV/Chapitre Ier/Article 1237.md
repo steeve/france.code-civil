@@ -26,6 +26,23 @@ procèdent au recouvrement et au contrôle de ces cotisations selon les règles 
 sous les garanties et sanctions applicables au recouvrement des cotisations dues
 au titre des assurances sociales agricoles obligatoires.
 
-III. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles les
-caisses de mutualité sociale agricole participent aux unions et services communs
-mentionnés aux I et II ci-dessus.
+Les caisses de mutualité sociale agricole et leurs associations peuvent
+également conclure des conventions avec des tiers en vue de la gestion partielle
+d'une activité en relation directe ou complémentaire avec la mission de service
+public dont elles sont chargées.
+
+III. - Lorsque la participation financière, directe ou indirecte, des caisses de
+mutualité sociale agricole et de leurs associations, mentionnées aux articles
+1002 à 1002-4 du présent code, atteint ou dépasse la majorité des parts du
+capital social des unions d'économie sociale, groupements d'intérêt économique
+ou sociétés civiles immobilières auxquels elles sont autorisées à participer,
+les budgets et comptes annuels des unions d'économie sociale, groupements
+d'intérêt économique et sociétés civiles immobilières sont soumis à
+l'approbation de l'autorité compétente de l'Etat dans les mêmes conditions que
+celles prévues pour les caisses de mutualité sociale agricole. Ces dispositions
+sont également applicables aux unions et associations dont au moins la moitié
+des moyens de fonctionnement est financée, de manière directe ou indirecte, par
+les caisses de mutualité sociale agricole et leurs associations.
+
+IV. - Un décret en Conseil d'Etat fixe les conditions d'application des
+dispositions prévues aux I, II et III ci-dessus.

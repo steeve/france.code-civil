@@ -41,3 +41,11 @@ concernée ;
 
 7° Médicament vétérinaire antiparasitaire, tout produit antiparasitaire à usage
 vétérinaire.
+
+8° Médicament homéopathique vétérinaire, tout médicament vétérinaire obtenu à
+partir de produits, substances ou compositions appelés souches homéopathiques,
+selon un procédé de fabrication homéopathique décrit par la pharmacopée
+européenne, la pharmacopée française ou, à défaut, par les pharmacopées
+utilisées de façon officielle dans un autre Etat membre de la Communauté
+européenne ; un médicament homéopathique vétérinaire peut aussi contenir
+plusieurs principes.

@@ -73,11 +73,19 @@ cohérentes avec celles mentionnées dans la convention d'objectifs et de gestio
 de la branche maladie du régime général. L'avenant qui est conclu à la suite de
 la publication de la loi de financement de la sécurité sociale comporte des
 clauses analogues à celles de l'avenant ayant le même objet de la branche
-maladie du régime général.
+maladie du régime général. La convention d'objectifs et de gestion est signée,
+pour le compte de la Caisse centrale de mutualité sociale agricole, par le
+président du conseil central d'administration et par le directeur de la Caisse
+centrale de mutualité sociale agricole. La mise en oeuvre de la convention
+d'objectifs et de gestion fait l'objet de contrats pluriannuels de gestion
+conclus entre la Caisse centrale de mutualité sociale agricole et chacune des
+caisses de mutualité sociale agricole. Les contrats pluriannuels de gestion sont
+signés pour chacun des deux organismes par le président du conseil
+d'administration et par le directeur.
 
-Elle est soumise aux dispositions applicables, en matière de gestion comptable
-et financière, aux caisses départementales et pluridépartementales de mutualité
-sociale agricole.
+Elle est soumise aux dispositions applicables en matière de gestion
+administrative, comptable et financière aux caisses départementales et
+pluridépartementales de mutualité sociale agricole.
 
 Les statuts de la caisse centrale de la mutualité sociale agricole sont
 approuvés par le ministre chargé de l'agriculture.

@@ -1,17 +1,11 @@
 Article L312-5
 ----
-La surface minimum d'installation et les surfaces prévues aux articles L. 331-2
-à L. 331-5 sont fixées dans le schéma directeur départemental des structures
-agricoles pour chaque région naturelle du département et chaque nature de
-culture. Elles sont révisées périodiquement.
+L'unité de référence est la surface qui permet d'assurer la viabilité de
+l'exploitation compte tenu de la nature des cultures et des ateliers de
+production hors sol ainsi que des autres activités agricoles.
 
-La surface minimum d'installation en polyculture-élevage ne peut être inférieure
-de plus de 30 p. 100 à la surface minimum d'installation nationale, sauf dans
-les zones de montagne ou défavorisées où la limite inférieure peut atteindre 50
-p. 100 ; la surface minimum d'installation nationale est fixée tous les cinq ans
-par décision du ministre de l'agriculture.
-
-Pour les productions hors sol, une décision du ministre de l'agriculture fixe
-les coefficients d'équivalence applicables uniformément à l'ensemble du
-territoire sur la base de la surface minimum d'installation nationale prévue à
-l'alinéa précédent.
+Elle est fixée par l'autorité administrative, après avis de la commission
+départementale d'orientation de l'agriculture, pour chaque région naturelle du
+département par référence à la moyenne des installations encouragées au titre de
+l'article L. 330-1 au cours des cinq dernières années. Elle est révisée dans les
+mêmes conditions.

@@ -11,6 +11,11 @@ vue de la revente du bois dans des conditions telles que cette activité comport
 inscription au registre du commerce ou paiement d'une patente en tant que
 commerçant ;
 
+2° bis Aux mandataires des sociétés ou caisses locales d'assurances mutuelles
+agricoles exerçant leur activité en qualité de non-salariés dans les conditions
+prévues au 4° de l'article R. 511-2 et à l'article R. 512-2 du code des
+assurances ;
+
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente
 ;
 

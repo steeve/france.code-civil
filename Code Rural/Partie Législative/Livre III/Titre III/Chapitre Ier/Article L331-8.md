@@ -1,16 +1,22 @@
 Article L331-8
 ----
-La commission dispose d'un délai de deux mois à compter de la date de réception
-de la demande d'autorisation pour adresser son avis motivé au préfet. Dans les
-quinze jours suivant l'expiration du délai de deux mois mentionné ci-dessus, le
-préfet statue par décision motivée sur la demande d'autorisation. L'autorisation
-est réputée accordée si la décision n'a pas été notifiée au demandeur dans un
-délai de deux mois et quinze jours à compter de la date de réception de la
-demande. Dans le cas prévu au second alinéa de l'article L. 331-6, ce délai
-court à compter de la date à laquelle le déclarant a reçu notification de la
-lettre l'avisant que l'opération relevait du régime d'autorisation.
+La décision prononçant la sanction pécuniaire mentionnée à l'article L. 331-7
+est notifiée à l'exploitant concerné, qui peut la contester, avant tout recours
+contentieux, dans le mois de sa réception, devant une commission des recours
+dont la composition et les règles de fonctionnement sont fixées par décret en
+Conseil d'Etat.
 
-Toute décision expresse du préfet fait l'objet d'un affichage à la mairie de la
-commune sur le territoire de laquelle est situé le bien concerné. En cas de
-refus d'autorisation, la décision est notifiée au demandeur, au propriétaire,
-s'il est distinct du demandeur et au preneur en place.
+Les recours devant cette commission sont suspensifs. Leur instruction est
+contradictoire.
+
+La commission, qui statue par décision motivée, peut soit confirmer la sanction,
+soit décider qu'en raison d'éléments tirés de la situation de la personne
+concernée il y a lieu de ramener la pénalité prononcée à un montant qu'elle
+détermine dans les limites fixées à l'article L. 331-7, soit décider qu'en
+l'absence de violation établie des dispositions du présent chapitre il n'y a pas
+lieu à sanction. Dans les deux premiers cas, la pénalité devient recouvrable dès
+notification de sa décision.
+
+La décision de la commission peut faire l'objet, de la part de l'autorité
+administrative ou de l'intéressé, d'un recours de pleine juridiction devant le
+tribunal administratif.

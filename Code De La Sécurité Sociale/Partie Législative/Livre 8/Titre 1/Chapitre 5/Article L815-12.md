@@ -9,7 +9,10 @@ Lorsque la succession de l'allocataire, en tout ou partie, comprend un capital
 d'exploitation agricole : terres, cheptel mort ou vif, bâtiments d'exploitation,
 éléments végétaux constituant le support permanent de la production, tels que
 arbres fruitiers, vignes, etc., ce capital n'est retenu, pour l'application de
-l'alinéa précédent, que pour 50 p. 100 de sa valeur [*pourcentage*].
+l'alinéa précédent, que pour 30 p. 100 de sa valeur [*pourcentage*].
+
+Ces dispositions sont applicables aux successions s'ouvrant à compter de la date
+de publication de la présente loi.
 
 Le recouvrement est effectué par les organismes ou services payeurs de
 l'allocation dans des conditions et selon des modalités fixées par décret.

@@ -5,5 +5,6 @@ administrées gratuitement, qui n'ont en vue et qui, en fait, ne réalisent aucu
 bénéfice, sont affranchies des formalités prescrites par la loi du 24 juillet
 1867 et les décrets relatifs aux sociétés d'assurances.
 
-Elles peuvent se constituer en se soumettant aux prescriptions du titre Ier du
-livre III du code du travail.
+Les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles
+peuvent se constituer en se soumettant aux prescriptions du titre Ier du livre
+IV du code du travail.

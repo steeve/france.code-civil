@@ -1,11 +1,17 @@
 Article L112-3
 ----
-Pour assurer la sauvegarde de l'espace agricole, les documents relatifs aux
-opérations d'urbanisme ou d'infrastructure et les documents relatifs aux schémas
-d'exploitation coordonnée des carrières qui prévoient une réduction grave des
-terres agricoles ne peuvent être rendus publics qu'après avis de la chambre
-d'agriculture et de la commission départementale d'orientation de l'agriculture.
-Cette disposition s'applique également aux modifications et aux révisions
-desdits documents, ainsi qu'aux opérations d'aménagement dont l'enquête publique
-n'a pas encore été prescrite dès lors qu'elles sont susceptibles d'entraîner
-l'une des conséquences mentionnées à l'article L. 112-2.
+Les schémas directeurs, les plans d'occupation des sols ou les documents
+d'urbanisme en tenant lieu et les documents relatifs au schéma départemental des
+carrières prévoyant une réduction des espaces agricoles ou forestiers ne peuvent
+être rendus publics ou approuvés qu'après avis de la chambre d'agriculture, de
+l'Institut national des appellations d'origine dans les zones d'appellation
+d'origine contrôlée et, le cas échéant, du centre régional de la propriété
+forestière. Il en va de même en cas de révision ou de modification de ces
+documents.
+
+Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En
+l'absence de réponse à l'issue de ce délai, l'avis est réputé favorable.
+
+Ces dispositions s'appliquent aux opérations d'aménagement dont l'enquête
+publique n'a pas encore été prescrite à la date de publication de la loi n°
+99-574 du 9 juillet 1999 d'orientation agricole.

@@ -10,8 +10,9 @@ l'article 1121-1 ;
 
 b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise et une
 cotisation due pour chaque aide familial majeur au sens du 2° de l'article
-1106-1. Cette cotisation est calculée dans les conditions prévues à l'article
-1125 ;
+1106-1 ainsi que pour le conjoint collaborateur d'exploitation ou d'entreprise
+mentionné à l'article 1122-1-1. Cette cotisation est calculée dans les
+conditions prévues à l'article 1125 ;
 
 c) Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise,
 calculée sur la totalité des revenus professionnels ou sur l'assiette

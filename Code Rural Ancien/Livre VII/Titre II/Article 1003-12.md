@@ -56,18 +56,46 @@ abattements qui ne correspondent pas à des dépenses nécessitées par l'exerci
 de la profession, à l'exception de la déduction opérée en application de
 l'article 72 D du code général des impôts.
 
-III. - L'assiette des cotisations est déterminée forfaitairement dans les
-conditions fixées par décret :
+III. - Les cotisations sont calculées, à titre provisionnel, sur une assiette
+forfaitaire lorsque la durée d'assujettissement ne permet pas de connaître les
+revenus professionnels servant de base à celles-ci et font l'objet d'une
+régularisation lorsque ces revenus sont connus. Par dérogation aux dispositions
+prévues au premier alinéa du II, les cotisations sont calculées, pour la
+première année, sur les revenus d'une seule année et, pour la deuxième année,
+sur la moyenne des revenus des deux années. Un décret fixe les modalités
+d'application de ces dispositions.
 
-1° Lorsque la durée d'assujettissement ne permet pas de calculer la moyenne des
-revenus professionnels se rapportant aux trois années de référence ;
+Toutefois, par dérogation au précédent alinéa, lorsqu'un conjoint s'installe en
+qualité de coexploitant ou d'associé, au sein d'une coexploitation ou d'une
+société formées entre les conjoints, et qu'il a participé aux travaux de ladite
+exploitation ou entreprise agricole et a donné lieu à ce titre au versement de
+la cotisation prévue au a de l'article 1123 pendant la période prise en compte
+pour le calcul des cotisations en application du premier alinéa du II ou du
+premier alinéa du VI, il n'est pas fait application de l'assiette forfaitaire
+provisionnelle et ses cotisations sont calculées sur la part, correspondant à sa
+participation aux bénéfices, des revenus agricoles du foyer fiscal relatifs,
+selon les cas, à la période visée au premier alinéa du II ou au premier alinéa
+du VI.
 
-2° Lorsque les personnes non salariées des professions agricoles ayant la
-qualité de gérants ou d'associés de sociétés ne sont pas soumises à l'impôt sur
-le revenu dans l'une des catégories mentionnées au paragraphe I du présent
-article.
+Par dérogation au premier alinéa du présent III, en cas de transfert de la
+qualité de chef d'exploitation ou d'entreprise entre des conjoints quels qu'en
+soient le motif et les modalités, les cotisations dues par le conjoint
+poursuivant la mise en valeur de l'exploitation ou de l'entreprise sont assises
+sur la totalité des revenus professionnels agricoles du foyer fiscal au cours de
+la période visée, selon le cas, au premier alinéa du II ou au premier alinéa du
+VI.
 
-IV. - En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque
+Les dispositions des deux alinéas précédents ne sont applicables que si la
+consistance de l'exploitation ou de l'entreprise n'est pas affectée à l'occasion
+des modifications visées auxdits alinéas au-delà de proportions définies par
+décret.
+
+IV. - L'assiette des cotisations est déterminée forfaitairement dans des
+conditions fixées par décret lorsque les personnes non salariées des professions
+agricoles ayant la qualité de gérant ou d'associé de société ne sont pas
+soumises à l'impôt sur le revenu dans l'une des catégories mentionnées au I.
+
+V. - En cas de coexploitation ou d'exploitation sous forme sociétaire, lorsque
 les revenus professionnels de chacun des coexploitants ou associés n'ont pas
 fait l'objet d'une imposition séparée, le montant total des revenus est réparti
 entre les coexploitants ou associés au prorata de la participation de chacun
@@ -80,8 +108,6 @@ exploitations ou entreprises distinctes n'ont pas fait l'objet d'une imposition
 séparée, le montant total des revenus est réparti entre eux en fonction de
 l'importance respective de leur exploitation ou de leur entreprise dans des
 conditions définies par décret.
-
-V. (paragraphe abrogé).
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent
 article, les chefs d'exploitation ou d'entreprise agricole soumis à un régime
@@ -138,10 +164,10 @@ Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne
 peuvent ultérieurement demander l'application des dispositions prévues au
 présent VI.
 
-VII - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles
-ayant exercé l'option prévue à l'article 13 de la loi n° 91-1407 du 31 décembre
-1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent dénoncer
-ladite option à effet du 1er janvier 1994.
+VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise
+agricoles ayant exercé l'option prévue à l'article 13 de la loi n° 91-1407 du 31
+décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent
+dénoncer ladite option à effet du 1er janvier 1994.
 
 Les chefs d'exploitation ou d'entreprise agricoles qui ont demandé à bénéficier
 des dispositions ci-dessus ne peuvent plus ultérieurement exercer l'option

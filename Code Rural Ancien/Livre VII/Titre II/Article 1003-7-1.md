@@ -32,7 +32,8 @@ ensemble l'exploitation ou l'entreprise, cette réduction est appliquée à chac
 de ceux-ci. Ces dispositions ne sont pas applicables aux personnes déjà
 affiliées à la date de publication de la loi n° 88-1202 du 30 décembre 1988
 relative à l'adaptation de l'exploitation agricole à son environnement
-économique et social.
+économique et social ainsi qu'aux conjoints collaborateurs mentionnés à
+l'article L. 321-5 du présent code.
 
 II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une
 exploitation ou entreprise agricoles ne répondant pas à la condition

@@ -44,3 +44,8 @@ Les administrateurs centraux des premier et troisième collèges ainsi que
 l'administrateur central représentant des familles qui appartient au premier ou
 au troisième collège forment le comité central de la protection sociale des
 non-salariés agricoles.
+
+Le ministre de l'agriculture est représenté auprès de la Caisse centrale de la
+mutualité sociale agricole par un commissaire du Gouvernement. Le commissaire du
+Gouvernement assiste aux séances de l'assemblée générale centrale ainsi qu'à
+celles du conseil central d'administration.

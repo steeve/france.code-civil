@@ -54,6 +54,17 @@ un bien compris dans le bail que s'il a obtenu au préalable l'accord écrit du
 bailleur. Il exécute alors les travaux à ses frais et supporte les impôts et
 taxes afférents au bâtiment construit.
 
+En ce qui concerne les travaux imposés par l'autorité administrative, le preneur
+notifie au bailleur la proposition de réaliser les travaux.
+
+Le bailleur peut décider de les prendre en charge dans un délai fixé en accord
+avec le preneur.
+
+En cas de refus du bailleur ou s'il ne répond pas dans les deux mois de la
+notification, ou s'il ne respecte pas son engagement d'exécuter les travaux
+prescrits dans le délai convenu, le preneur est réputé disposer de l'accord du
+bailleur pour l'exécution de ces travaux.
+
 3. Pour tous autres travaux d'amélioration, le preneur doit obtenir
 l'autorisation du bailleur. A cet effet, il lui notifie sa proposition ainsi
 qu'à un comité technique départemental dont la composition et les conditions

@@ -1,7 +1,9 @@
 Article 275-9
 ----
 Lorsque les animaux vivants ou leurs produits, les denrées animales ou d'origine
-animale ne répondent pas aux conditions fixées en application de l'article
+animale ainsi que les produits destinés à l'alimentation animale, les
+micro-organismes pathogènes pour les animaux et les produits susceptibles de les
+véhiculer ne répondent pas aux conditions fixées en application de l'article
 275-1, les agents chargés des contrôles prévus aux articles 275-1 à 275-5 et
 275-8 peuvent prescrire :
 

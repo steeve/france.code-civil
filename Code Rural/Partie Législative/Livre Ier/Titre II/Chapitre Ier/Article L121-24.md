@@ -4,11 +4,11 @@ Lorsqu'un propriétaire ne possède, au sein du périmètre d'un aménagement fo
 visé aux 1°, 2°, 5° ou 6° de l'article L. 121-1, qu'une parcelle ou un ensemble
 de parcelles de même nature de culture d'une superficie totale inférieure à un
 seuil fixé par la commission départementale d'aménagement foncier dans la limite
-d'un hectare et demi et d'une valeur inférieure à 1,5 fois le montant fixé à
-l'article 704 du code général des impôts et que cette parcelle ou cet ensemble
-de parcelles ne fait pas partie des catégories d'immeubles visées aux articles
-L. 123-2 et L. 123-3, ce propriétaire peut vendre cette parcelle ou cet ensemble
-de parcelles dans les conditions définies ci-après.
+d'un hectare et demi et d'une valeur inférieure à 1 500 euros et que cette
+parcelle ou cet ensemble de parcelles ne fait pas partie des catégories
+d'immeubles visées aux articles L. 123-2 et L. 123-3, ce propriétaire peut
+vendre cette parcelle ou cet ensemble de parcelles dans les conditions définies
+ci-après.
 
 Le projet de cession, passé par acte sous seing privé, est adressé pour
 autorisation à la commission communale ou intercommunale qui s'assure que la

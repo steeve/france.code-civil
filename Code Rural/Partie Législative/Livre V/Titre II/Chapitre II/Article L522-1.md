@@ -18,3 +18,8 @@ agricole un objet commun ou connexe ;
 5° D'autres sociétés coopératives agricoles, unions de ces sociétés et sociétés
 d'intérêt collectif agricole, alors même que leurs sièges sociaux seraient
 situés en dehors de la circonscription de la société coopérative agricole.
+
+6° Toute personne physique ou morale ayant la qualité d'agriculteur ou de
+forestier, ressortissant d'un Etat membre de la Communauté européenne et dont le
+domicile ou le siège est situé hors du territoire de la République française
+dans une zone contiguë à la circonscription de la société coopérative agricole.

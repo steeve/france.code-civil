@@ -2,7 +2,9 @@ Article L632-4
 ----
 L'extension de tels accords est subordonnée à l'adoption de leurs dispositions
 par les professions représentées dans l'organisation interprofessionnelle, par
-une décision unanime ou à la suite de la procédure prévue à l'article L. 632-1.
+une décision unanime. Toutefois, pour les accords ne concernant qu'une partie
+des professions représentées dans ladite organisation, l'unanimité de ces seules
+professions est suffisante à condition qu'aucune autre profession ne s'y oppose.
 
 Lorsque l'extension est décidée, les mesures ainsi prévues sont obligatoires,
 dans la zone de production intéressée, pour tous les membres des professions

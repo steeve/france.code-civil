@@ -2,7 +2,8 @@ Article 354
 ----
 Si un propriétaire ou usager refuse d'effectuer dans les délais prescrits et
 conformément aux arrêtés pris en la matière les traitements antiparasitaires ou
-la destruction des végétaux, l'inspecteur de la protection des végétaux prend
+la destruction des végétaux, un ingénieur chargé de l'inspection et du contrôle
+des végétaux relevant des catégories mentionnées au A de l'article 363-1 prend
 les mesures nécessaires pour l'exécution de ces arrêtés. Il les notifie aux
 intéressés par lettre recommandée, avant leur exécution ; il adresse copie de
 cette notification au préfet du département et au maire de la commune sur le
@@ -16,7 +17,8 @@ lui-même.
 Le coût des travaux est recouvré par ledit groupement. Faute de paiement par les
 intéressés dans un délai de trois mois, ou toutes les fois que le traitement est
 assuré par le service de la protection des végétaux, le recouvrement en est
-opéré, comme en matière de contributions directes, sur un rôle dressé par
-l'inspecteur de la protection des végétaux et rendu exécutoire par le préfet. Au
-cas de recouvrement par voie de rôle, la somme due par les intéressés est
-majorée de 25 p. 100.
+opéré, comme en matière de contributions directes, sur un rôle dressé par un
+ingénieur chargé de l'inspection et du contrôle des végétaux relevant des
+catégories mentionnées au A de l'article 363-1 et rendu exécutoire par le
+préfet. Au cas de recouvrement par voie de rôle, la somme due par les intéressés
+est majorée de 25 p. 100.

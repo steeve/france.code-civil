@@ -1,7 +1,10 @@
 Article L112-1
 ----
-Lors de l'élaboration des documents d'urbanisme, et à défaut pour l'application
-du règlement national d'urbanisme aux communes rurales, il devra être tenu
-compte des particularités locales telles que la situation démographique, le type
-d'habitat, les besoins en matière de logement et la répartition des terrains
-entre les différentes activités économiques et sociales.
+Il est établi dans chaque département un document de gestion de l'espace
+agricole et forestier qui, une fois approuvé par l'autorité administrative, est
+publié dans chaque commune du département. Ce document doit être consulté lors
+de l'élaboration des documents d'urbanisme et des schémas départementaux des
+carrières. Il aura, préalablement à sa publication et à sa diffusion, été
+transmis pour avis aux maires des communes concernées, aux chambres
+d'agriculture, aux centres régionaux de la propriété forestière, aux syndicats
+de propriétaires forestiers ainsi qu'aux syndicats agricoles représentatifs.

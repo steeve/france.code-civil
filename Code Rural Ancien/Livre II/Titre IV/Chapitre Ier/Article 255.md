@@ -1,12 +1,20 @@
 Article 255
 ----
-Les viandes provenant des animaux tuberculeux, à quelque espèce qu'ils
-appartiennent, sont saisies dans les cas prévus par un décret pris sur
-proposition du ministre de l'agriculture et après avis du comité consultatif des
-épizooties. Le même décret prévoit les cas dans lesquels ces viandes doivent
-être détruites et ceux dans lesquels leur utilisation peut être permise après
-stérilisation.
+Les établissements préparant, manipulant, entreposant ou cédant des substances
+et des produits destinés à l'alimentation des animaux, présentant des risques
+pour la santé animale, la santé humaine, ou des matières premières dont
+l'incorporation dans les aliments pour animaux ou l'utilisation dans
+l'alimentation animale fait l'objet de restrictions en vue de prévenir la
+transmission de contaminants chimiques ou biologiques, doivent satisfaire à des
+conditions sanitaires, qualitatives et d'identification des origines de ces
+substances et produits et avoir été, selon les cas, agréés ou enregistrés par
+l'autorité administrative.
 
-Un décret rendu dans les mêmes conditions détermine les modes d'utilisation du
-lait provenant des animaux tuberculeux et du sang des bovidés qui doit être
-livré à la consommation.
+Le ministre de l'agriculture, les ministres chargés de la santé et de la
+consommation fixent par arrêté la liste des produits, substances et matières
+premières concernés, les conditions que doivent remplir les établissements et
+les modalités selon lesquelles leur respect est contrôlé et attesté, ainsi que
+les modalités d'attribution et de retrait de l'agrément ou de l'enregistrement.
+Ils peuvent prévoir que certaines des substances ou certains des produits visés
+au premier alinéa ne sont cédés qu'à des établissements faisant l'objet de
+l'enregistrement ou de l'agrément correspondant.

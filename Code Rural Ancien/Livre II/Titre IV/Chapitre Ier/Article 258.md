@@ -16,3 +16,10 @@ d'origine animale destinées à cette consommation ;
 4° A la détermination et à la surveillance des conditions d'hygiène dans
 lesquelles ces denrées sont préparées et conservées, notamment lors de leur
 transport et de leur mise en vente.
+
+Pour ces mêmes raisons, il peut être procédé à l'inspection sanitaire et
+qualitative des animaux vivants appartenant à des espèces dont la chair ou les
+produits sont destinés à l'alimentation humaine et de leurs conditions de
+production dans tous les lieux et locaux professionnels, autres que ceux visés
+au 1° ci-dessus où ils sont détenus, et dans les véhicules professionnels de
+transport.

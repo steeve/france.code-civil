@@ -1,39 +1,31 @@
 Article L331-7
 ----
-La demande d'autorisation est transmise pour avis à la commission départementale
-d'orientation de l'agriculture.
+Lorsqu'elle constate qu'un fonds est exploité contrairement aux dispositions du
+présent chapitre, l'autorité administrative met l'intéressé en demeure de
+régulariser sa situation dans un délai qu'elle détermine et qui ne saurait être
+inférieur à un mois.
 
-Les demandeurs, le propriétaire et le preneur peuvent prendre connaissance du
-dossier huit jours au moins avant la réunion de la commission. Sur leur demande,
-ils sont entendus par cette dernière devant laquelle ils peuvent se faire
-assister ou représenter par toute personne de leur choix.
+La mise en demeure mentionnée à l'alinéa précédent prescrit à l'intéressé soit
+de présenter une demande d'autorisation, soit, si une décision de refus
+d'autorisation est intervenue, de cesser l'exploitation des terres concernées.
 
-Le préfet, pour motiver sa décision, et la commission départementale
-d'orientation de l'agriculture, pour rendre son avis, sont tenus de se conformer
-aux orientations du schéma directeur départemental d'orientation de
-l'agriculture applicable dans le département sur le territoire duquel est situé
-le fonds. Ils sont tenus notamment :
+Lorsque l'intéressé, tenu de présenter une demande d'autorisation, ne l'a pas
+formée dans le délai mentionné ci-dessus, l'autorité administrative lui notifie
+une mise en demeure de cesser d'exploiter dans un délai de même durée.
 
-1° D'observer l'ordre des priorités établi entre l'installation des jeunes
-agriculteurs et l'agrandissement des exploitations, en tenant compte de
-l'intérêt économique et social du maintien de l'autonomie de l'exploitation
-faisant l'objet de la demande ;
+Lorsque la cessation de l'exploitation est ordonnée, l'intéressé est mis à même,
+pendant le délai qui lui est imparti, de présenter ses observations écrites ou
+orales devant toute instance ayant à connaître de l'affaire.
 
-2° De tenir compte, en cas d'agrandissement ou de réunion d'exploitations, des
-possibilités d'installation sur une exploitation viable, de la situation des
-terres concernées par rapport au siège de l'exploitation du ou des demandeurs,
-de la superficie des biens faisant l'objet de la demande et des superficies déjà
-mises en valeur par le ou les demandeurs, ainsi que par le preneur en place ;
+Si, à l'expiration du délai imparti pour cesser l'exploitation des terres
+concernées, l'autorité administrative constate que l'exploitation se poursuit
+dans des conditions irrégulières, elle peut prononcer à l'encontre de
+l'intéressé une sanction pécuniaire d'un montant compris entre 2000 et 6000 F
+par hectare. La surface prise en compte correspond à la surface de
+polyculture-élevage faisant l'objet de l'exploitation illégale, ou son
+équivalent, après, le cas échéant, application des coefficients d'équivalence
+résultant, pour chaque nature de culture, de l'application de l'article L.
+312-6.
 
-3° De prendre en considération la situation personnelle du ou des demandeurs :
-âge, situation familiale et professionnelle et, le cas échéant, celle du preneur
-en place, ainsi que le nombre et la nature des emplois salariés en cause ;
-
-4° De tenir compte de la structure parcellaire des exploitations concernées,
-soit par rapport au siège de l'exploitation, soit pour éviter que des mutations
-en jouissance ne remettent en cause des aménagements obtenus à l'aide de fonds
-publics.
-
-Le préfet peut subordonner l'autorisation à la condition que le demandeur libère
-des terres éloignées ou morcelées en vue d'une meilleure restructuration de
-l'exploitation.
+Cette mesure pourra être reconduite chaque année s'il est constaté que
+l'intéressé poursuit l'exploitation en cause.

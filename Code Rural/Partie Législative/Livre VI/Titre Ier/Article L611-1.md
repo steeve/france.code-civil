@@ -2,11 +2,14 @@ Article L611-1
 ----
 Un Conseil supérieur d'orientation et de coordination de l'économie agricole et
 alimentaire, composé de représentants des ministres intéressés, de la production
-agricole, de la transformation et de la commercialisation des produits agricoles
-et de l'artisanat et du commerce indépendant de l'alimentation, ainsi que d'un
-représentant du comité permanent du financement de l'agriculture, participe à la
-définition, à la coordination, à la mise en oeuvre et à l'évaluation de la
-politique d'orientation des productions et d'organisation des marchés.
+agricole, de la transformation et de la commercialisation des produits
+agricoles, de l'artisanat et du commerce indépendant de l'alimentation, des
+consommateurs et des associations agréées pour la protection de l'environnement,
+de la propriété agricole, des syndicats représentatifs des salariés des filières
+agricoles et alimentaires ainsi que d'un représentant du comité permanent du
+financement de l'agriculture, participe à la définition, à la coordination, à la
+mise en oeuvre et à l'évaluation de la politique d'orientation des productions
+et d'organisation des marchés.
 
 Il est compétent pour l'ensemble des productions agricoles, agro-alimentaires,
 agro-industrielles et forestières.

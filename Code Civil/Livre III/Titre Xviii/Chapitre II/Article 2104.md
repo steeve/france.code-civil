@@ -16,7 +16,8 @@ l'année échue et l'année courante ;
 La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008
 du 31 décembre 1989 relative au développement des entreprises commerciales et
 artisanales et à l'amélioration de leur environnement économique, juridique et
-social.
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1
+du code rural.
 
 Les rémunérations pour les six derniers mois des salariés, apprentis et
 l'indemnité due par l'employeur aux jeunes en stage d'initiation à la vie

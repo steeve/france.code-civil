@@ -8,23 +8,33 @@ des principes de liberté de conscience, d'égal accès de tous à l'éducation 
 liberté de l'enseignement, qui implique notamment qu'un tel établissement
 puisse, à ces conditions, naître d'une initiative privée.
 
-Chaque association ou organisme mentionné au premier alinéa doit avoir pour
-objet, en tenant compte de l'évolution des diverses formes de l'agriculture, de
-ses activités annexes et des divers modes de développement rural :
+L'enseignement et la formation professionnelle agricoles dispensés par les
+associations ou organismes mentionnés au premier alinéa ont pour objet
+d'assurer, en les associant, une formation générale et une formation
+technologique et professionnelle dans les métiers de l'agriculture, de la forêt,
+de l'aquaculture, de la transformation et de la commercialisation des produits
+agricoles ainsi que dans d'autres métiers concourant au développement de
+ceux-ci, notamment dans les domaines des services et de l'aménagement de
+l'espace agricole, rural, forestier, de la gestion de l'eau et de
+l'environnement. Ils contribuent au développement personnel des élèves,
+étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leur
+qualification et à leur insertion professionnelle et sociale.
 
-1° D'assurer, en les associant, la formation générale et la formation
-professionnelle initiale et continue d'exploitants, de salariés agricoles,
-d'associés d'exploitation et d'aides familiaux, ainsi que de chefs d'entreprise
-et de salariés des secteurs de la transformation et de la commercialisation des
-produits agricoles ;
+Ils remplissent les missions suivantes :
 
-2° D'élever, par des filières organisées de façon appropriée, le niveau des
-connaissances et des aptitudes de l'ensemble des agriculteurs et des membres des
-professions para-agricoles et d'accroître leur niveau scientifique et technique
-pour leur permettre de maîtriser les nouvelles technologies, notamment dans leur
-application à la chaîne alimentaire ;
+1° Ils assurent une formation générale, technologique et professionnelle
+initiale ou continue ;
 
-3° De participer au développement agricole et à l'animation du milieu rural dans
-les cadres national, régional, départemental et local ;
+2° Ils participent à l'animation du milieu rural ;
 
-4° De contribuer à la mission de coopération internationale.
+3° Ils contribuent aux activités de développement, d'expérimentation et de
+recherche appliquée ;
+
+4° Ils participent à des actions de coopération internationale, notamment en
+favorisant les échanges et l'accueil d'élèves, apprentis, stagiaires et
+enseignants.
+
+L'enseignement et la formation professionnelle agricoles privés sont organisés
+dans le cadre de l'éducation permanente, selon les voies de la formation
+initiale et de la formation continue, sans que dans ce dernier cas leur mise en
+oeuvre relève du contrat prévu au premier alinéa du présent article.
