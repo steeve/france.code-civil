@@ -1,51 +1,43 @@
 Article 56 J terdecies
 ----
-Le cahier des charges mentionné à l'article 56 J duodecies est composé de :
+Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général
+des impôts comprend la description des moyens et des méthodes de contrôles et
+essais mis en oeuvre par les organismes de contrôle agréés.
 
-a. Une documentation relative à la mise en place des procédures ; elle comprend
-:
+La direction générale des douanes et droits indirects et la direction générale
+de l'industrie, des technologies de l'information et des postes approuvent le
+cahier des charges préalablement à l'agrément de l'organisme de contrôle.
 
-1° La description des responsabilités de la direction de l'entreprise pour tout
-ce qui concerne la politique de qualité et son organisation ;
+Le cahier des charges est composé notamment de :
 
-2° Les documents relatifs au système de qualité mis en oeuvre et les
-instructions données au personnel dans ce cadre ;
+a) Une documentation, relative à l'organisme de contrôle agréé, fournissant :
 
-3° La procédure de gestion des documents et des données relatives à la politique
-de qualité ;
+1° La description de l'organisme quant à ses structures juridiques et ses locaux
+;
 
-b. Une documentation relative au fonctionnement de la procédure et aux contrôles
-à opérer ; elle recouvre la description :
+2° La description de l'organisation et des responsabilités de la direction de
+l'entreprise ainsi que la compétence du personnel chargé de la détermination du
+titre des ouvrages ;
 
-1° Des sources d'approvisionnement des alliages, apprêts et accessoires et des
-méthodes d'évaluation de leur qualité ainsi que des méthodes de contrôle des
-métaux précieux et alliages de toutes natures mises en oeuvre depuis leur
-acquisition jusqu'aux produits finis ; ce contrôle permet la maîtrise des
-procédés de production qui ont une incidence sur le titre ;
+b) Une documentation relative à la procédure d'analyse des ouvrages en métaux
+précieux qui reprend :
 
-2° Des analyses et essais, qui peuvent se situer tout au long du processus de
-production, de la réception des matières premières à la livraison des produits
-finis ;
+1° Les normes utilisées sur les méthodes de dosage des métaux précieux ;
 
-3° Des moyens mis en oeuvre pour la maîtrise des équipements d'analyse et
-d'essai destinés à démontrer le respect du titre ;
+2° Les moyens et les méthodes de contrôle et d'essai des ouvrages des
+professionnels habilités par une convention et des ouvrages des professionnels
+non habilités ;
 
-4° De l'organisation de la gestion des produits non conformes au titre légal
-prévu, au moyen de procédures documentées qui assurent que ces produits ne
-seront pas insculpés du poinçon de titre ou commercialisés ; le responsable de
-l'examen et de la destination de la production non conforme doit être désigné ;
+3° La méthode de gestion des échantillons lors des essais des ouvrages et la
+procédure mise en place en cas de découverte de produits non conformes au titre
+légal ;
 
-5° De la mise en oeuvre d'actions correctives ;
+c) Une documentation relative aux obligations des organismes de contrôles agréés
+qui marquent éventuellement les ouvrages pour le compte des professionnels, à
+savoir :
 
-c. Une documentation relative aux modalités d'observation et d'enregistrement
-des procédures suivies ; elle comprend les modalités :
+1° Le respect des règles de marque ;
 
-1° D'enregistrement des procédures d'identification, de collecte, de classement,
-d'archivage et de mise à jour des données relatives au titre ;
-
-2° De mise en oêuvre des audits internes de qualité destinés à permettre la
-vérification de la conformité de la politique de qualité du titre appliquée avec
-le cahier des charges ;
-
-3° De mise en oeuvre des formations nécessaires pour assurer la compétence du
-personnel impliqué dans la procédure de respect du titre.
+2° La tenue d'une comptabilité matières du nombre et poids des ouvrages essayés,
+du nombre et poids des ouvrages marqués et du nombre et poids des ouvrages
+reconnus aux titres non légaux.
