@@ -2,7 +2,9 @@ Article L253-2
 ----
 Les recettes du budget de la communauté urbaine comprennent :
 
-1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 (1) ;
+1. Le produit des impôts directs mentionnés aux A-1. de l'article L. 231-5 et,
+le cas échéant, aux articles 1609 quinquies C ou 1609 nonies C du code général
+des impôts ;
 
 2. Le produit de la taxe d'enlèvement des ordures ménagères, de la redevance
 d'enlèvement des ordures ménagères sur les terrains de camping ou de la
@@ -45,13 +47,8 @@ et des syndicats mixtes ;
 
 14. Le produit des dons et legs ;
 
-15. Le produit des emprunts.
-
-16. Le produit des participations aux dépenses d'équipement publics à la charge
-des bénéficiaires d'autorisations de construire en vertu des dispositions de
-l'article L. 332-9 du code de l'urbanisme.
-
-17. La participation à la diversité de l'habitat prévue à l'article L. 332-17 du
-code de l'urbanisme.
-
-(1) Voir également l'article 1609 bis du code général des impôts.
+15. Le produit des emprunts. 16. Le produit des participations aux dépenses
+d'équipement publics à la charge des bénéficiaires d'autorisations de construire
+en vertu des dispositions de l'article L. 332-9 du code de l'urbanisme. 17. La
+participation à la diversité de l'habitat prévue à l'article L. 332-17 du code
+de l'urbanisme.

@@ -17,21 +17,19 @@ départements, ainsi que des régions pour les ensembles de communes qui dépass
 100000 habitants. Dans les régions de Guadeloupe, de Guyane, de Martinique et de
 la Réunion, le conseil régional et le conseil général sont consultés, quel que
 soit le nombre d'habitants de l'ensemble des communes regroupées dans le
-périmètre du schéma directeur ou du schéma de secteur. Les communes confient,
-dans les mêmes conditions de majorité,
+périmètre du schéma directeur ou du schéma de secteur. " Les communes confient
+dans le périmètre mentionné au troisième alinéa du présent article et dans les
+mêmes conditions de majorité leurs compétences en matière de schéma directeur ou
+de schéma de secteur :
 
-l'élaboration ou la révision du schéma directeur ou du schéma de secteur, soit à
-un établissement public de coopération intercommunale ayant compétence en la
-matière dans le périmètre visé au troisième alinéa du présent article, soit à un
-syndicat intercommunal d'études et de programmation qu'elles créent à cet effet.
+" - soit à un établissement public de coopération intercommunale ;
 
-Les communes peuvent également confier l'élaboration ou la révision du schéma
-directeur ou du schéma de secteur à un syndicat mixte regroupant des
-collectivités territoriales, des groupements de ces collectivités ou la région
-et ayant compétence à cet effet dans le périmètre visé au troisième alinéa du
-présent article. Les dispositions du présent chapitre relatives aux
-établissements publics de coopération intercommunale sont applicables aux
-syndicats mixtes ci-dessus mentionnés.
+" - soit à un syndicat mixte regroupant les collectivités territoriales ou des
+groupements de ces collectivités.
+
+" Les dispositions du présent chapitre relatives aux établissements publics de
+coopération intercommunale sont applicables aux syndicats mixtes ci-dessus
+mentionnés. "
 
 L'établissement public de coopération intercommunale associe à cette élaboration
 l'Etat et, à leur demande, la région, le département, les autres établissements

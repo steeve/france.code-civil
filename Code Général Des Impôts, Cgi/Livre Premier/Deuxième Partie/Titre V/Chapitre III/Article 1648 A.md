@@ -15,21 +15,60 @@ Pour la détermination du potentiel fiscal, chaque fois qu'il est fait référen
 professionnelle après écrêtement.
 
 Dans le cas où une commune visée par les dispositions qui précèdent appartient à
-un groupement de communes auquel elle verse une contribution budgétaire calculée
+un groupement de communes auquel elle vers une contribution budgétaire calculée
 par référence au produit global de sa taxe professionnelle ou de ses quatre
 taxes ou s'est engagée par accord conventionnel, à reverser une partie de ce
 produit à une ou plusieurs communes voisines, il est appliqué sur les bases de
 cette commune, pour l'application des premier et deuxième alinéas, une réduction
 de bases correspondant au montant des sommes en cause.
 
-(Périmé). Pour les établissements créés avant le 1er janvier 1976 , à
-l'exception de ceux produisant de l'énergie ou traitant des combustibles,
-l'assiette du prélèvement est limitée de manière que la commune conserve au
-moins 80 % du montant des bases de taxe professionnelle imposables à son profit
-en 1979. Les dispositions du présent paragraphe ne s'appliquent pas aux
-agglomérations nouvelles. I bis. Pour les établissements produisant de l'énergie
-ou traitant des combustibles, toute unité de production ou de traitement est
-considérée comme un établissement pour l'application du paragraphe I (1).
+Pour les établissements créés avant le 1er janvier 1976, à l'exception de ceux
+produisant de l'énergie ou traitant des combustibles, l'assiette du prélèvement
+est limitée de manière que la commune conserve au moins 80 % du montant des
+bases de taxe professionnelle imposables à son profit en 1979. A compter de
+1991, ce montant est divisé par 0,960.
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux agglomérations
+nouvelles.
+
+I bis. Pour les établissements produisant de l'énergie ou traitant des
+combustibles, toute unité de production ou de traitement est considérée comme un
+établissement pour l'application du paragraphe I (1).
+
+I ter. Lorsque, dans un groupement de communes ayant opté pour le régime fiscal
+prévu au II de l'article 1609 quinquies C, les bases d'imposition d'un
+établissement implanté dans la zone d'activités économiques, rapportées au
+nombre d'habitants de la commune sur le territoire de laquelle est situé
+l'établissement, excèdent deux fois la moyenne nationale des bases communales de
+taxe professionnelle par habitant, il est perçu directement un prélèvement de
+taxe professionnelle du groupement au profit du fonds départemental de
+péréquation de la taxe professionnelle.
+
+Ce prélèvement est égal au montant des bases excédentaires de l'établissement
+pondérées par le taux de taxe professionnelle perçue par le groupement sur la
+zone d'activités économiques.
+
+Lorsque, dans un groupement de communes soumis de plein droit ou après option au
+régime fiscal prévu à l'article 1609 nonies C, les bases d'imposition d'un
+établissement rapportées au nombre d'habitants de la commune sur le territoire
+de laquelle est situé cet établissement, excèdent deux fois la moyenne nationale
+des bases communales de taxe professionnelle par habitant, il est perçu
+directement un prélèvement de taxe professionnelle du groupement au profit du
+fonds départemental de péréquation de la taxe professionnelle.
+
+Ce prélèvement est égal au montant des bases excédentaires de l'établissement
+pondérées par le taux de taxe professionnelle perçue par le groupement.
+
+Ces dispositions sont applicables à compter du 1er janvier 1993.
+
+I quater. Pour les communautés de communes et les districts créés après la date
+de promulgation de la loi n° 92-125 du 6 février 1992, lorsque les bases
+d'imposition d'un établissement, rapportées au nombre d'habitants de la commune
+sur le territoire de laquelle est situé l'établissement, excèdent deux fois la
+moyenne nationale des bases de taxe professionnelle par habitant, il est perçu
+directement un prélèvement au profit du fonds départemental de péréquation de la
+taxe professionnelle égal au produit du montant des bases excédentaires par le
+taux de taxe professionnelle du district.
 
 II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou

@@ -1,17 +1,24 @@
 Article L233-61
 ----
-Le taux du versement est fixé ou modifié par délibération du conseil municipal
-ou de l'organisme compétent de l'établissement public [*communauté urbaine,
-district ou syndicat de communes*] dans la limite de 1 p. 100 [*pourcentage*]
-des salaires [*calculés conformément aux législations de la sécurité sociale*]
-définis à l'article L. 233-59.
+Le taux de versement est fixé ou modifié par délibération du conseil municipal
+ou de l'organisme compétent de l'établissement public dans la limite de :
 
-Cette limite peut être portée à 1,75 p. 100 si la commune ou l'établissement
-public a décidé de réaliser une infrastructure de transport collectif et obtenu
-une subvention de l'Etat pour l'investissement correspondant.
+" - 0,55 p. 100 des salaires définis à l'article L. 233-59 lorsque la population
+de la commune ou de l'établissement public est comprise entre 20 000 et 100 000
+habitants ;
 
-Toutefois, pour les communes dont la population est comprise entre 30.000 et
-100.000 habitants et pour les établissements publics, lorsque la population de
-l'ensemble des communes en faisant partie est comprise dans les mêmes limites,
-le taux du versement-transport ne peut dépasser 0,5 p. 100 des salaires définis
-à l'article L. 233-59.
+" - 1,05 p. 100 des salaires définis à l'article L. 233-59 lorsque la population
+de la commune ou de l'établissement public est supérieure à 100 000 habitants ;
+
+" - 1,80 p. 100 des salaires définis à l'article L. 233-59 lorsque la population
+de la commune ou de l'établissement public est supérieure à 100 000 habitants et
+que l'autorité organisatrice a décidé de réaliser une infrastructure de
+transport collectif et obtenu une subvention de l'Etat pour l'investissement
+correspondant.
+
+" Toutefois, les communautés de communes et communautés de villes ont la faculté
+de majorer de 0,05 p. 100 les taux maxima mentionnés aux alinéas précédents.
+
+" Cette faculté est également ouverte aux communautés urbaines et aux autorités
+organisatrices de transports urbains auxquelles ont adhéré une communauté
+urbaine, une communauté de villes ou une communauté de communes. "

@@ -3,8 +3,8 @@ Article L762-1
 Les travailleurs salariés ou assimilés de nationalité française qui exercent
 leur activité dans un pays étranger et qui ne sont pas ou ne sont plus soumis à
 la législation française de sécurité sociale en vertu d'une convention
-internationale ou de l'article L. 761-2 [*détachement*] ont la faculté de
-s'assurer volontairement contre :
+internationale ou de l'article L. 761-2 ont la faculté de s'assurer
+volontairement contre :
 
 1°) les risques de maladie et d'invalidité et les charges de la maternité ;
 
@@ -23,7 +23,7 @@ l'adhésion de ces personnes aux assurances volontaires mentionnées aux alinéa
 précédents ou à certaines d'entre elles. Elles doivent effectuer ces formalités
 lorsque les salariés le demandent.
 
-Les services extérieurs de l'Etat installés à l'étranger, ainsi que les
+Les services déconcentrés de l'Etat installés à l'étranger, ainsi que les
 établissements d'enseignement, de recherche, culturels, sanitaires à l'étranger
 subventionnés par le budget de l'Etat doivent, à la demande et pour le compte
 des travailleurs français qu'ils emploient localement, effectuer les formalités
