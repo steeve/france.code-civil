@@ -35,3 +35,8 @@ proviennent de produits nets exonérés en application de l'article 208 quinquie
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du
 3 de l'article 223 sexies.
+
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales
+visées à l'article 208 C et prélevés sur les bénéfices exonérés en application
+du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à
+l'imposition prévue au IV de l'article 219.
