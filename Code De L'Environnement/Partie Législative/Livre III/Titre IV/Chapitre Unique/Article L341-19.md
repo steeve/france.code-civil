@@ -33,8 +33,8 @@ et l'Etat.
 
 III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à
 L. 480-9 du code de l'urbanisme sont applicables aux infractions à l'alinéa 4 de
-l'article L. 341-1 du présent code et aux dispositions visées au précédent
-alinéa, sous la seule réserve des conditions suivantes :
+l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
+seule réserve des conditions suivantes :
 
 1° Les infractions sont constatées en outre par les fonctionnaires et les agents
 commissionnés à cet effet par le ministre chargé des sites et par les

@@ -18,8 +18,8 @@ routières ;
 
 - aux réseaux d'intérêt public.
 
-Elle ne s'applique pas non plus à l'adaptation, la réfection ou l'extension de
-constructions existantes.
+Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à
+la réfection ou à l'extension de constructions existantes.
 
 Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les
 règles concernant ces zones, contenues dans le plan local d'urbanisme, ou dans

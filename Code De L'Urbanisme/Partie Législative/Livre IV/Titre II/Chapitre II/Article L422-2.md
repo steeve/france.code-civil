@@ -1,8 +1,11 @@
 Article L422-2
 ----
 Les constructions ou travaux exemptés du permis de construire, à l'exception de
-ceux couverts par le secret de la défense nationale, font l'objet d'une
-déclaration auprès du maire de la commune avant le commencement des travaux.
+ceux couverts par le secret de la défense nationale, et de ceux, visés au
+premier alinéa de l'article L. 422-1, répondant aux besoins des services du
+ministère de l'intérieur ou des établissements pénitentiaires, font l'objet
+d'une déclaration auprès du maire de la commune avant le commencement des
+travaux.
 
 Sauf opposition dûment motivée, notifiée par l'autorité compétente en matière de
 permis de construire dans le délai d'un mois à compter de la réception de la

@@ -9,6 +9,12 @@ public ou approuvé en application de l'article L. 313-1 lorsqu'il n'a pas été
 créé de zone d'aménagement différé ou de périmètre provisoire de zone
 d'aménagement différé sur ces territoires.
 
+Les conseils municipaux des communes dotées d'une carte communale approuvée
+peuvent, en vue de la réalisation d'un équipement ou d'une opération
+d'aménagement, instituer un droit de préemption dans un ou plusieurs périmètres
+délimités par la carte. La délibération précise, pour chaque périmètre,
+l'équipement ou l'opération projetée.
+
 Ce droit de préemption est ouvert à la commune. Le conseil municipal peut
 décider de le supprimer sur tout ou partie des zones considérées. Il peut
 ultérieurement le rétablir dans les mêmes conditions.

@@ -10,7 +10,7 @@ département, sur proposition du directeur du Conservatoire de l'espace littoral
 et des rivages lacustres, puis assermentés. Dans ce cas, ils sont au nombre des
 agents mentionnés au 3° de l'article 15 du code de procédure pénale.
 
-Les gardes du littoral et les agents visés à l'article L. 322-20 du présent code
+Les gardes du littoral et les agents visés à l'article L. 332-20 du présent code
 constatent par procès-verbal les contraventions aux arrêtés municipaux ou
 préfectoraux relatifs à l'accès aux terrains concernés ou à leurs usages, ainsi
 qu'à ceux pris en application des articles L. 2213-2, L. 2213-4, L. 2213-23, L.

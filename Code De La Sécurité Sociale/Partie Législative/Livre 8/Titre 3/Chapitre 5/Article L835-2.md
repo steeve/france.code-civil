@@ -5,9 +5,7 @@ insaisissable.
 
 L'allocation de logement est versée à l'allocataire, sauf dans les cas suivants
 où elle est versée soit au prêteur lorsque l'allocataire est propriétaire, soit
-au bailleur du logement, sous réserve que le logement réponde aux exigences
-visées au premier alinéa de l'article L. 831-3, lorsque l'allocataire est
-locataire :
+au bailleur du logement lorsque l'allocataire est locataire :
 
 1° L'allocataire est locataire d'un logement compris dans un patrimoine d'au
 moins dix logements appartenant à un organisme d'habitations à loyer modéré
@@ -31,6 +29,21 @@ soit versée ;
 4° L'allocataire est locataire d'un logement dont les revenus sont soumis aux
 dispositions du g ou du cinquième alinéa du e du 1° du I de l'article 31 du code
 général des impôts.
+
+Toutefois, dans les cas précités, l'allocation ne peut être versée au bailleur
+que si le logement répond aux exigences prévues au premier alinéa de l'article
+L. 831-3 ou, en ce qui concerne les logements sociaux, si le bailleur s'engage
+par convention avec l'Etat à rendre le logement décent dans un délai fixé par
+ladite convention. Une copie de cette convention est adressée aux organismes
+payeurs de l'allocation de logement. Sont considérés comme logements sociaux
+pour l'application de cette disposition les logements appartenant à ou gérés par
+un organisme d'habitations à loyer modéré, une société d'économie mixte, ainsi
+qu'un des organismes suivants : l'Entreprise minière et chimique et les sociétés
+à participation majoritaire de l'Entreprise minière et chimique, les houillères
+de bassin et les sociétés à participation majoritaire des houillères de bassin,
+les sociétés à participation majoritaire des Charbonnages de France,
+l'Etablissement public de gestion immobilière du Nord - Pas-de-Calais et les
+sociétés à participation majoritaire de cet établissement.
 
 Dès lors que l'allocation est versée au bailleur ou au prêteur, elle est
 déduite, par les soins de qui reçoit le versement, du montant du loyer et des

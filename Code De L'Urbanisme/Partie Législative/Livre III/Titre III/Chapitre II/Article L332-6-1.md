@@ -14,10 +14,10 @@ d) La taxe pour le financement des dépenses des conseils d'architecture,
 d'urbanisme et de l'environnement prévue à l'article 1599 B du code général des
 impôts ;
 
-e) La taxe spéciale d'équipement prévue à l'article 1599-0B du code général des
+e) La taxe spéciale d'équipement prévue à l'article 1599-0 B du code général des
 impôts.
 
-2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du
+2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7
 code de la santé publique ;
 
 b) La participation destinée à la réalisation de parcs publics de stationnement
@@ -26,11 +26,10 @@ prévue au troisième alinéa de l'article L. 421-3 ;
 c) La participation spécifique pour la réalisation d'équipements publics
 exceptionnels prévue à l'article L. 332-8 ;
 
-d) La participation au financement des voies nouvelles et réseaux prévue à
-l'article L. 332-11-1 ;
+d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ;
 
 e) Les cessions gratuites de terrains destinés à être affectés à certains usages
-publics qui, dans la limite de 10 p. 100 de la superficie du terrain auquel
+publics qui, dans la limite de 10 % de la superficie du terrain auquel
 s'applique la demande, peuvent être exigées des bénéficiaires d'autorisations
 portant sur la création de nouveaux bâtiments ou de nouvelles surfaces
 construites ;

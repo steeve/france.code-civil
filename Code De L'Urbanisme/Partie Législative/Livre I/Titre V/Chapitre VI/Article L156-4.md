@@ -16,7 +16,8 @@ maintien de l'équilibre du milieu marin et terrestre.
 Ces installations organisent ou préservent l'accès et la libre circulation le
 long du rivage.
 
-II. - Sont autorisées dans les secteurs occupés par une urbanisation diffuse à
-la date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée, situés
-dans la bande littorale définie à l'article L. 156-2, l'adaptation, la réfection
-et l'extension limitée des constructions existantes.
+II. - Sont autorisés dans les secteurs occupés par une urbanisation diffuse à la
+date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée, situés
+dans la bande littorale définie à l'article L. 156-2, l'adaptation, le
+changement de destination, la réfection et l'extension limitée des constructions
+existantes.

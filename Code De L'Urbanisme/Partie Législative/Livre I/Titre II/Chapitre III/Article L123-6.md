@@ -7,7 +7,10 @@ L. 300-2, est notifiée au préfet, au président du conseil régional, au prés
 du conseil général et, le cas échéant, au président de l'établissement public
 prévu à l'article L. 122-4, ainsi qu'aux représentants de l'autorité compétente
 en matière d'organisation des transports urbains et des organismes mentionnés à
-l'article L. 121-4.
+l'article L. 121-4. Lorsque la commune est limitrophe d'un schéma de cohérence
+territoriale sans être couverte par un autre schéma, la délibération est
+également notifiée à l'établissement public chargé de ce schéma en application
+de l'article L. 122-4.
 
 A compter de la publication de la délibération prescrivant l'élaboration d'un
 plan local d'urbanisme, l'autorité compétente peut décider de surseoir à

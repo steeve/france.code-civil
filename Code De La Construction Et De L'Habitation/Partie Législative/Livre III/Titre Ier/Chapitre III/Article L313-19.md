@@ -27,12 +27,19 @@ troisième alinéa de l'article L. 312-1 ;.
 mentionnées au 2°. Ces recommandations ne peuvent déroger aux conventions
 ci-dessus mentionnées ;
 
-4° Donne, dans les conditions prévues par ses statuts, un avis préalablement aux
-opérations par lesquelles les associés collecteurs convertissent ou transforment
-en titres ou subventions des créances constituées avec les fonds issus de la
-participation des employeurs à l'effort de construction ou par lesquelles ils
-cèdent ou prennent des participations financées avec les mêmes fonds. L'union
-peut demander une seconde délibération aux associés collecteurs ;
+4° Donne, en considération des intérêts communs que l'union représente et des
+objectifs définis dans les conventions mentionnées au 2°, un avis conforme
+préalablement aux opérations par lesquelles les associés collecteurs :
+
+- constituent, cèdent ou transforment, avec les fonds issus de la participation
+des employeurs à l'effort de construction, des créances, dans des conditions qui
+dérogent aux recommandations mentionnées au 3° ;
+
+- convertissent ou transforment en titres ou subventions des créances
+constituées avec les fonds de même provenance ;
+
+- prennent ou cèdent des participations financées avec les fonds de même
+provenance ;.
 
 5° Assure, dans les limites fixées par ses statuts, la gestion d'autres intérêts
 communs de ses associés et contribue au développement de leurs activités. Ces

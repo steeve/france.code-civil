@@ -14,10 +14,11 @@ d'un document déterminant les orientations et les principes fondamentaux de
 protection des structures paysagères sur le territoire du parc.
 
 La charte constitutive est élaborée par la région avec l'accord de l'ensemble
-des collectivités territoriales concernées et en concertation avec les
-partenaires intéressés. Elle est adoptée par décret portant classement en parc
-naturel régional pour une durée maximale de dix ans. La révision de la charte
-est assurée par l'organisme de gestion du parc naturel régional.
+des collectivités territoriales concernées, en concertation avec les partenaires
+intéressés, avant d'être soumise à l'enquête publique. Elle est adoptée par
+décret portant classement en parc naturel régional pour une durée maximale de
+dix ans. La révision de la charte est assurée par l'organisme de gestion du parc
+naturel régional.
 
 L'Etat et les collectivités territoriales adhérant à la charte appliquent les
 orientations et les mesures de la charte dans l'exercice de leurs compétences

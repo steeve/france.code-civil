@@ -18,9 +18,12 @@ L. 351-2 et L. 411-1 et de gérer les immeubles faisant l'objet de ces opératio
 
 - de gérer les immeubles à usage principal d'habitation appartenant à des
 organismes relevant des deux premiers secteurs locatifs définis par l'article 37
-de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif, ainsi
-que les immeubles réalisés par l'ensemble de ces organismes en vue de
-l'accession à la propriété ;
+de la loi n° 82-526 du 22 juin 1982 ou à des organismes sans but lucratif ou à
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
+(n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les
+parts sont détenues à au moins 99 % par cette association, ainsi que les
+immeubles réalisés par l'ensemble de ces organismes en vue de l'accession à la
+propriété ;
 
 - de réaliser, en qualité de prestataire de services, des opérations portant sur
 tout immeuble à usage principal d'habitation ;
@@ -86,3 +89,15 @@ nature des organismes pour le compte desquels ils sont réalisés.
 Ils peuvent aussi prendre à bail des logements vacants pour les donner en
 sous-location à des personnes physiques dans les conditions fixées par les
 articles L. 444-1 et suivants.
+
+Ils peuvent également réaliser en vue de leur vente, dans les conditions prévues
+aux articles L. 261-1 à L. 261-22, à l'association agréée mentionnée à l'article
+116 de la loi de finances pour 2002 précitée ou aux sociétés civiles
+immobilières dont les parts sont détenues à au moins 99 % par cette association,
+des immeubles à usage principal d'habitation destinés à la location.
+
+Ils peuvent aussi réaliser des prestations de service pour le compte de
+l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
+précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au
+moins 99 % par cette association, dans des conditions fixées par décret en
+Conseil d'Etat.

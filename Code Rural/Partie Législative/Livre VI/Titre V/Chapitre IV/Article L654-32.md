@@ -27,6 +27,11 @@ interprofessionnel du lait et des produits laitiers les états récapitulatifs
 nominatifs des quantités de référence individuelles, établis en conformité avec
 les normes réglementaires, complets et exploitables.
 
+e) Ont omis, dans leurs déclarations adressées à l'Office national
+interprofessionnel du lait et des produits laitiers, de comptabiliser une partie
+des quantités de lait ou d'équivalent-lait collectées par eux auprès de
+producteurs de lait.
+
 II. - Sont habilités à constater, par procès-verbal, les manquements décrits au
 I les agents habilités en application de l'article 108 de la loi de finances
 pour 1982 (n° 81-1160 du 30 décembre 1981) et tous les agents assermentés à cet
@@ -42,7 +47,10 @@ par le directeur de l'office national interprofessionnel du lait et des produits
 laitiers, par le prix indicatif du lait. S'il s'agit d'un avoir ou d'un
 remboursement de prélèvement supplémentaire, ce volume est obtenu en divisant le
 montant de l'avoir ou du remboursement en cause par le taux du prélèvement
-supplémentaire en vigueur.
+supplémentaire en vigueur. S'il s'agit d'un manquement mentionné au e ci-dessus,
+le montant est calculé en multipliant les quantités de lait omises dans la
+déclaration adressée à l'Office national interprofessionnel du lait et des
+produits laitiers par le prix indicatif du lait.
 
 Après examen des observations présentées par l'acheteur pour sa défense ou, à
 défaut, à l'expiration du délai précité, le directeur de l'office national

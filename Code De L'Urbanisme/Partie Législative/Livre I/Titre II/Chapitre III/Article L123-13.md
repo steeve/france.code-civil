@@ -1,32 +1,45 @@
 Article L123-13
 ----
-Le plan local d'urbanisme est révisé dans les formes prévues par les articles L.
-123-6 à L. 123-12. La révision peut ne porter que sur une partie du plan.
+Le plan local d'urbanisme est modifié ou révisé par délibération du conseil
+municipal après enquête publique.
 
-La délibération qui prescrit la révision précise les objectifs de la commune et,
-le cas échéant, les secteurs devant faire l'objet de la révision.
+La procédure de modification est utilisée à condition que la modification
+envisagée :
 
-Lorsqu'un projet présentant un caractère d'intérêt général nécessite une
-révision d'urgence d'un plan local d'urbanisme, la révision peut faire l'objet,
-à l'initiative du maire, d'un examen conjoint des personnes publiques associées
-mentionnées à l'article L. 123-9. L'enquête publique porte alors à la fois sur
-le projet et sur la révision du plan local d'urbanisme.
+a) Ne porte pas atteinte à l'économie générale du projet d'aménagement et de
+développement durable mentionné au deuxième alinéa de l'article L. 123-1 ;
 
-Un plan local d'urbanisme peut également être modifié par délibération du
-conseil municipal après enquête publique à condition qu'il ne soit pas porté
-atteinte à son économie générale et :
+b) Ne réduise pas un espace boisé classé, une zone agricole ou une zone
+naturelle et forestière, ou une protection édictée en raison des risques de
+nuisance, de la qualité des sites, des paysages ou des milieux naturels ;
 
-- que la modification n'ait pas pour effet de réduire un espace boisé classé ou
-une protection édictée en raison de la valeur agricole des terres, des risques
-de nuisance, de la qualité des sites, des paysages ou des milieux naturels ;
-
-- que la modification ne comporte pas de graves risques de nuisance.
-
-Il en est de même lorsque la modification ne porte que sur la suppression ou la
-réduction des obligations imposées en matière de réalisation d'aires de
-stationnement.
+c) Ne comporte pas de graves risques de nuisance.
 
 Le projet de modification est notifié, avant l'ouverture de l'enquête publique,
 au préfet, au président du conseil régional, au président du conseil général et,
 le cas échéant, au président de l'établissement public prévu à l'article L.
 122-4, ainsi qu'aux organismes mentionnés à l'article L. 121-4.
+
+Dans les autres cas que ceux visés aux a, b et c, le plan local d'urbanisme peut
+faire l'objet d'une révision selon les modalités définies aux articles L. 123-6
+à L. 123-12.
+
+Lorsque la révision a pour seul objet la réalisation d'une construction ou d'une
+opération, à caractère public ou privé, présentant un intérêt général notamment
+pour la commune ou toute autre collectivité ou lorsque la révision a pour objet
+la rectification d'une erreur matérielle, elle peut, à l'initiative du maire,
+être effectuée selon une procédure simplifiée. La révision simplifiée donne lieu
+à un examen conjoint des personnes publiques associées mentionnées à l'article
+L. 123-9. Le dossier de l'enquête publique est complété par une notice
+présentant la construction ou l'opération d'intérêt général. Les dispositions du
+présent alinéa sont également applicables à un projet d'extension des zones
+constructibles qui ne porte pas atteinte à l'économie générale du projet
+d'aménagement et de développement durable et ne comporte pas de graves risques
+de nuisance.
+
+Entre la mise en révision d'un plan local d'urbanisme et l'approbation de cette
+révision, il peut être décidé une ou plusieurs révisions simplifiées et une ou
+plusieurs modifications.
+
+Les procédures nécessaires à une ou plusieurs révisions simplifiées et à une ou
+plusieurs modifications peuvent être menées conjointement.

@@ -31,6 +31,6 @@ général des impôts pour les terres mises en valeur par lesdites sociétés lo
 celles-ci sont inscrites à l'actif de leur bilan.
 
 Un décret détermine les conditions dans lesquelles les chefs d'exploitation
-agricole peuvent opter pour la déduction prévue au deuxième alinéa, la durée de
+agricole peuvent opter pour la déduction prévue au cinquième alinéa, la durée de
 validité de cette option et les justificatifs qu'ils doivent fournir à la caisse
 de mutualité sociale agricole dont ils relèvent.

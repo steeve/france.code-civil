@@ -43,6 +43,11 @@ d'équipement de l'Etat, des collectivités locales et des établissements et
 services publics. Ils doivent être compatibles avec les chartes des parcs
 naturels régionaux.
 
+Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou
+partie celui d'un pays ayant fait l'objet d'une publication par arrêté
+préfectoral, le projet d'aménagement et de développement durable du schéma de
+cohérence territoriale tient compte de la charte de développement du pays.
+
 Pour leur exécution, les schémas de cohérence territoriale peuvent être
 complétés en certaines de leurs parties par des schémas de secteur qui en
 détaillent et en précisent le contenu.

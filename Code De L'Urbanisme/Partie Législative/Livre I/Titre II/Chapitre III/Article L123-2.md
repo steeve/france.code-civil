@@ -7,8 +7,9 @@ a) A interdire, sous réserve d'une justification particulière, dans un périm�
 qu'il délimite et pour une durée au plus de cinq ans dans l'attente de
 l'approbation par la commune d'un projet d'aménagement global, les constructions
 ou installations d'une superficie supérieure à un seuil défini par le règlement
-; les travaux ayant pour objet l'adaptation, la réfection ou l'extension limitée
-des constructions existantes sont toutefois autorisés ;
+; les travaux ayant pour objet l'adaptation, le changement de destination, la
+réfection ou l'extension limitée des constructions existantes sont toutefois
+autorisés ;
 
 b) A réserver des emplacements en vue de la réalisation, dans le respect des
 objectifs de mixité sociale, de programmes de logements qu'il définit ;

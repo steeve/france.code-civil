@@ -9,8 +9,10 @@ représentants sont consultés à leur demande au cours de l'élaboration du pro
 de plan local d'urbanisme.
 
 Il en est de même des présidents des établissements publics de coopération
-intercommunale voisins compétents et des maires des communes voisines ou de
-leurs représentants.
+intercommunale voisins compétents, des maires des communes voisines, ainsi que
+du président de l'établissement public chargé, en application de l'article L.
+122-4, d'un schéma de cohérence territoriale dont la commune, lorsqu'elle n'est
+pas couverte par un tel schéma, est limitrophe, ou de leurs représentants.
 
 Le maire peut recueillir l'avis de tout organisme ou association compétents en
 matière d'aménagement du territoire, d'urbanisme, d'environnement,

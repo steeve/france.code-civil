@@ -5,13 +5,16 @@ Les cartes communales respectent les principes énoncés aux articles L. 110 et 
 
 Elles délimitent les secteurs où les constructions sont autorisées et les
 secteurs où les constructions ne sont pas admises, à l'exception de
-l'adaptation, la réfection ou l'extension des constructions existantes ou des
-constructions et installations nécessaires à des équipements collectifs, à
-l'exploitation agricole ou forestière et à la mise en valeur des ressources
-naturelles.
+l'adaptation, du changement de destination, de la réfection ou de l'extension
+des constructions existantes ou des constructions et installations nécessaires à
+des équipements collectifs, à l'exploitation agricole ou forestière et à la mise
+en valeur des ressources naturelles.
 
 Les cartes communales sont approuvées, après enquête publique, par le conseil
-municipal et le préfet. Les cartes communales approuvées sont tenues à la
+municipal et le préfet. Elles sont approuvées par délibération du conseil
+municipal puis transmises pour approbation au préfet, qui dispose d'un délai de
+deux mois pour les approuver. A l'expiration de ce délai, le préfet est réputé
+les avoir approuvées. Les cartes communales approuvées sont tenues à la
 disposition du public.
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma
