@@ -1,42 +1,27 @@
 Article 4
 ----
-Les décisions prises par la commission communale en vertu des chapitres II et
-III du présent titre peuvent être portées par les intéressés ou par l'ingénieur
-en chef du génie rural devant une commission départementale d'aménagement
-foncier.
+Le département fait établir, sur proposition de la commission communale ou
+intercommunale, tous documents nécessaires à la détermination du ou des modes
+d'aménagement foncier à mettre en oeuvre.
 
-Le recours doit être formé dans un délai de quinze jours à dater de la
-notification ou, au plus tard et à défaut de notification, dans un délai d'un
-mois à dater de la publication.
+La commission propose le ou les modes d'aménagement foncier qu'elle juge
+opportun d'appliquer et le ou les périmètres correspondants.
 
-La commission départementale d'aménagement foncier statue dans le délai de deux
-mois. Elle a qualité pour modifier le remembrement ou pour en provoquer la
-modification ainsi que pour fixer l'ordre dans lequel les travaux de
-remembrement seront effectués dans la commune.
+Les limites territoriales de l'aménagement englobant un ou plusieurs périmètres
+peuvent comprendre des parties de territoire de communes limitrophes, dans la
+limite du dixième du territoire de chacune d'elles ou, avec l'accord du conseil
+municipal de la commune intéressée, du quart du territoire de chacune d'elles,
+lorsque la commission communale estime que l'aménagement comporte, au sens du
+présent titre, un intérêt pour les propriétaires ou les exploitants de ces
+parties de territoire.
 
-La commission départementale peut imposer à l'association foncière visée à
-l'article 27 du présent code de réaliser dans un délai de six mois à compter de
-la date du transfert de propriété les accès qui conditionnent la mise en
-exploitation de certaines parcelles. La liste de ces parcelles et la nature des
-travaux à entreprendre sont arrêtées par la commission communale.
+L'avis de la commission est porté à la connaissance des intéressés dans les
+conditions fixées par décret en Conseil d'Etat. Cet avis mentionne que les
+propriétaires doivent signaler au président de la commission, dans un délai d'un
+mois, les contestations judiciaires en cours. L'avis de la commission doit, dans
+ce cas, être notifié aux auteurs de ces contestations judiciaires qui pourront
+intervenir dans les procédures d'aménagement foncier, sous réserve de la
+reconnaissance ultérieure de leurs droits.
 
-Les décisions de la commission départementale ne peuvent être attaquées devant
-le tribunal administratif que pour incompétence, excès de pouvoir, vice de forme
-ou violation de la loi.
-
-Dans un délai de quinze jours, à compter de la date de la décision de la
-commission départementale, le président de cette commission notifie la décision
-au préfet.
-
-Le préfet peut, dans un délai de quinze jours à compter de cette notification,
-porter la décision devant le ministre de l'agriculture.
-
-La décision que le préfet n'a pas portée devant le ministre de l'agriculture
-dans le délai ci-dessus, est exécutoire à l'expiration de ce délai.
-
-Le ministre de l'agriculture se prononce après avis du conseil consultatif prévu
-à l'article 3 dans un délai de trois mois à compter de la date du recours du
-préfet.
-
-Passé ce délai, la décision de la commission départementale sur laquelle il n'a
-pas été statué par le ministre est exécutoire.
+Au vu des observations émises par les intéressés, la commission peut proposer
+les modifications de périmètre qu'elle estime fondées.
