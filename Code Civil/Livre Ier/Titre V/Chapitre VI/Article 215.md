@@ -1,8 +1,12 @@
 Article 215
 ----
-Le choix de la résidence de la famille appartient au mari ; la femme est obligée
-d'habiter avec lui, et il est tenu de la recevoir.
+Les époux s'obligent mutuellement à une communauté de vie.
 
-Lorsque la résidence fixée par le mari présente pour la famille des dangers
-d'ordre physique ou d'ordre moral, la femme peut, par exception, être autorisée
-à avoir, pour elle et ses enfants, une autre résidence fixée par le juge.
+La résidence de la famille est au lieu qu'ils choisissent d'un commun accord.
+
+Les époux ne peuvent l'un sans l'autre disposer des droits par lesquels est
+assuré le logement de la famille, ni des meubles meublants dont il est garni.
+Celui des deux qui n'a pas donné son consentement à l'acte peut en demander
+l'annulation : l'action en nullité lui est ouverte dans l'année à partir du jour
+où il a eu connaissance de l'acte, sans pouvoir jamais être intentée plus d'un
+an après que le régime matrimonial s'est dissous.
