@@ -13,9 +13,10 @@ d'amélioration répondant aux conditions prévues aux articles R. 331-8 et R.
 
 2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont
 acquis depuis moins de trois ans à la date de la demande de décision favorable à
-l'octroi de la subvention un terrain ou un immeuble et s'engagent à réaliser des
-travaux de construction ou d'amélioration répondant aux conditions prévues aux
-articles R. 331-8 et R. 331-9.
+l'octroi de la subvention un terrain ou un immeuble, et s'engagent à réaliser
+des travaux de construction, de transformation et d'aménagement ou
+d'amélioration répondant aux conditions prévues aux articles R. 331-8 et R.
+331-9.
 
 II. - Des opérations peuvent bénéficier d'une subvention foncière lorsque la
 charge foncière en construction neuve ou le coût global de l'opération en
