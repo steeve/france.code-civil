@@ -28,7 +28,7 @@ générale des caisses d'épargne ;
 - le directeur de la caisse nationale d'épargne ou son suppléant ;
 
 - deux représentants des organismes agréés mentionnés à l'article L. 315-19
-désignés par le conseil national du crédit ;
+désignés par le Conseil national du crédit ;
 
 - le directeur du budget ou son suppléant ;
 

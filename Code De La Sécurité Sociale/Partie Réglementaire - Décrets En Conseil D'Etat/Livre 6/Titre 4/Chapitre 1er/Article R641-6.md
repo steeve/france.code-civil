@@ -8,7 +8,7 @@ Il est institué 13 sections professionnelles :
 des compagnies judiciaires réunissant : les avoués près les cours d'appel, les
 huissiers de justice, les commissaires-priseurs, les syndics et administrateurs
 judiciaires, les greffiers titulaires de charges, les arbitres près le tribunal
-de commerce, les sociétés de bourse ;
+de commerce, les prestataires de services d'investissement ;
 
 3°) la section professionnelle des médecins ;
 

@@ -14,10 +14,10 @@ Il est autorisé par le conseil de famille sur le rapport d'un expert que désig
 le juge des tutelles.
 
 Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par
-le ministère d'une société de bourse.
+le ministère d'un prestataire de services d'investissement.
 
-Les autres valeurs mobilières sont vendues aux enchères par le ministère d'une
-société de bourse ou d'un notaire désigné dans la délibération qui autorise la
-vente. Le conseil de famille pourra néanmoins, sur le rapport d'un expert
-désigné par le juge des tutelles, en autoriser la vente de gré à gré aux prix et
-stipulations qu'il détermine.
+Les autres valeurs mobilières sont vendues aux enchères par le ministère d'un
+prestataire de services d'investissement ou d'un notaire désigné dans la
+délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur
+le rapport d'un expert désigné par le juge des tutelles, en autoriser la vente
+de gré à gré aux prix et stipulations qu'il détermine.
