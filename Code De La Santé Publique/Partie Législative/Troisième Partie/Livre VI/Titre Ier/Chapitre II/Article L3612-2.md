@@ -59,6 +59,10 @@ prépondérante en cas de partage égal des voix.
 Le conseil de prévention et de lutte contre le dopage établit son règlement
 intérieur.
 
+Le Conseil de prévention et de lutte contre le dopage peut délibérer en
+formation disciplinaire composée de quatre membres du conseil et présidée par
+l'un des membres mentionnés au 1°.
+
 Les membres et les agents du conseil de prévention et de lutte contre le dopage
 sont tenus au secret professionnel dans les conditions et sous les peines
 prévues à l'article 226-13 du code pénal.
