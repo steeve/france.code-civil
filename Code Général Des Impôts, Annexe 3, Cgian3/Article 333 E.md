@@ -14,3 +14,10 @@ apportent toutes les justifications nécessaires notamment en ce qui concerne la
 réalité de l'exportation la destination des produits les quantités d'huiles
 taxables contenues dans les produits exportés le paiement antérieur de la taxe
 afférente auxdites quantités [*conditions*].
+
+Les exportateurs sont autorisés à recevoir ou à importer en franchise de taxe
+spéciale, dans les conditions définies à l'article 275 du code général des
+impôts, les huiles qu'ils destinent à l'exportation (1).
+
+(1) Disposition applicable pour les livraisons et les importations d'huiles
+intervenues à compter du 1er janvier 1983.
