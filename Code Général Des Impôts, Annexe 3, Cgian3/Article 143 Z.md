@@ -21,8 +21,8 @@ e Le tonnage des pommes et poires achetées ou utilisées par eux et ne provenan
 pas des départements cidricoles.
 
 Ces déclarations, certifiées conformes aux renseignements figurant dans les
-documents prévus à l'article 143 G, sont adressées en triple exemplaire à la
-recette locale des impôts, la première avant le 15 mars et la seconde avant le
-15 septembre de chaque année. Deux de ces exemplaires sont adressés, après visa
-par le service des impôts, l'un au service des alcools, l'autre au comité des
+documents prévus à l'article 143 G, sont adressées en double exemplaire à la
+recette locale des impôts, la première avant le 15 mars [*date limite*] et la
+seconde avant le 15 septembre de chaque année [*périodicité*] Un de ces
+exemplaires est adressé, après visa par le service des impôts, au comité des
 fruits à cidre et des productions cidricoles.
