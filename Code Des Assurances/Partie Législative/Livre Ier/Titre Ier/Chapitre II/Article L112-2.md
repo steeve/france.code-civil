@@ -12,7 +12,13 @@ française, les modalités d'examen des réclamations qu'il peut formuler au suj
 du contrat, y compris, le cas échéant, l'existence d'une instance chargée en
 particulier de cet examen, sans préjudice pour lui d'intenter une action en
 justice, ainsi que l'adresse du siège social et, le cas échéant, de la
-succursale qui se propose d'accorder la couverture.
+succursale qui se propose d'accorder la couverture. Avant la conclusion d'un
+contrat comportant des garanties de responsabilité, l'assureur remet à l'assuré
+une fiche d'information, dont le modèle est fixé par arrêté, décrivant le
+fonctionnement dans le temps des garanties déclenchées par le fait dommageable,
+le fonctionnement dans le temps des garanties déclenchées par la réclamation,
+ainsi que les conséquences de la succession de contrats ayant des modes de
+déclenchement différents.
 
 Un décret en Conseil d'Etat définit les moyens de constater la remise effective
 des documents mentionnés à l'alinéa précédent. Il détermine, en outre, les
@@ -22,7 +28,7 @@ souscription.
 La proposition d'assurance n'engage ni l'assuré, ni l'assureur ; seule la police
 ou la note de couverture constate leur engagement réciproque.
 
-Est considérée comme acceptée la proposition faite, par lettre recommandée, de
+Est considérée comme acceptée la proposition, faite par lettre recommandée, de
 prolonger ou de modifier un contrat ou de remettre en vigueur un contrat
 suspendu, si l'assureur ne refuse pas cette proposition dans les dix jours après
 qu'elle lui est parvenue.
