@@ -19,7 +19,12 @@ produits et objets ;
 4° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des
 dérogations établies par décret.
 
-La fabrication et la vente en gros des drogues simples et des substances
+5° La vente au détail et toute délivrance au public des huiles essentielles dont
+la liste est fixée par décret ainsi que de leurs dilutions et préparations ne
+constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des produits
+à usage ménager, ni des denrées ou boissons alimentaires .
+
+La fabrication ety la vente en gros des drogues simples et des substances
 chimiques destinées à la pharmacie sont libres à condition que ces produits ne
 soient jamais délivrés directement aux consommateurs pour l'usage pharmaceutique
-et sous réserve des règlements particuliers concernant certains d'entre eux.
+et sous réserve des règlements particuliers concernant certains d'entre eux .
