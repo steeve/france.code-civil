@@ -5,14 +5,14 @@ Les régisseurs encaissent les recettes suivantes :
 1° Les redevances de copies de pièces pénales ;
 
 2° Les cautionnements prévus à l'article 138 du décret n° 70-1223 du 23 décembre
-1970 relatif au contrôle judiciaire (art. R. 19 à R. 25 du Code de procédure
+1970 relatif au contrôle judiciaire (art. R. 19 à R. du Code de procédure
 pénale) ;
 
-3° Les sommes saisies-arrêtées prévues aux articles R145-1 à R145-21 du Code du
-travail ;
+3° Les sommes provenant des saisies des rémunérations prévues aux articles R.
+145-1 à R. 145-39 et R. 145-43 du code du travail ;
 
-4° Les consignations de partie civile prévues aux articles 88, 88-1 du code de
-procédure pénale pour garantir le paiement de l'amende civile.
+4° Les consignations de parties civiles prévues aux articles 88, 88-1, 392-1 et
+R. 15-25 du code de procédure pénale ;
 
 5° Les provisions pour expertise ;
 
