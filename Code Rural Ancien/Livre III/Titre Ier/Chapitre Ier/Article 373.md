@@ -6,6 +6,12 @@ vol, suivant les distinctions établies par des arrêtés du ministre de
 l'agriculture, sur ses propres terres et sur les terres d'autrui avec le
 consentement de celui à qui le droit de chasse appartient.
 
+Pour permettre, dans des conditions strictement contrôlées et de manière
+sélective, la chasse de certains oiseaux de passage en petites quantités, le
+ministre chargé de la chasse autorise, dans les conditions qu'il détermine,
+l'utilisation des modes et moyens de chasse consacrés par les usages
+traditionnels, dérogatoires à ceux autorisés par l'alinéa précédent.
+
 Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme
 moyens de rabat, sont formellement prohibés.
 
@@ -25,7 +31,7 @@ daim, chamois, isard, bouquetin, et mouflon) sur les territoires de chasse
 pendant la période de chasse propre à chaque département, telle qu'elle est
 définie au premier alinéa de l'article 371.
 
-L'arrêté du Ministre est pris sur proposition du préfet, présentée à la demande
+L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande
 conjointe du conservateur des eaux et forêts et du président de la fédération
 départementale des chasseurs.
 
@@ -47,3 +53,8 @@ Dans les zones de montagne, un plan de chasse du grand gibier peut être institu
 dans les mêmes conditions pour les massifs locaux dont les limites sont définies
 par le représentant de l'Etat dans le département après avis du président de la
 fédération départementale des chasseurs et des communes concernées.
+
+Pour les espèces de gibier pour lesquelles il n'est pas rendu obligatoire, en
+vertu de l'article 17 de la loi de finances rectificative pour 1978 (n° 78-1240
+du 29 décembre 1978), un plan de chasse peut être institué et mis en oeuvre dans
+les conditions fixées par décret en Conseil d'Etat.

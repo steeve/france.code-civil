@@ -14,8 +14,8 @@ b) Les membres non salariés de leur famille travaillant sur l'exploitation ou
 dans l'entreprise ;
 
 2° Le deuxième collège comprend les travailleurs salariés de l'agriculture, de
-l'artisanat rural et des professions connexes, énumérés aux 1° à 7°, 9° et 10°
-de l'article 1144 ;
+l'artisanat rural et des professions connexes, énumérés aux 1° à 7°, 9° à 11° de
+l'article 1144 ;
 
 3° Le troisième collège comprend :
 

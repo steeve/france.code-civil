@@ -1,8 +1,8 @@
 Article L411-37
 ----
 A la condition d'en aviser au préalable le bailleur par lettre recommandée avec
-demande d'avis de réception, le preneur appartenant à une société à objet
-exclusivement agricole peut mettre à la disposition de celle-ci, pour une durée
+demande d'avis de réception, le preneur associé d'une société à objet
+principalement agricole peut mettre à la disposition de celle-ci, pour une durée
 qui ne peut excéder celle pendant laquelle il reste titulaire du bail, tout ou
 partie des biens dont il est locataire, sans que cette opération puisse donner
 lieu à l'attribution de parts. Cette société doit être constituée entre

@@ -17,6 +17,20 @@ roulement et par quinzaine ;
 c) Par roulement à condition que le jour de repos tombe le dimanche au moins
 deux fois par mois.
 
+Une convention ou un accord collectif étendus peuvent prévoir la possibilité de
+donner le repos hebdomadaire suivant l'une des modalités prévues aux troisième
+(a) et quatrième (b) alinéas ci-dessus dans les exploitations de polyculture
+associées à des activités d'élevage exercées à titre principal qui n'emploient
+qu'un salarié polyvalent.
+
+En outre, le repos hebdomadaire peut être donné par roulement lorsque le travail
+est organisé de façon continue :
+
+a) Pour des raisons techniques,
+
+b) Pour des raisons économiques à condition qu'une convention ou un accord
+collectif étendu ait prévu une telle organisation.
+
 Une convention collective ou un accord collectif étendus peuvent prévoir que les
 entreprises agricoles ayant une activité à caractère industriel et qui
 fonctionnent à l'aide d'un personnel d'exécution et d'encadrement composé de
@@ -34,19 +48,13 @@ celle qui serait due pour une durée équivalente effectuée suivant l'horaire
 normal de l'entreprise.
 
 A défaut de convention collective ou d'accord collectif étendus, un décret en
-conseil d'état peut prévoir les conditions dans lesquelles la dérogation prévue
-au troisième alinéa peut-être accordée.
+Conseil d'Etat peut prévoir les conditions dans lesquelles la dérogation prévue
+au dixième alinéa peut être accordée.
 
 En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution
 ne peut être différée, le repos hebdomadaire peut être suspendu pour une durée
 limitée ; les intéressés bénéficieront, au moment choisi d'un commun accord
 entre l'employeur et le salarié, d'un repos d'une durée égale au repos supprimé.
-
-Les repos auxquels ont droit, au cours d'une période déterminée, les
-spécialistes occupés à des opérations continues peuvent être en partie différés
-sous réserve que le nombre de repos de vingt-quatre heures consécutives soit
-toujours au moins égal à celui des semaines comprises dans ladite période et que
-chaque salarié ait le plus possible de repos le dimanche.
 
 Les dérogations aux dispositions du premier alinéa ci-dessus ne sont pas
 applicables aux enfants, non libérés de l'obligation scolaire, qui exécutent des
@@ -54,4 +62,10 @@ travaux légers pendant les vacances scolaires.
 
 Un décret en Conseil d'Etat, pris après avis de la section agricole spécialisée
 de la commission supérieure des conventions collectives, fixe l'ensemble des
-mesures nécessaires à l'application du présent article.
+mesures nécessaires à l'application du présent article. Il détermine en
+particulier les cas dans lesquels l'employeur est admis de plein droit à donner
+le repos hebdomadaire suivant l'une des modalités définies aux deuxième,
+troisième, quatrième et cinquième alinéas. Dans les autres cas, l'employeur qui
+désirera faire usage de l'une de ces dérogations devra en faire la demande au
+chef du service départemental de l'inspection du travail, de l'emploi et de la
+politique sociale agricoles.

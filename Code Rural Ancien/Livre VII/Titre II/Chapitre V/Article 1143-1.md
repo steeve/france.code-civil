@@ -2,8 +2,8 @@ Article 1143-1
 ----
 I. - Les caisses de mutualité sociale agricole et les organismes visés à
 l'article 1106-9 du présent code ont la faculté de prélever, sur le montant des
-prestations dues à leurs adhérents, les cotisations dont ceux-ci sont redevables
-à leur égard.
+prestations dues à leurs adhérents, à l'exception des prestations familiales,
+les cotisations dont ceux-ci sont redevables à leur égard.
 
 Les caisses de mutualité sociale agricole peuvent également régler à celles
 d'entre elles qui leur en ont fait la demande, pour le compte de leurs adhérents

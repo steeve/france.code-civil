@@ -24,7 +24,8 @@ En cas de préemption, celui qui l'exerce bénéficie alors d'un délai de deux 
 à compter de la date d'envoi de sa réponse au propriétaire vendeur pour réaliser
 l'acte de vente authentique ; passé ce délai, sa déclaration de préemption sera
 nulle de plein droit, quinze jours après une mise en demeure à lui faite par
-acte d'huissier de justice et restée sans effet.
+acte d'huissier de justice et restée sans effet. L'action en nullité appartient
+au propriétaire vendeur et à l'acquéreur évincé lors de la préemption.
 
 Le tiers acquéreur peut, pendant le délai d'exercice du droit de préemption par
 le preneur, joindre à la notification prévue à l'alinéa 1er ci-dessus une

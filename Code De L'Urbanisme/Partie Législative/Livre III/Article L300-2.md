@@ -1,9 +1,9 @@
 Article L300-2
 ----
-Le conseil municipal délibère sur les objectifs poursuivis et sur les modalités
-d'une concertation associant, pendant toute la durée de l'élaboration du projet,
-les habitants, les associations locales et les autres personnes concernées avant
-:
+I - Le conseil municipal délibère sur les objectifs poursuivis et sur les
+modalités d'une concertation associant, pendant toute la durée de l'élaboration
+du projet, les habitants, les associations locales et les autres personnes
+concernées dont les représentants de la profession agricole, avant :
 
 a) Toute modification ou révision du plan d'occupation des sols qui ouvre à
 l'urbanisation tout ou partie d'une zone d'urbanisation future ;

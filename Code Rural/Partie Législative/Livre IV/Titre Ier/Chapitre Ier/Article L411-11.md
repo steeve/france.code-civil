@@ -1,23 +1,30 @@
 Article L411-11
 ----
-Le prix de chaque fermage évalué en une quantité déterminée de denrées est
-établi en fonction, notamment, de la durée du bail, compte tenu d'une clause de
-reprise éventuelle en cours de bail, de l'état et de l'importance des bâtiments
-d'habitation et d'exploitation, de la qualité des sols ainsi que de la structure
-parcellaire du bien loué.
+Le prix de chaque fermage est établi en fonction, notamment, de la durée du
+bail, compte tenu d'une clause de reprise éventuellement en cours de bail, de
+l'état et de l'importance des bâtiments d'habitation et d'exploitation, de la
+qualité des sols ainsi que de la structure parcellaire du bien loué. Ce prix est
+constitué, d'une part, du loyer des bâtiments d'habitation et, d'autre part, du
+loyer des bâtiments d'exploitation et des terres nues.
 
-Cette quantité doit être comprise entre des maxima et des minima arrêtés par
-l'autorité administrative sur proposition de commissions consultatives
-paritaires départementales et, le cas échéant, régionales et nationale, dans des
-conditions fixées par le décret en Conseil d'Etat prévu à l'article L. 411-16.
-En cas de carence desdites commissions, l'autorité compétente fixe elle-même,
-dans un délai d'un mois, les quantités de denrées prévues au présent alinéa.
+Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des
+minima qui sont arrêtés par l'autorité administrative. Ce loyer ainsi que les
+maxima et les minima sont actualisés, chaque année, selon la variation de
+l'indice national mesurant le coût de la construction publié par l'Institut
+national de la statistique et des études économiques.
 
-Les quantités de denrées font l'objet d'un nouvel examen dans une période
-n'excédant pas neuf ans ; elles peuvent être éventuellement modifiées, selon la
-procédure fixée à l'alinéa précédent. En cas de modification, et sous réserve
-des dispositions figurant au premier alinéa de l'article L. 411-13, le prix du
-bail en cours ne peut être révisé, à l'initiative de l'une des parties, que lors
-du renouvellement, sauf s'il s'agit d'un bail à long terme, auquel cas la
-révision peut intervenir à chaque nouvelle période de neuf ans. A défaut
-d'accord, le tribunal fixe le nouveau prix du bail.
+Le loyer des bâtiments d'exploitation et des terres nues est évalué en une
+quantité déterminée de denrées comprise entre des maxima et des minima arrêtés
+par l'autorité administrative.
+
+L'autorité administrative détermine les maxima et les minima prévus aux deux
+alinéas ci-dessus sur proposition de commissions consultatives paritaires
+départementales et, le cas échéant, régionales et nationale. En cas de carence
+de ces commissions, l'autorité compétente procède elle-même à cette fixation.
+
+Ces maxima et ces minima font l'objet d'un nouvel examen au plus tard tous les
+neuf ans. S'ils sont modifiés, le prix des baux en cours ne peut, sous réserve
+des dispositions figurant au premier alinéa de l'article L. 411-13, être révisé
+que lors du renouvellement ou, s'il s'agit d'un bail à long terme, en début de
+chaque nouvelle période de neuf ans. A défaut d'accord amiable, le tribunal
+paritaire des baux ruraux fixe le nouveau prix du bail.

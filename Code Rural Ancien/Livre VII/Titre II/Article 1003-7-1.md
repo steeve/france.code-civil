@@ -21,8 +21,18 @@ spécifique en faveur des personnes qui exercent des professions connexes à
 l'agriculture en double activité ou non dans les communes situées en zone de
 montagne.
 
-L'intéressé doit justifier au moment de l'affiliation que son exploitation
-répond aux conditions prévues par les articles 188-1 à 188-6 du présent code.
+En cas de coexploitation ou d'exploitation sous forme sociétaire, l'importance
+de l'exploitation ou de l'entreprise doit être au moins égale ou équivalente à
+la moitié de la surface minimum d'installation multipliée par le nombre de
+membres ou d'associés participant aux travaux que comprend la coexploitation ou
+la société. Toutefois, cette superficie est réduite de 20 p. 100 de la surface
+minimum d'installation lorsque des époux dirigent, seuls ou avec d'autres
+personnes, l'exploitation ou l'entreprise. Si plusieurs couples dirigent
+ensemble l'exploitation ou l'entreprise, cette réduction est appliquée à chacun
+de ceux-ci. Ces dispositions ne sont pas applicables aux personnes déjà
+affiliées à la date de publication de la loi n° 88-1202 du 30 décembre 1988
+relative à l'adaptation de l'exploitation agricole à son environnement
+économique et social.
 
 II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une
 exploitation ou entreprise agricoles ne répondant pas à la condition
@@ -61,9 +71,8 @@ au livre IX du code de la sécurité sociale, lorsqu'ils ont cessé toute activi
 professionnelle ou exploitent moins de trois hectares, sous réserve des
 coefficients d'équivalence prévus à l'article 188-4 du présent code.
 
-VI. - Des cotisations de solidarité peuvent être exigées des personnes non
-affiliées au régime des non salariés agricoles et dirigeant une exploitation ou
-une entreprise agricoles dont l'importance est inférieure à celle définie au I
-ci-dessus et supérieure à un minimum fixé par décret. Les bases de calcul de ces
-cotisations sont déterminées par décret en fonction de l'importance de
-l'exploitation ou de l'entreprise.
+VI. - Des cotisations de solidarité peuvent être exigées des personnes dirigeant
+une exploitation ou une entreprise agricoles dont l'importance est inférieure à
+celle définie au I ci-dessus et supérieure à un minimum fixé par décret. Les
+bases de calcul de ces cotisations sont déterminées par décret en fonction de
+l'importance de l'exploitation ou de l'entreprise.

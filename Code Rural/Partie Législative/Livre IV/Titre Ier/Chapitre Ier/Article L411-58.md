@@ -1,8 +1,8 @@
 Article L411-58
 ----
 Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre
-le bien loué pour lui-même ou au profit d'un descendant majeur ou mineur
-émancipé de plein droit.
+le bien loué pour lui-même ou au profit du conjoint ou d'un descendant majeur ou
+mineur émancipé de plein droit.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de
 copreneurs l'un d'entre eux, se trouve à moins de cinq ans de l'âge auquel peut
@@ -43,6 +43,6 @@ service national, la date d'effet du congé est reportée à la fin de l'année
 culturale du retour de l'intéressé à la vie civile.
 
 Lorsque le bien loué a été aliéné moyennant le versement d'une rente viagère
-servie pour la totalité ou pour l'essentiel sous forme de prestations de
-services personnels, le droit de reprise ne peut être exercé sur le bien dans
-les neuf premières années suivant la date d'acquisition.
+servie pour totalité ou pour l'essentiel sous forme de prestations de services
+personnels, le droit de reprise ne peut être exercé sur le bien dans les neuf
+premières années suivant la date d'acquisition.

@@ -13,18 +13,14 @@ retraite est calculé proportionnellement à cette durée ;
 2° Une retraite proportionnelle dont le montant est calculé en fonction des
 cotisations versées en application du 1°, b de l'article 1123 ainsi que de la
 durée d'assurance et qui est revalorisée chaque année suivant les coefficients
-fixés en application de l'article L. 344 du code de la sécurité sociale.
-Toutefois, en cas de coexploitation, le montant total des pensions de retraite
-proportionnelle servies à l'ensemble de ces exploitants ne peut excéder celui de
-la pension qui serait servie à un agriculteur dirigeant seul la même
-exploitation. Un décret en Conseil d'Etat détermine les dispositions
-particulières applicables aux associés actifs constituant une exploitation
-agricole à responsabilité limitée ;
-
-3° Une retraite complémentaire facultative analogue à la retraite complémentaire
-facultative des travailleurs non salariés des professions industrielles et
-commerciales dont le régime sera fixé par décret au terme de l'harmonisation
-prévue au I de l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+fixés en application de l'article L. 344 du code de la sécurité sociale. Le
+montant total des pensions de retraite proportionnelle servies à des
+coexploitants ne peut excéder celui de la pension qui serait servie à un
+agriculteur dirigeant seul la même exploitation. Toutefois, lorsqu'il existe une
+coexploitation entre époux ou une exploitation agricole à responsabilité
+limitée, le montant des pensions de retraite proportionnelle servies aux époux
+coexploitants ou aux associés exploitants peut être majoré dans des conditions
+fixées par décret.
 
 Pour les assurés qui demandent la liquidation de leurs droits à retraite avant
 l'âge de soixante-cinq ans et qui ne justifient pas, tant dans le régime

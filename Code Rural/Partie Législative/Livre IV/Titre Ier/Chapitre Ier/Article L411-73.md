@@ -41,13 +41,18 @@ si le tribunal n'a pas admis la recevabilité ou le bien-fondé des motifs de
 l'opposition dont il a été saisi, ou si le bailleur n'a pas entrepris, dans le
 délai d'un an, les travaux qu'il s'est engagé à exécuter.
 
-2. Pour les plantations, les constructions de maisons d'habitation ou de
-bâtiments destinés à une production hors sol, le preneur, afin d'obtenir
-l'autorisation du bailleur, lui notifie sa proposition. En cas de refus du
-bailleur ou à défaut de réponse dans les deux mois de la notification qui lui a
-été faite, les travaux peuvent être autorisés par le tribunal paritaire, à moins
-que le bailleur ne décide de les exécuter à ses frais dans un délai fixé en
-accord avec le preneur ou, à défaut, par le tribunal paritaire.
+2. Pour les plantations et les constructions de bâtiments destinés à une
+production hors sol, le preneur, afin d'obtenir l'autorisation du bailleur, lui
+notifie sa proposition. En cas de refus du bailleur ou à défaut de réponse dans
+les deux mois de la notification qui lui a été faite, les travaux peuvent être
+autorisés par le tribunal paritaire, à moins que le bailleur ne décide de les
+exécuter à ses frais dans un délai fixé en accord avec le preneur ou, à défaut,
+par le tribunal paritaire.
+
+Le preneur ne peut construire ou faire construire un bâtiment d'habitation sur
+un bien compris dans le bail que s'il a obtenu au préalable l'accord écrit du
+bailleur. Il exécute alors les travaux à ses frais et supporte les impôts et
+taxes afférents au bâtiment construit.
 
 3. Pour tous autres travaux d'amélioration, le preneur doit obtenir
 l'autorisation du bailleur. A cet effet, il lui notifie sa proposition ainsi

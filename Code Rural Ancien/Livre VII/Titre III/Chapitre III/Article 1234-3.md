@@ -19,12 +19,14 @@ habituelle ou l'établissement de soins le plus proche.
 B. - Le paiement de pensions d'invalidité dans le cas où l'assuré est reconnu
 totalement inapte à l'exercice de la profession agricole.
 
-L'assurance garantit également le paiement de pension d'invalidité aux chefs
-d'exploitation ou d'entreprise mentionnés à l'article 1106-1 (I-1°) qui
-présentent une invalidité réduisant au moins des deux tiers leur capacité de
-travail, à la condition qu'ils n'aient exercé cette profession au cours des cinq
-dernières années qu'avec le concours de leur conjoint et d'un seul salarié ou
-d'un seul aide familial.
+L'assurance garantit également le versement de pensions d'invalidité aux chefs
+d'exploitation ou d'entreprise mentionnés au deuxième alinéa (1°) du paragraphe
+I de l'article 1106-1 ainsi qu'aux époux coexploitants et aux associés
+exploitants d'une exploitation agricole à responsabilité limitée, constituée
+conformément à la loi n° 85-697 du 11 juillet 1985 relative à l'entreprise
+unipersonnelle à responsabilité et à l'exploitation agricole à responsabilité
+limitée, qui présentent une invalidité réduisant au moins des deux tiers leur
+capacité de travail.
 
 Lorsque la réduction de capacité de travail ou l'inaptitude totale à l'exercice
 de la profession agricole résulte pour partie d'un accident ou d'une maladie
