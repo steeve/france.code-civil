@@ -1,6 +1,6 @@
 Article R12
 ----
-Préalablement à l'examen intéressé, le médecin expert doit être mis en
+Préalablement à l'examen de l'intéressé, le médecin expert doit être mis en
 possession des pièces de l'instruction nécessaires à cet examen. Il établit un
 certificat qui est revêtu de sa signature.
 

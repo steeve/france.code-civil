@@ -1,15 +1,15 @@
 Article R25
 ----
-Les concessions visées à l'article R. 24 doivent, en ce qui concerne les
-victimes directes, être conformes, quant au diagnostic et au taux d'invalidité,
-aux propositions émises par la commission de réforme.
-
-En ce qui concerne les ayants cause dont le droit à pension est subordonné à des
-constatations médicales, ces concessions doivent être conformes, quant au
-diagnostic et au taux d'invalidité, à l'avis émis par le médecin chef du centre
+Les concessions primitives mentionnées à l'article R. 24 doivent être conformes,
+quant au diagnostic et au taux d'invalidité, à l'avis du médecin-chef du centre
 de réforme.
 
-Dans tous les cas où les fonctionnaires délégataires ne croiraient pas devoir
-adopter les propositions de la commission de réforme ou l'avis émis par le
-médecin chef du centre de réforme, ils transmettent le dossier, pour décision,
-au ministre des anciens combattants et victimes de guerre.
+Si l'intéressé a saisi la commission de réforme, ou si le directeur régional a
+saisi la commission consultative médicale, la concession primitive doit
+également être conforme, quant aux mêmes éléments, aux propositions émises par
+l'une ou l'autre commission.
+
+Dans le cas où le fonctionnaire délégataire ne croit pas devoir adopter l'avis
+du médecin-chef du centre de réforme, ou dans le cas où cet avis diffère des
+propositions d'une des deux commissions, le fonctionnaire délégataire transmet
+le dossier, pour décision, au ministre chargé des anciens combattants.

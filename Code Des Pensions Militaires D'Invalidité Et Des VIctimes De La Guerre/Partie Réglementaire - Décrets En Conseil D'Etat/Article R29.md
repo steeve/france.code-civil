@@ -1,8 +1,9 @@
 Article R29
 ----
 Pour l'application des articles L. 17, L. 36 et L. 37, il est procédé comme en
-matière de pension : il est fait une proposition sociale tant sur le certificat
-d'expertise que sur le procès-verbal de la commission de refonte.
+matière de pension : il est fait une proposition spéciale tant sur le certificat
+d'expertise que, le cas échéant, sur le procès-verbal de la commission de
+réforme.
 
 Le droit à l'allocation spéciale aux blessés crâniens fait, en outre, l'objet
 d'une proposition d'un médecin spécialiste des maladies nerveuses et mentales

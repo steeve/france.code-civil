@@ -1,13 +1,21 @@
 Article R15
 ----
-La commission ne délibère valablement que si tous ses membres sont présents
-[*quorum*].
+Lorsque l'instruction médicale est achevée, le médecin-chef du centre de réforme
+adresse le dossier, accompagné de son avis sur le droit à pension d'invalidité
+du demandeur, au directeur régional des services déconcentrés du ministère des
+anciens combattants et victimes de guerre dont il dépend.
 
-La commission entend les observations que peut avoir à présenter l'intéressé ou
-son médecin traitant. Elle ordonne, si besoin est, tout supplément d'instruction
-ou toute nouvelle visite, conformément aux dispositions de l'article R. 11 ;
-elle formule des propositions sur l'imputabilité au service, le degré
-d'invalidité et le caractère permanent ou non des affections et, le cas échéant,
-sur l'admission au bénéfice des avantages accessoires à la pension.
+Le directeur régional soumet le dossier pour avis à la commission consultative
+médicale dans le cas où cet avis est obligatoire ou lorsqu'il l'estime lui-même
+utile. Il procède ensuite au constat provisoire des droits à pension et en
+notifie le résultat à l'intéressé.
 
-En cas de partage égal des voix, celle du président est prépondérante.
+Dans le délai d'un mois suivant cette notification, l'intéressé peut demander
+que son dossier soit examiné par la commission de réforme mentionnée à l'article
+L. 6 ; il peut également demander à se présenter devant elle, accompagné, s'il
+le souhaite, de son médecin traitant.
+
+La notification du constat provisoire est effectuée par lettre recommandée avec
+demande d'avis de réception. Elle mentionne la faculté qu'a l'intéressé de
+saisir la commission de réforme et d'être entendu par elle, ainsi que les voies
+et délais de cette saisine.

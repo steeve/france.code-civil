@@ -20,9 +20,10 @@ des anciens combattants et victimes de guerre.
 
 Dans le cas où l'intéressé est considéré comme guéri au sens de l'article D. 9,
 les médecins phtisiologues déterminent le pourcentage correspondant à
-l'invalidité réelle due aux séquelles des infirmités de nature tuberculeuse ; la
-commission de réforme formule ses propositions et transmet le dossier au
-ministre des anciens combattants et victimes de guerre.
+l'invalidité réelle due aux séquelles des infirmités de nature tuberculeuse ; ce
+pourcentage est notifié à l'intéressé dans les conditions prévues à l'article R.
+15. Le dossier, accompagné le cas échéant de l'avis de la commission de réforme,
+est ensuite transmis au ministre chargé des anciens combattants.
 
 En ce qui concerne la procédure contentieuse ou les surexpertises jugées
 indispensables, il est procédé dans les conditions prévues à l'article D. 11.

@@ -1,14 +1,13 @@
 Article R17
 ----
-Le procès-verbal de la commission de réforme, accompagné de toutes les pièces du
-dossier, est ensuite transmis au ministère compétent qui, après avoir pris, sauf
-dans les cas prévus par arrêté conjoint des ministres intéressés, l'avis de la
-commission consultative médicale, procède à la liquidation de la pension.
+La commission de réforme ne délibère valablement que si tous ses membres sont
+présents.
 
-Lorsque le ministre des anciens combattants et victimes de la guerre a donné la
-délégation de pouvoir prévue à l'article L. 24, le procès-verbal est transmis au
-fonctionnaire délégataire compétent qui liquide et concède les pensions dans les
-conditions fixées aux articles R. 24, R. 25 et R. 26.
+Elle entend, le cas échéant, les observations que peut avoir à présenter
+l'intéressé ou son médecin traitant. Elle ordonne, si besoin est, toute nouvelle
+mesure d'instruction ou toute nouvelle visite. Elle formule des propositions sur
+l'imputabilité au service, le degré d'invalidité et le caractère permanent ou
+non des affections et, le cas échéant, sur l'admission au bénéfice des avantages
+accessoires à la pension.
 
-En cas de rejet, la décision établie dans les conditions prévues à l'article L.
-25 est notifiée par la voie administrative.
+En cas de partage de voix, celle du président est prépondérante.
