@@ -43,12 +43,6 @@ protoxyde d'azote, 45,73.
 Hydrocarbures non méthaniques, solvants et autres composés organiques volatils,
 38,11.
 
-Décollage d'aéronefs.
-
-Aérodromes du groupe 1, 22.
-
-Aérodromes du groupe 2, 8.
-
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des
 huiles usagées.
 
@@ -96,6 +90,13 @@ Délivrance d'autorisation :
 
 Exploitation au cours d'une année civile (tarif de base), 335,39.
 
+Imprimés (Dispositions déclarées non conformes à la Constitution par décision du
+Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) mis à disposition ou
+distribués gratuitement aux particuliers, sans demande préalable de leur part,
+dans les boîtes aux lettres, dans les parties communes des habitations
+collectives, dans les locaux commerciaux, dans les lieux publics ou sur la voie
+publique, unité kilogramme, 0,15.
+
 2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros
 par installation.
 
@@ -113,14 +114,7 @@ titre du titre Ier du livre V du même code.
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est
 exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 
-5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en
-application du 3 de l'article 266 septies sont répartis dans les deux groupes
-affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en
-fonction de la gêne sonore réelle subie par les riverains, telle qu'elle est
-constatée dans les plans de gêne sonore prévus à l'article L. 571-15 du code de
-l'environnement.
-
-6. La masse des aéronefs est prise en compte par son logarithme décimal.
+5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
 
 7. Les substances classées dangereuses qui entrent dans la composition des
 produits antiparasitaires à usage agricole et des produits assimilés mentionnés

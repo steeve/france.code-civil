@@ -12,9 +12,7 @@ d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique,
 d'hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 ;
 
-3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour
-lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au
-décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le
 marché intérieur en cas d'acquisition intracommunautaire ou la mise à la
@@ -52,4 +50,9 @@ l'article 266 sexies ;
 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b
-du 8 du I de l'article 266 sexies.
+du 8 du I de l'article 266 sexies ;
+
+9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes
+mentionnées au 9 du I de l'article 266 sexies.
