@@ -1,13 +1,13 @@
 Article 821
 ----
 Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 410 F [*montant*] :
+foncière de 430 F [*montant*] :
 
-1° Sous réserve des dispositions de l'article 238 septies, les actes constatant,
-avant le 1er janvier 1988, la constitution, l'augmentation du capital d'un
-groupement agricole d'exploitation en commun [*GAEC*] visé à l'article 1er de la
-loi n° 62-917 du 8 août 1962 (1) modifié ou la transformation en un tel
-groupement d'une société ayant pour objet l'exploitation agricole.
+1° les actes constatant, avant le 1er janvier 1988, la constitution,
+l'augmentation du capital d'un groupement agricole d'exploitation en commun
+[*GAEC*] visé à l'article 1er de la loi n° 62-917 du 8 août 1962 (1) modifié ou
+la transformation en un tel groupement d'une société ayant pour objet
+l'exploitation agricole.
 
 Le bénéfice des dispositions du présent paragraphe est, en ce qui concerne les
 transformations visées à l'alinéa précédent, subordonné aux conditions suivantes

@@ -44,6 +44,16 @@ meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés d
 cette même activité au cours des années suivantes jusqu'à la cinquième
 inclusivement.
 
+5° Des pertes résultant d'opérations mentionnées à l'article 150 ter, lorsque
+l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces
+pertes sont imputables exclusivement sur les profits de même nature réalisés au
+cours de la même année ou des cinq années suivantes ;
+
+6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à
+terme d'instruments financiers [*MATIF*] ; ces pertes sont imputables
+exclusivement sur les profits de même nature réalisés dans les mêmes conditions
+au cours de la même année ou des cinq années suivantes.
+
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
 imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est
@@ -116,14 +126,7 @@ l'article L. 321-9 du code de la mutualité ;
 
 7° a et b (Devenus sans objets) (2).
 
-c. Primes afférentes à des contrats d'assurances, conclus ou ayant fait l'objet
-d'un avenant d'augmentation entre le 1er janvier 1950 et le 1er janvier 1957 ou
-entre le 1er juillet 1957 et le 31 décembre 1958 qui garantissent en cas de
-décès le versement de capitaux au conjoint, aux ascendants ou descendants de
-l'assuré, à concurrence de 10 % du revenu net déclaré pour l'assiette de l'impôt
-sur le revenu, avant déduction desdites primes, sans pouvoir excéder pour une
-année, la somme de 400 F, augmentée de 100 F par enfant à la charge du
-contribuable ;
+c. (Abrogé) ;
 
 d. (Devenu sans objet) (2).
 
@@ -142,6 +145,21 @@ proportion elles sont admises en déduction;
 des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire
 des personnes non salariées contre les accidents de la vie privée, les accidents
 du travail et les maladies professionnelles dans l'agriculture.
+
+12° A compter du 1er janvier 1987, les sommes versées pour l'emploi d'une aide à
+domicile par les contribuables qui :
+
+a) Sont âgés de plus de soixante-dix ans et vivent seuls ou, s'il s'agit de
+couples, vivent sous leur propre toit ;
+
+b) Ou sont titulaires de la carte d'invalidité prévue à l'article 173 du code de
+la famille et de l'aide sociale ;
+
+c) Ou ont à charge un enfant ouvrant droit au complément de l'allocation
+d'éducation spéciale mentionné à l'article L. 541-1 du code de la sécurité
+sociale,
+
+sont retenues dans la limite de 10.000 F.
 
 (1) Voir toutefois le paragraphe I bis ci-dessous.
 
