@@ -1,78 +1,130 @@
 Article Annexe 5
 ----
-III - Caisses mutuelles régionales des professions libérales
+III. - Caisses mutuelles régionales des professions libérales
 
-Nombre de sièges de représentant des personnes affiliées au titre de l'exercice
-d'une profession juridique ou judiciaire attribué à chaque région ou groupe de
-régions :
+I. Caisse mutuelle parisienne des professions libérales.
 
-a) Caisse mutuelle parisienne des professions libérales :
+a) Nombre de sièges de représentant des personnes affiliées au titre de
+l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou
+groupe de régions :
 
-- Région parisienne : 5 sièges
+Région Ile-de-France : 6 sièges
 
-b) Caisse mutuelle provinciale des professions libérales :
+b) Nombre de sièges de représentant des personnes affiliées au titre de
+l'exercice des autres professions libérales attribué à chaque région ou groupe
+de régions :
 
-- CAR Nord - CAR Picardie - CAR Champagne - CAR Lorraine - CAR Alsace : 1 siège
+Région Ile-de-France : 19 sièges
 
-- CAR Bourgogne - CAR Franche-Comté - CAR Rhône-Alpes :
+II. Caisse mutuelle provinciale des professions libérales.
 
-1 siège
+a) Nombre de sièges de représentant des personnes affiliées au titre de
+l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou
+groupe de régions :
 
-- CAR Provence - Côte d'Azur - Corse - CAR Languedoc :
 
-2 sièges
+Région Nord - Pas-de-Calais
 
-- CAR Aquitaine - CAR Midi-Pyrénées : 1 siège
+Région Picardie
 
-- CAR Auvergne - CAR Limousin - CAR Poitou-Charentes - CAR centre : 1 siège
 
-- CAR Bretagne - CAR Pays de la Loire - CAR Haute-Normandie - CAR
-Basse-Normandie : 1 siège
+Région Champagne-Ardenne
+
+Région Lorraine
+
+
+Région Alsace
+
+Nombre de sièges : 1
+
+
+Région Bourgogne
+
+Région Franche-Comté
+
+
+Région Rhône-Alpes
+
+Nombre de sièges : 1
+
+Région Provence Alpes-Côte d'Azur
+
+
+Région Corse
+
+Région Languedoc-Roussillon
+
+Nombre de sièges : 2
+
+
+Région Aquitaine
+
+Région Midi-Pyrénées
+
+Nombre de sièges : 1
+
+
+Région Auvergne
+
+Région Limousin
+
+
+Région Poitou-Charentes
+
+Région Centre
+
+Nombre de sièges : 1
+
+
+Région Bretagne
+
+Région Pays de la Loire
+
+
+Région Haute-Normandie
+
+Région Basse-Normandie
+
+Nombre de sièges : 1
 
 TOTAL : 7 sièges
 
-Nombre de sièges de représentant des personnes affiliées au titre de l'exercice
-des professions libérales autres que les professions juridiques ou judiciaires
-attribué à chaque région ou groupe de régions :
+b) Nombre de sièges de représentant des personnes affiliées au titre de
+l'exercice des autres professions libérales attribué à chaque région ou groupe
+de régions :
 
-a) Caisse mutuelle parisienne des professions libérales :
+Région Nord - Pas-de-Calais : 1 siège
 
-- Région parisienne : 14 sièges
+Région Picardie : 1 siège
 
-b) Caisse mutuelle provinciale des professions libérales :
+Région Champagne-Ardenne : 1 siège
 
-- CAR Nord : 1 siège
+Région Lorraine : 1 siège
 
-- CAR Picardie : 1 siège
+Région Alsace : 1 siège
 
-- CAR Champagne : 1 siège
+Région Bourgogne, Région Franche-Comté : 2 sièges
 
-- CAR Lorraine : 1 siège
+Région Rhône-Alpes : 3 sièges
 
-- CAR Alsace : 1 siège
+Région Provence-Alpes-Côte d'Azur, Région Corse : 3 sièges
 
-- CAR Bourgone - CAR Franche-Comté : 1 siège
+Région Languedoc-Roussillon : 1 siège
 
-- CAR Rhône-Alpes : 2 sièges
+Région Aquitaine : 2 sièges
 
-- CAR Provence - Côte d'Azur - Corse : 2 sièges
+Région Midi-Pyrénées : 2 sièges
 
-- CAR Languedoc : 1 siège
+Région Auvergne, Région Limousin : 1 siège
 
-- CAR Aquitaine : 1 siège
+Région Poitou-Charentes : 1 siège
 
-- CAR Midi-Pyrénées : 1 siège
+Région Centre : 1 siège
 
-- CAR Auvergne - CAR Limousin : 1 siège
+Région Pays de la Loire : 2 sièges
 
-- CAR Poitou-Charentes : 1 siège
+Région Bretagne : 1 siège
 
-- CAR Centre : 1 siège
+Région Haute-Normandie, Région Basse-Normandie : 2 sièges
 
-- CAR Bretagne : 1 siège
-
-- CAR Pays de la Loire : 1 siège
-
-- CAR Haute-Normandie - CAR Basse-Normandie : 1 siège
-
-TOTAL : 19 sièges
+TOTAL : 26 sièges
