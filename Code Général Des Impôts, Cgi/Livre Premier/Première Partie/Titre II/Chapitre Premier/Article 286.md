@@ -27,9 +27,10 @@ des opérations inscrites sur le livre est totalisé à la fin du mois.
 
 Le livre prescrit ci-dessus ou la comptabilité en tenant lieu, ainsi que les
 pièces justificatives des opérations effectuées par les redevables, notamment
-les factures d'achat, doivent être conservés pendant le délai fixé à l'article
-L82 du livre des procédures fiscales ; les pièces justificatives relatives à des
-opérations ouvrant droit à une déduction doivent être d'origine ;
+les factures d'achat, doivent être conservés selon les modalités prévues au I de
+l'article L102 B du livre des procédures fiscales ; les pièces justificatives
+relatives à des opérations ouvrant droit à une déduction doivent être d'origine
+;
 
 4° Fournir aux agents des impôts, ainsi qu'à ceux des autres services financiers
 désignés par décrets, pour chaque catégorie d'assujettis, tant au principal

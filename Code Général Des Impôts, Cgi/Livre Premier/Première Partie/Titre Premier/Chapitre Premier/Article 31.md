@@ -1,34 +1,39 @@
 Article 31
 ----
 I Les charges de la propriété déductibles pour la détermination du revenu net
-comprennent : [*définition*] 1° Pour les propriétés urbaines :
+comprennent :
+
+1° Pour les propriétés urbaines :
 
 a Les dépenses de réparation et d'entretien, les frais de gérance et de
 rémunération des gardes et concierges, effectivement supportés par le
-propriétaire;
+propriétaire ;
 
 b Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion
 des frais correspondant à des travaux de construction, de reconstruction ou
-d'agrandissement;
+d'agrandissement ;
+
+b bis Les dépenses d'amélioration afférentes aux locaux professionnels et
+commerciaux destinées à faciliter l'accueil des handicapés, à l'exclusion des
+frais correspondant à des travaux de construction, de reconstruction ou
+d'agrandissement ;
 
 c Les impositions, autres que celles incombant normalement à l'occupant,
 perçues, à raison desdites propriétés, au profit des collectivités locales, de
-certains établissements publics ou d'organismes divers;
+certains établissements publics ou d'organismes divers; d Les intérêts de dettes
+contractées pour la conservation, l'acquisition, la construction, la réparation
+ou l'amélioration des propriétés;
 
-d Les intérêts de dettes contractées pour la conservation, l'acquisition, la
-construction, la réparation ou l'amélioration des propriétés;
-
-e Une déduction forfaitaire fixée à 15 % [*pourcentage*] (1) des revenus bruts
-et représentant les frais de gestion, l'assurance et l'amortissement. Le taux de
-cette déduction [*forfaitaire pour certains logements neufs*] est porté à 35 p.
-100 pour les revenus des dix premières années de location des logements ouvrant
-droit à la réduction visée au II de l'article 199 nonies à la condition que ces
-logements soient loués à titre de résidence principale pendant les six années
-qui suivent celle de leur achèvement ou de leur acquisition si elle est
-postérieure. En cas de non-respect de l'engagement ou de cession du logement, le
-supplément de déduction pratiqué à ce titre durant les années non prescrites
-fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou
-de la cession.
+e Une déduction forfaitaire fixée à 10 % (1) des revenus bruts et représentant
+les frais de gestion, l'assurance et l'amortissement. Le taux de cette déduction
+[*forfaitaire pour certains logements neufs*] est porté à 25 p. 100 pour les
+revenus des dix premières années de location des logements ouvrant droit à la
+réduction visée au II de l'article 199 nonies à la condition que ces logements
+soient loués à titre de résidence principale pendant les six années qui suivent
+celle de leur achèvement ou de leur acquisition si elle est postérieure. En cas
+de non-respect de l'engagement ou de cession du logement, le supplément de
+déduction pratiqué à ce titre fait l'objet d'une reprise au titre de l'année de
+la rupture de l'engagement ou de la cession.
 
 Ce taux est accordé dans les mêmes conditions pour les revenus fonciers perçus
 par les contribuables qui, pour la gestion de leur patrimoine personnel,
@@ -38,8 +43,11 @@ régime applicable aux sociétés civiles autorisées à faire publiquement appe
 l'épargne ou aux augmentations de capital de telles sociétés constituées durant
 la même période, lorsque le produit de cette souscription est exclusivement
 destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs
-situés en France et affectés pour les trois quarts au moins de leur superficie
-[*proportion, fraction*] à usage d'habitation principale du locataire.
+situés en France et affectés pour les trois quarts au moins de leur superficie à
+usage d'habitation principale du locataire. Le taux de 35 p. 100 mentionné au
+deuxième alinéa est ramené à 25 p. 100 pour les investissements qui ouvrent
+droit à la réduction d'impôt dans les conditions mentionnées au I de l'article
+199 decies A.
 
 2° Pour les propriétés rurales :
 
@@ -67,3 +75,5 @@ mentionnés à l'article 743-2° ;
 e (Devenu sans objet).
 
 II (Transféré sous l'article 156-II-1° ter).
+
+(1) Pour les investissements réalisés à compter du 1er janvier 1990.

@@ -13,8 +13,9 @@ A l'appui du versement, il est fourni par le transporteur un état indiquant
 distinctement, pour chaque gare de départ, le nombre des timbres dus sur les
 bulletins de bagages. Cet état est certifié conforme aux écritures du
 transporteur ; il est totalisé et le montant des droits est provisoirement
-liquidé et payé en conséquence. Tous les documents de comptabilité et autres,
-nécessaires pour la vérification des états fournis à l'appui du versement des
-droits de timbre, doivent être conservés, pendant le délai prévu à l'article L.
-82 du livre des procédures fiscales, pour être communiqués aux agents des impôts
-compétents.
+liquidé et payé en conséquence.
+
+Tous les documents de comptabilité et autres, nécessaires pour la vérification
+des états fournis à l'appui du versement des droits de timbre, doivent être
+conservés, selon les modalités prévues au I de l'article L. 102 B du livre des
+procédures fiscales, pour être communiqués aux agents des impôts compétents.

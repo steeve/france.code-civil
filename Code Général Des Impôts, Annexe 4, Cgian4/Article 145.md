@@ -32,9 +32,9 @@ d'après ce relevé (1).
 
 Le livre prescrit par le présent article ainsi que la comptabilité et les pièces
 justificatives des opérations effectuées par les établissements soumis à l'impôt
-doivent être conservés par l'établissement pendant le délai prévu à l'article L.
-82 du livre des procédures fiscales [*obligation de conservation*] pour être
-représentés à tout vérificateur.
+doivent être conservés par l'établissement selon les modalités prévues au I de
+l'article L. 102 B du livre des procédures fiscales [*obligation de
+conservation*] pour être représentés à tout vérificateur.
 
 Lorsqu'un établissement par la nature de ses opérations n'est assujetti à
 l'impôt sur les spectacles qu'à certaines heures de la journée ou pour des

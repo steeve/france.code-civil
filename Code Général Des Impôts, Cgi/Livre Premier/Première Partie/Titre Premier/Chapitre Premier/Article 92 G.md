@@ -9,4 +9,4 @@ cotés.
 
 Cette disposition n'est pas applicable si, à la date de la cession ou du rachat,
 le fonds a cessé de remplir les conditions énumérées à l'article 163 quinquies
-B-II-1°.
+B-II-1°, 1° bis.

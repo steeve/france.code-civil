@@ -11,8 +11,8 @@ substances est déclarée quarante-huit heures au moins à l'avance [*délai*] L
 personnes désignées au premier alinéa sont tenues de présenter aux agents des
 impôts leur comptabilité et tous documents annexes et de leur fournir les
 justifications nécessaires à l'exercice de leur contrôle. Ces divers documents
-doivent être conservés pendant le délai prévu à l'article L. 82 du livre des
-procédures fiscales (1).
+doivent être conservés selon les modalités prévues au I de l'article L102 B du
+livre des procédures fiscales (1).
 
 (1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L.
 26 et L. 27.

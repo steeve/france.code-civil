@@ -7,5 +7,6 @@ le service des impôts attestant qu'il est autorisé à faire emploi de ces
 substances.
 
 Ces certificats sont conservés par le vendeur ou l'expéditeur desdites
-substances pendant le délai prévu à l'article L. 82 du livre des procédures
-fiscales et présentés à toute réquisition des fonctionnaires des impôts.
+substances selon les modalités prévues au I de l'article L.102 B du livre des
+procédures fiscales et présentés à toute réquisition des fonctionnaires des
+impôts.

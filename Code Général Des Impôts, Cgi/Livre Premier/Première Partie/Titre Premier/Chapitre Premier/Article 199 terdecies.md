@@ -7,10 +7,10 @@ capital initial ou aux augmentations de capital qui interviennent dans les trois
 années suivant la date de constitution de sociétés soumises à l'impôt sur les
 sociétés dans les conditions de droit commun qui sont :
 
-Créées entre le 1er janvier 1988 et le 31 décembre 1991 et qui remplissent les
+Créées entre le 1er janvier 1988 et le 31 décembre 1992 et qui remplissent les
 conditions mentionnées soit à l'article 44 sexies, soit à l'article 44 septies ;
 
-Ou créées avant le 31 décembre 1991 et dont la situation nette comptable est
+Ou créées avant le 31 décembre 1992 et dont la situation nette comptable est
 représentée à hauteur de 75 p. 100 au moins de titres souscrits en numéraire
 dans les trois ans de la constitution de sociétés mentionnées à l'alinéa
 précédent.
