@@ -31,3 +31,6 @@ condition qu'ils cessent toute activité professionnelle. Par dérogation aux
 dispositions de l'article R. 723-60, la pension d'invalidité attribuée en
 application du présent alinéa peut être cumulée sans limitation de montant avec
 la pension militaire d'invalidité.
+
+Le silence gardé pendant plus de quatre mois sur la demande de liquidation d'une
+pension d'invalidité vaut décision de rejet.

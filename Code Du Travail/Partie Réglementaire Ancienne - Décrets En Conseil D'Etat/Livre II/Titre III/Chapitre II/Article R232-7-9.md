@@ -17,3 +17,6 @@ que les règles à suivre pour effectuer les relevés photométriques sont fixé
 par arrêtés du ministre chargé du travail et du ministre de l'agriculture après
 avis du conseil supérieur de la prévention des risques professionnels et de la
 commission nationale d'hygiène et de sécurité du travail en agriculture.
+
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut
+décision de rejet.

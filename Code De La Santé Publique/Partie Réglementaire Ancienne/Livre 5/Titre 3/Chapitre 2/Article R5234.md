@@ -12,7 +12,9 @@ de la santé ou, pour les médicaments et les produits énumérés au premier al
 de l'article L. 601 par le directeur général de l'Agence française de sécurité
 sanitaire des produits de santé, après avis de la première section de la
 commission interministérielle des radio-éléments artificiels prévue à l'article
-L. 633 [*autorité compétente*].
+L. 633 [*autorité compétente*]. Le silence gardé par le ministre ou le directeur
+général pendant plus de quatre mois sur la demande d'autorisation vaut décision
+de rejet.
 
 Sont soumises à autorisation, laquelle est accordée ainsi qu'il est dit
 ci-dessus :

@@ -7,6 +7,9 @@ déterminé, pendant une période dont la durée initialement prévue n'excède 
 an, une activité présentant par sa nature ou les circonstances de son exercice
 un caractère temporaire.
 
+Le silence gardé pendant plus de quatre mois par le préfet sur une demande
+d'autorisation vaut décision de rejet.
+
 La durée [*maximum*] de validité de cette autorisation, dont les
 caractéristiques sont fixées par arrêté du ministre chargé des travailleurs
 immigrés, ne peut dépasser neuf mois. Elle est renouvelable.

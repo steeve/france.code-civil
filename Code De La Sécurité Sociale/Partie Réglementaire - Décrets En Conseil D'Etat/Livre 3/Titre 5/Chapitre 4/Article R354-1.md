@@ -29,3 +29,7 @@ prévus à l'article R. 351-22 doivent y être joints.
 
 Il est donné au requérant récépissé de sa demande et des pièces qui
 l'accompagnent.
+
+Le silence gardé pendant plus de quatre mois sur la demande de liquidation ou de
+révision d'une pension de réversion et de ses accessoires vaut décision de
+rejet.

@@ -36,3 +36,7 @@ entre l'ensemble des délégués et les organisations syndicales intéressées.
 Dans les deux cas, si l'accord est impossible [*recours*], l'inspecteur du
 travail décide de la répartition des sièges entre les représentants des salariés
 des entreprises intéressées.
+
+Le silence gardé pendant plus de quatre mois par le ministre compétent saisi
+d'un recours hiérarchique sur une décision prise en application de l'alinéa
+précédent vaut décision de rejet.

@@ -23,3 +23,7 @@ postérieurement au 18 juillet 1978 .
 
 Au décès de l'un des bénéficiaires, sa part accroîtra la part de l'autre ou,
 s'il y a lieu, des autres, à compter du premier jour du mois suivant le décès.
+
+Le silence gardé pendant plus de quatre mois sur la demande de liquidation ou de
+révision d'une pension de réversion et de ses accessoires présentée en
+application du présent article vaut décision de rejet.

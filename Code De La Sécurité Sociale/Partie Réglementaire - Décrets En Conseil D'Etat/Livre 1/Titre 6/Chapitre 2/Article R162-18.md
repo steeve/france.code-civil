@@ -9,3 +9,8 @@ part.
 
 Cette nomenclature peut également comporter des modalités de nature à faciliter
 le contrôle médical de certains actes.
+
+Lorsqu'un accord est exigé, en application du présent article, préalablement au
+remboursement d'un acte de biologie médicale par un organisme de sécurité
+sociale, le silence gardé pendant plus de quinze jours par cet organisme sur une
+demande de prise en charge vaut décision d'acceptation.

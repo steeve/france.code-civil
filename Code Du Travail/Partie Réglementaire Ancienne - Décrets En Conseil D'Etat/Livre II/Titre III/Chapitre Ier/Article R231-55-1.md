@@ -25,3 +25,6 @@ effectuées.
 
 Les organismes agréés sont tenus de fournir chaque année un bilan de leur
 activité.
+
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut
+décision de rejet.

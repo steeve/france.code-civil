@@ -2,7 +2,8 @@ Article R162-50-5
 ----
 Les projets d'actions expérimentales sont agréés par arrêté des ministres
 chargés de la santé et de la sécurité sociale après avis du comité de
-coordination visé à l'article R. 114-1.
+coordination visé à l'article R. 114-1. Le silence gardé pendant plus de six
+mois sur la demande d'agrément vaut décision de rejet.
 
 L'arrêté fixe la durée de l'agrément, qui ne peut excéder trois ans. Cette durée
 peut être prorogée, au vu de l'évaluation et après avis des organismes nationaux

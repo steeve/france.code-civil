@@ -21,6 +21,9 @@ L'agrément peut être retiré à tout moment, par arrêté des mêmes ministres
 lorsque la personne agréée ne satisfait plus aux obligations qui lui sont faites
 au titre de la présente section.
 
+Le silence gardé pendant plus de quatre mois sur une demande d'agrément ou de
+renouvellement d'agrément vaut décision de rejet.
+
 II. - Les organismes habilités à procéder à la vérification de la conformité des
 équipements de travail à la réglementation qui leur est applicable sont réputés
 agréés pour procéder, en application de l'article L. 236-9, aux expertises ayant

@@ -43,3 +43,8 @@ Dans le cas où cette pièce n'est pas parvenue au médecin conseil dans le dél
 d'un mois suivant la date à laquelle le médecin du travail a été saisi, il est
 procédé à l'examen de la demande compte tenu des autres éléments d'appréciation
 figurant au dossier.
+
+Le silence gardé pendant plus de quatre mois sur la demande de liquidation ou de
+révision d'une pension de retraite subordonnée à l'appréciation de l'état de
+santé de l'intéressé pour inaptitude au travail et de ses accessoires vaut
+décision de rejet.

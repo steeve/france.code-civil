@@ -4,7 +4,8 @@ Pour l'application des articles L. 233-5-2 et R. 233-80, un arrêté des ministr
 chargés du travail et de l'agriculture, pris après avis du Conseil supérieur de
 la prévention des risques professionnels et de la Commission nationale d'hygiène
 et de sécurité du travail en agriculture, fixe les conditions et modalités
-d'agrément des vérificateurs ou des organismes.
+d'agrément des vérificateurs ou des organismes. Le silence gardé pendant plus de
+quatre mois sur une demande d'agrément vaut décision de rejet.
 
 Le chef d'établissement ou le responsable de l'opération visée au II de
 l'article L. 233-5 choisit l'organisme agréé sur une liste dressée par arrêté

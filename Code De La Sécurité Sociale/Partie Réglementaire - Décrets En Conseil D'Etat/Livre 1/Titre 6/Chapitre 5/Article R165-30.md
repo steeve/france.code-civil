@@ -3,7 +3,7 @@ Article R165-30
 Lorsque la prescription n'émane pas d'un médecin chef d'un centre ou d'un
 service de réadaptation fonctionnelle ou d'un médecin spécialiste ou compétent
 dans les disciplines déterminées par arrêté du ministre chargé de la santé,
-l'intéressé est invité par le centre, dans les vingt et un jours qui suivent la
+l'intéressé est invité par le centre, dans les quinze jours qui suivent la
 réception de la prescription, à se présenter à une consultation médicale
 d'appareillage. L'intéressé peut également demander à se rendre à cette
 consultation.

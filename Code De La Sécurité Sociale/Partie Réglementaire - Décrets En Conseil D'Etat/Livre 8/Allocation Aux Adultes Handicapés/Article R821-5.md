@@ -14,9 +14,13 @@ l'intéressé, de l'organisme débiteur ou du commissaire de la République, le
 droit à l'allocation peut être révisé, en cas de modifications de l'incapacité
 du bénéficiaire.
 
+Le silence gardé pendant plus de six mois par la caisse mentionnée à l'article
+R. 821-6 sur une demande d'allocation aux adultes handicapés vaut décision de
+rejet.
+
 Au vu de la décision de la commission technique d'orientation et de reclassement
-professionnel, la caisse mentionnée à l'article R. 821-6 liquide la prestation
-et en informe le commissaire de la République du département.
+professionnel, la caisse liquide la prestation et en informe le commissaire de
+la République du département.
 
 En cas de changement d'organisme débiteur de l'allocation aux adultes
 handicapés, la décision de la commission territorialement compétente en premier

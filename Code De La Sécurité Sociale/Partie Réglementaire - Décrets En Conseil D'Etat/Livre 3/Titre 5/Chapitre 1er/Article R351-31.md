@@ -19,3 +19,6 @@ les articles R. 815-22, R. 815-25 à R. 815-28, R. 815-32, R. 815-33 et R.
 
 Lorsque le montant des avantages énumérés au 2° ci-dessus est inférieur à la
 majoration pour conjoint à charge, il est servi un complément différentiel.
+
+Le silence gardé pendant plus de quatre mois sur la demande de liquidation ou de
+révision de la majoration pour conjoint à charge vaut décision de rejet.

@@ -30,3 +30,6 @@ présentées par ces organismes, ceux-ci doivent s'engager à permettre aux
 personnes désignées par le ministre d'accéder à leurs locaux et de procéder à
 toutes les investigations permettant de vérifier qu'ils continuent de satisfaire
 aux conditions mentionnées aux alinéas précédents.
+
+Le silence gardé pendant plus de quatre mois sur une demande d'habilitation vaut
+décision de rejet.

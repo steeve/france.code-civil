@@ -5,6 +5,8 @@ dans les laboratoires d'analyses de biologie médicale des établissements publi
 de santé, des centres de lutte contre le cancer et les laboratoires d'analyses
 de biologie médicale visés à l'article L. 6211-2, et après autorisation accordée
 pour une durée de cinq ans renouvelables, par arrêté du préfet de région pris
-après avis de la commission définie à la section V du présent chapitre.
+après avis de la commission définie à la section V du présent chapitre. Le
+silence gardé pendant plus de quatre mois sur la demande d'autorisation vaut
+décision de rejet.
 
 L'autorisation précise le site d'exercice.
