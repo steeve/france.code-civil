@@ -1,31 +1,12 @@
 Article D241-13
 ----
-Le montant de l'allégement prévu à l'article L. 241-13-1, applicable aux
-cotisations à la charge de l'employeur au titre des assurances sociales, des
-accidents du travail et des maladies professionnelles et des allocations
-familiales est déterminé selon la formule suivante, par mois civil et pour
-chaque salarié rémunéré au cours du mois pour un nombre d'heures au moins égal à
-la durée collective du travail de l'entreprise ou de l'établissement :
-
-6 981,46 F
-
-montant de l'allégement = (42 102 F x - 20 290 F)/12
-
-rémunération mensuelle
-
-brute du salarié
-
-Pour le calcul de l'allégement :
-
-1. La rémunération considérée est constituée des gains et rémunérations, tels
-que définis à l'article L. 242-1, versés au salarié au cours du mois civil ;
-
-2. Lorsque le rapport entre 6 981,46 F et la rémunération mensuelle est
-supérieur à un, il est pris en compte pour une valeur égale à un ;
-
-3. Est prise en compte, pour l'application du premier alinéa du III de l'article
-L. 241-13-1 aux personnels auxquels sont applicables les dispositions de
-l'article D. 422-8 du code de l'aviation civile, la durée du temps de vol fixée
-par l'accord collectif dans la limite des durées mensuelle et annuelle prévues
-audit article, lorsque la durée du temps de travail de ces personnels est
-exprimée en temps de vol.
+L'employeur tient à la disposition de l'inspecteur de recouvrement mentionné à
+l'article R. 243-59 un document justificatif du montant des réductions qu'il a
+appliquées. Ce document, qui peut être établi sur un support dématérialisé, est
+rempli par établissement et par mois civil. Il indique le nombre de salariés
+ouvrant droit à la réduction et le montant total des réductions appliquées ainsi
+que, pour chacun de ces salariés, son identité, la rémunération brute mensuelle
+versée, le nombre d'heures rémunérées, le cas échéant reconstitué dans les cas
+visés au 4 de l'article D. 241-7 et à l'article D. 241-8, le coefficient issu de
+l'application de la formule de calcul prévue à l'article D. 241-7 et le montant
+de réduction appliqué.
