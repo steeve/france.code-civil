@@ -7,7 +7,7 @@ présenter à l'appui de leur demande une attestation [*formalité obligatoire*]
 délivrée par l'inspecteur départemental de la jeunesse et des sports justifiant
 qu'ils ont participé depuis trois ans au moins à l'encadrement d'activités
 d'animation organisées par des associations figurant sur la liste prévue par le
-décret n 62-263 du 18 mars 1963 et qu'ils sont désignés pour prendre part à un
+décret n° 63-263 du 18 mars 1963 et qu'ils sont désignés pour prendre part à un
 stage de formation supérieure d'animateurs.
 
 Les limites numériques prévues à l'article R. 225-4 ne sont pas applicables

@@ -14,9 +14,9 @@ De 100 à 200 salariés : trois bénéficiaires ;
 
 De 200 à 500 salariés : quatre bénéficiaires ;
 
-De 500 à 1.000 salariés : cinq bénéficiaires ;
+De 500 à 1 000 salariés : cinq bénéficiaires ;
 
-De 1.000 à 2.000 salariés : six bénéficiaires :
+De 1 000 à 2 000 salariés : six bénéficiaires ;
 
-Au-delà de 2.000 salariés : un bénéficiaire de plus par tranche supplémentaire
-de 1.000 salariés.
+Au-delà de 2 000 salariés : un bénéficiaire de plus par tranche supplémentaire
+de 1 000 salariés.
