@@ -1,7 +1,7 @@
 Article R334-4
 ----
 La marge de solvabilité applicable aux entreprises visées au 4° de l'article L.
-310-2, mentionnée à l'article R. 334-1, est constituée par des actifs dont le
+310-2, mentionnée à l'article L. 334-1, est constituée par des actifs dont le
 montant, afférent aux opérations réalisées sur le territoire de la République
 française, est égal, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des
