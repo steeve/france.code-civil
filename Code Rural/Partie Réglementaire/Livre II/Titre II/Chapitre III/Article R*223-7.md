@@ -1,12 +1,9 @@
 Article R*223-7
 ----
-Les centres d'examen sont fixés dans chaque département par le préfet. Dans
-chaque centre, le déroulement de l'examen est surveillé par des examinateurs
-désignés par le préfet.
-
-Les examinateurs procèdent à la notation des épreuves conformément au barème
-prévu à l'article R. 223-5 et proclament les résultats de l'examen immédiatement
-après.
-
-Les examinateurs délivrent aux candidats qui ont subi l'examen avec succès le
-certificat prévu à l'article R. 223-9.
+Les épreuves théoriques et pratiques de l'examen sont réalisées sous le contrôle
+d'agents de l'Office national de la chasse et de la faune sauvage disposant
+d'une formation spéciale pour le contrôle et la notation des épreuves pratiques.
+Ces agents procèdent à la notation des épreuves conformément au barème établi
+par la commission nationale et délivrent aux candidats ayant satisfait avec
+succès aux épreuves théoriques ou pratiques le certificat de réussite à
+celles-ci.

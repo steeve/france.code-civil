@@ -10,5 +10,5 @@ français sans domicile ni résidence fixes par le préfet du département où e
 située la commune à laquelle elles sont rattachées.
 
 La délivrance du permis de chasser est subordonnée à la présentation d'un
-certificat attestant que le demandeur a subi avec succès l'examen prévu à
-l'article L. 223-3.
+certificat attestant que le demandeur a subi avec succès les épreuves pratiques
+de l'examen prévu à l'article L. 423-5 du code de l'environnement.

@@ -1,19 +1,27 @@
 Article R*223-4
 ----
-L'examen porte sur les matières ci-après :
+Les épreuves théoriques de l'examen portent sur les matières ci-après :
 
-1° Connaissance et sauvegarde de la faune sauvage, notamment des espèces dont la
-chasse est autorisée ;
+1° Connaissance de la faune sauvage, de ses habitats et des modalités de leur
+gestion ;
 
 2° Connaissance de la chasse ;
 
-3° Connaissance et emplois des armes et munitions, et des règles de sécurité ;
+3° Connaissance des armes et des munitions, de leur emploi et des règles de
+sécurité ;
 
 4° Connaissance des lois et règlements relatifs aux matières qui précèdent.
 
-La session de formation pratique porte notamment sur la connaissance et le
-maniement des armes et des munitions ainsi que sur les règles de sécurité.
+Les épreuves pratiques de l'examen portent sur :
 
-Un arrêté du ministre chargé de la chasse précise le nombre, le programme et les
-modalités des épreuves de l'examen et le contenu et les modalités d'organisation
-de la session de formation pratique.
+1° Les conditions d'évolution sur un parcours de chasse simulé avec tir à blanc
+;
+
+2° Les conditions de maniement et de transport d'une arme de chasse ;
+
+3° Le tir dans le respect des règles de sécurité.
+
+Un arrêté du ministre chargé de la chasse précise le programme et les modalités
+des épreuves théoriques et pratiques de l'examen. Les modalités des épreuves
+pratiques peuvent être adaptées pour tenir compte des possibilités des candidats
+présentant un handicap compatible avec la pratique de la chasse.
