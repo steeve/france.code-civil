@@ -24,7 +24,14 @@ validée et modifiée, ou de produits assimilés ;
 octobre 1986 ;
 
 7° Substances chimiques exclusivement utilisées comme additifs ou comme arômes
-alimentaires.
+alimentaires ;
+
+8° Substances chimiques qui ne sont utilisées que comme substances actives
+biocides de produits biocides au sens de l'article L. 522-1 du code de
+l'environnement si elles ont été mises sur le marché après le 14 mai 2000 ou si,
+ayant été mises sur le marché avant le 14 mai 2000, elles ont fait l'objet d'une
+décision d'inscription sur les listes mentionnées à l'article L. 522-3 du code
+de l'environnement.
 
 II. - Les dispositions du II de l'article R. 231-52 ne s'appliquent pas aux
 substances et aux préparations suivantes :
