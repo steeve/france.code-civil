@@ -1,8 +1,8 @@
 Article 49 septies M
 ----
-Les entreprises qui désirent bénéficier du crédit d'impôt doivent exercer leur
-option au moment de la détermination du crédit d'impôt afférent à l'année 1983
-[*condition d'octroi*].
+Les entreprises doivent exercer l'option pour le crédit d'impôt au plus tard
+lors du dépôt de la déclaration de résultat du premier exercice de la période
+pour laquelle elles désirent bénéficier de ce crédit.
 
 Toutefois, les entreprises nouvelles devront opter au plus tard lors du calcul
 du crédit d'impôt afférent à l'année de création. &gt; L'option résulte du dépôt
