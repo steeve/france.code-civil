@@ -39,8 +39,13 @@ scellées de radioéléments d'activité minimale supérieure à 500 curies, et
 6. Cyclotron à utilisation médicale ;
 
 7. Appareils de diagnostic suivants, utilisant l'émission de radioéléments
-artificiels : caméra à scintillation, tomographe à émissions, caméra à positrons
-;
+artificiels :
+
+a) Caméra à scintillation non munie de détecteur d'émission de positons en
+coïncidence ;
+
+b) Caméra à scintillation munie de détecteur d'émission de positons en
+coïncidence, tomographe à émissions, caméra à positons ;
 
 8. Scanographe à utilisation médicale ;
 
@@ -73,8 +78,7 @@ ci-après :
 
 6. Réanimation ;
 
-7. Utilisation diagnostique et thérapeutique de radioéléments en sources non
-scellées ;
+7. Utilisation thérapeutique de radioéléments en sources non scellées ;
 
 8. Traitement des affections cancéreuses par rayonnements ionisants de haute
 énergie ;
