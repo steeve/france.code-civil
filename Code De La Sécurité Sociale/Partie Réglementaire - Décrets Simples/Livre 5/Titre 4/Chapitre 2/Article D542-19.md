@@ -32,7 +32,8 @@ l'allocation de logement entre les mains du bailleur ou du prêteur, dans les
 conditions prévues aux articles D. 542-22-1 à D. 542-22-3 et D. 542-29.
 
 III. - Lorsque l'allocation est versée entre les mains du prêteur ou du
-bailleur, en application du sixième alinéa de l'article L. 553-4, l'impayé est
+bailleur, en application des 1° et 2° du quatrième alinéa de l'article L. 553-4
+et des e et g du 1° du I de l'article 31 du code général des impôts l'impayé est
 constitué :
 
 1° En secteur locatif, soit lorsque trois termes consécutifs de loyers et

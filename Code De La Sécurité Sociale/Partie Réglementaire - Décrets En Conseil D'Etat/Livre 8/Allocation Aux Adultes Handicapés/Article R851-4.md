@@ -1,7 +1,7 @@
 Article R851-4
 ----
-L'association doit s'assurer que les étrangers hébergés au titre de l'aide
-prévue à l'article L. 851-1 sont en possession d'un titre de séjour en cours de
+L'organisme doit s'assurer que les étrangers hébergés au titre de l'aide prévue
+à l'article L. 851-1 sont en possession d'un titre de séjour en cours de
 validité d'une durée supérieure à trois mois ou d'un récépissé de demande de
 renouvellement de ce titre.
 

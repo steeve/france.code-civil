@@ -33,8 +33,9 @@ l'allocation de logement entre les mains du bailleur ou du prêteur, dans les
 conditions prévues aux articles R. 831-21-1 à R. 831-21-3 et R. 831-25.
 
 III. - Lorsque l'allocation est versée entre les mains du prêteur ou du
-bailleur, en application du premier alinéa de l'article L. 835-2, l'impayé est
-constitué :
+bailleur, en application des 1° et 2° du deuxième alinéa de l'article L. 835-2
+et des e et g du 1° du I de l'article 31 du code général des impôts, l'impayé
+est constitué :
 
 1° En secteur locatif, soit lorsque trois termes consécutifs de loyers et
 charges déduction faite de l'allocation de logement sont totalement impayés,

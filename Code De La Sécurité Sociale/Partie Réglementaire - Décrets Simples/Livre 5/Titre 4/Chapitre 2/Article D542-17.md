@@ -10,7 +10,14 @@ certifiée conforme de la quittance de loyer établie au même nom, qui comprend
 mensualité de janvier ; à défaut, une attestation du bailleur précisant le
 montant du loyer pour le mois de janvier ou, éventuellement, une quittance ou
 une attestation correspondant au mois pris en considération pour le calcul de
-l'allocation de logement ;
+l'allocation de logement ; Lorsque l'allocation de logement est versée en
+application des 1° et 2° du quatrième alinéa de l'article L. 553-4 et des e et g
+du 1° du I de l'article 31 du code général des impôts, le demandeur fournit,
+outre, le cas échéant, la copie certifiée conforme du contrat, une attestation
+du bailleur précisant le montant du loyer pour le mois de janvier ou,
+éventuellement, dans les cas prévus à l'article D. 542-20, une attestation dudit
+bailleur correspondant au mois pris en considération pour le calcul de
+l'allocation ;
 
 b) Lorsqu'un employé est logé par son employeur moyennant une retenue sur le
 salaire, la production du bulletin de salaire qui justifiera du paiement d'un
@@ -41,7 +48,14 @@ a) L'original, la copie certifiée conforme ou une photocopie de la quittance de
 loyer qui comprend la mensualité de janvier ou, éventuellement, celle qui
 correspond au mois pris en considération pour le calcul de l'allocation de
 logement, ou, selon les cas, les pièces prévues au 1° (b et c) du premier alinéa
-du présent article ;
+du présent article ; Lorsque l'allocation de logement est versée en application
+des 1° et 2° du quatrième alinéa de l'article L. 553-4 et des e et g du 1° du I
+de l'article 31 du code général des impôts, le bailleur transmet à la caisse
+avant le 15 mai précédant le début de la nouvelle période de versement, d'une
+part, l'une ou l'autre des attestations prévues au second alinéa du a du 1° du I
+ci-dessus, d'autre part, une attestation de ce bailleur indiquant que le
+bénéficiaire est à jour de ses obligations ou, dans le cas contraire, la date à
+laquelle la caisse a été saisie en application de l'article D. 542-22-4 ;
 
 b) Les justifications prévues aux 3° et 4° du premier alinéa du présent article.
 
