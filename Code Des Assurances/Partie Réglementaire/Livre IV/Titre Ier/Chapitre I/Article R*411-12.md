@@ -21,7 +21,7 @@ l'article L. 310-1 ;
 Six représentants des assurés.
 
 L'ordre du jour est communiqué au ministre chargé de l'économie et des finances
-et au directeur des assurances.
+et au directeur chargé des assurances.
 
 La commission consultative de l'assurance élabore un rapport annuel qui est
 transmis au Conseil national des assurances. Le ministre chargé de l'économie et

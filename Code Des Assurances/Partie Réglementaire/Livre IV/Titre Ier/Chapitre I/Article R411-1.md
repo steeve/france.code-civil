@@ -5,7 +5,7 @@ alinéas de l'article L. 411-1 sont désignés comme suit :
 
 1° Les cinq membres représentant l'Etat sont :
 
-Le directeur du Trésor ou son représentant ;
+Le chef du service de la législation fiscale ou son représentant ;
 
 Le directeur général de la concurrence, de la consommation et de la répression
 des fraudes ou son représentant ;
@@ -45,3 +45,5 @@ de l'assurance en activité.
 II. - Les membres du Conseil national des assurances mentionnés aux 3°, 4° et 5°
 du I ci-dessus sont nommés par arrêté du ministre chargé de l'économie et des
 finances.
+
+III. - En cas d'empêchement, le directeur chargé des assurances est représenté.
