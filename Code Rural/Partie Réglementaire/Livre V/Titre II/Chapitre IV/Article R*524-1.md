@@ -11,7 +11,8 @@ Ils doivent :
 1° Etre soit de nationalité française, soit ressortissant d'un Etat membre de la
 Communauté économique européenne, soit ressortissant d'un pays avec lequel
 existe un accord de réciprocité, soit bénéficiaire d'une dérogation accordée par
-le ministre de l'agriculture, sur avis de la commission centrale d'agrément ;
+l'autorité administrative compétente, en application de l'article R. 525-2, pour
+prononcer l'agrément et après avis des commissions mentionnées audit article ;
 
 2° Ne pas participer directement ou indirectement, d'une façon habituelle ou
 occasionnelle, à une activité concurrente de celle de la coopérative ;
