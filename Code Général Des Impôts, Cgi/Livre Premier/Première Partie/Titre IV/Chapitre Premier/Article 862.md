@@ -15,9 +15,9 @@ divorce rendus en application de l'article 232 du code civil.
 Les notaires peuvent, toutefois, faire des actes en vertu ou en conséquence
 d'actes dont le délai d'enregistrement ou d'exécution de la formalité fusionnée
 n'est pas encore expiré, mais sous la condition qu'ils soient personnellement
-responsables, non seulement des droits d'enregistrement, de la taxe de publicité
-foncière et des droits de timbre, mais encore des pénalités auxquelles cet acte
-peut se trouver assujetti.
+responsables, non seulement des droits d'enregistrement et de la taxe de
+publicité foncière, mais encore des pénalités auxquelles cet acte peut se
+trouver assujetti.
 
 Les dispositions du premier alinéa ne font pas obstacle à l'établissement des
 extraits, copies ou expéditions destinées à l'accomplissement de la formalité de

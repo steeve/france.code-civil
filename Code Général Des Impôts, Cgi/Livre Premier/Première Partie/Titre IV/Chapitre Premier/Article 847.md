@@ -1,6 +1,6 @@
 Article 847
 ----
-Sont soumis à une imposition fixe de 75 euros :
+Sont soumis à une imposition fixe de 125 € :
 
 1° Les contrats de mariage, lorsqu'ils ne peuvent donner lieu à la perception
 d'une imposition proportionnelle ou progressive d'un montant plus élevé ;

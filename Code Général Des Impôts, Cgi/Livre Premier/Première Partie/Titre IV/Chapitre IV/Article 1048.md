@@ -1,11 +1,7 @@
 Article 1048
 ----
-I. Le I reproduit les dispositions du premier alinéa de l'article L. 2234-24 du
-code de la défense :
-
-"Les actes, pièces et écrits de toute nature faits pour l'application des
-dispositions du présent chapitre et exclusivement relatifs aux règlements des
-diverses indemnités, sont dispensés du timbre. Ils sont enregistrés gratuitement
-lorsqu'il y a lieu à la formalité de l'enregistrement."
+I. Conformément au premier alinéa de l'article L. 2234-24 du code de la défense,
+les actes relatifs aux règlements des indemnités consécutives à des réquisitions
+sont exonérés de droits d'enregistrement.
 
 II. (Sans objet).

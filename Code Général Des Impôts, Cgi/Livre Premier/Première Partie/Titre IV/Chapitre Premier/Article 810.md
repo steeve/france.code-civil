@@ -52,7 +52,6 @@ III bis. (Disposition périmée).
 III ter. (Dispositions devenues sans objet).
 
 IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés au
-III pour les apports d'immeubles entrant dans le champ d'application de la taxe
-sur la valeur ajoutée.
+III pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée.
 
 V. (Abrogé).

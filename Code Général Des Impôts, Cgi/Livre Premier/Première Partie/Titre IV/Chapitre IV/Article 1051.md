@@ -1,6 +1,6 @@
 Article 1051
 ----
-Sont soumis à une imposition fixe de 75 euros :
+Sont soumis à une imposition fixe de 125 euros :
 
 1° Les transferts de biens de toute nature opérés entre organismes d'habitations
 à loyer modéré et sociétés anonymes de crédit immobilier ou leurs unions ;

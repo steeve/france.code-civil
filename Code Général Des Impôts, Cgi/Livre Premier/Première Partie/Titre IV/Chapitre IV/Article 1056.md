@@ -2,8 +2,8 @@ Article 1056
 ----
 I. 1° Les actes, jugements, pièces et écrits qui concernent l'application de la
 loi du 28 octobre 1946 sur les dommages de guerre sont, à la condition de s'y
-référer expressément, exonérés des droits de timbre et d'enregistrement ainsi
-que de la taxe de publicité foncière.
+référer expressément, exonérés des droits d'enregistrement ainsi que de la taxe
+de publicité foncière.
 
 Les dispositions du premier alinéa ne s'appliquent pas aux mutations de biens
 sinistrés et des droits à indemnité y afférents sauf si ces mutations résultent

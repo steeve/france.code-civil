@@ -1,7 +1,8 @@
 Article 828
 ----
 I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 230 euros :
+foncière de 375 euros porté à 500 euros pour les sociétés ayant un capital d'au
+moins 225 000 euros : (1)
 
 1° (Abrogé).
 
@@ -22,6 +23,6 @@ subordonné à la condition qu'elles justifient du règlement de la taxe due sur
 les opérations de construction ;
 
 3° Les actes de dissolution et de partage des sociétés civiles visées à
-l'article L322-12 du code de l'urbanisme (1).
+l'article L322-12 du code de l'urbanisme (2).
 
 II. (Abrogé).

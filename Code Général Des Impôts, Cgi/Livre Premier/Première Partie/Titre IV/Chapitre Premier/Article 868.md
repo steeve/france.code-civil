@@ -4,8 +4,8 @@ Indépendamment des obligations qui leur incombent en vertu de l'article 867, le
 huissiers et les greffiers tiennent, sur un registre, coté et paraphé dans les
 conditions prévues au second alinéa du III de l'article 867, des répertoires à
 colonnes sur lesquels ils inscrivent, jour par jour, sans blanc ni interligne et
-par ordre de numéros, tous les actes, jugements et arrêts qui sont dispensés des
-formalités du timbre et de l'enregistrement.
+par ordre de numéros, tous les actes, jugements et arrêts qui sont dispensés de
+la formalité de l'enregistrement.
 
 Chaque article du répertoire contient :
 

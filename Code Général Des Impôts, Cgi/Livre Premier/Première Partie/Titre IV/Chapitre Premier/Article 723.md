@@ -3,7 +3,7 @@ Article 723
 Les ventes de marchandises neuves corrélatives à la cession ou à l'apport en
 société d'un fonds de commerce sont exonérées de tout droit proportionnel
 d'enregistrement lorsqu'elles donnent lieu à la perception de la taxe sur la
-valeur ajoutée ou en sont dispensées en application de l'article 257 bis.
+valeur ajoutée.
 
 Dans le cas contraire, les marchandises neuves garnissant le fonds ne sont
 assujetties qu'à un droit de 1,50 % à condition qu'il soit stipulé, en ce qui

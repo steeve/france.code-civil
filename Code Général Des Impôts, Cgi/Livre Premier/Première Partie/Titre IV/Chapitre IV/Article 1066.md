@@ -4,8 +4,7 @@ I. Sous réserve des dispositions de l'article 1020 et conformément au deuxièm
 alinéa de l'article L. 132-11 du code de l'action sociale et des familles, les
 actes faits et les décisions rendues dans le cadre de l'attribution des
 prestations d'aide sociale mentionnées à l'article L. 111-1 du même code sont
-dispensés du droit de timbre et enregistrés gratis lorsqu'il y a lieu à la
-formalité de l'enregistrement.
+enregistrés gratis lorsqu'il y a lieu à la formalité de l'enregistrement.
 
 II. Les dispositions du I sont applicables aux acquisitions immobilières
 réalisées par les établissements ou organismes figurant sur une liste dressée
@@ -22,5 +21,3 @@ défaut, de verser au Trésor, à première réquisition, les droits dont
 l'acquisition aura été dispensée. Une prolongation annuelle renouvelable du
 délai de cinq ans peut être accordée par le directeur des services fiscaux du
 lieu de la situation des immeubles.
-
-(1) Annexe IV, art. 121 VA.

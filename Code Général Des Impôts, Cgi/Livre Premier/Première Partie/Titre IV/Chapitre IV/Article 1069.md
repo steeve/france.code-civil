@@ -2,7 +2,7 @@ Article 1069
 ----
 I Les pièces relatives à l'application de la loi n° 66-509 du 12 juillet 1966
 relative à l'assurance maladie et à l'assurance maternité des travailleurs non
-salariés des professions non agricoles, sont exonérées des droits de timbre et
+salariés des professions non agricoles, sont exonérées des droits
 d'enregistrement à la condition de s'y référer expressément. Cette exonération
 s'étend à la taxe spéciale sur les conventions d'assurance.
 

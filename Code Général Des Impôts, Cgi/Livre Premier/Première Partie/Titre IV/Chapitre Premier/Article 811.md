@@ -1,6 +1,7 @@
 Article 811
 ----
-Sont enregistrés au droit fixe de 230 euros :
+Sont enregistrés au droit fixe de 375 € porté à 500 € pour les sociétés ayant un
+capital d'au moins 225 000 € :
 
 1° Les actes constatant des prorogations pures et simples de sociétés ;
 

@@ -24,13 +24,12 @@ octies, par une personne physique à une société de l'ensemble des éléments
 d'actif immobilisé affectés à l'exercice d'une activité professionnelle, la
 prise en charge du passif, dont sont grevés les biens de la nature de ceux
 énumérés au 3° du I qui sont compris dans l'apport, donne ouverture à un droit
-de mutation au tarif prévu par le premier alinéa du III de l'article 810. Pour
-les apports réalisés à compter du 1er janvier 1992, le droit de mutation est
-remplacé par un droit fixe si l'apporteur s'engage à conserver pendant trois ans
-les titres remis en contrepartie de l'apport. Le droit fixe est de 230 euros
-pour les apports réalisés à compter du 1er janvier 2002. En cas de non-respect
-de l'engagement de conservation des titres, les dispositions prévues au III de
-l'article 810 sont applicables.
+de mutation au tarif prévu par le premier alinéa du III de l'article 810.
+Lorsque l'apporteur s'engage à conserver pendant trois ans les titres remis en
+contrepartie de l'apport, le droit de mutation est remplacé par un droit fixe de
+375 Euros porté à 500 Euros lorsque la société a un capital social d'au moins
+225 000 Euros. En cas de non respect de l'engagement de conservation des titres,
+les dispositions prévues au III de l'article 810 sont applicables.
 
 Si la société cesse de remplir les conditions qui lui ont permis de bénéficier
 de cet avantage, la différence entre, d'une part, le droit de mutation majoré

@@ -42,9 +42,8 @@ successions. Elle est subordonnée à la condition que cette déclaration soit
 accompagnée :
 
 1° Dans les cas visés au I-1° et 2°, d'un certificat de l'autorité militaire
-dispensé de timbre et constatant que la mort a été causée par une blessure reçue
-ou une maladie contractée pendant la guerre;
+constatant que la mort a été causée par une blessure reçue ou une maladie
+contractée pendant la guerre;
 
 2° Dans les cas visés aux 3°, 4°, 5° et 6° du I , d'un certificat de l'autorité
-militaire ou civile compétente, dispensé de timbre et établissant les
-circonstances du décès.
+militaire ou civile compétente établissant les circonstances du décès.

@@ -7,6 +7,6 @@ l'article 1069 et aux articles 1070, 1071, 1115, 1131, 1133 et 1133 ter sont
 assujetties à une taxe de publicité foncière ou à un droit d'enregistrement de
 0,60 % lorsqu'elles entrent dans les prévisions des 1° à 4° de l'article 677.
 Dans le cas contraire, et sauf exonération, ces dispositions sont soumises à une
-imposition fixe de 15 euros. Celle-ci s'applique, dans tous les cas, aux
+imposition fixe de 25 euros. Celle-ci s'applique, dans tous les cas, aux
 dispositions sujettes à publicité foncière des actes relatifs aux transmissions
 de biens visés à l'article 1039.

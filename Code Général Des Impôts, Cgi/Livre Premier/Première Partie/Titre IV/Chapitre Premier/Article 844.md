@@ -10,4 +10,4 @@ le bordereau. Il n'est perçu qu'une seule taxe pour chaque créance quel que so
 le nombre des créanciers requérants et celui des débiteurs grevés.
 
 Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une
-taxe fixe de 15 euros.
+taxe fixe de 25 euros.

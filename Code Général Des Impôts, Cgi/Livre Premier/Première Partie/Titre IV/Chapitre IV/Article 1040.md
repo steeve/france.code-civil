@@ -1,9 +1,8 @@
 Article 1040
 ----
 I. Les acquisitions et échanges faits par l'Etat, les partages de biens entre
-lui et les particuliers, et tous autres actes faits à ce sujet sont exonérés du
-droit de timbre de dimension, des droits d'enregistrement et de la taxe de
-publicité foncière.
+lui et les particuliers, et tous autres actes faits à ce sujet sont exonérés des
+droits d'enregistrement et de la taxe de publicité foncière.
 
 Cette disposition n'est pas applicable aux établissements publics de l'Etat,
 autres que les établissements publics scientifiques, d'enseignement,
