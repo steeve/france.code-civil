@@ -1,15 +1,23 @@
 Article L411-75
 ----
-Le preneur peut faire exécuter à ses frais ou exécuter lui-même dans les
-conditions définies aux trois dernières phrases du deuxième alinéa de l'article
-L. 411-73, ainsi qu'aux deux derniers alinéas dudit article, les travaux
-mentionnés aux articles L. 411-69 à L. 411-73 dont la période d'amortissement
-calculée dans les conditions fixées par l'article L. 411-71 ne dépasse pas de
-plus de six ans la durée du bail. Toutefois, lorsqu'il n'a pas reçu congé dans
-le délai prévu à l'article L. 411-47 ou à l'article L. 416-3, selon le cas, il
-est ajouté à la durée du bail en cours celle du nouveau bail y compris la
-prorogation de plein droit prévue à l'article L. 411-58 (deuxième alinéa).
+En cas de cession du bail en application de l'article L. 411-35 ou de l'article
+L. 411-38, les améliorations faites sur le fonds par le preneur sortant et qui
+lui ouvrent droit, au terme du bail, à l'indemnité prévue par l'article L.
+411-69 peuvent être cédées au preneur entrant.
 
-Les dispositions ci-dessus ne sont pas applicables aux travaux concernant les
-productions hors sol ainsi que les plantations qui, au préalable, doivent
-recevoir l'accord du propriétaire.
+Dans le cas de l'article L. 411-38, les améliorations ainsi transférées donnent
+lieu à l'attribution de parts au profit du cédant.
+
+Dans le cas de l'article L. 411-35 ou de l'article L. 411-38, le preneur entrant
+est subrogé dans les droits à l'indemnité que l'intéressé aurait pu exercer en
+fin de bail vis-à-vis du bailleur.
+
+Un associé qui, dans les conditions prévues par les articles L. 323-14 et L.
+411-37, met à la disposition d'une société des biens dont il est locataire peut
+céder à ladite société les améliorations qu'il justifie avoir faites sur le
+fonds et qui lui ouvrent droit, au terme du bail, à l'indemnité prévue par
+l'article L. 411-69.
+
+La société lui attribue des parts correspondant à ce transfert. Elle est
+subrogée dans les droits à l'indemnité que l'intéressé aurait pu exercer en fin
+de bail vis-à-vis du bailleur.
