@@ -1,7 +1,7 @@
 Article R49
 ----
 Chaque versement de sommes et valeurs à la recette des impôts est appuyé des
-relevés faisant ressortir distinctement suivant les cas :
+relevés faisant ressortir distinctement selon le cas :
 
 1° La désignation précise et détaillée des coupons, intérêts et dividendes
 compris dans le versement, l'indication de leur montant, la date de leur
@@ -27,7 +27,7 @@ lieu, ainsi que la date d'échéance de la prescription.
 
 Ces relevés doivent être certifiés véritables par les directeurs ou gérants des
 établissements ou collectivités, tant pour leur établissement principal que pour
-leurs agences ou succursales, par les préfets pour les départements, par les
+les agences ou succursales, par les préfets pour les départements, par les
 maires pour les communes, et par les administrateurs légaux pour les
 établissements publics et d'utilité publique.
 
