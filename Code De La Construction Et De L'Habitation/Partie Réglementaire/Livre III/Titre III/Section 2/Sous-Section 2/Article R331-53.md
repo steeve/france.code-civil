@@ -7,13 +7,13 @@ tenu de leur localisation, de la situation de famille du bénéficiaire et des
 ressources des occupants.
 
 Dans les autres cas, le montant des prêts prévus à l'article R. 331-32 peut
-atteindre 70 p. 100 du prix de vente du logement défini à l'article R.331-52
+atteindre 75 p. 100 du prix de vente du logement défini à l'article R.331-52
 (5.). Le taux maximum est porté à 90 p. 100 pour les ménages bénéficiaires ayant
 au moins trois enfants à charge, dont un de moins de quatre ans à la date du
 dépôt de la demande de décision favorable, de transfert ou de maintien.
 
 Toutefois, lorsque les ressources du ménage bénéficiaire définies à l'article R.
-331-42 sont inférieures à un plafond, le montant des prêts peut atteindre 80 p.
+331-42 sont inférieures à un plafond, le montant des prêts peut atteindre 85 p.
 100 du prix de vente mentionné à l'alinéa précédent. Le taux maximum est porté à
 100 p. 100 pour les ménages ayant au moins trois enfants à charge, dont un de
 moins de quatre ans à la date du dépôt de la demande de décision favorable, de
