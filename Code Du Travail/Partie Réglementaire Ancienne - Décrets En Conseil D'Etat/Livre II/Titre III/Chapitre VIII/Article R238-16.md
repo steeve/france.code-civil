@@ -18,6 +18,7 @@ maître d'ouvrage met à la disposition de celui-ci ainsi que l'autorité qu'il 
 confère par rapport à l'ensemble des intervenants dans l'opération, maître
 d'oeuvre et entrepreneurs, employeurs ou travailleurs indépendants.
 
-Le contrat, l'avenant ou le document précisent en outre les modalités de la
-présence du coordonnateur sur le chantier et de sa participation aux réunions de
-chantier, afin de permettre le bon déroulement de la mission de coordination.
+Le contrat, l'avenant ou le document précisent en outre les obligations du
+coordonnateur, notamment les modalités de sa présence aux réunions lors de la
+phase de conception, d'étude et d'élaboration du projet et aux réunions de
+chantier pendant la phase de réalisation de l'ouvrage.

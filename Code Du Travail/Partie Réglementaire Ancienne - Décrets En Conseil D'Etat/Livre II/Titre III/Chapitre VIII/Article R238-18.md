@@ -14,7 +14,8 @@ est requis ;
 
 b) Constitue le dossier d'intervention ultérieure sur l'ouvrage ;
 
-c) Ouvre un registre-journal de la coordination ;
+c) Ouvre un registre-journal de la coordination dès la signature du contrat ou
+de l'avenant mentionné à l'article R. 238-16 ;
 
 d) Définit les sujétions afférentes à la mise en place et à l'utilisation des
 protections collectives, des appareils de levage, des accès provisoires et des

@@ -22,13 +22,17 @@ chantier et tenue à jour ;
 4° Le procès-verbal de passation de consignes avec le coordonnateur appelé à lui
 succéder.
 
-Il présente le registre-journal, sur leur demande, au maître d'oeuvre, à
-l'inspecteur du travail ou au fonctionnaire assimilé en application de l'article
-L. 611-1 (alinéa 3), à l'agent du comité régional de l'organisme professionnel
-de prévention du bâtiment, aux représentants des chefs des services de
-prévention des organismes de sécurité sociale compétents en matière de
-prévention des risques professionnels et, lorsqu'il est constitué, aux membres
-du collège interentreprises de sécurité, de santé et des conditions de travail.
+Est annexée au registre-journal une copie du procès-verbal mentionné à l'article
+R. 238-38.
+
+Le coordonnateur présente le registre-journal, sur leur demande, au maître
+d'oeuvre, à l'inspecteur du travail ou au fonctionnaire assimilé en application
+de l'article L. 611-1 (alinéa 3), à l'agent du comité régional de l'organisme
+professionnel de prévention du bâtiment, aux représentants des chefs des
+services de prévention des organismes de sécurité sociale compétents en matière
+de prévention des risques professionnels et, lorsqu'il est constitué, aux
+membres du collège interentreprises de sécurité, de santé et des conditions de
+travail.
 
 Le registre-journal est conservé par le coordonnateur pendant une durée de cinq
 années à compter de la date de réception de l'ouvrage.
