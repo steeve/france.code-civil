@@ -6,6 +6,16 @@ de sécurité sociale afférentes à ces rémunérations, font l'objet de retenu
 proportionnelles à la durée des absences non justifiées aux séances de
 formation.
 
+Les manques non justifiés d'assiduité déterminés dans les conditions prévues à
+l'article R. 961-3 et les absences non justifiées aux séquences de formation en
+centre, dans le cas des formations ouvertes, font l'objet des retenues
+proportionnelles prévues au premier alinéa ci-dessus. Les absences non
+justifiées aux séquences d'évaluation pédagogique en centre donnent lieu au
+reversement de la rémunération perçue depuis la dernière séquence, ou à retenue
+de la rémunération due depuis celle-ci. Les dispositions des quatre derniers
+alinéas du présent article sont applicables aux abandons et aux renvois pour
+faute lourde.
+
 Les rémunérations perçues par les stagiaires et les rémunérations qui ont été
 remboursées aux employeurs ainsi que, le cas échéant, les sommes versées au
 titre des cotisations de sécurité sociale afférentes à ces rémunérations sont

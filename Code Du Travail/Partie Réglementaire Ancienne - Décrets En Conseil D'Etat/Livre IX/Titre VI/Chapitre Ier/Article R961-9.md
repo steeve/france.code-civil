@@ -18,3 +18,8 @@ les accidents du travail ;
 autres stagiaires les états mensuels de présence et de notifier à ce service les
 abandons et les renvois de stage ainsi que leurs motifs et les accidents du
 travail.
+
+Dans le cas des stages comportant un enseignement à distance, les documents
+individuels mensuels de présence et les états mensuels de présence mentionnés
+aux 2 et 3 ci-dessus précisent les durées définies aux a et b du 3° du cinquième
+alinéa de l'article R. 961-2.
