@@ -11,7 +11,8 @@ Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
 "département" ou "arrondissement" ;
 
 2° "représentant du gouvernement" et "services du représentant du gouvernement",
-au lieu de : "Préfet" ou "sous-préfet" et "préfecture" ;
+au lieu respectivement de : "Préfet" ou "sous-préfet" ou "Institut national de
+la statistique et des études économiques" et "préfecture" ;
 
 3° "tribunal de première instance", au lieu de : "tribunal d'instance" et
 "tribunal de grande instance" ;

@@ -7,5 +7,4 @@ Miquelon-Langlade :quatre sièges.
 
 Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
 
-Les élections ont lieu au mois de mars. Les collèges électoraux sont convoqués
-le même jour que dans les départements.
+Les élections ont lieu au mois de mars.
