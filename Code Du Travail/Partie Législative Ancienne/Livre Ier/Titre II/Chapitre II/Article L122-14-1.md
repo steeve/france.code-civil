@@ -4,6 +4,9 @@ L'employeur qui décide de licencier un salarié doit notifier le licenciement p
 lettre recommandée avec demande d'avis de réception ; la date de présentation de
 la lettre recommandée fixe le point de départ du délai-congé.
 
+Les dispositions de l'alinéa précédent ne sont pas applicables en cas de
+redressement ou de liquidation judiciaires.
+
 Cette lettre ne peut être expédiée moins d'un jour franc [*délai*] après la date
 pour laquelle le salarié a été convoqué en application des dispositions de
 l'article L. 122-14.

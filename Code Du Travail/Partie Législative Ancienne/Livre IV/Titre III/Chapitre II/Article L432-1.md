@@ -31,12 +31,13 @@ l'auteur de l'offre pour qu'il expose son projet devant lui.
 
 Il est également informé et consulté avant toute déclaration de cessation des
 paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement
-judiciaire, avant toute décision relative à la poursuite de l'activité ainsi que
-lors de l'élaboration du projet de plan de redressement de l'entreprise dans les
-conditions prévues aux articles 20, 25 et 89 de la loi n° 85-98 du 25 janvier
-1985 précitée. La ou les personnes qu'il a désignées selon les dispositions de
-l'article 226 de ladite loi sont entendues par le tribunal compétent dans les
-conditions fixées aux articles 6, 23, 36, 61 et 68 de ladite loi.
+ou de liquidation judiciaire, avant toute décision relative à la poursuite de
+l'activité ainsi que lors de l'élaboration du projet de plan de redressement ou
+de liquidation de l'entreprise dans les conditions prévues aux articles 20, 25
+et 89 de la loi n° 85-98 du 25 janvier 1985 précitée. La ou les personnes qu'il
+a désignées selon les dispositions de l'article 226 de ladite loi sont entendues
+par le tribunal compétent dans les conditions fixées aux articles 6, 23, 36, 61
+et 68 de ladite loi.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
 et de développement technologique de l'entreprise. A défaut, les aides publiques

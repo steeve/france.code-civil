@@ -1,10 +1,15 @@
 Article L243-5
 ----
-Le privilège prévu au premier alinéa de l'article L. 243-4 ne conserve ses
-effets à l'égard des sommes dues par des commerçants et personnes morales de
-droit privé même non commerçantes que s'il a fait l'objet d'une inscription à un
-registre public tenu au greffe du tribunal de commerce dans un délai de trois
-mois suivant l'échéance desdites sommes.
+Dès lors qu'elles dépassent 80 000 F, les sommes privilégiées en application du
+premier alinéa de l'article L. 243-4 dues par un commerçant ou une personne
+morale de droit privé même non commerçante doivent être inscrites à un registre
+public tenu au greffe du tribunal de commerce ou du tribunal de grande instance
+dans le délai de trois mois suivant leur échéance.
+
+En cas de redressement ou de liquidation judiciaires du redevable ou d'un tiers
+tenu légalement au paiement de ces sommes, le privilège dont l'inscription n'a
+pas été régulièrement requise à l'encontre du redevable ne peut plus être exercé
+pour les créances qui étaient soumises à titre obligatoire à cette inscription.
 
 L'inscription conserve le privilège pendant deux années et trois mois à compter
 du jour où elle est effectuée. Elle ne peut être renouvelée.
@@ -16,3 +21,7 @@ d'un acte de mainlevée émanant du créancier subrogé.
 
 Toutefois, le privilège est conservé au-delà du délai prévu au deuxième alinéa
 sur les biens qui ont fait l'objet d'une saisie avant l'expiration de ce délai.
+
+En cas de redressement ou de liquidation judiciaires, les pénalités, majorations
+de retard et frais de poursuites dus par le redevable à la date du jugement
+d'ouverture sont remis.

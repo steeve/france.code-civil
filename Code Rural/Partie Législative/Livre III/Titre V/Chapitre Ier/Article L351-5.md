@@ -24,3 +24,7 @@ de payer, en tout ou partie, une créance quelconque née antérieurement à cet
 décision, ou de désintéresser les cautions qui acquitteraient des créances nées
 antérieurement, ainsi que de faire un acte de disposition étranger à la gestion
 normale de l'exploitation ou de consentir une hypothèque ou un nantissement.
+
+Les dispositions de l'article 55 de la loi n° 85-98 du 25 janvier 1985 relative
+au redressement et à la liquidation judiciaires des entreprises sont
+applicables.

@@ -4,13 +4,13 @@ Tout employeur ayant la qualité de commerçant, d'artisan, d'agriculteur ou de
 personne morale de droit privé et occupant un ou plusieurs salariés doit assurer
 ses salariés, y compris les travailleurs salariés détachés à l'étranger ainsi
 que les travailleurs salariés expatriés visés à l'article L. 351-4, contre le
-risque de non-paiement, en cas de procédure de redressement judiciaire, des
-sommes qui leur sont dues en exécution du contrat de travail.
+risque de non-paiement, en cas de procédure de redressement ou de liquidation
+judiciaire, des sommes qui leur sont dues en exécution du contrat de travail.
 
 L'assurance couvre :
 
 1° les sommes dues aux salariés à la date du jugement d'ouverture de toute
-procédure de redressement judiciaire ;
+procédure de redressement ou de liquidation judiciaire ;
 
 2° Les créances résultant de la rupture des contrats de travail intervenant
 pendant la période d'observation, dans le mois suivant le jugement qui arrête le
