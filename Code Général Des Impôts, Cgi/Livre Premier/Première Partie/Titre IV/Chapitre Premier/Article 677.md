@@ -6,12 +6,12 @@ proportionnelle ou progressive :
 1° Les transmissions, soit entre vifs, soit par décès, de propriété ou
 d'usufruit de biens meubles ou immeubles, ainsi que les décisions judiciaires et
 les actes portant ou constatant entre vifs constitution de droits réels
-immobiliers visés au 1°-a de l'article 28 du décret n° 55-22 du 4 janvier 1955
-((modifié)) (M);
+immobiliers visés au 1°-a de l'article 28 modifié du décret n° 55-22 du 4
+janvier 1955 ;
 
-2° Les transmissions de jouissance de fonds de commerce ou de clientèles, de
-droits de chasse ou de pêche ou de biens immeubles ainsi que les quittances ou
-cessions d'une somme équivalente à trois années de loyers ou fermages non échus;
+2° Les transmissions de jouissance de fonds de commerce ou de clientèles ou de
+biens immeubles ainsi que les quittances ou cessions d'une somme équivalente à
+trois années de loyers ou fermages non échus;
 
 3° Les actes constatant un apport en société, les actes de formation de
 groupements d'intérêt économique constitués conformément à l'ordonnance n°
@@ -25,5 +25,3 @@ lorsqu'ils portent sur des droits soumis à publicité foncière en application 
 1° de l'article 28 du décret précité;
 
 5° Les inscriptions d'hypothèques judiciaires ou conventionnelles.
-
-(M) Modification.

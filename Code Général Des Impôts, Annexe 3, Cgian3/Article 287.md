@@ -47,15 +47,13 @@ mentionnés au d du 4° de l'article 28 du décret n° 55-22 du 4 janvier 1955.
 14° Pour les actes et attestations rectificatives publiés en application du 3 de
 l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955 ;
 
-((15° Pour la publication :
+15° Pour la publication :
 
-((a) des titres d'occupation du domaine public de l'Etat ou d'un de ses
+a) des titres d'occupation du domaine public de l'Etat ou d'un de ses
 établissements publics constitutifs d'un droit réel délivrés en application des
 articles L. 34-1 à L. 34-9 du code du domaine de l'Etat et de l'article 3 de la
 loi n° 94-631 du 25 juillet 1994 ainsi que des cessions, transmissions ou
 retraits de ces titres ;
 
-((b) des contrats de crédit-bail conclus en application des dispositions de
-l'article L. 34-7 du code précité.)) (M).
-
-(1) Modification du décret.
+b) des contrats de crédit-bail conclus en application des dispositions de
+l'article L. 34-7 du code précité.
