@@ -43,9 +43,7 @@ l'existence, l'origine, la nature et la description de l'emploi ou du travail à
 domicile offert, la rémunération et les avantages annexes proposés ainsi que le
 lieu du travail.
 
-3. //LOI 1349 31-12-1975 :
-
-Un texte rédigé en langue étrangère ou contenant des termes étrangers ou des
+3. Un texte rédigé en langue étrangère ou contenant des termes étrangers ou des
 expressions étrangères, lorsqu'il existe une expression ou un terme approuvés
 dans les conditions prévues par le décret du n. 72-19 du 7 janvier 1972 relatif
 à l'enrichissement de la langue française.
@@ -62,9 +60,9 @@ langue étrangère serait une des conditions requises pour tenir l'emploi propos
 Toutefois, les directeurs de publications principalement rédigées en langues
 étrangères peuvent recevoir des offres d'emploi rédigées dans ces langues. En
 outre, les offres d'emploi expressément faites à l'intention de ressortissants
-étrangers peuvent être rédigées en langue étrangère//.
+étrangers peuvent être rédigées en langue étrangère.
 
-//ORD. 131 1982-02-05 : Les publicités faites en faveur d'une ou plusieurs
-entreprises de travail temporaire et les offres d'emploi provenant de celles-ci
-doivent mentionner expressément la dénomination de ces entreprises et leur
-caractère d'entreprise de travail temporaire.//
+Les publicités faites en faveur d'une ou plusieurs entreprises de travail
+temporaire et les offres d'emploi provenant de celles-ci doivent mentionner
+expressément la dénomination de ces entreprises et leur caractère d'entreprise
+de travail temporaire.
