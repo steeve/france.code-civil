@@ -3,8 +3,9 @@ Article R353-16
 1° Le loyer maximum applicable aux logements conventionnés, ainsi que les
 conditions de son évolution sont fixées par les conventions.
 
-2° Pour les conventions conclues à partir du 1er juillet 1996, le loyer maximum
-de chaque logement est le produit des trois éléments suivants :
+2° Pour les conventions conclues postérieurement au 1er juillet 1996, y compris
+celles conclues lors de l'acquisition des logements, le loyer maximum de chaque
+logement est le produit des trois éléments suivants :
 
 a) La surface utile du logement ;
 
@@ -31,9 +32,21 @@ Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner
 lieu à la perception d'un loyer accessoire, dans les limites et conditions
 fixées par la convention.
 
-3° Par dérogation au 2° du présent article, le loyer maximum des logements
-conventionnés à l'occasion de la réalisation de travaux d'amélioration, ou
-conventionnés sans travaux, est fixé au mètre carré de surface corrigée, telle
-qu'elle résulte des dispositions de l'article R. 442-1 et du décret n° 48-1766
-du 22 novembre 1948, modifié notamment par le décret n° 60-1063 du 1er octobre
-1960.
+3° Par dérogation au 2° ci-dessus, le loyer maximum des logements conventionnés
+à l'occasion de travaux d'amélioration ou des logements conventionnés sans
+travaux pendant le cours de leur exploitation est fixé au mètre carré de surface
+corrigée, telle que celle-ci résulte des dispositions de l'article R. 442-1, du
+décret n° 48-1766 du 22 novembre 1948 et de l'article 4 du décret n° 60-1063 du
+1er octobre 1960 modifié.
+
+4° Le loyer maximum est majoré dans des limites fixées par décret pour les
+catégories de logements nouvellement conventionnés suivantes :
+
+a) Les logements déjà occupés lors du conventionnement, lorsque les occupants
+sont des ménages dont les ressources sont supérieures aux plafonds mentionnés à
+la première phrase de l'article R. 331-12 ;
+
+b) Les logements financés par des prêts locatifs à usage social, quand les
+logements sont attribués, dans les conditions fixées au II de l'article R.
+331-12, à des ménages dont les ressources sont supérieures aux plafonds
+mentionnés au a ci-dessus.
