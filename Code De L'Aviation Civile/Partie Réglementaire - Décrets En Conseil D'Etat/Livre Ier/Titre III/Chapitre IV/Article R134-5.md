@@ -3,27 +3,29 @@ Article R134-5
 Sont exonérés de la redevance pour services terminaux de la circulation aérienne
 :
 
-Les vols exécutés par les aéronefs militaires et par les aéronefs appartenant à
-l'Etat, à condition que ces vols ne soient pas effectués à des fins commerciales
-;
+1. Les vols effectués en totalité selon les règles du vol à vue ;
 
-Les vols exécutés par les aéronefs des catégories précédentes appartenant à des
-Etats ayant conclu avec la France des accords de réciprocité ;
+2. Les vols se terminant à l'aérodrome de départ de l'aéronef et au cours
+desquels aucun atterrissage n'a eu lieu (vols circulaires) ;
 
-Les vols de recherche et de sauvetage ;
+3. Les vols effectués par les aéronefs dont la masse maximum certifiée au
+décollage est inférieure à deux tonnes métriques ;
 
-Les vols se terminant à l'aérodrome de départ de l'aéronef, au cours desquels
-aucun atterrissage n'a eu lieu ;
+4. Les vols civils effectués par les aéronefs qui sont la propriété d'un Etat, à
+condition que ces vols ne soient pas effectués à des fins commerciales et sous
+réserve de réciprocité ;
 
-Les vols de contrôle ou d'essai des aides à la navigation ;
+5. Les vols militaires des Etats signataires de la convention Eurocontrol ou
+ayant conclu avec la France des accords de réciprocité ;
 
-Les vols d'essai des aéronefs et les vols servant uniquement à l'instruction et
-à l'entraînement du personnel navigant.
+6. Les vols de recherche et de sauvetage autorisés par un organisme compétent ;
 
-L'arrêté mentionné à l'article R. 134-4 peut, en outre, prévoir des exonérations
-ou des réductions de tarifs en faveur :
+7. Les vols effectués en vue de vérifier ou de tester les équipements au sol
+utilisés ou destinés à être utilisés comme aide à la navigation aérienne ;
 
-Des vols effectués en totalité selon les règles de vol à vue ;
+8. Les vols d'essai effectués exclusivement en vue d'obtenir, de renouveler ou
+de maintenir le certificat de navigabilité d'un aéronef ou d'un équipement ;
 
-Des vols exécutés par les aéronefs civils dont la masse maximum au décollage est
-inférieure à 5,7 tonnes.
+9. Les vols d'entraînement effectués exclusivement en vue d'obtenir, de
+renouveler ou de maintenir un brevet de pilote ou une qualification pour les
+personnels navigants.
