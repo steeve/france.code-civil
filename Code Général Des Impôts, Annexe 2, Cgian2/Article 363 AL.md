@@ -7,3 +7,7 @@ articles 363 AG et 363 AH aux prix directeurs en vigueur au début des campagnes
 de commercialisation concernées, ces prix étant convertis en francs français sur
 la base du taux de conversion de l'Ecu dans le secteur agricole à la date du 1er
 juillet de l'année civile en cours.
+
+Pour le triticale, le montant à la tonne de la taxe applicable est égal au
+montant en valeur absolue de la taxe perçue à la tonne de seigle, tel que ce
+montant résulte des dispositions qui précèdent.
