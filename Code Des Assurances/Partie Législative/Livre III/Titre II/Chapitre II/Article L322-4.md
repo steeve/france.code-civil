@@ -5,11 +5,8 @@ les entreprises mentionnées au 1° de l'article L. 310-2 peuvent être soumises
 afin de préserver les intérêts des assurés, à un régime de déclaration ou
 d'autorisation préalables, dans des conditions définies par décret en Conseil
 d'Etat. Ces dispositions s'appliquent également aux prises, extensions ou
-cessions de participations dans des entreprises ayant leur siège social en
-France dont l'activité principale consiste à prendre des participations dans des
-entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1
-et qui détiennent, directement ou indirectement, un pouvoir de contrôle effectif
-sur une ou plusieurs de ces entreprises.
+cessions de participations dans des sociétés de groupe d'assurance dont le siège
+social est situé en France.
 
 L'autorisation donnée à des opérations mentionnées au premier alinéa peut être
 subordonnée au respect d'engagements souscrits par une ou plusieurs des

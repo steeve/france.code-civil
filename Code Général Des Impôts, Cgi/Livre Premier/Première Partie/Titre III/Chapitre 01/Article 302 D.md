@@ -8,6 +8,9 @@ a. Lorsqu'il cesse de bénéficier du régime suspensif des droits d'accises pr�
 au II de l'article 302 G ou de l'entrepôt mentionné au 8° du I de l'article 570
 ;
 
+a bis) Lorsqu'il est fabriqué hors des régimes suspensifs mentionnés au a, sans
+bénéficier des exonérations prévues à l'article 302 D bis ;
+
 b. Lorsqu'il est importé, à l'exclusion des cas où il est placé, au moment de
 l'importation, sous un régime suspensif des droits d'accises mentionné au a.
 
@@ -69,7 +72,7 @@ circulation et aux contrôles des produits soumis à accises.
 
 2. L'impôt est dû :
 
-1° Dans les cas visés aux a et b du 1° du 1, par la personne qui met à la
+1° Dans les cas visés aux a, a bis et b du 1° du 1, par la personne qui met à la
 consommation ;
 
 2° Dans le cas de manquants, par la personne chez laquelle les manquants sont
@@ -94,8 +97,10 @@ b) Lors de la réception en France par une personne autre qu'un opérateur
 accomplissant de manière indépendante une activité économique ou qu'un organisme
 exerçant une activité d'intérêt général de produits expédiés ou transportés en
 France par le vendeur ou pour son compte ; l'impôt est dû, par le représentant
-fiscal du vendeur mentionné au II de l'article 302 V ci-après, lors de la
-réception des produits ;
+fiscal du vendeur mentionné au II de l'article 302 V, lors de la réception des
+produits ;
+
+c) (abrogé)
 
 III. - 1. L'impôt est liquidé mensuellement, au plus tard le cinquième jour de
 chaque mois, sur la base d'une déclaration des quantités de produits mis à la
@@ -105,9 +110,7 @@ consommation au cours du mois précédent transmise à l'administration.
 liquidation, soit dans le délai d'un mois à compter de cette date, une caution
 garantissant le paiement de l'impôt dû est exigée dans l'un et l'autre cas. Une
 dispense de caution peut être accordée aux entrepositaires agréés mentionnés à
-l'article 302 G dans les limites et conditions fixées par décret (1).
+l'article 302 G dans les limites et conditions fixées par décret.
 
 3. Un arrêté du ministre chargé du budget fixe le modèle et le contenu de la
 déclaration mentionnée au 1.
-
-(1) Ces dispositions sont applicables à compter du 1er janvier 2000.

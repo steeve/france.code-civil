@@ -17,4 +17,7 @@ des dispositions du présent chapitre aux mutuelles et aux unions pratiquant à 
 fois des opérations mentionnées aux a et b du 1° du I de l'article L. 111-1, en
 vue notamment d'assurer une gestion distincte, pour la protection des intérêts
 de leurs membres participants et bénéficiaires, de chacune des deux catégories
-d'opérations.
+d'opérations ;
+
+4° Les conditions du contrôle interne des mutuelles et unions régies par les
+dispositions du présent livre.

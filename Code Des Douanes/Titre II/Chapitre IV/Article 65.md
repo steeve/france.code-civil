@@ -81,3 +81,13 @@ matière de réglementation douanière ou agricole, les agents des douanes sont
 autorisés à mettre en oeuvre les dispositions du présent article pour le
 contrôle des opérations douanières ou agricoles réalisées dans les autres Etats
 membres.
+
+8° Sous réserve de réciprocité, l'administration des douanes et droits indirects
+peut communiquer aux autorités compétentes des Etats membres de la Communauté
+européenne des renseignements et documents pour l'établissement des droits
+indirects grevant les huiles minérales.
+
+Elle peut faire état, à titre de preuve, des renseignements et documents fournis
+par les autorités compétentes des Etats membres de la Communauté européenne.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.

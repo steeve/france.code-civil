@@ -2,7 +2,7 @@ Article L322-2
 ----
 Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise
 soumise au contrôle de l'Etat en vertu de l'article L. 310-1, ou de l'article L.
-310-1-1, ni une société de participations d'assurance :
+310-1-1, ni une société de groupe d'assurance définie à l'article L 322-1-2 :
 
 1° S'il a fait l'objet d'une condamnation :
 

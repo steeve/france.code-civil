@@ -18,7 +18,7 @@ plus tard deux mois avant la modification ou la résiliation de la convention.
 
 A compter de l'entrée en vigueur de la convention, les mutuelles et unions
 auxquelles un autre organisme s'est substitué ne sont pas soumises aux
-dispositions des articles L. 212-1, L. 212-2, L. 212-3 et L. 212-15 à L. 212-22.
+dispositions des articles L. 212-1, L. 212-3 et L. 212-15 à L. 212-22.
 
 Elles sont également dispensées de nommer un commissaire aux comptes lorsque la
 mutuelle ou l'union avec laquelle elles ont passé convention établit leurs
