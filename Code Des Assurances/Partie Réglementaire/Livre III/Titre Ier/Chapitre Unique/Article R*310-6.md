@@ -9,11 +9,13 @@ destinés à être distribués au public ou publiés ou remis aux porteurs de
 contrats ou adhérents.
 
 Les entreprises françaises doivent, avant de soumettre à l'assemblée générale
-des modifications à leurs statuts, obtenir le visa du ministre de l'économie,
-des finances et du budget qui statue dans les trois mois du dépôt de trois
-spécimens des projets de modifications aux statuts. A l'expiration de ce délai,
-en l'absence d'observation du ministre, le visa est considéré comme accordé. Ce
-délai est réduit à quarante-cinq jours pour les augmentations de capital social.
+des modifications à leurs statuts, obtenir l'accord de la commission de contrôle
+des assurances qui statue dans les trois mois du dépôt de trois spécimens des
+projets de modification aux statuts. Un exemplaire de ces documents est transmis
+par la commission au commissaire du Gouvernement. A l'expiration de ce délai, en
+l'absence d'observation de la commission, les modifications sont considérées
+comme approuvées. Ce délai est réduit à quarante-cinq jours pour les
+augmentations du capital social.
 
 Les entreprises pratiquant les opérations mentionnées aux 1°, 2°, 3°, 4° ou 6°
 de l'article L. 310-1, doivent, avant d'appliquer leurs tarifs, obtenir le visa

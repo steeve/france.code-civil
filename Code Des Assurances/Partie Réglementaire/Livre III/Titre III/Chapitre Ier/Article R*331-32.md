@@ -13,6 +13,6 @@ d'autre part, la somme des éléments suivants ;
 déduction des sommes encaissées à la suite de recours.
 
 Toutefois, l'application des dispositions du présent article peut, par décision
-du ministre de l'Economie et des Finances, pour les entreprises qui adressent à
-cet effet une demande motivée, être limitée au dernier exercice écoulé à la date
-de l'inventaire.
+de la commission de contrôle des assurances, pour les entreprises qui adressent
+à cet effet une demande motivée, être limitée au dernier exercice écoulé à la
+date de l'inventaire.

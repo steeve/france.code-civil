@@ -10,7 +10,5 @@ Sont également admises les créances nettes sur les fonds suivants :
 
 - fonds de garantie mentionné à l'article L. 421-1 ;
 
-- fonds de revalorisation des rentes mentionné à l'article L. 431-11 ;
-
-- fonds de compensation des risques de l'assurance de la construction institué
-par l'article 30 de la loi n° 82-540 du 28 juin 1982.
+- fonds de compensation des risques de l'assurance de la construction mentionné
+à l'article L. 431-14.

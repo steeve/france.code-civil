@@ -13,7 +13,3 @@ dans les services du siège ou, si ces fonctionnaires le demandent, dans les
 agences tous les documents nécessaires aux opérations mentionnées à l'alinéa
 précédent, ainsi que le personnel qualifié pour leur fournir les renseignements
 qu'ils jugent nécessaires.
-
-Les commissaires-contrôleurs rendent compte de leurs vérifications et
-constatations au ministre de l'économie et des finances, qui seul prescrit, dans
-les formes et délais qu'il fixe, les redressements nécessaires.

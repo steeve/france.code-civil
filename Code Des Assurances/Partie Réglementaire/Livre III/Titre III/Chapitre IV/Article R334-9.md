@@ -1,8 +1,8 @@
 Article R334-9
 ----
 Les dispositions de l'article R. 334-7 concernant le montant minimal du fonds de
-garantie ne sont applicables ni aux sociétés à forme mutuelle ni aux sociétés
-mutuelles d'assurance qui remplissent simultanément les conditions suivantes :
+garantie ne sont pas applicables aux sociétés d'assurance mutuelles qui
+remplissent simultanément les conditions suivantes :
 
 a) Leurs statuts prévoient la possibilité de procéder à des rappels de
 cotisation ;
