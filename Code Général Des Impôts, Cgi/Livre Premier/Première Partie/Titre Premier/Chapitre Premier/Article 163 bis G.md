@@ -29,7 +29,8 @@ régional et des sociétés financières d'innovation ne sont pas prises en comp
 la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article
 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même,
 ce pourcentage ne tient pas compte des participations des fonds communs de
-placement à risques ou des fonds communs de placement dans l'innovation ;
+placement à risques, des fonds d'investissement de proximité ou des fonds
+communs de placement dans l'innovation ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une
 restructuration, d'une extension ou d'une reprise d'activités préexistantes,
@@ -42,13 +43,12 @@ commissaires aux comptes. Il est au moins égal, lorsque la société émettrice
 procédé dans les six mois précédant l'attribution du bon à une augmentation de
 capital, au prix d'émission des titres alors fixé.
 
-L'assemblée générale extraordinaire peut déléguer au conseil d'administration le
-soin de fixer la liste des bénéficiaires de bons de souscription de parts de
-créateurs d'entreprise. Dans ce cas, le conseil d'administration indique le nom
-des attributaires desdits bons et le nombre de titres attribués à chacun d'eux.
+L'assemblée générale extraordinaire peut déléguer selon le cas, au conseil
+d'administration ou au directoire, le soin de fixer la liste des bénéficiaires
+de bons de souscription de parts de créateurs d'entreprise. Dans ce cas, le
+conseil d'administration ou le directoire indique le nom des attributaires
+desdits bons et le nombre de titres attribués à chacun d'eux.
 
 IV. - Un décret précise les modalités d'application du présent article,
 notamment les obligations déclaratives incombant aux titulaires des bons et aux
 sociétés émettrices.
-
-V. (Abrogé à compter du 27 avril 2000).
