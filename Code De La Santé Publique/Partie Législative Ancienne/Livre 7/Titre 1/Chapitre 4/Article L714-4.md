@@ -21,10 +21,11 @@ sociale ;
 pharmaceutiques, odontologiques définies à la section 3 du présent chapitre et
 des services autres que médicaux, pharmaceutiques et odontologiques ;
 
-6° Les emplois de praticiens hospitaliers à temps plein et à temps partiel à
-l'exception des catégories de personnels qui sont régies par l'ordonnance n°
-58-1373 du 30 décembre 1958 précitée et des personnels accomplissant le
-troisième cycle de leurs études médicales ou pharmaceutiques ;
+6° Les emplois des personnels de direction et les emplois de praticiens
+hospitaliers à temps plein et à temps partiel à l'exception des catégories de
+personnels qui sont régies par l'ordonnance n° 58-1373 du 30 décembre 1958
+précitée et des personnels accomplissant le troisième cycle de leurs études
+médicales ou pharmaceutiques ;.
 
 7° Les conventions passées en application de l'article 6 de l'ordonnance n°
 58-1373 du 30 décembre 1958 précitée, des textes pris pour son application, et

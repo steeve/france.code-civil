@@ -54,4 +54,7 @@ vente ou la cession à titre gratuit des substances énumérées à l'article L.
 vétérinaires ;
 
 14° Les conditions d'application du présent chapitre aux départements
-d'outre-mer.
+d'outre-mer ;
+
+15° Les conditions d'octroi, de suspension ou de retrait des autorisations
+visées aux deuxième et troisième alinéas de l'article L. 617-1.

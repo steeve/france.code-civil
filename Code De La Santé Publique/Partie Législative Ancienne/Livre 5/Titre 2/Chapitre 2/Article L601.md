@@ -21,7 +21,7 @@ Cette autorisation est délivrée pour une durée de cinq ans ;
 
 elle est ensuite renouvelable par période quinquennale.
 
-Elle peut être suspendue ou supprimée par le ministre des Affaires sociales.
+Elle peut être suspendue ou supprimée par l'Agence du médicament.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet
 d'exonérer le fabricant ou, s'il est distinct, le titulaire de l'autorisation de

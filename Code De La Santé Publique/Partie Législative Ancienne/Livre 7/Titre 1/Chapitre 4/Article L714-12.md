@@ -15,8 +15,10 @@ professionnelles qui s'imposent aux professions de santé, des responsabilités
 qui sont les leurs dans l'administration des soins et de l'indépendance
 professionnelle du praticien dans l'exercice de son art.
 
-Le directeur, ordonnateur des dépenses, peut procéder, en cours d'exercice, à
-des virements de crédits dans la limite du dixième des autorisations de dépenses
-des comptes concernés et dans des conditions qui sont fixées par décret.
+Le directeur ordonnateur des dépenses peut procéder en cours d'exercice à des
+virements de crédits entre les comptes d'un même groupe fonctionnel. Ces
+virements sont portés, sans délai, à la connaissance du comptable, du
+représentant de l'Etat et du conseil d'administration dans sa plus proche
+séance.
 
 Le directeur peut déléguer sa signature dans des conditions fixées par décret.

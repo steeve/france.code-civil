@@ -10,9 +10,14 @@ L'exonération de cette cotisation, de droit pour les boursiers, pourra, dans le
 autres cas, être décidée à titre exceptionnel par la commission prévue à
 l'article L. 381-10 [*bénéficiaires*].
 
-Une part du produit de cette cotisation pourra être affectée aux dépenses de
-gestion des organismes assurant le service des prestations, dans des conditions
-qui seront fixées par décret ;
+Une part du produit de cette cotisation est affectée, sous la forme de remise de
+gestion, au financement des dépenses de gestion des organismes assurant le
+service des prestations. Le montant de la remise de gestion accordée à ces
+organismes par étudiant affilié est, à l'issue d'une période transitoire ne
+pouvant aller au-delà du 31 décembre 1995, identique quel que soit l'organisme
+gestionnaire. Les conditions d'application du présent alinéa sont fixées par un
+arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
+budget.
 
 2°) pour le surplus, par des contributions du régime général et des régimes
 spéciaux de sécurité sociale, du régime des assurances sociales des salariés

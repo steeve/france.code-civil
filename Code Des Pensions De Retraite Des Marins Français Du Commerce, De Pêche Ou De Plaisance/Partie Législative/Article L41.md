@@ -12,7 +12,10 @@ caisse.
 
 Ce versement comprend, outre la contribution patronale incombant aux
 propriétaires, armateurs ou employeurs, les cotisations personnelles des marins,
-dont le montant est retenu lors du règlement des salaires.
+dont le montant est retenu lors du règlement des salaires. Le taux de la
+contribution patronale est fixé par catégories de navires définies en fonction
+des caractéristiques techniques, des modalités d'exploitation et de l'activité
+de ces navires.
 
 Ce versement est garanti par le même privilège que les salaires des gens de mer.
 

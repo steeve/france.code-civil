@@ -1,10 +1,9 @@
 Article L217
 ----
-Des centres de vaccination sont organisés par le ministre de la Santé publique
-et de la Population.
+Sera puni des sanctions prévues à l'article 471 du Code pénal quiconque refuse
+de se soumettre ou de soumettre ceux sur lesquels il exerce l'autorité parentale
+ou dont il assure la tutelle, aux prescriptions des articles de la présente
+section ou qui en aura entravé l'exécution.
 
-La vaccination dispensée dans ces centres est gratuite.
-
-Les assujettis à la vaccination conservent la faculté de se faire vacciner à
-leurs frais en dehors des centres prévus par le premier alinéa du présent
-article.
+En cas de récidive, les sanctions applicables seront celles prévues par
+l'article 475 du même code.

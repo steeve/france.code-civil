@@ -16,15 +16,15 @@ biologie médicale et aux réactifs mentionnés au 2° de l'article L. 512 ;
 2° Du fonctionnement de la commission de la transparence ;
 
 3° De recueillir et d'évaluer les informations sur les effets inattendus ou
-toxiques des médicaments et produits mentionnés au a du 1° ainsi que sur les
-usages abusifs et les dépendances susceptibles d'être entraînées par des
-substances psycho-actives et de prendre en la matière toute mesure utile pour
-préserver la santé publique ;
+toxiques des médicaments et produits mentionnés au 1° ainsi que sur les usages
+abusifs et les dépendances susceptibles d'être entraînées par des substances
+psycho-actives et de prendre en la matière toute mesure utile pour préserver la
+santé publique ;
 
 4° De proposer toute mesure contribuant au développement de la recherche et des
 activités industrielles dans le domaine du médicament ;
 
-5° D'appliquer les dispositions du premier alinéa de l'article L. 551 ;
+5° D'appliquer les dispositions des articles L. 551 à L. 551-9;
 
 6° De préparer la pharmacopée ;
 
@@ -36,6 +36,10 @@ dans leur composition et des produits utilisés pour la désinfection des locaux
 
 b) Des méthodes et moyens de fabrication, de conditionnement ou de contrôle
 correspondants ;
+
+7° bis D'exécuter le contrôle de qualité des analyses de biologie médicale et de
+procéder, à la demande des services concernés, aux expertises techniques de
+qualité des analyses ;
 
 8° De proposer aux ministres chargés de la santé et de la sécurité sociale toute
 mesure intéressant les domaines relevant de leur compétence ;
@@ -55,5 +59,4 @@ dans les domaines relevant de sa compétence.
 
 L'agence peut, en outre, à la demande des services concernés, procéder à tous
 contrôles ou expertises techniques relatifs à la qualité des eaux minérales ou
-de sources, de leurs conditions de captage, de transport et de conditionnement
-et à la qualité des analyses de biologie médicale.
+de sources, de leurs conditions de captage, de transport et de conditionnement.

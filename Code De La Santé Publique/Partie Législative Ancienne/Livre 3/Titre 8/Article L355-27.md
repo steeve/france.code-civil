@@ -19,8 +19,9 @@ mentions obligatoires, les méthodes d'analyse permettant de mesurer la teneur e
 nicotine et en goudron et les méthodes de vérification de l'exactitude des
 mentions portées sur les paquets.
 
-Chaque paquet de cigarettes porte, en outre, dans les conditions fixées par un
-arrêté du ministre chargé de la santé, un message de caractère sanitaire.
+III bis - Toutes les unités de conditionnement du tabac et des produits du tabac
+portent, dans les conditions fixées par un arrêté du ministre chargé de la
+santé, un message spécifique de caractère sanitaire.
 
 IV. - Les unités de conditionnement du tabac et des produits du tabac produites
 avant le 31 décembre 1991 qui ne seraient pas conformes aux dispositions des
@@ -31,3 +32,7 @@ de comporter mention de la composition intégrale, sauf, s'il y a lieu, en ce qu
 concerne les filtres, et de la teneur moyenne en goudron et en nicotine et,
 d'autre part, d'indiquer, en caractères parfaitement apparents, la mention :
 "abus dangereux".
+
+V. - Les unités de conditionnement autres que les paquets de cigarettes qui ne
+seraient pas conformes aux dispositions de l'arrêté mentionné au III bis peuvent
+être commercialisées jusqu'au 30 juin 1995.

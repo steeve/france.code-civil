@@ -1,7 +1,13 @@
 Article L596-2
 ----
-Les collectes de médicaments inutilisés effectuées au bénéfice des populations
-démunies peuvent, dans des conditions définies par décret, être réalisées sous
-la responsabilité d'un pharmacien par des organismes à but non lucratif. Ces
-collectes sont autorisées par le ministre chargé de la santé après avis des
-instances compétentes de l'ordre national des pharmaciens.
+Les médicaments inutilisés ne peuvent être collectés auprès du public que par
+des organismes à but non lucratif ou des collectivités publiques sous la
+responsabilité d'un pharmacien, par les pharmacies à usage intérieur définies à
+l'article L. 595-1 ou par les officines de pharmacie.
+
+Les médicaments ainsi collectés peuvent être mis gratuitement à la disposition
+de populations démunies par des organismes à but non lucratif, sous la
+responsabilité d'un pharmacien.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent
+article.

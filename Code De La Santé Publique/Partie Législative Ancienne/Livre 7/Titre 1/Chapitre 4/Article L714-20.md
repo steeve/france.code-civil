@@ -10,7 +10,8 @@ médecin, biologiste, odontologiste ou pharmacien hospitalier.
 
 Les unités fonctionnelles sont les structures élémentaires de prise en charge
 des malades par une équipe soignante ou médico-technique, identifiées par leurs
-fonctions et leur organisation.
+fonctions et leur organisation ainsi que les structures médicotechniques qui
+leur sont associées.
 
 Les services sont constitués d'unités fonctionnelles de même discipline.
 

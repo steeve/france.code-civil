@@ -2,16 +2,16 @@ Article L136-2
 ----
 I. - La contribution est assise sur le montant brut des traitements, indemnités,
 émoluments, salaires, allocations, pensions y compris les majorations et
-bonifications pour enfants, des revenus tirés de leur activité d'artiste-auteur
-à titre principal ou accessoire par les personnes mentionnées à l'article L.
-382-1, des rentes viagères autres que celles visées au 6 de l'article 158 du
-code général des impôts et des revenus tirés des activités exercées par les
-personnes mentionnées aux articles L. 311-2 et L. 311-3.
+bonifications pour enfants, des rentes viagères autres que celles visées au 6 de
+l'article 158 du code général des impôts et des revenus tirés des activités
+exercées par les personnes mentionnées aux articles L. 311-2 et L. 311-3.
+L'assiette de la contribution due par les artistes-auteurs est celle prévue au
+troisième alinéa de l'article L. 382-3.
 
 Sur le montant brut des traitements, indemnités, émoluments, salaires, des
-revenus tirés de l'activité d'artistes-auteurs et des allocations de chômage, il
-est opéré une réduction représentative de frais professionnels forfaitairement
-fixée à 5 p. 100 de ce montant.
+revenus des artistes-auteurs assimilés fiscalement à des traitements et salaires
+et des allocations de chômage, il est opéré une réduction représentative de
+frais professionnels forfaitairement fixée à 5 p. 100 de ce montant.
 
 Elle est également assise sur tous les avantages en nature ou en argent accordés
 aux intéressés en sus des revenus visés au premier alinéa.

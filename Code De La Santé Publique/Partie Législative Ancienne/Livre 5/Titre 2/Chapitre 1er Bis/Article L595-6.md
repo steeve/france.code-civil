@@ -4,7 +4,7 @@ Le pharmacien assurant la gérance d'une pharmacie d'un établissement de santé
 d'un établissement médico-social dans lequel sont traités des malades doit être
 préalablement informé par les promoteurs d'essais ou d'expérimentations
 envisagés sur des médicaments, produits et objets mentionnés à l'article L. 512
-ou sur des matériels médicaux stériles ou sur des préparations hospitalières.
+ou sur des dispositifs médicaux stériles ou sur des préparations hospitalières.
 
 Ceux-ci sont détenus et dispensés par le ou les pharmaciens de l'établissement.
 

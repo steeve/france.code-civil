@@ -17,3 +17,7 @@ de l'Etat à caractère administratif . La composition du conseil
 d'administration, qui est assisté d'un comité de surveillance composé notamment
 de membres du Parlement, ainsi que les conditions de fonctionnement et de
 gestion du fonds sont fixées par décret en Conseil d'Etat.
+
+Le fonds de solidarité vieillesse peut à titre dérogatoire recruter des agents
+de droit privé régis par les conventions collectives applicables au personnel
+des organismes de sécurité sociale.

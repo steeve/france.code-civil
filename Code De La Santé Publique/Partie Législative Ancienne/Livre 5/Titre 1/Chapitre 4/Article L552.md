@@ -7,10 +7,10 @@ pathologie chirurgicale et des dérèglements physiologiques, le diagnostic ou l
 modification de l'état physique ou physiologique, la restauration, la correction
 ou la modification des fonctions organiques, peut être interdite par le
 ministère chargé de la santé lorsqu'il n'est pas établi que lesdits objets,
-appareils et méthodes possèdent les propriétés annoncées. L'Agence du médicament
-peut aussi, après avis de la commission prévue à l'alinéa 2 du présent article,
-soumettre cette publicité ou propagande à l'obligation de mentionner les
-avertissements et précautions d'emplois nécessaires à l'information du
+appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de
+la santé peut aussi, après avis de la commission prévue à l'alinéa 2 du présent
+article, soumettre cette publicité ou propagande à l'obligation de mentionner
+les avertissements et précautions d'emplois nécessaires à l'information du
 consommateur [*condition*].
 
 L'interdiction est prononcée après avis d'une commission et après que le

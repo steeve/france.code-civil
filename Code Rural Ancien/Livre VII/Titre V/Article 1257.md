@@ -21,3 +21,7 @@ décret du 12 juin 1946.
 
 Les dispositions du second alinéa de l'article L. 242-13 du code de la sécurité
 sociale sont applicables aux assurés des professions agricoles et forestières.
+
+Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, une cotisation
+d'assurance maladie peut être assise sur les rémunérations ou gains perçus par
+les assurés des professions agricoles et forestières.

@@ -13,9 +13,18 @@ la santé après avis du Comité national de l'organisation sanitaire et sociale
 
 Dans chaque cas, la décision du ministre ou du représentant de l'Etat est
 notifiée au demandeur dans un délai maximum de six mois suivant la date
-d'expiration de la période de réception mentionnée à l'article L. 712-15. A
-défaut de décision dans ce délai, l'autorisation est réputée acquise [*accord
-tacite*].
+d'expiration de la période de réception mentionnée à l'article L. 712-15. Sauf
+dans le cas d'un renouvellement d'autorisation prévu par l'article L. 712-14,
+l'absence de notification d'une réponse dans ce délai vaut rejet de la demande
+d'autorisation [*refus tacite*].
+
+Lorsque, dans un délai de deux mois, le demandeur le sollicite, il est notifié
+dans le délai d'un mois les motifs justifiant ce rejet. Dans ce cas, le délai du
+recours contentieux contre la décision de rejet est prorogé jusqu'à l'expiration
+du délai de deux mois suivant le jour où les motifs lui auront été communiqués.
+
+A défaut de notification des motifs justifiant le rejet de la demande,
+l'autorisation est réputée acquise.
 
 La décision attribuant ou refusant une autorisation ou son renouvellement doit
 être motivée.

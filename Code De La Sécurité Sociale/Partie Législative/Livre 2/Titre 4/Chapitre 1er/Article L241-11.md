@@ -6,3 +6,8 @@ durée d'activité inférieure ou égale à une limite fixée par décret est ex
 des cotisations d'assurances sociales et d'allocations familiales à la charge de
 l'employeur. Elle donne lieu à versement d'une cotisation forfaitaire d'accident
 du travail.
+
+Les dispositions du deuxième alinéa de l'article L. 241-12 sont applicables aux
+cotisations patronales d'assurances sociales, d'allocations familiales et
+d'accidents du travail sur les rémunérations versées par les employeurs visés au
+deuxième alinéa de l'article L. 322-4-16 du code du travail.

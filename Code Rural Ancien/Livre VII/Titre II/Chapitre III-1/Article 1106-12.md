@@ -17,3 +17,10 @@ Le défaut de versement des cotisations n'exclut les assurés du bénéfice de
 l'assurance qu'à l'expiration d'un délai de six mois à compter de la mise en
 demeure faite par lettre recommandée avec accusé de réception. La mise en
 demeure devra, à peine de nullité, rappeler les termes du présent alinéa.
+
+Nonobstant l'application des dispositions de l'alinéa précédent, le chef
+d'exploitation ou d'entreprise dont l'exploitation ou l'entreprise fait l'objet
+d'une liquidation judiciaire et qui ne remplit plus les conditions pour relever
+d'un régime d'assurance maladie obligatoire peut bénéficier, à compter du
+jugement de liquidation judiciaire, des dispositions de l'article L. 161-8 du
+code de la sécurité sociale.

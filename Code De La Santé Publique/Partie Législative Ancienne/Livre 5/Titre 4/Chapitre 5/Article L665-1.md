@@ -6,9 +6,6 @@ dangers pour le patient ou l'utilisateur, directement ou indirectement, ne
 peuvent être mis sur le marché à titre onéreux ou à titre gratuit s'ils n'ont
 reçu au préalable [*condition*] une homologation.
 
-L'autorité administrative arrête la liste des catégories de produits et
-appareils soumis à homologation.
-
 L'homologation ne peut être accordée que si le fabricant justifie de la
 conformité du produit ou appareil aux normes et aux règlements en vigueur, de la
 sécurité pour le patient et l'utilisateur, de la bonne adaptation à l'usage

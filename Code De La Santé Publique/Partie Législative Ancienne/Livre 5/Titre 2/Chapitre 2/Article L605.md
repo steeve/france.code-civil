@@ -14,9 +14,9 @@ possédant les qualifications techniques et professionnelles fixées par le mêm
 décret ;
 
 3° Les conditions dans lesquelles interviennent les décisions accordant,
-renouvelant, suspendant ou supprimant une autorisation de mise sur le marché
-ainsi que les règles de procédure applicables aux recours ouverts contre
-lesdites décisions ;
+renouvelant, suspendant ou supprimant une autorisation de mise sur le marché, ou
+un enregistrement de médicament homéopathique, ainsi que les règles de procédure
+applicables aux recours ouverts contre lesdites décisions ;
 
 4° Les règles applicables aux demandes de brevets spéciaux et aux modalités de
 la coopération des ministères chargés de la santé publique et de la propriété
@@ -47,3 +47,13 @@ marché.
 
 11° Les règles particulières applicables à la pharmacovigilance exercée sur les
 médicaments dérivés du sang et les autres médicaments d'origine humaine.
+
+12° Les modalités de présentation des demandes tendant à obtenir
+l'enregistrement des médicaments homéopathiques prévu aux articles L. 601-3 et
+L. 601-4, la nature du dossier ainsi que les règles relatives à l'étiquetage et
+à la notice de ces médicaments ;
+
+13° Les règles particulières applicables aux essais pharmacologiques,
+toxicologiques et cliniques des médicaments homéopathiques faisant l'objet d'une
+autorisation de mise sur le marché, en prenant en compte la spécificité du
+médicament homéopathique et un usage généralement lié à la tradition.

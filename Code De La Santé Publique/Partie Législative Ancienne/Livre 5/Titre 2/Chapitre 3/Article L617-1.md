@@ -26,3 +26,7 @@ médicamenteux, ainsi que les modalités d'emploi de ces aliments.
 L'autorisation de mise sur le marché peut être assortie de conditions adéquates,
 notamment lorsqu'elle porte sur des produits susceptibles de faire apparaître
 des résidus dans les denrées alimentaires provenant des animaux traités.
+
+Les autorisations visées aux deuxième et troisième alinéas peuvent être
+suspendues ou retirées si les conditions prévues auxdits alinéas ne sont plus
+remplies.

@@ -1,10 +1,10 @@
 Article L603
 ----
 Un établissement pharmaceutique exportant un médicament [*à l'étranger*] doit
-demander à l'Agence du médicament de certifier qu'il possède l'autorisation
+demander à l'autorité administrative de certifier qu'i possède l'autorisation
 mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un
-médicament en vue de son exportation doit demander de plus à l'Agence du
-médicament de certifier qu'il s'est doté des bonnes pratiques de fabrication
+médicament en vue de son exportation doit demander de plus à l'autorité
+administrative de certifier qu'il s'est doté des bonnes pratiques de fabrication
 prévues à l'article L. 600. Un Etat non membre de la Communauté européenne
 important un médicament peut effectuer les mêmes demandes.
 

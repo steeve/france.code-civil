@@ -31,9 +31,10 @@ propositions du conseil d'administration sont réputées approuvées [*accord
 tacite*]. Le représentant de l'Etat arrête en conséquence le montant de la
 dotation globale et les tarifs de prestations. Au vu de la décision du
 représentant de l'Etat arrêtée dans les conditions ci-dessus, le directeur
-soumet à la délibération du conseil d'administration dans un délai de quinze
-jours suivant cette décision la ventilation des dépenses approuvées entre les
-comptes de chaque groupe fonctionnel.
+procède, dans un délai de quinze jours suivant cette décision, à la répartition
+des dépenses approuvées entre les comptes de chaque groupe fonctionnel. En sa
+plus proche séance, le conseil d'administration est informé de cette
+répartition.
 
-La délibération est exécutoire à compter de la date de sa transmission au
-représentant de l'Etat.
+Le budget ainsi réparti est exécutoire à compter de la date de sa transmission
+au représentant de l'Etat.

@@ -6,10 +6,25 @@ représentant de l'Etat dans le département après avis du conseil régional de
 l'ordre des pharmaciens et du directeur régional des affaires sanitaires et
 sociales.
 
-Le transfert d'une officine ne peut être autorisé qu'à la double condition qu'il
-ne compromette pas l'approvisionnement normal en médicaments de la population du
-quartier d'origine et qu'il réponde à un besoin réel de la population résidant
-dans le quartier d'accueil.
+Un transfert peut être demandé pour le territoire d'une même commune, pour celui
+d'une commune limitrophe ou d'une même communauté urbaine. Les demandes de
+transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une
+nouvelle officine.
+
+Parmi les demandes d'ouverture d'une nouvelle officine, celles qui sont
+présentées par des pharmaciens n'ayant jamais été titulaires d'une licence
+d'officine ou n'en étant plus titulaires depuis au moins trois ans à la date du
+dépôt de la demande bénéficient d'une priorité.
+
+Toute demande ayant fait l'objet du dépôt d'un dossier complet bénéficie d'un
+droit d'antériorité par rapport aux demandes ultérieures concurrentes.
+
+Les transferts d'officines ne peuvent être autorisés qu'à la double condition
+qu'ils ne compromettent pas l'approvisionnement normal en médicaments de la
+population du quartier d'origine et qu'ils répondent à un besoin réel de la
+population résidant dans le quartier d'accueil. Dans le cas d'un transfert entre
+communes, les besoins de la nouvelle population à desservir s'apprécient selon
+les règles fixées à l'article L. 571.
 
 Cette licence [*mention obligatoire*] fixe l'emplacement où l'officine sera
 exploitée [*lieu*].

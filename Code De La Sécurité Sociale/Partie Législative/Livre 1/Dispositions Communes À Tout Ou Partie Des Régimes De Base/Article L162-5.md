@@ -65,3 +65,6 @@ l'activité des praticiens et notamment les modalités de transmission de ces
 données aux instances conventionnelles et aux unions de médecins visées à
 l'article 6 de la loi n° 93-8 du 4 janvier 1993 relative aux relations entre les
 professions de santé et l'assurance maladie.
+
+10° Les obligations et, le cas échéant, la rémunération des praticiens
+mentionnés à l'article L. 145-7 du code de la santé publique.

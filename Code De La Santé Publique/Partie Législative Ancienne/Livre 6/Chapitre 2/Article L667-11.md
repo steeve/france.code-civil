@@ -19,7 +19,7 @@ sur la valeur ajoutée avec les sûretés, garanties, privilèges et sanctions
 applicables à cette taxe. Les réclamations sont présentées, instruites et jugées
 comme pour cette taxe.
 
-Son taux, compris entre 10 et 15 p. 100 du montant des cessions, contribution
+Son taux, compris entre 3 et 8 p. 100 du montant des cessions, contribution
 comprise, est fixé par arrêté des ministres chargés de la santé et du budget. Le
 prélèvement pour frais d'assiette et de recouvrement perçu par l'Etat est fixé à
 2,5 p. 100 du montant de la contribution.

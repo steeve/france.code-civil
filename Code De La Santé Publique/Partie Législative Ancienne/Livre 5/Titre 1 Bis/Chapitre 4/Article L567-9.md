@@ -23,5 +23,9 @@ produits destinés à entrer dans leur composition ;
 pour son application relatifs aux essais cliniques des médicaments et produits
 mentionnés à l'article L. 567-2.
 
+6° Le respect des règles applicables aux établissements de fabrication et
+d'importation des réactifs de laboratoire destinés aux analyses de biologie
+médicale et des réactifs mentionnés au 2° de l'article L. 512.
+
 Pour l'exercice des contrôles exigeant une compétence pharmaceutique, les
 inspecteurs de l'agence doivent être titulaires du diplôme de pharmacien.
