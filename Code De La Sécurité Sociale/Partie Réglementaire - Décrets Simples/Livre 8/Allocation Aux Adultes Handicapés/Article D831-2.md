@@ -24,3 +24,7 @@ Ces montants sont augmentés de la majoration forfaitaire prévue à l'article D
 542-21.
 
 Le minimum au-dessous duquel l'allocation n'est pas versée est fixé à 100 F.
+
+Les caisses d'allocations familiales et les caisses de mutualité sociale
+agricole sont autorisées à abandonner la mise en recouvrement des indus
+d'allocation lorsque leur montant est inférieur à 100 F.
