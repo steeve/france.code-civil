@@ -9,7 +9,7 @@ comprend, indépendamment de son président :
 Un vice-président, désigné par le ministre de l'économie et des finances sur
 proposition du garde des sceaux, ministre de la justice, parmi les membres du
 Conseil d'Etat ayant au moins le rang de conseiller, en activité ou honoraire,
-et trente-huit membres ainsi répartis :
+et trente-neuf membres ainsi répartis :
 
 Un membre de la Cour de cassation ayant au moins le rang de conseiller, en
 activité ou honoraire, désigné par le ministre de l'économie et des finances sur
@@ -41,7 +41,7 @@ du crédit agricole ;
 Un membre du comité français de la chambre de commerce internationale, désigné
 par ce comité ;
 
-Sept représentants des assurés, désignés à raison de :
+Huit représentants des assurés, désignés à raison de :
 
 Un par l'assemblée permanente des présidents de chambre de commerce et
 d'industrie ;
@@ -58,7 +58,10 @@ Deux par les organisations syndicales représentatives des travailleurs,
 désignées par arrêté du ministre de l'économie et des finances et du ministre du
 travail ;
 
-Ces sept représentants des assurés ne peuvent être choisis parmi les
+Un représentant des organisations de consommateurs, désigné sur proposition du
+collège des consommateurs du comité national de la consommation.
+
+Ces huit représentants des assurés ne peuvent être choisis parmi les
 professionnels de l'assurance en activité ;
 
 Cinq représentants du personnel des entreprises d'assurance et de
