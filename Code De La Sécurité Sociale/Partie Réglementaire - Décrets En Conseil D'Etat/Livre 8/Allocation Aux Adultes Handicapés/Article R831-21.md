@@ -6,14 +6,16 @@ d'accéder à la propriété, à la suite de laquelle l'allocation de logement p
 être versée entre les mains du prêteur ou du bailleur sur leur demande, est
 déterminée ainsi qu'il suit :
 
-1° En secteur locatif, soit lorsque deux termes de loyers et charges sont
-totalement impayés, soit à défaut de paiement du loyer pendant le mois suivant
-leurs dates d'exigibilité pour les termes d'une périodicité égale ou supérieure
-à trois mois ;
+1° Pour les termes ou échéances de prêt d'une périodicité inférieure à trois
+mois, soit lorsque deux termes de loyer et charges ou deux échéances de prêt
+sont totalement impayés, soit lorsque l'allocataire est débiteur à l'égard du
+bailleur ou du prêteur d'une somme au moins équivalente en montant.
 
-2° En secteur accession à la propriété, soit lorsque deux échéances de prêt sont
-totalement impayées, soit lorsque l'emprunteur est débiteur à l'égard de
-l'établissement habilité d'une somme au moins égale à deux échéances de prêt.
+2° Pour les termes ou échéances de prêt d'une périodicité supérieure ou égale à
+trois mois, soit à défaut de paiement du loyer et des charges ou de l'échéance
+de prêt dans le mois suivant leurs dates d'exigibilité, soit lorsque
+l'allocataire est débiteur à l'égard du bailleur ou du prêteur d'une somme au
+moins équivalente en montant.
 
 II. - Le bailleur ou le prêteur peut alors obtenir de l'organisme payeur le
 versement entre ses mains de l'allocation de logement aux lieu et place de
