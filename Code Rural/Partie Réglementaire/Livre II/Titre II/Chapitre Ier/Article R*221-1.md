@@ -9,6 +9,8 @@ au ministre son avis sur les moyens propres à :
 2° Développer le capital cynégétique dans le respect des équilibres biologiques
 ;
 
-3° Améliorer les conditions d'exercice de la chasse,
+3° Améliorer les conditions d'exercice de la chasse.
 
-et d'étudier les mesures législatives et réglementaires afférentes à ces objets.
+Le conseil est consulté sur les projets de loi modifiant les dispositions du
+titre II du livre IV du code de l'environnement et sur les projets de décret
+modifiant les dispositions du présent titre.
