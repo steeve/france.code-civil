@@ -7,8 +7,9 @@ comprennent :
 a) Les versements effectués par les employeurs en application des articles R.
 313-8 à R. 313-11 ;
 
-b) Les versements effectués par d'autres organismes collecteurs ou par l'Agence
-nationale pour la participation des employeurs à l'effort de construction ;
+b) Les versements effectués par d'autres organismes collecteurs, par l'Agence
+nationale pour la participation des employeurs à l'effort de construction ou par
+l'Union d'économie sociale du logement.
 
 c) Les remboursements de prêts consentis à l'aide de la participation des
 employeurs ainsi que le produit net de la cession d'éléments d'actif constitués
@@ -23,6 +24,6 @@ aux articles R. 313-31, R. 313-34 et R. 313-52 à R. 313-56 pour la part excéda
 une limite fixée par décret.
 
 Les versements faits par ces organismes à d'autres organismes collecteurs
-mentionnés à l'article R. 313-9 (2°, a, b) ou à l'Agence nationale pour la
-participation des employeurs à l'effort de construction sont déduits de ces
-sommes.
+mentionnés à l'article R. 313-9 (2°, a et b), à l'Agence nationale pour la
+participation des employeurs à l'effort de construction et à l'Union d'économie
+sociale du logement, sont déduits de ces sommes.

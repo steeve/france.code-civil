@@ -10,7 +10,7 @@ ou annexes complémentaires, de 3 p. 100 des sommes recueillies ;
 b) D'acquisition et d'aménagement de terrains destinés exclusivement à des
 opérations de construction de logements réalisées par elles-mêmes, à la
 condition que la construction intervienne dans les délais et conditions fixés
-par l'article 691-II du code général des impôts ;
+par l'article 691 II du code général des impôts ;
 
 c) D'aménagement de logements locatifs pour des handicapés physiques ;
 
@@ -22,6 +22,9 @@ ministre chargé du logement ;
 
 e) De construction ou d'acquisition de logements-foyers mentionnés au 5° de
 l'article L. 351-2 du présent code.
+
+f) D'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur
+transformation ou aménagement en logements.
 
 2° La participation des employeurs ne peut être investie dans le financement de
 ces opérations que lorsque cet investissement intervient :
@@ -59,7 +62,9 @@ ci-dessus, l'emploi de la participation des employeurs dans le financement de
 programmes de logements provisoires.
 
 II. - La participation des employeurs peut également être investie dans des
-opérations d'amélioration de logements à usage locatif ou de logements-foyers.
+opérations d'amélioration de logements à usage locatif ou de logements-foyers et
+dans les travaux de transformation ou d'aménagement en logements locatifs de
+locaux ou d'immeubles non affectés à cet usage.
 
 Pour les opérations mentionnées à l'alinéa précédent, le cumul avec une
 subvention mentionnée à l'article R. 321-4 est subordonné à la condition que le
