@@ -1,9 +1,14 @@
 Article 119-5
 ----
-Les mutations de permis exclusifs de recherches de mines, de concessions de
-mines, de permis d'exploitation de mines ou de carrières, les amodiations de
-concessions de mines, de permis d'exploitation de mines ou de permis
-d'occupation temporaire de carrières ne prennent effet que si elles sont
-autorisées, par décret dans le cas de permis exclusifs de recherches de mines,
-par décret en Conseil d'Etat dans le cas des concessions de mines, par arrêté
-ministériel dans le cas des permis d'exploitation de mines ou de carrières.
+La mutation d'un permis exclusif de recherches de mines, la mutation ou
+l'amodiation d'une concession de mines font l'objet d'une autorisation accordée
+dans les mêmes conditions que celles prévues pour l'octroi du titre, à
+l'exception de la mise en concurrence et, pour ce qui concerne la concession, de
+l'enquête publique.
+
+Le décret portant autorisation de mutation d'une concession de durée illimitée
+fixe un terme à ce titre. Toutefois, à la date d'expiration ainsi fixée, ce
+titre peut être renouvelé si le gisement est exploité.
+
+La résiliation anticipée de l'amodiation est autorisée par arrêté du ministre
+chargé des mines.

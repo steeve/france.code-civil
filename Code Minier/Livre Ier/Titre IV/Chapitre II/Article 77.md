@@ -1,15 +1,21 @@
 Article 77
 ----
-Les ingénieurs des mines et les ingénieurs placés sous leurs ordres exercent,
-sous l'autorité du ministre chargé des mines et des préfets, une surveillance de
-police pour la conservation des édifices et la sûreté du sol.
+La recherche et l'exploitation des mines sont soumises à la surveillance de
+l'autorité administrative conformément aux dispositions du présent chapitre,
+dans les conditions fixées par décret en Conseil d'Etat.
 
-Ils observent la manière dont l'exploitation est faite, soit pour éclairer les
-exploitants sur ses inconvénients ou son amélioration, soit pour avertir
-l'autorité compétente des vices, abus ou dangers qui s'y trouveraient.
+Les agents de l'autorité administrative, compétents en matière de police des
+mines, peuvent visiter à tout moment les mines et les haldes et terrils faisant
+l'objet de travaux de prospection, recherche ou exploitation, et toutes les
+installations indispensables à ceux-ci.
 
-A l'occasion de l'exercice de leur surveillance, tant sur les recherches de
-mines que sur les exploitations, ils peuvent être assistés par des représentants
-du commissariat à l'énergie atomique dûment qualifiés, qui peuvent procéder à
-des investigations concernant les substances utiles à l'énergie atomique et sont
-soumis aux mêmes obligations de secret que les ingénieurs du service des mines.
+Ils peuvent en outre exiger la communication de documents de toute nature, ainsi
+que la remise de tout échantillon et matériel nécessaires à l'accomplissement de
+leur mission.
+
+Pendant la durée de l'exploitation, les titulaires de concession adressent
+chaque année à l'autorité administrative un rapport relatif à ses incidences sur
+l'occupation des sols et sur les caractéristiques essentielles du milieu
+environnant. Les conditions d'élaboration et les caractéristiques de ce rapport
+seront définies par décret en Conseil d'Etat. Ce rapport est communiqué aux
+collectivités territoriales concernées.

@@ -8,13 +8,11 @@ déclaration au préfet ;
 
 - soit, à défaut de ce consentement, avec l'autorisation du ministre chargé des
 mines, après que le propriétaire a été mis en demeure de présenter ses
-observations dans des conditions fixées par un règlement d'administration
-publique ;
+observations dans des conditions fixées par un décret en Conseil d'Etat ;
 
 - soit en vertu d'un permis exclusif de recherches.
 
-A l'intérieur du périmètre d'un permis d'exploitation, d'une concession ou d'une
-exploitation d'Etat, le titulaire du permis, le concessionnaire ou l'Etat, selon
-le cas, jouit, à l'exclusion de tous autres y compris le propriétaire de la
-surface, du droit de rechercher la ou les substances qui font l'objet du permis,
-de la concession ou du périmètre d'Etat.
+A l'intérieur du périmètre d'une concession ou d'une exploitation d'Etat, le
+concessionnaire ou l'Etat, selon le cas, jouit, à l'exclusion de tous autres y
+compris le propriétaire de la surface, du droit de rechercher la ou les
+substances qui font l'objet de la concession ou du périmètre d'Etat.

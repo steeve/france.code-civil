@@ -1,10 +1,11 @@
 Article 123
 ----
-Les permis d'exploitation de mines auxquels donnent droit les demandes ci-dessus
-mentionnées sont délivrés conformément aux dispositions du titre III, chapitre
-II du présent livre et portent les mêmes droits et obligations, sauf dérogation
-résultant des dispositions du présent titre VII.
+Les concessions de mines auxquelles donnent droit les demandes ci-dessus
+mentionnées sont délivrées conformément aux dispositions du chapitre Ier du
+titre III du présent livre et portent les mêmes droits et obligations, sauf
+dérogation résultant des dispositions du présent titre.
 
-Ils seront renouvelés de droit, de façon que leur validité puisse, sur simple
-demande du titulaire, être maintenue pendant quinze ans à compter de la date du
-passage de la substance dans la classe des mines.
+Sauf demande contraire du bénéficiaire, la durée de ces concessions ne peut être
+inférieure à la durée de l'autorisation restant à courir au titre de la loi n°
+76-663 du 19 juillet 1976 relative aux installations classées pour la protection
+de l'environnement.

@@ -1,22 +1,45 @@
 Article 141
 ----
-Sera punie d'une amende de 10 000 à 60 000 F et d'un emprisonnement de onze
-jours à trois mois ou de l'une de ces deux peines seulement :
+Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 200 000 F
+le fait :
 
-- toute infraction aux dispositions des articles 8, 21, 62, 78, 81 (troisième
-alinéa), 90 et 108 du présent code ainsi qu'aux décrets ou arrêtés pris pour
-leur application ;
+1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir
+une concession ou une autorisation telles qu'elles sont respectivement prévues
+aux articles 21 et 22 ;
 
-- toute opposition ou obstacle à l'application de l'article 132 ainsi que tout
-refus d'obtempérer aux réquisitions prévues par l'article 87 du présent code ;
+2° De procéder à des travaux de recherches ou d'exploitation d'une mine sans se
+conformer aux mesures prescrites par l'autorité administrative dans les
+conditions prévues par le deuxième alinéa de l'article 79 pour assurer la
+protection des intérêts mentionnés au premier alinéa de cet article ;
 
-- toute infraction aux décrets et arrêtés pris en exécution des articles 83, 84,
-85, 86 et 107 du présent code, lorsque cette infraction intéresse la sécurité et
-la salubrité publiques ou celles des personnes occupées dans les travaux de
-recherches et d'exploitation ;
+3° D'exploiter des gisements sans se conformer aux mesures prescrites par
+l'autorité administrative par application de l'article 79-1 ;
 
-- toute infraction aux dispositions de ces mêmes décrets et arrêtés concernant
-la pénétration sur les carreaux clôturés des exploitations.
+4° De ne pas mettre à la disposition du Commissariat à l'énergie atomique les
+substances utiles à l'énergie atomique dans les conditions prévues par l'article
+81 ;
 
-En cas de récidive, l'amende sera portée au double et un emprisonnement de 11
-jours et n'excédant pas cinq ans pourra en outre être prononcé.
+5° De réaliser des travaux de recherches ou d'exploitation de mines ou de gîtes
+géothermiques sans l'autorisation prévue à l'article 83 ;
+
+6° De ne pas avoir régulièrement déclaré, au terme de la validité du titre
+minier, l'arrêt définitif de tous les travaux ou de toutes les installations,
+dans les conditions prévues par le premier et le troisième alinéas de l'article
+84 ;
+
+7° D'enfreindre celles des obligations prévues par les décrets pris en exécution
+de l'article 85, qui ont pour objet de protéger la sécurité ou l'hygiène du
+personnel occupé dans les mines, la sécurité et la salubrité publiques ou le
+milieu environnant ;
+
+8° De s'opposer à la réalisation des mesures prescrites par le préfet par
+application de l'article 86 ;
+
+9° De refuser d'obtempérer aux réquisitions prévues par les articles 87 ou 90 ;
+
+10° De procéder à des travaux de recherches ou d'exploitation d'une carrière
+sans se conformer aux mesures prescrites par l'autorité administrative dans les
+conditions prévues par les deuxième et quatrième alinéas de l'article 107 pour
+assurer la conservation de la carrière ou d'un établissement voisin de mine ou
+de carrière ou la sécurité et la santé du personnel de la carrière ou d'un
+établissement voisin de mine ou de carrière.

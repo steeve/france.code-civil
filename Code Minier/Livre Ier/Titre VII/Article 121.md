@@ -1,6 +1,6 @@
 Article 121
 ----
-Pour pouvoir bénéficier du droit au permis d'exploitation de mines institué par
+Pour pouvoir bénéficier du droit à une concession de mines institué par
 l'article 120 ci-dessus, les propriétaires ou exploitants doivent présenter une
 demande dans un délai qui sera fixé par le décret prévu à l'article 5 ci-dessus.
 
@@ -13,7 +13,7 @@ moins de cet ensemble, des travaux d'aménagement ou d'exploitation auront été
 exécutés au cours des vingt-quatre mois ayant précédé ladite publication.
 
 Elle pourra également s'étendre à toutes autres parcelles d'un seul tenant
-voisines de celles définies à l'alinéa qui précède ; toutefois, l'extension du
-permis d'exploitation à ces parcelles sera seulement facultative et ne sera
-accordée que dans la mesure nécessaire à l'exploitation rationnelle de
-l'ensemble du gisement.
+voisines de celles définies à l'alinéa qui précède ; toutefois, l'extension de
+la concession à ces parcelles sera seulement facultative et ne sera accordée que
+dans la mesure nécessaire à l'exploitation rationnelle de l'ensemble du
+gisement.

@@ -1,7 +1,7 @@
 Article 125
 ----
-Le titulaire du permis a la faculté d'utiliser les puits, galeries et, d'une
-manière générale, les ouvrages antérieurs établis à demeure en vue de
+Le titulaire de la concession a la faculté d'utiliser les puits, galeries et,
+d'une manière générale, les ouvrages antérieurs établis à demeure en vue de
 l'exploitation, moyennant une indemnité qui, à défaut d'accord amiable, sera
 fixée par le tribunal de grande instance.
 

@@ -4,11 +4,8 @@ Les mines sont immeubles. Sont aussi immeubles, outre les bâtiments des
 exploitations des mines, les machines, puits, galeries et autres travaux établis
 à demeure.
 
-Sont immeubles par destination les chevaux, les machines et l'outillage servant
-à l'exploitation.
-
-Ne sont considérés comme chevaux servant à l'exploitation que ceux qui sont
-exclusivement attachés aux travaux intérieurs des mines.
+Sont immeubles par destination les machines et l'outillage servant à
+l'exploitation.
 
 Les actions ou intérêts dans une société ou entreprise pour l'exploitation de
 mines sont meubles.

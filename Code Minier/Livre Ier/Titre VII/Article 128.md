@@ -1,10 +1,10 @@
 Article 128
 ----
-Par dérogation aux dispositions de l'article 56 ci-dessus, l'arrêté ministériel
-instituant un permis d'exploitation portant sur des substances nouvellement
-classées dans la catégorie des mines fixe les taux et les modalités des
-redevances tréfoncières pour la période de quinze ans suivant la date de
-classement prévue à l'article 5 ci-dessus.
+Par dérogation aux dispositions de l'article 25, le décret en Conseil d'Etat
+instituant une concession portant sur des substances nouvellement classées dans
+la catégorie des mines fixe les taux et les modalités d'assiette et de
+perception des redevances tréfoncières pour la période correspondant à la durée
+de la concession.
 
 Les redevances tréfoncières fixées par les actes institutifs de titres
 d'exploitation sont, pour la période fixée à l'alinéa précédent, déterminées en
