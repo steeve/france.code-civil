@@ -9,7 +9,7 @@ Toutefois, pour l'application de l'alinéa précédent, il n'est pas tenu compte
 [*calcul*] :
 
 1°) de l'allocation d'éducation spéciale et de son complément, de l'allocation
-pour jeune enfant pour la partie versée sans condition de ressources et de
+pour jeune enfant attribuée au titre du 1° de l'article L. 531-1 et de
 l'allocation de rentrée scolaire ;
 
 2°) des prestations en nature dues au titre de l'assurance maladie, maternité,
