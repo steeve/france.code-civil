@@ -1,15 +1,7 @@
 Article L321-1
 ----
-Dans les entreprises ou établissements visés à l'article L. 321-2, en cas de
-licenciement collectif pour motif économique, à défaut de convention ou accord
-collectif de travail applicable, l'employeur définit, après consultation du
-comité d'entreprise ou, à défaut, des délégués du personnel, les critères
-retenus pour fixer l'ordre des licenciements. Ces critères prennent notamment en
-compte les charges de famille et en particulier celles des parents isolés,
-l'ancienneté de service dans l'établissement ou l'entreprise et les qualités
-professionnelles.
-
-La convention et l'accord collectif de travail ou, à défaut, la décision de
-l'employeur ne peuvent comporter de dispositions établissant une priorité de
-licenciement à raison des seuls avantages à caractère viager dont bénéficie un
-salarié.
+Constitue un licenciement pour motif économique [*définition*] le licenciement
+effectué par un employeur pour un ou plusieurs motifs non inhérents à la
+personne du salarié résultant d'une suppression ou transformation d'emploi ou
+d'une modification substantielle du contrat de travail, consécutives notamment à
+des difficultés économiques ou à des mutations technologiques.

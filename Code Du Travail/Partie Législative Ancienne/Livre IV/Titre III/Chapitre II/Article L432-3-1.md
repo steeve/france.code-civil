@@ -1,7 +1,7 @@
 Article L432-3-1
 ----
-Chaque année, le chef d'entreprise présente au comité d'entreprise ou, à défaut,
-aux délégués du personnel, soit directement, soit, si elle existe, par
+Chaque année, le chef d'entreprise soumet pour avis au comité d'entreprise ou, à
+défaut, aux délégués du personnel, soit directement, soit, si elle existe, par
 l'intermédiaire de la commission prévue au dernier alinéa de l'article L. 434-7,
 un rapport écrit sur la situation comparée des conditions générales d'emploi et
 de formation des femmes et des hommes dans l'entreprise. A ce titre, ce rapport

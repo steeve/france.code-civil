@@ -11,20 +11,26 @@ licenciement ;
 
 Le nombre de travailleurs dont le licenciement est envisagé ;
 
-Les catégories professionnelles concernées ;
+Les catégories professionnelles concernées et les critères proposés pour l'ordre
+des licenciements visé à l'article L. 321-1-1 ;
 
 Le nombre de travailleurs, permanents ou non, employés dans l'établissement, et
+
 Le calendrier prévisionnel des licenciements.
 
-Dans le cas visé à l'article L. 321-3 l'employeur doit simultanément porter à la
-connaissance des représentants du personnel les mesures qu'il envisage de
-prendre, d'une part pour éviter les licenciements ou en limiter le nombre et,
-d'autre part, pour faciliter le reclassement du personnel dont le licenciement
-ne pourrait être évité.
+Lorsque le nombre des licenciements envisagés est au moins égal à dix dans une
+même période de trente jours, l'employeur doit également adresser aux
+représentants du personnel les mesures ou le plan social défini à l'article L.
+321-4-1 qu'il envisage de mettre en oeuvre pour éviter les licenciements ou en
+limiter le nombre et pour faciliter le reclassement du personnel dont le
+licenciement ne pourrait être évité.
 
 Ces mesures sont constituées, dans les entreprises ou établissements mentionnés
 au premier alinéa de l'article L. 321-3, par les conventions de conversion
 prévues à l'article L. 321-5.
+
+De même, l'employeur doit simultanément faire connaître aux représentants du
+personnel les mesures de nature économique qu'il envisage de prendre.
 
 L'employeur met à l'étude, dans les délais prévus à l'article L. 321-6, les
 suggestions formulées par le comité d'entreprise relatives aux mesures sociales
@@ -36,3 +42,7 @@ sera simultanément porté à la connaissance de l'autorité administrative
 compétente, à laquelle seront également adressés les procès-verbaux des réunions
 prévues à l'article L. 321-3. Ces procès-verbaux devront comporter les avis,
 suggestions et propositions des représentants du personnel.
+
+Les représentants du personnel sont informés de l'exécution du plan social au
+cours de l'année suivant l'expiration du délai prévu au premier alinéa de
+l'article L. 321-6.

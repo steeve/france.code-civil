@@ -29,4 +29,7 @@ procédure fixée par décret.
 Lorsque le salarié est inclus dans un licenciement collectif pour motif
 économique et que la procédure requise à l'article L. 321-2 n'a pas été
 respectée par l'employeur [*licenciement irrégulier*], le tribunal doit accorder
-au salarié une indemnité calculée en fonction du préjudice subi [*sanction*].
+au salarié une indemnité calculée en fonction du préjudice subi [*sanction*]. En
+cas de non-respect de la priorité de réembauchage prévue à l'article L. 321-14,
+le tribunal octroie au salarié une indemnité qui ne peut être inférieure à deux
+mois de salaire.

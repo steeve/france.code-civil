@@ -18,12 +18,14 @@ du travail a été saisi d'un procès-verbal de carence dans les conditions pré
 par l'article L. 433-13 du présent code, le projet de licenciement collectif est
 soumis aux délégués du personnel.
 
-Dans les entreprises ou établissements et dans les professions visées au
-deuxième alinéa du présent article, le comité d'entreprise tient deux réunions.
-Les deux réunions doivent être séparées par un délai qui ne peut être supérieur
-à sept jours lorsque le nombre des licenciements est inférieur à cent, à
-quatorze jours lorsque le nombre des licenciements est au moins égal à cent et
-inférieur à deux cent cinquante, et à vingt et un jours lorsque le nombre des
-licenciements est au moins égal à deux cent cinquante, sans préjudice des
-dispositions plus favorables prévues par conventions ou accords collectifs de
-travail.
+Dans les entreprises ou établissements visés au premier alinéa du présent
+article, les délégués du personnel tiennent deux réunions séparées par un délai
+qui ne peut être supérieur à quatorze jours. Dans les entreprises ou
+établissements et dans les professions visées au deuxième alinéa du présent
+article, le comité d'entreprise tient deux réunions. Les deux réunions doivent
+être séparées par un délai qui ne peut être supérieur à quatorze jours lorsque
+le nombre des licenciements est inférieur à cent, à vingt et un jours lorsque le
+nombre des licenciements est au moins égal à cent et inférieur à deux cent
+cinquante, et à vingt-huit jours lorsque le nombre des licenciements est au
+moins égal à deux cent cinquante, sans préjudice des dispositions plus
+favorables prévues par conventions ou accords collectifs de travail.
