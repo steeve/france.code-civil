@@ -1,12 +1,12 @@
 Article L4331-2
 ----
-- Les recettes de la section de fonctionnement comprennent :
+Les recettes de la section de fonctionnement comprennent :
 
 a) Le produit des contributions et taxes prévues par le code général des impôts
 parmi lesquelles figurent :
 
 1° La taxe foncière sur les propriétés bâties, la taxe foncière sur les
-propriétés non bâties, la taxe d'habitation et la taxe professionnelle ;
+propriétés non bâties et la taxe professionnelle ;
 
 2° La taxe additionnelle à certains droits d'enregistrement ;
 
