@@ -1,9 +1,10 @@
 Article 428
 ----
-1. Est réputée exportation sans déclaration de marchandises prohibées toute
-infraction aux dispositions, soit législatives, soit réglementaires portant
-prohibition d'exportation ou de réexpédition ou bien subordonnant l'exportation
-ou la réexportation au paiement de droits, de taxes ou à l'accomplissement de
+1. Est réputée importation ou exportation sans déclaration de marchandises
+prohibées toute infraction aux dispositions, soit législatives, soit
+réglementaires portant prohibition d'importation sous tous régimes douaniers,
+d'exportation ou de réexportation ou bien subordonnant l'exportation ou la
+réexportation au paiement de droits, de taxes ou à l'accomplissement de
 formalités particulières lorsque la fraude a été faite ou tentée par les bureaux
 et qu'elle n'est pas spécialement réprimée par une autre disposition du présent
 code.

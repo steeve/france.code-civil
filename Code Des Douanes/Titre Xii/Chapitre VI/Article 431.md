@@ -3,7 +3,7 @@ Article 431
 Indépendamment de l'amende encourue pour refus de communication dans les
 conditions prévues aux articles 65 et 92 ci-dessus, les contrevenants doivent
 être condamnés à représenter les livres, pièces ou documents non communiqués,
-sous une astreinte de 10 F au minimum par chaque jour de retard.
+sous une astreinte de 1,50 euro au minimum par chaque jour de retard.
 
 Cette astreinte commence à courir du jour même de la signature par les parties
 ou de la notification du procès-verbal dressé pour constater le refus d'exécuter

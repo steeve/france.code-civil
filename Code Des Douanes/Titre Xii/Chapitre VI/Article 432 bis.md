@@ -13,5 +13,5 @@ professionnelle selon les modalités prévues pour l'application du 1° de
 l'article 131-6 du code pénal.
 
 2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni
-d'un emprisonnement de deux ans et d'une amende de 100 000 F ou de l'une de ces
-deux peines seulement.
+d'un emprisonnement de deux ans et d'une amende de 15000 euros ou de l'une de
+ces deux peines seulement.

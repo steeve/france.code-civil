@@ -8,7 +8,7 @@ collectivité territoriale de Corse, prévue aux articles 1599 nonies à 1599
 duodecies du code général des impôts ;
 
 2° Les trois quarts du produit du droit de consommation sur les tabacs prévu à
-l'article 268 bis du code des douanes ;
+l'article 575 E bis du code général des impots ;
 
 3° La taxe due par les entreprises de transport public aérien et maritime prévue
 à l'article 1599 vicies du code général des impôts ;

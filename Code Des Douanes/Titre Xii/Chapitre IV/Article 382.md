@@ -6,9 +6,7 @@ lieu par toutes voies de droit.
 2. Les jugements et arrêts portant condamnation pour infraction aux lois de
 douane sont, en outre, exécutés par corps.
 
-3. Les contraintes sont exécutoires par toutes voies de droit, sauf par corps.
-L'exécution des contraintes ne peut être suspendue par aucune opposition ou
-autre acte.
+3. (alinéa abrogé).
 
 4. Lorsqu'un contrevenant vient à décéder avant d'avoir effectué le règlement
 des amendes, confiscations et autres condamnations pécuniaires prononcées contre

@@ -10,7 +10,8 @@ Par la condamnation à une peine afflictive ou infamante pendant la durée de la
 peine ;
 
 Par les circonstances qui font perdre la qualité de Français durant la privation
-de cette qualité ;
+de cette qualité, à l'exclusion de la perte de cette qualité en raison de
+l'accession à l'indépendance d'un territoire antérieurement français ;
 
 Par la participation à un acte d'hostilité contre la France s'il s'agit de
 militaires ayant servi à titre étranger.

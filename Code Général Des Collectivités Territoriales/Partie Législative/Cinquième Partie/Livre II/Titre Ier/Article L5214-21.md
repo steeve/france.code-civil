@@ -15,7 +15,7 @@ siennes.
 
 Pour l'exercice de ses compétences, la communauté de communes est également
 substituée aux communes qui en sont membres lorsque celles-ci sont groupées avec
-des communes extérieures à la communauté dans un syndicat de communes, lequel
-devient un syndicat mixte au sens de l'article L. 5711-1.. Ni les attributions
-du syndicat ni le périmètre dans lequel il exerce ses compétences ne sont
-modifiés.
+des communes extérieures à la communauté dans un syndicat de communes ou dans un
+syndicat mixte. S'il s'agit d'un syndicat de communes, ce dernier devient un
+syndicat mixte au sens de l'article L. 5711-1. Ni les attributions du syndicat,
+ni le périmètre dans lequel il exerce ses compétences ne sont modifiés.

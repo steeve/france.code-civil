@@ -1,9 +1,10 @@
 Article 413 bis
 ----
-1. Est passible d'un emprisonnement d'un mois et d'une amende de 600 F à 3 000
-F, toute infraction aux dispositions des articles 53-1, 61-1, 69 b, 71 et 117-2
-ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation
-de pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus.
+1. Est passible d'un emprisonnement d'un mois et d'une amende de 90 euros à 450
+euros, toute infraction aux dispositions des articles 53-1, 61-1, 69 b, 71 et
+117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute
+dissimulation de pièces ou d'opérations dans les cas prévus aux articles 65 et
+92 ci-dessus.
 
 2. Tombent également sous le coup des dispositions de l'alinéa précédent :
 

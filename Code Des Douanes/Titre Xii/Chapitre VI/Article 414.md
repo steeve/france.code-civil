@@ -7,7 +7,3 @@ entre une et deux fois la valeur de l'objet de fraude, tout fait de contrebande
 ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque ces
 infractions se rapportent à des marchandises de la catégorie de celles qui sont
 prohibées ou fortement taxées au sens du présent code.
-
-Les infractions portant sur des marchandises non prohibées, dont la valeur
-n'excède pas 770 euros, sont passibles d'une amende égale à la valeur desdites
-marchandises.

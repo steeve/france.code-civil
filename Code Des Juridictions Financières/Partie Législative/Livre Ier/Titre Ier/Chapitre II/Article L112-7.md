@@ -10,6 +10,6 @@ Cette disposition est également applicable aux fonctionnaires appartenant à de
 corps de même niveau de recrutement de la fonction publique de l'Etat, de la
 fonction publique territoriale, de la fonction publique hospitalière ainsi
 qu'aux agents de direction et aux agents comptables des organismes de sécurité
-sociale. Elle s'applique également, dans les conditions prévues par leur statut,
-aux fonctionnaires des assemblées parlementaires appartenant à des corps de même
-niveau de recrutement.
+sociale. Elle s'applique également, dans les conditions prévues par leur statut
+aux militaires et aux fonctionnaires des assemblées parlementaires appartenant à
+des corps de même niveau de recrutement.

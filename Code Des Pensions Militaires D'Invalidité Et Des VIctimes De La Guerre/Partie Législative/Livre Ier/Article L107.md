@@ -8,7 +8,8 @@ Par la condamnation à une peine afflictive ou infamante pendant la durée de la
 peine ;
 
 Par les circonstances qui font perdre la qualité de Français, durant la
-privation de cette qualité.
+privation de cette qualité, à l'exclusion de la perte de cette qualité en raison
+de l'accession à l'indépendance d'un territoire antérieurement français.
 
 Toutefois, ce droit pourra être restitué par mesure individuelle aux anciens
 ayants droit auxquels il aurait été supprimé en raison de la perte de leur

@@ -11,8 +11,8 @@ obligation, à peine d'être contraint de verser une astreinte mensuelle s'élev
 indiquée au 1 du présent article jusqu'à celle de l'évacuation ou de la vente
 d'office des marchandises dans les conditions fixées au 3 du présent article.
 
-3. Si la sommation reste sans effet dans le délai d'un mois, contrainte est
-décernée à l'encontre de l'entrepositaire pour le recouvrement de l'astreinte
-visée au 2 du présent article et les marchandises non évacuées de l'entrepôt
-peuvent être vendues d'office aux enchères publiques par l'administration des
-douanes.
+3. Si la sommation reste sans effet dans le délai d'un mois, avis de mise en
+recouvrement est décerné à l'encontre de l'entrepositaire pour le recouvrement
+de l'astreinte visée au 2 du présent article et les marchandises non évacuées de
+l'entrepôt peuvent être vendues d'office aux enchères publiques par
+l'administration des douanes.

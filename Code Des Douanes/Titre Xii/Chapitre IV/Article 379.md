@@ -10,5 +10,5 @@ sont encore emballées.
 2. L'administration a pareillement hypothèque sur les immeubles des redevables
 mais pour les droits seulement.
 
-3. Les contraintes douanières emportent hypothèque de la même manière et aux
+3. L'avis de mise en recouvrement emporte hypothèque de la même manière et aux
 mêmes conditions que les condamnations émanées de l'autorité judiciaire.

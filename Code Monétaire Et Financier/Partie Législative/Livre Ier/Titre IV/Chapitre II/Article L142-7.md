@@ -4,7 +4,7 @@ Le Conseil général de la Banque de France comprend les membres du Conseil de l
 politique monétaire et un représentant élu des salariés de la Banque, dont le
 mandat est de six ans.
 
-La validité des délibérations est subordonnée à la présence d'au moins six
+La validité des délibérations est subordonnée à la présence d'au moins cinq
 membres.
 
 Les décisions se prennent à la majorité des membres présents. En cas de partage,

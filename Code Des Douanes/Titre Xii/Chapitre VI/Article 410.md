@@ -1,6 +1,6 @@
 Article 410
 ----
-1. Est passible d'une amende de 2 000 F à 20 000 F toute infraction aux
+1. Est passible d'une amende de 300 euros à 3000 euros toute infraction aux
 dispositions des lois et règlements que l'administration des douanes est chargée
 d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
 présent code.

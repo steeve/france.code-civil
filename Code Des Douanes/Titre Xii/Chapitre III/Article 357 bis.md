@@ -1,5 +1,6 @@
 Article 357 bis
 ----
-Les tribunaux d'instance connaissent des contestations concernant le paiement ou
-le remboursement des droits, des oppositions à contrainte et des autres affaires
-de douane n'entrant pas dans la compétence des juridictions répressives.
+Les tribunaux d'instance connaissent des contestations concernant le paiement,
+la garantie ou le remboursement des créances de toute nature recouvrées par
+l'administration des douanes et des autres affaires de douane n'entrant pas dans
+la compétence des juridictions répressives.
