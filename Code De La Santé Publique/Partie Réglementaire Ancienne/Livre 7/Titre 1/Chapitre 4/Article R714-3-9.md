@@ -9,8 +9,8 @@ a) Exploitation de la dotation non affectée aux services hospitaliers ;
 
 b) Les unités de soins de longue durée mentionnées au 2° de l'article L. 711-2 ;
 
-c) Les établissements de transfusion sanguine régis par le décret n° 54-65 du 16
-janvier 1954 ;
+c) Les structures agréées en qualité d'établissement de transfusion sanguine en
+application du III de l'article L. 716-3.
 
 d) Chacune des activités relevant de la loi n° 75-535 du 30 juin 1975 ;
 

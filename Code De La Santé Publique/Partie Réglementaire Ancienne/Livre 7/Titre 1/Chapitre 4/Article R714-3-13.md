@@ -32,23 +32,7 @@ b) En recettes :
 
 - groupe 4 : autres produits.
 
-3° Pour les établissements de transfusion sanguine :
-
-a) En dépenses :
-
-- groupe 1 : charges d'exploitation relatives au personnel ;
-
-- groupe 2 : charges d'exploitation à caractère médical ;
-
-- groupe 3 : autres charges.
-
-b) En recettes :
-
-- groupe 1 : produits du sang et dérivés ;
-
-- groupe 2 : produits de l'activité de laboratoire ;
-
-- groupe 3 : autres produits.
+3° [*Abrogé par décret 97-406 du 21 avril 1997*]
 
 4° Pour les structures pour toxicomanes et les activités de lutte contre
 l'alcoolisme :
@@ -61,3 +45,9 @@ b) En recettes :
 - groupe 1 : subvention de l'Etat ;
 
 - groupe 2 : autres produits.
+
+Pour les structures agréées en qualité d'établissement de transfusion sanguine
+mentionnées au c de l'article R. 714-3-9, les budgets annexes sont présentés
+selon des règles particulières déterminées par un arrêté du ministre chargé du
+budget et du ministre chargé de la santé, pris après avis de l'Agence française
+du sang.
