@@ -28,6 +28,6 @@ laquelle la condamnation est devenue définitive lorsque l'intéressé est déte
 ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
 
 Une copie des documents prévus par le présent article est également adressée par
-le ministère public au juge de l'application des peines compétent ou à son
-secrétariat pour être versé dans le dossier individuel du condamné prévu par
+le ministère public au secrétariat-greffe du juge de l'application des peines
+compétent pour être versé dans le dossier individuel du condamné prévu par
 l'article D. 116-6.
