@@ -1,20 +1,11 @@
 Article D378
 ----
-Les liaisons louées dites "de sécurité publique" sont des liaisons louées louées
-aux services publics ou aux concessionnaires de service public et reconnues
-nécessaires pour assurer la sécurité publique.
+Sans préjudice des recours prévus par le droit communautaire et national, tout
+utilisateur s'estimant lésé peut saisir l'autorité réglementaire du non-respect
+des dispositions de la présente section. Après avoir entendu les parties
+concernées, celle-ci rend un avis motivé.
 
-Il s'agit :
-
-a) Des liaisons louées louées aux entrepreneurs de distribution d'énergie
-électrique et reconnues nécessaires pour assurer la sécurité de leur
-exploitation en exécution des lois et règlements en vigueur ;
-
-b) Des liaisons louées reliant les locaux de services publics aux services
-d'alerte de la police ou aux services de pompiers ;
-
-c) Des liaisons louées demandées par des services publics ou des
-concessionnaires de service public pour raccorder des installations simples de
-télécommande, télésignalisation ou télémesure (relais, sirène, horloge,
-sonnerie, indicateur de niveau d'eau, etc.) dont la commande est effectuée par
-courant continu ou par courant alternatif à très basse fréquence.
+Lorsqu'elle constate qu'il y a lieu de poursuivre l'examen du cas, l'autorité
+réglementaire peut saisir le président du comité visé à l'article 12 de la
+directive (C.E.E.) n° 92-44 relative à l'application de la fourniture d'un
+réseau ouvert aux lignes louées.
