@@ -1,140 +1,111 @@
 Article R*313-31
 ----
-Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a) doivent
+I. - Pour l'application des dispositions des sections II et IV du présent
+chapitre, les associations mentionnées au a du 2° de l'article R. 313-9 doivent
 utiliser sous leur responsabilité les sommes recueillies au titre de l'article
-R. 313-9 sous l'une ou plusieurs des formes suivantes :
+R. 313-25-1 sous l'une ou plusieurs des formes suivantes :
 
-1. Prêts à des personnes physiques en vue de faciliter :
+" 1° Prêts à des personnes physiques dans les conditions prévues à l'article R.
+313-15. Ces prêts ne doivent pas constituer un accessoire du contrat de travail.
 
-- l'acquisition et l'aménagement de terrains destinés à la construction de leur
-logement dans les conditions fixées par les articles R. 313-38 (alinéa 2) et R.
-313-39 (alinéa 2) ;
+" 2° Souscriptions de titres de sociétés immobilières dont les parts ou actions
+ne permettent pas l'attribution de logements en toute propriété ou en jouissance
+et qui réalisent des opérations prévues aux articles R. 313-16, R. 313-17 et R.
+313-18.
 
-- la construction de leur logement dans les conditions et limites fixées par
-l'article R. 313-39 (alinéa 2) ;
+" Le capital de ces sociétés doit être détenu à plus de 50 p. 100 par des
+organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.
 
-- l'acquisition, l'aménagement ou la remise en état de leur logement dans les
-conditions fixées par arrêté conjoint du ministre chargé de la construction et
-de l'habitation et du ministre chargé des finances.
+" Toutefois, le capital des sociétés prévues au a du premier alinéa de l'article
+R. 313-18 doit être détenu à au moins 95 p. 100 par ces mêmes collecteurs.
 
-Ces prêts ne doivent pas constituer un accessoire au contrat de travail.
+" 2° bis Souscriptions de titres de sociétés immobilières autres que celles
+régies par le livre II, titre Ier, chapitres Ier, II et III, du présent code,
+dont les parts ou actions ne permettent pas l'attribution de logements en toute
+propriété ou en jouissance et qui bénéficient de prêts prévus au 2° du I de
+l'article R. 313-17.
 
-2. Souscriptions de titres de sociétés immobilières dont les parts ou actions ne
-permettent par l'attribution en toute propriété ou en jouissance de logements.
+" Lorsque ces sociétés bénéficient d'un prêt visé à l'article R. 331-67, elles
+doivent respecter les plafonds de loyer et de ressources des locataires prévus
+au III de l'article R. 313-17. Ces plafonds sont expressément mentionnés dans le
+contrat de réservation prévu par l'article L. 313-1-1.
 
-Ces sociétés ont pour objet :
+" 2° ter Acquisition, à l'expiration de la durée prévue au premier alinéa de
+l'article R. 313-20, de titres des sociétés immobilières mentionnées aux 2° et
+2° bis du présent article et réalisant des opérations prévues à l'article R.
+313-17 ainsi que des sociétés immobilières locatives constituées avant la date
+d'entrée en vigueur du décret n° 75-1269 du 27 décembre 1975 à l'aide de fonds
+de la participation des employeurs à l'effort de construction.
 
-a) Soit la gestion de logements locatifs sociaux dont elles ne sont pas
-propriétaires.
+" Le prix d'acquisition des titres ne doit être supérieur ni à leur valeur dans
+la situation nette de la société, ni à la valeur pour laquelle ils ont été
+libérés majorée au maximum de 50 p. 100.
 
-Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a et b) doivent
-détenir au moins 95 p. 100 du capital de ces sociétés.
+" Une convention d'une durée minimale de vingt ans conclue entre l'Etat et la
+société dont les titres sont achetés fixe notamment, par immeuble ou groupe
+d'immeubles, le montant maximal des loyers et le plafond des ressources des
+locataires dans la limite des plafonds prévus au III de l'article R. 313-17.
 
-Les conditions de fonctionnement et d'intervention de ces sociétés sont fixées
-par décret.
+" L'acquisition est autorisée par le ministre chargé du logement, qui vérifie,
+notamment au vu de la convention mentionnée à l'alinéa précédent, que
+l'opération contribue au maintien de la vocation sociale de la société.
 
-b) Soit la construction de logements ou l'acquisition en vue de l'amélioration
-de logements existants destinés à la location ou à la vente.
+" Les titres achetés ne peuvent être cédés pendant la durée de la convention
+qu'à des organismes collecteurs de la participation des employeurs à l'effort de
+construction.
 
-Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a et b) doivent
-détenir plus de cinquante pour cent du capital de ces sociétés.
+" 3° Prêts à des sociétés immobilières réalisant des opérations définies aux
+articles R. 313-16, R. 313-17 et R. 313-18.
 
-Les conditions de fonctionnement et d'intervention de ces sociétés sont fixées
-par arrêté conjoint du ministre chargé de la construction et de l'habitation et
-du ministre chargé des finances.
+" 4° Prêts à des sociétés coopératives de construction régies par le livre II,
+titre Ier, chapitre III, du présent code, ou à des sociétés immobilières créées
+par des sociétés de crédit immobilier réalisant des opérations définies à
+l'article R. 313-16.
 
-c) Soit l'acquisition en vue de la vente ou de la location de logements
-existants ainsi qu'éventuellement la gestion temporaire, pour le compte de leurs
-propriétaires, de tels logements.
+" 5° Prêts à des personnes physiques ou morales pour des opérations prévues au
+II de l'article R. 313-17.
 
-Les organismes collecteurs mentionnés à l'article R. 313-9 (2., a et b) doivent
-détenir au moins cinquante pour cent du capital de ces sociétés.
+" 6° Prêts ou subventions à des organismes désintéressés, en vue de participer
+au financement d'opérations prévues à l'article R. 313-17.
 
-Les conditions de fonctionnement et d'intervention de ces sociétés sont fixées
-par arrêté conjoint du ministre chargé de la construction et de l'habitation et
-du ministre chargé des finances.
+" 7° Prêts ou subventions à des organismes dont l'un des objets est de
+contribuer au logement des personnes défavorisées et agréés à cet effet par le
+représentant de l'Etat dans le département, en vue de participer au financement
+d'opérations prévues à l'article R. 313-17.
 
-2. bis Souscription de titres de sociétés civiles immobilières autres que celles
-régies par le livre II, titre Ier, chapitre Ier, II et III du présent code
-(première partie), ayant pour objet la construction de logements locatifs ou
-l'acquisition en vue de l'amélioration de logements existants destinés à la
-location, et bénéficiant à cet effet de prêts prévus à l'article R. 331-1. Les
-conditions de fonctionnement et d'intervention de ces sociétés sont définies par
-arrêté conjoint du ministre chargé de la construction et de l'habitation et du
-ministre chargé des finances.
+" 8° Prêts, subventions, ou versements en vue de la souscription de titres, à
+d'autres organismes collecteurs mentionnés aux a et b du 2° de l'article R.
+313-9.
 
-3. Prêts à des sociétés mentionnées au 2. et au 2. bis ci-dessus.
+" 9° Souscription de parts ou d'actions d'organismes collecteurs mentionnés au c
+du 2° de l'article R. 313-9, ou prêts et subventions à ces organismes.
 
-4. Prêts :
+" 10° Prêts à des collectivités territoriales en vue de la participation au
+financement d'acquisitions de logements locatifs suivies, le cas échéant, de
+travaux d'amélioration, en application du 3° du premier alinéa de l'article R.
+331-14.
 
-- à des sociétés ayant pour objet la construction de logements locatifs,
-l'acquisition en vue de l'amélioration de logements destinés à la location, la
-construction ou l'acquisition en vue de leur amélioration de logements destinés
-à des locations ouvrant au locataire une faculté d'accession à la propriété ;
+" 11° Prêts à des personnes morales pour le financement d'opérations mentionnées
+au II de l'article R. 313-17 et portant sur des logements occupés ou destinés à
+être occupés par des personnes relevant du statut du personnel des exploitations
+minières et assimilées prévu par le décret n° 46-1433 du 14 juin 1946 modifié.
 
-Ces sociétés doivent se soumettre au contrôle des organismes collecteurs. Les
-conditions de ces prêts, les modalités d'occupation des logeents ainsi que
-celles du contrôle exercé par les organismes collecteurs sont déterminées par un
-convention conclue entre les sociétés et les organismes collecteurs comportant
-des clauses types approuvées par arrêté conjoint du ministre chargé de la
-construction et de l'habitation et du ministre chargé des finances.
+" 12° Versements à l'Agence nationale pour la participation des employeurs à
+l'effort de construction.
 
-5. Prêts à des personnes physiques ou morales pour le financement complémentaire
-des travaux d'aménagement ou de remise en état réalisés sur des immeubles
-existants affectés à la location, dans des conditions fixées par arrêtés du
-ministre chargé de la construction et de l'habitation et du ministre chargé des
-finances.
+" 13° Prêts à d'autres personnes morales pour la réalisation de logements de
+catégorie intermédiaire, mentionnés au d du 2° du I de l'article R. 313-17.
 
-6. Prêts ou subventions à des organismes désintéressés en vue de participer au
-financement d'opérations de construction de logements ou d'opérations
-d'acquisition, d'aménagement ou de remise en état de logements existants dans
-les conditions fixées par arrêté du ministre chargé de la construction et de
-l'habitation et du ministre chargé des finances.
+" II. - Lorsqu'il s'agit d'opérations d'aménagement de logements destinés à des
+handicapés physiques, la participation peut être investie sous forme de
+subvention.
 
-7. Participation au financement d'annexes sociales à des ensembles immobiliers
-et de leurs équipements dans la limite de 3 p. 100 des sommes recueillies.
+" Les statuts des sociétés mentionnées aux 2° et 2°bis ci-dessus doivent
+comporter des clauses types fixées par décret pour chaque catégorie de sociétés.
 
-8. Versement à d'autres organismes collecteurs sous forme de prêts ou de
-subventions ou en vue de souscriptions de titres mentionnés au 2. ci-dessus.
-
-9. Souscription de parts ou d'actions de sociétés habilitées à collecter les
-versements de la participation des employeurs en application de l'article R.
-313-9 (2., c).
-
-10. Participation sous forme de subventions ou de prêts au financement
-d'aménagement spécifique de logement pour des handicapés physiques.
-
-11. Prêts à des personnes morales pour le financement complémentaire de travaux
-d'aménagement ou de remise en état sur les immeubles existants occupés ou
-destinés à être occupés par des personnes relevant du statut du personnel des
-exploitations minières et assimilées prévu par le décret n. 46-1433 du 14 juin
-1946 modifié, dans les conditions fixées par arrêté du ministre chargé de la
-construction et de l'habitation et du ministre chargé des finances.
-
-" 12. Versements à l'agence nationale pour la participation des employeurs à
-l'effort de construction. "
-
-13. Prêts à des personnes morales qui réalisent, dans les grandes
-agglomérations, des opérations de logements locatifs à usage d'habitation
-principale dont le loyer est fixé par convention entre l'Etat et la personne
-morale et qui sont destinés à des familles dont les ressources ne dépassent pas
-un plafond fixé par arrêté du ministre chargé de la construction et de
-l'habitation.
-
-Les conditions de ces prêts, les modalités d'occupation des logements ainsi que
-celles du contrôle exercé par l'organisme collecteur sont déterminées par une
-convention conclue entre les personnes morales et les organismes collecteurs.
-
-" 14° Prêts à des personnes morales pour la construction de logements locatifs
-de catégorie intermédiaire venant en complément de prêts spécifiques consentis
-par la Caisse des dépôts et consignations ou le Crédit foncier de France.
-
-" Les contrats de prêts conclus entre lesdites personnes morales et ces derniers
-organismes doivent être conformes à un contrat de prêt type approuvé par le
-ministre chargé de la construction et de l'habitation et le ministre chargé de
-l'économie.
-
-" Les conditions des prêts accordés au titre de la participation des employeurs
-à l'effort de construction ainsi que celles du contrôle exercé par l'organisme
-collecteur sont déterminées par une convention conclue entre les personnes
-morales et les organismes collecteurs. "
+" Les prêts et subventions mentionnés au présent article font l'objet de
+conventions entre les parties. Ces conventions prévoient les conditions des
+prêts et les modalités du contrôle exercé par les collecteurs mentionnés aux a
+et b du 2° de l'article R. 313-9 ainsi que, le cas échéant, les plafonds de
+loyer et de ressources des bénéficiaires des logements concernés. Elles
+comprennent des clauses types approuvées par décret. "
