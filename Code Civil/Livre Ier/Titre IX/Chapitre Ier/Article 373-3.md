@@ -5,10 +5,9 @@ Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution pr�
 d'exercer l'autorité parentale aurait été privé de l'exercice de certains des
 attributs de cette autorité par l'effet du jugement prononcé contre lui.
 
-Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde peut
-toujours être saisi par la famille ou par le ministère public, afin de confier
-l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à
-l'article suivant.
+Néanmoins, le juge aux affaires familiales peut toujours être saisi par la
+famille ou par le ministère public, afin de confier l'enfant à un tiers, avec ou
+sans ouverture d'une tutelle, ainsi qu'il est dit à l'article suivant.
 
 Dans des circonstances exceptionnelles, le juge aux affaires familiales qui
 statue sur les modalités de l'exercice de l'autorité parentale après divorce ou
