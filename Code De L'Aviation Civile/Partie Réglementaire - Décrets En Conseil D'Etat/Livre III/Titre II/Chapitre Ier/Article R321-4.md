@@ -1,12 +1,17 @@
 Article R321-4
 ----
-En cas d'urgence, le ministre chargé des transports peut prononcer la suspension
-d'agrément prévue à l'article L. 321-7 après notification motivée à l'entreprise
-ou à l'organisme, pour une durée maximale de deux mois.
+La demande d'agrément en qualité de "chargeur connu" porte sur chaque
+établissement du demandeur. Elle doit comporter :
 
-L'agrément est retiré par le ministre chargé des transports. L'entreprise ou
-l'organisme est préalablement avisé de la mesure envisagée et dispose d'un délai
-d'un mois pour présenter ses observations.
+a) Un programme de sûreté du fret aérien ;
 
-La suspension ou le retrait peut être prononcé pour un ou plusieurs des sites
-sur lesquels l'entreprise ou l'organisme exerce son activité.
+b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme
+technique habilité visé au onzième alinéa de l'article L. 321-7.
+
+Le programme de sûreté comprend obligatoirement la description de l'activité et
+de l'organisation de l'établissement, des modalités de recours à des
+sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
+prises en application des points a, b, c, d et e de l'article R. 321-12.
+
+L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de
+l'établissement. A Paris, la compétence appartient au préfet de police.

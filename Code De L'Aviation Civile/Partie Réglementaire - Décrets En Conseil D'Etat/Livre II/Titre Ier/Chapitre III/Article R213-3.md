@@ -1,9 +1,10 @@
 Article R213-3
 ----
 Les pouvoirs de police exercés par les préfets sur l'emprise des aérodromes en
-application de l'article L. 213-2 comprennent tout ce qui concerne le bon ordre,
-la sûreté, la sécurité et la salubrité, et notamment le soin de fixer par arrêté
-:
+dehors de la zone militaire sur les aérodromes à affectation aéronautique mixte
+en application de l'article L. 213-2 comprennent tout ce qui concerne le bon
+ordre, la sûreté, la sécurité et la salubrité, et notamment le soin de fixer par
+arrêté :
 
 a) Les limites de la zone publique et de la zone réservée et, le cas échéant,
 des différents secteurs qui composent cette dernière ;
@@ -26,11 +27,8 @@ f) Les dispositions applicables sur les aires de stationnement des aéronefs, en
 plus de celles qui sont édictées par la réglementation sur la circulation
 aérienne ;
 
-g) Les mesures de protection contre l'incendie et de sauvegarde des personnes et
-des biens, notamment les modalités de commandement et de coordination lors de
-leur mise en oeuvre des moyens de secours publics et du service de sauvetage et
-de lutte contre l'incendie des aéronefs assuré par l'exploitant d'aérodrome ou
-l'organisme auquel il a confié le service en vertu de l'article L. 213-3 ;
+g) Les mesures générales de protection contre l'incendie et de sauvegarde des
+personnes et des biens ;
 
 h) Les prescriptions sanitaires ;
 
@@ -50,4 +48,9 @@ chef du service des douanes et de l'autorité militaire territorialement
 compétents. L'exploitant d'aérodrome est également consulté.
 
 Les mesures particulières d'application des règles générales ainsi définies sont
-fixées par les autorités énumérées à l'article L. 282-7.
+fixées, selon le cas, par le directeur de l'aviation civile ou son représentant,
+le directeur régional de l'aviation civile Antilles-Guyane ou son représentant,
+le chef du service de l'aviation civile ou son représentant à la Réunion, à
+Saint-Pierre-et-Miquelon et à Mayotte, le chef des services d'Etat de l'aviation
+civile en Polynésie française, en Nouvelle-Calédonie et dans les îles
+Wallis-et-Futuna.

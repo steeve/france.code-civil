@@ -14,6 +14,9 @@ L'employeur atteste par écrit de la participation de chacun des personnels et,
 le cas échéant, des personnels intérimaires à ces formations et à ces
 entraînements. Il présente les attestations aux services compétents de l'Etat.
 
+Ces entraînements et formations sont dispensés par des entreprises ou organismes
+liés par une convention avec l'Etat.
+
 II. - Le plan comprend notamment :
 
 a) L'identification des structures et des personnes qui, au sein de l'entreprise
@@ -46,4 +49,7 @@ a) Les informations figurant dans le plan, ainsi que sa structure type ;
 b) Les références et les qualifications professionnelles minimales des
 personnels dispensant les formations et les entraînements ;
 
-c) Les informations figurant dans les attestations.
+c) Les informations figurant dans les attestations ;
+
+d) Les conditions que doivent respecter les entreprises ou organismes assurant
+les formations et entraînements.

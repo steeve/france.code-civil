@@ -1,24 +1,13 @@
 Article R321-5
 ----
-Un "client connu" est une personne morale constituée en conformité avec la
-législation d'un Etat membre de l'Union européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen, qui :
+L'agrément en qualité d'"agent habilité" ou de "chargeur connu" prévu à
+l'article L. 321-7 est retiré par le préfet qui l'a délivré ou par le préfet
+compétent sur l'aérodrome lorsque des manquements aux dispositions du présent
+code sont constatés. Le titulaire de l'agrément est préalablement avisé de la
+mesure envisagée et dispose d'un délai d'un mois pour présenter ses
+observations.
 
-a) Prépare ses expéditions dans des endroits sécurisés ;
-
-b) Emploie pour la préparation des expéditions des personnels identifiés
-présentant les aptitudes requises ;
-
-c) Protège ou a fait protéger les expéditions pendant leur préparation, leur
-stockage et leur transport vers "l'expéditeur connu" ;
-
-d) Prend des dispositions pour éviter que ses expéditions contiennent un engin
-explosif ou un objet pouvant porter atteinte à la sûreté des vols et des
-personnes ;
-
-e) Accepte que l'emballage et le contenu de ses expéditions soient
-éventuellement examinés pour des raisons de sûreté.
-
-Un arrêté du ministre chargé des transports fixe les modalités de mise en oeuvre
-des dispositions ci-dessus et de délivrance d'un certificat attestant le respect
-de ces dispositions.
+En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut
+prononcer la suspension de l'agrément pour une durée maximale de deux mois, par
+décision motivée. La notification de la mesure de suspension au titulaire de
+l'agrément indique également qu'une mesure de retrait est envisagée.

@@ -5,11 +5,16 @@ des installations à usage aéronautique mentionnées à l'article L. 213-1 sont
 exercées dans les conditions définies par le présent chapitre.
 
 Les exploitants d'aérodromes, les entreprises de transport aérien, les
-entreprises qui leur sont liées par un contrat de louage de services visé au b
-de l'article L. 282-8 et les autres personnes autorisées à occuper ou utiliser
-la zone réservée définie à l'article R. 213-2 sont tenus de respecter les
-mesures édictées en vue de prévenir toute intervention illicite pouvant
-compromettre la sûreté des vols et des personnes.
+entreprises qui leur sont liées par un contrat de louage de services visé au
+deuxième alinéa de l'article L. 282-8 et les autres personnes autorisées à
+occuper ou utiliser la zone réservée définie à l'article R. 213-2 sont tenus de
+respecter les mesures édictées en vue de prévenir toute intervention illicite
+pouvant compromettre la sûreté des vols et des personnes. Ils tiennent à jour
+pour chaque aérodrome où ils exercent leur activité un programme de sûreté qui
+comprend obligatoirement la description de leur activité et de l'organisation
+qu'ils adoptent pour satisfaire à leurs obligations en matière de sûreté et
+assurer la qualité des mesures qui leur incombent, ainsi que des modalités de
+recours à la sous-traitance.
 
 Les employeurs ne peuvent faire exécuter les tâches concourant à la mise en
 oeuvre de ces mesures en zone réservée que par des personnes ayant bénéficié de
@@ -34,5 +39,9 @@ différentes selon le trafic des plates-formes, la destination des vols ou
 l'existence de circonstances spécifiques locales au regard des objectifs de
 sûreté des vols et des personnes.
 
-Les infractions à ces arrêtés sont passibles des sanctions prévues à l'article
-R. 217-1.
+Le ministre chargé des transports prend les mesures urgentes rendues nécessaires
+par une situation particulière mettant en cause la sûreté des vols et des
+personnes.
+
+Les infractions aux arrêtés et mesures pris en application du présent article
+sont passibles des sanctions prévues à l'article R. 217-1.

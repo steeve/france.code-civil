@@ -10,11 +10,11 @@ auquel appartient le rédacteur du constat.
 
 A l'expiration du délai donné à la personne concernée pour présenter ses
 observations, le préfet peut saisir la commission instituée à l'article R. 217-4
-qui lui fait une proposition sur les suites à donner.
+qui lui émet un avis sur les suites à donner.
 
 La personne concernée doit avoir connaissance de l'ensemble des éléments de son
 dossier. Elle doit pouvoir être entendue par la commission avant que celle-ci
-fasse sa proposition et se faire représenter ou assister par la personne de son
+émette son avis et se faire représenter ou assister par la personne de son
 choix. La commission peut également entendre l'employeur d'une personne physique
 mise en cause.
 

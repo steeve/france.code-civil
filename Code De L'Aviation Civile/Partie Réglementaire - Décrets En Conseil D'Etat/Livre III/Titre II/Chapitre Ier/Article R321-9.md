@@ -1,34 +1,41 @@
 Article R321-9
 ----
-I. - Le transporteur aérien n'embarque à bord des aéronefs qu'il exploite que
-des expéditions assorties de documents portant la mention "fret sécurisé". Il
-doit au préalable avoir effectué ou fait effectuer une visite de sûreté des
-expéditions selon les modalités prévues à l'article R. 321-10.
+I. - Pour chaque expédition qui lui est confiée, le transporteur aérien doit :
 
-II. - Il n'est dispensé de cette obligation que dans les cas suivants :
+- établir l'état descriptif de l'expédition qui en est dépourvue ;
 
-a) Expéditions présentées par un "expéditeur connu" avec la mention "fret
-sécurisé" ;
+- établir le certificat de sûreté de l'expédition qui en est dépourvue ;
 
-b) Expéditions en transit, lorsqu'elles proviennent d'un Etat mettant en oeuvre
-un programme similaire concernant la sûreté du fret ou lorsque le transporteur
-aérien concerné a lui-même appliqué ou fait appliquer au départ des mesures de
-sûreté équivalentes à celles prévues au présent chapitre et ayant fait l'objet
-d'une approbation selon les modalités définies par un arrêté du ministre chargé
-des transports ;
+- porter sur le certificat de sûreté la mention des opérations qu'il effectue en
+application des dispositions du présent article ;
 
-c) Expéditions exemptées ou faisant l'objet de règles particulières en
-application de l'article R. 321-11.
+- et conserver pendant au moins trois mois une copie de ce certificat.
 
-III. - Lorsque l'expédition est remise par un "expéditeur connu" avec la mention
-"fret non sécurisé en provenance d'un client connu", le transporteur aérien
-procède à l'échantillonnage prévu à l'article R. 321-7-2 et à une visite de
-sûreté de cet échantillonnage.
+II. - Le transporteur aérien peut embarquer à bord des aéronefs qu'il exploite
+l'expédition dont l'état de l'emballage ne révèle pas d'anomalie et dont les
+documents l'accompagnant lui permettent d'établir qu'elle entre dans l'un des
+cas suivants :
 
-IV. - Le transporteur aérien appose ou fait apposer la mention "fret sécurisé"
-sur les documents accompagnant les expéditions qui ont été soumises aux visites
-de sûreté mentionnées aux I et III ci-dessus.
+a) L'expédition provient d'un Etat mettant en oeuvre un programme similaire de
+la sûreté du fret aérien et est apte au transport aérien en application de ce
+programme ;
 
-V. - Les dispositions du présent article ne font pas obstacle aux contrôles qui
-peuvent être imposés sur certains vols ou dans certaines circonstances en
+b) L'expédition est en transit en provenance d'un autre Etat et le transporteur
+aérien a appliqué au départ des mesures de sûreté équivalentes à celles prévues
+au présent chapitre ;
+
+c) L'expédition est remise par un "agent habilité" qui l'a déclarée apte au
+transport aérien en application des dispositions de l'article R. 321-7.
+
+Le transporteur aérien peut également embarquer à bord des aéronefs qu'il
+exploite l'expédition pour laquelle il a au préalable établi l'aptitude au
+transport aérien en ayant effectué une visite de sûreté selon les modalités
+prévues à l'article R. 321-10 ou en application des règles particulières ou des
+exemptions prévues à l'article R. 321-11.
+
+Dans les autres cas, le transporteur aérien n'embarque pas l'expédition à bord
+de ses aéronefs.
+
+III. - Les dispositions du présent article ne font pas obstacle aux contrôles
+qui peuvent être imposés sur certains vols ou dans certaines circonstances, en
 application de l'article L. 282-8.
