@@ -65,6 +65,8 @@ Résines dérivées du para-tert-butylphénol et du para-tert-butylcatéchol ;
 
 Dicyclohexylcarbodiimide.
 
+Glutaraldéhyde.
+
 B. - Produits végétaux ou d'origine végétale :
 
 Produits d'extraction du pin, notamment essence de térébenthine, colophane et

@@ -67,5 +67,7 @@ Travaux de laboratoire de biologie.
 
 Travaux de laboratoire de bactériologie.
 
-Travaux effectués à l'occasion du prélèvement ou de la manipulation des produits
-pathologiques ou de matériel contaminé.
+Tous travaux effectués par le personnel de soins et assimilé, de laboratoire,
+d'entretien, de service ou des services sociaux mettant le personnel au contact
+de produits contaminés ou de malades dont les examens bactériologiques ont été
+positifs.
