@@ -1,23 +1,21 @@
 Article L132-22
 ----
-Les modalités de calcul de la valeur de rachat sont déterminées par un règlement
-général mentionné dans la police et établi par l'assureur après avis de
-l'autorité administrative.
+Pour les contrats souscrits ou transformés depuis le 1er janvier 1982, et aussi
+longtemps qu'ils donnent lieu à paiement de prime, l'assureur doit communiquer
+chaque année au contractant les montants respectifs de la valeur de rachat, de
+la valeur de réduction, des capitaux garantis et de la prime du contrat.
 
-Dès la signature du contrat, l'assureur informe le contractant que ce règlement
-général est tenu à sa disposition sur sa demande. L'assureur doit communiquer au
-contractant, sur la demande de celui-ci, le texte du règlement général.
+Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne
+seraient pas attribuées à titre définitif.
 
-L'assureur doit, en outre, communiquer au contractant le montant de la valeur de
-rachat à l'échéance annuelle de la prime et préciser en termes intelligibles
-dans cette communication ce que signifie l'opération de rachat et quelles sont
-ses conséquences légales et contractuelles.
+L'assureur doit préciser em termes précis et clairs dans cette communication ce
+que signifient les opérations de rachat et de réduction et quelles sont leurs
+conséquences légales et contractuelles.
 
-Dans la limite de cette valeur, l'assureur peut consentir des avances au
-contractant.
+Pour les contrats ne donnant plus lieu à paiement de prime et pour les contrats
+souscrits ou transformés avant le 1er janvier 1982, les informations visées
+ci-dessus ne sont communiquées pour une année donnée qu'au contractant qui en
+fait la demande.
 
-Sauf dans le cas de circonstances exceptionnelles constaté par décret,
-l'assureur doit, à la demande du contractant, verser à celui-ci la valeur de
-rachat du contrat, dans un délai qui ne peut excéder deux mois. les intérêts de
-retard au taux légal courent de plein droit à compter de l'expiration de ce
-délai.
+Le contrat doit faire référence à l'obligation d'information prévue aux alinéas
+précédents.
