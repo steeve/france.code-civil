@@ -8,6 +8,3 @@ La cotisation d'assurance maladie prévue par le deuxième alinéa de l'article 
 - les avantages de retraite des bénéficiaires du régime local d'assurance
 maladie mentionnés à l'article D. 711-6 donnant lieu à cotisation d'assurance
 maladie en application de l'article L. 711-2 (2°).
-
-Le taux de cette cotisation est fixé à 1 p. 100 pour les avantages de retraite
-servis entre le 1er janvier 1994 et le 31 décembre 1994.
