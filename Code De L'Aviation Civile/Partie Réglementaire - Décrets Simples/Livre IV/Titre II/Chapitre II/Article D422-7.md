@@ -19,10 +19,9 @@ service public sur ordre du Gouvernement constatant la nécessité de la
 dérogation. La limite est à fixer par le ministre chargé de l'aviation civile.
 
 4. Travaux urgents en cas de surcroît de travail sans que toutefois ceux-ci
-puissent avoir pour effet ni de porter à plus de 900 heures le nombre total des
-heures de vol annuelles ni d'entraîner le dépassement des maxima prévus à
-l'article D. 422-4 pour un mois considéré isolément, pour deux mois civils
-consécutifs et pour trois mois consécutifs.
+puissent avoir pour effet d'entraîner le dépassement des durées maximales
+prévues à l'article D. 422-4-1, pour un mois, pour trois mois consécutifs et
+pour l'année.
 
 Les heures supplémentaires sont effectuées dans les conditions prévues et sous
 réserve des autorisations spécifiées par la législation en vigueur.

@@ -6,7 +6,12 @@ Indépendamment des temps d'arrêt qui suivent obligatoirement les périodes de
 vol, le personnel navigant bénéficie à sa base d'affectation :
 
 a) D'au moins un temps d'arrêt par semaine dont la durée ne peut être inférieure
-à 36 heures consécutives s'il est affecté aux petits et moyens parcours ;
+à 36 heures consécutives s'il est affecté aux petits et moyens parcours.
+
+Pour les personnels des entreprises relevant de la section 2, le temps d'arrêt
+périodique peut s'achever le premier jour de la semaine suivante à la condition
+que son attribution garantisse au moins 24 heures consécutives au cours de
+chaque semaine ;
 
 b) D'un temps d'arrêt au moins égal à quatre jours consécutifs par mois s'il est
 affecté aux longs parcours ;
