@@ -36,6 +36,9 @@ décret n° 75-102 du 20 février 1975 modifiant certaines dispositions relative
 aux conditions de déduction de la taxe sur la valeur ajoutée qui a grevé des
 biens constituant des immobilisations.
 
+Elle ne concerne pas les autres biens constituant des immobilisations lorsque le
+redevable justifie qu'ils lui ont été volés.
+
 IV. Sous réserve que le bien constitue une immobilisation pour le bénéficiaire
 de la cession, de l'apport ou du transfert, celui-ci peut opérer la déduction de
 la taxe ayant initialement grevé le bien diminuée dans les conditions précitées.
