@@ -75,9 +75,8 @@ directement un prélèvement au profit du fonds départemental de péréquation 
 taxe professionnelle égal au produit du montant des bases excédentaires par le
 taux de taxe professionnelle du district.
 
-((I quinquies. La moyenne des bases de taxe professionnelle par habitant à
-retenir pour l'application en Corse des I, I ter et I quater est multipliée par
-0,75)) (M).
+I quinquies. La moyenne des bases de taxe professionnelle par habitant à retenir
+pour l'application en Corse des I, I ter et I quater est multipliée par 0,75.
 
 II. Les ressources du fond sont réparties par le conseil général si les
 collectivités concernées sont situées dans les limites d'un même département, ou
@@ -141,34 +140,44 @@ concernées, telles qu'elles sont définies au 2° du II (2).
 Pour l'application du présent paragraphe, chaque unité de production ou de
 traitement est considérée comme un établissement.
 
-IV. A défaut d'accord prévu au II sur le plan interdépartemental et au III, la
-répartition est effectuée par arrêté du ministre de l'intérieur.
+IV. ((A défaut de l'accord prévu au sein de la commission interdépartementale
+par le II et le IV bis ou entre les communes d'implantation et les communes
+concernées par le III)) (M) la répartition est effectuée par arrêté du ministre
+de l'intérieur.
 
 IV bis. 1° Sur la partie du fonds alimentée par l'écrêtement des bases des
 groupements soumis, de plein droit ou après option, aux dispositions fiscales de
-l'article 1609 nonies C, le conseil général prélève, par priorité, au profit du
-groupement dont les bases ont été écrêtées, 20 p. 100 au moins et 40 p. 100 au
-plus du montant de l'écrêtement.
+l'article 1609 nonies C, le conseil général ((ou, le cas échéant, la commission
+interdépartementale)) (M) prélève, par priorité, au profit du groupement dont
+les bases ont été écrêtées, 20 p. 100 au moins et 40 p. 100 au plus du montant
+de l'écrêtement.
 
-Le solde est réparti :
+((Le conseil général ou, le cas échéant, la commission interdépartementale
+répartit le solde :
 
-a) Par priorité, au profit des communes ou syndicats de communes bénéficiaires
-des ressources et à concurrence du montant de l'écrêtement, les sommes qui leur
-sont nécessaires pour permettre le remboursement des annuités d'emprunts
-contractés par eux avant le 1er juillet 1975 ;
+((a) Par priorité, et à concurrence du montant de l'écrêtement, au profit des
+communes ou syndicats de communes bénéficiaires des ressources, pour le
+remboursement des annuités d'emprunts contractés par eux avant le 1er juillet
+1975 ;
 
-b) Ensuite, d'une part, entre les groupements de communes à fiscalité propre,
-les syndicats utilisant les dispositions de partage de taxe professionnelle de
-l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la
-fiscalité directe locale et les communes défavorisées par la faiblesse de leur
-potentiel fiscal ou l'importance de leurs charges, d'autre part, entre les
-communes qui répondent aux conditions déterminées au 2° du II et au III de
-l'article 1648 A.
+((b) Entre les communes et les groupements de communes à fiscalité propre
+défavorisés par la faiblesse de leur potentiel fiscal ou l'importance de leurs
+charges ;
+
+((c) Entre les communes qui répondent aux conditions fixées au 2° du II)) (M).
 
 2° Sur la partie du fonds alimentée par l'écrêtement des bases des groupements à
-fiscalité propre, le conseil général prélève, par priorité, au profit du
-groupement dont les bases ont été écrêtées, deux tiers au moins, trois quarts au
-plus du montant de l'écrêtement.
+fiscalité propre, le conseil général ((ou, le cas échéant, la commission
+interdépartementale)) prélève, par priorité, au profit du groupement dont les
+bases ont été écrêtées, deux tiers au moins, trois quarts au plus du montant de
+l'écrêtement. ((Cette proportion est fixée de telle sorte que les communes
+bénéficiaires du fonds ne subissent pas, d'une année sur l'autre, une diminution
+excessive du montant de leur attribution liée à cette affectation prioritaire.
+
+((A compter du 1er janvier 1996, le prélèvement au profit du groupement dont les
+bases ont été écrêtées est fixé à 30 p. 100 au moins et 60 p. 100 au plus du
+montant de l'écrêtement, lorsque le groupement a été créé après le 31 décembre
+1992)) (M).
 
 Dans le cas où l'écrêtement concerne les bases d'établissements installés sur
 une zone d'activités économiques et assujetties aux dispositions du II de
@@ -176,21 +185,19 @@ l'article 1609 quinquies C du présent code, ce reversement ne peut être
 inférieur aux annuités des emprunts contractés pour l'équipement de cette zone
 dans la limite des ressources prélevées par l'écrêtement.
 
-Le solde éventuel est réparti entre les groupements à fiscalité propre ou les
-syndicats utilisant les dispositions de partage de taxe professionnelle de
-l'article 11 de la loi n° 80-10 du 10 janvier 1980 précitée défavorisés par la
-faiblesse de leur potentiel fiscal ou l'importance de leurs charges.
+((Le conseil général ou, le cas échéant, la commission interdépartementale
+répartit le solde dans les conditions prévues au deuxième alinéa du 1°)) (M).
 
 V. Une fraction des recettes départementales de la taxe professionnelle peut
 également être affectée au fonds par décision du conseil général. Ce supplément
 de recettes est réparti par lui entre les communes suivant les critères qu'il
 détermine.
 
-V bis - (Devenu sans objet).
+V bis. (Devenu sans objet).
 
-V ter - Pour l'application des paragraphes II et suivants, le potentiel fiscal
-de chaque commune membre d'une communauté ou d'un syndicat d'agglomération
-nouvelle visés à l'article 1609 nonies B est calculé de la façon suivante :
+V ter. Pour l'application des paragraphes II et suivants, le potentiel fiscal de
+chaque commune membre d'une communauté ou d'un syndicat d'agglomération nouvelle
+visés à l'article 1609 nonies B est calculé de la façon suivante :
 
 a. Pour la première année de fonctionnement de la communauté ou du syndicat
 d'agglomération nouvelle, le potentiel fiscal de chaque commune intègre, au
@@ -199,15 +206,15 @@ l'ensemble de l'agglomération, proportionnelle à la population de la commune ;
 
 b. A compter de la seconde année de fonctionnement de la communauté ou du
 syndicat d'agglomération nouvelle, le potentiel fiscal de chaque commune est
-celui qui est défini au premier alinéa de l'article 31 de la loi n° 83-636 du 13
-juillet 1983 modifiée.
+celui qui est défini ((à l'article L5334-16 du code général des collectivités
+territoriales)) (M).
 
 VI. Les conditions d'application du présent article sont fixées par décret en
 Conseil d'Etat (2).
 
 (1) Cette disposition a un caractère interprétatif.
 
-(M) Modification.
-
 (2) Voir annexe II, art. 328 à 328 B et décret n° 81-120 du 6 février 1981 (J.O.
 des 9 et 10).
+
+(M) Modifications.

@@ -9,8 +9,10 @@ des ordures, déchets et résidus ;
 
 b) La taxe de balayage ;
 
-c) ((La taxe de séjour, lorsqu'elle répond aux conditions fixées à l'article L.
-233-45 du code des communes)) (M) ; d) La taxe sur la publicité mentionnée à
-l'article L. 233-15 du code des communes.
+c) La taxe de séjour, lorsqu'elle répond aux conditions fixées ((aux articles L.
+5211-27 et L. 5722-6 du code général des collectivités territoriales)) (M) ;
 
-(M) Modification de la loi 95-885.
+d) La taxe sur la publicité mentionnée ((aux articles L. 2333-6 et L. 2333-17 du
+code général des collectivités territoriales)) (M).
+
+(M) Modification de la loi 96-142.

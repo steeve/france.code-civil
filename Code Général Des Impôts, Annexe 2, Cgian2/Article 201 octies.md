@@ -7,10 +7,10 @@ la liquidation, au paiement, au contrôle et au contentieux de cette taxe leur
 sont applicables.
 
 Chaque service couvert par l'option, doit faire l'objet, conformément au code
-des communes, d'une comptabilité distincte s'inspirant du Plan comptable général
-faisant apparaître un équilibre entre :
+général des collectivités territoriales d'une comptabilité distincte s'inspirant
+du Plan comptable général faisant apparaître un équilibre entre :
 
-- d'une part, l'ensemble des charges du service, y compris les amortissements
+d'une part, l'ensemble des charges du service, y compris les amortissements
 techniques des immobilisations ;
 
-- d'autre part, l'ensemble des produits et recettes du service.
+d'autre part, l'ensemble des produits et recettes du service.

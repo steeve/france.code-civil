@@ -65,10 +65,10 @@ de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'obje
 d'une cession à titre onéreux à une personne n'intervenant pas en qualité de
 marchand de biens ;
 
-((2 bis Le transfert de propriété à titre onéreux d'un immeuble bâti d'une
-commune à une communauté de communes, en application du troisième alinéa de
-l'article L. 167-3 du code des communes, n'est pas pris en compte pour
-l'application du 2)) (M).
+2 bis Le transfert de propriété à titre onéreux d'un immeuble bâti d'une commune
+à une communauté de communes, ((en application du premier alinéa de l'article L.
+5214-18 du code général des collectivités territoriales)) (M), n'est pas pris en
+compte pour l'application du 2.
 
 3. Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment
 en vue de la construction de maisons individuelles par des personnes physiques
@@ -172,14 +172,14 @@ besoin, par des arrêtés du ministre de l'économie et des finances (6) ;
 16° et 17° (Abrogés) ;
 
 18° La redevance pour droit d'usage des appareils récepteurs de télévision
-prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 ((modifiée)) (M)
-relative à la liberté de communication ;
+prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relative
+à la liberté de communication ;
 
 19° Les sommes attribuées par les sociétés de course au titre des gains de
 course réalisés par les entraîneurs pour les chevaux dont ils sont
 propriétaires.
 
-(1) Voir Annexe II, art. 243 à 259. [*Cf. Instruction 1996-01-03 8A-1-96.*]
+(1) Voir Annexe II, art. 243 à 259. [*Cf. Instruction 1996-01-03 8A-1-96*].
 
 (M) Modification.
 

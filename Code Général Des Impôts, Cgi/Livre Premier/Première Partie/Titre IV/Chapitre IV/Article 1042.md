@@ -3,7 +3,7 @@ Article 1042
 I - Sous réserve des dispositions de l'article 257 7°, les acquisitions
 immobilière faites à l'amiable et à titre onéreux par les communes ou syndicats
 de communes, les établissements publics fonciers créés en application des
-articles L. 324-1 et suivants du code de l'urbanisme (1), les départements, les
+articles L. 324-1 et suivants du code de l'urbanisme, les départements, les
 régions et par les établissements publics communaux, départementaux ou régionaux
 ne donnent lieu à aucune perception au profit du Trésor.
 
@@ -15,12 +15,10 @@ que la délibération de l'autorité compétente pour décider l'opération fass
 référence aux dispositions législatives en cause et soit annexée à l'acte.
 
 II - Les acquisitions d'actions réalisées par les communes, les départements,
-les régions et leurs groupements dans le cadre de l'article premier de la loi n°
-83-597 du 7 juillet 1983 modifiée sur les sociétés d'économie mixte locales ne
-donnent lieu à aucune perception au profit du Trésor, sous réserve que la
-décision de l'assemblée délibérante compétente pour décider de l'opération fasse
-référence à la disposition législative en cause et soit annexée à l'acte.
+les régions et leurs groupements dans le cadre de ((l'article L. 1522-1 du code
+général des collectivités territoriales)) (M) ne donnent lieu à aucune
+perception au profit du Trésor, sous réserve que la décision de l'assemblée
+délibérante compétente pour décider de l'opération fasse référence à la
+disposition législative en cause et soit annexée à l'acte.
 
-(1) Pour l'application de cette disposition, les dispositions de l'article 2 de
-la loi n° 86-29 du 9 janvier 1986 portant dispositions diverses relatives aux
-collectivités locales ne sont pas applicables.
+(M) Modification.
