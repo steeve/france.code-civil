@@ -5,8 +5,8 @@ redevables de la taxe d'apprentissage par l'intermédiaire d'un des organismes
 collecteurs mentionnés à l'article L. 118-2-4. Le produit des versements
 effectués à ce titre est intégralement reversé aux fonds régionaux
 d'apprentissage et de formation professionnelle continue selon des modalités
-fixées par décret pris après avis du Comité de coordination des programmes
-régionaux d'apprentissage et de formation professionnelle continue.
+fixées par décret pris après avis, émis dans des conditions définies par décret,
+du Conseil national de la formation professionnelle tout au long de la vie.
 
 Les sommes reversées aux fonds régionaux de l'apprentissage et de la formation
 professionnelle continue au titre du premier alinéa sont exclusivement affectées
