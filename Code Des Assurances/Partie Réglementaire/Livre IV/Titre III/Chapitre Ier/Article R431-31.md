@@ -3,7 +3,8 @@ Article R431-31
 La caisse centrale de réassurance ne peut apporter sa couverture au titre de
 l'article R. 431-30 que si les conditions suivantes sont remplies :
 
-a) Les biens et activités sont situés en France métropolitaine ;
+a) Les biens et activités sont situés en France métropolitaine ou dans les
+départements d'outre-mer ;
 
 b) L'état de catastrophe naturelle a été constaté par un arrêté interministériel
 pris en application de l'article L. 125-1 ;
@@ -13,8 +14,8 @@ contrats d'assurance est conforme à celle définie par les clauses types
 mentionnées à l'article L. 125-3 ;
 
 d) Les biens ou activités concernés sont garantis contre les effets des
-catastrophes naturelles par une entreprise d'assurance agréée en France ou
-dispensée de l'agrément administratif en application de l'article L. 321-4.
+catastrophes naturelles par une entreprise d'assurance pratiquant en France les
+risques correspondants.
 
 Si la condition prévue au c n'est pas remplie, la caisse centrale de réassurance
 peut, par dérogation aux dispositions de l'alinéa ci-dessus, apporter sa

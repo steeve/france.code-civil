@@ -1,13 +1,13 @@
 Article R431-33
 ----
 Les opérations financières et comptables du Fonds national de garantie des
-calamités agricoles sont effectuées par le président du conseil
-d'administration, directeur général de la caisse centrale de réassurance,
-assisté d'une commission comprenant trois représentants du ministre chargé de
-l'économie et des finances et trois représentants du ministre de l'agriculture.
+calamités agricoles sont effectuées par le président du conseil d'administration
+de la Caisse centrale de réassurance, assisté d'une commission comprenant trois
+représentants du ministre chargé de l'économie et des finances et trois
+représentants du ministre de l'agriculture.
 
-Dans le cadre de ces opérations, le président du conseil d'administration,
-directeur général de la caisse centrale de réassurance :
+Dans le cadre de ces opérations, le président du conseil d'administration de la
+caisse centrale de réassurance :
 
 Fournit à la commission nationale des calamités agricoles, sur sa demande, les
 éléments comptables et financiers qui sont nécessaires à l'accomplissement de sa
