@@ -1,8 +1,6 @@
 Article D122-4
 ----
-Au vu de ces documents, le juge rend une ordonnance portant injonction de payer.
-La requête et l'ordonnance sont conservées au secrétariat-greffe, à titre de
-minute.
-
-Les documents produits sont provisoirement conservés au secrétariat-greffe
-[*lieu*].
+Les listes [*de personnes pouvant assister le salarié lors de l'entretien
+préalable*] visées à l'article D. 122-3 sont soumises à révision tous les trois
+ans [*périodicité*] Elles peuvent être complétées à toute époque en cas de
+besoin.
