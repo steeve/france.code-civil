@@ -4,14 +4,38 @@ Le tableau ci-après détermine les prescriptions du présent chapitre qui donne
 lieu à l'application de la procédure de mise en demeure prévue à l'article L.
 231-4, ainsi que le délai minimum d'exécution :
 
-Article R. 233-1 : huit jours ;
+(A) : PRESCRIPTIONS pour lesquelles est prévue la mise en demeure
 
-Article R. 233-1-3 : huit jours ;
+(B) : DÉLAI MINIMUM d'exécution des mises en demeure
 
-Article R. 233-2 (alinéa 2) : huit jours ;
+!-------------------------------------!
 
-Article R. 233-6 (alinéas 3 et 4) : trois mois ;
+! A ! B !
 
-Article R. 233-43 (alinéa 2) : huit jours.
+!-------------------------!-----------!
 
-Article R. 233-46 (alinéa 2 et 3) : 1 mois.
+! Article R. 233-1 ! 8 jours !
+
+! Article R. 233-1-3 ! 8 jours !
+
+! Article R. 233-2 ! !
+
+! (alinéa 3) ! 8 jours !
+
+! Article R. 233-6 ! !
+
+! (alinéa 4) ! 3 mois !
+
+! Article R. 233-13-16 ! !
+
+! (alinéa 1) ! 3 mois !
+
+! Article R. 233-43 ! !
+
+! (alinéa 2) ! 8 jours !
+
+! Article R. 233-46 ! !
+
+! (alinéas 2 et 3) ! 1 mois !
+
+!-------------------------!-----------!
