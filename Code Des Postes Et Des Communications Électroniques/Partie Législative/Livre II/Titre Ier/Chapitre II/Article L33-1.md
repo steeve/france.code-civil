@@ -45,14 +45,14 @@ k) la durée, les conditions de cessation et de renouvellement de l'autorisation
 II. - Sous réserve des engagements internationaux souscrits par la France
 comportant une clause de réciprocité applicable au secteur des
 télécommunications, l'autorisation visée au présent article ne peut être
-accordée à une société dans laquelle plus de 20 p. 100 du capital social ou des
+accordée à une société dans laquelle plus de 20 % du capital social ou des
 droits de vote sont détenus, directement ou indirectement, par des personnes de
 nationalité étrangère.
 
 De même, aucune personne de nationalité étrangère ne peut procéder à une
 acquisition ayant pour effet de porter, directement ou indirectement, la part
-détenue par des personnes de nationalité étrangère à plus de 20 p. 100 du
-capital social ou des droits de vote dans les assemblées générales d'une société
+détenue par des personnes de nationalité étrangère à plus de 20 % du capital
+social ou des droits de vote dans les assemblées générales d'une société
 titulaire d'une autorisation.
 
 Est considérée comme personne de nationalité étrangère, pour l'application du
@@ -61,5 +61,5 @@ dont la majorité du capital social n'est pas détenue, directement ou
 indirectement, par des personnes physiques ou morales de nationalité française.
 
 Les dispositions du présent paragraphe ne sont pas applicables aux personnes,
-physiques ou morales, ressortissant d'un Etat membre des Communautés
-européennes.
+physiques ou morales, ressortissant d'un Etat membre des Communautés européennes
+ou d'un aute Etat partie à l'accord sur l'Espace économique européen.

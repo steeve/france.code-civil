@@ -8,8 +8,12 @@ excuses légitimes le propriétaire du brevet ou son ayant cause :
 
 a) N'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux
 pour exploiter l'invention objet du brevet sur le territoire d'un Etat membre de
-la Communauté économique européenne ; b) N'a pas commercialisé le produit objet
-du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
+la Communauté économique européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen.
 
-Il en est de même lorsque l'exploitation ou la commercialisation en France a été
-abandonnée depuis plus de trois ans.
+b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour
+satisfaire aux besoins du marché français.
+
+Il en est de même lorsque l'exploitation prévue au a) ci-dessus ou la
+commercialisation prévue au b) ci-dessus a été abandonnée depuis plus de trois
+ans.

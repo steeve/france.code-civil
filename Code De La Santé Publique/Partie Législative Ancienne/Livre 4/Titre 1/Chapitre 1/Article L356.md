@@ -12,10 +12,11 @@ loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27
 juillet 1937) ;
 
 2° De nationalité française ou ressortissant de l'un des Etats membres de la
-communauté économique européenne, du Maroc ou de la Tunisie, sous réserve de
-l'application, le cas échéant, soit des règles fixées aux alinéas 4 à 9 du
-présent article, soit de celles qui découlent d'engagements internationaux
-autres que ceux mentionnés à l'alinéa 4 ci-après.
+communauté européenne ou des autres Etats parties à l'accord sur l'Espace
+économique européen, du Maroc ou de la Tunisie, sous réserve de l'application,
+le cas échéant, soit des règles fixées aux alinéas 4 à 9 du présent article,
+soit de celles qui découlent d'engagements internationaux autres que ceux
+mentionnés à l'alinéa 4 ci-après.
 
 Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes
 ou sages-femmes nationaux français ou ressortissants français, le droit
@@ -58,25 +59,21 @@ organisme étranger, a obtenu la reconnaissance d'utilité publique avant le 10
 juin 1949 [*date*], le ministre de la santé publique et de la population peut
 autoriser, par arrêté individuel, certains praticiens attachés à cet
 établissement à exercer leur art en France, par dérogation aux dispositions des
-paragraphes 1er et 2ème du présent article et après avis des organisations
+paragraphes 1° et 2° du présent article et après avis des organisations
 nationales intéressées. Ces praticiens devront être inscrits au tableau de
-l'ordre intéressé.
-
-Le nombre maximum par établissement hospitalier de ces praticiens autorisés est
-fixé par arrêté conjoint du ministre de la santé publique et de la population et
-du ministre des affaires étrangères, et l'autorisation n'est valable que pour la
-période durant laquelle lesdits praticiens sont effectivement attachés à cet
-établissement ;
+l'ordre intéressé. Le nombre maximum par établissement hospitalier de ces
+praticiens autorisés est fixé par arrêté conjoint du ministre de la santé
+publique et de la population et du ministre des affaires étrangères, et
+l'autorisation n'est valable que pour la période durant laquelle lesdits
+praticiens sont effectivement attachés à cet établissement ;
 
 3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des
 chirurgiens-dentistes ou à un tableau de l'ordre des sages-femmes ;
 
 Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins,
 chirurgiens-dentistes et sages-femmes appartenant aux cadres actifs du service
-de santé des armées.
-
-Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes ou
-sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent
-titulaire d'une collectivité locale ne sont pas appelés, dans l'exercice de
-leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les
-actes entrant dans la définition de la profession de sage-femme.
+de santé des armées. Elle ne s'applique pas non plus à ceux des médecins,
+chirurgiens-dentistes ou sages-femmes qui, ayant la qualité de fonctionnaire de
+l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas appelés, dans
+l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à
+pratiquer les actes entrant dans la définition de la profession de sage-femme.

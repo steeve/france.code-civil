@@ -22,7 +22,8 @@ télécommunications et en radiocommunications des personnes appelées à raccor
 
 Les équipements terminaux ou installations soumis à l'agrément mentionné
 ci-dessus ne peuvent être fabriqués pour le marché intérieur, importés, pour la
-mise à la consommation, de pays n'appartenant pas aux Communautés européennes,
-détenus en vue de la vente, mis en vente, distribués à titre gratuit ou onéreux,
-connectés à un réseau ouvert au public ou faire l'objet de publicité que s'ils
-ont fait l'objet de cet agrément et sont à tout moment conformes à celui-ci.
+mise à la consommation, de pays n'appartenant pas aux Communautés européennes ou
+à l'espace économique européen, détenus en vue de la vente, mis en vente,
+distribués à titre gratuit ou onéreux, connectés à un réseau ouvert au public ou
+faire l'objet de publicité que s'ils ont fait l'objet de cet agrément et sont à
+tout moment conformes à celui-ci.

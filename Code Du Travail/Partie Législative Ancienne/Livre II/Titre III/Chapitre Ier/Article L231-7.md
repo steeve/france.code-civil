@@ -11,14 +11,15 @@ d'établissement ou des travailleurs indépendants.
 
 Avant toute mise sur le marché, soit en l'état, soit au sein d'une préparation,
 à titre onéreux ou gratuit, d'une substance chimique qui n'a pas fait l'objet
-d'une mise sur le marché d'un Etat membre des Communautés européennes [*date
-limite*] avant le 18 septembre 1981, tout fabricant ou importateur doit fournir
-à un organisme agréé par le ministre chargé du travail les informations
-nécessaires à l'appréciation des risques encourus par les travailleurs
-susceptibles d'être exposés à cette substance.
+d'une mise sur le marché d'un Etat membre des Communautés européennes ou d'un
+autre Etat partie à l'accord sur l'Espace économique européen avant le 18
+septembre 1981, tout fabricant ou importateur doit fournir à un organisme agréé
+par le ministre chargé du travail les informations nécessaires à l'appréciation
+des risques encourus par les travailleurs susceptibles d'être exposés à cette
+substance.
 
 Les fabricants, les importateurs ou les vendeurs de substances ou de
-préparations dangereuses destinées à ^etre utilisées dans des établissements
+préparations dangereuses destinées à être utilisées dans des établissements
 mentionnés à l'article L. 231-1 doivent, dans les conditions définies par décret
 en Conseil d'Etat, fournir à un organisme agréé par les ministres chargés du
 travail et de l'agriculture toutes les informations nécessaires sur ces
@@ -30,12 +31,13 @@ les informations sont fournies par l'organisme agréé, les personnes qui y ont
 accès et les modalités selon lesquelles sont préservés les secrets de
 fabrication.
 
-Toutefois, les dispositions précédentes ne s'appliquent pas:
+Toutefois, les dispositions précédentes ne s'appliquent pas :
 
--à l'importateur d'une substance en provenance d'un Etat membre des Communautés
-européennes, si cette substance y a fait l'objet d'une mise sur le marché
+- à l'importateur d'une substance en provenance d'un Etat membre des Communautés
+européennes ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen, si cette substance y a fait l'objet d'une mise sur le marché
 conformément aux règles nationales prises pour l'application des directives du
-conseil des Communautés européennes;
+conseil des Communautés européennes ;
 
 - au fabricant ou à l'importateur de certaines catégories de substances ou
 préparations, définies par décret en Conseil d'Etat, et soumises à d'autres
@@ -46,16 +48,16 @@ Obligation peut, en outre, être faite aux fabricants, importateurs et vendeurs
 susvisés de participer à la conservation et à l'exploitation de ces informations
 et de contribuer à la couverture des dépenses qui en résultent.
 
-Par ailleurs, l'inspecteur du travail [*compétence*] peut, après avis du médecin
-du travail, mettre en demeure le chef d'établissement de faire procéder, par des
-organismes agréés par le ministère du travail, à des analyses des produits visés
-au premier alinéa du présent article, en vue d'en connaître la composition et
-les effets sur l'organisme humain.
+Par ailleurs, l'inspecteur du travail peut, après avis du médecin du travail,
+mettre en demeure le chef d'établissement de faire procéder, par des organismes
+agréés par le ministère du travail, à des analyses des produits visés au premier
+alinéa du présent article, en vue d'en connaître la composition et les effets
+sur l'organisme humain.
 
 Les mesures d'application du présent article font l'objet de décrets en Conseil
-d'état pris dans les conditions prévues à l'alinéa 1er de l'article L. 231-3, et
+d'Etat pris dans les conditions prévues à l'alinéa 1er de l'article L. 231-3, et
 après avis des organisations professionnelles d'employeurs et de salariés
-intéressés, ces décrets peuvent notamment organiser des procédures spéciales
+intéressés. Ces décrets peuvent notamment organiser des procédures spéciales
 lorsqu'il y a urgence à suspendre la commercialisation ou l'utilisation des
 substances et préparations dangereuses, et prévoir les modalités d'indemnisation
 des travailleurs atteints d'affections causées par ces produits.
