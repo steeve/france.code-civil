@@ -1,11 +1,9 @@
 Article R433-21
 ----
-Les plis contenant les candidatures doivent être envoyés par la poste et
-recommandés avec demande d'avis de réception [*conditions de forme*]. Toutefois,
-leur dépôt dans une boîte à ce destinée peut être prévu.
-
-Les candidatures doivent être présentées sous enveloppe cachetée portant
-référence à l'appel de candidature prévu à l'article R. 433-20. Ces enveloppes
-peuvent contenir, outre les renseignements obligatoirement exigés des candidats,
-toutes références d'ordre technique ou financier que ceux-ci ont estimé utile de
-fournir.
+Les concours d'architecture et d'ingénierie organisés par les organismes privés
+d'habitations à loyer modéré et les sociétés d'économie mixte pour la
+réalisation de logements locatifs aidés par l'Etat financés à l'aide des prêts
+mentionnés à l'article R. 331-1 sont organisés conformément aux règles prévues
+par le décret pris pour l'application de l'article 11 de la loi du 12 juillet
+1985 modifiée relative à la maîtrise d'ouvrage publique et à ses rapports avec
+la maîtrise d'oeuvre privée.

@@ -1,16 +1,9 @@
 Article R433-20
 ----
-Le choix des candidats est fait d'après les résultats d'un appel de candidature
-publié quinze jours au moins avant la date limite fixée pour le dépôt des
-candidatures, par voie d'affichage et tous autres moyens de publicité.
-
-Cet avis fait connaître au moins :
-
-- l'objet du marché ;
-
-- le délai laissé aux candidats retenus pour établir leurs soumissions ; ce
-délai ne peut être inférieur à vingt jours ;
-
-- les renseignements que doivent fournir obligatoirement les candidats ;
-
-- la forme, le lieu et la date limite de réception des candidatures.
+Les contrats de maîtrise d'oeuvre des organismes privés d'habitations à loyer
+modéré et les sociétés d'économie mixte portant sur la réalisation de logements
+locatifs aidés par l'Etat à l'aide des prêts mentionnés à l'article R. 331-1
+sont passés conformément aux règles prévues par le décret pris pour
+l'application de l'article 10 de la loi n° 85-704 du 12 juillet 1985 modifiée
+relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise
+d'oeuvre privée.

@@ -1,13 +1,11 @@
 Article R433-22
 ----
-Tous les candidats agréés ou refusés sont avisés dans les cinq jours [*délai*]
-par lettre recommandée [*condition de forme*] de la décision de la commission.
-
-Les lettres aux candidats agréés mentionnent également [*contenu*] :
-
-- le lieu où l'on peut prendre connaissance ou livraison des cahiers des
-charges, plans et devis et du modèle de soumission ;
-
-- le lieu et la date limite de réception ou d'envoi des soumissions ;
-
-- le lieu, le jour et l'heure fixés pour l'adjudication.
+Pour la réalisation de logements locatifs aidés par l'Etat financés à l'aide des
+prêts mentionnés à l'article R. 331-1, soumis aux dispositions de la loi n°
+85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et
+à ses rapports avec la maîtrise d'oeuvre privée, les organismes privés
+d'habitations à loyer modéré et les sociétés d'économie mixte de construction et
+de gestion de logements sociaux peuvent passer des contrats portant à la fois
+sur l'établissement des études et l'exécution des travaux dans les conditions
+prévues par le titre Ier du décret pris pour l'application de l'article 18-1 de
+la loi du 12 juillet 1985 précitée.

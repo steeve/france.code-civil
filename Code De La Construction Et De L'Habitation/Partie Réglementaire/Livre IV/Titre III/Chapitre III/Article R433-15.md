@@ -1,10 +1,22 @@
 Article R433-15
 ----
-Les adjudications et les marchés passés dans les conditions prévues par la
-présente section peuvent être divisés en plusieurs lots selon la nature et
-l'importance des travaux ou en tenant compte de la nature des professions
-intéressées.
+Un procès-verbal est établi pour chaque contrat entrant dans le champ
+d'application défini à l'article R. 433-5. Il comporte au moins :
 
-Les cahiers des charges [*contenu*] précisent le nombre, la nature et
-l'importance des lots et indiquent, le cas échéant, le nombre maximum de lots
-qui peuvent être souscrits par un même soumissionnaire.
+1° Le nom et l'adresse de l'organisme ;
+
+2° L'objet et le montant du contrat ;
+
+3° Le nom des candidats retenus et la justification de leur choix ;
+
+4° Le nom des candidats exclus et les motifs de rejet de leur candidature ou de
+leur offre ;
+
+5° Le nom du titulaire et la justification du choix de son offre ;
+
+6° La justification du recours à l'un des cas de procédures négociée prévue à
+l'article R. 433-14.
+
+Ce procès-verbal est communiqué aux membres du conseil d'administration ou de
+surveillance de l'organisme contractant dans un délai d'un mois à compter de la
+conclusion du contrat.
