@@ -18,6 +18,6 @@ l'article L. 524-1 du code de la sécurité sociale ;
 cours des dix-huit derniers mois et n'appartenant pas aux catégories mentionnées
 aux 2° et 3° ci-dessus ;
 
-5° Les personnes visées aux 4° et 5° de l'article L. 351-24 ;
+5° Les personnes visées aux 4°, 5°, 6° et 7° de l'article L. 351-24 ;
 
 6° Les personnes visées au neuvième alinéa de l'article L. 351-24.

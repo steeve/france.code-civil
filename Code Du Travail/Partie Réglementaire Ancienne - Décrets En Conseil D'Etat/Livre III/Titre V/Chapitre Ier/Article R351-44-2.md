@@ -1,9 +1,9 @@
 Article R351-44-2
 ----
-Lorsqu'elle ne s'accompagne pas d'une demande de prime auprès d'un organisme
-mandaté ou lorsqu'il n'y a pas d'organisme mandaté dans le département, la
-demande tendant à l'octroi des avantages prévus à l'article R. 351-41 est
-adressée au préfet.
+Lorsqu'elle ne s'accompagne pas d'une demande d'aide financière auprès d'un
+organisme mandaté ou lorsqu'il n'y a pas d'organisme mandaté dans le
+département, la demande tendant à l'octroi des avantages prévus à l'article R.
+351-41 est adressée au préfet.
 
 Lorsque sont remplies les conditions mentionnées aux articles R. 351-42 et R.
 351-44 tenant à la situation du demandeur et au contrôle effectif de

@@ -9,9 +9,10 @@ création ou la reprise.
 Dans ce cas, le bénéficiaire acquitte auprès des organismes de sécurité sociale
 concernés les cotisations dont il a été exonéré, en application des articles L.
 161-1 ou L. 161-1-1 et L. 161-24 du code de la sécurité sociale, et rembourse le
-montant de la prime déjà perçue.
+montant de l'aide financière déjà perçue.
 
 En cas de cessation de l'activité créée ou reprise, ou de cession de
-l'entreprise dans le cadre d'une procédure judiciaire, le remboursement de la
-prime ainsi que le versement des cotisations sociales dont le bénéficiaire a été
-exonéré peuvent ne pas être exigés.
+l'entreprise dans le cadre d'une procédure judiciaire, le remboursement de
+l'aide financière ainsi que le versement des cotisations sociales dont le
+bénéficiaire a été exonéré peuvent ne pas être exigés, sur décision motivée du
+préfet.
