@@ -1,16 +1,17 @@
 Article R351-21
 ----
 Dans le cas de réadmission intervenant alors que le travailleur privé d'emploi
-n'a pas épuisé les droits ouverts lors d'une dernière admission l'allocation est
-servie pendant la durée la plus longue correspondant soit à celle du reliquat,
-soit à celle de la réadmission, et au taux le plus élevé pendant la durée durant
-laquelle ce taux peut être attribué.
+n'a pas épuisé les droits ouverts lors d'une précédente admission, l'allocation
+accordée correspond au montant global le plus élevé, après comparaison entre le
+montant global du reliquat des droits ouverts au titre de la précédente
+admission et le montant global des droits ouverts au titre de la nouvelle
+admission.
 
-Lorsque le coût du versement du reliquat de droits en taux ou en durée est
-supérieur au coût de la réadmission, leur différence est à la charge de
-l'organisme qui avait décidé la première admission.
+Lorsque le montant le plus élevé est celui du reliquat des droits de la
+précédente admission, l'allocation est à la charge de l'employeur ou de
+l'institution d'assurance chômage qui a décidé la précédente admission.
 
-Cette différence est liquidée et versée directement à l'intéressé par cet
-organisme qui verse dès la réadmission la différence entre les deux montants
-d'allocation. Il ne verse les droits afférents à la différence en durée qu'après
-expiration de la durée de la réadmission.
+Lorsque le montant le plus élevé correspond aux droits ouverts au titre de la
+nouvelle admission, l'allocation est à la charge de l'employeur ou de
+l'institution d'assurance chômage qui décide la nouvelle admission, après
+application des dispositions de l'article R. 351-20.
