@@ -1,0 +1,8 @@
+Article R721-34
+----
+En cas de défaut de production, dans les délais prescrits, des documents prévus
+aux articles R. 721-32 et R. 721-33 et en cas d'inexactitude ou d'omission, la
+caisse mutuelle d'assurance vieillesse des cultes peut procéder à l'évaluation
+d'office des cotisations payables par les associations, congrégations et
+collectivités religieuses, sans préjudice de l'application des pénalités prévues
+à l'article R. 243-16.
