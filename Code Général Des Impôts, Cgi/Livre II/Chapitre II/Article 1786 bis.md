@@ -1,9 +1,8 @@
 Article 1786 bis
 ----
-Sans préjudice des dispositions de l'article L 18 du livre des procédures
-fiscales relatif au droit de préemption, l'amende prévue à l'article 1784 est
-applicable à la taxe sur la valeur ajoutée [*TVA*] exigible sur les mutations à
-titre onéreux ou les apports en société visés au 7° de l'article 257.
+L'amende prévue à l'article 1784 est applicable à la taxe sur la valeur ajoutée
+exigible sur les mutations à titre onéreux ou les apports en société visés au 7°
+de l'article 257.
 
 En outre, l'inexécution de la formalité fusionnée ou de la formalité de
 l'enregistrement dans les conditions fixées au 2 de l'article 290 entraîne

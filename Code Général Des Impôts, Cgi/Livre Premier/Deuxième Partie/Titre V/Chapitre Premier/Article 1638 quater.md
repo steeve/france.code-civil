@@ -54,9 +54,9 @@ court que celui résultant des dispositions du a.
 
 II. Pour l'application des dispositions du I, le taux de taxe professionnelle de
 la commune doit, lorsque celle-ci appartient également à une communauté urbaine,
-à un district à fiscalité propre ou à une communauté de communes, être majoré du
-taux de taxe professionnelle voté par ces groupements l'année au cours de
-laquelle le rattachement est décidé.
+à un district, ou à une communauté de communes, être majoré du taux de taxe
+professionnelle voté par ces groupements l'année au cours de laquelle le
+rattachement est décidé.
 
 III. Les dispositions des I et II sont également applicables dans les communes
 ou parties de communes qui sont incorporées dans une zone d'activités

@@ -15,10 +15,11 @@ décret susvisé du 30 juillet 1952.
 2. En toute hypothèse lorsque les dispositions de la loi n° 46-2389 du 28
 octobre 1946 ont été reconnues applicables au sinistré ou à ses ayants droit et
 que la totalité de l'indemnité ne leur a pas été versée avant l'expiration des
-délais prévus à l'alinéa précédent les droits afférents aux biens ou éléments de
-biens donnant lieu à indemnisation ne deviennent exigibles que dans les six mois
-à compter du paiement du solde de l'indemnité ou le cas échéant dans les six
-mois de la délivrance des titres remis en paiement du solde de l'indemnité.
+délais prévus ((au deuxième alinéa du 1)) (M) les droits afférents aux biens ou
+éléments de biens donnant lieu à indemnisation ne deviennent exigibles que dans
+les six mois à compter du paiement du solde de l'indemnité ou le cas échéant
+dans les six mois de la délivrance des titres remis en paiement du solde de
+l'indemnité.
 
 3. Si le règlement de l'indemnité se fait par remise de titres ceux-ci peuvent
 être donnés en paiement de la totalité des droits simples exigibles. La valeur
@@ -30,5 +31,7 @@ du ministre des finances et des affaires économiques et du ministre du budget
 ou à titre gratuit des biens sinistrés et des droits à indemnité qui y sont
 attachés la déclaration afférente à ces biens et droits doit être souscrite et
 l'impôt correspondant acquitté dans les six mois de la cession.
+
+(M) Modification.
 
 (1) Annexe IV, art. 198 ter.

@@ -23,39 +23,29 @@ des actions, parts ou droits détenus par l'entreprise imposable dans la personn
 ou l'organisme détenteur, et regardé comme affectant la valeur de ces actions,
 parts ou droits.
 
-Les dispositions des ((premier, deuxième et troisième alinéas)) (M) ne sont pas
+Les dispositions des premier, deuxième et troisième alinéas ne sont pas
 applicables aux parts ou actions d'organismes de placement collectif en valeurs
-mobilières français ou établis dans un Etat membre de la ((Communauté
-européenne)) (M) qui remplissent simultanément les conditions suivantes :
+mobilières français ou établis dans un Etat membre de la Communauté européenne
+qui remplissent simultanément les conditions suivantes :
 
 a.-la valeur réelle de l'actif est représentée de façon constante pour 90 p. 100
 au moins par des actions, des certificats d'investissement et des certificats
 coopératifs d'investissement émis par des sociétés ayant leur siège dans la
-((Communauté européenne)) (M), et qui sont soumises à l'impôt sur les sociétés
-dans les conditions de droit commun ou qui sont soumises à un impôt comparable.
-La proportion de 90 p. 100 est considérée comme satisfaite si, pour chaque
-semestre civil, la moyenne journalière de la valeur réelle des titres mentionnés
-ci-avant est au moins égale à 90 p. 100 de la moyenne journalière de la valeur
-réelle de l'ensemble des actifs. Pour le calcul de la proportion de 90 p. 100,
-les titres qui font l'objet d'un réméré ne sont pas pris en compte au numérateur
-du rapport ;
+Communauté européenne, et qui sont soumises à l'impôt sur les sociétés dans les
+conditions de droit commun ou qui sont soumises à un impôt comparable. La
+proportion de 90 p. 100 est considérée comme satisfaite si, pour chaque semestre
+civil, la moyenne journalière de la valeur réelle des titres mentionnés ci-avant
+est au moins égale à 90 p. 100 de la moyenne journalière de la valeur réelle de
+l'ensemble des actifs. Pour le calcul de la proportion de 90 p. 100, les titres
+qui font l'objet d'un réméré ne sont pas pris en compte au numérateur du rapport
+;
 
 b. les titres dont la valeur est retenue pour le calcul de la proportion
 mentionnée au a sont rémunérés par des dividendes ouvrant droit à l'avoir
 fiscal. Les produits des titres définis à la phrase précédente sont constitués
 directement par ces dividendes et par les plus-values résultant de leur cession.
 
-Toutefois, les entreprises qui détiennent, à la clôture du premier exercice
-d'application du présent article, des titres d'organismes de placement collectif
-en valeurs mobilières investis principalement en actions sans atteindre le seuil
-de 90 p. 100 sont dispensées de constater l'écart mentionné au deuxième alinéa
-si le gestionnaire de l'organisme prend l'engagement de respecter ce seuil au
-plus tard le 31 décembre 1993. L'entreprise joint une copie de l'engagement à la
-déclaration du résultat de l'exercice. Si cet engagement n'est pas respecté,
-l'écart non imposé est rattaché au résultat imposable de l'exercice au cours
-duquel il aurait dû être imposé en application du deuxième alinéa ; l'entreprise
-produit alors au service des impôts compétent une déclaration rectificative
-avant le 1er février 1994.
+(Périmé) (M).
 
 Pour les parts d'un fonds commun de placement à risques qui remplit les
 conditions prévues au 1° bis du II de l'article 163 quinquies B, les entreprises
