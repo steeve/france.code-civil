@@ -1,10 +1,11 @@
 Article L161-1
 ----
-Par dérogation aux dispositions en vigueur, les personnes mentionnées au 1° de
-l'article L. 351-24 du code du travail, qui en font préalablement la demande,
-continuent à être affiliées pendant les premiers mois de leur nouvelle activité,
-dans une limite fixée par décret, au régime d'assurances sociales et de
-prestations familiales dont elles relevaient au titre de leur dernière activité.
+Par dérogation aux dispositions en vigueur, les personnes mentionnées au premier
+alinéa de l'article L. 351-24 du code du travail, qui en font préalablement la
+demande, continuent à être affiliées pendant les premiers mois de leur nouvelle
+activité, dans une limite fixée par décret, au régime d'assurances sociales et
+de prestations familiales dont elles relevaient au titre de leur dernière
+activité.
 
 Elles bénéficient alors des prestations des assurances maladie, maternité,
 invalidité, décès servies par ce régime aux demandeurs d'emploi et continuent à
