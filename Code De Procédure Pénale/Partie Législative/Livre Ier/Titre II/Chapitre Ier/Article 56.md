@@ -24,3 +24,9 @@ assisté à la perquisition suivant les modalités prévues à l'article 57.
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne
 maintient que la saisie des objets et documents utiles à la manifestation de la
 vérité.
+
+Le procureur de la République peut également, lorsque la saisie porte sur des
+espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas
+nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des
+personnes intéressées, autoriser leur dépôt à la Caisse des dépôts et
+consignations ou à la Banque de France.

@@ -28,4 +28,4 @@ pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande
 principale.
 
 En cas de comparution personnelle de la personne concernée, le délai maximum
-prévu au deuxième alinéa de l'article 194 est prolongé de cinq jours.
+prévu au troisième alinéa de l'article 194 est prolongé de cinq jours.

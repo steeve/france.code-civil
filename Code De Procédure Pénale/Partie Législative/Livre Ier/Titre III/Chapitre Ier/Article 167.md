@@ -2,7 +2,10 @@ Article 167
 ----
 Le juge d'instruction donne connaissance des conclusions des experts aux parties
 et à leurs avocats après les avoir convoqués conformément aux dispositions du
-deuxième alinéa de l'article 114.
+deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a
+lieu, des conclusions des rapports des personnes requises en application des
+articles 60 et 77-1, lorsqu'il n'a pas été fait application des dispositions du
+quatrième alinéa de l'article 60.
 
 Les conclusions peuvent également être notifiées par lettre recommandée ou,
 lorsque la personne est détenue, par les soins du chef de l'établissement

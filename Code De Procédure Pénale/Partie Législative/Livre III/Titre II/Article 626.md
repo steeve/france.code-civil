@@ -1,21 +1,24 @@
 Article 626
 ----
 Un condamné reconnu innocent en application du présent titre a droit à une
-indemnité à raison du préjudice que lui a causé la condamnation, à moins qu'il
-ne soit prouvé que la non-représentation de la pièce nouvelle ou la
-non-révélation de l'élément inconnu en temps utile lui est imputable en tout ou
-partie.
+indemnité à raison du préjudice matériel et moral que lui a causé la
+condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce
+nouvelle ou la non-révélation de l'élément inconnu en temps utile lui est
+imputable en tout ou partie.
 
 Peut également demander une indemnité, dans les mêmes conditions, toute personne
 justifiant du préjudice que lui a causé la condamnation.
 
 L'indemnité est allouée par la commission et suivant la procédure prévue par les
-articles 149-1 et 149-2.
+articles 149-1 et 149-2. Si la personne en fait la demande, l'indemnisation peut
+également être allouée par la décision d'où résulte son innocence. Devant la
+cour d'assises, l'indemnisation est allouée par la cour statuant, comme en
+matière civile, sans l'assistance des jurés.
 
-Elle est à la charge de l'Etat, sauf son recours contre la partie civile, le
-dénonciateur ou le faux témoin par la faute desquels la condamnation a été
-prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et
-de police.
+Cette indemnité est à la charge de l'Etat, sauf son recours contre la partie
+civile, le dénonciateur ou le faux témoin par la faute desquels la condamnation
+a été prononcée. Elle est payée comme frais de justice criminelle,
+correctionnelle et de police.
 
 Si le demandeur le requiert, l'arrêt ou le jugement de révision d'où résulte
 l'innocence du condamné est affiché dans la ville où a été prononcée la

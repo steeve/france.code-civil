@@ -12,6 +12,11 @@ le tribunal renvoie la procédure au ministère public pour lui permettre de
 saisir à nouveau la juridiction d'instruction afin que la procédure soit
 régularisée.
 
+Lorsque l'ordonnance de renvoi du juge d'instruction a été rendue sans que les
+conditions prévues par l'article 175 aient été respectées, les parties demeurent
+recevables, par dérogation aux dispositions du premier alinéa, à soulever devant
+le tribunal correctionnel les nullités de la procédure.
+
 Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la
 juridiction d'instruction, le tribunal statue sur les exceptions tirées de la
 nullité de la procédure antérieure.
