@@ -52,9 +52,9 @@ qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à
 l'intérieur de la zone définie à l'article R. 510-1 d'une superficie de plancher
 supérieure au total à 5000 m2.
 
-" 7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
-toute nature achevés à la date du 31 décembre 1992 ou dont la déclaration
+7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
+toute nature achevés à la date du 31 décembre 1994 ou dont la déclaration
 d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au
 plus tard à cette même date. La présente disposition n'est applicable qu'aux
 opérations d'utilisation pour lesquelles les actes juridiques dont l'utilisation
-dépend sont définitivement passés au plus tard le 31 décembre 1994. "
+dépend sont définitivement passés au plus tard le 31 décembre 1998.
