@@ -1,11 +1,10 @@
 Article L310-18
 ----
-Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 n'a pas
-respecté une disposition législative ou réglementaire dans le domaine relevant
-du contrôle de la commission ou n'a pas déféré à une injonction, la commission
-peut prononcer, à son encontre ou à celle de ses dirigeants, l'une ou plusieurs
-des sanctions disciplinaires suivantes, en fonction de la gravité du manquement
-:
+Si une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 a enfreint
+une disposition législative ou réglementaire afférente à son activité, la
+commission peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou
+plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité du
+manquement :
 
 1° L'avertissement ;
 
@@ -19,6 +18,8 @@ dans l'exercice de l'activité ;
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
+
+Il en va de même si elle n'a pas déféré à l'injonction de l'article L. 310-17.
 
 En outre, la commission peut prononcer, soit à la place, soit en sus de ces
 sanctions, une sanction pécuniaire. Le montant de cette sanction pécuniaire doit

@@ -11,8 +11,12 @@ adhérentes à la confédération nationale du crédit mutuel;
 3° Aux opérations effectuées entre elles par les caisses de crédit agricole
 mentionnées à l'article 614 du code rural;
 
+((3° bis aux opérations effectuées par les affiliés de la Caisse nationale des
+caisses d'épargne et de prévoyance, ainsi que leurs groupements, entre eux ou
+avec la Caisse nationale des caisses d'épargne et de prévoyance)) (M) ;
+
 4° Aux intérêts, agios, rémunérations de prêts de titres effectués dans les
-conditions du chapitre V ((modifié)) (M) de la loi n° 87-416 du 17 juin 1987 sur
+conditions du chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur
 l'épargne, aux profits tirés des pensions réalisées dans les conditions prévues
 par l'article 12 de la loi n° 93-1344 du 31 décembre 1993 portant diverses
 dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
@@ -45,8 +49,11 @@ elles-mêmes soumises à la taxe sur la valeur ajoutée en régime intérieur ;
 12° Aux commissions perçues lors de l'émission et du placement d'emprunts
 obligataires (2).
 
+13° ((Aux sommes perçues lors de la cession de créances à des sociétés de crédit
+foncier ou en rémunération de la gestion de ces créances)) (M).
+
 (1) Annexe IV, art. 23 O.
 
-(M) Modification.
-
 (2) Ces dispositions s'appliquent à compter du 1er janvier 1994.
+
+(M) Modification.

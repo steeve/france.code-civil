@@ -22,3 +22,7 @@ tenues en réserve jusqu'à ce qu'il ait été statué définitivement sur leurs
 créances ; les créanciers auront le droit de prélever sur les sommes mises en
 réserve les dividendes afférents à leurs créances dans les premières
 répartitions, sans préjudice de leurs droits dans les répartitions ultérieures.
+
+Le liquidateur procède, s'il y a lieu, à la restitution par préférence des
+primes versées par les personnes ayant exercé leur droit à renonciation en
+application de l'article L. 132-5-1. .

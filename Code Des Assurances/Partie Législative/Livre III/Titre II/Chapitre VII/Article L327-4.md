@@ -2,7 +2,8 @@ Article L327-4
 ----
 Pour les entreprises pratiquant les opérations mentionnées au 1° et au dernier
 alinéa de l'article L. 310-1, la créance garantie par le privilège ou
-l'hypothèque légale est arrêtée au montant de la provision mathématique
+l'hypothèque légale est arrêtée au montant des primes à rembourser par
+préférence en cas de renonciation au contrat et de la provision mathématique
 diminuée, s'il y a lieu, des avances sur polices, y compris les intérêts, et
 augmentée, le cas échéant, du montant du compte individuel de participation aux
 bénéfices, ouvert au nom de l'assuré, lorsque ces bénéfices ne sont pas payables

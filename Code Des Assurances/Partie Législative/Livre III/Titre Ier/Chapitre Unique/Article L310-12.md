@@ -30,7 +30,7 @@ préalable et les délais dans lesquels la commission doit se prononcer.
 La commission peut décider de soumettre au contrôle toute personne physique ou
 morale ayant reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de
 souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le
-courtage d'assurance.
+courtage d'assurance ou la présentation d'opérations d'assurance.
 
 La commission veille également au respect, par les entreprises soumises au
 contrôle de l'Etat en application de l'article L. 310-1-1 et les sociétés de
