@@ -3,19 +3,19 @@ Article R351-13
 Pour bénéficier de l'allocation de solidarité spécifique, les personnes
 mentionnées à l'article L. 351-10 doivent [*conditions*] :
 
-1° Justifier de cinq ans d'activité salariée dans les dix ans précédant la fin
+- 1° Justifier de cinq ans d'activité salariée dans les dix ans précédant la fin
 du contrat de travail à partir de laquelle ont été ouverts leurs droits aux
 allocations d'assurance ; en ce qui concerne les personnes ayant interrompu leur
 activité salariée pour élever un enfant, cette durée est réduite, dans la limite
 de trois ans, d'un an par enfant à charge ou élevé dans les conditions fixées à
 l'article L. 327 du code de la sécurité sociale ;
 
-2° Etre effectivement à la recherche d'un emploi au sens de l'article L. 351-16,
-sous réserve des dispositions de l'article R. 351-26 ;
+- 2° Etre effectivement à la recherche d'un emploi au sens de l'article L.
+351-16, sous réserve des dispositions de l'article R. 351-26 ;
 
-3° Justifier, à la date de la demande, de ressources mensuelles inférieures à un
-plafond correspondant à 70 fois le montant journalier de l'allocation pour une
-personne seule et 140 fois le même montant pour un couple.
+- 3° Justifier, à la date de la demande, de ressources mensuelles inférieures à
+un plafond correspondant à 70 fois le montant journalier de l'allocation pour
+une personne seule et 110 fois le même montant pour un couple.
 
 Les ressources prises en considération pour l'application de ce plafond
 comprennent l'allocation de solidarité ainsi que les autres ressources de
