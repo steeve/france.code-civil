@@ -18,5 +18,6 @@ du II de l'article 136 de la loi n° 96-1181 du 30 décembre 1996 ;
 d'accompagnement au bénéfice des créateurs ou repreneurs d'entreprises ;
 
 4° Pour les personnes remplissant les conditions prévues aux 3°, 4° et 5° ainsi
-qu'au troisième alinéa de l'article L. 351-24 et à l'exception de celles
-bénéficiant de la dotation aux jeunes agriculteurs, une avance remboursable.
+qu'au neuvième alinéa de l'article L. 351-24 et à l'exception de celles
+bénéficiant de la dotation aux jeunes agriculteurs, une aide financière
+attribuée sous forme de prime.

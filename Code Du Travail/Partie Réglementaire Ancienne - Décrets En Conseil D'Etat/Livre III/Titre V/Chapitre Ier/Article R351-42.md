@@ -20,4 +20,4 @@ aux 2° et 3° ci-dessus ;
 
 5° Les personnes visées aux 4° et 5° de l'article L. 351-24 ;
 
-6° Les personnes visées au troisième alinéa de l'article L. 351-24.
+6° Les personnes visées au neuvième alinéa de l'article L. 351-24.

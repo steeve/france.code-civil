@@ -1,12 +1,12 @@
 Article R351-46
 ----
-En cas d'acceptation de la demande, le bénéfice de l'aide est subordonné à la
-constatation de l'exercice de la nouvelle activité dans le délai de trois mois à
-compter de la notification de sa décision. Il appartient à l'intéressé de faire
-parvenir en temps utile au service instructeur de sa demande tout document
-permettant cette constatation.
+En cas d'acceptation de la demande, le bénéfice des avantages mentionés à
+l'article R. 351-41 est subordonné à la constatation de l'exercice de la
+nouvelle activité dans le délai de trois mois à compter de la notification de sa
+décision. Il appartient à l'intéressé de faire parvenir en temps utile au
+service instructeur de sa demande tout document permettant cette constatation.
 
-Lorsque cette condition est remplie, le préfet ou l'organisme habilité visé à
+Lorsque cette condition est remplie, le préfet ou l'organisme mandaté visé à
 l'article R. 351-44-1 délivre à l'intéressé une attestation d'admission au
 bénéfice des dispositions de l'article L. 351-24 lui permettant de faire valoir
 ses droits à l'attribution des avantages prévus aux articles L. 161-1 ou L.
