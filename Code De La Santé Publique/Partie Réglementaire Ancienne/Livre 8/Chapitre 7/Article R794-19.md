@@ -6,13 +6,14 @@ général.
 
 Il comprend :
 
-1° Deux membres de droit :
+1° Trois membres de droit :
 
 a) Le président du conseil scientifique de l'Agence française de sécurité
 sanitaire des produits de santé, ou son représentant ;
 
 b) Le président du conseil scientifique de l'Institut de veille sanitaire, ou
-son représentant ;
+son représentant. Le président du conseil scientifique de l'Agence française de
+sécurité sanitaire environnementale, ou son représentant ;
 
 2° Trois représentants des personnels de l'Agence française de sécurité des
 aliments, élus pour une durée de trois ans renouvelable selon des modalités

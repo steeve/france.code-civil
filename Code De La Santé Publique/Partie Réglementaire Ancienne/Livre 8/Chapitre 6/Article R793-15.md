@@ -27,7 +27,10 @@ spécialiste de la recherche clinique, désigné par son directeur général ;
 recherche scientifique ;
 
 6° Douze personnalités scientifiques reconnues pour leur compétence dans l'un
-des domaines d'activité de l'agence.
+des domaines d'activité de l'agence ;
+
+7° Le président du conseil scientifique de l'Agence française de sécurité
+sanitaire environnementale, ou son représentant.
 
 Le directeur général de la santé ou son représentant et le directeur de la
 recherche, des études, de l'évaluation et des statistiques au ministère chargé

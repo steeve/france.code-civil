@@ -27,7 +27,7 @@ compétente.
 
 Il comprend outre son président :
 
-1. Huit membres de droit :
+1. Neuf membres de droit :
 
 a) Le président du conseil scientifique de l'Ecole nationale de la santé
 publique, ou son représentant ;
@@ -48,7 +48,10 @@ f) Une personnalité scientifique nommée sur proposition du directeur général
 l'Institut national de la santé et de la recherche médicale ;
 
 g) Deux spécialistes en santé publique d'un pays tiers, dont un au moins
-originaire de la Communauté européenne.
+originaire de la Communauté européenne ;
+
+h) Le président du conseil scientifique de l'Agence française de sécurité
+sanitaire environnementale, ou son représentant.
 
 2. Treize personnalités scientifiques qualifiées dans les domaines de
 compétences de l'institut.
