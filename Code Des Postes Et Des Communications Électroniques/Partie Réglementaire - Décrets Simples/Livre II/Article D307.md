@@ -8,4 +8,4 @@ centrale.
 
 Outre le prix téléphonique normalement applicable à une communication établie
 entre le poste téléphonique fixe d'abonnement et la station centrale, ces
-communications sont passibles d'un prix téléphonique.
+communications sont passibles d'une taxe radiotéléphonique.

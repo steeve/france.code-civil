@@ -5,8 +5,8 @@ offerte, une personne quelconque à l'un des postes demandeur ou demandé indiqu
 immédiatement qu'on ne peut ou ne veut converser.
 
 Si la communication n'est pas refusée à ce moment et est établie entre les
-postes demandeur et demandé, le prix normal est dû, quels que soient le sujet et
-l'étendue de la conversation subséquente.
+postes demandeur et demandé, la taxe normale est dûe, quels que soient le sujet
+et l'étendue de la conversation subséquente.
 
 Est assimilée à un refus de communication :
 
@@ -20,4 +20,4 @@ demandé, qu'il a fait une erreur de numéro, suivie immédiatement d'une nouvel
 demande de communication pour un autre poste desservi par le même centre ou
 ayant un numéro à six chiffres dans le même groupement.
 
-Toute communication refusée est soumise à un prix de refus.
+Toute communication refusée est soumise à une taxe de refus.

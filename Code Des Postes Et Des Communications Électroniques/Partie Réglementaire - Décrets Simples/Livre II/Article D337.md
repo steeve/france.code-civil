@@ -5,8 +5,8 @@ l'administration des P.T.T.
 
 Un abonnement temporaire prend fin automatiquement au moment prévu lors de la
 demande ; il peut être résilié plus tôt, sur avis donné à l'administration des
-postes et télécommunications quinze jours avant l'expiration de la période
-mensuelle en cours [*délai*]. Il ne peut être prorogé qu'en cas de circonstances
+postes et communications électroniques quinze jours avant l'expiration de la
+période mensuelle en cours. Il ne peut être prorogé qu'en cas de circonstances
 exceptionnelles et après accord de l'administration des P.T.T.
 
 La résiliation d'un abonnement principal entraîne la résiliation des abonnements

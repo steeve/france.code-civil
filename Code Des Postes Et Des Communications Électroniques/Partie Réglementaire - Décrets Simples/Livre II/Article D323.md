@@ -3,8 +3,9 @@ Article D323
 Le nombre n de lignes d'abonnement principal utilisables pour desservir le
 trafic d'arrivée à destination d'une installation d'abonné doit être tel que,
 pour une intensité totale T de trafic mesurée en erlangs à l'heure chargée sur
-ces lignes, les relations suivantes soient satisfaites: [*formule non
-reproduite*]
+ces lignes, les relations suivantes soient satisfaites :
+
+&lt;&lt; formule non reproduite &gt;&gt;
 
 Si l'une des conditions n'est pas remplie, l'administration peut mettre l'abonné
 en demeure d'accepter l'extension nécessaire du faisceau de lignes utilisables à

@@ -5,7 +5,7 @@ Les radiotélégrammes spéciaux suivants sont admis :
 -les radiotélégrammes météorologiques (O.B.S.) ;
 
 -les radiotélégrammes urgents, mais seulement sur le réseau général des voies de
-télécommunications ;
+communications électroniques ;
 
 -les lettres radiomaritimes (S.L.T.) ;
 

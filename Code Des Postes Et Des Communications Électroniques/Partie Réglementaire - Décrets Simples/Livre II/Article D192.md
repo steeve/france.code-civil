@@ -2,7 +2,7 @@ Article D192
 ----
 Les télégrammes avec accusé de réception sont des télégrammes pour lesquels
 l'expéditeur a demandé d'être informé de la date et de l'heure de remise au
-destinataire [*définition*].
+destinataire.
 
 L'expéditeur doit obligatoirement indiquer son nom et son adresse en signature.
 

@@ -8,5 +8,5 @@ peut demander, pendant le délai de conservation des archives, la communication 
 
 -d'une photocopie.
 
-Cette demande peut être déposée par tout moyen de la poste et des
-télécommunications.
+Cette demande peut être déposée par tout moyen de la poste et des communications
+électroniques.

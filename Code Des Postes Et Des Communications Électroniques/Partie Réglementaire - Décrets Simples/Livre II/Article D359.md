@@ -12,10 +12,10 @@ les listes périodiques ou leurs suppléments.
 
 Le titulaire d'un abonnement principal ordinaire et permanent a droit, à ce
 titre, à un exemplaire de la liste d'abonnés sur laquelle il figure, ainsi qu'à
-ses suppléments éventuels. Il peut, lorsque le service des télécommunications en
-a fait la proposition, demander qu'au lieu et place de cette liste soit mis à sa
-disposition un terminal permettant l'accès à l'annuaire téléphonique sous forme
-électronique.
+ses suppléments éventuels. Il peut, lorsque le service des communications
+électroniques en a fait la proposition, demander qu'aux lieu et place de cette
+liste soit mis à sa disposition un terminal permettant l'accès à l'annuaire
+téléphonique sous forme électronique.
 
 La concession des postes autres que les postes d'abonnement principal ordinaire
 et permanent ne donne pas droit à la remise gratuite des listes périodiques ou

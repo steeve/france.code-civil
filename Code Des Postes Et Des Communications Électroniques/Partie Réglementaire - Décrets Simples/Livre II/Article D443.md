@@ -8,8 +8,8 @@ installés par la direction générale des télécommunications et entretenus so
 par celle-ci, soit par un installateur admis.
 
 Les appareils et installations télégraphiques et télex, fournis par
-l'utilisateur, doivent être estampillés par la direction générale des
-télécommunications.
+l'utilisateur, doivent être d'un type agréé par la direction générale des
+télécommunications et estampillés par celle-ci avant mise en service.
 
 Ils peuvent être assujettis à un contrôle périodique effectué par la direction
 générale des télécommunications aux frais de l'utilisateur.

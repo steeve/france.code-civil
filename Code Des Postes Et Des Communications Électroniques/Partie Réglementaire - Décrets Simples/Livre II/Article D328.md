@@ -10,10 +10,10 @@ Les postes d'abonnement public doivent répondre à un intérêt collectif réel
 être accessibles au public dans des conditions normales et présenter des
 garanties de discrétion suffisantes. Ils doivent être signalés sur la voie
 publique par un panonceau dont les caractéristiques sont définies par
-l'administration des postes et télécommunications. Sauf dérogation accordée par
-l'administration des postes et télécommunications, ces postes sont situés à une
-distance d'au moins un kilomètre mesurée par les voies classées les plus
-directes d'un autre poste semblable ou d'un poste public.
+l'administration des postes et communications électroniques. Sauf dérogation
+accordée par l'administration des postes et communications électroniques, ces
+postes sont situés à une distance d'au moins un kilomètre mesurée par les voies
+classées les plus directes d'un autre poste semblable ou d'un poste public.
 
 Les postes installés dans des bornes fournies par les municipalités pour
 permettre l'appel des taxis sont assimilés du point de vue tarifaire à des

@@ -1,9 +1,9 @@
 Article D333-2
 ----
 Sous réserve des conditions prévues à l'article D. 333, une ligne supplémentaire
-est dite extérieure [*définition*] quand elle est établie en partie à
-l'extérieur du local ou du terrain affecté à titre privatif ou locatif au
-titulaire de l'abonnement principal.
+est dite extérieure quand elle est établie en partie à l'extérieur du local ou
+du terrain affecté à titre privatif ou locatif au titulaire de l'abonnement
+principal.
 
 Le poste supplémentaire situé à l'extrémité d'une ligne supplémentaire
 extérieure doit être installé dans un local à usage professionnel appartenant ou
@@ -19,8 +19,8 @@ peut être :
 l'abonnement principal est une personne morale.
 
 Toutes communications échangées entre personnes physiques ou morales différentes
-doivent être établies par l'intermédiaire d'un centre public de
-télécommunications et donnent lieu à la perception des tarifs réglementaires.
+doivent être établies par l'intermédiaire d'un centre public de communications
+électroniques et donnent lieu à la perception des tarifs réglementaires.
 
 Exceptionnellement, et après accord de l'administration, des lignes
 supplémentaires extérieures peuvent être affectées au service de personnes

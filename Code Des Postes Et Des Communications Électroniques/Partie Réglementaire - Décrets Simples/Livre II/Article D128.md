@@ -2,9 +2,9 @@ Article D128
 ----
 Les prix des télégrammes sont facturés à l'expéditeur. Ils sont :
 
-1. Soit imputés sur un compte de télécommunications ;
+1. Soit imputés sur un compte de communications électroniques ;
 
-2. Soit acquittés avec une carte Télécommunications ;
+2. Soit acquittés avec une carte Communications électroniques ;
 
 3. Soit acquittés au moment du dépôt ;
 

@@ -19,19 +19,21 @@ progressivement diminués par arrêté du même ministre.
 
 Les prescriptions techniques visées au premier alinéa du présent article sont
 définies par arrêté du ministre chargé des télécommunications après consultation
-du groupe permanent "Prescriptions techniques" institué auprès de la commission
-technique consultative prévue à l'article D. 385-13. Elles sont fondées sur les
-normes, avis ou recommandations des instances européennes et internationales, et
-tendent notamment à promouvoir progressivement l'utilisation exclusive des
-normes O.S.I. au fur et à mesure de leur élaboration.
+de la commission consultative instituée à l'article D. 96-2 du code des postes
+et télécommunications. Elles sont fondées sur les normes, avis ou
+recommandations des instances européennes et internationales, et tendent
+notamment à promouvoir progressivement l'utilisation exclusive des normes O.S.I.
+au fur et à mesure de leur élaboration.
 
 Pour l'accès aux services auxquels s'appliquent ces prescriptions techniques, le
-ministre chargé des télécommunications peut, après avis du groupe permanent
-"Prescriptions techniques", prescrire l'abandon dans un délai déterminé des
-procédures particulières aux gestionnaires des réseaux. Ce délai ne peut être
-inférieur à deux ans.
+ministre chargé des télécommunications peut, après avis de la commission
+consultative instituée à l'article D. 96-2 du code des postes et
+télécommunications, prescrire l'abandon dans un délai déterminé des procédures
+particulières aux gestionnaires des réseaux. Ce délai ne peut être inférieur à
+deux ans.
 
-Le ministre chargé des télécommunications soumet chaque année à l'examen du
-groupe permanent "Prescriptions techniques" les procédures particulières aux
-gestionnaires des réseaux dont l'abandon est susceptible d'être prescrit en
-application de l'alinéa précédent.
+Le ministre chargé des télécommunications soumet chaque année à l'examen de la
+commission consultative instituée à l'article D. 96-2 du code des postes et
+télécommunications les procédures particulières aux gestionnaires des réseaux
+dont l'abandon est susceptible d'être prescrit en application de l'alinéa
+précédent.

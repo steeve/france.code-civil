@@ -1,7 +1,7 @@
 Article D280
 ----
 Tout poste d'abonnement télex est relié, par l'intermédiaire du répartiteur de
-télécommunications le plus voisin du lieu où ce poste est installé, au
+communications électroniques le plus voisin du lieu où ce poste est installé, au
 commutateur télex considéré par l'administration comme le mieux placé pour
 desservir l'abonné, compte tenu de l'importance de son trafic télex.
 

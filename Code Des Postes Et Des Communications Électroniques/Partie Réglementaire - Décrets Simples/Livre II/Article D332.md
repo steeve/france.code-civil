@@ -4,7 +4,7 @@ Des abonnements complémentaires peuvent être consentis à tout abonné titulai
 d'un abonnement principal permanent pour :
 
 -l'imputation sur un compte téléphonique ou télex du prix des communications
-téléphoniques ou télex demandées avec la carte Télécommunications ;
+téléphoniques ou télex demandées avec la carte Communications électroniques ;
 
 -la location des équipements spéciaux du centre téléphonique permettant à
 l'abonné :
