@@ -3,7 +3,9 @@ Article R241-29
 Tout docteur en médecine ayant l'autorisation d'exercer qui veut pratiquer la
 médecine du travail doit être titulaire du certificat d'études spéciales de
 médecine du travail [*diplome*] ou du diplôme d'études spécialisées de médecine
-du travail.
+du travail ou avoir été inscrit au tableau de l'ordre comme spécialiste en
+médecine du travail dans les conditions prévues aux deuxième et quatrième
+alinéas de l'article 9 de la loi n° 91-73 du 18 janvier 1991.
 
 Les dispositions de l'alinéa ci-dessus ne s'appliquent pas aux médecins du
 travail en fonctions avant le 23 octobre 1957 [*point de départ*].
