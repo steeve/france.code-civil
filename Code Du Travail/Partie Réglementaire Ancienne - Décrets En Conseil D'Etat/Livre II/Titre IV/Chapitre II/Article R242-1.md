@@ -1,8 +1,9 @@
 Article R242-1
 ----
-Dans les établissements mentionnés à l'article L. 792 du code de la santé
-publique et les syndicats interhospitaliers, le service de médecine du travail
-est organisé selon les modalités suivantes :
+Dans les établissements et les syndicats interhospitaliers mentionnés à
+l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière le service de médecine
+du travail est organisé selon les modalités suivantes :
 
 1° Dans les établissements ou syndicats comptant plus de 1500 agents
 [*effectif*], sous la forme d'un service propre à l'établissement ou au syndicat

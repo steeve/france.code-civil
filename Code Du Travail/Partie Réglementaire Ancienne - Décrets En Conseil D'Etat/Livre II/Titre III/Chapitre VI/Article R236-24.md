@@ -1,7 +1,7 @@
 Article R236-24
 ----
 La délégation du personnel au comité d'hygiène, de sécurité et des conditions de
-travail comprend [*composition*]:
+travail comporte un nombre égal de titulaires et de suppléants. Elle comprend :
 
 1° Des représentants des personnels non médecins, non pharmaciens et non
 odontologistes à raison de :
@@ -39,7 +39,13 @@ moyenne.
 
 Dans le cas où il n'existe pas d'organisation syndicale dans l'établissement ou
 le syndicat interhospitalier, les représentants mentionnés ci-dessus sont élus
-par l'ensemble du personnel au scrutin uninominal à un tour [*mode*].
+par l'ensemble du personnel au scrutin uninominal à un tour [*mode*]. Chaque
+candidat au siège de représentant titulaire se présente avec un candidat
+suppléant appelé à le remplacer en cas d'indisponibilité.
 
 Les représentants mentionnés au 2° sont désignés par la commission médicale
-consultative en son sein.
+d'établissement en son sein.
+
+Tout représentant suppléant désigné selon le cas par une organisation syndicale
+ou la commission médicale d'établissement peut siéger en remplacement de tout
+représentant titulaire désigné dans les mêmes conditions.
