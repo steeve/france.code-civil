@@ -1,37 +1,28 @@
 Article L322-4-2
 ----
-En vue de faciliter la réinsertion professionnelle des personnes sans emploi
-rencontrant des difficultés particulières d'accès à l'emploi, notamment des
-bénéficiaires de l'allocation de solidarité spécifique et de l'allocation de
-revenu minimum d'insertion [*RMI*], l'Etat prend en charge [*financière*], en
-application de conventions conclues avec les employeurs, une aide forfaitaire,
-dont le montant est fixé par décret, pour l'emploi de personnes recrutées au
-plus tard le 31 décembre 1989 [*date limite*] sur un contrat de travail conclu
-pour une durée minimum de six mois.
+L'Etat peut passer des conventions avec des employeurs pour favoriser
+l'insertion professionnelle des personnes sans emploi rencontrant des
+difficultés particulières d'accès à l'emploi, principalement des chômeurs de
+longue durée, des bénéficiaires de l'allocation de solidarité spécifique et du
+revenu minimum d'insertion, en portant une attention privilégiée aux femmes
+isolées, notamment aux veuves.
 
-Ces contrats de retour à l'emploi doivent être passés par écrit [*condition de
-forme*]; ils font l'objet d'un dépôt auprès de la direction départementale du
-travail et de l'emploi [*organisme compétent*].
+Les contrats de retour à l'emploi conclus en vertu de ces conventions donnent
+droit :
 
-Ces contrats ne peuvent être conclus par des entreprises ayant procédé à un
-licenciement économique dans les six mois précédant la prise d'effet du contrat
-de retour à l'emploi. Cette interdiction ne s'applique qu'aux embauches sur des
-emplois correspondant aux activités professionnelles et qualifications des
-salariés concernés par le licenciement économique.
+1° A une aide forfaitaire de l'Etat dont le montant est fixé par décret ;
 
-L'employeur est exonéré du paiement des cotisations à sa charge à raison de
-l'emploi de ce salarié au titre des assurances sociales, des accidents du
-travail et des allocations familiales.
+2° A la prise en charge par l'Etat des frais de formation lorsque le contrat
+associe l'exercice d'une activité professionnelle et le bénéfice d'une formation
+liée à cette activité et dispensée pendant le temps de travail dans le cadre
+d'un cahier des charges comportant notamment les stipulations mentionnées aux
+deuxième, troisième, cinquième et sixième alinéas de l'article L. 920-1 ;
 
-L'exonération porte sur les cotisations afférentes aux rémunérations dues
-jusqu'à la fin du sixième mois civil suivant la date de l'embauche. Elle est
-subordonnée à la production d'une attestation des services du ministère chargé
-de l'emploi.
+3° A l'exonération des cotisations sociales dans les conditions fixées à
+l'article L. 322-4-6.
 
-Jusqu'à l'expiration d'une période de six mois à compter de la conclusion du
-contrat [*point de départ*], les titulaires des contrats de retour à l'emploi ne
-sont pas pris en compte dans le calcul de l'effectif du personnel des
-entreprises dont ils relèvent pour l'application à ces entreprises des
-dispositions législatives et réglementaires qui se réfèrent à une condition
-d'effectif minimum de salariés, exception faite de celles qui concernent la
-tarification des risques d'accidents du travail et de maladies professionnelles.
+Le comité d'entreprise ou d'établissement ou, à défaut, les délégués du
+personnel sont informés des conventions conclues.
+
+Les contrats de retour à l'emploi ne peuvent revêtir la forme de contrats de
+travail temporaire, tels que prévus à l'article L. 124-2 [*interdiction*].

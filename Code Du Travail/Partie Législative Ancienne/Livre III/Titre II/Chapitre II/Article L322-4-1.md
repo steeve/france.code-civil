@@ -5,12 +5,7 @@ des demandeurs d'emploi rencontrant des difficultés particulières d'accès à
 l'emploi, notamment des chômeurs de longue durée et des chômeurs cumulant les
 situations de précarité les plus graves, l'Etat prend en charge :
 
-1° En application de conventions conclues avec les employeurs, les frais de
-formation de personnes âgées de vingt-six ans au moins, recrutées sur un contrat
-de travail tel que prévu à l'article L. 980-14, associant l'exercice d'une
-activité professionnelle et le bénéfice d'une formation liée à cette activité et
-dispensée pendant le temps de travail ; ces contrats de réinsertion en
-alternance doivent être conclus pour une durée minimum d'un an ;
+1° ...
 
 2° En application de conventions conclues avec des organismes de formation pour
 l'organisation de stages de formation et d'insertion professionnelles, les frais
