@@ -11,7 +11,7 @@ loyer principal, sont exigibles en contrepartie :
 d'usage commun de la chose louée, qui ne sont pas la conséquence d'une erreur de
 conception ou d'un vice de réalisation ;
 
-- du droit de bail et des impositions qui correspondent à des services dont le
-locataire profite directement.
+- de la contribution annuelle représentative du droit de bail et des impositions
+qui correspondent à des services dont le locataire profite directement.
 
 La liste de ces charges est fixée par décret en Conseil d'Etat.
