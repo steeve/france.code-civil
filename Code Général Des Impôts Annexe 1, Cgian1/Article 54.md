@@ -4,7 +4,7 @@ Les brûleries coopératives ou syndicales des récoltants sont soumises aux
 dispositions suivantes :
 
 Les gérants ou délégués doivent fournir, huit jours au moins avant toute
-opération, au directeur des services fiscaux [*autorité compétente*], la
+opération, au directeur régional des douanes et droits indirects, la
 justification de la constitution régulière de l'association, les statuts, une
 liste des membres de l'association indiquant les nom, prénoms et domicile de
 chacun d'eux, avec la date de son admission, un plan intérieur avec légende

@@ -2,7 +2,7 @@ Article 184
 ----
 Les industriels qui désirent employer de l'alcool dénaturé par le procédé
 général, reçu de l'extérieur, doivent en faire la déclaration au bureau de
-déclarations de la direction générale des impôts.
+déclarations de la direction générale des douanes et droits indirects.
 
 Cette déclaration mentionne l'usage auquel doit être affecté l'alcool dénaturé
 et s'il doit ou non être procédé à des opérations de récupération et de

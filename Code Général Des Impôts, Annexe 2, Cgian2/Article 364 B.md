@@ -6,4 +6,4 @@ leur mise à la consommation.
 
 " La taxe est perçue pour le compte du Bureau national interprofessionnel des
 calvados et eaux-de-vie de cidre et de poiré par les bureaux de déclaration de
-la direction générale des impôts.
+la direction générale des douanes et droits indirects.

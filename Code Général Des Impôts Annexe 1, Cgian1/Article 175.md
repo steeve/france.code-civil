@@ -6,7 +6,7 @@ régénérées et utilisées à nouveau après avoir subi, s'il y a lieu, un com
 de dénaturation.
 
 A cet effet, les quantités recueillies sont mises à part et représentées au
-service des impôts.
+service des douanes et droits indirects.
 
 La régénération et, s'il y a lieu, le complément de dénaturation doivent être
 précédés de déclarations souscrites dans les conditions déterminées à l'article

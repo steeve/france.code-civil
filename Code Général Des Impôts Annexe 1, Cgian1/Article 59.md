@@ -2,9 +2,9 @@ Article 59
 ----
 Avant toute utilisation d'un appareil ou récipient affecté à la production ou au
 logement d'alcools ou de boissons passibles de droits indirects, l'exploitant
-doit remettre aux agents des impôts le certificat de jaugeage de ce récipient
-établi par le service des instruments de mesure. Ce certificat doit être
-renouvelé à l'expiration de sa période de validité.
+doit remettre au service des douanes et droits indirects le certificat de
+jaugeage de ce récipient établi par le service des instruments de mesure. Ce
+certificat doit être renouvelé à l'expiration de sa période de validité.
 
 En cas de déformation, de modification ou de réparation susceptibles de changer
 la capacité d'un récipient, l'utilisation en est provisoirement interdite.

@@ -15,12 +15,12 @@ manière à pouvoir être entièrement enlevé lors des opérations.
 
 Les industriels doivent, pour l'agencement de leurs ateliers et magasins, ainsi
 que du local et des bacs affectés au dépôt des dénaturants, se conformer aux
-conditions particulières que le service des impôts jugerait utiles et,
-spécialement, prendre à leurs frais les dispositions nécessaires pour que le
-service puisse apposer des cadenas, dont il conserve les clés, ou des plombs aux
-endroits qu'il indique.
+conditions particulières que le service des douanes et droits indirects jugerait
+utiles et, spécialement, prendre à leurs frais les dispositions nécessaires pour
+que le service puisse apposer des cadenas, dont il conserve les clés, ou des
+plombs aux endroits qu'il indique.
 
-Les agents des impôts peuvent fixer un scellé sur l'entrée des cadenas.
+Les agents du service peuvent fixer un scellé sur l'entrée des cadenas.
 
 Les appareils et récipients reçoivent un numéro d'ordre qui est gravé ou peint
 sur chacun d'eux, avec l'indication de sa contenance, en caractères d'au moins 5
@@ -28,5 +28,5 @@ centimètres de hauteur, par les soins et aux frais des industriels.
 
 Il ne peut être procédé à des opérations de dénaturation que si les
 installations ou les modifications intervenues ont été agréées par le service
-des impôts. Celui-ci peut astreindre les dénaturateurs à prendre les mesures
-nécessaires pour assurer la sécurité de ses agents.
+des douanes et droits indirects. Celui-ci peut astreindre les dénaturateurs à
+prendre les mesures nécessaires pour assurer la sécurité de ses agents.

@@ -6,4 +6,5 @@ personne levant le titre de mouvement mais supportée par l'acheteur et le
 vendeur, chacun pour moitié.
 
 Elle est perçue pour le compte du comité des fruits à cidre et des productions
-cidricoles par les bureaux de déclaration de la direction générale des impôts.
+cidricoles par les bureaux de déclaration de la direction générale des douanes
+et droits indirects.

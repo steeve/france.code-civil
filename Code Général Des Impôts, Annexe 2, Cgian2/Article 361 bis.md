@@ -21,7 +21,7 @@ d'un viticulteur, celui-ci facture le montant de la taxe à l'acheteur afin d'en
 obtenir le remboursement.
 
 III. La taxe est perçue [*perception*], pour le compte de chacun des organismes,
-par les receveurs locaux des impôts.
+par les comptables de la direction générale des douanes et droits indirects.
 
 L'administration reverse aux organismes bénéficiaires le montant de la taxe
 après déduction, dans les conditions réglementaires, des frais d'assiette et de

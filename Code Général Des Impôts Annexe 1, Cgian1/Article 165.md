@@ -2,7 +2,7 @@ Article 165
 ----
 Toute personne qui se propose de dénaturer des alcools par le procédé général
 visé à l'article 511 du code général des impôts doit adresser une demande au
-directeur des services fiscaux [*autorité compétente*].
+directeur régional des douanes et droits indirects.
 
 La demande doit indiquer si l'intéressé veut dénaturer l'alcool en vue de la
 vente ou pour les besoins de son industrie, et, dans ce dernier cas, préciser la

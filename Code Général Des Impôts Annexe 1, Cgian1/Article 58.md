@@ -2,7 +2,7 @@ Article 58
 ----
 Deux mois au moins avant la date prévue pour la première mise en exploitation
 d'un établissement défini à l'avant-dernier alinéa de l'article 57, l'exploitant
-doit remettre au service des impôts [*formalités obligatoires*] :
+doit remettre au service des douanes et droits indirects :
 
 Une déclaration générale d'exploitation indiquant les opérations devant être
 réalisées dans la distillerie et les autres activités exercées dans

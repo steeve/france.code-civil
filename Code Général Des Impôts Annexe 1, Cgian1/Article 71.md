@@ -1,12 +1,12 @@
 Article 71
 ----
 Indépendamment des autres inventaires susceptibles d'être pratiqués à
-l'initiative de l'administration à tout moment, les agents des impôts procèdent
-obligatoirement à la fin de chaque campagne, et immédiatement avant le début des
-travaux de la campagne suivante, à un inventaire général de tous les produits
-détenus dans la distillerie et qui sont suivis au compte spécial d'entrepôt ou
-au compte de magasin, ainsi que de ceux contenus dans les appareils et circuits
-de fabrication.
+l'initiative de l'administration à tout moment, le service des douanes et droits
+indirects procède obligatoirement à la fin de chaque campagne, et immédiatement
+avant le début des travaux de la campagne suivante, à un inventaire général de
+tous les produits détenus dans la distillerie et qui sont suivis au compte
+spécial d'entrepôt ou au compte de magasin, ainsi que de ceux contenus dans les
+appareils et circuits de fabrication.
 
 Lorsque la distillerie est vidée de tout produit imposable avant la fin de la
 campagne et n'est pas susceptible d'en détenir avant le début de la campagne

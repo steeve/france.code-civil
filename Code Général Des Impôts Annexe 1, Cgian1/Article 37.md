@@ -9,9 +9,9 @@ susceptible d'en augmenter la teneur en alcool ;
 
 2° Ne reçoivent du dehors aucune quantité de matières premières de la nature de
 celles qu'ils entendent distiller, à moins qu'ils ne déclarent au préalable ces
-matières au bureau de déclarations de la direction générale des impôts et ne
-s'engagent à les représenter au service des impôts, jusqu'à l'achèvement de
-leurs distillations.
+matières au bureau de déclarations de la direction générale des douanes et
+droits indirects et ne s'engagent à les représenter au service des douanes et
+droits indirects, jusqu'à l'achèvement de leurs distillations.
 
 Sont soumis aux règles tracées par les articles 57 à 91 :
 
