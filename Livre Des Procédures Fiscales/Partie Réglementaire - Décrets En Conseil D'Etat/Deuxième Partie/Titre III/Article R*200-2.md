@@ -1,20 +1,10 @@
 Article R*200-2
 ----
-Les requêtes sont adressées au greffe du tribunal administratif où elles sont
-enregistrées. Un accusé de réception est délivré aux personnes qui en font la
-demande.
-
-Elles doivent être signées de leur auteur et accompagnées de deux copies ou,
-éventuellement, d'un nombre de copies égal à celui des parties ayant un intérêt
-distinct, plus une.
-
-Lorsque les requêtes sont introduites au nom d'un contribuable par un
-mandataire, les dispositions de l'article R. 197-4 sont applicables.
-
-Elles doivent contenir explicitement l'exposé sommaire des faits et moyens, les
-conclusions, les nom et demeure du demandeur et être accompagnées, lorsqu'elles
-font suite à une décision de l'administration, de l'avis de notification de la
-décision contestée.
+Par dérogation aux dispositions de l'article R. 110 du code des tribunaux
+administratifs et des cours administratives d'appel, les requêtes au tribunal
+peuvent être signées d'un mandataire autre que ceux qui sont mentionnés à
+l'article R108 du même code. En ce cas, les dispositions de l'article R197-4 du
+présent livre sont applicables.
 
 Le demandeur ne peut contester devant le tribunal administratif des impositions
 différentes de celles qu'il a visées dans sa réclamation à l'administration.

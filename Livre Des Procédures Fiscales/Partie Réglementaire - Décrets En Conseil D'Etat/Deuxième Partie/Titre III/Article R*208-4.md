@@ -2,162 +2,68 @@ Article R*208-4
 ----
 Font l'objet d'un remboursement les frais suivants :
 
-:=================================:===============================:
+NATURE DES GARANTIES CONSTITUEES / NATURE DES FRAIS :
 
-: NATURE DES GARANTIES : NATURE DES FRAIS :
+1° CREANCES SUR LE TRESOR :
 
-: CONSTITUEES : :
+a) Créances sur le Trésor proprement dites :
 
-:---------------------------------:-------------------------------:
+Frais de timbre de dimension du nantissement constitué au profit du Trésor.
 
-: 1° Créances sur le Trésor : : :
+Frais de signification de ce nantissement au comptable payeur par huissier de
+justice.
 
-: a) Créances sur le Trésor : Frais de timbre de dimension :
+b) Dépôts de fonds dans les trésoreries générales.
 
-: proprement dites. : du nantissement constitué au :
+Frais de timbre de dimension de l'engagement souscrit par le contribuable au
+profit du Trésor.
 
-: : profit du Trésor. :
+2° CAUTIONNEMENT :
 
-: : Frais de signification de ce :
+Frais de timbre de dimension de l'acte sous seing privé.
 
-: : nantissement au comptable :
+Rémunération demandée par la caution, dans une limite fixée par arrêté.
 
-: : payeur par huissier de :
+Le cas échéant, frais de constitution de garanties au profit de la caution : les
+frais à rembourser ne peuvent pas excéder ceux qui auraient été exposés si les
+garanties avaient été constituées au profit du Trésor.
 
-: : justice. :
+3° VALEURS MOBILIERES :
 
-: : :
+a) Dans tous les cas :
 
-: b) Dépôts de fonds dans les : Frais de timbre de dimension :
+Frais de l'acte de nantissement, s'il s'agit de valeurs au porteur
 
-: trésoreries générales. : de l'engagement souscrit par :
+b) Titres déposés à la caisse du comptable chargé du recouvrement
 
-: : le contribuable au profit du :
+Frais d'envoi des titres à la trésorerie générale.
 
-: : Trésor. :
+c) Titres déposés dans une banque :
 
-: : :
+Frais réclamés par la banque (droit de garde, frais de transport des titres de
+l'agence au lieu de conservation).
 
-: 2° Cautionnement : Frais de timbre de dimension :
+4° MARCHANDISES DEPOSEES DANS DES MAGASINS AGREES PAR L'ETAT ET FAISANT L'OBJET
+D'UN WARRANT ENDOSSE A L'ORDRE DU TRESOR :
 
-: : de l'acte sous seing privé. :
+Frais de magasinage, débours (prime d'assurance, d'incendie).
 
-: : Rémunération demandée par la :
+Timbre des effets de commerce auquel est soumis le warrant.
 
-: : caution, dans une limite :
+5° AFFECTATIONS HYPOTHECAIRES :
 
-: : fixée par arrêté. :
+Frais de timbre du contrat de constitution d'hypothèque, émolument du notaire
+rédacteur de l'acte.
 
-: : Le cas échéant, frais de :
+Droits d'enregistrement de l'acte. Salaire du conservateur des hypothèques.
 
-: : constitution de garanties :
+En cas de radiation de l'inscription : salaire du conservateur des hypothèques,
+frais de mainlevée notariée de l'inscription s'il y a lieu.
 
-: : au profit de la caution : :
+6° NANTISSEMENT DE FONDS DE COMMERCE :
 
-: : les frais à rembourser ne :
+Frais de timbre du contrat de nantissement. Droit d'enregistrement de l'acte.
 
-: : peuvent pas excéder ceux qui :
+Frais d'inscription et salaire du greffier du tribunal de commerce.
 
-: : auraient été exposés si les :
-
-: : garanties avaient été :
-
-: : constituées au profit du :
-
-: : Trésor. :
-
-: : :
-
-: : :
-
-: 3° Valeurs mobilières : : :
-
-: a) Dans tous les cas ... : Frais de l'acte de :
-
-: : nantissement, s'il s'agit :
-
-: : de valeurs au porteur. :
-
-: : :
-
-: b) Titres déposés à la caisse : Frais d'envoi des titres à :
-
-: du comptable chargé du : la trésorerie générale. :
-
-: recouvrement. : :
-
-: : :
-
-: c) Titres déposés dans un : Frais réclamés par :
-
-: établissement de crédit. : l'établissement de crédit :
-
-: : (droit de garde, frais de :
-
-: : transport des titres de :
-
-: : l'agence au lieu de :
-
-: : conservation). :
-
-: 4° Marchandises déposées dans : Frais de magasinage, débours :
-
-: des magasins agréés par : (prime d'assurance, :
-
-: l'Etat et faisant l'objet : d'incendie). Timbre des :
-
-: d'un warrant endossé à : effets de commerce auquel :
-
-: l'ordre du Trésor. : est soumis le warrant. :
-
-: : :
-
-: 5° Affectations hypothécaires. : Frais de timbre du contrat :
-
-: : de constitution d'hypothèque, :
-
-: : émoluments du notaire :
-
-: : rédacteur de l'acte. :
-
-: : Droits d'enregistrement de :
-
-: : l'acte. Salaire du :
-
-: : conservateur des hypothèques.:
-
-: : En cas de radiation de :
-
-: : l'inscription : salaire du :
-
-: : conservateur des hypothèques, :
-
-: : frais de mainlevée notariée :
-
-: : de l'inscription s'il y a :
-
-: : lieu. :
-
-: : :
-
-: 6° Nantissement de fonds de : Frais de timbre du contrat :
-
-: commerce. : de nantissement. Droit :
-
-: : d'enregistrement de l'acte. :
-
-: : Frais d'inscription et :
-
-: : salaire du greffier du :
-
-: : tribunal de commerce. :
-
-: : En cas de radiation de :
-
-: : l'inscription : frais de :
-
-: : radiation, salaire du :
-
-: : greffier. :
-
-:=================================:===============================:
+En cas de radiation de l'inscription : frais de radiation, salaire du greffier.

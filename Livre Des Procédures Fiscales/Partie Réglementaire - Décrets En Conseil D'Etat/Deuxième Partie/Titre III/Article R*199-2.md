@@ -1,4 +1,5 @@
 Article R*199-2
 ----
-Les jugements du tribunal administratif peuvent être soumis à la Cour
-administrative d'appel par la voie d'appel.
+Les jugements des tribunaux administratifs peuvent faire l'objet des recours
+prévus par le code des tribunaux administratifs et des cours administratives
+d'appel.
