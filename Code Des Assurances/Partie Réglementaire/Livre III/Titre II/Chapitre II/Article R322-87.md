@@ -12,4 +12,4 @@ d'établissement et, s'il y a lieu, le montant du droit d'entrée.
 
 L'extrait des actes et pièces déposés est signé, pour les actes publics, par le
 notaire et, pour les actes sous seing privé, par les membres du conseil
-d'administration.
+d'administration ou du directoire.

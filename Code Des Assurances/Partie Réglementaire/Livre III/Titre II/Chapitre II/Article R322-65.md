@@ -15,28 +15,20 @@ notification, l'assuré a le droit de résilier les contrats qu'il a souscrits �
 la société, dans les conditions fixées par les deuxième et troisième alinéas de
 l'article R. 113-10.
 
-L'assemblée générale délibère valablement si le nombre des sociétaires présents,
-représentés ou ayant fait usage de la faculté de vote par correspondance,
-représente les deux tiers au moins du nombre total des sociétaires.
-
-Si une première assemblée n'a pas réuni le quorum précédent, une nouvelle
-assemblée peut être convoquée. La convocation reproduit l'ordre du jour
-indiquant la date et le résultat de la précédente assemblée. La seconde
-assemblée délibère valablement si le nombre des sociétaires présents,
-représentés ou ayant fait usage de la faculté de vote par correspondance,
-atteint la moitié du nombre total des sociétaires.
-
-Si cette seconde assemblée ne réunit pas le quorum prévu à l'alinéa précédent,
-il peut être convoqué une troisième assemblée qui délibère valablement si le
-nombre des sociétaires présents, représentés ou ayant fait usage de la faculté
-de vote par correspondance, atteint le tiers au moins du nombre total des
-sociétaires.
-
-A défaut de quorum, cette troisième assemblée peut être prorogée à une date
-ultérieure de deux mois au plus à partir du jour auquel elle avait été
-convoquée. Cette assemblée délibère valablement si le nombre des sociétaires
+L'assemblée générale ne délibère valablement que si le nombre de ses membres
 présents, représentés ou ayant fait usage de la faculté de vote par
-correspondance, atteint le tiers du nombre total des sociétaires.
+correspondance lorsque celle-ci est prévue par les statuts, est au moins égal au
+tiers du total des membres.
+
+Si, lors de la première convocation, l'assemblée générale n'a pas réuni le
+quorum fixé à l'alinéa précédent, une seconde assemblée générale peut être
+convoquée qui délibère valablement si le nombre de ses membres présents,
+représentés ou ayant fait usage de la faculté de vote par correspondance lorsque
+celle-ci est prévue par les statuts, représente au moins le quart du total des
+membres. A défaut de ce dernier quorum, cette deuxième assemblée peut être
+prorogée à une date postérieure de deux mois au plus à celle de laquelle elle
+avait été convoquée. Elle statue alors à la majorité des deux tiers des membres
+présents, représentés ou ayant fait l'usage de leur vote par correspondance.
 
 Dans les assemblées générales mentionnées au présent article les résolutions,
 pour être valables, doivent toujours réunir les deux tiers au moins des voix des

@@ -1,10 +1,10 @@
 Article R322-64
 ----
 L'assemblée générale qui doit délibérer sur la nomination des membres du premier
-conseil d'administration et sur la sincérité de la déclaration faite, aux termes
-de l'article R. 322-51, par les signataires de l'acte primitif, est composée de
-tous les sociétaires ayant adhéré préalablement à la constitution définitive de
-la société.
+conseil d'administration ou du premier conseil de surveillance et sur la
+sincérité de la déclaration faite, aux termes de l'article R. 322-51, par les
+signataires de l'acte primitif, est composée de tous les sociétaires ayant
+adhéré préalablement à la constitution définitive de la société.
 
 Elle délibère valablement si les sociétaires présents, représentés ou ayant fait
 usage de la faculté de vote par correspondance, forment la majorité.

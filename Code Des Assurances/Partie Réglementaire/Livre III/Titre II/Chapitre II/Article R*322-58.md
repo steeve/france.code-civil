@@ -1,17 +1,24 @@
 Article R*322-58
 ----
-Les statuts déterminent la composition des assemblées générales. Ils fixent à
-cet effet et, s'il y a lieu, pour chaque branche : soit le montant minimal de
-cotisations nécessaire pour en faire partie, soit le nombre des sociétaires,
-titulaires de contrats comportant les cotisations les plus élevées, qui doivent
-les composer, ou celui des sociétaires, titulaires dans chaque groupement
-professionnel ou régional des contrats comportant les cotisations les plus
-élevées, lorsque la société a admis dans ses statuts ce mode de groupement. Le
-nombre des sociétaires pouvant faire partie des assemblées générales ne peut
-être fixé à moins de cinquante.
+Les statuts déterminent la composition de l'assemblée générale. Cette dernière
+se compose soit de tous les sociétaires à jour de leurs cotisations, soit de
+délégués élus par ces sociétaires. Pour l'application de cette seconde faculté,
+les sociétaires peuvent être répartis en groupements suivant la nature du
+contrat souscrit ou selon des critères régionaux ou professionnels. Le nombre de
+ces délégués ne peut être fixé à moins de cinquante.
 
-Ne peuvent faire partie de l'assemblée que les sociétaires à jour de leurs
-cotisations.
+Les statuts peuvent rendre applicables aux sociétaires les dispositions
+relatives au vote par correspondance prévues pour les actionnaires par l'article
+L. 225-107 du code de commerce et par les articles R. 225-75, R. 225-77, R.
+225-79 et R. 225-81 du code de commerce. Pour l'application de ces dispositions,
+il y a lieu d'entendre le " sociétaire " là où est mentionné l'" actionnaire "
+et le formulaire de vote par correspondance est conforme au modèle annexé au
+présent code. Pour toute procuration d'un sociétaire sans indication de
+mandataire, le président émet un vote favorable à l'adoption des projets de
+résolution présentés ou agréés par le conseil d'administration, et un vote
+défavorable à l'adoption de tous les autres projets de résolution. Pour émettre
+tout autre vote, le sociétaire doit faire choix d'un mandataire qui accepte de
+voter dans le sens indiqué par le mandant.
 
 La liste des sociétaires pouvant prendre part à une assemblée générale est
 arrêtée au quinzième jour précédant cette assemblée par les soins du conseil
@@ -28,15 +35,12 @@ Toutefois, ce nombre peut être augmenté dans la mesure nécessaire, pour que l
 réalisation du quorum réglementaire le plus faible ne nécessite pas la présence
 effective de plus de cent mandataires.
 
-Les sociétaires qui ne remplissent pas individuellement les conditions prévues
-par les statuts pour prendre part à l'assemblée générale peuvent, de leur propre
-initiative, se réunir pour former des groupements satisfaisant auxdites
-conditions et se faire représenter par un sociétaire.
+Les statuts doivent alors indiquer le montant maximal de pouvoirs susceptibles
+d'être confiés à un même mandataire au-delà des cinq mandats réglementaires.
 
 Le sociétaire ou le tiers porteur de pouvoirs doit les déposer au siège de la
 société et les y faire enregistrer cinq jours au moins avant la réunion de
 l'assemblée générale, faute de quoi ces pouvoirs sont nuls et de nul effet.
 
-Tout sociétaire présent ou représenté ou tout groupement de sociétaires formé en
-vertu des dispositions du sixième alinéa du présent article ne peut avoir droit
-qu'à une voix, sans qu'il puisse être dérogé à cette règle par les statuts.
+Tout sociétaire a droit à une voix et une seule, sans qu'il puisse être dérogé à
+cette règle par les statuts.

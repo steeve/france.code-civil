@@ -16,7 +16,8 @@ Le montant de la cotisation normale doit être indiqué sur les polices délivr�
 
 Les fractions du montant maximal de cotisation que les assurés des sociétés à
 cotisations variables peuvent, le cas échéant, avoir à verser en sus de la
-cotisation normale, sont fixées par le conseil d'administration.
+cotisation normale, sont fixées par le conseil d'administration ou le
+directoire.
 
 Les dispositions du présent article ne s'appliquent pas aux sociétés pratiquant
 une ou plusieurs des branches mentionnées aux 20 à 26 de l'article R. 321-1.

@@ -1,9 +1,9 @@
 Article R322-72
 ----
-Le conseil d'administration décide de l'admissibilité et de la tarification de
-tout risque prévu par les statuts, sous réserve de l'application des lois et
-règlements en vigueur. Aucun traitement préférentiel ne peut être accordé à un
-sociétaire.
+Le conseil d'administration ou le directoire décide de l'admissibilité et de la
+tarification de tout risque prévu par les statuts, sous réserve de l'application
+des lois et règlements en vigueur. Aucun traitement préférentiel ne peut être
+accordé à un sociétaire.
 
 Il fixe, à l'issue de l'assemblée générale ordinaire approuvant les comptes
 annuels, le montant du droit d'entrée ou droit d'adhésion applicable jusqu'à
