@@ -14,4 +14,4 @@ l'exproprié.
 L'expropriant peut, nonobstant l'existence d'obstacles au paiement représentés
 exclusivement par des inscriptions de privilèges, d'hypothèques ou de
 nantissement, payer l'indemnité à l'exproprié, sous réserve du droit des tiers,
-lorsque son montant est inférieur à cinq mille francs.
+lorsque son montant est inférieur à 50 000 francs.
