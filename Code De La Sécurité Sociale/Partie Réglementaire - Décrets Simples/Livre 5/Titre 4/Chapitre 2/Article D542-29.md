@@ -5,11 +5,9 @@ défaut de paiement des sommes définies à l'article D. 542-25 dans les conditi
 prévues au premier alinéa de l'article D. 542-19, le prêteur peut obtenir de
 l'organisme payeur le versement entre ses mains de l'allocation de logement aux
 lieu et place de l'allocataire dans les conditions fixées par les articles D.
-542-22, D. 542-22-1, D. 542-22-2 et D. 542-22-3. Lorsque l'allocation de
-logement est versée au prêteur en application du sixième alinéa de l'article L.
-553-4 et que l'allocataire ne règle pas la part de dépense de logement restant à
-sa charge, il est fait application des dispositions de l'article D. 542-22-4.
+542-22, D. 542-22-1, D. 542-22-2 et D. 542-22-3.
 
-Dans les cas où l'impayé est supérieur à douze mensualités nettes d'accession à
-la propriété, le délai mentionné à l'article D. 542-22-3 et au troisième alinéa
-de l'article D. 542-22-4 est de soixante mois.
+Lorsque l'allocation de logement est versée au prêteur en application du sixième
+alinéa de l'article L. 553-4 et que l'allocataire ne règle pas la part de
+dépense de logement restant à sa charge, il est fait application des
+dispositions de l'article D. 542-22-4.

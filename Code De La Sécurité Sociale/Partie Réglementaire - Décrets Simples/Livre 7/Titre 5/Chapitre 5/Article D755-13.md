@@ -1,7 +1,7 @@
-Article D542-3
+Article D755-13
 ----
 L'allocation de logement est due à la date et aux conditions définies à
-l'article L. 542-2 du code de la sécurité sociale.
+l'article L. 542-2.
 
 Le droit s'éteint à compter du premier jour du mois civil au cours duquel les
 conditions d'ouverture du droit cessent d'être réunies, sauf si la clôture du
@@ -15,12 +15,6 @@ ses droits à l'allocation prennent effet et cessent de produire leur effet selo
 les règles ci-dessus définies respectivement pour l'ouverture et pour
 l'extinction des droits.
 
-Toutefois, en cas de déménagement et en cas de conclusion ou de résiliation de
-l'une des conventions mentionnées à l'article L.351-2 du code de la construction
-et de l'habitation, le droit à l'allocation de logement, le cas échéant :
-
-a) Est ouvert à compter du premier jour du mois civil au cours duquel les
-conditions d'ouverture du droit sont réunies ;
-
-b) S'éteint le dernier jour du mois civil au cours duquel les conditions
-d'ouverture du droit cessent d'être réunies.
+Les dispositions du présent article ne peuvent avoir pour effet d'interrompre le
+service de l'allocation de logement en cas de déménagement si le droit à la
+prestation est ouvert au titre du nouveau logement.

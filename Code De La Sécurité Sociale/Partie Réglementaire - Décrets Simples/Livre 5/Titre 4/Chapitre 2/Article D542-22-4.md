@@ -12,13 +12,14 @@ doit rembourser à celui-ci l'allocation de logement versée depuis la défailla
 de l'allocataire jusqu'à la saisine éventuelle de l'organisme payeur.
 
 Le versement de l'allocation de logement est maintenu, sur décision de
-l'organisme payeur, pendant une durée qui ne peut excéder trente-six mois.
+l'organisme payeur, pendant la durée fixée en application de l'article D.
+542-22-3.
 
 Pendant cette période, et compte tenu de la situation du bénéficiaire,
 l'organisme payeur décide :
 
 a) Soit de renvoyer le dossier au bailleur aux fins de mettre en place dans un
-délai maximum de six mois un plan d'apurement de la dette ;
+délai maximum de six mois un plan d'apurement de la dette.
 
 Sur présentation par le bailleur dudit plan signé par l'allocataire, l'organisme
 payeur maintient le service de l'allocation de logement, sous réserve de la
