@@ -27,10 +27,9 @@ l'indemnité fixé au premier alinéa du présent article.
 L'indemnité de changement d'emploi ne se cumule pas avec l'indemnité journalière
 prévue à l'article L. 433-1.
 
-Dans le cas où cette dernière indemnité vient à être due au titre de l'article
-D. 461-12, après attribution de l'indemnité de changement d'emploi et pour des
-journées comprises dans la période prévue au deuxième alinéa du présent article,
-le montant de l'indemnité journalière est réduit, pour chacune de ces journées,
-d'une somme égale au résultat de la division du montant de l'indemnité de
-changement d'emploi par le nombre de jours, ouvrables ou non, compris dans
-ladite période.
+Dans le cas où cette dernière indemnité vient à être due, après attribution de
+l'indemnité de changement d'emploi et pour des journées comprises dans la
+période prévue au deuxième alinéa du présent article, le montant de l'indemnité
+journalière est réduit, pour chacune de ces journées, d'une somme égale au
+résultat de la division du montant de l'indemnité de changement d'emploi par le
+nombre de jours, ouvrables ou non, compris dans ladite période.

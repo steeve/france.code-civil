@@ -3,10 +3,8 @@ Article D461-18
 Dans tous les cas où une nouvelle fixation des réparations est demandée par la
 victime, celle-ci doit être examinée par le médecin conseil de la caisse
 primaire d'assurance maladie ou de l'organisation spéciale de sécurité sociale.
-Celui-ci peut demander, s'il le juge nécessaire, un examen par le médecin agréé
-ou le collège des trois médecins. Le rapport détaillé et les conclusions
-motivées sont établis et adressés au médecin conseil qui les transmet au service
-administratif avec son avis.
+Celui-ci peut demander, s'il le juge nécessaire, un examen par le médecin
+spécialiste ou compétent mentionné au second alinéa de l'article D. 461-8.
 
 Dans le cas où une nouvelle fixation des réparations est demandée par les ayants
 droit de la victime, conformément aux dispositions du troisième alinéa de

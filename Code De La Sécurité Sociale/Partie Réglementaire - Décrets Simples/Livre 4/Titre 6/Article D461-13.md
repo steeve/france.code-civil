@@ -9,9 +9,6 @@ tableau ne fixe pas de durée d'exposition.
 
 Pour les durées inférieures d'exposition au risque, ou si le malade fait
 constater son affection au-delà du délai de prise en charge prévu par les
-tableaux n°s 25, 30, 30 bis, 44, 44 bis, 91 et 94, le droit aux indemnités en
-capital et aux rentes est également ouvert dans les conditions prévues par le
-présent livre après avis du médecin conseil si l'examen effectué par le médecin
-agréé ou par le collège, conformément à l'article D. 461-10, établit que la
-victime est ou était atteinte d'une des affections mentionnées à l'article D.
-461-5 nettement caractérisée.
+tableaux n° s 25,30,44 et 44 bis, le droit aux indemnités en capital et aux
+rentes est également ouvert dans les conditions prévues par le présent livre
+après avis du médecin-conseil.
