@@ -1,10 +1,10 @@
 Article L46-1
 ----
 Nul ne peut cumuler plus de deux des mandats électoraux ou fonctions électives
-énumérés ci-après : représentant à l'Assemblée des communautés européennes,
-conseiller régional, conseiller général, conseiller de Paris, maire d'une
-commune de 20 000 habitants ou plus, autre que Paris, adjoint au maire d'une
-commune de 100 000 habitants ou plus, autre que Paris.
+énumérés ci-après : représentant au parlement européen, conseiller régional,
+conseiller de Paris, maire d'une commune de 20 000 habitants ou plus, autre que
+Paris, adjoint au maire d'une commune de 100 000 habitants ou plus, autre que
+Paris.
 
 Quiconque se trouve dans ce cas doit faire cesser l'incompatibilité en
 démissionnant du mandat ou de la fonction de son choix. Il dispose à cet effet
@@ -17,3 +17,6 @@ récente prend fin de plein droit.
 Pour l'application du présent article, la population prise en compte est celle
 résultant du dernier recensement national connu au moment du renouvellement du
 conseil municipal.
+
+Pour l'application des règles déterminées aux précédents alinéas, le mandat de
+conseiller à l'Assemblée de Corse est assimilé au mandat de conseiller régional.
