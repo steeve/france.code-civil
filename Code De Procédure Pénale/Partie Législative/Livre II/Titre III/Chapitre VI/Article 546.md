@@ -2,9 +2,11 @@ Article 546
 ----
 La faculté d'appeler appartient au prévenu, à la personne civilement
 responsable, au procureur de la République et à l'officier du ministère public
-près le tribunal de police, lorsque le jugement prononce une peine
-d'emprisonnement ou lorsque la peine encourue excède cinq jours d'emprisonnement
-ou 1.300 F d'amende.
+près le tribunal de police, lorsque l'amende encourue est celle prévue pour les
+contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue
+par le 1° de l'article 131-16 du code pénal, ou lorsque la peine d'amende
+prononcée est supérieure au maximum de l'amende encourue pour les contraventions
+de la deuxième classe.
 
 Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler
 appartient également au prévenu et à la personne civilement responsable.

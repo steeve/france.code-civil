@@ -13,6 +13,4 @@ cour déclare nulle la procédure de contumace et ordonne qu'elle sera recommenc
 à partir du plus ancien acte illégal.
 
 Dans le cas contraire, la cour prononce sans l'assistance de jurés sur
-l'accusation, sans pouvoir, en cas de condamnation, accorder le bénéfice des
-circonstances atténuantes au contumax. La cour statue ensuite sur les intérêts
-civils.
+l'accusation. La cour statue ensuite sur les intérêts civils.
