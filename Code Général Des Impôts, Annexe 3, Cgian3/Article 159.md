@@ -1,16 +1,7 @@
 Article 159
 ----
-Les alcools acquis de l'Etat, entrant dans les produits destinés à
-l'exportation, sont fournis aux prix fixés pour l'intérieur. Les
-rétrocessionnaires peuvent obtenir le remplacement aux tarifs "exportation"
-correspondants des quantités expédiées à l'étranger, sur présentation de
-justifications d'exportation, dans les conditions déterminées par le service des
-alcools.
-
-Si les prix de cession ont été modifiés depuis l'expédition des produits par le
-rétrocessionnaire, il est, s'il y a lieu, perçu une soulte tenant compte des
-modifications survenues dans ces prix.
-
-La compensation peut être assortie d'une attribution de démarrage à tarif
-préférentiel qui est accordée, suivant les modalités fixées par le service des
-alcools, aux entreprises ayant une importante activité exportatrice.
+Les fabricants peuvent obtenir des remboursements partiels sur le prix de
+l'alcool, rétrocédé par l'Etat, contenu dans les produits élaborés et expédiés à
+l'étranger. Ces remboursements, dont le taux est fixé par arrêté ministériel,
+sont subordonnés à la présentation de justifications d'exportation, dans les
+conditions déterminées par le service des alcools.
