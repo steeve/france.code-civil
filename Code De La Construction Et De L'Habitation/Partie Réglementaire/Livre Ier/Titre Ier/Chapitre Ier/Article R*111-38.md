@@ -4,7 +4,7 @@ Sont soumises obligatoirement au contrôle technique prévu à l'article L. 111-
 les opérations de construction ayant pour objet la réalisation:
 
 1. D'établissements recevant du public, au sens de l'article R. 123-2, classés
-dans les 1re, 2e et 3e catégories visées à l'article R. 123-19 ;
+dans les 1re, 2e, 3e et 4e catégories visées à l'article R. 123-19 ;
 
 2. D'immeubles dont le plancher bas du dernier niveau est situé à plus de 28
 mètres par rapport au niveau du sol le plus haut utilisable par les engins des
