@@ -1,39 +1,36 @@
 Article 363 F
 ----
-" I. - Il est institué au profit de l'Association nationale pour le
-développement agricole, pour être versée au Fonds national de développement
-agricole, une taxe parafiscale sur les graines oléagineuses : colza, navette,
-tournesol et soja livrées par les producteurs aux intermédiaires agréés,
-applicable à partir de la campagne 1988-1989 jusqu'à la fin de la campagne
-1992-1993.
+I Il est institué, pour les campagnes 1993-1994 et 1994-1995, une taxe
+parafiscale sur les graines oléagineuses : colza, navette, tournesol et soja,
+perçue au profit de l'Association nationale pour le développement agricole, pour
+être versée au Fonds national de développement agricole.
 
-" II. - La taxe est mise à la charge des producteurs. Elle est retenue par les
-intermédiaires agréés lors du paiement des graines oléagineuses aux producteurs.
-Le poids des graines à la réception est, pour le calcul de la taxe, ramené à la
-qualité type arrêtée pour chaque campagne par le Conseil des communautés
-européennes, conformément aux dispositions des règlements n° 136-66 du 22
-septembre 1966 modifié et n° 1491-85 du 23 mai 1985.
+II. La taxe est à la charge des producteurs. Elle est assise sur les quantités
+de graines livrées aux intermédiaires agréés ou aux organismes collecteurs.
 
-" III. - Les taux maximaux de la taxe sont les suivants :
+La taxe est retenue par les intermédiaires agréés ou les organismes collecteurs
+lors du paiement des graines oléagineuses aux producteurs.
 
-" a) Pour les graines de colza, navette et tournesol : 0,40 p. 100 du prix
-d'intervention fixé par le Conseil des communautés européennes ;
+III. Le montant maximum de la taxe est fixé à :
 
-" b) Pour les graines de soja : 0,40 p. 100 du prix d'objectif fixé par les
-mêmes autorités.
+a) 5,75 F par tonne pour les graines de colza et navette ;
 
-" Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture
-fixe dans ces limites les montants de la taxe effectivement perçue (1).
+b) 7,00 F par tonne pour les graines de tournesol ;
 
-" IV. - La taxe est perçue par la direction générale des douanes et droits
-indirects auprès des intermédiaires agréés. Elle est établie et recouvrée selon
-les règles et sous les garanties et sanctions prévues en matière de
-contributions indirectes.
+c) 3,70 F par tonne pour les graines de soja.
 
-" Les sommes exigibles sont liquidées sur production, par les intermédiaires
-agréés, de déclarations conformes aux modèles fixés par la direction générale
-des douanes et droits indirects et transmises à cette administration dans les
-dix premiers jours du mois suivant celui au titre duquel la taxe est applicable.
-Elles doivent être acquittées au plus tard le 25 du mois de la déclaration. "
+Un arrêté conjoint du ministre de l'économie et des finances, du ministre de
+l'agriculture et du développement rural et du ministre du budget fixe, pour
+chaque campagne, dans ces limites, le montant de la taxe (1).
 
-A (1) Arrêté à émettre.
+IV. La taxe est liquidée et recouvrée auprès des intermédiaires agréés ou
+organismes collecteurs selon les règles et sous les garanties, privilèges et
+sanctions prévues en matière de contributions indirectes.
+
+Les sommes exigibles sont liquidées sur production, par les intermédiaires
+agréés ou organismes collecteurs, de déclarations conformes aux modèles fixés
+par l'administration et transmises à cette administration dans les dix premiers
+jours du mois suivant celui au titre duquel la taxe est applicable. Elles
+doivent être acquittées au plus tard le 25 du mois de la déclaration.
+
+(1) Voir annexe IV art. 159 AR.
