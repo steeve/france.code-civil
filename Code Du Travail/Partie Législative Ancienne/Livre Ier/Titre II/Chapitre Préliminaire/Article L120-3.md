@@ -12,3 +12,11 @@ personnes citées au premier alinéa fournissent directement ou par une personne
 interposée des prestations à un donneur d'ouvrage dans des conditions qui les
 placent dans un lien de subordination juridique permanente à l'égard de
 celui-ci.
+
+Celui qui a eu recours aux services d'une personne visée au premier alinéa dans
+des conditions qui permettent d'établir l'existence d'un contrat de travail est
+tenu au paiement des cotisations et contributions dues aux organismes chargés
+d'un régime de protection sociale ainsi qu'aux caisses de congés payés
+mentionnées à l'article L. 223-16 au titre de la période d'activité
+correspondant à l'exécution de ce contrat, dans la limite des prescriptions
+applicables à ces cotisations et contributions.

@@ -15,4 +15,7 @@ commettre l'infraction ou qui ont été utilisés à cette occasion, ainsi que d
 ceux qui en sont le produit et qui appartiennent au condamné ;
 
 4° L'affichage ou la diffusion de la décision prononcée, dans les conditions
-prévues par l'article 131-35 du code pénal.
+prévues par l'article 131-35 du code pénal ;
+
+5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
+pénal, des droits civiques, civils et de famille.

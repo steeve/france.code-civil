@@ -17,7 +17,10 @@ ignorer l'utilisation frauduleuse ainsi que des objets qui sont le produit de
 l'infraction et qui appartiennent au condamné.
 
 4° L'affichage ou la diffusion de la décision prononcée, dans les conditions
-prévues par l'article 131-35 du code pénal.
+prévues par l'article 131-35 du code pénal ;
+
+5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code
+pénal, des droits civiques, civils et de la famille.
 
 Les personnes physiques coupables des infractions prévues à l'article L. 364-6
 encourent en outre la fermeture des locaux ou établissements tenus ou exploités
