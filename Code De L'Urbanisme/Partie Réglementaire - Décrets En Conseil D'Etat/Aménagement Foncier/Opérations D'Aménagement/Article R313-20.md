@@ -27,5 +27,5 @@ plusieurs communes et ayant compétence en matière d'urbanisme ou par arrêté 
 mêmes ministres et du ministre de l'intérieur en cas d'opposition du conseil
 municipal ou de l'organe délibérant de l'établissement public.
 
-l'acte modifiant le plan fait l'objet des mesures de publicité et d'information
-du public mentionnées aux articles R. 123-12 et R. 123-13.
+L'acte modifiant le plan fait l'objet des mesures de publicité mentionnées à
+l'article R. 313-10.

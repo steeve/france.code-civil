@@ -10,5 +10,4 @@ L'avis émis par la commune ou l'établissement public groupant plusieurs commun
 et ayant compétence en matière d'urbanisme, en application des articles R.
 311-3-2 et R. 311-32 peut porter aussi sur les modifications aux règles
 d'urbanisme applicables dans la zone d'aménagement concerté et destinées à être
-incorporées au plan d'occupation des sols. Dans ce cas, cet avis tient lieu de
-l'avis exigé à l'article R. 123-34.
+incorporées au plan d'occupation des sols.

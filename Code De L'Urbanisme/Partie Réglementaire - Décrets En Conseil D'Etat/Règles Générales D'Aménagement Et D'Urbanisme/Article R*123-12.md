@@ -1,14 +1,12 @@
 Article R*123-12
 ----
-L'acte rendant public ou approuvant un plan d'occupation des sols fait l'objet :
+Le plan d'occupation des sols, éventuellement modifié pour tenir compte des
+résultats de l'enquête publique et des propositions de la commission de
+conciliation, et, si la nature et l'importance des modifications le justifient,
+après consultation des représentants des services de l'Etat et des personnes
+publiques associées à son élaboration, est approuvé par délibération du conseil
+municipal [*autorité compétente*].
 
-1. D'une mention au Journal officiel de la République française s'il s'agit d'un
-décret, d'un arrêté interministériel ou d'un arrêté ministériel [*publicité*] ;
-
-/M/2. D'une mention au recueil des actes administratifs du département s'il
-s'agit d'un arrêté préfectoral. Dans ce dernier cas, le préfet fait en outre
-insérer cette mention dans deux journaux régionaux ou locaux diffusés dans tout
-le département./M/DECR.0736 : 2. D'une publication au recueil des actes
-administratifs du département, s'il s'agit d'un arrêté préfectoral. Dans ce cas,
-cet arrêté fait l'objet d'une mention en caractères apparents dans deux journaux
-régionaux ou locaux diffusés dans tout le département//.
+La délibération approuvant le plan d'occupation des sols fait l'objet des
+mesures de publicité mentionnées au 3è alinéa de l'article R. 123-10. Elle est
+exécutoire dans les conditions fixées au dernier alinéa du même article.

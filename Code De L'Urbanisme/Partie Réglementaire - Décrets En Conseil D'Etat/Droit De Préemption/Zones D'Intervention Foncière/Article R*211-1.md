@@ -8,7 +8,7 @@ instituée de plein droit sur toute l'étendue de la zone urbaine délimitée pa
 plan d'occupation des sols rendu public ou approuvé.
 
 Sans préjudice des mesures de publicité et d'information du public édictées par
-les articles R. 123-12 et R. 123-13 (alinéas 1 et 3), l'acte qui décide de
+les articles R. 123-10 et R. 123-14 (alinéas 1 et 3), l'acte qui décide de
 rendre public ou qui approuve le plan d'occupation des sols de ces communes ou
 groupements de communes, accompagné d'un plan précisant les limites de la zone
 urbaine ainsi que les périmètres visés à l'article L. 211-5 (alinéa 2)
