@@ -4,11 +4,13 @@ Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des acti
 mentionnés ci-après ne peut excéder, sauf dérogation accordée cas par cas par la
 commission de contrôle des assurances :
 
-1° 5 p. 100 pour l'ensemble des valeurs émises et des prêts obtenus par un même
-organisme, à l'exception :
+1° 5 p. 100 pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un
+même organisme et des dépôts placés auprès de cet organisme, à l'exception :
 
 a) Des valeurs émises ou garanties, ou des prêts obtenus, par un Etat membre de
-l'O.C.D.E. ;
+l'O.C.D.E. ainsi que des titres émis par la caisse d'amortissement de la dette
+sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996
+relative au remboursement de la dette sociale ;
 
 b) Des actions des sociétés d'investissement à capital variable et des parts des
 fonds communs de placement visées au 3° de l'article R. 332-2, dont le
@@ -22,8 +24,9 @@ pas 40 p. 100 du montant défini à l'article R. 332-3.
 2° 10 p. 100 pour un même immeuble ou pour les parts ou actions d'une même
 société immobilière ou foncière ;
 
-3° 0,5 p. 100 pour les valeurs mentionnées aux 6° et 7° de l'article R. 332-2
-émises par une même société ou un même fonds.
+3° 0,5 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2
+et les prêts mentionnés au troisième alinéa du 1 de l'article R. 332-13,
+respectivement émises ou obtenus par une même société ou un même organisme.
 
 Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise
 ne peut affecter à la représentation de ses engagements réglementés plus de 50

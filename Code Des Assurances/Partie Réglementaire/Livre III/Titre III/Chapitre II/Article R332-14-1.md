@@ -1,7 +1,18 @@
 Article R332-14-1
 ----
-Les créances mentionnées au 19° bis de l'article R. 332-2 sont admises en
-représentation des engagements réglementés si elles ont fait l'objet d'un
-cautionnement en espèces ou d'une caution donnée par un établissement de crédit
-ou d'un nantissement de valeurs répondant aux conditions fixées par l'article R.
-332-17.
+Les bons à moyen terme négociables mentionnés au 2° ter de l'article R. 332-2
+doivent répondre aux conditions suivantes :
+
+a) Provenir d'une émission au moins égale à 30 millions d'euros ;
+
+b) Etre valorisés par au moins deux organismes distincts et non liés
+financièrement, ni entre eux ni avec l'entreprise d'assurance détentrice des
+bons ;
+
+c) Faire sur cette base l'objet d'un cours publié au moins une fois tous les
+quinze jours et tenu à la disposition du public en permanence ;
+
+d) Comporter une clause de liquidité émanant de l'émetteur ou d'un garant et qui
+doit garantir que les actifs pourraient être rachetés à un cours cohérent avec
+le cours publié, c'est-à-dire prenant en compte la variation de taux d'intérêt
+entre les dates de publication du cours et de transaction.

@@ -11,7 +11,10 @@ consacrant les prêts ou créances doivent être conservés sur le territoire de
 République française.
 
 Les comptes de dépôt visés au 13° de l'article R. 332-2 doivent être ouverts
-auprès d'un établissement situé en France. Les comptes doivent être libellés au
-nom de l'entreprise ou de l'établissement situé en France et ne peuvent être
-débités qu'avec l'accord d'un dirigeant ou du mandataire général de
-l'établissement ou encore d'une personne désignée par eux à cet effet.
+auprès d'un établissement de crédit agréé dans un Etat partie à l'accord sur
+l'Espace économique européen. Leur terme ne doit pas dépasser un an ou leur
+préavis de retrait trois mois. Les comptes doivent être libellés au nom de
+l'entreprise d'assurance ou de la succursale établie en France et ne peuvent
+être débités qu'avec l'accord respectivement d'un dirigeant de l'entreprise ou
+du mandataire général de la succursale ou encore d'une personne désignée par eux
+à cet effet.
