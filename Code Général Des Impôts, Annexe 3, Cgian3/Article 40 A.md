@@ -2,8 +2,8 @@ Article 40 A
 ----
 Les contribuables soumis obligatoirement au régime de la déclaration contrôlée
 mentionné à l'article 96 du code général des impôts ou qui ont opté pour ce
-régime sont tenus de produire, ((au plus tard le 30 avril)) (M) de chaque année,
-une déclaration indiquant :
+régime sont tenus de produire, au plus tard le 30 avril de chaque année, une
+déclaration indiquant :
 
 a) La nature de l'activité qu'ils exercent;
 
@@ -25,7 +25,10 @@ f) Le montant des plus-values nettes;
 g) Le tableau des immobilisations affectées à l'exercice de la profession et des
 amortissements correspondants ;
 
-h) La nature et le montant de leurs recettes ;
+h) ((La nature et le montant des recettes concourant à la détermination du
+résultat, ainsi que le montant des recettes nettes soumises aux contributions
+mentionnées aux articles 234 bis et 234 nonies du code général des impôts)) (M)
+;
 
 i) La nature et le montant de leurs dépenses professionnelles ;
 

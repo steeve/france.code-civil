@@ -23,6 +23,11 @@ les résultats d'une entreprise industrielle et commerciale déterminent la part
 des bénéfices revenant à ces membres selon les règles définies aux articles 38
 et 39 du même code.
 
+e. ((Le montant des recettes nettes soumises aux contributions mentionnées aux
+articles 234 bis et 234 nonies du code général des impôts)) (M) ;
+
 II. La déclaration est établie en double exemplaire sur une formule délivrée par
 l'administration. La procédure de vérification de cette déclaration est suivie
 directement entre le service des impôts et la société.
+
+(M) Modification.
