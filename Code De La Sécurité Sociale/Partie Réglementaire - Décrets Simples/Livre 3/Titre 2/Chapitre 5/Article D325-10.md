@@ -19,6 +19,8 @@ les bénéficiaires du régime local ;
 b) Un fonds de gestion administrative comportant, en dépenses, les frais de
 fonctionnement du régime local et alimenté, en recettes, par un prélèvement
 d'équilibre sur les cotisations. Ce fonds rémunère les services rendus au régime
-local par les organismes du régime général ;
+local par les organismes du régime général. Les frais de gestion sont fixés au
+taux de 0,50 p. 100. Ils s'appliquent aux cotisations encaissées et aux
+prestations versées ;
 
 c) Un fonds de réserve.
