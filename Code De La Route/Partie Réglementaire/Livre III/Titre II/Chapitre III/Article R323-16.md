@@ -1,13 +1,29 @@
 Article R323-16
 ----
-La demande d'agrément précise l'identité du demandeur et son statut juridique.
-Elle comporte la liste des centres de contrôle et des installations auxiliaires.
+I. - Le fait, pour le titulaire de l'agrément des installations d'un centre de
+contrôle, de faire réaliser un contrôle technique dans des locaux abritant une
+activité de réparation ou de commerce automobile ou communiquant avec un lieu
+abritant une telle activité est puni de l'amende prévue pour les contraventions
+de la cinquième classe.
 
-Le cahier des charges expose l'organisation proposée et le règlement intérieur
-du réseau de contrôle. Il décrit les moyens matériels centralisés et prévoit les
-procédures que doivent respecter les contrôleurs et les responsables des
-installations de contrôle. Il comporte également l'engagement du demandeur
-d'établir tous les documents se rapportant à son activité prescrits par le
-ministre chargé des transports et de faciliter la mission des agents désignés
-par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de
-contrôle.
+II. - Le fait, pour le titulaire de l'agrément des installations de contrôle, de
+ne pas transmettre les données relatives à un contrôle technique effectué dans
+ces installations dans le délai fixé par l'arrêté prévu au I de l'article R.
+323-13 est puni de l'amende prévue pour les contraventions de la cinquième
+classe.
+
+III. - Le fait, pour le titulaire de l'agrément des installations de contrôle,
+de faire réaliser un contrôle technique dans des installations ou au moyen
+d'équipements non conformes à l'agrément délivré ou aux dispositions définies
+par l'arrêté visé au I de l'article R. 323-13 est puni de l'amende prévue pour
+les contraventions de la cinquième classe.
+
+IV. - Le fait, pour le titulaire de l'agrément des installations de contrôle, de
+faire réaliser un contrôle technique par un contrôleur agréé ne possédant pas la
+qualification requise pour ce contrôle est puni de l'amende prévue pour les
+contraventions de la cinquième classe.
+
+V. - Les personnes morales peuvent être déclarées responsables pénalement, dans
+les conditions prévues à l'article 121-2 du code pénal, des infractions définies
+au présent article. La peine encourue par les personnes morales est l'amende,
+selon les modalités prévues par l'article 131-41 du code pénal.

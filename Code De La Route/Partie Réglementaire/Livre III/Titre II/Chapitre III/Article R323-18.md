@@ -1,15 +1,37 @@
 Article R323-18
 ----
-L'agrément est délivré pour une durée de dix ans renouvelable. Le cahier des
-charges est joint à la décision d'agrément.
+I.-L'agrément d'un contrôleur est délivré par le préfet de département où est
+implanté le centre de contrôle auquel il est rattaché.
 
-Cependant, un agrément peut être accordé à titre provisoire, pour une durée d'un
-an non renouvelable, à un réseau de contrôle qui ne disposerait pas du nombre
-minimal exigé de centres de contrôle.
+Cet agrément permet d'exercer sur tout le territoire.
 
-L'agrément peut être retiré si les conditions d'organisation et de
-fonctionnement du réseau de contrôle ne répondent plus aux prescriptions du
-cahier des charges et de la réglementation en vigueur. Cette décision de retrait
-n'intervient qu'après que la personne intéressée a été mise à même de présenter
-des observations écrites et, le cas échéant, sur sa demande, des observations
-orales.
+Un même contrôleur peut être titulaire d'un agrément pour le contrôle technique
+des véhicules légers et d'un agrément pour le contrôle technique des véhicules
+lourds.
+
+II.-La demande d'agrément précise à quel centre de contrôle le contrôleur est
+rattaché et les catégories de contrôles techniques qu'il pourra effectuer.
+
+Elle est accompagnée de l'avis du réseau de contrôle agréé lorsque le centre de
+contrôle est rattaché à un réseau ou de l'avis de l'organisme technique central
+dans le cas contraire.
+
+III.-Les agréments des contrôleurs, ainsi que toutes les mesures affectant leur
+validité, sont inscrits dans un registre national qui est élaboré et tenu à jour
+dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
+
+IV.-L'agrément d'un contrôleur peut être suspendu ou retiré pour tout ou partie
+des catégories de contrôles techniques qu'il concerne si les conditions posées
+lors de sa délivrance ne sont plus respectées ou s'il est constaté un manquement
+aux règles fixant l'exercice de l'activité du contrôleur.
+
+La décision de suspension ou de retrait n'intervient qu'après que la personne
+intéressée a été entendue et mise à même de présenter des observations écrites
+ou orales.
+
+En cas d'urgence, l'agrément d'un contrôleur peut être suspendu immédiatement
+pour une durée maximale de deux mois.
+
+Un contrôleur ayant fait l'objet d'un retrait d'agrément ne peut demander un
+nouvel agrément pendant une durée de cinq ans à compter du retrait.
