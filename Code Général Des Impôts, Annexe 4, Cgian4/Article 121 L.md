@@ -1,10 +1,13 @@
 Article 121 L
 ----
-I. Le paiement de la taxe différentielle sur les véhicules à moteur et de la
-taxe spéciale sur les voitures d'une puissance fiscale supérieure à 16 CV,
-instituées par l'article 1007 du code général des impôts est constaté au moyen
-de la délivrance d'une vignette mobile constituée d'un reçu et d'un timbre
-adhésif dont les conditions d'utilisation sont définies à l'article 121 Q.
+I. Le paiement de la taxe différentielle sur les véhicules à moteur, automobiles
+ou motocyclettes, et de la taxe spéciale sur les voitures d'une puissance
+fiscale supérieure à 16 CV, instituées par l'article 1007 du code général des
+impôts, est constaté au moyen de la délivrance d'une vignette mobile. Celle-ci
+est constituée uniquement par un reçu pour la taxe afférente aux motocyclettes.
+Pour la taxe relative aux autres véhicules, ce reçu est accompagné d'un timbre
+adhésif. Les conditions d'utilisation des éléments constitutifs de la vignette
+sont définies à l'article 121 Q.
 
 II. Outre la série normale des vignettes payantes dont les types correspondent
 aux différentes catégories d'imposition il existe une vignette spéciale destinée
