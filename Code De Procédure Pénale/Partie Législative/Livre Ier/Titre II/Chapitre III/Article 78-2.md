@@ -29,36 +29,33 @@ atteinte à l'ordre public, notamment à la sécurité des personnes ou des bien
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats
 parties à la convention signée à Schengen le 19 juin 1990 et une ligne tracée à
-20 kilomètres en deçà, (Dispositions déclarées non conformes à la Constitution
-par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) ainsi que
-dans les zones accessibles au public des ports, aéroports et gares ferroviaires
-ou routières ouverts au trafic international et désignés par arrêté, pour la
-prévention et la recherche des infractions liées à la criminalité
-transfrontalière, (Dispositions déclarées non conformes à la Constitution par
-décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de
-toute personne peut également être contrôlée, selon les modalités prévues au
-premier alinéa, en vue de vérifier le respect des obligations de détention, de
-port et de présentation des titres et documents prévues par la loi. Lorsque ce
-contrôle a lieu à bord d'un train effectuant une liaison internationale, il peut
-être opéré sur la portion du trajet entre la frontière et le premier arrêt qui
-se situe au-delà des vingt kilomètres de la frontière. Toutefois, sur celles des
-lignes ferroviaires effectuant une liaison internationale et présentant des
-caractéristiques particulières de desserte, le contrôle peut également être
-opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres
-suivants. Ces lignes et ces arrêts sont désignés par arrêté ministériel (1).
-Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à la
-première phrase du présent alinéa (1) et que le premier péage autoroutier se
-situe au-delà de la ligne des 20 kilomètres, le contrôle peut en outre avoir
-lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le
-lieu de ce péage et les aires de stationnement attenantes. Les péages concernés
-par cette disposition sont désignés par arrêté. Le fait que le contrôle
-d'identité révèle une infraction autre que celle de non-respect des obligations
-susvisées ne constitue pas une cause de nullité des procédures incidentes. Pour
-l'application du présent alinéa, le contrôle des obligations de détention, de
-port et de présentation des titres et documents prévus par la loi ne peut être
-pratiqué que pour une durée n'excédant pas six heures consécutives dans un même
-lieu et ne peut consister en un contrôle systématique des personnes présentes ou
-circulant dans les zones ou lieux mentionnés au même alinéa.
+20 kilomètres en deçà, ainsi que dans les zones accessibles au public des ports,
+aéroports et gares ferroviaires ou routières ouverts au trafic international et
+désignés par arrêté, pour la prévention et la recherche des infractions liées à
+la criminalité transfrontalière, l'identité de toute personne peut également
+être contrôlée, selon les modalités prévues au premier alinéa, en vue de
+vérifier le respect des obligations de détention, de port et de présentation des
+titres et documents prévues par la loi. Lorsque ce contrôle a lieu à bord d'un
+train effectuant une liaison internationale, il peut être opéré sur la portion
+du trajet entre la frontière et le premier arrêt qui se situe au-delà des vingt
+kilomètres de la frontière. Toutefois, sur celles des lignes ferroviaires
+effectuant une liaison internationale et présentant des caractéristiques
+particulières de desserte, le contrôle peut également être opéré entre cet arrêt
+et un arrêt situé dans la limite des cinquante kilomètres suivants. Ces lignes
+et ces arrêts sont désignés par arrêté ministériel (1). Lorsqu'il existe une
+section autoroutière démarrant dans la zone mentionnée à la première phrase du
+présent alinéa (1) et que le premier péage autoroutier se situe au-delà de la
+ligne des 20 kilomètres, le contrôle peut en outre avoir lieu jusqu'à ce premier
+péage sur les aires de stationnement ainsi que sur le lieu de ce péage et les
+aires de stationnement attenantes. Les péages concernés par cette disposition
+sont désignés par arrêté. Le fait que le contrôle d'identité révèle une
+infraction autre que celle de non-respect des obligations susvisées ne constitue
+pas une cause de nullité des procédures incidentes. Pour l'application du
+présent alinéa, le contrôle des obligations de détention, de port et de
+présentation des titres et documents prévus par la loi ne peut être pratiqué que
+pour une durée n'excédant pas six heures consécutives dans un même lieu et ne
+peut consister en un contrôle systématique des personnes présentes ou circulant
+dans les zones ou lieux mentionnés au même alinéa.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du
 département de la Guyane et une ligne tracée à vingt kilomètres en-deçà, et sur
@@ -68,11 +65,10 @@ personne peut être contrôlée, selon les modalités prévues au premier aliné
 vue de vérifier le respect des obligations de détention, de port et de
 présentation des titres et documents prévus par la loi.
 
-Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet
-2006 relative à l'immigration et à l'intégration, l'identité de toute personne
-peut également être contrôlée, selon les modalités prévues au premier alinéa du
-présent article, en vue de vérifier le respect des obligations de détention, de
-port et de présentation des titres et documents prévus par la loi :
+L'identité de toute personne peut également être contrôlée, selon les modalités
+prévues au premier alinéa du présent article, en vue de vérifier le respect des
+obligations de détention, de port et de présentation des titres et documents
+prévus par la loi :
 
 1° En Guadeloupe, dans une zone comprise entre le littoral et une ligne tracée à
 un kilomètre en deçà, ainsi que dans une zone d'un kilomètre de part et d'autre,
