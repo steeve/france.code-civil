@@ -1,8 +1,5 @@
 Article 530-2
 ----
-Un décret pris dans les formes prévues pour les décrets en Conseil d'Etat fixe
-le tarif des amendes forfaitaires.
-
-Un décret en Conseil d'Etat détermine les catégories d'agents habilités à
-percevoir directement des amendes. Il fixe, en tant que de besoin, les
-conditions et les modalités d'application des articles 529 à 530-1.
+Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la
+rectification des erreurs matérielles qu'il peut comporter sont déférés au
+tribunal de police, qui statue conformément aux dispositions de l'article 711.
