@@ -8,9 +8,9 @@ et des pensions de vieillesse et d'invalidité, le délai qui suit le point de
 départ de l'incapacité de travail et à l'expiration duquel sont accordées les
 prestations en espèces de l'assurance maladie, les obligations des personnes
 mentionnées à l'article L. 382-4 en matière de déclaration de leur chiffre
-d'affaires, la représentation majoritaire des intéressés au sein des organismes
-agréés prévus au même article, leur rôle et leurs rapports avec les organismes
-de sécurité sociale.
+d'affaires, la représentation majoritaire des intéressés au sein de l'organisme
+agréé prévu au même article, le rôle et le rapport de ce dernier avec les
+organismes de sécurité sociale.
 
 Le même décret détermine également les adaptations à apporter le cas échéant aux
 dispositions du présent code relatives au contrôle de l'assiette, à la fixation

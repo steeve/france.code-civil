@@ -17,10 +17,6 @@ l'occasion de la diffusion ou de l'exploitation commerciale des oeuvres des
 artistes, vivants ou morts, auteurs d'oeuvres littéraires et dramatiques,
 musicales et chorégraphiques, audiovisuelles et cinématographiques.
 
-Elle est recouvrée comme en matière de sécurité sociale par l'intermédiaire
-d'organismes agréés par l'autorité administrative qui assument, en matière
+Elle est recouvrée comme en matière de sécurité sociale par l'intermédiaire de
+l'organisme agréé par l'autorité administrative qui assume, en matière
 d'affiliation, les obligations de l'employeur à l'égard de la sécurité sociale.
-
-Conformément aux dispositions de l'article L. 382-7, cette contribution permet
-de financer les dépenses qui ne sont pas couvertes par les cotisations des
-personnes mentionnées à l'article L. 382-1.
