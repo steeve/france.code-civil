@@ -1,5 +1,5 @@
 Article R*422-2
 ----
-La mise en conformité des statuts avec les dispositions réglementaires qui les
-modifient doit être faite par la première assemblée générale extraordinaire
-tenue après la publication desdites dispositions.
+La commission prévue à l'article L. 441-1-1, qui attribue nominativement chaque
+logement mis ou remis en location, est composée et fonctionne conformément à
+l'article R. 441-18.
