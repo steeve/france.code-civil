@@ -2,7 +2,7 @@ Article 864
 ----
 Le premier alinéa de l'article 706-14 est ainsi rédigé :
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de
 confiance, ne peut obtenir à un titre quelconque une réparation ou une
 indemnisation effective et suffisante de son préjudice, et se trouve de ce fait
 dans une situation matérielle grave, peut obtenir une indemnité dans les
