@@ -1,8 +1,7 @@
 Article **R111-1
 ----
-Sous réserve des dispositions particulières prévues par les lois et règlements,
-les projets d'aménagement, les plans d'urbanisme et les plans d'occupation des
-sols, le permis de construire prévu à l'article L. 421-1 ne peut être refusé que
-pour des motifs tirés de l'application des dispositions des articles R. 111-2 à
-R. 111-24 [*localisation, desserte, implantation, volume et aspect des
-constructions*] du présent titre.
+Les dispositions du présent chapitre ne sont pas applicables dans les
+territoires dotés d'un plan d'occupation des sols rendu public ou approuvé, ou
+d'un document d'urbanisme en tenant lieu, à l'exception des articles R. 111-2,
+R. 111-3, R. 111-3-2, R. 111-14 //DECR.1141 : R. 111-14-2//, R. 111-15 et R.
+111-21.

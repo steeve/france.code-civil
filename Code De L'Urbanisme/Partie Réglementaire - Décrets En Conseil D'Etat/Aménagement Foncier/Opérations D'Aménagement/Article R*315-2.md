@@ -1,29 +1,31 @@
 Article R*315-2
 ----
-Ne sont pas soumises aux dispositions du présent chapitre les divisions
-parcellaires effectuées à l'intérieur des zones à urbaniser en priorité, des
-périmètres de rénovation urbaine ou des zones industrielles par les
-collectivités publiques, les établissements publics, les sociétés d'économie
-mixte constituées en application des articles L. 321-1 et R. 321-1.
+Ne constituent pas des lotissements [*définition*] et ne sont pas soumises aux
+dispositions du présent chapitre :
 
-Il en est de même des divisions parcellaires effectuées :
+a) Les divisions effectuées dans le cadre d'une opération de remembrement régie
+par le chapitre II du titre II du présent livre ;
 
-A l'intérieur des zones d'habitation dont l'aménagement a été concédé en
-application des articles L. 321-1 et R. 321-1, par les sociétés d'économie mixte
-et établissements publics bénéficiaires de la concession ;
+b) Les divisions effectuées à l'intérieur des zones à urbaniser en priorité, des
+zones d'aménagement concerté, des périmètres de rénovation urbaine, des zones de
+restauration immobilière, des zones de résorption de l'habitat insalubre ainsi
+que des zones d'habitation et des zones industrielles créées en application de
+l'article R. 321-1 avant le 1er janvier 1977, lorsque ces divisions sont
+effectuées par la personne publique ou privée qui réalise l'aménagement de
+ladite zone ;
 
-A l'intérieur des périmètres [*prise de possession*] visés à l'article L. 314-2
-par les sociétés civiles [*groupement de propriétaires*] constituées en
-application de l'article L. 322-12 ;
+c) Les divisions de terrains en propriété ou en jouissance lorsque les terrains
+issus de la division constituent l'assiette d'un immeuble à construire dont la
+vente est régie par les articles 1601-1 à 1601-4 du code civil, ou d'un immeuble
+dont la construction par une société régie par le titre II ou le titre III de la
+loi n° 71-579 du 16 juillet 1971 modifiée a été autorisée.
 
-A l'intérieur des zones d'aménagement concerté mentionnées à l'article R. 311-4
-(1) par la personne morale qui réalise l'aménagement de la zone postérieurement
-à l'approbation du plan d'aménagement de cette zone ;
+d) Les divisions par ventes ou locations effectuées par un propriétaire au
+profit de personnes qu'il a habilitées à réaliser une opération immobilière sur
+une partie de sa propriété et qui ont elles-mêmes déjà obtenu une autorisation
+de lotir ou un permis de construire portant sur la création d'un groupe de
+bâtiments ou d'un bâtiment comportant plusieurs logements ;
 
-A l'intérieur des zones d'aménagement concerté mentionnées à l'article R. 311-4
-(2 et 3) par la personne chargée de la zone, postérieurement à l'approbation du
-traité de concession ou de la convention d'aménagement.
-
-//DECR.0276 : A l'intérieur des zones de résorption de l'habitat insalubre
-mentionnées à l'article R. 123-1 (5) postérieurement à la décision par laquelle
-le plan d'occupation des sols est rendu public// .
+e) les divisions effectuées à l'intérieur des périmètres [*prise de possession*]
+visés à l'article L. 314-2 par les sociétés civiles [*groupement de
+propriétaires*] constituées en application de l'article L. 322-12.

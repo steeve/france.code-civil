@@ -1,12 +1,9 @@
 Article R*315-27
 ----
-Est subordonnée à la délivrance d'une autorisation suivant les règles fixées à
-l'article R. 315-4 la création ou le développement de lotissements en vue de
-l'installation d'établissements industriels.
+Un exemplaire de l'arrêté et, le cas échéant, des pièces annexes, est adressé au
+lotisseur. Ampliation de cet arrêté et desdites pièces est transmise au
+directeur départementale de l'équipement et au maire.
 
-Un lotissement à usage industriel ne peut être autorisé que s'il est conforme
-aux dispositions du plan d'occupation des sols rendu public ou approuvé, ou du
-plan d'urbanisme approuvé, ou, à défaut de tels plans, s'il fait l'objet d'un
-avis favorable de la commission départementale d'urbanisme.
-
-Les articles R. 315-5 à R. 315-13 sont applicables à ces lotissements.
+L'arrêté d'autorisation est publié au fichier immobilier par les soins du
+lotisseur qui doit aviser le directeur départemental de l'équipement de
+l'accomplissement de cette formalité.
