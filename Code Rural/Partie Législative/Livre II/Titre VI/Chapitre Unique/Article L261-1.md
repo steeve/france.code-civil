@@ -4,7 +4,7 @@ Les missions et prérogatives, l'organisation et le fonctionnement de l'agence
 française de sécurité sanitaire des aliments sont fixés aux articles L. 1323-1 à
 L. 1323-11 du code de la santé publique ci-après reproduits :
 
-"Art. L. 1323-1 : L'agence française de sécurité sanitaire des aliments est un
+" Art.L. 1323-1 : L'Agence française de sécurité sanitaire des aliments est un
 établissement public de l'Etat, placé sous la tutelle des ministres chargés de
 l'agriculture, de la consommation et de la santé.
 
@@ -27,16 +27,21 @@ mission de défense nationale dans le domaine alimentaire.
 Dans le cadre du Centre national d'études vétérinaires et alimentaires, placé en
 son sein et géré par elle, l'agence fournit l'appui technique et scientifique
 nécessaire à la mise en oeuvre des mesures prévues par le code rural, notamment
-par l'article L. 654-2, par le chapitre IV du titre Ier du livre IX, par les
-articles L. 915-9 à L. 915-14, par les chapitres Ier, II, III et VI du titre II
-du livre IX, par le chapitre VI du titre III du livre IX, par l'article L. 937-2
-et par le titre IV du livre Ier de la partie V du présent code.
+par l'article L. 654-2, par le chapitre IV du titre Ier du livre II, par les
+articles L. 215-9 à L. 215-14, par les chapitres Ier, II, III et VI du titre II
+du livre II, par le chapitre VI du titre III du livre II, par l'article L.
+237-2.
+
+L'Agence française de sécurité sanitaire des aliments est également chargée de
+l'évaluation des produits phytopharmaceutiques, des adjuvants, des matières
+fertilisantes et des supports de culture pour l'application des dispositions du
+titre V du livre II du code rural.
 
 Pour l'accomplissement de ses missions, les laboratoires des services de l'Etat
 chargés du contrôle de la sécurité sanitaire des aliments et ceux qui leur sont
-rattachés sont mis à disposition de l'agence en tant que de besoin".
+rattachés sont mis à disposition de l'agence en tant que de besoin ".
 
-"Art. L. 1323-2 : En vue de l'accomplissement de ses missions, l'agence :
+" Art.L. 1323-2 : En vue de l'accomplissement de ses missions, l'agence :
 
 1° Peut se saisir de toute question et proposer aux autorités compétentes toutes
 mesures de nature à préserver la santé publique lorsque celle-ci est menacée par
@@ -68,9 +73,9 @@ consommations alimentaires et évalue leurs éventuelles incidences sanitaires ;
 5° Mène, dans le respect du secret industriel, des programmes de recherche
 scientifique et technique, notamment dans les domaines du génie vétérinaire, de
 la santé animale, du bien-être des animaux et de leurs conséquences sur
-l'hygiène publique, ainsi que de la sécurité sanitaire des aliments. A cette
-fin, elle mobilise ses propres moyens ou s'assure le concours d'organismes
-publics ou privés de recherche ou de développement, d'universités ou d'autres
+l'hygiène publique, ainsi que de la sécurité sanitaire des aliments.A cette fin,
+elle mobilise ses propres moyens ou s'assure le concours d'organismes publics ou
+privés de recherche ou de développement, d'universités ou d'autres
 établissements d'enseignement supérieur, de collectivités territoriales ou de
 personnes physiques ;
 
@@ -107,9 +112,11 @@ du ministre de l'enseignement supérieur, de la recherche et de la technologie o
 tout autre établissement d'enseignement et de recherche ;
 
 12° Etablit un rapport annuel d'activité adressé au Gouvernement et au
-Parlement. Ce rapport est rendu public".
+Parlement. Ce rapport est rendu public ;
 
-"Art. L. 1323-3 : L'agence peut, pour l'accomplissement de ses missions, et
+13° Organise des auditions publiques sur des thèmes de santé publique ".
+
+" Art.L. 1323-3 : L'agence peut, pour l'accomplissement de ses missions, et
 notamment celles prévues aux 8° et 9° de l'article L. 1323-2, diligenter ses
 propres personnels.
 
@@ -117,14 +124,14 @@ Pour l'exercice des contrôles exigeant une compétence vétérinaire, les
 inspecteurs diligentés par l'agence doivent être titulaires du diplôme de
 vétérinaire et exercer les fonctions de vétérinaire inspecteur titulaire ou
 contractuel de l'Etat ou être titulaires du mandat sanitaire instauré par
-l'article L. 921-11 du code rural".
+l'article L. 921-11 du code rural ".
 
-"Art. L. 1323-4 : Pour évaluer les risques sanitaires et nutritionnels, l'agence
+" Art.L. 1323-4 : Pour évaluer les risques sanitaires et nutritionnels, l'agence
 est assistée par des comités d'experts spécialisés dont la durée du mandat et
 les conditions de fonctionnement sont fixées par un arrêté des ministres chargés
-de l'agriculture, de la consommation et de la santé".
+de l'agriculture, de la consommation et de la santé ".
 
-"Art. L. 1323-5 : L'agence est soumise à un régime administratif, budgétaire,
+" Art.L. 1323-5 : L'agence est soumise à un régime administratif, budgétaire,
 financier et comptable et à un contrôle de l'Etat adaptés à la nature
 particulière de sa mission, définis par le présent chapitre.
 
@@ -151,9 +158,9 @@ la compétence de l'agence.
 
 Un conseil scientifique, dont le président est désigné par les ministres chargés
 de l'agriculture, de la consommation et de la santé après avis dudit conseil,
-veille à la cohérence de la politique scientifique de l'agence".
+veille à la cohérence de la politique scientifique de l'agence ".
 
-"Art. L. 1323-6 : L'agence emploie des agents régis par les titres II, III ou IV
+" Art.L. 1323-6 : L'agence emploie des agents régis par les titres II, III ou IV
 du statut général des fonctionnaires ainsi que des personnels mentionnés aux 1°
 et 2° de l'article L. 6152-1, des enseignants des écoles nationales vétérinaires
 ou des vétérinaires qui y sont attachés, des vétérinaires employés par d'autres
@@ -165,18 +172,19 @@ Les chercheurs et les ingénieurs et personnels techniques de l'agence français
 de sécurité sanitaire des aliments concourant directement à des missions de
 recherche conservent le bénéfice des dispositions du deuxième alinéa (1°) de
 l'article 17 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de
-programmation pour la recherche et le développement technologique de la France".
+programmation pour la recherche et le développement technologique de la France
+".
 
-"Art. L. 1323-7 : L'agence emploie également des contractuels de droit public,
-avec lesquels elle peut conclure des contrats à durée déterminée ou
-indéterminée".
+" Art.L. 1323-7 : L'agence emploie également des contractuels de droit public,
+avec lesquels elle peut conclure des contrats à durée déterminée ou indéterminée
+".
 
-"Art. L. 1323-8: L'agence peut faire appel à des agents contractuels de droit
+" Art.L. 1323-8 : L'agence peut faire appel à des agents contractuels de droit
 privé pour occuper des fonctions occasionnelles de caractère scientifique ou
 technique. Ces fonctions peuvent être exercées par des agents exerçant par
-ailleurs à titre principal une activité professionnelle libérale".
+ailleurs à titre principal une activité professionnelle libérale ".
 
-"Art. L. 1323-9 : Les agents contractuels mentionnés aux articles L. 1323-7 et
+" Art.L. 1323-9 : Les agents contractuels mentionnés aux articles L. 1323-7 et
 L. 1323-8 :
 
 1° Sont tenus au secret et à la discrétion professionnels dans les mêmes
@@ -211,9 +219,25 @@ les entreprises ou établissements dont les produits entrent dans son champ de
 compétence, ainsi qu'avec les sociétés ou organismes de conseil intervenant dans
 ces secteurs. Cette déclaration est rendue publique et est actualisée à leur
 initiative dès qu'une modification intervient concernant ces liens ou que de
-nouveaux liens sont noués".
+nouveaux liens sont noués.
 
-"Art. L. 1323-10 : Les ressources de l'agence sont constituées notamment :
+L'interdiction prévue au premier alinéa de l'article L. 4113-6 est applicable
+aux personnes mentionnées aux cinquième et sixième alinéas. Est interdit le
+fait, pour les entreprises mentionnées au premier alinéa de cet article, de
+proposer ou de procurer à ces personnes les avantages cités dans cet alinéa.
+
+Les personnes mentionnées aux cinquième et sixième alinéas ci-dessus sont
+également soumises aux dispositions du premier alinéa, de l'article L. 4113-13.
+En cas de manquement à ces dispositions, l'autorité administrative peut mettre
+fin à leurs fonctions.
+
+Comme les agents de l'agence, les membres des conseils et commissions et les
+personnes qui apportent occasionnellement leur concours à l'agence ou à ces
+instances sont astreints au secret profesionnel pour les informations dont ils
+ont pu avoir connaissance en raison de leurs fonctions, dans des conditions et
+sous les peines prévues aux articles 226-13 et 226-14 du code pénal ".
+
+" Art.L. 1323-10 : Les ressources de l'agence sont constituées notamment :
 
 1° Par des subventions des collectivités publiques, de leurs établissements
 publics, de la Communauté européenne ou des organisations internationales ;
@@ -224,9 +248,9 @@ publics, de la Communauté européenne ou des organisations internationales ;
 
 4° Par des produits divers, dons et legs ;
 
-5° Par des emprunts".
+5° Par des emprunts ".
 
-"Art. L. 1323-11 : Sont déterminés par décret en Conseil d'Etat :
+" Art.L. 1323-11 : Sont déterminés par décret en Conseil d'Etat :
 
 1° Le régime administratif, budgétaire, financier et comptable de l'agence et le
 contrôle de l'Etat auquel celle-ci est soumise, prévus à l'article L. 1323-5 ;
@@ -247,4 +271,4 @@ l'agence ;
 
 6° Les modalités selon lesquelles les compétences, moyens, droits et obligations
 de laboratoires publics intervenant dans les domaines traités par l'agence lui
-sont transférés".
+sont transférés ".
