@@ -59,7 +59,13 @@ et pour la première désignation, la moitié des membres du conseil de
 surveillance mentionnés aux 2°, 3° et 7° est désignée pour une durée de trois
 ans renouvelable. La liste des membres concernés est établie par tirage au sort.
 
-II. - Les fonctions de membre du conseil de surveillance sont assurées à titre
-gratuit. Elles ouvrent droit aux indemnités et frais de déplacement et de séjour
-dans les conditions prévues par le décret n° 86-416 du 12 mars 1986 et le décret
-n° 90-437 du 28 mai 1990.
+II. - Les fonctions de membre du conseil de surveillance autres que celle de
+président sont assurées à titre gratuit.
+
+Une indemnité de fonction, fixée par arrêté du ministre chargé de la sécurité
+sociale, du ministre chargé de l'économie et du ministre chargé du budget, est
+attribuée au président du conseil de surveillance.
+
+Les fonctions de membre du conseil de surveillance ouvrent droit aux indemnités
+et frais de déplacement et de séjour dans les conditions prévues par le décret
+n° 86-416 du 12 mars 1986 et le décret n° 90-437 du 28 mai 1990.

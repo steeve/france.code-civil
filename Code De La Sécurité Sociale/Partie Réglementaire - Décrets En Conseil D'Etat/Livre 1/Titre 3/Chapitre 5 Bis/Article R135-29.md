@@ -24,9 +24,12 @@ d'obligations de déclaration et de transparence ;
 
 3° Plus de 3 % des actions ou titres participatifs d'un même émetteur.
 
-II. - Le fonds de réserve pour les retraites peut procéder à des opérations
-d'achat ou de vente sur les marchés à terme réglementés à condition de ne pas
-engager plus d'une fois son actif sur ces marchés.
+II. - Le fonds de réserve pour les retraites peut conclure de s contrats
+constituant des instruments financiers à terme dans les conditions applicables à
+ces mêmes contrats lorsqu'ils sont conclus par des organismes de placement
+collectif en valeurs mobilières telles qu'elles sont fixées par les décrets n°
+89-623 et n° 89-624 du 6 septembre 1989. Toutefois, le risque de contrepartie
+sur un même cocontractant est limité à 5 % de l'actif du fonds.
 
 III. - L'exposition au risque de change ne peut excéder 20 % du total de
 l'actif.
