@@ -8,8 +8,8 @@ progression minimale éventuellement majorées du taux de l'anticipation sur la
 régularisation prévue au cinquième alinéa de l'article L. 234-1.
 
 Si dans une loi de finances le taux de progression du produit estimé de la taxe
-sur la valeur ajoutée est inférieur à 10 p. 100, la même loi fixe de façon
-adaptée le taux garanti de progression minimale.
+sur la valeur ajoutée est inférieur à 10 p. 100, une loi fixe de façon adaptée
+le taux garanti de progression minimale.
 
 Les sommes correspondantes sont prélevées sur la dotation globale de
 fonctionnement après déduction du montant des concours particuliers institués
