@@ -47,11 +47,15 @@ consommation des ménages pour l'année civile de référence figurant dans le
 rapport économique et financier annexé au projet de loi de finances.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
-demandeur poursuit des études, ainsi que, le cas échéant, son conjoint, et que
-les ressources du ménage au titre de l'année de référence appréciées au sens des
+demandeur ou, le cas échéant, son conjoint poursuit des études, et que les
+ressources du ménage au titre de l'année de référence appréciées au sens des
 alinéas précédents sont inférieures à un montant fixé par arrêté conjoint des
 ministres chargés du logement, du budget, de la sécurité sociale et de
 l'agriculture, les ressources du demandeur ou du ménage sont réputées égales à
 ce montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le
 demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas
 assujettie à l'impôt sur le revenu.
+
+Lorsque les deux membres d'un couple poursuivent des études, le montant
+déterminé en application de l'alinéa précédent subit une majoration fixée par le
+même arrêté.

@@ -41,35 +41,18 @@ qui précède l'ouverture ou le renouvellement du droit.
 Le montant des ressources ainsi déterminé est affecté des déductions et
 abattements prévus au premier alinéa de l'article R. 755-4.
 
-III. - Les dispositions du I et du II du présent article ne sont pas applicables
-:
+III. - Par dérogation aux dispositions du a du II du présent article,
+l'évaluation forfaitaire peut être révisée en cours de période de paiement, à la
+demande du bénéficiaire, si lui-même ou son conjoint ou concubin est âgé de
+moins de vingt-cinq ans et titulaire d'un contrat de travail autre qu'un contrat
+à durée indéterminée et s'il a perçu au cours du mois précédant la date de sa
+demande de révision une rémunération inférieure d'au moins 10 % à celle
+précédemment prise en considération. La demande ne peut être formée moins de
+quatre mois après l'ouverture ou le renouvellement du droit ou une précédente
+révision.
 
-1° Au bénéficiaire isolé âgé de moins de vingt-cinq ans, s'il exerce une
-activité professionnelle non salariée ou, s'il est salarié, s'il perçoit un
-salaire mensuel net fiscal inférieur à un montant fixé par arrêté
-interministériel des ministres en charge de la sécurité sociale, du logement, du
-budget et de l'agriculture ;
-
-2° Au couple dont l'un au moins des membres est âgé de moins de vingt-cinq ans
-et exerce une activité professionnelle, si aucun des deux membres du couple
-n'est salarié ou, dans le cas contraire, si le salaire ou l'addition des deux
-salaires mensuels nets fiscaux est inférieur à un montant fixé par l'arrêté visé
-à l'alinéa précédent.
-
-Les salaires mensuels visés aux deux alinéas précédents sont ceux du mois civil
-précédant l'ouverture du droit ou du mois de mai précédant le renouvellement du
-droit.
-
-Les montants visés aux deuxième et troisième alinéas sont revalorisés au 1er
-juillet de chaque année, conformément à l'évolution en moyenne annuelle des prix
-à la consommation hors tabac de l'année civile précédente, par arrêté conjoint
-des ministres chargés de la sécurité sociale, du logement, du budget et de
-l'agriculture.
-
-La condition d'âge, visée aux deuxième et troisième alinéas, est examinée le
-premier jour du mois de l'ouverture du droit ou le 1er juillet lors du
-renouvellement du droit.
-
-La condition relative à l'existence d'une activité professionnelle rémunérée
-visée aux 1° et 2° est appréciée au cours du mois civil précédant l'ouverture du
-droit ou du mois de mai précédant le renouvellement du droit.
+Pour une personne titulaire d'un contrat de travail autre qu'un contrat à durée
+indéterminée et âgée de moins de vingt-cinq ans à la date de l'ouverture ou du
+renouvellement du droit ou de la demande de révision mentionnée à l'alinéa
+précédent, l'évaluation forfaitaire prévue au a du II du présent article est
+égale à neuf fois la rémunération mensuelle considérée.
