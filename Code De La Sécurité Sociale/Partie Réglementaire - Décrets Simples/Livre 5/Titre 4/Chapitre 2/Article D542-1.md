@@ -13,4 +13,5 @@ Pour l'application du premier alinéa de l'article L. 542-2 du code de la
 sécurité sociale, la notion de résidence principale doit être entendue au sens
 du logement effectivement occupé au moins huit mois par an soit par
 l'allocataire, soit par son conjoint ou concubin, soit par une des personnes à
-charge au sens de l'article D. 542-4.
+charge au sens de l'article D. 542-4 sauf obligation professionnelle, raison de
+santé ou cas de force majeure.

@@ -7,7 +7,8 @@ usage exclusif d'habitation et constituant leur résidence principale . Elle peu
 
 La notion de résidence principale doit être entendue au sens du logement
 effectivement occupé au moins huit mois par an soit par le bénéficiaire, soit
-par son conjoint ou concubin.
+par son conjoint ou concubin sauf obligation professionnelle, raison de santé ou
+cas de force majeure.
 
 L'allocation n'est due que si les intéressés paient un minimum de loyer fixé par
 décret compte tenu de leurs ressources.

@@ -14,8 +14,7 @@ du ministre chargé de la sécurité sociale ;
 2°) Les charges d'intérêts et d'amortissements et les charges accessoires
 afférentes aux emprunts substitués à ceux qui sont mentionnés au 1° ci-dessus,
 dans la limite des sommes restant dues en capital sur le montant du premier prêt
-lorsque le second prêt entraîne des charges périodiques de remboursement plus
-faibles que celles du prêt auquel il est substitué ;
+;
 
 3°) les charges afférentes au paiement de tout ou partie du prix d'achat ou
 ayant pour objet de financer les dépenses jugées indispensables à la délivrance
