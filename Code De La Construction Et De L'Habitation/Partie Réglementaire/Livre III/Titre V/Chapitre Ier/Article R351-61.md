@@ -16,10 +16,12 @@ chargés du logement, du budget, de la sécurité sociale et de l'agriculture ;
 
 N représente le nombre de parts déterminé par les coefficients suivants :
 
-- bénéficiaire isolé : 1,50 ;
+- bénéficiaire isolé : 1,40 ;
 
-- ménage sans personne à charge : 1,90 ;
+- ménage sans personne à charge : 1,80 ;
 
 - bénéficiaire isolé ou ménage ayant une personne à charge :
 
 2,50.
+
+Le coefficient K est arrondi à deux décimales par défaut.
