@@ -13,3 +13,6 @@ Article 21, 23 ou 27 de la loi du 10 juillet 1976 relative à la protection de l
 nature.
 
 Article L. 313-2 du présent code.
+
+Les dispositions du présent article ne s'appliquent qu'au cas où l'autorisation
+exigée par l'article L. 441-2 est délivrée au nom de l'Etat.

@@ -1,0 +1,18 @@
+Article R*441-6-2
+----
+Dans le cas où le demandeur n'a pas reçu, dans les quinze jours suivant le dépôt
+de sa demande, la lettre prévue à l'article R. 441-6 [*notification
+d'enregistrement*] ou R. 441-6-1, il peut saisir l'autorité compétente par
+lettre recommandée avec demande d'avis de réception postal pour requérir
+l'instruction de sa demande, et adresse copie de cette mise en demeure au
+commissaire de la République.
+
+Lorsque, dans les huit jours de la réception de l'avis de réception postal de
+cette mise en demeure, la lettre prévue à l'article R. 441-6 ou R. 441-6-1 n'a
+pas été notifiée, le délai d'instruction de la demande part de ladite date de
+réception telle qu'elle figure sur l'avis de réception postal de la mise en
+demeure [*point de départ*].
+
+Si aucune décision n'a été notifiée à l'issue de ce délai, l'autorisation est
+réputée accordée dans les mêmes conditions que celles prévues à l'article R.
+441-8.
