@@ -9,7 +9,7 @@ La déclaration des employeurs mentionnés à l'article L. 951-8 doit être
 accompagnée soit du procès-verbal de la délibération du comité d'entreprise,
 soit du procès-verbal de carence.
 
-II.- La déclaration prévue au I ci-dessus doit être produite au plus tard le 5
+II.- La déclaration prévue au I ci-dessus doit être produite au plus tard le 30
 avril de l'année suivant celle au cours de laquelle les dépenses définies à
 l'article L. 951-1 ont été effectuées.
 

@@ -7,8 +7,8 @@ a) Douze administrateurs titulaires représentant les employeurs, nommés par
 arrêté du ministre chargé de l'aviation civile au vu des propositions présentées
 par :
 
-- la Compagnie nationale Air France et les organisations professionnelles des
-employeurs du transport et du travail aériens, à raison de neuf membres ;
+- la société Air France et les organisations professionnelles des employeurs du
+transport et du travail aériens, à raison de neuf membres ;
 
 - les organismes représentatifs de l'industrie aéronautique, à raison d'un
 membre ;
@@ -44,3 +44,5 @@ En cas de partage égal des voix, le président a voix prépondérante.
 Les administrateurs suppléants siègent aux séances du conseil d'administration
 en cas d'empêchement des administrateurs titulaires. Ils remplacent les
 titulaires en cas de vacance définitive en cours de mandat.
+
+II

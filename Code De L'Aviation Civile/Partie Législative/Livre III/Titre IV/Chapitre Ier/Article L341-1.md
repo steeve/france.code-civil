@@ -1,8 +1,8 @@
 Article L341-1
 ----
-La société dite Compagnie nationale Air France est régie par le présent code et,
-dans tout ce qu'elles n'ont pas de contraire à celui-ci, par les lois sur les
-sociétés anonymes.
+La société dite société Air France est régie par le présent code et, dans tout
+ce qu'elles n'ont pas de contraire à celui-ci, par les lois sur les sociétés
+anonymes.
 
 Elle a pour objet d'assurer l'exploitation de transports aériens dans les
 conditions fixées par le ministre chargé de l'aviation civile après accord, s'il

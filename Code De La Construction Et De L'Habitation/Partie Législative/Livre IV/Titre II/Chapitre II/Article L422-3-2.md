@@ -6,7 +6,10 @@ dont la qualité de gestion sur les plans technique et financier a été constat
 l'autorité administrative, être autorisées, dans des conditions fixées par
 décret, à construire, acquérir, aménager, restaurer, agrandir, améliorer et
 gérer des immeubles en vue de la location et destinés à un usage d'habitation ou
-à un usage professionnel et d'habitation.
+à un usage professionnel et d'habitation. L'autorisation est accordée lorsque
+l'administration n'a pas répondu dans un délai de six mois à une demande
+adressée à cet effet par une société anonyme coopérative de production
+d'habitations à loyer modéré.
 
 Ces sociétés doivent faire procéder, sous le nom de révision coopérative, à
 l'examen analytique et périodique de leurs comptes et de leur gestion dans les

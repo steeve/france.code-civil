@@ -1,7 +1,6 @@
 Article R342-1
 ----
-Le conseil d'administration de la Compagnie nationale Air France comprend
-dix-huit membres :
+Le conseil d'administration de la société Air France comprend dix-huit membres :
 
 1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre
 chargé de l'aviation civile, dont :
@@ -23,10 +22,10 @@ transport aérien, soit en raison de leur qualité de représentant des usagers 
 l'assemblée générale sur proposition d'une section de l'assemblée générale
 composée de ces seuls actionnaires ;
 
-4° Six représentants des salariés élus par les salariés de la Compagnie
-nationale Air France et de ses filiales au sens du 4 de l'article 1er de la loi
-n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public,
-dans le cadre de trois collèges électoraux distincts à raison de :
+4° Six représentants des salariés élus par les salariés de la société Air France
+et de ses filiales au sens du 4 de l'article 1er de la loi n° 83-675 du 26
+juillet 1983 relative à la démocratisation du secteur public, dans le cadre de
+trois collèges électoraux distincts à raison de :
 
 - un élu par le personnel navigant technique ;
 
