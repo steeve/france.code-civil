@@ -21,16 +21,16 @@ de chasse agréée ;
 - ou que la propriété n'ait été classée en réserve naturelle ou en réserve de
 chasse agréée.
 
-IV. Les terres incultes figurant à l'état prévu à l'article 40 du code rural
-sont inscrites dans la catégorie des meilleures terres labourables jusqu'à leur
-mise en exploitation. Cette disposition prend effet à la date à laquelle le
-commissaire de la République informe le propriétaire, en application du I de
-l'article 40 du code rural, des demandes d'attribution formulées conformément à
-cet article. Toutefois, la mise en recouvrement des sommes complémentaires
-résultant de cette inscription n'intervient que si, dans le délai de trois ans à
-compter de cette information, et à défaut d'accord amiable entre les intéréssés,
-le commissaire de la République attribué à l'un des demandeurs l'autorisation
-d'exploiter.
+IV. Les terres incultes ou manifestement sous-exploitées figurant à l'état prévu
+à l'article 40 du code rural sont inscrites dans la catégorie des meilleures
+terres labourables jusqu'à leur mise en exploitation. Cette disposition prend
+effet à la date à laquelle le commissaire de la République informe le
+propriétaire, en application du I de l'article 40 du code rural, des demandes
+d'attribution formulées conformément à cet article. Toutefois, la mise en
+recouvrement des sommes complémentaires résultant de cette inscription
+n'intervient que si, dans le délai de trois ans à compter de cette information,
+et à défaut d'accord amiable entre les intéréssés, le commissaire de la
+République attribué à l'un des demandeurs l'autorisation d'exploiter.
 
 En outre, il est procédé au remboursement des sommes ainsi perçues si l'arrêté
 du commissaire de la République est annulé par le tribunal administratif, ou si

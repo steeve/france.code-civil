@@ -36,7 +36,10 @@ ci-dessus ;
 
 6° préciser le tracé et les caractéristiques des voies de circulation à
 conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et
-les pistes cyclables ;
+les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées
+en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques
+en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être
+prévus ;
 
 7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à
 mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;

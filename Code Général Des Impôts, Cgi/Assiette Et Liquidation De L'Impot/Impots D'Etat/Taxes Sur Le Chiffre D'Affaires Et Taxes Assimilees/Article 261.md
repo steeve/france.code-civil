@@ -135,22 +135,22 @@ organismes légalement constitués agissant sans but lucratif.
 
 1° Lorsqu'elles n'entrent pas dans le champ d'application de l'article 257-7° :
 
-a Les opérations de lotissement et de vente effectuées par les départements,
-communes et établissements publics et relatives à des terrains leur appartenant;
+a Les opérations de vente effectuées par les départements, communes et
+établissements publics et relatives à des terrains leur appartenant;
 
-b Les opérations de lotissement et de vente de terrains leur appartenant
-effectuées sans but lucratif par les sociétés coopératives de construction, par
-les sociétés d'économie mixte de construction immobilière dont les statuts sont
-conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, par
-les groupements dits de " Castors " dont les membres effectuent des apports de
-travail, ainsi que par les sociétés et organismes à but désintéressé habilités à
-recevoir la contribution des employeurs à l'effort de construction visée à
-l'article 235 bis;
+b Les opérations de vente de terrains leur appartenant effectuées sans but
+lucratif par les sociétés coopératives de construction, par les sociétés
+d'économie mixte de construction immobilière dont les statuts sont conformes aux
+clauses types annexées au décret n° 69-295 du 24 mars 1969, par les groupements
+dits de " Castors " dont les membres effectuent des apports de travail, ainsi
+que par les sociétés et organismes à but désintéressé habilités à recevoir la
+contribution des employeurs à l'effort de construction visée à l'article 235
+bis;
 
 c (Devenu sans objet) ;
 
 d Les opérations immobilières résultant de l'application des dispositions de
-l'article 15 de la loi n° 60-808 du 5 août 1960 d'orientation agricole,
+l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole,
 réalisées par les sociétés d'aménagement foncier et d'établissement rural
 constituées en application de ce même article et agréées par le ministre de
 l'agriculture et le ministre du budget (5);
