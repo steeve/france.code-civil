@@ -1,17 +1,22 @@
 Article R323-54
 ----
-Tout employeur ou organisme prévu à l'article L. 323-11 et relevant des articles
-L. 323-18 et L. 323-19 doit [*obligation*],
+Les employeurs assujettis aux dispositions de l'article R. 323-51 sont tenus de
+réserver certains emplois au profit des bénéficiaires de ces dispositions, après
+consultation du médecin du travail et avis du comité d'entreprise ou, à défaut,
+des délégués du personnel.
 
-par une déclaration spéciale, signaler au service de l'emploi l'existence de
-toute vacance dans un emploi réservé, ainsi que l'existence de toute vacance
-dans un emploi quelconque lorsque le pourcentage des bénéficiaires n'est pas
-atteint dans un établissement.
+Les réservations ainsi opérées font l'objet de la liste prévue au 5° de
+l'article R. 323-51.
 
-Dans un délai de huit jours francs à dater de la réception de la déclaration le
-service de l'emploi présente à l'employeur ou organisme un travailleur
-handicapé.
+Ces réservations ne deviennent définitives qu'après accord [*condition*] du
+directeur départemental du travail et de l'emploi qui dispose d'un délai de
+trois mois à compter de la date limite d'envoi de la déclaration annuelle pour
+notifier à l'employeur soit son accord, soit les modifications qu'il apporte à
+la liste proposée.
 
-A défaut de présentation d'un candidat dans ce délai qui peut être
-éventuellement réduit par l'inspecteur du travail et de la main-d'oeuvre
-l'employeur reprend sa liberté d'embauchage.
+En l'absence de notification dans le délai susindiqué, la liste proposée par
+l'employeur est regardée comme approuvée [*accord tacite*].
+
+L'employeur fait connaître, selon le cas, au comité d'entreprise ou aux délégués
+du personnel les modifications apportées par le directeur départemental du
+travail et de l'emploi.

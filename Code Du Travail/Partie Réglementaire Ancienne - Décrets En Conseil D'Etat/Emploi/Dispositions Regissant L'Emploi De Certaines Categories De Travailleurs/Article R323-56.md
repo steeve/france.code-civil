@@ -1,6 +1,5 @@
 Article R323-56
 ----
-L'employeur assujetti aux obligations [*déclaration de vacance d'emploi*]
-prévues à l'article R. 323-53 est tenu d'embaucher les candidats présentés par
-les services de l'emploi sous réserve des dispositions de l'article L. 323-24
-[*refus pendant période d'essai*].
+Le directeur départemental du travail et de l'emploi peut dispenser un ou des
+employeurs de présenter des déclarations de vacance pour certains emplois. Cette
+dispense est communiquée à l'Agence nationale pour l'emploi.

@@ -1,6 +1,6 @@
 Article R323-10
 ----
-Tout bénéficiaire présenté par le service de la main-d'oeuvre est soumis à une
+Tout bénéficiaire présenté par l'agence nationale pour l'emploi est soumis à une
 période d'essai dont la durée est celle fixée par les conventions collectives
 ou, à défaut, par les us et coutumes.
 
