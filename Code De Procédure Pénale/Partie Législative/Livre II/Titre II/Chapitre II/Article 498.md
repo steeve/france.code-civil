@@ -11,10 +11,12 @@ représentée à l'audience où le jugement a été prononcé, mais seulement da
 cas où elle-même ou son représentant n'auraient pas été informés du jour où le
 jugement serait prononcé ;
 
-2° Pour le prévenu qui a demandé à être jugé en son absence dans les conditions
-prévues par l'article 411, alinéa 1er ;
+2° Pour le prévenu qui a été jugé en son absence, mais après audition d'un
+avocat qui s'est présenté pour assurer sa défense, sans cependant être titulaire
+d'un mandat de représentation signé du prévenu ;
 
-3° Pour le prévenu qui n'a pas comparu, dans les conditions prévues par
-l'article 411, alinéa 4.
+3° Pour le prévenu qui n'a pas comparu dans le cas prévu par le cinquième alinéa
+de l'article 411, lorsque son avocat n'était pas présent.
 
-Il en est de même dans les cas prévus par les articles 410 et 494-1.
+Il en est de même dans les cas prévus par les articles 410 et 494-1, sous
+réserve des dispositions de l'article 498-1.

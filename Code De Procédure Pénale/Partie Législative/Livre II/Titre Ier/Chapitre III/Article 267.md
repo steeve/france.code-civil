@@ -1,12 +1,14 @@
 Article 267
 ----
-Le préfet notifie à chacun des jurés l'extrait de la liste de session ou de la
-liste des jurés suppléants le concernant quinze jours au moins avant le jour de
-l'ouverture de la session.
+Quinze jours au moins avant l'ouverture de la session, le greffier de la cour
+d'assises convoque, par courrier, chacun des jurés titulaires et suppléants.
+Cette convocation précise la date et l'heure d'ouverture de la session, sa durée
+prévisible et le lieu où elle se tiendra. Elle rappelle l'obligation, pour tout
+citoyen requis, de répondre à cette convocation sous peine d'être condamné à
+l'amende prévue par l'article 288. Elle invite le juré convoqué à renvoyer, par
+retour du courrier, au greffe de la cour d'assises le récépissé joint à la
+convocation, après l'avoir dûment signé.
 
-Ce jour est mentionné dans la notification, laquelle indique également la durée
-prévisible de la session et contient sommation de se trouver aux jour et heure
-indiqués sous les peines portées au présent code.
-
-A défaut de notification à personne, elle est faite à domicile ainsi qu'au
-maire, qui est alors tenu d'en donner connaissance au juré désigné.
+Si nécessaire, le greffier peut requérir les services de police ou de
+gendarmerie aux fins de rechercher les jurés qui n'auraient pas répondu à la
+convocation et de leur remettre celle-ci.

@@ -8,7 +8,9 @@ pénitentiaire.
 
 La convocation énonce le fait poursuivi, vise le texte de loi qui le réprime et
 indique le tribunal saisi, le lieu, la date et l'heure de l'audience. Elle
-précise, en outre, que le prévenu peut se faire assister d'un avocat.
+précise, en outre, que le prévenu peut se faire assister d'un avocat. Elle
+l'informe qu'il doit comparaître à l'audience en possession des justificatifs de
+ses revenus ainsi que de ses avis d'imposition ou de non-imposition.
 
 Elle est constatée par un procès-verbal signé par le prévenu qui en reçoit
 copie.

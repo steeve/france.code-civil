@@ -21,4 +21,5 @@ si une personne mise en examen est détenue et de trois mois dans les autres cas
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit
 peut rendre l'ordonnance de règlement.
 
-Les dispositions du premier alinéa sont également applicables au témoin assisté.
+Les dispositions du premier alinéa et, s'agissant des requêtes en nullité, du
+deuxième alinéa, sont également applicables au témoin assisté.

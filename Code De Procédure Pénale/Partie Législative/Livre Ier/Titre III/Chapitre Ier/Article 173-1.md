@@ -7,5 +7,8 @@ première comparution ou de cet interrogatoire lui-même dans un délai de six m
 n'aurait pu les connaître. Il en est de même s'agissant des moyens pris de la
 nullité des actes accomplis avant chacun de ses interrogatoires ultérieurs.
 
+Il en est de même pour le témoin assisté à compter de sa première audition puis
+de ses auditions ultérieures.
+
 Il en est de même pour la partie civile à compter de sa première audition puis
 de ses auditions ultérieures.

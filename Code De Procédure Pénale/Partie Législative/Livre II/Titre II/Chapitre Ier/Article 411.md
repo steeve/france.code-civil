@@ -1,20 +1,25 @@
 Article 411
 ----
-Le prévenu cité pour une infraction passible d'une peine d'amende ou d'une peine
-d'emprisonnement inférieure à deux années peut, par lettre adressée au président
-et qui sera jointe au dossier de la procédure, demander à être jugé en son
-absence.
+Quelle que soit la peine encourue, le prévenu peut, par lettre adressée au
+président du tribunal et qui sera jointe au dossier de la procédure, demander à
+être jugé en son absence en étant représenté au cours de l'audience par son
+avocat ou par un avocat commis d'office. Ces dispositions sont applicables
+quelles que soient les conditions dans lesquelles le prévenu a été cité.
 
-Il en est de même en cas de citation directe délivrée par la partie civile
-quelle que soit la durée de la peine encourue.
+L'avocat du prévenu, qui peut intervenir au cours des débats, est entendu dans
+sa plaidoirie et le prévenu est alors jugé contradictoirement.
 
-Dans les deux cas l'avocat du prévenu est entendu.
+Si le tribunal estime nécessaire la comparution personnelle du prévenu, il peut
+renvoyer l'affaire à une audience ultérieure en ordonnant cette comparution. Le
+procureur de la République procède alors à une nouvelle citation du prévenu.
 
-Toutefois, si le tribunal estime nécessaire la comparution du prévenu en
-personne, il est procédé à la réassignation du prévenu, à la diligence du
-ministère public, pour une audience dont la date est fixée par le tribunal.
+Le prévenu qui ne répondrait pas à cette nouvelle citation peut être jugé
+contradictoirement si son avocat est présent et entendu. Le tribunal peut
+également, le cas échéant, après avoir entendu les observations de l'avocat,
+renvoyer à nouveau l'affaire en faisant application des dispositions de
+l'article 410-1.
 
-Le prévenu qui ne répondrait pas à cette invitation est jugé contradictoirement.
-
-Il est également jugé contraditoirement dans le cas prévu par le premier alinéa
-du présent article.
+Lorsque l'avocat du prévenu qui a demandé à ce qu'il soit fait application des
+dispositions du présent article n'est pas présent au cours de l'audience, le
+prévenu est, sauf renvoi de l'affaire, jugé par jugement contradictoire à
+signifier.

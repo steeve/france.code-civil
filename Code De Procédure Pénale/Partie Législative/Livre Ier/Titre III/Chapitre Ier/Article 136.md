@@ -1,11 +1,9 @@
 Article 136
 ----
 L'inobservation des formalités prescrites pour les mandats de comparution,
-d'amener, de dépôt et d'arrêt est sanctionnée par une amende civile de 7,5 euros
-prononcée contre le greffier par le président de la chambre de l'instruction ;
-elle peut donner lieu à des sanctions disciplinaires contre le juge
-d'instruction, le juge des libertés et de la détention ou le procureur de la
-République.
+d'amener, de dépôt, d'arrêt et de recherche peut donner lieu à des sanctions
+disciplinaires contre le juge d'instruction, le juge des libertés et de la
+détention ou le procureur de la République.
 
 Ces dispositions sont étendues, sauf application de peines plus graves, s'il y a
 lieu, à toute violation des mesures protectrices de la liberté individuelle

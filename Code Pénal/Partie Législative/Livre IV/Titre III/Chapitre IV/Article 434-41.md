@@ -3,11 +3,13 @@ Article 434-41
 Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation,
 par le condamné, des obligations ou interdictions résultant des peines de
 suspension ou d'annulation du permis de conduire, d'interdiction de conduire
-certains véhicules terrestres à moteur, d'obligation d'accomplir un stage,
+certains véhicules terrestres à moteur, d'interdiction de paraître dans certains
+lieux ou de rencontrer certaines personnes, d'obligation d'accomplir un stage,
 d'interdiction de détenir ou de porter une arme, de retrait du permis de
 chasser, d'interdiction d'émettre des chèques ou d'utiliser des cartes de
 paiement, de fermeture d'établissement ou d'exclusion des marchés publics
-prononcées en application des articles 131-6, 131-10, 131-14, 131-16 ou 131-17.
+prononcées en application des articles 131-5-1, 131-6, 131-10, 131-14, 131-16 ou
+131-17.
 
 Est puni des mêmes peines le fait de détruire, détourner ou tenter de détruire
 ou de détourner un véhicule immobilisé ou un véhicule, une arme ou tout autre

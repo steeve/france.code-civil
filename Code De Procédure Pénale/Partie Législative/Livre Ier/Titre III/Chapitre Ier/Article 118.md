@@ -1,23 +1,20 @@
 Article 118
 ----
-L'inculpé et la partie civile ne peuvent être entendus ou confrontés, à moins
-qu'ils n'y renoncent expressément, qu'en présence de leurs avocats ou eux dûment
-appelés.
+S'il apparaît au cours de l'information que les faits reprochés à la personne
+mise en examen sous une qualification correctionnelle constituent en réalité un
+crime, le juge d'instruction notifie à la personne, après l'avoir informée de
+son intention et avoir recueilli ses éventuelles observations et celles de son
+avocat, qu'une qualification criminelle est substituée à la qualification
+initialement retenue. A défaut de cette notification, il ne peut être fait
+application des dispositions de l'article 181.
 
-Au plus tard quatre jours ouvrables avant l'interrogatoire, l'avocat est
-convoqué par lettre recommandée ou par un avis qui lui est remis contre
-récépissé.
+Si la personne était placée en détention provisoire, le mandat de dépôt
+initialement délivré demeure valable et est considéré comme un mandat de dépôt
+criminel. La détention provisoire se trouve alors soumise aux règles applicables
+en matière criminelle, les délais prévus pour la prolongation de la mesure étant
+calculés à compter de la délivrance du mandat.
 
-La procédure doit être mise à la disposition de l'avocat de l'inculpé deux jours
-ouvrables au plus tard avant chaque interrogatoire. Elle doit également être
-mise à la disposition de l'avocat de la partie civile deux jours ouvrables au
-plus tard avant les auditions de cette dernière.
-
-Lorsque la procédure est mise à sa disposition dans les conditions prévues par
-le présent article, l'avocat de l'inculpé ou de la partie civile peut se faire
-délivrer, à ses frais, copie de tout ou partie de la procédure, pour son usage
-exclusif et sans pouvoir en établir de reproduction.
-
-Il peut, en outre, à tout moment, se faire délivrer, dans les mêmes conditions,
-la copie du procès-verbal d'audition ou d'interrogatoire de la partie qu'il
-assiste, ou du procès-verbal des confrontations auxquelles elle a participé.
+Lors de la notification prévue au premier alinéa, le juge d'instruction peut
+faire connaître à la personne un nouveau délai prévisible d'achèvement de
+l'information, conformément aux dispositions du huitième alinéa de l'article
+116.

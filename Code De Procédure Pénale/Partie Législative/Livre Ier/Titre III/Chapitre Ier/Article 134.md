@@ -1,7 +1,8 @@
 Article 134
 ----
-L'agent chargé de l'exécution d'un mandat d'amener ou d'arrêt ne peut
-s'introduire dans le domicile d'un citoyen avant 6 heures ni après 21 heures.
+L'agent chargé de l'exécution d'un mandat d'amener, d'arrêt et de recherche ne
+peut s'introduire dans le domicile d'un citoyen avant 6 heures ni après 21
+heures.
 
 Il peut se faire accompagner d'une force suffisante pour que la personne ne
 puisse se soustraire à la loi. La force est prise dans le lieu le plus proche de

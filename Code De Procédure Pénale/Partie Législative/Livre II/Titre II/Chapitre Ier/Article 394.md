@@ -4,8 +4,11 @@ Le procureur de la République peut inviter la personne déférée à comparaît
 devant le tribunal dans un délai qui ne peut être inférieur à dix jours, sauf
 renonciation expresse de l'intéressé en présence de son avocat, ni supérieur à
 deux mois. Il lui notifie les faits retenus à son encontre ainsi que le lieu, la
-date et l'heure de l'audience. Cette notification, mentionnée au procès-verbal
-dont copie est remise sur-le-champ au prévenu, vaut citation à personne.
+date et l'heure de l'audience. Il informe également le prévenu qu'il doit
+comparaître à l'audience en possession des justificatifs de ses revenus ainsi
+que de ses avis d'imposition ou de non-imposition. Cette notification,
+mentionnée au procès-verbal dont copie est remise sur-le-champ au prévenu, vaut
+citation à personne.
 
 L'avocat choisi ou le bâtonnier est informé, par tout moyen et sans délai, de la
 date et de l'heure de l'audience ; mention de cet avis est portée au

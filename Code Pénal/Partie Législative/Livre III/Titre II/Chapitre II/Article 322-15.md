@@ -17,4 +17,7 @@ prévus aux articles 322-1, 322-2, 322-3, 322-5, 322-12, 322-13 et 322-14 ;
 une arme soumise à autorisation ;
 
 4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31,
-dans les cas prévus par les articles 322-7 à 322-10.
+dans les cas prévus par les articles 322-7 à 322-10 ;
+
+5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de
+l'article 131-5-1.
