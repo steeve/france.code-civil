@@ -31,7 +31,8 @@ fonctionnement.
 
 9° De la reprise des subventions d'équipement reçues ;
 
-10° Du produit du Fonds de financement de l'allocation personnalisée d'autonomie
-mentionné à l'article L. 232-21 du code de l'action sociale et des familles ;
+10° Des produits versés par la Caisse nationale de solidarité pour l'autonomie
+instituée par la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour
+l'autonomie des personnes âgées et des personnes handicapées ;
 
 11° Des dons et legs en espèces hormis ceux visés au 7° de l'article L. 3332-3.

@@ -3,7 +3,7 @@ Article L212-8
 Une convention ou un accord collectif étendu ou une convention ou un accord
 d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire du
 travail peut varier sur tout ou partie de l'année à condition que, sur un an,
-cette durée n'excède pas un plafond de 1 600 heures. La convention ou l'accord
+cette durée n'excède pas un plafond de 1 607 heures. La convention ou l'accord
 peut fixer un plafond inférieur. La convention ou l'accord doit préciser les
 données économiques et sociales justifiant le recours à la modulation.
 
@@ -19,7 +19,7 @@ supplémentaires prévus à l'article L. 212-6.
 Constituent des heures supplémentaires soumises aux dispositions des articles L.
 212-5, L. 212-5-1 et L. 212-6 les heures effectuées au-delà de la durée maximale
 hebdomadaire fixée par la convention ou l'accord, ainsi que, à l'exclusion de
-ces dernières, les heures effectuées au-delà de 1 600 heures ou d'un plafond
+ces dernières, les heures effectuées au-delà de 1 607 heures ou d'un plafond
 inférieur fixé par la convention ou l'accord.
 
 Les conventions et accords définis par le présent article doivent fixer le
