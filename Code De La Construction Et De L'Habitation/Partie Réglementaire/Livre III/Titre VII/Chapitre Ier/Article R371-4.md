@@ -1,8 +1,9 @@
 Article R371-4
 ----
 Le conseil départemental de l'habitat institué dans les départements d'outre-mer
-est composé de son président et de trente-six membres nommés par arrêté
-préfectoral répartis en trois groupes égaux, à savoir :
+est présidé par le président du conseil général. Il est composé, outre son
+président, de trente-six membres nommés par arrêté préfectoral et répartis en
+trois groupes de même importance, à savoir :
 
 1° Pour un tiers, de représentants du conseil général, du conseil régional, des
 communes et des groupements de communes du département désignés dans les
@@ -27,3 +28,5 @@ compétences en matière d'habitat dans les conditions fixées à l'article R.
 371-7.
 
 Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+
+Le préfet assiste de droit aux séances du conseil départemental de l'habitat.
