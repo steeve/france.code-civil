@@ -9,7 +9,7 @@ de la contravention est dressé par les agents assermentés de l'exploitant publ
 ou par les inspecteurs des transports des chemins de fer.
 
 Les contraventions [* de grande voirie *] prévues au présent article sont punies
-[*sanction*] d'une amende de 1 080 F à 20 000 F.
+[*sanction*] d'une amende de 1 080 F à 20000 F.
 
 Les procès-verbaux, dans les quinze jours de leur date [*délai*], sont notifiés
 administrativement au domicile élu par le concessionnaire, à la diligence du
