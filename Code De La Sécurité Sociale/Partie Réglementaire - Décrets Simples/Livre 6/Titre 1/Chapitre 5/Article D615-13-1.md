@@ -1,8 +1,8 @@
 Article D615-13-1
 ----
 Pour l'application des dispositions de l'article L. 615-8, les assurés ont droit
-et ouvrent droit aux prestations en nature et aux prestations en espèces
-maternité des assurances maladie et maternité dans les conditions suivantes :
+et ouvrent droit aux prestations en espèces maternité des assurances maladie et
+maternité dans les conditions suivantes :
 
 a) L'assuré a droit et ouvre droit à ces prestations pendant une année civile
 s'il justifie avoir acquitté, au 1er octobre de l'année précédente ou avant le
