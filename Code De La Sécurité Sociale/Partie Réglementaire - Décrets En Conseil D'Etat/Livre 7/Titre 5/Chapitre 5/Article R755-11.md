@@ -40,3 +40,36 @@ qui précède l'ouverture ou le renouvellement du droit.
 
 Le montant des ressources ainsi déterminé est affecté des déductions et
 abattements prévus au premier alinéa de l'article R. 755-4.
+
+III. - Les dispositions du I et du II du présent article ne sont pas applicables
+:
+
+1° Au bénéficiaire isolé âgé de moins de vingt-cinq ans, s'il exerce une
+activité professionnelle non salariée ou, s'il est salarié, s'il perçoit un
+salaire mensuel net fiscal inférieur à un montant fixé par arrêté
+interministériel des ministres en charge de la sécurité sociale, du logement, du
+budget et de l'agriculture ;
+
+2° Au couple dont l'un au moins des membres est âgé de moins de vingt-cinq ans
+et exerce une activité professionnelle, si aucun des deux membres du couple
+n'est salarié ou, dans le cas contraire, si le salaire ou l'addition des deux
+salaires mensuels nets fiscaux est inférieur à un montant fixé par l'arrêté visé
+à l'alinéa précédent.
+
+Les salaires mensuels visés aux deux alinéas précédents sont ceux du mois civil
+précédant l'ouverture du droit ou du mois de mai précédant le renouvellement du
+droit.
+
+Les montants visés aux deuxième et troisième alinéas sont revalorisés au 1er
+juillet de chaque année, conformément à l'évolution en moyenne annuelle des prix
+à la consommation hors tabac de l'année civile précédente, par arrêté conjoint
+des ministres chargés de la sécurité sociale, du logement, du budget et de
+l'agriculture.
+
+La condition d'âge, visée aux deuxième et troisième alinéas, est examinée le
+premier jour du mois de l'ouverture du droit ou le 1er juillet lors du
+renouvellement du droit.
+
+La condition relative à l'existence d'une activité professionnelle rémunérée
+visée aux 1° et 2° est appréciée au cours du mois civil précédant l'ouverture du
+droit ou du mois de mai précédant le renouvellement du droit.
