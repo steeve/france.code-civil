@@ -1,43 +1,63 @@
 Article L439-1
 ----
-Un comité de groupe [*composition*] est constitué au sein du groupe formé par
-une société appelée, pour l'application du présent chapitre, société dominante
-[*définition*], les filiales de celle-ci, au sens de l'article 354 de la loi n°
-66-537 du 24 juillet 1966 modifiée, et les sociétés dont la société dominante
-détient indirectement plus de la moitié du capital, dont le siège social est
-situé sur le territoire français.
+I. - Les dispositions du présent article sont applicables aux entreprises et
+autres organismes mentionnés à l'article L. 431-1, quel que soit le nombre de
+salariés qu'ils emploient.
 
-Font également partie du groupe, au sens du présent chapitre, celles des
-sociétés définies à l'article 355 de la loi du 24 juillet 1966 précitée dont le
-comité d'entreprise a demandé et obtenu l'inclusion dans ledit groupe à
-l'exclusion de tout autre. La demande est transmise par l'intermédiaire du chef
-de l'entreprise concernée au chef de l'entreprise dominante qui, dans un délai
-de trois mois, fait connaître sa décision motivée. Lorsque, du fait, notamment,
-de l'existence d'administrateurs communs, de l'établissement de comptes
-consolidés, du niveau de la participation financière, de l'existence d'un accord
-conclu en application de l'article L. 442-6, deuxième alinéa, du présent code ou
-de l'ampleur des échanges économiques et techniques, les relations entre les
-deux sociétés présentent un caractère de permanence et d'importance qui établit
-l'existence d'un contrôle effectif par la société dominante de l'autre société
-et l'appartenance de l'une et de l'autre à un même ensemble économique, le chef
-de l'entreprise dominante ne peut rejeter la demande dont il est saisi.
+II. - Un comité de groupe [*composition*] est constitué au sein du groupe formé
+par une entreprise appelée entreprise dominante et les entreprises qu'elle
+contrôle dans les conditions définies aux articles 354, 355-1 et au deuxième
+alinéa de l'article 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les
+sociétés commerciales, dont le siège social est situé sur le territoire
+français.
 
-En cas de litige, le comité d'entreprise ou les organisations syndicales
-représentatives dans l'entreprise considérée ou d'une entreprise du groupe
-peuvent porter le litige devant le tribunal de grande instance du siège de la
-société dominante [*juridiction compétente*].
+Est également considérée comme entreprise dominante, pour la constitution d'un
+comité de groupe, une entreprise qui exerce une influence dominante sur une
+autre entreprise dont elle détient au moins 10 p. 100 du capital, lorsque la
+permanence et l'importance des relations de ces entreprises établissent
+l'appartenance de l'une et de l'autre à un même ensemble économique.
 
-La disparition des relations, telles qu'elles sont définies aux deux premiers
-alinéas ci-dessus, entre les deux sociétés, fait l'objet d'une information
-préalable et motivée donnée au comité d'entreprise de la société concernée.
-Celle-ci cesse d'être prise en compte pour la composition du comité de groupe.
+L'existence d'une influence dominante est présumée établie, sans préjudice de la
+preuve contraire, lorsqu'une entreprise, directement ou indirectement :
+
+- peut nommer plus de la moitié des membres des organes d'administration, de
+direction ou de surveillance d'une autre entreprise ;
+
+- ou dispose de la majorité des voix attachées aux parts émises par une autre
+entreprise ;
+
+- ou détient la majorité du capital souscrit d'une autre entreprise.
+
+Lorsque plusieurs entreprises satisfont, à l'égard d'une même entreprise
+dominée, à un ou plusieurs des critères susmentionnés, celle qui peut nommer
+plus de la moitié des membres des organes de direction, d'administration ou de
+surveillance de l'entreprise dominée est considérée comme l'entreprise
+dominante, sans préjudice de la preuve qu'une autre entreprise puisse exercer
+une influence dominante.
+
+III. - Le comité d'entreprise d'une entreprise contrôlée ou d'une entreprise sur
+laquelle s'exerce une influence dominante au sens du II ci-dessus peut demander,
+pour l'application des dispositions du présent chapitre, l'inclusion de
+l'entreprise dans le groupe ainsi constitué. La demande est transmise par
+l'intermédiaire du chef de l'entreprise concernée au chef de l'entreprise
+dominante qui, dans un délai de trois mois, fait droit à cette demande.
+
+La disparition des relations, telles que définies au II ci-dessus, entre les
+deux entreprises fait l'objet d'une information préalable et motivée donnée au
+comité de l'entreprise concernée. Celle-ci cesse d'être prise en compte pour la
+composition du comité de groupe.
 
 Lorsque le comité de groupe est déjà constitué, toute entreprise qui vient à
-établir avec la société dominante, de façon directe ou indirecte, les relations
-définies aux deux premiers alinéas du présent article, doit être prise en compte
-pour la constitution du comité de groupe lors du renouvellement de celui-ci.
+établir avec l'entreprise dominante, de façon directe ou indirecte, les
+relations définies au II du présent article doit être prise en compte pour la
+constitution du comité de groupe lors du renouvellement de celui-ci.
 
-Pour l'application des dispositions du présent chapitre, sont considérés comme
-sociétés dominantes, au sens du premier alinéa, les établissements publics à
-caractère industriel et commercial ainsi que les entreprises et sociétés
-nationales.
+IV. - En cas de litige, le comité d'entreprise ou les organisations syndicales
+représentatives dans l'entreprise considérée ou d'une entreprise du groupe
+peuvent porter le litige devant le tribunal de grande instance du siège de
+l'entreprise dominante.
+
+V. - Ne sont pas considérées comme entreprises dominantes les entreprises visées
+aux points a et c du paragraphe 5 de l'article 3 du règlement (CEE) n° 4064/89
+du Conseil, du 21 décembre 1989, relatif au contrôle des opérations de
+concentration entre entreprises.
