@@ -57,6 +57,12 @@ l'occasion d'une sismothérapie ;
 
 - forfait d'accueil et de traitement des urgences ;
 
+- forfaits d'accueil et d'hébergement afférents à l'interruption volontaire de
+grossesse ;
+
+- forfaits de soins et de surveillance afférents à l'interruption volontaire de
+grossesse ;
+
 - produits sanguins labiles, y compris les frais de transport y afférents ;
 
 - lait humain ;
