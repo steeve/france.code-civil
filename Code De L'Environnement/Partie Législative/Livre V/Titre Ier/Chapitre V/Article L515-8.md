@@ -7,6 +7,11 @@ sécurité des populations voisines et pour l'environnement, des servitudes
 d'utilité publique peuvent être instituées concernant l'utilisation du sol ainsi
 que l'exécution de travaux soumis au permis de construire.
 
+Les dispositions ci-dessus sont également applicables à raison des risques
+supplémentaires créés par une installation nouvelle sur un site existant ou par
+la modification d'une installation existante, nécessitant la délivrance d'une
+nouvelle autorisation.
+
 II. - Ces servitudes comportent, en tant que de besoin :
 
 1° La limitation ou l'interdiction du droit d'implanter des constructions ou des

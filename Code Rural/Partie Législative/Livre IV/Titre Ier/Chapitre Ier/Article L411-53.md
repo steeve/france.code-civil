@@ -1,7 +1,8 @@
 Article L411-53
 ----
 Peuvent seulement être considérés comme motifs d'opposition au renouvellement du
-bail, nonobstant toute clause contraire :
+bail, sauf dispositions législatives particulières et nonobstant toute clause
+contraire :
 
 1° Deux défauts de paiement de fermage ou de la part de produits revenant au
 bailleur et ayant persisté à l'expiration d'un délai de trois mois après mise en

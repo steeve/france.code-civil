@@ -19,3 +19,9 @@ délai de trois mois à compter de la date de remise de l'état estimatif des bi
 endommagés ou des pertes subies, sans préjudice de dispositions contractuelles
 plus favorables, ou de la date de publication, lorsque celle-ci est postérieure,
 de la décision administrative constatant l'état de catastrophe naturelle.
+
+En tout état de cause, une provision sur les indemnités dues au titre de cette
+garantie doit être versée à l'assuré dans les deux mois qui suivent la date de
+remise de l'état estimatif des biens endommagés ou des pertes subies, ou la date
+de publication, lorsque celle-ci est postérieure, de la décision administrative
+constatant l'état de catastrophe naturelle.

@@ -17,9 +17,24 @@ déclaration d'utilité publique des opérations, acquisitions ou expropriations
 
 Le caractère d'intérêt général ou d'urgence des travaux ainsi que, s'il y a
 lieu, l'utilité publique des opérations, acquisitions ou expropriations
-nécessaires à leur réalisation sont prononcés par décision préfectorale ou, si
-les conclusions du commissaire enquêteur ou de la commission d'enquête sont
-défavorables, par décret en Conseil d'Etat.
+nécessaires à leur réalisation sont prononcés par arrêté ministériel ou par
+arrêté préfectoral.
+
+Toutefois, l'exécution des travaux est dispensée d'enquête publique lorsqu'ils
+sont nécessaires pour faire face à des situations de péril imminent, qu'ils
+n'entraînent aucune expropriation et que le maître d'ouvrage ne prévoit pas de
+demander de participation financière aux personnes intéressées. Il est cependant
+procédé comme indiqué à l'article 3 de la loi du 29 décembre 1892 sur les
+dommages causés à la propriété privée par l'exécution des travaux publics.
+
+Sont également dispensés d'enquête publique, sous réserve qu'ils n'entraînent
+aucune expropriation et que le maître d'ouvrage ne prévoie pas de demander une
+participation financière aux personnes intéressées, les travaux portant sur un
+cours d'eau couvert par un schéma mentionné à l'article L. 212-3 du code de
+l'environnement, directement liés à une inondation déclarée catastrophe
+naturelle en application de l'article L. 125-1 du code des assurances, réalisés
+dans les trois ans qui suivent celle-ci et visant à rétablir le cours d'eau dans
+ses caractéristiques naturelles.
 
 Les dépenses relatives à la mise en oeuvre de cette procédure sont à la charge
 de la ou des collectivités qui en ont pris l'initiative.

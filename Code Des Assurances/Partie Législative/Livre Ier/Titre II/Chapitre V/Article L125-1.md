@@ -4,8 +4,9 @@ Les contrats d'assurance, souscrits par toute personne physique ou morale autre
 que l'Etat et garantissant les dommages d'incendie ou tous autres dommages à des
 biens situés en France, ainsi que les dommages aux corps de véhicules terrestres
 à moteur, ouvrent droit à la garantie de l'assuré contre les effets des
-catastrophes naturelles et des affaissements de terrain dus à des cavités
-souterraines et à des marnières sur les biens faisant l'objet de tels contrats.
+catastrophes naturelles, dont ceux des affaissements de terrain dus à des
+cavités souterraines et à des marnières sur les biens faisant l'objet de tels
+contrats.
 
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette
 garantie est étendue aux effets des catastrophes naturelles, dans les conditions

@@ -3,8 +3,11 @@ Article L211-1
 Les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan
 local d'urbanisme approuvé peuvent, par délibération, instituer un droit de
 préemption urbain sur tout ou partie des zones urbaines et des zones
-d'urbanisation future délémitées par ce plan ainsi que sur tout ou partie de
-leur territoire couvert par un plan de sauvegarde et de mise en valeur rendu
+d'urbanisation future délimitées par ce plan, dans les périmètres définis par un
+plan de prévention des risques technologiques en application du I de l'article
+L. 515-16 du code de l'environnement, dans les zones soumises aux servitudes
+prévues au II de l'article L. 211-12 du même code, ainsi que sur tout ou partie
+de leur territoire couvert par un plan de sauvegarde et de mise en valeur rendu
 public ou approuvé en application de l'article L. 313-1 lorsqu'il n'a pas été
 créé de zone d'aménagement différé ou de périmètre provisoire de zone
 d'aménagement différé sur ces territoires.

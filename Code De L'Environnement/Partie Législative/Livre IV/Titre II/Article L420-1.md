@@ -10,5 +10,4 @@ Le principe de prélèvement raisonnable sur les ressources naturelles
 renouvelables s'impose aux activités d'usage et d'exploitation de ces
 ressources. En contrepartie de prélèvements raisonnés sur les espèces dont la
 chasse est autorisée, les chasseurs doivent contribuer à la gestion équilibrée
-des écosystèmes. La chasse s'exerce dans des conditions compatibles avec les
-usages non appropriatifs de la nature, dans le respect du droit de propriété.
+des écosystèmes.

@@ -79,7 +79,13 @@ f) Les installations et travaux divers qui sont destinés à être affectés à 
 service public ou d'utilité publique et réalisés par l'Etat, les collectivités
 locales ou leurs groupements ou l'un des services et organismes enumérés par le
 décret pris pour l'application du 1° du I de l'article 1585 C du code général
-des imp&lt;CB&gt;ts.
+des impôts.
+
+g) Les aménagements prescrits par un plan de prévention des risques naturels
+prévisibles ou un plan de prévention des risques technologiques sur des biens
+construits ou aménagés conformément aux dispositions du présent code avant
+l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de
+ces biens.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels
 sensibles, les locaux à usage d'habitation principale édifiés pour leur compte

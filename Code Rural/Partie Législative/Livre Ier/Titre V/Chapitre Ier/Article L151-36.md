@@ -17,9 +17,7 @@ présent code ;
 3° Curage, approfondissement, redressement et régularisation des canaux et cours
 d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
 
-4° Dessèchement des marais ;
-
-5° Assainissement des terres humides et insalubres ;
+4° et 5° (alinéas abrogés) ;
 
 6° Irrigation, épandage, colmatage et limonage ;
 
