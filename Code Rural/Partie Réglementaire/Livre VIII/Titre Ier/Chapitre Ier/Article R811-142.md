@@ -176,6 +176,11 @@ d'un diplôme d'études universitaires de sciences et techniques peut obtenir un
 brevet de technicien supérieur agricole, sont fixées par arrêté du ministre de
 l'agriculture.
 
+Par dérogation, le ministre chargé de l'agriculture peut accorder des dispenses
+d'épreuve aux candidats titulaires de titres ou de diplômes autres que ceux
+mentionnés à l'alinéa précédent, obtenus après au moins trois années d'études
+supérieures.
+
 XIII. - Pour les étudiants à titre d'étranger non titulaires de diplômes
 français admis dans les classes de préparation au brevet de technicien supérieur
 agricole en application du b du troisième alinéa du III de l'article R. 811-140,
