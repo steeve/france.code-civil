@@ -22,7 +22,13 @@ participation majoritaire ;
 4° Les salariés non statutaires des chambres de métiers, des services à
 caractère industriel et commercial gérés par les chambres de commerce et
 d'industrie, des chambres d'agriculture, ainsi que les salariés des
-établissements et services d'utilité agricole de ces chambres.
+établissements et services d'utilité agricole de ces chambres ;
+
+5° Les fonctionnaires de France Télécom placés hors de la position d'activité
+dans leurs corps en vue d'assurer des fonctions soit dans l'entreprise, en
+application du cinquième alinéa de l'article 29 de la loi n° 90-568 du 2 juillet
+1990 relative à l'organisation du service public de la poste et des
+télécommunications, soit dans l'une de ses filiales.
 
 La charge et la gestion de cette indemnisation sont assurées par les employeurs
 mentionnés au présent article. Ceux-ci peuvent toutefois, par convention conclue

@@ -14,11 +14,8 @@ caractéristiques techniques fixées par voie réglementaire. Toute personne qui
 traite et présente de façon non discriminatoire les informations qui lui sont
 communiquées à cette fin.
 
-France Télécom édite un annuaire universel sous forme imprimée et électronique
-et fournit un service universel de renseignements.
-
 Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du
-service public des postes et télécommunications, détermine les modalités
-d'application du présent article. Il précise notamment les garanties à mettre en
-oeuvre pour assurer la confidentialité des données, compte tenu des intérêts
-commerciaux des opérateurs, et la protection de la vie privée.
+service public des postes et des communications électroniques, détermine les
+modalités d'application du présent article. Il précise notamment les garanties à
+mettre en oeuvre pour assurer la confidentialité des données, compte tenu des
+intérêts commerciaux des opérateurs, et la protection de la vie privée.

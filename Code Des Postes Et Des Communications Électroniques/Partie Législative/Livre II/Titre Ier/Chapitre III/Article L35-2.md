@@ -1,19 +1,23 @@
 Article L35-2
 ----
-I. - Peut être chargé de fournir le service universel tout opérateur en
-acceptant la fourniture sur l'ensemble du territoire national et capable de
-l'assurer.
+Peut être chargé de fournir l'une des composantes du service universel
+mentionnées aux 1°, 2° et 3° de l'article L. 35-1 tout opérateur en acceptant la
+fourniture sur l'ensemble du territoire national et capable de l'assurer.
 
-France Télécom est l'opérateur public chargé du service universel.
+Le ministre chargé des télécommunications désigne les opérateurs chargés de
+fournir les composantes du service universel à l'issue d'appels à candidatures
+portant sur les conditions techniques et tarifaires ainsi que, le cas échéant,
+le coût net de fourniture de ces prestations.
 
-Le cahier des charges d'un opérateur chargé de fournir le service universel est
-établi après avis de la Commission supérieure du service public des postes et
-télécommunications et détermine les conditions générales de fourniture de ce
-service et notamment les obligations tarifaires nécessaires, d'une part pour
-permettre l'accès au service universel de toutes les catégories sociales de la
-population, d'autre part pour éviter une discrimination fondée sur la
-localisation géographique. Il fixe également les conditions dans lesquelles les
+Dans le cas où un appel à candidatures s'avère infructueux, le ministre chargé
+des télécommunications désigne un opérateur capable d'assurer le service en
+cause sur l'ensemble du territoire national.
+
+Le cahier des charges du ou des opérateurs en charge du service universel des
+télécommunications est soumis pour avis à la Commission supérieure du service
+public des postes et télécommunications.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission supérieure du
+service public des postes et télécommunications, détermine les modalités
+d'application du présent article. Il fixe les conditions dans lesquelles les
 tarifs du service universel et sa qualité sont contrôlés.
-
-II. - L'acheminement gratuit des appels d'urgence est obligatoire pour tous les
-fournisseurs de service téléphonique au public.
