@@ -1,9 +1,11 @@
 Article R*528-2
 ----
-Il est constitué au sein du conseil supérieur de la coopération une commission
-centrale d'agrément. Cette commission est consultée sur les demandes des
-sociétés coopératives et de leurs unions dont l'agrément relève du ministre de
-l'agriculture. Elle peut recevoir délégation du conseil supérieur de la
-coopération agricole en ce qui concerne les décisions portant refus d'agrément
-relatif à l'extension de la circonscription ou de l'objet desdites sociétés ou
-unions de sociétés ou retrait d'agrément consécutif à leur dissolution.
+Il est constitué auprès du Conseil supérieur de la coopération agricole une
+commission centrale d'agrément des coopératives agricoles. Cette commission est
+consultée sur les demandes des unions de coopératives agricoles et des sociétés
+coopératives agricoles dont l'agrément relève du ministre chargé de
+l'agriculture.
+
+Elle est notamment consultée sur les demandes d'agrément relatives à l'extension
+de la circonscription ou de l'objet desdites coopératives agricoles ainsi que
+sur les retraits d'agrément ou réductions de la circonscription ou de l'objet.
