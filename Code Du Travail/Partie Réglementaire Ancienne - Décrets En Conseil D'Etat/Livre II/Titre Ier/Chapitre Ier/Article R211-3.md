@@ -1,22 +1,10 @@
 Article R211-3
 ----
-La commission [*constituée au sein du conseil départemental de protection à
-l'enfance*] prévue à l'article L. 211-7 pour examiner les demandes
-d'autorisation et les demandes d'agrément des agences de mannequins en vue
-d'engager des enfants comprend [*composition*] :
-
-Le préfet ou le secrétaire général, président.
-
-Un magistrat chargé des fonctions de juge des enfants et désigné par le premier
-président de la cour d'appel.
-
-L'inspecteur d'académie ou son représentant.
-
-Le directeur départemental du travail et de la main-d'oeuvre ou son
-représentant.
-
-Le directeur départemental de l'action sanitaire et sociale ou son représentant.
-
-Un médecin inspecteur de la santé.
-
-Le directeur régional des affaires culturelles ou son représentant.
+Cette demande [*d'autorisation préalable*] est accompagnée d'une pièce
+établissant l'état civil de l'enfant, de l'autorisation écrite de ses
+représentants légaux accompagnée de la liste des emplois précédemment ou
+actuellement occupés par l'enfant, de tous documents permettant d'apprécier les
+difficultés et la moralité du rôle qu'il est appelé à jouer ou de la prestation
+qu'il doit fournir en tant que mannequin, de toutes précisions sur ses
+conditions d'emploi, sur sa rémunération et sur les dispositions prises pour
+assurer sa fréquentation scolaire.
