@@ -1,6 +1,10 @@
 Article L323-13
 ----
-Un règlement d'administration publique détermine les règles d'organisation et
-d'administration des régies dotées de la seule autonomie financière, ainsi que
-les dérogations à apporter éventuellement à l'administration des syndicats de
-communes.
+Les régies dotées de la seule autonomie financière sont créées, et leur
+organisation administrative et financière déterminée, par délibération du
+conseil municipal. Elles sont administrées, sous l'autorité du maire et du
+conseil municipal, par un conseil d'exploitation et un directeur désignés dans
+les mêmes conditions sur proposition du maire.
+
+" Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités
+d'application du présent article. "

@@ -11,7 +11,7 @@ commune peut se charger, à la demande des propriétaires, de l'exécution de la
 partie des branchements visés ci-dessus.
 
 Ces parties de branchements sont incorporées au réseau public, propriété de la
-commune qui en assure désormais l'entretien.
+commune qui en assure désormais l'entretien et en contrôle la conformité.
 
 La commune est autorisée à se faire rembourser par les propriétaires intéressés
 [*charge financière*] tout ou partie des dépenses entraînées par ces travaux,

@@ -18,6 +18,6 @@ moyen que ce soit ;
 6. D'extraire à moins de 11,70 m de la limite desdites rivières ou des bords
 desdits canaux, des terres, sables et autres matériaux.
 
-Le contrevenant sera passible d'une amende de 3000 à 6000 F et devra, en outre,
+Le contrevenant sera passible d'une amende de 1000 à 80000 F et devra, en outre,
 remettre les lieux en état ou, à défaut, payer les frais de la remise en état
 d'office par l'administration.

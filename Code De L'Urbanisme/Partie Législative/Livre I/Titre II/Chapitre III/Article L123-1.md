@@ -43,10 +43,9 @@ conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers
 les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées
 en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques
 en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être
-prévus ;
-
-7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à
-mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
+prévus ; 7° délimiter les quartiers, rues, monuments, sites et secteurs à
+protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou
+écologique ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux
 installations d'intérêt général ainsi qu'aux espaces verts ;
@@ -62,6 +61,8 @@ sur le terrain où l'implantation de la construction est envisagée.
 commerce de détail dont l'octroi du permis de construire ou la réalisation est
 soumis à autorisation préalable de la commission départementale d'urbanisme
 commercial par l'article L. 451-5 du présent code.
+
+12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
 Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de
 construction différentes de celles qui résultent de l'application du coefficient

@@ -65,13 +65,10 @@ les communes sièges de ce tribunal ;
 translation dans les cas déterminés par le titre VI du Livre III et les
 règlements d'administration publique ;
 
-17° La dépense relative au fonctionnement et à l'entretien des stations
-d'épuration de ses eaux usées ;
-
-18° Les dépenses de prospections, traitements, travaux et contrôles nécessaires
-à l'action de lutte contre les moustiques conformément à l'article 1er de la loi
-n° 64-1245 du 16 décembre 1964 et à l'article 65 de la loi n° 74-1129 du 30
-décembre 1974 ;
+17° [*abrogé*] 18° Les dépenses de prospections, traitements, travaux et
+contrôles nécessaires à l'action de lutte contre les moustiques conformément à
+l'article 1er de la loi n° 64-1245 du 16 décembre 1964 et à l'article 65 de la
+loi n° 74-1129 du 30 décembre 1974 ;
 
 19° [*dépenses obligatoires*] Les frais d'établissement et de conservation des
 plans d'alignement et de nivellement, sous la réserve prévue par l'article L.
