@@ -7,9 +7,10 @@ publique et après audition du commissaire du gouvernement :
 1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de
 construire ;
 
-2° Sur les litiges relatifs à la situation individuelle des agents publics, à
-l'exception de ceux concernant l'entrée au service, la discipline et la sortie
-du service ;
+2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou
+agents de l'Etat et des autres personnes ou collectivités publiques, ainsi que
+des agents ou employés de la Banque de France, à l'exception de ceux concernant
+l'entrée au service, la discipline et la sortie du service ;
 
 3° Sur les litiges en matière de pensions, d'aide personnalisée au logement, de
 communication de documents administratifs, de service national ;

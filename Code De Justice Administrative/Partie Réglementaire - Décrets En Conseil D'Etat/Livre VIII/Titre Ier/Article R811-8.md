@@ -1,7 +1,8 @@
 Article R811-8
 ----
-En cas de dispense, les parties peuvent agir et se présenter elles-mêmes. Elles
-peuvent aussi se faire représenter :
+Lorsqu'une disposition spéciale a prévu une dispense d'avocat en appel, les
+parties peuvent agir et se présenter elles-mêmes. Elles peuvent aussi se faire
+représenter :
 
 1° Par l'un des mandataires mentionnés à l'article R. 431-2 ;
 
