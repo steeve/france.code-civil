@@ -7,11 +7,11 @@ délai court à compter de la publication de la décision ou de la mention de
 l'intervention de l'autorisation tacite au recueil des actes administratifs de
 la préfecture du département.
 
-Lorsqu'un tel recours a été formé contre une décision du préfet de région
-refusant une autorisation, cette autorisation est réputée acquise à l'expiration
-d'un délai de six mois à partir de la réception du recours par le ministre
-chargé de la santé, si aucune décision de sens contraire n'est intervenue dans
-ce délai.
+Lorsqu'un recours hiérarchique a été formé contre une décision du préfet de
+région accordant ou refusant la délivrance ou le renouvellement d'une
+autorisation, le recours est réputé rejeté à l'expiration d'un délai de six mois
+à partir de sa réception par le ministre chargé de la santé si aucune décision
+de sens contraire n'est intervenue dans ce délai.
 
 Le recours hiérarchique contre une décision d'autorisation prise par le préfet
 de région est notifié sans délai au bénéficiaire de l'autorisation par lettre

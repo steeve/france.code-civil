@@ -11,7 +11,6 @@ ministre chargé de la santé ;
 celle du ou des départements concernés pour les décisions du préfet de région.
 
 II. - Mention de l'intervention des autorisations réputées acquises en
-application du troisième alinéa de l'article L. 712-16 et de l'article R.
-712-44, et notamment de la date à laquelle elles sont intervenues, doit
-également être faite dans le journal et les recueils mentionnés aux 1° et 2° du
-I ci-dessus.
+application du cinquième alinéa de l'article L. 712-16, et notamment de la date
+à laquelle elles sont intervenues, doit également être faite dans le journal et
+les recueils mentionnés aux 1° et 2° du I ci-dessus.

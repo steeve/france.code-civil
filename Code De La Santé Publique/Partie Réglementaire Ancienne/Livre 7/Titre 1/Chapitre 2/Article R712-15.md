@@ -16,17 +16,11 @@ l'article L. 712-8 ;
 projets mentionnés à l'article L. 712-8, lorsque la décision relève de la
 compétence du ministre chargé de la santé ;
 
-5° Les mesures que le ministre chargé de la santé a l'intention de demander au
-conseil d'administration d'un établissement public de santé d'adopter en
-application de l'article L. 712-20 ;
+5° (abrogé)
 
-6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé et en
-application de l'article L. 715-2 :
-
-a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
-
-b) Les décisions de suspension ou de retrait d'autorisation de dispenser des
-soins remboursables aux assurés sociaux ;
+6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé, les
+décisions de suspension ou de retrait d'autorisation prévues aux articles L.
+712-17-1 et L. 712-18 ;
 
 7° Les projets de contrats de concession pour l'exécution du service public
 hospitalier prévus à l'article L. 715-10 ainsi que les décisions mettant fin à

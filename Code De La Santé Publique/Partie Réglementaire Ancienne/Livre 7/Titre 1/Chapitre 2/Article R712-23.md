@@ -10,20 +10,13 @@ ainsi que l'annexe dudit schéma ;
 aux projets mentionnés à l'article L. 712-8 lorsque la décision relève de la
 compétence du préfet de région ;
 
-3° Les mesures que le ministre chargé de la santé a l'intention de demander au
-conseil d'administration d'un établissement public de santé d'adopter, en
-application de l'article L. 712-20 ;
+3° ...
 
-4° Lorsqu'elles relèvent de la compétence du préfet de région et en application
-de l'article L. 715-2 :
+4° ...
 
-a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
-
-b) Les décisions de suspension ou de retrait d'autorisation de dispenser des
-soins remboursables aux assurés sociaux ;
-
-5° La suspension de l'autorisation de fonctionner prononcée en application de
-l'article L. 712-18 ;
+5° Lorsqu'elles relèvent de la compétence du préfet de région, les décisions de
+suspension ou de retrait d'autorisation prévues aux articles L. 712-17-1 et L.
+712-18 ;
 
 6° Les projets de contrats de concession pour l'exécution du service public
 hospitalier et les décisions mettant fin à ces contrats en application de
