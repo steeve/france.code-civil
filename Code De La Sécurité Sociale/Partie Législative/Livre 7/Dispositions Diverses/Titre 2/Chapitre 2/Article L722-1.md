@@ -16,6 +16,10 @@ conclue en application des articles L. 162-9 et L. 162-12-2 ou, en l'absence
 d'une telle convention, dans le cadre du régime de l'adhésion personnelle prévue
 au dernier alinéa de l'article L. 162-11.
 
+4° Aux étudiants en médecine visés au premier alinéa de l'article L. 359 du code
+de la santé publique qui effectuent le remplacement d'un docteur en médecine
+lorsqu'ils ne bénéficient pas des dispositions de l'article L. 381-4.
+
 Le bénéfice du présent régime n'est accordé aux médecins, chirurgiens-dentistes,
 sages-femmes et auxiliaires médicaux qu'à la double condition :
 

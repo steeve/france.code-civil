@@ -60,6 +60,8 @@ l'exercice écoulé.
 5° En contribuant au financement des dépenses de fonctionnement des conventions
 de conversion prévues à l'article L. 322-3.
 
+6° En finançant les actions de formation prévues à l'article L. 122-28-7.
+
 Sont regardées comme des actions de formation [*définition*] au sens du 1° et du
 3° du présent article et peuvent également faire l'objet d'un financement soit
 par les fonds d'assurance-formation, soit dans le cadre des dispositions de

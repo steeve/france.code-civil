@@ -43,11 +43,15 @@ multiples. Cette période est portée à dix-huit semaines, vingt semaines en ca
 d'adoptions multiples, si l'adoption a pour effet de porter à trois ou plus le
 nombre d'enfants dont la salariée ou le ménage assume la charge dans les
 conditions prévues aux articles L. 519 à L. 529 du code de la sécurité sociale.
+
 Toutefois, lorsque les deux conjoints assurés travaillent, ce droit est ouvert
 dans les mêmes conditions à celui qui bénéficie des dispositions de l'article L.
 298-3 du code de la sécurité sociale *indemnité journalière de repos*. Le père
 salarié bénéficie alors de la protection *contre le licenciement* instituée à
-l'article L. 122-25-2.
+l'article L. 122-25-2. La période de suspension du contrat de travail peut être
+répartie entre la mère et le père salariés, sous réserve qu'elle ne soit pas
+fractionnée en plus de deux parties dont la plus courte ne pourra pas être
+inférieure à quatre semaines.
 
 La femme devra avertir [*obligation*] l'employeur du motif de son absence et de
 la date à laquelle elle entend remettre en vigueur son contrat de travail.

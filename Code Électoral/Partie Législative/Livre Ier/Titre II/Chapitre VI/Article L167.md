@@ -8,9 +8,9 @@ En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrage
 exprimés le coût du papier, l'impression des bulletins de vote, affiches,
 circulaires ainsi que les frais d'affichage.
 
-Les autres dépenses électorales des candidats ayant obtenu au moins 5 % des
+Les autres dépenses électorales des candidats ayant obtenu au moins 5 p. 100 des
 suffrages exprimés au premier tour font l'objet d'un remboursement forfaitaire
-de la part de l'Etat égal au dixième du plafond prévu à l'article L. 52-11.
+de la part de l'Etat égal au cinquième du plafond prévu à l'article L. 52-11.
 
 Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées
 dans son compte de campagne.

@@ -10,6 +10,11 @@ le lendemain de la date prévue pour la première réunion visée audit article.
 Elle est accompagnée de tout renseignement concernant la convocation, l'ordre du
 jour et la tenue de cette réunion [*mentions obligatoires*].
 
+En l'absence de plan social au sens de l'article L. 321-4-1, l'autorité
+administrative constate cette carence par notification à l'entreprise dès
+qu'elle en a eu connaissance et au plus tard dans les huit jours suivant la
+notification prévue à l'alinéa précédent.
+
 L'autorité administrative compétente s'assure que les représentants du personnel
 ont été informés, réunis et consultés conformément aux dispositions légales et
 conventionnelles en vigueur, que les règles relatives à l'élaboration des

@@ -5,12 +5,12 @@ imposées par les titres Ier, II, III, IV et VI du présent livre, par les
 règlements pris pour son application ou par les autorisations délivrées en
 conformité avec leurs dispositions, exception faite des infractions relatives à
 l'affichage des autorisations ou déclarations concernant des travaux,
-constructions ou installations, est punie d'une amende comprise entre 2.000 F et
-un montant qui ne peut excéder soit, dans le cas de construction d'une surface
-de plancher, une somme égale à 10.000 F par mètre carré de la construction ou de
-la partie de la construction réalisée en infraction, soit, dans le cas
-contraire, un montant de 500.000 F. En cas de récidive, outre la peine d'amende
-ainsi définie un emprisonnement de un mois à six mois pourra être prononcé.
+constructions ou installations, est punie d'une amende comprise entre 8000 F et
+un montant qui ne peut excéder, soit, dans le cas de construction d'une surface
+de plancher, une somme égale à 40.000 F par mètre carré de surface construite,
+démolie ou rendue inutilisable au sens de l'article L.430-2, soit, dans les
+autres cas, un montant de 2 000 000 F. En cas de récidive, outre la peine
+d'amende ainsi définie un emprisonnement de un à six mois pourra être prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les
 utilisateurs du sol, les bénéficiaires des travaux, les architectes, les

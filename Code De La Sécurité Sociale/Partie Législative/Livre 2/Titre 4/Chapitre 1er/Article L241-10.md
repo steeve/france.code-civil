@@ -8,34 +8,44 @@ domicile et pour leur service personnel, par :
 
 a) Des personnes vivant seules et des couples vivant indépendamment des autres
 membres de leur famille, sous réserve de satisfaire à une condition d'âge
-déterminée par décret ; b) Des personnes ayant à charge un enfant ouvrant droit
-au complément de l'allocation d'éducation spéciale mentionnée à l'article L.
-541-1 ; c) Des personnes vivant seules, se trouvant dans l'obligation de
-recourir à l'assistance d'une tierce personne pour accomplir les actes
-ordinaires de la vie et titulaires :
+déterminée par décret ;
+
+b) Des personnes ayant à charge un enfant ouvrant droit au complément de
+l'allocation d'éducation spéciale mentionnée à l'article L. 541-1 ;
+
+c) Des personnes vivant seules, se trouvant dans l'obligation de recourir à
+l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie
+et titulaires :
 
 - soit d'un avantage de vieillesse servi en application du présent code ou du
-code rural ; - soit d'une pension d'invalidité servie par un régime spécial de
-sécurité sociale, sous réserve d'avoir dépassé un âge déterminé par décret ; -
-soit d'une pension allouée aux militaires invalides au titre de l'article L. 2
+code rural ;
+
+- soit d'une pension d'invalidité servie par un régime spécial de sécurité
+sociale, sous réserve d'avoir dépassé un âge déterminé par décret ;
+
+- soit d'une pension allouée aux militaires invalides au titre de l'article L. 2
 du code des pensions militaires d'invalidité et des victimes de guerre, sous
-réserve d'avoir dépassé un âge déterminé par décret ; - soit de l'allocation
-compensatrice pour tierce personne ; - soit d'une majoration pour tierce
-personne servie au titre de l'assurance invalidité, de la législation des
-accidents du travail ou d'un régime spécial de sécurité sociale ou de l'article
-L. 18 du code des pensions militaires d'invalidité et des victimes de guerre.
+réserve d'avoir dépassé un âge déterminé par décret ;
+
+- soit de l'allocation compensatrice pour tierce personne ;
+
+- soit d'une majoration pour tierce personne servie au titre de l'assurance
+invalidité, de la législation des accidents du travail ou d'un régime spécial de
+sécurité sociale ou de l'article L. 18 du code des pensions militaires
+d'invalidité et des victimes de guerre.
 
 L'exonération est accordée sur la demande des intéressés par l'organisme chargé
 du recouvrement des cotisations dans les conditions fixées par arrêté
 ministériel.
 
 Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domicile
-avec l'allocation de garde d'enfant à domicile prévue à l'article L. 533-1. Le
-bénéfice des dispositions du présent article est également ouvert dans les mêmes
-conditions aux personnes âgées ou handicapées adultes qui ont passé un contrat
-conforme aux dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475
-du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à
-titre onéreux, de personnes âgées ou handicapées adultes.
+avec l'allocation de garde d'enfant à domicile prévue à l'article L. 533-1.
+
+Le bénéfice des dispositions du présent article est également ouvert dans les
+mêmes conditions aux personnes âgées ou handicapées adultes qui ont passé un
+contrat conforme aux dispositions du cinquième alinéa de l'article 6 de la loi
+n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur
+domicile, à titre onéreux, de personnes âgées ou handicapées adultes.
 
 Le droit à l'exonération est également ouvert aux personnes ou aux couples
 vivant avec des membres de leur famille et remplissant la condition d'âge fixée
@@ -43,3 +53,9 @@ au a ci-dessus ou se trouvant dans l'obligation de recourir à l'assistance d'un
 tierce personne pour accomplir les actes ordinaires de la vie et titulaires de
 l'un des avantages mentionnés au c ci-dessus, dès lors qu'ils emploient une aide
 à domicile pendant une durée au moins égale à un minimum fixé par décret.
+
+Les rémunérations des aides à domicile employées par les associations agréées au
+titre de l'article L. 129-1 du code du travail, les organismes habilités au
+titre de l'aide sociale ou ayant passé convention avec un organisme de sécurité
+sociale bénéficient d'une exonération de 30 p. 100 des cotisations patronales
+d'assurances sociales, d'accidents du travail et d'allocations familiales.

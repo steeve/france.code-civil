@@ -95,9 +95,8 @@ Election des conseillers :
 
 - régionaux : 2.
 
-Le plafond des dépenses pour l'élection des députés est de 500 000 F par
-candidat. Il est ramené à 400 000 F dans les circonscriptions dont la population
-est inférieure à 80 000 habitants.
+" Le plafond des dépenses pour l'élection des députés est de 250 000 F par
+candidat. Il est majoré de 1 F par habitant de la circonscription. "
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables
 à l'élection des conseillers à l'Assemblée de Corse.

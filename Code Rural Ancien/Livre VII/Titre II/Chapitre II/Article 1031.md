@@ -53,7 +53,8 @@ ou en cas d'appel sous les drapeaux.
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel
 pour certaines catégories de travailleurs salariés ou assimilés.
 
-La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du
-travail dont l'activité n'excède pas la durée fixée par le décret prévu à
-l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à
-cotisations d'assurances sociales agricoles à la charge de l'employeur.
+La partie de la rémunération des personnes mentionnées au 1 de l'article L. 128
+du code du travail correspondant à une durée d'activité inférieure ou égale à la
+limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité
+sociale ne donne pas lieu à cotisations d'assurances sociales agricoles à la
+charge de l'employeur.

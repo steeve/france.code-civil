@@ -6,4 +6,4 @@ d'information des praticiens afférents à l'exploitation en France des
 spécialités pharmaceutiques remboursables ou des médicaments agréés à l'usage
 des collectivités.
 
-Le taux de la contribution est fixé à 7 p. 100.
+Le taux de la contribution est fixé à 9 p. 100.

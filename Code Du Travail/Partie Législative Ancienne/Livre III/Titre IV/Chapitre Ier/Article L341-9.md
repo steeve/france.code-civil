@@ -19,3 +19,6 @@ ou à leur réinsertion dans le pays d'origine ;
 b) A l'emploi des Français à l'étranger ;
 
 c) A la réinsertion en France des Français ayant résidé à l'étranger.
+
+Pour l'exercice de ses missions, l'Office des migrations internationales peut
+recruter des agents non titulaires sur des contrats à durée indéterminée.

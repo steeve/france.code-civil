@@ -55,8 +55,8 @@ nécessaires à l'exécution des travaux précèdents ;
 
 6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers
 gardes de propriété et, de manière générale, toute personne qui, n'ayant pas la
-qualité d'entrepreneur, est occupée par des groupements ou des particuliers à la
-mise en état et à l'entretien des jardins ;
+qualité d'entrepreneur, est occupée par des groupements et sociétés de toute
+nature ou des particuliers à la mise en état et à l'entretien des jardins ;
 
 7° Les salariés des organismes de mutualité agricole, des caisses de crédit
 agricole mutuel, des chambres d'agriculture, du centre national pour
