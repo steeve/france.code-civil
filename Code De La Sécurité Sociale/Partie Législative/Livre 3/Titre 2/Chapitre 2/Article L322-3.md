@@ -59,11 +59,12 @@ L. 341-16 et L. 371-1 en ce qui concerne les frais engagés pour eux-mêmes ;
 d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27
 du code pénal ;
 
-16°) Pour les frais d'examens de dépistage effectués dans le cadre des
-programmes mentionnés au 6° de l'article L. 321-1 ;
+16°) Pour les frais d'examens de dépistage et les frais liés aux consultations
+de prévention destinées aux mineurs effectués dans le cadre des programmes
+mentionnés au 6° de l'article L. 321-1 ;
 
-17° Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné au
-9° de l'article L. 321-1.
+17°) Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné
+au 9° de l'article L. 321-1.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les
 critères médicaux utilisés pour la définition de l'affection et ouvrant droit à

@@ -48,13 +48,12 @@ alinéa, les redevables tiennent compte de la part de chiffre d'affaires déduit
 de l'assiette de leur contribution en application des dispositions du présent
 article.
 
-Pour les redevables visés au 9° de l'article L. 651-1 affiliés à l'un des
-organes centraux mentionnés à l'article 20 de la loi n° 84-46 du 24 janvier 1984
-relative à l'activité et au contrôle des établissements de crédit, la part du
-chiffre d'affaires correspondant à des intérêts reçus à raison d'opérations de
-centralisation, à l'échelon régional ou national, de leurs ressources
-financières n'est pas soumise à la contribution dans la limite du montant des
-intérêts servis en contre-partie de ces mêmes opérations.
+Pour les redevables visés à l'article L. 651-1 affiliés à l'un des organes
+centraux mentionnés à l'article L. 511-30 du code monétaire et financier, la
+part du chiffre d'affaires correspondant à des intérêts reçus à raison
+d'opérations de centralisation, à l'échelon régional ou national, de leurs
+ressources financières n'est pas soumise à la contribution dans la limite du
+montant des intérêts servis en contre-partie de ces mêmes opérations.
 
 Les dispositions du premier alinéa sont applicables aux entreprises de négoce en
 l'état des produits du sol et de l'élevage, engrais et produits connexes,

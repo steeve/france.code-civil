@@ -10,6 +10,13 @@ renouvelés et dans le cadre des procédures prévues par le code des marchés
 publics, à des entreprises d'investissement qui exercent à titre principal le
 service visé au 4 de l'article L. 321-1 du code monétaire et financier.
 
+Par dérogation à l'alinéa précédent, dans des cas exceptionnels, à titre
+temporaire et pour préserver la sécurité des actifs détenus par le fonds, leur
+gestion financière peut être assurée par ce dernier sans recourir aux
+entreprises d'investissement visées audit alinéa. Les conditions d'application
+de cette dérogation sont fixées par arrêté conjoint des ministres chargés de
+l'économie et de la sécurité sociale.
+
 Les instruments financiers que le Fonds de réserve pour les retraites est
 autorisé à détenir ou à utiliser sont ceux énumérés au I de l'article L. 211-1
 du code monétaire et financier.

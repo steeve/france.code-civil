@@ -22,6 +22,9 @@ le recouvrement des cotisations et des impôts affectés ;
 
 2° Les objectifs liés à l'amélioration de la qualité du service aux usagers ;
 
+2° bis Les objectifs d'amélioration de la productivité du réseau et de son
+organisation territoriale ;
+
 3° Les objectifs de l'action sociale, de prévention et de lutte contre
 l'exclusion ;
 
@@ -56,7 +59,11 @@ maladie du régime général détermine, en fonction de l'objectif national de
 dépenses d'assurance maladie voté par le Parlement, l'objectif prévisionnel des
 dépenses de soins de ville et, en son sein, la part mentionnée à l'article L.
 162-43 et l'objectif de dépenses déléguées et précise les conditions et
-modalités de mise en oeuvre de ces objectifs.
+modalités de mise en oeuvre de ces objectifs. Cet objectif prévisionnel des
+dépenses de soins de ville prend en compte les évolutions de toute nature à la
+suite desquelles des établissements, des services ou des activités sanitaires ou
+médico-sociaux se trouvent placés pour tout ou partie sous un régime juridique
+ou de financement différent de celui sous lequel ils étaient placés auparavant.
 
 Les dépenses de soins de ville comprennent :
 
@@ -75,5 +82,8 @@ Les dépenses déléguées comprennent les dépenses mentionnées au 1° ci-dess
 ainsi que les frais de transport mentionnés à l'article L. 322-5.
 
 III. - Les conventions d'objectifs et de gestion sont conclues pour une période
-minimale de trois ans. Elles sont communiquées aux conseils de surveillance
+minimale de quatre ans. Elles sont communiquées aux conseils de surveillance
 mentionnés à l'article L. 228-1.
+
+Les conventions et, le cas échéant, les avenants qui les modifient sont transmis
+à la commission mentionnée à l'article L. 111-9.

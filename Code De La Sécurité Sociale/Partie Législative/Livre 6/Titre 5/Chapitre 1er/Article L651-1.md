@@ -3,7 +3,7 @@ Article L651-1
 Il est institué, au profit du régime d'assurance maladie-maternité des
 travailleurs non-salariés des professions non agricoles et des régimes
 d'assurance vieillesse des professions mentionnées aux 1°, 2° et 4° de l'article
-L. 621-3, ainsi qu'au profit du Fonds de solidarité vieillesse mentionné à
+L. 621-3 , ainsi qu'au profit du Fonds de solidarité vieillesse mentionné à
 l'article L. 135-1 et du Fonds de réserve pour les retraites mentionné à
 l'article L. 135-6, une contribution sociale de solidarité à la charge :
 
@@ -21,7 +21,7 @@ ensemble ou séparément, par l'Etat, par une ou plusieurs entreprises publiques
 ou par une ou plusieurs sociétés nationales.
 
 5°) des personnes morales dont le siège est situé hors du territoire de la
-France métropolitaine ou des départements d'outre-mer , à raison des affaires
+France métropolitaine ou des départements d'outre-mer, à raison des affaires
 réalisées sur ce territoire et le rendant passibles de l'impôt sur les sociétés
 ;
 
@@ -33,9 +33,16 @@ réalisées sur ce territoire et le rendant passibles de l'impôt sur les socié
 réalisées sur le territoire de la France métropolitaine ou des départements
 d'outre-mer ;
 
-9°) Des organismes non visés aux 1° à 8° qui entrent dans le champ d'application
-de la contribution des institutions financières prévue à l'article 235 ter Y du
-code général des impôts ;
+9° Des organismes suivants, non mentionnés aux 1° à 8° :
+
+établissements et entreprises exerçant l'activité définie à l'article L. 511-1
+du code monétaire et financier et relevant des chapitres Ier à VII ainsi que de
+la section 2 du chapitre VIII du titre Ier du livre V du même code, entreprises
+d'assurance, de capitalisation et de réassurance de toute nature régies par le
+code des assurances, mutuelles et unions de mutuelles relevant du livre II du
+code de la mutualité, institutions de prévoyance et unions d'institutions de
+prévoyance relevant du titre III du livre IX du présent code et institutions de
+prévoyance relevant du II de l'article L. 727-2 du code rural ;
 
 10°) Des sociétés ou organismes non visés aux 1° à 9° qui sont régis par la loi
 n° 47-1775 du 10 septembre 1947 portant statut de la coopération, à l'exception

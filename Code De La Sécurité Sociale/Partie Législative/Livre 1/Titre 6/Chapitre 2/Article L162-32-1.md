@@ -41,4 +41,12 @@ dispensent ;
 conventionnelle des différentes catégories de personnels médicaux et
 paramédicaux exerçant dans les centres de santé. La convention fixe le montant
 de la dotation annuelle des caisses nationales d'assurance maladie signataires
-assurant le financement de ces formations.
+assurant le financement de ces formations ;
+
+8° Le cas échéant, des dispositifs d'aide visant à faciliter l'installation des
+centres de santé dans les zones mentionnées à l'article L. 162-47. Les
+obligations auxquelles sont soumis les centres de santé qui bénéficient de ces
+aides peuvent être adaptées par les unions régionales des caisses d'assurance
+maladie après consultation des organisations représentatives des centres de
+santé mentionnées au premier alinéa du présent article pour tenir compte de la
+situation régionale.

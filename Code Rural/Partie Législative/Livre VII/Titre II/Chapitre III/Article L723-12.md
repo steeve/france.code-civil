@@ -9,7 +9,7 @@ II. - Dans le respect des lois de financement de la sécurité sociale et des
 dispositions des articles L. 731-1 à L. 731-5, l'autorité compétente de l'Etat
 conclut avec la caisse centrale de la mutualité sociale agricole une convention
 d'objectifs et de gestion à caractère pluriannuel. Cette convention détermine
-pour une période minimale de trois ans les objectifs liés à la gestion des
+pour une période minimale de quatre ans les objectifs liés à la gestion des
 régimes de protection sociale des non-salariés et des salariés des professions
 agricoles, au service des prestations, au recouvrement des cotisations et des
 impôts affectés, à l'amélioration du service aux usagers et à la politique
@@ -29,7 +29,10 @@ ayant le même objet de la branche maladie du régime général. La convention
 d'objectifs et de gestion est signée, pour le compte de la caisse centrale de la
 mutualité sociale agricole, par le président du conseil central d'administration
 et par le directeur de la caisse centrale de la mutualité sociale agricole. La
-mise en oeuvre de la convention d'objectifs et de gestion fait l'objet de
+convention est transmise au Parlement. Un bilan de son application, notamment au
+regard des orientations fixées par les lois de financement de la sécurité
+sociale, lui est également transmis dans les trois années suivant sa signature.
+La mise en oeuvre de la convention d'objectifs et de gestion fait l'objet de
 contrats pluriannuels de gestion conclus entre la caisse centrale de la
 mutualité sociale agricole et chacune des caisses de mutualité sociale agricole.
 Les contrats pluriannuels de gestion sont signés pour chacun des deux organismes

@@ -6,7 +6,8 @@ chargée de préparer et d'exercer les compétences conjointes à ces deux
 institutions. Elle détermine notamment :
 
 1° Les orientations relatives à l'évolution de la répartition territoriale des
-professionnels de santé libéraux en tenant compte du schéma régional
+professionnels de santé libéraux et des centres de santé mentionnés à l'article
+L. 6323-1 du code de la santé publique en tenant compte du schéma régional
 d'organisation sanitaire mentionné à l'article L. 6121-3 du code de la santé
 publique ; ces orientations définissent en particulier les zones rurales ou
 urbaines qui peuvent justifier l'institution des dispositifs mentionnés à
@@ -24,7 +25,10 @@ ou curative pris en charge par l'assurance maladie, notamment en matière de
 développement des réseaux, y compris des réseaux de télémédecine ;
 
 4° Le programme annuel de gestion du risque, dont elle assure la conduite et le
-suivi, dans les domaines communs aux soins hospitaliers et ambulatoires.
+suivi, dans les domaines communs aux soins hospitaliers et ambulatoires. Ce
+programme intègre la diffusion des guides de bon usage des soins et des
+recommandations de bonne pratique élaborés par la Haute Autorité de santé et
+l'évaluation de leur respect.
 
 Cette mission est dirigée alternativement, par périodes d'une année, par le
 directeur de l'agence régionale de l'hospitalisation et le directeur de l'union
