@@ -16,7 +16,7 @@ logement et du coefficient N prévu à l'article R. 351-61.
 Le résultat est divisé par douze.
 
 L'équivalence de loyer et de charges minima est déterminée pour chaque
-intervalle de ressources de 500 F mentionné à l'article R. 351-61. Les
+intervalle de ressources de 100 euros mentionné à l'article R. 351-61. Les
 pourcentages et le coefficient N prévus au premier alinéa du présent article
 sont appliqués à la limite supérieure de l'intervalle dans lequel se situent les
 ressources appréciées conformément à l'article R. 351-5.

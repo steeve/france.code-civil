@@ -21,8 +21,8 @@ coefficient N prévu à l'article R. 351-19.
 
 Le résultat est divisé par douze.
 
-Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 500 F
-mentionné à l'article R. 351-19. Les pourcentages et le coefficient N prévus au
-premier alinéa du présent article sont appliqués à la limite supérieure de
-l'intervalle dans lequel se situent les ressources appréciées conformément à
-l'article R. 351-5.
+Le loyer minimum L0 est déterminé pour chaque intervalle de ressources de 100
+euros mentionné à l'article R. 351-19. Les pourcentages et le coefficient N
+prévus au premier alinéa du présent article sont appliqués à la limite
+supérieure de l'intervalle dans lequel se situent les ressources appréciées
+conformément à l'article R. 351-5.

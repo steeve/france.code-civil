@@ -3,9 +3,9 @@ Article R351-61-1
 Pour les logements-foyers de jeunes travailleurs conventionnés à compter du 1er
 octobre 1990 et pour les logements-foyers denommés résidences sociales et
 mentionnés aux articles R.331-1 et R.351-55 conventionnés à compter du 1er
-janvier 1995 , en application du 5° de l'article L. 351-2, à l'exception de ceux
+janvier 1995, en application du 5° de l'article L. 351-2, à l'exception de ceux
 mentionnés aux 2° et 3° de l'article R. 351-56, le coefficient K est déterminé
-pour chaque intervalle de ressources de 500F en appliquant la formule :
+pour chaque intervalle de ressources de 100 euros en appliquant la formule :
 
 K = 0,9 -( R /(CM X N))
 

@@ -1,7 +1,7 @@
 Article R351-61
 ----
 Le coefficient K, au plus égal à 0,95, est déterminé pour chaque intervalle de
-ressources de 500F en appliquant la formule :
+ressources de 100 euros en appliquant la formule :
 
 K = 0,95 - ((R -(r X N))/(CM X N))
 
