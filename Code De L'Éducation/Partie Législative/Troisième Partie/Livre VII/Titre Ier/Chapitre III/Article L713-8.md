@@ -1,10 +1,10 @@
 Article L713-8
 ----
-Les modalités de fonctionnement de la commission prévue aux articles L. 6142-9
-et L. 6124-11 du code de la santé publique sont fixées par les dispositions de
-l'article L. 6142-12, ci-après reproduites :
+Les modalités de fonctionnement de la commission prévue à l'article L. 6142-11
+du code de la santé publique sont fixées par les dispositions de l'article L.
+6142-12, ci-après reproduites :
 
-" Art. L. 6142-12. - Lorsque la commission prévue en application de l'article L.
+" Art.L. 6142-12.-Lorsque la commission prévue en application de l'article L.
 6142-11 se réunit pour régler des difficultés nées à l'occasion de la mise en
 oeuvre des dispositions relatives à l'enseignement de la biologie dispensé aux
 étudiants en pharmacie dans les laboratoires du centre hospitalier régional

@@ -1,14 +1,13 @@
 Article L463-1
 ----
-Les établissements de formation de l'Etat et les établissements agréés assurent
-la formation initiale et la formation continue des cadres rémunérés des
-activités physiques et sportives visés à l'article L. 363-1.
+Les fédérations sportives agréées assurent la formation et le perfectionnement
+de leurs cadres. Elles peuvent bénéficier, à cet effet, de l'aide des
+établissements publics de formation mentionnés à l'article L. 463-2.
 
-Les associations et fédérations sportives, les organisations syndicales
-représentatives, les collectivités territoriales et, le cas échéant, les
-entreprises participent à la mise en oeuvre de ces formations.
+Lorsqu'ils concernent des fonctions exercées contre rémunération, les diplômes
+qu'elles délivrent répondent aux conditions prévues par les articles L. 363-1 et
+L. 363-2.
 
-Les fédérations sportives assurent la formation et le perfectionnement des
-cadres fédéraux. Elles peuvent bénéficier, à cet effet, de l'aide des
-établissements de formation visés au premier alinéa du présent article, des
-services déconcentrés de l'Etat et des collectivités territoriales.
+Les diplômes concernant l'exercice d'une activité à titre bénévole, dans le
+cadre de structures ne poursuivant pas de buts lucratifs, peuvent être obtenus
+soit à l'issue d'une formation, soit par validation des expériences acquises.

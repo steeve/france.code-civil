@@ -1,6 +1,13 @@
 Article L624-2
 ----
-Dans les établissements relevant du ministre chargé de l'enseignement supérieur
-et dans les établissements spécialisés, les étudiants handicapés bénéficient de
-l'enseignement de l'éducation physique et sportive en fonction de leurs besoins
-particuliers.
+L'organisation et les programmes de l'éducation physique et sportive dans les
+établissements d'enseignement supérieur tiennent compte des spécificités liées
+aux différentes formes de handicap.
+
+Les éducateurs et les enseignants facilitent par une pédagogie adaptée l'accès
+des jeunes handicapés à la pratique régulière d'activités physiques et
+sportives.
+
+Une formation spécifique aux différentes formes de handicap est donnée aux
+enseignants et aux éducateurs sportifs, pendant leurs formations initiale et
+continue.

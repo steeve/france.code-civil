@@ -19,12 +19,11 @@ de l'enseignant-chercheur tient compte de l'ensemble de ses fonctions. Elle est
 transmise au ministre chargé de l'enseignement supérieur avec l'avis du
 président ou du directeur de l'établissement.
 
-Par dérogation au statut général des fonctionnaires de l'Etat, des personnalités
-ne possédant pas la qualité de fonctionnaire peuvent être recrutées et
-titularisées à tout niveau de la hiérarchie des corps d'enseignants-chercheurs
-dans des conditions précisées par un décret en Conseil d'Etat qui fixe notamment
-les conditions dans lesquelles les qualifications des intéressés sont appréciées
-par l'instance nationale.
+Par dérogation au statut général des fonctionnaires de l'Etat, des candidats
+peuvent être recrutés et titularisés à tout niveau de la hiérarchie des corps
+d'enseignants-chercheurs dans des conditions précisées par un décret en Conseil
+d'Etat qui fixe notamment les conditions dans lesquelles les qualifications des
+intéressés sont appréciées par l'instance nationale.
 
 De même, des personnalités n'ayant pas la nationalité française peuvent, dans
 les conditions fixées par un décret en Conseil d'Etat, être nommées dans un

@@ -2,7 +2,7 @@ Article L911-5
 ----
 Sont incapables de diriger un établissement d'enseignement du premier et du
 second degré ou un établissement d'enseignement technique, qu'ils soient publics
-ou privés, ou d'y être employés, à quel titre que ce soit :
+ou privés, ou d'y être employés, à quelque titre que ce soit :
 
 1° Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à
 la probité et aux moeurs ;
@@ -18,4 +18,4 @@ degré public ou privé, ou d'y être employée, toute personne qui, ayant appar
 à l'enseignement public, a été révoquée.
 
 Les dispositions du présent article ne sont pas applicables aux membres de
-l'enseignement du second degré public.
+l'enseignement général du second degré public.

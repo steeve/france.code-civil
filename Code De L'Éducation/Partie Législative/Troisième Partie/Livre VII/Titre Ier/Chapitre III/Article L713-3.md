@@ -10,7 +10,7 @@ Les unités de formation et de recherche sont administrées par un conseil élu 
 dirigées par un directeur élu par ce conseil.
 
 Le conseil, dont l'effectif ne peut dépasser quarante membres, comprend des
-personnalités extérieures dans une proportion de 20 à 25 %. Dans tous les cas,
+personnalités extérieures dans une proportion de 20 à 50 %. Dans tous les cas,
 les personnels enseignants doivent être en nombre au moins égal à celui des
 autres personnels et des étudiants.
 
