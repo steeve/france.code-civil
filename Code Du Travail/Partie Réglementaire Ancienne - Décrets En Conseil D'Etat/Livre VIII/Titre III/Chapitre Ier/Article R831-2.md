@@ -4,8 +4,8 @@ La durée hebdomadaire du travail ne peut être inférieure à seize heures par
 semaine. Elle inclut le cas échéant le temps passé en formation.
 
 Si le contrat de travail est établi sur une base mensuelle ou annuelle, dans les
-conditions prévues aux articles L. 212-4-2 et L. 212-4-3, la durée du travail
-est au moins égale à l'application sur le mois ou sur l'année de la durée
+conditions prévues aux articles L. 212-4-2 et suivants, la durée du travail est
+au moins égale à l'application sur le mois ou sur l'année de la durée
 hebdomadaire fixée au précédent alinéa.
 
 Toutefois, pour les personnes handicapées contraintes à des horaires limités et
