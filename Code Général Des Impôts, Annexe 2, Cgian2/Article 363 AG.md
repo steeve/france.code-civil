@@ -1,21 +1,21 @@
 Article 363 AG
 ----
-Le taux maximal est fixé à :
+Le montant maximal est fixé par tonne à :
 
-10,55 F par tonne pour le blé tendre ;
+a. 6,10 F pour le blé tendre ;
 
-10,35 F par tonne pour l'orge ;
+b. 6,10 F pour l'orge ;
 
-10,10 F par tonne pour le maïs ;
+c. 6,10 F pour le maïs ;
 
-10,80 F par tonne pour le blé dur ;
+d. 6,05 F pour le blé dur ;
 
-10,10 F par tonne pour le seigle ;
+e. 5,65 F pour le seigle ;
 
-8,10 F par tonne pour le sorgho ;
+f. 3,85 F pour le sorgho ;
 
-8,80 F par tonne pour l'avoine ;
+g. 3,85 F pour l'avoine ;
 
-5,75 F par tonne pour le riz ;
+h. 5,75 F pour le riz ;
 
-10,10 F par tonne pour le triticale.
+i. 6,65 F pour le triticale.
