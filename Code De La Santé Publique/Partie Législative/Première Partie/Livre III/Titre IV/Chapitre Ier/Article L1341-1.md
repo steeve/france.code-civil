@@ -14,3 +14,8 @@ fournir leur composition aux centres antipoison ou à l'organisme agréé mentio
 Ils sont libérés de cette obligation lorsque les informations concernant ces
 préparations ont déjà été données à l'organisme agréé mentionné à l'article L.
 1342-1.
+
+Les fabricants, les importateurs ou les vendeurs de toute substance et
+préparation doivent, en outre, déclarer sans délai au centre antipoison désigné
+par arrêté du ministre chargé de la santé les cas d'intoxication humaine induits
+par cette substance ou préparation dont ils ont connaissance.

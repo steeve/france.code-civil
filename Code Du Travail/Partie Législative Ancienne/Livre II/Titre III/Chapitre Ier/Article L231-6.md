@@ -11,12 +11,12 @@ que présente leur emploi.
 Les récipients, sacs ou enveloppes contenant les substances ou préparations
 dangereuses doivent être solides et étanches.
 
-Des arrêtés conjoints des ministres chargés du travail, de l'industrie et de
-l'agriculture, pris après avis du conseil supérieur de la prévention des risques
-professionnels déterminent la nature des substances ou préparations prévues à
-l'alinéa précédent et la proportion au-dessus de laquelle leur présence dans un
-produit complexe rend obligatoire l'apposition de l'étiquette ou de
-l'inscription prévue ci-dessus.
+Des arrêtés conjoints des ministres chargés du travail, de l'industrie, de
+l'environnement et de l'agriculture, pris après avis du conseil supérieur de la
+prévention des risques professionnels déterminent la nature des substances ou
+préparations prévues à l'alinéa précédent et la proportion au-dessus de laquelle
+leur présence dans un produit complexe rend obligatoire l'apposition de
+l'étiquette ou de l'inscription prévue ci-dessus.
 
 Ces arrêtés déterminent la couleur, les dimensions des étiquettes ou
 inscriptions, les indications qui doivent figurer sur celles-ci, ainsi que les

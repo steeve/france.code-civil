@@ -29,11 +29,16 @@ cellules ou gamètes issus du corps humain mentionnés aux articles L. 1235-1, L
 1244-8 et L. 1245-4 du code de la santé publique, aux sources artificielles et
 naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé
 publique et relevant des articles L. 1333-2 et L. 1333-4 du même code et aux
-déchets relevant de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination
-des déchets et à la récupération des matériaux et des textes pris pour son
-application. Les dispositions du présent article s'appliquent également aux
-objets de toute nature comportant des images ou des représentations d'un mineur
-à caractère pornographique visées par l'article 227-23 du code pénal.
+déchets définis au II de l'article L. 541-1 du code de l'environnement dont
+l'importation, l'exportation ou le transit sont régis soit par les articles L.
+541-40 à L. 541-42 du même code et les dispositions réglementaires prises pour
+leur application, soit par le règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993 concernant la surveillance et le contrôle des transferts de déchets
+à l'entrée et à la sortie de la Communauté européenne, ainsi que par les
+décisions des autorités communautaires prises en application de ce règlement.
+Les dispositions du présent article s'appliquent également aux objets de toute
+nature comportant des images ou des représentations d'un mineur à caractère
+pornographique visées par l'article 227-23 du code pénal.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les
 dispositions du présent article sont également applicables aux marchandises
