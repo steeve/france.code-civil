@@ -1,6 +1,9 @@
 Article 1472
 ----
-Le mari ne peut exercer ses reprises que sur les biens de la communauté.
+En cas d'insuffisance de la communauté, les prélèvements de chaque époux sont
+proportionnels au montant des récompenses qui lui sont dues.
 
-La femme, en cas d'insuffisance de la communauté, exerce ses reprises sur les
-biens personnels du mari.
+Toutefois, si l'insuffisance de la communauté est imputable à la faute de l'un
+des époux, l'autre conjoint peut exercer ses prélèvements avant lui sur
+l'ensemble des biens communs ; il peut les exercer subsidiairement sur les biens
+propres de l'époux responsable.

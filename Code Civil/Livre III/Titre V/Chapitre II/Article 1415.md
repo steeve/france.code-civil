@@ -1,4 +1,6 @@
 Article 1415
 ----
-Toutes autres dettes de la femme n'obligent que ses propres, en pleine
-propriété, et ses biens réservés.
+Chacun des époux ne peut engager que ses biens propres et ses revenus, par un
+cautionnement ou un emprunt, à moins que ceux-ci n'aient été contractés avec le
+consentement exprès de l'autre conjoint qui, dans ce cas, n'engage pas ses biens
+propres.

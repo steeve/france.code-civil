@@ -13,4 +13,4 @@ liquidation.
 
 L'action en liquidation se prescrit par trois ans à compter de la dissolution du
 régime matrimonial. Les actions ouvertes contre les tiers en vertu de l'article
-précédent se prescrivent par deux ans à compter de la clôture de la liquidation.
+1167 se prescrivent par deux ans à compter de la clôture de la liquidation.

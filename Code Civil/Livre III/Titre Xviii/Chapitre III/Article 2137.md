@@ -1,18 +1,16 @@
 Article 2137
 ----
-Hors les cas des deux articles précédents où l'hypothèque légale est inscrite en
-conséquence des conventions matrimoniales, elle ne peut être inscrite que par
-l'intervention de justice, ainsi qu'il est expliqué au présent article et à
-l'article suivant.
+Hors le cas de la participation aux acquêts, l'hypothèque légale ne peut être
+inscrite que par l'intervention de justice, ainsi qu'il est expliqué au présent
+article et à l'article suivant.
 
 Si l'un des époux introduit une demande en justice tendant à faire constater une
 créance contre son conjoint ou les héritiers de celui-ci, il peut, dès
 l'introduction de la demande, requérir une inscription provisoire de son
 hypothèque légale, en présentant l'original de l'assignation signifiée, ainsi
-qu'un certificat du greffier qui atteste que l'affaire a été portée au registre
-prévu à l'article 76 du code de procédure civile. Le même droit lui appartient
-en cas de demande reconventionnelle, sur présentation d'une copie des
-conclusions.
+qu'un certificat du greffier qui atteste que la juridiction est saisie de
+l'affaire. Le même droit lui appartient en cas de demande reconventionnelle, sur
+présentation d'une copie des conclusions.
 
 L'inscription est valable trois ans et renouvelable. Elle est soumise aux règles
 des chapitres IV et suivants du présent titre.

@@ -1,14 +1,14 @@
 Article 2139
 ----
-Quand l'hypothèque légale a été inscrite par application des articles 2135, 2136
-ou 2137, et sauf clause expresse du contrat de mariage l'interdisant, l'époux
+Quand l'hypothèque légale a été inscrite par application des articles 2136 ou
+2137, et sauf clause expresse du contrat de mariage l'interdisant, l'époux
 bénéficiaire de l'inscription peut consentir, au profit des créanciers de
 l'autre époux ou de ses propres créanciers, une cession de son rang ou une
 subrogation dans les droits résultant de son inscription.
 
 Il en est ainsi même en ce qui concerne l'hypothèque légale ou éventuellement
 l'hypothèque judiciaire, garantissant la pension alimentaire allouée ou
-susceptible d'être allouée à la femme, pour elle ou pour ses enfants.
+susceptible d'être allouée à un époux, pour lui ou pour ses enfants.
 
 Si l'époux bénéficiaire de l'inscription, en refusant de consentir une cession
 de rang ou subrogation, empêche l'autre époux de faire une constitution
