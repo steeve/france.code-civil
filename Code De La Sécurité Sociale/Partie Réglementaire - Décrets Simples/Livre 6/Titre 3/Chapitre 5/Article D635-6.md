@@ -10,7 +10,7 @@ le plus voisin.
 
 Elle est répartie en deux fractions semestrielles d'égal montant exigibles des
 assurés et payables par eux, aux mêmes dates et conditions que celles
-mentionnées aux articles D. 633-7 et D. 633-12.
+mentionnées aux articles D. 633-7, D. 633-7-1 et D. 633-12.
 
 En cas de versement d'une somme inférieure à celle représentée par le total des
 cotisations dues au titre des articles L. 633-9 et L. 633-10 et des cotisations
