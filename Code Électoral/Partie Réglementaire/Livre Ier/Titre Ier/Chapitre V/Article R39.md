@@ -13,7 +13,8 @@ départementale comprenant :
 
 - le trésorier-payeur général ou son représentant;
 
-- le directeur départemental des enquêtes économiques ou son représentant;
+le directeur départemental de la concurrence, de la consommation et de la
+répression des fraudes ou son représentant;
 
 - un représentant des organisations professionnelles des imprimeurs ou des
 afficheurs désigné par le préfet selon la nature des tarifs à établir.
@@ -25,9 +26,11 @@ En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des
 documents présentant les caractéristiques suivantes et excluant tous travaux de
 photogravure (clichés, simili ou trait) :
 
-- affiches de format 594 x 841 mm et affiches de format 297 x 420 mm : papier
-frictionné couleur, 64 grammes au mètre carré, afnor II/1, sans travaux de
-repiquage;
+- affiches de format 594 mm x 841 mm et affiches de format 297 mm x 420 mm ;
 
-- circulaires et bulletins de vote : papier blanc satiné, 56 grammes au mètre
-carré, afnor II/1.
+- circulaires et bulletins de vote sur papier blanc.
+
+Lorsqu'un candidat fait imprimer les affiches, circulaires et bulletins de vote
+dans un département autre que celui où il se présente, le remboursement des
+frais correspondants s'effectue dans la limite du tarif le moins élevé de ces
+deux départements.

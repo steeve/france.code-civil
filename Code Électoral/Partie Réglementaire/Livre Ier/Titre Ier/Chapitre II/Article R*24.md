@@ -5,7 +5,8 @@ Dans chaque commune les cartes électorales sont établies par le maire.
 Elles doivent obligatoirement comporter :
 
 - les mentions figurant sur la liste électorale en application des articles L.
-18 et L. 19;
+18 et L. 19 ainsi que le code postal du domicile, de la résidence ou de
+l'adresse de l'organisme d'accueil de l'électeur;
 
 - le numéro d'inscription de l'électeur sur la liste;
 

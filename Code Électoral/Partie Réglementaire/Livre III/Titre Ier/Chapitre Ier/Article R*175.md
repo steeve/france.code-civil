@@ -1,8 +1,5 @@
 Article R*175
 ----
-Il n'est pas exigé de nouveau cautionnement de la part des candidats se
-représentant au second tour de scrutin.
-
 Pour l'application des dispositions du chapitre IX du titre III du livre Ier
 (partie Réglementaire) il y a lieu de lire :
 

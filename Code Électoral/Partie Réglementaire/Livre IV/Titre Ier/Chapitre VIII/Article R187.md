@@ -12,6 +12,4 @@ l'ordre de présentation des candidats ;
 
 - les bulletins manuscrits ;
 
-- les circulaires utilisées comme bulletin ;
-
-- les bulletins qui ne sont pas imprimés en caractère noirs.
+- les circulaires utilisées comme bulletin.

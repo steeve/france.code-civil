@@ -1,6 +1,6 @@
 Article R*169
 ----
-Dans les départements qui élisent au moins cinq sénateurs, il est fait
+Dans les départements qui élisent au moins trois sénateurs, il est fait
 application de la représentation proportionnelle avec répartition complémentaire
 suivant la règle de la plus forte moyenne, conformément aux dispositions
 ci-après.
