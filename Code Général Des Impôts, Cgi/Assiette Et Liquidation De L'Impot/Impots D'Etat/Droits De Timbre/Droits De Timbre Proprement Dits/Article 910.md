@@ -2,7 +2,7 @@ Article 910
 ----
 I. Sous réserve de ce qui est dit au II, les lettres de change, même tirées par
 seconde, troisième et duplicata, les billets à ordre ou au porteur, les warrants
-et tous autres effets négociables ou de commerce sont soumis à un droit de 9 F
+et tous autres effets négociables ou de commerce sont soumis à un droit de 10 F
 [*montant*].
 
 Ce droit est applicable aux effets créés en France et payables hors de France
