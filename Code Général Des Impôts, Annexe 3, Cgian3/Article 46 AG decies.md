@@ -4,20 +4,20 @@ I. Pour l'application du 3° du 3 de l'article 199 undecies du code général de
 impôts, les montants annuels du loyer et des ressources du locataire ne peuvent
 excéder les limites suivantes :
 
-1. Pour les baux conclus en ((1999)), les plafonds annuels de loyer, charges non
-comprises, sont fixés par mètre carré de surface habitable à (M):
+1. Pour les baux conclus en 2000, les plafonds annuels de loyer, charges non
+comprises, sont fixés par mètre carré de surface habitable à :
 
-1° ((756 F)) dans les départements d'outre-mer et dans la collectivité
-territoriale de Mayotte. Ce plafond est révisé chaque année le 1er janvier dans
-la même proportion que la variation la plus élevée de la moyenne annuelle des
-indices des prix à la consommation hors tabac de chacun des quatre départements
-d'outre-mer (M);
+1° 764 F dans les départements d'outre-mer et dans la collectivité territoriale
+de Mayotte. Ce plafond est révisé chaque année le 1er janvier dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices
+des prix à la consommation hors tabac de chacun des quatre départements
+d'outre-mer ;
 
-2° ((1 000 F)) dans les territoires d'outre-mer et dans la collectivité
-territoriale de Saint-Pierre-et-Miquelon. Ce plafond est révisé chaque année le
-1er janvier dans la même proportion que la variation la plus élevée de la
-moyenne annuelle des indices des prix à la consommation de la Polynésie
-française et de la Nouvelle-Calédonie (M).
+2° 1 009 F dans les territoires d'outre-mer et dans la collectivité territoriale
+de Saint-Pierre-et-Miquelon. Ce plafond est révisé chaque année le 1er janvier
+dans la même proportion que la variation la plus élevée de la moyenne annuelle
+des indices des prix à la consommation de la Polynésie française et de la
+Nouvelle-Calédonie.
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation
 annuelle publiée par l'Institut national de la statistique et des études
@@ -29,23 +29,21 @@ professionnels qui figurent sur son avis d'imposition établi au titre des
 revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de
 l'année antérieure.
 
-Pour les baux conclus en ((1999)), les plafonds annuels de ressources sont fixés
-à (M):
+Pour les baux conclus en 2000, les plafonds annuels de ressources sont fixés à :
 
-1° ((136 430 F)) pour une personne seule et ((272 860 F)) pour un couple marié
-soumis à imposition commune dans les départements d'outre-mer et la collectivité
-territoriale de Mayotte. Ces sommes sont majorées de ((15 760 F)) par personne à
+1° 137 818 F pour une personne seule et 275 636 F pour un couple marié soumis à
+imposition commune dans les départements d'outre-mer et la collectivité
+territoriale de Mayotte. Ces sommes sont majorées de 15 921 F par personne à
 charge au sens des articles 196 à 196 B du code général des impôts. Cette
-majoration est fixée à ((21 010 F)) par enfant à partir du troisième. Ces
-montants sont relevés chaque année selon les modalités définies au 1 (M).
+majoration est fixée à 21 228 F par enfant à partir du troisième. Ces montants
+sont relevés chaque année selon les modalités définies au 1.
 
-2° ((136 680 F)) pour une personne seule et ((273 350 F)) pour un couple marié
-soumis à imposition commune dans les territoires d'outre-mer et la collectivité
-territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de ((15 790
-F)) par personne à charge au sens des articles 196 à 196 B du code général des
-impôts. Cette majoration est fixée à ((21 050 F)) par enfant à partir du
-troisième. Ces montants sont relevés chaque année selon les modalités définies
-au 1 (M).
+2° 137 786 F pour une personne seule et 275 572 F pour un couple marié soumis à
+imposition commune dans les territoires d'outre-mer et la collectivité
+territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 15 918 F
+par personne à charge au sens des articles 196 à 196 B du code général des
+impôts. Cette majoration est fixée à 21 224 F par enfant à partir du troisième.
+Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du
 code général des impôts, les conditions prévues au 1 et au 2 s'apprécient en
@@ -93,5 +91,3 @@ attestant que la location et, le cas échéant, la sous-location remplissent les
 conditions prévues par le présent article. Le souscripteur en joint un
 exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bail
 est signé.
-
-(M) Modification.

@@ -12,7 +12,7 @@ général des impôts.
 L'option, ouverte dès la date de décision par l'autorité compétente de
 réalisation de l'opération d'aménagement de zone ou dès la date de l'arrêté de
 lotissement, est exercée au plus tard lors de la première des cessions
-mentionnées à l'alinéa précédent. Elle vaut pour toute la durée de l'opération.
+mentionnées au premier alinéa. Elle vaut pour toute la durée de l'opération.
 
 Les collectivités territoriales ou les groupements de collectivités
 territoriales qui réalisent plusieurs opérations de lotissement ou d'aménagement

@@ -23,8 +23,8 @@ peut se dispenser du paiement de nouveaux versements en remettant au comptable
 du Trésor chargé du recouvrement des impôts directs, avant la date d'exigibilité
 du prochain versement anticipé, une déclaration datée et signée.
 
-Si la déclaration mentionnée à l'alinéa précédent est reconnue inexacte à la
-suite de la liquidation de la contribution, la majoration prévue au I de
+Si la déclaration mentionnée au quatrième alinéa est reconnue inexacte à la
+suite de la liquidation de la contribution, la majoration prévue au 1 de
 l'article 1762 est appliquée aux sommes non réglées.
 
 II. - Les modalités d'application du présent article sont fixées par décret.

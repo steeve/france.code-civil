@@ -18,39 +18,7 @@ de deux ans. Toutefois, en cas de cessation d'activité, l'imposition de la
 plus-value dont il s'agit est immédiatement établie.
 
 2. L'excédent éventuel des moins-values à long terme ne peut être imputé que sur
-les plus-values à long terme réalisées au cours des dix exercices suivants
-[*délai*].
-
-Toutefois, en cas de liquidation d'entreprise au cours d'un exercice ouvert à
-compter du 1er janvier 1986 et jusqu'au 31 décembre 1987 , cet excédent peut
-être déduit du bénéfice de l'exercice de liquidation :
-
-A raison de quinze quarante-cinquièmes de son montant pour les moins-values
-subies au cours d'un exercice clos avant le 1er janvier 1984.
-
-A raison de seize quarante-cinquièmes de son montant pour les moins-values
-subies au cours d'un exercice clos à compter du 1er janvier 1984.
-
-En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du
-1er janvier 1988, l'excédent des moins-values à long terme sur les plus-values à
-long terme peut être déduit du bénéfice de l'exercice de liquidation à raison
-des quinze quarante-deuxièmes ou des seize quarante-deuxièmes de son montant
-selon que les moins-values ont été subies au cours d'un exercice clos avant le
-1er janvier 1984 ou à compter de cette date.
-
-En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du
-1er janvier 1989, l'excédent des moins-values à long terme sur les plus-values à
-long terme peut être déduit du bénéfice de l'exercice de liquidation à raison
-des quinze trente-neuvièmes ou des seize trente-neuvièmes de son montant selon
-que les moins-values ont été subies au cours d'un exercice clos avant le 1er
-janvier 1984 ou à compter de cette date.
-
-En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du
-1er janvier 1990, l'excédent des moins-values à long terme sur les plus-values à
-long terme peut être déduit du bénéfice de l'exercice de liquidation à raison
-des quinze trente-septièmes ou des seize trente-septièmes de son montant selon
-que les moins-values ont été subies au cours d'un exercice clos avant le 1er
-janvier 1984 ou à compter de cette date.
+les plus-values à long terme réalisées au cours des dix exercices suivants.
 
 En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du
 1er janvier 1991, l'excédent des moins-values à long terme sur les plus-values à
@@ -59,4 +27,4 @@ des quinze trente-quatrièmes ou des seize trente-quatrièmes de son montant sel
 que les moins-values ont été subies au cours d'un exercice clos avant le 1er
 janvier 1984 ou à compter de cette date.
 
-II. (Abrogé pour les exercices clos à compter du 1er janvier 1991)
+II. Abrogé.

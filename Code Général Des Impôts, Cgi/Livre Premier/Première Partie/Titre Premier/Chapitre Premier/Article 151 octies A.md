@@ -58,4 +58,4 @@ l'engagement d'acquitter l'impôt sur les plus-values à la date où l'un des
 viendrait à se réaliser à nouveau.
 
 IV. Les personnes physiques mentionnées au I sont soumises aux dispositions
-prévues au dernier alinéa du II de l'article 151 octies.
+prévues au quatrième alinéa du II de l'article 151 octies.

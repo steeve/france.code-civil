@@ -17,8 +17,8 @@ intéressées, cette majorité devant comprendre le conseil municipal de la comm
 dont la population est supérieure à la moitié de la population totale concernée
 ou, à défaut, de la commune dont la population est la plus importante.
 
-Toutefois, en cas de délibération contraire prise dans les conditions prévues à
-l'alinéa précédent, le conseil d'une communauté urbaine existant à la date de
+Toutefois, en cas de délibération contraire prise dans les conditions prévues au
+deuxième alinéa, le conseil d'une communauté urbaine existant à la date de
 publication de la loi n° 99-586 du 12 juillet 1999 précitée peut, à la majorité
 simple de ses membres, décider de percevoir la taxe professionnelle selon les
 dispositions de l'article 1609 nonies C. Cette décision doit être prise avant le

@@ -98,13 +98,13 @@ réduction des écarts de taux est déjà en cours, l'écart est réduit chaque 
 par parts égales en proportion du nombre d'années restant à courir conformément
 à la durée fixée par la délibération.
 
-Lorsqu'un établissement public de coopération intercommunale faisant application
-du régime prévu au II de l'article 1609 quinquies C opte pour le régime prévu au
-présent article ou devient soumis à ce régime, le taux constaté dans une commune
-l'année précédente est le taux appliqué en dehors des zones d'activités
-économiques existant sur son territoire antérieurement au changement de régime ;
-le taux constaté l'année précédente dans chaque zone ou fraction de zone si
-celle-çi est implantée sur le territoire de plusieurs communes est alors
+c. Lorsqu'un établissement public de coopération intercommunale faisant
+application du régime prévu au II de l'article 1609 quinquies C opte pour le
+régime prévu au présent article ou devient soumis à ce régime, le taux constaté
+dans une commune l'année précédente est le taux appliqué en dehors des zones
+d'activités économiques existant sur son territoire antérieurement au changement
+de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de
+zone si celle-ci est implantée sur le territoire de plusieurs communes est alors
 assimilé à celui d'une commune membre supplémentaire pour l'application des
 dispositions du présent III.
 
@@ -189,8 +189,8 @@ due concurrence de la diminution du montant de la contribution demandée aux
 communes par le syndicat.
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle, y
-compris la compensation prévue au I du D de l'article 44 de la loi de finances
-pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les
+compris la compensation prévue au I du D de l'article 44 modifié de la loi de
+finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les
 compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
 1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de
 l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
@@ -285,10 +285,10 @@ fixés par le conseil communautaire, statuant à la majorité simple.
 
 Ces critères sont déterminés notamment en fonction :
 
-- de l'écart du revenu par habitant de la commune au revenu moyen par habitant
+a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant
 de l'établissement public de coopération intercommunale ;
 
-- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du
+b. de l'insuffisance de potentiel fiscal par habitant de la commune au regard du
 potentiel fiscal communal moyen par habitant sur le territoire de
 l'établissement public de coopération intercommunale.
 
