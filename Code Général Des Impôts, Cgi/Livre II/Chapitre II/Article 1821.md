@@ -1,5 +1,5 @@
 Article 1821
 ----
-Les infractions aux dispositions des articles 434, deuxième alinéa, 437, 445-a,
-dernier alinéa, et 494 bis sont punies des peines prévues à la loi du 1er août
-1905 sur les fraudes et falsifications en matière de produits ou de services.
+Les infractions aux dispositions du deuxième alinéa de l'article 434, de
+l'article 437, du dernier alinéa de l'article 445 et de l'article 494 bis sont
+punies des peines prévues au code de la consommation.

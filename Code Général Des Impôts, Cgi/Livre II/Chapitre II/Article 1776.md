@@ -10,7 +10,6 @@ domicile et du ou des établissements professionnels du condamné. Les frais de
 ces publications et de cet affichage sont intégralement à la charge de ce
 dernier.
 
-Les dispositions des six derniers alinéas de l'article 7 modifié de la loi du
-1er août 1905 sur les fraudes et falsifications en matière de produits ou de
-services sont applicables dans la mesure où elles ne sont pas contraires à
+Les dispositions des six derniers alinéas de l'article L216-3 du code de la
+consommation sont applicables dans la mesure où elles ne sont pas contraires à
 celles du présent article.

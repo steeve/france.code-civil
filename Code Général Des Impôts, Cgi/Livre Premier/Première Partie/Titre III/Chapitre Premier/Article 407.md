@@ -1,11 +1,12 @@
 Article 407
 ----
-Sans préjudice des obligations imposées par la loi du 6 mai 1919, par le décret
-du 30 juillet 1935 ou les textes subséquents relatifs à la protection des
-appellations d'origine, chaque année, après la récolte de raisins, tout
-propriétaire, fermier, métayer produisant du vin doit déposer à la mairie de la
-commune du siège de son exploitation la déclaration prévue par le règlement n°
-3929-87 de la Commission des communautés européennes du 17 décembre 1987.
+Sans préjudice des obligations imposées par les articles L115-1 à L115-20 du
+code de la consommation, par le décret du 30 juillet 1935 ou les textes
+subséquents relatifs à la protection des appellations d'origine, chaque année,
+après la récolte de raisins, tout propriétaire, fermier, métayer produisant du
+vin doit déposer à la mairie de la commune du siège de son exploitation la
+déclaration prévue par le règlement n° 3929-87 de la Commission des communautés
+européennes du 17 décembre 1987.
 
 Dans chaque département, le délai dans lequel doivent être faites les
 déclarations est fixé annuellement par le préfet après avis du conseil général,
