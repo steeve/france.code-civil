@@ -1,11 +1,13 @@
 Article R*234-37
 ----
-Les conditions d'adhésion à l'association agréée de pêcheurs professionnels en
-eau douce sont les suivantes :
+L'adhésion à l'association agréée de pêcheurs professionnels en eau douce est
+subordonnée à l'engagement par le demandeur :
 
-a) Consacrer au moins la moitié de son temps de travail à la pêche
-professionnelle aux engins et aux filets en eau douce ou en retirer au moins la
-moitié de ses revenus professionnels ;
+a) De participer à la gestion piscicole et de tenir un carnet de pêche ;
 
-b) Etre affilié au régime de protection sociale des personnes non salariées des
-professions agricoles en qualité de pêcheur professionnel en eau douce.
+b) De consacrer au moins 600 heures par an à la pêche professionnelle en eau
+douce.
+
+Les compagnons d'un pêcheur professionnel, au sens du 4° du deuxième alinéa de
+l'article R. 235-9 du présent code, doivent adhérer à l'association sous les
+mêmes conditions.
