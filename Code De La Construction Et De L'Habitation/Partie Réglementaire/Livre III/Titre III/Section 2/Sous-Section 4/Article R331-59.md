@@ -14,3 +14,7 @@ La demande de transfert ou de maintien du préfinancement doit être présentée
 dans un délai maximum de trois ans suivant la déclaration d'achèvement des
 travaux. Ce délai peut être prolongé par décision conjointe des ministres
 chargés de la construction et de l'habitation et des finances.
+
+Le préfinancement obtenu en application du paragraphe 2 du premier alinéa de
+l'article R. 331-57 est remboursé au fur et à mesure de la vente de chacune des
+parcelles.
