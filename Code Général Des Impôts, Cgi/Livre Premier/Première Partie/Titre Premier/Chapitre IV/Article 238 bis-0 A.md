@@ -35,7 +35,7 @@ l'offre ne peut être acceptée que pour une valeur égale au prix déterminé l
 de la vente.
 
 4. La déduction s'effectue au cours de la période prévue au 1, par fractions
-égales, dans la limite mentionnée au deuxième alinéa du 1 de l'article 238 bis.
+égales, dans la limite mentionnée au 2 de l'article 238 bis.
 
 5. L'entreprise inscrit à un compte de provision spéciale les sommes
 correspondant aux déductions opérées en application du 4.
