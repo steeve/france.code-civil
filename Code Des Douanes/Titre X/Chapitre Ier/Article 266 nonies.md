@@ -57,9 +57,9 @@ produits adoucissants et assouplissants pour le linge.
 
 - dont la teneur en phosphates est supérieur à 30 % du poids, 570.
 
-Grains minéraux naturels.
+Matériaux d'extraction.
 
-Grains minéraux naturels, 0,60.
+Matériaux d'extraction, 0,60.
 
 Substances classées dangereuses qui entrent dans la composition des produits
 antiparasitaires à usage agricole et des produits assimilés.
