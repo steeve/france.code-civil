@@ -1,9 +1,9 @@
 Article L147
 ----
 Est déserteur à l'expiration des délais de grâce prévus aux articles 398 à 413
-du code de justice militaire et passible des peines que ces articles édictent
+du code de justice militaire et passible des peines que ces articles édictent,
 ainsi que du séquestre ou de la confiscation des biens dans les conditions
-prévues au chapitre II du titre V du livre II dudit code :
+prévues au chapitre II du titre VI du livre II dudit code :
 
 a) Tout individu qui, déjà incorporé au titre militaire, reçoit une affectation
 de défense et ne rejoint pas la destination qui lui est donnée à ce titre ;

@@ -8,18 +8,18 @@ procès-verbal d'un officier ou d'un agent de police judiciaire.
 L'infraction doit être immédiatement signalée à la brigade de gendarmerie ou à
 l'autorité de police territorialement compétente par :
 
-a) Le commandant de la formation si l'intéressé appartient à un corps de défense
+a) le commandant de la formation si l'intéressé appartient à un corps de défense
 ;
 
-b) Le directeur de l'administration ou le chef d'établissement si l'intéressé
+b) le directeur de l'administration ou le chef d'établissement si l'intéressé
 travaille dans une administration ou un établissement de l'Etat ou une
 collectivité publique ;
 
-c) Le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans
+c) le chef de l'établissement ou de l'entreprise si l'intéressé travaille dans
 un établissement ou une entreprise autre que ceux visés au paragraphe b
 ci-dessus ;
 
-d) L'autorité administrative de tutelle si l'intéressé travaille isolément.
+d) l'autorité administrative de tutelle si l'intéressé travaille isolément.
 
 Le ministre chargé des armées est tenu informé par chaque ministre responsable
 des infractions commises par les personnes servant sous statut de défense ainsi

@@ -10,7 +10,7 @@ autorisation du poste où il doit accomplir sa mission ;
 b) Tout individu affecté au service de l'aide technique ou au service de la
 coopération, dont la mission, le congé ou la permission est expiré et qui, dans
 les quinze jours suivant celui fixé pour son arrivée ou son retour, ne s'est pas
-présenté à son poste.
+présenté à son poste ;
 
 c) Tout individu affecté au service de l'aide technique ou au service de la
 coopération qui, recevant un ordre de mutation dans le service, ne rejoint pas

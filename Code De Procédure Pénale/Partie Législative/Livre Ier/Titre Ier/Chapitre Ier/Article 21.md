@@ -5,6 +5,8 @@ Sont agents de police judiciaire adjoints :
 1° Les fonctionnaires des services actifs de police nationale ne remplissant pas
 les conditions prévues par l'article 20 ;
 
+1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ;
+
 2° Les agents de police municipale.
 
 Ils ont pour mission :

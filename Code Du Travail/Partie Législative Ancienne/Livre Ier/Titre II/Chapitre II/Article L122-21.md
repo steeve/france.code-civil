@@ -1,9 +1,12 @@
 Article L122-21
 ----
-En matière de contrat de travail [*antérieurement au décret 74-808:
+Aucun employeur ne peut résilier le contrat de travail d'un salarié ou d'un
+apprenti au motif que lui-même, le salarié ou l'apprenti se trouve astreint aux
+obligations du service national, ou se trouve appelé au service national en
+exécution d'un engagement pour la durée de la guerre, ou rappelé au service
+national à un titre quelconque.
 
-louage de service*] si un employeur, un salarié ou un apprenti se trouve
-astreint aux obligations imposées par le service préparatoire ou se trouve
-appelé au service national en exécution d'un engagement pour la durée de la
-guerre, ou rappelé au service national à un titre quelconque, le contrat de
-travail ou d'apprentissage ne peut être rompu de ce fait [*interdiction*].
+Toutefois, l'employeur peut résilier le contrat s'il justifie d'une faute grave
+de l'intéressé, non liée aux obligations de l'alinéa précédent, ou s'il se
+trouve dans l'impossibilité de maintenir ledit contrat pour un motif étranger
+auxdites obligations.

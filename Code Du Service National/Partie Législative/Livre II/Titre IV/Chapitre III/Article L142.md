@@ -7,7 +7,7 @@ a) S'il s'agit d'un individu servant sous statut de défense affecté à une
 administration rattachée à l'une des trois armées ou à un établissement
 travaillant au profit de l'une d'entre elles, par l'autorité militaire de cette
 armée exerçant les pouvoirs judiciaires sur le territoire où se trouve
-l'administration ou l'établissement ;
+l'administration ou l'établissement.
 
 b) Dans les autres cas, par l'autorité militaire de l'armée de terre exerçant
 les pouvoirs judiciaires sur le lieu de l'affectation.

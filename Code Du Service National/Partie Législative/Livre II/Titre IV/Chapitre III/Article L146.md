@@ -1,8 +1,8 @@
 Article L146
 ----
-Est insoumis et passible de peines prévues à l'article 397 du code de justice
+Est insoumis et passible des peines prévues à l'article 397 du code de justice
 militaire ainsi que du séquestre ou de la confiscation des biens dans les
-conditions prévues au chapitre II du titre V du livre II dudit code, tout
+conditions prévues au chapitre II du titre VI du livre II dudit code, tout
 individu titulaire d'une affectation individuelle ou dûment avisé d'une
 affectation collective de défense le concernant qui, appelé au titre de
 l'article L. 94, ne se présente pas, hors le cas de force majeure, à la
