@@ -1,11 +1,6 @@
 Article R950-32
 ----
-L'engagement de développement de la formation professionnelle peut être révisé
-annuellement [*périodicité*]. Il fait l'objet d'un réexamen d'ensemble par les
-parties au moins tous les cinq ans.
-
-Dans le cas où un engagement conclu par une organisation professionnelle ou
-interprofessionnelle donne lieu à un avenant, celui-ci est notifié aux
-employeurs adhérents à l'engagement, qui disposent d'un délai de deux mois à
-compter de cette notification pour faire connaître à l'organisation leur
-décision de se retirer de l'engagement.
+En cas de méconnaissance partielle ou totale de l'engagement de développement de
+la formation par l'employeur, celui-ci n'est réputé s'acquitter de la fraction
+de la participation instituée à l'article L. 951-1 qu'au prorata des actions
+exécutées.

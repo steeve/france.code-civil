@@ -14,7 +14,7 @@ calcul de la participation pour leur montant brut, avant déduction de la
 cotisation ouvrière de sécurité sociale et des retenues pour la retraite.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de
-professions qui bénéficient, en vertu de l'alinéa 3 du 3ème de l'article 83 du
+professions qui bénéficient, en vertu de l'alinéa 3 du 3e de l'article 83 du
 code général des impôts, d'une déduction supplémentaire pour frais
 professionnels, le montant de cette déduction supplémentaire peut, pour la
 détermination de la base de la participation, être défalqué du montant brut des
@@ -26,5 +26,5 @@ compris les indemnités versées à titre de frais d'emploi, de service, de rout
 et autres allocations similaires.
 
 3. L'estimation des rémunérations allouées sous la forme d'avantages en nature
-est faite conformément aux dispositions de l'article 82 (2ème alinéa) du code
+est faite conformément aux dispositions de l'article 82 (2e alinéa) du code
 général des impôts.

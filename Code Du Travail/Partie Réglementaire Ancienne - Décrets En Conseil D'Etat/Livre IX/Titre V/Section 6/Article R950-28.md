@@ -1,9 +1,9 @@
 Article R950-28
 ----
-Sans préjudice des dispositions du deuxième alinéa de l'article L. 950-2-4,
-l'engagement de développement de la formation est, avant signature, soumis par
-l'autorité administrative signataire à l'avis du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi s'il a un champ
-d'application régional ou, si celui-ci excède le cadre régional, à l'avis de la
-commission permanente du conseil national de la formation professionnelle, de la
-promotion sociale et de l'emploi [*condition préalable*].
+L'engagement de développement de la formation est signé au nom de l'Etat par le
+préfet de région ou, si son champ d'application excède le cadre régional, par le
+ministre chargé de la formation professionnelle.
+
+Lorsque l'engagement est conclu par une organisation professionnelle ou
+interprofessionnelle, l'employeur qui désire s'y associer le fait par une
+adhésion écrite.

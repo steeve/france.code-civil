@@ -1,9 +1,12 @@
 Article R950-25
 ----
-Sans préjudice des dispositions du deuxième alinéa de l'article L. 950-2-4,
-l'engagement de développement de la formation est, avant signature, soumis par
-l'autorité administrative signataire à l'avis du comité régional de la formation
-professionnelle, de la promotion sociale et de l'emploi s'il a un champ
-d'application régional ou, si celui-ci excède le cadre régional, à l'avis de la
-commission permanente du conseil national de la formation professionnelle, de la
-promotion sociale et de l'emploi [*condition préalable*].
+Outre les clauses prévues au troisième alinéa de l'article L. 951-5,
+l'engagement de développement de la formation détermine, sous réserve des
+dispositions de l'article R. 950-33, la fraction de la participation instituée
+par l'article L. 951-1 dont les employeurs entrant dans le champ d'application
+de cet engagement sont réputés s'acquitter ; il fixe les règles suivant
+lesquelles il peut être modifié, dénoncé ou résilié ; il définit les conditions
+dans lesquelles les parties signataires procèdent à l'examen annuel d'exécution
+de leurs obligations ainsi que les modalités selon lesquelles y sont associées
+les institutions représentatives du personnel des entreprises contractantes
+[*mentions, contenu*].
