@@ -1,9 +1,9 @@
 Article R241-3
 ----
-Le service médical du travail d'entreprise ou d'établissement est administré par
-l'employeur sous la surveillance du comité d'entreprise ; à ce titre, le comité
-est saisi pour avis des questions relatives à l'organisation et au
-fonctionnement du service médical du travail.
+Le service de santé au travail d'entreprise ou d'établissement est administré
+par l'employeur sous la surveillance du comité d'entreprise ; à ce titre, le
+comité est saisi pour avis des questions relatives à l'organisation et au
+fonctionnement du service de santé au travail.
 
 Il présente ses observations sur le rapport annuel relatif à l'organisation, au
 fonctionnement, à la gestion financière du service médical et sur les rapports

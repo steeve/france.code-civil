@@ -1,6 +1,6 @@
 Article R241-5
 ----
-Le service médical du travail interétablissements d'entreprise est administré
+Le service de santé au travail interétablissements d'entreprise est administré
 par l'employeur sous la surveillance du comité central d'entreprise et des
 comités d'établissement concernés.
 
