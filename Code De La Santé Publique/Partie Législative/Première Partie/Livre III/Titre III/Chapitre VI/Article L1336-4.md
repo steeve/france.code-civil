@@ -1,12 +1,14 @@
 Article L1336-4
 ----
-L'agence emploie du personnel selon les dispositions prévues aux articles L.
-1323-6 à L. 1323-9.
+Est puni d'un emprisonnement de deux ans et d'une amende de 75000 euros le fait
+de détruire, de dégrader ou détériorer les locaux ayant fait l'objet de l'avis
+de la tenue de la réunion de la commission départementale compétente en matière
+d'environnement, de risques sanitaires et technologiques ainsi qu'il est dit à
+l'article L. 1331-27 dans le but de faire quitter les lieux aux occupants.
 
-Les membres des conseils et commissions siégeant auprès de l'agence ainsi que
-les personnes qui apportent occasionnellement leur concours à l'agence ou à ces
-instances sont soumis aux dispositions des cinquième à neuvième alinéas de
-l'article L. 1323-9. Comme les agents de l'agence, ils sont astreints au secret
-professionnel pour les informations dont ils ont pu avoir connaissance en raison
-de leurs fonctions, dans les conditions et sous les peines prévues aux articles
-226-13 et 226-14 du code pénal.
+Les infractions aux articles L. 1331-23, L. 1331-24, L. 1331-28, L. 1331-28-2 et
+L. 1336-3 sont punies des mêmes peines.
+
+Les personnes morales peuvent être déclarées pénalement responsables, dans les
+conditions prévues à l'article 121-2 du code pénal, des infractions définies au
+présent article.

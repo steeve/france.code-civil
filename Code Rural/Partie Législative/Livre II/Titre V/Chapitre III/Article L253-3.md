@@ -1,13 +1,6 @@
 Article L253-3
 ----
-Est interdite l'utilisation des produits visés à l'article L. 253-1 dans des
-conditions autres que celles prévues dans la décision d'autorisation et
-mentionnées sur l'étiquette, sauf dérogation accordée par l'autorité
-administrative dans des conditions fixées par décret en Conseil d'Etat.
-
-Dans l'intérêt de la santé publique et de l'environnement, l'autorité
-administrative peut :
-
-1° Interdire l'utilisation des produits visés à l'article L. 253-1 ;
-
-2° Limiter ou déterminer les conditions d'utilisation desdits produits.
+Dans l'intérêt de la santé publique ou de l'environnement, l'autorité
+administrative peut prendre toute mesure d'interdiction, de restriction ou de
+prescription particulière concernant la mise sur le marché, la délivrance,
+l'utilisation et la détention des produits mentionnés à l'article L. 253-1.

@@ -15,10 +15,6 @@ le délai de deux mois :
 
 2° Sur les mesures propres à y remédier.
 
-L'insalubrité d'un bâtiment doit être qualifiée d'irrémédiable lorsqu'il
-n'existe aucun moyen technique d'y mettre fin, ou lorsque les travaux
-nécessaires à sa résorption seraient plus coûteux que la reconstruction.
-
 Le directeur départemental de la santé et de l'action sociale établit le rapport
 prévu au premier alinéa soit de sa propre initiative, soit sur saisine du maire,
 du président de l'établissement public de coopération intercommunale compétent

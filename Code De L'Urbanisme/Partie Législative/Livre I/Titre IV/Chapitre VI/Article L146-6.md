@@ -26,4 +26,5 @@ suivant les modalités de la loi n° 83-630 du 12 juillet 1983 précitée.
 Le plan local d'urbanisme doit classer en espaces boisés, au titre de l'article
 L. 130-1 du présent code, les parcs et ensembles boisés existants les plus
 significatifs de la commune ou du groupement de communes, après consultation de
-la commission départementale des sites.
+la commission départementale compétente en matière de nature, de paysages et de
+sites.

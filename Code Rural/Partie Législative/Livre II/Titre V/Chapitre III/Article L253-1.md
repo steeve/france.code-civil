@@ -1,42 +1,46 @@
 Article L253-1
 ----
 I. - Sont interdites la mise sur le marché, l'utilisation et la détention par
-l'utilisateur final en vue de l'application des produits énumérés ci-après s'ils
-ne bénéficient pas d'une autorisation de mise sur le marché ou d'une
-autorisation de distribution pour expérimentation, sauf dérogation accordée par
-l'autorité administrative dans des conditions fixées par un décret en Conseil
-d'Etat :
+l'utilisateur final des produits phytopharmaceutiques s'ils ne bénéficient pas
+d'une autorisation de mise sur le marché ou d'une autorisation de distribution
+pour expérimentation délivrée dans les conditions prévues au présent chapitre.
 
-1° Les antiseptiques et les anticryptogamiques destinés à la protection des
-cultures et des matières végétales ;
+L'utilisation des produits mentionnés au premier alinéa dans des conditions
+autres que celles prévues dans la décision d'autorisation est interdite.
 
-2° Les herbicides ;
+II. - Au sens du présent chapitre, on entend par :
 
-3° Les produits de défense contre les vertébrés et invertébrés nuisibles aux
-cultures et aux produits agricoles ;
+1° Produits phytopharmaceutiques : les préparations contenant une ou plusieurs
+substances actives et les produits composés en tout ou partie d'organismes
+génétiquement modifiés présentés sous la forme dans laquelle ils sont livrés à
+l'utilisateur final, destinés à :
 
-4° Les adjuvants vendus seuls ou en mélange et destinés à améliorer les
-conditions d'utilisation des produits définis ci-dessus ;
+a) Protéger les végétaux ou produits végétaux contre tous les organismes
+nuisibles ou à prévenir leur action ;
 
-5° Les produits de défense des végétaux contre les attaques bactériennes et
-virales, ainsi que tout produit autre que les matières fertilisantes et les
-supports de culture, destinés à exercer une action sur les végétaux et sur le
-sol ;
+b) Exercer une action sur les processus vitaux des végétaux, dans la mesure où
+il ne s'agit pas de substances nutritives ;
 
-6° Les produits utilisés en agriculture et destinés à la lutte contre des
-organismes animaux ou végétaux vecteurs de maladies humaines ou animales, à
-l'exception des médicaments ;
+c) Assurer la conservation des produits végétaux, à l'exception des substances
+et produits faisant l'objet d'une réglementation communautaire particulière
+relative aux agents conservateurs ;
 
-7° (alinéa abrogé ; voir aussi le nota).
+d) Détruire les végétaux indésirables ;
 
-II. - Constitue une mise sur le marché toute cession à titre onéreux ou gratuit,
-à l'exception des cessions destinées au stockage et à l'expédition consécutive à
-l'extérieur du territoire métropolitain et des départements d'outre-mer.
-L'importation de pays tiers pour la mise en libre pratique constitue une mise
-sur le marché.
+e) Détruire des parties de végétaux, freiner ou prévenir une croissance
+indésirable des végétaux ;
 
-III. - Dans l'intérêt de la santé publique et de l'environnement, les ministres
-chargés de l'agriculture et de la consommation peuvent, par arrêté, prendre
-toute mesure d'interdiction, de restriction ou de prescription particulières
-concernant la mise sur le marché ou la délivrance des produits mentionnés au
-présent article.
+2° Mise sur le marché : toute remise à titre onéreux ou gratuit autre qu'une
+remise pour stockage et expédition consécutive en dehors du territoire de la
+Communauté européenne. L'importation d'un produit phytopharmaceutique constitue
+une mise sur le marché.
+
+III. - Un produit phytopharmaceutique dont la mise sur le marché au sens du 2°
+du II est soumise à autorisation et ne bénéficiant pas d'une telle autorisation
+sur le territoire français peut y être produit, stocké et peut circuler dans la
+mesure où ce produit est autorisé dans un autre Etat membre de la Communauté
+européenne.
+
+IV. - Les dispositions du présent chapitre s'appliquent également aux adjuvants
+vendus seuls ou en mélange et destinés à améliorer les conditions d'utilisation
+des produits phytopharmaceutiques.

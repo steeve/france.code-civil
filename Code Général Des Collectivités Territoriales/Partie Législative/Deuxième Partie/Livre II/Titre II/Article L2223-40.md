@@ -11,5 +11,6 @@ directement.
 Toute création ou extension des crématoriums ne peut avoir lieu sans
 l'autorisation préalable du représentant de l'Etat dans le département, accordée
 après enquête publique conduite selon les modalités prévues aux articles L.
-123-1 à L. 123-16 du code de l'environnement et avis du conseil départemental
-d'hygiène.
+123-1 à L. 123-16 du code de l'environnement et avis de la commission
+départementale compétente en matière d'environnement, de risques sanitaires et
+technologiques.

@@ -21,7 +21,7 @@ cancérogène, mutagène ou toxique pour la reproduction dans l'air de la zone d
 respiration d'un travailleur au cours d'une période de référence déterminée.
 
 Les dispositions de la présente sous-section, à l'exception des articles R.
-231-56-1, I, alinéa 3, R. 231-56-3, III, b, g, h, R. 231-56-4-1, R. 231-56-5,
+231-56-1, I, alinéa 4, R. 231-56-3, III, b, g, h, R. 231-56-4-1, R. 231-56-5,
 alinéas 4 et 5, à R. 231-56-12, s'appliquent aux travailleurs indépendants et
 aux employeurs, lorsqu'ils interviennent sur chantier, dans les conditions
 visées à l'article L. 235-18.

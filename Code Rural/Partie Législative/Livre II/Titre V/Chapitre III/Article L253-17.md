@@ -7,14 +7,15 @@ bénéficier d'une autorisation ou le fait de ne pas avoir fait une nouvelle
 demande d'autorisation en cas de changement dans la composition physique,
 chimique ou biologique du produit ;
 
-2° Le fait de mentionner dans la publicité des informations autres que celles
-prévues au premier alinéa de l'article L. 253-5 ;
+2° Le fait de mentionner dans toute publicité ou toute recommandation pour un
+produit visé à l'article L. 253-1 des conditions d'emploi ne figurant pas dans
+l'autorisation de mise sur le marché de ce produit ;
 
 3° Le fait de ne pas faire figurer les mentions d'étiquetage prévues à l'article
-L. 253-8 ;
+L. 253-6 ;
 
-4° Le fait de faire la publicité d'un produit défini à l'article L. 253-1 ne
-bénéficiant pas d'une autorisation.
+4° Le fait de faire la publicité ou de recommander l'utilisation d'un produit
+défini à l'article L. 253-1 ne bénéficiant pas d'une autorisation.
 
 II. - Est puni de six mois d'emprisonnement et de 30000 euros d'amende :
 

@@ -5,10 +5,10 @@ applicables. Les dispositions suivantes leur sont substituées.
 
 Dans les espaces proches du rivage :
 
-- l'extension de l'urbanisation n'est admise que dans les secteurs déjà occupés
+-l'extension de l'urbanisation n'est admise que dans les secteurs déjà occupés
 par une urbanisation diffuse ;
 
-- des opérations d'aménagement ne peuvent être autorisées que si elles ont été
+-des opérations d'aménagement ne peuvent être autorisées que si elles ont été
 préalablement prévues par le chapitre particulier du schéma régional valant
 schéma de mise en valeur de la mer.
 
@@ -20,11 +20,12 @@ accord.
 
 Cet accord est donné après que la commune a motivé sa demande, après avis de la
 région sur la compatibilité de l'urbanisation envisagée avec les orientations du
-schéma d'aménagement régional et après avis de la commission départementale des
-sites appréciant l'impact de l'urbanisation sur la nature. Les communes
-intéressées peuvent également faire connaître leur avis dans le délai de deux
-mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit
-respecter les dispositions de cet accord.
+schéma d'aménagement régional et après avis de la commission départementale
+compétente en matière de nature, de paysages et de sites appréciant l'impact de
+l'urbanisation sur la nature. Les communes intéressées peuvent également faire
+connaître leur avis dans le délai de deux mois suivant le dépôt de la demande
+d'accord. Le plan local d'urbanisme doit respecter les dispositions de cet
+accord.
 
 Il est déterminé une bande littorale comprise entre le rivage de la mer et la
 limite supérieure de la réserve domaniale dite des cinquante pas géométriques

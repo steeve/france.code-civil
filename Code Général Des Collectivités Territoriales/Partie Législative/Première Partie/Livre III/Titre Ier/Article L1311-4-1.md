@@ -27,4 +27,4 @@ clauses permettant de préserver les exigences du service public.
 Les opérations mentionnées aux alinéas précédents respectent, lorsqu'elles
 répondent aux besoins d'un établissement public de santé ou d'une structure de
 coopération sanitaire dotée de la personnalité morale publique, les dispositions
-des articles L. 6148-4 et L. 6148-6 du code de la santé publique.
+de l'article L. 6148-4 du code de la santé publique.

@@ -11,3 +11,8 @@ prévenir les risques découlant de l'interférence de ces travaux avec les autr
 activités des différents intervenants sur le chantier, ou de la succession de
 leurs activités lorsqu'une intervention laisse subsister après son achèvement un
 des risques particuliers énumérés dans la même liste.
+
+Les dossiers techniques regroupant les informations relatives à la recherche et
+à l'identification des matériaux contenant de l'amiante prévus aux articles R.
+1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique sont joints au
+plan général simplifié de coordination.

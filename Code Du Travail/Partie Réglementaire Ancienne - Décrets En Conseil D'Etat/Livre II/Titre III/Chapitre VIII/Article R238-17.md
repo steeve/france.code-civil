@@ -6,6 +6,12 @@ déroulement de sa mission, le maître d'ouvrage prévoit, dès les études
 d'avant-projet de l'ouvrage, la coopération entre les différents intervenants
 dans l'acte de construire et le coordonnateur.
 
+Le maître d'ouvrage est tenu de demander au propriétaire du bâtiment les
+dossiers techniques regroupant les informations relatives à la recherche et à
+l'identification des matériaux contenant de l'amiante prévus aux articles R.
+1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique et de communiquer
+ces documents au maître d'oeuvre et au coordonnateur.
+
 Il veille à ce que le coordonnateur soit associé pendant toutes les phases de
 l'opération à l'élaboration et à la réalisation du projet de l'ouvrage, en
 particulier en lui donnant accès à toutes les réunions organisées par le maître

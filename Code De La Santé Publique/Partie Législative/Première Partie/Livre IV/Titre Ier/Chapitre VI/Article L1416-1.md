@@ -1,10 +1,12 @@
 Article L1416-1
 ----
-Le conseil départemental d'hygiène est consulté sur toutes les questions
-intéressant la santé publique et la protection sanitaire de l'environnement. Il
-comprend des représentants de l'Etat, des collectivités territoriales, des
-usagers et des personnalités compétentes.
+La commission départementale compétente en matière d'environnement, de risques
+sanitaires et technologiques donne l'avis prévu par les articles L. 1331-23, L.
+1331-24, L. 1331-25, L. 1331-26, L. 1331-27, L. 1331-28 et L. 1336-4. Elle siège
+alors dans une formation comprenant des représentants de l'Etat, des
+collectivités territoriales, des usagers et des personnalités compétentes.
 
-Il est présidé par le représentant de l'Etat dans le département.
+Elle est présidée par le représentant de l'Etat dans le département.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Sa composition et ses règles de fonctionnement sont fixées par décret en Conseil
+d'Etat.

@@ -5,9 +5,8 @@ que ce soit, la charge effective et permanente de l'enfant.
 
 Lorsque la personne qui assume la charge effective et permanente de l'enfant ne
 remplit pas les conditions prévues au titre I du présent livre pour l'ouverture
-du droit aux allocations familiales, ce droit s'ouvre du chef du père légitime,
-naturel ou adoptif ou, à défaut, du chef de la mère légitime, naturelle ou
-adoptive.
+du droit aux allocations familiales, ce droit s'ouvre du chef du père ou, à
+défaut, du chef de la mère.
 
 Lorsqu'un enfant est confié au service d'aide sociale à l'enfance, les
 allocations familiales continuent d'être évaluées en tenant compte à la fois des

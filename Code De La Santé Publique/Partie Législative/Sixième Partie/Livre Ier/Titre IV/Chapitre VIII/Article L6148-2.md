@@ -6,7 +6,8 @@ faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du code rura
 en vue de l'accomplissement, pour le compte de l'établissement ou de la
 structure, d'une mission concourant à l'exercice du service public dont ils sont
 chargés ou en vue de la réalisation d'une opération d'intérêt général relevant
-de leur compétence.
+de leur compétence. Ce bail emphytéotique est dénommé bail emphytéotique
+administratif.
 
 Un tel bail peut être conclu même si le bien sur lequel il porte, en raison
 notamment de l'affectation du bien résultant soit du bail ou d'une convention

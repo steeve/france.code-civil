@@ -1,16 +1,11 @@
 Article L253-6
 ----
-L'autorisation de mise sur le marché n'est accordée qu'aux produits définis à
-l'article L. 253-1 ayant fait l'objet d'un examen destiné à vérifier leur
-efficacité et leur innocuité à l'égard de la santé publique, des utilisateurs,
-des cultures et des animaux, dans les conditions d'emploi prescrites. Cet examen
-peut comporter en particulier des essais physiques, chimiques ou biologiques
-dans les laboratoires et services dépendant du ministère de l'industrie ou de la
-recherche ou de l'agriculture.
+Les emballages ou étiquettes des produits mentionnés à l'article L. 253-1 dont
+la vente est autorisée doivent porter d'une façon apparente, au moins en
+français, outre les indications prescrites en application des articles L. 253-12
+et L. 253-13, les conditions d'emploi fixées dans l'autorisation de mise sur le
+marché.
 
-Les produits bénéficiant d'une autorisation de mise sur le marché sont inscrits
-sur un registre tenu au ministère de l'agriculture.
-
-L'autorisation de mise sur le marché peut être retirée s'il apparaît, après
-nouvel examen, que le produit ne satisfait pas aux conditions définies dans la
-première phrase du premier alinéa du présent article.
+Ils doivent mentionner également les précautions à prendre par les utilisateurs
+et notamment les contre-indications apparues au cours des essais et énoncées
+dans l'autorisation de mise sur le marché.

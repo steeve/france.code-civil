@@ -10,10 +10,6 @@ du cours d'eau ou du plan d'eau le permettent, les ministres chargés de la pêc
 en eau douce et de la gestion du domaine public fluvial ou, par délégation, le
 préfet peuvent réduire la largeur de 3,25 mètres précitée jusqu'à 1,50 mètre.
 
-Le long des cours d'eau rayés de la nomenclature des voies navigables ou
-flottables mais maintenus dans le domaine public, la largeur de l'espace libre
-laissé à l'usage des pêcheurs est fixée à 1,50 mètre.
-
 Le long des canaux de navigation, les pêcheurs peuvent user du chemin de halage
 et de la portion de berge faisant partie du domaine public, dans la mesure où le
 permet l'exploitation de la voie navigable.

@@ -29,7 +29,12 @@ le préfet de police.
 En outre, les pouvoirs conférés par le code de la route au préfet sont exercés à
 Paris par le préfet de police.
 
-L'exécution des dispositions du présent article est assurée par les
+L'exécution des dispositions des alinéas précédents est assurée par les
 fonctionnaires de la police nationale ou, le cas échéant, en matière de
 circulation ou de stationnement, par des agents de la ville de Paris placés sous
 l'autorité du préfet de police.
+
+Les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et
+ses quais, sont donnés par l'ingénieur en chef comme en matière d'occupation
+temporaire et les droits correspondants perçus comme en cette matière au profit
+de l'Etat par l'administration compétente.
