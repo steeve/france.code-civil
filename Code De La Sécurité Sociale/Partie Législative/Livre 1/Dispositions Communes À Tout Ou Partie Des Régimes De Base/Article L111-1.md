@@ -11,9 +11,8 @@ Elle assure, pour toute autre personne et pour les membres de sa famille
 résidant sur le territoire français, la couverture des charges de maladie et de
 maternité ainsi que des charges de famille.
 
-Cette garantie s'exerce par l'affiliation des intéressés et de leurs ayants
-droit à un régime obligatoire, ou, à défaut, par leur rattachement au régime de
-l'assurance personnelle.
+Cette garantie s'exerce par l'affiliation des intéressés et le rattachement de
+leurs ayants droit à un (ou plusieurs) régime(s) obligatoire(s).
 
 Elle assure le service des prestations d'assurances sociales, d'accidents du
 travail et maladies professionnelles, des allocations de vieillesse ainsi que le

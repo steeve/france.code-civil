@@ -26,7 +26,7 @@ outre constituées par :
 code général des impôts, dans les conditions fixées par la loi de finances pour
 2000 ;
 
-2° Une fraction fixée à 45 % du produit du droit de consommation prévu à
+2° Une fraction fixée à 5 % du produit du droit de consommation prévu à
 l'article 403 du code général des impôts, à l'exception du produit de ce droit
 de consommation perçu dans les départements de la collectivité territoriale de
 Corse et du prélèvement perçu au profit du budget annexe des prestations

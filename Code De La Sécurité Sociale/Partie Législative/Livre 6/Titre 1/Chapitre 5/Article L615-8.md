@@ -1,13 +1,13 @@
 Article L615-8
 ----
-Pour bénéficier du règlement des prestations pendant une durée déterminée,
-l'assuré doit être à jour de ses cotisations annuelles dans des conditions
-fixées par décret. Le défaut de versement des cotisations ne suspend le bénéfice
-des prestations qu'à l'expiration d'un délai de trente jours à compter de la
-date d'échéance. Cependant, en cas de paiement plus tardif, il peut, dans un
-délai déterminé, faire valoir ses droits aux prestations, mais le règlement ne
-peut intervenir que si la totalité des cotisations dues a été acquittée avant
-l'expiration du même délai.
+Pour bénéficier, le cas échéant, du règlement des prestations en espèces pendant
+une durée déterminée, l'assuré doit être à jour de ses cotisations annuelles
+dans des conditions fixées par décret. Le défaut de versement des cotisations ne
+suspend le bénéfice des prestations qu'à l'expiration d'un délai de trente jours
+à compter de la date d'échéance. Cependant, en cas de paiement plus tardif, il
+peut, dans un délai déterminé, faire valoir ses droits aux prestations, mais le
+règlement ne peut intervenir que si la totalité des cotisations dues a été
+acquittée avant l'expiration du même délai.
 
 Lorsque le tribunal arrête un plan de continuation en application de l'article
 69 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la

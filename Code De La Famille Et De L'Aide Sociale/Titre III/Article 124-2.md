@@ -13,9 +13,9 @@ personnes handicapées, dans les conditions prévues par cette loi. Les
 prestations mentionnées aux articles 156, 181-2 et 185 du présent code sont
 attribuées par le représentant de l'Etat.
 
-Les prestations d'aide médicale sont attribuées par le président du conseil
-général ou par le représentant de l'Etat dans le département dans les conditions
-fixées par le titre III bis du présent code.
+Les prestations d'aide médicale sont attribuées par par le représentant de
+l'Etat dans le département dans les conditions fixées par le titre III bis du
+présent code.
 
 A l'exception des décisions concernant l'attribution des prestations d'aide
 sociale à l'enfance, les décisions du président du conseil général et du

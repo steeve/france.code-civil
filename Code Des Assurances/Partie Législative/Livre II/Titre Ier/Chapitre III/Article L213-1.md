@@ -6,8 +6,8 @@ d'assurance maladie ou bénéficie d'un tel régime en qualité d'ayant droit
 d'affilié ou acquitte la contribution sociale généralisée sur un revenu
 d'activité ou de remplacement et qui est soumise à l'obligation d'assurance en
 matière de circulation de véhicules terrestres à moteur instituée par l'article
-L. 211-1. Cette cotisation est perçue au profit des régimes obligatoires
-d'assurance maladie.
+L. 211-1. Cette cotisation est perçue au profit de la Caisse nationale de
+l'assurance maladie des travailleurs salariés.
 
 Cette cotisation est proportionnelle aux primes ou cotisations afférentes à
 l'assurance obligatoire en matière de circulation de véhicules terrestres à
@@ -24,6 +24,4 @@ elles ont souscrit des contrats en application de l'article L. 211-1
 susmentionné.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article
-et, notamment, le taux de la cotisation et les modalités de répartition du
-produit des cotisations entre les divers régimes obligatoires d'assurance
-maladie.
+et, notamment, le taux de la cotisation.

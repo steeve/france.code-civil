@@ -1,8 +1,7 @@
 Article 146
 ----
 Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de
-l'aide sociale n'a pas de domicile de secours, ou par la commune lorsqu'elle
-bénéficie d'un régime spécial d'aide médicale :
+l'aide sociale n'a pas de domicile de secours :
 
 a) Contre le bénéficiaire revenu à meilleure fortune ou contre la succession du
 bénéficiaire ;

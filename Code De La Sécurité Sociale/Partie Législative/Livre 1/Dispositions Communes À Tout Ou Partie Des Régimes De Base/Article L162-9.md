@@ -14,7 +14,13 @@ chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux ;
 
 2°) les tarifs des honoraires et frais accessoires dus aux
 chirurgiens-dentistes, sages-femmes et auxiliaires médicaux en dehors des cas de
-dépassement autorisés par la convention ;
+dépassement autorisés par la convention si elle autorise un dépassement pour les
+soins visés au 3° de l'article L. 861-3, la convention nationale intéressant les
+chirurgiens-dentistes fixe le montant maximal de ce dépassement applicable aux
+bénéficiaires du droit à la protection complémentaire en matière de santé ; à
+défaut de convention, ou si la convention ne prévoit pas de dispositions
+spécifiques aux bénéficiaires de cette protection, un arrêté interministériel
+détermine la limite applicable à ces dépassements pour les intéressés ;
 
 3°) Les mesures que les partenaires conventionnels jugent appropriées pour
 garantir la qualité des soins dispensés aux assurés sociaux par les
@@ -27,7 +33,10 @@ sage-femme ou de l'auxiliaire médical qui ne respecte pas les mesures prévues 
 3° du présent article, tout ou partie des cotisations mentionnées aux articles
 L. 722-4 et L. 645-2, ou une partie de la dépense des régimes d'assurance
 maladie, correspondant aux honoraires perçus au titre des soins dispensés dans
-des conditions ne respectant pas ces mesures.
+des conditions ne respectant pas ces mesures ;
+
+5°) Pour les chirurgiens-dentistes, le cas échéant, les conditions tendant à
+éviter à l'assuré social de payer directement les honoraires.
 
 Elles fixent également les modalités d'application du 4°, et notamment les
 conditions dans lesquelles le professionnel concerné présente ses observations.
