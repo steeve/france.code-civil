@@ -1,9 +1,12 @@
 Article D635-14
 ----
-Toute personne exerçant une activité artisanale ou assimilée et relevant à titre
-obligatoire d'une caisse artisanale d'assurance vieillesse est affiliée d'office
-au régime d'assurance invalidité-décès établi par la présente sous-section.
+Un prélèvement sur les cotisations du régime d'assurance invalidité-décès dont
+le montant est décidé chaque année par le conseil d'administration :
 
-Il en est de même de toute personne adhérant à titre volontaire au régime
-d'assurance vieillesse des professions artisanales dans les conditions fixées
-par les articles D. 742-18 et suivants.
+- alimente le fonds d'action sociale. Ce fonds est notamment destiné à prendre
+en charge ou à faire l'avance des cotisations des adhérents qui seraient
+momentanément empêchés de les régler par suite de circonstances exceptionnelles
+dans les conditions fixées par le règlement de la caisse. Sa part dans le total
+des cotisations ne peut excéder 2 % ;
+
+- assure le financement des frais de gestion administrative du régime.

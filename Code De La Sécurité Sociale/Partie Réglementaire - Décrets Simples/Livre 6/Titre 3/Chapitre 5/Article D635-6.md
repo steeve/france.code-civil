@@ -1,26 +1,12 @@
 Article D635-6
 ----
-Le taux de la cotisation annuelle d'assurance vieillesse complémentaire, assise
-sur le revenu mentionné aux articles D. 635-4 et D. 635-5, est fixé à 6,20 %
-pour l'année 2003, à 6,70 % pour l'année 2004 et à 7 % pour l'année 2005 et les
-années suivantes.
+Un prélèvement sur les cotisations du régime complémentaire, dont le montant est
+décidé chaque année par le conseil d'administration :
 
-La cotisation annuelle ainsi déterminée est arrondie à l'euro le plus proche.
+- alimente le fonds d'action sociale mentionné à l'article L. 635-3. Ce fonds
+est notamment destiné à prendre en charge ou à faire l'avance des cotisations
+des adhérents qui seraient momentanément empêchés de les régler par suite de
+circonstances exceptionnelles, dans les conditions fixées par le règlement de la
+caisse. Sa part dans le total des cotisations ne peut excéder 2 % ;
 
-Elle est répartie en deux fractions semestrielles d'égal montant exigibles des
-assurés et payables par eux, aux mêmes dates et conditions que celles
-mentionnées aux articles D. 633-7, D. 633-7-1 et D. 633-12.
-
-En cas de versement d'une somme inférieure à celle représentée par le total des
-cotisations dues au titre des articles L. 633-9 et L. 633-10 et des cotisations
-dues au titre de la présente sous-section, cette somme est imputée par priorité
-sur les premières cotisations ci-dessus et ensuite, s'il y a lieu, sur les
-secondes.
-
-Le remboursement de tout solde mentionné à l'avant-dernier alinéa de l'article
-D. 633-10 n'intervient que pour la part qui excède le montant des cotisations
-dues en application de la présente sous-section et, le cas échéant, le montant
-de celles dues en application de la sous-section 2 ci-après.
-
-Les articles D. 633-13 à D. 633-16 et D. 633-18 sont applicables à la cotisation
-d'assurance vieillesse complémentaire.
+- assure le financement des frais de gestion administrative du régime.

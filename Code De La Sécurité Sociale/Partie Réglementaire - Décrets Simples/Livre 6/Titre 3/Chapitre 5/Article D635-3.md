@@ -1,20 +1,14 @@
 Article D635-3
 ----
-Toute personne exerçant une activité artisanale ou assimilée et relevant à titre
-obligatoire de l'organisation autonome mentionnée au 1° de l'article L. 621-3
-est affiliée d'office au régime d'assurance vieillesse complémentaire institué
-par l'article D. 635-2.
+L'assuré qui n'a pas souscrit la déclaration de revenus prévue à l'article D.
+633-3 est redevable d'une cotisation provisoire calculée et notifiée
+conformément aux dispositions de l'article R. 242-14 qui ne peut excéder le
+montant de la cotisation due sur le plafond applicable au régime en cause.
 
-Il en est de même de toute personne adhérant à titre volontaire au régime
-d'assurance vieillesse des professions artisanales dans les conditions fixées
-par les articles D. 742-18 à D. 742-34.
+En cas de retard de paiement des cotisations dues au titre du régime, il est
+fait application des dispositions des articles D. 633-13 à D. 633-15.
 
-Les personnes percevant une pension d'invalidité dans le régime d'assurance
-invalidité institué par les articles D. 635-12 à D. 635-18 sont également
-affiliées au régime d'assurance vieillesse complémentaire dans les conditions
-définies par le règlement prévu à l'article L. 635-5.
-
-Par dérogation aux dispositions du premier alinéa, les chauffeurs de taxi visés
-à l'article L. 635-6 sont affiliés au régime complémentaire obligatoire
-d'assurance vieillesse des travailleurs non salariés des professions
-artisanales.
+En cas de versement d'une somme inférieure à celle représentée par le total des
+cotisations dues au titre de l'article L. 633-10 et des cotisations dues au
+titre de la présente sous-section, cette somme est imputée par priorité sur les
+premières cotisations et ensuite, s'il y a lieu, sur les secondes.
