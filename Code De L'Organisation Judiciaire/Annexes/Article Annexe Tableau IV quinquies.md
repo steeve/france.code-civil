@@ -2,40 +2,40 @@ Article Annexe Tableau IV quinquies
 ----
 Tableau IV quinquies
 
-
-Liste des maisons de justice et du droit
-
-DÉPARTEMENTS
+Liste des maisons de justice et du droit.
 
 
-TRIBUNAL DE GRANDE INSTANCE
+DÉPARTEMENT
 
-MAISONS DE JUSTICE ET DU DROIT
+TRIBUNAL DE GRANDE instance
+
+MAISON DE JUSTICE et du droit
 
 Cour d'appel d'Aix-en-Provence
 
 
 Alpes-Maritimes
 
-Nice.
+Nice
 
 Nice (Ariane).
 
 
 Bouches-du-Rhône
 
-Aix-en-Provence.
+Aix-en-Provence
 
-Aix-en-Provence (Jas du Bouffan), Martigues.
+Aix-en-provence (Jas du Bouffan), Martigues.
 
-Marseille.
+
+Marseille
 
 Aubagne.
 
 
 Var
 
-Toulon.
+Toulon
 
 La Seyne-sur-Mer, Toulon.
 
@@ -44,14 +44,14 @@ Cour d'appel d'Amiens
 
 Oise
 
-Beauvais.
+Beauvais
 
 Méru/Vexin-Thelle-Sablons.
 
 
 Somme
 
-Amiens.
+Amiens
 
 Amiens.
 
@@ -60,7 +60,7 @@ Cour d'appel d'Angers
 
 Sarthe
 
-Le Mans.
+Le Mans
 
 Allonnes.
 
@@ -69,30 +69,30 @@ Cour d'appel de Bordeaux
 
 Charente
 
-Angoulême.
+Angoulême
 
 Angoulême.
 
 
 Dordogne
 
-Bergerac.
+Bergerac
 
 Bergerac.
 
 
 Gironde
 
-Bordeaux.
+Bordeaux
 
-Bordeaux/Bastide, Bordeaux/Nord.
+Bordeaux (Bastide), Bordeaux-Nord.
 
 Cour d'appel de Bourges
 
 
 Cher
 
-Bourges.
+Bourges
 
 Vierzon.
 
@@ -101,7 +101,7 @@ Cour d'appel de Caen
 
 Calvados
 
-Caen.
+Caen
 
 Hérouville-Saint-Clair.
 
@@ -110,14 +110,14 @@ Cour d'appel de Chambéry
 
 Haute-Savoie
 
-Thonon-les-Bains.
+Thonon-les-Bains
 
 Annemasse.
 
 
 Savoie
 
-Chambéry.
+Chambéry
 
 Aix-les-Bains, Chambéry.
 
@@ -126,18 +126,19 @@ Cour d'appel de Colmar
 
 Bas-Rhin
 
-Strasbourg.
+Strasbourg
 
 Strasbourg.
 
 
 Haut-Rhin
 
-Colmar.
+Colmar
 
 Colmar.
 
-Mulhouse.
+
+Mulhouse
 
 Mulhouse.
 
@@ -146,11 +147,12 @@ Cour d'appel de Dijon
 
 Saône-et-Loire
 
-Chalon-sur-Saône.
+Chalon-sur-Saône
 
 Chalon-sur-Saône.
 
-Mâcon.
+
+Mâcon
 
 Mâcon.
 
@@ -159,22 +161,24 @@ Cour d'appel de Douai
 
 Nord
 
-Lille.
+Lille Roubaix,
 
-Roubaix, Tourcoing.
+Tourcoing.
 
-Avesnes-sur-Helpe.
+
+Avesnes-sur-Helpe
 
 Aulnoy-Aymeries, Maubeuge.
 
 
 Pas-de-Calais
 
-Béthune.
+Béthune
 
 Lens.
 
-Boulogne-sur-Mer.
+
+Boulogne-sur-Mer
 
 Calais.
 
@@ -183,14 +187,14 @@ Cour d'appel de Fort-de-France
 
 Guyane
 
-Cayenne.
+Cayenne
 
 Saint-Laurent-du-Maroni.
 
 
 Martinique
 
-Fort-de-France.
+Fort-de-France
 
 Fort-de-France.
 
@@ -199,18 +203,19 @@ Cour d'appel de Grenoble
 
 Drôme
 
-Valence.
+Valence
 
 Romans-sur-Isère.
 
 
 Isère
 
-Grenoble.
+Grenoble
 
 Grenoble.
 
-Vienne.
+
+Vienne
 
 Villefontaine.
 
@@ -219,7 +224,7 @@ Cour d'appel de Limoges
 
 Corrèze
 
-Brive.
+Brive
 
 Brive.
 
@@ -228,14 +233,14 @@ Cour d'appel de Lyon
 
 Loire
 
-Saint-Etienne.
+Saint-Etienne
 
 Saint-Etienne.
 
 
 Rhône
 
-Lyon.
+Lyon
 
 Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 
@@ -244,7 +249,7 @@ Cour d'appel de Metz
 
 Moselle
 
-Metz.
+Metz
 
 Woippy.
 
@@ -253,14 +258,14 @@ Cour d'appel de Montpellier
 
 Aude
 
-Narbonne.
+Narbonne
 
 Narbonne.
 
 
 Hérault
 
-Montpellier.
+Montpellier
 
 Lunel, Montpellier (La Paillade).
 
@@ -269,32 +274,32 @@ Cour d'appel de Nancy
 
 Meurthe-et-Moselle
 
-Nancy.
+Nancy
 
-Haut-du-Lièvre, Tomblaine, Vandoeuvre-lès-Nancy.
+Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
 
 Cour d'appel de Nîmes
 
 
 Gard
 
-Nîmes.
+Nîmes
 
 Bagnols-sur-Cèze, Nîmes.
 
 Cour d'appel d'Orléans
 
 
-Indre-et-Loire
+Indre-et-Loir
 
-Tours.
+Tours
 
 Joué-lès-Tours.
 
 
 Loiret
 
-Orléans.
+Orléans
 
 Orléans.
 
@@ -303,41 +308,40 @@ Cour d'appel de Paris
 
 Essonne
 
-Evry.
+Evry
 
 Athis-Mons, Les Ulis.
 
 
 Paris
 
-Paris.
+Paris
 
-Paris (10e), Paris (14e), Paris (17e).
+Paris (10e) Paris (14e) Paris (17e).
 
 
 Seine-et-Marne
 
-Meaux.
+Meaux
 
-Chelles, Meaux, Val-Maubuée.
+Chelles, Meaux, Val Maubuée, Pontault-Combault, Savigny-le-Temple.
 
-Melun.
 
-Pontault-Combault, Savigny-le-Temple.
+Melun
+
+Aubervilliers, Epinay, La Courneuve.
 
 
 Seine-Saint-Denis
 
-Bobigny.
-
-Aubervilliers, Epinay, La Courneuve.
+Bobigny
 
 Cour d'appel de Poitiers
 
 
 Charente-Maritime
 
-La Rochelle.
+La Rochelle
 
 La Rochelle.
 
@@ -346,29 +350,30 @@ Cour d'appel de Reims
 
 Ardennes
 
-Charleville-Mézières.
+Charleville-Mézières
 
 Charleville-Mézières, Sedan.
 
 
 Marne
 
-Reims.
+Reims
 
 Reims.
 
 Cour d'appel de Rennes
 
-Côtes-d'Armor
+Côtes d'Armor
 
-Guingamp.
+
+Guingamp
 
 Lannion.
 
 
 Loire-Atlantique
 
-Nantes.
+Nantes
 
 Nantes.
 
@@ -377,7 +382,7 @@ Cour d'appel de Riom
 
 Allier
 
-Montluçon.
+Montluçon
 
 Montluçon.
 
@@ -386,27 +391,28 @@ Cour d'appel de Rouen
 
 Eure
 
-Evreux.
+Evreux
 
 Louviers, Vernon.
 
 
 Seine-Maritime
 
-Le Havre.
+Le Havre
 
 Le Havre.
 
-Rouen.
 
-Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
+Rouen
+
+Elbeuf-sur-Seine, Canteleu, Rouen, Saint- Etienne-du-Rouvray.
 
 Cour d'appel de Toulouse
 
 
 Haute-Garonne
 
-Toulouse.
+Toulouse
 
 Toulouse.
 
@@ -415,13 +421,15 @@ Cour d'appel de Versailles
 
 Eure-et-Loir
 
-Chartres.
+Chartres
 
-Dreux.
+
+Dreux
 
 Val-d'Oise
 
-Pontoise.
+
+Pontoise
 
 Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles,
 Villiers-le-Bel.
@@ -429,6 +437,6 @@ Villiers-le-Bel.
 
 Yvelines
 
-Versailles.
+Versailles
 
 Les Mureaux, Saint-Quentin-en-Yvelines.
