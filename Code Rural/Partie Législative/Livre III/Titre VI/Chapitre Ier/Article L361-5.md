@@ -18,13 +18,9 @@ a) 10 % en ce qui concerne les conventions d'assurance contre l'incendie ;
 
 b) 5 % en ce qui concerne les autres conventions d'assurance.
 
-Pour une période de cinq ans à compter du 1er janvier 1992, le taux prévu au a
-ci-dessus est porté à 15 % et celui prévu au b ci-dessus est porté à 7 %.
-
-Pour une période d'un an à compter du 1er janvier 1997, le taux prévu au a
-ci-dessus est maintenu à 15 % et celui prévu au b ci-dessus est maintenu à 7 %,
-à l'exception des conventions couvrant les dommages aux cultures et la mortalité
-du bétail dont le taux est fixé à 5 %.
+Pour 1998, le taux prévu au a est fixé à 15 % et le taux prévu au b est fixé à 7
+% à l'exception des conventions couvrant les dommages aux cultures et la
+mortalité du bétail, dont le taux reste fixé à 5 %.
 
 2° Une contribution additionnelle particulière applicable aux exploitations
 conchylicoles fixée ainsi qu'il suit :
@@ -45,15 +41,12 @@ les risques nautiques desdites exploitations.
 3° Une subvention inscrite au budget de l'Etat et dont le montant sera au moins
 égal au produit des contributions mentionnées aux 1° et 2° ci-dessus.
 
-A titre exceptionnel, à compter du 1er juillet 1987 et pour une durée de dix
-ans, il est établi au profit du fonds de garantie des calamités agricoles une
+A titre exceptionnel, à compter du 1er juillet 1987 et jusqu'au 31 décembre
+1998, il est établi au profit du fonds de garantie des calamités agricoles une
 contribution additionnelle complémentaire de 7 % sur toutes les primes ou
 cotisations afférentes aux conventions d'assurance couvrant les risques de
 responsabilité civile et de dommages relatifs aux véhicules utilitaires affectés
 aux exploitations agricoles.
-
-La contribution additionnelle complémentaire prévue par le précédent alinéa est
-prorogée au taux de 7 % jusqu'au 31 décembre 1997.
 
 Les modalités d'application en sont fixées par arrêté conjoint du ministre de
 l'agriculture et du ministre chargé du budget.
