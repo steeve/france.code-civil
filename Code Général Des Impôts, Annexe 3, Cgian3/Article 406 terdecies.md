@@ -27,4 +27,19 @@ versements dus au titre des salaires versés à compter de la date d'effet de
 l'option.
 
 III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes
-conditions que celles prévues à l'article 344-0 C.
+conditions que celles prévues à l'article 344-0 C. Toutefois, les impositions
+mentionnées au II dues au titre d'une période antérieure à la date à compter de
+laquelle le redevable relève du service chargé des grandes entreprises peuvent
+être établies et recouvrées par ce même service.
+
+IV. - Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et
+II, les rôles, autres que ceux relatifs aux impôts locaux et à leurs taxes
+additionnelles et annexes, ou avis de mise en recouvrement émis en vue du
+recouvrement des impositions qui ont fait l'objet, ou auraient dû faire l'objet,
+d'une déclaration ou d'un paiement auprès du service chargé des grandes
+entreprises, sont établis soit par ce service, soit par le service déconcentré
+dans le ressort duquel est situé le lieu d'imposition. Ces dispositions
+s'appliquent également au rôle ou à l'avis de mise en recouvrement émis par le
+service chargé des grandes entreprises en vue du recouvrement d'une imposition
+qui aurait dû faire l'objet d'une déclaration ou d'un paiement auprès du service
+déconcentré dans le ressort duquel est situé le lieu d'imposition.
