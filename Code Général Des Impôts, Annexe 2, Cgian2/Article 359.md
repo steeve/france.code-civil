@@ -1,8 +1,11 @@
 Article 359
 ----
-La taxe visée à l'article 358 est perçue au moment de la délivrance du titre de
-mouvement levé pour légitimer la sortie de la propriété des produits énumérés
-audit article.
+Sont soumis à la taxe prévue à l'article 358 les produits suivants : pommes et
+poires destinées à la fabrication de produits cidricoles, moûts de pommes et de
+poires, cidres et poirés, calvados, eaux-de-vie de cidre et de poiré et alcools
+de cidre et de poiré réservés à l'Etat.
 
-La taxe est acquittée par la personne levant le titre de mouvement. Elle est
-supportée par l'acheteur et le vendeur, chacun pour moitié [*redevables*].
+La taxe est perçue dans les départements suivants : Aisne, Calvados,
+Côtes-du-Nord, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine, Loire-Atlantique,
+Loiret, Maine-et-Loire, Manche, Mayenne, Morbihan, Oise, Orne, Sarthe,
+Seine-Maritime, Seine-et-Marne, Somme et Yonne.
