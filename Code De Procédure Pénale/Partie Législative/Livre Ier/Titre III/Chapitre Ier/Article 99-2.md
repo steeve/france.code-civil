@@ -13,7 +13,7 @@ tiers, de remettre au service des domaines, en vue de leur aliénation, des bien
 meubles placés sous main de justice appartenant aux personnes poursuivies, dont
 la conservation n'est plus nécessaire à la manifestation de la vérité et dont la
 confiscation est prévue par la loi, lorsque le maintien de la saisie serait de
-nature à diminuer la valeur du bien. S'il est procédé à la vente du bien, le
+nature à diminuer la valeur du bien.S'il est procédé à la vente du bien, le
 produit de celle-ci est consigné pendant une durée de dix ans. En cas de
 non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est
 pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait
@@ -29,8 +29,8 @@ ordonnance motivée. Cette ordonnance est prise soit sur réquisitions du
 procureur de la République, soit d'office après avis de ce dernier. Elle est
 notifiée au ministère public, aux parties intéressées et, s'ils sont connus, au
 propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la
-déférer à la chambre d'accusation dans les conditions prévues aux cinquième et
-sixième alinéas de l'article 99.
+déférer à la chambre de l'instruction dans les conditions prévues aux cinquième
+et sixième alinéas de l'article 99.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article.

@@ -1,6 +1,9 @@
 Article 312
 ----
-Dans les conditions prévues par les articles 328 et 332, le ministère public,
-l'accusé, la partie civile, les avocats de l'accusé et de la partie civile
-peuvent poser des questions aux accusés, aux témoins et à toutes personnes
-appelées à la barre.
+Sous réserve des dispositions de l'article 309, le ministère public et les
+avocats des parties peuvent poser directement des questions à l'accusé, à la
+partie civile, aux témoins et à toutes les personnes appelées à la barre, en
+demandant la parole au président.
+
+L'accusé et la partie civile peuvent également poser des questions par
+l'intermédiaire du président.

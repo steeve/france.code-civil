@@ -1,6 +1,6 @@
 Article 226
 ----
-La chambre d'accusation, une fois saisie, fait procéder à une enquête ; elle
+La chambre de l'instruction, une fois saisie, fait procéder à une enquête ; elle
 entend le procureur général et l'officier ou agent de police judiciaire en
 cause.
 

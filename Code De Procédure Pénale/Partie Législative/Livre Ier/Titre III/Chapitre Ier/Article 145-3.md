@@ -6,6 +6,7 @@ rejetant les demandes de mise en liberté doivent aussi comporter les indication
 particulières qui justifient en l'espèce la poursuite de l'information et le
 délai prévisible d'achèvement de la procédure.
 
-Le juge d'instruction n'est toutefois pas tenu d'indiquer la nature des
-investigations auxquelles il a l'intention de procéder lorsque cette indication
-risquerait d'entraver l'accomplissement de ces investigations.
+Il n'est toutefois pas nécessaire que l'ordonnance de prolongation indique la
+nature des investigations auxquelles le juge d'instruction a l'intention de
+procéder lorsque cette indication risque d'entraver l'accomplissement de ces
+investigations.

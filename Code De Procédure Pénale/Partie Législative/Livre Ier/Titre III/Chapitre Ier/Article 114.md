@@ -48,7 +48,7 @@ Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défa
 réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut
 communiquer à son client la reproduction des pièces ou actes dont il avait
 fourni la liste. Il peut, dans les deux jours de sa notification, déférer la
-décision du juge d'instruction au président de la chambre d'accusation, qui
+décision du juge d'instruction au président de la chambre de l'instruction, qui
 statue dans un délai de cinq jours ouvrables par une décision écrite et motivée,
 non susceptible de recours. A défaut de réponse notifiée dans le délai imparti,
 l'avocat peut communiquer à son client la reproduction des pièces ou actes
@@ -64,8 +64,8 @@ transmettre à son client une reproduction des pièces ou actes de la procédure
 sans l'autorisation préalable du juge d'instruction, qui peut lui être notifiée
 par tout moyen. En cas de refus du juge d'instruction ou à défaut de réponse de
 ce dernier dans les cinq jours ouvrables, l'avocat peut saisir le président de
-la chambre d'accusation, qui statue dans un délai de cinq jours ouvrables, par
-une décision écrite et motivée non susceptible de recours. En l'absence
-d'autorisation préalable du président de la chambre d'accusation, l'avocat ne
-peut transmettre la reproduction de pièces ou actes de la procédure à son
+la chambre de l'instruction, qui statue dans un délai de cinq jours ouvrables,
+par une décision écrite et motivée non susceptible de recours. En l'absence
+d'autorisation préalable du président de la chambre de l'instruction, l'avocat
+ne peut transmettre la reproduction de pièces ou actes de la procédure à son
 client.

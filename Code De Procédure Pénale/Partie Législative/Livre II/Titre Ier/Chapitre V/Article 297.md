@@ -7,6 +7,7 @@ limitation exprimée à l'article 298.
 L'accusé, son avocat, ni le ministère public ne peuvent exposer leur motifs de
 récusation.
 
-Le jury de jugement est formé à l'instant où sont sortis de l'urne neuf noms de
-jurés non récusés et les noms des jurés supplémentaires prévus par l'article
-296.
+Le jury de jugement est formé à l'instant où sont sortis de l'urne les noms de
+neuf ou douze jurés non récusés, selon les distinctions prévues par le premier
+alinéa de l'article 296, et les noms des jurés supplémentaires prévus par
+l'article 296.

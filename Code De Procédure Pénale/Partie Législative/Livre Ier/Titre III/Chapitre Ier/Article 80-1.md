@@ -1,23 +1,15 @@
 Article 80-1
 ----
-Le juge d'instruction a le pouvoir de mettre en examen toute personne à
-l'encontre de laquelle il existe des indices laissant présumer qu'elle a
-participé, comme auteur ou complice, aux faits dont il est saisi.
+A peine de nullité, le juge d'instruction ne peut mettre en examen que les
+personnes à l'encontre desquelles il existe des indices graves ou concordants
+rendant vraisemblable qu'elles aient pu participer, comme auteur ou comme
+complice, à la commission des infractions dont il est saisi.
 
-La mise en examen résulte de l'interrogatoire de première comparution prévu par
-l'article 116 ou la délivrance de l'un des mandats prévus par les articles 122 à
-136. Toutefois, la personne à l'encontre de laquelle a été délivré un mandat
-d'amener ou d'arrêt ne bénéficie des droits reconnus aux personnes mises en
-examen qu'à compter de sa première comparution.
+Il ne peut procéder à cette mise en examen qu'après avoir préalablement entendu
+les observations de la personne ou l'avoir mise en mesure de les faire, en étant
+assistée par son avocat, soit dans les conditions prévues par l'article 116
+relatif à l'interrogatoire de première comparution, soit en tant que témoin
+assisté conformément aux dispositions des articles 113-1 à 113-8.
 
-Le juge d'instruction peut également procéder à la mise en examen d'une personne
-par l'envoi d'une lettre recommandée. Cette lettre donne connaissance à la
-personne des faits pour lesquels elle est mise en examen et de la qualification
-juridique de ces faits. Elle lui précise qu'elle a le droit d'être assistée d'un
-avocat de son choix ou commis d'office et que le nom de l'avocat choisi ou la
-demande de désignation d'un avocat commis d'office doit être communiqué au
-greffe du juge d'instruction. Vaut également mise en examen la notification à
-une personne, par un officier de police judiciaire agissant sur les instructions
-du juge d'instruction, des mentions prévues par le présent alinéa. Cette
-notification est constatée par un procès-verbal signé par la personne qui en
-reçoit copie.
+Le juge d'instruction ne peut procéder à la mise en examen de la personne que
+s'il estime ne pas pouvoir recourir à la procédure de témoin assisté.

@@ -1,19 +1,15 @@
 Article 63
 ----
-L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à
-sa disposition une ou plusieurs des personnes visées aux articles 61 et 62. Il
-en informe dans les meilleurs délais le procureur de la République. Les
-personnes gardées à vue ne peuvent être retenues plus de vingt-quatre heures.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer
+en garde à vue toute personne à l'encontre de laquelle il existe des indices
+faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en
+informe dès le début de la garde à vue le procureur de la République.
 
-Toutefois, les personnes à l'encontre desquelles il n'existe aucun indice
-faisant présumer qu'elles ont commis ou tenté de commettre une infraction ne
-peuvent être retenues que le temps nécessaire à leur déposition.
-
-La garde à vue des personnes à l'encontre desquelles il existe des indices
-faisant présumer qu'elles ont commis ou tenté de commettre une infraction peut
-être prolongée d'un nouveau délai de vingt-quatre heures au plus, par
-autorisation écrite du procureur de la République. Ce magistrat peut subordonner
-cette autorisation à la présentation préalable de la personne gardée à vue.
+La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
+Toutefois, la garde à vue peut être prolongée pour un nouveau délai de
+vingt-quatre heures au plus, sur autorisation écrite du procureur de la
+République. Ce magistrat peut subordonner cette autorisation à la présentation
+préalable de la personne gardée à vue.
 
 Sur instructions du procureur de la République, les personnes à l'encontre
 desquelles les éléments recueillis sont de nature à motiver l'exercice de

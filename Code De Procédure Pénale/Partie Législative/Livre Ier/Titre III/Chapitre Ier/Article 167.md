@@ -5,12 +5,14 @@ et à leurs avocats après les avoir convoqués conformément aux dispositions d
 deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a
 lieu, des conclusions des rapports des personnes requises en application des
 articles 60 et 77-1, lorsqu'il n'a pas été fait application des dispositions du
-quatrième alinéa de l'article 60.
+quatrième alinéa de l'article 60. Une copie de l'intégralité du rapport est
+alors remise, à leur demande, aux avocats des parties.
 
 Les conclusions peuvent également être notifiées par lettre recommandée ou,
 lorsque la personne est détenue, par les soins du chef de l'établissement
 pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la
-copie du récépissé signé par l'intéressé.
+copie du récépissé signé par l'intéressé. L'intégralité du rapport peut aussi
+être notifiée, à leur demande, aux avocats des parties par lettre recommandée.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour
 présenter des observations ou formuler une demande, notamment aux fins de

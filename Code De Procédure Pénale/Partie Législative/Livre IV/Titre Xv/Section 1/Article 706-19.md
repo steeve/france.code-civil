@@ -4,10 +4,10 @@ Lorsqu'il apparaît au juge d'instruction de Paris que les faits dont il a été
 saisi ne constituent pas une des infractions entrant dans le champ d'application
 de l'article 706-16 et ne relèvent pas de sa compétence à un autre titre, ce
 magistrat se déclare incompétent, soit sur requête du procureur de la
-République, soit, après avis de ce dernier, d'office ou sur requête de l'inculpé
-ou de la partie civile. Les parties qui n'ont pas présenté requête sont
-préalablement avisées et invitées à faire connaître leurs observations ;
-l'ordonnance est rendue au plus tôt huit jours après cet avis [*délai*].
+République, soit, après avis de ce dernier, d'office ou sur requête des parties.
+Celles des parties qui n'ont pas présenté requête sont préalablement avisées et
+invitées à faire connaître leurs observations ; l'ordonnance est rendue au plus
+tôt huit jours après cet avis.
 
 Les dispositions du deuxième alinéa de l'article 706-18 sont applicables à
 l'ordonnance par laquelle le juge d'instruction de Paris se déclare incompétent.

@@ -5,11 +5,10 @@ conditions ou d'inobservation des mesures énoncées dans la décision de mise e
 liberté conditionnelle, cette décision peut être révoquée, suivant les
 distinctions de l'article 730, soit, après avis du service pénitentiaire
 d'insertion et de probation, par le juge de l'application des peines compétent
-pour sa mise en oeuvre, soit, sur proposition de ce magistrat, et après avis, le
-cas échéant, du comité consultatif de libération conditionnelle, par le ministre
-de la justice. Le juge de l'application des peines qui a pris une décision de
-libération conditionnelle peut rapporter celle-ci lorsqu'elle n'a pas encore
-reçu exécution.
+pour sa mise en oeuvre, soit, sur proposition de ce magistrat, par la
+juridiction régionale de la libération conditionnelle. Le juge de l'application
+des peines qui a pris une décision de libération conditionnelle peut rapporter
+celle-ci lorsqu'elle n'a pas encore reçu exécution.
 
 En cas d'urgence, l'arrestation peut être provisoirement ordonnée par le juge de
 l'application des peines du lieu où se trouve le libéré, le ministère public

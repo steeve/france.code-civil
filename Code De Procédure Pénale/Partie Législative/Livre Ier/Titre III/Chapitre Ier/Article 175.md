@@ -21,5 +21,4 @@ si une personne mise en examen est détenue et de trois mois dans les autres cas
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit
 peut rendre l'ordonnance de règlement.
 
-Les dispositions du premier alinéa sont également applicables à la personne
-bénéficiant des dispositions de l'article 104.
+Les dispositions du premier alinéa sont également applicables au témoin assisté.

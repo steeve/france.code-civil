@@ -12,8 +12,8 @@ d'instruction qu'il désigne, soit dès l'ouverture de l'information, soit sur l
 demande du juge chargé de l'information, à tout moment de la procédure.
 
 Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul
-qualité pour statuer en matière de détention provisoire et pour rendre
-l'ordonnance de règlement.
+qualité pour saisir le juge des libertés et de la détention, pour ordonner une
+mise en liberté d'office et pour rendre l'ordonnance de règlement.
 
 Les désignations prévues au présent article sont des mesures d'administration
 judiciaire non susceptibles de recours.

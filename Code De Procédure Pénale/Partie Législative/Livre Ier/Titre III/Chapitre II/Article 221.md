@@ -8,4 +8,5 @@ Les affaires dans lesquelles sont impliquées des personnes mises en examen,
 détenues provisoirement figurent sur un état spécial.
 
 Les états prévus par le présent article sont adressés au président de la chambre
-d'accusation et au procureur général dans les trois premiers jours du trimestre.
+de l'instruction et au procureur général dans les trois premiers jours du
+trimestre.

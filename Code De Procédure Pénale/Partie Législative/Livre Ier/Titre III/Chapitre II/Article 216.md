@@ -1,6 +1,6 @@
 Article 216
 ----
-Les arrêts de la chambre d'accusation sont signés par le président et par le
+Les arrêts de la chambre de l'instruction sont signés par le président et par le
 greffier. Il y est fait mention du nom des juges, du dépôt des pièces et des
 mémoires, de la lecture du rapport, des réquisitions du ministère public et,
 s'il y a lieu, de l'audition des parties ou de leurs avocats.

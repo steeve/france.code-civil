@@ -13,10 +13,10 @@ Un délai minimum de quarante-huit heures en matière de détention provisoire, 
 de cinq jours en toute autre matière, doit être observé entre la date d'envoi de
 la lettre recommandée et celle de l'audience.
 
-Pendant ce délai, le dossier est déposé au greffe de la chambre d'accusation et
-tenu à la disposition des avocats des personnes mises en examen et des parties
-civiles dont la constitution n'a pas été contestée ou, en cas de contestation,
-lorsque celle-ci n'a pas été retenue.
+Pendant ce délai, le dossier est déposé au greffe de la chambre de l'instruction
+et tenu à la disposition des avocats des personnes mises en examen et des
+parties civiles dont la constitution n'a pas été contestée ou, en cas de
+contestation, lorsque celle-ci n'a pas été retenue.
 
 Copie leur en est délivrée sans délai, à leurs frais, sur simple requête écrite.
 Ces copies ne peuvent être rendues publiques.

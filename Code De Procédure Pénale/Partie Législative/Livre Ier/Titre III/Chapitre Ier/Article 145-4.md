@@ -16,7 +16,7 @@ visite à un membre de la famille de la personne détenue que par une décision
 écrite et spécialement motivée au regard des nécessités de l'instruction.
 
 Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce
-dernier peut la déférer au président de la chambre d'accusation qui statue dans
-un délai de cinq jours par une décision écrite et motivée non susceptible de
-recours. Lorsqu'il infirme la décision du juge d'instruction, le président de la
-chambre d'accusation délivre le permis de visite.
+dernier peut la déférer au président de la chambre de l'instruction qui statue
+dans un délai de cinq jours par une décision écrite et motivée non susceptible
+de recours. Lorsqu'il infirme la décision du juge d'instruction, le président de
+la chambre de l'instruction délivre le permis de visite.

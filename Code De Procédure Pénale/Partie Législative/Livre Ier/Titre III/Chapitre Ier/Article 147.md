@@ -6,6 +6,8 @@ République, à charge pour la personne mise en examen de prendre l'engagement d
 se représenter à tous les actes de la procédure aussitôt qu'elle en sera requise
 et de tenir informé le magistrat instructeur de tous ses déplacements.
 
-Le procureur de la République peut également la requérir à tout moment. Le juge
-d'instruction statue dans le délai de cinq jours à compter de la date de ces
-réquisitions.
+Le procureur de la République peut également la requérir à tout moment. Sauf
+s'il ordonne la mise en liberté de la personne, le juge d'instruction doit, dans
+les cinq jours suivant les réquisitions du procureur de la République,
+transmettre le dossier, assorti de son avis motivé, au juge des libertés et de
+la détention, qui statue dans le délai de trois jours ouvrables.

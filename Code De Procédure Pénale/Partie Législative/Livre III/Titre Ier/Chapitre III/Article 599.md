@@ -6,5 +6,5 @@ opposées devant la cour d'appel, à l'exception de la nullité pour cause
 d'incompétence lorsqu'il y a eu appel du ministère public.
 
 En matière criminelle, l'accusé n'est pas recevable à présenter comme moyen de
-cassation les nullités qu'il n'a pas soulevées devant la cour d'assises
-conformément aux prescriptions de l'article 305-1.
+cassation les nullités qu'il n'a pas soulevées devant la cour d'assises statuant
+en appel conformément aux prescriptions de l'article 305-1.

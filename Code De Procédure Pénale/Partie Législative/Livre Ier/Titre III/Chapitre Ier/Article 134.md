@@ -9,4 +9,6 @@ celui où le mandat doit s'exécuter et elle est tenue de déférer aux réquisi
 contenues dans ce mandat.
 
 Si la personne ne peut être saisie, un procès-verbal de perquisition et de
-recherches infructueuses est adressé au magistrat qui a délivré le mandat.
+recherches infructueuses est adressé au magistrat qui a délivré le mandat. La
+personne est alors considérée comme mise en examen pour l'application de
+l'article 176.

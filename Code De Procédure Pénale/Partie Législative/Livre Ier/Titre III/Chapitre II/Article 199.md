@@ -5,12 +5,11 @@ si la personne majeure mise en examen ou son avocat le demande dès l'ouverture
 des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf
 si la publicité est de nature à entraver les investigations spécifiques
 nécessitées par l'instruction ou à nuire à la dignité de la personne ou aux
-intérêts d'un tiers. La chambre de l'instruction statue sur cette demande,
-
-après avoir recueilli les observations du procureur général et, le cas échéant,
-des avocats des autres parties, par un arrêt rendu en chambre du conseil qui
-n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant
-sur la demande principale.
+intérêts d'un tiers. La chambre de l'instruction statue sur cette demande, après
+avoir recueilli les observations du procureur général et, le cas échéant, des
+avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est
+susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la
+demande principale.
 
 Après le rapport du conseiller, le procureur général et les avocats des parties
 qui en ont fait la demande présentent des observations sommaires.

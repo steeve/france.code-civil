@@ -1,6 +1,6 @@
 Article 201
 ----
-La chambre d'accusation peut, dans tous les cas, à la demande du procureur
+La chambre de l'instruction peut, dans tous les cas, à la demande du procureur
 général, d'une des parties ou même d'office, ordonner tout acte d'information
 complémentaire qu'elle juge utile.
 

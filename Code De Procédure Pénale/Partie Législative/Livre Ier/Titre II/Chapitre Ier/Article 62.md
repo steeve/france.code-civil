@@ -19,3 +19,7 @@ entendre, sous le contrôle d'un officier de police judiciaire, toutes personnes
 susceptibles de fournir des renseignements sur les faits en cause. Ils dressent
 à cet effet, dans les formes prescrites par le présent code, des procès-verbaux
 qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
+
+Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer
+qu'elles ont commis ou tenté de commettre une infraction ne peuvent être
+retenues que le temps strictement nécessaire à leur audition.

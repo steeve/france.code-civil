@@ -1,3 +1,4 @@
 Article 923
 ----
-Pour l'application des articles 359 et 360, la majorité de cinq voix suffit.
+Les majorités de huit ou dix voix prévues par les articles 359 et 362, deuxième
+alinéa, sont remplacées par des majorités de quatre ou cinq voix.

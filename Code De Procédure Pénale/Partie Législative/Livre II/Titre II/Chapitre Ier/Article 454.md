@@ -1,7 +1,8 @@
 Article 454
 ----
-A l'issue de l'audition du témoin, le président et ses assesseurs peuvent
-eux-mêmes poser toute question qu'ils jugent utile.
+Après chaque déposition, le président et, dans les conditions prévues à
+l'article 442-1, le ministère public et les parties posent au témoin les
+questions qu'ils jugent nécessaires.
 
 Le témoin peut se retirer après sa déposition, à moins que le président n'en
 décide autrement.
