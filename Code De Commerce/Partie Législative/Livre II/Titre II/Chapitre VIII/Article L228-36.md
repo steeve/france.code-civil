@@ -1,9 +1,10 @@
 Article L228-36
 ----
-Les sociétés par actions appartenant au secteur public et les sociétés anonymes
-coopératives peuvent émettre des titres participatifs. Ces titres ne sont
-remboursables qu'en cas de liquidation de la société ou, à son initiative, à
-l'expiration d'un délai qui ne peut être inférieur à sept ans et dans les
+Les sociétés par actions appartenant au secteur public et les sociétés
+coopératives constituées sous la forme de société anonyme ou de société à
+responsabilité limitée peuvent émettre des titres participatifs. Ces titres ne
+sont remboursables qu'en cas de liquidation de la société ou, à son initiative,
+à l'expiration d'un délai qui ne peut être inférieur à sept ans et dans les
 conditions prévues au contrat d'émission.
 
 Leur rémunération comporte une partie fixe et une partie variable calculée par
