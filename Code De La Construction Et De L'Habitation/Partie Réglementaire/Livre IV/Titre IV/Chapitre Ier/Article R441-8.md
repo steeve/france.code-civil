@@ -29,6 +29,10 @@ III. - L'organisation représentative des sociétés d'économie mixte de
 construction et de gestion de logements sociaux désigne en outre trois
 représentants.
 
+Chaque organisation de locataires siégeant à la Commission nationale de
+concertation désigne également deux représentants des associations de locataires
+qui lui sont affiliées.
+
 IV. - Tout membre de la conférence régionale du logement d'Ile-de-France peut se
 faire représenter ou donner mandat à un autre membre dans les conditions prévues
 par le règlement intérieur.
