@@ -24,8 +24,11 @@ Maine-et-Loire, de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise,
 des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin, du Haut-Rhin, de
 la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
 
-7° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
+7° Cent vingt-cinq jurés pour les cours d'assises de la Guyane et de la
+Martinique ;
 
-8° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+8° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
 
-9° Cent jurés pour les autres cours d'assises.
+9° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+
+10° Cent jurés pour les autres cours d'assises.
