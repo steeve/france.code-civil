@@ -33,7 +33,10 @@ récipient ;
 délivrée selon le cas, soit en vertu de la législation nationale du fabricant,
 soit en application des articles R. 5124-6, R. 5124-7 et R. 5124-10 ou, le cas
 échéant, copie des récépissés des demandes d'autorisation si lesdites demandes
-n'ont pas encore donné lieu à décision.
+n'ont pas encore donné lieu à décision ;
+
+10° Le cas échéant, un extrait du registre du commerce et des sociétés relatif
+au demandeur.
 
 Dans le cas de fusion ou d'apport partiel d'actifs, les sociétés intéressées
 peuvent déposer une demande de transfert des autorisations de mise sur le marché
@@ -43,5 +46,8 @@ concernant la fusion ou l'apport. Le transfert est accordé sous la condition
 suspensive de la réalisation définitive qui est notifiée au directeur général de
 l'Agence française de sécurité sanitaire des produits de santé.
 
-En cas de silence de l'administration, le transfert prévu au présent article est
-réputé être autorisé à l'expiration d'un délai de deux mois.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé notifie sa décision dans un délai de soixante jours à compter de la date
+de réception de la demande. A défaut, le silence gardé par le directeur général
+de l'Agence française de sécurité sanitaire des produits de santé vaut
+autorisation à l'expiration de ce délai.
