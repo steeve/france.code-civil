@@ -8,9 +8,9 @@ rapportant à ces délits sont susceptibles d'être détenus et procéder à leu
 saisie. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une
-ordonnance du président du tribunal de grande instance du lieu de la direction
-des douanes dont dépend le service chargé de la procédure, ou d'un juge délégué
-par lui.
+ordonnance du juge des libertés et de la détention du tribunal de grande
+instance du lieu de la direction des douanes dont dépend le service chargé de la
+procédure.
 
 L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles
 prévues par le code de procédure pénale ; ce pourvoi n'est pas suspensif. Les
@@ -18,9 +18,6 @@ délais de pourvoi courent à compter de la notification ou de la signification 
 l'ordonnance.
 
 L'ordonnance comporte :
-
-- le cas échéant, mention de la délégation du président du tribunal de grande
-instance ;
 
 - l'adresse des lieux à visiter ;
 
@@ -48,8 +45,9 @@ de le tenir informé de leur déroulement.
 
 La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a
 lieu en dehors du ressort de son tribunal de grande instance, il délivre une
-commission rogatoire, pour exercer ce contrôle, au président du tribunal de
-grande instance dans le ressort duquel s'effectue la visite.
+commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la
+détention du tribunal de grande instance dans le ressort duquel s'effectue la
+visite.
 
 Le juge peut se rendre dans les locaux pendant l'intervention.
 
