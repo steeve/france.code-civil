@@ -10,9 +10,10 @@ garantie et contrôlé le montant garanti par contrat, notifie à l'entreprise
 cessionnaire le montant de la somme qui lui est due et qu'il lui verse en une
 seule fois.
 
-A titre exceptionnel, la commission de contrôle des assurances peut, sur la
-demande du fonds de garantie, lui accorder une prolongation, qui ne saurait être
-supérieure à trois mois, du délai prévu à l'alinéa précédent.
+A titre exceptionnel, la commission de contrôle des assurances, des mutuelles et
+des institutions de prévoyance peut, sur la demande du fonds de garantie, lui
+accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai
+prévu à l'alinéa précédent.
 
 Les sommes dues par le fonds de garantie et non versées portent intérêt aux taux
 éventuellement prévus dans les contrats transférés à compter de la date
