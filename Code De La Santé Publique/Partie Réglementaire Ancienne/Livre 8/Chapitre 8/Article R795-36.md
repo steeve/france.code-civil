@@ -1,0 +1,11 @@
+Article R795-36
+----
+La commission nationale formule, notamment au vu de l'analyse des avis rendus
+par les commissions régionales, des propositions visant à une application
+homogène du dispositif de réparation des conséquences des risques sanitaires.
+Elles sont élaborées à partir de l'examen du fonctionnement de ces commissions
+et de comparaisons portant sur les modalités d'accès aux commissions régionales
+et les avis qu'elles rendent.
+
+Les propositions de la commission nationale sont adressées au ministre de la
+justice et au ministre chargé de la santé ainsi qu'aux commissions régionales.

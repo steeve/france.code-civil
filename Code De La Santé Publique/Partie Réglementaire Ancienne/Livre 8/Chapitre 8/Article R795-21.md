@@ -1,13 +1,34 @@
 Article R795-21
 ----
-Pour évaluer les risques sanitaires environnementaux, l'agence est assistée par
-des comités d'experts spécialisés dont les compétences et la durée du mandat
-sont fixées par un arrêté conjoint des ministres chargés de la santé et de
-l'environnement. Les membres de ces comités et leur président sont nommés dans
-les mêmes conditions sur proposition du directeur général de l'établissement,
-après avis du conseil scientifique. Les modalités de fonctionnement des comités
-d'experts spécialisés sont fixées par le règlement intérieur de l'agence.
+La commission nationale des accidents médicaux instituée par l'article L.
+1142-10 se compose des membres suivants :
 
-Sans préjudice des dispositions de l'article R. 795-27, les membres des comités
-mentionnés au premier alinéa ont droit aux indemnités pour frais de déplacement
-et de séjour dans les conditions prévues à l'article R. 795-9 du présent code.
+1° Cinq experts professionnels de santé figurant sur l'une des listes dressées
+par la Cour de cassation et les cours d'appel en application de l'article 2 de
+la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires, à raison de :
+
+a) Trois exerçant à titre libéral, proposés par le Centre national des
+professions de santé, dont au moins deux médecins ;
+
+b) Deux praticiens des établissements publics de santé mentionnés au 1° de
+l'article L. 6152-1, proposés conjointement par les présidents des conférences
+nationales de présidents de commission médicale d'établissements publics de
+santé ;
+
+2° Quatre représentants des usagers proposés par des associations mentionnées à
+l'article L. 1114-1 et ayant fait l'objet d'un agrément au niveau national ;
+
+3° Seize personnalités qualifiées à raison de :
+
+a) Huit personnalités choisies en raison de leurs compétences dans le domaine du
+droit de la réparation des accidents médicaux ou de la responsabilité médicale
+ou dans la formation en matière d'expertise, dont un représentant du Conseil
+national de l'ordre des médecins et un membre du Conseil d'Etat ou un magistrat
+de l'ordre administratif ou de l'ordre judiciaire, en activité ou honoraire,
+président de la commission nationale ;
+
+b) Huit personnalités choisies en raison de leurs compétences scientifiques.
+
+La commission est assistée d'un commissaire du Gouvernement suppléé par un
+commissaire du Gouvernement adjoint, nommés par arrêté du ministre de la justice
+et du ministre chargé de la santé.

@@ -1,15 +1,11 @@
 Article R795-28
 ----
-Les dispositions du décret n° 86-83 du 17 janvier 1986 sont applicables aux
-agents contractuels de droit public de l'établissement. La délibération
-concernant les conditions de la gestion administrative et financière des
-personnels contractuels de droit public mentionnée au 4° de l'article R. 795-13
-fixe :
+La commission entend celui de ses membres qui a été désigné pour instruire la
+demande d'inscription sur la liste nationale des experts en accidents médicaux.
 
-1° Les missions relevant de chacune des catégories d'emplois ;
+Elle peut se faire communiquer tout renseignement ou document et procéder à
+toutes auditions utiles.
 
-2° L'indemnisation des gardes et astreintes.
-
-Cette délibération détermine également, pour chaque catégorie d'emplois, les
-échelles de rémunération correspondantes ainsi que la durée du temps passé dans
-chacun des échelons.
+Lorsque la commission décide d'inscrire un candidat sur la liste, cette décision
+est notifiée à l'intéressé et prend effet le premier jour du mois civil suivant
+la date de sa notification.

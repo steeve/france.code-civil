@@ -1,7 +1,6 @@
 Article R795-25
 ----
-L'établissement est soumis au contrôle financier de l'Etat institué par le
-décret du 25 octobre 1935 organisant le contrôle financier des offices et des
-établissements autonomes de l'Etat. Les modalités d'exercice du contrôle sont
-fixées par arrêté conjoint des ministres chargés de la santé, de l'environnement
-et du budget.
+La commission établit un règlement intérieur qui fixe notamment ses conditions
+de fonctionnement. Il est transmis aux commissions régionales de conciliation et
+d'indemnisation des accidents médicaux, des affections iatrogènes et des
+infections nosocomiales qui le tiennent à la disposition du public.

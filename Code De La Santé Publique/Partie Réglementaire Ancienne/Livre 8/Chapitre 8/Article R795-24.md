@@ -1,5 +1,4 @@
 Article R795-24
 ----
-Des régies de recettes et d'avances peuvent être instituées conformément aux
-dispositions du décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies
-de recettes et aux régies d'avances des organismes publics.
+Les membres de la commission et les personnes qui prennent part à ses travaux
+sont soumis aux obligations prévues à l'article L. 1421-3-1.
