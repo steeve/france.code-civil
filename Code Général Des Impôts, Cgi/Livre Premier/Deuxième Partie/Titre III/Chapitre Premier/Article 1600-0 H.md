@@ -18,4 +18,7 @@ du livre des procédures fiscales au titre des années visées au I de l'article
 1600-0 G, dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions et qui n'ont pas supporté la
 contribution instituée par l'article 14 de l'ordonnance n° 96-50 du 24 janvier
-1996.
+1996 ;
+
+4. Les plus-values exonérées d'impôt sur le revenu en application du 7 du III de
+l'article 150-0 A au titre des années visées au I de l'article 1600-0 G.

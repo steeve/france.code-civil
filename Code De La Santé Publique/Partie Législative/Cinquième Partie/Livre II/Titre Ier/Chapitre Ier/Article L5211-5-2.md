@@ -6,7 +6,7 @@ qu'ils sont définis à l'article L. 5211-1, mis sur le marché français. Elle 
 exigible des fabricants, ou pour les produits importés hors de la Communauté
 européenne, de leurs mandataires.
 
-Le taux de cette taxe est fixé à 0,15 % du chiffre d'affaires annuel hors taxes
+Le taux de cette taxe est fixé à 0,24 % du chiffre d'affaires annuel hors taxes
 réalisé. La taxe n'est pas exigible lorsque les ventes n'ont pas atteint, au
 cours de l'année civile précédente, un montant hors taxes de 763 000 euros.
 

@@ -71,9 +71,10 @@ des sommes concernées ;
 placement à risques dans les conditions prévues aux I et II de l'article 163
 quinquies B, les distributions effectuées par les sociétés de capital-risque
 dans les conditions prévues aux deuxième à cinquième alinéas du I et aux
-deuxième à sixième alinéas du II de l'article 163 quinquies C, lors de leur
-versement, ainsi que les gains nets mentionnés aux 1 et 1 bis du III de
-l'article 150-0 A ;
+deuxième à sixième alinéas du II de l'article 163 quinquies C et celles
+effectuées par les sociétés unipersonnelles d'investissement à risque dans les
+conditions prévues à l'article 163 quinquies C bis, lors de leur versement,
+ainsi que les gains nets mentionnés aux 1 et 1 bis du III de l'article 150-0 A ;
 
 9. Les gains nets et les produits des placements en valeurs mobilières effectués
 en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du

@@ -6,13 +6,14 @@ santé ou par la Communauté européenne sont frappées d'une taxe annuelle per�
 au profit de l'Agence française de sécurité sanitaire des produits de santé.
 
 La taxe annuelle prévue à l'alinéa précédent est fixée par décret dans la limite
-de 20 000 F par spécialité pharmaceutique et produit bénéficiant d'une
+de 17 000 euros par spécialité pharmaceutique et produit bénéficiant d'une
 autorisation de mise sur le marché. Elle est due par le titulaire de cette
 autorisation.
 
-La taxe n'est pas exigible pour les médicaments ou produits dont les ventes, à
-l'exclusion des ventes à l'exportation, n'ont pas atteint, au cours de l'année
-civile précédente, un montant hors taxe de 500 000 F.
+L'assiette de la taxe est constituée par le montant des ventes de chaque
+médicament ou produit réalisées au cours de l'année civile précédente, à
+l'exclusion des ventes à l'exportation. Le barème de la taxe comporte au moins
+cinq tranches.
 
 Lorsqu'un médicament ou produit est présenté en plusieurs conditionnements d'une
 contenance différente, c'est le montant total des ventes du médicament ou

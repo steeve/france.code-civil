@@ -14,8 +14,8 @@ Du prix des constructions en ce qui concerne les biens de cette nature ;
 Du prix des matériels et outillages en ce qui concerne les autres
 immobilisations amortissables.
 
-Ces indices sont déterminés par arrêté du ministre de l'économie et des finances
-(1).
+Ces indices sont déterminés par arrêté du ministre de l'économie et des
+finances.
 
 II. Les plus-values de réévaluation des immobilisations amortissables sont
 portées directement, en franchise d'impôt, à une provision spéciale figurant au
@@ -56,16 +56,15 @@ effectuée dans les écritures du premier exercice clos à dater du 31 décembre
 1976 ou des trois exercices suivants.
 
 V. Un décret en Conseil d'Etat, pris après avis du conseil national de la
-comptabilité (2), fixe les conditions d'application du présent article, les
+comptabilité, fixe les conditions d'application du présent article, les
 modalités de réévaluation, notamment celles applicables aux immeubles bâtis, la
 nature des obligations incombant aux entreprises.
 
 Il précise les règles de détermination, d'un point de vue fiscal, des plus ou
 moins-values de cession d'immobilisations amortissables, réévaluées de telle
 façon que la réévaluation prévue au présent article s'accompagne d'une parfaite
-neutralité fiscale, ainsi que des amortissements différés ou réputés différés.
-Il adapte les dispositions du présent article aux professions agricoles et
-libérales.
+neutralité fiscale, ainsi que des amortissements différés. Il adapte les
+dispositions du présent article aux professions agricoles et libérales.
 
 VI. Les déficits reportables au 31 décembre 1976 peuvent être imputés, du point
 de vue fiscal, sur la provision spéciale.
