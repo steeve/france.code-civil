@@ -1,6 +1,6 @@
 Article D613-5
 ----
-Sont applicables au régime d'assurance maladie et maternité des travailleurs
+Sont applicables au régime d'assurance maladie et maternité des travailleurs non
 salariés des professions non agricoles les dispositions des articles D. 253-5,
 D. 253-11, D. 253-13, D. 253-18, D. 253-26, D. 253-28, D. 253-54, D. 253-56, D.
 253-72 et D. 253-73, D. 253-76 à D. 253-83, l'article D. 253-15, à l'exception

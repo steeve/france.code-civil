@@ -10,4 +10,4 @@ vérification de sa gestion par la caisse nationale intéressée.
 D'autre part, le conseil d'administration ne peut délivrer un certificat de
 quitus au délégué de l'agent comptable ou aux caissiers et agents ayant obtenu
 délégation de l'agent comptable dans les conditions fixées par l'article D.
-623-14 qu'après avoir recueilli l'avis favorable de l'agent comptable.
+253-13 qu'après avoir recueilli l'avis favorable de l'agent comptable.
