@@ -16,10 +16,8 @@ par le tiers abatteur pour le compte du propriétaire.
 III. Les taux maxima de la taxe sont les suivants :
 
 - Pour la viande de boeuf et la viande de veau ainsi que pour les viandes des
-espèces chevaline, asine et de leurs croisements :
-
-0,40 % du prix d'orientation communautaire défini pour un kilogramme de poids
-vif de gros bovin ;
+espèces chevaline, asine et de leurs croisements : 0,40 % du prix d'orientation
+communautaire défini pour un kilogramme de poids vif de gros bovin ;
 
 - Pour la viande de porc : 0,40 % du prix de base communautaire par kilogramme
 de viande de porc abattu ;
@@ -32,11 +30,13 @@ fixe les montants de la taxe effectivement perçue par espèce dans les limites
 prévues ci-dessus (1).
 
 IV. La taxe est perçue dans les établissements d'abattage publics et privés sur
-les abattages opérés en vue de la vente. Elle est constatée et recouvrée comme
-en matière de taxe sur la valeur ajoutée, avec les garanties et sanctions
-applicables à cette taxe (2).
+les abattages opérés en vue de la vente.
+
+Elle est constatée et recouvrée suivant les mêmes règles, sous les mêmes
+garanties, privilèges et sanctions qu'en matière de taxe sur la valeur ajoutée.
+Pour son assiette et sa liquidation, sont applicables les dispositions des
+articles 111 quater A, 111 quater B, 111 quater C, 111 quater E, 111 quater F,
+111 quater G, 111 quater H et 111 quater I du chapitre IV de l'annexe III au
+code général des impôts.
 
 (1) Annexe IV, art. 159 AO.
-
-(2) Pour les modalités de calcul du poids de viande net, voir Annexe III, art.
-111 quater A à 111 quater I.
