@@ -20,7 +20,7 @@ révision :
 
 a) Le salaire minimum national professionnel du salarié sans qualification,
 
-b) les coefficients hiérarchiques afférents aux diverses qualifications
+b) Les coefficients hiérarchiques afférents aux diverses qualifications
 professionnelles,
 
 c) Les majorations pour travaux pénibles, physiquement ou nerveusement,
@@ -44,9 +44,9 @@ formation professionnelle et de la formation permanente dans le cadre de la
 branche considérée, y compris des modalités particulières aux personnes
 handicapées ;
 
-9° L'égalité de traitement entre les salariés des deux sexes et les mesures de
-rattrapage tendant à remédier aux inégalités constatées. L'égalité de traitement
-s'applique notamment à l'accès à l'emploi, à la formation et à la promotion
+9° L'égalité professionnelle entre les femmes et les hommes et les mesures de
+rattrapage tendant à remédier aux inégalités constatées. Ces mesures
+s'appliquent notamment à l'accès à l'emploi, à la formation et à la promotion
 professionnelle et aux conditions de travail et d'emploi ;
 
 10° L'égalité de traitement entre les salariés français et étrangers, notamment
@@ -58,7 +58,8 @@ l'obligation d'emploi prévue à l'article L. 323-9 ;
 
 12° En tant que de besoin dans la branche :
 
-a) Les conditions particulières de travail des femmes et des jeunes,
+a) Les conditions particulières de travail des femmes enceintes ou allaitant et
+des jeunes,
 
 b) Les conditions d'emploi et de rémunération du personnel à temps partiel,
 

@@ -1,7 +1,7 @@
 Article L154-2
 ----
-Toute infraction aux dispositions des articles L. 148-1 à
-
-L. 148-3 est punie d'une amende de 2.000 F à 20.000 F et, en cas de récidive,
-d'une amende de 10.000 F à 40.000 F [*taux résultant de la loi du 30 décembre
-1977*].
+En cas de contravention aux dispositions de l'article L. 144-3, le tribunal peut
+ordonner l'insertion du jugement dans un journal de la localité [*publicité*]
+aux frais du condamné si, dans les douze mois qui ont précédé la contravention,
+le contrevenant a encouru une condamnation pour infraction aux dispositions de
+l'article L. 144-3.
