@@ -1,6 +1,6 @@
 Article L4411-12
 ----
-Le Conseil territorial de l'ordre des chirurgiens-dentistes ainsi que celui des
+Le conseil de l'ordre des chirurgiens-dentistes de Mayotte ainsi que celui des
 sages-femmes sera constitué à Mayotte lorsque le nombre de chirurgiens-dentistes
 ou de sages-femmes exerçant dans cette collectivité et remplissant les
 conditions d'éligibilité prévues par l'article L. 4123-5 sera au moins le double

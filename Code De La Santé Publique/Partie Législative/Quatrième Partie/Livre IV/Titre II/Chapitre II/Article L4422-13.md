@@ -1,4 +1,5 @@
 Article L4422-13
 ----
-Dans le territoire des îles Wallis et Futuna, la fonction juridictionnelle de
-l'ordre des pharmaciens est exercée par la section F de cet ordre.
+A l'article L. 4234-6, les mots : ", par l'intermédiaire du directeur des
+affaires sanitaires et sociales" ne s'appliquent pas au territoire des îles
+Wallis et Futuna.

@@ -1,15 +1,17 @@
 Article L4422-1
 ----
-Les dispositions suivantes du livre II de la présente partie sont applicables
-dans le territoires des îles Wallis et Futuna, sous réserve des dispositions des
-articles L. 4422-3 à L. 4422-12 :
+Sous réserve des adaptations prévues au présent chapitre, les dispositions
+suivantes du livre II de la présente partie sont applicables dans le territoire
+des îles Wallis et Futuna :
 
-a) Le titre Ier, à l'exception des articles L. 4211-6 à L. 4211-8, L. 4212-1, L.
-4212-3 et L. 4212-6 ;
+- le titre Ier à l'exception des articles L. 4211-6, L. 4211-7, L. 4212-1 et L.
+4212-3 ;
 
-b) Les chapitres Ier et II du titre II, à l'exception des articles L. 4221-15 et
-L. 4221-17 et L. 4222-1 à L. 4222-4 ;
+- les chapitres Ier et II du titre II, à l'exception des articles L. 4222-1 à L.
+4222-4 ;
 
-c) Le titre III, à l'exception des articles L. 4232-3 à L. 4232-10, L. 4232-15 ;
+- les articles L. 4223-4 et L. 4223-5 du titre III ;
 
-d) Le chapitre Ier du titre IV, à l'exception de l'article L. 4241-9.
+- le titre III à l'exception des articles L. 4232-3 à L. 4232-9 et L. 4232-15 ;
+
+- le chapitre Ier du titre IV, à l'exception de l'article L. 4232-15.

@@ -8,4 +8,4 @@ partie :
 articles L. 4311-11, L. 4311-14, des trois derniers alinéas de l'article L.
 4311-15, des articles L. 4311-17, L. 4311-22 et L. 4311-28 ;
 
-2° Les chapitres III et IV, à l'exception de l'article L. 4313-2.
+2° Le chapitre IV, à l'exception de l'article L. 4313-2.

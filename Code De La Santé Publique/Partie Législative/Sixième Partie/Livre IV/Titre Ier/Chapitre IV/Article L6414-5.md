@@ -42,3 +42,8 @@ l'hospitalisation.
 Les délibérations mentionnées au 3° sont soumises au directeur de l'agence
 régionale de l'hospitalisation en vue de leur approbation dans les conditions
 fixées aux articles L. 6414-7, L. 6414-8 et L. 6414-9.
+
+Pour ce qui concerne les délibérations relatives au règlement intérieur des
+établissements et unités d'hospitalisation accueillant des malades atteints de
+troubles mentaux, le directeur de l'agence régionale d'hospitalisation saisit,
+pour avis, le représentant de l'Etat à Mayotte.

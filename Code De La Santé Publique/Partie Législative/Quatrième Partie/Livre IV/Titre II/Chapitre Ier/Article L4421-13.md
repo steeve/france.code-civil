@@ -3,22 +3,28 @@ Article L4421-13
 Pour son application dans le territoire des îles Wallis et Futuna, l'article L.
 4124-6 est ainsi rédigé :
 
-" Dans le territoire des îles Wallis et Futuna, les peines disciplinaires que le
-conseil régional ou interrégional peut appliquer sont les suivantes :
+" Dans le territoire des îles Wallis et Futuna, les peines disciplinaires que la
+chambre disciplinaire de première instance peut appliquer sont les suivantes :
 
 1° L'avertissement ;
 
 2° Le blâme ;
 
-3° L'interdiction temporaire ou permanente d'exercer une, plusieurs ou la
-totalité des fonctions de médecin, de chirurgien-dentiste ou de sage-femme,
-conférées ou rétribuées par l'Etat, les départements, les communes, les
-collectivités territoriales, les territoires d'outre-mer, les établissements
-publics, les établissements reconnus d'utilité publique ou des fonctions
-médicales accomplies en application des lois sociales ;
+3° L'interdiction temporaire avec ou sans sursis ou l'interdiction permanente
+d'exercer une, plusieurs ou la totalité des fonctions de médecin, de
+chirurgien-dentiste ou de sage-femme, conférées ou rétribuées par l'Etat, les
+départements, les communes, les collectivités territoriales, les territoires
+d'outre-mer, les établissements publics, les établissements reconnus d'utilité
+publique ou des fonctions médicales accomplies en application des lois sociales
+;
 
-4° L'interdiction temporaire d'exercer ; cette interdiction ne pouvant excéder
-trois années ;
+4° L'interdiction temporaire d'exercer avec ou sans sursis ; cette interdiction
+ne pouvant excéder trois années. Si, pour des faits commis dans un délai de cinq
+ans à compter de la notification d'une sanction assortie d'un sursis, dès lors
+que cette sanction est devenue définitive, la juridiction prononce l'une des
+sanctions prévues aux 3° et 4°, elle peut décider que la sanction, pour la
+partie assortie du sursis, devient exécutoire sans préjudice de l'application de
+la nouvelle sanction ;
 
 5° La radiation du tableau de l'ordre.
 

@@ -16,8 +16,8 @@ propositions mentionnées à l'article L. 1411-3. Il prévoit les délais de mis
 oeuvre de la procédure d'accréditation mentionnée à l'article L. 6113-3 à L.
 6113-6.
 
-Il favorise la participation des établissements aux réseaux de soins mentionnés
-à l'article L. 6121-5 ainsi qu'aux actions de coopération prévues au présent
+Il favorise la participation des établissements aux réseaux de santé mentionnés
+à l'article L. 6321-1 ainsi qu'aux actions de coopération prévues au présent
 titre.
 
 Il précise les dispositions relatives à la gestion des ressources humaines

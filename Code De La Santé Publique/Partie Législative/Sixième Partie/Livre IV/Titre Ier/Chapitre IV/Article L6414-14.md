@@ -31,8 +31,8 @@ sur le rapport prévu à l'article L. 6414-6 ; sur le projet de budget, sur les
 comptes de l'établissement, ainsi que sur tous les aspects techniques et
 financiers des activités médicales, odontologiques et pharmaceutiques ;
 
-6° Emet un avis sur la constitution d'un réseau de soins mentionné à l'article
-L. 6121-5 ; ainsi que sur les actions de coopération mentionnées au chapitre II
+6° Emet un avis sur la constitution d'un réseau de santé mentionné à l'article
+L. 6321-1 ; ainsi que sur les actions de coopération mentionnées au chapitre II
 du présent titre en ce qu'elles concernent la création d'un syndicat public,
 d'un groupement d'intérêt économique, l'affiliation ou l'adhésion à ces
 structures ou le retrait de l'une d'elles, et les conventions concernant les

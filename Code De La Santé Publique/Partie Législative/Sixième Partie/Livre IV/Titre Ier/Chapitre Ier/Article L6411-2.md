@@ -7,3 +7,6 @@ en tenant compte des aspects psychologiques du patient.
 Il participe à des actions de santé publique, notamment toutes actions
 médico-sociales coordonnées, et à des actions d'éducation pour la santé et de
 prévention. En outre, il met en oeuvre certaines de ces actions.
+
+Il mène, en son sein, une réflexion sur les questions éthiques posées par
+l'accueil et la prise en charge médicale.

@@ -5,7 +5,7 @@ Sont applicables à Mayotte, sous réserve des dispositions des articles L. 1515
 
 1° Le titre Ier ;
 
-2° Le chapitre Ier, le chapitre III et les articles L. 1324-3 et L. 1324-4 du
+2° Le chapitre Ier, le chapitre III et les articles L. 1324-3 à L. 1324-5 du
 titre II ;
 
 3° Le titre III, à l'exception des articles L. 1331-12 à L. 1331-16, L. 1331-24,

@@ -6,7 +6,7 @@ Au premier alinéa, les mots " par les régimes obligatoires de sécurité socia
 sont remplacés par les mots : " par le régime de protection sociale applicable à
 Wallis et Futuna ".
 
-La dernière phrase du quatrième alinéa est ainsi rédigée :
+L'alinéa suivant est ajouté après le quatrième alinéa :
 
 " Lorsque le champ d'application de ces conventions intéresse le territoire des
 îles Wallis et Futuna et un ou plusieurs départements, collectivités

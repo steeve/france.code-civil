@@ -1,4 +1,6 @@
 Article L4414-2
 ----
-A l'article L. 4322-2, les mots : " ou titulaires des autorisations prévues aux
-articles L. 4322-5 et L. 4322-6 " ne s'appliquent pas à Mayotte.
+Les dispositions des trois derniers alinéas de l'article L. 4311-15 et celles
+des articles L. 4311-16 à L. 4311-21, L. 4311-26 et L. 4311-27 sont applicables
+aux masseurs-kinésithérapeutes, aux pédicures-podologues, aux orthophonistes et
+aux orthoptistes de Mayotte.

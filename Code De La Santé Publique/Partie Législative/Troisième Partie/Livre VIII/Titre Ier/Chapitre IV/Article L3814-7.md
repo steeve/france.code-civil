@@ -10,9 +10,11 @@ supérieur d'appel ;
 
 2° D'un magistrat désigné par le président du tribunal supérieur d'appel ;
 
-3° De deux personnalités qualifiées et d'un représentant d'une organisation
-représentative des familles de personnes atteintes de troubles mentaux désignés
-par le représentant de l'Etat.
+3° De deux représentants d'associations agréées de personnes malades et de
+familles de personnes atteintes de troubles mentaux, ou, à défaut, de deux
+personnalités qualifiées, désignées par le représentant de l'Etat ;
+
+4° D'un médecin généraliste désigné par le représentant de l'Etat.
 
 Les membres de la commission ne peuvent, en dehors du cadre des attributions de
 la commission, faire état des informations qu'ils ont pu recueillir sur les

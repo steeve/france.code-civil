@@ -16,7 +16,7 @@ santé, notamment dans le cadre du contrat qui le lie à l'agence régionale de
 l'hospitalisation territorialement compétente. Dans un délai de cinq ans à
 compter du 31 décembre 1996, cette procédure devra avoir été engagée.
 
-Les réseaux de soins mentionnés à l'article L. 6121-5 sont également soumis à
+Les réseaux de santé mentionnés à l'article L. 6321-1 sont également soumis à
 cette obligation.
 
 En l'absence de contrat pluriannuel d'objectifs et de moyens mentionné à

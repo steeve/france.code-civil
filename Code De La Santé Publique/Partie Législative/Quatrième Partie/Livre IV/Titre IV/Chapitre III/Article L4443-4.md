@@ -20,11 +20,9 @@ La chambre de discipline prononce, s'il y a lieu, l'une de peines suivantes :
 
 4° L'interdiction définitive d'exercer la pharmacie.
 
-Ces deux dernières sanctions, dont les autorités exécutives de la
-Nouvelle-Calédonie ou de la Polynésie française assurent l'exécution, comportent
-l'interdiction définitive de faire partie d'un conseil régional, central, du
-conseil national, d'un organe ou d'une chambre de discipline de l'ordre des
-pharmaciens.
+Ces deux dernières sanctions comportent l'interdiction définitive de faire
+partie d'un conseil régional, central, du conseil national, d'un organe ou d'une
+chambre de discipline de l'ordre des pharmaciens.
 
 Les sanctions prononcées en exécution du présent article sont susceptibles
 d'appel devant le Conseil national de l'ordre des pharmaciens dans le mois qui
@@ -36,3 +34,7 @@ tout intéressé.
 Les peines et interdictions prononcées en application du présent article sont
 portées à la connaissance du Conseil national de l'ordre des pharmaciens par la
 chambre de discipline.
+
+Les sanctions devenues définitives ont force exécutoire. La chambre
+disciplinaire fixe la date de départ de l'interdiction qu'elle prononce en
+application du 3° ou du 4° du présent article.

@@ -8,7 +8,7 @@ par la loi n° 98-144 du 6 mars 1998 portant ratification et modification de
 l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la
 santé publique à Mayotte ".
 
-La dernière phrase du quatrième alinéa est ainsi rédigée :
+L'alinéa suivant est ajouté après le quatrième alinéa :
 
 " Lorsque le champ d'application de ces conventions intéresse Mayotte et un ou
 plusieurs départements, elles sont, avant leur mise en oeuvre, soumises pour

@@ -1,10 +1,17 @@
 Article L1511-3
 ----
-L'établissement public de santé territorial est tenu de communiquer aux
-personnes recevant ou ayant reçu des soins, sur leur demande et par
-l'intermédiaire du praticien qu'elles désignent, les informations médicales
-contenues dans leur dossier médical. Les praticiens qui ont prescrit
-l'hospitalisation ont accès, sur leur demande, à ces informations.
+L'établissement public de santé est tenu de communiquer aux personnes recevant
+ou ayant reçu des soins, sur leur demande, les informations médicales définies à
+l'article L. 1111-7. Les praticiens qui ont prescrit l'hospitalisation ont
+accès, sur leur demande, à ces informations.
+
+Cette communication est effectuée, au choix de la personne concernée,
+directement ou par l'intermédiaire d'un médecin qu'elle désigne.
+
+Les établissements de santé proposent un accompagnement médical aux personnes
+qui le souhaitent lorsqu'elles demandent l'accès aux informations les
+concernant. Le refus de cet accompagnement ne fait pas obstacle à la
+consultation de ces informations.
 
 Dans le respect des règles déontologiques qui leur sont applicables, les
 praticiens de l'établissement assurent l'information des personnes soignées. Les
@@ -20,5 +27,6 @@ organismes d'assurance maladie ont accès, dans le respect des règles de
 déontologie médicale, à ces informations lorsqu'elles sont nécessaires à
 l'exercice de leurs missions.
 
-Les modalités d'application du présent article sont fixées par voie
+Les modalités d'application du présent article, notamment la procédure d'accès
+aux informations médicales définies à l'article L. 1111-7, ont fixées par voie
 réglementaire, après avis du Conseil national de l'ordre des médecins.

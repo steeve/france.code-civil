@@ -17,7 +17,8 @@ diagnostic, la surveillance et le traitement des malades, des blessés et des
 femmes enceintes en tenant compte des aspects psychologiques et culturels et en
 garantissant l'égal accès aux soins qu'elle dispense à toutes les personnes dont
 l'état requiert ses services. Elle doit être en mesure de les accueillir de jour
-et de nuit, éventuellement en urgence ;
+et de nuit, éventuellement en urgence Elle mène une réflexion sur les questions
+éthiques posées par l'accueil et la prise en charge médicale ;
 
 3. En cas de nécessité, elle assure leur transfert dans un autre établissement
 apte à dispenser les soins requis par leur état ;
