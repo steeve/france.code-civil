@@ -20,20 +20,20 @@ laboratoires afférents à des soins dispensés dans les mêmes conditions ;
 2°) 20 p. 100 du tarif de responsabilité de la caisse pour les frais
 d'hospitalisation dans un établissement public ou privé ;
 
-3°) 25 p. 100 pour les frais d'honoraires des praticiens, sauf pour ceux qui
+3°) 30 p. 100 pour les frais d'honoraires des praticiens, sauf pour ceux qui
 sont mentionnés au 1° ci-dessus ;
 
-4°) 35 p. 100 pour les frais d'honoraires des auxiliaires médicaux, sauf pour
+4°) 40 p. 100 pour les frais d'honoraires des auxiliaires médicaux, sauf pour
 ceux qui sont mentionnés au 1° ci-dessus, et pour les frais d'analyses ou de
-laboratoires, sauf pour ceux qui sont mentionnés au 1°ci-dessus ;
+laboratoires, sauf pour ceux qui sont mentionnés au 1° ci-dessus ;
 
-5°) 60 p. 100 pour les médicaments principalement destinés au traitement des
+5°) 65 p. 100 pour les médicaments principalement destinés au traitement des
 troubles ou affections sans caractère habituel de gravité [*médicaments de
 confort*], figurant sur une liste établie par arrêté du ministre chargé de la
 santé et du ministre chargé de la sécurité sociale, après avis de la commission
 instituée par l'article R. 163-8 ;
 
-6°) 30 p. 100 pour tous les autres frais, y compris les frais de transport
+6°) 35 p. 100 pour tous les autres frais, y compris les frais de transport
 prévus au 1° de l'article L. 321-1.
 
 La participation de l'assuré en ce qui concerne les frais de transport n'est pas
