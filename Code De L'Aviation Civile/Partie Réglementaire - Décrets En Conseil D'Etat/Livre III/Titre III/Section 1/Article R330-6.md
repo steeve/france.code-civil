@@ -1,9 +1,9 @@
 Article R330-6
 ----
-Les programmes généraux d'achat et de location de matériel volant sont soumis
-par les entreprises agréées à l'approbation préalable du ministre chargé de
-l'aviation civile. Ils doivent comporter des propositions précises sur les
-différents types d'appareils, leur nombre et la durée probable de réalisation
-des programmes. Ils sont approuvés après avis du conseil supérieur de l'aviation
-marchande en fonction des besoins du marché, des progrès techniques et de la
-politique générale d'investissements.
+L'avis du Conseil supérieur de l'aviation marchande prévu aux articles R. 330-1,
+R. 330-5 et R. 330-12 et au I de l'article 4 du décret n° 93-421 du 17 mars 1993
+n'est pas requis lorsque l'entreprise intéressée exploite exclusivement des
+aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une
+capacité inférieure à vingt sièges sauf si cette entreprise exploite des
+services réguliers ou si son chiffre d'affaires annuel dépasse un montant
+équivalant à trois millions d'écus.
