@@ -14,5 +14,11 @@ Dans les autres localités : 2 F ;
 Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
 Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des
-frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du code de
-la route.
+frais de garde journalière sont fixés ainsi qu'il suit :
+
+Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à
+3,5 tonnes : 40 F ;
+
+Pour les voitures particulières et les autres véhicules poids lourds : 21 F ;
+
+Pour les autres véhicules immatriculés : 16 F.

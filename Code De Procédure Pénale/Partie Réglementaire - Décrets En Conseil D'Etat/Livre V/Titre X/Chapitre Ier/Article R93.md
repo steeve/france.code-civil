@@ -61,6 +61,9 @@ l'administration pénitentiaire.
 18° Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de
 la consommation.
 
-19° Les frais d'impression, d'insertion et de publication des arrêts, jugements
-et ordonnances de justice selon les dispositions des articles R. 210 et
-suivants.
+19° Les frais d'impression, d'insertion, de publication et de diffusion
+audiovisuelle des arrêts, jugements et ordonnances de justice en application de
+l'article 131-35 du code pénal.
+
+20° Les frais d'une immobilisation décidée en application du 5° de l'article
+131-6 et du 2° de l'article 131-14 du code pénal.

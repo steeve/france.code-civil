@@ -4,9 +4,8 @@ Il est alloué aux magistrats et aux personnels exerçant les fonctions de
 greffier des indemnités pour frais de voyage et de séjour nécessités :
 
 1° Par les transports effectués en matière criminelle, correctionnelle ou de
-police, dans les cas prévus par le Code de procédure pénale, notamment aux
-articles 54, 56, 62, 63, 68, 69, 72, 74, 92, 93, 112, 151, 205, 654, 680 et 713
-ou par des lois spéciales ;
+police, dans les cas prévus par le Code de procédure pénale ou par des lois
+spéciales ;
 
 2° Par les transports du président de la chambre d'accusation à l'effet de
 s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour
@@ -14,9 +13,9 @@ d'appel, conformément aux dispositions de l'article 220 ;
 
 3° (dispositions abrogées)
 
-4° Par les transports des magistrats de la cour d'appel qui siègent comme
-présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du
-ressort, et du procureur général ou de ses substituts qui vont y porter la
+4° Par les transports des magistrats du ressort de la cour d'appel qui siègent
+comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu
+du ressort, et du procureur général ou de ses substituts qui vont y porter la
 parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et
 extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le
 siège du ministère public devant les tribunaux d'instance de son ressort, en
