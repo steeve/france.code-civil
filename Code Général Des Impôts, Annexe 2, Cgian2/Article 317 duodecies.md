@@ -19,7 +19,5 @@ sont établis par un arrêté ministériel qui fixe, en outre les obligations
 incombant aux propriétaires de véhicules exonérés de la taxe (1).
 
 La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une
-taxe de 10 F qui est perçue selon les modalités fixées par arrêté du ministre
-chargé du budget (1).
-
-(1) Annexe IV, art. 155 C à 155 J.
+taxe de 1,50 euro qui est perçue selon les modalités fixées par arrêté du
+ministre chargé du budget (1).

@@ -1,7 +1,7 @@
 Article 102 SA
 ----
 I. Pour apprécier si la proportion de 25 p. 100 ou de 10 p. 100 ou si le montant
-de 150 millions de francs, mentionnés aux I et I bis de l'article 209 B du code
+de 22 800 000 euros, mentionnés aux I et I bis de l'article 209 B du code
 général des impôts, est atteint, il y a lieu de retenir le pourcentage ou le
 montant du prix de revient de la participation constatés à la clôture de
 l'exercice de la société ou du groupement établis hors de France ou, s'il est

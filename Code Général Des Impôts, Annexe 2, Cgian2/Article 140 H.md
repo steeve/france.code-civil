@@ -8,5 +8,5 @@ Le préfet peut également former un recours contre les décisions du comité
 départemental dans les deux mois suivant l'adoption de ces décisions.
 
 La commission spéciale connaît des décisions des comités départementaux lorsque
-le montant de l'exonération demandée en première instance est supérieur à 1.000
-F.
+le montant de l'exonération demandée en première instance est supérieur à 150
+euros.

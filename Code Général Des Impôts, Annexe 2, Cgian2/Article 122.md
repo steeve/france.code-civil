@@ -49,11 +49,10 @@ société agréée.
 La limite de l'imputation est calculée, au titre de l'exercice sur les bénéfices
 duquel la distribution est prélevée, à partir du total ainsi formé.
 
-5. Les montants des impôts étrangers imputables sont convertis en francs
-français à la date de clôture de l'exercice au titre duquel ils ont été
-acquittés. Il incombe à la société agréée d'apporter la preuve du paiement
-effectif de ces impôts. Les rappels ou les dégrèvements d'impôts imputables
-doivent être notifiés à l'administration dans le délai mentionné au 3 de
-l'article 128. Les bases de l'impôt sur les sociétés dû au titre de l'exercice
-auquel se rapportent ces rappels ou ces dégrèvements sont régularisées en
-conséquence.
+5. Les montants des impôts étrangers imputables sont convertis en euros à la
+date de clôture de l'exercice au titre duquel ils ont été acquittés. Il incombe
+à la société agréée d'apporter la preuve du paiement effectif de ces impôts. Les
+rappels ou les dégrèvements d'impôts imputables doivent être notifiés à
+l'administration dans le délai mentionné au 3 de l'article 128. Les bases de
+l'impôt sur les sociétés dû au titre de l'exercice auquel se rapportent ces
+rappels ou ces dégrèvements sont régularisées en conséquence.

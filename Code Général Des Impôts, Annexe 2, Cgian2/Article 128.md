@@ -13,8 +13,8 @@ consolidé. A cette déclaration doivent être annexés :
 pour chacune des exploitations directes et indirectes situées hors de France,
 l'ensemble des documents exigés des sociétés passibles de l'impôt sur les
 sociétés en annexe à la déclaration de leurs résultats, y compris le bilan et le
-compte de résultats établis en monnaie française suivant les règles fixées par
-les articles 113 à 134 ;
+compte de résultats établis en euros suivant les règles fixées par les articles
+113 à 134 ;
 
 le bilan et le compte de résultats de chacune de ces exploitations fournis aux
 administrations fiscales des pays où elles sont situées, dans tous les cas où

@@ -7,7 +7,7 @@ et documents suivants :
 
 a) Le nom ou la raison sociale ainsi que l'adresse du siège social, l'objet,
 l'activité, le lieu de la résidence fiscale et la proportion de la participation
-visée à l'article 102 SA en ce qui concerne les sociétés établies hors de
+visée à l'article 102 SA en ce qui concerne les sociétés, établies hors de
 France, créées ou acquises avant le 30 septembre 1992 et soumises à un régime
 fiscal privilégié, dans lesquelles elle détient, directement ou indirectement au
 sens du premier alinéa du 2 du I bis de l'article 209 B du code général des
@@ -22,19 +22,19 @@ fiscal privilégié et pour lesquelles des acquisitions ou des souscriptions de
 participations mentionnées au I bis de l'article 209 B du code général des
 impôts, intervenues à compter du 30 septembre 1992, permettent d'atteindre la
 détention de 10 p. 100 ou, si ce taux est déjà atteint, de le maintenir ou de
-l'augmenter, ou qui permettent d'atteindre le montant de 150 millions de francs
+l'augmenter, ou qui permettent d'atteindre le montant de 22 800 000 euros
 mentionné au 1 du I bis du même article, ou d'augmenter le montant de la
 participation si ce seuil est déjà atteint ;
 
 c) Le nom ou la raison sociale ainsi que l'adresse du siège, l'objet,
 l'activité, le lieu de la résidence fiscale et la proportion de la participation
-visée à l'article 102 SA en ce qui concerne les sociétés ou groupements établis
+visée à l'article 102 SA en ce qui concerne les sociétés ou groupements, établis
 hors de France, créés ou acquis à compter du 30 septembre 1992 et soumis à un
 régime fiscal privilégié, dans lesquels elle détient, directement ou
 indirectement au sens du premier alinéa du 2 du I bis de l'article 209 B du code
 général des impôts, 10 p. 100 au moins des actions, parts, droits financiers ou
 droits de vote, ou possède une participation dont le prix de revient est égal ou
-supérieur à 150 millions de francs ;
+supérieur à 22 800 000 euros ;
 
 d) Le lieu d'exercice et l'objet de l'activité de chaque entreprise établie hors
 de France soumise à un régime fiscal privilégié et créée ou acquise à compter du
@@ -66,8 +66,8 @@ titre de l'article 209 B du code général des impôts et le montant cumulé des
 distributions reçues de ces sociétés.
 
 II. Toutefois, les entreprises ou les personnes morales, passibles de l'impôt
-sur les sociétés, qui estiment relever des dispositions de l'article 209 B II ou
-du II bis du code général des impôts peuvent se limiter à indiquer dans leur
-déclaration les renseignements mentionnés aux a à e du I du présent article. La
-production de cette liste vaut indication expresse au sens de l'article 1732 du
-même code.
+sur les sociétés, qui estiment relever des dispositions du II ou du II bis de
+l'article 209 B du code général des impôts peuvent se limiter à indiquer dans
+leur déclaration les renseignements mentionnés aux a à e du I du présent
+article. La production de cette liste vaut indication expresse au sens de
+l'article 1732 du même code.
