@@ -4,13 +4,18 @@ Les prêts sont consentis à taux fixes ou à taux révisables. Ils sont accord�
 pour une durée maximum de vingt ans, non compris la durée du préfinancement
 prévue à l'article R. 331-57.
 
-Ils sont assortis d'un différé d'amortissement de deux ans.
+Les prêts à taux fixes peuvent être consentis à annuités constantes ou à
+annuités progressives.
 
-A compter du 29 avril 1984, le nombre et la durée des périodes successives des
-prêts, les taux d'intérêt applicables à ces périodes et le rythme de la
-progressivité des charges en cours d'amortissement sont, nonobstant les
-dispositions de l'article R. 331-54-1, fixés par arrêté des ministres chargés de
-la construction et de l'habitation et des finances, en tenant compte du coût des
+Les prêts à taux fixes ou à taux variables consentis à annuités progressives
+sont assortis d'un différé d'amortissement de deux ans.
+
+Les prêts à taux fixes consentis à annuités constantes peuvent être précédés
+d'une période d'anticipation.
+
+Les caractéristiques financières de ces prêts sont, nonobstant les dispositions
+de l'article R. 331-54-1, fixées par arrêté des ministres chargés de la
+construction et de l'habitation et des finances, en tenant compte du coût des
 ressources concourant à leur financement et du niveau de l'aide de l'Etat prévue
 à l'article R. 331-56.
 
