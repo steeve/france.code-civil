@@ -1,7 +1,7 @@
 Article L111-3
 ----
-Le Gouvernement présente chaque année au Parlement, lors de la première session
-ordinaire, un rapport relatif aux principes fondamentaux qui déterminent
+Le Gouvernement présente chaque année au Parlement, au cours du quatrième
+trimestre, un rapport relatif aux principes fondamentaux qui déterminent
 l'évolution des régimes obligatoires de base de sécurité sociale mentionnés par
 le présent code et par le livre VII du code rural.
 

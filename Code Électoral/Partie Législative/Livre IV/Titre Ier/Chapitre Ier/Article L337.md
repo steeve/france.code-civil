@@ -4,6 +4,6 @@ L'effectif des conseils régionaux et la répartition des sièges à pourvoir en
 les départements de chaque région sont fixés conformément au tableau n° 7 annexé
 au présent code.
 
-La révision du nombre des conseillers régionaux a lieu au cours de la première
-session ordinaire du Parlement qui suit la publication des résultats du
-recensement général de la population.
+La révision du nombre des conseillers régionaux a lieu au cours de la session
+ordinaire du Parlement qui suit la publication des résultats du recensement
+général de la population.
