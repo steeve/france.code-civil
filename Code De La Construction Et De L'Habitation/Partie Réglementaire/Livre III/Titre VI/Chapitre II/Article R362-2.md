@@ -25,7 +25,9 @@ logement sont mises en oeuvre dans le département ;
 d'habitations à loyer modéré, des offices publics d'aménagement et de
 construction, des sociétés anonymes d'habitations à loyer modéré et des sociétés
 coopératives d'habitations à loyer modéré exerçant leur activité dans le
-département. "
+département. Dans ce cas, l'avis du conseil départemental de l'habitat est
+réputé favorable s'il n'est pas formulé dans un délai de trois mois à compter de
+la date à laquelle le conseil est saisi par le préfet. "
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 

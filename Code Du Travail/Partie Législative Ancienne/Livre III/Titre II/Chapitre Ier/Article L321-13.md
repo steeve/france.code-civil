@@ -3,7 +3,7 @@ Article L321-13
 Toute rupture du contrat de travail d'un salarié âgé de cinquante-cinq ans ou
 plus ouvrant droit au versement de l'allocation de base prévue à l'article L.
 351-3 entraîne l'obligation pour l'employeur de verser aux organismes visés à
-l'article L. 351-21 une cotisation égale à trois mois du salaire brut moyen des
+l'article L. 351-21 une cotisation égale à six mois du salaire brut moyen des
 douze derniers mois travaillés. Cette cotisation n'est pas due dans les cas
 suivants [*exonération*] :
 

@@ -9,7 +9,8 @@ les agents statutaires des autres établissements publics administratifs ;
 
 2° Les agents non titulaires des collectivités territoriales et les agents non
 statutaires des établissements publics administratifs autres que ceux de l'Etat
-et ceux mentionnés au 4° ci-dessous ;
+et ceux mentionnés au 4° ci-dessous ainsi que les agents non statutaires des
+groupements d'intérêt public ;
 
 3° Les salariés des entreprises, sociétés et organismes définis au a du
 paragraphe I de l'article 164 de l'ordonnance portant loi de finances pour 1959
@@ -31,16 +32,23 @@ gestion.
 Les employeurs mentionnés au 3° et au 4° ci-dessus ont aussi la faculté, par une
 option irrévocable, de se placer sous le régime de l'article L. 351-4.
 
-Les employeurs mentionnés au 2° peuvent également adhérer au régime
-[*d'assurance chômage*] prévu à l'article L. 351-4. La contribution incombant
-aux salariés prévue à l'article L. 351-5 est égale au montant de la contribution
-exceptionnelle qu'ils auraient dû verser en application de l'article 2 de la loi
-n° 82-939 du 4 novembre 1982 relative à la contribution exceptionnelle de
-solidarité en faveur des travailleurs privés d'emploi et est versée par
-l'employeur. Les litiges résultant de cette adhésion relèvent de la compétence
-des tribunaux judiciaires.
+Les employeurs mentionnés au 2° peuvent également adhérer au régime prévu à
+l'article L. 351-4. La contribution incombant aux salariés prévue à l'article L.
+351-5 est égale au montant de la contribution exceptionnelle qu'ils auraient dû
+verser en application de l'article 2 de la loi n° 82-939 du 4 novembre 1982
+relative à la contribution exceptionnelle de solidarité en faveur des
+travailleurs privés d'emploi et est versée par l'employeur.
 
 Un décret en Conseil d'Etat fixe les règles de coordination applicables pour
 l'indemnisation des travailleurs dont les activités antérieures prises en compte
 pour l'ouverture des droits ont été exercées auprès d'employeurs relevant, les
 uns de l'article L. 351-4, les autres du présent article.
+
+Les employeurs visés au présent article sont tenus d'adhérer au régime
+d'assurance prévu à l'article L. 351-4 pour les salariés engagés à titre
+temporaire qui relèvent des professions de la production cinématographique, de
+l'audiovisuel ou du spectacle, lorsque l'activité exercée bénéficie de
+l'aménagement des conditions d'indemnisation mentionnées à l'article L. 351-14.
+
+Les litiges résultant de l'adhésion au régime prévu à l'article L. 351-4
+relèvent de la compétence des tribunaux judiciaires.

@@ -8,9 +8,10 @@ Un décret en Conseil d'Etat fixe, en fonction de chaque catégorie de
 bénéficiaires, la durée maximale de travail hebdomadaire ainsi que les durées
 minimale et maximale du contrat.
 
-Par dérogation à l'article L. 122-2, les contrats emploi-solidarité peuvent être
-renouvelés deux fois, dans la limite de la durée maximale du contrat fixée par
-le décret mentionné à l'alinéa précédent.
+Par dérogation à l'article L. 122-2, les contrats emploi-solidarité peuvent,
+dans la limite de leur durée maximale, être renouvelés deux fois. Toutefois, le
+nombre de renouvellements peut être porté à trois pour certaines catégories de
+bénéficiaires définies par le décret mentionné à l'alinéa précédent.
 
 Par dérogation à l'article L. 122-3-2, et sous réserve de clauses contractuelles
 ou conventionnelles relatives aux bénéficiaires de contrats emploi-solidarité
