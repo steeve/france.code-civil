@@ -7,8 +7,10 @@ inférieur à 50 % des émoluments de base.
 En outre, si le fonctionnaire est dans l'obligation d'avoir recours d'une
 manière constante à l'assistance d'une tierce personne pour accomplir les actes
 ordinaires de la vie, il a droit à une majoration spéciale dont le montant est
-égal au traitement brut afférent à l'indice réel correspondant à l'indice brut
-125.
+égal au traitement brut afférent à l'indice brut afférent à l'indice 100 prévu
+par l'article 1er du décret n° 48-1108 du 10 juillet 1948. Le droit à cette
+majoration est également ouvert au fonctionnaire relevant du deuxième alinéa de
+l'article L. 28.
 
 En aucun cas, le montant total des prestations accordées au fonctionnaire
 invalide ne peut excéder le montant des émoluments de base visés à l'article L.
