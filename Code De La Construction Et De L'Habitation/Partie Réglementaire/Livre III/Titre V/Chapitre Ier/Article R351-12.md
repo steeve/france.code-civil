@@ -1,9 +1,8 @@
 Article R351-12
 ----
-Il n'est pas tenu compte, à partir de la date d'ouverture du droit ou du premier
-jour du mois au cours duquel survient l'événement ou le changement de situation,
-sous réserve que le bénéficiaire en apporte la preuve, des ressources du
-conjoint :
+Il n'est pas tenu compte, à partir du premier jour du mois suivant celui au
+cours duquel survient l'événement ou le changement de situation, sous réserve
+que le bénéficiaire en apporte la preuve, des ressources du conjoint :
 
 - soit décédé ;
 
