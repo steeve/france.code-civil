@@ -34,11 +34,6 @@ l'installation un revenu disponible au moins égal à ce revenu brut
 d'exploitation, sans pouvoir être inférieur à 40 p. 100 du revenu de référence
 national.
 
-Le jeune agriculteur a la possibilité de demander l'agrément d'un projet
-d'installation progressive permettant d'atteindre au-delà de trois années et
-sans excéder la sixième année suivant l'installation le revenu minimum exigé,
-sur la base d'une étude prévisionnelle d'installation de même durée.
-
 La définition du revenu brut d'exploitation susmentionnée est celle retenue par
 la commission des comptes de l'agriculture de la nation créée par le décret n°
 64-112 du 6 février 1964.
@@ -71,10 +66,9 @@ familial pour le calcul du revenu disponible du projet d'installation ;
 cet effet par le ministre de l'agriculture, à un stage d'une durée minimale de
 quarante heures en vue de préparer son installation ;
 
-5° S'engager à exercer dans un délai d'un an, ou de cinq ans au maximum dans le
-cas de cultures pérennes, et pendant dix ans, la profession d'agriculteur à
-titre principal en qualité de chef d'exploitation sur un fonds répondant aux
-conditions fixées par la présente section.
+5° S'engager à exercer dans un délai d'un an, et pendant dix ans, la profession
+d'agriculteur à titre principal en qualité de chef d'exploitation sur un fonds
+répondant aux conditions fixées par la présente section.
 
 Est considéré comme agriculteur à titre principal l'exploitant qui consacre plus
 de 50 p. 100 de son temps de travail et retire au moins 50 p. 100 de son revenu
@@ -83,11 +77,7 @@ activités, touristiques ou autres, qui sont dans le prolongement de l'acte de
 production agricole ou forestière et qui ont pour support l'exploitation ; la
 part de revenu provenant directement de l'activité de production agricole sur
 l'exploitation ne peut toutefois être inférieure à 25 p. 100 du revenu global de
-l'exploitant. Est réputé remplir cette condition l'exploitant agricole qui
-perçoit les prestations d'assurance maladie du régime de protection sociale des
-personnes non salariées des professions agricoles et dont les revenus qui ne
-sont pas tirés d'activités professionnelles n'excèdent pas un montant fixé par
-arrêté du ministre de l'agriculture ;
+l'exploitant ;
 
 6° S'engager à tenir, pendant la même période, une comptabilité de gestion de
 son exploitation correspondant aux normes du plan comptable général agricole.
@@ -102,4 +92,5 @@ période de dix ans ;
 
 8° S'engager à effectuer les travaux de mise en conformité des équipements
 repris, qui sont éventuellement exigés par la réglementation relative à la
-protection de l'environnement.
+protection de l'environnement et à satisfaire aux normes minimales requises en
+matière d'hygiène et de bien-être des animaux, dans un délai de trois ans.

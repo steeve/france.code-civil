@@ -7,5 +7,5 @@ prêts sont fixés par arrêté conjoint du ministre de l'agriculture et du mini
 chargé de l'économie.
 
 Ces plafonds peuvent être majorés dans les limites fixées par l'arrêté mentionné
-ci-dessus lorsque le conjoint du chef d'exploitation remplit les conditions
-mentionnées aux quatrième et cinquième alinéas de l'article R. 343-9.
+au deuxième alinéa lorsque le conjoint du chef d'exploitation remplit les
+conditions prévues à l'article R. 343-9.

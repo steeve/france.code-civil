@@ -45,6 +45,10 @@ minimum à la moitié du revenu disponible par unité de travail agricole famili
 fixé comme objectif dans le département. Le dépôt de la demande de majoration
 doit être antérieur à la réalisation du projet contenu dans l'avenant.
 
+Pour bénéficier de la majoration, le conjoint collaborateur du bénéficiaire de
+l'aide doit s'engager à s'exercer une activité sur l'exploitation d'une durée
+minimum de cinq ans.
+
 La liquidation et le paiement de la dotation d'installation sont assurés par le
 Centre national pour l'aménagement des structures des exploitations agricoles
 créé par l'article L. 313-3.

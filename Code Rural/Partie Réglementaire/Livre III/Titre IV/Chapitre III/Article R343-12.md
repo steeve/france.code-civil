@@ -9,5 +9,5 @@ un revenu disponible par unité de travail agricole familial supérieur à 140 p
 100 du revenu de référence national ;
 
 2° En ce qui concerne les jeunes exploitants mentionnés à l'article R. 343-6,
-des revenus d'origine agricole et non agricole du foyer fiscal supérieurs à 180
-p. 100 du revenu de référence national.
+des revenus professionnels d'origine agricole et non agricole supérieurs à 140 %
+du revenu de référence national.

@@ -3,18 +3,7 @@ Article R343-4
 Pour être admis au bénéfice des aides mentionnées à l'article R. 343-3, le jeune
 agriculteur doit répondre aux conditions générales suivantes :
 
-1° Etre âgé de vingt et un ans au moins et trente-cinq ans au plus à la date de
-son installation ; cette dernière limite d'âge est, le cas échéant, reculée
-d'une durée égale au temps de service actif légal effectivement accompli dans
-une des formes du service mentionnées au titre III du code du service national,
-éventuellement prolongé en application du deuxième alinéa de l'article L. 76 de
-ce code ; elle est également reculée d'un an par enfant au profit de la personne
-physique qui assure, ou a assuré pendant au moins neuf ans avant l'âge de seize
-ans, l'entretien et l'éducation d'un enfant. Le couple dispose d'un seul droit à
-dérogation à la limite d'âge pour enfant, utilisé, à son gré, au bénéfice de
-l'un ou de l'autre membre. Ces dispositions ne peuvent toutefois avoir pour
-effet de permettre à un agriculteur de bénéficier des aides à l'installation
-au-delà de quarante ans ;
+1° Ne pas avoir atteint l'âge de quarante ans à la date de son installation ;
 
 2° S'installer sur un fonds dont l'importance permet à l'intéressé de répondre
 aux conditions d'assujettissement au régime de protection sociale des personnes
