@@ -1,13 +1,13 @@
 Article R331-21
 ----
-1. Le montant des prêts accordés par la caisse de prêts aux organismes
-d'habitations à loyer modéré et aux sociétés d'économie mixte ne peut, dans la
-limite du prix de revient réel, dépasser 95 p. 100 du prix de référence de
-l'opération défini à l'article R. 331-18 majoré du dépassement éventuel pour
-opération expérimentale, dans la limite d'un plafond, et des révisions de prix
-correspondant à une durée forfaitaire d'exécution des travaux définie à compter
-de la décision favorable. Les autres dépassements autorisés ne sont pas financés
-par les prêts prévus à l'article R. 331-1 ;
+1. Le montant des prêts accordés par la caisse des dépôts et consignations aux
+organismes d'habitations à loyer modéré et aux sociétés d'économie mixte ne
+peut, dans la limite du prix de revient réel, dépasser 95 p. 100 du prix de
+référence de l'opération défini à l'article R. 331-18 majoré du dépassement
+éventuel pour opération expérimentale, dans la limite d'un plafond, et des
+révisions de prix correspondant à une durée forfaitaire d'exécution des travaux
+définie à compter de la décision favorable. Les autres dépassements autorisés ne
+sont pas financés par les prêts prévus à l'article R. 331-1 ;
 
 2. Le montant des prêts accordés par le Crédit foncier de France aux
 bénéficiaires mentionnés à l'article R. 331-8 ne peut, dans la limite du prix de
