@@ -7,7 +7,10 @@ II. - Le périmètre du schéma de cohérence territoriale délimite un territoi
 d'un seul tenant et sans enclave. Lorsque ce périmètre concerne des
 établissements publics de coopération intercommunale compétents en matière de
 schémas de cohérence territoriale, il recouvre la totalité du périmètre de ces
-établissements.
+établissements. Toutefois, lorsque le périmètre d'un de ces établissements n'est
+pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité
+des communes membres de cet établissement à condition de comprendre la totalité
+de la partie ou des parties d'un seul tenant qui le concerne.
 
 Il tient notamment compte des périmètres des groupements de communes, des
 agglomérations nouvelles, des pays et des parcs naturels, ainsi que des

@@ -12,8 +12,9 @@ code de l'environnement ;
 - d'une réserve naturelle créée en application de l'article L. 332-1 du livre
 III du même code ;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages
-lacustres, en application de l'article L. 322-1 du livre III du même code ;
+- d'un site du domaine relevant du Conservatoire de l'espace littoral et des
+rivages lacustres ou sur lequel il a instauré une servitude de protection, en
+application de l'article L. 322-1 du livre III du même code ;
 
 - ou d'un port desservant exclusivement ou principalement un des espaces
 protégés mentionnés ci-dessus mais sans y être inclus.

@@ -18,7 +18,9 @@ pollutions et nuisances et des avantages induits pour la collectivité ainsi
 qu'une évaluation des consommations énergétiques résultant de l'exploitation du
 projet, notamment du fait des déplacements qu'elle entraîne ou permet d'éviter ;
 
-3° Les conditions dans lesquelles l'étude d'impact est rendue publique ;
+3° Les conditions dans lesquelles sont rendues publiques l'étude d'impact, ainsi
+que les principales mesures destinées à éviter, réduire, et si possible
+compenser les effets négatifs importants du projet ;
 
 4° La liste limitative des ouvrages qui, en raison de la faiblesse de leurs
 répercussions sur l'environnement, ne sont pas soumis à la procédure de l'étude

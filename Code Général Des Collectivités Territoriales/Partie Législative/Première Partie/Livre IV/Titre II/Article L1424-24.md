@@ -5,40 +5,26 @@ d'administration composé de représentants du département, des communes et des
 établissements publics de coopération intercommunale compétents en matière de
 secours et de lutte contre l'incendie, élus dans les conditions suivantes :
 
-1° Huit sièges répartis par moitié entre, d'une part, le département et, d'autre
-part, les communes et les établissements publics de coopération intercommunale.
+1° Chaque conseil d'administration comprend vingt-deux membres. Le nombre de
+sièges attribués au département est de quatorze au moins, celui attribué aux
+communes et aux établissements publics de coopération intercommunale compétents
+en matière de gestion des services d'incendie et de secours ne peut être
+inférieur à quatre. Le nombre de sièges attribués respectivement aux
+représentants des établissements publics de coopération intercommunale et aux
+représentants des communes est fixé proportionnellement à leur contribution,
+constatée conformément aux dispositions de l'article L. 1424-26 ;
 
-Les maires du département et les présidents d'établissements publics de
-coopération intercommunale concernés constituent un collège au sein duquel ils
-élisent leurs représentants au scrutin de liste majoritaire à un tour ;
-
-2° a) Dans les départements de plus de 900 000 habitants comptant au moins une
-commune ou un établissement public de coopération intercommunale dont la
-contribution au service départemental d'incendie et de secours représente un
-montant minimal de 33 p. 100 des recettes, vingt-deux sièges répartis
-proportionnellement aux contributions respectives du département, de l'ensemble
-des communes, et de l'ensemble des établissements publics de coopération
-intercommunale au budget du service départemental d'incendie et de secours ;
-
-b) Dans les autres départements, quatorze sièges répartis proportionnellement
-aux contributions respectives du département, de l'ensemble des communes, et de
-l'ensemble des établissements publics de coopération intercommunale au budget du
-service départemental d'incendie et de secours.
-
-Ces contributions sont constatées conformément aux dispositions des articles
-L1424-26 et L1424-46.
-
-Les représentants du département sont élus par le conseil général en son sein.
-Les représentants des établissements publics de coopération intercommunale sont
-élus par les présidents de ces établissements publics au scrutin proportionnel
-au plus fort reste parmi les membres des organes délibérants et les maires des
+2° Les représentants du département sont élus par le conseil général en son sein
+à la représentation proportionnelle suivant la règle de la plus forte moyenne.
+Les représentants des établissements publics de coopération intercommunale,
+visés au 1°, sont élus par les présidents d'établissements publics de
+coopération intercommunale au scrutin proportionnel au plus fort reste parmi les
+membres des organes délibérants, les maires et les adjoints aux maires des
 communes membres. Les maires des communes qui ne sont pas membres de ces
-établissements publics élisent en leur sein leurs représentants au scrutin
-proportionnel au plus fort reste. Dans les départements d'outre-mer, les
-adjoints au maire peuvent être élus.
+établissements publics élisent parmi les maires et adjoints au maire de ces
+communes leurs représentants au scrutin proportionnel au plus fort reste.
 
-Le nombre de suffrages dont dispose chaque maire ou dans les départements
-d'outre-mer, chaque adjoint au maire d'une part, chaque président
+Le nombre de suffrages dont dispose chaque maire, d'une part, chaque président
 d'établissement public, d'autre part, au sein de leur collège électoral
 respectif est déterminé par le montant de la contribution de la commune ou de
 l'établissement public, à due proportion du total des contributions des
@@ -47,11 +33,13 @@ intercommunale, d'autre part.
 
 En cas d'absence ou d'empêchement, les membres du conseil d'administration sont
 remplacés par des suppléants élus selon les mêmes modalités et pour la même
-durée qu'eux.
+durée qu'eux ;
 
-3° Les élections ont lieu dans les quatre mois suivant le renouvellement général
-des conseils municipaux et dans les quatre mois suivant le renouvellement par
-moitié ou le renouvellement intégral du conseil général.
+3° Les représentants des établissements publics de coopération intercommunale et
+des maires sont élus dans les quatre mois suivant le renouvellement général des
+conseils municipaux. Les représentants du conseil général sont élus dans les
+quatre mois suivant le renouvellement par moitié ou le renouvellement intégral
+du conseil général.
 
 Assistent, en outre, aux réunions du conseil d'administration, avec voix
 consultative :
@@ -65,4 +53,4 @@ consultative :
 officier, un sapeur-pompier volontaire officier et un sapeur-pompier volontaire
 non officier, élus à la fois en qualité de membre de la commission
 administrative et technique des services d'incendie et de secours, prévue à
-l'article L1424-31, et de membre du conseil d'administration.
+l'article L. 1424-31, et de membre du conseil d'administration.

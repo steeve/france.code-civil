@@ -1,6 +1,6 @@
 Article L3123-2
 ----
-- Indépendamment des autorisations d'absence dont ils bénéficient dans les
+Indépendamment des autorisations d'absence dont ils bénéficient dans les
 conditions prévues à l'article L. 3123-1, les présidents et les membres des
 conseils généraux ont droit à un crédit d'heures leur permettant de disposer du
 temps nécessaire à l'administration du département ou de l'organisme auprès
@@ -9,10 +9,10 @@ siègent.
 
 Ce crédit d'heures, forfaitaire et trimestriel, est égal :
 
-1° Pour le président et chaque vice-président du conseil général à l'équivalent
-de trois fois la durée hebdomadaire légale du travail ;
+1° Pour le président et chaque vice-président de conseil général, à l'équivalent
+de quatre fois la durée hebdomadaire légale du travail ;
 
-2° Pour les conseillers généraux, à l'équivalent d'une fois et demie la durée
+2° Pour les conseillers généraux, à l'équivalent de trois fois la durée
 hebdomadaire légale du travail.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.

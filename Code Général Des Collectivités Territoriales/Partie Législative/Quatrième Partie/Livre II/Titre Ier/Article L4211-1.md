@@ -33,3 +33,27 @@ et à l'emploi dans des conditions prévues par décret ;
 8° La participation au capital des sociétés de développement régional et des
 sociétés de financement interrégionales ou propres à chaque région, existantes
 ou à créer, ainsi que des sociétés d'économie mixte.
+
+9° La souscription de parts dans un fonds commun de placement à risques à
+vocation régionale ou interrégionale ou la participation, par le versement de
+dotations, à la constitution d'un fonds d'investissement auprès d'une société de
+capital-investissement à vocation régionale ou interrégionale ayant pour objet
+d'apporter des fonds propres à des entreprises.
+
+Le montant total des dotations ou des souscriptions versées par une ou plusieurs
+régions ne peut excéder 50 % du montant total du fonds.
+
+La région passe avec la société gestionnaire du fonds d'investissement une
+convention déterminant notamment l'objet, le montant et le fonctionnement du
+fonds ainsi que les conditions de restitution des dotations versées en cas de
+modification ou de cessation d'activité de ce fonds ;
+
+10° La participation, par le versement de dotations, à la constitution d'un
+fonds de garantie auprès d'un établissement de crédit ayant pour objet exclusif
+de garantir des concours financiers accordés à des entreprises.
+
+La région passe avec la société gestionnaire du fonds de garantie une convention
+déterminant notamment l'objet, le montant et le fonctionnement du fonds, les
+modalités d'information du conseil régional par la société ainsi que les
+conditions de restitution des dotations versées en cas de modification ou de
+cessation d'activité de ce fonds.

@@ -1,6 +1,6 @@
 Article L3121-24
 ----
-- Dans les conseils généraux, le fonctionnement des groupes d'élus peut faire
+Dans les conseils généraux, le fonctionnement des groupes d'élus peut faire
 l'objet de délibérations sans que puissent être modifiées, à cette occasion, les
 décisions relatives au régime indemnitaire des élus.
 
@@ -17,8 +17,8 @@ Le président du conseil général peut, dans les conditions fixées par le cons
 général et sur proposition des représentants de chaque groupe, affecter aux
 groupes d'élus une ou plusieurs personnes. Le conseil général ouvre au budget du
 département, sur un chapitre spécialement créé à cet effet, les crédits
-nécessaires à ces dépenses, sans qu'ils puissent excéder 25 p. 100 du montant
-total des indemnités versées chaque année aux membres du conseil général.
+nécessaires à ces dépenses, sans qu'ils puissent excéder 30 % du montant total
+des indemnités versées chaque année aux membres du conseil général.
 
 Le président du conseil général est l'ordonnateur des dépenses susmentionnées.
 

@@ -35,3 +35,5 @@ nuisibles, de requérir, dans les conditions fixées à l'article L. 227-5 du co
 rural, les habitants avec armes et chiens propres à la chasse de ces animaux, à
 l'effet de détruire ces derniers, de surveiller et d'assurer l'exécution des
 mesures ci-dessus et d'en dresser procès-verbal.
+
+10° De procéder aux enquêtes de recensement.

@@ -60,7 +60,10 @@ constitutionnel en application de l'article 6 de l'ordonnance n° 58-1067 du 7
 novembre 1958 portant loi organique sur le Conseil constitutionnel ;
 
 d) Les indemnités versées par les collectivités locales, leurs groupements ou
-leurs établissements publics aux élus municipaux, cantonaux et régionaux.
+leurs établissements publics aux élus municipaux, cantonaux et régionaux ;
+
+e) Les allocations versées à l'issue des mandats locaux par le fonds mentionné
+par l'article L. 1621-2 du code général des collectivités territoriales.
 
 4° Les contributions prévues au cinquième alinéa de l'article L. 242-1 du
 présent code et au cinquième alinéa de l'article 1031 du code rural, à

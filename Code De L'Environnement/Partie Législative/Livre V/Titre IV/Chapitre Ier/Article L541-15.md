@@ -18,4 +18,7 @@ plans sont déterminées par décret en Conseil d'Etat. Ce décret fixe notammen
 les modalités de la consultation du public, les mesures de publicité à prendre
 lors de l'élaboration des plans et après leur adoption et la procédure
 simplifiée de révision des plans applicable dès lors que les modifications
-projetées n'en remettent pas en cause l'économie générale.
+projetées n'en remettent pas en cause l'économie générale. Ce décret détermine
+également les conditions dans lesquelles l'Etat élabore le plan prévu à
+l'article L. 541-13 lorsque, après avoir été invitée à y procéder, l'autorité
+compétente n'a pas adopté ce plan dans un délai de dix-huit mois.

@@ -1,7 +1,9 @@
 Article L2123-22
 ----
 - Peuvent voter des majorations d'indemnités de fonction par rapport à celles
-prévues à l'article L. 2123-20 les conseils municipaux :
+votées par le conseil municipal dans les limites prévues par l'article L.
+2123-23, par le I de l'article L. 2123-24 et par le I de l'article L. 2123-24-1
+les conseils municipaux :
 
 1° Des communes chefs-lieux de département, d'arrondissement et de canton ;
 

@@ -5,6 +5,16 @@ formation professionnelle continue, dans le respect des règles figurant au titr
 Ier du livre Ier et au livre IX, à l'exception de son titre VIIe, du code du
 travail, ainsi que dans les lois non codifiées relatives auxdites actions.
 
+La région prend en charge l'indemnité compensatrice forfaitaire visée à
+l'article L. 118-7 du code du travail versée à l'employeur à laquelle ouvrent
+droit les contrats d'apprentissage ayant fait l'objet de l'enregistrement prévu
+à l'article L. 117-14 dudit code. Le montant et les éléments de cette indemnité
+peuvent varier dans chaque région dans les conditions et limites fixées par le
+décret pris après avis du comité de coordination des programmes régionaux
+d'apprentissage et de formation professionnelle continue. Ce décret précise en
+outre les conditions dans lesquelles l'employeur est tenu de reverser à la
+région les sommes indûment perçues.
+
 Toutefois, sous réserve des dispositions du II ci-après, l'Etat est compétent,
 après avis des régions concernées sur le choix et la localisation des actions,
 pour financer et organiser les actions de portée générale intéressant

@@ -7,8 +7,7 @@ La revente ou la location de bâtiments par les collectivités territoriales ou
 leurs groupements doit se faire aux conditions du marché. Toutefois, il peut
 être consenti des rabais sur ces conditions ainsi que des abattements sur les
 charges de rénovation de bâtiments industriels anciens suivant les règles de
-plafond et de zone prévues par le décret mentionné au premier alinéa de
-l'article L. 1511-2.
+plafond et de zone prévues par un décret en Conseil d'Etat.
 
 Les commissions dues par les bénéficiaires de garanties d'emprunt accordées par
 les établissements de crédit peuvent être prises en charge, totalement ou

@@ -72,4 +72,4 @@ que celui-ci lui confie.
 
 VI. - La communauté d'agglomération peut attribuer des fonds de concours aux
 communes membres afin de contribuer à la réalisation ou au fonctionnement
-d'équipements d'intérêt commun.
+d'équipements dont l'utilité dépasse manifestement l'intérêt communal.

@@ -1,12 +1,10 @@
 Article L3123-11
 ----
-- Les frais de déplacement, de séjour et, le cas échéant, d'enseignement donnent
-droit à remboursement.
+Indépendamment des autorisations d'absence et du crédit d'heures prévus aux
+articles L. 3123-1 et L. 3123-2, les membres du conseil général qui ont la
+qualité de salarié ont droit à un congé de formation. Ce congé est fixé à
+dix-huit jours par élu pour la durée du mandat et quel que soit le nombre de
+mandats qu'il détient. Ce congé est renouvelable en cas de réélection.
 
-Les pertes de revenu de l'élu sont également supportées par le département dans
-la limite de six jours par élu pour la durée d'un mandat et d'une fois et demie
-la valeur horaire du salaire minimum de croissance.
-
-Le montant des dépenses de formation ne peut excéder 20 p. 100 du montant total
-des crédits ouverts au titre des indemnités de fonction susceptibles d'être
-allouées aux élus du département.
+Les modalités d'application du présent article sont fixées par décret en Conseil
+d'Etat.

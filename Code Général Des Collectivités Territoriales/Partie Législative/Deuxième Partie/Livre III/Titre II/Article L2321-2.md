@@ -10,9 +10,11 @@ de conservation des archives communales et du recueil des actes administratifs
 du département et, pour les communes chefs-lieux de canton, les frais de
 conservation du Journal officiel ;
 
-3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations
-des communes aux régimes de retraite en application des articles L. 2123-26 à L.
-2123-28 et les frais de formation des élus visés à l'article L. 2123-13 ;
+3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations au
+régime général de la sécurité sociale en application de l'article L. 2123-25-2,
+les cotisations aux régimes de retraites en application des articles L. 2123-26
+à L. 2123-28, les cotisations au fonds institué par l'article L. 1621-2 ainsi
+que les frais de formation des élus mentionnés à l'article L. 2123-14 ;.
 
 4° La rémunération des agents communaux ;
 
@@ -25,16 +27,17 @@ rurale ;
 7° Les dépenses de personnel et de matériel relatives au service d'incendie et
 de secours.
 
-Toutefois, les communes peuvent exiger des intéressés ou de leurs ayants droit
-le remboursement des frais de secours qu'elles ont engagés à l'occasion
-d'accidents consécutifs à la pratique des activités sportives dont la liste est
-établie par décret en Conseil d'Etat. Elles déterminent les conditions dans
-lesquelles s'effectue le remboursement de ces dépenses qui peut porter sur tout
-ou partie des frais visés.
+Toutefois, sans préjudice des dispositions applicables aux activités
+réglementées, les communes peuvent exiger des intéressés ou de leurs ayants
+droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations
+de secours consécutives à la pratique de toute activité sportive ou de loisir.
+Elles déterminent les conditions dans lesquelles s'effectue cette participation,
+qui peut porter sur tout ou partie des dépenses.
 
-Les communes sont tenues d'informer le public des conditions d'application du
-présent article sur leur territoire par une publicité appropriée en mairie et
-sur les lieux où se pratiquent ces activités sportives ;
+Les communes sont tenues d'informer le public des conditions d'application de
+l'alinéa précédent sur leur territoire, par un affichage approprié en mairie et,
+le cas échéant, dans tous les lieux où sont apposées les consignes relatives à
+la sécurité.
 
 8° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement
 liquidées et approuvées ;

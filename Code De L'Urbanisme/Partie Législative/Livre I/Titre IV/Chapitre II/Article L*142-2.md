@@ -13,10 +13,11 @@ terrains, ainsi que pour l'aménagement et l'entretien de tout espace naturel,
 boisé ou non, appartenant au département, sous réserve de son ouverture au
 public dans les conditions prévues à l'article L. 142-10 ;
 
-- pour sa participation à l'acquisition de terrains par le Conservatoire de
-l'espace littoral et des rivages lacustres, par une commune ou par un
+- pour sa participation à l'acquisition, à l'aménagement et la gestion des
+terrains du Conservatoire de l'espace littoral et des rivages lacustres, pour sa
+participation à l'acquisition de terrains par une commune ou par un
 établissement public de coopération intercommunale compétent, ainsi qu'à
-l'entretien des terrains acquis par l'une ou l'autre de ces personnes publiques
+l'entretien des terrains acquis par l'une et l'autre de ces personnes publiques
 ou par l'agence des espaces verts de la région d'Ile-de-France dans l'exercice
 du droit de préemption, par délégation ou par substitution, prévu à l'article L.
 142-3.
@@ -28,6 +29,11 @@ appartenant aux collectivités publiques ou à leurs établissements publics et
 ouverts au public, ou appartenant à des propriétaires privés à la condition
 qu'ils aient fait l'objet d'une convention passée en application de l'article L.
 130-5 ;
+
+- pour l'aménagement et la gestion des parties naturelles de la zone dite des
+cinquante pas géométriques, définie par la loi n° 96-1241 du 30 décembre 1996
+relative à l'aménagement, la protection et la mise en valeur de la zone dite des
+cinquante pas géométriques dans les départements d'outre-mer ;
 
 - pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un
 plan départemental des itinéraires de promenade et de randonnée, établi dans les
@@ -73,7 +79,7 @@ f) Les installations et travaux divers qui sont destinés à être affectés à 
 service public ou d'utilité publique et réalisés par l'Etat, les collectivités
 locales ou leurs groupements ou l'un des services et organismes enumérés par le
 décret pris pour l'application du 1° du I de l'article 1585 C du code général
-des impôts.
+des imp&lt;CB&gt;ts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels
 sensibles, les locaux à usage d'habitation principale édifiés pour leur compte

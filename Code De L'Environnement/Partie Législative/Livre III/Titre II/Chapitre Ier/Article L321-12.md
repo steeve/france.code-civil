@@ -3,22 +3,23 @@ Article L321-12
 Ainsi qu'il est dit à l'article 285 quater du code des douanes ci-après
 reproduit :
 
-"Il est perçu une taxe due par les entreprises de transport public maritime.
+" Il est perçu une taxe due par les entreprises de transport public maritime.
 Cette taxe est assise sur le nombre de passagers embarqués à destination :
 
-- d'un site naturel classé ou inscrit au titre du chapitre Ier du titre IV du
+-d'un site naturel classé ou inscrit au titre du chapitre Ier du titre IV du
 livre III du code de l'environnement ;
 
-- d'un parc national créé en application de l'article L. 331-1 du code de
+-d'un parc national créé en application de l'article L. 331-1 du code de
 l'environnement ;
 
-- d'une réserve naturelle créée en application de l'article L. 332-1 du même
-code ;
+-d'une réserve naturelle créée en application de l'article L. 332-1 du même code
+;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages
-lacustres, en application de l'article L. 322-1 du même code ;
+-d'un site du domaine relevant du Conservatoire de l'espace littoral et des
+rivages lacustres ou sur lequel il a instauré une servitude de protection, en
+application de l'article L. 322-1 du même code ;
 
-- ou d'un port desservant exclusivement ou principalement un des espaces
+-ou d'un port desservant exclusivement ou principalement un des espaces
 mentionnés ci-dessus sans y être inclus.
 
 La liste des sites, parcs, réserves et ports mentionnés aux deuxième à sixième
@@ -28,10 +29,10 @@ cette liste que sur demande des communes concernées.
 
 La taxe est ajoutée au prix demandé aux passagers. Elle est constatée, recouvrée
 et contrôlée par le service des douanes sous les mêmes garanties, sanctions et
-privilèges qu'en matière de droits de douane. L'Etat perçoit sur le produit de
-cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 %
+privilèges qu'en matière de droits de douane.L'Etat perçoit sur le produit de
+cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2, 5 %
 dudit produit. Le tarif de la taxe est fixé par arrêté du ministre chargé du
-budget dans la limite de 1,52 euro par passager. Cet arrêté peut prévoir des
+budget dans la limite de 1, 52 euro par passager. Cet arrêté peut prévoir des
 tarifs différents ou la gratuité selon les diverses catégories d'usagers pour
 tenir compte soit d'une nécessité d'intérêt général en rapport avec l'espace
 protégé, soit de la situation particulière de certains usagers, et notamment de
@@ -43,4 +44,4 @@ l'espace naturel protégé ou, à défaut, de la commune sur le territoire de
 laquelle se trouve le site et est affectée à sa préservation.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent
-article."
+article. "

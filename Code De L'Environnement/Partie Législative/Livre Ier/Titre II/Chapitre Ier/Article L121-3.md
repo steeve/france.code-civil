@@ -1,21 +1,46 @@
 Article L121-3
 ----
-I. - La Commission nationale du débat public est composée, à parts égales :
+La Commission nationale du débat public est composée de vingt et un membres
+nommés pour cinq ans ou pour la durée de leur mandat. Outre son président et
+deux vice-présidents, elle comprend :
 
-1° De parlementaires et d'élus locaux ;
+1° Un député et un sénateur nommés respectivement par le Président de
+l'Assemblée nationale et par le Président du Sénat ;
 
-2° De membres du Conseil d'Etat et des juridictions des ordres administratif et
-judiciaire ;
+2° Six élus locaux nommés par décret sur proposition des associations
+représentatives des élus concernés ;
 
-3° De représentants d'associations de protection de l'environnement agréées au
+3° Un membre du Conseil d'Etat, élu par l'assemblée générale du Conseil d'Etat ;
+
+4° Un membre de la Cour de cassation, élu par l'assemblée générale de la Cour de
+cassation ;
+
+5° Un membre de la Cour des comptes, élu par l'assemblée générale de la Cour des
+comptes ;
+
+6° Un membre du corps des membres des tribunaux administratifs et des cours
+administratives d'appel, nommé par décret sur proposition du Conseil supérieur
+des tribunaux administratifs et des cours administratives d'appel ;
+
+7° Deux représentants d'associations de protection de l'environnement agréées au
 titre de l'article L. 141-1 exerçant leur activité sur l'ensemble du territoire
-national, de représentants des usagers et de personnalités qualifiées.
+national, nommés par arrêté du Premier ministre sur proposition du ministre
+chargé de l'environnement ;
 
-II. - Elle est présidée par un conseiller d'Etat en activité ou honoraire.
+8° Deux représentants des consommateurs et des usagers, respectivement nommés
+par arrêté du Premier ministre sur proposition du ministre chargé de l'économie
+et du ministre chargé des transports ;
 
-III. - La Commission nationale du débat public constitue pour chaque projet une
-commission particulière qui organise le débat public.
+9° Deux personnalités qualifiées, dont l'une ayant exercé des fonctions de
+commissaire enquêteur, respectivement nommées par arrêté du Premier ministre sur
+proposition du ministre chargé de l'industrie et du ministre chargé de
+l'équipement.
 
-IV. - Les personnes intéressées à l'opération à titre personnel ou en raison de
-leurs fonctions ne peuvent faire partie de la commission particulière chargée
-d'organiser le débat public sur ladite opération.
+Le président et les vice-présidents sont nommés par décret.
+
+Le mandat des membres est renouvelable une fois.
+
+Le président et les vice-présidents exercent leurs fonctions à plein temps et
+sont rémunérés.
+
+Les fonctions des autres membres donnent lieu à indemnité.

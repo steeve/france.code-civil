@@ -1,6 +1,6 @@
 Article L5211-5
 ----
-I. - Sans préjudice des dispositions de l'article L. 5212-2, le périmètre de
+I.-Sans préjudice des dispositions de l'article L. 5212-2, le périmètre de
 l'établissement public de coopération intercommunale peut être fixé par arrêté
 du représentant de l'Etat dans le département lorsque les communes font partie
 du même département ou par arrêté conjoint des représentants de l'Etat dans les
@@ -24,7 +24,7 @@ de délibération dans ce délai, celle-ci est réputée favorable.
 Le périmètre de l'établissement public de coopération intercommunale à fiscalité
 propre ne peut être identique à celui d'un département.
 
-II. - 3a création de l'établissement public de coopération intercommunale peut
+II.-La création de l'établissement public de coopération intercommunale peut
 être décidée par arrêté du ou des représentants de l'Etat dans le ou les
 départements concernés après accord des conseils municipaux des communes
 intéressées sur l'arrêté dressant la liste des communes. Cet accord doit être
@@ -44,7 +44,7 @@ urbaine, le conseil municipal de la commune dont la population est supérieure �
 la moitié de la population totale concernée ou, à défaut, de la commune dont la
 population est la plus importante.
 
-III. - Le transfert des compétences entraîne de plein droit l'application à
+III.-Le transfert des compétences entraîne de plein droit l'application à
 l'ensemble des biens, équipements et services publics nécessaires à leur
 exercice, ainsi qu'à l'ensemble des droits et obligations qui leur sont attachés
 à la date du transfert, des dispositions des trois premiers alinéas de l'article
@@ -56,8 +56,7 @@ compétent en matière de zones d'activité économique, les conditions financi�
 et patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de
 cette compétence sont décidées dans les conditions de majorité qualifiée requise
 au II. Il en va de même lorsque l'établissement public est compétent en matière
-de zones d'aménagement concerté. L'affectation des personnels est décidée dans
-les mêmes conditions.
+de zones d'aménagement concerté.
 
 L'établissement public de coopération intercommunale est substitué de plein
 droit, à la date du transfert des compétences, aux communes qui le créent dans
@@ -69,6 +68,5 @@ aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou
 indemnisation pour le cocontractant. La commune qui transfère la compétence
 informe les cocontractants de cette substitution.
 
-IV. - Sans préjudice des dispositions de l'article L. 5212-4, l'arrêté de
-création détermine le siège de l'établissement public de coopération
-intercommunale.
+IV.-Sans préjudice des dispositions de l'article L. 5212-4, l'arrêté de création
+détermine le siège de l'établissement public de coopération intercommunale.
