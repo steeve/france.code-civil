@@ -6,27 +6,41 @@ articles L. 212-1 à L. 212-6 du code de l'environnement.
 
 Le schéma directeur d'aménagement et de gestion des eaux prévu à l'article L.
 212-1 du même code est élaboré à l'initiative de la collectivité territoriale de
-Corse par le comité de bassin mentionné au II. Le comité de bassin associe à
-l'élaboration du schéma le représentant de l'Etat, les conseils généraux, le
-conseil économique, social et culturel de Corse et les chambres consulaires, qui
-lui communiquent toutes informations utiles relevant de leur compétence.
+Corse ou, le cas échéant, du représentant de l'Etat, par le comité de bassin
+mentionné au II. Le comité de bassin associe à l'élaboration du schéma le
+représentant de l'Etat, les conseils généraux, le conseil économique, social et
+culturel de Corse et les chambres consulaires, qui lui communiquent toutes
+informations utiles relevant de leur compétence.
 
-Le projet de schéma arrêté par le comité de bassin est soumis pour avis au
-représentant de l'Etat, aux conseils généraux, au conseil économique, social et
-culturel de Corse et aux chambres consulaires. L'absence d'avis émis dans le
-délai de quatre mois à compter de la transmission du projet de schéma vaut avis
-favorable.
+Le projet de schéma arrêté par le comité de bassin est soumis pour avis, au plus
+tard un an avant le délai fixé par la loi pour son approbation ou sa mise à
+jour, au représentant de l'Etat, aux conseils généraux, au conseil économique,
+social et culturel de Corse et aux chambres consulaires. L'absence d'avis émis
+dans le délai de quatre mois à compter de la transmission du projet de schéma
+vaut avis favorable.
 
 Le schéma directeur d'aménagement et de gestion des eaux est adopté par le
 comité de bassin et approuvé par l'Assemblée de Corse. Il est tenu à la
 disposition du public au siège de l'Assemblée de Corse, dans les préfectures et
 sous-préfectures.
 
-Le comité de bassin suit la mise en oeuvre du schéma. Le schéma est révisé tous
-les six ans selon les formes prévues pour son approbation.
+Le comité de bassin suit la mise en oeuvre du schéma. Le schéma est mis à jour
+tous les six ans selon les formes prévues pour son approbation.
 
 La collectivité territoriale de Corse précise, par délibération de l'Assemblée
 de Corse, la procédure d'élaboration du schéma directeur.
+
+En l'absence de transmission du projet de schéma directeur d'aménagement et de
+gestion des eaux dans le délai prévu au troisième alinéa, le représentant de
+l'Etat, après une mise en demeure restée infructueuse, se substitue au comité de
+bassin pour l'ensemble de ses obligations. A l'issue de la consultation du
+public prévue à l'article L. 212-2 du code de l'environnement, il soumet le
+projet de schéma directeur d'aménagement et de gestion des eaux aux assemblées
+et organismes mentionnés au troisième alinéa, qui disposent d'un délai de quatre
+mois pour rendre un avis. Le projet arrêté par le représentant de l'Etat est
+approuvé par l'Assemblée de Corse. A défaut d'approbation par l'Assemblée de
+Corse dans un délai de quatre mois, il peut être mis en vigueur par décret en
+Conseil d'Etat.
 
 II. - Pour exercer les missions définies au I du présent article et au III de
 l'article L. 213-2 du code de l'environnement, il est créé un comité de bassin

@@ -1,10 +1,15 @@
 Article L212-6
 ----
-Le projet de schéma d'aménagement et de gestion des eaux, élaboré ou révisé par
-la commission locale de l'eau, est soumis à l'avis des conseils généraux, des
-conseils régionaux et du comité de bassin intéressés. Le comité de bassin assure
-l'harmonisation des schémas d'aménagement et de gestion des eaux entrant dans le
-champ de sa compétence.
+Le projet de schéma d'aménagement et de gestion des eaux est élaboré et révisé
+par la commission locale de l'eau, le cas échéant dans le délai fixé par le
+schéma directeur d'aménagement et de gestion des eaux en application du X de
+l'article L. 212-1. Toutefois, si le projet n'a pas été élaboré ou révisé à
+l'expiration de ce délai, il peut l'être par l'autorité administrative. Le
+projet est soumis à l'avis des conseils généraux, des conseils régionaux, des
+établissements publics territoriaux de bassin, des chambres consulaires et du
+comité de bassin intéressés. Le comité de bassin assure l'harmonisation des
+schémas d'aménagement et de gestion des eaux entrant dans le champ de sa
+compétence.
 
 Le projet est rendu public par l'autorité administrative avec, en annexe, les
 avis des personnes consultées. Ce dossier est mis à la disposition du public

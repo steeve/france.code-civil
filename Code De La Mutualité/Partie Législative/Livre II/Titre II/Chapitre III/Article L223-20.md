@@ -18,7 +18,7 @@ participant.
 
 La mutuelle ou l'union doit, à la demande du membre participant, verser à
 celui-ci la valeur de rachat de la garantie ou la valeur de transfert du plan
-d'épargne individuelle pour la retraite dans un délai qui ne peut excéder deux
-mois. Au-delà de ce délai, les sommes non versées produisent de plein droit des
+d'épargne retraite populaire dans un délai qui ne peut excéder deux mois.
+Au-delà de ce délai, les sommes non versées produisent de plein droit des
 intérêts au taux légal majoré de moitié durant deux mois, puis, à l'expiration
 de ce délai de deux mois, au double du taux légal.

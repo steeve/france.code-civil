@@ -41,7 +41,15 @@ terrains situés en zone urbanisée et desservis par les équipements.
 Les schémas de cohérence territoriale prennent en compte les programmes
 d'équipement de l'Etat, des collectivités locales et des établissements et
 services publics. Ils doivent être compatibles avec les chartes des parcs
-naturels régionaux.
+naturels régionaux. Ils doivent également être compatibles avec les orientations
+fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs
+de qualité et de quantité des eaux définis par les schémas directeurs
+d'aménagement et de gestion des eaux en application de l'article L. 212-1 du
+code de l'environnement ainsi qu'avec les objectifs de protection définis par
+les schémas d'aménagement et de gestion des eaux en application de l'article L.
+212-3 du même code. Lorsqu'un de ces documents est approuvé après l'approbation
+d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être
+rendu compatible dans un délai de trois ans.
 
 Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou
 partie celui d'un pays ayant fait l'objet d'une publication par arrêté

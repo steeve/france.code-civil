@@ -4,18 +4,18 @@ I. - A. - Sont déductibles du revenu net global, dans les conditions et limites
 mentionnées au B, les cotisations ou les primes versées par chaque membre du
 foyer fiscal :
 
-a) Aux plans d'épargne individuelle pour la retraite créés par l'article 108 de
-la loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
+a) Aux plans d'épargne retraite populaire créés par l'article 108 de la loi n°
+2003-775 du 21 août 2003 portant réforme des retraites ;
 
 b) A titre individuel et facultatif aux contrats souscrits dans le cadre de
 régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et
 mis en place dans les conditions prévues à l'article L. 911-1 du code de la
 sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un
-groupement d'employeurs et non par un groupement d'épargne individuelle pour la
-retraite défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée,
-et sous réserve, d'une part, que ces contrats respectent les règles applicables
-au plan d'épargne individuelle pour la retraite défini par le même article, à
-l'exception des V et XII du même article, et à condition, d'autre part :
+groupement d'employeurs et non par un groupement d'épargne retraite populaire
+défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée, et sous
+réserve, d'une part, que ces contrats respectent les règles applicables au plan
+d'épargne retraite populaire défini par le même article, à l'exception des V et
+XII du même article, et à condition, d'autre part :
 
 - que le contrat prévoie les modalités de financement des missions du comité de
 surveillance ;
@@ -27,9 +27,9 @@ un représentant élu des participants ayant quitté l'employeur ou le groupemen
 d'employeurs ;
 
 - que le contrat prévoie la faculté pour l'adhérent, lorsqu'il n'est plus tenu
-d'y adhérer, de transférer ses droits vers un plan d'épargne individuelle pour
-la retraite défini à l'article 108 de la loi n° 2003-775 du 21 août 2003
-précitée ou vers un autre contrat respectant les règles fixées au b ;
+d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populaire
+défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un
+autre contrat respectant les règles fixées au b ;
 
 c) Au régime de retraite complémentaire institué par la Caisse nationale de
 prévoyance de la fonction publique et aux autres régimes de retraite
