@@ -18,11 +18,13 @@ et calculé à partir des estimations figurant dans la projection économique
 annexée au projet de loi de finances.
 
 " Il est procédé, au plus tard le 31 juillet, à la régularisation du montant de
-la dotation afférente à l'exercice précédent, lorsque l'indice calculé sur la
+la dotation afférente à l'exercice précédent, lorsque l'indice, calculé sur la
 base du taux d'évolution de la moyenne annuelle du prix de la consommation des
-ménages et du taux d'évolution du produit intérieur brut total en volume
-relatifs à cet exercice tels qu'ils sont constatés à cette date est supérieur à
-l'indice qui a été retenu pour le calcul de la dotation prévisionnelle.
+ménages et du taux d'évolution du produit intérieur brut total en volume,
+relatifs à cet exercice et tels qu'ils sont constatés à cette date, appliqué au
+montant de la dotation définitive de l'antépénultième exercice entraîne un
+produit supérieur au montant prévisionnel de la dotation inscrite en loi de
+finances de l'exercice précédent. "
 
 " Le montant de la régularisation, auquel est ajouté le reliquat comptable
 éventuel du même exercice, est réparti entre les bénéficiaires de la dotation
