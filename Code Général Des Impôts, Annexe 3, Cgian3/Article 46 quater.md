@@ -1,9 +1,18 @@
 Article 46 quater
 ----
-Les dispositions des articles 46 bis et 46 ter sont applicables pour
-l'établissement de l'impôt sur les sociétés afférent aux exercices clos
-postérieurement à la publication du décret n° 62-665 du 6 juin 1962.
+Pour l'application de l'article 208 sexies du code général des impôts,
+l'entreprise nouvelle doit joindre à sa déclaration des résultats de chaque
+exercice un état qui mentionne les renseignements suivants :
 
-Toutefois, en ce qui concerne les bénéfices provenant des locations de terrains
-ou immeubles préalablement aménagés, l'exonération d'impôt sur les sociétés
-prend effet à compter des exercices clos après le 31 juillet 1973.
+a) La nature exacte de l'activité exercée par l'entreprise ;
+
+b) La désignation complète de ses actionnaires ou associés : nom, prénoms,
+profession et adresse des personnes physiques, dénomination ou raison sociale,
+activité et siège social des sociétés ;
+
+c) La répartition, à la date d'ouverture de l'exercice, des droits de vote
+attachés aux titres émis par la société nouvelle ainsi que les modifications
+apportées à cette répartition au cours de cet exercice.
+
+Cet état est établi sur papier libre, conformément au modèle fixé par
+l'administration.
