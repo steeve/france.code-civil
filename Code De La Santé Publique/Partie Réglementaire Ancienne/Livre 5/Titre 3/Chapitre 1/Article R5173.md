@@ -1,10 +1,10 @@
 Article R5173
 ----
 Les pharmaciens ne peuvent délivrer les substances vénéneuses et les
-préparations qui les contiennent pour l'usage de la médecine humaine ou
-vétérinaire, que sur la prescription d'un médecin ou d'un vétérinaire
-[*condition*].
+préparations qui les contiennent que sur la prescription [*condition*]:
 
-Toutefois, ils peuvent délivrer sur la prescription d'un chirurgien dentiste ou
-d'une sage-femme diplômée celles desdites substances dont la liste est fixée par
-arrêté du ministre de la Santé publique et de la Population.
+- d'un médecin ; - d'un directeur de laboratoire d'analyses de biologie
+médicale, pour les prescriptions faites dans les conditions fixées par le
+troisième alinéa de l'article L. 761 ; - d'un chirurgien-dentiste dans le cadre
+de l'article L. 368 du code de la santé publique ; - d'un vétérinaire ; - d'une
+sage-femme, dans les limites de la liste mentionnée à l'article L. 370.
