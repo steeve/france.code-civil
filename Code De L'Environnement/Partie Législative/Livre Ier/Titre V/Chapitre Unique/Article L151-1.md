@@ -3,7 +3,7 @@ Article L151-1
 Le champ d'application de la taxe générale sur les activités polluantes est fixé
 par l'article 266 sexies du code des douanes ci-après reproduit :
 
-" Art. 266 sexies. - I. - Il est institué une taxe générale sur les activités
+"Art. 266 sexies. - I. - Il est institué une taxe générale sur les activités
 polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et
@@ -36,8 +36,8 @@ qui livre sur le marché intérieur après achat, importation ou fabrication dan
 un autre Etat membre de la Communauté européenne ou qui met à la consommation
 des préparations pour lessives, y compris des préparations auxiliaires de
 lavage, ou des produits adoucissants ou assouplissants pour le linge relevant
-respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif
-douanier ;
+respectivement au a du 4 et des rubriques 34022090, 34029090 et 38091010 à
+38099100 du tarif douanier ;
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale
 ou qui livre sur le marché intérieur après achat, importation ou fabrication
@@ -86,12 +86,13 @@ civile ou de lutte contre l'incendie ;
 recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde
 de silicium ;
 
-4. Aux préparations pour lessives, y compris les préparations auxiliaires de
-lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux
-d'extraction, aux produits antiparasitaires à usage agricole ou aux produits
-assimilés mentionnés aux 5, 6 et 7 du I du présent article lorsque la première
-livraison après fabrication nationale consiste en une expédition directe à
-destination d'un Etat membre de la Communauté européenne ou en une exportation ;
+4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations
+auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le
+linge, aux matériaux d'extraction, aux produits antiparasitaires à usage
+agricole ou aux produits assimilés mentionnés au a du 4 et aux 5, 6 et 7 du I du
+présent article lorsque la première livraison après fabrication nationale
+consiste en une expédition directe à destination d'un Etat membre de la
+Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au
-répertoire des métiers. "
+répertoire des métiers."

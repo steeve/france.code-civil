@@ -17,6 +17,8 @@ tout ou partie des attributions qu'il détient au titre du livre IV du présent
 code.
 
 Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont
-inscrits au budget du ministère chargé de l'économie.
+inscrits au budget du ministère chargé de l'économie. Les dispositions de la loi
+du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne
+sont pas applicables à leur gestion.
 
 Le président est ordonnateur des recettes et des dépenses du conseil.

@@ -10,4 +10,4 @@ produits pétroliers et assimilés, à l'exception des produits se trouvant dans
 les cuves des stations-services.
 
 Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé
-lorsque leur montant est inférieur à 2 000 F.
+lorsque leur montant est inférieur à 300 euros.

@@ -5,11 +5,24 @@ réglementation des relations financières avec l'étranger, soit en ne respecta
 pas les obligations de déclaration ou de rapatriement, soit en n'observant pas
 les procédures prescrites ou les formalités exigées, soit en ne se munissant pas
 des autorisations requises ou en ne satisfaisant pas aux conditions dont ces
-autorisations sont assorties sera puni d'une peine d'emprisonnement de un à cinq
-ans, de la confiscation du corps du délit, de la confiscation des moyens de
-transport utilisés pour la fraude et d'une amende égale au minimum au montant et
-au maximum au double de la somme sur laquelle a porté l'infraction ou la
-tentative d'infraction.
+autorisations sont assorties sera puni d'une peine d'emprisonnement de cinq ans,
+de la confiscation du corps du délit, de la confiscation des moyens de transport
+utilisés pour la fraude et d'une amende égale au minimum au montant et au
+maximum au double de la somme sur laquelle a porté l'infraction ou la tentative
+d'infraction.
+
+1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou
+de tenter de contrevenir aux mesures de restriction des relations économiques et
+financières prévues par la réglementation communautaire prise en application des
+articles 60 et 301 du traité instituant la Communauté européenne ou par les
+traités et accords internationaux régulièrement approuvés et ratifiés par la
+France.
+
+1 ter. Les personnes morales peuvent être déclarées responsables pénalement,
+dans les conditions prévues par l'article 121-2 du code pénal, des infractions
+mentionnées au 1 et au 1 bis. Les peines encourues par les personnes morales
+sont l'amende, selon les modalités prévues par l'article 131-38 du code pénal,
+ainsi que les peines mentionnées par l'article 131-39 du même code.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation
 n'ont pu être saisis ou ne sont pas représentés par le délinquant ou lorsque le
@@ -17,9 +30,9 @@ ministre du budget ou son représentant en fait la demande, le tribunal doit,
 pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une
 somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de 3 000 F
-à 1 800 000 F toute personne qui aura incité par écrit, propagande ou publicité
-à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait
+3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à
+225000 euros toute personne qui aura incité par écrit, propagande ou publicité à
+commettre une des infractions visées au 1 ci-dessus, que cette incitation ait
 été ou non suivie d'effet.
 
 4. Les personnes condamnées pour infractions à la législation et à la
