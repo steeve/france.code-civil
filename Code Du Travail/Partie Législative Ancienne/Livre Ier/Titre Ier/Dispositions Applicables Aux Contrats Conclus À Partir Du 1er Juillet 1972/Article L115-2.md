@@ -6,6 +6,17 @@ dispositions de l'article L. 117-9, entre un et trois ans ; elle est fixée dans
 les conditions prévues par le décret mentionné à l'article L. 119-4, en fonction
 du type de profession et du niveau de qualification préparés.
 
+Cette durée peut être adaptée pour tenir compte du niveau initial de compétence
+de l'apprenti. Elle est alors fixée par les cocontractants en fonction de
+l'évaluation des compétences et après autorisation du service de l'inspection de
+l'apprentissage compétent mentionné à l'article L. 119-1.
+
+Les modalités de prise en compte de la durée prévue à l'alinéa précédent dans
+les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité
+régional de la formation professionnelle, de la promotion sociale et de
+l'emploi, par le conseil régional lorsque celui-ci est signataire de la
+convention.
+
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique
 préparé, le contrat peut prendre fin, par accord des deux parties, avant le
 terme fixé initialement.

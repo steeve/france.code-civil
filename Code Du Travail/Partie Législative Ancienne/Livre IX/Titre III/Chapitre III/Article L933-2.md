@@ -18,7 +18,12 @@ d'entreprise pour l'accomplissement de leur mission dans le domaine de la
 formation ;
 
 4° Les conditions d'accueil et d'insertion des jeunes dans les entreprises du
-point de vue de la formation professionnelle ;
+point de vue de la formation professionnelle notamment dans le cadre des
+contrats d'insertion en alternance ;
+
+4° bis Les objectifs en matière d'apprentissage, les priorités à retenir en
+termes de secteurs, de niveaux et d'effectifs formés ainsi que les conditions de
+mise en oeuvre des contrats d'apprentissage ;
 
 5° Les actions de formation à mettre en oeuvre en faveur des salariés ayant les
 niveaux de qualification les moins élevés, notamment pour faciliter leur

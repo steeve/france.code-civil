@@ -1,3 +1,11 @@
 Article L117-4
 ----
-Nul ne peut recevoir des apprentis s'il n'est majeur ou émancipé.
+Dans le cadre du contrat d'apprentissage, la personne directement responsable de
+la formation de l'apprenti et assumant la fonction de tuteur est dénommée maître
+d'apprentissage. Celle-ci doit être majeure et offrir toutes garanties de
+moralité.
+
+Le maître d'apprentissage a pour mission de contribuer à l'acquisition par
+l'apprenti dans l'entreprise des compétences correspondant à la qualification
+recherchée et au titre ou diplôme préparés, en liaison avec le centre de
+formation d'apprentis.
