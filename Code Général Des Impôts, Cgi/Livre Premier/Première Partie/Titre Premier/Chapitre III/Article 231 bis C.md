@@ -10,3 +10,10 @@ capital à l'ensemble de son personnel, dans les conditions prévues à l'articl
 220 bis, est également exonérée de la taxe sur les salaires.
 
 3. (Périmé).
+
+4. Les dividendes des actions de travail qui sont attribuées aux salariés des
+sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917
+bénéficient des dispositions relatives à l'intéressement des salariés à
+l'entreprise et sont, à ce titre, exonérés de la taxe sur les salaires.
+
+Cette disposition s'applique à compter du 1er janvier 1991.
