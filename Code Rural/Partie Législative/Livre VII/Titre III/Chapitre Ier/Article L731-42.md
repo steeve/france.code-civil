@@ -11,13 +11,14 @@ sociale, en pourcentage des revenus professionnels du chef d'exploitation ou
 d'entreprise ou de l'assiette forfaitaire, tels qu'ils sont définis aux articles
 L. 731-14 à L. 731-22 ;
 
-2° Une cotisation due pour chaque chef d'exploitation ou d'entreprise et une
-cotisation due pour chaque aide familial majeur au sens du 2° de l'article L.
-722-10 ainsi que pour le conjoint collaborateur d'exploitation ou d'entreprise
-mentionné à l'article L. 732-35. Cette cotisation est calculée dans la limite du
-plafond prévu à l'article L. 241-3 du code de la sécurité sociale, en
-pourcentage des revenus professionnels du chef d'exploitation ou d'entreprise ou
-de l'assiette forfaitaire définis aux articles L. 731-14 à L. 731-22 ;
+2° a) Une cotisation due pour chaque chef d'exploitation ou d'entreprise
+calculée dans les conditions de celle qui est mentionnée au 1° ;
+
+b) Une cotisation due pour chaque aide familial défini au 2° de l'article L.
+722-10 à partir de l'âge de la majorité ainsi qu'une cotisation due pour le
+conjoint collaborateur d'exploitation ou d'entreprise mentionné à l'article L.
+732-35 ; l'assiette de ces cotisations est déterminée forfaitairement dans des
+conditions fixées par décret ;
 
 3° Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise,
 calculée sur la totalité des revenus professionnels ou sur l'assiette
