@@ -1,8 +1,8 @@
 Article 217
 ----
 Sauf pour les échantillons, dont la sortie temporaire des fabriques peut être
-nécessaire, la libre circulation des boîtes de montres en or au quatrième titre
-et des objets d'or, d'argent et de platine à tous titres est interdite.
+nécessaire, la libre circulation des objets d'or, d'argent et de platine à tous
+titres est interdite.
 
 Les envois de fabricant à fabricant ou de fabricant à marchand exportateur, et
 vice-versa, ou encore ceux à destination de l'étranger, sont effectués en vertu

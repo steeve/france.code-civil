@@ -1,8 +1,7 @@
 Article 219
 ----
 Un compte d'entrées et de sorties est ouvert à chaque fabricant et exportateur
-pour les boîtes de montres en or au quatrième titre et pour les objets d'or,
-d'argent et de platine à tous titres.
+pour les objets d'or, d'argent et de platine à tous titres.
 
 Aux charges, on inscrit, d'une part, les objets fabriqués sur place, d'autre
 part, les objets reçus du dehors en vertu de soumissions régulières. Tout
