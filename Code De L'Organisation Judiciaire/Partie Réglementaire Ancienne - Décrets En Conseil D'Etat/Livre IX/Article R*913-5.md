@@ -1,7 +1,4 @@
 Article R*913-5
 ----
-Les assesseurs sortant d'exercice après quatre années peuvent être réélus pour
-une seconde période de quatre années.
-
-Ces deux périodes expirées, ils ne sont rééligibles qu'après deux ans
-d'intervalle [*délai*].
+Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R.
+414-1 à R. 414-21 sont applicables aux assesseurs des chambres commerciales.

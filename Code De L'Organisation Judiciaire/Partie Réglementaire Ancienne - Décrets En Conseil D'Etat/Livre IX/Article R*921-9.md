@@ -1,5 +1,5 @@
 Article R*921-9
 ----
-Par dérogation à l'article 31 du décret précité du 3 août 1961, le collège
-électoral est convoqué tous les deux ans [*périodicité*] entre le 1er et le 15
-juin inclus, par un arrêté préfectoral pris un mois avant la date du scrutin.
+Les dispositions des articles R. 412-1, R. 412-4, R. 412-17 à R. 412-19 et R.
+414-1 à R. 414-21 sont applicables aux juges élus des tribunaux mixtes de
+commerce.

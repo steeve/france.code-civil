@@ -1,7 +1,8 @@
 Article R*411-1
 ----
-Le nombre et le siège des tribunaux de commerce sont fixés par décret en Conseil
-d'Etat.
+Le siège et le ressort des tribunaux de commerce sont fixés conformément au
+tableau VII annexé au présent code [*tableau non reproduit*].
 
-Le ressort, le nombre de juges et, s'il y a lieu, le nombre de chambres de
-chaque tribunal de commerce sont déterminés par décret.
+Pour l'application de l'article L. 621-5 du code de commerce, le siège et le
+ressort des juridictions commerciales compétentes en métropole sont fixés
+conformément au tableau IX annexé au présent code [*tableau non reproduit*].
