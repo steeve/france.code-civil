@@ -28,4 +28,9 @@ dans les trente jours de la date de dépôt des bordereaux-avis de versement
 acquitté le dernier jour du mois qui suit la mise en paiement de la
 distribution.
 
+Toutefois, le paiement du supplément d'impôt dû en application du troisième
+alinéa du d du paragraphe I de l'article 219 est effectué le dernier jour du
+mois qui suit la clôture de l'exercice au cours duquel l'événement mentionné au
+même alinéa intervient.
+
 1) Annexe III, art. 358 à 366.

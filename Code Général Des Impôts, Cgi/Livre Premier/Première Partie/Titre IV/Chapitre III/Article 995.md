@@ -24,17 +24,18 @@ fluviale ;
 responsabilité civile du transporteur, des aéronefs souscrits contre les risques
 de toute nature de navigation aérienne.
 
-5° Les contrats d'assurances en cas de décès qui garantissent le versement d'un
-capital ou d'une rente viagère à un enfant de l'assuré atteint d'une infirmité
-qui l'empêche, soit de se livrer dans des conditions normales de rentabilité à
-une activité professionnelle, soit, s'il est âgé de moins de dix-huit ans
-[*mineur*], d'acquérir une instruction ou une formation professionnelle d'un
-niveau normal; 5° bis Les contrats d'assurance en cas de vie qui garantissent le
-versement d'un capital ou d'une rente viagère à l'assuré atteint d'une infirmité
-qui l'empêche de se livrer dans des conditions normales de rentabilité à une
-activité professionelle ; 6° Les contrats d'assurances sur les risques de gel de
-récoltes et de tempêtes sur récoltes ou sur bois sur pied. 7° Les contrats
-d'assurances sur marchandises transportées et responsabilité civile du
-transporteur des transports terrestres ;
+5° Les contrats d'assurances sur la vie et assimilés y compris les contrats de
+rente viagère (1);
+
+5° bis (Abrogé) (1);
+
+6° Les contrats d'assurances sur les risques de gel de récoltes et de tempêtes
+sur récoltes ou sur bois sur pied. 7° Les contrats d'assurances sur marchandises
+transportées et responsabilité civile du transporteur des transports terrestres
+;
 
 8° Les assurances des crédits à l'exportation.
+
+(1) Ces dispositions s'appliquent à compter du 1er juillet 1990, sauf pour les
+opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
+populaire pour lesquels la date d'application est fixée au 1er janvier 1990.

@@ -104,13 +104,37 @@ duquel les actions reçues en échange sont cédées. Les actions reçues en éc
 sont inscrites au bilan pour la même valeur comptable que celle des actions
 échangées (6).
 
+8. 1° La plus-value de cession séparée de valeurs mobilières et de droits de
+souscription qui leur sont attachés, acquis pour un prix unique, est calculée
+par référence à la fraction du prix d'acquisition afférente à chacun de ces
+éléments.
+
+La fraction afférente aux droits de souscription est égale à la différence entre
+le prix unique et le prix de la valeur mobilière à la date de la souscription ou
+de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
+
+2° La différence entre la valeur actuelle d'une obligation assortie de droits de
+souscription et sa valeur de remboursement est considérée, pour l'imposition du
+souscripteur, comme une prime de remboursement. Toutefois celle-ci n'est soumise
+aux dispositions du paragraphe I de l'article 238 septies B du code général des
+impôts que si son montant excède 15 p. 100 de la valeur actuelle de
+l'obligation.
+
+3° Les sommes reçues par une entreprise lors de l'émission de droits de
+souscription ou d'acquisition de valeurs mobilières sont comprises dans ses
+résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont
+pas été exercés.
+
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
-nationalisation, voir art. 248 A. (2) Disposition applicable pour la
-détermination des résultats des exercices clos à compter du 16 avril 1986. Pour
-les exercices en cours à cette date, voir loi n°86-824 du 11 juillet 1986, art.
-21-II. (3) Voir annexe III, art. 2 A. (4
+nationalisation, voir art. 248 A.
 
-Voir annexe III, art. 2 B. (5
+(2) Disposition applicable pour la détermination des résultats des exercices
+clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir
+loi n°86-824 du 11 juillet 1986, art. 21-II. (3) Voir annexe III, art. 2 A.
 
-Voir annexe III, art. 2 C. (6) Ces dispositions s'appliquent aux opérations
-d'échange réalisées à compter du 1er janvier 1988.
+(4) Voir annexe III, art. 2 B.
+
+(5) Voir annexe III, art. 2 C.
+
+(6) Ces dispositions s'appliquent aux opérations d'échange réalisées à compter
+du 1er janvier 1988.

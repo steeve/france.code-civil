@@ -5,22 +5,22 @@ I. (Transféré au 1648 A bis-I).
 II. Sous réserve des dispositions de l'article 1648 B bis, le surplus des
 ressources du fonds défini au III de l'article 1648 A bis comporte :
 
-1° Une part principale qui ne peut être inférieure à 75 p. 100 de ce surplus,
+1° Une part principale qui ne peut être inférieure à 70 p. 100 de ce surplus,
 répartie entre les communes :
 
-a) dont le potentiel fiscal par habitant est inférieur au potentiel fiscal moyen
-par habitant de l'ensemble des communes appartenant au même groupe
-démographique.
+a) Dont le potentiel fiscal par habitant est inférieur d'au moins 10 p. 100 au
+potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au
+même groupe démographique ;
 
 b) Et dont l'effort fiscal, tel qu'il est défini à l'article L. 234-5 du code
-des communes, est au moins égal à l'effort fiscal moyen des communes appartenant
-au même groupe démographique. Pour les communes dont le taux d'imposition à la
-taxe professionnelle est égal au plafond prévu aux paragraphes IV et V de
-l'article 1636 B septies du présent code, il n'est pas tenu compte de cette
-dernière condition. L'effort fiscal d'une commune membre d'un groupement de
-communes est calculé en ajoutant aux taux de chacune de ses propres taxes
-communales ceux appliqués par le groupement de communes aux bases respectives
-desdites taxes.
+des communes, est supérieur d'au moins 10 p. 100 à l'effort fiscal moyen (1) des
+communes appartenant au même groupe démographique. Pour les communes dont le
+taux d'imposition à la taxe professionnelle est égal au plafond prévu aux
+paragraphes IV et V de l'article 1636 B septies du présent code, il n'est pas
+tenu compte de cette dernière condition. L'effort fiscal d'une commune membre
+d'un groupement de communes est calculé en ajoutant aux taux de chacune de ses
+propres taxes communales ceux appliqués par le groupement de communes aux bases
+respectives desdites taxes.
 
 Les communes qui remplissent la condition prévue au a et dont l'effort fiscal
 est inférieur à la moyenne définie au b sans être inférieur à 90 p. 100 de cette
@@ -54,32 +54,42 @@ non renouvelable, une dotation égale à la moitié de celle reçue en 1985.
 2° Une seconde part, au plus égale à 20 p. 100 de ce surplus, qui sert à verser
 une compensation aux communes qui enregistrent d'une année sur l'autre une perte
 importante de bases d'imposition à la taxe professionnelle. Cette compensation
-est versée de manière dégressive sur deux ans.
+est versée de manière dégressive sur deux ans. Ce délai est porté à quatre ans
+pour les communes bénéficiaires de cette seconde part, à compter du 1er janvier
+1990.
 
 Les conditions que doivent remplir les communes pour bénéficier de cette seconde
 part ainsi que le calcul des attributions qui leur reviennent sont fixées par
 décret en Conseil d'Etat en tenant compte, notamment, de la perte de produit de
 taxe professionnelle et de l'importance relative de la perte de produit fiscal
 qui en résulte par rapport aux recettes de la commune provenant de la taxe
-d'habitation, des taxes foncières et de la taxe professionnelle. Toutefois, à
-compter du 1er janvier 1986, cette durée est portée à cinq ans pour les communes
-situées dans les cantons où l'Etat anime une politique de conversion
-industrielle et dont la liste est fixée par décret (1).
+d'habitation, des taxes foncières et de la taxe professionnelle. A compter du
+1er janvier 1991, les communes dont les pertes de bases sont compensées sur
+quatre ans, bénéficient :
 
-3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée
-aux communes qui connaissent des difficultés financières graves en raison d'une
+la première année, d'une attribution égale au plus à 90 p. 100 de la perte de
+bases qu'elles ont enregistrée ;
+
+la deuxième année, de 75 p. 100 de l'attribution reçue l'année précédente ;
+
+la troisième année, de 50 p. 100 de l'attribution reçue la première année ;
+
+la quatrième année, de 25 p. 100 de l'attribution reçue la première année.
+Toutefois, à compter du 1er janvier 1986, cette durée est portée à cinq ans pour
+les communes situées dans les cantons où l'Etat anime une politique de
+conversion industrielle et dont la liste est fixée par décret (2). 3° Une part
+résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée aux
+communes qui connaissent des difficultés financières graves en raison d'une
 baisse, sur une ou plusieurs années, de leurs bases d'imposition à la taxe
-professionnelle (2) ou de leurs ressources de redevance des mines, et dont le
-budget primitif de l'exercice en cours a été soumis à la chambre régionale des
-comptes dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars
-1982 relative aux droits et libertés des communes, des départements et des
-régions. Cette part est répartie selon la même procédure que celle relative aux
+professionnelle ou de leurs ressources de redevance des mines, et dont le budget
+primitif de l'exercice en cours a été soumis à la chambre régionale des comptes
+dans les conditions fixées par l'article 8 de la loi n° 82-213 du 2 mars 1982
+relative aux droits et libertés des communes, des départements et des régions.
+Cette part est répartie selon la même procédure que celle relative aux
 subventions exceptionnelles accordées en application de l'article L235-5 du code
-des communes.
-
-Le montant des crédits affectés à chacune de ces parts est fixé chaque année par
-le comité des finances locales, à qui il est rendu compte de l'utilisation
-desdites parts.
+des communes. Le montant des crédits affectés à chacune de ces parts est fixé
+chaque année par le comité des finances locales, à qui il est rendu compte de
+l'utilisation desdites parts.
 
 II bis. Pour l'application du II, le potentiel fiscal de chaque commune membre
 d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article
@@ -88,10 +98,10 @@ d'une communauté ou d'un syndicat d'agglomération nouvelle visés à l'article
 III. Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat (3).
 
-(1) Dispositions applicables à compter du 1er janvier 1986).
+(1) Le Gouvernement présentera au Parlement, avant le 28 février 1990, un
+rapport présentant les résultats de la simulation réalisée sur la base du
+dispositif visé et proposant les modifications qu'il conviendrait d'apporter.
 
-(2) Les pertes de base d'imposition à la taxe professionnelle sont calculées
-pour 1987 sans tenir compte de la diminution de 16 % prévue à l'article 1472 A
-bis.
+(2) Décret n° 86-422 du 12 mars 1986.
 
 (3) Décret n° 85-260 du 22 février 1985 (J.O. du 24).

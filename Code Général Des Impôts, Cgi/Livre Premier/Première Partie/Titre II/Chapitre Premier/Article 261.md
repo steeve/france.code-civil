@@ -31,12 +31,10 @@ celles qui déterminent l'arrêt de la filière ; 5° (Abrogé).
 
 1° (Abrogé) ;
 
-2° Les opérations réalisées par les coopératives d'insémination artificielle et
-les coopératives d'utilisation de matériel agricole ; 3° Les prestations
-réalisées dans le cadre de l'entraide entre agriculteurs définie par l'article
-20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation
-agricole. Cette exonération pourra être étendue par décret en Conseil d'Etat aux
-départements d'outre-mer (2) ;
+2° (Abrogé) ; 3° Les prestations réalisées dans le cadre de l'entraide entre
+agriculteurs définie par l'article 20 de la loi n° 62-933 du 8 août 1962
+complémentaire à la loi d'orientation agricole. Cette exonération pourra être
+étendue par décret en Conseil d'Etat aux départements d'outre-mer (2) ;
 
 4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui
 concerne la vente des produits de leur pêche (poissons, crustacés, coquillages
@@ -70,7 +68,10 @@ soins mentionnés à l'article 31 de la loi n° 70-1318 du 31 décembre 1970 por
 réforme hospitalière. 2° Les livraisons, commissions, courtages et façons
 portant sur les organes, le sang et le lait humains ;
 
-3° (Abrogé) ;
+3° Le transport de malades ou de blessés à l'aide de véhicules spécialement
+aménagés à cet effet effectué par des personnes visées à l'article L. 51-2 du
+code de la santé publique [*exonération des transports sanitaires par
+ambulances*] ;
 
 4° a. Les prestations de services et les livraisons de biens qui leur sont
 étroitement liées, effectuées dans le cadre :
@@ -123,7 +124,7 @@ leur profession ;
 
 8° (Abrogé).
 
-9° Les personnes de services et les livraisons de biens qui leur sont
+9° Les prestations de services et les livraisons de biens qui leur sont
 étroitement liées fournies à leurs membres, moyennant une cotisation fixée
 conformément aux statuts, par des organismes légalement constitués agissant sans
 but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs
@@ -253,7 +254,9 @@ chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs
 obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à
 déduction (5) ;
 
-2° (Abrogé).
+1° bis Les opérations effectuées par les associations intermédiaires agréées en
+application de l'article L128 du code du travail, dans les conditions prévues au
+1° ; 2° (Abrogé).
 
 3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles
 ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n°

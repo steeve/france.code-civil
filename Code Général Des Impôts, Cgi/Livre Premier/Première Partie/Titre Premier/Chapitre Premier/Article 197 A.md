@@ -9,9 +9,10 @@ inférieur à 25 % [*pourcentage*] du revenu net imposable ou à 18 % pour les
 revenus ayant leur source dans les départements d'outre-mer ; ces taux minima
 d'imposition ne sont toutefois pas applicables aux personnes qui peuvent
 justifier que l'impôt français sur leur revenu global serait inférieur à celui
-résultant de l'application de ces taux minima ;
+résultant de l'application de ces taux minima ; toutefois, lorsque le
+contribuable justifie que le taux de l'impôt français sur l'ensemble de ses
+revenus de source française ou étrangère serait inférieur à ces minima, ce taux
+est applicable à ses revenus de source française.
 
 b Disposent en France d'une ou plusieurs habitations et sont imposables à ce
-titre, en vertu de l'article 164 C (1).
-
-1) Dispositions applicables à compter du 1er janvier 1977.
+titre, en vertu de l'article 164 C.

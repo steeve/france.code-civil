@@ -1,7 +1,7 @@
 Article 238 octies A
 ----
 Les plus-values à long terme réalisées par une entreprise industrielle ou
-commerciale, entre le 1er janvier 1988 et le 31 décembre 1989, lors de la
+commerciale, entre le 1er janvier 1988 et le 31 décembre 1991, lors de la
 cession de terrains d'assiette de bâtiments destinés à être démolis et de
 terrains formant une dépendance indispensable et immédiate de ces constructions,
 détenus depuis cinq ans au moins et qui ont cessé d'être affectés à

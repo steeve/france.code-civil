@@ -33,6 +33,10 @@ d'apport.
 long terme de la société est diminué, le cas échéant, du montant des profits ou
 des plus-values à long terme qui résultent des abandons de créances consentis
 par une autre société du groupe, des cessions visées à l'article 223 F ainsi que
-d'une réévaluation libre des éléments d'actif de cette société. De même, le
-déficit ou la moins-value nette à long terme de la société, mentionné au b du 1
-et au 3, est augmenté de ces profits ou plus-values.
+d'une réévaluation libre des éléments d'actif de cette société ; ils sont
+également diminués du montant des plus-values de cession d'immobilisations non
+amortissables qui ont fait l'objet d'un apport ayant bénéficié des dispositions
+de l'article 210 A ainsi que des plus-values réintégrées en application du d du
+3 du même article. De même, le déficit ou la moins-value nette à long terme de
+la société, mentionné au b du 1 et au 3, est augmenté de ces profits ou
+plus-values.

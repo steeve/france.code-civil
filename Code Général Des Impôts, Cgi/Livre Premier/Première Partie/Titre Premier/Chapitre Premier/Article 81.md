@@ -115,7 +115,7 @@ retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues 
 titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
 d'entreprise ;
 
-19° Dans la limite de 18 F [*montant*] par titre (2), le complément de
+19° Dans la limite de 21,50 F [*montant*] par titre (2), le complément de
 rémunération résultant de la contribution de l'employeur à l'acquisition par le
 salarié des titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
@@ -128,35 +128,30 @@ du 27 septembre 1967 et les textes pris pour son application (4) ;
 
 19° bis Le complément de rémunération résultant de la contribution de
 l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
-conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée (5), dans
-la limite du salaire minimum interprofessionnel de croissance apprécié sur une
-base mensuelle ;
+conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 (5), dans la limite
+du salaire minimum interprofessionnel de croissance apprécié sur une base
+mensuelle ;
 
 20° Les attributions gratuites d'actions :
 
 a. De la Régie nationale des usines Renault faites à des salariés de la Régie en
-application de l'article 2 de la loi n° 70-11 du 2 janvier 1970 ;
-
-b. (Abrogé).
-
+application de l'article 2 de la loi n° 70-11 du 2 janvier 1970 ; b. (Abrogé).
 c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des
 assurances, faites au personnel des entreprises nationales d'assurances en
-application des articles L 322-13 et L 322-22 du code précité ;
-
-d. De la société nationale d'étude et de construction de moteurs d'aviation
-*SNECMA* et de la société nationale industrielle aérospatiale *SNIAS*, faites au
-personnel de ces entreprises en application de l'article 1er de la loi n° 73-9
-du 4 janvier 1973.
-
-21° (Abrogé).
-
-22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article
-L122-14-13 du code du travail (6) dans la limite de 20 000 F.
+application des articles L 322-13 et L 322-22 du code précité ; d. De la société
+nationale d'étude et de construction de moteurs d'aviation *SNECMA* et de la
+société nationale industrielle aérospatiale *SNIAS*, faites au personnel de ces
+entreprises en application de l'article 1er de la loi n° 73-9 du 4 janvier 1973.
+21° (Abrogé). 22° Les indemnités de départ en retraite, prévues au premier
+alinéa de l'article L122-14-13 du code du travail (6) dans la limite de 20 000
+F. 23° L'indemnité compensatoire pour frais de transport instituée par les
+décrets n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août
+1989.
 
 (1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(2) Chiffre applicable depuis le 1er janvier 1989 ; cette limite était
-antérieurement de 15 F.
+(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite était
+antérieurement de 18 F.
 
 (3) Annexe IV, art. 23 M.
 

@@ -7,9 +7,9 @@ France par les sociétés étrangères, définition*] visés à l'alinéa préc�
 s'entendent du montant total des résultats, imposables ou exonérés, après
 déduction de l'impôt sur les sociétés. 1 bis Le supplément d'impôt sur les
 sociétés prévu au c du paragraphe I de l'article 219 est dû à raison des sommes
-qui cessent d'être à la disposition de l'exploitation française dans la limite
-de la somme des bénéfices réputés distribués en application du I au titre des
-exercices ouverts à compter du 1er janvier 1989.
+qui cessent d'être à la disposition de l'exploitation française au cours des
+exercices ouverts à compter du 1er janvier 1989 dans la limite de la somme des
+bénéfices réputés distribués en application du I au titre des mêmes exercices.
 
 2 Toutefois, la société peut demander que la retenue à la source exigible en
 vertu des dispositions du 1 et de l'article 119 bis-2 fasse l'objet d'une

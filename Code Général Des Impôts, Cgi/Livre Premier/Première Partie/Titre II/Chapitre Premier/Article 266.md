@@ -49,7 +49,7 @@ g. Par la différence entre le prix de vente et le prix d'achat en ce qui
 concerne :
 
 - les ventes d'objets d'occasion, autres que celles portant sur les biens visés
-à l'article 257-13° ou figurant à la liste visée à l'article 261-3-1°-A ;
+à l'article 257-13° ou à l'article 261-3-1°-A ;
 
 - les ventes d'oeuvres d'art originales répondant aux conditions qui sont fixées
 par décret, lequel précise également les modalités de détermination de
@@ -68,7 +68,7 @@ Toutefois, tant que le montant cumulé des péages, déduction faite des redevan
 proportionnelles versées à l'autorité concédante, est inférieur au montant
 cumulé des dépenses de financement et des charges d'exploitation, la taxe sur la
 valeur ajoutée est due sur la fraction des recettes de péage correspondant au
-rapport entre les charges d'exploitation et le total des dépenses (4).
+rapport entre les charges d'exploitation et le total des dépenses.
 
 1 bis. (Abrogé).
 
@@ -92,7 +92,7 @@ l'article L17 du livre des procédures fiscales, si cette valeur vénale est
 supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux,
 augmenté des charges.
 
-Toutefois, dans le cas de cession de droits sociaux, un décret (6) peut diminuer
+Toutefois, dans le cas de cession de droits sociaux, un décret (4) peut diminuer
 la base d'imposition ainsi définie du montant des sommes investies par le cédant
 pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les
 dispositions de l'article 271 cessent de s'appliquer ;
@@ -101,8 +101,10 @@ b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de
 location-vente entrant dans les prévisions de l'article 1378 quinquies, sur la
 différence entre :
 
-- d'une part, le prix exprimé et les charges qui peuvent s'y ajouter, - d'autre
-part, les sommes versées par le cédant en vue de l'acquisition du logement.
+- d'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
+
+- d'autre part, les sommes versées par le cédant en vue de l'acquisition du
+logement.
 
 Ces dispositions s'appliquent aux offices publics d'aménagement et de
 construction pour les opérations faites en application de la législation sur les
@@ -124,6 +126,4 @@ devenir la propriété du bailleur en fin de bail.
 (3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir
 même Annexe, art. 71.
 
-(4) Ces dispositions ont un caractère interprétatif.
-
-(5) Annexe II, art. 248.
+(4) Annexe II, art. 248.

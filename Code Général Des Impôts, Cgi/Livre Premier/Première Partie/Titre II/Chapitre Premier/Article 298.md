@@ -17,28 +17,34 @@ repris aux numéros 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du
 tarif des douanes et non destinés à être utilisés comme carburants, la valeur
 imposable lors de la mise à la consommation est fixée forfaitairement, pour
 chaque trimestre de l'année civile, par décision du directeur général des
-douanes et des droits indirects, sur proposition du directeur des carburants. En
-ce qui concerne les produits autres que le gaz comprimé destiné à être utilisé
-comme carburant, cette valeur est établie sur la base du prix C.A.F. moyen des
-produits importés, majoré du montant des droits de douane applicables aux
-produits de l'espèce en régime de droit commun en tarif minimum et des taxes et
-redevances perçues lors de la mise à la consommation, à l'exception de la taxe
-sur la valeur ajoutée. La valeur imposable peut être révisée au cours du
-trimestre par décision du directeur général des douanes et droits indirects sur
-proposition du directeur des hydrocarbures, dans le cas où les prix C.A.F. des
-produits pétroliers accusent une variation en plus ou en moins, égale ou
-supérieure à 10 p. 100 par rapport aux prix ayant servi de base au calcul de
-cette valeur.
+douanes et des droits indirects, sur proposition du directeur des carburants.
+
+En ce qui concerne les produits autres que le gaz comprimé destiné à être
+utilisé comme carburant, cette valeur est établie sur la base du prix C.A.F.
+moyen des produits importés, majoré du montant des droits de douane applicables
+aux produits de l'espèce en régime de droit commun en tarif minimum et des taxes
+et redevances perçues lors de la mise à la consommation, à l'exception de la
+taxe sur la valeur ajoutée.
+
+La valeur imposable peut être révisée au cours du trimestre par décision du
+directeur général des douanes et droits indirects sur proposition du directeur
+des hydrocarbures, dans le cas où les prix C.A.F. des produits pétroliers
+accusent une variation en plus ou en moins, égale ou supérieure à 10 p. 100 par
+rapport aux prix ayant servi de base au calcul de cette valeur.
 
 2° La valeur imposable lors des opérations postérieures à la mise à la
-consommation est fixée dans les conditions prévues aux articles 266 et 267; 3°
-(Abrogé) 3 Sous réserve des dispositions du 4, les droits à déduction dont
-peuvent bénéficier l'industrie et le commerce du pétrole sont déterminés dans
-les conditions prévues aux articles 271 et 273. 4 1°. La taxe sur la valeur
-ajoutée qui a grevé des produits pétroliers et les services de toute nature
-utilisés pour la fabrication ou la commercialisation desdits produits n'est
-déductible que si ces produits sont ultérieurement livrés ou vendus en l'état ou
-sous forme d'autres produits pétroliers [*condition*].
+consommation est fixée dans les conditions prévues aux articles 266 et 267;
+
+3° (Abrogé)
+
+3 Sous réserve des dispositions du 4, les droits à déduction dont peuvent
+bénéficier l'industrie et le commerce du pétrole sont déterminés dans les
+conditions prévues aux articles 271 et 273.
+
+4 1°. La taxe sur la valeur ajoutée qui a grevé des produits pétroliers et les
+services de toute nature utilisés pour la fabrication ou la commercialisation
+desdits produits n'est déductible que si ces produits sont ultérieurement livrés
+ou vendus en l'état ou sous forme d'autres produits pétroliers [*condition*].
 
 1° bis. Ouvrent droit à déduction de la taxe sur la valeur ajoutée, dans les
 conditions fixées par les articles 271 à 273, les achats, importations,
@@ -82,9 +88,9 @@ Sont considérés comme des transports internationaux [*définition*] les
 transports exonérés de la taxe sur la valeur ajoutée en vertu des articles 262
 et 291-II.
 
-Le gazole [*définition*] visé au présent article s'entend du produit relevant de
-la position 27-10-00-69 du tarif des douanes et repris au tableau B de l'article
-265 du code des douanes sous l'indice d'identification 22.
+Le gazole [*définition ou gas-oil*] visé au présent article s'entend du produit
+relevant de la position 27-10-00-69 du tarif des douanes et repris au tableau B
+de l'article 265 du code des douanes sous l'indice d'identification 22.
 
 b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex
 27-11-19 du tarif des douanes) utilisé comme carburant routier ;
@@ -94,14 +100,21 @@ livraisons et services portant sur le fioul [*fuel*] domestique utilisé pour de
 usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans
 les conditions fixées aux articles 271 à 273, par les personnes visées à
 l'article 298 bis, par les coopératives d'utilisation de matériel agricole et
-par les entrepreneurs de travaux agricoles. Le fioul domestique visé au présent
-article s'entend du produit mentionné au tableau B de l'article 265 du code des
-douanes (1) ; 1° quinquies. La taxe sur la valeur ajoutée afférente aux achats,
-importations, livraisons et services portant sur les carburéacteurs mentionnés à
-la position 27 10 00 du tableau B de l'article 265 du code des douanes est
-déductible, dans les conditions prévues aux articles 271 à 273, lorsqu'ils sont
-utilisés pour les besoins de transports aériens publics de voyageurs ou de
-marchandises.
+par les entrepreneurs de travaux agricoles.
+
+La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et
+services portant sur le fioul domestique utilisé comme carburant pour la
+réalisation de transports fluviaux est déductible, à concurrence de 50 p. 100 de
+son montant, dans les conditions prévues aux articles 271 à 273.
+
+Le fioul [*fuel*] domestique visé au présent article s'entend du produit
+mentionné au tableau B de l'article 265 du code des douanes ;
+
+1° quinquies. La taxe sur la valeur ajoutée afférente aux achats, importations,
+livraisons et services portant sur les carburéacteurs mentionnés à la position
+27 10 00 du tableau B de l'article 265 du code des douanes est déductible, dans
+les conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour les
+besoins de transports aériens publics de voyageurs ou de marchandises.
 
 En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux
 tiers de son montant.
@@ -144,6 +157,3 @@ tableau B de l'article 265 du code des douanes sous les indices d'identification
 30, 33, 35, 37, 38 et 39.
 
 7 (Transféré sous l'article L 45 C du livre des procédures fiscales).
-
-(1) Pour l'application de ces dispositions, les droits à déduction sont pris en
-compte à compter du 1er janvier 1986.

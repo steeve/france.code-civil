@@ -8,10 +8,6 @@ entre leurs actionnaires de la totalité des bénéfices qui, en vertu de l'arti
 quel que soit le montant des réserves [*conditions d'exonération de l'impôt sur
 les sociétés*].
 
-Le bénéfice des dispositions du 1° bis A de l'article 208 est réservé aux
-sociétés d'investissement à capital variable [*SICAV*] qui distribuent ou
-s'engagent à distribuer au titre de chaque exercice l'intégralité des sommes
-distribuables calculées conformément à l'article 31 de la loi n° 88 -1201 du 23
-décembre 1988.
+(Abrogé).
 
 (1) Voir annexe 3 art. 46 quater A à 46 quater C.

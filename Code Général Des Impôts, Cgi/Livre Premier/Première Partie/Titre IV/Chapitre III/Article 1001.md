@@ -35,16 +35,7 @@ agricole :
 - à 19 % pour les assurances contre les risques de toute nature de navigation
 maritime ou fluviale des bateaux de sport ou de plaisance ;
 
-4° Pour les assurances sur la vie :
-
-- à 5,15 % pour les assurances sur la vie et assimilées, y compris les contrats
-de rente viagère, autre que celles indiquées ci-après et pour les assurances de
-groupe ;
-
-- à 2,40 % pour les contrats de rente viagère immédiate ou différée de moins de
-trois ans, lorsque, au moment de la souscription du contrat, le souscripteur est
-âgé de plus de 60 ans ou atteint d'une infirmité le mettant dans l'impossibilité
-de subvenir par son travail aux nécessités de l'existence ;
+4° (Abrogé) (1) ;
 
 5° (Abrogé) ;
 
@@ -59,3 +50,7 @@ véhicules terrestres à moteur :
 risques de transport sont compris dans les risques désignés sous le 3° ou sous
 le 6°, suivant qu'il s'agit de transports par eau et par air ou de transports
 terrestres.
+
+(1) Cette abrogation s'applique à compter du 1er juillet 1990, sauf pour les
+opérations d'assurance sur la vie réalisées dans le cadre d'un plan d'épargne
+populaire pour lesquels la date d'application est fixée au 1er janvier 1990.

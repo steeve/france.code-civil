@@ -23,6 +23,10 @@ droits;
 f Les plus-values mentionnées à l'article 160 et résultant de la cession de
 droits afférents à des sociétés ayant leur siège [*social*] en France.
 
+g Les sommes, y compris les salaires, payées à compter du 1er janvier 1990,
+correspondant à des prestations artistiques ou sportives fournies ou utilisées
+en France.
+
 II Sont également considérés comme revenus de source française lorsque le
 débiteur des revenus a son domicile fiscal ou est établi en France :
 
@@ -35,6 +39,4 @@ produits tirés de la propriété industrielle ou commerciale et de droits
 assimilés;
 
 c Les sommes payées en rémunération des prestations de toute nature fournies ou
-utilisées en France (1).
-
-(1) Ces dispositions sont applicables à compter du 1er janvier 1977.
+utilisées en France.

@@ -6,7 +6,9 @@ sociétés, peut se constituer seule redevable de l'impôt sur les sociétés d�
 l'ensemble des résultats du groupe formé par elle-même et les sociétés dont elle
 détient 95 p. 100 au moins du capital, de manière continue au cours de
 l'exercice, directement ou indirectement par l'intermédiaire de sociétés du
-groupe. Dans ce cas, elle est également redevable du précompte et de
+groupe. Dans ce cas, elle est également redevable du supplément d'impôt sur les
+sociétés mentionné au c du paragraphe I de l'article 219 dû à raison des
+bénéfices distribués par les sociétés du groupe, ainsi que du précompte et de
 l'imposition forfaitaire annuelle dus par les sociétés du groupe.
 
 Si l'exercice d'options de souscription d'actions dans les conditions prévues à

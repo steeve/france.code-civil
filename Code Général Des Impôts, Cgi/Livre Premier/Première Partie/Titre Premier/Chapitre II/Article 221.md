@@ -4,14 +4,14 @@ Article 221
 mêmes sanctions que l'impôt sur le revenu (bénéfices industriels et commerciaux,
 régime d'imposition d'après le bénéfice réel ou d'après le régime simplifié).
 
-2 En cas de dissolution, de transformation entraînant la création d'un être
-moral nouveau, d'apport en société, de fusion, de transfert du siège ou d'un
+2 En cas de dissolution, de transformation entraînant la création d'une personne
+morale nouvelle , d'apport en société, de fusion, de transfert du siège ou d'un
 établissement à l'étranger, l'impôt sur les sociétés est établi dans les
-conditions prévues à l'article 201-1 et 3.
-
-De même, sous réserve des dispositions de l'article 221 bis, la transformation
-d'une société par actions ou à responsabilité limitée en une société de
-personnes est considérée comme une cessation d'entreprise.
+conditions prévues à l'article 201-1 et 3. Il en est de même, sous réserve des
+dispositions de l'article 221 bis, lorsque les sociétés ou organismes mentionnés
+aux articles 206 à 208 quinquies, 239 et 239 bis AA cessent d'être soumis à
+l'impôt sur les sociétés au taux prévu au deuxième alinéa du paragraphe I de
+l'article 219.
 
 2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la
 modification des statuts tendant à assigner à une société quelconque un objet
