@@ -1,14 +1,14 @@
 Article 146
 ----
-Les mines de combustibles minéraux nationalisées sont gérées par des
-établissements publics nationaux de caractère industriel et commercial dotés de
-la personnalité civile et de l'autonomie financière qui sont :
+Les concessions de combustibles minéraux solides, autres que la tourbe,
+nationalisées le 18 mai 1946 sont gérées conformément aux dispositions du
+présent code par un établissement public à caractère industriel et commercial
+dénommé "Charbonnages de France". Cet établissement est doté de la personnalité
+morale et de l'autonomie financière.
 
-1° Un établissement public central dénommé "Charbonnages de France" dont
-l'action s'exerce sur l'ensemble du territoire ;
-
-2° Des établissements publics distincts, dénommés "Houillères du bassin de ..."
-constitués dans chaque bassin houiller par des décrets pris sur le rapport du
-ministre chargé des mines, du ministre de l'économie et des finances, le
-commissaire au plan entendu ; ces décrets délimitent leurs champs d'action
-respectifs.
+Un décret en Conseil d'Etat fixe les modalités de la dissolution de cet
+établissement, qui interviendra au plus tard quatre ans après la fin de
+l'exploitation par celui-ci de sa dernière mine, à condition que cet
+établissement ait rempli toutes ses obligations liées à la fin des concessions
+minières ou que celles-ci aient été transférées à une autre personne morale
+chargée de les remplir.

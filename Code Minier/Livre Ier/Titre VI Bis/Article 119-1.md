@@ -29,8 +29,7 @@ l'accomplissement des missions de service public relatives à la sécurité
 d'approvisionnement, au maintien de l'équilibre des réseaux raccordés et à la
 continuité de fourniture du gaz naturel ;
 
-f) Inobservation des dispositions des deuxième et troisième alinéas de l'article
-81 ;
+f) Inobservation des dispositions de l'article 81 ;
 
 g) Inobservation des conditions fixées dans l'acte institutif ; non-respect des
 engagements mentionnés à l'article 25 ;
