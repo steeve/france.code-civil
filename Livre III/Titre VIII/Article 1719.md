@@ -3,7 +3,8 @@ Article 1719
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin
 d'aucune stipulation particulière :
 
-1° De délivrer au preneur la chose louée ;
+1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation
+principale, un logement décent ;
 
 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été
 louée ;
