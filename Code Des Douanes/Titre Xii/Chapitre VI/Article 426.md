@@ -38,5 +38,6 @@ territoire douanier français ou y entrant ;
 ayant pour but ou pour effet d'éluder ou de compromettre le recouvrement des
 droits prévus à l'article 19 bis ci-dessus ;
 
-7° tout mouvement de marchandises visées au 4 de l'article 38, effectué en
-infraction aux dispositions portant prohibition d'exportation ou d'importation.
+7° tout mouvement de marchandises visées au 4 et au 5 de l'article 38, effectué
+en infraction aux dispositions portant prohibition d'exportation ou
+d'importation.

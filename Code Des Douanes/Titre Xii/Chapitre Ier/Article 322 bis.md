@@ -1,8 +1,8 @@
 Article 322 bis
 ----
-Les agents des douanes peuvent consigner les marchandises visées au 4 de
+Les agents des douanes peuvent consigner les marchandises visées au 4 et au 5 de
 l'article 38 ci-dessus ou susceptibles d'appartenir à l'une des catégories de
-marchandises énumérées dans cette même disposition, et éventuellement les
+marchandises énumérées dans ces mêmes dispositions, et éventuellement les
 véhicules qui les transportent, dans les locaux professionnels ou dans tout
 autre lieu autorisé par le service, aux frais du propriétaire, du destinataire,
 de l'exportateur ou, à défaut, de toute autre personne qui participe à
