@@ -10,3 +10,9 @@ L. 252-1 du code de la construction et de l'habitation.
 
 Les obligations déclaratives des personnes et organismes entrant dans le champ
 d'application du premier alinéa sont fixées par décret.
+
+Les logements pris à bail, à compter du 1er janvier 2005, dans les conditions
+fixées par les articles L. 252-1 à L. 252-4 du code de la construction et de
+l'habitation, sont exonérés de taxe foncière sur les propriétés bâties pendant
+la durée de ce bail. Les pertes de recettes résultant de cette exonération sont
+compensées intégralement.

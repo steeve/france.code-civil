@@ -1,0 +1,28 @@
+Article 244 quater G
+----
+I. - Les entreprises imposées d'après leur bénéfice réel ou exonérées en
+application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies peuvent
+bénéficier d'un crédit d'impôt égal au produit du montant de 1 600 Euros par le
+nombre moyen annuel d'apprentis dont le contrat est régi par les dispositions
+des articles L. 117-1 à L. 117-18 du code du travail. Ce montant est porté à 2
+200 Euros lorsque la qualité de travailleur handicapé est reconnue à l'apprenti
+en application de l'article L. 323-10 du même code ou lorsque celui-ci bénéficie
+de l'accompagnement personnalisé prévu à la dernière phrase du premier alinéa de
+l'article L. 322-4-17-2 du même code.
+
+II. - Le crédit d'impôt est plafonné au montant des dépenses de personnel
+afférentes aux apprentis visés au I minoré des subventions publiques reçues en
+contrepartie de leur accueil par l'entreprise.
+
+III. - Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux
+articles 8, 238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux
+articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne
+sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés
+proportionnellement à leurs droits dans ces sociétés ou ces groupements, à
+condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de
+personnes physiques participant à l'exploitation au sens du 1° bis du I de
+l'article 156.
+
+IV. - Le nombre moyen annuel d'apprentis mentionné au I s'apprécie en fonction
+du nombre d'apprentis dont le contrat avec l'entreprise a été conclu depuis au
+moins six mois.

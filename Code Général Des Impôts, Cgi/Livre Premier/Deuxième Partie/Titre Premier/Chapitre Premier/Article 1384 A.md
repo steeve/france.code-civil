@@ -12,13 +12,18 @@ affectés à l'habitation principale, mentionnés aux 3° et 5° de l'article L.
 concurrence de plus de 50 % au moyen d'un prêt prévu à l'article R. 331-1 du
 même code, et qu'ils bénéficient des dispositions des 2, 3 ou 5 du I de
 l'article 278 sexies. Pour les constructions visées au 5 de l'article 278
-sexies, le taux de 50 % est ramené à 30 %. Pour les constructions financées dans
-les conditions prévues aux articles R. 331-14 à R. 331-16 du code de la
-construction et de l'habitation, la condition de financement s'apprécie en
-tenant compte des subventions versées par l'Etat, L'Agence nationale pour la
-rénovation urbaine, les collectivités territoriales et les établissements
-publics de coopération intercommunale ainsi que des prêts consentis au titre de
-la participation des employeurs à l'effort de construction.
+sexies, le taux de 50 % est ramené à 30 %. En Guadeloupe, en Guyane, à la
+Martinique et à La Réunion, l'exonération s'applique aux constructions de
+logements neufs à usage locatif et affectés à l'habitation principale
+lorsqu'elles sont financées à concurrence de plus de 50 % au moyen d'un prêt
+prévu à l'article R. 372-1 du code de la construction et de l'habitation. Pour
+les constructions financées dans les conditions prévues aux articles R. 331-14 à
+R. 331-16 ou aux articles R. 372-9 à R. 372-12 du code de la construction et de
+l'habitation, la condition de financement s'apprécie en tenant compte des
+subventions versées par l'Etat, L'Agence nationale pour la rénovation urbaine,
+les collectivités territoriales et les établissements publics de coopération
+intercommunale ainsi que des prêts consentis au titre de la participation des
+employeurs à l'effort de construction.
 
 Toutefois, la durée de l'exonération est ramenée à dix ans pour les logements en
 accession à la propriété pour la réalisation desquels aucune demande de prêt n'a
@@ -53,6 +58,11 @@ respect des critères de qualité environnementale de la construction.
 La définition technique de ces critères, le contenu ainsi que les modalités de
 délivrance du certificat sont fixés par décret en Conseil d'Etat.
 
+I ter. - Pour les constructions de logements mentionnées au deuxième alinéa du
+I, la durée de l'exonération est portée à vingt-cinq ans, lorsqu'elles
+bénéficient d'une décision d'octroi de subvention ou de prêt aidé prise entre le
+1er juillet 2004 et le 31 décembre 2009.
+
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde
 prévues aux articles L. 615-1 à L. 615-5 du code de la construction et de
@@ -75,4 +85,4 @@ lorsque le locataire-accédant lève l'option, le cas échéant jusqu'à la date
 cession du logement, ou lorsque le logement fait l'objet d'un nouveau contrat de
 location-accession respectant les mêmes conditions que le précédent contrat ou
 qu'il est remis en location en faisant l'objet d'une convention prévue par
-l'article L. 353-2 du code de la construction et de l'habitation (1).
+l'article L. 353-2 du code de la construction et de l'habitation.
