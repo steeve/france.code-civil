@@ -8,9 +8,9 @@ Une copie de ces déclarations reste en mairie et doit être communiquée à tou
 requérant.
 
 Les autres exemplaires sont transmis, par les soins de la mairie, au service des
-impôts dans le ressort duquel sont situées les exploitations intéressées. Ce
-service ne peut délivrer des titres de mouvement au déclarant pour une quantité
-de vin supérieure à celle qu'il a déclarée.
+douanes et droits indirects dans le ressort duquel sont situées les
+exploitations intéressées. Ce service ne peut délivrer des titres de mouvement
+au déclarant pour une quantité de vin supérieure à celle qu'il a déclarée.
 
 Le relevé nominatif des déclarations établi d'après leur ordre de dépôt, est
 affiché à la mairie.
@@ -18,5 +18,3 @@ affiché à la mairie.
 Dès le début de la récolte, au fur et à mesure des nécessités de la vente, des
 déclarations partielles peuvent être faites dans les mêmes conditions que
 ci-dessus, sauf l'affichage qui a lieu après la déclaration totale.
-
-(1) Annexe III, art. 169 bis
