@@ -4,8 +4,7 @@ Lorsque la demande est présentée postérieurement à sa désignation, le juge 
 mise en état est, jusqu'à son dessaisissement, seul compétent, à l'exclusion de
 toute autre formation du tribunal, pour :
 
-1. Statuer sur les exceptions dilatoires et sur les nullités pour vice de forme
-;
+1. Statuer sur les exceptions de procédure ;
 
 2. Allouer une provision pour le procès ;
 

@@ -1,9 +1,13 @@
 Article 979
 ----
-A peine d'irrecevabilité du pourvoi prononcé d'office, une copie de la décision
-attaquée signifiée soit à partie, soit à avoué, soit à avocat ou une expédition
-de cette décision, ainsi qu'une copie de la décision confirmée ou infirmée par
-la décision attaquée, doivent être remises au greffe dans le délai de dépôt du
-mémoire.
+A peine d'irrecevabilité du pourvoi prononcée d'office, doivent être remises au
+greffe dans le délai de dépôt du mémoire :
+
+- une copie de la décision attaquée et de ses actes de signification ;
+
+- une copie de la décision confirmée ou infirmée par la décision attaquée ;
+
+- toute autre décision rendue dans le même litige et à laquelle la décision
+attaquée fait référence.
 
 Le demandeur doit également joindre les pièces invoquées à l'appui du pourvoi.
