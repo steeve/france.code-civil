@@ -1,5 +1,6 @@
 Article R*814-22
 ----
-A défaut des titres français normalement requis pour l'admission, des diplômes
-et titres étrangers peuvent être reconnus équivalents par le ministre dont
-relève l'établissement.
+Le préfet de région peut, à son initiative ou sur proposition de la majorité des
+membres du comité, constituer au sein de ce dernier des commissions spécialisées
+suivant les modalités définies par le règlement intérieur prévu à l'article R.
+814-20.

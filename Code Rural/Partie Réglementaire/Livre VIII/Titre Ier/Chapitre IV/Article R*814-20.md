@@ -1,10 +1,7 @@
 Article R*814-20
 ----
-Outre les élèves étrangers recrutés selon les procédures applicables aux
-candidats français, l'institut national agronomique Paris-Grignon, l'école
-nationale supérieure agronomique de Rennes, l'école nationale supérieure
-agronomique de Montpellier, l'école nationale supérieure agronomique de Toulouse
-et l'école nationale supérieure d'agronomie et des industries alimentaires de
-Nancy peuvent admettre des candidats étrangers dans tous les cycles de formation
-et à chacun des niveaux de recrutement dans les conditions fixées aux articles
-R. 814-21 à R. 814-26.
+Le comité régional de l'enseignement agricole se réunit au moins une fois par an
+sur convocation du préfet de région qui en fixe l'ordre du jour. L'ordre du
+jour, sauf en cas d'urgence, est adressé aux membres titulaires et suppléants,
+avec les documents y afférents, quinze jours au moins avant la séance. Le comité
+arrête son règlement intérieur.

@@ -1,6 +1,6 @@
 Article R*814-23
 ----
-Le nombre maximum de candidats au diplôme d'ingénieur agronome à admettre au
-titre de l'article R. 814-20 est fixé annuellement, pour chaque établissement,
-par le ministre dont relève l'établissement, après avis du directeur et de la
-commission consultative permanente.
+Le comité régional de l'enseignement agricole et les commissions spécialisées
+constituées en son sein peuvent entendre toute personne dont l'audition est
+jugée utile par leur président, ou demandée par le tiers au moins de leurs
+membres.

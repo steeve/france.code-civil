@@ -1,21 +1,22 @@
 Article R*811-35
 ----
-Pour les formations ou parties de formation pour lesquelles l'agrément est
-demandé :
+Le conseil intérieur propose le règlement intérieur du centre au conseil
+d'administration de l'établissement public local ; il examine toutes les
+questions qui lui sont soumises par son président ou par le conseil
+d'administration. Il est obligatoirement saisi des questions qui relèvent de
+l'autonomie pédagogique et éducative.
 
-1° La direction et au moins 50 % des heures d'enseignement doivent être assurées
-par des personnels justifiant, outre les diplômes exigés en application des
-articles R. 811-16 à R. 811-22, soit de certificats d'aptitude pour
-l'enseignement dans les établissements d'enseignement secondaire délivrés par
-l'Etat, soit d'attestations de qualification pédagogique délivrées par
-l'enseignement agricole privé sous le contrôle de l'Etat pour des formations de
-même niveau.
+Il élabore l'avant-projet pédagogique en y associant les équipes pédagogiques.
+Celles-ci ont pour mission de favoriser la concertation entre les enseignants,
+en particulier en ce qui concerne la coordination des enseignements, le choix
+des méthodes pédagogiques, des matériels techniques, des manuels et des supports
+pédagogiques, le suivi et l'évaluation des élèves, l'organisation du travail des
+élèves, les relations avec les familles.
 
-A titre dérogatoire et seulement pour les personnels en place à la date du 8
-novembre 1979, la condition de diplôme et de brevet peut être remplacée par la
-pratique de la direction d'établissement ou de l'enseignement à titre permanent
-pendant une durée minimale de cinq années dans les formations de même niveau.
+Le conseil intérieur peut saisir le directeur du centre des diverses questions
+intéressant la vie de la communauté, et notamment de celles relatives à la
+discipline générale, à la sécurité et à l'hygiène.
 
-2° Chaque classe doit compter au moins douze élèves, sauf dérogation
-exceptionnelle fondée sur une orientation particulière de la politique agricole
-dans une région déterminée.
+Le conseil intérieur crée toutes commissions nécessaires à la vie intérieure du
+centre, et notamment une commission de la pédagogie et de la vie scolaire et une
+commission de l'exploitation annexée.

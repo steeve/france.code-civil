@@ -1,7 +1,12 @@
 Article R*812-5
 ----
-La formation professionnelle agricole par la voie de l'apprentissage est assurée
-dans les centres agricoles publics ou privés de formation d'apprentis,
-conformément aux dispositions du titre Ier du livre Ier du code du travail. Elle
-est sanctionnée par l'un des diplômes ou titres prévus aux articles R. 812-2 et
-R. 812-3.
+A l'exception de l'établissement dont il est traité à la section 4 du présent
+chapitre, chaque école, placée sous l'autorité d'un directeur, est dotée d'un
+conseil d'administration ou d'un conseil général, d'un conseil des enseignants
+et d'un conseil de l'enseignement et de la pédagogie ; dans ce dernier conseil,
+la représentation des enseignants et des élèves est paritaire. Chaque école
+peut, en outre, créer en son sein un conseil intérieur et un ou plusieurs
+conseils scientifiques.
+
+La composition, les attributions et le mode de fonctionnement des différents
+conseils des écoles sont définis par décret.

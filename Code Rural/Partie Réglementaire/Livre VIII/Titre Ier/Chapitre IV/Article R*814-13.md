@@ -1,6 +1,9 @@
 Article R*814-13
 ----
-Les directeurs des écoles nationales supérieures agronomiques sont nommés, pour
-une durée de cinq ans, par arrêté du ministre de l'agriculture et du ministre
-des universités pris après avis de la commission consultative permanente prévue
-à l'article R. 814-12. Cette nomination est renouvelable.
+Il est institué une section permanente du conseil supérieur qui comprend, outre
+le directeur général chargé de l'enseignement au ministère de l'agriculture ou
+son représentant, président, les membres prévus aux 9°, 11° et 12° de l'article
+R. 814-11.
+
+Cet organisme peut être saisi pour avis, en cas d'urgence, des questions
+relevant de la compétence du conseil supérieur.

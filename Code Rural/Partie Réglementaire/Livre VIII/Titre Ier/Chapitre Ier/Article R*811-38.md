@@ -1,21 +1,31 @@
 Article R*811-38
 ----
-Le coût moyen défini au premier alinéa de l'article L. 811-10 est obtenu en
-divisant par l'effectif des élèves de l'enseignement agricole public les crédits
-budgétaires utilisés pour les formations initiales dispensées dans les
-établissements d'enseignement agricole public, diminués des frais du contrôle
-effectué par les services d'inspection extérieurs à ces établissements.
+Le conseil de discipline de chaque centre de formation initiale est présidé par
+le directeur du centre ou par son représentant. Il comprend en outre :
 
-Les crédits de l'Etat pris en compte sont ceux qui couvrent :
+1° Le conseiller principal d'éducation ou le conseiller d'éducation ou celui qui
+en fait fonction ;
 
--la rémunération des personnels enseignants et non-enseignants affectés tant à
-l'externat qu'à l'internat ;
+2° Trois représentants des personnels enseignants, d'éducation et de
+surveillance dans les établissements de plus de cent élèves ou deux
+représentants seulement dans les établissements de moins de cent élèves ;
 
--la participation de l'Etat au budget de fonctionnement des établissements
-d'enseignement agricole public.
+3° Un représentant du personnel non enseignant ;
 
-Les frais de contrôle exercés par les services d'inspection comprennent les
-rémunérations et charges accessoires ainsi que les frais de fonctionnement
-afférents aux activités spécifiques des contrôles administratif, financier ou
-pédagogique, effectués par des services spécialisés du ministère de
-l'agriculture.
+4° Deux représentants des parents d'élèves pour l'établissement ayant plus de
+quatre classes ou un représentant pour l'établissement ayant au plus quatre
+classes ;
+
+5° Un représentant des élèves.
+
+Les membres du conseil de discipline mentionnés aux 2°,3°,4° et 5° du présent
+article sont respectivement élus par les représentants de ces catégories au
+conseil intérieur, au sein de chacune d'elles.
+
+Le conseil de discipline s'adjoint, avec voix consultative et sans qu'ils
+puissent assister au délibéré :
+
+a) Le professeur principal de la classe de l'élève en cause ;
+
+b) Les deux délégués de la classe de l'élève en cause, prévus à l'article R.
+811-44.

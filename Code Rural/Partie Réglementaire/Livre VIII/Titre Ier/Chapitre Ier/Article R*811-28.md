@@ -1,9 +1,17 @@
 Article R*811-28
 ----
-Tout établissement sollicitant une subvention d'équipement doit prendre
-l'engagement, au cas où il cesserait d'être reconnu ou n'utiliserait plus les
-équipements réalisés grâce à cette subvention avant l'expiration d'un délai de
-cinq ans pour le matériel, de dix ans pour les aménagements immobiliers et de
-vingt ans pour les constructions et achats d'immeubles, de rembourser la
-subvention reçue proportionnellement au nombre d'années restant à courir jusqu'à
-l'expiration de ces délais.
+Les directeurs des lycées d'enseignement général et technologique agricoles, des
+lycées professionnels agricoles, ainsi que les directeurs des centres de
+formation professionnelle agricole pour jeunes sont nommés par le ministre de
+l'agriculture.
+
+Les directeurs des centres de formation professionnelle et de promotion agricole
+pour adultes sont nommés après consultation du conseil de centre défini à
+l'article R. 811-45.
+
+Le directeur de chacun des centres mentionnés ci-dessus a qualité de
+représentant de l'Etat dans le centre.
+
+Le directeur de chacun des centres de formation des apprentis est nommé dans les
+conditions fixées par la convention type prévue à l'article R. 116-1 du code du
+travail.

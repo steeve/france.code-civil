@@ -1,19 +1,20 @@
 Article R*811-36
 ----
-Les demandes d'agrément sont adressées au préfet du département du siège de
-l'établissement qui les transmet, avec son avis, à l'ingénieur général
-d'agronomie chargé de l'examen de ces demandes.
+Le conseil des délégués des élèves est constitué par l'ensemble des délégués des
+élèves élus :
 
-L'agrément est accordé par arrêté du ministre de l'agriculture.
+1° Au conseil d'administration ;
 
-Il est notifié par le préfet à l'établissement concerné. En cas de rejet de la
-demande, la décision motivée est notifiée par la même autorité.
+2° Aux conseils intérieurs et aux conseils de classe de chaque centre
+constituant l'établissement public local d'enseignement.
 
-L'arrêté d'agrément précise :
+Il est présidé par le directeur de l'établissement public local d'enseignement.
 
-- les formations ou parties de formation agréées ;
+Peuvent assister aux séances :
 
-- l'effectif maximum et minimum autorisé dans les classes dispensant ces
-formations ;
+1° Les directeurs des centres ou leurs adjoints ;
 
-- la date d'effet de l'agrément.
+2° Les conseillers principaux d'éducation ou les conseillers d'éducation de
+chaque centre.
+
+Le conseil des délégués élit en son sein une commission permanente.
