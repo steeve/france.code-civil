@@ -14,4 +14,4 @@ En outre, la compétence des ministres peut être déléguée par décret :
 dans les matières énumérées à l'article 7 du décret n° 82-389 du 10 mai 1982 et
 à l'article 6 du décret n° 82-390 du 10 mai 1982 ;
 
-2° Au préfet ou au préfet de région dans les autres cas.
+2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
