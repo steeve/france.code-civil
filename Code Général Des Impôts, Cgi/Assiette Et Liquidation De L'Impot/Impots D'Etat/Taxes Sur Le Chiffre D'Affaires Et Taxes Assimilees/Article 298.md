@@ -67,6 +67,18 @@ produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits
 utilisés pour la carburation, la lubrification proprement dite ou la combustion,
 sous réserve de ce qui est dit aux a, b et c.
 
+1° ter La taxe sur la valeur ajoutée afférente aux achats, importations,
+livraisons et services portant sur le gazole utilisé comme carburant est
+déductible à concurrence de 50 % de son montant, dans les conditions prévues aux
+articles 271 à 273 (1).
+
+Ce pourcentage est limité à 10 % pour 1982, 20 % pour 1983, 30 % pour 1984 et 40
+% pour 1985.
+
+Le gazole visé au présent article s'entend du produit repris au tableau B de
+l'article 265 du code des douanes sous le numéro de tarif douanier 27-10 CI-c,
+indice d'identification 19.
+
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés
 pour l'extraction, la fabrication, le transport par pipe-line ou le stockage des
 produits pétroliers ne peut être déduite, lorsque ces opérations sont effectuées
@@ -110,3 +122,7 @@ droits indirects ou de la direction générale des impôts qui contrôlent la
 régularité des déductions prévues par l'article 271 du code général des impôts
 et qui poursuivent la régularisation des déductions opérées indûment sur les
 taxes payées à l'une ou l'autre de ces administrations.
+
+(1) Dispositions applicables aux achats, importations, livraisons et services
+pour lesquels le droit à déduction a pris naissance après le 30 juin 1982 (loi
+n° 82-540 du 28 juin 1982 art. 3 V).

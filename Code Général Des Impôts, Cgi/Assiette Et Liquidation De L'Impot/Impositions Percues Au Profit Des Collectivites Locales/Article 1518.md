@@ -47,14 +47,10 @@ majorées d'un tiers ;
 professionnel peut être actualisée au moyen d'un coefficient unique par
 département.
 
-La date d'incorporation des résultats de la première actualisation des valeurs
-locatives foncières dans les rôles de la taxe professionnelle sera fixée, en
-tant que de besoin, par la loi prévue à l'article 33 de la loi n° 80-10 du 10
-janvier 1980 qui précisera la date et les conditions d'entrée en vigueur de la
-valeur ajoutée comme base de la taxe professionnelle (3).
+IV. L'actualisation des valeurs locatives foncières prévue pour 1983 est
+remplacée par une revalorisation forfaitaire dans les conditions prévues à
+l'article 1518 bis, troisième et quatrième alinéas.
 
 (1) Actuellement, 1er janvier 1970.
 
 (2) Annexe IV, art. 121 quinquies DC à 121 quinquies DF.
-
-(3) Voir article 1647 B sexies, renvoi (1).
