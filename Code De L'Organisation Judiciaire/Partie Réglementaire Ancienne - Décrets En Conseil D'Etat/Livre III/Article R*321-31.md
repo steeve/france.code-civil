@@ -3,6 +3,12 @@ Article R*321-31
 Le siège et le ressort des tribunaux d'instance sont fixés par le tableau V
 annexé au présent code.
 
+Le siège et le ressort des tribunaux d'instance appelés à recevoir et à
+enregistrer la déclaration de la nationalité française par application de
+l'article 26-2 du code civil, et à délivrer les certificats de nationalité
+française par application de l'article 31-1 du code civil, sont fixés
+conformément au tableau XIII annexé au présent code.
+
 Lorsqu'un tribunal d'instance est créé ou lorsque le ressort d'un tribunal
 d'instance est modifié par suite d'une nouvelle délimitation des
 circonscriptions administratives ou judiciaires, le tribunal compétent
