@@ -1,38 +1,30 @@
 Article L752-12
 ----
-Lorsque la lésion dont l'assuré est atteint est imputable à un tiers, la victime
-ou ses ayants droit conservent contre l'auteur de l'accident le droit de
-demander la réparation du préjudice causé, conformément aux règles du droit
-commun, dans la mesure où ce préjudice n'est pas réparé par application de la
-présente section.
+Les organismes de mutualité sociale agricole sont chargés :
 
-L'assureur est tenu de servir à l'assuré les prestations prévues par la présente
-section, sauf recours de sa part contre l'auteur responsable de l'accident dans
-les conditions prévues à l'alinéa ci-après.
+- de certifier l'immatriculation des assurés auprès d'un des organismes
+mentionnés à l'article L. 752-13 ;
 
-Si la responsabilité du tiers auteur de l'accident est entière ou si elle est
-partagée avec la victime, l'assureur est admis à poursuivre le remboursement des
-prestations mises à sa charge à due concurrence de la part d'indemnité incombant
-au tiers qui répare l'atteinte à l'intégrité physique de la victime, à
-l'exclusion de la part d'indemnité, de caractère personnel, correspondant aux
-souffrances physiques et morales par elle endurées et au préjudice esthétique et
-d'agrément. De même, en cas d'accident suivi de mort, la part d'indemnité
-correspondant au préjudice moral des ayants droit leur demeure acquise.
+- de contrôler le respect de l'obligation d'assurance en liaison avec l'autorité
+administrative ;
 
-La victime ou ses ayants droit sont admis à faire valoir les droits résultant
-pour eux de l'action en indemnité formée en application des dispositions du
-premier alinéa par priorité sur ceux de l'assureur en ce qui concerne son action
-en remboursement.
+- d'assurer le contrôle médical selon les modalités prévues aux articles L.
+315-1 à L. 315-3 du code de la sécurité sociale ;
 
-Ne sont pas regardés comme des tiers pour l'application du présent article, sauf
-dans le cas où le dommage résulte d'une faute intentionnelle commise par eux, le
-conjoint, les enfants, les descendants alliés en ligne directe, préposés,
-employés, ouvriers ou domestiques du chef d'entreprise ou d'exploitation ainsi
-que toute personne vivant habituellement au foyer de celui-ci.
+- d'animer et de coordonner les actions de prévention des accidents du travail
+et des maladies professionnelles dans les conditions prévues à la section 6 du
+présent chapitre ;
 
-La victime ou ses ayants droit doivent appeler l'organisme assureur en
-déclaration de jugement commun ; à défaut, la nullité du jugement sur le fond
-pourra être demandée pendant deux ans à compter de la date à partir de laquelle
-ledit jugement est devenu définitif soit à la requête du ministère public, soit
-à la demande de l'assureur ou du tiers responsable lorsque ces derniers y ont
-intérêt.
+- de classer les exploitations ou entreprises agricoles dans les différentes
+catégories de risques dont la liste est établie par arrêté du ministre chargé de
+l'agriculture ;
+
+- de centraliser les ressources du régime institué par le présent chapitre et de
+les répartir entre les organismes assureurs, en fonction des prestations à
+servir et des frais de gestion ;
+
+- de centraliser les informations nécessaires au fonctionnement du régime,
+notamment à partir des données fournies par les organismes assureurs autorisés à
+garantir les risques régis par le présent chapitre, et de les transmettre au
+ministre chargé de l'agriculture et, en tant que de besoin, aux organismes
+susmentionnés.

@@ -1,12 +1,11 @@
 Article L725-7
 ----
 I. - Sauf le cas de fraude ou de fausse déclaration, les cotisations dues au
-titre des régimes de protection sociale agricole mentionnés au présent livre à
-l'exception de celles qui concernent l'assurance accident des personnes
-non-salariées de l'agriculture, et les pénalités de retard y afférentes, se
-prescrivent par trois ans à compter de l'expiration de l'année civile au titre
-de laquelle elles sont dues. Les actions résultant de l'application de l'article
-L. 725-3 se prescrivent par cinq ans à compter de la mise en demeure.
+titre des régimes de protection sociale agricole mentionnés au présent livre, et
+les pénalités de retard y afférentes, se prescrivent par trois ans à compter de
+l'expiration de l'année civile au titre de laquelle elles sont dues. Les actions
+résultant de l'application de l'article L. 725-3 se prescrivent par cinq ans à
+compter de la mise en demeure.
 
 II. - La demande de remboursement des cotisations mentionnées au I se prescrit
 par deux ans à compter de la date à laquelle lesdites cotisations ont été

@@ -1,10 +1,14 @@
 Article L752-2
 ----
-Les chefs d'exploitation ou d'entreprise agricole sont tenus de souscrire et de
-maintenir en vigueur l'assurance prévue à la présente section, tant pour
-eux-mêmes que pour les autres personnes visées à l'article L. 752-1.
+Est considéré comme accident du travail l'accident survenu par le fait ou à
+l'occasion du travail sur le lieu de l'exploitation, de l'entreprise, de
+l'établissement ou du chantier ou dans les conditions prévues à l'article L.
+325-1 à toute personne visée à l'article L. 752-1. Est également considéré comme
+accident du travail tout accident dont l'assuré apporte la preuve qu'il est
+survenu pendant le trajet d'aller et retour entre son domicile, son lieu de
+travail et tout lieu où il est susceptible de se rendre dans l'exercice de son
+activité.
 
-Les sociétés d'exploitation ou d'entreprise agricole sont assimilées aux chefs
-d'exploitation ou d'entreprise agricole pour l'application du présent article en
-ce qui concerne l'assurance garantissant les personnes visées au 5° de l'article
-L. 722-10.
+Sont considérées comme maladies professionnelles les maladies inscrites aux
+tableaux des maladies définies au titre VI du livre IV du code de la sécurité
+sociale.

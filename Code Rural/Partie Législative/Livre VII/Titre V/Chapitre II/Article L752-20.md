@@ -1,10 +1,11 @@
 Article L752-20
 ----
-Les sociétés et organismes visés à l'article L. 752-13 sont tenus de fournir au
-ministre chargé de l'agriculture, dans les formes et conditions fixées par
-celui-ci, les statistiques concernant l'assurance prévue à la présente section.
+Les cotisations mentionnées à l'article L. 752-16 sont recouvrées et contrôlées
+par les caisses de mutualité sociale agricole et le groupement mentionné à
+l'article L. 752-14, selon les règles et sous les garanties et sanctions
+applicables au recouvrement des cotisations dues au titre des régimes de
+sécurité sociale des non-salariés des professions agricoles, sous réserve des
+dispositions spécifiques applicables au régime institué par le présent chapitre.
 
-Ils sont également tenus de fournir chaque année à l'autorité administrative
-chargée de veiller au respect de l'obligation d'assurance instituée par
-l'article L. 752-1 la liste des chefs d'exploitation ou d'entreprise ayant
-satisfait à cette obligation, dans des conditions fixées par décret.
+Les cotisations sont calculées, pour une année donnée, au prorata de la durée
+d'affiliation audit régime pendant l'année considérée.

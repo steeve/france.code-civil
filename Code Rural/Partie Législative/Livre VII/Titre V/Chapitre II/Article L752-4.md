@@ -1,13 +1,19 @@
 Article L752-4
 ----
-L'assurance doit garantir également :
+Les dispositions des articles L. 432-1 à L. 432-10 et L. 442-8 du code de la
+sécurité sociale sont applicables aux prestations prévues à la présente section
+sous les réserves suivantes :
 
-1° Le paiement d'une pension d'invalidité dans le cas où l'assuré est reconnu
-totalement inapte à l'exercice de la profession agricole ;
+- pour l'application de l'article L. 432-1, la référence aux 1° et 3° de
+l'article L. 431-1 est remplacée par la référence aux 1° et 4° de l'article L.
+752-3 du présent code ; pour l'application des articles L. 432-7 et L. 432-9, la
+référence à l'article L. 433-1 est remplacée par la référence à l'article L.
+752-5 du présent code ;
 
-2° Le versement de pensions d'invalidité aux chefs d'exploitation ou
-d'entreprise mentionnés au 1° de l'article L. 722-10 ainsi qu'aux époux
-coexploitants et aux associés exploitants d'une exploitation agricole à
-responsabilité limitée, constituée conformément au chapitre IV du titre II du
-livre III, qui présentent une invalidité réduisant au moins des deux tiers leur
-capacité de travail.
+- la feuille d'accident mentionnée à l'article L. 432-3 s'entend de celle prévue
+à l'article L. 752-24 du présent code ;
+
+- les organismes assureurs exercent les fonctions dévolues aux caisses primaires
+d'assurance maladie.
+
+Les modalités d'application du présent article sont déterminées par décret.

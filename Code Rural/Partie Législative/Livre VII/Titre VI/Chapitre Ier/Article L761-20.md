@@ -2,9 +2,8 @@ Article L761-20
 ----
 Un décret fixe les modalités de prise en charge, par les caisses
 d'assurance-accidents agricoles des départements du Haut-Rhin, du Bas-Rhin et de
-la Moselle, de ceux des risques mentionnés à la section 1 du chapitre II du
-titre V du présent livre dont elles n'assument pas la couverture en application
-des dispositions spéciales qui les régissent.
+la Moselle, de ceux des risques dont elles n'assument pas la couverture en
+application des dispositions spéciales qui les régissent.
 
 En outre, le même décret modifie en tant que de besoin ces dernières
 dispositions spéciales.

@@ -1,4 +1,4 @@
 Article L752-31
 ----
-Les litiges relatifs à l'application de la présente section sont de la
-compétence des juridictions de droit commun.
+Les dispositions du présent chapitre ne sont pas applicables aux personnes
+mentionnées à l'article L. 761-19.

@@ -33,6 +33,4 @@ invalidité et maternité et assurance vieillesse des non-salariés agricoles.
 Les caisses de mutualité sociale agricole peuvent créer toute autre section qui
 s'avérerait nécessaire après autorisation de l'autorité administrative.
 
-Elles peuvent également, sous leur responsabilité, créer des échelons locaux et
-confier aux délégués cantonaux élus directement des trois collèges qu'elles
-désignent toutes missions, qu'ils effectuent à titre gratuit.
+Elles peuvent également, sous leur responsabilité, créer des échelons locaux.

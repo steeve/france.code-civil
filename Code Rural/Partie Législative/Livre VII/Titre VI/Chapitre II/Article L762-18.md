@@ -21,9 +21,10 @@ obligatoire institué par la présente section ;
 2° Les conséquences des accidents dont sont victimes les titulaires d'une
 pension de retraite ou de l'allocation de vieillesse versée en application des
 dispositions législatives ou réglementaires en vigueur antérieurement au 1er
-janvier 1990 et les assujettis titulaires d'une pension d'invalidité obtenue en
-application de l'article L. 752-4, ainsi que leur conjoint, lorsque les uns et
-les autres n'exercent pas d'activité professionnelle.
+janvier 1990 et les assujettis titulaires d'une pension d'invalidité versée aux
+victimes d'accidents de la vie privée et d'accidents du travail survenus ou de
+maladies professionnelles constatées avant le 1er avril 2002 ou d'une rente
+visée à l'article L. 752-6, ainsi que leur conjoint.
 
 Sous réserve des dispositions de l'alinéa qui précède, l'assurance ne couvre pas
 les conséquences des accidents du travail, des maladies professionnelles et des

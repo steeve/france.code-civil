@@ -1,7 +1,14 @@
 Article L752-24
 ----
-L'indemnité journalière et les rentes dues au titre de l'assurance
-complémentaire sont calculées sur la base du gain annuel déclaré par l'assuré à
-l'assureur dans le contrat en vigueur à la date de survenance de l'accident ou
-de constatation de la maladie. Toutefois, le gain ainsi déclaré ne peut être
-inférieur à un minimum fixé par arrêté du ministre chargé de l'agriculture.
+Tout accident du travail et toute maladie professionnelle dont est victime le
+chef d'exploitation ou les autres personnes mentionnées à l'article L. 752-1
+doit être déclaré à l'organisme assureur dans un délai et des conditions fixés
+par décret. Il appartient à l'organisme assureur saisi d'une déclaration
+d'accident d'apporter la preuve de son caractère non professionnel.
+
+En vue de son indemnisation, la victime remet au praticien consulté la feuille
+d'accident délivrée par l'organisme assureur auprès duquel elle est assurée.
+
+La date de guérison ou de consolidation de la blessure est fixée par l'organisme
+assureur sur avis du service du contrôle médical de la mutualité sociale
+agricole, connaissance prise du certificat médical du praticien consulté.
