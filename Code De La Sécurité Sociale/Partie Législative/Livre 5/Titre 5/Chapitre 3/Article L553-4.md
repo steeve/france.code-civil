@@ -24,6 +24,15 @@ Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnée
 à l'article L. 742-1 sont recouvrées sur les prestations familiales visées à
 l'article L. 511-1, à l'exception de l'allocation de logement.
 
+L'allocation de logement mentionnée à l'article L. 542-1 est versée après accord
+de l'allocataire et du bailleur ou du prêteur :
+
+- en cas de location, au bailleur du logement,
+
+- dans les autres cas, au prêteur,
+
+dans des conditions fixées par décret.
+
 A la suite du non-paiement des loyers ou du non-remboursement de la dette
 contractée en vue d'accéder à la propriété, pendant une période déterminée,
 l'allocation de logement peut être versée entre les mains du bailleur ou du

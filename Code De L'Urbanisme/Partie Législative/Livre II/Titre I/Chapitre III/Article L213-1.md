@@ -52,3 +52,9 @@ même loi ;
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en
 application des articles L. 111-10, L. 123-9 ou L. 311-2 du présent code ou de
 l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
+
+" f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du
+3° de l'article L. 234-10 du code des communes représente moins de 20 p. 100 des
+résidences principales, les immeubles dont l'aliénation est agréée par le
+représentant de l'Etat dans le département en vue d'accroître l'offre de
+logements sociaux. "

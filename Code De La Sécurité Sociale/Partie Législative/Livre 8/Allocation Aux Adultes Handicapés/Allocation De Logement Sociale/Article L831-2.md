@@ -24,7 +24,10 @@ ascendants, selon des conditions fixées par décret en Conseil d'Etat.
 de base et qui satisfont aux conditions d'activité antérieure et de ressources
 prévues par le premier alinéa de l'article L. 351-10 du code du travail. 6°) les
 allocataires bénéficiant du revenu minimum d'insertion institué par la loi n°
-88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion. Cette
-allocation de logement ne peut se cumuler avec celle qui est prévue par
+88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion. 7° Les
+bénéficiaires de l'allocation d'insertion prévue à l'article L. 351-9 du code du
+travail.
+
+Cette allocation de logement ne peut se cumuler avec celle qui est prévue par
 l'article L. 542-1 du présent code, sous réserve des dispositions prévues au
 dernier alinéa de l'article L. 831-1 ci-dessus.

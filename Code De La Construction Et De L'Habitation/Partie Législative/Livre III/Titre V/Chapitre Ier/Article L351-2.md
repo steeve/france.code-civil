@@ -9,15 +9,17 @@ acquis et améliorés, à compter du 5 janvier 1977, [*date*] au moyen de formes
 spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les
 conditions d'octroi sont fixées par décret ;
 
-2. Les logements à usage locatif financés dans les conditions prévues aux titres
-Ier et II, chapitre Ier et IV, section I du présent livre et au livre IV du
-présent code dont les bailleurs s'engagent à respecter certaines obligations
+2. Les logements à usage locatif appartenant à des organismes d'habitations à
+loyer modéré ou gérés par eux ou appartenant à des sociétés d'économie mixte, ou
+appartenant à d'autres bailleurs lorsque, dans ce dernier cas, les logements ont
+été construits, acquis ou améliorés avec le concours financier de l'Etat, à
+condition que les bailleurs s'engagent à respecter certaines obligations
 définies par décrets et précisées par des conventions régies par le chapitre III
 du présent titre ; celles-ci doivent être conformes à des conventions types
 annexées aux décrets ;
 
-3. Les logements à usage locatif construits, améliorés, ou acquis et améliorés à
-compter du 5 janvier 1977 au moyen de formes spécifiques d'aides de l'Etat ou de
+3. Les logements à usage locatif construits, acquis ou améliorés à compter du 5
+janvier 1977 [*date*] au moyen de formes spécifiques d'aides de l'Etat ou de
 prêts dont les caractéristiques et les conditions d'octroi sont déterminées par
 décrets ; l'octroi de ces aides est subordonné à l'engagement pris par les
 bailleurs de respecter certaines obligations définies par décrets et précisées
@@ -30,8 +32,10 @@ respecter certaines obligations définies par décrets et précisées par des
 conventions régies par le chapitre III du présent titre ; celles-ci doivent être
 conformes à des conventions types annexées aux décrets ;
 
-5. Les logements-foyers qui peuvent être assimilés, dans des conditions fixées
-par décret en Conseil d'Etat, aux logements mentionnés aux 2 et 3 ci-dessus.
+5. Les logements-foyers de jeunes travailleurs et les logements-foyers assimilés
+dans des conditions fixées par décret en Conseil d'Etat aux logements mentionnés
+aux 2° et 3° ci-dessus, dès lors qu'ils font l'objet des conventions régies par
+le chapitre III du présent titre ; "
 
 6. Les logements occupés par des titulaires de contrats de location-accession
 conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984
