@@ -8,15 +8,14 @@ dudit logement et, le cas échéant, de celle contractée en même temps pour
 effectuer des travaux destinés à permettre l'ouverture du droit à l'allocation
 de logement ;
 
-2°) aux personnes qui se libèrent d'une dette contractée en vue d'effectuer des
-travaux destinés à adapter totalement ou partiellement leurs locaux d'habitation
-à des normes de salubrité, de sécurité, d'équipement et de confort fixées par
-arrêté du ministre chargé du logement ;
+2° Aux personnes qui se libèrent d'une dette contractée en vue d'effectuer des
+travaux figurant sur la liste mentionnée à l'article R. 321-15 du code de la
+construction et de l'habitation ;
 
 3°) aux personnes qui ont souscrit un contrat de location-attribution ;
 
 4°) aux personnes qui se libèrent d'une dette contractée en vue soit d'agrandir
 leur logement, soit d'aménager à usage de logement des locaux non destinés à
 l'habitation lorsque ces travaux répondent aux normes techniques imposées pour
-le bénéfice des prêts aidés par l'Etat pour l'accession à la propriété et sont
-réalisés avec un prêt n'ouvrant pas droit à l'aide personnalisée au logement.
+le bénéfice prêts conventionnés mentionnés à l'article R. 331-63 du code de la
+construction et de l'habitation.
