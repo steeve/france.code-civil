@@ -71,3 +71,9 @@ l'article 131-35 du code pénal.
 21° Les frais des administrateurs ad hoc désignés en application des articles
 388-2 et 389-3 du code civil, lorsqu'ils figurent sur la liste prévue à
 l'article R. 53.
+
+22° Des indemnités forfaitaires des administrateurs ad hoc institués pour la
+représentation des mineurs maintenus en zone d'attente ou demandeurs du statut
+de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002
+et désignés conformément à son décret d'application n° 2003-841 du 2 septembre
+2003.

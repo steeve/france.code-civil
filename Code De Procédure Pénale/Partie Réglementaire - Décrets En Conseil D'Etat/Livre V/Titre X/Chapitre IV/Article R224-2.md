@@ -15,4 +15,10 @@ secrétaires des juridictions de l'ordre judiciaire ;
 et procédures ;
 
 5. Frais tarifés des actes faits d'office en matière de mesures conservatoires
-prises après l'ouverture d'une succession.
+prises après l'ouverture d'une succession ;
+
+6° Indemnités forfaitaires des administrateurs ad hoc institués pour la
+représentation des mineurs maintenus en zone d'attente ou demandeurs du statut
+de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002
+et désignés conformément à son décret d'application n° 2003-841 du 2 septembre
+2003.
