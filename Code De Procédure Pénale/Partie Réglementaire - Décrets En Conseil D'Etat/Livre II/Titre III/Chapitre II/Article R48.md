@@ -1,10 +1,5 @@
 Article R48
 ----
-Si le contrevenant n'a pas payé l'amende et les frais de justice et s'il n'a pas
-formé opposition dans le délai fixé à l'article 527 (alinéas 3 et 4),
-l'ordonnance pénale est mise à exécution.
-
-Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le
-secrétaire-greffier en chef du tribunal de police, sur une formule dont le
-modèle est arrêté par le garde des sceaux, ministre de la justice, et par le
-ministre de l'Economie et des Finances.
+Le comptable direct du Trésor procède au recouvrement de l'ordonnance pénale à
+l'expiration du délai de trente jours à compter de la date d'envoi de la lettre
+recommandée prévue à l'article R. 42, à moins qu'il ne soit fait opposition.
