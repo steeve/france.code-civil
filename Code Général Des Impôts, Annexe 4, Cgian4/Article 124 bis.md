@@ -1,8 +1,8 @@
 Article 124 bis
 ----
 I. Pour les appareils automatiques visés au III de l'article 1560 du code
-général des impôts, ((la déclaration prévue à l'article 1565 quater dudit code))
-(M), ci-après dénommée "déclaration d'exploitation", est souscrite en deux
+général des impôts, la déclaration prévue à l'article 1565 quater dudit code,
+ci-après dénommée "déclaration d'exploitation", est souscrite en deux
 exemplaires sur un carnet par les personnes citées au III de l'article 1560 du
 code général des impôts. Ledit carnet est remis à ces personnes par un bureau ou
 une recette locale des douanes et droits indirects. Le premier exemplaire de la
@@ -20,10 +20,10 @@ Le carnet est valable du 1er janvier au 31 décembre de chaque année. Il vaut
 répertoire au sens de l'article 126 E. Il est rempli et signé par son titulaire.
 Il est prénuméroté par l'imprimeur.
 
-II.- Le carnet visé au I contient les informations figurant à l'annexe à
-l'arrêté du 15 janvier 1996.
+II. Le carnet visé au I contient les informations figurant à l'annexe à l'arrêté
+du 15 janvier 1996.
 
-III.- Le carnet est délivré sur justification par le demandeur de sa qualité de
+III. Le carnet est délivré sur justification par le demandeur de sa qualité de
 forain par un bureau ou une recette locale des douanes et droits indirects au
 plus tard vingt-quatre heures avant la date d'ouverture au public de la première
 fête foraine de l'année de validité du carnet à laquelle participe le forain. Le
@@ -51,19 +51,18 @@ indirects appuyé de la signature du receveur des douanes et droits indirects.
 En cas d'épuisement du carnet en cours d'année, il est délivré au forain un
 autre carnet dans les conditions fixées ci-dessus mutatis mutandis.
 
-IV. ((En application de l'article 1565 quater du code général des impôts)) (M),
-la déclaration d'exploitation est souscrite par le forain en deux exemplaires
-sur le carnet et ledit carnet est présenté, dans le même délai, par son
-titulaire au bureau ou à la recette locale des douanes et droits indirects le
-plus proche du lieu où est organisée la fête foraine.
+IV. En application de l'article 1565 quater du code général des impôts, la
+déclaration d'exploitation est souscrite par le forain en deux exemplaires sur
+le carnet et ledit carnet est présenté, dans le même délai, par son titulaire au
+bureau ou à la recette locale des douanes et droits indirects le plus proche du
+lieu où est organisée la fête foraine.
 
 Pour effectuer la liquidation de la taxe, chaque année est réputée avoir 360
 jours, chaque mois 30 jours et, pour chaque journée d'exploitation commencée, la
-taxe est due pour la journée entière. En tant que de besoin, le montant de la
-taxe est arrondi au franc inférieur.
+taxe est due pour la journée entière.
 
-((La présentation du carnet entraîne la validation de la déclaration
-d'exploitation)) (M).
+La présentation du carnet entraîne la validation de la déclaration
+d'exploitation.
 
 La validation de la déclaration d'exploitation est assurée par l'apposition du
 cachet du bureau ou de la recette locale des douanes et droits indirects appuyée
@@ -75,9 +74,7 @@ carnet est restitué à son titulaire et un exemplaire de la déclaration
 d'exploitation est conservé par le bureau ou la recette locale des douanes et
 droits indirects.
 
-V.- Le carnet doit être présenté à toute réquisition des agents des douanes et
+V. Le carnet doit être présenté à toute réquisition des agents des douanes et
 droits indirects.
 
-VI.- La délivrance de duplicata est interdite.
-
-(M) Modification.
+VI. La délivrance de duplicata est interdite.

@@ -1,10 +1,11 @@
 Article 163 duodecies
 ----
-La déclaration prévue à l'article 235 ter J du code général des impôts doit
-indiquer, outre la désignation et l'adresse du déclarant :
+Conformément à l'article R. 950-19 du code du travail, la déclaration prévue à
+l'article 235 ter J du code général des impôts doit indiquer, outre la
+désignation et l'adresse du déclarant :
 
-1. Le montant des salaires payés tels qu'ils sont définis ((à l'article 235 ter
-D du code général des impôts ;)) (M)
+1. Le montant des rémunérations versées telles qu'elles sont définies à
+l'article 235 ter D du code général des impôts ;
 
 2. Le montant brut de la contribution incombant à l'employeur ;
 
@@ -33,7 +34,7 @@ travail ;
 c. Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, en
 application de conventions ;
 
-d. Rémunérations versées aux stagiaires par l'entreprise;
+d. Rémunérations versées aux stagiaires par l'entreprise ;
 
 e. Versements effectués au titre de fonds d'assurance formation et versements à
 un organisme paritaire agréé en application de l'article 235 ter H bis du code
@@ -43,7 +44,7 @@ f. Versements effectués dans les conditions prévues par le 4° de l'article L.
 951-1 du code du travail ;
 
 g. Versements effectués au titre d'une taxe parafiscale affectée à la formation
-professionnelle;
+professionnelle ;
 
 5. Selon le cas, l'insuffisance de contribution au titre de la période
 considérée, ou l'excédent reportable sur les trois années suivantes ou
@@ -52,20 +53,20 @@ l'Etat au titre du congé individuel de formation en application de l'article 23
 ter H bis du code général des impôts ;
 
 6. Eventuellement, le montant restant à reporter au titre des dépenses
-effectuées au cours de chacune des trois années précédentes;
+effectuées au cours de chacune des trois années précédentes ;
 
 7. Le cas échéant, la majoration prévue au I de l'article 235 ter G du code
-général des impôts;
+général des impôts ;
 
-8. Le montant total du versement à effectuer à la caisse du comptable des
-impôts;
+8. Le montant total du versement à effectuer à la caisse du comptable des impôts
+;
 
-9. Le nombre de salariés de l'entreprise;
+9. Le nombre de salariés de l'entreprise ;
 
 10. Le nombre de stagiaires ayant bénéficié d'une formation au cours de l'année,
 financée en tout ou partie au moyen de la participation de l'employeur, ainsi
 que le nombre d'heures de formation reçues par eux, selon qu'elles ont ou non
-donné lieu au maintien d'une rémunération;
+donné lieu au maintien d'une rémunération ;
 
 11. La répartition de ces stagiaires :
 
@@ -79,5 +80,3 @@ d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
 12. Le nombre de jeunes travailleurs au sens de l'article L. 931-28 du code du
 travail qui ont bénéficié d'une formation au cours de l'année.
-
-(M) Modification.

@@ -27,15 +27,26 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 1. Sont notamment visés :
 
 a) Les ventes et les apports en société de terrains à bâtir, des biens assimilés
-à ces terrains par l'article 691 ainsi que les indemnités de toute nature
-perçues par les personnes qui exercent sur ces immeubles un droit de propriété
-ou de jouissance, ou qui les occupent en droit ou en fait ;
+à ces terrains par ((le A de l'article 1594-0 G)) (M) ainsi que les indemnités
+de toute nature perçues par les personnes qui exercent sur ces immeubles un
+droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait ;
 
 Sont notamment visés par le premier alinéa, les terrains pour lesquels, dans un
 délai de quatre ans à compter de la date de l'acte qui constate l'opération,
 l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou
 commence les travaux nécessaires pour édifier un immeuble ou un groupe
 d'immeubles ou pour construire de nouveaux locaux en surélévation.
+
+((Ces dispositions ne sont pas applicables aux terrains acquis par des personnes
+physiques en vue de la construction d'immeubles que ces personnes affectent à un
+usage d'habitation.
+
+((Toutefois, lorsque le cédant est une collectivité territoriale ou un
+groupement de collectivités territoriales, il peut, sur option, soumettre la
+cession à la taxe sur la valeur ajoutée)) (M) (2).
+
+((Un décret en Conseil d'Etat détermine les modalités d'application des
+troisième et quatrième alinéas)) (M) ;
 
 b) Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en
 société, de parts d'intérêt ou d'actions dont la possession assure en droit ou
@@ -54,12 +65,12 @@ lorsqu'il s'agit :
 droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou
 d'une fraction d'immeuble ;
 
-- de logements sociaux à usage locatif mentionnés au 3° de l'article L. 351-2 du
-code de la construction et de l'habitation financés au moyen d'un prêt prévu à
-l'article R. 331-1 du même code qui bénéficient de la décision favorable prise
-dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à
-compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à
-compter de cette date.
+- de logements sociaux à usage locatif mentionnés ((aux 3° et 5°)) (M) de
+l'article L. 351-2 du code de la construction et de l'habitation financés au
+moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la
+décision favorable prise dans les conditions prévues aux articles R. 331-3 et R.
+331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de
+chantier est intervenue à compter de cette date.
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
@@ -74,50 +85,35 @@ de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'obje
 d'une cession à titre onéreux à une personne n'intervenant pas en qualité de
 marchand de biens ;
 
-2 bis Le transfert de propriété à titre onéreux d'un immeuble bâti d'une commune
-à une communauté de communes, en application du premier alinéa de l'article L.
-5214-18 du code général des collectivités territoriales, n'est pas pris en
-compte pour l'application du 2.
+2 bis. Le transfert de propriété à titre onéreux d'un immeuble bâti d'une
+commune à une communauté de communes, en application du premier alinéa de
+l'article L. 5214-18 du code général des collectivités territoriales, n'est pas
+pris en compte pour l'application du 2.
 
-3. Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment
-en vue de la construction de maisons individuelles par des personnes physiques
-pour leur propre usage et à titre d'habitation principale peuvent, à la demande
-de l'acquéreur, mentionnée dans l'acte, être soumises à la taxe sur la valeur
-ajoutée.
+3. Abrogé (M) ;
 
-Toutefois, cette disposition :
+7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
+portent sur des logements sociaux à usage locatif mentionnés ((aux 2°, 3° et
+5°)) (M) de l'article L. 351-2 du code de la construction et de l'habitation,
+les livraisons à soi-même :
 
-a) N'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la
-superficie du terrain antérieurement acquis, n'excède pas 2 500 mètres carrés
-par maison ou la superficie minimale exigée par la législation sur le permis de
-construire lorsqu'elle est supérieure ;
-
-b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée
-moins de deux ans après l'achèvement de la construction (2).
-
-((7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux
-portent sur des logements sociaux à usage locatif mentionnés aux 2° et 3° de
-l'article L. 351-2 du code de la construction et de l'habitation, les livraisons
-à soi-même :
-
-((a) De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
+a) De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la
 construction et de l'habitation, qui bénéficient de la subvention prévue aux
 articles R. 323-1 à R. 323-12 dudit code, et qui ont fait l'objet de la décision
 favorable du représentant de l'Etat dans le département prévue à l'article R.
 323-5 du même code prise à compter du 1er janvier 1998 ;
 
-((b) De travaux d'amélioration, de transformation ou d'aménagement mentionnés à
+b) De travaux d'amélioration, de transformation ou d'aménagement mentionnés à
 l'article R. 331-1 du code de la construction et de l'habitation, qui
 bénéficient d'un prêt prévu audit article, et qui ont fait l'objet de la
 décision favorable du représentant de l'Etat dans le département prévue aux
 articles R. 331-3 et R. 331-6 du même code prise à compter du 1er janvier 1998 ;
 
-((c) De travaux d'amélioration, de transformation ou d'aménagement autres que
-ceux mentionnés aux a et b, ayant fait l'objet d'une décision favorable du
+c) De travaux d'amélioration, de transformation ou d'aménagement autres que ceux
+mentionnés aux a et b, ayant fait l'objet d'une décision favorable du
 représentant de l'Etat dans le département prise à compter du 1er janvier 1998.
 
-((Un décret en Conseil d'Etat définit les conditions d'application des b et c
-;)) (M).
+Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens
 ou à des prestations de services effectuées à titre onéreux.
@@ -131,7 +127,7 @@ bien ou les éléments le composant ont ouvert droit à une déduction complète
 partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les
 prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux
 de faible valeur et des échantillons. Le montant à retenir pour l'imposition des
-prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté.
+prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté (3).
 Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 
 b) L'affectation par un assujetti aux besoins de son entreprise d'un bien
@@ -165,16 +161,16 @@ b) Les prestations de services à titre gratuit effectuées par l'assujetti pour
 ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des
 fins étrangères à son entreprise.
 
-3. Un décret en Conseil d'Etat (3) définit les opérations désignée ci-dessus
+3. Un décret en Conseil d'Etat (4) définit les opérations désignée ci-dessus
 ainsi que le moment où la taxe devient exigible ;
 
 9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à
 lui-même et qui portent sur les viandes des animaux de boucherie et de
-charcuterie tels qu'ils sont définis par décret (4) ;
+charcuterie tels qu'ils sont définis par décret (5) ;
 
 10° Les achats à des non-assujettis à la taxe sur la valeur ajoutée :
 
-a) De produits passibles d'un droit de fabrication ou de consommation ;
+a) De produits passibles d'un droit de consommation ;
 
 b) De boissons et autres produits passibles d'un droit de circulation à
 l'exception des achats de vendanges et de fruits à cidre et à poiré par des
@@ -182,7 +178,7 @@ personnes assujetties à la taxe sur la valeur ajoutée ;
 
 c) De conserves alimentaires ;
 
-d) (Abrogé, loi 94-1163 à compter du 1er janvier 1995) ;
+d) (Abrogé à compter du 1er janvier 1995) ;
 
 11° Les quantités de boissons manquantes chez les marchands en gros en sus des
 déductions et soumises aux droits indirects ;
@@ -193,14 +189,14 @@ déductions et soumises aux droits indirects ;
 navigation aérienne mentionnées au 4° du II de l'article 262 d'autres compagnies
 ne remplissant pas les conditions fixées à cet article. Les modalités
 d'application de cette disposition sont fixées, en tant que de besoin, par des
-arrêtés du ministre de l'économie et des finances (5) ;
+arrêtés du ministre de l'économie et des finances (6) ;
 
 14° (Abrogé) ;
 
 15° Les biens et produits mentionnés aux 2° et 3° du II de l'article 262
 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article.
 Les modalités d'application de cette disposition sont fixées, en tant que de
-besoin, par des arrêtés du ministre de l'économie et des finances (6) ;
+besoin, par des arrêtés du ministre de l'économie et des finances (7) ;
 
 16° et 17° (Abrogés) ;
 
@@ -214,14 +210,17 @@ propriétaires.
 
 (1) Voir Annexe II, art. 243 à 259.
 
-(2) Voir Annexe II, art. 255.
+(M) Modification.
+
+(2) Ces dispositions s'appliquent aux ventes ayant acquis date certaine à
+compter du 22 octobre 1998.
 
 (3) Voir Annexe IV, art. 23 N.
 
-(4) Annexe III, art. 65 A.
+(4) Voir Annexe II, art. 173 à 175.
 
-(5) Annexe IV, art. 45.
+(5) Annexe III, art. 65 A.
 
-(6) Annexe IV, art. 42 à 46.
+(6) Annexe IV, art. 45.
 
-(M) Modification.
+(7) Annexe IV, art. 42 à 46.

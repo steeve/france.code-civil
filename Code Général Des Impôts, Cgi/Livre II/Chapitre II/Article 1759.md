@@ -6,5 +6,5 @@ visé à l'article 1727 et d'une majoration de 40 p. 100.
 
 Dans les cas où la méconnaissance des obligations énoncées à l'article 1649
 quater A est punie de la sanction prévue au premier alinéa du II de l'article 23
-de la loi n° 90-614 du 12 juillet 1990, la majoration prévue au premier alinéa
-n'est pas mise en oeuvre.
+de la loi n° 90-614 du 12 juillet 1990 modifiée, la majoration prévue au premier
+alinéa n'est pas mise en oeuvre.

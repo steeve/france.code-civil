@@ -1,16 +1,17 @@
 Article 163 nonies
 ----
-Sont considérés comme occupant au minimum dix salariés, au sens de l'article 235
-ter D du code général des impôts, les employeurs occupant des salariés dont le
-nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction
-d'année où l'activité est exercée.
+Conformément à l'article R. 950-1 du code du travail, sont considérés comme
+occupant au minimum dix salariés, au sens de l'article 235 ter D du code général
+des impôts, les employeurs occupant des salariés dont le nombre mensuel moyen
+est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est
+exercée.
 
 Toutefois, ceux de ces employeurs occupant des salariés d'une manière
 intermittente ou travaillant à domicile ne sont soumis à l'obligation de
-participer que si le montant total des salaires versés pendant l'année est au
-moins égal à 120 fois le salaire mensuel minimum de croissance. En cas de début
-ou de fin d'activité, le chiffre est réduit, pour l'année considérée, au prorata
-du nombre de mois pendant lesquels l'activité est exercée.
+participer que si le montant total des rémunérations versées pendant l'année est
+au moins égal à 120 fois le salaire mensuel minimum de croissance. En cas de
+début ou de fin d'activité, le chiffre est réduit, pour l'année considérée, au
+prorata du nombre de mois pendant lesquels l'activité est exercée.
 
 Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du
 travail entre en compte dans l'effectif du personnel au prorata du rapport entre

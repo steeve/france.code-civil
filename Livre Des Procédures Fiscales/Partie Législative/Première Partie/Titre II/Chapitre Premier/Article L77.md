@@ -11,6 +11,11 @@ réputée interrompue, au sens des articles L. 76 et L. 189, à hauteur des base
 de l'impôt sur le revenu ou de l'impôt sur les sociétés notifiées avant
 déduction du supplément de taxes sur le chiffre d'affaires et taxes assimilées.
 
+Toutefois, lorsque la taxe sur la valeur ajoutée rappelée est afférente à une
+opération au titre de laquelle la taxe due peut être totalement ou partiellement
+déduite par le redevable lui-même, les dispositions prévues au premier alinéa ne
+s'appliquent pas au montant de la taxe déductible (1).
+
 Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où
 le bénéfice correspondant aux redressements effectués est considéré comme
 distribué, par application des articles 109 et suivants du code général des
@@ -28,8 +33,8 @@ montant du redressement soumis à l'impôt sur les sociétés, diminué du monta
 ce dernier impôt. En outre, le montant de cette retenue à la source constitue un
 crédit d'impôt déductible de l'impôt sur le revenu dû par les bénéficiaires.
 
-Les demandes que les contribuables peuvent présenter au titre des deuxième et
-troisième alinéas doivent être faites au plus tard dans le délai de trente jours
+Les demandes que les contribuables peuvent présenter au titre des troisième et
+quatrième alinéas doivent être faites au plus tard dans le délai de trente jours
 consécutif à la réception de la réponse aux observations prévue à l'article L.
 57 ou, à défaut, d'un document spécifique les invitant à formuler lesdites
 demandes.

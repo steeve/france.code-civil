@@ -1,13 +1,14 @@
 Article 163 quindecies A
 ----
-- La déclaration prévue à l'article 235 ter KD du code général des impôts doit
-indiquer, outre la désignation et l'adresse du déclarant :
+Conformément à l'article R. 950-23 du code du travail, la déclaration prévue à
+l'article 235 ter KD du code général des impôts doit indiquer, outre la
+désignation et l'adresse du déclarant :
 
-1° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de
-l'article 235 ter KA du même code ;
+1° Le montant des rémunérations versées telles qu'elles sont définies au premier
+alinéa de l'article 235 ter KA du même code ;
 
-2° Le montant des salaires payés tels qu'ils sont définis au premier alinéa de
-l'article L. 931-20-1 du code du travail ;
+2° Le montant des rémunérations versées telles qu'elles sont définies au premier
+alinéa de l'article L. 931-20-1 du code du travail ;
 
 3° L'assiette de la contribution à laquelle sont assujetties les personnes
 mentionnées au premier alinéa de l'article L. 953-1 du même code, et effectuant

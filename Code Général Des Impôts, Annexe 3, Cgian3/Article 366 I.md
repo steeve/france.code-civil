@@ -1,10 +1,9 @@
 Article 366 I
 ----
-I. La liquidation de la contribution est faite par la société et le montant,
-arrondi au franc le plus voisin, en est versé par elle sans avis d'imposition
-sous déduction du versement anticipé déjà réglé, au plus tard le jour de
-l'expiration du délai fixé pour la remise de la déclaration prévue au 1 de
-l'article 223 du code général des impôts.
+I. La liquidation de la contribution est faite par la société et le montant en
+est versé par elle sans avis d'imposition sous déduction du versement anticipé
+déjà réglé, au plus tard le jour de l'expiration du délai fixé pour la remise de
+la déclaration prévue au 1 de l'article 223 du code général des impôts.
 
 Ce versement est effectué à la caisse du comptable du Trésor chargé du
 recouvrement des impôts directs habilité à recevoir le versement anticipé ou,

@@ -16,13 +16,19 @@ b. les salaires au sens du 1 de l'article 231 ainsi que les rémunérations
 allouées aux dirigeants de sociétés mentionnés aux articles 62 et 80 ter, versés
 pendant la période de référence définie au a à l'exclusion des salaires versés
 aux apprentis sous contrat et aux handicapés physiques ; ces éléments sont pris
-en compte pour 18 % de leur montant ;
+en compte pour 18 % de leur montant (1) ;
 
 2° Dans le cas des titulaires de bénéfices non commerciaux, des agents
 d'affaires et intermédiaires du commerce, employant moins de cinq salariés, le
 dixième des recettes et la valeur locative des seules immobilisations passibles
 des taxes foncières sur les propriétés bâties et non bâties et dont le
 contribuable a disposé pour les besoins de son activité professionnelle pendant
-la période de référence définie au 1° a (1).
+la période de référence définie au 1° a (2).
 
-(1) Annexe II art. 310 HA, 310 HC à 310 HE.
+Les éléments servant à la détermination des bases de la taxe professionnelle et
+des taxes additionnelles sont arrondis au franc ou à l'euro le plus proche. La
+fraction de franc ou d'euro égale à 0,50 est comptée pour 1.
+
+(1) Cet alinéa sera abrogé à compter des impositions établies au titre de 2003.
+
+(2) Voir Annexe II art. 310 HA, 310 HC à 310 HE.
