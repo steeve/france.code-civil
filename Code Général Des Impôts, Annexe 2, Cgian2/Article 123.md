@@ -2,8 +2,8 @@ Article 123
 ----
 1. - Après avoir procédé, conformément aux dispositions des articles 122 et 122
 bis, à l'imputation des impôts acquittés, la société agréée peut imputer sur le
-montant de l'impôt sur les sociétés dont elle est redevable, au titre de chaque
-exercice et dans l'ordre suivant :
+montant de l'impôt sur les sociétés et du précompte dont elle est redevable, au
+titre de chaque exercice et dans l'ordre suivant :
 
 a) La fraction des crédits d'impôt et de l'imposition forfaitaire annuelle admis
 en paiement de l'impôt sur les sociétés afférent à la part des bénéfices du même

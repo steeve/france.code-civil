@@ -1,10 +1,10 @@
 Article 122
 ----
 1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les
-sociétés dont elle est redevable, au titre de chaque exercice, à raison du
-résultat consolidé, les prélèvements fiscaux effectués, au titre du même
-exercice, hors de la France métropolitaine et des départements d'outre-mer, sur
-les bénéfices de ses exploitations directes et indirectes.
+sociétés et du précompte dont elle est redevable, au titre de chaque exercice, à
+raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du
+même exercice, hors de la France métropolitaine et des départements d'outre-mer,
+sur les bénéfices de ses exploitations directes et indirectes.
 
 Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité
 monétaire, assis sur un résultat fiscal, non déductibles de ce résultat et qui
@@ -56,7 +56,4 @@ effectif de ces impôts. Les rappels ou les dégrèvements d'impôts imputables
 doivent être notifiés à l'administration dans le délai mentionné au 3 de
 l'article 128. Les bases de l'impôt sur les sociétés dû au titre de l'exercice
 auquel se rapportent ces rappels ou ces dégrèvements sont régularisées en
-conséquence (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.
+conséquence.
