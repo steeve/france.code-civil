@@ -35,9 +35,9 @@ h) chez les destinataires ou les expéditeurs réels des marchandises déclarée
 douane ;
 
 i) chez les opérateurs de télécommunications et les prestataires mentionnés aux
-articles 43-7 et 43-8 de la loi n° 86-1067 du 30 septembre 1986 relative à la
-liberté de communication, pour les données conservées et traitées par ces
-derniers, dans le cadre de l'article L. 32-3-1 du code des postes et
+1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
+confiance dans l'économie numérique, pour les données conservées et traitées par
+ces derniers, dans le cadre de l'article L. 32-3-1 du code des postes et
 télécommunications ;
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou

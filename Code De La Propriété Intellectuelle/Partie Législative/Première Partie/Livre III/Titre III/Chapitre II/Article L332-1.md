@@ -21,7 +21,17 @@ utilisés ;
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou
 diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit, effectuée en
-violation des droits de l'auteur.
+violation des droits de l'auteur ;
+
+4° La suspension, par tout moyen, du contenu d'un service de communication au
+public en ligne portant atteinte à l'un des droits de l'auteur, y compris en
+ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre
+l'accès. Dans ce cas, le délai prévu à l'article L. 332-2 est réduit à quinze
+jours.
+
+Le président du tribunal de grande instance peut, dans les mêmes formes,
+ordonner les mesures prévues aux 1° à 4° à la demande des titulaires de droits
+voisins définis au livre II.
 
 Le président du tribunal de grande instance peut, dans les ordonnances prévues
 ci-dessus, ordonner la constitution préalable par le saisissant d'un

@@ -138,3 +138,17 @@ ou utilisés par l'exploitant public pour les besoins du public.
 On entend par opérateur toute personne physique ou morale exploitant un réseau
 de télécommunications ouvert au public ou fournissant au public un service de
 télécommunications.
+
+16° Système satellitaire.
+
+On entend par système satellitaire tout ensemble de stations terriennes et
+spatiales ayant pour objet d'assurer des radiocommunications spatiales et
+comportant un ou plusieurs satellites artificiels de la Terre.
+
+17° Itinérance locale.
+
+On entend par prestation d'itinérance locale celle qui est fournie par un
+opérateur de radiocommunications mobiles à un autre opérateur de
+radiocommunications mobiles en vue de permettre, sur une zone qui n'est
+couverte, à l'origine, par aucun opérateur de radiocommunications mobiles de
+deuxième génération, l'accueil, sur le réseau du premier, des clients du second.
