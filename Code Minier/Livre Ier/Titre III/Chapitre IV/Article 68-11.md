@@ -7,4 +7,4 @@ surface.
 
 Toutefois, la responsabilité de l'exploitant à raison de ses travaux miniers
 n'est pas limitée aux seuls dégâts causés à l'intérieur du périmètre définissant
-la concession.
+le permis d'exploitation.

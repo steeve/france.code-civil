@@ -24,8 +24,7 @@ géothermiques sans l'autorisation prévue à l'article 83 ;
 
 6° De ne pas avoir régulièrement déclaré, au terme de la validité du titre
 minier, l'arrêt définitif de tous les travaux ou de toutes les installations,
-dans les conditions prévues par le premier et le troisième alinéas de l'article
-84 ;
+dans les conditions prévues par l'article 91 ;
 
 7° D'enfreindre celles des obligations prévues par les décrets pris en exécution
 de l'article 85, qui ont pour objet de protéger la sécurité ou l'hygiène du

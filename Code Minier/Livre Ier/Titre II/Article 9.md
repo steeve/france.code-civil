@@ -17,7 +17,7 @@ comporter.
 
 Nul ne peut obtenir un permis exclusif de recherches s'il ne possède les
 capacités techniques et financières nécessaires pour mener à bien les travaux de
-recherches et pour répondre aux obligations mentionnées aux articles 79 et 84.
+recherches et pour répondre aux obligations mentionnées aux articles 79 et 91.
 Un décret en Conseil d'Etat définit les critères d'appréciation de ces
 capacités, les critères d'attribution des titres ainsi que la procédure
 d'instruction des demandes de permis.

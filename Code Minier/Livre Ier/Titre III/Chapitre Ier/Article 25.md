@@ -11,7 +11,7 @@ connaissance des pétitionnaires.
 Nul ne peut obtenir une concession de mines s'il ne possède les capacités
 techniques et financières nécessaires pour mener à bien les travaux
 d'exploitation et pour répondre aux obligations mentionnées aux articles 79,
-79-1 et 84. Un décret en Conseil d'Etat définit les critères d'appréciation de
+79-1 et 91. Un décret en Conseil d'Etat définit les critères d'appréciation de
 ces capacités, les critères d'attribution des titres ainsi que la procédure
 d'instruction des demandes de concessions.
 
