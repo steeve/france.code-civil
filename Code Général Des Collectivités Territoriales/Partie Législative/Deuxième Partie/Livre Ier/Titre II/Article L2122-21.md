@@ -31,9 +31,7 @@ autorisés conformément aux dispositions du présent code ;
 
 9° De prendre, à défaut des propriétaires ou des détenteurs du droit de chasse,
 à ce dûment invités, toutes les mesures nécessaires à la destruction des animaux
-nuisibles désignés dans l'arrêté pris en vertu des articles L. 227-8 et L. 227-9
-du code rural, ainsi que des loups et sangliers remis sur le territoire ; de
-requérir, dans les conditions fixées à l'article L. 227-5 du code rural, les
-habitants avec armes et chiens propres à la chasse de ces animaux, à l'effet de
-détruire ces derniers, de surveiller et d'assurer l'exécution des mesures
-ci-dessus et d'en dresser procès-verbal.
+nuisibles, de requérir, dans les conditions fixées à l'article L. 227-5 du code
+rural, les habitants avec armes et chiens propres à la chasse de ces animaux, à
+l'effet de détruire ces derniers, de surveiller et d'assurer l'exécution des
+mesures ci-dessus et d'en dresser procès-verbal.
