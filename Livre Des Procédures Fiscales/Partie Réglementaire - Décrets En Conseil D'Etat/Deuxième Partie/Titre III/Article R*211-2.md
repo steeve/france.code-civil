@@ -2,9 +2,11 @@ Article R*211-2
 ----
 Les propositions de dégrèvements d'office, de restitutions et de mutations de
 cote prévues à l'article R. 211-1 peuvent être faites par les agents de
-l'administration des impôts et les comptables du Trésor, chargés du recouvrement
-[*autorités compétentes*]. Ces propositions sont portées sur des états adressés
-au directeur des services fiscaux pour la suite à donner.
+l'administration des impôts ou de l'administration des douanes et droits
+indirects, selon le cas, et les comptables du Trésor, chargés du recouvrement
+[*autorités compétentes*]. Ces propositions sont portées sur des états adressés,
+selon le cas, au directeur des services fiscaux ou au directeur régional des
+douanes et droits indirects pour la suite à donner.
 
 Les agents appartenant au corps des géomètres du cadastre sont également admis,
 dans les conditions fixées par le directeur général des impôts, à proposer

@@ -8,7 +8,12 @@ a) Au trésorier-payeur général, s'il s'agit d'impôts directs recouvrés par 
 comptables du Trésor ;
 
 b) Au directeur des services fiscaux, s'il s'agit d'impôts, droits ou taxes
-recouvrés par les comptables de la direction générale des impôts.
+recouvrés par les comptables de la direction générale des impôts ;
+
+c) Au directeur régional des douanes et droits indirects, s'il s'agit de
+contributions indirectes, droits, taxes, redevances, impositions assimilées et
+de droit de garantie recouvrés par les comptables de la direction générale des
+douanes et droits indirects.
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le
 délai d'un an à compter de la notification de la décision soit du directeur ou
