@@ -1,11 +1,21 @@
 Article L123-4
 ----
-Les indemnités maximales pour l'exercice effectif des fonctions de maire et
-adjoint des communes, de président et membres de délégations spéciales faisant
-fonction d'adjoint, de membres de certains conseils municipaux, sont fixées par
-décret en Conseil d'Etat [*condition de forme*] par référence aux indices des
-traitements de la fonction publique.
+I. - Les indemnités maximales pour l'exercice des fonctions de maires et
+adjoints au maire des communes, de conseillers municipaux des communes de 100
+000 habitants et plus, de présidents et membres de délégations spéciales faisant
+fonction d'adjoint sont fixées par référence au montant du traitement
+correspondant à l'indice brut terminal de l'échelle indiciaire de la fonction
+publique.
 
-Les dispositions du présent article sont applicables de plein droit dans toutes
-les communes ; les indemnités ainsi prévues constituent pour celles-ci une
-dépense obligatoire [**]définition[**].
+" II. - L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce
+titre au conseil d'administration d'un établissement public local, du centre
+national de la fonction publique territoriale, au conseil d'administration ou au
+conseil de surveillance d'une société d'économie mixte locale ou qui préside une
+telle société ne peut percevoir, pour l'ensemble de ses fonctions, un montant
+total de rémunérations et d'indemnités de fonction supérieur à une fois et demie
+le montant de l'indemnité parlementaire telle qu'elle est définie à l'article
+1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique
+relative à l'indemnité des membres du Parlement.
+
+" III. - Les indemnités prévues au présent article constituent pour les communes
+une dépense obligatoire. "

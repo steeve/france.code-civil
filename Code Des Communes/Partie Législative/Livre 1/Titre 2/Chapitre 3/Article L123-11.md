@@ -1,10 +1,13 @@
 Article L123-11
 ----
-Les cotisations des communes et celles de maires et adjoints sont calculées sur
-le montant des indemnités effectivement perçues, au titre des dispositions de la
-section III du présent chapitre [*indemnités de fonctions*], par les maires et
-adjoints intéressés.
+Les élus qui perçoivent une indemnité de fonction en application des
+dispositions du présent code ou de toute autre disposition régissant
+l'indemnisation de leurs fonctions, autres que ceux qui, en application des
+dispositions de l'article L. 121-45, ont cessé d'exercer leur activité
+professionnelle, peuvent constituer une retraite par rente à la gestion de
+laquelle doivent participer les élus affiliés.
 
-Les cotisations des communes constituent pour celles-ci une dépense obligatoire
-[**]définition[**] ; celles des maires et adjoints ont un caractère personnel et
-obligatoire.
+La constitution de cette rente incombe pour moitié à l'élu et pour moitié à la
+commune.
+
+Un décret en Conseil d'Etat fixe le plafond des taux de cotisation.
