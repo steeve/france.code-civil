@@ -1,11 +1,7 @@
 Article L133-6
 ----
-Des conventions collectives régionales et locales peuvent être conclues entre
-les organisations syndicales d'employeurs les plus représentatives et les
-organisations syndicales de salariés les plus représentatives d'une branche
-d'activité.
-
-Des avenants à la convention collective peuvent être conclus pour chacune des
-principales catégories professionnelles. Ils sont discutés par les représentants
-des organisations syndicales les plus représentatives des catégories
-intéressées.
+A défaut de convention au plan national, les dispositions de l'article précédent
+sont applicables aux conventions de branche, conclues à d'autres niveaux
+territoriaux, pour qu'elles puissent être étendues, sous réserve, le cas
+échéant, des adaptations nécessitées par les conditions propres aux secteurs
+territoriaux considérés.
