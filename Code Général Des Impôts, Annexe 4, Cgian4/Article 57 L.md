@@ -1,17 +1,14 @@
 Article 57 L
 ----
-Le gérant de débit de tabac ordinaire qui, pour des raisons de santé, ne peut
-pas exercer ses fonctions peut se faire remplacer dans la gestion du débit par
-une personne de son choix, à condition que le remplaçant soit une personne citée
-au III de l'article 57 K.
+Le directeur régional des douanes et droits indirects informe l'organisation
+professionnelle citée au I de l'article 57 lorsqu'il accorde l'autorisation de
+transférer un débit de tabac ordinaire.
 
-Le remplacement ne peut pas excéder six mois, éventuellement renouvelables une
-fois.
+Cette information est effectuée au plus tard quinze jours après la date de
+délivrance de l'autorisation de transfert.
 
-Pendant le remplacement, le gérant conserve ses droits en matière de
-rémunération et de régime d'allocation viagère.
-
-Les manquements aux obligations du contrat mentionné au deuxième alinéa du 1 de
-l'article 244 decies de l'annexe III relevés à l'encontre du suppléant ou du
-salarié ont les mêmes conséquences que s'ils étaient imputables au gérant
-titulaire.
+Un avenant au contrat, visé au deuxième alinéa du 1 de l'article 244 sexies de
+l'annexe III au code général des impôts, est signé par le directeur régional des
+douanes et droits indirects et le débitant de tabac en vue d'y mentionner le
+nouveau lieu d'exploitation et, éventuellement, les nouveaux horaires
+d'ouverture.

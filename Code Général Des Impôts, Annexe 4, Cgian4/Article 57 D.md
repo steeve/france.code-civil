@@ -1,34 +1,33 @@
 Article 57 D
 ----
-Les règles de création des débits de tabac ordinaires permanents sont les
-suivantes :
+I. - La nomination d'un suppléant par le gérant d'un débit de tabac ordinaire
+est facultative.
 
-1. Dans les communes de 3 500 habitants ou plus, le directeur régional des
-douanes et droits indirects peut, sur son initiative ou à la demande d'une
-personne intéressée, créer un débit de tabac ordinaire permanent si, après
-l'ouverture de ce dernier, la commune concernée ne compte pas plus d'un débit
-par tranche de 3 500 habitants. Dans le cas contraire, le directeur régional des
-douanes et droits indirects peut créer un débit de tabac ordinaire permanent
-dans une zone d'au moins 3 500 habitants de cette commune dépourvue de débit, si
-aucun gérant d'un débit de tabac ordinaire ne sollicite le transfert de son
-point de vente dans cette zone, conformément aux articles 57 M et 57 N.
+Un débitant de tabac ne peut se faire assister que par un seul suppléant.
 
-La création d'un débit de tabac ordinaire permanent ne doit pas avoir pour effet
-de déséquilibrer le réseau existant dans la commune du lieu de la demande ou
-dans les communes limitrophes, compte tenu du niveau et de l'évolution des
-ventes des produits du tabac. Il peut être également tenu compte des données
-faisant l'objet de la convention citée au I de l'article 57 C.
+Le suppléant est une personne physique nommément désignée pour seconder le
+gérant. Il a la faculté de le remplacer, s'il s'absente exceptionnellement de
+son point de vente pour une durée ne dépassant pas une journée ou pour activité
+syndicale.
 
-2. Dans les communes de moins de 3 500 habitants, le directeur régional des
-douanes et droits indirects peut, sur son initiative ou à la demande d'une
-personne intéressée, décider de créer un débit de tabac ordinaire permanent si
-la commune concernée ne comporte pas de point de vente de tabac et si la
-création envisagée n'entraîne pas de préjudice grave aux débitants de tabac des
-communes limitrophes. Il peut être également tenu compte des données faisant
-l'objet de la convention citée au I de l'article 57 C.
+Le suppléant ne peut accomplir des actes de gestion à la place du débitant de
+tabac.
 
-3. Les créations ou les transferts de débits de tabac ordinaires permanents sont
-interdits dans les centres commerciaux, quelle que soit leur superficie, qui ne
-constituent pas un ensemble de commerces de proximité desservant principalement
-ou en totalité les résidents d'une commune rurale ou d'un quartier d'une commune
-urbaine, et dans les galeries marchandes attenantes à des hypermarchés.
+Le suppléant doit être désigné parmi les personnes suivantes :
+
+a) Le conjoint, la personne liée au gérant par un pacte civil de solidarité, ou
+le concubin reconnu en cette qualité, pour les débits de tabac dont le fonds de
+commerce annexé est géré en exploitation individuelle ;
+
+b) L'un des associés de la société, pour les débits de tabac dont le fonds de
+commerce est exploité par une société en nom collectif.
+
+II. - Le gérant d'un débit de tabac ordinaire désigne expressément le suppléant
+dans le contrat mentionné au deuxième alinéa du 1 de l'article 244 sexies de
+l'annexe III au code général des impôts, en reprenant les nom, prénoms, adresse,
+profession et, le cas échéant, les liens de parenté du suppléant vis-à-vis du
+gérant, ainsi que l'engagement du suppléant par sa signature sur ledit contrat.
+
+Le gérant d'un débit de tabac ordinaire peut demander à modifier le nom du
+suppléant à tout moment, à partir de la date de signature du contrat visé au
+premier alinéa.

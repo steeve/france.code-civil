@@ -1,8 +1,7 @@
 Article 57 F
 ----
-En accord avec l'organisateur de la manifestation citée à l'article 244
-quaterdecies de l'annexe III, le directeur régional des douanes et droits
-indirects peut créer un débit de tabac temporaire, sur la demande d'un gérant de
-débit de tabac ordinaire permanent situé à proximité du lieu de la manifestation
-ou, à défaut, sur la demande d'un fournisseur ou d'un fabricant de tabacs
-manufacturés visé aux 1 et 2 de l'article 565.
+Lorsque le gérant d'un débit de tabac ordinaire doit s'absenter
+exceptionnellement, pendant la période d'ouverture du débit, pour une durée ne
+dépassant pas une journée, ou pour activité syndicale, il peut, s'il n'a pas la
+possibilité de se faire remplacer par son suppléant, confier la tenue du débit à
+un salarié en situation régulière au regard du droit du travail.

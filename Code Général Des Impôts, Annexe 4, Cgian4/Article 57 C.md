@@ -1,13 +1,8 @@
 Article 57 C
 ----
-I. - Les débits de tabac ordinaires et temporaires sont créés sur décision de
-l'administration des douanes et droits indirects. Les débits de tabac ordinaires
-sont créés après avis consultatif de l'organisation citée au premier alinéa du 3
-du III de l'article 244 quinquedecies de l'annexe III. Une convention d'échanges
-de données démographiques, économiques et commerciales, définissant notamment
-les critères susceptibles d'être utilisés pour l'émission de l'avis consultatif
-déjà cité, peut être conclue entre le directeur général des douanes et droits
-indirects et le président de cette organisation.
-
-II. - Les débits de tabac spéciaux sont créés sur décision de l'administration
-des douanes et droits indirects.
+En accord avec l'organisateur de la manifestation citée à l'article 244 decies
+de l'annexe III au code général des impôts, le directeur régional des douanes et
+droits indirects peut créer un débit de tabac temporaire, sur la demande d'un
+gérant de débit de tabac ordinaire permanent situé à proximité du lieu de la
+manifestation ou, à défaut, sur la demande d'un fournisseur ou d'un fabricant de
+tabacs manufacturés visé aux 1 et 2 de l'article 565 du code général des impôts.

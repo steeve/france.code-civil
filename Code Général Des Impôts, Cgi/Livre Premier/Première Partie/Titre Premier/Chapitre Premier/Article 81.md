@@ -200,10 +200,11 @@ Algérie ;
 complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du
 code rural ;
 
-29° Les vacations horaires et l'allocation de vétérance personnelle ou de
-réversion, servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en
-application du titre II de la loi n° 96-370 du 3 mai 1996 relative au
-développement du volontariat dans les corps de sapeurs-pompiers ;
+29° Les vacations horaires, l'allocation de vétérance personnelle ou de
+reversion et la prestation de fidélisation et de reconnaissance servies aux
+sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II
+de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans
+les corps de sapeurs-pompiers ;
 
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996
 relative aux mesures en faveur du personnel militaire dans le cadre de la

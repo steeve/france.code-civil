@@ -1,6 +1,6 @@
 Article 164 AU
 ----
-I. - Toute personne qui désire être autorisée à utiliser les matériels ou
+I.-Toute personne qui désire être autorisée à utiliser les matériels ou
 logiciels de validation doit présenter toutes garanties d'honorabilité et de
 solvabilité et en faire la demande, sur un imprimé fourni par l'administration,
 au directeur régional des douanes et droits indirects du lieu d'utilisation, en
@@ -21,12 +21,12 @@ au quatrième alinéa de l'article 286 K de l'annexe II au code général des
 impôts, à toute réquisition du service. Ces utilisateurs doivent être titulaires
 de l'autorisation mentionnée à l'article 54 A pour employer les empreintes
 fiscales des matériels et logiciels de validation mentionnés au premier alinéa
-du présent article auxquels ils sont rattachés.
+auxquels ils sont rattachés.
 
-II. - Seront réputés non timbrés les documents et marques fiscales dont les
+II.-Seront réputés non timbrés les documents et marques fiscales dont les
 empreintes auront été apposées par une personne non autorisée.
 
-III. - L'usager ne peut modifier, d'une façon quelconque, aucune des parties des
+III.-L'usager ne peut modifier, d'une façon quelconque, aucune des parties des
 matériels, des logiciels, du mécanisme d'apposition des empreintes ou des
 compteurs.
 
@@ -34,7 +34,7 @@ Tout matériel ou logiciel dont le fonctionnement est devenu défectueux doit ê
 immédiatement signalé au concessionnaire ainsi qu'au service des douanes et
 droits indirects dont dépend l'usager.
 
-IV. - Toutes facilités doivent être données aux agents du service des douanes et
+IV.-Toutes facilités doivent être données aux agents du service des douanes et
 droits indirects pour inspecter les matériels ou logiciels et pour relever les
 chiffres des compteurs, sans avis préalable.
 
@@ -45,7 +45,7 @@ organes des matériels ou logiciels, peuvent être opérées en l'absence d'un
 représentant du concessionnaire, la présence de l'utilisateur étant toujours
 requise.
 
-V. - Tout usager est tenu :
+V.-Tout usager est tenu :
 
 a) De justifier de la mise en place d'un cautionnement garantissant le paiement
 des droits d'accises pour toutes les opérations validées par les empreintes ou
@@ -57,7 +57,7 @@ code général des impôts et 286 L de l'annexe II audit code, dont les
 dispositions sont applicables aux capsules et aux marques fiscales qui ont été
 imprimées à l'aide des matériels ou logiciels mentionnés à l'article 164 AM.
 
-VI. - Par dérogation à l'engagement prévu au I, les usagers sont habilités à
+VI.-Par dérogation à l'engagement prévu au I, les usagers sont habilités à
 apposer, à l'aide de leurs matériels ou logiciels, les marques fiscales sur des
 capsules dont ils font usage pour le compte de personnes pour lesquelles ils
 sont autorisés à embouteiller les vins, autres boissons fermentées, produits

@@ -6,9 +6,9 @@ dans les conditions prévues au I de l'article 1639 A bis, exonérer de taxe
 professionnelle pour une durée de sept ans les entreprises existant au 1er
 janvier 2004 ou créées entre cette date et le 31 décembre 2013, et répondant, au
 cours de la période de référence mentionnée à l'article 1467 A, aux conditions
-fixées par les a, c, d et e de l'article 44 sexies-0 A. Lorsque l'entreprise a
-été créée antérieurement au 1er janvier 2004, elle doit l'avoir été depuis moins
-de huit ans au 1er janvier de l'année d'imposition.
+fixées par les 1°, 3°, 4° et 5° de l'article 44 sexies-0 A. Lorsque l'entreprise
+a été créée antérieurement au 1er janvier 2004, elle doit l'avoir été depuis
+moins de huit ans au 1er janvier de l'année d'imposition.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 établissement public de coopération intercommunale doté d'une fiscalité propre.
@@ -18,8 +18,8 @@ traité CE aux aides de minimis. Elle cesse définitivement de s'appliquer à
 compter de l'année qui suit le septième anniversaire de la création de
 l'entreprise ou, si elle est antérieure, de la deuxième année qui suit la
 période mentionnée au premier alinéa pendant laquelle l'entreprise ne remplit
-plus l'une des conditions fixées par les a, c, d et e de l'article 44 sexies-0
-A.
+plus l'une des conditions fixées par les 1°, 3°, 4° et 5° de l'article 44
+sexies-0 A.
 
 Pour bénéficier de l'exonération, les contribuables doivent en faire la demande
 dans les délais prévus à l'article 1477. Cette demande doit être adressée, pour

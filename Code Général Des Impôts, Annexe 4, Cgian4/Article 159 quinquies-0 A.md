@@ -1,16 +1,28 @@
 Article 159 quinquies-0 A
 ----
-Les taux des contributions prévues pour l'alimentation du Fonds de garantie des
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des
 assurances obligatoires de dommages en application des articles 322 et 322 A de
-l'annexe II au code général des impôts sont fixés comme suit :
+l'annexe II au code général des impôts sont fixés conformément aux dispositions
+de l'article A. 421-3 du code des assurances ci-après reproduit :
 
-a) Contribution des entreprises d'assurance : 1 p. 100 de la totalité des
-charges du fonds de garantie (1) ;
+Art. A. 421-3 - Les taux des contributions prévues pour l'alimentation du fonds
+de garantie des assurances obligatoires de dommages en application des articles
+R. 421-27 et R. 421-28 du code des assurances sont fixés comme suit :
 
-b) Contribution des responsables d'accidents non assurés :
+Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-27 :
+1 % de la totalité des charges de la section relative aux opérations résultant
+de la défaillance d'entreprises d'assurance dommages.
 
-1° Taux normal : 10 p. 100 des indemnités restant à leur charge ;
+Contribution des entreprises d'assurance au titre du 3° de l'article R. 421-27 :
+1 % de la totalité des charges de la section automobile.
 
-2° Taux réduit : 5 p. 100 ;
+Contribution des responsables d'accidents non assurés au titre du 4° de
+l'article R. 421-27 :
 
-c) Contribution des assurés : 0,1 p. 100 des primes (1).
+- taux normal : 10 % des indemnités restant à leur charge ;
+
+- taux réduit : 5 % ;
+
+Contribution des assurés au titre du 5° de l'article R. 421-27 :
+
+0,1 % des primes.

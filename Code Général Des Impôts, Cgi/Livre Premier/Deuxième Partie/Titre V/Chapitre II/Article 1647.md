@@ -49,4 +49,4 @@ de 2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.
 
 X. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1,5 % sur le montant de la redevance d'archéologie préventive prévue à l'article
-9 de la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive.
+L. 524-2 du code du patrimoine.

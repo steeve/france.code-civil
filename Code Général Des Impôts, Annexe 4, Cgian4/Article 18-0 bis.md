@@ -1,6 +1,6 @@
 Article 18-0 bis
 ----
-La liste des équipements mentionnés au dernier alinéa du 6 de l'article 199
+La liste des équipements mentionnés au septième alinéa du 6 de l'article 199
 undecies A du code général des impôts est fixée comme suit :
 
 1. Equipements de chauffage et de fourniture d'eau chaude fonctionnant à

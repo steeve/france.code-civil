@@ -1,30 +1,20 @@
 Article 57 K
 ----
-I. - Les gérants de débits de tabac ordinaires peuvent fermer leurs débits les
-jours fériés.
+Lorsque plusieurs débitants de tabac sollicitent le transfert de leur point de
+vente dans le même secteur, le directeur régional des douanes et droits
+indirects établit un ordre de priorité en fonction de leur situation, suivant
+les critères suivants :
 
-II. - Les gérants de débits de tabac ordinaires peuvent prendre un congé annuel
-de six semaines.
+1. Perte involontaire du local commercial résultant notamment du
+non-renouvellement du bail, d'une expulsion pour travaux, de la démolition de
+l'immeuble ou de la destruction du local ;
 
-Les six semaines de congés ne peuvent pas être prises de façon consécutive.
+2. Modification sensible de la configuration des lieux où est situé le point de
+vente tabac, indépendante de la volonté du débitant et non prévisible, telle que
+la déviation d'une route ou la modification du sens de circulation et lui
+causant un préjudice ;
 
-Les gérants doivent tenir compte de l'ouverture des autres débits de tabac du
-secteur dans le choix de leurs périodes de congés.
+3. Insécurité établie selon les critères de la police nationale ou de la
+gendarmerie nationale ;
 
-En cas de fermeture pendant les congés annuels, une affiche comportant l'adresse
-d'un débit ouvert parmi les plus proches, dans le quartier, l'arrondissement, la
-commune ou le canton, doit être apposée sur la devanture du magasin.
-
-III. - Un gérant de débit de tabac ordinaire peut se faire remplacer pendant ses
-congés annuels, par l'une des personnes suivantes :
-
-a) Son suppléant ;
-
-b) Un salarié dûment déclaré et en situation régulière au regard du droit du
-travail, même s'il n'est pas habituellement un salarié du gérant, mais titulaire
-d'un contrat établi spécialement pour la période de remplacement.
-
-IV. - Le gérant de débit de tabac ordinaire conserve la responsabilité totale de
-l'ensemble de son activité pendant son remplacement tel que prévu aux articles
-57 G, 57 I et 57 L, et au III du présent article. Les jours et heures
-d'ouverture du débit peuvent être modifiés pendant cette période.
+4. Ancienneté dans la gestion du point de vente.

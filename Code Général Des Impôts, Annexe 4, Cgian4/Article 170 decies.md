@@ -7,9 +7,11 @@ programme d'investissement est réalisé lorsque son montant total n'excède pas
 
 La décision est prise par le ministre du budget lorsque le programme
 d'investissement est d'un montant supérieur à 1.500.000 euros ou qu'il est
-réalisé dans plus d'un département d'outre-mer, dans un territoire d'outre-mer,
-dans la collectivité territoriale de Mayotte ou dans celle de
-Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
+réalisé dans plus d'un département d'outre-mer, en Polynésie française, aux îles
+Wallis et Futuna, dans les Terres australes et antarctiques françaises, en
+Nouvelle-Calédonie, dans la collectivité territoriale de Mayotte ou dans celle
+de Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le
+ministre.
 
 L'agrément est également délivré par le ministre lorsqu'il concerne les
 investissements nécessaires à l'exploitation d'une concession de service public

@@ -1,17 +1,20 @@
 Article 57 M
 ----
-Le transfert d'un débit de tabac ordinaire consiste dans le déplacement dans la
-même commune, par son gérant, de ce point de vente et de l'ensemble des
-activités commerciales qui y sont éventuellement annexées. Tout transfert d'un
-débit de tabac ordinaire dans une autre commune que celle de son implantation
-initiale est interdit.
+I. - Le gérant d'un débit de tabac ordinaire peut transformer entièrement ou
+partiellement, par adjonction ou scission, les activités commerciales annexées
+au point de vente tabac, sous réserve, dans le cas d'une scission, d'en avoir
+informé préalablement le directeur régional des douanes et droits indirects par
+écrit, au plus tard le jour de réalisation de l'opération.
 
-Tout transfert d'un débit de tabac ordinaire doit être autorisé préalablement
-par le directeur régional des douanes et droits indirects, après avis
-consultatif de l'organisation professionnelle citée au I de l'article 57 C.
+La scission des activités commerciales annexées au débit de tabac doit se
+traduire par la séparation matérielle de l'activité qui n'est plus annexée à
+celle de vente au détail des tabacs manufacturés.
 
-L'autorisation est délivrée lorsque le transfert n'est pas de nature à
-déséquilibrer le réseau existant en occasionnant un préjudice certain aux
-débitants les plus proches du nouveau lieu d'implantation, qui serait la
-conséquence d'un rapprochement trop important entraînant une réduction
-significative de la zone de chalandise de ceux-ci.
+II. - Le débitant de tabac ayant scindé l'activité commerciale annexée au point
+de vente tabac peut présenter un successeur à l'administration des douanes et
+droits indirects après un délai de trois ans à compter de la date de la
+scission.
+
+Si la scission a pour effet de supprimer toute activité commerciale annexée au
+débit de tabac, le débitant ne peut plus présenter de successeur à
+l'administration des douanes et droits indirects.

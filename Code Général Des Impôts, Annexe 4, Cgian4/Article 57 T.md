@@ -1,6 +1,4 @@
 Article 57 T
 ----
-Le contrat, le cahier des charges et la soumission mentionnés respectivement au
-deuxième alinéa du 1 de l'article 244 decies de l'annexe III et au 2 du II de
-l'article 244 quinquedecies de la même annexe sont conformes aux modèles
-figurant en annexe.
+S'agissant des revendeurs, les quantités visées à l'article 575 H du code
+général des impôts sont fixées à 50 kilogrammes.
