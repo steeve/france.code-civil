@@ -1,12 +1,9 @@
 Article R334-19
 ----
-Lorsqu'il exerce la vérification de solvabilité globale, le ministre de
-l'économie, des finances et du budget utilise à cette fin les informations qu'il
-doit solliciter des autorités de contrôle des Etats membres de la communauté
-économique européenne qui ont accepté l'application de la mesure mentionnée au
-a) de l'article R. 334-17.
+L'accord donné par le ministre chargé de l'économie et des finances en vertu de
+l'article R. 334-17 ou de l'article R. 334-18 peut être retiré.
 
-Lorsqu'il n'exerce pas cette vérification, le ministre de l'économie, des
-finances et du budget doit communiquer à l'autorité de contrôle qui procède à
-ladite vérification toutes informations utiles concernant l'activité de la
-succursale française de l'entreprise.
+Lorsque l'autorité de contrôle d'un autre Etat membre retire un accord
+précédemment donné pour la vérification de la solvabilité globale, l'entreprise
+perd le bénéfice des dispositions de l'article R. 334-17 ou de l'article R.
+334-18.

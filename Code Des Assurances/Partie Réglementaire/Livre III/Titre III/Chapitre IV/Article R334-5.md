@@ -57,6 +57,11 @@ sinistres demeurant à la charge de l'entreprise après cession en réassurance 
 le montant des sinistres brut de réassurance, sans que ce rapport puisse être
 inférieur à 50 p. 100.
 
+Pour la branche mentionnée au 18 de l'article R. 321-1, le montant des sinistres
+payés entrant dans le calcul du résultat déterminé par application de la seconde
+méthode est le coût résultant pour l'entreprise des interventions effectuées en
+matière d'assistance, y compris les coûts d'assistance directs internes.
+
 Lorsqu'une entreprise pratique principalement un ou plusieurs des risques
 tempête, grêle, gelée, il est tenu compte pour le calcul de la charge moyenne
 annuelle des sinistres des sept derniers exercices sociaux au lieu des trois

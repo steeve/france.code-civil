@@ -13,7 +13,7 @@ mentionnée aux 10 à 15 de l'article R. 321-1 ;
 
 - 300.000 unités de compte de la Communauté économique européenne, lorsque
 l'entreprise est agréée pour pratiquer des opérations entrant dans une branche
-mentionnée aux 1 à 8 et 16 du même article ;
+mentionnée aux 1 à 8, 16 à 18 du même article ;
 
 - 200.000 unités de compte de la Communauté économique européenne, lorsque
 l'entreprise est agréée pour pratiquer des opérations entrant dans une branche

@@ -2,28 +2,42 @@ Article R334-17
 ----
 Une entreprise étrangère, dont le siège social n'est pas établi sur le
 territoire d'un Etat membre de la Communauté économique européenne, agréée ou
-demandant l'agrément pour pratiquer les opérations d'assurances dommages en
-France et dans un ou plusieurs autres Etats membres, peut demander au ministre
-de l'économie, des finances et du budget que lui soient appliquées une ou
-plusieurs des mesures suivantes :
+demandant l'agrément pour pratiquer les opérations mentionnées aux 1 à 18 et 20
+à 26 de l'article R. 321-1 en France et dans un ou plusieurs autres Etats
+membres peut demander, en motivant son choix, au ministre chargé de l'économie
+et des finances de faire l'objet en France de la vérification de solvabilité
+globale.
 
-a) que, par dérogation aux dispositions de l'article R. 334-6, la marge de
-solvabilité soit calculée en fonction de l'activité globale qu'elle exerce sur
-le territoire de la République française et sur celui des autres Etats membres
-qui acceptent cette mesure ;
+L'entreprise doit justifier qu'elle informe de cette demande les autorités de
+contrôle des autres Etats membres dans lesquels elle est agréée ou demande
+l'agrément pour pratiquer ces opérations. Elle ne peut faire l'objet en France
+de la vérification de solvabilité globale qu'avec l'accord de ces autorités.
 
-b) qu'elle soit dispensée de l'obligation de déposer en France le cautionnement
-prévu par le d) de l'article R. 321-8, sous réserve de justifier du dépôt auprès
-d'un autre Etat membre d'un cautionnement égal au quart du montant minimal du
-fonds de garantie calculé en fonction de l'activité globale qu'elle exerce en
-France et dans les autres Etats membres ayant accepté cette procédure ;
+En cas d'acceptation, les mesures suivantes sont appliquées :
 
-c) que, par dérogation aux dispositions de l'article R. 334-6, les actifs
-formant la contrepartie du fonds de garantie, calculé en fonction de l'activité
-globale qu'elle exerce en France et dans les autres Etats membres qui acceptent
-cette mesure, soient localisés sur le territoire de la République française ou
-sur celui d'un des Etats précités.
+a) Par dérogation aux dispositions de l'article R. 334-6 ou de l'article R.
+334-14, la marge de solvabilité est calculée en fonction de l'activité globale
+que l'entreprise exerce sur le territoire de la République française et sur
+celui des autres Etats membres concernés ;
 
-L'entreprise doit justifier qu'elle présente une demande analogue aux autorités
-de contrôle des Etats membres dans lesquels elle est agréée ou demande
-l'agrément pour pratiquer les opérations mentionnées ci-dessus.
+b) Par dérogation aux dispositions de l'article R. 334-6 ou de l'article R.
+334-14, les actifs formant la contrepartie du fonds de garantie sont localisés
+sur le territoire de la République française ou sur celui de l'un des Etats
+mentionnés en a ;
+
+c) L'entreprise doit déposer sur le territoire de la République française un
+cautionnement égal :
+
+- au quart du montant minimal du fonds de garantie requis pour pratiquer les
+opérations mentionnées aux 1 à 18 de l'article R. 321-1 ;
+
+- à 200 000 unités de compte de la Communauté économique européenne pour
+pratiquer les opérations mentionnées aux 20 à 26 de l'article R. 321-1.
+
+Ces mesures prennent effet à la date à laquelle le ministre chargé de l'économie
+et des finances s'engage vis-à-vis des autorités de contrôle des autres Etats
+membres à exercer la vérification de solvabilité globale.
+
+La vérification de solvabilité globale prend en compte les informations reçues
+des autorités de contrôle des autres Etats intéressés, membres de la Communauté
+économique européenne.
