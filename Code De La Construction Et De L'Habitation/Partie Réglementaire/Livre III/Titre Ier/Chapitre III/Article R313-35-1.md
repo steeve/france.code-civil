@@ -1,7 +1,7 @@
 Article R313-35-1
 ----
 L'Agence nationale pour la participation des employeurs à l'effort de
-construction remplit les missions prévues aux articles L. 313-7 à L. 313-15. A
+construction remplit les missions prévues aux articles L. 313-7 à L. 313-16. A
 ce titre, elle propose aux ministres chargés de la construction et de
 l'habitation et de l'économie :
 

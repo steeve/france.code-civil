@@ -7,5 +7,5 @@ l'article R. 712-2, répondant de manière optimale aux besoins de la population
 tels qu'ils sont définis par la carte sanitaire.
 
 En outre, il détermine les objectifs prioritaires dont la réalisation sera
-poursuivie notamment au moyen des contrats pluriannuels mentionnés à l'article
-L. 712-4.
+poursuivie notamment au moyen des contrats pluriannuels mentionnés aux articles
+L. 710-16, L. 710-16-1 et L. 710-16-2.
