@@ -16,7 +16,7 @@ l'assureur pendant plus de dix jours après réception de la proposition est
 considéré comme un refus implicite d'assurance.
 
 Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait
-application des dispositions du deuxième alinéa de l'article L. 112-2.
+application des dispositions du cinquième alinéa de l'article L. 112-2.
 
 Est assimilé à un refus le fait par l'assureur, saisi d'une proposition
 d'assurance en application de l'article L. 220-1, de subordonner son acceptation

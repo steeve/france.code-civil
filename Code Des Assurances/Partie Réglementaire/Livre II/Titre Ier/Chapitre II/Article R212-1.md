@@ -3,13 +3,12 @@ Article R212-1
 Le bureau central de tarification institué par l'article L. 212-1 comprend un
 président et douze membres qui sont nommés par arrêté du ministre de l'économie.
 
-1. Le président est choisi, sur proposition du conseil national des assurances,
-parmi les professeurs des disciplines juridiques des universités, les
-conseillers d'Etat, les conseillers à la Cour de cassation et les conseillers
-maîtres à la Cour des comptes.
+1. Le président est choisi parmi les professeurs des disciplines juridiques des
+universités, les conseillers d'Etat, les conseillers à la Cour de cassation et
+les conseillers maîtres à la Cour des comptes.
 
-2. Six membres représentent les entreprises d'assurances françaises et
-étrangères agréées pour pratiquer l'assurance automobile et sont nommés sur
+2. Six membres représentent les entreprises d'assurances pratiquant l'assurance
+automobile sur le territoire de la République française et sont nommés sur
 proposition des organismes professionnels ; un de ces membres représente les
 caisses d'assurance et de réassurance mutuelles agricoles pratiquant l'assurance
 automobile.

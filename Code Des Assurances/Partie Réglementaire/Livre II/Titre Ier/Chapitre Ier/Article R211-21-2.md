@@ -1,8 +1,9 @@
 Article R211-21-2
 ----
-Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance agréée
-en France doit délivrer sans frais un certificat pour chacun des véhicules
-couverts par le contrat, à l'exception toutefois des remorques.
+Pour l'application de l'article R. 211-21-1, toute entreprise d'assurance
+pratiquant sur le territoire de la République française doit délivrer sans frais
+un certificat pour chacun des véhicules couverts par le contrat, à l'exception
+toutefois des remorques.
 
 Le certificat doit mentionner :
 
@@ -18,7 +19,7 @@ e) Les dates de début et de fin de validité.
 
 Par dérogation au deuxième alinéa, le certificat délivré aux personnes
 mentionnées à l'alinéa 1er de l'article R. 211-3 ne doit comporter que les
-indications a, b et e ainsi qu'en termes apparents le mot "Garage".
+indications a, b et e ainsi qu'en termes apparents le mot " Garage ".
 
 Tout conducteur d'un véhicule sur lequel est apposé le certificat décrit à
 l'alinéa précédent doit en outre être en mesure de justifier aux autorités
