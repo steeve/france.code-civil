@@ -1,7 +1,7 @@
 Article L212-1
 ----
 La cour d'appel comprend, outre le premier président, des présidents de chambre
-et des conseillers [*composition, personnel*].
+et des conseillers.
 
-Le siège, le ressort, le nombre de chambres et la composition des cours d'appel
-sont fixés par un décret en Conseil d'Etat.
+Le siège et le ressort des cours d'appel sont fixés par décret en Conseil
+d'Etat.

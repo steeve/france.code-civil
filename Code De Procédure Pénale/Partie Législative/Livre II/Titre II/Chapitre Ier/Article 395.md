@@ -1,13 +1,13 @@
 Article 395
 ----
 Si le maximum de l'emprisonnement prévu par la loi est au moins égal à deux ans
-sans excéder cinq ans, le procureur de la République, lorsqu'il lui apparaît que
+sans excéder sept ans, le procureur de la République, lorsqu'il lui apparaît que
 les charges réunies sont suffisantes et que l'affaire est en l'état d'être
 jugée, peut, s'il estime que les éléments de l'espèce justifient une comparution
-immédiate, traduire le prévenu sur-le-champ devant le tribunl.
+immédiate, traduire le prévenu sur-le-champ devant le tribunal.
 
 En cas de délit flagrant, si le maximum de l'emprisonnement prévu par la loi est
-au moins égal à un an sans excéder cinq ans, le procureur de la République, s'il
+au moins égal à un an sans excéder sept ans, le procureur de la République, s'il
 estime que les éléments de l'espèce justifient une comparution immédiate, peut
 traduire le prévenu sur-le-champ devant le tribunal.
 

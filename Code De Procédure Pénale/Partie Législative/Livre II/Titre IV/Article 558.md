@@ -18,6 +18,12 @@ Lorsqu'il résulte de l'avis de réception, signé par l'intéressé, que celui-
 reçu la lettre recommandée de l'huissier, l'exploit remis à la mairie produit
 les mêmes effets que s'il avait été délivré à personne.
 
+L'huissier peut également envoyer à l'intéressé par lettre simple une copie de
+l'acte accompagnée d'un récépissé que le destinataire est invité à réexpédier
+par voie postale ou à déposer à l'étude de l'huissier, revêtu de sa signature.
+Lorsque ce récépissé a été renvoyé, l'exploit remis à la mairie produit les
+mêmes effets que s'il avait été remis à personne.
+
 Si l'exploit est une citation à comparaître, il ne pourra produire les effets
 visés à l'alinéa précédent que si le délai entre le jour où l'avis de réception
 est signé par l'intéressé et le jour indiqué pour la comparution devant le

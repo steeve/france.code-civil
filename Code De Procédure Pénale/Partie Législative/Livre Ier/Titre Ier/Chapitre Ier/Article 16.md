@@ -11,13 +11,10 @@ commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les
 contrôleurs généraux, les commissaires de police ; les fonctionnaires du corps
-des inspecteurs de police de la police nationale titulaires, nominativement
-désignés par arrêté des ministres de la justice et de l'intérieur, après avis
-conforme d'une commission.
-
-La composition des commissions prévues aux 2° et 3° sera déterminée par un
-décret en Conseil d'Etat pris sur le rapport du ministre de la justice et des
-ministres intéressés.
+des inspecteurs de police de la police nationale titulaires, et les commandants,
+les officiers de paix principaux ainsi que, sous réserve qu'ils comptent au
+moins deux ans de services effectifs en qualité de titulaires, les officiers de
+paix de la police nationale.
 
 Ont également la qualité d'officier de police judiciaire les personnes exerçant
 des fonctions de directeur ou sous-directeur de la police judiciaire relevant du

@@ -1,12 +1,12 @@
 Article 717
 ----
 Les condamnés purgent leur peine dans un établissement pour peines ; toutefois,
-les condamnés à l'emprisonnement d'une durée inférieure ou égale à trois ans
+les condamnés à l'emprisonnement d'une durée inférieure ou égale à cinq ans
 l'exécutent dans un établissement qui leur est spécialement réservé.
 
-Les condamnés à des peines inférieures à cinq ans peuvent exécuter leur peine
+Les condamnés à des peines inférieures à sept ans peuvent exécuter leur peine
 dans les établissements prévus à l'alinéa précédent si le reliquat de peine leur
-restant à purger après leur condamnation est inférieur à trois ans.
+restant à purger après leur condamnation est inférieur à cinq ans.
 
 Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an
 peuvent, cependant, à titre exceptionnel, être maintenus en maison d'arrêt et
