@@ -1,8 +1,8 @@
 Article L2411-18
 ----
-- Une union est créée entre les sections d'une même commune, sous réserve que
-leur commission syndicale ait été constituée, à la demande du conseil municipal
-ou d'une ou plusieurs sections, par délibérations concordantes des commissions
+Une union est créée entre les sections d'une même commune, sous réserve que leur
+commission syndicale ait été constituée, à la demande du conseil municipal ou
+d'une ou plusieurs sections, par délibérations concordantes des commissions
 syndicales, qui fixent les modalités de gestion des biens et d'attribution des
 revenus.
 
@@ -19,5 +19,5 @@ La suppression d'une union de sections est réalisée dans les mêmes formes que
 création.
 
 Une section de commune peut se retirer d'une union de sections dans les
-conditions prévues à l'article L. 5212-28 pour le retrait d'une commune d'un
+conditions prévues à l'article L. 5211-19 pour le retrait d'une commune d'un
 syndicat de communes.

@@ -1,56 +1,87 @@
 Article L5215-20
 ----
-- Sont transférées à la communauté urbaine les compétences attribuées aux
-communes dans les domaines suivants :
+I. - La communauté urbaine exerce de plein droit, au lieu et place des communes
+membres, les compétences suivantes :
 
-1° Chartes intercommunales de développement et d'aménagement, schémas
-directeurs, plans d'occupation des sols ou documents d'urbanisme en tenant lieu,
-programmes locaux de l'habitat, constitution de réserves foncières intéressant
-la communauté, les conseils municipaux devant être saisis pour avis ;
+1° En matière de développement et d'aménagement économique, social et culturel
+de l'espace communautaire :
 
-2° Création et réalisation de zones d'aménagement concerté ; actions de
-développement économique ; création et équipement des zones d'activité
-industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ;
-actions de réhabilitation d'intérêt communautaire ;
+a) Création, aménagement, entretien et gestion de zones d'activité industrielle,
+commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ;
 
-3° Prise en considération d'un programme d'aménagement d'ensemble et
-détermination de secteurs d'aménagement mentionnés à l'article L. 332-9 du code
-de l'urbanisme ;
+b) Actions de développement économique ;
 
-4° Construction, aménagement et entretien des locaux scolaires dans les zones et
-secteurs mentionnées aux 2° et 3° et réalisés ou déterminés par la communauté ;
-à l'expiration d'un délai de dix ans à dater de leur mise en service, la
-propriété et l'entretien de ces locaux sont transférés, sur sa demande, à la
-commune sur le territoire de laquelle ils sont situés ; en ce cas, les
-conditions de prise en charge des annuités d'emprunt afférentes à ces locaux
-sont déterminées par délibérations concordantes du conseil de communauté et du
-conseil municipal intéressé ;
+c) Construction ou aménagement, entretien, gestion et animation d'équipements,
+de réseaux d'équipements ou d'établissements culturels, socioculturels,
+socio-éducatifs, sportifs, lorsqu'ils sont d'intérêt communautaire ;
 
-5° Services d'incendie et de secours sous réserve des dispositions du chapitre
-IV du titre II du livre IV de la première partie ;
+d) Lycées et collèges dans les conditions fixées au chapitre Ier de la section 2
+du titre II de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du
+7 janvier 1983 relative à la répartition de compétences entre les communes, les
+départements, les régions et l'Etat ;
 
-6° Transports urbains de voyageurs ;
+2° En matière d'aménagement de l'espace communautaire :
 
-7° Lycées et collèges ;
+a) Schéma directeur et schéma de secteur ; plan d'occupation des sols et
+documents d'urbanisme en tenant lieu ; création et réalisation de zones
+d'aménagement concerté d'intérêt communautaire ; et après avis des conseils
+municipaux, constitution de réserves foncières d'intérêt communautaire ;
 
-8° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures
-ménagères ;
+b) Organisation des transports urbains au sens du chapitre II du titre II de la
+loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous
+réserve des dispositions de l'article 46 de cette loi ; création ou aménagement
+et entretien de voirie ; signalisation ; parcs de stationnement ;
 
-9° Création de cimetières et extension des cimetières ainsi créés, crématoriums
+c) Prise en considération d'un programme d'aménagement d'ensemble et
+détermination des secteurs d'aménagement au sens du code de l'urbanisme ;
+
+3° En matière d'équilibre social de l'habitat sur le territoire communautaire :
+
+a) Programme local de l'habitat ;
+
+b) Politique du logement d'intérêt communautaire ; politique du logement social
+; action en faveur du logement des personnes défavorisées par des opérations
+d'intérêt communautaire ;
+
+c) Opérations programmées d'amélioration de l'habitat, actions de réhabilitation
+et résorption de l'habitat insalubre, lorsqu'elles sont d'intérêt communautaire
 ;
 
-10° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
+4° En matière de politique de la ville dans la communauté :
 
-11° Voirie et signalisation ;
+a) Dispositifs contractuels de développement urbain, de développement local et
+d'insertion économique et sociale ;
 
-12° Parcs de stationnement.
+b) Dispositifs locaux de prévention de la délinquance ;
 
-Lors de la création de la communauté, les communes peuvent décider, dans les
-conditions de majorité prévues au second alinéa de l'article L. 5215-2,
-d'exclure des compétences de la communauté tout ou partie de celles relatives
-aux équipements ou opérations mentionnés aux 2°, 3°, 9°, 11° et 12° ci-dessus,
-lorsque ces équipements ou ces opérations sont principalement destinés aux
-habitants d'une commune.
+5° En matière de gestion des services d'intérêt collectif :
 
-Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et
-les modalités d'application du présent article.
+a) Assainissement et eau ;
+
+b) Création et extension des cimetières créés, crématoriums ;
+
+c) Abattoirs, abattoirs marchés et marchés d'intérêt national ;
+
+d) Services d'incendie et de secours, dans les conditions fixées au chapitre IV
+du titre II du livre IV de la première partie ;
+
+6° En matière de protection et mise en valeur de l'environnement et de politique
+du cadre de vie :
+
+a) Elimination et valorisation des déchets des ménages et déchets assimilés ;
+
+b) Lutte contre la pollution de l'air ;
+
+c) Lutte contre les nuisances sonores.
+
+Lorsque l'exercice des compétences mentionnées au présent paragraphe est
+subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est
+déterminé à la majorité des deux tiers du conseil de la communauté urbaine.
+
+II. - La communauté urbaine peut transférer certaines de ses compétences à un
+syndicat mixte dont le périmètre inclut en totalité le périmètre communautaire
+après création du syndicat ou adhésion de la communauté.
+
+III. - Par convention passée avec le département, une communauté urbaine peut
+exercer pour le département tout ou partie des compétences d'aide sociale que
+celui-ci lui confie.

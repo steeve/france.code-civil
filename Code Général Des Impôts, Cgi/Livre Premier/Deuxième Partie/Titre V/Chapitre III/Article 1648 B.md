@@ -9,33 +9,22 @@ ressources dégagées par l'application du 4° du II de l'article 1648 A bis.
 
 Bénéficient de cette dotation :
 
-a) Les groupements de communes à fiscalité propre exerçant une compétence en
-matière d'aménagement de l'espace et de développement économique, dont la
-population regroupée n'excède pas 35 000 habitants et dont la commune la plus
-peuplée ne compte pas plus de 25 000 habitants ou dont la population regroupée
-n'excède pas 60 000 habitants, si la commune la plus peuplée compte moins de 15
-000 habitants et si aucune autre commune du groupement ne compte plus de 5 000
-habitants.
+a) ((Les groupements de communes à fiscalité propre exerçant une compétence en
+matière d'aménagement de l'espace et de développement économique dont la
+population regroupée n'excède pas 60 000 habitants et qui ne satisfont pas aux
+seuils de population nécessaires pour une transformation en communauté
+d'agglomération, si les deux tiers au moins des communes du groupement comptent
+moins de 5 000 habitants)) (M).
 
-b) Les communes de moins de 10 000 habitants, à l'exception de celles
-bénéficiant, soit de la dotation de solidarité urbaine prévue aux articles L.
-2334-15 à L. 2334-18 du code général des collectivités territoriales, soit des
-attributions du fonds de solidarité des communes de la région Ile-de-France en
-application des dispositions de l'article L. 2531-14 du même code, soit des
-attributions de la première fraction de la dotation de solidarité rurale prévue
-à l'article L. 2334-21 dudit code ;
+b) c) (Supprimés) (M).
 
-c) Les communes de moins de 20 000 habitants des départements d'outre-mer et
-celles de la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-Les crédits de la dotation de développement rural sont répartis entre les
-départements en tenant compte du nombre de communes et de groupements concernés,
-de la population, du potentiel fiscal et, le cas échéant, pour les groupements,
-du coefficient d'intégration fiscale. La répartition peut également tenir compte
-du nombre de communes et de groupements situés en zone de montagne. Cette
-répartition est effectuée dans des conditions telles que les crédits consacrés
-aux communes n'excèdent pas 30 p. 100 des sommes déléguées aux représentants de
-l'Etat dans les départements.
+((Les crédits de la dotation de développement rural sont répartis entre les
+départements en tenant compte du nombre de communes regroupées et du nombre
+d'établissements publics de coopération intercommunale, de la population
+regroupée, du potentiel fiscal et, le cas échéant, du coefficient d'intégration
+fiscale de ces établissements. La répartition peut également tenir compte du
+nombre de communes regroupées et d'établissements publics de coopération
+intercommunale situés en zone de montagne)) (M).
 
 Les attributions sont arrêtées par le représentant de l'Etat dans le
 département, sous forme de subventions, après avis de la commission d'élus
@@ -43,31 +32,39 @@ prévue ci-dessous. Ces subventions sont attribuées en vue de la réalisation d
 projets de développement économique et social ou d'actions en faveur des espaces
 naturels.
 
-Ces subventions peuvent également être attribuées, dans la limite de la moitié
-des crédits consacrés aux communes, en vue de la réalisation d'investissements
-locaux, aux communes qui, sans être éligibles à la première fraction de la
-dotation de solidarité rurale instituée par l'article L. 2334-21 du code général
-des collectivités territoriales, soit des attributions du fonds de jouent un
-rôle structurant en matière d'équipements collectifs et de services de proximité
-pour les populations du monde rural. L'attribution par habitant versée à chacune
-de ces communes ne peut être supérieure à l'attribution moyenne par habitant
-revenant la même année, dans le même département, aux communes bénéficiaires de
-la première fraction de la dotation de solidarité rurale. Les communes visées
-par les dispositions du premier alinéa de l'article L. 2334-21 dudit code ne
-peuvent toutefois bénéficier d'une attribution au titre de cette part.
-
-La commission évalue les attributions en fonction de critères comprenant
+((La commission évalue les attributions en fonction de critères comprenant
 notamment l'augmentation attendue des bases de fiscalité directe locale ou les
-créations d'emplois sur le territoire des communes ou des groupements
-considérés.
+créations d'emplois prévues sur le territoire des établissements publics de
+coopération intercommunale considérés)) (M).
 
-La commission comprend, outre les membres de la commission prévue à l'article L.
-2334-35 du code général des collectivités territoriales, soit des attributions
-du fonds de , des représentants des maires des communes concernées dont la
-population est comprise entre 2 000 et 25 000 habitants et des représentants des
-présidents des groupements de communes concernés dont la population est comprise
-entre 2 000 et 35 000 habitants, désignés dans les mêmes conditions que les
-autres membres de la commission.
+((Dans chaque département, il est institué auprès du représentant de l'Etat une
+commission composée des représentants des présidents des établissements publics
+de coopération intercommunale dont la population n'excède pas 60 000 habitants.
+
+((Les membres de la commission sont désignés par l'association des maires du
+département.
+
+((Si, dans le département, il n'existe pas d'association de maires ou s'il en
+existe plusieurs, les membres de la commission sont élus à la représentation
+proportionnelle au plus fort reste par un collège regroupant les présidents
+d'établissements publics de coopération intercommunale.
+
+((A chacune de ses réunions, la commission désigne un bureau de séance. Le
+secrétariat de la commission est assuré par les services du représentant de
+l'Etat dans le département. Le préfet ou son représentant assiste aux travaux de
+la commission.
+
+((Le mandat des membres de la commission expire à chaque renouvellement général
+des conseils des établissements publics de coopération intercommunale.
+
+((Le préfet arrête chaque année, après avis de la commission, les opérations à
+subventionner ainsi que le montant de l'aide de l'Etat qui leur est attribuée.
+Il en informe la commission ainsi que la conférence départementale
+d'harmonisation des investissements instituée par l'article L. 3142-1 du code
+général des collectivités territoriales.
+
+((Un décret en Conseil d'Etat fixe les modalités d'application du présent
+article)) (M).
 
 La population à prendre en compte pour l'application du présent article est
 celle définie à l'article L. 2334-2 du code général des collectivités
@@ -133,9 +130,9 @@ conditions fixées par décret en Conseil d'Etat bénéficient, à compter du 1e
 janvier 1992, de la compensation prévue au présent 1°, selon les modalités
 prévues pour les communes (3).
 
-((2° bis. Une deuxième part qui sert à verser, en 1999, en 2000 et en 2001 :
+2° bis. Une deuxième part qui sert à verser, en 1999, en 2000 et en 2001 :
 
-((a) Une compensation aux communes éligibles en 1998 à la dotation de solidarité
+a) Une compensation aux communes éligibles en 1998 à la dotation de solidarité
 urbaine prévue à l'article L. 2334-15 du code général des collectivités
 territoriales et aux communes bénéficiaires, en 1998, de la première fraction de
 la dotation de solidarité rurale visée à l'article L. 2334-21 du code général
@@ -146,7 +143,7 @@ de cette part sont égales à la baisse enregistrée par chaque commune entre 19
 et 1999 de la dotation prévue au IV de l'article 6 de la loi de finances
 précitée ;
 
-((b) Une compensation aux établissements publics de coopération intercommunale à
+b) Une compensation aux établissements publics de coopération intercommunale à
 fiscalité propre dont un membre au moins est éligible, en 1998, soit à la
 dotation de solidarité urbaine prévue à l'article L. 2334-15 du code général des
 collectivités territoriales, soit à la première fraction de la dotation de
@@ -159,8 +156,8 @@ la population des communes éligibles soit à la dotation de solidarité urbaine
 soit à la première fraction de la dotation de solidarité rurale, membres du
 groupement dans la population totale du groupement ;
 
-((c) Une compensation aux communes bénéficiaires en 1998 de la seconde fraction
-de la dotation de solidarité rurale visée à l'article L. 2334-22 du code général
+c) Une compensation aux communes bénéficiaires en 1998 de la seconde fraction de
+la dotation de solidarité rurale visée à l'article L. 2334-22 du code général
 des collectivités territoriales et dont le potentiel fiscal par habitant, tel
 qu'il est défini à l'article L. 2334-4 du code précité est inférieur à 90 % du
 potentiel fiscal moyen par habitant des communes appartenant au même groupe
@@ -168,7 +165,7 @@ démographique, et qui connaissent en 1999 une baisse de la dotation prévue au 
 de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
 Les attributions qui reviennent aux communes bénéficiaires de cette part sont
 égales à la baisse enregistrée par chaque commune entre 1998 et 1999 de la
-dotation prévue au IV de l'article 6 de la loi de finances précitée)) (M).
+dotation prévue au IV de l'article 6 de la loi de finances précitée.
 
 3° Une part résiduelle, au plus égale à 5 p. 100 de ce surplus et qui est versée
 aux communes qui connaissent des difficultés financières graves en raison d'une
@@ -197,6 +194,8 @@ A V ter.
 V. Les modalités d'application du présent article sont fixées par décret en
 Conseil d'Etat (1).
 
+(M) Modification.
+
 (1) Décret 85-260 du 22 février 1985 (JO du 24) modifié, décret 91-1081 du 14
 octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet).
 
@@ -204,5 +203,3 @@ octobre 1991 (JO du 19) et décret n° 92-568 du 30 juin 1992 (JO du 1er juillet
 
 (3) Décret 85-260 du 22 février 1985 (JO du 24) modifié, et décret n° 92-568 du
 30 juin 1992 (JO du 1er juillet).
-
-(M) Modification.

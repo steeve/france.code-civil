@@ -1,10 +1,9 @@
 Article L5215-39
 ----
-- A compter de la date du transfert des compétences à la communauté urbaine,
+A compter de la date du transfert des compétences à la communauté urbaine,
 celle-ci prend en charge le service de la dette des communes, syndicats de
-communes ou districts compris dans l'agglomération, ainsi que les obligations de
-ces collectivités ou établissements publics à raison des compétences
-transférées.
+communes compris dans l'agglomération, ainsi que les obligations de ces
+collectivités ou établissements publics à raison des compétences transférées.
 
 Le montant des annuités de remboursement des emprunts constitue une dépense
 obligatoire pour la communauté urbaine.

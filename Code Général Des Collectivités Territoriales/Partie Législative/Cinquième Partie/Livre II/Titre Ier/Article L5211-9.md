@@ -1,12 +1,30 @@
 Article L5211-9
 ----
-- Les établissements publics de coopération intercommunale ayant compétence en
-matière d'urbanisme sont, sur proposition des vendeurs, autorisés à acquérir,
-moyennant le paiement d'une rente viagère, les immeubles qui leur sont
-nécessaires pour des opérations de restauration immobilière, d'aménagement ou
-d'équipement.
+Le président est l'organe exécutif de l'établissement public de coopération
+intercommunale.
 
-Lorsqu'un immeuble ainsi aliéné est occupé en tout ou partie par le vendeur, le
-contrat de vente viagère doit comporter à son profit et à celui de son conjoint
-habitant avec lui, à la date de l'acte de vente, la réserve d'un droit d'habiter
-totalement ou partiellement ledit immeuble leur vie durant.
+Il prépare et exécute les délibérations de l'organe délibérant de
+l'établissement public de coopération intercommunale. Il est l'ordonnateur des
+dépenses et il prescrit l'exécution des recettes de l'établissement public de
+coopération intercommunale.
+
+Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous
+sa surveillance et sa responsabilité, l'exercice d'une partie de ses fonctions
+aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
+d'autres membres du bureau. Il peut également donner, sous sa surveillance et sa
+responsabilité, par arrêté, délégation de signature au directeur et au directeur
+adjoint dans les établissements publics de coopération intercommunale dont la
+liste est fixée par décret en Conseil d'Etat. Ces délégations subsistent tant
+qu'elles ne sont pas rapportées.
+
+Il est le chef des services de l'établissement public de coopération
+intercommunale.
+
+Il représente en justice l'établissement public de coopération intercommunale.
+
+Le président de l'établissement public de coopération intercommunale procède à
+la nomination des gardes champêtres dans le cas et les conditions prévus à
+l'article L. 2213-17.
+
+A partir de l'installation de l'organe délibérant et jusqu'à l'élection du
+président, les fonctions de président sont assurées par le doyen d'âge.

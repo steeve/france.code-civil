@@ -1,26 +1,20 @@
 Article L5211-20
 ----
-- Les électeurs des communes membres d'un établissement public de coopération
-intercommunale peuvent être consultés sur les décisions que l'assemblée ou le
-président de cet établissement sont appelés à prendre pour régler les affaires
-de la compétence de l'établissement en matière d'aménagement.
+L'organe délibérant de l'établissement public de coopération intercommunale
+délibère sur les modifications statutaires autres que celles visées par les
+articles L. 5211-17 à L. 5211-19 et autres que celles relatives à la répartition
+des sièges au sein de l'organe délibérant et à la dissolution de
+l'établissement.
 
-Sur proposition de l'ensemble des maires des communes membres, ou sur demande
-écrite de la moitié des membres de l'assemblée délibérante, l'assemblée
-délibérante de l'établissement délibère sur le principe et les modalités
-d'organisation de la consultation. Dans ce cas, l'urgence ne peut être invoquée.
+A compter de la notification de la délibération de l'organe délibérant de
+l'établissement public de coopération intercommunale au maire de chacune des
+communes membres, le conseil municipal de chaque commune dispose d'un délai de
+trois mois pour se prononcer sur la modification envisagée. A défaut de
+délibération dans ce délai, sa décision est réputée favorable.
 
-Un cinquième des électeurs inscrits sur les listes électorales des communes
-membres de l'établissement public de coopération intercommunale peuvent saisir
-celui-ci en vue de l'organisation d'une consultation sur une opération
-d'aménagement relevant de sa décision. Dans l'année, tout électeur ne peut
-signer qu'une seule saisine tendant à l'organisation d'une consultation.
-L'assemblée délibérante de l'établissement délibère dans les conditions prévues
-à l'alinéa ci-dessus sur le principe et les modalités d'organisation de cette
-consultation.
+La décision de modification est subordonnée à l'accord des conseils municipaux
+dans les conditions de majorité qualifiée requise pour la création de
+l'établissement.
 
-La délibération qui décide la consultation indique expressément que cette
-consultation n'est qu'une demande d'avis.
-
-Les dépenses afférentes à la consultation sont à la charge de l'établissement
-public de coopération intercommunale qui l'organise.
+La décision de modification est prise par arrêté du représentant ou des
+représentants de l'Etat dans le ou les départements intéressés.

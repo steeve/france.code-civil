@@ -8,5 +8,4 @@ limite de six jours par élu pour la durée d'un mandat et d'une fois et demie l
 valeur horaire du salaire minimum de croissance.
 
 Le montant des dépenses de formation ne peut excéder 20 p. 100 du montant total
-des crédits ouverts au titre des indemnités de fonction susceptibles d'être
-allouées aux élus de la commune.
+des indemnités de fonction susceptibles d'être allouées aux élus de la commune.

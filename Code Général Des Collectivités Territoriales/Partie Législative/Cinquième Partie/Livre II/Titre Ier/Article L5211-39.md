@@ -1,20 +1,15 @@
 Article L5211-39
 ----
-- En cas de fusion volontaire de toutes les communes précédemment regroupées au
-sein d'un établissement public de coopération intercommunale à fiscalité propre
-ayant au moins deux années d'existence, et qui entraîne la dissolution dudit
-établissement, la dotation forfaitaire de la commune issue de la fusion est
-égale à la somme des dotations forfaitaires attribuées l'année précédente aux
-anciennes communes et de la dotation de l'ancien établissement public de
-coopération intercommunale à fiscalité propre attribuée l'année précédant la
-fusion.
+Le président de l'établissement public de coopération intercommunale adresse
+chaque année, avant le 30 septembre, au maire de chaque commune membre un
+rapport retraçant l'activité de l'établissement, accompagné du compte
+administratif arrêté par l'organe délibérant de l'établissement. Ce rapport fait
+l'objet d'une communication par le maire au conseil municipal en séance publique
+au cours de laquelle les délégués de la commune à l'organe délibérant de
+l'établissement public de coopération intercommunale sont entendus. Le président
+de l'établissement public de coopération intercommunale peut être entendu, à sa
+demande, par le conseil municipal de chaque commune membre ou à la demande de ce
+dernier.
 
-La dotation forfaitaire de la commune issue de la fusion évolue conformément aux
-dispositions des articles L. 2334-7 et L. 2334-9.
-
-En cas de constitution d'un nouvel établissement public de coopération
-intercommunale à fiscalité propre comprenant la commune fusionnée, la part de la
-dotation forfaitaire issue de la dotation versée à l'ancien établissement n'est
-plus attribuée à la commune fusionnée, et la dotation globale de fonctionnement
-du nouvel établissement public de coopération intercommunale est calculée
-conformément à l'article L. 5211-32.
+Les délégués de la commune rendent compte au moins deux fois par an au conseil
+municipal de l'activité de l'établissement public de coopération intercommunale.

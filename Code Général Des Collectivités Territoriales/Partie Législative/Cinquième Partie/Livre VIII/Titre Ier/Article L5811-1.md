@@ -1,7 +1,7 @@
 Article L5811-1
 ----
-- Les renvois faits par les articles L. 1612-20, L. 5211-3, L. 5211-4 et L.
-5212-1 à L. 5212-4, en tant qu'ils concernent les syndicats de communes,
+Les renvois faits par les articles L. 1612-20, L. 5211-3, L. 5211-4 et L. 5212-1
+à L. 5212-2 et L. 5212-4, en tant qu'ils concernent les syndicats de communes,
 s'entendent comme visant les dispositions du titre IV du livre V de la deuxième
 partie, notamment en ce qui concerne la comptabilité et les règles de contrôle.
 

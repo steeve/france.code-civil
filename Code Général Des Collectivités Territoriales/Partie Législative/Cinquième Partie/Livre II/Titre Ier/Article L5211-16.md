@@ -1,11 +1,12 @@
 Article L5211-16
 ----
-- La commission départementale de la coopération intercommunale établit et tient
-à jour un état de la coopération intercommunale dans le département. Elle
-entend, à leur demande, des représentants des collectivités territoriales
-concernées. Elle peut formuler toute proposition tendant à renforcer la
-coopération intercommunale. Elle est informée de tout projet de création
-d'établissement public de coopération intercommunale ou d'association de
-communes en vue de l'élaboration d'une charte intercommunale de développement et
-d'aménagement et peut formuler ses observations. Ses propositions et
-observations sont rendues publiques.
+Les établissements publics de coopération intercommunale ayant compétence en
+matière d'urbanisme sont, sur proposition des vendeurs, autorisés à acquérir,
+moyennant le paiement d'une rente viagère, les immeubles qui leur sont
+nécessaires pour des opérations de restauration immobilière, d'aménagement ou
+d'équipement.
+
+Lorsqu'un immeuble ainsi aliéné est occupé en tout ou partie par le vendeur, le
+contrat de vente viagère doit comporter à son profit et à celui de son conjoint
+habitant avec lui, à la date de l'acte de vente, la réserve d'un droit d'habiter
+totalement ou partiellement ledit immeuble leur vie durant.

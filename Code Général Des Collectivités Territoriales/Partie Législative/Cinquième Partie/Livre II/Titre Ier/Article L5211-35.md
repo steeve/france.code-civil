@@ -1,19 +1,20 @@
 Article L5211-35
 ----
-- Au titre de l'année où il lève pour la première fois sa fiscalité propre,
-l'établissement public de coopération intercommunale perçoit une attribution au
-titre de la dotation d'aménagement calculée dans les conditions prévues à
-l'article L. 5211-33. Un abattement de 50 p. 100 est opéré sur chacune des
-attributions ainsi calculées. Cet abattement est porté à 75 p. 100 pour
-l'établissement public de coopération intercommunale dont le potentiel fiscal
-par habitant est supérieur ou égal au double du potentiel fiscal moyen de la
-catégorie d'établissements dont il relève. Toutefois, aucun abattement n'est
-appliqué à la dotation perçue par un établissement public de coopération
-intercommunale à fiscalité propre l'année où il change de catégorie
-d'établissements.
+- En cas de fusion volontaire de toutes les communes précédemment regroupées au
+sein d'un établissement public de coopération intercommunale à fiscalité propre
+ayant au moins deux années d'existence, et qui entraîne la dissolution dudit
+établissement, la dotation forfaitaire de la commune issue de la fusion est
+égale à la somme des dotations forfaitaires attribuées l'année précédente aux
+anciennes communes et de la dotation de l'ancien établissement public de
+coopération intercommunale à fiscalité propre attribuée l'année précédant la
+fusion.
 
-Pour les établissements publics de coopération intercommunale ne faisant pas
-application des dispositions des articles 1609 nonies B ou 1609 nonies C du code
-général des impôts, le coefficient d'intégration fiscale à prendre en compte est
-égal au coefficient d'intégration fiscale moyen de l'année précédente de la
-catégorie d'établissements à laquelle ils appartiennent.
+La dotation forfaitaire de la commune issue de la fusion évolue conformément aux
+dispositions des articles L. 2334-7 et L. 2334-9.
+
+En cas de constitution d'un nouvel établissement public de coopération
+intercommunale à fiscalité propre comprenant la commune fusionnée, la part de la
+dotation forfaitaire issue de la dotation versée à l'ancien établissement n'est
+plus attribuée à la commune fusionnée, et la dotation globale de fonctionnement
+du nouvel établissement public de coopération intercommunale est calculée
+conformément à l'article L. 5211-29.

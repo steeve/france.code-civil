@@ -12,3 +12,7 @@ l'unanimité de ses membres et qu'elle prévoit, sous la réserve des droits des
 tiers, les conditions dans lesquelles le syndicat est liquidé, la dissolution du
 syndicat mixte est prononcée par arrêté du représentant de l'Etat dans le
 département siège du syndicat.
+
+Le décret ou l'arrêté détermine, dans le respect du droit des tiers et des
+dispositions de l'article L. 5211-25-1, les conditions de liquidation du
+syndicat.

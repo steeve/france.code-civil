@@ -22,3 +22,7 @@ dépenses, sans qu'ils puissent excéder 25 p. 100 du montant total des indemnit
 versées chaque année aux membres du conseil municipal.
 
 Le maire est l'ordonnateur des dépenses susmentionnées.
+
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités
+d'exécution du service confié que ces collaborateurs accomplissent auprès de ces
+groupes au sein de l'organe délibérant.

@@ -1,20 +1,15 @@
 Article L5211-37
 ----
-- En cas de modification du périmètre d'un établissement public de coopération
-intercommunale à fiscalité propre entraînant une diminution du nombre des
-habitants, les attributions lui revenant, l'année suivant la baisse de
-population, sont calculées sur la base de sa nouvelle population. Les
-dispositions de l'article L. 5211-36 ne sont pas applicables.
+- Le bilan des acquisitions et cessions opérées par les établissements publics
+de coopération intercommunale est soumis chaque année à délibération de l'organe
+délibérant. Ce bilan est annexé au compte administratif de l'établissement
+concerné.
 
-En cas de modification du périmètre d'un établissement public de coopération
-intercommunale à fiscalité propre entraînant une augmentation du nombre
-d'habitants supérieure à 20 p. 100, l'établissement public bénéficie, la
-première année où il est tenu compte de cette modification, des dispositions du
-septième alinéa de l'article L. 5211-36.
-
-Les périmètres à prendre en compte sont appréciés au 1er janvier de l'année au
-titre de laquelle la répartition est effectuée.
-
-Si une commune est membre de plusieurs établissements publics de coopération
-intercommunale à fiscalité propre, la commune est rattachée à l'établissement
-public au profit duquel une fiscalité propre est levée sur son territoire.
+Toute cession d'immeubles ou de droits réels immobiliers envisagée par un
+établissement public de coopération intercommunale donne lieu à délibération
+motivée de l'organe délibérant portant sur les conditions de la vente et ses
+caractéristiques essentielles. La délibération est prise au vu de l'avis du
+service des domaines. Cet avis est réputé donné à l'issue d'un délai d'un mois à
+compter de la saisine de ce service. Lorsque cette opération est envisagée dans
+le cadre d'une convention avec une commune, copie de cette délibération est
+transmise à la commune concernée dans les deux mois suivant son adoption.

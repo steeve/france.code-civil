@@ -1,5 +1,5 @@
 Article L5211-22
 ----
-- Après avoir pris connaissance du résultat de la consultation, l'assemblée
-délibérante de l'établissement public de coopération intercommunale délibère
-dans les conditions prévues aux articles L. 2121-20 et L. 2121-21.
+Lorsque des remontées mécaniques sont exploitées par un établissement public de
+coopération intercommunale, la taxe communale peut être instituée et perçue
+directement par cet établissement avec l'accord des communes concernées.

@@ -1,28 +1,21 @@
 Article L5211-32
 ----
-- Les établissements publics de coopération intercommunale dotés d'une fiscalité
-propre reçoivent une attribution de la dotation d'aménagement prévue à l'article
-L. 2334-13.
+Au titre de la première année où il perçoit le produit de sa fiscalité propre,
+un établissement public de coopération intercommunale reçoit une attribution
+calculée dans les conditions prévues à l'article L. 5211-30. Les attributions
+des communautés de communes et des syndicats ou communautés d'agglomération
+nouvelle ainsi déterminées font l'objet d'un abattement de 50 %.
 
-Le montant total des sommes affectées à cette dotation est fixé, chaque année,
-par le comité des finances locales.
+" Au titre de la première année d'attribution de la dotation dans une catégorie,
+le coefficient d'intégration fiscale à prendre en compte est égal, pour les
+communautés urbaines, les communautés de communes et les communautés
+d'agglomération, au coefficient d'intégration fiscale moyen de la catégorie
+d'établissement à laquelle elles appartiennent.
 
-Le montant total défini à l'alinéa précédent est réparti par le comité des
-finances locales entre les quatre catégories de groupements de communes
-suivantes :
-
-1° Les communautés urbaines ;
-
-2° Les communautés de villes et les groupements de communes faisant application
-des dispositions de l'article 1609 nonies C du code général des impôts ;
-
-3° Les districts à fiscalité propre et les communautés de communes, s'ils ne
-font pas application des dispositions de l'article 1609 nonies C du code général
-des impôts ;
-
-4° Les syndicats ou communautés d'agglomérations nouvelles.
-
-Les sommes affectées à chacune de ces catégories d'établissements publics de
-coopération intercommunale sont réparties entre leurs membres, dans les
-conditions fixées à l'article L. 5211-33, à raison de 15 p. 100 pour la dotation
-de base et de 85 p. 100 pour la dotation de péréquation.
+" Au titre de la deuxième année d'attribution de la dotation dans la même
+catégorie, le coefficient d'intégration fiscale non corrigé des dépenses de
+transfert des communautés urbaines, des communautés de communes et des
+communautés d'agglomération est pondéré par le rapport entre le coefficient
+d'intégration fiscale moyen de leur catégorie tel que défini au 2° du III de
+l'article L. 5211-30 et ce coefficient d'intégration fiscale moyen, non corrigé
+des dépenses de transfert.

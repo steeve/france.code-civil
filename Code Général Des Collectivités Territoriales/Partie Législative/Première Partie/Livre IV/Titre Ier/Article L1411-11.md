@@ -1,6 +1,6 @@
 Article L1411-11
 ----
-- Les dispositions des articles L. 1411-1 et L. 1411-4 à L. 1411-10 sont
+Les dispositions des articles L. 1411-1 et L. 1411-4 à L. 1411-10 sont
 applicables aux conventions dont la signature intervient à compter du 31 mars
 1993.
 

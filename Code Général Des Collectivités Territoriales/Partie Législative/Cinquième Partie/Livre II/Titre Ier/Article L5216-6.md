@@ -1,11 +1,13 @@
 Article L5216-6
 ----
-- A défaut d'accord amiable entre les conseils municipaux intervenu dans un
-délai de trois mois à compter de leur renouvellement général ou de la
-publication de l'arrêté fixant le périmètre de la communauté, la répartition des
-sièges au sein du conseil de communauté est assurée en fonction de la population
-à la représentation proportionnelle à la plus forte moyenne. Dans ce cas, le
-nombre total des sièges à répartir est déterminé par application des
-dispositions de l'article L. 5215-6 et est augmenté, après répartition, de façon
-à ce que chaque commune dispose au moins d'un siège et à ce qu'aucune ne dispose
-de plus de la moitié des sièges.
+La communauté d'agglomération est substituée de plein droit au syndicat de
+communes préexistant dont le périmètre est identique au sien, pour la totalité
+des compétences qu'il exerce.
+
+La communauté d'agglomération est également substituée de plein droit, pour les
+compétences qu'elle exerce, au syndicat de communes préexistant inclus en
+totalité dans son périmètre.
+
+La substitution de la communauté d'agglomération au syndicat de communes
+s'effectue dans les conditions prévues au deuxième alinéa de l'article L.
+5211-41.

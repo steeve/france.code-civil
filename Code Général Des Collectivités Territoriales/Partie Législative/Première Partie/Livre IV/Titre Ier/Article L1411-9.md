@@ -1,6 +1,6 @@
 Article L1411-9
 ----
-- Aux conventions de délégation de service public des communes et des
+Aux conventions de délégation de service public des communes et des
 établissements publics communaux ou intercommunaux transmises par application de
 l'article L. 2131-2 au représentant de l'Etat dans le département ou à son
 délégué dans l'arrondissement, dans un délai de quinze jours à compter de leur

@@ -1,6 +1,6 @@
 Article L1411-13
 ----
-- Dans les communes de 3 500 habitants et plus, les documents relatifs à
+Dans les communes de 3 500 habitants et plus, les documents relatifs à
 l'exploitation des services publics délégués, qui doivent être remis à la
 commune en application de conventions de délégation de service public, à
 l'exception de ceux mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet

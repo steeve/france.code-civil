@@ -24,3 +24,7 @@ communauté.
 
 Le président du conseil de communauté est l'ordonnateur des dépenses
 susmentionnées.
+
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités
+d'exécution du service confié que ces collaborateurs accomplissent auprès de ces
+groupes au sein de l'organe délibérant.

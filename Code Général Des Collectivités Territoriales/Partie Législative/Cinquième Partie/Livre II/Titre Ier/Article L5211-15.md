@@ -1,10 +1,10 @@
 Article L5211-15
 ----
-- Les conditions d'application des articles L. 5211-13 et L. 5211-14 sont fixées
-par décret en Conseil d'Etat. Ce décret fixe notamment le nombre total des
-membres de la commission départementale, déterminé compte tenu de la population,
-du nombre des communes du département et de leur importance démographique, les
-critères démographiques utilisés pour la constitution des collèges de maires
-mentionnés au 1° de l'article L. 5211-14 ainsi que les modalités de désignation
-des membres de la commission départementale et les règles de fonctionnement de
-celle-ci.
+Les établissements publics de coopération intercommunale sont responsables, dans
+les conditions prévues par les articles L. 2123-31 et L. 2123-33 pour les
+conseillers municipaux et les maires, des accidents survenus aux membres de
+leurs organes délibérants et à leurs présidents dans l'exercice de leurs
+fonctions.
+
+Les dispositions de l'article L. 2123-34 relatives à la responsabilité des élus
+sont applicables au président et aux vice-présidents ayant reçu délégation.

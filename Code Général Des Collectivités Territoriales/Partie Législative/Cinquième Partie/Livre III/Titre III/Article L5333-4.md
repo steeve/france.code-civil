@@ -1,8 +1,9 @@
 Article L5333-4
 ----
-- Les communes gèrent les équipements, à l'exception de ceux qui sont reconnus
-d'intérêt commun et qui sont à ce titre créés et gérés par la communauté ou le
-syndicat d'agglomération nouvelle.
+Les communes gèrent les équipements ainsi que les services publics qui leur sont
+attachés, à l'exception de ceux qui sont reconnus d'intérêt commun et qui sont à
+ce titre créés et gérés par la communauté ou le syndicat d'agglomération
+nouvelle.
 
 Un inventaire des équipements existants ou en voie de réalisation est dressé
 lors de la création de la communauté ou du syndicat d'agglomération nouvelle ;
@@ -13,7 +14,7 @@ quatre mois à compter de la date de l'arrêté pris par le représentant de l'E
 dans le département en application du septième alinéa de l'article L. 5321-1 sur
 la liste des équipements reconnus d'intérêt commun lors de l'établissement de
 cet inventaire qui est constaté par un arrêté du représentant de l'Etat dans le
-département. L'inventaire est renouvelé après chaque renouvellement des conseils
+département.L'inventaire est renouvelé après chaque renouvellement des conseils
 municipaux dans les conditions prévues pour son établissement initial. Dans le
 cas de transferts d'équipements lors du renouvellement de l'inventaire, les
 conséquences financières de ces transferts sont fixées par une convention signée

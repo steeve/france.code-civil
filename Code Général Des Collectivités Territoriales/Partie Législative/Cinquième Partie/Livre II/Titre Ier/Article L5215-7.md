@@ -1,6 +1,8 @@
 Article L5215-7
 ----
-- La répartition des sièges est établie selon les modalités suivantes :
+- La répartition des sièges est établie dans le délai fixé à l'article L.
+5215-6, soit par accord amiable de l'ensemble des conseils municipaux des
+communes, soit selon les modalités suivantes :
 
 a) Un siège est attribué à chaque commune membre de la communauté ;
 

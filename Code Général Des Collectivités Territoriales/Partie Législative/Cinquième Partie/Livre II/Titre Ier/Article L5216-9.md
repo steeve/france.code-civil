@@ -1,16 +1,18 @@
 Article L5216-9
 ----
-- Le mandat des membres du conseil de communauté expire lors de l'installation
-du conseil de communauté suivant le renouvellement général des conseils
-municipaux.
+La communauté d'agglomération est dissoute, par décret en Conseil d'Etat, sur la
+demande des conseils municipaux des communes membres acquise par un vote des
+deux tiers au moins des conseils municipaux des communes intéressées
+représentant plus de la moitié de la population totale de celles-ci, ou de la
+moitié au moins des conseils municipaux des communes représentant les deux tiers
+de la population, cette majorité devant en outre nécessairement comprendre le
+conseil municipal de la commune dont la population est supérieure à la moitié de
+la population concernée. Ce décret détermine, conformément aux dispositions de
+l'article L. 5211-25-1 et dans le respect des droits des tiers, les conditions
+dans lesquelles la communauté d'agglomération est liquidée.
 
-A partir de l'installation du conseil, les fonctions de président sont assurées
-par le doyen d'âge jusqu'à l'élection du président du conseil de communauté.
-
-En cas de suspension, de dissolution ou de démission des membres en exercice
-d'un conseil municipal, le mandat des délégués est prorogé jusqu'à la
-désignation des nouveaux délégués.
-
-En cas de vacance parmi les membres du conseil de communauté, par suite de
-décès, de démission ou toute autre cause, il est pourvu au remplacement dans le
-délai de deux mois.
+La répartition des personnels concernés entre les communes membres est soumise,
+pour avis, aux commissions administratives paritaires compétentes. Elle ne peut
+donner lieu à un dégagement des cadres. Les personnels concernés sont nommés
+dans un emploi de même niveau et en tenant compte de leurs droits acquis. Les
+communes attributaires supportent les charges financières correspondantes.

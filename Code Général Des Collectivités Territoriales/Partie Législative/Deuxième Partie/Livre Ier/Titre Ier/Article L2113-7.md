@@ -1,13 +1,13 @@
 Article L2113-7
 ----
-- Le nombre de conseillers provenant de chacun des anciens conseils municipaux
-est proportionnel, suivant la règle du plus fort reste, au nombre des électeurs
+Le nombre de conseillers provenant de chacun des anciens conseils municipaux est
+proportionnel, suivant la règle du plus fort reste, au nombre des électeurs
 inscrits.
 
 Cette répartition s'opère en prenant pour base de calcul un effectif de
-cinquante-cinq sièges au total mais elle ne peut conduire à attribuer à l'une
-des anciennes communes un nombre de sièges supérieur à celui de ses conseillers
-en exercice.
+soixante-neuf sièges au total mais elle ne peut conduire à attribuer à l'une des
+anciennes communes un nombre de sièges supérieur à celui de ses conseillers en
+exercice.
 
 Si, par application des deux alinéas précédents, une ancienne commune n'obtient
 pas un nombre de sièges permettant l'intégration du maire et des adjoints, le ou
