@@ -1,39 +1,44 @@
 Article R724-2
 ----
-Le comité territorial de l'organisation sanitaire de Mayotte comprend, outre le
-directeur de l'agence régionale de l'hospitalisation territorialement compétente
-ou son représentant :
+1° Pour l'application à Mayotte de l'article R. 712-6, le deuxième alinéa est
+ainsi rédigé : "Mayotte est découpé en secteurs sanitaires et secteurs
+psychiatriques".
 
-1° Le directeur des affaires sanitaires et sociales de Mayotte ;
+2° Pour l'application à Mayotte de l'article R. 712-7, les mots :
 
-2° Le médecin inspecteur compétent pour Mayotte ;
+"après avis des préfets de départements" sont remplacés par les mots : "après
+avis du représentant de l'Etat à Mayotte" et au 3° les mots : "par région" sont
+remplacés par les mots : "pour Mayotte".
 
-3° Un fonctionnaire désigné par le représentant de l'Etat à Mayotte ;
+3° Pour l'application à Mayotte de l'article R. 712-8, les mots :
 
-4° Deux conseillers généraux désignés par le conseil général ;
+"pour un groupe de régions" sont remplacés par les mots : "pour une région ou un
+groupe de régions, et Mayotte".
 
-5° Un maire désigné par le représentant de l'Etat à Mayotte sur proposition de
-l'assemblée des maires mahorais ;
+4° A l'article R. 712-10, les mots : "schéma régional d'organisation sanitaire"
+et "carte sanitaire régionale" sont remplacés par les mots : "schéma
+d'organisation sanitaire applicable à Mayotte" et "carte sanitaire applicable à
+Mayotte". Les mots :
 
-6° Le directeur de la caisse de prévoyance sociale ;
+"schéma d'organisation sanitaire interrégional ou à caractère interrégional"
+sont remplacés par les mots : "schéma d'organisation sanitaire d'une ou
+plusieurs régions sanitaires et Mayotte".
 
-7° Le médecin-conseil représentant le service médical de la caisse de prévoyance
-sociale ;
+5° Pour l'application à Mayotte, l'article R. 712-11 est ainsi rédigé :
 
-8° Deux représentants des syndicats médicaux les plus représentatifs à Mayotte,
-dont au moins un au titre des syndicats de médecins hospitaliers publics ;
+Les projets de carte sanitaire et les projets de schéma d'organisation sanitaire
+ainsi que leurs annexes sont préparés par l'agence régionale de
+l'hospitalisation compétente pour Mayotte.
 
-9° Le président de la commission médicale d'établissement de l'établissement
-public de santé ;
+Le bilan mentionné à l'article R. 712-3 est communiqué pour avis au comité de
+l'organisation sanitaire.
 
-10° Deux représentants des organisations syndicales des personnels non médicaux
-hospitaliers les plus représentatives à Mayotte, dont au moins un représentant
-des personnels hospitaliers publics ;
+Le projet de carte sanitaire et le projet de schéma d'organisation sanitaire,
+ainsi que son annexe, sont soumis pour avis, successivement aux conférences
+sanitaires de secteur et au comité de l'organisation sanitaire.
 
-11° Deux représentants des organisations d'hospitalisation publique les plus
-représentatives à Mayotte ;
-
-12° Deux représentants des usagers ;
-
-13° Deux personnalités qualifiées désignées par le représentant de l'Etat à
-Mayotte.
+Lorsqu'il s'agit d'un projet de carte sanitaire ou de schéma d'organisation
+sanitaire commun à une région ou un groupe de régions et à Mayotte, les avis des
+comités régionaux de l'organisation sanitaire et sociale concernés et du comité
+de l'organisation sanitaire de Mayotte ainsi que du comité national de
+l'organisation sanitaire et sociale sont requis.

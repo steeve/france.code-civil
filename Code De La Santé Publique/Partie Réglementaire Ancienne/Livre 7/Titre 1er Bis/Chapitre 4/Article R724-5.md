@@ -1,6 +1,15 @@
 Article R724-5
 ----
-La qualité de membre du comité se perd lorsque la personne intéressée cesse
-d'exercer le mandat ou les fonctions au titre desquels elle a été nommée. Il est
-alors pourvu à son remplacement, dans les conditions prévues à l'article R.
-724-3, pour la durée du mandat restant à courir.
+Le représentant de l'Etat à Mayotte arrête, sur proposition du directeur de
+l'agence régionale de l'hospitalisation de la Réunion, d'une part, la liste des
+organismes, institutions, groupements ou syndicats représentés au comité de
+l'organisation sanitaire et, d'autre part, le nombre de sièges dont ils
+disposent.
+
+Le représentant de l'Etat à Mayotte arrête, sur proposition du directeur de
+l'agence régionale de l'hospitalisation de la Réunion, la liste nominative des
+membres du comité de l'organisation sanitaire de Mayotte. Un suppléant de chaque
+membre du comité est nommé dans les mêmes conditions que le titulaire.
+
+Le mandat des membres titulaires et suppléants est de cinq ans. Il est
+renouvelable.

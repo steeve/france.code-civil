@@ -1,13 +1,23 @@
 Article R724-9
 ----
-Le comité se prononce sur dossier, sur le rapport mentionné à l'article R.
-724-8.
+Le comité de l'organisation sanitaire de Mayotte ne peut délibérer que si au
+moins la moitié de ses membres sont présents ; le quorum est apprécié en début
+de séance.
 
-Les auteurs des demandes mentionnées au 2° de l'article R. 724-1 sont entendus,
-sur leur demande, par le rapporteur du dossier. Ils peuvent également être
-entendus par le comité si le président le juge utile.
+Toutefois, quand le quorum n'est pas atteint après une convocation régulièrement
+faite, le comité délibère valablement, quel que soit le nombre de membres
+présents, lors d'une seconde réunion spécialement convoquée et ne portant que
+sur les points inscrits à l'ordre du jour de la première réunion.
 
-Le président du comité peut également décider de l'audition de toute personne.
+Les avis du comité sont émis à la majorité des voix des membres présents. En cas
+de partage égal des voix, celle du président est prépondérante.
 
-Le comité peut appeler toute personne dont le concours paraît souhaitable à
-participer à ses travaux, à titre consultatif et temporaire.
+Les membres suppléants ne siègent qu'en cas d'absence ou d'empêchement des
+membres titulaires.
+
+Les membres ne peuvent siéger dans les affaires auxquelles ils sont intéressés à
+titre personnel.
+
+Les membres du comité sont soumis à l'obligation de discrétion professionnelle à
+l'égard de tous les faits et documents dont ils ont connaissance en cette
+qualité, ainsi qu'à l'égard des délibérations du comité.
