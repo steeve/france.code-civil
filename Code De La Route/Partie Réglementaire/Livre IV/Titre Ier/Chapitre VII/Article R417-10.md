@@ -3,14 +3,14 @@ Article R417-10
 I. - Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à
 gêner le moins possible la circulation.
 
-II. - Est considéré comme gênant la circulation publique, l'arrêt ou le
+II. - Est considéré comme gênant la circulation publique l'arrêt ou le
 stationnement d'un véhicule :
 
 1° Sur les trottoirs, les passages ou accotements réservés à la circulation des
 piétons ;
 
-1° bis Sur les bandes et pistes cyclables ainsi qu'en bordure des bandes
-cyclables ;
+1° bis Sur les voies vertes, les bandes et pistes cyclables ainsi qu'en bordure
+des bandes cyclables ;
 
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de
 transport public de voyageurs, des taxis ou des véhicules affectés à un service
@@ -40,7 +40,7 @@ supérieurs ;
 10° Sur une voie publique spécialement désignée par arrêté de l'autorité
 investie du pouvoir de police municipale.
 
-III. - Est également considéré comme gênant la circulation publique, le
+III. - Est également considéré comme gênant la circulation publique le
 stationnement d'un véhicule :
 
 1° Devant les entrées carrossables des immeubles riverains ;
