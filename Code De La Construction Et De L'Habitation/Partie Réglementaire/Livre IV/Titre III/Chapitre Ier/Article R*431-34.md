@@ -1,9 +1,6 @@
 Article R*431-34
 ----
-Sous le contrôle du conseil d'administration, la caisse des dépôts et
-consignations assure la gestion administrative des opérations de la caisse de
-prêts aux organismes d'habitations à loyer modéré dans les conditions fixées par
-une convention conclue entre les deux établissements.
-
-Le directeur général de la caisse des dépôts et consignations est ordonnateur de
-la caisse des prêts.
+Le conseil d'administration délibère sur le budget de la caisse, sur son compte
+financier ainsi que sur toutes les décisions afférentes à la gestion des prêts
+et aux opérations du fonds de garantie. Il se réunit au moins deux fois par an
+[*périodicité*], sur convocation de son président.
