@@ -1,6 +1,6 @@
 Article R*61 A-1
 ----
-Le montant de l'impôt exigible à la suite d'une procédure de redressement est
+Le montant de l'impôt exigible à la suite d'une procédure de rectification est
 calculé :
 
 a) Soit sur la base acceptée par le contribuable si celui-ci a donné son accord
