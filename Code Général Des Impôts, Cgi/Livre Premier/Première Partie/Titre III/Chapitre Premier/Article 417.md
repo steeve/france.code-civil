@@ -8,4 +8,4 @@ Les vins doux naturels mentionnés à l'article 402 bis sont :
 d'une telle appellation, sur les exploitations ou par les caves coopératives qui
 se livraient à leur préparation avant la publication de la loi du 28 août 1942
 et ce, dans la limite des quantités produites annuellement avant cette
-publication.
+publication (Nota).

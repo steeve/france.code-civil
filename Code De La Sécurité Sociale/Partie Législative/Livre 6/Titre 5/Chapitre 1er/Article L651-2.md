@@ -24,12 +24,18 @@ l'ordonnance n° 45-2710 du 2 novembre 1945 et la loi n° 79-12 du 3 janvier 197
 ;
 
 8°) les sociétés d'aménagement foncier et d'établissement rural régies par
-l'article 15 de la loi n° 60-808 du 5 août 1960 dite loi d'orientation agricole.
+l'article 15 de la loi n° 60-808 du 5 août 1960 dite loi d'orientation agricole
+;
 
 9°) ...
 
-10° Les sociétés en nom collectif et les groupements d'intérêt économique
+10°) les sociétés en nom collectif et les groupements d'intérêt économique
 constitués exclusivement entre des sociétés exonérées par application des
 dispositions prévues aux 1° à 8°, pour la réalisation d'opérations que ces
 sociétés peuvent mettre en oeuvre directement avec le bénéfice de cette
-exonération.
+exonération ;
+
+11°) des sociétés coopératives maritimes visées au chapitre Ier du titre III de
+la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines
+activités d'économie sociale, ayant pour objet exclusif soit l'avitaillement,
+soit l'armement de leurs associés coopérateurs.

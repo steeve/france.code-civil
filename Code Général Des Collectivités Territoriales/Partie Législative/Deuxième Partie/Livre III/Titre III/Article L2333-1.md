@@ -1,9 +1,12 @@
 Article L2333-1
 ----
-- Toute personne qui fait abattre un animal dans un abattoir public est
-redevable d'une taxe d'usage au profit de la collectivité territoriale
-propriétaire. Cette taxe est affectée à la section d'investissement du budget du
-maître de l'ouvrage.
+Toute personne qui fait abattre un animal dans un abattoir public est redevable
+d'une taxe d'usage au profit de la collectivité territoriale propriétaire. Cette
+taxe est affectée à la couverture des dépenses d'investissement des abattoirs
+publics et des frais financiers liés aux emprunts contractés pour ces
+investissements. Elle sert également à financer les dépenses de gros entretien
+des abattoirs publics. Un décret précise les conditions d'application de la
+taxe.
 
 La collectivité territoriale, après avis de la commission consultative de
 l'abattoir, vote le taux de cette taxe, qui est compris entre 0,155 F et 0,60 F
