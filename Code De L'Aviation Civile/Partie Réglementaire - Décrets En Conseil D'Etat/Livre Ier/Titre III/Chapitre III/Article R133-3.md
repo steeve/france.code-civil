@@ -12,3 +12,7 @@ c) et du contrôle y afférent ;
 
 d) La liste et le contenu des documents de bord déterminés en fonction des types
 d'aéronefs et de la nature des vols.
+
+e) Les conditions dans lesquelles l'utilisation des aéronefs relevant de
+certaines catégories acoustiques peut être limitée ou interdite sur le
+territoire français ou une partie de celui-ci.
