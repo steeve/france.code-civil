@@ -13,12 +13,13 @@ montant forfaitaire ;
 
 2. Pour les contrats de prêt signés postérieurement au 30 juin 1987, à un
 montant déterminé par le produit d'un coefficient et des charges mensuelles de
-prêt déclarées prises en compte dans la limite de la mensualité de référence
-prévue à l'article R. 351-18,
+prêt déclarées, les ressources du bénéficiaire et de son conjoint sont réputées
+égales à ce montant sauf lorsqu'il y a lieu d'appliquer les dispositions des
+articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
 
-les ressources du bénéficiaire et de son conjoint sont réputées égales à ce
-montant sauf lorsqu'il y a lieu d'appliquer les dispositions des articles R.
-351-10, 12, 13, 13-1, 14 et 14-1.
+Le montant et le coefficient visés respectivement aux 1 et 2 ci-dessus sont
+fixés par arrêté conjoint des ministres chargés de la séucrité sociale, du
+budget, de l'agriculture et du logement.
 
 II. - A compter du 1er janvier 1995, pour les contrats de prêt signés
 postérieurement au 31 décembre 1994, si les ressources du bénéficiaire et de son
@@ -28,5 +29,9 @@ montant, sauf lorsque, postérieurement à la date de signature du contrat de pr
 et pendant la période d'accession en cours, il y a lieu d'appliquer les
 dispositions des articles R. 351-10, 12, 13, 13-1, 14 et 14-1.
 
-Les montants visés aux 1 et 2 du I sont fixés par arrêté conjoint des ministres
-chargés de la sécurité sociale, du budget, de l'agriculture et du logement.
+III. - Les dispositions du I et du II ne s'appliquent pas lorsque
+postérieurement à la date de signature du contrat de prêt et pendant la période
+d'accession en cours, le bénéficiaire ou son conjoint se trouve dans
+l'obligation de cesser son activité professionnelle et est admis au bénéfice
+d'une pension d'invalidité, d'une rente d'accident du travail ou de l'allocation
+aux adultes handicapés ou de l'allocation compensatrice.
