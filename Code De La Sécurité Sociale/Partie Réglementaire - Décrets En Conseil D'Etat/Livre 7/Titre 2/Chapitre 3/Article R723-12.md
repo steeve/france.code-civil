@@ -1,7 +1,7 @@
 Article R723-12
 ----
 Le conseil d'administration élit parmi ses membres un bureau comprenant un
-président, six vice-présidents et un secrétaire. Les vice-présidents peuvent
+président, huit vice-présidents et un secrétaire. Les vice-présidents peuvent
 suppléer le président en cas d'empêchement.
 
 Le président est élu pour deux années consécutives [*durée du mandat*]. La

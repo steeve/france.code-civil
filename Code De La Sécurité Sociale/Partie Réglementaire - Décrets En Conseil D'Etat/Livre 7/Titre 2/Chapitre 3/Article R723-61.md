@@ -1,6 +1,7 @@
 Article R723-61
 ----
-Les réclamations contre les décisions concernant les prestations mentionnées aux
-sous-sections 2, 3 et 4 de la présente section sont soumises obligatoirement à
-une commission spéciale de recours gracieux prise au sein du conseil
-d'administration et qui peut s'adjoindre des experts à titre consultatif.
+Les statuts de la caisse fixent les conditions dans lesquelles le conseil
+d'administration peut, pour examiner les réclamations relatives aux prestations
+dont il est saisi, déléguer, dans les conditions qu'il détermine, tout ou partie
+de ses pouvoirs à une commission de recours amiable prise en son sein et qui
+peut s'adjoindre des experts.
