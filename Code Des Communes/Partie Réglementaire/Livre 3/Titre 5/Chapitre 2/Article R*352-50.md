@@ -11,3 +11,6 @@ titulaires de la médaille d'argent ;
 de la médaille d'argent. Toutefois, et à titre exceptionnel, la médaille d'or
 pourra être décernée après trente ans de services aux sapeurs-pompiers au moment
 de la cessation de leur activité.
+
+La médaille d'or peut être décernée à titre posthume, sans condition de durée de
+service, aux sapeurs-pompiers volontaires décédés en service commandé.
