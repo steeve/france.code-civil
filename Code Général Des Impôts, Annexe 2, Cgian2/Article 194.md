@@ -1,10 +1,10 @@
 Article 194
 ----
-L'option exercée couvre obligatoirement une période de cinq années, y compris
+L'option exercée couvre obligatoirement une période de dix années, y compris
 celle au cours de laquelle elle est déclarée.
 
 Dans le cas d'option au titre d'un immeuble non encore achevé, la durée de
-l'option s'étend obligatoirement jusqu'au 31 décembre de la quatrième année qui
+l'option s'étend obligatoirement jusqu'au 31 décembre de la neuvième année qui
 suit celle au cours de laquelle l'immeuble a été achevé.
 
 Elle est renouvelable par tacite reconduction, sauf dénonciation à l'expiration

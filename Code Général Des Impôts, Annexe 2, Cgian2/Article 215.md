@@ -20,11 +20,6 @@ complémentaire. Celle-ci est égale au dixième de la différence entre le prod
 de la taxe qui a grevé l'immeuble par le rapport de l'année considérée et le
 produit de la même taxe par le rapport initial.
 
-Les dispositions du premier alinéa sont applicables aux bailleurs d'immeubles.
-Toutefois, la période de quatorze années est substituée à la période de neuf
-années et la fraction de taxe dont ils sont redevables ou la déduction
-complémentaire sont calculées par quinzièmes au lieu de dixièmes.
-
 Lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou
 de l'acquisition de l'immeuble, la date de l'ouverture du droit à déduction se
 substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la

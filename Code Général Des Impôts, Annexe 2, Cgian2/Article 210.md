@@ -4,22 +4,17 @@ I. Lorsque des immeubles sont cédés ou apportés avant le commencement de la
 neuvième année qui suit celle de leur acquisition ou de leur achèvement et que
 la cession ou l'apport ne sont pas soumis à la taxe sur le prix total ou la
 valeur totale de l'immeuble, l'assujetti est redevable d'une fraction de la taxe
-initialement déduite. Cette fraction est égale au montant de la déduction
-initiale diminuée d'un dixième par année civile ou fraction d'année civile
-écoulée depuis la date à laquelle l'immeuble a été acquis ou achevé. Sont
-assimilés à une cession ou un apport la cessation de l'activité ou la cessation
-des opérations ouvrant droit à déduction ainsi que le transfert entre différents
-secteurs d'activités d'un assujetti prévus à l'article 213. Lorsque le droit à
-déduction n'a été ouvert qu'après la date de l'acquisition ou de l'achèvement de
+antérieurement déduite. Cette fraction est égale au montant de la déduction
+diminuée d'un dixième par année civile ou fraction d'année civile écoulée depuis
+la date à laquelle l'immeuble a été acquis ou achevé. Sont assimilés à une
+cession ou un apport la cessation de l'activité ou la cessation des opérations
+ouvrant droit à déduction ainsi que le transfert entre différents secteurs
+d'activités d'un assujetti prévus à l'article 213. Lorsque le droit à déduction
+n'a été ouvert qu'après la date de l'acquisition ou de l'achèvement de
 l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette
 date. Lorsqu'un immeuble acquis ou construit en vue de la vente est utilisé
 directement par l'assujetti, la date de la première utilisation se substitue à
 celle de l'acquisition ou de l'achèvement.
-
-En ce qui concerne les bailleurs d'immeubles qui ont bénéficié des dispositions
-de l'article 233 C, dernier alinéa, la fraction de la taxe dont l'assujetti est
-redevable est égale au montant de la taxe qui a initialement grevé le bien
-diminuée d'un dixième par année civile ou fraction d'année civile.
 
 II. Les dispositions du premier alinéa du I s'appliquent aux autres biens
 constituant des immobilisations qui sont cédés, apportés ou ont disparu avant le
