@@ -76,6 +76,11 @@ d) Les garanties des salariés appelés à exercer leur activité à l'étranger
 e) Les conditions d'emploi des personnels, salariés d'entreprises extérieures,
 notamment les travailleurs temporaires ;
 
+f) Les conditions dans lesquelles le ou les salariés, auteurs d'une invention
+dévolue à l'employeur en vertu des dispositions du deuxième alinéa de l'article
+1er ter de la loi n° 68-1 du 2 janvier 1968 sur les brevets d'invention,
+bénéficient d'une rémunération supplémentaire ;
+
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront
 réglés les conflits collectifs de travail susceptibles de survenir entre les
 employeurs et les salariés liés par la convention.
