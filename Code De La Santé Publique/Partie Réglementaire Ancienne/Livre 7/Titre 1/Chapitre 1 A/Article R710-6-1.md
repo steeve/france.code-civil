@@ -1,7 +1,14 @@
 Article R710-6-1
 ----
-Les documents d'analyse utilisés lors de la procédure d'accréditation décrivent
-notamment les méthodes, indicateurs, critères, référentiels, recommandations de
-bonne pratique clinique, références médicales et professionnelles mentionnés aux
-articles L. 710-5, L. 791-2 et L. 791-3 du code de la santé publique et à
-l'article L. 162-12-15 du code de la sécurité sociale.
+La procédure de certification des établissements de santé et organismes
+mentionnés à l'article L. 6113-4 a pour objet d'évaluer la qualité et la
+sécurité des soins dispensés et de l'ensemble des prestations délivrées, par
+services ou par activités, en tenant compte notamment de leur organisation
+interne ainsi que de la satisfaction des patients.
+
+La certification prend en compte les mesures prises par les établissements de
+santé, en vertu de l'article L. 1110-7 du code de la santé publique, pour
+assurer le respect des droits des personnes malades, les résultats de
+l'évaluation de la satisfaction des patients prévue à l'article L. 1112-2 du
+même code et l'amélioration des pratiques hospitalières résultant des mesures
+prises dans le cadre des accords prévus à son article L. 6113-12.
