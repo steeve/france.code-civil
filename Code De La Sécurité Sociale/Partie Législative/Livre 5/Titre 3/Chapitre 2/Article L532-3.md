@@ -9,4 +9,5 @@ alinéa de l'article L. 532-1, sans que, toutefois, le montant cumulé de ces de
 allocations puisse être supérieur à celui de l'allocation à taux plein.
 
 L'allocation parentale d'éducation n'est pas cumulable avec l'allocation pour
-jeune enfant servie à compter de la naissance de l'enfant.
+jeune enfant servie à compter de la naissance de l'enfant, avec l'allocation
+d'adoption et avec le complément familial.

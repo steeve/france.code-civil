@@ -4,7 +4,9 @@ La reconnaissance peut être contestée par toutes personnes qui y ont intérêt
 même par son auteur.
 
 L'action est aussi ouverte au ministère public, si des indices tirés des actes
-eux-mêmes rendent invraisemblable la filiation déclarée.
+eux-mêmes rendent invraisemblable la filiation déclarée. Elle lui est également
+ouverte lorsque la reconnaissance est effectuée en fraude des règles régissant
+l'adoption.
 
 Quand il existe une possession d'état conforme à la reconnaissance et qui a duré
 dix ans au moins depuis celle-ci, aucune contestation n'est plus recevable, si

@@ -1,6 +1,8 @@
 Article 348-4
 ----
-Les père et mère ou le conseil de famille peuvent consentir à l'adoption de
-l'enfant en laissant le choix de l'adoptant au service de l'aide sociale à
-l'enfance ou à l'oeuvre d'adoption autorisée qui recueillerait provisoirement
-l'enfant.
+Lorsque les père et mère ou le conseil de famille consentent à l'adoption de
+l'enfant en le remettant au service de l'aide sociale à l'enfance ou à un
+organisme autorisé pour l'adoption, le choix de l'adoptant est laissé au tuteur
+avec l'accord du conseil de famille des pupilles de l'Etat ou du conseil de
+famille de la tutelle organisée à l'initiative de l'organisme autorisé pour
+l'adoption.

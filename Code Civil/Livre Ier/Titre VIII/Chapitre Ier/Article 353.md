@@ -12,4 +12,9 @@ Si l'adoptant décède, après avoir régulièrement recueilli l'enfant en vue d
 adoption, la requête peut être présentée en son nom par le conjoint survivant ou
 l'un des héritiers de l'adoptant.
 
+Si l'enfant décède après avoir été régulièrement recueilli en vue de son
+adoption, la requête peut toutefois être présentée. Le jugement produit effet le
+jour précédant le décès et emporte uniquement modification de l'état civil de
+l'enfant.
+
 Le jugement prononçant l'adoption n'est pas motivé.

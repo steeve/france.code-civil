@@ -1,7 +1,6 @@
 Article 366
 ----
-Le lien de parenté résultant de l'adoption s'étend aux enfants légitimes de
-l'adopté.
+Le lien de parenté résultant de l'adoption s'étend aux enfants de l'adopté.
 
 Le mariage est prohibé :
 

@@ -6,7 +6,7 @@ consenti à l'adoption, d'un pupille de l'Etat ou d'un enfant déclaré abandonn
 par décision judiciaire.
 
 Lorsque la filiation de l'enfant n'est pas établie, il ne peut y avoir de
-placement en vue de l'adoption pendant un délai de trois mois à compter du
+placement en vue de l'adoption pendant un délai de deux mois à compter du
 recueil de l'enfant.
 
 Le placement ne peut avoir lieu lorsque les parents ont demandé la restitution

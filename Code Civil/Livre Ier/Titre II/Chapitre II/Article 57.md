@@ -7,13 +7,15 @@ Si les père et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés
 l'officier de l'état civil, il ne sera fait sur les registres aucune mention à
 ce sujet.
 
-Les prénoms de l'enfant sont choisis par ses père et mère. Si ces derniers ne
-sont pas connus, l'officier de l'état civil attribue à l'enfant plusieurs
-prénoms dont le dernier lui tient lieu de patronyme. L'officier de l'état civil
-porte immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom
-inscrit dans l'acte de naissance peut être choisi comme prénom usuel.
+Les prénoms de l'enfant sont choisis par ses père et mère. La femme qui a
+demandé le secret de son identité lors de l'accouchement peut faire connaître
+les prénoms qu'elle souhaite voir attribuer à l'enfant. A défaut ou lorsque les
+parents de celui-ci ne sont pas connus, l'officier de l'état civil choisit trois
+prénoms dont le dernier tient lieu de patronyme à l'enfant. L'officier de l'état
+civil porte immédiatement sur l'acte de naissance les prénoms choisis. Tout
+prénom inscrit dans l'acte de naissance peut être choisi comme prénom usuel.
 
-Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom,
+Lorsque ces prénoms ou l'un deux, seul ou associé aux autres prénoms ou au nom,
 lui paraissent contraires à l'intérêt de l'enfant ou au droit des tiers à voir
 protéger leur patronyme, l'officier de l'état civil en avise sans délai le
 procureur de la République. Celui-ci peut saisir le juge aux affaires

@@ -3,20 +3,27 @@ Article L122-28-1
 Pendant la période qui suit l'expiration du congé de maternité ou d'adoption
 prévu par l'article L. 122-26 ou par une convention ou un accord collectif, tout
 salarié qui justifie d'une ancienneté minimale d'une année à la date de
-naissance de son enfant ou de l'arrivée au foyer d'un enfant de moins de trois
-ans confié en vue de son adoption a le droit soit de bénéficier d'un congé
-parental d'éducation durant lequel le contrat de travail est suspendu, soit de
-réduire sa durée de travail d'au moins un cinquième de celle qui est applicable
-à l'établissement sans que cette activité à temps partiel puisse être inférieure
-à seize heures hebdomadaires.
+naissance de son enfant ou de l'arrivée au foyer d'un enfant qui n'a pas encore
+atteint l'âge de la fin de l'obligation scolaire adopté ou confié en vue de son
+adoption a le droit soit de bénéficier d'un congé parental d'éducation durant
+lequel le contrat de travail est suspendu, soit de réduire sa durée de travail
+d'au moins un cinquième de celle qui est applicable à l'établissement sans que
+cette activité à temps partiel puisse être inférieure à seize heures
+hebdomadaires.
 
 Le congé parental et la période d'activité à temps partiel prennent fin au plus
-tard au troisième anniversaire de l'enfant ou, en cas d'adoption, à l'expiration
-d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant. Le congé
-parental et la période d'activité à temps partiel ont une durée initiale d'un an
-au plus ; ils peuvent être prolongés deux fois pour prendre fin au plus tard au
-terme des périodes définies ci-dessus, quelle que soit la date de leur début.
-Cette possibilité est ouverte au père et à la mère, ainsi qu'aux adoptants.
+tard au troisième anniversaire de l'enfant ou, en cas d'adoption d'un enfant de
+moins de trois ans, à l'expiration d'un délai de trois ans à compter de
+l'arrivée au foyer de l'enfant. Le congé parental et la période d'activité à
+temps partiel ont une durée initiale d'un an au plus ; ils peuvent être
+prolongés deux fois pour prendre fin au plus tard au terme des périodes définies
+ci-dessus, quelle que soit la date de leur début. Cette possibilité est ouverte
+au père et à la mère, ainsi qu'aux adoptants.
+
+Lorsque l'enfant adopté ou confié en vue d'adoption est âgé de plus de trois
+ans, mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le
+congé parental et la période d'activité à temps partiel ne peuvent excéder une
+année à compter de l'arrivée au foyer.
 
 En cas de maladie, d'accident ou de handicap graves de l'enfant appréciés selon
 des modalités définies par décret en Conseil d'Etat, le congé parental et la
@@ -31,8 +38,9 @@ article.
 
 Lorsque cette période suit immédiatement le congé de maternité ou congé
 d'adoption, le salarié doit informer l'employeur, par lettre recommandée avec
-demande d'avis de réception, au moins un mois avant le début du congé parental
-d'éducation ou de l'activité à temps partiel.
+demande d'avis de réception, au moins un mois avant le terme dudit congé ; dans
+les autres cas, l'information doit être donnée à l'employeur deux mois au moins
+avant le début du congé parental d'éducation ou de l'activité à temps partiel.
 
 Lorsque le salarié entend prolonger son congé parental d'éducation ou sa période
 d'activité à temps partiel, il doit avertir l'employeur de cette prolongation,

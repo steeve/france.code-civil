@@ -34,7 +34,7 @@ ou d'y être employée [*interdiction*] :
 1. Toute personne condamnée pour crime ou pour un des délits prévus à l'article
 L. 5 du code électoral ;
 
-2. Toute personne déchue de tout ou partie des attributs de l'autorité parentale
-ou dont un enfant ou pupille a fait l'objet, en application des articles 375 à
-375-8 du code civil, d'une mesure d'assistance éducative qui n'a pas été prise à
-sa requête.
+2. Toute personne qui a fait l'objet d'un retrait total ou partiel de l'autorité
+parentale ou dont un enfant ou pupille a fait l'objet, en application des
+articles 375 à 375-8 du code civil, d'une mesure d'assistance éducative qui n'a
+pas été prise à sa requête.

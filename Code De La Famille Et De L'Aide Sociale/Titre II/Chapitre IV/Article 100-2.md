@@ -1,4 +1,8 @@
 Article 100-2
 ----
-Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été
-autorisé est puni des peines prévues à l'article 99 du présent code.
+Le fait de se livrer aux activités définies à l'article 100-1 sans autorisation
+ou malgré une interdiction d'exercer est puni d'un an d'emprisonnement et de
+100000 F d'amende.
+
+Le tribunal peut interdire au condamné, soit définitivement, soit pour une durée
+déterminée, d'exercer les activités définies au deuxième alinéa de l'article 99.
