@@ -1,19 +1,25 @@
 Article R*142-2
 ----
 Le conseil d'administration du centre scientifique et technique du bâtiment est
-composé de douze membres, choisis à titre personnel pour leur compétence
-scientifique, technique, professionnelle ou administrative, dans les catégories
-suivantes :
+composé de dix-huit membres, à savoir :
 
-1. Deux hauts fonctionnaires du ministère chargé de la construction et de
-l'habitation ;
+Deux représentants du ministre chargé de la construction et de l'habitation ;
 
-2. Un haut fonctionnaire du ministère chargé des finances ;
+Un représentant du ministre chargé de l'architecture ;
 
-3. Un haut fonctionnaire du ministère chargé de l'industrie et un représentant
-de la délégation générale à la recherche scientifique et technique ;
+Un représentant du ministre chargé du budget ;
 
-4. Cinq membres choisis parmi les entrepreneurs, hommes de l'art ou industriels
-dont les activités ont trait notamment au bâtiment ;
+Un représentant du ministre chargé de l'industrie ;
 
-5. Deux membres choisis dans le personnel de l'établissement.
+Un représentant du ministre chargé de la recherche scientifique et technique ;
+
+Un représentant du ministre chargé de la sécurité civile ;
+
+Sept membres choisis parmi les maîtres d'ouvrage, hommes de l'art,
+entrepreneurs, industriels ou assureurs, dont les activités intéressent le
+bâtiment ;
+
+Deux personnalités qualifiées choisies en raison de leur compétence dans le
+domaine du bâtiment ;
+
+Deux membres choisis dans le personnel de l'établissement.
