@@ -4,10 +4,7 @@ L'administration peut accorder sur la demande du contribuable ;
 
 1° Des remises totales ou partielles d'impôts directs régulièrement établis
 lorsque le contribuable est dans l'impossibilité de payer par suite de gêne ou
-d'indigence ; ces remises totales ou partielles sont également prises au vu des
-recommandations de la commission visée à l'article L. 331-1 du code de la
-consommation ou des mesures prises par le juge visées à l'article L. 332-3 du
-même code.
+d'indigence ;
 
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations
 d'impôts lorsque ces pénalités et, le cas échéant, les impositions auxquelles

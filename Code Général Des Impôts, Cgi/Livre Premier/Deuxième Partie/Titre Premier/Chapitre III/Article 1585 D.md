@@ -12,9 +12,10 @@ A compter du 1er janvier 2002, cette valeur est la suivante :
 
 CATEGORIES / Plancher hors oeuvre (en euros)
 
-1° Constructions légères non agricoles et non utilisables pour l'habitation, y
-compris les hangars autres que ceux qui sont mentionnés au 3° ci-dessous : 73
-euros
+1° Locaux annexes aux locaux mentionnés aux 2°, 4°, 5° et 8° et constructions
+non agricoles et non utilisables pour l'habitation, y compris les hangars autres
+que ceux qui sont mentionnés au 3°, pour les 20 premiers mètres carrés de
+surface hors oeuvre nette : 73 euros.
 
 2° Locaux des exploitations agricoles à usage d'habitation des exploitants et de
 leur personnel ; autres locaux des exploitations agricoles intéressant la
@@ -37,7 +38,8 @@ l'accession à la propriété ; locaux d'habitation à usage locatif et leurs
 annexes mentionnés au 3° de l'article L. 351-2 du code de la construction et de
 l'habitation qui bénéficient de la décision favorable d'agrément prise dans les
 conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du
-1er octobre 1996 / 192 euros
+1er octobre 1996 ou d'une subvention de l'Agence nationale pour la rénovation
+urbaine : 192 euros
 
 5° 1. Construction individuelle et ses annexes à usage d'habitation principale :
 
@@ -66,12 +68,22 @@ nette excède 170 mètres carrés : 524 euros
 
 Ces valeurs sont majorées de 10 p. 100 dans les communes de la région
 d'Ile-de-France telle qu'elle est définie à l'article 1er de la loi n° 76-394 du
-6 mai 1976.
+6 mai 1976 (Pour la période du 1er janvier au 31 décembre 2006 et pour
+l'île-de-France, les valeurs au mètre carré mentionnées aux 1° à 9° du tableau
+du présent article sont portées, pour le 1°, à 90 euros, pour le 2°, à 165
+euros, pour le 3°, à 271 euros, pour le 4°, à 236 euros, pour le 5°, à 336
+euros, 491 euros, 236 euros et 336 euros, pour le 6° à 475 euros, et pour les 7°
+à 9° à 645 euros).
 
 Ces valeurs, fixées à la date de promulgation de la loi de finances
 rectificative pour 2001 (n° 2001-1276 du 28 décembre 2001) sont modifiées au 1er
 janvier de chaque année en fonction du dernier indice du coût de la construction
 publié par l'Institut national de la statistique et des études économiques.
+(Pour la période du 1er janvier au 31 décembre 2006, hors île-de -France, les
+valeurs au mètre carré mentionnées aux 1° à 9° du tableau du présent article
+sont portées, pour le 1°, à 82 euros, pour le 2°, à 150 euros, pour le 3°, à 246
+euros, pour le 4°, à 215 euros, pour le 5°, à 306 euros, 447 euros, 215 euros et
+306 euros, pour le 6° à 432 euros, et pour les 7° à 9° à 587 euros).
 
 II. Lorsqu'après la destruction d'un bâtiment par sinistre le propriétaire
 sinistré ou ses ayants droit à titre gratuit procèdent à la reconstruction sur

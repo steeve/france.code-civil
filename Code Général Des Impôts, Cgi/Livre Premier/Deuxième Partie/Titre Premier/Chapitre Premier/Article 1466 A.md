@@ -45,10 +45,10 @@ peuvent bénéficier de cette mesure.
 I ter Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations, extensions
 d'établissement ou changements d'exploitant intervenus entre le 1er janvier 1997
-et le 31 décembre 2004 dans les zones de redynamisation urbaine définies au A du
-3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 sont exonérés de
-taxe professionnelle dans la limite du montant de base nette imposable fixé au
-I.
+et le 31 décembre 2008 inclus dans les zones de redynamisation urbaine définies
+au A du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 sont
+exonérés de taxe professionnelle dans la limite du montant de base nette
+imposable fixé au I.
 
 Sauf délibération contraire de la collectivité territoriale ou du groupement de
 collectivités territoriales, les établissements existant au 1er janvier 1997
@@ -64,27 +64,29 @@ Pour ceux d'entre eux qui remplissaient les conditions mentionnées au I bis,
 l'exonération s'applique dans la limite prévue au I aux éléments d'imposition
 correspondant aux opérations visées au I bis.
 
-Les exonérations prévues aux premier et deuxième alinéas portent sur la totalité
-de la part revenant à chaque collectivité territoriale ou groupement de
-collectivités territoriales. Elles ne peuvent avoir pour effet de reporter de
-plus de cinq ans l'application du régime d'imposition de droit commun. Seuls les
-établissements employant moins de cent cinquante salariés peuvent en bénéficier.
+Les exonérations prévues aux premier et deuxième alinéas portent pendant cinq
+ans ou, pour les créations, extensions d'établissement ou changements
+d'exploitants intervenus dans les zones de redynamisation urbaine entre le 31
+juillet 1998 et le 31 juillet 2003, pendant dix ans sur la totalité de la part
+revenant à chaque collectivité territoriale ou groupement de collectivités
+territoriales. Seuls les établissements employant moins de cent cinquante
+salariés peuvent en bénéficier.
 
-Par exception aux dispositions du quatrième alinéa, et sauf délibération
-contraire des collectivités territoriales ou de leurs établissements publics de
-coopération intercommunale dotés d'une fiscalité propre, prise dans les
-conditions prévues au I de l'article 1639 A bis, la base nette imposable des
-établissements existant au 1er janvier 1997 et de ceux ayant fait l'objet de
-l'une des opérations prévues au premier alinéa, effectuée avant le 31 décembre
-2001 ou de l'une des opérations prévues au deuxième alinéa du I quater dans les
-zones mentionnées au premier alinéa du I quater, fait l'objet d'un abattement à
-l'issue de la période d'exonération prévue au quatrième alinéa et au titre des
-trois années suivant l'expiration de celle-ci. Le montant de cet abattement est
-égal, la première année, à 60 % de la base exonérée de la dernière année
-d'application du dispositif prévu au quatrième alinéa. Il est ramené à 40 % la
-deuxième année et à 20 % l'année suivante. L'application de cet abattement ne
-peut conduire à réduire la base d'imposition de l'année considérée de plus de 60
-% de son montant la première année, 40 % la deuxième année et 20 % la troisième.
+Sauf délibération contraire des collectivités territoriales ou de leurs
+établissements publics de coopération intercommunale dotés d'une fiscalité
+propre, prise dans les conditions prévues au I de l'article 1639 A bis, la base
+nette imposable des établissements existant au 1er janvier 1997, de ceux ayant
+fait l'objet de l'une des opérations prévues au premier alinéa, effectuée avant
+le 31 décembre 2001, ou de l'une des opérations prévues au deuxième alinéa du I
+quater ou de ceux mentionnés au premier alinéa du I quinquies et situés dans les
+zones franches urbaines, fait l'objet d'un abattement à l'issue de la période
+d'exonération et au titre des trois années suivant l'expiration de celle-ci. Le
+montant de cet abattement est égal, la première année, à 60 % de la base
+exonérée de la dernière année d'application du dispositif prévu au quatrième
+alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année suivante.
+L'application de cet abattement ne peut conduire à réduire la base d'imposition
+de l'année considérée de plus de 60 % de son montant la première année, 40 % la
+deuxième année et 20 % la troisième.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
@@ -101,17 +103,20 @@ salariés au plus au 1er janvier 1997 ou à la date de leur création, si elle e
 postérieure, bénéficient de l'exonération de taxe professionnelle à compter du
 1er janvier 1997 dans les conditions prévues au I ter, pour leurs établissements
 situés dans les zones franches urbaines définies au B du 3 de l'article 42
-modifié de la loi n° 95-115 du 4 février 1995. Par exception aux dispositions
-prévues au cinquième alinéa du I ter, pour les entreprises de moins de cinq
-salariés, pendant la période de référence retenue pour la dernière année
-d'application du dispositif prévu au quatrième alinéa du I ter, le montant de
-l'abattement est égal, les cinq premières années, à 60 % de la base exonérée la
-dernière année d'application du dispositif prévu au quatrième alinéa du I ter.
-Il est ramené à 40 % les sixième et septième années et à 20 % les huitième et
-neuvième années. L'application de cet abattement ne peut conduire à réduire la
-base d'imposition de l'année considérée de plus de 60 % de son montant les cinq
-premières années, 40 % les sixième et septième années et 20 % les huitième et
-neuvième années (1).
+modifié de la loi n° 95-115 du 4 février 1995 et dont la liste figure au I de
+l'annexe à la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du
+pacte de relance pour la ville.
+
+Par exception aux dispositions prévues au cinquième alinéa du I ter, pour les
+entreprises de moins de cinq salariés, pendant la période de référence retenue
+pour la dernière année d'application du dispositif prévu au quatrième alinéa du
+I ter, le montant de l'abattement est égal, les cinq premières années, à 60 % de
+la base exonérée la dernière année d'application du dispositif prévu au
+quatrième alinéa du I ter. Il est ramené à 40 % les sixième et septième années
+et à 20 % les huitième et neuvième années. L'application de cet abattement ne
+peut conduire à réduire la base d'imposition de l'année considérée de plus de 60
+% de son montant les cinq premières années, 40 % les sixième et septième années
+et 20 % les huitième et neuvième années (1).
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
 d'une création entre cette date et le 1er janvier 2008, d'une extension ou d'un
@@ -159,23 +164,59 @@ du transfert :
 a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
-de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter ou
-I quater du présent article.
+de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter ,
+I quater ou I quinquies du présent article.
 
-II. Pour bénéficier des exonérations prévues aux I, I bis, I ter et I quater,
-les contribuables déclarent, chaque année, dans les conditions prévues à
-l'article 1477, les éléments entrant dans le champ d'application de
+I quinquies. Sauf délibération contraire de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale doté d'une fiscalité
+propre, les entreprises employant cinquante salariés au plus au 1er janvier 2004
+ou à la date de leur création, si elle est postérieure, sont exonérées de taxe
+professionnelle, dans la limite du montant de base nette imposable fixé, à
+compter de 2003 et sous réserve de l'actualisation annuelle en fonction de la
+variation de l'indice des prix, par le troisième alinéa du I quater, pour leurs
+établissements existant au 1er janvier 2004 dans les zones franches urbaines
+définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14
+novembre 1996 précitée, ainsi que pour les créations et extensions
+d'établissement qu'elles y réalisent entre le 1er janvier 2004 et le 31 décembre
+2008 inclus.
+
+Pour les établissements existants au 1er janvier 2004 mentionnés au premier
+alinéa, la base exonérée comprend, le cas échéant, dans la limite prévue à cet
+alinéa, les éléments d'imposition correspondant aux extensions d'établissement
+intervenues en 2003.
+
+Les exonérations prévues aux premier et deuxième alinéas portent, pendant cinq
+ans à compter du 1er janvier 2004 pour les établissements existants à cette date
+ou, en cas de création d'établissement, à compter de l'année qui suit la
+création ou, en cas d'extension d'établissement, à compter de la deuxième année
+qui suit celle-ci, sur la totalité de la part revenant à chaque collectivité
+territoriale ou établissement public de coopération intercommunale doté d'une
+fiscalité propre. En cas de création ou d'extension d'établissement, seuls les
+établissements employant moins de cent cinquante salariés peuvent en bénéficier.
+
+En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
+est maintenue pour la période restant à courir et dans les conditions prévues
+pour le prédécesseur.
+
+Les dispositions du septième alinéa du I ter et des trois dernières phrases du
+premier alinéa du I quater, ainsi que de ses neuvième, dixième et onzième
+alinéas s'appliquent au présent I quinquies.
+
+II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater et I
+quinquies les contribuables déclarent, chaque année, dans les conditions prévues
+à l'article 1477, les éléments entrant dans le champ d'application de
 l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
 des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1465, 1465 A ou
-1465 B et de celles prévues aux I, I bis, I ter ou I quater, le contribuable
-doit opter pour l'un ou l'autre de ces régimes. L'option qui est irrévocable
-doit être exercée, selon le cas, dans le délai prévu pour le dépôt de la
-déclaration annuelle ou de la déclaration provisoire de taxe professionnelle
-visée à l'article 1477.
+1465 B et de celles prévues aux I, I bis, I ter, I quater ou I quinquies le
+contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est
+irrévocable vaut pour l'ensemble des collectivités et doit être exercée, selon
+le cas, dans le délai prévu pour le dépôt de la déclaration annuelle ou de la
+déclaration provisoire de taxe professionnelle visée à l'article 1477.
 
-Pour l'application des I, I bis, I ter et I quater :
+Pour l'application des I, I bis, I ter, I quater et I quinquies :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 
@@ -188,10 +229,10 @@ c) Le montant des bases exonérées ne peut excéder chaque année, pour un mêm
 établissement, le montant prévu aux I ou I quater, sauf dans les cas visés au
 troisième alinéa du I ter ;
 
-d) pour l'appréciation de la condition d'exonération fixée aux I, I bis et I ter
-concernant le nombre de salariés, la période de référence à retenir est l'année
-mentionnée à l'article 1467 A, pour les impositions établies au titre de 1997 et
-des années suivantes.
+d) pour l'appréciation de la condition d'exonération fixée aux I, I bis, I ter
+et I quinquies concernant le nombre de salariés, la période de référence à
+retenir est l'année mentionnée à l'article 1467 A, pour les impositions établies
+au titre de 1997 et des années suivantes.
 
 III. Les groupements de communes dotés d'une fiscalité propre, les départements
 et les régions peuvent exonérer de taxe professionnelle les créations ou
