@@ -28,8 +28,8 @@ comportant des garanties autres que celles visées à l'alinéa précédent doiv
 distinguer la partie de la prime ou cotisation afférente à ces dernières
 garanties.
 
-Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou
-cotisations d'assurance payées par les entreprises artisanales et de 25,5 % en
+Le taux de la contribution est de 4 % en ce qui concerne les primes ou
+cotisations d'assurance payées par les entreprises artisanales et de 12,5 % en
 ce qui concerne les autres primes ou cotisations d'assurance.
 
 Pour une période allant du 1er janvier 1991 au 31 décembre 1996, le fonds est

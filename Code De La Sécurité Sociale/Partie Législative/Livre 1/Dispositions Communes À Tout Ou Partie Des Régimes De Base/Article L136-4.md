@@ -130,3 +130,14 @@ contraire, elle est égale à 150 fois le montant du salaire minimum de
 croissance.
 
 Cette assiette forfaitaire est régularisée lorsque les revenus sont connus.
+
+Pour les personnes redevables de la cotisation de solidarité définie à l'article
+L. 731-24 du code rural, lorsque les revenus professionnels ne sont pas connus,
+la contribution est calculée sur une assiette forfaitaire provisoire égale à 900
+fois le montant du salaire minimum de croissance. Le montant de cette
+contribution est régularisé lorsque les revenus sont connus.
+
+Pour l'application des dispositions du présent VII, le salaire minimum de
+croissance et la valeur de la surface minimale d'installation à prendre en
+considération sont ceux en vigueur au 1er janvier de l'année au titre de
+laquelle la contribution est due.

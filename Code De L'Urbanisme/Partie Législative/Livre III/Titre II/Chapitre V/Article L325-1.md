@@ -18,11 +18,3 @@ d'actions et d'opérations tendant à la création, l'extension, la transformati
 ou la reconversion de surfaces commerciales et artisanales situées dans ces
 zones. Il peut passer convention avec les communes, établissements publics ou
 syndicats mixtes concernés.
-
-L'établissement public peut recevoir des dotations financières prélevées sur
-l'excédent du produit de la taxe d'aide au commerce et à l'artisanat, prévue au
-2° de l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures
-en faveur de certaines catégories de commerçants et d'artisans âgés. Le
-prélèvement effectué sur l'excédent constaté au 31 décembre 1995 est fixé à
-19,82 millions d'euros. Les prélèvements effectués sur les excédents ultérieurs
-seront fixés par décret sur la base du montant du prélèvement initial.

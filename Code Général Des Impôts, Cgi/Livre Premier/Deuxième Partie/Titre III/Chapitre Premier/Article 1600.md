@@ -1,7 +1,7 @@
 Article 1600
 ----
-Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie au
-moyen d'une taxe additionnelle à la taxe professionnelle, répartie entre tous
+I. Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie
+au moyen d'une taxe additionnelle à la taxe professionnelle, répartie entre tous
 les redevables de cette taxe proportionnellement à leur base d'imposition.
 
 Sont exonérés de cette taxe :
@@ -39,16 +39,31 @@ La base d'imposition est réduite de moitié pour les artisans régulièrement
 inscrits au répertoire des métiers et qui restent portés sur la liste électorale
 de la chambre de commerce et d'industrie de leur circonscription (1).
 
-Pour 2002, le produit de la taxe est arrêté par les chambres de commerce et
-d'industrie, sans que celui-ci puisse augmenter de plus de 1,5 % par rapport au
-produit de l'année précédente, afin de mettre en oeuvre des actions ou de
-réaliser des investissements dans le cadre de conventions conclues avec l'Etat
-dans des conditions définies par le décret prévu au dix-huitième alinéa.
+Pour 2003, le produit de la taxe est arrêté par les chambres de commerce et
+d'industrie sans pouvoir augmenter de plus de 4 % par rapport au montant décidé
+pour 2002.
 
-En l'absence de telles conventions, le produit arrêté par les chambres de
-commerce et d'industrie ne peut augmenter, par rapport à celui de l'année
-précédente, que d'un taux égal au quart du taux d'augmentation prévu au
-quinzième alinéa.
+Cette limite est portée à 7 % pour les chambres de commerce et d'industrie pour
+lesquelles le rapport constaté au titre de l'année 2002 entre, d'une part, le
+produit de la taxe et, d'autre part, le total des bases imposées est inférieur
+d'au moins 45 % au rapport moyen constaté en 2002 au niveau national.
+
+Pour les chambres de commerce et d'industrie de circonscription départementale
+dont le rapport constaté au titre de l'année 2002 entre, d'une part, le produit
+de la taxe et, d'autre part, le total des bases imposées est inférieur d'au
+moins 55 % au rapport moyen constaté en 2002 au niveau national, cette limite
+est portée à 1 million d'euros, à condition que le montant d'imposition
+additionnelle à la taxe professionnelle perçu en 2002 ne dépasse pas 2,2
+millions d'euros.
+
+Pour 2003, le produit de la taxe arrêté dans les conditions prévues aux trois
+alinéas précédents et à l'alinéa suivant est majoré du montant du prélèvement
+prévu au IV de l'article 29 de la loi de finances pour 2003 (n° 2002-1575 du 30
+décembre 2002).
+
+Par ailleurs, le produit de la taxe est arrêté par les chambres de commerce et
+d'industrie de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+sans pouvoir augmenter de plus de 7 % par rapport au montant décidé pour 2002.
 
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie le
 rôle comprend les redevables de la taxe pour frais de chambres de commerce de
@@ -58,3 +73,89 @@ qui sont imposés dans sa circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent
 article (2).
+
+II. - Une chambre de commerce et d'industrie créée par dissolution de deux ou
+plusieurs chambres de commerce et d'industrie vote le produit de la taxe
+additionnelle à la taxe professionnelle à compter de l'année suivant celle de sa
+création.
+
+Le produit voté est, pour la première année qui suit celle de la création de la
+chambre de commerce et d'industrie, égal au maximum à la somme des produits
+votés l'année précédente par chacune des chambres dissoutes majoré, le cas
+échéant, dans les conditions prévues au I.
+
+L'écart constaté entre le taux de la taxe additionnelle à la taxe
+professionnelle appliqué au profit de la chambre de commerce et d'industrie
+nouvellement constituée et le taux de la taxe additionnelle à la taxe
+professionnelle des chambres de commerce et d'industrie dissoutes est, chaque
+année, réduit dans les conditions fixées aux 1 et 2 :
+
+1. Cette réduction s'effectue pendant la durée suivante :
+
+- sur une période de dix ans, lorsque le taux le moins élevé résultant des
+produits votés par chacune des chambres de commerce et d'industrie dissoutes au
+titre de l'année de la création de la chambre est inférieur à 10 % du taux le
+plus élevé ;
+
+- sur neuf ans, lorsque le taux le moins élevé est égal ou supérieur à 10 % du
+taux le plus élevé et inférieur à 20 % ;
+
+- sur huit ans, lorsque le taux le moins élevé est égal ou supérieur à 20 % du
+taux le plus élevé et inférieur à 30 % ;
+
+- sur sept ans, lorsque le taux le moins élevé est égal ou supérieur à 30 % du
+taux le plus élevé et inférieur à 40 % ;
+
+- sur six ans, lorsque le taux le moins élevé est égal ou supérieur à 40 % du
+taux le plus élevé et inférieur à 50 % ;
+
+- sur cinq ans, lorsque le taux le moins élevé est égal ou supérieur à 50 % du
+taux le plus élevé et inférieur à 60 % ;
+
+- sur quatre ans, lorsque le taux le moins élevé est égal ou supérieur à 60 % du
+taux le plus élevé et inférieur à 70 % ;
+
+- sur trois ans, lorsque le taux le moins élevé est égal ou supérieur à 70 % du
+taux le plus élevé et inférieur à 80 % ;
+
+- sur deux ans, lorsque le taux le moins élevé est égal ou supérieur à 80 % du
+taux le plus élevé et inférieur à 90 %.
+
+Lorsque le taux le moins élevé est égal ou supérieur à 90 % du taux le plus
+élevé, le taux de la chambre de commerce et d'industrie nouvellement constituée
+s'applique dès la première année.
+
+Toutefois, les chambres décidant de leur dissolution et de la création d'une
+nouvelle chambre peuvent, dans le cadre de la délibération conforme de leurs
+assemblées générales respectives, diminuer la durée de la période de réduction
+des écarts de taux résultant des dispositions visées ci-dessus.
+
+2. Le taux applicable chaque année pendant la durée de réduction des écarts de
+taux est égal, sur le territoire de chaque chambre de commerce et d'industrie
+dissoute :
+
+a. au taux qui résulte de la division de la part du produit voté par la chambre
+de commerce et d'industrie afférente au territoire de la chambre dissoute par
+les bases imposables sur ce territoire ;
+
+b. majoré ou diminué de l'écart entre le taux correspondant au produit voté par
+la chambre de commerce et d'industrie et le taux calculé conformément au a, cet
+écart étant divisé par le nombre d'années restant à courir compte tenu de la
+durée fixée au 1.
+
+III. - En cas de création postérieurement au 1er juillet d'une chambre de
+commerce et d'industrie par dissolution de deux ou plusieurs chambres de
+commerce et d'industrie, les délibérations prises en application de l'article
+1602 A par les chambres dissoutes sont applicables aux opérations réalisées
+l'année de la création de la nouvelle chambre de commerce et d'industrie.
+
+Les exonérations applicables antérieurement à la création d'une nouvelle chambre
+de commerce et d'industrie sont maintenues pour la durée restant à courir.
+
+IV. - En cas de création d'une nouvelle chambre au cours d'une période de
+réduction d'écarts de taux résultant d'une création antérieure par dissolution
+de chambres, les calculs visés au II sont effectués en comparant les taux
+d'imposition additionnelle à la taxe professionnelle de la chambre issue de la
+première dissolution et de la chambre tierce, la période de réduction des écarts
+de taux ne pouvant être plus courte que le nombre d'années restant à courir pour
+achever la première opération de création (3).
