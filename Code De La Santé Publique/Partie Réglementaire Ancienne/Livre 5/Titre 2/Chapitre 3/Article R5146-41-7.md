@@ -15,11 +15,7 @@ simultané de plusieurs médicaments vétérinaires ;
 - de proposer aux ministres chargés de l'agriculture et de la santé et au
 directeur général de l'Agence française de sécurité sanitaire des aliments les
 enquêtes et travaux qu'elle estime utiles à l'exercice de la pharmacovigilance
-vétérinaire ;
-
-- d'informer le directeur général de l'Agence française de sécurité sanitaire
-des produits de santé des effets indésirables survenant chez l'homme
-susceptibles d'être imputés à l'utilisation de médicaments vétérinaires.
+vétérinaire.
 
 Les ministres chargés de l'agriculture et de la santé peuvent solliciter l'avis
 de la commission sur toute question relevant du domaine de compétence de cette

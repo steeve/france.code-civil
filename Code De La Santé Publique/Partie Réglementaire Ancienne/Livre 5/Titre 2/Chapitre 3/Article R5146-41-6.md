@@ -12,5 +12,6 @@ l'article R. 5146-41-7 ;
 - les centres de pharmacovigilance vétérinaire mentionnés à l'article R.
 5146-41-14 ;
 
-- les pharmaciens, les vétérinaires et les entreprises mentionnés aux articles
-R. 5146-41-19 et R. 5146-41-20.
+- les pharmaciens, les vétérinaires et les membres des autres professions de
+santé ainsi que les entreprises assurant l'exploitation de médicaments
+vétérinaires mentionnés aux articles R. 5146-41-19 et R. 5146-41-20.

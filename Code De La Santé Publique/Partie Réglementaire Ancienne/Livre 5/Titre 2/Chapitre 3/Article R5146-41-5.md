@@ -2,27 +2,35 @@ Article R5146-41-5
 ----
 Pour l'application de la présente section, on entend par :
 
-- effet indésirable : une réaction nocive et non voulue, se produisant aux
+1° Effet indésirable : une réaction nocive et non voulue, se produisant aux
 posologies normalement utilisées chez l'animal pour la prophylaxie, le
 diagnostic ou le traitement d'une maladie ou la modification d'une fonction
-physiologique, ou résultant d'une utilisation non conforme au résumé des
-caractéristiques du produit défini à l'article R. 5146-27-1 ;
+physiologique ;
 
-- effet indésirable grave : un effet indésirable létal, ou susceptible de mettre
-la vie en danger, ou entraînant des lésions ou des troubles fonctionnels majeurs
-chez l'animal traité ;
+2° Effet indésirable sur l'être humain : une réaction nocive et non voulue, se
+produisant chez un être humain à la suite d'une exposition à un médicament
+vétérinaire ;
 
-- effet indésirable inattendu : un effet indésirable qui n'est pas mentionné
-dans le résumé des caractéristiques du produit défini à l'article R. 5146-27-1 ;
+3° Effet indésirable grave : un effet indésirable qui entraîne la mort, qui est
+susceptible de mettre la vie en danger, qui provoque des symptômes permanents ou
+prolongés, qui se traduit par une anomalie ou une malformation congénitale ou
+provoque un handicap ou une incapacité importants chez l'animal traité ;
 
-- effet indésirable survenant chez une personne qui administre un médicament
-vétérinaire à un animal ou qui est en contact avec l'animal traité : toute
-manifestation immédiate ou différée qui peut porter atteinte à la santé de la
-personne qui administre un médicament vétérinaire ou qui est en contact avec
-l'animal traité.
+4° Effet indésirable inattendu : un effet indésirable qui n'est pas mentionné
+dans le résumé des caractéristiques du produit défini à l'article R. 5146-27-1
+ou dont la gravité ne correspond pas aux mentions de ce résumé des
+caractéristiques du produit ;
 
-"Paragraphe 2
+5° Rapports périodiques actualisés relatifs à la sécurité : les rapports
+périodiques contenant les informations enregistrées conformément à l'article R.
+5146-41-20 ;
 
-"Organisation de la pharmacovigilance vétérinaire
+6° Etudes de surveillance après mise sur le marché : une étude
+pharmaco-épidémiologique ou un essai clinique effectués conformément aux termes
+de l'autorisation de mise sur le marché, dans le but d'identifier et d'étudier
+un risque relatif à un médicament vétérinaire autorisé ;
 
-"1. Système national de pharmacovigilance vétérinaire
+7° Utilisation en dehors des mentions du résumé des caractéristiques du produit
+défini à l'article R. 5146-27-1 : l'usage d'un médicament vétérinaire d'une
+manière qui n'est pas conforme au résumé des caractéristiques du produit,
+notamment le mauvais usage ou l'abus grave.
