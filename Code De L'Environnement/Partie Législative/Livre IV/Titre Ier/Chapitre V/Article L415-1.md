@@ -2,7 +2,7 @@ Article L415-1
 ----
 Sont habilités à constater les infractions aux dispositions des articles L.
 411-1, L. 411-2, L. 411-3, L. 412-1, L. 413-2 à L. 413-5, outre les officiers et
-agents de police judiciaire énumérés aux articles 16, 20 et 21 du code de
+agents de police judiciaire énumérés aux articles 16,20 et 21 du code de
 procédure pénale :
 
 1° Les agents des douanes commissionnés ;
@@ -18,8 +18,8 @@ d'inspection sanitaire, de protection des animaux ou de protection des végétau
 dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 
 4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office
-national de la chasse et de la faune sauvage et du Conseil supérieur de la pêche
-;
+national de la chasse et de la faune sauvage et de l'Office national de l'eau et
+des milieux aquatiques ;
 
 4° bis Les gardes champêtres ;
 
