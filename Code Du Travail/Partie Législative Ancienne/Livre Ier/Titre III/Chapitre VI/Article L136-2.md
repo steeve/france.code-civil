@@ -29,8 +29,10 @@ rémunérations dans les entreprises publiques ;
 7° D'examiner le bilan annuel de la négociation collective ;
 
 8° De suivre annuellement l'application dans les conventions collectives du
-principe "à travail égal, salaire égal" et du principe de l'égalité
-professionnelle entre les hommes et les femmes, de constater les inégalités
-éventuellement persistantes et d'en analyser les causes. La commission nationale
-a qualité pour faire au ministre chargé du travail toute proposition utile pour
-promouvoir dans les faits et dans les textes cette égalité.
+principe à travail égal salaire égal, du principe de l'égalité professionnelle
+entre les hommes et les femmes et du principe d'égalité de traitement entre les
+salariés sans considération d'appartenance à une ethnie, une nation ou une race,
+de constater les inégalités éventuellement persistantes et d'en analyser les
+causes ; la commission nationale a qualité pour faire au ministre chargé du
+travail toute proposition pour promouvoir dans les faits et dans les textes ces
+principes d'égalité.

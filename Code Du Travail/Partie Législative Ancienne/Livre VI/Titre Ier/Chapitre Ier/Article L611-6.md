@@ -16,7 +16,7 @@ du ministre de l'agriculture ainsi qu'aux mesures particulières de prévention
 rendues obligatoires par arrêté du ministre de l'agriculture pour tous les
 employeurs d'un secteur professionnel déterminé.
 
-Ils constatent également les infractions à la règle de l'égalité professionnelle
-définies au 3° de l'article 225-2 du code pénal.
+Ils constatent également les infractions définies au 3° et au 6° de l'article
+225-2 du code pénal.
 
 Ils ont les mêmes droits et obligations que les inspecteurs du travail.

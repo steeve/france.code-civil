@@ -1,11 +1,12 @@
 Article L767-2
 ----
-Le fonds d'action sociale pour les travailleurs immigrés et leurs familles met
-en oeuvre une action sociale familiale s'adressant à l'ensemble de la population
-immigrée résidant en France [*mission*].
+Le fonds d'action et de soutien pour l'intégration et la lutte contre les
+discriminations met en oeuvre des actions visant à l'intégration des populations
+immigrées ou issues de l'immigration résidant en France ainsi qu'à la lutte
+contre les discriminations dont elles pourraient être victimes.
 
-Pour l'exercice de ces missions, le Fonds d'action sociale peut recruter des
-agents non titulaires sur des contrats à durée indéterminée.
+Pour l'exercice de ces missions, le fonds d'action et de soutien peut recruter
+des agents non titulaires sur des contrats à durée indéterminée.
 
 Le fonds est doté de la personnalité civile et de l'autonomie financière.
 

@@ -18,6 +18,14 @@ c) Prendre en considération du sexe toute mesure, notamment en matière de
 rémunération, de formation, d'affectation, de qualification, de classification,
 de promotion professionnelle ou de mutation.
 
+En cas de litige relatif à l'application du présent article, le salarié concerné
+ou le candidat à un recrutement présente des éléments de fait laissant supposer
+l'existence d'une discrimination, directe ou indirecte, fondée sur le sexe ou la
+situation de famille. Au vu de ces éléments, il incombe à la partie défenderesse
+de prouver que sa décision est justifiée par des éléments objectifs étrangers à
+toute discrimination. Le juge forme sa conviction après avoir ordonné, en cas de
+besoin, toutes les mesures d'instruction qu'il estime utiles.
+
 Un décret en Conseil d'Etat détermine, après avis des organisations d'employeurs
 et de salariés les plus représentatives au niveau national, la liste des emplois
 et des activités professionnelles pour l'exercice desquels l'appartenance à l'un
