@@ -2,8 +2,8 @@ Article R401
 ----
 Le candidat remet sa demande d'emploi réservé :
 
-a) A son chef de corps ou de service s'il s'agit d'un militaire présent sous les
-drapeaux ;
+a) Au commandant de formation administrative ou au chef de service dont il
+relève s'il s'agit d'un militaire présent sous les drapeaux ;
 
 b) Au maire de sa résidence dans tous les autres cas.
 
