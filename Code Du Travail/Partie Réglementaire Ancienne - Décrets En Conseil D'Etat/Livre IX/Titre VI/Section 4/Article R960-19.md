@@ -1,8 +1,8 @@
 Article R960-19
 ----
-Les stagiaires dont la rémunération est prise en charge par l'Etat ont droit au
-remboursement de la totalité des frais de transport exposés à l'occasion des
-déplacements effectués en fonction des nécessités des stages.
+Les stagiaires dont la rémunération est prise en charge par l'Etat ou par la
+région ont droit au remboursement de la totalité des frais de transport exposés
+à l'occasion des déplacements effectués en fonction des nécessités des stages.
 
 Ces stagiaires ont droit au remboursement de la totalité des frais de transport
 exposés au début et à la fin du stage pour rejoindre l'établissement ou le

@@ -1,7 +1,6 @@
 Article R960-9
 ----
-Le directeur de l'établissement ou du centre de formation est tenu
-[*obligation*] de faire connaître au préfet ou, le cas échéant, au centre
-national pour l'aménagement des structures des exploitations agricoles, tout
-changement survenu dans la situation des stagiaires ainsi que toutes
-informations relatives à la fréquentation des stages.
+Le directeur de l'établissement de formation est tenu de faire connaître au
+service chargé de la liquidation des rémunérations tout changement survenu dans
+la situation des stagiaires concernés ainsi que toutes informations relatives à
+la fréquentation des stages.
