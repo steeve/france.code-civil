@@ -1,7 +1,7 @@
 Article L706
 ----
-Les hôpitaux et hospices sont soumis, en ce qui concerne leurs fournitures et
-l'exécution de leurs travaux, aux mêmes règles que les communes.
-
-Il n'est pas dérogé aux dispositions de la loi du 18 août 1926 relatives aux
-adjudications et marchés passés avec les sociétés d'ouvriers français.
+Les marchés passés par les directeurs des établissements d'hospitalisation
+publics et des hospices publics sont soumis à l'approbation du représentant de
+l'Etat selon des modalités définies par décret en Conseil d'Etat. Ce décret
+adapte les règles de passation des marchés, telles qu'elles sont définies par le
+code des marchés publics.
