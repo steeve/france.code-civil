@@ -1,14 +1,7 @@
 Article R302-19
 ----
-Si un établissement public de coopération intercommunale avait élaboré un
-programme local de l'habitat avant le 21 juillet 1991, l'organe délibérant
-engage la procédure de transformation du programme local de l'habitat.
-
-Si le programme local de l'habitat n'avait pas été élaboré par un établissement
-public de coopération intercommunale, l'organe délibérant d'un établissement
-public de coopération intercommunale nouvellement créé, ayant compétence en
-matière de programme local de l'habitat et regroupant des communes ayant élaboré
-ensemble avant le 21 juillet 1991 un programme local de l'habitat, délibère pour
-engager la procédure de transformation du programme local de l'habitat.
-
-La délibération visée aux alinéas précédents est transmise au préfet.
+Le prélèvement mentionné à l'article L. 302-7 du présent code dont le montant
+est arrêté par le préfet est imputé chaque année sur les attributions
+mentionnées au premier alinéa de l'article L. 2332-2 du code général des
+collectivités territoriales. Il est effectué par neuvième à partir du mois de
+mars et jusqu'au mois de novembre.

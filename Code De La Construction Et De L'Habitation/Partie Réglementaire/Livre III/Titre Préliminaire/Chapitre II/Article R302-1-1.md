@@ -1,17 +1,42 @@
 Article R302-1-1
 ----
-Le diagnostic :
+Le diagnostic comprend :
 
-a) Analyse la situation existante et les évolutions en cours, notamment des
-marchés du foncier et du logement, du logement des personnes défavorisées, des
-transports, du rôle et de l'insertion de chaque quartier dans l'aire du
-programme local de l'habitat et des besoins des habitants actuels et futurs ;
+a) Une analyse de la situation existante et des évolutions en cours en ce qui
+concerne l'adéquation de l'offre et de la demande sur le marché local de
+l'habitat prenant en compte les enjeux liés aux déplacements et aux transports.
+Elle comprend :
 
-Cette analyse est fondée sur les informations et données relatives à l'habitat
-dans le périmètre du programme et, le cas échéant, dans l'ensemble de
-l'agglomération à laquelle appartiennent les communes concernées.
+- l'analyse de l'offre, qui porte notamment sur l'offre foncière, sur l'offre
+publique et privée de logement et d'hébergement, ainsi que sur l'état du parc de
+logements existant ;
 
-b) Expose les conséquences en matière d'habitat des prévisions et objectifs
-d'aménagement urbain ressortant des schémas directeurs, et schémas de secteurs,
-quand ils existent, des orientations d'aménagement du territoire et des
-perspectives de développement démographiques et socio-économiques.
+- l'analyse de la demande, qui comporte une estimation quantitative et
+qualitative des besoins en logement tenant compte des évolutions démographiques
+prévisibles, des besoins répertoriés dans le cadre du plan départemental
+d'action pour le logement des personnes défavorisées, des besoins en logements
+sociaux et en places d'hébergement, y compris les foyers-logements, des besoins
+liés au logement des étudiants et des besoins propres à certaines catégories de
+population, en particulier en matière d'accessibilité et de logements adaptés ;
+
+- l'analyse des dysfonctionnements constatés en matière d'équilibre social de
+l'habitat et de leurs conséquences ;
+
+b) Une évaluation des résultats et des effets des politiques de l'habitat mises
+en oeuvre sur le territoire auquel s'applique le programme au cours des
+dernières années ou du précédent programme local de l'habitat, qui indique
+notamment :
+
+- les actions réalisées et les moyens qui ont été mis en oeuvre ;
+
+- le bilan des actions réalisées au regard des objectifs et leurs effets sur le
+marché du logement ;
+
+c) Un exposé des conséquences, en matière d'habitat, des perspectives de
+développement et d'aménagement telles qu'elles ressortent des schémas de
+cohérence territoriale et des schémas de secteurs quand ils existent. En absence
+de schéma de cohérence territoriale, le programme local de l'habitat indique la
+manière dont il prend en compte l'objectif de mixité sociale dans l'habitat
+mentionné à l'article L. 121-1 du code de l'urbanisme sur le territoire couvert
+par le programme au vu, le cas échéant, de la situation de territoires
+limitrophes.

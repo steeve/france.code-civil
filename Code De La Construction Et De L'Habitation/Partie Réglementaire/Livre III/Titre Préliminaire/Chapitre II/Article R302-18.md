@@ -1,9 +1,18 @@
 Article R302-18
 ----
-Peuvent être transformés, en application de l'article 15 de la loi d'orientation
-pour la ville n° 91-662 du 13 juillet 1991, en programme local de l'habitat au
-sens de l'article 13 de ladite loi, les programmes locaux de l'habitat élaborés
-avant le 21 juillet 1991 qui contiennent un diagnostic et ont défini les
-objectifs et principes d'une politique visant à répondre aux besoins en
-logements et à assurer entre les communes et entre les quartiers d'une même
-commune une répartition équilibrée et diversifiée de l'offre de logements.
+Si dans un délai de deux ans après la déduction opérée en application de
+l'article L. 302-7 du présent code l'opération de logements sociaux n'a pas reçu
+un commencement d'exécution, les sommes ainsi déduites sont ajoutées au
+prélèvement de l'année en cours. Pour l'application du présent article, le
+commencement d'exécution est la signature de la convention visée à l'article L.
+351-2 du même code, conclue entre l'Etat et le maître d'ouvrage de l'opération.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31
+ne correspondent manifestement pas au financement d'une opération de logement
+locatif social tel que défini à l'article R. 302-30, les sommes correspondantes
+ne seront pas admises en déduction.
+
+Lorsque les montants figurant sur l'état déclaratif visé à l'article R. 302-31
+s'avèrent ne pas entrer dans le champ défini à l'article R. 302-30 du présent
+code, les sommes indûment déduites seront ajoutées au prélèvement de l'année
+suivante.

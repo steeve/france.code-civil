@@ -1,22 +1,30 @@
 Article R302-17
 ----
-Lorsqu'un programme local de l'habitat a été élaboré et adopté par un
-établissement public de coopération intercommunale et si cet établissement est
-doté de la compétence de politique du logement, le président de l'établissement
-public et le préfet négocient une convention d'application du programme local de
-l'habitat.
+Les communes concernées par le prélèvement prévu à l'article L. 302-5 du présent
+code adressent chaque année au préfet, au plus tard le 31 octobre, un état,
+certifié conforme par l'ordonnateur, des dépenses et moins-values, déductibles
+dans les conditions fixées à l'article R. 302-30, qu'elles ont effectivement
+supportées au titre de l'exercice précédent.
 
-La convention, d'une durée de trois ans, est passée entre l'Etat et
-l'établissement public.
+Cet état des dépenses déductibles indique, pour chaque opération ayant pour
+objet la réalisation de logements locatifs sociaux :
 
-La convention fixe les moyens qui seront mis en oeuvre pour réaliser le
-programme local de l'habitat et l'aide financière que l'Etat apportera en
-matière d'habitat et d'action foncière dans la limite des dotations ouvertes par
-les lois de finances.
+a) Sa localisation ;
 
-La convention précise en tant que de besoin les parties d'agglomération,
-communes ou quartiers sur lesquels porte l'aide financière de l'Etat.
+b) Le nombre et la surface des logements locatifs sociaux programmés ;
 
-La convention peut être modifiée par avenant pour prendre en compte l'état
-annuel de réalisation du programme local de l'habitat et adapter les engagements
-des signataires à l'évolution de la situation sociale ou démographique.
+c) Le montant des dépenses effectivement supportées au titre du 1° et du 2° de
+l'article R. 302-30, tel qu'il ressort du compte administratif ;
+
+d) Les éléments, comptables et autres, pris en compte pour le calcul de la
+moins-value supportée au titre du 3° de l'article R. 302-30 ;
+
+e) La date de la délibération ayant autorisé la dépense ou la cession.
+
+Les délibérations mentionnées à l'alinéa ci-dessus, ainsi que tous autres
+documents propres à justifier que les dépenses figurant dans l'état remplissent
+les conditions requises pour être admises en déduction, sont annexées à
+celui-ci.
+
+L'état des dépenses déductibles sera annexé au budget primitif de l'exercice au
+titre duquel le prélèvement est établi.
