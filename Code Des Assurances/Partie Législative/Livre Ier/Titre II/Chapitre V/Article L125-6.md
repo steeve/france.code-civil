@@ -40,8 +40,7 @@ catastrophes naturelles.
 Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans
 les conditions fixées par le bureau central de tarification est considérée comme
 ne fonctionnant plus conformément à la réglementation en vigueur et encourt le
-retrait de l'agrément administratif prévu à l'article L. 321-1.
-
-Est nulle toute clause des traités de réassurance tendant à exclure le risque de
-catastrophe naturelle de la garantie de réassurance en raison des conditions
-d'assurance fixées par le bureau central de tarification.
+retrait de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L.
+321-9. Est nulle toute clause des traités de réassurance tendant à exclure le
+risque de catastrophe naturelle de la garantie de réassurance en raison des
+conditions d'assurance fixées par le bureau central de tarification.

@@ -3,7 +3,7 @@ Article L326-13
 Après la publication au Journal officiel de la décision du ministre de
 l'économie et des finances ou de la commission de contrôle des assurances
 prononçant le retrait de l'agrément administratif accordé à une entreprise
-mentionnée aux 1°, 2°, 3°, 4° ou 6° de l'article L. 310-1, les contrats
+mentionnée au 1° et au dernier alinéa de l'article L. 310-1, les contrats
 souscrits par l'entreprise demeurent régis par leurs conditions générales et
 particulières tant que l'arrêté du ministre de l'économie et des finances prévu
 à l'alinéa suivant n'a pas été publié au Journal officiel, mais le liquidateur

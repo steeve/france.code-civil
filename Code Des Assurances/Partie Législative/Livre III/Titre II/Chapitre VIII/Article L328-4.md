@@ -1,12 +1,7 @@
 Article L328-4
 ----
-Seront punies des peines [*sanctions*] de la banqueroute frauduleuse les
-personnes mentionnées à l'article L. 328-3 qui ont frauduleusement :
-
-1° Ou soustrait des livres de l'entreprise ;
-
-2° Ou détourné ou dissimulé une partie de son actif ;
-
-3° Ou reconnu l'entreprise débitrice de sommes qu'elle ne devait pas, soit dans
-les écritures, soit par des actes publics ou des engagements sous signature
-privée, soit dans le bilan.
+Les articles L. 626-2 à L. 626-5, L. 626-12 et L. 626-16 à L. 626-19 du code de
+commerce sont applicables à toute personne ayant directement ou indirectement le
+pouvoir d'engager une entreprise d'assurance, y compris notamment au mandataire
+général d'une entreprise étrangère d'assurance établie sur le territoire de la
+République française, même lorsqu'ils n'en relèvent pas de plein droit.

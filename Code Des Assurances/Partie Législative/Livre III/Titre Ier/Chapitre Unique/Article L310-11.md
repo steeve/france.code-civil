@@ -1,6 +1,8 @@
 Article L310-11
 ----
-Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10 sont
-applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie
-française, de Saint-Pierre et Miquelon, des Terres australes et antarctiques
-françaises et de Wallis et Futuna.
+I. Le livre III du présent code est applicable à Mayotte.
+
+II. Les dispositions des articles L. 310-1 à L. 310-3, L. 310-8 et L. 310-10,
+dans la rédaction du présent code antérieure à l'entrée en vigueur de la loi n°
+91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et
+financier, sont applicables dans les territoires d'outre-mer.

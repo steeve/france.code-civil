@@ -1,10 +1,11 @@
 Article L310-18
 ----
-Lorsqu'une entreprise mentionnée à l'article L. 310-1 n'a pas respecté une
-disposition législative ou réglementaire dans le domaine relevant du contrôle de
-la commission ou n'a pas déféré à une injonction, la commission peut prononcer,
-à son encontre ou à celle de ses dirigeants, l'une ou plusieurs des sanctions
-disciplinaires suivantes, en fonction de la gravité du manquement :
+Lorsqu'une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 n'a pas
+respecté une disposition législative ou réglementaire dans le domaine relevant
+du contrôle de la commission ou n'a pas déféré à une injonction, la commission
+peut prononcer, à son encontre ou à celle de ses dirigeants, l'une ou plusieurs
+des sanctions disciplinaires suivantes, en fonction de la gravité du manquement
+:
 
 1° L'avertissement ;
 

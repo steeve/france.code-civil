@@ -1,14 +1,23 @@
 Article L310-3
 ----
-Un décret en Conseil d'Etat détermine les conditions de constitution des
-entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1. Il
-précise les conditions dans lesquelles sont applicables auxdites entreprises les
-dispositions de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
-commerciales et des autres lois régissant les sociétés anonymes. Des
-dispositions particulières tiennent compte du caractère non commercial des
-sociétés d'assurance mutuelles.
+Dans le présent code :
 
-Le même décret fixe les obligations auxquelles les entreprises françaises et
-étrangères sont astreintes, les garanties qu'elles doivent présenter, les
-réserves et provisions techniques qu'elles doivent constituer, les règles
-générales de leur fonctionnement et de l'exercice du contrôle de l'Etat.
+1° l'expression : "Etat d'origine" désigne l'Etat dans lequel est situé le siège
+social de l'entreprise d'assurance ;
+
+2° l'expression : "Etat de la succursale" désigne un Etat dans lequel est située
+la succursale d'une entreprise d'assurance ;
+
+3° l'expression : "régime d'établissement" désigne le régime sous lequel une
+entreprise d'assurance couvre un risque ou prend un engagement situé dans un
+Etat à partir d'une succursale établie dans cet Etat ;
+
+4° l'expression : "libre prestation de services" désigne l'opération par
+laquelle une entreprise d'un Etat membre de l'Espace économique européen couvre
+ou prend à partir de son siège social ou d'une succursale située dans un Etat
+partie à l'accord sur l'Espace économique européen un risque ou un engagement
+situé dans un autre de ces Etats, lui-même désigné comme "Etat de libre
+prestation de services" ;
+
+5° l'expression : "entreprise étrangère" désigne une entreprise dont le siège
+social n'est pas situé sur le territoire de la République française.

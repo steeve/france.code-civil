@@ -1,7 +1,7 @@
 Article L326-12
 ----
 En cas de retrait de l'agrément administratif accordé à une entreprise
-mentionnée au 5° et au 7° de l'article L. 310-1, tous les contrats souscrits par
+mentionnée au 2° et au 3° de l'article L. 310-1, tous les contrats souscrits par
 elle cessent de plein droit d'avoir effet le quarantième jour à midi, à compter
 de la publication au Journal officiel de la décision du ministre de l'économie
 et des finances ou de la commission de contrôle des assurances prononçant le

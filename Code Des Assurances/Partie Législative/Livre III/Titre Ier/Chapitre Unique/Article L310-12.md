@@ -5,42 +5,29 @@ les entreprises mentionnées à l'article L. 310-1, à l'exception de celles qui
 ont pour objet exclusif la réassurance.
 
 La commission veille au respect, par les entreprises d'assurance, des
-dispositions législatives ou réglementaires relatives à l'assurance.
+dispositions législatives ou réglementaires relatives à l'assurance. Elle
+s'assure que ces entreprises tiennent les engagements qu'elles ont contractés à
+l'égard des assurés.
 
-La commission s'assure que les entreprises d'assurance tiennent et sont toujours
-en mesure de tenir les engagements qu'elles ont contractés à l'égard des assurés
-et présentent la marge de solvabilité prescrite ; à cette fin, elle examine leur
-situation financière et leurs conditions d'exploitation.
+La commission s'assure que les entreprises mentionnées aux 1°, 3° et 4° de
+l'article L. 310-2 sont toujours en mesure de tenir les engagements qu'elles ont
+contractés à l'égard des assurés et présentent la marge de solvabilité prescrite
+; à cette fin, elle examine leur situation financière et leurs conditions
+d'exploitation.
 
-La commission de contrôle des assurances comprend cinq membres nommés par arrêté
-du ministre chargé de l'économie et des finances pour une durée de cinq ans :
+La commission s'assure que toute entreprise d'assurance ou de capitalisation
+mentionnée au 1° de l'article L. 310-2 et projetant d'exercer pour la première
+fois des activités en libre prestation de services sur le territoire d'un autre
+Etat membre des Communautés européennes, ou de modifier la nature ou les
+conditions d'exercice de ces activités, dispose d'une structure administrative
+et d'une situation financière adéquates au regard de son projet. Si elle estime
+que ces conditions ne sont pas remplies, la commission de contrôle ne communique
+pas à l'autorité de contrôle de cet autre Etat membre les documents permettant
+l'exercice de l'activité envisagée. Un décret en Conseil d'Etat fixe les
+conditions d'application du présent alinéa, notamment les modalités du contrôle
+préalable et les délais dans lesquels la commission doit se prononcer.
 
-1° Un membre du Conseil d'Etat, ayant au moins le rang de conseiller d'Etat,
-président, choisi parmi les membres de la section des finances et proposé par le
-vice-président du Conseil d'Etat ;
-
-2° Un membre de la Cour de cassation, ayant au moins le rang de conseiller à la
-Cour de cassation, proposé par le premier président de la Cour de cassation ;
-
-3° Un membre de la Cour des comptes, ayant au moins le rang de conseiller
-maître, proposé par le premier président de la Cour des comptes ;
-
-4° Deux membres choisis en raison de leur expérience en matière d'assurance et
-de questions financières.
-
-Les membres de la commission ne peuvent, pendant la durée de leur mandat et dans
-les cinq ans qui suivent l'expiration de celui-ci, recevoir de rétribution d'une
-entreprise d'assurance.
-
-Cinq suppléants sont nommés dans les mêmes conditions.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
-
-Le directeur du Trésor au ministère de l'économie et des finances, ou son
-représentant, siège auprès de la commission en qualité de commissaire du
-Gouvernement.
-
-Le secrétariat général de la commission est assuré par le chef du service de
-contrôle des assurances.
+La commission peut décider de soumettre au contrôle toute personne physique ou
+morale ayant reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de
+souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le
+courtage d'assurance.

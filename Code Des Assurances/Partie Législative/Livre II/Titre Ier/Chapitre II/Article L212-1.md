@@ -1,9 +1,8 @@
 Article L212-1
 ----
 Toute personne assujettie à l'obligation d'assurance qui, ayant sollicité la
-souscription d'un contrat auprès d'une entreprise d'assurance agréée dans les
-conditions prévues à l'article L. 321-1 ou couvrant en libre prestation de
-services les risques de responsabilité civile résultant de l'emploi de véhicules
+souscription d'un contrat auprès d'une entreprise d'assurance couvrant en France
+les risques de responsabilité civile résultant de l'emploi de véhicules
 terrestres à moteur, se voit opposer un refus, peut saisir un bureau central de
 tarification dont les conditions de constitution et les règles de fonctionnement
 sont fixées par le décret en Conseil d'Etat prévu à l'article L. 211-1.
