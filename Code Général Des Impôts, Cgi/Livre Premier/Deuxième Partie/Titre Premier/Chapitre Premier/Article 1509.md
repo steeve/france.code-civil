@@ -22,25 +22,25 @@ de chasse agréée ;
 chasse agréée.
 
 IV. Les terres incultes ou manifestement sous-exploitées figurant à l'état prévu
-à l'article 40 du code rural sont inscrites dans la catégorie des meilleures
+à l'article L125-5 du code rural sont inscrites dans la catégorie des meilleures
 terres labourables jusqu'à leur mise en exploitation. Cette disposition prend
 effet à la date à laquelle le préfet informe le propriétaire, en application du
-I de l'article 40 du code rural, des demandes d'attribution formulées
-conformément à cet article. Toutefois, la mise en recouvrement des sommes
-complémentaires résultant de cette inscription n'intervient que si, dans le
-délai de trois ans à compter de cette information, et à défaut d'accord amiable
-entre les intéréssés, le commissaire de la République attribué à l'un des
-demandeurs l'autorisation d'exploiter. En outre, il est procédé au remboursement
-des sommes ainsi perçues si l'arrêté du préfet est annulé par le tribunal
-administratif, ou si l'attributaire n'a pas procédé à la mise en exploitation
-dans le délai d'un an à compter de l'attribution.
+I du deuxième alinéa du même article L125-5 de ce code, des demandes
+d'attribution formulées conformément à cet article. Toutefois, la mise en
+recouvrement des sommes complémentaires résultant de cette inscription
+n'intervient que si, dans le délai de trois ans à compter de cette information,
+et à défaut d'accord amiable entre les intéréssés, le commissaire de la
+République attribué à l'un des demandeurs l'autorisation d'exploiter. En outre,
+il est procédé au remboursement des sommes ainsi perçues si l'arrêté du préfet
+est annulé par le tribunal administratif, ou si l'attributaire n'a pas procédé à
+la mise en exploitation dans le délai d'un an à compter de l'attribution.
 
 Ces dispositions ne sont pas applicables aux fonds en nature de bois à la date
 de la mise en demeure prévue par l'article L 321-11 du code forestier.
 
 V. Les terrains autres que ceux classés dans la catégorie fiscale des terrains à
-bâtir et dont la cession entre dans le champ d'application de l'article 257-7
-sont imposés à la taxe foncière sur les propriétés non bâties en tant que
+bâtir et dont la cession entre dans le champ d'application au 7° de l'article
+257 sont imposés à la taxe foncière sur les propriétés non bâties en tant que
 terrains à bâtir, au titre de l'année de la cession et des deux années
 précédentes, à l'exception des années antérieures à 1980. Leur valeur locative
 est déterminée en appliquant à la moitié du prix de cession le taux d'intérêt
