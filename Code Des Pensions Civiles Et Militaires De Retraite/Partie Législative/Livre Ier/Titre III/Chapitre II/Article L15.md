@@ -8,6 +8,13 @@ contraire, sauf s'il y a eu rétrogradation par mesure disciplinaire, par les
 émoluments soumis à retenue afférents à l'emploi, grade, classe et échelon
 antérieurement occupés d'une manière effective.
 
+Pour les personnels radiés des cadres à l'issue d'une période de détachement
+auprès d'une administration ou d'un organisme implanté sur le territoire d'un
+Etat étranger ou auprès d'un organisme international, les émoluments de base
+sont constitués par les derniers émoluments afférents à l'indice correspondant
+aux grades, classes et échelons détenus depuis six mois au moins à la date de la
+radiation des cadres, qu'ils aient donné lieu ou non à retenue pour pension.
+
 Ce délai de six mois ne sera pas opposé lorsque la mise hors de service ou le
 décès d'un fonctionnaire ou militaire se sera produit par suite d'un accident
 survenu en service ou à l'occasion du service.

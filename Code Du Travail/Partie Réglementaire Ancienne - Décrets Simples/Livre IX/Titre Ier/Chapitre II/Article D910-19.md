@@ -38,8 +38,8 @@ taxe sur l'apprentissage prévue à l'article 2 de la loi n° 71-578 du 16 juill
 technologiques et professionnelles, présidée par l'inspecteur d'éducation
 nationale chargé de l'enseignement technique en mission dans le département.
 
-Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi peut se doter de toute autre commission ou groupe de travail
+Le comité de coordination régional de l'emploi et de la formation
+professionnelle peut se doter de toute autre commission ou groupe de travail
 nécessaire à son fonctionnement, notamment pour l'application des dispositions
 de l'article R. 323-62.
 

@@ -3,9 +3,9 @@ Article L773-2
 Sont applicables aux personnes relevant du présent chapitre les dispositions
 suivantes du présent code :
 
-Livre Ier, Titre II, Chapitre II : articles L. 122-28-1 à L. 122-31 [*congé
-parental d'éducation et travail à mi-temps*] et L. 122-46 ; chapitre III :
-dernier alinéa de l'article L. 123-1 [*harcèlement sexuel*] ;
+Livre Ier, Titre II, Chapitre II : articles L. 122-28-1 à L. 122-31, L. 122-46
+et L. 122-49 ; chapitre III : dernier alinéa de l'article L. 123-1 [*harcèlement
+sexuel*] ;
 
 Livre Ier, titre III (conventions collectives) ;
 

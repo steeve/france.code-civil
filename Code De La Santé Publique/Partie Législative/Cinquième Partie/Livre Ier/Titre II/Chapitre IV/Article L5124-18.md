@@ -1,6 +1,6 @@
 Article L5124-18
 ----
-Sont déterminées par décret en Conseil d'Etat :
+Sont déterminés par décret en Conseil d'Etat :
 
 1° Les conditions dans lesquelles toute entreprise comportant au moins un
 établissement pharmaceutique doit être la propriété d'un pharmacien ou d'une
@@ -47,4 +47,6 @@ produits de santé autorise l'importation des médicaments prévue à l'article 
 
 13° Les sections de l'ordre auxquelles appartient le pharmacien mentionné à
 l'article L. 5124-15 et les conditions dans lesquelles ce pharmacien doit être
-assisté ou remplacé.
+assisté ou remplacé ;
+
+14° Le statut du Laboratoire français du fractionnement et des biotechnologies.

@@ -22,6 +22,12 @@ sommes versées en contrepartie ou à l'occasion du travail sont évalués selon
 règles fixées à l'article L. 242-1. Toutefois, les déductions visées au 3° de
 l'article 83 du code général des impôts ne sont pas applicables.
 
+I bis. - La contribution est établie sur l'assiette correspondant aux
+cotisations forfaitaires applicables aux catégories de salariés ou assimilés
+visées par les arrêtés pris en application des articles L. 241-2 et L. 241-3 du
+présent code et L. 741-13 du code rural, dans leur rédaction en vigueur à la
+date de publication de la dernière loi de financement de la sécurité sociale.
+
 II. - Sont inclus dans l'assiette de la contribution :
 
 1° Les sommes allouées au salarié au titre de l'intéressement prévu à l'article

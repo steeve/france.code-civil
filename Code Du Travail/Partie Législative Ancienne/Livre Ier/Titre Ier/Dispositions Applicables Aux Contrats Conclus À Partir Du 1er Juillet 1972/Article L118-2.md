@@ -11,6 +11,8 @@ par le biais de leurs établissements, soit par l'intermédiaire d'un des
 organismes collecteurs mentionnés à l'article L. 119-1-1, au centre de formation
 ou à la section d'apprentissage où est inscrit cet apprenti, un concours
 financier qui s'impute sur la fraction de la taxe d'apprentissage définie à
-l'article L. 118-3. Le montant minimum par apprenti de ce concours est déterminé
-dans des conditions fixées par le décret en Conseil d'Etat prévu à l'article L.
-119-4.
+l'article L. 118-3. Le montant de ce concours est au moins égal, dans la limite
+de la fraction de la taxe réservée à l'apprentissage, au coût par apprenti fixé
+par la convention de création du centre de formation d'apprentis ou de la
+section d'apprentissage, tel que défini au troisième alinéa de l'article L.
+118-2-2.

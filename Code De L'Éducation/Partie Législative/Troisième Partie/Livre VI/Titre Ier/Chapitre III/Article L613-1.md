@@ -5,12 +5,13 @@ L'Etat a le monopole de la collation des grades et des titres universitaires.
 Les diplômes nationaux délivrés par les établissements sont ceux qui confèrent
 l'un des grades ou titres universitaires dont la liste est établie par décret
 pris sur avis du Conseil national de l'enseignement supérieur et de la
-recherche. Ils ne peuvent être délivrés qu'au vu des résultats du contrôle des
-connaissances et des aptitudes appréciés par les établissements habilités à cet
-effet par le ministre chargé de l'enseignement supérieur après avis du Conseil
-national de l'enseignement supérieur et de la recherche. Un diplôme national
-confère les mêmes droits à tous ses titulaires, quel que soit l'établissement
-qui l'a délivré.
+recherche. Sous réserve des dispositions des articles L. 613-3 et L. 613-4, ils
+ne peuvent être délivrés qu'au vu des résultats du contrôle des connaissances et
+des aptitudes appréciés par les établissements habilités à cet effet par le
+ministre chargé de l'enseignement supérieur après avis du Conseil national de
+l'enseignement supérieur et de la recherche. Un diplôme national confère les
+mêmes droits à tous ses titulaires, quel que soit l'établissement qui l'a
+délivré.
 
 Les règles communes pour la poursuite des études conduisant à des diplômes
 nationaux, les conditions d'obtention de ces titres et diplômes, le contrôle de

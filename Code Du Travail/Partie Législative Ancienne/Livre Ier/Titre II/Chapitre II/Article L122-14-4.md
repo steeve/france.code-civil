@@ -11,7 +11,14 @@ ses avantages acquis ; en cas de refus par l'une ou l'autre des parties, le
 tribunal octroie au salarié une indemnité. Cette indemnité [*de rupture
 abusive*], qui ne peut être inférieure aux salaires des six derniers mois, est
 due sans préjudice, le cas échéant, de l'indemnité [*minimum de licenciement*]
-prévue à l'article L. 122-9.
+prévue à l'article L. 122-9. Lorsque le tribunal constate que le licenciement
+est intervenu alors que la procédure de licenciement est nulle et de nul effet,
+conformément aux dispositions du cinquième alinéa de l'article L. 321-4-1, il
+prononce la nullité du licenciement et ordonne, à la demande du salarié, la
+poursuite du contrat de travail. Cette décision est exécutoire de droit à titre
+provisoire. Lorsque le salarié ne demande pas la poursuite de son contrat de
+travail, le tribunal octroie au salarié une indemnité qui ne peut être
+inférieure aux salaires des douze derniers mois.
 
 Le tribunal ordonne également le remboursement par l'employeur fautif aux
 organismes concernés de tout ou partie des indemnités de chômage payées au

@@ -13,7 +13,7 @@ L'administration fiscale et les administrations qui financent des actions de
 formation sont tenues de leur communiquer les renseignements nécessaires à
 l'accomplissement de leur mission.
 
-L'autorité administrative présente chaque année [*périodicité*] au comité
-régional de la formation professionnelle, de la promotion sociale et de l'emploi
-un rapport relatif à l'activité des services de contrôle et au développement de
-l'appareil régional de formation professionnelle.
+L'autorité administrative présente chaque année au comité de coordination
+régional de l'emploi et de la formation professionnelle un rapport relatif à
+l'activité des services de contrôle et au développement de l'appareil régional
+de formation professionnelle.

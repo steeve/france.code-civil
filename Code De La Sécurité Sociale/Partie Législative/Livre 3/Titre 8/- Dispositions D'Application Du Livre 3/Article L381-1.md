@@ -40,7 +40,9 @@ n'a pas atteint l'âge limite d'attribution de l'allocation d'éducation spécia
 2°) ou assumant, au foyer familial, la charge d'un handicapé adulte dont
 l'incapacité permanente est au moins égale au taux ci-dessus rappelé et dont le
 maintien au foyer est reconnu souhaitable par la commission prévue à l'article
-L. 323-11 du code du travail.
+L. 323-11 du code du travail. Les différends auxquels peut donner lieu
+l'application du présent alinéa relèvent du contentieux technique de la sécurité
+sociale mentionné à l'article L. 143-1 du présent code.
 
 Le financement de l'assurance vieillesse des catégories de personnes mentionnées
 par le présent article est assuré par une cotisation à la charge exclusive des

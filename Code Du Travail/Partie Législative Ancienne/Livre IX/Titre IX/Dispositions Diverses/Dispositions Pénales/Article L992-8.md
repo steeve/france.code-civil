@@ -2,9 +2,10 @@ Article L992-8
 ----
 Lorsqu'un salarié de l'entreprise est désigné pour siéger dans une commission,
 un conseil ou un comité administratifs ou paritaires appelés à traiter des
-problèmes d'emploi et de formation ou pour participer à un jury d'examen,
-l'employeur est tenu d'accorder à ce salarié le temps nécessaire pour participer
-aux réunions des organismes précités.
+problèmes d'emploi et de formation ou pour participer à un jury d'examen ou de
+validation des acquis de l'expérience, l'employeur est tenu d'accorder à ce
+salarié le temps nécessaire pour participer aux réunions des organismes
+précités.
 
 Cette autorisation d'absence ne peut être refusée par l'employeur que dans le
 cas où il estime, après avis conforme du comité d'entreprise ou, s'il n'en

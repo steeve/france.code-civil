@@ -45,9 +45,9 @@ des soins ou la santé des malades ;
 8° Emet un avis sur le projet des soins infirmiers, tel qu'il est défini à
 l'article L. 6146-9 ;
 
-9° Emet un avis sur le bilan social, les plans de formation, et notamment ceux
-intéressant les personnels paramédicaux, et les modalités de mise en oeuvre
-d'une politique d'intéressement ;
+9° Emet un avis sur le projet social, le bilan social, les plans de formation,
+et notamment ceux intéressant les personnels paramédicaux, et les modalités de
+mise en oeuvre d'une politique d'intéressement ;
 
 10° Est régulièrement tenue informée de l'exécution du budget et des créations,
 suppressions ou transformations d'emplois de praticiens hospitaliers ;

@@ -1,12 +1,12 @@
 Article D910-17
 ----
-Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi, lieu de concertation régionale des orientations à moyen terme des
-politiques de l'Etat, de la région, du département et des partenaires sociaux,
-en matière d'emploi et de formation professionnelle a pour mission de favoriser,
-en liaison avec le conseil économique et social régional, la mise en oeuvre dans
-la région d'une politique cohérente d'emploi et de formation professionnelle. A
-cette fin :
+Le comité de coordination régional de l'emploi et de la formation
+professionnelle, lieu de concertation régionale des orientations à moyen terme
+des politiques de l'Etat, de la région, du département et des partenaires
+sociaux, en matière d'emploi et de formation professionnelle a pour mission de
+favoriser, en liaison avec le conseil économique et social régional, la mise en
+oeuvre dans la région d'une politique cohérente d'emploi et de formation
+professionnelle. A cette fin :
 
 1. Il examine la situation et les perspectives de l'emploi pour les diverses
 branches d'activité et dans les secteurs publics, semi-publics et privés, ainsi

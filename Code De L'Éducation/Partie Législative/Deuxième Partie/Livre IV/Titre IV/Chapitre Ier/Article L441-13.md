@@ -9,5 +9,5 @@ L'établissement sera fermé.
 Est puni de la peine prévue au premier alinéa le fait, pour toute personne, dans
 le cas d'opposition formée à l'ouverture de son établissement, de l'avoir ouvert
 avant qu'il ait été statué sur cette opposition, ou malgré la décision du comité
-départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi qui aurait accueilli l'opposition, ou avant la décision d'appel.
+départemental de l'emploi qui aurait accueilli l'opposition, ou avant la
+décision d'appel.

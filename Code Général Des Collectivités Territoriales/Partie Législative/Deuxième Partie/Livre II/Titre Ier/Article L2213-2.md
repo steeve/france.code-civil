@@ -11,6 +11,15 @@ diverses catégories d'usagers ou de véhicules ;
 catégories d'entre eux, ainsi que la desserte des immeubles riverains ;
 
 3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert
-au public des emplacements de stationnement aménagés aux véhicules arborant l'un
-ou l'autre des macarons Grand Invalide civil (G.I.C.) ou Grand Invalide de
-guerre (G.I.G.).
+au public des emplacements de stationnement aménagés aux véhicules utilisés par
+les personnes titulaires de la carte de stationnement prévue à l'article L.
+241-3-2 du code de l'action sociale et des familles. Il peut délivrer des
+autorisations de stationnement, donnant droit à l'usage de ces emplacements sur
+le territoire communal, aux personnes titulaires de la carte Station debout
+pénible prévue à l'article L. 241-3-1 du même code. Le stationnement sans
+autorisation d'un véhicule sur ces emplacements réservés est considéré comme
+gênant et constitue une infraction au sens de l'article R. 417-10 du code de la
+route.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent
+article.

@@ -1,9 +1,9 @@
 Article L6142-3
 ----
-Dans les villes sièges d'unités de formation et de recherche de médecine, les
-universités, pour ce qui concerne ces unités, et les centres hospitaliers
-régionaux organisent conjointement l'ensemble de leurs services en centres
-hospitaliers et universitaires.
+Dans les villes sièges d'unités de formation et de recherche de médecine et de
+pharmacie, les universités, pour ce qui concerne ces unités, et les centres
+hospitaliers régionaux organisent conjointement l'ensemble de leurs services en
+centres hospitaliers et universitaires.
 
 Les universités et les centres hospitaliers régionaux conservent leur
 personnalité juridique et leurs organes d'administration respectifs ; ils sont

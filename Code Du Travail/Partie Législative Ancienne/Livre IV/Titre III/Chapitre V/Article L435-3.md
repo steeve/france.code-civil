@@ -6,7 +6,7 @@ pouvoirs des chefs d'établissement.
 
 Il est obligatoirement informé et consulté sur tous les projets économiques et
 financiers importants concernant l'entreprise, notamment dans les cas définis au
-quatrième alinéa de l'article L. 432-1.
+neuvième alinéa de l'article L. 432-1.
 
 Dans le domaine des activités sociales et culturelles, les comités
 d'établissement peuvent confier au comité central d'entreprise la gestion

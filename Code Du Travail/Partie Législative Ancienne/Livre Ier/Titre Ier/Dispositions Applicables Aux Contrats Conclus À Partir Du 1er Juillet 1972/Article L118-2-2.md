@@ -8,51 +8,39 @@ régionaux d'apprentissage et de formation professionnelle continue selon des
 critères fixés par décret pris après avis du Comité de coordination des
 programmes régionaux d'apprentissage et de formation professionnelle continue.
 
-Les sommes reversées aux fonds régionaux d'apprentissage et de formation
-professionnelle continue sont affectées au financement des centres de formation
-d'apprentis et des sections d'apprentissage pour lesquels la région considérée a
-passé convention et des centres de formation d'apprentis pour lesquels a été
-passée convention avec l'Etat en application de l'article L. 116-2, conformément
-à des recommandations déterminées au moins tous les trois ans par le Comité de
-coordination des programmes régionaux d'apprentissage et de formation
-professionnelle continue. Une partie des sommes est affectée à des dépenses
-d'investissement et de sécurité.
+Les sommes reversées aux fonds régionaux de l'apprentissage et de la formation
+professionnelle continue au titre des premier et cinquième alinéas du présent
+article sont affectés au financement des centre de formation d'apprentis et des
+sections d'apprentissage pour lesquels la région considérée a passé convention
+et des centres de formation d'apprentis pour lesquels a été passée convention
+avec l'Etat en application de l'article L. 116-2. Elles sont destinées en
+priorité à ceux qui n'atteignent pas un montant minimum de ressources par
+apprenti, par domaine et par niveau de formation déterminé par arrêté après avis
+du comité de coordination des programmmes régionaux d'apprentissage et de
+formation professionnelle continue et qui assurent en majorité des formations
+d'apprentis conduisant au certificat d'aptitude professionnelle, au brevet
+d'études professionnelles ou à un diplôme ou titre homologué de niveau
+équivalent, ou qui dispensent des formations à des apprentis sans considération
+d'origine régionale. La région présente chaque année un rapport précisant
+l'affectation de ces sommes au comité de coordination régional de l'emploi et de
+la formation professionnelle mentionné à l'article L. 910-1.
 
-Il est également tenu compte par les régions pour cette affectation des contrats
-d'objectifs conclus en application des deux derniers alinéas de l'article 84 de
-la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre
-les communes, les départements, les régions et l'Etat, ainsi que des difficultés
-particulières rencontrées par les centres de formation d'apprentis ou sections
-qui dispensent des formations destinées à des apprentis ou à des stagiaires,
-sans considération d'origine régionale.
+Les conventions visées à l'article L. 116-2 fixent, pour la durée de celles-ci,
+les coûts de formation pratiqués par chaque centre de formation d'apprentis et
+par chaque section d'apprentissage. Ces coûts incluent, en les identifiant, les
+charges d'amortissement des immeubles et des équipements. Les coûts ainsi fixés
+peuvent être révisés chaque année, contractuellement, par avenant auxdites
+conventions.
 
-La mise en oeuvre par les régions des dispositions des deux alinéas ci-dessus
-fait l'objet d'un rapport présenté chaque année devant le Comité de coordination
-des programmes régionaux d'apprentissage et de formation professionnelle
-continue. Ce rapport précise notamment les financements affectés aux centres
-gérés par les chambres consulaires, et notamment à l'amortissement des
-équipements mobiliers ou immobiliers de ces centres.
+Les ressources annuelles d'un centre de formation d'apprentis ou d'une section
+d'apprentissage ne peuvent être supérieures à un maximum correspondant au
+produit du nombre d'apprentis inscrits par leurs coûts de formation définis dans
+la convention prévue à l'article L. 116-2.
 
-Le produit total des concours apportés dans l'année au titre de l'article L.
-118-2 à un centre de formation d'apprentis ou à une section d'apprentissage,
-soit directement par les redevables de la taxe d'apprentissage, soit par
-l'intermédiaire d'un des organismes collecteurs mentionnés à l'article L.
-119-1-1, ne peut être supérieur à un maximum calculé en fonction du nombre
-d'apprentis inscrits dans le centre ou dans la section et d'un barème de coût
-par niveau et par type de formation fixé par arrêté interministériel après avis
-du comité de coordination des programmes régionaux d'apprentissage et de
+Lorsque les ressources annuelles d'un centre de formation d'apprentis sont
+supérieures au montant maximum défini à l'alinéa précédent, les sommes
+excédentaires sont reversées au fonds régional de l'apprentissage et de la
 formation professionnelle continue.
-
-Lorsqu'un centre de formation d'apprentis ou une section d'apprentissage
-dispose, au titre des concours visés à l'alinéa précédent, de ressources
-excédant le maximum mentionné à ce même alinéa, il reverse les sommes
-excédentaires au fonds régional de l'apprentissage et de la formation
-professionnelle continue [*péréquation*]. Ces sommes sont affectées, par la
-région, aux centres de formation d'apprentis et aux sections d'apprentissage
-dont les recettes au titre de la taxe d'apprentissage sont inférieures à un
-minimum fixé par décret en Conseil d'Etat après avis du comité de coordination
-des programmes régionaux d'apprentissage et de formation professionnelle
-continue.
 
 Les modalités d'application du présent article sont fixées par le décret en
 Conseil d'Etat prévu à l'article L. 119-4.

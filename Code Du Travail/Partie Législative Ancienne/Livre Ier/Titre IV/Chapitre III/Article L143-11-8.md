@@ -1,8 +1,11 @@
 Article L143-11-8
 ----
-La garantie des institutions [*du régime d'assurance de la convention du
-31-12-1958*] mentionnées à l'article L. 143-11-4 est limité, toutes créances du
-salarié confondues, à un ou des montants fixés par décret, en référence au
-plafond mensuel retenu pour le calcul des contributions du régime d'assurance
-chômage prévu à la section II du chapitre Ier du titre V du livre III du présent
-code.
+La garantie des institutions mentionnées à l'article L. 143-11-4 est limitée,
+toutes créances du salarié confondues, à un ou des montants fixés par décret, en
+référence au plafond mensuel retenu pour le calcul des contributions du régime
+d'assurance chômage prévu à la section II du chapitre Ier du titre V du livre
+III du présent code.
+
+Les sommes versées au salarié en application des articles L. 122-9-1 et L.
+122-3-4-1 sont le cas échéant prises en compte pour la détermination du ou des
+montants prévus à l'alinéa précédent.

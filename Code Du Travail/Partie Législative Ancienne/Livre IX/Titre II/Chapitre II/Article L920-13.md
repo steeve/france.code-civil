@@ -12,9 +12,10 @@ que les effectifs qu'elles concernent ;
 obtenir les qualifications auxquelles elle prépare ;
 
 3° Les conditions dans lesquelles la formation est donnée aux stagiaires,
-notamment les moyens pédagogiques et techniques mis en oeuvre ainsi que les
-modalités de contrôle des connaissances et la nature de la sanction éventuelle
-de la formation ;
+notamment les modalités de formation dans le cas des formations réalisées en
+tout ou en partie à distance, les moyens pédagogiques et techniques mis en
+oeuvre ainsi que les modalités de contrôle des connaissances et la nature de la
+sanction éventuelle de la formation ;
 
 4° Les diplômes, titres ou références des personnes chargées de la formation
 prévue par le contrat ;

@@ -10,5 +10,4 @@ rapports avec leurs employeurs, les dispositions suivantes du présent code :
 - Livre II, titre II, chapitre Ier (Repos hebdomadaire) ; chapitre II (Jours
 fériés) ; chapitre VI (Congés pour événements familiaux) ;
 
-L'article L. 122-46 et le dernier alinéa de l'article L. 123-1 [*harcèlement
-sexuel*].
+- les articles L. 122-46, L. 122-49 et L. 122-53.

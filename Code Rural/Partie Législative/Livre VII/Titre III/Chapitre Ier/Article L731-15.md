@@ -22,3 +22,13 @@ des impôts, les chefs d'exploitation ou d'entreprise agricole peuvent, sur leur
 demande, bénéficier de la mesure d'étalement prévue au premier alinéa de cet
 article au titre des revenus professionnels servant à calculer les cotisations
 sociales des personnes non salariées agricoles.
+
+Au titre des revenus professionnels servant à calculer les cotisations sociales
+des personnes non salariées agricoles, la différence entre l'indemnité attribuée
+en compensation de l'abattage d'un troupeau réalisé dans le cadre de la lutte
+contre l'encéphalopathie spongiforme bovine et la valeur en stock ou en compte
+d'achats des animaux abattus peut être prise en compte, sur leur demande, pour
+les chefs d'exploitation ou d'entreprise agricole qui ont opté pour les
+dispositions de l'article 75-0 D du code général des impôts, dans les conditions
+prévues au premier alinéa de cet article et selon les mêmes modalités
+d'application.

@@ -4,8 +4,8 @@ Le régime local d'assurance maladie complémentaire obligatoire des départemen
 du Bas-Rhin, du Haut-Rhin et de la Moselle s'applique aux membres des
 professions agricoles et forestières relevant des assurances sociales agricoles
 et entrant dans les catégories visées au II de l'article L. 325-1 du code de la
-sécurité sociale, à l'exception de ceux visés aux 2°, 3° et au douzième alinéa
-dudit II.
+sécurité sociale, à l'exception de ceux visés aux 2°, 3° et à l'avant-dernier
+alinéa.
 
 Il est également applicable aux ayants droit, tels que définis aux articles L.
 161-14 et L. 313-3 du code de la sécurité sociale, des assurés mentionnés

@@ -16,3 +16,6 @@ d'une personne ayant la qualité d'électeur est électeur dans le même collèg
 
 Les électeurs sont inscrits sur la liste électorale de la commune de leur
 résidence.
+
+Nul ne peut être électeur dans plus d'un des collèges définis à l'article L.
+723-15.

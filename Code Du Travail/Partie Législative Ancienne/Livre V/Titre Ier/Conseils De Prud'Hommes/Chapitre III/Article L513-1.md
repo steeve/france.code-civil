@@ -2,9 +2,8 @@ Article L513-1
 ----
 Pour être électeurs, les salariés et les employeurs doivent être âgés de seize
 ans accomplis, exercer une activité professionnelle ou être sous contrat
-d'apprentissage ou être involontairement privés d'emploi, et n'avoir encouru
-aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code
-électoral.
+d'apprentissage ou être involontairement privés d'emploi, et n'être l'objet
+d'aucune interdiction, déchéance ou incapacité relative à leurs droits civiques.
 
 Sont électeurs dans les sections de l'industrie, du commerce et des services
 commerciaux, de l'agriculture et des activités diverses, les employés, les

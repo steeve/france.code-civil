@@ -6,8 +6,8 @@ professionnelle continue.
 
 Ils doivent être agréés par l'Etat après avis du conseil national de la
 formation professionnelle, de la promotion sociale et de l'emploi ou de sa
-commission permanente ou des comités régionaux de la formation professionnelle,
-de la promotion sociale et de l'emploi.
+commission permanente ou des comités de coordination régionaux de l'emploi et de
+la formation professionnelle.
 
 Leur gestion est assurée paritairement. Ils mutualisent les sommes qu'ils
 perçoivent des entreprises. A compter du 1er janvier 1992, ils doivent être

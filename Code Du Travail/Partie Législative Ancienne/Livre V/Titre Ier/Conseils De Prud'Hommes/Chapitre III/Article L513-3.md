@@ -21,10 +21,7 @@ la commune où ce conseil de prud'hommes a son siège.
 
 L'employeur doit communiquer à l'autorité administrative compétente les listes
 des salariés qu'il emploie en faisant mention de la section dont relève
-l'entreprise ou l'établissement. Les salariés relevant de la section de
-l'encadrement au sens du troisième alinéa de l'article L. 513-1 et les cadres
-devant être considérés comme des électeurs employeurs au sens du cinquième
-alinéa du même article sont inscrits sur des listes distinctes.
+l'entreprise ou l'établissement.
 
 Les listes sont dans leur intégralité tenues pendant quinze jours, à des
 strictes fins de consultation et de vérification en vue de l'organisation du
@@ -32,10 +29,45 @@ scrutin, à la disposition du personnel. Elles sont ensuite transmises à
 l'autorité administrative compétente avec les observations écrites des
 intéressés s'il y en a.
 
-La liste électorale est établie par le maire assisté d'une commission dont la
-composition est fixée par décret. Les dispositions des articles L. 25, L. 27 et
-L. 34 du code électoral sont applicables en cas de contestation portant sur la
-liste électorale telle qu'elle a été établie par le maire.
+La liste électorale est établie par le maire assisté, au-delà d'un seuil, fixé
+par décret, d'électeurs inscrits sur la liste électorale de la commune lors des
+dernières élections générales d'une commission dont la composition est fixée par
+décret. Les employeurs sont tenus de laisser le temps nécessaire pour remplir
+leurs fonctions aux salariés de leur entreprise désignés membres de la
+commission électorale. Le temps passé hors de l'entreprise par ces salariés est
+assimilé à une durée de travail effectif dans les conditions prévues au deuxième
+alinéa de l'article L. 514-1. La participation d'un salarié à cette commission
+ne saurait être la cause d'une sanction ou d'une rupture du contrat de travail
+par l'employeur.
+
+A compter du dépôt de la liste électorale arrêtée par le maire, tout électeur ou
+un représentant qu'il aura désigné peut saisir le maire de la commune sur la
+liste de laquelle il est ou devrait être inscrit d'une contestation concernant
+son inscription ou l'inscription d'un ensemble d'électeurs. Le même droit
+appartient au mandataire d'une liste de candidats relevant du conseil de
+prud'hommes pour lequel la contestation est formée. Les demandes concernant un
+autre électeur ou un ensemble d'électeurs sont formées sans avoir à justifier
+d'un mandat du ou des électeurs intéressés, pourvu qu'ils aient été avertis et
+n'aient pas déclaré s'y opposer. La décision du maire peut être contestée par
+les auteurs du recours gracieux devant le tribunal d'instance qui statue en
+dernier ressort. Un décret en Conseil d'Etat détermine les conditions de mise en
+oeuvre de ces dispositions.
+
+Postérieurement à la clôture de la liste électorale, toute contestation relative
+à l'inscription, qu'elle concerne un seul électeur ou un ensemble d'électeurs,
+est portée devant le tribunal d'instance qui statue en dernier ressort jusqu'au
+jour du scrutin. Ladite contestation peut être portée, dans les conditions
+fixées par un décret en Conseil d'Etat, par :
+
+- le préfet ;
+
+- le procureur de la République ;
+
+- tout électeur ;
+
+- le mandataire d'une liste, sans avoir à justifier d'un mandat du ou des
+électeurs intéressés, pourvu qu'ils aient été avertis et n'aient pas déclaré s'y
+opposer.
 
 Par dérogation aux dispositions qui les assujettissent au secret professionnel,
 les organismes ou caisses de sécurité sociale ainsi que les caisses de la

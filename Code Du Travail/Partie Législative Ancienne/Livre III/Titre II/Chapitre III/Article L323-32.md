@@ -10,7 +10,13 @@ laquelle se rattache l'établissement, compte tenu de sa production.
 Le travailleur handicapé en atelier protégé reçoit un salaire fixé compte tenu
 de l'emploi qu'il occupe, de sa qualification et de son rendement par référence
 aux dispositions réglementaires ou conventionnelles applicables dans la branche
-d'activité.
+d'activité. Les accessoires de salaire résultant de dispositions législatives,
+réglementaires ou conventionnelles sont déterminés en prenant pour assiette la
+garantie de ressources définie dans les articles L. 243-4 et suivants du code de
+l'action sociale et des familles. La charge liée à cette rémunération est
+répartie entre l'atelier protégé et l'Etat proportionnellement au montant du
+salaire direct et du complément de rémunération. La participation de l'Etat est
+plafonnée dans des conditions fixées par décret.
 
 Le salaire perçu par les travailleurs employés par un atelier protégé ou par un
 centre de distribution de travail à domicile ne pourra être inférieur à un

@@ -1,8 +1,8 @@
 Article L513-2
 ----
 Sont éligibles, à condition d'avoir la nationalité française, d'être âgées de
-vingt et un ans au moins et de n'avoir encouru aucune des condamnations prévues
-aux articles L. 5 et L. 6 du code électoral :
+vingt et un ans au moins et de n'être l'objet d'aucune interdiction, déchéance
+ou incapacité relative à leurs droits civiques ;
 
 1° Les personnes qui sont inscrites sur les listes électorales prud'homales ou
 remplissant les conditions requises pour y être inscrites ;

@@ -20,10 +20,10 @@ Le calendrier prévisionnel des licenciements.
 
 Lorsque le nombre des licenciements envisagés est au moins égal à dix dans une
 même période de trente jours, l'employeur doit également adresser aux
-représentants du personnel les mesures ou le plan social défini à l'article L.
-321-4-1 qu'il envisage de mettre en oeuvre pour éviter les licenciements ou en
-limiter le nombre et pour faciliter le reclassement du personnel dont le
-licenciement ne pourrait être évité.
+représentants du personnel les mesures ou le plan de sauvegarde de l'emploi
+défini à l'article L. 321-4-1 qu'il envisage de mettre en oeuvre pour éviter les
+licenciements ou en limiter le nombre et pour faciliter le reclassement du
+personnel dont le licenciement ne pourrait être évité.
 
 Ces mesures sont constituées, dans les entreprises ou établissements mentionnés
 au premier alinéa de l'article L. 321-3, par les conventions de conversion
@@ -43,6 +43,8 @@ compétente, à laquelle seront également adressés les procès-verbaux des ré
 prévues à l'article L. 321-3. Ces procès-verbaux devront comporter les avis,
 suggestions et propositions des représentants du personnel.
 
-Les représentants du personnel et l'autorité administrative sont informés de
-l'exécution du plan social au cours de l'année suivant l'expiration du délai
-prévu au premier alinéa de l'article L. 321-6.
+Le plan de sauvegarde de l'emploi doit déterminer les modalités de suivi de la
+mise en oeuvre effective des mesures contenues dans le plan de reclassement
+prévu à l'article L. 321-4-1. Ce suivi fait l'objet d'une consultation régulière
+et approfondie du comité d'entreprise ou des délégués du personnel. L'autorité
+administrative compétente est associée au suivi de ces mesures.

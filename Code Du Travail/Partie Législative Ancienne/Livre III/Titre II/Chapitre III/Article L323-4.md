@@ -8,7 +8,8 @@ effectif.
 
 II. - Les dispositions de l'article L. 431-2 sont applicables au calcul du
 nombre des bénéficiaires de la présente section employés par l'entreprise ;
-toutefois, il est tenu compte des apprentis.
+toutefois, il est tenu compte des apprentis et des bénéficiaires des contrats
+d'insertion en alternance prévus aux articles L. 981-1, L. 981-6 et L. 981-7.
 
 En outre et selon des modalités déterminées par décret, ces bénéficiaires sont
 pris en compte une fois et demie, deux ou plusieurs fois :

@@ -23,3 +23,10 @@ répondre aux besoins sanitaires de la population.
 
 Les attributions du syndicat sont définies par des délibérations concordantes
 des conseils d'administration des établissements qui en font partie.
+
+Les conseils d'administration d'établissements publics de santé membres d'un
+syndicat interhospitalier peuvent décider de lui transférer, en même temps que
+les activités entrant dans ses missions, les emplois occupés par des agents
+régis par le titre IV du statut général des fonctionnaires et afférents audites
+activités. Dans ce cas, le syndicat devient employeur des agents susmentionnés
+qui assuraient jusque-là les activités considérées dans lesdits établissements.

@@ -1,10 +1,10 @@
 Article L341-6-1
 ----
-L'étranger employé [*irrégulièrement*] en violation des dispositions de l'alinéa
-premier de l'article L. 341-6 est assimilé, à compter de la date de son
-embauchage, à un travailleur régulièrement engagé en ce qui concerne les
-obligations de l'employeur relatives à la réglementation du travail définie au
-livre II du présent code et, pour les professions agricoles, aux articles 992 et
+L'étranger employé en violation des dispositions de l'alinéa premier de
+l'article L. 341-6 est assimilé, à compter de la date de son embauchage, à un
+travailleur régulièrement engagé en ce qui concerne les obligations de
+l'employeur relatives à la réglementation du travail définie au livre II du
+présent code et, pour les professions agricoles, aux articles L. 713-2 et
 suivants du code rural, ainsi qu'à la prise en compte de l'ancienneté dans
 l'entreprise.
 
@@ -18,9 +18,9 @@ titre de la période considérée ;
 
 2° En cas de rupture de la relation de travail, a une indemnité forfaitaire
 égale à un mois de salaire à moins que l'application des règles figurant aux
-articles L. 122-3-4, L. 122-3-8, deuxième alinéa, L. 122-8 et L. 122-9
-[*relatives aux indemnités de préavis et de licenciement*] ou des stipulations
-contractuelles correspondantes ne conduise à une solution plus favorable.
+articles L. 122-3-4, L. 122-3-8, troisième alinéa, L. 122-8 et L. 122-9 ou des
+stipulations contractuelles correspondantes ne conduise à une solution plus
+favorable.
 
 La juridiction prud'homale saisie peut ordonner par provision le versement de
 l'indemnité forfaitaire visée à l'alinéa précédent.

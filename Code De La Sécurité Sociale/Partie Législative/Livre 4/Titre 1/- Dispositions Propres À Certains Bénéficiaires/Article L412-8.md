@@ -28,7 +28,7 @@ c. les personnes effectuant des stages de formation professionnelle continue
 conformément aux dispositions du livre IX du code du travail, pour les accidents
 survenus par le fait ou à l'occasion de cette formation y compris si cette
 formation est effectuée par des salariés en partie hors du temps de travail dans
-les conditions fixées par l'article L. 932-1 du code du travail ;
+les conditions fixées par les articles L. 932-1 et L. 932-2 du code du travail ;
 
 d. les bénéficiaires des allocations [*du FNE*] mentionnées au 4° du deuxième
 alinéa de l'article L. 322-4 du code du travail pour les accidents survenus par

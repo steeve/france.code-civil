@@ -17,7 +17,9 @@ du travail ou de l'une des allocations [*du FNE*] mentionnées à l'article L.
 322-3, aux 2° et 4° du deuxième alinéa de l'article L. 322-4 du même code ou
 d'une allocation versée en cas d'absence complète d'activité, par application
 d'accords professionnels ou interprofessionnels, nationaux ou régionaux,
-mentionnés au dernier alinéa de l'article L. 352-3 du code du travail ;
+mentionnés au dernier alinéa de l'article L. 352-3 du code du travail ou de
+l'allocation de congé-solidarité mentionnée à l'article 15 de la loi n°
+2000-1207 du 13 décembre 2000 d'orientation pour l'outre-mer ;
 
 3°) dans les conditions et limites fixées par le décret prévu au présent
 article, les périodes pendant lesquelles l'assuré s'est trouvé, avant l'âge fixé

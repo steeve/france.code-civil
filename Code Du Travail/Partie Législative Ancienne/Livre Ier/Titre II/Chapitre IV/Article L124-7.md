@@ -16,7 +16,13 @@ effet au premier jour de sa mission.
 A l'expiration du contrat de mission d'un salarié intérimaire, il ne peut être
 recouru pour pourvoir le poste à un salarié sous contrat à durée déterminée ou
 sous contrat de travail temporaire avant l'expiration d'une période égale au
-tiers de la durée du contrat de mission venu à expiration renouvellement inclus.
+tiers de la durée du contrat de mission venu à expiration renouvellement inclus
+si la durée de ce contrat, renouvellement inclus, est au moins égale à quatorze
+jours et avant l'expiration d'une période égale à la moitié de la durée du
+contrat, renouvellement inclus, si la durée de ce contrat, renouvellement
+inclus, est inférieure à quatorze jours. Pour l'appréciation du délai devant
+séparer les deux contrats, il est fait référence aux jours d'ouverture de
+l'entreprise ou de l'établissement concernés.
 
 Les dispositions de l'alinéa ci-dessus ne sont pas applicables, lorsque le
 contrat de travail temporaire est conclu pour assurer le remplacement d'un

@@ -18,3 +18,7 @@ Les organismes mentionnés au b de l'article L. 861-4 peuvent créer un fonds
 d'accompagnement à la protection complémentaire des personnes dont les
 ressources sont supérieures au plafond prévu à l'article L. 861-1. Ils en
 déterminent les modalités d'intervention.
+
+Le fonds de financement de la protection complémentaire peut employer des agents
+de droit privé régis par les conventions collectives applicables aux personnels
+de sécurité sociale.

@@ -68,24 +68,38 @@ Haut-Rhin, du Bas-Rhin ou de la Moselle et qui bénéficient du régime local
 d'assurance maladie au 1er juillet 1998 ;
 
 9° Titulaires d'un avantage de vieillesse, quel que soit leur lieu de résidence
-en France métropolitaine ou dans les départements d'outre-mer, ne bénéficiant
-pas du régime local d'assurance maladie au 1er juillet 1998, qui en ont relevé
-durant vingt trimestres d'assurance au sens de la législation applicable au
-régime général d'assurance vieillesse pendant les cinq années qui précèdent leur
-départ en retraite ou leur cessation d'activité ou qui y ont cotisé pendant
-vingt-cinq ans, sous réserve qu'ils justifient de la plus longue durée
-d'affiliation au régime général d'assurance vieillesse ou au régime défini par
-le 2° de l'article L. 181-1 et qu'ils demandent le bénéfice du régime local
-d'assurance maladie, selon des modalités déterminées par décret ;
+en France métropolitaine ou dans les départements d'outre-mer, qui ont relevé du
+régime local d'assurance maladie soit pendant les cinq années précédant leur
+départ en retraite ou leur cessation d'activité, soit pendant dix années durant
+les quinze précédant ce départ en retraite ou cette cessation d'activité, sous
+réserve qu'ils justifient de la plus longue durée d'affiliation au régime
+général d'assurance vieillesse ou au régime défini au 2° de l'article L. 181-1 ;
 
-10° Titulaires d'un avantage de vieillesse à compter du 1er juillet 1998, quel
-que soit leur lieu de résidence en France métropolitaine ou dans les
-départements d'outre-mer, qui ont relevé du régime local d'assurance maladie
-durant vingt trimestres d'assurance au sens de la législation applicable au
-régime général d'assurance vieillesse pendant les cinq années qui précèdent leur
-départ en retraite ou leur cessation d'activité, sous réserve qu'ils justifient
-de la plus longue durée d'affiliation au régime général d'assurance vieillesse
-ou au régime défini par le 2° de l'article L. 181-1.
+10° Titulaires d'un avantage de vieillesse ne remplissant pas les conditions
+fixées à l'alinéa précédent, quel que soit leur lieu de résidence en France
+métropolitaine ou dans les départements d'outre-mer, qui ont relevé du régime
+local d'assurance maladie pendant au moins soixante trimestres d'assurance au
+sens de la législation applicable au régime général d'assurance vieillesse et
+qui en demandent le bénéfice dans un délai et selon des modalités déterminés par
+décret, sous réserve qu'ils justifient de la plus longue durée d'affiliation au
+régime général d'assurance vieillesse ou au régime défini au 2° de l'article L.
+181-1 ;
+
+11° Titulaires d'un avantage de vieillesse au titre d'une législation française
+ou au titre d'une législation française et d'une législation d'un ou plusieurs
+autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace
+économique européen, quel que soit leur lieu de résidence en France
+métropolitaine ou dans les départements d'outre-mer, qui ont bénéficié, en
+qualité de travailleur frontalier selon le règlement (CEE) n° 1408/71 du Conseil
+du 14 juin 1971 précité, de prestations équivalentes à celles servies par le
+régime général et le régime local d'assurance maladie soit pendant les cinq
+années précédant leur départ en retraite ou leur cessation d'activité, soit
+pendant dix années durant les quinze précédant ce départ en retraite ou cette
+cessation d'activité, sous réserve qu'ils justifient de la plus longue durée
+d'affiliation à un régime obligatoire d'assurance vieillesse des travailleurs
+salariés en tenant compte des périodes d'assurance au titre des législations des
+autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace
+économique européen.
 
 Les dispositions des 9° et 10° sont applicables dans les mêmes conditions aux
 retraités anciens salariés du Port autonome de Strasbourg mentionnés au 3°.

@@ -6,10 +6,14 @@ cause de rupture par l'employeur du contrat de travail.
 
 Le licenciement par l'employeur d'un salarié exerçant les fonctions de
 conseiller prud'homme ou ayant cessé ses fonctions depuis moins de six mois est
-soumis à la procédure prévue par l'article L. 412-18 du présent code [*délai de
-protection*]. Il en est de même du licenciement des candidats aux fonctions de
-conseiller prud'homme dès la publication des candidatures et pendant une durée
-de trois mois.
+soumis à la procédure prévue par l'article L. 412-18 du présent code. Il en est
+de même du licenciement des candidats aux fonctions de conseiller prud'homme.
+Cette disposition est applicable dès que l'employeur a reçu notification de la
+candidature du salarié ou lorsque le salarié fait la preuve que l'employeur a eu
+connaissance de l'imminence de sa candidature, et pendant une durée de trois
+mois après la publication des candidatures par le préfet. Le bénéfice de cette
+protection ne peut être invoqué que par les candidats dont le nom figure sur la
+liste déposée.
 
 Lorsque le conseiller prud'homme salarié est titulaire d'un contrat à durée
 déterminée ou d'un contrat de travail temporaire, il bénéficie des mêmes

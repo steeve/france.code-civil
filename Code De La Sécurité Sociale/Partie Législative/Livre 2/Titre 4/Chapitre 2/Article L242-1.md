@@ -27,8 +27,7 @@ Ne seront pas comprises dans la rémunération les prestations de sécurité soc
 versées par l'entremise de l'employeur.
 
 Les contributions des employeurs destinées au financement des prestations
-complémentaires de retraite et de prévoyance, y compris les abondements des
-employeurs aux plans d'épargne retraite sont exclues de l'assiette des
+complémentaires de retraite et de prévoyance sont exclues de l'assiette des
 cotisations mentionnées au premier alinéa ci-dessus pour la partie inférieure à
 un montant fixé par décret.
 

@@ -1,7 +1,7 @@
 Article D910-18
 ----
-Le comité régional de la formation professionnelle, de la promotion sociale et
-de l'emploi se compose :
+Le comité de coordination régional de l'emploi et de la formation
+professionnelle se compose :
 
 1° Du préfet de région ou de son représentant ;
 

@@ -25,12 +25,21 @@ des employeurs ;
 
 4° L'avis donné au représentant de l'Etat dans le département lorsqu'il y a lieu
 de réunir plusieurs cantons afin de former des circonscriptions groupant au
-moins cinquante électeurs du deuxième collège en application du deuxième alinéa
-de l'article L. 723-18 ;
+moins cent électeurs du deuxième collège en application du deuxième alinéa de
+l'article L. 723-18 ;
 
 5° La conclusion de conventions de gestion aux fins d'assurer, pour le compte de
 tiers, des services se rattachant à la protection sociale des salariés.
 
-La même règle est applicable au comité de la protection sociale des non-salariés
-en ce qui concerne les délibérations relatives à la remise des pénalités et des
-majorations de retard des cotisations sociales des non-salariés.
+De même, ne peuvent être prises qu'après avis conforme du comité de la
+protection sociale des non-salariés les délibérations du conseil
+d'administration de la caisse portant sur :
+
+a) Les dépenses relatives à la prévention des accidents du travail et des
+maladies professionnelles ;
+
+b) La remise des pénalités et des majorations de retard des cotisations sociales
+des non-salariés ;
+
+c) La conclusion de conventions relatives à la gestion de la protection sociale
+des non-salariés.

@@ -4,7 +4,13 @@ A l'expiration du contrat conclu pour une durée déterminée, il ne peut être
 recouru, pour pourvoir le poste du salarié dont le contrat a pris fin, ni à un
 contrat à durée déterminée ni à un contrat de travail temporaire défini au
 chapitre IV du présent titre avant l'expiration d'une période égale au tiers de
-la durée de ce contrat [*contrats successifs, délai*] renouvellement inclus.
+la durée de ce contrat [*contrats successifs, délai*] renouvellement inclus si
+la durée de ce contrat, renouvellement inclus, est au moins égale à quatorze
+jours et avant l'expiration d'une période égale à la moitié de la durée du
+contrat, renouvellement inclus, si la durée de ce contrat, renouvellement
+inclus, est inférieure à quatorze jours. Pour l'appréciation du délai devant
+séparer les deux contrats, il est fait référence aux jours d'ouverture de
+l'entreprise ou de l'établissement concernés.
 
 Les dispositions de l'alinéa ci-dessus ne sont pas applicables, lorsque le
 contrat de travail à durée déterminée est conclu pour assurer le remplacement

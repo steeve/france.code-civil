@@ -30,7 +30,9 @@ associations syndicales de propriétaires dont l'objet est agricole et, d'une
 manière générale, de tout groupement professionnel agricole, ainsi que de toute
 société ou groupement créé après le 31 décembre 1988, dans leur champ
 d'activité, par les organismes précités, à condition que leur participation
-constitue plus de 50 % du capital ;
+constitue plus de 50 % du capital, de même que les personnels non titulaires de
+l'établissement "Domaine de Pompadour" dont les contrats ont été transférés à
+l'Etablissement public Les Haras nationaux ;
 
 7° Apprentis et, sous réserve des dispositions de l'article L. 962-4 du code du
 travail, stagiaires relevant du régime des assurances sociales agricoles occupés

@@ -30,8 +30,10 @@ lucrative au regard des articles L. 125-1 et L. 125-3.
 
 Dans le cas prévu au 2° ci-dessus, et lorsque les associations assurent la
 fourniture de prestations de services à des personnes physiques, les
-dispositions de l'article L. 322-4-7 ne sont pas applicables [*contrat
-emploi-solidarité*].
+dispositions de l'article L. 322-4-7 ne sont pas applicables.
+
+Les associations intermédiaires sont dispensées de la condition d'activité
+exclusive mentionnée au premier alinéa.
 
 II. - Les entreprises dont les activités concernent exclusivement les tâches
 ménagères ou familiales doivent également être agréées par l'Etat lorsqu'elles
@@ -53,8 +55,5 @@ auxquelles sont soumis les agréments des associations et des entreprises dont
 l'activité concerne la garde d'enfants ou l'assistance aux personnes âgées ou
 handicapées.
 
-Ce décret précise les conditions dans lesquelles les associations
-intermédiaires, agréées à la date de l'entrée en vigueur de la loi n° 96-63 du
-29 janvier 1996 en faveur du développement des emplois de services aux
-particuliers, poursuivent leur activité, pour des emplois qui, en raison de leur
-nature, n'exigent pas un diplôme ou un agrément, jusqu'au 31 décembre 1999.
+Ce décret précise les conditions dans lesquelles les associations intermédiaries
+sont agréées dans ce domaine.
