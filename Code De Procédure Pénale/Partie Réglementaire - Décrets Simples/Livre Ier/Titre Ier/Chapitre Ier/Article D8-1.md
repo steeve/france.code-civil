@@ -25,3 +25,5 @@ d'étrangers sans titre ;
 l'information et de la communication ;
 
 10° Office central chargé des disparitions inquiétantes de personnes.
+
+11° Office central chargé des personnes recherchées ou en fuite.
