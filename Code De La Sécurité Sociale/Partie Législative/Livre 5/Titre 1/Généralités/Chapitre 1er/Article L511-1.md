@@ -19,5 +19,3 @@ Les prestations familiales comprennent :
 8°) l'allocation de parent isolé ;
 
 9°) l'allocation parentale d'éducation.
-
-10°) l'allocation de garde d'enfant à domicile.
