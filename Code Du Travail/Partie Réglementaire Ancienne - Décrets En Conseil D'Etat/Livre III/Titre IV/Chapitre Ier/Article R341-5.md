@@ -1,10 +1,12 @@
 Article R341-5
 ----
-La carte temporaire dite carte A, donne à son titulaire le droit d'exercer dans
-le ou les départements indiqués dans ce document l'activité professionnelle ou,
-le cas échéant , les activités professionnelles salariées qui y sont énumérées.
+Sauf s'il en bénéficie de plein droit en application des dispositions des
+articles 15 et 16 de l'ordonnance n° 45-2658 du 2 novembre 1945, le travailleur
+étranger qui sollicite la délivrance d'une carte de résident doit joindre à sa
+demande un contrat ou une promesse de contrat de travail précisant la
+profession, le salaire offert, la durée hebdomadaire du travail et le lieu
+effectif d'emploi.
 
-La carte A a une validité d'un an [*durée*]. Elle est renouvelable.
-
-Les demandes de renouvellement doivent être présentées au service compétent un
-mois avant la date d'expiration de la carte [*délai*].
+A cette occasion, le travailleur étranger peut être appelé à justifier de
+l'activité professionnelle qu'il a effectivement exercée au cours des années
+précédentes.
