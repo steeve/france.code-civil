@@ -1,12 +1,7 @@
 Article R232-6
 ----
-La présente sous-section fixe les règles relatives à l'éclairage et à
-l'éclairement :
+Les locaux fermés affectés au travail doivent [*obligation*] être chauffés
+pendant la saison froide.
 
-1° Des locaux affectés au travail et de leurs dépendances, notamment les
-passages et escaliers ;
-
-2° Des espaces extérieurs où sont effectués des travaux permanents ;
-
-3° Des zones et voies de circulation extérieures empruntées de façon habituelle
-pendant les heures de travail.
+Le chauffage doit être assuré de telle façon qu'il maintienne une température
+convenable et ne donne lieu à aucune émanation délétère.
