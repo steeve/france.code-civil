@@ -49,42 +49,34 @@ des aéronefs. Cet agrément porte notamment sur :
 
 - l'approbation des matériels pour remise en service.
 
-4° Pour les entreprises assurant l'exploitation des aéronefs, l'agrément des
-aptitudes techniques résulte, en ce qui concerne les entreprises de transport
-aérien, de la délivrance du certificat de transporteur aérien exigé par
-l'article 9 du règlement (C.E.E.) n° 2407/92 susvisé.
+4° Pour les entreprises effectuant les activités de transport aérien public,
+l'agrément des aptitudes techniques résulte, sauf pour les cas visés au III de
+l'article R. 330-1, de la délivrance du certificat de transporteur aérien exigé
+par l'article R. 330-1-1.
 
-Le certificat de transporteur aérien ainsi que le certificat d'agrément prévu
-par les règles relatives à l'utilisation d'aéronefs par des entreprises autres
-que les entreprises de transport aérien sont délivrés après enquête technique
-portant sur les dispositions (organisation générale, moyens humains et
-matériels, procédures, documentation) prises par l'entreprise pour se conformer
-aux règles d'utilisation notamment en ce qui concerne :
+Le certificat de transporteur aérien ainsi que toutes les autorisations qui lui
+sont associées par les règles relatives à l'utilisation des aéronefs sont
+délivrés après enquête technique portant sur les dispositions (organisation
+générale, moyens humains et matériels, procédures, documentation) prises par
+l'entreprise pour se conformer aux règles d'utilisation, notamment en ce qui
+concerne :
 
 a) Le personnel navigant, la composition et les conditions techniques d'emploi
 des équipages, la conduite des vols ;
 
-b) Le matériel volant, ses équipements, y compris ceux de secours et de
-sauvetage, ses instruments de bord, leur entretien ;
+b) Le matériel volant, ses équipements y compris ceux de secours et de
+sauvetage, ses instruments de bord et leur entretien ;
 
 c) Les conditions d'emploi des aéronefs, les limitations liées à leurs
-performances, leur chargement (y compris le transport de marchandises
-réglementées) ;
+performances et à leur chargement, y compris le transport des marchandises
+réglementées ;
 
 d) L'application des règles de circulation aérienne dans tous les espaces
 utilisés.
 
-Les obligations d'agrément mentionnées aux 1° à 4° du présent article
-s'appliquent dans les domaines et aux dates fixés ci-après :
-
-- à compter du 1er janvier 1997, pour la conception d'aéronefs et d'équipements
-d'aéronefs ;
-
-- à compter du 1er janvier 1998, pour la conception des modifications d'aéronefs
-et d'équipements d'aéronefs ;
-
-- à compter du 1er juin 1998, pour la production d'aéronefs et la fabrication
-d'éléments d'aéronefs ;
-
-- à la date de publication du présent décret, pour l'entretien et l'utilisation
-des aéronefs utilisés en transport public.
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer sa signature
+pour prendre les décisions administratives individuelles prévues par le présent
+article ou celles qui sont requises pour les autres entreprises assurant
+l'exploitation des aéronefs par les règles relatives à l'utilisation des
+aéronefs aux chefs des services déconcentrés de l'aviation civile et aux
+fonctionnaires placés sous leur autorité.
