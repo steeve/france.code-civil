@@ -9,5 +9,5 @@ d'honneur.
 Ses ressources sont constituées par les cotisations de ses membres, les
 subventions du département, des communes, de l'Etat, les dons et legs.
 
-Le conseil d'administration comporte deux membres [*nombre*] des conseils de
-famille des pupilles de l'Etat.
+Le conseil d'administration comporte deux membres des conseils de famille des
+pupilles de l'Etat.

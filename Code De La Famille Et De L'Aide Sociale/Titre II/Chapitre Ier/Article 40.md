@@ -12,8 +12,17 @@ leur équilibre ;
 sociale, des actions collectives visant à prévenir la marginalisation et à
 faciliter l'insertion ou la promotion sociale des jeunes et des familles ;
 
-3° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à
-leur orientation, en collaboration avec leur famille ou leur représentant légal.
+3° Mener en urgence des actions de protection en faveur des mineurs visés au
+deuxième alinéa (1°) du présent article ;
+
+4° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à
+leur orientation, en collaboration avec leur famille ou leur représentant légal
+;
+
+5° Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions
+de prévention des mauvais traitements à l'égard des mineurs et, sans préjudice
+des compétences de l'autorité judiciaire, organiser le recueil des informations
+relatives aux mineurs maltraités et participer à la protection de ceux-ci.
 
 Pour l'accomplissement de ses missions, et sans préjudice de ses responsabilités
 vis-à-vis des enfants qui lui sont confiés, le service d'aide sociale à

@@ -1,16 +1,17 @@
 Article 68
 ----
-La rétribution de la nourrice ou de la gardienne à laquelle est confié un
-pupille comprend une rémunération fixe et des allocations éventuelles dites
-primes de survie ou de bons soins dont les taux sont fixés sur la proposition du
-directeur départemental de la population et de l'aide sociale.
+Le président du conseil général met en place, après concertation avec le
+représentant de l'Etat dans le département, un dispositif permettant de
+recueillir en permanence les informations relatives aux mineurs maltraités et de
+répondre aux situations d'urgence, selon des modalités définies en liaison avec
+l'autorité judiciaire et les services de l'Etat dans le département.
 
-Le minimum de la rémunération fixe est déterminé par arrêté du ministre de la
-Santé publique et de la Population.
+L'ensemble des services et établissements publics et privés susceptibles de
+connaître des situations de mineurs maltraités participent à cette coordination.
+Le président du conseil général peut, dans les mêmes conditions, requérir la
+collaboration des professionnels et des associations concourant à la protection
+de l'enfance et de la famille.
 
-La prime de survie est acquise lorsque le pupille a dix-huit mois, elle est
-proportionnelle au nombre de mois pendant lesquels la nourrice a gardé l'enfant.
-
-Lorsque le pupille a quatorze ans, une prime de bons soins peut être accordée à
-la gardienne si elle l'a élevé avec soin pendant cinq ans au moins et l'a envoyé
-régulièrement à l'école [*condition*].
+La collecte, la conservation et l'utilisation de ces informations ne peuvent
+être effectuées que pour assurer les missions prévues au sixième alinéa (5°) de
+l'article 40.

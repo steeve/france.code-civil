@@ -9,7 +9,7 @@ de ressources suffisantes.
 Elle est accordée aux femmes enceintes confrontées à des difficultés médicales
 ou sociales et financières, lorsque leur santé ou celle de l'enfant l'exige.
 
-Elle peut concourir à prévenir une interruption volontaire de grossesse [*IVG*].
+Elle peut concourir à prévenir une interruption volontaire de grossesse.
 
 Elle peut être accordée aux mineurs émancipés et aux majeurs âgés de moins de
 vingt et un ans, confrontés à des difficultés sociales.

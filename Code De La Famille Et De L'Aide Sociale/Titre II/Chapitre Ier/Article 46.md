@@ -1,7 +1,7 @@
 Article 46
 ----
 Sont pris en charge par le service de l'aide sociale à l'enfance sur décision du
-président du conseil général [*bénéficiaires*] :
+président du conseil général :
 
 1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de
 vie habituel ;
@@ -15,7 +15,7 @@ l'article 10 et du 4° de l'article 15 de l'ordonnance n° 45-174 du 2 février
 1945 relative à l'enfance délinquante ;
 
 4° Les femmes enceintes et les mères isolées avec leurs enfants de moins de
-trois ans [*âge limite*] qui ont besoin d'un soutien matériel et psychologique.
+trois ans qui ont besoin d'un soutien matériel et psychologique.
 
 Peuvent être également pris en charge à titre temporaire par le service chargé
 de l'aide sociale à l'enfance les mineurs émancipés et les majeurs âgés de moins

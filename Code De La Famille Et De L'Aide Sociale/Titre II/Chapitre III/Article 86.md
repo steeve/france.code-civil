@@ -14,3 +14,8 @@ du dossier au profit d'une autre juridiction, elle porte cette décision à la
 connaissance des présidents des conseils généraux concernés. Le département
 siège de la juridiction désormais saisie prend en charge les frais afférents à
 l'exécution de la mesure.
+
+Le département chargé de la prise en charge financière d'une mesure, en
+application des deuxième et troisième alinéas ci-dessus, assure celle-ci selon
+le tarif en vigueur dans le département où se trouve le lieu de placement de
+l'enfant.

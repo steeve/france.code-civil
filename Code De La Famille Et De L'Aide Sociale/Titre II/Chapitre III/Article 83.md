@@ -8,5 +8,5 @@ Sous réserve d'une décision judiciaire contraire, sont dispensés des obligati
 énoncées aux articles 205, 206 et 207 du code civil les pupilles de l'Etat qui
 auront été élevés par le service de l'aide sociale à l'enfance jusqu'à la fin de
 la scolarité obligatoire, à moins que les frais d'entretien occasionnés par le
-pupille remis ultérieurement à ses parents n'aient pas été remboursés au
+pupille remis ultérieurement à ses parents n'aient été remboursés au
 département.

@@ -2,7 +2,7 @@ Article 62
 ----
 La remise d'un enfant au service de l'aide sociale à l'enfance dans les cas
 prévus aux 1°, 2°, 3° et 4° de l'article 61 donne lieu à l'établissement d'un
-procès-verbal.
+procès-verbal [*condition de forme*].
 
 Il doit être mentionné au procès-verbal que les père ou mère, ou la personne qui
 a remis l'enfant, ont été informés :
