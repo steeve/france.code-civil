@@ -1,6 +1,6 @@
 Article 39 H
 ----
-Les agents de change et les établissements de crédit ou organismes habilités à
+Les sociétés de bourse et les établissements de crédit ou organismes habilités à
 détenir et à négocier des valeurs mobilières pour le compte des particuliers
 doivent déclarer à l'administration le montant global, compte non tenu des
 frais, des ventes des titres ou des droits visés à l'article 92-B du code

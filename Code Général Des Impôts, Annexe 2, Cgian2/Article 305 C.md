@@ -12,82 +12,35 @@ Les opérations qui ne figurent sur l'extrait que pour mémoire, aux termes de l
 disposition qui précède, sont reprises en tête de l'extrait suivant.
 
 MODELE D'EXTRAIT (Modèle B)
-------------------------------------------------------------------- : MENTIONS
-OBLIGATOIRES :
 
-:-----------------------------------------------------------------:
 
-: NUMERO : DATE : NATURE : : MONTANT :
+MENTIONS OBLIGATOIRES
 
-: du : de : de : ECHEANCE : de :
+Numéro du répertoire (col. 1)
 
-: répertoire : l'opération : l'opération : : l'opération :
+Date de l'opération (col. 2)
 
-: : : (1) : : (2) :
+Nature de l'opération (1) (col. 3)
 
-: 1 : 2 : 3 : 4 : 5 :
+Echéance (col. 4)
 
-:------------:-------------:-------------:----------:-------------:
+Montant de l'opération (2) (col. 5)
 
-: : : : : :
+Désignation (3) ou du prestataire de services d'investissement ou du mandataire
+substitué ou de la personne qui a fait la contrepartie de l'opération (col. 6)
 
-: : : : : :
+Numéro au répertoire des opérations compensées (col. 7)
 
-: : : : : :
+Montant du droit (col. 8)
 
-: : : : : :
+Total des opérations (col. 1 à 5)
 
-: : : : : :
+Total des droits (col. 6 à 8).
 
-: : : : : :
+(1) Opérations au comptant, ou opérations à terme, ou prime abandonnée, ou
+report, ou compensation.
 
-: : : : :-------------:
+(2) Valeur des titres, déduction faite du non-libéré, ou valeur des primes
+abandonnées.
 
-: TOTAL DES OPERATIONS ... : :
-
-------------------------------------------------------------------:
-
-: (1) Opérations au comptant, ou opérations à terme, ou prime :
-
-: abandonnée, ou report, ou compensation. :
-
-: (2) Valeur des titres, déduction faite du non-libéré, ou valeur :
-
-: des primes abandonnées. :
-
-------------------------------------------------------------------- MODELE
-D'EXTRAIT (MODELE B)
--------------------------------------------------------------------- :
-DESIGNATION (3) : NUMERO : MONTANT :
-
-: ou de l'agent de change : au répertoire : :
-
-: ou du mandataire substitué : des : du :
-
-: ou de la personne qui a fait : opérations : :
-
-: la contrepartie de l'opération : compensées : droit :
-
-: 6 : 7 : 8 :
-
-:-----------------------------------:----------------:-------------:
-
-: : : :
-
-: : : :
-
-: : : :
-
-: : : :
-
-: : : :
-
-: : :-------------:
-
-: TOTAL DES DROITS ... : :
-
-:------------------------------------------------------------------:
-
-: (3) Avec numéros de bordereau ou de répertoire. :
-
---------------------------------------------------------------------
+(3) Avec numéros de bordereau ou de répertoire.
