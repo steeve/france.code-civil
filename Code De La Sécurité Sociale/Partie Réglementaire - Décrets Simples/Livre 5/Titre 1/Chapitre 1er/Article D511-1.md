@@ -15,19 +15,23 @@ documents suivants en cours de validité :
 - carte de séjour de ressortissant d'un Etat membre de la Communauté économique
 européenne ;
 
+- carte de séjour portant la mention : Communauté européenne ;
+
+- carte de séjour portant la mention : Espace économique européen ;
+
 - certificat de résidence de ressortissant algérien ;
 
 - récépissé de demande de renouvellement de l'un des titres ci-dessus ;
 
+- récépissé de demande de titre de séjour valant autorisation de séjour d'une
+durée de six mois renouvelable portant la mention :
+
+"reconnu réfugié" ;
+
 - récépissé de demande de titre de séjour d'une durée de six mois renouvelable
-portant la mention " étranger admis au séjour au titre de l'asile ;
+portant la mention étranger admis au séjour au titre de l'asile ;
 
 - autorisation provisoire de séjour d'une validité supérieure à trois mois ;
-
-- carte diplomatique ;
-
-- carte " corps consulaire , " organisations internationales et autres " cartes
-spéciales délivrées par le ministère des affaires étrangères ;
 
 - titre d'identité d'Andorran délivré par le commissaire de la République des
 Pyrénées-Orientales ;
@@ -35,4 +39,4 @@ Pyrénées-Orientales ;
 - passeport monégasque revêtu d'une mention du consul général de France à Monaco
 valant autorisation de séjour ;
 
-- livret spécial, livret ou carnet de circulation. "
+- livret spécial, livret ou carnet de circulation.
