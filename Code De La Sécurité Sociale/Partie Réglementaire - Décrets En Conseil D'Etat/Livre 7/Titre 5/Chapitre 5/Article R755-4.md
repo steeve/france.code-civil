@@ -1,6 +1,6 @@
-Article R531-10
+Article R755-4
 ----
-Sous réserve des dispositions des articles R. 531-11 à R. 531-14 et des alinéas
+Sous réserve des dispositions des articles R. 755-8 à R. 755-11 et des alinéas
 suivants du présent article, les ressources prises en considération s'entendent
 du total des revenus nets catégoriels retenus pour l'établissement de l'impôt
 sur le revenu d'après le barème des revenus taxés à un taux proportionnel ou
