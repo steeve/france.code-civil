@@ -14,8 +14,8 @@ financièrement rattaché.
 
 Le montant des avances ne peut dépasser :
 
-150 000 francs (1 500 F) en ce qui concerne les foyers de pensionnés de guerre
-et anciens combattants ;
+228,67 euros en ce qui concerne les foyers de pensionnés de guerre et anciens
+combattants ;
 
-250 000 francs (2 500 F) en ce qui concerne les écoles de rééducation
-professionnelle et les cottages sanitaires de Saint-Gobain.
+381,12 euros en ce qui concerne les écoles de reconversion professionnelle et
+les cottages sanitaires de Saint-Gobain.

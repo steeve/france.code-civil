@@ -1,7 +1,7 @@
 Article D549
 ----
 Les recettes de l'école sont divisées en recettes ordinaires et en recettes
-extraordinaires [*ressources financières*].
+extraordinaires.
 
 Les recettes ordinaires en espèces comprennent :
 

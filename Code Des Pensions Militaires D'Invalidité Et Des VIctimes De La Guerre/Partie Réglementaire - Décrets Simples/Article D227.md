@@ -3,7 +3,7 @@ Article D227
 La rééducation professionnelle est assurée dans les conditions fixées par le
 présent code, sous l'une des formes suivantes :
 
-1° Par les écoles de rééducation professionnelle (art. D. 526 à D. 533) ;
+1° Par les écoles de reconversion professionnelle (art. D. 526 à D. 533) ;
 
 2° Par le placement chez l'employeur sous la surveillance des offices
 départementaux des anciens combattants et victimes de guerre avec ou sans
