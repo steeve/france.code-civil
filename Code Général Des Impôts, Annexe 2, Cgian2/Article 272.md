@@ -7,3 +7,6 @@ finances et du ministre chargé des départements d'outre-mer, les transferts de
 mélasse de canne à sucre en vue de la distillation sont également prohibés entre
 les départements d'outre-mer, entre les territoires d'outre-mer et entre les
 départements et territoires d'outre-mer.
+
+Les transferts de jus de canne à sucre en vue de la distillation de rhum sont
+prohibés à l'intérieur des départements d'outre-mer à l'exclusion de la Réunion.
