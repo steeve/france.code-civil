@@ -14,31 +14,44 @@ doivent représenter au moins 10 p. 100 du capital de la société émettrice ; 
 prix de revient et ce pourcentage s'apprécient à la date de mise en paiement des
 produits de la participation.
 
-Si, à la date mentionnée à l'alinéa précédent, la participation dans le capital
-de la société émettrice est réduite à moins de 10 p. 100 du fait de l'exercice
-d'options de souscription d'actions dans les conditions prévues à l'article
-208-7 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, le
-régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau
-atteint à la suite de la première augmentation de capital suivant cette date et
-au plus tard dans un délai de trois ans.
+Si, à la date mentionnée au premier alinéa, la participation dans le capital de
+la société émettrice est réduite à moins de 10 p. 100 du fait de l'exercice
+d'options de souscription d'actions dans les conditions prévues à l'article 208
+7 ((modifié)) (M) de la loi n° 66-537 du 24 juillet 1966 sur les sociétés
+commerciales, le régime des sociétés mères lui reste applicable si ce
+pourcentage est à nouveau atteint à la suite de la première augmentation de
+capital suivant cette date et au plus tard dans un délai de trois ans.
 
 c. Les titres de participation doivent avoir été souscrits à l'émission. A
 défaut, la personne morale participante doit avoir pris l'engagement de les
 conserver pendant un délai de deux ans.
 
+((Lorsque les titres de participation sont apportés sous le bénéfice du régime
+prévu par l'article 210 A, la société cessionnaire peut, par déclaration
+expresse, se substituer à la société apporteuse dans l'engagement mentionné à
+l'alinéa précédent.
+
+((Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7
+bis de l'article 38 et 2 de l'article 115 sont réputés détenus jusqu'à la
+cession des titres reçus en échange.
+
+((Le délai mentionné au premier alinéa du présent c n'est pas interrompu en cas
+de fusion entre la personne morale participante et la société émettrice si
+l'opération est placée sous le régime prévu à l'article 210 A)) (M).
+
 Les titres prêtés dans les conditions du chapitre V de la loi n° 87-416 du 17
 juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au
 contrat de prêt pour l'application du régime fiscal des sociétés mères.
 
-((De même, les valeurs, titres ou effets qui sont mis en pension dans les
+De même, les valeurs, titres ou effets qui sont mis en pension dans les
 conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant diverses
 dispositions relatives à la Banque de France, à l'assurance, au crédit et aux
 marchés financiers, ne peuvent être pris en compte pour l'application du régime
-défini au présent article par les parties à l'opération de pension)) (M).
+défini au présent article par les parties à l'opération de pension.
 
 2. 3. 4. (Abrogés).
 
-4 bis (Abrogé).
+4. bis (Abrogé).
 
 5. (Abrogé).
 
@@ -49,7 +62,7 @@ développement régional ;
 
 b. b bis. (Abrogés).
 
-b ter. Aux produits des titres auxquels ne sont pas attachés des droits de vote
+b. ter Aux produits des titres auxquels ne sont pas attachés des droits de vote
 (1).
 
 c. (Périmé)
@@ -63,7 +76,7 @@ e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le
 financement des télécommunications visées à l'article 1er de la loi n° 69-1160
 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une
 société immobilière pour le commerce et l'industrie en application du quatrième
-alinéa de l'article 208-3° quinquies.
+alinéa de l'article 208 3° quinquies.
 
 f. Aux produits distribués aux associés des sociétés agréées pour le financement
 des économies d'énergie (Sofergie) et résultant de l'exercice des activités
@@ -80,13 +93,9 @@ pendant les périodes ci-après :
 
 1° Pendant vingt-cinq ans à compter de leur émission, pour les action souscrites
 en espèces et entièrement libérées par les sociétés participantes avant le 1er
-janvier 1966 [*date limite*] ;
+janvier 1966 ;
 
-2° Jusqu'à l'expiration de la vingt-cinquième année suivant celle de
-l'achèvement des constructions, pour les actions attribuées avant le 1er janvier
-1966 aux sociétés participantes en rémunération de l'apport d'immeubles dont les
-revenus sont temporairement exonérés de l'impôt sur les sociétés en vertu de
-l'article 210 ter.
+2° (Disposition périmée).
 
 3° Jusqu'au 31 décembre 1985, pour les actions acquises ou souscrites et
 libérées par les sociétés participantes avant la promulgation de la loi n°
@@ -98,9 +107,9 @@ En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal
 participation n'est exigé pour l'application du régime défini au présent
 article.
 
-8. (Transféré sous le paragraphe 6-d du ci-dessus).
+8. (Transféré sous le paragraphe 6 d du ci-dessus).
 
-(M) Modification de la loi 93-1444.
+(M) Modification. [*Cf. Instruction 1995-06-29 4H-10-95.*]
 
 (1) Ces dispositions s'appliquent pour la détermination des résultats des
 exercices ouverts à compter du 1er janvier 1993.
