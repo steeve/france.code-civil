@@ -1,6 +1,6 @@
 Article L571-17
 ----
-I. - Indépendamment des poursuites pénales, l'autorité administrative compétente
+I.-Indépendamment des poursuites pénales, l'autorité administrative compétente
 peut, après mise en demeure et procédure contradictoire, prendre toutes mesures
 destinées à faire cesser les troubles résultant de l'émission ou de la
 propagation de bruits ayant pour origine tout objet ou dispositif non pourvu de
@@ -11,7 +11,7 @@ l'interdiction de mise sur le marché, la saisie en tout lieu où il se trouve, 
 demander au juge que l'objet ou le dispositif soit rendu inutilisable ou
 détruit.
 
-II. - Indépendamment des poursuites pénales encourues, lorsque l'autorité
+II.-Indépendamment des poursuites pénales encourues, lorsque l'autorité
 administrative compétente a constaté l'inobservation des dispositions prévues à
 l'article L. 571-6 ou des règlements et décisions individuelles pris pour son
 application, elle met en demeure l'exploitant ou le responsable de l'activité
@@ -31,6 +31,6 @@ l'activité, à l'exécution des mesures prescrites ;
 
 3° Suspendre l'activité jusqu'à exécution des mesures prescrites.
 
-III. - Les sommes consignées en application des dispositions du 1° du II peuvent
+III.-Les sommes consignées en application des dispositions du 1° du II peuvent
 être utilisées pour régler les dépenses entraînées par l'exécution d'office des
 mesures prévues au 2° du II.

@@ -18,5 +18,5 @@ A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an 
 compter de la décision d'ajournement, le tribunal prononce les peines et
 liquide, s'il y a lieu, l'astreinte. Il peut, le cas échéant, supprimer
 l'astreinte ou en réduire le montant. L'astreinte est recouvrée par le comptable
-du Trésor comme une amende pénale. Elle ne peut donner lieu à contrainte par
-corps.
+du Trésor comme une amende pénale. Elle ne peut donner lieu à contrainte
+judiciaire.
