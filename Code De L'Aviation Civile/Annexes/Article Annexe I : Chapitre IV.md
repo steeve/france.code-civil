@@ -4,22 +4,42 @@ CHAPITRE IV : Règles de vol à vue (VFR)
 
 4.1. Conditions météorologiques de vol à vue et limitations de vitesse
 
-Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols VFR
-doivent être effectués dans des conditions de visibilité et de distance par
+4.1.1. Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols
+VFR doivent être effectués dans des conditions de visibilité et de distance par
 rapport aux nuages au moins égales à celles qui sont spécifiées dans le tableau
-ci-après.
+de l'appendice D.
 
-(Tableau non reproduit, consulter le fac-similé du décret n° 91-660 page 9394).
+4.1.2. Les vols VFR appliquent les limitations de vitesse spécifiées dans le
+tableau de l'appendice D, sauf clairance contraire en espace aérien contrôlé de
+classe C ou D.
 
 4.2. Vol VFR spécial.
 
-4.2.1. Sauf clairance (VFR spécial) accordée par l'organisme du contrôle de la
-circulation aérienne intéressé, un aéronef en vol VFR ne doit pas décoller d'un
-aérodrome situé dans une zone de contrôle, ni atterrir sur cet aérodrome ni
-évoluer dans la zone de contrôle si la visibilité au sol est inférieure à 8
-kilomètres ou le plafond inférieur à 450 mètres (1 500 pieds).
+4.2.1. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans la
+circulation d'aérodrome d'un aérodrome contrôlé situé dans une zone de contrôle,
+ou dans une zone de contrôle spécialisée, lorsque les paramètres communiqués par
+l'organisme de la circulation aérienne font état d'une visibilité au sol
+inférieure à 5 kilomètres ou d'un plafond inférieur à 450 mètres (1 500 pieds).
 
-4.2.2. Une clairance de vol VFR spécial peut être délivrée dans des espaces
+4.2.2. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans
+une zone de contrôle, ou dans une zone de contrôle spécialisée, quand le pilote
+estime que les conditions météorologiques de vol à vue ne sont pas réunies ou ne
+vont plus l'être.
+
+4.2.3. En VFR spécial, la règle établissant un rapport entre la visibilité et la
+distance parcourue en trente secondes de vol, telle qu'elle est définie dans le
+tableau de l'appendice D pour les espaces aériens non contrôlés au-dessous du
+plus élevé des deux niveaux 900 mètres (3 000 pieds) au-dessus du niveau moyen
+de la mer ou 300 mètres (1 000 pieds) au-dessus de la surface, s'applique dans
+les espaces aériens contrôlés.
+
+4.2.4. Quand la clairance VFR spécial comporte le suivi d'un itinéraire publié,
+le pilote doit respecter les consignes particulières relatives à cet itinéraire.
+
+Note. - En l'absence de niveaux à respecter sur les itinéraires publiés, les
+règles de niveau minimal en vol VFR continuent à s'appliquer en VFR spécial.
+
+4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces
 aériens contrôlés autres que les zones de contrôle dans des conditions fixées
 par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du
 ministre chargé de l'aviation civile et du ministre chargé des armées pour les
@@ -122,9 +142,9 @@ de vol 200 et au-dessus.
 
 4.7. Niveau de croisière.
 
-4.7.1. Sous réserve des dispositions de 4.5 et sauf dans les cas prévus en 4.7.2
-et 4.7.3, les vols VFR, lorsqu'ils évoluent en croisière au-dessus du plus élevé
-des deux niveaux suivants :
+4.7.1. Sous réserve des dispositions de 4.5 et sauf dans les cas prévus en
+4.7.2, 4.7.3 et 4.7.4, les vols VFR, lorsqu'ils évoluent en croisière au-dessus
+du plus élevé des deux niveaux suivants :
 
 900 mètres (3 000 pieds) au-dessus du niveau moyen de la mer ou 300 mètres (1
 000 pieds) au-dessus de la surface, doivent choisir l'un des niveaux de
@@ -138,15 +158,13 @@ circulation aérienne peuvent, en outre, délivrer à l'intention des vols VFR d
 clairances qui utilisent des niveaux IFR.
 
 4.7.3. En espace aérien contrôlé de classe D, les niveaux ne correspondant pas à
-la route suivie peuvent être utilisés lorsque cette disposition a été portée à
-la connaissance des usagers par la voie de l'information aéronautique ou sur
-demande du pilote commandant de bord.
+la route suivie peuvent être utilisés sur clairance de l'organisme de contrôle
+ou lorsque cette disposition a été portée à la connaissance des usagers par la
+voie de l'information aéronautique.
 
-4.7.4. Dans le cas où une altitude de transition est établie et est applicable
-aux vols VFR, la valeur de l'altitude de transition et les méthodes de
-détermination du niveau de transition et du premier niveau de vol utilisable en
-croisière au-dessus du niveau de transition sont portées à la connaissance des
-usagers par la voie de l'information aéronautique.
+4.7.4. En espace aérien contrôlé de classe E, les niveaux ne correspondant pas à
+la route suivie peuvent être utilisés lorsque cette disposition a été portée à
+la connaissance des usagers par la voie de l'information aéronautique.
 
 4.8. Vol VFR dans un espace aérien contrôlé : de classe A, B, C ou D.
 
@@ -160,16 +178,10 @@ Sauf dérogation accordée par l'autorité compétente des services de la
 circulation aérienne, un aéronef en vol VFR ne doit pas pénétrer dans un espace
 aérien contrôlé de classe A.
 
-4.8.2. Espace aérien contrôlé de classe B ou C.
+4.8.2. Espace aérien contrôlé de classes B, C ou D.
 
 Outre les dispositions de 3.6.2.1, une nouvelle clairance doit être demandée
 avant toute modification des éléments de vol.
-
-4.8.3. Espace aérien contrôlé de classe D.
-
-Outre les dispositions de 3.6.2.1., le pilote commandant de bord doit informer
-l'organisme de la circulation aérienne concerné avant toute modification des
-éléments de vol.
 
 4.9. Radiocommunications.
 

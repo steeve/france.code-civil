@@ -10,68 +10,7 @@ aux articles D. 131-1 à D. 131-10 du code de l'aviation civile.
 
 2.2. Services de la circulation aérienne.
 
-2.2.1. Objet des services de la circulation aérienne.
-
-Les services de la circulation aérienne ont pour objet :
-
-1. De prévenir les abordages entre les aéronefs ;
-
-2. De prévenir les collisions, sur l'aire de manoeuvre entre les aéronefs et les
-obstacles, fixes ou mobiles ;
-
-3. D'accélérer et ordonner la circulation aérienne ;
-
-4. De fournir les avis et renseignements utiles à l'exécution sûre et efficace
-des vols ;
-
-5. D'alerter les organismes appropriés lorsque les aéronefs ont besoin de l'aide
-des organismes de recherche et de sauvetage, et de prêter à ces organismes le
-concours nécessaire.
-
-2.2.2. Subdivision des services de la circulation aérienne.
-
-Les services de la circulation aérienne comprennent trois services :
-
-- le service du contrôle de la circulation aérienne ;
-
-- le service d'information de vol ;
-
-- le service d'alerte.
-
-2.2.2.1. Le service du contrôle de la circulation aérienne correspond aux
-fonctions définies en 2.2.1, alinéas 1, 2 et 3. Il se subdivise lui-même de la
-manière suivante :
-
-1. Le contrôle régional, correspondant aux fonctions définies en 2.2.1, alinéas
-1 et 3, est assuré au bénéfice des vols contrôlés sauf pour les parties de ces
-vols indiquées aux alinéas 2 et 3 ci-dessous ;
-
-2. Le contrôle d'approche, correspondant aux fonctions définies en 2.2.1,
-alinéas 1 et 3, est assuré au bénéfice des vols contrôlés pour les parties de
-ces vols se rattachant à l'arrivée et au départ ;
-
-3. Le contrôle d'aérodrome, correspondant aux fonctions définies en 2.2.1,
-alinéas 1, 2 et 3, est assuré au bénéfice de la circulation d'aérodrome sauf
-pour les parties de vol indiquées à l'alinéa 2 ci-dessus.
-
-2.2.2.2. Le service d'information de vol correspond aux fonctions définies en
-2.2.1, alinéa 4.
-
-2.2.2.3. Le service d'alerte correspond aux fonctions définies en 2.2.1, alinéa
-5.
-
-2.2.3. Procédures employées par les organismes de la circulation aérienne.
-
-2.2.3.1. Les procédures employées par les organismes de la circulation aérienne
-afin d'assurer les précédents services au bénéfice des aéronefs appartenant à la
-circulation aérienne générale sont fixées par arrêté du ministre chargé de
-l'aviation civile.
-
-2.2.3.2. Des procédures complémentaires employées par les organismes de la
-circulation aérienne rendant simultanément des services à la circulation
-aérienne générale et à la circulation aérienne militaire peuvent être établies
-par arrêté conjoint du ministre chargé de l'aviation civile et du ministre
-chargé des armées.
+(Abrogé)
 
 2.3. Espaces aériens et aérodromes où sont assurés : les services de la
 circulation aérienne.
@@ -102,6 +41,10 @@ d'information de vol.
 Les portions de région d'information de vol où le service consultatif de la
 circulation aérienne est assuré sont appelées espaces aériens à service
 consultatif.
+
+Les secteurs d'information de vol sont des portions de région d'information de
+vol dans lesquelles le service d'information de vol et le service d'alerte sont
+rendus aux aéronefs qui y circulent.
 
 2.3.1.2. Espaces aériens contrôlés.
 
@@ -149,8 +92,9 @@ a) Espace aérien contrôlé de classe A.
 
 Espace aérien où sont admis les vols IFR et où ne sont pas admis les vols VFR.
 
-Dans cet espace, les organismes du contrôle de la circulation aérienne assurent
-des espacements entre les vols IFR.
+Dans cet espace, les organismes du contrôle de la circulation
+
+aérienne assurent des espacements entre les vols IFR.
 
 b) Espace aérien contrôlé de classe B.
 
@@ -294,7 +238,11 @@ importants ;
 - régions supérieures de contrôle (UTA) pour des régions de contrôle, établies à
 l'intérieur d'une région supérieure d'information de vol ;
 
-- régions de contrôle océaniques pour des régions de contrôle situées
+- régions inférieures de contrôle (LTA) pour des régions de contrôle établies à
+l'intérieur d'une région d'information de vol, quand il existe une région
+supérieure de contrôle ;
+
+- régions de contrôle océaniques (OCA) pour des régions de contrôle situées
 principalement en haute mer.
 
 2.3.3.2.7. Zones de contrôle.
@@ -326,8 +274,12 @@ contrôle de la circulation aérienne militaire et où la cohabitation et la
 densité des deux types de circulation aérienne rendent nécessaires, afin
 d'assurer les services de la circulation aérienne, la mise en place de mesures
 complémentaires telles que prévues en 2.2.3.2 sont appelées " régions de
-contrôle spécialisées " ou " zones de contrôle spécialisées " (selon le cas
-S/CTA, S/CTR, S/TMA, etc.).
+contrôle spécialisées ou " zones de contrôle spécialisées (selon le cas S/CTA,
+S/CTR, S/TMA, etc.).
+
+Dans les espaces aériens contrôlés spécialisés, les services de la circulation
+aérienne peuvent être assurés par un organisme de la circulation aérienne
+générale en dehors des heures d'activités de l'organisme militaire.
 
 2.3.4. Création.
 
@@ -343,7 +295,9 @@ des zones dangereuses sont fixées par arrêté du délégué à l'espace aérie
 Les mesures d'interdiction de survol sont prises après avis du délégué à
 l'espace aérien par arrêté du ministre chargé de l'aviation civile et, lorsque
 des raisons d'ordre militaire sont invoquées, par arrêté conjoint du ministre
-chargé de l'aviation civile et du ministre de la défense.
+chargé de l'aviation
+
+civile et du ministre de la défense.
 
 Toutefois, lorsqu'elles présentent un caractère urgent et qu'en outre la zone
 interdite ne dépasse pas une hauteur de 1 000 mètres au-dessus du sol et ne
@@ -374,8 +328,18 @@ aérodromes AFIS.
 contrôle sont identifiées au moyen du nom de l'organisme qui assure les services
 de la circulation aérienne, ou d'une particularité géographique.
 
-2.3.6.2. L'identification d'un aérodrome comporte le nom d'une agglomération
-avoisinante.
+2.3.6.2. Un aérodrome est désigné par un nom principal qui est celui de la ville
+proche la plus importante, ou d'une île, desservie par l'aérodrome.
+
+L'adjonction d'un nom, et exceptionnellement deux, complémentaires, peut être
+admise ; dans ce cas, un aérodrome peut être désigné sur les cartes
+aéronautiques par un nom abrégé, nom servant :
+
+- à former les indicatifs d'appel des organismes de la circulation aérienne de
+cet aérodrome ;
+
+- à désigner l'aérodrome pour les communications en auto-information dans la
+circulation d'aérodrome.
 
 2.4. Organismes assurant les services de la circulation aérienne.
 
@@ -530,6 +494,9 @@ près par rapport à l'heure UTC.
 Les organismes de la circulation aérienne doivent conserver tous les documents
 et enregistrements relatifs à la fourniture des services de la circulation
 aérienne pendant une période d'au moins 30 jours.
+
+" Les documents et enregistrements relatifs à un incident, un accident ou une
+infraction doivent être conservés au moins jusqu'à la clôture de l'enquête. "
 
 Les documents et enregistrements relatifs à un incident ou un accident doivent
 être conservés au moins jusqu'à la clôture de l'enquête.

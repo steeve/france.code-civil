@@ -72,6 +72,11 @@ Une telle clairance lui permet de poursuivre son vol en VMC en s'affranchissant
 des espacements réglementaires tout en assurant visuellement sa propre
 séparation vis-à-vis de tous les autres aéronefs en vol IFR.
 
+" Elle peut également lui permettre de s'affranchir des trajectoires
+préétablies. "
+
+27. Insérer le paragraphe suivant :
+
 5.4.2. Une clairance VMC :
 
 - ne vaut que pour une partie déterminée du vol ;
@@ -90,35 +95,14 @@ poursuivre son vol en VMC ;
 
 b) Obtenir une clairance complémentaire avant de voler en IMC.
 
-5.5. Utilisation d'un aérodrome en vol IFR.
+" 5.4.4. Quand il bénéficie d'une clairance VMC, le pilote doit manoeuvrer de
+façon à éviter tout incident dû à la turbulence de sillage :
 
-5.5.1. Règles générales.
+" a) En ne créant pas de danger du fait de sa propre turbulence de sillage ;
 
-a) En espace aérien contrôlé sauf clairance contraire, un aéronef en vol IFR
-doit :
+" b) En tenant compte de la turbulence de sillage des autres aéronefs. "
 
-- à l'arrivée, se conformer aux procédures d'approche aux instruments publiées
-ou approuvées pour l'aérodrome utilisé, à moins que le pilote n'ait demandé et
-obtenu une clairance pour effectuer une approche à vue conformément à 5.5.2. ;
-
-- au départ, se conformer aux procédures de départ publiées ou approuvées et
-notamment aux itinéraires de départ normalisés lorsqu'ils existent.
-
-b) Hors espace aérien contrôlé, un aéronef en vol IFR ne peut évoluer en dessous
-du plus haut des deux niveaux suivants :
-
-900 mètres (3 000 pieds) au-dessus du niveau moyen de la mer ou 300 mètres (1
-000 pieds) au-dessus de la surface, que pour des besoins du décollage, de
-l'atterrissage et des manoeuvres qui s'y rattachent. En dessous ce niveau :
-
-- si une procédure d'approche aux instruments est publiée ou approuvée pour
-l'aérodrome utilisé, l'aéronef doit s'y conformer à moins qu'il n'évolue en VMC
-et qu'il ne décide d'effectuer une approche à vue conformément à 5.5.2 ;
-
-- en l'absence de procédure de départ ou d'approche aux instruments publiée ou
-approuvée, l'aéronef doit maintenir VMC.
-
-5.5.2. Approche à vue.
+5.5. Approche à vue
 
 Un aéronef en vol IFR peut ne pas exécuter une procédure d'approche aux
 instruments publiée ou approuvée ou ne pas en poursuivre l'exécution pour
@@ -133,9 +117,20 @@ c) Le pilote juge que la visibilité et le plafond permettent une approche à vu
 et estime l'atterrissage possible ;
 
 d) De nuit, le plafond n'est pas inférieur à l'altitude minimale de secteur ou,
-le cas échéant, de la trajectoire de ralliement empruntée, sous réserve du
-respect des éventuelles consignes particulières propres à l'approche à vue de
-nuit sur l'aérodrome considéré.
+le cas échéant, de la trajectoire de ralliement empruntée ;
+
+e) En espace aérien contrôlé, le pilote a reçu une clairance d'approche à vue ;
+
+f) Le pilote respecte les éventuelles consignes particulières propres à
+l'approche à vue sur l'aérodrome considéré et les restrictions d'évolution vers
+la piste émises par l'organisme de contrôle de la circulation aérienne.
+
+Un pilote peut exécuter une approche à vue même en l'absence de procédure aux
+instruments.
+
+Quand il exécute une approche à vue, l'aéronef continue à bénéficier des
+services de la circulation aérienne correspondant à la classe de l'espace dans
+lequel il évolue.
 
 5.6. Radiocommunications.
 
@@ -165,7 +160,7 @@ a) Poursuivre son vol en VMC ;
 b) Atterrir sur l'aérodrome approprié le plus proche ;
 
 c) Informer les organismes de la circulation aérienne conformément aux
-dispositions de 3.7.4.2.
+dispositions de 3.7.5.2.
 
 5.6.2.2.2. Dans les conditions météorologiques de vol aux instruments, ou
 lorsque les conditions météorologiques sont telles qu'il juge impossible de
@@ -222,3 +217,8 @@ vol à vue en employant l'expression " annule IFR " ;
 - de communiquer à cet organisme les modifications à apporter au plan de vol en
 vigueur qui, par suite de l'annulation IFR, devient automatiquement VFR, le vol
 se transformant alors en vol VFR avec plan de vol.
+
+5.9. Limitation de vitesse
+
+Sauf clairance contraire en espace aérien contrôlé de classe D, un vol IFR
+applique la limitation de vitesse prévue au tableau de l'appendice D.
