@@ -14,19 +14,22 @@ travail ;
 
 c) La déclaration relative à la participation des employeurs au développement de
 la formation professionnelle continue et, le cas échéant, la déclaration
-spéciale concernant le crédit d'impôt formation professionnelle ;
+spéciale concernant le crédit d'impôt formation professionnelle ainsi que les
+informations sur la formation figurant au bilan social visé à l'article L. 438-1
+;
 
 d) Les conclusions éventuelles des services de contrôle visés à l'article L.
-950-8 du code du travail sur le caractère libératoire des dépenses imputées sur
+991-3 du code du travail sur le caractère libératoire des dépenses imputées sur
 la participation des entreprises et/ou le caractère éligible des dépenses
 exposées au titre du crédit d'impôt formation professionnelle ;
 
 e) Le bilan des actions comprises dans le plan de formation du personnel de
 l'entreprise pour l'année antérieure et pour l'année en cours comportant la
-liste des actions de formation réalisées, complétée par les informations
-relatives :
+liste des actions de formation et des bilans de compétences réalisés, complétée
+par les informations relatives :
 
-- aux organismes de formation ;
+- aux organismes de formation et aux organismes chargés de réaliser des bilans
+de compétences ;
 
 - aux conditions d'organisation de ces actions ;
 
@@ -36,16 +39,17 @@ relatives :
 sexe ;
 
 f) Les informations, pour l'année antérieure et l'année en cours, relatives aux
-congés individuels de formation qui ont été accordés aux salariés de
-l'entreprise, aux conditions dans lesquelles ces congés ont été accordés ou
-reportés ainsi qu'aux résultats obtenus ;
+congés individuels de formation, aux congés de bilan de compétences et aux
+congés pour enseignement qui ont été accordés aux salariés de l'entreprise,
+notamment leur objet, leur durée et leur coût, aux conditions dans lesquelles
+ces congés ont été accordés ou reportés ainsi qu'aux résultats obtenus ;
 
 g) Le bilan, pour l'année antérieure et l'année en cours, en matière d'accueil,
-d'insertion et de formation professionnelle des jeunes dans l'entreprise ;
+d'insertion et de formation des jeunes dans l'entreprise ainsi qu'en matière
+d'accueil des enseignants et des conseillers d'orientation ;
 
 En ce qui concerne les bénéficiaires de contrat de qualification, d'adaptation à
-un emploi et de stage d'initiation à la vie professionnelle, il précise
-[*mentions obligatoires*] :
+un emploi et d'orientation, il précise [*mentions obligatoires*] :
 
 - les conditions dans lesquelles se sont déroulés les contrats, et notamment :
 
