@@ -1,7 +1,8 @@
 Article R5143-19
 ----
 Tout changement du titulaire de l'enregistrement est soumis pour approbation au
-directeur général de l'Agence du médicament.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
 
 La demande comporte, outre les mentions prévues aux a et b de l'article R.
 5143-13 :

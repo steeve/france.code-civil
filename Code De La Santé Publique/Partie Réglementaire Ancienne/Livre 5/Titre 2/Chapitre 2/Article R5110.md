@@ -10,21 +10,21 @@ autorisation préalable est également nécessaire pour toute modification des
 formes pharmaceutiques ou, le cas échéant, de la nature des produits figurant
 dans l'autorisation initiale.
 
-L'autorité compétente pour délivrer l'autorisation telle que désignée à
-l'article R. 5108 notifie sa décision au demandeur dans un délai de trente jours
-à compter de la date de réception de la demande. Lorsqu'une enquête sur place
-est nécessaire, ce délai peut être prorogé dans la limite de quatre-vingt-dix
-jours par l'autorité compétente. Cette décision de prorogation doit être
-notifiée au demandeur avant l'expiration du précédent délai.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé notifie sa décision au demandeur dans un délai de trente jours à compter
+de la date de réception de la demande. Lorsqu'une enquête sur place est
+nécessaire, ce délai peut être prorogé dans la limite de quatre-vingt-dix jours
+par par le directeur général. Cette décision de prorogation doit être notifiée
+au demandeur avant l'expiration du précédent délai.
 
 Pour les établissements pharmaceutiques dépendant d'entreprises ou organismes
-mentionnés aux 1° à 3° de l'article R. 5106, le silence gardé par l'autorité
-compétente désignée à l'article R. 5108 vaut refus d'autorisation à l'expiration
-de l'un des délais mentionnés au troisième alinéa ci-dessus, courant à compter
-de la date de réception de la demande.
+mentionnés aux 1° à 3° de l'article R. 5106, le silence gardé par le directeur
+général vaut refus d'autorisation à l'expiration de l'un des délais mentionnés
+au troisième alinéa ci-dessus, courant à compter de la date de réception de la
+demande.
 
 Pour les établissements pharmaceutiques dépendant d'entreprises ou organismes
-mentionnés aux 4° à 13° de l'article R. 5106, le silence gardé par le ministre
-vaut autorisation tacite à l'expiration de l'un des délais mentionnés au
+mentionnés aux 4° à 13° de l'article R. 5106, le silence gardé par le directeur
+général vaut autorisation tacite à l'expiration de l'un des délais mentionnés au
 troisième alinéa ci-dessus, courant à compter de la date de réception de la
 demande.

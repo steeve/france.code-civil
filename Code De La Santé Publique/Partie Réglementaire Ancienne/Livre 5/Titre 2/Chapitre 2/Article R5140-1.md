@@ -3,9 +3,10 @@ Article R5140-1
 Toute demande d'autorisation de mise sur le marché présentée pour des
 médicaments de haute technologie issus de certains procédés biotechnologiques
 figurant sur une liste A fixée sur proposition du directeur général de l'Agence
-du médicament, par arrêté conjoint du ministre chargé de la santé et du ministre
-chargé de l'industrie est soumise pour avis au comité des spécialités
-pharmaceutiques [*autorité compétente*] mentionné à l'article R. 5136-1.
+française de sécurité sanitaire des produits de santé, par arrêté conjoint du
+ministre chargé de la santé et du ministre chargé de l'industrie est soumise
+pour avis au comité des spécialités pharmaceutiques [*autorité compétente*]
+mentionné à l'article R. 5136-1.
 
 Toutefois, cette disposition ne s'applique pas lorsque le demandeur certifie que
 ni lui, ni aucune autre personne physique ou morale avec laquelle il est lié,

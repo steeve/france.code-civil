@@ -1,7 +1,8 @@
 Article R5136
 ----
-Le directeur général de l'Agence du médicament [*autorité compétente*] refuse
-l'autorisation de mise sur le marché [*motifs*] :
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé [*autorité compétente*] refuse l'autorisation de mise sur le marché
+[*motifs*] :
 
 a) Si la documentation et les renseignements fournis à l'appui de la demande ne
 satisfont pas aux prescriptions de la présente section et, en particulier, à

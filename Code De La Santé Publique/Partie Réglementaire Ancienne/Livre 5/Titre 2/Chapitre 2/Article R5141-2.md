@@ -1,6 +1,4 @@
 Article R5141-2
 ----
-Les membres de la commission mentionnée à l'article R. 5140 ne peuvent être ni
-salariés d'un établissement de préparation de produits pharmaceutiques, ni avoir
-un intérêt financier direct ou indirect dans un tel établissement
-[*incompatibilité*].
+Le ministre chargé de la santé peut demander l'avis de la commission sur toute
+question ayant trait au domaine de compétence de cette commission.

@@ -14,7 +14,8 @@ c) Le directeur général du Centre national d'études vétérinaires et
 alimentaires, ayant comme suppléant le directeur de l'Agence nationale du
 médicament vétérinaire ;
 
-d) Le directeur général de l'Agence du médicament, ou son représentant.
+d) Le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé, ou son représentant.
 
 2. Neuf membres nommés pour une durée de trois ans par le ministre chargé de la
 santé et par le ministre chargé de l'agriculture en raison de leur compétence

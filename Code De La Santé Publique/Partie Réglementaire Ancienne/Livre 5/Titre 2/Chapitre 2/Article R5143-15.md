@@ -1,8 +1,8 @@
 Article R5143-15
 ----
 Lorsque le dossier de la demande d'enregistrement est incomplet ou irrégulier,
-le directeur général de l'Agence du médicament invite le demandeur à compléter
-ou à régulariser celui-ci.
+le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé invite le demandeur à compléter ou à régulariser celui-ci.
 
 Le directeur général notifie sa décision au demandeur dans un délai de 210 jours
 à compter de la présentation d'un dossier complet et régulier. Le silence gardé

@@ -1,7 +1,6 @@
 Article R5001
 ----
-La Pharmacopée, auparavant dénommée Codex, visée aux articles L. 512, L. 568 et
-L. 569 du code de la santé publique est un recueil contenant :
+La pharmacopée mentionnée à l'article L. 511-3 est un recueil comprenant :
 
 La nomenclature des drogues, des médicaments simples et composés, des articles
 officinaux ;
@@ -21,10 +20,9 @@ desdits médicaments ainsi que les règles de leur conditionnement, leurs
 principales incompatibilités et un ensemble de données qui peuvent être utiles
 au pharmacien pour leur préparation et leur délivrance.
 
-La Pharmacopée visée par les dispositions législatives mentionnées ci-dessus est
-constituée par la dernière édition ayant fait l'objet de l'arrêté ministériel
-prévu à l'article R. 5003 et par les éditions précédentes maintenues en vigueur
-par ledit arrêté.
+La Pharmacopée est constituée par la dernière édition ayant fait l'objet de
+l'arrêté ministériel prévu à l'article R. 5003 et par les éditions précédentes
+maintenues en vigueur par ledit arrêté.
 
 Toute substance présentée sous une dénomination scientifique ou commune de la
 Pharmacopée en vigueur doit répondre aux spécifications de celle-ci.

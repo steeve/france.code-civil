@@ -1,8 +1,8 @@
 Article R5143-13
 ----
 Le dossier de demande d'enregistrement d'un médicament ou d'une série de
-médicaments mentionnés à l'article L. 601-3 est adressé à l'Agence du
-médicament. Il mentionne :
+médicaments mentionnés à l'article L. 601-3 est adressé à l'Agence française de
+sécurité sanitaire des produits de santé. Il mentionne :
 
 a) Le nom et l'adresse du demandeur et de l'exploitant du ou des médicaments et,
 lorsque celui-ci ne fabrique pas le ou les médicaments, le nom et l'adresse du

@@ -1,18 +1,21 @@
 Article R5054
 ----
 La commission chargée du contrôle de la publicité et de la diffusion de
-recommandations sur le bon usage des médicaments est composée de :
+recommandations sur le bon usage des médicaments siège auprès de l'Agence
+française de sécurité sanitaire des produits de santé et elle est composée de :
 
 1. Huit membres de droit :
 
-a) Le directeur général de l'Agence du médicament ou son représentant ;
+a) Le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé ou son représentant ;
 
 b) Le directeur général de la santé ou son représentant ;
 
 c) Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;
 
-d) Le directeur général des stratégies industrielles ou son représentant ;
+d) Le directeur général de l'industrie, des technologies de l'information et des
+postes ou son représentant ;
 
 e) Le directeur de la sécurité sociale ou son représentant ;
 
@@ -59,4 +62,6 @@ médicaments.
 Le président et le vice-président de la commission sont désignés parmi ses
 membres par le ministre chargé de la santé.
 
-Le vice-président supplée le président en cas d'empêchement.
+En cas d'empêchement du président et du vice-président, un président de séance
+est désigné par le directeur général de l'Agence française de sécurité sanitaire
+des produits de santé.

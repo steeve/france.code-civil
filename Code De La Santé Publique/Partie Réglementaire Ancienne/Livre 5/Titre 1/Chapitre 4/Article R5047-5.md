@@ -1,8 +1,8 @@
 Article R5047-5
 ----
-I. - Le directeur général de l'Agence du médicament peut mettre en demeure
-l'entreprise exploitant le médicament de modifier le contenu de la publicité
-dans un délai déterminé.
+I. - Le directeur général de l'Agence française de sécurité sanitaire des
+produits de santé peut mettre en demeure l'entreprise exploitant le médicament
+de modifier le contenu de la publicité dans un délai déterminé.
 
 En cas de non-respect de cette mise en demeure à l'issue de ce délai, et après
 avis de la commission mentionnée à l'article R. 5054, le directeur général peut

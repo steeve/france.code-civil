@@ -1,6 +1,5 @@
 Article R5141-4
 ----
-Sans préjudice du secret professionnel auquel sont astreints, dans les
-conditions prévues aux articles 226-13 et 226-14 du code pénal, les membres, les
-rapporteurs et les experts de la commission mentionnée à l'article R. 5140, les
-délibérations de celle-ci sont secrètes.
+Les délibérations de la commission sont confidentielles ; les membres de la
+commission et les personnes lui apportant leur concours sont astreints au secret
+professionnel dans les conditions prévues à l'article 226-13 du code pénal.

@@ -2,7 +2,7 @@ Article R5143-16
 ----
 L'enregistrement comprend le numéro d'enregistrement et les données mentionnées
 à l'article R. 5143-13 telles qu'elles ont été approuvées par le directeur
-général de l'Agence du médicament.
+général de l'Agence française de sécurité sanitaire des produits de santé.
 
 L'enregistrement est valable pour une durée de cinq ans. Il est renouvelable par
 période quinquennale sur demande du titulaire de l'enregistrement présentée au

@@ -1,8 +1,8 @@
 Article R5138
 ----
 Tout changement du titulaire de l'autorisation de mise sur le marché est
-subordonné à une autorisation du directeur général de l'Agence du médicament
-[*autorité compétente*].
+subordonné à une autorisation du directeur général de l'Agence française de
+sécurité sanitaire des produits de santé [*autorité compétente*].
 
 La demande comporte les mentions prévues à l'article R. 5128 du présent code et
 elle est accompagnée d'un dossier comprenant [*contenu*] :
@@ -41,7 +41,7 @@ avant que la fusion ou l'apport ne soit définitivement réalisé. Elles
 fournissent, à l'appui de leur demande, le protocole d'accord de principe
 concernant la fusion ou l'apport. Le transfert est accordé sous la condition
 suspensive de la réalisation définitive qui doit être notifiée au directeur
-général de l'Agence du médicament.
+général de l'Agence française de sécurité sanitaire des produits de santé.
 
 En cas de silence de l'administration, le transfert est réputé être autorisé
 [*tacitement*] à l'expiration d'un délai de deux mois.

@@ -1,10 +1,10 @@
 Article R5266-11
 ----
-Le directeur général de l'Agence du médicament peut, par décision motivée
-indiquant les voies et délais de recours, suspendre pour une période ne pouvant
-pas excéder un an [*durée*] ou retirer une autorisation. La décision de retrait
-ne peut intervenir qu'après que le titulaire de l'autorisation a été invité à
-fournir ses explications.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé peut, par décision motivée indiquant les voies et délais de recours,
+suspendre pour une période ne pouvant pas excéder un an [*durée*] ou retirer une
+autorisation. La décision de retrait ne peut intervenir qu'après que le
+titulaire de l'autorisation a été invité à fournir ses explications.
 
 Ces décisions interviennent lorsqu'il apparaît que le produit est nocif dans les
 conditions normales d'emploi ou que l'efficacité fait défaut ou que le produit
@@ -16,17 +16,18 @@ que les conditions prévues au présent chapitre ne sont pas ou ne sont plus
 remplies ou que les contrôles n'ont pas été effectués.
 
 La décision de suspension ou de retrait fait l'objet de toutes mesures de
-publicité que le directeur général de l'Agence du médicament juge nécessaire
-d'ordonner.
+publicité que le directeur général de l'Agence française de sécurité sanitaire
+des produits de santé juge nécessaire d'ordonner.
 
 Lorsque l'autorisation est suspendue ou retirée, le titulaire doit prendre
 toutes dispositions utiles notamment auprès des détenteurs de stocks, pour faire
 cesser la distribution du produit. Si ces dispositions n'interviennent pas dans
 des délais compatibles avec l'intérêt de la santé publique, le directeur général
-de l'Agence du médicament prend toutes mesures appropriées.
+de l'Agence française de sécurité sanitaire des produits de santé prend toutes
+mesures appropriées.
 
 Indépendamment des décisions de suspension ou de retrait d'autorisation, et pour
 les motifs qui justifient de telles décisions, le directeur général de l'Agence
-du médicament peut interdire la délivrance d'un produit en limitant, le cas
-échéant, cette interdiction aux seuls lots de fabrication faisant l'objet d'une
-contestation.
+française de sécurité sanitaire des produits de santé peut interdire la
+délivrance d'un produit en limitant, le cas échéant, cette interdiction aux
+seuls lots de fabrication faisant l'objet d'une contestation.

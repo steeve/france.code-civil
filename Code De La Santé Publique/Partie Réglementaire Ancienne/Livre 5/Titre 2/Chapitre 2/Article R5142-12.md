@@ -5,10 +5,10 @@ mentionnée à l'article L. 601, ou de l'autorisation temporaire d'utilisation
 mentionnée au b de l'article L. 601-2 accordée pour des médicaments importés ou
 de l'enregistrement mentionné à l'article L. 601-3, doit, avant son importation
 dans le territoire douanier, faire l'objet d'une autorisation d'importation
-délivrée par le directeur général de l'Agence du médicament en application de
-l'article 17 de la loi n° 92-1477 du 31 décembre 1992. Cette autorisation peut
-être refusée si le médicament présente ou est susceptible de présenter un risque
-pour la santé publique.
+délivrée par le directeur général de l'Agence française de sécurité sanitaire
+des produits de santé en application de l'article 17 de la loi n° 92-1477 du 31
+décembre 1992. Cette autorisation peut être refusée si le médicament présente ou
+est susceptible de présenter un risque pour la santé publique.
 
 Pour les produits finis, définis comme des médicaments ayant subi tous les
 stades de la fabrication y compris le conditionnement, une autorisation
@@ -23,6 +23,6 @@ sur présentation de l'autorisation précédente et de l'indication des opérati
 effectuées et de la quantité importée pendant la période.
 
 L'autorisation d'importation peut être suspendue ou supprimée par le directeur
-général de l'Agence du médicament. Sauf en cas d'urgence, ces décisions ne
-peuvent intervenir qu'après que le titulaire de l'autorisation a été mis à même
-de présenter ses observations.
+général de l'Agence française de sécurité sanitaire des produits de santé. Sauf
+en cas d'urgence, ces décisions ne peuvent intervenir qu'après que le titulaire
+de l'autorisation a été mis à même de présenter ses observations.

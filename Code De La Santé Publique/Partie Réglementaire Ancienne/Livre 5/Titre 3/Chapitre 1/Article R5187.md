@@ -26,7 +26,8 @@ celles mentionnées au 4° ;
 fabrication.
 
 Cet état, qui couvre l'année civile écoulée, est adressé au directeur général de
-l'Agence du médicament, au plus tard le 15 février [*date limite*].
+l'Agence française de sécurité sanitaire des produits de santé, au plus tard le
+15 février [*date limite*].
 
 L'autorisation prévue à l'article R. 5183 peut imposer à son titulaire
 l'établissement et la production au cours de chaque année [*périodicité*] civile

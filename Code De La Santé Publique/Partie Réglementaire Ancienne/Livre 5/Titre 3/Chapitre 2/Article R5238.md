@@ -6,8 +6,8 @@ obligations qui leur sont imposées.
 
 Le président de la commission peut demander à un ministre, au préfet du
 département ou, dans le cas de médicaments ou produits relevant de sa
-compétence, au directeur général de l'Agence du médicament de faire effectuer
-certains contrôles par des agents habilités relevant de leur autorité. Il reçoit
-copie des procès-verbaux. Dans les établissements relevant du ministre chargé de
-la défense, les contrôles prévus au présent article sont effectués par les
-autorités désignées par ce ministre.
+compétence, au directeur général de l'Agence française de sécurité sanitaire des
+produits de santé de faire effectuer certains contrôles par des agents habilités
+relevant de leur autorité. Il reçoit copie des procès-verbaux. Dans les
+établissements relevant du ministre chargé de la défense, les contrôles prévus
+au présent article sont effectués par les autorités désignées par ce ministre.

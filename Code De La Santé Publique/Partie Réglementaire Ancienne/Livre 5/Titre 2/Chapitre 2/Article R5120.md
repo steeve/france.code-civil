@@ -7,8 +7,9 @@ professionnel en ce qui concerne notamment la nature des produits étudiés, les
 essais, les personnes qui s'y prêtent et les résultats obtenus.
 
 Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux
-essais qu'au ministre chargé de la santé, aux inspecteurs de la pharmacie, au
-directeur général et aux inspecteurs de l'Agence du médicament.
+essais qu'au ministre chargé de la santé, aux pharmaciens inspecteurs de santé
+publique, au directeur général et aux inspecteurs de l'Agence française de
+sécurité sanitaire des produits de santé.
 
 Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans
 l'accord conjoint de l'expérimentateur ou de l'investigateur et du promoteur.

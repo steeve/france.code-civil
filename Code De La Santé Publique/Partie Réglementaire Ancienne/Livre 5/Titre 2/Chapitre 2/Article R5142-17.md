@@ -1,14 +1,16 @@
 Article R5142-17
 ----
 I. Lorsque, en application du deuxième alinéa de l'article L. 603, le directeur
-général de l'Agence du médicament envisage d'interdire l'exportation d'un
-médicament, il notifie au préalable son intention et ses motifs à
-l'établissement pharmaceutique effectuant l'exportation.
+général de l'Agence française de sécurité sanitaire des produits de santé
+envisage d'interdire l'exportation d'un médicament, il notifie au préalable son
+intention et ses motifs à l'établissement pharmaceutique effectuant
+l'exportation.
 
 Celui-ci dispose d'un délai d'un mois pour présenter ses observations.
 
-En cas d'urgence, le directeur général de l'Agence du médicament peut interdire
-immédiatement l'exportation pour une durée maximale de six mois.
+En cas d'urgence, le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé peut interdire immédiatement l'exportation pour
+une durée maximale de six mois.
 
 Les décisions d'interdiction sont motivées. Elle sont notifiées par le directeur
 général de l'agence à l'établissement pharmaceutique effectuant l'exportation

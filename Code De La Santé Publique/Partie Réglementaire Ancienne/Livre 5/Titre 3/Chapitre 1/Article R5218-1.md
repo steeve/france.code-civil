@@ -10,6 +10,6 @@ détournés, peuvent nécessiter un contrôle à certains stades de leur
 commercialisation ainsi que de leur prescription.
 
 Le ministre chargé de la santé sur proposition du directeur général de l'Agence
-du médicament fixe par arrêté, pour les médicaments ou produits contenant ces
-substances ou préparations, les dispositions du présent paragraphe qui leur sont
-applicables.
+française de sécurité sanitaire des produits de santé fixe par arrêté, pour les
+médicaments ou produits contenant ces substances ou préparations, les
+dispositions du présent paragraphe qui leur sont applicables.

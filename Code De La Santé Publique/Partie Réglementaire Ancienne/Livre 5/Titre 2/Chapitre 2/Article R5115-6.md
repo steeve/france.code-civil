@@ -13,11 +13,12 @@ mise sur le marché mentionnée à l'article L. 601, d'une autorisation mentionn
 a de l'article L. 601-2 ou d'un enregistrement mentionné à l'article L. 601-3
 veillent à ce que toutes les opérations de fabrication soient conduites dans le
 respect des données du dossier de cette autorisation ou de cet enregistrement
-acceptées par l'Agence du médicament. Ils sont tenus de réévaluer et, si
-nécessaire, de modifier leurs méthodes de fabrication et de contrôle en fonction
-des progrès scientifiques et techniques. Le cas échéant, le fabricant avise le
-titulaire de l'autorisation ou de l'enregistrement et, s'il est distinct,
-l'exploitant du médicament ou produit de ces modifications.
+acceptées par l'Agence française de sécurité sanitaire des produits de santé.
+Ils sont tenus de réévaluer et, si nécessaire, de modifier leurs méthodes de
+fabrication et de contrôle en fonction des progrès scientifiques et techniques.
+Le cas échéant, le fabricant avise le titulaire de l'autorisation ou de
+l'enregistrement et, s'il est distinct, l'exploitant du médicament ou produit de
+ces modifications.
 
 Lorsque des lots de médicaments ou produits bénéficiant des autorisations ou de
 l'enregistrement sont importés d'un autre Etat membre de la Communauté

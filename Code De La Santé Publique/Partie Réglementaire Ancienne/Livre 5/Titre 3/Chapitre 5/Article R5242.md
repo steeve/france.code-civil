@@ -38,4 +38,5 @@ les spéculums vaginaux sont délivrés aux sages-femmes sur demande écrite.
 Les demandes écrites et les ordonnances concernant les remèdes, substances et
 objets visés au 1° b, 2° et 3° du présent article devront être conservées
 pendant trois années [*durée*] par les pharmaciens et les négociants qui les
-auront exécutées, et tenues à la disposition des inspecteurs de la pharmacie.
+auront exécutées, et tenues à la disposition des pharmaciens inspecteurs de
+santé publique.

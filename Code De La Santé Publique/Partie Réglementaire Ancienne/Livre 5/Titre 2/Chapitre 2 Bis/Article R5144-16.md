@@ -1,8 +1,9 @@
 Article R5144-16
 ----
 Les centres régionaux de pharmacovigilance sont agréés par arrêtés du ministre
-chargé de la santé pris sur proposition du directeur général de l'Agence du
-médicament. L'arrêté agréant un centre détermine son territoire d'intervention.
+chargé de la santé pris sur proposition du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé L'arrêté agréant un centre
+détermine son territoire d'intervention.
 
 Pour être agréés, les centres régionaux de pharmacovigilance doivent être
 constitués au sein d'une structure de pharmacologie, de pharmacologie clinique
@@ -18,11 +19,10 @@ des dispositions du présent chapitre.
 
 Les modalités de fonctionnement des centres régionaux de pharmacovigilance,
 notamment les conditions dans lesquelles ils accomplissent les missions qui leur
-sont confiées par l'Agence du médicament, ainsi que la désignation de leurs
-représentants au comité technique mentionné à l'article R. 5144-12, font l'objet
-de conventions conclues entre le directeur général de l'Agence du médicament et
-les établissements de santé dans lesquels les centres sont agréés. Ces
-conventions doivent respecter les dispositions du présent chapitre et être
-conformes à une convention type établie par un arrêté du ministre chargé de la
-santé pris sur proposition du directeur général de l'Agence du médicament. Elles
-sont communiquées pour information au ministre chargé de la santé.
+sont confiées par l'Agence française de sécurité sanitaire des produits de
+santé, ainsi que la désignation de leurs représentants au comité technique
+mentionné à l'article R. 5144-12, font l'objet de conventions conclues entre le
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé et les établissements de santé dans lesquels les centres sont agréés. Ces
+conventions doivent respecter les dispositions du présent chapitre. Elles sont
+communiquées pour information au ministre chargé de la santé.

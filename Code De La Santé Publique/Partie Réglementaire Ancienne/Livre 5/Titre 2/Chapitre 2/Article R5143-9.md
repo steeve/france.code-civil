@@ -8,10 +8,11 @@ thérapeutique destiné à devenir disponible au niveau des sites d'action ;
 
 - bioéquivalence : l'équivalence des biodisponibilités.
 
-II. - Le directeur général de l'Agence du médicament peut exonérer des études de
-biodisponibilité chez l'homme visant à démontrer sa bioéquivalence avec une
-spécialité de référence, une spécialité dont il est prouvé qu'elle satisfait à
-l'un ou l'autre des critères suivants :
+II. - Le directeur général de l'Agence française de sécurité sanitaire des
+produits de santé peut exonérer des études de biodisponibilité chez l'homme
+visant à démontrer sa bioéquivalence avec une spécialité de référence, une
+spécialité dont il est prouvé qu'elle satisfait à l'un ou l'autre des critères
+suivants :
 
 a) Son dossier est une simple duplication du dossier d'autorisation de mise sur
 le marché de la spécialité de référence, et l'établissement pharmaceutique de

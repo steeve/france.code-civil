@@ -38,6 +38,6 @@ délivrance applicables à ce médicament en vertu de la réglementation frança
 5° Dans les autres cas, d'une lettre du demandeur justifiant la nécessité
 d'importer le médicament.
 
-Dans tous les cas, le directeur général de l'Agence du médicament peut requérir
-du demandeur toute information complémentaire nécessaire pour se prononcer sur
-la demande.
+Dans tous les cas, le directeur général de l'Agence française de sécurité
+sanitaire des produits de santé peut requérir du demandeur toute information
+complémentaire nécessaire pour se prononcer sur la demande.

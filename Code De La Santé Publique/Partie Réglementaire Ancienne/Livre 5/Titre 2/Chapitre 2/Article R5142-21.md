@@ -1,8 +1,9 @@
 Article R5142-21
 ----
 La demande tendant à obtenir l'autorisation temporaire d'utilisation prévue au a
-de l'article L. 601-2 est adressée à l'Agence du médicament par le titulaire des
-droits d'exploitation ou son mandataire.
+de l'article L. 601-2 est adressée à l'Agence française de sécurité sanitaire
+des produits de santé par le titulaire des droits d'exploitation ou son
+mandataire.
 
 Elle est accompagnée d'un dossier comprenant :
 

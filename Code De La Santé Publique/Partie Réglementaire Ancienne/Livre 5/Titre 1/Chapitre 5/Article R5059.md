@@ -1,19 +1,21 @@
 Article R5059
 ----
-Les pharmaciens, les médecins visés à l'article L. 594, les herboristes et tous
-détenteurs de produits pharmaceutiques diététiques, hygiéniques ou toxiques,
-sont tenus de présenter aux inspecteurs visés à l'article L. 557, les drogues,
-médicaments, remèdes et accessoires qu'ils possèdent dans leurs officines,
-dépôts, magasins, laboratoires et leurs dépendances.
+La requête tendant à la prorogation de la mesure de consignation, visée au
+deuxième alinéa de l'article L. 562, présentée par les pharmaciens inspecteurs
+de santé publique et les inspecteurs de l'Agence française de sécurité sanitaire
+des produits de santé, est portée devant le président du tribunal de grande
+instance dans le ressort duquel est situé le lieu où les produits ont été
+consignés ou devant le magistrat délégué à cet effet, qui est saisi sans forme.
 
-Les entrepreneurs de transport sont tenus de n'apporter aucun obstacle aux
-réquisitions pour prises d'échantillons et de présenter les titres de mouvement,
-lettres de voiture, récépissés, connaissements et déclarations dont ils sont
-détenteurs.
+L'ordonnance de prorogation de la mesure de consignation est notifiée par tous
+moyens au détenteur des produits consignés.
 
-Les administrations publiques sont tenues de fournir aux inspecteurs ci-dessus
-désignés tous les éléments d'information nécessaires à l'exécution des lois dont
-elles ont à contrôler l'application.
+La requête tendant à la mainlevée de la mesure de consignation, visée au
+troisième alinéa de l'article L. 562, est présentée sans forme par le détenteur
+des produits consignés.
 
-Les échantillons prélevés sont scellés et transmis conformément aux dispositions
-de la section II.
+Le président du tribunal de grande instance ou le magistrat délégué par lui
+recueille les observations de l'administration avant de se prononcer.
+
+La consignation est levée de plein droit par les inspecteurs dès lors que la
+conformité des produits consignés aux réglementations en vigueur est établie.

@@ -16,7 +16,8 @@ Un représentant du ministre de l'intérieur ;
 
 Un représentant du ministre chargé de la santé ;
 
-Un représentant de l'Agence du médicament ;
+Un représentant de l'Agence française de sécurité sanitaire des produits de
+santé ;
 
 Un représentant du ministre chargé du travail ;
 

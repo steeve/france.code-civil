@@ -1,6 +1,5 @@
 Article R5144-11
 ----
-Sans préjudice du secret professionnel auquel peuvent être astreints, dans les
-conditions prévues à l'article 226-13 du code pénal, les membres, les
-rapporteurs et les experts de la commission, les délibérations de celle-ci sont
-confidentielles.
+Les délibérations de la commission sont confidentielles ; les membres de la
+commission et les personnes lui apportant leur concours sont astreints au secret
+professionnel dans les conditions prévues à l'article 226-13 du code pénal.

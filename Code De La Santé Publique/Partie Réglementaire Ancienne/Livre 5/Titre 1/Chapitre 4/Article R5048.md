@@ -24,6 +24,6 @@ en son sein le contrôle de cette remise et le suivi des échantillons ;
 e) Chaque échantillon doit être accompagné d'une copie du résumé des
 caractéristiques du produit, mentionné à l'article R. 5128.
 
-Le directeur général de l'Agence du médicament peut restreindre, en raison d'un
-risque possible pour la santé publique, la distribution d'échantillons de
-certains médicaments.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé peut restreindre, en raison d'un risque possible pour la santé publique,
+la distribution d'échantillons de certains médicaments.

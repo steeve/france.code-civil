@@ -1,22 +1,16 @@
 Article R5108
 ----
-I. - L'autorisation d'ouverture d'un établissement pharmaceutique prévue au
-premier alinéa de l'article L. 598 est délivrée, après avis du conseil central
-compétent de l'ordre national des pharmaciens et après enquête de l'inspection
-compétente, par :
-
-1° Le directeur général de l'Agence du médicament pour les établissements se
-livrant à la fabrication, à l'importation ou à l'exploitation de médicaments, de
-générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 ou de
-produits mentionnés à l'article L. 658-11, ainsi que pour les établissements se
-livrant à la fabrication ou à l'importation de médicaments destinés à être
-expérimentés sur l'homme ;
-
-2° Le ministre chargé de la santé pour les autres établissements
-pharmaceutiques.
+I. - L'autorisation d'ouverture, prévue au premier alinéa de l'article L. 598,
+de tout établissement pharmaceutique d'une entreprise ou d'un organisme
+mentionné à l'article R. 5106 est délivrée par le directeur général de l'Agence
+française de sécurité sanitaire des produits de santé, après avis du conseil
+central compétent de l'ordre national des pharmaciens et après enquête de
+l'inspection de l'Agence française de sécurité sanitaire des produits de santé
+ou, dans le cas prévu au IV de l'article L. 793-10, de l'inspection régionale de
+la pharmacie.
 
 Si le conseil central de l'ordre national des pharmaciens n'a pas donné son avis
-dans un délai de deux mois, l'autorité compétente peut statuer.
+dans un délai de deux mois, le directeur général peut statuer.
 
 L'avis du conseil central n'est pas requis pour l'autorisation d'ouverture d'un
 établissement pharmaceutique dépendant de la Pharmacie centrale des armées ou

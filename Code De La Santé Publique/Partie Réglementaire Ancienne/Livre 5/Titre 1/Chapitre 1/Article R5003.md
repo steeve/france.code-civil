@@ -1,15 +1,10 @@
 Article R5003
 ----
-Une nouvelle édition de la Pharmacopée est publiée dès que l'évolution des
-sciences et des techniques la rend nécessaire. Un arrêté du ministre chargé de
-la santé publique rend ses dispositions obligatoires à partir d'une date qu'il
-détermine.
+Les dispositions de la Pharmacopée française et de la Pharmacopée européenne
+sont rendues obligatoires par arrêtés du ministre chargé de la santé, pris sur
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé.
 
-Entre deux éditions successives, des additions, suppressions ou modifications à
-la Pharmacopée peuvent être prononcées, après avis de la commission nationale,
-par arrêtés du ministre chargé de la santé publique, publiés au Journal
-officiel. Des suppléments peuvent en outre être préparés, publiés et rendus
-obligatoires dans les mêmes conditions que les éditions qu'ils complètent.
-
-L'Agence du médicament est chargée de l'édition de la Pharmacopée et de celle du
-formulaire national mentionné à l'article R. 5006.
+Lorsque ces arrêtés concernent la Pharmacopée française, la proposition du
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé intervient après avis de la Commission nationale de la pharmacopée.

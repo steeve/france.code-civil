@@ -12,5 +12,5 @@ les tribunaux de grande instance.
 
 L'intéressé a le droit de choisir son expert en dehors des listes officielles,
 mais s'il use de cette faculté, son choix est subordonné à l'agrément du juge
-d'instruction. Les experts doivent être pourvus du diplôme de pharmacien.
-L'ordonnance du juge d'instruction définit la mission donnée aux experts.
+d'instruction. L'ordonnance du juge d'instruction définit la mission donnée aux
+experts.

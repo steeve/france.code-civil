@@ -15,7 +15,8 @@ alinéa de l'article R. 5135 ;
 d) Est accompagnée du résumé des caractéristiques du produit, de l'étiquetage et
 de la notice ainsi que, le cas échéant, du protocole d'utilisation, mentionnés
 aux articles R. 5142-21 et R. 5142-22, tels qu'ils ont été approuvés par le
-directeur général de l'Agence du médicament.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé.
 
 II. - Pour les médicaments mentionnés au b de l'article L. 601-2, l'autorisation
 temporaire d'utilisation :

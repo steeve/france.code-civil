@@ -1,9 +1,11 @@
 Article R5115-13
 ----
-Chaque établissement pharmaceutique d'une entreprise exerçant l'activité de
-grossiste-répartiteur déclare au ministre chargé de la santé le territoire sur
-lequel il exerce son activité de répartition ainsi que toute modification
-ultérieure.
+Toute entreprise exerçant l'activité de grossiste-répartiteur déclare au
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé le territoire sur lequel chacun de ses établissements exerce son activité
+de répartition. Cette déclaration est effectuée au plus tard lors de l'ouverture
+de l'établissement ; elle est modifiée à l'occasion de tout changement de
+territoire de répartition.
 
 Toute commune dans laquelle l'établissement dessert habituellement au moins une
 officine fait partie de ce territoire.
@@ -32,5 +34,8 @@ exceptionnellement en cas d'urgence à une officine en dehors de son territoire
 de répartition.
 
 A titre exceptionnel et en l'absence d'autre source d'approvisionnement, le
-ministre chargé de la santé peut imposer à un établissement de livrer une
-officine de pharmacie située hors de son territoire de répartition.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé peut, de sa propre initiative, ou à la demande du représentant de l'Etat
+dans le département concerné après avis du directeur régional des affaires
+sanitaires et sociales, imposer à un établissement de livrer une officine de
+pharmacie située hors de son territoire de répartition.

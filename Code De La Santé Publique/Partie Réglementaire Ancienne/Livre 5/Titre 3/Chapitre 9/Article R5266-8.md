@@ -1,6 +1,7 @@
 Article R5266-8
 ----
-Le directeur général de l'Agence du médicament refuse l'autorisation :
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé refuse l'autorisation :
 
 a) Si les renseignements fournis à l'appui de la demande ne satisfont pas aux
 prescriptions du présent chapitre ;

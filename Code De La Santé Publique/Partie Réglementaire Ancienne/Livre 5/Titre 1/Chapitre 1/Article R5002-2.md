@@ -1,8 +1,8 @@
 Article R5002-2
 ----
-La commission peut faire appel à des rapporteurs et à des experts extérieurs à
-la commission et qu'elle choisit sur une liste établie par le directeur général
-de l'Agence du médicament.
+La commission peut faire appel à des experts, qui siègent avec voix consultative
+; le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé peut lui demander d'entendre des experts.
 
-Elle peut constituer des sous-commissions et des groupes de travail pour la
-préparation de ses délibérations.
+Des groupes de travail peuvent être créés pour préparer les délibérations et
+avis de la commission.

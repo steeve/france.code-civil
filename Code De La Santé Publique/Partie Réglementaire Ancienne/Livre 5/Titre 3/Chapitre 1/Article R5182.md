@@ -8,10 +8,11 @@ en raison d'usages abusifs, peuvent nécessiter un contrôle à certains stades 
 leur commercialisation.
 
 Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté pris sur
-proposition du directeur général de l'Agence du médicament, pour chacune de ces
-substances, les dispositions du présent paragraphe qui leur sont applicables.
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé, pour chacune de ces substances, les dispositions du présent
+paragraphe qui leur sont applicables.
 
 Une commission dite des stupéfiants et des psychotropes formule un avis sur
 toute question que lui soumet le ministre chargé de la santé ou le directeur
-général de l'Agence du médicament concernant l'application des dispositions du
-présent paragraphe.
+général de l'Agence française de sécurité sanitaire des produits de santé
+concernant l'application des dispositions du présent paragraphe.

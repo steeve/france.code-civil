@@ -1,5 +1,10 @@
 Article R5072
 ----
-Le résultat de l'analyse est adressé à l'autorité administrative qui l'a
-demandée et les conclusions du rapport sont communiquées au préfet du
-département d'où provient l'échantillon.
+Les résultats des analyses et les conclusions du rapport d'analyses sont
+communiqués aux agents auteurs du rapport ou du procès-verbal de prélèvement,
+ainsi qu'à l'Agence française de sécurité sanitaire des produits de santé dans
+le cas où celle-ci a désigné un autre établissement ou organisme spécialisé pour
+effectuer ces analyses.
+
+Le propriétaire ou détenteur des produits est informé des résultats des
+analyses.

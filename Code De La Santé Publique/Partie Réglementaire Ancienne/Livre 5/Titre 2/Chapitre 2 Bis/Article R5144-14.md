@@ -16,14 +16,16 @@ public hospitalier ou sont associés à son fonctionnement ;
 autres établissements de santé ou, à titre individuel, par les membres de
 professions de santé ;
 
-4° De transmettre au directeur général de l'Agence du médicament les
-informations recueillies en application des 1°, 2° et 3°, celles qui concernent
-des effets indésirables graves devant lui être transmises sans délai ;
+4° De transmettre au directeur général de l'Agence française de sécurité
+sanitaire des produits de santé les informations recueillies en application des
+1°, 2° et 3°, celles qui concernent des effets indésirables graves devant lui
+être transmises sans délai ;
 
 5° De remplir auprès du ministre chargé de la santé et du directeur général de
-l'Agence du médicament une mission d'expertise, en conduisant les études et
-travaux qui leur sont demandés par ces autorités et en procédant à l'évaluation
-des informations relatives aux effets indésirables ;
+l'Agence française de sécurité sanitaire des produits de santé une mission
+d'expertise, en conduisant les études et travaux qui leur sont demandés par ces
+autorités et en procédant à l'évaluation des informations relatives aux effets
+indésirables ;
 
 6° De contribuer au développement des connaissances sur les méthodes de la
 pharmacovigilance et sur la nature et les mécanismes des effets indésirables des

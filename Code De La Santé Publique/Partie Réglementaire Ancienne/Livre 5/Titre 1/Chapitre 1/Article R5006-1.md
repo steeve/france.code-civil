@@ -1,4 +1,5 @@
 Article R5006-1
 ----
-Les dispositions des articles R. 5003 et R. 5005 sont applicables au formulaire
-national.
+L'Agence française de sécurité sanitaire des produits de santé est chargée de
+l'édition de la Pharmacopée française et de celle du formulaire national
+mentionné à l'article R. 5006.

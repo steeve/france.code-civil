@@ -59,7 +59,6 @@ de la détention et de la dispensation de ces médicaments ;
 7° Aux centres spécialisés de soins aux toxicomanes mentionnés à l'article L.
 355-21-1, les médicaments correspondant strictement aux missions de ces centres,
 sur commande écrite du pharmacien ou du médecin responsable dans le centre de la
-détention et de la dispensation de ces médicaments ou du responsable de la
 détention et de la dispensation de ces médicaments ;
 
 8° Aux personnes morales mentionnées à l'article L. 512-2, des gaz à usage

@@ -2,11 +2,11 @@ Article R5143-8
 ----
 Pour l'application de l'article L. 601-6, les spécialités génériques répondant à
 la définition énoncée à cet article sont identifiées par une décision du
-directeur général de l'Agence du médicament, prise après avis de la commission
-prévue à l'article R. 5140, portant inscription à un répertoire qui présente les
-spécialités par groupe générique. Chaque groupe générique comprend la spécialité
-de référence et les spécialités qui en sont génériques au sens de l'article L.
-601-6.
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé, prise après avis de la commission prévue à l'article R. 5140, portant
+inscription à un répertoire qui présente les spécialités par groupe générique.
+Chaque groupe générique comprend la spécialité de référence et les spécialités
+qui en sont génériques au sens de l'article L. 601-6.
 
 Une spécialité ne peut figurer au répertoire comme spécialité de référence que
 si elle bénéficie d'une autorisation de mise sur le marché obtenue grâce à un

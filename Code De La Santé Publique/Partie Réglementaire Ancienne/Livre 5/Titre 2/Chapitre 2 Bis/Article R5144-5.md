@@ -4,7 +4,7 @@ Il est institué un système national de pharmacovigilance.
 
 Ce système comprend :
 
-- l'Agence du médicament ;
+- l'Agence française de sécurité sanitaire des produits de santé ;
 
 - la Commission nationale de pharmacovigilance, mentionnée à l'article R.
 5144-9, et son comité technique, prévu à l'article R. 5144-12 ;

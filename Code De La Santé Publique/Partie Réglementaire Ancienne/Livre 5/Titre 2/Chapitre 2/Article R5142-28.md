@@ -1,8 +1,9 @@
 Article R5142-28
 ----
 Les décisions de suspension et de retrait mentionnées à l'article L. 601-2 sont
-prises par le directeur général de l'Agence du médicament. Elles sont motivées
-et indiquent les voies et délais de recours.
+prises par le directeur général de l'Agence française de sécurité sanitaire des
+produits de santé. Elles sont motivées et indiquent les voies et délais de
+recours.
 
 La décision de suspension ne peut être prise pour une période supérieure à trois
 mois.

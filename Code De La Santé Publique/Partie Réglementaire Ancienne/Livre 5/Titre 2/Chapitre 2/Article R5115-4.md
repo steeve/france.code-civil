@@ -17,10 +17,11 @@ contrat écrit qui fixe, conformément aux bonnes pratiques prévues à l'articl
 l'article L. 512, de générateurs, trousses ou précurseurs mentionnés au 3° du
 même article ainsi que les fabricants et importateurs de produits mentionnés à
 l'article L. 658-11, peuvent, dans des cas exceptionnels et à condition de
-justifier de ce recours auprès de l'Agence du médicament, confier certaines des
-opérations de contrôle de qualité mentionnées à l'article R. 5115-8 à un
-laboratoire dans le cadre d'un contrat écrit qui fixe, conformément aux bonnes
-pratiques prévues à l'article L. 511-2 applicables à ces opérations, leurs
-obligations respectives ; dans ces cas, le fabricant ou l'importateur doit en
-informer l'Agence du médicament afin que celle-ci soit en mesure de vérifier que
+justifier de ce recours auprès de l'Agence française de sécurité sanitaire des
+produits de santé, confier certaines des opérations de contrôle de qualité
+mentionnées à l'article R. 5115-8 à un laboratoire dans le cadre d'un contrat
+écrit qui fixe, conformément aux bonnes pratiques prévues à l'article L. 511-2
+applicables à ces opérations, leurs obligations respectives ; dans ces cas, le
+fabricant ou l'importateur doit en informer l'Agence française de sécurité
+sanitaire des produits de santé afin que celle-ci soit en mesure de vérifier que
 le laboratoire sous-traitant possède la compétence et les moyens suffisants.

@@ -6,7 +6,8 @@ I. - La Commission nationale de pharmacovigilance comprend :
 
 Le directeur général de la santé ou son représentant ;
 
-Le directeur général de l'Agence du médicament ou son représentant ;
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé ou son représentant ;
 
 Le directeur des hôpitaux ou son représentant ;
 
@@ -51,13 +52,5 @@ en cas d'empêchement.
 
 La commission a la faculté d'entendre toute personne qualifiée. Elle peut faire
 appel à des rapporteurs et à des experts consultants désignés par le directeur
-général de l'Agence du médicament après avis du président de la commission.
-
-II. - Les membres de la commission doivent, lors de leur nomination, adresser au
-directeur général de l'Agence du médicament une déclaration mentionnant les
-liens directs ou indirects qu'ils peuvent avoir avec les entreprises dont les
-produits sont susceptibles de faire l'objet d'une évaluation par la commission.
-Ils s'engagent à signaler toute modification concernant ces liens.
-
-Les membres de la commission ne peuvent prendre part ni aux délibérations ni au
-vote s'ils ont un intérêt direct ou indirect à l'affaire examinée.
+général de l'Agence française de sécurité sanitaire des produits de santé après
+avis du président de la commission.

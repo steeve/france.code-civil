@@ -1,9 +1,10 @@
 Article R5144-6
 ----
-L'Agence du médicament assure la mise en oeuvre du système national de
-pharmacovigilance. Elle définit les orientations de la pharmacovigilance, anime
-et coordonne les actions des différents intervenants et veille au respect des
-procédures de surveillance organisées par le présent chapitre.
+L'Agence française de sécurité sanitaire des produits de santé assure la mise en
+oeuvre du système national de pharmacovigilance. Elle définit les orientations
+de la pharmacovigilance, anime et coordonne les actions des différents
+intervenants et veille au respect des procédures de surveillance organisées par
+le présent chapitre.
 
 Elle reçoit les déclarations et les rapports qui sont adressés à son directeur
 général, en application de l'article R. 5144-20, par les entreprises et

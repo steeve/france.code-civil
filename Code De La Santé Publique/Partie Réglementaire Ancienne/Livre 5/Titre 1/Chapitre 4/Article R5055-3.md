@@ -1,11 +1,5 @@
 Article R5055-3
 ----
-La commission, saisie comme il a été dit à l'article précédent, donne au
-fabricant, importateur, distributeur ou promoteur un délai qui ne peut être
-inférieur à trois semaines pour produire un mémoire écrit et faire connaître
-s'il désire être entendu par elle.
-
-Le fabricant, importateur, distributeur ou promoteur qui a demandé à être
-entendu doit recevoir sa convocation quinze jours au moins avant la date prévue
-pour la réunion de la commission. Il peut se faire représenter lors de cette
-réunion.
+Les délibérations de la commission sont confidentielles ; les membres de la
+commission et les personnes lui apportant leur concours sont astreints au secret
+professionnel dans les conditions prévues à l'article 226-13 du code pénal.

@@ -7,12 +7,14 @@ l'entretien ou à l'application des lentilles oculaires de contact, mentionnés 
 l'article L. 658-11, lorsque ces médicaments ou produits :
 
 1° Sont classés, par arrêté du ministre chargé de la santé sur proposition du
-directeur général de l'Agence du médicament [*autorité compétente*], sur les
-listes I ou II définies à l'article R. 5204 ou comme stupéfiants ;
+directeur général de l'Agence française de sécurité sanitaire des produits de
+santé [*autorité compétente*], sur les listes I ou II définies à l'article R.
+5204 ou comme stupéfiants ;
 
 2° Ou renferment une ou plusieurs substances ou préparations classées, par
 arrêté du ministre chargé de la santé sur proposition du directeur général de
-l'Agence du médicament, sur les listes I ou II ou comme stupéfiants.
+l'Agence française de sécurité sanitaire des produits de santé, sur les listes I
+ou II ou comme stupéfiants.
 
 Les médicaments ou produits mentionnés au premier alinéa peuvent faire l'objet
 d'un classement autre que celui de la ou des substances ou préparations classées

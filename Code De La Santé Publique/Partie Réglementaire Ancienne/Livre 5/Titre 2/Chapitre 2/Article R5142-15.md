@@ -8,9 +8,10 @@ communautaire, ou à l'appui de la déclaration en douane dans le cas contraire 
 1° Soit l'autorisation d'importation ou l'autorisation temporaire d'utilisation
 mentionnées au premier alinéa de l'article R. 5142-12 ;
 
-2° Soit une copie certifiée conforme délivrée par l'Agence du médicament de
-l'autorisation de mise sur le marché ou de l'enregistrement du médicament ;
+2° Soit une copie certifiée conforme délivrée par l'Agence française de sécurité
+sanitaire des produits de santé de l'autorisation de mise sur le marché ou de
+l'enregistrement du médicament ;
 
-3° Soit un document établi par l'Agence du médicament attestant que le
-médicament importé a obtenu une autorisation de mise sur le marché délivrée par
-la Communauté européenne.
+3° Soit un document établi par l'Agence française de sécurité sanitaire des
+produits de santé attestant que le médicament importé a obtenu une autorisation
+de mise sur le marché délivrée par la Communauté européenne.

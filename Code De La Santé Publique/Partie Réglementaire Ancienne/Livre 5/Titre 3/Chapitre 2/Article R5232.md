@@ -13,7 +13,8 @@ Un représentant du ministre chargé des installations classées ;
 
 Un représentant du ministre chargé de la santé ;
 
-Un représentant de l'Agence du médicament ;
+Un représentant de l'Agence française de sécurité sanitaire des produits de
+santé ;
 
 Un représentant du commissariat à l'énergie atomique ;
 

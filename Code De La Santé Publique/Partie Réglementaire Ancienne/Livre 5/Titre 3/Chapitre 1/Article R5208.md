@@ -4,11 +4,12 @@ Une prescription de médicaments ou produits relevant des listes I et II ne peut
 être faite pour une durée de traitement supérieure à douze mois. Toutefois, pour
 des motifs de santé publique, pour certains médicaments ou produits, cette durée
 peut être réduite par arrêté du ministre de la santé après avis du directeur
-général de l'Agence du médicament, des conseils nationaux de l'ordre des
-médecins et de l'ordre des pharmaciens et de la commission prévue à l'article R.
-5140, ainsi qu'après avis de la commission des stupéfiants et des psychotropes
-prévue à l'article R. 5182 lorsqu'il s'agit de substances psychotropes ou
-susceptibles d'être utilisées pour leur effet psychoactif.
+général de l'Agence française de sécurité sanitaire des produits de santé, des
+conseils nationaux de l'ordre des médecins et de l'ordre des pharmaciens et de
+la commission prévue à l'article R. 5140, ainsi qu'après avis de la commission
+des stupéfiants et des psychotropes prévue à l'article R. 5182 lorsqu'il s'agit
+de substances psychotropes ou susceptibles d'être utilisées pour leur effet
+psychoactif.
 
 Les pharmaciens et opticiens-lunetiers ne sont autorisés à effectuer la première
 délivrance de ces médicaments ou produits que sur présentation d'une ordonnance

@@ -17,11 +17,11 @@ ceux destinés à être expérimentés sur l'homme, d'analyse quantitative des
 principes actifs ainsi que d'essais et vérifications nécessaires pour assurer la
 qualité des médicaments.
 
-Un arrêté du ministre chargé de la santé, pris sur proposition du directeur
-général de l'Agence du médicament pour les établissements relevant de sa
-compétence, précise, en fonction de l'activité de l'établissement, de la nature
-des médicaments ou produits concernés, le type d'établissement où l'expérience
-pratique doit s'être déroulée et la nature des activités requises.
+Un arrêté du ministre chargé de la santé, pris après avis du directeur général
+de l'Agence française de sécurité sanitaire des produits de santé, précise, en
+fonction de l'activité de l'établissement, de la nature des médicaments ou
+produits concernés, le type d'établissement où l'expérience pratique doit s'être
+déroulée et la nature des activités requises.
 
 Pour la désignation du pharmacien responsable et des pharmaciens délégués des
 établissements pharmaceutiques de la Pharmacie centrale des armées ou des

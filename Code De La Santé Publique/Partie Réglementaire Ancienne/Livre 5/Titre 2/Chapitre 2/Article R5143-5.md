@@ -10,7 +10,7 @@ lorsqu'il ne contient qu'un seul principe actif et que sa dénomination est un
 nom de fantaisie ;
 
 b) La composition qualitative complète en principes actifs et excipients ainsi
-que la composition quantitative en principes acifs, en utilisant les
+que la composition quantitative en principes actifs, en utilisant les
 dénominations communes pour chaque présentation du médicament ou du produit ;
 
 c) La forme pharmaceutique et le contenu en poids, en volume ou en unité de
@@ -90,6 +90,7 @@ d'autres informations compatibles avec le résumé des caractéristiques du
 produit. Ces éléments doivent être utiles pour l'éducation sanitaire et ne
 présenter aucun caractère promotionnel.
 
-Le directeur général de l'Agence du médicament peut autoriser que ne figurent
-pas sur la notice les indications thérapeutiques dont la mention est susceptible
-d'entraîner des inconvénients graves pour certains patients.
+Le directeur général de l'Agence française de sécurité sanitaire des produits de
+santé peut autoriser que ne figurent pas sur la notice les indications
+thérapeutiques dont la mention est susceptible d'entraîner des inconvénients
+graves pour certains patients.

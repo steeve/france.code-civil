@@ -1,4 +1,4 @@
 Article R5141-5
 ----
-Des arrêtés du ministre chargé de la santé [*autorité compétente*] fixent les
-conditions de fonctionnement de la commission mentionnée à l'article R. 5140.
+Le secrétariat de la commission et de ses groupes de travail est assuré par
+l'Agence française de sécurité sanitaire des produits de santé.

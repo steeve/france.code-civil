@@ -15,9 +15,9 @@ indiquant la nature et la quantité des produits obtenus ;
 transformation.
 
 Cet état, qui couvre l'année civile écoulée, est adressé au plus tard le 15
-février à l'Agence du médicament par les établissements pharmaceutiques
-mentionnés au 1° de l'article R. 5056 et au ministre chargé de la santé dans les
-autres cas.
+février à l'Agence française de sécurité sanitaire des produits de santé par les
+établissements pharmaceutiques mentionnés au 1° de l'article R. 5056 et au
+ministre chargé de la santé dans les autres cas.
 
 L'autorisation prévue à l'article R. 5171 peut imposer à son titulaire
 l'établissement et la production au cours de chaque année civile de plusieurs

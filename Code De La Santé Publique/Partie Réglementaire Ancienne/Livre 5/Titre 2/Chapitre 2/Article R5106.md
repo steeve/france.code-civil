@@ -62,11 +62,11 @@ stockage correspondantes.
 L'exploitation est assurée soit par le titulaire de l'autorisation de mise sur
 le marché mentionnée à l'article L. 601, de l'autorisation temporaire
 d'utilisation mentionnée au a de l'article L. 601-2, de l'autorisation
-mentionnée à l'article L. 658-11 ou de l'enregistrement mentionné aux articles
-L. 601-3 et L. 601-4, soit, pour le compte de ce titulaire, par une autre
-entreprise ou un autre organisme, soit par l'un et l'autre, chacun assurant dans
-ce cas une ou plusieurs catégories d'opérations constitutives de l'exploitation
-du médicament ou produit ;
+mentionnée à l'article L. 658-11 ou de l'enregistrement mentionné à l'article L.
+601-3, soit, pour le compte de ce titulaire, par une autre entreprise ou un
+autre organisme, soit par l'un et l'autre, chacun assurant dans ce cas une ou
+plusieurs catégories d'opérations constitutives de l'exploitation du médicament
+ou produit ;
 
 4° Dépositaire, toute entreprise se livrant, d'ordre et pour le compte :
 

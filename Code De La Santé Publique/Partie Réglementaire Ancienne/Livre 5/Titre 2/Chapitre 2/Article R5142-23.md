@@ -1,9 +1,10 @@
 Article R5142-23
 ----
 La demande du prescripteur tendant à obtenir l'autorisation temporaire
-d'utilisation définie au b de l'article L. 601-2 est adressée à l'Agence du
-médicament par le pharmacien gérant la pharmacie à usage intérieur d'un
-établissement de santé, ou par le responsable mentionné à l'article L. 595-5.
+d'utilisation définie au b de l'article L. 601-2 est adressée à l'Agence
+française de sécurité sanitaire des produits de santé par le pharmacien gérant
+la pharmacie à usage intérieur d'un établissement de santé, ou par le
+responsable mentionné à l'article L. 595-5.
 
 Elle comporte les éléments suivants :
 

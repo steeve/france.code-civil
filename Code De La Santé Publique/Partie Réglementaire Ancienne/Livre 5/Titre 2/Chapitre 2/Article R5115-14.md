@@ -15,3 +15,6 @@ pansement et articles présentés comme conformes à la pharmacopée mentionnés
 2° de l'article L. 512 ou de produits officinaux divisés mentionnés au 4° de
 l'article L. 511-1, dont le retrait est organisé par le fabricant ou
 l'importateur.
+
+Les établissements mentionnés aux alinéas précédents conservent pendant deux ans
+une copie des décisions de retrait de lots.

@@ -10,7 +10,8 @@ pharmaceutiques qui y sont effectuées ;
 b) Les moyens en personnels et matériels nécessaires à l'exercice de ces
 activités.
 
-Ils adressent chaque année à l'autorité compétente chargée de l'inspection un
-état de leur établissement dont la forme et le contenu sont fixés par arrêté du
-ministre chargé de la santé pris sur proposition du directeur général de
-l'Agence du médicament pour les établissements qui le concernent.
+Ils adressent chaque année au directeur général de l'Agence française de
+sécurité sanitaire des produits de santé un état de leur établissement dont la
+forme et le contenu sont fixés par arrêté du ministre chargé de la santé pris
+sur proposition du directeur général de l'Agence française de sécurité sanitaire
+des produits de santé.
