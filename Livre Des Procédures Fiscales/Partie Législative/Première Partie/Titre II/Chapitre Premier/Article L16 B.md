@@ -15,9 +15,9 @@ preuve de ces agissements, en effectuant des visites en tous lieux, même privé
 où les pièces et documents s'y rapportant sont susceptibles d'être détenus et
 procéder à leur saisie.
 
-II. Chaque visite doit être autorisée par une ordonnance du président du
-tribunal de grande instance dans le ressort duquel sont situés les lieux à
-visiter ou d'un juge délégué par lui.
+II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et
+de la détention du tribunal de grande instance dans le ressort duquel sont
+situés les lieux à visiter (1).
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui
 est soumise est bien fondée ; cette demande doit comporter tous les éléments
@@ -72,9 +72,8 @@ notification et de signification.
 
 L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en
 cassation selon les règles prévues par le code de procédure pénale ; ce pourvoi
-n'est pas suspensif [*contrôle de la régularité des opérations*]. Les délais de
-pourvoi courent à compter de la notification ou de la signification de
-l'ordonnance.
+n'est pas suspensif. Les délais de pourvoi courent à compter de la notification
+ou de la signification de l'ordonnance.
 
 III. La visite, qui ne peut être commencée avant six heures ni après vingt et
 une heures, est effectuée en présence de l'occupant des lieux ou de son
@@ -120,3 +119,7 @@ VI. L'administration des impôts ne peut opposer au contribuable les information
 recueillies qu'après restitution des pièces et documents saisis ou de leur
 reproduction et mise en oeuvre des procédures de contrôle visées aux premier et
 deuxième alinéas de l'article L. 47.
+
+(1) Ces dispositions entreront en vigueur le 16 juin 2002. Jusqu'à cette date,
+le président du tribunal peut confier cette autorisation au juge des libertés et
+de la détention.
