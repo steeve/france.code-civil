@@ -9,8 +9,9 @@ d'accord au sein de la commission, la répartition est fixée par arrêté des
 ministres chargés de la santé, de la sécurité sociale et du budget.
 
 Elle est effectuée au vu du montant définitif total des allocations mensuelles
-versées au cours de l'exercice précédent, au prorata des dépenses d'assurance
-maladie supportées par chacun de ces régimes pour les établissements mentionnés
-à l'article L. 6114-3 du code de la santé publique au titre dudit exercice
+versées au cours de l'exercice précédent, au prorata des charges afférentes aux
+frais d'hospitalisation au titre des soins dispensés dans les établissements
+mentionnés à l'article L. 6114-3 du code de la santé publique supportées par
+chaque régime obligatoire d'assurance maladie au titre dudit exercice et
 constatées au niveau national dans les conditions prévues au premier alinéa de
 l'article R. 162-42-1.
