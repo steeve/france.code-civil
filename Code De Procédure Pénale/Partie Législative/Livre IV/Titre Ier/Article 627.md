@@ -1,16 +1,10 @@
 Article 627
 ----
-Lorsque, après une décision de mise en accusation, l'accusé n'a pu être saisi ou
-ne se représente pas dans les dix jours de la signification qui en a été faite à
-son domicile, ou lorsque après s'être présenté ou avoir été saisi, il s'est
-évadé, le président de la cour d'assises ou, en son absence, le président du
-tribunal du lieu où se tiennent les assises, ou le magistrat qui le remplace,
-rend une ordonnance portant qu'il est tenu de se représenter dans un nouveau
-délai de dix jours, sinon, qu'il sera déclaré rebelle à la loi, qu'il sera
-suspendu de l'exercice de ses droits de citoyen, que ses biens seront séquestrés
-pendant l'instruction de la contumace, que toute action en justice lui sera
-interdite pendant le même temps, qu'il sera procédé contre lui et que toute
-personne est tenue d'indiquer le lieu où il se trouve.
+Pour l'application du statut de la Cour pénale internationale signé le 18
+juillet 1998, la France participe à la répression des infractions et coopère
+avec cette juridiction dans les conditions fixées par le présent titre.
 
-Cette ordonnance fait de plus mention du crime et de l'ordonnance de prise de
-corps.
+Les dispositions qui suivent sont applicables à toute personne poursuivie devant
+le Cour pénale internationale ou condamnée par celle-ci à raison des actes qui
+constituent, au sens des articles 6 à 8 et 25 du statut, un génocide, des crimes
+contre l'humanité ou des crimes de guerre.
