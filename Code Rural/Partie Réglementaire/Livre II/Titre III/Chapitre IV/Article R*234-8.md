@@ -10,4 +10,7 @@ tocolyse chez les vaches parturientes ;
 
 b) De détenir d'autres médicaments contenant des substances bêta-agonistes ou à
 effet anabolisant ou anticatabolisant, sauf en vue des usages prévus aux 1° et
-2° du I de l'article R. 234-6.
+2° du I de l'article R. 234-6 ;
+
+c) De détenir des médicaments contenant de l'oestradiol 17 bêta ou ses dérivés
+estérifiés.

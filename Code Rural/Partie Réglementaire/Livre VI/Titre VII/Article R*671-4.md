@@ -18,8 +18,7 @@ morts définies aux I et IV de l'article R. 653-16 ;
 3° De contrevenir aux règles de maintien de l'identification, dans les
 conditions définies au V de l'article R. 653-16 ;
 
-4° De ne pas tenir et mettre à jour le registre des bovins conformément au III
-de l'article R. 653-16 ;
+4° (alinéa supprimé) ;
 
 5° De ne pas compléter le passeport conformément au III de l'article R. 653-16 ;
 

@@ -95,4 +95,7 @@ au mépris des règles d'hygiène mentionnées à l'article R. 231-27 ou sans
 contrôle médical régulier ;
 
 23° De manipuler ou faire manipuler une denrée animale ou d'origine animale par
-une personne susceptible de la contaminer.
+une personne susceptible de la contaminer ;
+
+24° Le fait de ne pas tenir ni mettre à jour le registre d'élevage dans les
+conditions prévues aux articles L. 214-9-1 et L. 234-1.

@@ -37,8 +37,7 @@ immatriculé au fichier central ;
 
 11° Pour tout détenteur de faire circuler un équidé non identifié ;
 
-12° Pour tout détenteur de ne pas tenir ou mettre à jour le registre mentionné
-au II de l'article L. 234-1 ;
+12° (alinéa supprimé) ;
 
 13° Pour toute personne en charge de l'exécution du service public de
 l'équarrissage de ne pas avoir respecté ses obligations prévues au 3° du V de
