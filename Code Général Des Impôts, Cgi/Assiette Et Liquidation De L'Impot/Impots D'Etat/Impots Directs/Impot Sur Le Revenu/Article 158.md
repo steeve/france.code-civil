@@ -78,59 +78,29 @@ provenant d'exploitations situées hors de France, il est fait état de ces
 résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers
 éléments dans la déclaration prévue à l'article 170.
 
-4 bis. Les adhérents des centres de gestion agréés définis aux articles 1649
-quater C à 1649 quater E, placés sous un régime réel d'imposition, bénéficient
-d'un abattement de 20 % sur leur bénéfice imposable dans la catégorie des
-bénéfices industriels et commerciaux ou des bénéfices agricoles.
+4 bis. Les adhérents des centres de gestion et associations agréés définis aux
+articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou
+d'une société visés aux articles 8 à 8 quater adhérant à l'un de ces organismes
+bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un
+régime réel d'imposition.
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
-excède 165.000 F (4). Aucun abattement n'est appliqué sur la fraction du
-bénéfice qui excède 460.000 F pour l'imposition des revenus de 1982 (5). Cette
-limite est relevée chaque année dans la même proportion que le plafond de la
-déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3°
-; le montant obtenu est arrondi, le cas échéant, au millier de francs supérieur.
+excède la limite fixée au cinquième alinéa du a du 5. Aucun abattement n'est
+appliqué sur la fraction du bénéfice qui excède la limite fixée au sixième
+alinéa du a du 5.
 
-En cas de remise en cause, pour inexactitude ou insuffisance, des éléments
-fournis au centre de gestion agréé, les adhérents perdent le bénéfice de
-l'abattement, sans préjudice des sanctions fiscales de droit commun, pour
-l'année au titre de laquelle le redressement est opéré.
+Les limitations du montant de l'abattement résultant de l'application de
+l'alinéa précédent sont opérées sur la totalité du revenu net professionnel
+déclaré par une même personne physique, dans une même catégorie de revenus.
 
-A condition que la bonne foi du contribuable soit admise, le bénéfice de
-l'abattement est, en revanche, maintenu lorsque le redressement porte
-exclusivement sur des erreurs de droit ou des erreurs matérielles ou lorsque
-l'insuffisance n'excède pas le dixième du revenu professionnel déclaré et la
-somme de 5.000 F.
+Aucun abattement n'est appliqué à la partie des bénéfices résultant d'un
+redressement, sauf lorsque ce redressement fait suite à une déclaration
+rectificative souscrite spontanément par l'adhérent.
 
-4 ter. Les adhérents des associations agréées des professions libérales définies
-aux articles 1649 quater F à 1649 quater H, imposés à l'impôt sur le revenu
-selon le régime de la déclaration contrôlée, bénéficient d'un abattement de 20 %
-sur leur bénéfice imposable. Toutefois cet abattement ne peut se cumuler avec
-d'autres déductions forfaitaires ou abattements d'assiette.
+L'établissement de la mauvaise foi d'un adhérent entraîne la perte de
+l'abattement pour l'année au titre de laquelle le redressement est effectué.
 
-Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui
-excède 165.000 F (4). Aucun abattement n'est appliqué sur la fraction du
-bénéfice qui excède 460.000 F pour l'imposition des revenus de 1983 (5). Cette
-limite est relevée chaque année dans la même proportion que le plafond de la
-déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3°
-; le montant obtenu est arrondi, le cas échéant, au millier de francs supérieur.
-
-Pour tous les groupements ou sociétés constitués en vue de l'exercice en groupe
-d'une profession libérale et dont les membres sont soumis à l'impôt sur le
-revenu pour leur part dans les résultats du groupement ou de la société selon
-les règles de l'article 8, la limitations du montant de l'abattement résultant
-de l'application de l'alinéa précité sont opérées, s'il y a lieu, sur la part de
-bénéfices revenant à chaque associé ou à chaque membre (6).
-
-En cas de remise en cause, pour inexactitude ou insuffisance, des éléments
-fournis à l'association agréée, les adhérents perdent le bénéfice de
-l'abattement, sans préjudice des sanctions fiscales de droit commun, pour
-l'année au titre de laquelle le redressement est opéré.
-
-A condition que la bonne foi du contribuable soit admise, le bénéfice de
-l'abattement est, en revanche, maintenu lorsque le redressement porte
-exclusivement sur des erreurs de droit ou des erreurs matérielles ou lorsque
-l'insuffisance n'excède pas le dixième du revenu professionnel déclaré et la
-somme de 5.000 F.
+4 ter. (Sans objet).
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités,
 émoluments, salaires et pensions ainsi que de rentes viagères autres que celles
@@ -138,8 +108,8 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 91.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour
-l'imposition des revenus de 1983, excéder 21.400 F. Ce plafond est applicable au
-montant des pensions et retraites perçues par les membres du foyer fiscal (7).
+l'imposition des revenus de 1984, excéder 23.100 F. Ce plafond est applicable au
+montant des pensions et retraites perçues par les membres du foyer fiscal (4).
 Il est revalorisé chaque année dans la même proportion que la limite de la
 première tranche du barème de l'impôt sur le revenu ; le montant obtenu est
 arrondi, s'il y a lieu, à la centaine de francs supérieure.
@@ -155,14 +125,14 @@ troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le
 revenu que pour 80 % de son montant.
 
 Par exception aux dispositions de l'alinéa précédent, les salaires et indemnités
-accessoires supérieurs à 165.000 F alloués par des sociétés à des personnes qui
+accessoires supérieurs à 182.000 F alloués par des sociétés à des personnes qui
 détiennent, directement ou indirectement, plus de 35 % des droits sociaux sont
-retenus, pour la fraction excédant 165.000 F, à raison de 90 % de leur montant,
+retenus, pour la fraction excédant 182.000 F, à raison de 90 % de leur montant,
 net de frais professionnels.
 
 Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
-frais professionnels, et pensions qui excède 460.000 F pour l'imposition des
-revenus de 1982 et 1983 (5). Cette limite est relevée chaque année dans la même
+frais professionnels, et pensions qui excède 495.000 F pour l'imposition des
+revenus de 1984 (5). Cette limite est relevée chaque année dans la même
 proportion que le plafond de la déduction forfaitaire de 10 % pour frais
 professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas
 échéant au millier de francs supérieur ;
@@ -203,14 +173,10 @@ chiffre était auparavant de 3.000 F.
 (2) Annexe IV, art. 6 ter.
 
 (3) Loi n° 79-594 du 13 juillet 1979, modifiée par la loi n° 83-1 du 3 janvier
-1983, art. 23 (JO des 2, 3 et 4).
+1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578 du 9 juillet 1984 art. 8 (J.O. du
+11).
 
-(4) Limite fixée à 150.000 F pour l'imposition des revenus de 1981.
+(4) Pour l'imposition des revenus de 1979 à 1982 le plafond s'appréciait pour
+chaque titulaire de pensions ou retraites. Il était fixé à 9.800 F pour 1982.
 
 (5) Limite également fixée à 460.000 F pour l'imposition des revenus de 1982.
-
-(6) Voir annexe III, art. 48-1 bis. l'imposition des revenus de 1981, ce chiffre
-était de 900.000 F.
-
-(7) Pour l'imposition des revenus de 1979 à 1982 le plafond s'appréciait pour
-chaque titulaire de pensions ou retraites. Il était fixé à 9.800 F pour 1982.

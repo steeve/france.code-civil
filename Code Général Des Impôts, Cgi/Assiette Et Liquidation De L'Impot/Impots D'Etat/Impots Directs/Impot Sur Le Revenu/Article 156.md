@@ -93,7 +93,18 @@ rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peu
 la fois déduire une pension pour cet enfant et le considérer à charge pour le
 calcul de l'impôt ;
 
-2° bis et 3° (Abrogés) ;
+2° bis (Abrogé) ;
+
+2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire
+résultant des articles 205 à 211 du code civil à des personnes agées de plus de
+soixante-quinze ans vivant sous le toit du contribuable et dont le revenu
+imposable n'excède pas le plafond de ressources fixé pour l'octroi de
+l'allocation supplémentaire du Fonds national de solidarité. La déduction opérée
+par le contribuable ne peut excéder, par bénéficiaire, l'évaluation des
+avantages en nature de logement et de nourriture faite pour l'application aux
+salariés du régime de sécurité sociale.
+
+3° (Abrogé) ;
 
 4° Versements effectués à titre de cotisations de sécurité sociale, à
 l'exception de ceux effectués pour les gens de maison ;
@@ -122,17 +133,16 @@ d. (Devenu sans objet) (2).
 
 9° bis et 9° ter (Abrogés) ;
 
-10° Les cotisations mentionnées aux articles 19 et 23 de la loi n° 66-509 du 12
-juillet 1966 modifiée relative à l'assurance maladie et à l'assurance maternité
-des travailleurs non salariés des professions non agricoles. En ce qui concerne
-les cotisations instituées par application de l'article 26 de la même loi, un
-décret fixe, le cas échéant, dans quelle proportion elles sont admises en
-déduction ;
+10° Les cotisations mentionnées à l'article 19 de la loi n° 66-509 du 12 juillet
+1966 modifiée relative à l'assurance maladie et à l'assurance maternité des
+travailleurs non salariés des professions non agricoles. En ce qui concerne les
+cotisations instituées par application de l'article 26 de la même loi, un décret
+fixe, le cas échéant, dans quelle proportion elles sont admises en déduction ;
 
-11° Les primes ou cotisations des contrats d'assurances conclus en exécution des
-dispositions de la loi n° 66-950 du 22 décembre 1966, instituant l'obligation
-d'assurance des personnes non salariées contre les accidents et les maladies
-professionnelles dans l'agriculture.
+11° Les primes ou cotisations des contrats d'assurances conclus en application
+des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire
+des personnes non salariées contre les accidents de la vie privée, les accidents
+du travail et les maladies professionnelles dans l'agriculture.
 
 (1) Voir toutefois le paragraphe I bis ci-dessous.
 

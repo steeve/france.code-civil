@@ -8,7 +8,18 @@ l'alimentation du fonds de garantie sont assises dans les conditions suivantes :
 proportionnelle aux sommes recouvrées par eux au titre de la contribution des
 assurés visée au 3°;
 
-2° (Abrogé);
+2° La contribution des responsables d'accidents corporels, non bénéficiaires
+d'une assurance, est assise sur le montant total des indemnités mises à leur
+charge à titre de réparation des dommages résultant de ces accidents. Sont
+considérées comme bénéficiaires d'une assurance [*définition*] au sens du
+présent article, les personnes dont la responsabilité civile résultant
+d'accidents de chasse ou de destruction des animaux nuisibles est couverte par
+un contrat d'assurance. En cas d'instance judiciaire la décision doit faire
+apparaître si le responsable est ou non bénéficiaire d'une assurance . La
+décision de justice ou la transaction doit opérer le cas échéant une ventilation
+entre les indemnités dues à titre de réparation des dommages résultant
+d'accidents corporels et celles qui sont dues à titre de réparation des dégâts
+matériels ;
 
 3° La contribution des assurés est fixée à une somme forfaitaire par personne
 garantie pour sa responsabilité civile résultant d'accidents de chasse ou de

@@ -45,7 +45,7 @@ ses actionnaires sont assimilés à des intérêts.
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de
 l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des
-taxes prévues aux articles 235 ter T, 238 quater, 239 bis B et 990 G.
+taxes prévues aux articles 235 ter T, 238 quater, 235 ter Y, 239 bis B et 990 G.
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
@@ -63,6 +63,11 @@ titre de l'exercice clos après son paiement ;
 nettement précisées et que des événements en cours rendent probables, à
 condition qu'elles aient été effectivement constatées dans les écritures de
 l'exercice.
+
+Toutefois, ne sont pas déductibles les provisions que constitue une entreprise
+en vue de faire face au versement d'allocations en raison du départ à la
+retraite ou préretraite des membres ou anciens membres de son personnel, ou de
+ses mandataires sociaux.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des
 cours peuvent être retranchées des bénéfices des entreprises dont l'activité

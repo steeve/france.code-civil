@@ -22,7 +22,12 @@ l'administration indiquant les dates de séjour et le montant de la somme due ;
 
 a quater. (Abrogé) ;
 
-b. Les prestations relatives à la fourniture et à l'évacuation de l'eau ;
+b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
+groupements aux exploitants des services de distribution d'eau et
+d'assainissement ;
+
+2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
+d'assainissement ;
 
 b bis. Les spectacles suivants :
 
@@ -45,11 +50,11 @@ que ceux-ci ne comportent pas d'attraction autre que la présence des animaux ;
 b quater. Les transports de voyageurs ;
 
 b quinquies. Les locations et cessions de droits portant sur les films ainsi que
-les droits d'entrée pour les séances cinématographiques (4). Cette disposition
-n'est pas applicable aux films pornographiques ou d'incitation à la violence
+les droits d'entrée pour les séances cinématographiques. Cette disposition n'est
+pas applicable aux films pornographiques ou d'incitation à la violence
 mentionnés à l'article 281 bis A-I ;
 
-b sexies Une partie du prix des billets d'entrée donnant exclusivement accès à
+b sexies. Une partie du prix des billets d'entrée donnant exclusivement accès à
 des concerts donnés dans des établissements agréés où il est servi des
 consommations pendant le spectacle (4).
 
@@ -61,13 +66,16 @@ charges sociales, le tout majoré de 10 %, et les charges qui doivent figurer
 dans le compte d'exploitation générale de ce même établissement pour l'ensemble
 des services rendus.
 
-L'agérment est prononcé conjointement par le ministre de la culture et le
+L'agrément est prononcé conjointement par le ministre de la culture et le
 ministre de l'économie, des finances et du budget après avis d'une commission
 dont la composition et le fonctionnement sont prévus par arrêté de ces mêmes
 ministres.
 
 Un décret en Conseil d'Etat fixe les conditions de l'agrément et les modalités
 d'application du présent article (5).
+
+b septies. Les prestations de services effectuées par les agences de voyages et
+les organisateurs de circuits touristiques.
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
@@ -116,6 +124,9 @@ hôtels et restaurants.
 
 (4) Disposition applicable à compter du 1er juillet 1984.
 
-(5) Décret à émettre.
+(5) Décret 84-1090 1984-12-07. Arrêté 1984-12-07 (JONC du 8 ;
+
+Annexe II, art. 242 ter A à 242 ter F et Annexe IV, art. 170 septies A et 170
+octies).
 
 (6) Annexe IV, art. 31.

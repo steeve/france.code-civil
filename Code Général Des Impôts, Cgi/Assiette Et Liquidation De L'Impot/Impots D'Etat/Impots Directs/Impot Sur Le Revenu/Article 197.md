@@ -7,33 +7,33 @@ Sous réserve des dispositions de l'article 160, l'impôt est calculé pour les
 contribuables mariés sans enfant à charge et les contribuables célibataires
 ayant un enfant à charge, en appliquant le taux de (1) :
 
-0 % à la fraction du revenu qui n'excède pas 27.540 F ;
+0 % à la fraction du revenu qui n'excède pas 29.640 F ;
 
-5 % à la fraction du revenu comprise entre 27.540 F et 28.780 F ;
+5 % à la fraction du revenu comprise entre 29.640 F et 30.980 F ;
 
-10 % à la fraction du revenu comprise entre 28.780 F et 34.140 F ;
+10 % à la fraction du revenu comprise entre 30.980 F et 36.740 F ;
 
-15 % à la fraction du revenu comprise entre 34.140 F et 53.980 F ;
+15 % à la fraction du revenu comprise entre 36.740 F et 58.100 F ;
 
-20 % à la fraction du revenu comprise entre 53.980 F et 69.400 F ;
+20 % à la fraction du revenu comprise entre 58.100 F et 74.680 F ;
 
-25 % à la fraction du revenu comprise entre 69.400 F et 87.220 F ;
+25 % à la fraction du revenu comprise entre 74.680 F et 93.840 F ;
 
-30 % à la fraction du revenu comprise entre 87.220 F et 105.520 F ;
+30 % à la fraction du revenu comprise entre 93.840 F et 113.540 F ;
 
-35 % à la fraction du revenu comprise entre 105.520 F et 121.740 F ;
+35 % à la fraction du revenu comprise entre 113.540 F et 131.000 F ;
 
-40 % à la fraction du revenu comprise entre 121.740 F et 202.860 F ;
+40 % à la fraction du revenu comprise entre 131.000 F et 218.280 F ;
 
-45 % à la fraction du revenu comprise entre 202.860 F et 279.000 F ;
+45 % à la fraction du revenu comprise entre 218.280 F et 300.200 F ;
 
-50 % à la fraction du revenu comprise entre 279.000 F et 330.020 F ;
+50 % à la fraction du revenu comprise entre 300.200 F et 355.100 F ;
 
-55 % à la fraction du revenu comprise entre 330.020 F et 375.400 F ;
+55 % à la fraction du revenu comprise entre 355.100 F et 403.940 F ;
 
-60 % à la fraction du revenu comprise entre 375.400 F et 425.500 F ;
+60 % à la fraction du revenu comprise entre 403.940 F et 457.840 F ;
 
-65 % à la fraction du revenu supérieure à 425.500 F.
+65 % à la fraction du revenu supérieure à 457.850 F.
 
 Pour les autres contribuables, les chiffres de revenu visés ci-dessus sont
 augmentés ou diminués en considération de la situation et des charges de famille
@@ -71,7 +71,7 @@ Toutefois, les montants de 2.600 F et de 800 F sont portés respectivement à
 pour l'imposition des revenus de 1983.
 
 VII La réduction d'impôt brut résultant de l'application des dispositions des
-articles 193 et suivants ne peut excéder 9.250 F (4) pour chacune des demi-parts
+articles 193 et suivants ne peut excéder 9.960 F (4) pour chacune des demi-parts
 additionnelles au nombre de parts suivant :
 
 - une part pour les contribuables célibataires, divorcés ou veufs, ayant ou non
@@ -81,12 +81,11 @@ des enfants ou des personnes assimilées à charge ;
 personnes assimilées à charge.
 
 (1) Barème applicable pour l'établissement de l'impôt sur le revenu dû au titre
-de l'année 1983.
+de l'année 1984.
 
 (2) Limite applicable pour la première fois pour l'imposition des revenus de
 1980.
 
-(3) Chiffres portés à 23.100F et 30.700 F pour 1982 et à 25.300 F et 33.500 F
-pour 1983.
+(3) Chiffres portés à 27.230F et 36.050 F pour 1984.
 
-(4) Ce plafond était de 8.450 F pour l'imposition des revenus de 1982.
+(4) Ce plafond était de 9.250 F pour l'imposition des revenus de 1983.
