@@ -1,6 +1,6 @@
 Article L1336-5
 ----
-Est puni d'un an d'emprisonnement et d'une amende de 15 000 Euro le fait :
+Est puni d'un an d'emprisonnement et d'une amende de 15000 euros le fait :
 
 1° D'exercer une activité ou d'utiliser un procédé, un dispositif ou une
 substance interdits en application de l'article L. 1333-2 ;

@@ -1,13 +1,16 @@
 Article L213-2
 ----
-Tout travail entre vingt-deux heures et cinq heures est considéré comme travail
-de nuit.
+Est travailleur de nuit tout travailleur qui :
 
-Toutefois, une convention ou un accord collectif étendu peut prévoir une autre
-période de sept heures consécutives, comprise entre 22 heures et 7 heures
-pouvant être substituée à la période prévue à l'alinéa précédent.
+1° Soit accomplit, au moins deux fois par semaine, selon son horaire de travail
+habituel, au moins trois heures de son temps de travail quotidien durant la
+période définie à l'article L. 213-1-1 ;
 
-L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord
-d'entreprise ou d'établissement ou à l'autorisation de l'inspecteur du travail
-donnée après consultation des délégués syndicaux et avis du comité d'entreprise
-ou des délégués du personnel, s'ils existent.
+2° Soit accomplit, au cours d'une période de référence, un nombre minimal
+d'heures de travail de nuit au sens de l'article L. 213-1-1.
+
+Le nombre minimal d'heures de travail de nuit et la période de référence
+mentionnés au 2° sont fixés par convention ou accord collectif étendu ou, à
+défaut, par décret en Conseil d'Etat pris après consultation des organisations
+syndicales les plus représentatives au plan national des employeurs et des
+salariés.

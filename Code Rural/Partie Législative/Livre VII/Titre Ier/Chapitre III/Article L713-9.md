@@ -65,3 +65,6 @@ ayants droit qui auraient qualité pour obtenir le paiement des salaires
 arriérés.
 
 L'indemnité prévue ci-dessus a le caractère de salaire.
+
+Les dispositions de la section 1 du chapitre III du titre Ier du livre II du
+code du travail sont applicables aux salariés mentionnés à l'article L. 713-1.

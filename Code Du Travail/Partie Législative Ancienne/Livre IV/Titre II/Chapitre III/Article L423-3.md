@@ -15,6 +15,11 @@ Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail procèd
 cette répartition entre les collèges électoraux conformément à l'alinéa premier
 ou, à défaut, en application de l'article L. 423-2.
 
+A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus,
+les organisations syndicales intéressées examinent les voies et moyens en vue
+d'atteindre une représentation équilibrée des femmes et des hommes sur les
+listes de candidatures.
+
 Sans préjudice des dispositions qui précèdent, dans les entreprises de travail
 temporaire, la répartition des sièges de délégués du personnel peut faire
 l'objet d'un accord entre le chef d'entreprise et les organisations syndicales
@@ -22,6 +27,6 @@ intéressées en vue d'assurer une représentation équitable du personnel perma
 et du personnel temporaire.
 
 Au cas où le juge d'instance, saisi préalablement aux élections, décide la mise
-en place d'un dispositif de contrôle de leur régularité, de la liberté, et de la
+en place d'un dispositif de contrôle de leur régularité, de la liberté et de la
 sincérité du scrutin, les frais entraînés par ces mesures sont à la charge de
 l'employeur.

@@ -36,3 +36,22 @@ négociation sur un ou plusieurs des dispositifs prévus par ces articles et, s'
 y a lieu, sur l'affectation d'une partie des sommes collectées dans le cadre du
 plan mis en place en application de l'article L. 443-1-2 à l'acquisition de
 parts des fonds solidaires mentionnés au III de l'article L. 443-1-2.
+
+Dans les entreprises visées au premier alinéa, l'employeur est également tenu
+d'engager chaque année une négociation sur les objectifs en matière d'égalité
+professionnelle entre les femmes et les hommes dans l'entreprise, ainsi que sur
+les mesures permettant de les atteindre, à partir des éléments figurant dans le
+rapport de situation comparée prévu par l'article L. 432-3-1 et complété
+éventuellement par des indicateurs qui tiennent compte de la situation
+particulière de l'entreprise. A défaut d'une initiative de ce dernier depuis
+plus de douze mois suivant la précédente négociation, la négociation s'engage
+obligatoirement à la demande d'une organisation syndicale représentative dans le
+délai fixé à l'article L. 132-28 ; la demande de négociation formulée par
+l'organisation syndicale est transmise dans les huit jours par l'employeur aux
+autres organisations représentatives. Lorsqu'un accord collectif comportant de
+tels objectifs et mesures est signé dans l'entreprise, la périodicité de la
+négociation est portée à trois ans.
+
+Les mesures permettant d'atteindre les objectifs visés à l'alinéa précédent
+peuvent être également déterminées dans le cadre des négociations visées au
+premier alinéa du présent article.
