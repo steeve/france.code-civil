@@ -1,10 +1,10 @@
 Article R351-11
 ----
 Pour bénéficier de l'allocation d'insertion, les personnes mentionnées aux
-articles R. 351-8, R. 351-9 et R. 351-10 doivent justifier, à la date de la
-demande, de ressources mensuelles inférieures à un plafond correspondant à 90
-fois le montant journalier de l'allocation pour une personne seule et 180 fois
-le même montant pour un couple.
+articles R. 351-9 et R. 351-10 doivent justifier, à la date de la demande, de
+ressources mensuelles inférieures à un plafond correspondant à 90 fois le
+montant journalier de l'allocation pour une personne seule et 180 fois le même
+montant pour un couple.
 
 Les ressources prises en considération pour l'application de ce plafond
 comprennent l'allocation d'insertion ainsi que les autres ressources de

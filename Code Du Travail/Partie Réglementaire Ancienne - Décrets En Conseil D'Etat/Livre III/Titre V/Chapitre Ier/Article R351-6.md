@@ -11,5 +11,5 @@ d'insertion s'éteint lorsque l'intéressé remplit les conditions définies aux
 paragraphes b et suivants de l'article R. 351-1.
 
 Le droit à l'allocation d'insertion ne peut être ouvert qu'une fois au titre de
-chacun des articles R. 351-7, R. 351-8 et R. 351-9 ci-dessous ainsi qu'au titre
-de chacun des cas visés à l'article R. 351-10.
+l'article R. 351-9 ainsi qu'au titre de chacun des cas visés à l'article R.
+351-10.

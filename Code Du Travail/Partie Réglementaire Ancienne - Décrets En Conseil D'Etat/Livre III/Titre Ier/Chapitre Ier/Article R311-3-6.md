@@ -1,6 +1,5 @@
 Article R311-3-6
 ----
-La radiation de la liste des demandeurs d'emploi entraîne l'impossibilité
-d'obtenir une nouvelle inscription pendant une période fixée par le délégué
-départemental de l'Agence nationale pour l'emploi [*ANPE*. Cette période ne peut
-excéder trois mois consécutifs *]durée d'interdiction de réinscription*.
+Le délégué départemental de l'Agence nationale pour l'emploi peut, pour
+l'exercice des attributions définies à l'article R. 311-3-5, déléguer sa
+signature aux chefs d'agence locale pour l'emploi placés sous son autorité.
