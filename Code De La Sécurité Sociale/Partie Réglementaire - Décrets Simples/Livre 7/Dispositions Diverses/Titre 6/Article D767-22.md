@@ -1,6 +1,6 @@
 Article D767-22
 ----
-Les délégués régionaux sont nommés par le directeur du fonds d'action sociale.
+Les délégués régionaux sont nommés par le président du fonds d'action sociale.
 
 Le délégué régional assure l'instruction des demandes de concours émanant des
 organismes et associations de la région. Il établit l'ensemble des

@@ -5,7 +5,7 @@ Le conseil d'administration définit les orientations pluriannuelles du fonds. I
 du fonds au niveau national ou déconcentré et le montant des crédits
 correspondants. Il arrête le budget du fonds.
 
-Sur le rapport du directeur et sous réserve des dispositions des articles D.
+Sur le rapport du président et sous réserve des dispositions des articles D.
 767-13 et D. 767-22, le conseil d'administration répartit les crédits entre les
 organismes et les associations pour réaliser les actions projetées sur le plan
 national ou dans les régions où ne sont pas instituées de commissions régionales

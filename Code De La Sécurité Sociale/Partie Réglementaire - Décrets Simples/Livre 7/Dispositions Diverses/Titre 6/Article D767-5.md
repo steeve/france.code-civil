@@ -1,7 +1,7 @@
 Article D767-5
 ----
-Le président du conseil d'administration est nommé par décret, sur proposition
-du ministre chargé des immigrés.
+Le président du fonds préside le conseil d'administration. Il est nommé par
+décret sur proposition du ministre chargé des immigrés.
 
 Les autres membres du conseil sont nommés par arrêté du même ministre. Ceux
 mentionnés aux 1°, 2° (a, b, c, d, e et f), 3° (a et b) et 4° (a et b) de
