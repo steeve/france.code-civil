@@ -1,7 +1,8 @@
 Article 305 H
 ----
-Les bordereaux visés aux articles qui précèdent mentionnent obligatoirement les
-numéros sous lesquels les opérations qu'ils concernent figurent au répertoire.
+Les bordereaux visés aux articles 978 et 981 du code général des impôts
+mentionnent obligatoirement les numéros sous lesquels les opérations qu'ils
+concernent figurent au répertoire.
 
 Ils doivent être délivrés, savoir :
 
