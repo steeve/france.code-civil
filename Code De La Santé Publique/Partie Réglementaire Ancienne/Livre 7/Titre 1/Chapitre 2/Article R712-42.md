@@ -27,8 +27,8 @@ satisfait pas aux conditions techniques de fonctionnement ;
 2° Lorsque les conditions et engagements mentionnés aux articles L. 712-12-1 et
 L. 712-13 n'ont pas été respectés ;
 
-3° Lorsque les résultats de l'évaluation périodique prévue à l'article L.
-712-12-1 ne sont pas jugés satisfaisants ;
+3° Lorsque les résultats de l'évaluation, appréciés selon les modalités définies
+par l'arrêté mentionné à l'article L. 712-14, ne sont pas jugés satisfaisants ;
 
 4° Lorsque le demandeur du renouvellement n'accepte pas de souscrire aux
 conditions et engagements mentionnés à l'article L. 712-12-1.
