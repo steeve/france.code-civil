@@ -19,6 +19,6 @@ progressivement porté à 600.000 unités de compte par tranches successives de
 100.000 unités de compte, chaque fois que le montant des cotisations augmente de
 500.000 unités de compte.
 
-A concurrence de ces seuils ou de la moitié du fonds si cette moitié est
-supérieure auxdits seuils, le fonds est constitué par des éléments mentionnés
-aux 1, 2, 3 et 4 de l'article R. 334-11.
+A concurrence de ces seuils ou de la moitié du fonds, si cette moitié est
+supérieure auxdits seuils, le fonds est constitué par les éléments mentionnés
+aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
