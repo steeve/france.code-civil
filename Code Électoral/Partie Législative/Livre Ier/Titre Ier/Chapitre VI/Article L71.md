@@ -8,12 +8,12 @@ obligations dûment constatées retiennent éloignés de la commune sur la liste
 électorale de laquelle ils sont inscrits :
 
 1° les marins du commerce (inscrits maritimes, agents du service général et
-pêcheurs);
+pêcheurs) ;
 
-2° les militaires;
+2° les militaires ;
 
 3° les fonctionnaires, cheminots et agents des services publics appelés en
-déplacement par les nécessités de leur service;
+déplacement par les nécessités de leur service ;
 
 4° le personnel navigant de l'aéronautique civile ;
 
@@ -31,7 +31,7 @@ ministre de la Santé ;
 nécessité de service ;
 
 9° les voyageurs et représentants qui exercent leur activité dans les conditions
-prévues par les articles L. 751-1 et suivants du code du travail ;
+prévues par les articles L. 751-1 et suivants du Code du travail ;
 
 10° les agents commerciaux ;
 
@@ -98,7 +98,7 @@ législation de sécurité sociale, bénéficiant de la majoration pour assistan
 d'une tierce personne ;
 
 5° les victimes d'accidents de travail bénéficiant d'une rente correspondant à
-un taux égal ou supérieur à 85 %;
+un taux égal ou supérieur à 85 % ;
 
 6° les personnes âgées et infirmes bénéficiant d'une prise en charge pour aide
 d'une tierce personne ;
@@ -111,8 +111,4 @@ alinéas précédents ;
 déplacer le jour du scrutin ;
 
 9° les personnes placées en détention provisoire et les détenus purgeant une
-peine n'entraînant pas une incapacité électorale ;
-
-III. - les électeurs qui ont leur résidence et exercent leur activité
-professionnelle hors du département où se trouve leur commune d'inscription
-ainsi que leur conjoint.
+peine n'entraînant pas une incapacité électorale.
