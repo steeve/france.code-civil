@@ -15,3 +15,9 @@ l'obligation d'obtenir l'accord du représentant du ministre chargé des monumen
 historiques ou des sites, lorsque cet accord est nécessaire et que celui-ci
 assorti ou non de réserves n'a pu être formulé avant la délivrance du certificat
 d'urbanisme.
+
+Le certificat d'urbanisme informe, lorsqu'il y a lieu, le demandeur que le
+terrain se trouve dans un secteur, situé au voisinage d'infrastructures de
+transports terrestres, affecté par le bruit, dans lequel existent des
+prescriptions d'isolement acoustique, déterminées en application de l'article 13
+de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
