@@ -21,7 +21,13 @@ Toutefois, en cas de modification de la situation de la famille en cours de
 période de paiement, le droit à l'allocation est examiné au premier jour du mois
 civil au cours duquel est intervenue la modification s'il y a diminution du
 nombre des enfants à charge, au premier jour du mois civil suivant, si ce nombre
-a augmenté.
+a augmenté. De même, lorsque depuis deux mois consécutifs, un allocataire a
+réduit son activité professionnelle en passant d'un emploi à temps complet à un
+emploi à mi-temps, son droit à l'allocation est examiné sans qu'il soit tenu
+compte des revenus d'activité professionnelle perçus par l'intéressé durant
+l'année civile de référence à compter du premier jour du mois civil suivant
+celui au cours duquel la modification est intervenue et jusqu'à la fin de la
+période de paiement suivant celle en cours.
 
 Lorsque le total de l'allocation et des ressources susceptibles d'être prises en
 compte dépasse le plafond applicable, l'allocation est réduite à due
