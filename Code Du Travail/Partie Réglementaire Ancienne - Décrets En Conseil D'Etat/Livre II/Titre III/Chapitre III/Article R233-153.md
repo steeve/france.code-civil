@@ -4,11 +4,11 @@ Outre la procédure prévue à l'article R. 233-152 ci-dessus, les équipements 
 protection individuelle neufs ou considérés comme neufs mentionnés ci-après
 sont, au choix du fabricant, soumis :
 
-a) Soit à la procédure dite " système de garantie de qualité CE " définie par
-les articles R. 233-67 à R. 233-68-1 ;
+a) Soit à la procédure dite "système de garantie de qualité CE" définie par les
+articles R. 233-67 à R. 233-68-1 ;
 
-b) Soit à la procédure dite " système d'assurance qualité CE de la production
-avec surveillance " définie par les articles R. 233-69 à R. 233-72-1.
+b) Soit à la procédure dite "système d'assurance qualité CE de la production
+avec surveillance" définie par les articles R. 233-69 à R. 233-72-1.
 
 Les équipements visés à l'alinéa précédent sont les suivants :
 
@@ -35,6 +35,4 @@ de hauteur ;
 
 7. Equipements de protection individuelle destinés à protéger des risques
 électriques pour les travaux sous tension dangereuse ou équipements utilisés
-comme isolants contre une haute tension ;
-
-8. Casques et visières destinés aux usagers de motocycles.
+comme isolants contre une haute tension.

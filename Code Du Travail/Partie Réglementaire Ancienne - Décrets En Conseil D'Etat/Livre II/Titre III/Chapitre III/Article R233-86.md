@@ -26,8 +26,9 @@ matières similaires.
 3. Machines à raboter sur une face, à chargement ou déchargement manuel, pour le
 travail du bois et des matières similaires.
 
-4. Scies à ruban à table ou à chariot mobile et à chargement ou déchargement
-manuel pour le travail du bois et des matières similaires.
+4. Scies à ruban à table fixe ou mobile et scies à ruban à chariot mobile, à
+chargement ou déchargement manuel pour le travail du bois et des matières
+similaires.
 
 5. Machines combinées des types visés aux points 1 à 4 ci-dessus et au point 7
 ci-après pour le travail du bois et des matières similaires.
@@ -56,9 +57,9 @@ chargement ou déchargement manuel ;
 9.4. Machines à scier, à outil mobile en cours de travail, à déplacement
 mécanisé, à chargement ou déchargement manuel.
 
-10. Scies à ruban à table ou à chariot mobile et à chargement ou déchargement
-manuel pour le travail des produits agro-alimentaires tels que la viande, le
-poisson et les produits surgelés.
+10. Scies à ruban à table fixe ou mobile et scies à ruban à chariot mobile, à
+chargement ou déchargement manuel, pour le travail des produits agroalimentaires
+tels que la viande, le poisson et les produits surgelés.
 
 11. Presses, y compris les plieuses, pour le travail à froid des métaux, à
 chargement ou déchargement manuel dont les éléments mobiles de travail peuvent
@@ -90,3 +91,8 @@ soumis au paragraphe 3.4.7 de l'annexe mentionnée à l'article R. 233-84.
 17.3. Moteurs à combustion interne destinés à équiper les machines pour les
 travaux souterrains soumises aux paragraphes 5 à 5.8 de l'annexe mentionnée à
 l'article R 233-84.
+
+18. Appareils de levage de personnes avec un risque de chute verticale
+supérieure à 3 mètres.
+
+19. Machines pour la fabrication d'articles pyrotechniques.

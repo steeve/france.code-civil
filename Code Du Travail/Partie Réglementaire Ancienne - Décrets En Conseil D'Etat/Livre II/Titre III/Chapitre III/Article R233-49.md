@@ -3,9 +3,9 @@ Article R233-49
 La présente section définit les procédures de certification de conformité
 applicables, lorsqu'ils sont neufs ou considérés comme neufs, aux machines
 visées au 1° de l'article R. 233-83, aux autres équipements de travail visés aux
-3° et 4° de l'article R. 233-83, aux moyens de protection visés aux 1° et 2° de
-l'article R. 233-83-2 et aux équipements de protection individuelle visés à
-l'article R. 233-83-3.
+3° et 4° de l'article R. 233-83, aux composants de sécurité visés à l'article R.
+233-83-2 et aux équipements de protection individuelle visés à l'article R.
+233-83-3.
 
 Elle définit également les procédures de certification de conformité applicables
 aux équipements de travail et moyens de protection quand ils sont d'occasion.

@@ -1,15 +1,17 @@
 Article R233-55
 ----
-la demande d'examen CE de type doit comporter [*mentions obligatoires*] :
+La demande d'examen CE de type doit comporter [*mentions obligatoires*] :
 
 a) Les nom et adresse du fabricant ou de l'importateur ainsi que le lieu de
-fabrication de la machine ou de l'équipement de protection individuelle ;
+fabrication de la machine, du composant de sécurité ou de l'équipement de
+protection individuelle ;
 
 b) La documentation technique prévue par l'article R. 233-75.
 
-Lorsqu'il s'agit d'une machine visée au 1° de l'article R. 233-83, la demande
-est accompagnée d'un exemplaire du modèle ou de l'indication du lieu où le
-modèle peut être examiné.
+Lorsqu'il s'agit d'une machine visée au 1° de l'article R. 233-83 ou d'un
+composant de sécurité visé à l'article R. 233-83-2, la demande est accompagnée
+d'un exemplaire du modèle ou de l'indication du lieu où le modèle peut être
+examiné.
 
 Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R.
 233-83-3, la demande est accompagnée du nombre d'exemplaires du modèle
