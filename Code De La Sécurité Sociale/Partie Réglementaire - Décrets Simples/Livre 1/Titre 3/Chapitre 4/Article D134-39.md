@@ -15,5 +15,9 @@ sécurité sociale de la Banque de France, sont calculés à partir des résulta
 statistiques annuels des dépenses de prestations. Les dépenses de prestations du
 régime de sécurité sociale de la Banque de France ainsi déterminées pour chaque
 catégorie de prestations sont affectées de coefficients respectivement égaux aux
-valeurs correspondant au rapport : R/R' ; Le montant du remboursement est égal à
-la somme des résultats partiels ainsi obtenus.
+valeurs correspondant au rapport :
+
+R/R' ;
+
+Le montant du remboursement est égal à la somme des résultats partiels ainsi
+obtenus.
