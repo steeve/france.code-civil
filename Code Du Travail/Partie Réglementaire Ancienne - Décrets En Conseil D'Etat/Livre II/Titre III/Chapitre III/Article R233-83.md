@@ -28,11 +28,12 @@ papier de teinture, papier d'emballage et couvre-parquets.
 
 Machines à coudre les tissus.
 
-2. Machines agricoles et matériels pour les industries agro-alimentaires, à
-l'exclusion des machines agricoles mobiles autres que les tracteurs agricoles et
-forestiers à roues.
+2. Machines agricoles ou forestières et matériels pour les industries
+agro-alimentaires.
 
 Tracteurs agricoles et forestiers à roues.
+
+Machines mobiles agricoles ou forestières.
 
 Machines, appareils et engins pour battage des produits agricoles, presses à
 paille et à fourrage, tarares et machines similaires pour le nettoyage des
