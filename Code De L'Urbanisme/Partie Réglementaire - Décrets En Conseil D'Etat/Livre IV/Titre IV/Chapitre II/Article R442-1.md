@@ -19,4 +19,6 @@ publicité et d'information du public mentionnées aux deuxième et troisième
 alinéas de l'article R. 441-1.
 
 Toutefois pour ce qui concerne le garage collectif des caravanes, ces
-dispositions sont applicables sur tout le territoire national.
+dispositions sont applicables sur tout le territoire national. Il en va de même
+pour les travaux soumis à déclaration préalable en application de l'article R.
+442-3-1.

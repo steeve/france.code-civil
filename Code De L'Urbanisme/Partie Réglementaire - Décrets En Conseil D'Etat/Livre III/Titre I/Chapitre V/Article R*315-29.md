@@ -50,3 +50,14 @@ par le lotisseur et l'autorité compétente pour délivrer l'autorisation ;
 
 La superficie des terrains à apporter ainsi que leur valeur déterminée par le
 directeur des services fiscaux.
+
+Dans le cas où l'opération projetée entre dans le champ d'application de
+l'article 1er du décret n° 2002-89 du 16 janvier 2002 pris pour l'application de
+la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives
+et financières en matière d'archéologie préventive, l'autorisation de lotir
+mentionne les surfaces concernées et les obligations mises à la charge du
+lotisseur par le préfet de région. Lorsque, à l'occasion de l'instruction de
+l'autorisation de lotir, des prescriptions ont été décidées par le préfet pour
+l'intégralité de la surface de terrain faisant l'objet de la demande
+d'autorisation, aucune autre prescription n'est possible à l'occasion des
+autorisations d'urbanisme demandées ultérieurement pour chaque lot.

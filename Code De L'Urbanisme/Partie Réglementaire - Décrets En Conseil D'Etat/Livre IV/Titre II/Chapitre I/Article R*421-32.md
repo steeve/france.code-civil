@@ -12,6 +12,13 @@ en deux tranches, dont la première constitue une unité habitable et ne dépass
 pas 100 mètres carrés de surface hors oeuvre nette et dont la suivante a une
 surface hors oeuvre nette inférieure à la première.
 
+Le délai de validité du permis de construire est prolongé à concurrence de la
+durée de réalisation du diagnostic et, le cas échéant, des fouilles
+archéologiques prescrits par le préfet de région en application du décret n°
+2002-89 du 16 janvier 2002 pris pour l'application de la loi n° 2001-44 du 17
+janvier 2001 et relatif aux procédures administratives et financières en matière
+d'archéologie préventive.
+
 Le délai de validité du permis de construire est suspendu, le cas échéant,
 pendant la durée du sursis à exécution de la décision portant octroi dudit
 permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en
@@ -32,8 +39,8 @@ chargé de l'instruction transmet un projet de décision à l'autorité compéte
 pour statuer sur la demande. La décision est prise par arrêté dans les mêmes
 conditions que celles prévues aux articles R. 421-33 ou R. 421-36.
 
-La prorogation[*tacite*] est acquise au bénéficiaire du permis de construire si
-aucune décision ne lui a été adressée dans le délai de deux mois suivant la date
-de l'avis de réception postal ou de la décharge de l'autorité compétente pour
+La prorogation est acquise au bénéficiaire du permis de construire si aucune
+décision ne lui a été adressée dans le délai de deux mois suivant la date de
+l'avis de réception postal ou de la décharge de l'autorité compétente pour
 statuer sur la demande. La prorogation prend effet à la date de la décision de
 prorogation ou à l'expiration du délai de deux mois.

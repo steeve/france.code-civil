@@ -16,4 +16,5 @@ n'être accordée que sous réserve de l'observation de prescriptions spéciales
 sur le fondement des dispositions mentionnées à l'article R. 111-1, lorsque,
 notamment, par la situation, la forme ou la dimension des lots, l'opération est
 de nature à porter atteinte au caractère ou à l'intérêt des lieux avoisinants,
-aux sites ou aux paysages naturels ou urbains.
+aux sites ou aux paysages naturels ou urbains, ou à compromettre la conservation
+ou la mise en valeur d'un site ou de vestiges archéologiques.
