@@ -1,17 +1,12 @@
 Article R232-7
 ----
-Il ne peut être établi d'étalages à l'extérieur des magasins et boutiques que si
-ces étalages sont munis d'auvents ou autres dispositifs protégeant, contre les
-intempéries, les employés qui y sont occupés.
+La présente sous-section fixe les règles relatives à l'éclairage et à
+l'éclairement :
 
-En cas de froid, des moyens de chauffage suffisants doivent [*obligation*] être
-aménagés pour les employés dans l'intérieur de l'établissement.
+1° Des locaux affectés au travail et de leurs dépendances, notamment les
+passages et escaliers ;
 
-Lorsque la température est inférieure à 0 degré centigrade, il est interdit
-d'occuper des employés aux étalages extérieurs des magasins et boutiques.
+2° Des espaces extérieurs où sont effectués des travaux permanents ;
 
-Toutefois, en ce qui concerne les établissements dans lesquels la rentrée des
-étalages extérieurs rendrait pratiquement impossible la vente à l'intérieur, les
-employés se tiendront à l'intérieur, mais pourront, lorsque les acheteurs se
-présenteront effectuer des opérations de vente aux étalages, à condition de n'y
-rester que le temps strictement nécessaire auxdites opérations.
+3° Des zones et voies de circulation extérieures empruntées de façon habituelle
+pendant les heures de travail.
