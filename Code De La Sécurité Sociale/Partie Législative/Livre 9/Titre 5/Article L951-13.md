@@ -31,3 +31,18 @@ intérêts économiques essentiels ou à l'ordre public ou lorsqu'une procédure
 pénale quelconque a été engagée en France sur la base des mêmes faits et contre
 les mêmes personnes, ou lorsque celles-ci ont déjà été sanctionnées par une
 décision définitive pour les mêmes faits.
+
+Lorsque, dans le cadre de la surveillance complémentaire définie à l'article L.
+933-3, la commission souhaite vérifier des informations utiles à l'exercice de
+sa surveillance concernant une entreprise située dans un Etat membre de la
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen, elle demande aux autorités compétentes de cet Etat qu'il
+soit procédé à cette vérification. Lorsque les autorités d'un Etat membre de la
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen souhaitent, dans des cas déterminés, vérifier des
+informations utiles à l'exercice de leur surveillance concernant une institution
+de prévoyance située en France et qui est une institution de prévoyance
+apparentée d'une entreprise d'assurance soumise à leur surveillance
+complémentaire, la commission de contrôle instituée par l'article L. 951-1 doit
+répondre à leur demande soit en procédant elle-même à cette vérification, soit
+en permettant à des personnes désignées par ces autorités d'y procéder.

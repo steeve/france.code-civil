@@ -1,10 +1,10 @@
 Article L951-1
 ----
 Il est institué une commission de contrôle des mutuelles et des institutions de
-prévoyance. Cette commission est chargée du contrôle des institutions et unions
-régies par le présent livre et par l'article L. 727-2 du code rural ainsi que du
-contrôle des mutuelles, unions et fédérations régies par le code de la
-mutualité.
+prévoyance. Cette commission est chargée du contrôle des institutions, unions et
+groupements régis par le présent livre et par l'article L. 727-2 du code rural
+ainsi que du contrôle des mutuelles, unions et fédérations régies par le code de
+la mutualité.
 
 Les opérations de retraite complémentaire réalisées par les institutions faisant
 l'objet d'une compensation interprofessionnelle et générale ne sont pas soumises
