@@ -14,10 +14,17 @@ d'industrie et sur les matières de récupération (3);
 d'insémination artificielle (4);
 
 5° Les personnes qui ont passé un bail à construction; dans ce cas, la taxe sur
-la valeur ajoutée est appliquée conformément à l'article 257-7° (6).
+la valeur ajoutée est appliquée conformément à l'article 257-7° (5).
 
-Les conditions et modalités de l'option sont fixées par décret en Conseil d'Etat
-(1) (2) (3) (4) (5) (6).
+6° A compter du 1er octobre 1988 [*date*], les personnes qui donnent en
+location, en vertu d'un bail enregistré, des terres et bâtiments d'exploitation
+à usage agricole. L'option ne peut être exercée que si le preneur est redevable
+de la taxe sur la valeur ajoutée et elle s'applique à tous les baux conclus par
+un même bailleur avec des agriculteurs répondant à cette condition.
+
+Les conditions et modalités de l'option notamment, pour l'application du 6°, les
+modalités d'évaluation des bâtiments d'habitation lorsqu'ils ne font pas l'objet
+d'une location distincte, sont fixées par décret en Conseil d'Etat.
 
 1) Voir Annexe II, art. 189 à 192.
 
@@ -27,8 +34,4 @@ Les conditions et modalités de l'option sont fixées par décret en Conseil d'E
 
 4) Voir Annexe II, art. 201 bis et 201 ter.
 
-5) Annexe II, art. 201 quinquies à 201 septies 6) Les modalités suivant
-lesquelles viendront à expiration les options formulées avant le 1er janvier
-1979 pour des activités pour lesquelles l'option n'est plus ouverte à compter de
-cette date ont été fixées par le décret n° 79-41 du 17 janvier 1979 (J.O. du
-18), et n° 81-1121 du 17 décembre 1981 (J.O. du 19).
+5) Voir Annexe II, art. 201 quater A à 201 quater C.

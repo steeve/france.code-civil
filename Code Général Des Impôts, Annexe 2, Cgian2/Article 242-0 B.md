@@ -6,11 +6,7 @@ l'article 242-0 A est limité à la fraction du crédit excédant un crédit de
 référence. Ce crédit de référence est égal aux trois quarts du quotient obtenu
 en divisant la somme des crédits figurant sur les déclarations relatives aux
 affaires de 1971 par le nombre total de déclarations déposées au titre de la
-même année [*calcul*] (1).
+même année [*calcul*].
 
-(1) Les agriculteurs placés sous le régime simplifié d'imposition peuvent
-obtenir le remboursement d'une nouvelle fraction de leur crédit de taxe
-déductible au 31 décembre 1971, conformément aux dispositions des articles 1er
-et 2 de la loi n° 74-881 du 24 octobre 1974 (J.O. du 25), de l'arrêté du 29
-octobre 1974 (J.O. du 1er novembre) et de l'article 3 de la loi n° 75-408 du 29
-mai 1975 (J.O. du 30).
+Les dispositions du présent article ne s'appliquent plus aux demandes de
+remboursement présentées à compter du 1er janvier 1988.
