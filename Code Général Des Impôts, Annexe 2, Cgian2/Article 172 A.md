@@ -1,7 +1,7 @@
 Article 172 A
 ----
-I. - Les travaux mentionnés aux b et c du premier alinéa du 7° bis de l'article
-257 du code général des impôts sont les suivants :
+I. - Les travaux mentionnés au b du premier alinéa du 7° bis de l'article 257 du
+code général des impôts sont les suivants :
 
 1° Les travaux d'amélioration qui comprennent :
 
@@ -28,8 +28,8 @@ reconstruction ou les travaux d'agrandissement.
 équipement ou un élément de confort nouveau ou indispensable au respect des
 normes en vigueur.
 
-II. - Les travaux d'entretien sont exclus du champ d'application du 7° bis de
-l'article 257 du code général des impôts. Il s'agit :
+II. - Les travaux d'entretien mentionnés au c du 7° bis de l'article 257 du code
+général des impôts s'entendent :
 
 a) Des travaux ayant le caractère de réparations locatives dont la liste est
 fixée par le décret n° 87-712 du 26 août 1987 ;
@@ -44,12 +44,6 @@ le caractère de charges non récupérables sur le locataire lorsqu'il s'agit de
 petites réparations nécessaires à la maintenance et à la gestion courante du
 patrimoine.
 
-III. - Par dérogation au II, entrent dans le champ d'application du 7° bis de
-l'article 257 du code général des impôts les travaux d'entretien qui sont
-effectués à l'occasion de travaux mentionnés au I dont ils sont la conséquence
-indissociable.
+III. (Abrogé).
 
-IV. - Pour l'application du c du premier alinéa du 7° bis de l'article 257 du
-code général des impôts, la décision du préfet est prise conformément aux
-dispositions des articles R. 326-1 et suivants du code de la construction et de
-l'habitation.
+IV. (Abrogé).
