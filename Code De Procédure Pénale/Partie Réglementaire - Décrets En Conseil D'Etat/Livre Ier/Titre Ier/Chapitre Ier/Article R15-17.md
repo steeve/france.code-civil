@@ -1,29 +1,31 @@
 Article R15-17
 ----
-La qualité d'agent de police judiciaire peut être attribuée par arrêté du
-ministre de l'Intérieur aux enquêteurs de la police nationale désignés à
-l'article 20 (3°) qui comptent au moins trois ans de services effectifs en
-qualité de titulaires et qui ont satisfait aux épreuves d'un examen technique.
+La qualité d'agent de police judiciaire est attribuée par arrêté conjoint du
+garde des sceaux, ministre de la justice, et du ministre de l'intérieur aux
+enquêteurs de 2e classe et aux gardiens de la paix de la police nationale visés
+par le 5° de l'article 20 qui ont satisfait aux épreuves d'un examen technique
+portant sur le droit pénal, la procédure pénale et les libertés publiques, après
+avoir reçu une formation spécifique.
 
-Les modalités d'organisation de cet examen et le programme des épreuves sont
-fixés par arrêté du ministre de l'Intérieur.
+Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
+de l'intérieur fixe le contenu du programme de la formation et des épreuves de
+l'examen technique ainsi que les modalités d'organisation de celles-ci et
+d'établissement de la liste des candidats reçus.
 
-Le jury d'examen est composé de la manière suivante :
+Une ou plusieurs commissions d'examen, dont les membres sont nommés par arrêté
+conjoint du garde des sceaux, ministre de la justice, et du ministre de
+l'intérieur, sont instituées dans chaque ressort de cour d'appel comportant au
+moins un centre interdépartemental ou départemental de stages et de formation de
+la police nationale. Chaque commission est composée :
 
-1° Le directeur général de la police nationale ou son représentant ayant au
-moins la qualité de sous-directeur, président ;
+1° Du procureur général près la cour d'appel ou de son délégué, président, et du
+procureur de la République près l'un des tribunaux de grande instance du ressort
+de la cour d'appel ou de son délégué ;
 
-2° Le directeur du personnel et des écoles de la police ou son représentant ;
+2° Du chef de la délégation régionale au recrutement et à la formation de la
+police nationale ou de son représentant ayant au moins le grade de commissaire
+de police et d'un fonctionnaire de police ayant également au moins le même
+grade.
 
-3° Le directeur, chef de l'inspection générale de la police nationale, ou son
-représentant ;
-
-4° Quatre fonctionnaires de la police nationale ou leurs suppléants, ayant au
-moins le grade de commissaire de police, et désignés par arrêté du ministre de
-l'Intérieur.
-
-Le membre suppléant qui remplace le membre titulaire siège pendant toute la
-durée de l'examen.
-
-Le secrétariat du jury d'examen est assuré par la direction du personnel et des
-écoles de la police.
+Le secrétariat de chaque commission d'examen est assuré par la direction du
+personnel et de la formation de la police.
