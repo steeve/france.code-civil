@@ -1,9 +1,5 @@
 Article R353-66
 ----
-Les bailleurs sont tenus envers les organismes chargés de la liquidation et du
-paiement de l'aide personnalisée au logement, de fournir de toutes les
-informations et justifications nécessaires à l'établissement du droit à l'aide
-personnalisée au logement ainsi qu'à la liquidation et au versement de celle-ci,
-dans les conditions définies par les directives du conseil de gestion du fonds
-national de l'habitation, conformément aux dispositions de la convention
-nationale prévue à l'article L. 351-8.
+Le bailleur ou les personnes morales locataires mentionnées au premier alinéa de
+l'article L. 353-20 sont tenus de proposer respectivement un contrat de location
+ou de sous-location conforme à la convention aux futurs occupants.

@@ -1,8 +1,5 @@
 Article R353-69
 ----
-Les conventions fixent les conditions d'occupation des logements, conformément à
-celles prévues par l'article R. 441-3.
-
-Au fur et à mesure des vacances, les logements sont loués à des personnes dont
-les ressources annuelles n'excèdent pas le plafond détermine dans les conditions
-prévues par l'article R. 331-20.
+Pour les logements régis par la loi n° 48-1360 du 1er septembre 1948, le projet
+de contrat de location mentionné à l'article R. 353-67 doit en outre reproduire,
+en caractères très apparents, le texte intégral de l'article L. 353-9.

@@ -1,6 +1,15 @@
 Article R353-67
 ----
-Les bailleurs sont tenus d'établir et de tenir, pour chacun des immeubles de
-leur patrimoine conventionné, un carnet d'entretien où sont consignés tous
-renseignements sur les interventions d'entretien, de réparation ou
-d'amélioration faites ou à faire par eux sur l'immeuble.
+Le contrat de location est conclu pour une durée de trois ans.
+
+Pendant la durée de la convention, le contrat de location est reconduit
+tacitement, pour des périodes de trois ans, si le locataire s'est conformé aux
+obligations de l'article 7 de la loi du 6 juillet 1989, sauf dénonciation
+expresse du locataire dans les conditions de l'article 15 I, deuxième et
+troisième alinéa, de la loi du 6 juillet 1989 précitée et dans les conditions de
+l'article L. 353-19-1.
+
+Six mois avant la date d'expiration de la convention, le bailleur peut proposer
+au locataire un contrat de location prenant effet à la date d'expiration de la
+convention ou à la date d'expiration du contrat de location si cette dernière
+date est postérieure à la date d'expiration de la convention.
