@@ -45,8 +45,12 @@ concerne les propriétés frappées d'alignement ;
 
 - aux articles 4, 6 et 13 du décret n° 55-1064 du 4 août 1955 portant règlement
 d'administration publique pour l'application de la loi du 29 novembre 1952 sur
-les travaux mixtes.
+les travaux mixtes ;
 
-"Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour
+Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour
 l'application de la loi n° 76-1022 du 10 novembre 1976 relative à la création et
-à la protection des jardins familiaux".
+à la protection des jardins familiaux ;
+
+- au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation
+des biens exposés à certains risques naturels majeurs menaçant gravement des
+vies humaines.
