@@ -17,7 +17,7 @@ Le conseil désigne la personne devant remplir les fonctions de secrétaire qui
 peut être choisie en dehors des administrateurs parmi les membres du personnel
 de la caisse centrale de réassurance.
 
-Les délibérations du conseil d'administration sont constatées dans des
-procès-verbaux inscrits sur un registre tenu au siège de la caisse centrale de
-réassurance, signés par le directeur général, président, ou par le président de
+Les délibérations du conseil d'administration sont constatées dans les
+procès-verbaux inscrits sur un registre tenu au siège de la Caisse centrale de
+réassurance, signés par le président directeur général ou par le président de
 séance et par le secrétaire.

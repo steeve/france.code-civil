@@ -1,23 +1,32 @@
 Article R*431-7
 ----
-La caisse centrale de réassurance est administrée par un directeur général nommé
-par arrêté du ministre de l'économie et des finances, après avis du conseil
-national des assurances, et gérée par un conseil d'administration comprenant,
-outre le directeur général, président :
+La caisse centrale de réassurance est gérée par un conseil d'administration
+comprenant :
 
-- trois membres nommés par le ministre de l'économie et des finances sur une
-liste comprenant au moins six personnes présentées par le conseil national des
-assurances en raison de leur compétence technique ;
+a) Cinq représentants de l'Etat nommés par décret sur proposition du ministre de
+l'économie, des finances et du budget ;
 
-- trois membres représentants de l'Etat, désignés par le ministre de l'économie
-et des finances ;
+b) Cinq personnalités nommées par décret sur proposition du ministre, dont :
 
-- un représentant des employés d'assurances, un représentant du personnel des
-cadres et inspecteurs d'assurances et un représentant des agents généraux
-d'assurances, désignés par les organisations syndicales les plus représentatives
-;
+Deux, représentant les entreprises d'assurance ;
 
-- trois représentants des assurés agricoles, industriels et particuliers,
-désignés par décret du ministre de l'économie et des finances sur proposition
-des organisations nationales de producteurs ou de consommateurs les plus
-qualifiées par branche d'assurance.
+Une, représentant les assurés, choisie après consultation des organisations les
+plus représentatives au niveau national de producteurs et de consommateurs ou
+d'organismes regroupant de telles organisations ;
+
+Deux personnalités choisies en raison de leur compétence, dont l'une désignée
+après consultation des organisations syndicales les plus représentatives parmi
+les agents généraux d'assurance ou les courtiers d'assurance et de réassurance ;
+
+c) Cinq représentants des salariés élus dans les conditions prévues au chapitre
+II du titre II de la loi n° 83-675 du 26 juillet 1983 susvisée.
+
+Pour l'application de l'article 26 de ladite loi, chacun de ces représentants
+bénéficie d'un crédit d'heures fixé à quinze heures par mois.
+
+Les dispositions de l'article R. 322-26 sont applicables aux représentants de
+l'Etat dans le conseil d'administration de la Caisse centrale de réassurance.
+
+Le président du conseil d'administration, désigné dans les conditions prévues à
+l'article 10 de la loi du 26 juillet 1983 susvisée, assure la direction générale
+de l'établissement.

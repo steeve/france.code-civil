@@ -14,5 +14,5 @@ de réassurance ;
 
 4° Arrête les comptes annuels.
 
-Le directeur général, président du conseil d'administration, exécute les
+Le président du conseil d'administration, directeur général, exécute les
 décisions du conseil.
