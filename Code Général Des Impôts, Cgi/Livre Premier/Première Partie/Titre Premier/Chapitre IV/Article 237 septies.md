@@ -5,9 +5,9 @@ ouvert à compter du 1er janvier 2005 résultant de l'application aux
 immobilisations de la méthode par composants est répartie, par parts égales, sur
 cet exercice et les quatre exercices ou périodes d'imposition suivants.
 
-Toutefois, lorsque le montant de la majoration ou minoration mentionnée à
-l'alinéa précédent n'excède pas 150 000 Euros, l'entreprise peut renoncer à
-l'étalement prévu à ce même alinéa.
+Toutefois, lorsque le montant de la majoration ou minoration mentionnée au
+premier alinéa n'excède pas 150 000 €, l'entreprise peut renoncer à l'étalement
+prévu à ce même alinéa.
 
 II. - Le montant des charges à répartir, à l'exception des droits de mutation,
 honoraires ou commissions et frais d'actes, transféré dans un compte

@@ -57,16 +57,15 @@ relocalisation réalisée. Ils doivent être exécutés et inscrits dans les
 écritures de l'entreprise bénéficiaire pendant la période de réalisation de
 l'opération de relocalisation.
 
-Pour être éligibles au dispositif prévu au présent article, les investissements
-réalisés par les entreprises autres que les petites et moyennes entreprises
-mentionnées au VI et composés d'actifs immatériels doivent remplir les
-conditions suivantes :
+Pour être éligibles au dispositif, les investissements réalisés par les
+entreprises autres que les petites et moyennes entreprises mentionnées au VI et
+composés d'actifs immatériels doivent remplir les conditions suivantes :
 
-- être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
+a. - être exploités exclusivement dans l'intérêt de l'entreprise bénéficiaire ;
 
-- avoir été acquis auprès d'un tiers aux conditions du marché ;
+b. - avoir été acquis auprès d'un tiers aux conditions du marché ;
 
-- être considérés comme des éléments d'actif amortissables et être inscrits à
+c. - être considérés comme des éléments d'actif amortissables et être inscrits à
 l'actif du bilan de l'entreprise bénéficiaire.
 
 Le montant des investissements éligibles réalisés par les entreprises autres que

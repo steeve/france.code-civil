@@ -1,17 +1,27 @@
 Article 383 bis B
 ----
-En application de l'article R 964-8 du code du travail, les excédents de fonds
-mentionnés à l'article 235 ter HB du code général des impôts et non utilisés au
-31 décembre d'un exercice déterminé dans les conditions prévues au deuxième
-alinéa de l'article R 964-8 précité, sont reversés au trésor avant le 30 juin de
-l'année suivante, accompagnés d'un bordereau indiquant, outre la désignation et
-l'adresse du déclarant, le montant de l'excédent à reverser. Ce bordereau doit
-être remis à la recette des impôts du siège du fonds d'assurance-formation.
+Cet article reproduit les dispositions de l'article R. 964-8 du code du travail
+:
 
-A défaut, il est fait application de la procédure prévue à l'article R. 950-21
-du code du travail.
+"Les disponibilités dont un fonds d'assurance formation peut disposer au 31
+décembre d'un exercice déterminé ne peuvent excéder le montant des charges
+comptabilisées au cours du même exercice.
+
+S'il y a excédent, celui-ci doit être affecté, avant le 30 juin de l'année
+suivante, au financement d'actions de formation au bénéfice de demandeurs
+d'emploi sans contrat de travail organisées dans des centres de formation
+conventionnés dans les conditions prévues par le huitième alinéa de l'article L.
+951-1 du code du travail.
+
+Les excédents non utilisés dans les conditions ci-dessus prévues sont reversés
+au Trésor avant la même date, accompagnés d'un bordereau indiquant, outre la
+désignation et l'adresse du déclarant, le montant de l'excédent à reverser. Ce
+bordereau doit être remis à la recette des impôts du siège du fonds d'assurance
+formation.
+
+A défaut, il est fait application de la procédure prévue au deuxième alinéa de
+l'article R. 964-9 ci-après.
 
 Les dispositions qui précèdent ne s'appliquent qu'à partir de la troisième année
-suivant celle au cours de laquelle le fonds d'assurance-formation a, selon le
-cas, été créé ou a reçu l'agrément mentionné à l'article L 961-9, deuxième
-alinéa du code du travail.
+suivant celle au cours de laquelle le fonds d'assurance formation a, selon le
+cas, été créé ou a reçu l'agrément mentionné à l'article L. 961-9 (alinéa 2)."

@@ -1,8 +1,9 @@
 Article 1609 ter A
 ----
 Pour les communautés urbaines existant à la date de publication de la loi n°
-99-586 du 12 juillet 1999 précitée, les dispositions de l'article 1609 nonies C
-sont applicables de plein droit à compter du 1er janvier 2002, sauf délibération
+99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la
+coopération intercommunale, les dispositions de l'article 1609 nonies C sont
+applicables de plein droit à compter du 1er janvier 2002, sauf délibération
 contraire de la moitié au moins des conseils municipaux des communes
 intéressées, cette majorité devant comprendre le conseil municipal de la commune
 dont la population est supérieure à la moitié de la population totale concernée

@@ -29,11 +29,11 @@ rachat de parts ou actions d'organismes de placements collectifs ou entités
 assimilées investis à plus de 40 % en créances ou produits assimilés sont
 déterminés et déclarés dans des conditions prévues par décret.
 
-Pour l'application des dispositions de l'alinéa précédent, l'organisme ou
-l'entité ou, à défaut de personnalité morale, son gérant ou représentant à
-l'égard des tiers, fournit aux personnes mentionnées au premier alinéa, dans des
-conditions prévues par décret, les informations nécessaires à l'appréciation de
-la situation de l'organisme ou entité au regard du pourcentage de 40 %. Cette
+Pour l'application des dispositions du septième alinéa, l'organisme ou l'entité
+ou, à défaut de personnalité morale, son gérant ou représentant à l'égard des
+tiers, fournit aux personnes mentionnées au premier alinéa, dans des conditions
+prévues par décret, les informations nécessaires à l'appréciation de la
+situation de l'organisme ou entité au regard du pourcentage de 40 %. Cette
 situation est précisée dans les documents constitutifs ou le règlement de
 l'organisme ou entité ou, à défaut, dans leurs inventaires prévus à l'article L.
 214-8 du code monétaire et financier. A défaut d'information, les personnes

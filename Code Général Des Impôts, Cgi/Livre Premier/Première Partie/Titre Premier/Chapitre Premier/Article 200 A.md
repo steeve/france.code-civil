@@ -19,7 +19,17 @@ annuelle qui n'excède pas 152 500 euros et de 40 % au-delà.
 Ces taux sont réduits respectivement à 16 % et 30 % lorsque les titres acquis
 revêtent la forme nominative et demeurent indisponibles, suivant des modalités
 fixées par décret, pendant un délai au moins égal à deux ans à compter de la
-date d'achèvement de la période mentionnée au I de l'article 163 bis C (1).
+date d'achèvement de la période mentionnée au I de l'article 163 bis C.
+
+6 bis. Sauf option pour l'imposition à l'impôt sur le revenu selon les règles
+applicables aux traitements et salaires, la plus-value réalisée sur la cession
+des titres revus dans les conditions définies aux articles L. 225-197-1 à L.
+225-197-3 du code de commerce qui est égale à la valeur du titre à la date
+d'acquisition est imposée au taux de 30 %. La plus-value qui est égale à la
+différence entre le prix de cession et la valeur du titre au jour de
+l'acquisition est imposée au taux prévu au 2. La moins-value éventuellement
+réalisée est déduite du revenu imposable conformément aux règles applicables aux
+moins-values sur valeurs mobilières.
 
 7. Le taux prévu au 2 est réduit de 30 % dans les départements de la Guadeloupe,
 de la Martinique et de la Réunion et de 40 % dans le département de la Guyane

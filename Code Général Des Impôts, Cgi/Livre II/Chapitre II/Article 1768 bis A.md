@@ -32,8 +32,8 @@ derniers.
 4. Le non-respect des modalités de ventilation des revenus distribués ou
 répartis par les sociétés ou organismes mentionnés au 4° du 3 de l'article 158
 en application du sixième alinéa dudit 4° est passible d'une amende annuelle de
-1 500 Euros. Cette amende n'est pas applicable lorsque celle mentionnée au 3 du
-présent article est appliquée pour les mêmes revenus.
+1 500 Euros. Cette amende n'est pas applicable lorsque celle mentionnée au 3 est
+appliquée pour les mêmes revenus.
 
 5. Les infractions mentionnées aux 1 à 4 sont constatées et les amendes
 correspondantes sont prononcées, recouvrées, garanties et contestées selon les

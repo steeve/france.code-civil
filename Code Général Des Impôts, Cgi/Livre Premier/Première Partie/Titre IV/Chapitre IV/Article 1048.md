@@ -1,8 +1,11 @@
 Article 1048
 ----
-I Les actes, pièces et écrits de toute nature faits pour l'application de
-l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de biens et de
-services et concernant exclusivement les règlements des diverses indemnités sont
-enregistrés gratis lorsqu'il y a lieu à la formalité de l'enregistrement.
+I. Le I reproduit les dispositions du premier alinéa de l'article L. 2234-24 du
+code de la défense :
 
-II (Sans objet).
+"Les actes, pièces et écrits de toute nature faits pour l'application des
+dispositions du présent chapitre et exclusivement relatifs aux règlements des
+diverses indemnités, sont dispensés du timbre. Ils sont enregistrés gratuitement
+lorsqu'il y a lieu à la formalité de l'enregistrement."
+
+II. (Sans objet).

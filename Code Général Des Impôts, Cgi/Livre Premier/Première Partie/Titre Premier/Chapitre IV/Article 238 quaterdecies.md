@@ -1,9 +1,9 @@
 Article 238 quaterdecies
 ----
-I. - Les plus-values soumises au régime des articles 39 duodecies à 39
-quindecies et réalisées dans le cadre d'une activité commerciale, industrielle,
-artisanale ou libérale sont exonérées lorsque les conditions suivantes sont
-simultanément satisfaites :
+I.-Les plus-values soumises au régime des articles 39 duodecies à 39 quindecies
+et réalisées dans le cadre d'une activité commerciale, industrielle, artisanale
+ou libérale sont exonérées lorsque les conditions suivantes sont simultanément
+satisfaites :
 
 1° Le cédant est soit :
 
@@ -23,7 +23,7 @@ d'activité ;
 
 3° La valeur des éléments de cette branche complète d'activité servant
 d'assiette aux droits d'enregistrement exigibles en application des articles
-719, 720 ou 724 n'excède pas 300 000 euros.
+719,720 ou 724 n'excède pas 300 000 €.
 
 4° Le cédant ne doit pas être dans l'une, au moins, des situations suivantes :
 
@@ -37,14 +37,14 @@ b) Le cédant exerce en droit ou en fait, directement ou indirectement, la
 direction effective de la société, de la personne morale ou du groupement
 cessionnaire.
 
-I bis. - L'exonération prévue au I est remise en cause si le cédant vient à se
+I bis.-L'exonération prévue au I est remise en cause si le cédant vient à se
 trouver dans l'une ou l'autre des situations visées au 4° du I à un moment
 quelconque au cours des trois années qui suivent la réalisation de la cession.
 
-II. - Par dérogation aux dispositions du I, les plus-values réalisées à
-l'occasion de la cession de biens immobiliers bâtis ou non bâtis, compris, le
-cas échéant, dans la branche complète d'activité cédée, demeurent imposables
-dans les conditions de droit commun.
+II.-Par dérogation aux dispositions du I, les plus-values réalisées à l'occasion
+de la cession de biens immobiliers bâtis ou non bâtis, compris, le cas échéant,
+dans la branche complète d'activité cédée, demeurent imposables dans les
+conditions de droit commun.
 
-III. - Les dispositions des I et II s'appliquent aux cessions intervenues entre
-le 16 juin 2004 et le 31 décembre 2005.
+III.-Les dispositions des 1°, 2°, 3° du I et du II s'appliquent aux cessions
+intervenues entre le 16 juin 2004 et le 31 décembre 2005.

@@ -142,7 +142,7 @@ En cas de cessation d'activité de l'établissement exceptionnel ayant donné li
 
 c. A compter du 1er janvier 2002, les dispositions du b sont également
 applicables aux établissements publics de coopération intercommunale mentionnés
-au dernier alinéa du I quater et faisant application, à compter de cette date,
+au second alinéa du I quater et faisant application, à compter de cette date,
 des dispositions du I de l'article 1609 nonies C.
 
 I quater. Pour les communautés de communes, lorsque les bases d'imposition d'un

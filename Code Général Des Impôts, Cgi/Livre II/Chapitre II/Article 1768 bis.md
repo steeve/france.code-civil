@@ -36,7 +36,7 @@ disposition ne concerne pas les dépositaires des actifs des organismes ou
 sociétés correspondants.
 
 1 bis. La transmission effectuée en méconnaissance de l'obligation prévue au
-dernier alinéa du 1 de l'article 242 ter donne lieu à l'application d'une amende
+onzième alinéa du 1 de l'article 242 ter donne lieu à l'application d'une amende
 de 15 euros par déclaration.
 
 2. Les infractions aux dispositions du deuxième alinéa de l'article 1649 A du
