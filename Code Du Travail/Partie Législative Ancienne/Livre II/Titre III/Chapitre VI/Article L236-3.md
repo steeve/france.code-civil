@@ -1,0 +1,10 @@
+Article L236-3
+----
+Le comité d'hygiène, de sécurité et des conditions de travail reçoit du chef
+d'établissement les informations qui lui sont nécessaires pour l'exercice de ses
+missions.
+
+Les membres du comité sont tenus à une obligation de discrétion à l'égard des
+informations présentant un caractère confidentiel et données comme telles par le
+chef d'établissement ou son représentant. Ils sont, en outre, tenus au secret
+professionnel pour toutes les questions relatives aux procédés de fabrication.
