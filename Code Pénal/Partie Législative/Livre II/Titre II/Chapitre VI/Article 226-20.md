@@ -1,13 +1,13 @@
 Article 226-20
 ----
-I. - Le fait de conserver des informations sous une forme nominative au-delà de
-la durée prévue par la demande d'avis ou la déclaration préalable à la mise en
-oeuvre du traitement informatisé est puni de trois ans d'emprisonnement et de
-45000 euros d'amende, sauf si cette conservation est effectuée à des fins
+Le fait de conserver des données à caractère personnel au-delà de la durée
+prévue par la loi ou le règlement, par la demande d'autorisation ou d'avis, ou
+par la déclaration préalable adressée à la Commission nationale de
+l'informatique et des libertés, est puni de cinq ans d'emprisonnement et de 300
+000 euros d'amende, sauf si cette conservation est effectuée à des fins
 historiques, statistiques ou scientifiques dans les conditions prévues par la
 loi.
 
-II. - Le fait de traiter des informations nominatives conservées au-delà de la
-durée mentionnée au I à des fins autres qu'historiques, statistiques ou
-scientifiques est puni des mêmes peines, sauf si ce traitement a été autorisé
-dans les conditions prévues par la loi.
+Est puni des mêmes peines le fait, hors les cas prévus par la loi, de traiter à
+des fins autres qu'historiques, statistiques ou scientifiques des données à
+caractère personnel conservées au-delà de la durée mentionnée au premier alinéa.
