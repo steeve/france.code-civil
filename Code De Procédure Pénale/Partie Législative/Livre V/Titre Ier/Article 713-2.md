@@ -5,8 +5,8 @@ procureur de la République du lieu d'arrivée, qui procède à son interrogatoi
 d'identité et en dresse procès-verbal. Toutefois, si l'interrogatoire ne peut
 être immédiat, le condamné est conduit à la maison d'arrêt où il ne peut être
 détenu plus de vingt-quatre heures. A l'expiration de ce délai, il est conduit
-d'office devant le procureur de la République, par les soins du
-surveillant-chef.
+d'office devant le procureur de la République, par les soins du chef
+d'établissement.
 
 Au vu des pièces constatant l'accord des Etats sur le transfèrement et le
 consentement de l'intéressé ainsi que de l'original ou d'une expédition du

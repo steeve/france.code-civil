@@ -1,17 +1,17 @@
 Article 717
 ----
-Les condamnés à la réclusion criminelle à perpétuité ou à temps purgent leur
-peine dans une maison centrale. Il en est de même des condamnés à
-l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à un
-an, ou plusieurs peines dont le total est supérieur à un an, après le moment où
-leur condamnation, ou la dernière de leurs condamnations, est devenue
-définitive.
+Les condamnés purgent leur peine dans un établissement pour peines ; toutefois,
+les condamnés à l'emprisonnement d'une durée inférieure ou égale à trois ans
+l'exécutent dans un établissement qui leur est spécialement réservé.
 
-Les autres condamnés à l'emprisonnement correctionnel sont détenus dans une
-maison de correction.
+Les condamnés à des peines inférieures à cinq ans peuvent exécuter leur peine
+dans les établissements prévus à l'alinéa précédent si le reliquat de peine leur
+restant à purger après leur condamnation est inférieur à trois ans.
 
-Les condamnés à l'emprisonnement de police sont incarcérés dans un quartier
-distinct de la maison d'arrêt.
-
-Un même établissement peut servir à la fois de maison d'arrêt et de maison de
-correction.
+Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an
+peuvent, cependant, à titre exceptionnel, être maintenus en maison d'arrêt et
+incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions
+tenant à la préparation de leur libération, leur situation familiale ou leur
+personnalité le justifient. Peuvent également, dans les mêmes conditions, être
+affectés, à titre exceptionnel, en maison d'arrêt, les condamnés auxquels il
+reste à subir une peine d'une durée inférieure à un an.

@@ -1,7 +1,7 @@
 Article 719
 ----
-Les condamnés sont soumis dans les maisons de correction à l'emprisonnement
-individuel du jour et de nuit, et dans les maisons centrales, à l'isolement de
+Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individuel
+du jour et de nuit, et dans les établissements pour peines , à l'isolement de
 nuit seulement, après avoir subi éventuellement une période d'observation en
 cellule.
 
