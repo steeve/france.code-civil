@@ -1,58 +1,68 @@
 Article R353-94
 ----
-Cette contribution est assise sur l'ensemble des loyers des logements
-conventionnés financés dans les conditions prévues au titre Ier du présent livre
-(première et deuxième parties), à l'exception des logements financés en
-application des décrets n° 63-1324 du 24 décembre 1963, n° 68-812 du 13
-septembre 1968 et des articles R. 311-1 à R. 311-65.
+La contribution [*financière au fonds national de l'habitation*] totale due
+chaque année est égale à la somme des contributions dues au titre de chacun des
+programmes de logement faisant l'objet d'une convention telles que définies au I
+ci-dessous et affectée, le cas échéant, d'une déduction dans les conditions
+définies au II ci-dessous.
 
-Son montant est déterminé annuellement par application à la masse des loyers des
-logements conventionnés d'un taux de base de la contribution, compte tenu des
-déductions liées aux charges de l'exercice résultant de la mise en oeuvre d'un
-programme de travaux et selon la formule suivante :
+I - Pour chacun des programmes de logements faisant l'objet d'une convention
+dans les conditions prévues à l'article R. 353-90, la contribution est assise
+sur les loyers des logements conventionnés ayant bénéficié d'aides de l'Etat,
+prévues par la règlementation antérieure au 4 janvier 1977, à l'exception des
+logements financés en application du titre II de la loi du 13 juillet 1928, des
+décrets n. 63-1324 du 24 décembre 1963, des immeubles à loyer moyen financés en
+application du décret n.
 
-P = Lt - D
+68-812 du 13 septembre 1968 et de l'article R. 311-1 (1er alinéa)
 
-dans laquelle
+et des logements mentionnés à l'article R. 353-90 (2.).
 
-P est le montant de la contribution des bailleurs au fonds national de
-l'habitation ;
+Cette contribution est calculée annuellement pour chacun de ces programmes de
+logements selon la formule suivante :
 
-L représente la masse des loyers constituant l'assiette de la contribution ;
+p = L X t dans laquelle p représente le montant de la contribution due au titre
+d'une année civile ;
 
-t représente le taux de base de la contribution ;
+L représente la masse annuelle des loyers des logements mentionnés au premier
+alinéa ci-dessus et due au cours de la même année civile ;
 
-D représente le montant des déductions liées aux charges du bailleur résultant
-de la réalisation d'un programme de travaux d'amélioration.
+t représente le taux de la contribution.
 
-Dans tout les cas où le montant des déductions (D) est supérieur ou égal au
-produit de la masse des loyers (L) par le taux de la contribution (t), celle-ci
-aura une valeur nulle.
+Cette contribution est due pour la première fois à compter de l'année civile qui
+suit la date d'entrée en vigueur du loyer résultant de la convention ou la date
+d'achèvement des travaux d'amélioration faisant l'objet d'une attestation
+d'exécution conforme établie par le préfet.
 
-Les modalités de détermination de chacun des paramètres (L) et (D) ainsi que la
-valeur du taux de base (t) sont fixées par arrêté conjoint des ministres chargés
-des finances et de la construction et de l'habitation.
+II - Lorsque le bailleur procède à la réalisation du programmes de travaux
+financés par les articles R. 323-1 à R. 323-11 réalisés sur des logements dont
+les loyers constituent l'assiette de la contribution, une déduction est opérée
+sur la somme des contributions annuelles dues pour chacun des programmes de
+logements faisant l'objet d'une convention et calculées dans les conditions du I
+ci-dessus.
 
-Toutefois, à titre dérogatoire, des bailleurs pourront être autorisés à utiliser
-un taux de base t, d'une valeur inférieure.
+Lorsque ce calcul donne un résultat négatif, la contribution totale est nulle et
+le solde négatif n'est pas reportable sur les exercices ultérieurs.
 
-La contribution due par un bailleur au titre d'un exercice donné déterminée par
-application de la formule ci-dessus est calculée sur la base des résultats
-constatés dans la comptabilité du bailleur pour l'exercice considéré. Les
-données propres au bailleur et nécessaires au calcul sont communiquées par le
-bailleur au ministre chargé de la construction et de l'habitation ou à ses
-représentants, avant le 30 juin [*date limite*] de l'exercice suivant l'exercice
-de référence. Le fonds national de l'habitation notifie au bailleur le montant
-de la contribution due au titre de l'exercice de référence au plus tard le 30
-septembre de l'exercice suivant l'exercice de référence.
+III - Les modalités de détermination des paramètres L et t ainsi que la
+déduction pour travaux sont fixées par arrêté conjoint des ministres chargés des
+finances et de la construction et de l'habitation.
 
-La contribution annuelle due par un bailleur au titre de chaque exercice est
-réglée au cours de l'exercice suivant par acomptes trimestriels dont le montant
-est égal au quart du montant de la contribution annuelle réglée au cours de
-l'exercice précédent.
+IV - La contribution totale, due par un bailleur au titre d'un exercice donné,
+déterminée en application des I, II et III ci-dessus est calculée sur la base
+des résultats constatés dans la comptabilité du bailleur. Les éléments
+nécessaires au calcul sont communiqués par le bailleur au ministre chargé de la
+construction et de l'habitation ou à ses représentants avant le 1er mai de
+l'exercice suivant l'exercice au titre duquel elle est due. Le président du
+fonds national de l'habitation notifie au bailleur le montant de la contribution
+totale due au titre d'un exercice au plus tard le 1er août de l'exercice
+suivant.
 
-La régularisation intervient au plus tard au 31 décembre de l'exercice suivant.
+La contribution totale annuelle due par le bailleur au titre d'un exercice est
+réglée au cours de l'exercice suivant :
 
-Les acomptes trimestriels peuvent donner lieu à une réduction de leur montant
-dans le cas où la contribution due pour un exercice donné pourrait être
-inférieure au montant dû pour l'exercice antérieur.
+a) Au plus tard le 15 février et le 15 mai sous forme de deux acomptes dont le
+montant est égal au tiers du montant de la contribution totale annuelle réglée
+au cours de l'exercice précédent ;
+
+b) Au plus tard le 1er octobre sous forme de régularisation.
