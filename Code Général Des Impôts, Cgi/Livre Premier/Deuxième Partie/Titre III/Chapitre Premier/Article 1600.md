@@ -143,7 +143,7 @@ la chambre de commerce et d'industrie et le taux calculé conformément au a, ce
 écart étant divisé par le nombre d'années restant à courir compte tenu de la
 durée fixée au 1.
 
-III. - En cas de création postérieurement au 1er juillet d'une chambre de
+III. - En cas de création postérieurement au 1er octobre (3) d'une chambre de
 commerce et d'industrie par dissolution de deux ou plusieurs chambres de
 commerce et d'industrie, les délibérations prises en application de l'article
 1602 A par les chambres dissoutes sont applicables aux opérations réalisées
@@ -158,4 +158,4 @@ de chambres, les calculs visés au II sont effectués en comparant les taux
 d'imposition additionnelle à la taxe professionnelle de la chambre issue de la
 première dissolution et de la chambre tierce, la période de réduction des écarts
 de taux ne pouvant être plus courte que le nombre d'années restant à courir pour
-achever la première opération de création (3).
+achever la première opération de création (4).

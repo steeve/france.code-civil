@@ -6,4 +6,4 @@ exonérer, chacun pour sa part, de taxe foncière sur les propriétés non bâti
 les terrains nouvellement plantés en noyers.
 
 Cette exonération ne saurait dépasser huit ans et la délibération devra
-intervenir au plus tard le 1er juillet de l'année précédente.
+intervenir au plus tard le 1er octobre (1) de l'année précédente.

@@ -22,10 +22,10 @@ contrats non couvertes par ailleurs ;
 5° Provision pour aléas financiers : destinée à compenser la baisse de rendement
 de l'actif ;
 
-6° Provision pour risque d'exigibilité des engagements techniques : provision
-destinée à faire face à une insuffisante liquidité des placements, notamment en
-cas de modification du rythme de règlement des sinistres, calculée dans les
-conditions définies au premier alinéa de l'article R. 331-5-1 ;
+6° Provision pour risque d'exigibilité : provision destinée à faire face aux
+engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
+l'article R. 332-20. La provision à constituer est calculée dans les conditions
+définies au I de l'article R. 331-5-1 ;
 
 7° Provision pour frais d'acquisition reportés : provision destinée à couvrir
 les charges résultant du report des frais d'acquisition constaté en application

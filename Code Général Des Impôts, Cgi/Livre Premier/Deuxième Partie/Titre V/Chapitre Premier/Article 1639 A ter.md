@@ -13,7 +13,7 @@ substitution ou d'une transformation de groupement préexistant sont applicables
 
 a. lorsqu'elles sont prises dans les conditions prévues à l'article 1639 A bis,
 aux opérations réalisées l'année de la création de l'établissement public de
-coopération intercommunale quand celle-ci est postérieure au 1er juillet ;
+coopération intercommunale quand celle-ci est postérieure au 1er octobre (1) ;
 
 b. lorsqu'elles sont prises en application de l'article 1465, aux opérations
 réalisées antérieurement à la date de création de l'établissement public de

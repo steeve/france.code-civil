@@ -59,10 +59,9 @@ l'article A. 341-1 ;
 
 b) Provision destinée à compenser en assurance-crédit la perte technique
 éventuelle apparaissant à la fin de l'exercice, et calculée dans les conditions
-fixées à l'article R. 331-33 ;
-
-c) Provision destinée à faire face aux fluctuations de sinistralité afférentes
-aux opérations d'assurance de groupe contre les risques de dommages corporels.
+fixées à l'article R. 331-33 ;L&gt; c) Provision destinée à faire face aux
+fluctuations de sinistralité afférentes aux opérations d'assurance de groupe
+contre les risques de dommages corporels ;
 
 7° Provision mathématique des réassurances : provision à constituer par les
 entreprises mentionnées aux 2° et 3° de l'article L. 310-1 qui acceptent en
@@ -71,7 +70,7 @@ d'assurance nuptialité-natalité et égale à la différence entre les valeurs
 actuelles des engagements respectivement pris l'un envers l'autre par le
 réassureur et le cédant ;
 
-8° Provision pour risque d'exigibilité des engagements techniques : provision
-destinée à faire face à une insuffisante liquidité des placements, notamment en
-cas de modification du rythme de règlement des sinistres, calculée dans les
-conditions définies au premier alinéa de l'article R. 331-5-1.
+8° Provision pour risque d'exigibilité : provision destinée à faire face aux
+engagements dans le cas de moins-value de l'ensemble des actifs mentionnés à
+l'article R. 332-20. La provision à constituer est calculée dans les conditions
+définies au I de l'article R. 331-5-1.
