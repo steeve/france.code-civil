@@ -13,8 +13,8 @@ hiérarchique du président du conseil d'administration ou du directeur de
 l'office. Ils sont notés par le président de la Commission nationale des
 accidents médicaux.
 
-Un même magistrat peut présider en qualité de président ou président adjoint
-deux commissions régionales au plus.
+Un même magistrat peut présider plusieurs commissions régionales en qualité de
+président ou président adjoint.
 
 Les membres de la commission autres que le président et son ou ses adjoints sont
 nommés par arrêté du préfet de région publié au recueil des actes administratifs
