@@ -13,6 +13,7 @@ l'article 84 de la loi n° 83-8 du 7 janvier 1983 modifiée ;
 
 2. Soit, à défaut de convention ou d'accord étendu, par un arrêté du ministre
 chargé de la formation professionnelle et du ministre qui délivre le diplôme
-pris après avis de la commission professionnelle consultative compétente et du
+pris après avis de la commission professionnelle consultative compétente ou des
+instances consultatives compétentes pour les enseignements supérieurs et du
 comité de coordination des programmes régionaux d'apprentissage et de formation
 professionnelle continue.
