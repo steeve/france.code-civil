@@ -5,10 +5,10 @@ décret n° 57-1360 du 30 décembre 1957 modifié est alimenté par une contribu
 des membres non salariés des professions agricoles perçue sur les primes ou
 cotisations acquittées au titre des contrats de l'assurance contre les accidents
 de la vie privée, les accidents du travail et les maladies professionnelles
-instituée par les articles 1234-1 et suivants du code rural.
+instituée par les articles L. 752-1 à L. 752-21 du code rural.
 
-Le taux de cette contribution est fixé à 10 p. 100. Ce taux s'applique aux
-primes ou cotisations émises à compter du 1er janvier 1997.
+Le taux de cette contribution est fixé à 10 %. Ce taux s'applique aux primes ou
+cotisations émises à compter du 1er janvier 1997.
 
 Cette contribution est liquidée et recouvrée suivant les mêmes règles, sous les
 mêmes garanties et sous les mêmes sanctions que la contribution prévue à

@@ -6,9 +6,9 @@ l'article 224, consacrent au financement des contrats d'insertion en alternance
 mentionnés aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail, un
 pourcentage minimal de 0,10 p. 100 du montant, entendu au sens des dispositions
 des chapitres Ier et II du titre IV du livre II du code de la sécurité sociale
-ou des chapitres II et III du titre II du livre VII du code rural pour les
-employeurs de salariés visés à l'article 1144 dudit code, des ((rémunérations
-versées)) (M) pendant l'année en cours.
+ou du titre IV du livre VII du code rural pour les employeurs de salariés visés
+à l'article L. 722-20 dudit code, des rémunérations versées pendant l'année en
+cours.
 
 La contribution dont les modalités de calcul ont été fixées au premier alinéa
 est versée par l'employeur, avant le 1er mars de l'année suivant celle au titre
@@ -25,5 +25,3 @@ contrats d'insertion en alternance et son versement à l'organisme de
 mutualisation. Le montant de ce versement est établi et recouvré selon les
 modalités ainsi que sous les sûretés, garanties et sanctions visées au premier
 alinéa de l'article 235 ter KC.
-
-(1) Modification.

@@ -7,19 +7,19 @@ I Sous réserve des dispositions du II, sont exonérés de la taxe professionnel
 d'intérêt collectif agricole qui emploient au plus trois salariés ou qui se
 consacrent :
 
-à l'électrification,
+à l'électrification ;
 
-à l'habitat ou à l'aménagement rural,
+à l'habitat ou à l'aménagement rural ;
 
-à l'utilisation de matériel agricole,
+à l'utilisation de matériel agricole ;
 
-à l'insémination artificielle,
+à l'insémination artificielle ;
 
-à la lutte contre les maladies des animaux et des végétaux,
+à la lutte contre les maladies des animaux et des végétaux ;
 
-à la vinification,
+à la vinification ;
 
-au conditionnement des fruits et légumes,
+au conditionnement des fruits et légumes ;
 
 et à l'organisation des ventes aux enchères ;
 
@@ -31,24 +31,24 @@ l'effectif salarié correspondant n'excède pas trois personnes ;
 agricole mutuel en vertu des dispositions législatives et réglementaires qui
 régissent le crédit mutuel et la coopération agricole :
 
-associations syndicales qui ont un objet exclusivement agricole,
+associations syndicales qui ont un objet exclusivement agricole ;,
 
 syndicats professionnels agricoles, à condition que leurs opérations portent
 exclusivement sur des produits ou instruments nécessaires aux exploitations
-agricoles elles-mêmes,
+agricoles elles-mêmes ;
 
 sociétés d'élevage, associations agricoles reconnues par la loi et dépendant du
 ministère de l'agriculture, qui ont pour objet de favoriser la production
-agricole, ainsi que leurs unions et fédérations,
+agricole, ainsi que leurs unions et fédérations ;
 
 chambres d'agriculture ;
 
 4° Les caisses locales d'assurances mutuelles agricoles régies par l'article
-1235 du code rural qui ont au plus deux salariés ou mandataires rémunérés.
+L771-1 du code rural qui ont au plus deux salariés ou mandataires rémunérés.
 
-((Pour l'appréciation du nombre de salariés, la période de référence à retenir
-est l'année mentionnée à l'article 1467 A, pour les impositions établies au
-titre de 1997 et des années suivantes)) (M).
+Pour l'appréciation du nombre de salariés, la période de référence à retenir est
+l'année mentionnée à l'article 1467 A, pour les impositions établies au titre de
+1997 et des années suivantes.
 
 II. A compter de 1992, l'exonération prévue aux 1° et 2° du I est supprimée pour
 :
@@ -60,5 +60,3 @@ b) Les sociétés d'intérêt collectif agricole dont plus de 50 p. 100 du capit
 ou des voix sont détenus directement ou par l'intermédiaire de filiales par des
 associés autres que ceux visés aux 1°, 2° et 3° de l'article L. 522-1 du code
 rural.
-
-(M) Modification de la loi 96-1182.

@@ -6,7 +6,7 @@ redevance sanitaire d'abattage au profit de l'Etat. Toutefois, en cas d'abattage
 propriétaire.
 
 Cette redevance est également acquittée par toute personne qui fait traiter du
-gibier sauvage par un atelier ayant reçu l'agrément prévu à l'article 260 du
+gibier sauvage par un atelier ayant reçu l'agrément prévu à l'article L233-2 du
 code rural. En cas de traitement à façon, la redevance est acquittée par
 l'atelier agréé pour le compte du propriétaire.
 

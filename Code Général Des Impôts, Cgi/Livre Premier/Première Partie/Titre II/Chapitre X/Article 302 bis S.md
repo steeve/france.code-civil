@@ -3,7 +3,7 @@ Article 302 bis S
 Toute personne qui procède à des opérations de découpage de viande avec os
 acquitte une redevance sanitaire de découpage au profit de l'Etat. La redevance
 est perçue auprès de l'abatteur, du tiers abatteur ou de l'atelier de traitement
-du gibier sauvage ayant reçu l'agrément prévu à l'article 260 du code rural,
+du gibier sauvage ayant reçu l'agrément prévu à l'article L233-2 du code rural,
 pour le compte du propriétaire des viandes à découper.
 
 Le fait générateur de la redevance est soit l'opération de découpage chez

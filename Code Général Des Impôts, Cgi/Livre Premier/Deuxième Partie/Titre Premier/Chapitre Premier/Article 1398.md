@@ -24,5 +24,6 @@ son cheptel, à condition de présenter une attestation du maire de sa commune,
 accompagnée d'un certificat dûment établi par le vétérinaire traitant.
 
 Le tribunal peut prononcer la déchéance du bénéfice des mesures prévues au
-présent article à l'encontre des contrevenants aux dispositions des articles 234
-à 239 du code rural, relatifs à la vaccination antiaphteuse obligatoire.
+présent article à l'encontre des contrevenants aux dispositions des articles
+L223-18 à L223-22 du code rural, relatifs à la vaccination antiaphteuse
+obligatoire.

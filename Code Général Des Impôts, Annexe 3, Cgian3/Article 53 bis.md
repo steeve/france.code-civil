@@ -7,7 +7,8 @@ articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et 1736 dudit code et
 professionnels agricoles énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances
-mutuelles agricoles constituées conformément à l'article 1235 du code rural ;
+mutuelles agricoles constituées conformément à l'article L. 771-1 du code rural
+;
 
 Caisses de crédit agricole mutuel ;
 

@@ -2,8 +2,8 @@ Article 999
 ----
 Sont exonérés de la taxe spéciale sur les conventions d'assurances les
 versements faits auprès d'organismes d'assurances par les institutions de
-retraite ou de prévoyance complémentaires visées à l'article L. 731-1 du code de
-la sécurité sociale et à l'article 1050 du code rural qui, tout en assurant
+retraite ou de prévoyance complémentaires visées à l'article L. 732-1 du code de
+la sécurité sociale et à l'article L727-2 du code rural qui, tout en assurant
 elles-mêmes le service de leurs prestations, confient à des entreprises
 d'assurances régies par le livre III du code des assurances le soin de procéder
 au placement de leurs fonds et à la capitalisation de leurs réserves. Cette

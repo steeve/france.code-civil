@@ -19,7 +19,7 @@ maternité ;
 travailleurs non salariés des professions non agricoles ;
 
 5° Les sociétés et organismes qui assurent le service des prestations prévues
-par les articles 1234-1 à 1234-18 du code rural relatifs à l'assurance des
+par les articles L752-1 à L752-21 du code rural relatifs à l'assurance des
 personnes non salariées contre les accidents et les maladies professionnelles
 dans l'agriculture.
 

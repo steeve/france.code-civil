@@ -1,8 +1,13 @@
 Article 1034
 ----
-Les pièces relatives à l'application des dispositions des chapitres III et V du
-titre III du livre VII du code rural sont exonérées du timbre et des droits
-d'enregistrement.
+Ainsi qu'il est dit à l'article L. 752-18 du code rural, les pièces relatives à
+l'application de la section 1 du chapitre II du titre V du livre VII de ce code
+sont dispensées du droit de timbre et d'enregistrement.
 
-Les pièces ou actes visés au premier alinéa doivent porter une mention expresse
-se référant à l'article 1234-11 du code rural.
+Les jugements ou arrêts, ainsi que les extraits, copies ou expéditions revêtues
+ou non de la formule exécutoire qui en sont délivrés et, généralement, tous les
+actes de procédure auxquels donne lieu l'application de la même section, sont
+également dispensés des formalités de timbre et d'enregistrement.
+
+Les pièces ou actes visés aux deux alinéas précédents doivent porter une mention
+expresse se référant à l'article L. 752-18 du code rural.
