@@ -1,7 +1,7 @@
 Article R513-11
 ----
 En vue de l'établissement de la liste électorale, chaque employeur adresse au
-plus tard le 31 juillet de l'année de l'élection générale [*date limite*], aux
+plus tard le 10 septembre de l'année de l'élection générale [*date limite*], aux
 maires compétents, des états distincts énumérant respectivement :
 
 - les cadres qui sont électeurs employeurs au sens du cinquième alinéa de
@@ -15,7 +15,7 @@ code du travail ;
 
 Toutefois, par dérogation à l'alinéa précédent, lorsque les salariés recensés
 par l'employeur exercent leurs activités dans plusieurs communes ou lorsqu'ils
-travaillent en dehors de tout établissement, leurs noms sont portés sur des
+travaillent en dehors de tout établissement, leurs noms sont portés sur ces
 états distincts.
 
 Sont portés sur un état distinct les salariés qui déclarent dépendre de

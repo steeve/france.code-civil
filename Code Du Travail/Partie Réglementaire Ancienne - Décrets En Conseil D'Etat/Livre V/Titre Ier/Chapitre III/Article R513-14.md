@@ -1,7 +1,7 @@
 Article R513-14
 ----
 Les états et les observations mentionnés à l'article R. 513-12 doivent être
-adressés au plus tard le 31 juillet de l'année de l'élection générale [*date
+adressés au plus tard le 10 septembre de l'année de l'élection générale [*date
 limite*] aux maires compétents :
 
 S'il s'agit des états mentionnés au premier alinéa de l'article R. 513-11, au
