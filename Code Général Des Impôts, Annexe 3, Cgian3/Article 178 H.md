@@ -6,8 +6,8 @@ contributions indirectes.
 
 L'intervention du service pour l'apposition des plombs sur les colis expédiés
 doit être réclamée par une déclaration faite au bureau de déclarations de la
-direction générale des impôts au moins quarante-huit heures à l'avance
-[*délai*].
+direction générale des douanes et droits indirects au moins quarante-huit heures
+à l'avance.
 
 Aucune expédition ne peut être faite avant l'apposition des plombs.
 

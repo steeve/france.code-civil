@@ -8,4 +8,4 @@ taxe.
 Toute livraison à soi-même par un fabricant ou un importateur de produits
 imposables à la taxe sur les allumettes et les briquets doit faire l'objet d'un
 bon de livraison dans les conditions déterminées par l'administration des
-impôts.
+douanes et droits indirects.

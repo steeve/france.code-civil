@@ -2,8 +2,8 @@ Article 178 M
 ----
 Les fabricants d'essences d'absinthe ou de produits assimilés, d'hysope, de
 badiane, de fenouil et d'anis doivent inscrire sur un registre conforme au
-modèle agréé par le service des impôts et préalablement coté et paraphé par le
-chef de service local :
+modèle agréé par le service des douanes et droits indirects et préalablement
+coté et paraphé par le chef de service local :
 
 1° La nature et le poids des matières premières introduites dans l'établissement
 ou obtenues sur place, avec éventuellement indication du nom de l'expéditeur et

@@ -6,7 +6,7 @@ représentation d'un acquit-à-caution.
 Toute introduction de matières premières, autres que les raisins, destinées à la
 fabrication de boissons alcooliques doit faire, une heure au moins à l'avance,
 l'objet d'une déclaration au bureau de déclarations de la direction générale des
-impôts.
+douanes et droits indirects.
 
 Les quantités introduites sont, après vérification, prises en charge par les
 agents et emmagasinées dans un ou plusieurs locaux spécialement affectés à cet

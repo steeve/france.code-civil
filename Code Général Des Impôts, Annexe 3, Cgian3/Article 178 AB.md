@@ -1,8 +1,9 @@
 Article 178 AB
 ----
 Les pharmaciens d'officine sont tenus de déposer au bureau de déclarations de la
-direction générale des impôts, dès l'arrivée des chargements, les
-acquits-à-caution ayant accompagné les produits visés à l'article 178 A.
+direction générale des douanes et droits indirects, dès l'arrivée des
+chargements, les acquits-à-caution ayant accompagné les produits visés à
+l'article 178 A.
 
 Ils peuvent délivrer ces produits seulement aux conditions suivantes :
 
@@ -18,18 +19,18 @@ nature de produits.
 
 Ce compte fait apparaître, d'une part :
 
-a Les quantités existant dans l'officine lors de l'ouverture ou de la reprise du
+a. Les quantités existant dans l'officine lors de l'ouverture ou d la reprise du
 compte;
 
-b Les quantités reçues de l'extérieur;
+b. Les quantités reçues de l'extérieur;
 
-c Les excédents constatés aux inventaires;
+c. Les excédents constatés aux inventaires;
 
 et, d'autre part :
 
-a Les quantités utilisées sur place ou vendues en nature;
+a. Les quantités utilisées sur place ou vendues en nature;
 
-b Les quantités reconnues manquantes aux inventaires.
+b. Les quantités reconnues manquantes aux inventaires.
 
 Les quantités reçues et les utilisations qui ne donnent pas lieu à inscription à
 l'ordonnancier sont immédiatement portées au compte. Les utilisations et les

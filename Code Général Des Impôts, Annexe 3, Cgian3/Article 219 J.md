@@ -1,7 +1,8 @@
 Article 219 J
 ----
-Les agents des impôts procédent, en début et en fin de campagne de fabrication,
-à l'inventaire des quantités de sucre existantes.
+Les agents du service des douanes et droits indirects procèdent, en début et en
+fin de campagne de fabrication, à l'inventaire des quantités de sucre
+existantes.
 
 Ils peuvent en outre procéder à tous autres inventaires qui leur paraissent
 nécessaires.

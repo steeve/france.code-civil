@@ -3,8 +3,8 @@ Article 127
 Il est défendu d'apporter aucune modification aux procédés de fabrication et aux
 jours et heures de travail déclarés en vertu de l'article 125, de changer,
 modifier ou altérer la contenance des vaisseaux ou d'en établir de nouveaux sans
-l'avoir déclaré au bureau de déclarations de la direction générale des impôts,
-vingt-quatre heures à l'avance.
+l'avoir déclaré au bureau de déclarations de la direction générale des douanes
+et droits indirects, vingt-quatre heures à l'avance.
 
 Le fabricant peut seulement faire usage desdits vaisseaux lorsque leur
 contenance a été vérifiée.

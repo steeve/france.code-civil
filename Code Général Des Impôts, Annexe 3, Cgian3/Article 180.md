@@ -9,6 +9,7 @@ dénaturés.
 
 En cas de nécessités industrielles dûment établies, des autorisations spéciales
 d'emploi des substances susvisées peuvent être accordées par le service des
-impôts, aux conditions de surveillance qu'il détermine dans chaque cas
-particulier. Les frais de contrôle sont mis à la charge des intéressés dans les
-conditions fixées par l'article 631 du code général des impôts.
+douanes et droits indirects, aux conditions de surveillance qu'il détermine dans
+chaque cas particulier. Les frais de contrôle sont mis à la charge des
+intéressés dans les conditions fixées par l'article 631 du code général des
+impôts.

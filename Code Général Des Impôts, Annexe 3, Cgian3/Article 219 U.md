@@ -1,7 +1,8 @@
 Article 219 U
 ----
-Les agents des impôts procèdent en début et en fin de campagne de fabrication à
-l'inventaire des quantités d'isoglucose existantes (1).
+Les agents du service des douanes et droits indirects procèdent en début et en
+fin de campagne de fabrication à l'inventaire des quantités d'isoglucose
+existantes (1).
 
 Pour l'application de l'article L. 51 du livre des procédures fiscales, les
 rapprochements auxquels donne lieu l'établissement de l'inventaire, entre le
