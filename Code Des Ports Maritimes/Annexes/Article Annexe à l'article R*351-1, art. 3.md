@@ -12,7 +12,8 @@ La date et l'heure de l'arrivée ;
 Le tirant d'eau maximum du bâtiment à son arrivée au port ;
 
 La nature et le tonnage des différentes matières et cargaisons dangereuses
-transportées (en transit ou à débarquer) ;
+transportées (en transit ou à débarquer) ainsi que la nature et le tonnage des
+déchets d'exploitation et résidus de cargaison du navire ;
 
 Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
 
