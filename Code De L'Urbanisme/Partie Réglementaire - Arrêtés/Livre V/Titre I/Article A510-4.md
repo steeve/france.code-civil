@@ -1,4 +1,4 @@
 Article A510-4
 ----
-Le président de la mission pour l'implantation territoriale des emplois publics
-assiste aux séances du comité avec voix consultative.
+Le préfet de la région d'Ile-de-France assiste aux séances du comité en tant
+qu'expert permanent. Il peut se faire représenter.

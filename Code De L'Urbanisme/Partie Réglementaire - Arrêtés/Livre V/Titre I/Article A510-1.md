@@ -1,35 +1,30 @@
 Article A510-1
 ----
-Le comité de décentralisation placé auprès du ministre chargé de l'aménagement
-du territoire, institué par l'article R. 510-2, est ainsi composé :
+Le comité pour l'implantation territoriale des emplois publics institué par
+l'article R. 510-2 est composé, outre son président, de :
 
-1° Sept représentants de l'administration :
+1° Six représentants de l'administration :
 
-a) Un représentant du ministre chargé de l'urbanisme, vice-président ;
+a) Un représentant du ministre chargé de la réforme de l'Etat ;
 
-b) Un représentant du ministre chargé de l'aménagement du territoire, rapporteur
-;
+b) Un représentant du ministre chargé de l'aménagement du territoire ;
 
-c) Un représentant du préfet de la région d'Ile-de-France, rapporteur ;
+c) Un représentant du ministre chargé de l'urbanisme ;
 
-d) Un représentant du ministre de l'intérieur ;
+d) Un représentant du ministre chargé du budget ;
 
-e) Un représentant du ministre chargé du budget et du ministre chargé de
-l'économie ;
+e) Un représentant du ministre de l'intérieur ;
 
-f) Un représentant du ministre chargé du logement ;
+f) Un représentant du secrétaire général du Gouvernement ;
 
-g) Un représentant du secrétaire général du Gouvernement.
+2° Trois élus des conseils régionaux désignés sur proposition de l'Association
+des régions de France ;
 
-2° Trois élus des collectivités territoriales, dont un conseiller régional
-d'Ile-de-France.
+3° Deux personnalités choisies en fonction de leur compétence ou de leur
+connaissance des problèmes d'aménagement du territoire ainsi que de la gestion
+des organisations publiques ou privées.
 
-3° Trois personnalités choisies en fonction de leur compétence ou de leur
-connaissance des problèmes d'aménagement du territoire.
-
-Les membres du comité de décentralisation mentionnés aux 2° et 3° du présent
-article ainsi que leurs suppléants sont nommés par arrêté du Premier ministre,
-sur proposition du ministre chargé de l'aménagement du territoire et du ministre
-chargé de l'urbanisme.
-
-Leur mandat, d'une durée de trois ans, est renouvelable deux fois.
+Les membres du comité mentionnés au 2° et au 3° du présent article ainsi que
+leurs suppléants sont nommés par arrêté conjoint du ministre chargé de la
+réforme de l'Etat et du ministre chargé de l'aménagement du territoire. Leur
+mandat, d'une durée de trois ans, est renouvelable une fois.
