@@ -1,7 +1,19 @@
 Article R321-3
 ----
-La taxe additionnelle au droit de bail constituant une des ressources de
-l'agence aux termes de l'article L. 321-3 est versée entre les mains du
-fonctionnaire compétent des services fiscaux du lieu de la situation du local et
-dans les conditions fixées par arrêté du ministre chargé de la construction et
-de l'habitation et du ministre chargé des finances.
+Pour l'accomplissement de sa mission, l'agence dispose des ressources suivantes
+:
+
+1° Des subventions de l'Etat ;
+
+2° Les recettes fiscales affectées par la loi ;
+
+3° Le produit des amendes civiles mentionnées à l'article L. 651-2 ;
+
+4° Des emprunts et le produit des placements financiers qu'elle est autorisée à
+effectuer conformément à la législation et à la réglementation ;
+
+5° Le remboursement des subventions qu'elle a accordées et qui sont annulées ;
+
+6° Le produit des dons et legs ;
+
+7° Des recettes accessoires.

@@ -1,7 +1,7 @@
 Article R*321-16
 ----
-Par dérogation aux dispositions du décret n° 62-1587 du 29 décembre 1962
-modifié, dans ses articles 151 à 189, la gestion des fonds de l'agence et les
-opérations comptables sont effectuées par le Crédit foncier de France dans les
-conditions arrêtées par une convention particulière conclue entre le ministre
-chargé des finances et le gouverneur du Crédit foncier de France.
+L'agence peut également participer, sous forme de subvention et par voie de
+convention, au financement d'études relatives aux travaux lors de la réalisation
+des opérations programmées d'amélioration de l'habitat prévues à l'article L.
+303-1 et des plans de sauvegarde prévus à l'article L. 615-1 ainsi qu'au
+financement de l'animation et du suivi de la mise en oeuvre de ces opérations.

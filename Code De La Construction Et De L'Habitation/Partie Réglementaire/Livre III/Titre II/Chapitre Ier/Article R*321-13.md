@@ -1,13 +1,18 @@
 Article R*321-13
 ----
-Le directeur de l'agence nationale nomme un délégué auprès de chacune des
-commissions d'amélioration de l'habitat. Le délégué remplit auprès de la
-commission le rôle confié au directeur auprès du conseil d'administration de
-l'agence. Il peut déférer les décisions de la commission au conseil
-d'administration dans le délai imparti aux ministres pour faire opposition à une
-délibération du conseil d'administration. Il assure l'exécution des décisions de
-la commission et ordonnance les recettes et les dépenses dans la limite des
-délégations qui lui sont consenties à cet effet par le directeur de l'agence.
+Sous réserve de l'application des dispositions du 4° de l'article R. 321-12 et
+exception faite de l'établissement public de gestion immobilière de Nord -
+Pas-de-Calais institué par l'article 191 de la loi n° 2000-1208 du 13 décembre
+2000 relative à la solidarité et au renouvellement urbains, les collectivités
+publiques et leurs établissements publics ne peuvent bénéficier de l'aide de
+l'agence.
 
-Le directeur de l'agence fixe, en tant que de besoin, les autres attributions du
-délégué.
+Les personnes morales mentionnées à l'article L. 411-2 et les sociétés
+d'économie mixte ayant pour objet statutaire la construction ou la gestion de
+logements ou la restructuration urbaine ne peuvent bénéficier de l'aide de
+l'agence que pour les opérations de réhabilitation, en vue de leur revente, des
+logements acquis dans les copropriétés faisant l'objet du plan de sauvegarde
+prévu à l'article L. 615-1. La commission d'amélioration de l'habitat peut,
+selon des critères définis par le règlement général de l'agence, assortir l'aide
+qu'elle accorde de dérogations aux règles d'utilisation des locaux définies à
+l'article R. 321-20.

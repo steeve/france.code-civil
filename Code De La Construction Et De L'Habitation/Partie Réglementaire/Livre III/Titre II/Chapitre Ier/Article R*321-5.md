@@ -1,33 +1,23 @@
 Article R*321-5
 ----
-Le conseil d'administration est composé de quatorze membres :
+Le conseil d'administration exerce les attributions suivantes :
 
-- un président, désigné par arrêté du ministre chargé de la construction et de
-l'habitation et du ministre chargé des finances ;
+1° Il vote le budget et approuve les comptes de l'agence ;
 
-- deux représentants du ministre chargé de la construction et de l'habitation ;
+2° Il arrête son règlement intérieur ainsi que celui du comité restreint ;
 
-- deux représentants du ministre chargé des finances ;
+3° Il établit le règlement général de l'agence, qui, une fois approuvé, est
+publié au Journal officiel de la République française ;
 
-- un représentant du Crédit foncier de France ;
+4° Il dresse la liste des travaux qui peuvent être subventionnés ;
 
-- cinq représentants des propriétaires ;
+5° Il définit les programmes d'actions de l'agence dans le cadre des
+orientations générales fixées par le ministre chargé du logement ;
 
-- deux représentants des locataires ;
+6° Il prend les mesures, décisions ou sanctions prévues en application des
+articles R. 321-11, R. 321-15, R. 321-17 et R. 321-21 ;
 
-- une personne qualifiée pour sa compétence en matière d'habitation, notamment
-du point de vue social.
+7° Il autorise la conclusion des conventions nécessaires à l'exercice de
+missions de l'agence ;
 
-Ces huit derniers membres ainsi qu'un nombre égal de membres suppléants sont
-nommés pour trois ans [*durée*] par arrêté du ministre chargé de la construction
-et de l'habitation. Leur mandat est renouvelable.
-
-En cas de partage des voix, celle du président est prépondérante.
-
-Un comité restreint assure la permanence des relations entre le conseil
-d'administration et le directeur. Ce comité est composé du président du conseil
-d'administration, d'un représentant de chacun des deux ministres, d'un
-représentant des propriétaires et d'un représentant des locataires.
-
-Le conseil d'administration peut donner à ce comité délégation pour des matières
-limitativement énumérées.
+8° Il statue sur le rapport annuel d'activités.
