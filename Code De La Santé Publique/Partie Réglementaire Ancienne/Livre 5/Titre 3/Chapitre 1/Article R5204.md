@@ -18,13 +18,12 @@ Les médicaments spécialisés contenant une ou plusieurs substances du tableau 
 doivent en outre comporter, sur les étiquettes intérieure et extérieure, le nom
 de la substance tel qu'il figure au tableau B, sa concentration en toutes
 lettres, la quantité contenue dans le récipient et, sur l'emballage extérieur,
-un espace blanc encadré d'un double filet rouge orangé, dans lequel le
-pharmacien détaillant doit inscrire son nom, son adresse, le numéro
-d'inscription à l'ordonnancier et le mode d'emploi indiqué par l'auteur de la
-prescription.
+un espace blanc encadré d'un filet rouge-orangé, dans lequel le pharmacien
+détaillant doit inscrire son nom, son adresse, le numéro d'inscription à
+l'ordonnancier et le mode d'emploi indiqué par l'auteur de la prescription.
 
 Si la spécialité comprend en outre des substances inscrites à d'autres tableaux,
-seul doit figurer le double filet rouge orangé.
+seul doit figurer le filet rouge-orangé.
 
 Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en
 outre, dans tous les cas, une étiquette portant, imprimée en noir sur fond rouge

@@ -12,5 +12,7 @@ Si le ministre estime ne pas pouvoir accorder l'autorisation de mise sur le
 marché, il transmet son opposition motivée au comité et au responsable de la
 mise sur le marché de la spécialité pharmaceutique.
 
-Après réception de l'avis du comité le ministre prononce sur la suite à donner à
-cet avis dans un délai de soixante jours et informe le comité de sa décision.
+Après réception de l'avis du comité, le ministre se prononce sur la suite à
+donner à cet avis dans un délai de soixante jours. Ce délai est de trente jours
+lorsque l'avis du comité est donné en application des articles R. 5140-1 et R.
+5140-2. Le comité est informé de cette décision.
