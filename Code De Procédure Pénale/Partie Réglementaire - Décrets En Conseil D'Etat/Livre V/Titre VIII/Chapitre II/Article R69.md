@@ -37,10 +37,10 @@ statué ;
 
 8° Pour les décisions prises en application des articles 132-21 du code pénal,
 702-1, 775-1 et 777-1 du code de procédure pénale, par le greffier de la
-juridiction qui a statué.
+juridiction qui a statué ;
 
-Les homologations de concordat sont également enregistrées d'après l'avis qui en
-est donné par le greffier de la juridiction qui a prononcé.
+9° Pour les décisions visées à l'article 768 5°, par le greffier de la
+juridiction qui a statué après visa du ministère public.
 
 Ces avis peuvent être adressés au service du casier judiciaire national
 automatisé sous la forme d'un support magnétique ou par téléinformatique.
