@@ -22,4 +22,4 @@ définitive de l'exercice de l'activité de l'infirmier responsable des soins da
 l'Etat d'origine ou de provenance n'est en cours à son encontre.
 
 L'infirmier ou l'infirmière prestataire de services est soumis aux dispositions
-des articles L. 4312-1 et L. 4313-1.
+de l'article L. 4312-1.

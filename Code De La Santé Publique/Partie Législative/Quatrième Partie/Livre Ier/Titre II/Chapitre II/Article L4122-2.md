@@ -1,9 +1,11 @@
 Article L4122-2
 ----
-Le conseil national fixe le montant unique de cotisation qui doit être versé par
-chaque médecin, chirurgien-dentiste ou sage-femme au conseil départemental ; il
-détermine également la quotité de cette cotisation qui doit être versée par le
-conseil départemental au conseil régional dont il relève et au conseil national.
+Le conseil national fixe le montant unique de la cotisation qui doit être versée
+à chaque ordre par chaque médecin, chirurgien-dentiste ou sage-femme. Il
+détermine également les quotités de cette cotisation qui seront attribuées à
+chaque conseil départemental, à chaque conseil régional ou interrégional et au
+conseil national, en précisant la part consacrée au fonctionnement des chambres
+disciplinaires placées auprès de ces instances.
 
 Les cotisations sont obligatoires.
 

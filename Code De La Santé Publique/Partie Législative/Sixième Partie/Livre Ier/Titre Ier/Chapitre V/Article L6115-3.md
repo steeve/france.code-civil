@@ -37,7 +37,12 @@ informée de toute suspension d'autorisation en application du premier alinéa d
 l'article L. 6122-13.
 
 Dans l'exercice des compétences définies au présent article, le directeur est
-soumis à l'autorité des ministres chargés de la santé et de la sécurité sociale.
+soumis à l'autorité des ministres chargés de la santé et de la sécurité sociale
+qui peuvent lui déléguer leur signature.
 
 Le directeur peut déléguer sa signature dans les conditions définies par voie
 réglementaire.
+
+Le directeur adjoint ou, lorsque cette fonction n'existe pas, le secrétaire
+général supplée de droit le directeur en cas de vacance momentanée, d'absence ou
+d'empêchement.

@@ -18,6 +18,7 @@ dispensés de la certification de conformité prévue à l'article L. 5211-3 ;
 sont applicables, ainsi que, le cas échéant, la durée pendant laquelle la
 certification est valable ;
 
-5° Les catégories de dispositifs médicaux pour lesquels une déclaration expresse
-auprès de l'Agence française de sécurité sanitaire des produits de santé est
-nécessaire.
+5° Les catégories de dispositifs médicaux et les modalités de la communication
+prévues à l'article L. 5211-4, ainsi que les données devant être transmises à
+l'Agence française de sécurité sanitaire des produits de santé en application de
+cet article.

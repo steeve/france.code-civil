@@ -21,5 +21,3 @@ parents ;
 
 - soutenir et promouvoir des actions de formation et de perfectionnement
 d'éducation qualifiée en ces matières.
-
-Il donne un avis préalable aux conventions mentionnées à l'article L. 2312-5.

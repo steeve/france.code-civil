@@ -13,3 +13,17 @@ auraient un intérêt direct ou indirect.
 Elles sont tenues au secret et à la discrétion professionnels dans les mêmes
 conditions que celles définies à l'article 26 du titre Ier du statut général des
 fonctionnaires.
+
+Elles sont soumises à l'interdiction prévue au premier alinéa de l'article L.
+4113-6. Est interdit le fait, pour les entreprises mentionnées au premier alinéa
+de l'article L. 4113-6, de proposer ou de procurer à ces personnes les avantages
+cités dans cet alinéa.
+
+Elles sont également soumises aux dispositions des premier et troisième alinéas
+de l'article L. 4113-13. En cas de manquement à ces dispositions, l'autorité
+administrative peut mettre fin à leurs fonctions.
+
+Les médecins experts de l'agence n'ont accès aux données de santé à caractère
+personnel que si elles sont strictement nécessaires à l'exercice de leur mission
+d'accréditation lors de leur visite sur les lieux, dans le respect du secret
+médical.

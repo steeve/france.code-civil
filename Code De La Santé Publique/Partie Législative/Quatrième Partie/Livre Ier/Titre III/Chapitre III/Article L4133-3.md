@@ -1,24 +1,19 @@
 Article L4133-3
 ----
-Le conseil national de la formation médicale continue est composé de
-représentants :
+Les conseils nationaux mentionnés à l'article L. 4133-2 comprennent notamment
+des représentants de l'ordre des médecins, des unités de formation et de
+recherche médicale, des syndicats représentatifs des catégories de médecins
+concernés, des organismes de formation, des personnalités qualifiées ainsi qu'un
+représentant du ministre chargé de la santé qui siège avec voix consultative.
 
-1° De l'ordre des médecins ;
+Les membres de ces conseils sont nommés par le ministre chargé de la santé, sur
+proposition des organismes qui les constituent.
 
-2° Des unités de formation et de recherche de médecine ;
+La durée du mandat des membres des conseils nationaux est de cinq ans. Un
+président est nommé au sein de chaque conseil par le ministre chargé de la
+santé, parmi les membres de ces conseils.
 
-3° Des associations ou fédérations d'associations de formation médicale continue
-;
-
-4° Des unions des médecins exerçant à titre libéral mentionnées à l'article L.
-4134-1.
-
-La durée du mandat des membres du conseil national est de quatre ans. Un
-président et trois vice-présidents sont élus en leur sein par les membres du
-conseil.
-
-Un représentant du ministre chargé de la santé, un représentant du ministre
-chargé de l'enseignement supérieur, un représentant de chacune des caisses
-nationales d'assurance maladie et un représentant du fonds d'assurance formation
-mentionné à l'article L. 4133-6 participent avec voix consultative aux travaux
-du conseil national.
+Le comité de coordination de la formation médicale continue est composé à parts
+égales de représentants désignés par chacun des conseils nationaux de formation
+médicale continue et par le conseil national mentionné à l'article L. 6155-2,
+ainsi que de représentants du ministre chargé de la santé.

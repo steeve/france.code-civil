@@ -1,35 +1,22 @@
 Article L6147-4
 ----
-L'établissement public de santé territorial de Saint-Pierre-et-Miquelon est
-chargé d'une mission générale de prévention et de soins comportant ou non
-hébergement.
+L'établissement public de santé de Saint-Pierre-et-Miquelon est administré par
+un conseil d'administration et par un directeur. Ce dernier est nommé par
+l'autorité administrative supérieure. Il peut appartenir soit au corps médical,
+soit au corps du personnel de direction des établissements mentionnés aux 1°, 2°
+et 3° de l'article 2 du titre IV du statut général des fonctionnaires.
 
-Cet établissement reçoit le concours de l'Etat pour les services d'hébergement
-non pris en charge par l'assurance maladie.
-
-Il exerce les missions définies aux chapitres Ier et II du titre Ier du livre
-Ier de la présente partie, notamment le diagnostic et le traitement des malades,
-des blessés et des femmes enceintes. Il dispense également les soins à domicile
-aux personnes qui en font la demande.
-
-Il assure les missions dévolues au département dans les domaines définis par
-l'article L. 1423-1.
-
-De plus, il est chargé :
-
-1° De la vente au détail des médicaments, produits et objets mentionnés aux
-articles L. 4211-1 et L. 5111-1. Par dérogation aux dispositions de l'article L.
-5126-2, l'autorisation de vente au public est permanente ;
-
-2° Des transports sanitaires définis au livre III de la présente partie ;
-
-3° Du contrôle sanitaire aux frontières défini au chapitre V du titre Ier du
-livre Ier de la partie III ;
-
-4° Des examens et contrôles nécessaires à la protection de la santé publique
-prévus au livre III de la partie I.
-
-Il concourt à l'éducation sanitaire.
-
-Il peut assurer la gestion des établissements sociaux existant dans la
+Le conseil d'administration comprend des représentants des collectivités locales
+intéressées, du personnel médical et pharmaceutique, de la caisse de prévoyance
+sociale, du personnel titulaire n'appartenant pas au corps médical et des
+personnes qualifiées désignées par le représentant de l'Etat dans la
 collectivité territoriale.
+
+La commission médicale est obligatoirement consultée sur le fonctionnement des
+services médicaux.
+
+Le comité technique paritaire est obligatoirement consulté sur le fonctionnement
+des services, et notamment sur les conditions de travail dans l'établissement.
+
+Un décret détermine la composition du conseil d'administration et les
+incompatibilités s'appliquant à ses membres.

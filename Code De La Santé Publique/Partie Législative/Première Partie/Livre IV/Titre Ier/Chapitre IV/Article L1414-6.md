@@ -17,7 +17,10 @@ autres professionnels de santé libéraux ;
 
 5° De représentants des organismes mutualistes ;
 
-6° De personnalités qualifiées.
+6° De personnalités qualifiées ;
+
+7° De représentants des usagers, membres des associations mentionnées à
+l'article L. 1114-1.
 
 Les catégories mentionnées aux 3°, 4° et 5° ne peuvent détenir ensemble plus du
 quart des voix délibératives au sein du conseil d'administration. La moitié au

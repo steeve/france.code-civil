@@ -1,10 +1,13 @@
 Article L4321-10
 ----
-Les masseurs-kinésithérapeutes sont tenus, dans le mois qui suit leur entrée en
-fonctions, de faire enregistrer à la préfecture leur diplôme ou leur
-autorisation.
+Les masseurs-kinésithérapeutes ne peuvent exercer leur profession, à l'exception
+de ceux qui relèvent du service de santé des armées, que s'ils sont inscrits sur
+une liste dressée par le représentant de l'Etat dans le département de leur
+résidence professionnelle, qui enregistre leurs diplômes, certificats, titres ou
+autorisations. L'inscription mentionne la ou les catégories dans lesquelles le
+masseur-kinésithérapeute exerce, à titre libéral, ou en tant que salarié du
+secteur public ou du secteur privé.
 
-Tout changement de résidence professionnelle hors des limites du département
-oblige à un nouvel enregistrement. La même obligation s'impose aux personnes
-qui, après deux ans d'interruption, veulent reprendre l'exercice de leur
-profession.
+Les dispositions des trois derniers alinéas de l'article L. 4311-15 et celles
+des articles L. 4311-16 à L. 4311-21, L. 4311-26 et L. 4311-27 leur sont
+applicables.

@@ -1,18 +1,15 @@
 Article L4133-7
 ----
-Les ressources du fonds d'assurance formation des médecins exerçant à titre
-libéral proviennent :
+Les employeurs publics et privés de médecins salariés mentionnés à l'article L.
+4133-2 sont tenus de prendre les dispositions permettant à ces médecins
+d'assumer leur obligation de formation dans les conditions fixées par le présent
+code.
 
-1° Des cotisations versées par ces médecins en application des dispositions de
-l'article L. 953-1 du code du travail ;
+Pour les employeurs visés à l'article L. 950-1 du code du travail, les actions
+de formation sont financées dans le cadre des dispositions prévues aux articles
+L. 951-1 et L. 952-2 du même code.
 
-2° D'une contribution annuelle des organismes nationaux d'assurance maladie,
-dont le montant est fixé par les conventions prévues à l'article L. 162-5 du
-code de la sécurité sociale ; à défaut, les ministres chargés du budget, de la
-santé et de la sécurité sociale fixent le montant de cette contribution après
-avis du conseil de gestion du fonds d'assurance formation des médecins exerçant
-à titre libéral et du conseil d'administration de chaque organisme national
-d'assurance maladie ;
-
-3° De toutes autres ressources, et notamment de subventions versées par des
-organismes privés.
+Pour les agents sous contrat de droit public ou titulaires des fonctions
+publiques d'Etat et territoriale, les actions sont financées dans le cadre de la
+formation professionnelle selon les dispositions législatives et réglementaires
+en vigueur.

@@ -23,7 +23,11 @@ dans les deux mois suivant leur réception. Il informe sans délai l'établissem
 et lui communique toute précision sur les illégalités invoquées. Il peut
 assortir son recours d'une demande de sursis à exécution. Il est fait droit à
 cette demande si l'un des moyens invoqués paraît sérieux et de nature à
-justifier l'annulation de la délibération attaquée ;
+justifier l'annulation de la délibération attaquée. Pour ce qui concerne les
+délibérations relatives au règlement intérieur des établissements et unités
+d'hospitalisation accueillant des malades atteints de troubles mentaux, le
+directeur de l'agence régionale de l'hospitalisation saisit, pour avis, le
+représentant de l'Etat dans le département.
 
 2° Les délibérations portant sur les matières mentionnées aux 1°, à l'exclusion
 du contrat pluriannuel mentionné aux articles L. 6114-1 et L. 6114-2, 2°, 3°, à

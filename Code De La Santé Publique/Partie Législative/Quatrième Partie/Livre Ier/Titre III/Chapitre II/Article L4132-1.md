@@ -1,7 +1,7 @@
 Article L4132-1
 ----
-Le Conseil national de l'ordre des médecins comprend trente-huit membres, à
-savoir :
+Le Conseil national de l'ordre des médecins comprend quarante membres, à savoir
+:
 
 1° Trente-deux membres élus pour six ans par les conseils départementaux.
 
@@ -20,11 +20,11 @@ régionaux désignés par arrêté du ministre chargé de la santé, compte tenu
 nombre des médecins inscrits aux derniers tableaux publiés pour l'ensemble des
 départements métropolitains.
 
-2° Deux membres représentant, l'un les départements de la Guadeloupe, de la
-Martinique et de la Guyane, et l'autre le département de la Réunion.
+2° Quatre membres représentant respectivement les départements de la Guadeloupe,
+de la Guyane, de la Martinique et de la Réunion.
 
-Outre ces deux membres titulaires sont désignés, dans les mêmes conditions que
-ceux-ci, deux suppléants qui sont obligatoirement élus parmi les médecins
+Outre ces quatre membres titulaires, sont désignés, dans les mêmes conditions
+que ceux-ci, quatre suppléants qui sont obligatoirement élus parmi les médecins
 exerçant régulièrement en métropole.
 
 L'élection de ces membres titulaires et suppléants est opérée conformément aux

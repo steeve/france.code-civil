@@ -1,9 +1,10 @@
 Article L4142-3
 ----
-Le Conseil national de l'ordre des chirurgiens-dentistes élit dans son sein, à
-la première séance qui suit chaque renouvellement, six membres titulaires et
-trois membres suppléants qui constituent, avec le conseiller d'Etat prévu à
-l'article L. 4142-2 et sous la présidence de celui-ci, une section
-disciplinaire.
-
-Les membres sortants sont rééligibles.
+Une chambre disciplinaire nationale, qui connaît en appel des décisions rendues
+en matière disciplinaire, siège auprès du conseil national. Elle comprend six
+membres titulaires et six membres suppléants de nationalité française, élus dans
+les conditions fixées à l'article L. 4132-5. Elle est présidée par un membre du
+Conseil d'Etat ayant au moins le rang de conseiller d'Etat, désigné conformément
+à l'article L. 4142-2. Un ou plusieurs présidents suppléants sont désignés dans
+les mêmes conditions. Les modalités de fonctionnement de cette instance sont
+fixées par décret en Conseil d'Etat.

@@ -11,7 +11,7 @@ a) Par un pharmacien inscrit au tableau de la section D de l'ordre national des
 pharmaciens et n'ayant pas d'autre activité professionnelle pendant la durée du
 remplacement ;
 
-b) Par un pharmacien assistant de la même officine.
+b) Par un pharmacien adjoint de la même officine.
 
 2° Pour une absence comprise entre un et quatre mois, le remplacement peut, en
 outre, être effectué :

@@ -1,10 +1,9 @@
 Article L1413-13
 ----
-Les modalités d'application du présent chapitre sont déterminées par décret en
-Conseil d'Etat et notamment :
-
-1° Les conditions dans lesquelles l'institut accède aux informations couvertes
-par le secret médical ou industriel, prévues à l'article L. 1413-5 ;
-
-2° Le régime de l'institut et le contrôle de l'Etat auquel il est soumis, prévus
-à l'article L. 1413-7.
+En cas de risques pour la santé publique ou pour la santé d'une personne dus à
+une anomalie survenue lors d'investigations, de traitements ou d'actions de
+prévention, l'autorité administrative peut mettre en demeure les professionnels,
+organismes ou établissements qui ont effectué ces investigations, traitements ou
+actions de prévention de procéder à l'information des personnes concernées s'il
+apparaît que cette information n'a pas été délivrée conformément à l'article L.
+1111-2.

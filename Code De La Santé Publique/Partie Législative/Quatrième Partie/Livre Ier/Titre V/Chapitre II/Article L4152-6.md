@@ -1,12 +1,11 @@
 Article L4152-6
 ----
-Le Conseil national de l'ordre des sages-femmes élit en son sein, à la première
-séance qui suit chaque renouvellement, trois membres qui constituent, avec le
-conseiller d'Etat mentionné à l'article L. 4152-5 et sous sa présidence, une
-section disciplinaire.
+Une chambre disciplinaire nationale, qui connaît en appel des décisions rendues
+en matière disciplinaire, siège auprès du conseil national. Elle est composée de
+trois membres titulaires et trois membres suppléants, de nationalité française,
+élus dans les conditions prévues à l'article L. 4132-5.
 
-Les membres sortants sont rééligibles.
-
-La section disciplinaire ne peut statuer que si trois membres au moins,
-président compris, sont présents. En cas d'égal partage des voix, celle du
-président est prépondérante.
+Elle est présidée par un membre du Conseil d'Etat ayant au moins le rang de
+conseiller d'Etat, désigné conformément à l'article L. 4152-5 ; un ou plusieurs
+présidents suppléants sont désignés dans les mêmes conditions. Les modalités de
+fonctionnement de cette instance sont fixées par décret en Conseil d'Etat.

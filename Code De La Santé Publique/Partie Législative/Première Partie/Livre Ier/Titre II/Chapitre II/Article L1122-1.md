@@ -32,7 +32,9 @@ sa confiance, réserver certaines informations liées à ce diagnostic. Dans ce
 cas, le protocole de la recherche doit mentionner cette éventualité.
 
 Les informations communiquées sont résumées dans un document écrit remis à la
-personne dont le consentement est sollicité.
+personne dont le consentement est sollicité. A l'issue de la recherche, la
+personne qui s'y est prêtée est informée des résultats globaux de cette
+recherche.
 
 Le consentement est donné par écrit ou, en cas d'impossibilité, attesté par un
 tiers. Ce dernier doit être totalement indépendant de l'investigateur et du
@@ -43,6 +45,7 @@ situations d'urgence qui ne permettent pas de recueillir le consentement
 préalable de la personne qui y sera soumise, le protocole présenté à l'avis du
 comité instauré par l'article L. 1123-1 peut prévoir que le consentement de
 cette personne ne sera pas recherché et que seul sera sollicité celui des
-membres de sa famille s'ils sont présents, dans les conditions prévues
-ci-dessus. L'intéressé est informé dès que possible et son consentement lui est
-demandé pour la poursuite éventuelle de cette recherche.
+membres de sa famille s'ils sont présents, et à défaut, l'avis de la personne de
+confiance prévue à l'article L. 1111-6, dans les conditions prévues ci-dessus.
+L'intéressé est informé dès que possible et son consentement lui est demandé
+pour la poursuite éventuelle de cette recherche.

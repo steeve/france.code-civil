@@ -19,7 +19,8 @@ région Ile-de-France, inscrits au tableau de la section A, élus ;
 
 6° De deux pharmaciens inscrits au tableau de la section C, élus ;
 
-7° De trois pharmaciens inscrits au tableau de la section D, élus ;
+7° De huit pharmaciens inscrits au tableau de la section D, élus, dont au moins
+trois pharmaciens hospitaliers ;
 
 8° D'un pharmacien inscrit au tableau d'une des sections de l'ordre représentant
 les pharmaciens des sous-sections de la section E ;

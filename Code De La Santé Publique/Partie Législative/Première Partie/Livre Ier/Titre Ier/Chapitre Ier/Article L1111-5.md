@@ -1,29 +1,18 @@
 Article L1111-5
 ----
-Des bénévoles, formés à l'accompagnement de la fin de vie et appartenant à des
-associations qui les sélectionnent, peuvent, avec l'accord de la personne malade
-ou de ses proches et sans interférer avec la pratique des soins médicaux et
-paramédicaux, apporter leur concours à l'équipe de soins en participant à
-l'ultime accompagnement du malade et en confortant l'environnement psychologique
-et social de la personne malade et de son entourage.
+Par dérogation à l'article 371-2 du code civil, le médecin peut se dispenser
+d'obtenir le consentement du ou des titulaires de l'autorité parentale sur les
+décisions médicales à prendre lorsque le traitement ou l'intervention s'impose
+pour sauvegarder la santé d'une personne mineure, dans le cas où cette dernière
+s'oppose expressément à la consultation du ou des titulaires de l'autorité
+parentale afin de garder le secret sur son état de santé. Toutefois, le médecin
+doit dans un premier temps s'efforcer d'obtenir le consentement du mineur à
+cette consultation. Dans le cas où le mineur maintient son opposition, le
+médecin peut mettre en oeuvre le traitement ou l'intervention. Dans ce cas, le
+mineur se fait accompagner d'une personne majeure de son choix.
 
-Les associations qui organisent l'intervention des bénévoles se dotent d'une
-charte qui définit les principes qu'ils doivent respecter dans leur action. Ces
-principes comportent notamment le respect des opinions philosophiques et
-religieuses de la personne accompagnée, le respect de sa dignité et de son
-intimité, la discrétion, la confidentialité, l'absence d'interférence dans les
-soins.
-
-Les associations qui organisent l'intervention des bénévoles dans des
-établissements de santé publics ou privés et des établissements sociaux et
-médico-sociaux doivent conclure, avec les établissements concernés, une
-convention conforme à une convention type définie par décret en Conseil d'Etat.
-A défaut d'une telle convention ou lorsqu'il est constaté des manquements au
-respect des dispositions de la convention, le directeur de l'établissement, ou à
-défaut le représentant de l'Etat dans la région, en accord avec le directeur
-régional de l'action sanitaire et sociale, interdit l'accès de l'établissement
-aux membres de cette association.
-
-Seules les associations ayant conclu la convention mentionnée à l'alinéa
-précédent peuvent organiser l'intervention des bénévoles au domicile des
-personnes malades.
+Lorsqu'une personne mineure, dont les liens de famille sont rompus, bénéficie à
+titre personnel du remboursement des prestations en nature de l'assurance
+maladie et maternité et de la couverture complémentaire mise en place par la loi
+n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie
+universelle, son seul consentement est requis.

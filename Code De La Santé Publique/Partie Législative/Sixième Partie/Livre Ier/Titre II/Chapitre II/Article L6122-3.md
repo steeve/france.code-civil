@@ -9,4 +9,5 @@ considérée. Les modalités de cette réduction sont définies par décret en t
 compte des excédents existant dans la zone considérée et dans la limite d'un
 plafond.
 
-Des dispositions particulières peuvent être prises pour les soins palliatifs.
+Des dispositions particulières peuvent être prises pour les soins palliatifs et
+pour l'hospitalisation à domicile.

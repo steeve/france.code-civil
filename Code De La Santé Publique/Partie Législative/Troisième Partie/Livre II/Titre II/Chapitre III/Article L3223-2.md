@@ -2,16 +2,23 @@ Article L3223-2
 ----
 La commission prévue à l'article L. 3222-5 se compose :
 
-1° D'un psychiatre désigné par le procureur général près la cour d'appel ;
+1° De deux psychiatres, l'un désigné par le procureur général près la cour
+d'appel, l'autre par le représentant de l'Etat dans le département ;
 
 2° D'un magistrat désigné par le premier président de la cour d'appel ;
 
-3° De deux personnalités qualifiées désignées l'une par le représentant de
-l'Etat dans le département, l'autre par le président du conseil général, dont un
-psychiatre et un représentant d'une organisation représentative des familles de
-personnes atteintes de troubles mentaux.
+3° De deux représentants d'associations agréées respectivement de personnes
+malades et de familles de personnes atteintes de troubles mentaux, désignés par
+le représentant de l'Etat dans le département ;
 
-Seul l'un des deux psychiatres mentionnés aux 1° et 3° peut exercer dans un
+4° D'un médecin généraliste désigné par le représentant de l'Etat dans le
+département.
+
+En cas d'impossibilité de désigner un ou plusieurs membres de la commission
+mentionnée dans le présent article, des personnalités des autres départements de
+la région ou des départements limitrophes peuvent être nommées.
+
+Seul l'un des deux psychiatres mentionnés au 1° peut exercer dans un
 établissement mentionné à l'article L. 3222-1.
 
 Les membres de la commission ne peuvent être membres du conseil d'administration

@@ -13,4 +13,6 @@ décret.
 
 Un conseil scientifique, dont le président est désigné par le ministre chargé de
 la santé après avis dudit conseil, veille à la cohérence de la politique
-scientifique de l'agence.
+scientifique de l'agence. Le conseil comprend au moins un médecin, un biologiste
+et un pharmacien des hôpitaux, praticiens hospitaliers et désignés par leur
+ordre professionnel.

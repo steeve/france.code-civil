@@ -1,15 +1,14 @@
 Article L4133-6
 ----
-Par dérogation aux dispositions de l'article L. 961-10 du code du travail, il ne
-peut être habilité qu'un seul fonds d'assurance formation des médecins exerçant
-à titre libéral.
+Un Fonds national de la formation médicale continue, doté de la personnalité
+morale, est placé auprès du ministre chargé de la santé.
 
-Les statuts de ce fonds sont agréés par les ministres chargés de la formation
-professionnelle et de la santé. Par dérogation aux dispositions de l'article L.
-961-9 du code du travail, ils doivent prévoir la présence au conseil de gestion
-de l'ensemble des syndicats représentatifs des médecins libéraux et, à titre
-consultatif, de représentants du conseil national de la formation médicale
-continue.
+Ce fonds reçoit des dotations publiques et participe au financement des conseils
+nationaux et régionaux et des actions de formation mentionnées à l'article L.
+4133-1. Il est administré par un conseil composé, en nombre égal, de délégués
+des conseils nationaux de formation médicale continue et du conseil national
+mentionné à l'article L. 6155-2, et de représentants de l'Etat. Il est présidé
+par un représentant du ministre chargé de la santé.
 
-Le ministre chargé de la santé désigne auprès du conseil de gestion un
-commissaire du Gouvernement.
+Les agents du Fonds national de la formation médicale continue sont régis par
+les dispositions des articles L. 5323-1 à L. 5323-4.

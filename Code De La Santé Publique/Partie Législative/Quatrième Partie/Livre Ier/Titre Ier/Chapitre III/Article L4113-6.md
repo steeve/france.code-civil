@@ -4,7 +4,9 @@ Est interdit le fait, pour les membres des professions médicales mentionnées a
 présent livre, de recevoir des avantages en nature ou en espèces, sous quelque
 forme que ce soit, d'une façon directe ou indirecte, procurés par des
 entreprises assurant des prestations, produisant ou commercialisant des produits
-pris en charge par les régimes obligatoires de sécurité sociale.
+pris en charge par les régimes obligatoires de sécurité sociale. Est également
+interdit le fait, pour ces entreprises, de proposer ou de procurer ces
+avantages.
 
 Toutefois, l'alinéa précédent ne s'applique pas aux avantages prévus par
 conventions passées entre les membres de ces professions médicales et des
@@ -26,11 +28,16 @@ application, et que cette hospitalité est d'un niveau raisonnable, reste
 accessoire par rapport à l'objectif principal de la réunion et n'est pas étendue
 à des personnes autres que les professionnels directement concernés.
 
-Les conventions mentionnées aux deuxième et troisième alinéas du présent article
-sont transmises aux instances ordinales par l'entreprise. Lorsque leur champ
+Les conventions mentionnées aux deuxième et troisième alinéas sont transmises
+aux ordres des professions médicales par l'entreprise. Lorsque leur champ
 d'application est interdépartemental ou national, elles sont soumises pour avis
-au conseil national de l'ordre compétent, au lieu et place des instances
-départementales, avant leur mise en application.
+au conseil national compétent, au lieu et place des instances départementales,
+avant leur mise en application. Un décret en Conseil d'Etat détermine les
+modalités de la transmission de ces conventions ainsi que les délais impartis
+aux ordres des professions médicales pour se prononcer. Si ceux-ci émettent un
+avis défavorable, l'entreprise transmet cet avis aux professionnels de santé,
+avant la mise en oeuvre de la convention. A défaut de réponse des instances
+ordinales dans les délais impartis, l'avis est réputé favorable.
 
 Les dispositions du présent article ne sauraient ni soumettre à convention les
 relations normales de travail ni interdire le financement des actions de

@@ -35,3 +35,13 @@ compétence, ainsi qu'avec les sociétés ou organismes de conseil intervenant d
 ces secteurs. Cette déclaration est rendue publique et est actualisée à leur
 initiative dès qu'une modification intervient concernant ces liens ou que de
 nouveaux liens sont noués.
+
+Les personnes mentionnées aux cinquième et sixième alinéas sont soumises à
+l'interdiction mentionnée au premier alinéa de l'article L. 4113-6. Est interdit
+le fait, pour les entreprises mentionnées au premier alinéa de l'article L.
+4113-6, de proposer ou de procurer à ces personnes les avantages cités dans cet
+alinéa.
+
+Elles sont également soumises aux dispositions du premier alinéa de l'article L.
+4113-13. En cas de manquement à ces dispositions, l'autorité administrative peut
+mettre fin à leurs fonctions.

@@ -13,11 +13,11 @@ notifiées sans délai au président du conseil départemental qui les notifie
 lui-même dans les dix jours au médecin, au chirurgien-dentiste ou à la
 sage-femme qui en a été l'objet. Elles sont également notifiées sans délai au
 représentant de l'Etat dans le département, au procureur de la République et au
-conseil national de l'ordre. Elles peuvent être frappées d'appel devant la
-section disciplinaire du conseil national par le médecin, le chirurgien-dentiste
-ou la sage-femme intéressé, le conseil départemental ou le conseil national.
+conseil national de l'ordre. Elles peuvent être frappées d'appel devant le
+conseil national par le médecin, le chirurgien-dentiste ou la sage-femme
+intéressés ou par le conseil départemental.
 
-Le délai d'appel, tant devant le conseil régional que devant la section
-disciplinaire du conseil national, est de trente jours à compter, soit de la
-notification de la décision expresse frappée d'appel, soit du jour où est
-acquise la décision implicite de rejet du conseil départemental.
+Le délai d'appel, tant devant le conseil régional que devant le conseil
+national, est de trente jours à compter, soit de la notification de la décision
+expresse frappée d'appel, soit du jour où est acquise la décision implicite de
+rejet du conseil départemental.

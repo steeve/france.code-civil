@@ -1,6 +1,13 @@
 Article L4341-2
 ----
-Peuvent exercer la profession d'orthophoniste les personnes titulaires d'un
-diplôme, certificat ou titre mentionné aux articles L. 4341-3 et L. 4341-4 ou
-titulaires des autorisations prévues à l'article L. 4341-5 et satisfaisant, dans
-tous les cas, aux conditions fixées par décret.
+Les orthophonistes ne peuvent exercer leur profession, à l'exception de ceux qui
+relèvent du service de santé des armées, que s'ils sont inscrits sur une liste
+dressée par le représentant de l'Etat dans le département de leur résidence
+professionnelle, qui enregistre leurs diplômes, certificats, titres ou
+autorisations. L'inscription mentionne la ou les catégories dans lesquelles
+l'orthophoniste exerce, à titre libéral, ou en tant que salarié du secteur
+public ou du secteur privé.
+
+Les dispositions des trois derniers alinéas de l'article L. 4311-15 et celles
+des articles L. 4311-16 à L. 4311-21, L. 4311-26 et L. 4311-27 leur sont
+applicables.

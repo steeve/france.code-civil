@@ -6,7 +6,7 @@ assuré dans les conditions suivantes :
 a) Par le pharmacien délégué intérimaire désigné par l'autorité compétente
 mentionnée à l'article R. 5112-7 ;
 
-b) Ou, à défaut, par un pharmacien assistant de la même entreprise ou du même
+b) Ou, à défaut, par un pharmacien adjoint de la même entreprise ou du même
 organisme ou par un pharmacien n'ayant pas d'autre activité professionnelle
 pendant la durée du remplacement ;
 

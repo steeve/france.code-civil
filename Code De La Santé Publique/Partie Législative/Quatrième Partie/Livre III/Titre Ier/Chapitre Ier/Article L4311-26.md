@@ -1,11 +1,18 @@
 Article L4311-26
 ----
-En cas d'urgence et après avis du médecin inspecteur départemental de santé
-publique, le représentant de l'Etat dans le département peut prononcer la
-suspension d'un infirmier ou d'une infirmière atteint d'une infirmité ou se
-trouvant dans un état pathologique qui rend dangereux l'exercice de la
-profession. Il en informe sans délai la commission régionale de discipline qui
-formule un avis.
+L'employeur amené à prendre une mesure de licenciement, révocation ou suspension
+d'activité d'une infirmière ou d'un infirmier salarié dont l'exercice
+professionnel expose les patients à un danger grave en informe sans délai le
+représentant de l'Etat dans le département.
 
-La durée de cette suspension ne peut dépasser un mois, et ne peut être
-renouvelée qu'une seule fois.
+En cas d'urgence, lorsque la poursuite par une infirmière ou un infirmier de son
+exercice professionnel expose ses patients à un danger grave, le représentant de
+l'Etat dans le département prononce la suspension immédiate du droit d'exercer
+pour une durée maximale de cinq mois. Il informe sans délai l'employeur de sa
+décision, que celui-ci ait été ou non à l'origine de sa saisine. Le représentant
+de l'Etat dans le département entend l'intéressé au plus tard dans un délai de
+trois jours suivant la décision de suspension.
+
+Le deuxième alinéa du présent article n'est pas applicable aux infirmiers et
+infirmières qui relèvent des dispositions de la loi n° 72-662 du 13 juillet 1972
+portant statut général des militaires.

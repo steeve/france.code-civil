@@ -7,12 +7,12 @@ directe ou indirecte, notamment en matière de rémunération, de formation, de
 reclassement, d'affectation, de qualification, de classification, de promotion
 professionnelle, de mutation ou de renouvellement de contrat en raison de son
 origine, de son sexe, de ses moeurs, de son orientation sexuelle, de son âge, de
-sa situation de famille, de son appartenance ou de sa non-appartenance, vraie ou
-supposée, à une ethnie, une nation ou une race, de ses opinions politiques, de
-ses activités syndicales ou mutualistes, de ses convictions religieuses, de son
-apparence physique, de son patronyme ou, sauf inaptitude constatée par le
-médecin du travail dans le cadre du titre IV du livre II du présent code, en
-raison de son état de santé ou de son handicap.
+sa situation de famille, de ses caractéristiques génétiques, de son appartenance
+ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une
+race, de ses opinions politiques, de ses activités syndicales ou mutualistes, de
+ses convictions religieuses, de son apparence physique, de son patronyme ou,
+sauf inaptitude constatée par le médecin du travail dans le cadre du titre IV du
+livre II du présent code, en raison de son état de santé ou de son handicap.
 
 Aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure
 discriminatoire visée à l'alinéa précédent en raison de l'exercice normal du

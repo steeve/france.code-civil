@@ -1,8 +1,8 @@
 Article R5104-20
 ----
 Les pharmacies à usage intérieur ne peuvent fonctionner qu'en présence du
-pharmacien chargé de la gérance ou de son remplaçant ou d'un pharmacien
-assistant mentionné à l'article R. 5008 exerçant dans cette pharmacie.
+pharmacien chargé de la gérance ou de son remplaçant ou d'un pharmacien adjoint
+mentionné à l'article R. 5008 exerçant dans cette pharmacie.
 
 Elles doivent, en outre, fonctionner conformément aux bonnes pratiques de
 pharmacie hospitalière dont les principes sont fixés par arrêté du ministre

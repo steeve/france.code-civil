@@ -11,7 +11,7 @@ l'exportation, à la distribution en gros, au conditionnement, à la conservatio
 ou à l'utilisation des produits à finalité sanitaire destinés à l'homme et des
 produits à finalité cosmétique, et notamment :
 
-l° Les médicaments, y compris les préparations magistrales, hospitalières et
+1° Les médicaments, y compris les préparations magistrales, hospitalières et
 officinales, les substances stupéfiantes, psychotropes ou autres substances
 vénéneuses utilisées en médecine, les huiles essentielles et plantes
 médicinales, les matières premières à usage pharmaceutique ;
@@ -56,9 +56,10 @@ initiale. Elle assure la mise en oeuvre des systèmes de vigilance et prépare l
 pharmacopée.
 
 Elle rend publique une synthèse des dossiers d'autorisation de tout nouveau
-médicament. Elle organise des réunions régulières d'information avec les
-associations de patients et d'usagers de la médecine sur les problèmes de
-sécurité sanitaire des produits de santé.
+médicament. Elle organise des réunions régulières d'information avec des
+associations agréées de personnes malades et d'usagers du système de santé
+mentionnées à l'article L. 1114-1 sur les problèmes de sécurité sanitaire des
+produits de santé.
 
 Elle contrôle la publicité en faveur de tous les produits, objets, appareils et
 méthodes revendiquant une finalité sanitaire.
@@ -68,8 +69,7 @@ sanitaire nécessaires lorsque la santé de la population est menacée, dans les
 conditions prévues au présent code ou par toute autre disposition législative ou
 réglementaire visant à préserver la santé humaine.
 
-Elle peut être saisie par les associations agréées de consommateurs ou
-d'usagers, dans des conditions fixées par décret.
-
 Elle établit un rapport annuel d'activité adressé au Gouvernement et au
 Parlement. Ce rapport est rendu public.
+
+Elle organise des auditions publiques sur des thèmes de santé publique.

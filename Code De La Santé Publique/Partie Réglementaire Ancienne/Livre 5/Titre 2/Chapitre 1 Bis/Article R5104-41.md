@@ -7,7 +7,7 @@ remplacement ne peut excéder un an. Ce remplacement est effectué :
 a) Par un pharmacien inscrit, à cette fin, à l'une des sections D ou E de
 l'ordre national des pharmaciens ;
 
-b) Par un pharmacien assistant de la pharmacie à usage intérieur mentionné à
+b) Par un pharmacien adjoint de la pharmacie à usage intérieur mentionné à
 l'article R. 5008.
 
 Pour une absence inférieure à quatre mois, le remplacement peut, en outre, être

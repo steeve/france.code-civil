@@ -26,8 +26,9 @@ droit qu'il y a dissentiment soit entre les ascendants, soit entre les
 descendants, le conseil de famille se prononce dans un délai d'un mois.
 
 Néanmoins, si le médecin de l'établissement est d'avis que l'état du malade
-pourrait compromettre l'ordre public ou la sûreté des personnes, sans préjudice
-des dispositions des articles L. 3213-1 et L. 3213-6, il en est donné
+nécessite des soins en raison de troubles mentaux qui compromettent la sûreté
+des personnes ou portent atteinte, de façon grave, à l'ordre public, sans
+préjudice des dispositions des articles L. 3213-1 et L. 3213-6, il en est donné
 préalablement et aussitôt connaissance au représentant de l'Etat dans le
 département, qui peut ordonner immédiatement un sursis provisoire et, le cas
 échéant, une hospitalisation d'office conformément aux dispositions de l'article

@@ -32,10 +32,7 @@ aux établissements de soins hospitaliers ;
 2° bis Le cas échéant, les conditions tendant à éviter à l'assuré social de
 payer directement les honoraires aux médecins ;
 
-3° Les conditions de l'indemnisation des médecins qui participent aux actions de
-formation médicale continue visée à l'article L. 367-2 du code de la santé
-publique ainsi que le montant de la contribution mentionnée à l'article L. 367-8
-du même code ;
+3° (Abrogé) ;
 
 3° bis Le cas échéant, les conditions de promotion des actions d'évaluation des
 pratiques professionnelles individuelles ou collectives ;

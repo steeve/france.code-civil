@@ -18,3 +18,15 @@ premier alinéa de l'article 43 de la loi n° 84-610 du 16 juillet 1984 relative
 l'organisation et à la promotion des activités physiques et sportives.
 
 Ces sanctions sont prononcées dans le respect des droits de la défense.
+
+A la demande d'un sportif susceptible d'être sanctionné ou de sa propre
+initiative, le Conseil de prévention et de lutte contre le dopage peut, s'il ne
+s'estime pas suffisamment éclairé au vu des pièces du dossier, proposer à
+l'intéressé de se soumettre à une expertise en vue de déterminer s'il a respecté
+les dispositions de l'arrêté prévu à l'article L. 3631-1.
+
+L'expertise est réalisée par un expert choisi par le sportif intéressé sur une
+liste établie par le Conseil de prévention et de lutte contre le dopage. Les
+résultats de l'expertise sont communiqués au conseil et à l'intéressé, qui peut
+présenter des observations. Les frais de l'expertise sont à la charge du
+conseil.

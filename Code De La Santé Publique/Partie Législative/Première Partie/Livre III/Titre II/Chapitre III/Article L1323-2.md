@@ -71,4 +71,6 @@ du ministre de l'enseignement supérieur, de la recherche et de la technologie o
 tout autre établissement d'enseignement et de recherche ;
 
 12° Etablit un rapport annuel d'activité adressé au Gouvernement et au
-Parlement. Ce rapport est rendu public.
+Parlement. Ce rapport est rendu public ;
+
+13° Organise des auditions publiques sur des thèmes de santé publique.
