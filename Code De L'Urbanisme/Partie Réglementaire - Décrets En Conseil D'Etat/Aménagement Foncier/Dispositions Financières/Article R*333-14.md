@@ -25,6 +25,12 @@ l'approbation// du plan d'aménagement de la zone ou de la publication du plan
 d'occupation des sols ou du document d'urbanisme en tenant lieu ; Sd' la surface
 des terrains compris à l'intérieur du périmètre défini par l'acte de création de
 la zone, à l'exclusion des terrains d'assiette de la voirie existante affectée à
-l'usage du public, des voies ferrées et des cours d'eau ; K le plafond légal de
-densité qui est égal à 1,5 sur le territoire de la ville de Paris et à 1 sur le
-reste du territoire.
+l'usage du public, des voies ferrées, en dehors des gares, et des cours d'eau ;
+toutefois ne sont pas déduits de la surface Sd' les terrains d'assiette desdits
+ouvrages et cours d'eau lorsque le programme de travaux a prévu d'y superposer
+des sols artificiels pour un motif d'intérêt général propre à la zone,
+conformément aux possibilités ouvertes par le plan d'occupation des sols ou par
+le plan d'aménagement de zone et dans la limite de la superficie desdits sols
+artificiels. K le plafond légal de densité en vigueur sur le territoire de la
+commune à la date où le nombre de mètres carrés de construction excédant ce
+plafond est calculé.
