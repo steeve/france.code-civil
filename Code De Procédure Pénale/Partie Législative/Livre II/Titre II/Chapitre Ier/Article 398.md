@@ -2,12 +2,6 @@ Article 398
 ----
 Le tribunal correctionnel est composé d'un président et de deux juges.
 
-Sans préjudice des dispositions de l'article 665-1, dans les tribunaux comptant
-au plus quatre magistrats, il peut être fait appel à un ou plusieurs magistrats
-d'un autre tribunal du ressort de la cour d'appel pour composer la formation de
-jugement si l'application des dispositions du dernier alinéa de l'article 137-1
-ne permet pas de procéder à cette composition.
-
 Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du
 tribunal de grande instance peut décider qu'un ou plusieurs magistrats du siège
 supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs
@@ -17,13 +11,8 @@ les magistrats du siège supplémentaires, dans l'ordre de leur nomination au
 tribunal de grande instance, en commençant par le plus ancien du rang le plus
 élevé.
 
-Toutefois, pour le jugement des délits énumérés à l'article 398-1, il peut être
-composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président
-lorsqu'il en est ainsi décidé par le président du tribunal de grande instance.
-Le président du tribunal de grande instance ou le magistrat délégué par lui à
-cet effet peut toutefois décider, soit de sa propre initiative, soit à la
-demande du magistrat saisi, qu'une affaire déterminée sera jugée par le tribunal
-statuant dans les conditions prévues à l'alinéa 1er.
+Toutefois, pour le jugement des délits énumérés à l'article 398-1, il est
+composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président.
 
 La désignation des magistrats du tribunal correctionnel appelés à statuer dans
 les conditions prévues à l'alinéa 3 est faite par le président du tribunal de
