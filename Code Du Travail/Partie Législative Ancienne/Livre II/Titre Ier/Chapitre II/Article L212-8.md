@@ -1,31 +1,74 @@
 Article L212-8
 ----
-I. - Une convention ou un accord collectif étendu ou une convention ou un accord
+Une convention ou un accord collectif étendu ou une convention ou un accord
 d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire du
-travail peut varier sur tout ou partie de l'année à condition que sur un an
-cette durée n'excède pas en moyenne trente-neuf heures par semaine travaillée.
+travail peut varier sur tout ou partie de l'année à condition que, sur un an,
+cette durée n'excède pas en moyenne trente-cinq heures par semaine travaillée
+et, en tout état de cause, le plafond de 1 600 heures au cours de l'année. La
+durée moyenne est calculée sur la base de la durée légale ou de la durée
+conventionnelle hebdomadaire si elle est inférieure, diminuée des heures
+correspondant aux jours de congés légaux et aux jours fériés mentionnés à
+l'article L. 222-1. La convention ou l'accord doit préciser les données
+économiques et sociales justifiant le recours à la modulation.
 
-Ces conventions ou accords entraînent l'application des dispositions de
-l'article L. 212-8-1.
+Les conventions ou accords définis par le présent article doivent respecter les
+durées maximales quotidiennes et hebdomadaires définies par les deuxièmes
+alinéas des articles L. 212-1 et L. 212-7.
 
-II. - Les conventions ou accords mentionnés au paragraphe I peuvent en outre
-prévoir que, dans la limite de quarante-quatre heures par semaine, les heures
-effectuées au-delà de la durée légale ne donnent lieu ni aux majorations de
-salaire fixées par l'article L. 212-5, ni au repos compensateur rendu
-obligatoire par le premier alinéa de l'article L. 212-5-1. Il ne peut être
-dérogé à la limite de quarante-quatre heures que par convention ou accord
-collectif étendu.
+Les heures effectuées au-delà de la durée légale, dans les limites fixées par la
+convention ou l'accord, ne sont pas soumises aux dispositions des articles L.
+212-5 et L. 212-5-1 et ne s'imputent pas sur les contingents annuels d'heures
+supplémentaires prévus à l'article L. 212-6.
 
-Les conventions ou accords prévus à l'alinéa précédent doivent accorder une
-contrepartie aux salariés consistant en une réduction de la durée du travail
-effectif ou en toute autre contrepartie, notamment financière, de temps de
-formation ou d'emploi, laissée à l'appréciation des signataires de la convention
-ou de l'accord.
+Constituent des heures supplémentaires soumises aux dispositions des articles L.
+212-5, L. 212-5-1 et L. 212-6 les heures effectuées au-delà de la durée maximale
+hebdomadaire fixée par la convention ou l'accord, ainsi que, à l'exclusion de
+ces dernières, les heures effectuées au-delà de la durée moyenne annuelle
+calculée sur la base de la durée légale selon la règle définie au premier alinéa
+et, en tout état de cause, de 1 600 heures.
 
-Les heures effectuées au-delà de la limite fixée par les conventions ou les
-accords sont des heures supplémentaires soumises aux dispositions des articles
-L. 212-5 et suivants.
+Les conventions et accords définis par le présent article doivent fixer le
+programme indicatif de la répartition de la durée du travail, les modalités de
+recours au travail temporaire, les conditions de recours au chômage partiel pour
+les heures qui ne sont pas prises en compte dans la modulation, ainsi que le
+droit à rémunération et à repos compensateur des salariés n'ayant pas travaillé
+pendant la totalité de la période de modulation de la durée du travail et des
+salariés dont le contrat de travail a été rompu au cours de cette même période.
 
-III. - Les conventions et accords d'entreprise ou d'établissement prévus aux
-paragraphes I et II sont soumis aux dispositions de l'article L. 212-9
-[*opposition, sanction pénale*]
+Le programme de la modulation est soumis pour avis avant sa mise en oeuvre au
+comité d'entreprise ou, à défaut, aux délégués du personnel. Le chef
+d'entreprise communique au moins une fois par an au comité d'entreprise, ou, à
+défaut, aux délégués du personnel, un bilan de l'application de la modulation.
+
+Les salariés doivent être prévenus des changements de leurs horaires de travail
+dans un délai de sept jours ouvrés au moins avant la date à laquelle ce
+changement doit intervenir. Ce délai peut être réduit dans des conditions fixées
+par la convention ou l'accord collectif lorsque les caractéristiques
+particulières de l'activité, précisées dans l'accord, le justifient. Des
+contreparties au bénéfice du salarié doivent alors être prévues dans la
+convention ou l'accord.
+
+Les modifications du programme de la modulation font l'objet d'une consultation
+du comité d'entreprise ou, à défaut, des délégués du personnel.
+
+La convention et l'accord définis par le présent article fixent les règles selon
+lesquelles est établi le programme indicatif de la modulation pour chacun des
+services ou ateliers concernés et organisent, le cas échéant, l'activité des
+salariés selon des calendriers individualisés. Dans ce cas, la convention ou
+l'accord doit préciser les conditions de changement des calendriers
+individualisés, les modalités selon lesquelles la durée du travail de chaque
+salarié sera décomptée ainsi que la prise en compte et les conditions de
+rémunération des périodes de la modulation pendant lesquelles les salariés ont
+été absents.
+
+Les conventions et accords définis par le présent article peuvent prévoir qu'ils
+sont applicables aux salariés titulaires d'un contrat de travail à durée
+déterminée ou d'un contrat de travail temporaire, ou à certaines catégories
+d'entre eux.
+
+Les absences rémunérées ou indemnisées, les congés et autorisations d'absence
+auxquels les salariés ont droit en application de stipulations conventionnelles,
+ainsi que les absences justifiées par l'incapacité résultant de maladie ou
+d'accident, ne peuvent faire l'objet d'une récupération par le salarié. Les
+absences donnant lieu à récupération doivent être décomptées en fonction de la
+durée de travail que le salarié devait effectuer.

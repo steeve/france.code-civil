@@ -17,13 +17,16 @@ disposition de l'inspecteur du travail au siège du groupement.
 
 Une personne physique ou morale ne peut être membre que de deux groupements
 [*non cumul*]. Toutefois, une personne physique possédant plusieurs entreprises
-juridiquement distinctes enregistrées soit au registre du commerce, soit au
+juridiquement distinctes ou une personne morale possédant plusieurs
+établissements distincts, enregistrés soit au registre du commerce, soit au
 registre des métiers, soit au registre de l'agriculture, peut, au titre de
-chacune de ses entreprises, appartenir à un groupement différent.
+chacune de ses entreprises ou établissements, appartenir à un groupement
+différent.
 
 Les employeurs occupant plus de trois cents salariés [*effectif*], ce seuil
 étant calculé conformément aux dispositions de l'article L. 421-2, ne peuvent
-adhérer à un groupement ni en devenir membre [*incompatibilité*].
+adhérer à un groupement ni en devenir membre [*incompatibilité*], sauf dans le
+cas prévu à l'article L. 127-1-1.
 
 Les employeurs qui adhèrent à un groupement d'employeurs sont tenus d'informer
 les institutions représentatives du personnel existant dans leur entreprise de

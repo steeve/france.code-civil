@@ -1,29 +1,30 @@
 Article L932-2
 ----
-Un accord national interprofessionnel complété par des conventions de branches
-ou accords professionnels étendus dans les conditions définies aux articles L.
-133-8 et suivants détermine les conditions dans lesquelles les salariés peuvent
-bénéficier au cours de leur vie professionnelle d'un capital de temps de
-formation leur permettant de suivre des actions de formation pendant leur temps
-de travail dans le cadre du plan de formation de l'entreprise.
+L'employeur a l'obligation d'assurer l'adaptation de ses salariés à l'évolution
+de leurs emplois. Toute action de formation suivie par le salarié dans le cadre
+de cette obligation constitue un temps de travail effectif.
 
-Les accords de branches précités déterminent notamment :
+Sans préjudice des dispositions du premier alinéa du présent article, un accord
+de branche ou d'entreprise peut prévoir les conditions dans lesquelles le
+développement des compétences des salariés peut être organisé pour partie hors
+du temps de travail effectif, sous réserve que les formations correspondantes
+soient utilisables à l'initiative du salarié ou reçoivent son accord écrit.
 
-1° Les publics prioritaires et la nature des actions de formation à mettre en
-oeuvre ;
+La rémunération du salarié ne doit pas être modifiée par la mise en oeuvre de
+ces dispositions. Le refus du salarié de participer à des actions de formation
+réalisées dans ces conditions ne constitue ni une faute ni un motif de
+licenciement.
 
-2° Les conditions d'utilisation du capital temps dans la branche, en particulier
-les conditions d'ancienneté pour en bénéficier, les droits ouverts aux salariés
-relevant des publics prioritaires, les modalités de mise en oeuvre dans
-l'entreprise ainsi que, le cas échéant, le recours aux dispositions de l'article
-L. 932-1 ;
+Un accord national interprofessionnel étendu fixe le cadre de ces négociations.
+Pour les entreprises ne relevant pas de cet accord, le cadre de ces négociations
+est défini par un accord de branche étendu.
 
-3° Le nombre minimal d'heures auquel ouvre droit le capital de temps de
-formation.
+Les dispositions relatives à la formation négociées postérieurement à la loi n°
+98-461 du 13 juin 1998 d'orientation et d'incitation relative à la réduction du
+temps de travail sont applicables [Dispositions déclarées non conformes à la
+Constitution par décision du Conseil constitutionnel n° 99-423 DC du 13 janvier
+2000].
 
-Pendant la durée de la formation, les bénéficiaires du capital temps de
-formation n'exécutent pas leurs prestations de travail. Néanmoins, l'utilisation
-du capital de temps de formation est assimilée à une période de travail effectif
-pour la détermination de la durée des congés payés ainsi que pour l'ensemble des
-autres droits résultant pour l'intéressé de son contrat et ne peut être imputée
-sur la durée du congé annuel.
+Pendant la durée de ces formations, le salarié bénéficie de la législation de la
+sécurité sociale relative à la protection en matière d'accidents du travail et
+de maladies professionnelles.

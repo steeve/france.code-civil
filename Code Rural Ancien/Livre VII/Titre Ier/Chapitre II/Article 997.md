@@ -1,7 +1,8 @@
 Article 997
 ----
 Chaque semaine, le salarié agricole ou similaire a droit à un repos, à prendre
-le dimanche, d'une durée minimale de vingt-quatre heures consécutives.
+le dimanche, d'une durée minimale de vingt-quatre heures consécutives auquel
+s'ajoute le repos prévu à l'article 997-2 du présent code.
 
 Lorsque le travail du dimanche est indispensable au fonctionnement de
 l'entreprise, le repos hebdomadaire peut être donné pour tout ou partie du
@@ -52,3 +53,16 @@ troisième, quatrième et cinquième alinéas. Dans les autres cas, l'employeur 
 désirera faire usage de l'une de ces dérogations devra en faire la demande au
 chef du service départemental de l'inspection du travail, de l'emploi et de la
 politique sociale agricoles.
+
+Les jeunes travailleurs de moins de dix-huit ans ainsi que les jeunes de moins
+de dix-huit ans qui accomplissent des stages d'initiation ou d'application en
+milieu professionnel dans le cadre d'un enseignement alterné ou d'un cursus
+scolaire bénéficient de deux jours de repos consécutifs.
+
+Lorsque les caractéristiques particulières de l'activité le justifient, une
+convention ou un accord collectif étendu peut définir les conditions dans
+lesquelles il peut être dérogé aux dispositions du précédent alinéa pour les
+jeunes libérés de l'obligation scolaire, sous réserve qu'ils bénéficient d'une
+période minimale de repos de trente-six heures consécutives. A défaut d'accord,
+un décret en Conseil d'Etat définit les conditions dans lesquelles cette
+dérogation peut être accordée par l'inspecteur du travail.

@@ -1,5 +1,5 @@
 Article L212-3
 ----
-L'application des dispositions de l'article précédent ne porte aucune atteinte
-aux usages ou aux conventions collectives de travail qui fixeraient des limites
-inférieures.
+La seule diminution du nombre d'heures stipulé au contrat de travail, en
+application d'un accord de réduction de la durée du travail, ne constitue pas
+une modification du contrat de travail.

@@ -1,12 +1,12 @@
 Article 993-1
 ----
-Le repos prévu aux 2e et 3e alinéas de l'article 993 ne peut être pris que par
-journée entière, chacune étant réputée correspondre à huit heures de repos
-compensateur, à la convenance du salarié, en dehors d'une période fixée par voie
-réglementaire. Ce repos qui est assimilé à une période de travail effectif pour
-le calcul des droits du salarié, donne lieu à une indemnisation qui ne doit
-entrainer aucune diminution par rapport à la rémunération que le salarié aurait
-perçu s'il avait accompli son travail.
+Le repos prévu aux deuxième, troisième et quatrième alinéas de l'article 993
+peut être pris selon deux formules, la journée entière ou la demi-journée, à la
+convenance du salarié, en dehors d'une période définie par voie réglementaire.
+Ce repos qui est assimilé à une période de travail effectif pour le calcul des
+droits du salarié, donne lieu à une indemnisation qui ne doit entrainer aucune
+diminution par rapport à la rémunération que le salarié aurait perçu s'il avait
+accompli son travail.
 
 Un décret détermine, pour les travailleurs des entreprises qui ne relèvent pas
 d'un accord conclu, en ce domaine, entre des organisations syndicales
@@ -23,9 +23,12 @@ l'exploitation.
 
 Le repos compensateur doit obligatoirement être pris dans un délai maximum de
 deux mois suivant l'ouverture du droit sous réserve des cas de report définis
-par décret. L'absence de demande de prise du repos par le salarié ne peut
-entraîner la perte de son droit au repos. Dans ce cas, l'employeur est tenu de
-lui demander de prendre effectivement ses repos dans un délai maximum d'un an.
+par décret. Une convention ou un accord collectif étendu ou une convention ou un
+accord d'entreprise ou d'établissement peut fixer un délai supérieur dans la
+limite de six mois. L'absence de demande de prise du repos par le salarié ne
+peut entraîner la perte de son droit au repos. Dans ce cas, l'employeur est tenu
+de lui demander de prendre effectivement ses repos dans un délai maximum d'un
+an.
 
 A défaut d'accord entre des organisations syndicales d'employeurs et de salariés
 les plus représentatives au plan national, un décret fixe également les

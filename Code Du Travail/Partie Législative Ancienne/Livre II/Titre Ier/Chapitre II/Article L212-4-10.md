@@ -1,10 +1,7 @@
 Article L212-4-10
 ----
-Les salariés titulaires d'un contrat de travail intermittent bénéficient des
-droits reconnus aux salariés à temps complet sous réserve, en ce qui concerne
-les droits conventionnels, de modalités spécifiques prévues par la convention ou
-l'accord étendu ou une convention ou un accord d'entreprise ou d'établissement
-n'ayant pas fait l'objet de l'opposition prévue à l'article L. 132-26.
-
-Pour la détermination des droits liés à l'ancienneté, les périodes non
-travaillées sont prises en compte en totalité.
+Le temps de travail mensuel d'un salarié à temps partiel ne peut être réduit de
+plus d'un tiers [*pourcentage*] par l'utilisation du crédit d'heures auquel il
+peut prétendre pour l'exercice de mandats détenus par lui au sein d'une
+entreprise. Le solde éventuel de ce crédit d'heures payées peut être utilisé en
+dehors des heures de travail de l'intéressé.

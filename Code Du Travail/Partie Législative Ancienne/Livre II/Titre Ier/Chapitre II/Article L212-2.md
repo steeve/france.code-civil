@@ -1,8 +1,8 @@
 Article L212-2
 ----
 Des décrets en conseil des ministres déterminent les modalités d'application de
-l'article précédent pour l'ensemble des branches d'activité ou des professions
-ou pour une branche ou une profession particulière. Les décrets fixent notamment
+l'article L. 212-1 pour l'ensemble des branches d'activité ou des professions ou
+pour une branche ou une profession particulière. Les décrets fixent notamment
 l'aménagement et la répartition des horaires de travail, les périodes de repos,
 les conditions de recours aux astreintes, les dérogations permanentes ou
 temporaires applicables dans certains cas et pour certains emplois, les

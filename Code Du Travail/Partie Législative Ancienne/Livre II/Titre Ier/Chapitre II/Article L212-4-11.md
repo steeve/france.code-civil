@@ -1,8 +1,11 @@
 Article L212-4-11
 ----
-Par dérogation aux dispositions des articles L. 143-2 et L. 144-2, une
-convention ou un accord collectif étendu ou une convention ou un accord
-collectif d'entreprise ou d'établissement peut prévoir que la rémunération
-mensuelle des salariés titulaires d'un contrat de travail intermittent est
-indépendante de l'horaire réel et est calculée dans les conditions prévues par
-la convention ou l'accord.
+Des décrets déterminent en tant que de besoin les modalités d'application des
+articles L. 212-4-2 à L. 212-4-10 soit pour l'ensemble des professions ou des
+branches d'activité, soit pour une profession ou une branche particulière.
+
+Si, dans une branche ou une profession, la pratique du travail à temps partiel a
+provoqué un déséquilibre grave et durable des conditions d'emploi, des décrets,
+pris après consultation des organisations d'employeurs et de salariés
+intéressées, peuvent instituer des limitations du recours au travail à temps
+partiel dans la branche ou la profession concernée.

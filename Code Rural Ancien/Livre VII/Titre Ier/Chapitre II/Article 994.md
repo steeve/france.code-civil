@@ -1,14 +1,16 @@
 Article 994
 ----
 L'exécution d'heures supplémentaires ne peut avoir pour effet de porter à plus
-de quarante-six heures la durée moyenne hebdomadaire de travail calculée sur une
-période quelconque de douze semaines consécutives, et à plus de quarante-huit
-heures la durée de travail au cours d'une même semaine.
+de quarante-quatre heures la durée moyenne hebdomadaire de travail calculée sur
+une période quelconque de douze semaines consécutives, et à plus de
+quarante-huit heures la durée de travail au cours d'une même semaine.
 
 A titre exceptionnel, pour certains types d'activités, dans certaines régions ou
 dans certaines entreprises, des dérogations applicables à des périodes
-déterminées peuvent être apportées à la limite de quarante-six heures fixée
-ci-dessus.
+déterminées peuvent être apportées à la limite de quarante-quatre heures fixée
+ci-dessus. Un décret pris après conclusion d'une convention ou d'un accord
+collectif de branche peut prévoir que la durée hebdomadaire calculée sur une
+période de douze semaines consécutives ne peut dépasser quarante-six heures.
 
 En outre, en cas de circonstances exceptionnelles, notamment de travaux dont
 l'exécution ne peut être différée, certaines entreprises peuvent être autorisées
@@ -24,10 +26,10 @@ sur ces dérogations. Cet avis est transmis à l'inspecteur des lois sociales en
 agriculture.
 
 Toutefois, pour les entreprises et exploitations agricoles occupant des salariés
-définis aux 1°, 2°, 3°, 5°, 6° 9° et 10° de l'article 1144, ainsi que les
+définis aux 1°, 2°, 3°, 5°, 6°, 9° et 10° de l'article 1144, ainsi que les
 établissements figurant au 7° du même article qui ont une activité de production
-agricole, la limite de quarante-six heures est calculée sur une période de douze
-mois consécutifs ; dans les mêmes entreprises, et exploitations et
+agricole, la limite de quarante-quatre heures est calculée sur une période de
+douze mois consécutifs ; dans les mêmes entreprises, et exploitations et
 établissements, le plafond de soixante heures mentionné au troisième alinéa du
 présent article peut être dépassé à la condition que le nombre d'heures
 supplémentaires effectuées au-delà de ce plafond n'excède pas soixante heures au

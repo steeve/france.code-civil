@@ -6,3 +6,7 @@ les horaires effectivement réalisés par le salarié. Au vu de ces éléments e
 ceux fournis par le salarié à l'appui de sa demande, le juge forme sa conviction
 après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il
 estime utiles.
+
+Si le décompte des heures de travail effectuées par chaque salarié est assuré
+par un système d'enregistrement automatique, celui-ci doit être fiable et
+infalsifiable.
