@@ -13,7 +13,9 @@ internationale.
 
 3° Les honoraires et indemnités qui peuvent être accordés aux experts, aux
 interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou
-de personnalité, ou contribuant au contrôle judiciaire dans les conditions
+de personnalité ou d'une mission de médiation ou tendant à favoriser la
+réparation du dommage préalablement à la décision du procureur de la République
+sur les poursuites ou contribuant au contrôle judiciaire dans les conditions
 prévues aux articles R. 121 et R. 121-1 du présent code.
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par
