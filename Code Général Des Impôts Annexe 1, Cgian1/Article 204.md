@@ -5,4 +5,4 @@ franchise du droit de garantie et sans apposition des poinçons français peut l
 présenter à l'essai, achevés et sans marque du poinçon de maître, à condition
 d'avoir déclaré préalablement au bureau de garantie, le nombre, l'espèce et le
 poids desdits ouvrages et de s'être engagé à les y apporter achevés dans un
-délai n'excédant pas dix jours.
+délai n'excédant pas trente jours.

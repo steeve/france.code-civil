@@ -24,7 +24,3 @@ délai d'un an, à toute réquisition des agents de la garantie.
 
 Les autorisations accordées en exécution du présent article sont renouvelables
 au 1er janvier de chaque année. Elles sont révocables en tout temps.
-
-L'application des dispositions du présent article est suspendue provisoirement
-par l'article 4 de la loi du 16 octobre 1940, jusqu'à ce qu'il en soit décidé
-autrement par décret.
