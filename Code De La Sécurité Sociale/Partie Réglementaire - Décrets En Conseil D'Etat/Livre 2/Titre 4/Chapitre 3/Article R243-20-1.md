@@ -4,8 +4,8 @@ Par dérogation aux dispositions de l'article R. 243-20, l'employeur dont
 l'entreprise fait l'objet d'un examen par la commission départementale des chefs
 des services financiers et des représentants des organismes de sécurité sociale
 dans le cadre d'une reprise ou d'une restructuration financière peut bénéficier
-d'une remise intégrale ou partielle des majorations de retard afférentes aux
-cotisations exigibles et non réglées, dans les conditions suivantes :
+d'une remise intégrale ou partielle des majorations et pénalités restant dues,
+dans les conditions suivantes :
 
 1° La demande de remise est recevable même si les cotisations patronales n'ont
 pas été intégralement réglées. La décision du directeur de l'organisme de
@@ -22,5 +22,6 @@ financiers et des représentants des organismes de sécurité sociale pour l'exa
 de la situation des débiteurs retardataires ou, le cas échéant, par anticipation
 sur l'exécution de ce plan.
 
-Lorsque le plan d'apurement n'est pas respecté, les majorations de retard sont
-calculées selon les modalités prévues aux articles R. 243-18 et R. 243-20.
+Lorsque le plan d'apurement n'est pas respecté, les majorations et pénalités
+sont calculées selon les modalités prévues aux articles L. 243-14, R. 243-16, R.
+243-18 et R. 243-20.
