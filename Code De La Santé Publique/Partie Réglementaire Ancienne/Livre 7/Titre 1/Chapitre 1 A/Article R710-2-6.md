@@ -1,7 +1,13 @@
 Article R710-2-6
 ----
-A la fin de chaque séjour hospitalier, les documents mentionnés au II de
-l'article R. 710-2-1, ainsi que tous autres jugés nécessaires, sont adressés
-dans un délai de huit jours au praticien que le patient ou son représentant
-légal aura désigné afin d'assurer la continuité des soins. Il est alors établi
-des doubles de ces mêmes documents qui demeurent dans le dossier du patient.
+Les établissements publics de santé et les établissements de santé privés
+participant à l'exécution du service public hospitalier sont tenus d'informer
+par lettre le médecin désigné par le malade hospitalisé ou par sa famille de la
+date et de l'heure de l'admission et du service concerné. Ils l'invitent en même
+temps à prendre contact avec le service hospitalier, à fournir tous les
+renseignements utiles sur le malade et à manifester éventuellement le désir
+d'être informé sur l'évolution de l'état de ce dernier.
+
+En cours d'hospitalisation, le chef de service communique au médecin désigné
+dans les conditions ci-dessus et qui en fait la demande écrite toutes les
+informations relatives à l'état du malade.

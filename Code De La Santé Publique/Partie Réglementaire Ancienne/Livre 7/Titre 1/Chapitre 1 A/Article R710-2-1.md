@@ -1,41 +1,22 @@
 Article R710-2-1
 ----
-Un dossier médical est constitué pour chaque patient hospitalisé dans un
-établissement de santé public ou privé. Ce dossier contient au moins les
-documents suivants :
+Le directeur de l'établissement veille à ce que toutes mesures soient prises
+pour assurer la communication des informations définies à l'article L. 1111-7.
 
-I. - Les documents établis au moment de l'admission et durant le séjour, à
-savoir :
+Dans les établissements publics de santé et les établissements de santé privés
+participant à l'exécution du service public hospitalier, les informations
+relatives à la santé d'une personne lui sont communiquées par le médecin
+responsable de la structure concernée ou par tout membre du corps médical de
+l'établissement désigné par lui à cet effet.
 
-a) La fiche d'identification du malade ;
+Dans les établissements de santé privés ne participant pas à l'exécution du
+service public hospitalier, cette communication est assurée par le médecin
+responsable de la prise en charge du patient. En l'absence de ce médecin, elle
+est assurée par le ou les médecins désignés à cet effet par la conférence
+médicale.
 
-b) Le document médical indiquant le ou les motifs de l'hospitalisation ;
-
-c) Les conclusions de l'examen clinique initial et des examens cliniques
-successifs pratiqués par tout médecin appelé au chevet du patient ;
-
-d) Les comptes rendus des explorations para-cliniques et des examens
-complémentaires significatifs, notamment le résultat des examens d'anatomie et
-de cytologie pathologiques ;
-
-e) La fiche de consultation préanesthésique, avec ses conclusions et les
-résultats des examens demandés, et la feuille de surveillance anesthésique ;
-
-f) Le ou les comptes rendus opératoires ou d'accouchement ;
-
-g) Les prescriptions d'ordre thérapeutique ;
-
-h) Lorsqu'il existe, le dossier de soins infirmiers ;
-
-i) La mention des actes transfusionnels pratiqués sur le patient et, le cas
-échéant, copie de la fiche d'incident transfusionnel mentionnée au deuxième
-alinéa de l'article R. 666-12-24.
-
-II. - Les documents établis à la fin de chaque séjour hospitalier, à savoir :
-
-a) Le compte rendu d'hospitalisation, avec notamment le diagnostic de sortie ;
-
-b) Les prescriptions établies à la sortie du patient ;
-
-c) Le cas échéant, la fiche de synthèse contenue dans le dossier de soins
-infirmiers.
+A la fin de chaque séjour hospitalier, copie des informations concernant les
+éléments utiles à la continuité des soins est remise directement au patient au
+moment de sa sortie ou, si le patient en fait la demande, au praticien que
+lui-même ou la personne ayant l'autorité parentale aura désigné, dans un délai
+de huit jours maximum.

@@ -1,6 +1,6 @@
 Article R710-2-4
 ----
-Si un dossier médical a été constitué pour un patient reçu en consultation
-externe dans un établissement de santé public ou privé, la communication de ce
-dossier intervient, sur la demande des personnes mentionnées au premier alinéa
-de l'article R. 710-2-2, dans les conditions fixées par cet article.
+Dans le cas où le praticien qui a prescrit l'hospitalisation demande
+communication du dossier, cette communication ne peut intervenir qu'après accord
+du patient, de la personne ayant l'autorité parentale ou du tuteur, ou de ses
+ayants droit en cas de décès.

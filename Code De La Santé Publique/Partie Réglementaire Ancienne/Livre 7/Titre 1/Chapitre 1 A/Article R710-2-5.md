@@ -1,12 +1,7 @@
 Article R710-2-5
 ----
-Dans les établissements publics de santé et les établissements privés
-participant à l'exécution du service public hospitalier, la communication du
-dossier médical est assurée par le praticien responsable de la structure
-médicale concernée ou par tout membre du corps médical de l'établissement
-désigné par lui à cet effet.
-
-Dans les établissements de santé privés ne participant pas à l'exécution du
-service public hospitalier, cette communication est assurée par le médecin qui a
-constitué le dossier. En l'absence de ce médecin, elle est assurée par le ou les
-médecins désignés à cet effet par le président de la conférence médicale.
+Au cours de son séjour hospitalier, le patient auquel a été administré un
+produit sanguin labile en est informé par écrit. L'information est communiquée,
+pour les mineurs, aux titulaires de l'autorité parentale, sauf si le mineur a
+fait connaître l'opposition prévue à l'article L. 1111-5 et, pour les
+incapables, au tuteur.
