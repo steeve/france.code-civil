@@ -1,10 +1,11 @@
 Article L4251-1
 ----
-- Le plan de la région détermine les objectifs à moyen terme du développement
-économique, social et culturel de la région pour la période d'application du
-plan de la nation.
+Le plan de la région est constitué par le schéma régional d'aménagement et de
+développement du territoire prévu à l'article 34 de la loi n° 83-8 du 7 janvier
+1983 portant répartition de compétences entre les communes, les départements,
+les régions et l'Etat.
 
-Il prévoit les programmes d'exécution mis en oeuvre par la région soit
-directement, soit par voie contractuelle avec l'Etat, d'autres régions, les
-départements ou les communes, les entreprises publiques ou privées ou toute
-autre personne morale.
+Il fixe les orientations mises en oeuvre par la région soit directement, soit
+par voie contractuelle avec l'Etat, d'autres régions, les départements, les
+communes ou leurs groupements, les entreprises publiques ou privées, les
+établissements publics ou toute autre personne morale.

@@ -22,7 +22,9 @@ est assurée par l'organisme de gestion du parc naturel régional.
 L'Etat et les collectivités territoriales adhérant à la charte appliquent les
 orientations et les mesures de la charte dans l'exercice de leurs compétences
 sur le territoire du parc. Ils assurent, en conséquence, la cohérence de leurs
-actions et des moyens qu'ils y consacrent. Les documents d'urbanisme doivent
+actions et des moyens qu'ils y consacrent. L'Etat et la ou les régions adhérant
+à la charte peuvent conclure avec l'organisme de gestion du parc un contrat en
+application du contrat de plan Etat-régions. Les documents d'urbanisme doivent
 être compatibles avec les orientations et les mesures de la charte.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

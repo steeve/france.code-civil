@@ -1,7 +1,16 @@
 Article L1
 ----
-Le transport des lettres ainsi que des paquets et papiers n'excédant pas le
-poids de 1 kilogramme est exclusivement confié à La Poste.
+Le service universel postal concourt à la cohésion sociale et au développement
+équilibré du territoire. Il est assuré dans le respect des principes d'égalité,
+de continuité et d'adaptabilité en recherchant la meilleure efficacité
+économique et sociale. Il garantit à tous les usagers, de manière permanente et
+sur l'ensemble du territoire national, des services postaux répondant à des
+normes de qualité déterminées. Ces services sont offerts à des prix abordables
+pour tous les utilisateurs.
 
-Il est en conséquence interdit à tout entrepreneur de transports, ainsi qu'à
-toute personne étrangère à La Poste, de s'immiscer dans ce transport.
+Il comprend des offres de services nationaux et transfrontières d'envois postaux
+d'un poids inférieur ou égal à 2 kilogrammes, de colis postaux jusqu'à 20
+kilogrammes, d'envois recommandés et d'envois à valeur déclarée.
+
+Les services de levée et de distribution relevant du service universel postal
+sont assurés tous les jours ouvrables, sauf circonstances exceptionnelles.

@@ -1,8 +1,8 @@
 Article L161-2
 ----
-L'affectation à l'usage du public peut s'établir notamment par la destination du
-chemin, jointe au fait d'une circulation générale et continue, ou à des actes
-réitérés de surveillance et de voirie de l'autorité municipale.
+L'affectation à l'usage du public est présumée, notamment par l'utilisation du
+chemin rural comme voie de passage ou par des actes réitérés de surveillance ou
+de voirie de l'autorité municipale.
 
 La destination du chemin peut être définie notamment par l'inscription sur le
 plan départemental des itinéraires de promenade et de randonnée.
