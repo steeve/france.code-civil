@@ -8,6 +8,10 @@ tarifs :
 1° La caisse chargée du versement de la dotation globale règle des acomptes
 mensuels égaux aux douzièmes de la dotation globale de l'année précédente ;
 
-2° Les recettes relatives à la facturation des tarifs de prestations sont
-liquidées et perçues dans les conditions en vigueur au cours de l'exercice
-précédent.
+2° Les recettes relatives à la facturation des tarifs de prestations, visées à
+l'article L. 174-3 du code de la sécurité sociale, sont liquidées et perçues
+dans les conditions en vigueur au cours de l'exercice précédent ;
+
+3° Les autres recettes sont recouvrées dans les conditions et selon les tarifs
+fixés par l'ordonnateur ou selon les modalités prévues dans les conventions en
+cours ou les dispositions réglementaires en vigueur.

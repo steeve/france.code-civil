@@ -14,3 +14,13 @@ La synthèse des coûts par activité médicale tient notamment compte des
 informations sur les pathologies et leur mode de traitement, produites par le
 département d'information médicale suivant des modalités et un calendrier fixés
 par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+Le directeur élabore également, pour l'analyse de l'activité et des coûts de
+l'établissement prévue par les dispositions des articles L. 710-6 et L. 710-7,
+un tableau faisant apparaître, après répartition analytique des charges
+directes, le montant des crédits d'exploitation consacrés, pendant l'exercice,
+aux secteurs cliniques, médico-techniques et logistiques de l'établissement. Il
+transmet ce document à l'autorité administrative mentionnée à l'article R.
+714-3-27 au plus tard le 31 mars de l'année suivant l'exercice clos. Le modèle
+de ce document et les modalités de calcul des éléments qui y figurent sont fixés
+par arrêté des ministres chargés de la santé et de la sécurité sociale.

@@ -20,4 +20,6 @@ apparaître distinctement :
 l'exécution des missions dans les conditions approuvées l'année précédente ;
 
 2° Les mesures nouvelles portant majoration ou minoration des dotations de
-dépenses et des prévisions de recettes telles que définies au 1°.
+dépenses et des prévisions de recettes telles que définies au 1°, et notamment
+celles nécessaires pour mettre en oeuvre les différentes actions prévues à
+l'article L. 712-20.

@@ -6,9 +6,10 @@ suivantes :
 1. La section d'investissement et chacune des sections d'exploitation,
 présentées selon les modalités prévues aux articles R. 714-3-11 à R. 714-3-13,
 doivent être votées en équilibre, sous réserve des opérations relatives à la
-régularisation des procédures de mise en recouvrement des produits hospitaliers
-qui font l'objet d'une présentation spécifique dans des conditions fixées par
-arrêté des ministres chargés de la santé et du budget ;
+régularisation des procédures de mise en recouvrement des produits de l'activité
+hospitalière mentionnés au 2 de l'article R. 714-3-12, qui font l'objet d'une
+présentation spécifique dans des conditions fixées par arrêté des ministres
+chargés de la santé et du budget ;
 
 2. Les recettes et dépenses doivent être évaluées de façon sincère ;
 

@@ -7,8 +7,4 @@ d'établissement.
 
 Le rapport d'orientation ainsi que la délibération du conseil d'administration
 sont transmis, dans un délai de huit jours, à l'autorité administrative
-mentionnée à l'article R. 714-3-27, à la direction régionale des affaires
-sanitaires et sociales, à la caisse chargée du versement de la dotation globale
-ainsi qu'à la caisse régionale d'assurance maladie qui les tient à la
-disposition des autres organismes responsables de la gestion des régimes
-d'assurance maladie.
+mentionnée à l'article R. 714-3-27.

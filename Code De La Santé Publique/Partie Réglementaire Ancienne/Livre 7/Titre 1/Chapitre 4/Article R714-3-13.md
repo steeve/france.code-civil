@@ -32,13 +32,16 @@ b) En recettes :
 
 - groupe 4 : autres produits.
 
-3° [*Abrogé par décret 97-406 du 21 avril 1997*]
-
-4° Pour les structures pour toxicomanes et les activités de lutte contre
+3° Pour les structures pour toxicomanes et les activités de lutte contre
 l'alcoolisme :
 
-a) En dépenses, selon une présentation identique à celle des établissements de
-transfusion sanguine.
+a) En dépenses :
+
+- groupe 1 : charges d'exploitation relatives au personnel ;
+
+- groupe 2 : charges d'exploitation à caractère médical ;
+
+- groupe 3 : autres charges.
 
 b) En recettes :
 

@@ -4,7 +4,7 @@ Sous réserve des dispositions prévues au III du présent article, les résulta
 de la section d'exploitation du budget général sont affectés selon les modalités
 suivantes :
 
-I. - L'excédent est affecté par délibération du conseil d'administration :
+I. - L'excédent est affecté par délibération du conseild'administration :
 
 a) A un compte de réserve de compensation ;
 
@@ -46,6 +46,7 @@ conséquence.
 
 Les excédents ou déficits de recettes mentionnés au III (1 et 2) ci-dessus sont
 corrigés de la différence existant entre le montant des annulations de titres de
-recettes pour changement de débiteur et celui des réémissions de titres de
-recettes sur exercices antérieurs relatifs aux recettes visées au III (1)
+recettes en raison d'un changement de débiteur, ou d'une erreur ou d'une
+modification portant sur le montant de la créance, et celui des réémissions de
+titres sur exercices antérieurs relatifs aux recettes visées au III (1)
 ci-dessus, comptabilisés à la clôture de l'exercice.
