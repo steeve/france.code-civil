@@ -34,12 +34,14 @@ nette à long terme, à hauteur du montant de cette moins-value subie au titre d
 chacun de ces exercices.
 
 Les sommes déduites pour la détermination du résultat d'ensemble en application
-des deuxième et cinquième alinéas de l'article 223 B sont rapportées par la
-société mère au résultat d'ensemble de l'exercice de sortie du groupe de l'une
-des sociétés mentionnées à ces deux alinéas.
+des ((deuxième et sixième alinéas de l'article 223 B)) (M) sont rapportées par
+la société mère au résultat d'ensemble de l'exercice de sortie du groupe de
+l'une des sociétés mentionnées à ces deux alinéas.
 
 Les dispositions des trois alinéas précédents ne s'appliquent pas si la société
 était membre du groupe depuis cinq ans au moins.
 
 Les dispositions ci-dessus cessent d'être applicables aux résultats des
 exercices ouverts à compter du 1er janvier 1992.
+
+(M) Modification.

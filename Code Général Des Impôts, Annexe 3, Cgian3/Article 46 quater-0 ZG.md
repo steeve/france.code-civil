@@ -1,6 +1,6 @@
 Article 46 quater-0 ZG
 ----
-La subvention indirecte mentionnée au cinquième alinéa de l'article 223 B et au
+La subvention indirecte mentionnée au sixième alinéa de l'article 223 B et au
 premier alinéa de l'article 223 R du code général des impôts s'entend des
 renonciations à recettes qui proviennent des prêts ou d'avances sans intérêt ou
 à un taux d'intérêt inférieur au taux du marché. Elle s'entend également de la

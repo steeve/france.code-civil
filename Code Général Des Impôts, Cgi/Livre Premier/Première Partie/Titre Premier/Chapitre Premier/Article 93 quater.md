@@ -27,6 +27,13 @@ L'application de cette disposition est subordonnée à la condition que l'apport
 soit réalisé dans le délai de dix ans à compter de la publication du décret en
 Conseil d'Etat propre à la profession considérée.
 
+((Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas
+de transformation de la société civile professionnelle en société d'exercice
+libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou
+actions de l'associé. Les dispositions des quatrième et cinquième alinéas du II
+de l'article 151 octies sont applicables à l'associé à compter de la
+transformation)) (M) (1).
+
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values
 constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151
 octies.
@@ -57,4 +64,7 @@ au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 ((4. Un décret fixe les conditions d'application du présent IV, notamment les
 obligations déclaratives des contribuables)) (M).
 
-(M) Modification de la loi.
+(M) Modification.
+
+(1) Ces dispositions s'appliquent aux apports et aux transformations réalisés à
+compter du 1er janvier 1994.

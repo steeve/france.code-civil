@@ -4,7 +4,7 @@ I. - Les assujettis sont autorisés à recevoir ou à importer en franchise de l
 [*TVA*] taxe sur la valeur ajoutée les biens qu'ils destinent à une livraison à
 l'exportation, à une livraison exonérée en vertu du I de l'article 262 ter ou de
 l'article 262 quater ou à une livraison dont le lieu est situé sur le territoire
-d'un autre Etat membre de la Communauté économique européenne en application des
+d'un autre Etat membre de la Communauté européenne en application des
 dispositions de l'article 258 A, ainsi que les services portant sur ces biens,
 dans la limite du montant des livraisons de cette nature qui ont été réalisées
 au cours de l'année précédente et qui portent sur des biens passibles de cette
@@ -23,3 +23,10 @@ pénalités prévues aux articles 1725 à 1740.
 II Les dispositions du I s'appliquent aux organismes sans but lucratif dont la
 gestion est désintéressée qui exportent des biens à l'étranger dans le cadre de
 leur activité humanitaire, charitable ou éducative.
+
+III Les assujettis revendeurs qui, en application des dispositions du présent
+article, reçoivent ou importent en franchise des biens d'occasion, des oeuvres
+d'art, des objets de collection ou d'antiquité ne peuvent pas appliquer, lors de
+la livraison de ces biens, les dispositions de l'article 297 A (1).
+
+(1) Disposition en vigueur à compter du 1er janvier 1995.
