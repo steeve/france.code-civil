@@ -21,10 +21,13 @@ lieu, sur l'ordonnance écrite remise au bénéficiaire des soins, que la
 prescription est transmise électroniquement à l'organisme d'assurance maladie,
 conformément aux dispositions du 1° du I de l'article R. 161-48.
 
-Un arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé
-du budget, du ministre chargé de l'agriculture et du ministre chargé de la
-santé, pris après avis de la Commission nationale de l'informatique et des
-libertés, détermine les spécifications techniques de l'ordonnance électronique.
+Un arrêté conjoint des ministres chargés de la santé, de l'assurance maladie et
+de l'agriculture, pris après avis de la Commission nationale de l'informatique
+et des libertés, détermine les spécifications techniques de l'ordonnance
+électronique et, pour l'ordonnance sur support papier, les caractéristiques
+permettant la lecture automatique des éléments d'identification du prescripteur
+qu'elle comporte ainsi que le rapprochement de l'ordonnance avec la feuille de
+soins correspondante lorsque cette dernière est transmise par voie électronique.
 Cet arrêté fixe en outre les modèles et les spécifications particulières des
 ordonnances, électroniques ou sur support papier, relatives aux actes ou
 prestations destinés à des assurés dont la loi a limité ou supprimé la

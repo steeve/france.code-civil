@@ -20,6 +20,11 @@ prévus pour la transmission de la feuille de soins électronique ;
 prévues au 2° du I de l'article R. 161-47 lorsque l'exécutant de la prescription
 utilise une feuille de soins sur support papier.
 
+Il n'est pas fait application des dispositions qui précèdent lorsque
+l'ordonnance a été préalablement transmise à l'organisme d'assurance maladie à
+l'appui d'une demande adressée en vue de l'obtention de l'accord préalable
+mentionné au deuxième alinéa de l'article L. 315-2.
+
 II. - Un arrêté des ministres chargés de la sécurité sociale, de l'agriculture
 et de la santé, pris après avis de la Commission nationale de l'informatique et
 des libertés, détermine :

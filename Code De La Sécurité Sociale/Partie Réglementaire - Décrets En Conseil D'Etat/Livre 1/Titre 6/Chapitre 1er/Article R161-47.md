@@ -27,10 +27,10 @@ selon des modalités fixées par les conventions mentionnées à l'article L.
 161-34.
 
 Le professionnel, l'organisme ou l'établissement conserve le double électronique
-des feuilles de soins transmises pendant quatre-vingt-dix jours au moins. Il
-remet à l'assuré, sur demande de ce dernier, copie de la feuille de soins
-transmise, sauf modalités contraires prévues par les conventions mentionnées à
-l'article L. 161-34.
+des feuilles de soins transmises, ainsi que leurs accusés de réception pendant
+quatre-vingt-dix jours au moins. Il remet à l'assuré, sur demande de ce dernier,
+copie de la feuille de soins transmise, sauf modalités contraires prévues par
+les conventions mentionnées à l'article L. 161-34.
 
 2° En cas d'envoi sous forme de document sur support papier, la transmission par
 courrier à l'organisme servant à l'assuré les prestations de base de l'assurance
@@ -81,6 +81,6 @@ dans les conditions mentionnées à l'alinéa précédent un duplicata signé du
 professionnel, de l'organisme ou de l'établissement concerné.
 
 L'assuré ne peut faire valoir ses droits à remboursement au moyen d'une copie
-électronique ou d'un duplicata que si quinze jours au moins et quatre-vingt-dix
-jours au plus se sont écoulés depuis la date d'élaboration de la feuille de
-soins mentionnée au 10° de l'article R. 161-42.
+électronique que si quinze jours au moins et quatre-vingt-dix jours au plus se
+sont écoulés depuis la date d'élaboration de la feuille de soins mentionnée au
+10° de l'article R. 161-42.

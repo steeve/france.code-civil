@@ -32,7 +32,9 @@ identifiant et situation d'exercice ;
 
 4° La mention, s'il y a lieu, du fait que les actes ou prestations sont
 effectués ou servis consécutivement à un accident, et des éléments permettant
-d'identifier cet accident ;
+d'identifier cet accident ; ces renseignements sont recueillis auprès du
+bénéficiaire des actes ou prestations ; l'assuré est responsable de leur
+véracité ;
 
 5° Pour chacun des actes ou prestations et, selon le cas, le numéro de code :
 
@@ -42,13 +44,16 @@ sa cotation ;
 b) De l'acte figurant dans la nomenclature mentionnée à l'article R. 162-18 et
 sa cotation ;
 
-c) Des fournitures et appareils inscrits sur la liste ou nomenclature mentionnée
-au 1° de l'article R. 165-1 ;
+c) Des produits et prestations inscrits sur la liste prévue à l'article L. 165-1
+;
 
 d) Des médicaments spécialisés, préparations magistrales ou fournitures
 pharmaceutiques mentionnés sur les listes de l'article L. 162-17 et, le cas
 échéant, du médicament prescrit auquel le pharmacien en a substitué un autre,
-conformément à la réglementation en vigueur ;
+conformément à la réglementation en vigueur ; lorsque la prescription est
+libellée en dénomination commune, au sens de l'article L. 5125-23 du code de la
+santé publique, le numéro de code du médicament délivré par le pharmacien est
+complété par la mention correspondante ;
 
 e) Des produits sanguins labiles mentionnés à l'article L. 666-9 du code de la
 santé publique ;
@@ -78,13 +83,28 @@ correspond, selon le choix du professionnel, de l'organisme ou de
 l'établissement, ou bien à la date du paiement par l'assuré des actes effectués
 ou des prestations servies et présentés au remboursement ou bien, lorsque sont
 en cause plusieurs actes ou prestations rapprochés ou relevant d'un même
-traitement, la date à laquelle le dernier acte effectué ou la dernière
-prestation servie a été présenté à remboursement ;
+traitement, à la date de réalisation ou de délivrance du dernier acte ou de la
+dernière prestation présenté à remboursement ;
 
-11° Pour les bordereaux de facturation, les frais d'hospitalisation ; dans le
-cas d'actes effectués ou de prestations servies par des tiers durant
-l'hospitalisation, l'établissement de santé peut inclure leur identification
-dans le bordereau, ou la joindre à ce dernier sous forme de complément ; la date
-à laquelle les rubriques du bordereau sont complétées est, dans cette hypothèse,
-la date de réception par l'établissement des derniers éléments de facturation
-présentés à remboursement.
+11° Pour les bordereaux de facturation, tels que définis au deuxième alinéa de
+l'article R. 161-40 :
+
+a) Les frais afférents aux prestations mentionnées aux 1° à 5° du I et au II de
+l'article R. 162-31, y compris le cas échéant aux prestations servies par un
+autre établissement de santé au cours du séjour du patient, ainsi qu'à la
+fourniture des produits ou médicaments mentionnés aux c à f du 6° du I du même
+article ;
+
+b) Les honoraires et frais mentionnés aux a et b du 6° du I de l'article R.
+162-31, correspondant aux actes effectués au cours du séjour du patient, quelle
+que soit la nature du lien existant entre le professionnel et l'établissement.
+
+Par dérogation au 10° du présent article, le point de départ du délai mentionné
+au I de l'article R. 161-47 est la date de fin d'hospitalisation du patient.
+
+Les compléments de facturation correspondant aux prestations servies ou aux
+actes effectués par des tiers, hors de l'établissement, durant le séjour et pour
+le compte du patient, peuvent être disjoints du bordereau. Dans cette hypothèse,
+le délai mentionné au I de l'article R. 161-47 court à compter de la date de
+réception par l'établissement des derniers éléments de facturation présentés au
+remboursement.
