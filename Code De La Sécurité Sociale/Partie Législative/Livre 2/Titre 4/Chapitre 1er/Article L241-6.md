@@ -23,3 +23,6 @@ personnes salariées et non-salariées des régimes agricoles ;
 4°) une fraction du produit des contributions sociales mentionnées aux articles
 L. 136-1, L. 136-6 et L. 136-7 à concurrence d'un montant correspondant à
 l'application d'un taux de 1,1 p. 100 à l'assiette de ces contributions.
+
+5°) les versements de l'Etat correspondant au coût des éxonérations opérées en
+application de l'article L. 241-6-1.
