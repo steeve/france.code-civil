@@ -1,6 +1,6 @@
 Article D2223-119
 ----
-I. - Toute personne proposant à la vente un véhicule de transport de corps après
+I.-Toute personne proposant à la vente un véhicule de transport de corps après
 mise en bière neuf ou d'occasion est tenue d'en faire vérifier à ses frais la
 conformité par rapport aux prescriptions des articles D. 2223-116 à D. 2223-120
 auprès d'un bureau de contrôle agréé par le ministre chargé de la santé et d'en
@@ -13,7 +13,7 @@ raison sociale, son adresse, la date et les références du contrôle.
 Une copie du certificat de conformité est transmise sans délai par l'acheteur au
 préfet compétent pour lui délivrer une habilitation dans le domaine funéraire.
 
-II. - Les véhicules fabriqués conformément soit aux normes françaises, soit aux
+II.-Les véhicules fabriqués conformément soit aux normes françaises, soit aux
 normes étrangères ou aux spécifications techniques prévues dans les
 réglementations d'un Etat membre de l'Union européenne ou d'un Etat partie à
 l'accord instituant l'Espace économique européen assurant un niveau de
@@ -37,7 +37,7 @@ L'acquéreur du véhicule est tenu d'adresser sans délai un exemplaire de
 l'attestation mentionnée à l'alinéa précédent au préfet compétent pour lui
 délivrer une habilitation dans le domaine funéraire.
 
-III. - Le certificat d'immatriculation prévu à l'article R. 111 du code de la
+III.-Le certificat d'immatriculation prévu à l'article R. 322-2 du code de la
 route des véhicules de transport de corps après mise en bière doit préciser que
 ces véhicules sont classés dans le genre " véhicules automoteurs spécialisés "
 (VASP), carrosserie " fourgons funéraires " (FG FUNER).

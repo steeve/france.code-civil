@@ -1,6 +1,6 @@
 Article D2223-113
 ----
-I. - Toute personne proposant à la vente un véhicule de transport de corps avant
+I.-Toute personne proposant à la vente un véhicule de transport de corps avant
 mise en bière, un caisson isotherme ou un système de refroidissement
 susceptibles d'être installés dans un tel véhicule est tenue de faire vérifier
 chaque année la conformité d'un modèle de la série mise sur le marché aux
@@ -17,7 +17,7 @@ contrôle.
 Une copie du procès verbal d'essais est transmise sans délai par l'acheteur au
 préfet compétent pour lui délivrer une habilitation dans le domaine funéraire.
 
-II. - Les véhicules fabriqués conformément soit aux normes françaises, soit aux
+II.-Les véhicules fabriqués conformément soit aux normes françaises, soit aux
 normes étrangères ou aux spécifications techniques prévues dans les
 réglementations d'un Etat membre de l'Union européenne ou d'un Etat partie à
 l'accord instituant l'Espace économique européen assurant un niveau de
@@ -42,7 +42,7 @@ d'adresser sans délai un exemplaire de l'attestation mentionnée à l'alinéa
 précédent au préfet compétent pour lui délivrer une habilitation dans le domaine
 funéraire.
 
-III. - Le certificat d'immatriculation prévu à l'article R. 111 du code de la
+III.-Le certificat d'immatriculation prévu à l'article R. 322-2 du code de la
 route des véhicules de transport de corps avant mise en bière doit préciser que
 ces véhicules sont classés dans le genre " véhicules automoteurs spécialisés "
 (VASP), carrosserie " fourgons funéraires " (FG FUNER).
