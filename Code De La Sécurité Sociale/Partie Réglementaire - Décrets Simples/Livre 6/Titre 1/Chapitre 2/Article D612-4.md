@@ -19,5 +19,5 @@ non-salariées non-agricoles est fixé à 11,55 p. 100 dont 3,10 p. 100 dans la
 limite du plafond et 8,45 p. 100 dans la limite de cinq fois le plafond ;
 
 2°) le taux de la cotisation due sur les allocations ou pensions mentionnées à
-l'article D. 612-3 ci-dessus est fixé à 3 p. 100 dans la limite de cinq fois le
-plafond.
+l'article D. 612-3 ci-dessus est fixé à 3,4 p. 100 dans la limite de cinq fois
+le plafond.
