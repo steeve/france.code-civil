@@ -1,15 +1,14 @@
 Article L1522-1
 ----
-- Les assemblées délibérantes des communes, des départements, des régions et de
+Les assemblées délibérantes des communes, des départements, des régions et de
 leurs groupements peuvent, à l'effet de créer des sociétés d'économie mixte
 locales mentionnées à l'article L. 1521-1, acquérir des actions ou recevoir, à
 titre de redevance, des actions d'apports, émises par ces sociétés.
 
 Les prises de participation sont subordonnées aux conditions suivantes :
 
-1° La société revêt la forme de société anonyme régie par la loi n° 66-537 du 24
-juillet 1966 sur les sociétés commerciales, sous réserve des dispositions du
-présent titre ;
+1° La société revêt la forme de société anonyme régie par le livre II du code de
+commerce, sous réserve des dispositions du présent titre ;
 
 2° Les collectivités territoriales et leurs groupements détiennent, séparément
 ou à plusieurs, plus de la moitié du capital de ces sociétés et des voix dans

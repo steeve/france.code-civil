@@ -1,6 +1,6 @@
 Article L4135-9-2
 ----
-A l'issue de son mandat, tout président de conseil général ou tout
+A l'issue de son mandat, tout président du conseil régional ou tout
 vice-président ayant reçu délégation de celui-ci qui, pour l'exercice de son
 mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa
 demande, une allocation différentielle de fin de mandat s'il se trouve dans

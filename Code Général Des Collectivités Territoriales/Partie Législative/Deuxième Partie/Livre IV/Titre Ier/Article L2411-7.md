@@ -1,6 +1,6 @@
 Article L2411-7
 ----
-- La commission syndicale est appelée à donner son avis sur les modalités de
+La commission syndicale est appelée à donner son avis sur les modalités de
 jouissance des biens de la section dont les fruits sont perçus en nature, sur
 l'emploi des revenus en espèces des autres biens et, en cas d'aliénation de
 biens de la section, sur l'emploi du produit de cette vente au profit de la
@@ -8,7 +8,7 @@ section.
 
 Elle est consultée sur la mise en valeur des marais et terres incultes ou
 manifestement sous-exploitées appartenant à la section dans les conditions
-prévues par les articles L. 125-1 à L. 125-7 et L. 142-7 du code rural.
+prévues par les articles L. 125-1 à L. 125-7 du code rural.
 
 Elle est appelée à donner son avis, d'une manière générale, sur toutes les
 matières où sa consultation est prévue par les lois et règlements en vigueur.

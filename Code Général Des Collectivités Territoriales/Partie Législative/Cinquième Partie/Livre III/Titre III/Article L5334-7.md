@@ -8,9 +8,10 @@ Ce fonds de coopération dispose des ressources suivantes :
 
 1° Un prélèvement sur le produit de la taxe professionnelle perçu par la
 communauté ou le syndicat d'agglomération nouvelle sur son territoire, augmenté
-des compensations prévues aux articles 1469 A bis, 1472, 1472 A et 1472 A bis du
-code général des impôts et au I du D de l'article 44 de la loi de finances pour
-1999 (n° 98-1266 du 30 décembre 1998).
+des compensations versées en contrepartie de l'application des dispositions
+prévues aux articles 1472, 1472 A et 1472 A bis, au troisième alinéa du II de
+l'article 1478 du code général des impôts et au I du D de l'article 44 de la loi
+de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
 Le montant de ce prélèvement est égal en 1992 à la somme, corrigée par
 l'application de l'indexation de l'alinéa ci-dessous, des dotations de référence
@@ -19,10 +20,11 @@ effectivement versées aux communes l'année précédente.
 Le montant de ce prélèvement est indexé chaque année, par rapport au montant du
 prélèvement de l'année précédente, d'un pourcentage égal au moins à 70 p. 100 de
 la variation du produit de la taxe professionnelle perçu par la communauté ou le
-syndicat d'agglomération nouvelle, augmenté des compensations prévues aux
-articles 1469 A bis, 1472, 1472 A et 1472 A bis du code général des impôts et au
-I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30
-décembre 1998).
+syndicat d'agglomération nouvelle, augmenté des compensations versées en
+contrepartie de l'application des dispositions prévues aux articles 1472, 1472 A
+et 1472 A bis, au troisième alinéa du II de l'article 1478 du code général des
+impôts et au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266
+du 30 décembre 1998).
 
 Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du
 code général des impôts, le produit de la taxe professionnelle perçu par la

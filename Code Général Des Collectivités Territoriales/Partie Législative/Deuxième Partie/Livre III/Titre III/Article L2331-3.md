@@ -1,6 +1,6 @@
 Article L2331-3
 ----
-- Les recettes fiscales de la section de fonctionnement peuvent comprendre :
+Les recettes fiscales de la section de fonctionnement peuvent comprendre :
 
 a) Le produit des impôts et taxes dont l'assiette et le recouvrement ont lieu
 dans les formes prévues au code général des impôts, à savoir :
@@ -39,8 +39,7 @@ d'après les tarifs dûment établis ;
 
 7° Le versement destiné aux transports en commun ;
 
-8° Le produit de la taxe sur les passagers prévue à l'article L. 211-2 du code
-des ports maritimes.
+8° Abrogé ;
 
 9° Le produit des taxes sur les convois, les inhumations et les crémations
 prévus à l'article L. 2223-22.

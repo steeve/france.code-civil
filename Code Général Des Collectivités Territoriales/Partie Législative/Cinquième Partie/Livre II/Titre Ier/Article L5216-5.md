@@ -8,12 +8,12 @@ gestion de zones d'activité industrielle, commerciale, tertiaire, artisanale,
 touristique, portuaire ou aéroportuaire qui sont d'intérêt communautaire ;
 actions de développement économique d'intérêt communautaire ;
 
-2° En matière d'aménagement de l'espace communautaire : schéma directeur et
-schéma de secteur ; création et réalisation de zones d'aménagement concerté
-d'intérêt communautaire ; organisation des transports urbains au sens du
-chapitre II du titre II de la loi n° 82-1153 du 30 décembre 1982 d'orientation
-des transports intérieurs, sous réserve des dispositions de l'article 46 de
-cette loi ;
+2° En matière d'aménagement de l'espace communautaire : schéma de cohérence
+territoriale et schéma de secteur ; création et réalisation de zones
+d'aménagement concerté d'intérêt communautaire ; organisation des transports
+urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre
+1982 d'orientation des transports intérieurs, sous réserve des dispositions de
+l'article 46 de cette loi ;
 
 3° En matière d'équilibre social de l'habitat : programme local de l'habitat ;
 politique du logement d'intérêt communautaire ; actions et aides financières en

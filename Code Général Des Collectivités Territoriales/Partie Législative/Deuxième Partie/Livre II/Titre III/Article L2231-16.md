@@ -15,6 +15,5 @@ conseils municipaux intéressés ainsi que, le cas échéant, leur représentati
 2° Aux stations dont l'équipement et l'exploitation ont fait l'objet de
 concessions de la commune ou des communes intéressées ;
 
-3° Aux communes littorales, au sens de la loi n° 86-2 du 3 janvier 1986 relative
-à l'aménagement, la protection et la mise en valeur du littoral, qui ne sont pas
-des stations classées.
+3° Aux communes littorales, au sens de l'article L. 321-2 du code de
+l'environnement, qui ne sont pas des stations classées.

@@ -31,7 +31,7 @@ communes regroupées, du potentiel fiscal de l'établissement public de
 coopération intercommunale et pondérée, le cas échéant, par le coefficient
 d'intégration fiscale de l'établissement public de coopération intercommunale.
 
-La majoration prévue au neuvième alinéa de l'article L. 5211-29 est affectée aux
+La majoration prévue au onzième alinéa de l'article L. 5211-29 est affectée aux
 communautés de communes visées à l'article L. 5214-23-1. Elle s'ajoute à leur
 dotation de base et est répartie comme cette dernière entre les communautés de
 communes concernées.
@@ -109,8 +109,9 @@ les communautés de communes faisant application des dispositions de l'article
 dernière année connue de la compensation prévue au D de l'article 44 de la loi
 de finances pour 1999 précitée et, le cas échéant, de celles prévues au B de
 l'article 4 de la loi n° 96-987 du 14 novembre 1996 précitée ou au B de
-l'article 3 de la loi n° 96-1143 du 26 décembre 1996 précitée. 2° Pour
-déterminer le coefficient d'intégration fiscale moyen d'une catégorie
+l'article 3 de la loi n° 96-1143 du 26 décembre 1996 précitée.
+
+2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie
 d'établissement public de coopération intercommunale, sont prises en compte les
 sommes des recettes et des dépenses de transfert de l'ensemble des
 établissements publics percevant depuis plus de deux ans la dotation
@@ -138,7 +139,7 @@ d'assainissement. Elles ne prennent pas en compte les dépenses effectuées par
 l'établissement public en tant qu'employeur direct de personnel.
 
 Les dépenses de transfert retenues pour déterminer le coefficient d'intégration
-fiscale des communautés urbaines de 2000 à 2002 , communautés de communes et
+fiscale des communautés urbaines de 2000 à 2002 communautés de communes et
 communautés d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10
 % en 2000. Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
 
@@ -149,7 +150,7 @@ péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an
 pour atteindre 100 % en 2009.
 
 VI. - A compter du 1er janvier 2003, la dotation des communautés urbaines est
-répartie selon les dispositions fixées aux troisième et quatrième alinéas du I.
+répartie selon les dispositions fixées aux deuxième et troisième alinéas du I.
 
 VII. - Lorsque le recensement général de population de 1999 fait apparaître une
 variation de la population d'un établissement public de coopération

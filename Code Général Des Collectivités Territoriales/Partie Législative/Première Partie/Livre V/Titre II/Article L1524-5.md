@@ -13,14 +13,13 @@ arrondi à l'unité supérieure. Les sièges sont attribués en proportion du ca
 détenu respectivement par chaque collectivité ou groupement.
 
 Si le nombre des membres d'un conseil d'administration ou d'un conseil de
-surveillance prévus aux articles 89 et 129 de la loi n° 66-537 du 24 juillet
-1966 sur les sociétés commerciales ne suffit pas à assurer, en raison de leur
-nombre, la représentation directe des collectivités territoriales ou de leurs
-groupements ayant une participation réduite au capital, ils sont réunis en
-assemblée spéciale, un siège au moins leur étant réservé. L'assemblée spéciale
-désigne parmi les élus de ces collectivités ou groupements le ou les
-représentants communs qui siégeront au conseil d'administration ou de
-surveillance.
+surveillance prévus aux articles L. 225-17 et L. 225-69 du code de commerce ne
+suffit pas à assurer, en raison de leur nombre, la représentation directe des
+collectivités territoriales ou de leurs groupements ayant une participation
+réduite au capital, ils sont réunis en assemblée spéciale, un siège au moins
+leur étant réservé. L'assemblée spéciale désigne parmi les élus de ces
+collectivités ou groupements le ou les représentants communs qui siégeront au
+conseil d'administration ou de surveillance.
 
 Les personnes qui assurent la représentation d'une collectivité territoriale ou
 d'un groupement au sein du conseil d'administration ou de surveillance d'une
@@ -42,12 +41,12 @@ en fonction au-delà de la limite d'âge, en vertu soit des statuts de la socié
 soit, à défaut de dispositions express dans les statuts, des articles précités
 du code de commerce.
 
-Par dérogation à l'article 91 de la loi n° 66-537 du 24 juillet 1966 précitée,
-la responsabilité civile qui résulte de l'exercice du mandat des représentants
-incombe à la collectivité territoriale ou au groupement dont ils sont
-mandataires. Lorsque ces représentants ont été désignés par l'assemblée
-spéciale, cette responsabilité incombe solidairement aux collectivités
-territoriales ou aux groupements membres de cette assemblée.
+Par dérogation à l'article L. 225-20 du code de commerce, la responsabilité
+civile qui résulte de l'exercice du mandat des représentants incombe à la
+collectivité territoriale ou au groupement dont ils sont mandataires. Lorsque
+ces représentants ont été désignés par l'assemblée spéciale, cette
+responsabilité incombe solidairement aux collectivités territoriales ou aux
+groupements membres de cette assemblée.
 
 Les élus locaux agissant en tant que mandataires des collectivités territoriales
 ou de leurs groupements au sein du conseil d'administration ou du conseil de

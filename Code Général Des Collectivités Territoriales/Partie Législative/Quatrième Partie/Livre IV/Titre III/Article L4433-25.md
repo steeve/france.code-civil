@@ -14,11 +14,9 @@ l'Etat.
 Elles sont financées par la région. L'organisation et le fonctionnement de ces
 activités sont précisés par des conventions conclues entre la région, la
 collectivité gestionnaire de l'établissement, le responsable de l'établissement
-et, le cas échéant, l'association ou l'organisme prestataire de service.
+et, le cas échéant, l'association ou l'organisme prestataire de services.
 
 Les autres activités éducatives, sportives et culturelles complémentaires
 peuvent être également organisées par la région et par les autres collectivités
-territoriales dans les conditions prévues à l'article 26 de la loi n° 83-663 du
-22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la
-répartition de compétences entre les communes, les départements, les régions et
-l'Etat.
+territoriales dans les conditions prévues à l'article L. 216-1 du code de
+l'éducation.

@@ -1,14 +1,14 @@
 Article L2123-2
 ----
-- I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les
-conditions prévues à l'article L. 2123-1, les maires, les adjoints et, les
+I.-Indépendamment des autorisations d'absence dont ils bénéficient dans les
+conditions prévues à l'article L. 2123-1, les maires, les adjoints et les
 conseillers municipaux ont droit à un crédit d'heures leur permettant de
 disposer du temps nécessaire à l'administration de la commune ou de l'organisme
 auprès duquel ils la représentent et à la préparation des réunions des instances
 où ils siègent.
 
-II. - Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à
-la durée hebdomadaire légale du travail. Il est égal :
+II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la
+durée hebdomadaire légale du travail. Il est égal :
 
 1° A l'équivalent de quatre fois la durée hebdomadaire légale du travail pour
 les maires des communes d'au moins 10 000 habitants et les adjoints au maire des
@@ -31,13 +31,13 @@ Les heures non utilisées pendant un trimestre ne sont pas reportables.
 
 Lorsqu'un adjoint ou un conseiller supplée le maire dans les conditions fixées
 par l'article L. 2122-17, il bénéficie, pendant la durée de la suppléance, du
-crédit d'heures fixé au 1°, au 2° ou au 3° du présent article.
+crédit d'heures fixé au 1° ou au 2° du présent article.
 
 Les conseillers municipaux qui bénéficient d'une délégation de fonction du maire
-ont droit au crédit d'heures prévu pour les adjoints au 1° ou au 2° du présent
-article.
+ont droit au crédit d'heures prévu pour les adjoints au 1°, au 2° ou au 3° du
+présent article.
 
-III. - En cas de travail à temps partiel, ce crédit d'heures est réduit
+III.-En cas de travail à temps partiel, ce crédit d'heures est réduit
 proportionnellement à la réduction du temps de travail prévue pour l'emploi
 considéré.
 
