@@ -1,7 +1,7 @@
 Article R5140
 ----
-Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1 R. 5137 et R.
-5139, à l'exclusion des mesures de suspension, sont prises par le directeur
+Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1, R. 5137 et
+R. 5139, à l'exclusion des mesures de suspension, sont prises par le directeur
 général de l'Agence du médicament après avis de la commission constituée à cet
 effet [*autorité compétente*].
 
