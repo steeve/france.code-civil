@@ -1,16 +1,13 @@
 Article L322-12
 ----
-Il est créé, par le seul fait de la loi, dans chacun des groupes d'entreprises
-nationales "Assurances générales de France", "Groupe des assurances nationales"
-et "Union des assurances de Paris", une société centrale d'assurance ayant
-notamment pour objet de détenir directement ou indirectement la totalité des
-actions des entreprises constituant le groupe, d'exercer les droits attachés à
-ces actions et de faire bénéficier de ces droits ses propres actionnaires.
+Les sociétés centrales d'assurance créées par la loi n° 73-8 du 4 janvier 1973
+relative à la mise en oeuvre de l'actionnariat du personnel dans les banques
+nationales et les entreprises nationales d'assurances ont notamment pour objet
+de détenir directement ou indirectement la totalité des actions des sociétés
+constituant les groupes d'entreprises nationales d'assurances, d'exercer les
+droits attachés à ces actions et de faire bénéficier de ces droits leurs propres
+actionnaires.
 
-Une entreprise nationale d'assurance peut détenir une participation dans la
-capital d'une autre entreprise du même groupe.
-
-Les dispositions des articles 95, 111 et 278 de la loi n° 66-537 du 24 juillet
-1966 ne sont pas applicables aux sociétés centrales d'assurance. Les
-dispositions de la même loi ne font pas obstacle à l'application de la présente
-section.
+Les dispositions des articles 95 et 111 de la loi n° 66-537 du 24 juillet 1966
+ne sont pas applicables aux sociétés centrales d'assurance. Les dispositions de
+la même loi ne font pas obstacle à l'application de la présente section.

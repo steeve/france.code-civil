@@ -1,6 +1,7 @@
 Article L132-20
 ----
-L'assureur n'a pas d'action pour exiger le paiement des primes.
+L'entreprise d'assurance ou de capitalisation n'a pas d'action pour exiger le
+paiement des primes.
 
 Lorsqu'une prime ou fraction de prime n'est pas payée dans les dix jours de son
 échéance, l'assureur adresse au contractant une lettre recommandée par laquelle
@@ -13,3 +14,8 @@ du contrat.
 
 L'envoi de la lettre recommandée par l'assureur rend la prime portable dans tous
 les cas.
+
+Le défaut de paiement d'une cotisation due au titre d'un contrat de
+capitalisation ne peut avoir pour sanction que la suspension ou la résiliation
+pure et simple du contrat et, dans ce dernier cas, la mise à la disposition du
+porteur de la valeur de rachat que ledit contrat a éventuellement acquise.

@@ -38,7 +38,7 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
 
-Le directeur des assurances au ministère de l'économie et des finances, ou son
+Le directeur du Trésor au ministère de l'économie et des finances, ou son
 représentant, siège auprès de la commission en qualité de commissaire du
 Gouvernement.
 

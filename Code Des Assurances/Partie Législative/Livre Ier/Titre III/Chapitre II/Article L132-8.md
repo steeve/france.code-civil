@@ -1,24 +1,34 @@
 Article L132-8
 ----
-Le capital ou la rente assurés peuvent être payables lors du décès de l'assuré,
+Le capital ou la rente garantis peuvent être payables lors du décès de l'assuré
 à un ou plusieurs bénéficiaires déterminés.
 
-Est considérée comme faite au profit de bénéficiaires déterminés, la stipulation
-par laquelle le contractant attribue le bénéfice de l'assurance soit à sa femme
-sans indication de nom, soit à ses enfants et descendants nés ou à naître, soit
-à ses héritiers, sans qu'il soit nécessaire d'inscrire leurs noms dans la police
-ou dans tout autre acte ultérieur, contenant attribution du capital assuré.
-L'assurance faite au profit de la femme de l'assuré profite à la personne qu'il
-épouse même après la date du contrat. En cas de second mariage, le profit de
-cette stipulation appartient à la veuve. Les enfants et descendants, les
-héritiers du contractant, ainsi désignés, ont droit au bénéfice de l'assurance
-en proportion de leurs parts héréditaires. Ils conservent ce droit en cas de
+Est considérée comme faite au profit de bénéficiaires déterminés la stipulation
+par laquelle le bénéfice de l'assurance est attribué à une ou plusieurs
+personnes qui, sans être nommément désignées, sont suffisamment définies dans
+cette stipulation pour pouvoir être identifiées au moment de l'exigibilité du
+capital ou de la rente garantis.
+
+Est notamment considérée comme remplissant cette condition la désignation comme
+bénéficiaires des personnes suivantes :
+
+- les enfants nés ou à naître du contractant, de l'assuré ou de toute autre
+personne désignée ;
+
+- les héritiers ou ayants droit de l'assuré ou d'un bénéficiaire prédécédé.
+
+L'assurance faite au profit du conjoint profite à la personne qui a cette
+qualité au moment de l'exigibilité.
+
+Les héritiers, ainsi désignés, ont droit au bénéfice de l'assurance en
+proportion de leurs parts héréditaires. Ils conservent ce droit en cas de
 renonciation à la succession.
 
-En l'absence de désignation d'un bénéficiaire déterminé dans la police ou à
-défaut d'acceptation par le bénéficiaire désigné, le souscripteur de la police a
-le droit de désigner un bénéficiaire ou de substituer un bénéficiaire à un
-autre. Cette désignation ou cette substitution se fait soit par testament, soit
-entre vifs par voie d'avenant, ou en remplissant les formalités édictées par
-l'article 1690 du code civil ou, quand la police est à ordre, par voie
-d'endossement.
+En l'absence de désignation d'un bénéficiaire dans la police ou à défaut
+d'acceptation par le bénéficiaire, le contractant a le droit de désigner un
+bénéficiaire ou de substituer un bénéficiaire à un autre. Cette désignation ou
+cette substitution ne peut être opérée, à peine de nullité, qu'avec l'accord de
+l'assuré, lorsque celui-ci n'est pas le contractant. Cette désignation ou cette
+substitution peut être réalisée soit par voie d'avenant au contrat, soit en
+remplissant les formalités édictées par l'article 1690 du code civil, soit par
+endossement quand la police est à ordre, soit par voie testamentaire.
