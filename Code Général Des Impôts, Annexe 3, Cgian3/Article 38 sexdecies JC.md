@@ -27,3 +27,11 @@ Les choix prévus aux deux alinéas précédents se reconduisent tacitement par
 période de cinq ans, sauf décision contraire notifiée au service des impôts dans
 le délai de dépôt de la déclaration des résultats du dernier exercice de chaque
 période d'option.
+
+Les exploitants agricoles qui pratiquent la déduction prévue à l'article 72 D du
+code général des impôts renoncent définitivement aux dispositions prévues au
+troisième alinéa du présent article pour les stocks qui auraient pu y ouvrir
+droit [*(1)*].
+
+[*(1) Dispositions applicables aux exercices clos à compter du 1er janvier
+1986*].
