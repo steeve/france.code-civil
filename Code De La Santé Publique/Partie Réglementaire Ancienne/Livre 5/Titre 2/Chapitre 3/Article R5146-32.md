@@ -9,16 +9,16 @@ rendus des expertises fournis à l'appui de la première demande [*documents
 obligatoires*] ;
 
 b) Lorsque la demande porte sur une modification de l'autorisation de mise sur
-le marché, le ministre de la santé et le ministre de l'agriculture peuvent, d'un
-commun accord, dispenser le demandeur de produire certaines des indications ou
-justifications exigées par l'article R. 5146-28, s'il apparaît que celles-ci
+le marché, le directeur général du Centre national d'études vétérinaires et
+alimentaires peut dispenser le demandeur de produire certaines des indications
+ou justifications exigées par l'article R. 5146-28, s'il apparaît que celles-ci
 sont manifestement sans objet ;
 
 c) Lorsque le médicament vétérinaire a fait, par ailleurs, l'objet d'une
 autorisation de mise sur le marché délivrée au titre des dispositions de
 l'article L. 601, le compte rendu de l'expertise analytique produit lors de la
-première demande peut être utilisé ; le ministre de la santé et le ministre de
-l'agriculture peuvent, d'un commun accord, accepter également la production du
+première demande peut être utilisé ; le directeur général du Centre national
+d'études vétérinaires et alimentaires peut accepter également la production du
 compte rendu des essais toxicopharmacologiques antérieurs. Ils pourront
 cependant exiger les résultats d'une étude en vue de la fixation d'un temps
 d'attente au sens de l'article L. 617-2 du présent code ;

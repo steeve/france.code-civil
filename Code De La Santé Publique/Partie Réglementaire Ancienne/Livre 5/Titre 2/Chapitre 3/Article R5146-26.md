@@ -1,18 +1,17 @@
 Article R5146-26
 ----
 Toute demande d'autorisation de mise sur le marché d'un des médicaments
-vétérinaires mentionnés à l'article L. 607 doit être adressée, en trois
-exemplaires, au ministre de la santé et en trois exemplaires au ministre de
-l'agriculture.
+vétérinaires mentionnés à l'article L. 607 doit être adressée au directeur
+général du Centre national d'études vétérinaires et alimentaires.
 
 Lors du dépôt de la demande, des échantillons du produit fini du lot ayant servi
-aux essais sont remis au Laboratoire national des médicaments vétérinaires, en
-quantité suffisante pour procéder à des essais analytiques.
+aux essais sont remis au Centre national d'études vétérinaires et alimentaires,
+en quantité suffisante pour procéder à des essais analytiques.
 
 La demande mentionne :
 
 a) Le nom et l'adresse du responsable de la mise sur le marché ainsi que ceux du
-pharmacien ou docteur vétérinaire responsable ; Lorsque le responsable de la
+pharmacien ou docteur vétérinaire responsable ; lorsque le responsable de la
 mise sur le marché ne fabrique pas le médicament vétérinaire, le nom et
 l'adresse du fabricant ;
 

@@ -1,7 +1,8 @@
 Article R5146-34
 ----
-Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, les
-ministres refusent l'autorisation de mise sur le marché [*motifs*] :
+Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, le
+directeur général du Centre d'études vétérinaires et alimentaires refuse
+l'autorisation de mise sur le marché [*motifs*] :
 
 a) Si la documentation et les renseignements fournis à l'appui de la demande ne
 satisfont pas aux prescriptions du présent code ;

@@ -10,4 +10,5 @@ fabrication, le nom et l'adresse du détenteur du produit prélevé, la date du
 prélèvement, son motif, le nom et la qualité de l'agent [*mentions
 obligatoires*].
 
-Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou du
+Centre national d'études vétérinaires et alimentaires.

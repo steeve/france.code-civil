@@ -7,6 +7,7 @@ conditions fixées aux articles R. 5146-20 à R. 5146-25 ci-après, pour vérifi
 que le produit faisant l'objet d'une demande d'autorisation de mise sur le
 marché possède des propriétés définies au 1° de l'article L. 617-2.
 
-Le ministre de l'agriculture et le ministre de la santé fixent par arrêtés
-conjoints les protocoles déterminant les normes et méthodes applicables à
+Un arrêté des ministres chargés de l'agriculture et de la santé fixe, sur
+proposition du directeur général du Centre national d'études vétérinaires et
+alimentaires, les protocoles déterminant les normes et méthodes applicables à
 l'expérimentation des médicaments.

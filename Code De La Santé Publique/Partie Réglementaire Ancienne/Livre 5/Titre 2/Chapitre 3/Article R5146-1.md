@@ -1,12 +1,21 @@
 Article R5146-1
 ----
-Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé
-détermine les formes et conditions dans lesquelles sont présentées et instruites
-les demandes tendant à obtenir l'autorisation prévue à l'article L. 616 du
-présent code.
+Les modalités de présentation et d'instruction des demandes tendant à obtenir
+l'une ou l'autre des autorisations mentionnées à l'article L. 616 sont
+déterminées par un arrêté conjoint des ministres chargés de l'agriculture et de
+la santé, après avis du directeur général du Centre national d'études
+vétérinaires et alimentaires.
 
-Cette autorisation, préalable à l'ouverture de l'établissement, est délivrée par
-décision conjointe du ministre de l'agriculture et du ministre de la santé.
+Les autorisations sont délivrées :
+
+1° Par le directeur général du Centre national d'études vétérinaires et
+alimentaires pour les établissements se livrant à la fabrication, à
+l'importation ou à l'exploitation de médicaments vétérinaires, ou à la
+fabrication ou à l'importation de médicaments soumis à des essais cliniques ;
+
+2° Par les ministres chargés de l'agriculture et de la santé, conjointement,
+pour les autres établissements ainsi que pour ceux qui se livrent à la
+fabrication ou à la distribution des aliments médicamenteux.
 
 Lorsqu'une entreprise comprend plusieurs établissements [*multiples*], chacun
 d'entre eux doit faire l'objet d'une autorisation administrative distincte.
