@@ -5,7 +5,7 @@ grandes entreprises créé par arrêté pour :
 
 1° Les personnes physiques ou morales ou groupements de personnes de droit ou de
 fait dont, à la clôture de l'exercice, le chiffre d'affaires hors taxes ou le
-total de l'actif brut figurant au bilan est supérieur ou égal à 600 millions
+total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions
 d'euros ;
 
 2° Les personnes physiques ou morales ou groupements de personnes de droit ou de

@@ -2,7 +2,7 @@ Article 41-00 A
 ----
 Les personnes morales ou groupements de droit ou de fait, dont le chiffre
 d'affaires hors taxes ou le total de l'actif brut figurant au bilan est
-supérieur ou égal à 600 millions d'euros à la clôture de l'exercice ainsi que
+supérieur ou égal à 400 millions d'euros à la clôture de l'exercice ainsi que
 les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies du code
 général des impôts, sont tenues de joindre à la déclaration prévue aux articles
 172, 172 bis ou 223 du code précité :

@@ -1,24 +1,25 @@
 Article 344-0 C
 ----
 I. Les dispositions des articles 344-0 A et 344-0 B s'appliquent aux
-déclarations qui doivent être souscrites à compter du début du deuxième exercice
-suivant celui à la clôture duquel l'une au moins des conditions prévues aux 1° à
-4° de l'article 344-0 A est remplie.
+déclarations qui doivent être souscrites à compter du 1er février de la deuxième
+année suivant celle au cours de laquelle l'une au moins des conditions prévues
+aux 1° à 4° de l'article 344-0 A est remplie à la clôture de l'exercice.
 
 Les sociétés qui entrent dans un groupe ayant opté pour le régime fiscal prévu à
 l'article 223 A du code général des impôts dont les membres relèvent du service
 des grandes entreprises mentionné au premier alinéa de l'article 344-0 A doivent
 elles-mêmes satisfaire à leurs obligations déclaratives auprès de ce service à
-compter du début de l'exercice suivant celui de leur entrée dans ce groupe.
+compter du 1er février de la 1re année suivant celle de leur entrée dans ce
+groupe.
 
 Les dispositions des articles 344-0 A et 344-0 B continuent à s'appliquer
-pendant les trois exercices suivant celui à la clôture duquel les conditions ont
-cessé d'être remplies. Par dérogation au premier alinéa, si, à la clôture de
-l'un de ces exercices, les conditions sont à nouveau remplies, les dispositions
-des articles 344-0 A et 344-0 B s'appliquent à compter du début du premier
-exercice suivant.
+jusqu'au 31 janvier de la quatrième année suivant celle au cours de laquelle les
+conditions ont cessé d'être remplies à la clôture de l'exercice. Par dérogation
+au premier alinéa, si, au cours de cette période, les conditions sont à nouveau
+remplies à la clôture d'un exercice, les dispositions des articles 344-0 A et
+344-0 B s'appliquent à compter du début du premier exercice suivant.
 
-II. - Les personnes morales ou groupements de personnes de droit ou de fait qui
+II.-Les personnes morales ou groupements de personnes de droit ou de fait qui
 ont bénéficié d'une transmission de patrimoine d'une entreprise relevant du
 service chargé des grandes entreprises au titre du 1° de l'article 344-0 A dans
 le cadre d'une opération de fusion, de scission ou de confusion de patrimoine en
@@ -30,8 +31,8 @@ la date de l'opération.
 
 Les dispositions prévues à l'article 406 terdecies leur sont alors applicables.
 
-L'option s'applique pendant les trois exercices suivant celui au cours duquel
-l'opération a eu lieu. Par dérogation au premier alinéa du I, si, à la clôture
-de l'un de ces exercices, les conditions prévues aux 1° à 4° de l'article 344-0
-A sont remplies, les dispositions des articles 344-0 A et 344-0 B s'appliquent à
-compter du début de l'exercice suivant (1).
+L'option s'applique jusqu'au 31 janvier de la quatrième année suivant celle au
+cours de laquelle l'opération a eu lieu. Par dérogation au premier alinéa du I,
+si, au cours de cette période, les conditions prévues aux 1° à 4° de l'article
+344-0 A sont remplies à la clôture d'un exercice, les dispositions des articles
+344-0 A et 344-0 B s'appliquent à compter du début de l'exercice suivant.
