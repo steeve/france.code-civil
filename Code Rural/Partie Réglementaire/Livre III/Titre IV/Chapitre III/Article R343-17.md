@@ -29,3 +29,6 @@ Dans le cas où des modifications importantes concernant les productions ou le
 programme d'investissements apparaissent nécessaires, un avenant à l'étude
 prévisionnelle d'installation doit être présenté. Il est examiné selon la même
 procédure que le projet initial.
+
+Le silence gardé pendant plus de six mois par le préfet sur la demande
+mentionnée au premier alinéa vaut décision de rejet.
