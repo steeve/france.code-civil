@@ -13,12 +13,21 @@ réduction d'impôt s'applique aux intérêts afférents aux cinq premières ann
 de ces prêts.
 
 Le montant global des intérêts et dépenses à retenir pour le calcul de la
-réduction d'impôt est limité à 9000 F, cette somme t étant augmentée de 1500 F
-par personne à la charge du contribuable au sens des articles 196, 196 A bis et
-196 B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles
-affectés à l'habitation principale des redevables. Les montants de 9000 F et
-1500 F sont portés respectivement à 15000 F et 2000 F pour les intérêts des
-prêts conclus et les dépenses payées à compter du 1er janvier 1985.
+réduction d'impôt est limité à 9000 F, cette somme était augmentée de 1500 F par
+personne à la charge du contribuable au sens des articles 196, 196 A bis et 196
+B. Ces dispositions ne s'appliquent qu'en ce qui concerne les immeubles affectés
+à l'habitation principale des redevables.
+
+Les montants de 9000 F et 1500 F sont portés respectivement à 1500 F et 2000 F
+pour les intérêts des prêts conclus et les dépenses payées à compter du 1er
+janvier 1985.
+
+Pour les prêts contractés à compter du 1er juin 1986 [*date, point de départ*]
+par les personnes citées au second alinéa de l'article 6 pour la construction ou
+l'acquisition de logements neufs, le montant de 15.000 F est porté à 30.000 F.
+Il est augmenté de 2000 F par personne à charge au sens des articles 196 à 196
+B. En outre, il est appliqué une majoration complémentaire de 500 F pour le
+deuxième enfant et de 1 000 F par enfant à partir du troisième.
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté
 immédiatement à l'habitation principale, à la condition que le propriétaire

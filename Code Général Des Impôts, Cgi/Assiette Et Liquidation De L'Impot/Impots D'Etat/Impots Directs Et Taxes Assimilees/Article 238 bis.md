@@ -1,6 +1,6 @@
 Article 238 bis
 ----
-1 Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
+1. Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
 sociétés sont autorisées à déduire du montant de leur bénéfice imposable, dans
 la limite de 1 p. 1.000 [*pourcentage*] de leur chiffre d'affaires, les
 versements qu'elles ont effectués au profit d'oeuvres ou d'organismes d'intérêt
@@ -8,13 +8,13 @@ général, de caractère philanthropique, éducatif, scientifique, social, famil
 ou culturel.
 
 Pour les autres contribuables, la déduction est admise dans la limite de 1 % du
-revenu imposable.
+revenu imposable [*(a)*]).
 
-2 (1) et 3. (Abrogés).
+2. (1) et 3. (Abrogés).
 
-4 La limite de déduction de 1 % mentionnée au second alinéa du 1 est portée à 5
-% pour les dons faits à des fondations ou associations reconnues d'utilité
-publique et répondant aux conditions fixées au 1 (2).
+4. La limite de déduction de 1 % mentionnée au 1 est portée à 5 % pour les dons
+faits à des fondations ou associations reconnues d'utilité publique et répondant
+aux conditions fixées au 1.
 
 La condition relative à la reconnaissance d'utilité publique est réputée remplie
 par les associations régies par la loi locale maintenue en vigueur dans les
@@ -24,14 +24,14 @@ ces associations est reconnue d'utilité publique.
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
 modalités de la procédure déconcentrée permettant de l'accorder.
 
-5 Le bénéfice des dispositions du 1, deuxième alinéa et du 4 est subordonné à la
-condition que soient jointes à la déclaration des revenus des pièces
+5. Le bénéfice des dispositions du 1, deuxième alinéa et du 4 est subordonné à
+la condition que soient jointes à la déclaration des revenus des pièces
 justificatives, répondant à un modèle fixé par un arrêté (3) attestant le total
 du montant et la date des versements ainsi que l'identité des bénéficiaires (4).
 A défaut, les sommes déduites sont réintégrées au revenu imposable sans
 notification de redressement préalable.
 
-6 La déduction mentionnée au premier alinéa du 1 peut être effectuée, dans la
+6. La déduction mentionnée au premier alinéa du 1 peut être effectuée, dans la
 limite de 2 p. 1.000 pour les dons faits à des organismes répondant à des
 conditions quant à leur statut et leurs conditions de fonctionnement fixées par
 décret en Conseil d'Etat (5) et ayant pour objet exclusif de participer, par le
@@ -40,12 +40,18 @@ versement d'aides financières, à la création d'entreprises.
 Dans tous les cas, ces organismes doivent être agréés par le ministre de
 l'économie, des finances et du budget.
 
-7 La limite de déduction de 1 p. 1.000 mentionnée au premier alinéa du 1 est
+7. La limite de déduction de 1 p. 1.000 mentionnée au premier alinéa du 1 est
 porté à 2 p. 1.000 [*pourcentage*] pour les dons faits à compter du 1er janvier
 1985 à des fondations associations d'intérêt général et à caractère culturel,
 agréés par le ministre de l'économie, des finances et du budget et le ministre
-de la culture. Cette déduction ne se cumule pas avec celle prévue à l'article
-238 bis A.
+de la culture ou à caractère humanitaire agréées par le ministre chargé du
+budget.
+
+Ces déductions ne se cumulent pas avec celles qui sont prévues à l'article 238
+bis A.
+
+[*(a) cf. la loi 86-1317 1986-12-30 art. 5 al. 1 et 2 à compter de l'imposition
+des revenus de 1987 et l'instruction 5B-18-87 du 5 mai 1987*].
 
 (1) Limite applicable à compter de l'imposition des revenus de 1983. Pour
 l'imposition des revenus de 1982, le taux était fixé à 3 %.

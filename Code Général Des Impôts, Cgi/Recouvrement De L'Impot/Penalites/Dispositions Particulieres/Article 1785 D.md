@@ -10,7 +10,6 @@ dû pour le trimestre correspondant.
 
 III L'impôt éventuellement dû par les exploitants agricoles assujettis à la taxe
 sur la valeur ajoutée qui ont adressé une demande en vue de bénéficier du régime
-de franchise et de décote prévu à l'article 298 bis A, est majoré de 25 %
-[*pourcentage*] lorsque le chiffre d'affaires réalisé, tous droits et taxes
-compris, excède le triple du chiffre d'affaires limite au-dessous duquel la
-franchise est accordée.
+de franchise prévu à l'article 298 bis A, est majoré de 25 % [*pourcentage*]
+lorsque le chiffre d'affaires réalisé, tous droits et taxes compris, excède le
+triple du chiffre d'affaires limite au-dessous duquel la franchise est accordée.

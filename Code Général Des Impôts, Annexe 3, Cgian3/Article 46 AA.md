@@ -1,6 +1,6 @@
 Article 46 AA
 ----
-I. L'engagement prévu au quatrième alinéa de l'article 199 nonies du code
+I. L'engagement prévu au quatrième alinéa du I de l'article 199 nonies du code
 général des impôts est constaté lors du dépôt de la déclaration des revenus de
 l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé et
 fait l'objet d'une note annexe comportant les éléments suivants :

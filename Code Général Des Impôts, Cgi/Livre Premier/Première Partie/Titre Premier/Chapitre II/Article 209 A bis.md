@@ -1,11 +1,11 @@
 Article 209 A bis
 ----
-I. Une société qui détient directement [*pourcentage de participation*] au moins
-25 % du capital d'une autre société créée en 1984, 1985 et 1986 pour reprendre
-une entreprise ou un établissement en difficulté exerçant une activité
-industrielle, peut déduire, selon les modalités fixées au troisième alinéa du I
-de l'article 209, une fraction du déficit fiscal reportable de l'entreprise
-reprise ou afférent à l'établissement repris.
+I. Une société qui détient directement au moins 25 % du capital d'une autre
+société créée du 1er janvier 1984 au 31 décembre 1988 pour reprendre une
+entreprise ou un établissement en difficulté exerçant une activité industrielle,
+peut déduire, selon les modalités fixées au troisième alinéa du I de l'article
+209, une fraction du déficit fiscal reportable de l'entreprise reprise ou
+afférent à l'établissement repris.
 
 II. Le bénéfice du régime défini au I est subordonné aux conditions suivantes :
 
@@ -18,7 +18,7 @@ les mêmes conditions ;
 numéraire au capital de la société créée pour un montant supérieur à une fois et
 demie l'économie d'impôt résultant du transfert de déficit ; cette condition
 doit être remplie au plus tard au terme des cinq années suivant celle de la
-création de la société [*délai*] ;
+création de la société ;
 
 3° Jusqu'au terme de la période de cinq années visée au 2°, la société créée ne
 doit pas distribuer de bénéfices et la société bénéficiant du transfert de
@@ -54,4 +54,4 @@ année suivant celle de la création de la société nouvelle, dès lors que la
 condition prévue au 2° du II est préalablement remplie.
 
 [*(1) Dispositions rendues applicables dans les mêmes conditions aux entreprises
-créees en1987 et 1988*].
+créées en 1987 et 1988*].
