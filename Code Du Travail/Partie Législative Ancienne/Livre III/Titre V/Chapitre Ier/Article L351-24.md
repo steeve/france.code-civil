@@ -9,7 +9,9 @@ ont droit à une aide de l'Etat qui est servie pendant une durée déterminée e
 dont le montant varie en fonction, d'une part, du temps écoulé depuis
 l'inscription comme demandeur d'emploi, d'autre part, des références de travail
 antérieures. Ce montant est majoré lorsque la création de l'entreprise permet
-l'embauchage d'un ou de plusieurs salariés.
+l'embauchage d'un ou de plusieurs salariés. Il est également majoré pour les
+personnes mentionnées au 2° de l'article L. 351-9 [*femmes veuves, divorcées,
+séparées ou célibataires avec enfant à charge*] .
 
 Dans le cas où l'intéressé est à nouveau inscrit comme demandeur d'emploi, il
 retrouve le bénéfice des droits qu'il avait acquis à la date d'attribution de
