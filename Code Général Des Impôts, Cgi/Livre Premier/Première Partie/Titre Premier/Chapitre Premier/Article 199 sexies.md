@@ -41,6 +41,11 @@ c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux comp
 dans des exploitations agricoles et affectés à l'habitation des propriétaires
 exploitants ;
 
+d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier
+1990, les réductions d'impôt prévues aux a, b et c s'appliquent aux
+contribuables dont le revenu net imposable par part n'excède pas la limite
+inférieure de la douzième tranche du barème de l'impôt sur le revenu.
+
 2° a. Dépenses effectuées par un contribuable pour sa résidence principale,
 qu'il en soit ou non propriétaire, lorsque ces dépenses ont pour objet
 d'améliorer l'isolation thermique ou la mesure et la régulation du chauffage, ou

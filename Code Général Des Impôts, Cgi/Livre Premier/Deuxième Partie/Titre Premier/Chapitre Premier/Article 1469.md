@@ -7,7 +7,7 @@ règles fixées pour l'établissement de cette taxe (2);
 
 Toutefois, les biens exonérés de taxe foncière sur les propriétés bâties en
 vertu du 11° de l'article 1382 sont évalués et imposés dans les mêmes conditions
-que les biens et équipements mobiliers désignés aux 2° et 3° ;
+que les biens et équipements mobiliers désignés aux 2° et 3° (3) ;
 
 Les immobilisations destinées à la fourniture et à la distribution de l'eau sont
 exonérées de taxe professionnelle lorsqu'elles sont utilisées pour l'irrigation
@@ -36,25 +36,34 @@ sont imposés au nom du propriétaire lorsque la période de location est
 inférieure à six mois; il en est de même si le locataire n'est pas passible de
 la taxe professionnelle ou n'a pas la disposition exclusive des biens loués;
 
-5° La valeur locative des matériels agricoles utilisés exclusivement à des
+3° bis La valeur locative des matériels agricoles utilisés exclusivement à des
 travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
-fixée par arreté du ministre chargé du budget (3);
+fixée par arreté du ministre chargé du budget (4);
 
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
 pas 400.000 F [*montant plafond*] s'il s'agit de prestataires de services ou de
 membres de professions libérales et un million de francs dans les autres cas;
 pour les redevables sédentaires ne remplissant pas ces conditions, cette valeur
-locative est réduite d'un montant fixé à 25.000 F (4); les limites prévues
-seront réévaluées lors du vote de chaque loi de finances.
+locative est réduite d'un montant fixé à 25.000 F (5); les limites prévues
+seront réévaluées lors du vote de chaque loi de finances. Ces dispositions
+s'appliquent également aux redevables sédentaires qui réalisent une partie de
+leur chiffre d'affaires par des ventes ambulantes lorsque leur principal
+établissement est situé dans une commune dont la population est inférieure à 3
+000 habitants (6).
 
 (1) Annexe II, art. 310 HF.
 
-(2) Voir art. 1494 à 1518 A.
+(2) Voir art. 1494 à 1518 B.
 
-(3) Dispositions applicables à compter du 1er janvier 1987. Pour l'imposition
-établie au titre 1987, les contribuables doivent souscrire une déclaration
-rectificative avant le 30 octobre 1986.
+(3) Les impositions dues au titre des années antérieures au 1er janvier 1987
+sont réputées régulières en conséquence, sous réserve des décisions de justice
+passées en force de chose jugée.
 
-(4) Voir également art. 1469 B.
+(4) Dispositions applicables à compter du 1er janvier 1987.
+
+(5) Voir également art. 1469 B.
+
+(6) Ces dispositions sont applicables pour la détermination des bases de la taxe
+professionnelle due pour l'année 1991 et les années suivantes.

@@ -33,238 +33,118 @@ libérés de l'impôt par l'application d'un prélèvement.
 son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son
 train de vie.
 
-==============================================================
+ELEMENTS DU TRAIN DE VIE 1. Valeur locative cadastrale de la résidence
+principale, déduction faite de celle s'appliquant aux locaux ayant un caractère
+professionnel,
 
-: ELEMENTS DU TRAIN DE VIE : BASE :
+BASE : cinq fois la valeur locative cadastrale.
 
-:------------------------------------------------------------:
+ELEMENTS DU TRAIN DE VIE : 2. Valeur locative cadastrale des résidences
+secondaires, déduction faite de celle s'appliquant aux locaux ayant un caractère
+professionnel,
 
-: 1. Valeur locative cadastrale de la : :
+BASE : cinq fois la valeur locative cadastrale.
 
-: résidence principale, déduction faite : :
+ELEMENTS DU TRAIN DE VIE : 3. Employés de maison, précepteurs, préceptrices,
+gouvernantes : - pour la première personne âgée de moins de 60 ans :
 
-: de celle s'appliquant aux locaux ayant : :
+BASE : 30.000 F
 
-: un caractère professionnel : : :
+- pour chacune des autres personnes :
 
-: - pour les logements non soumis à la : cinq fois la :
+BASE : 37.500 F
 
-: limitation des loyers : valeur locative :
+La base ainsi déterminée est réduite de moitié en ce qui concerne les personnes
+employées principalement pour l'exercice d'une profession.
 
-: - pour les autres logements : cadastrale. :
+Il n'est pas tenu compte du premier employé de maison.
 
-: : :
+Il est fait abstraction du second employé de maison lorsque le nombre des
+personnes âgées de 65 ans ou infirmes vivant sous le même toit est de quatre au
+moins.
 
-: 2. Valeur locative cadastrale des : :
+ELEMENTS DU TRAIN DE VIE : 4. Voitures automobiles destinées au transport des
+personnes
 
-: résidences secondaires, déduction : :
+BASE : Les trois-quarts de la valeur de la voiture neuve avec abattement de 20 %
+après un an d'usage et de 10 % supplémentaire par année pendant les quatre
+années suivantes.
 
-: faite de celle s'appliquant aux locaux : :
+Toutefois, la base ainsi déterminée est réduite de moitié en ce qui concerne les
+voitures appartenant aux pensionnés de guerre bénéficiaires du statut des grands
+invalides, ainsi qu'aux aveugles et grands infirmes civils titulaires de la
+carte d'invalidité prévue à l'article 173 du Code de la famille et de l'aide
+sociale.
 
-: ayant un caractère professionnel : : :
+Elle est également réduite de moitié pour les voitures qui sont affectées
+principalement à un usage professionnel. Cette réduction est limitée à un seul
+véhicule.
 
-: - pour les logements non soumis à la : Cinq fois la :
+ELEMENTS DU TRAIN DE VIE : 5. Motocyclettes de plus de 450 cm3
 
-: limitation des loyers : valeur locative :
+BASE : La valeur de la motocyclette neuve avec abattement de 50 % après trois
+ans d'usage.
 
-: - pour les autres logements : cadastrale. :
+ELEMENTS DU TRAIN DE VIE : 6. Yachts ou bateaux de plaisance à voiles avec ou
+sans moteur auxiliaire jaugeant au moins 3 tonneaux de jauge internationale :
 
-: : :
+BASE : - pour les trois premiers tonneaux : 7.500 F
 
-: 3. Employés de maison, précepteurs, : :
+- pour chaque tonneau supplémentaire :
 
-: préceptrices, gouvernantes : : :
+- de 4 à 10 tonneaux : 2.250 F
 
-: - pour la première personne âgée de : :
+- de 10 à 25 tonneaux : 3.000 F
 
-: moins de 60 ans : 30.000 F :
+- au-dessus de 25 tonneaux : 6.000 F
 
-: - pour chacune des autres personnes : 37.500 F :
+Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays
+ou territoire qui n'a pas conclu avec la France de convention d'assistance
+administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
-: La base ainsi déterminée est réduite : :
+Le nombre de tonneaux à prendre en considération est égal au nombre de tonneaux
+correspondant à la jauge brute sous déduction, le cas échéant, d'un abattement
+pour vétusté égal à 25 %, 50 % ou 75 % suivant que la construction du yacht ou
+du bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans
+ou plus de vingt-cinq ans [*délai*]. Le tonnage ainsi obtenu est arrondi, s'il y
+a lieu, à l'unité immédiatement inférieure.
 
-: de moitié en ce qui concerne les : :
+ELEMENTS DU TRAIN DE VIE : 7. Bateaux de plaisance à moteur fixe ou hors-bord
+d'une puissance réelle d'au moins 20 CV :
 
-: personnes employées principalement : :
+BASE : - pour les vingt premiers chevaux : 6.000 F
 
-: pour l'exercice d'une profession. : :
+- par cheval-vapeur supplémentaire: 450 F
 
-: Il n'est pas tenu compte du premier : :
+Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui
+concerne les bateaux construits respectivement depuis plus de cinq ans, quinze
+ans et vingt-cinq ans. Ce barème est quintuplé pour les bateaux de plaisance
+battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de
+convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales.
 
-: employé de maison. : :
+ELEMENTS DU TRAIN DE VIE : 8. Avions de tourisme : par cheval-vapeur de la
+puissance réelle de chaque avion : BASE : 450 F.
 
-: Il est fait abstraction du second : :
+ELEMENTS DU TRAIN DE VIE : 9. Chevaux de course âgés au moins de deux ans au
+sens de la réglementation concernant les courses :
 
-: employé de maison lorsque le nombre : :
+- par cheval de pur sang : BASE : 30 000 F
 
-: des personnes âgées de 65 ans ou : :
+- par cheval autre que de pur sang et par trotteur : BASE :
 
-: infirmes vivant sous le même toit : :
+18 000 F
 
-: est de quatre au moins. : :
+ELEMENTS DU TRAIN DE VIE : 10. Chevaux de selle : par cheval âgé au moins de
+deux ans à compter du second cheval : BASE : 9.000 F.
 
-: 4. Voitures automobiles destinées au : Les trois-quarts :
+ELEMENTS DU TRAIN DE VIE : 11. Location de droits de chasse et participation
+dans les sociétés de chasse :
 
-: transport des personnes : de la valeur de :
+BASE : Deux fois le montant des loyers payés ou des participations versées
+lorsqu'il dépasse 30 000 F.
 
-: Toutefois, la base ainsi déterminée : la voiture neuve :
+ELEMENTS DU TRAIN DE VIE : 12. : Clubs de golf : participation dans les clubs de
+golf et abonnements payés en vue de disposer de leurs installations :
 
-: est réduite de moitié en ce qui : avec abattement :
-
-: concerne les voitures appartenant aux : de 20 % après un :
-
-: pensionnés de guerre bénéficiaires du : an d'usage et de :
-
-: statut des grands invalides, ainsi : 10 % :
-
-: qu'aux aveugles et grands infirmes : supplémentaire :
-
-: civils titulaires de la carte : par année :
-
-: d'invalidité prévue à l'article 173 du : pendant les :
-
-: Code de la famille et de l'aide : quatre années :
-
-: sociale. : suivantes. :
-
-: Elle est également réduite de moitié : :
-
-: pour les voitures qui sont affectées : :
-
-: principalement à un usage : :
-
-: professionnel. Cette réduction est : :
-
-: limitée à un seul véhicule. : :
-
-: 5. Motocyclettes de plus de 450 cm3 : La valeur de la :
-
-: : motocyclette :
-
-: : neuve avec :
-
-: : abattement de :
-
-: : 50 % après trois :
-
-: : ans d'usage. :
-
-: 6. Yachts ou bateaux de plaisance à : :
-
-: voiles avec ou sans moteur auxiliaire : :
-
-: jaugeant au moins 3 tonneaux de jauge : :
-
-: internationale : : :
-
-: - pour les trois premiers tonneaux : 7.500 F :
-
-: - pour chaque tonneau supplémentaire : : :
-
-: - de 4 à 10 tonneaux : 2.250 F :
-
-: - de 10 à 25 tonneaux : 3.000 F :
-
-: - au-dessus de 25 tonneaux : 6.000 F :
-
-: Ce barème est quintuplé pour les : :
-
-: bateaux de plaisance battant pavillon : :
-
-: d'un pays ou territoire qui n'a pas : :
-
-: conclu avec la France de convention : :
-
-: d'assistance administrative en vue de : :
-
-: lutter contre la fraude et l'évasion : :
-
-: fiscales. : :
-
-: Le nombre de tonneaux à prendre en : :
-
-: considération est égal au nombre de : :
-
-: tonneaux correspondant à la jauge : :
-
-: brute sous déduction, le cas échéant, : :
-
-: d'un abattement pour vétusté égal à : :
-
-: 25 %, 50 % ou 75 % suivant que la : :
-
-: construction du yacht ou du bateau de : :
-
-: plaisance a été achevée depuis plus de : :
-
-: cinq ans, plus de quinze ans ou plus : :
-
-: de vingt-cinq ans [*délai*]. Le tonnage : :
-
-: ainsi obtenu est arrondi, s'il y a : :
-
-: lieu, à l'unité immédiatement : :
-
-: inférieure. : :
-
-: 7. Bateaux de plaisance à moteur fixe : :
-
-: ou hors-bord d'une puissance réelle : :
-
-: d'au moins 20 CV : : :
-
-: - pour les vingt premiers chevaux : 6.000 F :
-
-: - par cheval-vapeur supplémentaire : 450 F :
-
-: Toutefois, la puissance n'est : :
-
-: comptée que pour 75 %, 50 % ou 25 %, : :
-
-: en ce qui concerne les bateaux : :
-
-: construits respectivement depuis plus : :
-
-: de cinq ans, quinze ans et vingt-cinq : :
-
-: ans. : :
-
-: Ce barème est quintuplé pour les : :
-
-: bateaux de plaisance battant pavillon : :
-
-: d'un pays ou territoire qui n'a pas : :
-
-: conclu avec la France de convention : :
-
-: d'assistance administrative en vue de : :
-
-: lutter contre la fraude et l'évasion : :
-
-: fiscales. : :
-
-: 8. Avions de tourisme : par : :
-
-: cheval-vapeur de la puissance réelle : :
-
-: de chaque avion : 450 F :
-
-: 9. (Abrogé). : ::
-
-: 10. Chevaux de selle : par cheval âgé : :
-
-: au moins de deux ans à compter du : :
-
-: second cheval : 9.000 F :
-
-: 11. 12. (Abrogé) : :
-
-==============================================================
-
-Toutefois, lorsque la différence entre la base d'imposition forfaitaire
-résultant de l'application des dispositions qui précèdent et le revenu déclaré
-provient, en totalité ou en partie, du fait que le contribuable a disposé de
-revenus expressément exonérés de l'impôt sur le revenu par une disposition
-particulière, l'intéressé peut, à condition d'en apporter la preuve, obtenir que
-la base d'imposition forfaitaire soit diminuée du montant desdits revenus
-exonérés.
+BASE : Deux fois le montant des sommes versées lorsqu'il dépasse 30 000 F.

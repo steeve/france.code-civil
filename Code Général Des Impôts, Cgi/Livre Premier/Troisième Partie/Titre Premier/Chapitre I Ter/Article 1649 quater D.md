@@ -2,8 +2,9 @@ Article 1649 quater D
 ----
 I. La comptabilité des adhérents des centres de gestion doit être tenue,
 centralisée ou surveillée par un expert comptable, un comptable agréé ou une
-société membre de l'ordre qui vise les documents fiscaux après s'être assuré de
-leur régularité formelle et de leur concordance avec la comptabilité.
+société membre de l'ordre, qui vise les documents fiscaux après s'être assuré de
+leur régularité et avoir demandé tous renseignements utiles de nature à établir
+la concordance entre les résultats fiscaux et la comptabilité.
 
 II. Toutefois, les centres créés à l'initiative des organisations et organismes
 mentionnés à l'article 1649 quater C et dont l'activité concerne la comptabilité
@@ -33,8 +34,10 @@ simplifié d'imposition.
 Ils peuvent également, dans les mêmes conditions, continuer de tenir ou de
 centraliser les documents comptables des entreprises adhérentes tant que le
 chiffre d'affaires réalisé par celles-ci n'excède pas une fois et demie ces
-limites. Les experts-comptables, les comptables agréés, les sociétés membres de
-l'ordre et les experts-comptables stagiaires autorisés exercent, sous leur
+limites.
+
+Les experts-comptables, les comptables agréés, les sociétés membres de l'ordre
+et les experts-comptables stagiaires autorisés exercent, sous leur
 responsabilité, une mission de surveillance sur chaque dossier et délivrent le
 visa mentionné au I, dans des conditions fixées par arrêté du ministre chargé du
 budget. Ils peuvent refuser d'accomplir cette formalité si leurs observations

@@ -7,3 +7,8 @@ du code général des impôts.
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à
 acquitter, les conditions d'exigibilité, la date de mise en recouvrement et la
 date limite de paiement.
+
+Une notice annexée à l'avis d'imposition est établie au titre de chaque taxe
+directe locale. Cette notice fait apparaître les éléments des variations des
+impositions perçues au profit de chaque collectivité locale, groupement de
+collectivités locales ou organisme concerné.
