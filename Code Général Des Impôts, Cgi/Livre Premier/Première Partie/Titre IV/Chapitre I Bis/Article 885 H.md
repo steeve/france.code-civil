@@ -1,14 +1,14 @@
 Article 885 H
 ----
-Les exonérations prévues en matière de droits de mutation par décès par
-l'article 793-1 et 2-3° et par l'article 795 A ne sont pas applicables à l'impôt
-de solidarité sur la fortune. Il en est de même des règles d'évaluation propres
-aux droits de succession tenant au lieu de situation des immeubles et de
-l'absence de sanction pour défaut de déclaration pour le paiement de ces droits.
-Toutefois les dispositions du 1-3° du même article relatives aux parts
-d'intérêts détenues dans un groupement forestier sont applicables lorsque ces
-parts sont représentatives d'apports constitués par des biens mentionnés audit
-3°.
+Les exonérations prévues en matière de droits de mutation par décès par le 1 et
+les 3° et 4° du 2 de l'article 793 et par l'article 795 A ne sont pas
+applicables à l'impôt de solidarité sur la fortune. Il en est de même des règles
+d'évaluation propres aux droits de succession tenant au lieu de situation des
+immeubles et de l'absence de sanction pour défaut de déclaration pour le
+paiement de ces droits. Toutefois les dispositions du 1-3° du même article
+relatives aux parts d'intérêts détenues dans un groupement forestier sont
+applicables lorsque ces parts sont représentatives d'apports constitués par des
+biens mentionnés audit 3°.
 
 Les biens donnés à bail à long terme dans les conditions prévues aux articles L.
 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, qui n'entrent pas dans le

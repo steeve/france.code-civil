@@ -64,10 +64,10 @@ c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux comp
 dans des exploitations agricoles et affectés à l'habitation des propriétaires
 exploitants ;
 
-d. Pour les prêts contractés et les dépenses payées à compter du 1er janvier
-1990, les réductions d'impôt prévues aux a, b et c s'appliquent aux
-contribuables dont le revenu net imposable par part n'excède pas la limite
-inférieure de la douzième tranche du barème de l'impôt sur le revenu.
+d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous
 l'article L172 E du LPF).
+
+(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à
+compter du 1er juillet 1993.
