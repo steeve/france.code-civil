@@ -8,21 +8,21 @@ praticien dans les autres cas.
 
 Le comptable de l'établissement crédite mensuellement chaque praticien des
 sommes encaissées pour son compte, après déduction d'une redevance égale à un
-pourcentage des honoraires réglés par le patient, sur la base de la Nomenclature
-générale des actes professionnels, prévue à l'article R. 162-52 du code de la
+pourcentage des honoraires réglés par le patient, sur la base de la nomenclature
+générale des actes professionnels prévue à l'article R. 162-52 du code de la
 sécurité sociale, fixé comme suit :
 
 20 % pour les consultations ;
 
-60 % pour les actes de radiologie interventionnelle, de radiothérapie ou de
+60 % pour les actes de radfiologie interventionnelle, de radiothérapie ou de
 médecine nucléaire nécessitant une hospitalisation ;
 
 30 % pour les autres actes susceptibles d'être pratiqués dans les structures
 régies par la présente sous-section.
 
 Pour les actes effectués qui ne sont pas inscrits à la nomenclature, il est fait
-application des taux de pourcentage mentionnés ci-dessus en fonction de la
-nature de l'acte concerné.
+application des pourcentages mentionnés ci-dessus en fonction de la nature de
+l'acte concerné.
 
 Ne sont pas soumises aux redevances prévues au présent article les sommes
 perçues au titre des majorations de nuit et de dimanche.
