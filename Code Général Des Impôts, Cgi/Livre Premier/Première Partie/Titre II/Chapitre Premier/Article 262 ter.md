@@ -26,5 +26,5 @@ code général des impôts ;
 
 3° Pour lesquelles l'acquéreur non établi en France et qui n'y réalise pas des
 livraisons de biens ou des prestations de services bénéficierait du droit à
-remboursement total en application du 4 de l'article 271 de la taxe qui serait
+remboursement total en application du V de l'article 271 de la taxe qui serait
 due au titre de l'acquisition.

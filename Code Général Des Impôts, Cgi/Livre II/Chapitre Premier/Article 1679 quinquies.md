@@ -15,10 +15,16 @@ Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % o
 qui prévoit la cessation de son activité en cours d'année, au sens du I de
 l'article 1478, peut réduire le montant de son acompte en remettant au comptable
 du Trésor, chargé du recouvrement de la taxe professionnelle du lieu
-d'imposition, quinze jours avant la date d'exigibilité de l'acompte [*délai*],
-une déclaration datée et signée.
+d'imposition, quinze jours avant la date d'exigibilité de l'acompte, une
+déclaration datée et signée.
 
-Le versement du solde ne sera exigible qu'à partir du 1er décembre [*date*].
+Le versement du solde ne sera exigible qu'à partir du 1er décembre.
+
+Les redevables peuvent, sous leur responsabilité, réduire le montant du solde de
+taxe professionnelle du montant du dégrèvement attendu du plafonnement de la
+taxe professionnelle due au titre de la même année, en remettant au comptable du
+Trésor chargé du recouvrement de la taxe professionnelle une déclaration datée
+et signée.
 
 Les contribuables doivent, un mois au moins avant l'échéance, être informés par
 l'administration du montant de l'acompte qu'ils auront à verser.

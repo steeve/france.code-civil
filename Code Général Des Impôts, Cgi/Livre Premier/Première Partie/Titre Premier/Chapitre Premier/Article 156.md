@@ -32,35 +32,54 @@ I bis ci-dessous) ;
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail
 conformément au statut du fermage, sur ceux des neuf années suivantes ; cette
-disposition n'est pas applicable aux nus-propriétaires effectuant des travaux en
-application de l'article 605 du code civil, et aux propriétaires de monuments
-classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant
-fait l'objet d'un agrément ministériel.
+disposition n'est pas applicable aux propriétaires de monuments classés
+monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
+l'objet d'un agrément ministériel.
 
-Cette disposition n'est pas non plus applicable aux déficits fonciers provenant
-des travaux exécutés dans le cadre d'une opération groupée de restauration
-immobilière faite en application des dispositions des articles L. 313-1 à L.
-313-15 du code de l'urbanisme, par des propriétaires de locaux que ces
-propriétaires prennent l'engagement de louer nu à usage de résidence principale
-du locataire pendant une durée de neuf ans.
-
+Cette disposition n'est pas non plus applicable aux déficits provenant de
+travaux réalisés à compter du 1er juillet 1993 par les propriétaires de locaux
+d'habitation et exécutés dans le cadre d'une opération groupée de restauration
+immobilière réalisée en application des dispositions des articles L. 313-1 à L.
+313-15 du code de l'urbanisme ainsi que des frais de relogement, d'adhésion à
+des associations foncières urbaines libres ou des indemnités d'éviction versées
+à cette occasion lorsque ces propriétaires prennent l'engagement de les louer
+nus, à usage de résidence principale du locataire, pendant une durée de six ans.
 La location doit prendre effet dans les douze mois qui suivent la date
-d'achèvement des travaux de restauration et respecter les conditions prévues par
-une convention entre l'Etat et le propriétaire pour une durée minimale de neuf
-ans. Cette convention fixe notamment les montants maximaux du loyer et des
-ressources du locataire qui ne peuvent être supérieurs à des plafonds fixés par
-décret. Le plafond de ressources ainsi fixé n'est pas opposable à l'occupant en
-vertu d'un bail conclu au moins un an avant le début des travaux ainsi qu'aux
-personnes évincées d'un logement concerné par l'opération groupée de
-restauration immobilière et bénéficiant d'un droit à relogement dans cette
-opération. Les propriétaires d'immeubles pour lesquels la demande d'autorisation
-de travaux a été déposée antérieurement au 1er juillet 1991 ne sont pas tenus de
-conclure une convention avec l'Etat.
+d'achèvement des travaux de restauration.
+
+Ce dispositif s'applique dans les mêmes conditions lorsque les locaux
+d'habitation sont la propriété d'une société non soumise à l'impôt sur les
+sociétés si les associés conservent les titres pendant six ans.
 
 Le revenu global de l'année au cours de laquelle l'engagement ou les conditions
 de la location ne sont pas respectés est majoré du montant des déficits indûment
 imputés. Ces déficits constituent une insuffisance de déclaration pour
 l'application de l'article 1733.
+
+L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
+aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.
+L'imputation est limitée à 50 000 F. La fraction du déficit supérieure à 50 000
+F et la fraction du déficit non imputable résultant des intérêts d'emprunt sont
+déduites dans les conditions prévues au premier alinéa.
+
+Les mêmes règles s'appliquent également en cas de démembrement du droit de
+propriété résultant d'une succession ; le déficit foncier des nus-propriétaires
+s'entend de celui qui résulte des travaux payés en application des dispositions
+de l'article 605 du code civil.
+
+Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire de
+titres d'une société non soumise à l'impôt sur les sociétés les vend, le revenu
+foncier et le revenu global des trois années qui précèdent celle au cours de
+laquelle intervient cet événement sont, nonobstant toute disposition contraire,
+reconstitués selon les modalités prévues au premier alinéa du présent 3°. Cette
+disposition ne s'applique pas en cas d'invalidité correspondant au classement
+dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
+code de la sécurité sociale, de licenciement ou de décès du contribuable ou de
+l'un des époux soumis à une imposition commune.
+
+Un contribuable ne peut pour un même logement ou une même souscription de titres
+pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et imputer un
+déficit foncier sur le revenu global.
 
 4° Des déficits réalisés par des personnes, autres que les loueurs
 professionnels au sens de l'article 151 septies, dernier alinéa, louant
@@ -83,6 +102,11 @@ des cinq années suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
 marchandises réalisées à l'étranger.
+
+7° Des déficits réalisés par les associés non professionnels des copropriétés
+mentionnées au 8 quinquies. Ces déficits s'imputent exclusivement sur les
+profits de même nature réalisés au cours de la même année ou des cinq années
+suivantes.
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
