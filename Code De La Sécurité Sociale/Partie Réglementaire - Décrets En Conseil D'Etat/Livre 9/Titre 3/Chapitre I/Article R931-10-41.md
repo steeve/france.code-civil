@@ -26,9 +26,9 @@ Dans tous les cas, sont déduits, s'il y a lieu, les remboursements effectués e
 les provisions pour dépréciation, lesquelles doivent être constatées lorsqu'il y
 a lieu de considérer que la dépréciation a un caractère durable. Toutefois, les
 institutions de prévoyance et unions d'institutions de prévoyance qui, au bilan
-du dernier exercice clos avant le 1er janvier 1998, constataient les
+du dernier exercice clos avant le 1er janvier 1999, constataient les
 dépréciations, même lorsque celles-ci n'avaient pas un caractère durable,
 peuvent continuer à faire application de cette méthode jusqu'au dernier exercice
-clos avant le 1er janvier 2004 ; elles peuvent y renoncer à tout moment en le
+clos avant le 1er janvier 2005 ; elles peuvent y renoncer à tout moment en le
 notifiant préalablement à la commission de contrôle instituée à l'article L.
 951-1, cette renonciation étant alors définitive.

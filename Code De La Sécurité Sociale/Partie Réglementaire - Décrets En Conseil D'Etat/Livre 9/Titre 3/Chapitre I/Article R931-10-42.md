@@ -2,8 +2,8 @@ Article R931-10-42
 ----
 Les valeurs énumérées à l'article R. 931-10-21 et les autres placements
 financiers et immobiliers font l'objet, aux fins notamment d'effectuer le calcul
-prévu à l'article L. 931-32, d'une évaluation sur la base de leur valeur de
-réalisation, dans les conditions ci-après :
+prévu au premier alinéa du I de l'article R. 931-11-9, d'une évaluation sur la
+base de leur valeur de réalisation, dans les conditions ci-après :
 
 a) Les valeurs mobilières cotées et les titres cotés de toute nature sont
 retenus pour le dernier cours coté au jour de l'inventaire ;

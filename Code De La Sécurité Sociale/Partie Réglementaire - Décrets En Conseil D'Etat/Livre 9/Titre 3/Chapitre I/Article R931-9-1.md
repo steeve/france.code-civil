@@ -11,7 +11,11 @@ d'une union d'institutions de prévoyance :
 2° De ne pas produire un programme de rétablissement, un plan de redressement ou
 un plan de financement à court terme prescrit conformément aux dispositions des
 articles R. 931-5-1, R. 931-5-2 et R. 931-5-3, ou de ne pas exécuter dans les
-conditions et délais prévus le plan qui a été approuvé.
+conditions et délais prévus le plan qui a été approuvé ;
+
+3° De ne pas respecter les obligations qui lui incombent en matière de tenue de
+la comptabilité, enregistrement des opérations, conservation des pièces
+comptables et présentation des comptes annuels.
 
 Pour l'application des pénalités édictées au présent titre, sont considérés
 comme dirigeants d'institutions de prévoyance ou d'unions d'institutions de

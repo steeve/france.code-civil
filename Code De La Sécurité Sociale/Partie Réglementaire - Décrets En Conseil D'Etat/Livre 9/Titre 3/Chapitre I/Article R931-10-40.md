@@ -1,8 +1,8 @@
 Article R931-10-40
 ----
 Les valeurs amortissables énumérées aux 1°, 2° et 3° de l'article R. 931-10-21,
-autres que les obligations indexées, les parts de fonds communs de créance et
-les titres participatifs, sont inscrites à leur prix d'achat à la date
+autres que les obligations indexées, les parts de fonds communs de créances et
+les titres participatifs, sont inscrits à leur prix d'achat à la date
 d'acquisition.
 
 Lorsque le prix d'achat de ces titres est supérieur à leur prix de
@@ -12,7 +12,7 @@ titres.
 Lorsque le prix d'achat de ces titres est inférieur à leur prix de
 remboursement, la différence est portée en produit sur la durée de vie
 résiduelle des titres. L'institution ou l'union peut décider de ne pas appliquer
-les dispositions du présent alinéa aux titres acquis avant le 1er janvier 1998.
+les dispositions du présent alinéa aux titres acquis avant le 1er janvier 1999.
 Le choix ainsi effectué par l'institution ou l'union s'applique à l'ensemble des
 titres acquis avant cette date.
 

@@ -8,11 +8,11 @@ détermination du prix unitaire d'achat de chacun de ces titres peut s'effectuer
 au prix d'achat unitaire pondéré.
 
 Toutefois, les institutions de prévoyance et leurs unions qui, avant le 1er
-janvier 1998, déterminaient les plus-values ou les moins-values de cession en
+janvier 1999, déterminaient les plus-values ou les moins-values de cession en
 fonction de la valeur d'origine unitaire moyenne pondérée des titres de même
 nature figurant dans leur patrimoine doivent continuer de faire application de
 cette méthode en cas de cession de titres figurant dans leur portefeuille au 31
-décembre 1997. Dans ce cas, le prix de revient unitaire des titres de même
+décembre 1998. Dans ce cas, le prix de revient unitaire des titres de même
 nature détenus à cette date est égal au prix unitaire moyen pondéré de
 l'ensemble de ces titres calculé à cette même date.
 
@@ -30,8 +30,9 @@ résulte de l'application des règles d'évaluation prévues par l'article R.
 931-10-27, est constatée en compte de résultat.
 
 III. - Les actifs visés aux articles R. 931-10-40 et R. 931-10-41 inscrits dans
-une devise autre que le franc français sont évalués dans cette même devise pour
-l'application de l'article R. 931-10-42.
+une devise autre que le franc français en application des dispositions de
+l'article R. 931-11-7 sont évalués dans cette même devise pour l'application de
+l'article R. 931-10-42.
 
 IV. - La provision pour pertes de change est calculée après compensation de
 l'ensemble des différences de conversion actif et passif.
