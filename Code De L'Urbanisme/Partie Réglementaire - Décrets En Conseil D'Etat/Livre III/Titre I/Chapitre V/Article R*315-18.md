@@ -14,11 +14,6 @@ gestionnaire de cette voie, sauf lorsque le plan d'occupation des sols ou le
 document d'urbanisme en tenant lieu réglemente de façon spécifique les
 conditions d'accès à ladite voie.
 
-Dans la région Ile-de-France, le commissaire de la République de la région est
-consulté pour toute demande d'autorisation de création d'un lotissement à usage
-industriel, commercial ou de bureaux ayant une superficie supérieure à un
-hectare.
-
 Les personnes publiques, services ou commissions consultés en application des
 alinéas précédents, qui n'ont pas fait connaître leur réponse dans le délai d'un
 mois à dater de la réception de la demande d'avis [*point de départ*], sont

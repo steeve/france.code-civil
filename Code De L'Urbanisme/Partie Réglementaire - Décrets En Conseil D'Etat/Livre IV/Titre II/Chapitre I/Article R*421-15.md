@@ -21,13 +21,6 @@ l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol
 ainsi que, le cas échéant, les demandes de dérogation aux règles générales de
 construction.
 
-Le commissaire de la République de la région d'Ile-de-France est consulté par
-l'autorité ou le service chargé de l'instruction de la demande avant la
-délivrance du permis de construire portant sur un groupe d'habitations de plus
-de 1000 logements et la construction de locaux à usage industriel ou commercial
-ou de bureaux dont la superficie de planchers est supérieure à 200 mètres carrés
-hors oeuvre au total.
-
 Lorsque la délivrance du permis de construire aurait pour effet la création ou
 la modification d'un accès à une voie publique, l'autorité ou le service chargé
 de l'instruction de la demande consulte l'autorité ou le service gestionnaire de

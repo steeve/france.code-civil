@@ -17,6 +17,6 @@ collectivités ou établissements publics, le dossier doit comprendre les pièce
 faisant état de l'accord de ces personnes publiques sur le principe de la
 réalisation de ces équipements, les modalités de leur incorporation dans leur
 patrimoine et, le cas échéant, sur leur participation au financement. Ce
-dossier, accompagné, sauf lorsque la zone est créée à l'initiative de la
-création de la zone, est adressé au maire et au commissaire de la République du
-département.
+dossier, accompagné, sauf lorsque la zone est créée à l'initiative de de la
+création de la zone, est adressé au maire au préfet du département et, en région
+d'Ile-de-France, au préfet de la région.

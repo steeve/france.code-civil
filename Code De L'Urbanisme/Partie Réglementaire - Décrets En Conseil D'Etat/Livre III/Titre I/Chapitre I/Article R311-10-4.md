@@ -14,9 +14,9 @@ réception, lui font respectivement savoir si la région ou le département
 souhaite être associé à l'élaboration du projet de plan d'aménagement de zone.
 
 Dans un délai de trois mois à compter de la publication de l'acte ayant créé la
-zone, le commissaire de la République porte à la connaissance de la personne
-publique qui a pris l'initiative de la création de la zone les éléments
-mentionnés à l'article R. 123-5. Lorsque la zone n'a pas été créée à
-l'initiative de la commune ou de l'établissement public de coopération
-intercommunale compétent, il adresse copie de ces éléments au maire ou au
-président de l'établissement public.
+zone, le préfet porte à la connaissance de la personne publique qui a pris
+l'initiative de la création de la zone les éléments mentionnés à l'article R.
+123-5 ou, en région d'Ile-de-France, les éléments mentionnés à l'article R141-4.
+Lorsque la zone n'a pas été créée à l'initiative de la commune ou de
+l'établissement public de coopération intercommunale compétent, il adresse copie
+de ces éléments au maire ou au président de l'établissement public.
