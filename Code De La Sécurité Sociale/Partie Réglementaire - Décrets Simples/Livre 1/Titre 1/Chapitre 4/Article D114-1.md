@@ -78,10 +78,10 @@ institutions de retraites des cadres ;
 p) Un représentant désigné par la Fédération nationale de la mutualité française
 ;
 
-6° Le président du Centre national des professions de santé ainsi que quatre
+6° Le président du Centre national des professions de santé ainsi que cinq
 représentants des organisations professionnelles de médecins et trois
 représentants des établissements de soins désignés par le ministre chargé de la
-sécurité sociale.
+sécurité sociale ;
 
 7° Sept personnalités qualifiées désignées pour leur compétence particulière par
 le ministre chargé de la sécurité sociale.
