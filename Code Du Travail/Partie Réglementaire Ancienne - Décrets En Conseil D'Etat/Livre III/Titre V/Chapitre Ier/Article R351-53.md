@@ -1,38 +1,55 @@
 Article R351-53
 ----
-Les allocations attribuées en application de l'article L. 351-19 prennent la
-forme d'indemnités horaires dont le taux est fixé par décret pris sur le rapport
-du ministre chargé du travail et du ministre chargé du budget.
+I. - Le nombre d'heures perdues pouvant justifier des allocations attribuées en
+application de l'article L. 351-25 correspond à la différence entre la durée
+légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure,
+la durée collective du travail ou la durée stipulée au contrat et le nombre
+d'heures réellement travaillées sur la période considérée.
 
-Pour les salariés effectuant légalement un nombre d'heures de travail supérieur
-à trente-neuf heures par semaine, l'indemnité accordée par heure de travail
-perdue est égale au quotient de trente-neuf indemnités horaires fixées en
-application de l'alinéa ci-dessus par le nombre d'heures déterminé par les
-textes concernant la durée de leur travail.
+Ces allocations prennent la forme d'indemnités horaires dont le taux, fixé par
+décret pris sur le rapport du ministre chargé de l'emploi et du ministre chargé
+du budget, peut varier selon la taille de l'entreprise.
 
-L'allocation pour privation partielle d'emploi est liquidée mensuellement
-[*périodicité*].
+II. - Lorsque le salarié est occupé, en application de l'article L. 212-4, selon
+une durée équivalente à la durée légale, l'allocation accordée par heure de
+travail perdue est égale à l'indemnité horaire fixée en application du deuxième
+alinéa du I ci-dessus, multipliée par le quotient de la durée légale par le
+nombre d'heures équivalant à cette durée.
 
-Les indemnités sont versées aux salariés à la date normale de paie par
-l'employeur qui est remboursé sur production d'états visés par l'autorité
-administrative compétente.
+Le nombre d'heures perdues pouvant justifier des allocations en application de
+l'article L. 351-25 correspond dans ce cas à la différence entre la durée
+équivalente à la durée légale - ou, lorsqu'elle est inférieure, à la durée
+collective du travail - et le nombre d'heures réellement travaillées sur la
+période considérée.
 
-Lorsqu'il a été fait application par l'employeur d'un accord agréé relatif à
-l'indemnisation complémentaire du chômage partiel et prévoyant le versement aux
-salariés d'une indemnité incluant le montant de l'allocation visée à l'article
-L. 351-19, l'employeur est remboursé du montant global de la participation de
-l'Etat figurant sur chacun des bordereaux.
+III. - Lorsque la durée du travail est fixée, sur une base hebdomadaire ou
+mensuelle, en application des dispositions du I de l'article L. 212-15-3, le
+nombre d'heures indemnisables correspond à la durée légale du travail diminuée
+de la différence entre la durée mentionnée dans la convention de forfait et le
+nombre d'heures chômées en deçà de la durée légale.
 
-Toutefois, en cas de règlement judiciaire ou de liquidation de biens, ou de
-difficultés financières de l'employeur, le préfet peut, sur proposition du
-directeur départemental du travail et de l'emploi, faire procéder au paiement
-direct des allocations aux salariés.
+Lorsque la convention de forfait est établie en jours sur l'année, en
+application du III de l'article L. 212-15-3, il peut être accordé une allocation
+égale, pour chaque journée perdue, au taux de l'allocation mentionné au deuxième
+alinéa du I ci-dessus multiplié par la durée moyenne quotidienne de travail
+équivalente à la durée légale. Le nombre de journées indemnisables est obtenu en
+multipliant le rapport entre le nombre de jours de fermeture de l'établissement
+et le nombre de jours du mois par le nombre moyen mensuel de jours fixés dans la
+convention de forfait.
 
-La procédure de paiement direct des allocations aux salariés peut également être
-employée pour assurer sous le contrôle des services de l'emploi l'indemnisation
-des travailleurs à domicile habituellement occupés par plusieurs employeurs.
+Lorsque la convention de forfait est établie en heures sur l'année, en
+application du II de l'article L. 212-15-3, le nombre d'heures indemnisables est
+déterminé en deçà de la durée hebdomadaire légale applicable.
 
-A l'occasion du paiement des allocations, un document indiquant le nombre des
-heures indemnisées, les taux appliqués et les sommes versées au titre de la
-période considérée est remis au salarié par l'employeur, ou, en cas de paiement
-direct, par les services chargés du paiement.
+IV. - Lorsque la durée du travail est fixée en application des I et II de
+l'article L. 212-9, le nombre d'heures indemnisables correspond à la différence
+entre la durée hebdomadaire légale de travail, ou la durée collective si elle
+lui est inférieure, et le nombre d'heures réellement travaillées.
+
+Les heures perdues au-delà de la durée légale de travail ne donnent pas lieu à
+l'attribution du repos correspondant. Lorsque la durée du travail est fixée en
+application du II de l'article L. 212-9, et sauf en cas de fermeture temporaire
+de l'établissement imputable à l'une des causes mentionnées à l'article R.
+351-50, l'allocation ne peut être attribuée qu'après la prise des journées ou
+des demi-journées de repos décidées au choix de l'employeur, selon les
+dispositions prévues par l'accord collectif.
