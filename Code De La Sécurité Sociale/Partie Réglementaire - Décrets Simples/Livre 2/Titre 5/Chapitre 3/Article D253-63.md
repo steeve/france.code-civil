@@ -1,7 +1,6 @@
 Article D253-63
 ----
-L'agent comptable dont la responsabilité pécuniaire est mise en cause peut dans
-le cas de force majeure, obtenir décharge totale ou partielle de sa
-responsabilité.
-
-La force majeure n'est jamais présumée. Elle doit être établie par l'intéressé.
+Le conseil d'administration ne peut donner quitus aux fondés de pouvoir de
+l'agent comptable ou aux responsables des centres agréés dans les conditions
+fixées par l'article D. 253-62 ci-dessus qu'après avoir recueilli l'avis
+favorable de l'agent comptable.

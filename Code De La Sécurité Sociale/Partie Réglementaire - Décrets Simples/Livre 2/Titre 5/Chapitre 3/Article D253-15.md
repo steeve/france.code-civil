@@ -1,6 +1,9 @@
 Article D253-15
 ----
-Lorsqu'elles concernent les gestions techniques, les dépenses appartiennent à
-l'exercice au cours duquel elles ont été exécutées. Elles doivent être liquidées
-dès le dépôt du titre de créance ou des pièces qui en tiennent lieu et, s'il
-s'agit de prestations périodiques, pour la date de leur règlement.
+Les opérations de recettes et de dépenses donnent lieu à l'établissement
+d'ordres de recette et d'ordres de dépense.
+
+Des régies de recettes et de dépenses peuvent être créées auprès des organismes
+de sécurité sociale visés à l'article D. 253-1 suivant les modalités fixées par
+une instruction particulière du ministre chargé du budget et du ministre chargé
+de la sécurité sociale.

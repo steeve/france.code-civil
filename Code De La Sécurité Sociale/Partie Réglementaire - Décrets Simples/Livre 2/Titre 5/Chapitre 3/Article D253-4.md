@@ -1,5 +1,8 @@
 Article D253-4
 ----
-Les opérations de recettes et de dépenses donnent lieu à l'établissement
-d'ordres de recette et d'ordres de paiement revêtus de la signature du directeur
-ou de son délégué et du visa de l'agent comptable ou de son délégué.
+Le directeur exerce les fonctions d'ordonnateur. A ce titre, conformément aux
+dispositions de l'article R. 122-3, il engage et liquide les dépenses, constate
+ou liquide les créances de l'organisme sous le contrôle du conseil
+d'administration. Il a seul qualité pour émettre les ordres de recettes et de
+dépenses. Il est seul chargé des poursuites à l'encontre des débiteurs de
+l'organisme.

@@ -1,5 +1,4 @@
 Article D253-3
 ----
-Le directeur et l'agent comptable assistent, avec voix consultative, aux séances
-du conseil d'administration ou des commissions ayant reçu délégation de
-celui-ci.
+Le directeur est nommé et agréé conformément aux articles R. 121-1 (5°) et R.
+122-1.

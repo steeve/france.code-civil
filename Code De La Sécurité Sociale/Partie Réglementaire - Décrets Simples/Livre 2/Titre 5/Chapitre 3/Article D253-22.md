@@ -1,8 +1,17 @@
 Article D253-22
 ----
-Une instruction du ministre chargé de la sécurité sociale détermine la nature
-des pièces justificatives concernant les gestions techniques, la gestion du
-recouvrement des cotisations et des majorations de retard et la gestion des
-fonds communs, et précise les cas où ces pièces peuvent ne pas être jointes aux
-ordres de paiement. Dans ces cas, la référence aux pièces justificatives doit
-être inscrite sur les ordres de paiement.
+Les contrôles de l'agent comptable portent sur les points suivants :
+
+1° La qualité du signataire ou de son délégué ;
+
+2° La disponibilité des crédits ;
+
+3° L'exacte imputation de la dépense ;
+
+4° La validité de la créance ;
+
+5° Le caractère libératoire du règlement ;
+
+6° L'exécution du service fait par les agents mis à disposition.
+
+Ces contrôles seront sélectifs suivant la nature de la dépense.

@@ -1,41 +1,19 @@
 Article D253-16
 ----
-En ce qui concerne les gestions budgétaires, les dépenses appartiennent à
-l'exercice pendant lequel le service a été exécuté.
+Le directeur est chargé du recouvrement des cotisations et majorations de retard
+conformément aux dispositions des articles L. 243-1 et R. 243-1 à R. 243-21. Il
+est seul chargé de la liquidation et du recouvrement contentieux des créances
+autres que les cotisations. Sauf en matière de cotisation, l'agent comptable est
+chargé du recouvrement amiable des créances.
 
-Elles doivent être liquidées immédiatement. Si à la fin d'un exercice elles
-n'ont pu faire l'objet d'un ordre de paiement en raison de la production tardive
-des titres de créances, elles sont liquidées au plus tard dans les vingt jours
-qui suivent la fin de cet exercice ou donnent lieu à la constitution de
-provisions dans les conditions fixées par les instructions d'application du plan
-comptable mentionnées à l'article D. 254-4.
+Les ordres de recette individuels ou collectifs, établis et signés par le
+directeur, sont transmis, accompagnés, s'il y a lieu, des pièces justificatives,
+à l'agent comptable, qui les prend en charge, les date et les signe après
+vérification.
 
-Pour les unions ou fédérations de caisses, le délai de vingt jours mentionné à
-l'alinéa précédent est ramené à dix jours.
+Les contrôles pourront être sélectifs suivant la nature de la recette.
 
-Pour les gestions budgétaires, l'exercice auquel appartiennent les dépenses
-ci-après est déterminé comme suit :
+Il est fait recette du montant intégral des produits sans contraction entre les
+recettes et les dépenses.
 
-1°) pour les acquisitions d'immeubles, par la date de contrat ;
-
-2°) pour les loyers, par la date du jour qui précède l'échéance de chaque terme
-;
-
-3°) pour les travaux ou fournitures, par la date de réception ou la constatation
-des opérations ouvrant droit à paiement partiel ;
-
-4°) pour les intérêts à la charge de la caisse, par la date du jour qui précède
-leur échéance ;
-
-5°) pour les subventions à des collectivités ou oeuvres étrangères à la caisse,
-par l'imputation spécifiée par la délibération du conseil d'administration ;
-
-6°) pour les dettes qui ont fait l'objet d'une transaction, par la date de
-transaction conclue avec le créancier ;
-
-7°) pour les condamnations prononcées contre la caisse, par la date des
-décisions judiciaires, jugements et arrêts définitifs ou de l'acte
-d'acquiescement du jugement non définitif ;
-
-8°) pour les restitutions de sommes indûment portées en recettes, par la date
-d'origine de la somme indûment perçue.
+Les ordres de recette sont conservés par l'agent comptable.

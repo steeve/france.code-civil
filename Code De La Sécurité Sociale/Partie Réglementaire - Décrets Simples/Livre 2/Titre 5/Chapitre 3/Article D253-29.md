@@ -1,6 +1,5 @@
 Article D253-29
 ----
-Dans les cas mentionnés à l'article D. 253-53, le directeur peut, sous sa
-responsabilité personnelle, requérir par écrit qu'il soit passé outre au refus
-de visa et de paiement éventuel opposé par l'agent comptable à l'encontre d'un
-ordre de paiement émis par lui.
+Un compte spécial d'exécution est ouvert d'office au nom de chaque organisme
+auprès des comptables du Trésor, préposés de la Caisse des dépôts et
+consignations.

@@ -1,4 +1,4 @@
 Article D253-28
 ----
-L'imputation des dépenses ne peut plus être modifiée par le directeur et l'agent
-comptable lorsque les comptes ont été arrêtés par le conseil d'administration.
+L'agent comptable a qualité pour recevoir et détenir les titres de propriété et
+les titres de créances. Il en assure la conservation et la garde.

@@ -1,9 +1,19 @@
 Article D253-38
 ----
-L'agent comptable est responsable de ses actes devant le conseil
-d'administration, ainsi que devant les autorités qui l'ont agréé. Toutefois, le
-conseil d'administration ne peut prononcer aucune sanction à son encontre s'il
-est établi que les règlements, les instructions ou ordres auxquels l'agent
-comptable a refusé ou négligé d'obéir étaient de nature à engager sa
-responsabilité personnelle et pécuniaire telle qu'elle est définie à la
-sous-section 2.
+Les dépenses des organismes de sécurité sociale, et notamment les retraits
+opérés sur le compte de disponibilités courantes mentionné à l'article D.
+253-37, interviennent dans la limite d'un échéancier des besoins établi par
+chaque organisme payeur et approuvé par l'Agence centrale des organismes de
+sécurité sociale dans les conditions fixées par le ministre chargé de la
+sécurité sociale ;
+
+L'échéancier est déterminé en fonction du calendrier des sommes dues par les
+organismes payeurs et de leurs recettes diverses prévisibles au cours de la
+période considérée.
+
+La périodicité et le mode de présentation des échéanciers sont fixés par
+instruction de l'Agence centrale des organismes de sécurité sociale.
+
+L'agent comptable doit veiller à ce que les comptes externes de disponibilités
+soient régulièrement approvisionnés en fonction des décaissements effectifs
+attendus.

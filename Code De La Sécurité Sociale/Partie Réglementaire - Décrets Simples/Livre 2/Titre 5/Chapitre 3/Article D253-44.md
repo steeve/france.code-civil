@@ -1,15 +1,27 @@
 Article D253-44
 ----
-La responsabilité pécuniaire de l'agent comptable, en matière d'encaissement,
-est mise en cause immédiatement si le débiteur s'est libéré et si l'agent
-comptable n'a pas inscrit la recette dans sa comptabilité.
+Pour les gestions techniques, le délai de conservation des pièces justificatives
+papier est le suivant :
 
-Le débiteur de la caisse est libéré lorsqu'il s'est acquitté de sa dette soit
-par remise d'espèces, de chèque, soit par inscription d'une somme équivalente au
-crédit d'un des comptes courants de la caisse soit par l'utilisation de tout
-autre moyen de paiement défini par arrêté du ministre chargé de la sécurité
-sociale et du ministre chargé du budget.
+- six mois après le délai de prescription visé par l'article L. 244-3 pour
+l'encaissement des cotisations et majorations de retard ;
 
-Le débiteur est également libéré s'il invoque le bénéfice d'une prescription ou
-encore s'il consigne à la Caisse des dépôts et consignations et tient à la
-disposition de l'agent comptable les fonds que ce dernier refuse de recevoir.
+- six mois après le délai de prescription pour les prestations visées aux
+articles L. 332-1 et L. 361-1. Pour les prestations accordées au titre des
+accidents du travail, le délai de conservation est fixé à six mois après le
+délai de prescription visé à l'article L. 431-2 sous réserve des dispositions
+relatives à la conservation de certaines pièces du dossier du bénéficiaire qui
+seront précisées dans une instruction particulière ;
+
+- six mois après le délai de prescription pour les prestations familiales visées
+à l'article L. 553-1 et les prestations gérées pour le compte de tiers ;
+
+- cinq ans après le décès du titulaire ou de son conjoint pour les prestations
+d'assurance vieillesse et invalidité.
+
+Une instruction particulière précisera les modalités de conservation des pièces
+originales ainsi que la nature des supports à utiliser et notamment les
+microformes et l'archivage électronique, compte tenu de la nature des documents
+à archiver.
+
+Les titres de propriété ne peuvent être détruits.

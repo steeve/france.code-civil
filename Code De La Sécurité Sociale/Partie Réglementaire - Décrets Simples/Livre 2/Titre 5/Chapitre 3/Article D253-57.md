@@ -1,8 +1,9 @@
 Article D253-57
 ----
-Tous les deniers ressortissant à un même poste comptable sont confondus dans une
-même encaisse.
+Le compte financier visé par l'article R. 122-4 est établi par l'agent comptable
+et visé par le directeur. Il est présenté par l'agent comptable au conseil
+d'administration, accompagné du rapport établi par la commission de contrôle
+visée à l'article D. 253-64 ci-après.
 
-L'existence d'un poste comptable est établie par la réunion en un même lieu de
-fonds, valeurs ou documents justificatifs d'opérations comptables et par la
-tenue d'une comptabilité distincte.
+Le compte financier est transmis par les organismes aux organismes nationaux à
+la demande de ces derniers.

@@ -1,22 +1,25 @@
 Article D254-4
 ----
-Le plan comptable des organismes de sécurité sociale est établi par arrêté
-conjoint du ministre chargé de la sécurité sociale et du ministre chargé du
-budget, en adaptant en tant que de besoin, le plan comptable général.
+L'organisme chargé du paiement des pensions d'invalidité, des pensions de
+vieillesse et des allocations aux vieux travailleurs salariés remet à chaque
+titulaire un extrait d'inscription établissant ses droits.
 
-Le plan comptable des organismes de sécurité sociale fixe :
+L'extrait d'inscription est adressé au titulaire.
 
-1°) la liste et le classement des comptes à ouvrir dans la comptabilité des
-organismes de sécurité sociale ;
+Il comporte les indications suivantes :
 
-2°) les modalités de fonctionnement desdits comptes ;
+1. Nom, prénoms, domicile, état civil, numéro d'inscription au répertoire
+national d'identification des personnes physiques ;
 
-3°) les modèles cadres des documents permettant de suivre et de contrôler les
-opérations ;
+2. Le numéro de l'avantage servi, le numéro d'inscription au répertoire national
+d'identification des personnes physiques et toutes indications utiles permettant
+d'identifier ledit avantage ;
 
-4°) les conditions d'amortissement ou de constatation de la dépréciation des
-éléments d'actif ;
+3. Le montant de la pension ou allocation ;
 
-5°) la liste des matières traitées par instruction concertée du ministre chargé
-de la sécurité sociale et du ministre chargé du budget et de celles traitées par
-instructions particulières du ministre chargé de la sécurité sociale.
+4. La date d'entrée en jouissance.
+
+Seront également mentionnés, s'il y a lieu, les nom, prénoms et adresse, ou
+toutes indications en permettant l'identification, du tuteur aux prestations
+sociales ou, s'il s'agit d'un incapable majeur protégé par la loi n° 68-5 du 3
+janvier 1968, du représentant ayant préalablement justifié de ses pouvoirs.

@@ -1,5 +1,7 @@
 Article D253-2
 ----
-Les opérations financières et comptables de chaque organisme de sécurité sociale
-sont effectuées, sous le contrôle du conseil d'administration, par un directeur
-et un agent comptable.
+Les opérations financières et comptables des organismes visés à l'article D.
+253-1 qui résultent des missions qui leur ont été confiées par les dispositions
+législatives et réglementaires concernent les recettes, les dépenses, la
+trésorerie et le patrimoine. Elles sont assurées par un directeur et un agent
+comptable.

@@ -1,10 +1,10 @@
 Article D253-9
 ----
-Les encaissements effectués en exécution des obligations constatées par un
-contrat, une convention ou un titre de propriété dont l'agent comptable assure
-la conservation, par application de l'article D. 253-58, donnent lieu
-mensuellement à la délivrance par le directeur d'ordres de recette de
-régularisation, soit individuels, soit collectifs.
+L'agent comptable, conformément aux termes de l'article R. 122-4, est l'agent de
+direction qui est chargé, sous sa responsabilité personnelle et pécuniaire et
+sous le contrôle du conseil d'administration, de l'ensemble des opérations
+financières et comptables de l'organisme ; il est placé sous l'autorité
+administrative du directeur.
 
-Les encaissements de cotisations et de majorations de retard font l'objet
-d'ordres de recette collectifs journaliers.
+L'agent comptable peut se voir confier par le directeur toute mission compatible
+avec ses attributions.

@@ -1,10 +1,12 @@
 Article D253-55
 ----
-Sont considérés comme ayant un caractère libératoire, les règlements effectués
-par remise à la personne qualifiée pour donner quittance d'espèces ou de chèques
-d'un montant égal au montant de la dette.
+Les organismes de sécurité sociale adressent au directeur régional des affaires
+sanitaires et sociales et au trésorier-payeur général, à la clôture de chaque
+exercice, les balances de fin d'exercice, avant et après inventaire.
 
-Est également considérée comme ayant un caractère libératoire l'inscription du
-montant de la dette au crédit d'un compte bancaire ou postal ouvert au nom de la
-personne qualifiée pour donner quittance ou au crédit d'un compte d'épargne
-ouvert au nom du créancier ou de son représentant dûment mandaté.
+Le directeur régional des affaires sanitaires et sociales et le trésorier-payeur
+général sont également destinataires sur leur demande des balances mensuelles
+établies par les organismes de sécurité sociale.
+
+Les balances mensuelles sont transmises par les organismes aux organismes
+nationaux à la demande de ces derniers.

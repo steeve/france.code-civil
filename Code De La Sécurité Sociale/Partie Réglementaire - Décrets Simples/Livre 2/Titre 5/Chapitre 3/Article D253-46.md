@@ -1,18 +1,13 @@
 Article D253-46
 ----
-En matière d'encaissement des cotisations et des majorations de retard, la
-responsabilité pécuniaire de l'agent comptable est mise en cause si, à la fin de
-chaque trimestre, l'agent comptable n'a pas soumis au directeur la liste des
-créances non recouvrées au début de ce trimestre qu'il a prises en charge au
-cours du trimestre correspondant de l'année précédente.
+Sous réserve de leur compétence respective, le directeur et l'agent comptable
+conçoivent et mettent en place, en commun, un dispositif de contrôle interne
+permettant de pallier les risques financiers inhérents aux missions confiées aux
+organismes de sécurité sociale.
 
-Elle est également mise en cause s'il n'a pas, dans le délai de quinzaine,
-établi et soumis au directeur la liste des comptes qui n'ont pas été servis en
-débit ou en crédit dans le mois ou les trois mois suivant l'échéance des
-cotisations, selon qu'elles sont payables mensuellement ou trimestriellement.
+Un contrôle par sondage de l'existence de procédure fiable de vérification des
+opérations et d'exactitude matérielle des calculs de liquidation peut être mis
+en place.
 
-Hors le cas de mauvaise foi, l'agent comptable n'est pas pécuniairement
-responsable des erreurs commises dans l'assiette ou la liquidation des
-cotisations et majorations de retard qu'il encaisse, ni de la position des
-redevables de cotisations au nom desquels l'ouverture d'un compte n'a pas été
-demandée ou pour lesquels la clôture du compte a été prescrite.
+La mise à jour du dispositif de contrôle interne peut être effectuée par un
+service d'audit interne, éventuellement assuré par une structure intercaisses.

@@ -1,4 +1,6 @@
 Article D253-32
 ----
-L'agent comptable tient sa comptabilité à la disposition du directeur et lui
-fournit, sur demande, tout renseignement dont ce dernier peut avoir besoin.
+L'agent comptable doit procéder régulièrement au rapprochement de ses écritures
+et de celles des établissements teneurs des comptes externes de disponibilités.
+Les réajustements et rectifications sont effectués sous le contrôle du conseil
+d'administration.

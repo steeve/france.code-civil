@@ -1,5 +1,9 @@
 Article D253-14
 ----
-Le directeur, dans la limite de ses pouvoirs propres, ou de la délégation qu'il
-a reçue du conseil d'administration, engage les dépenses de la caisse. Il est
-seul chargé de la liquidation de toutes les dépenses.
+En cas de vacance d'emploi, d'absence momentanée ou d'empêchement de l'agent
+comptable, ses fonctions, limitées à trois mois, sont exercées par le fondé de
+pouvoir conformément à l'article R. 122-4.
+
+L'installation de l'agent comptable intérimaire s'effectue dans les conditions
+de l'article D. 253-12. La durée de ses fonctions est limitée à six mois
+renouvelable par délibération du conseil d'administration.

@@ -1,10 +1,11 @@
 Article D253-64
 ----
-Sur requête de l'agent comptable présentée dans les deux mois qui suivent la
-mise en jeu de sa responsabilité pécuniaire, la décharge de responsabilité peut
-être prononcée par le conseil d'administration.
+Le contrôle du conseil d'administration sur l'agent comptable s'exerce notamment
+par l'intermédiaire d'une commission de contrôle.
 
-La décision du conseil d'administration doit être approuvée par le ministre
-chargé de la sécurité sociale et par le ministre chargé du budget lorsque la
-décharge dépasse une somme qui est déterminée par un arrêté concerté des
-ministres susmentionnés.
+Cette commission comprend au moins quatre membres dont deux peuvent être des
+personnes étrangères à la caisse.
+
+En aucun cas les agents de la caisse ou d'autres organismes de sécurité sociale
+ainsi que les agents des organismes contrôlés ou subventionnés par lesdits
+organismes ne peuvent en faire partie.

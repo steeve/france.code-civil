@@ -1,14 +1,18 @@
 Article D253-50
 ----
-La responsabilité de l'agent comptable est mise en cause s'il n'a pas vérifié,
-dans les conditions prévues par le présent chapitre, le chapitre suivant et les
-articles D. 256-3 à D. 256-16 et les instructions prises pour leur application :
+La comptabilité des organismes de sécurité sociale a pour fonction :
 
-1°) la qualité du signataire de l'ordre de paiement ;
+1° De faire apparaître la situation patrimoniale de l'organisme, active et
+passive ;
 
-2°) la validité de la créance ;
+2° De déterminer les résultats globaux de l'exercice ;
 
-3°) l'imputation de la dépense ;
+3° De dégager les résultats en fin d'exercice et de les comparer aux prévisions
+;
 
-4°) la disponibilité des crédits dans le cas où l'agent comptable exécute un
-budget totalement ou partiellement limitatif.
+4° De dégager éventuellement les résultats analytiques d'exploitation.
+
+Elle retrace les opérations des gestions budgétaires, les opérations des
+gestions techniques, les opérations de trésorerie, les opérations faites avec
+les tiers ou pour le compte de tiers, les mouvements du patrimoine des
+organismes.

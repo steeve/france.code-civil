@@ -1,9 +1,20 @@
 Article D253-49
 ----
-Tous les encaissements en numéraire effectués par l'agent comptable donnent lieu
-à l'établissement d'une quittance extraite d'un carnet à souche. Lorsque la
-partie prenante exige expressément la délivrance d'un reçu au titre des
-règlements faits par un mode de paiement autre que le numéraire, le comptable
-intéressé établit une déclaration de versement tirée d'un carnet à souche.
+L'agent comptable doit appliquer les programmes informatiques nationaux validés
+conjointement par le directeur et l'agent comptable de l'organisme national.
 
-Les chèques doivent être établis à l'ordre de l'agent comptable.
+Le directeur et l'agent comptable de l'organisme national peuvent donner
+délégation à un directeur et à un agent comptable d'un organisme local pour
+valider des programmes ; dans ce cas, l'agent comptable doit appliquer ces
+programmes dans les mêmes conditions que ceux visés à l'alinéa ci-dessus.
+
+L'agent comptable a la possibilité de refuser la mise en place d'applications
+informatiques qui ne respectent pas les règles édictées par le présent décret.
+
+Il informe par écrit le directeur des raisons justifiant sa position.
+
+Le directeur peut décider de passer outre ce refus ; dans ce cas, il notifie,
+par écrit, sa décision à l'agent comptable.
+
+L'agent comptable transmet une copie de cette décision au conseil
+d'administration et aux autorités qui l'ont installé.

@@ -1,6 +1,5 @@
 Article D253-27
 ----
-Les imputations de dépenses reconnues erronées pendant le cours d'un exercice
-sont rectifiées, en ce qui concerne les gestions budgétaires, dans les écritures
-de l'agent comptable au moyen de certificats de réimputation délivrés par le
-directeur.
+L'ensemble des fonds, valeurs, deniers et tout document justificatif des
+opérations financières et comptables d'un organisme est détenu en un même lieu
+et forme une unité de caisse.

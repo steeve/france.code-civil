@@ -1,19 +1,14 @@
 Article D253-6
 ----
-Les opérations de recettes et de dépenses effectuées par le directeur et l'agent
-comptable sont suivies dans une comptabilité aménagée de façon à faire
-apparaître dans des comptes généraux distincts ou gestions, les opérations
-relatives :
+Le directeur peut, conformément aux dispositions de l'article R. 122-3,
+déléguer, sous sa responsabilité, une partie de ses pouvoirs à certains agents
+de l'organisme.
 
-1°) à la gestion des fonds nationaux ou des sections comptables de ces fonds
-mentionnés aux articles R. 251-1, R. 251-2, R. 251-14, R. 251-24 et R. 251-32 ;
+Il peut déléguer, à titre permanent, sa signature au directeur adjoint de la
+caisse ou à un ou plusieurs agents de l'organisme.
 
-2°) à la gestion du recouvrement des cotisations et des majorations de retard ;
+Cette délégation doit préciser, pour chaque délégué, la nature des opérations
+qu'il peut effectuer et leur montant maximum s'il y a lieu.
 
-3°) à la gestion des établissements et des oeuvres.
-
-Les opérations de trésorerie, les créances et les dettes à court terme, les
-opérations d'ordre sont suivies séparément à la gestion des fonds communs.
-
-La codification des différentes gestions est fixée par instruction du ministre
-chargé de la sécurité sociale.
+L'agent comptable est dépositaire d'un exemplaire certifié des signatures du
+directeur et de ses délégués.
