@@ -5,10 +5,10 @@ timbre et d'enregistrement et, le cas échéant, dispensés de la formalité, le
 lettres et accusés de réception, les renonciations, acceptations et
 consentements prévus :
 
-1° Aux articles 2, 3, 10 et 11 de la loi du 30 avril 1906 sur les warrants
-agricoles, le registre sur lequel les warrants sont inscrits, la copie des
-inscriptions d'emprunts, le certificat négatif et le certificat de radiation
-mentionnés aux articles 6 et 7 de la même loi;
+1° Aux articles L342-2, L343-3, L342-10 et L342-11 du code rural, le registre
+sur lequel les warrants sont inscrits, la copie des inscriptions d'emprunts, le
+certificat négatif et le certificat de radiation mentionnés aux articles L342-6
+et L342-7 du même code ;
 
 2° Par la loi du 8 août 1913, relative au warrant hôtelier, le registre sur
 lequel les warrants sont inscrits, la copie des inscriptions du warrant, le
