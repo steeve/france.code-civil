@@ -1,4 +1,4 @@
 Article 286
 ----
-Le divorce laisse subsister les droits et les devoirs des père et mère à l'égard
-de leurs enfants, sous réserve des règles qui suivent.
+Les conséquences du divorce pour les enfants sont réglées selon les dispositions
+du chapitre Ier du titre IX du présent livre.

@@ -1,10 +1,7 @@
 Article 371-4
 ----
-Les père et mère ne peuvent, sauf motifs graves, faire obstacle aux relations
-personnelles de l'enfant avec ses grands-parents. A défaut d'accord entre les
-parties, les modalités de ces relations sont réglées par le juge aux affaires
-familiales.
+L'enfant a le droit d'entretenir des relations personnelles avec ses ascendants.
+Seuls des motifs graves peuvent faire obstacle à ce droit.
 
-En considération de situations exceptionnelles, le juge aux affaires familiales
-peut accorder un droit de correspondance ou de visite à d'autres personnes,
-parents ou non.
+Si tel est l'intérêt de l'enfant, le juge aux affaires familiales fixe les
+modalités des relations entre l'enfant et un tiers, parent ou non.

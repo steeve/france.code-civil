@@ -3,8 +3,7 @@ Article 247
 Le tribunal de grande instance statuant en matière civile est seul compétent
 pour se prononcer sur le divorce et ses conséquences.
 
-Un juge de ce tribunal est délégué aux affaires familiales. Il est plus
-spécialement chargé de veiller à la sauvegarde des intérêts des enfants mineurs.
+Un juge de ce tribunal est délégué aux affaires familiales.
 
 Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il
 peut renvoyer l'affaire en l'état à une audience collégiale. Ce renvoi est de

@@ -1,21 +1,15 @@
 Article 377-1
 ----
-La délégation de l'autorité parentale peut aussi avoir lieu quand le mineur de
-seize ans a été recueilli sans l'intervention des père et mère ou du tuteur.
-Mais il faut, en ce cas, que le particulier ou l'établissement, après avoir
-recueilli l'enfant, en ait fait la déclaration à l'autorité administrative du
-lieu.
+La délégation, totale ou partielle, de l'autorité parentale résultera du
+jugement rendu par le juge aux affaires familiales.
 
-Cette déclaration est faite dans la huitaine. L'autorité administrative, dans le
-mois qui suit, en donne avis aux père et mère ou au tuteur. La notification qui
-leur est ainsi faite ouvre un nouveau délai de trois mois à l'expiration duquel,
-faute par eux de réclamer l'enfant, ils sont présumés renoncer à exercer sur lui
-leur autorité.
+Toutefois, le jugement de délégation peut prévoir, pour les besoins d'éducation
+de l'enfant, que les père et mère, ou l'un d'eux, partageront tout ou partie de
+l'exercice de l'autorité parentale avec le tiers délégataire. Le partage
+nécessite l'accord du ou des parents en tant qu'ils exercent l'autorité
+parentale. La présomption de l'article 372-2 est applicable à l'égard des actes
+accomplis par le ou les délégants et le délégataire.
 
-Le particulier, l'établissement ou le service départemental de l'aide sociale à
-l'enfance qui a recueilli l'enfant peut alors présenter requête au juge aux
-affaires familiales aux fins de se faire déléguer totalement ou partiellement
-l'autorité parentale. Quel que soit le requérant, le juge aux affaires
-familiales peut décider, dans l'intérêt de l'enfant, les parents entendus ou
-appelés, que l'autorité parentale sera déléguée au service de l'aide sociale à
-l'enfance.
+Le juge peut être saisi des difficultés que l'exercice partagé de l'autorité
+parentale pourrait générer par les parents, l'un d'eux, le délégataire ou le
+ministère public. Il statue conformément aux dispositions de l'article 373-2-11.

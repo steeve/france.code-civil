@@ -1,14 +1,18 @@
 Article 377
 ----
-Les père et mère, ensemble ou séparément, ou le tuteur autorisé par le conseil
-de famille, peuvent, quand ils ont remis l'enfant mineur de seize ans à un
-particulier digne de confiance, à un établissement agréé à cette fin, ou au
-service départemental de l'aide sociale à l'enfance, renoncer en tout ou partie
-à l'exercice de leur autorité.
+Les père et mère, ensemble ou séparément, peuvent, lorsque les circonstances
+l'exigent, saisir le juge en vue de voir déléguer tout ou partie de l'exercice
+de leur autorité parentale à un tiers, membre de la famille, proche digne de
+confiance, établissement agréé pour le recueil des enfants ou service
+départemental de l'aide sociale à l'enfance.
 
-En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du
-jugement qui sera rendu par le juge aux affaires familiales sur la requête
-conjointe des délégants et du délégataire.
+En cas de désintérêt manifeste ou si les parents sont dans l'impossibilité
+d'exercer tout ou partie de l'autorité parentale, le particulier,
+l'établissement ou le service départemental de l'aide sociale à l'enfance qui a
+recueilli l'enfant peut également saisir le juge aux fins de se faire déléguer
+totalement ou partiellement l'exercice de l'autorité parentale.
 
-La même délégation peut être décidée, à la seule requête du délégataire, lorsque
-les parents se sont désintéressés de l'enfant depuis plus d'un an.
+Dans tous les cas visés au présent article, les deux parents doivent être
+appelés à l'instance. Lorsque l'enfant concerné fait l'objet d'une mesure
+d'assistance éducative, la délégation ne peut intervenir qu'après avis du juge
+des enfants.

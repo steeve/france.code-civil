@@ -3,8 +3,7 @@ Article 375-3
 S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut
 décider de le confier :
 
-1° A celui des père et mère qui n'avait pas l'exercice de l'autorité parentale
-ou chez lequel l'enfant n'avait pas sa résidence habituelle ;
+1° A l'autre parent ;
 
 2° A un autre membre de la famille ou à un tiers digne de confiance ;
 
@@ -19,5 +18,5 @@ un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé
 postérieurement à la décision statuant sur les modalités de l'exercice de
 l'autorité parentale ou confiant l'enfant à un tiers. Elles ne peuvent faire
 obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par
-application des articles 287 et 287-1, à qui l'enfant devra être confié. Les
-mêmes règles sont applicables à la séparation de corps.
+application de l'article 373-3, à qui l'enfant devra être confié. Les mêmes
+règles sont applicables à la séparation de corps.
