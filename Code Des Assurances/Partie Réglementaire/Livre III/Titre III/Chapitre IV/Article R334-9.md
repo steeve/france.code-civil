@@ -13,7 +13,7 @@ l'article R. 321-3, ni les risques entrant dans les branches mentionnées aux 14
 et 15 de l'article R. 321-1 ;
 
 c) Le montant annuel de leurs cotisations émises, accessoires compris et
-annulations déduites, ne dépasse pas 5 800 000 euros (1) ;
+annulations déduites, ne dépasse pas 6 200 000 euros ;
 
 d) La moitié au moins de leurs cotisations sont versées par des personnes
 physiques.

@@ -7,12 +7,12 @@ l'article R. 212-12.
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
-2, 6 millions d'euros (1) lorsque la mutuelle ou l'union est agréée pour
-pratiquer des opérations entrant dans la branche 15 de l'article R. 211-2 ;
+2 800 00 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des
+opérations entrant dans la branche 15 de l'article R. 211-2 ;
 
-1, 8 million d'euros (1) lorsque la mutuelle ou l'union est agréée pour
-pratiquer des opérations entrant dans la branche 1, 2, 16 (a et h), 17, 18 de
-l'article R. 211-2.
+1 900 000 euros lorsque la mutuelle ou l'union est agréée pour pratiquer des
+opérations entrant dans la branche 1, 2, 16 (a et h), 17, 18 de l'article R.
+211-2.
 
 Lorsqu'une mutuelle ou union est agréée pour pratiquer des opérations entrant
 dans plusieurs branches, seule est prise en considération pour le calcul du
