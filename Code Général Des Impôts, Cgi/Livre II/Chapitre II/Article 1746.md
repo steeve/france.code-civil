@@ -4,5 +4,5 @@ Article 1746
 outre l'amende fiscale prévue audit article, prononcer une peine de six jours à
 six mois de prison.
 
-2 S'il y a opposition collective à l'établissement de l'assiette de l'impôt, il
-sera fait application des peines prévues à l'article 224 du code pénal.
+2 L'opposition collective à l'établissement de l'assiette de l'impôt est punie
+de six mois d'emprisonnement et de 50.000 F d'amende.
