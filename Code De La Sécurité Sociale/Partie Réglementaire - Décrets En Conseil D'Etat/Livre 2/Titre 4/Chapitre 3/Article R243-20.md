@@ -1,7 +1,7 @@
 Article R243-20
 ----
-Les employeurs peuvent formuler une demande gracieuse en réduction des pénalités
-et des majorations de retard résultant des articles R. 243-16 et R. 243-18.
+Les employeurs peuvent formuler une demande gracieuse en réduction des
+majorations et pénalités prévues aux articles L. 243-14, R. 243-16 et R. 243-18.
 Cette requête n'est recevable qu'après règlement de la totalité des cotisations
 ayant donné lieu à application des majorations.
 
@@ -10,9 +10,9 @@ demandes portant sur des montants inférieurs à un seuil fixé par arrêté du
 ministre chargé de la sécurité sociale. A partir de ce seuil, il est statué sur
 proposition du directeur par la commission de recours amiable.
 
-Il ne peut être accordé une remise des majorations et des pénalités de retard
-que si la bonne foi des employeurs est dûment prouvée. Les décisions tant du
-directeur que de la commission de recours amiable doivent être motivées.
+Il ne peut être accordé une remise des majorations et des pénalités que si la
+bonne foi des employeurs est dûment prouvée. Les décisions tant du directeur que
+de la commission de recours amiable doivent être motivées.
 
 Lorsque les cotisations sont acquittées avec un retard d'un mois ou plus à
 compter de la date limite d'exigibilité, un minimum de majoration de retard,
