@@ -11,5 +11,6 @@ suspendue depuis le jour où le jugement ou arrêt était devenu définitif jusq
 celui de la condamnation du coupable de faux ou usage de faux.
 
 Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose
-expressément ; il en est de même en cas de retrait de plainte, lorsque celle-ci
-est une condition nécessaire de la poursuite.
+expressément ou par l'exécution d'une composition pénale ; il en est de même en
+cas de retrait de plainte, lorsque celle-ci est une condition nécessaire de la
+poursuite.

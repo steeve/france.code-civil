@@ -5,7 +5,10 @@ d'emprisonnement inférieure à deux années peut, par lettre adressée au prés
 et qui sera jointe au dossier de la procédure, demander à être jugé en son
 absence.
 
-Dans ce cas, son défenseur est entendu.
+Il en est de même en cas de citation directe délivrée par la partie civile
+quelle que soit la durée de la peine encourue.
+
+Dans les deux cas l'avocat du prévenu est entendu.
 
 Toutefois, si le tribunal estime nécessaire la comparution du prévenu en
 personne, il est procédé à la réassignation du prévenu, à la diligence du

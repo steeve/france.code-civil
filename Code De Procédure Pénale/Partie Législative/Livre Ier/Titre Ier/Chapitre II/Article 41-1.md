@@ -1,25 +1,24 @@
 Article 41-1
 ----
-Lorsqu'aucune juridiction n'a été saisie ou lorsque la juridiction saisie a
-épuisé sa compétence sans avoir statué sur la restitution des objets, le
-procureur de la République ou le procureur général est compétent pour décider,
-d'office ou sur requête, de la restitution de ces objets lorsque la propriété
-n'en est pas sérieusement contestée.
+S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du
+dommage causé à la victime, de mettre fin au trouble résultant de l'infraction
+ou de contribuer au reclassement de l'auteur des faits, le procureur de la
+République peut, préalablement à sa décision sur l'action publique, directement
+ou par délégation :
 
-Il n'y a pas lieu à restitution lorsque celle-ci est de nature à créer un danger
-pour les personnes ou les biens ; la décision de non restitution prise pour ce
-motif, même d'office, par le procureur de la République ou le procureur général
-peut être contestée dans le mois de sa notification par requête de l'intéressé
-devant le tribunal correctionnel ou la chambre des appels correctionnels, qui
-statue en chambre du conseil. Il n'y a pas lieu non plus à restitution
-lorsqu'une disposition particulière prévoit la destruction des objets placés
-sous main de justice.
+1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de
+la loi ;
 
-Si la restitution n'a pas été demandée ou décidée dans un délai de trois ans à
-compter de la décision de classement ou de la décision par laquelle la dernière
-juridiction saisie a épuisé sa compétence, les objets non restitués deviennent
-propriété de l'Etat, sous réserve des droits des tiers. Les objets dont la
-restitution est de nature à créer un danger pour les personnes ou les biens
-deviennent propriété de l'Etat, sous réserve des droits des tiers, dès que la
-décision de non-restitution ne peut plus être contestée, ou dès que le jugement
-ou l'arrêt de non-restitution est devenu définitif.
+2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou
+professionnelle ;
+
+3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi
+ou des règlements ;
+
+4° Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
+
+5° Faire procéder, avec l'accord des parties, à une mission de médiation entre
+l'auteur des faits et la victime.
+
+La procédure prévue au présent article suspend la prescription de l'action
+publique.

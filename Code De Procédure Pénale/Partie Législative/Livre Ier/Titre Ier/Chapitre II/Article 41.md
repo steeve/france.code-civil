@@ -25,9 +25,3 @@ poursuites contre un majeur âgé de moins de vingt et un ans au moment de la
 commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
 d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition
 de placement en détention provisoire.
-
-Le procureur de la République peut enfin, préalablement à sa décision sur
-l'action publique et avec l'accord des parties, décider de recourir à une
-médiation s'il lui apparaît qu'une telle mesure est susceptible d'assurer la
-réparation du dommage causé à la victime, de mettre fin au trouble résultant de
-l'infraction et de contribuer au reclassement de l'auteur de l'infraction.
