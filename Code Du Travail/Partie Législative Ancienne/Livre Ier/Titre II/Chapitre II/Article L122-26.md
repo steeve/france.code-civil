@@ -2,28 +2,29 @@ Article L122-26
 ----
 La salariée a le droit de suspendre le contrat de travail pendant une période
 qui commence six semaines avant la date présumée de l'accouchement et se termine
-dix semaines après la date de celui-ci. Cette période commence huit semaines
-avant la date présumée de l'accouchement et se termine dix-huit semaines après
-la date de celui-ci lorsque, avant l'accouchement, la salariée elle-même ou le
-ménage assume déjà la charge de deux enfants *nombre* au moins dans les
-conditions prévues aux articles L. 519 à L. 529 du code de la sécurité sociale
-ou lorsque la salariée a déjà mis au monde au moins deux enfants nés viables
-*dispositions en faveur du troisième enfant*. La période de huit semaines de
-suspension du contrat de travail antérieure à la date présumée de l'accouchement
-peut être augmentée d'une durée maximale de deux semaines ; la période de
-dix-huit semaines de suspension du contrat de travail postérieure à la date de
-l'accouchement est alors réduite d'autant.
-
-En cas de naissances multiples, la période pendant laquelle la salariée peut
-suspendre le contrat de travail postérieurement à l'accouchement est prolongée
-de deux semaines ; si, du fait de ces naissances, le nombre d'enfants à charge
-ou le nombre d'enfants nés viables mis au monde par la salariée passe de moins
-de deux à trois ou plus, cette période est de vingt-deux semaines.
+dix semaines après la date de celui-ci. Lorsque des naissances multiples sont
+prévues, cette période commence douze semaines avant la date présumée de
+l'accouchement, vingt-quatre semaines en cas de naissance de plus de deux
+enfants et se termine vingt-deux semaines après la date de l'accouchement. En
+cas de naissance de deux enfants, la période antérieure à la date présumée de
+l'accouchement peut être augmentée d'une durée maximale de quatre semaines ; la
+période de vingt-deux semaines postérieure à l'accouchement est alors réduite
+d'autant. Cette période commence huit semaines avant la date présumée de
+l'accouchement et se termine dix-huit semaines après la date de celui-ci
+lorsque, avant l'accouchement, la salariée elle-même ou le ménage assume déjà la
+charge de deux enfants *nombre* au moins dans les conditions prévues aux
+articles L. 519 à L. 529 du code de la sécurité sociale ou lorsque la salariée a
+déjà mis au monde au moins deux enfants nés viables *dispositions en faveur du
+troisième enfant*. La période de huit semaines de suspension du contrat de
+travail antérieure à la date présumée de l'accouchement peut être augmentée
+d'une durée maximale de deux semaines ; la période de dix-huit semaines de
+suspension du contrat de travail postérieure à la date de l'accouchement est
+alors réduite d'autant.
 
 Quand l'accouchement a lieu avant la date présumée *prématuré*, la période de
 suspension du contrat de travail pourra être prolongée jusqu'au terme des seize,
-des dix-huit, des vingt-six ou des vingt-huit semaines de suspension du contrat
-auxquelles la salariée peut avoir droit.
+des vingt-six, des trente-quatre ou des quarante-six semaines de suspension du
+contrat auxquelles la salariée peut avoir droit.
 
 Si un état pathologique attesté par un certificat médical comme résultant de la
 grossesse ou des couches le rend nécessaire, la période de suspension du contrat
@@ -38,11 +39,11 @@ l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
 La salariée, à qui un service départemental d'aide sociale à l'enfance ou une
 oeuvre d'adoption autorisée confie un enfant en vue de son adoption, a le droit
 de suspendre le contrat de travail pendant une période de dix semaines au plus à
-dater de l'arrivée de l'enfant au foyer, douze semaines en cas d'adoptions
-multiples. Cette période est portée à dix-huit semaines, vingt semaines en cas
-d'adoptions multiples, si l'adoption a pour effet de porter à trois ou plus le
-nombre d'enfants dont la salariée ou le ménage assume la charge dans les
-conditions prévues aux articles L. 519 à L. 529 du code de la sécurité sociale.
+dater de l'arrivée de l'enfant au foyer, vingt-deux semaines en cas d'adoptions
+multiples. Cette période est portée à dix-huit semaines si l'adoption a pour
+effet de porter à trois ou plus le nombre d'enfants dont la salariée ou le
+ménage assume la charge dans les conditions prévues aux articles L. 519 à L. 529
+du code de la sécurité sociale.
 
 Toutefois, lorsque les deux conjoints assurés travaillent, ce droit est ouvert
 dans les mêmes conditions à celui qui bénéficie des dispositions de l'article L.
@@ -52,6 +53,12 @@ l'article L. 122-25-2. La période de suspension du contrat de travail peut êtr
 répartie entre la mère et le père salariés, sous réserve qu'elle ne soit pas
 fractionnée en plus de deux parties dont la plus courte ne pourra pas être
 inférieure à quatre semaines.
+
+Les dispositions de l'alinéa précédent sont applicables à la personne salariée
+titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille
+et de l'aide sociale lorsqu'elle adopte ou accueille un enfant en vue de son
+adoption par décision de l'autorité étrangère compétente, à condition que
+l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français.
 
 La femme devra avertir [*obligation*] l'employeur du motif de son absence et de
 la date à laquelle elle entend remettre en vigueur son contrat de travail.

@@ -9,6 +9,14 @@ un plafond fixé par décret et que les enfants dont il assume la charge
 remplissent les conditions d'âge et de nombre qui sont fixées par le même
 décret.
 
+La personne isolée ou chacun des membres d'un couple exerçant une activité
+professionnelle à temps partiel, bénéficiaire de l'allocation parentale
+d'éducation à taux partiel, est affilié obligatoirement à l'assurance vieillesse
+du régime général de sécurité sociale sous réserve que ses ressources ou celles
+du ménage soient inférieures à un plafond fixé par décret et que les enfants
+dont il assume la charge remplissent les conditions d'âge et de nombre qui sont
+fixées par décret.
+
 En outre, est affilié obligatoirement à l'assurance vieillesse du régime général
 de sécurité sociale, pour autant que ses ressources ou celles du ménage ne
 dépassent pas le plafond du complément familial et que cette affiliation ne soit
@@ -25,6 +33,7 @@ l'incapacité permanente est au moins égale au taux ci-dessus rappelé et dont 
 maintien au foyer est reconnu souhaitable par la commission prévue à l'article
 L. 323-11 du code du travail.
 
-Le financement de l'assurance vieillesse des personnes visées ci-dessus est
-assuré par une cotisation à la charge exclusive des organismes débiteurs des
-prestations familiales et calculée sur une assiette forfaitaire.
+Le financement de l'assurance vieillesse des catégories de personnes mentionnées
+par le présent article est assuré par une cotisation à la charge exclusive des
+organismes débiteurs des prestations familiales et calculée sur des assiettes
+forfaitaires.

@@ -41,11 +41,13 @@ b) Provision destinée à compenser en assurance-crédit la perte technique
 fixées à l'article R. 331-33.
 
 7° Provision mathématique des réassurances : provision à constituer par les
-entreprises mentionnées au 5° de l'article L. 310-1 qui acceptent en réassurance
-des risques cédés par des entreprises d'assurance sur la vie ou d'assurance
-nuptialité-natalité et égale à la différence entre les valeurs actuelles des
-engagements respectivement pris l'un envers l'autre par le réassureur et le
-cédant ;
+entreprises mentionnées aux 2° et 3° de l'article L. 310-1 qui acceptent en
+réassurance des risques cédés par des entreprises d'assurance sur la vie ou
+d'assurance nuptialité-natalité et égale à la différence entre les valeurs
+actuelles des engagements respectivement pris l'un envers l'autre par le
+réassureur et le cédant ;
 
-8° Toutes autres provisions techniques qui peuvent être fixées par décrets en
-Conseil d'Etat.
+8° Provision pour risque d'exigibilité des engagements techniques : provision
+destinée à faire face à une insuffisante liquidité des placements, notamment en
+cas de modification du rythme de règlement des sinistres, calculée dans les
+conditions définies au premier alinéa de l'article R. 331-5-1.

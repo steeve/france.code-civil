@@ -2,24 +2,28 @@ Article L331-7
 ----
 L'indemnité journalière de repos est accordée à la femme assurée à qui un
 service départemental d'aide sociale à l'enfance ou une oeuvre d'adoption
-autorisée confie un enfant en vue de son adoption. Elle est due à la condition
-que l'intéressée cesse tout travail salarié durant la période d'indemnisation,
-pendant dix semaines au plus, à compter de l'arrivée de l'enfant au foyer ,
-douze semaines au plus en cas d'adoptions multiples.
+autorisée confie un enfant en vue de son adoption. Cette indemnité est également
+accordée à la personne assurée titulaire de l'agrément mentionné aux articles 63
+ou 100-3 du code de la famille et de l'aide sociale lorsqu'elle adopte ou
+accueille un enfant en vue de son adoption par décision de l'autorité étrangère
+compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer sur
+le territoire français. Elle est due à la condition que l'intéressée cesse tout
+travail salarié durant la période d'indemnisation, pendant dix semaines au plus,
+à compter de l'arrivée de l'enfant au foyer , vingt-deux semaines au plus en cas
+d'adoptions multiples.
 
-La période d'indemnisation est portée à dix-huit semaines, vingt semaines au
-plus en cas d'adoptions multiples, lorsque, du fait de la ou des adoptions,
-l'assurée ou le ménage assume la charge de trois enfants au moins dans les
-conditions prévues à l'article L. 512-4 et aux premier et troisième alinéas de
-l'article L. 521-2.
+La période d'indemnisation est portée à dix-huit semaines lorsque, du fait de
+l'adoption, l'assurée ou le ménage assume la charge de trois enfants au moins
+dans les conditions prévues à l'article L. 512-4 et aux premier et troisième
+alinéas de l'article L. 521-2.
 
 Toutefois, lorsque les deux conjoints assurés sociaux travaillent, l'indemnité
 journalière de repos est accordée, dans les conditions prévues aux alinéas
 précédents, à la mère ou au père adoptif ; l'un des conjoints doit alors avoir
 renoncé à son droit.
 
-La période d'indemnisation prévue aux premier et deuxième alinéas peut faire
-l'objet d'une répartition entre la mère et le père adoptifs lorsque l'un et
-l'autre ont vocation à bénéficier de l'indemnité journalière de repos. La
-période d'indemnisation ne pourra pas être fractionnée en plus de deux parties,
-dont la plus courte ne pourra être inférieure à quatre semaines.
+La période d'indemnisation prévue au présent article peut faire l'objet d'une
+répartition entre la mère et le père adoptifs lorsque l'un et l'autre ont
+vocation à bénéficier de l'indemnité journalière de repos. La période
+d'indemnisation ne pourra pas être fractionnée en plus de deux parties, dont la
+plus courte ne pourra être inférieure à quatre semaines.

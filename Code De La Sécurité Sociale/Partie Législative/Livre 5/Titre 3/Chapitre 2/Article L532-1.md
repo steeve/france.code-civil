@@ -6,10 +6,19 @@ l'allocation parentale d'éducation est attribuée à la personne en assumant la
 charge qui n'exerce plus d'activité professionnelle jusqu'à ce que le plus jeune
 enfant atteigne un âge limite.
 
-L'allocation parentale d'éducation est versée à mi-taux à la personne
-bénéficiaire d'une allocation parentale d'éducation définie au premier alinéa
-qui justifie de l'exercice d'une activité professionnelle ou d'une formation
-professionnelle rémunérée, à temps partiel ; cette allocation est versée au
-titre d'un même enfant pendant une période déterminée précédant la date à
-laquelle celui-ci atteint l'âge limite d'attribution de la prestation mentionnée
-au premier alinéa.
+L'allocation parentale d'éducation est attribuée à taux partiel à la personne
+qui exerce une activité professionnelle ou poursuit une formation
+professionnelle rémunérée, à temps partiel. Son montant varie selon la durée de
+l'activité exercée ou de la formation suivie. Les durées minimale et maximale de
+l'activité ou de la formation sont définies par décret.
+
+L'allocation parentale d'éducation à taux partiel est attribuée au même taux
+pendant une durée minimale déterminée par décret. Il ne peut y avoir révision de
+ce taux au cours de la durée précitée qu'en cas de cessation de l'activité ou de
+la formation.
+
+Les modalités selon lesquelles l'allocation parentale d'éducation à taux partiel
+est attribuée aux personnes visées aux articles L. 751-1 et L. 772-1 du code du
+travail, aux 1°, 4° et 5° de l'article L. 615-1 et à l'article L. 722-1 du
+présent code ainsi qu'aux 2° à 5° de l'article 1060 du code rural sont adaptées
+par décret.

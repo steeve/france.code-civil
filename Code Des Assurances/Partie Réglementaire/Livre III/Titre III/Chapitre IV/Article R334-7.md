@@ -1,9 +1,9 @@
 Article R334-7
 ----
-Le fonds de garantie des entreprises françaises agréées pour pratiquer une ou
-plusieurs des branches mentionnées aux 1 à 17 de l'article R. 321-1 est égal au
-tiers du montant réglementaire de la marge de solvabilité défini à l'article R.
-334-5.
+Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées
+pour pratiquer une ou plusieurs des branches mentionnées aux 1 à 17 de l'article
+R. 321-1 est égal au tiers du montant réglementaire de la marge de solvabilité
+défini à l'article R. 334-5.
 
 Ce fonds ne peut être inférieur au montant minimal suivant :
 
@@ -19,10 +19,11 @@ l'entreprise est agréée pour pratiquer des opérations entrant dans une branch
 mentionnée aux 10 à 13 et au 15 de l'article R. 321-1. Il en est de même pour
 les opérations entrant dans la branche 14 lorsque les entreprises ne sont pas
 soumises à l'obligation ci-dessus définie de constituer un fonds de garantie de
-1 400 000 unités de compte de la Communauté économique européenne. - 300.000
-unités de compte de la Communauté économique européenne, lorsque l'entreprise
-est agréée pour pratiquer des opérations entrant dans une branche mentionnée aux
-1 à 8, 16 à 18 du même article ;
+1 400 000 unités de compte de la Communauté économique européenne.
+
+- 300.000 unités de compte de la Communauté économique européenne, lorsque
+l'entreprise est agréée pour pratiquer des opérations entrant dans une branche
+mentionnée aux 1 à 8, 16 à 18 du même article ;
 
 - 200.000 unités de compte de la Communauté économique européenne, lorsque
 l'entreprise est agréée pour pratiquer des opérations entrant dans une branche

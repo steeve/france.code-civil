@@ -20,8 +20,9 @@ médical ;
 affection non inscrite sur la liste mentionnée ci-dessus, et comportant un
 traitement prolongé et une thérapeutique particulièrement coûteuse ;
 
-5°) lorsque l'assuré est titulaire de l'allocation supplémentaire du fonds
-national de solidarité au titre d'un avantage vieillesse ;
+5°) lorsque l'assuré est titulaire de l'allocation supplémentaire mentionnée à
+l'article L. 815-2 ou à l'article L. 815-3 du code de la sécurité sociale au
+titre d'un avantage vieillesse ;
 
 6°) lorsque le bénéficiaire est un enfant ou adolescent handicapé pour les frais
 couverts au titre du 2° de l'article L. 321-1 ;
@@ -41,7 +42,9 @@ mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 ;
 quatre mois avant la date présumée de l'accouchement et se termine à la date où
 l'accouchement a lieu ;
 
-11°) pour l'hospitalisation des nouveau-nés jusqu'à un âge fixé par décret en
+11°) Pour l'hospitalisation des nouveau-nés lorsqu'elle se produit pendant une
+période fixée par décret en Conseil d'Etat, ainsi que pour tous les soins qui
+leur sont dispensés en établissement de santé, jusqu'à un âge fixé par décret en
 Conseil d'Etat ;
 
 12°) pour les investigations nécessaires au diagnostic de la stérilité et pour

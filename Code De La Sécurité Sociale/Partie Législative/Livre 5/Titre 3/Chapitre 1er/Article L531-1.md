@@ -13,7 +13,6 @@ un plafond.
 
 L'allocation mentionnée à l'alinéa précédent ne peut se cumuler avec une
 allocation de même nature que, pour les enfants issus de naissances multiples
-simultanées, pour une durée déterminée et dans la limite du nombre d'allocations
-pour jeune enfant dues pour ces enfants. Elle peut se cumuler avec toute
-allocation pour jeune enfant servie sans condition de ressources pour chaque
-enfant de rang suivant.
+simultanées, dans la limite du nombre d'allocations pour jeune enfant dues pour
+ces enfants. Elle peut se cumuler avec toute allocation pour jeune enfant servie
+sans condition de ressources pour chaque enfant de rang suivant.

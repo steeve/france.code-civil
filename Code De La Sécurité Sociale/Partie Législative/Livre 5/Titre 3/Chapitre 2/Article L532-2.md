@@ -5,7 +5,7 @@ activité professionnelle suffisante pour ouvrir des droits à pension de retrai
 dans un régime de base.
 
 Cette activité doit avoir été exercée pendant une durée minimale au cours d'une
-période de référence précédant :
+période de référence, fonction du nombre d'enfants à charge, précédant :
 
 1° Soit la naissance, l'adoption ou l'accueil de l'enfant ou la demande
 d'allocation parentale d'éducation, si elle est postérieure ;
@@ -14,4 +14,4 @@ d'allocation parentale d'éducation, si elle est postérieure ;
 
 La détermination des situations qui sont assimilées à de l'activité
 professionnelle et leurs modalités de prise en compte sont fixées par voie
-réglementaire.
+réglementaire. Elles peuvent varier selon le rang de l'enfant.

@@ -5,8 +5,11 @@ l'allocataire n'en conteste pas le caractère indu, être récupéré par retenu
 sur les prestations à venir ou par remboursement intégral de la dette en un seul
 versement si l'allocataire opte pour cette solution.
 
-Les retenues mentionnées au premier alinéa ne peuvent dépasser un pourcentage
-déterminé.
+Dans des conditions définies par décret, les retenues mentionnées au premier
+alinéa sont déterminées en fonction de la composition de la famille, de ses
+ressources, des charges de logement, des prestations servies par les organismes
+débiteurs de prestations familiales, à l'exception de celles précisées par
+décret.
 
 Les mêmes règles sont applicables en cas de non-remboursement d'un prêt
 subventionné ou consenti à quelque titre que ce soit par un organisme de

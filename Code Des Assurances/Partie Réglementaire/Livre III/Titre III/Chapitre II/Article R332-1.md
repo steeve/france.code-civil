@@ -6,8 +6,8 @@ Article R332-1
 2. Les engagements pris dans une monnaie doivent être couverts par des actifs
 congruents, c'est-à-dire libellés ou réalisables dans cette monnaie.
 
-3. Les actifs mentionnés au 1 doivent être localisés sur le territoire de la
-République française.
+3. Les actifs mentionnés au 1 doivent être localisés sur le territoire d'un Etat
+membre de la Communauté européenne.
 
 Toutefois, les engagements pris dans le cadre de la coassurance communautaire,
 en exécution des dispositions de l'article L. 352-1, par une entreprise

@@ -9,9 +9,3 @@ de travail professionnelle, de décès accidentel ou d'invalidité à la suite
 d'accident ou de maladie. Dans ce cas, le contrat doit préciser que ces
 garanties complémentaires prennent fin au plus tard en même temps que la
 garantie principale.
-
-Les demandes de visa des tarifs d'assurance sur la vie comportant les assurances
-complémentaires contre les risques mentionnés au premier alinéa, que les
-entreprises sont tenues de présenter conformément à l'article R. 310-6, doivent
-être accompagnées des justifications techniques relatives à ces garanties
-accessoires.

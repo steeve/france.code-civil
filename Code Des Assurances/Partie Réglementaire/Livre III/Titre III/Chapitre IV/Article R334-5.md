@@ -1,10 +1,10 @@
 Article R334-5
 ----
-Pour les entreprises françaises, le montant réglementaire de la marge de
-solvabilité est déterminé, soit par rapport au montant annuel des primes ou
-cotisations, soit par rapport à la charge moyenne annuelle des sinistres. Ce
-montant réglementaire est égal au plus élevé des résultats obtenus par
-application des deux méthodes suivantes :
+Pour les entreprises visées au 1° de l'article L. 310-2, le montant
+réglementaire de la marge de solvabilité est déterminé, soit par rapport au
+montant annuel des primes ou cotisations, soit par rapport à la charge moyenne
+annuelle des sinistres. Ce montant réglementaire est égal au plus élevé des
+résultats obtenus par application des deux méthodes suivantes :
 
 a) Première méthode (calcul par rapport aux primes).
 

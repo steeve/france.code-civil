@@ -17,10 +17,16 @@ institué par le présent chapitre qui remplissent les conditions de collaborati
 professionnelle définie par le décret prévu à l'article précédent bénéficient
 des allocations prévues par le présent article.
 
-Les femmes mentionnées aux premier et troisième alinéas bénéficient à l'occasion
-de l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un
-service d'aide sociale à l'enfance, ou par une oeuvre d'adoption autorisée, des
-allocations prévues par le présent article, dans les conditions suivantes :
+Les femmes mentionnées aux premier et troisième alinéas bénéficient des
+allocations prévues par le présent article, à l'occasion de l'arrivée de leur
+foyer d'un enfant confié en vue de son adoption par un service d'aide sociale à
+l'enfance ou par une oeuvre d'adoption autorisée. Ces allocations sont également
+accordées aux femmes titulaires de l'agrément mentionné aux articles 63 ou 100-3
+du code de la famille et de l'aide sociale lorsqu'elles adoptent ou accueillent
+un enfant en vue de son adoption par décision de l'autorité étrangère
+compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer sur
+le territoire français. Les allocations sont servies dans les conditions
+suivantes :
 
 1° L'allocation forfaitaire prévue au premier alinéa est due pour sa moitié ;
 
