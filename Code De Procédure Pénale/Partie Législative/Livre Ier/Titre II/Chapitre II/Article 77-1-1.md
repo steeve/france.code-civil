@@ -12,3 +12,5 @@ Lorsque les réquisitions concernent des personnes mentionnées aux articles 56-
 
 En cas d'absence de réponse de la personne aux réquisitions, les dispositions du
 second alinéa de l'article 60-1 sont applicables.
+
+Le dernier alinéa de l'article 60-1 est également applicable.
