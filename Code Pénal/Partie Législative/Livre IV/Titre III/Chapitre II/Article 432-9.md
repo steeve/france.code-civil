@@ -5,7 +5,7 @@ mission de service public, agissant dans l'exercice ou à l'occasion de
 l'exercice de ses fonctions ou de sa mission, d'ordonner, de commettre ou de
 faciliter, hors les cas prévus par la loi, le détournement, la suppression ou
 l'ouverture de correspondances ou la révélation du contenu de ces
-correspondances, est puni de trois ans d'emprisonnement et de 300 000 F
+correspondances, est puni de trois ans d'emprisonnement et de 45000 euros
 d'amende.
 
 Est puni des mêmes peines le fait, par une personne visée à l'alinéa précédent

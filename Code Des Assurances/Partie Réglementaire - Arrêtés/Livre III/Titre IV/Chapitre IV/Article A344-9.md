@@ -7,5 +7,3 @@ directoire pour être soumis à l'assemblée générale ou, pour une succursale
 d'entreprise étrangère, par le mandataire général à destination du siège social.
 Ils sont établis dans la forme prévue à l'article A. 344-3 et complétés par les
 informations énumérées à l'annexe au présent article.
-
-(annexe non reproduite, voir au Journal officiel).

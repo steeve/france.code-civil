@@ -4,8 +4,8 @@ I. - Le fait d'exploiter un établissement d'enseignement de la conduite des
 véhicules à moteur d'une catégorie donnée et de la sécurité routière ou de
 formation des candidats pour l'exercice de la profession d'enseignant sans avoir
 obtenu l'agrément prévu à l'article L. 213-1 ou en violation d'une mesure de
-suspension provisoire de celui-ci est puni d'un an d'emprisonnement et de 100
-000 F d'amende.
+suspension provisoire de celui-ci est puni d'un an d'emprisonnement et de 15 000
+euros d'amende.
 
 Est puni des mêmes peines le fait d'employer un enseignant qui n'est pas
 titulaire de l'autorisation prévue à l'article L. 212-1.

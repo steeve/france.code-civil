@@ -1,8 +1,8 @@
 Article L1343-4
 ----
-Est puni de 25 000 F d'amende le fait pour un fabricant, importateur ou vendeur
-de substances ou préparations dangereuses de ne pas respecter les dispositions
-des articles L. 1342-1 et L. 1342-3 relatives :
+Est puni de 3750 euros d'amende le fait pour un fabricant, importateur ou
+vendeur de substances ou préparations dangereuses de ne pas respecter les
+dispositions des articles L. 1342-1 et L. 1342-3 relatives :
 
 1° Aux informations nécessaires devant être fournies sur ces produits ;
 

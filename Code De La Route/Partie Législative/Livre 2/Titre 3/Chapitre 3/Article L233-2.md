@@ -2,7 +2,7 @@ Article L233-2
 ----
 I. - Le fait pour tout conducteur de refuser de se soumettre à toutes
 vérifications prescrites concernant son véhicule ou sa personne est puni de
-trois mois d'emprisonnement et de 25 000 F d'amende.
+trois mois d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

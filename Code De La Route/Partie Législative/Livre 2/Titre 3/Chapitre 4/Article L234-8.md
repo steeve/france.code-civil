@@ -1,8 +1,8 @@
 Article L234-8
 ----
 I. - Le fait de refuser de se soumettre aux vérifications prévues par les
-articles L. 234-4 à L. 234-6 est puni de deux ans d'emprisonnement et de 30 000
-F d'amende.
+articles L. 234-4 à L. 234-6 est puni de deux ans d'emprisonnement et de 4 500
+euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

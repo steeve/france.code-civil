@@ -1,7 +1,7 @@
 Article 225-2
 ----
 La discrimination définie à l'article 225-1, commise à l'égard d'une personne
-physique ou morale, est punie de deux ans d'emprisonnement et de 200 000 F
+physique ou morale, est punie de deux ans d'emprisonnement et de 30000 euros
 d'amende lorsqu'elle consiste :
 
 1° A refuser la fourniture d'un bien ou d'un service ;

@@ -6,22 +6,22 @@ les casinos des stations balnéaires, thermales et climatiques s'établit, aprè
 abattement institué par le décret du 28 juillet 1934 portant modification du
 régime fiscal des casinos, comme suit :
 
-10 % jusqu'à 380 000 F ;
+10 % jusqu'à 58 000 Euro ;
 
-15 % de 380 001 F à 750 000 F ;
+15 % de 58 001 à 114 000 Euro ;
 
-25 % de 750 001 F à 2 220 000 F ;
+25 % de 114 001 à 338 000 Euro ;
 
-35 % de 2 220 001 F à 4 125 000 F ;
+35 % de 338 001 à 629 000 Euro ;
 
-45 % de 4 125 001 F à 6 875 000 F ;
+45 % de 629 001 à 1 048 000 Euro ;
 
-55 % de 6 875 001 F à 20 625 000 F ;
+55 % de 1 048 001 à 3 144 000 Euro ;
 
-60 % de 20 625 001 F à 34 375 000 F ;
+60 % de 3 144 001 à 5 240 000 Euro ;
 
-65 % de 34 375 001 F à 48 125 000 F ;
+65 % de 5 240 001 à 7 337 000 Euro ;
 
-70 % de 48 125 001 F à 61 875 000 F ;
+70 % de 7 337 001 à 9 433 000 Euro ;
 
-80 % au-delà de 61 875 000 F.
+80 % au-delà de 9 433 000 Euro.

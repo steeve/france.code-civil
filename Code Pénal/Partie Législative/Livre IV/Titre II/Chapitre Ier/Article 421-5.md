@@ -1,7 +1,7 @@
 Article 421-5
 ----
 Les actes de terrorisme définis aux articles 421-2-1 et 421-2-2 sont punis de
-dix ans d'emprisonnement et de [*taux*] 1 500 000 F d'amende.
+dix ans d'emprisonnement et de 225000 euros d'amende.
 
 La tentative du délit défini à l'article 421-2-2 est punie des mêmes peines.
 

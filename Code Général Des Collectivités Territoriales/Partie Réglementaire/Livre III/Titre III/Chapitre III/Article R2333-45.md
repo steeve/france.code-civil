@@ -8,12 +8,12 @@ autres établissements de caractéristiques équivalentes : entre 4 et 7 F par j
 et par personne ;
 
 - hôtels de tourisme 3 étoiles, meublés de 1er catégorie et tous autres
-établissements de caractéristiques équivalentes : entre 3 et 6 F par jour et par
-personne ;
+établissements de caractéristiques équivalentes : entre 3 F et 0,92 euro par
+jour et par personne ;
 
 - hôtels de tourisme 2 étoiles, meublés de 2e catégorie, villages de vacances de
 catégorie grand confort et tous autres établissements de caractéristiques
-équivalentes : entre 2 et 5 F par jour et par personne ;
+équivalentes : entre 0,31 et 0,77 euro par jour et par personne ;
 
 - hôtels de tourisme 1 étoile, meublés de 3e catégorie, villages de vacances de
 catégorie confort et tous autres établissements de caractéristiques équivalentes
@@ -21,7 +21,7 @@ catégorie confort et tous autres établissements de caractéristiques équivale
 
 - hôtels de tourisme classés sans étoile, meublés de 4e catégorie, parcs
 résidentiels de loisirs et tous autres établissements de caractéristiques
-équivalentes : entre 1 et 2 F par jour et par personne ;
+équivalentes : entre 1 F et 0 31 euro par jour et par personne ;
 
 - terrains de camping et terrains de caravanage classés en 2 étoiles ou dans une
 catégorie similaire ou inférieure, et tout autre terrain d'hébergement de plein

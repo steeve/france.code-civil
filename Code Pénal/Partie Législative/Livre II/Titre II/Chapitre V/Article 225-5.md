@@ -12,5 +12,5 @@ recevoir des subsides d'une personne se livrant habituellement à la prostitutio
 prostitution ou d'exercer sur elle une pression pour qu'elle se prostitue ou
 continue à le faire.
 
-Le proxénétisme est puni de sept ans d'emprisonnement et de [*taux*] 1 000 000 F
+Le proxénétisme est puni de sept ans d'emprisonnement et de 150000 euros
 d'amende.

@@ -26,8 +26,8 @@ contribuable a disposé pour les besoins de son activité professionnelle pendan
 la période de référence définie au 1° a (2).
 
 Les éléments servant à la détermination des bases de la taxe professionnelle et
-des taxes additionnelles sont arrondis au franc ou à l'euro le plus proche. La
-fraction de franc ou d'euro égale à 0,50 est comptée pour 1.
+des taxes additionnelles sont arrondis à l'euro le plus proche. La fraction
+d'euro égale à 0,50 est comptée pour 1.
 
 (1) Cet alinéa sera abrogé à compter des impositions établies au titre de 2003.
 

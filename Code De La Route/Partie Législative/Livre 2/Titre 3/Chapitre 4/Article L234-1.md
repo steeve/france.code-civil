@@ -4,7 +4,7 @@ I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire u
 véhicule sous l'empire d'un état alcoolique caractérisé par une concentration
 d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par une
 concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme
-par litre est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+par litre est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des
 mêmes peines.

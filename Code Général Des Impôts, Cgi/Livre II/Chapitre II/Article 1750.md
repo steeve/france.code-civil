@@ -11,5 +11,5 @@ l'interdiction ou de la suspension ne peut excéder trois ans ; cette durée
 pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
 faire usage de son permis de conduire pour l'exercice d'une activité
 professionnelle Quiconque contreviendra aux interdictions prévues à l'alinéa
-précédent sera puni d'un emprisonnement de deux ans et d'une amende de 120 000 F
-ou de l'une de ces deux peines seulement.
+précédent sera puni d'un emprisonnement de deux ans et d'une amende de 18 000
+euros ou de l'une de ces deux peines seulement.

@@ -10,11 +10,11 @@ règles suivantes :
 a) Intervention limitée aux négociations amiables et à la représentation de
 l'acquéreur dans les contrats consécutifs à ces pourparlers :
 
-0,65 % jusqu'à 100000 F ;
+0,65 % jusqu'à 15 000 euros ;
 
-0,50 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+0,50 % pour la tranche comprise entre 15 000,01 euros et 300 000 euros ;
 
-0,25 % pour la tranche supérieure à 2 millions de francs.
+0,25 % pour la tranche supérieure à 300 000 euros.
 
 Ces taux sont appliqués au montant des prix ou indemnités versés, en application
 des accords amiables conclus, à chaque propriétaire ou ayant droit intéressé.
@@ -22,11 +22,11 @@ des accords amiables conclus, à chaque propriétaire ou ayant droit intéressé
 b) Intervention portant également sur l'action devant les juridictions
 d'expropriations :
 
-1,25 % jusqu'à 100000 F ;
+1,25 % jusqu'à 15000 euros ;
 
-1 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+1 % pour la tranche comprise entre 15 000,01 euros et 300 000 euros ;
 
-0,50 % pour la tranche supérieure à 2 millions de francs.
+0,50 % pour la tranche supérieure à 300 000 euros.
 
 Ces taux sont appliqués au montant des indemnités définitives allouées à chaque
 ayant droit par la juridiction ou au montant des sommes versées à chaque

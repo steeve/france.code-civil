@@ -40,15 +40,15 @@ s'appliquent.
 A défaut de pouvoir réaliser l'obligation prévue au quatrième alinéa, le
 pétitionnaire peut être tenu de verser à la commune une participation fixée par
 le conseil municipal, en vue de la réalisation de parcs publics de
-stationnement. Le montant de cette participation ne peut excéder 80 000 F par
-place de stationnement. Cette valeur, fixée à la date de promulgation de la loi
-n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
-urbains, est modifiée au 1er novembre de chaque année en fonction de l'indice du
-coût de la construction publié par l'Institut national de la statistique et des
-études économiques.
+stationnement. Le montant de cette participation ne peut excéder 12 195 euros
+par place de stationnement. Cette valeur, fixée à la date de promulgation de la
+loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au
+renouvellement urbains, est modifiée au 1er novembre de chaque année en fonction
+de l'indice du coût de la construction publié par l'Institut national de la
+statistique et des études économiques.
 
-Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième
-et cinquième alinéa du présent article et précise notamment les modalités
+Un décret en Conseil d'Etat détermine les conditions d'application des quatrième
+et cinquième alinéas du présent article et précise notamment les modalités
 d'établissement, de liquidation et de recouvrement de la participation prévue au
 quatrième alinéa, ainsi que les sanctions et garanties y afférentes.
 

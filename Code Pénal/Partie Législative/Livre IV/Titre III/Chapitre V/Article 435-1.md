@@ -3,7 +3,7 @@ Article 435-1
 Pour l'application de la convention relative à la lutte contre la corruption
 impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires
 des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, est
-puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait par un
+puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait par un
 fonctionnaire communautaire ou un fonctionnaire national d'un autre Etat membre
 de l'Union européenne ou par un membre de la Commission des Communautés
 européennes, du Parlement européen, de la Cour de justice et de la Cour des

@@ -6,9 +6,9 @@ immobilières dont la réalisation est poursuivie par les établissements public
 nationaux à caractère industriel ou commercial dans le cadre de leurs activités
 d'entreprise publique :
 
-1° Projets visés à l'article R. 10 (1°) : 325000 F ;
+1° Projets visés à l'article R. 10 (1°) : 49 546 euros.
 
-2° Projets visés à l'article R. 10 (2°) : 3250000 F.
+2° Projets visés à l'article R. 10 (2°) : 495 460 euros.
 
 Ces dispositions ne s'appliquent pas lorsque les établissements susvisés :
 

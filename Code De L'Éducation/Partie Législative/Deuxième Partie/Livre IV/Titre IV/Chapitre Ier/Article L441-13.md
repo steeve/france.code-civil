@@ -2,7 +2,7 @@ Article L441-13
 ----
 Le fait d'ouvrir ou de diriger un établissement d'enseignement technique privé
 sans remplir les conditions prescrites par les articles L. 911-5 et L. 914-5 et
-par la présente section est puni de [*taux*] 25 000 F d'amende.
+par la présente section est puni de [*taux*] 3750 euros d'amende.
 
 L'établissement sera fermé.
 

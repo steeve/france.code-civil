@@ -1,6 +1,6 @@
 Article 312-2
 ----
-L'extorsion est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
+L'extorsion est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 
 1° Lorsqu'elle est précédée, accompagnée ou suivie de violences sur autrui ayant
 entraîné une incapacité totale de travail pendant huit jours au plus ;

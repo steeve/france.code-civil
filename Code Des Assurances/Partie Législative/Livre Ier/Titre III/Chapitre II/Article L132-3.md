@@ -12,7 +12,7 @@ police ou du représentant de l'incapable.
 Les primes payées doivent être intégralement restituées.
 
 L'assureur et le souscripteur sont en outre passibles, pour chaque assurance
-conclue sciemment en violation de cette interdiction, d'une amende de 30.000 F
+conclue sciemment en violation de cette interdiction, d'une amende de 4500 euros
 [*sanctions*].
 
 Ces dispositions ne mettent point obstacle dans l'assurance en cas de décès, au

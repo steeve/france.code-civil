@@ -5,7 +5,7 @@ au troisième alinéa de l'article L. 211-11 ou au troisième alinéa de l'artic
 L. 211-29, d'importer ou d'introduire sur le territoire métropolitain, dans les
 départements d'outre-mer et dans la collectivité territoriale de
 Saint-Pierre-et-Miquelon des chiens de la première catégorie mentionnée à
-l'article L. 211-12 est puni de six mois d'emprisonnement et de 100 000 F
+l'article L. 211-12 est puni de six mois d'emprisonnement et de 15 000 euros
 d'amende.
 
 Le fait de détenir un chien de la première catégorie sans avoir fait procéder à

@@ -7,7 +7,7 @@ céréales contenues dans les aliments acquis par les producteurs-éleveurs pour
 nourriture animale.
 
 Le taux de cette cotisation est fixé par décret pour chaque campagne, dans la
-limite d'un montant de 0,65 F par quintal.
+limite d'un montant de 0,1 € par quintal.
 
 La cotisation est perçue auprès des collecteurs agréés par les services de
 l'Etat.

@@ -1,6 +1,6 @@
 Article L215-10
 ----
-Est puni de 50 000 F d'amende :
+Est puni de 7 500 euros d'amende :
 
 1° Le fait, pour toute personne gérant un refuge ou une fourrière ou exerçant
 l'une des activités visées à l'article L. 214-6, en méconnaissance d'une mise en

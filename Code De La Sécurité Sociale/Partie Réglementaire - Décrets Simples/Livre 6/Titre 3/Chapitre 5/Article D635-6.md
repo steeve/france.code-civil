@@ -5,8 +5,7 @@ Le taux de la cotisation annuelle d'assurance vieillesse complémentaire est fix
 à compter du 1er janvier 1999 à 5,70 % et à compter du 1er janvier 2000 à 6 % du
 revenu mentionné aux articles D. 635-4 et D. 635-5.
 
-La cotisation annuelle ainsi déterminée est arrondie au multiple de deux francs
-le plus voisin.
+La cotisation annuelle ainsi déterminée est arrondie à l'euro le plus proche.
 
 Elle est répartie en deux fractions semestrielles d'égal montant exigibles des
 assurés et payables par eux, aux mêmes dates et conditions que celles

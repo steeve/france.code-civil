@@ -1,7 +1,7 @@
 Article L243-5
 ----
-Dès lors qu'elles dépassent 80 000 F, les sommes privilégiées en application du
-premier alinéa de l'article L. 243-4 dues par un commerçant ou une personne
+Dès lors qu'elles dépassent 12 000 euros, les sommes privilégiées en application
+du premier alinéa de l'article L. 243-4 dues par un commerçant ou une personne
 morale de droit privé même non commerçante doivent être inscrites à un registre
 public tenu au greffe du tribunal de commerce ou du tribunal de grande instance
 dans le délai de trois mois suivant leur date limite de paiement ou, le cas

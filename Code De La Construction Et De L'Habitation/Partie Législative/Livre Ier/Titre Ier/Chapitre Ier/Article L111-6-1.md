@@ -22,7 +22,7 @@ d'habitation ou à usage professionnel ou commercial et d'habitation dont le
 contrôle exercé par la commission de sécurité a donné lieu à un avis défavorable
 de l'autorité compétente ou à des prescriptions qui n'ont pas été exécutées.
 
-Sont punies d'un emprisonnement de deux ans et d'une amende de 500 000 F les
+Sont punies d'un emprisonnement de deux ans et d'une amende de 75 000 euros les
 personnes qui mettent en vente, en location ou à la disposition d'autrui des
 locaux destinés à l'habitation et provenant d'une division réalisée en
 méconnaissance des interdictions définies au présent article.

@@ -3,19 +3,19 @@ Article L173-3
 Ainsi qu'il est dit à l'article L. 321-11 du code de l'environnement ci-après
 reproduit :
 
-A la demande de la majorité des communes ou des groupements de communes
-compétents en matière d'aménagement, d'urbanisme ou d'environnement d'une île
-maritime reliée au continent par un ouvrage d'art, le conseil général peut
-instituer un droit départemental de passage dû par les passagers de chaque
+" Art.L. 321-11-A la demande de la majorité des communes ou des groupements de
+communes compétents en matière d'aménagement, d'urbanisme ou d'environnement
+d'une île maritime reliée au continent par un ouvrage d'art, le conseil général
+peut instituer un droit départemental de passage dû par les passagers de chaque
 véhicule terrestre à moteur empruntant cet ouvrage entre le continent et l'île.
 
 Le droit mentionné au premier alinéa est établi et recouvré au profit du
 département. Il peut être perçu par l'exploitant de l'ouvrage en vue du
 reversement au département.
 
-Le montant de ce droit, qui ne peut excéder 20 F par véhicule, est fixé par le
-conseil général après accord avec la majorité des communes et groupements de
-communes mentionnés au premier alinéa.
+Le montant de ce droit, qui ne peut excéder 3, 05 euros par véhicule, est fixé
+par le conseil général après accord avec la majorité des communes et groupements
+de communes mentionnés au premier alinéa.
 
 La délibération du conseil général peut prévoir des tarifs différents ou la
 gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une
@@ -35,4 +35,4 @@ est transféré au budget des communes et groupements de communes concernés dan
 le cadre de la convention précitée.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent
-article.
+article. "

@@ -1,8 +1,8 @@
 Article L529-2
 ----
-Est puni d'une amende de 120000 F tout administrateur d'une société coopérative
-agricole ou tout mandataire d'une telle société au conseil d'administration
-d'une union de coopératives :
+Est puni d'une amende de 18000 euros tout administrateur d'une société
+coopérative agricole ou tout mandataire d'une telle société au conseil
+d'administration d'une union de coopératives :
 
 1° Qui n'a ni la nationalité française, ni celle d'un Etat membre de la
 Communauté économique européenne, ni celle d'un pays avec lequel existe un

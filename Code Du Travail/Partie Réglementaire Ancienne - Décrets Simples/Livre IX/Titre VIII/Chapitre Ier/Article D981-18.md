@@ -21,7 +21,7 @@ du jeune à l'extérieur de l'entreprise.
 
 Les dépenses prises en charge comprennent exclusivement les rémunérations et
 charges sociales légales et conventionnelles ainsi que les frais de transport.
-Elles sont financées dans la limite d'un plafond de 1 500 F par mois et par
+Elles sont financées dans la limite d'un plafond de 230 euros par mois et par
 jeune, pendant une durée maximale de six mois.
 
 La prise en charge par les organismes collecteurs mentionnés au premier alinéa,

@@ -2,8 +2,8 @@ Article A39
 ----
 I. - Les redevances domaniales fixes dont le montant annuel, déterminé
 préalablement à l'octroi d'une autorisation temporaire d'occupation du domaine
-public, n'excède pas 500 F sont acquittées d'avance soit pour toute la durée de
-la concession lorsque cette durée n'excède pas cinq ans, soit par périodes
+public, n'excède pas 76 euros sont acquittées d'avance soit pour toute la durée
+de la concession lorsque cette durée n'excède pas cinq ans, soit par périodes
 triennales dans le cas contraire.
 
 II. - Le paiement de la redevance, s'il intervient en une seule fois, ou celui

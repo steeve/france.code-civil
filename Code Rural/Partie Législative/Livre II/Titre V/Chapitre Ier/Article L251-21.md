@@ -1,10 +1,10 @@
 Article L251-21
 ----
-I. - Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de
+I. - Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de
 mettre obstacle à l'exercice des fonctions des agents mentionnés à l'article L.
 251-2.
 
-II. - Est puni de six mois d'emprisonnement et de 200 000 F d'amende :
+II. - Est puni de six mois d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le non-respect par les opérateurs de leurs obligations mentionnées au IV de
 l'article L. 251-1 ;

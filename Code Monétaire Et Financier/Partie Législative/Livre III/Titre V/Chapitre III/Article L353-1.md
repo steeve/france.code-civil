@@ -1,8 +1,8 @@
 Article L353-1
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende de trois cent mille
-francs, le fait, pour toute personne, de méconnaître les obligations prévues aux
-articles L. 341-1 et L. 341-2 portant sur des opérations de banque.
+Est puni d'un emprisonnement de deux ans et d'une amende de 45000 euros, le
+fait, pour toute personne, de méconnaître les obligations prévues aux articles
+L. 341-1 et L. 341-2 portant sur des opérations de banque.
 
 Le tribunal peut, en outre, prononcer la fermeture, provisoire ou définitive, de
 l'entreprise dont l'une des personnes chargées de l'administration ou de la

@@ -2,8 +2,8 @@ Article 435-3
 ----
 Pour l'application de la convention sur la lutte contre la corruption d'agents
 publics étrangers dans les transactions commerciales internationales signée à
-Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 1 000 000
-F d'amende le fait de proposer sans droit, à tout moment, directement ou
+Paris le 17 décembre 1997, est puni de dix ans d'emprisonnement et de 150000
+euros d'amende le fait de proposer sans droit, à tout moment, directement ou
 indirectement, des offres, des promesses, des dons, des présents ou des
 avantages quelconques pour obtenir d'une personne dépositaire de l'autorité
 publique, chargée d'une mission de service public, ou investie d'un mandat

@@ -1,10 +1,9 @@
 Article L213-1
 ----
-Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 250 000 F
-au plus ou de l'une de ces deux peines seulement [*sanctions pénales*]
-quiconque, qu'il soit ou non partie au contrat, aura trompé ou tenté de tromper
-le contractant, par quelque moyen en procédé que ce soit, même par
-l'intermédiaire d'un tiers :
+Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 37 500
+euros au plus ou de l'une de ces deux peines seulement quiconque, qu'il soit ou
+non partie au contrat, aura trompé ou tenté de tromper le contractant, par
+quelque moyen ou procédé que ce soit, même par l'intermédiaire d'un tiers :
 
 1° Soit sur la nature, l'espèce, l'origine, les qualités substantielles, la
 composition ou la teneur en principes utiles de toutes marchandises ;

@@ -48,4 +48,4 @@ alimentaire.
 Ces seuils et correctifs sont révisés annuellement par décret en fonction de
 l'évolution de l'indice des prix à la consommation des ménages urbains tel qu'il
 est fixé au mois d'août de l'année précédente dans la série France-entière. Ils
-sont arrondis à la centaine de francs supérieure.
+sont arrondis à la dizaine d'euros supérieure.

@@ -1,6 +1,6 @@
 Article 313-2
 ----
-Les peines sont portées à sept ans d'emprisonnement et à 5 000 000 F d'amende
+Les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende
 lorsque l'escroquerie est réalisée :
 
 1° Par une personne dépositaire de l'autorité publique ou chargée d'une mission

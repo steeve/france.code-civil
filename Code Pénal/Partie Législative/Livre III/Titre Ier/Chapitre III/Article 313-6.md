@@ -2,8 +2,9 @@ Article 313-6
 ----
 Le fait, dans une adjudication publique, par dons, promesses, ententes ou tout
 autre moyen frauduleux, d'écarter un enchérisseur ou de limiter les enchères ou
-les soumissions, est puni de six mois d'emprisonnement et de 150 000 F d'amende.
-Est puni des mêmes peines le fait d'accepter de tels dons ou promesses.
+les soumissions, est puni de six mois d'emprisonnement et de 22 500 euros
+d'amende. Est puni des mêmes peines le fait d'accepter de tels dons ou
+promesses.
 
 Est puni des mêmes peines :
 

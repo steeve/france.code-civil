@@ -1,6 +1,6 @@
 Article 433-18
 ----
-Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait, par le
+Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait, par le
 fondateur ou le dirigeant de droit ou de fait d'une entreprise qui poursuit un
 but lucratif, de faire figurer ou de laisser figurer, dans une publicité
 réalisée dans l'intérêt de l'entreprise qu'il se propose de fonder ou qu'il

@@ -1,7 +1,7 @@
 Article 222-28
 ----
 L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement
-et de 700 000 F d'amende :
+et de 100000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 

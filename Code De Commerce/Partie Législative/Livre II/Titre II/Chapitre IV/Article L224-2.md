@@ -1,7 +1,8 @@
 Article L224-2
 ----
-Le capital social doit être de 1 500 000 F au moins si la société fait
-publiquement appel à l'épargne et de 250 000 F au moins dans le cas contraire.
+Le capital social doit être de 225 000 euros au moins si la société fait
+publiquement appel à l'épargne et de 37 000 euros au moins dans le cas
+contraire.
 
 La réduction du capital social à un montant inférieur ne peut être décidée que
 sous la condition suspensive d'une augmentation de capital destinée à amener
@@ -13,5 +14,5 @@ prononcée si, au jour où le tribunal statue sur le fond, la régularisation a 
 lieu.
 
 Par dérogation au premier alinéa, le capital des sociétés de rédacteurs de
-presse est de 2 000 F au moins lorsqu'elles sont constituées sous la forme de
+presse est de 300 euros au moins lorsqu'elles sont constituées sous la forme de
 société anonyme.

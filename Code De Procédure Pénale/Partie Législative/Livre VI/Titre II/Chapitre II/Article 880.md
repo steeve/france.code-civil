@@ -12,4 +12,4 @@ choisie, qui en est informée par l'officier de police judiciaire.
 Le fait pour une personne qui a été appelée à intervenir dans les conditions
 prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien
 dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement
-et de 100 000 F d'amende.
+et de 15 000 euros d'amende.

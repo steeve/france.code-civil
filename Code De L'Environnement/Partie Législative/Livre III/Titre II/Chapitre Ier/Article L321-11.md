@@ -10,9 +10,9 @@ Le droit mentionné au premier alinéa est établi et recouvré au profit du
 département. Il peut être perçu par l'exploitant de l'ouvrage en vue du
 reversement au département.
 
-Le montant de ce droit, qui ne peut excéder 20 F par véhicule, est fixé par le
-conseil général après accord avec la majorité des communes et groupements de
-communes mentionnés au premier alinéa.
+Le montant de ce droit, qui ne peut excéder 3,05 euros par véhicule, est fixé
+par le conseil général après accord avec la majorité des communes et groupements
+de communes mentionnés au premier alinéa.
 
 La délibération du conseil général peut prévoir des tarifs différents ou la
 gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une

@@ -8,14 +8,13 @@ en aucun cas remettre en question la chose jugée entre l'employeur et le
 travailleur licencié, ni l'appréciation portée par la juridiction sur l'absence
 de cause réelle et sérieuse du licenciement.
 
-Le secrétaire-greffier [*greffier*] du tribunal d'instance transmet aussitôt le
-dossier de l'affaire à cette juridiction.
+Le secrétaire-greffier du tribunal d'instance transmet aussitôt le dossier de
+l'affaire à cette juridiction.
 
-Le secrétaire-greffier [*greffier*] de la juridiction qui a statué convoque
-l'institution et l'employeur, selon le cas, devant le bureau de jugement du
-conseil de prud'hommes ou devant la chambre sociale de la cour d'appel, quinze
-jours au moins à l'avance [*délai*], par lettre recommandée avec demande d'avis
-de réception [*condition de forme*].
+Le secrétaire-greffier de la juridiction qui a statué convoque l'institution et
+l'employeur, selon le cas, devant le bureau de jugement du conseil de
+prud'hommes ou devant la chambre sociale de la cour d'appel, quinze jours au
+moins à l'avance, par lettre recommandée avec demande d'avis de réception.
 
 La juridiction qui a statué se prononce sur l'ensemble du litige résultant de
 l'opposition et est habilitée à liquider la somme due par l'employeur à
@@ -25,4 +24,4 @@ La décision qui se prononce sur la demande de rétractation est mentionnée sur
 minute et sur les expéditions du jugement.
 
 L'auteur d'une demande dilatoire ou abusive de rétractation peut être condamné à
-une amende civile de 100 F à 10.000 F [*montant*].
+une amende civile de 15 à 1500 euros.

@@ -21,7 +21,7 @@ exploite une entreprise hors de France ou détient directement ou indirectement
 10 p. 100 au moins des actions, parts, droits financiers ou droits de vote dans
 une société ou un groupement, établi hors de France, ou détient dans une telle
 société ou groupement une participation dont le prix de revient est égal ou
-supérieur à 150 millions de francs et que cette entreprise, cette société ou ce
+supérieur à 22 800 000 euros et que cette entreprise, cette société ou ce
 groupement est soumis à un régime fiscal privilégié au sens de l'article 238 A,
 le résultat bénéficiaire de l'entreprise, de la société ou du groupement est
 réputé constituer un résultat de cette personne morale et, s'il s'agit d'une
@@ -84,27 +84,25 @@ notamment :
 - lorsque la société étrangère a principalement une activité industrielle ou
 commerciale effective ;
 
-- et qu'elle réalise ses opérations de façon prépondérante sur le marché local
-(1).
+- et qu'elle réalise ses opérations de façon prépondérante sur le marché local.
 
 II bis. Les dispositions du I bis ne s'appliquent pas si la personne morale
 établit que les opérations de l'entreprise, de la société ou du groupement,
 établi hors de France n'ont pas principalement pour effet de permettre la
-localisation de bénéfices dans un Etat ou territoire où elle est soumise à un
+localisation de bénéfices dans un Etat ou territoire où il est soumis à un
 régime fiscal privilégié. Cette condition est réputée remplie notamment :
 
-- lorsque l'entreprise, la société ou le groupement établi hors de France a
+Lorsque l'entreprise, la société ou le groupement établi hors de France a
 principalement une activité industrielle ou commerciale effective ;
 
-- et qu'il réalise ses opérations de façon prépondérante sur le marché local
-(1).
+Et qu'il réalise ses opérations de façon prépondérante sur le marché local.
 
 III. Un décret en Conseil d'Etat fixe les conditions d'application des
 dispositions qui précèdent et notamment les modalités permettant d'éviter la
 double imposition des bénéfices effectivement répartis ainsi que les obligations
-déclaratives de l'entreprise ou de la personne morale (2).
+déclaratives de l'entreprise ou de la personne morale (1).
 
-IV. 1. Les dispositions du I bis s'appliquent à raison :
+IV. 1. Les dispositions du 1 s'appliquent à raison :
 
 a) des créations ou acquisitions d'entreprises mentionnées au 1 du I bis
 intervenues à compter du 30 septembre 1992 ;
@@ -116,8 +114,8 @@ visée au même 1 du I bis ou, si ce taux est déjà atteint, de le maintenir ou
 l'augmenter ;
 
 c) des acquisitions ou souscriptions de participations, faites à compter de
-cette même date, permettant d'atteindre le seuil de 150 millions de francs visé
-au 1 du I bis ou d'augmenter le montant de la participation si ce seuil est déjà
+cette même date, permettant d'atteindre le seuil de 22 800 000 d'euros visé au 1
+du I bis ou d'augmenter le montant de la participation si ce seuil est déjà
 atteint.
 
 2. Les dispositions du I cessent de s'appliquer à raison des sociétés qui y sont
@@ -130,12 +128,9 @@ dudit I bis, en ce qu'elles sont relatives à l'appréciation de la détention
 directe et indirecte et du régime fiscal privilégié ainsi qu'à la détermination
 des résultats bénéficiaires de la société étrangère, s'appliquent pour la
 détermination des résultats imposables des exercices de l'entreprise mentionnée
-au I clos à compter du 31 décembre 1992.
+au I, clos à compter du 31 décembre 1992.
 
 4. Les dispositions du II bis s'appliquent, à compter du 30 septembre 1992, aux
 personnes morales passibles de l'impôt sur les sociétés mentionnées au I bis.
 
-(1) Cette disposition s'applique pour les exercices ouverts à compter du 1er
-janvier 1991.
-
-(2) Voir Annexe II, art. 102 S à 102 Z.
+(1) Voir Annexe II, art. 102 S à 102 Z.

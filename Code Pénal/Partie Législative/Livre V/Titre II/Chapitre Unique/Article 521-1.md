@@ -2,7 +2,7 @@ Article 521-1
 ----
 Le fait, publiquement ou non, d'exercer des sévices graves ou de commettre un
 acte de cruauté envers un animal domestique, ou apprivoisé, ou tenu en
-captivité, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+captivité, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 A titre de peine complémentaire, le tribunal peut interdire la détention d'un
 animal, à titre définitif ou non.

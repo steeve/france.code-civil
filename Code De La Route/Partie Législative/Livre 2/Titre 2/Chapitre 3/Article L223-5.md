@@ -10,8 +10,8 @@ sous réserve d'être reconnu apte après un examen médical et psychotechnique
 effectué à ses frais.
 
 III. - Le fait de refuser de se soumettre à l'injonction prévue au premier
-alinéa du présent article est puni de deux ans d'emprisonnement et de 30 000 F
-d'amende.
+alinéa du présent article est puni de deux ans d'emprisonnement et de 4 500
+euros d'amende.
 
 IV. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

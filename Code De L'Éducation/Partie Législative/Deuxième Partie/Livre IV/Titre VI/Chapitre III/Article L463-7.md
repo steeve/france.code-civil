@@ -1,6 +1,6 @@
 Article L463-7
 ----
-Est puni d'un an d'emprisonnement et de [*taux*] 100 000 F d'amende :
+Est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende :
 
 1° Le fait, pour toute personne, d'exercer une activité d'enseignement,
 d'encadrement ou d'animation d'une activité physique et sportive, sans avoir

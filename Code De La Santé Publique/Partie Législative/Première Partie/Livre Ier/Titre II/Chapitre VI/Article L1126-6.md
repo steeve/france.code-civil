@@ -1,7 +1,7 @@
 Article L1126-6
 ----
 Le promoteur dont la responsabilité civile n'est pas garantie par l'assurance
-prévue à l'article L. 1121-7 est puni d'un an d'emprisonnement et de 100 000 F
+prévue à l'article L. 1121-7 est puni d'un an d'emprisonnement et de 15000 euros
 d'amende.
 
 Le promoteur qui réalise ou fait réaliser une recherche biomédicale sans avoir

@@ -19,7 +19,7 @@ budget détermine les montants à verser ainsi que les dates de versement ;
 
 4° Les montants résultant de l'application de l'article L. 251-6-1 ;
 
-5° Une fraction égale à 65 % du produit des prélèvements visés aux articles L.
+5° Une fraction égale à 50 % du produit des prélèvements visés aux articles L.
 245-14 à L. 245-16 ;
 
 6° Les versements du compte d'affectation institué par le II de l'article 36 de

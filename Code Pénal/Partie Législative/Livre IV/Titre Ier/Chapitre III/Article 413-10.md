@@ -1,6 +1,6 @@
 Article 413-10
 ----
-Est puni de sept ans d'emprisonnement et de 700 000 F d'amende le fait, par
+Est puni de sept ans d'emprisonnement et de 100000 euros d'amende le fait, par
 toute personne dépositaire, soit par état ou profession, soit en raison d'une
 fonction ou d'une mission temporaire ou permanente, d'un renseignement, procédé,
 objet, document, donnée informatisée ou fichier qui a un caractère de secret de
@@ -14,4 +14,4 @@ procédé, objet, document, donnée informatisée ou fichier visé à l'alinéa
 précédent.
 
 Lorsque la personne dépositaire a agi par imprudence ou négligence, l'infraction
-est punie de trois ans d'emprisonnement et de 300 000 F d'amende.
+est punie de trois ans d'emprisonnement et de 45 000 euros d'amende.

@@ -1,6 +1,6 @@
 Article L253-17
 ----
-I. - Est puni de deux ans d'emprisonnement et de 500 000 F d'amende :
+I. - Est puni de deux ans d'emprisonnement et de 75000 euros d'amende :
 
 1° Le fait de mettre sur le marché un produit défini à l'article L. 253-1 sans
 bénéficier d'une autorisation ou le fait de ne pas avoir fait une nouvelle
@@ -16,7 +16,7 @@ L. 253-8 ;
 4° Le fait de faire la publicité d'un produit défini à l'article L. 253-1 ne
 bénéficiant pas d'une autorisation.
 
-II. - Est puni de six mois d'emprisonnement et de 200 000 F d'amende :
+II. - Est puni de six mois d'emprisonnement et de 30000 euros d'amende :
 
 1° Le fait d'utiliser un produit défini à l'article L. 253-1 s'il ne bénéficie
 pas d'une autorisation ;
@@ -34,8 +34,8 @@ par l'autorité administrative ;
 l'article L. 253-16 ordonnées par les agents habilités en vertu du I de
 l'article L. 253-14.
 
-III. - Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de
-mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
+III. - Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait
+de mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
 l'article L. 253-14.
 
 IV. - Les personnes physiques coupables de l'une des infractions prévues au

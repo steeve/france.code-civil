@@ -4,7 +4,7 @@ Pour l'application de l'article D. 36, les limites minimales dont le dépassemen
 rend obligatoire la consultation de la commission interministérielle sont fixées
 à :
 
-2000000 F pour la valeur vénale des immeubles acquis à l'étranger ;
+300000 euros pour la valeur vénale des immeubles acquis à l'étranger ;
 
-120000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans
-les pays étrangers.
+18000 euros pour le loyer annuel, charges comprises, des immeubles pris à bail
+dans les pays étrangers.

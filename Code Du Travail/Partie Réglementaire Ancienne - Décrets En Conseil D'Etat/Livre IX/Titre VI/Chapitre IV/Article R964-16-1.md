@@ -8,7 +8,7 @@ au financement :
 contrats d'insertion en alternance ;
 
 2° Des dépenses effectuées pour la formation des tuteurs au titre des contrats
-d'insertion en alternance, dans la limite d'un plafond de 100 F par heure de
+d'insertion en alternance, dans la limite d'un plafond de 15 euros par heure de
 formation et d'une durée maximale de quarante heures pour chaque salarié ou
 employeur visé au 2° du IV de l'article 30 susmentionné de la loi n° 84-1208 du
 29 décembre 1984 ; ces dépenses comprennent les frais pédagogiques, les

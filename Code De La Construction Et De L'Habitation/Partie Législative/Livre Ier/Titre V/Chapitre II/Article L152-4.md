@@ -4,12 +4,12 @@ L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligatio
 imposées par les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L.
 125-1, L. 125-3 et L. 131-4, par les règlements pris pour leur application ou
 par les autorisations délivrées en conformité avec leurs dispositions, est punie
-d'une amende de 300 000 F. En cas de récidive, la peine d'amende sera à 500 000
-F et un emprisonnement de six mois pourra en outre être prononcé. Le tribunal
-peut en outre ordonner, aux frais du condamné, la publication intégrale ou par
-extraits de sa décision et, éventuellement, la diffusion d'un message, dont il
-fixe les termes, informant le public des motifs et du contenu de sa décision,
-dans un ou plusieurs journaux qu'il désigne.
+d'une amende de 45 000 euros. En cas de récidive, la peine d'amende sera à 75
+000 euros et un emprisonnement de six mois pourra en outre être prononcé. Le
+tribunal peut en outre ordonner, aux frais du condamné, la publication intégrale
+ou par extraits de sa décision et, éventuellement, la diffusion d'un message,
+dont il fixe les termes, informant le public des motifs et du contenu de sa
+décision, dans un ou plusieurs journaux qu'il désigne.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les
 utilisateurs du sol, les bénéficiaires des travaux, les architectes, les
@@ -31,6 +31,6 @@ Ainsi qu'il est dit à l'article L. 480-12 du code de l'urbanisme :
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues
 aux articles 433-7 et 433-8 du code pénal, quiconque aura mis obstacle à
 l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende
-de 25 000 F.
+de 2 250 euros.
 
 En outre, un emprisonnement d'un mois pourra être prononcé.

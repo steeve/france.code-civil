@@ -17,7 +17,7 @@ sont respectivement de 11,5 ; 14,1 ; 21,1 ; 31,7 et 47,6.
 Chacun de ces coefficients multiplicateurs peut être modifié dans la limite de 5
 %.
 
-Les tarifs ainsi obtenus sont arrondis au franc pair le plus proche.
+Les tarifs ainsi obtenus sont arrondis à l'euro pair le plus proche.
 
 Pour les véhicules ayant plus de cinq ans mais moins de vingt ans d'âge, ces
 tarifs sont réduits de moitié.

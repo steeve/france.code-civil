@@ -59,7 +59,7 @@ Les dispositions de l'article L. 80 du livre des procédures fiscales sont
 applicables.
 
 Il n'est pas procédé au recouvrement de la contribution lorsque le montant total
-par article de rôle est inférieur à 400 F.
+par article de rôle est inférieur à 61 euros.
 
 Par dérogation à l'article 150 R du code général des impôts, le paiement ne peut
 être fractionné.

@@ -1,6 +1,6 @@
 Article L254-9
 ----
-Est puni d'un emprisonnement de six mois et d'une amende de 100 000 F :
+Est puni d'un emprisonnement de six mois et d'une amende de 15000 euros :
 
 1° Le fait d'exercer l'une des activités visées aux articles L. 254-1 et L.
 254-2 sans justifier de la détention de l'agrément ;

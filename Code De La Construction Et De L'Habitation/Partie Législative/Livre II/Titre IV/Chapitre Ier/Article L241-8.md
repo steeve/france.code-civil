@@ -1,12 +1,11 @@
 Article L241-8
 ----
-Sera puni [*sanction*] d'un emprisonnement de deux ans et d'une amende 250 000
-F, ou de l'une de ces deux peines seulement, quiconque, tenu à la conclusion
-d'un contrat par application de l'article L. 231-1 ou de l'article L. 232-1,
-aura entrepris l'exécution des travaux sans avoir conclu un contrat écrit ou
-sans avoir obtenu la garantie de livraison définie à l'article L. 231-6.
+Sera puni d'un emprisonnement de deux ans et d'une amende 37 500 euros, ou de
+l'une de ces deux peines seulement, quiconque, tenu à la conclusion d'un contrat
+par application de l'article L. 231-1 ou de l'article L. 232-1, aura entrepris
+l'exécution des travaux sans avoir conclu un contrat écrit ou sans avoir obtenu
+la garantie de livraison définie à l'article L. 231-6.
 
 Ces infractions peuvent être constatées et poursuivies dans les conditions
-fixées par les articles 45, premier et troisième alinéa, 46, 47 et 52 de
-l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et
-de la concurrence.
+fixées par les articles L. 450-1, premier et troisième alinéa, L. 450-2, L.
+450-3 et L. 450-8 du code de commerce.

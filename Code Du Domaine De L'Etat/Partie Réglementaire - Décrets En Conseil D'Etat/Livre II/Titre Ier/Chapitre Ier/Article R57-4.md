@@ -14,7 +14,7 @@ fait apparaître que tout ou partie des ouvrages, constructions et installations
 de caractère immobilier dont la réalisation est envisagée sont nécessaires à la
 continuité du service public auquel est affecté le domaine public concerné par
 la demande, la décision ne relève de la compétence du préfet que lorsque le
-montant des travaux projetés est inférieur à 20000000 F hors taxes.
+montant des travaux projetés est inférieur à 3 000 000 euros hors taxes.
 
 Dans le cas contraire, elle relève de la compétence conjointe du ministre
 concerné et du ministre chargé du domaine auxquels le préfet transmet la demande
@@ -35,7 +35,7 @@ envisagée sont nécessaires à la continuité du service public auquel est affe
 le domaine public concerné par la demande, il ne peut y être fait droit que sur
 accord préalable du ministre de tutelle et du ministre chargé du domaine, ou du
 préfet après avis du directeur des services fiscaux, selon que le montant des
-travaux projetés est ou non supérieur à 20000000 F hors taxes.
+travaux projetés est ou non supérieur à 3 000 000 euros hors taxes.
 
 Faute d'obtention de cet accord préalable dans un délai de deux mois à compter
 de la saisine du préfet ou de quatre mois à compter de la saisine des ministres,

@@ -1,35 +1,27 @@
 Article L237-1
 ----
-Sont habilités à rechercher et à constater les infractions aux dispositions du
-présent titre et des textes pris pour son application, en quelque lieu qu'elles
-soient commises, outre les officiers et agents de police judiciaire énumérés aux
-articles 16, 20 et 21 du code de procédure pénale et les agents habilités par
-des lois spéciales :
+I. - Est puni des peines prévues à l'article L. 213-1 du code de la consommation
+le fait de mettre sur le marché, d'introduire sur le territoire métropolitain ou
+dans les départements d'outre-mer, de céder en vue d'administrer à des animaux
+dont la chair ou les produits sont destinés à l'alimentation humaine un produit
+visé au I de l'article L. 234-2 ou une substance visée au II du même article qui
+ne bénéficie pas d'une autorisation de l'autorité administrative.
 
-1° Les agents du Conseil supérieur de la pêche commissionnés à cet effet par
-décision ministérielle, et assermentés ;
+II. - Sont punies de six mois d'emprisonnement et de 30000 euros d'amende les
+autres infractions aux dispositions de l'article L. 234-2.
 
-2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des
-travaux et les agents qualifiés chargés de la police de la pêche dans les
-directions départementales de l'agriculture et de la forêt, les ingénieurs et
-agents qualifiés des services chargés de la navigation, commissionnés à cet
-effet par décision ministérielle et assermentés ;
+III. - Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait
+de mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
+l'article L. 231-2.
 
-3° Les ingénieurs en service à l'Office national des forêts et les agents
-assermentés de cet établissement visés à l'article L. 122-7 du code forestier ;
+IV. - Les personnes physiques coupables de l'une des infractions prévues au
+présent article encourent également la peine complémentaire de l'affichage ou la
+diffusion de la décision prononcée dans les conditions prévues par l'article
+131-35 du code pénal.
 
-4° Les gardes champêtres ;
-
-5° Les agents de l'Office national de la chasse et de la faune sauvage
-commissionnés à cet effet par le ministre chargé de la protection de la nature
-et assermentés dans la circonscription à laquelle ils sont affectés.
-
-Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les
-conditions dans lesquelles, au-delà de la limite de salure des eaux, est
-pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux
-douces et dans les eaux salées.
-
-Peuvent également rechercher et constater les infractions aux dispositions du
-présent titre et des textes pris pour son application les agents des douanes
-ainsi que les agents autorisés par le décret du 9 janvier 1852 sur l'exercice de
-la pêche maritime.
+V. - Les personnes morales peuvent être déclarées responsables pénalement dans
+les conditions prévues par l'article 121-2 du code pénal des infractions prévues
+au présent article. Elles encourent les peines d'amende, suivant les modalités
+prévues par l'article 131-38 du code pénal, et de l'affichage ou de la diffusion
+de la décision prononcée dans les conditions prévues au 9°, de l'article 131-39
+du code pénal.

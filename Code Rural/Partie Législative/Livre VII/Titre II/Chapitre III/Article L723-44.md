@@ -17,4 +17,4 @@ directeur ou administrateur d'un établissement de crédit ou d'une compagnie
 d'assurance ou de réassurance, agent d'affaires.
 
 Les infractions à ces dispositions sont punies de deux ans d'emprisonnement et
-de 25000 F d'amende.
+de 3750 euros d'amende.

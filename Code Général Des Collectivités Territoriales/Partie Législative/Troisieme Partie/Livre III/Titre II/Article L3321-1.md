@@ -28,6 +28,8 @@ universitaires de formation des maîtres ;
 10° Les dépenses relatives à l'action sociale, à la santé et à l'insertion mises
 à la charge du département ;
 
+10° bis Les dépenses relatives à l'allocation personnalisée d'autonomie ;
+
 11° Les frais du service départemental des épizooties ;
 
 12° La participation au service départemental d'incendie et de secours ;

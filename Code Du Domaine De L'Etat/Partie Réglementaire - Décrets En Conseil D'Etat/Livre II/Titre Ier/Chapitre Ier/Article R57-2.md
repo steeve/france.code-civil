@@ -7,8 +7,8 @@ cette concession peut être constitutive de droit réel pour son titulaire dans 
 mesure et aux conditions prévues par le cahier des charges et sous réserve que
 les dispositions correspondantes du cahier des charges aient reçu l'accord,
 selon que le montant des travaux mis à la charge du concessionnaire est
-inférieur ou supérieur à 20000000 F hors taxes, du préfet ou du ministre chargé
-du domaine et du ministre intéressé.
+inférieur ou supérieur à 3 000 000 euros hors taxes, du préfet ou du ministre
+chargé du domaine et du ministre intéressé.
 
 II. - Dans les cas autres que celui prévu au I, la délivrance d'un titre
 d'occupation, quelle que soit sa forme, constitutif de droit réel, sur le

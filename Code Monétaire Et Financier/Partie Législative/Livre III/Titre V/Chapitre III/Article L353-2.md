@@ -1,6 +1,6 @@
 Article L353-2
 ----
-Est puni d'une amende de trente mille francs, le fait, pour toute personne, de
+Est puni d'une amende de 4500 euros, le fait, pour toute personne, de
 méconnaître les obligations prescrites au titre des opérations de banque à
 l'article L. 341-3, au deuxième alinéa de l'article L. 341-4 et au premier
 alinéa de l'article L. 341-5.

@@ -3,7 +3,7 @@ Article L3421-4
 La provocation au délit prévu par l'article L. 3421-1 ou à l'une des infractions
 prévues par les articles 222-34 à 222-39 du code pénal, alors même que cette
 provocation n'a pas été suivie d'effet, ou le fait de présenter ces infractions
-sous un jour favorable est puni de cinq ans d'emprisonnement et de 500 000 F
+sous un jour favorable est puni de cinq ans d'emprisonnement et de 75000 euros
 d'amende.
 
 Est punie des mêmes peines la provocation, même non suivie d'effet, à l'usage de

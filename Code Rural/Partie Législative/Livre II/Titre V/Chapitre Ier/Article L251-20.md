@@ -1,6 +1,6 @@
 Article L251-20
 ----
-I. - Est puni de deux ans d'emprisonnement et de 500 000 F d'amende :
+I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende :
 
 1° Le fait d'introduire sur le territoire métropolitain et dans les départements
 d'outre-mer, de détenir sciemment et de transporter les organismes nuisibles
@@ -13,7 +13,7 @@ sans respecter les conditions prévues par les arrêtés prévus à l'article L.
 3° Le fait de ne pas accompagner les végétaux, produits végétaux et autres
 objets mentionnés au I de l'article L. 251-12 d'un passeport phytosanitaire.
 
-II. - Est puni de six mois d'emprisonnement et de 200 000 F d'amende :
+II. - Est puni de six mois d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le fait de ne pas déclarer soit au maire de la commune de sa résidence, soit
 directement au service chargé de la protection des végétaux la présence d'un
@@ -23,8 +23,8 @@ organisme nuisible nouvellement apparu dans la commune ;
 articles L. 251-8, L. 251-10 et L. 251-14 ordonnées par les agents habilités en
 vertu du I de l'article L. 251-18.
 
-III. - Est puni de six mois d'emprisonnement et de 50 000 F d'amende le fait de
-mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
+III. - Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait
+de mettre obstacle à l'exercice des fonctions des agents habilités en vertu de
 l'article L. 251-18 et du I de l'article L. 251-14.
 
 IV. - Les personnes physiques coupables de l'une des infractions prévues au

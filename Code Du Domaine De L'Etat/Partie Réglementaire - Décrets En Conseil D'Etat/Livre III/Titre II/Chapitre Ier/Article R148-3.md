@@ -5,7 +5,7 @@ inutiles par le ministre de la défense a lieu par voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
 
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 1000000 F ;
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 150000 euros ;
 
 2° Lorsqu'une précédente adjudication a été infructueuse ;
 

@@ -10,9 +10,10 @@ construction lorsque le prix de cession, l'indemnité d'expropriation, la valeur
 d'échange, le montant de l'apport à un groupement agricole ou forestier, ou la
 cession de parts de ces mêmes groupements n'excèdent pas au mètre carré un
 chiffre fixé par décret compte tenu notamment de la nature des cultures. Ce
-chiffre ne peut être inférieur à 26 F pour les vignobles à appellation contrôlée
-et les cultures florales, à 9 F pour les cultures fruitières ou maraîchères et à
-4 F pour les autres terrains agricoles ou forestiers (1) (2) ;
+chiffre ne peut être inférieur à 3,96 euros pour les vignobles à appellation
+contrôlée et les cultures florales, à 1,37 euro pour les cultures fruitières ou
+maraîchères et à 0,61 euro pour les autres terrains agricoles ou forestiers (1)
+(2) ;
 
 3° Aux peuplements forestiers ;
 

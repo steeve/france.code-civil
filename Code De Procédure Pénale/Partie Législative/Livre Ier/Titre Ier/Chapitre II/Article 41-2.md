@@ -12,7 +12,7 @@ de la route et par l'article L. 628 du code de la santé publique, qui consiste
 en une ou plusieurs des mesures suivantes :
 
 1° Verser une amende de composition au Trésor public. Le montant de cette amende
-de composition, qui ne peut excéder ni 25 000 F ni la moitié du maximum de
+de composition, qui ne peut excéder ni 3750 euros ni la moitié du maximum de
 l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des
 ressources et des charges de la personne. Son versement peut être échelonné,
 selon un échéancier fixé par le procureur de la République, à l'intérieur d'une

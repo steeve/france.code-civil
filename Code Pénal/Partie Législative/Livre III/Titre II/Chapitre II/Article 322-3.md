@@ -1,8 +1,8 @@
 Article 322-3
 ----
 L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans
-d'emprisonnement et de 500 000 F d'amende et celle définie au deuxième alinéa du
-même article de 100 000 F d'amende :
+d'emprisonnement et de 75000 euros d'amende et celle définie au deuxième alinéa
+du même article de 15000 euros d'amende :
 
 1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur
 ou de complice ;

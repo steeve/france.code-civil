@@ -48,7 +48,7 @@ de revenus au cours de l'année civile de référence et que chacun des deux
 revenus correspondants a été au moins égal à douze fois la base mensuelle de
 calcul des allocations familiales en vigueur au 1er juillet de ladite année.
 
-Cet abattement est fixé à 500 F.
+Cet abattement est fixé à 76,22 Euro.
 
 Un abattement est opéré sur les ressources de la personne seule qui assume la
 charge d'un ou plusieurs enfants ou d'une ou plusieurs personnes au sens de
@@ -57,11 +57,11 @@ l'article D. 542-5.
 
 Cet abattement est fixé à :
 
-4 644 F pour les personnes seules assumant la charge d'un ou de deux enfants ou
-personnes au sens de l'article L. 542-1 ;
+707,97 Euro pour les personnes seules assumant la charge d'un ou de deux enfants
+ou personnes au sens de l'article L. 542-1 ;
 
-6 962 F pour les personnes seules assumant la charge d'au moins trois enfants ou
-personnes au sens de l'article L. 542-1.
+1 061,35 Euro pour les personnes seules assumant la charge d'au moins trois
+enfants ou personnes au sens de l'article L. 542-1.
 
 Lors de l'ouverture du droit ou en début de période de paiement, lorsque le
 demandeur poursuit des études, ainsi que, le cas échéant, son conjoint, et que

@@ -7,4 +7,4 @@ contrat d'assurance ou de capitalisation dès lors que celui-ci donne lieu à la
 constitution d'une provision mathématique.
 
 Les dispositions du précédent alinéa sont applicables lorsque le contrat donne
-lieu au versement d'un montant de prime supérieur ou égal à 50 000 F par an.
+lieu au versement d'un montant de prime supérieur ou égal à 8000 euros par an.

@@ -6,4 +6,4 @@ violation des dispositions prises pour l'application de l'article 18 de la loi
 n° 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines
 restrictions de circulation et à la complémentarité entre les services de
 police, de gendarmerie et de douane, est passible de deux ans d'emprisonnement
-et de 200 000 F d'amende.
+et de 30000 euros d'amende.

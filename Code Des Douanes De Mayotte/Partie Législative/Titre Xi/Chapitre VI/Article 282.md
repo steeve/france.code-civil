@@ -9,5 +9,5 @@ infractions se rapportent à des marchandises de la catégorie de celles qui son
 prohibées ou fortement taxées au sens du présent code.
 
 Les infractions portant sur des marchandises non prohibées, dont la valeur
-n'excède pas 5000 F, sont passibles d'une amende égale à la valeur desdites
+n'excède pas 770 euros, sont passibles d'une amende égale à la valeur desdites
 marchandises.

@@ -2,7 +2,7 @@ Article D322-3
 ----
 Le montant de la participation forfaitaire des entreprises incluse dans le champ
 de l'article L. 951-1 du code du travail aux dépenses de fonctionnement des
-conventions de conversion est fixé à 4 500 F par bénéficiaire.
+conventions de conversion est fixé à 686,02 euros par bénéficiaire.
 
 Toutefois, l'Etat rembourse aux entreprises qui occupent habituellement moins de
 cinquante salariés cette participation forfaitaire lorsqu'elles ne peuvent la
@@ -12,6 +12,6 @@ L. 950-5, ou en utilisant les droits de tirage ou d'appel à des crédits
 mutualisés de formation professionnelle continue.
 
 Pour bénéficier de ce remboursement les entreprises doivent en faire la demande
-au directeur départemental du travail et de l'emploi [*autorité compétente*] et
-fournir tous les éléments établissant qu'elles ne peuvent utiliser les
-différentes possibilités de financement mentionnées à l'alinéa précédent.
+au directeur départemental du travail et de l'emploi et fournir tous les
+éléments établissant qu'elles ne peuvent utiliser les différentes possibilités
+de financement mentionnées à l'alinéa précédent.

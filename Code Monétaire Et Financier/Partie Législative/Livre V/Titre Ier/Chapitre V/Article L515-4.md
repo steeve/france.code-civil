@@ -22,7 +22,7 @@ autre forme.
 
 Le capital des sociétés de caution mutuelle est formé de parts nominatives qui
 peuvent être de valeur inégale sans cependant qu'aucune d'entre elles puisse
-être inférieure à dix francs, et à la souscription desquelles peuvent concourir,
+être inférieure à 1,5 euros, et à la souscription desquelles peuvent concourir,
 en dehors des membres qui participent aux avantages de la société, des membres
 non participants qui n'ont droit qu'à la rémunération de leurs apports.
 

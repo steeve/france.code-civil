@@ -1,6 +1,6 @@
 Article 434-41
 ----
-Est punie de deux ans d'emprisonnement et de 200 000 F d'amende la violation,
+Est punie de deux ans d'emprisonnement et de 30000 euros d'amende la violation,
 par le condamné, des obligations ou interdictions résultant des peines de
 suspension ou d'annulation du permis de conduire, d'interdiction de détenir ou
 de porter une arme, de retrait du permis de chasser, d'interdiction d'émettre

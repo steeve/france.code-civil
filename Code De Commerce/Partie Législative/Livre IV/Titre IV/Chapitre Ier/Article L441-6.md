@@ -30,7 +30,7 @@ doivent faire l'objet d'un contrat écrit en double exemplaire détenu par chacu
 des deux parties.
 
 Toute infraction aux dispositions visées ci-dessus est punie d'une amende de
-100000 F.
+15000 euros.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les
 conditions prévues par l'article 121-2 du code pénal.

@@ -1,6 +1,7 @@
 Article L541-46
 ----
-I. - Est puni de deux ans d'emprisonnement et de 500 000 F d'amende le fait de :
+I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait
+de :
 
 1° Refuser de fournir à l'administration les informations visées à l'article L.
 541-9 ou fournir des informations inexactes ;

@@ -40,7 +40,7 @@ pour agrément au ministre du budget par pli recommandé avec demande d'avis de
 réception postal.
 
 3° Lorsque le montant global de l'investissement financé par crédit-bail est
-inférieur à 20000000 F hors taxes, le dossier est adressé, dans les mêmes
+inférieur à 3000000 euros hors taxes, le dossier est adressé, dans les mêmes
 formes, au trésorier-payeur général du lieu de situation de l'investissement
 projeté qui est compétent pour délivrer l'agrément.
 

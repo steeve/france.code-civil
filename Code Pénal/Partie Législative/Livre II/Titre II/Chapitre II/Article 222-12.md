@@ -1,7 +1,7 @@
 Article 222-12
 ----
 L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement
-et de 500 000 F d'amende lorsqu'elle est commise :
+et de 75000 euros d'amende lorsqu'elle est commise :
 
 1° Sur un mineur de quinze ans ;
 
@@ -39,13 +39,13 @@ ou de sa mission ;
 éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords
 d'un tel établissement.
 
-Les peines encourues sont portées à dix ans d'emprisonnement et à 1 000 000 F
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros
 d'amende lorsque l'infraction définie à l'article 222-11 est commise sur un
 mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute
 autre personne ayant autorité sur le mineur. Les peines sont portées à sept ans
-d'emprisonnement et 700 000 F d'amende lorsque cette infraction est commise dans
-deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont
-portées à dix ans d'emprisonnement et 1 000 000 F d'amende lorsqu'elle est
+d'emprisonnement et 100000 euros d'amende lorsque cette infraction est commise
+dans deux des circonstances prévues aux 1° à 10° du présent article. Les peines
+sont portées à dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est
 commise dans trois de ces circonstances.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté

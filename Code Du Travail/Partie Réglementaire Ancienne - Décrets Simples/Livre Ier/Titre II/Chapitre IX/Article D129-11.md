@@ -43,7 +43,7 @@ Pour les tâches occasionnelles ne demandant pas une qualification particulière
 de très courte durée, dites prestations hommes toutes mains , seul le recours
 auprès d'un prestataire par abonnement mensuel, résiliable sous préavis de deux
 mois, peut ouvrir droit à la réduction fiscale, les prestations étant limitées à
-2 500 F par an par foyer fiscal et à deux heures par prestation.
+400 euros par an par foyer fiscal et à deux heures par prestation.
 
 L'entreprise ou l'association doit communiquer à chacun de ses clients une
 attestation fiscale annuelle, délivrée pour bénéficier de la réduction d'impôt

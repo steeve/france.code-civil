@@ -1,6 +1,6 @@
 Article 433-14
 ----
-Est puni d'un an d'emprisonnement et de 100 000 F d'amende le fait, par toute
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, par toute
 personne, publiquement et sans droit :
 
 1° De porter un costume, un uniforme ou une décoration réglementés par

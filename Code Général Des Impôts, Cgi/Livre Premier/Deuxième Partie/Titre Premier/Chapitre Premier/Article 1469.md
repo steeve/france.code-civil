@@ -14,26 +14,27 @@ exonérées de taxe professionnelle lorsqu'elles sont utilisées pour l'irrigati
 pour les neuf dixièmes au moins de leur capacité ;
 
 Les locaux donnés en location à des redevables de la taxe professionnelle sont
-imposés au nom du locataire; toutefois, la valeur locative des entrepôts et
+imposés au nom du locataire ; toutefois, la valeur locative des entrepôts et
 magasins généraux n'est retenue que dans les bases d'imposition de l'exploitant
 de ces entrepôts ou magasins ;
 
 2° Les équipements et biens mobiliers dont la durée d'amortissement est au moins
 égale à trente ans sont évalués suivant les règles applicables aux bâtiments
-industriels; toutefois, les lignes, câbles et canalisations extérieurs aux
+industriels ; toutefois, les lignes, câbles et canalisations extérieurs aux
 établissements sont exonérés ainsi que leurs supports; les équipements et biens
 mobiliers destinés à l'irrigation sont exonérés dans les mêmes conditions qu'au
 1° ;
 
 3° Pour les autres biens, lorsqu'ils appartiennent au redevable, lui sont
 concédés ou font l'objet d'un contrat de crédit-bail mobilier, la valeur
-locative est égale à 16 % du prix de revient ;&lt;RL Lorsque ces biens sont pris
-en location, la valeur locative est égale au montant du loyer au cours de
-l'exercice sans pouvoir différer de plus de 20 % de celle résultant des règles
-fixées à l'alinéa précédent ; les biens donnés en location sont imposés au nom
-du propriétaire lorsque la période de location est inférieure à six mois; il en
-est de même si le locataire n'est pas passible de la taxe professionnelle ou n'a
-pas la disposition exclusive des biens loués ;
+locative est égale à 16 % du prix de revient ;
+
+Lorsque ces biens sont pris en location, la valeur locative est égale au montant
+du loyer au cours de l'exercice sans pouvoir différer de plus de 20 % de celle
+résultant des règles fixées à l'alinéa précédent ; les biens donnés en location
+sont imposés au nom du propriétaire lorsque la période de location est
+inférieure à six mois ; il en est de même si le locataire n'est pas passible de
+la taxe professionnelle ou n'a pas la disposition exclusive des biens loués ;
 
 La valeur locative des biens pris en crédit-bail mobilier n'est pas modifiée
 lorsque, à l'expiration du contrat, les biens sont acquis par le locataire.
@@ -47,33 +48,30 @@ cession.
 
 Les entreprises concernées sont tenues de souscrire avant le 1er mai 1993 des
 déclarations rectificatives pour les impositions complémentaires à établir au
-titre de l'année 1993.
+titre de l'année 1993 ;
 
 3° bis La valeur locative des matériels agricoles utilisés exclusivement à des
 travaux saisonniers effectués pour le compte d'exploitants agricoles est
 diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
-fixée par arreté du ministre chargé du budget (3) ;
+fixée par arrêté du ministre chargé du budget (3) ;
 
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
-pas 400.000 F s'il s'agit de prestataires de services ou de membres de
-professions libérales et un million de francs dans les autres cas; pour les
-redevables sédentaires ne remplissant pas ces conditions, cette valeur locative
-est réduite d'un montant fixé à 25.000 F (4) ; les limites prévues seront
-réévaluées lors du vote de chaque loi de finances.
+pas 61 000 euros s'il s'agit de prestataires de services ou de membres de
+professions libérales et 152 500 euros dans les autres cas ; pour les redevables
+sédentaires ne remplissant pas ces conditions, cette valeur locative est réduite
+d'un montant fixé à 3 800 euros (4) ; les limites prévues seront réévaluées lors
+du vote de chaque loi de finances.
 
 Ces dispositions s'appliquent également aux redevables sédentaires qui réalisent
 une partie de leur chiffre d'affaires par des ventes ambulantes lorsque leur
 principal établissement est situé dans une commune dont la population est
-inférieure à 3 000 habitants (5).
+inférieure à 3 000 habitants.
 
 (1) Annexe II, art. 310 HF.
 
 (2) Voir art. 1494 à 1518 B.
 
-(3) Dispositions applicables à compter du 1er janvier 1987.
+(3) Voir 121 quinquies DB octies de l'annexe IV.
 
 (4) Voir également art. 1469 B.
-
-(5) Ces dispositions sont applicables pour la détermination des bases de la taxe
-professionnelle due pour l'année 1991 et les années suivantes.

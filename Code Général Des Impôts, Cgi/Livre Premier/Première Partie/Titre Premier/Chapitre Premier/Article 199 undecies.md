@@ -26,15 +26,15 @@ s'engager à conserver les parts ou actions pendant cinq ans au moins à compter
 de la date d'achèvement des immeubles ;
 
 c. Aux souscriptions au capital de sociétés civiles régies par la section 3 du
-chapitre IV du titre premier du livre II du code monétaire et financier, lorsque
-la société s'engage à affecter intégralement le produit de la souscription
+chapitre IV du titre Ier du livre II du code monétaire et financier, lorsque la
+société s'engage à affecter intégralement le produit de la souscription
 annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition
 de logements neufs situés dans ces départements et affectés pour 90 p. 100 au
 moins à usage d'habitation. Les souscripteurs doivent s'engager à conserver les
 parts pendant cinq ans au moins à compter de la date de souscription. Ces
 sociétés doivent s'engager à les donner en location nue pendant cinq ans au
 moins à compter de leur achèvement, ou de leur acquisition si elle est
-postérieure à des locataires qui en font leur habitation principale. Ces
+postérieure, à des locataires qui en font leur habitation principale. Ces
 dispositions s'appliquent aux souscriptions réalisées à compter du 1er juillet
 1993 ;
 
@@ -77,12 +77,12 @@ doivent s'engager à les conserver pendant cinq ans à compter de la date de la
 souscription.
 
 2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation
-du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30
-000 000 F doit avoir été portée, préalablement à sa réalisation, à la
+du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 4
+600 000 euros doit avoir été portée, préalablement à sa réalisation, à la
 connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection
 motivée de sa part dans un délai de trois mois. Il en est de même de la
 construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de
-construire dont le prix de revient est supérieur à 30 000 000 F ou de
+construire dont le prix de revient est supérieur à 4 600 000 euros ou de
 l'acquisition de logements situés dans de tels immeubles.
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de
@@ -117,8 +117,9 @@ qui ont pour objet de construire ou d'acquérir de tels logements ;
 2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six
 mois de son achèvement ou de son acquisition si elle est postérieure et pendant
 six ans au moins à des personnes qui en font leur habitation principale. En cas
-de souscription au capital de sociétés visées aux b et c du 1, le contribuable
-s'engage à conserver ses parts ou actions pendant au moins six ans ;
+de souscription au capital de sociétés visées aux b et c du deuxième alinéa du
+1, le contribuable s'engage à conserver ses parts ou actions pendant au moins
+six ans ;
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par
 décret (3).

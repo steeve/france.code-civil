@@ -1,6 +1,6 @@
 Article L341-19
 ----
-I. - Est puni d'une amende de 60 000 F :
+I. - Est puni d'une amende de 9 000 euros :
 
 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit
 sans en aviser l'administration dans les conditions prévues à l'article L.

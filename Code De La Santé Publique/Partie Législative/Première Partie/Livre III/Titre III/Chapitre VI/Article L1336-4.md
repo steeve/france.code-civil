@@ -1,13 +1,13 @@
 Article L1336-4
 ----
-Est puni d'un emprisonnement de deux ans et d'une amende de 75000 euros le fait
-de détruire, de dégrader ou détériorer les locaux ayant fait l'objet de l'avis
-de la tenue de la réunion du conseil départemental d'hygiène ainsi qu'il est dit
-à l'article L. 1331-27 dans le but de faire quitter les lieux aux occupants.
+Est puni de trois ans d'emprisonnement et de 75000 euros d'amende le fait :
 
-Les infractions aux articles L. 1331-23, L. 1331-24, L. 1331-28, L. 1331-28-2 et
-L. 1336-3 sont punies des mêmes peines.
+1° Pour un propriétaire ou un locataire principal, à partir de la notification
+faite par le représentant de l'Etat dans le département de l'extrait de
+délibération du conseil départemental mentionnée à l'article L. 1331-20, de
+renouveler un bail, ou de relouer des locaux vacants ou des locaux insalubres
+dans un immeuble déclaré partiellement insalubre ;
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les
-conditions prévues à l'article 121-2 du code pénal, des infractions définies au
-présent article.
+2° De ne pas rendre l'utilisation de locaux ou d'installations conformes aux
+prescriptions de l'arrêté du représentant de l'Etat mentionné à l'article L.
+1331-24.

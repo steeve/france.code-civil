@@ -3,7 +3,7 @@ Article L233-1
 I. - Le fait pour tout conducteur d'omettre d'obtempérer à une sommation de
 s'arrêter émanant d'un fonctionnaire ou agent chargé de constater les
 infractions et muni des insignes extérieurs et apparents de sa qualité est puni
-de trois mois d'emprisonnement et de 25 000 F d'amende.
+de trois mois d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines
 complémentaires suivantes :

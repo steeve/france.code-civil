@@ -1,7 +1,7 @@
 Article 225-7
 ----
-Le proxénétisme est puni de dix ans d'emprisonnement et de 10 000 000 F d'amende
-lorsqu'il est commis :
+Le proxénétisme est puni de dix ans d'emprisonnement et de 1500000 euros
+d'amende lorsqu'il est commis :
 
 1° A l'égard d'un mineur ;
 

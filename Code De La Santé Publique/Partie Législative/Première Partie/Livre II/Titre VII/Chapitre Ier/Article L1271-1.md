@@ -5,4 +5,4 @@ autre activité liée à la transfusion sanguine, sans être titulaire de l'agr�
 prévu à l'article L. 1223-2 ou, le cas échéant, des autorisations prévues aux
 articles L. 1221-12, L. 1222-3 et L. 1223-1 ou en violation des prescriptions
 fixées par ces agréments ou autorisations, est puni de deux ans d'emprisonnement
-et de 500 000 F d'amende.
+et de 75000 euros d'amende.

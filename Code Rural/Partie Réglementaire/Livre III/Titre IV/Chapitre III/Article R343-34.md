@@ -19,8 +19,8 @@ hectare de terre libéré et cédé à un jeune agriculteur.
 
 Les taux du forfait et de l'aide à l'hectare sont fixés par le préfet après avis
 de la commission départementale d'orientation de l'agriculture de façon que
-l'aide globale n'excède pas le plafond de 70 000 F dans le cas général et de 75
-000 F en zone de montagne.
+l'aide globale n'excède pas le plafond de 10 700 euros dans le cas général et de
+11 500 euros en zone de montagne.
 
 a) Pour prétendre à l'aide à la transmission de l'exploitation agricole, le chef
 d'exploitation doit remplir les conditions suivantes :

@@ -15,4 +15,4 @@ particulières d'utilisation imposées à l'acquéreur ;
 4° Lorsque la spécificité de l'immeuble détermine la qualité de l'acquéreur ;
 
 5° Lorsque la valeur vénale de l'immeuble n'excède pas des montants fixés par
-arrêté du ministre chargé du domaine dans la limite de 500000 F.
+arrêté du ministre chargé du domaine dans la limite de 80000 euros.

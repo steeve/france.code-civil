@@ -8,8 +8,8 @@ cotisation provisionnelle d'assurance vieillesse mentionnée aux articles D.
 
 Toutefois, le montant de cette cotisation annuelle ne peut être inférieur à
 celui de la cotisation qui serait due au titre d'un revenu correspondant à la
-cinquième partie, arrondie au millier de francs supérieur, du plafond mentionné
-à l'article L. 633-10.
+cinquième partie, arrondi à l'euro le plus proche, du plafond mentionné à
+l'article L. 633-10.
 
 Pour les assurés commençant l'exercice d'une activité artisanale ou assimilée,
 la cotisation annuelle d'assurance invalidité-décès est assise pour l'année ou

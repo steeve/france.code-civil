@@ -7,4 +7,4 @@ d'organes, à des prélèvements ou des greffes de tissus, à la conservation ou
 la transformation de tissus ou à la greffe de cellules dans un établissement
 n'ayant pas obtenu l'autorisation prévue par les articles L. 1233-1, L. 1234-2,
 L. 1242-1, L. 1243-1 et L. 1243-4 du code de la santé publique est puni de deux
-ans d'emprisonnement et de 200 000 F d'amende. "
+ans d'emprisonnement et de 30000 euros d'amende. "

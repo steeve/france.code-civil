@@ -7,4 +7,4 @@ ou de doctorat.
 
 Le fait, pour le responsable d'un établissement de donner à celui-ci le titre
 d'université ou de faire décerner des certificats portant le titre de
-baccalauréat, de licence ou de doctorat, est puni de 200 000 F d'amende.
+baccalauréat, de licence ou de doctorat, est puni de 30000 euros d'amende.

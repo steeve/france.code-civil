@@ -31,12 +31,12 @@ et contrôlée par le service des douanes sous les mêmes garanties, sanctions e
 privilèges qu'en matière de droits de douane. L'Etat perçoit sur le produit de
 cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 %
 dudit produit. Le tarif de la taxe est fixé par arrêté du ministre chargé du
-budget dans la limite de 10 F par passager. Cet arrêté peut prévoir des tarifs
-différents ou la gratuité selon les diverses catégories d'usagers pour tenir
-compte soit d'une nécessité d'intérêt général en rapport avec l'espace protégé,
-soit de la situation particulière de certains usagers, et notamment de ceux qui
-ont leur domicile ou leur lieu de travail dans l'espace protégé ou dans une île
-dont tout ou partie du territoire fait partie de l'espace protégé.
+budget dans la limite de 1,52 euro par passager. Cet arrêté peut prévoir des
+tarifs différents ou la gratuité selon les diverses catégories d'usagers pour
+tenir compte soit d'une nécessité d'intérêt général en rapport avec l'espace
+protégé, soit de la situation particulière de certains usagers, et notamment de
+ceux qui ont leur domicile ou leur lieu de travail dans l'espace protégé ou dans
+une île dont tout ou partie du territoire fait partie de l'espace protégé.
 
 La taxe est perçue au profit de la personne publique qui assure la gestion de
 l'espace naturel protégé ou, à défaut, de la commune sur le territoire de

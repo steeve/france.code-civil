@@ -1,6 +1,6 @@
 Article L215-13
 ----
-Est puni d'une peine de six mois d'emprisonnement et de 50 000 F d'amende le
+Est puni d'une peine de six mois d'emprisonnement et de 7 500 euros d'amende le
 fait de transporter des animaux sans détenir l'agrément prévu au I de l'article
 L. 214-12. Les personnes morales peuvent être déclarées responsables pénalement
 dans les conditions prévues par l'article 121-2 du code pénal de l'infraction

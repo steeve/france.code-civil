@@ -39,4 +39,4 @@ financer des investissements de plantation, de replantation et d'adaptation du
 vignoble, ainsi que des investissements de vinification, de stockage et de
 conditionnement correspondant à cette production, est réservé aux demandeurs
 dont le revenu net imposable dans la catégorie des bénéfices agricoles est
-inférieur à 200 000 F.
+inférieur à 30000 euros.

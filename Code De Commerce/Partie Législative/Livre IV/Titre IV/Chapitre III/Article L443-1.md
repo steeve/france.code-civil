@@ -1,6 +1,6 @@
 Article L443-1
 ----
-A peine d'une amende de 500000 F, le délai de paiement, par tout producteur,
+A peine d'une amende de 75000 euros, le délai de paiement, par tout producteur,
 revendeur ou prestataire de services, ne peut être supérieur :
 
 1° A trente jours après la fin de la décade de livraison pour les achats de
