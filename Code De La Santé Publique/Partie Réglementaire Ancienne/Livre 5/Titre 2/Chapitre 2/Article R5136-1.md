@@ -1,18 +1,16 @@
 Article R5136-1
 ----
-Lorsque la demande a été présentée par l'intermédiaire du comité des spécialités
-pharmaceutiques institué par l'article 8 de la directive n° 75/319 du conseil
-des communautés européennes et en application de l'article 9 de cette directive
-:
+Lorsque la demande a été présentée en vue de l'extension en France d'une
+autorisation de mise sur le marché obtenue dans un autre pays membre de la
+Communauté économique européenne le ministre accorde l'autorisation ou fait
+usage de son droit d'opposition dans un délai de cent vingt jours à compter de
+la date qui lui est notifiée par le comité des spécialités pharmaceutiques
+[*point de départ*] institué par l'article 8 de la directive 75/319/C.E.E. du
+Conseil des communautés européennes.
 
-1° La notification à ce comité d'une éventuelle opposition à l'octroi de
-l'autorisation de mise sur le marché doit être faite dans les cent vingt jours
-[*délai*] suivant la date de transmission du dossier au ministre chargé de la
-santé ;
+Si le ministre estime ne pas pouvoir accorder l'autorisation de mise sur le
+marché, il transmet son opposition motivée au comité et au responsable de la
+mise sur le marché de la spécialité pharmaceutique.
 
-2° Le ministre doit statuer sur la demande d'autorisation de mise sur le marché
-dans les trente jours suivant la date à laquelle ledit "comité des spécialités
-pharmaceutiques" l'a informé soit de l'absence de toute opposition à l'octroi de
-l'autorisation, soit de l'avis qu'il a été amené à prendre à la suite
-d'oppositions formulées par un ou plusieurs Etats membres des communautés
-européennes.
+Après réception de l'avis du comité le ministre prononce sur la suite à donner à
+cet avis dans un délai de soixante jours et informe le comité de sa décision.
