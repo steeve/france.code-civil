@@ -1,77 +1,76 @@
 Article D114-1
 ----
-Il est constitué une commission des comptes de la sécurité sociale placée sous
-la présidence du ministre chargé de la sécurité sociale et qui comprend en outre
-:
+La commission des comptes de la sécurité sociale, placée sous la présidence du
+ministre chargé de la sécurité sociale, comprend, en outre :
 
-1°) deux membres de l'Assemblée nationale et deux membres du Sénat désignés
+1° Quatre membres de l'Assemblée nationale et quatre membres du Sénat désignés
 respectivement par le président de l'Assemblée nationale et par le président du
 Sénat ;
 
-2°) le directeur de la sécurité sociale, le commissaire général du Plan, un
-représentant du ministre chargé du budget, un représentant du ministre chargé de
-l'économie, un représentant du ministre chargé de l'agriculture, un magistrat de
-la Cour des comptes ;
+2° Un membre du Conseil économique et social désigné par le président du Conseil
+économique et social ;
 
-3°) douze représentants des organisations professionnelles syndicales et
-sociales désignés à raison de :
+3° Un magistrat de la Cour des comptes désigné par le premier président de la
+Cour des comptes ;
 
-a. cinq par les organisations syndicales les plus représentatives des salariés ;
+4° Douze représentants des organisations professionnelles syndicales et sociales
+désignés à raison de :
 
-b. trois par le conseil national du patronat français ;
+a) Cinq par les organisations syndicales les plus représentatives des salariés ;
 
-c. un par la confédération générale des petites et moyennes entreprises ;
+b) Trois par le conseil national du patronat français ;
 
-d. un par la fédération nationale des syndicats d'exploitants agricoles ;
+c) Un par la confédération générale des petites et moyennes entreprises ;
 
-e. un par l'assemblée permanente des chambres de métiers ;
+d) Un par la fédération nationale des syndicats d'exploitants agricoles ;
 
-f. un par l'union nationale des associations familiales ;
+e) Un par l'assemblée permanente des chambres de métiers ;
 
-4°) a. le président du conseil d'administration de l'agence centrale des
+f) Un par l'union nationale des associations familiales.
+
+5° a) Le président du conseil d'administration de l'agence centrale des
 organismes de sécurité sociale ;
 
-b. le président du conseil d'administration de la caisse nationale de de
+b) Le président du conseil d'administration de la Caisse nationale de
 l'assurance maladie des travailleurs salariés ;
 
-c. le président du conseil d'administration de la caisse nationale d'assurance
+c) Le président du conseil d'administration de la Caisse nationale d'assurance
 vieillesse des travailleurs salariés ;
 
-d. Le président du conseil d'administration de la caisse nationale des
+d) Le président du conseil d'administration de la Caisse nationale des
 allocations familiales ;
 
-e. le président du conseil central d'administration de la mutualité sociale
+e) Le président du conseil central d'administration de la mutualité sociale
 agricole ;
 
-f. le président du conseil d'administration de la caisse nationale d'assurance
+f) Le président du conseil d'administration de la Caisse nationale d'assurance
 vieillesse des professions libérales ;
 
-g. le président du conseil d'administration de la caisse nationale de
-l'assurance vieillesse de l'industrie et du commerce ;
+g) Le président du conseil d'administration de la Caisse de compensation de
+l'organisation autonome nationale de l'industrie et du commerce ;
 
-h. le président du conseil d'administration de la caisse nationale de
-l'assurance vieillesse artisanale ;
+h) Le président du conseil d'administration de la Caisse autonome nationale de
+compensation de l'assurance vieillesse artisanale ;
 
-i. le président du conseil d'administration de la caisse nationale d'assurance
-maladie et maternité des travailleurs non-salariés des professions non-agricoles
+i) Le président du conseil d'administration de la Caisse nationale d'assurance
+maladie et maternité des travailleurs non-salariés des professions non agricoles
 ;
 
-j. la commission comprend en outre un représentant des régimes autres que ceux
+j) La commission comprend en outre un représentant des régimes autres que ceux
 énumérés ci-dessus, désigné après entente entre les présidents des caisses et
 institutions intéressées ou, à défaut, par le ministre chargé de la sécurité
 sociale ;
 
-k. le président du conseil d'administration de l'association générale des
+k) Le président du conseil d'administration de l'association générale des
 institutions de retraites des cadres ;
 
-l. le président du conseil d'administration de l'association des régimes de
-retraites complémentaires ;
+l) Le président du conseil d'administration de l'association des régimes de
+retraites complémentaires.
 
-5°) deux représentants des médecins et trois représentants des établissements de
-soins désignés par le ministre chargé de la sécurité sociale ;
+6° Le président du Centre national des professions de santé ainsi que deux
+représentants des organisations professionnelles de médecins et trois
+représentants des établissements de soins désignés par le ministre chargé de la
+sécurité sociale.
 
-6°) cinq personnalités qualifiées désignées pour leur compétence particulière
-par le ministre chargé de la sécurité sociale ;
-
-7°) un représentant désigné par la fédération nationale de la mutualité
-française.
+7° Six personnalités qualifiées désignées pour leur compétence particulière par
+le ministre chargé de la sécurité sociale.

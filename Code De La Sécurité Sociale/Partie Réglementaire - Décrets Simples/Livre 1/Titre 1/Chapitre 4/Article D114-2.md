@@ -1,7 +1,7 @@
 Article D114-2
 ----
-Un secrétaire général nommé par le ministre chargé de la sécurité sociale assure
-l'organisation des travaux de la commission ainsi que la préparation du rapport
-prévu à l'article D. 114-3.
+Un vice-président est désigné par le président au sein de la commission.
 
-Le secrétaire général siège à la commission avec voix consultative.
+Un secrétaire général permanent, nommé par le ministre chargé de la sécurité
+sociale, assure l'organisation des travaux ainsi que l'établissement du rapport
+prévu à l'article D. 114-3.
