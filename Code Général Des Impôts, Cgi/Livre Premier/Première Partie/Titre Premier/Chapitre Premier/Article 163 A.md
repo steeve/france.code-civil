@@ -7,6 +7,8 @@ demande expresse et irrévocable de leur bénéficiaire, être répartie par par
 trois années suivantes.
 
 L'exercice de cette option est incompatible avec celui de l'option prévue à
-l'article 163. II. Les dispositions du 1 de l'article 204 et du 1 de l'article
-167 s'appliquent à la fraction des indemnités dont l'imposition a été différée
-en vertu du paragraphe I du présent article.
+l'article 163-0 A.
+
+II. Les dispositions du 1 de l'article 204 et du 1 de l'article 167 s'appliquent
+à la fraction des indemnités dont l'imposition a été différée en vertu du
+paragraphe I du présent article.

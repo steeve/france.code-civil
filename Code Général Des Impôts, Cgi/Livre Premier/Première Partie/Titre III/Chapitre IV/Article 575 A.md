@@ -5,71 +5,58 @@ et le minimum de perception sont fixés conformément au tableau ci-après :
 
 Groupe de produits : Cigarettes
 
-1. A compter du 1er janvier 1991 :
+Taux normal :
 
-Taux normal : 52,30
+1. A compter du 18 janvier 1993 : 57,00
 
-2. A compter du 20 avril 1992 :
+2. A compter du 24 mai 1993 : 58,70
 
-Taux normal : 53,28
-
-Minimum de perception par mille unités ou par mille grammes :
-
-30 F
+Minimum de perception par mille unités ou par mille grammes : 30 F
 
 Groupe de produits : Cigares
 
-1. A compter du 1er janvier 1991 :
+Taux normal :
 
-Taux normal : 26,92
+1. A compter du 18 janvier 1993 : 29,26
 
-2. A compter du 20 avril 1992 :
+2. A compter du 24 mai 1993 : 29,26
 
-Taux normal : 29,92 RL&gt; Minimum de perception par mille unités ou par mille
-grammes :
+Minimum de perception par mille unités ou par mille grammes : 34 F
 
-34 F
+Groupe de produits : Tabacs fine coupe destinés à rouler les cigarettes
 
-Groupe de produits : Tabacs à fumer
+Taux normal :
 
-1. A compter du 1er janvier 1991 :
+1. A compter du 18 janvier 1993 : 49,40
 
-Taux normal : 43,55
+3. A compter du 24 mai 1993 : 51,40
 
-2. A compter du 20 avril 1992 :
+Groupe de produits : Autres tabacs à fumer
 
-Taux normal : 44,80
+Taux normal :
 
-Minimum de perception par mille unités ou par mille grammes :
+1. A compter du 18 janvier 1993 : 47,14
 
-12 F
+3. A compter du 24 mai 1993 : 47,14
+
+Minimum de perception par mille unités ou par mille grammes : 12 F
 
 Groupe de produits : Tabacs à priser
 
-1. A compter du 1er janvier 1991 :
+Taux normal :
 
-Taux normal : 36,81
+1. A compter du 18 janvier 1993 : 40,60
 
-2. A compter du 20 avril 1992 :
+2. A compter du 24 mai 1993 : 40,60
 
-Taux normal : 38,26
-
-Minimum de perception par mille unités ou par mille grammes :
-
-8 F
+Minimum de perception par mille unités ou par mille grammes : 8 F
 
 Groupe de produits : Tabacs à mâcher
 
-1. A compter du 1er janvier 1991 :
+Taux normal :
 
-Taux normal : 23,71
+1. A compter du 18 janvier 1993 : 27,87
 
-2. A compter du 20 avril 1992 :
+2. A compter du 24 mai 1993 : 27,87
 
-Taux normal : 25,53
-
-Minimum de perception par mille unités ou par mille grammes :
-
-7 F.
-
-Voir la loi 92-652 1992-07-13 art. 40.
+Minimum de perception par mille unités ou par mille grammes : 7 F.

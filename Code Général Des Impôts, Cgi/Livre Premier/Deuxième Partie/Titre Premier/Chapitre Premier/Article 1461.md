@@ -11,9 +11,13 @@ dispositions légales portant statut de la mutualité;
 faites en application de la législation sur les habitations à loyer modéré;
 
 4° Les sociétés de bains-douches, les sociétés de jardins ouvriers et les
-sociétés de crédit immobilier constituées et fonctionnant conformément aux
-dispositions législatives et réglementaires qui les régissent;
+sociétés de crédit immobilier mentionnées au 4° ter du 1 de l'article 207
+constituées et fonctionnant conformément aux dispositions législatives et
+réglementaires qui les régissent (1);
 
 5° Les organismes de jardins familiaux définis à l'article L. 561-2 du code
 rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des
 conditions telles qu'elle peut être tenue pour désintéressée.
+
+(1) Les dispositions relatives aux sociétés de crédit immobilier s'appliquent à
+compter du 1er janvier 1994.

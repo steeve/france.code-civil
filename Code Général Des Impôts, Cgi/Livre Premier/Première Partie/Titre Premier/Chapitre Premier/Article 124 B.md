@@ -8,3 +8,9 @@ titres.
 Les dispositions du premier alinéa s'appliquent aux cessions de parts des fonds
 communs de créances dont la durée à l'émission est inférieure ou égale à cinq
 ans.
+
+Ces dispositions s'appliquent également aux cessions de tout autre contrat dont
+les revenus sont visés à l'article 124 (1).
+
+(1) Ces dispositions sont applicables aux opérations réalisées compter du 1er
+septembre 1992.

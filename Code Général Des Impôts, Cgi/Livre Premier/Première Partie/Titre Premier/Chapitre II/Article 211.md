@@ -1,15 +1,16 @@
 Article 211
 ----
 I. Dans les sociétés à responsabilité limitée n'ayant pas opté pour le régime
-fiscal des sociétés de personnes dans les conditions prévues à l'article 3-IV du
-décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont majoritaires,
-dans les sociétés en commandite par actions, de même que dans les sociétés en
-commandite simple, les sociétés en nom collectif et les sociétés en
-participation ayant exercé l'option prévue à l'article 206-3, les traitements,
-remboursements forfaitaires de frais et toutes autres rémunérations sont, sous
-réserve des dispositions des articles 39-3 et 211 bis, admis en déduction du
-bénéfice de la société pour l'établissement de l'impôt, à la condition que ces
-rémunérations correspondent à un travail effectif.
+fiscal des sociétés de personnes dans les conditions prévues au IV de l'article
+3 du décret n° 55-594 du 20 mai 1955 modifié et dont les gérants sont
+majoritaires, dans les sociétés en commandite par actions, de même que dans les
+sociétés en commandite simple, les sociétés en nom collectif, les sociétés en
+participation et les sociétés civiles ayant exercé l'option prévue à l'article
+206 3, les traitements, remboursements forfaitaires de frais et toutes autres
+rémunérations sont, sous réserve des dispositions du 3 de l'article 39 et 211
+bis, admis en déduction du bénéfice de la société pour l'établissement de
+l'impôt, à la condition que ces rémunérations correspondent à un travail
+effectif.
 
 Les sommes retranchées du bénéfice de la société en vertu de l'alinéa précédent
 sont soumises à l'impôt sur le revenu au nom des bénéficiaires dans les

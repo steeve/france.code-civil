@@ -1,10 +1,10 @@
 Article 1518 B
 ----
-A compter du 1er janvier 1980 [*date, point de départ*], la valeur locative des
-immobilisations corporelles acquises à la suite d'apports, de scissions, de
-fusions de sociétés ou de cessions d'établissements réalisés à partir du 1er
-janvier 1976 ne peut être inférieure aux deux tiers de la valeur locative
-retenue l'année précédant l'apport, la scission, la fusion ou la cession (1).
+A compter du 1er janvier 1980, la valeur locative des immobilisations
+corporelles acquises à la suite d'apports, de scissions, de fusions de sociétés
+ou de cessions d'établissements réalisés à partir du 1er janvier 1976 ne peut
+être inférieure aux deux tiers de la valeur locative retenue l'année précédant
+l'apport, la scission, la fusion ou la cession (1).
 
 Les dispositions de l'alinéa précédent s'appliquent aux seules immobilisations
 corporelles directement concernées par l'opération d'apport, de scission, de
@@ -27,8 +27,14 @@ les impositions complémentaires à établir au titre de l'année 1992.
 
 Pour les opérations mentionnées au premier alinéa réalisées à compter du 1er
 janvier 1992, la valeur locative des immobilisations corporelles ne peut être
-inférieure aux quatre cinquièmes de la valeur locative retenue l'année précédant
-l'opération. "
+inférieure aux quatre cinquièmes de son montant avant l'opération. Les
+entreprises concernées par de telles opérations, réalisées en 1992, sont tenues
+de souscrire, avant le 1er mai 1993, des déclarations rectificatives pour les
+impositions complémentaires à établir au titre de l'année 1993.
+
+Les dispositions du présent article s'appliquent distinctement aux trois
+catégories d'immobilisations suivantes : terrains, constructions, équipements et
+biens mobiliers.
 
 (1) Voir également art. 1499 A.
 

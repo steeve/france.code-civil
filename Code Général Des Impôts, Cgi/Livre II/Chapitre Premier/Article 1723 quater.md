@@ -4,15 +4,16 @@ I. La taxe locale d'équipement visée à l'article 1585 A est due par le
 bénéficiaire de l'autorisation de construire.
 
 Elle doit être versée au comptable du Trésor de la situation des biens en deux
-fractions égales.
+fractions égales ou en un versement unique lorsque le montant dû n'excède pas
+2.000 F.
 
-Le premier versement est exigible à l'expiration d'un délai de dix-huit mois à
-compter de la date de délivrance du permis de construire ou de la date à
-laquelle l'autorisation de construire est réputée avoir été tacitement accordée.
-Le second versement est exigible à l'expiration d'un délai de trente-six mois à
-compter de la même date.
+Le premier versement ou le versement unique est exigible à l'expiration d'un
+délai de dix-huit mois à compter de la date de délivrance du permis de
+construire ou de la date à laquelle l'autorisation de construire est réputée
+avoir été tacitement accordée. Le second versement est exigible à l'expiration
+d'un délai de trente-six mois à compter de la même date.
 
-Toutefois, la taxe due pour la constrution, par tranches, de logements destinés
+Toutefois, la taxe due pour la construction, par tranches, de logements destinés
 à l'habitation principale, dans les conditions définies par décret en Conseil
 d'Etat, doit être versée au comptable du Trésor en trois versements échelonnés
 de dix-huit mois en dix-huit mois à compter de la date de délivrance du permis
@@ -43,5 +44,5 @@ les conditions fixées au titre IV du livre des procédures fiscales. Il en est 
 même du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale
 dans l'hypothèse visée au II.
 
-IV. Le recouvrement de la taxe est garanti par le privilège prévu à l'article
-1929-1.
+IV. Le recouvrement de la taxe est garanti par le privilège prévu au 1 de
+l'article 1929.
