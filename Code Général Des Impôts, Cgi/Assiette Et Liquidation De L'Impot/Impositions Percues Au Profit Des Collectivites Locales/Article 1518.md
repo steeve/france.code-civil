@@ -49,7 +49,7 @@ département.
 
 IV. L'actualisation des valeurs locatives foncières prévue pour 1983 est
 remplacée par une revalorisation forfaitaire dans les conditions prévues à
-l'article 1518 bis, troisième et quatrième alinéas.
+l'article 1518 bis, deuxième et troisième alinéas.
 
 (1) Actuellement, 1er janvier 1970.
 
