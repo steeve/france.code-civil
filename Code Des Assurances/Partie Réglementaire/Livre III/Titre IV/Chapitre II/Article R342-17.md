@@ -27,7 +27,7 @@ cautionnements et montant de ces provisions et cautionnements.
 
 A 5 Liste détaillée des placements.
 
-B 6 Récapitulations de placements.
+B 6 Récapitulations des placements.
 
 B 7 Avoirs et engagements en France.
 
@@ -57,12 +57,13 @@ financiers.
 B 26 Etat justificatif de la participation minimale des assurés aux bénéfices
 des entreprises d'assurance sur la vie.
 
-Les entreprises doivent ajouter des rubriques à celles des tableaux modèles
-chaque fois qu'une telle addition est utile à la sincérité des comptes rendus ;
-elles ont la faculté de le faire chaque fois que cela est utile à la clarté de
-ces comptes. Toutefois, les postes complémentaires doivent toujours être
-présentés comme des subdivisions des rubriques plus générales figurant au
-tableau modèle, et le total de ces postes complémentaires doit toujours être
-porté sous la rubrique réglementaire à laquelle lesdits postes sont rattachés.
+B 27 Etat concernant les opérations de coassurance communautaire. Les
+entreprises doivent ajouter des rubriques à celles des tableaux modèles chaque
+fois qu'une telle addition est utile à la sincérité des comptes rendus ; elles
+ont la faculté de le faire chaque fois que cela est utile à la clarté de ces
+comptes. Toutefois, les postes complémentaires doivent toujours être présentés
+comme des subdivisions des rubriques plus générales figurant au tableau modèle,
+et le total de ces postes complémentaires doit toujours être porté sous la
+rubrique réglementaire à laquelle lesdits postes sont rattachés.
 
 Les lignes et les colonnes "néant" peuvent être supprimées.
