@@ -5,11 +5,18 @@ période de un an renouvelable, dans le ressort d'un ou de plusieurs
 départements, après avis des organisations professionnelles concernées
 [*définition*].
 
-Elle a pour objet d'embaucher des personnes dépourvues d'emploi pour les mettre
-[*mis*], à titre onéreux, à la disposition de personnes physiques ou morales
-pour des activités qui ne sont pas déjà assurées, dans les conditions
-économiques locales, par l'initiative privée ou par l'action des collectivités
-publiques ou des organismes bénéficiant de ressources publiques.
+Elle a pour objet [*attributions*] d'embaucher des personnes dépourvues d'emploi
+et éprouvant des difficultés de réinsertion, notamment les bénéficiaires du
+revenu minimum d'insertion [*RMI*], les chômeurs de longue durée et les chômeurs
+âgés de plus de cinquante ans, pour les mettre, à titre onéreux, à la
+disposition de personnes physiques ou morales pour des activités qui ne sont pas
+déjà assurées, dans les conditions économiques locales, par l'initiative privée
+ou par l'action des collectivités publiques ou des organismes bénéficiant de
+ressources publiques. Elle participe, dans le cadre strict de son objet
+statutaire, à l'accueil des personnes dépourvues d'emploi et éprouvant des
+difficultés de réinsertion, à l'information des entreprises et des collectivités
+locales sur les mesures de formation professionnelle et d'insertion, à
+l'accompagnement et au suivi des itinéraires.
 
 2° Le salarié d'une association intermédiaire peut être rémunéré soit sur la
 base d'un nombre d'heures forfaitaire déterminé dans le contrat, soit sur la
