@@ -5,7 +5,8 @@ mois qui suit, tout propriétaire d'un véhicule soumis à immatriculation doit
 adresser au préfet du département de son nouveau domicile ou du nouvel
 établissement d'affectation, une demande d'un nouveau certificat
 d'immatriculation établie conformément aux règles fixées par le ministre chargé
-des transports, accompagnée de la carte grise du véhicule.
+des transports, accompagnée de la carte grise du véhicule dont il conserve, s'il
+existe, le coupon détachable dûment rempli.
 
 Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un
 contrat de location de deux ans ou plus, la déclaration doit être adressée au
