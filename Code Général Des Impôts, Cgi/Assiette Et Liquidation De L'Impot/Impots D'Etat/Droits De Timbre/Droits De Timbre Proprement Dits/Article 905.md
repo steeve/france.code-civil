@@ -8,11 +8,11 @@ de papier normal 0,297 0,21 Le prix de ces papiers et les droits de timbre des
 papiers que les contribuables sont autorisés à timbrer eux-mêmes sont fixés
 ainsi qu'il suit, en raison de la dimension du papier :
 
-Papier registre : 112 F [*montant*] ;
+Papier registre : 120 F [*montant*] ;
 
-Papier normal : 56 F ;
+Papier normal : 60 F ;
 
-Demi-feuille de papier normal : 28 F.
+Demi-feuille de papier normal : 30 F.
 
 Toutefois, ces tarifs sont réduits de moitié lorsqu'une seule face du papier est
 utilisée à la rédaction d'un écrit comportant plus d'une page, à la condition,
