@@ -1,10 +1,10 @@
 Article R241-35
 ----
 Dans les entreprises et établissements commerciaux et leurs dépendances, les
-offices publics et ministériels, le professions libérales, les sociétés civiles,
-les syndicats professionnels et les associations de quelque nature que ce soit,
-l'effectif du personnel infirmier doit être au moins d'une infirmière ou un
-infirmier pour 500 à 1000 salariés ; et au-dessus d'une infirmière ou un
+offices publics et ministériels, les professions libérales, les sociétés
+civiles, les syndicats professionnels et les associations de quelque nature que
+ce soit, l'effectif du personnel infirmier doit être au moins d'une infirmière
+ou un infirmier pour 500 à 1000 salariés ; et au-dessus d'une infirmière ou un
 infirmier supplémentaire par tranche de 1000 salariés.
 
 Dans les entreprises et établissements industriels, cet effectif doit être au
