@@ -4,18 +4,18 @@ Dans les limites et conditions fixées par la présente section, des subventions
 et des prêts définis par les sous-sections 2 et 3 ci-après peuvent être accordés
 pour financer :
 
-" 1° L'acquisition de droits de construire ou de terrains destinés à la
+1° L'acquisition de droits de construire ou de terrains destinés à la
 construction de logements à usage locatif et la construction de ces logements ;
 
-" 2° La construction de logements à usage locatif ;
+2° La construction de logements à usage locatif ;
 
-" 3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de
+3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de
 leur amélioration ainsi que les travaux d'amélioration correspondants ;
 
-" 4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur
+4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur
 transformation ou aménagement en logements ;
 
-" 5° Les terrains, droits immobiliers, logements ou immeubles acquis par des
+5° Les terrains, droits immobiliers, logements ou immeubles acquis par des
 organismes d'habitations à loyer modéré, des sociétés d'économie mixte ou des
 collectivités locales ou leurs groupements ainsi que les travaux de
 construction, de transformation ou d'amélioration à réaliser sur ces terrains,
@@ -24,28 +24,27 @@ depuis moins de dix ans à la date de la demande du prêt et qu'ils n'aient pas
 précédemment bénéficié de financement au titre du chapitre Ier du titre Ier du
 livre III ou du livre IV (première partie) ;
 
-" 6° Les travaux d'amélioration exécutés sur des immeubles ou des logements
-cédés à bail emphytéotique par l'Etat, des collectivités locales ou leurs
-groupements ;
+6° Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés
+à bail emphytéotique par l'Etat, des collectivités locales ou leurs groupements
+;
 
-" 7° Les travaux de transformation ou d'aménagement en logements de locaux ou
+7° Les travaux de transformation ou d'aménagement en logements de locaux ou
 d'immeubles non affectés à cet usage ;
 
-" 8° La réalisation des dépendances de ces immeubles ou de ces logements, et
+8° La réalisation des dépendances de ces immeubles ou de ces logements, et
 notamment les garages, jardins, locaux collectifs à usage commun, annexes dans
 des limites fixées par arrêté du ministre chargé de la construction et de
 l'habitation ;
 
-" 9° La réalisation d'opérations de logements-foyers à usage locatif tels que
+9° La réalisation d'opérations de logements-foyers à usage locatif tels que
 définis aux articles R. 351-55 et R. 351-56.
 
-" Dans les limites et conditions fixées par la présente section, des subventions
-définies par la sous-section 2 peuvent être accordées pour financer
-l'acquisition de logements locatifs et, le cas échéant, les travaux
-d'amélioration. Les dispositions des articles R. 331-9 à R. 331-11 et R. 331-24
-relatives aux opérations d'acquisition-amélioration sont applicables à ces
-logements, y compris en l'absence de travaux. Le coût d'acquisition de ces
-logements ne doit pas excéder un pourcentage du prix témoin des opérations
-d'acquisition-amélioration fixé par arrêté des ministres chargés de la
-construction et de l'habitation et des finances pour des zones géographiques
-déterminées. "
+Dans les limites et conditions fixées par la présente section, et notamment par
+les articles R. 331-12, R. 331-14, R. 331-15, des subventions définies par la
+sous-section 2 peuvent être accordées pour financer l'acquisition de logements
+locatifs et le cas échéant les travaux d'amélioration ainsi que les opérations
+et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de l'alinéa précédent. Le
+coût d'acquisition de ces logements ne doit pas excéder un pourcentage du prix
+témoin des opérations d'acquisition-amélioration fixé par arrêté des ministres
+chargés de la construction et de l'habitation et des finances pour des zones
+géographiques déterminées.
