@@ -7,13 +7,11 @@ coefficient égal au rapport entre le montant des salaires servant de base à la
 cotisation en application de l'article R. 731-18 du code du travail et le
 montant de ces salaires avant défalcation de l'abattement prévu au même article.
 
-Dans la limite d'un plafond, par salarié, de 7 heures par jour et de 35 heures
-par semaine, il est versé à l'employeur 85 p. 100 du montant obtenu à l'alinéa
-ci-dessus lorsque la masse salariale définie à l'article R. 731-18 dépasse trois
-fois le montant de l'abattement prévu au même article et 90 p. 100 lorsque la
-masse salariale est au plus égale à trois fois le montant de cet abattement.
+Il est versé à l'employeur 85 p. 100 du montant obtenu à l'alinéa ci-dessus
+lorsque la masse salariale définie à l'article R. 731-18 dépasse trois fois le
+montant de l'abattement prévu au même article et 90 p. 100 lorsque la masse
+salariale est au plus égale à trois fois le montant de cet abattement.
 
 Pour les 6 premières heures indemnisées suivant l'heure de carence prévue à
-l'article R. 731-4 et pour les heures indemnisées au-delà du plafond fixé à
-l'alinéa précédent, il est versé de façon uniforme à l'employeur 10 p. 100 du
-montant obtenu au premier alinéa du présent article [*pourcentage*].
+l'article R. 731-4, il est versé de façon uniforme à l'employeur 10 p. 100 du
+montant obtenu au premier alinéa du présent article.

@@ -20,18 +20,17 @@ besoins de leurs opérations imposables, et à la condition que ces opérations
 ouvrent droit à déduction, la taxe dont les redevables peuvent opérer la
 déduction est, selon le cas :
 
-a) Celle qui figure sur les factures d'achat qui leur sont délivrées par leurs
-vendeurs, dans la mesure où ces derniers étaient légalement autorisés à la faire
-figurer sur lesdites factures ;
+a) Celle qui figure sur les factures établies conformément aux dispositions de
+l'article 289 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
 b) Celle qui est perçue à l'importation ;
 
 c) Celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la
 livraison à soi-même des biens ou des services ;
 
-d) Celle qui correspond aux factures d'acquisition intracommunautaire délivrées
-par leurs vendeurs dont le montant figure sur la déclaration de recettes
-conformément au b du 5 de l'article 287.
+d) Celle qui correspond aux factures d'acquisition intracommunautaire établies
+conformément à la réglementation communautaire dont le montant figure sur la
+déclaration de recettes conformément au b du 5 de l'article 287.
 
 2. La déduction ne peut pas être opérée si les redevables ne sont pas en
 possession soit desdites factures, soit de la déclaration d'importation sur
