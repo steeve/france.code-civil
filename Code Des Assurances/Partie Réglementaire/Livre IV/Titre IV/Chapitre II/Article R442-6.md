@@ -1,7 +1,7 @@
 Article R442-6
 ----
-Le franchissement par une personne, agissant seule ou de concert, du seuil de 5
-p. 100 du capital social ou des droits de vote de la société fait l'objet d'une
+Le franchissement par une personne, agissant seule ou de concert, du seuil de 10
+% du capital social ou des droits de vote de la société fait l'objet d'une
 délibération du conseil d'administration soumise à l'approbation du ministre
 chargé de l'économie. Cette approbation est réputée acquise, sauf opposition du
 ministre chargé de l'économie dans un délai de quinze jours suivant la
