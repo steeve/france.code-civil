@@ -1,8 +1,8 @@
 Article 279
 ----
 Si le fabricant ou le fournisseur cesse de remplir les conditions fixées ou
-commet une infraction aux dispositions du code général des impôts, le directeur
-général des douanes et droits indirects peut lui retirer son numéro
+commet une infraction aux dispositions du code général des impôts, le ministre
+de l'économie, des finances et de l'industrie peut lui retirer son numéro
 d'identification après l'avoir mis en mesure de présenter ses observations.
 
 Le retrait est notifié par lettre recommandée avec demande d'avis de réception

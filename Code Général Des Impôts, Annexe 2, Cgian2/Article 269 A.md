@@ -2,10 +2,10 @@ Article 269 A
 ----
 Pour l'application du régime contingentaire des rhums et tafias, les contingents
 départementaux et les contingents des distilleries sont répartis par arrêtés
-conjoints des ministres chargés du budget, de l'agriculture et de l'outre-mer,
-après avis du conseil interprofessionnel du rhum traditionnel des départements
-d'outre-mer, en prenant en compte en priorité les références commerciales de
-1991 à 1994.
+conjoints du ministre de l'économie, des finances et de l'industrie, et des
+ministres chargés de l'agriculture et de l'outre-mer, après avis du conseil
+interprofessionnel du rhum traditionnel des départements d'outre-mer, en prenant
+en compte en priorité les références commerciales de 1991 à 1994.
 
 Ces arrêtés fixent également les conditions de la gestion des contingents ainsi
 que les règles d'organisation de la campagne rhumière et notamment les dates des

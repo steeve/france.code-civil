@@ -1,14 +1,9 @@
 Article R*247-12
 ----
 Le comité du contentieux fiscal, douanier et des changes intervenant dans les
-cas fixés par les c et d de l'article R 247-4 est saisi, selon le cas, par le
-directeur général des impôts ou par le ministre. Lorsque le comité susmentionné
-intervient dans les cas fixés par les b et c de l'article R 247-5, il est saisi,
-selon le cas ((par le directeur général des impôts, pour les remises ou
-transactions relatives aux infractions aux dispositions de l'article 290 quater
-et du III de l'article 298 bis du code général des impôts)), par le directeur
-général des douanes et droits indirects ((dans les autres cas)) (M) ou par le
-ministre.
+cas fixés par le d de l'article R 247-4 est saisi par le ministre de l'économie,
+des finances et de l'industrie. Il en est de même lorsque le comité susmentionné
+intervient dans les cas fixés par le c de l'article R 247-5.
 
 Il invite le contribuable, par lettre recommandée avec avis de réception, à
 produire dans un délai de trente jours, les observations écrites que celui-ci

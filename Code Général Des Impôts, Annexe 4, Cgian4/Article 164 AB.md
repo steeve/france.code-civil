@@ -1,8 +1,7 @@
 Article 164 AB
 ----
-Sauf autorisation de l'administration des impôts ou de l'administration des
-douanes et droits indirects, pour ce qui la concerne, lui notifie la révocation
-il est interdit au concessionnaire :
+Sauf autorisation du ministre de l'économie, des finances, et de l'industrie, il
+est interdit au concessionnaire :
 
 de livrer des machines ou des pièces détachées en remplacement ou non d'une
 pièce déjà fournie ;
