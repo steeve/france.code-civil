@@ -19,7 +19,3 @@ salariés, même lorsqu'il s'agit de locaux habités.
 Le juge doit vérifier que la demande d'autorisation qui lui est soumise est
 fondée sur des éléments de fait laissant présumer l'existence des infractions
 dont la preuve est recherchée.
-
-En cas de constatation d'infraction aux articles précités, les officiers de
-police judiciaire procèdent ensuite selon les modalités des articles 77 et
-suivants du code de procédure pénale.

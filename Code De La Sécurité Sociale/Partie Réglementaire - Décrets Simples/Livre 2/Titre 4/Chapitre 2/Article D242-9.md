@@ -1,7 +1,7 @@
 Article D242-9
 ----
 Bénéficient de l'exonération prévue à l'article L. 242-12 pour la période allant
-du 1er juillet d'une année au 30 juin de l'année suivante :
+du 1er janvier au 31 décembre d'une année :
 
 1°) les personnes appartenant à un foyer fiscal dont les ressources au titre de
 l'avant-dernière année civile précédant le début de la période de douze mois
@@ -21,7 +21,7 @@ b. allocation aux mères de famille prévue à l'article L. 813-1 du présent co
 c. allocation de vieillesse agricole prévue aux articles 1111 et 1115 du code
 rural ;
 
-d. allocation aux vieux travailleurs non-salariés prévue à l'article L. 812-1 du
+d. allocation aux vieux travailleurs non salariés prévue à l'article L. 812-1 du
 présent code ;
 
 e. allocation spéciale prévue à l'article L. 814-1 du présent code ;

@@ -2,10 +2,10 @@ Article L723-3
 ----
 Les droits alloués aux avocats par les tarifs pour la plaidoirie et perçus par
 eux dans la métropole et dans les départements mentionnés à à l'article L. 751-1
-sont affectés au financement du régime vieillesse spécial de la profession. Ils
-sont recouvrés par l'ordre des avocats au Conseil d'Etat et à la Cour de
-cassation et par chaque barreau et sont versés à la caisse nationale des
-barreaux français.
+sont affectés au financement du régime d'assurance vieillesse spécial de base de
+la Caisse nationale des barreaux français. Ils sont recouvrés par l'ordre des
+avocats au Conseil d'Etat et à la Cour de cassation et par chaque barreau et
+sont versés à la caisse nationale des barreaux français.
 
 Un décret en Conseil d'Etat fixe les modalités selon lesquelles les avocats dont
 l'activité principale n'est pas la plaidoirie versent une contribution

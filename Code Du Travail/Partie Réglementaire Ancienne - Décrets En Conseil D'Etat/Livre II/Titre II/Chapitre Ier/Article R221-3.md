@@ -1,7 +1,6 @@
 Article R221-3
 ----
-L'arrêté préfectoral prévu aux articles R. 221-1 et R. 221-2 peut être déféré au
-tribunal administratif dans la quinzaine [*délai*] de sa notification aux
-intéressés.
-
-Le tribunal administratif statue dans le mois qui suit la date du recours.
+Pour l'application des dispositions relative à l'aide juridictionnelle et aux
+commissions ou désignations d'office, la profession d'avocat est admise, en
+application de l'article L. 221-9, à donner le repos hebdomadaire, par
+roulement, aux avocats salariés.

@@ -6,11 +6,9 @@ d'une durée définie, dans les conditions fixées par le décret prévu au pré
 article, à une allocation d'insertion qui est servie pendant une durée
 déterminée :
 
-1° Les personnes âgées de seize à vingt-cinq ans à la recherche d'un emploi
-depuis une durée déterminée ;
+1° (dispositions abrogées)
 
-2° Les femmes qui n'ont pu obtenir un emploi et qui sont veuves, divorcées,
-séparées judiciairement ou célibataires ayant la charge d'au moins un enfant ;
+2° (dispositions abrogées)
 
 3° Les détenus libérés à l'issue d'une période minimale de détention ; sont
 toutefois exclus du bénéfice de cette disposition ceux qui ont été libérés après

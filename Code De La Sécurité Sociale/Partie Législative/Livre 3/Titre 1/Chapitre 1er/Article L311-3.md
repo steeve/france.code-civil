@@ -93,3 +93,8 @@ au développement de l'emploi par la formation dans les entreprises, l'aide à
 l'insertion sociale et professionnelle et l'aménagement du temps de travail,
 pour l'application du troisième plan pour l'emploi, non immatriculés au registre
 du commerce ou au registre des métiers.
+
+19° Les avocats salariés, ainsi que les avocats porteurs de parts sociales ou
+d'actions d'une société d'exercice libéral constituée pour l'exercice de leur
+profession, sauf pour les risques gérés par la Caisse nationale des barreaux
+français visée à l'article L. 723-1 à l'exception des risques invalidité-décès.
