@@ -1,6 +1,6 @@
 Article 199 decies E
 ----
-Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2006,
+Tout contribuable qui, entre le 1er janvier 1999 et le 31 décembre 2010,
 acquiert un logement neuf ou en l'état futur d'achèvement faisant partie d'une
 résidence de tourisme classée dans une zone de revitalisation rurale et qui le
 destine à une location dont le produit est imposé dans la catégorie des revenus
@@ -9,19 +9,20 @@ fonciers bénéficie d'une réduction d'impôt sur le revenu.
 Cette réduction d'impôt est calculée sur le prix de revient de ces logements
 dans la limite de 50 000 euros pour une personne célibataire, veuve ou divorcée
 et de 100 000 euros pour un couple marié. Son taux est de 25 %. Il ne peut être
-opéré qu'une seule réduction d'impôt à la fois et elle est répartie sur quatre
+opéré qu'une seule réduction d'impôt à la fois et elle est répartie sur six
 années au maximum. Elle est accordée au titre de l'année d'achèvement du
 logement ou de son acquisition si elle est postérieure et imputée sur l'impôt dû
-au titre de cette même année à raison du quart des limites de 12 500 euros ou 25
-000 euros puis, le cas échéant, pour le solde les trois années suivantes dans
+au titre de cette même année à raison du sixième des limites de 12 500 euros ou
+25 000 euros puis, le cas échéant, pour le solde les cinq années suivantes dans
 les mêmes conditions.
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les
-logements faisant partie d'une résidence de tourisme classée dans une zone
-rurale, autre qu'une zone de revitalisation rurale précitée, inscrite sur la
-liste pour la France des zones concernées par l'objectif n° 2 prévue à l'article
-4 du règlement (CE) n° 1260 / 1999 du Conseil du 21 juin 1999 portant
-dispositions générales sur les fonds structurels.
+logements faisant partie d'une résidence de tourisme classée dans une zone,
+autre qu'une zone de revitalisation rurale précitée, inscrite sur la liste pour
+la France des zones concernées par l'objectif n° 2 prévue à l'article 4 du
+règlement (CE) n° 1260/1999 du Conseil du 21 juin 1999 portant dispositions
+générales sur les fonds structurels, à l'exclusion des communes situées dans des
+agglomérations de plus de 5 000 habitants.
 
 Ouvrent également droit à la réduction d'impôt, dans les mêmes conditions, les
 logements faisant partie d'une résidence de tourisme classée et située dans le

@@ -41,5 +41,14 @@ s'engage à utiliser les sommes déposées sur le compte au cours des sept
 exercices qui suivent celui au titre duquel la déduction correspondante a été
 pratiquée.
 
+La transmission à titre gratuit d'une exploitation individuelle dans les
+conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la
+déduction au titre d'un exercice précédant celui de la transmission n'est pas
+considérée pour l'application du I comme une cessation d'activité si le ou les
+bénéficiaires de la transmission remplissent les conditions ouvrant droit à la
+déduction et s'engagent à utiliser les sommes déposées sur le compte au cours
+des cinq exercices qui suivent celui au titre duquel la déduction correspondante
+a été pratiquée dans les conditions et les limites définies au I (1).
+
 III. - Le compte ouvert auprès d'un établissement de crédit est un compte
 courant qui retrace exclusivement les opérations définies au I.

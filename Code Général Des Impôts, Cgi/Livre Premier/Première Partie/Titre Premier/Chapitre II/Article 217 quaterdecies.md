@@ -6,7 +6,8 @@ de l'investissement, un amortissement exceptionnel égal à 50 % du montant des
 sommes effectivement versées pour la souscription en numéraire au capital de
 sociétés d'investissement régional définies à l'article 89 de la loi n°
 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
-urbains.
+urbains ou de sociétés d'investissement pour le développement rural définies à
+l'article L. 112-18 du code rural (1).
 
 En cas de cession de tout ou partie des titres souscrits dans les cinq ans de
 leur acquisition, le montant de l'amortissement exceptionnel est réintégré au
@@ -15,4 +16,4 @@ d'une somme égale au produit de ce montant par le taux de l'intérêt de retard
 prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions
 mentionnées à l'article 1727 A.
 
-Un décret fixe les obligations déclaratives (1) (2).
+Un décret fixe les obligations déclaratives.

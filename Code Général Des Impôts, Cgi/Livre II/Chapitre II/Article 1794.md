@@ -20,7 +20,12 @@ pénalité ;
 et sirops d'inuline en infraction à la réglementation des sucrages édictée par
 le présent code et les textes d'application ;
 
-5° Infractions aux dispositions des articles 521, 524, 526, 531, 535 à 539, 543,
-545 à 551 ;
+5° Infractions aux dispositions des articles 521,524,526,531,535 à 539,543,545 à
+551 ;
 
-6° à 8° (Abrogés).
+6° Infractions aux dispositions communautaires ou nationales relatives aux
+distillations des vins issus de cépages classés à la fois comme variétés à
+raisin de cuve et comme variétés destinées à l'élaboration d'eaux-de-vie à
+appellation d'origine.
+
+7° à 8° (Abrogés).

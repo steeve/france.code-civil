@@ -41,3 +41,11 @@ suivent celui au cours duquel elle a été pratiquée.
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est
 rapportée aux résultats de l'exercice clos à l'occasion de l'apport en société.
+
+III. - La transmission à titre gratuit d'une exploitation individuelle dans les
+conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la
+déduction au titre d'un exercice précédant celui de la transmission n'est pas
+considérée pour l'application du I comme une cessation d'activité si le ou les
+bénéficiaires de la transmission remplissent les conditions ouvrant droit à la
+déduction et s'engagent à utiliser celle-ci conformément à son objet dans les
+cinq années qui suivent celle au cours de laquelle elle a été pratiquée (1).

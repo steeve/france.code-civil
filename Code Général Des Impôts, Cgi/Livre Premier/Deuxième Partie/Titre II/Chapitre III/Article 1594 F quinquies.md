@@ -67,7 +67,8 @@ n'entraîne pas la déchéance du bénéfice du taux réduit.
 
 E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de
 développement prioritaire délimités par le décret n° 94-1139 du 26 décembre 1994
-modifié qui sont effectuées par les agriculteurs bénéficiaires des aides à
+modifié et dans les zones de revitalisation rurale définies au II de l'article
+1465 A, qui sont effectuées par les agriculteurs bénéficiaires des aides à
 l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du
 code rural, que les intéressés soient exploitants individuels ou associés d'une
 société civile à objet agricole, pour la fraction du prix ou de la valeur

@@ -3,7 +3,11 @@ Article L120-3
 Les personnes physiques immatriculées au registre du commerce et des sociétés,
 au répertoire des métiers, au registre des agents commerciaux ou auprès des
 unions de recouvrement des cotisations de sécurité sociale et d'allocations
-familiales pour le recouvrement des cotisations d'allocations familiales, ainsi
+familiales pour le recouvrement des cotisations d'allocations familiales ou
+inscrites au registre des entreprises de transport routier de personnes, qui
+effectuent du transport scolaire prévu par l'article L. 213-11 du code de
+l'éducation, ou du transport à la demande conformément à l'article 29 de la loi
+n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, ainsi
 que les dirigeants des personnes morales immatriculées au registre du commerce
 et des sociétés et leurs salariés sont présumés ne pas être liés avec le donneur
 d'ouvrage par un contrat de travail dans l'exécution de l'activité donnant lieu
