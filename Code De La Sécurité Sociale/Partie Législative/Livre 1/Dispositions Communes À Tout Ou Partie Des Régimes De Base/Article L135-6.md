@@ -22,4 +22,10 @@ la loi de finances pour 2001 ;
 6° Toute autre ressource affectée au fonds de réserve en vertu de dispositions
 législatives ;
 
-7° Le produit des placements effectués au titre du fonds de réserve.
+7° Le produit des placements effectués au titre du fonds de réserve ;
+
+8° Les sommes issues de l'application du titre IV du livre IV du code du travail
+et reçues en consignation par la Caisse des dépôts et consignations, au terme de
+la prescription fixée par l'article 2262 du code civil ;
+
+9° Le produit de la contribution instituée à l'article L. 137-5.

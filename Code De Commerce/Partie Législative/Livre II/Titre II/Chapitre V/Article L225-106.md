@@ -21,6 +21,10 @@ surveillance, selon le cas, un ou des salariés actionnaires ou membres des
 conseils de surveillance des fonds communs de placement d'entreprise détenant
 des actions de la société.
 
+Cette consultation est également obligatoire lorsque l'assemblée générale
+extraordinaire doit se prononcer sur une modification des statuts en application
+de l'article L. 225-23 ou de l'article L. 225-71.
+
 Les clauses contraires aux dispositions des alinéas précédents sont réputées non
 écrites.
 

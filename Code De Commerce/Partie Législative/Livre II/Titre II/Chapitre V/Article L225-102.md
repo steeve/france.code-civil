@@ -23,3 +23,11 @@ société coopérative ouvrière de production au sens de la loi n° 78-763 du 1
 juillet 1978 portant statut de sociétés coopératives ouvrières de production ne
 sont pas pris en compte pour l'évaluation de la proportion du capital prévue à
 l'alinéa précédent.
+
+Lorsque le rapport annuel ne comprend pas les mentions prévues au premier
+alinéa, toute personne intéressée peut demander au président du tribunal
+statuant en référé d'enjoindre sous astreinte au conseil d'administration ou au
+directoire, selon le cas, de communiquer ces informations.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure
+sont à la charge des administrateurs ou des membres du directoire, selon le cas.

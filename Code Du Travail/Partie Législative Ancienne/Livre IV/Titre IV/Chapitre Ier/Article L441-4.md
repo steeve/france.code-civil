@@ -2,7 +2,7 @@ Article L441-4
 ----
 Les sommes attribuées aux salariés en application de l'accord d'intéressement
 n'ont pas le caractère de rémunération, au sens de l'article L. 242-1 du code de
-la sécurité sociale, et ne peuvent se substituer à aucun des éléments de
+la sécurité sociale et ne peuvent se substituer à aucun des éléments de
 rémunération, au sens du même article, en vigueur dans l'entreprise ou qui
 deviennent obligatoires en vertu de règles légales ou contractuelles.
 
@@ -14,3 +14,10 @@ supprimé et la date d'effet de cet accord.
 
 Les sommes mentionnées au premier alinéa n'ont pas le caractère d'élément de
 salaire pour l'application de la législation du travail.
+
+La règle de non-substitution ne s'applique pas lorsque les sommes sont
+distribuées en vertu d'un accord d'intéressement, conclu, modifié ou prévu,
+avant la date de publication de la loi n° 2001-152 du 19 février 2001 sur
+l'épargne salariale, dans le cadre d'un accord de réduction du temps de travail
+fixant la durée du travail à un niveau au plus égal à la durée mentionnée aux
+articles L. 212-1 et L. 212-8.

@@ -60,7 +60,13 @@ conditions prévues à l'article L. 442-4 du même code ;
 7° Lorsque les intéressés demandent la délivrance des sommes ou valeurs
 provenant d'un plan d'épargne entreprise au sens du chapitre III du titre IV du
 livre IV du code du travail, le revenu constitué par la différence entre le
-montant de ces sommes ou valeurs et le montant des sommes versées dans le plan ;
+montant de ces sommes ou valeurs et le montant des sommes versées dans le plan
+augmentées, le cas échéant, des sommes attribuées au titre de la réserve
+spéciale de la participation des salariés aux résultats de l'entreprise et des
+sommes versées dans le ou les précédents plans, à concurrence du montant des
+sommes transférées dans les conditions prévues aux articles L. 442-5 et L. 443-2
+du code du travail, l'opération de transfert ne constituant pas une délivrance
+des sommes concernées ;
 
 8° Les répartitions de sommes ou valeurs effectuées par un fonds commun de
 placement à risques dans les conditions prévues aux I et II de l'article 163

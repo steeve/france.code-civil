@@ -20,8 +20,8 @@ report prévu au présent alinéa.
 
 Le compte épargne-temps peut également être alimenté par la conversion de tout
 ou partie de primes conventionnelles ou indemnités en jours de congé
-supplémentaires et par tout ou partie des primes d'intéressement, dans les
-conditions définies à l'article L. 441-8.
+supplémentaires et par tout ou partie des sommes versées dans les conditions
+définies à l'article L. 444-6.
 
 Une fraction de l'augmentation individuelle de salaire prévue par un accord de
 salaires peut être affectée au compte épargne-temps du salarié, dans les

@@ -1,9 +1,9 @@
 Article L412-18
 ----
-Le licenciement d'un délégué syndical ne peut intervenir [*condition*] qu'après
-autorisation de l'inspecteur du travail ou de l'autorité qui en tient lieu.
-Toutefois, en cas de faute grave, le chef d'entreprise a la faculté de prononcer
-à titre provisoire la mise à pied immédiate de l'intéressé.
+Le licenciement d'un délégué syndical ne peut intervenir qu'après autorisation
+de l'inspecteur du travail ou de l'autorité qui en tient lieu. Toutefois, en cas
+de faute grave, le chef d'entreprise a la faculté de prononcer à titre
+provisoire la mise à pied immédiate de l'intéressé.
 
 Cette décision est, à peine de nullité, motivée et notifiée à l'inspecteur du
 travail dans le délai de quarante-huit heures à compter de sa prise d'effet.
@@ -13,7 +13,7 @@ supprimés de plein droit.
 
 La même procédure est applicable au licenciement des anciens délégués syndicaux
 pendant douze mois après la cessation de leurs fonctions, lorsque celles-ci ont
-été exercées pendant un an au moins [*délai de protection*].
+été exercées pendant un an au moins.
 
 Elle est également applicable aux délégués syndicaux créés par des conventions
 ou accords collectifs.

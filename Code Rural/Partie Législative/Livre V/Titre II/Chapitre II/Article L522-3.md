@@ -27,8 +27,9 @@ vocation agricole ;
 
 9° Lorsque les statuts de la société organisent la transmissibilité par
 inscription en compte ou tradition des parts des associés non coopérateurs, de
-fonds communs de placement d'entreprise constitués entre des salariés de la
-coopérative et de ses filiales.
+fonds communs de placement d'entreprise souscrits par les salariés de la
+coopérative ou d'une entreprise comprise dans le champ du même plan ou accord de
+groupe.
 
 Le capital détenu par les établissements de crédit et leurs filiales
 spécialisées de participation ne peut excéder 20 p. 100 du capital social.
