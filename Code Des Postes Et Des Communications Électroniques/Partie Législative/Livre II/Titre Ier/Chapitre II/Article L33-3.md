@@ -26,5 +26,10 @@ Les salles de spectacles sont tout lieu dont l'aménagement spécifique est
 destiné à permettre la représentation ou la diffusion au public d'une oeuvre de
 l'esprit.
 
+7° Les installations radioélectriques permettant de rendre inopérants dans
+l'enceinte des établissements pénitentiaires, tant pour l'émission que pour la
+réception, les appareils de télécommunication mobiles de tous types.
+
 Les conditions d'utilisation des installations radioélectriques mentionnées
-ci-dessus sont déterminées dans les conditions prévues à l'article L. 36-6 ;
+ci-dessus, à l'exception de celles prévues au 7°, sont déterminées dans les
+conditions prévues à l'article L. 36-6.

@@ -38,7 +38,9 @@ ou de sa mission ;
 
 11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou
 éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords
-d'un tel établissement.
+d'un tel établissement ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros
 d'amende lorsque l'infraction définie au premier alinéa est commise sur un
@@ -46,6 +48,6 @@ mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute
 autre personne ayant autorité sur le mineur. Les peines sont également portées à
 cinq ans d'emprisonnement et 75000 euros d'amende lorsque cette infraction,
 ayant entraîné une incapacité totale de travail inférieure ou égale à huit
-jours, est commise dans deux des circonstances prévues aux 1° à 10° du présent
+jours, est commise dans deux des circonstances prévues aux 1° à 12° du présent
 article. Les peines sont portées à sept ans d'emprisonnement et 100000 euros
 d'amende lorsqu'elle est commise dans trois de ces circonstances.

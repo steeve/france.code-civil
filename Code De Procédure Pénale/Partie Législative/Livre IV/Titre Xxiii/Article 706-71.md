@@ -4,11 +4,13 @@ Lorsque les nécessités de l'enquête ou de l'instruction le justifient,
 l'audition ou l'interrogatoire d'une personne ainsi que la confrontation entre
 plusieurs personnes peuvent être effectués en plusieurs points du territoire de
 la République se trouvant reliés par des moyens de télécommunications
-garantissant la confidentialité de la transmission. Il est alors dressé, dans
-chacun des lieux, un procès-verbal des opérations qui y ont été effectuées. Ces
-opérations peuvent faire l'objet d'un enregistrement audiovisuel ou sonore, les
-dispositions des quatrième à neuvième alinéas de l'article 706-52 sont alors
-applicables.
+garantissant la confidentialité de la transmission. Dans les mêmes conditions,
+la présentation aux fins de prolongation de la garde à vue ou de la retenue
+judiciaire peut être réalisée par l'utilisation de moyens de télécommunication
+audiovisuelle. Il est alors dressé, dans chacun des lieux, un procès-verbal des
+opérations qui y ont été effectuées. Ces opérations peuvent faire l'objet d'un
+enregistrement audiovisuel ou sonore, les dispositions des quatrième à neuvième
+alinéas de l'article 706-52 sont alors applicables.
 
 En cas de nécessité, résultant de l'impossibilité pour un interprète de se
 déplacer, l'assistance de l'interprète au cours d'une audition, d'un

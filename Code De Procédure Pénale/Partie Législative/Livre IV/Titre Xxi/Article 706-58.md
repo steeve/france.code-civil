@@ -1,6 +1,6 @@
 Article 706-58
 ----
-En cas de procédure portant sur un crime ou sur un délit puni d'au moins cinq
+En cas de procédure portant sur un crime ou sur un délit puni d'au moins trois
 ans d'emprisonnement, lorsque l'audition d'une personne visée à l'article 706-57
 est susceptible de mettre gravement en danger la vie ou l'intégrité physique de
 cette personne, des membres de sa famille ou de ses proches, le juge des

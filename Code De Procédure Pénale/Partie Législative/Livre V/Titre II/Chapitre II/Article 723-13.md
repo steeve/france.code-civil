@@ -2,11 +2,11 @@ Article 723-13
 ----
 Le juge de l'application des peines peut, après avoir entendu le condamné en
 présence de son avocat, retirer la décision de placement sous surveillance
-électronique soit en cas d'inobservation des conditions d'exécution constatée au
-cours d'un contrôle au lieu de l'assignation, d'inobservation des mesures
-prononcées en application de l'article 723-10, de nouvelle condamnation ou de
-refus par le condamné d'une modification nécessaire des conditions d'exécution,
-soit à la demande du condamné.
+électronique soit en cas d'inobservation des interdictions ou obligations
+prévues au dernier alinéa de l'article 723-7, d'inconduite notoire,
+d'inobservation des mesures prononcées en application de l'article 723-10, de
+nouvelle condamnation ou de refus par le condamné d'une modification nécessaire
+des conditions d'exécution, soit à la demande du condamné.
 
 La décision est prise en chambre du conseil à l'issue d'un débat contradictoire
 au cours duquel le juge de l'application des peines entend les réquisitions du

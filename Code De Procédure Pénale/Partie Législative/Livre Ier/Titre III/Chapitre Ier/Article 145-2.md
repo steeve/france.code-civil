@@ -20,5 +20,17 @@ plusieurs crimes mentionnés aux livres II et IV du code pénal, ou pour trafic 
 stupéfiants, terrorisme, proxénétisme, extorsion de fonds ou pour un crime
 commis en bande organisée.
 
+A titre exceptionnel, lorsque les investigations du juge d'instruction doivent
+être poursuivies et que la mise en liberté de la personne mise en examen
+causerait pour la sécurité des personnes et des biens un risque d'une
+particulière gravité, la chambre de l'instruction peut prolonger pour une durée
+de quatre mois les durées prévues au présent article. La chambre de
+l'instruction, devant laquelle la comparution personnelle du mis en examen est
+de droit, est saisie par ordonnance motivée du juge des libertés et de la
+détention selon les modalités prévues par le dernier alinéa de l'article 137-1,
+et elle statue conformément aux dispositions des articles 144, 144-1, 145-3,
+194, 197, 198, 199, 200, 206 et 207. Cette décision peut être renouvelée une
+fois sous les mêmes conditions et selon les mêmes modalités.
+
 Les dispositions du présent article sont applicables jusqu'à l'ordonnance de
 règlement.

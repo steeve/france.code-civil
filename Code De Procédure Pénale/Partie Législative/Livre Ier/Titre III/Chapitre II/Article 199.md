@@ -24,7 +24,11 @@ En matière de détention provisoire, la comparution personnelle de la personne
 concernée est de droit si celle-ci ou son avocat en fait la demande ; cette
 requête doit, à peine d'irrecevabilité, être présentée en même temps que la
 déclaration d'appel ou que la demande de mise en liberté adressée à la chambre
-de l'instruction.
+de l'instruction. Si la personne a déjà comparu devant la chambre de
+l'instruction moins de quatre mois auparavant, le président de cette juridiction
+peut, en cas d'appel d'une ordonnance rejetant une demande de mise en liberté,
+refuser la comparution personnelle de l'intéressé par une décision motivée qui
+n'est susceptible d'aucun recours.
 
 En cas de comparution personnelle de la personne concernée, le délai maximum
 prévu au troisième alinéa de l'article 194 est prolongé de cinq jours.

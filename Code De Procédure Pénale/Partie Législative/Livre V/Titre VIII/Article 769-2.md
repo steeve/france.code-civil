@@ -3,8 +3,8 @@ Article 769-2
 Sont retirées du casier judiciaire :
 
 1° Les fiches relatives aux mesures prononcées, par application des articles 8,
-15, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante, à la date d'expiration de la mesure et en tout cas
+15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février 1945 relative
+à l'enfance délinquante, à la date d'expiration de la mesure et en tout cas
 lorsque le mineur atteint l'âge de la majorité ;
 
 2° Les fiches relatives à des condamnations à des peines d'amende ainsi qu'à des

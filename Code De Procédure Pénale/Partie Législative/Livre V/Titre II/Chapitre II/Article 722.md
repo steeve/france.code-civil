@@ -44,6 +44,10 @@ l'appel par le condamné, par le procureur de la République et par le procureur
 général, dans le délai de dix jours à compter de sa notification. L'appel est
 porté devant la chambre des appels correctionnels.
 
+Le juge de l'application des peines peut, avec l'accord du procureur de la
+République et celui du condamné ou de son avocat, octroyer une des mesures
+mentionnées à l'alinéa précédent sans procéder à un débat contradictoire.
+
 Les décisions du juge de l'application des peines sont exécutoires par
 provision. Toutefois, lorsque l'appel du ministère public est formé, dans les
 vingt-quatre heures de la notification, contre une décision accordant l'une des

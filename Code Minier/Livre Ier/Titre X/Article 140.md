@@ -10,3 +10,8 @@ police judiciaire conformément aux dispositions du code de procédure pénale.
 
 Tout procès-verbal constatant une de ces infractions est adressé en original au
 procureur de la République et en copie au préfet.
+
+Le procureur de la République peut ordonner la destruction des matériels ayant
+servi à commettre la ou les infractions constatées par procès-verbal lorsqu'il
+n'existe pas de mesures techniques raisonnablement envisageables pour empêcher
+définitivement le renouvellement de cette ou de ces infractions.

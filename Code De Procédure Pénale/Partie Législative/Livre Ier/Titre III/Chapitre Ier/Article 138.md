@@ -77,6 +77,13 @@ les aliments qu'elle a été condamnée à payer conformément aux décisions
 judiciaires et aux conventions judiciairement homologuées portant obligation de
 verser des prestations, subsides ou contributions aux charges du mariage.
 
+L'obligation prévue au 2° peut être exécutée, avec l'accord de l'intéressé
+recueilli en présence de son avocat, sous le régime du placement sous
+surveillance électronique, à l'aide du procédé prévu par l'article 723-8. Les
+articles 723-9 et 723-12 sont applicables, le juge d'instruction exerçant les
+compétences attribuées au juge de l'application des peines.
+
 Les modalités d'application du présent article, en ce qui concerne notamment
-l'habilitation des personnes contribuant au contrôle judiciaire, sont
-déterminées en tant que de besoin par un décret en Conseil d'Etat.
+l'habilitation des personnes contribuant au contrôle judiciaire et au placement
+sous surveillance électronique sont déterminées en tant que de besoin par un
+décret en Conseil d'Etat.

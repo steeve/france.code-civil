@@ -6,7 +6,7 @@ accusation à la connaissance de la partie civile ; la notification est effectu�
 dans les délais les plus brefs soit verbalement, avec émargement au dossier de
 la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application de l'article 145, premier alinéa, les décisions
+Sous réserve de l'application de l'article 137-3, deuxième alinéa, les décisions
 qui sont susceptibles de faire l'objet de voies de recours de la part d'une
 partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1
 leur sont notifiées dans les délais les plus brefs soit verbalement, avec
