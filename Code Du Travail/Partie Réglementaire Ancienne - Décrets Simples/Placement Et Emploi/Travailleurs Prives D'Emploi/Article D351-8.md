@@ -1,16 +1,13 @@
 Article D351-8
 ----
-A compter du 13 janvier 1975 *date*, les taux des allocations d'aide publique
-aux travailleurs privés d'emploi prévues à l'article R. 351-8 sont fixés ainsi
-qu'il suit :
+A compter du 23 février 1976 *date*, les taux journaliers des allocations d'aide
+publique aux travailleurs privés d'emploi fixés à l'article R. 351-8 du code du
+travail sont modifiés ainsi qu'il suit :
 
-Ayant-droit :
+Ayant-Droit ;
 
-Allocation principale pendant les trois premiers mois :
+-Allocation principale pendant les trois premiers mois : 13,50 Francs, après le
+troisième mois : 12,40 Francs .
 
-12 Francs, après le troisième mois : 11 Francs.
-
-Majoration pour conjoint ou personne à charge pendant les trois premiers mois :
-4,80 Francs, après le troisième mois :
-
-4,80 Francs.
+-Majoration pour conjoint ou personne à charge pendant les trois premiers mois :
+5,40 Francs, après le troisième mois : 5,40 Francs .
