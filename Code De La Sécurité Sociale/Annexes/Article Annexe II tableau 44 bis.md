@@ -7,7 +7,7 @@ Cancer broncho-pulmonaire primitif associé à une sidérose.
 
 DÉLAI DE PRISE EN CHARGE
 
-30 ans
+40 ans (sous réserve d'une durée d'exposition de 10 ans).
 
 
 LISTE LIMITATIVE DES TRAVAUX

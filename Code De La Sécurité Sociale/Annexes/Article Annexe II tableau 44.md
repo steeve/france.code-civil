@@ -25,10 +25,12 @@ Insuffisance ventriculaire droite caractérisée.
 
 DELAI DE PRISE EN CHARGE :
 
-5 ans (sous réserve des dispositions du décret pris en exécution de l'article L.
-461-7 du code de la sécurité sociale).
+35 ans (sous réserve d'une durée d'exposition de 10 ans).
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+
+Cette liste est commune à l'ensemble des affections désignées aux paragraphes A
+et B.
 
 A et B. - Travaux exposant à l'inhalation de poussières ou de fumées d'oxyde de
 fer, notamment : extraction, broyage, concassage et traitement des minerais de
