@@ -10,8 +10,7 @@ La prime d'épargne versée au souscripteur d'un compte d'épargne logement ouve
 date de la demande du prêt.
 
 La valeur de la fraction est fixée par arrêté du ministre chargé des finances,
-du ministre chargé de la construction et de l'habitation et du ministre chargé
-des PTT.
+du ministre chargé de la construction et de l'habitation.
 
 Toutefois la prime d'épargne ne peut pas dépasser par opération de prêt un
 montant fixé par arrêté du ministre chargé des finances, du ministre chargé de

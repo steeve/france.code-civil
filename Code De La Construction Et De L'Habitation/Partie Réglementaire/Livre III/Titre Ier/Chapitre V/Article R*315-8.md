@@ -5,8 +5,7 @@ définis à l'article L. 315-2.
 
 La nature des travaux de réparation ou d'amélioration susceptibles de donner
 lieu à l'attribution de prêts est fixée par arrêté du ministre chargé des
-finances, du ministre chargé de la construction et de l'habitation et du
-ministre chargé des postes et télécommunications.
+finances et du ministre chargé de la construction et de l'habitation.
 
 Peuvent bénéficier d'un prêt d'épargne-logement en application du deuxième
 alinéa del'article L. 315-1 les résidences utilisées à titre personnel et

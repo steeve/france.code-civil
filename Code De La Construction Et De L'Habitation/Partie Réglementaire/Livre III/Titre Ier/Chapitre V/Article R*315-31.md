@@ -12,13 +12,10 @@ prévue au contrat, le bénéfice de la présente section lui est conservé pour
 cette période et les périodes de douze mois consécutives.
 
 Si le retrait intervient entre la quatrième et la cinquième année d'un plan
-d'épargne-logement ouvert à compter du 1er janvier 1981, le bénéfice de la
-présente section est conservé pour la période de quatre ans ; la prime versée
-par l'Etat est dans ce cas réduite dans une proportion fixée par arrêté du
-ministre chargé des finances, du ministre chargé de la construction et de
-l'habitation et du ministre chargé des postes et télécommunications.
+d'épargne-logement ouvert antérieurement au 1er avril 1992, le bénéfice de la
+présente section est conservé pour la période de quatre ans.
 
-Si le retrait intervient entre la troisième et la quatrième année d'un plan
-ouvert à compter du 15 juin 1983 le bénéfice de la présente section est conservé
-pour la période de trois ans ; la prime versée par l'Etat est dans ce cas
-réduite dans une proportion fixée par l'arrêté susmentionné.
+Si le retrait intervient entre la troisième et la quatrième année, le bénéfice
+de la présente section est conservé pour la période de trois ans ; la prime
+versée par l'Etat est, dans ce cas, réduite dans une proportion fixée par arrêté
+du ministre chargé des finances et du ministre chargé du logement.
