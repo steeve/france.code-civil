@@ -31,3 +31,7 @@ mois après leur saisine respective, le préfet procède à leur désignation.
 
 La commission peut appeler à titre consultatif toute personne dont il lui paraît
 utile de provoquer l'avis.
+
+Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation
+d'origine contrôlée, la composition de la commission est complétée par un
+représentant de l'Institut national des appellations d'origine.

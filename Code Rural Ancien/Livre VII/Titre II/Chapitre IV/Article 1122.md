@@ -1,17 +1,20 @@
 Article 1122
 ----
 En cas de décès d'un chef d'exploitation ou d'entreprise agricole, son conjoint
-survivant a droit à une pension de réversion s'il remplit les conditions de
-ressources personnelles, de durée de mariage et d'âge définies par voie
-réglementaire et sous réserve s'il ne soit pas lui-même bénéficiaire d'un
-avantage au titre d'un régime de sécurité sociale. Toutefois, dans le cas où
-l'avantage personnel non cumulable est d'un montant inférieur à la pension de
-réversion susceptible d'être accordée, celle-ci est servie sous forme de
-complément différentiel.
+survivant a droit à une pension de réversion s'il satisfait à des conditions de
+ressources personnelles, de durée de mariage et d'âge définies par décret.
+Toutefois, lorsqu'au moins un enfant est issu du mariage, aucune condition de
+durée de mariage n'est exigée.
 
-Cette pension de réversion se compose de la retraite forfaitaire et d'un
-pourcentage, fixé par voie réglementaire, de la pension de retraite
-proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
+Toutefois, lorsqu'au moins un enfant est issu du mariage, aucune condition de
+durée de mariage n'est exigée.
+
+Cette pension de réversion est d'un montant égal à un pourcentage fixé par
+décret de la retraite forfaitaire et de la retraite proportionnelle dont
+bénéficiait ou eût bénéficié l'assuré.
+
+Le conjoint survivant cumule la pension de réversion avec des avantages
+personnels de vieillesse et d'invalidité dans des limites fixées par décret.
 
 Si le chef d'exploitation ou d'entreprise est décédé avant d'avoir demandé la
 liquidation de sa retraite, le conjoint survivant continuant l'exploitation

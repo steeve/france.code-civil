@@ -41,6 +41,13 @@ zootechniques, placés sous l'autorité d'un vétérinaire ou d'un organisme à
 vocation sanitaire agréé par le ministre chargé de l'agriculture, ou relevant de
 la loi n° 66-1005 du 28 décembre 1966 sur l'élevage ;
 
+8° Les fonctionnaires et agents contractuels relevant du service des haras
+nationaux du ministère chargé de l'agriculture titulaires d'une licence
+d'inséminateur pour l'espèce équine et spécialement habilités à cet effet,
+intervenant dans le cadre de leurs attributions sous l'autorité médicale d'un
+vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats de
+gestation, notamment par échographie, des femelles équines.
+
 b) Les castrations des animaux autres que les équidés et les carnivores
 domestiques ;
 

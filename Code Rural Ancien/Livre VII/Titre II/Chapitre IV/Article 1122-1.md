@@ -23,8 +23,11 @@ chef d'exploitation ou d'entreprise agricole obtient, outre la retraite
 forfaitaire mentionnée au précédent alinéa, une retraite proportionnelle
 calculée dans les conditions prévues au 2° de l'article 1121.
 
-Le conjoint survivant des personnes mentionnées au premier alinéa du présent
-article a droit, dans les conditions énoncées au premier alinéa de l'article
-1122, à une pension de réversion qui se compose de la retraite forfaitaire et,
-le cas échéant, d'un pourcentage fixé par décret de la retraite proportionnelle
-dont bénéficiait ou eût bénéficié l'assuré.
+Le conjoint survivant des personnes mentionnées au premier alinéa a droit, dans
+les conditions énoncées au premier alinéa de l'article 1122, à une retraite de
+réversion d'un montant égal à un pourcentage, fixé par décret, de la retraite
+forfaitaire et, le cas échéant, de la retraite proportionnelle visée aux alinéas
+précédents, dont bénéficiait ou eût bénéficié l'assuré. Lorsque le conjoint
+survivant est titulaire d'avantages personnels de vieillesse ou d'invalidité, il
+est fait application des dispositions prévues au troisième alinéa de l'article
+1122.

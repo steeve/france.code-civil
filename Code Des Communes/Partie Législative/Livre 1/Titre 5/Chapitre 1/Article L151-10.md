@@ -5,11 +5,12 @@ des autorités municipales, soit des usages locaux, la jouissance de ceux des
 biens de la section dont les fruits sont perçus en nature.
 
 Les terres à vocation agricole ou pastorale, propriété de la section, sont
-attribuées par bail à ferme ou convention pluriannuelle de pâturage en priorité
-aux ayants droit répondant aux conditions de capacité ou d'expérience
-professionnelle et de superficie visées à l'article L. 188-2 du code rural ou à
-leurs groupements et aux personnes exploitant des biens agricoles sur le
-territoire de la section.
+attribuées par bail à ferme, par convention pluriannuelle d'exploitation
+agricole, ou de pâturage, conclue dans les conditions de l'article L. 481-1 du
+code rural en priorité aux ayants droit répondant aux conditions de capacité ou
+d'expérience professionnelle et de superficie visées à l'article L. 188-2 du
+code rural ou à leurs groupements et aux personnes exploitant des biens
+agricoles sur le territoire de la section.
 
 Les revenus en espèces ne peuvent être employés que dans l'intérêt des membres
 de la section. Ils sont affectés prioritairement à la mise en valeur et à

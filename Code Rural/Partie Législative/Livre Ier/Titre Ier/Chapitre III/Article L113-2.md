@@ -11,7 +11,6 @@ et L. 135-1 à L. 135-11, qui sont applicables :
 
 1° Dans les communes classées en zone de montagne ;
 
-2° Sur proposition du préfet et après avis de la commission départementale
-d'aménagement foncier et de la commission départementale des structures, dans
-les communes comprises dans les zones délimitées par arrêté conjoint du ministre
-de l'agriculture et du ministre chargé de l'économie et des finances.
+2° Dans les communes comprises dans les zones délimitées par l'autorité
+administrative après avis de la commission départementale d'orientation de
+l'agriculture.

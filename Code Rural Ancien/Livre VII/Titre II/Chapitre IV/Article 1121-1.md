@@ -4,12 +4,10 @@ Les personnes ayant exercé, concurremment avec une activité salariée, une
 activité non salariée agricole ne présentant qu'un caractère accessoire peuvent
 seulement prétendre à la retraite proportionnelle.
 
-Le conjoint survivant des personnes visées au premier alinéa a droit, s'il n'est
-pas lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité
-sociale, et s'il satisfait à des conditions d'âge, de ressources personnelles et
-de durée du mariage fixées par décret, à une retraite de réversion dont le
-montant est égal à un pourcentage fixé par voie réglementaire de la retraite
-proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré. Toutefois,
-dans le cas où l'avantage personnel non cumulable est d'un montant inférieur à
-la pension de réversion susceptible d'être accordée, celle-ci est servie sous
-forme de complément différentiel.
+Le conjoint survivant des personnes mentionnées au premier alinéa a droit, dans
+les conditions énoncées au premier alinéa de l'article 1122, à une retraite de
+réversion dont le montant est égal à un pourcentage, fixé par décret, de la
+retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré. Lorsque le
+conjoint survivant est titulaire d'avantages personnels de vieillesse ou
+d'invalidité, il est fait application des dispositions prévues au troisième
+alinéa de l'article 1122.

@@ -17,6 +17,25 @@ provenant d'une activité non salariée agricole au sens de l'article 1060,
 troisième (2°) à sixième (5°) alinéa, du code rural et soumises à l'impôt sur le
 revenu dans la catégorie visée à l'article 62 du code général des impôts.
 
+Les chefs d'exploitation agricole à titre individuel sont autorisés, sur option,
+à déduire des revenus mentionnés au 1° le montant, excédant l'abattement
+ci-après défini, du revenu cadastral des terres mises en valeur par ladite
+exploitation et dont ils sont propriétaires. Cet abattement est égal à 4 p. 100
+des revenus mentionnés au 1° diminués du revenu cadastral desdites terres et
+multipliés par un coefficient égal au revenu cadastral de ces dernières divisé
+par le revenu cadastral de l'ensemble des terres mises en valeur par
+l'exploitation. L'abattement est d'au moins 2 000 F.
+
+Les dispositions du précédent alinéa sont applicables dans les mêmes conditions
+aux associés personnes physiques des sociétés visées à l'article 8 du code
+général des impôts pour les terres mises en valeur par lesdites sociétés lorsque
+celles-ci sont inscrites à l'actif de leur bilan.
+
+Un décret détermine les conditions dans lesquelles les chefs d'exploitation
+agricole peuvent opter pour la déduction ci-dessus, la durée de validité de
+cette option et les justificatifs qu'ils doivent fournir à la caisse de
+mutualité sociale agricole dont ils relèvent.
+
 II. - Pour les chefs d'exploitation ou d'entreprise agricoles soumis à un régime
 forfaitaire d'imposition, les revenus professionnels pris en compte sont
 constitués par la moyenne des revenus se rapportant aux trois années antérieures
@@ -27,7 +46,8 @@ constitués par la moyenne des revenus se rapportant aux trois années antérieu
 à celle au titre de laquelle les cotisations sont dues.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul
-de l'impôt sur le revenu ou, le cas échéant, de leur somme.
+de l'impôt sur le revenu éventuellement minorés de la déduction prévue au
+cinquième alinéa du I ci-dessus ou, le cas échéant, de leur somme.
 
 Il n'est pas tenu compte des reports déficitaires, des plus-values et
 moins-values professionnelles à long terme et des modalités d'assiette qui
@@ -118,10 +138,10 @@ Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne
 peuvent ultérieurement demander l'application des dispositions prévues au
 présent VI.
 
-VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise
-agricoles ayant exercé l'option prévue à l'article 13 de la loi n° 91-1407 du 31
-décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent
-dénoncer ladite option à effet du 1er janvier 1994.
+VII - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles
+ayant exercé l'option prévue à l'article 13 de la loi n° 91-1407 du 31 décembre
+1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent dénoncer
+ladite option à effet du 1er janvier 1994.
 
 Les chefs d'exploitation ou d'entreprise agricoles qui ont demandé à bénéficier
 des dispositions ci-dessus ne peuvent plus ultérieurement exercer l'option

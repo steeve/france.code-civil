@@ -28,14 +28,18 @@ pourcentage des apports de chaque propriétaire dans les différentes natures de
 culture et ne pouvant excéder 20 p. 100 de la valeur des apports d'un même
 propriétaire dans chacune d'elles ;
 
-2° Une surface en deçà de laquelle les apports d'un propriétaire pourront être
-compensés par des attributions dans une nature de culture différente et qui ne
-peut excéder 50 ares évalués en polyculture, ou 1 p. 100 de la surface minimum
-d'installation si celle-ci est supérieure à 50 hectares.
+2° La surface au-dessous de laquelle les apports d'un propriétaire pourront être
+compensés par des attributions dans une nature de culture différente ; cette
+surface ne peut excéder 80 ares.
 
 La dérogation prévue au 2° ci-dessus n'est pas applicable, sans leur accord
 exprès, aux propriétaires dont les apports ne comprennent qu'une seule nature de
 culture.
+
+Tout propriétaire de parcelles situées dans une aire délimitée d'appellation
+d'origine contrôlée ne couvrant qu'une partie du périmètre de remembrement peut
+demander à la commission communale ou intercommunale d'aménagement foncier
+qu'une superficie équivalente lui soit attribuée dans cette aire.
 
 Le paiement d'une soulte en espèces est autorisé lorsqu'il y a lieu d'indemniser
 le propriétaire du terrain cédé des plus-values transitoires qui s'y trouvent

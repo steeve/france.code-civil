@@ -15,6 +15,9 @@ exploitations pour les rendre viables ;
 3° Soit, grâce au développement des migrations rurales, à s'installer dans une
 autre région.
 
+Ces aides concourent également au développement de l'exercice, sous forme de
+société, des activités agricoles.
+
 Les comptes de l'aide financière ainsi consentie sont présentés chaque année au
 Parlement, en même temps que le rapport prévu à l'article 6 de la loi n° 60-808
 du 5 août 1960 d'orientation agricole. Ils devront autant que possible préciser

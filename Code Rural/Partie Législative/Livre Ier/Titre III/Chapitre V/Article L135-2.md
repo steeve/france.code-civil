@@ -8,3 +8,6 @@ Les dépenses afférentes aux travaux réalisés par l'association foncière son
 réparties entre les propriétaires de l'ensemble des zones agricoles, d'une part,
 ceux de l'ensemble des zones forestières, d'autre part, selon l'intérêt des
 travaux pour chacune des diverses zones.
+
+Les parcelles figurant dans le périmètre d'une association foncière pastorale
+ouvrent droit en priorité aux aides prévues pour l'entretien de l'espace.
