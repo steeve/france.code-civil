@@ -32,14 +32,25 @@ sont imposés au nom du propriétaire lorsque la période de location est
 inférieure à six mois; il en est de même si le locataire n'est pas passible de
 la taxe professionnelle ou n'a pas la disposition exclusive des biens loués;
 
+5° La valeur locative des matériels agricoles utilisés exclusivement à des
+travaux saisonniers effectués pour le compte d'exploitants agricoles est
+diminuée d'un tiers. La liste des travaux et matériels agricoles concernés est
+fixée par arreté du ministre chargé du budget (3);
+
 4° Il n'est pas tenu compte de la valeur locative définie aux 2e et 3° pour
 l'imposition des redevables sédentaires dont les recettes annuelles n'excèdent
 pas 400.000 F [*montant plafond*] s'il s'agit de prestataires de services ou de
 membres de professions libérales et un million de francs dans les autres cas;
 pour les redevables sédentaires ne remplissant pas ces conditions, cette valeur
-locative est réduite d'un montant fixé à 25.000 F; les limites prévues seront
-réévaluées lors du vote de chaque loi de finances.
+locative est réduite d'un montant fixé à 25.000 F (4); les limites prévues
+seront réévaluées lors du vote de chaque loi de finances.
 
-1) Annexe II, art. 310 HF.
+(1) Annexe II, art. 310 HF.
 
-2) Voir art. 1494 à 1518 A.
+(2) Voir art. 1494 à 1518 A.
+
+(3) Dispositions applicables à compter du 1er janvier 1987. Pour l'imposition
+établie au titre 1987, les contribuables doivent souscrire une déclaration
+rectificative avant le 30 octobre 1986.
+
+(4) Voir également art. 1469 B.
