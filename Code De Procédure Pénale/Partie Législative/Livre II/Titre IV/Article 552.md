@@ -6,16 +6,11 @@ jours, si la partie citée réside dans un département de la France métropolit
 ou si, résidant dans un département d'outre-mer, elle est citée devant un
 tribunal de ce département.
 
-Si la partie citée réside hors de France métropolitaine, ce délai est porté :
+Ce délai est augmenté d'un mois si la partie citée devant le tribunal d'un
+département d'outre-mer réside dans un autre département d'outre-mer, dans un
+territoire d'outre-mer, à Saint-Pierre-et-Miquelon ou Mayotte ou en France
+métropolitaine, ou si, cité devant un tribunal d'un département de la France
+métropolitaine, elle réside dans un département ou territoire d'outre-mer, à
+Saint-Pierre-et-Miquelon ou Mayotte.
 
-1° A deux mois si elle demeure en Europe, en Afrique et en Amérique du Nord sauf
-dans les territoires mentionnés au 2° ci-dessous ;
-
-2° A trois mois si elle demeure en Amérique centrale, en Amérique du Sud sauf au
-Pérou, au Mexique, en Turquie, en Israël et à la Réunion ;
-
-3° A quatre mois si elle demeure en Syrie, au Liban, en Jordanie, en Iran et en
-Irak ;
-
-4° A cinq mois si elle demeure en Asie, sauf pour les Etats déjà mentionnés
-ci-dessus, en Océanie et au Pérou.
+Si la partie citée réside à l'étranger, ce délai est augmenté de deux mois.

@@ -8,7 +8,7 @@ Ce versement est effectué :
 1. Soit, au moment de la constatation de l'infraction, entre les mains de
 l'agent de l'exploitant ;
 
-2. Soit, dans un délai de quatre mois à compter de la constatation de
+2. Soit, dans un délai de deux mois à compter de la constatation de
 l'infraction, auprès du service de l'exploitant indiqué dans la proposition de
 transaction ; dans ce dernier cas, il y est ajouté aux sommes dues le montant
 des frais de constitution du dossier.

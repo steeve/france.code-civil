@@ -1,9 +1,7 @@
 Article 138
 ----
-Lorsque l'inculpé encourt une peine d'emprisonnement correctionnelle ou une
-peine plus grave, le contrôle judiciaire peut être ordonné par le juge
-d'instruction ou décidé par la chambre prévue par l'article 137 dans le cas visé
-au cinquième alinéa dudit article.
+Le contrôle judiciaire peut être ordonné par le juge d'instruction si l'inculpé
+encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
 
 Ce contrôle astreint l'inculpé à se soumettre, selon la décision du juge
 d'instruction, à une ou plusieurs des obligations ci-après énumérées :
@@ -47,18 +45,20 @@ régime de l'hospitalisation, notamment aux fins de désintoxication ;
 
 11° Fournir un cautionnement dont le montant et les délais de versement, en une
 ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment
-des ressources de l'inculpé ;
-
-12° Ne pas se livrer à certaines activités de nature professionnelle ou sociale,
-à l'exclusion de l'exercice des mandats électifs et des responsabilités
-syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion
-de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle
-infraction soit commise ;
+des ressources de l'inculpé ; 12° Ne pas se livrer à certaines activités de
+nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats
+électifs et des responsabilités syndicales, lorsque l'infraction a été commise
+dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est
+à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée
+est celle d'un avocat, le juge d'instruction doit saisir le conseil de l'ordre
+qui statue comme il est dit à l'article 23 de la loi n° 71-1130 du 31 décembre
+1971 portant réforme de certaines professions judiciaires et juridiques ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le
 retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le
-cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi
-prohibé ;
+cas échéant, remettre au greffe les
+
+formules de chèques dont l'usage est ainsi prohibé ;
 
 14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe
 contre récépissé les armes dont il est détenteur ;
