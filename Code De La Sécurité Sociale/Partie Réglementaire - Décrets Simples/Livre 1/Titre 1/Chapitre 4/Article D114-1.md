@@ -56,6 +56,9 @@ i) Le président du conseil d'administration de la Caisse nationale d'assurance
 maladie et maternité des travailleurs non-salariés des professions non agricoles
 ;
 
+i bis) Le président du conseil d'administration de la Caisse nationale de
+retraite des agents des collectivités locales ;
+
 j) La commission comprend en outre un représentant des régimes autres que ceux
 énumérés ci-dessus, désigné après entente entre les présidents des caisses et
 institutions intéressées ou, à défaut, par le ministre chargé de la sécurité
@@ -71,9 +74,9 @@ m) Un représentant désigné par la fédération nationale de la mutualité
 française.
 
 6° Le président du Centre national des professions de santé ainsi que trois
-représentants des organisations professionnelles de médecin et trois
+représentants des organisations professionnelles de médecins et trois
 représentants des établissements de soins désignés par le ministre chargé de la
 sécurité sociale.
 
-7° Six personnalités qualifiées désignées pour leur compétence particulière par
+7° Sept personnalités qualifiées désignées pour leur compétence particulière par
 le ministre chargé de la sécurité sociale.
