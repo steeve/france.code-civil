@@ -6,10 +6,9 @@ adressée au commissaire de la République du département [*autorité compéten
 Elle doit être préalable à la création ou à la reprise de l'entreprise ou à
 l'exercice de la nouvelle activité.
 
-Le commissaire de la République du département statue sur le droit au bénéfice
-de l'aide après le dépôt du dossier complet.
-
-Lorsque ce droit est reconnu, le commissaire de la République délivre une
-attestation d'admission au bénéfice de l'article L. 351-24 permettant à
-l'intéressé de bénéficier des avantages prévus par la loi n° 79-10 du 3 janvier
-1979 modifiée.
+La demande doit être accompagnée d'un dossier permettant d'apprécier la réalité
+et la consistance du projet de création ou de reprise de l'entreprise ou
+d'exercice de la nouvelle activité ; ce dossier doit comporter des indications
+précises sur le contenu du projet, les conditions d'acquisition des actifs, les
+apports de fonds propres et les concours financiers nécessaires pour assurer
+l'exploitation de l'entreprise.
