@@ -13,5 +13,5 @@ section III du présent chapitre ;
 qu'il n'a pas recommencé à assumer ses obligations pendant une durée de six mois
 au moins ;
 
-4° Si un jugement de déchéance ou de retrait a été prononcé contre lui, pour
-ceux de ses droits qui lui ont été retirés.
+4° Si un jugement de retrait total ou partiel de l'autorité parentale a été
+prononcé contre lui, pour ceux de ses droits qui lui ont été retirés.
