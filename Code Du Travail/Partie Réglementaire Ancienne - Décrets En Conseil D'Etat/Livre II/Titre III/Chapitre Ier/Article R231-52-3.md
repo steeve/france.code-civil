@@ -1,62 +1,60 @@
 Article R231-52-3
 ----
-I - Les informations à fournir en application du premier alinéa de l'article R.
-231-52 sont les suivantes pour toute substance chimique préalablement à sa mise
-sur le marché :
+I. - Les informations mentionnées au I de l'article R. 231-52 doivent être
+fournies à l'organisme agréé prévu au troisième alinéa de l'article L. 231-7
+avant la mise sur le marché de la substance.
 
-a) Les nom, prénoms, adresse et qualité du déclarant et, le cas échéant, la
-raison sociale et le siège social de l'entreprise pour le compte de laquelle est
-faite la déclaration ;
+Elles comprennent :
 
-b) La désignation chimique normalisée et la désignation commerciale de la
-substance et, éventuellement, la désignation des préparations qui la contiennent
-;
+a) Un dossier technique permettant d'apprécier les risques imputables à la
+substance. Ce dossier comprend l'identité du fabricant et du déclarant,
+l'identité de la substance et des informations relatives à sa production, à ses
+utilisations, aux méthodes et précautions à prendre, aux mesures d'urgence et à
+l'emballage, à ses propriétés physico-chimiques, toxicologiques et
+écotoxicologiques et aux possibilités de la rendre inoffensive.
 
-c) La formule chimique de la substance et éventuellement, la composition des
-préparations qui la contiennent ;
+Un arrêté des ministres chargés du travail et de l'agriculture précise le
+contenu du dossier, la nature des études et des essais portant sur la substance
+ainsi que les conditions dans lesquelles ils doivent être pratiqués ;
 
-d) La nature des impuretés que peut contenir la substance et le pourcentage des
-principales d'entre elles ;
+b) Une déclaration concernant les effets défavorables de la substance en
+fonction des différentes utilisations prévisibles ;
 
-e) Les additifs qui peuvent être associés à la substance ;
+c) S'il y a lieu, une proposition de classement et d'étiquetage appropriée aux
+dangers présentés par la substance ;
 
-e bis) Les données spectrales ;
+d) Si la substance est classée dangereuse, une fiche de données de sécurité ;
 
-f) Les méthodes de détection et de dosage de la substance dans les préparations
-et dans les milieux où elle peut se rencontrer ;
+e) Dans le cas d'une substance fabriquée hors de la Communauté européenne,
+l'attestation éventuelle du fabricant désignant le déclarant comme son
+représentant unique ;
 
-g) Les quantités que le déclarant prévoit de fabriquer ou d'importer avec
-l'indication des effets recherchés, des modes et des conditions d'utilisation et
-de distribution envisagés ;
+f) Une demande motivée du déclarant s'il désire que l'organisme agréé ne
+communique pas son identité à d'autres déclarants de la même substance,
+conformément à la procédure prévue au II de l'article R. 231-52-6, pendant une
+période maximale d'un an à compter de la déclaration ;
 
-h) Les méthodes et précautions à prendre en ce qui concerne l'usage, le
-transport, la manipulation et le stockage de la substance ou des préparations
-qui la contiennent ainsi que les dispositions à prévoir en cas d'accident de
-personne, de dispersion accidentelle ou d'incendie ;
+g) Dans le cas d'une substance déjà déclarée, les résultats des essais
+complémentaires. Ces essais peuvent être effectués à la demande de l'organisme
+agréé dès lors que la quantité de cette substance mise sur le marché atteint ou
+dépasse 10 tonnes par an par fabricant ou 50 tonnes au total par fabricant ; ils
+sont obligatoires dès lors que la quantité de substance mise sur le marché
+atteint 100 tonnes par an par fabricant ou 500 tonnes au total par fabricant.
 
-i) Les propriétés physico-chimiques de la substance, notamment ses conditions
-d'inflammation et d'explosion ;
+Pour une substance fabriquée en dehors de la Communauté par un fabricant unique
+et pour laquelle plusieurs déclarations sont intervenues, l'organisme agréé
+informe chacun des déclarants en France de l'identité des autres déclarants afin
+que les essais complémentaires prévus à l'alinéa précédent soient réalisés sous
+leur responsabilité collective.
 
-j) Les résultats des essais de toxicité aiguë et subaiguë sur des espèces
-animales témoins et les résultats des études d'action corrosive et irritante ;
+La nature et les modalités de ces essais complémentaires sont précisées, en
+fonction des quantités mises sur le marché, par arrêté des ministres chargés du
+travail et de l'agriculture.
 
-k) Les résultats d'essais de mutagenèse à court terme.
-
-II - En outre doivent être fournies :
-
-- une déclaration concernant les effets défavorables de la substance en fonction
-des différentes utilisations envisagées ;
-
-- une proposition de classement et d'étiquetage appropriée aux dangers présentés
-par la substance ;
-
-- des propositions de recommandations concernant la sécurité d'emploi de la
-substance.
-
-III - S'il n'est pas possible techniquement ou s'il ne paraît pas nécessaire de
+II - S'il n'est pas possible techniquement ou s'il ne paraît pas nécessaire de
 fournir une information, les raisons devront en être indiquées.
 
-IV - Le déclarant doit également joindre aux informations et propositions
+III - Le déclarant doit également joindre aux informations et propositions
 ci-dessus énumérées tous autres éléments dont il dispose et qui seraient utiles
 à l'appréciation des risques encourus par les travailleurs, notamment les
 résultats d'essais sur le métabolisme, sur la toxicité chronique ou sur d'autres

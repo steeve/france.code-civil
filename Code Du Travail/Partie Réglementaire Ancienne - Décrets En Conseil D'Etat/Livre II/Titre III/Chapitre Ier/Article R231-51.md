@@ -1,16 +1,16 @@
 Article R231-51
 ----
-Au sens de la présente section, on entend par " substances " [*définition*] les
+Au sens de la présente section, on entend par "substances" [*définition*] les
 éléments chimiques et leurs composés tels qu'ils se présentent à l'état naturel
 ou tels qu'ils sont obtenus par tout procédé de production contenant
 éventuellement tout additif nécessaire pour préserver la stabilité du produit et
 toute impureté résultant du procédé, à l'exclusion de tout solvant pouvant être
 séparé sans affecter la stabilité de la substance ni modifier sa composition.
 
-On entend par " préparations " les mélanges ou solutions composés de deux
+On entend par "préparations" les mélanges ou solutions composés de deux
 substances ou plus.
 
-Sont considérées comme " dangereuses " au sens de la présente section les
+Sont considérées comme "dangereuses" au sens de la présente section les
 substances et préparations correspondant aux catégories suivantes :
 
 a) Explosibles : substances et préparations solides, liquides, pâteuses ou
@@ -75,16 +75,17 @@ m) Mutagènes : substances et préparations qui, par inhalation, ingestion ou
 pénétration cutanée, peuvent produire des défauts génétiques héréditaires ou en
 augmenter la fréquence ;
 
-n) Toxiques vis-à-vis de la reproduction : substances et préparations qui, par
+n) Toxiques pour la reproduction : substances et préparations qui, par
 inhalation, ingestion ou pénétration cutanée, peuvent produire ou augmenter la
 fréquence d'effets indésirables non héréditaires dans la progéniture ou porter
 atteinte aux fonctions ou capacités reproductives ;
 
-o) Dangereuses pour l'environnement : substances et préparations qui
-présenteraient ou pourraient présenter un risque immédiat ou différé pour une ou
-plusieurs composantes de l'environnement.
+o) Dangereuses pour l'environnement : substances et préparations qui, si elles
+entraient dans l'environnement, présenteraient ou pourraient présenter un risque
+immédiat ou différé pour une ou plusieurs de ses composantes.
 
-Des arrêtés des ministres chargés du travail et de l'agriculture fixent les
+Des arrêtés des ministres chargés du travail, de l'industrie, de
+l'environnement, de la santé, de la consommation et de l'agriculture fixent les
 modalités et les critères de classement des substances et des préparations dans
 les catégories mentionnées ci-dessus et déterminent le classement, le symbole
 d'identification et l'indication du danger de chacune de ces catégories ainsi
