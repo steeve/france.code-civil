@@ -1,8 +1,8 @@
 Article R334-19
 ----
-Le montant minimal réglementaire de la marge de solvabilité des entreprises
-mixtes est égal à la somme des deux éléments ci-après, dénommés respectivement
-fraction dommage et fraction vie.
+L'exigence minimale de marge de solvabilité des entreprises mixtes est égale à
+la somme des deux éléments ci-après, dénommés respectivement fraction dommage et
+fraction vie.
 
 Le montant minimal de la fraction dommage est calculé dans les conditions
 définies aux articles R. 334-5 et R. 334-6, sur la base des primes et sinistres

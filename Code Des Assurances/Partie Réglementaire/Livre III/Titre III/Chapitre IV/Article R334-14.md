@@ -1,7 +1,7 @@
 Article R334-14
 ----
-Pour les entreprises visées au 4° de l'article L. 310-2, le montant
-réglementaire de la marge de solvabilité est calculé, conformément aux
+Pour les entreprises visées au 4° de l'article L. 310-2, le montant de
+l'exigence minimale de marge de solvabilité est calculé, conformément aux
 dispositions de l'article R. 334-13, à partir, suivant le cas, des provisions
 techniques et des capitaux sous risque, des primes ou cotisations et des
 sinistres, ou des avoirs résultant des opérations réalisées par cette entreprise

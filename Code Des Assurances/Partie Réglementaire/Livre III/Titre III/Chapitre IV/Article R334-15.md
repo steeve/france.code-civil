@@ -1,25 +1,13 @@
 Article R334-15
 ----
-Le fonds de garantie des entreprises visées au 1° de l'article L. 310-2 agréées
-pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 28 de
-l'article R. 321-1 est égal au tiers du montant réglementaire de la marge de
-solvabilité défini à l'article R. 334-13, sans pouvoir être inférieur aux seuils
-définis ci-après :
-
-- 800.000 unités de compte de la Communauté économique européenne pour les
-entreprises constituées sous la forme de société anonyme ;
-
-- 600.000 unités de compte de la Communauté économique européenne pour les
-entreprises constituées sous la forme de société à forme mutuelle et les
-sociétés à forme tontinière ;
-
-- 100.000 unités de compte de la Communauté économique européenne pour les
-entreprises constituées sous la forme de société à forme tontinière et dont les
-encaissements sont inférieurs à 500.000 unités de compte. Ce montant est
-progressivement porté à 600.000 unités de compte par tranches successives de
-100.000 unités de compte, chaque fois que le montant des cotisations augmente de
-500.000 unités de compte.
+Le fonds de garantie des entreprises mentionnées au 1° de l'article L. 310-2
+agréées pour pratiquer une ou plusieurs des branches mentionnées aux 20 à 28 de
+l'article R. 321-1 est égal au tiers de l'exigence minimale de marge de
+solvabilité définie à l'article R. 334-13, sans pouvoir être inférieur à 3 500
+000 euros (1) pour les entreprises constituées sous la forme de société anonyme
+et 2 600 000 (1) euros pour les entreprises constituées sous la forme
+d'assurance mutuelle et les sociétés à forme tontinière.
 
 A concurrence de ces seuils ou de la moitié du fonds, si cette moitié est
 supérieure auxdits seuils, le fonds est constitué par les éléments mentionnés
-aux 1, 2, 3, 4 et 6 de l'article R. 334-11.
+aux 1, 2 et 3 du I, au 1 du II et au 1 du III de l'article R. 334-11.
