@@ -34,6 +34,11 @@ La perte de la qualité d'établissement affilié doit être notifiée par l'org
 central au comité des établissements de crédit et des entreprises
 d'investissement, qui se prononce sur l'agrément de l'établissement en cause.
 
+Pour l'application des dispositions de la section 2 du chapitre V du titre II du
+livre II du code de commerce, les mandats sociaux détenus au sein de l'organe
+central, au sens de l'article L. 511-30 du présent code, ou des établissements
+de crédit qui lui sont affiliés doivent être décomptés pour un seul mandat.
+
 Après en avoir informé la commission bancaire et sous réserve des compétences du
 comité des établissements de crédit et des entreprises d'investissement, les
 organes centraux peuvent, lorsque la situation financière des établissements

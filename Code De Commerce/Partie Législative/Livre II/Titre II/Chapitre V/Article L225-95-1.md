@@ -17,3 +17,10 @@ trois mois. A l'expiration de ce délai, elle est réputée ne plus représenter
 personne morale, et doit restituer les rémunérations perçues, sans que soit, de
 ce fait, remise en cause la validité des délibérations auxquelles elle a pris
 part.
+
+Par dérogation aux articles L. 225-21, L. 225-54-1, L. 225-67 et L. 225-94-1,
+les mandats de président, de directeur général, de directeur général unique, de
+membre du directoire ou d'administrateur d'une société d'économie mixte locale,
+exercés par un représentant d'une collectivité territoriale ou d'un groupement
+de collectivités territoriales ne sont pas pris en compte pour l'application des
+règles relatives au cumul des mandats sociaux.

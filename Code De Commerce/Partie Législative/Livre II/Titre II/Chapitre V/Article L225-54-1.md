@@ -4,11 +4,16 @@ Une personne physique ne peut exercer simultanément plus d'un mandat de
 directeur général de sociétés anonymes ayant leur siège sur le territoire
 français.
 
-Par dérogation aux dispositions ci-dessus, un deuxième mandat peut être exercé
-dans une société qui est contrôlée, au sens de l'article L. 233-16, par la
-société dans laquelle est exercée un mandat au titre du premier alinéa, dès lors
-que les titres de la société contrôlée ne sont pas admis aux négociations sur un
-marché réglementé.
+Par dérogation aux dispositions du premier alinéa :
+
+-un deuxième mandat de directeur général ou un mandat de membre du directoire ou
+de directeur général unique peut être exercé dans une société contrôlée au sens
+de l'article L. 233-16 par la société dont il est directeur général ;
+
+-une personne physique exerçant un mandat de directeur général dans une société
+peut également exercer un mandat de directeur général, de membre du directoire
+ou de directeur général unique dans une société, dès lors que les titres de
+celles-ci ne sont pas admis aux négociations sur un marché réglementé.
 
 Toute personne physique qui se trouve en infraction avec les dispositions du
 présent article doit se démettre de l'un de ses mandats dans les trois mois de

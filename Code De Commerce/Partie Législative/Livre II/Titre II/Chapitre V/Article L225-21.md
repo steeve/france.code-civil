@@ -4,12 +4,16 @@ Une personne physique ne peut exercer simultanément plus de cinq mandats
 d'administrateur de sociétés anonymes ayant leur siège sur le territoire
 français.
 
-Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les
-mandats d'administrateur dans les sociétés qui sont contrôlées, au sens de
-l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre
-du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas
-admis aux négociations sur un marché réglementé. Cette dérogation n'est pas
-applicable au mandat de président.
+Par dérogation aux dispositions du premier alinéa, ne sont pas pris en compte
+les mandats d'administrateur ou de membre du conseil de surveillance exercés par
+cette personne dans les sociétés contrôlées au sens de l'article L. 233-16 par
+la société dont elle est administrateur.
+
+Pour l'application des dispositions du présent article, les mandats
+d'administrateur des sociétés dont les titres ne sont pas admis aux négociations
+sur un marché réglementé et contrôlées au sens de l'article L. 233-16 par une
+même société ne comptent que pour un seul mandat, sous réserve que le nombre de
+mandats détenus à ce titre n'excède pas cinq.
 
 Toute personne physique qui se trouve en infraction avec les dispositions du
 présent article doit se démettre de l'un de ses mandats dans les trois mois de
