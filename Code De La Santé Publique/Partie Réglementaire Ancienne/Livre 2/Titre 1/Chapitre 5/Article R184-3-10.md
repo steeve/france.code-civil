@@ -3,11 +3,11 @@ Article R184-3-10
 La commission réunie en formation plénière exerce les attributions suivantes :
 
 1° En application de l'article L. 152-8, elle examine les projets d'études sur
-embryons, qui ne peuvent être mis en oeuvre, dans des conditions définies par
-décret en Conseil d'Etat, que sur son avis conforme. L'avis de la commission est
-émis au vu du rapport écrit présenté par un groupe technique désigné par le
-président et composé d'au moins six membres appartenant pour moitié à chacune
-des deux sections ;
+embryons, qui ne peuvent être mis en oeuvre, dans les conditions fixées par les
+articles R. 152-8-1 à R. 152-8-12, que sur son avis conforme. L'avis de la
+commission est émis au vu du rapport écrit présenté par un groupe technique
+désigné par le président et composé d'au moins six membres appartenant pour
+moitié à chacune des deux sections ;
 
 2° En application de l'article L. 162-17, elle donne un avis motivé sur les
 demandes d'autorisation de pratiquer les activités de diagnostic biologique à
