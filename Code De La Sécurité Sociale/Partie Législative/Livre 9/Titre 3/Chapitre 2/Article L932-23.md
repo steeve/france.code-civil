@@ -32,3 +32,6 @@ un règlement ou souscrire un contrat auprès d'une institution de prévoyance.
 L'institution de prévoyance communique chaque année aux entreprises adhérant à
 son règlement ou à ses contrats le montant et les modalités de répartition pour
 l'année écoulée de la participation aux excédents.
+
+Les dispositions de l'article L. 932-21-1 ne s'appliquent pas aux opérations
+dépendant de la durée de la vie humaine qui comportent une valeur de rachat.
