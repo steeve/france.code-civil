@@ -1,7 +1,7 @@
 Article R611-95
 ----
 La section mutuelle autonome d'assurance maladie et maternité des travailleurs
-non-salariés de la batellerie est administrée par un conseil d'administration
+non salariés de la batellerie est administrée par un conseil d'administration
 comprenant douze membres, soit :
 
 1°) huit représentants des personnes assujetties à cotiser, élus par celles-ci
@@ -20,8 +20,8 @@ protection sociale, de prévoyance ou de mutualité, nommée par arrêté conjoi
 ministre chargé de la sécurité sociale et du ministre chargé du budget, sur
 proposition du ministre chargé des transports.
 
-Huit représentants suppléants des personnes assujetties à cotiser sont élues
-dans les mêmes conditions que les huit représentants mentionnés au 1° du premier
+Huit représentants suppléants des personnes assujetties à cotiser sont élus dans
+les mêmes conditions que les huit représentants mentionnés au 1° du premier
 alinéa du présent article. Un administrateur suppléant ne siège aux séances du
 conseil d'administration qu'en l'absence de l'administrateur titulaire élu sur
 la même liste et occupant le même rang sur la liste des suppléants que celui
@@ -32,3 +32,10 @@ nationale des associations familiales dans les mêmes conditions que
 l'administrateur titulaire désigné par cette organisation. L'administrateur
 suppléant ne siège aux séances du conseil d'administration qu'en l'absence de
 l'administrateur titulaire.
+
+Le Conseil national de l'ordre des médecins et le Conseil national de l'ordre
+des pharmaciens élisent parmi leurs membres, respectivement, un administrateur
+titulaire et un administrateur suppléant. Le ministre chargé de la sécurité
+sociale et le ministre chargé du budget nomment, sur proposition du ministre
+chargé des transports, un suppléant de la personne mentionnée au 5° du premier
+alinéa du présent article.
