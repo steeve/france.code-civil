@@ -13,15 +13,34 @@ l'article L. 327 du code de la sécurité sociale ;
 2° Etre effectivement à la recherche d'un emploi au sens de l'article L. 351-16,
 sous réserve des dispositions de l'article R. 351-26 ;
 
-3° Justifier, à la date de leur demande, de ressources mensuelles inférieures à
-un plafond correspondant à 90 fois le montant journalier de l'allocation pour
-une personne seule et 180 fois le même montant pour un couple ; les ressources
-prises en considération pour l'application de ce plafond comprennent
-l'allocation de solidarité ainsi que, le cas échéant, les ressources du couple à
-l'exclusion de la majoration éventuelle de l'allocation de solidarité des
-prestations familiales et de l'allocation de logement prévue au 4° de l'article
-2 de la loi n°71-582 du 16 juillet 1971.
+3° Justifier, à la date de la demande, de ressources mensuelles inférieures à un
+plafond correspondant à 70 fois le montant journalier de l'allocation pour une
+personne seule et 140 fois le même montant pour un couple.
 
-Lorsque les ressources de l'intéressé excèdent le plafond mentionné à l'alinéa
-précédent, l'allocation n'est versée qu'à concurrence d'un montant global de
-ressources égal au plafond.
+Les ressources prises en considération pour l'application de ce plafond
+comprennent l'allocation de solidarité ainsi que les autres ressources de
+l'intéressé et, le cas échéant, de son conjoint ou concubin, telles qu'elles
+doivent être déclarées à l'administration fiscale pour le calcul de l'impôt sur
+le revenu avant déduction des divers abattements. Le montant pris en compte est
+le douzième du total des ressources perçues pendant les douze mois précédant
+celui au cours duquel la demande a été présentée.
+
+Les ressources perçues hors du territoire national sont prises en compte comme
+si elles avaient été perçues sur ce territoire.
+
+L'allocation d'assurance précédemment perçue par l'intéressé, la majoration de
+l'allocation de solidarité, les prestations familiales et l'allocation de
+logement prévue aux articles L. 831-1 et suivants du code de la sécurité sociale
+ne sont pas prises en compte pour la détermination des ressources.
+
+Il n'est pas tenu compte des allocations d'assurance ou de solidarité, des
+rémunérations de stage ou des revenus d'activité perçus pendant la période de
+référence lorsqu'il est justifié que leur perception est interrompue de manière
+certaine à la date de la demande et que le bénéficiaire de ces ressources ne
+peut prétendre à un revenu de substitution. Si le bénéficiaire peut prétendre à
+un revenu de substitution, un abattement de 30 p. 100 est appliqué sur la
+moyenne des ressources auxquelles ce revenu se substitue.
+
+Lorsque le total des ressources prises en considération excède le plafond,
+l'allocation n'est versée qu'à concurrence d'un montant global de ressources
+égal au plafond.
