@@ -1,8 +1,9 @@
 Article R332-19
 ----
 Les valeurs mobilières amortissables énumérées aux 1° et 2° de l'article R.
-332-2, autres que les obligations indexées ou participantes et les titres
-participatifs, sont évaluées à leur prix d'achat.
+332-2, autres que les obligations indexées ou participantes, les parts de fonds
+communs de créance et les titres participatifs, sont évaluées à leur prix
+d'achat.
 
 Lorsque le prix d'achat est supérieur à la valeur nette de remboursement,
 l'estimation est faite à cette valeur. Si cependant le cours de la bourse du

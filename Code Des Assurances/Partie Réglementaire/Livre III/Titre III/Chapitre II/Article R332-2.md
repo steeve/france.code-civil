@@ -1,100 +1,82 @@
 Article R332-2
 ----
-Sous réserve des dispositions de l'article R. 332-1 et des dérogations prévues
-aux articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à
+En application des dispositions de l'article R. 332-1 et sous réserve des
+dérogations prévues à ce même article, à l'article R. 332-1-1 ainsi qu'aux
+articles R. 332-3-3 à R. 332-10, les engagements réglementés mentionnés à
 l'article R. 331-1 sont représentés par les actifs suivants :
 
-A. - Valeurs mobilières et titres assimilés.
+A. - Valeurs mobilières et titres assimilés :
 
-1° Obligations et titres participatifs inscrits à la cote officielle des bourses
-françaises de valeurs ou en instance d'inscription ;
+1° Obligations et autres valeurs émises ou garanties par l'un des Etats membres
+de l'Organisation de coopération et de développement économique (O.C.D.E.) ;
+obligations émises ou garanties par un organisme international à caractère
+public dont un ou plusieurs Etats membres de la Communauté économique européenne
+font partie ; obligations émises ou garanties par les collectivités publiques
+territoriales d'un Etat membre de l'O.C.D.E. ;
 
-2° Obligations non cotées émises par l'Etat ou jouissant de sa garantie et
-obligations non cotées émises par le Crédit foncier et communal d'Alsace et de
-Lorraine avant le 15 décembre 1972 ;
+2° Obligations, parts de fonds communs de créance et titres participatifs
+inscrits à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E.,
+autres que celles ou ceux visés au 1° ;
 
-3° Actions des sociétés d'investissement à capital variable et parts des fonds
+2° bis Titres de créances négociables (certificats de dépôt, billets de
+trésorerie, bons des institutions et des sociétés financières spécialisées) émis
+par des personnes morales autres que les Etats membres de l'O.C.D.E., ayant leur
+siège social sur le territoire de ces Etats, à condition que ces titres soient
+négociés sur un marché réglementé en fonctionnement régulier d'un Etat membre de
+l'O.C.D.E. ;
+
+3° Actions des sociétés d'investissement à capital variable et parts de fonds
 communs de placement dont l'objet est limité à la gestion d'un portefeuille de
-valeurs mentionnées au 1° ci-dessus :
+valeurs mentionnées aux 1°, 2° et 2° bis du présent article, dans les conditions
+fixées par l'article R. 332-14 ;
 
-4° Actions et autres valeurs mobilières inscrites à la cote officielle ou à la
-cote du second marché des bourses françaises de valeurs, autres que celles
-mentionnées aux 7° et 8° ;
+4° Actions et autres valeurs mobilières, inscrites à la cote d'une bourse de
+valeurs d'un Etat membre de l'O.C.D.E., autres que celles visées aux 3°, 5°, 5°
+bis, 8° et 9° bis ;
 
-5° Actions, parts et droits émis par des sociétés commerciales françaises, à
-l'exception des valeurs mentionnées aux 4° et 7° ;
+5° Actions des entreprises d'assurance, de réassurance, de capitalisation ayant
+leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E. ;
 
-6° Parts de fonds communs de placement à risques, dans les conditions fixées par
-arrêté du ministre chargé de l'économie et des finances ;
+5° bis Actions des entreprises d'assurance, de réassurance, de capitalisation
+autres que celles visées au 5° ;
 
-7° Actions d'entreprises françaises d'assurance, de réassurance ou de
-capitalisation ;
+6° Actions, parts et droits émis par des sociétés commerciales et titres
+participatifs émis par des sociétés d'assurance mutuelles, ayant leur siège
+social sur le territoire de l'un des Etats membres de l'O.C.D.E., autres que les
+valeurs visées aux 2°, 2° bis, 3°, 4°, 5°, 5° bis, 8° et 9° bis ;
 
-8° Actions d'entreprises étrangères d'assurance dans les conditions fixées dans
-chaque cas par le ministre chargé de l'économie et des finances ;
+7° Parts des fonds communs de placement à risques du chapitre IV de la loi n°
+88-1201 du 23 décembre 1988 ;
 
-9° Actions de sociétés d'investissement à capital variable et parts de fonds
-communs de placement, autres que celles mentionnées aux 3° et 6°, dans les
-conditions déterminées par arrêté du ministre chargé de l'économie et des
-finances.
+8° Actions des sociétés d'investissement à capital variable et parts des fonds
+communs de placement, autres que celles mentionnées aux 3° et 7°, dans les
+conditions fixées par l'article R. 332-14.
 
-B. - Actifs immobiliers.
+B. - Actifs immobiliers :
 
-10° Immeubles bâtis situés sur le territoire de la République française ;
+9° Droits réels immobiliers afférents à des immeubles situés sur le territoire
+de l'un des Etats membres de l'O.C.D.E. ;
 
-11° Immeubles non bâtis situés sur le territoire de la République française et
-parts de sociétés civiles à objet foncier, sur autorisation donnée cas par cas
-par le ministre chargé de l'économie et des finances ;
+9° bis Parts ou actions des sociétés à objet strictement immobilier, parts des
+sociétés civiles à objet strictement foncier, ayant leur siège social sur le
+territoire de l'un des Etats membres de l'O.C.D.E., inscrites ou non inscrites à
+la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E., dans les
+conditions fixées par l'article R. 332-15.
 
-12° Droits réels immobiliers ;
+C. - Prêts et dépôts :
 
-13° Parts ou actions de sociétés immobilières non inscrites à la cote officielle
-ou à la cote du second marché des bourses françaises de valeurs, dans les
-conditions déterminées dans chaque cas par le ministre chargé de l'économie et
-des finances.
+10° Prêts obtenus ou garantis par les Etats membres de l'O.C.D.E., par les
+collectivités publiques territoriales et les établissements publics des Etats
+membres de l'O.C.D.E. ;
 
-C. - Prêts, bons et dépôts.
+11° Prêts hypothécaires aux personnes physiques ou morales ayant leur domicile
+ou leur siège social sur le territoire de l'un des Etats membres de l'O.C.D.E.,
+dans les conditions fixées par l'article R. 332-12 ;
 
-14° Prêts aux collectivités territoriales et à leurs établissements publics
-administratifs ;
+12° Autres prêts ou créances représentatives de prêts consentis aux personnes
+physiques ou morales ayant leur domicile ou leur siège social sur le territoire
+de l'un des Etats membres de l'O.C.D.E., dans les conditions fixées par
+l'article R. 332-13 ;
 
-15° Prêts aux établissements publics de l'Etat. Toutefois, les prêts aux
-établissements de crédit sont autorisés cas par cas par le ministre de
-l'économie et des finances.
-
-16° Prêts aux organismes d'habitation à loyer modéré, aux coopératives de
-construction et aux sociétés d'économie mixte de construction de logements, dans
-les conditions déterminées à l'article R. 332-12 ;
-
-17° Prêts consentis à des sociétés d'assurance à forme mutuelle, dans les
-conditions prévues à l'article R. 332-74 et sur autorisation donnée cas par cas
-par le ministre chargé de l'économie et des finances ;
-
-18° Dans les conditions déterminées à l'article R. 332-13, prêts aux entreprises
-industrielles et commerciales. Toutefois, les prêts aux établissements de crédit
-sont autorisés cas par cas par le ministre chargé de l'économie et des finances.
-
-19° Prêts aux constructeurs de navires ou aux armateurs dans les conditions
-fixées à l'article R. 332-14 ;
-
-19° bis. - Créances représentatives des prêts de titres définis par la loi n°
-87-416 du 17 juin 1987 sur l'épargne dans les conditions fixées à l'article R.
-332-14-1..
-
-20° Prêts immobiliers aux personnes physiques, dans les conditions fixées à
-l'article R. 332-15 ;
-
-21° Billets négociables sur le marché hypothécaire, billets de trésorerie,
-certificats de dépôt ;
-
-22° Bons émis par les institutions financières spécialisées et bons figurant sur
-une liste établie par le ministre chargé de l'économie et des finances ;
-
-23° Bons du Trésor ;
-
-24° Dépôts auprès des comptables du Trésor, des centres de chèques postaux, de
-la Banque de France, de la Caisse des dépôts et consignations et des
-établissements de crédit.
-
-Les intérêts courus des placements énumérés ci-dessus sont assimilés auxdits
-placements.
+13° Dépôts, dans les conditions fixées par l'article R. 332-16. Les intérêts
+courus des placements énumérés ci-dessus sont assimilés auxdits placements.
