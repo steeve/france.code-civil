@@ -5,7 +5,7 @@ régie des messages de publicité reçus en France sur les écrans de télévisi
 
 Elle est assise sur le message publicitaire selon les tarifs suivants :
 
-a) 1,5 euro par message dont le prix est au plus égal à 150 euros ;
+a) abrogé
 
 b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal
 à 1 520 euros ;

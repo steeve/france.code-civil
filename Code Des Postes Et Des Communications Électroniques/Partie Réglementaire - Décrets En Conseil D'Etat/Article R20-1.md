@@ -9,6 +9,6 @@ la ressource orbitale.
 
 Sont également applicables, lorsque la Commission européenne a pris une décision
 en ce sens, les autres exigences mentionnées au 3 de l'article 3 de la directive
-1999/5/CE du Parlement européen et du Conseil du 9 mars 1999 concernant les
+1999/5/ CE du Parlement européen et du Conseil du 9 mars 1999 concernant les
 équipements hertziens et les équipements terminaux de communications
 électroniques et la reconnaissance mutuelle de leur conformité.

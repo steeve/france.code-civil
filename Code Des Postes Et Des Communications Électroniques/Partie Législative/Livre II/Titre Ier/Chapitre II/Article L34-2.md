@@ -1,13 +1,12 @@
 Article L34-2
 ----
-La fourniture au public des services de télécommunications autres que le service
-téléphonique est libre sous réserve du respect des exigences essentielles et des
-prescriptions relatives à la défense et à la sécurité publique.
+La prescription est acquise, au profit des opérateurs mentionnés à l'article L.
+33-1, pour toutes demandes en restitution du prix de leurs prestations de
+communications électroniques présentées après un délai d'un an à compter du jour
+du paiement.
 
-Toutefois, ces services sont soumis à autorisation dans les cas prévus à
-l'article L. 34-3 et à déclaration dans le cas prévu au premier alinéa de
-l'article L. 34-4.
-
-Un décret en Conseil d'Etat précise le contenu de la déclaration et de la
-demande d'autorisation et fixe les prescriptions nécessaires au respect des
-exigences essentielles.
+La prescription est acquise, au profit de l'usager, pour les sommes dues en
+paiement des prestations de communications électroniques d'un opérateur
+appartenant aux catégories visées au précédent alinéa lorsque celui-ci ne les a
+pas réclamées dans un délai d'un an courant à compter de la date de leur
+exigibilité.

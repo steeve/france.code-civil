@@ -2,22 +2,26 @@ Article L36-14
 ----
 L'Autorité de régulation des télécommunications établit chaque année, avant le
 30 juin, un rapport public qui rend compte de son activité et de l'application
-des dispositions législatives et réglementaires relatives aux
-télécommunications. Ce rapport est adressé au Gouvernement et au Parlement. Il
-est adressé également à la Commission supérieure du service public des postes et
-télécommunications. L'autorité peut suggérer dans ce rapport toute modification
-législative ou réglementaire que lui paraissent appeler les évolutions du
-secteur des télécommunications et le développement de la concurrence.
+des dispositions législatives et réglementaires relatives aux communications
+électroniques. Elle y dresse une analyse des principales décisions prises par
+les autorités de régulation des communications électroniques dans les Etats
+membres de la Communauté européenne au cours de l'année écoulée, en vue de
+permettre l'établissement d'une comparaison des différents types de contrôles
+exercés et de leurs effets sur les marchés. Ce rapport est adressé au
+Gouvernement et au Parlement. Il est adressé également à la Commission
+supérieure du service public des postes et des communications électroniques.
+L'autorité peut suggérer dans ce rapport toute modification législative ou
+réglementaire que lui paraissent appeler les évolutions du secteur des
+communications électroniques et le développement de la concurrence.
 
-L'autorité et, le cas échéant, la Commission supérieure du service public des
-postes et télécommunications peuvent être entendues par les commissions
-permanentes du Parlement compétentes pour le secteur des télécommunications. Ces
-dernières peuvent consulter l'autorité sur toute question concernant la
-régulation des télécommunications.
+L'autorité rend compte de ses activités, et notamment des progrès réalisés eu
+égard aux objectifs mentionnés à l'article L. 32-1, devant les commissions
+permanentes du Parlement compétentes, à leur demande. Ces dernières peuvent
+consulter l'autorité sur toute question relevant de sa compétence.
 
 L'autorité peut procéder aux expertises, mener les études, recueillir les
-données et mener toutes actions d'information sur le secteur des
-télécommunications. A cette fin, les opérateurs titulaires d'une autorisation
-délivrée en application des articles L. 33-1, L. 34-1 ou L. 34-3 sont tenus de
-lui fournir annuellement les informations statistiques concernant l'utilisation,
-la zone de couverture et les modalités d'accès à leur service.
+données et mener toutes actions d'information sur le secteur des communications
+électroniques. A cette fin, les opérateurs ayant effectué la déclaration prévue
+à l'article L. 33-1 sont tenus de lui fournir les informations statistiques
+concernant l'utilisation, la zone de couverture et les modalités d'accès à leur
+service.

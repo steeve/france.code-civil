@@ -1,161 +1,105 @@
 Article L33-1
 ----
-I. - L'établissement et l'exploitation des réseaux ouverts au public sont
-autorisés par le ministre chargé des télécommunications.
+I. - L'établissement et l'exploitation des réseaux ouverts au public et la
+fourniture au public de services de communications électroniques sont libres
+sous réserve d'une déclaration préalable auprès de l'Autorité de régulation des
+télécommunications.
 
-Cette autorisation ne peut être refusée que dans la mesure requise par la
-sauvegarde de l'ordre public ou des besoins de la défense ou de la sécurité
-publique, par les contraintes techniques inhérentes à la disponibilité des
-fréquences, ou lorsque le demandeur n'a pas la capacité technique ou financière
-de faire face durablement aux obligations résultant des conditions d'exercice de
-son activité, ou a fait l'objet d'une des sanctions mentionnées aux articles L.
-36-11, L. 39, L. 39-1, L. 39-2 et L. 39-4.
+Toutefois, la déclaration n'est pas exigée pour l'établissement et
+l'exploitation des réseaux internes ouverts au public et pour la fourniture au
+public de services de communications électroniques sur ces réseaux.
 
-L'autorisation est soumise à l'application des règles contenues dans un cahier
-des charges et portant sur :
+La déclaration ne peut être faite par une personne qui a perdu, du fait d'un
+retrait ou d'une suspension prononcés en application de l'article L. 36-11, le
+droit d'établir et d'exploiter un réseau ouvert au public ou de fournir au
+public un service de communications électroniques ou par une personne qui a été
+condamnée à l'une des peines prévues par l'article L. 39.
 
-a) La nature, les caractéristiques, la zone de couverture et le calendrier de
-déploiement du réseau ;
+L'établissement et l'exploitation des réseaux ouverts au public et la fourniture
+au public de services de communications électroniques sont soumis au respect de
+règles portant sur :
 
-b) Les conditions de permanence, de qualité et de disponibilité du réseau ainsi
-que les modes d'accès, notamment au moyen de cabines établies sur la voie
-publique ;
+a) Les conditions de permanence, de qualité et de disponibilité du réseau et du
+service ;
 
-c) Les conditions de confidentialité et de neutralité au regard des messages
+b) Les conditions de confidentialité et de neutralité au regard des messages
 transmis et des informations liées aux communications ;
 
-d) Les normes et spécifications du réseau et des services, notamment européennes
-s'il y a lieu ;
+c) Les normes et spécifications du réseau et du service ;
 
-e) Les prescriptions exigées par la protection de la santé et de l'environnement
+d) Les prescriptions exigées par la protection de la santé et de l'environnement
 et par les objectifs d'aménagement du territoire et d'urbanisme, comportant, le
-cas échéant, les conditions d'occupation du domaine public et les modalités de
-partage des infrastructures ou d'itinérance locale ;
+cas échéant, les conditions d'occupation du domaine public, les garanties
+financières ou techniques nécessaires à la bonne exécution des travaux
+d'infrastructures et les modalités de partage des infrastructures et
+d'itinérance locale ;
 
-f) Les prescriptions exigées par la défense et la sécurité publiques ;
+e) Les prescriptions exigées par l'ordre public, la défense nationale et la
+sécurité publique, notamment celles qui sont nécessaires à la mise en oeuvre des
+interceptions justifiées par les nécessités de la sécurité publique, ainsi que
+les garanties d'une juste rémunération des prestations assurées à ce titre ;
 
-g) La contribution de l'exploitant à la recherche et à la formation en matière
-de télécommunications ;
+f) L'acheminement gratuit des appels d'urgence. A ce titre, les opérateurs sont
+tenus d'assurer l'accès gratuit des services d'urgence à l'information relative
+à la localisation de l'équipement du terminal de l'utilisateur, dans la mesure
+où cette information est disponible ;
 
-h) L'utilisation des fréquences allouées et les redevances dues à ce titre ainsi
-que pour les frais de leur gestion et de leur contrôle ;
+g) Le financement du service universel et, le cas échéant, la fourniture du
+service universel et des services obligatoires, dans les conditions prévues aux
+articles L. 35-2 à L. 35-5 ;
 
-i) L'allocation de numéros et de blocs de numéros, les redevances dues pour les
-frais de la gestion du plan de numérotation et de son contrôle, dans les
-conditions de l'article L. 34-10 ;
+h) La fourniture des informations prévues à l'article L. 34 ;
 
-j) Les obligations du titulaire au titre du service universel dans les
-conditions prévues aux articles L. 35-2 et L. 35-3 et au titre des services
-obligatoires définis à l'article L. 35-5 ;
+i) L'interconnexion et l'accès, dans les conditions prévues aux articles L. 34-8
+et L. 38 ;
 
-k) La fourniture des informations nécessaires à la constitution et à la tenue de
-la liste prévue à l'article L. 35-4 ;
+j) Les conditions nécessaires pour assurer l'équivalence de traitement des
+opérateurs internationaux conformément aux dispositions du III du présent
+article ;
 
-l) Les droits et obligations de l'exploitant en matière d'interconnexion ;
+k) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 
-m) Les conditions nécessaires pour assurer une concurrence loyale ;
+l) Les obligations qui s'imposent à l'exploitant pour permettre son contrôle par
+l'Autorité de régulation des télécommunications et celles qui sont nécessaires
+pour l'application de l'article L. 37-1 ;
 
-n) Les conditions nécessaires pour assurer l'équivalence de traitement des
-opérateurs internationaux conformément aux dispositions des III et IV ci-après ;
+m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts
+administratifs occasionnés par la mise en oeuvre des dispositions du présent
+livre, dans les conditions prévues par les lois de finances ;
 
-o) Les conditions nécessaires pour assurer l'interopérabilité des services ;
+n) L'information, notamment sur les conditions contractuelles de fourniture du
+service, et la protection des utilisateurs.
 
-p) Les obligations qui s'imposent à l'exploitant pour permettre le contrôle du
-cahier des charges par l'Autorité de régulation des télécommunications ;
-
-q) Les taxes dues par l'exploitant à raison de la délivrance, de la gestion et
-du contrôle de l'autorisation, dans les limites des frais administratifs
-afférents à ces opérations ;
-
-r) L'égalité de traitement et l'information des utilisateurs, notamment sur les
-conditions contractuelles de fourniture du service, comportant en particulier
-les compensations prévues pour le consommateur en cas de manquement aux
-exigences de qualité précisées au b.
-
-L'autorisation est délivrée pour une durée de quinze ans. Deux ans au moins
-avant la date de son expiration, le ministre notifie au titulaire les conditions
-de renouvellement de l'autorisation et les motifs d'un refus de renouvellement.
-Dans les cas d'établissement ou d'exploitation de réseaux expérimentaux, de
-modification ou d'adaptation de l'autorisation ou lorsque le demandeur le
-propose, l'autorisation peut être délivrée pour une durée inférieure à quinze
-ans ; le cahier des charges précise alors le délai minimal dans lequel sont
-notifiés au titulaire les conditions de renouvellement de l'autorisation et les
-motifs d'un refus de renouvellement.
-
-Un décret, pris après avis de la Commission supérieure du service public des
-postes et télécommunications, précise celles des clauses énumérées ci-dessus qui
-doivent être conformes à des clauses types dont il détermine le contenu. Les
-dispositions du projet de décret relatives à la clause mentionnée au m sont
-soumises pour avis au Conseil de la concurrence.
-
-B. - Pour les services de communication électronique utilisant des antennes
-paraboliques bidirectionnelles d'une puissance de transmission inférieure ou
-égale à 2 watts, les redevances de mise à disposition et de gestion des
-fréquences radioélectriques dues par les exploitants de réseaux de
-télécommunications par satellite ouverts au public sont établies respectivement
-sur une base forfaitaire métropolitaine ou régionale, par décret pris après avis
-de l'Autorité de régulation des télécommunications.
+Un décret fixe les modalités d'application du présent article, notamment le
+contenu du dossier de déclaration, et précise, en tant que de besoin, selon les
+différentes catégories de réseaux et de services, les règles mentionnées aux a à
+n.
 
 II. - Les opérateurs réalisant un chiffre d'affaires annuel sur le marché des
-télécommunications supérieur à un seuil fixé par arrêté des ministres chargés
-des télécommunications et de l'économie sont tenus d'individualiser sur le plan
-comptable l'activité autorisée.
+communications électroniques supérieur à un seuil fixé par arrêté des ministres
+chargés des communications électroniques et de l'économie sont tenus
+d'individualiser sur le plan comptable l'activité déclarée.
 
 En outre, lorsqu'ils disposent dans un secteur d'activité autre que les
-télécommunications d'un monopole ou d'une position dominante appréciée après
-avis du Conseil de la concurrence, et que les infrastructures utilisées peuvent
-être séparées physiquement, ils sont tenus, dans l'intérêt d'un bon exercice de
-la concurrence, d'individualiser cette activité sur le plan juridique.
+communications électroniques d'un monopole ou d'une position dominante appréciée
+après avis du Conseil de la concurrence, et que les infrastructures utilisées
+peuvent être séparées physiquement, ils sont tenus, dans l'intérêt d'un bon
+exercice de la concurrence, d'individualiser cette activité sur le plan
+juridique.
 
-Les opérateurs inscrits sur la liste établie en application du a du 7° de
-l'article L. 36-7 au titre d'une zone géographique donnée et qui détiennent,
-dans la même zone, des droits exclusifs ou bénéficient de droits particuliers
-pour l'exploitation de réseaux distribuant par câble des services de
-radiodiffusion sonore et de télévision sont tenus d'exploiter cette dernière
-activité sous la forme d'une personne juridiquement distincte.
-
-III. - Sous réserve des engagements internationaux souscrits par la France
-comportant une clause de réciprocité applicable au secteur des
-télécommunications, l'autorisation mentionnée au présent article, lorsqu'elle
-concerne un réseau utilisant des fréquences radioélectriques, ne peut être
-accordée à une société dans laquelle plus de 20 p. 100 du capital social ou des
-droits de vote sont détenus, directement ou indirectement, par des personnes de
-nationalité étrangère.
-
-De même, aucune personne de nationalité étrangère ne peut procéder à une
-acquisition ayant pour effet de porter, directement ou indirectement, la part
-détenue par des personnes de nationalité étrangère à plus de 20 p. 100 du
-capital social ou des droits de vote dans les assemblées générales d'une société
-titulaire d'une telle autorisation.
-
-Est considérée comme personne de nationalité étrangère, pour l'application du
-présent article, toute personne physique de nationalité étrangère, toute société
-dont la majorité du capital n'est pas détenue, directement ou indirectement, par
-des personnes physiques ou morales de nationalité française.
-
-Les dispositions du présent paragraphe ne sont pas applicables aux personnes
-physiques ou morales ressortissant d'un Etat membre de la Communauté européenne
-ou d'un Etat partie à l'accord sur l'Espace économique européen.
-
-IV. - Sous réserve des engagements internationaux souscrits par la France, le
-ministre chargé des télécommunications et l'autorité de régulation des
+III. - Sous réserve des engagements internationaux souscrits par la France, le
+ministre chargé des communications électroniques et l'Autorité de régulation des
 télécommunications veillent à ce que soit assurée l'égalité de traitement des
-opérateurs autorisés à acheminer du trafic international au départ ou à
-destination de réseaux ouverts au public français, notamment dans les conditions
-d'interconnexion aux réseaux français et étrangers auxquels ils demandent accès.
+opérateurs acheminant du trafic international au départ ou à destination de
+réseaux ouverts au public français, notamment dans les conditions d'accès aux
+réseaux français et étrangers.
 
 Sous la même réserve, ils veillent également à ce que les opérateurs des pays
-tiers à la Communauté européenne assurent aux opérateurs autorisés en
-application du présent article et de l'article L. 34-1 des droits comparables,
-notamment en matière d'interconnexion, à ceux dont ils bénéficient sur le
-territoire national, en application du présent code.
+tiers à la Communauté européenne assurent aux opérateurs déclarés en application
+du présent article des droits comparables, notamment en matière d'interconnexion
+et d'accès à ceux dont ils bénéficient sur le territoire national, en
+application du présent code.
 
-V. - Le nombre des autorisations peut être limité en raison des contraintes
-techniques inhérentes à la disponibilité des fréquences.
-
-Dans ce cas, le ministre chargé des télécommunications publie, sur proposition
-de l'Autorité de régulation des télécommunications, les modalités et les
-conditions d'attribution des autorisations.
-
-L'allocation des fréquences doit dans tous les cas permettre d'assurer des
-conditions de concurrence effective.
+IV. - Les installations mentionnées au 2° de l'article L. 33 sont soumises à
+déclaration dans les conditions prévues aux trois premiers alinéas du I du
+présent article et doivent respecter les règles mentionnées aux i et l du I.

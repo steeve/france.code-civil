@@ -1,10 +1,10 @@
 Article L113-4
 ----
 Tout opérateur de téléphonie vocale est tenu de proposer de manière équitable au
-consommateur, lors de la souscription d'un service de télécommunication, une
-offre dans laquelle les communications métropolitaines commutées sont facturées
-à la seconde, dès la première seconde, hors éventuellement un coût fixe de
-connexion.
+consommateur, lors de la souscription d'un service de communications
+électroniques, une offre dans laquelle les communications métropolitaines
+commutées sont facturées à la seconde, dès la première seconde, hors
+éventuellement un coût fixe de connexion.
 
 Les consommateurs ayant opté pour un mode de règlement prépayé bénéficient d'une
 facturation à la seconde, dès la première seconde, de leurs communications

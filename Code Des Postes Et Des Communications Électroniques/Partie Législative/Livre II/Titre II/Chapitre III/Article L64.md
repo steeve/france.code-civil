@@ -1,9 +1,10 @@
 Article L64
 ----
-Les infractions aux dispositions du chapitre II qui entrent dans la catégorie
-générale des troubles occasionnés aux auditeurs de radiodiffusion et qui tombent
-de ce fait sous le coup des textes organisant la protection des auditions, sont
-constatées par les fonctionnaires assermentés de la radiodiffusion française.
+Les infractions aux dispositions des sections 2 et 3 du présent chapitre qui
+entrent dans la catégorie générale des troubles occasionnés aux auditeurs de
+radiodiffusion et qui tombent de ce fait sous le coup des textes organisant la
+protection des auditions, sont constatées par les fonctionnaires assermentés de
+la radiodiffusion française.
 
 Les autres infractions, en particulier celles relatives au matériel situé dans
 les zones de servitudes, sont constatées par les fonctionnaires assermentés de

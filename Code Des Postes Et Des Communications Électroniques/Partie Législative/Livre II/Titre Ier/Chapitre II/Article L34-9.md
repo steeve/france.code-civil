@@ -8,7 +8,7 @@ conformité aux exigences essentielles. Les organismes intervenant, le cas
 échéant, dans la procédure d'évaluation de conformité sont désignés de façon à
 offrir aux industriels concernés un choix préservant leur indépendance par
 rapport à des entreprises offrant des biens ou services dans le domaine des
-télécommunications.
+communications électroniques.
 
 Un décret en Conseil d'Etat détermine :
 

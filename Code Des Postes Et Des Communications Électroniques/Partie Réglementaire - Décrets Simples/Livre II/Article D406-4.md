@@ -10,10 +10,10 @@ Deux catégories de codes d'accès sont offertes :
 Les codes d'accès de catégorie I permettant l'accès aux services Télétel par une
 double numérotation :
 
--numérotation téléphonique à quatre chiffres permettant d'aboutir à un point
+- numérotation téléphonique à quatre chiffres permettant d'aboutir à un point
 d'accès Télétel ;
 
--numérotation par un code alphanumérique appelé code de service.
+- numérotation par un code alphanumérique appelé code de service.
 
 Les codes d'accès de catégorie 2 correspondant à des numéros téléphoniques à
 huit chiffres de la forme 36PQ MCDU, dont les quatre derniers chiffres

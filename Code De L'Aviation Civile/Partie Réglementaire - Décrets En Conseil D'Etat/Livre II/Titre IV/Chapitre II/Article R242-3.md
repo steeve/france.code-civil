@@ -1,7 +1,7 @@
 Article R242-3
 ----
 Sont applicables aux servitudes aéronautiques de dégagement les dispositions des
-articles L. 55 et L. 56 du code des postes et télécommunications,
+articles L. 55 et L. 56 du code des postes et des communications électroniques,
 l'expropriation prévue à l'article L. 55 ayant lieu conformément aux
 dispositions du code de l'expropriation pour cause d'utilité publique.
 

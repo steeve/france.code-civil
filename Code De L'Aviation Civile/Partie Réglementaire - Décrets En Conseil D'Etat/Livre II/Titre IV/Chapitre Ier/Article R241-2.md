@@ -15,8 +15,8 @@ c) Aux installations d'aides à la navigation aérienne, de télécommunications
 aéronautiques et aux installations de la météorologie intéressant la sécurité de
 la navigation aérienne, sans préjudice de l'application des dispositions des
 articles L. 54 à L. 64 et R. 21, R. 24 à R. 28, R. 30 à R. 38, R. 40 à R. 42 du
-code des postes et télécommunications relatives aux servitudes établies dans
-l'intérêt des transmissions et réceptions radio-électriques ;
+code des postes et des communications électroniques relatives aux servitudes
+établies dans l'intérêt des transmissions et réceptions radio-électriques ;
 
 d) A certains emplacements correspondant à des points de passages préférentiels
 pour la navigation aérienne.

@@ -1,12 +1,15 @@
 Article L65
 ----
-Lorsque, sur une ligne de télécommunications déjà établie, la transmission des
-signaux est empêchée ou gênée soit par des arbres, soit par l'interposition d'un
-objet quelconque placé à demeure mais susceptible d'être déplacé, un arrêté du
-préfet prescrit les mesures nécessaires pour faire disparaître l'obstacle, à la
-charge de payer l'indemnité qui est fixée par le tribunal d'instance.
+Le fait de déplacer, détériorer, dégrader de quelque manière que ce soit, une
+installation d'un réseau ouvert au public ou de compromettre le fonctionnement
+d'un tel réseau est puni d'une amende de 1 500 euros.
 
-Cette indemnité est consignée préalablement à l'exécution de l'arrêté du préfet.
+Lorsqu'il s'agit d'une installation comportant plusieurs câbles, il est prononcé
+autant d'amendes que de câbles concernés.
 
-Si l'objet est mobile et n'est point placé à demeure, un arrêté du maire suffit
-pour en ordonner l'enlèvement.
+L'infraction visée au premier alinéa n'est pas constituée si l'emplacement des
+installations existantes dans l'emprise des travaux n'a pas été porté à la
+connaissance de l'entreprise avant l'ouverture du chantier.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les
+conditions prévues par l'article 121-2 du code pénal.

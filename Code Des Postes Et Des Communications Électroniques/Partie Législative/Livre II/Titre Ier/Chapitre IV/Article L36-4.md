@@ -4,7 +4,7 @@ Les ressources de l'Autorité de régulation des télécommunications comprennen
 des rémunérations pour services rendus et des taxes et redevances dans les
 conditions fixées par les lois de finances ou par décret en Conseil d'Etat.
 
-L'autorité propose au ministre chargé des télécommunications, lors de
+L'autorité propose au ministre chargé des communications électroniques, lors de
 l'élaboration du projet de loi de finances de l'année, les crédits nécessaires,
 en sus des ressources mentionnées au premier alinéa, à l'accomplissement de ses
 missions.

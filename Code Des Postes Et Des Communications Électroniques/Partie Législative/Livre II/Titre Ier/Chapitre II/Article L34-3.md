@@ -1,17 +1,12 @@
 Article L34-3
 ----
-La fourniture au public des services de télécommunications utilisant des
-fréquences hertziennes est soumise à autorisation préalable du ministre chargé
-des télécommunications dans les conditions suivantes :
+Les opérateurs exploitant un réseau radioélectrique de communication ouvert au
+public ou fournissant des services de radiocommunication au public sont tenus de
+mettre en oeuvre les dispositifs techniques destinés à interdire, à l'exception
+des numéros d'urgence, l'accès à leurs réseaux ou à leurs services des
+communications émises au moyen de terminaux mobiles, identifiés et qui leur ont
+été déclarés volés.
 
-1° Lorsqu'elle suppose l'établissement d'un nouveau réseau ou la modification
-d'un réseau déjà autorisé, les dispositions de l'article L. 33-1 sont
-applicables ;
-
-2° Lorsqu'elle est assurée grâce à un réseau utilisant des fréquences assignées
-par une autre autorité que celle compétente en matière de télécommunications, la
-délivrance de l'autorisation est subordonnée au respect des dispositions
-mentionnées au I de l'article L. 33-1. Cette autorisation est délivrée après que
-l'autorité assignant les fréquences a donné son accord sur l'usage de celles-ci.
-Elle doit notamment établir les conditions d'une concurrence loyale entre les
-fournisseurs de services, quelle que soit l'autorité assignant les fréquences.
+Toutefois, l'officier de police judiciaire peut requérir des opérateurs, après
+accord donné par le procureur de la République ou le juge d'instruction, de ne
+pas appliquer les dispositions du premier alinéa.
