@@ -1,17 +1,30 @@
 Article R165-2
 ----
 Les produits ou les prestations mentionnés à l'article L. 165-1 sont inscrits
-sur la liste prévue audit article au vu de l'appréciation du service rendu
-qu'ils apportent. Cette appréciation prend en compte l'effet thérapeutique ou
-l'efficacité technique de ces produits ou prestations ainsi que les effets
-indésirables ou les risques liés à leur utilisation, leur place au regard des
-autres thérapies ou moyens disponibles, le caractère habituel de gravité de la
-pathologie, du handicap ou de la dégradation de la qualité de vie auxquels ils
-tendent à remédier et leur intérêt pour la santé publique.
+sur la liste prévue audit article au vu de l'appréciation du service qui en est
+attendu.
 
-Le service rendu est apprécié, le cas échéant, en fonction des spécifications
-techniques, des indications thérapeutiques ou diagnostiques et des conditions
-particulières de prescription et d'utilisation.
+Le service attendu est évalué, dans chacune des indications du produit ou de la
+prestation et, le cas échéant, par groupe de population en fonction des deux
+critères suivants :
 
-Les produits ou prestations dont le service rendu est insuffisant au regard des
-autres thérapies ou moyens disponibles ne sont pas inscrits sur la liste.
+1° L'intérêt du produit ou de la prestation au regard, d'une part, de son effet
+thérapeutique, diagnostique ou de compensation du handicap ainsi que des effets
+indésirables ou des risques liés à son utilisation, d'autre part, de sa place
+dans la stratégie thérapeutique, diagnostique ou de compensation du handicap
+compte tenu des autres thérapies ou moyens de diagnostic ou de compensation
+disponibles ;
+
+2° Son intérêt de santé publique attendu, dont notamment son impact sur la santé
+de la population, en termes de mortalité, de morbidité et de qualité de vie, sa
+capacité à répondre à un besoin thérapeutique, diagnostique ou de compensation
+du handicap non couvert, eu égard à la gravité de la pathologie ou du handicap,
+son impact sur le système de soins et son impact sur les politiques et
+programmes de santé publique.
+
+Le service attendu est apprécié, le cas échéant, en fonction des spécifications
+techniques et des conditions particulières de prescription et d'utilisation
+auxquelles l'inscription est subordonnée.
+
+Les produits ou prestations dont le service attendu est insuffisant pour
+justifier l'inscription au remboursement ne sont pas inscrits sur la liste.
