@@ -1,6 +1,7 @@
 Article R143-2
 ----
-Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement :
+Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement
+[*mentions obligatoires*] :
 
 1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation
 de l'établissement dont dépend le salarié ;
@@ -31,32 +32,35 @@ durée du travail ; lorsque, par exception, la base de calcul du salaire n'est
 pas la durée du travail, l'indication de la nature de cette base ;
 
 6° La nature et le montant des accessoires de salaire soumis aux cotisations
-mentionnées aux 8° et 9° ;
+mentionnées aux 9° et 10° ;
 
 7° Le montant de la rémunération brute du salarié ;
 
-8° La nature et le montant des cotisations salariales retenues sur cette
-rémunération brute en application de dispositions législatives, réglementaires
-ou conventionnelles ;
+8° Le montant de la contribution sociale généralisée ;
 
-9° La nature et le montant des cotisations patronales de sécurité sociale
+9° La nature et le montant des cotisations salariales retenues sur cette
+rémunération brute en application de dispositions législatives, réglementaires
+ou conventionnelles et le montant de la remise forfaitaire opérée sur la
+cotisation salariale d'assurance vieillesse ;
+
+10° La nature et le montant des cotisations patronales de sécurité sociale
 d'origine législative, réglementaire ou conventionnelle assises sur cette
 rémunération brute ; toutefois, les employeurs de main-d'oeuvre agricole
 auxquels le montant des cotisations est notifié trimestriellement auront la
 faculté de mentionner les cotisations patronales après leur paiement en
 précisant la période sur laquelle elles portent ;
 
-10° La nature et le montant des autres déductions éventuellement effectuées sur
+11° La nature et le montant des autres déductions éventuellement effectuées sur
 la rémunération ;
 
-11° La nature et le montant des sommes s'ajoutant à la rémunération et non
-soumises aux cotisations mentionnées aux 8° et 9° ;
+12° La nature et le montant des sommes s'ajoutant à la rémunération et non
+soumises aux cotisations mentionnées aux 9° et 10° ;
 
-12° Le montant de la somme effectivement reçue par le salarié ;
+13° Le montant de la somme effectivement reçue par le salarié ;
 
-13° La date de paiement de ladite somme ;
+14° La date de paiement de ladite somme ;
 
-14° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
+15° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une
 période de congé annuel est comprise dans la période de paie considérée.
 
 Il ne doit être fait mention ni de l'exercice du droit de grève ni de l'activité
@@ -71,9 +75,9 @@ le salarié à le conserver sans limitation de durée.
 Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans
 blancs, lacunes, ratures, surcharges, ni apostilles. Il est coté, paraphé et
 visé dans la forme ordinaire et sans frais, soit par le juge du tribunal
-d'instance ou par un des juges du tribunal de commerce dans le ressort duquel se
-trouve le lieu où l'employeur exerce sa profession, soit par le maire ou un
-adjoint.
+d'instance [*compétence*] ou par un des juges du tribunal de commerce dans le
+ressort duquel se trouve le lieu où l'employeur exerce sa profession, soit par
+le maire ou un adjoint.
 
-L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa
-clôture.
+L'employeur est tenu [*obligation*] de conserver ce livre pendant cinq ans
+[*durée*] à dater de sa clôture.
