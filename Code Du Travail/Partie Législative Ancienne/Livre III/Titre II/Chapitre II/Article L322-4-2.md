@@ -10,9 +10,9 @@ contrats de travail dénommés contrats initiative-emploi.
 Les durées d'inscription comme demandeur d'emploi, exigées pour accéder au
 dispositif du contrat initiative-emploi, sont prolongées des périodes de stages
 de formation et des périodes pendant lesquelles les intéressés ont bénéficié
-d'un contrat de travail en application des articles L. 322-4-7, L. 322-4-8-1 ou
-L. 322-4-16, ou des périodes d'indisponibilité dues à une maladie, une maternité
-ou un accident du travail.
+d'un contrat de travail en application des articles L. 322-4-7, L. 322-4-8-1, L.
+322-4-15 ou L. 322-4-16, ou des périodes d'indisponibilité dues à une maladie,
+une maternité ou un accident du travail.
 
 Les contrats initiative-emploi peuvent être des contrats de travail à temps
 partiel. En ce qui concerne les personnes handicapées contraintes à des horaires

@@ -25,14 +25,13 @@ conditions fixées au présent titre, leurs réclamations individuelles et
 collectives concernant l'application des dispositions des articles L. 124-4-2,
 L. 124-4-6 et L. 124-4-7. Les délégués du personnel peuvent prendre connaissance
 des contrats définis à l'article L. 124-3, passés avec les entreprises de
-travail temporaire, pour la mise à disposition de salariés temporaires
-[*information*].
+travail temporaire, pour la mise à disposition de salariés temporaires , ainsi
+que les contrats institués à l'article L. 322-4-15.
 
-Dans les entreprises comportant moins de cinquante salariés [*effectif*], les
-délégués du personnel doivent être réunis et consultés par l'employeur qui
-envisage de procéder à un licenciement collectif pour motif économique. Le
-procès-verbal de cette réunion est transmis à l'autorité administrative
-compétente.
+Dans les entreprises comportant moins de cinquante salariés, les délégués du
+personnel doivent être réunis et consultés par l'employeur qui envisage de
+procéder à un licenciement collectif pour motif économique. Le procès-verbal de
+cette réunion est transmis à l'autorité administrative compétente.
 
 Lorsque le nombre de licenciements envisagés est au moins égal à dix dans une
 même période de trente jours, la consultation visée à l'alinéa précédent a lieu
