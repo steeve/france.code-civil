@@ -14,7 +14,7 @@ Redevance cynégétique départementale temporaire : 23 euros
 
 Redevance cynégétique gibier d'eau : 15 euros
 
-La perception des redevances cynégétiques donne lieu à l'apposition de timbres,
-sur le permis de chasser, par le comptable du Trésor territorialement compétent
-ou, dans des conditions fixées par décret en Conseil d'Etat, par un autre
-comptable public.
+Les redevances cynégétiques sont encaissées par un comptable du Trésor ou un
+régisseur de recettes de l'Etat placé auprès d'une fédération départementale ou
+interdépartementale des chasseurs et habilité, selon les règles et avec les
+garanties applicables en matière de droits de timbre.
