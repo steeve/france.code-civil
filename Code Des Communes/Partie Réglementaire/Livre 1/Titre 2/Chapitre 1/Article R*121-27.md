@@ -1,9 +1,18 @@
 Article R*121-27
 ----
-Pour l'application des dispositions de l'article L. 121-38, le président, les
-vice-présidents et les membres d'un des établissements publics de coopération
-intercommunale mentionnés aux articles L. 163-1, L. 164-1, L. 165-1, L. 166-5,
-L. 167-1, L. 168-1 et L. 171-1 sont, lorsqu'ils n'exercent pas de mandat
-municipal, assimilés respectivement aux maire, adjoints au maire et conseillers
-municipaux de la commune la plus peuplée membre de l'établissement public de
-coopération intercommunale concerné.
+Pour l'application des dispositions de l'article L. 2123-3 du code général des
+collectivités territoriales :
+
+1° Le président, les vice-présidents et les membres de l'organe délibérant de
+l'un des établissements publics de coopération intercommunale mentionnés aux
+articles L. 5212-1, L. 5332-1 et L. 5711-1 du même code sont, lorsqu'ils
+n'exercent pas de mandat municipal, assimilés respectivement au maire, aux
+adjoints au maire et aux conseillers municipaux de la commune la plus peuplée de
+cet établissement public ;
+
+2° Le président, les vice-présidents et les membres de l'organe délibérant de
+l'un des établissements publics de coopération intercommunale mentionnés aux
+articles L. 5214-1, L. 5215-1, L. 5216-1 et L. 5331-1 du même code sont
+assimilés respectivement au maire, aux adjoints au maire et aux conseillers
+municipaux d'une commune dont la population serait égale à celle de l'ensemble
+des communes composant cet établissement public.
