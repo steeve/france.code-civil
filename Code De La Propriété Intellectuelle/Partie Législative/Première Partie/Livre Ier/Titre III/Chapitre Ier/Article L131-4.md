@@ -21,7 +21,7 @@ contribution de l'auteur ne constitue pas l'un des éléments essentiels de la
 création intellectuelle de l'oeuvre, soit que l'utilisation de l'oeuvre ne
 présente qu'un caractère accessoire par rapport à l'objet exploité ;
 
-5° En cas de cession d'un logiciel ;
+5° En cas de cession des droits portant sur un logiciel ;
 
 6° Dans les autres cas prévus au présent code.
 
