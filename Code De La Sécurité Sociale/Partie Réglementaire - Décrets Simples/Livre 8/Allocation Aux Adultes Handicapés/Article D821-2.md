@@ -1,11 +1,11 @@
 Article D821-2
 ----
 Les personnes qui satisfont aux autres conditions d'attribution peuvent
-prétendre à l'allocation aux adultes handicapés si l'ensemble des ressources
-perçues par elles durant l'année civile précédant celle au cours de laquelle le
-droit est ouvert ou maintenu est inférieur au chiffre limite de ressources fixé
-pour l'octroi de l'allocation aux vieux travailleurs salariés aux personnes
-seules, applicable au 1er juillet de l'année de référence.
+prétendre à l'allocation aux adultes handicapés si l'ensemble des autres
+ressources perçues par elles durant l'année civile précédant celle au cours de
+laquelle le droit est ouvert ou maintenu est inférieur au chiffre limite de
+ressources fixé pour l'octroi de l'allocation aux vieux travailleurs salariés
+aux personnes seules, applicable au 1er juillet de l'année de référence.
 
 Lorsque le demandeur est marié et non séparé ou qu'il vit maritalement, ce
 plafond est augmenté d'une somme égale au chiffre limite de ressources mentionné
@@ -29,6 +29,7 @@ l'année civile de référence à compter du premier jour du mois civil suivant
 celui au cours duquel la modification est intervenue et jusqu'à la fin de la
 période de paiement suivant celle en cours.
 
-Lorsque le total de l'allocation et des ressources susceptibles d'être prises en
-compte dépasse le plafond applicable, l'allocation est réduite à due
-concurrence.
+Lorsque les ressources visées au premier alinéa ajoutées au montant annuel de
+l'allocation aux adultes handicapés, tel qu'il est fixé au 1er juillet de
+l'année de référence, dépassent le plafond applicable, l'allocation est réduite
+à due concurrence.
