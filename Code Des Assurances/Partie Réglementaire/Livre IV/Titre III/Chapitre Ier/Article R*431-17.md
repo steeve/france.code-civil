@@ -1,8 +1,7 @@
 Article R*431-17
 ----
-Les avoirs disponibles du fonds national de garantie des calamités agricoles
-sont placés par la caisse centrale de réassurance en actifs mentionnés à
-l'article R. 332-2. Ces actifs sont soumis aux limitations prévues aux articles
-R. 332-3 et R. 332-3-1 ; toutefois, pour le calcul de ces limitations, le
-montant de chacune des catégories d'actifs est rapporté au montant des avoirs
-disponibles du fonds.
+La caisse centrale de réassurance peut accepter d'assurer ou de réassurer, avec
+la garantie de l'Etat, les risques mentionnés à l'article L. 431-4 lorsque les
+biens concernés sont propriété française ou immatriculés en France ou lorsque le
+souscripteur de la police ou le bénéficiaire de l'indemnité est de nationalité
+française.

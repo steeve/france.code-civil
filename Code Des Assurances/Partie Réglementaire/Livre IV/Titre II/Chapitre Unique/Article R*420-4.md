@@ -13,8 +13,8 @@ au contrat, une part de l'indemnité due à la victime ou à ses ayants droit po
 les dommages résultant de l'accident corporel reste à la charge du responsable
 et si celui-ci n'accepte pas de se libérer en même temps que son assureur de la
 part d'indemnité restant à sa charge, ce dernier lui envoie au nom de la victime
-ou de ses ayants droit la sommation prévue à l'article R. 420-13. Si cette
-sommation n'a pas été suivie d'effet à l'expiration d'un délai d'un mois,
-l'assureur, après avoir recueilli, en cas de règlement transactionnel, l'accord
-du fonds de garantie, verse pour le compte de ce dernier le reliquat de
-l'indemnité et l'avise de ce versement.
+ou de ses ayants droit la mise en demeure mentionnée au dernier alinéa de
+l'article R. 420-13. Si cette mise en demeure n'a pas été suivie d'effet à
+l'expiration d'un délai d'un mois, l'assureur, après avoir recueilli, en cas de
+règlement transactionnel, l'accord du fonds de garantie, verse pour le compte de
+ce dernier le reliquat de l'indemnité et l'avise de ce versement.

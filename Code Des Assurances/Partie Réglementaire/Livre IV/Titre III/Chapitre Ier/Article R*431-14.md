@@ -6,4 +6,4 @@ versés, après prélèvement éventuel au profit de l'Etat, à une réserve sp�
 de garantie.
 
 Tout prélèvement opéré sur ladite réserve est soumis à autorisation du ministre
-de l'économie et des finances.
+chargé de l'économie et des finances.

@@ -1,7 +1,6 @@
 Article R431-34
 ----
-La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut
-réassurer les risques mentionnés à l'article L. 431-3, alinéa 1, lorsque les
-biens ou intérêts concernés donnent lieu à une garantie pour la souscription de
-laquelle intervient une entreprise agréée en France pour pratiquer les risques
-correspondants.
+Le contrôle des opérations effectuées par la caisse centrale de réassurance pour
+le compte du Fonds national de garantie des calamités agricoles est exercé dans
+les mêmes conditions que celui qui porte sur les autres opérations de ladite
+caisse.

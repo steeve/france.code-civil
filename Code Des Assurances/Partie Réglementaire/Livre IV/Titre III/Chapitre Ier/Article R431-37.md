@@ -1,5 +1,9 @@
 Article R431-37
 ----
-Les conditions générales des traités de réassurance sont soumises par la Caisse
-centrale de réassurance à l'approbation du ministre de l'économie, des finances
-et du budget, après avis de la commission consultative des garanties.
+Les opérations du fonds national de garantie des calamités agricoles sont
+retracées tant en recettes qu'en dépenses dans une comptabilité distincte tenue
+par la caisse centrale de réassurance.
+
+Un arrêté du ministre chargé de l'économie et des finances détermine la liste et
+la forme des comptes retraçant ces opérations, ainsi que la manière dont leurs
+résultats sont centralisés.

@@ -1,32 +1,21 @@
 Article R*431-7
 ----
-La caisse centrale de réassurance est gérée par un conseil d'administration
-comprenant :
+Le conseil d'administration se réunit au siège de la caisse centrale de
+réassurance sur convocation du ministre chargé de l'économie et des finances ou
+de son président, aussi souvent que l'intérêt de la caisse centrale de
+réassurance l'exige et au moins une fois par mois. Il ne peut délibérer
+valablement que lorsque la moitié au moins de ses membres est présente.
 
-a) Cinq représentants de l'Etat nommés par décret sur proposition du ministre de
-l'économie, des finances et du budget ;
+En cas d'absence du président, le conseil désigne un président de séance.
 
-b) Cinq personnalités nommées par décret sur proposition du ministre, dont :
+Dans tous les cas, les délibérations sont prises à la majorité des suffrages
+exprimés. En cas d'égalité des voix, celle du président est prépondérante.
 
-Deux, représentant les entreprises d'assurance ;
+Le conseil désigne son secrétaire, qui peut être choisi, en dehors des
+administrateurs, parmi les membres du personnel de la caisse centrale de
+réassurance.
 
-Une, représentant les assurés, choisie après consultation des organisations les
-plus représentatives au niveau national de producteurs et de consommateurs ou
-d'organismes regroupant de telles organisations ;
-
-Deux personnalités choisies en raison de leur compétence, dont l'une désignée
-après consultation des organisations syndicales les plus représentatives parmi
-les agents généraux d'assurance ou les courtiers d'assurance et de réassurance ;
-
-c) Cinq représentants des salariés élus dans les conditions prévues au chapitre
-II du titre II de la loi n° 83-675 du 26 juillet 1983 susvisée.
-
-Pour l'application de l'article 26 de ladite loi, chacun de ces représentants
-bénéficie d'un crédit d'heures fixé à quinze heures par mois.
-
-Les dispositions de l'article R. 322-26 sont applicables aux représentants de
-l'Etat dans le conseil d'administration de la Caisse centrale de réassurance.
-
-Le président du conseil d'administration, désigné dans les conditions prévues à
-l'article 10 de la loi du 26 juillet 1983 susvisée, assure la direction générale
-de l'établissement.
+Les délibérations du conseil d'administration sont constatées dans des
+procès-verbaux inscrits sur un registre tenu au siège de la caisse centrale de
+réassurance, signés par le président du conseil d'administration, directeur
+général, ou par le président de séance et par le secrétaire.

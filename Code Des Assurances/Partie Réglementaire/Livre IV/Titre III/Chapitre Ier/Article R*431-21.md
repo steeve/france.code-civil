@@ -1,28 +1,14 @@
 Article R*431-21
 ----
-Les opérations effectuées par ce fonds comprennent :
+La commission consultative des garanties se réunit soit à l'initiative de son
+président, soit à la demande du ministre chargé de l'économie et des finances,
+soit à la demande du président du conseil d'administration, directeur général de
+la caisse centrale de réassurance.
 
-En recettes :
+Outre les questions dont elle connaît obligatoirement, la commission peut être
+consultée sur toutes questions sur lesquelles le ministre chargé de l'économie
+et des finances ou le président du conseil d'administration, directeur général
+de la caisse centrale de réassurance, souhaitent recueillir son avis.
 
-a) Le produit de la contribution additionnelle prévue à l'article 2 du décret n°
-75-107 du 20 février 1975 ;
-
-b) Les revenus des fonds placés ;
-
-c) Les bénéfices sur remboursements et réalisations de valeurs mobilières et
-immobilières ;
-
-d) Toute autre ressource éventuelle.
-
-En dépenses :
-
-a) Les majorations de rentes payables par les entreprises d'assurance ;
-
-b) Les frais de gestion et les frais financiers exposés pour le fonctionnement
-du fonds ;
-
-c) Les pertes sur réalisations de valeurs mobilières et immobilières ;
-
-d) Les frais d'assiette relatifs à la contribution additionnelle ;
-
-e) Le remboursement des avances consenties au fonds.
+Les avis de la commission sont pris à la majorité des voix ; en cas de partage,
+la voix du président est prépondérante.

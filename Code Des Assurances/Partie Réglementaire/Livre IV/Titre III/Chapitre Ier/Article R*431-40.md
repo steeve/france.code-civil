@@ -1,26 +1,28 @@
 Article R*431-40
 ----
-Il est constitué auprès de la Caisse centrale de réassurance une commission
-consultative des garanties des risques exceptionnels et nucléaires qui comprend
-:
+Les opérations effectuées par ce fonds comprennent :
 
-1° Un magistrat de la Cour des comptes désigné par le premier président de la
-Cour des comptes, président, suppléé en cas d'empêchement par un autre magistrat
-de la Cour des comptes désigné dans les mêmes conditions ;
+- en recettes :
 
-2° Un représentant du ministre de l'économie, des finances et du budget, du
-ministre des transports, du ministre de l'industrie et de la recherche, du
-secrétaire d'Etat du ministre de l'économie, des finances et du budget, chargé
-du budget, et du secrétaire d'Etat auprès du ministre des transports, chargé de
-la mer ;
+a) Le produit de la contribution additionnelle prévue à l'article 2 du décret n°
+75-107 du 20 février 1975 ;
 
-3° Un représentant de la fédération française des sociétés d'assurances et le
-directeur général de la Caisse centrale de réassurance, ou son représentant,
-chargé de la présentation des dossiers soumis à la commission.
+b) Les revenus des fonds placés ;
 
-Le président peut inviter à participer aux travaux de la commission toute
-personne dont il lui paraît utile de recueillir l'avis sur une question à
-l'ordre du jour.
+c) Les bénéfices sur remboursements et réalisations de valeurs mobilières et
+immobilières ;
 
-Le secrétariat de la commission est assuré par la Caisse centrale de
-réassurance.
+d) Toute autre ressource éventuelle ;
+
+- en dépenses :
+
+a) Les majorations de rentes payables par les entreprises d'assurance ;
+
+b) Les frais de gestion et les frais financiers exposés pour le fonctionnement
+du fonds ;
+
+c) Les pertes sur réalisations de valeurs mobilières et immobilières ;
+
+d) Les frais d'assiette relatifs à la contribution additionnelle ;
+
+e) Le remboursement des avances consenties au fonds.

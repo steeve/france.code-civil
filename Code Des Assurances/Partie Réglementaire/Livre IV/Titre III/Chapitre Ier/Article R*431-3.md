@@ -5,5 +5,5 @@ La caisse centrale de réassurance est dotée d'un fonds d'établissement qui pe
 disponibles de ladite caisse.
 
 Le montant de ce fonds est fixé par décret en Conseil d'Etat, pris sur le
-rapport du ministre de l'économie et des finances, après avis du conseil
+rapport du ministre chargé de l'économie et des finances, après avis du Conseil
 national des assurances.

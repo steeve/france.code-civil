@@ -1,7 +1,6 @@
 Article R431-38
 ----
-Après avoir recueilli l'avis de la commission consultative des garanties sur les
-principes généraux de la tarification, la caisse centrale de réassurance
-détermine le tarif destiné à lui permettre de faire face aux charges des
-opérations qu'elle effectue au titre des articles L. 431-3, alinéa 1, et L.
-431-4.
+Pour l'application du 1° de l'article 13 de la loi n° 64-706 du 10 juillet 1964,
+la caisse centrale de réassurance est chargée de dresser les statistiques dont
+la connaissance apparaît nécessaire pour mener à bien l'action d'information et
+de prévention confiée au Fonds national de garantie des calamités agricoles.

@@ -1,5 +1,8 @@
 Article R*431-28
 ----
-Pour leur permettre de faire face au paiement des majorations à leur charge, la
-caisse centrale de réassurance peut, sur justifications, consentir des avances
-aux entreprises d'assurance.
+En ce qui concerne les risques définis à l'article L. 431-4 autres que de
+responsabilité civile, une assurance contre les risques ordinaires doit avoir
+été préalablement souscrite pour un montant au moins égal à celui pour lequel la
+garantie est demandée. La caisse centrale de réassurance peut déroger à cette
+obligation après consultation, sauf urgence, de la commission consultative des
+garanties.

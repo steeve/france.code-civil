@@ -1,8 +1,6 @@
 Article R*431-45
 ----
-En ce qui concerne les risques définis à l'article L. 431-3, alinéa 1, autres
-que de responsabilité civile, une assurance contre les risques ordinaires doit
-avoir été préalablement souscrite pour un montant au moins égal à celui pour
-lequel la garantie est demandée. La caisse centrale de réassurance peut déroger
-à cette obligation après accord de la commission consultative des garanties
-prévue à l'article R. 431-40.
+Le fonds rembourse annuellement aux entreprises d'assurance les majorations
+payées en application de l'article 1er du décret n° 75-107 du 20 février 1975.
+Les dépenses de gestion occasionnées aux entreprises d'assurance par le service
+des majorations restent à leur charge.

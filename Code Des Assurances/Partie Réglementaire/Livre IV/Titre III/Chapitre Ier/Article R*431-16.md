@@ -1,6 +1,8 @@
 Article R*431-16
 ----
-Le contrôle des opérations effectuées par la caisse centrale de réassurance pour
-le compte du fonds national de garantie des calamités agricoles est exercé dans
-les mêmes conditions que celui qui porte sur les autres opérations de ladite
-caisse.
+Pour les opérations effectuées avec la garantie de l'Etat, les conditions
+générales des traités de réassurance sont soumises par la caisse centrale de
+réassurance à l'approbation du ministre chargé de l'économie et des finances.
+Les commissions qui peuvent être allouées aux intermédiaires et aux cédants sont
+fixées par la caisse centrale de réassurance, sans pouvoir excéder les limites
+autorisées par le ministre chargé de l'économie et des finances.

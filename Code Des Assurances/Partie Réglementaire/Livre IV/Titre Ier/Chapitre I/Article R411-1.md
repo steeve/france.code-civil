@@ -20,7 +20,8 @@ Le directeur du Trésor au ministère de l'économie et des finances ;
 
 Le directeur général de la caisse des dépôts et consignations ;
 
-Le directeur général de la caisse centrale de réassurance ;
+Le président du conseil d'administration, directeur général de la caisse
+centrale de réassurance ;
 
 Un professeur d'une unité de droit d'une université de Paris, désigné par le
 ministre de l'économie et des finances ;
@@ -59,7 +60,7 @@ désignées par arrêté du ministre de l'économie et des finances et du minist
 travail ;
 
 Un représentant des organisations de consommateurs, désigné sur proposition du
-collège des consommateurs du comité national de la consommation.
+collège des consommateurs du comité national de la consommation ;
 
 Ces huit représentants des assurés ne peuvent être choisis parmi les
 professionnels de l'assurance en activité ;
@@ -89,7 +90,7 @@ Sept représentants des sociétés d'assurance opérant en France, désignés pa
 l'organisation professionnelle la plus représentative de ces entreprises ;
 
 Un représentant des sociétés adhérant au groupement des sociétés d'assurances à
-caractère mutuel, désigné par cet organisme.
+caractère mutuel, désigné par cet organisme ;
 
 Un professionnel de l'assurance mutuelle agricole, désigné par le conseil
 d'administration de la caisse centrale des mutuelles agricoles.

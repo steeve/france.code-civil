@@ -1,9 +1,8 @@
 Article R431-35
 ----
-La Caisse centrale de réassurance, agissant avec la garantie de l'Etat, peut
-accorder sa couverture aux risques mentionnés à l'article L. 431-3, alinéa 1,
-lorsque les biens ou intérêts concernés sont réassurés par une entreprise dont
-le siège social est établi sur le territoire d'un Etat membre de la Communauté
-économique européenne. Les opérations effectuées à ce titre par la Caisse
-centrale de réassurance font l'objet d'un compte rendu au ministre de
-l'économie, des finances et du budget selon les modalités qu'il définit.
+Les avoirs disponibles du Fonds national de garantie des calamités agricoles
+sont placés sur la caisse centrale de réassurance en actifs mentionnés à
+l'article R. 332-2. Ces actifs sont soumis aux limitations prévues aux articles
+R. 332-3 et R. 332-3-1 ; toutefois, pour le calcul de ces limitations, le
+montant de chacune des catégories d'actifs est rapporté au montant des avoirs
+disponibles du fonds.
