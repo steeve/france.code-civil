@@ -21,6 +21,5 @@ fraction supérieure à la sienne.
 
 III. - Pour l'application des mêmes sections du présent chapitre, deux ou
 plusieurs personnes agissant de concert sont considérées comme en contrôlant
-conjointement une autre lorsqu'elles déterminent en fait, dans le cadre d'un
-accord en vue de mettre en oeuvre une politique commune, les décisions prises
-dans les assemblées générales de cette dernière.
+conjointement une autre lorsqu'elles déterminent en fait les décisions prises en
+assemblée générale.

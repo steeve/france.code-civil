@@ -8,7 +8,8 @@ commission permanente par délégation du conseil régional ;
 2° Les actes à caractère réglementaire pris par les autorités régionales dans
 les domaines qui relèvent de leur compétence en application de la loi ;
 
-3° Les conventions relatives aux marchés et aux emprunts ainsi que les
+3° Les conventions relatives aux marchés à l'exception des marchés passés sans
+formalité préalable en raison de leur montant, et aux emprunts ainsi que les
 conventions de concession ou d'affermage de services publics locaux à caractère
 industriel ou commercial ;
 

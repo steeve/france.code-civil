@@ -23,6 +23,22 @@ Dans chaque conseil d'orientation et de surveillance, le nombre des membres élu
 par les salariés est identique à celui des membres élus par les collectivités
 territoriales et ne peut être supérieur à trois.
 
+En cas de fusion de caisses d'épargne et de prévoyance soit par absorption, soit
+par création d'une personne morale nouvelle, le nombre de membres du conseil
+d'orientation et de surveillance de la caisse issue de la fusion peut être
+supérieur à dix-sept, tout en respectant la répartition entre les différentes
+catégories de membres prévue aux quatrième à septième alinéas ci-dessus, pendant
+un délai maximum de trois ans à compter de la date de la fusion. Dans ce cas, le
+conseil d'administration et de surveillance ne peut être composé de plus de
+trente-quatre membres et le nombre de membres élus par les salariés et celui des
+membres élus par les collectivités territoriales ne peuvent être supérieurs à
+six.
+
+A défaut d'accord entre les caisses concernées, le nombre total des membres du
+conseil d'orientation et de surveillance, ainsi que la répartition de ces
+derniers par caisse et par catégorie, peuvent être fixés par la Caisse nationale
+des caisses d'épargne et de prévoyance.
+
 Les membres du directoire sont proposés par le conseil d'orientation et de
 surveillance. Le directoire de la Caisse nationale des caisses d'épargne et de
 prévoyance s'assure qu'ils présentent l'honorabilité nécessaire et l'expérience

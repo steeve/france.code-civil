@@ -2,4 +2,4 @@ Article L744-11
 ----
 Le titre IV du livre IV est applicable en Nouvelle-Calédonie.
 
-L'article L. 464-1 s'y applique également.
+Les articles L. 464-1 et L. 464-2 s'y appliquent également.

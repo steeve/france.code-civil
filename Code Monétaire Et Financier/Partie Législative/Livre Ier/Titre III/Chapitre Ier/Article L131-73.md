@@ -1,13 +1,15 @@
 Article L131-73
 ----
 Sous réserve des dispositions de l'article L. 312-1 relatives au droit au compte
-et aux services bancaires de base, le banquier tiré qui a refusé le paiement
-d'un chèque pour défaut de provision suffisante doit enjoindre au titulaire du
-compte de restituer à tous les banquiers dont il est le client les formules en
-sa possession et en celle de ses mandataires et de ne plus émettre des chèques
-autres que ceux qui permettent exclusivement le retrait de fonds par le tireur
-auprès du tiré ou ceux qui sont certifiés. Le banquier tiré en informe dans le
-même temps les mandataires de son client.
+et aux services bancaires de base, le banquier tiré peut, après avoir informé
+par tout moyen approprié mis à disposition par lui le titulaire du compte des
+conséquences du défaut de provision, refuser le paiement d'un chèque pour défaut
+de provision suffisante. Il doit enjoindre au titulaire du compte de restituer à
+tous les banquiers dont il est le client les formules en sa possession et en
+celle de ses mandataires et de ne plus émettre des chèques autres que ceux qui
+permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou
+ceux qui sont certifiés. Le banquier tiré en informe dans le même temps les
+mandataires de son client.
 
 Toutefois, le titulaire du compte recouvre la possibilité d'émettre des chèques
 lorsqu'il justifie avoir, à la suite de cette injonction adressée après un
@@ -35,4 +37,6 @@ la notification ou de la signification délivre, sans autre acte de procédure n
 frais, un titre exécutoire.
 
 En tout état de cause, les frais de toute nature qu'occasionne le rejet d'un
-chèque sans provision sont à la charge du tireur.
+chèque sans provision sont à la charge du tireur. Lorsque le montant du chèque
+rejeté est inférieur à 50 euros, les frais perçus par le tiré ne peuvent excéder
+un montant fixé par décret.

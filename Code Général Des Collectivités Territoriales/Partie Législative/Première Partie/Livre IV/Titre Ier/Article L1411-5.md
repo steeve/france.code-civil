@@ -1,8 +1,8 @@
 Article L1411-5
 ----
-- Après décision sur le principe de la délégation, il est procédé à une
-publicité et à un recueil d'offres dans les conditions prévues aux deuxième et
-troisième alinéas de l'article L. 1411-1.
+Après décision sur le principe de la délégation, il est procédé à une publicité
+et à un recueil d'offres dans les conditions prévues aux troisième et quatrième
+alinéas de l'article L. 1411-1.
 
 Les plis contenant les offres sont ouverts par une commission composée :
 

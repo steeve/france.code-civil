@@ -9,3 +9,7 @@ consultation du Conseil national de la consommation.
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de
 l'article L. 113-2.
+
+Les règles relatives à l'obligation de renseignements par les établissements de
+crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et
+financier sont fixées par les I et II de l'article L. 312-1-1 du même code.

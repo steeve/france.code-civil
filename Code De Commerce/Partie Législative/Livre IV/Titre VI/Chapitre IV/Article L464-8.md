@@ -1,10 +1,9 @@
 Article L464-8
 ----
 Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, L.
-464-1, L. 464-2, L. 464-3, L. 464-5 et L. 464-6 sont notifiées aux parties en
-cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois,
-introduire un recours en annulation ou en réformation devant la cour d'appel de
-Paris.
+464-2, L. 464-3, L. 464-5 et L. 464-6 sont notifiées aux parties en cause et au
+ministre chargé de l'économie, qui peuvent, dans le délai d'un mois, introduire
+un recours en annulation ou en réformation devant la cour d'appel de Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la
 consommation et de la répression des fraudes. Le ministre chargé de l'économie

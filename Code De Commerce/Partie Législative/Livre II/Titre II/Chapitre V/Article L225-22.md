@@ -1,11 +1,10 @@
 Article L225-22
 ----
 Un salarié de la société ne peut être nommé administrateur que si son contrat de
-travail est antérieur de deux années au moins à sa nomination et correspond à un
-emploi effectif. Il ne perd pas le bénéfice de ce contrat de travail. Toute
-nomination intervenue en violation des dispositions du présent alinéa est nulle.
-Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part
-l'administrateur irrégulièrement nommé.
+travail correspond à un emploi effectif. Il ne perd pas le bénéfice de ce
+contrat de travail. Toute nomination intervenue en violation des dispositions du
+présent alinéa est nulle. Cette nullité n'entraîne pas celle des délibérations
+auxquelles a pris part l'administrateur irrégulièrement nommé.
 
 Le nombre des administrateurs liés à la société par un contrat de travail ne
 peut dépasser le tiers des administrateurs en fonction.

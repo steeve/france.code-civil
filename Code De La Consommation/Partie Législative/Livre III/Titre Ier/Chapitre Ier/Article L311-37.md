@@ -1,9 +1,9 @@
 Article L311-37
 ----
 Le tribunal d'instance connaît des litiges nés de l'application du présent
-chapitre. Les actions engagées devant lui doivent être formées dans les deux ans
-de l'événement qui leur a donné naissance à peine de forclusion, y compris
-lorsqu'elles sont nées de contrats conclus antérieurement au 1er juillet 1989.
+chapitre. Les actions en paiement engagées devant lui à l'occasion de la
+défaillance de l'emprunteur doivent être formées dans les deux ans de
+l'événement qui leur a donné naissance à peine de forclusion.
 
 Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un
 réaménagement ou d'un rééchelonnement, le point de départ du délai de forclusion

@@ -34,3 +34,11 @@ Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
 c) Les constructions, installations ou travaux réalisés à l'intérieur des
 périmètres des opérations d'intérêt national dans les conditions définies par
 décret en Conseil d'Etat.
+
+Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de
+l'article L. 302-9-1 du code de la construction et de l'habitation, les
+autorisations ou les actes relatifs à l'utilisation et à l'occupation du sol
+concernant les opérations ayant fait l'objet de la convention prévue au même
+article sont délivrés ou établis au nom de l'Etat par le préfet, après avis du
+maire ou du président de l'établissement public de coopération intercommunale
+compétent.

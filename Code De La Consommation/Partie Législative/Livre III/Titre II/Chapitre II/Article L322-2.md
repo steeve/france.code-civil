@@ -6,12 +6,11 @@ Les dispositions du présent titre ne sont pas applicables :
 
 2° Aux personnes physiques ou morales qui se livrent aux opérations visées à
 l'article L. 321-1 dans le cadre de leur mission de conciliation instituée par
-la noi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement
+la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement
 amiable des difficultés des entreprises ;
 
-3° Aux personnes physiques et morales désignées en application des articles 141
-et 143 de la loi n° 85-08 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises qui se livrent aux opérations visées à
+3° Aux personnes physiques et morales désignées en application des articles L.
+621-137 et L. 621-139 du code de commerce qui se livrent aux opérations visées à
 l'article L. 321-1 ;
 
 4° Aux personnes physiques mentionnées au deuxième alinéa de l'article 2 de la

@@ -8,3 +8,7 @@ et lui communique toute précision sur les illégalités invoquées. Il peut
 assortir son recours d'une demande de suspension. Il est fait droit à cette
 demande si l'un des moyens invoqués paraît en l'état de l'instruction, propre à
 créer un doute sérieux quand à la légalité de l'acte attaqué.
+
+Toutefois, les marchés passés sans formalité préalable en raison de leur montant
+sont dispensés de l'obligation de transmission au représentant de l'Etat prévue
+au premier alinéa. Ces marchés sont exécutoires dès leur conclusion.
