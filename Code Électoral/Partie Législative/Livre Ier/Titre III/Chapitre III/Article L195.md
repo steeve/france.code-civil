@@ -62,4 +62,7 @@ l'Etat dans les départements où ils exercent leurs fonctions ;
 18° Les membres du cabinet du président du conseil général et du président du
 conseil régional, les directeurs généraux, les directeurs, les directeurs
 adjoints, les chefs de service et les chefs de bureau de conseil général et de
-conseil régional dans la circonscription où ils exercent leurs fonctions.
+conseil régional dans la circonscription où ils exercent leurs fonctions. Est
+également inéligible, pendant un an, le président de conseil général qui n'a pas
+déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
+mars 1988 relative à la transparence financière de la vie politique.
