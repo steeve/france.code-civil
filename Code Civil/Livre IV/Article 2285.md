@@ -14,5 +14,4 @@ délégué" ;
 
 4° "Département" ou "arrondissement" par : "collectivité départementale" ;
 
-5° "Code de procédure civile" ou "nouveau code de procédure civile" par :
-"dispositions de procédure civile applicables à Mayotte".
+5° (Alinéa supprimé).
