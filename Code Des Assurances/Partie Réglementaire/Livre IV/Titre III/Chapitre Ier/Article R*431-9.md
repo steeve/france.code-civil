@@ -1,7 +1,11 @@
 Article R*431-9
 ----
-Les opérations non mentionnées à l'article R. 431-8 sont engagées et conduites,
-sous l'autorité du ministre chargé de l'économie et des finances, par le
-président du conseil d'administration, directeur général. Ce dernier signe
-notamment les traités de réassurance et de rétrocession ; il nomme et licencie
-les membres du personnel.
+Le président du conseil d'administration assure la direction générale de
+l'établissement.
+
+Il exécute les décisions du conseil d'administration.
+
+Sous l'autorité du ministre chargé de l'économie et des finances, le président
+du conseil d'administration, directeur général, exerce les attributions qui ne
+sont pas réservées au conseil d'administration en vertu des dispositions de
+l'article R. 431-8.

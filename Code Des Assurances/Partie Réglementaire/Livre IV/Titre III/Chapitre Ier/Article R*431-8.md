@@ -1,18 +1,8 @@
 Article R*431-8
 ----
-Le conseil d'administration, sous réserve de l'application des lois et
-règlements en vigueur en matière d'assurance et de réassurance :
+Sur proposition de son président, le conseil d'administration :
 
-1° Détermine la politique générale de souscription et de conservation de la
-caisse ;
+1. Définit la politique commerciale et la politique d'investissement de
+l'établissement ;
 
-2° Arrête chaque année la liste des biens mobiliers et immobiliers en lesquels
-peuvent être investis les fonds de la caisse ;
-
-3° Autorise le paiement des dépenses et des sommes dues par la caisse centrale
-de réassurance ;
-
-4° Arrête les comptes annuels.
-
-Le président du conseil d'administration, directeur général, exécute les
-décisions du conseil.
+2. Arrête le budget de fonctionnement et les comptes annuels.
