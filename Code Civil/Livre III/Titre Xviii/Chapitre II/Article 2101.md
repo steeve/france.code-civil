@@ -13,11 +13,11 @@ terminaison, concurremment entre ceux à qui ils sont dus ;
 4° Sans préjudice de l'application éventuelle des dispositions des articles L.
 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail :
 
-Les rémunérations des gens de service pour l'année échue et l'année courante ;
+Les rémunérations des gens de service pour l'année échue et l'année courante :
 
 Le salaire différé résultant du contrat de travail institué par l'article 63 du
 décret du 29 juillet 1939 relatif à la famille et à la natalité françaises, pour
-l'année échue et l'année courante ;
+l'année échue et l'année courante :
 
 Les rémunérations pour les six derniers mois des salariés et apprentis ;
 
@@ -37,7 +37,9 @@ Les indemnités dues, le cas échéant, au salarié en application des articles 
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la
 dernière année et, pendant le même délai, les produits livrés par un producteur
-agricole dans le cadre d'un accord interprofessionnel à long terme homologué.
+agricole dans le cadre d'un accord interprofessionnel à long terme homologué,
+ainsi que les sommes dues par tout contractant d'un exploitant agricole en
+application d'un contrat type homologué.
 
 6° La créance de la victime de l'accident ou de ses ayants droit relative aux
 frais médicaux, pharmaceutiques et funéraires, ainsi qu'aux indemnités allouées

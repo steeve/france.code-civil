@@ -7,18 +7,10 @@ suffisamment prouvées à l'égard de l'administration, par tous actes et écrit
 même postérieurs au décès d'un exploitant agricole, susceptibles de faire preuve
 en justice entre les cohéritiers ou représentants de l'exploitant. L'héritier
 créancier de la succession est toutefois tenu de fournir [*formalités
-obligatoires*] :
+obligatoires, documents*] :
 
-1° Dans les formes et suivant les règles déterminées par l'article 772, une
-attestation, datée et signée par lui, mentionnant le montant de sa créance sur
-la succession de l'exploitant;
+1° Dans les formes et suivant les règles déterminées par l'article L20 du livre
+des procédures fiscales, une attestation, datée et signée par lui, mentionnant
+le montant de sa créance sur la succession de l'exploitant ;
 
-2° Un certificat du maire indiquant soit qu'il travaillait habituellement sur un
-fonds rural et précisant qu'il participait encore au travail agricole à la date
-du décès de l'exploitant, soit qu'il avait cessé toute participation pour
-accomplir son service militaire légal ou par suite de maladie ou d'infirmité
-physique le mettant dans l'impossibilité de se livrer aux travaux agricoles.
-
-Le maire compétent pour délivrer le certificat est celui de la commune dans
-laquelle l'héritier créancier avait son domicile à la date du décès de
-l'exploitant.
+2° (abrogé)
