@@ -12,7 +12,7 @@ méthodes pratiquées en cas de cession d'actifs selon les pondérations
 appropriées à chaque cas, en fonction de la valeur des actifs, des bénéfices
 réalisés, de l'existence de filiales et des perspectives d'activité et, pour les
 sociétés dont les titres sont admis aux négociations sur un marché réglementé,
-de la valeur boursière. L'action est introduite par voie d'assignation délivrée
+de la valeur boursière.L'action est introduite par voie d'assignation délivrée
 aux actionnaires concernés. Le tribunal de grande instance compétent est celui
 dans le ressort duquel se situe le siège de l'établissement de crédit.
 
@@ -26,7 +26,7 @@ ordonner la cession de la totalité des actions de l'établissement, ou des
 actions et parts sociales qui n'ont pas été cédées en application des
 dispositions prévues au premier alinéa du présent article. Lorsque les actions
 sont admises aux négociations sur un marché réglementé, les modalités de la
-cession sont précisées par le règlement général du conseil des marchés
+cession sont précisées par le règlement général de l'Autorité des marchés
 financiers.
 
 Le montant de l'indemnisation revenant aux détenteurs non identifiés est
