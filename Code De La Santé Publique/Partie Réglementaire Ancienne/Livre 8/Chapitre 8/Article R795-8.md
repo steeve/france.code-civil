@@ -1,10 +1,7 @@
 Article R795-8
 ----
-Le directeur général, le contrôleur financier, l'agent comptable et le président
-du conseil scientifique assistent aux séances du conseil d'administration avec
-voix consultative. Le directeur général peut en outre se faire assister de toute
-personne de son choix.
-
-Le président du conseil d'administration peut également inviter à assister aux
-séances, avec voix consultative, toute personne dont il estime la présence
-utile.
+Les opérations financières et comptables sont effectuées conformément aux
+dispositions du décret n° 53-1227 du 10 décembre 1953 modifié relatif à la
+réglementation comptable applicable aux établissements publics nationaux à
+caractère administratif et du décret n° 62-1587 du 29 décembre 1962 modifié
+portant règlement général sur la comptabilité publique.

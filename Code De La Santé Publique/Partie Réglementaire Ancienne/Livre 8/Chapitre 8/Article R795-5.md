@@ -1,7 +1,20 @@
 Article R795-5
 ----
-En cas de vacance d'un siège du fait de l'empêchement définitif de son titulaire
-ou de la perte de la qualité au titre de laquelle il a été désigné, un autre
-membre est désigné dans les conditions prévues à l'avant-dernier alinéa de
-l'article R. 795-4. Le mandat de ce nouveau membre expire à la date à laquelle
-aurait normalement pris fin celui de son prédécesseur.
+Le conseil d'administration se réunit au moins trois fois par an sur convocation
+de son président. La convocation du conseil est de droit lorsqu'elle est
+demandée par le ministre chargé de la santé ou par un tiers au moins des membres
+du conseil.
+
+Le président fixe l'ordre du jour où figurent obligatoirement les points ayant
+fait l'objet d'une demande formulée par le ministre chargé de la santé ou par un
+tiers au moins des membres du conseil.
+
+Le conseil siège valablement si au moins la moitié de ses membres sont présents.
+Dans le cas contraire, une nouvelle séance se tient après un délai de quinze
+jours sans obligation de quorum.
+
+Les délibérations sont prises à la majorité des membres présents. En cas de
+partage égal des voix, celle du président est prépondérante.
+
+Le directeur, l'agent comptable et le contrôleur financier participent avec voix
+consultative aux travaux du conseil d'administration.

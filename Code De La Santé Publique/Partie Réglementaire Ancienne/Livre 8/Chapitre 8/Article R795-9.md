@@ -1,22 +1,4 @@
 Article R795-9
 ----
-Les fonctions de membre du conseil d'administration sont exercées à titre
-gracieux. Elles ouvrent droit aux indemnités pour frais de déplacement et de
-séjour dans les conditions prévues par les décrets n° 86-416 du 12 mars 1986
-fixant les conditions et les modalités de prise en charge par l'Etat des frais
-de voyage et de changement de résidence à l'étranger ou entre la France et
-l'étranger des agents civils de l'Etat et des établissements publics de l'Etat à
-caractère administratif, n° 89-271 du 12 avril 1989 fixant les conditions et les
-modalités de règlement des frais de déplacement des personnels civils à
-l'intérieur des départements d'outre-mer, entre la métropole et ces
-départements, et pour se rendre d'un département d'outre-mer à l'autre, n°
-90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des
-frais de déplacement des personnels civils sur le territoire métropolitain de la
-France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements
-nationaux à caractère administratif et certains organismes subventionnés et n°
-98-844 du 22 septembre 1998 fixant les conditions et les modalités de règlement
-des frais de déplacement des personnels civils de l'Etat, à l'intérieur d'un
-territoire d'outre-mer, entre la métropole et un territoire d'outre-mer, entre
-deux territoires d'outre-mer et entre un territoire d'outre-mer et un
-département d'outre-mer, la collectivité territoriale de Mayotte ou celle de
-Saint-Pierre-et-Miquelon.
+L'agent comptable de l'office est nommé par arrêté conjoint des ministres
+chargés du budget et de la santé.

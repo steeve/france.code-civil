@@ -1,12 +1,6 @@
 Article R795-15
 ----
-Les décisions modificatives du budget qui sont soumises au conseil
-d'administration et à l'approbation des autorités de tutelle sont celles qui
-comportent soit une augmentation du montant total des dépenses inscrites au
-budget de l'établissement, soit des virements de crédit entre la section des
-opérations en capital et la section de fonctionnement ou entre les chapitres de
-fonctionnement et les chapitres de personnel.
-
-Les autres décisions modificatives du budget sont prises par le directeur
-général en accord avec le contrôle financier et soumises à la ratification du
-conseil d'administration lors de sa prochaine séance.
+Lorsque, en application de l'article L. 1142-15, l'office est substitué à
+l'assureur de la personne responsable des dommages, il est procédé à
+l'indemnisation de la victime dans les conditions prévues aux articles R. 795-16
+à R. 795-18 ci-après.
