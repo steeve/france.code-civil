@@ -15,11 +15,6 @@ que de la date de la notification de l'avis de mise en recouvrement.
 
 Le privilège s'exerce dans les conditions prévues à l'article 1920-1.
 
-En cas de faillite (1), liquidation des biens ou règlement judiciaire, le
-privilège porte sur le montant du principal, augmenté des intérêts de retard
-afférents aux six mois précédant le jugement déclaratif. Toutes amendes
-encourues sont abandonnées.
-
 Toutefois, les dispositions du présent article ne concernent pas le recouvrement
 des taxes susvisées à l'importation pour lesquelles il est fait application de
 l'article 379 du code des douanes.

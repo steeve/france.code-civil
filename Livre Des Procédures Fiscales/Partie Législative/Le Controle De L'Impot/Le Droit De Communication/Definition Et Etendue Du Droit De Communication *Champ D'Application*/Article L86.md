@@ -1,13 +1,13 @@
 Article L86
 ----
-Les agents de l'administration des impôts ont un droit de communication à
-l'égard des membres des professions non commerciales définies ci-après :
+Les agents de l'administration ont un droit de communication à l'égard des
+membres des professions non commerciales définies ci-après :
 
-a) Les professions dont l'exercice autorise l'intervention dans des
+a. Les professions dont l'exercice autorise l'intervention dans des
 transactions, la prestation de services à caractère juridique, financier ou
 comptable ou la détention de biens ou de fonds pour le compte de tiers ;
 
-b) Les professions consistant à titre principal en la prestation de services à
+b. Les professions consistant à titre principal en la prestation de services à
 caractère décoratif ou architectural ou en la création et la vente de biens
 ayant le même caractère.
 
