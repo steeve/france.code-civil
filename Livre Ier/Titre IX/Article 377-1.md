@@ -13,8 +13,9 @@ faute par eux de réclamer l'enfant, ils sont présumés renoncer à exercer sur
 leur autorité.
 
 Le particulier, l'établissement ou le service départemental de l'aide sociale à
-l'enfance qui a recueilli l'enfant peut alors présenter requête au tribunal aux
-fins de se faire déléguer totalement ou partiellement l'autorité parentale. Quel
-que soit le requérant, le tribunal peut décider, dans l'intérêt de l'enfant, les
-parents entendus ou appelés, que l'autorité parentale sera déléguée au service
-de l'aide sociale à l'enfance.
+l'enfance qui a recueilli l'enfant peut alors présenter requête au juge aux
+affaires familiales aux fins de se faire déléguer totalement ou partiellement
+l'autorité parentale. Quel que soit le requérant, le juge aux affaires
+familiales peut décider, dans l'intérêt de l'enfant, les parents entendus ou
+appelés, que l'autorité parentale sera déléguée au service de l'aide sociale à
+l'enfance.

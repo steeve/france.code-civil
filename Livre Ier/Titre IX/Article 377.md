@@ -7,8 +7,8 @@ service départemental de l'aide sociale à l'enfance, renoncer en tout ou parti
 à l'exercice de leur autorité.
 
 En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du
-jugement qui sera rendu par le tribunal sur la requête conjointe des délégants
-et du délégataire.
+jugement qui sera rendu par le juge aux affaires familiales sur la requête
+conjointe des délégants et du délégataire.
 
 La même délégation peut être décidée, à la seule requête du délégataire, lorsque
 les parents se sont désintéressés de l'enfant depuis plus d'un an.
