@@ -6,7 +6,7 @@ de l'assurance des risques de responsabilité civile mentionnés à l'article 1e
 de la loi du 27 février 1958, instituant une obligation d'assurance en matière
 de circulation de véhicules terrestres.
 
-Son taux est fixé à 0,5 % des primes et cotisations (1).
+Son taux est fixé à 0,10 % des primes et cotisations (1).
 
 Elle est recouvrée par les entreprises d'assurances, pour le compte du fonds
 institué par la loi n° 74-1118 du 27 décembre 1974, suivant les mêmes règles,
