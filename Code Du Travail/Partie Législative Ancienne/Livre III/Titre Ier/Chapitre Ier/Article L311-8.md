@@ -1,19 +1,20 @@
 Article L311-8
 ----
-Des conventions peuvent être passées entre l'Agence nationale pour l'emploi
-[*ANPE*] et les organismes mentionnés à l'article L. 351-21 [*organismes de
-droit privé*] pour fixer les conditions dans lesquelles les personnes à la
-recherche d'un emploi [*chômeurs*] s'inscrivent soit auprès du bureau local de
-l'Agence nationale pour l'emploi [*ANPE*], soit auprès d'un bureau local des
-organismes mentionnés ci-dessus.
+L'Agence nationale pour l'emploi peut, par conventions conclues avec les
+organismes mentionnés à l'article L. 351-21, charger ces derniers :
 
-Ces conventions [*contenu*] :
+1° D'accueillir les demandeurs d'emploi et de les informer de leurs droits et
+obligations ;
 
-1° Prévoient les modalités de représentation de ces organismes au sein des
-instances délibératives ou consultatives de l'Agence nationale pour l'emploi ;
+2° De recevoir et d'instruire les demandes d'inscription sur la liste des
+demandeurs d'emploi visée à l'article L. 311-5, les demandes de renouvellement
+d'inscription sur cette liste et les changements de situation des demandeurs
+d'emploi ;
 
-2° Assurent la coordination ou l'utilisation commune des réseaux d'équipements ;
+3° De notifier aux demandeurs d'emploi concernés les décisions prises par
+l'Agence nationale pour l'emploi.
 
-3° Le cas échéant, déterminent la contribution respective de l'Agence nationale
-pour l'emploi et de ces organismes à l'accueil, à l'information et à
-l'orientation des demandeurs d'emploi.
+Les conventions mentionnées au premier alinéa sont agréées par arrêté du
+ministre chargé de l'emploi. Elles entrent en vigueur à compter de leur
+publication au Journal officiel de la République française en annexe de l'arrêté
+précité.

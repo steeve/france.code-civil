@@ -25,7 +25,7 @@ compétente une lettre d'intention décrivant les données essentielles de la
 recherche, accompagnée de l'avis du comité consulté. Cet avis ne le dégage pas
 de sa responsabilité. Les projets ayant fait l'objet d'un avis défavorable ne
 peuvent être mis en oeuvre avant un délai de deux mois à compter de leur
-réception par le ministre [*point de départ*].
+réception par l'autorité administrative compétente [*point de départ*].
 
 Lorsque la recherche doit se dérouler dans un ou plusieurs établissements
 publics ou privés, le promoteur en informe le ou les directeurs de ces
