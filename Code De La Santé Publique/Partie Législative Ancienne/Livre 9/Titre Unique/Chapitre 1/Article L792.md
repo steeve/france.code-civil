@@ -30,5 +30,12 @@ des directeurs départementaux de la santé et de la population et de l'aide
 sociale, à l'approbation du préfet.
 
 Les agents peuvent, sur leur demande et dans les cas et conditions déterminés
-par décret en Conseil d'Etat, être autorisés, compte tenu des nécessités de
+par décret en conseil d'Etat, être autorisés, compte tenu des nécessités de
 fonctionnement du service, à exercer leurs fonctions à temps partiel.
+
+Ce service ne peut être inférieur au mi-temps [*durée minimum du temps
+partiel*]. A l'issue de la période de travail à temps partiel, les agents sont
+admis de plein droit à occuper à temps plein leur emploi ou à défaut un autre
+emploi conforme à leur statut. Pour la détermination des droits à avancement, à
+promotion et à formation, les périodes de travail à temps partiel sont
+assimilées à des périodes à temps plein.
