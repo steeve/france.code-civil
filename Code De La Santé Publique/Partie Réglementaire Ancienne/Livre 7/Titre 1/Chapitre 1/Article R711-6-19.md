@@ -24,7 +24,3 @@ La moyenne des actes est calculée dans tous les cas par rapport à la durée de
 chaque séjour. Toutefois, si les soins de longue durée sont dispensés pendant un
 séjour d'une durée supérieure à un an, la moyenne est calculée sur la période
 des douze mois précédents.
-
-Sur ces honoraires est due à l'établissement une redevance de 10 p. 100, 5 p.
-100 étant affectés à l'amélioration de l'équipement et 5 p. 100 à l'amélioration
-des conditions de fonctionnement.
