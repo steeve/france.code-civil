@@ -3,8 +3,9 @@ Article D651-3
 Pour les entreprises de négoce en l'état des produits du sol et de l'élevage,
 engrais et produits connexes mentionnées à l'article L. 651-3 dont la marge
 brute est au plus égale à 4 % du chiffre d'affaires défini à l'article L. 651-5,
-le montant de la contribution sociale de solidarité est plafonné à 2,5 % de
-cette marge brute.
+le montant cumulé de la contribution sociale de solidarité et de la contribution
+additionnelle instituée à l'article L. 241-13 est plafonné à 3,08 % de cette
+marge brute.
 
 Pour l'application du premier alinéa, les entreprises de négoce en l'état des
 produits du sol et de l'élevage, engrais et produits connexes sont celles qui

@@ -15,3 +15,12 @@ novembre 1949, ainsi que, dans les conditions prévues à l'article 2 du décret
 Ces comptes sont arrêtés le 10 et le 25 de chaque mois et leur solde, intérêts
 compris, viré au compte unique ouvert à la Caisse des dépôts et consignations en
 application de l'article D. 651-7.
+
+Les opérations de recouvrement de la contribution additionnelle à la
+contribution sociale de solidarité à la charge des sociétés sont décrites dans
+un compte spécial ouvert à cet effet dans la comptabilité de la Caisse nationale
+de l'organisation autonome d'assurance vieillesse des professions industrielles
+et commerciales. La caisse dispose auprès de l'un des organismes mentionnés au
+deuxième alinéa d'un compte spécialement ouvert pour l'encaissement de la
+contribution additionnelle à la contribution sociale de solidarité à la charge
+des sociétés et les majorations afférentes.

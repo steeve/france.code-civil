@@ -1,8 +1,10 @@
 Article D651-2
 ----
 Pour les entreprises de commerce international et intracommunautaire dont la
-marge est au plus égale à 4 % du chiffre d'affaires hors taxes, le montant de la
-contribution sociale de solidarité est plafonné à 2,50 % de cette marge brute.
+marge est au plus égale à 4 % du chiffre d'affaires hors taxes, le montant
+cumulé de la contribution sociale de solidarité et de la contribution
+additionnelle instituée à l'article L. 241-13 est plafonné à 3,08 % de cette
+marge brute.
 
 Pour l'application du premier alinéa, les entreprises de commerce international
 et intracommunautaire s'entendent de toutes celles qui réalisent plus de la
