@@ -10,7 +10,8 @@ de références médicales ou professionnelles opposables mentionnées aux artic
 L. 162-5, L. 162-9, L. 162-12-2 et L. 162-12-9 dudit code.
 
 Pour les thèmes de référence à l'égard desquels l'Agence nationale
-d'accréditation et d'évaluation en santé et l'agence du médicament sont l'une et
-l'autre compétentes, ces deux agences établissent et actualisent conjointement
-les recommandations et références dans les conditions prévues à l'article L.
-162-12-15 susmentionné et à l'alinéa ci-dessus du présent article.
+d'accréditation et d'évaluation en santé et l'Agence française de sécurité
+sanitaire des produits de santé sont l'une et l'autre compétentes, ces deux
+agences établissent et actualisent conjointement les recommandations et
+références dans les conditions prévues à l'article L. 162-12-15 susmentionné et
+à l'alinéa ci-dessus du présent article.
