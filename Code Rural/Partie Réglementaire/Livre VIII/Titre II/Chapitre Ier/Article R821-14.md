@@ -9,14 +9,14 @@ agricole ;
 
 b) D'assurer la coordination et le suivi de cette partie départementale ;
 
-c) D'assurer la gestion des crédits du Fonds national de développement agricole
-affectés aux actions de la partie départementale du programme régional de
-développement agricole.
+c) D'assurer la gestion de ceux des crédits de l'enveloppe régionale attribuée
+par l'agence de développement agricole et rural qui sont affectés aux actions de
+la partie départementale de ce programme.
 
 Elle peut contribuer au financement du programme.
 
 Les programmes et actions de développement agricole intéressant le département,
-notamment ceux qui bénéficient d'un concours financier du Fonds national de
-développement agricole, sont présentés annuellement par le président de la
-chambre départementale d'agriculture devant la commission départementale
+notamment ceux qui bénéficient d'un concours financier de l'agence de
+développement agricole et rural, sont présentés annuellement par le président de
+la chambre départementale d'agriculture devant la commission départementale
 d'orientation de l'agriculture.

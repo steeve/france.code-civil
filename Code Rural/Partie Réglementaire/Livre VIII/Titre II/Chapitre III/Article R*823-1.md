@@ -1,47 +1,43 @@
 Article R*823-1
 ----
-Dès lors que la gestion du Fonds national de développement agricole a été
-confiée à l'association mentionnée à l'article R. 821-1, les opérations de ce
-fonds doivent faire l'objet, dans les comptes de cette association, d'une
-comptabilité distincte, qui retrace notamment :
+Les opérations réalisées dans le cadre du programme national de développement
+agricole doivent faire l'objet d'une comptabilité analytique, tenue par l'agent
+comptable, dans les conditions fixées par l'article 181 du décret n° 62-1587 du
+29 décembre 1962 modifié portant règlement général sur la comptabilité publique
+reclassant notamment :
 
-I. - Pour les opérations d'exploitation :
+I. - Pour les opérations du compte de résultat :
 
-A. - En recettes :
+A. - En produits :
 
-1. Le produit des taxes parafiscales versées au fonds ;
+1. Le produit des impositions affectées à l'agence ;
 
-2. Les ressources d'origine communautaire affectées aux actions de développement
-agricole ;
+2. Les ressources d'origine communautaire ;
 
-3. Les ressources d'origine privée affectées aux actions de développement
-agricole ;
+3. Les ressources d'origine privée ;
 
 4. Les subventions de l'Etat ;
 
 5. Les recettes exceptionnelles.
 
-B. - En dépenses :
+B. - En charges :
 
-1. Les financements affectés aux actions de développement agricole relevant :
+1. Les concours aux programmes de développement agricole et rural relevant :
 
 a) Des programmes régionaux de développement agricole ;
 
-b) Des programmes des centres et instituts techniques agricoles ;
+b) Des programmes des instituts et centres techniques et des autres organismes
+nationaux ;
 
-c) Des programmes de coopération, recherche et développement ;
+c) Du programme d'innovation et de prospective.
 
-d) Des programmes des organismes nationaux à vocation agricole ;
-
-e) Des programmes nationaux d'actions incitatives.
-
-2. Les dépenses de fonctionnement afférentes à la gestion du fonds ;
+2. Les dépenses de fonctionnement.
 
 3. Les dépenses exceptionnelles.
 
-II. - Pour les opérations en capital :
+II. - Pour les opérations du tableau de financement :
 
-A. - En recettes :
+A. - En ressources :
 
 1. Le produit de l'aliénation des immobilisations et valeurs ;
 
@@ -49,10 +45,8 @@ A. - En recettes :
 
 3. Le produit des avances ou emprunts.
 
-B. - En dépenses :
+B. - En emplois :
 
 1. Les acquisitions d'immobilisations et de valeurs ;
 
-2. Le remboursement des avances et emprunts ;
-
-3. Les prêts et avances consentis par l'association.
+2. Le remboursement des avances et emprunts.

@@ -1,25 +1,19 @@
 Article R*822-4
 ----
-Les projets de programmes pluriannuels de développement agricole des instituts
-et centres techniques et des autres organismes nationaux à vocation agricole
-sont établis par ces organismes, compte tenu des orientations nationales du
-développement agricole. Ils doivent être constitués pour partie d'actions
-innovantes.
+Les projets de programmes pluriannuels de développement agricole des instituts,
+des centres techniques et des autres organismes nationaux mentionnés au 2° de
+l'article R. 822-1 sont établis par ces organismes après qu'ils ont arrêté leurs
+priorités compte tenu des orientations nationales du développement agricole
+définies par l'agence de développement agricole et rural. Ces projets sont
+transmis à l'agence qui, après leur approbation par le conseil d'administration,
+les intègre dans le programme national pluriannuel de développement agricole.
 
-Les instituts et centres techniques agricoles et les autres organismes nationaux
-à vocation agricole définissent, compte tenu des priorités nationales du
-développement agricole, les priorités de leur programme pluriannuel de
-développement agricole et les thèmes prioritaires des actions innovantes à
-conduire au sein de ce programme et les transmettent à l'association mentionnée
-à l'article R. 821-1.
+Les organismes mentionnés à l'alinéa précédent établissent chaque année un
+projet de programme d'actions à mettre en oeuvre au cours de l'année, compte
+tenu du programme pluriannuel approuvé et de ses éventuelles réorientations
+approuvées dans les conditions précisées au présent article. Ils le transmettent
+à l'agence pour approbation par le conseil d'administration.
 
-Au vu des observations éventuelles d'experts délégués par cette association, un
-projet de programme pluriannuel est, selon la même procédure, établi et transmis
-à l'association mentionnée à l'article R. 821-1 pour approbation par son
-assemblée générale.
-
-Les instituts et centres techniques et autres organismes nationaux à vocation
-agricole établissent annuellement un projet de programme d'actions à mettre en
-oeuvre au cours de l'année, compte tenu du programme pluriannuel approuvé et des
-réorientations éventuellement nécessaires et le transmettent à l'association
-pour approbation par son assemblée générale.
+Le comité d'orientation scientifique et technique de l'Association de
+coordination technique agricole est saisi préalablement pour avis des priorités
+et des projets de programme des instituts et centres techniques.

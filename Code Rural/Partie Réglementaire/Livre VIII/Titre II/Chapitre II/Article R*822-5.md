@@ -1,13 +1,15 @@
 Article R*822-5
 ----
-Les programmes de coopération recherche et développement ont pour objet de
-soutenir des actions menées conjointement par des organismes de développement et
-des organismes de recherche ou d'enseignement supérieur.
+Le programme d'innovation et de prospective mentionné au 3° de l'article R.
+822-1 est arrêté par l'agence de développement agricole et rural pour une durée
+de deux à cinq ans dans les conditions fixées aux alinéas suivants :
 
-Ils font l'objet d'appels à projets lancés par l'association mentionnée à
-l'article R. 821-1 auprès des organismes de développement.
+Le conseil d'administration de l'agence arrête et publie chaque année une liste
+de thèmes de recherche appliquée, d'expérimentation ou de diffusion classés par
+ordre de priorité susceptibles de faire l'objet d'une participation financière
+de l'agence ainsi qu'un cahier des charges.
 
-Les programmes nationaux d'actions incitatives ont pour objet de soutenir des
-actions innovantes en faveur du développement agricole. Ils font l'objet
-d'appels à projets lancés par l'association mentionnée à l'article R. 821-1
-auprès des organismes de développement.
+A ce titre, sur avis du comité de prospective, le conseil institue une procédure
+d'appel à projets et décide des actions retenues. La part des crédits de
+l'agence consacrés à ce programme est fixée par le conseil d'administration au
+début de chaque année.

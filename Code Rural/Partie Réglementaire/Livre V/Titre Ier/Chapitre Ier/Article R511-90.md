@@ -5,9 +5,9 @@ notamment :
 
 1° En recettes :
 
-a) Les crédits en provenance du Fonds national de développement agricole
-attribués à la chambre départementale d'agriculture pour le financement des
-actions départementales du programme régional de développement agricole ;
+a) Les crédits en provenance de l'agence de développement agricole et rural
+versés attribués à la chambre départementale d'agriculture pour le financement
+des actions départementales du programme régional de développement agricole ;
 
 b) Les subventions versées à ce titre par les collectivités territoriales ;
 
