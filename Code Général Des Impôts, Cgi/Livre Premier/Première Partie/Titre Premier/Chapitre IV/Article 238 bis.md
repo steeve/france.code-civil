@@ -26,7 +26,7 @@ départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque la mission de
 ces associations est reconnue d'utilité publique.
 
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
-modalités de procédure déconcentrée permettant de l'accorder (1).
+modalités de procédure déconcentrée permettant de l'accorder.
 
 Sont également déductibles dans la limite visée au premier alinéa les versements
 faits à des établissements d'enseignement supérieur ou d'enseignement artistique
@@ -40,21 +40,36 @@ déduction des versements effectués au titre de chacun de ces exercices, sans
 qu'il puisse en résulter un dépassement des plafonds de déductibilité définis à
 ces mêmes 1 et 2.
 
-4. La déduction mentionnée au I peut être effectuée, dans la limite mentionnée
-au premier alinéa du 2 pour les dons faits à des organismes répondant à des
-conditions quant à leur statut et leurs conditions de fonctionnement fixées par
-décret en Conseil d'Etat et ayant pour objet exclusif de participer, par le
-versement d'aides financières, à la création d'entreprises (2).
+4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au
+premier alinéa du 2, pour les dons faits à des organismes, dont la gestion est
+désintéressée et ayant pour objet exclusif de participer, par le versement
+d'aides financières non rémunérées, à la création d'entreprises, à la reprise
+d'entreprises en difficulté et au financement d'entreprises de moins de
+cinquante salariés. Une entreprise est considérée comme étant en difficulté
+lorsqu'elle fait l'objet d'une procédure de redressement judiciaire ou lorsque
+sa situation financière rend imminente sa cessation d'activité. Le montant des
+aides versées chaque année à une entreprise ne devra pas excéder 20 % des
+ressources annuelles de l'organisme. Les entreprises exerçant à titre principal
+une activité visée à l'article 35 ne peuvent bénéficier de ces aides.
 
-Dans tous les cas, ces organismes doivent être agréés par le ministre chargé du
-budget.
+Le capital des entreprises mentionnées au premier alinéa doit être entièrement
+libéré et détenu de manière continue pour 75 % au moins par des personnes
+physiques ou par une société répondant aux mêmes conditions dont le capital est
+détenu, pour 75 % au moins, par des personnes physiques. Pour la détermination
+de ce pourcentage, les participations des sociétés de capital-risque, des fonds
+communs de placement à risques, des sociétés de développement régional et des
+sociétés financières d'innovation ne sont pas prises en compte à la condition
+qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39
+terdecies entre la société en cause et ces dernières sociétés ou ces fonds.
+
+Dans tous les cas, les organismes mentionnés au premier alinéa doivent être
+agréés par le ministre chargé du budget.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article
+et les dispositions relatives aux statuts des organismes bénéficiaires des dons.
 
 5. Les organismes mentionnés au premier alinéa du 2 peuvent, lorsque leurs
 statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des
 versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
 6. (Abrogé).
-
-(1) Voir le décret n° 85-1304 du 9 décembre 1985, JO du 11).
-
-(2) Voir le décret n° 85-865 du 9 août 1985, JO du 15.

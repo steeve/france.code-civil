@@ -8,11 +8,11 @@ législation relative aux rapports locatifs, peuvent bénéficier à ce titre d'
 crédit d'impôt.
 
 Pour une même habitation, le montant des dépenses ouvrant droit à crédit d'impôt
-ne peut excéder au titre d'une année la somme de 5 000 F pour une personne
-célibataire, veuve ou divorcée et de 10 000 F pour un couple marié soumis à
-imposition commune. Cette somme est majorée de 500 F par personne à charge au
-sens des articles 196 à 196 B. Cette majoration est fixée à 750 F pour le second
-enfant et à 1 000 F par enfant à partir du troisième.
+ne peut excéder au titre d'une année la somme de 5 000 F (1) pour une personne
+célibataire, veuve ou divorcée et de 10 000 F (1) pour un couple marié soumis à
+imposition commune. Cette somme est majorée de 500 F (1) par personne à charge
+au sens des articles 196 à 196 B. Cette majoration est fixée à 750 F (1) pour le
+second enfant et à 1 000 F (1) par enfant à partir du troisième.
 
 Le crédit d'impôt est égal à 15 % du montant de ces dépenses.
 
@@ -38,7 +38,9 @@ crédits d'impôt et des prélèvements ou retenues non libératoires. S'il exc�
 l'impôt dû, l'excédent est restitué.
 
 II. Pour les mêmes travaux, les dispositions du I sont exclusives de
-l'application des dispositions des articles 199 sexies et 199 sexies D.
+l'application des dispositions de l'article 199 sexies.
 
 III. Les équipements qui ont bénéficié du crédit d'impôt prévu à l'article 200
 quater sont exclus du bénéfice des dispositions des I et II.
+
+(1) Montant périmé au 1er janvier 2002.

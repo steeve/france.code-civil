@@ -4,9 +4,9 @@ Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du cod
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus entre le 1er janvier 2000 et le 31 décembre 2000, les
-plafonds de loyer mensuel, charges non comprises, sont fixés à 76 F par mètre
-carré en zone I bis, 66 F en zone I, 51 F en zone II et 46 F en zone III. Les
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les
+plafonds de loyer mensuel, charges non comprises, sont fixés à 77 F par mètre
+carré en zone I bis, 67 F en zone I, 52 F en zone II et 47 F en zone III. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités
 que les plafonds de loyer prévus à l'article 2 duodecies.
 

@@ -12,28 +12,16 @@ production d'énergies renouvelables acquis ou fabriqués par les entreprises à
 compter du 1er janvier 1977 qui figurent sur une liste établie par arrêté
 conjoint du ministre du budget et du ministre chargé de l'industrie ;
 
-b. Les matériels utilisés dans des opérations permettant des économies d'énergie
-et faisant l'objet d'un agrément délivré dans les conditions prévues au I de
-l'article 1649 nonies. Cet agrément ne peut être accordé qu'à des opérations qui
-ont bénéficié d'un concours financier de l'Etat attribué dans le cadre des
-procédures spécifiques d'aide publique au financement des investissements
-économisant l'énergie ;
+b. (périmé) ;
 
-3° Les matériels destinés à réaliser des économies de matières premières, acquis
-ou fabriqués par les entreprises à partir du 1er janvier 1978. La liste des
-matières et des matériels concernés est établie par arrêté conjoint du ministre
-du budget et du ministre chargé de l'industrie. Le bénéfice de cette disposition
-est réservé aux matériels utilisés dans des opérations qui permettent des
-économies de matières premières contribuant notamment à l'équilibre de la
-balance des paiements et font l'objet d'un agrément délivré dans les conditions
-prévues au I de l'article 1649 nonies.
+3° (périmé) ;
 
-Les dispositions prévues au a du 2° et au 3° ne s'appliquent pas aux biens dont
-la commande a donné lieu au bénéfice de l'aide fiscale instituée par les lois n°
+Les dispositions prévues au a du 2° ne s'appliquent pas aux biens dont la
+commande a donné lieu au bénéfice de l'aide fiscale instituée par les lois n°
 75-408 du 29 mai 1975 et n° 75-853 du 13 septembre 1975.
 
-Les dispositions prévues au 2° et au 3° ne s'appliquent pas pour les matériels
-acquis ou fabriqués à compter du 1er janvier 1991.
+Les dispositions prévues au 2° ne s'appliquent pas pour les matériels acquis ou
+fabriqués à compter du 1er janvier 1991.
 
 Par dérogation aux dispositions du précédent alinéa, les dispositions de cet
 article s'appliquent aux matériels mentionnés au a du 2° acquis ou fabriqués

@@ -9,5 +9,4 @@ fractions égales, aux résultats de l'exercice de sa réalisation et des six
 exercices suivants.
 
 Les dispositions de l'article 163-0 A sont applicables au titre de chacun de ces
-exercices quel que soit le montant de la fraction mentionnée à l'alinéa
-précédent.
+exercices quel que soit le montant de la fraction mentionnée au premier alinéa.

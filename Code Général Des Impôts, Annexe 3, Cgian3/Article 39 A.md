@@ -9,8 +9,11 @@ les entreprises, le numéro SIRET ;
 2° Concernant chaque bénéficiaire de pension ou rente viagère payée au cours de
 l'année précédente :
 
-a) Son identification : nom de naissance, le cas échéant nom de l'époux,
-prénoms, sexe, date et lieu de naissance, numéro d'allocataire ;
+a) Son identification : nom patronymique, le cas échéant nom de l'époux,
+prénoms, sexe, date et lieu de naissance, numéro d'allocataire, numéro
+d'inscription au répertoire national d'identification des personnes physiques
+pour les seules déclarations des personnes ou organismes mentionnés au I de
+l'article R. 81 A-1 du livre des procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 

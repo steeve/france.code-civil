@@ -3,14 +3,14 @@ Article 1653 C
 Le comité consultatif prévu à l'article L 64 du livre des procédures fiscales
 comprend :
 
-Un conseiller d'Etat, président ;
+a. un conseiller d'Etat, président ;
 
-Un conseiller à la cour de cassation ;
+b. un conseiller à la cour de cassation ;
 
-Un professeur des facultés de droit ;
+c. un professeur des universités, agrégé de droit ou de sciences économiques ;
 
-Le directeur général des impôts.
+d. un conseiller maître à la Cour des comptes ;
 
-Les trois premiers membres sont nommés par le ministre de l'économie et des
-finances qui désigne en outre un ou plusieurs agents supérieurs de la direction
-générale des impôts, pour remplir les fonctions de rapporteur auprès du comité.
+Les membres du comité sont nommés par le ministre de l'économie et des finances
+qui désigne en outre un ou plusieurs agents supérieurs de la direction générale
+des impôts, pour remplir les fonctions de rapporteur auprès du comité.
