@@ -24,5 +24,5 @@ d'ouverture du droit soient remplies.
 
 Cette activité professionnelle doit être d'au moins huit trimestres appréciés
 selon les modalités prévues au dernier alinéa de l'article R. 351-9 ou ayant
-donné lieu à affiliation au régime de l'assurance vieillesse des personnes
-non-salariées des professions agricoles.
+donné lieu à affiliation au régime de l'assurance vieillesse des personnes non
+salariées des professions agricoles.

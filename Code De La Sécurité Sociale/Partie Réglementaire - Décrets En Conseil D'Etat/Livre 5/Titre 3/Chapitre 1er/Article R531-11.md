@@ -24,4 +24,4 @@ du ou des enfants ; ces ressources sont déterminées dans les conditions prévu
 Les dispositions du présent article sont applicables à compter du premier jour
 du mois civil suivant celui au cours duquel intervient le changement de
 situation et jusqu'au dernier jour du mois civil précédant celui au cours duquel
-prend fin la situation considérée.
+prend fin la situation considérée
