@@ -1,29 +1,34 @@
 Article 144 A
 ----
-Il est institué, au ministère de l'agriculture, une commission dont la
-composition est ainsi fixée :
+Il est institué au secrétariat d'Etat auprès du Premier ministre chargé des
+industries agricoles et alimentaires, une commission dont la composition est
+ainsi fixée :
 
-Un conseiller d'Etat honoraire ou en fonction, président;
+Un conseiller d'Etat honoraire ou en fonctions, président;
 
-Les représentants des administrations publiques :
+Représentants des administrations publiques :
 
-Deux représentants du ministère de l'agriculture;
+Un représentant du secrétariat d'Etat auprès du Premier ministre, chargé des
+industries agricoles et alimentaires ;
 
-Trois représentants du ministère de l'économie et des finances;
+Un représentant du ministère de l'agriculture ;
 
-Un représentant du ministère de l'industrie;
+Deux représentants du ministère du budget ;
 
-Un représentant du ministère des armées;
+Un représentant du ministère de l'économie ;
 
-Les représentants des groupements interprofessionnels de la betterave et des
-fruits à cidre :
+Un représentant du ministère de l'industrie.
 
-L'administrateur du groupement national interprofessionnel de la production
-betteravière et des industries de transformation de la betterave;
+Représentants des groupements interprofessionnels de la betterave et des fruits
+à cidre :
 
-Le directeur du groupement national interprofessionnel des fruits à cidre;
+Le président de l'association interprofessionnelle des producteurs de betteraves
+et d'alcool de betterave ;
 
-Les représentants des producteurs et transformateurs de matières premières
+Le président de l'association nationale interprofessionnelle de l'économie
+cidricole.
+
+Représentants des producteurs et transformateurs de matières premières
 alcooligènes :
 
 Trois représentants des producteurs de betteraves;
@@ -32,7 +37,9 @@ Un représentant des coopératives de transformation de la betterave;
 
 Deux représentants des viticulteurs;
 
-Un représentant des producteurs de fruits à cidre;
+Un représentant des producteurs de fruits ;
+
+Un représentant des producteurs de fruits à cidre ;
 
 Un représentant des producteurs de topinambours et de plantes alcooligènes
 diverses;
@@ -43,9 +50,11 @@ Deux représentants des distillateurs de betteraves;
 
 Un représentant des distillateurs de mélasse;
 
-Un représentant des distillateurs de fruits à cidre et dérivés;
+Un représentant des distillateurs de fruits ;
 
-Un représentant des distillateurs de vins et sous-produits;
+Un représentant des distillateurs de fruits à cidre et dérivés ;
+
+Deux représentants des distillateurs de vins et sous-produits;
 
 Un représentant des distillateurs de topinambours et plantes alcooligènes
 diverses;
