@@ -22,4 +22,6 @@ nationale pour l'emploi, dans la limite de trente-cinq jours dans l'année ;
 4. Sont en congé de maladie ou en incapacité temporaire de travail, pour une
 durée n'excédant pas quinze jours ;
 
-5. Sont incarcérées pour une durée n'excédant pas quinze jours.
+5. Sont incarcérées pour une durée n'excédant pas quinze jours ;
+
+6. Bénéficient d'un congé de paternité.

@@ -33,4 +33,8 @@ actes dont le contentieux relève en premier et dernier ressort du Conseil d'Eta
 ;
 
 9° Des recours dirigés contre les décisions ministérielles prises en matière de
-contrôle des concentrations économiques.
+contrôle des concentrations économiques ;
+
+10° Des recours dirigés contre les sanctions administratives prises par le
+directeur général du Centre national de la cinématographie en application de
+l'article 13 du code de l'industrie cinématographique.
