@@ -14,8 +14,9 @@ dans les ports ou les aérodromes ou sur le domaine public ferroviaire ;
 d) Les ouvrages techniques nécessaires au maintien de la sécurité de la
 circulation maritime, fluviale, ferroviaire, routière ou aérienne ;
 
-e) En ce qui concerne le service public des télécommunications ou de
-télédiffusion, les ouvrages techniques dont la surface hors oeuvre brute ne
+e) En ce qui concerne les activités de télécommunications autorisées en vertu de
+l'article L. 33-1 du code des postes et télécommunications et le service public
+de télédiffusion, les ouvrages techniques dont la surface hors oeuvre brute ne
 dépasse pas 100 mètres carrés, les poteaux et pylônes de plus de 12 mètres
 au-dessus du sol et les installations qu'ils supportent ;
 

@@ -1,6 +1,6 @@
 Article R*29
 ----
-La distance séparant les limites d'un centre de réception radio-électrique et le
+La distance séparant les limites d'un centre de réception radioélectrique et le
 périmètre des zones de servitudes ne peut excéder :
 
 -dans le cas d'un centre de 3e catégorie : 200 mètres ;
