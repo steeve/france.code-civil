@@ -1,6 +1,6 @@
 Article R5146-39-1
 ----
-Six suppléants sont désignés dans les mêmes conditions que les membres
+Neuf suppléants sont désignés dans les mêmes conditions que les membres
 titulaires autres que les membres de droit. Ils remplacent les titulaires soit
 en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
