@@ -31,8 +31,5 @@ IV. La décision est notifiée au demandeur par pli recommandé avec demande d'a
 de réception.
 
 V. En cas d'agrément, le demandeur dispose du délai fixé par la décision
-d'agrément pour accepter la valeur libératoire reconnue au bien offert en
-paiement des droits.
-
-Il fait connaître son acceptation au ministre chargé du budget, par pli
-recommandé avec demande d'avis de réception.
+d'agrément pour accepter par lettre simple, le cachet de la poste faisant foi,
+la valeur libératoire reconnue au bien offert en paiement des droits.
