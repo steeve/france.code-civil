@@ -1,20 +1,26 @@
 Article D633-7-1
 ----
-Les dispositions de l'article D. 633-7 sont applicables à la cotisation due au
-titre du semestre au cours duquel intervient l'assujettissement au régime
-d'assurance vieillesse des professions artisanales ou à celui des professions
-industrielles et commerciales sous réserve que le délai entre la date à laquelle
-l'assuré a débuté son activité et la date limite de paiement de ladite
-cotisation soit d'au moins quatre-vingt-dix jours.
+Les dispositions de l'article D. 633-7 sont applicables à la cotisation de la
+première année civile d'exercice de l'activité artisanale, industrielle ou
+commerciale et à celle du premier semestre de l'année suivante sous les réserves
+ci-après :
 
-Lorsque cette condition n'est pas remplie, la cotisation est versée au plus tard
-à la date qui, parmi celles mentionnées à l'article D. 633-7, est immédiatement
-postérieure à la date pour laquelle la cotisation aurait dû être versée en
-application de ce même article. Le règlement intervient dans les mêmes
-conditions que pour les cotisations éventuellement dues pour cette date ;
-toutefois, lorsque la date limite de paiement des cotisations afférentes au
-premier semestre d'activité est reportée au 30 avril ou au 31 octobre, l'assuré
-peut demander à s'acquitter de ces cotisations en deux versements trimestriels
-d'égal montant, le règlement de la seconde fraction trimestrielle intervenant
+1° La cotisation du premier semestre de la première année est versée au plus
+tard le 30 avril si l'activité a débuté avant le 30 janvier, en même temps et
+dans les mêmes conditions que la cotisation du second semestre dans le cas
+contraire ;
+
+2° La cotisation du second semestre de la première année est versée au plus tard
+le 31 octobre si l'activité a débuté entre le 30 avril et le 1er août, en même
+temps et dans les mêmes conditions que la cotisation du premier semestre de la
+deuxième année si elle a débuté après le 31 juillet ;
+
+3° La cotisation du premier semestre de la deuxième année d'activité est versée
+au plus tard le 30 avril si l'activité a débuté après le 16 novembre.
+
+Lorsque l'application des dispositions ci-dessus emporte le règlement au 30
+avril ou au 31 octobre de la totalité de la cotisation afférente à un semestre,
+l'assuré peut s'acquitter des sommes qui lui sont réclamées en deux versements
+trimestriels d'égal montant. Le règlement de la seconde fraction intervient
 alors en même temps et dans les mêmes conditions que celui des cotisations du
 semestre suivant.
