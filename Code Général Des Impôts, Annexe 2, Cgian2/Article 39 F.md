@@ -12,7 +12,14 @@ réalisées au cours de l'année d'imposition ;
 actions mentionnées au I bis de l'article 92 B du code général des impôts
 réalisées au cours de l'année d'imposition ;
 
-3° Le montant du gain net imposable assorti des éléments nécessaires à sa
+3° Lorsque l'imposition des plus-values réalisées en cas d'échanges est reportée
+dans les conditions prévues au II de l'article 92-B du code général des impôts,
+le montant global, compte non tenu des frais, des cessions réalisées lors de ces
+échanges au cours de l'année d'imposition ainsi que celui des cessions de parts
+ou actions mentionnées au I bis du même article qui est compris dans ce montant
+;
+
+4° Le montant du gain net imposable assorti des éléments nécessaires à sa
 détermination.
 
 Toutefois, les contribuables peuvent se libérer de cette obligation en
