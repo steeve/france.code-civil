@@ -5,10 +5,11 @@ Pour son application dans la collectivité territoriale de Mayotte, l'article R.
 
 Art. R. 325-3. - L'immobilisation peut être prescrite par les officiers de
 police judiciaire, les gendarmes qui n'ont pas la qualité d'officier de police
-judiciaire et les agents du cadre de police mahoraise agréés par le représentant
-du Gouvernement et ayant prêté serment devant le procureur de la République,
-lorsqu'ils constatent la nécessité de faire cesser sans délai une des
-infractions pour lesquelles l'immobilisation peut être prévue.
+judiciaire, les adjoints de sécurité, les volontaires servant en qualité de
+militaires dans la gendarmerie et les agents du cadre de police mahoraise agréés
+par le représentant du Gouvernement et ayant prêté serment devant le procureur
+de la République, lorsqu'ils constatent la nécessité de faire cesser sans délai
+une des infractions pour lesquelles l'immobilisation peut être prévue.
 
 Elle peut être prescrite par les fonctionnaires des ponts et chaussées, y
 compris les conducteurs de chantiers ou agents de travaux assermentés à cet
