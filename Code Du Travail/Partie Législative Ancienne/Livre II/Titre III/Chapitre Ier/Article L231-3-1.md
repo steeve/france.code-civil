@@ -12,17 +12,33 @@ durée d'au moins vingt et un jours. Cette formation doit être répétée
 périodiquement dans des conditions fixées par voie réglementaire ou par
 convention ou accord collectif.
 
-Le comité d'entreprise ou d'établissement et le comité d'hygiène et de sécurité
-ou, dans les entreprise où il n'existe pas de comité d'entreprise, les délégués
-du personnel sont obligatoirement consultés sur les programmes de formation et
-veillent à leur mise en oeuvre effective. Ils sont également consultés sur le
-programme et les modalités pratiques de la formation renforcée prévue au
-cinquième alinéa du présent article et sur les conditions d'accueil des salariés
-aux postes définis par le même alinéa.
+Dans les établissements comprenant au moins une installation figurant sur la
+liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
+l'article 3-1 du code minier, le chef d'établissement est tenu de définir et de
+mettre en oeuvre au bénéfice des chefs d'entreprises extérieures et de leurs
+salariés et des travailleurs indépendants, mentionnés au deuxième alinéa du IV
+de l'article L. 230-2 du présent code, avant le début de leur première
+intervention dans l'enceinte de l'établissement, une formation pratique et
+appropriée aux risques particuliers que leur intervention peut présenter en
+raison de sa nature ou de la proximité de l'installation. Elle est dispensée
+sans préjudice de celles prévues par les premier et cinquième alinéas du présent
+article. Ses modalités de mise en oeuvre, son contenu et, le cas échéant, les
+conditions de son renouvellement peuvent être précisés par convention ou accord
+collectif de branche ou par convention ou accord collectif d'entreprise ou
+d'établissement.
 
-Le financement de ces actions est à la charge de l'employeur qui ne peut
-l'imputer sur la participation prévue à l'article L. 950-1 que pour les actions
-de formation définies à l'article L. 900-2.
+Le comité d'entreprise ou d'établissement et le comité d'hygiène et de sécurité
+ou, dans les entreprises où il n'existe pas de comité d'entreprise, les délégués
+du personnel sont obligatoirement consultés sur les programmes de formation et
+veillent à leur mise en oeuvre effective. Ils sont également consultés sur la
+formation pratique prévue au deuxième alinéa ainsi que sur le programme et les
+modalités pratiques de la formation renforcée prévue au sixième alinéa et sur
+les conditions d'accueil des salariés aux postes définis par le même alinéa.
+
+Le financement de ces actions est à la charge de l'employeur, à l'exception des
+formations visées aux deuxième et sixième alinéas qui incombent à l'entreprise
+utilisatrice, qui ne peut l'imputer sur la participation prévue à l'article L.
+950-1 que pour les actions de formation définies à l'article L. 900-2.
 
 En fonction des risques constatés, des actions particulières de formation à la
 sécurité sont également conduites dans certains établissements avec le concours,
@@ -52,9 +68,9 @@ l'entreprise utilisatrice donne aux salariés concernés toutes informations
 nécessaires sur les particularités de l'entreprise et de son environnement
 susceptibles d'avoir une incidence sur leur sécurité.
 
-Un décret en Conseil d'Etat pris en application de l'article L. 231-2 fixe les
-conditions dans lesquelles la formation prévue au présent article est organisée
-et dispensée.
+Un décret en Conseil d'Etat, pris en application de l'article L. 231-2, fixe les
+conditions dans lesquelles les formations prévues aux premier, cinquième et
+sixième alinéas du présent article sont organisées et dispensées.
 
 Toute modification apportée au poste de travail pour des raisons de sécurité,
 qui entraînerait une diminution de la productivité, est suivie d'une période

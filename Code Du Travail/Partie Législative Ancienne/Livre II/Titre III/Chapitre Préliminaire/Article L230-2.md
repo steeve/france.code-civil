@@ -8,12 +8,6 @@ formation ainsi que la mise en place d'une organisation et de moyens adaptés. I
 veille à l'adaptation de ces mesures pour tenir compte du changement des
 circonstances et tendre à l'amélioration des situations existantes.
 
-Sans préjudice des autres dispositions du présent code, lorsque dans un même
-lieu de travail les travailleurs de plusieurs entreprises sont présents, les
-employeurs doivent coopérer à la mise en oeuvre des dispositions relatives à la
-sécurité, à l'hygiène et à la santé selon des conditions et des modalités
-définies par décret en Conseil d'Etat.
-
 II. - Le chef d'établissement met en oeuvre les mesures prévues au I ci-dessus
 sur la base des principes généraux de prévention suivants :
 
@@ -66,3 +60,22 @@ c) Consulter les travailleurs ou leurs représentants sur le projet
 d'introduction et l'introduction de nouvelles technologies mentionnées à
 l'article L. 432-2, en ce qui concerne leurs conséquences sur la sécurité et la
 santé des travailleurs.
+
+IV. - Sans préjudice des autres dispositions du présent code, lorsque dans un
+même lieu de travail les travailleurs de plusieurs entreprises sont présents,
+les employeurs doivent coopérer à la mise en oeuvre des dispositions relatives à
+la sécurité, à l'hygiène et à la santé selon des conditions et des modalités
+définies par décret en Conseil d'Etat.
+
+En outre, dans les établissements comprenant au moins une installation figurant
+sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou
+visée à l'article 3-1 du code minier, lorsqu'un salarié ou le chef d'une
+entreprise extérieure ou un travailleur indépendant est appelé à réaliser une
+intervention pouvant présenter des risques particuliers en raison de sa nature
+ou de la proximité de cette installation, le chef d'établissement de
+l'entreprise utilisatrice et le chef de l'entreprise extérieure définissent
+conjointement les mesures prévues aux I, II et III. Le chef d'établissement de
+l'entreprise utilisatrice veille au respect par l'entreprise extérieure des
+mesures que celle-ci a la responsabilité d'appliquer, compte tenu de la
+spécificité de l'établissement, préalablement à l'exécution de l'opération,
+durant son déroulement et à son issue.

@@ -16,13 +16,23 @@ Les conditions dans lesquelles les experts mentionnés ci-dessus sont agréés p
 les ministres chargés du travail et de l'agriculture sont fixées par voie
 réglementaire.
 
-II. - Dans le cas où le comité d'entreprise ou d'établissement a recours à un
+II. - Dans les établissements comprenant au moins une installation figurant sur
+la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée
+à l'article 3-1 du code minier, le comité d'hygiène, de sécurité et des
+conditions de travail peut faire appel à un expert en risques technologiques,
+dans des conditions définies par décret en Conseil d'Etat, soit lorsqu'il est
+informé par le chef d'établissement sur les documents joints à la demande
+d'autorisation prévue par l'article L. 512-1 du code de l'environnement et avant
+d'émettre l'avis prévu au neuvième alinéa de l'article L. 236-2 du présent code,
+soit en cas de danger grave en rapport avec l'installation susmentionnée.
+
+III. - Dans le cas où le comité d'entreprise ou d'établissement a recours à un
 expert, en application du quatrième alinéa de l'article L. 434-6, à l'occasion
 d'un projet important d'introduction de nouvelles technologies, le comité
 d'hygiène, de sécurité et des conditions de travail doit, s'il souhaite un
 complément d'expertise sur les conditions de travail, faire appel à cet expert.
 
-III. - Les frais d'expertise sont à la charge de l'employeur.
+IV. - Les frais d'expertise sont à la charge de l'employeur.
 
 Si l'employeur entend contester la nécessité de l'expertise, la désignation de
 l'expert, le coût, l'étendue ou le délai de l'expertise, cette contestation est

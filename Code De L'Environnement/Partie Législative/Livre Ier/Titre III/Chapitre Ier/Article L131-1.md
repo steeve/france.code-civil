@@ -4,8 +4,9 @@ Il est institué, dans chaque département, un conseil départemental de
 l'environnement. Ce conseil est composé notamment de membres de la commission
 des sites, perspectives et paysages, du conseil départemental de la chasse et de
 la faune sauvage, de la commission départementale des carrières, du conseil
-départemental d'hygiène, représentant de façon équilibrée et en tenant compte de
-leur représentativité les différents intérêts en présence. Il est présidé par le
+départemental d'hygiène et de la commission départementale des risques naturels
+majeurs représentant de façon équilibrée et en tenant compte de leur
+représentativité les différents intérêts en présence. Il est présidé par le
 préfet ou par son représentant.
 
 Il peut être saisi pour avis par le préfet ou le président du conseil général

@@ -11,8 +11,8 @@ couchage du personnel, etc. ;
 2. Au fur et à mesure des nécessités constatées les prescriptions particulières
 relatives soit à certaines professions, soit à certains modes de travail ;
 
-3. Les modalités de l'évaluation des risques pour la santé et la sécurité des
-travailleurs prévue au III de l'article L. 230-2.
+3. Les modalités de l'évaluation et de la prévention des risques pour la santé
+et la sécurité des travailleurs prévues aux III et IV de l'article L. 230-2 ;
 
 4. L'organisation, le fonctionnement ainsi que les modalités de participation
 des établissements au financement d'organismes professionnels d'hygiène, de
@@ -34,7 +34,7 @@ une branche d'activité en application de l'alinéa précédent.
 Les décrets en Conseil d'Etat ci-dessus prévus et qui ont pour objet
 l'hébergement du personnel par les entreprises sont également applicables aux
 installations établies en dehors des limites des établissements ou chantiers
-régis par les dispositions du présent article [*lieu*].
+régis par les dispositions du présent article.
 
 Le contrôle de l'inspection du travail portera notamment sur l'installation et
 l'aménagement intérieur des locaux.

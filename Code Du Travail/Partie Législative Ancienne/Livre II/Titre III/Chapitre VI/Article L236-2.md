@@ -45,13 +45,36 @@ Le comité est consulté sur le plan d'adaptation prévu au second alinéa de
 l'article L. 432-2 du même code.
 
 Dans les établissements comportant une ou plusieurs installations soumises à
-autorisation au titre de l'article 3 de la loi n° 76-663 du 19 juillet 1976
-relative aux installations classées pour la protection de l'environnement, le
-comité est consulté par le chef d'établissement sur les documents établis à
-l'intention des autorités publiques chargées de la protection de l'environnement
-et il est informé des prescriptions imposées par ces mêmes autorités. La liste
-des documents qui doivent lui être soumis pour avis ou portés à sa connaissance
-est établie dans les conditions fixées par l'article L. 236-12.
+autorisation au titre de l'article L. 512-1 du code de l'environnement ou visées
+à l'article 3-1 du code minier, les documents établis à l'intention des
+autorités publiques chargées de la protection de l'environnement sont portés à
+la connaissance du comité d'hygiène, de sécurité et des conditions de travail
+par le chef d'établissement. L'information sur les documents joints à la demande
+d'autorisation, prévue par l'article L. 512-1 du code de l'environnement, est
+assurée préalablement à leur envoi à l'autorité compétente. Le comité d'hygiène,
+de sécurité et des conditions de travail est consulté sur le dossier établi par
+le chef d'établissement à l'appui de sa demande dans le délai d'un mois suivant
+la clôture de l'enquête publique prévue par l'article L. 512-2 du même code. Il
+est, en outre, informé par le chef d'établissement sur les prescriptions
+imposées par les autorités publiques chargées de la protection de
+l'environnement.
+
+Dans les établissements comprenant au moins une installation figurant sur la
+liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
+l'article 3-1 du code minier, le comité est consulté avant toute décision de
+sous-traiter une activité, jusqu'alors réalisée par les salariés de
+l'établissement, à une entreprise extérieure appelée à réaliser une intervention
+pouvant présenter des risques particuliers en raison de sa nature ou de la
+proximité de l'installation.
+
+Dans ces établissements, il est également consulté sur la liste des postes de
+travail liés à la sécurité de l'installation. Cette liste est établie par le
+chef d'établissement. Elle précise, le cas échéant, au titre des actions de
+prévention prévues au III de l'article L. 230-2, les postes qui ne peuvent être
+confiés à des salariés sous contrat de travail à durée déterminée ou sous
+contrat de travail temporaire, ceux qui doivent être occupés par les salariés de
+l'établissement et ceux dont les tâches exigent la présence d'au moins deux
+personnes qualifiées.
 
 Le comité est consulté sur les mesures prises en vue de faciliter la mise, la
 remise ou le maintien au travail des accidentés du travail, des invalides de

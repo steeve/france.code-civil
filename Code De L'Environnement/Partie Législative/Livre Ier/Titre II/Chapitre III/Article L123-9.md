@@ -13,7 +13,13 @@ il juge l'audition utile et convoquer le maître d'ouvrage ou ses représentants
 ainsi que les autorités administratives intéressées.
 
 Il peut organiser, sous sa présidence, une réunion d'information et d'échange
-avec le public en présence du maître d'ouvrage.
+avec le public en présence du maître d'ouvrage. Lorsque l'enquête publique porte
+sur une demande d'autorisation concernant une installation figurant sur la liste
+prévue au IV de l'article L. 515-8, cette réunion est obligatoire à la demande
+du maire de la commune sur le territoire de laquelle sera sise l'installation ou
+du président d'un établissement public de coopération intercommunale compétent
+en matière d'urbanisme ou de développement économique dont le périmètre comprend
+le territoire de la commune sur lequel sera sise l'installation (NOTA).
 
 Sous réserve des dispositions de l'article L. 123-15, le maître d'ouvrage
 communique au public les documents existants que le commissaire enquêteur ou le

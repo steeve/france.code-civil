@@ -7,9 +7,9 @@ prescrites par ce plan est puni des peines prévues à l'article L. 480-4 du cod
 de l'urbanisme.
 
 II. - Les dispositions des articles L. 460-1, L. 480-1, L. 480-2, L. 480-3, L.
-480-5 à L. 480-9 et L. 480-12 du code de l'urbanisme sont également applicables
-aux infractions visées au I du présent article, sous la seule réserve des
-conditions suivantes :
+480-5 à L. 480-9, L. 480-12 et L. 480-14 du code de l'urbanisme sont également
+applicables aux infractions visées au I du présent article, sous la seule
+réserve des conditions suivantes :
 
 1° Les infractions sont constatées, en outre, par les fonctionnaires et agents
 commissionnés à cet effet par l'autorité administrative compétente et
@@ -23,3 +23,6 @@ sur leur rétablissement dans l'état antérieur ;
 
 3° Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est
 ouvert aux représentants de l'autorité administrative compétente.
+
+4° Le tribunal de grande instance peut également être saisi en application de
+l'article L. 480-14 du code de l'urbanisme par le préfet.

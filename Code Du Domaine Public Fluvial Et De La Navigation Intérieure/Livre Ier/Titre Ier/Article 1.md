@@ -34,5 +34,8 @@ en eau des voies navigables, les besoins en eau de l'agriculture et de
 l'industrie, l'alimentation des populations ou la protection contre les
 inondations ;
 
+- les cours d'eaux, canaux, lacs et plans d'eau appartenant au domaine public
+fluvial des collectivités territoriales et de leurs groupements ;
+
 - Les cours d'eau et les lacs appartenant au domaine public sont appelés cours
 d'eau et lacs domaniaux.

@@ -1,11 +1,25 @@
 Article 4
 ----
-Le déclassement des cours d'eau ou lacs domaniaux navigables ou non et des
-canaux faisant partie du domaine public de l'Etat est prononcé après enquête
-d'utilité publique par décret en Conseil d'Etat pris sur le rapport du ministre
-des travaux publics et des transports ou du ministre de l'agriculture s'il est
-chargé de la gestion du cours d'eau ou du lac, après avis des ministres chargés
-respectivement des finances, de l'intérieur, de l'industrie, ainsi que, suivant
-le cas, après avis du ministre de l'agriculture ou du ministre des travaux
-publics et des transports dans les conditions fixées par décret en conseil
-d'Etat.
+1. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal,
+lac ou plan d'eau faisant partie du domaine public fluvial de l'Etat est
+prononcé, après enquête publique et consultation des collectivités territoriales
+intéressées, par arrêté du préfet territorialement compétent, tous les droits
+des riverains et des tiers demeurant réservés.
+
+Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal, lac
+ou plan d'eau faisant partie du domaine public fluvial de l'Etat emporte sa
+radiation de la nomenclature des voies navigables ou flottables de l'Etat.
+
+Dans le cas d'un transfert de propriété du domaine public fluvial de l'Etat au
+profit d'une collectivité territoriale ou d'un groupement, tel que prévu à
+l'article 1-1, l'acte opérant le transfert emporte déclassement du domaine
+public fluvial de l'Etat.
+
+2. Le déclassement d'un cours d'eau, d'une section de cours d'eau, d'un canal,
+lac ou plan d'eau faisant partie du domaine public fluvial d'une collectivité
+territoriale ou d'un groupement est prononcé après enquête publique par la
+personne responsable de l'autorité exécutive de la collectivité territoriale ou
+du groupement, après consultation du comité de bassin et des assemblées
+délibérantes des autres collectivités territoriales sur le territoire desquelles
+se situe le domaine à déclasser, tous les droits des riverains et des tiers
+demeurant réservés.

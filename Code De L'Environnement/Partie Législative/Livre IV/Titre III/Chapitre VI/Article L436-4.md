@@ -22,3 +22,10 @@ l'eau sur des parcours déterminés.
 
 II. - Le droit de pêche défini par le présent article ne peut s'exercer qu'à
 l'aide d'une seule ligne.
+
+III. - Les dispositions du I et du II sont également applicables dans les eaux
+qui faisaient partie du domaine public fluvial de l'Etat à la date de
+promulgation de la loi n° 2003-699 du 30 juillet 2003 relative à la prévention
+des risques technologiques et naturels et à la réparation des dommages et qui
+ont fait l'objet d'un transfert à une collectivité territoriale en application
+de ladite loi.

@@ -1,9 +1,10 @@
 Article L541-3
 ----
-Au cas où les déchets sont abandonnés, déposés ou traités contrairement aux
-prescriptions du présent chapitre et des règlements pris pour leur application,
-l'autorité titulaire du pouvoir de police peut, après mise en demeure, assurer
-d'office l'élimination desdits déchets aux frais du responsable. L'exécution des
+En cas de pollution des sols, de risque de pollution des sols, ou au cas où des
+déchets sont abandonnés, déposés ou traités contrairement aux prescriptions du
+présent chapitre et des règlements pris pour leur application, l'autorité
+titulaire du pouvoir de police peut, après mise en demeure, assurer d'office
+l'exécution des travaux nécessaires aux frais du responsable. L'exécution des
 travaux ordonnés d'office peut être confiée par le ministre chargé de
 l'environnement à l'Agence de l'environnement et de la maîtrise de l'énergie.
 L'autorité titulaire du pouvoir de police peut également obliger le responsable
