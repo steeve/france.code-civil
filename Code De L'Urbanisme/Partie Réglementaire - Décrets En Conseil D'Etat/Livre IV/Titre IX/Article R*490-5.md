@@ -17,3 +17,7 @@ Dunkerque ;
 
 d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par
 décret en Conseil d'Etat.
+
+e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille
+dans le périmètre de compétence de l'établissement public d'aménagement
+Euroméditerranée.
