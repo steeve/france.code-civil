@@ -18,9 +18,9 @@ l'identité et l'adresse du domicile fiscal du donateur. Le reçu est signé par
 donateur.
 
 Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de
-l'article L. 52-4 que lorsque le montant du don excède 20 000 F. "
+l'article L. 52-4 que lorsque le montant du don excède 3 000 euros.
 
-" La Commission nationale des comptes de campagne et des financements politiques
+La Commission nationale des comptes de campagne et des financements politiques
 peut mettre en cause la validité du reçu délivré par le mandataire et enregistré
 par elle si elle constate, lors du contrôle du compte de campagne, une
 irrégularité au regard des dispositions des articles L. 52-4 à L. 52-13 et L.
