@@ -3,9 +3,9 @@ Article R145-10
 Le renforcement des remontées mécaniques ou leur extension est considéré comme
 unité touristique nouvelle lorsque les dépenses de construction et
 d'installation correspondantes, effectuées en une ou plusieurs tranches,
-excèdent 17 500 000 francs. Toutefois, le remplacement d'une remontée mécanique
-ne constitue pas une unité touristique nouvelle lorsque, d'une part, les lieux
-de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire
+excèdent 2300000 euros. Toutefois, le remplacement d'une remontée mécanique ne
+constitue pas une unité touristique nouvelle lorsque, d'une part, les lieux de
+départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire
 maximum de la nouvelle installation est inférieur au triple de celui de l'ancien
 équipement.
 

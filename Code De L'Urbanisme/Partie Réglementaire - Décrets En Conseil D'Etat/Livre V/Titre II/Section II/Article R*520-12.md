@@ -1,9 +1,8 @@
 Article R*520-12
 ----
-Le montant de la redevance[*pour construction de bureaux*] instituée par
-l'article L. 520-1 est de :
+Le montant de la redevance instituée par l'article L. 520-1 est de :
 
-1° 1 600 F par mètre carré dans :
+1° 244 euros par mètre carré dans :
 
 - la partie de Paris comprenant les arrondissements suivants :
 
@@ -17,7 +16,7 @@ Levallois-Perret, Malakoff, Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine,
 Puteaux, Rueil-Malmaison, Saint-Cloud, Sèvres, Suresnes, Vanves, Vaucresson et
 Ville-d'Avray.
 
-2° 1 000 F par mètre carré dans :
+2° 152 euros par mètre carré dans :
 
 - les communes ci-après du département des Hauts-de-Seine :
 
@@ -29,7 +28,7 @@ Montrouge, Le Plessis-Robinson et Sceaux ;
 Bougival, Carrières-sur-Seine, La Celle-Saint-Cloud, Chatou, Croissy-sur-Seine,
 Le Mesnil-le-Roi, Montesson et Le Vésinet.
 
-3° 400 F par mètre carré dans :
+3° 61 euros par mètre carré dans :
 
 - les arrondissements de Paris non visés au 1° ci-dessus ;
 

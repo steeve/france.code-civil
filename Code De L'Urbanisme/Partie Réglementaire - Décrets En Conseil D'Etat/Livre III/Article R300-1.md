@@ -11,7 +11,7 @@ hors oeuvre brute ou la restauration, dans les conditions définies à l'article
 L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette surface ;
 
 2. La réalisation d'un investissement routier dans une partie urbanisée d'une
-commune d'un montant supérieur à 12 000 000 F, et conduisant à la création de
+commune d'un montant supérieur à 1 900 000 euros, et conduisant à la création de
 nouveaux ouvrages ou à la modification d'assiette d'ouvrages existants ;
 
 3. La transformation d'une voie existante en aire piétonne d'une superficie
@@ -20,23 +20,23 @@ même superficie ;
 
 4. La création d'une gare ferroviaire ou routière de voyageurs, de marchandises
 ou de transit ou l'extension de son emprise, lorsque le montant des travaux
-dépasse 12 000 000 F ;
+dépasse 1 900 000 euros ;
 
 5. Les travaux de modification de gabarit, de détournement ou de couverture de
 cours d'eau dans une partie urbanisée d'une commune, lorsque le montant des
-travaux dépasse 12 000 000 F ;
+travaux dépasse 1 900 000 euros ;
 
 6. Les travaux de construction ou d'extension d'infrastructures portuaires des
 ports fluviaux situés dans une partie urbanisée d'une commune, lorsque le
-montant de ces travaux dépasse 12 000 000 F, ainsi que la création d'un port
+montant de ces travaux dépasse 1 900 000 euros, ainsi que la création d'un port
 fluvial de plaisance d'une capacité d'accueil supérieure à 150 places ou
 l'extension d'un port de plaisance portant sur au moins 150 places ;
 
 7. Dans une partie urbanisée d'une commune, la création d'un port maritime de
 commerce, de pêche ou de plaisance, les travaux d'extension de la surface des
 plans d'eau abrités des ports maritimes de commerce ou de pêche d'un montant
-supérieur à 12 000 000 F, ainsi que les travaux ayant pour effet d'accroître de
-plus de 10 p. 100 la surface du plan d'eau abrité des ports maritimes de
+supérieur à 1 900 000 euros, ainsi que les travaux ayant pour effet d'accroître
+de plus de 10 p. 100 la surface du plan d'eau abrité des ports maritimes de
 plaisance ;
 
 8. Les ouvrages et travaux sur une emprise de plus de 2 000 mètres carrés
