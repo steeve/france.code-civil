@@ -17,9 +17,14 @@ provenant d'une activité non salariée agricole au sens de l'article 1060,
 troisième (2°) à sixième (5°) alinéa, du code rural et soumises à l'impôt sur le
 revenu dans la catégorie visée à l'article 62 du code général des impôts.
 
-II. - Les revenus professionnels pris en compte sont constitués par la moyenne
-des revenus se rapportant aux trois années antérieures à l'année précédant celle
-au titre de laquelle les cotisations sont dues.
+II. - Pour les chefs d'exploitation ou d'entreprise agricoles soumis à un régime
+forfaitaire d'imposition, les revenus professionnels pris en compte sont
+constitués par la moyenne des revenus se rapportant aux trois années antérieures
+à l'année précédant celle au titre de laquelle les cotisations sont dues. Pour
+les chefs d'exploitation ou d'entreprise agricoles soumis à un régime réel ou
+transitoire d'imposition, les revenus professionnels pris en compte sont
+constitués par la moyenne des revenus se rapportant aux trois années antérieures
+à celle au titre de laquelle les cotisations sont dues.
 
 Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul
 de l'impôt sur le revenu ou, le cas échéant, de leur somme.
@@ -30,9 +35,6 @@ résultent d'une option du contribuable. Ils sont majorés des déductions et
 abattements qui ne correspondent pas à des dépenses nécessitées par l'exercice
 de la profession, à l'exception de la déduction opérée en application de
 l'article 72 D du code général des impôts.
-
-Pour le calcul de la moyenne des revenus, les déficits sont retenus pour un
-montant nul.
 
 III. - L'assiette des cotisations est déterminée forfaitairement dans les
 conditions fixées par décret :
@@ -59,16 +61,14 @@ séparée, le montant total des revenus est réparti entre eux en fonction de
 l'importance respective de leur exploitation ou de leur entreprise dans des
 conditions définies par décret.
 
-V. - A titre transitoire, les cotisations dues au titre de l'année 1990 seront
-calculées sur la base des revenus de l'année 1988 et les cotisations dues au
-titre de l'année 1991 seront calculées sur la base de la moyenne des revenus des
-années 1988 et 1989.
+V. (paragraphe abrogé).
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent
-article, les chefs d'exploitation ou d'entreprise agricole peuvent, dans des
-conditions fixées par décret, opter pour une assiette de cotisations constituée
-de leurs revenus professionnels tels que définis au présent article et afférents
-à l'année précédant celle au titre de laquelle les cotisations sont dues.
+article, les chefs d'exploitation ou d'entreprise agricole soumis à un régime
+forfaitaire d'imposition peuvent, dans des conditions fixées par décret, opter
+pour une assiette de cotisations constituée de leurs revenus professionnels tels
+que définis au présent article et afférents à l'année précédant celle au titre
+de laquelle les cotisations sont dues.
 
 Au cours de la première année où ladite option prend effet, l'assiette des
 cotisations est constituée par la moyenne des revenus professionnels tels que
@@ -82,24 +82,47 @@ L'assiette des cotisations est déterminée forfaitairement dans des conditions
 fixées par décret lorsque la durée de l'assujettissement ne permet pas de
 calculer les revenus professionnels servant de base aux cotisations.
 
+Par dérogation aux dispositions du premier alinéa du II ou du 1° du III du
+présent article, les chefs d'exploitation ou d'entreprise agricoles soumis à un
+régime réel ou transitoire d'imposition peuvent, dans des conditions fixées par
+décret, opter pour une assiette de cotisations constituée de leurs revenus
+professionnels tels que définis au présent article et afférents à l'année au
+titre de laquelle les cotisations sont dues.
+
+Les cotisations sont calculées, chaque année, à titre provisionnel, en
+pourcentage du revenu professionnel de l'année précédente ; pour les chefs
+d'exploitation ou d'entreprise agricoles qui ont effectué l'option mentionnée à
+l'alinéa précédent lors de leur affiliation au régime de protection sociale des
+membres non salariés des professions agricoles ou lorsque la durée
+d'assujettissement ne permet pas de déterminer ledit revenu professionnel, les
+cotisations sont calculées à titre provisionnel sur la base d'une assiette fixée
+forfaitairement dans des conditions déterminées par décret. Lorsque le revenu
+professionnel est définitivement connu, la cotisation fait l'objet d'une
+régularisation.
+
+Par dérogation au précédent alinéa, les cotisations peuvent être calculées à
+titre provisionnel sur la base d'une assiette forfaitaire dès lors que les
+éléments d'appréciation sur l'importance des revenus professionnels des assurés
+au cours de l'année au titre de laquelle la cotisation est due établissent que
+ces revenus sont différents de l'assiette retenue en application de cet alinéa.
+Les modalités d'application du présent alinéa sont fixées par décret.
+
 Un décret détermine les conditions d'application des dispositions ci-dessus,
 notamment le délai minimal dans lequel les chefs d'exploitation ou d'entreprise
 doivent formuler l'option préalablement à sa prise d'effet, la durée minimale de
 validité de celle-ci, les conditions de sa reconduction et de sa dénonciation.
-Pour 1993, l'option doit être formulée au plus tard le 31 mars 1993.
+Pour 1994, à titre exceptionnel, les chefs d'exploitation ou d'entreprise
+agricoles peuvent exercer l'option prévue au présent VI jusqu'au 30 avril 1994.
 
-En cas de dénonciation de l'option, l'assiette des cotisations est constituée :
+Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne
+peuvent ultérieurement demander l'application des dispositions prévues au
+présent VI.
 
-- la première année au cours de laquelle la dénonciation prend effet par les
-revenus professionnels tels que définis au présent article et se rapportant à
-l'avant-dernière année précédant celle au titre de laquelle les cotisations sont
-dues ;
+VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise
+agricoles ayant exercé l'option prévue à l'article 13 de la loi n° 91-1407 du 31
+décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent
+dénoncer ladite option à effet du 1er janvier 1994.
 
-- et l'année suivante pour ces revenus professionnels se rapportant aux deux
-années antérieures à l'année précédant celle au titre de laquelle les
-cotisations sont dues.
-
-Le chef d'exploitation ou d'entreprise peut ultérieurement exercer l'option
-prévue par le présent paragraphe une seule fois à l'issue d'une période minimale
-à compter de la dénonciation dont la durée est fixée par le décret prévu
-ci-dessus.
+Les chefs d'exploitation ou d'entreprise agricoles qui ont demandé à bénéficier
+des dispositions ci-dessus ne peuvent plus ultérieurement exercer l'option
+mentionnée au VI du présent article.

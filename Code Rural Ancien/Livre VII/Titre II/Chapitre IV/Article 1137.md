@@ -1,6 +1,6 @@
 Article 1137
 ----
-La caisse nationale d'assurance vieillesse agricole est chargée notamment :
+La caisse centrale de la mutualité sociale agricole est chargée notamment :
 
 De coordonner l'action des caisses départementales ;
 

@@ -1,6 +1,6 @@
 Article 1152
 ----
-La caisse centrale de secours mutuels agricoles est chargée :
+La caisse centrale de la mutualité sociale agricole est chargée :
 
 - de coordonner l'action et la gestion des caisses départementales et
 pluridépartementales ;

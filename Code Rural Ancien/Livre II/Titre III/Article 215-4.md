@@ -7,5 +7,6 @@ maladies des animaux prévues aux articles 214 à 252 du présent code. Lors de 
 visites, ils peuvent procéder à la constatation des infractions aux dispositions
 desdits articles et des textes réglementaires pris pour leur application.
 
-Ils doivent, si la visite a lieu après le coucher du soleil, être accompagnés
-par un officier ou un agent de police judiciaire.
+Ils doivent, si la visite a lieu après le coucher du soleil, dans tout autre
+lieu qu'un des postes d'inspection frontaliers mentionnés à l'article 275-4,
+être accompagnés par un officier ou un agent de police judiciaire.

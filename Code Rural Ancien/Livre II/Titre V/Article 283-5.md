@@ -14,6 +14,16 @@ véhicules à usage professionnel dans lesquels sont transportés des animaux et
 y pénétrer, sauf si ces véhicules ne sont pas utilisés à des fins
 professionnelles au moment du contrôle.
 
-Si la visite des véhicules a lieu entre le coucher et le lever du soleil, ces
-fonctionnaires et agents doivent être accompagnés par un officier ou agent de
-police judiciaire.
+Si la visite des véhicules a lieu entre le coucher et le lever du soleil dans
+tout autre lieu qu'un des postes d'inspection frontaliers mentionnés à l'article
+275-4, ces fonctionnaires et agents doivent être accompagnés par un officier ou
+agent de police judiciaire ;
+
+3° A procéder ou à faire procéder, de jour comme de nuit, à l'abattage, au
+refoulement ou au déchargement immédiat, à l'hébergement, à l'abreuvement, à
+l'alimentation et au repos des animaux lors des contrôles effectués dans les
+postes d'inspection frontaliers mentionnés à l'article 275-4. Les frais induits
+par ces mesures, qui ne peuvent donner lieu à aucune indemnité, sont à la charge
+du propriétaire, du destinataire, de l'importateur, de l'exportateur ou, à
+défaut, de toute autre personne qui participe à l'opération d'importation ou
+d'échange.

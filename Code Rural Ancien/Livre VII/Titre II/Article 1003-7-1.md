@@ -61,9 +61,11 @@ chaque année au comité départemental des prestations sociales agricoles.
 IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et
 d'assurance maladie dues par les chefs d'exploitation ou d'entreprise mentionnés
 à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
-par décret.
+par décret. En ce qui concerne les cotisations d'assurance maladie, ces minima
+peuvent être modulés pour tenir compte de l'importance de l'exploitation ou de
+l'entreprise.
 
-V. - Bénéficient d'une exonération totale des cotisations à l'assurance maladie
+V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie
 des exploitants agricoles (Amexa), les titulaires de la retraite de vieillesse
 agricole et les titulaires de la retraite forfaitaire accordée en vertu de
 l'article 1122-1 du présent code, percevant l'allocation supplémentaire prévue

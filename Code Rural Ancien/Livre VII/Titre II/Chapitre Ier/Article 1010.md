@@ -2,7 +2,7 @@ Article 1010
 ----
 Lorsque la circonscription des caisses de mutualité sociale s'étend sur deux ou
 plusieurs départements, le conseil d'administration comprend : douze
-représentants du premier collège, dix représentants du deuxième collège et six
+représentants du premier collège, douze représentants du deuxième collège et six
 représentants du troisième collège élus dans les conditions prévues à l'article
 précédent ainsi que trois représentants des familles dont au moins un salarié et
 un non-salarié désignés conjointement par les unions départementales des

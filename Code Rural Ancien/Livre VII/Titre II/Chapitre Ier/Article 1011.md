@@ -1,12 +1,10 @@
 Article 1011
 ----
-L'assemblée générale centrale de la mutualité sociale agricole, commune à la
-caisse centrale de secours mutuels agricoles, à la caisse centrale d'allocations
-familiales agricoles et à la caisse nationale d'assurance vieillesse mutuelle
-agricole, est constituée par les délégués élus par leurs pairs au sein du
-conseil d'administration de chacune des caisses de mutualité sociale agricole, à
-raison de trois délégués pour le premier collège, de deux délégués pour le
-deuxième collège et d'un délégué pour le troisième collège.
+L'assemblée générale centrale de la mutualité sociale agricole est constituée
+par les délégués élus par leurs pairs au sein du conseil d'administration de
+chacune des caisses de mutualité sociale agricole, à raison de trois délégués
+pour le premier collège, de deux délégués pour le deuxième collège et d'un
+délégué pour le troisième collège.
 
 Le conseil central d'administration de la mutualité sociale agricole, comprenant
 vingt-cinq membres, est composé comme suit :

@@ -8,12 +8,12 @@ des douanes doivent être conduites au bureau de douane le plus proche pour y
 2. Les transporteurs desdites marchandises doivent présenter aux agents des
 douanes à la première réquisition :
 
-a) Les titres de transport dont ils sont porteurs ;
+a) les titres de transport dont ils sont porteurs ;
 
-b) Le cas échéant, les titres de régie et autres expéditions accompagnant les
+b) le cas échéant, les titres de régie et autres expéditions accompagnant les
 marchandises ;
 
-c) Des quittances attestant que ces marchandises ont été régulièrement importées
+c) des quittances attestant que ces marchandises ont été régulièrement importées
 ou des factures d'achat, bordereaux de fabrication ou toutes autres
 justifications d'origine émanant de personnes ou sociétés régulièrement établies
-à l'intérieur du territoire douanier.
+à l'intérieur du territoire douanier de la communauté européenne.

@@ -9,7 +9,8 @@ consultation du conseil d'administration de la mutualité sociale agricole, deux
 ou plusieurs cantons pour former des circonscriptions électorales groupant au
 moins cinquante électeurs ou, à défaut, tous les électeurs du département. Dans
 ce cas, quelle que soit la circonscription électorale, le nombre de délégués
-cantonaux est égal au nombre de cantons regroupés, multiplié par trois.
+cantonaux est égal au nombre de délégués éligibles dans un seul canton majoré
+d'une unité par canton supplémentaire regroupé.
 
 Les délégués cantonaux sont élus au scrutin de liste à la représentation
 proportionnelle suivant la règle du plus fort reste sans panachage, rature ou
