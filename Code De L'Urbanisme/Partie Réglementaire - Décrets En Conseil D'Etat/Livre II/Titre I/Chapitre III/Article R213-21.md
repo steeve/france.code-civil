@@ -7,10 +7,11 @@ d'aliéner ou que le prix que le titulaire envisage de proposer excède le monta
 fixé par l'arrêté du ministre des finances prévu à l'article 3 du décret du 5
 juin 1940 modifié.
 
-Dans les zones d'aménagement différé et dans les secteurs ayant fait l'objet de
-la délibération prévue par le dernier alinéa de l'article L. 211-4, le service
-des domaines doit être consulté, quel que soit le prix figurant dans la
-déclaration d'intention d'aliéner.
+Dans les zones d'aménagement différé les périmètres provisoires de zone
+d'aménagement différé et dans les secteurs ayant fait l'objet de la délibération
+prévue par le dernier alinéa de l'article L. 211-4, le service des domaines doit
+être consulté, quel que soit le prix figurant dans la déclaration d'intention
+d'aliéner.
 
 L'avis du service des domaines doit être formulé dans le délai d'un mois à
 compter de la date de réception de la demande d'avis. Passé ce délai, il peut

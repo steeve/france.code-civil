@@ -5,4 +5,4 @@ communes issues d'une fusion comportant création d'une ou plusieurs communes
 associées lorsqu'il y a lieu à la consultation des conseils ou commissions
 consultatifs en application de l'article 66 de la loi n° 82-1169 du 31 décembre
 1982 relative à l'organisation administrative de Paris, Marseille et Lyon et des
-établissements publics de coopération intercommunale [*champ d'application*].
+établissements publics de coopération intercommunale.

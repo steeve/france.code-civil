@@ -1,6 +1,6 @@
 Article R212-2
 ----
-La décision créant une zone d'aménagement différé fait l'objet [*publicité*] :
+La décision créant une zone d'aménagement différé fait l'objet :
 
 a) D'une publication au Journal officiel de la République française s'il s'agit
 d'un décret ;
@@ -8,11 +8,10 @@ d'un décret ;
 b) D'une publication au recueil des actes administratifs du ou des départements
 intéressés s'il s'agit d'un arrêté.
 
-Une copie de la décision créant la zone d'aménagement différé et un plan
-précisant le périmètre de cette zone sont déposés à la mairie de chacune des
-communes concernées. Avis de ce dépôt est donné par affichage à la mairie
-pendant un mois. Mention en est insérée dans deux journaux publiés dans le ou
-les départements concernés.
+" Mention en est insérée dans deux journaux publiés dans le ou les départements
+concernés. Une copie de la décision créant la zone d'aménagement différé et un
+plan précisant le périmètre de cette zone sont déposés à la mairie de chacune
+des communes concernées. "
 
 Les effets juridiques attachés à la création de la zone ont pour point de
 départ, dans le cas prévu au a) ci-dessus, la publication au Journal officiel

@@ -5,7 +5,7 @@ Les zones d'aménagement différé sont créées :
 a) En cas de proposition ou d'avis favorable des communes intéressées ou de
 l'établissement public de coopération intercommunale compétent en application de
 l'article L. 212-4, par arrêté du préfet ou, si la zone est située sur le
-territoire de plusieurs départements, par arrêté conjoint des préfets intéressés
+territoire de plusieurs départements, par arrêté conjoint des préfet intéressés
 ;
 
 b) Par décret en Conseil d'Etat en cas d'avis défavorable d'une commune

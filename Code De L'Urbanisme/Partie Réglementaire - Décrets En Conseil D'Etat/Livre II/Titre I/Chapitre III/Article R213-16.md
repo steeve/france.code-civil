@@ -2,9 +2,9 @@ Article R213-16
 ----
 Lorsque l'identité et le domicile de l'ancien propriétaire ou de ses ayants
 cause universels ou à titre universel sont connus, l'offre de rétrocession
-formulée en application de l'article L. 213-11 (alinéa 2) leur est notifiée
-individuellement par lettre recommandée avec demande d'avis de réception. Elle
-doit contenir l'indication d'un prix [*mention obligatoire*].
+formulée en application de l'article L. 213-11 (alinéa 2) ou de l'article L.
+212-2-2 leur est notifiée individuellement par lettre recommandée avec demande
+d'avis de réception. Elle doit contenir l'indication d'un prix.
 
 Les anciens propriétaires ou leurs ayants cause universels ou à titre universel
 disposent d'un délai de deux mois à compter de la date d'avis de réception de la

@@ -1,8 +1,8 @@
 Article R213-17
 ----
 A compter de la notification de la réponse faite en application de l'article R.
-213-16 (c), le titulaire du droit de préemption dispose d'un délai [*point de
-départ*] de deux mois :
+213-16 (c), le titulaire du droit de préemption dispose d'un délai de deux mois
+:
 
 a) Soit pour notifier qu'il accepte de rétrocéder le bien au prix proposé ;
 
@@ -15,4 +15,4 @@ universel.
 Ainsi qu'il est dit à l'article L. 213-11 (alinéa 4), à défaut d'acceptation
 dans le délai de trois mois à compter de la décision juridictionnelle devenue
 définitive, les anciens propriétaires ou leurs ayants cause universels ou à
-titre universel sont réputés avoir renoncé [*tacitement*] à l'acquisition.
+titre universel sont réputés avoir renoncé à l'acquisition.
