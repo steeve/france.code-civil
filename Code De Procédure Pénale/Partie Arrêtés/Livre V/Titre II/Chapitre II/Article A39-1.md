@@ -69,6 +69,12 @@ Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 
 Centre de détention de Mauzac (Dordogne).
 
+Quartier centre de détention de Chauconin-Neufmontiers du centre pénitentiaire
+de Meaux - Chauconin-Neufmontiers (Seine-et-Marne).
+
+Quartier centre de détention de Meaux du centre pénitentiaire de Meaux -
+Chauconin-Neufmontiers (Seine-et-Marne).
+
 Centre de détention de Melun (Seine-et-Marne).
 
 Centre de détention de Montmédy (Meuse).
