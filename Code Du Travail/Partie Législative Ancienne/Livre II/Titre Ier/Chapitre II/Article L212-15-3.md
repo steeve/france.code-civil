@@ -37,7 +37,7 @@ responsabilités qui leur sont confiées.
 
 III. - La convention ou l'accord collectif prévoyant la conclusion de
 conventions de forfait en jours doit fixer le nombre de jours travaillés. Ce
-nombre ne peut dépasser le plafond de deux cent dix-sept jours. La convention ou
+nombre ne peut dépasser le plafond de deux cent dix-huit jours. La convention ou
 l'accord définit, au regard de leur autonomie dans l'organisation de leur emploi
 du temps, les catégories de cadres concernés. La convention ou l'accord précise
 en outre les modalités de décompte des journées et des demi-journées travaillées

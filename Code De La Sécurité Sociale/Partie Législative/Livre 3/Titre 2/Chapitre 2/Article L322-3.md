@@ -39,9 +39,7 @@ décembre 1970 ;
 d'une action médico-sociale de maintien à domicile par les institutions
 mentionnées au 1° de l'article 1er de la loi n° 75-535 du 30 juin 1975 ;
 
-10°) lorsqu'une femme est en état de grossesse, pendant une période qui débute
-quatre mois avant la date présumée de l'accouchement et se termine à la date où
-l'accouchement a lieu ;
+10°) Abrogé.
 
 11°) Pour l'hospitalisation des nouveau-nés lorsqu'elle se produit pendant une
 période fixée par décret en Conseil d'Etat, ainsi que pour tous les soins qui

@@ -7,6 +7,6 @@ agricoles comprend quatre branches :
 
 2° L'assurance maladie, invalidité et maternité ;
 
-3° L'assurance vieillesse et veuvage ;
+3° L'assurance veillesse ;
 
 4° L'assurance contre les accidents du travail et les maladies professionnelles.

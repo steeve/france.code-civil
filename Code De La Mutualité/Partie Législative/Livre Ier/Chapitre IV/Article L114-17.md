@@ -29,7 +29,10 @@ d) De l'ensemble des rémunérations versées aux dirigeants salariés ;
 e) De la liste des mandats et fonctions exercés par chacun des administrateurs
 de la mutuelle, union ou fédération ;
 
-f) Des transferts financiers entre mutuelles et unions.
+f) Des transferts financiers entre mutuelles et unions ;
+
+g) Pour les mutuelles ou leurs unions relevant du livre II, le montant et les
+modalités de répartition pour l'année écoulée de la participation aux excédents.
 
 Le conseil d'administration établit, à la clôture de chaque exercice, les
 comptes consolidés ou combinés, lorsque la mutuelle, l'union ou la fédération

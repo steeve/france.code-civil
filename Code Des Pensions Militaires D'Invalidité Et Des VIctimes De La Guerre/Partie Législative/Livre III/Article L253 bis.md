@@ -1,8 +1,8 @@
 Article L253 bis
 ----
-Ont vocation à la qualité de combattant [*définition*] et à l'attribution de la
-carte du combattant, selon les principes retenus pour l'application du présent
-titre et des textes réglementaires qui le complètent, sous la seule réserve des
+Ont vocation à la qualité de combattant et à l'attribution de la carte du
+combattant, selon les principes retenus pour l'application du présent titre et
+des textes réglementaires qui le complètent, sous la seule réserve des
 adaptations qui pourraient être rendues nécessaires par le caractère spécifique
 de la guerre d'Algérie ou des combats en Tunisie et au Maroc entre le 1er
 janvier 1952 et le 2 juillet 1962 :
@@ -30,7 +30,6 @@ considération pour les différents théâtres d'opérations, seront fixées par
 décret en Conseil d'Etat ; un arrêté interministériel énumérera les catégories
 de formations constituant les forces supplétives françaises.
 
-Une durée des services en Algérie d'au moins douze mois est reconnue équivalente
-à la participation aux actions de feu et de combat exigée au deuxième alinéa
-ci-dessus. Pour les militaires rappelés en Algérie, cette durée est fixée à
-quatre mois.
+Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans
+plusieurs des pays mentionnés au premier alinéa est reconnue équivalente à la
+participation aux actions de feu ou de combat exigée au cinquième alinéa.

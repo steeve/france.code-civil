@@ -31,6 +31,19 @@ les denrées alimentaires dans lesquelles des polyols, autorisés en application
 du décret du 18 septembre 1989 précité, ont été incorporés à un taux supérieur à
 10 % ;
 
-7° Les autres mentions obligatoires prévues, le cas échéant, par les autres
+7° La mention "teneur élevée en caféine", pour les boissons destinées à être
+consommées en l'état ou après reconstitution du produit concentré ou déshydraté,
+lorsque ces boissons contiennent de la caféine, quelle qu'en soit la source,
+dans une proportion supérieure à 150 milligrammes par litre. Cette mention
+figure dans le même champ visuel que la dénomination de vente. Elle est suivie
+de l'indication, entre parenthèses, de la teneur en caféine exprimée en
+milligrammes par 100 millilitres et doit remplir les conditions prévues à
+l'article R. 112-8.
+
+Toutefois, cette mention et cette indication ne sont pas applicables aux
+boissons à base de café, de thé, ou d'extrait de café ou de thé, dont la
+dénomination de vente comporte le terme "café" ou "thé".
+
+8° Les autres mentions obligatoires prévues, le cas échéant, par les autres
 dispositions réglementaires relatives à certaines denrées alimentaires
 déterminées.

@@ -15,7 +15,7 @@ Les caisses comprennent obligatoirement les sections suivantes :
 
 2° Prestations familiales ;
 
-3° Assurance vieillesse et assurance veuvage des non-salariés ;
+3° Assurance vieillesse des non-salariés ;
 
 4° Assurance maladie, invalidité et maternité des non-salariés.
 

@@ -2,7 +2,7 @@ Article L741-9
 ----
 Les ressources des assurances sociales des salariés agricoles sont constituées :
 
-I. - Pour l'assurance maladie, maternité, invalidité et décès :
+I.-Pour l'assurance maladie, maternité, invalidité et décès :
 
 1° Par une cotisation assise :
 
@@ -21,13 +21,10 @@ c) Sur les allocations et revenus de remplacement mentionnés à l'article L.
 articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de la sécurité
 sociale.
 
-II. - Pour l'assurance vieillesse, par une cotisation assise :
+II.-Pour l'assurance vieillesse, par une cotisation assise :
 
 a) Sur les rémunérations ou gains perçus par les assurés dans la limite d'un
 plafond, à la charge des employeurs et des assurés ;
 
 b) Sur la totalité des rémunérations ou gains perçus par les assurés, à la
-charge des employeurs ;
-
-III. - Pour l'assurance veuvage, par une cotisation assise sur les rémunérations
-ou gains perçus par les assurés, à la charge de ces derniers.
+charge des employeurs et des salariés.

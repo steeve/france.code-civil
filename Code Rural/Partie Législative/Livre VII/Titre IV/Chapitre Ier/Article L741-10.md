@@ -41,9 +41,9 @@ de la sécurité sociale :
 
 1° Dans des limites fixées par décret, pour les contributions au financement
 d'opérations de retraite déterminées par décret ; l'abondement de l'employeur à
-un plan partenarial d'épargne salariale volontaire pour la retraite exonéré aux
-termes du deuxième alinéa de l'article L. 443-8 du code du travail est pris en
-compte pour l'application de ces limites ;
+un plan d'épargne pour la retraite collectif exonéré aux termes du deuxième
+alinéa de l'article L. 443-8 du code du travail est pris en compte pour
+l'application de ces limites ;
 
 2° Dans des limites fixées par décret, pour les contributions au financement de
 prestations complémentaires de prévoyance.

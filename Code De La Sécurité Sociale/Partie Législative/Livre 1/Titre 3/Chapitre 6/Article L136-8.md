@@ -20,10 +20,12 @@ seuils déterminés en application des dispositions des I et III du même articl
 IV. - Le produit des contributions mentionnées au I est versé à la Caisse
 nationale des allocations familiales pour la part correspondant à un taux de 1,1
 p. 100 au fonds institué par l'article L. 135-1 pour la part correspondant à un
-taux de 1,05 %, au fonds institué par l'article L. 232-21 du code de l'action
-sociale et des familles pour la part correspondant à un taux de 0,1 % et, dans
-les conditions fixées à l'article L. 139-1, aux régimes obligatoires d'assurance
-maladie pour la part correspondant à un taux de 5,25 % pour les revenus visés au
-I, de 3,95 % pour les revenus visés au II ou de 3,8 % pour les revenus visés au
-III. Le produit des contributions visées au III de l'article L. 136-7-1 est
-réparti au prorata des taux visés dans le présent paragraphe.
+taux de 1,05 %, à la Caisse nationale de solidarité pour l'autonomie instituée
+par la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie
+des personnes âgées et des personnes handicapées pour la part correspondant à un
+taux de 0,1 % et, dans les conditions fixées à l'article L. 139-1, aux régimes
+obligatoires d'assurance maladie pour la part correspondant à un taux de 5,25 %
+pour les revenus visés au I, de 3,95 % pour les revenus visés au II ou de 3,8 %
+pour les revenus visés au III. Le produit des contributions visées au III de
+l'article L. 136-7-1 est réparti au prorata des taux visés dans le présent
+paragraphe.

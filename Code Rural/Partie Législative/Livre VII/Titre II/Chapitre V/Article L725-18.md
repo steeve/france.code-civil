@@ -1,7 +1,6 @@
 Article L725-18
 ----
-Sont applicables à l'assurance vieillesse et à l'assurance veuvage des
-non-salariés :
+Sont applicables à l'assurance vieillesse des non-salariés :
 
 1° Les dispositions de la législation en matière d'assurances sociales des
 salariés agricoles relatives aux exemptions fiscales, à l'incessibilité et à
