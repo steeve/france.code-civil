@@ -12,7 +12,8 @@ de la dotation attribuée au bénéficiaire.
 
 Le préfet prend notamment en compte :
 
-1° Le montant du revenu prévisionnel ;
+1° Le montant du revenu prévisionnel ainsi que la proportion de ce revenu tirée
+des activités de production agricole ;
 
 2° Les handicaps rencontrés par les candidats réalisant une réinsertion
 professionnelle en agriculture ;

@@ -11,12 +11,16 @@ appui technique ou de gestion.
 
 La commission départementale d'orientation de l'agriculture émet, au vu des
 résultats obtenus, un avis sur l'attribution du second versement de la dotation
-d'installation. Peut être exclu par le préfet du second versement de la
-dotation, le candidat qui n'a pas satisfait aux conditions de revenus minima et
-maxima fixées aux articles R. 343-5, R. 343-6 et R. 343-12, sous réserve de la
-prise en compte d'événements conjoncturels ayant affecté l'exploitation, ou qui
-n'accepte pas l'appui technique ou de gestion que l'examen des difficultés
-rencontrées par lui amène à lui prescrire.
+d'installation. Sous réserve de la prise en compte d'événements conjoncturels
+ayant affecté l'exploitation, le préfet peut refuser le second versement de la
+dotation lorsque le bénéficiaire n'a pas satisfait aux conditions de revenu
+minimum fixées aux articles R. 343-5 et R. 343-6 ou lorsqu'il n'accepte pas
+l'appui technique ou de gestion que les difficultés qu'il a rencontrées dans son
+exploitation ont conduit à lui prescrire.
+
+Est exclu du bénéfice du second versement de la dotation d'installation le
+candidat dont le revenu disponible est supérieur à celui mentionné à l'article
+R. 343-12.
 
 Si le bénéficiaire des aides ne respecte pas les engagements mentionnés aux 5°,
 6° et 7° de l'article R. 343-5 ou, pour les exploitants qui ne sont pas

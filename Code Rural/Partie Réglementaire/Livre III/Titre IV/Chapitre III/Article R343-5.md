@@ -43,11 +43,11 @@ La définition du revenu brut d'exploitation susmentionnée est celle retenue pa
 la commission des comptes de l'agriculture de la nation créée par le décret n°
 64-112 du 6 février 1964.
 
-Il peut être tenu compte pour le calcul du revenu disponible de l'agriculteur à
-titre principal, dans la limite de 20 p. 100 du revenu de référence national, du
-revenu tiré des activités, touristiques ou autres, qui sont dans le prolongement
-de l'acte de production ou qui ont pour support l'exploitation, ainsi que des
-revnus provenant d'activités d'entretien de l'espace effectuées hors de
+Il est tenu compte pour le calcul du revenu disponible des revenus tirés des
+activités complémentaires aux activités de production agricole précisées au 5°
+du présent article. Peuvent également être pris en compte pour le calcul du
+revenu disponible, dans la limite de 20 p. 100 du revenu de référence national,
+les revenus provenant d'activités d'entretien de l'espace effectuées hors de
 l'exploitation dans le cadre d'un contrat, à l'exception de celles qui sont
 exercées au profit de personnes physiques ou de personnes morales à but
 lucratif.
@@ -76,13 +76,18 @@ cas de cultures pérennes, et pendant dix ans, la profession d'agriculteur à
 titre principal en qualité de chef d'exploitation sur un fonds répondant aux
 conditions fixées par la présente section.
 
-Est considéré comme agriculteur à titre principal l'exploitant qui consacre à
-son activité agricole plus de 50 p. 100 de son temps de travail et en retire au
-moins 50 p. 100 de ses revenus. Est réputé remplir cette condition l'exploitant
-agricole qui perçoit les prestations d'assurance maladie du régime de protection
-sociale des personnes non salariées des professions agricoles et dont les
-revenus qui ne sont pas tirés d'activités professionnelles n'excèdent pas un
-montant fixé par arrêté du ministre de l'agriculture ;
+Est considéré comme agriculteur à titre principal l'exploitant qui consacre plus
+de 50 p. 100 de son temps de travail et retire au moins 50 p. 100 de son revenu
+global des activités de production agricole et forestière ainsi que des
+activités, touristiques ou autres, qui sont dans le prolongement de l'acte de
+production agricole ou forestière et qui ont pour support l'exploitation ; la
+part de revenu provenant directement de l'activité de production agricole sur
+l'exploitation ne peut toutefois être inférieure à 25 p. 100 du revenu global de
+l'exploitant. Est réputé remplir cette condition l'exploitant agricole qui
+perçoit les prestations d'assurance maladie du régime de protection sociale des
+personnes non salariées des professions agricoles et dont les revenus qui ne
+sont pas tirés d'activités professionnelles n'excèdent pas un montant fixé par
+arrêté du ministre de l'agriculture ;
 
 6° S'engager à tenir, pendant la même période, une comptabilité de gestion de
 son exploitation correspondant aux normes du plan comptable général agricole.

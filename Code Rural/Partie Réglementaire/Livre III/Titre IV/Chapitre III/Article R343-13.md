@@ -1,10 +1,11 @@
 Article R343-13
 ----
-Les prêts à moyen terme spéciaux réservés aux jeunes agriculteurs ont pour objet
-de financer les dépenses à effectuer lors de la première installation, notamment
-pour la reprise totale ou partielle d'une exploitation, sa mise en état et son
-adaptation et, le cas échéant, le paiement des soultes de partage. Ils sont
-exclusivement destinés :
+Les prêts à moyen terme spéciaux réservés aux jeunes agriculteurs sont
+exclusivement destinés au financement des dépenses affectées aux activités de
+production agricole. Ils ont pour objet de financer les dépenses à effectuer
+lors de la première installation, notamment pour la reprise totale ou partielle
+d'une exploitation, sa mise en état et son adaptation et, le cas échéant, le
+paiement des soultes de partage. Ils sont exclusivement destinés :
 
 1° Au financement nécessaire à la reprise du capital mobilier et immobilier, y
 compris, dans la limite d'un montant maximum, les acquisitions de fonds de
