@@ -1,35 +1,18 @@
 Article 741 bis
 ----
-I. Il est institué une taxe additionnelle au droit de bail prévu par l'article
+I. Il est institué une taxe additionnelle au droit de bail prévu à l'article
 736.
 
-Cette taxe est applicable [*champ d'application*] :
+Cette taxe est applicable aux locaux loués situés dans des immeubles achevés
+depuis quinze ans au moins au premier jour de la période d'imposition (1).
 
-1° Aux locaux loués affectés à usage d'habitation ou à l'exercice d'une
-profession et compris dans des immeubles achevés avant le 1er septembre 1948 ;
-
-2° Aux locaux loués à usage commercial situés dans des immeubles comportant, à
-concurrence de la moitié au moins de leur superficie totale, des locaux soumis à
-la taxe en vertu du 1° ;
-
-3° Aux locaux situés dans des immeubles achevés avant le 1er septembre 1948 qui,
-affectés à usage d'habitation, sont transformés en locaux à usage commercial
-postérieurement à la publication de la loi n° 70-1283 du 31 décembre 1970.
-
-I bis. La taxe additionnelle au droit de bail prévue au I est étendue :
-
-1° Aux locaux mentionnés aux 1° et 2° du I lorsqu'ils sont compris dans les
-immeubles achevés entre le 1er septembre 1948 et le 31 décembre 1975 ;
-
-2° Aux locaux situés dans les mêmes immeubles et qui, affectés à usage
-d'habitation, sont transformés en locaux à usage commercial postérieurement à la
-promulgation de la loi n° 80-30 du 18 janvier 1980.
+I bis. (Abrogé).
 
 I ter. La taxe additionnelle au droit de bail est également applicable aux
-locaux mentionnés aux I et I bis, aux taux prévus au III, lorsque ces locaux ont
-fait l'objet de travaux d'agrandissement, de construction ou de reconstruction
-au sens du b du 1° du I de l'article 31 financés avec le concours de l'agence
-nationale pour l'amélioration de l'habitat.
+locaux mentionnés au I lorsque ces locaux ont fait l'objet de travaux
+d'agrandissement, de construction ou de reconstruction au sens du b du 1° du I
+de l'article 31 financés avec le concours de l'agence nationale pour
+l'amélioration de l'habitat.
 
 II. En sont exonérés :
 
@@ -49,11 +32,8 @@ aux filiales immobilières de la caisse des dépôts et consignations en leur
 qualité de bailleurs sociaux institutionnels, ainsi que ceux appartenant aux
 houillères de bassin .
 
-III. La taxe additionnelle au droit de bail est due :
-
-- au taux uniforme de 3,50 % pour les locaux mentionnés au I ;
-
-- au taux de 0,50 % pour les locaux mentionnés au I bis (1).
+III. Le taux de la taxe additionnelle au droit de bail est fixé à 2,5 p. 100
+(1).
 
 IV. La taxe est soumise aux règles concernant l'exigibilité, l'assiette, la
 liquidation et le recouvrement du droit auquel elle s'ajoute, ainsi qu'à celles
@@ -61,5 +41,11 @@ relatives à son contrôle, aux pénalités, procédures, garanties, restitution
 prescriptions.
 
 V. La taxe est à la charge du propriétaire ou du bailleur. Toutefois,
-lorsqu'elle est due en vertu du I-2°, elle est, sauf convention contraire,
-supportée à concurrence de la moitié par le locataire [*redevable*].
+lorsqu'elle est due, au titre de locaux loués à usage commercial situés dans des
+immeubles comportant, à concurrence de la moitié au moins de leur superficie
+totale des locaux loués affectés à usage d'habitation ou à l'exercice d'une
+profession, elle est, sauf convention contraire, supportée à concurrence de la
+moitié par le locataire.
+
+(1) Ces dispositions s'appliquent aux loyers courus à compter du 1er octobre
+1991.

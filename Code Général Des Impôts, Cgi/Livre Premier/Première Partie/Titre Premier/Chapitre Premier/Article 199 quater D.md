@@ -13,4 +13,14 @@ limites, aux foyers fiscaux dont les conjoints justifient, soit de deux emplois
 à plein temps, soit d'un emploi à plein temps et d'un emploi à mi-temps, soit de
 deux emplois à mi-temps, ou ne peuvent exercer une activité professionnelle du
 fait d'une longue maladie, d'une infirmité ou de la poursuite d'études dans
-l'enseignement supérieur.
+l'enseignement supérieur (1).
+
+Les dépenses définies au premier alinéa s'entendent des sommes versées à une
+assistante maternelle mentionnée à l'article 80 sexies ou à un établissement de
+garde répondant aux conditions prévues à l'article L. 180 du code de la santé
+publique (2).
+
+(1) Le chiffre de 15.000 F s'applique à partir de l'imposition des revenus de
+1989.
+
+(2) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1992.
