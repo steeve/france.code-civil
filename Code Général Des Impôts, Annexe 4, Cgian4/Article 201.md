@@ -1,8 +1,6 @@
 Article 201
 ----
-Les chèques doivent être émis ou endossés à l'ordre du comptable intéressé sans
-mention du nom personnel de ce comptable et barré en inscrivant entre les deux
-barres les mots : " Banque de France ".
+Les chèques doivent être émis à l'ordre du Trésor public et barrés.
 
-Faute de se conformer à ces prescriptions les redevables s'exposent aux
+Faute de se conformer à cette prescription, les contribuables s'exposent aux
 conséquences de droit qui peuvent résulter d'un encaissement frauduleux.

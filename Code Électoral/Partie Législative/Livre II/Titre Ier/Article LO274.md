@@ -1,3 +1,3 @@
 Article LO274
 ----
-Le nombre des sénateurs est de trois cent seize pour les départements.
+Le nombre de sénateurs élus dans les départements est de trois cent quatre.
