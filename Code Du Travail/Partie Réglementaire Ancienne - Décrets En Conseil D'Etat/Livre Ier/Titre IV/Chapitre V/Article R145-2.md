@@ -3,26 +3,24 @@ Article R145-2
 Les proportions dans lesquelles les rémunérations annuelles visées à l'article
 L. 145-2 sont saisissables ou cessibles sont fixées comme suit :
 
-- au vingtième, sur la tranche inférieure ou égale à 17 400 F ;
+Au vingtième, sur la tranche inférieure ou égale à 18 000 F ;
 
-- au dixième, sur la tranche supérieure à 17 400 F, inférieure ou égale à 34 700
+Au dixième, sur la tranche supérieure à 18 000 F, inférieure ou égale à 35 900 F
+;
+
+Au cinquième, sur la tranche supérieure à 35 900 F, inférieure ou égale à 53 900
 F ;
 
-- au cinquième, sur la tranche supérieure à 34 700 F, inférieure ou égale à 52
-100 F ;
+Au quart, sur la tranche supérieure à 53 900 F, inférieure ou égale à 71 700 F ;
 
-- au quart, sur la tranche supérieure à 52 100 F, inférieure ou égale à 69 400 F
-;
+Au tiers, sur la tranche supérieure à 71 700 F, inférieure ou égale à 89 600 F ;
 
-- au tiers, sur la tranche supérieure à 69 400 F, inférieure ou égale à 86 700 F
-;
+Aux deux tiers, sur la tranche supérieure à 89 600 F, inférieure ou égale à 107
+600 F ;
 
-- aux deux tiers, sur la tranche supérieure à 86 700 F, inférieure ou égale à
-104 100 F ;
+A la totalité, sur la tranche supérieure à 107 600 F.
 
-- à la totalité, sur la tranche supérieure à 104 100 F.
-
-Les seuils déterminés ci-dessus sont augmentés d'un montant de 6 200 F par
+Les seuils déterminés ci-dessus sont augmentés d'un montant de 6 500 F par
 personne à la charge du débiteur saisi ou du cédant, sur justification présentée
 par l'intéressé.
 
