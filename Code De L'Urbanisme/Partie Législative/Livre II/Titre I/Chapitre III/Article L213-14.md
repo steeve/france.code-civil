@@ -4,8 +4,7 @@ En cas d'acquisition d'un bien par voie de préemption, le prix du bien devra
 être réglé par le titulaire du droit de préemption dans les six mois qui suivent
 soit la décision d'acquérir le bien au prix indiqué par le vendeur ou accepté
 par lui, soit la décision définitive de la juridiction compétente en matière
-d'expropriation, soit la date de l'acte ou du jugement d'adjudication [*délai de
-paiement, point de départ*].
+d'expropriation, soit la date de l'acte ou du jugement d'adjudication.
 
 En l'absence de paiement ou, s'il y a obstacle au paiement, de consignation de
 la somme due à l'expiration du délai prévu à l'alinéa précédent, le titulaire du

@@ -13,14 +13,15 @@ les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
 président de l'établissement public peut recueillir l'avis de tout organisme ou
 association ayant compétence en matière de construction, d'aménagement ou
 d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier
-est consultée à l'initiative du maire dans toute commune où est décidée
-l'élaboration d'un plan d'occupation des sols.
+[*attributions*] est consultée à l'initiative du maire dans toute commune où est
+décidée l'élaboration d'un plan d'occupation des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols,
 le représentant de l'Etat porte à la connaissance de la commune ou de
 l'établissement public compétent les prescriptions, servitudes et dispositions
-mentionnées au dernier alinéa de l'article L. 123-1, et lui communique toute
-autre information qu'il juge utile à l'élaboration du plan.
+mentionnées au dernier alinéa de l'article L. 123-1, précise les objectifs
+minima à atteindre en matière de politique locale de l'habitat et lui communique
+toute autre information qu'il juge utile à l'élaboration du plan.
 
 Le conseil municipal ou l'organe délibérant de l'établissement public compétent
 arrête le projet de plan d'occupation des sols. Celui-ci est alors soumis pour

@@ -12,4 +12,4 @@ titulaire du droit de préemption.
 
 L'action en dommages-intérêts se prescrit par cinq ans à compter de la mention
 de l'affectation ou de l'aliénation du bien au registre institué en application
-de l'article L. 213-13 [*délai de prescription*].
+de l'article L. 213-13.

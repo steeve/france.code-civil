@@ -2,14 +2,15 @@ Article L211-1
 ----
 Les communes dotées d'un plan d'occupation des sols rendu public ou approuvé
 peuvent, par délibération, instituer un droit de préemption urbain sur tout ou
-partie des zones urbaines et des zones d'urbanisation futures délémitées par ce
+partie des zones urbaines et des zones d'urbanisation future délémitées par ce
 plan ainsi que sur tout ou partie de leur territoire couvert par un plan
 d'aménagement de zone approuvé en application de l'article L.311-4 ou par un
 plan de sauvegarde et de mise en valeur rendu public ou approuvé en application
-de l'article L.313-1.
+de l'article L.313-1 lorsqu'il n'a pas été créé de zone d'aménagement différé ou
+de périmètre provisoire de zone d'aménagement différé sur ces territoires.
 
 Ce droit de préemption est ouvert à la commune. Le conseil municipal peut
-décider de le supprimer sur tout ou partie des zones considéres. Il peut
+décider de le supprimer sur tout ou partie des zones considérées. Il peut
 ultérieurement le rétablir dans les mêmes conditions.
 
 Lorsqu'un lotissement a été autorisé ou une zone d'aménagement concerté créée,

@@ -51,4 +51,7 @@ et des syndicats mixtes ;
 des bénéficiaires d'autorisations de construire en vertu des dispositions de
 l'article L. 332-9 du code de l'urbanisme.
 
+17. La participation à la diversité de l'habitat prévue à l'article L. 332-17 du
+code de l'urbanisme.
+
 (1) Voir également l'article 1609 bis du code général des impôts.

@@ -8,9 +8,10 @@ si, dans ce délai, celui-ci a notifié à la commune les modifications qu'il
 estime nécessaire d'apporter à ce plan, lorsque certaines de ses dispositions
 sont illégales, de nature à compromettre la réalisation d'un schéma directeur,
 d'un schéma de secteur ou d'un schéma de mise en valeur de la mer en cours
-d'établissement, insuffisantes pour permettre la maîtrise de l'urbanisation
-future, ou ont fait apparaître des incompatibilités manifestes avec
-l'utilisation ou l'affectation des sols des communes voisines.
+d'établissement, insuffisantes pour satisfaire les besoins en matière d'habitat
+ou pour permettre la maîtrise de l'urbanisation future, ou ont fait apparaître
+des incompatibilités manifestes avec l'utilisation ou l'affectation des sols des
+communes voisines.
 
 Les dispositions du plan d'occupation des sols rendu public ou approuvé ou sa
 modification sont inopposables aux tiers tant que la commune ou l'établissement

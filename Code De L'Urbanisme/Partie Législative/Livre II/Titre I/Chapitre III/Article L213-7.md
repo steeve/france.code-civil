@@ -9,6 +9,6 @@ sur le prix.
 En cas de fixation judiciaire du prix, et pendant un délai de deux mois après
 que la décision juridictionnelle est devenue définitive, les parties peuvent
 accepter le prix fixé par la juridiction ou renoncer à la mutation. Le silence
-des parties dans ce délai vaut acceptation du prix fixé par le juge et le
-transfert de propriété, à l'issue de ce délai, au profit du titulaire du droit
-de préemption.
+des parties dans ce délai vaut acceptation du prix fixé par le juge et transfert
+de propriété, à l'issue de ce délai, au profit du titulaire du droit de
+préemption.

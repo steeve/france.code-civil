@@ -8,17 +8,25 @@ Le prix est fixé, payé ou, le cas échéant, consigné selon les règles appli
 en matière d'expropriation. Toutefois, dans ce cas :
 
 a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation
-pour cause d'utilité publique est soit la date à laquelle est devenu opposable
-aux tiers le plus récent des actes rendant public, approuvant, révisant ou
-modifiant le plan d'occupation des sols et délimitant la zone dans laquelle est
-situé le bien, soit, en l'absence d'un tel document, un an avant la publication
-de l'acte créant la zone d'aménagement différé ;
+pour cause d'utilité publique est la date à laquelle est devenu opposable aux
+tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant
+le plan d'occupation des sols et délimitant la zone dans laquelle est situé le
+bien.
+
+En l'absence d'un tel document, cette date de référence est :
+
+- un an avant la publication de l'acte délimitant le périmètre provisoire de
+zone d'aménagement différé, lorsque le bien est situé dans un tel périmètre ou
+lorsque l'acte créant la zone est publié dans le délai de validité d'un
+périmètre provisoire ;
+
+- un an avant la publication de l'acte créant la zone d'aménagement différé.
 
 b) Les améliorations, les transformations ou les changements d'affectation
 opérés par le propriétaire postérieurement à la date mentionnée au a) ci-dessus
 ne sont pas présumés revêtir un caractère spéculatif ;
 
-c) A défaut de transactions amiables constituant des références suffisantes poru
+c) A défaut de transactions amiables constituant des références suffisantes pour
 l'évaluation du bien dans la même zone, il pourra être tenu compte des mutations
 et accords amiables intervenus pour des biens de même qualification situés dans
 des zones comparables.
