@@ -14,10 +14,10 @@ d'entreprise ainsi qu'aux rachats de parts de tels fonds ;
 de placement sous réserve qu'aucune personne physique agissant directement ou
 par personne interposée ne possède plus de 10 % des parts du fonds ;
 
-4° A la cession des titres acquis dans le cadre des législations sur la
-participation des travailleurs aux fruits de l'expansion des entreprises et sur
-l'actionnariat dans les entreprises, à la condition que ces titres revêtent la
-forme nominative et comportent la mention d'origine ;
+4° A la cession des titres acquis dans le cadre de la législation sur la
+participation des salariés aux résultats de l'entreprise et sur l'actionnariat
+des salariés, à la condition que ces titres revêtent la forme nominative et
+comportent la mention d'origine.
 
 5° A la cession de titres effectuée dans le cadre d'un engagement d'épargne à
 long terme lorsque les conditions fixées par l'article 163 bis A sont respectées

@@ -83,9 +83,7 @@ l'article 220 bis ;
 
 16° bis et 16 ter (Transférés sous l'article 81 ter) ;
 
-16° quater Les sommes correspondant aux actions distribuées aux salariés en
-application de la loi n° 80-834 du 24 octobre 1980 créant une distribution
-d'actions en faveur des salariés des entreprises industrielles et commerciales ;
+16° quater (Périmé).
 
 17° Les prestations de subsistance, d'équipement et de logement ainsi que
 l'indemnité forfaitaire d'entretien allouées, en application de l'article L 104
@@ -103,8 +101,13 @@ juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de p
 sociales destinées exclusivement à leurs salariés ;
 
 18° Les sommes versées par l'entreprise en application d'un plan d'épargne
-d'entreprise établi conformément aux dispositions des articles L 443-1 à L 443-7
-du code du travail ;
+d'entreprise établi conformément aux dispositions du chapitre III de
+l'ordonnance n° 86-1134 du 21 octobre 1986.
+
+18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen
+retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au
+titre de l'intéressement et affectées à la réalisation d'un plan d'épargne
+d'entreprise ;
 
 19° Dans la limite de 15 F [*montant*] par titre (2), le complément de
 rémunération résultant de la contribution de l'employeur à l'acquisition par le
