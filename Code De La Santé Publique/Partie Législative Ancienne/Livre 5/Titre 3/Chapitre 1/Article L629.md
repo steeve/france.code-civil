@@ -1,26 +1,29 @@
 Article L629
 ----
-Dans tous les cas prévus par les articles L. 627 et L. 628 [*opérations ou usage
-illicite de stupéfiants*], les tribunaux devront ordonner la confiscation des
-substances ou plantes saisies. Cette confiscation ne pourra toutefois être
-prononcée lorsque le délit aura été constaté dans une officine pharmaceutique si
-le délinquant n'est que le gérant responsable, à moins que le propriétaire de
-l'officine n'ait fait acte de complicité ou que la détention de ces substances
-ou plantes ne soit illicite.
+Dans tous les cas prévus par les articles L. 627, L. 627-2 et L. 628
+[*opérations ou usage illicite de stupéfiants*], les tribunaux devront ordonner
+la confiscation des substances ou plantes saisies. Cette confiscation ne pourra
+toutefois être prononcée lorsque le délit aura été constaté dans une officine
+pharmaceutique si le délinquant n'est que le gérant responsable, à moins que le
+propriétaire de l'officine n'ait fait acte de complicité ou que la détention de
+ces substances ou plantes ne soit illicite.
 
 Dans les cas prévus au premier alinéa et au 3° de l'article L. 627, les
 tribunaux pourront interdire au condamné l'exercice de la profession à
 l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra
 excéder cinq ans [*délai de prescription*].
 
-Dans les cas prévus par les alinéas premier et deuxième de l'article L. 627,
-seront saisis et confisqués les installations, matériels et tous biens mobiliers
-ayant servi, directement ou indirectement, à la commission de l'infraction ainsi
-que tout produit provenant de celle-ci, à quelque personne qu'ils appartiennent
-à moins que les propriétaires n'établissent leur bonne foi. Les frais
-d'enlèvement et de transport de ces installations, matériels et biens seront à
-la charge du condamné ; s'ils ont été avancés pas l'administration, ils seront
-recouvrés comme frais de justice criminelle.
+Dans les cas prévus aux premier et deuxième alinéas de l'article L. 627, seront
+saisis et confisqués les installations, matériels et tous biens ayant servi
+directement ou indirectement à la commission de l'infraction ainsi que tout
+produit provenant directement ou indirectement de celle-ci, à quelque personne
+qu'ils appartiennent et en quelque lieu qu'ils se trouvent, dès lors que leur
+propriétaire ne pouvait en ignorer l'origine ou l'utilisation frauduleuses. Ces
+mesures de saisie et de confiscation pourront être ordonnées dans les cas prévus
+par les articles L. 627, troisième alinéa, et L. 627-2. Les frais résultant des
+mesures de saisie et de confiscation seront à la charge du condamné ; s'ils ont
+été avancés par l'administration, ils seront recouvrés comme frais de justice
+criminelle.
 
 Dans les cas prévus par les premier et deuxième alinéas de l'article L. 627, les
 juridictions compétentes pourront, en outre, ordonner la confiscation de tout ou
