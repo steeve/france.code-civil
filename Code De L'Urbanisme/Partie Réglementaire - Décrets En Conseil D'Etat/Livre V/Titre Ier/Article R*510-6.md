@@ -36,15 +36,25 @@ affectés à la recherche au sens de l'article 520-1 du présent code et que ces
 locaux ou installations ont une superficie développée de plancher inférieure à
 3000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux opérations
 réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois
-précédents, n'excède pas cette superficie. 5° Lorsqu'elles portent sur des
-locaux d'enseignement supérieur et des bureaux à usage commercial,
-professionnel, administratif, technique ou scientifique et leurs annexes de
-toute nature, distincts de ceux visés au 4° ci-dessus, et que ces locaux ont une
-superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée
-ajoutée, le cas échéant, aux opérations réalisées, sans qu'un agrément fût
-nécessaire, au cours des douze mois précédents, n'excède pas cette superficie ;
+précédents, n'excède pas cette superficie.
+
+5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à
+usage commercial, professionnel, administratif, technique ou scientifique et
+leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
+ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que
+l'extension envisagée ajoutée, le cas échéant, aux opérations réalisées, sans
+qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas
+cette superficie ;
+
 6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles
 portent sur une superficie développée de plancher inférieur à 5000 m2 et
 qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à
 l'intérieur de la zone définie à l'article R. 510-1 d'une superficie de plancher
 supérieure au total à 5000 m2.
+
+" 7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de
+toute nature achevés à la date du 31 décembre 1992 ou dont la déclaration
+d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au
+plus tard à cette même date. La présente disposition n'est applicable qu'aux
+opérations d'utilisation pour lesquelles les actes juridiques dont l'utilisation
+dépend sont définitivement passés au plus tard le 31 décembre 1994. "
