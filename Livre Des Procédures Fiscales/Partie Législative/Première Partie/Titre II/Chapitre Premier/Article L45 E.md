@@ -1,12 +1,8 @@
 Article L45 E
 ----
-Les agents dépendant du ministère chargé de l'emploi sont compétents pour
-constater et contrôler les éléments servant au calcul du crédit d'impôt pour
-augmentation de la durée d'utilisation des équipements et réduction de la durée
-hebdomadaire du travail prévu à l'article 244 quater E du code général des
-impôts, ainsi que les conditions auxquelles l'octroi du crédit d'impôt est
-subordonné, sans préjudice des pouvoirs de contrôle de l'administration des
-impôts qui demeure seule compétente pour l'application des procédures de
-redressement.
-
-Un décret fixe les conditions d'application du présent article.
+Les agents mandatés par le directeur général des impôts peuvent contrôler sur le
+lieu d'exploitation le respect des conditions liées à la réalisation,
+l'affectation et la conservation des investissements productifs ayant ouvert un
+droit au bénéfice des dispositions des articles 199 undecies A, 199 undecies B,
+217 undecies et 217 duodecies du code général des impôts et prévues aux mêmes
+articles.
