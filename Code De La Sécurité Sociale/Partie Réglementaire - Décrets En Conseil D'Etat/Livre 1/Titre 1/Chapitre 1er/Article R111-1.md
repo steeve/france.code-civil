@@ -26,15 +26,10 @@ g. des unions ou fédérations de caisses ;
 h. dans les départements d'outre-mer, des caisses générales de sécurité sociale
 ;
 
-2°) en ce qui concerne le régime agricole :
-
-a. des organismes de mutualité sociale agricole ;
-
-b. une caisse centrale de secours mutuels agricoles ;
-
-c. une caisse centrale d'allocations familiales mutuelles agricoles ;
-
-d. une caisse nationale d'assurance vieillesse mutuelle agricole ;
+2°) en ce qui concerne le régime agricole, des organismes de mutualité sociale
+agricole comprenant une caisse centrale de la mutualité sociale agricole, des
+caisses départementales et pluridépartementales de mutualité sociale agricole
+ainsi que leurs associations et groupements d'intérêt économique ;
 
 3°) en ce qui concerne les régimes spéciaux à certaines branches d'activité ou
 certaines entreprises pour tout ou partie des prestations : des services et
