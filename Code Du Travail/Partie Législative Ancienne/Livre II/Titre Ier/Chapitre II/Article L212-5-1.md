@@ -1,26 +1,24 @@
 Article L212-5-1
 ----
 Les heures supplémentaires de travail visées à l'article L. 212-5 ouvrent droit
-à un repos compensateur obligatoire dont la durée est égale à 20 p. 100 du temps
-de travail accompli en heures supplémentaires au-delà de quarante-deux heures,
-dans les entreprises de plus de dix salariés [*effectif*].
+à un repos compensateur obligatoire dont la durée est égale à 50 p. 100 du temps
+de travail accompli en heures supplémentaires au-delà de quarante-deux heures
+dans les entreprises de plus de dix salariés.
+
+Lorsque les heures supplémentaires sont effectuées dans les cas énumérés à
+l'article L. 221-12, le repos compensateur obligatoire est fixé à 20 p. 100 du
+temps de travail accompli en heures supplémentaires au-delà de quarante-deux
+heures. Ces heures supplémentaires ne s'imputent pas sur le contingent annuel
+prévu à l'article L. 212-6.
 
 Les heures supplémentaires effectuées au-delà du contingent fixé par le décret
 prévu au premier alinéa de l'article L. 212-6 ouvrent droit à un repos
 compensateur obligatoire dont la durée est égale à 50 p. 100 de ces heures
 supplémentaires pour les entreprises de dix salariés au plus et à 100 p. 100
-pour les entreprises de plus de dix salariés. Dans les entreprises de plus de
-dix salariés assujetties à une convention ou à un accord collectif étendu
-prévoyant un contingent supérieur au contingent fixé par décret, le repos
-compensateur est d'une durée égale à 50 p. 100 des heures supplémentaires
-effectuées au-delà du contingent fixé par décret et à 100 p. 100 des heures
-supplémentaires effectuées au-delà du contingent prévu par la convention ou
-l'accord collectif étendu. Pour bénéficier de ces dernières dispositions, les
-branches et les entreprises concernées doivent procéder à un examen négocié de
-la nature et du niveau des emplois dans le cadre des négociations annuelles
-prévues aux articles L. 132-12 et L. 132-27. Le repos prévu au premier alinéa du
-présent article n'est pas applicable aux heures supplémentaires ayant ouvert
-droit au repos compensateur prévu au présent alinéa.
+pour les entreprises de plus de dix salariés. Le repos prévu au présent alinéa
+n'est pas applicable, dans les entreprises de plus de dix salariés, aux heures
+supplémentaires ayant ouvert droit au repos compensateur prévu au premier
+alinéa.
 
 Le repos ne peut être pris que par journée entière, chacune étant réputée
 correspondre à huit heures de repos compensateur, à la convenance du salarié, en

@@ -8,7 +8,11 @@ professionnelle, de la promotion sociale et de l'emploi et du conseil supérieur
 de l'éducation nationale.
 
 En ce qui concerne les départements du Haut-Rhin, du Bas-Rhin et de la Moselle,
-la date d'entrée en vigueur des articles L. 115-1 à L. 119-3 [*relatifs aux
-contrats conclus à partir du 1er juillet 1972*] et du présent article ainsi que
-leurs modalités particulières d'application tenant compte des circonstances
-locales, sont fixées par décret en Conseil d'Etat.
+les modalités particulières d'application des articles L. 115-1 à L. 119-3
+tenant compte des circonstances locales sont fixées par décret en Conseil
+d'Etat.
+
+Afin qu'il puisse être tenu compte de ces circonstances, les textes modifiant ou
+complétant ces articles s'appliquent dans ces départements en vertu d'un décret
+d'application spécifique qui fixe leur date d'entrée en vigueur et les modalités
+particulières de leur application.

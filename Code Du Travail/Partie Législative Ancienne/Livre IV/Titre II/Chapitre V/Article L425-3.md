@@ -11,8 +11,9 @@ d'Etat, le juge administratif a annulé une décision de l'inspecteur du travail
 ou du ministre compétent autorisant un tel licenciement.
 
 Le salarié concerné est rétabli dans ses fonctions de délégué si l'institution
-n'a pas été renouvelée. Dans le cas contraire, il bénéficie, jusqu'aux élections
-suivantes de délégués du personnel, de la procédure prévue à l'article L. 425-1.
+n'a pas été renouvelée. Dans le cas contraire, il bénéficie pendant une durée de
+six mois, à compter du jour où il retrouve sa place dans l'entreprise, de la
+procédure prévue à l'article L. 425-1.
 
 Lorsque l'annulation de la décision d'autorisation est devenue définitive, le
 délégué du personnel a droit au paiement d'une indemnité correspondant à la

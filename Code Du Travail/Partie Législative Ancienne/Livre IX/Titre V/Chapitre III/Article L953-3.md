@@ -12,11 +12,10 @@ Pour les conjoints et les membres de la famille des chefs d'exploitation ou
 d'entreprise agricoles, mentionnés à l'article 1122-1 du code rural, la
 contribution est égale au montant minimal prévu à l'alinéa précédent.
 
-Cette contribution est directement recouvrée et contrôlée par les caisses de la
-mutualité sociale agricole dans les conditions prévues par les décrets n°
-50-1225 du 21 septembre 1950, n° 76-1282 du 29 décembre 1976, n° 80-480 du 27
-juin 1980 et n° 84-936 du 22 octobre 1984 dans leur rédaction en vigueur à la
-date du 1er décembre 1991.
+Cette contribution est directement recouvrée en une seule fois et contrôlée par
+les caisses de mutualité sociale agricole, selon les règles et sous les
+garanties et sanctions applicables au recouvrement des cotisations dues au titre
+des régimes de protection sociale agricole.
 
 Les caisses de mutualité sociale agricole reversent le montant de leur collecte
 à un fonds d'assurance formation habilité à cet effet par l'Etat, dans les

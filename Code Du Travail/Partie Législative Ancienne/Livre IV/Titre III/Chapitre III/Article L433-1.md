@@ -4,9 +4,11 @@ Le comité d'entreprise [*composition*] comprend le chef d'entreprise ou son
 représentant et une délégation du personnel comportant un nombre de membres fixé
 par décret en Conseil d'Etat compte tenu du nombre des salariés. Cette
 délégation comporte un nombre égal de titulaires et de suppléants. Les
-suppléants assistent aux séances avec voix consultative. [*complété par la loi
-575 :*] Le calcul des effectifs s'effectue dans les conditions prévues à
-l'article L. 431-2 du présent code.
+suppléants assistent aux séances avec voix consultative. Le calcul des effectifs
+s'effectue dans les conditions prévues à l'article L. 431-2 du présent code.
+
+Le chef d'entreprise ou son représentant peut se faire assister par deux
+collaborateurs.
 
 Le nombre de membres peut être augmenté par voie de convention collective ou
 d'accord entre le chef d'entreprise et les organisations syndicales reconnues

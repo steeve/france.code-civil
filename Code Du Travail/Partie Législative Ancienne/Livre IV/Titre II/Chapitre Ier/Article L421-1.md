@@ -12,12 +12,12 @@ La mise en place des délégués du personnel n'est obligatoire que si l'effecti
 d'au moins onze salariés est atteint pendant douze mois, consécutifs ou non, au
 cours des trois années précédentes.
 
-A l'expiration du mandat annuel des délégués du personnel, l'institution n'est
-pas renouvelée si les effectifs de l'établissement sont restés en dessous de
-onze salariés pendant au moins six mois. Dans ce cas, le renouvellement
-intervient dès que les conditions d'effectifs prévues à l'alinéa précédent sont
-à nouveau remplies, la période de trois ans étant toutefois calculée à partir du
-début du dernier mandat des délégués du personnel.
+A l'expiration du mandat des délégués du personnel, l'institution n'est pas
+renouvelée si les effectifs de l'établissement sont restés en dessous de onze
+salariés pendant au moins douze mois. Dans ce cas, le renouvellement intervient
+dès que les conditions d'effectifs prévues à l'alinéa précédent sont à nouveau
+remplies, la période de trois ans étant calculée à partir de la fin du dernier
+mandat des délégués du personnel.
 
 Dans les établissements employant moins de onze salariés, des délégués du
 personnel peuvent être institués par voie conventionnelle.

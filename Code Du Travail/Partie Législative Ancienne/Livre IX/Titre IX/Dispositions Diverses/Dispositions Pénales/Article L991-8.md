@@ -1,8 +1,7 @@
 Article L991-8
 ----
 Les contrôles prévus au présent chapitre peuvent être opérés soit sur place,
-soit sur pièces. Les contrôles sur place sont précédés d'un avis adressé à
-l'intéressé dans un délai de quinze jours avant la date prévue pour le contrôle.
+soit sur pièces.
 
 Les résultats du contrôle sont notifiés à l'intéressé dans un délai ne pouvant
 dépasser trois mois à compter de la fin de la période d'instruction avec

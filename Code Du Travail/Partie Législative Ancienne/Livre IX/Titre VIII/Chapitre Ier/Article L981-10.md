@@ -1,9 +1,9 @@
 Article L981-10
 ----
 Les jeunes titulaires des contrats de travail prévus aux articles L. 981-1, L.
-981-6 et L. 981-7 bénéficient de l'ensemble des dispositions applicables aux
-autres salariés dans la mesure où elles ne sont pas incompatibles avec leur
-situation de jeunes en formation.
+981-6, L. 981-7 et L. 981-9-1 bénéficient de l'ensemble des dispositions
+applicables aux autres salariés dans la mesure où elles ne sont pas
+incompatibles avec leur situation de jeunes en formation.
 
 En particulier, la durée du travail du salarié, incluant le temps passé en
 formation, ne peut excéder la durée normale hebdomadaire du travail dans

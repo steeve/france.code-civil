@@ -1,7 +1,7 @@
 Article L423-18
 ----
 Dans toute entreprise ou organisme mentionné à l'article L. 421-1, le chef
-d'entreprise doit chaque année informer le personnel par affichage de
+d'entreprise doit informer tous les deux ans le personnel par affichage de
 l'organisation des élections en vue de la désignation des délégués du personnel.
 Le document affiché précise la date envisagée pour le premier tour de ces
 élections qui doit se placer au plus tard le quarante-cinquième jour suivant
@@ -24,5 +24,5 @@ dans le mois suivant la réception de ladite demande.
 Lorsque l'institution n'a pas été mise en place ou renouvelée, un procès-verbal
 de carence est établi par le chef d'entreprise ; celui-ci l'affiche dans
 l'entreprise et le transmet dans les quinze jours [*délai*] à l'inspecteur du
-travail qui en envoie, chaque année, copie aux organisations syndicales de
-salariés du département concerné.
+travail qui en envoie copie aux organisations syndicales de salariés du
+département concerné.

@@ -29,7 +29,11 @@ dispensaires, maisons de santé, pharmacies ;
 12. Entreprises de transport par terre autres que les chemins de fer ;
 entreprises de transport et de travail aériens ;
 
-13. Entreprises d'émission et de réception de télégraphie sans fil.
+13. Entreprises d'émission et de réception de télégraphie sans fil ;
+
+14. Espaces de présentation et d'exposition permanente dont l'activité est
+exclusive de toute vente au public, réservés aux producteurs, revendeurs ou
+prestataires de services.
 
 Un décret en Conseil d'Etat énumère les autres catégories d'établissements qui
 peuvent bénéficier du droit de donner le repos hebdomadaire par roulement.

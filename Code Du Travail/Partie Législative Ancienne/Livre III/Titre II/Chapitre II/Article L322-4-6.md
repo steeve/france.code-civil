@@ -33,3 +33,7 @@ autres bénéficiaires.
 
 L'exonération est subordonnée à la production d'une attestation des services du
 ministère chargé de l'emploi [*formalités*].
+
+Les durées de dix-huit mois et neuf mois prévues aux 2° et 3° ci-dessus sont
+portées respectivement à vingt-quatre mois et à douze mois pour les contrats de
+retour à l'emploi conclus à partir du 1er juillet 1994.

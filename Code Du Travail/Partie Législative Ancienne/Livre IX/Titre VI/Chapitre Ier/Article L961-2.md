@@ -25,7 +25,8 @@ institutions mentionnées à l'article L. 351-21 ou à l'Association nationale p
 la formation professionnelle des adultes.
 
 Le même décret détermine les mesures d'adaptation nécessaires à l'application
-des règles de l'alinéa précédent au cas des stagiaires à temps partiel.
+des règles de l'alinéa précédent au cas des stagiaires à temps partiel et des
+stagiaires suivant un enseignement à distance.
 
 L'Etat et les régions peuvent participer, en outre, dans les conditions prévues
 à l'article L. 931-11, à la rémunération des stagiaires bénéficiant d'un congé

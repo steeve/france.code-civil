@@ -1,6 +1,7 @@
 Article L423-16
 ----
-Les délégués sont élus pour un an [*durée du mandat*] et rééligibles.
+Les délégués du personnel sont élus pour deux ans [*durée du mandat*] et
+rééligibles.
 
 Leurs fonctions prennent fin par le décès, la démission, la résiliation du
 contrat de travail ou la perte des conditions requises pour l'éligibilité. Ils

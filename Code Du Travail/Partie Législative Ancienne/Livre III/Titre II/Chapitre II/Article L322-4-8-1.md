@@ -31,5 +31,13 @@ allocations familiales, pendant la durée de la convention. Toutefois, les
 cotisations afférentes à la partie de la rémunération qui excède un montant fixé
 par décret ne donnent pas lieu à exonération.
 
+Elles ouvrent également droit à l'exonération de la taxe sur les salaires, de la
+taxe d'apprentissage et des participations dues par les employeurs au titre de
+la formation professionnelle et de l'effort de construction.
+
+L'Etat peut également prendre en charge tout ou partie des frais engagés au
+titre des actions de formation professionnelle destinées aux personnes recrutées
+à l'issue d'un contrat emploi-solidarité, dans des conditions fixées par décret.
+
 Les aides et les exonérations prévues par le présent article ne peuvent être
 cumulées avec une autre aide de l'Etat à l'emploi.

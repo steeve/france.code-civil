@@ -11,13 +11,24 @@ comme équivalente donnent lieu à une majoration de salaire fixée comme suit
 50 p. 100 pour les heures suivantes.
 
 Une convention ou un accord collectif étendu ou une convention ou un accord
-d'entreprise ou d'établissement soumis aux dispositions de l'article L. 212-9
-peut, par dérogation aux dispositions de l'alinéa précédent, sans préjudice des
-dispositions de l'article L. 212-5-1, remplacer le paiement des heures
-supplémentaires par un repos compensateur de 125 p. 100 pour les huit premières
-heures et de 150 p. 100 pour les heures suivantes ; pour l'attribution de ce
-repos, la convention ou l'accord peut déroger aux règles fixées par l'article L.
-212-5-1.
+d'entreprise ou d'établissement peut, sans préjudice des dispositions de
+l'article L. 212-5-1, prévoir le remplacement de tout ou partie du paiement des
+heures supplémentaires et des majorations y afférentes par un repos compensateur
+équivalent.
+
+Dans les entreprises non assujetties à l'obligation visée par l'article L.
+132-27, ce remplacement est subordonné, en l'absence de convention ou d'accord
+collectif étendu, à l'absence d'opposition du comité d'entreprise ou, à défaut,
+des délégués du personnel.
+
+La convention ou l'accord d'entreprise ou le texte soumis à l'avis du comité
+d'entreprise ou des délégués du personnel mentionnés aux deux alinéas précédents
+peuvent adapter les conditions et les modalités d'attribution et de prise du
+repos compensateur à l'entreprise. Ils peuvent déroger aux règles fixées par les
+deux premières phrases du quatrième alinéa de l'article L. 212-5-1. Les heures
+supplémentaires dont le paiement aura été remplacé par un repos compensateur ne
+s'imputent pas sur le contingent annuel d'heures supplémentaires prévu à
+l'article L. 212-6.
 
 Les heures supplémentaires se décomptent par semaine civile.
 

@@ -18,9 +18,9 @@ collectif étendu.
 
 Les conventions ou accords prévus à l'alinéa précédent doivent accorder une
 contrepartie aux salariés consistant en une réduction de la durée du travail
-effectif ou en toute autre contrepartie, notamment financière ou de temps de
-formation, laissée à l'appréciation des signataires de la convention ou de
-l'accord.
+effectif ou en toute autre contrepartie, notamment financière, de temps de
+formation ou d'emploi, laissée à l'appréciation des signataires de la convention
+ou de l'accord.
 
 Les heures effectuées au-delà de la limite fixée par les conventions ou les
 accords sont des heures supplémentaires soumises aux dispositions des articles
