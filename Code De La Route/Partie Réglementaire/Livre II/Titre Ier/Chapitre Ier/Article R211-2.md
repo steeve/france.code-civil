@@ -1,20 +1,17 @@
 Article R211-2
 ----
-Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans et être
-titulaire du brevet de sécurité routière s'il n'a pas atteint l'âge de seize
+I. - Tout conducteur de cyclomoteur doit être âgé d'au moins quatorze ans.
+
+II. - Tout conducteur de cyclomoteur doit être titulaire du brevet de sécurité
+routière ou du permis de conduire.
+
+III. - Le fait de contrevenir aux dispositions des deux alinéas précédents est
+puni de l'amende prévue pour les contraventions de la 2e classe.
+
+IV. - L'immobilisation du véhicule peut être prescrite dans les conditions
+prévues aux articles L. 325-1 à L. 325-3.
+
+V. - Les dispositions du II ne sont applicables qu'aux personnes qui atteindront
+l'âge de seize ans à compter du 1er janvier 2004. Jusqu'à cette date, ces
+dispositions sont applicables aux personnes qui n'ont pas atteint l'âge de seize
 ans.
-
-Le brevet de sécurité routière est délivré aux titulaires de l'attestation
-scolaire de sécurité routière de premier niveau, ayant suivi une formation
-pratique organisée par une personne physique ou morale agréée par le préfet.
-
-Un arrêté du ministre chargé des transports fixe les modalités d'application des
-dispositions de l'alinéa précédent.
-
-Le fait, pour toute personne âgée de moins de seize ans, de conduire un
-cyclomoteur sans être titulaire du brevet de sécurité routière est puni de
-l'amende prévue pour les contraventions de la deuxième classe.
-
-Le fait, pour toute personne âgée de moins de quatorze ans, de conduire un
-cyclomoteur est puni de l'amende prévue pour les contraventions de la deuxième
-classe.
