@@ -1,12 +1,29 @@
 Article R20-39
 ----
-Les opérateurs qui contribuent au fonds de service universel créé par l'article
-L. 35-3 sont les exploitants de réseaux ouverts au public et les fournisseurs de
-services téléphoniques au public. La contribution de chaque opérateur est
-calculée au prorata de son volume de trafic. Pour chaque opérateur, le trafic
-considéré est égal à la somme des trafics au départ et à l'arrivée de tous les
-terminaux connectés à ses réseaux ouverts au public. La contribution mentionnée
-à l'article R. 20-33 est calculée au prorata du trafic téléphonique.
+Les opérateurs qui contribuent au fonds de service universel sont les
+exploitants de réseaux ouverts au public et les fournisseurs de services de
+communications électroniques au public.
+
+La contribution de chaque opérateur au financement du service universel est
+calculée au prorata de son chiffre d'affaires réalisé au titre des services de
+communications électroniques, à l'exclusion :
+
+1° Du chiffre d'affaires réalisé au titre des prestations d'interconnexion et
+d'accès faisant l'objet des conventions définies au I de l'article L. 34-8 et
+des autres prestations réalisées ou facturées pour le compte d'opérateurs tiers
+;
+
+2° Du chiffre d'affaires réalisé au titre de l'acheminement et de la diffusion
+de services de radio et de télévision ainsi que de l'exploitation d'antennes
+collectives.
+
+Dans le cadre d'offres associant des services de radio ou de télévision à des
+services de communications électroniques, la contribution de l'opérateur est
+établie au prorata du seul chiffre d'affaires lié aux services de communications
+électroniques.
+
+Pour le calcul de la contribution, il est pratiqué un abattement de 5 millions
+d'euros sur le chiffre d'affaires annuel ainsi calculé.
 
 Est porté au crédit du compte d'un opérateur donné le coût net éventuel relatif
 aux prestations de service universel rendues par cet opérateur.
@@ -25,6 +42,10 @@ résultant de l'application de l'alinéa suivant. Les versements des opérateurs
 sont effectués au cours de l'année considérée, en deux versements d'un montant
 égal à la moitié des sommes dues, le 15 janvier et le 15 septembre.
 
+La décision prévue au premier alinéa du III de l'article L. 35-3 du code des
+postes et des communications électroniques est prise par l'Autorité de tes
+régulation des télécommunications.
+
 Si un nouvel opérateur fournit le service universel, l'Autorité de régulation
 des télécommunications évalue le coût prévisionnel de ce service à partir
 d'informations concernant l'année précédant l'année de fourniture du service,
@@ -38,15 +59,13 @@ considérée. La Caisse des dépôts et consignations traite ces informations de
 manière confidentielle.
 
 Les soldes définitifs relatifs à l'année considérée sont constatés et rendus
-publics par le ministre chargé des communications électroniques au plus tard le
-31 mai de la deuxième année suivant l'année considérée sur proposition de
-l'Autorité de régulation des télécommunications, exprimée au plus tard le 30
+publics par l'Autorité de régulation des télécommunications au plus tard le 30
 avril de la deuxième année suivant l'année considérée. L'Autorité de régulation
 des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des
-dépôts et consignations au plus tard le 30 juin de la deuxième année suivant
+dépôts et consignations au plus tard le 31 mai de la deuxième année suivant
 l'année considérée. Elle évalue ces soldes notamment sur la base des résultats
 de la comptabilité auditée des opérateurs relative à l'année considérée,
-mentionnée au I de l'article L. 35-3, et des volumes constatés pour cette même
+mentionnée au I de l'article L. 35-3, et des chiffre d'affaires pour cette même
 année. Les versements de la régulation des contributions interviennent au plus
 tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci
 comprennent le versement d'un intérêt au taux de l'Euribor 12 mois qui court des

@@ -1,8 +1,8 @@
 Article R20-41
 ----
 La Caisse des dépôts et consignations assure la gestion comptable et financière
-du fonds de service universel créé au 2° du II de l'article L. 35-3, dans un
-compte spécifique créé à cet effet. Elle est chargée :
+du fonds de service universel, dans un compte spécifique créé à cet effet. Elle
+est chargée :
 
 1° D'effectuer les opérations de recouvrement et de reversement afférent à
 chacun des opérateurs et de tenir pour chaque année la comptabilité les

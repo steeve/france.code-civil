@@ -15,7 +15,3 @@ connaissance du marché ;
 
 d) Le bénéfice tiré de l'image de marque associée à la position d'opérateur de
 service universel.
-
-L'avantage mentionné au d du présent article est réparti entre les composantes
-de coûts mentionnés aux articles R. 20-33 à R. 20-36, au prorata du coût net de
-ces composantes.
