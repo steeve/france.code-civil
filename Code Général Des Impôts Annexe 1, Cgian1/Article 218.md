@@ -1,8 +1,9 @@
 Article 218
 ----
 Les fabricants et marchands exportateurs qui en font la demande peuvent être
-dispensés par autorisation individuelle des formalités prévues à l'article 217,
-deuxième et troisième alinéas, sous réserve :
+dispensés par autorisation individuelle accordée par le directeur régional des
+douanes et droits indirects des formalités prévues à l'article 217, deuxième et
+troisième alinéas, sous réserve :
 
 1° Qu'ils inscrivent sur le registre tenu en exécution de l'article 215, au fur
 et à mesure des livraisons, le titre, le nombre par espèce d'objets semblables
@@ -12,7 +13,7 @@ destinataire, et que ces indications soient reproduites sur le relevé mensuel
 fourni au bureau de garantie en exécution dudit article 215.
 
 Pour les expéditions à l'étranger ces indications sont complétées par celle de
-la valeur des ouvrages;
+la valeur des ouvrages ;
 
 2° Que chaque livraison faite par un fabricant ou marchand exportateur muni de
 l'autorisation susvisée à un autre marchand exportateur, également muni de cette

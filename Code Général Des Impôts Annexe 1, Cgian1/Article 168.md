@@ -27,6 +27,9 @@ sur chacun d'eux, avec l'indication de sa contenance, en caractères d'au moins 
 centimètres de hauteur, par les soins et aux frais des industriels.
 
 Il ne peut être procédé à des opérations de dénaturation que si les
-installations ou les modifications intervenues ont été agréées par le service
-des douanes et droits indirects. Celui-ci peut astreindre les dénaturateurs à
-prendre les mesures nécessaires pour assurer la sécurité de ses agents.
+installations ou les modifications intervenues ont été agréées par ((le
+directeur régional des douanes et droits indirects)) (M). Celui-ci peut
+astreindre les dénaturateurs à prendre les mesures nécessaires pour assurer la
+sécurité de ses agents.
+
+(M) Modification.

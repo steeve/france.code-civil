@@ -17,8 +17,8 @@ alcools utilisés dans la distillerie;
 Un plan schématique de l'appareillage présentant intégralement le circuit de
 l'alcool et des sous-produits alcooliques.
 
-Avant sa mise en service, toute installation doit être agréée par
-l'administration.
+Avant sa mise en service, toute installation doit être agréée par le directeur
+régional des douanes et droits indirects.
 
 Toute modification dans la nature des opérations à réaliser doit faire l'objet
 d'une déclaration préalable. Il en est de même pour toute modification des

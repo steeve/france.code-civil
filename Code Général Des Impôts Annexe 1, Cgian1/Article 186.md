@@ -8,5 +8,6 @@ l'article 165, les indications supplémentaires suivantes :
 2° La quantité approximative d'alcool nécessaire pour les fabrications d'une
 année.
 
-Le ministre de l'économie et des finances statue après avis du service des
-laboratoires de la direction générale des douanes et droits indirects.
+Le directeur régional des douanes et droits indirects statue après avis du
+service des laboratoires de la direction générale des douanes et droits
+indirects.

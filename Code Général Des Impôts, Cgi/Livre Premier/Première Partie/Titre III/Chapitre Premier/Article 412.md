@@ -7,6 +7,6 @@ en franchise des droits, une addition d'alcool pourvu que le mélange soit opér
 en présence des agents de l'administration, dans les conditions fixées par
 arrêté ministériel, et que l'exportation soit opérée immédiatement.
 
-Si elles ne sont pas effectuées sur un emplacement désigné ou agréé par
-l'administration, les opérations de vinage donnent lieu au paiement des frais de
-surveillance.
+Si elles ne sont pas effectuées sur un emplacement désigné ou agréé par le
+directeur régional des douanes et droits indirects les opérations de vinage
+donnent lieu au paiement des frais de surveillance.

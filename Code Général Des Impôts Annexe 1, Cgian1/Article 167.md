@@ -12,13 +12,14 @@ dénaturés et les produits fabriqués avec ces alcools ne peuvent avoir de
 communication que par la voie publique avec les locaux contenant des alambics ou
 avec ceux où se trouvent des alcools non dénaturés destinés à la vente.
 
-Toutefois, l'administration peut admettre des communications autrement que par
-la voie publique entre, d'une part, les locaux affectés à la dénaturation et au
-logement des alcools et, d'autre part, les locaux où se trouvent des alcools non
-dénaturés destinés à la vente, à la condition que les locaux visés soient
-complètement séparés.
+Toutefois, le directeur régional des douanes et droits indirects peut admettre
+des communications autrement que par la voie publique entre, d'une part, les
+locaux affectés à la dénaturation et au logement des alcools et, d'autre part,
+les locaux où se trouvent des alcools non dénaturés destinés à la vente, à la
+condition que les locaux visés soient complètement séparés.
 
 En outre, si la nature des fabrications exige l'emploi d'appareils de
-distillation ou de rectification, l'administration peut autoriser, aux
-conditions qu'elle détermine, l'installation de ces appareils dans les locaux
-affectés à la dénaturation ou à l'emmagasinement des alcools dénaturés.
+distillation ou de rectification, le directeur régional des douanes et droits
+indirects peut autoriser, aux conditions qu'il détermine, l'installation de ces
+appareils dans les locaux affectés à la dénaturation ou à l'emmagasinement des
+alcools dénaturés.

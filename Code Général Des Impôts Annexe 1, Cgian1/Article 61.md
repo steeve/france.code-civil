@@ -8,5 +8,7 @@ indirects qui établissent un plan d'installation, en surveillent la réalisatio
 et procèdent à son agrément dès son achèvement.
 
 Aucune modification d'une installation agréée ne peut être effectuée sans
-l'accord préalable des agents habilités par l'administration des douanes et
-droits indirects qui en contrôlent l'exécution.
+l'accord préalable ((du directeur régional des douanes et droits indirects)) (M)
+qui en contrôlent l'exécution.
+
+(M) Modification.
