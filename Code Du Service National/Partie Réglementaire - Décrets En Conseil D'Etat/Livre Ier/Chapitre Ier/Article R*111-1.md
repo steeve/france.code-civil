@@ -7,6 +7,3 @@ situation familiale, scolaire, universitaire ou professionnelle, notamment en
 vue de leur participation à l'appel de préparation à la défense et, le cas
 échéant, de leur appel sous les drapeaux. Lorsqu'ils ne peuvent effectuer
 personnellement cette démarche, elle peut l'être par leur représentant légal.
-
-Cette démarche peut être effectuée par les jeunes étrangers mentionnés au
-deuxième alinéa de l'article L. 113-3.
