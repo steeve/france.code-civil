@@ -59,7 +59,7 @@ réglementaire, dans la mesure où elles ne bénéficient pas à un autre titre 
 dispositions du présent livre. Un décret détermine la nature des organismes
 mentionnés par la présente disposition ; il peut en établir la liste ;
 
-7°) les salariés désignés, en application de l'article L. 990-8 du code du
+7°) les salariés désignés, en application de l'article L. 992-8 du code du
 travail, pour siéger dans une commission, un conseil ou un comité administratifs
 ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs
 missions dans les conditions définies par décret ;
@@ -81,6 +81,12 @@ l'occasion de leur participation à des actions d'aide à la création d'entrepr
 ou d'orientation, d'évaluation ou d'accompagnement de la recherche d'emploi
 dispensées ou prescrites par l'Agence nationale pour l'emploi.
 
+12° Les salariés désignés, dans les conditions définies à l'article L. 225-8 du
+code du travail, pour siéger dans une instance instituée par une disposition
+législative ou réglementaire auprès d'une autorité de l'Etat pour les accidents
+survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne
+bénéficient pas à un autre titre des dispositions du présent article.
+
 Les dispositions de l'article L. 434-1 [*indemnité en capital*] du présent code
 ne sont pas applicables aux personnes mentionnées aux a. et b. du 1° ci-dessus.
 
@@ -90,8 +96,8 @@ et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
 et non assujetties aux assurances sociales en vertu du livre III, le décret en
-Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10° et
-11 des décrets prévus par ceux-ci, déterminent à qui incombent les obligations
-de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne reçoivent
-pas une rémunération normale, ils fixent les bases des cotisations et celles des
-indemnités.
+Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°,
+11° et 12° des décrets prévus par ceux-ci, déterminent à qui incombent les
+obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne
+reçoivent pas une rémunération normale, ils fixent les bases des cotisations et
+celles des indemnités.
