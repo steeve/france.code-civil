@@ -1,16 +1,17 @@
 Article 988
 ----
-Le secrétaire transmet sans délai au secrétariat-greffe de la Cour de cassation
-le dossier de l'affaire avec :
+Le greffier de la juridiction qui a rendu la décision attaquée transmet sans
+délai au greffe de la Cour de cassation le dossier de l'affaire auquel sont
+jointes :
 
-- une copie de la déclaration ;
+- une copie de la décision attaquée et de ses actes de notification ;
 
-- une copie du récépissé de la déclaration ;
+- une copie de la décision confirmée ou infirmée par la décision attaquée ;
 
-- une copie de la décision attaquée ;
+- une copie de toute autre décision rendue dans le même litige et à laquelle la
+décision attaquée fait référence ;
 
-- une copie de la décision de première instance ainsi que, s'il en a été pris,
-les conclusions de première instance et d'appel.
+- les conclusions de première instance et d'appel s'il en a été pris.
 
-Il transmet immédiatement au secrétariat-greffe de la Cour de cassation toute
-pièce qui lui parviendrait ultérieurement.
+Il transmet immédiatement au greffe de la Cour de cassation toute pièce qui lui
+parviendrait ultérieurement.
