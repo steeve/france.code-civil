@@ -12,8 +12,8 @@ qu'elle estime utile.
 
 Sauf lorsque la chambre se prononce en application de l'article R. 422-61,
 l'auteur de la plainte peut assister à l'audience et y être entendu. Sous la
-même réserve, le conseil poursuivi a la parole le dernier, et peut se faire
-assister d'un conseil en propriété industrielle et d'un avocat.
+même réserve, la personne poursuivie a la parole en dernier et peut, ainsi que
+l'auteur de la plainte, se faire assister de la personne de son choix.
 
 Les séances de la chambre sont publiques. Toutefois, le président peut, d'office
 ou à la demande d'une des parties, interdire au public l'accès de la salle

@@ -1,8 +1,9 @@
 Article R512-2
 ----
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans un
-délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant
-aux conditions prévues à l'article R. 512-1.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la
+Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen doivent, dans un délai qui leur est imparti par l'institut, constituer
+un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes
 conditions doit être constitué.

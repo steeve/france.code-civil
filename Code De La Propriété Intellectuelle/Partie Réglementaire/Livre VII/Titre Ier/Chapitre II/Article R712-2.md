@@ -1,7 +1,9 @@
 Article R712-2
 ----
 Le dépôt peut être fait personnellement par le demandeur ou par un mandataire
-ayant son domicile, son siège ou son établissement en France.
+ayant son domicile, son siège ou son établissement dans un Etat membre de la
+communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen.
 
 Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le
 mandataire constitué pour le dépôt d'une demande d'enregistrement de marque et
@@ -9,9 +11,10 @@ tout acte subséquent relatif à la procédure d'enregistrement, à l'exception 
 simple paiement des redevances et des déclarations de renouvellement, doit avoir
 la qualité de conseil en propriété industrielle.
 
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le
-délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant
-aux conditions prévues à l'alinéa précédent.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la
+Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen doivent, dans le délai qui leur est imparti par l'institut, constituer
+un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes
 conditions doit être constitué.

@@ -1,24 +1,22 @@
 Article R811-3
 ----
 Pour application du présent code et des dispositions qu'il rend applicables aux
-territoires d'outre-mer et à la collectivité territoriale de Mayotte, les mots
-suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants
-:
+territoires d'outre-mer et à Mayotte, les mots suivants énumérés ci-dessous sont
+respectivement remplacés par les mots suivants :
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 
 - "juge d'instance" par "juge du tribunal de première instance" ;
 
-- "région" par "territoire" et, en ce qui concerne la collectivité de Mayotte,
-par "collectivité territoriale" ;
+- "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité
+départementale" ;
 
 - "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par
-"officier de police judiciaire" en ce qui concerne la collectivité territoriale
-de Mayotte ;
+"officier de police judiciaire" en ce qui concerne Mayotte ;
 
 - "tribunal de commerce" par "tribunal de première instance statuant en matière
-commerciale" en ce qui concerne la collectivité territoriale de Mayotte et
-"tribunal mixte de commerce" en ce qui concerne les territoires de la
-Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
+commerciale" en ce qui concerne Mayotte et "tribunal mixte de commerce" en ce
+qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française
+et de Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
