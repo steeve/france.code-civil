@@ -32,11 +32,11 @@ fixe les montants de la taxe effectivement perçue par espèce dans les limites
 prévues ci-dessus (1).
 
 IV. La taxe est perçue dans les établissements d'abattage publics et privés sur
-les abattages opérés en vue de la vente.
-
-Elle est assise, liquidée et recouvrée par la direction générale des impôts,
-suivant les mêmes règles et sous les mêmes garanties et les mêmes sanctions que
-la taxe de protection sanitaire et d'organisation des marchés des viandes,
-prévue aux article 302 bis F à 302 bis J du code général des impôts
+les abattages opérés en vue de la vente. Elle est constatée et recouvrée comme
+en matière de taxe sur la valeur ajoutée, avec les garanties et sanctions
+applicables à cette taxe (2).
 
 (1) Annexe IV, art. 159 AO.
+
+(2) Pour les modalités de calcul du poids de viande net, voir Annexe III, art.
+111 quater A à 111 quater I.
