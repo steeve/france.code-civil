@@ -1,7 +1,14 @@
 Article R232-5
 ----
-Les locaux fermés affectés au travail doivent [*obligation*] être chauffés
-pendant la saison froide.
+Dans les locaux fermés où le personnel est appelé à séjourner, l'air doit être
+renouvelé de façon à :
 
-Le chauffage doit être assuré de telle façon qu'il maintienne une température
-convenable et ne donne lieu à aucune émanation délétère.
+1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des
+travailleurs ;
+
+2° Eviter les élévations exagérées de température, les odeurs désagréables et
+les condensations.
+
+Les règles applicables à l'aération, à la ventilation et à l'assainissement des
+locaux mentionnés au premier alinéa ci-dessus sont fixées, suivant la nature et
+les caractères de ces locaux, aux articles R. 232-5-1 à R. 232-5-11.

@@ -1,11 +1,8 @@
 Article R225
 ----
-La partie prenante dépose ou adresse son état ou mémoire au parquet près la
-juridiction compétente.
+Lorsque l'état ou mémoire porte sur des frais mentionnés aux articles R. 224-1
+et R. 224-2, le greffier, après avoir procédé s'il y a lieu aux redressements
+nécessaires, certifie avoir vérifié la réalité de la dette et son montant.
 
-Lorsque le mémoire porte sur des frais devant une juridiction de l'ordre
-judiciaire autre que le tribunal de grande instance, le parquet compétent est
-celui du ressort dans lequel la juridiction a son siège.
-
-Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses
-réquisitions, au magistrat taxateur.
+S'il refuse d'établir le certificat, le greffier demande au ministère public de
+prendre des réquisitions aux fins de taxe.

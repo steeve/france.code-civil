@@ -1,14 +1,9 @@
 Article R232-1
 ----
-Dans les locaux fermés où le personnel est appelé à séjourner, l'air doit être
-renouvelé de façon à :
+Les locaux de travail et leurs annexes sont régulièrement entretenus et nettoyés
+; ils doivent en outre être exempts de tout encombrement.
 
-1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des
-travailleurs ;
-
-2° Eviter les élévations exagérées de température, les odeurs désagréables et
-les condensations.
-
-Les règles applicables à l'aération, à la ventilation et à l'assainissement des
-locaux mentionnés au premier alinéa ci-dessus sont fixées, suivant la nature et
-les caractères de ces locaux, aux articles R. 232-1-1 à R. 232-1-11.
+Le médecin du travail et le comité d'hygiène, de sécurité et des conditions de
+travail [*CHSCT*], ou, à défaut, les délégués du personnel, sont appelés à
+donner leur avis sur les mesures à prendre pour satisfaire aux obligations
+prévues à l'alinéa précédent.
