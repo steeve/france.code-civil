@@ -9,7 +9,7 @@ La liste doit comprendre au moins :
 
 a) Un maire des départements d'outre-mer ou de Mayotte ;
 
-b) Un maire de la Nouvelle-Calédonie ou de la Polynésie Française ;
+b) Un maire de la Nouvelle-Calédonie ou de la Polynésie française ;
 
 c) Un maire de commune touristique ou thermale inscrite sur la liste prévue à
 l'article L. 234-13 du code des communes dans sa rédaction antérieure à la loi

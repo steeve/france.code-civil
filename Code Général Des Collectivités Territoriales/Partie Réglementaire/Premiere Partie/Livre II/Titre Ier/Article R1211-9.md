@@ -6,9 +6,9 @@ recommandée ou déposés contre récépissés à la préfecture.
 
 Les bulletins de vote sont recensés par une commission comprenant :
 
-- le préfet ou son représentant, président ;
+-le préfet ou son représentant, président ;
 
-- deux maires désignés par le préfet.
+-deux maires désignés par le préfet.
 
 Le secrétariat est assuré par un fonctionnaire de la préfecture.
 
