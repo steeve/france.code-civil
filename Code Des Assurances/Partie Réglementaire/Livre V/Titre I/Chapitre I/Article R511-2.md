@@ -7,8 +7,10 @@ le rapport du ministre de l'économie et des finances et du garde des sceaux,
 ministre de la justice ;
 
 1° Les personnes physiques et sociétés immatriculées au registre du commerce
-pour le courtage d'assurances et, dans ces sociétés, les associés et les tiers
-qui ont le pouvoir de gérer ou d'administrer ;
+pour le courtage ou celles exerçant cette activité en libre prestation de
+services dans les conditions prévues à l'article R.* 515-9, ainsi que, dans ces
+sociétés, les associés et les tiers qui ont le pouvoir de gérer ou
+d'administrer.
 
 2° Les personnes physiques titulaires d'un mandat d'agent général d'assurances
 ou chargées à titre provisoire, pour une période de deux ans au plus non
