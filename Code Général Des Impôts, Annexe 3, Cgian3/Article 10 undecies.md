@@ -1,8 +1,8 @@
 Article 10 undecies
 ----
 La provision pour hausse des prix est rapportée de plein droit aux bénéfices
-imposables à l'expiration du délai prévu à l'article 39-1-5°, cinquième alinéa,
-du code général des impôts.
+imposables à l'expiration du délai prévu au sixième alinéa du 5° du 1 de
+l'article 39 du code général des impôts.
 
 Lorsqu'elle est retenue pour l'application de cette disposition, la durée
 normale de rotation du stock d'une entreprise est forfaitairement exprimée en
