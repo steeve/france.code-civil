@@ -7,15 +7,18 @@ fumés en l'état :
 
 2° Les rouleaux de tabac munis d'une cape extérieure en tabac naturel ;
 
-3° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des
-cigares et d'une sous-cape, toutes deux en tabac reconstitué lorsque au moins 60
-% en poids des particules de tabac ont une largeur et une longueur supérieures à
-1,75 millimètre et lorsque la cape est apposée en hélice avec un angle aigu
-minimal de 30 degrés par rapport à l'axe longitudinal du cigare ;
+3° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape
+extérieure, de la couleur normale des cigares, couvrant entièrement le produit,
+y compris le filtre le cas échéant - mais non l'embout dans le cas des cigares
+avec embout - et d'une sous-cape, toutes deux en tabac reconstitué, lorsque leur
+masse unitaire, sans filtre ni embout, est égale ou supérieure à 1,2 gramme et
+que la cape est apposée en hélice avec un angle aigu minimal de trente degrés
+par rapport à l'axe longitudinal du cigare ;
 
-4° Les rouleaux de tabac munis d'une cape extérieure, couleur normale des
-cigares, en tabac reconstitué lorsque leur masse unitaire sans filtre ni embout
-est égale ou supérieure à 2,3 grammes et si au moins 60 % en poids des
-particules de tabac ont une largeur et une longueur supérieures à 1,75
-millimètre et que leur périmètre sur au moins un tiers de leur longueur est égal
-ou supérieur à 34 millimètres.
+4° Les rouleaux de tabac remplis d'un mélange battu et munis d'une cape
+extérieure en tabac reconstitué, de la couleur normale des cigares, couvrant
+entièrement le produit, y compris le filtre le cas échéant - mais non l'embout
+dans le cas des cigares avec embout - lorsque leur masse unitaire, sans filtre
+ni embout, est égale ou supérieure à 2,3 grammes et que leur circonférence est
+égale ou supérieure à trente-quatre millimètres sur au moins un tiers de leur
+longueur.

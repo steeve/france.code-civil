@@ -11,5 +11,8 @@ présentent une largeur de coupe supérieure ou égale à 1 millimètre ;
 au moins en poids des particules de tabac présentent une largeur de coupe
 supérieure ou égale à 1 millimètre ;
 
-3° Jusqu'au 31 décembre 1997, les tabacs visés au quatrième alinéa de l'article
-275 E.
+3° Alinéa supprimé.
+
+4° Le tabac susceptible d'être fumé en l'état, sans transformation industrielle
+ultérieure, autre que celui mentionné aux 1° et 2° et à l'article 275 E, quel
+que soit son mode de présentation.
