@@ -1,6 +1,6 @@
 Article L1336-6
 ----
-Est puni de six mois d'emprisonnement et d'une amende de 7 500 Euro le fait :
+Est puni de six mois d'emprisonnement et d'une amende de 7500 euros le fait :
 
 1° De ne pas se conformer, dans le délai imparti par une mise en demeure
 notifiée par l'autorité qui a délivré l'autorisation ou enregistré la

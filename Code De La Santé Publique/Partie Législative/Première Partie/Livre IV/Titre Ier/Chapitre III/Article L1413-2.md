@@ -17,10 +17,11 @@ sanitaires, leurs causes et leurs évolutions ;
 de la population ;
 
 2° D'alerter les pouvoirs publics, notamment l'Agence française de sécurité
-sanitaire des produits de santé mentionnée à l'article L. 5311-1, et l'Agence
-française de sécurité sanitaire des aliments mentionnée à l'article L. 1323-1,
-en cas de menace pour la santé publique, quelle qu'en soit l'origine, et de leur
-recommander toute mesure ou action appropriée ;
+sanitaire des produits de santé mentionnée à l'article L. 5311-1, l'Agence
+française de sécurité sanitaire des aliments mentionnée à l'article L. 1323-1 et
+l'Agence française de sécurité sanitaire environnementale mentionnée à l'article
+L. 1335-3-1, en cas de menace pour la santé publique, quelle qu'en soit
+l'origine, et de leur recommander toute mesure ou action appropriée ;
 
 3° De mener à bien toute action nécessaire pour identifier les causes d'une
 modification de l'état de santé de la population, notamment en situation

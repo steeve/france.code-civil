@@ -20,5 +20,6 @@ l'exercice de ses missions.
 L'institut est destinataire des expertises et des rapports d'évaluation, de
 contrôle et d'inspection relatifs à la veille sanitaire et à la sécurité
 sanitaire, réalisés par l'Agence française de sécurité sanitaire des produits de
-santé, l'Agence française de sécurité sanitaire des aliments et par les services
-de l'Etat ou par les établissements publics qui lui sont rattachés.
+santé, l'Agence française de sécurité sanitaire des aliments, l'Agence française
+de sécurité sanitaire environnementale et par les services de l'Etat ou par les
+établissements publics qui lui sont rattachés.

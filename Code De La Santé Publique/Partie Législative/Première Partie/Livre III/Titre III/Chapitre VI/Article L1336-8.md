@@ -1,6 +1,6 @@
 Article L1336-8
 ----
-Est puni de 25 000 F d'amende toute publicité relative à l'emploi de
+Est puni de 3750 euros d'amende toute publicité relative à l'emploi de
 radioéléments artificiels ou de produits en contenant :
 
 1° En médecine humaine ou vétérinaire, lorsque cette publicité est dirigée vers
