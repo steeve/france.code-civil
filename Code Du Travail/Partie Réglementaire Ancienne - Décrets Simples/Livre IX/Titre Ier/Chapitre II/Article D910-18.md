@@ -24,35 +24,17 @@ professionnelle se compose :
 
 10° Du directeur de l'agence départementale d'insertion ;
 
-11° De cinq représentants des salariés désignés sur proposition des
+11° De sept représentants des salariés désignés sur proposition des
 organisations syndicales représentatives dans la région ;
 
-12° De cinq représentants des employeurs désignés sur proposition des
-organisations interprofessionnelles représentatives dans la région, dont un
-représentant des exploitants agricoles et un représentant des artisans ;
+12° De sept membres au titre des organisations d'employeurs et des chambres
+régionales d'agriculture, de commerce et d'industrie et des métiers ;
 
-13° De deux représentants des personnels d'établissements publics d'enseignement
-désignés sur proposition des organisations professionnelles représentatives
-conformément aux résultats des élections administratives paritaires académiques
-;
+13° Du président du conseil économique et social régional ;
 
-14° De cinq représentants des secteurs économiques et associatifs :
+14° De dix représentants élus des collectivités territoriales :
 
-a) Un représentant de la ou des chambres des métiers ;
-
-b) Un représentant de la ou des chambres d'agriculture ;
-
-c) Un représentant de la ou des chambres de commerce et d'industrie du
-département ;
-
-d) Un représentant des organismes de formation désigné par le préfet de région ;
-
-e) Un représentant des associations familiales désigné par le conseil économique
-et social régional ;
-
-15° De six représentants élus des collectivités territoriales :
-
-a) Deux représentants du conseil régional ;
+a) Six représentants du conseil régional ;
 
 b) Deux représentants du conseil général ;
 
@@ -62,34 +44,20 @@ Le préfet de région arrête la liste des organisations syndicales de salariés
 des organisations interprofessionnelles d'employeurs les plus représentatives de
 sa région qui désigneront les représentants visés aux 11° et 12°.
 
-Les représentants élus des collectivités territoriales visés aux a et b du 15°
+Les représentants élus des collectivités territoriales visés aux a et b du 14°
 sont élus par l'assemblée délibérante locale respectivement concernée suivant
-les modalités prévues aux quatrième et cinquième alinéas de l'article L. 121-12
-du code des communes.
+les modalités prévues aux alinéas deux à cinq de l'article L. 2121-21 du code
+général des collectivités territoriales.
 
 Des suppléants sont désignés dans les mêmes conditions que les titulaires qu'ils
 peuvent remplacer aux séances du comité régional.
 
-Le préfet de région arrête la liste des membres du comité, titulaires et
-suppléants, pour une durée de trois ans. Ce mandat peut être renouvelé. Les
-membres qui font partie du comité en raison de leurs fonctions administratives
-ou électives doivent être remplacés à partir du moment où ils cessent d'être
-investis de ces fonctions. Leur remplacement doit avoir lieu dans les trois mois
-suivant la vacance.
+Le préfet de région en accord avec le président du conseil régional arrête la
+liste des membres du comité, titulaires et suppléants, pour une durée de trois
+ans. Ce mandat peut être renouvelé. Les membres qui font partie du comité en
+raison de leurs fonctions administratives ou électives doivent être remplacés à
+partir du moment où ils cessent d'être investis de ces fonctions. Leur
+remplacement doit avoir lieu dans les trois mois suivant la vacance.
 
 Le comité régional peut associer à ses travaux, en fonction de l'ordre du jour,
 d'autres personnes choisies en raison de leurs compétences.
-
-Le comité régional, présidé par le préfet de région ou par le président du
-conseil régional, se réunit au moins deux fois par an.
-
-La convocation du comité est faite conjointement par le préfet de région et par
-le président du conseil régional.
-
-Un règlement intérieur, établi par les deux présidents, approuvé par la majorité
-des membres du comité et arrêté par le préfet de région, précise ses conditions
-de fonctionnement.
-
-Le secrétariat est assuré conjointement par le directeur du travail, de l'emploi
-et de la formation professionnelle et par un représentant du président du
-conseil régional.
