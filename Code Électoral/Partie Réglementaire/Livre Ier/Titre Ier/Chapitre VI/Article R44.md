@@ -14,9 +14,4 @@ priorité suivant :
 
 l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeune
 s'il en manque deux, les deux plus âgés et le plus jeune s'il en manque trois,
-les deux plus âgés et les deux plus jeunes s'il en manque quatre;
-
-- à Paris, lorsque le nombre des assesseurs désignés par les candidats ou listes
-en présence est inférieur à quatre, les fonctions d'assesseurs sont remplies par
-les électeurs présents, sachant lire et écrire, désignés suivant l'ordre de
-priorité énoncé à l'alinéa précédent.
+les deux plus âgés et les deux plus jeunes s'il en manque quatre.

@@ -1,3 +1,4 @@
 Article R*108
 ----
-L'opération du recensement général des votes est constatée par un procès-verbal.
+La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres
+portés sur les procès-verbaux, proclame les résultats en public.
