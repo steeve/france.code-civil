@@ -1,14 +1,14 @@
 Article 379
 ----
-I. - Le recouvrement de l'acompte ou fraction d'acompte non réglé et de la
-majoration de 10 % applicable dans les conditions mentionnées au 3 de l'article
-1762 du code général des impôts pour les acomptes d'impôt sur les sociétés est
-poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire
-par le trésorier-payeur général. Les dispositions du titre IV de la deuxième
-partie du livre des procédures fiscales concernant les impôts dont le
-recouvrement incombe aux comptables du Trésor sont applicables.
+Le montant de l'acompte prévu au deuxième alinéa de l'article 234 terdecies du
+code général des impôts est calculé par l'entreprise et versé spontanément, au
+plus tard le 15 du dernier mois de l'exercice, au comptable de la direction
+générale des impôts du lieu d'imposition défini à l'article 218 A du même code.
 
-II. - Les omissions totales ou partielles constatées dans l'établissement de ce
-titre ainsi que les erreurs commises dans le calcul de l'acompte ou de la
-majoration peuvent être réparées jusqu'à l'expiration de la quatrième année
-suivant celle au cours de laquelle les versements étaient exigibles.
+Le versement est accompagné d'un relevé fourni par l'administration, daté et
+signé par le redevable et indiquant la nature du versement, son échéance, sa
+base de calcul et son montant ainsi que la désignation et l'adresse du principal
+établissement de l'entreprise.
+
+L'entreprise est dispensée du versement de l'acompte lorsqu'il n'excède pas 100
+euros.

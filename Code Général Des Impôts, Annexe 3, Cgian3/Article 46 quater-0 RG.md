@@ -21,6 +21,6 @@ D'une copie des contrats de prêts consentis au profit de la société nouvelle
 mentionnant le taux d'intérêt nominal et le taux actuariel brut de ces prêts
 ainsi que le montant et la date des échéances d'amortissement et d'intérêts.
 
-Le remboursement du crédit d'impôt est subordonné à la remise au comptable du
-Trésor d'une copie de la quittance certifiant du paiement des intérêts dont le
-montant sert de base au calcul du crédit d'impôt.
+Le remboursement du crédit d'impôt est subordonné à la remise au comptable de la
+direction générale des impôts d'une copie de la quittance certifiant du paiement
+des intérêts dont le montant sert de base au calcul du crédit d'impôt.

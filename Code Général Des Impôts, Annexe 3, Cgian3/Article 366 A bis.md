@@ -1,7 +1,9 @@
 Article 366 A bis
 ----
-Si l'imposition forfaitaire annuelle instituée par l'article 223 septies du code
-général des impôts a été spontanément acquittée après le 15 mars, le
-recouvrement de la majoration de 10 % prévue au 4 de l'article 1762 du code
-précité et correspondant au montant versé tardivement est poursuivi en vertu
-d'un titre de perception rendu exécutoire par le trésorier-payeur général.
+L'imposition forfaitaire annuelle mentionnée à l'article 223 septies du code
+général des impôts est versée spontanément au plus tard le 15 mars auprès du
+comptable de la direction générale des impôts compétent pour le recouvrement de
+l'impôt sur les sociétés.
+
+Ce versement accompagne le relevé d'acompte d'impôt sur les sociétés payable à
+cette même date et mentionné au 2 de l'article 358.

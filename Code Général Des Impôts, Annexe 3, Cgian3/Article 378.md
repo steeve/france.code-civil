@@ -1,6 +1,7 @@
 Article 378
 ----
-L'acompte et le solde de liquidation sont chacun accompagnés d'un
-bordereau-avis, daté et signé de la partie versante et indiquant la nature du
-versement, l'échéance à laquelle il se rapporte, la base de calcul ainsi que la
-désignation et l'adresse du principal établissement de l'entreprise.
+Lorsque la contribution mentionnée à l'article 234 nonies du code général des
+impôts est due par une société ou un groupement mentionné à l'article 234
+terdecies du même code, à l'exception des sociétés en commandite simple et des
+sociétés en participation visées à l'article 375, elle est recouvrée dans les
+conditions prévues aux articles 379 et 380.

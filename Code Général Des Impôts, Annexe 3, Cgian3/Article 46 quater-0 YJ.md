@@ -1,9 +1,9 @@
 Article 46 quater-0 YJ
 ----
 Les personnes morales qui bénéficient du crédit d'impôt prévu au I de l'article
-220 septies du code général des impôts doivent joindre à la déclaration des
-résultats de chacun des exercices clos dans les dix ans de leur constitution un
-document conforme au modèle fixé par l'administration faisant apparaître les
+220 septies du code général des impôts doivent joindre au relevé de solde de
+chacun des exercices clos dans les dix ans de leur constitution, un document
+conforme au modèle fixé par l'administration faisant apparaître les
 renseignements suivants :
 
 1° Les éléments de calcul du crédit d'impôt donnant lieu à une imputation sur
