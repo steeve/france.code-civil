@@ -8,7 +8,8 @@ recherche ;
 
 2. Les mesures générales relatives à l'organisation de l'institut ;
 
-3. Le budget et ses modifications, le compte financier ;
+3. Le budget et, dans les cas prévus au quatrième alinéa de l'article R. 831-7,
+ses modifications, le compte financier ;
 
 4. Le rapport annuel d'activité ;
 
