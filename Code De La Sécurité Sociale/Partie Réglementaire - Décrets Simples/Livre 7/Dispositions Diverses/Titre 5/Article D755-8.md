@@ -9,3 +9,7 @@ globalement pour les deux premiers enfants à charge dans ces mêmes départemen
 1°) 87 p. 100 pour l'enfant mentionné au 1° de l'article L. 523-3 ;
 
 2°) 66 p. 100 pour l'enfant mentionné au 2° de l'article L. 523-3.
+
+Le montant mensuel de l'allocation de soutien familial est égal à vingt-cinq
+allocations journalières calculées dans les conditions prévues au premier
+alinéa.
