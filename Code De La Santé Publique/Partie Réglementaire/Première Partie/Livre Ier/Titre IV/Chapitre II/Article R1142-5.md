@@ -49,8 +49,8 @@ publics et privés de santé sont proposés ou désignés, selon le cas, par les
 instances de la région dans le ressort de laquelle ils exercent.
 
 Des suppléants à chacun des membres de la commission, autres que le président,
-sont nommés dans les mêmes conditions que le titulaire. Les suppléants ne
-participent aux délibérations de la commission qu'en cas d'absence du titulaire.
+sont nommés dans les mêmes conditions que le titulaire. Les suppléants
+n'assistent aux séances de la commission qu'en l'absence du titulaire.
 
 Lorsque le nombre de dossiers le justifie, peuvent être nommés un ou plusieurs
 présidents adjoints.

@@ -1,7 +1,6 @@
 Article R1142-16
 ----
-Lorsque la commission estime que les dommages subis présentent le caractère de
-gravité prévu au II de l'article L. 1142-1, les parties concernées ainsi que les
+Dans le cas prévu à l'article R. 1142-15-1, les parties concernées ainsi que les
 assureurs des parties mises en cause sont avisés par lettre recommandée avec
 accusé de réception de la date à laquelle la commission se réunit en vue de
 rendre l'avis prévu à l'article L. 1142-8. Le rapport d'expertise leur est
@@ -12,6 +11,8 @@ procédure.
 
 Les parties sont entendues sur leur demande ou à la demande de la commission.
 Elles peuvent se faire assister ou représenter par une personne de leur choix.
+
+La commission peut entendre le ou les experts qu'elle a désignés.
 
 L'avis de la commission prévu à l'article L. 1142-8 précise pour chaque chef de
 préjudice les circonstances, les causes, la nature et l'étendue des dommages
