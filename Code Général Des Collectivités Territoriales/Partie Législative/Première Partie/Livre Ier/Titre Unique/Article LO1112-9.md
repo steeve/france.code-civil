@@ -6,9 +6,9 @@ le scrutin à zéro heure. Elle est close la veille du scrutin à minuit.
 Elle est organisée par la collectivité territoriale ayant décidé de recourir au
 référendum local dans les conditions définies au chapitre V du titre Ier du
 livre Ier du code électoral, à l'exception de l'article L. 52-3. Pour
-l'application de ces dispositions, il y a lieu de lire : "groupe, parti ou
-groupement habilité à participer à la campagne" au lieu de : "candidat" et de :
-"liste de candidats".
+l'application de ces dispositions, il y a lieu de lire : " groupe, parti ou
+groupement habilité à participer à la campagne " au lieu de : " candidat " et de
+: " liste de candidats ".
 
 Les interdictions prévues par l'article L. 50-1, le troisième alinéa de
 l'article L. 51 et l'article L. 52-1 du code électoral sont applicables à toute

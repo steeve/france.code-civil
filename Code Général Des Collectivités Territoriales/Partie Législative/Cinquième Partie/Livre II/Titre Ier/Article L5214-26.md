@@ -10,4 +10,7 @@ demande d'adhésion. L'avis de la commission départementale de la coopération
 intercommunale est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de
 deux mois.
 
-Ce retrait s'effectue dans les conditions fixées par l'article L. 5211-25-1.
+Ce retrait s'effectue dans les conditions fixées par l'article L. 5211-25-1. Il
+vaut réduction du périmètre des syndicats mixtes dont la communauté de communes
+est membre dans les conditions fixées au troisième alinéa de l'article L.
+5211-19.

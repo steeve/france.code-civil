@@ -1,10 +1,11 @@
 Article L153-3
 ----
-La perception d'une redevance sur un ouvrage d'art à comprendre dans la voirie
-départementale peut être autorisée par délibération du ou des conseils généraux
-concernés, en vue d'assurer soit la couverture des charges de remboursement des
-emprunts garantis ou contractés par le ou les départements pour la construction
-de l'ouvrage et pour l'aménagement de ses voies d'accès ou de dégagement, soit
-la couverture des charges d'exploitation et d'entretien, ainsi que la
-rémunération et l'amortissement des capitaux investis par le concessionnaire qui
-assure l'exploitation de l'ouvrage d'art.
+En cas de délégation de tout ou partie des missions de construction,
+d'exploitation et d'entretien d'un ouvrage d'art, la convention de délégation et
+le cahier des charges annexé fixent les conditions dans lesquelles le
+délégataire exerce les missions qui lui sont confiées, selon le cas, par l'Etat,
+le département, la commune ou le groupement de collectivités territoriales et en
+contrepartie desquelles il est autorisé à percevoir des péages.
+
+Lorsque la délégation est consentie par l'Etat, ces actes sont approuvés par
+décret en Conseil d'Etat.

@@ -14,5 +14,5 @@ prononcée à l'encontre d'un membre de l'enseignement privé à distance, ainsi
 la fermeture de l'établissement pour la même durée maximale, prévues par
 l'article L. 444-9 ;
 
-4° L'opposition à l'ouverture des établissements d'enseignement privés prévue
-par les articles L. 441-3 et L. 441-7.
+4° L'opposition à l'ouverture des établissements d'enseignement privés prévus
+par les articles L. 441-3, L. 441-7 et L. 441-12.

@@ -6,6 +6,10 @@ l'article L. 3122-5, le conseil général peut former ses commissions et procéd
 d'organismes extérieurs et déléguer l'exercice d'une partie de ses attributions
 à la commission permanente conformément aux dispositions de l'article L. 3211-2.
 
+De même, le conseil général peut déléguer à son président l'exercice de
+certaines de ses attributions en vertu des articles L. 3211-2, L. 3221-11 et L.
+3221-12.
+
 En ce cas, et par dérogation aux dispositions de l'article L. 3121-19, les
 rapports sur les affaires soumises aux conseillers généraux peuvent leur être
 communiqués en cours de réunion ; une suspension de séance est de droit.

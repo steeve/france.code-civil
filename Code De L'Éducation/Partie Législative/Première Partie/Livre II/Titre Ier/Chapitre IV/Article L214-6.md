@@ -5,7 +5,12 @@ lycées professionnels maritimes. Elle en assure la construction, la
 reconstruction, l'extension, les grosses réparations, l'équipement et le
 fonctionnement, à l'exception, d'une part, des dépenses pédagogiques à la charge
 de l'Etat dont la liste est arrêtée par décret et, d'autre part, des dépenses de
-personnels sous réserve des dispositions de l'article L. 216-1.
+personnels prévues à l'article L. 211-8 sous réserve des dispositions de
+l'article L. 216-1.
+
+La région assure l'accueil, la restauration, l'hébergement ainsi que l'entretien
+général et technique, à l'exception des missions d'encadrement et de
+surveillance des élèves, dans les établissements dont elle a la charge.
 
 Pour la construction, la reconstruction, l'extension, les grosses réparations
 ainsi que l'équipement de ces établissements, la région peut confier à l'Etat,

@@ -1,11 +1,11 @@
 Article L2411-11
 ----
-- Le transfert à la commune de tout ou partie des biens, droits et obligations
+Le transfert à la commune de tout ou partie des biens, droits et obligations
 d'une section est prononcé par le représentant de l'Etat dans le département sur
 demande conjointe du conseil municipal et de la commission syndicale se
-prononçant à la majorité des deux tiers de ses membres ou, si la commission
-syndicale n'a pas été constituée, sur demande conjointe du conseil municipal et
-des deux tiers des électeurs de la section.
+prononçant à la majorité de ses membres ou, si la commission syndicale n'a pas
+été constituée, sur demande conjointe du conseil municipal et de la moitié des
+électeurs de la section.
 
 Dans le délai de deux mois à compter de l'arrêté de transfert, le représentant
 de l'Etat dans le département porte ce transfert à la connaissance du public.

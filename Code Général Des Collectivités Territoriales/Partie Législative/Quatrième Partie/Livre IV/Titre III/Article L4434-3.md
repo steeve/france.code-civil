@@ -1,6 +1,6 @@
 Article L4434-3
 ----
-La répartition est faite par le conseil régional dans les conditions indiquées
+- La répartition est faite par le conseil régional dans les conditions indiquées
 ci-après :
 
 A. - Une partie du produit de la taxe est affectée au budget de la région. Elle
@@ -12,7 +12,9 @@ d'opérations d'investissement d'intérêt régional ;
 2° Une dotation destinée :
 
 - à l'aménagement du réseau routier national et des pistes forestières, sans
-préjudice de l'affectation de crédits d'Etat à ces opérations ;
+préjudice de l'affectation de crédits d'Etat à ces opérations. Lorsque le réseau
+national a été transféré au département, la dotation lui est affectée en
+complément des sommes mentionnées au B du présent article ;
 
 - au développement des transports publics de personnes.
 
@@ -34,8 +36,8 @@ régions de Guadeloupe, de Guyane, de Martinique et de la Réunion;
 - aux dépenses d'investissement afférentes à la voirie dont il a la charge ;
 
 - aux dépenses de fonctionnement des services chargés de la réalisation et de
-l'entretien des voiries dans la région, sans préjudice des dépenses de
-fonctionnement assumées par l'Etat et par d'autres collectivités ;
+l'entretien des routes dans la région, sans préjudice des dépenses de
+fonctionnement assumées par d'autres collectivités ;
 
 - aux infrastructures de transport et au développement des transports publics de
 personnes.
@@ -55,46 +57,17 @@ dans la limite de 10 % du montant de la dotation.
 
 D. - Dans les départements de la Guadeloupe, de la Guyane et de la Martinique,
 une partie du produit de la taxe est affectée au budget des communes de plus de
-50 000 habitants, des établissements publics de coopération intercommunale et
-des syndicats mixtes lorsque la population de l'ensemble des communes membres de
-l'établissement ou du syndicat dépasse 50 000 habitants, ayant mis en place un
-service public de transports urbains de personnes ou ayant approuvé un plan de
-déplacement urbain. Elle est affectée au financement des dépenses
-d'investissement et de fonctionnement des transports publics urbains et des
-autres services de transports publics qui, sans être entièrement à l'intérieur
-du périmètre de transports urbains, concourent à la desserte de l'agglomération
-dans le cadre d'un contrat passé avec l'autorité responsable de l'organisation
-des transports urbains. Elle peut également être affectée aux aides à la
-modernisation de l'activité de transporteur public de personnes urbain.
+50 000 habitants et des établissements publics de coopération intercommunale
+lorsque la population de l'ensemble des communes membres de l'établissement
+dépasse 50 000 habitants, ayant mis en place un service public de transports
+urbains de personnes ou ayant approuvé un plan de déplacement urbain. Elle est
+affectée au financement des dépenses d'investissement et de fonctionnement des
+transports publics urbains et des autres services de transports publics qui,
+sans être entièrement à l'intérieur du périmètre de transports urbains,
+concourent à la desserte de l'agglomération dans le cadre d'un contrat passé
+avec l'autorité responsable de l'organisation des transports urbains. Elle peut
+également être affectée aux aides à la modernisation de l'activité de
+transporteur public de personnes urbain.
 
 Son montant est égal à 3 % du produit total. Elle est répartie entre les
-communes, les établissements publics de coopération intercommunale et les
-syndicats mixtes éligibles au prorata de leur population.
-
-E. - Une partie du produit de la taxe est affectée au budget des agences des
-transports publics de personnes de Guadeloupe, de Guyane et de Martinique, à
-compter de leur date d'installation. Elle est consacrée :
-
-- aux frais de fonctionnement de l'agence ;
-
-- aux dépenses d'investissement, notamment immobilier, nécessaires au
-fonctionnement de l'agence ;
-
-- aux subventions d'exploitation attribuées aux transporteurs publics de
-personnes ;
-
-- aux investissements de transports intérieurs de sa compétence ;
-
-- aux aides à la modernisation de l'activité de transporteur public de personnes
-;
-
-- au remboursement des emprunts que l'agence a contractés.
-
-Son montant est égal à 10 % du produit total la première année d'affectation et
-à 4 % les années suivantes.
-
-La partie du produit de la taxe perçue par une commune, un établissement public
-de coopération intercommunale ou un syndicat mixte, dans les conditions du D de
-ce même article, est transférée à l'agence des transports publics de personnes
-lorsque celle-ci leur est substituée en matière de transports intérieurs de
-personnes.
+communes et les établissements publics éligibles au prorata de leur population.

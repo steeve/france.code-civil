@@ -2,7 +2,7 @@ Article L961-5
 ----
 Lorsqu'elles suivent des stages agréés dans les conditions prévues à l'article
 L. 961-3, les personnes inscrites comme demandeurs d'emploi perçoivent une
-rémunération dont le montant est fixé par décret.
+rémunération dont le montant minimum est fixé par décret.
 
 Cette rémunération est déterminée à partir du salaire antérieur :
 

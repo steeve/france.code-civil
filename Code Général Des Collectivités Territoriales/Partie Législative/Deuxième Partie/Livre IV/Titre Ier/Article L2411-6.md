@@ -33,3 +33,7 @@ municipal ou si la commission syndicale ne s'est pas prononcée dans le délai d
 deux mois à compter de la délibération du conseil municipal, le maire passe le
 contrat. En cas de désaccord, le maire ne passe le contrat qu'après une nouvelle
 délibération du conseil municipal.
+
+Ces dispositions ne s'appliquent pas lorsque la vente de biens sectionaux a pour
+but l'implantation d'un lotissement. Dans cette hypothèse, seul le conseil
+municipal a compétence pour autoriser cette vente.

@@ -213,41 +213,24 @@ des transferts de charges.
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
 conditions figurant aux 2°, 3° et 4° ;
 
-2° L'attribution de compensation est égale au produit de taxe professionnelle
-perçu par elle l'année précédant celle de l'institution du taux de taxe
-professionnelle communautaire diminué du coût net des charges transférées
-calculé dans les conditions définies au IV ; ce produit de taxe professionnelle
-est majoré du montant perçu la même année au titre de la part de la dotation
-forfaitaire prévue à l'article L. 2334-7 du code général des collectivités
-territoriales correspondant au montant antérieurement versé en application du I
-du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
-1998), de la compensation prévue au B de l'article 26 de la loi de finances pour
-2003 (n° 2002-1575 du 30 décembre 2002) ainsi que, sous réserve d'une
-délibération du conseil de l'établissement public de coopération intercommunale
-statuant à l'unanimité, de la compensation prévue à l'article 53 de la loi de
-finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et, le cas échéant, des
-compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
-1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de
-l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
-de Corse, versées antérieurement aux communes, mais hors compensation prévue au
-IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
-1986). L'attribution de compensation est majorée d'une fraction de la
-contribution d'une commune définie à l'article L302-8 du code de la construction
-et de l'habitation. Cette fraction est égale à la part du potentiel fiscal de la
-taxe professionnelle dans le potentiel fiscal de la commune. Cette attribution
-est recalculée, dans les conditions prévues au IV, lors de chaque nouveau
-transfert de charges.
-
-Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de
-coopération intercommunale faisant application du régime fiscal du présent
-article pour adhérer à un autre établissement public de coopération
-intercommunale faisant application du même régime fiscal, le produit de taxe
-professionnelle est majoré du montant perçu, l'année de cette modification, par
-l'établissement public de coopération intercommunale auquel elle a cessé
-d'appartenir, au titre de la part de la dotation de compensation prévue à
-l'article L. 5211-28-1 du code général des collectivités territoriales
-correspondant au montant antérieurement versé en application du I du D de
-l'article 44 de la loi de finances pour 1999 précitée.
+2° L'attribution de compensation est égale au produit de taxe professionnelle, y
+compris la compensation prévue au I du D de l'article 44 modifié de la loi de
+finances pour 1999 (n° 98-1266 du 30 décembre 1998), celle prévue au B de
+l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002),
+et, le cas échéant, les compensations prévues au B de l'article 4 de la loi n°
+96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de
+relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre
+1996 relative à la zone franche de Corse, versées antérieurement aux communes,
+mais hors compensation prévue au IV bis de l'article 6 de la loi de finances
+pour 1987 (n° 86-1317 du 30 décembre 1986), perçu par elle l'année précédant
+l'institution du taux de taxe professionnelle communautaire diminué du coût net
+des charges transférées calculé dans les conditions définies au IV.
+L'attribution de compensation est majorée d'une fraction de la contribution
+d'une commune définie à l'article L302-8 du code de la construction et de
+l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe
+professionnelle dans le potentiel fiscal de la commune. Cette attribution est
+recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert
+de charges.
 
 2° bis Abrogé
 

@@ -25,3 +25,15 @@ délai de six mois à compter de la saisine pour avis, la région territorialeme
 compétente n'a pas elle-même formulé la demande.
 
 Le transfert est refusé si la cohérence hydraulique ne peut pas être assurée.
+
+La collectivité territoriale ou le groupement de collectivités territoriales
+bénéficiaire du transfert succède dans l'ensemble des droits et obligations à
+l'égard des tiers à la personne publique gestionnaire de ce domaine avant la
+date du transfert.
+
+Pour l'application du présent article, le représentant de l'Etat dans le
+département communique aux collectivités territoriales ou groupements intéressés
+qui en font la demande toutes les informations dont il dispose sur le domaine
+public fluvial susceptible de leur être transféré dans un délai de six mois. Il
+assortit ces informations d'un diagnostic portant sur la faisabilité et le coût
+de l'enlèvement des sédiments, ainsi que d'une analyse sur leur nature.

@@ -6,8 +6,8 @@ compétences et dans le respect des engagements internationaux de la France,
 adhérer à un organisme public de droit étranger ou participer au capital d'une
 personne morale de droit étranger auquel adhère ou participe au moins une
 collectivité territoriale ou un groupement de collectivités territoriales d'un
-Etat européen frontalier ou d'un Etat membre de l'union européenne. Cette
-adhésion ou cette participation est autorisée par décret en Conseil d'Etat.
+Etat européen frontalier ou d'un Etat membre de l'Union européenne. Cette
+adhésion ou cette participation est autorisée par arrêté du préfet de région.
 
 Cette adhésion ou cette participation fait l'objet d'une convention avec
 l'ensemble des collectivités territoriales étrangères ou de leurs groupements
@@ -16,7 +16,7 @@ morale en cause. Cette convention détermine la durée, les conditions, les
 modalités financières et de contrôle de cette adhésion ou de cette
 participation. Le total de la participation au capital ou aux charges d'une même
 personne morale de droit étranger des collectivités territoriales françaises et
-de leurs groupements ne peut être supérieur à 50 p. 100 de ce capital ou de ces
+de leurs groupements ne peut être supérieur à 50 % de ce capital ou de ces
 charges.
 
 La convention prévue à l'alinéa précédent entre en vigueur dès sa transmission

@@ -1,6 +1,6 @@
 Article L2251-4
 ----
-- La commune peut attribuer des subventions à des entreprises existantes ayant
+La commune peut attribuer des subventions à des entreprises existantes ayant
 pour objet l'exploitation de salles de spectacle cinématographique dans des
 conditions fixées par décret en Conseil d'Etat. Ces subventions ne peuvent être
 attribuées qu'aux établissements qui, quel que soit le nombre de leurs salles,

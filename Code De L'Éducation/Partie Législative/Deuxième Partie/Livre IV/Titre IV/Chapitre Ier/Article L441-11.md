@@ -11,11 +11,11 @@ l'établissement et, s'il appartient à une association, une copie des statuts d
 cette association.
 
 Le représentant de l'Etat dans le département, le procureur de la République et
-l'inspecteur de l'éducation nationale désigné par le recteur peuvent former
-opposition à l'ouverture d'un établissement d'enseignement technique privé, dans
-l'intérêt de l'ordre public, des bonnes moeurs ou de l'hygiène ou lorsqu'il
-résulte des programmes de l'enseignement que l'établissement projeté n'a pas le
-caractère d'un établissement d'enseignement technique.
+le recteur peuvent former opposition à l'ouverture d'un établissement
+d'enseignement technique privé, dans l'intérêt de l'ordre public, des bonnes
+moeurs ou de l'hygiène ou lorsqu'il résulte des programmes de l'enseignement que
+l'établissement projeté n'a pas le caractère d'un établissement d'enseignement
+technique.
 
 A défaut d'opposition, l'établissement est ouvert, à l'expiration d'un délai de
 deux mois, sans autre formalité ; ce délai a pour point de départ le jour où la

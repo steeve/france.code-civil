@@ -1,13 +1,19 @@
 Article L302-4
 ----
-Après l'adoption d'un programme local de l'habitat, une convention entre l'Etat
-et l'établissement public de coopération intercommunale fixe, si cet
-établissement est doté de la compétence de politique du logement, l'aide
-financière que, dans la limite des dotations ouvertes par les lois de finances,
-l'Etat apportera en matière d'habitat et d'action foncière, notamment pour
-permettre, dans les communes visées à l'article L. 302-5, l'accroissement net
-minimum du nombre de logements locatifs sociaux prévu au dernier alinéa de
-l'article L. 302-8. Cette convention est conclue pour une période de trois ans.
-A l'issue de cette période, une nouvelle convention, d'une durée maximale de
-trois ans, peut être conclue dans les mêmes conditions, pour la durée restant à
-courir du programme local de l'habitat.
+Le programme local de l'habitat peut être modifié par l'organe délibérant de
+l'établissement public de coopération intercommunale à condition qu'il ne soit
+pas porté atteinte à son économie générale.
+
+Lorsque le périmètre de l'établissement public de coopération intercommunale est
+étendu à une ou plusieurs communes, le programme local de l'habitat peut faire
+l'objet d'une modification, si les communes concernées représentent moins du
+cinquième de la population totale de l'établissement au terme de cette extension
+de périmètre.
+
+Le projet de modification est transmis pour avis au représentant de l'Etat dans
+le département ainsi qu'aux personnes morales associées en application de
+l'article L. 302-2. Leur avis est réputé donné s'il n'est pas rendu dans un
+délai de deux mois à compter de la transmission du projet.
+
+Le projet de modification est approuvé par l'organe délibérant de
+l'établissement public de coopération intercommunale.

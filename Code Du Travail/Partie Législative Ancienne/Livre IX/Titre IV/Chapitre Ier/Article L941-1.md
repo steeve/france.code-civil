@@ -1,12 +1,5 @@
 Article L941-1
 ----
-L'Etat concourt au financement des actions de formation professionnelle et de
-promotion sociale répondant aux orientations prioritaires et aux critères
-d'intervention définis par le comité interministériel de la formation
-professionnelle et de la promotion sociale après concertation avec les
-organisations professionnelles et syndicales, au sein des instances prévues à
-cet effet.
-
 La contribution financière de l'Etat peut porter sur les dépenses de
 fonctionnement des stages ainsi que, le cas échéant, sur les dépenses de
 construction ou d'équipement des centres.

@@ -1,6 +1,6 @@
 Article L5212-30
 ----
-- Lorsqu'une commune estime que les dispositions statutaires relatives à la
+Lorsqu'une commune estime que les dispositions statutaires relatives à la
 représentation des communes au comité du syndicat, ou aux compétences exercées
 par le syndicat, ou à la contribution des communes aux dépenses du syndicat,
 sont de nature à compromettre de manière essentielle son intérêt à participer à
@@ -43,6 +43,10 @@ membre.
 Lorsque ces emprunts font l'objet d'une mesure de nature à en diminuer la
 charge, l'annuité due par la commune admise à se retirer est réduite à due
 concurrence.
+
+Le retrait du syndicat vaut réduction du périmètre des syndicats mixtes dont le
+syndicat est membre dans les conditions fixées au troisième alinéa de l'article
+L. 5211-19.
 
 Les dispositions du présent article ne sont applicables qu'aux communes adhérant
 depuis six ans au moins au syndicat concerné.

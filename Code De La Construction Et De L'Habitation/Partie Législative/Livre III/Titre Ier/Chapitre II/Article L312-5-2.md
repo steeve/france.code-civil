@@ -1,6 +1,6 @@
 Article L312-5-2
 ----
-La région peut [*financer*] :
+La région peut :
 
 a) Compléter l'aide de l'Etat par des subventions, des prêts, des bonifications
 d'intérêts ou des garanties d'emprunt ;

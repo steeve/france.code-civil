@@ -1,15 +1,11 @@
 Article L153-2
 ----
-La convention par laquelle l'Etat concède la construction et l'exploitation d'un
-ouvrage d'art à comprendre dans la voirie nationale peut autoriser, dans les
-conditions définies par le cahier des charges, le concessionnaire à percevoir
-des redevances en vue d'assurer le remboursement des avances et dépenses de
-toute nature faites par l'Etat, l'exploitation et, éventuellement, l'entretien
-de l'ouvrage, ainsi que la rémunération et l'amortissement des capitaux investis
-par le concessionnaire.
+L'institution d'un péage pour l'usage d'un ouvrage d'art est décidée, après avis
+du conseil régional, des communes traversées et, le cas échéant, des organismes
+visés à l'article L. 153-5 :
 
-La convention de concession et le cahier des charges sont approuvés par décret
-en Conseil d'Etat pris après avis des conseils généraux concernés lorsque
-ceux-ci participent au financement de l'ouvrage d'art ou que l'absence d'autres
-moyens de communication assurant à l'usager un service de même nature rend
-l'ouvrage indispensable à la circulation locale.
+-par décret en Conseil d'Etat si la route appartient au domaine public de l'Etat
+;
+
+-par délibération de l'organe délibérant de la collectivité intéressée si la
+route appartient au domaine public d'un département ou d'une commune.

@@ -20,30 +20,13 @@ Ils votent le taux de cette taxe dans les conditions fixées à l'article 1639 A
 
 Ils peuvent définir, dans les conditions prévues au premier alinéa du 1 du II de
 l'article 1639 A bis, des zones de perception de la taxe d'enlèvement des
-ordures ménagères sur lesquelles ils votent des taux différents en vue de
-proportionner le montant de la taxe à l'importance du service rendu apprécié en
-fonction des conditions de réalisation du service et de son coût.
+ordures ménagères sur lesquelles ils votent des taux de taxe différents. Les
+taux par zone doivent être fixés en tenant compte de l'importance du service
+rendu à l'usager.
 
-Toutefois, à titre dérogatoire, ils peuvent, pour une période qui ne peut
-excéder dix ans, voter des taux différents sur leur périmètre, afin de limiter
-les hausses de cotisations liées à l'harmonisation du mode de financement. Cette
-disposition peut également être mise en oeuvre en cas de rattachement au
-syndicat d'une ou plusieurs communes ou d'un établissement public de coopération
-intercommunale. Les syndicats de communes et les syndicats mixtes décident, dans
-les conditions prévues au 1 du II de l'article 1639 A bis, de l'application de
-ce dispositif et de la délimitation des zones sur lesquelles des taux différents
-sont votés.
-
-Pour l'application du sixième alinéa, la période durant laquelle des taux
-différents peuvent être votés s'applique à compter du 1er janvier 2005 pour tous
-les syndicats de communes et syndicats mixtes qui perçoivent la taxe à cette
-date et à compter de la première année au titre de laquelle ces syndicats
-perçoivent la taxe pour ceux qui se mettent en conformité avec la loi n° 99-586
-du 12 juillet 1999 relative au renforcement et à la simplification de la
-coopération intercommunale ainsi que pour ceux nouvellement constitués. Elle
-s'applique à compter de l'année qui suit celle du rattachement en cas de
-rattachement de communes ou d'établissements publics de coopération
-intercommunale.
-
-Les dispositions des cinquième et sixième alinéas peuvent être appliquées
-simultanément.
+Toutefois, à titre dérogatoire, ils peuvent, afin de limiter les hausses de
+cotisations liées à l'harmonisation du mode de financement, voter des taux de
+taxe différents par commune ou groupe de communes. Cette possibilité ne peut
+excéder une période de cinq ans à compter de l'institution de la taxe. Elle peut
+également être mise en oeuvre en cas de rattachement d'une ou plusieurs
+communes.

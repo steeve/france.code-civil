@@ -5,7 +5,9 @@ l'autorité compétente pour l'organisation des transports urbains peuvent confi
 par convention tout ou partie de l'organisation des transports scolaires à des
 communes, établissements publics de coopération intercommunale, syndicats
 mixtes, établissements d'enseignement, associations de parents d'élèves et
-associations familiales.
+associations familiales. L'autorité compétente pour l'organisation des
+transports urbains peut également confier, par convention, tout ou partie de
+l'organisation des transports scolaires au département.
 
 Si aucune convention confiant l'organisation des transports scolaires à l'une
 des personnes morales qui en détenaient la responsabilité au 1er septembre 1984

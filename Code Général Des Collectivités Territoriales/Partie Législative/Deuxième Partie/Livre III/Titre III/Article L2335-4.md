@@ -1,7 +1,7 @@
 Article L2335-4
 ----
-- Pendant la période au cours de laquelle s'appliquent les dispositions tendant
-à faciliter l'intégration fiscale progressive des communes fusionnées, l'Etat
+Pendant la période au cours de laquelle s'appliquent les dispositions tendant à
+faciliter l'intégration fiscale progressive des communes fusionnées, l'Etat
 accorde une aide financière à la nouvelle commune.
 
 Le montant de cette aide est déterminé, au titre de chaque commune préexistante
@@ -15,12 +15,11 @@ appliqué par la nouvelle commune sur l'ensemble de son territoire au cours de l
 même année pour obtenir un produit égal au total des produits des mêmes
 contributions mis en recouvrement par l'ensemble des communes fusionnées.
 
-Au cours de la première année, l'aide de l'Etat est égale aux cinq sixièmes du
-produit de cette différence par les bases nettes correspondantes de la commune
-préexistante considérée. Au cours des quatre années suivantes, cette aide est
-respectivement ramenée aux quatre sixièmes, trois sixièmes, deux sixièmes et un
-sixième de ce même produit.
+Au cours de la première année, l'aide de l'Etat est égale aux douze treizièmes
+du produit de cette différence par les bases nettes correspondantes de la
+commune préexistante considérée. Au cours des onze années suivantes, elle est
+réduite chaque année d'un treizième et supprimée à partir de la treizième année.
 
-Au cours d'une année quelconque de cette période de cinq ans, l'Etat n'accorde
+Au cours d'une année quelconque de cette période de douze ans, l'Etat n'accorde
 aucune aide si le montant de cette aide, au titre d'une commune préexistante,
-est inférieur à un franc par habitant de ladite commune.
+est inférieur à 0,15 euro par habitant de ladite commune.

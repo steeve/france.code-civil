@@ -1,12 +1,6 @@
 Article L112-9
 ----
-Les régions et les départements sur le territoire desquels existe une société
-créée en application de l'article L. 112-8 sont associés, à leur demande, à la
-définition des missions de ces sociétés ainsi qu'à leur gestion et à leur
-contrôle.
-
-Pour l'exercice de leurs compétences, ils peuvent leur confier des missions.
-
-A cet effet, des conventions sont conclues entre l'Etat, les régions et les
-départements intéressés. Les lettres de mission de ces sociétés sont modifiées
-en conséquence.
+Les dispositions des articles L. 300-4 et L. 300-5 du code de l'urbanisme et des
+articles L. 1522-4, L. 1522-5, L. 1523-2 et L. 1523-7 du code général des
+collectivités territoriales sont applicables aux sociétés d'aménagement régional
+créées en application de l'article L. 112-8.

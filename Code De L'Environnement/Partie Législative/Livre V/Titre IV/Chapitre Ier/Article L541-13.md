@@ -32,7 +32,8 @@ organismes publics concernés, des organisations professionnelles concourant à 
 production et à l'élimination des déchets et des associations agréées de
 protection de l'environnement. Il est également soumis pour avis aux conseils
 régionaux limitrophes. Il est éventuellement modifié pour tenir compte de ces
-avis.
+avis. Si, dans les conditions prévues à l'article L. 541-15, l'Etat élabore le
+plan, l'avis du conseil régional est également sollicité.
 
 VII. - Le projet de plan est alors mis à la disposition du public pendant deux
 mois, puis approuvé par délibération du conseil régional et publié.

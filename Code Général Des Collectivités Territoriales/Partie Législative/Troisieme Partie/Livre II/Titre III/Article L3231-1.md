@@ -1,7 +1,7 @@
 Article L3231-1
 ----
-- L'Etat a la responsabilité de la conduite de la politique économique et
-sociale ainsi que de la défense de l'emploi.
+L'Etat a la responsabilité de la conduite de la politique économique et sociale
+ainsi que de la défense de l'emploi.
 
 Néanmoins, sous réserve du respect de la liberté du commerce et de l'industrie,
 du principe d'égalité des citoyens devant la loi ainsi que des règles de

@@ -3,7 +3,7 @@ Article L541-14
 I. - Chaque département est couvert par un plan départemental ou
 interdépartemental d'élimination des déchets ménagers et autres déchets
 mentionnés à l'article L. 2224-14 du code général des collectivités
-territoriales.
+territoriales. L'Ile-de-France est couverte par un plan régional.
 
 II. - Pour atteindre les objectifs visés aux articles L. 541-1 et L. 541-24, le
 plan :
@@ -35,18 +35,31 @@ IV. - Il prévoit obligatoirement, parmi les priorités qu'il retient, des centr
 de stockage de déchets ultimes issus du traitement des déchets ménagers et
 assimilés.
 
-V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité de
-l'Etat. Toutefois, cette compétence est transférée, à sa demande, au conseil
-général.
+V. - Le projet de plan est élaboré à l'initiative et sous la responsabilité du
+président du conseil général ou, dans la région d'Ile-de-France, du président du
+conseil régional. Les collectivités territoriales ou leurs groupements exerçant
+la compétence d'élimination ou de traitement des déchets et, dans la région
+d'Ile-de-France, les départements, sont associés à son élaboration.
 
 VI. - Il est établi en concertation avec une commission consultative composée de
 représentants des communes et de leurs groupements, du conseil général, de
-l'Etat, des organismes publics intéressés, des professionnels concernés et des
-associations agréées de protection de l'environnement.
+l'Etat, des organismes publics intéressés, des professionnels concernés, des
+associations agréées de protection de l'environnement et des associations
+agréées de consommateurs ainsi que, dans la région d'Ile-de-France, du conseil
+régional et des conseils généraux et des associations agréées de protection de
+l'environnement.
 
-VII. - Le projet de plan est soumis pour avis au conseil général, au conseil
-départemental d'hygiène ainsi qu'aux conseils généraux des départements
-limitrophes. Il est éventuellement modifié pour tenir compte de ces avis.
+VII. - Le projet de plan est soumis pour avis au représentant de l'Etat dans le
+département, au conseil départemental d'hygiène ainsi qu'aux conseils généraux
+des départements limitrophes. En Ile-de-France, il est soumis pour avis au
+représentant de l'Etat dans la région ainsi qu'aux conseils généraux et aux
+conseils départementaux d'hygiène des départements situés sur le territoire de
+la région. Il peut être modifié pour tenir compte de ces avis, qui sont réputés
+favorables s'ils n'ont pas été formulés dans un délai de trois mois à compter de
+la réception du projet. Si le plan est élaboré par l'Etat, dans les conditions
+prévues à l'article L. 541-15, l'avis du conseil général et, en Ile-de-France,
+du conseil régional est également sollicité.
 
 VIII. - Le projet de plan est alors soumis à enquête publique, puis approuvé par
-l'autorité compétente.
+délibération du conseil général ou, pour la région d'Ile-de-France, par
+délibération du conseil régional.

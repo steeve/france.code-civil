@@ -2,10 +2,17 @@ Article L153-1
 ----
 L'usage des ouvrages d'art est en principe gratuit.
 
-Toutefois, il peut être institué, à titre exceptionnel et temporaire, lorsque
-l'utilité, les dimensions et le coût d'un ouvrage d'art à comprendre dans la
-voirie nationale, départementale ou communale ainsi que le service rendu aux
-usagers le justifient, une redevance pour son usage.
+Toutefois, il peut être institué lorsque l'utilité, les dimensions, le coût d'un
+ouvrage d'art appartenant à la voirie nationale, départementale ou communale
+ainsi que le service rendu aux usagers le justifient, un péage pour son usage en
+vue d'assurer la couverture totale ou partielle des dépenses de toute nature
+liées soit à la construction, soit, lorsque ces missions font l'objet d'une
+convention de délégation de service public, à la construction, à l'exploitation
+et à l'entretien ou à l'exploitation et à l'entretien de l'ouvrage d'art et de
+ses voies d'accès ou de dégagement.
 
-En ce qui concerne la voirie communale, les ouvrages d'art doivent répondre aux
-conditions de dimension et de coût fixées par voie réglementaire.
+En cas de délégation de ces missions de service public, le péage couvre
+également la rémunération et l'amortissement des capitaux investis par le
+délégataire.
+
+Le produit du péage couvre ses frais de perception.

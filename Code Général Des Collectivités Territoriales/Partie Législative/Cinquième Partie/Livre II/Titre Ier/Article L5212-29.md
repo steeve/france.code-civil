@@ -1,6 +1,6 @@
 Article L5212-29
 ----
-- Par dérogation aux dispositions de l'article L. 5211-19, une commune peut être
+Par dérogation aux dispositions de l'article L. 5211-19, une commune peut être
 autorisée par le représentant de l'Etat dans le département après avis de la
 commission départementale de la coopération intercommunale réunie dans la
 formation prévue au second alinéa de l'article L. 5211-45 à se retirer du
@@ -29,6 +29,10 @@ membre.
 Lorsqu'un emprunt restant à la charge de la commune admise à se retirer fait
 l'objet d'une mesure de nature à en diminuer le montant, l'annuité due par cette
 commune est réduite à due concurrence.
+
+Le retrait du syndicat vaut réduction du périmètre des syndicats mixtes dont le
+syndicat est membre dans les conditions fixées au troisième alinéa de l'article
+L. 5211-19.
 
 Les dispositions du présent article ne s'appliquent pas aux syndicats de
 distribution d'électricité.

@@ -25,7 +25,9 @@ représentative.
 
 Lorsque le conseil exerce des compétences relatives à l'enseignement supérieur,
 un administrateur d'un établissement privé relevant de cet enseignement, nommé
-par le recteur, lui est adjoint.
+par le recteur, lui est adjoint. Lorsque le conseil exerce des compétences
+relatives aux centres de formation des apprentis, un représentant de ces centres
+nommé par le recteur lui est adjoint.
 
 La durée du mandat des membres nommés ou élus est de trois ans. Les membres
 nommés ou élus qui cessent, pour quelque cause que ce soit, notamment parce
