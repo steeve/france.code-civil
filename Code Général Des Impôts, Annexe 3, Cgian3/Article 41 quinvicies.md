@@ -23,3 +23,9 @@ montant ;
 
 e) L'indication du régime de report d'imposition applicable à l'opération
 d'échange.
+
+((f) Le cas échéant, la désignation de la société ou du groupement interposé qui
+a réalisé l'opération d'échange de titres ainsi que la quote-part des droits
+détenus dans la société ou le groupement à la date de l'échange)) (M).
+
+(M) Modification du décret 97-666.

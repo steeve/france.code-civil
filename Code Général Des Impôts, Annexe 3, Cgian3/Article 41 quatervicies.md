@@ -9,13 +9,17 @@ est demandé assorti des éléments nécessaires à sa détermination.
 
 Cette déclaration indique, en outre :
 
-La nature et la date de l'opération d'échange des titres ;
+a) La nature et la date de l'opération d'échange des titres ;
 
-La désignation des sociétés concernées ;
+b) La désignation des sociétés concernées ;
 
-Le nombre de titres remis et de titres reçus ainsi que leur valeur réelle
+c) Le nombre de titres remis et de titres reçus ainsi que leur valeur réelle
 unitaire à la date de l'opération d'échange ;
 
-La valeur nominale des titres reçus ;
+d) La valeur nominale des titres reçus ;
 
-Le montant de la soulte reçue, le cas échéant.
+e) Le montant de la soulte reçue, le cas échéant.
+
+f) S'il y a lieu, la désignation de la société ou du groupement interposé qui a
+réalisé l'opération d'échange de titres ainsi que la quote-part des droits
+détenus dans la société ou le groupement à la date de l'échange.
