@@ -8,17 +8,20 @@ la circonscription du port, dont deux au moins doivent être choisis, dans ces
 chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à
 l'article R. 112-2.
 
-2° a) Deux membres désignés par le conseil général du département dans lequel se
-trouve la principale ville de la circonscription du port, dont un présenté par
-le conseil régional.
+2° a) Un membre désigné par le conseil général du département dans lequel se
+trouve la principale ville de la circonscription du port;
 
-b) Un membre désigné par le conseil municipal de la principale ville de la
-circonscription du port.
+b) Un membre désigné par le conseil général du département dans lequel se trouve
+la principale ville de la circonscription du port;
 
-c) Deux membres représentant soit des collectivités locales, soit des
-établissements publics locaux, soit une collectivité locale et un établissement
-public local intéressés au fonctionnement du port dont la désignation appartient
-aux assemblées délibérantes de ces collectivités ou établissements.
+C) Un membre désigné par le conseil municipal de la principale ville de la
+circonscription du port;
+
+d) Deux membres représentant, soit des collectivités territoriales, soit des
+établissements publics territoriaux, soit une collectivité territoriale et un
+établissement public territorial intéressés au fonctionnement du port, dont la
+désignation appartient aux assemblées délibérantes de ces collectivités ou
+établissements.
 
 3° Trois membres représentant les salariés du port autonome, dont un
 représentant des ingénieurs, chefs de service et cadres administratifs,
@@ -35,9 +38,9 @@ b) Un représentant du ministre chargé de l'économie et des finances, présent
 par ce ministre et choisi parmi les fonctionnaires en activité de son
 département ;
 
-c) Le commissaire de la République de la région dans laquelle se trouve la ville
-principale de la circonscription du port autonome, ou son suppléant qu'il
-désigne à titre permanent ;
+c) Le préfet de la région dans laquelle se trouve la ville principale de la
+circonscription du port autonome, ou son suppléant qu'il désigne à titre
+permanent ;
 
 2° a) Deux personnalités choisies sur une liste de quatre usagers du port
 appartenant aux catégories énumérées à l'article R. 112-2, établie conjointement
