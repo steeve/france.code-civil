@@ -1,14 +1,10 @@
 Article R442-4
 ----
-Dans les entreprises relevant de l'impôt sur le revenu des personnes physiques
-[*IRPP*] le bénéfice à retenir avant déduction de l'impôt correspondant est égal
-au bénéfice imposable dudit exercice diminué :
-
-a) De la rémunération normale du travail du chef d'entreprise lorsque cette
-rémunération n'est pas admise dans les frais généraux pour l'assiette de l'impôt
-de droit commun ;
-
-b) Des résultats déficitaires enregistrés au cours des cinq années antérieures
-qui ont été imputées sur des revenus d'une autre nature mais n'ont pas déjà été
-pris en compte pour le calcul de la participation afférente aux exercices
-précédents.
+Dans les entreprises relevant de l'impôt sur le revenu, l'impôt à retenir pour
+le calcul du bénéfice net s'obtient en appliquant au bénéfice imposable de
+l'exercice rectifié dans les conditions prévues à l'article L. 442-3 du Code du
+travail le taux moyen d'imposition à l'impôt sur le revenu de l'exploitant. Ce
+taux moyen est égal à cent fois le chiffre obtenu en divisant l'impôt sur le
+revenu dû pour l'exercice considéré par le montant des revenus soumis à cet
+impôt. Toutefois le taux moyen retenu est, dans tous les cas, limité au taux de
+droit commun de l'impôt sur les sociétés.
