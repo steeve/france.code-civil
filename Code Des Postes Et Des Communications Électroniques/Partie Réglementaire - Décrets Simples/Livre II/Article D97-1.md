@@ -1,65 +1,58 @@
 Article D97-1
 ----
 La commission consultative des radiocommunications est composée de vingt et un
-membres nommés par arrêté du ministre chargé des télécommunications. Elle
-comprend :
+membres nommés par arrêté du ministre chargé des communications électroniques,
+après avis de l'Autorité de régulation des télécommunications. Elle comprend :
 
-- sept représentants des fournisseurs de services radioélectriques ;
+- sept représentants des exploitants de réseaux et fournisseurs de services
+radioélectriques ;
 
-- sept représentants des utilisateurs de ces services ;
+- sept représentants des utilisateurs de ces réseaux et services, professionnels
+et particuliers ;
 
 - sept personnalités qualifiées.
 
-La commission des radiocommunications est saisie sur tout projet visant à
-définir les procédures d'autorisation, à fixer ou à modifier les conditions
-techniques et d'exploitation des réseaux indépendants radioélectriques visés à
-l'article L. 33-2 du code des postes et télécommunications et des services
-radioélectriques fournis au public visés à l'article L. 34-3 du code des postes
-et télécommunications.
+La commission est consultée par l'autorité compétente sur :
 
-Elle est également saisie par le ministre chargé des télécommunications des
-projets de spécifications et de prescriptions techniques applicables à ces
-réseaux et services. Elle participe à leur élaboration en se fondant sur les
-normes, avis ou recommandations des instances européennes et internationales
-existants. A cet effet, elle peut s'adjoindre, à titre permanent ou temporaire,
-un ou plusieurs groupes techniques spécialisés. La commission est tenue informée
-des travaux des instances européennes et internationales compétentes dans le
-domaine des radiocommunications.
+- les projets visant à définir les procédures d'autorisation et à fixer ou
+modifier les conditions techniques et d'exploitation des réseaux
+radioélectriques ouverts au public, des réseaux indépendants radioélectriques et
+des services radioélectriques fournis au public, mentionnés aux articles L.
+33-1, L. 33-2 et L. 34-3 ;
 
-Elle est consultée par le ministre chargé des télécommunications sur :
+- les projets de spécifications et de prescriptions techniques applicables à ces
+réseaux et services ; la commission tient alors compte des normes, avis ou
+recommandations émanant des instances européennes et internationales ;
 
 - les projets visant à fixer les conditions dans lesquelles les réseaux
 radioélectriques indépendants peuvent être connectés à un réseau ouvert au
 public ;
 
-- les projets visant à déterminer les catégories d'installations
-radioélectriques de faible puissance et de faible portée qui peuvent être
-établis librement en application de l'article L. 33-3 du code des postes et
-télécommunications ainsi que sur les projets visant à fixer les conditions
-techniques d'exploitation des catégories d'installations ainsi déterminées.
+- les projets déterminant les catégories d'installations radioélectriques de
+faible puissance et de faible portée qui peuvent être établis librement en
+application de l'article L. 33-3 ainsi que les projets définissant les
+conditions d'utilisation des catégories d'installations ainsi déterminées et des
+installations radioélectriques n'utilisant pas de fréquences spécifiquement
+assignées à leur utilisateur ;
 
-La commission consultative peut également être saisie par toute personne à
-laquelle aurait été refusée ou retirée une autorisation demandée ou obtenue dans
-son domaine de compétence en application des articles L. 33-1, L. 33-2 et L.
-34-3 du code des postes et télécommunications. Dans ce cas, l'avis de la
-commission est notifié à la personne intéressée et au ministre chargé des
-télécommunications.
+- les projets visant à définir les prescriptions relatives à l'interconnexion et
+à la numérotation mentionnées aux articles L. 34-8 et L. 34-10.
 
-La commission peut être saisie, par le ministre chargé des télécommunications,
-de demandes d'avis, d'études ou de toute autre question relevant de son domaine
-de compétence. Elle est associée à l'évolution du cadre réglementaire des
-réseaux et services radioélectriques et peut formuler toute recommandation à cet
-effet. Elle peut décider, à l'initiative de son président et avec l'accord de la
-majorité de ses membres, de se saisir de toute question entrant dans son domaine
-de compétence. Dans ce cas, elle en informe le ministre chargé des
-télécommunications.
+La commission peut être saisie, par le ministre chargé des communications
+électroniques ou par l'Autorité de régulation des télécommunications, de
+demandes d'avis, d'études ou de toute autre question relevant de son domaine de
+compétence. Elle peut décider, à l'initiative de son président et avec l'accord
+de la majorité de ses membres, de se saisir de toute question entrant dans son
+domaine de compétence. Elle en informe alors le ministre chargé des
+communications électroniques et l'Autorité de régulation des télécommunications.
 
-Le ministre chargé des télécommunications transmet à la commission supérieure du
-service public des postes et télécommunications les conclusions de la commission
-des radiocommunications sur les questions qui lui sont soumises en application
-des alinéas 2, 3 et 4 du présent article. Les avis de la commission des
-radiocommunications peuvent être publiés par le ministre chargé des
-télécommunications. La commission peut, également, décider, à l'initiative de
-son président et avec l'accord de la majorité de ses membres, de rendre publics
-ses avis. Dans ce cas, elle en informe le ministre chargé des
-télécommunications.
+Le président de la commission consultative des radiocommunications transmet les
+avis émis par cette instance au ministre chargé des communications électroniques
+et à l'Autorité de régulation des télécommunications. Le ministre transmet à la
+Commission supérieure du service public des postes et des communications
+électroniques les avis que la commission consultative des radiocommunications a
+émis sur les projets mentionnés au deuxième alinéa du présent article. Les avis
+émis par la commission peuvent être rendus publics, soit à l'initiative de
+l'autorité qui les a sollicités, soit à l'initiative du président de la
+commission, avec l'accord de la majorité des membres de cette instance et après
+que l'autorité de saisine en a été informée.
