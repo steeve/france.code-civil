@@ -1,7 +1,7 @@
 Article L531
 ----
 Le conseil central gérant la section D de l'Ordre des pharmaciens est composé de
-dix [*nombre*] membres, nommés ou élus pour quatre ans [*durée*] par tous les
+seize [*nombre*] membres, nommés ou élus pour quatre ans [*durée*] par tous les
 pharmaciens inscrits sur le tableau de la section D de l'Ordre.
 
 Ce conseil central comprend :
@@ -13,9 +13,12 @@ l'Education nationale ;
 Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre de
 la Santé publique ;
 
-Deux pharmaciens d'hôpitaux, hospices ou asiles, élus ;
+Cinq pharmaciens des établissements de soins publics ou privés, élus, dont au
+moins un pharmacien à temps plein et un pharmacien à temps partiel.
 
 Un pharmacien mutualiste, élu ;
 
-Cinq pharmaciens salariés dont au moins un représentant de l'industrie, un de la
-droguerie et un de la pharmacie de détail, élus.
+Huit pharmaciens appartenant aux autres catégories de pharmaciens inscrits en
+section D, dont au moins deux pharmaciens assistants de l'industrie, un de la
+vente en gros ou de la distribution en gros et deux de la pharmacie d'officine,
+élus.

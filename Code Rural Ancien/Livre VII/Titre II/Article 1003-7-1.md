@@ -16,6 +16,14 @@ justifier le chef d'exploitation ou d'entreprise pour relever des régimes
 mentionnés ci-dessus est déterminée par décret en tenant compte du temps de
 travail nécessaire à la conduite de cette exploitation ou entreprise.
 
+Le décret prévu à l'alinéa précédent fixe une durée d'activité minimale
+spécifique en faveur des personnes qui exercent des professions connexes à
+l'agriculture en double activité ou non dans les communes situées en zone de
+montagne.
+
+L'intéressé doit justifier au moment de l'affiliation que son exploitation
+répond aux conditions prévues par les articles 188-1 à 188-6 du présent code.
+
 II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une
 exploitation ou entreprise agricoles ne répondant pas à la condition
 d'importance minimale fixée au I sont affiliées, sur leur demande, par décision

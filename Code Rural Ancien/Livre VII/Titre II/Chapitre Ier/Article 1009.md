@@ -24,9 +24,10 @@ par l'union départementale des associations familiales sur proposition des
 associations familiales rurales ; le mandat de ces deux administrateurs est
 également fixé à cinq ans.
 
-3° Siègent également, avec voix consultative, deux représentants du personnel de
-la caisse de mutualité sociale agricole désignés par le comité d'entreprise et
-pris en son sein.
+3° Siègent également, avec voix consultative, trois représentants du personnel
+de la caisse, désignés par le comité d'entreprise et pris en son sein, à raison
+de deux représentants des employés et assimilés et d'un représentant des cadres
+et assimilés.
 
 Les administrateurs des deuxième et troisième collèges ainsi que
 l'administrateur représentant des familles qui relève du deuxième collège

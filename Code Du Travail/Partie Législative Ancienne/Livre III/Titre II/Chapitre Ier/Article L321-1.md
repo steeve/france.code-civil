@@ -8,3 +8,8 @@ retenus pour fixer l'ordre des licenciements. Ces critères prennent notamment e
 compte les charges de famille et en particulier celles des parents isolés,
 l'ancienneté de service dans l'établissement ou l'entreprise et les qualités
 professionnelles.
+
+La convention et l'accord collectif de travail ou, à défaut, la décision de
+l'employeur ne peuvent comporter de dispositions établissant une priorité de
+licenciement à raison des seuls avantages à caractère viager dont bénéficie un
+salarié.

@@ -1,29 +1,44 @@
 Article L351-12
 ----
-Ont droit aux allocations d'assurance [*chômage*] dans les conditions prévues à
-l'article L. 351-3 [*bénéficiaires*]:
+Ont droit aux allocations d'assurance dans les conditions prévues à l'article L.
+351-3 :
 
 1° Les agents non fonctionnaires de l'Etat et de ses établissements publics
-administratifs ainsi que les agents des collectivités locales et des autres
-établissements publics administratifs autres que ceux mentionnés au 3°
-ci-dessous ;
+administratifs, les agents titulaires des collectivités territoriales ainsi que
+les agents statutaires des autres établissements publics administratifs ;
 
-2° Les salariés des entreprises, sociétés et organismes définis à l'article
-164-1-a de l'ordonnance n° 58-1374 du 30 décembre 1958, les salariés relevant
-soit des établissements publics à caractère industriel et commercial des
-collectivités locales, soit des sociétés d'économie mixte dans lesquelles ces
-collectivités ont une participation majoritaire ;
+2° Les agents non titulaires des collectivités territoriales et les agents non
+statutaires des établissements publics administratifs autres que ceux de l'Etat
+et ceux mentionnés au 4° ci-dessous ;
 
-3° Les salariés non statutaires des chambres de métiers, des services à
+3° Les salariés des entreprises, sociétés et organismes définis au a du
+paragraphe I de l'article 164 de l'ordonnance portant loi de finances pour 1959
+(n° 58-1374 du 30 décembre 1958), les salariés relevant soit des établissements
+publics à caractère industriel et commercial des collectivités territoriales,
+soit des sociétés d'économie mixte dans lesquelles ces collectivités ont une
+participation majoritaire ;
+
+4° Les salariés non statutaires des chambres de métiers, des services à
 caractère industriel et commercial gérés par les chambres de commerce et
 d'industrie, des chambres d'agriculture, ainsi que les salariés des
 établissements et services d'utilité agricole de ces chambres.
 
-Le service de cette indemnisation est assuré par les employeurs mentionnés au
-présent article. Ceux-ci peuvent toutefois, par convention conclue avec les
-institutions gestionnaires du régime d'assurance, leur confier ce service.
-Hormis les employeurs visés au 1° ci-dessus, ils ont aussi la faculté, par une
+La charge et la gestion de cette indemnisation sont assurées par les employeurs
+mentionnés au présent article. Ceux-ci peuvent toutefois, par convention conclue
+avec les institutions gestionnaires du régime d'assurance, leur confier cette
+gestion.
+
+Les employeurs mentionnés au 3° et au 4° ci-dessus ont aussi la faculté, par une
 option irrévocable, de se placer sous le régime de l'article L. 351-4.
+
+Les employeurs mentionnés au 2° peuvent également adhérer au régime
+[*d'assurance chômage*] prévu à l'article L. 351-4. La contribution incombant
+aux salariés prévue à l'article L. 351-5 est égale au montant de la contribution
+exceptionnelle qu'ils auraient dû verser en application de l'article 2 de la loi
+n° 82-939 du 4 novembre 1982 relative à la contribution exceptionnelle de
+solidarité en faveur des travailleurs privés d'emploi et est versée par
+l'employeur. Les litiges résultant de cette adhésion relèvent de la compétence
+des tribunaux judiciaires.
 
 Un décret en Conseil d'Etat fixe les règles de coordination applicables pour
 l'indemnisation des travailleurs dont les activités antérieures prises en compte

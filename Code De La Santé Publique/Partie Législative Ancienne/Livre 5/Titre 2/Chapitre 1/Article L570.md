@@ -1,9 +1,15 @@
 Article L570
 ----
 Toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu
-dans un autre sont subordonnés à l'octroi d'une licence délivrée par le préfet
-sur la proposition de l'inspecteur divisionnaire de la santé après avis du
-conseil régional de l'Ordre des pharmaciens [*condition d'exercice*].
+dans un autre sont subordonnés à l'octroi d'une licence délivrée par le
+représentant de l'Etat dans le département après avis du conseil régional de
+l'ordre des pharmaciens et du directeur régional des affaires sanitaires et
+sociales.
+
+Le transfert d'une officine ne peut être autorisé qu'à la double condition qu'il
+ne compromette pas l'approvisionnement normal en médicaments de la population du
+quartier d'origine et qu'il réponde à un besoin réel de la population résidant
+dans le quartier d'accueil.
 
 Cette licence [*mention obligatoire*] fixe l'emplacement où l'officine sera
 exploitée [*lieu*].
@@ -22,5 +28,7 @@ ouverture.
 
 Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être
 fait appel au ministre de la Santé publique qui statue après avis du conseil
-régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence
-doit être remise à la préfecture par son dernier titulaire ou par ses héritiers.
+régional [*recours*].
+
+Lors de la fermeture définitive de l'officine, la licence doit être remise à la
+préfecture par son dernier titulaire ou par ses héritiers.

@@ -25,12 +25,12 @@ Code de la santé publique est la population municipale totale, telle qu'elle es
 définie par le décret ayant ordonné le dernier dénombrement général de la
 population [*dispositions réglementaires*].
 
-Si les besoins de la population l'exigent, des dérogations à ces règles peuvent
-être accordées [*autorisations dérogatoires*] par le préfet après avis du chef
-de service régional des affaires sanitaires et sociales, du pharmacien
-inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens
-et des syndicats professionnels [*dernière phrase : dispositions
-réglementaires*].
+Si les besoins réels de la population résidente et de la population saisonnière
+l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations
+dérogatoires*] par le préfet après avis du chef de service régional des affaires
+sanitaires et sociales, du pharmacien inspecteur régional de la santé, du
+conseil régional de l'ordre des pharmaciens et des syndicats professionnels
+[*dernière phrase : dispositions réglementaires*].
 
 Dans tous les cas, le préfet peut imposer une distance minimum entre deux
 officines.

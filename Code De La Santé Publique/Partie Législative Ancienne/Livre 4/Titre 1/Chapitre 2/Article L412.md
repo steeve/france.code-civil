@@ -14,5 +14,6 @@ Un médecin ne peut être inscrit que sur un seul tableau qui est celui du
 département où se trouve sa résidence professionnelle sauf dérogation prévue par
 le code de déontologie.
 
-Un médecin inscrit ou enregistré en qualité de médecin dans un Etat étranger ne
-peut être inscrit à un tableau de l'Ordre des médecins [*non cumul*].
+Un médecin inscrit ou enregistré en qualité de médecin dans un Etat ne faisant
+pas partie de la Communauté économique européenne ne peut être inscrit à un
+tableau à l'ordre des médecins.

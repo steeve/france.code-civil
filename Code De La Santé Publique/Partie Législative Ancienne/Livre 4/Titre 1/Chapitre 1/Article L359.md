@@ -1,10 +1,10 @@
 Article L359
 ----
-Les étudiants en médecine français ou ressortissant de l'un des états membres de
-la communauté économique européenne [*condition de nationalité*] reçus au
+Les étudiants en médecine français ou ressortissant de l'un des Etats membres de
+la Communauté économique européenne [*condition de nationalité*] reçus au
 concours de l'internat des centres hospitaliers régionaux faisant partie d'un
 centre hospitalier et universitaire et les étudiants en médecine français ou
-ressortissants de l'un des états membres de la communauté économique européenne
+ressortissants de l'un des Etats membres de la Communauté économique européenne
 ayant achevé en France avec succès le deuxième cycle des études médicales
 peuvent être autorisés à exercer la médecine soit en temps d'épidémie, soit à
 titre de remplaçant d'un docteur en médecine, soit, en cas d'afflux exceptionnel
@@ -12,7 +12,7 @@ de population dans une région déterminée, comme adjoint d'un docteur en
 médecine.
 
 Par dérogation aux dispositions ci-dessus, les étudiants en médecine français ou
-ressortissants de l'un des Etats membres de la communauté économique européenne
+ressortissants de l'un des Etats membres de la Communauté économique européenne
 ayant validé en France la totalité des enseignements théoriques afférents à la
 deuxième partie du deuxième cycle des études médicales peuvent être autorisés à
 effectuer des remplacements pendant leur congé [*payé*] annuel.
@@ -23,7 +23,7 @@ l'ordre, et limitées à trois mois [*durée*] ; elles sont renouvelables dans l
 mêmes conditions.
 
 Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la
-santé publique [*autorité compétente*] peut, par arrêté pris, sauf en cas
+Santé publique [*autorité compétente*] peut, par arrêté pris, sauf en cas
 d'extrême urgence, après avis des conseils de l'ordre intéressés, habiliter les
 préfets à autoriser, dans les conditions prévues à l'alinéa précédent,
 l'exercice de la médecine par :
@@ -51,16 +51,16 @@ adjoint d'un chirurgien dentiste :
 
 1° Pour les seules périodes de vacances universitaires et dans la limite de deux
 années consécutives [*durée*], les étudiants en chirurgie dentaire français ou
-ressortissants de l'un des états membres de la communauté économique européenne
+ressortissants de l'un des Etats membres de la Communauté économique européenne
 ayant accompli en France leur quatrième année d'études odontologiques, celle-ci
 étant validée ; dans ce cas, l'avis du directeur de l'unité d'enseignement et de
 recherche d'otontologie doit avoir été recueilli par le conseil de l'ordre ;
 
 2° Les étudiants en chirurgie dentaire français ou ressortissants de l'un des
-états membres de la communauté économique européenne ayant satisfait en France à
-l'examen de cinquième année, pendant l'année qui suit cet examen, ce délai
-pouvant être prorogé d'une durée égale à celle du service national accompli par
-les intéressés à la suite dudit examen. Le bénéfice de l'autorisation
-préfectorale est prolongé après la soutenance de thèse jusqu'à ce qu'il soit
-statué sur leur demande d'inscription au tableau de l'ordre, si la demande est
-faite dans le mois de cette soutenance.
+Etats membres des Communautés européennes ayant satisfait en France à l'examen
+de cinquième année, à compter de cet examen et jusqu'à la fin de l'année civile
+qui suit , ce délai pouvant être prorogé d'une durée égale à celle du service
+national accompli par les intéressés à la suite dudit examen. Le bénéfice de
+l'autorisation préfectorale est prolongé après la soutenance de thèse jusqu'à ce
+qu'il soit statué sur leur demande d'inscription au tableau de l'ordre, si la
+demande est faite dans le mois de cette soutenance.

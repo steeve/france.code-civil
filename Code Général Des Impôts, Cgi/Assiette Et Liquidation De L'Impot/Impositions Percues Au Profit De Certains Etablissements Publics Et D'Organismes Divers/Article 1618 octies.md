@@ -6,22 +6,26 @@ collecteurs agréés. Toutefois, sont exclues les céréales de consommation
 courante échangées contre les céréales de semences certifiées dans la limite
 d'un plafond fixé par décret.
 
-Le taux de la taxe est fixé à un pourcentage du prix d'intervention défini par
-l'article 3 du règlement C.E.E. n° 2727/75 :
+Les montants de cette taxe s'établissent comme suit, en francs par tonne :
 
-- 2,03 % pour le blé tendre, l'orge, le seigle, le blé et le sorgho ;
+pour le blé tendre : 23,25 F ;
 
-- 1,82 % pour le maïs.
+pour le blé dur : 38,85 F ;
 
-Pour l'avoine, le taux est fixé à 1,82 % du prix du de seuil défini à l'article
-2 du règlement C.E.E. n° 2727/75.
+pour l'orge : 22,10 F ;
 
-Pour le triticale, le montant de la taxe applicable est égal à celui qui résulte
-des dispositions prévues ci-dessus pour le seigle.
+pour le seigle : 23,25 F ;
 
-La taxe est perçue par la direction générale des impôts auprès des collecteurs
-agrées. Elle est constatée, recouvrée, contrôlée et poursuivie selon les règles
-et sous les garanties et sûretés prévues en matière de contributions indirectes.
+pour le maïs : 20,85 F ;
+
+pour l'avoine : 25,55 F ;
+
+pour le sorgho : 22,10 F ;
+
+pour le triticale : 23,25 F [*(1)*] La taxe est perçue par la direction générale
+des impôts auprès des collecteurs agrées. Elle est constatée, recouvrée,
+contrôlée et poursuivie selon les règles et sous les garanties et sûretés
+prévues en matière de contributions indirectes.
 
 II. Les éleveurs producteurs de céréales peuvent obtenir la restitution de la
 taxe visée au I correspondant aux quantités de céréales contenues dans les
@@ -32,4 +36,5 @@ dans la limite globale de 150 tonnes par campagne et à concurrence des quantit�
 de céréales équivalentes produites par l'éleveur et livrées audit collecteur
 agréé (1).
 
-(1) Disposition applicable à compter de la campagne 1983-1984.
+[*(1) : ces montants s'appliquent à compter de la campagne 1987-1988.*] (1)
+Disposition applicable à compter de la campagne 1983-1984.

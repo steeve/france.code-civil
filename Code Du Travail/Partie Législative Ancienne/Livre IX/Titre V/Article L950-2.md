@@ -1,12 +1,12 @@
 Article L950-2
 ----
-Les employeurs doivent [*obligations*] consacrer au financement des actions de
-formation définies à l'article L. 950-1 un pourcentage minimum de 1,1 p. 100 du
-montant, entendu au sens de l'article 231-1 du code général des impôts, des
-salaires payés pendant l'année en cours. Ce pourcentage pourra être revalorisé
-par la loi de finances après consultation du Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi prévu à l'article L.
-910-1.
+Les employeurs doivent consacrer au financement des actions de formation
+définies à l'article L. 950-1 un pourcentage minimal de 1,2 p. 100 du montant
+[*taux de participation*], entendu au sens du 1 de l'article 231 du code général
+des impôts, des salaires payés pendant l'année en cours. Ce pourcentage peut
+être revalorisé par la loi après consultation du Conseil national de la
+formation professionnelle, de la promotion sociale et de l'emploi prévu à
+l'article L. 910-1.
 
 Sous réserve des dispositions de l'article L. 950-2-4, les employeurs
 s'acquittent de l'obligation prévue à l'article L. 950-1 :

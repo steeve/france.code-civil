@@ -19,5 +19,5 @@ Un décret pris sur le rapport du ministre de l'agriculture fixera dans quelles
 conditions seront applicables les dispositions transitoires prévues par le
 décret du 12 juin 1946.
 
-Les dispositions des articles 1031-1 et 1038-1 sont applicables aux départements
-du Haut-Rhin, du Bas-Rhin et de la Moselle.
+Les dispositions du second alinéa de l'article L. 242-13 du code de la sécurité
+sociale sont applicables aux assurés des professions agricoles et forestières.

@@ -4,8 +4,8 @@ I. - Sauf le cas de fraude ou de fausse déclaration, les cotisations dues au
 titre des régimes de protection sociale agricole visés au livre VII du présent
 code, à l'exception de celles qui concernent l'assurance accident des personnes
 non salariées de l'agriculture, et les pénalités de retard y afférentes, se
-prescrivent par cinq ans à compter de l'expiration de l'année civile au titre de
-laquelle elles sont dues. Les actions résultant de l'application de l'article
+prescrivent par trois ans à compter de l'expiration de l'année civile au titre
+de laquelle elles sont dues. Les actions résultant de l'application de l'article
 1143-2 se prescrivent par cinq ans à compter de la mise en demeure.
 
 II. - La demande de remboursement des cotisations visée au I ci-dessus se
@@ -23,7 +23,7 @@ ci-dessus, le bénéfice des prestations servies, ainsi que les droits à
 l'assurance vieillesse restent acquis à l'assuré, sauf cas de fraude ou de
 fausse déclaration.
 
-III. - Les délais de prescription prévus aux articles L. 67 et L. 395 du code de
-la sécurité sociale sont applicables aux actions intentées par les organismes
-payeurs des régimes de protection sociale agricole en recouvrement des
-prestations indûment payées.
+III. - Les délais de prescription prévus aux articles L. 355-3 et L. 332-1 du
+code de la sécurité sociale sont applicables aux actions intentées par les
+organismes payeurs des régimes de protection sociale agricole en recouvrement
+des prestations indûment payées.
