@@ -1,5 +1,5 @@
 Article D721-14
 ----
-La caisse d'assurance vieillesse, invalidité et maladie des cultes statue sur
-l'état d'incapacité totale et définitive d'exercer pour l'application du
-deuxième alinéa de l'article D. 721-6, sur avis du médecin-conseil.
+Les périodes de perception de la pension d'invalidité définie à l'article L.
+381-18-1 sont prises en compte comme périodes d'assurance pour l'ouverture et le
+calcul des droits à pension.

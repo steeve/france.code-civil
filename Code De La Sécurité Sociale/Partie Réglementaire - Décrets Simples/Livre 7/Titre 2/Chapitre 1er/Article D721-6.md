@@ -3,13 +3,9 @@ Article D721-6
 L'âge à partir duquel est allouée la pension de vieillesse prévue à la présente
 sous-section est fixé à soixante-cinq ans.
 
-Cet âge est abaissé à soixante ans au profit :
-
-1°) des anciens déportés ou internés titulaires de la carte de déporté ou
-interné de la Résistance ou de la carte de déporté ou interné politique ;
-
-2°) des assurés atteints d'une incapacité totale et définitive d'exercer,
-médicalement constatée dans les conditions prévues à l'article D. 721-14.
+Cet âge est abaissé à soixante ans au profit des anciens déportés ou internés
+titulaires de la carte de déporté ou interné de la Résistance ou de la carte de
+déporté ou interné politique.
 
 Il est abaissé à un âge compris entre soixante et soixante-cinq ans au profit
 des assurés qui sont anciens combattants titulaires de la carte de combattant ou
