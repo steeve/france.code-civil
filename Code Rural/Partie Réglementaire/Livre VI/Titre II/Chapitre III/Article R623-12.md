@@ -1,8 +1,8 @@
 Article R623-12
 ----
-Le directeur du Fonds d'intervention et de régularisation du marché du sucre est
-nommé par décret pris sur proposition des ministres chargés de l'agriculture, de
-l'économie et de l'outre-mer.
+Le directeur du Fonds d'intervention et de régularisation du marché du sucre
+(FIRS) est le directeur général de l'Office national interprofessionnel des
+céréales (ONIC).
 
 Il assure le fonctionnement des services de l'établissement qu'il représente en
 justice et dans tous les actes de la vie civile.
