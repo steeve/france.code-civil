@@ -3,7 +3,7 @@ Article L434-6
 Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix
 en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 et
 13, et, dans la limite de deux fois par exercice, en vue de l'examen des
-documents mentionnés au dizième alinéa du même article. Il peut également se
+documents mentionnés au quatorzième alinéa du même article. Il peut également se
 faire assister d'un expert-comptable dans les conditions prévues à l'article L.
 432-5 et lorsque la procédure de consultation prévue à l'article L. 321-3 pour
 licenciement économique d'ordre structurel ou conjoncturel doit être mise en
@@ -15,7 +15,7 @@ de la situation de l'entreprise.
 
 Pour opérer toute vérification ou tout contrôle qui entre dans l'exercice de ces
 missions, l'expert-comptable a accès aux mêmes documents que le commissaire aux
-comptes [*information*].
+comptes.
 
 Le comité d'entreprise, dans les entreprises d'au moins trois cents salariés,
 peut, en outre, avoir recours à un expert à l'occasion de tout projet important

@@ -1,14 +1,7 @@
 Article L143-11-2
 ----
-Le régime d'assurance prévue à l'article L. 143-11-1 est mis en oeuvre par une
-association créée par les organisations nationales professionnelles d'employeurs
-les plus représentatives et agréée par le ministre chargé du travail.
-
-Cette association passe une convention de gestion avec les institutions
-gestionnaires du régime d'assurance mentionné à la section I du chapitre Ier du
-titre V du livre III de la première partie du code du travail [*UNEDIC,
-ASSEDIC*].
-
-En cas de dissolution de cette association, le ministre chargé du travail confie
-aux institutions prévues à l'alinéa précédent la gestion du régime d'assurance
-institué à l'article L. 143-11-1.
+Les créances résultant du licenciement des salariés bénéficiaires d'une
+protection particulière relative au licenciement sont couvertes par l'assurance
+dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a
+manifesté, au cours des périodes mentionnées au 2° de l'article L. 143-11-1, son
+intention de rompre le contrat de travail.

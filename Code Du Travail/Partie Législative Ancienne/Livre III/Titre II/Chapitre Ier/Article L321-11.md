@@ -1,6 +1,6 @@
 Article L321-11
 ----
-Sera puni d'une amende de 1.000 F à 3.000 F, prononcée autant de fois qu'il y a
+Sera puni d'une amende de 1.000 F à 8.000 F, prononcée autant de fois qu'il y a
 de salariés concernés par la ou les infractions visées ci-dessous, l'employeur
 qui :
 
@@ -12,5 +12,6 @@ préalable, procédé aux consultations prévues à l'article L. 321-3 ;
 
 3. N'aura pas observé les dispositions du dernier alinéa de l'article L. 321-9.
 
-Sera passible des mêmes peines l'employeur ou le syndic qui n'aura pas observé
-les dispositions prévues à l'article L. 321-10.
+Est passible des mêmes peines l'employeur,l'administrateur ou le liquidateur qui
+n aura pas observé les dispositions prévues aux articles L. 321-7, deuxième
+alinéa, et L. 321-10.
