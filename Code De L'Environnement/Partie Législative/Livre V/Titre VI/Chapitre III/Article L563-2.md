@@ -10,8 +10,8 @@ ceux qui pourraient résulter des modifications de milieu envisagées.
 Cette prise en compte s'apprécie en fonction des informations dont peut disposer
 l'autorité compétente.
 
-Sans préjudice des dispositions des deux alinéas ci-dessus, le représentant de
-l'Etat visé à l'article L. 145-11 du code de l'urbanisme pour les unités
+Sans préjudice des dispositions des deux alinéas ci-dessus, les représentants de
+l'Etat visés à l'article L. 145-11 du code de l'urbanisme pour les unités
 touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées
-mécaniques tient compte des risques naturels pour la délivrance des
+mécaniques tiennent compte des risques naturels pour la délivrance des
 autorisations correspondantes.
