@@ -6,6 +6,6 @@ résidence du requérant, soit auprès de la caisse de mutualité sociale agrico
 compétente pour lui verser les prestations familiales dont il bénéficie ou
 serait susceptible de bénéficier.
 
-En aucun cas, lorsqu'il est fait application de la dérogation aux normes de
-salubrité prévue à l'article R. 831-13, l'allocation de logement ne peut être
-versée entre les mains du bailleur ou du prêteur.
+En aucun cas, lorsqu'il est fait application de la dérogation aux
+caractéristiques de logement décent prévue à l'article R. 831-13, l'allocation
+de logement ne peut être versée entre les mains du bailleur.
