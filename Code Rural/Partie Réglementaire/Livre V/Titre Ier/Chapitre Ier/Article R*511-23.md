@@ -1,6 +1,6 @@
 Article R*511-23
 ----
-Dans les cinq jours qui suivent l'affichage prévu au quatrième alinéa de
+Dans les cinq jours qui suivent l'affichage prévu au troisième alinéa de
 l'article R. 511-22, le commissaire de la République, les réclamants et les
 personnes intéressées par les décisions de la commission départementale peuvent
 saisir le tribunal d'instance dans le ressort où est située ladite commission.
@@ -13,7 +13,13 @@ secrétaire-greffier.
 
 Toutefois, si la demande soumise au tribunal d'instance pose une question
 préjudicielle, le tribunal renvoie les parties à se pourvoir devant le tribunal
-compétent, conformément aux dispositions du nouveau Code de procédure civile.
+compétent, conformément aux dispositions du nouveau code de procédure civile.
+
+Le juge du tribunal d'instance, directement saisi, a compétence pour statuer
+jusqu'au jour du scrutin sur les réclamations des personnes qui prétendent avoir
+été omises sur les listes électorales par suite d'une erreur purement matérielle
+ou avoir été radiées de ces listes sans observation des formalités prescrites
+par l'article R. 511-21.
 
 Le greffier du tribunal d'instance adresse, dans les deux jours, copie de la
 décision au président de la commission départementale, aux maires des communes

@@ -1,6 +1,6 @@
 Article R511-7
 ----
-Les chambres d'agriculture peuvent désigner, dans la limite de cinq, des membres
+Les chambres d'agriculture peuvent désigner, dans la limite de huit, des membres
 associés qui participent aux sessions avec voix consultative. Leur choix pourra
 se porter sur des personnes qui, par leur activité et leurs responsabilités,
 sont en relation avec la profession agricole.
