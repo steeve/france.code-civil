@@ -7,9 +7,10 @@ commission ainsi composée :
 
 - le chef de corps, président ;
 
-- deux [*nombre*] membres du conseil municipal désignés par le maire ;
+- deux membres du conseil municipal désignés par le maire ;
 
-- l'inspecteur départemental des services d'incendie et de secours ;
+- l'inspecteur départemental des services d'incendie et de secours ou, en son
+absence, un inspecteur adjoint le remplaçant ;
 
 - trois délégués désignés par le préfet ;
 
