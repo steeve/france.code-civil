@@ -1,8 +1,16 @@
 Article R831-1
 ----
-Dans les départements [*Outre-Mer*] de la Guadeloupe, de la Guyane, de la
-Martinique /R/et de la Réunion/R/ORD. 1102 26-09-1977 : de la Réunion et de
-Saint-Pierre-et-Miquelon//, lorsque la carte de travail prévue à l'article L.
-341-2 et à l'article R. 341-1 est délivrée pour la première fois, elle doit
-mentionner la date ainsi que la durée du contrat de travail sur le vu duquel
-elle a été délivrée.
+Peuvent bénéficier de contrats d'accès à l'emploi, en application de l'article
+L. 832-2 :
+
+1° Les personnes qui ont été inscrites comme demandeur d'emploi pendant au moins
+douze mois durant les dix-huit mois qui ont précédé la date d'embauche ;
+
+2° Les bénéficiaires de l'allocation mentionnée à l'article L. 351-10 ;
+
+3° Les bénéficiaires de l'allocation de revenu minimum d'insertion ainsi que
+leur conjoint ou concubin ;
+
+4° Les travailleurs reconnus handicapés par la commission technique
+d'orientation et de reclassement professionnel ainsi que les autres
+bénéficiaires de l'obligation d'emploi instituée par l'article L. 323-1.
