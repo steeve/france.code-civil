@@ -1,14 +1,15 @@
 Article 268
 ----
-L'ouverture d'un atelier destiné à la fabrication de farines animales en annexe
-d'un abattoir ne peut être autorisée par le préfet que dans le cas où les
-abattages annuels effectués dans cet établissement dépassent un tonnage minimum
-de viande fixé par arrêté du ministre de l'agriculture et sous réserve de
-l'pplication des dispositions du deuxième alinéa de l'article 267.
+Sous réserve des dispositions de l'article 266, le ou les cadavres d'animaux
+visés à l'article 267 doivent être enlevés dans un délai de vingt-quatre heures
+après réception de l'avis du propriétaire ou du détenteur. Si, dans ce délai, il
+n'a pas été procédé à l'enlèvement, les propriétaires ou détenteurs sont tenus
+d'en aviser l'autorité administrative. Dans ce cas, ou lorsque le propriétaire
+de cadavres d'animaux reste inconnu à l'expiration d'un délai de douze heures
+après leur découverte, il est procédé à l'enlèvement de ces cadavres dans des
+conditions déterminées par voie réglementaire.
 
-Lorsque l'abattoir se trouve dans le périmètre d'un équarrissage dont les
-aménagements et les équipements sont reconnus suffisants pour recueillir et
-traiter en tous temps, dans les conditions réglementaires, la totalité des
-viandes et abats saisis, des sous-produits divers et des déchets provenant de
-cet abattoir, l'autorisation prévue à l'alinéa premier est accordée par arrêté
-du ministre de l'agriculture.
+Dans les cas visés au deuxième alinéa du I de l'article 265, le délai
+d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté à cinq
+jours lorsque l'entreposage répond à des conditions, définies par voie
+réglementaire, propres à protéger, pendant ce délai, les intérêts sanitaires.

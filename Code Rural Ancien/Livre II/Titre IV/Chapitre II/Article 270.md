@@ -1,11 +1,10 @@
 Article 270
 ----
-Dans la limite de leur périmètre, les équarrisseurs sont tenus de procéder dans
-les abattoirs à l'enlèvement des viandes saisies ainsi que des sous-produits
-visés à l'article 266, cinquième alinéa. Ils doivent également procéder à
-l'enlèvement des saisies diverses d'origine animale, déposées dans les postes
-sanitaires vétérinaires désignés par le préfet.
+L'exercice de la mission d'équarrissage définie à l'article 264 du code rural
+est incompatible avec toute activité de commerce et de transport d'animaux, de
+viandes ou de produits carnés destinés à la consommation humaine.
 
-Le délai d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté
-à cinq jours si, dans les lieux précités, l'entreposage est effectué à une
-température égale ou inférieure à + 2 °C.
+Toute personne chargée d'une mission d'inspection des ateliers d'équarrissage et
+des dépôts de cadavres d'animaux ne peut exercer la mission d'équarrissage. Il
+est en outre interdit à cette personne d'avoir des intérêts dans un
+établissement d'équarrissage.
