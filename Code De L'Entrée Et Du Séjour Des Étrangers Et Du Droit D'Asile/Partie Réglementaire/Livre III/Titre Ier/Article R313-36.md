@@ -1,10 +1,14 @@
 Article R313-36
 ----
-L'étranger qui sollicite le renouvellement de l'une des cartes de séjour
-temporaire prévues aux articles L. 313-4-1, L. 313-6, L. 313-7, L. 313-9, L.
-313-11 et L. 313-11-1 présente en outre les pièces prévues pour une première
+Sauf dispositions réglementaires contraires, l'étranger qui sollicite le
+renouvellement d'une carte de séjour temporaire présente, outre les pièces
+mentionnées à l'article R. 313-35, les pièces prévues pour une première
 délivrance et justifiant qu'il continue de satisfaire aux conditions requises
 pour celle-ci.
+
+S'il sollicite le renouvellement de la carte de séjour temporaire prévue au II
+de l'article L. 313-7, il présente en outre la justification qu'il dispose des
+moyens d'existence prévus au 1° de l'article R. 313-7.
 
 S'il sollicite le renouvellement de la carte de séjour temporaire prévue à
 l'article L. 313-8, il présente en outre la convention d'accueil délivrée par un

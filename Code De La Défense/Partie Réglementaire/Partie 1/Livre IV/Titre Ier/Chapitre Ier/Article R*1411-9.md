@@ -1,27 +1,23 @@
 Article R*1411-9
 ----
-Sans préjudice de l'exercice des compétences générales de surveillance au sein
-des installations ou des enceintes relevant du ministre de la défense, le
-délégué à la sûreté nucléaire et à la radioprotection exerce, à l'égard des
-installations et activités nucléaires relevant du ministre de la défense
-mentionnées à l'article R.* 1333-37, les compétences prévues aux articles 2, 6
-et 7 du décret n° 94-1033 du 30 novembre 1994 relatif aux conditions
-d'application de la loi n° 92-3 du 3 janvier 1992 sur l'eau aux opérations,
-travaux ou activités concernant des installations ou des enceintes relevant du
-ministre de la défense ou soumis à des règles de protection du secret de la
-défense nationale.
+Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à
+l'article L. 1333-4 du code de la santé publique lorsque les sources de
+rayonnements ionisants sont détenues ou utilisées dans les équipements et
+installations soumis à son contrôle.
 
-A l'intérieur du périmètre des installations nucléaires de base secrètes
-relevant du ministre de la défense, le délégué exerce les compétences prévues à
-l'article 5 du décret n° 80-813 du 15 octobre 1980 relatif aux installations
-classées pour la protection de l'environnement relevant du ministre de la
-défense ou soumises à des règles de protection du secret de la défense
-nationale. Dans l'exercice de ces compétences, le délégué recueille l'avis des
-services du ministre de la défense compétents en matière de protection de
-l'environnement.
+Le délégué peut recevoir délégation du ministre de la défense et du ministre
+chargé de l'industrie pour signer en leur nom tout acte ou décision concernant
+l'application des dispositions de la section 2 du chapitre 3 du titre III du
+livre III, hormis celles des articles D. 1333-55 à D. 1333-60, et de la présente
+section, à l'exception des décrets, des décisions de mise en service des
+systèmes nucléaires militaires ainsi que de celles ayant une incidence directe
+sur la disponibilité opérationnelle des forces nucléaires.
 
-Le délégué peut recevoir délégation des ministres compétents pour signer en leur
-nom tout acte ou décision concernant l'application de la présente section, à
-l'exception des décrets, des décisions de mise en service des systèmes
-nucléaires militaires ainsi que des décisions ayant une incidence directe sur la
-disponibilité opérationnelle des forces nucléaires.
+Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la
+composition, le fonctionnement et les attributions sont précisés, sur son
+rapport, par arrêté conjoint du ministre de la défense et du ministre chargé de
+l'industrie.
+
+Le délégué est informé de tout projet de textes réglementaires pris en
+application de l'article L. 231-7-1 du code du travail ou du chapitre III du
+titre III du livre III de la première partie du code de la santé publique.

@@ -1,6 +1,6 @@
 Article R*1333-50
 ----
-Lorsque le détenteur de l'autorisation prévoit, pour quelque raison que ce soit,
+Lorsque le titulaire de l'autorisation prévoit, pour quelque raison que ce soit,
 la mise à l'arrêt définitif d'une installation individuelle, il en informe le
 délégué à la sûreté nucléaire et à la radioprotection pour les activités et
 installations intéressant la défense et lui adresse :

@@ -1,8 +1,7 @@
 Article R*1333-52
 ----
-Les sites d'expérimentations nucléaires du Pacifique conservent le statut
-d'installations nucléaires intéressant la défense au sens du présent chapitre.
-Ils font l'objet de mesures de surveillance radiologique et géomécanique.
+Les anciens sites d'expérimentations nucléaires du Pacifique font l'objet de
+mesures de surveillance radiologique et géomécanique.
 
 Cette surveillance est réalisée selon des modalités arrêtées par le ministre de
 la défense.
