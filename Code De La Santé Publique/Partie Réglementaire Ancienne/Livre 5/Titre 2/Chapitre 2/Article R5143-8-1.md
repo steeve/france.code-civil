@@ -12,11 +12,8 @@ les spécialités incluses dans celui-ci. Cette décision est publiée au Journa
 officiel de la République française.
 
 L'inscription d'une spécialité dans un groupe générique déjà créé dans les
-conditions prévues au premier alinéa est effectuée sans délai, lorsque le
-directeur général de l'Agence française de sécurité sanitaire des produits de
-santé a reçu communication de la date de commercialisation de la spécialité en
-application de l'article L. 5124-5, par décision du directeur général de
-l'Agence française de sécurité sanitaire des produits de santé, après que le
-titulaire de l'autorisation de mise sur le marché de la spécialité a été mis en
-mesure de présenter ses observations et après avis de la commission prévue à
-l'article R. 5140.
+conditions prévues au premier alinéa est effectuée, par décision du directeur
+général de l'Agence française de sécurité sanitaire des produits de santé, après
+que le titulaire de l'autorisation de mise sur le marché de la spécialité a été
+mis en mesure de présenter ses observations et après avis de la commission
+prévue à l'article R. 5140.
