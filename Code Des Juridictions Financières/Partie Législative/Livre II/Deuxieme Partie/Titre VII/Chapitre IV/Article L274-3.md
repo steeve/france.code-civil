@@ -1,4 +1,5 @@
 Article L274-3
 ----
-Le comptable du territoire prête serment devant la chambre territoriale des
+Les comptables de la Polynésie française, des communes et de leurs
+établissements publics prêtent serment devant la chambre territoriale des
 comptes.

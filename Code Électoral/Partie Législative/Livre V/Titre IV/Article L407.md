@@ -21,11 +21,9 @@ circonscription, le même titre ;
 4° Le cas échéant, la couleur et l'emblème choisis par la liste pour
 l'impression de ses bulletins de vote en application de l'article L. 390.
 
-III. - Chaque liste doit comprendre un nombre de candidats égal au nombre de
-sièges à pourvoir, augmenté de deux.
+III. - Abrogé.
 
-IV. - Nul ne peut être candidat sur plusieurs listes ni dans plusieurs
-circonscriptions.
+IV. - Abrogé.
 
 V. - En cas de scrutin uninominal, toute candidature est soumise aux mêmes
 conditions d'enregistrement, sous réserve des adaptations imposées par ce mode

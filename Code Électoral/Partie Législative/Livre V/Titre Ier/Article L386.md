@@ -13,30 +13,28 @@ statistique et des études économiques" ;
 4° "subdivision administrative" au lieu de : "arrondissement" et "chef de
 subdivision administrative" au lieu de : "sous-préfet" ;
 
-5° "secrétaire général" au lieu de : "secrétaire général de préfecture" ;
+5° "secrétaire général du haut commissariat" au lieu de : "secrétaire général de
+préfecture" ;
 
 6° "tribunal de première instance" au lieu de : "tribunal d'instance" et de :
 "tribunal de grande instance" ;
 
 7° "services du chef de subdivision administrative" au lieu de :
-
 "sous-préfecture" ;
 
-8° "membre de l'assemblée de Polynésie française" au lieu de :
-
+8° "représentant à l'assemblée de la Polynésie française" au lieu de :
 "conseiller général" ;
 
-9° "élection des membres de l'assemblée de Polynésie française" au lieu de :
-"élection des conseillers généraux" ;
+9° "élection des représentants de l'assemblée de la Polynésie française" au lieu
+de : "élection des conseillers généraux" ;
 
 10° "circonscriptions électorales" au lieu de : "cantons" ;
 
 11° "chambre territoriale des comptes" au lieu de : "chambre régionale des
 comptes" ;
 
-12° "budget de l'établissement chargé de la poste" au lieu de :
-
-"budget annexe des postes et télécommunications" ;
+12° "budget de l'établissement chargé de la poste" au lieu de : "budget annexe
+des postes et télécommunications" ;
 
 13° "archives de la Polynésie française" au lieu de : "archives
 départementales".

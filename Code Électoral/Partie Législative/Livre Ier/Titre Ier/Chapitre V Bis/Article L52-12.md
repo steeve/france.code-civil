@@ -39,3 +39,7 @@ Pour l'application de l'article L. 52-11, les frais de transport aérien,
 maritime et fluvial dûment justifiés, exposés par les candidats aux élections
 législatives et aux élections régionales à l'intérieur de chacun des
 départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses.
+
+Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en
+Martinique et à La Réunion, le compte de campagne peut également être déposé à
+la préfecture ou la sous-préfecture.
