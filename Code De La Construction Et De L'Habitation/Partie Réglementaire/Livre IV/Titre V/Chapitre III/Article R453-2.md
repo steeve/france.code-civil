@@ -13,7 +13,11 @@ Pour la location-accession, le pourcentage prévu à l'alinéa précédent est �
 95 % et s'applique pendant la période préalable à la levée de l'option, au
 montant du prix de vente mentionné dans le contrat régi par l'article 5 de la
 loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la
-propriété immobilière.
+propriété immobilière. Toutefois, les opérations de location-accession
+bénéficiant de la décision d'agrément mentionnée au I de l'article R. 331-76-5-1
+ne sont intégrées dans l'encours de production que jusqu'à l'obtention du prêt
+mentionné au I de l'article R. 331-76-5-1, et uniquement à hauteur du prix
+d'achat du terrain majoré des frais annexes y afférents.
 
 Pour les opérations menées dans le cadre de sociétés civiles l'engagement de
 l'organisme est calculé au prorata de ses parts dans la société et s'applique
