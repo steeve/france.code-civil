@@ -1,8 +1,8 @@
 Article L2541-1
 ----
-- Les dispositions de la première partie sont applicables aux communes des
+Les dispositions de la première partie sont applicables aux communes des
 départements de la Moselle, du Bas-Rhin et du Haut-Rhin, à l'exception de celles
-des articles L. 1422-2, L. 1422-3, L. 1423-4 et L. 1423-5.
+des articles L. 1422-2.
 
 Les dispositions des titres Ier et II du livre Ier de la présente partie sont
 applicables aux communes des départements de la Moselle, du Bas-Rhin et du
