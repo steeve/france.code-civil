@@ -1,6 +1,6 @@
 Article 276
 ----
-La taxe sur la jauge et la taxe sur les marchandises prévues à l'article 270
+La taxe sur le navire et la taxe sur les marchandises prévues à l'article 270
 ci-dessus sont perçues au profit des collectivités ou des établissements publics
 participant au financement des travaux du port.
 
