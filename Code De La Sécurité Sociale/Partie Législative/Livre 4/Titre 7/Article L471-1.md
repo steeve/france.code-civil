@@ -10,3 +10,9 @@ sanction les employeurs ou leurs préposés qui n'ont pas inscrit sur le registr
 ouvert à cet effet les accidents mentionnés au premier alinéa de l'article L.
 441-4 ou ont contrevenu aux dispositions des deuxième, troisième et quatrième
 alinéas du même article.
+
+En outre, la caisse poursuit auprès de l'employeur de toute personne étrangère
+travaillant ou ayant travaillé pour le compte de celui-ci, sans satisfaire aux
+conditions de régularité de séjour et de travail en France définies par le
+décret mentionné à l'article L. 115-6, le remboursement de la totalité des
+dépenses qu'elle supporte pour cette personne au titre du présent livre.
