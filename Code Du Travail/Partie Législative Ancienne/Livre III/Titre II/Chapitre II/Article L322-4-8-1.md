@@ -50,3 +50,7 @@ décret.
 
 Les aides et les exonérations prévues par le présent article ne peuvent être
 cumulées avec une autre aide de l'Etat à l'emploi.
+
+Les institutions représentatives du personnel des organismes mentionnés à
+l'article L. 322-4-7, lorsqu'elles existent, sont informées des conventions
+conclues. Elles sont saisies, chaque année, d'un rapport sur leur exécution.
