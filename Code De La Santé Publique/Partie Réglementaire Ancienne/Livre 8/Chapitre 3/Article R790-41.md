@@ -33,7 +33,8 @@ non lucratif participant au service public hospitalier ;
 médicaux, des affections iatrogènes et des infections nosocomiales désignés par
 son conseil d'administration ;
 
-5° Deux représentants des entreprises régies par le code des assurances ;
+5° Deux représentants des entreprises pratiquant l'assurance de responsabilité
+civile médicale prévue à l'article L. 1142-2 ;
 
 6° Quatre personnalités qualifiées dans le domaine de la réparation des
 préjudices corporels.
