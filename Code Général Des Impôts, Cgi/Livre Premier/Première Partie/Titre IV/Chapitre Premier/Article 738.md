@@ -1,6 +1,6 @@
 Article 738
 ----
-Sont enregistrées au droit fixe de 430 F [*montant*] :
+Sont enregistrées au droit fixe de 500 F (1) [*montant*] :
 
 1° Les cessions, subrogations, rétrocessions et résiliations de baux à durée
 limitée de biens de toute nature.
@@ -13,3 +13,5 @@ qui est résultée de la convention ;
 2° Les concessions de licences d'exploitation de brevets ;
 
 3° Les concessions de droit d'exploitation de certificats d'obtention végétale.
+
+(1) Tarif applicable à compter du 15 janvier 1992.

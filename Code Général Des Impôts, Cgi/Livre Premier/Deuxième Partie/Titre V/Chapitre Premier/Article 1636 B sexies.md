@@ -62,6 +62,23 @@ foncières, de la taxe d'habitation et de la taxe professionnelle perçues au
 profit de la commune et les taux respectifs des mêmes taxes, votés l'année
 précédente par la communauté urbaine.
 
+4 a) Dans les communes remplissant les conditions fixées au b ci-après, le
+conseil municipal peut, en 1992, majorer le taux de la taxe professionnelle d'un
+point au maximum sans que cette majoration soit prise en compte pour
+l'application du b du 1.
+
+Cette majoration ne peut se cumuler avec celle prévue au 3 ;
+
+b) Ces dispositions s'appliquent aux communes visées aux II et III de l'article
+L. 234-19-1 du code des communes ou soumises au prélèvement prévu à l'article L.
+263-14 du même code et dans lesquelles, au titre de l'année précédente :
+
+1° Le taux communal de taxe professionnelle n'excède pas la moitié du taux moyen
+de cette taxe constaté la même année pour l'ensemble des communes ;
+
+2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen
+de cette taxe constaté la même année pour l'ensemble des communes.
+
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
 cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen
@@ -92,9 +109,11 @@ précédent. Dans ce cas, la variation du taux de taxe d'habitation à prendre e
 considération pour l'application du b du 1 du I est celle qui excède
 l'augmentation due à la suppression de la réduction (Ces dispositions ne sont
 pas applicables aux communes qui recourent aux dispositions du 1er alinéa du 2
-du I). Lorsqu'il a été fait application des dispositions prévues au premier
-alinéa, une nouvelle réduction ne peut être opérée qu'à compter de la sixième
-année suivante.
+du I).
+
+Lorsqu'il a été fait application des dispositions prévues au premier alinéa, une
+nouvelle réduction ne peut être opérée qu'à compter de la sixième année
+suivante.
 
 Ces dispositions ne font pas obstacle à l'application du 3 du I.
 

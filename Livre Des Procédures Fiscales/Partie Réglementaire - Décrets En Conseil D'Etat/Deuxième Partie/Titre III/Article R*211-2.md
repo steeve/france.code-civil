@@ -12,6 +12,6 @@ d'office, en matière de taxe foncière, des mutations de cote et le dégrèveme
 des droits formant surtaxe.
 
 Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1390, 1391,
-1414 et 1414 A du code général des impôts, les propositions de dégrèvements ou
-de mutations sont communiquées par l'administration au maire ou à la commission
-communale des impôts directs conformément à l'article R. 198-3.
+1414 III et 1414 A du code général des impôts, les propositions de dégrèvements
+ou de mutations sont communiquées par l'administration au maire ou à la
+commission communale des impôts directs conformément à l'article R. 198-3.

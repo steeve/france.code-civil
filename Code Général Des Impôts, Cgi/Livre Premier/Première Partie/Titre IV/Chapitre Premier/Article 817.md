@@ -1,7 +1,7 @@
 Article 817
 ----
-I Les dispositions des articles 816 et 816 A s'appliquent aux scissions et aux
-apports partiels d'actif.
+I Les dispositions de l'article 816 et du II de l'article 816 A s'appliquent aux
+scissions et aux apports partiels d'actif.
 
 II Toutefois, le droit de 1,20 % [*taux*] ne frappe que l'excédent de la valeur
 nominale des titres reçus en rémunération d'un apport partiel d'actif et

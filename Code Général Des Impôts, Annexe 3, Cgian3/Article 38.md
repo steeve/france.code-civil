@@ -27,7 +27,7 @@ b) Pour les sociétés membres d'un groupe défini à l'article 223 A du code
 général des impôts, les renseignements permettant d'assurer le suivi de la somme
 algébrique des résultats comptables réalisés au titre d'exercices au cours
 desquels la société est membre du groupe diminuée des distributions exonérées en
-application du dernier alinéa de l'article 223 H du code général des impôts ;
+application du quatrième alinéa de l'article 223 H du code général des impôts ;
 
 c) Les sommes réputées distribuées en application des articles 109 à 115 ter du
 même code.

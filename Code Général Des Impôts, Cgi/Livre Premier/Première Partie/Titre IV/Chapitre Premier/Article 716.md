@@ -6,8 +6,9 @@ loyer modéré ayant pour but de substituer des personnes solvables, remplissant
 les conditions de la législation sur les habitations à loyer modéré, aux
 bénéficiaires de cette législation qui justifieraient être dans l'impossibilité
 de les habiter ou être privés de ressources nécessaires pour faire face à leurs
-obligations, sont soumises à une imposition de 430 F [*montant*].
+obligations, sont soumises à une imposition de 500 F (1).
 
 Le bénéfice de cette disposition est subordonné à l'autorisation du
-trésorier-payeur général [*autorité compétente*], après avis du conseil
-départemental de l'habitat.
+trésorier-payeur général, après avis du conseil départemental de l'habitat.
+
+(1) Tarif applicable à compter du 15 janvier 1992.

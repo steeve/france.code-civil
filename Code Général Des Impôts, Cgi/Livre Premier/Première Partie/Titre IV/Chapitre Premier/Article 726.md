@@ -15,9 +15,9 @@ réelle est supérieure au prix augmenté des charges.
 
 Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux
 effectuées par une société créée en vue de racheter une autre société dans les
-conditions prévues à l'article 220 quater ou 220 quater A. Lorsque le rachat a
-été soumis à l'accord du ministre chargé des finances, prévu à l'article 220
-quater B, le bénéfice des présentes dispositions est subordonné à cet accord
-(1).
+conditions prévues aux articles 83 ter, 199 terdecies A, 220 quater ou 220
+quater A. Lorsque le rachat a été soumis à l'accord du ministre chargé des
+finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions
+est subordonné à cet accord (1).
 
 (1) Voir l'article 1740 quinquies.

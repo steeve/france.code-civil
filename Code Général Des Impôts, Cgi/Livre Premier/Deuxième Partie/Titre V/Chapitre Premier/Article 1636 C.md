@@ -1,7 +1,8 @@
 Article 1636 C
 ----
-Les taux de taxes additionnelles perçues au profit de l'établissement public de
-la Basse-Seine et de l'établissement public de la métropole lorraine sont, sous
+Les taux de taxes additionnelles perçues au profit de l'établissement public
+d'aménagement de la Basse-Seine, de l'établissement public de la métropole
+lorraine et de l'établissement public foncier du Nord - Pas-de-Calais sont, sous
 réserve de l'article 1636 B octies et des dispositions régissant ces organismes,
 fixés suivant des règles analogues à celles appliquées pour les impositions
 départementales.

@@ -3,7 +3,9 @@ Article 72 D
 I. A compter du 1er janvier 1986 [*date, point de départ*], les exploitants
 agricoles soumis à un régime réel d'imposition, peuvent déduire chaque année de
 leur bénéfice, soit une somme de 10 000 F [*montant*], soit 10 p. 100
-[*pourcentage*] de ce bénéfice dans la limite de 20 000 F.
+[*pourcentage*] de ce bénéfice dans la limite de 20 000 F. Pour les exercices
+ouverts à compter du 1er janvier 1992, le taux est porté à 20 p. 100 dans la
+limite de 30 000 F.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, la limite de la déduction visée
@@ -32,7 +34,7 @@ Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est
 rapportée aux résultats de la cinquième année suivant sa réalisation.
 
 II. L'apport d'une exploitation individuelle, dans les conditions visées au
-cinquième alinéa du I de l'article 151 octies, à une exploitation agricole à
+quatrième alinéa du I de l'article 151 octies, à une exploitation agricole à
 responsabilité limitée ou à un groupement agricole d'exploitation en commun par
 un exploitant agricole qui a pratiqué la déduction au titre d'un exercice
 précédant celui de l'apport n'est pas considéré pour l'application du I comme

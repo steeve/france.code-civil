@@ -9,9 +9,9 @@ la décision intervenue a été notifiée [*date limite*].
 Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes
 foncières indûment établies lorsque l'erreur d'imposition ne peut plus être
 rectifiée par une mutation de cote au nom de la personne qui aurait dû être
-imposée. "
+imposée.
 
 Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus
-aux articles 1390, 1391, 1414, 1414 A et 1601 du code général des impôts
+aux articles 1390, 1391, 1414 III, 1414 A et 1601 du code général des impôts
 relatifs à la taxe foncière sur les propriétés bâties, à la taxe d'habitation et
 à la taxe pour frais de chambres de métiers.

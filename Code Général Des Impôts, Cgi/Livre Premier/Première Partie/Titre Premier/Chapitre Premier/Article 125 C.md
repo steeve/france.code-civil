@@ -4,9 +4,7 @@ I. Les personnes physiques qui mettent à la disposition de la société dont el
 sont associées ou actionnaires des sommes portées sur un compte bloqué
 individuel peuvent, pour l'imposition des intérêts versés au titre de ces
 sommes, opter pour le prélèvement libératoire au taux de 15 % prévu à l'article
-125 A sur la partie de ces intérêts rémunérant la fraction de ces sommes qui
-n'excède pas un montant, par associé ou actionnaire, de 200.000 F jusqu'en 1990
-ou 400.000 F à compter de 1991, et à condition (1):
+125 A à condition (1):
 
 a. Qu'elles soient incorporées au capital dans un délai maximum de cinq ans à
 compter de la date de leur dépôt ; dans les douze mois suivant leur dépôt,
@@ -31,7 +29,3 @@ dispositions contraires, l'exigibilité immédiate des impôts dont ont été
 dispensés les associés ou actionnaires et la société sans préjudice de l'intérêt
 de retard prévu à l'article 1727 décompté de la date à laquelle ces impôts
 auraient dû être acquittés.
-
-(1) Loi 91-1322 1991-12-30 art. 17 Finances pour 1992 "Pour l'imposition des
-intérêts courus à compter du 1er janvier 1992, la limitation de montant prévue
-au premier alinéa de l'article 125 C du code général des impôts est supprimée."

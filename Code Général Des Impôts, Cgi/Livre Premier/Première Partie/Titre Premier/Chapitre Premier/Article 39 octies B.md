@@ -64,3 +64,6 @@ ainsi qu'aux groupements d'entreprises
 V. - Les dispositions du présent article s'appliquent aux investissements qui
 sont réalisés à compter du 1er janvier 1988, sous réserve du dernier alinéa des
 I et I bis de l'article 39 octies A.
+
+Elles cessent de s'appliquer aux investissements réalisés après le 31 décembre
+1991.
