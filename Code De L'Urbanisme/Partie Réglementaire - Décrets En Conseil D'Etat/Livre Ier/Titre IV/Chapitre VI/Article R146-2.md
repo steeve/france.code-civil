@@ -11,7 +11,7 @@ l'ouverture au public de ces espaces ou milieux ;
 
 b) Les aménagements nécessaires à l'exercice des activités agricoles, de pêche
 et cultures marines ou lacustres, conchylicoles, pastorales et forestières ne
-créant pas de surface hors oeuvre nette au sens de l'article R. 112-2 ainsi que
+créant pas de surface hors oeuvre brute au sens de l'article R. 112-2 ainsi que
 des locaux d'une superficie maximale de 20 mètres carrés, liés et nécessaires à
 l'exercice de ces activités pour répondre aux prescriptions des règlements
 sanitaires nationaux ou communautaires, à condition que la localisation et

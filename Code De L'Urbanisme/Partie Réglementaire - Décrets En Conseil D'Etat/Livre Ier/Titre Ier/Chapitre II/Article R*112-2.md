@@ -1,9 +1,7 @@
 Article R*112-2
 ----
 La surface de plancher hors oeuvre brute d'une construction est égale à la somme
-des surfaces de plancher de chaque niveau de la construction [*calcul,
-définition applicable aux demandes de permis de construire déposées après le 8
-juillet 1977*].
+des surfaces de plancher de chaque niveau de la construction.
 
 La surface de plancher hors oeuvre nette d'une construction est égale à la
 surface hors oeuvre brute de cette construction après déduction :
@@ -18,13 +16,15 @@ loggias, ainsi que des surfaces non closes situées au rez-de-chaussée ;
 c) Des surfaces de plancher hors oeuvre des bâtiments ou des parties de
 bâtiments aménagés en vue du stationnement des véhicules ;
 
-d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des
-récoltes, des animaux ou du matériel agricole ainsi que des surfaces des serres
-de production.
+d) Dans les exploitations agricoles, des surfaces de plancher des serres de
+production, des locaux destinés à abriter les récoltes, à héberger les animaux,
+à ranger et à entretenir le matériel agricole, des locaux de production et de
+stockage des produits à usage agricole, des locaux de transformation et de
+conditionnement des produits provenant de l'exploitation ;
 
-e) D'une surface égale à 5 p. 100 des surfaces hors oeuvre affectées à
-l'habitation telles qu'elles résultent le cas échéant de l'application des a, b,
-et c ci-dessus.
+e) D'une surface égale à 5 % des surfaces hors oeuvre affectées à l'habitation
+telles qu'elles résultent le cas échéant de l'application des a, b, et c
+ci-dessus.
 
 Sont également déduites de la surface hors oeuvre dans le cas de la réfection
 d'un immeuble à usage d'habitation et dans la limite de cinq mètres carrés par

@@ -7,7 +7,7 @@ l'article L. 300-2 sont les opérations suivantes :
 1. L'opération ayant pour objet dans une commune non dotée d'un plan
 d'occupation des sols ou d'un document d'urbanisme en tenant lieu, ayant fait
 l'objet d'une enquête publique, la création de plus de 5 000 mètres carrés de
-surface hors oeuvre nette ou la restauration, dans les conditions définies à
+surface hors oeuvre brute ou la restauration, dans les conditions définies à
 l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette surface ;
 
 2. La réalisation d'un investissement routier dans une partie urbanisée d'une
