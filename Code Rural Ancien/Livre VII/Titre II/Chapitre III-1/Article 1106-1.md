@@ -11,12 +11,10 @@ même article ;
 
 Sont assimilées aux chefs d'exploitation mentionnés à l'alinéa précédent pour le
 bénéfice des prestations en nature de l'assurance maladie et maternité, les
-personnes ayant cessé leur activité non salariée agricole à la suite des
-procédures prévues au chapitre II de la loi n° 88-1202 du 30 décembre 1988
-précitée et qui répondent à des conditions d'âge et de durée d'activité
-professionnelle fixées par décret. Le maintien de ces droits leur est assuré
-jusqu'à l'âge auquel elles peuvent prétendre à bénéficier de la pension de
-retraite prévue à l'article 1110 ;
+personnes ayant cessé leur activité non salariée agricole et qui répondent à des
+conditions d'âge et de durée d'activité professionnelle fixées par décret. Le
+maintien de ces droits leur est assuré jusqu'à l'âge auquel elles peuvent
+prétendre à bénéficier de la pension de retraite prévue à l'article 1110 ;
 
 2° aux aides familiaux non salariés et associés d'exploitation définis par la
 loi n° 73-650 du 13 juillet 1973 des chefs d'exploitation ou d'entreprise
@@ -38,7 +36,7 @@ régime obligatoire d'assurance maladie, maternité ;
 b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°,
 2°, 3°, 5° et 6° du présent paragraphe ou de leur conjoint, qu'ils soient
 légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la
-nation dont l'assuré est le tuteur.
+Nation dont l'assuré est le tuteur.
 
 Pour l'application du présent chapitre, sont assimilés aux enfants de moins de
 seize ans :
@@ -51,7 +49,7 @@ Ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie
 chronique, dans l'impossibilité permanente de se livrer à une activité
 rémunératrice ;
 
-Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la
+Ceux de moins de vingt ans qui bénéficient de l'article L. 542-2 du code de la
 sécurité sociale ;
 
 5° aux membres non salariés de toute société, quelles qu'en soient la forme et
