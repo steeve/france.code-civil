@@ -4,7 +4,7 @@ Les centres de formation d'apprentis sont régis par les dispositions des
 articles L. 116-1 à L. 116-4, L. 116-7 et L. 116-8 du code du travail, ci-après
 reproduites :
 
-" Art. L. 116-1. - Les centres de formation d'apprentis dispensent aux jeunes
+Art. L. 116-1. - Les centres de formation d'apprentis dispensent aux jeunes
 travailleurs sous contrat d'apprentissage une formation générale. Celle-ci est
 associée à une formation technologique et pratique qui doit compléter la
 formation reçue en entreprise et s'articule avec elle.
@@ -12,9 +12,9 @@ formation reçue en entreprise et s'articule avec elle.
 Ils doivent, parmi leurs missions, développer l'aptitude à tirer profit
 d'actions ultérieures de formation professionnelle ou à poursuivre des études
 par les voies de l'apprentissage, de l'enseignement professionnel ou
-technologique ou par toute autre voie. "
+technologique ou par toute autre voie.
 
-" Art. L. 116-1-1. - Par dérogation aux dispositions de l'article L. 116-1 :
+Art. L. 116-1-1. - Par dérogation aux dispositions de l'article L. 116-1 :
 
 Un centre de formation d'apprentis et une entreprise habilitée par l'inspection
 de l'apprentissage dans des conditions fixées par décret peuvent conclure une
@@ -34,9 +34,9 @@ dispensés par le centre de formation d'apprentis et mettent à disposition des
 
 Dans les cas visés aux alinéas ci-dessus, les centres de formation d'apprentis
 conservent la responsabilité administrative et pédagogique des enseignements
-dispensés. "
+dispensés.
 
-" Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet
+Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet
 de conventions conclues avec l'Etat, dans le cas des centres à recrutement
 national, ou conclues avec la région, dans tous les autres cas, par les
 organismes de formation gérés paritairement par les organisations
@@ -51,54 +51,51 @@ physique ou morale.
 La demande de convention doit donner lieu à une décision dans un délai de six
 mois à compter du dépôt de la demande. En cas de réponse négative ou de
 dénonciation de la convention, la décision doit être motivée. Lorsque les
-conventions sont passées par l'Etat, la demande est portée devant le groupe
-permanent des hauts fonctionnaires mentionné à l'article L. 910-1 et la décision
-est prise après avis de la commission permanente du Conseil national de la
-formation professionnelle, de la promotion sociale et de l'emploi. Lorsque les
-conventions sont passées par la région, la décision est prise après avis du
-comité de coordination régional de l'emploi et de la formation professionnelle.
-Les mêmes procédures sont applicables en cas de dénonciation.
+conventions sont passées par l'Etat, la décision est prise après avis, émis dans
+des conditions définies par décret, du Conseil national de la formation
+professionnelle tout au long de la vie. Lorsque les conventions sont passées par
+la région, la décision est prise après avis du comité de coordination régional
+de l'emploi et de la formation professionnelle. Les mêmes procédures sont
+applicables en cas de dénonciation.
 
-Les avis de la commission permanente du Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi ou du comité de
-coordination régional de l'emploi et de la formation professionnelle portent
-notamment sur les garanties de tous ordres présentées par le projet et sur son
-intérêt eu égard aux besoins de la formation professionnelle dans la zone
-d'action considérée.
+Les avis du Conseil national de la formation professionnelle tout au long de la
+vie ou du comité de coordination régional de l'emploi et de la formation
+professionnelle portent notamment sur les garanties de tous ordres présentées
+par le projet et sur son intérêt eu égard aux besoins de la formation
+professionnelle dans la zone d'action considérée.
 
 Les conventions créant les centres de formation d'apprentis à recrutement
 national doivent être conformes à une convention type arrêtée conjointement par
 les ministres intéressés. Les conventions créant les autres centres doivent être
 conformes à une convention type établie par la région, sous réserve des clauses
 à caractère obligatoire fixées par le décret prévu à l'article L. 119-4. Les
-conventions types sont définies après avis, selon le cas, de la commission
-permanente ou du comité régional mentionnés au deuxième alinéa ci-dessus. Les
-conventions créant les sections d'apprentissage mentionnées à l'article L. 115-1
-doivent être conformes à une convention type établie par la région, sous réserve
-des clauses à caractère obligatoire fixées par le décret prévu à l'article L.
-119-4.
+conventions types sont définies après avis, selon le cas, du Conseil national ou
+du comité régional mentionnés au deuxième alinéa ci-dessus. Les conventions
+créant les sections d'apprentissage mentionnées à l'article L. 115-1 doivent
+être conformes à une convention type établie par la région, sous réserve des
+clauses à caractère obligatoire fixées par le décret prévu à l'article L. 119-4.
 
 Les conventions créant les centres de formation d'apprentis prévoient
 l'institution d'un conseil de perfectionnement dont la composition, le rôle et
-les attributions sont fixés par le décret prévu à l'article L. 119-4. "
+les attributions sont fixés par le décret prévu à l'article L. 119-4.
 
-" Art. L. 116-3. - La durée de la formation dispensée dans les centres de
+Art. L. 116-3. - La durée de la formation dispensée dans les centres de
 formation d'apprentis est fixée par la convention prévue à l'article L. 116-2,
 sans pouvoir être inférieure à 400 heures par an en moyenne sur les années
 d'application du contrat. Elle tient compte des exigences propres à chaque
 niveau de qualification et des orientations prévues par les conventions ou les
-accords de branches nationaux ou régionaux visés à l'article L. 133-6 après avis
-du comité de coordination des programmes régionaux d'apprentissage et de
-formation professionnelle continue.
+accords de branches nationaux ou régionaux visés à l'article L. 133-6 après
+avis, émis dans les conditions définies par décret, du Conseil national de la
+formation professionnelle tout au long de la vie.
 
 Pour les apprentis dont l'apprentissage a été prolongé en application des
 dispositions de l'article L. 117-9, l'horaire minimum est fixé par la convention
 prévue à l'article L. 116-2, sans pouvoir être inférieur à 240 heures par an en
 cas de prolongation de l'apprentissage pour une durée d'une année, ce minimum
 pouvant être réduit à due proportion dans l'hypothèse d'une prolongation d'une
-durée inférieure. "
+durée inférieure.
 
-" Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle
+Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle
 pédagogique de l'Etat et au contrôle technique et financier de l'Etat pour les
 centres à recrutement national, de la région pour les autres centres.
 

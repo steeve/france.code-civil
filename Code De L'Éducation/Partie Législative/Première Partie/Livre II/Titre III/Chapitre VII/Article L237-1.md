@@ -4,28 +4,40 @@ Les institutions de la formation professionnelle sont organisées conformément
 aux dispositions des articles L. 910-1 et L. 910-2 du code du travail, ci-après
 reproduites :
 
-"Art. L. 910-1. - La politique de formation professionnelle et de promotion
-sociale de l'Etat fait l'objet d'une coordination entre les départements
-ministériels, et d'une concertation avec les organisations représentatives des
-employeurs et des travailleurs salariés ainsi que des travailleurs indépendants,
-d'une part, et avec les conseils régionaux, d'autre part.
+"Art. L. 910-1. - Il est créé un Conseil national de la formation
+professionnelle tout au long de la vie : ce conseil est chargé de favoriser, au
+plan national, la concertation entre les acteurs pour la conception des
+politiques de formation professionnelle et le suivi de leur mise en oeuvre, en
+liaison avec les comités de coordination régionaux de l'emploi et de la
+formation professionnelle. Il est chargé d'évaluer les politiques régionales
+d'apprentissage et de formation professionnelle tout au long de la vie. Il donne
+son avis sur la législation et la réglementation applicables en matière de
+formation professionnelle tout au long de la vie et d'apprentissage.
 
-A cet effet, il est créé auprès du Premier ministre un comité interministériel,
-dont le ministre de l'éducation nationale est le vice-président, et un groupe
-permanent de hauts fonctionnaires, dont le président est désigné par le Premier
-ministre. Ces organismes s'appuient, pour l'élaboration et la mise en oeuvre de
-la politique de formation professionnelle, de la promotion sociale et de
-l'emploi de l'Etat, sur les avis d'un Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi réunissant notamment des
-représentants des pouvoirs publics et des organisations professionnelles et
-syndicats intéressés.
+Il établit tous les ans un rapport sur l'utilisation des ressources financières
+soit collectées, soit affectées à la formation professionnelle tout au long de
+la vie ainsi qu'à l'apprentissage. Il assure ainsi un contr&lt;CB&gt;le régulier
+de l'emploi de ces fonds. Il établit tous les trois ans un rapport d'évaluation
+des politiques régionales d'apprentissage et de formation tout au long de la
+vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux
+comités de coordination régionaux de l'emploi et de la formation
+professionnelle.
+
+Il est composé de représentants élus des conseils régionaux, de représentants de
+l'Etat et du Parlement et de représentants des organisations professionnelles et
+syndicales intéressées. Il comprend en outre, des personnes qualifiées en
+matière de formation professionnelle.
+
+Les conditions de nomination des membres du conseil et l'exercice de ses
+missions, notamment de contr&lt;CB&gt;le, ainsi que ses modalités de
+fonctionnement et de compte rendu de son activité, sont fixées par décret.
 
 Sont institués des comités de coordination régionaux de l'emploi et de la
 formation professionnelle et des comités départementaux de l'emploi.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de
 l'emploi et de la formation professionnelle exerce l'ensemble des attributions
-dévolues au comité régional et au comité de coordination départemental de
+dévolues au comité de coordination régional et au comité départemental de
 l'emploi.
 
 Le comité de coordination régional a pour mission de favoriser la concertation
@@ -64,6 +76,12 @@ versements donnant lieu à exonération de la taxe d'apprentissage en applicatio
 de l'article L. 118-2-4 présentent chaque année au comité un rapport sur
 l'affectation des sommes ainsi collectées.
 
+Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de
+coordination de l'emploi et de la formation professionnelle exerce l'ensemble
+des attributions dévolues au comité de coordination régional de l'emploi et de
+la formation professionnelle et au comité départemental de l'emploi et de la
+formation professionnelle.
+
 Dans des conditions définies par décret, les comités de coordination régionaux
 de l'emploi et de la formation professionnelle sont consultés sur les programmes
 et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour
@@ -90,31 +108,18 @@ la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des
 adultes.
 
-Les comités de coordination départementaux de l'emploi comprennent des
-représentants élus des collectivités territoriales et les parlementaires du
-département. Ces comités se réunissent au moins une fois par an sous la
-présidence du préfet du département qui, à cette occasion, présente le bilan de
-la politique de l'emploi et de la formation professionnelle dans le département.
+Les comités départementaux de l'emploi comprennent des représentants élus des
+collectivités territoriales et les parlementaires du département. Ces comités se
+réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la
+formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient
 pendant les heures qu'ils consacrent à leur mission d'une rémunération, dans le
 cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de
 leurs frais de déplacement.
 
-Les modalités d'organisation et de fonctionnement des comités et conseils
-mentionnés aux alinéas précédents sont déterminées par décret."
+Les modalités d'organisation et de fonctionnement des comités mentionnés aux
+alinéas précédents sont déterminées par décret."
 
-"Art. L. 910-2. - Le comité interministériel de la formation professionnelle et
-de l'emploi détermine, en fonction des exigences du développement culturel,
-économique et social, les orientations prioritaires de la politique de l'Etat,
-en vue de :
-
-- provoquer des actions de formation professionnelle ;
-
-- soutenir par un concours financier ou technique les diverses initiatives
-prises en ces matières.
-
-Ces différentes actions et initiatives peuvent aussi bien porter sur la
-formation proprement dite, sur l'innovation, l'ingénierie pédagogique et les
-techniques de communication, l'accès à l'information que sur la formation des
-formateurs certification."
+"Art. L. 910-2. - (article abrogé).

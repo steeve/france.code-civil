@@ -4,9 +4,9 @@ Sous réserve de dispositions contractuelles ou conventionnelles plus favorables
 l'apprenti perçoit un salaire déterminé en pourcentage du salaire minimum de
 croissance et dont le montant, qui varie en fonction de l'âge du bénéficiaire et
 de sa progression dans le ou les cycles de formation faisant l'objet de
-l'apprentissage, est fixé par décret pris après avis de la commission permanente
-du Conseil national de la formation professionnelle, de la promotion sociale et
-de l'emploi.
+l'apprentissage, est fixé par décret pris après avis, émis dans des conditions
+définies par décret, du Conseil national de la formation professionnelle tout au
+long de la vie.
 
 Les modalités de rémunération des heures supplémentaires sont celles qui sont
 applicables au personnel de l'entreprise concernée.
