@@ -1,9 +1,9 @@
 Article R*236-34
 ----
 Dans les eaux de la 2e catégorie, les membres des associations agréées de
-pêcheurs professionnels en eau douce peuvent pêcher au moyen d'engins et de
-filets dont la nature, les dimensions et le nombre sont définis soit dans le
-cadre de la location du droit de pêche de l'Etat dans les eaux mentionnées à
+pêcheurs professionnels en eau douce peuvent pêcher au moyen d'engins, de filets
+et de lignes dont la nature, les dimensions et le nombre sont définis soit dans
+le cadre de la location du droit de pêche de l'Etat dans les eaux mentionnées à
 l'article L. 235-1, soit par arrêté du préfet pour tout ou partie des eaux non
 mentionnées à l'article L. 235-1, soit par l'autorisation de vidange de plan
 d'eau délivrée en application de l'article L. 232-9.
@@ -40,4 +40,7 @@ largeur mouillée du cours d'eau où ils sont utilisés ;
 14° Lignes de traîne ;
 
 15° Tamis à civelle de 1,20 mètre de diamètre et de 1,30 mètre de profondeur au
-plus.
+plus ;
+
+16° Quatre lignes montées sur canne et munies chacune de deux hameçons au plus
+ou de trois mouches artificielles au plus.

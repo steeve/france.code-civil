@@ -1,10 +1,10 @@
 Article R*236-32
 ----
-Dans les eaux de la 2e catégorie mentionnées au 1° de l'article L. 235-1, les
-membres des associations départementales agréées de pêcheurs amateurs aux engins
-et aux filets sur les eaux du domaine public peuvent pêcher au moyen d'engins et
-de filets dont la nature, les dimensions et le nombre sont définis dans le cadre
-de la location du droit de pêche de l'Etat.
+Dans les eaux de la 2e catégorie mentionnées au 1° de l'article L. 235-1 du code
+rural, les membres des associations départementales agréées de pêcheurs amateurs
+aux engins et aux filets sur les eaux du domaine public peuvent pêcher au moyen
+d'engins, de filets et de lignes dont la nature, les dimensions et le nombre
+sont définis dans le cadre de la location du droit de pêche de l'Etat.
 
 Seuls peuvent être autorisés :
 
@@ -17,7 +17,7 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 3° Trois nasses ;
 
-4° Six bosselles à anguilles ;
+4° Six bosselles à anguilles ou six nasses de type anguillère ou à lamproie ;
 
 5° Six balances à écrevisses ou à crevettes ;
 
@@ -25,4 +25,8 @@ mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 7° Trois lignes de traînes munies au plus de deux hameçons chacune ;
 
-8° Un tamis à civelle d'un diamètre et d'une profondeur inférieurs à 0,50 mètre.
+8° Un tamis à civelle d'un diamètre et d'une profondeur inférieurs à 0,50 mètre
+;
+
+9° Quatre lignes montées sur canne et munies chacune de deux hameçons au plus ou
+de trois mouches artificielles au plus.

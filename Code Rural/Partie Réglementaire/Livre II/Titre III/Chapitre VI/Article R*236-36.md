@@ -19,8 +19,8 @@ b) Pour les espèces autres que celles désignées au a et au c :
 27 millimètres ;
 
 c) Pour l'anguille, le goujon, la loche, le vairon, la vandoise, l'ablette, les
-lamproies ainsi que pour les espèces susceptibles de provoquer des déséquilibres
-biologiques : 10 millimètres.
+lamproies, le gardon, le chevesne et la brème ainsi que pour les espèces
+susceptibles de provoquer des déséquilibres biologiques : 10 millimètres.
 
 Pour la pêche de la civelle, la dimension de la maille des tamis peut être
 inférieure à 10 millimètres.
@@ -32,5 +32,7 @@ carrées ou losangiques ; leur diamètre ou leur diagonale ne doit pas dépasser
 Le diamètre de l'orifice d'entrée des bosselles à anguilles ne doit pas excéder
 40 millimètres.
 
-Les nasses à écrevisses américaines ne doivent pas avoir plus de 0,30 mètre de
-diamètre et 0,50 mètre de longueur.
+Les nasses à écrevisses américaines dont l'emploi est autorisé en application de
+l'article R. 236-35 du code rural aux membres des associations agréées de pêche
+et de pisciculture ne doivent pas avoir plus de 0,30 mètre de diamètre et de
+0,50 mètre de longueur.

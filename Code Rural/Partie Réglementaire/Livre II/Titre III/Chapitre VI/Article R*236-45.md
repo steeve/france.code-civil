@@ -11,7 +11,8 @@ comme cours d'eau à saumon ;
 2° A certains cours d'eau, canaux et plans d'eau désignés par arrêté du préfet.
 
 Pendant la période d'interdiction spécifique de la pêche du brochet, l'emploi de
-l'épervier ainsi que des nasses et verveux, à l'exception des nasses anguillères
-et des bosselles à anguilles, est interdit dans les eaux classées dans la
-deuxième catégorie sauf pour la pêche d'autres espèces pratiquée par les membres
-des associations agréées de pêcheurs professionnels en eau douce.
+l'épervier ainsi que des nasses et verveux, à l'exception des bosselles à
+anguilles et des nasses de type anguillère ou à lamproie, est interdit dans les
+eaux classées dans la deuxième catégorie sauf pour la pêche d'autres espèces
+pratiquée par les membres des associations agréées de pêcheurs professionnels en
+eau douce.

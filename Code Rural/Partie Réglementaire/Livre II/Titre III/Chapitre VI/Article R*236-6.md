@@ -5,11 +5,11 @@ toute pêche est interdite en dehors des temps d'ouverture fixés ainsi qu'il su
 :
 
 1° Du premier samedi de mars au premier dimanche d'octobre, dans les
-départements suivants : Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes,
-Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
+départements suivants : Ain, Alpes-de-Haute-Provence, Hautes-Alpes,
+Alpes-Maritimes, Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
 
 2° Du troisième samedi de mars au premier dimanche d'octobre, dans les
-départements suivants : Ain, Aisne, Ardennes, Aube, Doubs, Essonne, Eure,
+départements suivants : Aisne, Ardennes, Aube, Doubs, Essonne, Eure,
 Hauts-de-Seine, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle,
 Nord, Oise, Paris, Pas-de-Calais, Haute-Saône, Seine-Maritime, Seine-et-Marne,
 Seine-Saint-Denis, Somme, Bas-Rhin, Haut-Rhin, Vosges, territoire de Belfort,
