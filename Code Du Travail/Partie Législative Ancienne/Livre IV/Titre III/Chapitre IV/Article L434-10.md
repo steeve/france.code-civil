@@ -17,6 +17,3 @@ congé d'éducation ouvrière.
 
 Le financement de la formation instituée au présent article est pris en charge
 par le comité d'entreprise.
-
-Un décret détermine, en tant que de besoin, les modalités d'application du
-présent article et notamment les limites de la prise en charge par l'employeur.
