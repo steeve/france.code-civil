@@ -11,7 +11,9 @@ La commission comprend en outre :
 
 2° Une personnalité choisie en raison de sa compétence ;
 
-3° Un représentant des assurés.
+3° Un représentant des assurés ;
+
+4° Un représentant du fonds de garantie institué par l'article L. 423-1..
 
 Les membres de la commission visés aux 2° et 3° du présent article sont nommés
 par arrêté du ministre chargé de l'économie et des finances.

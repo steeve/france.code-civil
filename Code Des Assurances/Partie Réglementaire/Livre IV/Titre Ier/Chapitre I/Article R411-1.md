@@ -24,8 +24,10 @@ et des finances.
 
 3° Les douze représentants des professions de l'assurance comprennent :
 
-- huit représentants des entreprises d'assurance désignés sur proposition des
-organismes représentatifs de la profession ;
+- huit représentants des entreprises d'assurance, dont le président du conseil
+de surveillance du fonds de garantie institué par l'article L. 423-1 et sept
+autres représentants désignés sur proposition des organismes représentatifs de
+la profession ;
 
 - deux représentants des agents généraux d'assurance et deux représentants des
 courtiers d'assurance désignés respectivement sur proposition des organisations
