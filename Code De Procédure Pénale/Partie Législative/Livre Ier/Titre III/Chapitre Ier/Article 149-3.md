@@ -2,9 +2,9 @@ Article 149-3
 ----
 Les décisions prises par le premier président de la cour d'appel peuvent, dans
 les dix jours de leur notification, faire l'objet d'un recours devant une
-commission nationale d'indemnisation des détentions provisoires. Cette
-commission, placée auprès de la Cour de cassation, statue souverainement et ses
-décisions ne sont susceptibles d'aucun recours, de quelque nature que ce soit.
+commission nationale de réparation des détentions. Cette commission, placée
+auprès de la Cour de cassation, statue souverainement et ses décisions ne sont
+susceptibles d'aucun recours, de quelque nature que ce soit.
 
 Le bureau de la Cour de cassation peut décider que la commission nationale
 comportera plusieurs formations.

@@ -1,7 +1,7 @@
 Article 627
 ----
-Lorsque, après un arrêt de mise en accusation, l'accusé n'a pu être saisi ou ne
-se représente pas dans les dix jours de la signification qui en a été faite à
+Lorsque, après une décision de mise en accusation, l'accusé n'a pu être saisi ou
+ne se représente pas dans les dix jours de la signification qui en a été faite à
 son domicile, ou lorsque après s'être présenté ou avoir été saisi, il s'est
 évadé, le président de la cour d'assises ou, en son absence, le président du
 tribunal du lieu où se tiennent les assises, ou le magistrat qui le remplace,
