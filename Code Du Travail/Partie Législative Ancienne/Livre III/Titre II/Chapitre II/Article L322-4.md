@@ -20,4 +20,19 @@ sont fixés par voie réglementaires.
 
 3. Des allocations en faveur des salariés dont l'emploi à temps plein est
 transformé avec leur accord en emploi à mi-temps au titre d'un contrat de
-solidarité
+solidarité.
+
+4. Des allocations de conversion en faveur des salariés auxquels est accordé un
+congé en vue de bénéficier d'actions destinées à favoriser leur reclassement et
+dont le contrat de travail est, à cet effet, temporairement suspendu.
+
+En outre, le ministre chargé du travail peut, après avis du comité supérieur de
+l'emploi, accorder des aides individuelles au reclassement en faveur de
+certaines catégories de travailleurs sans emploi reprenant un emploi à temps
+partiel.
+
+Les allocations versées en application du présent article sont cessibles et
+saisissables dans les mêmes conditions et limites que les salaires.
+
+Les contributions des employeurs à ces allocations ne sont passibles ni du
+versement forfaitaire sur les salaires, ni des cotisations de sécurité sociale.
