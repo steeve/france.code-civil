@@ -21,16 +21,17 @@ Les délibérations des conseils municipaux s'appliquent à la cotisation de
 péréquation de la taxe professionnelle.
 
 La liste des zones urbaines sensibles prévue au premier alinéa du 3 de l'article
-42 de la loi n° 95-115 du 4 février 1995 modifiée est actualisée au moins tous
-le cinq ans, de façon à tenir compte de l'évolution de la situation des grands
+42 modifié de la loi n° 95-115 du 4 février 1995 est actualisée au moins tous le
+cinq ans, de façon à tenir compte de l'évolution de la situation des grands
 ensembles et des quartiers d'habitat dégradé. Elle peut, à la même fin, être
 complétée entre deux actualisations. Elle est actualisée et complétée après avis
 du Conseil national des villes et du développement social urbain.
 
 La limite de base nette imposable visée au premier alinéa est fixée à 1 050 000
 F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
-la variation des prix, à 990 000 F au titre de 2000, 910 000 F au titre de 2001,
-815 000 F au titre de 2002 et 745 000 F à compter de 2003.
+la variation des prix, à 990 000 F au titre de 2000 (996 000 F après
+actualisation), 910 000 F au titre de 2001 (920 000 F après actualisation), 815
+000 F au titre de 2002 et 745 000 F à compter de 2003.
 
 I bis. Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations et extensions
@@ -54,7 +55,7 @@ I ter. Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations, extensions
 d'établissement ou changements d'exploitant intervenus à compter du 1er janvier
 1997 dans les zones de redynamisation urbaine définies au A du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 modifiée précitée sont exonérés de taxe
+modifié de la loi n° 95-115 du 4 février 1995 précitée sont exonérés de taxe
 professionnelle dans la limite du montant de base nette imposable fixé au I.
 
 Sauf délibération contraire de la collectivité territoriale ou du groupement de
@@ -87,8 +88,8 @@ groupement de collectivités territoriales, les entreprises employant cinquante
 salariés au plus au 1er janvier 1997 ou à la date de leur création, si elle est
 postérieure, bénéficient de l'exonération de taxe professionnelle à compter du
 1er janvier 1997 dans les conditions prévues au I ter, pour leurs établissements
-situés dans les zones franches urbaines définies au B du 3 de l'article 42 de la
-loi n° 95-115 du 4 février 1995 modifiée précitée.
+situés dans les zones franches urbaines définies au B du 3 de l'article 42
+modifié de la loi n° 95-115 du 4 février 1995 précitée.
 
 Cette exonération qui s'applique, quelle que soit la date de création de
 l'établissement, est accordée dans la limite d'un montant de base nette
@@ -99,8 +100,9 @@ d'établissement intervenues en 1996.
 
 La limite de base nette imposable visée au deuxième alinéa est fixée à 2 835 000
 F au titre de 1999 et, sous réserve de l'actualisation annuelle en fonction de
-la variation des prix, à 2 675 000 F au titre de 2000, 2 455 000 F au titre de
-2001, 2 205 000 F au titre de 2002 et 2 010 000 F à compter de 2003.
+la variation des prix, à 2 675 000 F au titre de 2000 (2 691 000 F après
+actualisation), 2 455 000 F au titre de 2001 (2 482 000 F après actualisation),
+2 205 000 F au titre de 2002 et 2 010 000 F à compter de 2003.
 
 Pour les établissements existant dans les zones franches urbaines au 1er janvier
 1997, visés au premier alinéa, l'exonération s'applique :
@@ -121,9 +123,9 @@ d'affaires total hors taxes réalisé pendant la même période ;
 c) quel que soit le secteur d'activité, aux bases d'imposition correspondant aux
 extensions réalisées à compter du 1er janvier 1997.
 
-Les conditions visées aux a) et b) du ((quatrième)) (M) alinéa ne sont pas
-opposables aux établissements situés dans les zones franches urbaines des
-communes des départements d'outre-mer.
+Les conditions visées aux a) et b) du quatrième alinéa ne sont pas opposables
+aux établissements situés dans les zones franches urbaines des communes des
+départements d'outre-mer.
 
 L'exonération ne s'applique pas aux bases d'imposition afférentes au personnel
 et aux biens d'équipement mobiliers transférés par une entreprise, à partir d'un
