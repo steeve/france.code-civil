@@ -2,8 +2,11 @@ Article R351-18
 ----
 Le montant de l'aide personnalisée est obtenu par l'application de la formule :
 
-A.P.L. = K (L+C-L.), dans laquelle a) A.P.L. représente le montant mensuel de
-l'aide personnalisée ;
+APL = K (L+C-L.),
+
+dans laquelle
+
+a) A.P.L. représente le montant mensuel de l'aide personnalisée ;
 
 b) K représente le coefficient de prise en charge défini à l'article R. 351-19 ;
 
@@ -21,3 +24,6 @@ d) C représente le montant forfaitaire des charges défini à l'article R. 351-
 e) L. représente le loyer principal minimum, tel que défini à l'article R.
 351-21, qui doit rester à la charge du locataire ou du propriétaire compte tenu
 des ressources et de la composition de la famille.
+
+Le montant de l'aide personnalisée au logement est arrondi au franc le plus
+proche.
