@@ -6,3 +6,9 @@ l'ensemble de l'offre de soins existante au moment où il entre en vigueur et de
 objectifs retenus par le schéma, les créations, les regroupements, les
 transformations ou suppressions des installations et unités qui seraient
 nécessaires à sa réalisation.
+
+De la même manière, l'annexe au schéma régional d'organisation sanitaire
+détermine les moyens nécessaires à la réalisation des objectifs qu'il fixe pour
+ce qui concerne les soins palliatifs, notamment les unités de soins palliatifs,
+les équipes mobiles et les places d'hospitalisation à domicile nécessaires, par
+création, regroupement, transformation ou suppression.

@@ -8,3 +8,5 @@ d'hospitalisation relevant de cette ou de ces disciplines au sein de la zone
 considérée. Les modalités de cette réduction sont définies par décret en tenant
 compte des excédents existant dans la zone considérée et dans la limite d'un
 plafond.
+
+Des dispositions particulières peuvent être prises pour les soins palliatifs.
