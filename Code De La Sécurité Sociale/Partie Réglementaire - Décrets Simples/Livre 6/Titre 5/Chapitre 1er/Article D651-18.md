@@ -1,6 +1,8 @@
 Article D651-18
 ----
-La caisse nationale mentionnée à l'article D. 651-4 répartit le premier jour du
-dernier mois de chaque trimestre [*date*] le produit de la contribution sociale
-de solidarité entre les régimes mentionnés à l'article D. 651-17, sur les bases
-fixées par les arrêtés prévus audit article.
+Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du
+budget fixe, après avis du conseil d'administration de la Caisse nationale de
+l'organisation autonome d'assurance vieillesse des professions industrielles et
+commerciales, le montant du prélèvement à opérer sur le disponible du compte
+visé à l'article D. 651-7 au profit de ladite caisse, pour la couverture des
+frais de gestion occasionnés par le recouvrement de la contribution.

@@ -1,11 +1,8 @@
 Article D651-2
 ----
 Pour les entreprises de commerce international dont la marge est au plus égale à
-4 p. 100 du chiffre d'affaires hors taxe, le montant de la contribution sociale
-de solidarité est plafonné à 2,50 p. 100 de cette marge brute, dont 2,25 p. 100
-au titre de l'aide aux régimes mentionnés au premier alinéa de l'article L.
-651-1 et 0,25 p. 100 au titre de la taxe d'entraide instituée par le 1° de
-l'article 3 de la loi n° 72-657 du 13 juillet 1972.
+4 p. 100 du chiffre d'affaires hors taxes, le montant de la contribution sociale
+de solidarité est plafonné à 2,50 p. 100 de cette marge brute.
 
 Pour l'application du premier alinéa, les entreprises de commerce international
 s'entendent [*définition*] de toutes celles qui réalisent plus de la moitié de

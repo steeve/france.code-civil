@@ -16,7 +16,7 @@ combustibles, si le total des postes suivants, tels qu'ils figurent dans le
 compte d'exploitation générale prévu à l'article premier du décret n° 65-968 du
 28 octobre 1965 :
 
-1°) 20 % des frais de personnels ;
+1°) 20 % des frais de personnel ;
 
 2°) impôts et taxes à l'exclusion des droits et taxes qui ne sont pas retenus
 dans l'assiette de la contribution sociale de solidarité en application de
@@ -30,10 +30,7 @@ l'article L. 651-5 ;
 
 est au plus égal à 4 p. 100 du chiffre d'affaires défini à l'article L. 651-5,
 le montant de la contribution sociale de solidarité est plafonné à 2,50 p. 100
-dudit total dont 2,25 p. 100 au titre de l'aide aux régimes mentionnés au
-premier alinéa de l'article L. 651-1 et 0,25 p. 100 au titre de la taxe
-d'entraide instituée par le 1° de l'article 3 de la loi n° 72-554 du 3 juillet
-1972.
+dudit total.
 
 Les dispositions du quatrième alinéa de l'article D. 651-2 sont applicables aux
 entreprises mentionnées au présent article.
