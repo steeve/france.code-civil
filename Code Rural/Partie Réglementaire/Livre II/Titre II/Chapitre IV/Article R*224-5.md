@@ -26,13 +26,17 @@ Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu
 l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale
 individuelle.
 
-- Sanglier : 15 août, dernier jour de février.
+- Sanglier : 1er juin, dernier jour de février.
 
 Conditions spécifiques de chasse :
 
-Hors la période d'ouverture générale, la chasse du sanglier ne peut être
-pratiquée qu'en battue, ou à l'affût, ou à l'approche, dans les conditions
-fixées par l'arrêté du préfet.
+Du 1er juin au 14 août, la chasse du sanglier ne peut être pratiquée qu'à
+l'affût ou à l'approche par les détenteurs d'une autorisation préfectorale
+individuelle et dans les conditions fixées par l'arrêté du préfet.
+
+Du 15 août à l'ouverture générale et de la clôture générale au dernier jour de
+février, la chasse du sanglier ne peut être pratiquée qu'en battue, à l'affût ou
+à l'approche dans les conditions fixées par l'arrêté du préfet.
 
 - Grand tétras : troisième dimanche de septembre, 1er novembre.
 
