@@ -9,8 +9,16 @@ effet de réduire les taux à moins de 1 %. Les taux supérieurs à 10 % ne peuv
 être augmentés. Les taux inférieurs à 10 % ne peuvent être relevés au-delà de
 cette limite.
 
-Le taux prévu à l'article 710 ne peut excéder 7 p. 100. A compter du 1er juin
-1992, ce taux ne peut être supérieur à 6,5 p. 100.
+Pour les mutations à titre onéreux d'immeubles visées aux articles 710 et 711,
+le taux ne peut être supérieur à :
+
+6,5 p. 100 à compter du 1er juin 1992 ;
+
+6 p. 100 à compter du 1er juin 1993 ;
+
+5,5 p. 100 à compter du 1er juin 1994 ;
+
+5 p. 100 à compter du 1er juin 1995.
 
 Les dispositions du premier et du deuxième alinéa ne sont pas applicables au
 droit proportionnel de 0,60 p. 100.

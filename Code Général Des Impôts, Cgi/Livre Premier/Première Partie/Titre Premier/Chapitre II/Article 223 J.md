@@ -40,3 +40,6 @@ des sociétés mentionnées à ces deux alinéas.
 
 Les dispositions des trois alinéas précédents ne s'appliquent pas si la société
 était membre du groupe depuis cinq ans au moins.
+
+Les dispositions ci-dessus cessent d'être applicables aux résultats des
+exercices ouverts à compter du 1er janvier 1992.

@@ -18,8 +18,8 @@ l'insuffisance s'apprécie pour chaque bien.
 II. Pour l'application du I, sont assimilés à une insuffisance de déclaration
 lorsqu'ils ne sont pas justifiés :
 
-a) Les charges ouvrant droit aux réductions d'imp^ot prévues aux articles 199
-sexies, 199 sexies C et 199 septies ;
+a) Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199
+quater E, 199 sexies, 199 sexies C et 199 septies ;
 
 b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou
 à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
@@ -36,6 +36,9 @@ prévue à l'article 199 octies ;
 
 f) La base sur laquelle a été calculée la réduction prévue à l'article 199
 nonies.
+
+g) Les souscriptions en numéraire ouvrant droit au crédit d'impôt prévu à
+l'article 220 sexies. "
 
 III. Pour l'application du I, la base sur laquelle a été calculée la réduction
 d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de

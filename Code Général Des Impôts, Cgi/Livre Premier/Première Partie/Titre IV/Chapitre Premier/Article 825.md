@@ -1,7 +1,6 @@
 Article 825
 ----
-En ce qui concerne les augmentations de capital des sociétés à capital variable,
-l'imposition proportionnelle établie par l'article 810-I et II n'est liquidée
-que sur la fraction du capital social qui, à la clôture d'un exercice social,
-excède le capital précédemment taxé; elle est perçue sur le procès-verbal de
-l'assemblée générale des associés statuant sur les résultats dudit exercice.
+L'augmentation nette du capital d'une société à capital variable, constatée à la
+clôture d'un exercice, est soumise au droit fixe mentionné au I de l'article 810
+; il est perçu sur le procès-verbal de l'assemblée générale des associés qui
+statue sur les résultats de cet exercice.

@@ -13,8 +13,10 @@ les entreprises à la suite de faits de guerre pour réparation des éléments
 d'actif immobilisés.
 
 L'étalement prévu au premier alinéa est également applicable aux primes de
-départ volontaire, même si leur montant n'excède pas la moyenne des revenus nets
-imposables des trois dernières années (1).
+départ volontaire et aux primes ou indemnités versées à titre exceptionnel aux
+salariés lors d'un changement du lieu de travail impliquant un transfert du
+domicile ou de la résidence même si leur montant n'excède pas la moyenne des
+revenus nets imposables des trois dernières années (1).
 
 La même faculté est accordée au contribuable qui, par suite de circonstances
 indépendantes de sa volonté, a eu, au cours d'une même année, la disposition de

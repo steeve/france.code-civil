@@ -1,9 +1,8 @@
 Article 960
 ----
-I. Une taxe de 1.770 F [*montant*] est perçue pour la délivrance de
-l'autorisation ou du récépissé de déclaration d'ouverture de débits de boissons
-de troisième ou quatrième catégorie, ainsi que de translation ou de mutation de
-ces débits (1).
+I. Une taxe de 2.000 F est perçue pour la délivrance de l'autorisation ou du
+récépissé de déclaration d'ouverture de débits de boissons de troisième ou
+quatrième catégorie, ainsi que de translation ou de mutation de ces débits (1).
 
 Toutefois cette taxe n'est pas exigible pour la délivrance du récépissé de la
 déclaration de mutation souscrite :
@@ -22,24 +21,25 @@ même en cas d'infraction à la législation des débits de boissons commise par
 cessionnaire dans le délai de trois ans à compter de la mutation et à l'occasion
 de l'exploitation du débit cédé.
 
-I bis. La taxe prévue au I est fixée à 355 F pour les débits de boissons de 3e
+I bis. La taxe prévue au I est fixée à 500 F pour les débits de boissons de 3e
 ou 4e catégorie ouverts à titre temporaire dans les foires, expositions ou
 autres manifestations (1).
 
 Le paiement de cette taxe couvre toutes les ouvertures et translations
 intervenant au cours d'une année civile pour un débit appartenant à une même
-personne. Elle est payable d'avance le 1er janvier de chaque année [*date*] ou
-lors de la première ouverture du débit.
+personne. Elle est payable d'avance le 1er janvier de chaque année ou lors de la
+première ouverture du débit.
 
-II. Une taxe de 220 F est perçue (1) :
+II. Une taxe de 300 F est perçue (1) :
 
 Pour la délivrance du récépissé de déclaration de la profession de commerçant en
-substances vénéneuses; Pour la délivrance du récépissé de déclaration d'une
-activité professionnelle qui comporte la vente ou l'échange d'objets mobiliers
-usagés ou acquis de personnes autres que celles qui les fabriquent ou en font le
-commerce.
+substances vénéneuses;
+
+Pour la délivrance du récépissé de déclaration d'une activité professionnelle
+qui comporte la vente ou l'échange d'objets mobiliers usagés ou acquis de
+personnes autres que celles qui les fabriquent ou en font le commerce.
 
 Pour la délivrance du récépissé de déclaration à la personne désirant se livrer
 au commerce des armes et des munitions.
 
-(1) Annexe III, art. 313 AY.
+(1) Annexe III, art. 313 AY. Tarif applicable à compter du 15 janvier 1992.

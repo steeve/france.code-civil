@@ -16,24 +16,24 @@ assimilées aux huiles végétales alimentaires), lors de l'importation.
 
 II. Les taux de la taxe sont fixés comme suit (1) :
 
-Huile d'olive : Par kilogramme 0,83916 F, Par litre 0,756 F ;
+Huile d'olive : Par kilogramme 0,860 F, Par litre 0,775 F ;
 
-Huiles d'arachide et de maïs : Par kilogramme 0,75635 F Par litre 0,689 F ;
+Huiles d'arachide et de maïs : Par kilogramme 0,775 F Par litre 0,706 F ;
 
-Huiles de colza et de pépins de raisin : Par kilogramme 0,387 F Pa litre 0,363 F
-;
+Huiles de colza et de pépins de raisin : Par kilogramme 0,397 F Par litre 0,362
+F ;
 
 Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et
 l'utilisation ne sont pas soumis aux règles internationales ou nationales
-relatives aux espèces protégées : Par kilogramme 0,659 F Par litre 0,576 F ;
+relatives aux espèces protégées : Par kilogramme 0,675 F Par litre 0,590 F ;
 
-Huiles de coprah et de palmiste : Par kilogramme 0,503 F Par litre 0,576 F ;
+Huiles de coprah et de palmiste : Par kilogramme 0,516 F Par litre 0,590 F ;
 
-Huile de palme : Par kilogramme 0,460 F Par litre 0,576 F ;
+Huile de palme : Par kilogramme 0,472 F Par litre 0,590 F ;
 
 Huiles d'animaux marins dont le commerce et l'utilisation ne sont pa soumis aux
 règles internationales ou nationales relatives aux espèces protégées : Par
-kilogramme 0,839 F Par litre 0,576 F
+kilogramme 0,860 F Par litre 0,590 F
 
 Pour les produits alimentaires importés incorporant des huiles imposables, la
 taxation est effectuée selon les quantités et les natures d'huile entrant dans
@@ -58,7 +58,7 @@ ne frappe que les huiles effectivement destinées à l'alimentation humaine, pou
 qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée
 en cas d'exportation.
 
-(1) Taux applicables à compter du 1er janvier 1991.
+(1) Taux applicables à compter du 1er janvier 1992.
 
 (2) Voir annexe IV, art. 159 ter A. Le dernier tarif forfaitaire a été fixé par
 un arrêté du 30 décembre 1988 (J.O. du 4 février 1989).

@@ -9,9 +9,9 @@ Groupe de produits : Cigarettes
 
 Taux normal : 52,30
 
-2. A compter du 30 septembre 1991 :
+2. A compter du 20 avril 1992 :
 
-Taux normal : 54,13
+Taux normal : 53,28
 
 Minimum de perception par mille unités ou par mille grammes :
 
@@ -23,11 +23,10 @@ Groupe de produits : Cigares
 
 Taux normal : 26,92
 
-2. A compter du 30 septembre 1991 :
+2. A compter du 20 avril 1992 :
 
-Taux normal : 29,95
-
-Minimum de perception par mille unités ou par mille grammes :
+Taux normal : 29,92 RL&gt; Minimum de perception par mille unités ou par mille
+grammes :
 
 34 F
 
@@ -37,9 +36,9 @@ Groupe de produits : Tabacs à fumer
 
 Taux normal : 43,55
 
-2. A compter du 30 septembre 1991 :
+2. A compter du 20 avril 1992 :
 
-Taux normal : 46,14
+Taux normal : 44,80
 
 Minimum de perception par mille unités ou par mille grammes :
 
@@ -51,9 +50,9 @@ Groupe de produits : Tabacs à priser
 
 Taux normal : 36,81
 
-2. A compter du 30 septembre 1991 :
+2. A compter du 20 avril 1992 :
 
-Taux normal : 39,99
+Taux normal : 38,26
 
 Minimum de perception par mille unités ou par mille grammes :
 
@@ -65,10 +64,12 @@ Groupe de produits : Tabacs à mâcher
 
 Taux normal : 23,71
 
-2. A compter du 30 septembre 1991 :
+2. A compter du 20 avril 1992 :
 
-Taux normal : 28,03
+Taux normal : 25,53
 
 Minimum de perception par mille unités ou par mille grammes :
 
 7 F.
+
+Voir la loi 92-652 1992-07-13 art. 40.

@@ -1,10 +1,11 @@
 Article 223 H
 ----
-Les dividendes distribués dans les conditions prévues au premier alinéa du 1 de
-l'article 223 sexies par une société du groupe à une autre société du groupe ne
-donnent pas lieu au précompte prévu à cet article et n'ouvrent pas droit à
-l'avoir fiscal prévu à l'article 158 bis lorsqu'ils sont prélevés sur des
-résultats qui ont été compris dans le résultat d'ensemble.
+Les dividendes distribués à compter du 1er janvier 1992 par une société du
+groupe à une autre société du groupe ne donnent pas lieu au précompte prévu à
+l'article 223 sexies et n'ouvrent pas droit à l'avoir fiscal prévu à l'article
+158 bis lorsqu'ils sont prélevés sur des résultats ou des plus-values nettes à
+long terme réalisés pendant la période au cours de laquelle la société
+distributrice est membre du groupe.
 
 Pour la liquidation du précompte dû à raison des distributions réalisées par la
 société mère, le bénéfice disponible soumis à l'impôt sur les sociétés au taux
@@ -23,3 +24,8 @@ distributions ainsi limitées qui excède le montant des distributions exonéré
 en application du d du paragraphe I de l'article 219. Les résultats comptables
 sont retenus en proportion de la participation détenue par la société mère dans
 le capital de la société distributrice.
+
+Les dispositions du premier alinéa s'appliquent aux dividendes mis en paiement
+par une société du groupe au cours du premier exercice dont le résultat n'est
+pas pris en compte dans le résultat d'ensemble, si cette distribution a lieu
+avant l'événement qui entraîne sa sortie du groupe.

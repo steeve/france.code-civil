@@ -74,6 +74,66 @@ d'imposition prévu au premier alinéa, lorsqu'elles sont réintégrées dans le
 résultat, sont soumises au régime des plus-values à long terme imposables au
 taux de 25 p. 100.
 
+a bis. Le montant net des plus-values à long terme, autres que celles
+mentionnées aux troisième et quatrième alinéas ci-dessous ou résultant de la
+cession de parts ou actions émises par des organismes de placement collectif en
+valeurs mobilières étrangers fait l'objet d'une imposition séparée au taux de 18
+p. 100, dans les conditions prévues au I de l'article 39 quindecies et à
+l'article 209 quater.
+
+" Les moins-values à long terme existant à l'ouverture du premier exercice clos
+à compter du 1er octobre 1991, qui sont afférentes aux éléments d'actif autres
+que les titres exclus du régime des plus-values en application des troisième et
+quatrième alinéas ci-dessous, sont imputées sur les plus-values à long terme
+imposables au taux de 18 p. 100. Les provisions pour dépréciation qui se
+rapportent aux mêmes éléments sont comprises dans les plus-values à long terme
+imposables au taux de 18 p. 100 lorsqu'elles deviennent sans objet.
+
+" Le régime des plus-values et moins-values à long terme cesse de s'appliquer au
+résultat de la cession de titres du portefeuille réalisée à compter du 1er
+juillet 1991 à l'exclusion des parts ou actions de sociétés, autres que celles
+émises par des organismes de placement collectif en valeurs mobilières français
+ou étrangers, des bons de souscription d'actions, des certificats
+d'investissement et des certificats coopératifs d'investissement et des parts de
+fonds commun de placement à risques qui remplissent les conditions prévues au 1
+bis du II de l'article 163 quinquies B et qui sont détenues par l'entreprise
+depuis au moins cinq ans.
+
+" A compter de la même date, le régime des plus-values et moins-values à long
+terme cesse également de s'appliquer en ce qui concerne les titres de sociétés
+dont l'actif est constitué principalement par des titres exclus de ce régime en
+application de l'alinéa précédent ou dont l'activité consiste de manière
+prépondérante en la gestion des mêmes valeurs pour leur propre compte.
+
+" Les provisions pour dépréciation afférentes aux titres concernés par les
+troisième et quatrième alinéas ci-dessus cessent d'être soumises au régime des
+plus et moins-values à long terme.
+
+" Les moins-values à long terme afférentes à des titres exclus du régime des
+plus-values à long terme en application des troisième et quatrième alinéas
+ci-dessus, subies au cours d'un exercice clos à compter du 1er novembre 1990 et
+restant à reporter après compensation avec les plus-values à long terme relevant
+du taux de 25 p. cent réalisées jusqu'au 1er juillet 1991, sont considérées
+comme une charge du premier exercice clos à compter du 1er octobre 1991 pour une
+fraction de leur montant égale au rapport qui existe entre le taux de 25 p. cent
+et le taux normal de l'impôt sur les sociétés.
+
+" Les moins-values à long terme afférentes à des éléments d'actif qui relevaient
+du taux de 19 p. cent mentionné au a du I du présent article existant à
+l'ouverture du premier exercice clos à compter du 1er novembre 1990 et restant à
+reporter après compensation avec les plus-values relevant du taux de 18 p. cent
+peuvent s'imputer sur les bénéfices imposables, pour une fraction de leur
+montant égale au rapport qui existe entre le taux de 18 p. cent et le taux
+normal de l'impôt sur les sociétés. Cette imputation n'est possible que dans la
+limite des profits nets retirés de la cession de titres acquis depuis deux ans
+au moins et qui entrent dans le champ d'application des troisième et quatrième
+alinéas ci-dessus, corrigés des provisions sur titres déduites ou réintégrées
+dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa
+précédent.
+
+" Ces dispositions s'appliquent pour la détermination des résultats des
+exercices clos à compter du 1er octobre 1991. "
+
 b. (Disposition périmée).
 
 c. Le taux de l'impôt sur les sociétés est porté à 42 p. 100 pour les
@@ -84,14 +144,17 @@ Pour l'application de l'alinéa précédent, un supplément d'impôt sur les
 sociétés, égal à 3/58 du montant net distribué, est dû sur ces distributions à
 concurrence de la somme algébrique des résultats comptables des mêmes exercices,
 diminuée des distributions antérieures décidées conformément aux statuts de la
-société et soumises au supplément d'impôt. Cette somme algébrique ainsi réduite
-est diminuée, dans la limite de son montant positif, des sommes portées à la
-réserve spéciale prévue à l'article 209 quater et afférentes à des plus-values
-réalisées au cours d'exercices ouverts à compter du 1er janvier 1989 ; les
-sommes prélevées sur cette réserve pour être portées en réserve ordinaire au
-cours des mêmes exercices sont ajoutées à cette somme algébrique. Le supplément
-est également dû sur les sommes réputées distribuées au cours de ces exercices
-en application des articles 109 à 115 quinquies 1°.
+société et soumises au supplément d'impôt ainsi que, dans la limite de son
+montant positif, des distributions exonérées dans les conditions mentionnées au
+d, à l'exception des distributions prélevées sur la réserve spéciale prévue à
+l'article 209 quater, au d bis et au quatrième alinéa de l'article 223 H. .
+Cette somme algébrique ainsi réduite est diminuée, dans la limite de son montant
+positif, des sommes portées à la réserve spéciale prévue à l'article 209 quater
+et afférentes à des plus-values réalisées au cours d'exercices ouverts à compter
+du 1er janvier 1989 ; les sommes prélevées sur cette réserve pour être portées
+en réserve ordinaire au cours des mêmes exercices sont ajoutées à cette somme
+algébrique. Le supplément est également dû sur les sommes réputées distribuées
+au cours de ces exercices en application des articles 109 à 115 quinquies 1°.
 
 Pour les distributions effectuées au cours des exercices ouverts à compter du
 1er janvier 1990, le taux du supplément défini à l'alinéa précédent est porté à
@@ -104,6 +167,16 @@ Pour les distributions effectuées au cours des exercices ouverts à compter du
 porté à 8/58 du montant net distribué, à concurrence de la somme algébrique des
 résultats comptables de ces mêmes exercices, ainsi que des sommes réputées
 distribuées.
+
+" Le taux de l'impôt sur les sociétés est fixé, selon les modalités prévues
+ci-après, à 34 p. 100 pour les distributions, au sens du présent code,
+effectuées par les entreprises au cours des exercices ouverts à compter du 1er
+janvier 1992. Pour ces exercices le taux du supplément d'impôt sur les sociétés
+défini au deuxième alinéa est réduit à 0 p. 100 du montant net distribué à
+concurrence de la somme algébrique des résultats comptables de ces mêmes
+exercices ainsi que des sommes réputées distribuées. "
+
+2° La première phrase du deuxième alinéa est complétée par les mots : "
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223
 sexies a été acquitté ne sont pas retenues pour l'application des dispositions

@@ -5,14 +5,20 @@ exonérée.
 
 Sont considérés comme résidences principales [*définition*] :
 
-a Les immeubles ou parties d'immeubles constituant la résidence habituelle du
+a) Les immeubles ou parties d'immeubles constituant la résidence habituelle du
 propriétaire depuis l'acquisition ou l'achèvement ou pendant au moins cinq ans ;
 aucune condition de durée n'est requise lorsque la cession est motivée par des
 impératifs d'ordre familial ou un changement de résidence;
 
-b Les immeubles ou parties d'immeubles constituant la résidence en France des
+b) Les immeubles ou parties d'immeubles constituant la résidence en France des
 Français domiciliés hors de France, dans la limite d'une résidence par
-contribuable.
+contribuable à condition que le cédant ait été fiscalement domicilié en France
+de manière continue pendant une durée d'au moins un an à un moment quelconque
+antérieurement à la cession et qu'il ait eu la libre disposition du bien depuis
+son acquisition ou son achèvement ou pendant au moins trois ans ; aucune
+condition de durée de libre disposition n'est requise lorsque la cession est
+motivée par des impératifs d'ordre familial ou un changement du lieu de travail
+consécutif au retour en France du contribuable.
 
 Cette définition englobe les dépendances immédiates et nécessaires de
 l'immeuble.

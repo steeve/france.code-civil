@@ -1,9 +1,9 @@
 Article 223 sexies
 ----
-1. Sous réserve des dispositions des articles 209 quinquies et 209 sexies,
-lorsque les produits distribués par une société sont prélevés sur des sommes à
-raison desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux
-normal prévu au deuxième alinéa du I de l'article 219, cette société est tenue
+1. Sous réserve des dispositions des articles 209 quinquies et 223 H, lorsque
+les produits distribués par une société sont prélevés sur des sommes à raison
+desquelles elle n'a pas été soumise à l'impôt sur les sociétés au taux normal
+prévu au deuxième alinéa du I de l'article 219, cette société est tenue
 d'acquitter un précompte égal au montant du crédit [*d'impôt, avoir fiscal*]
 prévu à l'article 158 bis et attaché à ces distributions [*calcul*]. Ce
 précompte est dû quels que soient les bénéficiaires des distributions.
@@ -71,7 +71,10 @@ articles 145 et 216 et retirent de ces participations deux tiers au moins de
 leur bénéfice comptable hors plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la
-distribution qui provient des dividendes de ces participations (Ces dispositions
-s'appliquent aux distributions effectuées à compter du 1er janvier 1990.
+distribution qui provient des dividendes de ces participations (2).
+
+effectuées à compter du 1er janvier 1990.
 
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
+
+(2) Annexe III, art. 46 quater-0 FA.

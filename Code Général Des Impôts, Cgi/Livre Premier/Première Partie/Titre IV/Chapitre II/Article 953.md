@@ -7,8 +7,13 @@ de timbre et tous frais d'expédition.
 II. Sont dispensés du paiement du prix fixé au I les passeports délivrés aux
 fonctionnaires se rendant en mission à l'étranger.
 
-III. Les laissez-passer et sauf-conduits pour l'étranger, valables pour deux
-jours et pour un seul voyage, sont assujettis à une taxe de 30 F.
+III. (Abrogé).
 
 IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables deux
 ans et sont soumis à une taxe de 55 F.
+
+V. Les sauf-conduits délivrés pour une durée de validité maximum de trois mois
+aux étrangers titulaires d'un titre de séjour sont assujettis à une taxe de 50 F
+(1).
+
+(1) A compter du 15 janvier 1992.

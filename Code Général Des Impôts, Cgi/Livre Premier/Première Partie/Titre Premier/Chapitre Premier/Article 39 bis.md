@@ -16,9 +16,12 @@ des exercices 1970 à 1975, à constituer une provision pour acquisition
 d'éléments d'actif nécessaires à l'exploitation du journal, qui est admise en
 franchise d'impôt dans la limite de :
 
-90 % du bénéfice de l'exercice 1970, 80 % du bénéfice de l'exercice 1971, 60 %
-pour la généralité des publications et 80 % pour les quotidiens, du bénéfice des
-exercices 1972 à 1975.
+90 % du bénéfice de l'exercice 1970,
+
+80 % du bénéfice de l'exercice 1971,
+
+60 % pour la généralité des publications et 80 % pour les quotidiens, du
+bénéfice des exercices 1972 à 1975.
 
 Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquement des
 matériels, terrains, constructions et prises de participations dans des
@@ -48,7 +51,7 @@ constituée en vertu du premier alinéa.
 
 1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à
 constituer en franchise d'impôt, par prélèvement sur les résultats imposables
-des exercices 1980 à 1991, une provision exclusivement affectée à l'acquisition
+des exercices 1980 à 1996, une provision exclusivement affectée à l'acquisition
 de matériels et constructions strictement nécessaires à l'exploitation du
 journal ou à déduire de ces résultats les dépenses exposées en vue du même
 objet. Sont notamment exclues de la présente provision les acquisitions de
@@ -58,8 +61,10 @@ Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limit
 :
 
 - 40 % pour la généralité des publications et 65 % pour les quotidiens du
-bénéfice de l'exercice 1980, - 30 % pour la généralité des publications et 60 %
-pour les quotidiens du bénéfice des exercices 1981 à 1991.
+bénéfice de l'exercice 1980,
+
+- 30 % pour la généralité des publications et 60 % pour les quotidiens du
+bénéfice des exercices 1981 à 1996.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à
 des quotidiens [*définition*], les publications à diffusion départementale ou
@@ -86,7 +91,7 @@ l'exercice 1980, cette fraction est égale à 55 % pour la généralité des
 publications et à 90 % pour les quotidiens et les publications assimilées
 définies au 1 bis B, premier alinéa. Ces pourcentages sont ramenés
 respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes
-prélevées ou déduites des bénéfices des exercices 1981 à 1991.
+prélevées ou déduites des bénéfices des exercices 1981 à 1996.
 
 1 bis C. Pour la détermination des résultats des exercices 1975 et suivants,
 sont exclues du bénéfice du régime prévu aux 1 bis, 1 bis A et 1 bis A bis les
