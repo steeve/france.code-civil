@@ -7,8 +7,8 @@ V, chapitres 1er à 5, à l'exception des articles R. 351-3, 1er alinéa, 3°, e
 dernier alinéa, R. 351-9, 1er au 5e alinéa, R. 351-11, R. 351-12, R. 351-19, R.
 351-20, R. 351-22 (2°), R. 351-23, R. 351-24, R. 351-25, R. 351-28, R. 351-29,
 R. 351-36, 2e alinéa, R. 351-37-1 à R. 351-37-11, R. 351-39 à R. 351-44, R.
-352-1 et R. 355-2, R. 355-4, alinéas 2 et 3, et D. 355-1, 1er alinéa, sous
-réserve des adaptations suivantes :
+352-1 R. 355-2 et R. 355-4, deuxième et troisième alinéa, sous réserve des
+adaptations suivantes :
 
 I. - Les références au régime général, au régime général de sécurité sociale et
 à la législation sur les assurances sociales sont remplacées par les références

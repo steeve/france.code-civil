@@ -4,10 +4,6 @@ En cas de décès de l'assuré, le conjoint survivant peut prétendre à la pens
 de réversion prévue à l'article L. 353-1 si les conditions exigées par ledit
 article se trouvent remplies.
 
-Le montant de la pension est déterminé sans tenir compte de l'avantage de
-réversion dont le conjoint survivant est éventuellement titulaire au titre du
-régime spécial de retraites dont relevait le de cujus.
-
 Chaque régime auquel le de cujus a été affilié supporte la charge de la
 prestation qui lui incombe sur la base des seules périodes valables au regard
 dudit régime, postérieures au 30 juin 1930 et antérieures à la date de l'entrée

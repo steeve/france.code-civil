@@ -28,6 +28,4 @@ collectivités locales, agents relevant du statut national des industries
 
 l2°) l'assurance vieillesse des artistes auteurs,
 
-13°) l'assurance veuvage,
-
-14°) le recouvrement des cotisations et majorations de retard.
+13°) le recouvrement des cotisations et majorations de retard.
