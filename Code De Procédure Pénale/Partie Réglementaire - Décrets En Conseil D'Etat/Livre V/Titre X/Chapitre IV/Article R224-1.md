@@ -5,7 +5,7 @@ correctionnelle et de police suivants :
 
 1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux
 interprètes traducteurs et aux personnes mentionnées aux articles R. 121 à R.
-121-2 ;
+121-3 ;
 
 2. Frais de vérifications médicales, cliniques et biologiques en matière
 d'alcoolémie ;
