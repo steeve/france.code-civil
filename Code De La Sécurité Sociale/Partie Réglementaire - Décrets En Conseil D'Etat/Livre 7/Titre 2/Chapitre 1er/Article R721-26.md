@@ -16,3 +16,10 @@ la requête de l'intéressé.
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modèles de
 déclarations prévues au présent article.
+
+Sur la base de cette déclaration, la caisse mutuelle d'assurance vieillesse des
+cultes, agissant dans le cadre de ses attributions légales, est autorisée, en
+application du troisième alinéa de l'article 31 de la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés, à collecter,
+conserver et traiter des informations nominatives comportant des données
+relatives au rattachement de ses ressortissants à un culte.
