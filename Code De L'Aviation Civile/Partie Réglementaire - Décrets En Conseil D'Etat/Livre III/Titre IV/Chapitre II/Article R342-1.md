@@ -1,57 +1,70 @@
 Article R342-1
 ----
-Le conseil d'administration de la société Air France comprend dix-huit membres :
+I. - Le conseil d'administration de la société Air France comprend vingt et un
+membres :
 
-1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre
-chargé de l'aviation civile, dont :
+1° Six représentants de l'Etat, nommés par décret sur le rapport du ministre
+chargé de l'aviation civile :
 
-- un sur proposition du Premier ministre ;
+a) Un sur proposition du Premier ministre ;
 
-- deux sur proposition du ministre chargé de l'aviation civile ;
+b) Deux sur proposition du ministre chargé de l'aviation civile ;
 
-- un sur proposition du ministre chargé de l'économie ;
+c) Un sur proposition du ministre chargé de l'économie ;
 
-- un sur proposition du ministre chargé du budget ;
+d) Un sur proposition du ministre chargé du budget ;
 
-2° Six personnalités qualifiées, nommées par décret sur le rapport du ministre
-chargé de l'aviation civile et choisies soit en raison de leur compétence
-technique, scientifique ou technologique, soit en raison de leur connaissance du
-transport aérien, soit en raison de leur qualité de représentant des usagers ;
+e) Un sur proposition du ministre chargé du tourisme ;
 
-3° Un représentant des salariés actionnaires désigné, parmi ceux-ci, par
-l'assemblée générale sur proposition d'une section de l'assemblée générale
-composée de ces seuls actionnaires ;
+2° Cinq personnalités choisies conformément aux dispositions de l'article L.
+342-3, nommées par décret sur le rapport du ministre chargé de l'aviation civile
+et du ministre chargé de l'économie ;
 
-4° Six représentants des salariés élus par les salariés de la société Air France
+3° Deux représentants des actionnaires autres que l'Etat et les salariés,
+désignés par l'assemblée générale des actionnaires ;
+
+4° Deux représentants des salariés actionnaires désignés, parmi ceux-ci, par
+l'assemblée générale, sur proposition, respectivement, d'une section comprenant
+les salariés actionnaires ayant le statut de personnel navigant technique et
+d'une section comprenant les autres salariés actionnaires, sous réserve que
+chacune de ces deux catégories de salariés actionnaires détienne plus de 2 % du
+capital social de la société Air France ; si ce seuil n'est pas atteint, le
+représentant au conseil d'administration de la catégorie concernée est remplacé
+par un représentant des actionnaires autres que l'Etat et les salariés, désigné
+par l'assemblée générale des actionnaires.
+
+Les modalités techniques d'application de ces dispositions sont précisées par
+arrêté du ministre chargé de l'aviation civile et du ministre chargé de
+l'économie ;
+
+5° Six représentants des salariés élus par les salariés de la société Air France
 et de ses filiales au sens du 4 de l'article 1er de la loi n° 83-675 du 26
 juillet 1983 relative à la démocratisation du secteur public, dans le cadre de
 trois collèges électoraux distincts à raison de :
 
-- un élu par le personnel navigant technique ;
+a) Un élu par le personnel navigant technique ;
 
-- un élu par le personnel navigant commercial ;
+b) Un élu par le personnel navigant commercial ;
 
-- quatre élus, dont un représentant des cadres, par les autres salariés.
+c) Quatre élus, dont un représentant des cadres, par les autres salariés.
 
 Les conditions de présentation des listes de candidats, définies par l'article
-17 de ladite loi, s'apprécient par collège. Sous cette réserve, les élections
-sont organisées conformément aux dispositions du chapitre II du titre II de
-ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour son
-application.
+17 de la loi du 26 juillet 1983 susmentionnée, s'apprécient par collège. Sous
+cette réserve, les élections sont organisées conformément aux dispositions du
+chapitre II du titre II de ladite loi et du décret n° 83-1160 du 26 décembre
+1983 pris pour son application.
 
-La durée du mandat des membres du conseil d'administration est de cinq ans.
-Toutefois, les membres du conseil doivent être remplacés lorsqu'ils ont perdu la
-qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus
-les conditions d'éligibilité. Dans ce cas, les nouveaux membres restent en
+II. - La durée du mandat des membres du conseil d'administration est de cinq
+ans. Cependant, les membres du conseil doivent être remplacés lorsqu'ils ont
+perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne
+remplissent plus les conditions d'éligibilité. Dans le cas où il y a lieu de
+procéder au remplacement de membres du conseil, les nouveaux membres restent en
 fonctions jusqu'à la date de l'expiration normale du mandat des membres du
 conseil qu'ils remplacent.
 
 Il peut être mis fin par décret au mandat des membres du conseil
 d'administration nommés par décret.
 
-Trois censeurs, nommés pour cinq ans, siègent au conseil d'administration avec
-voix consultative. Les deux premiers sont nommés par décret sur le rapport du
-ministre chargé de l'aviation civile, l'un sur proposition du ministre chargé de
-la défense, l'autre sur celle du ministre chargé du tourisme. Le troisième est
-nommé par l'assemblée générale ordinaire. Il peut être mis fin, à tout moment, à
-leurs fonctions dans les mêmes conditions.
+III. - Un censeur, désigné pour cinq ans par l'assemblée générale des
+actionnaires, siège au conseil d'administration avec voix consultative. Il peut
+être mis fin à tout moment à ses fonctions dans les mêmes conditions.
