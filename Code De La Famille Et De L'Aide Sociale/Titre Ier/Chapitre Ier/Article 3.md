@@ -18,10 +18,12 @@ devoir leur confier la charge ;
 
 4. Exercer devant toutes les juridictions, sans avoir à justifier d'un agrément
 ou d'une autorisation préalable de l'autorité publique, notamment des agréments
-prévus à l'article 289, alinéa 3, du code pénal et à l'article 46 de la loi n.
-73-1193 du 27 décembre 1973, l'action civile relativement aux faits de nature à
-nuire aux intérêts moraux et matériels des familles.
+prévus à l'article 289, alinéa 3, du code pénal et à l'article premier de la loi
+n° 88-14 du 5 janvier 1988 relative aux actions en justice des associations
+agréées de consommateurs et à l'information des consommateurs, l'action civile
+relativement aux faits de nature à nuire aux intérêts moraux et matériels des
+familles.
 
 Chaque association familiale ou fédération d'associations familiales, dans la
-limite de ses statuts, conserve le droit de représenter auprès des pouvoirs
+limite de ces statuts, conserve le droit de représenter auprès des pouvoirs
 publics les intérêts dont elle a assumé la charge.
