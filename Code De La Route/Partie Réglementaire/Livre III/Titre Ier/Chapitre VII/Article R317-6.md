@@ -1,10 +1,15 @@
 Article R317-6
 ----
-Limitation par construction de la vitesse des véhicules.
+Les véhicules de transport en commun de personnes d'un poids total autorisé en
+charge supérieur à 10 tonnes mis en circulation pour la première fois à partir
+du 1er janvier 1985 doivent être construits ou équipés de telle manière que leur
+vitesse maximale ne puisse pas dépasser 100 km/h.
 
-Tout véhicule de transport de marchandises d'un poids total autorisé en charge
-supérieur à 12 tonnes et tout véhicule de transport en commun d'un poids total
-autorisé en charge supérieur à 10 tonnes doivent être construits ou équipés de
-telle manière que sa vitesse maximale ne puisse pas dépasser respectivement 85
-km/h et 100 km/h. Un arrêté du ministre chargé des transports fixe les modalités
-techniques de cette disposition.
+Les autres véhicules d'un poids total autorisé en charge supérieur à 12 tonnes
+mis en circulation pour la première fois à partir du 1er octobre 1984 et les
+véhicules de transport de matières dangereuses mis en circulation pour la
+première fois à partir du 1er mai 1980 doivent être construits ou équipés de
+telle manière que leur vitesse maximale ne puisse pas dépasser 90 km/h.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application de
+ces dispositions.
