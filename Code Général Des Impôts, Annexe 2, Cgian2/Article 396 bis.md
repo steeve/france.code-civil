@@ -1,7 +1,7 @@
 Article 396 bis
 ----
-1. L'inscription des sommes privilégiées dues au Trésor prescrite à l'article
-1929 quater 1 du code général des impôts est faite :
+1. L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de
+l'article 1929 quater du code général des impôts est faite :
 
 1° Si le redevable est une personne physique, au greffe du tribunal de commerce
 ou du tribunal de grande instance statuant commercialement, dans le ressort
@@ -24,9 +24,9 @@ instance dans le ressort duquel se trouve le principal établissement du
 redevable.
 
 2. Lorsque la publicité est faite à titre obligatoire, en application de
-l'article 1929 quater 1 du code général des impôts, l'inscription des sommes
+l'article 1929 quater-1 du code général des impôts, l'inscription des sommes
 déterminées dans les conditions fixées au 3 dudit article doit être requise au
-plus tard [*date limite*] :
+plus tard :
 
 - Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente
 ;
@@ -67,7 +67,7 @@ répertoire alphabétique.
 
 5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une
 inscription et qu'il bénéficie du sursis de paiement dans les conditions prévues
-aux articles L. 277 à L. 279 du livre des procédures fiscales, il peut faire
+aux articles L. 277 à L. 279 A du livre des procédures fiscales, il peut faire
 mentionner par le greffier l'existence de la contestation ; cette mention est
 portée en marge de l'inscription.
 

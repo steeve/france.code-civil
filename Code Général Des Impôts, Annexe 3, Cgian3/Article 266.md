@@ -7,6 +7,6 @@ délivré dans les conditions prévues à l'article 1649 nonies du code précit�
 
 L'agrément préalable n'est pas exigé lorsque, une demande d'agrément ayant été
 déposée, l'acquéreur prend l'engagement dans l'acte d'acquisition d'acquitter le
-complément de taxe et l'indemnité de retard prévue à l'article 1727 du code
-général des impôts, si l'agrément ouvrant droit à la réduction du droit de
-mutation n'était pas délivré.
+complément de taxe et l'intérêt de retard ainsi que la majoration prévue à
+l'article 1727 du code général des impôts, si l'agrément ouvrant droit à la
+réduction du droit de mutation n'était pas délivré.

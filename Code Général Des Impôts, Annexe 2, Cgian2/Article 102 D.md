@@ -20,4 +20,4 @@ La fraction des dividendes alloués aux actions nouvelles qui n'ouvre pas droit
 au régime de déduction est, en ce qui concerne les dividendes ayant déjà
 bénéficié de ce régime, rapportée aux résultats des exercices de déduction. Les
 suppléments d'imposition ainsi calculés sont majorés selon les règles prévues
-pour les intérêts de retard à l'article 1734 du code général des impôts.
+pour les intérêts de retard à l'article 1727 du code général des impôts.
