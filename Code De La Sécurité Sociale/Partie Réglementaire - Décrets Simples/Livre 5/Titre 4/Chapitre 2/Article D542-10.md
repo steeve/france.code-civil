@@ -15,13 +15,19 @@ b) L'abattement mentionné à l'article 157 bis du code général des impôts po
 les personnes nées avant le 1er janvier 1931 ou invalides quel que soit leur âge
 ;
 
-c) Une déduction représentative des frais de garde des enfants à charge, dont le
-montant maximum est fixé par arrêté du ministre chargé de la sécurité sociale.
+Sont également prises en considération :
 
-Est également prise en considération, après application des déductions
-correspondant à celles visées au deuxième alinéa du 3° de l'article 83 du code
-général des impôts et au quatrième alinéa du 5 (a) de l'article 158 du même
-code, l'indemnité journalière mentionnée au 2° de l'article L. 431-1.
+1° Après application des déductions correspondant à celles visées au deuxième
+alinéa du 3° de l'article 83 du code général des impôts et au quatrième alinéa
+du a du 5 de l'article 158 du même code, l'indemnité journalière mentionnée au
+2° de l'article L. 431-1 du présent code ;
+
+2° Les majorations de retraite ou de pensions pour enfants exonérées de l'impôt
+sur le revenu en application du 2° ter de l'article 81 du code général des
+impôts à l'exception de celles correspondant aux retraites ou pensions liquidées
+avant le 1er janvier 2004 et dont sont titulaires les personnes bénéficiant, au
+30 juin 2005, de l'allocation dont l'octroi est soumis aux dispositions du
+présent article.
 
 Est toutefois exclue du décompte des ressources l'allocation mentionnée à
 l'article L. 262-3 du code de l'action sociale et des familles et servie soit à

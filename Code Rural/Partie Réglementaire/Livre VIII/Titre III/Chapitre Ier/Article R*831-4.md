@@ -3,7 +3,7 @@ Article R*831-4
 Le conseil d'administration de l'institut national de la recherche agronomique
 comprend vingt-sept membres :
 
-a) Le président ;
+a) Le président de l'institut ;
 
 b) Neuf représentants de l'Etat, dont deux désignés par le ministre chargé de
 l'agriculture et sept désignés respectivement par les ministres chargés de la
@@ -30,10 +30,6 @@ i) Cinq représentants du personnel, élus selon les modalités fixées par arr�
 conjoint du ministre chargé de la recherche et du ministre chargé de
 l'agriculture.
 
-Le président du conseil d'administration est nommé pour une durée de quatre ans,
-renouvelable une fois, par décret pris en conseil des ministres sur proposition
-du ministre chargé de la recherche et du ministre chargé de l'agriculture.
-
 Les membres du conseil d'administration autres que les représentants de l'Etat
 et les représentants élus du personnel sont nommés par décret sur proposition du
 ministre chargé de la recherche et du ministre chargé de l'agriculture.
@@ -48,10 +44,10 @@ en cours de mandat, n'occupent plus les fonctions à raison desquelles ils ont
 
 Les fonctions de membre du conseil d'administration sont gratuites.
 
-Le directeur général, les directeurs généraux adjoints, le contrôleur financier
-et l'agent comptable assistent aux séances du conseil d'administration avec voix
+Le ou les directeurs généraux délégués, le contrôleur financier et l'agent
+comptable assistent aux séances du conseil d'administration avec voix
 consultative.
 
-Le président du conseil d'administration peut inviter à participer aux réunions
-de ce conseil tout expert jugé utile en fonction de l'ordre du jour. Les experts
-ont voix consultative.
+Le président de l'institut peut inviter à participer aux réunions de ce conseil
+tout expert jugé utile en fonction de l'ordre du jour. Les experts ont voix
+consultative.
