@@ -24,34 +24,33 @@ Sont membres de droit :
 
 - le président de la confédération française de la coopération agricole ;
 
-- un représentant de chacune des organisations professionnelles ci-après
-mentionnées, désigné, sur proposition de l'organisation intéressée, par le
-ministre de l'agriculture : assemblée permanente des chambres d'agriculture,
-fédération nationale des syndicats d'exploitants agricoles, confédération
-nationale de la mutualité, de la coopération et du crédit agricoles, centre
-national des jeunes agriculteurs.
+- un représentant de l'assemblée permanente des chambres d'agriculture ;
+
+- un représentant de la Confédération nationale de la mutualité, de la
+coopération et du crédit agricoles.
 
 Représentent les organisations coopératives et syndicales :
 
 - trois représentants des sociétés coopératives agricoles désignés par le
-ministre de l'agriculture sur proposition de la confédération française de la
-coopération agricole ;
+ministre de l'agriculture et de la forêt sur proposition de la Confédération
+française de la coopération agricole ;
 
 - un représentant des sociétés d'intérêt collectif agricole désigné par le
-ministre de l'agriculture sur proposition de la fédération nationale des
-sociétés d'intérêt collectif agricole ;
+ministre de l'agriculture et de la forêt, sur proposition de la Fédération
+nationale des sociétés d'intérêt collectif agricole ;
 
-- deux représentants des exploitants agricoles désignés par le ministre de
-l'agriculture sur proposition de la fédération nationale des syndicats
-d'exploitants agricoles ;
+- quatre représentants des exploitants agricoles désignés par le ministre de
+l'agriculture et de la forêt parmi les personnalités proposées par chacune des
+organisations syndicales d'exploitants agricoles à vocation générale habilitées
+en application de l'article 3 du décret n° 90-187 du 28 février 1990 ;
 
 - un technicien des sociétés coopératives agricoles désigné par le ministre de
-l'agriculture sur proposition de l'organisation syndicale la plus représentative
-de ces techniciens ;
+l'agriculture et de la forêt, sur proposition de l'organisation syndicale la
+plus représentative de ces techniciens ;
 
 - deux représentants du personnel des sociétés coopératives agricoles désignés
-par le ministre de l'agriculture sur proposition des organisations syndicales
-les plus représentatives.
+par le ministre de l'agriculture et de la forêt, sur proposition des
+organisations syndicales les plus représentatives.
 
-Le ministre de l'agriculture désigne trois personnalités choisies en raison de
-leur compétence.
+Le ministre de l'agriculture et de la forêt désigne trois personnalités choisies
+en raison de leur compétence.

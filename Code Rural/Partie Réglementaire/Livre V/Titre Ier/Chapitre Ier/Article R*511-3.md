@@ -20,12 +20,13 @@ dont un au titre des salariés ;
 2° En nombre égal aux précédents de représentants des organisations
 professionnelles à vocation générale.
 
-Les représentants de ces organisations sont désignés, à la diligence du
-commissaire de la République, par la fédération départementale des syndicats
-d'exploitants agricoles, le centre départemental des jeunes agriculteurs et les
-organisations de coopération, de crédit et de mutualité agricoles. Dans le cas
-d'un service interdépartemental, ces représentants sont désignés par les mêmes
-organisations à la diligence des commissaires de la République concernés.
+Les représentants de ces organisations sont désignés par le préfet sur
+proposition, d'une part, des organisations syndicales d'exploitants agricoles à
+vocation générale habilitées en application de l'article 1er du décret n° 90-187
+du 28 février 1990 et, d'autre part, des organisations de coopération, de crédit
+et de mutualité agricoles. Dans le cas d'un service interdépartemental, ces
+représentants sont désignés par les mêmes organisations à la diligence des
+commissaires de la République concernés.
 
 Un fonctionnaire, désigné par le commissaire de la République, participe aux
 travaux de ce comité, avec voix consultative.
