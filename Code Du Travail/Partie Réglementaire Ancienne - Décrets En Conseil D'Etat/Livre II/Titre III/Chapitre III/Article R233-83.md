@@ -1,9 +1,9 @@
 Article R233-83
 ----
 Les machines et appareils auxquels s'appliquent les dispositions du premier
-alinéa de l'article L. 233-5 sont les machines et appareils mus, à l'exception
-de la catégorie 10° ci-après, par une source d'énergie autre que la force
-humaine qui entrent dans l'une des catégories suivantes :
+alinéa de l'article L. 233-5 sont les machines et appareils [*mécaniques*] mus,
+à l'exception de la catégorie 10° ci-après, par une source d'énergie autre que
+la force humaine qui entrent dans l'une des catégories suivantes :
 
 1. Matériels pour l'industrie textile.
 
@@ -130,49 +130,7 @@ autonome ou non, dans des conduits tubulaires.
 Générateurs électriques de rayonnement X, utilisés en radiologie industrielle,
 accessoires compris.
 
-11. Chariots de manutention automoteurs 1/à roues, à l'exclusion de ceux roulant
-sur des rails, à conducteur porté ou à conducteur accompagnant, mus par moteur
-thermique ou par moteur électrique alimenté par batterie, dont la capacité
-nominale n'excède pas 10.000 kilogrammes ou dont la force nominale au crochet
-est inférieure à 20.000 newtons, et leurs équipements amovibles ou non.
-
-Ne sont pas concernés :
-
-a) Les engins à benne appelés dumpers ou tombereaux et brouettes motorisés
-utilisés sur les chantiers de bâtiment, de travaux publics et de travaux
-agricoles ;
-
-b) Les camions avec ou sans remorques, les machines mobiles agricoles et
-forestières, les tracteurs agricoles et forestiers, les engins de chantier et
-les chariots utilisés au fond des mines ;
-
-c) Les fourgons de lait et autres véhicules de livraison similaires ;
-
-d) Les engins élévateurs gerbeurs ne pouvant circuler qu'à l'intérieur de guides
-et dénommés transtockeurs ;
-
-e) Les chariots à poste de conduite élevable d'une capacité nominale dépassant 5
-000 kilogrammes ;
-
-f) Les chariots spécialement conçus pour circuler avec la charge en position
-élevée dépassant 5 000 kilogrammes ;
-
-g) Les chariots cavaliers ;
-
-h) Les tracteurs et chariots commandés à distance ne transportant pas
-d'opérateur ;
-
-i) Les équipements utilisés pour l'entretien en position d'élévation ;
-
-j) Les chariots mus par des formes extérieures d'énergie électrique ;
-
-k) Les grues mobiles ;
-
-l) Les plates-formes élévatrices mobiles ;
-
-m) Les chariots à bras télescopiques.
-
-12. Autres matériels.
+11. Autres matériels.
 
 Centrifugeuses et essoreuses centrifuges.
 
