@@ -1,10 +1,13 @@
 Article 979
 ----
-Les sociétés de bourse sont seules chargées de la négociation des valeurs
-mobilières admises aux négociations par le conseil des bourses de valeurs
-mentionné à l'article 5 de la loi n° 88-70 du 22 janvier 1988 sur les bourses de
-valeurs. Elles sont seules chargées des cessions directes ou indirectes de
-valeurs mobilières, à l'exception :
+((Les sociétés de bourse, les établissements de crédit habilités à cet effet
+ainsi que toute personne morale également habilité à cet effet dont le siège se
+trouve dans un des Etats parties à l'accord sur l'Espace économique européen
+sont seuls chargés de la négociation des valeurs mobilières sur une bourse de
+valeurs.
+
+Ils sont seuls chargés)) (M) des cessions directes ou indirectes de valeurs
+mobilières, à l'exception :
 
 1° Des cessions effectuées entre deux personnes physiques ;
 
@@ -23,3 +26,5 @@ de prévoyance dont elles assurent la gestion ;
 
 6° Des cessions qui, incluses dans une convention autre qu'une vente pure et
 simple, en constituent un élément nécessaire.
+
+(M) Modification.
