@@ -27,12 +27,12 @@ total des souscriptions effectuées jusqu'au 31 décembre de la quatrième anné
 qui suit la date de création de la première société au capital de laquelle le
 contribuable a souscrit puisse excéder respectivement 40.000 F et 80.000 F.
 
-III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de
-l'article 83, aux articles 163 quindecies et 163 septdecies ou à la réduction
-d'impôt prévue à l'article 199 undecies ne peuvent ouvrir droit à la réduction
-d'impôt mentionnée au I.
+III. Les souscriptions donnant lieu aux déductions prévues au ((2° quater de
+l'article 83, et à l'article 163 septdecies)) (M) ou à la réduction d'impôt
+prévue à l'article 199 undecies ne peuvent ouvrir droit à la réduction d'impôt
+mentionnée au I.
 
-IV. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+IV. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 Lorsque tout ou partie des actions ou parts ayant donné lieu, directement ou
 indirectement, à la réduction d'impôt est cédé ou racheté, il est pratiqué une
@@ -63,6 +63,6 @@ obligations déclaratives incombant aux contribuables et aux sociétés nouvelle
 (1) Le bénéfice de la réduction d'impôt prévue au I est supprimé à compter de
 l'imposition des revenus de 1994.
 
-(M) Modification de la loi 96-1181.
+(M) Modification.
 
 (2) Voir Annexe III art. 46 AI.

@@ -5,19 +5,19 @@ opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente,
 de commission ou de courtage portant sur les animaux vivants de boucherie et de
 charcuterie définis à l'article 260 F doivent :
 
-N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures
+a. N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures
 d'identification ou de marquage; il est procédé à ces mesures selon les
 modalités fixées par l'article 267 ter;
 
-Tenir une comptabilité matières retraçant au jour le jour les mouvements de ces
-animaux; les caractéristiques de cette comptabilité sont fixées par
+b. Tenir une comptabilité matières retraçant au jour le jour les mouvements de
+ces animaux; les caractéristiques de cette comptabilité sont fixées par
 l'administration;
 
-Indiquer sur les factures de vente la dénomination précise de l'animal,
+c. Indiquer sur les factures de vente la dénomination précise de l'animal,
 comportant notamment son numéro d'identification ou sa marque;
 
-Faire accompagner tout transport d'animaux effectué pour leur compte ou pour le
-compte d'autrui d'un document dont le modèle est fixé par l'administration.
+d. Faire accompagner tout transport d'animaux effectué pour leur compte ou pour
+le compte d'autrui d'un document dont le modèle est fixé par l'administration.
 
 II. Lorsque les personnes visées au I vendent des animaux à des personnes non
 assujetties à la taxe sur la valeur ajoutée au titre d'activités portant sur

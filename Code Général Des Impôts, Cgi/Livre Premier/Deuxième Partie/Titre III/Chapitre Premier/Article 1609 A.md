@@ -9,8 +9,6 @@ abords, qui lui sont confiées.
 Le montant de cette taxe est arrêté avant le 31 décembre de chaque année, pour
 l'année suivante, dans la limite de 30 millions de francs, par le conseil
 d'administration de l'établissement public et notifié aux services fiscaux.
-Toutefois, au titre de 1992, le montant devra être arrêté et notifié avant le 31
-mai 1992.
 
 La taxe est répartie et recouvrée, dans la zone de compétence de
 l'établissement, suivant les mêmes règles que pour la taxe mentionnée à

@@ -2,9 +2,11 @@ Article 1649 quater-0 A
 ----
 Les actions, émises en territoire français et soumises à la législation
 française, des sociétés par actions autres que les sociétés d'investissement à
-capital variable (SICAV) qui ne répondent pas aux conditions prévues par la
-première phrase du 1° de l'article 163 octies, doivent obligatoirement revêtir
-la forme nominative le 1er octobre 1982 au plus tard.
+capital variable (SICAV) qui ne sont inscrites ni à la cote officielle ni au
+second marché des bourses françaises de valeurs ou qui, non inscrites au hors
+cote, ne font pas l'objet de transactions d'une importance et d'une fréquence
+qui sont fixées par décret, doivent obligatoirement revêtir la forme nominative
+le 1er octobre 1982 au plus tard.
 
 Les actions émises après le 1er octobre 1982 qui ne répondent pas aux conditions
 prévues au premier alinéa ainsi que celles qui, émises avant cette date, ont
