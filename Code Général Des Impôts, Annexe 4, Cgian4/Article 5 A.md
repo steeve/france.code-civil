@@ -4,6 +4,3 @@ Les directeurs de journaux pouvant prétendre à une déduction supplémentaire 
 frais professionnels doivent s'entendre, exclusivement, des directeurs des
 publications répondant aux conditions posées par l'article 72 de l'annexe III au
 code général des impôts.
-
-Cette disposition s'applique aux rémunérations perçues à compter du 1er janvier
-1976.

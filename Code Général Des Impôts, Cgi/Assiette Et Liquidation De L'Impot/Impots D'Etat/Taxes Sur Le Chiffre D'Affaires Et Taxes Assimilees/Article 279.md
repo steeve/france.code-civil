@@ -45,20 +45,20 @@ que ceux-ci ne comportent pas d'attraction autre que la présence des animaux ;
 b quater. Les transports de voyageurs ;
 
 b quinquies. Les locations et cessions de droits portant sur les films ainsi que
-les droits d'entrée pour les séances cinématographiques (5). Cette disposition
+les droits d'entrée pour les séances cinématographiques (4). Cette disposition
 n'est pas applicable aux films pornographiques ou d'incitation à la violence
 mentionnés à l'article 281 bis A ;
 
 c. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon, portant sur les produits suivants :
 
-1° à 12° (Devenus sans objet) (6) ;
+1° à 12° (Devenus sans objet) (5) ;
 
 13° Aliments simples ou composés utilisés pour la nourriture du bétail, des
 animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine
 et des abeilles, ainsi que les produits entrant dans la composition de ces
 aliments et dont la liste est fixée par arrêté du ministre de l'économie et des
-finances pris après avis des professions intéressées (7) ;
+finances pris après avis des professions intéressées (6) ;
 
 14° Préparations magistrales, produits officinaux et spécialités pharmaceutiques
 destinées à l'usage de la médecine humaine et faisant l'objet de l'autorisation
@@ -69,7 +69,7 @@ prévue pour le sang par l'article 261-4-2° ;
 d. Les opérations d'achat, d'importation, de vente, de livraison, de commission,
 de courtage ou de façon portant sur les produits suivants :
 
-1° Sous-produits d'origine animale dont la définition est fixée par décret (8);
+1° (Devenu sans objet);
 
 2° Amendements calcaires ;
 
@@ -97,10 +97,6 @@ hôtels et restaurants.
 
 (4) Annexe III, art. 85 bis.
 
-(5) A compter du 1er novembre 1979.
+(5) A compter du 1er juillet 1982.
 
-(6) Dispositions abrogées à compter du 1er juillet 1982.
-
-(7) Annexe IV, art. 31.
-
-(8) Annexe III, art. 65 B.
+(6) Annexe IV, art. 31.

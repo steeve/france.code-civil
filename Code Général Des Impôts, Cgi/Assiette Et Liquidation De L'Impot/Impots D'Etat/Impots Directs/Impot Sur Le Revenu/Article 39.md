@@ -231,6 +231,11 @@ commission départementale prévue à l'article 1651.
 
 6. (Dispositions devenues sans objet).
 
+7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement,
+pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour
+la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat
+du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+
 (1) Voir art. 39 E et 61 A.
 
 (2) Annexe II, art. 15 et 229.

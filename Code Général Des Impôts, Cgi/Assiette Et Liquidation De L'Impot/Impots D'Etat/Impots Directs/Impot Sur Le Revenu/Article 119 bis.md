@@ -11,7 +11,7 @@ dont le taux est fixé par l'article 187-1 lorsqu'ils bénéficient à des perso
 qui n'ont pas leur domicile fiscal ou leur siège en France [*à l'étranger*]. Un
 décret fixe les modalités et conditions d'application de cette disposition (1).
 
-Toutefois, la retenue à la source ne s'applique pas, à compter du 1er janvier
-1962 [*date*], aux sommes visées à l'article 111-a, premier alinéa.
+Toutefois, la retenue à la source ne s'applique pas aux sommes visées à
+l'article 111-a, premier alinéa.
 
 1) Annexe II, art. 48, 75 à 79.
