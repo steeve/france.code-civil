@@ -23,7 +23,4 @@ comité consultatif des chambres d'agriculture des départements d'outre-mer au
 comité permanent général.
 
 Les membres du comité permanent général sont élus pour la même durée que celle
-des membres des chambres d'agriculture. Ils exercent leur fonction à titre
-gratuit ; toutefois, leurs frais de déplacement et de séjour leur sont
-remboursés par l'assemblée permanente des chambres d'agriculture dans les
-conditions prévues à l'article R. 511-85.
+des membres des chambres d'agriculture.
