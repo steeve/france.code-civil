@@ -16,17 +16,17 @@ parmi les magistrats de ce tribunal.
 
 Cette commission est compétente notamment pour :
 
-1. Reconnaître, s'il y a lieu, la qualité de travailleur handicapé aux personnes
+1° Reconnaître, s'il y a lieu, la qualité de travailleur handicapé aux personnes
 répondant aux conditions définies par l'article L. 323-10 ;
 
-2. Se prononcer sur l'orientation de la personne handicapée et les mesures
+2° Se prononcer sur l'orientation de la personne handicapée et les mesures
 propres à assurer son reclassement ;
 
-3. Désigner les établissements ou les services concourant à la rééducation, au
+3° Désigner les établissements ou les services concourant à la rééducation, au
 reclassement et à l'accueil des adultes handicapés, et notamment les
-établissements prévus aux articles 46 et 47 de la loi n. 75-534 du 30 juin 1975
+établissements prévus aux articles 46 et 47 de la loi n° 75-534 du 30 juin 1975
 ainsi que les ateliers protégés ou les centres d'aide par le travail
-correspondant a leurs besoins et en mesure de les accueillir. La décision de la
+correspondant à leurs besoins et en mesure de les accueillir. La décision de la
 commission s'impose à tout établissement ou service dans la limite de la
 spécialité au titre de laquelle il a été autorisé ou agréé.
 
@@ -40,14 +40,12 @@ commission a décidé de l'orienter et en mesure de l'accueillir, la commission
 est tenue de faire figurer cet établissement ou ce service au nombre de ceux
 qu'elle désigne, quelle que soit sa localisation ;
 
-4. Apprécier si l'état ou le taux d'incapacité de la personne handicapée
+4° Apprécier si l'état ou le taux d'incapacité de la personne handicapée
 justifie l'attribution de l'allocation aux adultes handicapés et de l'allocation
-compensatrice prévue aux article 35 et 39 de la loi n. 75-534 du 30 juin 1975,
-ou de l'allocation de logement instituée par la loi n. 71-582 du 16 juillet 1971
-modifiée :
-
-ainsi que de la carte d'invalidité prévue à l'article 173 du code de la famille
-et de l'aide sociale.
+compensatrice prévue aux article 35 et 39 de la loi n° 75-534 du 30 juin 1975,
+ou de l'allocation de logement instituée par la loi n° 71-582 du 16 juillet 1971
+modifiée, ainsi que de la carte d'invalidité prévue à l'article 173 du code de
+la famille et de l'aide sociale.
 
 Les décisions de la commission doivent être motivées et faire l'objet d'une
 révision périodique.
@@ -71,7 +69,7 @@ L'adulte handicapé ou son représentant est convoqué par la commission techniq
 d'orientation et de reclassement professionnel. Il peut être assisté par une
 personne de son choix.
 
-Les décisions de la commission visées aux 3. et 4. ci-dessus peuvent faire
+Les décisions de la commission visées aux 3° et 4° ci-dessus peuvent faire
 l'objet de recours devant la juridiction du contentieux technique de la sécurité
 sociale sous réserve d'adaptations fixées par voie réglementaire ; ce recours,
 ouvert à toute personne et à tout organisme intéressé, est dépourvu d'effet
