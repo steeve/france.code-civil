@@ -36,7 +36,7 @@ Maladies infectieuses :
 
 - peste ;
 
-- poliomyélite antérieure aiguë ;
+- poliomyélite ;
 
 - rage ;
 
