@@ -12,3 +12,8 @@ conditions définies au deuxième alinéa de l'article L. 160-5.
 
 Le montant de l'indemnité de privation de jouissance est calculé compte tenu de
 l'utilisation habituelle antérieure du terrain.
+
+La responsabilité civile des propriétaires des terrains, voies et chemins grevés
+par les servitudes définies aux articles L. 160-6 et L. 160-6-1 ne saurait être
+engagée au titre de dommages causés ou subis par les bénéficiaires de ces
+servitudes.
