@@ -19,3 +19,7 @@ produits distribués ou utilisés. En vue de constater les infractions, ces
 prélèvements doivent être faits conformément à la procédure instituée par les
 décrets pris en application de la loi du 1er août 1905 sur les fraudes et
 falsifications en matière de produits ou de services.
+
+Les inspecteurs et les contrôleurs du travail sont habilités à demander aux
+employeurs et aux personnes occupées dans les établissements assujettis au
+présent code de justifier de leur identité et de leur adresse.
