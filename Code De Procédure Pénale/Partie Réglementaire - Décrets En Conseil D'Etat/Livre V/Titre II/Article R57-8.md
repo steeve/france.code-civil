@@ -1,4 +1,4 @@
-Article R50-36
+Article R57-8
 ----
 Le directeur régional des services pénitentiaires est compétent pour prendre les
 décisions administratives individuelles suivantes :

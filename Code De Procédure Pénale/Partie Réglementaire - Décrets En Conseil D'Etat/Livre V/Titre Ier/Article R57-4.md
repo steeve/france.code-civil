@@ -1,4 +1,4 @@
-Article R50-32
+Article R57-4
 ----
 En cas de nouvelle poursuite exercée contre un condamné placé sous son contrôle,
 le juge de l'application des peines en est avisé par le procureur de la

@@ -67,3 +67,7 @@ l'article 131-35 du code pénal.
 
 20° Les frais d'une immobilisation décidée en application du 5° de l'article
 131-6 et du 2° de l'article 131-14 du code pénal.
+
+21° Les frais des administrateurs ad hoc désignés en application des articles
+388-2 et 389-3 du code civil, lorsqu'ils figurent sur la liste prévue à
+l'article R. 53.
