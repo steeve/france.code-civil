@@ -1,26 +1,13 @@
 Article R*236-6
 ----
-Dans les eaux de la 1re catégorie mentionnées à l'article L. 236-5 (10°, a),
-toute pêche est interdite en dehors des temps d'ouverture fixés ainsi qu'il suit
-:
+A l'exception de la pêche de l'ombre commun qui est autorisée du troisième
+samedi de mai au troisième dimanche de septembre inclus, la pêche dans les eaux
+de 1re catégorie est autorisée :
 
-1° Du premier samedi de mars au premier dimanche d'octobre, dans les
-départements suivants : Ain, Alpes-de-Haute-Provence, Hautes-Alpes,
-Alpes-Maritimes, Bouches-du-Rhône, Drôme, Isère, Savoie, Haute-Savoie et Var ;
+1° Du quatrième samedi de mars au premier dimanche d'octobre inclus, dans les
+départements suivants : Aisne, Eure, Marne, Nord, Oise, Pas-de-Calais, Paris,
+Seine-Maritime, Seine-et-Marne, Yvelines, Somme, Essonne, Hauts-de-Seine,
+Seine-Saint-Denis, Val-de-Marne et Val-d'Oise ;
 
-2° Du troisième samedi de mars au premier dimanche d'octobre, dans les
-départements suivants : Aisne, Ardennes, Aube, Doubs, Essonne, Eure,
-Hauts-de-Seine, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle,
-Nord, Oise, Paris, Pas-de-Calais, Haute-Saône, Seine-Maritime, Seine-et-Marne,
-Seine-Saint-Denis, Somme, Bas-Rhin, Haut-Rhin, Vosges, territoire de Belfort,
-Val-d'Oise, Val-de-Marne et Yvelines ;
-
-3° Du troisième samedi de mars au troisième dimanche de septembre, dans les
-départements suivants : Côte-d'Or, Nièvre, Rhône, Saône-et-Loire et Yonne ;
-
-4° Du premier samedi de mars au troisième dimanche de septembre, dans les
-départements autres que ceux désignés ci-dessus.
-
-Toutefois, la pêche de l'ombre commun, des écrevisses autres que l'écrevisse
-américaine, des grenouilles verte et rousse est réglée par les articles R. 236-9
-à R. 236-12.
+2° Du deuxième samedi de mars au troisième dimanche de septembre inclus, dans
+les autres départements.
