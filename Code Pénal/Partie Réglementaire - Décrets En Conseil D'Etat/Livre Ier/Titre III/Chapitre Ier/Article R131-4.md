@@ -18,10 +18,10 @@ validité qu'il comporte ;
 d'être valable.
 
 Le certificat doit comporter, en outre, une photographie récente du condamné et
-indiquer qu'il vaut, notamment au regard des articles R221-1 à R221-3 du nouveau
-code de la route, justification du droit de conduire, à l'exception de la ou des
-catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction
-de conduire.
+indiquer qu'il vaut, notamment au regard des articles R. 221-1 à R. 221-3 du
+nouveau code de la route, justification du droit de conduire, à l'exception de
+la ou des catégories de véhicules pour lesquelles la juridiction a prononcé
+l'interdiction de conduire.
 
 A l'issue de la période d'interdiction, le permis de conduire est restitué au
 condamné par le greffier de la juridiction contre remise du certificat.

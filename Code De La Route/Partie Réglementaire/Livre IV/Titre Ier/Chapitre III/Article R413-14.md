@@ -8,28 +8,32 @@ la vitesse maximale autorisée de 50 km/h ou plus, et de la quatrième classe,
 dans les autres cas.
 
 II. - Toute personne coupable de l'infraction de dépassement de la vitesse
-maximale autorisée de 30 km/h ou plus encourt également la peine complémentaire
-de suspension, pour une durée de trois ans au plus, du permis de conduire, cette
-suspension pouvant être limitée à la conduite en dehors de l'activité
-professionnelle.
+maximale autorisée de 30 km/h ou plus encourt également les peines
+complémentaires suivantes :
 
-III. - Toute contravention prévue au présent article donne lieu de plein droit à
-une réduction du nombre de points du permis de conduire dans les conditions
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire,
+cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle ;
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris
+ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
+durée de trois ans au plus ;
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
+sécurité routière.
+
+III. - Toute contravention prévue au présent article donne lieu, de plein droit
+à une réduction du nombre de points du permis de conduire dans les conditions
 suivantes :
 
-1° Pour tout conducteur, en cas de dépassement de la vitesse maximale autorisée
-de 40 km/h ou plus, réduction de quatre points ;
+1° En cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus,
+réduction de quatre points ;
 
-2° Pour tout conducteur, à l'exception de ceux titulaires depuis moins de deux
-ans du permis de conduire, en cas de dépassement de la vitesse maximale
-autorisée :
+2° En cas de dépassement de la vitesse maximale autorisée compris entre 30 km/h
+et moins de 40 km/h, réduction de trois points ;
 
-a) Compris entre 30 km/h et moins de 40 km/h, réduction de trois points,
+3° En cas de dépassement de la vitesse maximale autorisée compris entre 20 km/h
+et moins de 30 km/h, réduction de deux points ;
 
-b) Compris entre 20 km/h et moins de 30 km/h, réduction de deux points,
-
-c) De moins de 20 km/h, réduction d'un point ;
-
-3° Pour tout conducteur titulaire depuis moins de deux ans du permis de
-conduire, en cas de dépassement de la vitesse maximale autorisée de moins de 40
-km/h, réduction de trois points.
+4° En cas de dépassement de la vitesse maximale autorisée de moins de 20 km/h,
+réduction d'un point.
