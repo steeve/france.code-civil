@@ -9,7 +9,9 @@ au ministère de la justice. Lorsque la prison est dirigée par un chef de maiso
 d'arrêt ou un surveillant-chef, la décision appartient au directeur régional.
 
 Dans l'un et l'autre cas, les détenus doivent effectuer les exercices que
-comporte cette forme d'enseignement et ils en supportent les frais.
+comporte cette forme d'enseignement et ils en supportent les frais sauf
+convention particulière entre l'administration pénitentiaire et un organisme
+d'enseignement à distance.
 
 D'autre part, le régime de semi-liberté peut être accordé dans les conditions
 fixées aux articles D. 136 et suivants afin que soit suivi, à l'extérieur de

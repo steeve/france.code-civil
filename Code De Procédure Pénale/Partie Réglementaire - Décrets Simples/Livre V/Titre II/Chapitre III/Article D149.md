@@ -5,8 +5,8 @@ l'exécuteur d'un arrêt ou jugement de condamnation, d'une ordonnance de prise 
 corps, d'un mandat de dépôt ou d'arrêt, d'un mandat d'amener lorsque ce mandat
 doit être suivi d'incarcération provisoire, ou un ordre d'arrestation établi
 conformément par la loi, un acte d'écrou est dressé sur le registre visé à
-l'article D148. Le chef de l'établissement constate par cet acte la remise de la
-personne et inscrit la nature et la date du titre de détention, ainsi que
+l'article D. 148. Le chef de l'établissement constate par cet acte la remise de
+la personne et inscrit la nature et la date du titre de détention, ainsi que
 l'autorité dont il émane. L'acte d'écrou est signé par le chef de
 l'établissement et par le chef d'escorte.
 
@@ -23,5 +23,5 @@ texte de la loi motivant la libération, fait également l'objet d'une mention s
 l'acte d'écrou.
 
 Il n'y a pas lieu de lever l'écrou des détenus qui viennent à faire l'objet des
-mesures prévues aux articles D118 et D314, mais mention de ces mesures doit être
-portée au registre d'écrou.
+mesures prévues à l'article D. 118, mais mention de ces mesures doit être portée
+au registre d'écrou.

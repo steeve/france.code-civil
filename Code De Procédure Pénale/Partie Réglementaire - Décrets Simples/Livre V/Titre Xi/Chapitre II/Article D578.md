@@ -6,6 +6,5 @@ sociaux appartenant aux services extérieurs communs du ministère de la justice
 et les éducateurs des services extérieurs de l'administration pénitentiaire.
 
 En outre, des délégués vacataires peuvent, en tant que de besoin, être nommés
-par arrêté ministériel, sur proposition du juge de l'application des peines,
-après avis du directeur de probation ou, à défaut, du délégué régional à
-l'action socio-éducative.
+par le directeur régional, sur proposition du juge de l'application des peines,
+après avis du directeur de probation.
