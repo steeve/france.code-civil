@@ -1,125 +1,92 @@
 Article D434
 ----
 Présidé par le ministre chargé des anciens combattants, le conseil
-d'administration comprend soixante-dix-sept membres.
+d'administration comprend soixante-dix membres.
 
 Sont nommés pour quatre ans, par le ministre chargé des anciens combattants,
 dans les conditions ci-après :
 
-1° Dix-huit membres proposés par les assemblées, administrations ou organismes
+1° Premier collège
+
+Seize membres, sur proposition des assemblées, administrations ou organismes
 dont ils relèvent :
 
-un membre de l'Assemblée nationale ;
+- un membre de l'Assemblée nationale ;
 
-un membre du Sénat ;
+- un membre du Sénat ;
 
-un membre du Conseil économique et social ;
+- un membre du Conseil économique et social ;
 
-un membre du Conseil d'Etat ;
+- un membre du Conseil d'Etat ;
 
-un membre de la Cour des comptes ;
+- le secrétaire général de l'ordre de la Légion d'honneur ;
 
-un représentant du garde des sceaux ministre de la justice ;
+- le secrétaire général de l'ordre de la Libération ;
 
-un représentant du ministre de la défense ;
+- un représentant du ministre de la défense ;
 
-un représentant du ministre des affaires étrangères ;
+- un représentant du ministre chargé du budget ;
 
-un représentant du ministre de l'intérieur ;
+- un représentant du ministre chargé des affaires sociales ;
 
-un représentant du ministre chargé du budget ;
+- un représentant du ministre de l'intérieur ;
 
-un représentant du ministre de l'éducation nationale ;
+- un représentant du ministre de l'éducation nationale ;
 
-un représentant du ministre chargé des affaires sociales ;
+- un représentant du ministre des affaires étrangères ;
 
-un représentant du ministre chargé des départements et territoires d'outre-mer ;
+- un représentant du ministre chargé de la culture ;
 
-un représentant du ministre chargé de l'emploi ;
+- un représentant du ministre chargé de l'outre-mer ;
 
-un représentant du ministre chargé de la santé et de la famille ;
+- un représentant d'une association représentative des maires de France ;
 
-un représentant du ministre chargé des personnes âgées ;
+- un représentant d'une association représentative des présidents de conseil
+général.
 
-un représentant du ministre chargé de la formation professionnelle ;
+2° Deuxième collège
 
-un représentant du ministre chargé des anciens combattants.
+Quarante membres représentant les anciens combattants et victimes de guerre
+choisis parmi les catégories de ressortissants énumérées à l'article D. 432 (6°)
+ci-dessus réparties dans les conditions fixées par un arrêté du ministre chargé
+des anciens combattants.
 
-2° Dix membres, ressortissants de l'office national, choisis par le secrétaire
-d'Etat aux anciens combattants titulaires :
+3° Troisième collège
 
-un de la Légion d'honneur ;
+Quatorze membres représentant les associations nationales les plus
+représentatives qui oeuvrent pour la sauvegarde et le développement du lien
+entre le monde combattant et la nation, et les associations représentant les
+titulaires de décorations dont la liste est fixée par un arrêté du ministre
+chargé des anciens combattants.
 
-un de la croix de la Libération ;
+Les ministres désignent leur représentant au premier collège au moins quinze
+jours avant la réunion des commissions visées à l'article D. 436 bis ci-après.
 
-un de la médaille militaire ;
+Les membres du conseil d'administration relevant du deuxième collège sont nommés
+sur proposition des associations nationales qui regroupent les catégories
+statutaires des ressortissants qu'elles représentent. A cet effet, elles
+proposent au ministre deux candidatures pour chacune des catégories de
+ressortissants énumérées à l'article D. 432 (6°) ci-dessus.
 
-un de l'ordre national du Mérite ;
+Les membres du conseil d'administration relevant du troisième collège sont
+nommés sur proposition des organismes, institutions ou associations compétents,
+après avis du directeur général de l'Office national des anciens combattants et
+victimes de guerre. A cet effet, ils proposent au ministre deux candidatures
+pour chacune des catégories qu'elles représentent.
 
-un de la Croix de guerre ;
-
-un de la croix de la Valeur militaire ;
-
-un de la médaille de la Résistance ;
-
-un de la croix du combattant volontaire ;
-
-un de la croix du combattant volontaire de la Résistance ;
-
-un de la médaille des évadés.
-
-3° Quarante-neuf membres regroupés comme suit :
-
-Dix représentants des parents d'anciens combattants choisis parmi les :
-
-pupilles de la nation et orphelins de guerre ;
-
-veuves pensionnées, veuves de titulaires de la carte du combattant ou de
-bénéficiaires du présent code ;
-
-ascendants de militaires ou de civils morts pour la France.
-
-Six représentants des pensionnés choisis parmi les :
-
-mutilés et réformés de guerre ;
-
-victimes civiles.
-
-Trente-trois représentants des anciens combattants et victimes de guerre choisis
-parmi les :
-
-titulaires de la carte du combattant ;
-
-représentants des prisonniers de guerre ;
-
-titulaires de la carte de déporté et interné de la Résistance ;
-
-titulaires de la carte de déporté et interné politique ;
-
-titulaires de la carte de combattant volontaire de la Résistance ;
-
-titulaires du titre de réfractaire ;
-
-titulaires du titre de patriote résistant à l'occupation des départements du
-Rhin et de la Moselle incarcérés en camps spéciaux ;
-
-titulaires du titre de patriote réfractaire à l'annexion de fait ;
-
-titulaires du titre de reconnaissance de la nation ;
-
-représentants des anciens combattants et victimes de guerre résidant hors de
-France ;
-
-titulaires du titre de personne contrainte au travail en pays ennemi.
-
-Les associations nationales, y compris celles regroupant les membres des forces
-supplétives françaises et leurs ayants droit proposent au ministre chargé des
-anciens combattants deux candidatures pour chaque catégorie qu'elles groupent
-statutairement.
-
-4° Lors du décès ou de la démission de membres du conseil, le ministre chargé
-des anciens combattants peut pourvoir à leur remplacement. Pour ce qui est des
+Lors du décès ou de la démission de membres du conseil, le ministre chargé des
+anciens combattants peut pourvoir à leur remplacement. Pour ce qui est des
 représentants des anciens combattants et victimes de guerre, il choisit les
-remplaçants parmi les candidats proposés par les associations en application du
-paragraphe 3° ci-dessus. Les administrateurs ainsi désignés siègent pour la
-durée du mandat restant à courir.
+remplaçants parmi les candidats proposés par les associations au titre des
+deuxième et troisième collèges. Les administrateurs ainsi désignés siègent pour
+la durée du mandat restant à courir.
+
+Sur proposition du président, et en fonction des questions inscrites à l'ordre
+du jour, le conseil d'administration peut admettre en son sein les représentants
+des personnels de l'office national à titre d'observateurs, avec voix
+consultative. Ils n'assistent à la séance du conseil que pour la seule partie
+les concernant.
+
+Les observateurs sont désignés par le ministre chargé des anciens combattants,
+sur proposition des organisations représentatives des personnels de l'office
+national.
