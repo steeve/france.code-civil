@@ -1,8 +1,6 @@
 Article R513-102
 ----
 Dans chaque département le recensement des votes est opéré par une ou plusieurs
-commissions dont les ressorts et les sièges sont fixés par arrêté du commissaire
-de la République [*autorité compétente*].
+commissions dont les ressorts et les sièges sont fixés par arrêté du préfet.
 
-Le commissaire de la République organise le transfert des procès-verbaux auprès
-de chaque commission.
+Le préfet organise le transfert des procès-verbaux auprès de chaque commission.

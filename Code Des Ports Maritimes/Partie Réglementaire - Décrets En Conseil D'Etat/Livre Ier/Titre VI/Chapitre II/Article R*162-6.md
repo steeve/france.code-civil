@@ -2,38 +2,49 @@ Article R*162-6
 ----
 Le conseil d'administration du port autonome comprend :
 
-1° Des membres désignés par les établissements ou collectivités qu'ils
-représentent, à savoir :
-
-- deux membres désignés par la chambre de commerce et d'industrie de Basse-Terre
-;
-
-- deux membres désignés par la chambre de commerce et d'industrie de
+I. - 1° a) Deux membres désignés par la chambre de commerce et d'industrie de
 Pointe-à-Pitre ;
 
-- deux membres désignés par le conseil général de la Guadeloupe ;
+b) Un membre désigné par la chambre de commerce et d'industrie de Basse-Terre ;
 
-- un membres désigné par le conseil municipal de la principale ville comprise
-dans la circonscription du port ;
+2° a) Un membre désigné par le conseil régional de la Guadeloupe ;
 
-2° Des membres nommés par arrêté du ministre chargé des ports maritimes, à
-savoir :
+b) Un membre désigné par le conseil général de la Guadeloupe ;
 
-- un représentant du personnel du port autonome ;
+c) Un membre désigné par le conseil municipal de Pointe-à-pitre ;
 
-- un représentant des ouvriers employés à la manutention sur les quais ;
+d) Un membre désigné par le conseil municipal de Baie-Mahaut ;
 
-- le commissaire de la République de la région dans laquelle se trouve la ville
-principale de la circonscription du port autonome ou son représentant qu'il
-désigne à titre permanent ;
+3° Trois membres représentant les salariés du port autonome, dont un
+représentant des ingénieurs, chefs de service et cadres administratifs,
+commerciaux ou techniques assimilés sur le plan de la classification ;
 
-- un représentant de l'administration chargée de la marine marchande ;
+4° Un membre représentant les ouvriers dockers du port.
 
-- un représentant de l'administration de l'économie et des finances ;
+II. - 1° Trois membres représentant l'Etat, dont :
 
-- un représentant de l'administration chargé de l'industrie ;
+a) Un représentant du ministre chargé de l'économie et des finances choisi parmi
+les fonctionnaires en activité de son département ;
 
-- cinq personnalités choisies comme il est dit à l'article R. 112-2, parmi les
-principaux usagers du port ou en raison de leur compétence dans les problèmes
-portuaires, de la navigation maritime, des transports, de l'économie régionale
-ou de l'économie générale.
+b) Un représentant du ministre chargé de la marine marchande choisi parmi les
+fonctionnaires en activité de son département ;
+
+c) Le préfet de la région de la Guadeloupe ou son suppléant qu'il désigne à
+titre permanent ;
+
+2° a) Deux personnalités choisies sur une liste de quatre usagers du port
+appartenant aux catégories énumérées à l'article R. 112-2, établie conjointement
+par les chambres de commerce et d'industrie de Basse-terre et de pointe-à-pitre
+;
+
+b) Une personnalité choisie sur une liste de quatre usagers du port appartenant
+aux catégories énumérées à l'article R. 112-2, établie par la chambre
+d'agriculture de la Guadeloupe ;
+
+c) Cinq personnalités choisies en raison de leur compétence dans les problèmes
+intéressant les ports, la navigation maritime,les transports, l'économie
+régionale ou l'économie nationale, dont deux au moins doivent appartenir aux
+catégories d'usagers mentionnées à l'article R. 112-2.
+
+Les membres du conseil d'administration énumérés au I 4 et au II ci-dessus sont
+nommés par décret pris sur le rapport du ministre chargé des ports maritimes.

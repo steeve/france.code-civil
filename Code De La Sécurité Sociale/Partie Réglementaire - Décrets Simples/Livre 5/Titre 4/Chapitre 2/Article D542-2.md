@@ -7,6 +7,6 @@ quatre ans.
 
 Cette dérogation peut être prolongée dans les conditions prévues au premier
 alinéa de l'article D. 542-15, par période de deux ans renouvelable, après
-enquête sociale et au vu d'une attestation motivée du commissaire de la
-République certifiant que l'allocataire ne peut être logé conformément aux
-conditions fixées au 2° de l'article D. 542-14.
+enquête sociale et au vu d'une attestation motivée du préfet certifiant que
+l'allocataire ne peut être logé conformément aux conditions fixées au 2° de
+l'article D. 542-14.

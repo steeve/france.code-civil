@@ -11,9 +11,9 @@ formation professionnelle.
 A cet effet, le montant des indemnités journalières est notifié par les
 organismes concernés :
 
-1° Au commissaire de la République du département où est situé l'établissement
-de formation ou, le cas échéant, au centre national pour l'aménagement des
-structures des exploitations agricoles, lorsque le stage a été agréé par l'Etat.
+1° Au préfet du département où est situé l'établissement de formation ou, le cas
+échéant, au centre national pour l'aménagement des structures des exploitations
+agricoles, lorsque le stage a été agréé par l'Etat.
 
 2° Au président du conseil régional lorsque le stage a été agréé par une région.
 

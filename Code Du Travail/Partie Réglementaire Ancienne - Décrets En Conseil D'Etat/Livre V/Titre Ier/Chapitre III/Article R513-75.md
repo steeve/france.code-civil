@@ -1,6 +1,6 @@
 Article R513-75
 ----
-Chaque commission de contrôle des opérations de vote comprend [*composition*] :
+Chaque commission de contrôle des opérations de vote comprend :
 
 - un magistrat en activité ou honoraire de l'ordre judiciaire ou de l'ordre
 administratif, désigné selon les cas par le premier président de la cour
@@ -10,8 +10,8 @@ d'appel, ou par le président du tribunal administratif, président ;
 judiciaire ou de l'ordre administratif ou les auxiliaires de justice du
 département ;
 
-- un fonctionnaire, désigné par le commissaire de la République, qui assure le
-secrétariat de la commission.
+- un fonctionnaire, désigné par le préfet, qui assure le secrétariat de la
+commission.
 
 La commission peut s'adjoindre des délégués choisis parmi les électeurs des
 communes intéressées inscrits sur la liste électorale établie en application du

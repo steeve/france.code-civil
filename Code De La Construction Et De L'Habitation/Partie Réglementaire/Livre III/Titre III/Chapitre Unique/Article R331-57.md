@@ -18,8 +18,8 @@ articles R. 315-1 ou R. 315-2, par. b, du code de l'urbanisme et être destinée
 à titre principal à l'implantation de logements réalisés par des personnes
 physiques dans les conditions fixées par le premier alinéa de l'article R.
 331-48 du présent code. En outre, pour bénéficier de ce préfinancement, les
-requérants doivent préalablement souscrire près du commissaire de la République
-du département un engagement portant sur :
+requérants doivent préalablement souscrire près du préfet du département un
+engagement portant sur :
 
 La définition des prestations à réaliser ;
 

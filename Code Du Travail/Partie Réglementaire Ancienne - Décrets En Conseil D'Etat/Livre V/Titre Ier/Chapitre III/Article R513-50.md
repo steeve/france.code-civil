@@ -10,10 +10,9 @@ les frais d'impression réellement exposés.
 
 La somme remboursée ne peut excéder celle résultant de l'application au nombre
 des imprimés admis à remboursement des tarifs d'impression fixés par arrêté du
-commissaire de la République, après avis d'une commission départementale
-comprenant [*composition*] :
+préfet, après avis d'une commission départementale comprenant [*composition*] :
 
-- le commissaire de la République ou son représentant, président ;
+- le préfet ou son représentant, président ;
 
 - le trésorier-payeur général ou son représentant ;
 
@@ -21,7 +20,7 @@ comprenant [*composition*] :
 représentant ;
 
 - un représentant des organisations professionnelles des imprimeurs désignés par
-le commissaire de la République, selon la nature des tarifs à établir.
+le préfet, selon la nature des tarifs à établir.
 
 En ce qui concerne l'impression, les tarifs ne peuvent s'appliquer qu'à des
 circulaires et bulletins de vote présentant les caractéristiques suivantes et

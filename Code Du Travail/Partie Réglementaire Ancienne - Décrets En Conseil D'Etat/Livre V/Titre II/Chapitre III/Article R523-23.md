@@ -6,10 +6,9 @@ conciliation sont nommés dans les conditions fixées aux articles R. 523-8 et R
 
 Les membres des sections à compétence départementale créées au sein des
 commissions régionales de conciliation sont nommés conformément aux dispositions
-du premier alinéa du présent article par le commissaire de la République du
-département, après avis du chef du service départemental du travail et de la
-protection sociale agricoles en ce qui concerne les représentants des employeurs
-et des salariés.
+du premier alinéa du présent article par le préfet du département, après avis du
+chef du service départemental du travail et de la protection sociale agricoles
+en ce qui concerne les représentants des employeurs et des salariés.
 
 Les membres suppléants doivent, dans toute la mesure du possible, représenter
 les branches agricoles spécialisées les plus importantes de la circonscription
