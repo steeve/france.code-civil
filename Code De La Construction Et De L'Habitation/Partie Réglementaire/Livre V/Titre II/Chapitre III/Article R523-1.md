@@ -2,10 +2,10 @@ Article R523-1
 ----
 Dans les limites et conditions fixées par le présent chapitre, des subventions
 peuvent être accordées aux personnes physiques [*bénéficiaires*] qui, en
-application des articles L. 28 et L. 38 du code de la santé publique, effectuent
-des travaux tendant à remédier à l'insalubrité des logements dont elles sont
-propriétaires et qui constituent leur résidence principale depuis plus de deux
-ans [*durée*].
+application des articles L. 28, L. 32-2 et L. 38 du code de la santé publique,
+effectuent des travaux tendant à remédier à l'insalubrité des logements dont
+elles sont propriétaires et qui constituent leur résidence principale depuis
+plus de deux ans [*durée*].
 
 Ces subventions ne sont attribuées qu'aux personnes dont les ressources
 n'excèdent pas un montant déterminé par arrêté du ministre du budget et du
