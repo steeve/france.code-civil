@@ -7,12 +7,19 @@ conditions prévues aux articles R. 615-12 à R. 615-15.
 
 Pour l'application de l'alinéa précédent :
 
-1°) les travailleurs non-salariés n'ayant en France ni domicile, ni résidence
+1°) les travailleurs non salariés n'ayant en France ni domicile, ni résidence
 fixes relèvent de la caisse mutuelle régionale dans la circonscription de
 laquelle est située leur commune de rattachement au sens du titre II de la loi
 n° 69-3 du 3 janvier 1969 ;
 
-2°) les travailleurs non-salariés de la navigation fluviale appartenant au
+2°) les travailleurs non salariés de la navigation fluviale appartenant au
 personnel navigant sont rattachés à une section mutuelle autonome d'assurance
-maladie et maternité des travailleurs non-salariés de la batellerie fonctionnant
-auprès de la caisse primaire nationale d'assurance maladie de la batellerie.
+maladie et maternité des travailleurs non salariés de la batellerie fonctionnant
+auprès de la caisse primaire nationale d'assurance maladie de la batellerie ;
+
+3°) Les personnes âgées séjournant pour une durée d'au moins six mois dans les
+établissements mentionnés au 5° de l'article 3 de la loi n° 75-535 du 30 juin
+1975 relative aux institutions sociales et médico-sociales relèvent, dans des
+conditions fixées par arrêté du ministre chargé de la sécurité sociale, de la
+caisse mutuelle régionale dans la circonscription de laquelle se trouve
+l'établissement.
