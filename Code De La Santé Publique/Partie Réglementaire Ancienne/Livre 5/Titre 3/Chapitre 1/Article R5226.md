@@ -1,5 +1,5 @@
 Article R5226
 ----
-Il est interdit aux coiffeurs sous les sanctions prévues à l'article L. 626,
-d'appliquer les produits visés à l'article R. 5221 sans avoir procédé au
-préalable à la touche d'essai [*obligatoire*].
+Tout fabricant ou vendeur de produits visés à l'article R. 5222 doit, dès qu'il
+a connaissance d'un accident attribué à leur application, en informer le
+directeur départemental de l'action sanitaire et sociale.
