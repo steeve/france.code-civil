@@ -15,13 +15,27 @@ anormales, y compris celles qui sont mentionnées à l'article R. 231-56-6, de
 leurs causes et des mesures prises ou à prendre pour y remédier.
 
 III. - L'employeur tient une liste actualisée des travailleurs employés dans les
-activités qui révèlent un risque concernant la sécurité ou la santé avec
-indication, si cette information est disponible, de l'exposition à laquelle ils
-ont été soumis. Le médecin du travail a accès à cette liste.
+activités pour lesquelles l'évaluation des risques prévue au I de l'article R.
+231-56-1 met en évidence un risque concernant la sécurité ou la santé en
+précisant la nature de l'exposition et sa durée, ainsi que son degré tel qu'il
+est connu par les résultats des contrôles effectués.
 
-IV. - Chaque travailleur a accès aux informations qui le concernent
-personnellement.
+L'employeur établit pour chacun de ces travailleurs une fiche d'exposition
+comprenant les informations suivantes :
 
-V. - Sans préjudice des dispositions de l'article L. 236-3, les membres du
-comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, les
-délégués du personnel ont accès aux informations mentionnées au présent article.
+a) La nature du travail effectué, les caractéristiques des produits, les
+périodes d'exposition et les autres risques ou nuisances d'origine chimique,
+physique ou biologique du poste de travail ;
+
+b) Les dates et les résultats des contrôles de l'exposition individuelle au
+poste de travail ainsi que la durée et l'importance des expositions
+accidentelles.
+
+IV. - Chaque travailleur concerné est informé de l'existence de la fiche
+d'exposition et a accès aux informations le concernant. Le double de cette fiche
+est transmis au médecin du travail.
+
+V. - Sans préjudice des dispositions prises en application de l'article L.
+236-3, les informations mentionnées au présent article sont recensées par poste
+de travail et tenues à disposition des membres du comité d'hygiène, de sécurité
+et des conditions de travail ou, à défaut, des délégués du personnel.
