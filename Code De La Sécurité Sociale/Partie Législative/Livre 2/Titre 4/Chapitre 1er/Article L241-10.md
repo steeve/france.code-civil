@@ -31,9 +31,9 @@ e) Des personnes remplissant la condition de perte d'autonomie prévue à
 l'article L. 232-2 du code de l'action sociale et des familles, dans des
 conditions définies par décret.
 
-L'exonération est accordée sur la demande des intéressés par l'organisme chargé
-du recouvrement des cotisations dans les conditions fixées par arrêté
-ministériel.
+Sauf dans le cas mentionné au a, l'exonération est accordée sur la demande des
+intéressés par l'organisme chargé du recouvrement des cotisations dans des
+conditions fixées par arrêté ministériel.
 
 Le bénéfice de ces dispositions ne peut se cumuler pour une même aide à domicile
 avec le complément de libre choix du mode de garde de la prestation d'accueil du
@@ -84,6 +84,17 @@ centre communal ou intercommunal d'action sociale bénéficient d'une exonérati
 de 100 % de la cotisation d'assurance vieillesse due au régime visé au 2° de
 l'article R. 711-1 du présent code pour la fraction de ces rémunérations
 remplissant les conditions définies au premier alinéa du présent paragraphe.
+
+III bis. - Les rémunérations des salariés qui, employés par des associations ou
+des entreprises de services à la personne agréées dans les conditions fixées à
+l'article L. 129-1 du code du travail, assurent une activité mentionnée à cet
+article, sont exonérées des cotisations patronales d'assurances sociales,
+d'accidents du travail et d'allocations familiales, dans la limite, lorsqu'elles
+ne sont pas éligibles à une autre exonération mentionnée au présent article,
+d'un plafond déterminé par décret. Le bénéfice de cette exonération n'est pas
+cumulable avec celui d'une autre exonération totale ou partielle de cotisations
+patronales ou l'application de taux ou d'assiettes spécifiques ou de montants
+forfaitaires de cotisations.
 
 IV. - Par dérogation aux dispositions de l'article L. 131-7 du présent code,
 l'exonération prévue au III n'est pas compensée par le budget de l'Etat.
