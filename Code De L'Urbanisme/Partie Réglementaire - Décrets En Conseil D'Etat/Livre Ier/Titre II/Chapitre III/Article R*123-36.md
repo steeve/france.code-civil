@@ -5,7 +5,7 @@ présent article.
 
 La mise à jour est le report au plan :
 
-a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1. et 2.) ;
+a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1° et 2°) ;
 
 b) Des modifications résultant d'une déclaration d'utilité publique prononcée en
 application de l'article L. 123-8 ;

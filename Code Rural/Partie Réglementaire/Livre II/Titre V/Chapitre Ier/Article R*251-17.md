@@ -3,6 +3,6 @@ Article R*251-17
 Tout projet de création d'une réserve naturelle est obligatoirement soumis au
 comité avant l'engagement de la procédure de classement.
 
-Le comité est consulté sur la coordination des travaux scientifiques réalisés
-dans les parcs nationaux et les réserves naturelles et en rend compte au conseil
-national.
+Le comité peut être consulté sur tout projet de plan de gestion d'une réserve
+naturelle, et est obligatoirement consulté sur toute demande d'autorisation de
+modification de l'état ou de l'aspect d'une réserve naturelle.
