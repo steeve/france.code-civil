@@ -1,7 +1,23 @@
 Article L228-1
 ----
+Les sociétés par actions émettent toutes valeurs mobilières dans les conditions
+du présent livre.
+
+Les valeurs mobilières émises par les sociétés par actions sont définies à
+l'article L. 211-2 du code monétaire et financier.
+
 Les valeurs mobilières émises par les sociétés par actions revêtent la forme de
-titres au porteur ou de titres nominatifs.
+titres au porteur ou de titres nominatifs, sauf pour les sociétés pour
+lesquelles la loi ou les statuts imposent la seule forme nominative, pour tout
+ou partie du capital.
+
+Nonobstant toute convention contraire, tout propriétaire dont les titres font
+partie d'une émission comprenant à la fois des titres au porteur et des titres
+nominatifs a la faculté de convertir ses titres dans l'autre forme.
+
+Toutefois, la conversion des titres nominatifs n'est pas possible s'agissant des
+sociétés pour lesquelles la loi ou les statuts imposent la forme nominative pour
+tout ou partie du capital.
 
 Ces valeurs mobilières, quelle que soit leur forme, doivent être inscrites en
 compte au nom de leur propriétaire, dans les conditions prévues par le II de
@@ -18,3 +34,12 @@ L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprè
 soit de la société émettrice, soit de l'intermédiaire financier habilité teneur
 de compte, de déclarer, dans les conditions fixées par décret, sa qualité
 d'intermédiaire détenant des titres pour le compte d'autrui.
+
+En cas de cession de valeurs mobilières admises aux négociations sur un marché
+réglementé ou de valeurs mobilières non admises aux négociations sur un marché
+réglementé mais inscrites en compte chez un intermédiaire habilité participant à
+un système de règlement et de livraison mentionné à l'article L. 330-1 du code
+monétaire et financier, le transfert de propriété s'effectue dans les conditions
+prévues à l'article L. 431-2 de ce code. Dans les autres cas, le transfert de
+propriété résulte de l'inscription des valeurs mobilières au compte de
+l'acheteur, dans des conditions fixées par décret en Conseil d'Etat.

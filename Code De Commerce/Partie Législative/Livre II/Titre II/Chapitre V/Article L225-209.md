@@ -9,6 +9,14 @@ autorisation ne peut être donnée pour une durée supérieure à dix-huit mois.
 comité d'entreprise est informé de la résolution adoptée par l'assemblée
 générale.
 
+Le conseil d'administration peut déléguer au directeur général ou, en accord
+avec ce dernier, à un ou plusieurs directeurs généraux délégués, les pouvoirs
+nécessaires pour réaliser cette opération. Le directoire peut déléguer à son
+président ou avec son accord à un ou plusieurs de ses membres les pouvoirs
+nécessaires pour la réaliser. Les personnes désignées rendent compte au conseil
+d'administration ou au directoire de l'utilisation faite de ce pouvoir dans les
+conditions prévues par ces derniers.
+
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par
 tous moyens. Ces actions peuvent être annulées dans la limite de 10 % du capital
 de la société par périodes de vingt-quatre mois. La société informe chaque mois

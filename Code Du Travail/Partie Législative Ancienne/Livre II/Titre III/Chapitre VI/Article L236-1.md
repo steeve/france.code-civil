@@ -2,8 +2,8 @@ Article L236-1
 ----
 Des comités d'hygiène, de sécurité et des conditions de travail sont constitués
 dans les établissements mentionnés à l'article L. 231-1 occupant au moins
-cinquante salariés [*condition d'effectif minimum*]. L'effectif est calculé
-suivant les modalités définies à l'article L. 431-2.
+cinquante salariés. L'effectif est calculé suivant les modalités définies à
+l'article L. 620-10.
 
 La mise en place d'un comité d'hygiène, de sécurité et des conditions de travail
 ne s'impose que si l'effectif d'au moins cinquante salariés a été atteint
@@ -18,13 +18,13 @@ L'inspecteur du travail peut imposer la création d'un comité dans les
 nécessaire, notamment en raison de la nature des travaux, de l'agencement ou de
 l'équipement des locaux. Cette décision est susceptible d'une réclamation devant
 le directeur régional du travail et de l'emploi dans les conditions de délai et
-de procédure fixées à l'article L. 231-5-1 [*recours*].
+de procédure fixées à l'article L. 231-5-1.
 
-Dans les établissements de moins de cinquante salariés [*effectif*], les
-délégués du personnel sont investis des missions dévolues aux membres du comité
-d'hygiène, de sécurité et des conditions de travail qu'ils exercent dans le
-cadre des moyens prévus à l'article L. 424-1. Ils sont également soumis aux
-mêmes obligations.
+Dans les établissements de moins de cinquante salariés, les délégués du
+personnel sont investis des missions dévolues aux membres du comité d'hygiène,
+de sécurité et des conditions de travail qu'ils exercent dans le cadre des
+moyens prévus à l'article L. 424-1. Ils sont également soumis aux mêmes
+obligations.
 
 Les entreprises de moins de cinquante salariés peuvent se regrouper sur un plan
 professionnel ou interprofessionnel en vue de la constitution d'un comité
@@ -32,15 +32,15 @@ d'hygiène, de sécurité et des conditions de travail.
 
 Dans la branche d'activité du bâtiment et des travaux publics, les dispositions
 du présent article s'appliquent, à l'exclusion du troisième alinéa, aux
-établissements occupant habituellement au moins cinquante salariés [*effectif*].
-En outre, dans les entreprises employant au moins cinquante salariés dans
-lesquelles aucun établissement n'est tenu de mettre en place un comité, sur
-proposition de l'inspecteur du travail saisi par le comité d'entreprise ou, en
-l'absence de celui-ci par les délégués du personnel, le directeur régional du
-travail et de l'emploi peut imposer la création d'un comité lorsque cette mesure
-est nécessaire en raison du danger particulier de l'activité ou de l'importance
-des risques constatés. La mise en place d'un comité d'hygiène, de sécurité et
-des conditions de travail ne dispense pas les entreprises de leur obligation
+établissements occupant habituellement au moins cinquante salariés. En outre,
+dans les entreprises employant au moins cinquante salariés dans lesquelles aucun
+établissement n'est tenu de mettre en place un comité, sur proposition de
+l'inspecteur du travail saisi par le comité d'entreprise ou, en l'absence de
+celui-ci par les délégués du personnel, le directeur régional du travail et de
+l'emploi peut imposer la création d'un comité lorsque cette mesure est
+nécessaire en raison du danger particulier de l'activité ou de l'importance des
+risques constatés. La mise en place d'un comité d'hygiène, de sécurité et des
+conditions de travail ne dispense pas les entreprises de leur obligation
 d'adhérer à un organisme professionnel de sécurité et des conditions de travail
 créé en application de l'article L. 231-2.
 

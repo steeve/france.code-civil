@@ -12,18 +12,17 @@ période de vingt-deux semaines postérieure à l'accouchement est alors réduit
 d'autant. Cette période commence huit semaines avant la date présumée de
 l'accouchement et se termine dix-huit semaines après la date de celui-ci
 lorsque, avant l'accouchement, la salariée elle-même ou le ménage assume déjà la
-charge de deux enfants *nombre* au moins dans les conditions prévues aux
-articles L. 525 à L. 529 du code de la sécurité sociale ou lorsque la salariée a
-déjà mis au monde au moins deux enfants nés viables *dispositions en faveur du
-troisième enfant*. La période de huit semaines de suspension du contrat de
-travail antérieure à la date présumée de l'accouchement peut être augmentée
-d'une durée maximale de deux semaines ; la période de dix-huit semaines de
-suspension du contrat de travail postérieure à la date de l'accouchement est
-alors réduite d'autant.
+charge de deux enfants au moins dans les conditions prévues aux articles L. 525
+à L. 529 du code de la sécurité sociale ou lorsque la salariée a déjà mis au
+monde au moins deux enfants nés viables. La période de huit semaines de
+suspension du contrat de travail antérieure à la date présumée de l'accouchement
+peut être augmentée d'une durée maximale de deux semaines ; la période de
+dix-huit semaines de suspension du contrat de travail postérieure à la date de
+l'accouchement est alors réduite d'autant.
 
-Quand l'accouchement a lieu avant la date présumée *prématuré*, la période de
-suspension du contrat de travail pourra être prolongée jusqu'au terme des seize,
-des vingt-six, des trente-quatre ou des quarante-six semaines de suspension du
+Quand l'accouchement a lieu avant la date présumée, la période de suspension du
+contrat de travail pourra être prolongée jusqu'au terme des seize, des
+vingt-six, des trente-quatre ou des quarante-six semaines de suspension du
 contrat auxquelles la salariée peut avoir droit.
 
 Si un état pathologique attesté par un certificat médical comme résultant de la
@@ -63,8 +62,12 @@ l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français
 Le père ou la mère avertit l'employeur du motif de son absence et de la date à
 laquelle il ou elle entend mettre fin à la suspension de son contrat de travail.
 
-Dans le cas où pendant sa grossesse la femme a fait l'objet d'un changement
-d'affectation [*exige par son état de santé médicalement constaté*] dans les
-conditions prévues au premier alinéa de l'article L. 122-25-1, elle est
-réintégrée dans l'emploi occupé avant cette affectation lorsqu'elle reprend son
-travail à l'issue de la période de suspension définie au présent article.
+A l'issue des congés de maternité et d'adoption prévus au présent article, la
+personne salariée retrouve son précédent emploi ou un emploi similaire assorti
+d'une rémunération au moins équivalente.
+
+Toutefois, dans le cas où pendant sa grossesse la femme a fait l'objet d'un
+changement d'affectation dans les conditions prévues au premier alinéa de
+l'article L. 122-25-1, elle est réintégrée dans l'emploi occupé avant cette
+affectation lorsqu'elle reprend son travail à l'issue de la période de
+suspension définie au présent article.

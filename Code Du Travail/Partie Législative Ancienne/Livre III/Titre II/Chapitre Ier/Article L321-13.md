@@ -56,10 +56,5 @@ au premier alinéa du présent article.
 Cette cotisation n'est pas due dans le cas où le salarié bénéficie des
 allocations spéciales prévues par le 2° de l'article L. 322-4.
 
-La cotisation est due également pour chaque rupture du contrat de travail
-intervenue du fait de l'adhésion d'un salarié à une convention de conversion
-prévue par l'article L. 322-3. Le montant de cette cotisation tient compte de la
-participation de l'entreprise au financement de la convention de conversion.
-
 Les dispositions de l'article L. 352-3 sont applicables à la cotisation prévue
 au premier alinéa du présent article.

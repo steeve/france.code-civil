@@ -20,12 +20,6 @@ plan de redressement, dans les quinze jours suivant le jugement de liquidation
 et pendant le maintien provisoire de l'activité autorisé par le jugement de
 liquidation judiciaire.
 
-Les créances résultant de la rupture du contrat de travail des salariés auxquels
-a été proposée une convention de conversion prévue à l'article L. 322-3 sont
-couvertes par l'assurance, sous réserve que l'administrateur, l'employeur ou le
-liquidateur, selon le cas, ait proposé cette convention aux intéressés au cours
-de l'une des périodes indiquées ci-dessus ;
-
 3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un
 montant maximal correspondant à un mois et demi de travail, les sommes dues au
 cours de la période d'observation, des quinze jours suivant le jugement de
@@ -38,19 +32,6 @@ jugement de liquidation.
 La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les
 cotisations et contributions sociales et salariales d'origine légale, ou
 d'origine conventionnelle imposée par la loi.
-
-L'assurance couvre également la contribution, échue ou à échoir, due par
-l'employeur pour le financement des allocations mentionnées au deuxième alinéa
-de l'article L. 322-3, lorsque la convention de conversion a été conclue
-antérieurement au jugement d'ouverture de la procédure de redressement ou de
-liquidation judiciaires.
-
-Lorsque la convention de conversion a été conclue postérieurement à ce jugement,
-la contribution de l'employeur et les salaires dus aux salariés y ayant adhéré
-pendant le délai de réponse prévu par le premier alinéa de l'article L. 321-6-1
-sont couverts par l'assurance si le bénéfice de ladite convention a été proposé
-au salarié concerné pendant l'une des périodes indiquées au 2° du présent
-article.
 
 L'assurance couvre les sommes dues aux salariés en application des articles L.
 122-9-1 et L. 122-3-4-1.

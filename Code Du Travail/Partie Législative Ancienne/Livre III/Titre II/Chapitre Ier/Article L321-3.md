@@ -1,11 +1,11 @@
 Article L321-3
 ----
 Dans les entreprises ou établissements visés à l'article L. 321-2 où sont
-occupés habituellement plus de dix salariés et moins de cinquante salariés, les
-employeurs qui projettent de prononcer un licenciement pour motif économique
-sont tenus de réunir et de consulter les délégués du personnel lorsque le nombre
-de licenciements envisagés est au moins égal à dix dans une même période de
-trente jours.
+occupés habituellement moins de cinquante salariés, les employeurs qui
+projettent de prononcer un licenciement pour motif économique sont tenus de
+réunir et de consulter les délégués du personnel lorsque le nombre de
+licenciements envisagés est au moins égal à dix dans une même période de trente
+jours.
 
 Sans préjudice des dispositions de l'article L. 432-1, dans les entreprises ou
 professions mentionnées ci-dessus où sont occupés habituellement au moins

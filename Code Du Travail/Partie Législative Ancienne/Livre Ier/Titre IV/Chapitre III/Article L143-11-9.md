@@ -1,16 +1,12 @@
 Article L143-11-9
 ----
 Les institutions mentionnées à l'article L. 143-11-4 sont subrogées dans les
-droits des salariés por lesquels elles ont effectué des avances, en ce qui
+droits des salariés pour lesquels elles ont effectué des avances, en ce qui
 concerne les créances garanties par le privilège prévu aux articles L. 143-10,
 L. 143-11, L. 742-6 et L. 751-15 et les créances avancées au titre du 3° de
 l'article L. 143-11-1.
 
-Les salaires avancés en application du dernier alinéa de l'article L. 143-11-1
-sont remboursés dans les conditions prévues au 4° de l'article 40 de la loi n°
-85-98 du 25 janvier 1985 précitée.
-
 Les autres sommes avancées sont remboursées aux institutions susmentionnées dans
-les conditions prévues par la loi n° 85-98 du 25 janvier 1985 précitée pour le
-règlement des créances nées antérieurement au jugement d'ouverture de la
-procédure et bénéficient des privilèges attachés à celle-ci.
+les conditions prévues par le code de commerce pour le règlement des créances
+nées antérieurement au jugement d'ouverture de la procédure et bénéficient des
+privilèges attachés à celle-ci.

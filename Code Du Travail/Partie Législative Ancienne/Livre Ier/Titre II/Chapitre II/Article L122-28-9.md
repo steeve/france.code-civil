@@ -14,9 +14,10 @@ dans la limite maximale de douze mois, renouvellements inclus.
 
 Le salarié doit envoyer à son employeur, au moins quinze jours avant le début du
 congé ou du travail à temps partiel, une lettre recommandée avec demande d'avis
-de réception l'informant de sa volonté de bénéficier des dispositions du premier
-alinéa du présent article, ainsi qu'un certificat médical établi selon les
-modalités fixées par décret en Conseil d'Etat.
+de réception ou lui remettre en main propre une lettre contre décharge
+l'informant de sa volonté de bénéficier des dispositions du premier alinéa du
+présent article, ainsi qu'un certificat médical établi selon les modalités
+fixées par décret en Conseil d'Etat.
 
 Lorsque le salarié entend prolonger son congé ou son activité à temps partiel,
 il doit avertir l'employeur de cette prolongation, par lettre recommandée avec

@@ -8,7 +8,7 @@ Lorsque le projet de licenciement donne lieu à la consultation des représentan
 du personnel prévue à l'article L. 321-3, sa notification est faite au plus tôt
 le lendemain de la date prévue pour la première réunion visée audit article.
 Elle est accompagnée de tout renseignement concernant la convocation, l'ordre du
-jour et la tenue de cette réunion [*mentions obligatoires*].
+jour et la tenue de cette réunion.
 
 En l'absence de plan social au sens de l'article L. 321-4-1, l'autorité
 administrative constate cette carence par notification à l'entreprise dès
@@ -18,19 +18,17 @@ notification prévue à l'alinéa précédent.
 L'autorité administrative compétente s'assure que les représentants du personnel
 ont été informés, réunis et consultés conformément aux dispositions légales et
 conventionnelles en vigueur, que les règles relatives à l'élaboration des
-mesures sociales prévues par les articles L. 321-4 et L. 321-5 du présent code
-ou par des conventions ou accords collectifs de travail ont été respectées et
-que les mesures prévues aux articles L. 321-4 et L. 321-5 seront effectivement
-mises en oeuvre.
+mesures sociales prévues par l'article L. 321-4 du présent code ou par des
+conventions ou accords collectifs de travail ont été respectées et que les
+mesures prévues à l'article L. 321-4 seront effectivement mises en oeuvre.
 
 L'autorité administrative compétente, à laquelle la liste des salariés dont il
 est envisagé de rompre le contrat de travail est transmise, dispose, pour
 procéder aux vérifications prévues à l'alinéa précédent, d'un délai de vingt et
-un jours à compter de la date de notification [*point de départ*] lorsque le
-nombre des licenciements est inférieur à cent, de vingt-huit jours lorsque le
-nombre des licenciements est au moins égal à cent et inférieur à deux cent
-cinquante, et de trente-cinq jours lorsque ce nombre est au moins égal à deux
-cent cinquante.
+un jours à compter de la date de notification lorsque le nombre des
+licenciements est inférieur à cent, de vingt-huit jours lorsque le nombre des
+licenciements est au moins égal à cent et inférieur à deux cent cinquante, et de
+trente-cinq jours lorsque ce nombre est au moins égal à deux cent cinquante.
 
 En toute hypothèse, ce délai ne peut être inférieur au délai conventionnel prévu
 au dernier alinéa de l'article L. 321-3 augmenté de sept jours.

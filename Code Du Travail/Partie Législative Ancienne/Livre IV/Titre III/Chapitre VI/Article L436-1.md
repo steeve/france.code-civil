@@ -15,11 +15,10 @@ La même procédure est applicable au licenciement des anciens membres des comit
 d'entreprise ainsi que des anciens représentants syndicaux qui, désignés depuis
 deux ans, ne seraient pas reconduits dans leurs fonctions lors du renouvellement
 du comité, pendant les six premiers mois qui suivent l'expiration de leur mandat
-ou la disparition de l'institution. Cette durée est ramenée à trois mois pour
-les candidats aux fonctions de membres du comité, qui ont été présentés en vue
-du premier ou du deuxième tour, à partir de la publication des candidatures. La
-durée de trois mois court à partir de l'envoi, par lettre recommandée avec avis
-de réception, à l'employeur des listes de candidatures.
+ou la disparition de l'institution. Cette procédure s'applique également aux
+candidats aux fonctions de membres du comité, qui ont été présentés en vue du
+premier ou du deuxième tour, pendant les six mois qui suivent l'envoi des listes
+de candidatures à l'employeur.
 
 La même procédure s'applique lorsque la lettre du syndicat notifiant à
 l'employeur la candidature aux fonctions de membre du comité d'entreprise ou de
@@ -40,9 +39,9 @@ doit proposer au salarié un emploi similaire assorti d'une rémunération
 Afin de faciliter la mise en place des comités d'entreprise, les salariés qui
 ont demandé à l'employeur d'organiser les élections au comité d'entreprise, ou
 d'accepter d'organiser les élections, bénéficient de la procédure prévue aux
-alinéas ci-dessus pendant une durée de trois mois, qui court à compter de
-l'envoi de la lettre recommandée par laquelle une organisation a, la première,
-demandé ou accepté qu'il soit procédé à des élections.
+alinéas ci-dessus pendant une durée de six mois, qui court à compter de l'envoi
+de la lettre recommandée par laquelle une organisation a, la première, demandé
+ou accepté qu'il soit procédé à des élections.
 
 La procédure prévue à l'alinéa précédent ne peut s'appliquer qu'à un seul
 salarié par organisation syndicale ainsi qu'au premier salarié, non mandaté par
