@@ -56,7 +56,7 @@ Il n'est rien innové aux lois et usages du commerce sur la revendication ;
 5° Les fournitures d'un aubergiste, sur les effets du voyageur qui ont été
 transportés dans son auberge ;
 
-6° Les frais de voiture et les dépenses accessoires, sur la chose voiturée ;
+6° (paragraphe abrogé) ;
 
 7° Les créances résultant d'abus et prévarications commis par les fonctionnaires
 publics dans l'exercice de leurs fonctions, sur les fonds de leur cautionnement
