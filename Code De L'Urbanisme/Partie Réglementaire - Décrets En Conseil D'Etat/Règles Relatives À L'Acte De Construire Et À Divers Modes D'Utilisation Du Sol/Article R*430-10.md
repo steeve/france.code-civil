@@ -1,14 +1,14 @@
 Article R*430-10
 ----
-Le cas échéant, les éléments nécessaires au calcul de la redevance
-[*construction locaux à usage bureaux et à usage industriel*] instituée par
-l'article L. 520-1 sont également joints à la déclaration.
+L'architecte des bâtiments de France et le ministre chargé des monuments
+historiques et des sites disposent d'un délai de deux mois pour faire connaître
+leur avis au directeur départemental de l'équipement.
 
-//DECR.0276 : Si les constructions projetées ont soit une densité supérieure au
-plafond légal défini à l'article L. 112-1, soit une densité supérieure à celle
-du coefficient d'occupation du sol sans que le dépassement de ce coefficient
-fasse l'objet de justification de la nature de celles visées à l'article R.
-430-13, la déclaration préalable à la construction doit être complétée par les
-éléments nécessaires au calcul du versement lié au dépassement du plafond légal
-ou de la participation prévue à l'article L. 332-1 ainsi que, le cas échéant,
-par les indications mentionnées à l'article R. 333-3//.
+Toutefois, lorsque le bâtiment est inscrit à l'inventaire supplémentaire des
+monuments historiques, le ministre dispose d'un délai de trois mois ; le délai
+court, dans ce cas, à compter de la réception de la demande qui lui a été
+adressée directement par le pétitionnaire.
+
+L'avis est réputé favorable s'il n'a pas été donné [*silence*] dans les délais
+prescrits aux alinéas précédents, sauf si l'affaire a été évoquée avant
+l'expiration de ces délais, dans les conditions prévues à l'article R. 430-14.
