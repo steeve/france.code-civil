@@ -3,10 +3,9 @@ Article L712-6
 Le comité national et les comités régionaux de l'organisation sanitaire et
 sociale comprennent [*composition*] :
 
-1° Un député, désigné par la commission des affaires culturelles, familiales et
-sociales de l'Assemblée nationale ;
+1° (abrogé)
 
-2° Un sénateur, désigné par la commission des affaires sociales du Sénat ;
+2° (abrogé)
 
 3° Des représentants de l'Etat, des collectivités territoriales et des
 organismes de sécurité sociale ;
@@ -25,9 +24,12 @@ spécialisés ;
 
 Ils comportent des sections.
 
-Le comité national est présidé par un conseiller d'Etat ou par un conseiller
-maître à la Cour des comptes. Un collège national d'experts, dont la composition
-est fixée par décret, est constitué auprès du comité national.
+Le comité national comprend en outre un député désigné par la commission des
+affaires culturelles, familiales et sociales de l'Assemblée nationale et un
+sénateur désigné par la commission des affaires sociales du Sénat. Il est
+présidé par un conseiller d'Etat ou par un conseiller mai^tre à la Cour des
+comptes. Un collège national d'experts, dont la composition est fixée par
+décret, est constitué auprès du comité national.
 
 Les comités régionaux sont présidés par un magistrat du corps des cours
 administratives d'appel et des tribunaux administratifs ou du corps des

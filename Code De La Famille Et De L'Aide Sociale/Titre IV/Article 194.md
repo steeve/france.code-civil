@@ -14,7 +14,7 @@ Si l'absence résulte de circonstances excluant toute liberté de choix du lieu 
 séjour ou d'un traitement dans un établissement hospitalier situé hors du
 département où réside habituellement le bénéficiaire de l'aide sociale, le délai
 de trois mois ne commence à courir que du jour où ces circonstances n'existent
-plus *point de départ*.
+plus.
 
 A défaut de domicile de secours, les frais d'aide sociale incombent au
 département où réside l'intéressé au moment de la demande d'admission à l'aide
@@ -29,10 +29,8 @@ Lorsqu'il estime que le demandeur a son domicile de secours dans un autre
 département, le président du conseil général doit, dans le délai d'un mois après
 le dépôt de la demande, transmettre le dossier au président du conseil général
 du département concerné. Celui-ci doit, dans le mois qui suit, se prononcer sur
-sa compétence. Si ce ce dernier n'admet pas sa compétence, il transmet le
-dossier au tribunal administratif dans le ressort duquel se trouve le lieu de
-résidence du demandeur. Le président du tribunal ou le magistrat qu'il délègue
-statue sur la détermination du domicile de secours en la forme des référés.
+sa compétence. Si ce dernier n'admet pas sa compétence, il transmet le dossier à
+la commission centrale d'aide sociale instituée par l'article 129.
 
 Lorsque la situation du demandeur exige une décision immédiate, le président du
 conseil général prend ou fait prendre la décision. Si, ultérieurement, l'examen

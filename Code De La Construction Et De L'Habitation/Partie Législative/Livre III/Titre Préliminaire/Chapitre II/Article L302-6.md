@@ -1,6 +1,6 @@
 Article L302-6
 ----
-A compter du 1er janvier 1993, les communes visées à l'article L. 302-5 sont
+A compter du 1er janvier 1994, les communes visées à l'article L. 302-5 sont
 tenues de prendre, dans les limites de leurs compétences et dans le cadre des
 dispositions du présent chapitre, les mesures propres à permettre l'acquisition
 de terrains ou de locaux nécessaires à la réalisation de logements à usage
