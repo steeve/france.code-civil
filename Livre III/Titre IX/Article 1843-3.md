@@ -20,7 +20,12 @@ prévues à l'alinéa précédent.
 L'associé qui devait apporter une somme dans la société et qui ne l'a point fait
 devient de plein droit et sans demande, débiteur des intérêts de cette somme à
 compter du jour où elle devait être payée et ce sans préjudice de plus amples
-dommages-intérêts, s'il y a lieu.
+dommages-intérêts, s'il y a lieu. En outre, lorsqu'il n'a pas été procédé dans
+un délai légal aux appels de fonds pour réaliser la libération intégrale du
+capital, tout intéressé peut demander au président du tribunal statuant en
+référé soit d'enjoindre sous astreinte aux administrateurs, gérants et
+dirigeants de procéder à ces appels de fonds, soit de désigner un mandataire
+chargé de procéder à cette formalité.
 
 L'associé qui s'est obligé à apporter son industrie à la société lui doit compte
 de tous les gains qu'il a réalisés par l'activité faisant l'objet de son apport.
