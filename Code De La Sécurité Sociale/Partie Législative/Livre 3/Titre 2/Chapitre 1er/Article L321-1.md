@@ -17,9 +17,9 @@ d'examens de laboratoire ordonnés en vue de prescriptions contraceptives ;
 trouvant dans l'obligation de se déplacer pour recevoir les soins ou subir les
 examens appropriés à leur état ainsi que pour se soumettre à un contrôle
 prescrit en application de la législation de sécurité sociale, selon les règles
-définies par l'article L. 322-5 et dans les conditions et limites tenant compte
-de l'état du malade et du coût du transport fixées par décret en Conseil d'Etat
-;
+définies par les articles L. 162-4-1 et L. 322-5 et dans les conditions et
+limites tenant compte de l'état du malade et du coût du transport fixées par
+décret en Conseil d'Etat ;
 
 3°) la couverture, sur décision de la commission d'éducation spéciale créée par
 l'article 6 de la loi n° 75-534 du 30 juin 1975, des frais d'hébergement et de
@@ -35,8 +35,9 @@ la section I du chapitre III bis du titre Ier du livre II du code de la santé
 publique ;
 
 5°) l'octroi d'indemnités journalières à l'assuré qui se trouve dans
-l'incapacité physique constatée par le médecin traitant de continuer ou de
-reprendre le travail ; l'incapacité peut être également constatée par la
+l'incapacité physique constatée par le médecin traitant, selon les règles
+définies par l'article L. 162-4-1, de continuer ou de reprendre le travail ;
+l'incapacité peut être également constatée, dans les mêmes conditions, par la
 sage-femme dans la limite de sa compétence professionnelle et pour une durée
 fixée par décret ; toutefois, les arrêts de travail prescrits à l'occasion d'une
 cure thermale ne donnent pas lieu à indemnité journalière, sauf lorsque la

@@ -27,3 +27,11 @@ Le bénéfice de la proratisation mentionnée à l'alinéa précédent est rése
 personnes qui sont redevables d'un montant minimum de cotisations fixé par
 décret aux autres régimes obligatoires dont relèvent leurs activités
 accessoires.
+
+Par dérogation aux dispositions du premier alinéa, le montant de la cotisation
+annuelle assise sur le revenu forfaitaire visé à l'article L. 131-6 ne peut
+excéder, au titre de la première année civile d'activité, celui qui serait dû
+sur dix-huit fois la valeur de la base mensuelle de calcul des prestations
+familiales en vigueur au 1er octobre de l'année précédente et, au titre de la
+deuxième année civile d'activité, celui qui serait dû sur vingt-sept fois cette
+valeur.

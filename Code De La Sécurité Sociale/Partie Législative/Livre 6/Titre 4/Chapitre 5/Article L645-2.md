@@ -1,33 +1,32 @@
 Article L645-2
 ----
-Le financement des avantages de vieillesse prévus au présent chapitre est assuré
-:
+Le financement des avantages vieillesse prévu au présent chapitre est assuré par
+une cotisation des bénéficiaires déterminée, dans des conditions fixées par
+décret, sur des bases forfaitaires tenant compte, le cas échéant, de
+l'importance du revenu que les bénéficiaires tirent de leur activité
+professionnelle de praticien ou d'auxiliaire médical, pour chacune des
+catégories professionnelles intéressées par référence aux tarifs plafonds fixés
+par les conventions prévues pour ces professions aux articles L. 162-5, L.
+162-9, L. 162-12-2, L. 162-12-9 et L. 162-14.
 
-1°) par une cotisation des bénéficiaires déterminée, dans des conditions fixées
-par décret, sur des bases forfaitaires, pour chacune des catégories
-professionnelles intéressées par référence aux tarifs plafonds fixés par
-application des articles L. 162-5, L. 162-5-2, L. 162-5-8, L. 162-5-9, L. 162-9,
-L. 162-12-2, L. 162-11, L. 162-12-2, L. 162-12-9 et L. 162-14-1 compte tenu, le
-cas échéant, de l'importance du revenu que les bénéficiaires tirent de leur
-activité professionnelle de praticien ou d'auxiliaire médical ;
+Les caisses d'assurance maladie prennent en charge une partie de la cotisation
+due. Un décret fixe le niveau de cette participation et les modalités de sa
+répartition entre le régime général d'assurance maladie, les régimes d'assurance
+maladie des professions agricoles et le régime d'assurance maladie et maternité
+des travailleurs non salariés des professions non agricoles. Ce décret précise
+également les conditions dans lesquelles le niveau de la participation peut être
+majoré par les conventions mentionnées aux articles L. 162-5, L. 162-9, L.
+162-12-2, L. 162-12-9 et L. 162-14 pour les professionnels de santé qui ont
+adhéré au contrat prévu à l'article L. 162-12-18.
 
-2°) par une cotisation annuelle du régime général d'assurance maladie, des
-régimes d'assurance maladie des professions agricoles et du régime d'assurance
-maladie et maternité des travailleurs non salariés des professions
-non-agricoles, assise sur les mêmes bases que ci-dessus ; les règles relatives
-au taux de cette cotisation et les modalités de sa répartition entre les régimes
-susmentionnés et de son versement sont fixées par décret, pour chacune des
-catégories de professions intéressées.
+La participation prévue à l'alinéa précédent n'est toutefois pas due aux
+médecins autorisés par la convention nationale à pratiquer des honoraires
+différents des tarifs qu'elle fixe.
 
-La cotisation prévue au 2° du présent article n'est due qu'autant que le
-médecin, le chirurgien-dentiste, la sage-femme ou l'auxiliaire médical a versé
-la cotisation à sa charge dans un délai fixé par décret.
+La participation des caisses ne peut être allouée que si le professionnel
+concerné a versé la cotisation à sa charge dans un délai fixé par décret.
 
-Toutefois, lorsque la convention nationale prévoit que certains médecins peuvent
-choisir de pratiquer des tarifs différents de ceux qu'elle fixe, ces médecins
-prennent en charge la cotisation des caisses d'assurance maladie mentionnée au
-2°, et la versent dans les mêmes conditions que pour la cotisation prévue au 1°.
-Il en est de même des praticiens et auxiliaires médicaux pour lesquels les
-caisses décident, dans les conditions prévues par les conventions mentionnées
-aux articles L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9 et L. 162-14-1, de
-suspendre le versement qui leur incombe en application du 2° ci-dessus.
+La participation peut en outre être partiellement ou totalement suspendue, dans
+les conditions prévues par les conventions mentionnées aux articles L. 162-5, L.
+162-9, L. 162-12-2, L. 162-12-9 et L. 162-14, pour les professionnels ne
+respectant pas les clauses qu'elles déterminent.

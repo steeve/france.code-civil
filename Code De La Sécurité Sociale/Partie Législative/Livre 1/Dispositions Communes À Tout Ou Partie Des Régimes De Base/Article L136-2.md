@@ -65,8 +65,16 @@ présent code lorsqu'elles sont exonérées en vertu des deux articles précité
 5° Les indemnités de licenciement ou de mise à la retraite et toutes autres
 sommes versées à l'occasion de la rupture du contrat de travail pour la fraction
 qui excède le montant prévu par la convention collective de branche, l'accord
-professionnel ou interprofessionnel ou à défaut par la loi, ainsi que toutes
-sommes versées à l'occasion de la modification du contrat de travail ;
+professionnel ou interprofessionnel ou à défaut par la loi, ou, en tout état de
+cause, est assujettie à l'impôt sur le revenu en application de l'article 80
+duodecies du code général des impôts, ainsi que toutes sommes versées à
+l'occasion de la modification du contrat de travail ;
+
+5° bis Les indemnités versées à l'occasion de la cessation de leurs fonctions
+aux mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du
+code général des impôts, ou, en cas de cessation forcée de ces fonctions, la
+fraction de ces indemnités qui excède les montants définis au deuxième alinéa du
+1 de l'article 80 duodecies du même code ;
 
 6° L'allocation visée à l'article 15 de la loi n° 94-629 du 25 juillet 1994
 relative à la famille ;

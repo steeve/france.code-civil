@@ -44,3 +44,10 @@ location, dans ce dernier cas, comprenne ou non tout ou partie des éléments
 incorporels du fonds de commerce ou d'industrie, lorsque ces revenus sont perçus
 par une personne qui réalise des actes de commerce au titre de l'entreprise
 louée ou y exerce une activité.
+
+Sont aussi prises en compte les indemnités versées à l'occasion de la rupture du
+contrat de travail à l'initiative de l'employeur ou à l'occasion de la cessation
+forcée des fonctions des mandataires sociaux, dirigeants et personnes visées à
+l'article 80 ter du code général des impôts, à hauteur de la fraction de ces
+indemnités qui est assujettie à l'impôt sur le revenu en application de
+l'article 80 duodecies du même code.

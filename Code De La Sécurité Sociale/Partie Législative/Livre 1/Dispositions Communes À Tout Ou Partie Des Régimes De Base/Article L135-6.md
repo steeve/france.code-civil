@@ -11,5 +11,10 @@ charge des sociétés visé au deuxième alinéa de l'article L. 651-2-1 ;
 conditions fixées par arrêté du ministre chargé de la sécurité sociale et du
 ministre chargé du budget ;
 
-3° Toute ressource affectée au fonds de réserve en vertu de dispositions
+3° Les montants résultant de l'application de l'article L. 251-6-1 ;
+
+3° bis Une fraction égale à 49 % du produit des prélèvements visés aux articles
+L. 245-14 à L. 245-16 ;
+
+4° Toute ressource affectée au fonds de réserve en vertu de dispositions
 législatives.

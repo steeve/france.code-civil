@@ -5,8 +5,5 @@ sont constituées, indépendamment des contributions de l'Etat prévues par les
 dispositions législatives et réglementaires en vigueur, par des cotisations
 proportionnelles aux rémunérations ou gains perçus par les assurés, par une
 fraction du produit des contributions sociales mentionnées aux articles L.
-136-1, L. 136-6, L. 136-7, L. 136-7-1, et une fraction du produit des droits
-visé à l'article L. 139-1, à concurrence du montant correspondant à
-l'application des dispositions de l'article L. 139-2, et par la fraction du
-produit des cotisations créées par l'article L. 213-1 du code des assurances
-revenant au régime général de sécurité sociale.
+136-1, L. 136-6, L. 136-7, L. 136-7-1, et par le produit de la cotisation visée
+à l'article L. 213-1 du code des assurances.

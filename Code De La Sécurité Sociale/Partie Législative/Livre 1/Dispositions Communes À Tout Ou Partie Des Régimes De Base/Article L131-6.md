@@ -41,3 +41,11 @@ forfaitaire inférieure, dès lors que les éléments d'appréciation fournis pa
 celui-ci sur l'importance de ses revenus professionnels, au cours de l'année au
 titre de laquelle la cotisation est due, établissent que ces revenus sont
 inférieurs à l'assiette retenue en application de cet alinéa.
+
+Sans préjudice du précédent alinéa, les cotisations mentionnées au premier
+alinéa dues au titre de la première année civile d'activité sont calculées à
+titre provisionnel sur une base forfaitaire qui ne peut excéder dix-huit fois la
+valeur de la base mensuelle de calcul des prestations familiales en vigueur au
+1er octobre de l'année précédente ; celles dues au titre de la deuxième année
+civile d'activité sont calculées à titre provisionnel sur une base forfaitaire
+qui ne peut excéder vingt-sept fois cette valeur.

@@ -5,12 +5,8 @@ pris après consultation de la Caisse nationale de l'assurance maladie des
 travailleurs salariés, des organisations syndicales représentatives des
 généralistes et des spécialistes et, en tant qu'il comporte des dispositions
 relatives à la déontologie médicale, du Conseil national de l'ordre des
-médecins. Ce règlement fixe les tarifs des honoraires, rémunérations et frais
-accessoires dus aux médecins par les assurés sociaux en dehors des cas de
-dépassements autorisés, et les dispositions et sanctions visées aux articles L.
-162-5 et L. 162-5-2. Il définit notamment les conditions dans lesquelles, en cas
-de dépassement de l'objectif, les médecins sont tenus de procéder à un
-reversement.
+médecins. Ce règlement fixe les dispositions et sanctions visées à l'article L.
+162-5 et au II de l'article L. 162-5-13.
 
 Le règlement conventionnel minimal s'applique en l'absence de convention
 nationale.

@@ -7,7 +7,7 @@ intervient à compter du soixantième anniversaire de l'intéressé ou
 ultérieurement, est subordonné à la cessation définitive de l'activité non
 salariée et, pour les assurés exerçant une activité salariée, à la rupture
 définitive de tout lien professionnel avec l'employeur. Cette condition cesse
-d'être appliquée à compter du 31 décembre 1998.
+d'être appliquée à compter du 31 décembre 2000.
 
 Le service d'une pension de retraite ou allocation liquidée par le régime
 d'assurance vieillesse des personnes non salariées des professions agricoles est

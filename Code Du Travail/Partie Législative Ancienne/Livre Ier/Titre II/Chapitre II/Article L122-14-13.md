@@ -14,8 +14,7 @@ travail ou un contrat de travail, au versement d'une indemnité de départ en
 retraite équivalente soit à l'indemnité de licenciement prévue par l'article 5
 de l'accord mentionné au premier alinéa s'il remplit les conditions fixées pour
 en bénéficier, soit à l'indemnité minimum de licenciement prévue à l'article L.
-122-9 du présent code. Les indemnités de départ mentionnées au présent alinéa
-obéissent au même régime fiscal et social que l'indemnité de licenciement.
+122-9 du présent code.
 
 La mise à la retraite s'entend par la possibilité donnée à l'entreprise de
 rompre le contrat de travail d'un salarié qui peut bénéficier d'une pension de

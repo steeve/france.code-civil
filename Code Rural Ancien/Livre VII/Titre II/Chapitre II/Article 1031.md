@@ -11,10 +11,15 @@ l'employeur ou ayant donné lieu à rachat de cotisations, à l'exclusion des
 bonifications ou majorations pour enfants autres que les annuités
 supplémentaires. Elles sont également constituées par une fraction du produit
 des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L.
-136-7, L. 136-7-1 du code de la sécurité sociale, et par une fraction du produit
-des droits visé à l'article L. 139-1 du même code, à concurrence du montant
-correspondant à l'application des dispositions de l'article L. 139-2 du même
-code.
+136-7, L. 136-7-1 du code de la sécurité sociale.
+
+Sont prises en compte dans l'assiette des cotisations visées au premier alinéa
+les indemnités versées à l'occasion de la rupture du contrat de travail à
+l'initiative de l'employeur ou à l'occasion de la cessation forcée des fonctions
+des mandataires sociaux, dirigeants et personnes visées à l'article 80 ter du
+code général des impôts, à hauteur de la fraction de ces indemnités qui est
+assujettie à l'impôt sur le revenu en application de l'article 80 duodecies du
+même code.
 
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des
 cotisations dues par l'employeur et par le salarié au titre de l'assurance
