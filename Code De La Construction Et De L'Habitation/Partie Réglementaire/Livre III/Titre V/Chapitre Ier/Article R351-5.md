@@ -1,13 +1,13 @@
 Article R351-5
 ----
 Les ressources servant à déterminer le loyer minimum qui doit rester à la charge
-du bénéficiaire et le coefficient de prise en charge, tels que définis à
-l'article R. 351-19, sont celles perçues pendant l'année civile précédent la
-période prévue par l'article R. 351-4 par le bénéficiaire, son conjoint et les
-personnes vivant habituellement au foyer. Sont considérées comme vivant
-habituellement au foyer les personnes y ayant résidé plus de six mois au cours
-de ladite année civile et qui y résident encore au moment de la demande ou au
-début de la période de paiement.
+du bénéficiaire et le coéfficient de prise en charge, tels que définis à
+l'article R. 351-19, sont celles percues pendant l'année civile précédant la
+période prévue par l'article R.351-4 par le bénéficiaire son conjoint et les
+personnes vivant habituellement au foyer, sauf dans les cas mentionnés à
+l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les
+personnes y ayant résidé plus de six mois au cours de ladite année civile et qui
+y résident encore au moment de la demande ou au début de la période de paiement.
 
 Ces ressources s'entendent du revenu net imposable de l'année civile de
 référence susmentionnée, abstraction faite des déductions opérées en vertu de
