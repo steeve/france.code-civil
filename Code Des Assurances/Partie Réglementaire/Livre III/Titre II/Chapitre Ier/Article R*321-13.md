@@ -11,7 +11,9 @@ recommandée de présenter ses observations par écrit dans un délai de quinzai
 L'entreprise peut se pourvoir devant le Conseil d'Etat dans les deux mois de la
 notification du refus d'agrément, total ou partiel, ou, en l'absence de
 notification, à l'expiration d'un délai de six mois à compter du dépôt d'un
-dossier régulièrement constitué de demande d'agrément.
+dossier régulièrement constitué de demande d'agrément. Ce délai de six mois est
+prorogé lorsque le ministre sursoit à une décision d'agrément en application des
+dispositions du II de l'article R. 321-1.
 
 Le ministre de l'économie et des finances peut appeler à se prononcer à nouveau,
 dans le délai d'un mois, la commission des entreprises d'assurance, dans

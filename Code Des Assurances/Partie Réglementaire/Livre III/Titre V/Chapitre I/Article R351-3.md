@@ -19,3 +19,11 @@ public ;
 
 c) Les bases tarifaires que l'entreprise envisage d'appliquer pour chaque
 catégorie d'opérations.
+
+3° La désignation du représentant pour la gestion des sinistres mentionné à
+l'article L. 351-6-1 ainsi que les déclarations d'adhésion au fonds de garantie
+mentionné à l'article L. 421-2 et au bureau central français, lorsque
+l'entreprise se propose de couvrir, sur le territoire de la République
+française, les risques de responsabilité civile résultant de l'emploi de
+véhicules terrestres à moteur autre que la responsabilité civile du
+transporteur.
