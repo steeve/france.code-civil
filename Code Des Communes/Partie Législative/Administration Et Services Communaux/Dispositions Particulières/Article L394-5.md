@@ -1,0 +1,21 @@
+Article L394-5
+----
+L'Etat participe aux dépenses de fonctionnement de la brigade de
+sapeurs-pompiers de Paris, y compris les dépenses d'entretien, de réparation et
+de loyer du casernement.
+
+Dans la double limite des dotations inscrites au budget de l'Etat et des
+paiements effectués par la préfecture de police au cours de l'exercice
+considéré, la participation de l'Etat est égale aux trois quarts [*proportion*]
+des dépenses suivantes inscrites au budget spécial de la préfecture de police ;
+
+1° Rémunération des militaires de la brigade de sapeurs-pompiers de Paris, y
+compris l'alimentation des militaires pendant la durée légale du service ;
+
+2° Frais d'habillement, de déplacement, de transport et de mission concernant
+les personnels prévus à l'alinéa précédent ;
+
+3° Dépenses des services d'instruction et de santé ;
+
+4° Entretien, réparations, acquisitions et installations du matériel de lutte
+contre l'incendie, du matériel de transport et du matériel de transmissions.
