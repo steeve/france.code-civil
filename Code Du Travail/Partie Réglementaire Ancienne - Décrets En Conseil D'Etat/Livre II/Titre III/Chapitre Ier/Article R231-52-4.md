@@ -13,17 +13,17 @@ l'emballage, à ses propriétés physico-chimiques, toxicologiques et
 
 Les éléments de ce dossier et les conditions dans lesquelles les études et les
 essais portant sur la substance doivent être pratiqués, sont précisés par arrêté
-des ministres chargés du travail et de l'agriculture.
+des ministres chargés du travail, de l'environnement et de l'agriculture.
 
 2° Les renseignements mentionnés aux b, c, d, e et f du I de l'article R.
 231-52-3 ci-dessus.
 
 II. - Dans le cas des substances mises sur le marché en quantités inférieures à
 100 kg et supérieures à 10 kg par an et par fabricant, un arrêté des ministres
-chargés du travail et de l'agriculture fixe la nature des informations qui
-devront figurer dans le dossier technique réduit à présenter ainsi que les
-conditions dans lesquelles les études et les essais portant sur la substance
-doivent être pratiqués.
+chargés du travail, de l'environnement et de l'agriculture fixe la nature des
+informations qui devront figurer dans le dossier technique réduit à présenter
+ainsi que les conditions dans lesquelles les études et les essais portant sur la
+substance doivent être pratiqués.
 
 III. - Lorsque les substances visées au II ci-dessus ne sont utilisées qu'à des
 fins de recherche et de développement scientifiques et sous contrôle, le

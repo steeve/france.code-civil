@@ -6,15 +6,14 @@ Etat membre de la Communauté européenne avant le 18 septembre 1981 et ne
 figurent pas dans l'inventaire européen des substances commerciales existantes
 publié au Journal officiel des communautés européennes du 15 juin 1990.
 
-Indépendamment de la déclaration prévue à l'article 3 de la loi n° 77-771 du 12
-juillet 1977 sur le contrôle des produits chimiques, tout fabricant ou
-importateur d'une telle substance chimique doit fournir à un organisme agréé par
-le ministre chargé du travail et par le ministre chargé de l'agriculture les
-informations mentionnées au troisième alinéa de l'article L. 231-7 avant de
-mettre cette substance sur le marché soit en l'état, soit au sein d'une
-préparation lorsque cette substance ou cette préparation est susceptible d'être
-utilisée dans les établissements soumis aux dispositions du titre III du livre
-II du présent code.
+Indépendamment de la déclaration prévue à l'article L. 521-3 du code de
+l'environnement tout fabricant ou importateur d'une telle substance chimique
+doit fournir à un organisme agréé par le ministre chargé du travail et par le
+ministre chargé de l'agriculture les informations mentionnées au troisième
+alinéa de l'article L. 231-7 avant de mettre cette substance sur le marché soit
+en l'état, soit au sein d'une préparation lorsque cette substance ou cette
+préparation est susceptible d'être utilisée dans les établissements soumis aux
+dispositions du titre III du livre II du présent code.
 
 Au sens de la présente sous-section, toute mise à disposition des tiers est
 considérée comme une mise sur le marché, y compris lorsqu'il s'agit d'une

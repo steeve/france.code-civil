@@ -4,18 +4,22 @@ Les fabricants, importateurs ou vendeurs portent à la connaissance des chefs
 d'établissement et travailleurs indépendants utilisateurs de substances ou
 préparations dangereuses les renseignements nécessaires à la prévention et à la
 sécurité par une fiche de données de sécurité concernant lesdits produits tels
-qu'ils sont mis sur le marché. Ces fiches de données de sécurité doivent être
-transmises par le chef d'établissement au médecin du travail.
-
-Le présent article n'est pas applicable aux formes massives non dispersables des
-métaux et de leurs alliages ainsi qu'à celles des polymérisats et des
-élastomères.
+qu'ils sont mis sur le marché. Une fiche de données de sécurité est également
+fournie, sur demande des utilisateurs professionnels, pour les préparations qui
+ne sont pas classées dangereuses mais qui contiennent, en concentration
+individuelle supérieure ou égale à 1 % en masse pour les préparations autres que
+gazeuses et supérieure ou égale à 0,2 % en volume pour les préparations
+gazeuses, au moins une substance présentant un danger pour la santé ou
+l'environnement au sens de l'article R. 231-51 ou une substance pour laquelle il
+existe une valeur limite d'exposition, telle que définie à l'article R. 232-5-5.
+Ces fiches de données de sécurité doivent être transmises par le chef
+d'établissement au médecin du travail.
 
 En outre, sauf dans le cas où le chef d'établissement ou le travailleur
 indépendant utilisateur de ces produits en fait explicitement la demande, la
 fourniture d'une fiche de données n'est pas obligatoire pour les produits
-dangereux visés au I de l'article L. 626-1 du code de la santé publique dès lors
-que leur mise sur le marché est assortie d'informations permettant d'assurer la
+dangereux visés à l'article L. 1342-1 du code de la santé publique dès lors que
+leur mise sur le marché est assortie d'informations permettant d'assurer la
 sécurité et de préserver la santé des utilisateurs.
 
 La fiche de données de sécurité doit comporter les indications suivantes :
@@ -58,15 +62,17 @@ l'étiquetage du produit ;
 la santé des travailleurs.
 
 La fiche de données de sécurité, actualisée en tant que de besoin, est datée et
-fournie gratuitement à ses destinataires au moment de la première livraison et,
-par la suite, après toute révision comportant de nouvelles informations
-significatives sur le produit, sur ses propriétés ou sur les précautions à
-prendre lors de sa manipulation.
+fournie gratuitement au moment de la première livraison, pour les substances et
+préparations dangereuses, et sur demande des utilisateurs professionnels, pour
+les autres préparations mentionnées au premier alinéa.
 
-La nouvelle version d'une fiche de données de sécurité, qui doit être identifiée
-en tant que telle, est fournie gratuitement à tous les chefs d'établissement ou
-travailleurs indépendants qui, dans les douze mois précédant la révision, ont
-reçu de leur fournisseur la substance ou la préparation dangereuse concernée.
+Après toute révision d'une fiche de données de sécurité comportant de nouvelles
+informations significatives sur le produit, sur ses propriétés ou sur les
+précautions à prendre lors de sa manipulation, une nouvelle version de cette
+fiche, identifiée en tant que telle, est fournie gratuitement à tous les
+destinataires antérieurs qui, dans les douze mois précédant la révision, ont
+reçu de leur fournisseur la substance ou la préparation concernée.
 
-Un arrêté des ministres chargés du travail et de l'agriculture précisera les
-modalités de transmission et d'élaboration de la fiche de données de sécurité.
+Un arrêté des ministres chargés du travail, de l'environnement et de
+l'agriculture précisera les modalités de transmission et d'élaboration de la
+fiche de données de sécurité.

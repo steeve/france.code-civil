@@ -13,9 +13,10 @@ utilisations, aux méthodes et précautions à prendre, aux mesures d'urgence et
 l'emballage, à ses propriétés physico-chimiques, toxicologiques et
 écotoxicologiques et aux possibilités de la rendre inoffensive.
 
-Un arrêté des ministres chargés du travail et de l'agriculture précise le
-contenu du dossier, la nature des études et des essais portant sur la substance
-ainsi que les conditions dans lesquelles ils doivent être pratiqués ;
+Un arrêté des ministres chargés du travail, de l'environnement et de
+l'agriculture précise le contenu du dossier, la nature des études et des essais
+portant sur la substance ainsi que les conditions dans lesquelles ils doivent
+être pratiqués ;
 
 b) Une déclaration concernant les effets défavorables de la substance en
 fonction des différentes utilisations prévisibles ;
@@ -49,7 +50,7 @@ leur responsabilité collective.
 
 La nature et les modalités de ces essais complémentaires sont précisées, en
 fonction des quantités mises sur le marché, par arrêté des ministres chargés du
-travail et de l'agriculture.
+travail, de l'environnement et de l'agriculture.
 
 II - S'il n'est pas possible techniquement ou s'il ne paraît pas nécessaire de
 fournir une information, les raisons devront en être indiquées.
@@ -59,3 +60,12 @@ ci-dessus énumérées tous autres éléments dont il dispose et qui seraient ut
 à l'appréciation des risques encourus par les travailleurs, notamment les
 résultats d'essais sur le métabolisme, sur la toxicité chronique ou sur d'autres
 effets à long terme si ces essais ont été réalisés.
+
+IV. - Pour les substances utilisées uniquement comme intermédiaires de synthèse
+et pour lesquelles l'exposition est limitée, l'organisme agréé prévu au
+troisième alinéa de l'article L. 231-7 peut autoriser le déclarant à réaliser
+une batterie d'essais réduite.
+
+Les situations d'exposition en cause ainsi que la nature et les modalités de
+cette batterie d'essais sont précisées par un arrêté des ministres chargés du
+travail, de l'environnement et de l'agriculture.

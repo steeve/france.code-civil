@@ -33,4 +33,4 @@ III. Lorsque plus de dix ans se sont écoulés après la première déclaration
 régulière d'une substance dans un Etat membre de la Communauté européenne, le
 déclarant en France de cette substance est seulement tenu de présenter un
 dossier technique restreint dont la composition est précisée par un arrêté des
-ministres chargés du travail et de l'agriculture.
+ministres chargés du travail, de l'environnement et de l'agriculture.
