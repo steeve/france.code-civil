@@ -1,7 +1,7 @@
 Article 1087
 ----
-Dans tous les cas, le juge aux affaires matrimoniales statue, sans formalité,
-sur les demandes respectives. Sa décision est, de droit, exécutoire à titre
+Dans tous les cas, le juge aux affaires familiales statue, sans formalité, sur
+les demandes respectives. Sa décision est, de droit, exécutoire à titre
 provisoire.
 
 Le délai d'appel est de quinze jours ; il court à compter de la notification.

@@ -1,6 +1,8 @@
 Article 1202
 ----
-Les demandes en délégation, déchéance ou retrait partiel de l'autorité parentale
-sont portées devant [*compétence*] le tribunal de grande instance du lieu où
-demeure soit le mineur s'il s'agit de délégation, soit, dans les autres cas,
-l'ascendant contre lequel l'action est exercée.
+Les demandes en déchéance ou retrait partiel de l'autorité parentale sont
+portées devant le tribunal de grande instance du lieu où demeure l'ascendant
+contre lequel l'action est exercée.
+
+Les demandes en délégation de l'autorité parentale sont portées devant le juge
+aux affaires familiales du lieu où demeure le mineur.

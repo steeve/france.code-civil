@@ -1,6 +1,6 @@
 Article 1102
 ----
-Les décisions du juge aux affaires matrimoniales sont susceptibles d'appel, à
+Les décisions du juge aux affaires familiales sont susceptibles d'appel, à
 l'exception de celles qui homologuent les conventions des époux ou qui
 prononcent le divorce.
 

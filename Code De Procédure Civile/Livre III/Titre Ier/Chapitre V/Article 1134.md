@@ -1,6 +1,6 @@
 Article 1134
 ----
-Après examen, le juge aux affaires matrimoniales convoque [*pouvoirs*] les époux
+Après examen, le juge aux affaires familiales convoque [*pouvoirs*] les époux
 par lettre recommandée avec demande d'avis de réception [*modalités - formes*]
 expédiée quinze jours au moins [*délai*] à l'avance et confirmée le même jour
 par lettre simple. Il avise les avocats.

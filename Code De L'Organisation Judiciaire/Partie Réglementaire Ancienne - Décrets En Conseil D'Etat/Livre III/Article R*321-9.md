@@ -1,14 +1,8 @@
 Article R*321-9
 ----
-Le tribunal d'instance connaît, à charge d'appel [*compétence*] :
+Le tribunal d'instance connaît, à charge d'appel :
 
-1° Des demandes en paiement, révision ou suppression des pensions alimentaires
-fondées sur les articles 203, 205, 206, 207, 214, 334, 1448 et 1449 du Code
-civil, exception faite des demandes qui seraient formées pour l'entretien et
-l'éducation des enfants à la suite d'une action en divorce ou en séparation de
-corps, ainsi que des demandes qui seraient accessoires à une action en recherche
-de filiation. Lorsque le tribunal d'instance est appelé à statuer en vertu du
-présent numéro, les débats ont lieu en audience non publique.
+1° (Abrogé) ;
 
 2° Des actions possessoires ;
 
