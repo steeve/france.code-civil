@@ -1,6 +1,6 @@
 Article R351-3
 ----
-Sous réserve des dispositions prévues au dernier alinéa du présent article, le
+Sous réserve des dispositions prévues au deuxième alinéa du présent article, le
 droit à l'aide personnalisée est ouvert :
 
 Au locataire d'un logement conventionné en application de la section I du
@@ -20,3 +20,9 @@ locataire.
 L'aide personnalisée est maintenue, après expiration ou résiliation de la
 convention, au locataire ou à l'occupant qui acquitte un loyer et qui justifie
 des conditions prévues à l'article L. 353-9.
+
+le droit à l'A.P.L. est ouvert au locataire d'un logement ayant fait l'objet
+d'un contrat d'amélioration en application de l'article 59 de la loi n. 82-526
+du 22 juin 1982 et titulaire d'un contrat de location conforme aux stipulations
+du contrat d'amélioration, à compter de la première échéance du loyer prévu par
+le contrat de location.
