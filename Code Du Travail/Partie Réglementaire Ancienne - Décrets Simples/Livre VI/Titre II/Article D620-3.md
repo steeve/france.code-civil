@@ -1,7 +1,12 @@
 Article D620-3
 ----
-Dans les branches d'activité relevant, pour le contrôle de l'application de la
-réglementation du travail, de la compétence du ministre chargé des transports et
-du ministre chargé de l'agriculture, les attributions conférées par les articles
-D. 620-1 et D. 620-2 au directeur régional du travail et de l'emploi sont
-exercées par le fonctionnaire assimilé.
+Les dispositions de l'article D. 620-1 sont applicables au registre unique du
+personnel prévu à l'article L. 620-3 du présent code.
+
+Dans ce cas, l'employeur adresse à l'inspecteur du travail l'avis résultant de
+la consultation prévue à l'article L. 620-7.
+
+La dérogation ne peut en aucun cas porter sur l'obligation de tenir à la
+disposition des personnes mentionnées au troisième alinéa de l'article L. 620-3
+des copies des titres valant autorisation de travail pour les travailleurs
+étrangers assujettis à la possession d'un tel titre.
