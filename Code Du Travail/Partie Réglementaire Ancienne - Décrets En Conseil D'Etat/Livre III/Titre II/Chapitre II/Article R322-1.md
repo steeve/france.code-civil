@@ -35,5 +35,10 @@ Les conventions de conversion doivent être conformes à une convention type fix
 par arrêté conjoint du ministre de l'économie, des finances et du budget et du
 ministre du travail, de l'emploi et de la formation professionnelle.
 
-6° L'étude de la situation de l'emploi dans les régions ou les professions
+6° Dans les régions atteintes d'un grave déséquilibre de l'emploi, des mesures
+temporaires d'aide aux entreprises qui, dans le cadre de conventions conclues en
+application de l'article L. 322-2, favorisent la mobilité géographique de leurs
+salariés.
+
+7° L'étude de la situation de l'emploi dans les régions ou les professions
 atteintes ou menacées d'un grave déséquilibre de l'emploi.
