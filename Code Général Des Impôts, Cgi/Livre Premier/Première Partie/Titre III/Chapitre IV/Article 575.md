@@ -12,7 +12,7 @@ prévu à l'article 575 A, à leur prix de vente au détail. Le montant du droit
 consommation applicable à ces cigarettes ne peut être inférieur à 60 euros par 1
 000 unités et, à compter du 1er juillet 2006, à 64 euros par 1 000 unités.
 
-La part spécifique est égale à 5 % de la charge fiscale totale afférente aux
+La part spécifique est égale à 7,5 % de la charge fiscale totale afférente aux
 cigarettes de la classe de prix la plus demandée et comprenant le droit de
 consommation, la taxe sur la valeur ajoutée et la taxe sur les tabacs
 manufacturés.
