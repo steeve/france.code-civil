@@ -8,7 +8,12 @@ Les autres opérations ne sont prises en compte que si elles se concluent par la
 sortie effective de valeurs du patrimoine du cédant. La date est alors celle de
 la livraison des titres.
 
-Le prix de vente est diminué des frais inhérents à l'opération. Le remboursement
-aux associés de parts ou actions par les sociétés coopératives visées à
-l'article 199 quinquies-0 A du code général des impôts est assimilé à une
-cession à titre onéreux.
+Le prix de vente est diminué des frais inhérents à l'opération.
+
+Le remboursement aux associés de parts ou actions par les sociétés coopératives
+visées à l'article 199 quinquies-0 A du code général des impôts est assimilé à
+une cession à titre onéreux.
+
+Le remboursement aux sociétaires des parts de caisses de crédit agricole mutuel
+et des caisses de crédit mutuel agricole et rural régies par le titre 1er du
+livre V du code rural est assimilé à une cession à titre onéreux.

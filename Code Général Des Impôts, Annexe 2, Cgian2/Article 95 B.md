@@ -26,4 +26,7 @@ Les sociétés commerciales pour la souscription des actions reçues en dépôt 
 application des articles 95 et 130 de la loi n° 66-537 du 24 juillet 1966 sur
 les sociétés commerciales. Les sociétés coopératives et leurs unions mentionnées
 à l'article 199 quinquies-0 A du code général des impôts pour la souscription ou
-la cession de leurs parts ou actions.
+la cession de leurs parts ou actions. Les caisses locales de crédit agricole
+mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le
+titre Ier du livre V du code rural, pour la souscription ou la cession de leurs
+parts.
