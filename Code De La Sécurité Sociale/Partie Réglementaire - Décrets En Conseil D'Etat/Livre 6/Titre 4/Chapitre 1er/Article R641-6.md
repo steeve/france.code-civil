@@ -1,6 +1,6 @@
 Article R641-6
 ----
-Il est institué 13 sections professionnelles :
+Il est institué 12 sections professionnelles :
 
 1°) la section professionnelle des notaires ;
 
@@ -27,16 +27,7 @@ L. 382-1, des professeurs de musique et des musiciens ;
 
 10°) la section professionnelle des agents généraux d'assurances ;
 
-11°) la section professionnelle des architectes, agréés en architecture,
-ingénieurs, techniciens, experts et conseils ;
+11° La section professionnelle des architectes, agréés en architecture,
+ingénieurs, techniciens, géomètres, experts et conseils ;
 
-12°) la section professionnelle des experts-comptables et des comptables agréés
-;
-
-13°) la section professionnelle des géomètres et des experts agricoles et
-fonciers réunissant :
-
-a. les géomètres-experts ;
-
-b. les experts agricoles et fonciers inscrits sur les rôles de la taxe
-professionnelle.
+12°) la section professionnelle des experts-comptables et des comptables agréés.
