@@ -4,7 +4,7 @@ Article 38
 le bénéfice imposable [*définition*] est le bénéfice net, déterminé d'après les
 résultats d'ensemble des opérations de toute nature effectuées par les
 entreprises, y compris notamment les cessions d'éléments quelconques de l'actif,
-soit en cours, soit en fin d'exploitation.
+soit en cours, soit en fin d'exploitation (1).
 
 2. Le bénéfice net [*définition*] est constitué par la différence entre les
 valeurs de l'actif net à la clôture et à l'ouverture de la période dont les
@@ -47,3 +47,15 @@ au cours du jour de la clôture de l'exercice, si ce cours est inférieur au pri
 de revient.
 
 Les travaux en cours sont évalués au prix de revient.
+
+4. Pour l'application des 1 et 2, les écarts de conversion des devises ainsi que
+des créances et dettes libellées en monnaies étrangères par rapport aux montants
+initialement comptabilisés sont déterminés à la clôture de chaque exercice en
+fonction du dernier cours de change et pris en compte pour la détermination du
+résultat imposable de l'exercice (2).
+
+(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de
+nationalisation, voir art. 248 A.
+
+(2) Ces dispositions s'appliquent pour la détermination des résultats des
+exercices clos à compter du 31 décembre 1983.
