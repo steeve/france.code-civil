@@ -62,3 +62,11 @@ Les services définis audit article, dans la limite de quinze ans.
 IV - Par application de l'article L. 12 (9°), les périodes définies par cette
 disposition législative accomplies avant que le marin ait atteint l'âge de
 cinquante-cinq ans.
+
+V - Par application de l'article L. 12 (12°) :
+
+Dans la limite de la durée de services requis pour ouvrir droit à pension
+d'ancienneté, les périodes d'incapacité permanente de travail pendant lesquelles
+le marin a perçu, en raison d'une maladie ou d'un accident non professionnels,
+une pension d'invalidité sur la caisse générale de prévoyance des marins
+français.
