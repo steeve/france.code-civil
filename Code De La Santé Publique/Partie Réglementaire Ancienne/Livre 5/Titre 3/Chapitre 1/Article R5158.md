@@ -1,13 +1,47 @@
 Article R5158
 ----
-L'emploi desdites substances pour la destruction des parasites nuisibles à
-l'agriculture est interdit dans toutes les cultures et récoltes pour lesquelles
-leur emploi n'aura pas été autorisé par arrêté du ministre de l'Agriculture. Cet
-arrêté fixera pour chaque nature de culture et récolte et pour chaque région,
-les conditions auxquelles l'autorisation sera subordonnée, ainsi que les époques
-de l'année pendant lesquelles l'emploi desdites substances reste prohibé.
+Tout contenant ou emballage d'une substance ou d'une préparation mentionnée à
+l'article R. 5152 doit porter les mentions [*obligatoires*] suivantes :
 
-Un arrêté dudit ministre, pris après avis du conseil supérieur d'hygiène
-publique de France, déterminera les précautions que devront prendre les
-personnes qui emploieront, par application du présent article, des produits
-arsenicaux et notamment l'arséniate de plomb.
+1° Le nom de la substance tel qu'il figure à l'arrêté de classement ou,
+lorsqu'il s'agit d'une préparation, la désignation ou le nom commercial de
+ladite préparation ainsi que le nom de la (ou des) substances(s) vénéneuse(s)
+qu'elle contient ;
+
+2° Le nom ou la raison sociale et l'adresse ou le siège social du fabricant, ou
+du distributeur, ou de l'importateur ;
+
+3° Le ou les symboles d'identification de la catégorie à laquelle appartient la
+substance ou préparation ;
+
+4° Les phrases types prévues par l'arrêté de classement et concernant les
+risques particuliers que comporte son emploi ;
+
+5° Les phrases types prévues par l'arrêté de classement et concernant les
+conseils de prudence.
+
+Toutefois, pour les substances et préparations irritantes, le contenant,
+l'emballage ou l'étiquetage peuvent ne pas comporter [*exception*] les mentions
+prévues aux 4 et 5 ci-dessus, lorsque le contenu ne dépasse pas 125 ml. Dans ce
+cas, ces mentions doivent figurer sur une notice jointe à l'emballage ou au
+contenant. Il en est de même pour les substances et préparations nocives
+lorsqu'elles ne sont pas destinées à la vente au public.
+
+Les mentions doivent [*obligation*] être apposées sur le contenant ou
+l'emballage de façon apparente, lisible et en caractères indélébiles. Elles sont
+rédigées en langue française lorsque les substances ou préparations sont
+destinées au marché intérieur.
+
+Un arrêté des ministres chargés de la santé, de l'industrie, de l'agriculture,
+de l'environnement et de la consommation [*autorités compétentes*] détermine les
+modalités d'application des dispositions qui précèdent, et notamment :
+
+1° Les dimensions minimales de l'étiquette et les conditions dans lesquelles les
+mentions exigées doivent y être apposées ;
+
+2° La présentation et la couleur des mentions portées sur l'emballage ou
+l'étiquette.
+
+Il est interdit de faire figurer sur les contenants ou emballages de substances
+ou préparations mentionnées à l'article R. 5152 les indications "non toxique",
+"non nocif", ou toutes autres indications analogues.

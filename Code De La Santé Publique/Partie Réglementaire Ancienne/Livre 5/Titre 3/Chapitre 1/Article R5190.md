@@ -1,41 +1,27 @@
 Article R5190
 ----
-L'autorisation prévue à l'article R. 5165 ci-dessus est donnée par le ministre
-de la Santé publique et de la Population, sur l'avis conforme d'une commission
-dont la composition est fixée par un arrêté du ministre de la Santé publique et
-de la Population.
+Les dispositions de la présente section s'appliquent [*champ d'application*] aux
+médicaments mentionnés à l'article L. 511, aux produits insecticides ou
+acaricides, destinés à être appliqués sur l'homme et aux produits destinés à
+l'entretien ou à l'application des lentilles oculaires de contact, mentionnés à
+l'article L. 658-11, lorsque ces médicaments ou produits :
 
-L'autorisation ne peut être délivrée qu'à une personne physique ; elle est
-strictement attachée à la personne ; elle indique nommément chacune des
-substances ou préparations dont l'extraction, la transformation, la fabrication
-ou le commerce est autorisé.
+1° Sont classés, par arrêté du ministre chargé de la santé [*autorité
+compétente*], sur les listes I ou II définies à l'article R. 5204 ou comme
+stupéfiant ;
 
-En ce qui concerne les industriels qui extraient les alcaloïdes de l'opium, du
-pavot et de la coca, et les industriels qui effectuent la synthèse de substances
-inscrites au tableau B, un arrêté du ministre de la Santé publique et de la
-Population fixe les conditions particulières de contrôle de ces industries.
+2° Ou renferment une ou plusieurs substances ou préparations classées, par
+arrêté du ministre chargé de la santé, sur les listes I ou II ou comme
+stupéfiantes.
 
-L'autorisation est retirée par le ministre de la Santé publique et de la
-Population après avis de la commission ci-dessus prévue. Elle ne peut être
-accordée, et sera retirée, à quiconque aura été condamné pour trafic illicite de
-stupéfiants [*sanction*].
+Les médicaments ou produits mentionnés au premier alinéa peuvent faire l'objet
+d'un classement autre que celui de la ou des substances ou préparations classées
+qu'ils comportent. Ils sont alors soumis au régime se rapportant au classement
+mentionné au 1° ci-dessus.
 
-En cas de changement de domicile industriel et commercial, le titulaire en fait
-la déclaration au ministre de la Santé publique et de la Population avant
-l'ouverture du nouvel établissement, faute de quoi l'autorisation pourra lui
-être retirée.
+Lorsqu'un médicament ou un produit non classé contient plusieurs substances ou
+préparations relevant d'un classement différent, il est soumis au régime le plus
+strict se rapportant au classement de ces substances ou préparations selon
+l'ordre décroissant suivant :
 
-En cas de cessation de fabrication ou de commerce, le titulaire en informe le
-ministre de la Santé publique et de la Population, qui doit alors prononcer le
-retrait de l'autorisation.
-
-Sans préjudice des dispositions de l'article R. 5166, il est interdit à
-quiconque n'y a pas été autorisé conformément aux dispositions du présent
-article ou de l'article R. 5197, de détenir, d'acheter ou de se faire délivrer
-ces substances autrement que sur ordonnance de tout praticien habilité par les
-règlements en la matière à les prescrire pour les seuls usages thérapeutiques et
-dans les conditions spéciales fixées au présent code.
-
-Par dérogation aux dispositions de l'article R. 5198, les dispositions du
-présent article sont applicables à la méthylmorphine et ses sels, à
-l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+stupéfiant, liste I, liste II.

@@ -1,20 +1,25 @@
 Article R5206
 ----
-Les pharmaciens ne sont autorisés à délivrer des préparations contenant des
-substances du tableau B, que contre remise d'une ordonnance rédigée conformément
-aux dispositions de l'article R. 5201 [*condition*].
+Les récipients ou emballages contenant des médicaments ou produits auxquels
+s'appliquent les dispositions de l'article R. 5205 et qui n'ont pas fait l'objet
+d'un conditionnement destiné au public sont revêtus d'une étiquette d'un format
+adapté à leur volume, apposée de manière à ne pouvoir être involontairement
+détachée.
 
-Le pharmacien doit mentionner à l'ordonnancier les nom et adresse du malade et,
-éventuellement, du tiers qui lui présente l'ordonnance.
+Cette étiquette porte de façon apparente, en caractères lisibles et indélébiles,
+les indications suivantes [*mentions obligatoires*]:
 
-Si le porteur de l'ordonnance n'est pas connu du pharmacien, celui-ci doit lui
-demander une justification d'identité. Mention est alors portée sur
-l'ordonnancier de l'autorité qui a délivré la pièce d'identité, de son numéro,
-de la date à laquelle elle a été délivrée.
+1° La dénomination du contenu ;
 
-Les ordonnances non renouvelables sont conservées pendant trois ans [*durée*]
-par le pharmacien. Elles sont classées mensuellement pour être représentées à
-toute réquisition de l'autorité compétente.
+2° Le nom ou la raison sociale et l'adresse ou le siège social du fabricant ou
+du distributeur ou de l'importateur ;
 
-Copie des ordonnances non renouvelables est remise au client, avec les mentions
-prévues à l'article R. 5203.
+3° Pour les médicaments ou produits relevant de la liste I, une tête de mort à
+tibias croisés imprimée en noir, sur un fond carré de couleur orangé-jaune et de
+dimensions suffisantes ; ce carré est placé à l'angle supérieur gauche de
+l'étiquette ;
+
+4° Pour les médicaments ou produits relevant de la liste II, une croix de
+Saint-André imprimée en noir sur un fond carré de couleur orangé jaune et de
+dimensions suffisantes ; ce carré est placé à l'angle supérieur gauche de
+l'étiquette.

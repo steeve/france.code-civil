@@ -1,11 +1,9 @@
 Article R5161
 ----
-Les substances visées au présent paragraphe ne peuvent être délivrées en nature,
-lorsqu'elles sont destinées à la confection d'appâts empoisonnés pour la
-destruction des insectes et des animaux nuisibles [*interdiction*]. Elles
-doivent être mélangées à dix fois au moins leur poids de substances inertes et
-insolubles, puis additionnées d'une matière colorante intense rouge, noire,
-verte ou bleue.
-
-Par dérogation à l'article R. 5151 la délivrance au public de ces mélanges est
-interdite à quiconque n'est pas habilité à exercer la pharmacie.
+Pour des raisons d'hygiène et de santé publique, la mise sur le marché, la
+publicité et l'emploi des substances ou préparations mentionnées à l'article R.
+5152 peuvent faire l'objet de mesures d'interdiction ou de restriction ou de
+prescriptions particulières définies après avis du Conseil supérieur d'hygiène
+publique de France, par arrêté pris par le ministre chargé de la santé et, selon
+le cas, les ministres chargés de l'industrie, de l'agriculture ou des douanes
+[*autorités compétentes*].

@@ -1,26 +1,14 @@
 Article R5218
 ----
-Les récipients qui contiennent les produits visés au 1er alinéa de l'article R.
-5217 et les emballages qui les renferment doivent être munis d'étiquettes
-indiquant :
+Tout pharmacien qui cède son officine procède, en présence de l'acquéreur, à
+l'inventaire des substances, préparations ou médicaments classés comme
+stupéfiants. Cet inventaire est consigné sur le registre spécial des stupéfiants
+et contresigné par les intéressés.
 
-La dénomination générique de vente du produit ;
+Le cédant remet à l'acquéreur qui lui en donne décharge le registre spécial des
+stupéfiants et les pièces à conserver en vertu des articles R. 5210, R. 5214 et
+R. 5216.
 
-Le nom de la ou des substances vénéneuses y contenues, tel qu'il figure dans la
-liste fixée par l'arrêté prévu à l'article R. 5217 ;
-
-Le pourcentage pondéral de ces substances ;
-
-Le poids net du produit contenu dans le récipient ;
-
-Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du
-distributeur français d'un produit importé ;
-
-La mention ci-après qui doit occuper une surface ayant au moins deux centimètres
-de côté :
-
-"Ce produit est exclusivement destiné à l'emploi indiqué ;
-
-"Il serait dangereux de s'en servir pour un autre usage ;
-
-"Se conformer à la notice".
+En cas de fermeture définitive de l'officine, ce registre et ces pièces sont
+déposés à l'inspection régionale de la pharmacie. L'inspecteur régional
+[*autorité compétente*] procède à la destruction des substances.

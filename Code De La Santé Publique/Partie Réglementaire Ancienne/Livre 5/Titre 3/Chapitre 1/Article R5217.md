@@ -1,19 +1,33 @@
 Article R5217
 ----
-Il est interdit, sauf aux personnes réunissant les conditions exigées pour
-l'exercice de la profession de pharmacien, de fabriquer ou de vendre, dans les
-conditions fixées aux articles ci-après, les teintures, shampooings et lotions
-capillaires renfermant des substances vénéneuses autres que celles dont la liste
-limitative, les concentrations et doses maximum seront fixées par arrêté
-conjoint du ministre des affaires sociales, du ministre de l'agriculture et du
-ministre de l'industrie, après avis du conseil supérieur d'hygiène publique de
-France.
+Toute entrée et toute sortie de substances et de médicaments classés comme
+stupéfiants doivent [*obligation*] être inscrites par les personnes mentionnées
+au troisième alinéa de l'article R. 5171 sur un registre spécial coté et paraphé
+par le maire ou le commissaire de police [*autorités compétentes*].
 
-Aucune teinture capillaire visée au présent article ne peut être délivrée aux
-utilisateurs que sous une forme immédiatement utilisable.
+L'inscription des entrées se fait dès réception. Elle comporte la date, la
+désignation des produits, leur quantité, le nom et l'adresse du fournisseur.
 
-Aucune teinture capillaire visée au présent article ne peut être délivrée au
-public s'il n'est adjoint au récipient la renfermant en quantité suffisante, un
-produit de lavage neutralisant. La dénomination générique, la composition et le
-volume net du produit de lavage doivent figurer sur le récipient le contenant
-[*mentions obligatoires*].
+L'inscription des sorties se fait mensuellement par relevé global. Elle comporte
+:
+
+1° Pour les préparations magistrales et officinales, y compris celles qui sont
+mentionnées à l'article R. 5192, la désignation et la quantité de stupéfiants
+utilisés ;
+
+2° Pour les spécialités pharmaceutiques, leur désignation et les quantités
+délivrées.
+
+Une balance mensuelle des entrées et sorties est portée au registre.
+
+Ces inscriptions sont faites sans blanc, ni rature, ni surcharge.
+
+Chaque année [*périodicité*], chaque titulaire d'un registre spécial procède à
+l'inventaire du stock, par pesées et décomptes. Les différences constatées entre
+la balance et l'inventaire sont soumises à l'appréciation du pharmacien
+inspecteur de la santé lors de la première visite qui suit l'établissement de
+l'inventaire.
+
+Le registre spécial est conservé dix ans [*durée*] à compter de sa dernière
+mention [*point de départ*], pour être présenté à toute réquisition des
+autorités compétentes.

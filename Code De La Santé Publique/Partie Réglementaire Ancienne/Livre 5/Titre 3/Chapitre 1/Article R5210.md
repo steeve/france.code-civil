@@ -1,32 +1,30 @@
 Article R5210
 ----
-Les pharmaciens sont tenus d'inscrire dès réception, tout achat ou toute entrée
-dans leur officine, même à titre gratuit, de substances du tableau B et de
-préparations qui en contiennent, sur un registre spécial coté et paraphé par le
-maire ou le commissaire de police [*autorités compétentes*]. L'autorité qui vise
-le registre doit se faire présenter le diplôme du praticien, portant mention de
-l'enregistrement à la préfecture.
-
-L'inscription de ces entrées fait mention de la date, du nom du fournisseur, de
-la désignation du produit et des quantités reçues.
-
-Les pharmaciens sont tenus d'inscrire sur ce registre les qualité et quantité
-des substances du tableau B utilisées pour la fabrication des préparations
-officinales ainsi que la quantité des produits obtenus.
-
-En ce qui concerne les préparations magistrales inscrites à l'ordonnancier et
-les préparations officinales, si elles y sont également inscrites le jour de
-leur fabrication, les pharmaciens sont autorisés à n'en effectuer le relevé que
-mensuellement [*périodicité*] sur le registre prévu au 1er alinéa du présent
+Les personnes mentionnées au troisième alinéa de l'article R. 5171 ne peuvent
+acquérir des substances stupéfiantes et des préparations classées comme
+stupéfiants que dans un établissement détenteur de l'autorisation prévue au même
 article.
 
-Ces inscriptions doivent être faites sans blanc, rature, ni surcharge.
+L'acquisition de ces substances et de ces préparations ne peut avoir lieu que
+sur remise par lesdites personnes de deux volets foliotés extraits d'un carnet à
+souche d'un modèle déterminé par le ministre chargé de la santé. La charge de
+l'impression et de la répartition de ces carnets incombe à l'ordre national des
+pharmaciens [*responsabilité*] qui établit un relevé nominatif des carnets
+délivrés dans la région.
 
-Le registre d'entrées et de sorties des stupéfiants doit être conservé pendant
-dix ans [*durée*] au moins.
+L'un des volets porte le nom et l'adresse de l'acquéreur, sa signature et la
+date de la commande. Il mentionne en toutes lettres la dénomination des produits
+commandés et leur quantité. Il est conservé par le cédant.
 
-Chaque année au moins, le pharmacien procède à l'inventaire des substances du
-tableau B et des préparations qui en contiennent qu'il détient, et établit la
-balance des entrées et sorties. Les différences constatées sont proposées à la
-ratification du pharmacien inspecteur de la santé à l'occasion de la première
-visite qui suit l'établissement de la balance.
+Le second volet ne porte mention que des nom et adresse de l'acquéreur et de la
+nature des produits. Il est renvoyé, sans délai, à l'acquéreur par le cédant qui
+le complète :
+
+1° En indiquant le numéro de référence prévu à l'article R. 5174 ou à l'article
+R. 5211 et le numéro d'ordre prévu à l'article R. 5176 ;
+
+2° En indiquant les quantités livrées et la date de livraison ; 3° En y apposant
+son timbre et sa signature.
+
+Les pièces sont conservées trois ans par les intéressés pour être présentées à
+toutes réquisition des autorités compétentes.

@@ -1,20 +1,26 @@
 Article R5177
 ----
-Les praticiens habilités à exécuter les ordonnances prescrivant ces substances
-et les préparations qui les contiennent, doivent transcrire de suite lesdites
-ordonnances sur un livre-registre d'ordonnances coté et paraphé par le maire ou
-par le commissaire de police, sans blanc, rature ni surcharge [*obligation*].
+Les personnes qui fabriquent, transforment ou divisent des stupéfiants sont
+tenues d'inscrire [*mentions obligatoires*], au moment de l'opération et à la
+suite, sur le registre spécial prévu à l'article R. 5176 :
 
-Ces transcriptions doivent comporter un numéro d'ordre, le nom du prescripteur,
-les nom et adresse du client, la date à laquelle le médicament a été délivré et
-sa composition [*mentions obligatoires*].
+1° Les opérations effectuées ;
 
-Les pharmaciens sont autorisés à transcrire dans les mêmes conditions, sur ledit
-registre, les ordonnances médicales qui ne comportent pas de substances
-vénéneuses.
+2° La nature et la quantité des stupéfiants employés ;
 
-Ce registre est conservé pendant une durée de dix années au moins.
+3° La nature et la quantité des produits obtenus ;
 
-Ces prescriptions ne sont pas applicables à la délivrance, dans les centres de
-planification ou d'éducation familiale agréés, des médicaments ou produits
-contraceptifs aux mineurs désirant garder le secret.
+4° La mention des pertes résultant de ces opérations.
+
+Décharge de ces pertes est donnée sur ce registre par les pharmaciens
+inspecteurs de la santé, si elles leur paraissent résulter normalement des
+transformations ou manipulations déclarées.
+
+Ce registre spécial doit être conservé dix ans [*durée*] à compter de la date de
+la dernière opération mentionnée [*point de départ*] pour être présenté à toute
+réquisition des autorités compétentes.
+
+En cas de cession du fonds ou de l'entreprise, ou s'il y a changement du
+titulaire de l'autorisation, l'ancien et le nouveau titulaire procèdent à un
+inventaire du stock des stupéfiants ; cet inventaire est consigné sur le
+registre et contresigné par les intéressés.

@@ -1,22 +1,25 @@
 Article R5176
 ----
-Les établissements visés à l'article L. 577 sont soumis aux dispositions de la
-présente section, lorsqu'ils ont un pharmacien-gérant.
+Toute acquisition ou toute cession de stupéfiants, à l'exclusion de celles
+destinées à des fins de recherche et d'enseignement, est soumise à l'utilisation
+du carnet de commande mentionné à l'article R. 5210.
 
-Ceux de ces établissements qui n'ont pas de pharmacien-gérant ne peuvent détenir
-ces substances, ni les préparations qui les contiennent ; toutefois, ils sont
-autorisés à détenir dans une armoire fermée à clef des préparations comportant
-des substances vénéneuses pour soins urgents à condition qu'un médecin accepte
-la responsabilité de ce dépôt.
+Elle est inscrite sur un registre spécial coté et paraphé par le maire ou le
+commissaire de police [*autorités compétentes*]. L'autorité qui vise ce registre
+se fait présenter l'autorisation délivrée en application de l'article R. 5171.
+La date et le numéro de cette autorisation sont mentionnés à la première page du
+registre. L'inscription de chaque opération sur le registre reçoit un numéro
+d'ordre qui peut s'appliquer à tous les produits ayant fait l'objet d'une
+livraison unique. Elle doit être faite au moment de l'opération sans blanc, ni
+rature, ni surcharge. Elle indique [*mentions obligatoires*] les nom, profession
+et adresse soit du cessionnaire, soit du cédant, la quantité du produit acquis
+ou cédé, sa dénomination ou sa composition et le numéro de référence prévu à
+l'article R. 5174.
 
-Le contenu maximum de cette armoire d'urgence est fixé qualitativement et
-quantitativement par le directeur départemental de la santé, après avis du
-conseil départemental de l'Ordre des médecins.
+Lorsque l'exploitation est poursuivie sous le couvert d'une nouvelle
+autorisation, la date et le numéro de celle-ci sont mentionnés sur le registre
+prévu à l'alinéa précédent.
 
-Le réapprovisionnement de ces armoires est effectué sur ordonnances rédigées,
-conformément aux dispositions des articles R. 5179, R. 5185 et R. 5201 au moment
-de l'utilisation de ces médicaments.
-
-Un arrêté du ministre de la Santé publique et de la Population fixe les
-conditions dans lesquelles les préparations renfermant des substances vénéneuses
-sont délivrées dans les établissements hospitaliers.
+Dans le cas de cessions successives d'un produit sous un emballage revêtu d'un
+cachet d'origine, le numéro de référence porté sur l'étiquette d'origine doit
+être conservé.

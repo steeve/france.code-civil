@@ -1,17 +1,40 @@
 Article R5152
 ----
-Quiconque détient une ou plusieurs desdites substances, en vue de la vente ou de
-l'emploi pour un usage industriel ou agricole, doit les placer dans des armoires
-fermées à clef ou dans des locaux où n'ont pas librement accès les personnes
-étrangères à l'établissement.
+Les substances et préparations dangereuses sont classées dans les catégories
+suivantes [*liste*]:
 
-Les armoires ou locaux visés au précédent alinéa peuvent contenir d'autres
-substances, à l'exclusion de celles destinées à l'alimentation de l'homme ou des
-animaux.
+1° Substances et préparations très toxiques qui, après inhalation, ingestion ou
+pénétration cutanée, peuvent entraîner des risques extrêmement graves, aigus ou
+chroniques et même la mort ;
 
-Lorsque le détenteur exerce le commerce des produits destinés à l'alimentation
-de l'homme ou des animaux, aucune communication intérieure directe ne doit
-exister entre l'établissement et ses dépendances où s'exerce ledit commerce, et
-les locaux où sont détenues les substances vénéneuses. Cette obligation ne
-s'applique pas aux pharmaciens, ni aux personnes faisant le commerce des
-solutions titrées de nicotine détenues et délivrées en bidons scellés.
+2° Substances ou préparations toxiques qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent entraîner des risques graves, aigus ou chroniques
+et même la mort ;
+
+3° Substances et préparations nocives qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent entraîner des risques de gravité limitée ;
+
+4° Substances et préparations corrosives qui, en contact avec les tissus
+vivants, peuvent exercer une action destructrice sur ces derniers ;
+
+5° Substances et préparations irritantes non corrosives qui, en contact
+immédiat, prolongé ou répété avec la peau ou les muqueuses, peuvent provoquer
+une réaction inflammatoire ;
+
+6° Substances et préparations cancérogènes qui, par inhalation, ingestion ou
+pénétration cutanée, peuvent produire le cancer ou en augmenter la fréquence ;
+
+7° Substances et préparations tératogènes ;
+
+8° Substances et préparations mutagènes.
+
+Un arrêté des ministres chargés de la santé, de l'industrie, de l'agriculture,
+de l'environnement et de la consommation [*autorités compétentes*] détermine,
+conformément aux dispositions communautaires en vigueur, le symbole
+d'identification et l'indication du danger de chacune de ces catégories, les
+phrases types mentionnant les risques particuliers d'emploi et les phrases types
+mentionnant les conseils de prudence.
+
+Lorsqu'une substance ou une préparation dangereuse doit recevoir plusieurs
+symboles d'identification, un arrêté des mêmes ministres peut rendre facultatif
+l'emploi de certains de ces symboles.

@@ -1,11 +1,19 @@
 Article R5193
 ----
-Les substances du tableau B et les préparations qui les contiennent ne peuvent
-circuler que si les récipients qui les renferment directement sont revêtus des
-étiquettes prévues aux articles R. 5192 et R. 5204 [*condition*].
+Les pharmaciens délivrent les médicaments ou produits mentionnés à la présente
+section sur prescription ou sur commande à usage professionnel :
 
-Les enveloppes extérieures des colis d'expédition ne doivent comporter aucune
-autre indication que les noms et adresses de l'expéditeur et du destinataire
-[*mentions*].
+1° D'un médecin [*autorité compétente*];
 
-Elles devront être cachetées à la marque de l'expéditeur.
+2° D'un directeur de laboratoire d'analyse de biologie médicale dans les limites
+prévues à l'article L. 761 ;
+
+3° D'un chirurgien-dentiste, pour l'usage de l'art dentaire ;
+
+4° D'un docteur vétérinaire pour la médecine vétérinaire ;
+
+5° D'une sage-femme dans les limites de la liste mentionnée à l'article L. 370.
+
+Les opticiens-lunetiers délivrent sur prescription d'un médecin les produits
+destinés à l'entretien des lentilles oculaires de contact mentionnés à la
+présente section.

@@ -1,10 +1,8 @@
 Article R5175
 ----
-Il est interdit d'employer pour la détention, la vente, ou le transport de ces
-substances et des préparations qui les contiennent, des récipients
-habituellement utilisés pour contenir des aliments destinés aux humains et aux
-animaux.
+Un arrêté du ministre chargé de la santé [*autorité compétente*] détermine les
+modalités matérielles de détention des substances et préparations classées comme
+stupéfiants.
 
-Les récipients ayant contenu lesdites substances ne peuvent plus être utilisés
-pour l'alimentation des humains et des animaux, ni pour la délivrance de
-médicaments destinés à être absorbés.
+Tout vol ou détournement est signalé sans délai aux autorités de police et à
+l'inspection régionale de la pharmacie.

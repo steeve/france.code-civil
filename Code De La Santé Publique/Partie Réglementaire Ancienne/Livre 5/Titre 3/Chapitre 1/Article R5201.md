@@ -1,30 +1,26 @@
 Article R5201
 ----
-Il est interdit de prescrire et d'exécuter des ordonnances comportant des
-substances en nature inscrites nommément au tableau B.
+L'emballage extérieur des médicaments et produits mentionnés aux articles L.
+601, L. 617-1 et L. 658-11 relevant de la présente section comporte [*condition
+de forme*]:
 
-Les substances du tableau B ne peuvent être délivrées que sous une forme
-compatible avec leur usage thérapeutique.
+1° Si ces médicaments et produits sont destinés à l'homme, un espace blanc,
+entouré d'un filet coloré, dans lequel le pharmacien, le médecin ou
+l'opticien-lunetier dispensateur inscrit son nom, son adresse, le numéro d'ordre
+prévu à l'article R. 5198 et la posologie prescrite ;
 
-A l'exception de celles prescrivant des liniments et pommades, les ordonnances
-prescrivant des préparations contenant des substances du tableau B à des doses
-dépassant les doses d'exonération prévues à l'article R. 5170 sont rédigées,
-après examen du malade, sur des feuilles extraites d'un carnet à souches d'un
-modèle déterminé par le ministre de la Santé publique et de la Population.
+2° S'ils sont destinés à l'animal, un espace blanc entouré d'un filet ou d'un
+double filet coloré, dans lequel le pharmacien ou le vétérinaire dispensateur
+inscrit son nom, son adresse, le numéro d'ordre prévu à l'article R. 5198, la
+posologie prescrite ainsi que la mention prévue à l'article R. 5146-49 k en
+caractères noirs sur fond rouge.
 
-La charge de l'impression et de la répartition de ces carnets incombe, chacun en
-ce qui le concerne, à l'Ordre national des médecins, à l'Ordre national des
-vétérinaires et à l'Ordre des chirurgiens dentistes.
+L'espace blanc est d'une surface suffisante pour permettre l'apposition des
+mentions requises ; il est placé sous la dénomination spéciale de la spécialité
+pharmaceutique ou du produit.
 
-L'auteur de la prescription est tenu sous les sanctions prévues au chapitre I,
-du titre III, du livre V de la partie législative du présent code de la dater,
-de la signer, de mentionner lisiblement son nom et son adresse, le nom et
-l'adresse du bénéficiaire, le mode d'emploi du médicament.
-
-S'il s'agit d'une préparation magistrale, il indique en toutes lettres les doses
-des substances du tableau B prescrites et éventuellement le nombre d'unités
-thérapeutiques ; s'il s'agit d'un médicament spécialisé, il indique en toutes
-lettres le nombre d'unités thérapeutiques.
-
-Les souches des carnets doivent être conservées par les praticiens pendant trois
-ans [*durée*].
+L'étiquetage du récipient et le conditionnement des médicaments et produits
+mentionnés au premier alinéa ci-dessus comportent, d'une façon lisible, les
+mentions Ne pas avaler, Ne pas faire avaler, Respecter les doses prescrites
+selon les modalités fixées à l'article R. 5200 et, imprimée en caractères noirs,
+la mention Ne peut être obtenu que sur ordonnance médicale.

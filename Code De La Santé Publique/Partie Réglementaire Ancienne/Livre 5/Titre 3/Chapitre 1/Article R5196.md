@@ -1,9 +1,10 @@
 Article R5196
 ----
-Le registre prévu aux articles R. 5194 et R. 5195 doit être conservé pendant dix
-années [*durée*] pour être représenté à toute réquisition de l'autorité
-compétente.
+Les responsables des établissements mentionnés aux articles L. 596 et L. 615 et
+les personnes physiques ou morales habilitées à leur passer commande sont, à
+tout moment, tenus [*obligation*] de justifier de l'acquisition et de la cession
+des médicaments ou produits mentionnés à l'article R. 5190.
 
-Le vendeur n'est déchargé des quantités reçues que dans la mesure, soit des
-ventes par lui effectuées et inscrites audit registre, soit de la décharge
-donnée dans les conditions de l'article précédent.
+Les documents justificatifs sont conservés au moins trois ans [*durée*], sous
+réserve des dispositions particulières applicables aux stupéfiants et aux
+psychotropes.

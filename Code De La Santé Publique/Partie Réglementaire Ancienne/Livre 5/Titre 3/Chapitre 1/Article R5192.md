@@ -1,18 +1,22 @@
 Article R5192
 ----
-Les substances du tableau B ne peuvent être détenues en vue de la vente,
-circuler, être importées ou exportées que si les enveloppes ou récipients qui
-les renferment directement sont revêtus d'une étiquette rouge orangé
-[*couleur*], fixée de telle sorte qu'elle ne puisse pas être involontairement
-détachée ; cette étiquette porte, outre le nom de la substance contenue, tel
-qu'il figure au tableau B, les poids brut et net, le nom et l'adresse du vendeur
-ainsi qu'un numéro de référence pour chaque enveloppe ou récipient [*mentions*].
+Ne sont pas soumis aux dispositions de la présente section [*hors champ
+d'application*]:
 
-L'inscription ci-dessus doit être accompagnée de la mention "POISON" inscrite en
-caractères apparents sur une bande de couleur rouge orangé, faisant le tour de
-l'enveloppe ou du récipient.
+1° Les médicaments et produits mentionnés à l'article R. 5190 qui sont destinés
+à la médecine humaine et renferment des substances classées à des doses ou
+concentrations trop faibles pour justifier qu'ils soient soumis auxdites
+dispositions ; les formes ou voies d'administration de ces médicaments ou
+produits, leur composition, les doses ou concentrations maximales de substances
+qu'ils renferment sont fixées par arrêtés du ministre chargé de la santé pris
+après avis de l'Académie nationale de pharmacie et de la commission prévue à
+l'article R. 5140 ;
 
-Le détenteur de substances classées au tableau B doit les conserver dans des
-armoires ou locaux fermés à clef. Ces armoires ou locaux ne peuvent pas contenir
-d'autres substances que celles qui figurent aux tableaux A et B. Toute quantité
-trouvée en dehors desdites armoires ou locaux sera saisie.
+2° Les médicaments mentionnés à l'article R. 5190 qui sont destinés à la
+médecine vétérinaire et renferment des substances classées à des doses ou
+concentrations trop faibles pour justifier qu'ils soient soumis auxdites
+dispositions ; les formes ou voies d'administration de ces médicaments, leur
+composition, les doses ou concentrations maximales de substances qu'ils
+renferment et les espèces animales concernées sont fixées par arrêté du ministre
+chargé de la santé et du ministre chargé de l'agriculture pris après avis de la
+commission constituée à cet effet.

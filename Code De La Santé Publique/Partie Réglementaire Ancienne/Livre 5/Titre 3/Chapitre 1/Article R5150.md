@@ -1,11 +1,6 @@
 Article R5150
 ----
-Les dispositions de la présente section sont applicables aux substances
-inscrites nommément aux tableaux A, B et C (section I) et aux préparations qui
-les contiennent.
-
-Les préparations sont soumises au même régime que les substances qu'elles
-contiennent, à l'exception des préparations nommément inscrites à un autre
-tableau et des préparations qui, en raison de leur concentration ou de leur
-faible volume, sont nommément exclues des tableaux des substances vénéneuses
-(section I).
+Les dispositions de la présente section s'appliquent [*champ d'application*] aux
+substances et préparations vénéneuses qui ne constituent ni des médicaments ou
+produits mentionnés à la section III ni des produits cosmétiques ou d'hygiène
+corporelle.

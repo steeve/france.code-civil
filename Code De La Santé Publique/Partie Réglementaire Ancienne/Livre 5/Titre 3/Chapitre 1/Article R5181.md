@@ -1,28 +1,17 @@
 Article R5181
 ----
-Les préparations magistrales contenant des substances du tableau C doivent
-porter sur une étiquette le nom et l'adresse du pharmacien, le numéro
-d'inscription à l'ordonnancier et le mode d'emploi du médicament [*mentions
-obligatoires*].
+Sont interdits la production, la mise sur le marché, l'emploi et l'usage :
 
-Si le médicament est destiné à la médecine humaine et à être administré par les
-voies : orale, perlinguale, rectale, vaginale, urétrale ou transcutanée, cette
-étiquette est blanche [*couleur*] et la préparation reçoit en outre une
-contre-étiquette portant imprimée en noir sur fond rouge orangé la mention "Ne
-pas dépasser la dose prescrite".
+1° Du cannabis, de sa plante et de sa résine, des préparations qui en
+contiennent ou de celles qui sont obtenues à partir du cannabis, de sa plante ou
+de sa résine ;
 
-Dans les autres cas, l'étiquette est rouge orangé avec la mention "Ne pas
-avaler" imprimée en noir. Elle peut comporter un espace blanc suffisant pour
-permettre l'inscription du mode d'emploi du médicament.
+2° Des tétrahydrocannabinols, de leurs esters, éthers, sels ainsi que des sels
+des dérivés précités et de leurs préparations.
 
-Les médicaments spécialisés contenant une ou plusieurs substances inscrites au
-tableau C doivent en outre comporter sur les étiquettes intérieure et extérieure
-le nom de la substance tel qu'il figure au tableau C et sa concentration, la
-quantité contenue dans le récipient et, sur l'emballage extérieur, un espace
-blanc encadré d'un filet vert, dans lequel le pharmacien détaillant doit
-inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le
-mode d'emploi indiqué par l'auteur de la prescription.
-
-Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en
-outre, dans tous les cas, une étiquette portant imprimée en noir sur fond rouge
-orangé la mention "Usage vétérinaire".
+Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par
+le ministre de la santé [*autorité compétente*], aux fins de recherche, de
+contrôle ou de fabrication de dérivés autorisés. Cependant, le ministre chargé
+de la santé, le ministre chargé de l'agriculture et le ministre chargé de
+l'industrie peuvent, par arrêté conjoint, autoriser la culture, l'importation et
+l'exportation de variétés de cannabis dépourvues de propriétés stupéfiantes.

@@ -1,12 +1,21 @@
 Article R5208
 ----
-Les chirurgiens-dentistes sont autorisés à détenir, pour leur usage
-professionnel, dans les conditions fixées à l'article précédent, les
-préparations contenant des substances inscrites au tableau B qui sont
-nécessaires à l'exercice de l'art dentaire.
+Une prescription de médicaments ou produits relevant des listes I et II ne peut
+être faite pour une durée de traitement supérieure à douze mois.
 
-Les sages-femmes sont autorisées à détenir, pour leur usage professionnel, des
-préparations contenant des substances inscrites au tableau B dont la liste
-qualitative et quantitative est fixée par arrêté du ministre de la Santé
-publique et de la Population, précisant dans quelles conditions ces médicaments
-peuvent être délivrés aux sages-femmes et utilisés par elles.
+Les pharmaciens et opticiens-lunetiers ne sont autorisés à effectuer la première
+délivrance de ces médicaments ou produits que sur présentation d'une ordonnance
+datant de moins de trois mois.
+
+La délivrance d'un médicament ou produit relevant de la liste I ne peut être
+renouvelée que sur indication écrite du prescripteur précisant le nombre de
+renouvellements ou la durée du traitement.
+
+La délivrance d'un médicament ou d'un produit relevant de la liste II peut être
+renouvelée lorsque le prescripteur ne l'a pas expressément interdit.
+
+Dans tous les cas, le ou les renouvellements ne peuvent être exécutés que dans
+la limite du délai de traitement mentionnée au premier alinéa.
+
+Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalités
+définies à l'article R. 5202.

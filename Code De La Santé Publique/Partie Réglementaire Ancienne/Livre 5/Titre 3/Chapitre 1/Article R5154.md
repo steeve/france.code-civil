@@ -1,7 +1,8 @@
 Article R5154
 ----
-Sont interdites la mise en vente et la vente des substances classées au tableau
-A (section I) ou des préparations qui en contiennent sous forme de tablettes,
-pastilles, pilules, comprimés, ampoules, et, d'une manière générale, sous toutes
-formes usitées pour l'administration des médicaments, lorsque ces substances ou
-préparations sont destinées à d'autres usages que celui de la médecine.
+Sont interdites la production et la mise sur le marché, c'est-à-dire le
+transport, l'importation, l'exportation, la détention, l'offre, la cession et
+l'acquisition des substances ou préparations mentionnées à l'article R. 5152
+sous une présentation ou une dénomination susceptible de créer une confusion
+avec un aliment, un médicament, un produit cosmétique ou produit d'hygiène
+corporelle.

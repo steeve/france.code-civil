@@ -1,13 +1,18 @@
 Article R5166
 ----
-Sont interdits l'importation, l'exportation, la production, le commerce,
-l'utilisation et la détention du chanvre indien et des préparations en contenant
-ou fabriquées à partir du chanvre indien.
+Sont interdits la délivrance et l'emploi, lorsqu'ils sont classés comme très
+toxiques, toxiques, cancérogènes, tératogènes ou mutagènes [*liste*]:
 
-On entend par "chanvre indien" [*définition*], pour l'application du présent
-code, les sommités florifères et fructifères de la plante femelle du Cannabis
-sativa (urticacées-cannabinées), variété dite indienne.
+1° Des composés arsenicaux pour la destruction des mouches et celle des
+parasites nuisibles à l'agriculture, exception faite des composés arsenicaux
+solubles destinés aux traitements d'hiver de la vigne et du diméthylarsinate de
+sodium (cacodylate de sodium) utilisé comme formicide ;
 
-Des dérogations aux dispositions du premier alinéa du présent article pourront
-être accordées aux fins de recherches scientifiques par le ministre de la Santé
-publique et de la Population.
+2° De l'arsenic, du plomb, du mercure et de leurs composés en vue de désinfecter
+les produits récoltés destinés à la consommation par l'homme et les animaux,
+d'embaumer les cadavres et de détruire les mauvaises herbes dans les allées des
+jardins, les cours et les terrains de sport ;
+
+3° De la picrotoxine et de la coque du levant pour tout autre usage que celui de
+la médecine : en conséquence, la délivrance de ces substances au public est
+interdite à quiconque n'est pas pharmacien titulaire d'une officine.

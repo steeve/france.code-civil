@@ -1,21 +1,26 @@
 Article R5200
 ----
-A l'exception des feuilles de coca, les substances du tableau B et les
-préparations qui les contiennent au-delà des doses d'exonération prévues à
-l'article R. 5170 doivent être détenues dans des armoires ou locaux fermés à
-clef [*lieu*].
+L'étiquette des préparations magistrales destinées à la médecine humaine et des
+médicaments vétérinaires extemporanés relevant de la réglementation de la
+présente section comporte les indications suivantes [*mentions obligatoires*]:
 
-Il est interdit de détenir dans ces armoires ou locaux d'autres substances que
-celles mentionnées aux tableaux A et B.
+1° Nom et adresse du pharmacien, ou du docteur vétérinaire dispensateur ;
 
-Les récipients contenant des substances inscrites au tableau B et leurs
-dilutions, doivent comporter le nom des substances tel qu'il figure au tableau
-B.
+2° Numéro d'enregistrement ;
 
-Cette inscription doit être faite en caractères noirs très apparents sur une
-étiquette rouge orangé [*couleur*] fixée de telle sorte qu'elle ne puisse pas
-être involontairement détachée.
+3° Posologie et mode d'emploi.
 
-Elle doit être accompagnée de la mention "POISON" inscrite en caractères noirs
-très apparents sur une bande de couleur rouge orangé, faisant le tour de
-l'enveloppe ou du récipient.
+L'étiquette est blanche lorsque le médicament est destiné aux voies nasale,
+orale, perlinguale, sublinguale, rectale, vaginale, urétrale ou est injectable.
+
+Elle est rouge, avec la mention "Ne pas avaler" pour les préparations à usage
+humain, ou "Ne pas faire avaler" pour les médicaments vétérinaires, imprimée en
+caractères noirs, lorsque le médicament est destiné aux autres voies
+d'administration. Afin d'inscrire le numéro d'enregistrement, la posologie et le
+mode d'emploi, elle peut comporter un espace blanc de dimension suffisante.
+
+Les étiquettes des médicaments vétérinaires extemporanés comportent, en outre,
+la mention prévue à l'article R. 5146-49 k, en caractères noirs sur fond rouge.
+
+Dans tous les cas, ces médicaments portent une contre-étiquette, avec la mention
+"Respecter les doses prescrites" en caractères noirs sur fond rouge.
