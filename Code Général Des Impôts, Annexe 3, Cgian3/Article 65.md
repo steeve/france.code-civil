@@ -13,7 +13,7 @@ c. La Banque de France ;
 d. Les établissements de crédit ;
 
 e. La Caisse centrale des banques populaires et les banques populaires agréées
-par leur chambre syndicale ;
+par leur banque fédérale ;
 
 f. La Caisse centrale de crédit coopératif ;
 

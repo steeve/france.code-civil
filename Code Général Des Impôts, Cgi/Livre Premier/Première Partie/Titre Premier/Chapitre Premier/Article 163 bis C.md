@@ -2,9 +2,9 @@ Article 163 bis C
 ----
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des
 titres, selon le cas, dans des conditions prévues à l'article 150-0 A ou 150 A
-bis si les actions acquises revêtent l forme nominative et demeurent
+bis si les actions acquises revêtent la forme nominative et demeurent
 indisponibles, suivant des modalités fixées par décret en Conseil d'Etat,
-jusqu'à l'achèvement d'une période de cinq années à compter de la date
+jusqu'à l'achèvement d'une période de quatre années (1) à compter de la date
 d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une
