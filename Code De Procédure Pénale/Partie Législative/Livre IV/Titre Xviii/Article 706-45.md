@@ -18,11 +18,18 @@ des cartes de paiement ;
 4° Interdiction d'exercer certaines activités professionnelles ou sociales
 lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice
 de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit
+commise ;
+
+5° Placement sous contrôle d'un mandataire de justice désigné par le juge
+d'instruction pour une durée de six mois renouvelable, en ce qui concerne
+l'activité dans l'exercice ou à l'occasion de laquelle l'infraction a été
 commise.
 
 Les interdictions prévues aux 3° et 4° ne peuvent être ordonnées par le juge
 d'instruction que dans la mesure où elles sont encourues à titre de peine par la
-personne morale poursuivie.
+personne morale poursuivie. La mesure prévue au 5° ne peut être ordonnée par le
+juge d'instruction si la personne morale ne peut être condamnée à la peine
+prévue par le 3° de l'article 131-39 du code pénal.
 
 En cas de violation du contrôle judiciaire, les articles 434-43 et 434-47 du
 code pénal sont, le cas échéant, applicables.

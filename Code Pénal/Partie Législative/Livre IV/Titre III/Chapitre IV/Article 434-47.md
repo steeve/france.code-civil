@@ -14,7 +14,10 @@ Les peines encourues par les personnes morales sont :
 3° La confiscation prévue à l'article 131-21 ;
 
 4° L'affichage ou la diffusion de la décision prononcée dans les conditions
-prévues par l'article 131-35.
+prévues par l'article 131-35 ;
+
+5° Pour les infractions prévues aux deuxième et troisième alinéas de l'article
+434-43, la peine de dissolution mentionnée au 1° de l'article 131-39.
 
 L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans
 l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
