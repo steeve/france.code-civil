@@ -6,11 +6,12 @@ les besoins de l'exploitation sont obligatoirement inscrits à l'actif du bilan.
 Toutefois, le redevable peut demander de conserver les terres dans son
 patrimoine privé, à la condition de faire connaître son choix au plus tard lors
 de la déclaration des résultats du troisième exercice au titre duquel il est
-imposé d'après le régime du bénéfice réel.
+imposé d'après un régime de bénéfice réel.
 
 L'option ainsi exercée s'applique à la totalité des terres dont l'exploitant est
 propriétaire, ou qu'il acquiert pendant la durée de l'option. Elle est valable
-quinze ans et renouvelable tacitement au terme de chaque période de quinze ans.
+quinze exercices et renouvelable tacitement au terme de chaque période de quinze
+exercices.
 
 L'exploitant peut renoncer à l'option pour l'ensemble des terres qu'il acquiert
 à titre onéreux pendant le délai restant à courir jusqu'à l'expiration de cette
@@ -24,8 +25,9 @@ présente pas le caractère d'une maison de maître.
 
 II. Peuvent être considérés comme des immobilisations amortissables les équidés
 et les bovidés utilisés comme animaux de trait ou affectés exclusivement à la
-reproduction ainsi que les chevaux de course mis à l'entraînement et âgés de
-deux ans au moins au sens de la réglementation des courses.
+reproduction ainsi que les chevaux de course mis à l'entrainement et les chevaux
+de concours soumis à un entraînement en vue de la compétition, âgés de deux ans
+au moins au sens de la réglementation des courses.
 
 Lorsque l'exploitant est assujetti à la taxe sur la valeur ajoutée,
 l'application de cette disposition est subordonnée à la condition qu'il exerce

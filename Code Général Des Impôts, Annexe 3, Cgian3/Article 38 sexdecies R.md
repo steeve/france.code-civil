@@ -1,11 +1,11 @@
 Article 38 sexdecies R
 ----
 Indépendamment des documents visés à l'article 38 sexdecies Q, les contribuables
-qui deviennent imposables selon le régime normal d'imposition d'après le
-bénéfice réel sont tenus de fournir, en même temps que leur première
-déclaration, les renseignements énumérés ci-après :
+qui deviennent imposables selon un régime réel d'imposition sont tenus de
+fournir, en même temps que leur première déclaration, les renseignements
+énumérés ci-après :
 
-1° Une copie du bilan d'entrée ;
+1° Une copie du bilan d'ouverture ;
 
 2° Des tableaux présentant :
 
@@ -24,4 +24,4 @@ La durée d'utilisation restant à courir ;
 c. (Abrogé)
 
 3° Une note indiquant de manière détaillée la composition et le mode
-d'évaluation du stock d'entrée.
+d'évaluation du stock initial.

@@ -12,7 +12,8 @@ du résultat fiscal prévus à l'article 74 A du code général des impôts sont
 reportés sur le livre d'inventaire ;
 
 c. La déclaration annuelle des résultats qui est faite sur un imprimé établi par
-l'administration comporte un compte simplifié de résultat fiscal et un tableau
-des immobilisations et des amortissements ; les pièces annexes mentionnées au II
-de l'article 38 ne sont pas produites, à l'exception, pour les sociétés, des
-listes prévues aux 1° et 2° du deuxième alinéa.
+l'administration comporte un compte simplifié de résultat fiscal, un tableau des
+immobilisations et des amortissements, un relevé des provisions et un état des
+provisions non déductibles ; les pièces annexes mentionnées au II de l'article
+38 ne sont pas produites, à l'exception, pour les sociétés, des listes prévues
+aux 1° et 2°.
