@@ -1,9 +1,9 @@
 Article 199 ter C
 ----
-Le crédit d'impôt pour dépenses de formation et d'apprentissage défini à
-l'article 244 quater C est imputé sur l'impôt sur le revenu dû au titre de
-l'année au cours de laquelle l'entreprise a accru ses dépenses. S'il excède
-l'impôt dû, l'excédent est restitué.
+Le crédit d'impôt pour dépenses de formation défini à l'article 244 quater C est
+imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle
+l'entreprise a accru ses dépenses. S'il excède l'impôt dû, l'excédent est
+restitué.
 
 En cas d'inexécution partielle ou totale de conventions de formation, le crédit
 d'impôt obtenu à raison des actions de formation qui n'ont pas été réalisées est

@@ -12,9 +12,6 @@ Le montant de chaque acompte est égal au tiers des cotisations mises à la char
 du redevable dans les rôles concernant la dernière année au titre de laquelle il
 a été imposé.
 
-((Toutefois, le premier acompte dû au titre de l'imposition des revenus de 1993
-est réduit de 6 p. 100 dans la limite de 4 000 F)) (1).
-
 Les contribuables dont la cotisation d'impôt sur le revenu est mise en
 recouvrement entre le 1er janvier et le 15 avril de la deuxième année suivant
 celle de la réalisation du revenu sont assujettis, en l'absence d'option pour le
@@ -24,9 +21,9 @@ cotisation et payable au plus tard le 15 mai de la même année.
 Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme
 de 1.500 F.
 
-((A compter de 1990, la somme prévue aux premier et cinquième alinéas est
-relevée chaque année dans la même proportion que la limite supérieure de la
-première tranche du barème de l'impôt sur le revenu)) (1).
+A compter de 1990, la somme prévue aux premier et quatrième alinéas est relevée
+chaque année dans la même proportion que la limite supérieure de la première
+tranche du barème de l'impôt sur le revenu.
 
 2. A défaut de paiement volontaire, le recouvrement des acomptes exigibles est
 assuré et poursuivi dans les conditions fixées pour les impôts directs par le
@@ -47,5 +44,3 @@ redevable pourra se dispenser du second versement prévu pour cette année en
 remettant au comptable du Trésor chargé du recouvrement des impôts directs du
 lieu d'imposition, quinze jours avant la date d'exigibilité de ce dernier
 versement, une déclaration datée et signée.
-
-(1) Modification de la loi.

@@ -9,11 +9,11 @@ En ce qui concerne la détermination des résultats des exercices ouverts avant 
 et charges comprise dans ses résultats par une société du groupe à raison de sa
 participation dans une autre société du groupe.
 
-((Pour la détermination du résultat des exercices ouverts à compter du 1er
-janvier 1995, les dividendes reçus par une société du groupe à raison de sa
+Pour la détermination du résultat des exercices ouverts à compter du 1er janvier
+1995, les dividendes reçus par une société du groupe à raison de sa
 participation dans une autre société du groupe sont retranchés du résultat
 d'ensemble s'ils n'ouvrent pas droit à l'application du régime mentionné au 1 de
-l'article 145)) (M).
+l'article 145.
 
 Il est majoré du montant des dotations complémentaires aux provisions
 constituées par une société après son entrée dans le groupe, à raison des
@@ -21,11 +21,11 @@ créances qu'elle détient sur d'autres sociétés du groupe ou des risques qu'e
 encourt du fait de telles sociétés. Il est minoré du montant des provisions
 rapportées en application du dixième alinéa du 5° du 1 de l'article 39 qui
 correspondent aux dotations complémentaires mentionnées à la phrase qui précède
-si les sociétés visées à la même phrase sont membres du groupe ((ou d'un groupe
-créé ou élargi dans les conditions prévues au c ou au d du 6 de l'article 223
-L)) (M) (1) au titre de l'exercice au cours duquel ces provisions sont
-rapportées ; pour l'application de cette disposition, les provisions rapportées
-s'imputent en priorité sur les dotations les plus anciennes (2).
+si les sociétés visées à la même phrase sont ((membres du groupe ou d'un même
+groupe créé ou élargi dans les conditions prévues aux c, d ou e du 6 de
+l'article 223 L)) (M) (1) au titre de l'exercice au cours duquel ces provisions
+sont rapportées ; pour l'application de cette disposition, les provisions
+rapportées s'imputent en priorité sur les dotations les plus anciennes (2).
 
 Le montant des jetons de présence et tantièmes distribués par les sociétés
 filiales du groupe est ajouté au résultat d'ensemble.
@@ -50,9 +50,7 @@ d'une augmentation du capital réalisée simultanément à l'acquisition des tit
 personne autre qu'une société membre du groupe ou, s'ils sont apportés par une
 société du groupe, qu'ils ne proviennent pas de crédits consentis par une
 personne non membre de ce groupe. La réintégration s'applique pendant l'exercice
-d'acquisition des titres et les quatorze exercices suivants. Pour l'application
-de l'article 223 J, il n'est pas tenu compte des réintégrations prévues au
-présent alinéa (3).
+d'acquisition des titres et les quatorze exercices suivants.
 
 Les dispositions du septième alinéa ne s'appliquent pas :
 
@@ -65,14 +63,11 @@ c. Si les titres cédés à la société membre du groupe ont été acquis
 immédiatement auparavant, auprès de personnes autres que celles mentionnées au
 septième alinéa du présent article, et en vue de rétrocession.
 
-(M) Modification de la loi ; [*cf. Instruction 1995-03-24 4H-3-95*].
+(M) Modification de la loi 96-314.
 
-(1) Ces dispositions s'appliquent pour la détermination du résultat d'ensemble
-des exercices ouverts à compter du 1er janvier 1995.
+(1) Ces dispositions s'appliquent aux opérations de scission intervenues à
+compter du 1er avril 1996.
 
 (2) Les dispositions relatives aux provisions pour risques entrent en vigueur
 pour la détermination des résultats des exercices ouverts à compter du 1er
 janvier 1992.
-
-(3) La dernière phrase n'est plus applicable pour la détermination des résultats
-des exercices ouverts à compter du 1er janvier 1992.

@@ -1,4 +1,5 @@
 Article 402
 ----
-Est interdit tout mélange à l'alcool éthylique des produits qui lui sont
-assimilés au point de vue fiscal.
+Est interdit tout mélange à l'alcool éthylique des corps appartenant à la
+famille chimique des alcools ou présentant une fonction chimique alcool,
+susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois.

@@ -19,12 +19,14 @@ des sociétés concessionnaires mentionnées au cinquième alinéa du II du mêm
 article et les souscriptions au capital des sociétés en difficulté visées au II
 bis de l'article précité.
 
-II. Dans les cas visés au premier alinéa du I, les demandes d'agrément, établies
-en cinq exemplaires, sont adressées au directeur des services fiscaux du
+II. Dans les cas visés au premier alinéa du I, les demandes d'agrément,
+((établies conformément aux annexes à l'arrêté du 15 mars 1996 (Journal officiel
+du 16 mars 1996)) (M) sont adressées au directeur des services fiscaux du
 département où sera réalisé le programme d'investissement.
 
-Dans les cas visés aux deuxième et troisième alinéas du I, les demandes sont
-transmises en cinq exemplaires à la direction générale des impôts.
+Dans les cas visés aux deuxième et troisième alinéas du I, ((les demandes
+établies conformément aux annexes à l'arrêté du 15 mars 1996 (Journal officiel
+du 16 mars 1996) sont transmises à la direction générale des impôts)) (M).
 
 III. Pour les programmes d'investissement placés sous le régime de la
 copropriété ou réalisés par l'une des sociétés ou groupements visés aux articles
@@ -32,3 +34,9 @@ copropriété ou réalisés par l'une des sociétés ou groupements visés aux a
 un représentant unique, promoteur de l'opération, gérant ou associé, qui doit
 remettre une copie de la décision obtenue aux investisseurs, copropriétaires ou
 associés.
+
+((IV. Les dispositions du présent article sont également applicables à
+l'agrément prévu au III quater de l'article 238 bis HA du code général des
+impôts)) (M).
+
+(M) Modifications de l'arrêté.

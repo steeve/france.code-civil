@@ -1,10 +1,11 @@
 Article 124 A
 ----
-La déclaration prévue à l'article 1565 du code général des impôts doit être
-conforme au modèle fixé par la direction générale des douanes et droits
-indirects. Il s'agit, selon le cas, d'une déclaration de première mise en
-service ou d'une déclaration de renouvellement pour les appareils déjà exploités
-l'année précédente.
+((Pour les appareils automatiques autres que ceux désignés au III de l'article
+1560 du code général des impôts, la déclaration prévue à l'article 1565 dudit
+code doit être conforme au modèle fixé par la direction générale des douanes et
+droits indirects)) (M). Il s'agit, selon le cas, d'une déclaration de première
+mise en service ou d'une déclaration de renouvellement pour les appareils déjà
+exploités l'année précédente.
 
 La déclaration comporte les indications suivantes :
 
@@ -87,3 +88,5 @@ française", "Taxe sur les appareils automatiques", "Exploitant", "Montant",
 "Commune" et "Bureau" et les sigles DGDDI (direction générale des douanes et
 droits indirects) et PT ou DT (plein tarif ou demi-tarif) ainsi qu'un numéro
 d'ordre.
+
+(M) Modification de l'arrêté.

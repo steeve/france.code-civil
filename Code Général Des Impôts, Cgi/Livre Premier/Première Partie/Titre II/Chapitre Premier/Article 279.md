@@ -1,7 +1,7 @@
 Article 279
 ----
-La taxe sur la valeur ajoutée *TVA* est perçue au taux réduit de 5,50 % en ce
-qui concerne *champ d'application* :
+La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 % en ce
+qui concerne :
 
 a. Les prestations relatives :
 
@@ -11,9 +11,20 @@ locations meublées dans les mêmes conditions que pour les établissements
 d'hébergement (1) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
+((ce taux s'applique également aux prestations exclusivement liées à l'état de
+dépendance des personnes âgées hébergées dans ces établissements et qui sont
+dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne)) (2)
+;
+
+- ((à la fourniture de logement dans les terrains de camping classés, lorsque
+l'exploitant du terrain de camping délivre une note dans les conditions fixées
+au a ter, assure l'accueil et consacre 1,5 p. 100 de son chiffre d'affaires
+total hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par
+un tiers lorsque celui-ci consacre 1,5 p. 100 de son chiffre d'affaires total en
+France à la publicité)) (3) ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines
-d'entreprises et répondant aux conditions qui sont fixées par décret (2) ;
+d'entreprises et répondant aux conditions qui sont fixées par décret (4) ;
 
 a ter. Les locations d'emplacements sur les terrains de camping classés, à
 condition que soit délivrée à tout client une note d'un modèle agréé par
@@ -27,10 +38,10 @@ sécurité sociale.
 
 b. 1° Les remboursements et les rémunérations versés par les communes ou leurs
 groupements aux exploitants des services de distribution d'eau et
-d'assainissement (3) ;
+d'assainissement (5) ;
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux
-d'assainissement (3) ;
+d'assainissement (5) ;
 
 b bis. Les spectacles suivants :
 
@@ -60,9 +71,7 @@ b quinquies. Les droits d'entrée dans les salles de spectacles
 cinématographiques quels que soient le procédé de fixation ou de transmission et
 la nature du support des oeuvres ou documents audiovisuels qui sont présentés ;
 
-b sexies. (Abrogé).
-
-b septies. (Abrogé) (à compter du 1er août 1991, art. 8 de la loi 91-716);
+b sexies et b septies (Abrogés) ;
 
 b octies. Les abonnements souscrits par les usagers afin de recevoir :
 
@@ -71,7 +80,7 @@ juillet 1982 sur la communication audiovisuelle ;
 
 2° Les services de télévision prévus à l'article 1er de la loi 84-743 du 1er
 août 1984 relative à l'exploitation des services de radiotélévision mis à la
-disposition du public sur un réseau cablé;
+disposition du public sur un réseau cablé ;
 
 3° Les services autorisés de télévision par voie hertzienne et les services de
 télévision mis à la disposition du public sur un réseau câblé prévus par les
@@ -92,9 +101,9 @@ manifestations organisées, l'exploitant doit faire apparaître dans sa
 comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies. (Abrogé par la loi 94-1162) (3').
+b decies. (Abrogé à compter du 1er janvier 1995) ;
 
-c, d, e (Abrogé) (à compter du 1er janvier 1993, art. 11 XI de la loi 91-716);
+c, d, e (Abrogé) (à compter du 1er janvier 1993) ;
 
 f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 à la Cour de cassation et les avoués sont indemnisés totalement ou partiellement
@@ -109,8 +118,11 @@ oeuvres d'architecture et des logiciels.
 
 (1) Annexe IV, art. 30.
 
-(2) Annexe III, art. 85 bis.
+(2) Modification. Cette disposition s'applique aux prestations dont le fait
+générateur intervient à compter du 1er janvier 1996.
 
-(3) Disposition à caractère interprétatif.
+(3) Cette disposition s'applique aux opérations dont le fait générateur
+intervient à compter du 1er janvier 1996. [*Cf. Instruction 1996-07-18
+3C-4-96*]. (4) Annexe III, art. 85 bis.
 
-(3') *Cf. Instruction 1995-03-03 3C-3-95.*
+(5) Disposition à caractère interprétatif.

@@ -1,8 +1,8 @@
 Article 271
 ----
-I 1 La taxe sur la valeur ajoutée [*TVA*] qui a grevé les éléments du prix d'une
-opération imposable est déductible de la taxe sur la valeur ajoutée applicable à
-cette opération.
+I 1. La taxe sur la valeur ajoutée [*TVA*] qui a grevé les éléments du prix
+d'une opération imposable est déductible de la taxe sur la valeur ajoutée
+applicable à cette opération.
 
 2. Le droit à déduction prend naissance lorsque la taxe déductible devient
 exigible chez le redevable.
@@ -33,7 +33,7 @@ d) Celle qui correspond aux factures d'acquisition intracommunautaire délivrée
 par leurs vendeurs dont le montant figure sur la déclaration de recettes
 conformément au b du 5 de l'article 287.
 
-2 La déduction ne peut pas être opérée si les redevables ne sont pas en
+2. La déduction ne peut pas être opérée si les redevables ne sont pas en
 possession soit desdites factures, soit de la déclaration d'importation sur
 laquelle ils sont désignés comme destinataires réels. Pour les acquisitions
 intracommunautaires, la déduction ne peut être opérée que si les redevables ont
@@ -42,12 +42,11 @@ nécessaires pour constater le montant de la taxe due au titre de ces
 acquisitions et détiennent des factures établies conformément à la
 réglementation communautaire.
 
-((Toutefois, les redevables qui n'ont pas porté sur la déclaration mentionnée au
-d du 1 le montant de la taxe due au titre d'acquisitions intracommunautaires
-sont autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor))
-(1").
+Toutefois, les redevables qui n'ont pas porté sur la déclaration mentionnée au d
+du 1 le montant de la taxe due au titre d'acquisitions intracommunautaires sont
+autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor.
 
-3 Lorsque ces factures ou ces documents font l'objet d'une rectification, les
+3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les
 redevables doivent apporter les rectifications correspondantes dans leurs
 déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du
 mois au cours duquel ils ont eu connaissance de cette rectification.
@@ -64,7 +63,7 @@ c) (Abrogé)
 
 IV La taxe déductible dont l'imputation n'a pu être opérée peut faire l'objet
 d'un remboursement dans les conditions, selon les modalités et dans les limites
-fixées par décret en Conseil d'Etat (3).
+fixées par décret en Conseil d'Etat (2).
 
 Les limitations particulières qui étaient opposables aux assujettis dont les
 déclarations de chiffre d'affaires avaient fait apparaître des crédits de taxe
@@ -88,8 +87,8 @@ domiciliées ou établies en dehors de la Communauté européenne ou se rapporte
 des exportations de biens (2) ;
 
 c) Les opérations exonérées en application des dispositions des articles 262 et
-262 bis, du I de l'article 262 ter, des articles 262 quater, 262 quinquies et
-263, du 1° du II et du 2° du III de l'article 291 (2) ;
+262 bis, du I de l'article 262 ter, des articles 262 quater et 263, du 1° du II
+et du 2° du III de l'article 291 (M) ;
 
 d) Les opérations non imposables en France réalisées par des assujettis dans la
 mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se
@@ -97,9 +96,7 @@ situait en France. Un décret en Conseil d'Etat fixe les modalités et les limit
 du remboursement de la taxe déductible au titre de ces opérations; ce décret
 peut instituer des règles différentes suivant que les assujettis sont domiciliés
 ou établis dans les Etats membres de la Communauté européenne ou dans d'autres
-pays (4).
-
-4 bis (Abrogé).
+pays (3).
 
 VI Pour l'application du présent article, une opération légalement effectuée en
 suspension du paiement de la taxe sur la valeur ajoutée est considérée comme en
@@ -108,10 +105,9 @@ suspendu.
 
 (1) Dispositions en vigueur le 1er juillet 1993.
 
-(M) Modification de la loi 94-1163.
+(2) Annexe II, art. 242-0 A à 242-0 K.
 
-(2) Dispositions en vigueur le 1er janvier 1993.
+(M) Modification de la loi.
 
-(3) Annexe II, art. 242-0 A à 242-0 L.
-
-(4) Annexe II, art. 242-0 M à 242-0 T ; voir également Annexe IV, art. 47.
+(3) Annexe II, art. 242-0 M à 242-0 T ; voir également Annexe IV, art. 47. [*Cf.
+Instruction 1996-12-05 3A-6-96*].

@@ -23,7 +23,7 @@ professionnelle constatés l'année précédant la mise en application de l'arti
 nouvelle et les taux des territoires des communes membres situés hors zone
 d'agglomération nouvelle et, d'autre part, le taux moyen pondéré de référence
 qui aurait été applicable à l'organisme d'agglomération nouvelle compte tenu
-notamment des dotations de référence visées à l'article 27 de la loi n° 83-636
-du 13 juillet 1983 modifiée. Cette réduction des écarts de taux s'effectue à
-raison d'un onzième par année pendant dix ans. Dans ce cas les dispositions de
-l'article 1638 ne sont pas applicables.
+notamment des dotations de référence visées à l'article L. 5334-6 du code
+général des collectivités territoriales. Cette réduction des écarts de taux
+s'effectue à raison d'un onzième par année pendant dix ans. Dans ce cas les
+dispositions de l'article 1638 ne sont pas applicables.

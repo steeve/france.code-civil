@@ -1,6 +1,6 @@
 Article 256 bis
 ----
-I. - 1° Sont également soumises à la taxe sur la valeur ajoutée [*TVA*] les
+I. 1° Sont également soumises à la taxe sur la valeur ajoutée [*TVA*] les
 acquisitions intracommunautaires de biens meubles corporels effectuées à titre
 onéreux par un assujetti agissant en tant que tel ou par une personne morale non
 assujettie lorsque le vendeur est un assujetti agissant en tant que tel et qui
@@ -34,28 +34,24 @@ Etat prise pour la mise en oeuvre de l'article 8 et du B de l'article 28 ter de
 la directive C.E.E. n° 77-388 du 17 mai 1977 du Conseil des communautés
 européennes.
 
-(( 2° bis Les acquisitions intracommunautaires de biens d'occasion d'oeuvres
-d'art, d'objets de collection ou d'antiquité effectuées à titre onéreux par un
+2° bis Les acquisitions intracommunautaires de biens d'occasion d'oeuvres d'art,
+d'objets de collection ou d'antiquité effectuées à titre onéreux par un
 assujetti agissant en tant que tel ou par une personne morale non assujettie ne
 sont pas soumises à la taxe sur la valeur ajoutée lorsque le vendeur ou
 l'assujetti est un assujetti revendeur qui a appliqué dans l'Etat membre de
 départ de l'expédition ou du transport du bien les dispositions de la
 législation de cet Etat prises pour la mise en oeuvre des B ou C de l'article 26
 bis de la directive n° 77/388/C.E.E. du Conseil des Communautés européennes du
-17 mai 1977 )) (M).
+17 mai 1977.
 
-3° Est considérée comme acquisition intracommunautaire [*définition*]
-l'obtention du pouvoir de disposer comme un propriétaire d'un bien meuble
-corporel expédié ou transporté en France par le vendeur, par l'acquéreur ou pour
-leur compte, à destination de l'acquéreur à partir d'un autre Etat membre de la
-Communauté européenne.
+3° Est considérée comme acquisition intracommunautaire l'obtention du pouvoir de
+disposer comme un propriétaire d'un bien meuble corporel expédié ou transporté
+en France par le vendeur, par l'acquéreur ou pour leur compte, à destination de
+l'acquéreur à partir d'un autre Etat membre de la Communauté européenne.
 
-II. - Est assimilée à une acquisition intracommunautaire :
+II. Est assimilée à une acquisition intracommunautaire :
 
-1° La réception en France par un assujetti d'un travail à façon exécuté dans un
-autre Etat membre, à condition que les matériaux utilisés par l'entrepreneur de
-l'ouvrage aient été expédiés ou transportés à partir de France par l'assujetti
-ou pour son compte.
+1° (Abrogé par la loi 95-1347).
 
 2° L'affectation en France par un assujetti pour les besoins de son entreprise
 d'un bien de son entreprise expédié ou transporté à partir d'un autre Etat
@@ -66,9 +62,9 @@ effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit,
 s'il était importé, au bénéfice de l'admission temporaire en exonération totale
 de droits ;
 
-b) A faire l'objet d'une délivrance de travail à façon ou de travaux, à
-condition que le bien soit réexpédié ou transporté à destination de l'assujetti
-dans l'Etat membre de l'expédition ou du transport ;
+b) A faire l'objet de travaux, à condition que le bien soit réexpédié ou
+transporté à destination de l'assujetti dans l'Etat membre de l'expédition ou du
+transport ;
 
 c) A faire l'objet d'une installation ou d'un montage.
 
@@ -76,9 +72,6 @@ c) A faire l'objet d'une installation ou d'un montage.
 qu'elle a importé sur le territoire d'un autre Etat membre de la Communauté
 européenne.
 
-III. - Un assujetti, agissant en son nom propre mais pour le compte d'autrui,
-qui s'entremet dans une acquisition intracommunautaire, est réputé avoir
+III. Un assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
+s'entremet dans une acquisition intracommunautaire, est réputé avoir
 personnellement acquis et livré le bien.
-
-(M) Alinéa inséré par la loi. Disposition en vigueur à compter du 1er janvier
-1995.

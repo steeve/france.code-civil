@@ -10,8 +10,8 @@ partie, de l'exonération prévue à la première phrase du I de l'article 44
 sexies.
 
 En cas de fusion ou opération assimilée intervenant au cours de la période visée
-à l'alinéa précédent, la fraction de l'excédent qui n'a pas encore été imputée
-par la société apporteuse ou absorbée est transférée à la société bénéficiant de
+au premier alinéa, la fraction de l'excédent qui n'a pas encore été imputée par
+la société apporteuse ou absorbée est transférée à la société bénéficiant de
 l'apport ou absorbante.
 
 La fraction du crédit d'impôt recherche correspondant aux parts des personnes
@@ -27,3 +27,6 @@ pourcentage est porté à 50 p. 100 pour les dépenses exposées au cours des an
 1986 et suivantes (1).
 
 III. (Périmé).
+
+(1) Ces dispositions sont applicables pour le crédit d'impôt recherche des
+années 1992 à 1998.

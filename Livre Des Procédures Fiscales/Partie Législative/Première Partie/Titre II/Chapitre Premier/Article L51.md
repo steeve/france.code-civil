@@ -9,4 +9,6 @@ opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en
 matière de taxes sur le chiffre d'affaires et L. 187 en cas d'agissements
 frauduleux, ainsi que dans les cas de vérification de la comptabilité des
 sociétés mères qui ont opté pour le régime prévu à l'article 223 A du code
-général des impôts.
+général des impôts et dans les cas prévus à l'article L. 188 A après
+l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
+territoire.

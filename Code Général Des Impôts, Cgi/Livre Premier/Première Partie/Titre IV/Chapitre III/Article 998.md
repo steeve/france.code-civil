@@ -19,11 +19,13 @@ satisfaire à une disposition prévue par une convention collective ou un accord
 d'entreprise ou résultant du contrat de travail de l'ensemble ou d'un nombre
 significatif de salariés de l'entreprise.
 
-2° (Sans objet).
+2° (Disposition devenue sans objet).
 
 3° La convention d'assurances souscrite par une entreprise afin de garantir aux
 membres de son personnel salarié une indemnité de fin de carrière lors de leur
-départ à la retraite, à condition :
+départ à la retraite ou une indemnité de cessation d'activité versée dans le
+cadre de l'article 2 de la loi n° 96-126 du 21 février 1996 portant création
+d'un fonds paritaire d'intervention en faveur de l'emploi à condition :
 
 a) Que l'entreprise ne puisse disposer, pour toute autre utilisation, de la
 valeur acquise du contrat ;

@@ -12,15 +12,15 @@ l'établissement de décomptes ou à des encaissements successifs, au moment de
 l'expiration des périodes auxquelles ces décomptes ou encaissements se
 rapportent ;
 
-((a ter) Pour les livraisons de biens, les prestations de services et les
+a ter) Pour les livraisons de biens, les prestations de services et les
 acquisitions intracommunautaires réputées effectuées en application des
 dispositions du V de l'article 256 et du III de l'article 256 bis, au moment où
-l'opération dans laquelle l'assujetti s'entremet est effectuée ; ))
+l'opération dans laquelle l'assujetti s'entremet est effectuée ;
 
 b) Pour les livraisons à soi-même entrant dans le champ d'application de
-l'article 257-7°, au moment de la livraison qui doit intervenir, au plus tard,
+l'article 257 7°, au moment de la livraison qui doit intervenir, au plus tard,
 lors du dépôt à la mairie de la déclaration prévue par la réglementation
-relative au permis de construire (1);
+relative au permis de construire (1) ;
 
 c) Pour les mutations à titre onéreux ou les apports en société entrant dans le
 champ d'application du 7° de l'article 257, à la date de l'acte qui constate
@@ -29,22 +29,21 @@ l'opération ou, à défaut, au moment du transfert de propriété.
 2 La taxe est exigible :
 
 a) Pour les livraisons et les achats visés au a du 1 et pour les opérations
-mentionnées au b et au c du 1, lors de la réalisation du fait générateur;
+mentionnées au b et au c du 1, lors de la réalisation du fait générateur ;
 
 Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de
 biens similaires donnant lieu à des décomptes ou à des encaissements successifs,
 l'exigibilité peut intervenir au moment du débit sur autorisation du directeur
 des services fiscaux; elle intervient en tout état de cause dès la perception
 d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant
-l'intervention du fait générateur ou du débit;
+l'intervention du fait générateur ou du débit ;
 
-b) Pour les livraisons de viandes prévues à l'article 257-9°, lors du premier
-enlèvement en suite d'abattage;
+b) Pour les livraisons de viandes prévues au 9° de l'article 257, lors du
+premier enlèvement en suite d'abattage ;
 
-c) Pour les prestations de services ainsi que pour les livraisons visées au b du
-3° du II de l'article 256, lors de l'encaissement des acomptes, du prix, de la
-rémunération ou, sur autorisation du directeur des services fiscaux, d'après les
-débits (2).
+c) Pour les prestations de services, lors de l'encaissement des acomptes, du
+prix, de la rémunération ou, sur autorisation du directeur des services fiscaux,
+d'après les débits (2).
 
 En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du
 paiement de l'effet par le client.
@@ -53,9 +52,15 @@ Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour
 les travaux qui sont fixés par décret, opter pour le paiement de la taxe sur les
 livraisons (3).
 
-((d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
+d) Pour les acquisitions intracommunautaires, le 15 du mois suivant celui au
 cours duquel s'est produit le fait générateur.
 
-((Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
+Toutefois, la taxe devient exigible lors de la délivrance de la facture, à
 condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et
-qu'il ne s'agisse pas d'une facture d'acompte)).
+qu'il ne s'agisse pas d'une facture d'acompte.
+
+(1) Annexe II, art. 243 à 245.
+
+(2) Annexe III, art. 77.
+
+(3) Annexe III, art. 78 à 84.

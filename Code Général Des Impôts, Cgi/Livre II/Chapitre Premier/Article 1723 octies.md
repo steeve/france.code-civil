@@ -1,11 +1,11 @@
 Article 1723 octies
 ----
 Conformément à l'article L. 333-2 du code de l'urbanisme modifié par l'article
-118 de la loi n° 89-935 du 29 décembre 1989 ((modifiée)) (M), le montant du
-versement pour dépassement du plafond légal de densité, défini à l'article L.
-112-2 du même code, es t dû par le bénéficiaire de l'autorisation de construire.
-Ce versement peut être mis à la charge du lotisseur ou de l'association foncière
-urbaine de remembrement (1). En cas de désaccord sur la valeur du terrain, il
+118 de la loi n° 89-935 du 29 décembre 1989 modifiée, le montant du versement
+pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du
+même code, est dû par le bénéficiaire de l'autorisation de construire. Ce
+versement peut être mis à la charge du lotisseur ou de l'association foncière
+urbaine de remembrement (2). En cas de désaccord sur la valeur du terrain, il
 est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation
 administrative. Lorsqu'il n'excède pas 80 F le versement n'est pas mis en
 recouvrement.
@@ -24,8 +24,8 @@ Après décision définitive de la juridiction de l'expropriation, il est procé
 selon le cas, à la mise en recouvrement d'une somme complémentaire ou à la
 restitution du montant excédentaire. Le paiement du complément doit intervenir
 en même temps que le paiement de la deuxième partie du versement ou, au plus
-tard, dans les six mois de la notification du titre rendu exécutoire par le
-préfet pour le recouvrement du complément.
+tard, dans les six mois de la notification du titre délivré par l'autorité
+compétente pour procéder à leur liquidation pour le recouvrement du complément.
 
 La juridiction de l'expropriation doit se prononcer dans les six mois de sa
 saisine ; en cas d'appel de sa décision, la juridiction d'appel doit statuer
@@ -35,6 +35,10 @@ Le montant donnant lieu à restitution est majoré des intérêts au taux légal
 courus depuis la date à laquelle la première fraction du versement a été
 acquittée.
 
-(1) Code de l'urbanisme, art. L. 333-9-1.
+(1) Les dispositions des articles 1723 octies à 1723 quaterdecies demeurent
+applicables dans les communes où un plafond légal de densité était institué le
+31 décembre 1999, voir le II de l'article 50 de la loi n° 2000-1208 du 13
+décembre 2000. Les références au code de l'urbanisme sont celles dans leur
+rédaction antérieure à l'entrée en vigueur de cette loi).
 
-(M) Modification.
+(2) Code de l'urbanisme, art. L. 333-9-1.

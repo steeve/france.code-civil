@@ -5,14 +5,15 @@ ménagères peuvent instituer une taxe destinée à pourvoir aux dépenses du se
 dans la mesure où celles-ci ne sont pas couvertes par des recettes ordinaires
 n'ayant pas le caractère fiscal.
 
-La taxe d'enlèvement des ordures ménagères n'est pas applicable aux terrains de
-camping ou aménagés pour le stationnement des caravanes ni aux installations à
-usage collectif qui y sont implantées, lorsque les communes ont institué la
-redevance calculée au nombre de places prévue par l'article L 233-77 du code des
-communes.
+((En cas d'institution par les communes de la redevance mentionnée à l'article
+L.2333-77 du code général des collectivités territoriales, la taxe d'enlèvement
+des ordures ménagères n'est applicable ni aux terrains de camping ou aménagés
+pour le stationnement des caravanes ni aux installations à usage collectif qui
+sont implantées sur ces terrains.
 
-La taxe est supprimée dans les communes où est instituée la redevance pour
-services rendus prévue par l'article L 233-78 du code précité.
+((L'institution de la redevance mentionnée à l'article L.2333-76 du code précité
+entraine la suppression de la taxe d'enlèvement des ordures ménagères et de la
+redevance prévue à l'article L.2333-77)) (M).
 
 Cette suppression prend effet :
 
@@ -20,3 +21,5 @@ Cette suppression prend effet :
 dernière est antérieure au 1er mars ;
 
 - à compter du 1er janvier de l'année suivante dans les autres cas.
+
+(M) Modifications de la Loi 96-142.

@@ -47,25 +47,3 @@ désignations.
 
 Le mandat des commissaires ainsi désignés prend fin avec celui des commissaires
 choisis lors du renouvellement général du conseil municipal.
-
-4. a) Les compétences confiées à la commission communale des impôts directs sont
-exercées :
-
-Par le comité du syndicat communautaire en ce qui concerne les impositions
-établies à l'intérieur de la zone prévue à l'article L 171-7 du code des
-communes;
-
-Par une commission de sept membres, élue dans son sein par le conseil de
-communauté, en ce qui concerne les impositions établies à l'intérieur de la zone
-visée ci-dessus lorsqu'elle est située dans l'aire géographique d'une communauté
-urbaine;
-
-Par le conseil de l'ensemble urbain en ce qui concerne les impositions établies
-sur son territoire (1).
-
-b) Le président du comité du syndicat communautaire ou de la commission élue par
-le conseil de communauté, ou du conseil de l'ensemble urbain, exerce les mêmes
-compétences que le maire. Les vice-présidents exercent en cas d'empêchement du
-président, les mêmes compétences que les adjoints.
-
-(1) Annexe II, art. 324 bis.

@@ -3,161 +3,179 @@ Article 17 T
 La liste des dépenses mentionnées au a bis du III de l'article 199 sexies C du
 code général des impôts est fixée comme suit :
 
-A. - Installation de l'équipement sanitaire élémentaire d'un logement qui en
-était dépourvu
+A. Installation de l'équipement sanitaire élémentaire d'un logement qui en était
+dépourvu
 
-" 1. a) Installation d'un évier ou lavabo avec meuble, bidet, baignoire ou d'un
+1. a. Installation d'un évier ou lavabo avec meuble, bidet, baignoire ou d'un
 receveur de douche, robinetterie, raccordement en eau chaude, eau froide,
 branchement de l'évacuation sur chute ;
 
-" b) Installation d'un siège d'aisance avec chasse d'eau à mécanisme silencieux,
+b. Installation d'un siège d'aisance avec chasse d'eau à mécanisme silencieux,
 raccordement en eau froide, branchement de l'évacuation sur chute et
 éventuellement mise en place d'un broyeur.
 
-" Les équipements mentionnés ci-dessus doivent avoir reçu une norme NF.
+Les équipements mentionnés ci-dessus doivent avoir reçu une norme NF.
 
-" 2. Mise aux normes de l'installation électrique :
+2. Mise aux normes de l'installation électrique :
 
-" Mise en place de dispositifs différentiels et d'une prise de terre ;
+Mise en place de dispositifs différentiels et d'une prise de terre ;
 
-" Protection des canalisations contre les surintensités ;
+Protection des canalisations contre les surintensités ;
 
-" Mise en place d'une liaison équipotentielle en salle d'eau ;
+Mise en place d'une liaison équipotentielle en salle d'eau ;
 
-" Mise en place des branchements électriques nécessaires à l'installation d'une
+Mise en place des branchements électriques nécessaires à l'installation d'une
 cuisine, d'un coin cuisine, d'une salle de bains ou d'un W.-C. intérieur.
 
-" 3. Mise aux normes de l'installation de gaz :
+3. Mise aux normes de l'installation de gaz :
 
-" Remplacement d'un chauffe-eau instantané à gaz ou hydrocarbures liquéfiés par
+Remplacement d'un chauffe-eau instantané à gaz ou hydrocarbures liquéfiés par
 l'un des appareils suivants :
 
-" Chauffe-eau instantané dispensé de raccordement à un conduit d'évacuation des
+Chauffe-eau instantané dispensé de raccordement à un conduit d'évacuation des
 produits de la combustion et muni des dispositifs de sécurité prévus par
 l'arrêté du 3 mai 1978 relatif aux dispositifs de sécurité des chauffe-eau
 instantanés à gaz ;
 
-" Chauffe-bain instantané à circuit étanche ou raccordé à un conduit
-d'évacuation des produits de combustion ;
+Chauffe-bain instantané à circuit étanche ou raccordé à un conduit d'évacuation
+des produits de combustion ;
 
-" Appareil de production d'eau chaude à accumulation à circuit étanche ou
-raccordé à un conduit d'évacuation des produits de combustion.
+Appareil de production d'eau chaude à accumulation à circuit étanche ou raccordé
+à un conduit d'évacuation des produits de combustion.
 
-" Ces appareils doivent être conformes aux normes :
+Ces appareils doivent être conformes aux normes : NF D 35-321, NF D 35-322, NF D
+35-324, NF D 35-325, NF D 35-328, NF D 35-329 ((ou à une norme ou réglementation
+étrangère reconnue par le ministre chargé de l'industrie comme assurant un
+niveau de performance équivalent)) (M) ;
 
-NF D 35-321, NF D 35-322, NF D 35-324, NF D 35-325, NF D 35-328, NF D 35-329 ;
-
-" Remplacement des conduits en plomb par des conduites conformes à l'arrêté du 2
+Remplacement des conduits en plomb par des conduites conformes à l'arrêté du 2
 août 1977 relatif aux règles techniques et de sécurité applicables aux
 installations de gaz ;
 
-" Mise en place de dispositifs de sécurité collective sur les installations de
+Mise en place de dispositifs de sécurité collective sur les installations de
 ventilation mécanique contrôlée ;
 
-" Remplacement des robinets d'arrivée de gaz intérieurs par des robinets
+Remplacement des robinets d'arrivée de gaz intérieurs par des robinets
 normalisés et remplacement des tuyaux souples par des tubes souples flexibles à
 embout mécanique.
 
-" 4. Installation d'un système de chauffage central ou de distribution d'eau
+4. Installation d'un système de chauffage central ou de distribution d'eau
 chaude :
 
-" Installation d'un système de chauffage à production centralisée ou d'un
-système de production et de distribution d'eau chaude sanitaire de référence, au
-sens de l'annexe III de l'arrêté du 5 avril 1988 relatif aux équipements et aux
+Installation d'un système de chauffage à production centralisée ou d'un système
+de production et de distribution d'eau chaude sanitaire de référence, au sens de
+l'annexe III de l'arrêté du 5 avril 1988 relatif aux équipements et aux
 caractéristiques thermiques des bâtiments d'habitation ou d'un système ayant des
 performances au moins équivalentes ;
 
-" Travaux de raccordement à un réseau de chaleur.
+Travaux de raccordement à un réseau de chaleur.
 
-" 5. Installation de bouches d'entrée d'air dans les pièces principales, de
+5. Installation de bouches d'entrée d'air dans les pièces principales, de
 bouches de sortie dans les pièces humides, de conduits d'évacuation des pièces
 humides vers l'extérieur et d'un groupe de ventilation pour les installations
 mécaniques.
 
-" 6. Travaux de branchement à un réseau collectif d'assainissement.
+6. Travaux de branchement à un réseau collectif d'assainissement.
 
-" B. - Traitement préventif des charpentes contre les insectes xylophages :
-traitement avec des produits ayant reçu une certification du Centre technique du
-bois par une entreprise agréée par ledit centre
+B. ((Traitement des charpentes contre les insectes xylophages :
 
-" C. - Travaux destinés à faciliter l'accès de l'immeuble
+((les produits utilisés à cet effet doivent avoir reçu une certification du
+Centre technique du bois ou une certification équivalente agréée par le ministre
+chargé de la construction garantissant des performances et des modalités de
+contrôle équivalentes ;
+
+((les produits doivent être appliqués par une entreprise agréée par le Centre
+technique du bois ou par un organisme équivalent agréé par le ministre chargé de
+la construction garantissant des performances et des modalités de contrôle
+équivalentes.
+
+((Les entreprises situées dans les départements d'outre-mer pourront être
+agréées par des commissions spécialisées. La composition et l'organisation de
+ces commissions seront définies par arrêté signé par le ministre chargé de la
+construction et le ministre chargé du budget)) (M).
+
+C. Travaux destinés à faciliter l'accès de l'immeuble
 
 aux personnes handicapées et l'adaptation de leur logement
 
-" 1. Travaux d'accessibilité de l'immeuble.
+1. Travaux d'accessibilité de l'immeuble.
 
-" a) Cheminement extérieur :
+a. Cheminement extérieur :
 
-" Elargissement du cheminement et du portail d'entrée ;
+Elargissement du cheminement et du portail d'entrée ;
 
-" Construction d'une rampe pour doubler ou remplacer un emmarchement ;
+Construction d'une rampe pour doubler ou remplacer un emmarchement ;
 
-" Aménagement de bateaux pour franchir des trottoirs ;
+Aménagement de bateaux pour franchir des trottoirs ;
 
-" Suppression de murs, murets, de portes ou portails, de marches, seuils,
-ressauts ou de tout autre obstacle ;
+Suppression de murs, murets, de portes ou portails, de marches, seuils, ressauts
+ou de tout autre obstacle ;
 
-" Amélioration du revêtement de sol ou du sol en vue d'obtenir un sol ferme et
-non glissant ;
+Amélioration du revêtement de sol ou du sol en vue d'obtenir un sol ferme et non
+glissant ;
 
-" Installation de mains courantes ;
+Installation de mains courantes ;
 
-" b) Elargissement ou aménagement de place de stationnement ;
+b. Elargissement ou aménagement de place de stationnement ;
 
-" c) Parties communes à l'intérieur de l'immeuble :
+c. Parties communes à l'intérieur de l'immeuble :
 
-" Elargissement des portes et des couloirs ;
+Elargissement des portes et des couloirs ;
 
-" Construction d'une rampe ;
+Construction d'une rampe ;
 
-" Suppression de murs, de portes, de marches, seuils, ressauts ou d'autres
+Suppression de murs, de portes, de marches, seuils, ressauts ou d'autres
 obstacles ;
 
-" Amélioration du revêtement de sol ;
+Amélioration du revêtement de sol ;
 
-" Installation de mains courantes, d'appareils permettant le transport de
+Installation de mains courantes, d'appareils permettant le transport de
 personnes handicapées et d'un ascenseur dont les dimensions minimales sont
 conformes à celles fixées par l'annexe au décret n° 92-535 du 16 juin 1992
 relatif à la mise en conformité des ascenseurs ;
 
-" Remplacement dans les ascenseurs des portes palières à commande manuelle par
-des portes coulissantes à commande automatique et travaux permettant
-l'amélioration de la précision d'arrêt à l'étage ;
+Remplacement dans les ascenseurs des portes palières à commande manuelle par des
+portes coulissantes à commande automatique et travaux permettant l'amélioration
+de la précision d'arrêt à l'étage ;
 
-" Installation de minuteries d'éclairage dans les parties communes avec système
+Installation de minuteries d'éclairage dans les parties communes avec système
 annonçant l'arrêt de l'éclairage ou avec systèmes de détection de la présence de
 personnes ;
 
-" Modification des boîtes aux lettres.
+Modification des boîtes aux lettres.
 
-" 2. Travaux d'accessibilité et d'adaptation du logement :
+2. Travaux d'accessibilité et d'adaptation du logement :
 
-" Elargissement des portes ;
+Elargissement des portes ;
 
-" Construction d'une rampe ;
+Construction d'une rampe ;
 
-" Suppression de marches, de seuils et de ressauts ;
+Suppression de marches, de seuils et de ressauts ;
 
-" Suppression ou modification de murs ;
+Suppression ou modification de murs ;
 
-" Modification de l'équipement des pièces d'eau ;
+Modification de l'équipement des pièces d'eau ;
 
-" Amélioration du revêtement de sol ;
+Amélioration du revêtement de sol ;
 
-" Installation de mains courantes, barres d'appui, poignées de rappel de porte,
-de portes à ouverture automatique ;
+Installation de mains courantes, barres d'appui, poignées de rappel de porte, de
+portes à ouverture automatique ;
 
-" Modifications de la robinetterie, des divers systèmes de fermeture,
-d'ouverture ou des systèmes de commande des installations électriques, d'eau, de
-gaz et de chauffage ;
+Modifications de la robinetterie, des divers systèmes de fermeture, d'ouverture
+ou des systèmes de commande des installations électriques, d'eau, de gaz et de
+chauffage ;
 
-" Modification des volets et fenêtres (commandes à distance) ;
+Modification des volets et fenêtres (commandes à distance) ;
 
-" Aménagement d'allèges vitrées sous les fenêtres ;
+Aménagement d'allèges vitrées sous les fenêtres ;
 
-" Alerte à distance (équipement et branchement).
+Alerte à distance (équipement et branchement).
 
-" D. - Installation de sécurité
+D. Installation de sécurité
 
-" Installation d'un interphone, d'une porte blindée et mise en place de serrure
-(norme NF A2P).
+Installation d'un interphone, d'une porte blindée et mise en place de serrure
+((ayant reçu la certification NF A 2 P ou faisant l'objet d'une certification
+équivalente agréée par le ministre chargé de la construction garantissant des
+performances et des modalités de contrôle équivalentes)) (M).
+
+(M) Modifications de l'arrêté.

@@ -4,7 +4,7 @@ I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et le
 prestations de services effectuées à titre onéreux par un assujetti agissant en
 tant que tel.
 
-II. 1° Est considéré comme livraison d'un bien [*définition*] , le transfert du
+II. 1° Est considéré comme livraison d'un bien [*définition*], le transfert du
 pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
 
 2° Sont notamment considérés comme des biens meubles corporels :
@@ -16,10 +16,7 @@ l'électricité, le gaz, la chaleur, le froid et les biens similaires.
 a) Le transfert de propriété d'un bien meuble corporel opéré en vertu d'une
 réquisition de l'autorité publique ;
 
-b) La délivrance d'un travail à façon, c'est-à-dire la remise à son client par
-l'entrepreneur de l'ouvrage d'un bien meuble qu'il a fabriqué ou assemblé au
-moyen de matières ou d'objets que le client lui a confiés à cette fin, que
-l'entrepreneur ait fourni ou non une partie des matériaux utilisés ;
+b) (Abrogé par la loi 95-1347) ;
 
 c) La remise matérielle d'un bien meuble corporel en vertu d'un contrat qui
 prévoit la location de ce bien pendant une certaine période ou sa vente à
@@ -45,16 +42,15 @@ effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, si
 ce bien était importé, au bénéfice de l'admission temporaire en exonération
 totale de droits ;
 
-b) A faire l'objet d'une délivrance de travail à façon ou de travaux à condition
-que le bien soit réexpédié ou transporté en France à destination de cet
-assujetti ;
+b) A faire l'objet de travaux à condition que le bien soit réexpédié ou
+transporté en France à destination de cet assujetti ;
 
 c) A faire l'objet d'une installation ou d'un montage.
 
-IV. Les opérations autres que celles qui sont définies au II, notamment la
+IV. 1° Les opérations autres que celles qui sont définies au II, notamment la
 cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne
-pas faire ou à tolérer un acte ou une situation, et les travaux immobiliers,
-sont considérés comme des prestations de services ;
+pas faire ou à tolérer un acte ou une situation, ((les opérations de façon)) (M)
+et les travaux immobiliers, sont considérés comme des prestations de services ;
 
 2° Sont également considérées comme des prestations de services (Disposition à
 caractère interprétatif) :
@@ -85,3 +81,5 @@ V. L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui
 s'entremet dans une livraison de bien ou une prestation de services, est réputé
 avoir personnellement acquis et livré le bien, ou reçu et fourni les services
 considérés.
+
+(M) Modification de la loi.

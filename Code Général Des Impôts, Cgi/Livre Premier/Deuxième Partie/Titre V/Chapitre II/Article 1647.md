@@ -38,3 +38,10 @@ moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p
 100 à compter de la période d'imposition s'ouvrant le 1er décembre 1993. Ce
 prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
 deuxième alinéa de l'article 1599 nonies.
+
+((VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+de 1 p. 100 sur le montant des taxes mentionnées aux articles 302 bis ZA et 302
+bis ZB)) (M).
+
+(M) Modification de la loi. Cette disposition s'applique aux taxes acquittées à
+compter du 1er janvier 1996.

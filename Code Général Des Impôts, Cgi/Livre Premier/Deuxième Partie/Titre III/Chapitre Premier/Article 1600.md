@@ -6,7 +6,8 @@ les redevables de cette taxe proportionnellement à leur base d'imposition.
 
 Sont exonérés de cette taxe :
 
-Les redevables qui exercent exclusivement une profession non commerciale ;
+Les redevables qui exercent exclusivement ((une activité non commerciale au sens
+du 1 de l'article 92 )) (M) ;
 
 Les loueurs de chambres ou appartements meublés ;
 
@@ -46,5 +47,10 @@ qui sont imposés dans sa circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent
 article (1).
+
+(M) Modification de la loi 96-314. Ces dispositions sont applicables pour les
+impositions dues au titre de 1996 et des années suivantes.
+
+[*Cf. Instruction 1997-02-07 6F-2-97.*]
 
 (1) Voir Annexe III, art. 330 et 331.

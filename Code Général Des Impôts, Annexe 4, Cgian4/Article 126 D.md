@@ -1,8 +1,10 @@
 Article 126 D
 ----
-La taxe annuelle applicable aux appareils automatiques visés à l'article 126 A
-est liquidée et perçue dans son intégralité au moment du dépôt, au bureau ou à
-la recette locale des douanes et droits indirects, de la déclaration.
+((La taxe annuelle, prévue au I de l'article 1560 du code général des impôts et
+applicable aux appareils automatiques visés à l'article 126 A qui font l'objet
+de la déclaration prévue à l'article 124 A, est liquidée et perçue dans son
+intégralité au moment du dépôt, au bureau ou à la recette locale des douanes et
+droits indirects, de ladite déclaration)) (M).
 
 Quelle que soit la durée de l'exploitation, elle est perçue au tarif plein pour
 les appareils mis en service au cours du premier semestre de l'année et au
@@ -30,3 +32,5 @@ dixième alinéa de l'article 124 A, ledit dépôt doit intervenir au moins
 vingt-quatre heures avant la date du transfert ;
 
 b. Il est perçu un complément de taxe dans les autres cas.
+
+(M) Modification de l'arrêté.

@@ -4,13 +4,13 @@ Article 206
 sont passibles de l'impôt sur les sociétés, quel que soit leur objet, les
 sociétés anonymes, les sociétés en commandite par actions, les sociétés à
 responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de
-personnes dans les conditions prévues à l'article 3-IV du décret n° 55-594 du 20
+personnes dans les conditions prévues à l'article 3 IV du décret n° 55-594 du 20
 mai 1955 modifié, les sociétés coopératives et leurs unions ainsi que, sous
 réserve des dispositions des 6° et 6° bis du 1 de l'article 207, les
 établissements publics, les organismes de l'Etat jouissant de l'autonomie
 financière, les organismes des départements et des communes et toutes autres
 personnes morales se livrant à une exploitation ou à des opérations de caractère
-lucratif .
+lucratif.
 
 2. Sous réserve des dispositions de l'article 239 ter, les sociétés civiles sont
 également passibles dudit impôt, même lorsqu'elles ne revêtent pas l'une des
@@ -25,7 +25,7 @@ accessoires visées aux articles 34 et 35 qu'elles peuvent réaliser n'excèdent
 pas le seuil fixé à l'article 75 : les bénéfices résultant de ces activités sont
 alors déterminés et imposés d'après les règles qui leur sont propres.
 
-3. Sont soumises à l'impôt sur les sociétés si elles optent pour leur
+3. Sont soumis à l'impôt sur les sociétés si ils optent pour leur
 assujettissement à cet impôt dans les conditions prévues à l'article 239 :
 
 a. Les sociétés en nom collectif ;
@@ -37,14 +37,18 @@ c. Les sociétés en commandite simple ;
 d. Les sociétés en participation ;
 
 e. Les sociétés à responsabilité limitée dont l'associé unique es une personne
-physique [*EURL*] ;
+physique ;
 
 f. Les exploitations agricoles à responsabilité limitée mentionnée au 5° de
-l'article 8 [*EARL*].
+l'article 8.
 
-Cette option entraîne l'application auxdites sociétés, sous réserve des
-exceptions prévues par le présent code, de l'ensemble des dispositions
-auxquelles sont soumises les personnes morales visées au 1.
+((g. les groupements d'intérêt public mentionnés à l'article 239 quater B)) (M).
+
+((h. Les sociétés civiles professionnelles visées à l'article 8 ter)) (M1).
+
+Cette option entraîne l'application auxdites sociétés ((et auxdits groupements))
+(M), sous réserve des exceptions prévues par le présent code, de l'ensemble des
+dispositions auxquelles sont soumises les personnes morales visées au 1.
 
 4. Même à défaut d'option, l'impôt sur les sociétés s'applique, sous réserve des
 dispositions de l'article 1655 ter, dans les sociétés en commandite simple et
@@ -75,10 +79,10 @@ d. Des dividendes des sociétés immobilières et des sociétés agréées visé
 janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur
 montant brut (1").
 
-5 bis. Les associations intermédiaires agréées en application de ((l'article
-L128 du code du travail et les associations de services aux personnes, agréées
-en application de l'article L129-1 du même code)) (M) sont soumises à l'impôt
-sur les sociétés dans les conditions prévues au 5 ;
+5 bis. Les associations intermédiaires agréées en application de l'article L128
+du code du travail et les associations de services aux personnes, agréées en
+application de l'article L129-1 du même code sont soumises à l'impôt sur les
+sociétés dans les conditions prévues au 5 ;
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit
 agricole mutuel mentionnées à l'article 614 du code rural et les caisses locales
@@ -111,8 +115,8 @@ Un décret en Conseil d'Etat fixe les conditions d'application de cette
 disposition.
 
 9. Les caisses de crédit mutuel agricole et rural affiliées à la fédération
-centrale du crédit mutuel agricole et rural visée à l'article 20 ((modifié)) (M)
-de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+centrale du crédit mutuel agricole et rural visée à l'article 20 modifié de la
+loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit sont assujetties à l'impôt sur les sociétés dans les
 conditions de droit commun.
 
@@ -121,13 +125,21 @@ Un décret fixe les conditions d'application du présent 9 (5).
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal
 sont assujetties à l'impôt sur les sociétés (6).
 
+(M) Modification des lois.
+
+(M1) Ces dispositions sont applicables pour l'imposition des résultats des
+exercices ouverts à compter du 1er janvier 1996. [*Cf. Instructions 1996-07-12
+5G-8-96, 4H-2-96.*]
+
+Pour 1996, et par dérogation aux dispositions de l'article 239 du code général
+des impôts, les sociétés civiles professionnelles peuvent exercer l'option pour
+l'assujettissement à l'impôt sur les sociétés jusqu'au 30 juin de cette année.
+
 (1) Voir Annexe III, art. 46 quater-0 A.
 
-(1') [*Cf. Instruction 1995-05-05 4H-9-95.*]
+(1') [*Cf. Instruction 1995-05-05 4H-9-95*].
 
-(1") [*Cf. Instruction 1995-04-18 4H-6-95.*]
-
-(M) Modification.
+(1") [*Cf. Instruction 1995-04-18 4H-6-95*].
 
 (2) Annexe II, art. 102 H à 102 N.
 

@@ -1,6 +1,6 @@
 Article 793
 ----
-Sont exonérés des droits de mutation à titre gratuit:
+Sont exonérés des droits de mutation à titre gratuit :
 
 1. 1° (Périmé) ;
 
@@ -41,17 +41,17 @@ septembre 1979 ;
 
 4° Les parts des groupements fonciers agricoles et celles des groupements
 agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
-répondant aux diverses caractéristiques ((des articles L. 322-1 à L. 322-21,
-L322-23 et L322-24 du code rural)) (M), à concurrence des trois-quarts de la
-fraction de la valeur nette des biens donnés à bail à long terme, sous réserve
-des dispositions de l'article 793 bis, à condition :
+répondant aux diverses caractéristiques des articles L. 322-1 à L. 322-21,
+L322-23 et L322-24 du code rural, à concurrence des trois-quarts de la fraction
+de la valeur nette des biens donnés à bail à long terme, sous réserve des
+dispositions de l'article 793 bis, à condition :
 
 Que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
 
 Que les fonds agricoles constituant le patrimoine du groupement aient été donnés
 à bail à long terme dans les conditions prévues par les articles L. 416-1 à L.
-416-6, L. 416-8 et L. 416-9 du code rural;
+416-6, L. 416-8 et L. 416-9 du code rural ;
 
 Que les parts aient été détenues depuis deux ans au moins par le donateur ou le
 défunt.
@@ -69,8 +69,8 @@ l'épargne ou par une entreprise d'assurance ou de capitalisation ;
 
 Peuvent être étendues aux départements d'outre-mer, dans des conditions fixées
 par décret en Conseil d'Etat, après avis des conseils généraux desdits
-départements, les dispositions des articles ((L. 322-1 à L. 322-21, L322-23 et
-L322-24)) (M) du code précité (1).
+départements, les dispositions des articles L. 322-1 à L. 322-21, L322-23 et
+L322-24 du code précité (1).
 
 5° Les reversions de rentes viagères entre époux ou entre parents en ligne
 directe ;
@@ -87,7 +87,7 @@ et III de l'article 1840 G bis et au 3 de l'article 1929 ;
 
 3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
 L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de
-leur valeur, sous réserve des dispositions de l'article 793 bis.
+leur valeur, sous réserve des dispositions de l'article 793 bis (2) ;
 
 4° Lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs ou en état futur d'achèvement dont la déclaration de l'achèvement des
@@ -114,69 +114,67 @@ A, 199 decies B et 199 undecies.
 Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 4° notamment les obligations déclaratives incombant aux
 redevables et les pièces justificatives à fournir lors de l'enregistrement de la
-transmission mentionnée au premier alinéa (2).
+transmission mentionnée au premier alinéa (3).
 
-((5° Lors de leur première transmission à titre gratuit, les immeubles acquis
+5° Lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs dont la déclaration de l'achèvement des travaux prévue par la
 réglementation de l'urbanisme a été déposée avant le 31 décembre 1994 à la
 mairie de la commune sur le territoire de laquelle l'immeuble concerné a été
 édifié et dont l'acquisition par le donateur ou le défunt est constatée par un
 acte authentique signé entre le 1er août 1995 et le 31 décembre 1995.
 
-((L'exonération est subordonnée à la condition que les immeubles aient été
+L'exonération est subordonnée à la condition que les immeubles aient été
 exclusivement affectés de manière continue à l'habitation principale pendant une
 durée minimale de deux ans à compter de l'acquisition et que le donataire,
 l'héritier ou le légataire ou leurs ayants cause prennent l'engagement de ne pas
 affecter les immeubles à un autre usage que l'habitation pendant une durée
 minimale de trois ans à compter de la transmission à titre gratuit.
 
-((La condition de deux ans n'est pas opposable en cas de décès de l'acquéreur
+La condition de deux ans n'est pas opposable en cas de décès de l'acquéreur
 durant ce délai.
 
-((Les dispositions qui précèdent ne s'appliquent pas aux immeubles dont
+Les dispositions qui précèdent ne s'appliquent pas aux immeubles dont
 l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 decies
 A, 199 decies B et 199 undecies.
 
-((Un décret en Conseil d'Etat détermine les modalités d'application des
-dispositions du présent 5°.
+Un décret en Conseil d'Etat détermine les modalités d'application des
+dispositions du présent 5° (4).
 
-((6° Lors de leur première transmission à titre gratuit, les immeubles ou
+6° Lors de leur première transmission à titre gratuit, les immeubles ou
 fractions d'immeubles mentionnés aux articles 710 et 711, à concurrence des
 trois-quarts de leur valeur, lorsque l'acquisition par le donateur ou le défunt
 est constatée par un acte authentique signé entre le 1er août 1995 et le 31
 décembre 1996 et qu'elle n'a pas donné lieu au paiement de la taxe sur la valeur
 ajoutée.
 
-((L'exonération est subordonnée aux conditions suivantes :
+((L'exonération est subordonnée à la condition que les immeubles aient été
+donnés en location par le propriétaire dans les conditions prévues aux 3° et 4°
+de l'article 199 decies B, pendant une durée minimale de neuf ans, à une
+personne qui les affecte de manière exclusive et continue à son habitation
+principale)) (M).
 
-((a) Que les immeubles aient été donnés en location par le propriétaire dans les
-conditions prévues aux 3° et 4° de l'article 199 decies B, pendant une durée
-minimale de neuf ans, à une personne qui les affecte de manière exclusive et
-continue à son habitation principale.
-
-((La location doit avoir pris effet dans les six mois de l'acquisition de
+La location doit avoir pris effet dans les six mois de l'acquisition de
 l'immeuble.
 
-((Lorsqu'au jour de la transmission à titre gratuit, le délai de neuf ans n'est
+Lorsqu'au jour de la transmission à titre gratuit, le délai de neuf ans n'est
 pas expiré, le bénéfice de l'exonération partielle est subordonné à l'engagement
 des donataires, héritiers ou légataires pour eux et leurs ayants cause de
 maintenir en location, dans les mêmes conditions, les biens transmis jusqu'à
 l'expiration de ce délai.
 
-((b) Que les immeubles aient été détenus depuis plus de deux ans par le
-donateur.
-
-((La condition de deux ans n'est pas opposable en cas de décès de l'acquéreur
-durant ce délai.
-
-((Un décret en Conseil d'Etat détermine les modalités d'application des
+Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 6°, notamment les obligations déclaratives incombant aux
 redevables et pièces justificatives à fournir lors de l'enregistrement de la
-transmission mentionnée au premier alinéa)) (M).
-
-(M) Modification.
+transmission mentionnée au premier alinéa (5).
 
 (1) Voir décret n° 79-146 du 14 février 1979.
 
-(2) Ces dispositions s'appliquent aux successions ouvertes et aux donations
-consenties à compter du 1er juillet 1992.
+(2) [*Cf. Jurisprudence 1998-01-08 7G-3-98.*]
+
+(3) Voir l'article 294 E de l'annexe II.
+
+(4) Voir l'article 294 A de l'annexe II. [*Cf. Instruction 1996-10-31 7G-6-96.*]
+
+(M) Modification.
+
+(5) Voir l'article 294 B de l'annexe II. [*Cf. Instruction 1996-10-31 7G-5-96*].

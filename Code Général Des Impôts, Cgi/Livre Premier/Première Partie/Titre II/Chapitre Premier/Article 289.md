@@ -9,11 +9,11 @@ Tout assujetti doit également délivrer une facture ou un document en tenant li
 pour les livraisons de biens visées aux articles 258 A et 258 B et pour les
 livraisons de biens exonérées en application du I de l'article 262 ter et du II
 de l'article 298 sexies, ainsi que pour les acomptes perçus au titre de ces
-opérations (1).
+opérations.
 
-((Tout assujetti doit délivrer une facture ou un document en tenant lieu pour
-les livraisons aux enchères publiques de biens d'occasion, d'oeuvres d'art,
-d'objets de collection ou d'antiquité)) (2).
+Tout assujetti doit délivrer une facture ou un document en tenant lieu pour les
+livraisons aux enchères publiques de biens d'occasion, d'oeuvres d'art, d'objets
+de collection ou d'antiquité.
 
 L'assujetti doit conserver un double de tous les documents émis.
 
@@ -24,11 +24,11 @@ mentionnés distinctement ;
 
 2° Les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de
 l'acquéreur pour les livraisons désignées au I de l'article 262 ter et la
-mention " Exonération T.V.A., art. 262 ter I du code général des impôts " ;
+mention "Exonération T.V.A., art. 262 ter I du code général des impôts" ;
 
 3° Le numéro d'identification à la taxe sur la valeur ajoutée du prestataire
 ainsi que celui fourni par le preneur pour les prestations mentionnées aux 3°,
-5° et 6° de l'article 259 A ;
+4° bis, 5° et 6° de l'article 259 A ;
 
 4° Les caractéristiques du moyen de transport neuf telles qu'elles sont définies
 au III de l'article 298 sexies pour les livraisons mentionnées au II de ce même
@@ -41,8 +41,3 @@ doivent figurer sur la facture.
 IV. L'entraîneur bénéficiaire des sommes mentionnées au 19° de l'article 257
 doit établir une facture du montant du gain réalisé et y ajouter le montant de
 la taxe sur la valeur ajoutée.
-
-(1) Dispositions applicables à compter du 1er janvier 1993.
-
-(2) Modifications de la loi 94-1163, dispositions applicables à compter du 1er
-janvier 1995.

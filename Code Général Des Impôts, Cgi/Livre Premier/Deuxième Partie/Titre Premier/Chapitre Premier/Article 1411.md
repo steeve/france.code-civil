@@ -17,10 +17,10 @@ commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil
 municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux
-contribuables qui, ((au titre de l'année précédente, ne sont pas passibles de
-l'impôt sur le revenu au sens du III de l'article 1417)) (1) et dont
-l'habitation principale a une valeur locative inférieure à 130 % de la moyenne
-communale. Ce pourcentage est augmenté de 10 points par personne à charge.
+contribuables qui, au titre de l'année précédente, ne sont pas passibles de
+l'impôt sur le revenu au sens du III de l'article 1417 et dont l'habitation
+principale a une valeur locative inférieure à 130 % de la moyenne communale. Ce
+pourcentage est augmenté de 10 points par personne à charge.
 
 4. La valeur locative moyenne est déterminée en divisant le total des valeurs
 locatives d'habitation de la commune, abstraction faite des locaux
@@ -30,11 +30,11 @@ exceptionnels, par le nombre des locaux correspondants.
 abattements supérieurs au niveau maximum de droit commun sont ramenés à ce
 niveau par parts égales sur cinq ans.
 
-((Pour les impositions établies au titre de 1995 et des années suivantes, les
+Pour les impositions établies au titre de 1995 et des années suivantes, les
 conseils municipaux peuvent, par délibération prise dans les conditions prévues
 à l'article 1639 A bis, décider de ramener, immédiatement ou progressivement,
 les abattements supérieurs au niveau maximum de droit commun au niveau des
-abattements de droit commun.)) (1)
+abattements de droit commun.
 
 II bis. Pour le calcul de la taxe d'habitation que perçoivent les départements,
 les communautés urbaines et les districts à fiscalité propre, les organes
@@ -49,14 +49,6 @@ communauté urbaine ou du district à fiscalité propre.
 En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
-
-Toutefois, jusqu'au 1er janvier 1984, l'abattement spécial à la base prévu au 3
-du II en faveur des contribuables non passibles de l'impôt sur le revenu n'est
-pas applicable pour le calcul de la taxe d'habitation perçue par les
-départements, les communautés urbaines et les districts à fiscalité propre.
-L'application des délibérations des conseils généraux, des conseils des
-communautés urbaines et des conseils des districts instituant un tel abattement
-est suspendue jusqu'à la même date.
 
 III. Sont considérés comme personnes à la charge du contribuable :
 
@@ -77,13 +69,11 @@ proportionnellement à la variation des valeurs locatives des logements résulta
 de l'application des articles 1518 et 1518 bis.
 
 V. Les modalités de calcul de la valeur locative moyenne ainsi que les modalités
-d'arrondissement des abattements sont fixées par décret en Conseil d'Etat (2)
-(3).
-
-(1) Modification de la loi 93-1352.
+d'arrondissement des abattements sont fixées par décret en Conseil d'Etat (1)
+(2).
 
 [*Cf. Instruction 1994-05-31 6D-2-94.*]
 
-(2) Annexe II, art. 310 H.
+(1) Annexe II, art. 310 H.
 
-(3) Pour l'application de cet article, voir l'article 1639 A bis.
+(2) Pour l'application de cet article, voir l'article 1639 A bis.

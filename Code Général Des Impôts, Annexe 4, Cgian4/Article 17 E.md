@@ -1,13 +1,13 @@
 Article 17 E
 ----
-1° Les assureurs auprès desquels ont été souscrits des contrats ou des avenants
+I. Les assureurs auprès desquels ont été souscrits des contrats ou des avenants
 d'augmentation d'assurance en cas de vie ou d'assurance en cas de décès, dont
 les primes peuvent ouvrir droit à la réduction d'impôt prévue à l'article 199
 septies du code général des impôts, sont tenus de délivrer chaque année aux
 souscripteurs de ces contrats ou avenants un certificat permettant aux
-intéressés de bénéficier de la réduction d'impôt prévue ci-dessus.
+intéressés de bénéficier de la réduction d'impôt prévue ci-dessus ;
 
-2° Le certificat prévu au 1. comporte, selon un modèle publié par
+II. Le certificat prévu au I comporte, selon un modèle publié par
 l'administration, les indications suivantes :
 
 - désignation de l'assureur ;
@@ -22,19 +22,38 @@ l'administration, les indications suivantes :
 
 Il précise en outre :
 
-a. pour les contrats ou avenants visés à l'article 199 septies (1°) précité, le
-montant à reporter sur la déclaration des revenus (part représentative de
-l'opération d'épargne) ;
+((1. Pour les contrats ou avenants visés au 1° de l'article 199 septies susvisé
+:
 
-b. pour les contrats ou avenants prévus au 2° du même article, les nom et
-prénoms du bénéficiaire du capital ou de la rente viagère;
+((a) la nature du contrat : contrat à "primes périodiques", à "prime unique" ou
+"à versements libres" ;
 
-3° Lorsque les contrats d'assurance en cas de décès visés à l'article 199
-septies (2°) sont souscrits sous la forme de contrats collectifs, l'organisme
-souscripteur délivre à ses adhérents le certificat décrit au 2°.
+((b) le montant des primes représentatif de l'opération d'épargne en distinguant
+:
 
-4° Le certificat décrit au 2° est joint par le souscripteur à sa déclaration
+((1° D'une part, le montant correspondant :
+
+((- aux primes payées au titre de contrats à primes périodiques conclus ou
+prorogés avant le 20 septembre 1995 ;
+
+((- ou aux primes payées du 1er janvier 1995 au 19 septembre 1995 au titre de
+contrats à versements libres ou à prime unique conclus ou prorogés avant le 20
+septembre 1995 ;
+
+((2° D'autre part, le montant correspondant aux primes payées à compter du 20
+septembre 1995 au titre de contrats à versements libres ou à prime unique quelle
+que soit la date de leur conclusion ou de leur prorogation ou de contrats à
+primes périodiques conclus ou prorogés à compter du 20 septembre 1995)) (M).
+
+2. pour les contrats ou avenants prévus ((au 2° de l'article 199 septies)) (M)
+les nom et prénoms du bénéficiaire du capital ou de la rente viagère;
+
+III. Lorsque les contrats d'assurance en cas de décès visés au 2° de l'article
+199 septies sont souscrits sous la forme de contrats collectifs, l'organisme
+souscripteur délivre à ses adhérents le certificat décrit au II.
+
+IV. Le certificat décrit au II est joint par le souscripteur à sa déclaration
 d'ensemble des revenus de l'année au titre de laquelle il peut bénéficier de la
-réduction d'impôt (1).
+réduction d'impôt.
 
-(1) Disposition applicable à compter de l'imposition des revenus de 1986.
+(M) Modifications de l'arrêté du 30 janvier 1996.
