@@ -14,3 +14,7 @@ conseil national.
 Les membres du conseil national sont élus par moitié tous les deux ans pour
 quatre ans et renouvelables une fois ; ils ne sont rééligibles que quatre ans
 après l'expiration de leur deuxième mandat.
+
+Après chaque renouvellement partiel, le Conseil national désigne en son sein,
+pour deux ans, les membres de sa formation disciplinaire, lesquels élisent leur
+président.

@@ -1,8 +1,12 @@
 Article R822-4
 ----
-Les débats ont lieu en chambre du conseil, le ministère public entendu.
+La formation disciplinaire du Conseil national des greffiers des tribunaux de
+commerce ne peut valablement délibérer que si tous ses membres titulaires ou
+suppléants sont présents.
 
-Le tribunal peut entendre la personne qui se prétend lésée.
-
-Il peut ordonner toutes mesures d'instruction et faire procéder à toutes
-auditions.
+Les débats sont publics. Toutefois, la formation disciplinaire du Conseil
+national des greffiers des tribunaux de commerce peut, à la demande du procureur
+de la République, du président du Conseil national des greffiers des tribunaux
+de commerce ou du greffier poursuivi, ou s'il doit résulter de la publicité de
+ces débats une atteinte à l'intimité de la vie privée, décider qu'ils auront
+lieu ou se poursuivront en chambre du conseil.
