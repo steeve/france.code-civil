@@ -14,7 +14,7 @@ des formations dans le cadre de contrats d'insertion en alternance ou de
 contrats d'apprentissage.
 
 Il est chargé du suivi du déroulement des actions de formation professionnelle
-dispensées le cas échéant au jeune.
+dispensées au jeune.
 
 Il assure la liaison entre l'organisme de formation et, le cas échéant,
 l'organisme chargé du bilan et les salariés de l'entreprise qui ont la

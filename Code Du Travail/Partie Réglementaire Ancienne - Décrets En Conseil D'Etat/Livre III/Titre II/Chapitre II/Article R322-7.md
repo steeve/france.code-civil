@@ -21,6 +21,24 @@ Pour l'application des dispositions qui précèdent, la durée du travail accomp
 par le salarié intéressé doit être égale à 40 p. 100 au moins ou 50 p. 100 au
 plus de la durée antérieure du travail à temps plein.
 
+Toutefois, la convention peut prévoir, dans les limites qu'elle détermine, que
+la durée de travail du préretraité varie au cours de la période pluriannuelle
+pendant laquelle il bénéficie de l'allocation de préretraite progressive. Dans
+ce cas, la durée annuelle du travail du salarié en préretraite progressive ne
+peut être supérieure à 80 p. 100 ni inférieure à 20 p. 100 de la durée annuelle
+de travail antérieure à temps plein et sa durée moyenne de travail calculée sur
+l'ensemble de la période de versement de l'allocation doit être égale à 50 p.
+100 de la durée antérieure du travail à temps plein. La convention prévoit les
+variations de la durée du travail pendant la période qu'elle détermine, ainsi
+que le calcul sur une base constante de la rémunération mensuelle des salariés
+indépendamment de leur durée de travail effective.
+
+Le recrutement des demandeurs d'emplois mentionné au premier alinéa du présent
+paragraphe doit s'effectuer dès la première année d'application de la
+convention, sur la base d'une compensation du volume d'heures libéré par le
+passage à temps partiel du préretraité correspondant à la durée moyenne de
+travail pluriannuelle mentionnée à l'alinéa précédent.
+
 Les conventions de préretraite progressive déterminent le montant des ressources
 garanties et de l'allocation compte tenu, le cas échéant, des allocations ayant
 le même objet. Elles déterminent également le nombre de recrutements de

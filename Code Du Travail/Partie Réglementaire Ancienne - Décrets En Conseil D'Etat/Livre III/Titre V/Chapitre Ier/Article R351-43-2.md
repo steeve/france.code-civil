@@ -5,3 +5,7 @@ commissaire de la République délivre une attestation d'admission au bénéfice
 l'article L. 351-24 permettant à l'intéressé de bénéficier des avantages prévus
 par les articles L. 161-1 et L. 161-24 du code de la sécurité sociale et par
 l'article 4 de la loi n° 79-10 du 3 janvier 1979 modifiée.
+
+Cette attestation est également délivrée par le préfet, sur demande de
+l'intéressée, à la personne à laquelle l'aide doit être réputée accordée en
+application du deuxième alinéa de l'article L. 351-24.
