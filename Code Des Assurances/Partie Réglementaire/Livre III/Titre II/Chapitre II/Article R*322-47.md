@@ -27,7 +27,9 @@ espèces préalablement à la déclaration prévue à l'article R. 322-51 ou au 
 des statuts en mairie pour les organismes mentionnés à l'article 1235 du code
 rural ;
 
-6° (paragraphe abrogé).
+6° Préciser si, en vue de l'alimentation ultérieure du fonds d'établissement,
+chaque nouvel adhérent devra lors de la souscription du premier contrat
+d'assurance s'acquitter d'un droit d'entrée ou droit d'adhésion.
 
 7° Prévoir le mode de répartition des excédents de recettes ;
 
