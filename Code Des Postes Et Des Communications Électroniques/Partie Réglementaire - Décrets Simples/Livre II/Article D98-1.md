@@ -29,54 +29,100 @@ titre des dispositions du code pénal, et notamment au titre des articles 226-13
 
 2. Traitement des données à caractère personnel.
 
-L'opérateur prend les mesures propres à assurer la protection, l'intégrité et la
-confidentialité des informations identifiantes qu'il détient et qu'il traite.
+2.1. L'opérateur prend les mesures propres à assurer la protection, l'intégrité
+et la confidentialité des données à caractère personnel qu'il détient et qu'il
+traite.
 
-En particulier, l'opérateur garantit le droit pour toute personne :
+En particulier, l'opérateur garantit à toute personne physique ou morale le
+droit :
 
 - de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées.
-L'opérateur assure la gratuité de cette faculté ou, à défaut, subordonne son
-exercice à un paiement d'une somme raisonnable et non dissuasive ;
+L'exercice de ce droit est gratuit ;
 
-- de s'opposer gratuitement à l'inscription sur ces listes de l'adresse complète
-de son domicile dans la mesure où les données disponibles permettent de
-distinguer cet abonné de ses homonymes ainsi que, s'il y a lieu, d'une référence
-à son sexe ;
+- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs
+accessibles par un service de renseignements téléphoniques ;
 
-- de s'opposer gratuitement à l'utilisation de données de facturation la
-concernant par l'opérateur à des fins de prospection commerciale ;
+- de s'opposer gratuitement à la publication et à la communication de l'adresse
+complète de son domicile, dans la mesure où les données publiées ou
+communicables permettent de distinguer cette personne de ses homonymes, ainsi
+que de s'opposer, s'il y a lieu, à l'indication du sexe ;
 
-- d'interdire gratuitement que les informations identifiantes la concernant
-issues des listes d'abonnés soient utilisées dans des opérations commerciales
-soit par voie postale, soit par voie de télécommunications, à l'exception des
-opérations concernant l'activité autorisée et relevant de la relation
-contractuelle entre l'opérateur et l'abonné ;
+- de recevoir des factures non détaillées et, sur sa demande, des factures
+détaillées ;
 
-- ainsi que de pouvoir gratuitement obtenir communication des informations
-identifiantes la concernant et exiger qu'elles soient rectifiées, complétées,
-clarifiées, mises à jour ou effacées.
+- d'interdire gratuitement que les données à caractère personnel la concernant,
+issues des listes d'abonnés ou d'utilisateurs, soient employées pour des
+opérations de prospection directe par voie postale ou par voie de
+télécommunications, à l'exception des opérations concernant l'activité autorisée
+et relevant de la relation contractuelle entre l'opérateur et l'abonné ;
+
+- d'exercer gratuitement son droit d'accès aux données à caractère personnel la
+concernant ainsi que son droit de rectification de celles-ci.
 
 L'opérateur est tenu d'exploiter les données à caractère personnel conformément
-aux finalités déclarées. L'opérateur peut légitimement utiliser, conserver et,
-le cas échéant, transmettre à des tiers les données collectées dans le cadre de
-son activité, pour les besoins de la transmission des communications, de la
-facturation et du paiement des services rendus.
+aux finalités déclarées.
 
-L'opérateur permet à tous ses clients de s'opposer gratuitement, appel par appel
-ou de façon permanente, à l'identification de leur numéro ou de leur nom par le
-poste appelé. Cette fonction doit être également proposée pour des
-communications effectuées à partir de cabines téléphoniques publiques. En outre,
-l'opérateur met en oeuvre un dispositif particulier de suppression de cette
-fonction pour les raisons liées au fonctionnement des services d'urgence ou à la
+2.2. Lorsque les clients de l'opérateur reçoivent une facturation détaillée, les
+factures adressées :
+
+- comportent un niveau de détail suffisant pour permettre la vérification des
+montants facturés ;
+
+- ne mentionnent pas les appels gratuits pour l'utilisateur ;
+
+- n'indiquent pas les quatre derniers chiffres des numéros appelés, à moins que
+le client n'ait expressément demandé que cela soit le cas.
+
+La facturation détaillée est disponible gratuitement pour l'abonné. Toutefois,
+des prestations supplémentaires peuvent être, le cas échéant, proposées à
+l'abonné à un tarif raisonnable.
+
+2.3. L'opérateur permet à chacun de ses clients de s'opposer gratuitement et par
+un moyen simple, appel par appel ou de façon permanente (secret permanent), à
+l'identification de leur ligne par les postes appelés.
+
+Lorsqu'un usager dispose de plusieurs lignes, cette fonction est offerte pour
+chaque ligne.
+
+Cette fonction doit également être proposée pour des communications effectuées à
+partir de cabines téléphoniques publiques.
+
+L'opérateur met en oeuvre un dispositif particulier de suppression de cette
+fonction pour des raisons liées au fonctionnement des services d'urgence ou à la
 tranquillité de l'appelé, conformément à la réglementation en vigueur.
 
-L'opérateur doit prévoir des modalités permettant, à la demande de l'abonné vers
-lequel les appels sont transférés, d'interrompre le transfert d'appel.
+Lorsqu'un abonné dispose du secret permanent, l'opérateur lui permet de
+supprimer cette fonction, appel par appel, gratuitement et par un moyen simple.
+
+2.4. L'opérateur informe les abonnés lorsqu'il propose un service
+d'identification de la ligne appelante ou de la ligne connectée. Il les informe
+également des possibilités prévues aux deux alinéas suivants.
+
+Dans le cas où l'identification de la ligne appelante est offerte, l'opérateur
+permet à tout abonné d'empêcher par un moyen simple et gratuit que
+l'identification de la ligne appelante soit transmise vers son poste. Dans le
+cas où l'identification de la ligne connectée est offerte, l'opérateur permet à
+tout abonné d'empêcher par un moyen simple et gratuit l'identification de la
+ligne connectée auprès de la personne qui appelle.
+
+Dans le cas où l'identification de la ligne appelante est offerte et est
+indiquée avant l'établissement de l'appel, l'opérateur permet à tout abonné de
+refuser, par un moyen simple, les appels entrants émanant d'une ligne non
+identifiée. L'opérateur peut, pour des raisons techniques justifiées, demander à
+l'Autorité de régulation des télécommunications de disposer d'un délai pour la
+mise en oeuvre de cette fonction.
+
+2.5. L'opérateur permet à l'abonné vers lequel des appels sont transférés
+d'interrompre ou de faire interrompre le transfert d'appel gratuitement et par
+un moyen simple.
+
+2.6. L'opérateur informe tout abonné, préalablement à la souscription du
+contrat, des droits dont il dispose en application du 2.1 de la présente clause.
 
 Lorsque l'opérateur fait appel à des sociétés de commercialisation de services,
-il doit veiller, dans les relations contractuelles avec ces sociétés, au respect
-de ses obligations relatives aux conditions de confidentialité et de neutralité
-au regard des messages transmis et des informations liées aux communications.
+il veille, dans les relations contractuelles avec celles-ci, au respect de ses
+obligations relatives aux conditions de confidentialité et de neutralité au
+regard des messages transmis et des informations liées aux communications.
 
 3. Sécurité des communications.
 
@@ -89,6 +135,10 @@ faire communiquer les dispositions prises pour la sécurisation du réseau.
 
 L'opérateur informe ses clients des services existants permettant le cas échéant
 de renforcer la sécurité des communications.
+
+Lorsqu'il existe un risque particulier de violation de la sécurité du réseau,
+l'opérateur informe les abonnés de ce risque ainsi que de tout moyen éventuel
+d'y remédier et du coût que cela implique.
 
 f) Prescriptions exigées par la défense et la sécurité publique.
 
@@ -177,8 +227,9 @@ sa demande d'autorisation, celle-ci se substitue au montant minimal de 5 p. 100.
 
 L'opérateur satisfait à cette obligation par des contributions en nature ou par
 des contributions financières à des actions de recherche et de développement et
-de formation favorisant le développement des télécommunications en France, dont
-une part consacrée à la recherche coopérative ou précompétitive.
+de formation favorisant le développement des télécommunications dans la
+Communauté européenne, dont une part consacrée à la recherche coopérative ou
+précompétitive.
 
 L'opérateur est libre de la répartition de ces sommes, dont il rend compte a
 posteriori. A cet effet, il présente à l'Autorité de régulation des
@@ -326,14 +377,11 @@ service universel ;
 indicateurs pertinents permettant de l'apprécier, et aux conventions
 d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
-- dès leur conclusion :
+- dans un délai de dix jours suivant leur conclusion :
 
-- l'ensemble des conventions d'interconnexion.
+- l'ensemble des conventions d'interconnexion ;
 
-Lorsque l'opérateur fait appel contractuellement à des sociétés de
-commercialisation de service, il doit veiller, dans ses relations contractuelles
-avec ces sociétés, au respect de ses engagements au regard des informations à
-transmettre à l'Autorité de régulation des télécommunications.
+- les accords relatifs à l'accès spécial au réseau.
 
 A la demande de l'Autorité de régulation des télécommunications motivée au titre
 de l'exercice de l'une de ses compétences, l'opérateur fournit d'autres

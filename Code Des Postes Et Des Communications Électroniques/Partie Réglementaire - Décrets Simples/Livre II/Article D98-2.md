@@ -53,10 +53,16 @@ de celles résultant de l'application éventuelle du II de l'article L. 33-1.
 
 Clause r.
 
-L'exploitant autorisé a l'obligation d'informer le public de ses tarifs et de
-ses conditions générales d'offre de service. Il les communique, avant de les
-porter à la connaissance du public, à l'Autorité de régulation des
-télécommunications.
+L'opérateur informe le public de ses tarifs et de ses conditions générales
+d'offre de service. Celles-ci indiquent de façon claire et précise les
+conditions de renouvellement des contrats ainsi que, le cas échéant, toute durée
+contractuelle minimale.
+
+L'opérateur met ces informations, tenues à jour, à la disposition du public dans
+ses points de vente. Par ailleurs, il met en place un ou des moyens simples et
+gratuits d'accéder à distance à ces informations. Il communique ces informations
+à l'Autorité de régulation des télécommunications avant de les porter à la
+connaissance du public.
 
 Le service fourni est ouvert à tous ceux qui en font la demande, dans le respect
 des conditions générales d'offre de l'opérateur, et tant que la qualité de
@@ -66,14 +72,33 @@ A cette fin, l'exploitant autorisé organise son réseau et son service de mani�
 zone de couverture. Les clients doivent être traités de manière non
 discriminatoire.
 
-Les contrats conclus avec les utilisateurs précisent les conditions de
-fourniture du service et ses caractéristiques techniques, ainsi que les
-procédures de recours et d'indemnisation dont dispose l'utilisateur en cas de
-préjudice qu'il subit. Ces contrats respectent les dispositions de la loi du 10
-janvier 1978 modifiée sur la protection et l'information des consommateurs, et
-ne contiennent pas de clause contraire au code des postes et télécommunications
-ou aux dispositions prises pour son application.
+Les contrats conclus avec les utilisateurs pour la fourniture du service
+téléphonique au public précisent au minimum :
 
-Les licences peuvent également contenir des dispositions visant à protéger les
-droits des utilisateurs, en tenant compte, notamment, des modes de
-commercialisation des services offerts.
+- les conditions générales d'offre, notamment les délais de fourniture et les
+caractéristiques techniques du service et les types de services de maintenance
+offerts ;
+
+- des informations sur les niveaux de qualité des services offerts ;
+
+- les compensations accordées par l'opérateur à l'utilisateur en cas de
+manquement aux exigences de qualité déterminées dans la clause b du cahier des
+charges ;
+
+- les procédures de recours et d'indemnisation à la disposition de l'utilisateur
+au cas où il subirait un préjudice, et en particulier les conditions de
+traitement amiable des litiges ;
+
+- les conditions d'interruption du service, après mise en demeure de l'usager,
+en cas de non-paiement des factures. Sauf en cas de fraude, de retard ou de
+défaut de paiement persistants, ces conditions prévoient, lorsque cela est
+techniquement possible, que seul le service pour lequel des factures sont
+restées impayées est interrompu.
+
+Ces contrats respectent les dispositions du code de la consommation, et du code
+des postes et des communications électroniques et celles prises pour leur
+application.
+
+Les cahiers des charges peuvent également contenir les dispositions visant à
+protéger les droits des utilisateurs en tenant compte, notamment, des modes de
+commercialisation offerts.
