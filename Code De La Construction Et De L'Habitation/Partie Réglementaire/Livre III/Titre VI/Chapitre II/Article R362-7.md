@@ -1,6 +1,7 @@
 Article R362-7
 ----
-Un bilan général annuel des aides à la personne attribuées dans le département
-est communiqué au conseil départemental de l'habitat. Celui-ci examine les
-questions relatives à l'application dans le département des textes qui régissent
-l'aide personnalisée au logement.
+Le préfet de région établit la liste des catégories d'associations ou
+d'organismes mentionnés au 3° de l'article R. 362-3 et le nombre de
+représentants par catégorie. Il arrête la liste des membres de ce collège après
+y avoir adjoint, en tant que de besoin, des personnalités compétentes dans le
+domaine de l'habitat.

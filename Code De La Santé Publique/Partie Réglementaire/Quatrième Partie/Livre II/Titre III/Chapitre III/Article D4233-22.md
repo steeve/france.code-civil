@@ -7,7 +7,7 @@ tandem de délégué titulaire et de délégué suppléant pour chacun des
 arrondissements suivants :
 
 1° Département de la Guadeloupe : arrondissements de Basse-Terre, Pointe-à-Pitre
-et Saint-Martin - Saint-Barthélemy ;
+et Saint-Martin-Saint-Barthélemy ;
 
 2° Département de la Martinique : arrondissements de Fort-de-France, du Marin,
 de Saint-Pierre et de La Trinité ;
@@ -27,11 +27,14 @@ pharmaciens de cette circonscription.
 Les déclarations de candidature à la délégation locale sont adressées par lettre
 recommandée avec demande d'avis de réception au président de cette délégation
 ou, selon le cas, au délégué unique. Ce président ou ce délégué assure l'envoi
-des documents électoraux prévus à l'article D. 4233-11.
+des documents électoraux prévus aux articles D. 4233-13 et D. 4233-15.
+
+Par dérogation aux dispositions de l'article D. 4233-15-2, le dépouillement a
+lieu au siège de la délégation.
 
 Dans chaque collectivité, les délégués se réunissent au siège de la délégation
 pour l'examen des questions relevant de leurs compétences.
 
 Dans le cas où aucun pharmacien n'est élu ou en l'absence de délégation locale,
-le représentant de l'Etat dans la collectivité exerce les attributions des
-délégués mentionnés au présent article.
+le conseil central de la section E exerce les attributions des délégués
+mentionnés au présent article.

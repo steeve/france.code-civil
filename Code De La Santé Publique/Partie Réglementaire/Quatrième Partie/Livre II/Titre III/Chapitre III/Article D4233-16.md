@@ -13,9 +13,10 @@ Sont annexés au procès-verbal :
 
 1° La liste électorale, sur laquelle les noms des votants ont été pointés ;
 
-2° Les enveloppes extérieures, non décachetées, des personnes qui ont pris part
-au vote sans en remplir les conditions et les enveloppes intérieures, non
-ouvertes, portant une marque de reconnaissance ;
+2° Les enveloppes d'acheminement, non décachetées, des personnes qui ont pris
+part au vote sans en remplir les conditions, ou correspondant à un double vote
+du même électeur, ou portant une mention ou un signe, mentionné au troisième
+alinéa de l'article D. 4233-15-1 ;
 
 3° Les bulletins blancs ou nuls, contresignés par les membres du bureau.
 

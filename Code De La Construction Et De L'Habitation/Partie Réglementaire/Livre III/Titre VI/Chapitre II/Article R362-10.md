@@ -1,28 +1,12 @@
 Article R362-10
 ----
-Outre son président, le conseil départemental de l'habitat est composé :
+Le comité régional de l'habitat crée en son sein un bureau comprenant au moins,
+outre le président ou son représentant, deux membres de chacun des collèges
+définis à l'article R. 362-3. Des suppléants sont désignés dans les mêmes
+conditions que les titulaires. Le bureau organise les travaux du comité et, le
+cas échéant, des commissions prévues à l'article R. 362-11 et propose au comité
+un règlement intérieur. Le président ou le bureau peut saisir le comité de toute
+question entrant dans les compétences énumérées aux articles R. 362-1 et R.
+362-2.
 
-a) De trente-six membres nommés par arrêté du préfet répartis en trois groupes
-de même importance, à savoir :
-
-1° Pour un tiers, de représentants du conseil général, des communes et des
-groupements de communes du département désignés dans les conditions fixées à
-l'article R. 362-12 ;
-
-2° Pour un tiers, de professionnels intervenant dans le département pour la
-construction, l'amélioration de l'habitat ou la mise en oeuvre des moyens
-financiers correspondants, désignés dans les conditions fixées à l'article R.
-362-14 ;
-
-3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires
-ou de bailleurs privés de représentants d'associations d'insertion et de défense
-des personnes en situation d'exclusion par le logement, de représentants des
-partenaires sociaux associés à la gestion de la participation des employeurs à
-l'effort de construction, ainsi que de personnalités ou représentants
-d'organismes choisis en raison de leurs compétences en matière d'habitat dans
-les conditions fixées à l'article R. 362-14.
-
-b) Des membres de la section des aides publiques au logement composée comme il
-est indiqué à l'article R. 351-48.
-
-Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+Le bureau rend compte de son activité au comité régional de l'habitat.

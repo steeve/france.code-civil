@@ -1,16 +1,17 @@
 Article D4233-12
 ----
-Le pharmacien électeur vote exclusivement par correspondance.
+Les données relatives aux électeurs et à leur vote font l'objet de deux
+traitements automatisés d'information distincts, respectivement dénommés
+"fichier des électeurs" et "contenu de l'urne électronique".
 
-Il ne peut, à peine de nullité de son vote, dissocier ou modifier un tandem de
-candidats ni désigner un nombre de tandems supérieur au nombre de postes à
-pourvoir.
+Le traitement dénommé "fichier des électeurs" a pour objet de fournir à chaque
+électeur, à partir de la liste électorale, des codes lui permettant d'exprimer
+son vote par voie électronique, d'identifier les électeurs ayant pris part au
+vote électronique et d'en éditer la liste.
 
-Il insère son bulletin de vote dans la première enveloppe. Il ferme celle-ci et
-la place, sans y porter aucune mention, dans la seconde enveloppe.
+Le traitement dénommé "contenu de l'urne électronique" a pour objet de recenser
+les votes exprimés par voie électronique. Les données de ce second fichier sont
+cryptées et ne peuvent comporter de lien permettant l'identification des
+électeurs.
 
-Sur cette dernière, il doit, à peine de nullité de son vote, écrire son nom et
-son adresse professionnelle.
-
-Il cachette l'enveloppe extérieure et l'envoie ou la remet contre récépissé à
-l'adresse mentionnée à l'article D. 4233-11.
+Le droit d'accès s'exerce auprès du Conseil national de l'ordre des pharmaciens.

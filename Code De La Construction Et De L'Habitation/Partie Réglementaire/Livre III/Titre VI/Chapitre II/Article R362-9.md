@@ -1,3 +1,4 @@
 Article R362-9
 ----
-Le président du conseil départemental de l'habitat est le préfet.
+En cas de partage égal des voix au sein du comité régional de l'habitat ou du
+bureau, la voix du président est prépondérante.

@@ -1,43 +1,32 @@
 Article R362-2
 ----
-Le conseil départemental de l'habitat, dans les conditions fixées aux articles
-R. 362-3 à R. 362-8, a vocation à émettre un avis:
+Le comité régional de l'habitat est également consulté :
 
-a) Sur la satisfaction des besoins en logements des différentes catégories de
-population ;
+1° Sur le projet de répartition des crédits publics entre les établissements
+publics de coopération intercommunale et les départements en application du
+troisième alinéa de l'article L. 301-3, établi chaque année par le préfet de
+région ;
 
-b) Sur la programmation annuelle des aides de l'Etat au logement et des
-interventions de l'Agence nationale pour l'amélioration de l'habitat ;
+2° Sur les projets de programmes locaux de l'habitat établis en application de
+l'article L. 302-2 ;
 
-c) Sur la coordination des financements contribuant aux opérations de
-construction et d'amélioration bénéficiant de l'aide de l'Etat ;
+3° Au vu des bilans triennaux prévus à l'article L. 302-9, sur les projets
+d'arrêtés prévus à l'article L. 302-9-1 ;
 
-d) Sur les modalités d'application des principes nationaux pour l'attribution
-des logements locatifs sociaux ;
+4° Sur toute création, dissolution ou modification de compétences des organismes
+d'habitations à loyer modéré exerçant ou demandant à être autorisés à exercer
+leur activité dans la région. Toutefois, l'avis du comité n'est requis ni pour
+le retrait temporaire d'une ou plusieurs compétences décidé en application des
+articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la dissolution prononcée en
+application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 
-e) Sur les programmes d'actions en faveur du logement des immigrés et des
-populations défavorisées ;
+5° Sur les projets de règlements départementaux prévus à l'article L. 441-1-1,
+les projets d'accords collectifs prévus à l'article L. 441-1-2 et les projets de
+délimitations des bassins d'habitat prévus à l'article L. 441-1-4 ;
 
-f) Sur les modalités selon lesquelles les aides à la personne en matière de
-logement sont mises en oeuvre dans le département ;
+6° Sur les projets de plans départementaux d'action pour le logement des
+personnes défavorisées.
 
-g) Sur toute création, dissolution ou modification de compétences des organismes
-d'habitations à loyer modéré et des sociétés anonymes de coordination
-d'organismes d'habitations à loyer modéré exerçant ou demandant à être autorisés
-à exercer leur activité dans le département. Toutefois, cet avis n'est requis ni
-pour le retrait temporaire d'une ou plusieurs compétences décidé en application
-des articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la dissolution prononcée
-en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
-
-h) Sur les programmes locaux de l'habitat et leur réalisation.
-
-La section des aides publiques au logement du conseil départemental de l'habitat
-exerce les compétences prévues à l'article R. 351-47.
-
-La commission spécialisée des rapports locatifs créée par l'article 41 bis de la
-loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41
-ter de la même loi dans les conditions définies par l'article R. 362-20.
-
-Le président de la commission d'amélioration de l'habitat instituée à l'article
-R. 321-10 fournit un rapport annuel au conseil départemental de l'habitat lui
-permettant d'émettre l'avis mentionné au b ci-dessus.
+Le comité régional de l'habitat peut déléguer tout ou partie des compétences
+prévues aux 2° à 6° du présent article à son bureau ou aux commissions
+spécialisées mentionnées à l'article R. 362-11.

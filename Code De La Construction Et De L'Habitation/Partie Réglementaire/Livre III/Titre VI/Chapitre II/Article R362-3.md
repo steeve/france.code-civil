@@ -1,12 +1,22 @@
 Article R362-3
 ----
-Au plus tard le 15 novembre de chaque année, le conseil départemental de
-l'habitat prend connaissance d'un rapport du préfet portant sur l'état
-d'avancement des programmes de construction et d'amélioration de l'habitat
-financés avec l'aide de l'Etat ou de l'Agence nationale pour l'amélioration de
-l'habitat, au titre des années antérieures et de l'année en cours et sur les
-programmes locaux de l'habitat définis par les communes ou groupements de
-communes du département. Il émet un avis sur les orientations et les critères de
-choix à prendre en compte dans la programmation des aides de l'Etat et des
-interventions de l'Agence nationale pour l'amélioration de l'habitat pour
-l'année suivante.
+Le comité régional de l'habitat est présidé par le préfet de région qui peut se
+faire représenter. Les préfets de département, ou leur représentant, assistent
+de droit, avec voix consultative, aux séances du comité régional de l'habitat.
+
+Les membres du comité régional de l'habitat sont répartis en trois collèges :
+
+1° Un collège de représentants des collectivités territoriales et de leurs
+groupements ;
+
+2° Un collège de professionnels intervenant dans les domaines du logement, de
+l'immobilier, de la construction ou de la mise en oeuvre des moyens financiers
+correspondants ;
+
+3° Un collège de représentants d'organisations d'usagers, de bailleurs privés,
+d'associations d'insertion et de défense des personnes en situation d'exclusion
+par le logement, des partenaires sociaux associés à la gestion de la
+participation des employeurs à l'effort de construction et de personnalités
+qualifiées.
+
+Aucun collège ne peut comprendre plus de la moitié des membres du comité.

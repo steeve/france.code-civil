@@ -1,22 +1,18 @@
 Article D4233-13
 ----
-Le dépouillement du scrutin a lieu au siège du conseil, au jour fixé par
-l'arrêté ministériel mentionné à l'article D. 4233-7.
+Quinze jours au moins avant l'élection, le président du conseil régional ou
+central intéressé par cette élection adresse aux électeurs :
 
-Il est assuré par un bureau composé :
+1° Les dates et heures d'ouverture et de clôture du scrutin ;
 
-1° D'un représentant du ministre chargé de la santé, président. Ce représentant
-est désigné, pour les conseils régionaux, par le préfet de région et, pour les
-autres conseils, par le ministre ;
+2° La liste des tandems de candidats établie par ordre alphabétique des noms des
+candidats titulaires, à partir d'une lettre tirée au sort par le conseil
+national ;
 
-2° Du pharmacien le plus âgé et du pharmacien le plus jeune présents au moment
-de l'ouverture de la séance de dépouillement.
+3° Les éventuelles circulaires des tandems mentionnées à l'article D. 4233-10 ;
 
-Il est procédé à ce dépouillement par des scrutateurs désignés par le président.
-A défaut de scrutateurs, le dépouillement est effectué par les membres du
-bureau.
+4° Les instructions relatives aux modalités du vote électronique ;
 
-Les électeurs ont librement accès à la salle de dépouillement pendant le
-déroulement de celui-ci.
-
-Le président assure la police de la salle.
+5° Dans des conditions garantissant leur confidentialité, un code
+d'identification personnel et un mot de passe unique permettant à l'électeur
+d'accéder au système auquel il doit se relier pour voter.

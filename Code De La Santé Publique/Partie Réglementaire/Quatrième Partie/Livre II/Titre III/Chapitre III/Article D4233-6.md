@@ -6,9 +6,12 @@ Pour être éligible à l'un des conseils de l'ordre, le pharmacien doit :
 catégorie professionnelle concernés. Toutefois, conformément à l'article L.
 4232-13, les pharmaciens exerçant en métropole sont éligibles aux fonctions de
 représentant d'une sous-section de la section E au conseil central de cette
-section et au conseil national ;
+section et au conseil national. Un pharmacien électeur dans plusieurs collèges
+d'une même section ne peut se porter candidat qu'au titre de l'un de ces
+collèges ;
 
-2° Avoir été inscrit à l'ordre pendant une durée totale d'au moins cinq ans ;
+2° Avoir été inscrit à l'ordre pendant une durée totale d'au moins cinq ans à la
+date de l'élection ;
 
 3° Ne pas avoir été frappé d'une interdiction d'exercice devenue définitive ;
 
