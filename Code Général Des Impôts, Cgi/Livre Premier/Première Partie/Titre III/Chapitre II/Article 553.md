@@ -1,8 +1,9 @@
 Article 553
 ----
-Les modalités d'application de l'impôt visé au présent chapitre et, notamment,
-celles qui sont relatives à l'essai des ouvrages, à l'application des poinçons,
-à l'organisation et au fonctionnement des bureaux de garantie, sont fixées par
-décret (1).
-
-(1) Art. 1825 D et Annexe III, art. 187 à 214.
+Les modalités d'application des articles relatifs aux ouvrages d'or ou contenant
+de l'or, d'argent ou de platine, notamment celles qui sont relatives au droit
+spécifique sur les ouvrages mentionnés à l'article 522, à l'essai ou à la
+délivrance des habilitations, à l'application des poinçons, à l'organisation et
+au fonctionnement des bureaux de garantie et des organismes de contrôle agréés,
+sont fixées par décret, sous réserve des décrets en Conseil d'Etat prévus aux
+articles 530 bis et 535.

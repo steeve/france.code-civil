@@ -1,15 +1,13 @@
 Article 542
 ----
-Lorsque les ouvrages d'or, d'argent ou de platine revêtus de l'empreinte des
-poinçons réglementaires intérieurs sont exportés hors du territoire
-communautaire, le droit de garantie est remboursé à l'exportateur sous la
-condition que les ouvrages soient marqués d'un poinçon spécial.
+Lorsque les ouvrages revêtus de l'empreinte des poinçons réglementaires
+intérieurs sont exportés ou font l'objet d'une livraison à destination d'un
+autre Etat membre de l'Union européenne, le droit spécifique n'est pas dû par le
+redevable sous la condition qu'il justifie soit de l'exportation par un document
+douanier, soit de la livraison à destination d'un autre Etat membre de l'Union
+européenne par tous documents probants.
 
-Les fabricants ou marchands qui demandent le remboursement des droits doivent
-présenter les objets à l'un des bureaux de garantie spécialement désignés à cet
-effet.
-
-La restitution est subordonnée à la présentation, dans le délai de trois mois,
-d'un certificat de l'administration des douanes ou de celle des postes
-constatant la sortie de France des ouvrages exportés. En cas de sortie par
-avion, ce certificat est établi par la douane de destination.
+Lorsque le droit a déjà été acquitté, il peut en être demandé le remboursement
+si, en plus des justificatifs d'exportation ou de livraison à destination d'un
+autre Etat membre de l'Union européenne, la preuve est apportée par celui qui
+réalise l'opération du paiement antérieur du droit afférent à ces ouvrages.

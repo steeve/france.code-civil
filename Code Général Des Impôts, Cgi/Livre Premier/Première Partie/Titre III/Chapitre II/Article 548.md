@@ -1,23 +1,31 @@
 Article 548
 ----
-Les ouvrages d'or, d'argent et de platine importés d'un Etat non membre de la
-Communauté économique européenne doivent être présentés aux agents des douanes
-pour être déclarés, pesés, plombés. Ils sont frappés, par l'importateur, du
-poinçon dit " de responsabilité ", qui est soumis aux mêmes règles que le
-poinçon de maître du fabricant. Ces ouvrages sont ensuite envoyés au bureau de
-garantie le plus voisin, où ils sont marqués s'ils possèdent l'un des titres
-légaux.
+Les ouvrages importés d'un Etat non membre de l'Union européenne doivent être
+présentés aux agents des douanes pour être déclarés et pesés. Ils sont frappés,
+par l'importateur, du poinçon dit "de responsabilité", qui est soumis aux mêmes
+règles que le poinçon de maître du fabricant. Ces ouvrages sont ensuite, selon
+le cas, envoyés, sous plomb, au bureau de garantie le plus voisin pour les
+ouvrages susceptibles de bénéficier de la garantie d'Etat, ou à l'organisme de
+contrôle agréé pour les autres ouvrages, afin d'être marqués s'ils possèdent
+l'un des titres légaux.
 
-Les ouvrages fabriqués ou mis en libre pratique dans un Etat membre de la
-Communauté économique européenne, comportant déjà l'empreinte d'un poinçon de
-fabricant ou d'un poinçon de responsabilité préalablement déposé auprès d'un
-bureau de garantie, sont portés à ce dernier par le professionnel responsable de
-leur introduction en France, pour y être marqués s'ils possèdent l'un des titres
-légaux. En l'absence de l'une de ces empreintes, ces ouvrages sont soumis aux
+Les ouvrages aux titres légaux, fabriqués ou mis en libre pratique dans un Etat
+membre de l'Union européenne, comportant déjà l'empreinte, d'une part, d'un
+poinçon de fabricant ou d'un poinçon de responsabilité et, d'autre part, d'un
+poinçon de titre, enregistrés dans cet Etat, peuvent être commercialisés sur le
+territoire national sans contrôle préalable d'un bureau de garantie français ou
+d'un organisme agréé français, selon le cas, à la condition que le poinçon de
+fabricant dont ils sont revêtus ait été déposé au service de la garantie et le
+poinçon de titre reconnu par ce service. Toutefois les personnes qui les
+commercialisent sur le territoire national ont la faculté de présenter ces
+ouvrages à la garantie pour y être essayés et insculpés du poinçon de titre
+français. En l'absence de l'une de ces empreintes, ces ouvrages sont soumis aux
 dispositions de l'alinéa précédent.
 
-Tous ces ouvrages supportent des droits égaux à ceux perçus pour les ouvrages de
-même nature fabriqués en France.
+Les fabricants ou leurs représentants ou les professionnels responsables de
+l'introduction en France de leurs ouvrages en provenance des autres Etats
+membres de l'Union européenne doivent déposer leur poinçon au service de la
+garantie préalablement à toute opération.
 
 Sont exceptés des dispositions ci-dessus :
 
