@@ -1,0 +1,5 @@
+Article R180-13
+----
+Lorsqu'il existe un conseil d'établissement ou de service, le projet
+d'établissement ou de service et le règlement intérieur lui sont soumis pour
+avis avant leur adoption.
