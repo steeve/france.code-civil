@@ -8,8 +8,8 @@ employeurs à l'effort de construction, les chambres de commerce et d'industrie
 et les organismes à caractère désintéressé.
 
 Toute convention de réservation de logement établie en application dudit alinéa
-est communiquée au commissaire de la République du département de l'implantation
-des logements réservés.
+est communiquée au préfet du département de l'implantation des logements
+réservés.
 
 Les conventions comportent indication du délai dans lequel le réservataire
 propose des candidats à l'organisme ainsi que des modalités d'affectation du
