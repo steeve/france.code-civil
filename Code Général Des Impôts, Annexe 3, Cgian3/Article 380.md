@@ -1,6 +1,6 @@
 Article 380
 ----
-I. - La liquidation des contributions est faite par l'entreprise et le montant
+I. - La liquidation de la contribution est faite par l'entreprise et le montant
 en est versé par elle, sans avis d'imposition, sous déduction de l'acompte déjà
 réglé, au plus tard le jour de l'expiration du délai fixé pour la remise de la
 déclaration prévue au 1 de l'article 223 du code général des impôts.
