@@ -1,7 +1,7 @@
 Article 54 decies
 ----
 Est autorisée l'utilisation des machines à timbrer qui suivant les prévisions de
-l'article 54 H, sont destinées à apposer des marques fiscales qui confèrent en
+l'article 54 E, sont destinées à apposer des marques fiscales qui confèrent en
 remplacement de vignettes le caractère de titre de mouvement aux factures-congés
 utilisées pour couvrir la circulation de boissons passibles de droits indirects.
 
