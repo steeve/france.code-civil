@@ -14,7 +14,8 @@ d'ajustement n'est pas reportable.
 
 Lorsque deux prélèvements fractionnés n'ont pu être effectués par la faute du
 cotisant à l'échéance fixée, celui-ci perd le bénéfice de son option pour les
-prélèvements restant à opérer pour l'année en cours.
+prélèvements restant à opérer pour l'année en cours. Toutefois, aucune
+majoration de retard n'est appliquée aux cotisations déjà prélevées.
 
 A défaut de paiement dans les conditions susmentionnées, les cotisations
 deviennent exigibles selon les dispositions prévues aux articles D. 612-2, D.

@@ -1,7 +1,8 @@
 Article D612-13
 ----
-Les cotisations de base sont dues à compter de la date d'effet de l'affiliation.
-Elles sont payables d'avance suivant les modalités fixées à l'article D. 612-2.
+Les cotisations de base sont dues à compter de la date à laquelle l'assuré a
+débuté son activité. Elles sont payables d'avance suivant les modalités fixées à
+l'article D. 612-2.
 
 Toutefois, pour les nouveaux cotisants, la date limite de paiement est fixée au
 premier jour du quatrième mois qui suit la décision d'affiliation. Ils sont

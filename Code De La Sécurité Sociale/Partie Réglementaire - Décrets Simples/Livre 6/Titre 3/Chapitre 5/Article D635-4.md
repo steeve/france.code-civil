@@ -5,9 +5,7 @@ et quatrième alinéas ci-après, la cotisation annuelle du régime d'assurance
 vieillesse complémentaire est assise sur les revenus professionnels non salariés
 de l'avant-dernière année civile déclarés dans les conditions fixées à l'article
 D. 633-3 et dans la limite d'un plafond égal à quatre fois celui mentionné à
-l'article L. 633-10 en vigueur dans l'année où la cotisation est due. A défaut
-de déclaration par l'assuré de ses revenus professionnels, la cotisation est
-déterminée sur la base de ladite limite.
+l'article L. 633-10 en vigueur dans l'année où la cotisation est due.
 
 Toutefois, le montant de cette cotisation ne peut être inférieur à celui qui
 serait dû au titre d'un revenu égal au revenu minimum prévu à l'article D.
