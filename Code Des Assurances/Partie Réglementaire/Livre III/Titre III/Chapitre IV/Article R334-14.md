@@ -9,5 +9,5 @@ sur le territoire de la République française.
 
 Les éléments constitutifs de la marge doivent être localisés sur le territoire
 de la République française au moins jusqu'à concurrence du fonds de garantie
-mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de la
-Communauté économique européenne.
+mentionné à l'article R. 334-16 et pour le surplus à l'intérieur de l'Espace
+économique européen.

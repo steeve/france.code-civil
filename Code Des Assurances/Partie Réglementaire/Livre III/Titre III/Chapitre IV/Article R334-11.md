@@ -1,7 +1,9 @@
 Article R334-11
 ----
 La marge de solvabilité mentionnée à l'article R. 334-1 est constituée, après
-déduction des pertes et des éléments incorporels, par les éléments suivants :
+déduction des pertes, de la part des frais d'acquisition non admise en
+représentation des engagements réglementés et des autres éléments incorporels,
+par les éléments suivants :
 
 1. Le capital social versé ou le fonds d'établissement constitué ;
 

@@ -1,18 +1,8 @@
 Article R334-18
 ----
-Une entreprise mentionnée à l'article précédent peut également demander, en
-motivant son choix, à la commission de contrôle des assurances de faire l'objet
-dans un autre Etat membre de la vérification de solvabilité globale.
-
-Si cette demande est acceptée, elle prend effet à la date à laquelle la
-commission de contrôle des assurances reçoit notification de l'engagement
-souscrit par l'autorité de contrôle d'un autre Etat membre d'assurer la
-vérification de solvabilité globale.
-
-L'entreprise est alors dispensée de l'obligation de déposer en France le
-cautionnement prévu par l'article R. 321-12.
-
-Lorsque la vérification de solvabilité globale est exercée par l'autorité de
-contrôle d'un autre Etat membre de l'Espace économique européen, la commission
-de contrôle des assurances lui adresse toutes informations utiles concernant
-l'activité de la succursale française de l'entreprise.
+La marge de solvabilité des entreprises mentionnées au 4° de l'article L. 310-2
+afférente aux opérations réalisées sur le territoire de la République française
+est constituée, après déduction des pertes, de la part des frais d'acquisition
+non admise en représentation des engagements réglementés et des autres éléments
+incorporels, par les éléments définis aux 3, 4 et 5 de l'article R. 334-11, dans
+les limites fixées à l'article R. 334-17.
