@@ -19,10 +19,10 @@ Du jour de la publication du décret qui soumet le brevet au régime de la licen
 d'office, toute personne qualifiée peut demander au ministre chargé de la
 propriété industrielle l'octroi d'une licence d'exploitation.
 
-Cette licence ne peut être que non exclusive : elle est accordée par arrêté
-dudit ministre à des conditions déterminées quant à sa durée et son champ
-d'application, mais à l'exclusion des redevances auxquelles elle donne lieu.
-Elle prend effet à la date de notification de l'arrêté aux parties.
+Cette licence est accordée par arrêté dudit ministre à des conditions
+déterminées quant à sa durée et son champ d'application, mais à l'exclusion des
+redevances auxquelles elle donne lieu. Elle prend effet à la date de
+notification de l'arrêté aux parties.
 
 A défaut d'accord amiable, le montant des redevances est fixé par le tribunal de
 grande instance.
