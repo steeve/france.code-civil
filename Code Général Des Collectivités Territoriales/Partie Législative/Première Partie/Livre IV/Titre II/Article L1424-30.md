@@ -16,10 +16,10 @@ nécessaires. Il peut recevoir délégation pour prendre les décisions mentionn
 au III de l'article L. 1618-2. Il informe le conseil d'administration des actes
 pris dans le cadre de cette délégation. Il peut être chargé de prendre toute
 décision concernant la préparation, la passation, l'exécution et le règlement
-des marchés de travaux, de fournitures et de services visés à l'article 28 du
-code des marchés publics et pouvant être passés sans formalités préalables. Il
-peut être chargé de fixer les rémunérations et de régler les frais et honoraires
-des avocats, notaires, avoués, huissiers de justice et experts.
+des marchés de travaux, de fournitures et de services pouvant être passés selon
+une procédure adaptée. Il peut être chargé de fixer les rémunérations et de
+régler les frais et honoraires des avocats, notaires, avoués, huissiers de
+justice et experts.
 
 Il peut déléguer, par arrêté, sous sa surveillance et sa responsabilité,
 l'exercice d'une partie de ses fonctions aux membres du bureau du conseil
@@ -31,19 +31,3 @@ par le premier vice-président et, en cas d'absence ou d'empêchement de celui-c
 par un autre vice-président. En cas de vacance simultanée des sièges du
 président et des vice-présidents, le conseil d'administration est convoqué en
 urgence par le doyen d'âge pour procéder à l'élection d'un nouveau bureau.
-
-Le directeur départemental du service départemental d'incendie et de secours est
-placé sous l'autorité du président du conseil d'administration pour la gestion
-administrative et financière de l'établissement. Le directeur départemental peut
-être assisté d'un directeur adjoint, nommé par le président du conseil
-d'administration.
-
-Pour l'exercice des missions de gestion administrative et financière, le
-président du conseil d'administration peut, sous sa surveillance et sa
-responsabilité, accorder une délégation de signature au directeur départemental
-du service d'incendie et de secours et, le cas échéant, au directeur adjoint.
-
-En cas d'absence ou d'empêchement du directeur départemental du service
-d'incendie et de secours, le président du conseil d'administration peut
-également donner une délégation de signature aux différents chefs de services,
-dans la limite de leurs attributions respectives.

@@ -16,11 +16,10 @@ risque, ainsi que sur les garanties prévues à l'article L. 125-1 du code des
 assurances. Cette information est délivrée avec l'assistance des services de
 l'Etat compétents, à partir des éléments portés à la connaissance du maire par
 le représentant de l'Etat dans le département, lorsqu'elle est notamment
-relative aux mesures prises en application de la loi n° 87-565 du 22 juillet
-1987 relative à l'organisation de la sécurité civile, à la protection de la
-forêt contre l'incendie et à la prévention des risques majeurs et ne porte pas
-sur les mesures mises en oeuvre par le maire en application de l'article L.
-2212-2 du code général des collectivités territoriales.
+relative aux mesures prises en application de la loi n° 2004-811 du 13 août 2004
+de modernisation de la sécurité civile et ne porte pas sur les mesures mises en
+oeuvre par le maire en application de l'article L. 2212-2 du code général des
+collectivités territoriales.
 
 Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il
 détermine notamment les modalités selon lesquelles les mesures de sauvegarde
