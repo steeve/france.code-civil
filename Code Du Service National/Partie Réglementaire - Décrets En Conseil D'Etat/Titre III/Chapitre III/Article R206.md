@@ -1,22 +1,35 @@
 Article R206
 ----
-Pour la détermination de l'indemnité forfaitaire d'entretien qui, par
+I. - Pour la détermination de l'indemnité forfaitaire d'entretien qui, par
 application de l'article L. 104, est allouée aux jeunes gens servant au titre de
-l'aide technique ou de la coopération pendant toute la période à laquelle ils
-appartiennent à l'un de ces services, les départements, les territoires
-d'outre-mer, ainsi que les États de séjour et, le cas échéant, certaines régions
-de ces États, sont classés en groupe répondant à des sujétions comparables
-d'éloignement, de climat et de servitudes diverses.
+l'aide technique pendant toute la période de ce service, les départements, les
+territoires et les collectivités territoriales d'outre-mer sont classés en
+groupe répondant à des sujétions comparables d'éloignement, de climat et de
+servitudes diverses.
 
 A chaque groupe correspond un taux de base.
 
-Pour le service de l'aide technique, l'indemnité forfaitaire est ajustée aux
-variations du co^ut de la vie par l'application aux taux de base des majorations
-applicables aux rémunérations de la fonction publique.
+L'indemnité forfaitaire est ajustée aux variations du coût de la vie par
+l'application aux taux de base des majorations applicables aux rémunérations de
+la fonction publique.
 
-Pour le service de la coopération, l'indemnité forfaitaire est calculée à partir
-du taux de base, auquel est appliqué un coefficient de correction fixé par
-arr^eté et qui varie avec le co^ut de la vie dans l'État ou la région de séjour.
-Toutefois dans les États pour lesquels il n'est pas fixé de coefficient de
-correction, l'indemnité forfaitaire est ajustée par application au taux de base
-des majorations applicables aux rémunérations de la fonction publique.
+II. - L'indemnité d'entretien qui, par application de l'article L. 104, est
+allouée aux jeunes gens servant au titre de la coopération pendant toute la
+période de ce service comprend les deux éléments ci-après :
+
+Un élément commun attribué à l'ensemble des jeunes gens servant au titre de la
+coopération, quel que soit le lieu de leur affectation, et qui est ajusté par
+l'application des majorations générales applicables aux rémunérations de la
+fonction publique ;
+
+Un élément lié à l'affectation dans un pays étranger et qui évolue en fonction
+des conditions de vie propres au pays considéré.
+
+Leur montant est fixé par arrêté conjoint :
+
+Du ministre du budget et du ministre de la coopération et du développement pour
+les Etats étrangers qui relèvent des attributions de ce dernier pour la
+coopération ;
+
+Du ministre du budget et du ministre des affaires étrangères pour les Etats
+étrangers qui relèvent des attributions de ce dernier pour la coopération.

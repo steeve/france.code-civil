@@ -5,12 +5,11 @@ dispositions de l'article R. 21, en six fractions à partir des 1er février, 1e
 avril, 1er juin, 1er ao^ut, 1er octobre et 1er décembre. La durée du service est
 décomptée à partir de chacune de ces dates.
 
-Toutefois le ministre chargé des armées peut exceptionnellement avancer ou
-retarder dans la limite d'un mois l'appel des jeunes gens titulaires de
-certaines affectations ayant accepté cette éventualité. Dans ce cas, la durée du
-service actif est décomptée à partir du premier jour de la quinzaine au cours de
-laquelle ces jeunes gens ont été appelés. &lt;&gt;
+Toutefois, lorsque les besoins des différentes formes du service national le
+justifient, le ministre chargé des armées peut avancer ou reculer les dates
+d'appel et de départ des services des jeunes gens dans la limite de
+quarante-cinq jours.
 
 Pour les jeunes gens recrutés dans les départements et territoires d'outre-mer,
-les dates d'appel et de départ des services peuvent ^etre avancées dans la
-limite d'un mois.
+les dates d'appel et de départ des services peuvent être avancées ou reculées
+dans la limite de quarante-cinq jours.

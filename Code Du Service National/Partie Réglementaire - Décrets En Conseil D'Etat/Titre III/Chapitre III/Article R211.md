@@ -12,10 +12,7 @@ Dans le service de la coopération, cette durée est de :
 - deux jours par mois de service effectif accompli en Europe ou en Afrique du
 Nord ;
 
-- trois jours par mois de service effectif accompli dans les Etats du
-Moyen-Orient ou au Sahara (Algérie) ;
-
-- quatre jours par mois de service effectif accompli dans les autres Etats
+- trois jours par mois de service effectif accompli dans les autres Etats
 étrangers.
 
 Toute fraction de mois de service effectif supérieure à quinze jours est comptée

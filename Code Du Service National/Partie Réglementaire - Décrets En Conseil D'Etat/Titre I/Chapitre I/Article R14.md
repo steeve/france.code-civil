@@ -16,9 +16,10 @@ b) Jeunes gens recensés dans les conditions fixées aux articles L. 16 et L. 17
 c) Jeunes gens recensés comme omis dans les conditions fixées à l'article L. 20
 et ^agés de moins de trente-quatre ans ;
 
-2° Les jeunes gens dont le report d'incorporation expire au plus tard le 30
-novembre de l'année considérée et les bénéficiaires de l'article L. 9 qui
-doivent ^etre appelés au service actif au plus tard le 1er décembre ;
+2° Les jeunes gens dont le report d'incorporation expire au plus tard le 31
+décembre de l'année précédente et les bénéficiaires de l'article L. 9 qui
+doivent être appelés au service actif au plus tard le 1er février de l'année
+considérée.
 
 3° Les jeunes gens qui, renonçant au bénéfice de la dispense ou, avant terme, au
 report d'incorporation ou aux dispositions de l'article L. 9, demandent au plus

@@ -1,8 +1,8 @@
 Article R146
 ----
 Les aspirants sont nommés sous-lieutenants de réserve, ou à un grade
-correspondant à la fin de la durée légale du service national, s'ils réunissent
-les conditions d'ancienneté dans le grade d'aspirant fixées par le statut des
+correspondant après dix mois de service militaire, s'ils réunissent les
+conditions d'ancienneté dans le grade d'aspirant fixées par le statut des
 officiers de réserve. Dans le cas contraire, ils sont nommés sous-lieutenants de
 réserve, ou à un grade correspondant, lorsqu'ils réunissent ces conditions
 d'ancienneté.
