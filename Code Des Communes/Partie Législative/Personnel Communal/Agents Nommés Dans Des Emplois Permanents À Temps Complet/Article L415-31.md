@@ -1,6 +1,6 @@
 Article L415-31
 ----
-Dans la position de congé postnatal, accordée de droit sur simple demande et
-pour une durée maximale de deux ans, l'intéressée cesse de bénéficier de ses
-droits à la retraite ; elle conserve ses droits à l'avancement d'échelon,
-réduits de moitié.
+Dans cette position, accordée après un congé de maternité ou l'adoption d'un
+enfant de moins de trois ans, et pour une durée maximale de deux ans,
+l'intéressé cesse de bénéficier de ses droits à la retraite ; il conserve ses
+droits à l'avancement d'échelon, réduits de moitié.

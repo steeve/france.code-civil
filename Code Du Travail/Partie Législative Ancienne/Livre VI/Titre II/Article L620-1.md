@@ -16,7 +16,4 @@ emplacement ou s'il est l'objet d'extension ou de transformation entraînant une
 modification dans les industries ou commerce exercés ;
 
 4. Si un établissement n'occupant pas d'enfants de moins de dix-huit ans ou de
-femmes, se propose d'en occuper ;
-
-5. Si un établissement n'utilisant pas de force motrice ou d'outillage mécanique
-se propose d'en utiliser.
+femmes, se propose d'en occuper.
