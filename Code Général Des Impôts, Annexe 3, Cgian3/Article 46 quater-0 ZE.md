@@ -4,16 +4,15 @@ Les sociétés filiales qui acceptent de faire partie du groupe défini à l'art
 223 A du code général des impôts adressent l'attestation mentionnée à l'article
 46 quater-0 ZD au service dont elles relèvent avant la date d'ouverture de
 l'exercice au titre duquel le régime défini à l'article 223 A déjà cité
-s'applique. L'accord est donné pour la durée restant à courir de l'option prévue
-à ce dernier article.
+s'applique. L'accord est valable jusqu'à la sortie du groupe de la société
+filiale concernée. Il peut être dénoncé avant l'ouverture du premier exercice de
+la période couverte par le renouvellement de l'option prévu au cinquième alinéa
+de l'article 223 A précité.
 
-((Devenu sans objet)) (M) Les sociétés filiales dont les résultats d'un exercice
-cesseront d'être pris en compte dans le résultat d'ensemble par décision de la
-société mère en informent le service des impôts dont elles relèvent avant
-l'ouverture de cet exercice.
+Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en
+compte dans le résultat d'ensemble par décision de la société mère en informent
+le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
 
 Pour remplir les obligations prévues au présent article et à l'article 46
 quater-0 ZD, la société doit utiliser des documents conformes aux modèles
 établis par l'administration.
-
-(M) Modification du Décret 96-556.
