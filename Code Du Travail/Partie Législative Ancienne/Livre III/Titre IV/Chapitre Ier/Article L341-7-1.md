@@ -1,9 +1,9 @@
 Article L341-7-1
 ----
 Il est interdit à tout employeur de se faire rembourser par un travailleur
-étranger soit la redevance forfaitaire qu'il a versée à l'office national
-d'immigration [*ONI*] au titre de ce travailleur, soit les frais de voyage qu'il
-a réglés pour la venue de celui-ci en France.
+étranger soit la redevance forfaitaire qu'il a versée à l'office des migrations
+internationales [*OMI*] au titre de ce travailleur, soit les frais de voyage
+qu'il a réglés pour la venue de celui-ci en France.
 
 Il est également interdit à toute personne, sous réserve des dispositions de
 l'article L. 762-10 [*agents artistiques*], d'exiger d'un travailleur étranger

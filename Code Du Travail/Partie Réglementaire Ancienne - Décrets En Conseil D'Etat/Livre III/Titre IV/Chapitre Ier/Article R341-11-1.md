@@ -1,6 +1,7 @@
 Article R341-11-1
 ----
-Un comité consultatif est placé auprès de l'office national d'immigration.
+Un comité consultatif est placé auprès de l'office des migrations
+internationales.
 
 Il comprend :
 
