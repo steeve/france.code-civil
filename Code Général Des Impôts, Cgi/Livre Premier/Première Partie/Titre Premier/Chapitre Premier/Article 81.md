@@ -37,9 +37,16 @@ et de l'habitation ;
 3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du
 contrat de travail à salaire différé prévu par l'article L321-13 du code rural ;
 
-4° Les pensions servies en vertu des dispositions du code des pensions
+4° a. Les pensions servies en vertu des dispositions du code des pensions
 militaires d'invalidité et des victimes de guerre ainsi que la retraite du
 combattant mentionnée aux articles L. 255 à L. 257 du même code ;
+
+b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la
+loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en
+faveur respectivement des personnes désignées au premier alinéa de l'article 2
+de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des
+formations supplétives et assimilés ou victimes de la captivité en Algérie et de
+leurs conjoints ou ex-conjoints survivants non remariés ;
 
 5° et 6° (Repris avec le 4°).
 
@@ -69,7 +76,7 @@ de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 194
 guerre dans le cadre des dispositions de l'article L222-2 du code de la
 mutualité ;
 
-13° (Périmé).
+13° (Dispositions périmées).
 
 14° La fraction des pensions temporaires d'orphelins qui correspond au montant
 des prestations familiales auxquelles aurait eu droit le parent décédé ;
@@ -203,11 +210,11 @@ développement du volontariat dans les corps de sapeurs-pompiers ;
 
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996
 relative aux mesures en faveur du personnel militaire dans le cadre de la
-professionnalisation des armées (1).
+professionnalisation des armées .
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39,
 dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de
-la période couverte par l'accord mentionné au 2° du même article (2) ;
+la période couverte par l'accord mentionné au 2° du même article ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de
 financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).

@@ -19,7 +19,7 @@ ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes fonciè
 soit à la plus importante de ces diminutions lorsque ces deux taux sont en
 baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne s'applique pas.
 
-Pour l'application du b du 1, ainsi qu'aux 2 et 3, au premier alinéa du 4 et au
+Pour l'application du b du 1, ainsi que des 2 et 3, du premier alinéa du 4 et du
 5 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté

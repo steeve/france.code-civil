@@ -138,6 +138,6 @@ entre une commune ou un établissement public de coopération intercommunale et 
 organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de
 l'environnement ;
 
-i. Jusqu'au 31 décembre 2002, les prestations de services fournies par des
+i. Jusqu'au 31 décembre 2003, les prestations de services fournies par des
 entreprises agréées en application du II de l'article L. 129-1 du code du
 travail.

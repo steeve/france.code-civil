@@ -22,6 +22,9 @@ supplémentaire à compter de la troisième, dans le département de la Guyane.
 Ces montants d'abattements sont, chaque année, indexés comme la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu.
 
+Les majorations d'abattements mentionnées aux a, b et c sont divisées par deux
+pour les quarts de part (1).
+
 II. - 1. Pour l'application du I :
 
 a. Le revenu s'entend du revenu du foyer fiscal du contribuable au nom duquel la
@@ -51,6 +54,10 @@ publication de la loi de finances rectificative pour 2000 (n° 2000-656 du 13
 juillet 2000) ; toutefois, pour les impositions établies à compter de 2001, le
 pourcentage de 50 % mentionné à ce même article est réduit de dix points chaque
 année.
+
+Les majorations de revenu à retenir au-delà de la première part pour l'octroi du
+dégrèvement prévu par l'article 1414 C sont divisées par deux pour les quarts de
+part.
 
 III. - A compter de 2001, le montant du dégrèvement prévu au I est réduit d'un
 montant égal au produit de la base nette imposable au profit des collectivités

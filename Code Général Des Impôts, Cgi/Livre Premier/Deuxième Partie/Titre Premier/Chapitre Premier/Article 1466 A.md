@@ -151,16 +151,16 @@ Les conditions visées aux cinquième et sixième alinéas ne sont pas opposable
 aux établissements situés dans les zones franches urbaines des communes des
 départements d'outre-mer.
 
-L'exonération ne s'applique pas aux bases d'imposition afférentes au personnel
-et aux biens d'équipement mobiliers transférés par une entreprise, à partir d'un
+L'exonération ne s'applique pas aux bases d'imposition afférentes aux biens
+d'équipement mobiliers transférés par une entreprise, à partir d'un
 établissement qui, au titre d'une ou plusieurs des cinq années précédant celle
 du transfert :
 
 a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
-b) ou a bénéficié, pour l'imposition des bases afférentes au personnel et aux
-biens transférés, de l'exonération prévue, selon le cas, à l'article 1465 A ou
-aux I bis, I ter ou I quater du présent article.
+b) ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
+de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter ou
+I quater du présent article.
 
 II. Pour bénéficier des exonérations prévues aux I, I bis, I ter et I quater,
 les contribuables déclarent, chaque année, dans les conditions prévues à

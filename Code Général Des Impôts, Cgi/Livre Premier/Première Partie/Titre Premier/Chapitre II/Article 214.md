@@ -11,9 +11,9 @@ des bénéfices nets qui est distribuée aux travailleurs dans les conditions
 prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant
 statut des sociétés coopératives ouvrières de production ;
 
-3° (Abrogé)
+3° (Abrogé) ;
 
-4° (Disposition périmée).
+4° (Disposition périmée) ;
 
 5° En ce qui concerne les sociétés d'intérêt collectif agricole, les bonis
 provenant des opérations faites avec les associés coopérateurs et distribués à
@@ -23,20 +23,13 @@ Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agri
 lorsque les associés visés à l'article L. 522-1 du code rural et les
 établissements de crédit détiennent directement ou par l'intermédiaire de leurs
 filiales 80 % ou plus du capital ou des voix et que les associés visés aux 1°,
-2° et 3° du même article détiennent moins de 50 % du capital ou des voix.
-
-A titre transitoire, les sociétés visées au deuxième alinéa pourront déduire de
-leur résultat imposable une fraction de ces bonis égale à :
-
-66 2/3 p. 100 de leur montant au titre de 1991 ;
-
-33 1/3 p. 100 de leur montant au titre de 1992.
+2° et 3° du même article détiennent moins de 50 % du capital ou des voix ;
 
 6° La fraction éventuelle des ristournes déduites en vertu des 1°, 2° et 5° qui
 dépasse 50 p. 100 des excédents pouvant être répartis d'un exercice est
 réintégrée au résultat du même exercice à concurrence des sommes apportées ou
 mises à disposition de la coopérative par les bénéficiaires au cours des deux
-exercices suivants.
+exercices suivants ;
 
 7° Les dispositions des 1° et 2° ne sont pas applicables aux sociétés dont plus
 de 50 % du capital est détenu par des associés non coopérateurs, définis au 1

@@ -2,7 +2,10 @@ Article 6
 ----
 1. Chaque contribuable est imposable à l'impôt sur le revenu, tant en raison de
 ses bénéfices et revenus personnels que de ceux de ses enfants et des personnes
-considérés comme étant à sa charge au sens des articles 196 et 196 A bis.
+considérés comme étant à sa charge au sens des articles 196 et 196 A bis. Les
+revenus perçus par les enfants réputés à charge égale de l'un et l'autre de
+leurs parents sont, sauf preuve contraire, réputés également partagés entre les
+parents (1).
 
 Sauf application des dispositions des 4 et 5, les personnes mariées sont
 soumises à une imposition commune pour les revenus perçus par chacune d'elles et
@@ -41,7 +44,7 @@ des conjoints.
 3° Le rattachement au foyer fiscal qui l'a recueillie après qu'elle soit devenue
 orpheline de père et de mère, si le contribuable auquel elle se rattache accepte
 ce rattachement et inclut dans son revenu imposable les revenus perçus pendant
-l'année entière par cette personne (1).
+l'année entière par cette personne (2).
 
 4. Les époux font l'objet d'impositions distinctes :
 

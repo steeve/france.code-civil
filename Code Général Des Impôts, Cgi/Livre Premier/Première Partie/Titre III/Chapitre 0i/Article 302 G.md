@@ -34,9 +34,9 @@ l'article 302 M.
 III. - L'entrepositaire agréé tient, par entrepôt fiscal suspensif des droits
 d'accises, une comptabilité matières des productions, transformations, stocks et
 mouvements de produits mentionnés aux 1° et 2° du I, ainsi que des produits
-viti-vinicoles, autres que les vins, définis à l'article 1er, paragraphe 2, du
-règlement (CEE) n° 822/87 du Conseil, du 16 mars 1987, portant organisation
-commune du marché viti-vinicole. L'entrepositaire agréé présente ladite
+vitivinicoles, autres que les vins, définis à l'article 1er, paragraphe 2, du
+règlement (CE) n° 1493/99 du Conseil du 17 mai 1999, portant organisation
+commune du marché vitivinicole. L'entrepositaire agréé présente ladite
 comptabilité matières et lesdits produits à toute réquisition.
 
 IV. - Un entrepositaire agréé détenant des produits mentionnés aux 1° et 2° du I

@@ -68,7 +68,11 @@ vieillesse de base des périodes de volontariat du service national de leurs
 assurés ;
 
 8° Les frais de gestion administrative du fonds correspondant à des opérations
-de solidarité.
+de solidarité ;
+
+9° Les dépenses attachées au service de l'allocation spéciale pour les personnes
+âgées prévue à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 relative
+à la protection sanitaire et sociale à Mayotte.
 
 Les sommes mentionnées aux a, b, d et e du 4° et au 7° sont calculées sur une
 base forfaitaire déterminée après avis des conseils d'administration des caisses

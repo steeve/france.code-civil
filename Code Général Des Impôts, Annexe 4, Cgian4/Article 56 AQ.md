@@ -6,7 +6,10 @@ doit porter de façon apparente les indications suivantes ;
 1. appellation du produit telle qu'elle figure dans l'arrêté fixant son prix de
 vente au détail ;
 
-2. pays de fabrication ;
+a) Pays de fabrication, pour les produits fabriqués dans un pays tiers ;
+
+b) Pays de fabrication, ou mention : "fabriqué en Union européenne", ou mention
+: "fabriqué en UE", pour les produits fabriqués dans un Etat membre de l'Union ;
 
 3. désignation du fournisseur ;
 
@@ -27,3 +30,6 @@ d. (disposition devenue sans objet).
 
 e. exportation ou la désignation du pays de destination pour les produits
 destinés à l'exportation.
+
+6. Le numéro du lot ou un équivalent permettant d'identifier le lieu et le
+moment de la fabrication.

@@ -3,11 +3,10 @@ Article 286 I
 I. - 1° Pour les entrepositaires agréés produisant des produits vitivinicoles
 régis par le règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant
 organisation commune du marché vitivinicole, la comptabilité matières est
-constituée par les registres vitivinicoles prévus par le règlement (CEE) n°
-2238/93 de la Commission du 26 juillet 1993 relatif aux documents accompagnant
-les transports de produits vitivinicoles et aux registres à tenir dans le
-secteur vitivinicole modifié par le règlement (CE) n° 1592/1999 de la Commission
-du 20 juillet 1999.
+constituée par les registres vitivinicoles prévus par le règlement (CE) n°
+884/2001 de la Commission du 24 avril 2001 portant modalités d'application
+relatives aux documents accompagnant les transports des produits vitivinicoles
+et aux registres à tenir dans le secteur vitivinicole.
 
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la
 comptabilité matières aux agents des douanes et droits indirects, sur leur

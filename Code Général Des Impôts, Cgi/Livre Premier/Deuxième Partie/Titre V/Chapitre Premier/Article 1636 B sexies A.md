@@ -39,3 +39,11 @@ Lorsque au titre d'une année, le taux de la taxe professionnelle ou le taux de
 la taxe foncière sur les propriétés non bâties a été augmenté dans ces
 conditions, il ne peut pas être fait application du premier alinéa pendant les
 trois années suivantes.
+
+III. - A compter de 2003 et par exception aux dispositions du I, les régions
+peuvent augmenter leur taux de taxe professionnelle, par rapport à l'année
+précédente, dans la limite d'une fois et demie l'augmentation de leur taux de
+taxe foncière sur les propriétés bâties.
+
+Les dispositions du premier alinéa ne sont pas applicables s'il est fait
+application des dispositions du deuxième alinéa du II.

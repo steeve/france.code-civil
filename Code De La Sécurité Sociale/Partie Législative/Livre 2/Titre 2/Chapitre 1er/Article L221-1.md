@@ -17,8 +17,9 @@ présent livre ;
 3°) de promouvoir une action de prévention, d'éducation et d'information de
 nature à améliorer l'état de santé de ses ressortissants et de coordonner les
 actions menées à cet effet par les caisses régionales et les caisses primaires
-d'assurance maladie, dans le cadre d'un programme fixé par arrêté ministériel,
-après avis et proposition de son conseil d'administration ;
+d'assurance maladie, dans le cadre des programmes prioritaires nationaux définis
+en application de l'article L. 1417-2 du code de la santé publique, déclinés par
+la convention prévue à l'article L. 227-1 du présent code ;
 
 4°) d'exercer une action sanitaire et sociale et de coordonner l'action
 sanitaire et sociale des caisses régionales et des caisses primaires d'assurance

@@ -11,6 +11,11 @@ suivants. Si le montant de l'impôt est supérieur de plus de 30 % au montant de
 acomptes versés, l'intérêt de retard et la majoration prévus par l'article 1731
 sont applicables.
 
+Les exploitants agricoles sont dispensés du versement d'acomptes lorsque la taxe
+due au titre de l'année civile précédente, avant déduction de la taxe sur la
+valeur ajoutée relative aux biens constituant des immobilisations, est
+inférieure à 1 000 euros (1).
+
 Toutefois, à condition qu'ils ne bénéficient pas du régime de franchise et de
 décote prévu à l'article 298 bis A, les exploitants agricoles peuvent, sur
 option irrévocable de leur part, acquitter l'impôt au vu de déclarations

@@ -5,9 +5,10 @@ est diminuée d'un abattement obligatoire pour charges de famille.
 
 Elle peut également être diminuée d'abattements facultatifs à la base.
 
-II. 1. L'abattement obligatoire pour charges de famille est fixé à 10 % de la
-valeur locative moyenne des habitations de la commune pour chacune des deux
-premières personnes à charge et à 15 % pour chacune des suivantes.
+II. 1. L'abattement obligatoire pour charges de famille est fixé, pour les
+personnes à charge à titre exclusif ou principal (1) à 10 % de la valeur
+locative moyenne des habitations de la commune pour chacune des deux premières
+personnes à charge et à 15 % pour chacune des suivantes.
 
 Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
 
@@ -20,7 +21,7 @@ municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux
 contribuables dont le montant des revenus de l'année précédente n'excède pas la
 limite prévue à l'article 1417 et dont l'habitation principale a une valeur
 locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté
-de 10 points par personne à charge.
+de 10 points par personne à charge à titre exclusif ou principal (1).
 
 4. La valeur locative moyenne est déterminée en divisant le total des valeurs
 locatives d'habitation de la commune, abstraction faite des locaux
@@ -51,6 +52,19 @@ En l'absence de délibération, les abattements applicables sont ceux résultant
 des votes des conseils municipaux, calculés sur la valeur locative moyenne de la
 commune.
 
+II ter. - 1. Les taux de 10 % et 15 % visés au 1 du II et leurs majorations de 5
+ou 10 points votées par les conseils municipaux, généraux et les organes
+délibérants des établissements publics de coopération intercommunale à fiscalité
+propre, la majoration de 10 points visée au 3 du II ainsi que le montant de
+l'abattement obligatoire pour charges de famille fixé en valeur absolue
+conformément au 5 du II sont divisés par deux pour les enfants réputés à charge
+égale de l'un et l'autre de leurs parents.
+
+2. Lorsque le nombre total de personnes à charge est supérieur à deux, les
+enfants réputés à charge égale de l'un et l'autre de leurs parents sont
+décomptés en premier pour le calcul de l'abattement obligatoire pour charges de
+famille (1).
+
 III. Sont considérés comme personnes à la charge du contribuable :
 
 ses enfants ou les enfants qu'il a recueillis lorsqu'ils répondent à la
@@ -70,4 +84,4 @@ proportionnellement à la variation des valeurs locatives des logements résulta
 de l'application des articles 1518 et 1518 bis.
 
 V. La valeur locative moyenne ainsi que les abattements sont arrondis à l'euro
-le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1 (1) (2).
+le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

@@ -49,6 +49,13 @@ l'acompte réduit au prorata du temps.
 S'il estime que la taxe sera supérieure d'au moins 10 % à celle qui a servi de
 base aux acomptes, il peut modifier le montant de ces derniers.
 
+Les redevables sont dispensés du versement d'acomptes lorsque la taxe due au
+titre de l'année ou de l'exercice précédent, avant déduction de la taxe sur la
+valeur ajoutée relative aux biens constituant des immobilisations, est
+inférieure à 1 000 euros. Dans ce cas, le montant total de l'impôt exigible est
+acquitté lors du dépôt de la déclaration annuelle mentionnée au premier alinéa
+(1).
+
 Les nouveaux redevables sont autorisés, lors de leur première année
 d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes
 trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit

@@ -86,12 +86,16 @@ semblables durant la même année ou les cinq années suivantes ;
 3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus
 fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
-l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ni
-aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils
-payent en application des dispositions de l'article 605 du code civil, lorsque
-le démembrement de propriété d'un immeuble bâti résulte de succession ou de
-donation entre vifs, effectuée sans charge ni condition et consentie entre
-parents jusqu'au quatrième degré inclusivement.
+l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou
+ayant reçu le label délivré par la "Fondation du patrimoine" en application de
+l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du
+patrimoine" si ce label a été accordé sur avis favorable du service
+départemental de l'architecture et du patrimoine ni aux nus-propriétaires pour
+le déficit foncier qui résulte des travaux qu'ils payent en application des
+dispositions de l'article 605 du code civil, lorsque le démembrement de
+propriété d'un immeuble bâti résulte de succession ou de donation entre vifs,
+effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième
+degré inclusivement.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
@@ -222,12 +226,12 @@ ayant accédé à l'indépendance ;
 1° ter. Dans les conditions fixées par décret, les charges foncières afférentes
 aux immeubles classés monuments historiques ou inscrits à l'inventaire
 supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
-raison de leur caractère historique ou artistique particulier ou en raison du
-label délivré par la "Fondation du patrimoine" en application de l'article 2 de
-la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce
-label a été accordé sur avis favorable du service départemental de
-l'architecture et du patrimoine et qui auront été agréés à cet effet par le
-ministre de l'économie et des finances ;
+raison de leur caractère historique ou artistique particulier et qui auront été
+agréés à cet effet par le ministre chargé du budget, ou en raison du label
+délivré par la "Fondation du patrimoine" en application de l'article 2 de la loi
+n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce label
+a été accordé sur avis favorable du service départemental de l'architecture et
+du patrimoine ;
 
 1° quater (sans objet).
 
@@ -252,8 +256,9 @@ imposition séparée ; dans la limite de 2 700 euros et, dans les conditions
 fixées par un décret en Conseil d'Etat, les versements destinés à constituer le
 capital de la rente prévue à l'article 294 du code civil.
 
-Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
-pour ses enfants dont il n'a pas la garde.
+Le contribuable ne peut opérer aucune déduction pour ses descendants mineurs
+lorsqu'ils sont pris en compte pour la détermination de son quotient familial
+(1).
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement
 prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée

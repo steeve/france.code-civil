@@ -1,6 +1,6 @@
 Article 279-0 bis
 ----
-1. Jusqu'au 31 décembre 2002, la taxe sur la valeur ajoutée est perçue au taux
+1. Jusqu'au 31 décembre 2003, la taxe sur la valeur ajoutée est perçue au taux
 réduit sur les travaux d'amélioration, de transformation, d'aménagement et
 d'entretien portant sur des locaux à usage d'habitation, achevés depuis plus de
 deux ans, à l'exception de la part correspondant à la fourniture des gros

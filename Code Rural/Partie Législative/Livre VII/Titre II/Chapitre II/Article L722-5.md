@@ -16,14 +16,7 @@ Ce décret fixe en outre une durée d'activité minimale spécifique en faveur d
 personnes qui exercent des professions connexes à l'agriculture en double
 activité ou non dans les communes situées en zone de montagne.
 
-En cas de coexploitation ou d'exploitation sous forme sociétaire, l'importance
-de l'exploitation ou de l'entreprise doit être au moins égale ou équivalente à
-la moitié de la surface minimum d'installation multipliée par le nombre de
-membres ou d'associés participant aux travaux que comprend la coexploitation ou
-la société. Toutefois, cette superficie est réduite de 20 % de la surface
-minimum d'installation lorsque des époux dirigent, seuls ou avec d'autres
-personnes, l'exploitation ou l'entreprise. Si plusieurs couples dirigent
-ensemble l'exploitation ou l'entreprise, cette réduction est appliquée à chacun
-de ceux-ci. Les dispositions du présent alinéa ne sont pas applicables aux
-personnes déjà affiliées à la date du 31 décembre 1988 ainsi qu'aux conjoints
-collaborateurs mentionnés à l'article L. 321-5 du présent code.
+En cas de coexploitation ou d'exploitation sous forme sociétaire, pour que les
+membres ou associés participant aux travaux soient considérés comme non-salariés
+agricoles, l'importance minimale de l'exploitation ou de l'entreprise agricole
+requise est égale à celle fixée au premier alinéa.

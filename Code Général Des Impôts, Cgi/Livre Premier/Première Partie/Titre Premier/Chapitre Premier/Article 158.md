@@ -61,11 +61,12 @@ L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé
 tout ou partie, par les porteurs de parts de fonds communs de placement, lors de
 l'imposition en leur nom des produits répartis par le fonds.
 
-L'abattement prévu au troisième alinéa n'est pas opéré lorsque le revenu net
-imposable excède pour les contribuables célibataires, veufs ou divorcés le
-montant mentionné à la dernière tranche du barème de l'impôt sur le revenu fixé
-au 1 du I de l'article 197. Ce montant est doublé pour les contribuables mariés
-soumis à une imposition commune.
+L'abattement prévu au troisième alinéa est réduit de moitié pour l'imposition
+des revenus de l'année 2002 lorsque le revenu net imposable excède pour les
+contribuables célibataires, veufs ou divorcés le montant mentionné à la dernière
+tranche du barème de l'impôt sur le revenu fixé au 1 du I de l'article 197. Ce
+montant est doublé pour les contribuables mariés soumis à une imposition commune
+(1).
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des

@@ -8,7 +8,7 @@ Chaque contribuable ou chacun des époux soumis à imposition commune ne peut ê
 titulaire que d'un plan. Un plan ne peut avoir qu'un titulaire.
 
 Le titulaire d'un plan effectue des versements en numéraire dans une limite de
-120 000 euros (1).
+132 000 euros (1).
 
 II. 1. Les parts des fonds mentionnés au 3 du III de l'article 150-0 A ne
 peuvent figurer dans le plan d'épargne en actions.

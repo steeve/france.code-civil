@@ -67,12 +67,13 @@ code de l'environnement ;
 b. Tout exploitant d'un établissement mentionné au a dont les activités,
 figurant sur une liste établie par décret en Conseil d'Etat après avis du
 Conseil supérieur des installations classées, font courir, par leur nature ou
-leur volume, des risques particuliers à l'environnement ;
+leur volume, des risques particuliers à l'environnement.
 
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
-affectées à la valorisation comme matière ;
+affectées à la valorisation comme matière ni aux installations d'élimination de
+déchets exclusivement affectées à l'amiante-ciment ;
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
@@ -93,3 +94,11 @@ la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au
 répertoire des métiers.
+
+III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la
+quantité annuelle totale de déchets reçus par installation, les réceptions de
+matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets
+qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction
+physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres
+matières avec lesquelles ils entrent en contact, d'une manière susceptible
+d'entraîner une pollution de l'environnement ou de nuire à la santé humaine.

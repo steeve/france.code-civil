@@ -1,6 +1,6 @@
 Article 200 quater
 ----
-1. Les dépenses payées entre le 15 septembre 1999 et le 31 décembre 2002 pour
+1. Les dépenses payées entre le 15 septembre 1999 et le 31 décembre 2005 pour
 l'acquisition de gros équipements fournis dans le cadre de travaux
 d'installation ou de remplacement du système de chauffage, des ascenseurs ou de
 l'installation sanitaire ouvrent droit à un crédit d'impôt sur le revenu lorsque
@@ -8,20 +8,20 @@ ces travaux sont afférents à la résidence principale du contribuable située 
 France et sont éligibles au taux réduit de la taxe sur la valeur ajoutée en
 application de l'article 279-0 bis. Ouvrent également droit au crédit d'impôt
 sur le revenu, dans les mêmes conditions, les dépenses payées entre le 1er
-octobre 2001 et le 31 décembre 2002 pour l'acquisition de matériaux d'isolation
+octobre 2001 et le 31 décembre 2005 pour l'acquisition de matériaux d'isolation
 thermique et d'appareils de régulation de chauffage définis par arrêté du
 ministre chargé du budget.
 
 Ouvre également droit au crédit d'impôt le coût des équipements de production
 d'énergie utilisant une source d'énergie renouvelable intégrés à un logement
 situé en France acquis neuf ou en l'état futur d'achèvement entre le 1er janvier
-2001 et le 31 décembre 2002 et que le contribuable affecte, dès son achèvement
+2001 et le 31 décembre 2005 et que le contribuable affecte, dès son achèvement
 ou son acquisition si elle est postérieure, à son habitation principale. Cet
 avantage est également applicable, dans les mêmes conditions, au coût des mêmes
 équipements intégrés dans un logement que le contribuable fait construire et qui
 a fait l'objet, entre les mêmes dates, de la déclaration d'ouverture de chantier
 prévue à l'article R. 421-40 du code de l'urbanisme. Il en est de même des
-dépenses payées entre le 1er janvier 2001 et le 31 décembre 2002 au titre de
+dépenses payées entre le 1er janvier 2001 et le 31 décembre 2005 au titre de
 l'acquisition des mêmes équipements fournis dans le cadre de travaux
 d'installation réalisés dans l'habitation principale du contribuable.
 
@@ -29,12 +29,17 @@ Un arrêté du ministre chargé du budget fixe la liste des équipements ouvrant
 droit au crédit d'impôt.
 
 2. Pour une même résidence, le montant des dépenses ouvrant droit au crédit
-d'impôt ne peut excéder, pour l'ensemble de sa période d'application, la somme
-de 4 000 euros pour une personne célibataire, veuve ou divorcée et de 8 000
-euros pour un couple marié soumis à imposition commune. Cette somme est majorée
-de 400 euros par personne à charge au sens des articles 196 à 196 B. Cette
-majoration est fixée à 500 euros pour le second enfant et à 600 euros par enfant
-à partir du troisième.
+d'impôt ne peut excéder, respectivement pour la période du 15 septembre 1999 au
+31 décembre 2002 et pour la période du 1er janvier 2003 au 31 décembre 2005, la
+somme de 4 000 euros pour une personne célibataire, veuve ou divorcée et de 8
+000 euros pour un couple marié soumis à imposition commune. Cette somme est
+majorée de 400 euros par personne à charge au sens des articles 196 à 196 B.
+Cette majoration est fixée à 500 euros pour le second enfant et à 600 euros par
+enfant à partir du troisième. Les sommes de 400 euros, 500 euros et 600 euros
+sont divisées par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
+l'un et l'autre de ses parents. Pour l'application de ces dispositions, les
+enfants réputés à charge égale de chacun des parents sont décomptés en premier
+(1).
 
 Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année
 d'achèvement du logement auquel s'intègrent les équipements ou de son

@@ -38,7 +38,7 @@ revenu net foncier est déterminé dans les conditions prévues aux articles 28 
 peuvent opter pour la détermination de leur revenu net foncier dans les
 conditions prévues aux articles 28 et 31.
 
-L'option est exercée pour une période de cinq ans dans le délai prévu pour le
+L'option est exercée pour une période de trois ans dans le délai prévu pour le
 dépôt de la déclaration mentionnée à l'article 170 de la première année au titre
 de laquelle elle s'applique. Irrévocable durant cette période, elle est valable
 tant que le contribuable reste de manière continue dans le champ d'application

@@ -62,14 +62,17 @@ L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29,
 L731-25 et L741-2 du code rural ainsi que leurs salariés et les membres de la
 famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation.
 
-14° (Dispositions devenues sans objet).
+14° Les contrats d'assurance dépendance (3) ;
 
 15° Les contrats d'assurance maladie relatifs à des opérations individuelles et
 collectives à adhésion facultative à la condition que l'organisme ne recueille
 pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des
 personnes souhaitant bénéficier de cette couverture et que les cotisations ou
-les primes ne soient pas fixées en fonction de l'état de santé de l'assuré (3) ;
+les primes ne soient pas fixées en fonction de l'état de santé de l'assuré (4) ;
 
 16° Les contrats d'assurance maladie relatifs à des opérations collectives à
 adhésion obligatoire à la condition que les cotisations ou les primes ne soient
-pas fixées en fonction de l'état de santé de l'assuré (3).
+pas fixées en fonction de l'état de santé de l'assuré (4).
+
+17° Les cotisations versées par les exploitants de remontées mécaniques dans le
+cadre du système mutualiste d'assurance contre les aléas climatiques.

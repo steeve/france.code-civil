@@ -8,10 +8,9 @@ a) Soit par des documents établis conformément aux modèles prévus par arrêt
 ministre chargé du budget ;
 
 b) Soit, pour les personnes concernées, par les registres vitivinicoles prévus
-par le règlement (CEE) n° 2238/93 de la Commission du 26 juillet 1993 relatif
-aux documents accompagnant les transports de produits vitivinicoles et aux
-registres à tenir dans le secteur vitivinicole modifié par le règlement (CE) n°
-1592/1999 de la Commission du 20 juillet 1999 ;
+par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant
+modalités d'application relatives aux documents accompagnant les transports des
+produits vitivinicoles et aux registres à tenir dans le secteur vitivinicole ;
 
 c) Soit enfin, sur agrément délivré par le directeur régional des douanes et
 droits indirects, en vertu de l'article 286 K :
@@ -172,8 +171,7 @@ interprofessionnels prévus notamment en application des articles L. 632-1 à L.
 bières ;
 
 4° Selon les règles fixées par la réglementation communautaire, notamment par le
-règlement (CEE) n° 2238/93 modifié, pour les produits vitivinicoles autres que
-le vin ;
+règlement (CE) n° 884/2001, pour les produits vitivinicoles autres que le vin ;
 
 5° Par tarif d'imposition, par unité de produits ou en grammes, selon le cas,
 pour les produits mentionnés à l'article 575 A du code général des impôts ;

@@ -22,9 +22,17 @@ compter du 1er janvier de l'année suivant celle où les immeubles ne sont plus
 affectés à une activité entrant dans le champ d'application de la taxe
 professionnelle.
 
+L'exonération s'applique dans les conditions prévues aux trois alinéas
+précédents aux immeubles affectés à une activité entrant dans le champ
+d'application de la taxe professionnelle et exercée pour la première fois entre
+le 1er janvier 2002 et le 1er janvier 2008.
+
 En cas de changement d'exploitant avant le 31 décembre 2001, l'exonération
 s'applique pour une durée de cinq ans à compter du 1er janvier de l'année
-suivant celle où est intervenu le changement.
+suivant celle où est intervenu le changement. En cas de changement d'exploitant
+avant le 1er janvier 2008 au cours d'une période d'exonération ouverte après le
+1er janvier 2002, l'exonération s'applique pour la période restant à courir et
+dans les conditions prévues pour le prédécesseur.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 groupement de collectivités territoriales et ne peut avoir pour effet de

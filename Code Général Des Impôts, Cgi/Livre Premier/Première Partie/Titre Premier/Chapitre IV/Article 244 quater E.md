@@ -12,10 +12,14 @@ exclusivement sur des biens situés en Corse, ainsi que l'exploitation de jeux d
 hasard et d'argent ;
 
 b. l'agriculture ainsi que la transformation ou la commercialisation de produits
-agricoles, sous réserve de l'exception prévue au e du 2°, la production ou la
-transformation de houille et lignite, la sidérurgie, l'industrie des fibres
-synthétiques, la pêche, le transport, la construction et la réparation de
-navires d'au moins 100 tonnes de jauge brute, la construction automobile.
+agricoles, sauf lorsque le contribuable peut bénéficier des aides à
+l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil, du 17 mai
+1999, concernant le soutien au développement rural par le Fonds européen
+d'orientation et de garantie agricole (FEOGA) et modifiant et abrogeant certains
+règlements, la production ou la transformation de houille et lignite, la
+sidérurgie, l'industrie des fibres synthétiques, la pêche, le transport, la
+construction et la réparation de navires d'au moins 100 tonnes de jauge brute,
+la construction automobile.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires
@@ -36,41 +40,11 @@ sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de
 l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte
 s'entendent respectivement de la somme des chiffres d'affaires et de la somme
 des effectifs de chacune des sociétés membres de ce groupe. La condition tenant
-à la composition du capital doit être remplie par la société mère du groupe ;
+à la composition du capital doit être remplie par la société mère du groupe.
 
-2° Peuvent ouvrir droit au crédit d'impôt prévu au 1° à un taux majoré les
-investissements réalisés par des entreprises au titre de l'une des activités
-suivantes :
+2° (abrogé).
 
-a. L'hôtellerie, la restauration et les activités de loisirs à caractère
-artistique, sportif ou culturel ;
-
-b. Les nouvelles technologies, sous réserve des exceptions prévues aux c et d,
-entendues au sens de la création de produits, procédés ou techniques dont le
-caractère innovant et les perspectives de développement économique sont
-reconnus. Cette reconnaissance est effectuée pour une période de trois ans, le
-cas échéant renouvelable, par un établissement public compétent en matière de
-valorisation de la recherche et désigné par décret ;
-
-c. L'énergie, à l'exception de la distribution d'énergie ;
-
-d. L'industrie ;
-
-e. La transformation et la commercialisation de produits agricoles ainsi que
-l'agriculture lorsque le contribuable peut bénéficier des aides à
-l'investissement au titre du règlement (CE) n° 1257/1999 du Conseil du 17 mai
-1999 concernant le soutien au développement rural par le Fonds européen
-d'orientation et de garantie agricole ;
-
-f. Les services de conseil et d'ingénierie.
-
-Peuvent également ouvrir droit au crédit d'impôt prévu au 1° à un taux majoré
-les investissements réalisés dans les zones rurales déterminées par décret après
-consultation préalable de l'Assemblée de Corse par les entreprises de commerce
-de détail et les contribuables exerçant une activité artisanale au sens de
-l'article 1468 ;
-
-3° Le crédit d'impôt prévu au 1° est égal à 10 % du prix de revient hors taxes :
+3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes :
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1
 et 2 de l'article 39 A et des agencements et installations de locaux commerciaux
@@ -88,10 +62,6 @@ d. Des travaux de rénovation d'hôtel.
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est
 diminué du montant des subventions publiques attribuées en vue de financer ces
 investissements.
-
-Le crédit d'impôt déterminé dans les conditions mentionnées au présent 3° est
-porté à 20 % pour les investissements réalisés au titre de l'une des activités
-mentionnées au 2° ;
 
 4° Les investissements réalisés par les petites et moyennes entreprises en
 difficulté peuvent ouvrir droit au crédit d'impôt prévu au 1° si elles ont reçu

@@ -2,10 +2,10 @@ Article L6416-2
 ----
 Dans le respect des dispositions du chapitre V du présent titre, et dans les
 conditions et sous les garanties fixées par voie réglementaire, l'établissement
-public de santé territorial peut être autorisé à créer et à faire fonctionner
-une structure médicale dans laquelle les malades, blessés et femmes enceintes
-admis à titre payant peuvent faire appel aux médecins, chirurgiens, spécialistes
-ou sages-femmes de leur choix autres que ceux exerçant leur activité à titre
+public de santé de Mayotte peut être autorisé à créer et à faire fonctionner une
+structure médicale dans laquelle les malades, blessés et femmes enceintes admis
+à titre payant peuvent faire appel aux médecins, chirurgiens, spécialistes ou
+sages-femmes de leur choix autres que ceux exerçant leur activité à titre
 exclusif dans l'établissement.
 
 Les intéressés perçoivent leurs honoraires, minorés d'une redevance, par

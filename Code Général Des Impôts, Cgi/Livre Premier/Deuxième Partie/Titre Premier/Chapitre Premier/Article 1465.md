@@ -26,12 +26,12 @@ Quand l'agrément est nécessaire pour des entreprises petites ou moyennes, il e
 accordé par une procédure décentralisée.
 
 Quand l'agrément n'est pas nécessaire, l'exonération porte sur l'augmentation
-nette des bases d'imposition résultant des emplois créés et des immobilisations
-nouvelles appréciée par rapport à la dernière année précédant l'opération ou par
-rapport à la moyenne des trois dernières années si celle-ci est supérieure.
-Toutefois, le prix de revient des immobilisations exonérées ne peut excéder 1
-524 490 euros par emploi créé. Par délibération, les collectivités locales
-peuvent fixer ce montant à un niveau moins élevé.
+nette des bases d'imposition résultant des immobilisations nouvelles appréciée
+par rapport à la dernière année précédant l'opération ou par rapport à la
+moyenne des trois dernières années si celle-ci est supérieure. Toutefois, le
+prix de revient des immobilisations exonérées ne peut excéder 1 524 490 euros
+par emploi créé. Par délibération, les collectivités locales peuvent fixer ce
+montant à un niveau moins élevé.
 
 L'entreprise ne peut bénéficier d'une exonération non soumise à agrément qu'à
 condition de l'avoir indiqué au service des impôts au plus tard lors du dépôt de

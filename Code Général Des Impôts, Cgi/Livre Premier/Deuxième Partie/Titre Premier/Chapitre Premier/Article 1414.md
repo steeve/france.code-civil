@@ -5,7 +5,12 @@ lorsqu'ils occupent cette habitation dans les conditions prévues à l'article
 1390 :
 
 1° les titulaires de l'allocation supplémentaire mentionnée à l'article L. 815-2
-ou à l'article L. 815-3 du code de la sécurité sociale ;
+ou à l'article L. 815-3 du code de la sécurité sociale (1) ;
+
+1° bis Les titulaires de l'allocation aux adultes handicapés mentionnée aux
+articles L. 821-1 et suivants du code de la sécurité sociale, lorsque le montant
+de leurs revenus de l'année précédente n'excède pas la limite prévue au I de
+l'article 1417 ;
 
 2° les contribuables âgés de plus de 60 ans ainsi que les veuves et veufs dont
 le montant des revenus de l'année précédente n'excède pas la limite prévue à
@@ -39,7 +44,7 @@ modifiée visant à la mise en oeuvre du droit au logement.
 
 Les obligations déclaratives à la charge des personnes ou organismes entrant
 dans le champ d'application des premier à troisième alinéas sont fixées par
-décret.
+décret (2).
 
 III. Les bénéficiaires du revenu minimum d'insertion sont dégrevés d'office de
 la taxe d'habitation afférente à leur habitation principale lorsqu'ils occupent
@@ -47,13 +52,10 @@ cette habitation dans les conditions prévues à l'article 1390.
 
 Les dispositions du premier alinéa sont maintenues au titre de l'année suivant
 celle au cours de laquelle le redevable cesse d'être bénéficiaire du revenu
-minimum d'insertion (1).
+minimum d'insertion (3).
 
 IV. Les contribuables visés au 2° du I sont également dégrevés de la taxe
 d'habitation afférente à leur habitation principale lorsqu'ils occupent cette
 habitation avec leurs enfants majeurs lorsque ceux-ci sont inscrits comme
 demandeurs d'emploi et ne disposent pas de ressources supérieures au revenu
 minimum d'insertion.
-
-(1) Ces dispositions sont applicables pour les impositions établies au titre de
-l'année 2000 et des années suivantes.

@@ -544,7 +544,7 @@ inférieur à leur coût de revient ;
 
 2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre
 d'un accord conclu, selon les modalités prévues aux articles L. 442-10 et L.
-442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2002, sur option
+442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option
 exercée dans le document formalisant l'accord. L'attribution, la mise à
 disposition ou la fourniture effective aux bénéficiaires des biens ou
 prestations de services doit s'effectuer dans les douze mois de la conclusion de

@@ -62,7 +62,7 @@ d'actes prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227
 du code pénal ;
 
 16°) Pour les frais d'examens de dépistage effectués dans le cadre des
-programmes mentionnés au 8° de l'article L. 321-1 ;
+programmes mentionnés au 6° de l'article L. 321-1 ;
 
 17° Pour les frais relatifs à l'examen de prévention bucco-dentaire mentionné au
 9° de l'article L. 321-1.

@@ -76,10 +76,10 @@ déduction, fixée à 6 p. 100, représente les frais de gestion et l'assurance 
 l'exclusion de celle visée au a bis. La déduction forfaitaire au taux de 14 %
 est de nouveau applicable à l'expiration de l'application du régime visé au g.
 
-Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les
-revenus des six premières années de location des logements qui ne peuvent donner
-lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant aux
-normes d'habitabilité telles que définies par décret (4), sont loués par une
+Le taux de déduction mentionné au premier alinéa est fixé à 40 % (3 bis) pour
+les revenus des six premières années de location des logements qui ne peuvent
+donner lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant
+aux normes d'habitabilité telles que définies par décret (4), sont loués par une
 personne physique ou une société non soumise à l'impôt sur les sociétés en vertu
 d'un bail conclu à compter du 1er janvier 1999. Le contribuable ou la société
 propriétaire doit s'engager à louer le logement nu pendant une durée de six ans
@@ -94,8 +94,8 @@ ascendant ou un descendant d'un associé. Les associés des sociétés précité
 s'engagent à conserver leurs parts pendant au moins six ans (6). Un contribuable
 ne peut, pour un même logement ou une même souscription de titres, pratiquer la
 réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la
-déduction forfaitaire au taux de 25 % prévue au présent alinéa. Lorsque la
-location est suspendue à l'issue d'une période d'au moins trois ans au profit
+déduction forfaitaire au taux de 40 % (3 bis) prévue au présent alinéa. Lorsque
+la location est suspendue à l'issue d'une période d'au moins trois ans au profit
 d'un ascendant ou d'un descendant du contribuable, la déduction forfaitaire
 s'applique au taux de 14 % et la période de mise à disposition du logement au
 profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée
@@ -277,23 +277,16 @@ lors du dépôt de la déclaration des revenus de l'année d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure. Cette option est
 irrévocable pour le logement considéré et comporte l'engagement du propriétaire
 de louer le logement nu pendant au moins neuf ans à usage d'habitation
-principale à une personne autre qu'un membre de son foyer fiscal, un ascendant
-ou un descendant. Cette location doit prendre effet dans les douze mois qui
-suivent la date d'achèvement de l'immeuble ou de son acquisition si elle est
-postérieure. Cet engagement prévoit, en outre, que le loyer et les ressources du
-locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
-plafonds fixés par décret (10). La location du logement consentie dans les
-conditions fixées au troisième alinéa du e à un organisme public ou privé pour
-le logement à usage d'habitation principale de son personnel, à l'exclusion du
-propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
-ses descendants et ascendants, ne fait pas obstacle au bénéfice de la déduction.
-Lorsque la location est suspendue à l'issue d'une période d'au moins trois ans
-au profit d'un ascendant ou d'un descendant du contribuable, ce dernier ne
-bénéficie pas, pendant la période de mise à disposition du logement au profit
-d'un ascendant ou d'un descendant, de la déduction au titre de l'amortissement,
-et la déduction forfaitaire s'applique au taux de 14 %. Cette période de mise à
-disposition, qui ne peut excéder neuf ans, n'est pas prise en compte pour la
-durée de location minimale de neuf ans (11).
+principale à une personne autre qu'un membre de son foyer fiscal. Cette location
+doit prendre effet dans les douze mois qui suivent la date d'achèvement de
+l'immeuble ou de son acquisition si elle est postérieure. Cet engagement
+prévoit, en outre, que le loyer et les ressources du locataire appréciées à la
+date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret
+(10). La location du logement consentie dans les conditions fixées au troisième
+alinéa du e à un organisme public ou privé pour le logement à usage d'habitation
+principale de son personnel, à l'exclusion du propriétaire du logement, de son
+conjoint, ou des membres de son foyer fiscal (11), ne fait pas obstacle au
+bénéfice de la déduction.
 
 A l'issue de la période couverte par l'engagement de location, tant que la
 condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
@@ -306,8 +299,8 @@ non-respect des conditions de location ou de cession du logement, les déduction
 pratiquées pendant l'ensemble de la période triennale sont remises en cause dans
 les conditions de droit commun. A l'issue de cette période, et sous réserve que
 les conditions de loyer et de ressources prévues au e soient remplies, le
-propriétaire peut bénéficier de la déduction forfaitaire majorée au taux de 25 %
-ou de 60 %, qu'il y ait ou non changement de titulaire du bail.
+propriétaire peut bénéficier de la déduction forfaitaire majorée au taux de 40 %
+(3 bis) ou de 60 %, qu'il y ait ou non changement de titulaire du bail.
 
 La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
@@ -336,8 +329,8 @@ location ou de cession du logement, les déductions pratiquées pendant l'ensemb
 de la période triennale sont remises en cause dans les conditions de droit
 commun. A l'issue de cette période, et sous réserve que les conditions de loyer
 et de ressources prévues au e soient remplies, le propriétaire peut bénéficier
-de la déduction forfaitaire majorée au taux de 25 % ou de 60 %, qu'il y ait ou
-non changement de titulaire du bail ;
+de la déduction forfaitaire majorée au taux de 40 % (3 bis) ou de 60 %, qu'il y
+ait ou non changement de titulaire du bail ;
 
 2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
 l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
@@ -350,16 +343,16 @@ l'immeuble est la propriété d'une société non soumise à l'impôt sur les
 sociétés, à la condition que le porteur de parts s'engage à conserver la
 totalité de ses titres jusqu'à l'expiration de la durée de neuf ans mentionnée
 au troisième alinéa et au 1.. Si un logement dont la société est propriétaire
-est loué à l'un des associés ou à un membre du foyer fiscal, un ascendant ou un
-descendant d'un associé, ce dernier ne peut pas bénéficier de la déduction au
-titre de l'amortissement. En outre, la déduction au titre de l'amortissement
-n'est pas applicable aux revenus des titres dont le droit de propriété est
-démembré. Toutefois, lorsque le transfert de la propriété des titres ou le
-démembrement de ce droit résulte du décès de l'un des époux soumis à imposition
-commune, le conjoint survivant attributaire des titres ou titulaire de leur
-usufruit peut demander la reprise à son profit, dans les mêmes conditions et
-selon les mêmes modalités, du dispositif prévu au présent g pour la période
-restant à courir à la date du décès.
+est loué à l'un des associés ou à un membre du foyer fiscal d'un associé, ce
+dernier ne peut pas bénéficier de la déduction au titre de l'amortissement. En
+outre, la déduction au titre de l'amortissement n'est pas applicable aux revenus
+des titres dont le droit de propriété est démembré. Toutefois, lorsque le
+transfert de la propriété des titres ou le démembrement de ce droit résulte du
+décès de l'un des époux soumis à imposition commune, le conjoint survivant
+attributaire des titres ou titulaire de leur usufruit peut demander la reprise à
+son profit, dans les mêmes conditions et selon les mêmes modalités, du
+dispositif prévu au présent g pour la période restant à courir à la date du
+décès.
 
 Le revenu net foncier de l'année au cours de laquelle l'un des engagements
 définis au présent g n'est pas respecté est majoré du montant des amortissements

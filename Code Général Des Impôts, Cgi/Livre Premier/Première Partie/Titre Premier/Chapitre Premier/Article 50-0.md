@@ -16,8 +16,8 @@ ne dépasse pas 27 000 euros.
 
 Le résultat imposable, avant prise en compte des plus ou moins-values provenant
 de la cession des biens affectés à l'exploitation, est égal au montant du
-chiffre d'affaires hors taxes diminué d'un abattement de 70 % pour le chiffre
-d'affaires provenant d'activités de la 1re catégorie et d'un abattement de 50 %
+chiffre d'affaires hors taxes diminué d'un abattement de 72 % pour le chiffre
+d'affaires provenant d'activités de la 1re catégorie et d'un abattement de 52 %
 pour le chiffre d'affaires provenant d'activités de la 2e catégorie. Ces
 abattements ne peuvent être inférieurs à 305 euros.
 

@@ -57,19 +57,16 @@ b) Autres huiles légères.
 
 essences d'aviation : indice 10, hectolitre, 32,36.
 
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le
-supercarburant correspondant à l'indice d'identification n° 11 bis : indice 11,
-hectolitre, 58,63.
+supercarburant sans plomb : indice 11, hectolitre, 58,92.
 
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, contenant un
-additif spécifique améliorant les caractéristiques antirécession de soupape
-(ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
-dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
-membre de l'Espace économique européen : indice 11 bis, hectolitre, 63,67.
+supercarburant sans plomb contenant un additif spécifique améliorant les
+caractéristiques antirécession de soupape :
+
+indice 11 bis, hectolitre, 63,96.
 
 carburéacteurs, type essence :
 
-sous condition d'emploi : indice 13, hectolitre, 14,76.
+sous condition d'emploi : indice 13, hectolitre, 2,54.
 
 autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant
 visé à l'indice 11.
@@ -87,7 +84,7 @@ autre : indice 16, hectolitre, taxe intérieure gazole.
 
 b) Carburéacteurs, type pétrole lampant :
 
-sous condition d'emploi : indice 17, hectolitre, 2,25.
+sous condition d'emploi : indice 17, hectolitre, 2,54.
 
 autre : indice 17 bis, hectolitre, taxe intérieure gazole.
 
@@ -97,29 +94,15 @@ c) Autres huiles moyennes : indice 18, hectolitre, taxe intérieure gazole.
 
 a) Gazole :
 
-sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,49.
+sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 38,90.
+présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 39,19.
 
 autre : indice 23, hectolitre, exemption.
 
-b) Fioul :
+fioul lourd : indice 24, 100 kg net, 1,85.
 
-. Fioul présentant une viscosité cinématique à 20° C inférieure ou égale à 9,5
-centistockes :
-
-présentant un point d'éclair inférieur à 120° C : indice 26, hectolitre, taxe
-intérieure gazole.
-
-autre : indice 27, exemption.
-
-. Fiouls lourds :
-
-d'une teneur en soufre supérieure à 2 % : indice 28, 100 kg net, 2,32.
-
-d'une teneur en soufre inférieure à 2 % : indice 28 bis, 100 kg net, 1,68.
-
-c) Huiles lubrifiantes et autres : indice 29, exemption.
+b) Huiles lubrifiantes et autres : indice 29, exemption.
 
 2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou
 supérieure à 99 %) :
@@ -127,9 +110,9 @@ supérieure à 99 %) :
 destiné à être utilisé comme carburant, y compris le mélange spécial de butane
 et de propane dans lequel le propane représente plus de 50 % en poids :
 
-sous condition d'emploi : indice 30 bis, 100 kg net, 3,94.
+sous condition d'emploi : indice 30 bis, 100 kg net, 4,68.
 
-autre : indice 30 ter, 100 kg net, 10,02.
+autre : indice 30 ter, 100 kg net, 10,76.
 
 destiné à d'autres usages : indice 31, exemption.
 
@@ -161,7 +144,7 @@ l'indice 30 ter.
 non dénommés : indice 35, exemption.
 
 Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice
-36, 100 mètres cubes, 8,38.
+36, 100 mètres cubes, 8,47.
 
 2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux
 :
@@ -220,49 +203,7 @@ volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure
 la température de 0° C et exprimé en centaines de mètres cubes avec deux
 décimales.
 
-d) Lorsque le cours moyen du pétrole dénommé "brent daté" varie de plus de 10 %
-dans les conditions précisées au deuxième alinéa, les tarifs prévus au 1 pour
-les supercarburants mentionnés aux indices 11 et 11 bis, le gazole mentionné à
-l'indice 22 et le fioul domestique mentionné à l'indice 20 sont corrigés d'un
-montant égal au produit de la variation en valeur absolue de la moyenne des prix
-hors taxe de ces produits pétroliers et du taux de 16,388 %. Cette correction
-est effectuée à la baisse en cas de hausse des prix hors taxe et à la hausse
-dans le cas contraire.
-
-Cette modification est effectuée le 1er octobre 2000 pour la période du 1er
-octobre au 30 novembre 2000 si la variation cumulée du cours moyen du pétrole
-"brent daté" constatée sur la période du 1er au 15 septembre 2000 est supérieure
-de 10 % au cours moyen du mois de janvier 2000. La modification est effectuée le
-1er décembre 2000 pour la période du 1er décembre 2000 au 20 janvier 2001 si la
-variation cumulée du cours moyen du pétrole "brent daté" constatée sur la
-période du 1er octobre au 9 novembre 2000 est supérieure de 10 % au cours moyen
-de la période du mois de septembre 2000. La modification est effectuée le 21
-janvier 2001 pour la période du 21 janvier au 20 mars 2001 si la variation
-cumulée du cours moyen du pétrole "brent daté" constatée sur la période du 10
-novembre au 31 décembre 2000 est supérieure de 10 % au cours moyen de la période
-du 1er octobre au 9 novembre 2000. Elle est effectuée pour les périodes
-ultérieures, lorsque la variation cumulée constatée au cours des bimestres
-suivants est supérieure de 10 % à la moyenne des prix du "brent daté" qui a
-entraîné la modification précédente.
-
-Ces modifications s'appliquent à compter du 21 du premier mois du bimestre
-suivant celui au titre duquel une variation de 10 % du cours du "brent daté" a
-été constatée.
-
-Les cours moyens du pétrole "brent daté" et les prix moyens hors taxe des
-supercarburants, du gazole et du fioul domestique sont calculés, pour chacune
-des périodes mentionnées au présent d, par l'autorité administrative compétente.
-
-Les modifications prévues au premier alinéa ne peuvent pas avoir pour effet de
-porter les tarifs à un niveau supérieur à celui fixé par la loi de finances au
-tableau B du 1. Ces modifications ne sont plus appliquées lorsque le cours moyen
-bimestriel du "brent daté" est redevenu inférieur à la moyenne constatée au
-titre du mois de janvier 2000.
-
-Le ministre chargé du budget constate par arrêté les modifications de tarifs de
-la taxe intérieure de consommation résultant des alinéas précédents.
-
-Un décret fixe les modalités d'application de ces dispositions.
+d) (alinéa abrogé).
 
 Tableau C : Autres huiles minérales.
 

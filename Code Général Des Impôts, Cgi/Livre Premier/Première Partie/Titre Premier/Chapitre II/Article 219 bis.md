@@ -13,7 +13,7 @@ l'article 125 A ;
 b. Les revenus des titres émis à compter du 1er janvier 1987 tels qu'ils sont
 définis aux articles 118, 119, 238 septies A, 238 septies B et 238 septies E.
 
-c. Les dividendes mentionnés au d du 5 de l'article 206.
+c. Les dividendes mentionnés aux d et e du 5 de l'article 206.
 
 Les dispositions des premier à cinquième alinéas ne s'appliquent pas aux revenus
 de l'espèce qui se rattachent à une exploitation commerciale, industrielle ou

@@ -24,4 +24,4 @@ huiles minérales visées aux tableaux B et C de l'article 265.
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après
 arrondissement au millier le plus voisin.
 
-5. (alinéa supprimé).
+5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.

@@ -97,7 +97,7 @@ la société, en exécution d'un plan de redressement mentionné aux articles L.
 par le tribunal en application des articles L. 621-83 et suivants de ce code,
 soit le jugement de clôture de la liquidation judiciaire.
 
-Par exception aux dispositions du précédent alinéa, préalablement à l'annulation
+Par exception aux dispositions du premier alinéa, préalablement à l'annulation
 des titres, les pertes sur valeurs mobilières, droits sociaux ou titres
 assimilés peuvent, sur option expresse du détenteur, être imputées dans les
 conditions prévues au 11, à compter de l'année au cours de laquelle intervient

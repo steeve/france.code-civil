@@ -36,6 +36,12 @@ quinquies, la contribution est calculée d'après le montant de l'impôt sur les
 sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en
 l'absence d'application de ce régime. Elle n'est ni imputable ni remboursable.
 
+III bis - Les sociétés d'investissements immobiliers cotées visées au I de
+l'article 208 C et leurs filiales détenues à 95 % au moins, directement ou
+indirectement, de manière continue au cours de l'exercice ne sont pas
+assujetties à la présente contribution sur les plus-values imposées en
+application du IV de l'article 219.
+
 IV. - Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance
 visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionnée
 à l'article 223 septies ne sont pas imputables sur la contribution.

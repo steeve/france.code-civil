@@ -7,8 +7,8 @@ effectuées directement ou par personne interposée, de valeurs mobilières, de
 droits sociaux, de titres mentionnés au 1° de l'article 118 et aux 6° et 7° de
 l'article 120, de droits portant sur ces valeurs, droits ou titres ou de titres
 représentatifs des mêmes valeurs, droits ou titres, sont soumis à l'impôt sur le
-revenu lorsque le montant de ces cessions excède, par foyer fiscal, 7 650 euros
-(1) par an.
+revenu lorsque le montant de ces cessions excède, par foyer fiscal, 15 000 euros
+par an.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
@@ -36,6 +36,14 @@ pendant la durée de la société, à l'une des personnes mentionnées au prése
 alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à
 un tiers dans un délai de cinq ans. A défaut, la plus-value est imposée au nom
 du premier cédant au titre de l'année de la revente des droits au tiers.
+
+4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels
+l'option pour l'imputation des pertes a été exercée dans les conditions du
+deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'année
+au cours de laquelle elles sont reçues, quel que soit le montant des cessions
+réalisées au cours de cette année, sous déduction du montant repris en
+application de l'article 163 octodecies A, à hauteur de la perte imputée ou
+reportée.
 
 II. - Les dispositions du I sont applicables :
 

@@ -26,11 +26,13 @@ qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un
 exploitant qui a souscrit un engagement de promotion touristique à l'étranger
 dans les conditions fixées par un décret en Conseil d'Etat ;
 
-b. Aux prestations de mise à disposition d'un local meublé ou garni lorsque
-l'exploitant offre, en plus de l'hébergement, le petit déjeuner, le nettoyage
-quotidien des locaux, la fourniture de linge de maison et la réception de la
-clientèle et qu'il est immatriculé au registre du commerce et des sociétés au
-titre de cette activité ;
+b. Aux prestations de mise à disposition d'un local meublé ou garni effectuées à
+titre onéreux et de manière habituelle, comportant en sus de l'hébergement au
+moins trois des prestations suivantes, rendues dans des conditions similaires à
+celles proposées par les établissements d'hébergement à caractère hôtelier
+exploités de manière professionnelle : le petit déjeuner, le nettoyage régulier
+des locaux, la fourniture de linge de maison et la réception, même non
+personnalisée, de la clientèle.
 
 c. Aux locations de locaux nus, meublés ou garnis consenties par bail commercial
 à l'exploitant d'un établissement d'hébergement qui remplit les conditions

@@ -17,13 +17,11 @@ Tabacs à priser : 40,89
 
 Tabacs à mâcher : 28,16
 
-Le minimum de perception mentionné à l'article 575 est fixé à 90 euros (1) pour
-les cigarettes. Toutefois, pour les cigarettes brunes, ce minimum de perception
-est fixé à 87 euros (1).
+Le minimum de perception mentionné à l'article 575 est fixé à 106 euros pour les
+cigarettes.
 
-Il est fixé à 45 euros (1) pour les tabacs de fine coupe destinés à rouler les
-cigarettes et les autres tabacs à fumer et à 55 euros (1) pour les cigares.
+Il est fixé à 56 euros pour les tabacs de fine coupe destinés à rouler les
+cigarettes, à 45 euros pour les autres tabacs à fumer et à 55 euros pour les
+cigares.
 
-Sont considérées comme cigarettes brunes les cigarettes dont la composition en
-tabac naturel comprend un minimum de 60 % de tabacs relevant des codes NC
-2401-10-41, 2401-10-70, 2401-20-41 ou 2401-20-70 du tarif des douanes.
+Alinéa supprimé.
