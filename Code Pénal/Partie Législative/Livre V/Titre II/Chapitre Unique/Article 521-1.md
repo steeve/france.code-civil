@@ -1,17 +1,11 @@
 Article 521-1
 ----
-Le fait, sans nécessité, publiquement ou non, d'exercer des sévices graves ou de
-commettre un acte de cruauté envers un animal domestique, ou apprivoisé, ou tenu
-en captivité, est puni de six mois d'emprisonnement et de 50 000 F d'amende [*
-taux *].
+Le fait, publiquement ou non, d'exercer des sévices graves ou de commettre un
+acte de cruauté envers un animal domestique, ou apprivoisé, ou tenu en
+captivité, est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
 
-En cas d'urgence ou de péril, le juge d'instruction peut décider de confier
-l'animal, jusqu'au jugement, à une oeuvre de protection animale déclarée.
-
-En cas de condamnation du propriétaire de l'animal ou si le propriétaire est
-inconnu, le tribunal peut décider de remettre l'animal à une oeuvre de
-protection animale reconnue d'utilité publique ou déclarée, laquelle pourra
-librement en disposer.
+A titre de peine complémentaire, le tribunal peut interdire la détention d'un
+animal, à titre définitif ou non.
 
 Les dispositions du présent article ne sont pas applicables aux courses de
 taureaux lorsqu'une tradition locale ininterrompue peut être invoquée. Elles ne
