@@ -1,17 +1,31 @@
 Article R441-7
 ----
-Les opérations prévues à l'article R. 441-4 comportent la constitution d'une
-provision technique spéciale, à laquelle sont affectées les cotisations versées,
-nettes de chargement et de taxes, et sur laquelle sont prélevées les prestations
-servies. Elle est représentée à l'actif dans les conditions et limites fixées
-par le chapitre II du titre III du livre III du présent code.
+Les provisions techniques des opérations prévues à l'article L. 441-1 sont les
+suivantes :
 
-La provision technique spéciale est capitalisée au taux de 3,50 %.
+1° La provision technique spéciale, sur laquelle sont prélevées les prestations
+servies et à laquelle sont affectées les cotisations versées, nettes de
+chargements et de taxes, ainsi qu'une participation aux bénéfices calculée dans
+des conditions fixées par arrêté du ministre chargé de l'économie ; cette
+provision est capitalisée à un taux nul ;
 
-Sont affectés à ladite provision, à concurrence d'au moins 85 p. 100 de leur
-montant, les produits générés par la gestion financière des opérations
-mentionnées à l'article R. 441-4.
+2° La provision technique spéciale complémentaire, à laquelle sont affectés les
+actifs mentionnés au second alinéa de l'article R. 441-21 et sur laquelle sont
+prélevées, en cas d'insuffisance de la provision technique spéciale, les
+prestations servies ;
 
-Les valeurs mobilières figurant à l'actif du bilan en représentation de la
-provision technique spéciale sont évaluées conformément aux règles fixées par le
-chapitre II du titre III du livre III du présent code.
+3° La provision pour risque d'exigibilité mentionnée au 6° de l'article R.
+331-3, calculée sur chaque portefeuille de titres et de placements qui fait
+l'objet d'une comptabilité auxiliaire d'affectation telle que prévue à l'article
+L. 441-8 ;
+
+4° La provision de gestion mentionnée au 4° de l'article R. 331-3.
+
+Les engagements mentionnés aux 1°, 2° et 3° sont à toute époque représentés par
+les actifs qui font l'objet d'une comptabilité auxiliaire d'affectation telle
+que prévue à l'article L. 441-8, selon les conditions et limites prévues au
+chapitre II du titre III du livre III du présent code. Les dispositions des
+articles R. 332-3 et R. 332-3-1 et du premier alinéa de l'article R. 332-21
+s'appliquent séparément à chaque portefeuille de titres et de placements qui
+fait l'objet d'une comptabilité auxiliaire d'affectation telle que prévue à
+l'article L. 441-8.

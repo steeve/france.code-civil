@@ -68,7 +68,10 @@ existant, pour le dernier exercice, entre le montant des capitaux sous risque
 après cessions et rétrocessions en réassurance et le montant des capitaux sous
 risque brut de réassurance, sans que ce rapport puisse être inférieur à 50 % ;
 
-f) Pour la branche 26, l'exigence minimale de marge est égale à un nombre
-représentant 4 % de la provision technique spéciale mentionnée à l'article R.
-441-7, dans la limite de la provision mathématique théorique mentionnée à
-l'article R. 441-21.
+f) Pour la branche 26, le montant minimal réglementaire de la marge est égal à
+un montant de 4 % de la plus élevée des valeurs suivantes :
+
+1. La provision mathématique théorique mentionnée à l'article R. 441-21 calculée
+après cessions en réassurance ;
+
+2. 85 % de cette même provision calculée avant cessions en réassurance.
