@@ -1,10 +1,11 @@
 Article 885 P
 ----
-Les biens donnés à bail à long terme dans les conditions prévues aux articles
-870-24 à 870-26 et 870-29 du code rural sont considérés comme des biens
-professionnels à condition que la durée du bail soit au minimum de dix-huit ans
-et que les descendants du preneur ne soient pas contractuellement privés de la
-faculté de bénéficier des dispositions de l'article 832 du code rural.
+Les biens donnés à bail à long terme dans les conditions prévues aux articles L.
+416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural sont considérés comme des
+biens professionnels à condition que la durée du bail soit au minimum de
+dix-huit ans et que les descendants du preneur ne soient pas contractuellement
+privés de la faculté de bénéficier des dispositions de l'article L. 411-35 du
+code rural.
 
 Lorsque le bail a été consenti par le bailleur à son conjoint, à un de leurs
 parents en ligne directe ou en ligne collatérale jusqu'au troisième degré ou au
