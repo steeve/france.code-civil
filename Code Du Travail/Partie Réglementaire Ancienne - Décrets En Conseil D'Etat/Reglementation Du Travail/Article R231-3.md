@@ -1,5 +1,5 @@
 Article R231-3
 ----
-Chaque comité d'hygiène et de sécurité peut, s'il y a lieu, être divisé en
-sections correspondant aux diverses parties de l'établissement. La constitution
-de ces sections doit être soumise pour approbation à l'inspecteur du travail.
+Dans les établissements où sont institués des comités d'entreprise ou des
+comités d'établissement, chaque comité d'hygiène et de sécurité fonctionne comme
+commission spécialisée du comité d'entreprise ou du comité d'établissement.

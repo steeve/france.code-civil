@@ -4,14 +4,17 @@ Un comité d'hygiène et de sécurité est constitué obligatoirement dans les
 établissements mentionnés à l'article L. 231-1, lorsque ces établissements
 appartiennent à l'une des catégories suivantes :
 
-a) Entreprises commerciales, offices publics et ministériels, professions
-libérales, sociétés civiles, syndicats professionnels et association de quelque
-nature que ce soit, occupant d'une façon habituelle 500 salariés au moins ;
+a) Etablissements industriels occupant habituellement au moins 50 [*effectifs*]
+salariés.
 
-b) Entreprises industrielles occupant d'une façon habituelle 50 salariés au
-moins.
+b) Autres établissements occupant habituellement au moins 300 salariés.
 
-En outre, pour les professions où cette mesure paraît nécessaire, un arrêté du
-ministre chargé du travail peut imposer la création d'un comité d'hygiène et de
-sécurité dans les établissements ne comptant pas les effectifs ci-dessus
-indiqués.
+Sur proposition de l'inspecteur du travail, le directeur départemental du
+travail et de la main-d'oeuvre peut imposer la création d'un comité d'hygiène et
+de sécurité dans les entreprises ou établissements occupant des effectifs
+inférieurs aux nombres ci-dessus lorsque cette mesure est nécessaire notamment
+en raison de la nature des travaux, de l'agencement ou de l'équipement des
+locaux.
+
+La décision du directeur départemental est assortie d'un délai d'exécution qui
+ne peut être inférieur à quinze jours.
