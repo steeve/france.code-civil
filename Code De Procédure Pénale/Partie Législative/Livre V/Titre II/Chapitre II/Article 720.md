@@ -12,4 +12,5 @@ contrat de travail. Il peut être dérogé à cette règle pour les activités
 exercées à l'extérieur des établissements pénitentiaires.
 
 Les règles relatives à la répartition des produits du travail des détenus sont
-fixées par décret.
+fixées par décret. Le produit du travail des détenus ne peut faire l'objet
+d'aucun prélèvement pour frais d'entretien en établissement pénitentiaire.
