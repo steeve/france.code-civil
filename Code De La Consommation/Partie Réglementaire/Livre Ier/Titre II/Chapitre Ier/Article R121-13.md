@@ -4,7 +4,7 @@ Sont punis des peines d'amende prévues pour les contraventions de la 5e classe 
 
 1° Les ventes ou offres de vente, les prestations de services ou offres de
 telles prestations faites avec primes aux consommateurs ou acheteurs, prohibées
-par l'article L. 121-31 ;
+par l'article L. 121-35 ;
 
 2° Les refus ou subordinations à conditions, de ventes ou de prestations de
 services, interdits par l'article L. 122-1 ;

@@ -11,7 +11,8 @@ présent code.
 
 Les mêmes peines sont applicables en cas d'infraction aux arrêtés prévus à
 l'article L. 113-3 fixant les modalités d'information du consommateur sur les
-prix et conditions particulières de vente.
+prix et conditions particulières de vente ainsi qu'aux arrêtés ayant le même
+objet pris en application de l'ordonnance n° 45-1483 du 30 juin 1945.
 
 En cas de récidive, les peines d'amende prévues pour la récidive des
 contraventions de la cinquième classe sont applicables.

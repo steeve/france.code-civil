@@ -1,8 +1,9 @@
 Article R*215-12
 ----
-Un récépissé remis au propriétaire ou au détenteur de l'objet dans les
-conditions prévues à l'article R. 215-9 mentionne la valeur de la quantité du
-produit rendue inutilisable.
+Dans le cas des produits altérables mentionnés à l'article L. 215-15, un
+récépissé remis au propriétaire ou au détenteur de l'objet dans les conditions
+prévues à l'article R. 215-9 mentionne la valeur de la quantité du produit
+rendue inutilisable.
 
 Le produit placé sous scellés est déposé par l'agent dans un lieu propre à en
 assurer autant que possible la conservation. Il peut être laissé à la garde de
