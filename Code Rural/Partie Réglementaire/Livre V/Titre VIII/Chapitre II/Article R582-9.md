@@ -7,7 +7,7 @@ du 30 mai 1984 relatif au registre du commerce et des sociétés" ne s'appliquen
 pas en Nouvelle-Calédonie.
 
 2° A son 4° les mots : "territoire français" sont remplacés par les mots :
-"territoire de la Nouvelle-Calédonie".
+"Nouvelle-Calédonie".
 
 3° Ses deux derniers alinéas sont remplacés par les dispositions suivantes :
 

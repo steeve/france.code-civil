@@ -8,4 +8,4 @@ imputés, s'il y a lieu, sur la durée de la peine.
 
 Le délai prévu pour exécuter le transfèrement vers la juridiction saisie est
 porté à quinze jours si ce transfèrement est fait à partir ou à destination d'un
-territoire d'outre-mer.
+territoire d'outre-mer ou de la Nouvelle-Calédonie.

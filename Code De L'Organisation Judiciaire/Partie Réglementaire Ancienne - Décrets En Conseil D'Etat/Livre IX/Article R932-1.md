@@ -5,8 +5,9 @@ Les dispositions de la section 3 du chapitre Ier du titre Ier du livre III
 instance, à l'exception des articles R. 311-16, R. 311-22, R. 311-26, R. 311-27,
 R. 311-29-1 à R. 311-29-3, R. 311-30, R. 311-36 et R. 311-38, ainsi que les
 dispositions de l'article R. 312-8 sont applicables au tribunal de première
-instance et aux sections détachées du tribunal de première instance dans les
-territoires visés au présent chapitre, sous réserve des adaptations suivantes :
+instance et aux sections détachées du tribunal de première instance en
+Nouvelle-Calédonie et dans les territoires visés au présent chapitre, sous
+réserve des adaptations suivantes :
 
 1° Pour l'application du premier alinéa de l'article R. 311-23 et de l'article
 R. 311-34, la référence à la répartition des magistrats du siège et du parquet

@@ -1,7 +1,7 @@
 Article L931-1
 ----
-Pour l'application des dispositions étendues par le présent titre dans les
-territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles
+Pour l'application des dispositions étendues par le présent titre à la
+Nouvelle-Calédonie, dans les territoires de la Polynésie française et des îles
 Wallis-et-Futuna, il y a lieu de lire :
 
 1° " Tribunal de première instance " à la place de " tribunal de grande instance
@@ -11,7 +11,8 @@ Wallis-et-Futuna, il y a lieu de lire :
 
 3° " Tribunal du travail " à la place de " conseil de prud'hommes " ;
 
-4° " Haut commissaire de la République ", pour ce qui concerne les territoires
-de la Nouvelle-Calédonie et de la Polynésie française, et " administrateur
-supérieur ", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la
-place de " commissaire de la République " et de " préfet ".
+4° " Haut commissaire de la République ", pour ce qui concerne la
+Nouvelle-Calédonie et le territoire de la Polynésie française, et "
+administrateur supérieur ", pour ce qui concerne le territoire des îles
+Wallis-et-Futuna, à la place de " commissaire de la République " et de " préfet
+".

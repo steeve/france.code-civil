@@ -42,8 +42,7 @@ prévues par le premier alinéa de l'article 398 pour le jugement des délits
 prévus au présent article lorsque ces délits sont connexes à d'autres délits non
 prévus par cet article. "
 
-II. - Dans les territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna
-:
+II. - En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
 
 " Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de
 l'article 398 :

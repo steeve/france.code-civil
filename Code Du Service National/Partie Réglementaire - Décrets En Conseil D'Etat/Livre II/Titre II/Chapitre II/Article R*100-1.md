@@ -1,8 +1,8 @@
 Article R*100-1
 ----
-Pour l'application dans les territoires d'outre-mer des dispositions des
-articles L. 54 et L. 55 du code du service national le comité d'assistance est
-présidé par un magistrat du siège désigné annuellement :
+Pour l'application dans les territoires d'outre-mer et en Nouvelle-Calédonie des
+dispositions des articles L. 54 et L. 55 du code du service national le comité
+d'assistance est présidé par un magistrat du siège désigné annuellement :
 
 Par le président de la cour d'appel, pour la Nouvelle-Calédonie et les îles
 Wallis-et-Futuna ;

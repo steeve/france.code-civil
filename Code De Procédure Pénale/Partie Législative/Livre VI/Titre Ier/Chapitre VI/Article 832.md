@@ -1,6 +1,6 @@
 Article 832
 ----
-I. - Pour l'application dans les territoires de la Nouvelle-Calédonie et de la
+I. - Pour l'application en Nouvelle-Calédonie et dans le territoire de la
 Polynésie française du deuxième alinéa de l'article 262 fixant la composition de
 la commission prévue à cet article, les conseillers généraux sont remplacés par
 cinq membres désignés chaque année en son sein par le Congrès ou l'assemblée de

@@ -8,13 +8,14 @@ Il comprend une section de fonctionnement et une section d'investissement.
 Le budget de la province est voté en équilibre réel.
 
 Le budget est en équilibre réel lorsque la section de fonctionnement et la
-section d'investissement sont respectivement votées en équilibre et lorsque le
-prélèvement sur les recettes de la section de fonctionnement au profit de la
-section d'investissement, ajouté aux recettes propres de cette section, à
-l'exclusion du produit des emprunts, et éventuellement aux dotations des comptes
-d'amortissements et de provisions, fournit des ressources suffisantes pour
-couvrir le remboursement en capital des annuités à échoir au cours de
-l'exercice.
+section d'investissement sont respectivement votées en équilibre, les recettes
+et les dépenses ayant été évaluées de façon sincère, et lorsque le prélèvement
+sur les recettes de la section de fonctionnement au profit de la section
+d'investissement, ajouté aux recettes propres de cette section, à l'exclusion
+d'une part, du produit des emprunts, d'autre part, des subventions spécifiques
+d'équipement et éventuellement aux dotations des comptes d'amortissements et de
+provisions, fournit des ressources suffisantes pour couvrir le remboursement en
+capital des annuités à échoir au cours de l'exercice.
 
 Ne sont obligatoires que les dépenses nécessaires à l'acquittement des dettes
 exigibles et les dépenses pour lesquelles la loi l'a expressément décidé.

@@ -5,9 +5,12 @@ le 15 novembre sur le bureau de l'assemblée.
 
 Si le budget n'est pas exécutoire au 1er janvier de l'exercice auquel il
 s'applique, le président de l'assemblée de province peut mettre en recouvrement
-les recettes et engager par douzièmes les dépenses de la section de
-fonctionnement dans la limite de celles inscrites au budget de l'année
-précédente.
+les recettes et engager, liquider et mandater par douzièmes les dépenses de la
+section de fonctionnement dans la limite de celles inscrites au budget de
+l'année précédente.
+
+Il est en droit de mandater les dépenses afférentes au remboursement en capital
+des annuités de la dette venant à échéance avant le vote du budget.
 
 Si le budget n'est pas voté avant le 31 mars, il est arrêté par le
 haut-commissaire après avis de la chambre territoriale des comptes, sur la base

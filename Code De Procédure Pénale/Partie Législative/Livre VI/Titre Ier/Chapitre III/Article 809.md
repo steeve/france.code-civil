@@ -1,9 +1,10 @@
 Article 809
 ----
-I. - Les fonctionnaires et agents exerçant dans les territoires d'outre-mer des
-fonctions correspondant à celles des fonctionnaires et agents métropolitains
-visés aux articles 22 à 29 sont chargés de certaines fonctions de police
-judiciaire dans les conditions et les limites fixées par ces mêmes articles.
+I. - Les fonctionnaires et agents exerçant dans les territoires d'outre-mer et
+en Nouvelle-Calédonie des fonctions correspondant à celles des fonctionnaires et
+agents métropolitains visés aux articles 22 à 29 sont chargés de certaines
+fonctions de police judiciaire dans les conditions et les limites fixées par ces
+mêmes articles.
 
 II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des
 provinces, peuvent constater par procès-verbal des infractions aux

@@ -1,7 +1,7 @@
 Article 842
 ----
-Pour l'application de l'article 416 dans les territoires de Polynésie française
-et de Nouvelle-Calédonie, lorsque le déplacement d'un avocat paraît
+Pour l'application de l'article 416 dans le territoire de la Polynésie française
+et en Nouvelle-Calédonie, lorsque le déplacement d'un avocat paraît
 matériellement impossible, le prévenu peut prendre pour conseil une personne qui
 n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au
 bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une

@@ -1,7 +1,7 @@
 Article R583-23
 ----
-L'article R. 534-4 ne s'applique pas au territoire de la Nouvelle-Calédonie et
-est remplacé par les dispositions suivantes :
+L'article R. 534-4 ne s'applique pas à la Nouvelle-Calédonie et est remplacé par
+les dispositions suivantes :
 
 "Si la liquidation d'une société d'intérêt collectif agricole constituée sous la
 forme d'une société civile fait apparaître des pertes excédant le montant du
