@@ -1,13 +1,8 @@
 Article R63
 ----
-Conformément à l'article 5 du décret n° 57-1190 du 25 octobre 1957, les lots de
-pêche aux lignes réservés pour la location amiable et demandés par plusieurs
-associations satisfaisant aux conditions d'attribution exigées sont mis en
-adjudication restreinte entre ces associations.
-
-Toutefois, si un lot de pêche réservé pour la location amiable est demandé par
-plusieurs associations acceptant les conditions d'affermage et s'il est déjà
-détenu par l'une de ces associations en vertu d'une location à elle consentie
-soit à l'amiable, dans les conditions fixées au présent chapitre, soit à la
-suite d'une adjudication restreinte, le lot peut être attribué par préférence à
-cette dernière association.
+Les conditions d'exploitation par adjudication, amodiation amiable ou licence du
+droit de pêche qui appartient à l'Etat dans les eaux du domaine public fluvial
+et dans les parties non salées, déterminées par décret, des cours d'eau et
+canaux non dominaux affluant à la mer, qui se trouvaient comprises dans les
+limites de l'inscription maritime antérieurement aux 8 novembre et 28 décembre
+1926, sont fixées par le décret n° 87-719 du 28 août 1987.
