@@ -15,9 +15,7 @@ l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 l'entreprise minière et chimique ;
 
 les régies municipales, intercommunales et départementales exploitant des
-services à caractère industriel et commercial ;
-
-le service des alcools.
+services à caractère industriel et commercial.
 
 2. Sont notamment soumis au régime prévu au 2 de l'article 165 :
 
@@ -49,6 +47,6 @@ les chambres de métiers et de l'artisanat ;
 
 les sections de l'office de répartition des produits industriels ;
 
-l'office national interprofessionnel des céréales ;
+l'Office national interprofessionnel des grandes cultures ;
 
 l'office national des anciens combattants et victimes de guerre.
