@@ -17,10 +17,10 @@ auxiliaire.
 Il n'y a pas lieu de rechercher :
 
 - s'il existe entre eux et le donneur d'ouvrage un lien de subordination
-juridique ;
+juridique sous réserve de l'application des dispositions de l'article L. 120-3 ;
 
 - s'ils travaillent sous la surveillance immédiate et habituelle du donneur
-d'ouvrage :
+d'ouvrage ;
 
 - si le local où ils travaillent et le matériel qu'ils emploient, quelle qu'en
 soit l'importance leur appartiennent ;

@@ -18,15 +18,14 @@ ou tout autre intermédiaire, il appartient à ceux-ci de fournir au directeur d
 la publication les renseignements susvisés concernant l'employeur.
 
 Les directeurs de publication sont tenus de faire connaître simultanément à leur
-parution et dans des conditions qui seront précisées par décret aux directions
-départementales du travail et de la main-d'oeuvre et aux services de l'agence
-nationale pour l'emploi [*ANPE*], les offres d'emploi qu'il leur est demandé de
-faire paraître. Dans le cas d'offre anonyme, les directions départementales du
-travail et de la main-d'oeuvre et les services de l'agence nationale pour
-l'emploi pourront, sur simple demande de leur part, obtenir du directeur de la
-publication les renseignements visés à l'alinéa précédent concernant
-l'employeur. Ces renseignements pourront être utilisés pour l'information des
-candidats éventuels à l'offre d'emploi publiée.
+parution et dans des conditions qui seront précisées par décret aux services de
+l'agence nationale pour l'emploi [*ANPE*], les offres d'emploi qu'il leur est
+demandé de faire paraître. Dans le cas d'offre anonyme, les directions
+départementales du travail et de la main-d'oeuvre et les services de l'agence
+nationale pour l'emploi pourront, sur simple demande de leur part, obtenir du
+directeur de la publication les renseignements visés à l'alinéa précédent
+concernant l'employeur. Ces renseignements pourront être utilisés pour
+l'information des candidats éventuels à l'offre d'emploi publiée.
 
 Il est interdit de faire publier dans un journal, revue ou écrit périodique une
 insertion d'offres d'emploi ou d'offres de travaux à domicile comportant :

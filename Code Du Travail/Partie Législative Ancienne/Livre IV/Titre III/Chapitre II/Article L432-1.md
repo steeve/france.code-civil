@@ -38,9 +38,6 @@ conditions prévues aux articles 20, 25 et 89 de la loi n° 85-98 du 25 janvier
 l'article 226 de ladite loi sont entendues par le tribunal compétent dans les
 conditions fixées aux articles 6, 23, 36, 61 et 68 de ladite loi.
 
-Il est habilité à donner un avis sur les augmentations de prix. Il peut être
-consulté par les autorités chargées de la fixation et du contrôle des prix.
-
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
 et de développement technologique de l'entreprise. A défaut, les aides publiques
 en faveur des activités de recherche et de développement technologique sont
