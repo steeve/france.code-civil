@@ -73,3 +73,21 @@ tableau modèle, et le total de ces postes complémentaires doit toujours être
 porté sous la rubrique réglementaire à laquelle lesdits postes sont rattachés.
 
 Les lignes et les colonnes "néant" peuvent être supprimées.
+
+Les entreprises agréées en vertu de l'article L. 321-1-1 ne sont tenues
+d'établir que les états suivants :
+
+B 4 : éléments d'actif représentant les engagements réglementés et
+cautionnements et montant de ces engagements et cautionnements ;
+
+A 5 : liste détaillée des placements ;
+
+A 10 : primes et sinistres de la catégorie Véhicules terrestres à moteur ;
+
+B 10, B 10 simplifié, B 10 bis : paiements et provisions pour sinistres ;
+
+B 23 : détail des provisions mathématiques pour risques en cours ; A 25 :
+participation des assurés sur la vie ou des porteurs de contrats de
+capitalisation aux résultats techniques et financiers ; B 26 : état justificatif
+de la participation des assurés sur la vie ou des porteurs de contrats de
+capitalisation aux résultats techniques et financiers.

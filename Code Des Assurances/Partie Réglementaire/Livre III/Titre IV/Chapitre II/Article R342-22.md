@@ -25,13 +25,14 @@ les opérations effectuées par le siège spécial pour la France :
 f) La liste des branches exploitées, l'année du début de l'exploitation et la
 date des agréments administratifs dans les termes de l'article L. 321-1.
 
-f bis) en ce qui concerne les succursales d'entreprises dont le siège social est
+f bis) En ce qui concerne les succursales d'entreprises dont le siège social est
 établi sur le territoire d'un autre Etat membre de la Communauté économique
-européenne, la liste des pays où la succursale exerce en liberté de prestation
-de services et les branches qu'elle y pratique, pour les grands risques la date
-d'accusé de réception des documents par les autorités de contrôle de ces pays
-et, pour les risques de masse, la date de l'agrément délivré par ces mêmes
-autorités, si cet agrément existe ;
+européenne, la liste des pays où l'entreprise exerce en libre prestation de
+services et des branches qu'elle y pratique ; la date d'accusé de réception par
+les autorités de contrôle de ces pays de la déclaration d'intention d'opérer en
+libre prestation de services sur leur territoire ou la date de l'agrément
+délivré par ces mêmes autorités, lorsqu'elles soumettent les opérations
+correspondantes à agrément.
 
 g) Un tableau indiquant les ventes et les achats de portefeuilles de contrats
 effectués au cours de l'exercice, les modifications aux branches exploitées sur

@@ -18,7 +18,7 @@ réponse le nom, l'adresse et les qualités de son expert et joint à cette rép
 une lettre de ce dernier acceptant la mission et se déclarant prêt à l'effectuer
 dans le délai ci-après fixé.
 
-Dès qu'il a reçu la réponse mentionnée aux deux alinéas précédents, la
+Dès qu'elle a reçu la réponse mentionnée aux deux alinéas précédents, la
 commission invite l'expert unique ou les deux experts à procéder à l'expertise.
 Elle donne communication de cet avis à l'entreprise.
 
@@ -32,8 +32,8 @@ par la commission, soit, à défaut d'accord entre les parties, dans les quinze
 jours du dépôt des conclusions des deux experts, à la requête de la partie la
 plus diligente, par le président du tribunal de grande instance de la situation
 du siège social ou du siège spécial pour la France, ou, dans le cas des
-opérations visées par l'article L. 351-5, du lieu de situation des actifs
-immobiliers, statuant en référé sur assignation.
+opérations visées par les articles L. 351-5 et L. 353-5, du lieu de situation
+des actifs immobiliers, statuant en référé sur assignation.
 
 Le tiers expert doit déposer ses conclusions et les notifier aux deux parties
 dans les deux mois de sa désignation.

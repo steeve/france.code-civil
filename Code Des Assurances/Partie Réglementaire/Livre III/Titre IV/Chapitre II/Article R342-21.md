@@ -23,11 +23,12 @@ branches qu'elle y pratique, la date de l'agrément pour les autorités de
 contrôle de ces pays si cet agrément existe, et l'année du début de
 l'exploitation.
 
-e bis) la liste des pays où l'entreprise exerce en liberté de prestation de
-services et les branches qu'elle y pratique, pour les grands risques la date
-d'accusé de réception des documents par les autorités de contrôle de ces pays
-et, pour les risques de masse, la date de l'agrément délivré par ces mêmes
-autorités, si cet agrément existe ;
+e bis) La liste des pays où l'entreprise exerce en libre prestation de services
+et des branches qu'elle y pratique ; la date d'accusé de réception par les
+autorités de contrôle de ces pays de la déclaration d'intention d'opérer en
+libre prestation de services sur leur territoire ou la date de l'agrément
+délivré par ces mêmes autorités, lorsqu'elles soumettent les opérations
+correspondantes à agrément.
 
 f) Un tableau indiquant les ventes et les achats de portefeuilles de contrats
 effectués au cours de l'exercice, les modifications apportées aux branches
