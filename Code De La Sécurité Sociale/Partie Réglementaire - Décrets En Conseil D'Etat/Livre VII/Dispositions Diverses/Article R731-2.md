@@ -16,3 +16,6 @@ les entreprises d'assurance de toute nature et de capitalisation ;
 4°) associations, unions ou fédérations constituées entre les institutions
 mentionnées aux 1°, 2° et 3° ci-dessus, en vue de réaliser une compensation de
 leurs charges ou une caution de leurs engagements.
+
+5°) institutions de prévoyance constituant des avantages autres que de retraites
+de vieillesse.
