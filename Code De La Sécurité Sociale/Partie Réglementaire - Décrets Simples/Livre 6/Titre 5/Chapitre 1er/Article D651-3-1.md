@@ -1,8 +1,9 @@
 Article D651-3-1
 ----
-Pour les entreprises de négoce en gros des combustibles dont la marge est au
-plus égale à 4 % du chiffre d'affaires hors taxes, le montant de la contribution
-sociale de solidarité est plafonné à 2,50 % de cette marge brute.
+Pour les entreprises de négoce en gros des combustibles et de commerce de détail
+de carburants dont la marge est au plus égale à 4 % du chiffre d'affaires hors
+taxes, le montant de la contribution sociale de solidarité est plafonné à 2,50 %
+de cette marge brute.
 
 La marge brute mentionnée au premier alinéa s'obtient à partir des indications
 qui doivent figurer, pour chaque exercice, dans le compte de résultat prévu à
