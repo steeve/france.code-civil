@@ -22,7 +22,8 @@ d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement de
 récoltes, des animaux ou du matériel agricole ainsi que des surfaces des serres
 de production.
 
-Sont également déduites de la surface hors oeuvre, dans la limite de 5 mètres
-carrés par logement, les surfaces de plancher affectées à la réalisation, dans
-le cadre de la réfection d'un immeuble à usage d'habitation, de travaux tendant
-à l'amélioration de l'hygiène des locaux.
+Sont également déduites de la surface hors oeuvre dans le cas de la réfection
+d'un immeuble à usage d'habitation et dans la limite de cinq mètres carrés par
+logement les surfaces de planchers affectées à la réalisation de travaux tendant
+à l'amélioration de l'hygiène des locaux et celles résultant de la fermeture des
+balcons, loggias et surfaces non closes situées en rez-de-chaussée.
