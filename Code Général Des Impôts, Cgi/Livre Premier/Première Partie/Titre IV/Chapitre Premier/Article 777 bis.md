@@ -5,6 +5,7 @@ un pacte civil de solidarité défini à l'article 515-1 du code civil est soumi
 à un taux de 40 % pour la fraction n'excédant pas 15 000 euros et à un taux de
 50 % pour le surplus.
 
-Ces taux ne s'appliquent aux donations que si, à la date du fait générateur des
-droits, les partenaires sont liés depuis au moins deux ans par un pacte civil de
-solidarité.
+Le bénéfice de l'application de ces taux est remis en cause lorsque le pacte
+prend fin au cours de l'année civile de sa conclusion ou de l'année suivante
+pour un motif autre que le mariage entre les partenaires ou le décès de l'un
+d'entre eux.

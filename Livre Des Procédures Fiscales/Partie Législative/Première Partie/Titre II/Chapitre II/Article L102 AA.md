@@ -16,6 +16,12 @@ sommes qu'ils ont versées au cours de l'année civile précédente en rémunér
 de la fourniture par l'exploitant concerné des services de télévision mentionnés
 au I du même article.
 
-III. Un décret fixe les conditions d'application du présent article (1).
+II bis. - Les personnes mentionnées au c du 2 du II de l'article 302 bis KB du
+code général des impôts auxquelles a été confié l'encaissement des sommes
+versées par les opérateurs de communications électroniques sont tenues de
+fournir à chaque exploitant de service de télévision mentionné au I de cet
+article ainsi qu'à l'administration des impôts, avant le 15 février de chaque
+année, un état récapitulatif des sommes prévues au c du 2 du II de cet article
+qu'elles ont encaissées au cours de l'année civile précédente.
 
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1998.
+III. Un décret fixe les conditions d'application du présent article.

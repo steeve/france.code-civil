@@ -34,6 +34,11 @@ moteur mentionnée aux articles 1599 C et 1599 nonies. Le taux est porté à 3 p
 prélèvement est perçu dans les conditions fixées à l'article 1599 I et au
 deuxième alinéa de l'article 1599 nonies.
 
+c. 2 % sur les montants de la taxe d'apprentissage versés au Fonds national de
+développement et de modernisation de l'apprentissage en application du 1 de
+l'article 224 et de l'article 226 B, ainsi que sur le montant de la contribution
+au développement de l'apprentissage mentionnée à l'article 1599 quinquies A.
+
 VI. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1 p. 100 sur le montant de la taxe mentionnée à l'article 302 bis ZB.
 
@@ -41,8 +46,8 @@ VII. Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 1,5 % sur le montant de la taxe mentionnée à l'article 302 bis KB.
 
 VIII. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 2,5 % sur le montant des taxes mentionnées aux articles 1609 quinvicies, 1609
-sexvicies et 1635 bis M.
+de 2,5 % sur le montant des taxes mentionnées aux articles 1609 sexvicies et
+1635 bis M.
 
 IX. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
 de 2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.
@@ -50,3 +55,7 @@ de 2,5 % sur le montant de la taxe mentionnée à l'article 302 bis KE.
 X. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement de
 1,5 % sur le montant de la redevance d'archéologie préventive prévue à l'article
 L. 524-2 du code du patrimoine.
+
+XI. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+de 1 % sur le montant de la taxe mentionnée au I de l'article 1605. Toutefois,
+pour 2005, ce taux est fixé à 2 % (1).

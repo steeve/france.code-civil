@@ -1,19 +1,24 @@
 Article 1647 C
 ----
-I. A compter des impositions établies au titre de 1998, la cotisation de taxe
-professionnelle des entreprises qui disposent pour les besoins de leur activité
-:
+I. La cotisation de taxe professionnelle des entreprises qui disposent pour les
+besoins de leur activité :
 
 a) de véhicules routiers à moteur destinés au transport de marchandises et dont
-le poids total autorisé en charge est égal ou supérieur à 16 tonnes ;
+le poids total autorisé en charge est égal ou supérieur à 7,5 tonnes (1) ;
 
 b) de véhicules tracteurs routiers dont le poids total roulant est égal ou
-supérieur à 16 tonnes ;
+supérieur à 7,5 tonnes (1) ;
 
 c) d'autocars dont le nombre de places assises, hors strapontins est égal ou
-supérieur à quarante,
+supérieur à quarante ;
 
-fait l'objet d'un dégrèvement d'un montant de 122 euros par véhicule ;
+d) De bateaux de marchandises et de passagers affectés à la navigation
+intérieure (1),
+
+fait l'objet, pour les impositions établies au titre de 2004, d'un dégrèvement
+d'un montant de 244 euros par véhicule ou par bateau et, pour les impositions
+établies à compter de 2005, d'un dégrèvement d'un montant de 366 euros par
+véhicule ou par bateau.
 
 II. a) (abrogé).
 

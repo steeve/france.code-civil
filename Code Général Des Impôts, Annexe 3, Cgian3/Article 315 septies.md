@@ -14,7 +14,7 @@ b) Le nombre de salariés de l'entreprise exploitante au 1er janvier 2004 ou à 
 date de sa création si elle est postérieure ;
 
 c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A,
-1383 C et 1383 D du code général des impôts ;
+1383 C, 1383 D et 1383 F du code général des impôts ;
 
 d) Le montant du chiffre d'affaires annuel hors taxes réalisé au cours de la
 période de référence retenue pour l'imposition de taxe professionnelle établie

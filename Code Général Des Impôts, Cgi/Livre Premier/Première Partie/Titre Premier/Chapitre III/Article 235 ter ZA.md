@@ -3,12 +3,14 @@ Article 235 ter ZA
 I. A compter du 1er janvier 1995, pour les exercices clos ou la période
 d'imposition arrêtée conformément au deuxième alinéa de l'article 37, les
 personnes morales sont assujetties à une contribution égale à 10 % de l'impôt
-sur les sociétés calculé sur leurs résultats imposables aux taux mentionnés au I
-de l'article 219.
+sur les sociétés calculé sur leurs résultats imposables aux taux mentionnés aux
+I et IV (1) de l'article 219.
 
 Le taux de la contribution mentionnée au premier alinéa est réduit à 6 % pour
-les exercices clos ou la période d'imposition arrêtée en 2001 et à 3 % pour les
-exercices clos ou la période d'imposition arrêtée à compter du 1er janvier 2002.
+les exercices clos ou la période d'imposition arrêtée en 2001, à 3 % pour les
+exercices clos ou la période d'imposition arrêtée à compter du 1er janvier 2002
+et à 1,5 % pour les exercices clos ou la période d'imposition arrêtée à compter
+du 1er janvier 2005.
 
 II. Pour les personnes mentionnées au I qui sont placées sous le régime prévu à
 l'article 223 A, la contribution est due par la société mère. Elle est assise

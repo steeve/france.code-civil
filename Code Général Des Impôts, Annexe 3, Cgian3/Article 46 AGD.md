@@ -1,6 +1,6 @@
 Article 46 AGD
 ----
-I. - Pour l'application du quatrième alinéa de l'article 199 decies E du code
+I. - Pour l'application du cinquième alinéa de l'article 199 decies E du code
 général des impôts, les contribuables sont tenus de joindre à leur déclaration
 de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt
 est demandé :
@@ -31,7 +31,7 @@ des revenus de l'année au cours de laquelle le changement est intervenu une
 copie du bail conclu avec le nouvel exploitant comportant les mentions définies
 au 2° du I.
 
-III. - Pour l'application du sixième alinéa de l'article 199 decies E du code
+III. - Pour l'application du septième alinéa de l'article 199 decies E du code
 général des impôts, le conjoint survivant joint à la déclaration de revenus
 qu'il souscrit au titre de l'année du décès pour la période postérieure à cet
 événement une note établie conformément à un modèle fixé par l'administration

@@ -16,22 +16,23 @@ alinéa.
 II. - 1. Les délibérations des communes et de leurs établissements publics de
 coopération intercommunale instituant la taxe d'enlèvement des ordures ménagères
 conformément aux articles 1520, 1609 bis, 1609 quater, 1609 quinquies C et 1609
-nonies D et les décisions visées aux 1 et 2 du III de l'article 1521 doivent
-être prises avant le 15 octobre d'une année pour être applicables à compter de
-l'année suivante. Elles sont soumises à la notification prévue à l'article 1639
-A au plus tard quinze jours après la date limite prévue pour leur adoption.
+nonies D et les décisions visées au III de l'article 1521 et à l'article 1522
+doivent être prises avant le 15 octobre d'une année pour être applicables à
+compter de l'année suivante. Elles sont soumises à la notification prévue à
+l'article 1639 A au plus tard quinze jours après la date limite prévue pour leur
+adoption.
 
 Toutefois, les établissements publics de coopération intercommunale à fiscalité
 propre ne résultant pas d'une substitution ou d'une transformation de groupement
 préexistant peuvent prendre les délibérations afférentes à la taxe d'enlèvement
 des ordures ménagères conformément aux articles 1609 bis, 1609 quinquies C et
-1609 nonies D ainsi qu'aux 1 et 2 du III de l'article 1521 jusqu'au 15 janvier
-de l'année qui suit celle de leur création. A défaut, les délibérations prises
-par les communes et par les établissements publics de coopération intercommunale
-dissous restent applicables l'année qui suit celle de la création ; dans ce cas,
-le nouvel établissement public de coopération intercommunale perçoit la taxe
-d'enlèvement des ordures ménagères aux lieu et place des établissements publics
-de coopération intercommunale dissous.
+1609 nonies D ainsi qu'au III de l'article 1521 et à l'article 1522 jusqu'au 15
+janvier de l'année qui suit celle de leur création. A défaut, les délibérations
+prises par les communes et par les établissements publics de coopération
+intercommunale dissous restent applicables l'année qui suit celle de la création
+; dans ce cas, le nouvel établissement public de coopération intercommunale
+perçoit la taxe d'enlèvement des ordures ménagères aux lieu et place des
+établissements publics de coopération intercommunale dissous.
 
 2. Par exception aux dispositions du premier alinéa du 1, les délibérations
 antérieures à la promulgation de la loi n° 99-586 du 12 juillet 1999 relative au
@@ -66,3 +67,7 @@ maintenu l'année suivant celle de la fusion. Pour l'application de ces
 dispositions, l'établissement public de coopération intercommunale issu de la
 fusion perçoit la taxe au lieu et place des établissements publics de
 coopération intercommunale ayant fait l'objet de la fusion.
+
+Les dispositions des premier et deuxième alinéas sont également applicables aux
+syndicats mixtes issus d'une fusion en application de l'article L. 5711-2 du
+code général des collectivités territoriales.

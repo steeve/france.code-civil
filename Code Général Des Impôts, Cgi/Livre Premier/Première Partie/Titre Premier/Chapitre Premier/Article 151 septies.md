@@ -104,9 +104,10 @@ retirent de cette activité au moins 50 % de leur revenu.
 VI. - Pour l'application des dispositions du présent article, les recettes
 s'entendent tous droits et taxes compris.
 
-VII. - Pour l'appréciation des limites applicables aux titulaires de bénéfices
-non commerciaux membres d'une société civile de moyens mentionnée à l'article
-239 quater A non soumise à l'impôt sur les sociétés, il est tenu compte des
-recettes réalisées par cette société, à proportion de leurs droits dans les
-bénéfices comptables. Toutefois, ces limites sont appréciées en tenant compte du
-montant global des recettes, lorsque la plus-value est réalisée par la société.
+VII. - Pour l'appréciation des limites prévues au présent article applicables
+aux titulaires de bénéfices non commerciaux membres d'une société civile de
+moyens mentionnée à l'article 239 quater A non soumise à l'impôt sur les
+sociétés, il est tenu compte des recettes réalisées par cette société, à
+proportion de leurs droits dans les bénéfices comptables. Toutefois, ces limites
+sont appréciées en tenant compte du montant global des recettes, lorsque la
+plus-value est réalisée par la société.

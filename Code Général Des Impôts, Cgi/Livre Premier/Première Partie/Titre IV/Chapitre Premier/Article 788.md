@@ -1,7 +1,14 @@
 Article 788
 ----
-I. Pour la perception des droits de mutation par décès, il est effectué un
-abattement de 15 000 euros sur la part de chaque frère ou soeur, célibataire,
+I. - L'abattement mentionné à l'article 775 ter se répartit entre les
+bénéficiaires cités à cet article au prorata de leurs droits dans la succession.
+Il s'impute sur la part de chaque héritier déterminée après application des
+abattements mentionnés au I de l'article 779. La fraction de l'abattement non
+utilisée par un ou plusieurs bénéficiaires est répartie entre les autres
+bénéficiaires au prorata de leurs droits dans la succession.
+
+II. Pour la perception des droits de mutation par décès, il est effectué un
+abattement de 57 000 euros sur la part de chaque frère ou soeur, célibataire,
 veuf, divorcé ou séparé de corps, à la double condition :
 
 1° Qu'il soit, au moment de l'ouverture de la succession, âgé de plus de 50 ans
@@ -11,7 +18,7 @@ travail aux nécessités de l'existence ;
 2° Qu'il ait été constamment domicilié avec le défunt pendant les cinq années
 ayant précédé le décès.
 
-II. - Pour la perception des droits de mutation par décès, il est effectué un
+III. - Pour la perception des droits de mutation par décès, il est effectué un
 abattement sur la part nette de tout héritier, donataire ou légataire
 correspondant à la valeur des biens reçus du défunt, évalués au jour du décès et
 remis par celui-ci à une fondation reconnue d'utilité publique répondant aux
@@ -32,5 +39,5 @@ bénéficiaires.
 L'application de cet abattement n'est pas cumulable avec le bénéfice de la
 réduction d'impôt sur le revenu prévue à l'article 200.
 
-III. - A défaut d'autre abattement, à l'exception de celui mentionné au II, un
+IV. - A défaut d'autre abattement, à l'exception de celui mentionné au III, un
 abattement de 1 500 Euros est opéré sur chaque part successorale.

@@ -1,7 +1,7 @@
 Article 775 bis
 ----
 Sont déductibles, pour leur valeur nominale, de l'actif de succession des
-personnes mentionnées aux 1°, 2, 3° et 4° les indemnités versées ou dues :
+personnes mentionnées aux 1°, 2°, 3°, 4° et 5° les indemnités versées ou dues :
 
 1° Aux personnes contaminées par le virus d'immunodéficience humaine à la suite
 d'une transfusion de produits sanguins ou d'une injection de produits dérivés du
@@ -16,3 +16,6 @@ traitement par hormones de croissance extraites d'hypophyse humaine.
 4° Aux personnes atteintes du nouveau variant de la maladie de Creutzfeldt-Jakob
 résultant d'une contamination probable par l'agent de l'encéphalopathie
 spongiforme bovine (1).
+
+5° Au titre des réparations des préjudices patrimoniaux et extrapatrimoniaux,
+aux personnes atteintes d'une pathologie liée à une exposition à l'amiante (2).

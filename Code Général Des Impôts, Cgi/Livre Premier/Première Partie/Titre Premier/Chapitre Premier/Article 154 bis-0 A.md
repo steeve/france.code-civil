@@ -11,10 +11,10 @@ fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la
 sécurité sociale, auxquels s'ajoutent 15 % supplémentaires sur la fraction de ce
 revenu comprise entre une fois et huit fois le montant annuel précité.
 
-Les revenus exonérés en application des articles 44 sexies à 44 decies ainsi que
-l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant
-du revenu professionnel mentionné au premier alinéa. Il n'est pas tenu compte
-des plus-values et moins-values professionnelles à long terme ;
+Les revenus exonérés en application des articles 44 sexies à 44 undecies ainsi
+que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du
+montant du revenu professionnel mentionné au premier alinéa. Il n'est pas tenu
+compte des plus-values et moins-values professionnelles à long terme ;
 
 b) Ou 10 % du montant annuel du plafond mentionné à l'article L. 241-3 du code
 de la sécurité sociale.

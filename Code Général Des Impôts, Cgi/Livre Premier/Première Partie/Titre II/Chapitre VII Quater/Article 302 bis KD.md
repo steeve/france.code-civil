@@ -27,111 +27,12 @@ l'exercice.
 
 La taxe est acquittée lors du dépôt de ces déclarations.
 
-3. Le tarif d'imposition par palier de recettes semestrielles perçues par les
-régies assujetties est fixé comme suit pour le premier semestre 2003 :
+3. Le tarif d'imposition par palier de recettes trimestrielles perçues par les
+régies assujetties est fixé comme suit à compter du premier trimestre 2005 :
 
 1° Pour la publicité radiodiffusée :
 
-RECETTES SEMESTRIELLES (en euros)
-
-MONTANT DE LA TAXE (en euros)
-
-De 92 000 à 458 000 : 1 052
-
-De 458 001 à 914 000 : 2 628
-
-De 914 001 à 1 830 000 : 5 522
-
-De 1 830 001 à 2 744 000 : 9 468
-
-De 2 744 001 à 4 573 000 : 15 778
-
-De 4 573 001 à 6 402 000 : 24 984
-
-De 6 402 001 à 9 146 000 : 35 764
-
-De 9 146 001 à 13 720 000 : 52 594
-
-De 13 720 001 à 18 294 000 : 76 262
-
-De 18 294 001 à 27 440 000 : 108 870
-
-De 27 440 001 à 36 588 000 : 152 526
-
-De 36 588 001 à 45 734 000 : 205 120
-
-De 45 734 001 à 54 882 000 : 252 456
-
-De 54 882 001 à 64 028 000 : 299 790
-
-De 64 028 001 à 73 176 000 : 347 126
-
-De 73 176 001 à 82 322 000 : 394 462
-
-De 82 322 001 à 91 470 000 : 441 798
-
-De 91 470 001 à 100 616 000 : 489 132
-
-De 100 616 001 à 109 764 000 : 536 468
-
-De 109 764 001 à 118 910 000 : 583 804
-
-De 118 910 001 à 128 058 000 : 631 138
-
-Au-dessus de 128 058 000 : 688 994
-
-2° Pour la publicité télévisée :
-
-RECETTES SEMESTRIELLES (en euros)
-
-MONTANT DE LA TAXE (en euros)
-
-De 914 001 à 1 830 000 : 6 000
-
-De 1 830 001 à 4 574 000 : 14 000
-
-De 4 574 001 à 9 146 000 : 36 000
-
-De 9 146 001 à 18 294 000 : 82 000
-
-De 18 294 001 à 36 588 000 : 185 000
-
-De 36 588 001 à 54 882 000 : 366 000
-
-De 54 882 001 à 73 176 000 : 570 000
-
-De 73 176 001 à 91 470 000 : 736 000
-
-De 91 470 001 à 109 764 000 : 910 000
-
-De 109 764 001 à 128 058 000 : 1 091 000
-
-De 128 058 001 à 146 352 000 : 1 259 000
-
-De 146 352 001 à 164 644 000 : 1 435 000
-
-De 164 644 001 à 182 938 000 : 1 612 000
-
-De 182 938 001 à 201 232 000 : 1 789 000
-
-De 201 232 001 à 219 526 000 : 1 965 000
-
-De 219 526 001 à 237 820 000 : 2 142 000
-
-De 237 820 001 à 256 114 000 : 2 318 000
-
-De 256 114 001 à 274 408 000 : 2 660 000
-
-Au-dessus de 274 408 000 : 2 840 000
-
-4. Le tarif d'imposition par palier de recettes trimestrielles perçues par les
-régies assujetties est fixé comme suit à compter du troisième trimestre 2003 :
-
-1° Pour la publicité radiodiffusée :
-
-RECETTES TRIMESTRIELLES (en euros)
-
-MONTANT DE LA TAXE (en euros)
+RECETTES TRIMESTRIELLES (en euros) / MONTANT DE LA TAXE (en euros)
 
 De 46 000 à 229 000 : 526
 
@@ -179,9 +80,7 @@ Au-dessus de 64 029 000 : 344 497
 
 2° Pour la publicité télévisée :
 
-RECETTES TRIMESTRIELLES (en euros)
-
-MONTANT DE LA TAXE (en euros)
+RECETTES TRIMESTRIELLES (en euros) / MONTANT DE LA TAXE (en euros)
 
 De 457 001 à 915 000 : 3 000
 
@@ -199,15 +98,15 @@ De 27 441 001 à 36 588 000 : 285 000
 
 De 36 588 001 à 45 735 000 : 368 000
 
-De 45 735 001 à 54 882 000 : 455 000
+De 75 735 001 à 54 882 000 : 455 000
 
 De 54 882 001 à 64 029 000 : 545 500
 
 De 64 029 001 à 73 176 000 : 629 500
 
-De 73 176 001 à 83 322 000 : 717 500
+De 73 176 001 à 82 322 000 : 717 500
 
-De 83 322 001 à 91 469 000 : 806 000
+De 82 322 001 à 91 469 000 : 806 000
 
 De 91 469 001 à 100 616 000 : 894 500
 
@@ -219,7 +118,21 @@ De 118 910 001 à 128 057 000 : 1 159 000
 
 De 128 057 001 à 137 204 000 : 1 330 000
 
-Au-dessus de 137 204 000 : 1 420 000
+De 137 204 001 à 148 351 000 : 1 420 000
+
+De 148 351 001 à 161 498 000 : 1 510 000
+
+De 161 498 001 à 176 645 000 : 1 600 000
+
+De 176 645 001 à 193 345 000 : 1 690 000
+
+De 193 345 001 à 221 939 000 : 1 780 000
+
+De 221 939 001 à 242 086 000 : 1 870 000
+
+Au-dessus de 242 086 000 : 1 960 000
+
+4. (Alinéa abrogé).
 
 5. La taxe est recouvrée et contrôlée selon les procédures et sous les mêmes
 sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les

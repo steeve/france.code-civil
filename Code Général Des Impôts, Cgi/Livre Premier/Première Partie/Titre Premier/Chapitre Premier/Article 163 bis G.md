@@ -9,15 +9,21 @@ lorsque le bénéficiaire exerce son activité dans la société depuis moins de
 trois ans à la date de la cession.
 
 II. - Les sociétés par actions dont les titres ne sont pas admis aux
-négociations sur un marché réglementé autre que les marchés réglementés de
-valeurs de croissance de l'Espace économique européen, ou les compartiments de
-valeurs de croissance de ces marchés, dont la liste est fixée par arrêté du
-ministre chargé de l'économie peuvent, à condition d'avoir été immatriculées au
-registre du commerce et des sociétés depuis moins de quinze ans, attribuer aux
-membres de leur personnel salarié, ainsi qu'à leurs dirigeants soumis au régime
-fiscal des salariés, des bons de souscription de parts de créateur d'entreprise,
-incessibles, et émis dans les conditions prévues à l'article L. 228-95 du code
-de commerce, lorsque les conditions suivantes sont remplies :
+négociations sur un marché d'instruments financiers français ou étranger dont le
+fonctionnement est assuré par une entreprise de marché ou un prestataire de
+services d'investissement ou tout autre organisme similaire étranger, ou admis
+aux négociations sur un tel marché d'un Etat partie à l'accord sur l'Espace
+économique européen si leur capitalisation boursière, évaluée selon des
+modalités fixées par décret en Conseil d'Etat, notamment en cas de première
+cotation ou d'opération de restructuration d'entreprises, par référence à la
+moyenne des cours d'ouverture des soixante jours de bourse précédant celui de
+l'émission des bons, est inférieure à 150 millions d'euros, peuvent, à condition
+d'avoir été immatriculées au registre du commerce et des sociétés depuis moins
+de quinze ans, attribuer aux membres de leur personnel salarié, ainsi qu'à leurs
+dirigeants soumis au régime fiscal des salariés, des bons de souscription de
+parts de créateur d'entreprise, incessibles, et émis dans les conditions prévues
+à l'article L. 228-95 du code de commerce, lorsque les conditions suivantes sont
+remplies :
 
 1. La société doit être passible en France de l'impôt sur les sociétés ;
 

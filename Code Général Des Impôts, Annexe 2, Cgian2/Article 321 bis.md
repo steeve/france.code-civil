@@ -1,6 +1,6 @@
 Article 321 bis
 ----
-Le dépassement du produit du droit additionnel prévu au sixième alinéa de
+Le dépassement du produit du droit additionnel prévu au septième alinéa de
 l'article 1601 du code général des impôts est subordonné à la conclusion de
 conventions conclues avec l'Etat. La convention mentionne les actions ou les
 investissements à réaliser et les engagements correspondants de la chambre de

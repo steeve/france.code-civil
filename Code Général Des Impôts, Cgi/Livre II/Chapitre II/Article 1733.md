@@ -26,7 +26,7 @@ b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestio
 à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
 199 quater B ;
 
-c) Périmé (décret de codification 94-899) ;
+c) Périmé
 
 d) Les dépenses de recherche et de formation ouvrant droit aux crédits d'impôts
 prévus aux articles 244 quater B et 244 quater C ;
@@ -37,10 +37,11 @@ f) Dispositions périmées ;
 
 g) Périmé.
 
-h) Les dépenses ouvrant droit aux crédits d'impôt prévus à l'article 200 quater.
+h) Les dépenses ouvrant droit aux crédits d'impôt prévus aux articles 200 quater
+et 200 quater A.
 
 III. Dispositions périmées.
 
-IV. Pour l'application du I en cas de rectifications apportées (1) aux résultats
-des sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance
-des chiffres déclarés s'apprécie au niveau de chaque société.
+IV. Pour l'application du I en cas de rectifications apportées aux résultats des
+sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance des
+chiffres déclarés s'apprécie au niveau de chaque société.
