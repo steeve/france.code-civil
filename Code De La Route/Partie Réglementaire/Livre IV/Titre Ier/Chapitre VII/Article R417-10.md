@@ -33,9 +33,7 @@ supérieurs ;
 7° Au droit des bouches d'incendie et des accès à des installations souterraines
 ;
 
-8° Sur les emplacements réservés aux véhicules arborant un macaron Grand
-Invalide de Guerre (GIG) ou Grand Invalide Civil (GIC) ou une carte de
-stationnement de modèle communautaire pour personne handicapée ;
+8° (abrogé) ;
 
 9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
 

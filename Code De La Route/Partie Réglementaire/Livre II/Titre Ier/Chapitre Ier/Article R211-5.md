@@ -1,7 +1,9 @@
 Article R211-5
 ----
 I. - L'apprentissage anticipé de la conduite est un apprentissage particulier
-dispensé en vue de l'obtention de la catégorie B du permis de conduire.
+dispensé en vue de l'obtention de la catégorie B du permis de conduire. Cet
+apprentissage ne peut être effectué après annulation ou invalidation du permis
+de conduire de cette catégorie.
 
 II. - Il comprend deux périodes :
 
