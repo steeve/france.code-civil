@@ -11,13 +11,15 @@ de salubrité et d'occupation prises en compte pour l'octroi de l'allocation de
 logement ;
 
 b) Aux personnes ayant des difficultés spécifiques de logement, en particulier
-lorsqu'il s'agit de personnes handicapées, de familles nombreuses, de chefs de
-famille monoparentales ou de jeunes à la recherche d'un premier logement ;
+lorsqu'il s'agit de personnes handicapées, de familles nombreuses, de femmes
+enceintes, de chefs de famille monoparentale ou de jeunes à la recherche d'un
+premier logement ;
 
 c) Aux personnes qu'un nouvel emploi conduit à changer de résidence ;
 
-d) Aux personnes ayant des difficultés graves à faire face à leurs dépenses de
-logement à la suite d'une réduction brutale de leurs ressources ;
+d) Aux personnes ayant des difficultés graves à faire face aux dépenses liées au
+logement qu'elles occupent à la suite d'une réduction brutale de leurs
+ressources. "
 
 e) Aux associations mentionnées à l'article R. 441-1.
 

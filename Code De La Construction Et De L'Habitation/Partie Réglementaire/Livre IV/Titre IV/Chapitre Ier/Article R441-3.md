@@ -2,9 +2,9 @@ Article R441-3
 ----
 Compte tenu des caractéristiques des logements mentionnés à l'article L. 441-1,
 de la composition des foyers et de l'ancienneté des demandes, les attributions
-sont prononcées par chaque organisme d'habitations à loyer modéré au bénéfice
-des demandeurs à la recherche d'un logement adapté à leurs besoins en vue
-notamment :
+sont prononcées par chaque organisme d'habitations à loyer modéré, en fonction
+tant des besoins que de l'ensemble des ressources des demandeurs à la recherche
+d'un logement en vue notamment :
 
 a) De leur permettre d'occuper un logement correspondant à la taille et à la
 composition du ménage ;
