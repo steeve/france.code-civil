@@ -16,6 +16,6 @@ l'Office des migrations internationales.
 
 Ces dispositions ne sont pas applicables aux étrangers qui sollicitent un titre
 de séjour au titre des 1°, 9°, 10° et 11° de l'article 12 bis, de l'article 12
-ter et des 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° de l'article 15 de l'ordonnance n°
+ter et des 4°, 6°, 7°, 8°, 9°, 10° et 11° de l'article 15 de l'ordonnance n°
 45-2658 du 2 novembre 1945 précitée, non plus qu'aux étrangers relevant de
 l'article L. 341-2 du code du travail.
