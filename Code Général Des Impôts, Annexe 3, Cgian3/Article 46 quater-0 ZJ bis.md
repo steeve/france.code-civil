@@ -40,7 +40,3 @@ titre de l'exercice le plus ancien ;
 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5
 de l'article 223 I du code général des impôts est réduite à due concurrence.
-
-Les règles mentionnées aux a, b et c s'appliquent également à la fraction du
-déficit qui correspond à des amortissements réputés différés en période
-déficitaire.

@@ -4,8 +4,8 @@ Lorsqu'une société mère agréée en application de l'article 209 sexies du co
 général des impôts opte pour le régime de groupe défini à l'article 223 A de ce
 code, ses déficits reportables du point de vue fiscal à l'ouverture du premier
 exercice d'application de ce régime sont imputables sur ses bénéfices ultérieurs
-dans les conditions prévues aux troisième et quatrième alinéas du I de l'article
-209 et à l'article 223 I du code déjà cité.
+dans les conditions prévues au troisième alinéa du I de l'article 209 et à
+l'article 223 I du code déjà cité.
 
 Toutefois, si le montant du déficit déductible au titre d'un exercice en
 application du premier alinéa est inférieur au pourcentage fixé ci-après du
