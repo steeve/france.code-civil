@@ -1,9 +1,9 @@
 Article L212-13
 ----
-Dans les établissements ou dans les professions mentionnées à l'article L.
-200-1, les jeunes travailleurs de l'un ou de l'autre sexe âgés de moins de
-dix-huit ans ne peuvent être employés à un travail effectif excédant huit heures
-par jour non plus que la durée fixée, pour une semaine, par l'article L. 212-1
+Dans les établissements ou dans les professions mentionnés à l'article L. 200-1,
+les jeunes travailleurs de l'un ou de l'autre sexe âgés de moins de dix-huit ans
+ne peuvent être employés à un travail effectif excédant huit heures par jour non
+plus que la durée fixée, pour une semaine, par l'article L. 212-1
 [*interdiction*].
 
 Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa
@@ -17,4 +17,4 @@ l'établissement.
 
 L'employeur est tenu de laisser aux jeunes travailleurs et apprentis soumis à
 l'obligation de suivre des cours professionnels pendant la journée de travail le
-temps et la liberté nécessaire au respect de cette obligation.
+temps et la liberté nécessaires au respect de cette obligation.

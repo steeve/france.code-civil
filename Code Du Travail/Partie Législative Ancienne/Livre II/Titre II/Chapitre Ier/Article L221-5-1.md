@@ -4,8 +4,8 @@ Une convention ou un accord collectif étendu peut prévoir que les entreprises
 industrielles fonctionnant à l'aide d'un personnel d'exécution et d'encadrement
 composé de deux groupes dont l'un a pour seule fonction de suppléer l'autre
 pendant le ou les jours de repos accordés à celui-ci en fin de semaine sont
-autorisées à déroger à la règle prévue par l'article L. 221-5 [*repos
-hebdomadaire le dimanche*].
+autorisées à donner le repos hebdomadaire un jour autre que le dimanche
+[*dérogation*].
 
 L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord
 d'entreprise ou d'établissement ou à l'autorisation de l'inspecteur du travail

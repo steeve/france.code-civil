@@ -1,12 +1,22 @@
 Article L212-8-2
 ----
-La durée annuelle de travail résultant de la convention ou de l'accord collectif
-étendu mentionné à l'article L. 212-8 est appréciée dans les entreprises et les
-établissements sur la base de l'horaire collectif de travail.
+I. - Pour l'application de l'article L. 212-8, la durée moyenne de travail
+[*maximum*] que les entreprises ne peuvent dépasser annuellement est calculée
+sur la base soit de la durée légale, soit de la durée hebdomadaire prévue par la
+convention ou l'accord si elle est inférieure, diminuée des heures correspondant
+aux jours de congés légaux et conventionnels.
 
-Les heures effectuées au-delà de cette durée sont rémunérées au plus tard à la
-fin de la période annuelle définie par cette convention ou cet accord ; elles
-ouvrent droit à un repos compensateur dont la durée est égale à 50 p. 100 du
-nombre d'heures excédant la durée conventionnelle ; dans ce cas, la convention
-ou l'accord peut prévoir qu'une compensation financière au moins équivalente
-remplace le repos compensateur.
+II. - Lorsque la durée du travail constatée excède en moyenne sur un an
+trente-neuf heures par semaine travaillée, dans le cas des conventions ou
+accords mentionnés au paragraphe II de l'article L. 212-8, les heures effectuées
+au-delà de cette durée ouvrent droit à une majoration de salaire de 25 p. 100
+[*montant*] ainsi que, le cas échéant, au repos compensateur de 20 p. 100 prévu
+au premier alinéa de l'article L. 212-5-1 et pris dans les conditions indiquées
+du troisième au dernier alinéa du même article. Elles sont rémunérées au plus
+tard à la fin de la période de douze mois définie par la convention ou l'accord.
+
+En outre, ces heures ouvrent droit à un repos compensateur ou à toute autre
+contrepartie fixé par la convention ou l'accord, à moins que les heures
+effectuées au-delà de trente-neuf heures n'aient donné lieu, en application de
+cette convention ou de cet accord, aux majorations de salaire prévues à
+l'article L. 212-5 ou à une contrepartie en repos équivalente.
