@@ -42,13 +42,28 @@ formation et au perfectionnement professionnel ainsi qu'à leur adaptation à
 l'emploi, compte tenu de l'évolution des techniques.
 
 Le comité d'entreprise donne son avis sur le plan de formation du personnel de
-l'entreprise. Afin de permettre aux membres dudit comité et, le cas échéant, aux
-membres de la commission prévue à l'article L. 434-7 de participer à
-l'élaboration de ce plan et de préparer la délibération dont il fait l'objet, le
-chef d'entreprise leur communique, trois semaines au moins avant la réunion du
-comité d'entreprise ou de la commission précitée, les documents d'information
-dont la liste est établie par décret. Ces documents sont également communiqués
-aux délégués syndicaux.
+l'entreprise, y compris sur l'application des principes relatifs à l'égalité
+professionnelle entre les femmes et les hommes. Afin de permettre aux membres
+dudit comité et, le cas échéant, aux membres de la commission prévue à l'article
+L. 434-7 de participer à l'élaboration de ce plan et de préparer la délibération
+dont il fait l'objet, le chef d'entreprise leur communique, trois semaines au
+moins avant la réunion du comité d'entreprise ou de la commission précitée
+[*délai*], les documents d'information dont la liste est établie par décret.
+Dans cette liste figureront entre autres les dispositions à prendre pour assurer
+l'égalité professionnelle entre les femmes et les hommes, notamment dans le
+cadre du plan défini à l'article L. 123-4. Ces documents sont également
+communiqués aux délégués syndicaux.
+
+Dans les entreprises mentionnées à l'article 1er de la loi n° 83-675 du 26
+juillet 1983 relative à la démocratisation du secteur public, le plan de
+formation est approuvé par délibération du comité d'entreprise ; à défaut d'une
+telle approbation, le plan de formation est soumis à délibération du conseil
+d'administration ou du directoire de l'entreprise, après avis du conseil de
+surveillance. Dans tous les cas, le plan de formation doit contenir un programme
+d'actions, notamment avec le service public de l'éducation, portant notamment
+sur l'accueil d'élèves et de stagiaires dans l'entreprise, la formation
+dispensée au personnel de l'entreprise par les établissements d'enseignement et
+la collaboration dans le domaine de la recherche scientifique et technique.
 
 Le comité d'entreprise est obligatoirement consulté sur l'affectation par
 l'entreprise des sommes prélevées au titre de la taxe d'apprentissage. Il est
