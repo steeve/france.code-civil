@@ -1,5 +1,6 @@
 Article D369
 ----
-Les offres de liaisons louées des opérateurs désignés en application de
-l'article L. 34-2-1 doivent être conformes aux dispositions de la présente
-section.
+Les opérateurs réputés, en application de l'article L. 37-1, exercer une
+influence significative sur tout ou partie du marché visé à l'article L. 38-2
+fournissent les liaisons louées correspondantes dans les conditions prévues par
+la présente section.

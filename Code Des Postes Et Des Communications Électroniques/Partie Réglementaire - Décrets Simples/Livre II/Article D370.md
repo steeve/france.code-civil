@@ -5,14 +5,15 @@ caractéristiques techniques, aux tarifs et aux conditions de fourniture des
 liaisons, sont rendues publiques par ces opérateurs dans les conditions prévues
 par arrêté du ministre chargé des communications électroniques.
 
-Les conditions d'utilisation des liaisons louées, les procédures de déclaration
-ou d'autorisation ainsi que les conditions de connexion d'un équipement terminal
-aux liaisons louées sont rendues publiques par l'Autorité de régulation des
-télécommunications.
+Les conditions d'utilisation des liaisons louées, les caractéristiques
+techniques, y compris physiques et électriques, ainsi que les spécifications
+techniques et de performance détaillées applicables au point de terminaison du
+réseau sont rendues publiques dans des conditions définies par l'Autorité de
+régulation des télécommunications.
 
 Les informations relatives à de nouvelles offres et les modifications tarifaires
 des offres existantes sont publiées par ces opérateurs en respectant un délai de
-préavis d'un mois.
+préavis de huit jours.
 
 Ces opérateurs ne peuvent supprimer une prestation ou en modifier les conditions
 matérielles d'utilisation qu'après information des utilisateurs et des
@@ -24,12 +25,4 @@ installations connectées au réseau, ces opérateurs informent au moins dix-hui
 mois à l'avance les utilisateurs. Ce délai peut être réduit à six mois minimum
 avec l'accord de l'Autorité de régulation des télécommunications. Les opérateurs
 recueillent les remarques éventuelles des utilisateurs et consultent les
-organisations d'utilisateurs concernées. Les suppressions ou modifications
-proposées, leurs conditions de mise en oeuvre et les délais de mise en
-conformité des équipements font l'objet d'une approbation par l'Autorité de
-régulation des télécommunications. Les dispositions du présent article
-s'appliquent sans préjudice des obligations résultant des autorisations
-délivrées au titre des articles L. 33-1 et L. 34-1 du code des postes et des
-communications électroniques et des prescriptions techniques définies en
-application de l'article L. 36-6 du code des postes et des communications
-électroniques.
+organisations d'utilisateurs concernées.

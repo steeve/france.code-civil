@@ -1,24 +1,18 @@
 Article D315
 ----
-Le service du kiosque téléphonique au forfait a pour objet la mise à disposition
-du public d'informations téléphonées.
+Les opérateurs tenus de communiquer à l'Autorité de régulation des
+télécommunications les tarifs de certaines prestations de détail préalablement à
+leur mise en oeuvre, en application du 2° de l'article L. 38-1, transmettent les
+tarifs correspondants à l'autorité au moins trois semaines avant leur mise en
+oeuvre.
 
-L'accès au service se fait par un numéro d'accès à huit chiffres reconnu par un
-indicatif spécifique, le " 36-65 ".
+Ces tarifs sont accompagnés des éléments d'information permettant de les évaluer
+ainsi que des éléments de l'offre correspondante.
 
-La durée maximale des messages diffusés par ce service est fixée à 140 secondes.
-
-Le service est ouvert par zones d'appel couvrant la totalité du territoire
-métropolitain. Dans chaque zone d'appel, un ou plusieurs commutateurs publics,
-choisi par l'administration, reçoit les appels émis à partir de cette zone et
-destinés au service kiosque téléphonique au forfait.
-
-L'appel de ce service par un utilisateur est soumis à un tarif qui inclut le
-prix de transmission de l'information et la rémunération du fournisseur de
-services, ainsi que les frais liés à la facturation et au recouvrement de ces
-prestations par le service des communications électroniques.
-
-Les modalités de reversement relatives à la part des recettes revenant au
-fournisseur de services font l'objet d'une convention conformément aux
-dispositions de l'article R. 54-1 du code des postes et des communications
-électroniques et du décret de prix.
+L'Autorité de régulation des télécommunications peut s'opposer à la mise en
+oeuvre de ces tarifs par une décision motivée explicitant les analyses,
+notamment économiques, qui sous-tendent son opposition, notifiée à l'opérateur
+concerné dans un délai de trois semaines suivant la transmission du dossier
+complet et rendue publique. Ces analyses prennent en compte, en tant que de
+besoin, l'ensemble des obligations imposées à l'opérateur concerné en
+application de l'article L. 38-1.

@@ -1,33 +1,17 @@
 Article D99-11
 ----
-Les opérateurs figurant sur les listes établies en application des a et b du 7°
-de l'article L. 36-7 sont tenus de publier, dans les conditions déterminées par
-leur cahier des charges, un catalogue décrivant une offre technique et tarifaire
-d'interconnexion approuvée préalablement par l'Autorité de régulation des
-télécommunications.
+En application du III de l'article L. 34-8 et de l'article L. 37-2, l'Autorité
+de régulation des télécommunications peut, dans la mesure de ce qui est
+nécessaire, imposer aux opérateurs qui contrôlent l'accès aux utilisateurs
+finals des obligations destinées à assurer la connectivité de bout en bout,
+notamment l'obligation d'assurer l'interconnexion de leurs réseaux ainsi que
+l'interopérabilité des services fournis sur ces réseaux ou sur d'autres réseaux.
 
-Ces opérateurs ne peuvent invoquer l'existence d'une offre inscrite au catalogue
-pour refuser d'engager des négociations commerciales avec un autre opérateur en
-vue de la détermination de conditions d'interconnexion qui n'auraient pas été
-prévues par leur catalogue, notamment les conditions d'accès direct aux
-commutateurs internationaux et à d'autres infrastructures internationales. Toute
-condition d'interconnexion qui n'aurait pas été prévue par le catalogue de
-l'opérateur doit être signalée en tant que telle dans la convention
-d'interconnexion.
-
-Les offres inscrites au catalogue publié par ces opérateurs contiennent des
-conditions différentes pour répondre, d'une part, aux besoins d'interconnexion
-des exploitants de réseaux ouverts au public et, d'autre part, aux besoins
-d'accès au réseau des fournisseurs de service téléphonique au public, compte
-tenu des droits et obligations propres à chacune de ces catégories
-d'utilisateurs. Ces conditions doivent être suffisamment détaillées pour faire
-apparaître les divers éléments propres à répondre aux demandes.
-
-Les opérateurs inscrits sur les listes établies en application des a, b et c du
-7° de l'article L. 36-7 fournissent les informations nécessaires à la mise en
-oeuvre de l'interconnexion aux autres opérateurs dans les mêmes conditions et
-avec le même degré de qualité que celles qu'ils fournissent à leurs propres
-services ou à leurs filiales et partenaires. Ils informent les autres opérateurs
-des modifications de leurs offres d'interconnexion avec un préavis au moins égal
-à six mois, sauf si l'Autorité de régulation des télécommunications en décide
-autrement.
+Ces obligations sont proportionnées, objectives, transparentes et non
+discriminatoires et adoptées dans le respect des procédures prévues aux articles
+L. 32-1 (III) et L. 37-3. Elles sont imposées de façon à donner effet aux
+objectifs définis à l'article L. 32-1 et en particulier à promouvoir
+l'efficacité économique, à favoriser une concurrence durable ou à procurer un
+avantage maximal aux utilisateurs finals. Elles s'appliquent sans préjudice des
+autres obligations en matière d'accès et d'interconnexion susceptibles d'être
+imposées aux opérateurs en application du présent code.
