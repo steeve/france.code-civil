@@ -1,11 +1,23 @@
 Article R25
 ----
 L'exonération de la contribution patronale établie par l'article L. 43 est
-totale dans le cas où la jauge brute des bateaux armés simultanément dont le
-marin est propriétaire ne dépasse pas ou égale dix tonneaux [*condition*] ;
-cette exonération ne porte que sur la moitié de la contribution patronale dans
-le cas où cette jauge est supérieure à dix tonneaux mais ne dépasse pas ou égale
-trente tonneaux.
+totale lorsque la longueur hors-tout du bateau est inférieur ou égale à douze
+mètres.
+
+Lorsque la longueur hors-tout du bateau, supérieure à douze mètres, est
+inférieure ou égale à vingt-cinq mètres, le taux de la contribution patronale
+établie par l'article L. 41 est fixé à 13 p. cent en ce qui concerne le
+propriétaire ou les copropriétaires embarqués et à 14 p. cent en ce qui concerne
+les autres membres de l'équipage.
+
+En cas de propriété ou de copropriété de plusieurs bateaux, la longueur à
+prendre en considération est calculée selon la formule suivante :
+
+l1 (puissance 3) + l2 (puissance 3) + l3 (puissance 3) ... = X Racine cubique de
+X = L dans laquelle l représente la longueur hors-tout de chacun des bateaux
+appartenant aux propriétaires ou aux copropriétaires, X la somme des cubes des
+longueurs l, et L la longueur à comparer aux limites de douze et vingt-cinq
+mètres.
 
 En ce qui concerne les pilotes, les exonérations prévues à l'alinéa ci-dessus ne
 sont accordées que lorsque le volume annuel des bateaux pilotés dans la station
