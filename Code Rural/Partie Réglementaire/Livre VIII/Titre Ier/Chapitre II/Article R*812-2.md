@@ -9,15 +9,16 @@ supérieures agronomiques de Rennes et de Montpellier ;
 
 3° L'Ecole nationale supérieure des industries agricoles et alimentaires ;
 
-4° L'Ecole nationale supérieure d'horticulture ;
+4° L'Institut national d'agriculture, comprenant l'Ecole nationale supérieure
+d'horticulture et d'aménagement du paysage et l'Ecole nationale d'ingénieurs de
+l'horticulture et du paysage ;
 
 5° L'Ecole nationale supérieure du paysage ;
 
 6° L'Ecole nationale supérieure féminine d'agronomie de Rennes ;
 
 7° Les écoles nationales d'ingénieurs des travaux agricoles de Bordeaux et de
-Clermont-Ferrand, l'Ecole nationale d'ingénieurs des travaux de l'horticulture
-et du paysage d'Angers et l'Ecole nationale d'ingénieurs des travaux des
-industries agricoles et alimentaires de Nantes ;
+Clermont-Ferrand et l'Ecole nationale d'ingénieurs des travaux des industries
+agricoles et alimentaires de Nantes ;
 
 8° L'Etablissement national d'enseignement supérieur agronomique de Dijon.
