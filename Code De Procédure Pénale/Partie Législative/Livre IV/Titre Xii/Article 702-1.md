@@ -15,7 +15,12 @@ Lorsque la demande est relative à une déchéance, interdiction ou incapacité
 prononcée en application de l'article 201 de la loi n° 85-98 du 25 janvier 1985
 relative au redressement et à la liquidation judiciaires des entreprises, la
 juridiction ne peut accorder le relèvement que si l'intéressé a apporté une
-contribution suffisante au paiement du passif du débiteur.
+contribution suffisante au paiement du passif du débiteur. La juridiction peut
+accorder, dans les mêmes conditions, le relèvement des interdictions, déchéances
+et incapacités résultant des condamnations pour banqueroute prononcées en
+application des articles 126 à 149 de la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire, la liquidation des biens, la faillite personnelle et les
+banqueroutes.
 
 Sauf lorsqu'il s'agit d'une mesure résultant de plein droit d'une condamnation
 pénale, la demande ne peut être portée devant la juridiction compétente qu'à

@@ -26,11 +26,10 @@ délinquante ;
 4° Les décisions disciplinaires prononcées par l'autorité judiciaire ou par une
 autorité administrative lorsqu'elles entraînent ou édictent des incapacités ;
 
-5° En matière de redressement judiciaire, les jugements prononçant la
-liquidation judiciaire à l'égard d'une personne physique, la faillite
-personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des
-entreprises ;
+5° Les jugements prononçant la liquidation judiciaire à l'égard d'une personne
+physique, la faillite personnelle ou l'interdiction prévue par l'article 192 de
+la loi n. 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
+judiciaires des entreprises ;
 
 6° Tous les jugements prononçant la déchéance de l'autorité parentale ou le
 retrait de tout ou partie des droits y attachés ;
