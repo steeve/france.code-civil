@@ -4,9 +4,10 @@ Dans les centres hospitaliers universitaires, à l'exception de ceux de Paris,
 Lyon, Marseille, Pointe-à-Pitre et Fort-de-France, la commission médicale
 d'établissement comprend :
 
-1° Quinze représentants des médecins exerçant leur activité en médecine et
-psychiatrie et dans les spécialités médicales et psychiatriques, dont
-[*composition*] :
+1° Quinze représentants des médecins exerçant leur activité dans les spécialités
+de la médecine, à l'exception de celle d'anesthésiologie réanimation, de la
+psychiatrie ainsi que de la radiologie et imagerie médicale dont [*composition*]
+:
 
 a) Neuf professeurs des universités-praticiens hospitaliers mentionnés au 1° a
 de l'article 1er du décret n° 84-135 du 24 février 1984 ;
@@ -113,4 +114,4 @@ la sage-femme surveillante-chef exerçant les fonctions de coordonnatrice ; à
 défaut, une sage-femme surveillante-chef exerçant dans les structures de soins
 élue par ses collègues de même grade ; à défaut, une sage-femme chef d'unité
 élue par ses collègues de même grade ; à défaut, une sage-femme élue par
-l'ensemble des sages-femmes ;
+l'ensemble des sages-femmes.
