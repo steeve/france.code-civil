@@ -37,4 +37,7 @@ au titre de l'aide sociale ;
 
 9°) des pensions attachées aux distinctions honorifiques ;
 
-10°) de l'allocation de logement prévue à l'article L. 831-1.
+10°) de l'allocation de logement prévue à l'article L. 831-1 ;
+
+11°) de la rente viagère instituée par l'article 47 de la loi de finances
+rectificative pour 1999 (n° 99-1173 du 30 décembre 1999).
