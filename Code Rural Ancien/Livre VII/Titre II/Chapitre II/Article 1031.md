@@ -12,15 +12,15 @@ contribution de l'employeur ou ayant donné lieu à rachat de cotisations, à
 l'exclusion des bonifications ou majorations pour enfants autres que les
 annuités supplémentaires.
 
-Un plafond est appliqué aux rémunérations ou gains servant de base au calcul
-d'une partie des cotisations dues par l'employeur au titre des assurances
-maladie, maternité, invalidité et décès et de la totalité des cotisations dues
-par l'employeur et par le salarié au titre de l'assurance vieillesse.
+Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des
+cotisations dues par l'employeur et par le salarié au titre de l'assurance
+vieillesse.
 
-Des décrets fixent les différents taux de cotisations et les plafonds des
-rémunérations ou gains servant de base au calcul de ces cotisations ainsi que
-les exonérations accordées aux titulaires d'avantages de retraite ou
-d'allocations de garantie de ressources dont les ressources sont insuffisantes.
+Des décrets fixent le plafond mentionné à l'alinéa précédent, les différents
+taux de cotisations, ainsi que les exonérations accordées aux titulaires
+d'avantages de retraite ou des revenus de remplacement mentionnés à l'article 6
+de la loi n° 82-1 du 4 janvier 1982 modifiée, dont les ressources sont
+insuffisantes.
 
 Les contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance sont exclues de l'assiette des
