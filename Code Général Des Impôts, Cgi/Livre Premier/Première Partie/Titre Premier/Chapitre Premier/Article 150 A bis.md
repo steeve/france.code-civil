@@ -12,8 +12,8 @@ Toutefois les titres des sociétés immobilières pour le commerce et l'industri
 [*SICOMI*] non cotées sont assimilés à des titres cotés et imposés conformément
 aux dispositions de l'article 92 C.
 
-En cas d'échange de titres résultant d'une fusion ou d'une scission,
-l'imposition des gains nets mentionnés au premier alinéa est reportée dans les
-mêmes conditions que celles qui sont prévues au I ter de l'article 160.
+En cas d'échange de titres résultant d'une fusion, d'une scission ou d'un
+apport, l'imposition des gains nets mentionnés au premier alinéa est reportée
+dans les mêmes conditions que celles qui sont prévues au I ter de l'article 160.
 
 1) Voir Annexe II, art. 74 A bis.

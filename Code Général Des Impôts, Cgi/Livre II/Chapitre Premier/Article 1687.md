@@ -8,8 +8,8 @@ pour la taxe professionnelle.
 
 Dans le cas où ce terme est devancé, comme dans le cas de déménagement furtif,
 les propriétaires et, à leur place, les principaux locataires deviennent
-responsables de la taxe de leurs locataires, s'ils n'ont pas, dans les huit
-jours, donné avis du déménagement au comptable du Trésor.
+responsables de la taxe de leurs locataires, s'ils n'ont pas, dans les trois
+mois, donné avis du déménagement au comptable du Trésor.
 
 La part de la taxe laissée à la charge des propriétaires ou principaux
 locataires par les paragraphes précédents comprend seulement la fraction

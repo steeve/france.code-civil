@@ -34,5 +34,12 @@ l'imposition a été différée en application des dispositions qui précèdent 
 rapportées au bénéfice imposable de l'exercice clos lors de cette opération,
 sous réserve des dispositions des articles 41 et 210 A à 210 C.
 
+Sous réserve des dispositions du troisième alinéa du 1, les dispositions de
+l'alinéa précédent ne sont pas applicables en cas d'apport d'une entreprise
+individuelle à une société dans les conditions prévues à l'article 151 octies si
+la société bénéficiaire de l'apport prend l'engagement dans l'acte d'apport de
+réintégrer à ses résultats les plus-values à court terme comme aurait dû le
+faire l'entreprise apporteuse.
+
 3 Le cas échéant, l'excédent des moins-values à court terme constaté au cours
 d'un exercice est déduit des bénéfices de cet exercice.

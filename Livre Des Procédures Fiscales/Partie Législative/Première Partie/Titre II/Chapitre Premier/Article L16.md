@@ -2,18 +2,18 @@ Article L16
 ----
 En vue de l'établissement de l'impôt sur le revenu, l'administration peut
 demander au contribuable des éclaircissements. Elle peut, en outre, lui demander
-des justifications au sujet de sa situation et de ses charges de famille, ainsi
-que des charges retranchées du revenu net global ouvrant droit à une réduction
+des justifications au sujet de sa situation et de ses charges de famille, des
+charges retranchées du revenu net global ou ouvrant droit à une réduction
 d'impôt sur le revenu en application des articles 156, 199 sexies et 199 septies
-du code général des impôts.
+du code général des impôts, ainsi que des avoirs ou revenus d'avoirs à
+l'étranger.
 
 L'administration peut demander au contribuable des justifications sur tous les
 éléments servant de base à la détermination du revenu foncier tels qu'ils sont
-définis aux articles 28 à 33 quater du code général des impôts.
-
-Les demandes visées aux alinéas précédents doivent indiquer explicitement les
-points sur lesquels elles portent et mentionner à l'intéressé le délai de
-réponse dont il dispose en fonction des textes en vigueur.
+définis aux articles 28 à 33 quater du code général des impôts. Les demandes
+visées aux alinéas précédents doivent indiquer explicitement les points sur
+lesquels elles portent et mentionner à l'intéressé le délai de réponse dont il
+dispose en fonction des textes en vigueur.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des
 éléments permettant d'établir que le contribuable peut avoir des revenus plus

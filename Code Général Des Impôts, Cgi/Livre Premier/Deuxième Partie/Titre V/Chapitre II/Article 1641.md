@@ -14,9 +14,29 @@ chambres de commerce et d'industrie ; - taxe pour frais de chambres de métiers;
 
 2. Sauf dispositions contraires, il en est de même pour les contributions et
 taxes qui sont établies et recouvrées comme en matière de contributions directes
-au profit de toutes collectivités, fonds ou organismes divers.
+au profit de toutes collectivités, fonds ou organismes divers. 3. En
+contrepartie des dégrèvements prévus à l'article 1414 C, l'Etat perçoit un
+prélèvement assis sur les valeurs locatives servant de base à la taxe
+d'habitation diminuées des abattements votés par la commune en application de
+l'article 1411. Les redevables visés aux articles 1414, 1414 A et 1414 B en sont
+toutefois exonérés pour leur habitation principale.
+
+Le taux de ce prélèvement est fixé comme suit :
+
+Locaux d'habitation non affectés à l'habitation principale dont la valeur
+locative est :
+
+Supérieure à 50 000 F : 1,7 %
+
+Inférieure ou égale à 50 000 F et supérieure à 30 000 F : 1,2 %
+
+Autres locaux dont la valeur locative est supérieure à 30 000 F :
+
+0,2 % (1).
 
 II. Pour frais d'assiette et de recouvrement, l'Etat perçoit 5 % du montant des
 taxes visées au I ainsi que de la taxe d'habitation due pour les locaux meublés
 affectés à l'habitation principale. Ce taux est réduit à 4 % pour les
 impositions perçues au profit des collectivités locales et de leurs groupements.
+
+(1) Ces dispositions sont applicables aux impositions établies au titre de 1990.
