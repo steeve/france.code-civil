@@ -16,14 +16,16 @@ domicile professionnel dans la circonscription de la caisse ;
 
 4°) une ou plusieurs personnes connues pour leurs travaux ou leurs activités en
 matière de protection sociale, de prévoyance ou de mutualité désignées par
-l'autorité compétente de l'Etat. Les fonctions d'administrateur ou d'agent
-salarié des organismes auxquels une caisse mutuelle régionale a confié les
-opérations mentionnées au deuxième alinéa de l'article L. 611-3 ci-dessus sont
-incompatibles avec les fonctions d'administrateur de ladite caisse.
+l'autorité compétente de l'Etat.
 
-Les dispositions des articles L. 214-2 et L. 214-3, concernant les
-éligibibilités et les inéligibilité, sont applicables aux élections aux conseils
-d'administration des caisses mutuelles régionales.
+Les fonctions d'administrateur ou d'agent salarié des organismes auxquels une
+caisse mutuelle régionale a confié les opérations mentionnées au deuxième alinéa
+de l'article L. 611-3 ci-dessus sont incompatibles avec les fonctions
+d'administrateur de ladite caisse.
+
+Les dispositions de l'article L. 231-6 et de l'article L. 231-6-1, à l'exclusion
+de son 5°, a, valent conditions d'éligibilité et d'inéligibilité pour les
+élections des administrateurs des caisses mutuelles régionales.
 
 Un représentant de chacune des catégories d'organismes mentionnés au deuxième
 alinéa de l'article L. 611-3 ci-dessus, nommé par arrêté interministériel,

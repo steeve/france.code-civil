@@ -1,23 +1,23 @@
 Article L225-3
 ----
-L'agence centrale des organismes de sécurité sociale est gérée par un conseil
-d'administration qui comprend des représentants en nombre égal :
+L'Agence centrale des organismes de sécurité sociale est administrée par un
+conseil d'administration de trente membres comprenant :
 
-1°) de la caisse nationale des allocations familiales ;
+1° Treize représentants des assurés sociaux désignés par les organisations
+syndicales de salariés interprofessionnelles représentatives au plan national ;
 
-2°) de la caisse nationale de l'assurance maladie ;
+2° Treize représentants des employeurs et des travailleurs indépendants à raison
+de :
 
-3°) de la caisse nationale d'assurance vieillesse.
+- dix représentants des employeurs désignés par les organisations
+professionnelles nationales d'employeurs représentatives ;
 
-Les autorités compétentes de l'Etat sont représentées auprès de l'agence
-centrale par des commissaires du Gouvernement.
+- trois représentants des travailleurs indépendants désignés par les
+institutions ou organisations professionnelles des travailleurs indépendants
+représentatives sur le plan national ;
 
-Les représentants de chacune des trois caisses nationales ci-dessus sont
-désignés en leur sein par les conseils d'administration de ces organismes et
-choisis parmi les représentants des assurés sociaux et les représentants des
-employeurs dans la proportion respective de trois cinquièmes et de deux
-cinquièmes. En ce qui concerne la représentation des assurés sociaux, chacune
-des organisations mentionnées à l'article L. 214-6 doit être représentée.
+3° Quatre personnes qualifiées dans les domaines d'activité des unions de
+recouvrement et désignées par l'autorité compétente de l'Etat.
 
-Siègent, avec voix consultative, trois représentants du personnel, élus dans des
-conditions fixées par décret.
+Siègent également, avec voix consultative, trois représentants du personnel élus
+dans des conditions fixées par décret.
