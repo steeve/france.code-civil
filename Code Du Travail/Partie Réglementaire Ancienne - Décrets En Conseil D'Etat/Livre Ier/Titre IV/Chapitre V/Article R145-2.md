@@ -3,26 +3,26 @@ Article R145-2
 Les proportions dans lesquelles les rémunérations annuelles visées à l'article
 L. 145-2 sont saisissables ou cessibles sont fixées comme suit :
 
-- au vingtième, sur la tranche inférieure ou égale à 19 300 F ;
+- au vingtième, sur la tranche inférieure ou égale à 3 000 Euro ;
 
-- au dixième, sur la tranche supérieure à 19 300 F, inférieure ou égale à 38 100
-F ;
+- au dixième, sur la tranche supérieure à 3 000 Euro, inférieure ou égale à 5
+920 Euro ;
 
-- au cinquième, sur la tranche supérieure à 38 100 F, inférieure ou égale à 57
-200 F ;
+- au cinquième, sur la tranche supérieure à 5 920 Euro, inférieure ou égale à 8
+880 Euro ;
 
-- au quart, sur la tranche supérieure à 57 200 F, inférieure ou égale à 76 000 F
-;
+- au quart, sur la tranche supérieure à 8 880 Euro, inférieure ou égale à 11 800
+Euro ;
 
-- au tiers, sur la tranche supérieure à 76 000 F, inférieure ou égale à 94 900 F
-;
+- au tiers, sur la tranche supérieure à 11 800 Euro, inférieure ou égale à 14
+730 Euro ;
 
-- au deux tiers, sur la tranche supérieure à 94 900 F, inférieure ou égale à 114
-000 F ;
+- aux deux tiers, sur la tranche supérieure à 14 730 Euro, inférieure ou égale à
+17 700 Euro ;
 
-- à la totalité, sur la tranche supérieure à 114 000 F.
+- à la totalité, sur la tranche supérieure à 17 700 Euro.
 
-Les seuils déterminés ci-dessus sont augmentés d'un montant de 7 200 F par
+Les seuils déterminés ci-dessus sont augmentés d'un montant de 1 120 Euro par
 personne à la charge du débiteur saisi ou du cédant, sur justification présentée
 par l'intéressé.
 
