@@ -9,8 +9,8 @@ publique, les contraventions prévues par :
 2° Les articles R. 644-2 et R. 653-1 du code pénal, lorsqu'il s'agit de
 contraventions se rapportant à la circulation routière ;
 
-3° Les articles R. 625-2 et R. 625-3 du code pénal, commises à l'occasion de la
-conduite d'un véhicule ;
+3° L'article R. 625-3 du code pénal, lorsqu'il s'agit de contraventions commises
+à l'occasion de la conduite d'un véhicule ;
 
 4° L'article R. 211-21-5 du code des assurances relatif à l'affichage sur les
 véhicules d'un certificat d'assurance.
