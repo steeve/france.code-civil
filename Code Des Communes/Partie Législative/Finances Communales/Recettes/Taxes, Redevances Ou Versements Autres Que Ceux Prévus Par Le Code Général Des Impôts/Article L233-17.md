@@ -28,3 +28,10 @@ projections intermittentes ou successives sur un transparent ou sur un écran,
 soit au moyen de combinaisons de points lumineux susceptibles de former
 successivement les différentes lettres de l'alphabet dans le même espace, soit
 au moyen de tout procédé analogue.
+
+6° Les supports publicitaires, autres que les abris pour les voyageurs des
+transports en commun et les autres éléments de mobilier urbain, dont la surface
+occupée par la publicité n'excède pas 2 mètres carrés, implantés sur les voies
+ou dans les jardins publics ; la perception de la taxe due au titre de ces
+supports ne fait pas obstacle à l'application de la taxe sur la publicité aux
+affiches, réclames et enseignes qui y sont apposées ou installées.

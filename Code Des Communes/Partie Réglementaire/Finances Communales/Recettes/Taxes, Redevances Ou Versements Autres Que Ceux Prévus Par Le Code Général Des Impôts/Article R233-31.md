@@ -1,8 +1,8 @@
 Article R233-31
 ----
-La déclaration [*de paiement*] prévue à l'article R. 233-30 est conservée à la
-mairie où elle est enregistrée sur un carnet à souche numéroté comportant deux
-volants détachables.
+Les déclarations prévues respectivement aux articles R. 233-30 et R. 233-30-1
+sont conservées à la mairie où elles sont enregistrées sur un carnet à souche
+numéroté comportant deux volants détachables.
 
 Le représentant de la commune liquide les droits à payer et en reporte le
 montant ainsi que les bases d'imposition sur la souche et les deux volants. Le
@@ -14,6 +14,5 @@ Une quittance détachée d'un carnet à souche est alors remise au redevable pou
 justifier son versement.
 
 Pour assurer le contrôle, le volant n° 2 est ensuite renvoyé à la mairie par le
-comptable avec mention du paiement,
-
-dès que le volant n° 1 lui est parvenu et a pu être rattaché au paiement.
+comptable avec mention du paiement, dès que le volant n° 1 lui est parvenu et a
+pu être rattaché au paiement.
