@@ -51,5 +51,11 @@ destinés aux personnes handicapées mentales, les chambres occupées par ces
 personnes sont comptabilisées comme autant de logements locatifs sociaux dès
 lors qu'elles disposent d'un élément de vie indépendante défini par décret.
 
+Sont considérés comme logements locatifs sociaux au sens du troisième alinéa
+ceux financés par l'Etat ou les collectivités locales occupés à titre gratuit, à
+l'exception des logements de fonction, ou donnés à leur occupant ou acquis par
+d'anciens supplétifs de l'armée française en Algérie ou assimilés, grâce à une
+subvention accordée par l'Etat au titre des lois d'indemnisation les concernant.
+
 Les résidences principales retenues pour l'application du présent article sont
 celles qui figurent au rôle établi pour la perception de la taxe d'habitation.
