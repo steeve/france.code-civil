@@ -19,8 +19,8 @@ l'insuffisance s'apprécie pour chaque bien.
 II. Pour l'application du I, sont assimilés à une insuffisance de déclaration
 lorsqu'ils ne sont pas justifiés :
 
-a) Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199
-sexies et 199 septies ;
+a) Les charges ouvrant droit à la réduction d'impôt prévue à l'article 199
+septies ;
 
 b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou
 à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article
@@ -41,6 +41,6 @@ h) Les dépenses ouvrant droit aux crédits d'impôt prévus à l'article 200 qu
 
 III. Dispositions périmées.
 
-IV. Pour l'application du I en cas de redressements apportés aux résultats des
-sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance des
-chiffres déclarés s'apprécie au niveau de chaque société.
+IV. Pour l'application du I en cas de rectifications apportées (1) aux résultats
+des sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance
+des chiffres déclarés s'apprécie au niveau de chaque société.
