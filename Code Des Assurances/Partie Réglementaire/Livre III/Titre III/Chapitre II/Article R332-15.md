@@ -1,20 +1,18 @@
 Article R332-15
 ----
-Les prêts immobiliers mentionnés au 20° de l'article R. 332-2 doivent être
-garantis soit par le privilège de prêteurs de deniers visé au 2° de l'article
-2103 du code civil, soit par une hypothèque en premier rang. Les inscriptions
-peuvent être prises sur tous immeubles situés sur le territoire de la République
-française. L'ensemble des privilèges et hypothèques en premier rang ne doit pas
-excéder 65 p. 100 de la valeur vénale de l'immeuble constituant la garantie du
-prêt, estimée au jour de la conclusion du contrat.
+En application des dispositions du 9° bis de l'article R. 332-2, les entreprises
+sont autorisées à détenir les parts ou actions de sociétés à objet strictement
+immobilier, à l'exclusion de sociétés ayant une activité de marchand de biens et
+de sociétés en nom collectif, sauf dérogations accordées antérieurement à
+l'entrée en vigueur du décret n° 90-981 du 5 novembre 1990. Le patrimoine de ces
+sociétés ne peut être composé que d'immeubles bâtis ou de terrains situés sur le
+territoire de l'un des Etats membres de l'O.C.D.E., de parts ou actions des
+sociétés répondant à ces mêmes conditions.
 
-Cette valeur est déterminée par les entreprises par tous moyens appropriés en se
-référant notamment suivant les circonstances, soit au prix d'achat résultant de
-la dernière mutation, soit au prix de revient du sol et des constructions, soit
-au revenu net. En aucun cas, il n'est fait état des frais de mutation non plus
-que d'autres frais accessoires, tels que commissions aux intermédiaires ou
-intérêts intercalaires. Le revenu net, qui ne doit pas être capitalisé à un taux
-d'intérêt inférieur à 5 %, est le revenu brut diminué de toutes charges, y
-compris les charges d'entretien. La détermination de la valeur vénale par
-capitalisation du revenu net ne peut être utilisée que si le revenu brut pris en
-considération est effectif pour les deux tiers au moins.
+Les entreprises sont également autorisées à détenir les parts des sociétés
+civiles à objet strictement foncier dont l'activité est limitée à la gestion
+directe de biens fonciers situés sur le territoire de l'un des Etats membres de
+l'O.C.D.E. ou les parts des groupements ayant pour seule activité la gestion de
+biens fonciers répondant à ces mêmes conditions. Les biens constitutifs du
+patrimoine doivent faire l'objet d'une exploitation. Les massifs forestiers
+doivent être assurés contre l'incendie.

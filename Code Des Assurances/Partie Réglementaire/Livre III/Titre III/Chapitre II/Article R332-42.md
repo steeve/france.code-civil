@@ -14,8 +14,8 @@ virement d'actifs ne pouvant toutefois avoir lieu qu'à des intervalles
 supérieurs à trois mois et sur justification d'une réduction au moins
 équivalente desdites provisions.
 
-Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au cours
-le plus bas de la dernière bourse précédant le jour de l'opération.
+Les titres faisant l'objet d'un retrait ou d'un virement sont estimés au dernier
+cours coté précédant le jour de l'opération.
 
 Tout retrait ou virement d'actifs ne peut être effectué que sur visa préalable
-du ministre chargé de l'économie et des finances.
+de la commission de contrôle des assurances.

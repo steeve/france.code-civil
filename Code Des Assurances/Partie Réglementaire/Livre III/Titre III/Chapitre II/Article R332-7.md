@@ -3,8 +3,7 @@ Article R332-7
 Pour la représentation des provisions techniques correspondant aux branches
 mentionnées aux 4 à 7, 11 et 12 de l'article R. 321-1 :
 
-1° Les dépôts mentionnés au 24° de l'article R. 332-2 ne sont pas soumis à la
-limitation prévue au 7° de l'article R. 332-3 ;
+1° (Abrogé)
 
 2° Par dérogation aux dispositions de l'article R. 332-6, les primes ou
 cotisations sont admises dans les conditions fixées par arrêté du ministre

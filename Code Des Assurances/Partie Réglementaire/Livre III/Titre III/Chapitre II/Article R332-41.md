@@ -10,6 +10,5 @@ l'actif du bilan du même exercice ;
 
 2° Les titres acquis et déposés ou inscrits en compte à la Caisse des dépôts et
 consignations ou à la Banque de France après le 31 décembre de l'exercice
-précédent sont évalués au cours le plus bas de la dernière bourse précédant le
-jour du dépôt ou de l'inscription en compte ou, à défaut, au prix de
-souscription ou d'achat.
+précédent sont évalués au dernier cours coté précédant le jour du dépôt ou de
+l'inscription en compte ou, à défaut, au prix de souscription ou d'achat.

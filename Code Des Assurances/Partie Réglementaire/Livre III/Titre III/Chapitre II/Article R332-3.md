@@ -1,24 +1,19 @@
 Article R332-3
 ----
-Rapportée au montant des engagements réglementés mentionnés à l'article R.
-331-1, diminué du montant des actifs mentionnés aux articles R. 332-3-4 à R.
-332-10, la valeur au bilan de chacune des catégories d'actifs énumérées ci-après
-ne peut excéder :
+Rapportée au montant total des engagements réglementés mentionnés à l'article R.
+331-1, toutes monnaies confondues, diminuée du montant total des actifs
+mentionnés aux articles R. 332-3-4 à R. 332-10, toutes monnaies confondues, la
+valeur au bilan de chacune des catégories d'actifs énumérées ci-après ne peut
+excéder, sauf dérogation accordée cas par cas par la commission de contrôle des
+assurances :
 
-1° 66 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 24° de l'article
-R. 332-2 ;
+1° 65 p. 100 pour l'ensemble des valeurs mentionnées du 4° au 8° de l'article R.
+332-2, dont 5 p. 100 au maximum pour l'ensemble formé par les actions
+d'entreprises étrangères d'assurance mentionnées au 5° bis de l'article R. 332-2
+et par les actions et parts mentionnées aux 6° et 7° de l'article R. 332-2 ;
 
-2° 1 p. 100 pour les actions mentionnées au 5° de l'article R. 332-2 ;
+2° 40 p. 100 pour les actifs immobiliers mentionnés aux 9° et 9° bis de
+l'article R. 332-2 ;
 
-3° 0,5 p. 100 pour les parts mentionnées au 6° de l'article R. 332-2 ;
-
-4° 5 p. 100 pour les actions d'entreprises étrangères d'assurance mentionnées au
-8° de l'article R. 332-2 ;
-
-5° 40 p. 100 pour les actifs immobiliers mentionnés du 10° au 13° de l'article
-R. 332-2 ;
-
-6° 35 p. 100 pour l'ensemble des créances mentionnées du 14° au 22° de l'article
-R. 332-2 ;
-
-7° 15 p. 100 pour les dépôts mentionnés au 24° de l'article R. 332-2.
+3° 10 p. 100 pour l'ensemble des valeurs mentionnées aux 10°, 11° et 12° de
+l'article R. 332-2.
