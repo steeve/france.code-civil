@@ -8,9 +8,11 @@ des accidents du travail et des allocations familiales.
 L'exonération porte sur les rémunérations dues :
 
 1° Pour les bénéficiaires de plus de cinquante ans et de moins de soixante-cinq
-ans, demandeurs d'emploi depuis plus d'un an, jusqu'à ce qu'ils justifient de
-cent cinquante trimestres d'assurance, au sens de l'article L. 351-1 du code de
-la sécurité sociale ;
+ans, demandeurs d'emploi depuis plus d'un an, ainsi que pour les travailleurs
+reconnus handicapés par la commission technique d'orientation et de reclassement
+professionnel et pour les autres bénéficiaires de l'obligation d'emploi prévue à
+l'article L. 323-1, jusqu'à ce qu'ils justifient de cent cinquante trimestres
+d'assurance, au sens de l'article L. 351-1 du code de la sécurité sociale ;
 
 2° Dans la limite d'une période de dix-huit mois suivant la date d'embauche pour
 les demandeurs d'emploi depuis plus de trois ans ou, s'il s'agit de

@@ -8,11 +8,21 @@ ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.
 L'employeur porte à la connaissance de ces salariés la liste des emplois
 disponibles correspondants.
 
-Le chef d'entreprise communique au moins une fois par an au comité d'entreprise
-ou, à défaut, aux délégués du personnel un bilan du travail à temps partiel
-réalisé dans l'entreprise portant notamment sur le nombre, le sexe et la
-qualification des salariés concernés. Lors de la réunion où est discuté ce
-bilan, le chef d'entreprise explique les raisons qui l'ont amené à refuser à des
-salariés à temps complet de passer à temps partiel et à des salariés à temps
-partiel de travailler à temps complet. Ce bilan est également communiqué aux
-délégués syndicaux de l'entreprise.
+Les conditions de mise en place d'horaires à temps partiel à la demande des
+salariés sont fixées par convention collective de branche ou accord collectif
+étendu. Ces conventions et accords prévoient notamment les conditions dans
+lesquelles les salariés peuvent bénéficier du temps partiel et des priorités
+définies au premier alinéa du présent article, les modalités de la demande
+formulée par le ou les salariés intéressés, les motifs susceptibles d'être
+invoqués par l'employeur pour refuser, les modalités de communication de ce
+refus ainsi que les procédures d'interprétation et de conciliation en cas de
+contestation du refus.
+
+Le chef d'entreprise communique au moins une fois par an [*périodicité*] au
+comité d'entreprise ou, à défaut, aux délégués du personnel un bilan du travail
+à temps partiel réalisé dans l'entreprise portant notamment sur le nombre, le
+sexe et la qualification des salariés concernés. Lors de la réunion où est
+discuté ce bilan, le chef d'entreprise explique les raisons qui l'ont amené à
+refuser à des salariés à temps complet de passer à temps partiel et à des
+salariés à temps partiel de travailler à temps complet. Ce bilan est également
+communiqué aux délégués syndicaux de l'entreprise.

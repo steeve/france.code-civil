@@ -5,7 +5,7 @@ plus ouvrant droit au versement de l'allocation de base prévue à l'article L.
 351-3 entraîne l'obligation pour l'employeur de verser aux organismes visés à
 l'article L. 351-21 une cotisation égale à trois mois du salaire brut moyen des
 douze derniers mois travaillés. Cette cotisation n'est pas due dans les cas
-suivants :
+suivants [*exonération*] :
 
 1° Ancienneté du salarié inférieure à deux ans ;
 
@@ -15,12 +15,15 @@ suivants :
 de santé ou de départ en retraite, qui entraîne la fermeture définitive de
 l'entreprise ;
 
+3° bis Rupture du contrat de travail, par un particulier, d'un employé de maison
+;
+
 4° Licenciement visé à l'article L. 321-12 ;
 
 5° Démission trouvant son origine dans un déplacement de la résidence du
 conjoint, résultant d'un changement d'emploi de ce dernier ;
 
-6° Rupture du contrat de travail due à la force majeure. "
+6° Rupture du contrat de travail due à la force majeure.
 
 Toutefois, lorsque l'un des salariés visés à l'alinéa précédent est reclassé
 sous contrat à durée indéterminée dans les trois mois suivant l'expiration du

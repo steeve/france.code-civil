@@ -18,8 +18,11 @@ l'article L. 351-9 ou bénéficiaires de l'allocation de parent isolé au sens d
 articles L. 524-1 à L. 524-4 du code de la sécurité sociale, sous réserve de ne
 pas prétendre au bénéfice des dispositions conventionnelles.
 
-Le montant maximum de ces rémunérations et la limite de temps au-delà de
-laquelle elles ne sont plus servies sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions et les modalités de calcul
+et de versement de ces rémunérations. Leur gestion peut être confiée par voie de
+convention à un établissement public de l'Etat à caractère administratif, aux
+institutions mentionnées à l'article L. 351-21 ou à l'Association nationale pour
+la formation professionnelle des adultes.
 
 Le même décret détermine les mesures d'adaptation nécessaires à l'application
 des règles de l'alinéa précédent au cas des stagiaires à temps partiel.

@@ -86,3 +86,10 @@ adultes et qui ont passé avec celles-ci à cet effet un contrat conforme aux
 dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475 du 10
 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre
 onéreux, de personnes âgées ou handicapées adultes.
+
+18° Les vendeurs-colporteurs de presse et porteurs de presse, visés aux
+paragraphes I et II de l'article 22 de la loi n° 91-1 du 3 janvier 1991 tendant
+au développement de l'emploi par la formation dans les entreprises, l'aide à
+l'insertion sociale et professionnelle et l'aménagement du temps de travail,
+pour l'application du troisième plan pour l'emploi, non immatriculés au registre
+du commerce ou au registre des métiers.

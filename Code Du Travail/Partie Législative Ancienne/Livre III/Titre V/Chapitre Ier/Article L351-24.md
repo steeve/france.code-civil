@@ -17,7 +17,10 @@ Dans le cas où l'intéressé est à nouveau inscrit comme demandeur d'emploi, i
 retrouve le bénéfice des droits qu'il avait acquis à la date d'attribution de
 l'aide ; mais ceux-ci, par dérogation aux dispositions de l'article L. 352-3 du
 présent code, sont affectés, en tout ou en partie, au remboursement de l'aide
-obtenue.
+obtenue. L'aide de l'Etat prévue au premier alinéa ci-dessus est ouverte aux
+bénéficiaires de l'allocation de revenu minimum d'insertion. Cette aide est
+servie après avis motivé de la commission locale d'insertion. Son montant est
+fixé forfaitairement par décret.
 
 Un décret en Conseil d'Etat détermine les mesures d'application du présent
 article.
