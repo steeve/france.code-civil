@@ -1,23 +1,32 @@
 Article Annexe à l'article R*351-1, art. 3
 ----
-Les capitaines des bâtiments doivent adresser à la capitainerie, vingt-quatre
-heures à l'avance, ou au plus tard au départ du port précédent lorsque celui-ci
-est situé à moins de vingt-quatre heures de route, leur prévision d'arrivée sur
-rade ou à la bouée d'atterrissage des chenaux d'accès, en indiquant :
+Sans préjudice des obligations déclaratives prévues par les dispositions
+régissant le transport et la manutention des matières dangereuses, les
+capitaines des bâtiments doivent adresser à la capitainerie du port de
+destination, vingt-quatre heures à l'avance, ou au plus tard au départ du port
+précédent lorsque celui-ci est situé à moins de vingt-quatre heures de route, ou
+à défaut dès que le port de destination est connu, leur prévision d'arrivée sur
+rade ou à la bouée d'atterrissage des chenaux d'accès en indiquant :
 
-Le nom du bâtiment, son tonnage, sa longueur et sa largeur ;
+- le nom et l'identification (numéro OMI) du bâtiment, son tonnage, sa longueur
+et sa largeur ;
 
-La date et l'heure de l'arrivée ;
+- la date et l'heure probables de l'arrivée ;
 
-Le tirant d'eau maximum du bâtiment à son arrivée au port ;
+- la date et l'heure probables de l'appareillage ;
 
-La nature et le tonnage des différentes matières et cargaisons dangereuses
+- le tirant d'eau maximum du bâtiment à son arrivée au port ;
+
+- la nature et le tonnage des différentes matières ou cargaisons dangereuses
 transportées (en transit ou à débarquer) ainsi que la nature et le tonnage des
-déchets d'exploitation et résidus de cargaison du navire ;
+déchets d'exploitation et des résidus de cargaison ;
 
-Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
+- le nombre total de personnes à bord ;
 
-Un message rectificatif doit être envoyé en cas de changement.
+- les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
+
+Un message rectificatif doit être envoyé en cas de modification de l'une de ces
+informations.
 
 Les officiers de port peuvent interdire l'accès du port aux bâtiments dont
 l'entrée serait susceptible de compromettre la sécurité, la santé ou

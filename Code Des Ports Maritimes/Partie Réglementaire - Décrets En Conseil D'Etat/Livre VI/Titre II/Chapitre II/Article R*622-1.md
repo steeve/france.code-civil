@@ -19,9 +19,9 @@ personnels sont désignés par le maire sur proposition des organisations
 syndicales les plus représentatives ;
 
 4° Six membres représentant les usagers du port appartenant aux catégories
-mentionnées à l'article R. 142-5 3° et désignés à raison de trois membres qui
+mentionnées à l'article R. *142-5 3° et désignés à raison de trois membres qui
 représentent les navigateurs de plaisance désignés par le comité local des
-usagers permanents du ports et trois membres qui représentent les services
+usagers permanents du port et trois membres qui représentent les services
 nautiques, construction, réparation, et les associations sportives et
 touristiques liées à la plaisance, désignés par le maire après consultation des
 organisations représentatives au plan local.

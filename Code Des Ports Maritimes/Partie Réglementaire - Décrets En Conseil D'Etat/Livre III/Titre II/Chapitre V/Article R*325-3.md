@@ -9,8 +9,10 @@ résidus de cargaison de leurs navires.
 Un arrêté du ministre chargé des ports maritimes fixe le contenu du formulaire
 qui doit être rempli à cet effet.
 
-Le capitaine du navire doit présenter au bureau des officiers de port et à
-l'autorité maritime sur leur demande, les documents attestant du dépôt des
-déchets, d'exploitation et des résidus de cargaison, fournis au port d'escale
+Les capitaines des navires mentionnés au premier alinéa doivent présenter à
+l'autorité investie du pouvoir de police portuaire, ainsi qu'à l'autorité
+maritime, sur leur demande, la déclaration comportant les informations indiquées
+au même alinéa, accompagnée, s'il y a lieu, des documents attestant du dépôt des
+déchets d'exploitation et des résidus de cargaison, fournie au port d'escale
 précédent, si celui-ci est situé dans un Etat membre de la Communauté
 européenne.
