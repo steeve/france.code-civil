@@ -1,9 +1,14 @@
 Article R325-4
 ----
-Avant de procéder au retrait d'agrément prévu à l'article R. 325-3, le ministre
-de l'économie, des finances et du budget consulte l'autorité de contrôle de
-l'Etat où est situé le siège social de l'entreprise concernée.
+Avant de procéder au retrait d'agrément prévu à l'article L. 325-1 ou au 5° de
+l'article L. 310-18, dans le cas d'une entreprise étrangère dont le siège social
+est établi sur le territoire d'un Etat membre des communautés économiques
+européennes, le ministre chargé de l'économie et des finances ou la commission
+de contrôle des assurances, selon le cas, consulte l'autorité de contrôle de
+l'Etat où est situé le siège social de cette entreprise.
 
-Toutefois, le ministre peut suspendre l'activité de l'entreprise sur le
-territoire de la République française avant l'issue de cette constitution. Dans
-ce cas, il en informe immédiatement l'autorité de contrôle intéressée.
+Toutefois, le ministre chargé de l'économie et des finances ou la commission de
+contrôle des assurances, selon le cas, peut suspendre l'activité de l'entreprise
+sur le territoire de la République française avant l'issue de cette
+consultation. Dans ce cas, elle en informe immédiatement l'autorité de contrôle
+étrangère intéressée.

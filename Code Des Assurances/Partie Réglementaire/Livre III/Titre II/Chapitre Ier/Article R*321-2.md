@@ -9,6 +9,6 @@ que les opérations relevant d'une ou plusieurs sous-branches.
 
 Pour les entreprises dont le siège social n'est pas établi sur le territoire
 d'un Etat membre de la Communauté économique européenne, le ministre de
-l'économie et des finances peut, après avis du conseil national des assurances,
-dans les conditions prévues à l'article R. 321-13, restreindre l'agrément à une
-ou plusieurs opérations.
+l'économie et des finances peut, après avis de la commission des entreprises
+d'assurance mentionnée à l'article L. 411-4, dans les conditions prévues à
+l'article R. 321-13, restreindre l'agrément à une ou plusieurs opérations.

@@ -16,8 +16,27 @@ d) Le procès-verbal de l'assemblée générale constitutive ;
 
 e) Deux exemplaires des statuts ;
 
-f) La liste des administrateurs et directeurs, avec les nom, prénoms, domicile,
-nationalité, date et lieu de naissance de chacun d'eux ;
+f) La liste des administrateurs et directeurs, ainsi que de toute personne
+appelée à exercer en fait des fonctions équivalentes avec les nom, prénoms,
+domicile, nationalité, date et lieu de naissance de chacun d'eux. Si ces
+personnes ont résidé hors de France pendant la période de cinq ans précédant la
+demande d'agrément, elles doivent indiquer leur dernière adresse hors de France.
+
+Les personnes mentionnées ci-dessus doivent également produire un bulletin n° 3
+de leur casier judiciaire datant de moins de trois mois ou un document
+équivalent délivré par une autorité judiciaire ou administrative compétente d'un
+Etat membre des communautés économiques européennes autre que la France. Lorsque
+ces personnes ne sont pas des ressortissants d'un Etat membre des communautés
+économiques européennes, elles doivent produire un document équivalent ou, à
+défaut, une déclaration sous serment ou une déclaration solennelle faite devant
+une autorité compétente ou un notaire, aux termes de laquelle elles affirment ne
+pas avoir fait, à l'étranger, l'objet d'une condamnation qui, si elle avait été
+prononcée par une juridiction française, serait inscrite au bulletin n° 3 du
+casier judiciaire. L'autorité compétente ou le notaire délivre une attestation
+faisant foi de ce serment ou de cette déclaration solennelle. En outre, si elles
+ne sont pas de nationalité française, ces personnes doivent satisfaire aux
+dispositions des lois et règlements relatifs à la situation et à la police des
+étrangers.
 
 g) Un programme d'activités comprenant les pièces suivantes :
 
@@ -36,18 +55,20 @@ articles L. 351-4 et R. 351-1, deux exemplaires des tarifs.
 
 S'il s'agit d'opérations d'assurance comportant des engagements dont l'exécution
 dépend de la durée de la vie humaine, d'opérations complémentaires aux
-opérations précédentes, notamment celles ayant pour objet des garanties en cas
-de décès accidentel ou d'invalidité, ou d'opérations ayant pour objet le
-versement d'un capital en cas de mariage ou de naissance d'enfants, ou
-d'opérations ayant pour objet l'acquisition d'immeubles au moyen de la
-constitution de rentes viagères, l'entreprise doit produire le tarif afférent à
-toutes ces opérations, ainsi qu'une note technique exposant le mode
-d'établissement des tarifs et les bases de calcul des diverses catégories de
-primes ou cotisations. S'il s'agit d'opérations de prévoyance collective,
-l'entreprise doit produire une note technique exposant le mode d'établissement
-des tarifs, les modalités de détermination des primes ou cotisations annuelles
-ainsi que les indications relatives à la fixation du nombre d'unités de rente
-correspondant auxdites primes ou cotisations.
+opérations précédentes, notamment celles ayant pour objet des garanties contre
+les risques d'atteintes corporelles incluant l'incapacité de travail
+professionnelle, de décès accidentel ou d'invalidité à la suite d'accident ou de
+maladie, ou d'opérations ayant pour objet le versement d'un capital en cas de
+mariage ou de naissance d'enfants, ou d'opérations ayant pour objet
+l'acquisition d'immeubles au moyen de la constitution de rentes viagères,
+l'entreprise doit produire le tarif afférent à toutes ces opérations, ainsi
+qu'une note technique exposant le mode d'établissement des tarifs et les bases
+de calcul des diverses catégories de primes ou cotisations. S'il s'agit
+d'opérations de prévoyance collective, l'entreprise doit produire une note
+technique exposant le mode d'établissement des tarifs, les modalités de
+détermination des primes ou cotisations annuelles ainsi que les indications
+relatives à la fixation du nombre d'unités de rente correspondant auxdites
+primes ou cotisations.
 
 S'il s'agit d'opérations tontinières, l'entreprise doit produire les tarifs et
 les barèmes afférents à toutes ses opérations, ainsi qu'une note technique
@@ -86,7 +107,17 @@ garantie que l'entreprise doit posséder, selon le cas, conformément aux
 dispositions des sections II ou III du chapitre IV du titre III du présent
 livre.
 
+9. Dans le cas d'une société anonyme, la liste des principaux actionnaires ainsi
+que la part du capital social détenue par chacun d'eux ; dans le cas d'une
+société d'assurance mutuelle, les modalités de constitution du fonds
+d'établissement.
+
+10. Le nom et l'adresse du principal établissement bancaire où sont domiciliés
+les comptes de l'entreprise.
+
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux c,
-d, e et f du présent article ne sont pas exigés. L'entreprise doit en revanche
-justifier qu'elle dispose d'une marge de solvabilité au moins égale au montant
+d et e du présent article ne sont pas exigés. L'entreprise doit indiquer, s'il y
+a lieu, toute modification intervenue concernant l'application des dispositions
+du f du présent article ainsi que celles de l'article R. 321-6-1 et justifier
+qu'elle dispose d'une marge de solvabilité au moins égale au montant
 réglementaire.

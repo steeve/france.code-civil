@@ -27,7 +27,7 @@ du réseau de production ;
 
 c) la désignation d'une personne physique ou morale ayant la qualité de
 mandataire général et satisfaisant aux conditions fixées par décret en Conseil
-d'Etat pris après avis du conseil national des assurances.
+d'Etat.
 
 Ce mandataire ne peut être récusé par le ministre de l'économie et des finances
 que pour des raisons touchant à l'honorabilité ou à la qualification technique,
@@ -51,7 +51,3 @@ française, pour ses opérations sur ce territoire, une succursale où elle fait
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e
 et f de l'article R. 321-6 ainsi qu'aux c et e du présent article ne sont pas
 exigés.
-
-Toutefois, si par application du 4e alinéa de l'article R. 321-9 l'entreprise
-propose un second mandataire général, les documents mentionnés au c du présent
-article doivent être produits.

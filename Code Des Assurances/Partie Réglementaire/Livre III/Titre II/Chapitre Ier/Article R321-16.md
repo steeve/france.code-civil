@@ -1,10 +1,9 @@
 Article R321-16
 ----
 Les montants et modalités de constitution du cautionnement de réciprocité sont
-fixés par le ministre de l'économie et des finances de façon à représenter en
-monnaie française la contrepartie des cautionnement ou garantie exigés des
-entreprises françaises dans le pays auquel ressortit l'entreprise étrangère
-intéressée.
+fixés par le ministre de l'économie et des finances de façon à représenter la
+contrepartie des cautionnement ou garantie exigés des entreprises françaises
+dans le pays auquel ressortit l'entreprise étrangère intéressée.
 
 La restitution du cautionnement ne peut intervenir que s'il ne se trouve plus
 justifié par l'application du principe de réciprocité, ou lorsque l'entreprise

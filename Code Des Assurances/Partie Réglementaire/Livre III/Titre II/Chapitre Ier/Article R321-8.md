@@ -18,8 +18,7 @@ qu'elle fonctionne dans son pays d'origine conformément aux lois de ce pays ;
 c) La proposition à l'acceptation du ministre de l'économie et des finances, en
 vue d'obtenir l'agrément spécial prévu à l'article L. 321-2, d'une personne
 physique ou morale ayant la qualité de mandataire général et satisfaisant aux
-conditions fixées par décret en Conseil d'Etat pris après avis du conseil
-national des assurances ;
+conditions fixées par décret en Conseil d'Etat ;
 
 d) la justification que l'entreprise dispose sur le territoire de la République
 française d'actifs au moins égaux à la moitié du montant minimal du fonds de
@@ -39,7 +38,3 @@ française, pour ses opérations sur ce territoire, une succursale où elle fait
 II. - En cas de demande d'extension d'agrément, les documents mentionnés aux e
 et f de l'article R. 321-6 ainsi qu'aux c et f du présent article ne sont pas
 exigés.
-
-Toutefois, si par application du 4e alinéa de l'article R. 321-9 l'entreprise
-propose un second mandataire général, les documents mentionnés au c du présent
-article doivent être produits.
