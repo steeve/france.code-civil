@@ -62,3 +62,17 @@ Avant le 31 décembre de chaque année, la commission mentionnée à l'article L
 615-1 du code de la construction et de l'habitation adresse à la direction des
 services fiscaux du lieu de situation de ces logements la liste des logements et
 de leurs propriétaires répondant aux conditions mentionnées au premier alinéa.
+
+III. - Les constructions de logements neufs affectés à l'habitation principale
+faisant l'objet d'un contrat de location-accession en application de la loi n°
+84-595 du 12 juillet 1984 définissant la location-accession à la propriété
+immobilière sont exonérées de taxe foncière sur les propriétés bâties pendant
+une durée de quinze ans à compter de l'année suivant celle de leur achèvement
+lorsqu'elles font l'objet, dans des conditions fixées par décret, d'une
+convention et d'une décision d'agrément prise par le représentant de l'Etat dans
+le département. L'exonération est maintenue pour la période restant à courir
+lorsque le locataire-accédant lève l'option, le cas échéant jusqu'à la date de
+cession du logement, ou lorsque le logement fait l'objet d'un nouveau contrat de
+location-accession respectant les mêmes conditions que le précédent contrat ou
+qu'il est remis en location en faisant l'objet d'une convention prévue par
+l'article L. 353-2 du code de la construction et de l'habitation (1).

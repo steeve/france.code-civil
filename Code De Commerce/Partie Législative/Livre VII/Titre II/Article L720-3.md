@@ -22,7 +22,11 @@ véhicules de livraison ;
 
 3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette
 zone et des agglomérations concernées, ainsi que sur l'équilibre souhaitable
-entre les différentes formes de commerce ;
+entre les différentes formes de commerce. Lorsque le projet concerne la création
+ou l'extension d'un ensemble commercial, majoritairement composé de magasins
+spécialisés dans la commercialisation d'articles de marques à prix réduit,
+l'effet potentiel dudit projet est également apprécié indépendamment de la
+spécificité de la politique commerciale de ce type de magasins ;
 
 4° L'impact éventuel du projet en termes d'emplois salariés et non salariés ;
 

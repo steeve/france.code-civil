@@ -194,6 +194,6 @@ suivantes).
 IV. Les dégrèvements résultant de l'application du présent article sont
 ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
-V. Le dégrèvement accordé à un contribuable en application du présent article ne
-peut excéder 76 225 000 euros pour les impositions établies au titre de 1995 et
-des années suivantes.
+V. - Le montant total des dégrèvements accordés à un contribuable en application
+du présent article et de l'article 1647 C quinquies ne peut excéder 76 225 000
+euros.

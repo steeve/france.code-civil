@@ -7,10 +7,11 @@ n'ont pas la qualité de commerçants et de toutes occupations, exploitations
 lucratives et sources de profits ne se rattachant pas à une autre catégorie de
 bénéfices ou de revenus.
 
-2$ Ces bénéfices comprennent notamment :
+2. Ces bénéfices comprennent notamment :
 
-1° Les produits des opérations de bourse effectuées à titre habituel par les
-particuliers ;
+1° Les produits des opérations de bourse effectuées dans des conditions
+analogues à celles qui caractérisent une activité exercée par une personne se
+livrant à titre professionnel à ce type d'opérations ;
 
 2° Les produits de droits d'auteurs perçus par les écrivains ou compositeurs et
 par leurs héritiers ou légataires ;

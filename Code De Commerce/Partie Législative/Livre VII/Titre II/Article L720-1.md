@@ -12,3 +12,9 @@ Ils doivent également contribuer à la modernisation des équipements commercia
 à leur adaptation à l'évolution des modes de consommation et des techniques de
 commercialisation, au confort d'achat du consommateur et à l'amélioration des
 conditions de travail des salariés.
+
+Le programme national de développement et de modernisation des activités
+commerciales et artisanales visé à l'article 1er de la loi n° 73-1193 du 27
+décembre 1973 d'orientation du commerce et de l'artisanat exprime les
+orientations de l'équipement commercial pour la mise en oeuvre des objectifs
+ci-dessus définis.

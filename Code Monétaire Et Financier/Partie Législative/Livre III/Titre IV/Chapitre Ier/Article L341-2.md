@@ -35,9 +35,10 @@ professionnelle ;
 
 7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour
 le compte d'un établissement de crédit en vue de proposer des contrats de
-financement de ventes à tempérament aux personnes, physiques ou morales, autres
-que celles visées au 1°, à la condition que le nom de l'établissement prêteur et
-le coût du crédit soient mentionnés, sous peine de nullité ;
+financement de ventes à tempérament ou de location aux personnes, physiques ou
+morales, autres que celles visées au 1°, à la condition que le nom de
+l'établissement prêteur et le coût du crédit ou de la location soient
+mentionnés, sous peine de nullité ;
 
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un
 établissement de crédit, en vue de proposer des crédits visés au titre Ier du
