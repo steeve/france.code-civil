@@ -1,17 +1,11 @@
 Article L351-16
 ----
-Les agents non fonctionnaires de l'Etat et de ses établissements publics
-administratifs, ainsi que les agents des collectivités locales et des autres
-établissements publics administratifs ont droit, en cas de perte involontaire
-d'emploi, et à condition d'avoir été employés de manière permanente, à une
-indemnisation [*chomage*] dont les conditions d'attribution et de calcul
-analogues à celles qui sont définies à la section I du présent chapitre sont
-déterminées par décret en Conseil d'Etat.
+La condition de recherche d'emploi prévue à l'article L. 351-1 est satisfaite
+dès lors que les intéressés sont inscrits comme demandeurs d'emploi [*à l'ANPE*]
+et accomplissent des actes positifs de recherche d'emploi.
 
-Cette allocation est servie par la collectivité ou l'organisme employeur.
+Sont toutefois dispensés, à leur demande, de cette condition, les bénéficiaires
+des allocations prévues aux articles L. 351-3 et L. 351-10 qui satisfont à une
+condition d'âge.
 
-Les dispositions de l'alinéa premier sont également applicables aux personnels
-qui ont accompli un service continu pendant une durée déterminée alors même
-qu'ils n'ont pas été employés à titre permanent. Les catégories de personnels
-intéressés, les conditions d'ouverture du droit à l'allocation et notamment la
-durée de service continu exigé sont déterminées par voie réglementaire.
+Un décret en Conseil d'Etat fixe les mesures d'application du présent article.

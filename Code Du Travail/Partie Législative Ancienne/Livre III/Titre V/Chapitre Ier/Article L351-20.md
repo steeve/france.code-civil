@@ -1,9 +1,6 @@
 Article L351-20
 ----
-Les travailleurs involontairement privés d'emploi, bénéficiaires du revenu de
-remplacement prévu à l'article L. 351-5, peuvent effectuer pendant une durée
-limitée des taches d'intérêt général agréées par l'autorité administrative. Leur
-indemnisation peut être complété par une rémunération directement versée par
-l'organisme qui les emploie.
-
-Un décret en conseil d'état fixe les mesures d'application du présent article.
+Les allocations du présent chapitre peuvent se cumuler avec les revenus procurés
+par une activité occasionnelle ou réduite, ainsi qu'avec les prestations de
+sécurité sociale ou d'aide sociale dans les conditions et limites fixées par
+décret en Conseil d'Etat.
