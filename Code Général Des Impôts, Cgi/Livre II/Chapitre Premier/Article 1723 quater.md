@@ -5,7 +5,7 @@ bénéficiaire de l'autorisation de construire.
 
 Elle doit être versée au comptable du Trésor de la situation des biens en deux
 fractions égales ou en un versement unique lorsque le montant dû n'excède pas
-2.000 F.
+305 euros.
 
 Le premier versement ou le versement unique est exigible à l'expiration d'un
 délai de dix-huit mois à compter de la date de délivrance du permis de
@@ -39,10 +39,10 @@ constructeur.
 
 III. A défaut de paiement de la taxe dans les délais impartis au I, le
 recouvrement de cette taxe et de l'intérêt de retard et la majoration prévus à
-l'article 1731, premier alinéa, est poursuivi par les comptables du Trésor dans
-les conditions fixées au titre IV du livre des procédures fiscales. Il en est de
-même du recouvrement de la taxe ou du complément de taxe et de l'amende fiscale
-dans l'hypothèse visée au II.
+l'article 1731 est poursuivi par les comptables du Trésor dans les conditions
+fixées au titre IV du livre des procédures fiscales. Il en est de même du
+recouvrement de la taxe ou du complément de taxe et de l'amende fiscale dans
+l'hypothèse visée au II.
 
 IV. Le recouvrement de la taxe est garanti par le privilège prévu au 1 de
 l'article 1929.

@@ -5,7 +5,4 @@ Les sociétés, compagnies d'assurances et tous autres assureurs français ou
 de fournir à la direction des services fiscaux du lieu de leur principal
 établissement un relevé comportant les nom, prénoms et adresses des personnes
 ayant assuré des bijoux, pierreries, objets d'art, de collection ou d'antiquité
-pour un montant supérieur à 100.000 F (1).
-
-(1) Ces mêmes organismes doivent fournir, en outre, avant le 15 juin 1989, un
-relevé des contrats souscrits en 1986, 1987 et 1988.
+pour un montant supérieur à 15 000 euros.

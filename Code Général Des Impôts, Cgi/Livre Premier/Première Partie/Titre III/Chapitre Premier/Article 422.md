@@ -5,7 +5,7 @@ trois jours au moins à l'avance à l'administration. La quantité de sucre ajou
 à la vendange ne peut être supérieure, par hectare de vigne ayant effectivement
 produit les vins pour lesquels l'enrichissement par sucrage est autorisé, à 250
 kilogrammes dans les zones viticoles C et à 300 kilogrammes dans la zone
-viticole B. Le sucre ainsi utilisé est frappé d'une taxe de 80 F par 100
+viticole B. Le sucre ainsi utilisé est frappé d'une taxe de 13 euros par 100
 kilogrammes due au moment de l'emploi. A l'intérieur des régions délimitées de
 Cognac et d'Armagnac, les noms des producteurs qui se sont livrés à l'opération
 de sucrage en première cuvée sont relevés, dans chaque commune, sur un registre
@@ -22,6 +22,4 @@ puissance) lorsque, dans le même département, le sucrage en première cuvée e
 interdit pour la production des autres vins.
 
 Un arrêté interministériel pourra, s'il y a lieu, fixer les modalités
-d'application des deuxième et troisième alinéas qui précèdent.
-
-(1) Voir le 5° de l'article 350 quinquies de l'annexe III.
+d'application des deuxième et troisième alinéas.

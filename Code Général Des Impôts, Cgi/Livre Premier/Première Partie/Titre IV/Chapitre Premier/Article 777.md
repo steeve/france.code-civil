@@ -10,19 +10,19 @@ Tarif des droits applicables en ligne directe
 
 FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 50 000 F : 5 %.
+N'excédant pas 7 600 euros : 5 %.
 
-Comprise entre 50 000 et 75 000 F : 10 %.
+Comprise entre 7 600 et 11 400 euros : 10 %.
 
-Comprise entre 75 000 F et 100 000 F : 15 %.
+Comprise entre 11 400 euros et 15 000 euros : 15 %.
 
-Comprise entre 100 000 F et 3 400 000 F : 20 %.
+Comprise entre 15 000 euros et 520 000 euros : 20 %.
 
-Comprise entre 3 400 000 F et 5 600 000 F : 30 %.
+Comprise entre 520 000 euros et 850 000 euros : 30 %.
 
-Comprise entre 5 600 000 F et 11 200 000 F : 35 %.
+Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
 
-Au-delà de 11 200 000 F : 40 %.
+Au-delà de 1 700 000 euros : 40 %.
 
 
 TABLEAU II
@@ -31,22 +31,22 @@ Tarif des droits applicables entre époux
 
 FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 50 000 F : 5 %.
+N'excédant pas 7 600 euros : 5 %.
 
-Comprise entre 50 000 et 100 000 F : 10 %.
+Comprise entre 7 600 et 15 000 euros: 10 %.
 
-Comprise entre 100 000 F et 200 000 F : 15 %.
+Comprise entre 15 000 euros et 30 000 euros : 15 %.
 
-Comprise entre 200 000 F et 3 400 000 F : 20 %.
+Comprise entre 30 000 euros et 520 000 euros : 20 %.
 
-Comprise entre 3 400 000 F et 5 600 000 F : 30 %.
+Comprise entre 520 000 euros et 850 000 euros : 30 %.
 
-Comprise entre 5 600 000 F et 11 200 000 F : 35 %.
+Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
 
-Au-delà de 11 200 000 F : 40 %.
+Au-delà de 1 700 000 euros : 40 %.
 
 Les trois derniers tarifs sont applicables aux mutations à titre gratuit entre
-vifs consentis par actes passés à compter du 14 septembre 1983 et aux
+vifs consenties par actes passés à compter du 14 septembre 1983 et aux
 successions ouvertes à compter du 1er janvier 1984.
 
 
@@ -58,9 +58,9 @@ FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
 
 Entre frères et soeurs :
 
-N'excédant pas 150 000 F : 35 %.
+N'excédant pas 23 000 euros : 35 %.
 
-Supérieure à 150 000 F : 45 %.
+Supérieure à 23 000 euros : 45 %.
 
 Entre parents jusqu'au quatrième degré inclusivement : 55 %.
 

@@ -2,11 +2,11 @@ Article 1788 octies
 ----
 Le défaut de présentation ou de tenue des registres, du double des factures ou
 des documents en tenant lieu et des différentes pièces justificatives prévus au
-III de l'article 277 A donne lieu à l'application d'une amende de 5 000 F.
+III de l'article 277 A donne lieu à l'application d'une amende de 750 euros.
 
 Chaque omission ou inexactitude relevée dans les renseignements devant figurer
 sur les registres prévus au 1° du III de l'article 277 A donne lieu à
-l'application d'une amende de 100 F.
+l'application d'une amende de 15 euros.
 
 Les manquants ou excédents constatés, dans le cadre de la mise en oeuvre de la
 procédure prévue aux articles L. 80 K et L. 80 L du livre des procédures

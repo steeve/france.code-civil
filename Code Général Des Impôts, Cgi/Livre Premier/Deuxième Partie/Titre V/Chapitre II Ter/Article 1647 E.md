@@ -1,11 +1,11 @@
 Article 1647 E
 ----
 I. - La cotisation de taxe professionnelle des entreprises dont le chiffre
-d'affaires est supérieur à 50 millions de francs est au moins égale à 1,5 % de
-la valeur ajoutée produite par l'entreprise, telle que définie au II de
-l'article 1647 B sexies. Le chiffre d'affaires et la valeur ajoutée à prendre en
-compte sont ceux de l'exercice de douze mois clos pendant l'année d'imposition
-ou, à défaut d'un tel exercice, ceux de l'année d'imposition.
+d'affaires est supérieur à 7 600 000 euros est au moins égale à 1,5 % de la
+valeur ajoutée produite par l'entreprise, telle que définie au II de l'article
+1647 B sexies. Le chiffre d'affaires et la valeur ajoutée à prendre en compte
+sont ceux de l'exercice de douze mois clos pendant l'année d'imposition ou, à
+défaut d'un tel exercice, ceux de l'année d'imposition.
 
 Par exception, le taux visé au premier alinéa est fixé à 1 % au titre de 1999 et
 à 1,2 % au titre de 2000.
@@ -32,4 +32,4 @@ celle au titre de laquelle les cotisations de taxe professionnelle visées au II
 sont dues.
 
 V. (Transféré sous les articles 1668 A bis du CGI et L174 du Livre des
-procédures fiscales)
+procédures fiscales).

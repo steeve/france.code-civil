@@ -6,4 +6,5 @@ civils et de famille, suivant les modalités prévues par l'article 131-26 du co
 pénal.
 
 En cas de récidive dans le délai de cinq ans, les personnes visées au premier
-alinéa sont punies d'une amende de 360 000 F et d'un emprisonnement de dix ans.
+alinéa sont punies d'une amende de 45 000 euros et d'un emprisonnement de dix
+ans.

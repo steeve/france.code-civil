@@ -22,12 +22,12 @@ caisse du comptable du Trésor chargé du recouvrement des impôts directs, le
 tarif des frais de saisie est réduit à 1 %. Il en est de même dans le cas où le
 contribuable se libère dans le délai d'un jour franc à compter de la saisie.
 
-Les frais à la charge des contribuables comportent un minimum de 50 F pour le
-commandement et de 100 F pour les actes de poursuites autres que le
+Les frais à la charge des contribuables comportent un minimum de 7,5 euros pour
+le commandement et de 15 euros pour les actes de poursuites autres que le
 commandement.
 
 Les frais accessoires aux poursuites sont déterminés par un décret contresigné
-par le ministre de l'économie et des finances (1).
+par le ministre de l'économie et des finances.
 
 2. En matière d'impôts directs, la taxe des frais de poursuites à recouvrer sur
 le débiteur est faite par le receveur des finances.
@@ -39,5 +39,3 @@ la perception incombe aux comptables de la direction générale des impôts.
 3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles
 des remises ou modérations de frais de poursuites et de majorations appliquées
 au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
-
-(1) Annexe III, art. 415 et 416.

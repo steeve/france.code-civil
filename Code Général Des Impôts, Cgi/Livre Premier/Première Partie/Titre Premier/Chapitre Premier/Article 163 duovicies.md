@@ -3,8 +3,8 @@ Article 163 duovicies
 Le montant des sommes effectivement versées pour les souscriptions en numéraire
 au capital des sociétés mentionnées à l'article 238 bis HO est déductible du
 revenu net global ; cette déduction ne peut pas excéder 25 % de ce revenu, dans
-la limite annuelle de 125 000 F pour les contribuables célibataires, veufs ou
-divorcés et de 250 000 F pour les contribuables mariés soumis à imposition
+la limite annuelle de 19 000 euros pour les contribuables célibataires, veufs ou
+divorcés et de 38 000 euros pour les contribuables mariés soumis à imposition
 commune.
 
 En cas de cession de tout ou partie des titres souscrits dans les cinq ans de

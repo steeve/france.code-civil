@@ -19,12 +19,13 @@ l'article 44 septies et, s'il s'agit de sociétés, ne sont pas détenues à plu
 50 p. 100 par une entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux
-exercices suivants un chiffre d'affaires qui n'excède pas 30 millions de francs
+exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 euros
 lorsque l'activité principale est de vendre des marchandises, objets,
 fournitures et denrées à emporter ou à consommer sur place ou de fournir le
-logement, ou 10 millions s'il s'agit d'autres entreprises ;
+logement, ou 1 530 000 euros s'il s'agit d'autres entreprises ;
 
-d. (Abrogé) ;
+d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter du
+1er janvier 1996).
 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des
 travailleurs non salariés relevant des groupes de professions mentionnés au 1°
@@ -48,12 +49,12 @@ mentionné au premier alinéa du 3° du 1 de l'article 39.
 
 Les dispositions du présent I ne s'appliquent pas lorsque l'entreprise nouvelle
 ou reprise exerce une activité bancaire, financière, d'assurance, de gestion ou
-de location d'immeubles (1).
+de location d'immeubles.
 
 II. La provision spéciale constituée en franchise d'impôt est égale à la moitié
 des sommes effectivement versées au titre du prêt ou à 75 p. 100 du montant
-effectivement souscrit en capital ; elle ne peut excéder 300 000 F pour un même
-salarié.
+effectivement souscrit en capital ; elle ne peut excéder 46 000 euros pour un
+même salarié.
 
 Les sommes déduites du bénéfice d'un exercice, au titre de la provision
 spéciale, ne peuvent excéder 25 % du bénéfice net imposable de l'exercice
@@ -84,8 +85,4 @@ société détenant plus de 50 p. 100 du capital de la société qui employait l
 créateurs de l'entreprise.
 
 IV. Un décret fixe les conditions d'application du présent article, notamment
-les obligations déclaratives (2).
-
-(1) Dispositions applicables aux prêts consentis à compter du 1er octobre 1993.
-
-(2) Voir les articles 10 G bis et 10 G ter de l'annexe III.
+les obligations déclaratives (1).

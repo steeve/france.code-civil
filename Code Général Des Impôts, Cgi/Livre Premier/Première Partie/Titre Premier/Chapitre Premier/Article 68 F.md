@@ -3,7 +3,8 @@ Article 68 F
 1. Un régime transitoire d'imposition s'applique sur option aux exploitants
 agricoles qui ne sont pas déjà soumis à un régime réel d'imposition et qui
 exercent à titre individuel lorsque la moyenne de leurs recettes mesurée dans
-les conditions prévues à l'article 69 est comprise entre 500 000 F et 750 000 F.
+les conditions prévues à l'article 69 est comprise entre 76 300 euros et 114 400
+euros.
 
 Les agriculteurs soumis au régime du forfait peuvent opter pour l'application de
 ce régime. L'option doit être formulée avant le 1er mai de l'année au titre de

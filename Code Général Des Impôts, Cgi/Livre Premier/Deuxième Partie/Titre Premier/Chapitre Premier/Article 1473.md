@@ -9,7 +9,5 @@ exercées par les redevables visés au 2° de l'article 1467 est établie au lie
 principal établissement mentionné par les intéressés sur leur déclaration de
 résultats.
 
-L'abattement de 25.000 F prévu au 4° de l'article 1469 s'applique dans la
+L'abattement de 3 800 euros prévu au 4° de l'article 1469 s'applique dans la
 commune du principal établissement.
-
-(1) Annexe II, art. 310 HK.

@@ -26,7 +26,7 @@ assimilées et les contributions indirectes.
 
 4. La publicité est obligatoire lorsque les sommes dues par un redevable à un
 même poste comptable ou service assimilé et susceptibles d'être inscrites
-dépassent 80.000 F au dernier jour d'un trimestre civil. Les sommes qui ne
+dépassent 12 200 euros au dernier jour d'un trimestre civil. Les sommes qui ne
 dépassent pas le montant minimum peuvent également être inscrites.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu
@@ -52,8 +52,3 @@ ans, sauf renouvellement.
 délais des inscriptions et de leur radiation sont fixées par un décret en
 conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et
 du garde des sceaux, ministre de la justice (2).
-
-(1) De règlement judiciaire ou de liquidation de biens pour les procédures
-ouvertes avant le 1er janvier 1986.
-
-(2) Annexe II, art. 396 bis.

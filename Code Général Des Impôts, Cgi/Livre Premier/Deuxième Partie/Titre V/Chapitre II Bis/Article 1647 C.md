@@ -13,7 +13,7 @@ supérieur à 16 tonnes ;
 c) d'autocars dont le nombre de places assises, hors strapontins est égal ou
 supérieur à quarante,
 
-fait l'objet d'un dégrèvement d'un montant de 800 F par véhicule ;
+fait l'objet d'un dégrèvement d'un montant de 122 euros par véhicule ;
 
 II. a) Au titre de 1998 et 1999, pour bénéficier du dégrèvement prévu au I, les
 entreprises doivent souscrire, avant le 31 janvier de l'année d'imposition, une

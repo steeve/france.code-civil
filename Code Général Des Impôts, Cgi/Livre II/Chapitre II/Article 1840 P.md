@@ -2,7 +2,7 @@ Article 1840 P
 ----
 1. Ceux qui ont sciemment employé, vendu ou tenté de vendre des timbres mobiles
 ayant déjà servi, sont poursuivis devant le tribunal correctionnel et punis
-d'une amende de 25 000 F. En cas de récidive, la peine est d'un emprisonnement
+d'une amende de 3 750 €. En cas de récidive, la peine est d'un emprisonnement
 d'un mois et l'amende est doublée.
 
 Les dispositions du présent article sont applicables dans tous les cas où un

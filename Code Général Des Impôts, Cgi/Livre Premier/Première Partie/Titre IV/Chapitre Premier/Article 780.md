@@ -4,9 +4,9 @@ Lorsqu'un héritier, donataire ou légataire a trois enfants ou plus, vivants ou
 représentés au jour de la donation ou au moment de l'ouverture de ses droits à
 la succession, il bénéficie, sur l'impôt à sa charge liquidé conformément aux
 dispositions des articles 777, 777 bis, 779 et 788 et 790 B, d'une réduction de
-100 % qui ne peut, toutefois, excéder 2 000 F par enfant en sus du deuxième. Ce
-maximum est porté à 4 000 F en ce qui concerne les donations et successions en
-ligne directe et entre époux.
+100 % qui ne peut, toutefois, excéder 305 euros par enfant en sus du deuxième.
+Ce maximum est porté à 610 euros en ce qui concerne les donations et successions
+en ligne directe et entre époux.
 
 Le bénéfice de cette disposition est subordonné à la production soit d'un
 certificat de vie dispensé de timbre et d'enregistrement, pour chacun des

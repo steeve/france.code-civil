@@ -7,4 +7,4 @@ propriétaire de la totalité des biens sont, au point de vue fiscal, réputés
 transmis à titre gratuit à chacun des bénéficiaires de l'accroissement.
 
 Cette disposition ne s'applique pas à l'habitation principale commune à deux
-acquéreurs lorsque celle-ci a une valeur globale inférieure à 500.000 F.
+acquéreurs lorsque celle-ci a une valeur globale inférieure à 76 000 euros.

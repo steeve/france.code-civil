@@ -7,11 +7,7 @@ perçue au taux de 0,60 %.
 Elle est liquidée sur les sommes garanties en capital, intérêts et accessoires,
 même indéterminées, éventuelles ou conditionnelles, exprimées ou évaluées dans
 le bordereau. Il n'est perçu qu'une seule taxe pour chaque créance quel que soit
-le nombre des créanciers requérants et celui des débiteurs grevés (1).
+le nombre des créanciers requérants et celui des débiteurs grevés.
 
 Les inscriptions qui échappent à la taxe proportionnelle sont soumises à une
-taxe fixe de 100 F (2).
-
-(1) Voir Annexe III, art. 261.
-
-(2) A compter du 15 janvier 1992.
+taxe fixe de 15 euros.

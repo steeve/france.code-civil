@@ -5,5 +5,5 @@ délivrance du permis de construire ou du permis modificatif, soit de
 l'autorisation tacite de construire, soit du procès-verbal constatant les
 infractions.
 
-Lorsque le produit de la liquidation de la taxe n'atteint pas la somme de 80
-Francs, elle n'est pas mise en recouvrement.
+Lorsque le produit de la liquidation de la taxe n'atteint pas la somme de 12
+euros, elle n'est pas mise en recouvrement.

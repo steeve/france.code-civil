@@ -9,5 +9,5 @@ dirigeant ou d'employé et, s'il y a lieu, la fermeture de l'établissement.
 Toute personne qui contrevient à cette interdiction, soit en exerçant la
 profession qui lui est interdite, soit en employant sciemment les services d'un
 tiers auquel l'exercice de la profession est interdite en vertu du présent
-article, est passible d'une amende de 120 000 F et d'un emprisonnement de deux
-ans au plus ou de l'une de ces deux peines seulement.
+article, est passible d'une amende de 18 000 euros et d'un emprisonnement de
+deux ans au plus ou de l'une de ces deux peines seulement.

@@ -1,25 +1,25 @@
 Article 50-0
 ----
 1. Les entreprises dont le chiffre d'affaires annuel, ajusté s'il y a lieu au
-prorata du temps d'exploitation au cours de l'année civile, n'excède pas 500 000
-F hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre
-des marchandises, objets, fournitures et denrées à emporter ou à consommer sur
-place, ou de fournir le logement, ou 175 000 F hors taxes s'il s'agit d'autres
-entreprises, sont soumises au régime défini au présent article pour l'imposition
-de leurs bénéfices.
+prorata du temps d'exploitation au cours de l'année civile, n'excède pas 76 300
+euros hors taxes s'il s'agit d'entreprises dont le commerce principal est de
+vendre des marchandises, objets, fournitures et denrées à emporter ou à
+consommer sur place, ou de fournir le logement, ou 27 000 euros hors taxes s'il
+s'agit d'autres entreprises, sont soumises au régime défini au présent article
+pour l'imposition de leurs bénéfices.
 
 Lorsque l'activité d'une entreprise se rattache aux deux catégories définies au
 premier alinéa, le régime défini au présent article n'est applicable que si son
-chiffre d'affaires hors taxes global annuel n'excède pas 500 000 F et si le
+chiffre d'affaires hors taxes global annuel n'excède pas 76 300 euros et si le
 chiffre d'affaires hors taxes annuel afférent aux activités de la 2e catégorie
-ne dépasse pas 175 000 F.
+ne dépasse pas 27 000 euros.
 
 Le résultat imposable, avant prise en compte des plus ou moins-values provenant
 de la cession des biens affectés à l'exploitation, est égal au montant du
 chiffre d'affaires hors taxes diminué d'un abattement de 70 % pour le chiffre
 d'affaires provenant d'activités de la 1re catégorie et d'un abattement de 50 %
 pour le chiffre d'affaires provenant d'activités de la 2e catégorie. Ces
-abattements ne peuvent être inférieurs à 2 000 F.
+abattements ne peuvent être inférieurs à 305 euros.
 
 Les plus ou moins-values mentionnées au troisième alinéa sont déterminées et
 imposées dans les conditions prévues aux articles 39 duodecies à 39 quindecies,
@@ -81,9 +81,9 @@ l'année précédant celle au cours de laquelle elle est exercée. En cas de
 création, l'option peut être exercée sur la déclaration visée au 1° du I de
 l'article 286.
 
-Les options mentionnées au premier alinéa sont valables cinq ans tant que
+Les options mentionnées au premier alinéa sont valables deux ans (1) tant que
 l'entreprise reste de manière continue dans le champ d'application du présent
-article. Elles sont reconduites tacitement par période de cinq ans. Les
+article. Elles sont reconduites tacitement par période de deux ans (1). Les
 entreprises qui désirent renoncer à leur option pour un régime réel d'imposition
 doivent notifier leur choix à l'administration avant le 1er février de l'année
 suivant la période pour laquelle l'option a été exercée ou reconduite
@@ -93,6 +93,7 @@ tacitement.
 présenter, sur demande de l'administration, un registre récapitulé par année,
 présentant le détail de leurs achats et un livre-journal servi au jour le jour
 et présentant le détail de leurs recettes professionnelles, appuyés des factures
-et de toutes autres pièces justificatives (1).
+et de toutes autres pièces justificatives.
 
-(1) Dispositions applicables pour les résultats des années 1999 et suivantes.
+(1) Ces dispositions s'appliquent aux options exercées à compter du 1er janvier
+2002 et aux options en cours à cette date.

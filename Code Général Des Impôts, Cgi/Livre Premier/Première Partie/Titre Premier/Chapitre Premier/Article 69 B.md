@@ -11,7 +11,8 @@ Les dispositions du deuxième alinéa s'appliquent aux exercices ouverts à comp
 du 1er janvier 1993.
 
 Toutefois, lorsque les recettes d'un exploitant agricole individuel, mesurées
-sur la moyenne de deux années consécutives, s'abaissent en dessous de 300 000 F
-l'intéressé peut, sur option, être soumis au régime du forfait à compter du 1er
-janvier de l'année qui suit la période biennale de référence. L'option doit être
-formulée avant le 1er mai de la première année à laquelle elle s'applique.
+sur la moyenne de deux années consécutives, s'abaissent en dessous de 46 000
+euros l'intéressé peut, sur option, être soumis au régime du forfait à compter
+du 1er janvier de l'année qui suit la période biennale de référence. L'option
+doit être formulée avant le 1er mai de la première année à laquelle elle
+s'applique.

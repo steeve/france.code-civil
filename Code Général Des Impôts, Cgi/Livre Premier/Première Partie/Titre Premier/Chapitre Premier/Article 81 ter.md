@@ -1,6 +1,6 @@
 Article 81 ter
 ----
-Sont affranchis de l'impôt dans la limite annuelle de 3 000 F :
+Sont affranchis de l'impôt dans la limite annuelle de 460 € :
 
 1. Le montant des prélèvements opérés sur les salaires à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés, en

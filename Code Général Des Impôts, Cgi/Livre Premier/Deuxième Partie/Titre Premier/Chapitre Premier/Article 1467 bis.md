@@ -4,10 +4,10 @@ Pour les impositions établies au titre de 1999 à 2002, la fraction imposable d
 salaires et rémunérations visés au b du 1° de l'article 1467 est réduite, par
 redevable et par commune, de :
 
-a) 100 000 F au titre de 1999 ;
+a) 15 245 euros au titre de 1999 ;
 
-b) 300 000 F au titre de 2000 ;
+b) 45 735 euros au titre de 2000 ;
 
-c) 1 000 000 F au titre de 2001 ;
+c) 152 449 euros au titre de 2001 ;
 
-d) et 6 000 000 F au titre de 2002.
+d) et 914 694 euros au titre de 2002.

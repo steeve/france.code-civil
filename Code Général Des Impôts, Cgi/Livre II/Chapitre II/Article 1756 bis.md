@@ -13,7 +13,7 @@ sommes excédant les plafonds autorisés.
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
 commission bancaire, les infractions aux dispositions du présent article sont
 punies d'une amende fiscale dont le taux est égal au montant des intérêts payés,
-sans que cette amende puisse être inférieure à 500 F.
+sans que cette amende puisse être inférieure à 75 euros.
 
 Un décret pris sur le rapport du ministre de l'économie et des finances fixe les
 modalités d'application du présent article, et notamment les conditions dans
@@ -23,5 +23,3 @@ II. Les dispositions du I s'appliquent, quels que soient les entreprises,
 établissements ou organismes dépositaires, au régime de l'épargne populaire créé
 par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne
 populaire.
-
-(1) Annexe III, art. 406 A 16 A à 406 A 16 F.

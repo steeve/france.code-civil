@@ -3,29 +3,29 @@ Article 223 septies
 Les personnes morales passibles de l'impôt sur les sociétés sont assujetties à
 une imposition forfaitaire annuelle d'un montant fixé à :
 
-5.000 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 500.000 F et 1.000.000 F ;
+750 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 76 000 euros et 150 000 euros ;
 
-7.500 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 1.000.000 F et 2.000.000 F ;
+1 125 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 150 000 euros et 300 000 euros ;
 
-10.500 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 2.000.000 F et 5.000.000 F ;
+1 575 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 300 000 euros et 750 000 euros ;
 
-14.500 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 5.000.000 F et 10.000.000 F ;
+2 175 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 750 000 euros et 1 500 000 euros ;
 
-25 000 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 10 000 000 F et 50 000 000 F ;
+3 750 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 1 500 000 euros et 7 500 000 euros ;
 
-100 000 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 50 000 000 F et 100 000 000 F ;
+15 000 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 7 500 000 euros et 15 000 000 euros ;
 
-125 000 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 100 000 000 F et 500 000 000 F ;
+18 750 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est compris entre 15 000 000 euros et 75 000 000 euros ;
 
-200 000 F pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est égal ou supérieur à 500 000 000 F.
+30 000 euros pour les personnes morales dont le chiffre d'affaires majoré des
+produits financiers est égal ou supérieur à 75 000 000 euros.
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires,
 tous droits et taxes compris, du dernier exercice clos.

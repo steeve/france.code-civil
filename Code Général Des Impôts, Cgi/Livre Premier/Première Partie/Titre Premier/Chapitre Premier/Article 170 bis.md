@@ -13,6 +13,6 @@ plaisance ou un ou plusieurs chevaux de course ;
 secondaires, permanentes ou temporaires, en France ou hors de France ;
 
 4° Les personnes dont la résidence principale présente une valeur locative ayant
-excédé, au cours de l'année de l'imposition, 1.000 F à Paris et dans les
-communes situées dans un rayon de 30 kilomètres de Paris, 750 F dans les autres
-localités.
+excédé, au cours de l'année de l'imposition, 150 euros à Paris et dans les
+communes situées dans un rayon de 30 kilomètres de Paris, 114 euros dans les
+autres localités.

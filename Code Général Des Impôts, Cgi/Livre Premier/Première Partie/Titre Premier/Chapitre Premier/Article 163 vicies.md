@@ -5,11 +5,11 @@ acquièrent, entre le 1er janvier 1991 et le 31 décembre 1999, des parts de
 copropriété de navires civils de charge ou de pêche neufs et livrés au cours de
 la même période, bénéficient d'une déduction de leur revenu net global.
 
-La déduction est égale à 25 p. 100 de la somme des versements effectués pour
+La déduction est égale à 25 % de la somme des versements effectués pour
 l'acquisition des parts jusqu'à la livraison des navires. Elle est opérée au
-titre de l'année de la livraison des navires dans la limite annuelle de 25.000 F
-pour une personne célibataire, veuve ou divorcée, ou 50.000 F pour un couple
-marié.
+titre de l'année de la livraison des navires dans la limite annuelle de 3 800
+euros pour une personne célibataire, veuve ou divorcée, ou 7 600 euros pour un
+couple marié.
 
 Pour bénéficier de la déduction, les conditions suivantes doivent être réunies :
 
@@ -28,6 +28,8 @@ rupture de ces engagements, la déduction pratiquée est ajoutée au revenu
 imposable de l'année au cours de laquelle la rupture est intervenue.
 
 Le contribuable qui pratique la déduction ne peut bénéficier pour le même navire
-des dispositions de l'article 163 tervicies. Un décret fixe les modalités
-d'application du présent article et notamment les obligations déclaratives qui
-incombent aux contribuables et aux copropriétés de navires.
+des dispositions de l'article 163 tervicies.
+
+Un décret fixe les modalités d'application du présent article et notamment les
+obligations déclaratives qui incombent aux contribuables et aux copropriétés de
+navires.

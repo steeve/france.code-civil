@@ -21,7 +21,7 @@ vendus, du service rendu ou de l'opération imposable, ainsi que le prix de la
 vente ou de l'achat, ou le montant des courtages, commissions, remises,
 salaires, prix de location, intérêts, escomptes, agios ou autres profits.
 Toutefois, les opérations au comptant peuvent être inscrites globalement en
-comptabilité à la fin de chaque journée lorsqu'elles sont inférieures à 500 F
+comptabilité à la fin de chaque journée lorsqu'elles sont inférieures à 76 €
 pour les ventes au détail et les services rendus à des particuliers. Le montant
 des opérations inscrites sur le livre est totalisé à la fin du mois.
 
@@ -36,7 +36,7 @@ relatives à des opérations ouvrant droit à une déduction doivent être d'ori
 désignés par décrets, pour chaque catégorie d'assujettis, tant au principal
 établissement que dans les succursales ou agences, toutes justifications
 nécessaires à la fixation des opérations imposables, sans préjudice des
-dispositions de l'article L85 du livre des procédures fiscales.
+dispositions de l'article L. 85 du livre des procédures fiscales.
 
 II. Les assujettis bénéficiant d'une franchise de taxe mentionnée à l'article
 293 B sont dispensés des obligations mentionnées au 3° du I. Ils doivent
@@ -45,6 +45,3 @@ récapitulé par année, présentant le détail de leurs achats, ainsi qu'un
 livre-journal servi au jour le jour et présentant le détail de leurs recettes
 professionnelles afférentes à ces opérations, appuyés des factures et de toutes
 autres pièces justificatives (1).
-
-(1) Ces dispositions sont applicables pour la détermination des résultats des
-années 1999 et suivantes.

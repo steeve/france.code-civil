@@ -7,8 +7,8 @@ travail clandestin est tenue solidairement avec ce dernier au paiement des
 impôts et taxes dus par celui-ci au Trésor.
 
 Toute personne qui ne s'est pas assurée, lors de la conclusion d'un contrat dont
-l'objet porte sur une obligation d'un montant au moins égal à 20 000 F en vue de
-l'exécution d'un travail, de la fourniture d'une prestation de services ou de
+l'objet porte sur une obligation d'un montant au moins égal à 3 000 euros en vue
+de l'exécution d'un travail, de la fourniture d'une prestation de services ou de
 l'accomplissement d'un acte de commerce, que son cocontractant s'acquitte de ses
 obligations au regard de l'article L. 324-10 du code du travail, ou de l'une
 d'entre elles seulement, dans le cas d'un contrat conclu par un particulier pour

@@ -22,4 +22,4 @@ bis de l'article 158.
 II. La contribution est mise en recouvrement et exigible en même temps, le cas
 échéant, que la contribution sociale instituée par l'article L. 136-6 du code de
 la sécurité sociale. Il n'est pas procédé au recouvrement lorsque le montant
-total par article de rôle est inférieur à 160 F.
+total par article de rôle est inférieur à 61 euros.

@@ -1,9 +1,9 @@
 Article 848
 ----
-Sont soumis à un droit d'enregistrement de 500 F (1) :
+Sont soumis à un droit d'enregistrement de 75 euros :
 
 1° Les certificats de propriété, autres que ceux établis par les secrétariats
-des juridictions judiciaires.
+des juridictions judiciaires ;
 
 2° Les inventaires de meubles, objets mobiliers, titres et papiers.
 
@@ -19,5 +19,3 @@ qui sont faites par contrat de mariage entre les futurs ou par d'autres
 personnes ;
 
 6° Les acceptations pures et simples de successions, legs ou communautés.
-
-(1) A compter du 15 janvier 1992.

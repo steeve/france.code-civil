@@ -7,7 +7,7 @@ d'aménagement, notamment de reconversion des friches industrielles et de leurs
 abords, qui lui sont confiées.
 
 Le montant de cette taxe est arrêté avant le 31 décembre de chaque année, pour
-l'année suivante, dans la limite de 60 millions de francs, par le conseil
+l'année suivante, dans la limite de 9 147 000 euros, par le conseil
 d'administration de l'établissement public et notifié aux services fiscaux.
 
 La taxe est répartie et recouvrée, dans la zone de compétence de

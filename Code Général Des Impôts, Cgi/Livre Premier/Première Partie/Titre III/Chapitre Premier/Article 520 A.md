@@ -4,10 +4,10 @@ I. Il est perçu un droit spécifique :
 
 a) Sur les bières, dont le taux, par hectolitre, est fixé à :
 
-8,50 F par degré alcoométrique pour les bières dont le titre alcoométrique
+1,30 euro par degré alcoométrique pour les bières dont le titre alcoométrique
 n'excède pas 2,8 p. 100 vol. ;
 
-17 F par degré alcoométrique pour les autres bières ;
+2,60 euros par degré alcoométrique pour les autres bières ;
 
 Dans les dispositions du présent code relatives aux contributions indirectes,
 sont compris sous la dénomination de bière, tout produit relevant du code NC
@@ -19,28 +19,22 @@ vol. ;
 b) Sur les boissons non alcoolisées énumérées ci-après dont le tarif, par
 hectolitre, est fixé à :
 
-3,50 F pour les eaux minérales naturelles ou artificielles, eaux de table, eaux
-de laboratoire filtrées, stérilisées ou pasteurisées, ainsi que pour les
-boissons gazéifiées ou non, ne renfermant pas plus de 1,2 p. 100 vol. d'alcool,
-commercialisées en fûts, bouteilles ou boîtes, à l'exception des sirops et des
-jus de fruits et de légumes et des nectars de fruits.
+0,54 euro pour les eaux minérales naturelles ou artificielles, eaux de source et
+autres eaux potables, eaux de laboratoire filtrées, stérilisées ou pasteurisées,
+ainsi que pour les boissons gazéifiées ou non, ne renfermant pas plus de 1,2 p.
+100 vol. d'alcool, livrées à titre onéreux ou gratuit en fûts, bouteilles ou
+boîtes, à l'exception des sirops et des jus de fruits et de légumes et des
+nectars de fruits.
 
 II. Pour les eaux et boissons mentionnées au b du I, le droit est dû par les
-fabricants, exploitants de sources ou importateurs sur toutes les quantités
-commercialisées sur le marché intérieur, y compris la Corse et les départements
-d'outre-mer.
+fabricants, les exploitants de sources, les importateurs et les personnes qui
+réalisent des acquisitions intracommunautaires sur toutes les quantités livrées
+à titre onéreux ou gratuit sur le marché intérieur, y compris la Corse et les
+départements d'outre-mer.
 
 Le droit est liquidé lors du dépôt, au service de l'administration dont dépend
-le redevable, du relevé des quantités commercialisées au cours du mois
-précédent. Ce relevé doit être déposé et l'impôt acquitté avant le 25 de chaque
-mois (1).
-
-Pour les eaux et boissons visées au b du I, le droit est également dû par les
-personnes qui réalisent des acquisitions intracommunautaires sur toutes les
-quantités commercialisées sur le marché intérieur, y compris la Corse et les
-départements d'outre-mer.
+le redevable, du relevé des quantités livrées au cours du mois précédent. Ce
+relevé doit être déposé et l'impôt acquitté avant le 25 de chaque mois (1).
 
 III. Les modalités d'application des dispositions qui précèdent seront, en tant
 que de besoin, fixées par décret.
-
-(1) Voir annexe III art. 350 decies.

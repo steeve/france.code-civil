@@ -1,11 +1,11 @@
 Article 827
 ----
 I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité
-foncière de 1 500 F :
+foncière de 230 euros :
 
 1° Les actes constatant l'attribution d'actif net faite à un ou plusieurs
 organismes attributaires par une société d'habitations à loyer modéré, en vertu
-de l'article L422-11, premier alinéa, du code de la construction et de
+du premier alinéa de l'article L422-11 du code de la construction et de
 l'habitation, quelle que soit la nature des biens compris dans l'actif net
 attribué.
 

@@ -1,6 +1,6 @@
 Article 1560
 ----
-I. Le tarif d'imposition des spectacles est fixé comme suit :
+I. Le tarif d'imposition des spectacles est fixé dans le tableau ci-après :
 
 NATURE DES SPECTACLES, JEUX ET DIVERTISSEMENTS / TARIF.
 
@@ -10,13 +10,11 @@ A : néant
 
 B : Réunions sportives autres que celles classées en 3e catégorie : 8 %.
 
-DEUXIEME CATEGORIE : néant
+DEUXIEME CATEGORIE : ...
 
 TROISIEME CATEGORIE :
 
-Courses d'automobiles, spectacles de tir aux aux pigeons :
-
-14 %.
+Courses d'automobiles, spectacles de tir aux pigeons : 14 %.
 
 QUATRIEME CATEGORIE :
 
@@ -24,11 +22,11 @@ Cercles et maisons de jeux :
 
 Par paliers de recettes annuelles :
 
-Jusqu'à 200.000 F : 10 %.
+Jusqu'à 30 490 euros : 10 %.
 
-Au-dessus de 200.000 F et jusqu'à 1.500.000 F : 40 %.
+Au-dessus de 30 490 euros et jusqu'à 228 700 euros : 40 %.
 
-Au-dessus de 1.500.000 F : 70 %.
+Au-dessus de 228 700 euros : 70 %.
 
 CINQUIEME CATEGORIE / Taxe annuelle par appareil :
 
@@ -39,13 +37,13 @@ consommation :
 
 Dans les communes de :
 
-1.000 habitants et au-dessous : 100 F.
+1 000 habitants et au-dessous : 16 euros.
 
-1.001 à 10.000 habitants : 200 F.
+1 001 à 10 000 habitants : 31 euros.
 
-10.001 à 50.000 habitants : 400 F.
+10 001 à 50 000 habitants : 61 euros.
 
-Plus de 50.000 habitants : 600 F.
+Plus de 50 000 habitants : 92 euros.
 
 II. Les conseils municipaux peuvent :
 

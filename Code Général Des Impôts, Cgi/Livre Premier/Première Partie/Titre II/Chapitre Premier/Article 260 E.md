@@ -3,7 +3,8 @@ Article 260 E
 I. Les entreprises mentionnées au 2° du 3 de l'article 261 peuvent être
 autorisées à acquitter la taxe sur la valeur ajoutée pour leurs livraisons de
 déchets neufs d'industrie et de matières de récupération, lorsque le montant
-annuel de leur chiffre d'affaires total excède 500 000 F toutes taxes comprises.
+annuel de leur chiffre d'affaires total excède 76 000 euros toutes taxes
+comprises.
 
 II. Ces entreprises doivent faire leur demande à l'administration et présenter
 une caution solvable qui s'engage, solidairement avec l'entreprise, à payer la
