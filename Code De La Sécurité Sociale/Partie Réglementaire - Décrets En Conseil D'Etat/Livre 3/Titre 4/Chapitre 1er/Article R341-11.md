@@ -6,7 +6,7 @@ de la pension à l'intéressé.
 
 Pour la détermination du salaire annuel moyen servant de base au calcul de la
 pension d'invalidité, il est fait application des dispositions des articles R.
-351-9, R. 351-12 et R. 351-29.
+351-9 et R. 351-12.
 
 Les salaires annuels pris en considération pour déterminer le salaire de base
 sont les salaires revalorisés par application des coefficients mentionnés à

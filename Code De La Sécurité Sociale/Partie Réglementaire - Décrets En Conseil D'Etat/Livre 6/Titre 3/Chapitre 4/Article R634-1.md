@@ -5,7 +5,8 @@ Le revenu annuel moyen mentionné à l'article L. 634-4 correspond [*définition
 des régimes d'assurance vieillesse des professions artisanales, industrielles et
 commerciales.
 
-Toutefois, lorsque l'assuré aura accompli postérieurement au 31 décembre 1972
-plus de dix années d'assurance au titre des régimes dont il s'agit, il sera tenu
-compte des cotisations versées au cours des dix années civiles dont la prise en
+Toutefois et sous réserve des dispositions de l'article R. 634-1-1, lorsque
+l'assuré aura accompli postérieurement au 31 décembre 1972 plus de vingt-cinq
+années d'assurance au titre des régimes dont il s'agit, il sera tenu compte des
+cotisations versées au cours des vingt-cinq années civiles dont la prise en
 considération est la plus avantageuse pour l'intéressé.
