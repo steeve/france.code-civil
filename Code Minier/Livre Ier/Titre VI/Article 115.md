@@ -1,6 +1,6 @@
 Article 115
 ----
-Le titulaire d'un permis d'exploitation de carrière est tenu de verser au
+Le titulaire d'un permis d'occupation temporaire est tenu de verser au
 propriétaire de la surface, indépendamment de l'indemnité d'occupation visée à
 l'article 72 ci-dessus, une redevance ayant pour assiette le tonnage extrait. A
 défaut d'accord amiable, son montant est fixé par le tribunal de grande

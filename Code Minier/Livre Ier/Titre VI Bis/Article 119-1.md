@@ -1,11 +1,10 @@
 Article 119-1
 ----
 Tout titulaire d'un permis exclusif de recherches, d'une concession de mines,
-d'un permis d'exploitation de mines ou d'une des autorisations ou permis prévus
-aux articles 98, 99, 106 et 109, tout titulaire d'une autorisation d'amodiation
-de titre minier peut, après mise en demeure, se voir retirer son titre ou
-autorisation dans l'un des cas suivants, sans préjudice de l'application des
-dispositions du dernier alinéa de l'article 106 :
+d'un permis d'exploitation de mines ou d'un permis prévu à l'article 109, ou
+d'une des autorisations prévues aux articles 98, 99 et 109, tout titulaire d'une
+autorisation d'amodiation de titre minier peut, après mise en demeure, se voir
+retirer son titre ou autorisation dans l'un des cas suivants :
 
 a) Défaut de paiement, pendant plus de deux ans, des redevances minières dues à
 l'Etat, aux départements et aux communes ;
@@ -30,13 +29,12 @@ ultérieure des gisements ;
 f) Inobservation des dispositions des deuxième et troisième alinéas de l'article
 81 ;
 
-g) Inobservation des conditions fixées dans l'acte institutif ; non respect du
+g) Inobservation des conditions fixées dans l'acte institutif ; non-respect du
 cahier des charges ; méconnaissance des règles imposées en ce qui concerne les
 personnes détenant le contrôle de l'entreprise ;
 
 h) Pour les concessions de mines : inexploitation depuis plus de dix ans.
 
 La décision de retrait est prononcée par arrêté préfectoral en ce qui concerne
-les autorisations ou permis prévus aux articles 98, 99, et 106, par arrêté
-ministériel dans les autres cas, selon les modalités fixées par décret en
-Conseil d'Etat.
+les autorisations ou permis prévus aux articles 98 et 99, par arrêté ministériel
+dans les autres cas, selon les modalités fixées par décret en Conseil d'Etat.
