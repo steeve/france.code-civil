@@ -1,13 +1,14 @@
 Article R116-16
 ----
 La convention détermine, sur la base du nombre réel d'apprentis accueillis par
-le centre, le mode de calcul de la subvention qui sera versée, le cas échéant,
-au centre.
+le centre ou la section d'apprentissage, le mode de calcul de la subvention qui
+sera versée, le cas échéant, au centre ou à l'établissement d'enseignement ou de
+formation et de recherche.
 
 Ce mode de calcul prend en compte les éléments suivants :
 
 a) Le coût forfaitaire de l'heure-apprenti pour chacune des formations données
-au centre ;
+au centre ou dans la section d'apprentissage ;
 
 b) Le coût forfaitaire journalier du logement par apprenti ;
 

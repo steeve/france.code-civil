@@ -25,7 +25,14 @@ La convention portant création du centre de formation d'apprentis définit les
 modalités de désignation du président du conseil de perfectionnement et la durée
 du mandat de ses membres.
 
-En tant que de besoin, le conseil de perfectionnement peut faire appel à des
-personnes qualifiées en raison de leur expérience pédagogique et
-professionnelle, pour participer à certains de ses travaux à titre consultatif
-et pour une durée limitée.
+Le conseil de perfectionnement institué dans un établissement où sont ouvertes
+une ou plusieurs sections d'apprentissage comprend, outre le responsable de
+l'établissement, président, son adjoint ou le conseiller principal d'éducation
+ou la personne qui en tient lieu, le gestionnaire de l'établissement, le chef de
+travaux ainsi que les représentants mentionnés aux b, c, d et e ci-dessus,
+siégeant dans les mêmes conditions.
+
+Dans tous les cas, le conseil de perfectionnement peut faire appel, en tant que
+de besoin, à des personnes qualifiées en raison de leur expérience pédagogique
+et professionnelle, pour participer à certains de ses travaux à titre
+consultatif et pour une durée limitée.

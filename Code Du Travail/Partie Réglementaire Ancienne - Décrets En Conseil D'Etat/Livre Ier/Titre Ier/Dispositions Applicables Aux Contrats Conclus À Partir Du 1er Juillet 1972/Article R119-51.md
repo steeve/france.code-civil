@@ -6,7 +6,7 @@ professionnelle, de la promotion sociale et de l'emploi, chaque fois qu'ils
 l'apprentissage ; ils sont transmis au comité régional de la formation
 professionnelle, de la promotion sociale et de l'emploi ainsi qu'au conseil
 régional lorsque le manquement met en cause la gestion ou le fonctionnement d'un
-centre de formation d'apprentis.
+centre de formation d'apprentis ou d'une section d'apprentissage.
 
 Lorsque les faits sont susceptibles de constituer une infraction pénale dont la
 constatation relève de l'inspecteur du travail ou de l'un des autres
