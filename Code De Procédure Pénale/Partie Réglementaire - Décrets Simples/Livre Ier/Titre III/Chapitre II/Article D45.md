@@ -9,5 +9,5 @@ correctionnelles, établit une proposition de notation qu'il transmet chaque
 année au procureur général près la cour d'appel.
 
 La notation est établie par le procureur général, après consultation, le cas
-échéant, des présidents de la chambre d'accusation et des cours d'assises du
+échéant, des présidents de la chambre d'instruction et des cours d'assises du
 ressort.

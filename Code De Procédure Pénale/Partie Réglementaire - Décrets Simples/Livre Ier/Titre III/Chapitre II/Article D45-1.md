@@ -11,7 +11,7 @@ cour d'appel.
 
 Celui-ci établit la notation après avoir, le cas échéant, recueilli les
 observations des autres procureurs de la République concernés de son ressort,
-des présidents de la chambre d'accusation et des cours d'assises. Lorsque le
+des présidents de la chambre d'instruction et des cours d'assises. Lorsque le
 service ou l'unité dans lequel l'officier de police judiciaire est affecté
 excède le ressort de la cour d'appel, le procureur général peut également
 recueillir l'avis des autres procureurs généraux concernés.

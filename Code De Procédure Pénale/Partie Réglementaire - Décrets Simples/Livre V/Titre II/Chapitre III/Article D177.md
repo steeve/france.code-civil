@@ -1,13 +1,13 @@
 Article D177
 ----
 Conformément aux dispositions de l'article 222, le président de la chambre
-d'accusation visite, chaque fois qu'il l'estime nécessaire et au moins une fois
+d'instruction visite, chaque fois qu'il l'estime nécessaire et au moins une fois
 par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie
 la situation des personnes mises en examen en état de détention provisoire.
 
-Il transmet ses observations éventuelles au président de la chambre d'accusation
-compétent à l'égard des prévenus qui ne relèvent pas d'une juridiction du
-ressort de sa cour d'appel.
+Il transmet ses observations éventuelles au président de la chambre
+d'instruction compétent à l'égard des prévenus qui ne relèvent pas d'une
+juridiction du ressort de sa cour d'appel.
 
 Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa
 juridiction, le juge des enfants, peuvent également visiter la maison d'arrêt et

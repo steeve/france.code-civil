@@ -7,7 +7,7 @@ les registres et les fichiers suivants :
 1° Répertoire alphabétique des détenus écroués ;
 
 2° Registre des demandes de mise en liberté, de saisine de la chambre
-d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de
+d'instruction, de demandes d'actes ou de mesures utiles à l'instruction et de
 requêtes en annulation ;
 
 3° Registre des déclarations d'opposition ;

@@ -23,5 +23,5 @@ l'intéressé ;
 
 5° Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve
+Le dossier est communiqué à la chambre d'instruction lorsque celle-ci se trouve
 saisie dans les conditions fixées à l'article 225.

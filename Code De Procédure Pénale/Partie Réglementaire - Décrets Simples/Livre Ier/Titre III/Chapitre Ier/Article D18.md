@@ -5,4 +5,4 @@ Le juge d'instruction qui ordonne les enquêtes et examens visés à l'article D
 
 En cas de retards injustifiés, la personne désignée peut être remplacée et il en
 est donné avis aux fins de droit au procureur général et au président de la
-chambre d'accusation.
+chambre d'instruction.
