@@ -68,3 +68,16 @@ assurant les fonctions de régulation et de programmation du chauffage ; systèm
 permettant la régulation centrale des équipements de production d'eau chaude
 sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau
 destinée au chauffage.
+
+7. Installation ou remplacement d'équipements spécialement conçus pour les
+personnes âgées ou handicapées :
+
+a) Equipements sanitaires attachés à perpétuelle demeure : éviers et lavabos à
+hauteur réglable ; baignoires à porte ; cabines de douche intégrales ; bacs et
+portes de douche, sièges de douche muraux, WC pour personnes handicapées ;
+
+b) Autres équipements de sécurité et d'accessibilité attachés à perpétuelle
+demeure : mains courantes, barres de maintien ou d'appui, poignées de rappel de
+portes ; rampes fixes ; systèmes de commande, de signalisation ou d'alerte ;
+dispositifs de fermeture, d'ouverture ou systèmes de commande des installations
+électriques, d'eau, de gaz et de chauffage ; mobiliers à hauteur réglable.
