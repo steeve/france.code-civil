@@ -28,8 +28,6 @@ inhumations et transports funéraires;
 
 Enseignement général, agricole, ménager, professionnel ou artistique;
 
-Location de livres ;
-
 Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs
 aménagés autres que les parcs zoologiques passibles du taux réduit (1);
 

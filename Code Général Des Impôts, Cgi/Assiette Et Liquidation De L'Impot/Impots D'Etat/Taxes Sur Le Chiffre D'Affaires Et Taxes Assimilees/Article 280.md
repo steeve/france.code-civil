@@ -107,7 +107,7 @@ nationale de la batellerie artisanale , lorsque ces redevables sont susceptibles
 de bénéficier du régime prévu à l'article 282-3 ou sont placés par option sous
 le régime simplifié d'imposition;
 
-i Aux redevances visées à l'article 257-18°;
+i (Devenu sans objet).
 
 j Aux ventes de voitures automobiles d'occasion conçues pour le transport des
 personnes ou à usages mixtes et comportant, outre le siège du conducteur, huit

@@ -15,7 +15,7 @@ par décret en Conseil d'Etat (1), qui prévoira également les conséquences du
 non-respect de l'engagement, peut être remboursée à concurrence de 50 % de son
 montant nonobstant les dispositions de l'article 260 D (2).
 
-Ces dispositions sont applicables jusqu'au 31 décembre 1985.
+Ces dispositions sont applicables jusqu'au 31 décembre 1988.
 
 (1) Annexe II, art. 233-0 A à 233-0 C.
 

@@ -7,18 +7,15 @@ général des impôts :
 pour leur valeur d'origine ; pour les biens cédés ou mis hors service, cette
 valeur est diminuée des amortissements pratiqués par l'entreprise ;
 
-2° Les immobilisations dont la propriété a, au cours des trois exercices
-précédant l'exercice déficitaire, été transférée par voie d'apport, de fusion,
-de scission ou de cession d'actif n'entrent pas en compte pour le calcul de
-l'investissement net ;
-
-3° Les amortissements dont le total est comparé au montant de l'investissement
-net s'entendent des amortissements pour dépréciation et des amortissements
-dérogatoires pratiqués au titre des trois exercices précédant l'exercice
-déficitaire ;
-
-4° La dette d'impôt [*définition*] s'entend de l'impôt sur les sociétés dû, au
-taux de droit commun ou à un taux réduit, à raison des bénéfices déclarés au
-titre des trois exercices précédant l'exercice déficitaire, augmenté, le cas
-échéant, des majorations pour défaut de paiement ou paiement tardif de cet
-impôt.
+2° Les immobilisations dont la propriété a, soit au cours de l'exercice au titre
+duquel l'option a été exercée, soit au cours de ce dernier exercice et des deux
+exercices précédents, a été transférée par voie d'apport, de fusion, de scission
+ou de cession d'actif n'entrent pas en compte pour le calcul de l'investissement
+net; 3° Les amortissements dont le total est comparé au montant de
+l'investissement net s'entendent des amortissements pour dépréciation et des
+amortissements dérogatoires pratiqués au titre de l'une ou l'autre des deux
+périodes visées au 2°. 4° La dette d'impôt [*définition*] s'entend de l'impôt
+sur les sociétés dû, au taux de droit commun ou à un taux réduit, à raison des
+bénéfices déclarés au titre des trois exercices précédant l'exercice
+déficitaire, augmenté, le cas échéant, des majorations pour défaut de paiement
+ou paiement tardif de cet impôt.

@@ -5,7 +5,7 @@ professionnelle continue doivent s'acquitter d'une partie de leur obligation en
 effectuant au Trésor public, au plus tard le 15 septembre [*date limite de
 paiement*], un versement égal à 0,2 % [*taux, pourcentage*] du montant, entendu
 au sens des articles 235 ter E et 235 ter EA, des salaires versés au cours de
-l'année précédente majorés d'un taux de 5 % en 1985.
+l'année précédente majorés d'un taux de 3,4 % pour 1986.
 
 Cette cotisation est établie et recouvrée selon les mêmes modalités et sous les
 mêmes garanties et sanctions que la participation des employeurs au financement

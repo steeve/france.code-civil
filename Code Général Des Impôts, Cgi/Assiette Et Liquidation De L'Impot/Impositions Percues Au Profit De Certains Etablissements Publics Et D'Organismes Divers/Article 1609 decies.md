@@ -11,8 +11,7 @@ auxquelles elle s'ajoute.
 La taxe régionale additionnelle est répartie suivant les modalités définies aux
 articles 1636 B octies-I et 1636 C.
 
-II. Jusqu'à l'ouverture du premier exercice suivant l'élection des conseils
-régionaux au suffrage universel direct :
+II. Jusqu'au 31 décembre 1986 [*date limite*]:
 
 a. Le total des ressources fiscales par habitant que chaque établissement public
 peut percevoir au titre de cette taxe et de celles prévues aux articles 1635 bis
@@ -29,7 +28,8 @@ pour un exercice, le montant de ressources excédant de plus de 5 % ce maximum
 est reporté et vient en déduction du montant maximum de ressources autorisé pour
 l'exercice suivant cette constatation.
 
-III. A compter du 1er janvier 1983, nonobstant les dispositions du II, le
-montant maximal des ressources fiscales que chaque établissement public régional
-peut percevoir par habitant est fixé à 150 F. A compter du 1er janvier 1984, le
-montant est fixé à 165 F.
+III. Nonobstant les dispositions du II, le montant maximal des ressources
+fiscales de chaque établissement public régional peut percevoir par habitant est
+fixé à 180 F pour l'année 1986 (1).
+
+(1) Ce montant était de 165 F pour 1984 et 1985.
