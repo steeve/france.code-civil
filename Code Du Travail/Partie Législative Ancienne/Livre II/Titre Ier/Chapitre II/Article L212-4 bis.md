@@ -5,6 +5,8 @@ sans être à la disposition permanente et immédiate de l'employeur, a
 l'obligation de demeurer à son domicile ou à proximité afin d'être en mesure
 d'intervenir pour effectuer un travail au service de l'entreprise, la durée de
 cette intervention étant considérée comme un temps de travail effectif.
+Exception faite de la durée d'intervention, la période d'astreinte est décomptée
+dans les durées minimales visées aux articles L.220-1 et L. 221-4.
 
 Ces astreintes sont mises en place par des conventions ou accords collectifs
 étendus ou des accords d'entreprise ou d'établissement, qui en fixent le mode

@@ -24,7 +24,6 @@ fixée conventionnellement pour la branche ou l'entreprise ou des durées du
 travail applicables dans l'établissement ;
 
 - à la durée de travail annuelle résultant de l'application sur cette période de
-la durée légale du travail ou, si elles sont inférieures, de la durée du travail
-fixée conventionnellement pour la branche ou l'entreprise ou des durées du
-travail applicables dans l'établissement, diminuée des heures correspondant aux
-jours de congés légaux et aux jours fériés mentionnés à l'article L. 222-1.
+la durée légale du travail, soit 1 600 heures, ou, si elles sont inférieures, de
+la durée du travail fixée conventionnellement pour la branche ou l'entreprise ou
+des durées du travail applicables dans l'établissement.
