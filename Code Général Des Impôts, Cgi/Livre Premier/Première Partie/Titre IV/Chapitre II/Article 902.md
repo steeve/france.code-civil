@@ -7,10 +7,11 @@ Sont exonérés du droit de timbre de dimension :
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
 b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou
-licitation d'immeubles dont le prix n'est pas supérieur à 5 000 F.
+licitation d'immeubles dont le prix n'est pas supérieur à 760 euros.
 
 Les cahiers des charges ne sont soumis au timbre de dimension qu'après la
-réalisation des ventes ou adjudications et seulement si le prix excède 5 000 F.
+réalisation des ventes ou adjudications et seulement si le prix excède 760
+euros.
 
 L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et
 cahiers des charges susvisés qui contiennent des dispositions indépendantes dans
@@ -52,7 +53,7 @@ L. 511-55 du code de commerce et L. 131-73 du code monétaire et financier ;
 
 16° Le répertoire visé à l'article 1002.
 
-3. Pièces et écrits divers ;
+3. Pièces et écrits divers.
 
 1° Les bordereaux d'inscription, ainsi que les pièces produites par les
 requérants pour obtenir l'accomplissement des formalités hypothécaires et qui
@@ -82,8 +83,8 @@ application ;
 
 9° (périmé).
 
-10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982
-modifiée portant création des chèques-vacances ;
+10° les chèques-vacances conformément à l'article L. 411-7 du code du tourisme
+reproduit ;
 
 11° Les offres préalables de prêts rédigés conformément aux dispositions des
 chapitres II et III du titre I du livre III du code de la consommation ;
