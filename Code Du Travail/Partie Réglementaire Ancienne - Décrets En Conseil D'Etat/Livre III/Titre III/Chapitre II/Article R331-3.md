@@ -5,13 +5,9 @@ comprend [*composition*] :
 
 1° a) Le ministre chargé des droits de la femme ou son représentant, président ;
 
-Le ministre chargé du travail ou son représentant,
+Le ministre chargé du travail ou son représentant, vice-président ;
 
-vice-président ;
-
-Le ministre chargé de l'emploi ou son représentant,
-
-vice-président ;
+Le ministre chargé de l'emploi ou son représentant, vice-président ;
 
 Le ministre chargé de la formation professionnelle ou son représentant,
 vice-président.
@@ -46,7 +42,7 @@ d) Un représentant sur proposition de la confédération française de
 l'encadrement, confédération générale des cadres ;
 
 e) Un représentant sur proposition de la confédération française des
-travailleurs chrétiens ;
+travailleurs chrétiens.
 
 3° Neuf représentants des employeurs, à raison de :
 
@@ -67,7 +63,7 @@ confédération nationale de la mutualité, de la coopération et du crédit
 agricoles ;
 
 c) Un membre représentant les employeurs artisans désigné sur proposition de
-l'union professionnelle artisanale ;
+l'union professionnelle artisanale.
 
 4° Neuf personnalités désignées en raison de leur compétence ou de leur
 expérience, notamment dans la vie associative.
