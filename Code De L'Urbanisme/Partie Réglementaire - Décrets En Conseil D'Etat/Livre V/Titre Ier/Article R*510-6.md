@@ -76,6 +76,8 @@ Magny-en-Vexin.
 
 - industriel par un utilisateur déterminé.
 
+- de salles de spectacles cinématographiques.
+
 3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de
 bureaux sans extension de surface.
 
