@@ -1,4 +1,6 @@
 Article R441-17
 ----
-Le titre d'occupation d'une habitation à loyer modéré ne peut, en aucun cas,
-être un accessoire du contrat de travail.
+Les dispositions de la présente section se substituent, en ce qui concerne les
+logements gérés par les organismes d'habitations à loyer modéré, aux
+dispositions ayant le même objet de la section I du chapitre III du titre V du
+livre III du présent code (deuxième partie).

@@ -1,9 +1,9 @@
 Article R441-6
 ----
-Les candidats dont les ressources sont inférieures de 10 p. 100 et plus au
-plafond déterminé en application de l'article R. 441-2 sont classés en priorité
-sur la liste prévue à l'article R. 441-5.
-
-Les travailleurs se trouvant dans l'obligation de changer de zone d'emploi pour
-des motifs professionnels doivent être également classés en priorité sur la
-liste prévue à l'article R. 441-5.
+Dans chaque département le commissaire de la République établit après avis du
+conseil départemental de l'habitat, en fonction de la nécessaire diversité de la
+composition sociale de chaque quartier et au vu des propositions contenues dans
+les programmes locaux de l'habitat, un règlement départemental qui précise les
+conditions d'application des critères de priorité énoncés à l'article R. 441-4.
+Il détermine également les modalités de l'information du commissaire de la
+République.
