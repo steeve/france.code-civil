@@ -7,8 +7,8 @@ et sauf difficultés particulières tenant notamment aux modalités de la
 liquidation ou à la nature du remploi.
 
 Dans les autres cas, la décision est prise par le ministre de l'économie, des
-finances et du budget après avis du conseil de direction du fonds de
-développement économique et social (1).
+finances et du budget après avis du comité des investissements à caractère
+économique et social (1).
 
 (1) Dispositions applicables aux demandes d'agrément déposées à compter du 1er
 septembre 1990.

@@ -6,5 +6,5 @@ impôts lorsque les capitaux propres des sociétés en cause n'excèdent pas 25
 millions de francs.
 
 Dans les autres cas, la décision est prise par le ministre de l'économie, des
-finances et du budget après avis du conseil de direction du fonds de
-développement économique et social.
+finances et du budget après avis du comité des investissements à caractère
+économique et social.
