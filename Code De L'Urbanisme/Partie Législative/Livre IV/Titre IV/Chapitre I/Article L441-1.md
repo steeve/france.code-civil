@@ -2,8 +2,8 @@ Article L441-1
 ----
 Les dispositions du présent chapitre sont applicables :
 
-a) Dans les communes dotées d'un plan d'occupation des sols rendu public ou
-approuvé ;
+a) Dans les communes dotées d'un plan d'occupation des sols rendu public ou d'un
+plan local d'urbanisme approuvé ;
 
 b) Dans les périmètres sensibles institués en application de l'article L. 142-1
 dans sa rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 ou dans les

@@ -6,8 +6,6 @@ publique, à but non lucratif, dont l'activité est de caractère social, sont
 assujetties à un versement de transport lorsqu'elles emploient plus de neuf
 salariés.
 
-Le versement n'est perçu qu'à l'intérieur de la région des transports parisiens.
-
 Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou
 dépassent l'effectif de dix salariés sont dispensés pendant trois ans du
 paiement du versement. Le montant du versement est réduit de 75 p. 100, 50 p.

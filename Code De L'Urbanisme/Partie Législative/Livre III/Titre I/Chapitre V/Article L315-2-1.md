@@ -1,7 +1,7 @@
 Article L315-2-1
 ----
-Lorsqu'un plan d'occupation des sols ou un document d'urbanisme en tenant lieu a
-été approuvé, les règles d'urbanisme contenues dans les documents approuvés d'un
+Lorsqu'un plan local d'urbanisme ou un document d'urbanisme en tenant lieu a été
+approuvé, les règles d'urbanisme contenues dans les documents approuvés d'un
 lotissement cessent de s'appliquer au terme de dix années à compter de la
 délivrance de l'autorisation de lotir.
 

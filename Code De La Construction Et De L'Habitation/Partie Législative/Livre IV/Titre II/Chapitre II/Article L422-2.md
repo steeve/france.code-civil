@@ -6,22 +6,47 @@ location, les opérations prévues à l'article L. 411-1.
 
 Elles ont également pour objet :
 
-- de réaliser, dans les conditions fixées par leur statut, toutes les opérations
-d'aménagement définies par le code de l'urbanisme, soit pour leur compte avec
-l'accord de la ou des collectivités locales concernées, soit pour le compte de
-tiers lorsqu'elles ont été agréées à cet effet. Dans le cas où elles
-interviennent pour le compte de tiers, les dispositions de l'article L. 443-14
-du présent code ne sont pas applicables aux cessions de terrains non bâtis
-rendues nécessaires par la réalisation de ces opérations. Lorsqu'elles se voient
-confier par convention la réalisation d'une opération de restructuration
-urbaine, celle-ci comprend toutes opérations ou actions ou tous aménagements ou
-équipements de nature à favoriser une politique de développement social urbain
-telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996
-relative à la mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la
-convention peut inclure des actions d'insertion professionnelle et sociale en
-faveur des habitants des grands ensembles ou des quartiers d'habitat dégradé
-mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire ;
+- de réaliser pour leur compte ou pour le compte d'un tiers, avec l'accord de la
+ou des collectivités ou communautés intéressées, toutes les interventions
+foncières, les actions ou opérations d'aménagement prévues par le code de
+l'urbanisme et le code de la construction et de l'habitation, sans que les
+dispositions de l'article L. 443-14 soient applicables aux cessions d'immeubles
+rendues nécessaires par ces réalisations. Lorsqu'elles se voient confier par
+convention la réalisation d'une opération de restructuration urbaine, celle-ci
+comprend toutes opérations ou actions ou tous aménagements ou équipements de
+nature à favoriser une politique de développement social urbain telle que
+définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la
+mise en oeuvre du pacte de relance pour la ville ; dans ce cas, la convention
+peut inclure des actions d'insertion professionnelle et sociale en faveur des
+habitants des grands ensembles ou des quartiers d'habitat dégradé mentionnés au
+3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire ;
+
+- de réaliser ou acquérir et améliorer, en complément de leur activité locative,
+en vue de leur vente à des personnes physiques à titre de résidences
+principales, des logements destinés à des personnes de ressources modestes et
+respectant des prix de vente maxima fixés par l'autorité administrative, soit
+lorsqu'une offre satisfaisante de ces logements n'est pas assurée dans un îlot,
+un quartier ou une commune, soit à la demande de la collectivité territoriale
+dans le cadre d'une action ou d'une opération d'aménagement ou de la mise en
+oeuvre des objectifs de renouvellement urbain et de mixité sociale prévus dans
+les contrats de ville ;
+
+- d'assister à titre de prestataire de services, dans des conditions définies
+par leurs statuts, des personnes physiques et des sociétés de construction
+constituées en application du titre Ier du livre II pour la réalisation et la
+gestion d'immeubles, à usage d'habitation ou à usage professionnel et
+d'habitation ou destinés à cet usage, en accession à la propriété ;
+
+- de construire, acquérir, réaliser des travaux, gérer des immeubles à usage
+d'habitation ou à usage professionnel et d'habitation en vue de leur
+location-accession ;
+
+- de réaliser, dans des conditions définies par leurs statuts, pour le compte
+d'associations ou d'organismes agréés dans le domaine du logement social, des
+prestations de services pour des opérations ou des actions de nature à favoriser
+l'insertion sociale des personnes et la mixité urbaine et sociale des villes et
+des quartiers ;
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré
 des prestations de services pour des missions rentrant dans l'objet social et la
@@ -40,7 +65,12 @@ d'aménagement, lorsqu'elles ont été agréées à cet effet ;
 - avec l'accord du maire de la commune d'implantation et du représentant de
 l'Etat dans le département, gérer, en qualité d'administrateurs de biens, des
 logements situés dans des copropriétés connaissant des difficultés importantes
-de fonctionnement ou être syndics de ces copropriétés ;
+de fonctionnement ou être syndics de ces copropriétés. Dans ces mêmes
+copropriétés lorsqu'elles font l'objet d'un plan de sauvegarde en application de
+l'article L. 615-1, elles peuvent, selon les modalités précisées par décret en
+Conseil d'Etat qui peuvent déroger aux règles applicables aux habitations à
+loyer modéré, acquérir des lots en vue de leur revente, y effectuer tous travaux
+et les louer provisoirement ;
 
 - réaliser des hébergements de loisirs à vocation sociale dans les conditions
 prévues à l'article L. 421-1 ;

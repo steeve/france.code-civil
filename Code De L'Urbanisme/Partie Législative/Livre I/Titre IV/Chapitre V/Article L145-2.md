@@ -1,8 +1,7 @@
 Article L145-2
 ----
 Les conditions d'utilisation et de protection de l'espace montagnard sont fixées
-par le présent chapitre qui a le caractère de loi d'aménagement et d'urbanisme
-au sens de l'article L. 111-1-1.
+par le présent chapitre.
 
 Les directives territoriales d'aménagement précisant les modalités d'application
 des dispositions du présent chapitre ou, en leur absence, lesdites dispositions

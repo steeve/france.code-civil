@@ -3,9 +3,10 @@ Article L421-2
 Le permis de construire est instruit et délivré dans les formes, conditions et
 délais déterminés par un décret en Conseil d'Etat :
 
-a) Dans les communes où un plan d'occupation des sols a été approuvé, au nom de
-la commune ou de l'établissement public de coopération intercommunale ou de
-l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-6 ;
+a) Dans les communes où une carte communale ou un plan local d'urbanisme a été
+approuvé, au nom de la commune ou de l'établissement public de coopération
+intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L.
+421-2-1 à L. 421-2-6 ;
 
 b) Dans les autres communes, au nom de l'Etat.
 

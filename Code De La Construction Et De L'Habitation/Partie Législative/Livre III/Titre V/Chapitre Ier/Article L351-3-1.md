@@ -11,6 +11,12 @@ lequel cet occupant acquitte l'intégralité de la redevance mensuelle prévue p
 le titre d'occupation, sous réserve que les autres conditions d'ouverture du
 droit soient réunies à cette date.
 
+De la même façon, les dispositions prévues au premier alinéa ne s'appliquent pas
+aux personnes dont le logement a fait l'objet d'un arrêté d'insalubrité ou de
+péril lorsque, dans les conditions définies au premier alinéa de l'article L.
+521-2, elles reprennent le paiement du loyer ou de toute autre somme versée en
+contrepartie de l'occupation de ce logement ou lorsqu'elles sont relogées.
+
 Lorsque les conditions d'ouverture du droit sont réunies antérieurement à la
 date de la demande, l'aide n'est due que dans la limite des trois mois précédant
 celui au cours duquel la demande est déposée.

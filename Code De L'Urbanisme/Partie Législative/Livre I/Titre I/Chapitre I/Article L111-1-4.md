@@ -22,7 +22,13 @@ Elle ne s'applique pas non plus à l'adaptation, la réfection ou l'extension de
 constructions existantes.
 
 Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les
-règles concernant ces zones, contenues dans le plan d'occupation des sols, ou
-dans un document d'urbanisme en tenant lieu, sont justifiées et motivées au
-regard notamment des nuisances, de la sécurité, de la qualité architecturale,
-ainsi que de la qualité de l'urbanisme et des paysages.
+règles concernant ces zones, contenues dans le plan local d'urbanisme, ou dans
+un document d'urbanisme en tenant lieu, sont justifiées et motivées au regard
+notamment des nuisances, de la sécurité, de la qualité architecturale, ainsi que
+de la qualité de l'urbanisme et des paysages.
+
+Il en est de même, dans les communes non dotées d'un plan local d'urbanisme,
+lorsqu'une étude attestant de la prise en compte des nuisances, de la sécurité,
+de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des
+paysages, ayant reçu l'accord de la commission départementale des sites, est
+jointe à la demande d'autorisation du projet.

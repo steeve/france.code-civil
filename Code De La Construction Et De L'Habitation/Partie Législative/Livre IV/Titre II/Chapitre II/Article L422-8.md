@@ -3,16 +3,32 @@ Article L422-8
 Dans les cas prévus à l'article L. 422-7, le ministre chargé du logement peut se
 borner à suspendre le conseil d'administration ou le conseil de surveillance et
 le directoire, ou ce dernier seulement, par arrêté motivé, et nommer un
-administrateur provisoire auquel est transféré, de plein droit, l'ensemble des
-pouvoirs du conseil d'administration ou du conseil de surveillance et du
-directoire pour la continuation des opérations en cours.
+administrateur provisoire auquel est transféré l'ensemble des pouvoirs
+d'administration, de direction et de représentation de la société, sous réserve
+de ceux expressément attribués par la loi aux assemblées d'actionnaires.
 
-La mission de l'administrateur provisoire prend fin, soit à la désignation d'un
-nouveau conseil d'administration ou d'un nouveau conseil de surveillance par
-l'assemblée générale réunie au plus tard avant l'expiration d'un délai d'un an,
-renouvelable une fois à dater de la décision ministérielle, soit, à défaut de
-cette désignation, à la nomination d'un liquidateur par le ministre chargé de la
-construction et de l'habitation.
+La durée de l'administration provisoire est d'un an renouvelable une fois à
+compter de la décision ministérielle.
+
+Pendant cette durée et par dérogation aux dispositions du livre II du code de
+commerce, notamment ses articles L. 225-129, L. 225-204 et L. 228-23, toute
+augmentation ou réduction du capital social ou toute cession d'action est
+soumise à l'agrément de l'administrateur provisoire, à peine de nullité.
+
+Lorsque la société fait l'objet d'un plan de redressement approuvé par le
+conseil d'administration de la Caisse de garantie du logement social,
+l'administrateur provisoire peut soumettre à l'assemblée générale extraordinaire
+tout projet d'augmentation du capital social rendu nécessaire par le plan de
+redressement. En cas de refus de l'assemblée générale extraordinaire, la
+décision de procéder à l'augmentation de capital est prise par le conseil
+d'administration de la Caisse de garantie du logement social.
+
+Pendant la durée de l'administration provisoire, l'assemblée générale ne peut
+désigner un nouveau conseil d'administration ou conseil de surveillance. A
+l'issue de la mission de l'administrateur provisoire, il est procédé soit à la
+désignation d'un nouveau conseil d'administration ou conseil de surveillance par
+l'assemblée générale, soit à la dissolution de la société dans les modalités
+prévues à l'article L. 422-7. ;
 
 Pendant une durée de deux ans à l'issue de la mission de l'administrateur
 provisoire, ce dernier doit être convoqué et peut assister à toutes les réunions

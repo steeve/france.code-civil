@@ -31,6 +31,5 @@ l'inscription d'office de tout demandeur qui n'aurait pas reçu communication du
 numéro d'enregistrement dans le délai d'un mois, auprès de tout bailleur
 susceptible d'accueillir cette demande.
 
-Les aides de l'Etat rattachables au logement qui serait attribué en
-méconnaissance des dispositions du présent article sont remboursées en tout ou
-partie dans des conditions définies par décret.
+La méconnaissance des dispositions du présent article est passible des sanctions
+pécuniaires prévues à l'article L. 451-2-1.

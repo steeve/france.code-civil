@@ -10,6 +10,14 @@ commission statue en prenant en considération :
 1° L'offre et la demande globales pour chaque secteur d'activité dans la zone de
 chalandise concernée ;
 
+- L'impact global du projet sur les flux de voitures particulières et de
+véhicules de livraison ;
+
+- La qualité de la desserte en transport public ou avec des modes alternatifs ;
+
+- Les capacités d'accueil pour le chargement et le déchargement des marchandises
+;
+
 2° La densité d'équipement en moyennes et grandes surfaces dans cette zone ;
 
 3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette

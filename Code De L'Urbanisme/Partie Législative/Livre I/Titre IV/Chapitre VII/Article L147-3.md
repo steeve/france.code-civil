@@ -22,9 +22,9 @@ protection de l'environnement.
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles il est établi et
 tenu à la disposition du public.
 
-Le plan d'exposition au bruit est annexé au plan d'occupation des sols, dont les
-dispositions doivent être compatibles avec les prescriptions définies à
-l'article L. 147-5.
+Le plan d'exposition au bruit est annexé au plan local d'urbanisme, au plan de
+sauvegarde et de mise en valeur et à la carte communale dont les dispositions
+doivent être compatibles avec les prescriptions définies à l'article L. 147-5.
 
 Les plans d'exposition au bruit existants rendus disponibles pour l'application
 de la directive d'aménagement national relative à la construction dans les zones

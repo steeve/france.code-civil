@@ -1,13 +1,19 @@
 Article L421-4
 ----
-Les offices publics d'habitations à loyer modéré [*définition, nature
-juridique*] sont des établissements publics.
+Les offices publics d'habitations à loyer modéré sont des établissements
+publics.
 
-Ils sont créés par décret en Conseil d'Etat à la demande soit d'un conseil
-municipal, soit des conseils municipaux de communes ayant à cet effet constitué
-un syndicat conformément aux dispositions du code des communes, livre Ier, titre
-VI, chapitre III, soit d'un conseil général, soit du conseil d'un établissement
-public groupant des collectivités locales.
+Les offices publics d'habitations à loyer modéré sont créés par décret à la
+demande soit d'un ou plusieurs conseils municipaux, soit d'un ou plusieurs
+conseils généraux, soit de l'organe délibérant d'un établissement public de
+coopération intercommunale compétent en matière d'habitat.
+
+Le changement de collectivité territoriale ou d'établissement public de
+coopération intercommunale de rattachement d'un office public d'habitations à
+loyer modéré, le changement de son appellation ainsi que la fusion de plusieurs
+établissements publics d'habitations à loyer modéré sont effectués sur demande
+concordante des organes délibérants des collectivités territoriales et
+groupement concernés, dans des conditions définies par décret en Conseil d'Etat.
 
 Ils exercent les compétences mentionnées aux quatrième et cinquième alinéas de
 l'article L. 421-1.

@@ -28,6 +28,18 @@ fixées par décision de l'autorité administrative.
 Lorsque le fonds de garanti géré par la caisse de garantie du logement social
 apporte sa garantie aux opérations de construction ou d'acquisition et
 d'amélioration réalisées par les organismes d'habitations à loyer modéré ou les
-sociétés d'économie mixte en application du 3° de l'article l.351-2, il peut
+sociétés d'économie mixte en application du 3° de l'article L. 351-2, il peut
 demander que soit inscrite à son profit une hypothèque légale qui s'étend aux
 biens immobiliers acquis ou édifiés à l'aide de prets qu'il a garantis.
+
+A compter de l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000
+relative à la solidarité et au renouvellement urbains, aucune nouvelle
+inscription d'hypothèque légale ne peut être demandée au profit du fonds de
+garantie.
+
+Lorsqu'elle consent un prêt pour la construction, l'acquisition ou
+l'amélioration de logements locatifs sociaux, la Caisse des dépôts et
+consignations peut inscrire, en garantie de sa créance en principal, intérêts et
+accessoires, une hypothèque légale sur les immeubles faisant l'objet du prêt.
+Ces dispositions s'appliquent également lorsque la créance est née avant
+l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée.

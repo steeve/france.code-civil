@@ -1,7 +1,9 @@
 Article L421-2-1
 ----
-Dans les communes où un plan d'occupation des sols a été approuvé, le permis est
-délivré par le maire au nom de la commune [*autorité compétente*]. Lorsqu'une
+Dans les communes où une carte communale ou un plan local d'urbanisme a été
+approuvé, le permis est délivré par le maire au nom de la commune. Toutefois,
+lors de sa délibération approuvant la carte communale, le conseil municipal peut
+décider que les permis de construire sont délivrés au nom de l'Etat. Lorsqu'une
 commune fait partie d'un établissement public de coopération intercommunale,
 elle peut, en accord avec cet établissement, lui déléguer cette compétence qui
 est alors exercée par le président de l'établissement public au nom de

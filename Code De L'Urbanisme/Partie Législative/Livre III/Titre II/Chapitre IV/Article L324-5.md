@@ -1,12 +1,15 @@
 Article L324-5
 ----
-Un membre de l'établissement public foncier peut s'en retirer avec le
-consentement du conseil d'administration, qui fixe les conditions auxquelles
-s'opère le retrait.
+Le conseil d'administration règle par ses délibérations les affaires de
+l'établissement. A cet effet, notamment :
 
-La délibération du conseil d'administration est notifiée aux membres de
-l'établissement public foncier qui disposent d'un délai de quarante jours pour
-faire connaître leur avis. La décision de retrait est prise par l'autorité
-compétente pour créer l'établissement public. Elle ne peut, toutefois,
-intervenir si plus d'un tiers des membres de l'établissement public s'opposent
-au retrait.
+1° Il détermine l'orientation de la politique à suivre et fixe le programme
+pluriannuel d'intervention et les tranches annuelles ;
+
+2° Il vote l'état prévisionnel des recettes et des dépenses, autorise les
+emprunts, approuve les comptes et se prononce sur l'affectation du résultat ;
+
+3° Il nomme le directeur sur proposition du président et met fin à ses fonctions
+dans les mêmes conditions.
+
+Il élit en son sein un président et un ou plusieurs vice-présidents.

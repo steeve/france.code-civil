@@ -23,8 +23,8 @@ région sur la compatibilité de l'urbanisation envisagée avec les orientations
 schéma d'aménagement régional et après avis de la commission départementale des
 sites appréciant l'impact de l'urbanisation sur la nature. Les communes
 intéressées peuvent également faire connaître leur avis dans le délai de deux
-mois suivant le dépôt de la demande d'accord. Le plan d'occupation des sols ou
-le plan d'aménagement de la zone doit respecter les dispositions de cet accord.
+mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit
+respecter les dispositions de cet accord.
 
 Il est déterminé une bande littorale comprise entre le rivage de la mer et la
 limite supérieure de la réserve domaniale dite des cinquante pas géométriques

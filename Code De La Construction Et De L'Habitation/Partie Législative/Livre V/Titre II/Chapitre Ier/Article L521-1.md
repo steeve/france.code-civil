@@ -1,32 +1,19 @@
 Article L521-1
 ----
-Les propriétaires d'immeubles déclarés insalubres ou en état de péril dont un ou
-plusieurs occupants de bonne foi sont relogés par un organisme d'habitations à
-loyer modéré, une société d'économie mixte ou par une collectivité publique,
-sont tenus de verser une contribution à l'organisme, société ou collectivité qui
-a assuré ce relogement.
+Lorsqu'un immeuble fait l'objet d'un arrêté d'insalubrité assorti d'une
+interdiction d'habiter temporaire ou définitive pris en application des articles
+L. 1331-23, L. 1331-28 et L. 1336-3 du code de la santé publique ou d'un arrêté
+portant interdiction d'habiter, en cas de péril, en application de l'article L.
+511-2, le propriétaire est tenu, sans préjudice des actions dont il dispose à
+l'encontre des personnes auxquelles l'état d'insalubrité ou de péril serait en
+tout ou partie imputable, d'assurer le relogement ou l'hébergement des occupants
+et de contribuer au coût correspondant dans les conditions prévues à l'article
+L. 521-3.
 
-Cette contribution est due, en cas d'aliénation volontaire, totale ou partielle
-desdits immeubles, ou de reconstruction. Elle est au plus égale à [*montant*] 15
-p. 100 du prix de revient, toutes dépenses confondues, du logement auquel chacun
-des anciens occupants de bonne foi relogés dans les conditions de l'alinéa 1er
-peut prétendre en application de la législation sur les habitations à loyer
-modéré.
+Ces dispositions sont applicables lorsque les travaux nécessaires pour remédier
+à l'insalubrité ou au péril rendent temporairement inhabitable un logement.
 
-Toutefois, aucune contribution ne sera perçue si l'aliénation est faite au
-profit d'une collectivité locale, d'un organisme d'habitations à loyer modéré,
-d'une société d'économie mixte ou d'un établissement public chargé d'une
-opération de rénovation ou de restauration, soit à titre gratuit, soit à un prix
-égal ou inférieur à celui fixé par les services fiscaux (domaines) en fonction
-de la valeur du bien occupé.
-
-Le paiement de la contribution instituée par le présent article au profit de
-l'organisme d'habitations à loyer modéré, de la société d'économie mixte ou de
-la collectivité publique ayant assuré le relogement est garanti par une
-hypothèque légale sur l'immeuble. Cette hypothèque peut être inscrite par
-l'organisme, la société ou la collectivité publique ayant assuré le relogement,
-dès la notification au propriétaire du relogement de l'occupant et du montant de
-la contribution.
-
-Les modalités d'application des présentes dispositions sont fixées par décret en
-Conseil d'Etat.
+Pour l'application du présent chapitre, l'occupant est le titulaire d'un droit
+réel conférant l'usage, le locataire, le sous-locataire ou l'occupant de bonne
+foi des locaux à usage d'habitation et de locaux d'hébergement constituant son
+habitation principale.

@@ -1,11 +1,11 @@
 Article L332-30
 ----
 Les taxes et contributions de toute nature qui sont obtenues ou imposées en
-violation des dispositions des articles L. 311-4-1 et L. 332-6 sont réputées
-sans cause ; les sommes versées ou celles qui correspondent au coût de
-prestations fournies sont sujettes à répétition. L'action en répétition se
-prescrit par cinq ans à compter du dernier versement ou de l'obtention des
-prestations indûment exigées.
+violation des dispositions des articles L. 311-4 et L. 332-6 sont réputées sans
+cause ; les sommes versées ou celles qui correspondent au coût de prestations
+fournies sont sujettes à répétition. L'action en répétition se prescrit par cinq
+ans à compter du dernier versement ou de l'obtention des prestations indûment
+exigées.
 
 Les acquéreurs successifs de biens ayant fait l'objet des autorisations
 mentionnées à l'article L. 332-28 ou situés dans une zone d'aménagement concerté

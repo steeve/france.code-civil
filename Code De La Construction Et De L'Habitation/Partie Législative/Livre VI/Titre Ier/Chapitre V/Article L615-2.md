@@ -1,6 +1,6 @@
 Article L615-2
 ----
-Le plan de sauvegarde fixe les mesures nécessaires pour, dans un délai de deux
+Le plan de sauvegarde fixe les mesures nécessaires pour, dans un délai de cinq
 ans, sur la base des engagements souscrits par les collectivités publiques, les
 organismes publics ou les personnes privées concernées :
 

@@ -1,15 +1,37 @@
 Article L318-5
 ----
-L'Etat, les collectivités locales et les établissements publics qualifiés
-peuvent, à défaut d'accord amiable, faire mettre en demeure par le préfet, après
-avis motivé du ministre chargé de l'urbanisme, les propriétaires d'une parcelle
-ou d'un groupe de parcelles desservi par une voie aménagée, ou dont
-l'aménagement fait l'objet de projets techniques et financiers approuvés par
-l'autorité compétente et susceptible de recevoir, dans le cadre des règlements
-en vigueur, un bâtiment d'habitation, d'entreprendre dans un délai de deux ans,
-et de réaliser, un bâtiment ou une installation conforme aux dispositions
-desdits projets ou de céder la parcelle dans un délai de six mois à un acquéreur
-prenant le même engagement.
+Les opérations de réhabilitation de l'immobilier de loisir ont pour objet
+l'amélioration du parc immobilier touristique et l'amélioration des espaces
+publics, du stationnement, des équipements d'infrastructures et du traitement de
+l'environnement.
 
-Le délai de deux ans ci-dessus court, si la voie n'est pas encore aménagée, à
-dater de [*point de départ*] la réception provisoire des travaux d'aménagement.
+Elles tendent à améliorer l'offre qualitative des logements locatifs à
+destination de la clientèle touristique et du personnel saisonnier ainsi qu'à
+maintenir ou à développer l'offre de services de proximité.
+
+Elles sont créées par délibération du conseil municipal ou de l'organe
+délibérant de l'établissement public de coopération intercommunale compétent.
+
+La délibération créant une opération de réhabilitation de l'immobilier de loisir
+précise :
+
+- le périmètre de l'opération ;
+
+- les conditions de financement de l'opération, le cas échéant les aides
+susceptibles d'être accordées par les collectivités territoriales ou leurs
+groupements ;
+
+- l'objectif et le délai maximal de réhabilitation de logements ;
+
+- les actions d'accompagnement et d'amélioration du cadre de vie prévues.
+
+La même délibération précise en outre les bénéficiaires des aides, qui sont :
+
+- les propriétaires bailleurs engagés contractuellement pour une durée
+équivalente ou supérieure à neuf ans dans une mise en marché locatif auprès d'un
+professionnel ou d'un organisme local de tourisme agréé ;
+
+- les personnes physiques ou morales ayant la charge des travaux de
+réhabilitation et la mise en marché locatif durable ;
+
+- la copropriété ayant la charge des travaux relatifs aux parties communes.

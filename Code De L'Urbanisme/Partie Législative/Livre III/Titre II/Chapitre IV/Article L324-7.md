@@ -1,11 +1,11 @@
 Article L324-7
 ----
-Par dérogation aux dispositions des articles 14, 54 et 82 de la loi n° 82-213 du
-2 mars 1982 relative aux droits et libertés des communes, des départements et
-des régions, le comptable de l'établissement public foncier est un comptable
-spécial nommé par le représentant de l'Etat dans le département sur proposition
-du conseil d'administration, après avis du trésorier-payeur général. Il est
-placé sous l'autorité administrative du directeur de l'établissement public.
+Les actes et délibérations de l'établissement public sont soumis au contrôle de
+légalité prévu par les articles L. 2131-1 à L. 2131-11 du code général des
+collectivités territoriales.
 
-Les actes et délibérations de l'établissement public foncier sont soumis au
-contrôle de légalité prévu par la loi n° 82-213 du 2 mars 1982 précitée.
+L'assemblée générale et le conseil d'administration ne délibèrent valablement
+que lorsque la majorité de leurs membres sont présents ou représentés. Les
+membres empêchés d'assister à une séance peuvent se faire représenter dans les
+conditions définies par l'article L. 2121-20 du code général des collectivités
+territoriales.

@@ -6,3 +6,10 @@ en matière de contributions directes.
 
 Les réclamations sont présentées et jugées comme en matière de contributions
 directes.
+
+Cette créance, augmentée des frais d'inscription hypothécaire, des frais de
+relogement ou d'hébergement s'il y a lieu, est garantie par l'inscription, à la
+diligence du préfet et aux frais des propriétaires concernés, d'une hypothèque
+légale sur l'immeuble ou, s'il s'agit d'un immeuble relevant des dispositions de
+la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
+immeubles bâtis, sur le ou les lots concernés.

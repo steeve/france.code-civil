@@ -18,13 +18,15 @@ II. - Les documents et décisions relatifs à l'occupation des sols comportent l
 dispositions propres à préserver les espaces, paysages et milieux
 caractéristiques du patrimoine naturel et culturel montagnard.
 
-III. - Sous réserve de la réfection ou de l'extension limitée des construction
-existantes et des installations ou équipements d'intérêt public incompatibles
-avec le voisinage des zones habitées, l'urbanisation doit se réaliser en
-continuité avec les bourgs, villages et hameaux existants, sauf si le respect
-des dispositions prévues aux I et II ci-dessus ou la protection contre les
-risques naturels imposent la délimitation de hameaux nouveaux intégrés à
-l'environnement.
+III. - Sous réserve de l'adaptation, de la réfection ou de l'extension limitée
+des construction existantes et des installations ou équipements d'intérêt public
+incompatibles avec le voisinage des zones habitées, l'urbanisation doit se
+réaliser en continuité avec les bourgs, villages et hameaux existants, sauf si
+le respect des dispositions prévues aux I et II ci-dessus ou la protection
+contre les risques naturels imposent la délimitation de hameaux nouveaux
+intégrés à l'environnement ou, à titre exceptionnel et après accord de la
+chambre d'agriculture et de la commission des sites, de zones d'urbanisation
+future de taille et de capacité d'accueil limitées.
 
 La capacité d'accueil des espaces destinés à l'urbanisation doit être compatible
 avec la préservation des espaces naturels et agricoles mentionnés aux I et II du

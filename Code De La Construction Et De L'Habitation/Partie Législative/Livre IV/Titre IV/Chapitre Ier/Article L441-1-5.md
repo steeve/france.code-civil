@@ -39,3 +39,14 @@ bassin d'habitat concerné sont prononcées selon les dispositions des articles 
 Dans le cas où une conférence intercommunale réunit des communes situées dans
 des départements différents, la charte est soumise à l'agrément des
 représentants de l'Etat dans les départements concernés.
+
+Les conférences communales du logement créées en application du dernier alinéa
+de l'article L. 441-1-4 élaborent une charte communale du logement en vue
+d'harmoniser les politiques d'attribution de logements sociaux des bailleurs
+disposant d'un parc locatif sur le territoire communal, dans le respect des
+engagements quantifiés fixés annuellement à chaque organisme en application de
+l'accord collectif départemental et des orientations de la conférence
+intercommunale du logement lorsque la commune est membre d'une telle conférence.
+La charte communale est communiquée au représentant de l'Etat dans le
+département ainsi qu'au président de la conférence intercommunale lorsque la
+commune est membre d'une telle conférence.

@@ -1,11 +1,7 @@
 Article L324-6
 ----
-Les recettes du budget de l'établissement public foncier comprennent notamment :
-
-1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général
-des impôts ;
-
-2° La contribution prévue à l'article L. 302-7 du code de la construction et de
-l'habitation ;
-
-3° Le produit des dons et legs.
+Le directeur est ordonnateur des dépenses et des recettes. Il représente
+l'établissement en justice et dans tous les actes de la vie civile. Il passe des
+contrats et signe tous les actes pris au nom de l'établissement. Il prépare et
+exécute les décisions de l'assemblée générale et du conseil d'administration. Il
+recrute le personnel et a autorité sur lui. Il peut déléguer sa signature.

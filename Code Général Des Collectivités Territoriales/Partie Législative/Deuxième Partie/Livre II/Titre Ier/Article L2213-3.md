@@ -11,4 +11,5 @@ précieux, des stationnements réservés sur les voies publiques de l'aggloméra
 2° Réserver des emplacements sur ces mêmes voies pour faciliter la circulation
 et le stationnement des transports publics de voyageurs et des taxis ainsi que
 des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le
-cadre de leurs missions.
+cadre de leurs missions et l'arrêt des véhicules effectuant un chargement ou un
+déchargement de marchandises.

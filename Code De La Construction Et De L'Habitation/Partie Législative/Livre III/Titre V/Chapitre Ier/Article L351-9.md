@@ -5,6 +5,9 @@ L'aide personnalisée au logement est versée :
 En cas de location, au bailleur du logement, sous réserve des dispositions des
 articles L. 351-11 et L. 353-9 ;
 
+En cas de mandat de gérance de logements, l'aide personnalisée peut être versée
+au mandataire ;
+
 Dans les autres cas, à l'établissement habilité à cette fin.
 
 Dans des cas qui seront précisés par décret, elle peut être versée au locataire

@@ -9,8 +9,9 @@ zone.
 A compter de la publication de cet arrêté et jusqu'à la publication de l'acte
 créant la zone d'aménagement différé, un droit de préemption est ouvert à l'Etat
 dans le périmètre provisoire. Les zones urbaines ou d'urbanisation future
-délimitées par un plan d'occupation des sols rendu public ou approuvé ne sont
-plus soumises au droit de préemption urbain institué sur ces territoires.
+délimitées par un plan d'occupation des sols rendu public ou par un plan local
+d'urbanisme approuvé ne sont plus soumises au droit de préemption urbain
+institué sur ces territoires.
 
 L'arrêté délimitant le périmètre provisoire peut désigner un autre titulaire du
 droit de préemption.

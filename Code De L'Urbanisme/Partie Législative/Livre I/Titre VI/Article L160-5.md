@@ -12,4 +12,5 @@ des droits acquis ou une modification à l'état antérieur des lieux détermina
 un dommage direct, matériel et certain ; cette indemnité, à défaut d'accord
 amiable, est fixée par le tribunal administratif, qui doit tenir compte de la
 plus-value donnée aux immeubles par la réalisation du plan d'occupation des sols
-rendu public ou approuvé ou du document qui en tient lieu.
+rendu public ou du plan local d'urbanisme approuvé ou du document qui en tient
+lieu.

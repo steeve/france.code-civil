@@ -10,8 +10,8 @@ conseil départemental d'hygiène auquel le maire ou, le cas échéant, le prés
 du groupement de communes ayant compétence en matière de logement est invité à
 présenter ses observations, et après délibération du conseil municipal ou, le
 cas échéant, de l'organe délibérant du groupement de communes ayant compétence
-en matière de logement. Cet arrêté vaut interdiction d'habiter au sens des
-articles L. 1331-28 et L. 1336-2 pour les immeubles qu'il désigne.
+en matière de logement. Cet arrêté vaut interdiction d'habiter et d'utiliser au
+sens de l'article L. 1331-28 pour les immeubles qu'il désigne.
 
 Cet arrêté est publié au Recueil des actes administratifs du département et
 affiché à la mairie du lieu de situation des biens.

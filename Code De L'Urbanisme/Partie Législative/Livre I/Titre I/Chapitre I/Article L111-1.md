@@ -11,6 +11,6 @@ dérogations aux règles qu'ils édictent sont apportées dans certains territoi
 
 Les règles générales mentionnées ci-dessus s'appliquent dans toutes les communes
 à l'exception des territoires dotés d'un plan d'occupation des sols rendu public
-ou approuvé, ou du document en tenant lieu. Un décret en Conseil d'Etat fixe
-celles de ces règles qui sont ou peuvent néanmoins demeurer applicables sur les
-territoires couverts par ces documents.
+ou d'un plan local d'urbanisme approuvé, ou du document en tenant lieu. Un
+décret en Conseil d'Etat fixe celles de ces règles qui sont ou peuvent néanmoins
+demeurer applicables sur les territoires couverts par ces documents.

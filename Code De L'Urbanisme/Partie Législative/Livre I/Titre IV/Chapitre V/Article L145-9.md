@@ -1,6 +1,6 @@
 Article L145-9
 ----
-- Les dispositions de la présente section s'appliquent exclusivement aux unités
+Les dispositions de la présente section s'appliquent exclusivement aux unités
 touristiques nouvelles.
 
 Est considérée comme unité touristique nouvelle toute opération de développement
@@ -26,7 +26,7 @@ détermine également la procédure applicable en cas d'urgence au remplacement 
 remontées mécaniques devenues inutilisables.
 
 Une unité touristique nouvelle ne peut être réalisée que dans une commune
-disposant d'un plan d'occupation des sols [*POS*] opposable aux tiers.
+disposant d'un plan local d'urbanisme opposable aux tiers.
 
 Le programme d'une unité touristique nouvelle doit, en tant que de besoin,
 contenir des dispositions pour le logement des salariés de la station et pour

@@ -1,4 +1,9 @@
 Article L324-9
 ----
-Un décret en Conseil d'Etat fixe les conditions d'application du présent
-chapitre.
+Le comptable de l'établissement public est un comptable direct du Trésor nommé
+par le préfet après avis conforme du trésorier-payeur général.
+
+Les dispositions des articles L. 1617-2, L. 1617-3 et L. 1617-5 du code général
+des collectivités territoriales sont applicables à l'établissement public.
+Celui-ci est, en outre, soumis à la première partie du livre II du code des
+juridictions financières.

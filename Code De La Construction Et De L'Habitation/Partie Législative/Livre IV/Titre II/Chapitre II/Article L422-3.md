@@ -3,19 +3,22 @@ Article L422-3
 Les sociétés anonymes coopératives de production d'habitations à loyer modéré
 ont pour objet :
 
-1° D'assister, à titre de prestataires de services, des personnes physiques et
-des sociétés coopératives de construction, constituées en application du
-chapitre III du titre Ier du livre II, pour la réalisation et la gestion de
-programmes de construction en accession à la propriété ;
+1° D'assister à titre de prestataires de services, dans des conditions définies
+par leurs statuts, des personnes physiques et des sociétés de construction
+constituées en application du titre Ier du livre II pour la réalisation et la
+gestion d'immeubles, à usage d'habitation ou à usage professionnel et
+d'habitation ou destinés à cet usage, en accession à la propriété ;
 
-2° En vue de l'accession à la propriété, de construire, acquérir, réaliser des
-travaux, vendre et gérer des immeubles à usage d'habitation ou à usage
-professionnel ou d'habitation ou destinés à cet usage ;
+2° En vue de leur vente à titre de résidence principale, de construire,
+acquérir, réaliser des travaux, vendre ou gérer des immeubles, à usage
+d'habitation ou à usage professionnel et d'habitation respectant des prix de
+vente maxima fixés par l'autorité administrative ;
 
-3° D'assister, à titre de prestataires de services, des personnes physiques ou
-morales en vue de la réalisation de tous travaux portant sur des immeubles
-existants et destinés à usage d'habitation ou à usage professionnel et
+2° bis En vue de leur location-accession, de construire, acquérir, réaliser des
+travaux, gérer des immeubles à usage d'habitation ou à usage professionnel et
 d'habitation ;
+
+3° Abrogé
 
 4° De réaliser des lotissements ;
 
@@ -24,13 +27,29 @@ prévues à l'article L. 421-1 ;
 
 6° D'acquérir et donner en location à des organismes agréés par arrêté du
 représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
-à l'hébergement temporaire des personnes en difficulté.
+à l'hébergement temporaire des personnes en difficulté ;
+
+7° De réaliser, dans les conditions fixées par leurs statuts, toutes les actions
+ou opérations d'aménagement définies par le code de l'urbanisme, soit pour leur
+compte avec l'accord de la ou des collectivités locales concernées, soit pour le
+compte de tiers lorsqu'elles ont été agréées à cet effet. Dans le cas où elles
+interviennent pour le compte de tiers, les dispositions des articles L. 443-14
+et L. 451-5 ne sont pas applicables aux cessions d'immeubles rendues nécessaires
+par la réalisation de ces actions ou opérations ;
+
+8° De réaliser pour le compte d'associations ou d'organismes oeuvrant dans le
+domaine du logement ou de personnes physiques des prestations de services
+définies par leurs statuts.
 
 Elles peuvent, en outre, avec l'accord du maire de la commune d'implantation et
 du représentant de l'Etat dans le département, gérer en qualité
 d'administrateurs de biens des logements situés dans des copropriétés
 connaissant des difficultés importantes de fonctionnement ou être syndics de ces
-copropriétés.
+copropriétés. Dans ces mêmes copropriétés, lorsqu'elles font l'objet d'un plan
+de sauvegarde en application de l'article L. 615-1, elles peuvent, selon les
+modalités précisées par décret en Conseil d'Etat qui peuvent déroger aux règles
+applicables aux habitations à loyer modéré, acquérir des lots en vue de leur
+revente, y effectuer tous travaux et les louer provisoirement.
 
 Elles peuvent réaliser pour le compte d'autres organismes d'habitations à loyer
 modéré des prestations de services pour des missions rentrant dans l'objet
@@ -49,8 +68,9 @@ modalités de mise en oeuvre de la procédure, dite de révision coopérative,
 définie au présent alinéa, ainsi que les conditions d'agrément garantissant le
 pluralisme de son exercice et le respect des principes coopératifs.
 
-Elles peuvent aussi prendre à bail des logements vacants pour les donner en
-sous-location à des personnes physiques dans les conditions fixées par les
-articles L. 444-1 et suivants.
+Elles peuvent également, dans les conditions fixées par leurs statuts,
+construire, acquérir, aménager, restaurer, agrandir, améliorer et gérer des
+immeubles en vue de la location et destinés à un usage d'habitation ou à un
+usage professionnel et d'habitation.
 
 Un décret détermine les modalités d'application du présent article.

@@ -18,15 +18,23 @@ administratif afférent au pénultième exercice ;
 au potentiel fiscal moyen, le prélèvement est égal à 2 p. 100 des dépenses
 totales.
 
-Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage
-de la pénultième année, tel qu'il est calculé par l'Institut national de la
-statistique et des études économiques, est supérieur au taux de chômage annuel
-moyen de l'ensemble des régions métropolitaines. Ces dispositions continuent à
-s'appliquer au-delà du 31 décembre 1999 pendant la période transitoire prévue au
-quatrième alinéa de l'article 67 de la loi n° 95-115 du 4 février 1995 précitée.
-
 Les dépenses réalisées en application de l'expérimentation prévue au troisième
 alinéa de l'article 67 de la loi n° 95-115 du 4 février 1995 d'orientation pour
 l'aménagement et le développement du territoire n'entrent pas dans l'assiette du
 prélèvement, à due concurrence, de la compensation forfaitaire des charges
+transférées. Ces dispositions continuent à s'appliquer au-delà du 31 décembre
+1999 pendant la période transitoire prévue au quatrième alinéa de l'article 67
+de la loi n° 95-115 du 4 février 1995 précitée. Il en est de même des dépenses
+réalisées en application de l'article 1er de l'ordonnance n° 59-151 du 7 janvier
+1959 rlative à l'organisation des transports de voyageurs en île-de-France.
+
+A compter du 1er janvier 2002, les dépenses réalisées en application des
+dispositions prévues à l'article 21-1 de la loi n° 82-1153 du 30 décembre 1982
+d'orientation des transports intérieurs n'entrent pas dans l'assiette du
+prélèvement, à due concurrence, de la compensation forfaitaire des charges
 transférées.
+
+Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage
+de la pénultième année, tel qu'il est calculé par l'Institut national de la
+statistique et des études économiques, est supérieur au taux de chômage annuel
+moyen de l'ensemble des régions métropolitaines.

@@ -4,7 +4,7 @@ Le taux de versement est fixé ou modifié par délibération du conseil municip
 ou de l'organisme compétent de l'établissement public dans la limite de :
 
 0,55 % des salaires définis à l'article L. 2333-65 lorsque la population de la
-commune ou de l'établissement public est comprise entre 20 000 et 100 000
+commune ou de l'établissement public est comprise entre 10 000 et 100 000
 habitants ;
 
 1 % des salaires définis à l'article L. 2333-65 lorsque la population de la

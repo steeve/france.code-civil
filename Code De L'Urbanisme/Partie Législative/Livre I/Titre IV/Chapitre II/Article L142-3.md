@@ -4,11 +4,11 @@ Pour la mise en oeuvre de la politique prévue à l'article L. 142-1, le conseil
 général peut créer des zones de préemption dans les conditions ci-après
 définies.
 
-Dans les communes dotées d'un plan d'occupation des sols rendu public ou
-approuvé, les zones de préemption sont créées avec l'accord du conseil
-municipal. En l'absence d'un tel document, et à défaut d'accord des communes
-concernées, ces zones ne peuvent être créées par le conseil général qu'avec
-l'accord du représentant de l'Etat dans le département.
+Dans les communes dotées d'un plan d'occupation des sols rendu public ou d'un
+plan local d'urbanisme approuvé, les zones de préemption sont créées avec
+l'accord du conseil municipal. En l'absence d'un tel document, et à défaut
+d'accord des communes concernées, ces zones ne peuvent être créées par le
+conseil général qu'avec l'accord du représentant de l'Etat dans le département.
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur
 tout terrain ou ensemble de droits sociaux donnant vocation à l'attribution en
@@ -59,8 +59,9 @@ lacustres, lorsque celui-ci est territorialement compétent, à l'établissement
 public chargé d'un parc national ou à celui chargé d'un parc naturel régional
 pour tout ou partie de la zone de préemption qui se trouve sur le territoire du
 parc ou dans les réserves naturelles dont la gestion leur est confiée, à l'Etat,
-à une collectivité territoriale ou à l'Agence des espaces verts de la région
-d'Ile-de-France. Les biens acquis entrent dans le patrimoine du délégataire.
+à une collectivité territoriale, à un établissement public foncier, au sens de
+l'article L. 324-1 ou à l'Agence des espaces verts de la région d'Ile-de-France.
+Les biens acquis entrent dans le patrimoine du délégataire.
 
 Si, à son expiration, le décret de classement d'un parc naturel régional n'est
 pas renouvelé, les biens que ce parc a acquis par exercice de ce droit de

@@ -1,10 +1,11 @@
 Article L431-4
 ----
-Les départements et les communes peuvent :
+Les régions, les départements et les communes et les établissements publics de
+coopération intercommunale peuvent :
 
-1° Consentir aux organismes d'habitations à loyer modéré des prêts dont les
-conditions générales d'emploi sont déterminées par les conventions établies à
-cet effet, et leur allouer des subventions ;
+1° Consentir aux organismes d'habitations à loyer modéré visés à l'article L.
+411-2 des prêts dont les conditions générales d'emploi sont déterminées par les
+conventions établies à cet effet, et leur allouer des subventions ;
 
 2° Souscrire à des obligations des sociétés d'habitations à loyer modéré et de
 crédit immobilier ;
