@@ -1,8 +1,8 @@
 Article R331-73
 ----
-Les prêts conventionnés doivent comporter un barême d'annuités de remboursement
-progressives ; la progressivité des annuités est de 3,5 p. 100 l'an pendant la
-période d'amortissement du prêt.
+Les établissements prêteurs doivent proposer dans tous les cas au moins un
+barème de remboursement des prêts conventionnés par annuités progressives selon
+des modalités définies par la convention type visée à l'article R. 331-65.
 
-En outre, les établissements prêteurs ont la faculté d'offrir des prêts à
-annuités constantes ainsi que des prêts à taux révisables.
+Ils peuvent également offrir des prêts à annuités constantes et des prêts à taux
+révisables.
