@@ -35,12 +35,9 @@ l'article 6 de l'ordonnance n° 58-1332 du 23 décembre 1958 relative aux
 stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi
 de finances rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
 
-//DECR. 542 du 13 mai 1981 :
-
 d) Chaleur : servitudes relatives aux canalisations de transport et de
 distribution de chaleur instituées en application de la loi n° 80-531 du 15
-juillet 1980 relative aux économies d'énergie et à l'utilisation de la
-chaleur.//
+juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
 
 B. - Mines et carrières.
 
@@ -117,6 +114,10 @@ autoroutes instituées en application de l'ordonnance n° 58-1311 du 23 décembr
 Servitudes attachées à l'alignement des voies nationales, départementales ou
 communales.
 
+Servitudes relatives aux interdictions d'accès grevant les propriétés
+limitrophes des routes express et des déviations d'agglomérations en application
+des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
+
 e) Circulation aérienne.
 
 Servitudes aéronautiques de dégagement et de balisage instituées en application
@@ -129,15 +130,13 @@ civile.
 Servitudes établies à l'extérieur des zones de dégagement en application des
 articles R. 244-1 et D. 244-1 à D. 244-4 du code de l'aviation civile.
 
-f) Téléfériques et pistes de ski.
+f) Remontées mécaniques et pistes de ski.
 
 Zones auxquelles s'applique la servitude de survol instituée par la loi du 8
-juillet 1941.
+juillet 1941 ;
 
-Servitudes liées à l'établissement des pistes de ski et instituées dans les
-stations classées de sports d'hiver et d'alpinisme en application de l'article
-L. 144-1 du code des communes et du titre III du décret n° 68-1031 du 14
-novembre 1968.
+Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9
+janvier 1985 relative au développement et à la protection de la montagne.
 
 E. - Télécommunications.
 
@@ -151,3 +150,7 @@ L. 62 et R. 27 à R. 39 du code des postes et télécommunications.
 
 Servitudes attachées aux réseaux de télécommunications instituées en application
 de l'article L. 48 (alinéa 2) du code des postes et télécommunications.
+
+Servitudes d'élagage relatives aux lignes de télécommunications empruntant le
+domaine public, instituées en application de l'article L. 65-1 du code des
+postes et télécommunications.
