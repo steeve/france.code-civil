@@ -5,7 +5,10 @@ agricoles soumis à un régime réel d'imposition, peuvent déduire chaque anné
 leur bénéfice, soit une somme de 10 000 F [*montant*], soit 10 p. 100
 [*pourcentage*] de ce bénéfice dans la limite de 20 000 F. Pour les exercices
 ouverts à compter du 1er janvier 1992, le taux est porté à 20 p. 100 dans la
-limite de 30 000 F.
+limite de 30 000 F. Pour les exercices ouverts à compter du 1er janvier 1993 le
+taux est porté à 30 % dans la limite de 45.000 F, une déduction complémentaire
+au taux de 10 p. 100 peut être pratiquée pour la fraction du bénéfice comprise
+entre 150.000 F et 450.000 F.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 pour le régime fiscal des sociétés de capitaux, la limite de la déduction visée

@@ -8,7 +8,7 @@ pour le bénéficiaire un complément de salaire imposable dans les conditions
 prévues au II de l'article 163 bis C.
 
 II. Lorsque le prix d'acquisition des actions offertes dans les conditions
-prévues au I est inférieur à 90 p. 100 de la moyenne des cours ou du cours moyen
+prévues au I est inférieur à 95 p. 100 de la moyenne des cours ou du cours moyen
 d'achat respectivement mentionnés aux articles 208-1 et 208-3 de la loi n°
 66-537 du 24 juillet 1966, la différence est imposée dans la catégorie des
 traitements et salaires au titre de l'année au cours de laquelle l'option est
