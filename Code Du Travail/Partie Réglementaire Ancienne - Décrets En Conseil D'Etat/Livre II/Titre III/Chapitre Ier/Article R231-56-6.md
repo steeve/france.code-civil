@@ -4,10 +4,10 @@ I. - Pour certaines activités telles que l'entretien, pour lesquelles la
 possibilité d'une augmentation sensible de l'exposition est prévisible et à
 l'égard desquelles toutes les possibilités de prendre d'autres mesures
 techniques de prévention sont déjà épuisées, le chef d'établissement détermine,
-après avis du comité d'hygiène, de sécurité et des conditions de travail ou, à
-défaut, des délégués du personnel, les mesures nécessaires pour réduire le plus
-possible la durée d'exposition des travailleurs et pour assurer leur protection
-durant ces activités.
+après avis du médecin du travail, du comité d'hygiène, de sécurité et des
+conditions de travail ou, à défaut, des délégués du personnel, les mesures
+nécessaires pour réduire le plus possible la durée d'exposition des travailleurs
+et pour assurer leur protection durant ces activités.
 
 Le chef d'établissement met à disposition des travailleurs concernés un vêtement
 de protection et un équipement individuel de protection respiratoire et veille à

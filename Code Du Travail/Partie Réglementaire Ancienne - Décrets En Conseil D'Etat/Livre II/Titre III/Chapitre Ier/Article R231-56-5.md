@@ -16,3 +16,8 @@ pour chacun au strict nécessaire.
 
 Les travailleurs non protégés ne sont pas autorisés à travailler dans la zone
 affectée.
+
+Afin de maintenir ou restaurer les conditions de salubrité dans cette zone,
+l'élimination des agents cancérogènes, mutagènes ou toxiques pour la
+reproduction doit s'effectuer sans créer de nouveaux risques pour les
+travailleurs de l'établissement ou l'environnement de ce même établissement.
