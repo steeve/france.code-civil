@@ -15,7 +15,8 @@ des productions et d'aménagement des structures d'exploitation au niveau
 départemental.
 
 Elle donne son avis sur les projets de contrat type susceptibles d'être proposés
-aux exploitants, en application des dispositions de l'article L. 311-3.
+aux exploitants, en application des dispositions relatives aux contrats
+d'agriculture durable.
 
 Elle est informée de l'utilisation au plan départemental des crédits affectés
 par la Communauté européenne, par l'Etat et par les collectivités territoriales
