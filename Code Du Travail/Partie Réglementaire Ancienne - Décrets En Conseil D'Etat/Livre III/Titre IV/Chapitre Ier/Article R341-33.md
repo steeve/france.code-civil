@@ -17,7 +17,7 @@ travail et de la main-d'oeuvre, transmet à ce dernier, avec son avis, le
 procès-verbal accompagné, le cas échéant, des observations de l'employeur.
 
 Le directeur départemental du travail et de la main-d'oeuvre adresse, avec son
-avis, au directeur de l'office national d'immigration le procès-verbal ainsi que
-les observations de l'employeur, s'il en a été produit, et, le cas échéant,
-l'avis du fonctionnaire compétent en raison de la nature de l'activité exercée
-par l'employeur.
+avis, au directeur de l'office des migrations internationales le procès-verbal
+ainsi que les observations de l'employeur, s'il en a été produit, et, le cas
+échéant, l'avis du fonctionnaire compétent en raison de la nature de l'activité
+exercée par l'employeur.

@@ -11,11 +11,11 @@ générale des services d'accueil ;
 
 4. Le compte administratif du directeur et les comptes de l'agent comptable ;
 
-5. Les achats, ventes, échanges d'immeubles, baux de plus de neuf ans [*durée*]
+5. Les achats, ventes, échanges d'immeubles, baux de plus de neuf ans [*durée*],
 constitution et cession de droits réels immobiliers ;
 
 6. Les transactions sur toutes affaires lorsque la somme en liquide n'excède pas
-2.000 F [*montant limite*] ;
+2 000 F [*montant limite*] ;
 
 7. L'acceptation de dons ou legs.
 
