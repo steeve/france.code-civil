@@ -10,6 +10,10 @@ quatrième alinéa de l'article R. 511-87 sont préparés par le président du c
 de direction et votés par ledit comité, la chambre d'agriculture votant sa
 contribution au fonctionnement de l'établissement ou du service.
 
+Le budget spécial du service d'utilité agricole de développement est préparé par
+le comité de direction mentionné à l'article R. 511-3 et voté par la chambre
+départementale d'agriculture.
+
 Les budgets spéciaux ci-dessus mentionnés sont soumis par le président de la
 chambre d'agriculture, avant le 30 novembre, à l'approbation du commissaire de
 la République.
