@@ -1,9 +1,9 @@
 Article R139
 ----
 Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à
-l'amiable, dans les conditions prévues au quatrième alinéa de l'article R. 129,
-sur les instructions du ministre intéressé et après avis favorable du ministre
-chargé du logement, lorsqu'ils sont destinés à être utilisés pour la réalisation
+l'amiable, dans les conditions prévues à l'article R. 129-4, sur les
+instructions du ministre intéressé et après avis favorable du ministre chargé du
+logement, lorsqu'ils sont destinés à être utilisés pour la réalisation
 d'opérations d'urbanisme ou de construction.
 
 Les conditions de l'utilisation des immeubles par les cessionnaires sont
