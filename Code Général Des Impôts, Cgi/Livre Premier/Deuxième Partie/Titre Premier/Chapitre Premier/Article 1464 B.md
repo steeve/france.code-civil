@@ -23,3 +23,8 @@ III. Lorsqu'un établissement remplit les conditions requises pour bénéficier 
 l'exonération temporaire de taxe professionnelle prévue à l'article 1465 et de
 l'exonération de taxe professionnelle prévue au I, l'entreprise doit opter pour
 l'un ou l'autre de ces régimes. Cette option est irrévocable.
+
+((IV. Les dispositions du dixième alinéa de l'article 1465 s'appliquent au
+présent article.)) (Modification de la loi 93-1352).
+
+[*Cf. Instruction 1995-08-03 6E-9-95*].

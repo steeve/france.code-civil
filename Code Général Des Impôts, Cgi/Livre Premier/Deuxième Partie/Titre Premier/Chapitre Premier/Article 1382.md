@@ -48,10 +48,7 @@ Les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,
 sont imposables jusqu'à l'expiration de celle-ci.
 
-2° Les bâtiments situés sur les terrains donnés en location par l'Etat
-(administration des postes et télécommunications) aux sociétés agréées pour le
-financement des télécommunications et dont la construction a été financée par
-lesdites sociétés ;
+2° (Périmé).
 
 3° Les ouvrages établis pour la distribution d'eau potable et qui appartiennent
 à des communes rurales ou syndicats de communes ;
@@ -61,7 +58,10 @@ départements ou aux communes, ou attribués, en vertu des dispositions de
 l'article 4 de la loi du 9 décembre 1905, aux associations ou unions prévues par
 le titre IV de la même loi ainsi que ceux attribués en vertu des dispositions de
 l'article 112 de la loi du 29 avril 1926 aux associations visées par cet article
-et ceux acquis ou édifiés par lesdites associations ou unions ;
+et ceux acquis ou édifiés par lesdites associations ou unions ; Les édifices
+affectés à l'exercice du culte qui, dans les départements du Bas-Rhin, du
+Haut-Rhin et de la Moselle, appartiennent à des associations ayant pour objet
+exclusif l'exercice d'un culte non reconnu ;
 
 5° Les bâtiments qui appartiennent aux associations des mutilés de guerre ou du
 travail reconnues d'utilité publique et sont affectés à l'hospitalisation des
@@ -76,7 +76,7 @@ autre usage
 
 b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à
 un usage agricole par les sociétés coopératives agricoles, par les collectivités
-visées à l'article 617-2°, 3° et 4° du code rural ainsi que les unions de
+visées aux 2°, 3° et 4° de l'article 617 du code rural ainsi que les unions de
 sociétés coopératives agricoles ou unions de coopératives agricoles et de
 coopératives de consommation constituées et fonctionnant conformément aux
 dispositions légales qui les régissent.

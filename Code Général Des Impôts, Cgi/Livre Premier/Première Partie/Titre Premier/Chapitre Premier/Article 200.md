@@ -46,14 +46,14 @@ Savoie.
 4. Le taux de la réduction d'impôt visée au 1 est porté à 50 p. 100 pour les
 versements effectués au profit d'organismes sans but lucratif qui procèdent à la
 fourniture gratuite de repas à des personnes en difficulté ou qui contribuent à
-favoriser leur logement. Ces versements sont retenus dans la limite de 520 F
+favoriser leur logement. Ces versements sont retenus dans la limite de 1000 F
 (1') . Il n'en est pas tenu compte pour l'application des limites de 1,25 p. 100
 et de 5 p. 100.
 
 La limite de versements mentionnée à l'alinéa précédent est relevée chaque année
-dans la même proportion que la limite supérieure de la septième tranche du
-barème de l'impôt sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, à
-la dizaine de francs supérieure.
+dans la même proportion que la limite supérieure de la ((première tranche du
+barème de l'impôt sur le revenu)) (1"). Le montant obtenu est arrondi, s'il y a
+lieu, à la dizaine de francs supérieure.
 
 5. Le bénéfice des dispositions des 1 et 4 est subordonné à la condition que
 soient jointes à la déclaration des revenus des pièces justificatives, répondant
@@ -64,17 +64,23 @@ d'impôt est refusée sans notification de redressement préalable (2).
 Toutefois, pour l'application du 2 bis, les reçus délivrés pour les dons d'un
 montant égal ou inférieur à 20 000 F ne mentionnent pas la dénomination du
 bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application
-de cette disposition.
+de cette disposition (3).
 
 6. Les organismes mentionnés au 3 peuvent, lorsque leurs statuts ont été
 approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour
 le compte d'oeuvres ou d'organismes mentionnés au 2.
 
 7. La réduction d'impôt prévue au présent article s'applique sur l'impôt calculé
-dans les conditions fixées par l'article 197 avant, le cas échéant, application
-des dispositions du VI de cet article ; elle ne peut donner lieu à remboursement
-(3). (1) Voir le décret n° 85-1304 du 9 décembre 1985 (JO du 11). (1') Limite
-portée à 1.000 F, loi 93-1352 art. 5 (JO du 31 décembre 1993).
+dans les conditions fixées par l'article 197 ; elle ne peut donner lieu à
+remboursement (4).
 
-(2) Voir l'arrêté du 15 mars 1989 (JO du 21 mai). (3) Voir l'article L52-8 du
-code électoral et l'article 11-4 de la loi 11 mars 1988.
+(1) Voir le décret n° 85-1304 du 9 décembre 1985 (JO du 11). (1') Modification
+de la loi; limite applicable pour l'imposition des revenus de 1993.
+
+(1") Modification de la loi.
+
+(2) Voir l'arrêté du 15 mars 1989 (JO du 21 mai). (3) Voir l'article R39-1 du
+code électoral et l'article 11 du décret 90-606 du 9 juillet 1990 modifié.
+
+(4) Voir l'article L52-8 du code électoral et l'article 11-4 de la loi 11 mars
+1988 sous l'article 238 bis ci-après.

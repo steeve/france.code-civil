@@ -72,5 +72,9 @@ suivantes).
 IV. Les dégrèvements résultant de l'application du présent article sont
 ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
+((V. Le dégrèvement accordé à un contribuable en application du présent article
+ne peut excéder un milliard de francs pour les impositions établies au titre de
+1994 et des années suivantes)) (1').
+
 (1) Taux applicable pour les impositions établies au titre de 1991 et des années
-suivantes. Précédemment le taux était de 4 %.
+suivantes. Précédemment le taux était de 4 %. (1') Modification de la loi.

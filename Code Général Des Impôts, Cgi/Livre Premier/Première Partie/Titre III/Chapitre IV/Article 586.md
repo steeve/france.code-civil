@@ -3,7 +3,8 @@ Article 586
 Il est créé une taxe sur les allumettes et les briquets commercialisés en France
 continentale et en Corse (1).
 
-Elle est due par le fabricant ou l'importateur.
+Elle est due par le fabricant ou l'importateur ou la personne qui réalise une
+acquisition intracommunautaire.
 
 Les taux de la taxe sont fixés comme suit :
 
@@ -16,8 +17,8 @@ DESIGNATION : Briquets à flamme ou recharges de briquets
 PAR UNITE : 0,50 F
 
 La taxe est liquidée chaque mois d'après les quantités livrées sur le marché
-intérieur au cours du mois précédent. Elle est acquittée au plus tard [*date du
-paiement*] le 5 du mois suivant celui de la liquidation.
+intérieur au cours du mois précédent. Elle est acquittée au plus tard le 5 du
+mois suivant celui de la liquidation.
 
 Elle est recouvrée selon les conditions, garanties et sanctions prévues en
 matière de contributions indirectes. A l'importation, elle est recouvrée comme

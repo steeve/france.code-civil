@@ -16,11 +16,9 @@ revenu global des années suivantes jusqu'à la cinquième année inclusivement
 Toutefois, n'est pas autorisée l'imputation :
 
 1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 100.000 F [*montant*] ; ces déficits peuvent
-cependant être admis en déduction des bénéfices de même nature des années
-suivantes jusqu'à la cinquième inclusivement. (Le seuil de 100.000 F est
-applicable à compter de l'imposition des revenus de 1989. Antérieurement il
-était de 70.000 F) ;
+nets d'autres sources excède ((150.000 F)) (1); ces déficits peuvent cependant
+être admis en déduction des bénéfices de même nature des années suivantes
+jusqu'à la cinquième inclusivement.
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92,
 autres que ceux qui proviennent de l'exercice d'une profession libérale ou des
@@ -34,7 +32,12 @@ fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail
 conformément au statut du fermage, sur ceux des neuf années suivantes ; cette
 disposition n'est pas applicable aux propriétaires de monuments classés
 monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait
-l'objet d'un agrément ministériel.
+l'objet d'un agrément ministériel ((ni aux nus-propriétaires pour le déficit
+foncier qui résulte des travaux qu'ils payent en application des dispositions de
+l'article 605 du code civil, lorsque le démembrement de propriété d'un immeuble
+bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni
+condition et consentie entre parents jusqu'au quatrième degré inclusivement))
+(1').
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 travaux réalisés à compter du 1er juillet 1993 par les propriétaires de locaux
@@ -62,11 +65,6 @@ L'imputation est limitée à 50 000 F. La fraction du déficit supérieure à 50
 F et la fraction du déficit non imputable résultant des intérêts d'emprunt sont
 déduites dans les conditions prévues au premier alinéa.
 
-Les mêmes règles s'appliquent également en cas de démembrement du droit de
-propriété résultant d'une succession ; le déficit foncier des nus-propriétaires
-s'entend de celui qui résulte des travaux payés en application des dispositions
-de l'article 605 du code civil.
-
 Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire de
 titres d'une société non soumise à l'impôt sur les sociétés les vend, le revenu
 foncier et le revenu global des trois années qui précèdent celle au cours de
@@ -82,7 +80,7 @@ pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et impute
 déficit foncier sur le revenu global.
 
 4° Des déficits réalisés par des personnes, autres que les loueurs
-professionnels au sens de l'article 151 septies, dernier alinéa, louant
+professionnels au sens du dernier alinéa de l'article 151 septies, louant
 directement ou indirectement des locaux d'habitation meublés ou destinés à être
 meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de
 cette même activité au cours des années suivantes jusqu'à la cinquième
@@ -213,3 +211,8 @@ du travail et les maladies professionnelles dans l'agriculture.
 12° (Sans objet). (A compter de l'imposition des revenus de 1988, la déduction
 des sommes versées pour l'emploi d'une aide à domicile est remplacée par une
 réduction d'impôt sur le revenu (voir l'article 199 quaterdecies)).
+
+(1) Le seuil de 150.000 F est applicable à compter de l'imposition des revenus
+de 1994 : loi 93-1352 art. 35.
+
+(1') Modification de la loi art. 10.

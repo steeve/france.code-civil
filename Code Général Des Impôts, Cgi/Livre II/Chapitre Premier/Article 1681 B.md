@@ -3,20 +3,24 @@ Article 1681 B
 Le prélèvement effectué chaque mois, de janvier à octobre, sur le compte du
 contribuable, est égal au dixième de l'impôt établi au titre de ses revenus de
 l'avant-dernière année, ou, si cet impôt n'a pas encore été établi, de l'impôt
-sur ses derniers revenus annuels imposés [*montant*].
+sur ses derniers revenus annuels imposés.
+
+((Toutefois, les prélèvements effectués lors des quatre premiers mois de l'année
+1994 sont réduits de 6 p. 100 dans une limite mensuelle de 1 000 F))
+(Modification de la loi).
 
 S'il estime que les prélèvements mensuels effectués ont atteint le montant des
 cotisations dont il sera finalement redevable, le contribuable peut demander la
 suspension des prélèvements suivants.
 
-S'il estime que l'impôt exigible diffèrera d'au moins 10 p. 100 [*pourcentage*]
-de celui qui a servi de base aux prélèvements, il peut demander la modification
-du montant de ces derniers.
+S'il estime que l'impôt exigible diffèrera d'au moins 10 p. 100 de celui qui a
+servi de base aux prélèvements, il peut demander la modification du montant de
+ces derniers.
 
-Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 10 mai
-[*date limite*] de chaque année, doit préciser le montant présumé de l'impôt,
-être datée, signée et adressée au comptable du Trésor avant le 10 d'un mois
-donné pour prendre effet le mois suivant.
+Dans l'un ou l'autre cas, la demande, qui ne peut être postérieure au 10 mai de
+chaque année, doit préciser le montant présumé de l'impôt, être datée, signée et
+adressée au comptable du Trésor avant le 10 d'un mois donné pour prendre effet
+le mois suivant.
 
 Lorsqu'il apparaît que le montant de l'impôt est supérieur de plus de 10 p. 100
 au montant de l'impôt présumé par le contribuable, celui-ci perd pour l'année le

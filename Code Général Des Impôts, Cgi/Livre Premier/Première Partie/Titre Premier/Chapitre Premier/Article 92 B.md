@@ -15,9 +15,9 @@ personnelle, familiale ou professionnelle du contribuable (2), le franchissement
 de la limite précitée de 150.000 F est apprécié par référence à la moyenne des
 cessions de l'année considérée et des deux années précédentes. Les événements
 exceptionnels [*définition*] mentionnés ci-dessus doivent notamment s'entendre
-de la mise à la retraite, du chômage, du redressement judiciaire ainsi que de
-l'invalidité ou du décès du contribuable ou de l'un ou l'autre des époux soumis
-à une imposition commune.
+de la mise à la retraite, du chômage, du redressement ((ou de la liquidation
+judiciaires)) (M) ainsi que de l'invalidité ou du décès du contribuable ou de
+l'un ou l'autre des époux soumis à une imposition commune.
 
 Lorsque l'imposition de la plus-value réalisée en cas d'échange est reportée
 dans les conditions prévues au II, la limite de 150 000 F précitée est appréciée
@@ -34,8 +34,8 @@ division ou de regroupement réalisées conformément à la réglementation en
 vigueur (4).
 
 Le chiffre de 150.000 F figurant au premier alinéa est révisé, chaque année dans
-la même proportion que la septième tranche du barème de l'impôt sur le revenu
-(5).
+la même proportion que la ((limite supérieure de la première tranche du barème
+de l'impôt sur le revenu)) (M) (5).
 
 I bis Sous réserve des dispositions du I, les gains nets retirés de la cession
 des parts ou actions de fonds communs de placement ou de sociétés
@@ -46,6 +46,13 @@ obligations, en bons du Trésor ou en titres de créances négociables sur un
 marché réglementé, sont imposables dans les mêmes conditions lorsque le montant
 de ces cessions excède, par foyer fiscal, la moitié de la limite mentionnée au I
 (3).
+
+((Pour les opérations réalisées à compter du 1er janvier 1994, les dispositions
+du premier alinéa s'appliquent lorsque le montant des cessions excède, par foyer
+fiscal, 100 000 F par an.
+
+((Cette limite est fixée à 50 000 F pour les opérations réalisées à compter du
+1er janvier 1995.)) (M)
 
 II 1° A compter du 1er janvier 1992 ou du 1er janvier 1991 pour les apports de
 titres à une société passible de l'impôt sur les sociétés, l'imposition de la
@@ -90,6 +97,8 @@ et autres titres d'emprunt négociables non cotés réalisés à compter du 1er
 septembre 1992.
 
 (2) Annexe II, art. 39 A.
+
+(M) Modifications de l'édition 1994.
 
 (3) Dispositions sont applicables aux opérations réalisées à compter du 1er
 janvier 1993.

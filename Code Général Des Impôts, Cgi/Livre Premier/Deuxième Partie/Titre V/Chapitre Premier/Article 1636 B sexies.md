@@ -87,6 +87,29 @@ de cette taxe constaté la même année pour l'ensemble des communes ;
 2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen
 de cette taxe constaté la même année pour l'ensemble des communes.
 
+((5 a) Dans les départements et les communes remplissant les conditions fixées
+au b, le taux de la taxe professionnelle peut être, en 1994, majoré de 5 p. 100
+au maximum sans que cette majoration soit prise en compte pour l'application du
+b du I.
+
+((Cette majoration ne peut se cumuler avec celle prévue au 3 lorsque le taux de
+taxe professionnelle du département ou de la commune est, en 1993, égal ou
+supérieur à 80 p. 100 du taux moyen de cette taxe constaté la même année pour
+l'ensemble des collectivités de même nature ;
+
+((b) Ces dispositions s'appliquent aux départements et aux communes visés à
+l'article 54 de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993) et
+dans lesquelles, au titre de l'année précédente :
+
+((1° Le taux de taxe professionnelle est inférieur d'au moins 10 p. 100 au taux
+moyen de cette taxe constaté la même année pour l'ensemble des collectivités de
+même nature ;
+
+((2° Le taux moyen pondéré des trois autres taxes perçues au profit de la
+collectivité concernée est égal ou supérieur au taux moyen pondéré constaté la
+même année pour ces trois taxes dans l'ensemble des collectivités de même
+nature.)) (Modification de la loi 93-1352).
+
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle
 étaient nuls l'année précédente, le conseil municipal peut fixer le taux de
 cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen

@@ -15,3 +15,8 @@ l'exercice au cours duquel ce régime n'est plus applicable les sommes qui
 doivent être rapportées au résultat ou à la plus-value ou moins-value nette à
 long terme d'ensemble en application des dispositions de la présente section en
 cas de sortie du groupe d'une société.
+
+((Lorsqu'un groupe bénéficie des dispositions prévues au 5 de l'article 223-I,
+la partie du déficit afférente à une société, calculée dans les conditions
+prévues audit 5 et qui demeure reportable, ne peut plus être imputée si cette
+société sort du groupe.)) (Modification de la loi 93-1352).

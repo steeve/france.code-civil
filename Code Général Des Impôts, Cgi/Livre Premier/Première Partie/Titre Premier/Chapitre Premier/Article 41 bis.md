@@ -1,14 +1,14 @@
 Article 41 bis
 ----
 1. La plus-value constatée à l'occasion de la cession des éléments corporels et
-incorporels d'un débit de boissons auquel est attachée une licence de 3è ou de
-4è catégorie n'est pas comprise dans le bénéfice imposable lorsque le
+incorporels d'un débit de boissons auquel est attachée une licence de 3e ou de
+4e catégorie n'est pas comprise dans le bénéfice imposable lorsque le
 cessionnaire prend l'engagement dans l'acte de cession, soit de transformer
 l'exploitation dans un délai maximal de six mois, à compter de la cession, en
-débit de 1re ou 2è catégorie, soit d'entreprendre, dans le même délai et dans
+débit de 1re ou 2e catégorie, soit d'entreprendre, dans le même délai et dans
 les mêmes locaux, une profession ne comportant pas la vente de boissons, dans
-les conditions prévues à l'article 1er, 1° et 2° du décret n° 55-570 du 20 mai
-1955 [*conditions d'exonération*].
+les conditions prévues aux 1° et 2° de l'article 1er du décret n° 55-570 du 20
+mai 1955.
 
 Lorsque la cession porte sur un établissement dans lequel sont exercées
 plusieurs activités, le bénéfice de l'exonération ainsi prévue est limité à la
@@ -26,6 +26,6 @@ dans le délai de trois ans à compter de la mutation et à l'occasion de
 l'exploitation du débit cédé.
 
 Le complément d'impôts dû dans ce cas peut, sans préjudice du délai de reprise
-fixé à l'article L 169 du livre des procédures fiscales, être mis en
-recouvrement jusqu'au 31 décembre de l'année suivant celle de la condamnation ou
-transaction définitive.
+fixé au premier alinéa de l'article L. 169 du livre des procédures fiscales,
+être mis en recouvrement jusqu'au 31 décembre de l'année suivant celle de la
+condamnation ou transaction définitive.

@@ -33,3 +33,9 @@ d'agglomération nouvelle s'accompagne des obligations liées à leur perception
 En cas de dénonciation de l'accord par une des communes membres, la perception
 de ces droits et taxes par la communauté ou le syndicat d'agglomération nouvelle
 prend fin sur le territoire de cette commune.
+
+V. ((En cas de rattachement à une communauté ou à un syndicat d'agglomération
+nouvelle, les dispositions des I et II de l'article 1638 quater sont
+applicables)) (1).
+
+(1) Modification de la loi.
