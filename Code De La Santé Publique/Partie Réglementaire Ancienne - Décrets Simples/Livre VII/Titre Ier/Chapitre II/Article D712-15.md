@@ -20,7 +20,7 @@ artificiels : caméra à scintillation, tomographe à émissions, caméra à pos
 ;
 
 5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à
-utilisation clinique.
+utilisation clinique ;
 
 6° Appareil de destruction transpariétale des calculs.
 
@@ -42,7 +42,3 @@ scellées ;
 énergie ;
 
 7° Activités de procréation médicalement assistée et diagnostic prénatal.
-
-8° Accueil et traitement des urgences, lorsque cette activité de soins est
-exercée sous forme d'un pôle spécialisé défini par l'article R. 712-66 ou dans
-les conditions dérogatoires prévues à l'article R. 712-69.

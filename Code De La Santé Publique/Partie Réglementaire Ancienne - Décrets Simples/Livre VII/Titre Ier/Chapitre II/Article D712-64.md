@@ -1,6 +1,6 @@
 Article D712-64
 ----
-L'antenne doit disposer de locaux distribués en trois zones :
+L'unité de proximité doit disposer de locaux distribués en trois zones :
 
 1° Une zone d'accueil ;
 
@@ -8,4 +8,4 @@ L'antenne doit disposer de locaux distribués en trois zones :
 ;
 
 3° Une zone de surveillance de très courte durée comportant deux à quatre boxes
-individuels par tranche de 10 000 passages par an à l'antenne.
+individuels par tranche de 10 000 passages par an à l'unité de proximité.

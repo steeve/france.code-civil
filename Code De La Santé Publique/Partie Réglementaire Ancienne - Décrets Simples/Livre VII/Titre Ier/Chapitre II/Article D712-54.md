@@ -5,9 +5,6 @@ soit effectivement présent vingt-quatre heures sur vingt-quatre, tous les jours
 de l'année, et assure l'examen de tout patient à l'arrivée de celui-ci dans le
 service.
 
-L'établissement doit également s'assurer la présence d'un psychiatre
-vingt-quatre heures sur vingt-quatre, tous les jours de l'année.
-
 Tous les médecins de cette équipe doivent avoir acquis une formation à la prise
 en charge des urgences soit par une qualification universitaire, soit par une
 expérience professionnelle d'au moins un an dans un service recevant les
