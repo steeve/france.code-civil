@@ -1,28 +1,18 @@
 Article R981-4
 ----
-La demande d'habilitation accompagnée du dossier est adressée, par lettre
-recommandée avec accusé de réception, au commissaire de la République du
-département où les jeunes exerceront leur activité. Lorsqu'une entreprise
-comportant des établissements situés dans des départements différents se propose
-d'accueillir des jeunes dans ces divers établissements, elle adresse une demande
-d'habilitation à chacun des commissaires de la République compétents.
+Lorsqu'il est constaté par les services chargés du contrôle de l'exécution du
+contrat, ou par les agents mentionnés à l'article L. 991-3, que l'employeur a
+méconnu les obligations mises à sa charge par les articles L. 981-1 à L. 981-8,
+le directeur départemental du travail, de l'emploi et de la formation
+professionnelle peut, par décision motivée, prononcer le retrait du bénéfice de
+l'exonération prévu à l'article L. 981-6.
 
-L'habilitation est réputée acquise à défaut de décision de refus notifiée par le
-commissaire de la République dans le mois qui suit la réception du dossier, sauf
-dans le cas où il y a lieu d'appliquer les dispositions de l'article R. 980-5
-[*autorité compétente, délai*].
+La décision est notifiée à l'employeur, qui en informe les représentants du
+personnel. Elle est également communiquée à l'organisme chargé du recouvrement
+des cotisations et contributions sociales et à l'organisme paritaire collecteur
+agréé.
 
-L'habilitation peut être retirée par décision motivée du commissaire de la
-République prise après avis du comité départemental de la formation
-professionnelle, de la promotion sociale et de l'emploi en cas de méconnaissance
-des dispositions des articles L. 980-1 à L. 981-5 ou des engagements pris en la
-matière par l'employeur.
-
-En outre, l'habilitation accordée à une entreprise de travail temporaire peut
-être retirée [*retrait*] dans les mêmes conditions lorsque le choix des missions
-ne permet pas le bon déroulement du contrat de qualification ou que les
-conditions de travail, d'hygiène et de sécurité ne sont pas satisfaisantes.
-
-Si une entreprise habilitée désire conclure des contrats de qualification
-comportant des formations en alternance autres que celles qui font l'objet de
-l'habilitation, elle présente une nouvelle demande.
+Les cotisations dont l'employeur a été exonéré avant la notification de la
+décision de retrait doivent être versées au plus tard à la première date
+d'exigibilité des cotisations et contributions sociales qui suit la date de
+notification de la décision.
