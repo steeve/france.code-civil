@@ -7,8 +7,7 @@ de sa façade, sur une largeur égale à celle de la moitié desdites voies, san
 pouvoir, toutefois, excéder six mètres.
 
 Le tarif de la taxe est délibéré en conseil municipal, après enquête, et
-approuvé par arrêté du commissaire de la République. Il est révisé tous les cinq
-ans.
+approuvé par arrêté du préfet. Il est révisé tous les cinq ans.
 
 La valeur des propriétés n'entre pas en compte dans l'établissement de la taxe,
 qui repose uniquement sur les nécessités de la circulation, de la salubrité et

@@ -1,13 +1,12 @@
 Article R413-2
 ----
 Pour établir la liste des membres du collège électoral, la commission se fait
-remettre une copie, certifiée par le commissaire de la République, du
-procès-verbal de l'élection des délégués consulaires, une expédition de
-l'ordonnance fixant le tableau des juges composant la juridiction et l'état
-nominatif des membres des chambres de commerce et d'industrie ayant la qualité
-d'électeurs consulaires dans le ressort du tribunal de commerce. Cet état est
-certifié par chacun des présidents des chambres de commerce et d'industrie
-intéressées.
+remettre une copie, certifiée par le préfet, du procès-verbal de l'élection des
+délégués consulaires, une expédition de l'ordonnance fixant le tableau des juges
+composant la juridiction et l'état nominatif des membres des chambres de
+commerce et d'industrie ayant la qualité d'électeurs consulaires dans le ressort
+du tribunal de commerce. Cet état est certifié par chacun des présidents des
+chambres de commerce et d'industrie intéressées.
 
 La commission procède à la radiation des membres du collège électoral qui sont
 décédés, qui ont démissionné, qui ont été déclarés déchus de leurs fonctions ou

@@ -2,14 +2,14 @@ Article R167-2
 ----
 L'ouverture de la tutelle concernant les prestations énumérées aux articles L.
 434-10 et L. 511-1 peut être demandée au juge des enfants du domicile ou de la
-résidence de l'allocataire ou de l'attributaire par [*requérant*] :
+résidence de l'allocataire ou de l'attributaire par :
 
 1°) le père, la mère ou la personne investie du droit de garde sur le mineur au
 profit duquel est versée la prestation ;
 
 2°) la personne qui a la charge effective et permanente du mineur ;
 
-3°) les commissaires de la République ;
+3°) les préfets ;
 
 4°) les organismes ou services débiteurs des prestations sociales ;
 

@@ -3,15 +3,14 @@ Article R512-2
 Sans préjudice des autres attributions qui lui sont conférées par le présent
 code, le comité départemental de coordination de la mutualité :
 
-1° Procède aux enquêtes et donne les avis qui lui sont demandés par le
-commissaire de la République ;
+1° Procède aux enquêtes et donne les avis qui lui sont demandés par le préfet ;
 
-2° Présente, chaque année [*périodicité*], au commissaire de la République un
-rapport sur le fonctionnement de l'ensemble des groupements mutualistes de son
-ressort, qui est également transmis au Conseil supérieur de la mutualité ;
+2° Présente, chaque année [*périodicité*], au préfet un rapport sur le
+fonctionnement de l'ensemble des groupements mutualistes de son ressort, qui est
+également transmis au Conseil supérieur de la mutualité ;
 
-3° Est habilité à rechercher et signaler au commissaire de la République les
-manquements aux dispositions de l'article L. 122-3, alinéa 2 ;
+3° Est habilité à rechercher et signaler au préfet les manquements aux
+dispositions de l'article L. 122-3, alinéa 2 ;
 
 4° Développe l'idée mutualiste et favorise les initiatives locales, notamment en
 matière de prévoyance et d'action sociale ;

@@ -1,6 +1,7 @@
 Article R*315-40
 ----
 Pour l'application du présent chapitre, le préfet peut déléguer sa signature au
-directeur départemental de l'équipement ou aux subordonnés de ce dernier, sauf
-dans les cas prévus aux articles R. 315-22 et R. 315-23, ou si le maire et le
-directeur départemental de l'équipement ont émis des avis en sens opposé.
+responsable du service de l'Etat chargé de l'urbanisme dans le département ou
+aux subordonnés d celui-ci, sauf dans les cas ou le maire et le responsable du
+service de l'Etat chargé de l'urbanisme dans le département ont émis des avis en
+sens opposé.

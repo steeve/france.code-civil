@@ -8,5 +8,4 @@ de procéder sans délai au remplacement du ou des expulsés.
 L'autorité qui a procédé, sur réquisition du président du bureau de vote, à
 l'expulsion soit d'un ou de plusieurs assesseurs, soit d'un ou de plusieurs
 délégués, doit immédiatement après l'expulsion, adresser au procureur de la
-République et au commissaire de la République, un procès-verbal rendant compte
-de sa mission.
+République et au préfet, un procès-verbal rendant compte de sa mission.

@@ -1,9 +1,8 @@
 Article R124-2
 ----
 L'autorisation prévue à l'article L. 124-4 [*réception de dons et legs*] est
-accordée par le commissaire de la République du département dans lequel est
-situé le siège social de la mutuelle [*autorité compétente, compétence
-territoriale*].
+accordée par le préfet du département dans lequel est situé le siège social de
+la mutuelle [*autorité compétente, compétence territoriale*].
 
 Toutefois, cette autorisation est accordée par le ministre chargé de la
 mutualité lorsque le montant de la libéralité dépasse le seuil fixé par le

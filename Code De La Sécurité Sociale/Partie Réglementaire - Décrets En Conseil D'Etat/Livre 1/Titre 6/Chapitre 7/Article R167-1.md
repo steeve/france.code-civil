@@ -3,14 +3,14 @@ Article R167-1
 L'ouverture de la tutelle concernant les prestations autres que les allocations
 d'aide sociale, énumérées à l'article L. 167-1 ainsi qu'à l'article L. 434-12 et
 à l'article L. 511-1, peut être demandée au juge des tutelles du domicile ou de
-la résidence de l'allocataire par [*requérant*] :
+la résidence de l'allocataire par :
 
 1°) le bénéficiaire des prestations ;
 
 2°) son conjoint, à moins que la communauté de vie n'ait cessé entre eux, ses
 ascendants, ses descendants, ses frères et soeurs ;
 
-3°) les commissaires de la République ;
+3°) les préfets ;
 
 4°) les organismes ou services débiteurs des prestations sociales ;
 

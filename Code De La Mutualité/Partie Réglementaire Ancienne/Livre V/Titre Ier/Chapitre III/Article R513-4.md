@@ -34,9 +34,9 @@ L'effectif à retenir est, pour les mutuelles qui ne disposent pas de sections,
 celui qui ressort de l'état mentionné à l'article R. 531-1.
 
 L'effectif des membres de chaque section est déclaré par la mutuelle concernée
-au commissaire de la République du département où est située la section.
+au préfet du département où est située la section.
 
 Les mutuelles comportant des sections disposent, dans le département où elles
 ont leur siège, d'un nombre de voix déterminé en fonction de l'effectif des
 membres qui ne relèvent pas de sections. Cet effectif fait également l'objet
-d'une déclaration adressée au commissaire de la République du département.
+d'une déclaration adressée au préfet du département.

@@ -22,7 +22,7 @@ l'indication de la date du premier tour, la seconde enveloppe porte la mention
 Pour chaque tour de scrutin, l'électeur place son bulletin de vote dans
 l'enveloppe électorale sans la cacheter et place cette enveloppe dans
 l'enveloppe d'envoi prévue pour le tour de scrutin considéré. Il cachette cette
-deuxième enveloppe et l'adresse au commissaire de la République sous pli fermé.
+deuxième enveloppe et l'adresse au préfet.
 
 Le préfet dresse la liste des électeurs ayant demandé à voter par
 correspondance. Il y mentionne ceux des électeurs dont il a reçu l'enveloppe

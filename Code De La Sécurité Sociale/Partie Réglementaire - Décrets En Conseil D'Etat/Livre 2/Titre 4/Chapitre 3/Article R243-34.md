@@ -5,8 +5,8 @@ d'établir le montant des avantages de retraite servant de base au calcul des
 cotisations dues, le montant des cotisations est fixé forfaitairement par
 l'organisme chargé du recouvrement.
 
-En cas de carence de l'organisme créancier, le forfait est établi par le
-commissaire de la République de région .
+En cas de carence de l'organisme créancier, le forfait est établi par le préfet
+de région.
 
 Lorsque le débiteur de l'avantage de retraite n'a pas produit dans le délai
 prescrit, la déclaration prévue à l'article R. 243-30, l'organisme de

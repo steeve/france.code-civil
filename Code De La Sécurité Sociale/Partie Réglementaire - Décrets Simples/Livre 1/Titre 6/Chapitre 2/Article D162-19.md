@@ -15,5 +15,5 @@ répartition des charges entre les signataires.
 Sa durée ne peut être supérieure à la convention de règlement mentionnée au 1°
 de l'article D. 162-18.
 
-Elle entre en vigueur après son approbation par le commissaire de la République
-du département où se déroule l'action expérimentale.
+Elle entre en vigueur après son approbation par le préfet du département où se
+déroule l'action expérimentale.

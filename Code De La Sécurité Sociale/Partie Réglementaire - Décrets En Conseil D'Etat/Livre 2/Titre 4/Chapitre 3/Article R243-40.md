@@ -5,8 +5,8 @@ Lorsque la comptabilité du débiteur des avantages mentionnés à l'article R.
 calcul des cotisations dues, le montant des cotisations est fixé forfaitairement
 par l'organisme chargé du recouvrement.
 
-En cas de carence de l'organisme créancier, le forfait est établi par le
-commissaire de la République de région.
+En cas de carence de l'organisme créancier, le forfait est établi par le préfet
+de région.
 
 Lorsque le débiteur des avantages mentionnés à l'article R. 243-36 n'a pas
 produit dans le délai prescrit la déclaration prévue à l'article R. 243-37,

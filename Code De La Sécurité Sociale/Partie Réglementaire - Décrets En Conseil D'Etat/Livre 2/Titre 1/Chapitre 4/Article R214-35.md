@@ -7,6 +7,6 @@ commission.
 Les nom, prénoms, date et lieu de naissance des représentants des listes ou de
 ceux des travailleurs indépendants sont notifiés au président de la commission
 par pli recommandé en dispense d'affranchissement au plus tard quarante-huit
-heures avant le jour du scrutin .
+heures avant le jour du scrutin.
 
-Le secrétaire de la commission est désigné par le commissaire de la République.
+Le secrétaire de la commission est désigné par le préfet.

@@ -8,5 +8,5 @@ greffe du tribunal de commerce.
 
 Le procès-verbal des opérations électorales est dressé en trois exemplaires
 revêtus de la signature des membres de la commission électorale : le premier
-exemplaire est envoyé au procureur général, le deuxième au commissaire de la
-République et le troisième est conservé au greffe du tribunal de commerce.
+exemplaire est envoyé au procureur général, le deuxième au préfet et le
+troisième est conservé au greffe du tribunal de commerce.

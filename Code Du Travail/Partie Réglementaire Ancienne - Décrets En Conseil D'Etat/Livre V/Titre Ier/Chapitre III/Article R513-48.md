@@ -1,8 +1,8 @@
 Article R513-48
 ----
-La commission de propagande reçoit du commissaire de la République les
-enveloppes nécessaires à l'expédition des circulaires et des bulletins de vote.
-Elle fait préparer le libellé de ces enveloppes.
+La commission de propagande reçoit du préfet les enveloppes nécessaires à
+l'expédition des circulaires et des bulletins de vote. Elle fait préparer le
+libellé de ces enveloppes.
 
 Elle est chargée [*mission*] :
 

@@ -3,10 +3,9 @@ Article R513-9
 Le conseil d'administration de chaque mutuelle ou l'organe de gestion de chaque
 section de mutuelle délibère sur les votes à émettre.
 
-En exécution de cette délibération, chaque mutuelle ou section adresse au
-commissaire de la République du département un nombre de bulletins de vote égal
-au nombre de voix dont elle dispose. Les bulletins comportent, à l'exclusion de
-toute autre mention :
+En exécution de cette délibération, chaque mutuelle ou section adresse au préfet
+du département un nombre de bulletins de vote égal au nombre de voix dont elle
+dispose. Les bulletins comportent, à l'exclusion de toute autre mention :
 
 - la mention "Election au Conseil supérieur de la mutualité" ;
 

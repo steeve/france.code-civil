@@ -2,9 +2,9 @@ Article R341-4
 ----
 Sauf dans le cas où l'étranger bénéficie de plein droit de la carte de résident
 par application des articles 15 et 16 de l'ordonnance du 2 novembre 1945, pour
-accorder ou refuser le titre de travail sollicité le commissaire de la
-république du département où réside l'étranger prend notamment en considération
-les éléments [*critères*] suivants d'appréciation :
+accorder ou refuser le titre de travail sollicité le préfet du département où
+réside l'étranger prend notamment en considération les éléments suivants
+d'appréciation :
 
 1. La situation de l'emploi présente et à venir dans la profession demandée par
 le travailleur étranger et dans la zone géographique où il compte exercer cette

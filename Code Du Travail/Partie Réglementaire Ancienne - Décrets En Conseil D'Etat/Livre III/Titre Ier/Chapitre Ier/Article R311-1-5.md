@@ -1,12 +1,12 @@
 Article R311-1-5
 ----
-L'agrément est accordé et retiré par *autorité compétente* :
+L'agrément est accordé et retiré par :
 
-1° Le commissaire de la République du département lorsque l'activité de
-l'organisme n'excède pas les limites du département ;
+1° Le préfet du département lorsque l'activité de l'organisme n'excède pas les
+limites du département ;
 
-2° Le commissaire de la République de la région lorsque cette activité excède
-les limites du département sans dépasser celles de la région ;
+2° Le préfet de la région lorsque cette activité excède les limites du
+département sans dépasser celles de la région ;
 
 3° Le ministre chargé de l'emploi dans les autres cas.
 

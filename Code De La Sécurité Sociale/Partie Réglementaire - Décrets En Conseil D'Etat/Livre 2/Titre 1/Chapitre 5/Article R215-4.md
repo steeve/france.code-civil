@@ -6,10 +6,10 @@ examiner les réclamations formées contre les décisions prises par les caisses
 régionales d'assurance maladie en matière d'assurance vieillesse et d'assurance
 veuvage.
 
-Ces décisions sont communiquées aux commissaires de la République de région dans
-les conditions prévues à l'article L. 151-1 et la caisse nationale est tenue
-informée par chaque caisse régionale d'assurance maladie de l'ensemble de ces
-décisions et de celles de l'autorité de tutelle.
+Ces décisions sont communiquées aux préfets de région dans les conditions
+prévues à l'article L. 151-1 et la caisse nationale est tenue informée par
+chaque caisse régionale d'assurance maladie de l'ensemble de ces décisions et de
+celles de l'autorité de tutelle.
 
 Les réclamations contre les décisions de la caisse nationale d'assurance
 vieillesse concernant des assurés sociaux de la région parisienne sont portées

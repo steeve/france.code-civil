@@ -5,8 +5,8 @@ l'article D. 174-10, le forfait global de soins et le forfait journalier sont
 fixés par convention conclue entre les régimes d'assurance maladie et le
 service, en tenant compte des dépenses prévisionnelles du service.
 
-Ces conventions sont soumises à l'homologation du commissaire de la République
-de la région dans laquelle est situé le service.
+Ces conventions sont soumises à l'homologation du préfet de la région dans
+laquelle est situé le service.
 
 A défaut de convention, le forfait global de soins supporté par l'assurance
 maladie est fixé d'autorité par les organismes d'assurance maladie à un montant

@@ -12,8 +12,7 @@ des résultats dans les bureaux de vote ;
 2°) la référence aux articles R. 214-38 et R. 214-39 est remplacée par la
 référence aux articles R. 214-64 et R. 214-65 ;
 
-3°) le ministre chargé de la marine marchande est substitué au commissaire de la
-République.
+3°) le ministre chargé de la marine marchande est substitué au préfet.
 
 Pour l'application de l'article R. 214-45, le ministre chargé de la marine
-marchande est substitué au commissaire de la République.
+marchande est substitué au préfet.

@@ -3,14 +3,14 @@ Article 443
 La commission départementale appelée à donner son avis sur les demandes en
 décharge ou en atténuation de responsabilité est composée ainsi qu'il suit :
 
-Le commissaire de la République ou son représentant, président ;
+Le préfet ou son représentant, président ;
 
 Le trésorier-payeur général ou le receveur général des finances trésorier-payeur
-général de la région d'Ile-de-France ou son représentant;
+général de la région d'Ile-de-France ou son représentant ;
 
-Le directeur des services fiscaux ou son représentant;
+Le directeur des services fiscaux ou son représentant ;
 
-Un inspecteur des impôts désigné par le directeur des services fiscaux;
+Un inspecteur des impôts désigné par le directeur des services fiscaux ;
 
 Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le
 receveur général des finances trésorier-payeur général de la région parisienne

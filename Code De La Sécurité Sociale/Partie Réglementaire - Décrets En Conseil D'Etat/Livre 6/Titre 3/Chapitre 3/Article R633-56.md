@@ -11,6 +11,6 @@ pouvoirs, conformément aux textes en vigueur ou par l'agent chargé de l'intér
 des fonctions de directeur.
 
 Un arrêté du ministre chargé de la sécurité sociale énumère les décisions de
-l'espèce qui sont immédiatement communiquées au commissaire de la République de
-région ou, en ce qui concerne les caisses nationales, au ministre chargé de la
-sécurité sociale, et fixe les modalités de cette communication.
+l'espèce qui sont immédiatement communiquées au préfet de région ou, en ce qui
+concerne les caisses nationales, au ministre chargé de la sécurité sociale, et
+fixe les modalités de cette communication.

@@ -20,5 +20,5 @@ pour la première année de mise en oeuvre d'une expérience débutant en cours
 d'exercice. Les dotations suivantes font l'objet d'avenants.
 
 La convention, ainsi que ses avenants, entrent en vigueur après approbation par
-le commissaire de la République du département où se déroule l'action
-expérimentale [*condition préalable*].
+le préfet du département où se déroule l'action expérimentale [*condition
+préalable*].

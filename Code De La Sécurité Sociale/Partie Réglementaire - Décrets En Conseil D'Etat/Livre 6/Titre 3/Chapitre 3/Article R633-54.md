@@ -10,8 +10,8 @@ Le directeur soumet chaque année au conseil d'administration les projets de
 budgets concernant la gestion administrative et, le cas échéant, l'action
 sociale ainsi que les établissements gérés par la caisse. Il remet au conseil
 d'administration un rapport sur le fonctionnement administratif et financier de
-la caisse. Ce rapport doit être transmis au commissaire de la République de
-région après examen par le conseil d'administration.
+la caisse. Ce rapport doit être transmis au préfet de région après examen par le
+conseil d'administration.
 
 Dans les limites fixées par le conseil d'administration et sous son contrôle, le
 directeur engage les dépenses, constate les créances et les dettes, émet les

@@ -9,7 +9,7 @@ Les dossiers des personnes visées à l'article A. 119 doivent comporter
 l'attestation délivrée aux demandeurs par les soins de l'autorité militaire
 compétente. Les agents qui ne sont pas, lors du dépôt de leur demande, en
 possession de cette attestation, sont soumis à la procédure instituée à
-l'article A. 123.
+l'article A. 123-1.
 
 Les demandes des personnes visées aux alinéas 1° et 2° de l'article R. 224 C,
 doivent être accompagnées d'une copie certifiée conforme, soit de la carte de
@@ -21,8 +21,7 @@ anciens combattants et victimes de guerre, qui ne peut valablement siéger
 qu'avec la participation de la majorité des membres non fonctionnaires.
 
 Lorsque les demandes ont fait l'objet d'un avis unanime de tous les membres
-présents de cette commission, la décision est prise par le commissaire de la
-République.
+présents de cette commission, la décision est prise par le préfet (1).
 
 Toutefois, lorsque la décision d'octroi ou de rejet est conditionnée par
 l'appréciation de services non homologués par l'autorité militaire, mais ayant
@@ -34,10 +33,10 @@ soumis à la décision du ministre des anciens combattants, après avis de la
 commission prévue à l'article A. 119, mais dont le président est alors désigné
 par le ministre des anciens combattants. En outre, il est adjoint à cette
 commission trois membres pris dans le sein de la commission instituée pour
-l'application de l'article R. 227.
+l'application de l'article R. 227 (1).
 
 Cette dernière procédure est également applicable chaque fois que les demandes
-n'ont pas fait l'objet d'un avis unanime de la commission départementale.
+n'ont pas fait l'objet d'un avis unanime de la commission départementale (1).
 
 Pour juger des cas individuels de la résistance extramétropolitaine, la
 commission est complétée comme prévu à l'article A. 119.

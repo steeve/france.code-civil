@@ -9,4 +9,4 @@ caisse.
 
 L'administrateur qui ne respecte pas les interdictions ci-dessus mentionnées est
 déclaré démissionnaire d'office par le conseil d'administration ou, à défaut,
-par le commissaire de la République de région.
+par le préfet de région.

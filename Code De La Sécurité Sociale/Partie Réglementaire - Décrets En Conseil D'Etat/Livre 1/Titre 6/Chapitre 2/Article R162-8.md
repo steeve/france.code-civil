@@ -13,5 +13,4 @@ conformément aux dispositions de l'article L. 162-32, ainsi que les tarifs
 applicables en l'absence de convention.
 
 Les conventions de dispensaires et les tarifs qu'elles fixent n'entrent en
-application qu'après approbation, par le commissaire de la République de région
-[*condition préalable*].
+application qu'après approbation, par le préfet de région.
