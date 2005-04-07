@@ -1,13 +1,14 @@
 Article R245-3
 ----
-Les entreprises visées à l'article L. 245-1 doivent remettre en double
-exemplaire à l'Agence centrale des organismes de sécurité sociale, au plus tard
-le 1er décembre de chaque année, une déclaration conforme à un modèle fixé par
-arrêté du ministre chargé de la sécurité sociale.
+Les entreprises visées à l'article L. 245-1 doivent remettre à l'union de
+recouvrement des cotisations de sécurité sociale et d'allocations familiales
+désignée à cet effet, au plus tard le 1er décembre de chaque année, une
+déclaration conforme à un modèle fixé par arrêté du ministre chargé de la
+sécurité sociale.
 
 Le montant de la contribution éventuellement due doit être acquitté auprès de
-l'Agence centrale des organismes de sécurité sociale au moment du dépôt de la
-déclaration.
+l'union de recouvrement des cotisations de sécurité sociale et d'allocations
+familiales désignée à cet effet au moment du dépôt de la déclaration.
 
 Toutefois, par dérogation aux deux alinéas ci-dessus, les entreprises dont la
 clôture de l'exercice intervient à partir du 30 septembre et jusqu'au 30
