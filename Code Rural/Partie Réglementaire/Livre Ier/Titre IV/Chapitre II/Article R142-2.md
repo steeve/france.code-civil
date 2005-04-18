@@ -4,7 +4,7 @@ Lorsqu'une société d'aménagement foncier et d'établissement rural envisage
 d'affecter une exploitation acquise, créée ou restructurée à l'installation
 d'agriculteurs exploitant individuellement ou en commun, ceux-ci, pour
 bénéficier de cette installation, doivent justifier, outre les conditions
-prévues au premier alinéa de l'article R. 142-1, de leur appartenance à l'une
+prévues au premier alinéa de l'article D. 142-1, de leur appartenance à l'une
 des catégories suivantes :
 
 a) Jeunes agriculteurs au sens des dispositions des articles R. 343-3 et

@@ -21,7 +21,7 @@ du budget de l'Etat, la composition du conseil de direction créé en applicatio
 du présent article est fixée par arrêté du ministre de l'agriculture après
 intervention des délibérations prévues au premier alinéa du présent article.
 
-Les articles R. 511-91 à R. 511-96, R. 511-103 à R. 511-105, R. 511-111 et R.
+Les articles D. 511-91 à D. 511-96, R. 511-103 à R. 511-105, R. 511-111 et R.
 511-112 sont applicables aux établissements et services créés en application du
 présent article.
 

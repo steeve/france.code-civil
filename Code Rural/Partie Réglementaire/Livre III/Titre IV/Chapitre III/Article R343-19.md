@@ -7,9 +7,9 @@ stage effectivement réalisées, selon les conditions énumérées dans le prés
 article.
 
 II. - La bourse concerne exclusivement, d'une part, les stagiaires agricoles au
-sens du 6° de l'article 14 du décret du 21 septembre 1950 relatif aux assurances
-sociales agricoles, réalisant leur stage en France, d'autre part, les stagiaires
-réalisant tout ou partie de leur stage à l'étranger.
+sens de l'article R. 741-65 du code rural, réalisant leur stage en France,
+d'autre part, les stagiaires réalisant tout ou partie de leur stage à
+l'étranger.
 
 III. - Le montant mensuel de la bourse varie selon que le stagiaire appartient à
 l'une des deux catégories suivantes :

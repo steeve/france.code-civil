@@ -4,4 +4,4 @@ Dans le cas où la commission propose, au vu de l'étude d'aménagement, une lis
 de parcelles pouvant faire l'objet d'une application de l'article L. 242-11 et
 des mesures conservatoires qui leur seraient alors applicables, le préfet
 consulte les autres collectivités territoriales intéressées. Il saisit le
-ministre chargé de l'environnement pour l'application de l'article R. 251-17.
+ministre chargé de l'environnement pour l'application de l'article D. 251-17.

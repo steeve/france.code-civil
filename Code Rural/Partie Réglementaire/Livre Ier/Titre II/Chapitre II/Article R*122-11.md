@@ -6,7 +6,7 @@ engagements de remettre en valeur les terres incultes ou manifestement
 sous-exploitées, des autorisations d'exploiter mentionnées au premier alinéa de
 l'article L. 122-5 ainsi que des indications relatives aux servitudes et aux
 droits réels obtenues en application des dispositions du décret du 18 novembre
-1924 et des articles R. 127-1 et R. 127-2, la commission communale ou
+1924 et des articles D. 127-1 et D. 127-2, la commission communale ou
 intercommunale établit le projet d'échanges en se conformant aux dispositions
 dudit article L. 122-5. Pour l'application du dernier alinéa du même article L.
 122-5, la valeur d'échange est appréciée à la date de l'arrêté du préfet qui a

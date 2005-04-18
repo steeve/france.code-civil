@@ -1,6 +1,6 @@
 Article R582-18
 ----
-Les articles R. 523-8 à R. 523-11 ne s'appliquent pas à la Nouvelle-Calédonie et
+Les articles R. 523-8 à D. 523-11 ne s'appliquent pas à la Nouvelle-Calédonie et
 sont remplacés par les dispositions suivantes :
 
 "L'autorisation requise par l'article L. 523-5 est donnée par le

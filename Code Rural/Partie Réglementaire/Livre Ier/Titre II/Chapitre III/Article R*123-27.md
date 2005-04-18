@@ -22,5 +22,5 @@ les bases de répartition correspondantes ;
 d'enquête portent également sur le programme des travaux envisagés en
 application de l'article L. 123-23.
 
-A l'issue de cette enquête, il est fait application des articles R. 123-14 et R.
+A l'issue de cette enquête, il est fait application des articles R. 123-14 et D.
 123-15.
