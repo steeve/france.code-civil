@@ -1,7 +1,7 @@
 Article R611-43
 ----
 Le conseil d'administration règle par ses délibérations les affaires de la
-caisse .
+caisse.
 
 Il a notamment pour rôle :
 
@@ -13,8 +13,7 @@ l'action sanitaire et sociale, de la prévention et, le cas échéant, des
 
 3°) d'arrêter les comptes annuels ;
 
-4°) de nommer le directeur et l'agent comptable et de mettre fin à leurs
-fonctions ;
+4°) (Paragraphe abrogé)
 
 5°) de contrôler l'application par le directeur et l'agent comptable des
 dispositions législatives et réglementaires ainsi que l'exécution de ses propres

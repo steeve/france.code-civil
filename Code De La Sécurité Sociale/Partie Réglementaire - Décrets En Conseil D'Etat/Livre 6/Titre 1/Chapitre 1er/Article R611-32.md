@@ -1,8 +1,5 @@
 Article R611-32
 ----
-Le conseil d'administration nomme le directeur et l'agent comptable et met fin à
-leurs fonctions.
-
 Les fonctions de directeur et d'agent comptable ne peuvent être confiées qu'à
 des Français, majeurs, de l'un ou de l'autre sexe, jouissant de leurs droits
 civils et civiques, et n'ayant pas fait l'objet de condamnations ou de sanctions
