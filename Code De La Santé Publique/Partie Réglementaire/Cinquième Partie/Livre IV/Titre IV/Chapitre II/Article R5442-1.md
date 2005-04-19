@@ -22,4 +22,10 @@ bonnes pratiques mentionnées à l'article R. 5143-1 ;
 médicaments vétérinaires prévues aux articles R. 5141-111 et R. 5141-112 ;
 
 6° De ne pas respecter les dispositions réglementaires fixant les conditions de
-délivrance des substances mentionnées à l'article R. 5141-117.
+délivrance des substances mentionnées à l'article R. 5141-117 ;
+
+7° Pour le titulaire d'une autorisation mentionnée à l'article L. 5141-12, de ne
+pas avoir déclaré, immédiatement après en avoir eu connaissance, au directeur
+général de l'Agence française de sécurité sanitaire des aliments, tout effet
+indésirable grave et tout effet indésirable sur l'être humain susceptibles
+d'être dus aux autovaccins.
