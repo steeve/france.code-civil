@@ -55,7 +55,7 @@ choix.
 
 Les amendes administratives sont prononcées par l'autorité et ne peuvent
 excéder, par manquement constaté, un montant de 1 500 euros pour une personne
-physique et de 12 000 euros pour une personne morale. Elles font l'objet d'une
+physique et de 20 000 euros pour une personne morale. Elles font l'objet d'une
 décision motivée notifiée à la personne concernée. Elles sont recouvrées comme
 les créances de l'Etat étrangères à l'impôt et au domaine. Elles peuvent faire
 l'objet d'un recours de pleine juridiction. Aucune amende ne peut être prononcée
