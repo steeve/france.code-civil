@@ -1,5 +1,4 @@
 Article R341-21
 ----
-Les services de l'Office des migrations internationales comprennent un service
-central, des centres d'hébergement et des missions temporaires et permanentes à
-l'étranger et dans les territoires d'outre-mer [*DOM*].
+Les missions de l'agence à l'étranger sont placées sous le contrôle permanent
+des représentants diplomatiques et consulaires français à l'étranger.
