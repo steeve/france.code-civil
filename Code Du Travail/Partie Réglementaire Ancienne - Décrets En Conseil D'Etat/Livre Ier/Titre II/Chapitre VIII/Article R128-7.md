@@ -14,7 +14,6 @@ Pour les associations relevant du régime agricole, l'utilisation du
 chèque-emploi associatif vaut déclaration auprès de l'ensemble des
 administrations ou organismes intéressés au titre des dispositions du code du
 travail et du code général des impôts, mentionnées à l'alinéa précédent ainsi
-que de l'article 1er du décret n° 50-1225 du 21 septembre 1950, des articles
-1er, 2-2 et 7 du décret n° 76-1282 du 29 décembre 1976, des articles 1er et 30
-du décret n° 82-397 du 11 mai 1982, et vaut déclaration aux institutions prévues
-à l'article L. 727-2 du code rural.
+que de l'article R. 722-35, des articles R. 741-2, R. 741-5 et R. 741-15, des
+articles R. 717-1 et R. 717-14 du code rural, et vaut déclaration aux
+institutions prévues à l'article L. 727-2 du code rural.

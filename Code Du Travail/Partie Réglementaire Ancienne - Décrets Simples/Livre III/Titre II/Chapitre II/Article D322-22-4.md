@@ -40,4 +40,4 @@ Cette condition n'est réputée remplie qu'à compter du paiement intégral des
 sommes déterminées à l'alinéa précédent ou après décision de sursis à poursuite
 ou délais de paiement accordés selon les modalités prévues à l'article R. 243-21
 du code de la sécurité sociale ou, pour les salariés agricoles, selon les
-modalités prévues à l'article 21 du décret n° 76-1282 du 29 décembre 1976.
+modalités prévues à l'article R. 741-31 du code rural.

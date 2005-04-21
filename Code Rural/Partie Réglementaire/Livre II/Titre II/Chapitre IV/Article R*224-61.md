@@ -12,4 +12,4 @@ le rapport des ministres chargés de l'agriculture et de la santé et après avi
 du conseil supérieur d'hygiène publique de France.
 
 Ces conditions sont fixées, en application du précédent alinéa, par les articles
-R. 224-62 à R. 224-65.
+D. 224-62 à D. 224-65.

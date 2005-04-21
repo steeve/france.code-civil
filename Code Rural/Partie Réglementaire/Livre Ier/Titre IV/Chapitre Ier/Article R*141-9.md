@@ -22,7 +22,7 @@ des articles R. 123-30 à R. 123-38 et de l'article 5 du décret n° 68-333 du 5
 avril 1968. Dans le délai de deux mois après la réception de cette
 communication, les décisions des commissaires du Gouvernement sont réputées
 favorables. Le refus doit être motivé. Ces dispositions ne sont pas applicables
-aux opérations mentionnées aux 1°, 4° et 5° du I de l'article R. 141-2 pour
+aux opérations mentionnées aux 1°, 4° et 5° du I de l'article D. 141-2 pour
 lesquelles les sociétés d'aménagement foncier et d'établissement rural peuvent
 apporter leur concours technique aux collectivités territoriales et aux
 établissements publics qui leur sont rattachés.

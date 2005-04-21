@@ -13,7 +13,7 @@ consulter le rapport et les conclusions du commissaire enquêteur ou de la
 commission d'enquête.
 
 Par les soins du président de la commission communale, cette décision est
-notifiée aux propriétaires dans les conditions prévues à l'article R. 127-3.
+notifiée aux propriétaires dans les conditions prévues à l'article D. 127-3.
 
 Par ailleurs, un avis portant ces indications à la connaissance du public est
 affiché à la mairie et inséré dans un journal diffusé dans le département ; ces

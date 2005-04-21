@@ -15,4 +15,4 @@ agricole interchambres d'agriculture ou utilisés pour cette gestion. Il est en
 outre responsable de la sincérité des écritures.
 
 Il perçoit une indemnité fixée par le comité de direction dans les conditions
-prévues à l'article R. 511-80.
+prévues à l'article D. 511-80.
