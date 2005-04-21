@@ -76,5 +76,5 @@ dons mentionnés au deuxième alinéa de l'article R. 5141-87 ;
 vétérinaires qui en ont fait la demande écrite ;
 
 15° De méconnaître les règles relatives à la dénomination, à l'étiquetage et à
-la notice des médicaments vétérinaires mentionnées aux articles R. 5141-1 et R.
-5141-73 à R. 5141-78.
+la notice des médicaments vétérinaires mentionnées aux articles R. 5141-1, R.
+5141-73 à R. 5141-78 et R. 5141-139.
