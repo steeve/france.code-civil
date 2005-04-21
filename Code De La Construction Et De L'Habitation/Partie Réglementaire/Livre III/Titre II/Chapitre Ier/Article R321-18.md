@@ -10,13 +10,15 @@ d'instruction des dossiers, en particulier celles relatives à la réception et
 aux délais d'instruction des demandes ainsi qu'à la notification des décisions.
 
 Seuls les travaux commencés après le dépôt de la demande de subvention peuvent
-bénéficier d'une aide de l'agence. Toutefois, sur proposition justifiée du
-délégué local, la commission d'amélioration de l'habitat peut, à titre
-exceptionnel, accorder une subvention lorsque le dossier n'a pu être déposé
-qu'après le commencement des travaux, notamment en cas d'application de
-l'article L. 125-1 du code des assurances relatif aux dommages causés par des
-catastrophes naturelles ou de l'article L. 122-7 du même code relatif aux
-dommages causés par les effets du vent dû aux tempêtes, ouragans et cyclones.
+bénéficier d'une aide de l'agence. Toutefois la commission d'amélioration de
+l'habitat ou par le président de l'établissement public de coopération
+intercommunale ou du conseil général ayant conclu la convention mentionnée à
+l'article L. 321-1-1 peut, à titre exceptionnel, accorder une subvention lorsque
+le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en
+cas d'application de l'article L. 125-1 du code des assurances relatif aux
+dommages causés par des catastrophes naturelles ou de l'article L. 122-7 du même
+code relatif aux dommages causés par les effets du vent dû aux tempêtes,
+ouragans et cyclones.
 
 La décision d'octroi de subvention mentionne le montant prévisionnel, le
 calendrier et les caractéristiques des travaux ainsi que le montant de la

@@ -28,18 +28,17 @@ ci-dessus lorsque la monnaie de négociation n'est pas l'unité euro ;
 - les engagements pris ou reçus lorsque la réalisation de l'engagement
 constituerait une opération en devises au sens du présent article ;
 
-- les amortissements et provisions pour dépréciation ou risques et charges ainsi
-que les remboursements se rapportant à des opérations en devises au sens du
-présent article.
+- les amortissements dépréciations et provisions ainsi que les remboursements se
+rapportant à des opérations en devises au sens du présent article.
 
 Les dispositions du précédent alinéa ne s'appliquent pas aux opérations sur
-éléments d'actif ou de passif inscrits en euros au bilan du premier exercice
-ouvert à compter du 1er janvier 1994.
+éléments d'actif ou de passif inscrits en francs français au bilan du premier
+exercice ouvert à compter du 1er janvier 1994.
 
 Les opérations portant sur des titres représentatifs d'une participation au sens
 de l'article 20 du décret n° 83-1020 du 29 novembre 1983 peuvent être
-considérées comme opérations en francs, même si la monnaie de négociation est
-une devise, lorsque les titres ont vocation à être détenus de manière durable en
+considérées comme opérations en euros, même si la monnaie de négociation est une
+devise, lorsque les titres ont vocation à être détenus de manière durable en
 raison de liens à caractère stratégique existant avec la société émettrice, et
 que la possession de ces titres permet d'exercer une influence notable sur la
 société émettrice ou d'en assurer le contrôle.

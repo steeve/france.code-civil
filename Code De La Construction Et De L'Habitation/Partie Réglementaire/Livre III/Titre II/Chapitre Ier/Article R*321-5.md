@@ -20,4 +20,7 @@ articles R. 321-11, R. 321-15, R. 321-17 et R. 321-21 ;
 7° Il autorise la conclusion des conventions nécessaires à l'exercice de
 missions de l'agence ;
 
-8° Il statue sur le rapport annuel d'activités.
+8° Il statue sur le rapport annuel d'activités ;
+
+9° Il examine le rapport annuel relatif à la mise en oeuvre des délégations de
+compétence et à la réalisation des objectifs de l'agence.
