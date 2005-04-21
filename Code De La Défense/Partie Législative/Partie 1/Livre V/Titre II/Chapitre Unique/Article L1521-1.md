@@ -10,4 +10,7 @@ ou de la juridiction de la République française ainsi qu'en haute mer
 conformément au droit international.
 
 Elles ne s'appliquent ni aux navires de guerre étrangers ni aux autres navires
-d'Etat étrangers utilisés à des fins non commerciales.
+d'Etat étrangers utilisés à des fins non commerciales ;
+
+3° Aux navires situés dans les espaces maritimes sous souveraineté d'un Etat
+étranger, en accord avec celui-ci.

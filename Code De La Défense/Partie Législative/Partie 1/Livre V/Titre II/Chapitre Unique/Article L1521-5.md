@@ -17,3 +17,8 @@ navire vers une position ou un port appropriés dans les cas suivants :
 
 Le commandant ou le commandant de bord désigne la position ou le port de
 déroutement en accord avec l'autorité de contrôle des opérations.
+
+Pendant le transit consécutif à la décision de déroutement, les agents
+mentionnés à l'article L. 1521-2 peuvent prendre les mesures de coercition
+nécessaires et adaptées en vue d'assurer la préservation du navire et de sa
+cargaison et la sécurité des personnes se trouvant à bord.

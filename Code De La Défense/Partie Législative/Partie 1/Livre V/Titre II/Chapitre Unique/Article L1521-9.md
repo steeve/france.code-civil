@@ -1,6 +1,6 @@
 Article L1521-9
 ----
-Est puni de 150 000 Euros d'amende, le refus d'obtempérer aux injonctions faites
+Est puni de 150 000 euros d'amende, le refus d'obtempérer aux injonctions faites
 en vertu des articles L. 1521-3, L. 1521-4 et L. 1521-5.
 
 Outre les officiers et les agents de police judiciaire agissant conformément au
