@@ -6,8 +6,12 @@ sa santé.
 
 Le médecin doit respecter la volonté de la personne après l'avoir informée des
 conséquences de ses choix. Si la volonté de la personne de refuser ou
-d'interrompre un traitement met sa vie en danger, le médecin doit tout mettre en
-oeuvre pour la convaincre d'accepter les soins indispensables.
+d'interrompre tout traitement met sa vie en danger, le médecin doit tout mettre
+en oeuvre pour la convaincre d'accepter les soins indispensables. Il peut faire
+appel à un autre membre du corps médical. Dans tous les cas, le malade doit
+réitérer sa décision après un délai raisonnable. Celle-ci est inscrite dans son
+dossier médical. Le médecin sauvegarde la dignité du mourant et assure la
+qualité de sa fin de vie en dispensant les soins visés à l'article L. 1110-10.
 
 Aucun acte médical ni aucun traitement ne peut être pratiqué sans le
 consentement libre et éclairé de la personne et ce consentement peut être retiré
@@ -17,6 +21,14 @@ Lorsque la personne est hors d'état d'exprimer sa volonté, aucune intervention
 ou investigation ne peut être réalisée, sauf urgence ou impossibilité, sans que
 la personne de confiance prévue à l'article L. 1111-6, ou la famille, ou à
 défaut, un de ses proches ait été consulté.
+
+Lorsque la personne est hors d'état d'exprimer sa volonté, la limitation ou
+l'arrêt de traitement susceptible de mettre sa vie en danger ne peut être
+réalisé sans avoir respecté la procédure collégiale définie par le code de
+déontologie médicale et sans que la personne de confiance prévue à l'article L.
+1111-6 ou la famille ou, à défaut, un de ses proches et, le cas échéant, les
+directives anticipées de la personne, aient été consultés. La décision motivée
+de limitation ou d'arrêt de traitement est inscrite dans le dossier médical.
 
 Le consentement du mineur ou du majeur sous tutelle doit être systématiquement
 recherché s'il est apte à exprimer sa volonté et à participer à la décision.

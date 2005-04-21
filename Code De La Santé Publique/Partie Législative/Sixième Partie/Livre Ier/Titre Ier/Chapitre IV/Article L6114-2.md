@@ -4,6 +4,11 @@ Les contrats mentionnés à l'article L. 6114-1 déterminent les orientations
 stratégiques des établissements, groupements de coopération sanitaire et
 titulaires d'autorisations sur la base des schémas d'organisation sanitaire.
 
+Ils identifient les services au sein desquels sont dispensés des soins
+palliatifs et définissent, pour chacun d'entre eux, le nombre de référents en
+soins palliatifs qu'il convient de former ainsi que le nombre de lits qui
+doivent être identifiés comme des lits de soins palliatifs.
+
 Ils précisent la ou les missions d'intérêt général mentionnées à l'article L.
 162-22-13 du code de la sécurité sociale auxquelles l'établissement concerné
 participe et ses engagements relatifs à la mise en oeuvre de la politique
