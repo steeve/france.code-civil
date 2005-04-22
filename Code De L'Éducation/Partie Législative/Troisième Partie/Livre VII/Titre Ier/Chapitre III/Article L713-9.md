@@ -9,10 +9,11 @@ d'instituts sont élus par le conseil. Leur mandat est de cinq ans renouvelable
 une fois.
 
 Le conseil, dont l'effectif ne peut dépasser quarante membres, comprend de 30 à
-50 % de personnalités extérieures ; les personnels d'enseignement et assimilés y
-sont en nombre au moins égal à celui des autres personnels et des étudiants. Le
-conseil élit pour un mandat de trois ans, au sein des personnalités extérieures,
-celui de ses membres qui est appelé à le présider. Le mandat du président est
+50 % de personnalités extérieures, dont un ou plusieurs représentants des
+acteurs économiques ; les personnels d'enseignement et assimilés y sont en
+nombre au moins égal à celui des autres personnels et des étudiants. Le conseil
+élit pour un mandat de trois ans, au sein des personnalités extérieures celui de
+ses membres qui est appelé à le présider. Le mandat du président est
 renouvelable.
 
 Le conseil définit le programme pédagogique et le programme de recherche de

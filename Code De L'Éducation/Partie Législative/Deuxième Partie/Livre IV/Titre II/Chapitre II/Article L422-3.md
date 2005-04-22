@@ -13,3 +13,12 @@ missions d'encadrement et de surveillance des élèves. La commune ou le
 département assume, pendant la même période, les charges financières
 correspondantes, y compris la rémunération des personnels autres que ceux
 relevant de l'Etat en application de l'article L. 211-8.
+
+L'Ecole supérieure des arts appliqués aux industries de l'ameublement et
+d'architecture intérieure (Boulle), l'Ecole supérieure des arts appliqués
+(Duperré) et l'Ecole supérieure des arts et industries graphiques (Estienne)
+sont transformées en établissements publics locaux d'enseignement, conformément
+aux dispositions de l'article L. 421-1, à la demande de la commune de Paris. Par
+dérogation aux dispositions de l'article L. 214-6, la commune de Paris assume la
+charge de ces établissements. Elle exerce au lieu et place de la région les
+compétences dévolues par le présent code à la collectivité de rattachement.

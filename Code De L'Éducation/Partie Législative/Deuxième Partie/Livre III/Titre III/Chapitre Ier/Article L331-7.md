@@ -21,4 +21,5 @@ d'établissement, dans le cadre des projets d'établissement ou de projets commu
 d'orientation-psychologues, les personnels enseignants, les conseillers de
 l'enseignement technologique et les représentants des organisations
 professionnelles et des chambres de commerce et d'industrie, de métiers et
-d'agriculture. Elle s'accompagne de la remise d'une documentation.
+d'agriculture, en liaison avec les collectivités territoriales. Elle
+s'accompagne de la remise d'une documentation.

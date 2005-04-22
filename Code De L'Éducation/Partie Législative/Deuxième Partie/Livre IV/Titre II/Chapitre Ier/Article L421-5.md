@@ -1,13 +1,12 @@
 Article L421-5
 ----
-Les collèges, les lycées d'enseignement général et technologique et les lycées
-professionnels élaborent un projet d'établissement. Celui-ci définit les
-modalités particulières de mise en oeuvre des objectifs et des programmes
-nationaux. Il précise les activités scolaires et périscolaires prévues à cette
-fin. Il fait l'objet d'une évaluation. Il indique également les moyens
-particuliers mis en oeuvre pour prendre en charge les élèves issus des familles
-les plus défavorisées.
+Dans chaque établissement public local d'enseignement, est institué un conseil
+pédagogique.
 
-Les membres de la communauté éducative sont associés à l'élaboration du projet
-qui est adopté par le conseil d'administration, qui statue sur proposition des
-équipes pédagogiques pour ce qui concerne la partie pédagogique du projet.
+Ce conseil, présidé par le chef d'établissement, réunit au moins un professeur
+principal de chaque niveau d'enseignement, au moins un professeur par champ
+disciplinaire, un conseiller principal d'éducation et, le cas échéant, le chef
+de travaux. Il a pour mission de favoriser la concertation entre les
+professeurs, notamment pour coordonner les enseignements, la notation et
+l'évaluation des activités scolaires. Il prépare la partie pédagogique du projet
+d'établissement.
