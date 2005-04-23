@@ -7,7 +7,7 @@ l'ordre public et des bonnes moeurs, à la prévention sanitaire et sociale.
 
 L'inspecteur d'académie peut prescrire chaque année un contrôle des classes hors
 contrat afin de s'assurer que l'enseignement qui y est dispensé respecte les
-normes minimales de connaissances requises par l'article L. 122-1 et que les
+normes minimales de connaissances requises par l'article L. 131-1-1 et que les
 élèves de ces classes ont accès au droit à l'éducation tel que celui-ci est
 défini par l'article L. 111-1.
 
@@ -22,7 +22,7 @@ dans le cas contraire.
 En cas de refus de sa part d'améliorer la situation et notamment de dispenser,
 malgré la mise en demeure de l'inspecteur d'académie, un enseignement conforme à
 l'objet de l'instruction obligatoire, tel que celui-ci est défini par les
-articles L. 122-1 et L. 131-10, l'autorité académique avise le procureur de la
+articles L. 131-1-1 et L. 131-10, l'autorité académique avise le procureur de la
 République des faits susceptibles de constituer une infraction pénale.
 
 Dans cette hypothèse, les parents des élèves concernés sont mis en demeure

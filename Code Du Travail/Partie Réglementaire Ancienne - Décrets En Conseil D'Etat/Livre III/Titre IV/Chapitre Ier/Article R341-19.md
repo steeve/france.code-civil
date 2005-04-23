@@ -1,9 +1,8 @@
 Article R341-19
 ----
-Le directeur est tenu [*obligation*] de dresser chaque année deux [*nombre*]
-rapports qu'il présente au conseil d'administration, l'un au cours du premier
-trimestre, l'autre pendant le dernier trimestre de l'année [*période*]. Le
-premier rend compte de l'activité de l'Office durant l'exercice écoulé et
-fournit, en particulier le détail des entrées et des sorties d'immigrants ; le
-deuxième traite notamment des moyens à mettre en oeuvre pour réaliser le plan
-d'immigration dressé pour l'année suivante par le ministre chargé du travail.
+L'action sociale spécialisée mise en oeuvre en direction des personnes immigrées
+en application du huitième alinéa de l'article L. 341-9 est conduite, dans le
+respect des règles déontologiques résultant de leur statut et de l'article L.
+411-3 du code de l'action sociale et des familles, par des assistants de service
+social tels que mentionnés à l'article L. 411-1 du même code. L'encadrement
+technique de ces assistants est assuré par des agents qualifiés dans ce domaine.

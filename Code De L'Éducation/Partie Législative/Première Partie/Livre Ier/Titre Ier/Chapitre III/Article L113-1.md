@@ -10,4 +10,4 @@ famille en fait la demande.
 
 L'accueil des enfants de deux ans est étendu en priorité dans les écoles situées
 dans un environnement social défavorisé, que ce soit dans les zones urbaines,
-rurales ou de montagne.
+rurales ou de montagne et dans les régions d'outre-mer.

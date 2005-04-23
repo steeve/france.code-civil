@@ -1,12 +1,15 @@
 Article R341-34
 ----
-Au vu des procès-verbaux qui lui sont transmis en application de l'article R.
-341-33, le directeur de l'office des migrations internationales décide de
-l'application de la contribution spéciale prévue à l'article L. 341-7 et notifie
-sa décision à l'employeur ainsi que le titre de recouvrement.
+Au vu des documents qui lui sont transmis en application de l'article R. 341-39,
+le directeur de l'Agence nationale de l'accueil des étrangers et des migrations
+décide, comme il est dit à l'article R. 341-34, de l'application de la
+contribution spéciale à l'employeur qui a occupé le salarié étranger en
+violation du premier alinéa de l'article L. 341-6. S'il décide de faire
+application de l'article L. 341-6-4, il notifie le titre de recouvrement soit à
+celui qui a occupé le salarié, soit à la ou aux personnes mentionnées à
+l'article L. 341-6-4.
 
-Cette contribution est à la charge [*financière*] exclusive de l'employeur qui
-aura occupé un travailleur étranger en violation de ces dispositions. Son
-recouvrement est effectué conformément aux dispositions régissant les états
-exécutoires émis pour le recouvrement des créances des établissements publics
-nationaux.
+Lorsque plusieurs personnes sont concernées par l'application, au titre du même
+salarié étranger, de l'article L. 341-6-4, le directeur de l'agence répartit le
+montant de la contribution spéciale au prorata du nombre de personnes ayant
+contracté en violation des dispositions de l'article R. 341-36.

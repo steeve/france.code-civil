@@ -1,22 +1,17 @@
 Article L721-1
 ----
-Dans chaque académie, un institut universitaire de formation des maîtres est
-rattaché à une ou plusieurs universités de l'académie pour garantir la
-responsabilité institutionnelle de ces établissements d'enseignement supérieur
-par l'intervention des personnes et la mise en oeuvre des moyens qui leur sont
-affectés. Il peut être prévu, dans des conditions et des limites déterminées par
-décret en Conseil d'Etat, la création de plusieurs instituts universitaires de
-formation des maîtres dans certaines académies ou le rattachement à des
-établissements publics à caractère scientifique, culturel et professionnel
-autres que des universités. Lorsqu'un institut universitaire de formation des
-maîtres est créé dans une académie qui ne comprend aucune université, il est
-rattaché à une ou plusieurs universités d'une autre académie.
+Les instituts universitaires de formation des maîtres sont régis par les
+dispositions de l'article L. 713-9 et sont assimilés, pour l'application de ces
+dispositions, à des écoles faisant partie des universités.
 
-Les instituts universitaires de formation des maîtres sont des établissements
-publics d'enseignement supérieur. Etablissements publics à caractère
-administratif, ils sont placés sous la tutelle du ministre chargé de
-l'enseignement supérieur et organisés selon des règles fixées par décret en
-Conseil d'Etat. Le contrôle financier s'exerce a posteriori.
+Des conventions peuvent être conclues, en tant que de besoin, avec d'autres
+établissements d'enseignement supérieur.
+
+D'ici 2010, le Comité national d'évaluation des établissements publics à
+caractère scientifique, culturel et professionnel procède à une évaluation des
+modalités et des résultats de l'intégration des instituts universitaires de
+formation des maîtres au sein des universités, notamment au regard des objectifs
+qui leur sont fixés.
 
 Dans le cadre des orientations définies par l'Etat, ces instituts universitaires
 de formation des maîtres conduisent les actions de formation professionnelle

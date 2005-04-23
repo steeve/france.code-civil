@@ -1,8 +1,6 @@
 Article R341-14
 ----
-Le conseil d'administration se réunit soit à l'initiative du président, soit à
-la demande de la majorité de ses membres et au moins une fois par mois
-[*périodicité*] .
-
-Les fonctions des membres du conseil sont gratuites ; elles sont incompatibles
-avec tout emploi rémunéré par l'Office.
+Sous réserve des dispositions de l'article R. 341-23, les délibérations du
+conseil d'administration sont exécutoires de plein droit quinze jours après leur
+réception par les ministres chargés de l'emploi et de l'intégration s'ils n'ont
+pas fait connaître leurs observations dans ce délai.

@@ -11,6 +11,9 @@ Les enseignants apportent une aide au travail personnel des élèves et en
 assurent le suivi. Ils procèdent à leur évaluation. Ils les conseillent dans le
 choix de leur projet d'orientation en collaboration avec les personnels
 d'éducation et d'orientation. Ils participent aux actions de formation continue
-des adultes.
+des adultes et aux formations par apprentissage.
+
+Ils contribuent à la continuité de l'enseignement sous l'autorité du chef
+d'établissement en assurant des enseignements complémentaires.
 
 Leur formation les prépare à l'ensemble de ces missions.

@@ -1,6 +1,7 @@
 Article R341-23
 ----
-Le personnel est lié à l'Office par les contrats passés dans les formes du droit
-privé, dans des conditions qui sont déterminées par le règlement intérieur. Les
-conditions de rémunération du personnel permanent sont soumises à l'approbation
-du ministre chargé de l'économie et des finances.
+L'agence est soumise au contrôle financier de l'Etat institué par le décret du
+25 octobre 1935 organisant le contrôle financier des offices et des
+établissements publics autonomes de l'Etat. Les attributions du contrôleur
+financier et les modalités d'exercice de son contrôle sont fixées par arrêté
+conjoint des ministres chargés du budget, de l'emploi et de l'intégration.

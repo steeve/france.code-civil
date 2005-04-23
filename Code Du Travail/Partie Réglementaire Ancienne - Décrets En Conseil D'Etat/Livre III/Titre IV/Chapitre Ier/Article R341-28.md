@@ -1,9 +1,12 @@
 Article R341-28
 ----
-Le budget préparé par le directeur et délibéré par le conseil d'administration
-est soumis à l'approbation du ministre chargé du travail et du ministre chargé
-de l'économie et des finances qui procèdent à son règlement par voie d'arrêté.
+Au vu des procès-verbaux qui lui sont transmis en application de l'article R.
+341-33, le directeur de l'Agence nationale de l'accueil des étrangers et des
+migrations décide de l'application de la contribution spéciale prévue à
+l'article L. 341-7 et notifie sa décision à l'employeur ainsi que le titre de
+recouvrement.
 
-Les modifications au budget peuvent être apportées en cours d'exercice en raison
-de ressources ou de charges nouvelles. Elles sont approuvées dans les mêmes
-formes.
+Cette contribution est à la charge exclusive de l'employeur qui aura occupé un
+travailleur étranger en violation de ces dispositions. Son recouvrement est
+effectué conformément aux dispositions régissant les états exécutoires émis pour
+le recouvrement des créances des établissements publics nationaux.

@@ -1,5 +1,11 @@
 Article R341-26
 ----
-L'Office est doté de l'autonomie financière. Les opérations de comptabilité de
-l'Office sont effectuées et décrites conformément aux règles en usage dans les
-établissements industriels et commerciaux.
+L'agent comptable de l'agence est nommé par arrêté conjoint des ministres
+chargés de l'emploi, de l'intégration et du budget.
+
+Des comptables secondaires peuvent être désignés par le directeur général avec
+l'agrément du ministre chargé du budget et de l'agent comptable de l'agence.
+
+Des régies de recettes et d'avances peuvent être instituées conformément aux
+dispositions du décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies
+de recettes et aux régies d'avances des organismes publics.

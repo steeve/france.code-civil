@@ -14,7 +14,7 @@ de l'Etat dans le département.
 L'inspecteur d'académie doit au moins une fois par an, à partir du troisième
 mois suivant la déclaration d'instruction par la famille, faire vérifier que
 l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que
-défini à l'article L. 122-1.
+défini à l'article L. 131-1-1.
 
 Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile
 des parents de l'enfant.

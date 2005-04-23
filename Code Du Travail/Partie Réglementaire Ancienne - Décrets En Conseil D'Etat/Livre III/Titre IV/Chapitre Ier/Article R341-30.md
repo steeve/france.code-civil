@@ -1,10 +1,8 @@
 Article R341-30
 ----
-Les opérations de recettes et de dépenses sont effectuées par un agent comptable
-[*attributions*] chargé sous sa responsabilité personnelle, de faire diligence
-pour assurer la rentrée de revenus et créances, legs, donations et autres
-ressources de l'Office, de faire procéder contre les débiteurs en retard aux
-exploits, significations, poursuites et commandements nécessaires, d'avertir de
-l'expiration des baux le directeur, d'éviter les prescriptions, de veiller à la
-conservation des immeubles, droits, privilèges ou hypothèques et de requérir
-l'inscription hypothécaire de tous les titres qui en sont susceptibles.
+Toute personne à laquelle les dispositions de l'article L. 341-6-4 sont
+applicables se fait remettre par son cocontractant une attestation sur l'honneur
+indiquant s'il a ou non l'intention de faire appel, pour l'exécution du contrat,
+à des salariés de nationalité étrangère et, dans l'affirmative, certifiant que
+ces salariés sont ou seront autorisés à exercer une activité professionnelle en
+France.
