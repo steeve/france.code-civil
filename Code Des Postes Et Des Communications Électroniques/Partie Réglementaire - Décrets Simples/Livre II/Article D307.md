@@ -58,10 +58,8 @@ telle dans la convention d'interconnexion ou d'accès.
 Lorsque l'opérateur souhaite utiliser une interface d'interconnexion ou d'accès
 qui ne figure pas à son offre technique et tarifaire ou apporter des compléments
 aux spécifications d'une interface de l'offre technique et tarifaire, il
-communique les
-
-spécifications techniques correspondantes à l'Autorité de régulation des
-télécommunications.
+communique les spécifications techniques correspondantes à l'Autorité de
+régulation des télécommunications.
 
 III. - L'Autorité de régulation des télécommunications précise les informations
 à publier au titre du I et du II, le niveau de détail requis et le mode de
