@@ -1,7 +1,9 @@
 Article R1412-8
 ----
-Au sein du Comité consultatif national d'éthique pour les sciences de la vie et
-de la santé, une section technique est appelée à instruire les dossiers inscrits
-à l'ordre du jour du comité par son président. La section technique a
-compétence, dans les conditions fixées par son règlement intérieur, pour traiter
-les autres dossiers dont le comité est saisi.
+Les séances du comité et de sa section ne sont pas publiques. Le vote au scrutin
+secret est de droit sur décision du président ou sur demande d'un ou plusieurs
+membres présents. En cas de vote avec partage égal des voix, le président a voix
+prépondérante.
+
+Le comité et sa section technique ne peuvent délibérer que si la moitié au moins
+de leurs membres est présente.

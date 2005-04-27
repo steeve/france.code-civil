@@ -1,9 +1,5 @@
 Article R1412-13
 ----
-Les recommandations du comité font l'objet d'une publication.
-
-Les avis donnés par le comité peuvent, sur décision de son président, faire
-également l'objet d'une publication.
-
-L'ensemble des activités du comité et de sa section technique font l'objet d'un
-rapport annuel remis au Président de la République.
+Le Comité consultatif national d'éthique pour les sciences de la vie et de la
+santé assure auprès du public une mission de documentation et d'information sur
+les questions d'éthique posées par les sciences de la vie et de la santé.
