@@ -28,7 +28,7 @@ l'environnement ou son représentant ;
 
 h) Le directeur du budget ou son représentant ;
 
-i) Le directeur du Trésor ou son représentant ;
+i) Le directeur général de la Comptabilité publique ou son représentant ;
 
 j) Un représentant du Conseil d'Etat ou de la Cour des comptes ou de
 l'inspection générale des finances, désigné par arrêté du ministre de
