@@ -47,3 +47,9 @@ contre les affections iatrogènes à l'intérieur de l'établissement. La commis
 élit son président et son vice-président parmi ses membres médecins et
 pharmaciens. La composition de cette commission, son organisation et ses règles
 de fonctionnement sont fixées par voie réglementaire.
+
+Toutefois, dans les établissements publics de santé, cette commission est
+constituée par la sous-commission créée en vue d'examiner les questions
+mentionnées au 3° du II de l'article L. 6144-1. Sa composition, son organisation
+et ses règles de fonctionnement sont fixées par le règlement intérieur de
+l'établissement.

@@ -13,8 +13,9 @@ chapitre ;
 articles L. 6142-3 et L. 6142-5 ;
 
 3° Les conditions dans lesquelles les dépenses d'enseignement et de recherches
-qui ne peuvent être isolées dans le budget des établissements de santé font
-l'objet d'un versement forfaitaire du ministère de l'enseignement supérieur ;
+qui ne peuvent être isolées dans l'état des prévisions de recettes et de
+dépenses des établissements de santé font l'objet d'un versement forfaitaire du
+ministère de l'enseignement supérieur ;
 
 4° Les conditions dans lesquelles certaines dispositions du présent chapitre
 sont rendues applicables aux études dentaires et aux chirurgiens-dentistes,

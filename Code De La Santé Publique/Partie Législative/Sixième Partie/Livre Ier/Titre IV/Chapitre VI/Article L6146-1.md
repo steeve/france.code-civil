@@ -1,22 +1,27 @@
 Article L6146-1
 ----
 Pour l'accomplissement de leurs missions, les établissements publics de santé
-autres que les hôpitaux locaux sont organisés en services ou en départements
-créés par le conseil d'administration sur la base du projet d'établissement
-mentionné à l'article L. 6143-2.
+définissent librement leur organisation interne, sous réserve des dispositions
+du présent chapitre.
 
-Les services et les départements sont placés sous la responsabilité d'un
-médecin, biologiste, odontologiste ou pharmacien hospitalier.
+Dans les établissements autres que les hôpitaux locaux, le conseil
+d'administration définit l'organisation de l'établissement en pôles d'activité
+sur proposition du conseil exécutif. Les pôles d'activité peuvent comporter des
+structures internes.
 
-Les unités fonctionnelles sont les structures élémentaires de prise en charge
-des malades par une équipe soignante ou médico-technique, identifiées par leurs
-fonctions et leur organisation ainsi que les structures médico-techniques qui
-leur sont associées.
+Les pôles d'activité clinique et médico-technique sont définis conformément au
+projet médical de l'établissement. Les structures internes de prise en charge du
+malade par les équipes médicales, soignantes ou médico-techniques ainsi que les
+structures médico-techniques qui leur sont associées peuvent être constituées
+par les services et les unités fonctionnelles créés en vertu de la législation
+antérieure à celle issue de l'ordonnance n° 2005-406 du 2 mai 2005 simplifiant
+le régime juridique des établissements de santé.
 
-Les services sont constitués d'unités fonctionnelles de même discipline.
+Pour les activités psychiatriques, le secteur peut constituer un pôle
+d'activité.
 
-Les départements sont constitués d'au moins trois unités fonctionnelles.
-
-A titre exceptionnel, lorsqu'une unité fonctionnelle ne présente pas de
-complémentarité directe avec d'autres unités de même discipline ou qu'il
-n'existe pas d'unité ayant la même activité, elle peut constituer un service.
+Par délégation du pôle d'activité clinique ou médico-technique, les services ou
+autres structures qui le constituent assurent, outre la prise en charge médicale
+des patients, la mise au point des protocoles médicaux, l'évaluation des
+pratiques professionnelles et des soins et le cas échéant l'enseignement et la
+recherche.

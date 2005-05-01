@@ -1,6 +1,5 @@
 Article L6162-4
 ----
-Chaque centre doit comprendre au moins un service de chirurgie et un service de
-radiothérapie oncologique, dirigés chacun par un spécialiste. De plus, un
-médecin spécialiste en cancérologie, un oto-rhino-laryngologiste et un
-anatomo-cyto-pathologiste doivent être attachés au centre.
+Chaque centre doit disposer d'une organisation pluridisciplinaire garantissant
+une prise en charge globale du patient et comprenant au moins des moyens en
+chirurgie, oncologie médicale, radiothérapie et anatomo-cyto-pathologie.

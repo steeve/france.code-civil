@@ -41,6 +41,13 @@ les matières autres que celles énumérées aux 1° à 11°. Il la tient inform
 toute suspension d'autorisation en application du premier alinéa de l'article L.
 6122-13.
 
+Le directeur de l'agence régionale de l'hospitalisation désigne la personne
+chargée d'assurer l'intérim des fonctions de directeur et de secrétaire général
+dans les établissements mentionnés au 1° de l'article 2 de la loi n° 86-33 du 9
+janvier 1986, à l'exception des centres hospitaliers régionaux et des
+établissements mentionnés aux articles L. 6141-5 et L. 6147-4 du code de la
+santé publique.
+
 Dans l'exercice des compétences définies au présent article, le directeur est
 soumis à l'autorité des ministres chargés de la santé et de la sécurité sociale.
 

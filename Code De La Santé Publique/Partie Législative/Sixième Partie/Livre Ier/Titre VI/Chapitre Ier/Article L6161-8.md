@@ -8,5 +8,6 @@ délai de six mois.
 Tout établissement de santé privé participant au service public hospitalier doit
 comporter une commission médicale élue par les praticiens qui y exercent, dont
 il fixe les modalités d'organisation et de fonctionnement et qui est consultée
-notamment sur le projet de contrat pluriannuel mentionné aux articles L. 6114-1
-et L. 6114-2, sur le projet d'établissement et sur le projet de budget.
+notamment sur le projet de contrat pluriannuel mentionné à l'article L. 6114-1
+sur le projet d'établissement et sur le projet d'état des prévisions de recettes
+et de dépenses.

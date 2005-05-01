@@ -1,15 +1,24 @@
 Article L6146-6
 ----
-L'unité fonctionnelle est placée sous la responsabilité d'un praticien titulaire
-ou d'un praticien hospitalo-universitaire temporaire du service ou du
-département dans le cadre de l'organisation générale définie par le chef de
-service ou de département et dans le respect du projet de service.
+Le praticien responsable d'un pôle d'activité clinique ou médico-technique met
+en oeuvre au sein du pôle la politique générale de l'établissement et les moyens
+définis par le contrat passé avec le directeur et le président de la commission
+médicale d'établissement afin d'atteindre les objectifs fixés au pôle. Il
+organise avec les équipes médicales, soignantes et d'encadrement du pôle, sur
+lesquelles il a autorité fonctionnelle, le fonctionnement technique du pôle,
+dans le respect de la déontologie de chaque praticien et des missions et
+responsabilités de structure prévues par le projet de pôle. Il est assisté selon
+les activités du pôle par une sage-femme cadre, un cadre de santé pour
+l'organisation, la gestion et l'évaluation des activités qui relèvent de leurs
+compétences, et par un cadre administratif.
 
-A titre exceptionnel, un praticien hospitalier peut être chargé de plusieurs
-unités fonctionnelles.
+Le praticien responsable élabore avec le conseil de pôle un projet de pôle qui
+prévoit l'organisation générale, les orientations d'activité ainsi que les
+actions à mettre en oeuvre pour développer la qualité et l'évaluation des soins.
 
-Le conseil d'administration désigne pour une période déterminée par voie
-réglementaire le praticien hospitalier chargé de l'unité fonctionnelle avec
-l'accord du chef de service ou de département après avis des praticiens
-titulaires du service ou du département et de la commission médicale
-d'établissement.
+Les éléments d'activité et d'évaluation fournis, notamment au directeur et au
+président de la commission médicale d'établissement, dans le cadre de la
+contractualisation interne précisent l'état d'avancement du projet et comportent
+une évaluation de la qualité des soins. Les projets de pôle comportent des
+objectifs en matière d'évaluation des pratiques professionnelles. Ces objectifs
+et leur suivi sont approuvés par les chefs de service du pôle.

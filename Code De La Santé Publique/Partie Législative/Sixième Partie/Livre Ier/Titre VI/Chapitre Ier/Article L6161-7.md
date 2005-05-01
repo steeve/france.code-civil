@@ -1,10 +1,8 @@
 Article L6161-7
 ----
-Le budget et les décisions modificatives des établissements mentionnés à
-l'article L. 6161-6 sont, en tant qu'ils concernent leurs activités de
-participation au service public, soumis à l'approbation du directeur de l'agence
-régionale de l'hospitalisation dans les délais et selon les modalités fixées aux
-articles L. 6145-1 et L. 6145-4.
+Le dernier alinéa de l'article L. 6143-4 et l'article L. 6145-1 sont applicables
+aux établissements mentionnés à l'article L. 6161-6 pour ce qui concerne leurs
+activités de participation au service public.
 
 Les établissements bénéficient pour leur équipement des avantages prévus pour
 les établissements publics de santé.

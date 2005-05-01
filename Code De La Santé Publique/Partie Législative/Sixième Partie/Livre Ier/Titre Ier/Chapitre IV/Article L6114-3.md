@@ -12,5 +12,8 @@ l'article L. 6113-3 ainsi que les engagements nécessaires pour faire suite à
 cette procédure.
 
 Pour les établissements publics de santé, ces contrats précisent également les
-transformations relatives à leur organisation et leur gestion ainsi qu'un volet
-social.
+transformations relatives à leur organisation et leur gestion. Ils comportent un
+volet social. Dans les centres hospitaliers universitaires, le volet relatif à
+l'enseignement, à la recherche et à l'innovation est préparé avec les
+universités associées et, dans les conditions définies à l'article L. 6114-1,
+les organismes de recherche.

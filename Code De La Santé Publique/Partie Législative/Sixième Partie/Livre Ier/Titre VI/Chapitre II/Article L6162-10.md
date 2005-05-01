@@ -1,23 +1,14 @@
 Article L6162-10
 ----
-Le conseil d'administration délibère notamment sur les objets suivants :
+Le directeur général du centre est compétent pour régler les affaires du centre
+autres que celles énumérées à l'article L. 6162-9. Il assure la conduite
+générale de l'établissement et en rend compte au conseil d'administration. Il
+représente le centre en justice et dans tous les actes de la vie civile.
 
-1° Le budget du centre ;
+Le directeur général est nommé, pour une période de cinq ans renouvelable, par
+le ministre chargé de la santé après avis du conseil d'administration et de la
+fédération nationale la plus représentative des centres de lutte contre le
+cancer.
 
-2° Les comptes du directeur et du trésorier ;
-
-3° Les emprunts ;
-
-4° Les acquisitions, aliénations, échanges, constructions et grosses
-réparations, ainsi que les marchés, baux et locations ;
-
-5° Les dons et legs ;
-
-6° Les conditions de recrutement et de rémunération du personnel lorsqu'elles
-n'ont pas été fixées par les arrêtés prévus aux articles L. 6162-11 et L.
-6162-12 ;
-
-7° Les conventions et règlements mentionnés à l'article L. 6162-6 ;
-
-8° Les propositions à faire au représentant de l'Etat dans le département en vue
-de la détermination du prix de journée.
+Le président du conseil d'administration peut demander au ministre chargé de la
+santé de mettre une fin anticipée au mandat du directeur du centre.

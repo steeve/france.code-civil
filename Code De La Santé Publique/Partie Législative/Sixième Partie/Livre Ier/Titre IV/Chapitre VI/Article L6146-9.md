@@ -1,19 +1,12 @@
 Article L6146-9
 ----
-Dans chaque établissement, la direction du service de soins infirmiers est
-confiée à l'infirmier général, membre de l'équipe de direction.
+Dans chaque établissement, la coordination générale des soins infirmiers, de
+rééducation et médico-techniques est confiée à un directeur des soins
+infirmiers, de rééducation et médico-techniques, membre de l'équipe de direction
+et nommé par le directeur.
 
-Une commission, présidée par le directeur du service des soins infirmiers et
-composée des différentes catégories de personnels du service de soins
-infirmiers, est instituée au sein de ce dernier. Elle est consultée dans des
-conditions fixées par voie réglementaire sur :
-
-1° L'organisation générale des soins infirmiers et de l'accompagnement des
-malades dans le cadre d'un projet de soins infirmiers ;
-
-2° La recherche dans le domaine des soins infirmiers et l'évaluation de ces
-soins ;
-
-3° L'élaboration d'une politique de formation ;
-
-4° Le projet d'établissement.
+Une commission des soins infirmiers, de rééducation et médico-techniques,
+présidée par le coordonnateur général des soins infirmiers, de rééducation et
+médico-techniques et composée des différentes catégories de personnels de soins,
+est consultée sur des matières et dans des conditions fixées par voie
+réglementaire.

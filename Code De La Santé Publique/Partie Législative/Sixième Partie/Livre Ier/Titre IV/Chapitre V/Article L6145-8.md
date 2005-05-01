@@ -9,12 +9,13 @@ comptable est tenu de s'y conformer, sauf en cas :
 
 1° D'insuffisance de fonds disponibles ;
 
-2° De dépenses ordonnancées sur des crédits irrégulièrement ouverts ou
-insuffisants ou sur des crédits autres que ceux sur lesquels elle devrait être
-imputée ;
+2° De mauvaise imputation comptable des dépenses ;
 
 3° D'absence de justification de service fait ou de défaut de caractère
-libératoire du règlement.
+libératoire du règlement ;
+
+4° De dépenses mandatées sur des crédits irrégulièrement ouverts ou insuffisants
+lorsque ces crédits ont un caractère limitatif.
 
 L'ordre de réquisition est porté à la connaissance du conseil d'administration
 de l'établissement et notifié au trésorier-payeur général du département qui le
