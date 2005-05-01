@@ -1,20 +1,37 @@
 Article L6162-9
 ----
-Chaque centre est géré par un conseil d'administration composé de douze membres.
+Le conseil d'administration arrête la politique générale du centre ainsi que sa
+politique d'évaluation et de contrôle. A ce titre il procède aux contrôles et
+vérification qu'il juge opportuns et délibère sur :
 
-Font obligatoirement partie du conseil le représentant de l'Etat dans le
-département, le directeur départemental des affaires sanitaires et sociales du
-département dans lequel le centre a son siège, le président ou le directeur et
-un professeur de l'unité de formation et de recherche médicales dans le ressort
-de laquelle le centre a son siège, un délégué des caisses de sécurité sociale,
-un représentant de l'administration hospitalière avec laquelle le centre a passé
-contrat, le directeur du centre et deux membres du comité technique prévu à
-l'article L. 6162-5.
+1° Le projet d'établissement et le contrat pluriannuel d'objectifs et de moyens
+;
 
-Les membres de droit énumérés au précédent alinéa désignent les trois autres
-membres à la majorité des voix. Les désignations ainsi faites sont soumises à
-l'agrément du directeur de l'agence régionale de l'hospitalisation.
+2° La politique d'amélioration continue de la qualité et de la sécurité des
+soins ainsi que des conditions d'accueil et de prise en charge des usagers ;
 
-La présidence du conseil d'administration appartient au représentant de l'Etat
-dans le département, la vice-présidence au directeur départemental des affaires
-sanitaires et sociales.
+3° L'état des prévisions de recettes et de dépenses prévu à l'article L. 6145-1,
+ses modifications, ses éléments annexes, le rapport préliminaire à cet état,
+ainsi que les propositions de tarifs de prestations mentionnés à l'article L.
+174-3 du code de la sécurité sociale ;
+
+4° Les comptes et l'affectation des résultats d'exploitation ;
+
+5° Les dons et legs ;
+
+6° La participation aux réseaux de santé mentionnés à l'article L. 6321-1 et les
+actions de coopération mentionnées au titre III du présent livre ;
+
+7° Les acquisitions, aliénations, échanges d'immeubles et les conditions des
+baux de plus de dix-huit ans ;
+
+8° Les conventions avec des organismes de recherche et les prises de
+participation nécessaires à la réalisation de projet de recherche ou à
+l'exploitation des résultats ;
+
+9° Les conventions mentionnées à l'article L. 6162-6 ;
+
+10° Le règlement intérieur ;
+
+Le président du conseil d'administration dispose d'une voix prépondérante en cas
+de partage égal des voix.

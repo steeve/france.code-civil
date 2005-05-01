@@ -1,5 +1,8 @@
 Article L1617-5
 ----
+Les dispositions du présent article s'appliquent également aux établissements
+publics de santé.
+
 1° En l'absence de contestation, le titre de recettes individuel ou collectif
 émis par la collectivité territoriale ou l'établissement public local permet
 l'exécution forcée d'office contre le débiteur.

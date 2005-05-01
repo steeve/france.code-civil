@@ -3,16 +3,19 @@ Article L6114-1
 Les agences régionales de l'hospitalisation concluent avec les établissements de
 santé, les groupements de coopération sanitaire et les autres titulaires de
 l'autorisation mentionnée à l'article L. 6122-1 des contrats pluriannuels
-d'objectifs et de moyens d'une durée de cinq ans.
+d'objectifs et de moyens d'une durée maximale de cinq ans.
 
 Les contrats sont signés par le directeur de l'agence régionale et les personnes
 physiques et morales mentionnées à l'alinéa précédent.
 
 Ils peuvent faire l'objet d'une révision par avenant.
 
-Des organismes concourant aux soins, des professionnels de santé exerçant à
-titre libéral, des instituts de recherche ou des universités peuvent être
-appelés au contrat pour tout ou partie de ses clauses.
+Des organismes concourant aux soins, des universités, des établissements publics
+scientifiques et technologiques ou d'autres organismes de recherche ainsi que
+des professionnels de santé exerçant à titre libéral, peuvent être appelés au
+contrat pour tout ou partie de ses clauses. En cas de pluralité d'organismes de
+recherche, le contrat est signé par l'Institut national de la santé et de la
+recherche médicale.
 
 Pour les établissements publics de santé, ces contrats sont conclus après
 délibération du conseil d'administration prise après avis de la commission
