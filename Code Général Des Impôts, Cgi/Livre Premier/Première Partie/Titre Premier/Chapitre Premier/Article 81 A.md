@@ -5,9 +5,8 @@ l'étranger par des personnes de nationalité française qui ont leur domicile
 fiscal en France et qui sont envoyées à l'étranger par un employeur établi en
 France, ne sont pas soumis à l'impôt lorsque le contribuable justifie que les
 rémunérations en cause ont été effectivement soumises à un impôt sur le revenu
-dans l'Etat où s'exerce son activité et que cet impôt est au moins égal
-[*montant*] aux deux tiers de celui qu'il aurait à supporter en France sur la
-même base d'imposition.
+dans l'Etat où s'exerce son activité et que cet impôt est au moins égal aux deux
+tiers de celui qu'il aurait à supporter en France sur la même base d'imposition.
 
 II Les traitements et salaires perçus en rémunération de leur activité à
 l'étranger par des personnes de nationalité française autres que les
@@ -19,11 +18,13 @@ de douze mois consécutifs, ne sont pas soumis à l'impôt.
 Cette exonération n'est accordée que si les rémunérations considérées se
 rapportent aux activités suivantes à l'étranger :
 
-a Chantiers de construction ou de montage, installation d'ensembles industriels,
-leur mise en route et leur exploitation, la prospection et l'ingénierie y
-afférentes;
+a) Chantiers de construction ou de montage, installation d'ensembles
+industriels, leur mise en route et leur exploitation, la prospection et
+l'ingénierie y afférentes ;
 
-b Prospection, recherche ou extraction de ressources naturelles.
+b) Prospection, recherche ou extraction de ressources naturelles ;
+
+c) Navigation à bord de navires immatriculés au registre international français.
 
 III Lorsque l'intéressé ne peut bénéficier de ces exonérations, ces
 rémunérations ne sont soumises à l'impôt en France qu'à concurrence du montant
