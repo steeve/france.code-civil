@@ -14,6 +14,8 @@ statutaire la construction ou la gestion de logements ou la restructuration
 urbaine ne peuvent bénéficier de l'aide de l'agence que pour les opérations de
 réhabilitation, en vue de leur revente, des logements acquis dans les
 copropriétés faisant l'objet du plan de sauvegarde prévu à l'article L. 615-1.
-La commission d'amélioration de l'habitat peut, selon des critères définis par
-le règlement général de l'agence, assortir l'aide qu'elle accorde de dérogations
+La commission d'amélioration de l'habitat ou le président de l'établissement
+public de coopération intercommunale ou du conseil général ayant conclu la
+convention mentionnée à l'article L. 321-1-1 peut, selon des critères définis
+par le règlement général de l'agence, assortir l'aide accordée de dérogations
 aux règles d'utilisation des locaux définies à l'article R. 321-20.
