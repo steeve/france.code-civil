@@ -1,12 +1,16 @@
 Article R1418-1
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
-ne pas communiquer les informations demandées par l'Institut de veille sanitaire
-dans les conditions prévues aux articles R. 1413-21 et R. 1413-22.
+Au titre des missions qui lui sont conférées par l'article L. 1418-1, l'Agence
+de la biomédecine est notamment chargée d'assurer :
 
-Les personnes morales peuvent être déclarées pénalement responsables de la
-présente infraction, dans les conditions prévues par l'article 121-2 du code
-pénal.
+1° La gestion de la liste nationale des patients en attente de greffes d'organes
+et de cornées mentionnée à l'article L. 1251-1 ainsi que celle du fichier des
+donneurs volontaires de cellules hématopoïétiques et de cellules mononucléées
+périphériques mentionné au 8° de l'article L. 1418-1 ;
 
-La peine encourue par les personnes morales est l'amende, suivant les modalités
-prévues par l'article 131-41 du code pénal.
+2° La gestion et le fonctionnement du registre national automatisé des refus de
+prélèvement d'organes mentionné à l'article L. 1232-1 ;
+
+3° L'encadrement et la coordination des activités de prélèvement et de greffe
+d'organes, de tissus et de cellules issus du corps humain, y compris les
+échanges internationaux dont les greffons font l'objet.
