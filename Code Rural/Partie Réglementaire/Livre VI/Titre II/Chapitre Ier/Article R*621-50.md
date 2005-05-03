@@ -6,5 +6,6 @@ l'exception de celles relatives au taux des taxes et cotisations à la charge de
 producteurs.
 
 Les attributions ainsi réservées au conseil central ne peuvent faire l'objet de
-la procédure d'approbation par le commissaire du Gouvernement et le contrôleur
-d'Etat, prévue au dernier alinéa de l'article R. 621-47.
+la procédure d'approbation par le commissaire du Gouvernement et le membre du
+corps du contrôle général économique et financier, prévue au dernier alinéa de
+l'article R. 621-47.

@@ -23,7 +23,7 @@ Le conseil d'administration peut entendre des experts pour l'examen d'une
 question figurant à l'ordre du jour.
 
 Le directeur de l'Institut national de la consommation, le commissaire du
-Gouvernement, le contrôleur d'Etat et l'agent comptable assistent avec voix
-consultative aux séances du conseil d'administration. Le directeur peut se faire
-assister par tout collaborateur de son choix. Il peut se faire représenter en
-cas d'empêchement.
+Gouvernement, le membre du corps du contrôle général économique et fiancier et
+l'agent comptable assistent avec voix consultative aux séances du conseil
+d'administration. Le directeur peut se faire assister par tout collaborateur de
+son choix. Il peut se faire représenter en cas d'empêchement.

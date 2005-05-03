@@ -4,7 +4,7 @@ Outre les personnalités [*représentants des organisations d'employeurs et de
 travailleurs*] prévues au deuxième alinéa de l'article L. 200-7, assistent avec
 voix consultative aux réunions du conseil d'administration :
 
-Le contrôleur financier de l'agence ;
+Le membre du corps du contrôle général économique et financier de l'agence ;
 
 Le directeur et l'agent comptable de celle-ci ;
 

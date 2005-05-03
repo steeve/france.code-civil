@@ -17,8 +17,9 @@ Le cahier des charges annuel des prestations de l'appui technique aux
 organisations de consommateurs est élaboré par une commission créée à cet effet
 et qui veille à son exécution. Cette commission est composée d'un représentant
 de chacune des organisations de consommateurs agréées au plan national, ainsi
-que du directeur de l'établissement. Le commissaire du Gouvernement et le
-contrôleur d'Etat assistent de droit à ses travaux ;
+que du directeur de l'établissement. Le commissaire du Gouvernement et le membre
+du corps du contrôle général économique et financier assistent de droit à ses
+travaux ;
 
 b) Fournit aux organisations de consommateurs des prestations dont la nature et
 le contenu sont définis par des conventions négociées entre l'établissement et

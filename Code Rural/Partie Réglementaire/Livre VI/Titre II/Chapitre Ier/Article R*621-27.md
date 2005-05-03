@@ -6,13 +6,14 @@ opérations de stockage et aux opérations communautaires.
 II. - Lorsque les crédits de gestion administrative n'ont pas fait l'objet d'une
 présentation détaillée dans l'état prévisionnel des recettes et dépenses, le
 directeur établit un état de répartition par chapitres, soumis au visa préalable
-du contrôleur d'Etat dans les conditions prévues par un arrêté du ministre
-chargé de l'économie et des finances.
+du membre du corps du contrôle général économique et financier dans les
+conditions prévues par un arrêté du ministre chargé de l'économie et des
+finances.
 
 Les crédits de gestion administrative peuvent faire l'objet de virements entre
 les différents chapitres dès lors que le montant total des dépenses autorisées
-n'est pas dépassé. Le directeur procède à ces virements après visa du contrôleur
-d'Etat.
+n'est pas dépassé. Le directeur procède à ces virements après visa du membre du
+corps du contrôle général économique et financier.
 
 III. - En matière d'intervention économique et d'opérations en capital, les
 virements de crédits sont soumis pour avis par le directeur à l'organe

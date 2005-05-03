@@ -24,7 +24,8 @@ consommateurs et des organisations de salariés les plus représentatives, parmi
 eux à raison d'un membre pour chaque collège.
 
 II. - Le directeur général de l'office, le commissaire du Gouvernement, le
-contrôleur d'Etat, le directeur général de la Caisse nationale de crédit
-agricole ou son représentant, le directeur général des douanes et des droits
-indirects ou son représentant, ainsi qu'un représentant des ministres intéressés
-par les points à l'ordre du jour, assistent aux séances avec voix consultative.
+membre du corps du contrôle général économique et financier, le directeur
+général de la Caisse nationale de crédit agricole ou son représentant, le
+directeur général des douanes et des droits indirects ou son représentant, ainsi
+qu'un représentant des ministres intéressés par les points à l'ordre du jour,
+assistent aux séances avec voix consultative.

@@ -11,12 +11,14 @@ des charges d'exploitation est prise par le ministre chargé des ports maritimes
 et par le ministre de l'économie et des finances.
 
 Si l'état prévisionnel n'est pas encore approuvé à l'ouverture de l'exercice, le
-directeur peut néanmoins engager, sauf opposition du contrôleur d'Etat, dans la
-limite des ressources disponibles à cet effet, les dépenses antérieurement
-autorisées et ordonner les paiements correspondants. Il peut en outre, dans la
-double limite des prévisions adoptées par le conseil d'administration et des
-crédits approuvés au titre de l'année précédente, engager, sauf opposition du
-contrôleur d'Etat, les dépenses indispensables à la continuité de la gestion.
+directeur peut néanmoins engager, sauf opposition du membre du corps du contrôle
+général économique et financier, dans la limite des ressources disponibles à cet
+effet, les dépenses antérieurement autorisées et ordonner les paiements
+correspondants. Il peut en outre, dans la double limite des prévisions adoptées
+par le conseil d'administration et des crédits approuvés au titre de l'année
+précédente, engager, sauf opposition du membre du corps du contrôle général
+économique et financier, les dépenses indispensables à la continuité de la
+gestion.
 
 Les modifications à l'état prévisionnel reconnues nécessaires en cours
 d'exercice sont arrêtées et approuvées dans les mêmes formes que cet état.

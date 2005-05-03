@@ -18,8 +18,9 @@ présenté par le directeur ;
 dépenses, soit des virements de crédits entre la section des opérations en
 capital et la section de fonctionnement ou entre les chapitres de matériel et
 les chapitres de personnel. Les autres états rectificatifs sont pris par le
-directeur après avis conforme du contrôleur d'Etat. Il en rend compte au conseil
-d'administration à sa plus proche séance ;
+directeur après avis conforme du membre du corps du contrôle général économique
+et financier. Il en rend compte au conseil d'administration à sa plus proche
+séance ;
 
 6° Les conditions générales de fixation des prix de vente des produits et des
 prestations de l'établissement ;

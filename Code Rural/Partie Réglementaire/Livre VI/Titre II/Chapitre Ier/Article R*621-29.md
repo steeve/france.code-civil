@@ -6,4 +6,4 @@ de l'exercice en cours et les crédits afférents à des exercices antérieurs a
 fait l'objet d'un report. Cet état distingue les crédits de gestion
 administrative, les crédits d'intervention économique et les crédits
 d'opérations en capital. Il est immédiatement communiqué aux autorités de
-tutelle et au contrôleur d'Etat.
+tutelle et au membre du corps du contrôle général économique et financier.

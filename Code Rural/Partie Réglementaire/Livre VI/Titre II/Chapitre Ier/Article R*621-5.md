@@ -5,8 +5,8 @@ de son président. La convocation du conseil est de droit si elle est demandée
 par la moitié des membres en exercice ou par le ministre chargé de
 l'agriculture, ou par le ministre chargé du budget.
 
-Le directeur, le contrôleur financier et l'agent comptable assistent aux séances
-avec voix consultative.
+Le directeur, le membre du corps du contrôle général économique et financier et
+l'agent comptable assistent aux séances avec voix consultative.
 
 Le conseil d'administration ne peut valablement délibérer que si le nombre des
 membres présents ou représentés est supérieur à la moitié des membres en

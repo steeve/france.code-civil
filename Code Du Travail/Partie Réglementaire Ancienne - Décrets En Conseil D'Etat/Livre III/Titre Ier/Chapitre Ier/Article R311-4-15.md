@@ -1,7 +1,7 @@
 Article R311-4-15
 ----
-Le budget de l'Agence nationale pour l'emploi [*ANPE*] est préparé par le
-directeur général.
+Le budget de l'Agence nationale pour l'emploi est préparé par le directeur
+général.
 
 Il comporte notamment, en recettes, les subventions de l'Etat, les versements
 effectués par les entreprises au titre de l'article L. 951-1 et, le cas échéant,
@@ -31,7 +31,8 @@ approuvé par l'autorité de tutelle avant le début de l'année, les opération
 recettes et de dépenses sont effectuées sur la base du budget de l'exercice
 précédent de l'Agence nationale pour l'emploi.
 
-Toutefois, après accord du contrôleur d'Etat, ces opérations peuvent être
-effectuées dans la limite du projet non encore approuvé si elles résultent de
-l'application de mesures arrêtées pour le budget de l'Etat au titre des
-subventions allouées à l'Agence nationale pour l'emploi.
+Toutefois, après accord du membre du corps du contrôle général économique et
+financier, ces opérations peuvent être effectuées dans la limite du projet non
+encore approuvé si elles résultent de l'application de mesures arrêtées pour le
+budget de l'Etat au titre des subventions allouées à l'Agence nationale pour
+l'emploi.

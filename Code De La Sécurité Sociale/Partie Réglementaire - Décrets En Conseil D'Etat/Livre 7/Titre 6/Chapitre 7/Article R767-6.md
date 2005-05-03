@@ -23,6 +23,6 @@ Les délibérations du conseil d'administration portant sur les acquisitions,
 échanges et aliénations d'immeubles ne sont exécutoires qu'après approbation
 expresse par les ministres précités.
 
-Le directeur du centre, le secrétaire général, le contrôleur financier et
-l'agent comptable de l'établissement assistent aux séances du conseil
-d'administration avec voix consultative.
+Le directeur du centre, le secrétaire général, le membre du corps du contrôle
+général économique et financier et l'agent comptable de l'établissement
+assistent aux séances du conseil d'administration avec voix consultative.

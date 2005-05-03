@@ -50,5 +50,6 @@ budget.
 Le ministre chargé des transports désigne un commissaire du Gouvernement en
 accord avec le ministre chargé de la formation professionnelle.
 
-Les modalités d'exercice des attributions du contrôleur d'Etat et du commissaire
-du Gouvernement sont fixées par décret.
+Les modalités d'exercice des attributions du membre du corps du contrôle général
+économique et financier et du commissaire du Gouvernement sont fixées par
+décret.

@@ -21,5 +21,6 @@ Les délibérations du conseil sont adoptées à la majorité des voix des membr
 présents ou représentés. La voix du président est prépondérante en cas de
 partage égal des voix.
 
-Le directeur général, le contrôleur financier et l'agent comptable assistent aux
-réunions du conseil d'administration avec voix consultative.
+Le directeur général, le membre du corps du contrôle général économique et
+financier et l'agent comptable assistent aux réunions du conseil
+d'administration avec voix consultative.

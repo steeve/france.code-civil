@@ -3,7 +3,8 @@ Article R*684-6
 Le conseil de direction se réunit au moins deux fois par an sur convocation de
 son président. Assistent de droit aux séances :
 
-1° Le directeur, le contrôleur d'Etat et l'agent comptable de l'office ;
+1° Le directeur, le membre du corps du contrôle général économique et financier
+et l'agent comptable de l'office ;
 
 2° Les directeurs des offices d'intervention et le directeur de l'Agence
 centrale des organismes d'intervention dans le secteur agricole ou leur

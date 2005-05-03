@@ -44,12 +44,14 @@ Les crédits sont limitatifs.
 Dans le cas où le budget n'est pas approuvé par le conseil d'administration ou
 les autorités de tutelle avant le début de l'année, les opérations de recettes
 et de dépenses sont effectuées sur la base des prévisions de l'exercice
-précédent. Toutefois, en cas de nécessité et après accord du contrôleur d'Etat,
-ces opérations peuvent être effectuées dans la limite du projet non encore
-approuvé, si elles résultent de l'application des mesures arrêtées pour le
-budget de l'Etat au titre des subventions allouées par celui-ci.
+précédent. Toutefois, en cas de nécessité et après accord du membre du corps du
+contrôle général économique et financier, ces opérations peuvent être effectuées
+dans la limite du projet non encore approuvé, si elles résultent de
+l'application des mesures arrêtées pour le budget de l'Etat au titre des
+subventions allouées par celui-ci.
 
 Des virements d'article à article peuvent être faits à l'intérieur des chapitres
-concernant le fonctionnement du centre avec l'approbation du contrôleur d'Etat.
-Des virements de chapitre à chapitre peuvent être faits avec l'approbation du
-contrôleur d'Etat lorsqu'il s'agit de dépenses d'intervention.
+concernant le fonctionnement du centre avec l'approbation du membre du corps du
+contrôle général économique et financier. Des virements de chapitre à chapitre
+peuvent être faits avec l'approbation du membre du corps du contrôle général
+économique et financier lorsqu'il s'agit de dépenses d'intervention.

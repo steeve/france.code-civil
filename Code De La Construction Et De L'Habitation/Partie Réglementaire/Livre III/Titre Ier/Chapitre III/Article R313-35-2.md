@@ -45,4 +45,5 @@ démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils
 mandat restant à courir.
 
 Participent, avec voix consultative, aux travaux du conseil d'administration le
-directeur général et le contrôleur d'Etat de l'agence nationale.
+directeur général et le membre du corps du contrôle général économique et
+financier de l'agence nationale.
