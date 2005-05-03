@@ -1,38 +1,26 @@
 Article R1112-9
 ----
-Les trente-deux membres sont répartis par moitié entre représentants des élus
-territoriaux et représentants de l'Etat.
+Les résultats du scrutin sont consignés dans deux procès-verbaux rédigés sur des
+formulaires fournis par la collectivité territoriale ayant décidé le référendum.
+Ils sont signés des membres du bureau. Les délégués des groupes d'élus, partis
+ou groupements politiques habilités sont invités à contresigner les exemplaires
+des procès-verbaux.
 
-Ils sont nommés pour une période de trois ans renouvelable par arrêté du Premier
-ministre. Les élus sont proposés par les associations représentatives d'élus
-territoriaux. Ils ne peuvent siéger au-delà de la durée de leur mandat électif.
+Dès l'établissement du procès-verbal, le résultat est proclamé en public par le
+président du bureau et affiché en toutes lettres par ses soins dans la salle de
+vote.
 
-Les représentants des élus comprennent :
+Lorsque les collèges électoraux sont répartis en plusieurs bureaux de vote, le
+dépouillement du scrutin est d'abord opéré par bureau. Le président et les
+membres de chaque bureau remettent ensuite les deux exemplaires du procès-verbal
+et les annexes au premier bureau constitué en bureau centralisateur et chargé
+d'opérer le recensement général des votes en présence des présidents des autres
+bureaux.
 
-1° Cinq membres représentant les conseils régionaux et l'assemblée de Corse,
-dont un représentant des conseils régionaux d'outre-mer ;
+Les résultats arrêtés par chaque bureau et les pièces annexes ne peuvent en
+aucun cas être modifiés.
 
-2° Cinq membres représentant les conseils généraux ;
-
-3° Cinq membres représentant les communes ;
-
-4° Un membre représentant les groupements de communes.
-
-Les seize représentants de l'Etat représentent différents ministres dont au
-moins un représentant des huit ministres suivants :
-
-1° Ministre de l'intérieur ;
-
-2° Ministre chargé des collectivités locales ;
-
-3° Ministre chargé de l'aménagement du territoire ;
-
-4° Ministre des affaires étrangères ;
-
-5° Ministre chargé des affaires européennes ;
-
-6° Ministre chargé de la coopération ;
-
-7° Ministre chargé des départements et territoires d'outre-mer ;
-
-8° Ministre chargé de la francophonie.
+Un procès-verbal récapitulatif est établi en double exemplaire en présence des
+électeurs. Il est signé par les membres du premier bureau, les délégués des
+groupes d'élus, partis ou groupements politiques habilités auprès de celui-ci et
+les présidents des autres bureaux.

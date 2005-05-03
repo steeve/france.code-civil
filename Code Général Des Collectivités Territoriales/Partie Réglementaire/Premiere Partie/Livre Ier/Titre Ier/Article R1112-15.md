@@ -1,7 +1,6 @@
 Article R1112-15
 ----
-La commission adopte son règlement intérieur dans le délai de trois mois à
-compter de son installation. Ce règlement intérieur définit notamment les
-conditions dans lesquelles la commission peut entendre des personnalités non
-membres en raison de leur compétence en matière de coopération décentralisée et
-prévoit la constitution de groupes de travail.
+Est puni de l'amende prévue pour les contraventions de la cinquième classe le
+fait pour tout agent de l'autorité publique ou municipale d'avoir distribué des
+bulletins de vote ou documents des groupes d'élus, partis politiques ou
+groupements politiques habilités à participer à la campagne.
