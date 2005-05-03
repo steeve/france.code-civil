@@ -12,9 +12,15 @@ l'autorité administrative mentionnée à l'article R. 714-3-27, accompagnées d
 documents mentionnés aux 1, 2 et 3 de l'article R. 714-3-16 et, en tant que de
 besoin, aux 4 et 5 du même article.
 
-Si, à l'issue du délai de 30 jours mentionné à l'article L. 6143-4, l'autorité
-administrative n'a pas fait connaître son opposition au projet de budget, il est
-exécutoire. Il est transmis sans délai au comptable de l'établissement.
+A défaut d'approbation expresse, si à l'issue d'un délai de trente jours suivant
+la notification des décisions prévues à l'article R. 162-42-4 du code de la
+sécurité sociale et à l'article R. 714-3-26 du présent code ou d'un délai de
+trente jours suivant la réception de l'état des prévisions de recettes et de
+dépenses, lorsque cette date est postérieure à la date de notification de ces
+décisions, l'autorité administrative mentionnée à l'article R. 714-3-27 n'a pas
+fait connaître son opposition au projet d'état des prévisions de recettes et de
+dépenses, il est exécutoire. Il est transmis sans délai au comptable de
+l'établissement.
 
 Le directeur de l'agence régionale de l'hospitalisation arrête les tarifs de
 prestations mentionnés à l'article L. 174-3 du code de la sécurité sociale dans

@@ -1,7 +1,7 @@
 Article R714-21-16
 ----
 La commission nationale est constituée par arrêté du ministre chargé de la
-santé. Elle comprend [*composition*] :
+santé. Elle comprend *composition* :
 
 1° Un conseiller d'Etat, en activité ou honoraire, président, nommé sur
 proposition du vice-président du Conseil d'Etat ;

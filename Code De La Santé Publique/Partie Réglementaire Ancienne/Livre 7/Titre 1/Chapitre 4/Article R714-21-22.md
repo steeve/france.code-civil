@@ -9,5 +9,5 @@ d'établissement et du directeur, et sur proposition du médecin inspecteur
 régional de la santé ou du pharmacien inspecteur régional s'il s'agit d'un
 pharmacien.
 
-La désignation à titre provisoire ne peut excéder un an [*durée*]. Elle est
+La désignation à titre provisoire ne peut excéder un an *durée*. Elle est
 renouvelable une fois.

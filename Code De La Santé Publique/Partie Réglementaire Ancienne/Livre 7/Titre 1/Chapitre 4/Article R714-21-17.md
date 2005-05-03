@@ -1,6 +1,6 @@
 Article R714-21-17
 ----
-Le mandat de la commission est de cinq ans [*durée*].
+Le mandat de la commission est de cinq ans.
 
 Lorsqu'un membre élu ne remplit plus les conditions d'éligibilité, un suppléant
 élu sur la même liste, pris dans l'ordre de désignation, est nommé titulaire à
