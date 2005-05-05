@@ -1,9 +1,9 @@
 Article L762-5
 ----
-Sans préjudice de l'application des dispositions de la loi n° 47-1635 du 30 août
-1947 relative à l'assainissement des professions commerciales et industrielles,
-nul ne peut obtenir ou conserver une licence d'agent artistique s'il exerce,
-directement ou par personne interposée, l'une des activités suivantes :
+Sans préjudice de l'application des dispositions du chapitre VIII du titre II du
+livre Ier du code de commerce, nul ne peut obtenir ou conserver une licence
+d'agent artistique s'il exerce, directement ou par personne interposée, l'une
+des activités suivantes :
 
 Artiste du spectacle, exploitant de lieux de spectacles spécialement aménagés
 pour les représentations publiques, producteur de films, programmeur de

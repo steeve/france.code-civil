@@ -1,7 +1,6 @@
 Article L621-4
 ----
-I. - Tout membre de l'Autorité des marchés financiers doit informer le président
-:
+I.-Tout membre de l'Autorité des marchés financiers doit informer le président :
 
 1° Des intérêts qu'il a détenus au cours des deux ans précédant sa nomination,
 qu'il détient ou vient à détenir ;
@@ -31,17 +30,16 @@ pour assurer le respect des obligations et interdictions résultant du présent 
 L'Autorité des marchés financiers détermine dans son règlement général les
 modalités de prévention des conflits d'intérêt.
 
-II. - Les membres, les personnels et préposés de l'Autorité des marchés
-financiers ainsi que les experts nommés dans les commissions consultatives
-mentionnées au III de l'article L. 621-2 sont tenus au secret professionnel dans
-les conditions et sous les peines prévues à l'article L. 642-1.
+II.-Les membres, les personnels et préposés de l'Autorité des marchés financiers
+ainsi que les experts nommés dans les commissions consultatives mentionnées au
+III de l'article L. 621-2 sont tenus au secret professionnel dans les conditions
+et sous les peines prévues à l'article L. 642-1.
 
 Ce secret n'est pas opposable à l'autorité judiciaire agissant dans le cadre
 soit d'une procédure pénale, soit d'une procédure de liquidation judiciaire
 ouverte à l'égard d'une personne mentionnée au II de l'article L. 621-9.
 
-III. - Les dispositions de la loi n° 47-1635 du 30 août 1947 relative à
-l'assainissement des professions commerciales et industrielles sont applicables
-aux membres de l'Autorité des marchés financiers. Nul ne peut être membre de
-l'Autorité des marchés financiers s'il a été sanctionné au cours des cinq années
-passées au titre des dispositions du présent code.
+III.-Les dispositions du chapitre VIII du titre II du livre 1er du code de
+commerce sont applicables aux membres de l'Autorité des marchés financiers. Nul
+ne peut être membre de l'Autorité des marchés financiers s'il a été sanctionné
+au cours des cinq années passées au titre des dispositions du présent code.

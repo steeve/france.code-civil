@@ -2,10 +2,9 @@ Article D432-2
 ----
 Pour prétendre au bénéfice de la prime de fin de rééducation, la victime doit :
 
-1°) n'avoir subi aucune des condamnations mentionnées à l'article 1er de la loi
-n° 47-1635 du 30 août 1947 relative à l'assainissement des professions
-commerciales ou industrielles, ou par les législations de sécurité sociale et en
-particulier par l'article L. 471-3 ;
+1°) n'avoir subi aucune des condamnations mentionnées au chapitre VIII du titre
+II du livre Ier du code de commerce, ou par les législations de sécurité sociale
+et en particulier par l'article L. 471-3 ;
 
 2°) présenter toutes garanties de moralité nécessaires reconnues par la caisse
 primaire d'assurance maladie ;

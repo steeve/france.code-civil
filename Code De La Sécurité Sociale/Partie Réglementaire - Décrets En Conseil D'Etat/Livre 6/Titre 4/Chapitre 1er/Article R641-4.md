@@ -7,7 +7,7 @@ fonctions.
 Les fonctions de directeur et d'agent comptable ne peuvent être confiés qu'à des
 ressortissants majeurs des Etats de l'Union européenne, jouissant de leurs
 droits civils et civiques et n'ayant pas fait l'objet de condamnations ou de
-sanctions prévues à l'article 1er de la loi n° 47-1635 du 30 août 1947.
+sanctions prévues au chapitre VIII du titre II du livre Ier du code de commerce.
 
 Les fonctions d'agent comptable ne peuvent en outre être confiées qu'à des
 personnes titulaires d'un diplôme de comptable reconnu par l'Etat ou justifiant
