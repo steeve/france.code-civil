@@ -1,11 +1,11 @@
 Article R712-3
 ----
-L'établissement de la carte sanitaire est précédé d'un bilan quantitatif et
-qualitatif des installations, équipements et activités énumérés à l'article R.
-712-2, existants ou autorisés dans la zone sanitaire considérée ainsi que du
-réseau de transports sanitaires d'urgence ; ce bilan tient compte également des
-projets d'établissements approuvés définis aux articles L. 714-11 et L. 715-8.
+L'arrêté portant schéma national d'organisation sanitaire est publié au Journal
+officiel de la République française.
 
-Le directeur de l'agence régionale de l'hospitalisation tient à jour
-l'inventaire de l'ensemble des installations, équipements et activités énumérés
-ci-dessus.
+Les arrêtés du directeur de l'agence régionale de l'hospitalisation portant
+schéma régional d'organisation sanitaire sont publiés aux recueils des actes
+administratifs de la préfecture de la région. Les arrêtés des directeurs
+d'agence régionale de l'hospitalisation portant schéma interrégional
+d'organisation sanitaire sont publiés aux recueils des actes administratifs des
+préfectures des régions concernées.

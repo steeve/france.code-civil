@@ -23,7 +23,7 @@ Un projet de contrat de relais ne peut être approuvé et l'autorisation prévue
 l'article R. 712-63 ne peut être délivrée que si les dispositions du contrat de
 relais sont compatibles avec les orientations définies par l'établissement et
 l'agence régionale de l'hospitalisation en vue de la conclusion du contrat
-d'objectifs et de moyens prévu à l'article L. 710-16.
+pluriannuel d'objectifs et de moyens prévu à l'article L. 6114-1.
 
 En cas de mise en oeuvre des clauses de suspension ou de dénonciation du contrat
 de relais, la commission exécutive de l'agence régionale de l'hospitalisation en

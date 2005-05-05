@@ -1,7 +1,7 @@
 Article R712-73
 ----
 Lorsque l'état du patient ne justifie pas son admission dans un établissement de
-santé dispensant les soins mentionnés au a du 1° de l'article L. 711-2, le
+santé dispensant les soins mentionnés au a du 1° de l'article L. 6111-2, le
 service ou l'antenne oriente le patient, si nécessaire et en vue d'assurer la
 continuité des soins, vers le médecin traitant, généraliste ou spécialiste, vers
 une consultation externe de l'établissement ou d'un autre établissement de

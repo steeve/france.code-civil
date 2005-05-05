@@ -1,37 +1,14 @@
 Article R712-42
 ----
-I. - Une décision de refus d'autorisation ne peut être prise que pour l'un ou
-plusieurs des motifs suivants :
+Les décisions explicites que prennent, après avis du comité régional de
+l'organisation sanitaire et dans les conditions fixées aux articles L. 6122-9,
+L. 6122-12 et L. 6122-13, la commission exécutive ou le directeur de l'agence
+régionale de l'hospitalisation doivent être motivées. Elles sont notifiées par
+lettre recommandée avec avis de réception au demandeur de l'autorisation ou au
+titulaire de l'autorisation suspendue, modifiée ou retirée.
 
-1° Lorsque les besoins de la population définis par la carte sanitaire sont
-satisfaits ;
-
-2° Lorsque le projet n'est pas compatible avec les objectifs du schéma
-d'organisation sanitaire ou avec son annexe ;
-
-3° Lorsque le projet n'est pas conforme aux conditions techniques de
-fonctionnement mentionnées au 3° du premier alinéa de l'article L. 712-9 ;
-
-4° Lorsque le demandeur n'accepte pas de souscrire aux conditions ou engagements
-mentionnés aux articles L. 712-12-1 et L. 712-13 ;
-
-5° Lorsqu'il a été constaté un début d'exécution des travaux avant l'octroi de
-l'autorisation.
-
-II. - Une décision de refus de renouvellement d'autorisation ne peut être prise
-que pour l'un ou plusieurs des motifs suivants :
-
-1° Lorsque l'opération faisant l'objet de la demande de renouvellement ne
-satisfait pas aux conditions techniques de fonctionnement ;
-
-2° Lorsque les conditions et engagements mentionnés aux articles L. 712-12-1 et
-L. 712-13 n'ont pas été respectés ;
-
-3° Lorsque les résultats de l'évaluation, appréciés selon les modalités définies
-par l'arrêté mentionné à l'article L. 712-14, ne sont pas jugés satisfaisants ;
-
-4° Lorsque le demandeur du renouvellement n'accepte pas de souscrire aux
-conditions et engagements mentionnés à l'article L. 712-12-1 ;
-
-5° Lorsque le projet n'est pas compatible avec les objectifs du schéma
-d'organisation sanitaire ou avec son annexe.
+La demande par laquelle est sollicitée, en vertu du dernier alinéa de l'article
+L. 6122-9, la communication des motifs d'une décision implicite de rejet est
+adressée à l'agence régionale de l'hospitalisation par lettre recommandée avec
+demande d'avis de réception dans les deux mois à compter de la date à laquelle
+la décision implicite est née.

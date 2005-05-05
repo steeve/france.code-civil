@@ -1,36 +1,28 @@
 Article R713-1-1
 ----
-Le nombre des représentants des établissements de santé à la conférence
-sanitaire de secteur instituée par l'article L. 713-1 est déterminé comme suit :
+Le ressort territorial de la conférence sanitaire est fixé par arrêté du
+directeur de l'agence régionale de l'hospitalisation. Les établissements de
+santé situés dans ce ressort sont représentés comme suit au sein de la
+conférence :
 
-1° Représentants des établissements publics de santé :
+1° Pour chaque établissement, public ou privé : le directeur de l'établissement,
+ou son représentant, et le président de la commission médicale ou de la
+conférence médicale d'établissement, ou, à défaut, un membre du personnel
+médical désigné par la commission ou la conférence ;
 
-a) Lorsque l'établissement compte au plus deux cents lits et places : le
-directeur de l'établissement et le président de la commission médicale
-d'établissement, membres de droit.
+2° Pour l'Assistance publique-hôpitaux de Paris, les Hospices civils de Lyon et
+l'Assistance publique-hôpitaux de Marseille :
 
-b) Lorsque l'établissement compte plus de deux cents lits et places : en sus des
-deux représentants prévus au a ci-dessus, un représentant supplémentaire,
-désigné par le conseil d'administration, par tranche de deux cents lits ou
-places supplémentaires ;
+outre les deux membres mentionnés au 1°, deux à huit membres supplémentaires
+désignés par le directeur de l'agence régionale de l'hospitalisation sur
+proposition conjointe du directeur et de la commission médicale de
+l'établissement.
 
-2° Représentants des établissements de santé privés :
-
-a) Lorsque l'établissement compte au plus deux cents lits et places : deux
-représentants, dont au moins un praticien exerçant dans l'établissement,
-désignés par l'organisme gestionnaire ;
-
-b) Lorsque l'établissement compte plus de deux cents lits ou places : en sus des
-deux représentants prévus au a ci-dessus, un représentant supplémentaire,
-désigné par l'organisme gestionnaire, par tranche de deux cents lits ou places
-supplémentaires.
-
-Lorsqu'un établissement de santé est composé d'établissements implantés sur le
-territoire de plusieurs secteurs sanitaires, ses représentants siègent à la
-conférence de chacun de ces secteurs. Leur nombre est toutefois déterminé en
-tenant compte des lits et places de l'établissement situés dans le secteur
-sanitaire concerné.
-
-Pour l'application du présent article, il est tenu compte des lits et places
-autorisés servant à dispenser les soins mentionnés à l'article L. 711-2. Leur
-nombre est constaté par le directeur de l'agence régionale de l'hospitalisation.
+Cependant, lorsque plus de vingt établissements sont situés dans le ressort
+territorial de la conférence, le nombre des représentants des établissements de
+santé désignés parmi les personnes mentionnées aux 1° et 2° du présent article
+est limité à quarante. Dans ce cas, la répartition des sièges assure la
+représentation des différentes catégories d'établissements publics de santé,
+mentionnées à l'article L. 6141-2, et d'établissements de santé privés et tient
+compte des activités de soins relevant du schéma régional d'organisation
+sanitaire exercées dans le ressort de la conférence

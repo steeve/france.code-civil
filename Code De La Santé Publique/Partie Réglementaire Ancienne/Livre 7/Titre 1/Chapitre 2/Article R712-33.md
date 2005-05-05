@@ -1,29 +1,14 @@
 Article R712-33
 ----
-Le Comité national et les comités régionaux de l'organisation sanitaire et
-sociale ne peuvent délibérer que si au moins la moitié des membres de la section
-ou de la formation convoquée sont présents ; le quorum est apprécié en début de
-séance.
-
-Toutefois, quand le quorum n'est pas atteint après une convocation régulièrement
-faite, la section ou la formation, quel que soit le nombre des membres présents,
-délibère valablement sur les points inscrits à l'ordre du jour de la première
-réunion, lors d'une seconde réunion qui doit avoir lieu dans un délai de cinq à
-quinze jours.
-
-Les avis des comités sont émis à la majorité des voix des membres présents. En
-cas de partage égal des voix, celle du président est prépondérante.
-
-Les membres suppléants ne siègent qu'en cas d'absence ou d'empêchement des
-membres titulaires.
-
-Les membres ayant voix délibérative ne peuvent siéger dans les affaires
-concernant des établissements avec lesquels ils collaborent et, plus
-généralement, dans les affaires auxquelles ils sont intéressés à un titre
-quelconque.
-
-Les membres des comités sont soumis à l'obligation de discrétion professionnelle
-à l'égard de tous les faits et documents dont ils ont connaissance en cette
-qualité ainsi que des délibérations des comités.
-
-Les membres des comités exercent leur mandat à titre gratuit.
+Lorsque les objectifs quantifiés définis par l'annexe du schéma régional
+d'organisation sanitaire sont atteints dans un territoire de santé, le directeur
+de l'agence régionale de l'hospitalisation peut constater, après avis de la
+commission exécutive et du comité régional de l'organisation sanitaire, qu'il
+existe des besoins exceptionnels tenant à des situations d'urgente et impérieuse
+nécessité en matière de santé publique et rendant recevables, en vertu du
+quatrième alinéa de l'article L. 6122-9, les demandes d'autorisation ayant pour
+objet de répondre à ces besoins. Dans ce cas, le bilan mentionné à l'article R.
+712-32 fait apparaître la nature et l'étendue de ces besoins, les objectifs
+quantifiés de l'offre de soins nécessaire pour y satisfaire, par activités de
+soins et par équipements matériels lourds, ainsi que les lieux où l'implantation
+est souhaitée.

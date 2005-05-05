@@ -1,12 +1,29 @@
 Article R712-25
 ----
-Le comité régional de l'organisation sanitaire et sociale est présidé soit par
-un membre du corps des tribunaux administratifs et des cours administratives
-d'appel, soit par un membre du corps des conseillers des chambres régionales des
-comptes, désigné par le préfet de région.
+Le comité régional de l'organisation sanitaire et le comité régional de
+l'organisation sociale et médico-sociale sont réunis en formation conjointe sur
+proposition commune du directeur de l'agence régionale de l'hospitalisation et
+du préfet de région. Cette proposition, accompagnée du projet d'ordre du jour,
+est transmise pour avis aux présidents des deux comités.
 
-Le président issu de l'un de ces deux corps est suppléé par un membre de l'autre
-corps, désigné dans les mêmes conditions.
+La présidence de la séance est assurée par le plus âgé des deux présidents.
 
-Le mandat du président et de son suppléant est de cinq ans [*durée*] Il est
-renouvelable.
+Le secrétariat de la formation conjointe est assuré par le directeur de l'agence
+régionale de l'hospitalisation et le préfet de région.
+
+La formation conjointe ne délibère valablement que si au moins la moitié des
+membres convoqués à la séance commune sont présents ; le quorum est apprécié en
+début de séance. Toutefois, quand le quorum n'est pas atteint après une
+convocation régulièrement faite, la formation conjointe, quel que soit le nombre
+des membres présents, délibère valablement sur les points inscrits à l'ordre du
+jour de la première réunion, lors d'une seconde réunion qui doit avoir lieu dans
+un délai de dix à trente jours.
+
+Les délibérations de la formation conjointe sont prises à la majorité des voix
+des membres présents. En cas de partage égal des voix, la voix du président de
+la séance est prépondérante.
+
+Les dispositions des quatre derniers alinéas de l'article R. 712-21 ainsi que
+les articles R. 712-22 et R. 712-23 sont applicables lorsque le comité régional
+de l'organisation sanitaire et le comité régional de l'organisation sociale et
+médico-sociale sont réunis en formation conjointe.

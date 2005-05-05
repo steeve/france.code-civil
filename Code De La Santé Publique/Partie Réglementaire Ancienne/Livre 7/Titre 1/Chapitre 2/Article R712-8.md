@@ -1,15 +1,12 @@
 Article R712-8
 ----
-La carte sanitaire est arrêtée pour l'ensemble du territoire ou pour un groupe
-de régions par les ministres chargés de la santé et de la sécurité sociale, dans
-les conditions fixées au premier alinéa de l'article L. 712-5 pour :
+Le Comité national de l'organisation sanitaire et sociale est présidé soit par
+un conseiller d'Etat désigné par les ministres chargés de l'action sociale, de
+la santé et de la sécurité sociale sur proposition du vice-président du Conseil
+d'Etat, soit par un conseiller maître à la Cour des comptes désigné par les
+mêmes ministres sur proposition du premier président de la Cour des comptes.
 
-1. Les activités de soins énumérées aux 1°, 2°, 3°, 4° et 11° du III de
-l'article R. 712-2 ;
+Le président est suppléé par un conseiller d'Etat ou par un conseiller maître à
+la Cour des comptes, désigné dans les mêmes conditions.
 
-2. Les équipements matériels lourds énumérés aux 1, 6, 7 (b) du II de l'article
-R. 712-2.
-
-Les indices de besoins afférents aux activités de soins et équipements
-mentionnés par le présent article sont fixés par arrêté des ministres chargés de
-la santé et de la sécurité sociale.
+Le mandat du président et de son suppléant est de cinq ans. Il est renouvelable.

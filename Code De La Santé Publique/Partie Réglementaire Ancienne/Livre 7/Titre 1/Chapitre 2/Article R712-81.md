@@ -18,4 +18,4 @@ qualité médicale qu'ils apportent pour l'exercice de l'activité de soins.
 
 Lorsque l'avis de la mission est donné sur une demande d'autorisation, il est
 joint au rapport présenté au comité régional de l'organisation sanitaire et
-sociale lors de la consultation prévue à l'article L. 712-16.
+sociale lors de la consultation prévue à l'article L. 6122-9.

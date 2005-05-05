@@ -1,11 +1,10 @@
 Article R712-29
 ----
-Un arrêté du préfet de région détermine, d'une part, la liste des organismes,
-institutions, groupements ou syndicats représentés à chaque section du comité
-régional de l'organisation sanitaire et sociale et, d'autre part, le nombre de
-sièges dont ils disposent par application des dispositions des articles R.
-712-26 et R. 712-27.
+L'autorisation mentionnée à l'article L. 6122-8 est accordée par la commission
+exécutive de l'agence régionale de l'hospitalisation.
 
-Le préfet de région fixe par arrêté la liste nominative des membres des deux
-sections et de la formation plénière du comité régional de l'organisation
-sanitaire et sociale.
+L'injonction faite au titulaire de l'autorisation de déposer un dossier de
+renouvellement, prévue au troisième alinéa de l'article L. 6122-10, est
+prononcée par la commission exécutive. Elle est motivée et notifiée dans les
+formes prévues à l'article R. 712-42. Le renouvellement de l'autorisation, à la
+suite de l'injonction, est décidé par la commission exécutive.

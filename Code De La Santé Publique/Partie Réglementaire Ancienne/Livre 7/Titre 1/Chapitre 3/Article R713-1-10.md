@@ -1,16 +1,16 @@
 Article R713-1-10
 ----
-Pour l'application de l'article L. 713-2, le directeur de l'agence régionale de
-l'hospitalisation adresse au président de la conférence le projet de carte
-sanitaire et le projet de schéma d'organisation sanitaire régional, ainsi que
-les annexes et observations mentionnées au troisième alinéa de l'article R.
-712-11.
+Le président réunit sur convocation la conférence au moins deux fois par an. En
+outre, elle doit être réunie à la demande écrite du directeur de l'agence
+régionale de l'hospitalisation ou de la moitié des membres de la conférence.
 
-La conférence est réputée consultée si elle n'a pas communiqué ses observations
-au directeur de l'agence régionale de l'hospitalisation dans un délai de
-quarante-cinq jours à compter de sa saisine.
+L'ordre du jour est fixé par le président ; celui-ci ne peut refuser d'inscrire
+les questions sur lesquelles la conférence sanitaire doit être consultée ou pour
+lesquelles elle peut émettre des propositions en vertu de l'article L. 6131-2,
+ni celles qui en motivent la réunion à la demande des personnes mentionnées au
+précédent alinéa.
 
-Les avis des conseils départementaux de santé mentale prévus aux articles L. 326
-et L. 712-5, alinéa 3, sont transmis pour information aux conférences sanitaires
-de secteur pour ce qui concerne l'élaboration et la révision de la carte
-sanitaire et du schéma régional d'organisation sanitaire de psychiatrie.
+La convocation, accompagnée de l'ordre du jour, est adressée par le président de
+la conférence, au moins quinze jours à l'avance, sauf cas d'urgence, à
+l'ensemble des membres de la conférence et aux personnes mentionnées à l'article
+R. 713-1-8.

@@ -1,19 +1,9 @@
 Article R712-6
 ----
-Les limites des régions sanitaires sont celles des régions telles qu'elles sont
-définies par l'annexe I du décret n° 60-516 du 2 juin 1960 modifié portant
-harmonisation des circonscriptions administratives ; la collectivité
-territoriale de Corse constitue une région sanitaire.
+Le Comité national de l'organisation sanitaire et sociale comporte une section
+sanitaire et une section sociale.
 
-La région est découpée en secteurs sanitaires et secteurs psychiatriques.
-
-Les limites des secteurs sanitaires et des secteurs psychiatriques sont arrêtées
-par le directeur de l'agence régionale de l'hospitalisation qui constitue en
-tant que de besoin des groupes de secteurs psychiatriques et des groupes de
-secteurs sanitaires ; ces décisions sont prises après avis des préfets de
-départements.
-
-La population minimum du secteur sanitaire est déterminée par arrêté des
-ministres chargés de la santé et de la sécurité sociale ; toutefois, lorsqu'un
-département compte une population inférieure au minimum ainsi fixé, il constitue
-à lui seul un secteur sanitaire.
+Il siège en formation plénière, à la demande des ministres chargés de l'action
+sociale, de la santé et de la sécurité sociale ou de l'un d'entre eux, lorsque
+la nature des questions inscrites à l'ordre du jour rend souhaitable leur examen
+par l'ensemble du comité national.

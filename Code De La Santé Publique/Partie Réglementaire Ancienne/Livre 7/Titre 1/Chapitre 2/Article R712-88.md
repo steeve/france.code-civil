@@ -1,7 +1,7 @@
 Article R712-88
 ----
 L'autorisation d'obstétrique ne peut être accordée ou renouvelée, en application
-des articles L. 712-8 et L. 712-9, que si l'établissement justifie d'une
+des articles L. 6122-1 et L. 6122-2, que si l'établissement justifie d'une
 activité minimale annuelle constatée, ou prévisionnelle en cas de demande de
 création, de 300 accouchements. Toutefois, elle peut exceptionnellement être
 accordée à titre dérogatoire lorsque l'éloignement des établissements pratiquant

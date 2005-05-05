@@ -1,6 +1,14 @@
 Article R713-1-8
 ----
-Au cours de sa première réunion, qui est présidée par le doyen d'âge des membres
-présents, la conférence sanitaire élit en son sein un bureau composé d'un
-président, d'un vice-président et d'un secrétaire, pour une durée de trois ans
-renouvelable. En outre, elle fixe son siège.
+Le directeur de l'agence régionale de l'hospitalisation, le directeur de l'union
+régionale des caisses d'assurance maladie, les directeurs départementaux des
+affaires sanitaires et sociales des départements situés en tout ou partie dans
+le ressort territorial de la conférence, les médecins inspecteurs de santé
+publique et les médecins conseils régionaux des régimes d'assurance maladie, ou
+leurs représentants, peuvent assister aux réunions de la conférence et
+participer aux débats.
+
+Ils ne prennent pas part au vote.
+
+Le directeur de l'agence régionale de l'hospitalisation peut se faire
+accompagner des personnes de son choix.

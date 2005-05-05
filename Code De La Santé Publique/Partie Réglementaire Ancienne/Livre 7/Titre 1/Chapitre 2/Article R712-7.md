@@ -1,42 +1,24 @@
 Article R712-7
 ----
-La carte sanitaire est arrêtée par le directeur de l'agence régionale de
-l'hospitalisation, après avis des préfets de départements et dans les conditions
-fixées au deuxième alinéa de l'article L. 712-5 :
+La section sanitaire du Comité national de l'organisation sanitaire et sociale
+est consultée par le ministre chargé de la santé sur :
 
-1. Par secteur sanitaire ou groupe de secteurs sanitaires :
+1° Les projets de décrets relatifs aux conditions d'implantation des activités
+de soins et des équipements matériels lourds pris en vertu de l'article L.
+6123-1 ;
 
-a) Pour les installations et structures correspondant aux disciplines énumérées
-au I de l'article R. 712-2, à l'exception de la psychiatrie et des soins de
-suite et de réadaptation ;
+2° Les projets de décrets relatifs aux conditions techniques de fonctionnement
+pris en vertu de l'article L. 6124-1 ;
 
-b) Pour l'activité de soins visée au 5° du III de l'article R. 712-2 ;
+3° Les projets de schémas nationaux d'organisation sanitaire mentionnés à
+l'article L. 6121-4 ;
 
-2. Par secteur psychiatrique ou groupe de secteurs psychiatriques pour les
-installations et structures de psychiatrie ;
+4° Les recours hiérarchiques formés auprès du ministre en application de
+l'article L. 6122-10-1 ;
 
-3. Par région :
+5° Les projets de décret portant création d'établissements publics de santé
+nationaux.
 
-a) Pour la réanimation et les soins de suite et de réadaptation ;
-
-b) Pour les équipements matériels lourds énumérés aux 2, 4, 5, 7 (a), 8, 9, 10,
-11 et 12 du II de l'article R. 712-2 ;
-
-c) Pour les activités de soins énumérées aux 6° à 10°, à l'exception dans le 9°
-de l'activité obstétrique qui s'apprécie au niveau du secteur sanitaire, et au
-12° du III de l'article R. 712-2.
-
-Les indices de besoins afférents aux installations, équipements et activités
-énumérés par le présent article sont fixés par le directeur de l'agence
-régionale de l'hospitalisation ; lorsque des indices nationaux sont déterminés
-en ces matières par les ministres chargés de la santé et de la sécurité sociale
-et comportent un minimum et un maximum, ceux-ci servent de limites aux indices
-fixés par le directeur de l'agence régionale de l'hospitalisation.
-
-L'appréciation de l'importance des moyens nécessaires pour répondre aux besoins
-de la population dans chaque zone sanitaire est réalisée par application des
-indices de besoins de la carte sanitaire aux données démographiques tirées du
-dernier recensement ou, entre deux recensements, aux plus récentes estimations
-de population. Un arrêté du ministre chargé de la santé indique les documents
-établis par l'INSEE sur lesquels se fonde l'appréciation de ces estimations de
-population.
+La section sanitaire peut, en outre, être consultée par le ou les ministres
+chargés de l'action sociale, de la santé et de la sécurité sociale sur toute
+question concernant l'organisation des soins.

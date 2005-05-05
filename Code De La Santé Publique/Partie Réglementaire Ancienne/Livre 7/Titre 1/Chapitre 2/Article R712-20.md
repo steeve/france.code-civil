@@ -1,6 +1,8 @@
 Article R712-20
 ----
-Le Comité national peut appeler à participer à ses travaux, à titre consultatif
-et temporaire, toute personne dont le concours apparaît souhaitable, notamment
-pour l'examen des dossiers de demandes d'autorisation des recours hiérarchiques
-formés auprès du ministre.
+L'ordre du jour des séances du Comité national de l'organisation sanitaire et
+sociale est fixé par le ou les ministres chargés de l'action sociale, de la
+santé et de la sécurité sociale.
+
+L'ordre du jour des séances du comité régional de l'organisation sanitaire est
+fixé par le directeur de l'agence régionale de l'hospitalisation.

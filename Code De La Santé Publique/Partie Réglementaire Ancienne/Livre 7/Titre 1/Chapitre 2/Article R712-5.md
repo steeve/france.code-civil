@@ -1,8 +1,6 @@
 Article R712-5
 ----
-Selon la nature des installations, équipements ou activités de soins
-correspondant aux besoins de la population, les zones sanitaires sont
-constituées soit par l'ensemble du territoire, soit par une région ou un groupe
-de régions, soit par un secteur sanitaire ou un secteur psychiatrique défini à
-l'article L. 326, soit par un groupe de secteurs sanitaires ou de secteurs
-psychiatriques.
+Le directeur de l'agence régionale de l'hospitalisation tient à jour la liste
+des autorisations de l'ensemble des activités de soins et des équipements
+matériels lourds énumérés à l'article R. 712-28 ainsi que l'état des objectifs
+quantifiés fixés par les contrats pluriannuels d'objectifs et de moyens.

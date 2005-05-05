@@ -1,37 +1,65 @@
 Article R712-15
 ----
-La section sanitaire du Comité national de l'organisation sanitaire et sociale
-est consultée par le ministre chargé de la santé sur :
+Outre le président ou son suppléant, le comité régional de l'organisation
+sanitaire comprend :
 
-1° Les projets de carte sanitaire et de schéma d'organisation sanitaires à
-caractère national ou interrégional ;
+1° Un conseiller régional désigné sur proposition du conseil régional et, en
+Corse, un conseiller à l'Assemblée de Corse désigné sur proposition de cette
+assemblée ;
 
-2° Les indices nationaux de besoins ;
+2° Un conseiller général d'un département situé dans le ressort territorial du
+comité régional désigné sur proposition des associations représentatives au plan
+national des présidents de conseil général ;
 
-3° Les conditions techniques de fonctionnement prévues à l'article L. 712-9 (3°)
-et concernant les établissements, installations et activités mentionnés à
-l'article L. 712-8 ;
+3° Un maire d'une commune située dans le ressort territorial du comité régional
+désigné sur proposition des associations représentatives au plan national des
+maires ;
 
-4° Les demandes d'autorisation et de renouvellement d'autorisation relatives aux
-projets mentionnés à l'article L. 712-8, lorsque la décision relève de la
-compétence du ministre chargé de la santé ;
+4° Deux représentants de l'union régionale des caisses d'assurance maladie ou de
+la caisse générale de sécurité sociale ;
 
-5° (abrogé)
+5° Quatre représentants des organisations d'hospitalisation publique les plus
+représentatives au plan régional ;
 
-6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé, les
-décisions de suspension ou de retrait d'autorisation prévues aux articles L.
-712-17-1 et L. 712-18 ;
+6° Quatre représentants de l'hospitalisation privée désignés par les
+organisations les plus représentatives au plan régional, dont au moins un au
+titre des établissements privés participant au service public hospitalier et au
+moins un au titre des établissements de santé privés à but lucratif ;
 
-7° Les projets de contrats de concession pour l'exécution du service public
-hospitalier prévus à l'article L. 715-10 ainsi que les décisions mettant fin à
-ces contrats en application de l'article R. 715-10-12, dans le cas où
-l'approbation relève du ministre chargé de la santé ;
+7° Trois présidents de commission médicale d'établissement public de santé
+désignés sur proposition des conférences des présidents de commission médicale
+d'établissement public de santé ;
 
-8° Les recours hiérarchiques formés auprès du ministre en application des
-articles L. 712-5 et L. 712-16 ;
+8° Trois présidents de commission médicale ou de conférence médicale
+d'établissement de santé privé, dont un au moins au titre des établissements de
+santé privés à but non lucratif participant au service public hospitalier et un
+au moins au titre des établissements de santé privés ne participant pas au
+service public hospitalier, désignés sur proposition des conférences des
+présidents de commission médicale et de conférence médicale des établissements
+de santé privés ;
 
-9° Les demandes d'admission à participer au service public hospitalier ainsi que
-les décisions mettant fin d'office à cette participation en application de
-l'article R. 715-6-7, dans les cas où elles portent sur des disciplines,
-activités de soins et équipements matériels lourds pour lesquels l'autorisation
-relève du ministre chargé de la santé.
+9° Quatre représentants des syndicats médicaux les plus représentatifs au plan
+régional, dont deux au titre des syndicats de médecins hospitaliers publics ;
+
+10° Un médecin libéral exerçant en cabinet dans la région désigné sur
+proposition de l'union régionale des médecins libéraux ;
+
+11° Deux représentants des organisations syndicales des personnels non médicaux
+hospitaliers les plus représentatives au plan régional, dont un représentant des
+personnels hospitaliers publics et un représentant des personnels des
+établissements de santé privés ;
+
+12° Deux membres du comité régional de l'organisation sociale et médico-sociale
+prévu par l'article L. 312-3 du code de l'action sociale et des familles,
+n'appartenant pas aux catégories mentionnées au 1° et au 7° du II de cet article
+;
+
+13° Trois représentants des usagers des institutions et établissements de santé
+;
+
+14° Trois personnalités qualifiées dont une personne désignée sur proposition de
+la Fédération nationale de la mutualité française et un infirmier libéral
+exerçant dans la région.
+
+Le directeur de l'agence régionale de l'hospitalisation ou son représentant
+assiste aux séances et participe aux débats. Il ne prend pas part au vote.

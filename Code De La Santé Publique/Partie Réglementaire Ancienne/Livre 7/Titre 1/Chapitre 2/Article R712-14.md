@@ -1,9 +1,22 @@
 Article R712-14
 ----
-Le Comité national de l'organisation sanitaire et sociale comporte une section
-sanitaire et une section sociale.
+Le président du comité régional de l'organisation sanitaire est désigné, dans
+les conditions définies par le présent article, par le directeur de l'agence
+régionale de l'hospitalisation soit parmi les membres du corps des tribunaux
+administratifs et des cours administratives d'appel, soit parmi les membres du
+corps des conseillers des chambres régionales des comptes.
 
-Il siège en formation plénière, à la demande des ministres chargés de l'action
-sociale, de la santé et de la sécurité sociale ou de l'un d'entre eux, lorsque
-la nature des questions inscrites à l'ordre du jour rend souhaitable leur examen
-par l'ensemble du comité national. [*fonctionnement*].
+Le président issu de l'un de ces deux corps est suppléé par un membre de l'autre
+corps, désigné dans les mêmes conditions.
+
+Le président et son suppléant sont proposés dans les conditions suivantes :
+
+- pour le membre issu du corps des conseillers des tribunaux administratifs et
+des cours administratives d'appel, par le président du tribunal administratif
+dans le ressort duquel le comité a son siège et, le cas échéant, s'il s'agit
+d'un magistrat appartenant à la cour administrative d'appel, après accord
+préalable du président de cette juridiction ;
+
+- pour le membre issu du corps des conseillers des chambres régionales des
+comptes, par le président de la chambre régionale des comptes dans le ressort de
+laquelle le comité a son siège.

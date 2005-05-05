@@ -1,12 +1,5 @@
 Article R712-35
 ----
-Le Comité national et les comités régionaux de l'organisation sanitaire et
-sociale se prononcent sur dossier.
-
-Les promoteurs de projets sont entendus sur leur demande par le rapporteur du
-dossier. Ils peuvent également être entendus par la section compétente si le
-président le juge utile.
-
-Lorsque la nature du dossier le justifie, à la demande du promoteur ou de sa
-propre initiative, le président du comité peut décider de l'audition de toute
-personne qualifiée dans le domaine auquel correspond le projet présenté.
+Un arrêté du ministre chargé de la santé fixe la composition du dossier
+justificatif qui doit accompagner les demandes d'autorisations de regroupement
+et de conversion définis à l'article L. 6122-6.

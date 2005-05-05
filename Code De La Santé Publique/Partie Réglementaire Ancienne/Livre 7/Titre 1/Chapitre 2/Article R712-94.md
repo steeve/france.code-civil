@@ -1,8 +1,8 @@
 Article R712-94
 ----
-L'autorisation prévue par le 3° de l'article L. 6122-1 nécessaire à un
-établissement de santé pour exercer l'activité de soins de réanimation
-mentionnée au b du III de l'article R. 712-2 ne peut lui être accordée que :
+L'autorisation prévue par l'article L. 6122-1 nécessaire à un établissement de
+santé pour exercer l'activité de soins de réanimation mentionnée au 15 du I de
+l'article R. 712-28 ne peut lui être accordée que :
 
 a) S'il dispose en hospitalisation complète d'installations de médecine et de
 chirurgie ou d'installations de chirurgie. Toutefois, à titre dérogatoire,

@@ -1,9 +1,9 @@
 Article R712-63
 ----
-L'autorisation prévue par le 3° de l'article L. 712-8, nécessaire à un
-établissement de santé pour exercer l'activité de soins Accueil et traitement
-des urgences, mentionnée au 5 du III de l'article R. 712-2 peut être accordée
-pour faire fonctionner dans l'établissement :
+L'autorisation prévue à l'article L. 6122-1, nécessaire à un établissement de
+santé pour exercer l'activité de soins Accueil et traitement des urgences,
+mentionnée au 14 du I de l'article R. 712-28 peut être accordée pour faire
+fonctionner dans l'établissement :
 
 1° Soit un service d'accueil et de traitement des urgences, éventuellement
 spécialisé, soit une unité de proximité d'accueil, de traitement et

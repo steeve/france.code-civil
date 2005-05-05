@@ -18,10 +18,11 @@ les transmissions d'informations.
 
 Ces conventions sont établies et signées par les représentants des
 établissements après avis des organes représentatifs mentionnés aux articles L.
-714-16, L. 714-17, ou après avis de la commission médicale prévue à l'article L.
-715-8 ou avis de la conférence médicale prévue à l'article L. 715-12. Elles sont
-soumises à l'approbation du directeur de l'agence régionale de l'hospitalisation
-et n'entrent en vigueur qu'après cette approbation.
+6144-1, L. 6144-3, ou après avis de la commission médicale prévue au deuxième
+alinéa de l'article L. 6161-8 ou avis de la conférence médicale prévue à
+l'article L. 6161-2. Elles sont soumises à l'approbation du directeur de
+l'agence régionale de l'hospitalisation et n'entrent en vigueur qu'après cette
+approbation.
 
 III. - Le dossier de demande ou de renouvellement d'autorisation prévu à
 l'article R. 712-40 devra faire apparaître si l'établissement a adhéré à un

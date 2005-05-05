@@ -1,13 +1,19 @@
 Article R712-18
 ----
-Le Comité national de l'organisation sanitaire et sociale est présidé soit par
-un conseiller d'Etat désigné par les ministres chargés de l'action sociale, de
-la santé et de la sécurité sociale sur proposition du vice-président du Conseil
-d'Etat, soit par un conseiller maître à la Cour des comptes désigné par les
-mêmes ministres sur proposition du premier président de la Cour des comptes.
+Un suppléant de chaque membre du Comité national de l'organisation sanitaire et
+sociale et des comités régionaux de l'organisation sanitaire est désigné dans
+les mêmes conditions que le titulaire.
 
-Le président est suppléé par un conseiller d'Etat ou par un conseiller maître à
-la Cour des comptes, désigné dans les mêmes conditions.
-
-Le mandat du président et de son suppléant est de cinq ans [*durée*] Il est
+Le mandat des membres titulaires et suppléants est de cinq ans. Il est
 renouvelable.
+
+La qualité de membre titulaire ou suppléant des comités se perd lorsque les
+personnes intéressées cessent d'exercer le mandat ou les fonctions au titre
+desquels elles ont été élues ou désignées. Lorsqu'un membre cesse d'exercer ses
+fonctions avant l'expiration de son mandat, il est pourvu dans le délai d'un
+mois à son remplacement ; dans ce cas, le mandat du nouveau membre prend fin à
+la date à laquelle aurait cessé celui du membre qu'il a remplacé.
+
+En cas de suspension ou de dissolution du conseil d'administration d'un
+organisme de sécurité sociale, le mandat est continué jusqu'au jour de la
+nomination des membres proposés par le nouveau conseil.

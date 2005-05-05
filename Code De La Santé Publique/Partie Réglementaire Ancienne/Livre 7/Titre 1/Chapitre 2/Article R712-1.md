@@ -1,12 +1,10 @@
 Article R712-1
 ----
-La carte sanitaire instituée par l'article L. 712-1 détermine par zone sanitaire
-:
+Pour l'établissement du schéma d'organisation sanitaire, les données
+démographiques et leurs perspectives d'évolution sur les cinq années suivantes
+sont appréciées à partir des plus récentes estimations fondées sur le dernier
+recensement de la population.
 
-1° L'importance des moyens d'hospitalisation ou structures de soins de toute
-nature, avec ou sans hébergement, exprimés notamment en lits ou places,
-correspondant aux installations et activités de soins mentionnées aux I et III
-de l'article R. 712-2 ;
-
-2° L'importance des équipements matériels lourds mentionnés au II de l'article
-R. 712-2.
+L'annexe prévue à l'article L. 6121-2 est établie par territoire de santé. Elle
+tient compte des caractéristiques géographiques et des moyens de communication
+de ce territoire.

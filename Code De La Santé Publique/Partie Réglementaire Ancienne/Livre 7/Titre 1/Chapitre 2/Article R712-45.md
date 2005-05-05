@@ -1,16 +1,18 @@
 Article R712-45
 ----
-Dans le cas de cession d'autorisation, y compris lorsque cette cession résulte
-d'un regroupement, le cessionnaire adresse, selon le cas, au ministre chargé de
-la santé ou au directeur de l'agence régionale de l'hospitalisation une demande
-de confirmation de l'autorisation assortie d'un dossier dont la composition est
-fixée par arrêté du ministre chargé de la santé.
+Lorsque le directeur de l'agence régionale de l'hospitalisation décide de mettre
+en oeuvre les dispositions de l'article L. 6122-12, il recueille l'avis de la
+commission exécutive de l'agence avant de notifier le projet de révision de
+l'autorisation à son titulaire.
 
-Le ministre ou la commission exécutive de l'agence régionale de
-l'hospitalisation statue sur cette demande suivant les modalités prévues pour
-une demande d'autorisation. Ils ne peuvent refuser la confirmation de
-l'autorisation que si le dossier présenté par le cessionnaire fait apparaître
-des modifications qui seraient de nature à justifier un refus d'autorisation en
-application du I (1°, 2° et 3°) de l'article R. 712-42 ou qui seraient
-incompatibles avec le respect des conditions et engagements auxquels avait été
-subordonnée l'autorisation cédée.
+Le directeur recueille l'avis de la commission exécutive sur les réponses
+apportées par le titulaire de l'autorisation ainsi que sur les suites qu'elles
+peuvent recevoir.
+
+Le directeur tient la commission exécutive informée du déroulement de la
+procédure contradictoire prévue au troisième alinéa de l'article L. 6122-12.
+Avant la conclusion par le directeur de l'accord prévu par le même alinéa,
+celui-ci est soumis à la commission exécutive.
+
+Si l'accord n'est pas conclu au terme des six mois prévus par le dernier alinéa
+de l'article L. 6122-12, le directeur en informe la commission exécutive.

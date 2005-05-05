@@ -1,9 +1,13 @@
 Article R712-46
 ----
-Les décisions de suspension et de retrait d'autorisation prévues aux articles L.
-712-17-1 et L. 712-18 sont prises respectivement par la commission exécutive et
-par le directeur de l'agence régionale de l'hospitalisation. Toutefois, elles
-sont prises par le ministre chargé de la santé lorsqu'elles concernent une
-autorisation dont la délivrance relève de la compétence de ce ministre en vertu
-du deuxième alinéa de l'article L. 712-16 et du décret pris pour son
-application. Ces décisions doivent être motivées.
+Le recours hiérarchique prévu à l'article L. 6122-10-1 exercé soit contre la
+décision de la commission exécutive prononçant la modification ou le retrait
+d'une autorisation en application de l'article L. 6122-12, soit contre la
+décision du directeur de l'agence régionale de l'hospitalisation prononçant la
+suspension d'une autorisation, le maintien de la suspension, la modification ou
+le retrait définitif d'une autorisation en application de l'article L. 6122-13,
+est formé dans le délai et selon les modalités prévus à l'article R. 712-44.
+
+La décision est considérée comme confirmée par le ministre à l'expiration du
+délai de six mois courant du jour de la réception du recours si aucune décision
+expresse n'est intervenue dans ce délai.
