@@ -35,7 +35,7 @@ d'inscription d'un enfant soumis à l'obligation scolaire. Chaque enfant est
 inscrit soit dans la commune où ses parents ont une résidence, soit dans celle
 du domicile de la personne qui en a la garde, soit dans celle où est situé un
 établissement ou une section d'établissement destinés plus particulièrement aux
-enfants de Français de l'étranger.
+enfants de Français établis hors de France.
 
 La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de
 faire inscrire ses enfants dans une école de la commune de son lieu de résidence

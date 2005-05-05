@@ -2,8 +2,8 @@ Article L452-2
 ----
 L'agence a pour objet :
 
-1° D'assurer, en faveur des enfants de nationalité française résidant à
-l'étranger, les missions de service public relatives à l'éducation ;
+1° D'assurer, en faveur des enfants français établis hors de France, les
+missions de service public relatives à l'éducation ;
 
 2° De contribuer au renforcement des relations de coopération entre les systèmes
 éducatifs français et étrangers au bénéfice des élèves français et étrangers ;
