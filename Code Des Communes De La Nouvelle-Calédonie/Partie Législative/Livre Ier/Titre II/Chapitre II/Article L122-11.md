@@ -3,7 +3,8 @@ Article L122-11
 Le maire est seul chargé de l'administration ; mais il peut, sous sa
 surveillance et sa responsabilité, déléguer par arrêté une partie de ses
 fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas
-d'empêchement des adjoints, à des membres du conseil municipal.
+d'empêchement des adjoints ou dès lors que ceux-ci sont tous titulaires d'une
+délégation, à des membres du conseil municipal.
 
 Le membre du conseil municipal ayant démissionné de la fonction de maire, en
 application des articles LO 141 du code électoral, L. 122-4-1 du présent code et

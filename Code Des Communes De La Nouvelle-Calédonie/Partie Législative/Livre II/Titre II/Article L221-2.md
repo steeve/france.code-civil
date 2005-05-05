@@ -11,7 +11,8 @@ Nouvelle-Calédonie et, pour Nouméa et les communes chefs-lieux de subdivision
 administrative, les frais de conservation du Journal officiel ;
 
 3° Les indemnités de fonctions des magistrats municipaux et les cotisations des
-communes au régime de retraite des maires et adjoints ;
+communes au régime de retraite des maires et adjoints ainsi que les frais de
+formation mentionnés à l'article L. 121-38 ;
 
 4° La rémunération des agents communaux ;
 
@@ -20,7 +21,19 @@ rurale ;
 
 6° Les dépenses du personnel et de matériel relatives au service de secours et
 de défense contre l'incendie, ledit service étant organisé dans le cadre
-communal, intercommunal ou territorial ;
+communal, intercommunal ou territorial.
+
+Toutefois, sans préjudice des dispositions applicables aux activités
+réglementées, les communes peuvent exiger des intéressés ou de leurs ayants
+droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations
+de secours consécutives à la pratique de toute activité sportive ou de loisir.
+Elles déterminent les conditions dans lesquelles s'effectue cette participation,
+qui peut porter sur tout ou partie des dépenses.
+
+Les communes sont tenues d'informer le public des conditions d'application de
+l'alinéa précédent sur leur territoire, par un affichage approprié en mairie et,
+le cas échéant, dans tous les lieux où sont apposées les consignes relatives à
+la sécurité ;
 
 7° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement
 liquidées et approuvées ;

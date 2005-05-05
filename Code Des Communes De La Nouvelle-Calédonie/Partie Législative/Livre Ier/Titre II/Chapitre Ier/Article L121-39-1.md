@@ -1,8 +1,8 @@
 Article L121-39-1
 ----
 I. - Les actes pris par les autorités communales sont exécutoires de plein droit
-dès qu'il a été procédé à leur publication ou à leur notification aux
-intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son
+dès qu'il a été procédé à leur publication ou affichage ou à leur notification
+aux intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son
 représentant dans la province.
 
 Le maire certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
@@ -11,6 +11,9 @@ La preuve de la réception des actes par le haut-commissaire peut être apporté
 par tout moyen. L'accusé de réception, qui est immédiatement délivré, peut être
 utilisé à cet effet, mais n'est pas une condition du caractère exécutoire des
 actes.
+
+La publication ou l'affichage de ces actes peut également être organisée, à
+titre complémentaire mais non exclusif, sur support numérique.
 
 II. - Sont soumis aux dispositions du I les actes suivants :
 
@@ -45,7 +48,7 @@ ou d'un établissement public de coopération intercommunale.
 
 III. - Les actes pris au nom de la commune, autres que ceux qui sont mentionnés
 au II, sont exécutoires de plein droit dès qu'il a été procédé à leur
-publication ou à leur notification aux intéressés.
+publication ou affichage ou à leur notification aux intéressés.
 
 IV. - Les actes pris par les autorités communales au nom de l'Etat ainsi que les
 actes relevant du droit privé ne sont pas soumis aux dispositions du présent

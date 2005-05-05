@@ -1,15 +1,10 @@
 Article L121-38
 ----
-Les frais de formation de l'élu constituent une dépense obligatoire pour la
-commune.
+Indépendamment des autorisations d'absence et du crédit d'heures prévus aux
+articles L. 121-28, L. 121-30 et L. 121-31, les membres du conseil municipal qui
+ont la qualité de salarié ont droit à un congé de formation. Ce congé est fixé à
+dix-huit jours par élu pour la durée du mandat et quel que soit le nombre de
+mandats qu'il détient. Ce congé est renouvelable en cas de réélection.
 
-Les frais de déplacement, de séjour et, le cas échéant, d'enseignement donnent
-droit à remboursement.
-
-Les pertes de revenu de l'élu sont également supportées par la commune dans la
-limite de six jours par élu pour la durée d'un mandat et d'une fois et demie la
-valeur horaire du salaire minimum de croissance.
-
-Le montant des dépenses de formation ne peut excéder 20 % du total des crédits
-ouverts au titre des indemnités de fonction susceptibles d'être allouées aux
-élus de la commune.
+Les modalités d'application du présent article sont fixées par décret en Conseil
+d'Etat.
