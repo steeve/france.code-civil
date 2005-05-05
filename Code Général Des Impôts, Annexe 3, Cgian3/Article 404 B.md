@@ -29,3 +29,11 @@ pour le paiement des sommes dont il est débiteur envers ses cohéritiers.
 La cession totale ou partielle par le légataire le donataire ou l'attributaire
 du bien qui lui a été légué donné ou attribué entraîne l'exigibilité immédiate
 des droits en suspens.
+
+Le paiement des droits dus sur la part du conjoint survivant peut être différé
+jusqu'à l'expiration d'un délai de six mois à compter :
+
+- soit de la date de son décès ;
+
+- soit de la date de la donation ou cession, partielle ou totale, des biens
+transmis par succession.
