@@ -1,7 +1,7 @@
 Article 102 K
 ----
-I. - A moins que, en vue de faire face aux risques afférents à leurs opérations
-de crédit à court terme, elles n'aient constitué au 31 décembre 1978 pour un
+I.-A moins que, en vue de faire face aux risques afférents à leurs opérations de
+crédit à court terme, elles n'aient constitué au 31 décembre 1978 pour un
 montant total supérieur à 1,50 % de l'encours de ces crédits, des provisions
 individualisées répondant aux conditions du premier alinéa du 5° du 1 de
 l'article 39 du code général des impôts, les caisses de crédit agricole sont
@@ -35,7 +35,7 @@ somme dont aurait été majorée la provision forfaitaire figurant au bilan du 1
 janvier 1979 si le taux effectif de couverture constaté au 31 décembre 1983
 avait été substitué au taux de 1,50 %.
 
-IV. En ce qui concerne la caisse nationale de crédit agricole, les crédits à
-court terme portant sur des effets publics ou garantis par l'Etat, ou consentis
-à des caisses de crédit agricole mutuel, sont exclus de la base de calcul de la
+IV. En ce qui concerne l'organe central du Crédit agricole, les crédits à court
+terme portant sur des effets publics ou garantis par l'Etat, ou consentis à des
+caisses de crédit agricole mutuel, sont exclus de la base de calcul de la
 provision forfaitaire provisoire.
