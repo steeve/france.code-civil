@@ -6,7 +6,9 @@ chèque, répondant aux caractéristiques de barrement d'avance et de
 non-transmissibilité par voie d'endossement, mentionné à l'article L. 96 du
 livre des procédures fiscales, soit par tout autre moyen inscrivant le montant
 réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise
-d'investissement ou une institution mentionnée à l'article L. 518-1.
+d'investissement ou une institution mentionnée à l'article L. 518-1. Toutefois,
+les dispositions du présent alinéa ne font pas obstacle au paiement d'un
+acompte, réglé par tout moyen, dans la limite de 460 euros.
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en
 France peuvent continuer d'effectuer le règlement de tout bien ou service d'un

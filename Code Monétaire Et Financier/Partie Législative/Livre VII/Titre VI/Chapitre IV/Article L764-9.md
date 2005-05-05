@@ -1,4 +1,3 @@
 Article L764-9
 ----
-Les articles L. 432-20 et L. 432-21 sont applicables dans le territoire des îles
-Wallis-et-Futuna.
+L'article L. 432-20 est applicable dans les îles Wallis et Futuna.

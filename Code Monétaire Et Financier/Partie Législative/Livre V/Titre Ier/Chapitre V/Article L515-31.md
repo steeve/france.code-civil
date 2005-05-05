@@ -6,10 +6,11 @@ la déclaration prévue à l'article L. 621-43 du code de commerce au nom et pou
 le compte des titulaires des créances bénéficiant du privilège défini à
 l'article L. 515-19.
 
-Les dispositions des articles L. 225-221, L. 225-224 à L. 225-226, L. 225-233,
-L. 225-236, L. 225-239, L. 225-242 et L. 242-25 à L. 242-28 du code de commerce
-et de l'article L. 613-9 sont applicables au contrôleur. La commission bancaire
-peut exercer l'action prévue à l'article L. 225-233 du code de commerce.
+Les dispositions des articles L. 225-233, L. 225-236, L. 225-239, L. 225-242, L.
+820-4 à L. 820-7, L. 822-6, L. 822-7 et L. 822-10 à L. 822-13 du code de
+commerce et l'article L. 613-9 du présent code sont applicables au contrôleur.
+La commission bancaire peut exercer l'action prévue à l'article L. 225-233 du
+code de commerce.
 
 Par dérogation aux dispositions du dernier alinéa de l'article L. 225-236 du
 code de commerce, le droit d'information du contrôleur peut s'étendre à la

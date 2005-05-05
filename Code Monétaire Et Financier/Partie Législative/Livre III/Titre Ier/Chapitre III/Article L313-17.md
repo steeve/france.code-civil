@@ -1,7 +1,7 @@
 Article L313-17
 ----
 Sans préjudice des articles L. 313-1 à L. 313-6 du code de la consommation,
-l'intérêt fixe du prêt participatif peut-être majoré dans les conditions qui
+l'intérêt fixe du prêt participatif peut être majoré dans les conditions qui
 sont déterminées par le contrat, notamment par le jeu d'une clause de
 participation au bénéfice net de l'emprunteur.
 

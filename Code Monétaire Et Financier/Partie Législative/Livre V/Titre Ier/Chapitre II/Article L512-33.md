@@ -12,4 +12,4 @@ si elles ont des garanties suffisantes, consentir directement ces divers prêts,
 notamment les prêts à court terme pour le financement des récoltes ;
 
 2. Transmettre aux collectivités bénéficiaires les prêts à long terme qui
-peuvent leur être consentis par la caisse nationale de crédit agricole.
+peuvent leur être consentis par l'organe central du crédit agricole.

@@ -14,12 +14,12 @@ dividende aux actionnaires ou d'une rémunération des parts sociales aux
 sociétaires des établissements de crédit ou des entreprises d'investissement qui
 leur sont affiliés.
 
-Les titres visés au dernier alinéa de l'article 19 duodecies de la loi n°
+Les titres visés au dernier alinéa de l'article 19 tervicies de la loi n°
 47-1775 du 10 septembre 1947 portant statut de la coopération, détenus
 directement ou indirectement par un organe central au sens de l'article L.
 511-30, ne sont pas pris en compte pour le calcul de la limitation à 50 % du
 capital des établissements de crédit qui leur sont affiliés, visée à l'article
-19 duodecies précité.
+19 tervicies précité.
 
 Ils veillent à l'application des dispositions législatives et réglementaires
 propres à ces établissements et exercent un contrôle administratif, technique et

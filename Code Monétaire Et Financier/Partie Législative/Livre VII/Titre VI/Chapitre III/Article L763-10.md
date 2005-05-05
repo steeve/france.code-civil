@@ -14,7 +14,7 @@ des titres qu'elles émettent ainsi que les établissements et entreprises
 habilités à intervenir sur le territoire français" sont supprimés ; le 2° de cet
 article est supprimé ;
 
-c) Au 4° de l'article L. 340-10, les mots : "proposés dans le cadre d'un
+c) Au 4° de l'article L. 341-10, les mots : "proposés dans le cadre d'un
 dispositif relevant du titre IV du livre IV du code du travail" sont supprimés.
 
 II. - Les articles L. 353-1 à L. 353-4 sont également applicables dans les îles

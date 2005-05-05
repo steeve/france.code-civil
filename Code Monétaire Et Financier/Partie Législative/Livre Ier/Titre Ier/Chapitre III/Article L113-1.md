@@ -1,20 +1,12 @@
 Article L113-1
 ----
-Pour les instruments financiers et les opérations sur ces instruments, la
-contre-valeur en unité euro d'une valeur en unité franc est exprimée à la
-cinquième décimale inférieure si la sixième décimale est comprise entre zéro et
-quatre inclus et à la cinquième décimale supérieure si la sixième décimale est
-comprise entre cinq et neuf inclus.
+La modification, du fait de l'introduction de l'euro, de la composition ou de la
+définition d'un taux variable ou d'un indice auquel il est fait référence dans
+une convention est sans effet sur l'application de cette convention.
 
-Un instrument financier qui est admis aux négociations sur un marché géré par
-une entreprise de marché peut être coté par cette entreprise en unité euro ou en
-pourcentage de la contre-valeur en unité euro de son montant nominal en unité
-franc.
+Lorsque ce taux variable ou cet indice disparaît du fait de l'introduction de
+l'euro, le ministre chargé de l'économie peut désigner, par arrêté, le taux
+variable ou l'indice qui s'y substitue.
 
-Un instrument financier qui n'est pas admis aux négociations sur un marché géré
-par une entreprise de marché peut être valorisé dans les comptes où il est
-inscrit à la contre-valeur en unité euro de sa valorisation en unité franc.
-
-Les opérations sur instruments financiers peuvent être faites en utilisant la
-contre-valeur en unité euro de la valorisation en unité franc de leurs éléments.
-Un décret précise ces opérations et leurs modalités de réalisation.
+Toutefois, les parties à la convention peuvent déroger, d'un commun accord, à
+l'application du taux ou de l'indice ainsi désigné.

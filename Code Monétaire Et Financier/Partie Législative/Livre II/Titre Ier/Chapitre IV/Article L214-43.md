@@ -1,8 +1,8 @@
 Article L214-43
 ----
-Le fonds commun de créances est une copropriété qui a pour objet exclusif
-d'acquérir des créances et d'émettre des parts représentatives de ces créances.
-Il peut émettre des titres de créances.
+Le fonds commun de créances est une copropriété qui a pour objet d'acquérir des
+créances et d'émettre des parts représentatives de ces créances. Il peut émettre
+des titres de créances.
 
 Le fonds peut comporter deux ou plusieurs compartiments si son règlement le
 prévoit. Chaque compartiment donne lieu à l'émission de parts représentatives

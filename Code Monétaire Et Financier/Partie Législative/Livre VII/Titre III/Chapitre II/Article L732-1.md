@@ -1,6 +1,6 @@
 Article L732-1
 ----
-Les articles L. 211-1 à L. 211-5 sont applicables à Mayotte. Les dispositions de
+Les articles L. 211-1 à L. 211-6 sont applicables à Mayotte. Les dispositions de
 l'article L. 211-4 sont remplacées par les dispositions suivantes :
 
 " Art. L. 211-4. - Les titres des sociétés par actions, autres que les SICAV,

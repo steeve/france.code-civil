@@ -11,7 +11,7 @@ terme, à une prime financière ou en nature de produits, biens ou services dont
 la valeur serait supérieure à un seuil fixé, en fonction du type de produit ou
 de service offert à la clientèle, par un règlement pris par arrêté du ministre
 chargé de l'économie, pris après avis du comité consultatif institué à l'article
-L. 614-6.
+L. 614-1.
 
 II. - Des agents de la Banque de France commissionnés par le ministre chargé de
 l'économie et des fonctionnaires habilités à relever les infractions aux

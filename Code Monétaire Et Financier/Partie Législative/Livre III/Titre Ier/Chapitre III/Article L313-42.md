@@ -13,10 +13,11 @@ entreprise d'assurance n'entrant pas dans le périmètre de consolidation défin
 l'article L. 233-16 du code de commerce dont relève l'établissement de crédit
 émetteur du billet à ordre.
 
-Sont assimilées aux créances mentionnées ci-dessus les parts de fonds communs de
-créances, dès lors que l'actif de ces fonds est composé, à hauteur de 90 % au
-moins, de créances de même nature, à l'exclusion des parts spécifiques
-supportant le risque de défaillance des débiteurs de créances.
+Sont assimilées aux créances mentionnées ci-dessus les parts ou titres de
+créances émis par des fonds communs de créances, dès lors que l'actif de ces
+fonds est composé, à hauteur de 90 % au moins, de créances de même nature, à
+l'exclusion des parts spécifiques ou titres de créances supportant le risque de
+défaillance des débiteurs des créances.
 
 Les créances mobilisées par des billets à ordre doivent respecter, à compter du
 1er janvier 2002, les conditions prévues au I de l'article L. 515-14 selon des

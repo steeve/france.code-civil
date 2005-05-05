@@ -1,6 +1,6 @@
 Article L765-9
 ----
-Le chapitre Ier du titre 3 du livre V est applicable dans le territoire des îles
+Le chapitre Ier du titre 3 du livre V est applicable dans les îles
 Wallis-et-Futuna à l'exception de l'article L. 531-3.
 
 A l'article L. 531-2 les mots " mais sans pouvoir prétendre au bénéfice des

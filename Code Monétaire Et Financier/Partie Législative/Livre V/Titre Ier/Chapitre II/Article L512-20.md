@@ -1,7 +1,7 @@
 Article L512-20
 ----
 Les caisses de crédit agricole régies par la présente section sont les caisses
-de crédit agricole mutuel et la Caisse nationale de crédit agricole.
+de crédit agricole mutuel et l'organe central du crédit agricole.
 
 Les caisses de crédit agricole mutuel comprennent :
 

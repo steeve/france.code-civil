@@ -12,8 +12,8 @@ immédiat de billets ou monnaies libellés en devises différentes. En outre, le
 changeurs manuels peuvent accepter en échange des espèces qu'ils délivrent aux
 clients un règlement par un autre moyen de paiement, sous réserve que celui-ci
 soit libellé dans une devise différente. Par dérogation à l'interdiction édictée
-à l'article L. 511-5, ils peuvent également remettre des francs en espèces en
-contrepartie de chèques de voyage libellés en francs.
+à l'article L. 511-5, ils peuvent également remettre des euros en espèces en
+contrepartie de chèques de voyage libellés en euros.
 
 L'exercice de la profession de changeur manuel, ou de fonctions de dirigeant de
 droit ou de fait dans une personne morale exerçant cette profession, est

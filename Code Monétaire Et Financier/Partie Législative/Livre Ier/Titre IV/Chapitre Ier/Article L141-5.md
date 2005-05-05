@@ -6,8 +6,7 @@ d'autorisation d'émission de billets de banque dans la Communauté, la Banque d
 France est seule habilitée, sur le territoire de la France métropolitaine et des
 départements d'outre-mer, à émettre les billets ayant cours légal.
 
-Elle exerce cette compétence à Mayotte, dans la collectivité territoriale de
-Saint-Pierre-et-Miquelon.
+Elle exerce cette compétence à Mayotte, à Saint-Pierre-et-Miquelon.
 
 La Banque de France doit verser à l'Etat le solde non présenté à ses guichets de
 types de billets libellés en francs retirés de la circulation.

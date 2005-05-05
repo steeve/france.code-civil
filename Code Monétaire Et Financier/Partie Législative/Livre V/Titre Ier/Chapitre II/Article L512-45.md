@@ -5,4 +5,4 @@ crédit agricole mutuel doivent être transmis immédiatement à ladite caisse
 régionale qui en assure la gestion.
 
 Lorsqu'une caisse régionale a un excédent de dépôt, cet excédent doit être
-déposé à la Caisse nationale de crédit agricole.
+déposé à l'organe central du crédit agricole.

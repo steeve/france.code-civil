@@ -20,8 +20,7 @@ de l'économie peut, dans l'intérêt du bon fonctionnement d'un marché réglem
 et sans préjudice des dispositions de l'article L. 233-14 du code de commerce,
 demander au juge de suspendre, jusqu'à régularisation de la situation,
 l'exercice des droits de vote attachés aux actions de l'entreprise de marché
-détenues directement ou indirectement. Sur proposition du Conseil des marchés
-financiers et après avis de la Commission des opérations de bourse (1) et de la
-Banque de France, le ministre peut également procéder à une révision de la
-reconnaissance du marché réglementé ou à son retrait, dans les conditions
-prévues à l'article L. 421-1.
+détenues directement ou indirectement. Sur proposition de l'Autortié des marchés
+financiers et après avis de la Banque de France, le ministre peut également
+procéder à une révision de la reconnaissance du marché réglementé ou à son
+retrait, dans les conditions prévues à l'article L. 421-1.

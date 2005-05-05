@@ -15,9 +15,8 @@ sanctions prévues à l'article L. 613-21.
 dépôts et consignations et les services financiers de La Poste. Le résultat des
 investigations de l'inspection générale des finances est porté à la
 connaissance, selon le cas, de la commission de surveillance de la caisse des
-dépôts et consignations ou de la commission supérieure prévue à l'article 35 de
-la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public
-de la poste et des télécommunications.
+dépôts et consignations ou de la commission supérieure prévue à l'article L. 125
+du code des postes et des communications électroniques.
 
 3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de
 sanction sur les organismes de placement collectif en valeurs mobilières

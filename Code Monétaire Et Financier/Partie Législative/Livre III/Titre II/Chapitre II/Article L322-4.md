@@ -10,6 +10,5 @@ L'arrêté du ministre chargé de l'économie mentionné à l'article L. 322-3
 détermine les conditions et les modalités de nomination de ces deux
 représentants ainsi que la durée de leur mandat.
 
-Les deux représentants mentionnés à l'alinéa précédent doivent remplir les
-conditions énoncées à l'article 22 de la loi n° 96-597 du 2 juillet 1996 de
-modernisation des activités financières.
+Les deux représentants mentionnés à l'alinéa précédent sont soumis aux
+incapacités énoncées à l'article L. 500-1.

@@ -16,14 +16,14 @@ peuvent excéder, pour chaque caisse d'épargne et de prévoyance, le montant to
 de l'intérêt servi aux parts sociales et des distributions effectuées
 conformément aux articles 11 bis, 18 et 19 vicies de la loi n° 47-1775 du 10
 septembre 1947 susmentionnée, ni être inférieures au tiers des sommes
-disponibles après la mise en service.
+disponibles après la mise en réserve.
 
 La rémunération des titres visés aux titres II quater et II quinquies de la loi
 n° 47-1775 du 10 septembre 1947 précitée n'est pas retenue pour le calcul du
-montant total maximum des sommes affectées au financement des projets d'économie
-locale et sociale visé à l'alinéa précédent lorsque ces titres sont détenus
-directement ou indirectement par la Caisse nationale des caisses d'épargne et de
-prévoyance ou par une caisse d'épargne ou de prévoyance.
+montant total des sommes affectées au financement des projets d'économie locale
+et sociale visé à l'alinéa précédent lorsque ces titres sont détenus directement
+ou indirectement par la Caisse nationale des caisses d'épargne et de prévoyance
+ou par une caisse d'épargne ou de prévoyance.
 
 Les missions définies à l'article L. 512-85 ainsi que les projets d'économie
 locale et sociale doivent présenter à la fois un intérêt en termes de

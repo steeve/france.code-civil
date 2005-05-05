@@ -8,8 +8,8 @@ demande émanant d'une autorité d'un autre Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen.
 
-L'obligation de secret professionnel prévue à l'article L. 621-11 ne fait pas
-obstacle à la communication par l'Autorité des marchés financiers, par
+L'obligation de secret professionnel prévue au II de l'article L. 621-4 ne fait
+pas obstacle à la communication par l'Autorité des marchés financiers, par
 dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la
 communication de documents et renseignements d'ordre économique, commercial,
 industriel, financier ou technique à des personnes physiques ou morales

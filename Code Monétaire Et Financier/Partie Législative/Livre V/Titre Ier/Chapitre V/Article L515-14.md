@@ -31,9 +31,9 @@ par décret en Conseil d'Etat, par les ressources non privilégiées mentionnée
 II de l'article L. 515-13.
 
 III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné doit
-être situé dans l'Espace économique européen, dans les territoires d'outre-mer
-de la République, en Suisse, aux Etats- Unis d'Amérique, au Canada ou au Japon.
-Sa valeur est déterminée de manière prudente et exclut tout élément d'ordre
-spéculatif. Les modalités d'évaluation sont fixées par un arrêté du ministre
-chargé de l'économie, qui prévoit notamment dans quels cas il doit être recouru
-à une expertise.
+être situé dans l'Espace économique européen, dans les collectivités d'outre-mer
+régies par l'article 74 de la Constitution, en Nouvelle-Calédonie, en Suisse,
+aux Etats- Unis d'Amérique, au Canada ou au Japon. Sa valeur est déterminée de
+manière prudente et exclut tout élément d'ordre spéculatif. Les modalités
+d'évaluation sont fixées par un arrêté du ministre chargé de l'économie, qui
+prévoit notamment dans quels cas il doit être recouru à une expertise.

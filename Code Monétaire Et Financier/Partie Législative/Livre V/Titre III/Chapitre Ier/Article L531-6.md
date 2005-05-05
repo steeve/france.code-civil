@@ -1,7 +1,7 @@
 Article L531-6
 ----
 Toute modification dans la structure du capital d'une entreprise
-d'investissement doit être effectuée dans des conditions définies par l'arrêté
+d'investissement doit être effectuée dans des conditions définies par un arrêté
 du ministre chargé de l'économie. Elle doit être notifiée au comité des
 établissements de crédit et des entreprises d'investissement et à l'Autorité des
 marchés financiers. Le cas échéant, elle doit être autorisée par le comité des
