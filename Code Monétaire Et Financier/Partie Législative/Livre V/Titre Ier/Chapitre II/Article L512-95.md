@@ -1,7 +1,9 @@
 Article L512-95
 ----
 I. - La Caisse nationale des caisses d'épargne et de prévoyance est l'organe
-central du réseau des caisses d'épargne. Elle est chargée ;
+central du réseau des caisses d'épargne. Elle propose à l'agrément du comité des
+établissements de crédit et des entreprises d'investissement la création des
+caisses d'épargne et de prévoyance. Elle est de plus chargée :
 
 1. De représenter le réseau des caisses d'épargne, y compris en qualité
 d'employeur, pour faire valoir ses droits et intérêts communs ;

@@ -21,12 +21,10 @@ terrain appartenant audit locataire.
 
 En cas d'opération de crédit-bail sur le droit au renouvellement d'un bail, ce
 droit ne peut être invoqué que par le crédit-bailleur, par dérogation aux
-dispositions de l'article 4 du décret n° 53-960 du 30 septembre 1953 réglant les
-rapports entre bailleurs et locataires en ce qui concerne le renouvellement des
-baux à loyer d'immeubles ou de locaux à usage commercial, industriel ou
-artisanal. Les autres droits et obligations que le locataire tient des
-dispositions du décret précité sont répartis par contrat entre le propriétaire,
-le crédit-bailleur et le crédit-preneur.
+dispositions de l'article L. 145-8 du code de commerce. Les autres droits et
+obligations que le locataire tient des dispositions du décret précité sont
+répartis par contrat entre le propriétaire, le crédit-bailleur et le
+crédit-preneur.
 
 3. Les opérations de location de fonds de commerce, d'établissement artisanal ou
 de l'un de leurs éléments incorporels, assorties d'une promesse unilatérale de

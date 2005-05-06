@@ -16,6 +16,5 @@ sollicité et aux obligations légales, contractuelles et comptables qu'implique
 les objectifs poursuivis ;
 
 4. Le ou les dirigeants de l'entreprise ne doivent pas avoir fait l'objet d'une
-condamnation pour l'une des infractions mentionnées à l'article 1er de la loi n°
-47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales
-et industrielles.
+condamnation pour l'une des infractions mentionnées au chapitre VIII du titre II
+du livre Ier du code de commerce.

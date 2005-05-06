@@ -28,7 +28,7 @@ mère ayant son siège social en France ;
 7. La publicité des informations destinées aux autorités compétentes ;
 
 8. Les instruments et les règles du crédit, sous réserve des missions confiées
-au Système européen de banques centrales par l'article 106, paragraphe 2, du
+au Système européen de banques centrales par l'article 105, paragraphe 2, du
 traité instituant la Communauté européenne ;
 
 9. Les règles relatives à la protection des déposants mentionnées à l'article L.

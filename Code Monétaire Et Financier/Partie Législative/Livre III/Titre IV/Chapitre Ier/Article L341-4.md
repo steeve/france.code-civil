@@ -14,8 +14,8 @@ deux ans. Il peut être renouvelé.
 
 Une même personne physique ou morale peut recevoir des mandats émanant de
 plusieurs entreprises, institutions ou établissements mentionnés au 1° de
-l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants
-ainsi détenus.
+l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants des
+mandats ainsi détenus.
 
 III. - Les personnes morales mentionnées à l'article L. 341-3 et celles
 mandatées en application du I du présent article sont civilement responsables du

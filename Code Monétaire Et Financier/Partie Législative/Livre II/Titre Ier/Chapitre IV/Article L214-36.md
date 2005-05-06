@@ -54,8 +54,8 @@ du fonds.
 6. Un décret en Conseil d'Etat fixe les modalités d'application du quota prévu
 au 5 dans le cas où le fonds procède à des appels complémentaires de capitaux ou
 à des souscriptions nouvelles. Il fixe également les règles d'appréciation du
-quota ainsi que les règles spécifiques relatives aux cessions et aux limites de
-la détention des actifs.
+quota ainsi que les règles spécifiques relatives aux conditions d'acquisition et
+de cession ainsi qu'aux limites de la détention des actifs.
 
 7. Les porteurs de parts ne peuvent demander le rachat de celles-ci avant
 l'expiration d'une période qui ne peut excéder dix ans. Au terme de ce délai,

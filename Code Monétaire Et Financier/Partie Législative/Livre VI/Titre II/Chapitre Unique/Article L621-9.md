@@ -19,9 +19,7 @@ leur compte :
 activité en libre établissement en France ;
 
 2° Les personnes autorisées à exercer l'activité de conservation ou
-d'administration d'instruments financiers mentionnées à l'article L. 542-1, y
-compris les dépositaires d'organismes de placement collectif en valeurs
-mobilières ;
+d'administration d'instruments financiers mentionnées à l'article L. 542-1 ;
 
 3° Les dépositaires centraux et les gestionnaires de système de règlement et de
 livraison d'instruments financiers ;
@@ -42,7 +40,9 @@ livraison d'instruments financiers ;
 10° Les conseillers en investissements financiers ;
 
 11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et
-diffusant des analyses financières.
+diffusant des analyses financières ;
+
+12° Les dépositaires d'organismes de placement collectif.
 
 Pour les personnes ou entités autres que celles fournissant des services
 mentionnés au 4 de l'article L. 321-1 ou que les personnes ou entités

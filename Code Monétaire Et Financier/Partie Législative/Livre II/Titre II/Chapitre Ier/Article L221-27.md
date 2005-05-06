@@ -5,4 +5,9 @@ organismes autorisés à recevoir des dépôts. Les sommes déposées sur ce com
 servent au financement des petites et moyennes entreprises.
 
 Les modalités d'ouverture et de fonctionnement du compte pour le développement
-industriel sont fixées par l'article 157 9° quater du code général des impôts.
+industriel sont fixées par le 9° quater de l'article 157 du code général des
+impôts et par décret.
+
+Les opérations relatives aux comptes pour le développement industriel sont
+soumises au contrôle sur pièces et sur place de l'inspection générale des
+finances.

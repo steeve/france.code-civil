@@ -27,4 +27,4 @@ Les arrêtés du ministre chargé de l'économie pris en application des article
 réglementation comptable peuvent, sous réserve des adaptations nécessaires et
 dans des conditions fixées par décret en Conseil d'Etat, être étendus aux
 services financiers de La Poste, à la caisse des dépôts et consignations et aux
-comptables du Trésor assurant un service de dépôts de fonds de particuliers.
+comptables du Trésor.

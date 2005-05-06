@@ -17,9 +17,8 @@ prononcer l'agrément et après avis des commissions mentionnées audit article 
 2° Ne pas participer directement ou indirectement, d'une façon habituelle ou
 occasionnelle, à une activité concurrente de celle de la coopérative ;
 
-3° N'avoir subi aucune des condamnations mentionnées à l'article 6 du décret du
-8 août 1935 instituant l'interdiction et la déchéance du droit de gérer et
-d'administrer une société.
+3° N'avoir subi aucune des condamnations mentionnées au chapitre VIII du titre
+II du livre Ier du code de commerce.
 
 Ces conditions sont applicables aux personnes physiques désignées par les
 coopératives pour les représenter au conseil d'administration d'une union.

@@ -1,8 +1,8 @@
 Article L214-39
 ----
 Le règlement du fonds constitué en vue de gérer les sommes investies en
-application de l'article L. 225-187 du code de commerce et du titre IV du livre
-IV du code du travail relatif à l'intéressement et à la participation des
+application de l'article L. 225-187 du code de commerce (1) et du titre IV du
+livre IV du code du travail relatif à l'intéressement et à la participation des
 salariés prévoit l'institution d'un conseil de surveillance et les cas où la
 société de gestion doit recueillir l'avis de ce conseil.
 
@@ -54,8 +54,8 @@ Le règlement peut prévoir que :
 
 Le fonds ne peut être dissous que si sa dissolution n'entraîne pas la perte des
 avantages accordés aux salariés dans les conditions prévues à l'article L.
-225-194 du code de commerce et des articles L. 442-7, L. 442-8 et L. 443-6 du
-code du travail.
+225-194 du code de commerce (1) et des articles L. 442-7, L. 442-8 et L. 443-6
+du code du travail.
 
 Les dispositions du présent article sont applicables aux fonds dont l'actif
 comprend au plus un tiers de titres émis par l'entreprise ou par toute autre
@@ -66,7 +66,7 @@ Le règlement précise, le cas échéant, les considérations sociales,
 environnementales ou éthiques que doit respecter la société de gestion dans
 l'achat ou la vente des titres, ainsi que dans l'exercice des droits qui leur
 sont attachés. Le rapport annuel du fonds rend compte de leur application, dans
-des conditions définies par la Commission des opérations de bourse.
+des conditions définies par l'Autorité des marchés financiers.
 
 Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10
 septembre 1947 portant statut de la coopération, le fonds commun de placement

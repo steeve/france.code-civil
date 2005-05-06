@@ -1,6 +1,7 @@
 Article L311-2
 ----
-Les opérations connexes aux opérations de banque sont :
+Les établissements de crédit peuvent aussi effectuer les opérations connexes à
+leur activité telles que :
 
 1. Les opérations de change ;
 

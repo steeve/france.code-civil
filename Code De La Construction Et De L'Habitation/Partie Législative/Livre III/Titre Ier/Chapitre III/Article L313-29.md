@@ -22,15 +22,14 @@ ou par la loi n° 60-580 du 21 juin 1960 interdisant certaines pratiques en
 matière de transaction portant sur des immeubles et des fonds de commerce
 lorsque la condamnation comporte fermeture définitive de l'établissement;
 
-3° Les personnes empêchées d'exercer un commerce en vertu de la loi n° 47-1635
-du 30 août 1947 relative à l'assainissement des professions industrielles ou
-commerciales, ainsi que les personnes condamnées en application, soit du décret
-du 14 juin 1938 sur les entreprises d'assurances, repris par le code des
-assurances, livre III, titre II, chapitre VIII, et livre V, titre Ier, chapitre
-IV, section IV, soit des lois des 13 et 14 juin 1941 relatives à la
-réglementation et à l'organisation de la profession bancaire et des professions
-qui s'y rattachent, soit de la loi n° 52-332 du 24 mars 1952 relative aux
-entreprises de crédit différé, soit de l'article L. 241-6 ;
+3° Les personnes empêchées d'exercer un commerce en vertu du chapitre VIII du
+titre II du livre Ier du code de commerce, ainsi que les personnes condamnées en
+application, soit du décret du 14 juin 1938 sur les entreprises d'assurances,
+repris par le code des assurances, livre III, titre II, chapitre VIII, et livre
+V, titre Ier, chapitre IV, section IV, soit des lois des 13 et 14 juin 1941
+relatives à la réglementation et à l'organisation de la profession bancaire et
+des professions qui s'y rattachent, soit de la loi n° 52-332 du 24 mars 1952
+relative aux entreprises de crédit différé, soit de l'article L. 241-6 ;
 
 4° Les faillis non réhabilités ;
 

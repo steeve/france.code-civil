@@ -19,7 +19,7 @@ fournir des services bancaires sur le territoire de la République française.
 Lorsqu'un établissement mentionné aux articles L. 511-22 et L. 511-23 fait
 l'objet d'un retrait d'agrément ou d'une mesure de liquidation ou, s'agissant
 d'un établissement financier, lorsqu'il ne remplit plus les conditions requises
-au sens de l'article L. 511-22, la commission bancaire prend les mesures
+au sens de l'article L. 511-23, la commission bancaire prend les mesures
 nécessaires pour l'empêcher de commencer de nouvelles opérations sur le
 territoire de la République française et pour assurer la protection des intérêts
 des déposants.

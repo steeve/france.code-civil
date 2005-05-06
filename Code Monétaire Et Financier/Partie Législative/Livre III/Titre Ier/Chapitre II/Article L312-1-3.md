@@ -16,7 +16,7 @@ visée à l'article L. 312-1-1, ainsi que sur les relevés de compte.
 
 Le compte rendu annuel d'activité établi par chaque médiateur est transmis au
 gouverneur de la Banque de France et au président du comité consultatif institué
-à l'article L. 614-6.
+à l'article L. 614-1.
 
 II. - Il est institué un comité de la médiation bancaire chargé d'examiner les
 rapports des médiateurs et d'établir chaque année un bilan de la médiation

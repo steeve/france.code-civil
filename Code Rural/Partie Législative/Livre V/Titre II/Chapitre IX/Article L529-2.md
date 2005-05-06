@@ -13,9 +13,8 @@ ministre de l'agriculture ;
 occasionnelle, à une activité concurrente de celle de la société qu'il
 administre ;
 
-3° Qui a fait l'objet d'une des condamnations mentionnés à l'article 6 du décret
-du 8 août 1935 instituant l'interdiction et la déchéance du droit de gérer et
-d'administrer une société.
+3° Qui a fait l'objet d'une des condamnations mentionnés au chapitre VIII du
+titre II du livre Ier du code de commerce.
 
 Les dispositions qui précédent sont applicables aux membres des conseils de
 surveillance des sociétés coopératives agricoles ou de leurs unions.

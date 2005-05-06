@@ -10,8 +10,3 @@ le surplus, versées au fonds national de solidarité et d'action mutualiste.
 A l'égard des versements faits sous la condition stipulée par le donateur ou le
 testateur que le titulaire n'en pourra disposer qu'après une date déterminée, le
 délai de trente ans ne court qu'à partir de cette date.
-
-Les inscriptions de rente achetées pour le compte du titulaire et non retirées
-sont consignées à la Caisse des dépôts et consignations. Du jour de la
-consignation et jusqu'à la réclamation des déposants, le service des arrérages
-de la rente est suspendu.

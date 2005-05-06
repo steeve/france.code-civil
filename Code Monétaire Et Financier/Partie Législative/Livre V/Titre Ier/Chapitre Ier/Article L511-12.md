@@ -1,7 +1,7 @@
 Article L511-12
 ----
 Lorsqu'une entreprise relevant du droit d'un Etat qui n'est pas membre de la
-Communauté européenne demande, en application du 1 de l'article L. 611-2, à
+Communauté européenne demande, en application du 1 de l'article L. 611-1, à
 prendre dans un établissement de crédit ou une entreprise d'investissement une
 participation ayant pour effet de faire de celui-ci ou celle-ci sa filiale, ou
 lorsqu'une filiale directe ou indirecte d'une telle entreprise sollicite son

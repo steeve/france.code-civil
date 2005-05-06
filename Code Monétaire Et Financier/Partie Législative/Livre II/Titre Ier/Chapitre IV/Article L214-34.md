@@ -19,7 +19,7 @@ de détention, de commercialisation, de publicité et de démarchage applicables
 fonds maître ;
 
 3. Soit un organisme de placement collectif en valeurs mobilières réservé à
-certains investisseurs relevant de la sous-section 6 de la présente section.
+certains investisseurs relevant de la sous-section 9 de la présente section.
 Dans ce cas, les règles de détention d'investissement, de démarchage et de
 commercialisation de l'organisme de placements collectifs nourricier sont celles
 de l'organisme de placements collectifs maître.
