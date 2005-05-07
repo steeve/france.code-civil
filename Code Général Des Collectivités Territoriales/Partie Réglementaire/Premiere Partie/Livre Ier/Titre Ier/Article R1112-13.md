@@ -1,13 +1,18 @@
 Article R1112-13
 ----
-Les collectivités territoriales et leurs groupements tiennent la commission
-informée de tout acte de coopération entrant dans le champ des articles L.
-1112-1 à L. 1112-5, et des cinquième et sixième alinéas de l'article L. 1522-1,
-conclu avec les collectivités territoriales étrangères et leurs groupements. La
-commission collecte et met à jour en tant que de besoin cette information.
+Pour un référendum décidé par une région, les articles R. 1112-11 et R. 1112-12
+sont applicables. Toutefois, la commission de recensement prévue à l'article R.
+1112-11 comprend une personne désignée par le président du conseil régional en
+lieu et place de la personne désignée par le président du conseil général.
 
-Elle peut formuler toute proposition tendant à renforcer la coopération
-décentralisée.
+Un exemplaire des procès-verbaux de chaque commission des départements de la
+région intéressée est transmis sans délai, sous pli fermé, au président de la
+commission compétente pour le département où se trouve le chef-lieu de la
+région.
 
-Elle peut être consultée sur tout projet de loi ou de décret relatif à la
-coopération décentralisée.
+La commission compétente pour le département où se trouve le chef-lieu de la
+région procède au recensement général des votes. Elle ne peut modifier les
+résultats constatés par chaque commission départementale. Elle proclame les
+résultats en public. Un exemplaire du procès-verbal qu'elle établit est remis au
+représentant de l'Etat dans le département où se trouve le chef-lieu de la
+région.

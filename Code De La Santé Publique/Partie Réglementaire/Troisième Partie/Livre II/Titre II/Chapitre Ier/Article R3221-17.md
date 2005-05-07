@@ -1,5 +1,12 @@
 Article R3221-17
 ----
-La substitution mentionnée aux articles R. 3221-13 et R. 3221-16 est constatée
-par le préfet ou le président du conseil général et notifiée à leurs
-cocontractants.
+La mise à disposition est constatée par un procès-verbal établi
+contradictoirement entre les représentants de la collectivité propriétaire et
+ceux des établissements assurant le service public hospitalier.
+
+Lorsque l'Etat ou le département ne sont pas propriétaires des biens mis à
+disposition, le procès-verbal est établi contradictoirement entre l'Etat ou le
+département, le propriétaire et l'établissement de santé.
+
+Le procès-verbal précise notamment la consistance, la situation juridique et
+l'état des biens mis à disposition.
