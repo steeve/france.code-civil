@@ -20,9 +20,7 @@ Il sera fait mention du jugement d'homologation sur la minute du contrat de
 mariage modifié.
 
 La demande et la décision d'homologation doivent être publiées dans les
-conditions et sous les sanctions prévues au code de procédure civile ; en outre,
-si l'un des époux est commerçant, la décision est publiée dans les conditions et
-sous les sanctions prévues par les règlements relatifs au registre du commerce.
+conditions et sous les sanctions prévues au code de procédure civile.
 
 Les créanciers, s'il a été fait fraude à leurs droits, pourront former tierce
 opposition contre le jugement d'homologation dans les conditions du code de
