@@ -19,5 +19,6 @@ Le directeur général peut prendre les décisions modificatives ne comportant p
 de variations du montant du budget ou du niveau des effectifs ni de virements de
 crédits entre la section de fonctionnement et les opérations en capital ou entre
 les chapitres du personnel et les chapitres de matériel. Ces décisions sont
-exécutoires après accord du contrôleur financier. Elles sont soumises pour
-information au conseil d'administration lors de sa plus prochaine séance.
+exécutoires après accord du membre du corps du contrôle général économique et
+financier. Elles sont soumises pour information au conseil d'administration lors
+de sa plus prochaine séance.

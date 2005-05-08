@@ -38,5 +38,5 @@ le ministre chargé du commerce et de l'artisanat ;
 6° Un représentant du secteur associatif nommé par le ministre chargé de la
 ville.
 
-Le contrôleur d'Etat et l'agent comptable ont accès aux séances du conseil
-d'administration.
+Le membre du corps du contrôle général économique et financier et l'agent
+comptable ont accès aux séances du conseil d'administration.

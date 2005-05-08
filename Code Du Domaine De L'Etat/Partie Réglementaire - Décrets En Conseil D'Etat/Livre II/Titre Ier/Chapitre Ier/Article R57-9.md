@@ -32,15 +32,15 @@ d'occupation du domaine public ;
 
 - comptes prévisionnels du crédit-bailleur se rapportant à l'opération ;
 
-- avis du contrôleur d'Etat ou du contrôleur financier placé auprès de
-l'organisme demandeur.
+- avis du membre du corps du contrôle général économique et financier placé
+auprès de l'organisme demandeur.
 
 2° Sous réserve des dispositions du 3, le dossier mentionné au 1 est adressé
 pour agrément au ministre du budget par pli recommandé avec demande d'avis de
 réception postal.
 
 3° Lorsque le montant global de l'investissement financé par crédit-bail est
-inférieur à 3000000 euros hors taxes, le dossier est adressé, dans les mêmes
+inférieur à 3 000 000 euros hors taxes, le dossier est adressé, dans les mêmes
 formes, au trésorier-payeur général du lieu de situation de l'investissement
 projeté qui est compétent pour délivrer l'agrément.
 

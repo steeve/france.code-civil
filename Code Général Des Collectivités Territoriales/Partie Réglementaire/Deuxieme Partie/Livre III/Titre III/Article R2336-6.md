@@ -16,4 +16,5 @@ et certifié par l'ordonnateur ;
 
 6° La copie des délibérations du conseil municipal ou des organes de gestion ;
 
-7° L'avis motivé du trésorier-payeur général ou du contrôleur financier.
+7° L'avis motivé du trésorier-payeur général ou du membre du corps du contrôle
+général économique et financier.

@@ -43,10 +43,11 @@ aux 10° à 12°. Il peut déléguer les attributions mentionnées aux 9° et 13
 lorsque les montants financiers en cause sont inférieurs à un seuil qu'il
 détermine.
 
-Il peut autoriser le directeur général à arrêter, en accord avec le contrôleur
-financier, les modifications du budget qui ne comportent aucune modification du
-montant de ce budget ou des effectifs du personnel, et aucun virement de crédits
-entre la section relative aux opérations de fonctionnement et la section
-relative aux opérations en capital ou entre les chapitres de dépenses de
-personnel et les chapitres de dépenses de matériel. Il en est rendu compte à la
-plus prochaine séance du conseil d'administration.
+Il peut autoriser le directeur général à arrêter, en accord avec le membre du
+corps du contrôle général économique et financier, les modifications du budget
+qui ne comportent aucune modification du montant de ce budget ou des effectifs
+du personnel, et aucun virement de crédits entre la section relative aux
+opérations de fonctionnement et la section relative aux opérations en capital ou
+entre les chapitres de dépenses de personnel et les chapitres de dépenses de
+matériel. Il en est rendu compte à la plus prochaine séance du conseil
+d'administration.

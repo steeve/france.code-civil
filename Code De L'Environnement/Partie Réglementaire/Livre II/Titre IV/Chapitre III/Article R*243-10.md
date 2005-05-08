@@ -35,8 +35,9 @@ protection de la nature dont deux parmi les responsables des associations de
 protection de la nature et une parmi les représentants des collectivités et
 organismes gestionnaires d'espaces naturels littoraux.
 
-II. - Outre le directeur du conservatoire, le contrôleur financier et l'agent
-comptable, siègent au conseil d'administration avec voix consultative :
+II. - Outre le directeur du conservatoire, le membre du corps du contrôle
+général économique et financier et l'agent comptable, siègent au conseil
+d'administration avec voix consultative :
 
 1° Deux représentants du personnel élus par le personnel du conservatoire sur
 des listes présentées par les organisations syndicales habilitées à désigner des

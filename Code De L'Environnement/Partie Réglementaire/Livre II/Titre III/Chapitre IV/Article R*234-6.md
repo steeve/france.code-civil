@@ -84,7 +84,8 @@ représentants des pêcheurs, le second parmi tous ses membres. En cas d'absence
 ou d'empêchement le président est remplacé par le premier vice-président ou, si
 ce dernier est lui-même absent ou empêché, par le second vice-président.
 
-Le directeur général du conseil supérieur de la pêche, le contrôleur financier,
+Le directeur général du conseil supérieur de la pêche, le soumis au contrôle
+permanent d'un membre du corps du contrôle général économique et financier,
 l'agent comptable et le commissaire du Gouvernement désigné par le ministre
 chargé de la pêche en eau douce assistent aux séances du conseil
 d'administration avec voix consultative.

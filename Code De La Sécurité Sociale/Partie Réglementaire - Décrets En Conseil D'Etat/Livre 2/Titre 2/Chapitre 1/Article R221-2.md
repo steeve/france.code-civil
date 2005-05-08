@@ -40,8 +40,8 @@ Siègent également aux séances du conseil avec voix consultative trois
 représentants du personnel, représentant respectivement les employés et
 assimilés, les praticiens conseils et les cadres, élus.
 
-Assistent au conseil le directeur général, l'agent comptable et le contrôleur
-d'Etat.
+Assistent au conseil le directeur général, l'agent comptable et le membre du
+corps du contrôle général économique et financier.
 
 Des commissaires du Gouvernement représentent les ministres chargés de la
 sécurité sociale et du budget. Ils sont entendus chaque fois qu'ils le

@@ -1,4 +1,4 @@
-Article R135-3
+Article R731-3
 ----
 Le conseil d'administration se réunit au moins deux fois par an sur convocation
 de son président. La convocation est de droit lorsqu'elle est demandée par l'un

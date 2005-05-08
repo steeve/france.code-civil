@@ -6,11 +6,12 @@ R. 137-1 et R. 137-3. Cette requête n'est recevable qu'après règlement de la
 totalité des contributions ayant donné lieu à application des majorations.
 
 Le directeur de l'Agence centrale des organismes de sécurité sociale, sur avis
-conforme de l'agent comptable et du contrôleur d'Etat, statue sur les demandes
-portant sur des montants inférieurs à un seuil fixé par le conseil
-d'administration. A partir de ce seuil, le conseil d'administration statue sur
-proposition du directeur et sur avis conforme de l'agent comptable et du
-contrôleur d'Etat.
+conforme de l'agent comptable et du membre du corps du contrôle général
+économique et financier, statue sur les demandes portant sur des montants
+inférieurs à un seuil fixé par le conseil d'administration. A partir de ce
+seuil, le conseil d'administration statue sur proposition du directeur et sur
+avis conforme de l'agent comptable et du membre du corps du contrôle général
+économique et financier.
 
 Il ne peut être accordé une remise des majorations et des pénalités de retard
 que si la bonne foi des entreprises est dûment prouvée. Les décisions du

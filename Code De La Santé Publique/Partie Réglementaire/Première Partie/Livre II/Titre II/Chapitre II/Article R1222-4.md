@@ -8,8 +8,8 @@ sont demandées par le ministre chargé de la santé ou le tiers au moins des
 membres. La réunion du conseil d'administration doit se tenir dans le mois qui
 suit la demande.
 
-Le contrôleur d'Etat et l'agent comptable de l'établissement assistent aux
-réunions avec voix consultative.
+Le membre du corps du contrôle général économique et financier et l'agent
+comptable de l'établissement assistent aux réunions avec voix consultative.
 
 Le conseil peut entendre toute personne dont il estime l'audition utile à son
 information.

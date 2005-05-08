@@ -25,8 +25,9 @@ de partage égal des voix, celle du président est prépondérante.
 En cas d'empêchement du président, la séance est présidée par un représentant de
 l'Etat désigné par le ministre chargé de l'agriculture.
 
-Le contrôleur financier, le directeur général et l'agent comptable assistent aux
-séances du conseil d'administration avec voix consultative.
+Le membre du corps du contrôle général économique et financier, le directeur
+général et l'agent comptable assistent aux séances du conseil d'administration
+avec voix consultative.
 
 Le président peut également appeler à participer aux séances, avec voix
 consultative, toute personne dont il juge la présence utile compte tenu de

@@ -32,7 +32,8 @@ Le conseil peut entendre toute personne ou organisation dont il estime
 l'audition utile à son information.
 
 Le collège des directeurs mentionné à l'article L. 182-2, l'agent comptable et
-le contrôleur d'Etat assistent avec voix consultative aux séances du conseil.
-Les commissaires du Gouvernement représentant les ministres chargés de la
-sécurité sociale, de l'agriculture et du budget assistent au conseil et sont
-entendus à chaque fois qu'ils le demandent.
+le membre du corps du contrôle général économique et financier assistent avec
+voix consultative aux séances du conseil. Les commissaires du Gouvernement
+représentant les ministres chargés de la sécurité sociale, de l'agriculture et
+du budget assistent au conseil et sont entendus à chaque fois qu'ils le
+demandent.

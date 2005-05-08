@@ -18,4 +18,5 @@ voix, la voix du président est prépondérante.
 
 Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au
 moins quinze jours à l'avance à la connaissance des membres du conseil
-d'administration ainsi que du contrôleur financier.
+d'administration ainsi que du membre du corps du contrôle général économique et
+financier.

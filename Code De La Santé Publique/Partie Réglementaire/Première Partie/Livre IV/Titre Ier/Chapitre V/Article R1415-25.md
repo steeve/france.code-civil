@@ -8,5 +8,6 @@ Les décisions modificatives sans incidence sur le montant du budget et ne
 comportant pas de virements de crédits entre la section de fonctionnement et la
 section des opérations en capital ou entre les chapitres de personnel et les
 chapitres de matériel peuvent être prises par le directeur. Elles sont
-exécutoires après accord du contrôleur financier et soumises pour ratification
-au conseil d'administration à sa plus proche séance.
+exécutoires après accord du membre du corps du contrôle général économique et
+financier et soumises pour ratification au conseil d'administration à sa plus
+proche séance.

@@ -15,6 +15,6 @@ ministre chargé du budget et du ministre chargé de la sécurité sociale.
 En cours d'année, les modifications aux prévisions du budget font l'objet de
 décisions modificatives approuvées dans les mêmes conditions que le budget.
 
-Toutefois, le pouvoir d'approbation est délégué au contrôleur d'Etat lorsque les
-décisions modificatives ont pour objet d'autoriser des transferts de crédits de
-chapitre à chapitre.
+Toutefois, le pouvoir d'approbation est délégué au membre du corps du contrôle
+général économique et financier lorsque les décisions modificatives ont pour
+objet d'autoriser des transferts de crédits de chapitre à chapitre.

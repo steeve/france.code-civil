@@ -25,10 +25,10 @@ Le conseil de surveillance adopte les dispositions du règlement intérieur
 relatives à son fonctionnement. Ces dispositions ne sont exécutoires qu'après
 avoir été approuvées par la tutelle.
 
-Les membres du directoire, l'agent comptable et le contrôleur financier de
-l'établissement assistent, avec voix consultative, aux délibérations du conseil
-de surveillance. Le conseil peut entendre toute personne dont il estime
-l'audition utile à son information.
+Les membres du directoire, l'agent comptable et le membre du corps du contrôle
+général économique et financier de l'établissement assistent, avec voix
+consultative, aux délibérations du conseil de surveillance. Le conseil peut
+entendre toute personne dont il estime l'audition utile à son information.
 
 Il est établi un procès-verbal de chaque séance, signé par le président. Les
 procès-verbaux sont communiqués aux autorités de tutelle dans les quinze jours

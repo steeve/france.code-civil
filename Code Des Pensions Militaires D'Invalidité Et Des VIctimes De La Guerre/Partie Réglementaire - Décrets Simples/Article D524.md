@@ -8,4 +8,5 @@ L'office départemental de Paris est soumis au contrôle financier de l'Etat dan
 les conditions prévues par le décret du 25 octobre 1935 et l'arrêté du 4
 décembre 1937.
 
-Celui-ci est assuré par le contrôleur financier de l'office national.
+Celui-ci est assuré par le membre du corps du contrôle général économique et
+financier de l'office national.

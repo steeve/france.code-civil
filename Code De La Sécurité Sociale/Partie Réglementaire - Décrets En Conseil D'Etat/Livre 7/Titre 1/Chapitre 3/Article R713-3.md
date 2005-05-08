@@ -29,7 +29,7 @@ représentant ;
 7° Deux membres désignés par le ministre chargé du budget.
 
 Les représentants de l'Etat autres que les membres de droit sont désignés pour
-trois ans [*durée du mandat*]. Leur mandat est renouvelable.
+trois ans *durée du mandat*. Leur mandat est renouvelable.
 
 Les représentants des affiliés à la caisse sont :
 
@@ -60,8 +60,8 @@ supérieur de la fonction militaire.
 Leurs mandats sont renouvelables.
 
 Assistent aux séances du conseil d'administration, avec voix consultative, le
-directeur de la caisse nationale militaire de sécurité sociale et le contrôleur
-d'Etat.
+directeur de la caisse nationale militaire de sécurité sociale et le membre du
+corps du contrôle général économique et financier.
 
 Les administrateurs qui, au cours de leur mandat, perdent la qualité au titre de
 laquelle ils ont été désignés sont remplacés par l'autorité ayant procédé à leur

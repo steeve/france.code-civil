@@ -17,7 +17,8 @@ exercice, des crédits engagés, en distinguant les crédits de l'exercice en co
 et les crédits afférents à l'exercice antérieur ayant fait l'objet d'un report.
 Cet état distingue les crédits de gestion administrative, les crédits de
 concours et les crédits en opération de capital ; il est immédiatement
-communiqué aux autorités de tutelle et au contrôleur d'Etat ;
+communiqué aux autorités de tutelle et au membre du corps du contrôle général
+économique et financier ;
 
 4° Il représente l'agence en justice ainsi que dans tous les actes de la vie
 civile ;

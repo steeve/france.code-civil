@@ -49,10 +49,10 @@ organismes étrangers et internationaux ayant une mission analogue.
 
 Il approuve les transactions et autorise le directeur à les signer.
 
-Il peut autoriser le directeur à arrêter, en accord avec le contrôleur
-financier, les modifications du budget qui ne comportent aucune modification du
-montant de ce budget ou des effectifs du personnel et aucun virement de crédits
-entre la section relative aux opérations de fonctionnement et la section
-relative aux opérations en capital ou entre les chapitres de dépenses de
-personnel et les chapitres de dépenses en matériel. Il en est rendu compte à la
-prochaine séance du conseil d'administration.
+Il peut autoriser le directeur à arrêter, en accord avec le membre du corps du
+contrôle général économique et financier, les modifications du budget qui ne
+comportent aucune modification du montant de ce budget ou des effectifs du
+personnel et aucun virement de crédits entre la section relative aux opérations
+de fonctionnement et la section relative aux opérations en capital ou entre les
+chapitres de dépenses de personnel et les chapitres de dépenses en matériel. Il
+en est rendu compte à la prochaine séance du conseil d'administration.

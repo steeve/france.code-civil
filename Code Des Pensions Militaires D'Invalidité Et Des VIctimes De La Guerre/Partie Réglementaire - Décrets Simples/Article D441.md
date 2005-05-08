@@ -28,9 +28,9 @@ vice-présidents du conseil d'administration. Ils font mention des membres
 présents.
 
 Le directeur général, le directeur général adjoint, les responsables des
-services intéressés, l'agent comptable et le contrôleur financier de l'office
-assistent au conseil d'administration, à la commission permanente et aux
-commissions.
+services intéressés, l'agent comptable et le membre du corps du contrôle général
+économique et financier de l'office assistent au conseil d'administration, à la
+commission permanente et aux commissions.
 
 Le secrétariat des séances du conseil d'administration, de la commission
 permanente et des commissions est assuré par un fonctionnaire de l'office

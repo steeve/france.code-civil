@@ -13,6 +13,7 @@ situation des filiales à la date de clôture de l'exercice.
 
 La Cour reçoit en outre les rapports des commissaires aux comptes.
 
-Les contrôleurs d'Etat, les membres des missions de contrôle ou les commissaires
-du Gouvernement adressent à la Cour copie de leurs rapports relatifs aux états
-financiers de ces organismes et comportant leurs observations sur ces documents.
+Les membres du corps du contrôle général économique et financier, les membres
+des missions de contrôle ou les commissaires du Gouvernement adressent à la Cour
+copie de leurs rapports relatifs aux états financiers de ces organismes et
+comportant leurs observations sur ces documents.

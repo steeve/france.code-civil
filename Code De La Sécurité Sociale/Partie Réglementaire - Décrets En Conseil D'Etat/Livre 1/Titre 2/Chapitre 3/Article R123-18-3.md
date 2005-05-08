@@ -10,5 +10,6 @@ en informe le conseil d'administration ;
 sur le montant du budget et qu'elles ne comportent pas de virements de crédits
 entre la section de fonctionnement et la section des opérations en capital ou
 entre les chapitres de personnel et les chapitres de matériel. Elles ne sont
-exécutoires qu'après accord du contrôleur financier et doivent être soumises
-pour ratification au conseil d'administration à sa plus proche séance.
+exécutoires qu'après accord du membre du corps du contrôle général économique et
+financier et doivent être soumises pour ratification au conseil d'administration
+à sa plus proche séance.

@@ -52,7 +52,8 @@ Le bâtonnier de l'ordre des avocats à la Cour d'appel de Paris ;
 
 Le directeur du service pénitentiaire d'insertion et de probation de Paris ;
 
-Le contrôleur financier au ministère de la justice ;
+Le membre du corps du contrôle général économique et financier au ministère de
+la justice ;
 
 Le vice-président du conseil d'administration du centre national d'études et
 recherches pénitentiaires ;

@@ -5,7 +5,7 @@ intérêt direct ou indirect dans une entreprise, qu'elle soit personnelle ou so
 forme de société civile ou commerciale, ou dans une filiale d'entreprise
 contractant avec Aéroports de Paris à moins qu'ils n'y soient autorisés par le
 ministre chargé de l'aviation civile sur proposition du conseil et après avis du
-contrôleur d'Etat.
+membre du corps du contrôle général économique et financier.
 
 Lorsque le conseil d'administration examine un contrat susceptible d'être passé
 avec une entreprise dans laquelle un membre du conseil d'administration détient

@@ -32,11 +32,11 @@ intéressé.
 
 Il est fait défense :
 
-1° Aux contrôleurs financiers ou aux fonctionnaires en tenant lieu de viser
-toutes pièces d'engagement de dépenses, toutes ordonnances de paiement ou de
-délégation, tous mandats afférents à des acquisitions, échanges ou prises en
-location lorsque ces opérations sont poursuivies en violation des règles fixées
-au présent article ;
+1° Aux membres du corps du contrôle général économique et financier ou aux
+fonctionnaires en tenant lieu de viser toutes pièces d'engagement de dépenses,
+toutes ordonnances de paiement ou de délégation, tous mandats afférents à des
+acquisitions, échanges ou prises en location lorsque ces opérations sont
+poursuivies en violation des règles fixées au présent article ;
 
 2° Aux comptables d'effectuer le paiement des ordonnances de paiement, mandats
 et autres documents émis en règlement de prix, de loyers, indemnités, intérêts

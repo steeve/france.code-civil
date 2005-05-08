@@ -10,5 +10,6 @@ que celles allouées aux présidents, vice-présidents et rapporteurs des
 commissions spécialisées des marchés.
 
 II. - Les marchés de l'Assistance publique-hôpitaux de Paris ne sont exécutoires
-qu'après visa du contrôleur financier à l'exception des marchés passés sans
-formalités préalables en raison de leur montant.
+qu'après visa du membre du corps du contrôle général économique et financier à
+l'exception des marchés passés sans formalités préalables en raison de leur
+montant.

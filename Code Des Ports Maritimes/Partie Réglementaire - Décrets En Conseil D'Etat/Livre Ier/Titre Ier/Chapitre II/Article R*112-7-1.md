@@ -25,6 +25,6 @@ démissionnaire par le conseil d'administration.
 Toute modification dans les éléments figurant dans la déclaration mentionnée au
 premier alinéa du présent article est transmise au commissaire du Gouvernement.
 
-Le commissaire du Gouvernement communique au contrôleur d'Etat les déclarations
-remplies par les membres du conseil ainsi que les modifications qui y sont
-apportées.
+Le commissaire du Gouvernement communique au membre du corps du contrôle général
+économique et financier les déclarations remplies par les membres du conseil
+ainsi que les modifications qui y sont apportées.

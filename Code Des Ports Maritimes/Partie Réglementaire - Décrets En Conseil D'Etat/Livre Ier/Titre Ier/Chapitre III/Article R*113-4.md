@@ -24,14 +24,16 @@ Le directeur assiste avec voix consultative aux réunions du comité de directio
 et aux séances du conseil d'administration.
 
 Les convocations aux séances sont adressées en temps utile au préfet de région,
-au commissaire du Gouvernement, et au contrôleur d'Etat ; elles sont
-accompagnées des ordres du jour et des mêmes documents que ceux qui sont
-transmis aux membres du conseil d'administration.
+au commissaire du Gouvernement, et au membre du corps du contrôle général
+économique et financier ; elles sont accompagnées des ordres du jour et des
+mêmes documents que ceux qui sont transmis aux membres du conseil
+d'administration.
 
-Le contrôleur d'Etat peut demander au président du conseil d'administration
-l'inscription à l'ordre du jour des questions sur lesquelles il estime
-nécessaire de provoquer une délibération de cette assemblée.
+Le membre du corps du contrôle général économique et financier peut demander au
+président du conseil d'administration l'inscription à l'ordre du jour des
+questions sur lesquelles il estime nécessaire de provoquer une délibération de
+cette assemblée.
 
-Le commissaire du Gouvernement et le contrôleur d'Etat sont convoqués aux
-commissions constituées dans le sein du conseil. Ils assistent à ces commissions
-s'ils le jugent utile.
+Le commissaire du Gouvernement et le membre du corps du contrôle général
+économique et financier sont convoqués aux commissions constituées dans le sein
+du conseil. Ils assistent à ces commissions s'ils le jugent utile.

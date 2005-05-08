@@ -9,18 +9,18 @@ les mêmes conditions.
 
 Le lieu, la date et l'ordre du jour des séances sont portés, au moins dix jours
 francs à l'avance, à la connaissance des membres du conseil d'administration, du
-commissaire du Gouvernement, du contrôleur d'Etat et du directeur général de
-l'agence.
+commissaire du Gouvernement, du membre du corps du contrôle général économique
+et financier et du directeur général de l'agence.
 
 II. - A l'exception du président et du vice-président, les membres du conseil
 d'administration peuvent se faire représenter. Un membre ne peut représenter
 qu'un seul de ses collègues.
 
 Le directeur général de l'établissement, le commissaire du Gouvernement, le
-contrôleur d'Etat et l'agent comptable sont convoqués aux séances. Ils y siègent
-avec voix consultative. le directeur général peut se faire assister de toute
-personne de son choix. En cas d'empêchement, il est représenté par l'un des
-agents placés sous son autorité.
+membre du corps du contrôle général économique et financier et l'agent comptable
+sont convoqués aux séances. Ils y siègent avec voix consultative. le directeur
+général peut se faire assister de toute personne de son choix. En cas
+d'empêchement, il est représenté par l'un des agents placés sous son autorité.
 
 Le président du conseil d'administration peut appeler à participer aux séances,
 avec voix consultative, toute personne dont il juge la présence utile pour
@@ -54,9 +54,9 @@ production de ces informations ou documents.
 Dans le cas où le budget n'est pas approuvé à l'ouverture de l'exercice, et
 jusqu'à son approbation, les dépenses de gestion administrative mentionnées au I
 de l'article R. 821-9 sont effectuées par le directeur général, après accord du
-contrôleur d'Etat, sur la base du budget adopté pour l'exercice précédent,
-déduction faite, le cas échéant, des crédits qui avaient été affectés à des
-dépenses non renouvelables.
+membre du corps du contrôle général économique et financier, sur la base du
+budget adopté pour l'exercice précédent, déduction faite, le cas échéant, des
+crédits qui avaient été affectés à des dépenses non renouvelables.
 
 Les délibérations du conseil d'administration font l'objet de procès-verbaux
 établis et transmis aux ministres de tutelle ainsi qu'au commissaire du

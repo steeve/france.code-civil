@@ -8,7 +8,8 @@ Conseil d'Etat ou d'un magistrat de l'ordre judiciaire, composée comme suit :
 - le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son
 représentant, président ;
 
-- le contrôleur financier ou son représentant ;
+- le membre du corps du contrôle général économique et financier ou son
+représentant ;
 
 - deux représentants, titulaires ou éventuellement suppléants, des membres du
 Conseil d'Etat ou des magistrats à l'égard desquels la commission est compétente

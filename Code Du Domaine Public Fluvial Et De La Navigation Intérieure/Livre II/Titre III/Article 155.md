@@ -12,9 +12,9 @@ ministre de l'équipement et du logement et du ministre de l'économie et des
 finances.
 
 Le contrôle de l'Etat sur le fonctionnement de la société est exercé par un
-commissaire du Gouvernement et un contrôleur d'Etat respectivement désignés par
-le ministre de l'équipement et du logement et par le ministre de l'économie et
-des finances.
+commissaire du Gouvernement et un membre du corps du contrôle général économique
+et financier respectivement désignés par le ministre de l'équipement et du
+logement et par le ministre de l'économie et des finances.
 
 La société peut acquérir, échanger ou vendre des bateaux ou des droits aux
 indemnités ou avances de l'Etat, constituer toutes sûretés réelles sur les
@@ -24,8 +24,8 @@ Ainsi qu'il est dit à l'article 1297 du code général des impôts, sont dispen
 de tous impôts, droits et taxes, les actes, pièces ou écrits dressés en
 exécution des deux alinéas précédents.
 
-La société n'est pas soumise aux dispositions de l'article L. 231-3 du code de
-commerce ; les administrateurs ne recevront aucune rémunération.
+La société n'est pas soumise aux dispositions de l'article 49 de la loi du 24
+juillet 1867 ; les administrateurs ne recevront aucune rémunération.
 
 Entre les prix des bateaux neufs construits ou achetés par la société en
 exécution du programme de reconstitution de la flotte fluviale, une péréquation

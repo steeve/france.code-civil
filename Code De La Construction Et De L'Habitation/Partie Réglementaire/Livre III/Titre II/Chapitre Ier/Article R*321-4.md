@@ -26,9 +26,10 @@ de trois ans. Il est renouvelable.
 Le conseil d'administration est réuni sur convocation de son président au moins
 deux fois par an et de plein droit à la demande de la majorité des membres du
 conseil ou d'un des ministres de tutelle dans le mois suivant la demande. Le
-directeur général de l'agence, le contrôleur financier et l'agent comptable
-assistent avec voix consultative aux séances du conseil d'administration et, le
-cas échéant, à celles du comité restreint mentionné ci-après.
+directeur général de l'agence, le membre du corps du contrôle général économique
+et financier et l'agent comptable assistent avec voix consultative aux séances
+du conseil d'administration et, le cas échéant, à celles du comité restreint
+mentionné ci-après.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 

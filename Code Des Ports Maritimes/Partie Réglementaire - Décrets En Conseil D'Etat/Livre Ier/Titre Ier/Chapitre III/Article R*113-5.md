@@ -3,7 +3,7 @@ Article R*113-5
 Les délibérations du conseil d'administration sont transmises au ministre chargé
 des ports maritimes et au ministre de l'économie et des finances. Elles sont
 communiquées en même temps, par les soins du président, au commissaire du
-Gouvernement et au contrôleur d'Etat.
+Gouvernement et au membre du corps du contrôle général économique et financier.
 
 Les délibérations relatives aux objets sur lesquels le conseil statue
 définitivement deviennent de plein droit exécutoires si le commissaire du

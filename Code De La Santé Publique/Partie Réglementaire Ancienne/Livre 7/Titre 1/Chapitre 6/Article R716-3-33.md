@@ -43,10 +43,10 @@ Le conseil de tutelle se réunit sur convocation de son président, à l'initiat
 de ce dernier ou à la demande de l'un des ministres ou du président du conseil
 d'administration de l'Assistance publique-hôpitaux de Paris.
 
-Le président du conseil d'administration, le directeur général et le contrôleur
-financier de l'Assistance publique-hôpitaux de Paris assistent aux réunions avec
-voix consultative. Le directeur général peut se faire assister des
-collaborateurs de son choix.
+Le président du conseil d'administration, le directeur général et le membre du
+corps du contrôle général économique et financier de l'Assistance
+publique-hôpitaux de Paris assistent aux réunions avec voix consultative. Le
+directeur général peut se faire assister des collaborateurs de son choix.
 
 Le préfet de la région Ile-de-France est consulté par le conseil de tutelle
 préalablement à l'approbation du projet d'établissement mentionné au 1° de

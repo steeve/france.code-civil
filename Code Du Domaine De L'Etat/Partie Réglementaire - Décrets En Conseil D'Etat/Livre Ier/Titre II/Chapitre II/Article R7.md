@@ -6,5 +6,5 @@ demande d'avis ; passé ce délai, il peut être procédé à la réalisation de
 l'opération.
 
 Cet avis doit être communiqué, avant toute décision, par le service ou
-l'établissement public national qui poursuit l'opération, au contrôleur
-financier ou au contrôleur d'Etat.
+l'établissement public national qui poursuit l'opération, au membre du corps du
+contrôle général économique et financier.

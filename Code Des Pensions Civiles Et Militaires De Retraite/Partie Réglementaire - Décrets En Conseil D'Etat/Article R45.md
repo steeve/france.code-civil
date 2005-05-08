@@ -6,7 +6,8 @@ La commission de réforme instituée à l'article L. 31 est composée comme suit
 
 Le directeur ou chef de service dont dépend l'intéressé ou son représentant ;
 
-Le contrôleur financier ou son représentant ;
+Le membre du corps du contrôle général économique et financier ou son
+représentant ;
 
 Deux représentants titulaires du personnel à la commission administrative
 paritaire dont relève le fonctionnaire intéressé appartenant au même grade ou au

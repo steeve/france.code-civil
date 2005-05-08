@@ -10,5 +10,5 @@ des membres présents.
 En cas de partage égal des voix au sein du conseil d'administration, la voix du
 président est prépondérante.
 
-Le directeur, le contrôleur financier et l'agent comptable assistent avec voix
-consultative aux délibérations du conseil.
+Le directeur, le membre du corps du contrôle général économique et financier et
+l'agent comptable assistent avec voix consultative aux délibérations du conseil.
