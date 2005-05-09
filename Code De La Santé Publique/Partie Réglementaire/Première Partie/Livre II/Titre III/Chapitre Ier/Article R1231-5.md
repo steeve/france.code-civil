@@ -1,20 +1,21 @@
 Article R1231-5
 ----
-Sous réserve des dispositions des deux alinéas suivants, le consentement de
-chacun des titulaires de l'autorité parentale ou du représentant légal du mineur
-est exprimé devant le président du tribunal de grande instance dans le ressort
-duquel le mineur demeure ou devant le magistrat désigné par le président de ce
-tribunal.
+Le nombre de comités d'experts institués par l'article L. 1231-3 est fixé à
+huit. Le ressort territorial de chacun d'eux est défini par un arrêté du
+ministre chargé de la santé pris après avis du directeur général de l'Agence de
+la biomédecine.
 
-Lorsque le mineur demeure dans un département d'outre-mer, le consentement des
-personnes mentionnées à l'alinéa précédent peut être exprimé soit conformément à
-la règle énoncée audit alinéa, soit devant le président du tribunal de grande
-instance dans le ressort duquel se situe l'établissement de santé dans lequel le
-prélèvement est envisagé ou devant le magistrat désigné par le président de ce
-tribunal.
+Sous réserve des dispositions des deux alinéas suivants, le comité d'experts
+compétent pour autoriser le prélèvement est celui dans le ressort duquel demeure
+le donneur.
 
-Lorsque le mineur demeure dans un territoire d'outre-mer ou à l'étranger, le
-consentement des personnes mentionnées au premier alinéa est exprimé devant le
-président du tribunal de grande instance dans le ressort duquel se situe
-l'établissement de santé dans lequel le prélèvement est envisagé ou devant le
-magistrat désigné par le président de ce tribunal.
+Lorsqu'il a dû s'éloigner de son lieu de résidence habituel pour être auprès du
+receveur hospitalisé dans un établissement de santé, le donneur peut saisir soit
+le comité d'experts dans le ressort duquel il demeure, soit le comité d'experts
+dans le ressort duquel est situé cet établissement.
+
+Lorsque le donneur demeure en Nouvelle-Calédonie, en Polynésie française, à
+Mayotte, à Wallis et Futuna, dans les Terres australes et antarctiques
+françaises ou à l'étranger, le comité d'experts compétent est celui dans le
+ressort duquel est situé l'établissement de santé où le prélèvement est
+envisagé.

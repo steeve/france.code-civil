@@ -1,15 +1,18 @@
 Article R1231-1
 ----
-Le donneur majeur, ne faisant pas l'objet d'une mesure de protection légale, qui
-entend consentir à un prélèvement d'organe sur sa personne dans les conditions
-prévues à l'article L. 1231-1, est informé des risques qu'il encourt et des
-conséquences éventuelles du prélèvement par le médecin responsable du service,
-du département ou de la structure de soins de l'établissement de santé dans
-lequel le prélèvement est envisagé, ou par un praticien du même établissement
-dûment désigné par ce responsable.
+Le médecin responsable du service, du département ou de la structure de soins de
+l'établissement de santé dans lequel le prélèvement est envisagé saisit le
+comité d'experts compétent mentionné à l'article R. 1231-5. Il informe de cette
+saisine le directeur de l'établissement.
 
-Cette information porte sur toutes les conséquences prévisibles d'ordre physique
-et psychologique du prélèvement ainsi que sur les répercussions éventuelles de
-ce prélèvement sur la vie personnelle, familiale et professionnelle du donneur.
-Elle porte, en outre, sur les résultats qui peuvent être attendus de la greffe
-pour le receveur.
+L'information délivrée au donneur par le comité d'experts ou, en cas d'urgence
+vitale, par le médecin qui a posé l'indication de greffe ou par tout autre
+médecin du choix du donneur porte sur les risques courus par le donneur, sur les
+conséquences prévisibles d'ordre physique et psychologique du prélèvement ainsi
+que sur les répercussions éventuelles de ce prélèvement sur la vie personnelle,
+familiale et professionnelle du donneur. Elle porte également sur les résultats
+qui peuvent être attendus de la greffe pour le receveur.
+
+Le comité d'experts compétent procède à l'audition du donneur et s'assure que ce
+dernier a mesuré les risques et les conséquences du prélèvement au vu de
+l'information qui lui a été délivrée.
