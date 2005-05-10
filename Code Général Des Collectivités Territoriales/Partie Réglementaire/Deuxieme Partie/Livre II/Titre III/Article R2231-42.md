@@ -1,6 +1,6 @@
 Article R2231-42
 ----
-Le directeur de l'office du tourisme est recruté par contrat.
+Le directeur de l'office de tourisme est recruté par contrat.
 
 Il est nommé par le président, après avis du comité.
 

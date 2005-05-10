@@ -4,9 +4,9 @@ Le directeur assure le fonctionnement de l'office dans les conditions prévues
 notamment aux articles R. 2221-28, R. 2221-29, R. 2221-22 et R. 2221-24.
 
 Dans la limite des emplois prévus au budget, il recrute et licencie le personnel
-de l'office avec l'agrément du président. Si l'importance de la station justifie
-le recrutement d'un directeur sportif, celui-ci est nommé par le président, sur
-proposition du directeur.
+de l'office avec l'agrément du président. En fonction des secteurs d'activité
+existants dans la commune ou le groupement de communes, un ou plusieurs
+directeurs peuvent être nommés par le président, sur proposition du directeur.
 
 Le directeur fait chaque année un rapport sur l'activité de l'office qui est
 soumis au comité de direction par le président, puis au conseil municipal.

@@ -8,7 +8,7 @@ Figurent au budget de l'office :
 
 - les frais d'administration et de fonctionnement ;
 
-- les frais de propagande, de publicité et d'accueil ;
+- les frais de promotion, de publicité et d'accueil ;
 
 - les dépenses occasionnées par les travaux d'embellissement de la station ;
 
