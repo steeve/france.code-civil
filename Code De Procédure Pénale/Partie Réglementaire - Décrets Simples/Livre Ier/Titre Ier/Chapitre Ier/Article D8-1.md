@@ -34,4 +34,7 @@ de la gendarmerie nationale ;
 
 13° Office central de lutte contre la délinquance itinérante, de la
 sous-direction de la police judiciaire de la direction générale de la
-gendarmerie nationale.
+gendarmerie nationale ;
+
+14° Office central de lutte contre le travail illégal, de la sous-direction de
+la police judiciaire de la direction générale de la gendarmerie nationale.
