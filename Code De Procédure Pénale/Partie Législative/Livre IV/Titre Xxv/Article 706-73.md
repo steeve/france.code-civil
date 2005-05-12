@@ -39,15 +39,14 @@ du code pénal ;
 
 12° Délits en matière d'armes commis en bande organisée prévus par l'article 3
 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur la
-fabrication des armes de guerre, les articles 24, 26 et 31 du décret du 18 avril
+fabrication des armes de guerre, les articles 24,26 et 31 du décret du 18 avril
 1939 fixant le régime des matériels de guerre, armes et munitions, les articles
 L. 2353-1, L. 2353-5, L. 2353-6, L. 2353-7 et L. 2353-8 du code de la défense,
 l'article L. 2341-4 du code de la défense ;
 
 13° Délits d'aide à l'entrée, à la circulation et au séjour irréguliers d'un
-étranger en France commis en bande organisée prévus par le quatrième alinéa du I
-de l'article 21 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux
-conditions d'entrée et de séjour des étrangers en France ;
+étranger en France commis en bande organisée prévus par l'article L622-1 du code
+de l'entrée et du séjour des étrangers et du droit d'asile ;
 
 14° Délits de blanchiment prévus par les articles 324-1 et 324-2 du code pénal,
 ou de recel prévus par les articles 321-1 et 321-2 du même code, du produit, des

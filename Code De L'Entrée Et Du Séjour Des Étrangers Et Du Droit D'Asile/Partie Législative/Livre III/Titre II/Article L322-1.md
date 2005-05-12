@@ -60,15 +60,14 @@ de son choix dans le cadre de la législation en vigueur."
 "Art. L. 341-8 du code du travail.
 
 "Le renouvellement des autorisations de travail prévues à l'article L. 341-2
-donne lieu à la perception au profit de l'Agence nationale de l'accueil des
-étrangers et des migrations d'une taxe dont le montant et les modalités de
-perception sont fixés par décret.
+donne lieu à la perception au profit de l'Office des migrations internationales
+d'une taxe dont le montant et les modalités de perception sont fixés par décret.
 
 "La participation de l'Etat aux frais d'introduction des familles de
-travailleurs étrangers et les sommes versées par les employeurs à l'Agence
-nationale de l'accueil des étrangers et des migrations à titre de remboursement
-forfaitaire des frais d'introduction des travailleurs étrangers sont réduites en
-fonction du rendement de ladite taxe.
+travailleurs étrangers et les sommes versées par les employeurs à l'Office des
+migrations internationales à titre de remboursement forfaitaire des frais
+d'introduction des travailleurs étrangers sont réduites en fonction du rendement
+de ladite taxe.
 
 "Cette taxe n'est acquittée qu'une fois par période d'un an.
 
@@ -87,9 +86,9 @@ les départements d'outre-mer.
 
 "Nul ne peut, directement ou par personne interposée, engager, conserver à son
 service ou employer pour quelque durée que ce soit un étranger non muni du titre
-l'autorisant à exercer une activité salariée à Saint-Pierre-et-Miquelon. Les
-conditions de délivrance de cette autorisation de travail sont fixées par voie
-réglementaire.
+l'autorisant à exercer une activité salariée dans la collectivité territoriale
+de Saint-Pierre-et-Miquelon. Les conditions de délivrance de cette autorisation
+de travail sont fixées par voie réglementaire.
 
 "Art. L. 831-2 du code du travail.
 

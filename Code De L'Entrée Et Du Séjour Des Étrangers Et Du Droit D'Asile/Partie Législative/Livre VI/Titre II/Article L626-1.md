@@ -1,11 +1,11 @@
 Article L626-1
 ----
 Sans préjudice des poursuites judiciaires qui pourront être engagées à son
-encontre et de la contribution spéciale au bénéfice de l'Agence nationale de
-l'accueil des étrangers et des migrations prévue à l'article L. 341-7 du code du
-travail, l'employeur qui aura occupé un travailleur étranger en situation de
-séjour irrégulier acquittera une contribution forfaitaire représentative des
-frais de réacheminement de l'étranger dans son pays d'origine.
+encontre et de la contribution spéciale au bénéfice de l'Office des migrations
+internationales prévue à l'article L. 341-7 du code du travail, l'employeur qui
+aura occupé un travailleur étranger en situation de séjour irrégulier acquittera
+une contribution forfaitaire représentative des frais de réacheminement de
+l'étranger dans son pays d'origine.
 
 Le montant total des sanctions pécuniaires pour l'emploi d'un étranger en
 situation de séjour irrégulier ne peut excéder le montant des sanctions pénales
