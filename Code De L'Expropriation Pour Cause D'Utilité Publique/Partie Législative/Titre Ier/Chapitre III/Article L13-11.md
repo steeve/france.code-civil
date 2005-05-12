@@ -4,8 +4,7 @@ Lorsqu'une emprise partielle résultant de l'expropriation compromet la structur
 d'une exploitation agricole en lui occasionnant un grave déséquilibre au sens de
 l'article L. 23-1 :
 
-1. Le propriétaire exproprié peut, dans les quinze jours de la notification
-prévue à l'article L. 13-3, demander au juge l'emprise totale. Il doit en
+1° Le propriétaire exproprié peut demander au juge l'emprise totale. Il doit en
 informer le ou les exploitants. Si la demande est admise, le juge de
 l'expropriation fixe, d'une part, le montant de l'indemnité d'expropriation,
 d'autre part, le prix d'acquisition de la portion acquise en sus de la partie
@@ -17,8 +16,7 @@ l'expropriant du prix d'acquisition de la portion acquise en sus de la partie
 expropriée entraîne de plein droit la résiliation du bail, sans indemnité et
 nonobstant toute clause contraire ;
 
-2. L'exploitant qui n'est pas lui-même propriétaire peut, dans le délai d'un
-mois suivant la notification prévue à l'article L. 13-3 s'il entend ne pas
+2° L'exploitant qui n'est pas lui-même propriétaire peut, s'il entend ne pas
 poursuivre l'exploitation ou lorsqu'il y a résiliation du bail au titre du 1°
 ci-dessus, demander à l'expropriant, et en cas de refus ou de désaccord sur le
 montant de l'indemnisation à intervenir, au juge de fixer si celui-ci admet le
@@ -35,9 +33,9 @@ desquelles il a été indemnisé au titre du présent article ne sont pas prises
 compte pour le calcul de la participation financière du maitre de l'ouvrage
 prévue par l'article L. 23-1 et allouée à l'occasion de l'installation dudit
 exploitant sur une exploitation nouvelle comparable à celle dont il est évincé
-du fait de l'expropriation.
+du fait de l'expropriation ;
 
-3. Lorsque au cours d'une période de dix ans plusieurs expropriations sont
+3° Lorsque au cours d'une période de dix ans plusieurs expropriations sont
 réalisées sur une exploitation déterminée, le déséquilibre visé au premier
 alinéa du présent article doit être apprécié pour toute exploitation agricole
 partiellement expropriée, sous réserve qu'elle ait été exploitée depuis le début
