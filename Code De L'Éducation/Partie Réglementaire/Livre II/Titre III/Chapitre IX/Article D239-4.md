@@ -1,8 +1,7 @@
 Article D239-4
 ----
-Des experts peuvent être invités à siéger dans les comités de travail de la
-commission.
+Les représentants de l'Etat siègent pour la durée des fonctions qui leur
+confèrent la qualité au titre de laquelle ils ont été désignés.
 
-La commission peut demander, notamment aux régions, aux départements et autres
-collectivités territoriales d'outre-mer et aux organismes publics de
-radiodiffusion et télévision, de désigner des correspondants.
+Les représentants des collectivités territoriales siègent pour la durée du
+mandat au titre duquel ils ont été désignés.

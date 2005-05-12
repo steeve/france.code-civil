@@ -1,4 +1,5 @@
 Article D239-16
 ----
-L'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur élabore son règlement intérieur.
+La Commission nationale pour l'éducation, la science et la culture est consultée
+par le Gouvernement sur le choix de ses cinq délégués principaux à la conférence
+générale de l'organisation.

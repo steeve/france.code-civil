@@ -1,6 +1,8 @@
 Article D239-18
 ----
-L'ordre du jour des séances est fixé par le président, ou sur demande d'au moins
-un quart des membres de l'Observatoire national de la sécurité des
-établissements scolaires et d'enseignement supérieur. Il choisit, en son sein,
-un rapporteur.
+Des experts peuvent être invités à siéger dans les comités de travail de la
+commission.
+
+La commission peut demander, notamment aux régions, aux départements et autres
+collectivités territoriales d'outre-mer et aux organismes publics de
+radiodiffusion et télévision, de désigner des correspondants.

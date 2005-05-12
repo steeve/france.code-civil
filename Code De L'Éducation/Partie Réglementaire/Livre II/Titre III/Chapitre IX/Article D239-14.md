@@ -1,5 +1,6 @@
 Article D239-14
 ----
-Le ministre chargé de l'éducation nomme, parmi les membres de l'Observatoire
-national de la sécurité des établissements scolaires et d'enseignement
-supérieur, le président, pour une durée de trois ans, par arrêté.
+Les fonctions de membre et d'invité du Conseil territorial de l'éducation
+nationale sont exercées à titre gratuit. Elles ouvrent droit aux indemnités pour
+frais de déplacement et de séjour dans les conditions prévues pour les
+fonctionnaires et agents de l'Etat.
