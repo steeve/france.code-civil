@@ -47,4 +47,8 @@ mentionnées au titre XI du Code de procédure pénale (troisième partie : Déc
 10° Emet un avis sur le projet d'ordonnance préparé par le président désignant
 un juge du tribunal d'instance pour exercer les fonctions du juge de proximité
 en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se
-révèle insuffisant.
+révèle insuffisant;
+
+11° Emet un avis sur le projet d'ordonnance préparé par le président désignant
+un magistrat pour exercer les fonctions de juge des libertés et de la détention
+conformément à l'article 137-1 du code de procédure pénale.

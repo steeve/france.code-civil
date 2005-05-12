@@ -25,8 +25,24 @@ chambres ;
 répartition dans les chambres et services de la juridiction, des présidents de
 chambre et des conseillers dont la cour d'appel est composée ;
 
-7° Emet un avis sur la désignation par le premier président du ou des
-conseillers chargés de suivre l'application des peines dans le ressort de la
+7° Emet un avis sur le projet d'ordonnance préparé par le premier président
+désignant :
+
+a) Les juges de l'application des peines du ressort de la cour composant un
+tribunal de l'application des peines, conformément à l'article 712-3 du code de
+procédure pénale ;
+
+b) Le président de chambre ou le conseiller présidant la chambre de
+l'application des peines et les conseillers la composant en qualité
+d'assesseurs, conformément à l'article 712-13 du code de procédure pénale ;
+
+c) Le responsable d'une association de réinsertion des condamnés et le
+responsable d'une association d'aide aux victimes composant la chambre de
+l'application des peines, conformément à l'article 712-13 du code de procédure
+pénale ;
+
+d) Le ou les conseillers chargés de suivre l'application des peines et de
+coordonner l'action des juges de l'application des peines dans le ressort de la
 cour d'appel ;
 
 8° Propose au garde des sceaux, ministre de la justice, les candidats aux

@@ -4,7 +4,7 @@ Le tribunal d'instance connaît, à charge d'appel :
 
 1° (Abrogé) ;
 
-2° Des actions possessoires ;
+2° (Abrogé) ;
 
 3° Des actions en bornage ;
 
@@ -25,9 +25,9 @@ l'élargissement ou l'ouverture du nouveau lit d'un cours d'eau non navigable, n
 flottable, ainsi que les servitudes nécessaires pour l'exercice du hâlage sur
 les rivières navigables et flottables ;
 
-9° Des contestations concernant le refus de payer les droits de douane, les
-oppositions à contrainte, la non-décharge des acquits-à-caution et les autres
-affaires de douane ;
+9° Des contestations concernant le paiement, la garantie ou le remboursement des
+créances de toute nature recouvrées par l'administration des douanes et les
+autres affaires de douane ;
 
 10° Des demandes en paiement des droits de place et de stationnement perçus par
 les communes ou par leurs concessionnaires ;
@@ -46,9 +46,8 @@ de la servitude du survol des téléfériques ;
 14° Des contestations relatives à l'exercice de la servitude de
 débroussaillement en bordure des voies ferrées et au règlement des indemnités ;
 
-15° Des contestations relatives à l'établissement et à l'exercice des servitudes
-instituées par les articles 123, 124, 126, 127, 135, 136 et 137 du Code rural,
-ainsi qu'aux indemnités dues en raison de ces servitudes (1) ;
+15° (Abrogé) ;
 
 16° Des contestations relatives aux servitudes établies au profit des
-associations syndicales prévues par la loi du 21 juin 1865 (2) .
+associations syndicales prévues par l'ordonnance n° 2004-632 du 1er juillet
+2004.

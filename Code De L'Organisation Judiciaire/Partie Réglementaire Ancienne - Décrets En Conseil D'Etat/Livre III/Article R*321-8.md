@@ -1,6 +1,7 @@
 Article R*321-8
 ----
-Le tribunal d'instance connaît, dans les mêmes limites :
+Le tribunal d'instance connaît, à quelque valeur que la demande puisse s'élever
+:
 
 1° Des litiges relatifs à la vente des objets abandonnés chez les hôteliers ou
 logeurs, dans les garde-meubles ou chez tout dépositaire, des objets confiés à

@@ -1,7 +1,7 @@
 Article R*321-7
 ----
-Le tribunal d'instance connaît, dans les mêmes limites et sous réserve des
-dispositions spéciales du Code rural et du Code forestier :
+Le tribunal d'instance connaît, à quelque valeur que la demande puisse s'élever
+et sous réserve des dispositions spéciales du Code rural et du Code forestier :
 
 1° Des actions pour dommages causés aux champs et cultures, aux fruits et
 récoltes, aux arbres, aux clôtures et aux bâtiments agricoles, que ces dommages

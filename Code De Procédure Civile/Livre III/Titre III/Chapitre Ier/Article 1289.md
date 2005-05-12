@@ -1,5 +1,4 @@
 Article 1289
 ----
-L'appel est formé, instruit et jugé, selon les cas, comme en matière gracieuse
-ou comme en matière contentieuse ; dans ce dernier cas, l'affaire est instruite
-et jugée en chambre du conseil.
+La demande mentionnée au second alinéa de l'article 1286 ainsi que l'appel
+relèvent de la matière gracieuse.

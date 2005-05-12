@@ -6,5 +6,5 @@ exclusive d'une autre juridiction, alors même qu'ils exigeraient
 l'interprétation d'un contrat.
 
 Toutefois, si l'exception ou le moyen de défense implique l'examen d'une
-question de nature immobilière pétitoire, le tribunal d'instance pourra se
-prononcer, mais à charge d'appel.
+question de nature immobilière pétitoire ou possessoire, le tribunal d'instance
+pourra se prononcer, mais à charge d'appel.
