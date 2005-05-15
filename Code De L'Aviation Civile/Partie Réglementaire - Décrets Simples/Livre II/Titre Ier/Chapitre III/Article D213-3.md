@@ -29,9 +29,8 @@ directeur général ;
 ministre chargé de l'aviation civile en raison de leur connaissance du transport
 aérien ou des activités aéroportuaires.
 
-Le membre du corps du contrôle général économique et financier central des
-services de l'aviation civile participe aux réunions du comité, avec voix
-consultative.
+Le contrôleur financier central des services de l'aviation civile participe aux
+réunions du comité, avec voix consultative.
 
 Le comité consultatif se réunit sur convocation de son président, à l'initiative
 de celui-ci ou à la demande de la moitié au moins des membres du comité. Le
