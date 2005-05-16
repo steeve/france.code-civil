@@ -1,33 +1,43 @@
 Article R4127-85
 ----
-Un médecin ne doit avoir en principe, qu'un seul cabinet.
+Le lieu habituel d'exercice d'un médecin est celui de la résidence
+professionnelle au titre de laquelle il est inscrit sur le tableau du conseil
+départemental, conformément à l'article L. 4112-1 du code de la santé publique.
 
-Il y a cabinet secondaire lorsqu'un médecin reçoit en consultation de façon
-régulière ou habituelle des patients dans un lieu différent du cabinet principal
-; la création ou le maintien d'un cabinet secondaire, sous quelque forme que ce
-soit, n'est possible qu'avec l'autorisation du conseil départemental de l'ordre
-intéressé.
+Dans l'intérêt de la population, un médecin peut exercer son activité
+professionnelle sur un ou plusieurs sites distincts de sa résidence
+professionnelle habituelle :
 
-Cette autorisation doit être accordée si l'éloignement d'un médecin de même
-discipline est préjudiciable aux malades et sous réserve que la réponse aux
-urgences, la qualité et la continuité des soins soient assurées.
+- lorsqu'il existe dans le secteur géographique considéré une carence ou une
+insuffisance de l'offre de soins préjudiciable aux besoins des patients ou à la
+permanence des soins ;
 
-L'autorisation est donnée à titre personnel et n'est pas cessible.
+- ou lorsque les investigations et les soins qu'il entreprend nécessitent un
+environnement adapté, l'utilisation d'équipements particuliers, la mise en
+oeuvre de techniques spécifiques ou la coordination de différents intervenants.
 
-Elle est limitée à trois années et ne peut être renouvelée qu'après une nouvelle
-demande soumise à l'appréciation du conseil départemental.
+Le médecin doit prendre toutes dispositions et en justifier pour que soient
+assurées sur tous ces sites d'exercice la réponse aux urgences, la qualité, la
+sécurité et la continuité des soins.
 
-L'autorisation est révocable à tout moment et doit être retirée lorsque
-l'installation d'un médecin de même discipline est de nature à satisfaire les
-besoins des malades.
+La demande d'ouverture d'un lieu d'exercice distinct est adressée au conseil
+départemental dans le ressort duquel se situe l'activité envisagée. Elle doit
+être accompagnée de toutes informations utiles sur les conditions d'exercice. Si
+celles-ci sont insuffisantes, le conseil départemental doit demander des
+précisions complémentaires.
 
-En aucun cas un médecin ne peut avoir plus d'un cabinet secondaire.
+Le conseil départemental au tableau duquel le médecin est inscrit est informé de
+la demande lorsque celle-ci concerne un site situé dans un autre département.
 
-Les dispositions du présent article ne font pas obstacle à l'application, par
-les sociétés d'exercice libéral, de l'article R. 4113-23 et, par les sociétés
-civiles professionnelles de médecins et leurs membres, de l'article R. 4113-74.
+Le silence gardé par le conseil départemental sollicité vaut autorisation
+implicite à l'expiration d'un délai de trois mois à compter de la date de
+réception de la demande ou de la réponse au supplément d'information demandé.
 
-Les interventions ou investigations pratiquées pour des raisons de sécurité dans
-un environnement médical adapté ou nécessitant l'utilisation d'un équipement
-matériel lourd soumis à autorisation ne constituent pas une activité en cabinet
-secondaire.
+L'autorisation est personnelle et incessible. Il peut y être mis fin si les
+conditions fixées aux alinéas précédents ne sont plus réunies.
+
+Les recours contentieux contre les décisions de refus, de retrait ou
+d'abrogation d'autorisation ainsi que ceux dirigés contre les décisions
+explicites ou implicites d'autorisation ne sont recevables qu'à la condition
+d'avoir été précédés d'un recours administratif devant le Conseil national de
+l'ordre.
