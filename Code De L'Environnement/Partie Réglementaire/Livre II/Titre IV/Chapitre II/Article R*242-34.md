@@ -1,6 +1,8 @@
 Article R*242-34
 ----
-Des modifications au statut et aux limites de la réserve naturelle volontaire
-peuvent être autorisées dans les mêmes conditions que pour l'agrément proprement
-dit et sous réserve des dispositions d'aménagement et d'urbanisme applicables au
-territoire concerné.
+Le classement est renouvelable par tacite reconduction, pour la durée fixée en
+application de l'article R. 242-33, sauf notification par un ou plusieurs
+propriétaires ou titulaires de droits réels du retrait de leur accord, dans un
+délai compris entre trois et six mois avant l'échéance. Dans ce dernier cas, le
+renouvellement de la décision de classement est prononcé par décret en Conseil
+d'Etat.

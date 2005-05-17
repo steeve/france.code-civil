@@ -1,6 +1,7 @@
 Article R*242-8
 ----
-Lorsque le classement intéresse deux ou plusieurs départements, la consultation
-de la commission départementale des sites est assurée à la diligence de chacun
-des préfets concernés qui en transmettent les résultats au préfet
-centralisateur.
+A l'issue des consultations, le dossier comprenant les pièces relatives à
+l'enquête publique, les avis formulés en application de l'article R. 242-2 et
+les consentements ou oppositions recueillis est adressé, avec son avis, par le
+préfet du département ou par le préfet coordonnateur au ministre chargé de la
+protection de la nature.

@@ -1,14 +1,19 @@
 Article R*242-43
 ----
-Seront punis des peines prévues pour les contraventions de la 5e classe ceux qui
-auront contrevenu aux dispositions de la décision de classement comme réserve
-naturelle réglementant ou interdisant :
+La demande d'autorisation de modification de l'état ou de l'aspect d'une réserve
+naturelle, requise en application des articles L. 332-6 et L. 332-9, est
+adressée au président du conseil régional accompagnée :
 
-1° La chasse, la pêche, la pêche sous-marine ou le port des armes
-correspondantes ;
+1° D'une note précisant l'objet, les motifs et l'étendue de l'opération ;
 
-2° Les travaux publics ou privés, y compris ceux qui sont faits sur des
-bâtiments, la recherche ou l'exploitation de matériaux ou minerais, les
-activités industrielles, commerciales, artisanales ou publicitaires, les
-activités photographiques, cinématographiques, radiophoniques ou de télévision,
-le survol de la réserve.
+2° D'un plan de situation détaillé ;
+
+3° D'un plan général des ouvrages à exécuter ou des zones affectées par les
+modifications ;
+
+4° D'une notice d'impact permettant d'apprécier les conséquences de la
+modification sur le territoire protégé et son environnement.
+
+Le conseil régional se prononce sur la demande après avoir recueilli l'avis du
+ou des conseils municipaux intéressés et du conseil scientifique régional du
+patrimoine naturel.

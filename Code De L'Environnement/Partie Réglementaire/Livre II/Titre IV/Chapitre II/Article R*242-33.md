@@ -1,10 +1,9 @@
 Article R*242-33
 ----
-Sans préjudice de l'application des sanctions prévues à l'article L. 332-25 et à
-la section 4 du présent chapitre, le préfet peut mettre en demeure le
-propriétaire qui ne respecte pas les prescriptions de la décision d'agrément de
-s'y conformer dans un délai qu'il fixe.
-
-Faute pour le propriétaire d'avoir satisfait à cette mise en demeure, le préfet
-peut, après avoir recueilli les avis mentionnés à l'article R. 242-27, retirer
-l'agrément.
+Lorsque le projet a recueilli l'accord du ou des propriétaires et titulaires de
+droits réels intéressés, le conseil régional approuve le projet par
+délibération. Celle-ci fixe les limites de la réserve, les actions, activités,
+travaux, constructions, installations et modes d'occupation du sol mentionnés au
+II de l'article L. 332-3 qui y sont réglementés ou interdits, la durée du
+classement ainsi que les modalités de gestion de la réserve et de contrôle des
+prescriptions qu'elle prévoit.

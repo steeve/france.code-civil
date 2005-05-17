@@ -1,10 +1,11 @@
 Article R*242-18
 ----
-Le ministre chargé de la protection de la nature fixe, le cas échéant, les
-modalités de gestion administrative de la réserve naturelle et de contrôle du
-respect des prescriptions contenues dans l'acte de classement ainsi que les
-concours techniques et financiers de l'Etat.
+Afin d'assister le gestionnaire de la réserve naturelle et le comité consultatif
+prévu à l'article R. 242-15, le préfet désigne un conseil scientifique qui peut
+être, soit propre à la réserve, soit commun avec celui d'une réserve naturelle
+comparable ou d'un parc national. Le conseil scientifique régional du patrimoine
+naturel peut tenir lieu de conseil scientifique de la réserve.
 
-Il peut, à cet effet, passer des conventions avec les propriétaires des terrains
-classés, des associations régies par la loi du 1er juillet 1901, des fondations,
-des collectivités locales ou des établissements publics.
+Le conseil scientifique est consulté sur le plan de gestion mentionné à
+l'article R. 242-21 et peut être sollicité sur toute question à caractère
+scientifique touchant la réserve.

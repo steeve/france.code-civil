@@ -1,20 +1,13 @@
 Article R*242-42
 ----
-Seront punis des peines prévues pour les contraventions de la 5e classe ceux
-qui, en infraction à la réglementation de la réserve :
+Dans les trois ans suivant sa désignation, le gestionnaire élabore un projet de
+plan de gestion qui s'appuie sur une évaluation scientifique du patrimoine
+naturel de la réserve et de son évolution et décrit les objectifs que le
+gestionnaire s'assigne en vue de la protection des espaces naturels de la
+réserve. Il recueille l'avis du comité consultatif et, le cas échéant, du
+conseil scientifique de la réserve et joint ces avis au dossier transmis au
+président du conseil régional.
 
-1° Auront porté atteinte, de quelque manière que ce soit, aux animaux non
-domestiques de la réserve, à leurs oeufs, couvées, portées ou nids ou qui les
-auront emportés hors de la réserve ;
-
-2° Se livreront, à l'intérieur de la réserve, à une activité agricole,
-pastorale, forestière ou de pêche maritime interdite ;
-
-3° Auront abandonné, déposé, jeté, déversé, rejeté ou immergé sur le territoire
-de la réserve, qu'elle soit terrestre ou marine, des eaux usées, produits
-chimiques ou radioactifs, matériaux, résidus ou détritus de quelque nature que
-ce soit pouvant nuire à la qualité des eaux, de l'air, du sol ou du site ou à
-l'intégrité de la faune ou de la flore ;
-
-4° Auront pénétré ou circulé à l'intérieur d'une réserve où la pénétration ou la
-circulation sont interdites.
+Le plan de gestion d'une réserve naturelle régionale est approuvé, après
+consultation du conseil scientifique régional du patrimoine naturel, par
+délibération du conseil régional.

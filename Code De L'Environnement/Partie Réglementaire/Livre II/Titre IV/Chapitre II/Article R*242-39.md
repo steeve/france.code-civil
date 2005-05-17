@@ -1,15 +1,18 @@
 Article R*242-39
 ----
-Seront punis des peines prévues pour les contraventions de la 3e classe ceux qui
-auront contrevenu à celles des dispositions de la décision de classement comme
-réserve naturelle qui réglementent :
+L'extension du périmètre ou la modification de la réglementation d'une réserve
+naturelle régionale, son déclassement partiel ou total font l'objet des mêmes
+modalités de consultation et des mêmes mesures de publicité que celles qui
+régissent les décisions de classement.
 
-1° La circulation et le stationnement des personnes, des animaux ou des
-véhicules ;
+L'extension du périmètre ou la modification de la réglementation d'une réserve
+classée par délibération du conseil régional est prononcée dans les mêmes
+formes. Toutefois, en cas de désaccord d'un ou plusieurs propriétaires ou
+titulaires de droits réels sur la mesure envisagée, ainsi que dans le cas où la
+réserve a été classée par décret en Conseil d'Etat, la décision est prise par
+décret en Conseil d'Etat, après enquête publique.
 
-2° L'exercice de la plongée sous-marine ;
-
-3° La recherche, la poursuite et l'approche, en vue de la prise de vues ou de
-son, notamment de la chasse photographique, des animaux figurant sur la liste
-limitative des espèces non domestiques protégées et, si besoin est, d'animaux
-d'autres espèces, lesquelles seront précisées par la décision de classement.
+Le déclassement est prononcé après enquête publique par délibération du conseil
+régional prise de sa propre initiative ou sur une demande, présentée au moins un
+an avant l'expiration du classement, par le ou les propriétaires sur la demande
+desquels le classement a été prononcé.

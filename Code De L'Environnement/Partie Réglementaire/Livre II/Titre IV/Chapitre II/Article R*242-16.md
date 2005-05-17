@@ -1,12 +1,12 @@
 Article R*242-16
 ----
-Outre la publication au bureau des hypothèques, la décision de classement et le
-plan de délimitation de la réserve naturelle sont reportés s'il y a lieu :
+Les membres du comité consultatif sont nommés pour trois ans. Leur mandat peut
+être renouvelé. Les membres décédés ou démissionnaires et ceux qui, en cours de
+mandat, cessent d'exercer les fonctions en raison desquelles ils ont été
+désignés sont remplacés. Dans ce cas, le mandat des nouveaux membres expire à la
+date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
 
-1° Au plan d'occupation des sols ou au document d'urbanisme en tenant lieu, en
-vertu de l'article R. 126-3 du code de l'urbanisme ;
-
-2° Pour les forêts soumises au régime forestier, au document d'aménagement de la
-forêt approuvé par le ministre de l'agriculture et, pour les forêts privées
-mentionnées à l'article L. 222-1 du code forestier, au plan simple de gestion
-agréé par le centre régional de la propriété forestière.
+Le comité est présidé par le préfet ou son représentant. Le préfet maritime ou
+son représentant en assure la vice-présidence lorsque la réserve naturelle
+s'étend sur les eaux territoriales ou sur le domaine public maritime. Il se
+réunit au moins une fois par an sur convocation de son président.

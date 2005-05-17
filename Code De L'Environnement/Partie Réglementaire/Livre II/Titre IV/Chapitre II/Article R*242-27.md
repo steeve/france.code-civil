@@ -1,19 +1,12 @@
 Article R*242-27
 ----
-Le préfet accuse réception de la demande et soumet le dossier pour avis :
+Les périmètres de protection prévus à l'article L. 332-16 sont institués par le
+préfet sur proposition ou avec l'accord des conseils municipaux intéressés.
 
-1° Au conseil municipal de la ou des communes intéressées ;
+La décision instituant un périmètre de protection autour d'une réserve naturelle
+nationale est reportée, s'il y a lieu, dans les documents prévus à l'article R.
+242-13.
 
-2° Aux administrations civiles et militaires intéressées ;
-
-3° A l'association communale de chasse agréée ou, à défaut, à la fédération
-départementale des chasseurs, s'il est demandé d'interdire ou de réglementer la
-pratique de la chasse à l'intérieur de la réserve par dérogation aux
-dispositions législatives ou réglementaires en matière de chasse ;
-
-4° A la commission départementale des sites siégeant en formation de protection
-de la nature.
-
-Les avis susvisés doivent être formulés dans un délai maximum de quatre mois. A
-défaut de réponse dans ce délai, l'avis est réputé favorable. En cas
-d'opposition au projet, l'avis doit être motivé.
+L'enquête publique prévue à l'article L. 332-16, précédée des consultations
+mentionnées à l'article R. 242-2, est menée dans les conditions fixées par ce
+même article.

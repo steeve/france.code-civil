@@ -1,24 +1,26 @@
 Article R*242-29
 ----
-Les mesures conservatoires prévues à l'article L. 332-12 peuvent porter sur la
-réglementation ou, le cas échéant, l'interdiction des activités ou actions
-suivantes :
+I. - Lorsque le projet de création d'une réserve naturelle régionale est établi
+à l'initiative du président du conseil régional, ce dernier constitue un dossier
+qui comporte au moins les éléments suivants :
 
-1° La chasse et la pêche ;
+1° Une note indiquant l'objet, les motifs, l'étendue de l'opération et la durée
+du classement ;
 
-2° Les activités agricoles, pastorales et forestières ;
+2° Une étude scientifique faisant apparaître l'intérêt de l'opération ;
 
-3° L'exécution de travaux, de constructions et d'installations diverses ;
+3° La liste des communes intéressées ainsi qu'un plan de délimitation, à une
+échelle suffisante, du territoire à classer et, le cas échéant, du périmètre de
+protection ;
 
-4° L'exploitation des gravières et carrières ;
+4° Les plans cadastraux et états parcellaires correspondants ;
 
-5° La circulation et le stationnement des personnes, des animaux et des
-véhicules ;
+5° La liste des sujétions et des interdictions nécessaires à la protection de la
+réserve ;
 
-6° Le jet ou le dépôt, à l'intérieur de la réserve, de tous matériaux, produits,
-résidus et détritus de quelque nature que ce soit pouvant porter atteinte au
-milieu naturel ;
+6° Une note précisant les modalités prévues pour la gestion, le gardiennage et
+la surveillance de la réserve.
 
-7° Les actions de nature à porter atteinte à l'intégrité des animaux non
-domestiques ou des végétaux non cultivés de la réserve ainsi qu'à l'enlèvement
-hors de la réserve de ces animaux ou végétaux.
+II. - Lorsque le projet est établi à la demande des propriétaires, cette demande
+est accompagnée d'un dossier comprenant les éléments énumérés au I ainsi que,
+s'il y a lieu, l'accord des titulaires de droits réels.

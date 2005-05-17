@@ -1,19 +1,15 @@
 Article R*242-2
 ----
-Le dossier soumis aux consultations et, s'il y a lieu, à l'enquête publique doit
-comprendre :
+Le projet est soumis par le préfet à une enquête publique dans les formes
+prévues par le code de l'expropriation pour cause d'utilité publique, sous
+réserve des dispositions des articles R. 242-4 à R. 242-8.
 
-1° Une note indiquant l'objet, les motifs et l'étendue de l'opération ainsi que
-la liste des communes intéressées avec, par commune, l'indication des sections
-cadastrales correspondantes ;
+Simultanément, le préfet recueille l'avis des administrations civiles et
+militaires intéressées, ainsi que celui de l'Office national des forêts lorsque
+le projet de réserve inclut des terrains relevant du régime forestier et celui
+du préfet maritime lorsque le projet comporte une partie maritime. Il consulte
+les collectivités territoriales dont le territoire est affecté par le projet de
+classement et, en zone de montagne, le comité de massif.
 
-2° Un plan de situation, à une échelle suffisante, montrant le territoire à
-classer ;
-
-3° Les plans cadastraux et états parcellaires correspondants ;
-
-4° Une étude sur les incidences générales et les conséquences socio-économiques
-du projet ;
-
-5° L'indication des sujétions et des interdictions qui seraient imposées par le
-décret créant la réserve.
+Les avis qui ne sont pas rendus dans un délai de trois mois sont réputés
+favorables.

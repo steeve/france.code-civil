@@ -34,21 +34,16 @@ articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 Servitudes attachées à la protection des eaux minérales instituées en
 application des articles L. 1322-3 à L. 1322-13 du code de la santé publique.
 
-d) Réserves naturelles et parcs nationaux.
+d) Réserves naturelles et parcs nationaux :
 
-Réserves naturelles instituées par l'autorité administrative en application de
-l'article 8 bis de la loi du 2 mai 1930 sur les sites ou du chapitre III de la
-loi n° 76-629 du 10 juillet 1976.
+Réserves naturelles instituées par l'autorité administrative en application des
+articles L. 332-1 à L. 332-19-1 du code de l'environnement ;
 
-Zones de protection des réserves naturelles en application de l'article 27 de la
-loi n° 76-629 du 10 juillet 1976.
+Périmètres de protection autour des réserves naturelles institués en application
+des articles L. 332-16 à L. 332-18 du code de l'environnement ;
 
-Périmètres de protection autour des réserves naturelles instituées en
-application de l'article 27 de la loi n° 76-629 du 10 juillet 1976 relative à la
-protection de la nature, tel qu'il a été complété par l'article 58-1 de la loi
-n° 83-663 du 22 juillet 1983.
-
-Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
+Parcs nationaux classés en application des articles L. 331-1 à L. 331-7 du code
+de l'environnement.
 
 e) Zones agricoles protégées.
 

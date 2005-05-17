@@ -1,5 +1,5 @@
 Article R*242-31
 ----
-L'agrément d'une propriété comme réserve naturelle volontaire est donné pour six
-ans. Il est renouvelable par tacite reconduction. A la demande du propriétaire,
-présentée avant le terme de chaque période de six ans, l'agrément est abrogé.
+Le projet de classement est soumis par le président du conseil régional à une
+enquête publique dans les formes prévues par le code de l'expropriation pour
+cause d'utilité publique, sous réserve des dispositions de l'article R. 242-32.

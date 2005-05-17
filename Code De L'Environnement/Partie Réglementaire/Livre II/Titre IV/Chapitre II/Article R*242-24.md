@@ -1,6 +1,14 @@
 Article R*242-24
 ----
-La modification des limites ou de la réglementation de la réserve, le
-déclassement partiel ou total de celle-ci, font l'objet des mêmes modalités
-d'enquête et de consultations et des mêmes mesures de publicité que celles qui
-sont définies aux articles R. 242-1 à R. 242-10 et R. 242-12 à R. 242-16.
+Le préfet se prononce sur la demande dans un délai de cinq mois, après avoir
+recueilli l'avis du ou des conseils municipaux intéressés, du conseil
+scientifique régional du patrimoine naturel et de la commission départementale
+des sites, perspectives et paysages siégeant en formation de protection de la
+nature.
+
+Les avis qui n'ont pas été formulés dans un délai de trois mois à compter de la
+date de la saisine de l'organisme consulté sont réputés favorables. Lorsque la
+commission départementale des sites, perspectives et paysages ou le conseil
+scientifique régional du patrimoine naturel a émis un avis défavorable, la
+décision est prise par le ministre chargé de la protection de la nature après
+avis du Conseil national de la protection de la nature.

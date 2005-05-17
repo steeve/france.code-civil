@@ -1,4 +1,4 @@
 Article R*242-36
 ----
-Les périmètres de protection prévus à l'article L. 332-16 sont institués par le
-préfet.
+Le renouvellement de la décision de classement est prononcé selon les mêmes
+modalités que le classement initial.
