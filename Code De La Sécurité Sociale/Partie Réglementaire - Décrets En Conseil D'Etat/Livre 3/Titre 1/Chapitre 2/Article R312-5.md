@@ -11,4 +11,7 @@ sociétés qui fournissent les voitures, des exploitations et des concessionnair
 ;
 
 3°) dans les cas prévus au 10° dudit article, à la charge des parents, de
-l'administration ou de l'oeuvre intéressée.
+l'administration ou de l'oeuvre intéressée ;
+
+4°) dans les cas prévus au 25° de cet article, à la charge de la personne morale
+mentionnée à l'article L. 127-1 du code de commerce.
