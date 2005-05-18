@@ -59,9 +59,9 @@ de voyageurs.
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
 d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
 
-b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural
-relatifs aux parcs nationaux, ainsi que l'article R. 241-66 de ce même code en
-ce qu'il concerne les faits mentionnés par ces mêmes articles ;
+b) Les articles R. 241-61 à R. 241-64, l'article R. 241-66 du code de
+l'environnement relatifs aux parcs nationaux et les articles R. 242-68 à R.
+242-71 du même code relatifs aux réserves naturelles ;
 
 c) L'article R. 322-5 du code forestier relatif à la protection contre
 l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à
@@ -115,5 +115,5 @@ l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la
 déclaration en mairie, la vaccination, la stérilisation, l'assurance et les
 conditions de circulation de certains chiens.
 
-5° Contraventions réprimées par le code des postes et télécommunications prévues
-par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
+5° Contraventions réprimées par le code des postes et des communications
+électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.
