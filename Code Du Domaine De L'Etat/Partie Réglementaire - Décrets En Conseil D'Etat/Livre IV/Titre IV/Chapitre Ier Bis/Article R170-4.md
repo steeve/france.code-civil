@@ -15,7 +15,9 @@ de l'article R. 170 ;
 
 - tous documents permettant d'établir que le demandeur a lui-même édifié ou fait
 édifier sur le terrain, avant le 1er janvier 1995, une ou plusieurs
-constructions affectées à l'exploitation d'établissements à usage professionnel.
+constructions affectées à l'exploitation d'établissements à usage professionnel,
+ou qu'il est un des ayants droit de celui qui a édifié ou fait édifier, avant le
+1er janvier 1995, la ou les constructions en cause.
 
 III. - Lorsque les occupants d'un terrain peuvent en demander la cession au
 titre de la présente section et que ce même terrain fait l'objet d'une demande
