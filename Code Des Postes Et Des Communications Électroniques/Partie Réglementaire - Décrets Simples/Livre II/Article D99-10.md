@@ -4,4 +4,4 @@ Les conditions tarifaires des conventions d'interconnexion et d'accès respecten
 les principes d'objectivité et de transparence.
 
 Elles doivent pouvoir être justifiées sur demande de l'Autorité de régulation
-des télécommunications.
+des communications électroniques et des postes.

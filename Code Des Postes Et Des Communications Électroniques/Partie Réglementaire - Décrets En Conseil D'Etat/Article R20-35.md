@@ -13,8 +13,8 @@ nombre de cabines tel que résultant des obligations de service universel, aucun
 compensation n'est due.
 
 L'opérateur de service universel fournit à l'Autorité de régulation des
-télécommunications les éléments permettant de réaliser l'évaluation décrite à
-l'alinéa précédent.
+communications électroniques et des postes les éléments permettant de réaliser
+l'évaluation décrite à l'alinéa précédent.
 
 Les recettes prises en compte dans ce calcul comprennent en particulier une
 affectation aux cabines des recettes suivantes :

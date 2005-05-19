@@ -1,9 +1,9 @@
 Article D312
 ----
-I. - L'Autorité de régulation des télécommunications établit, en tant que de
-besoin, les spécifications du système de comptabilisation des coûts que les
-opérateurs soumis aux obligations mentionnées au 5° de l'article L. 38 doivent
-mettre en oeuvre.
+I. - L'Autorité de régulation des communications électroniques et des postes
+établit, en tant que de besoin, les spécifications du système de
+comptabilisation des coûts que les opérateurs soumis aux obligations mentionnées
+au 5° de l'article L. 38 doivent mettre en oeuvre.
 
 Ces opérateurs rendent publique une description du système de comptabilisation
 des coûts, conforme aux spécifications établies, le cas échéant, en application
@@ -17,10 +17,10 @@ que supporterait un investisseur dans les activités de communications
 électroniques en France.
 
 II. - Lorsqu'un opérateur est soumis à une obligation de séparation comptable,
-l'Autorité de régulation des télécommunications précise, en tant que de besoin,
-le nombre, le périmètre et le degré de détail des comptes individualisés que
-cette comptabilité doit faire apparaître ainsi que les méthodes de valorisation
-et les règles d'allocation des coûts.
+l'Autorité de régulation des communications électroniques et des postes précise,
+en tant que de besoin, le nombre, le périmètre et le degré de détail des comptes
+individualisés que cette comptabilité doit faire apparaître ainsi que les
+méthodes de valorisation et les règles d'allocation des coûts.
 
 Ces comptes individualisés permettent de retracer notamment :
 
@@ -36,26 +36,26 @@ Lorsque l'opérateur est tenu à une obligation de non-discrimination, il peut
 employés pour fournir des services d'interconnexion et d'accès ou d'autres
 services.
 
-III. - L'Autorité de régulation des télécommunications précise le format des
-documents produits par les systèmes de comptabilisation ; ces documents doivent
-présenter un degré de détail suffisant pour permettre la vérification du respect
-des obligations de non-discrimination et de reflet des coûts correspondants,
-lorsqu'elles s'appliquent.
+III. - L'Autorité de régulation des communications électroniques et des postes
+précise le format des documents produits par les systèmes de comptabilisation ;
+ces documents doivent présenter un degré de détail suffisant pour permettre la
+vérification du respect des obligations de non-discrimination et de reflet des
+coûts correspondants, lorsqu'elles s'appliquent.
 
 Les éléments pertinents du système d'information et les données comptables sont
 tenus, pendant cinq ans, à la disposition de l'Autorité de régulation des
-télécommunications.
+communications électroniques et des postes.
 
 Le respect des obligations prévues au présent article est vérifié périodiquement
 par des organismes indépendants désignés par l'Autorité de régulation des
-télécommunications. Cette vérification est assurée aux frais de chacun des
-opérateurs concernés. Les organismes désignés publient annuellement une
-attestation de conformité des comptes.
+communications électroniques et des postes. Cette vérification est assurée aux
+frais de chacun des opérateurs concernés. Les organismes désignés publient
+annuellement une attestation de conformité des comptes.
 
-L'Autorité de régulation des télécommunications peut publier certaines données
-comptables en tenant compte à la fois du degré de transparence nécessaire, en
-particulier à la vérification du principe de non-discrimination, et du respect
-du secret des affaires.
+L'Autorité de régulation des communications électroniques et des postes peut
+publier certaines données comptables en tenant compte à la fois du degré de
+transparence nécessaire, en particulier à la vérification du principe de
+non-discrimination, et du respect du secret des affaires.
 
 IV. - Les méthodes de valorisation et d'allocation des coûts utilisées pour
 l'application du présent article satisfont aux principes :

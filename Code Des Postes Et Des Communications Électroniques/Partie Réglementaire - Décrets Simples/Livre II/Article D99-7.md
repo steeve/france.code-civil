@@ -21,13 +21,14 @@ défaillance du réseau ou des cas de force majeure.
 
 Lorsqu'une interconnexion ou un accès porte gravement atteinte au bon
 fonctionnement d'un réseau d'un opérateur, celui-ci, après vérification
-technique de son réseau, en informe l'Autorité de régulation des
-télécommunications. Celle-ci peut alors, si cela est nécessaire, autoriser la
-suspension de l'interconnexion ou de l'accès. Elle en informe les parties et
-fixe alors les conditions de leur rétablissement.
+technique de son réseau, en informe l'Autorité de régulation des communications
+électroniques et des postes. Celle-ci peut alors, si cela est nécessaire,
+autoriser la suspension de l'interconnexion ou de l'accès. Elle en informe les
+parties et fixe alors les conditions de leur rétablissement.
 
 Deux opérateurs ayant conclu une convention d'interconnexion ou d'accès ont
 l'obligation de s'informer mutuellement, avec un préavis au moins égal à un an,
-sauf accord mutuel ou si l'Autorité de régulation des télécommunications en
-décide autrement, des modifications dans leur réseau qui contraignent
-l'opérateur interconnecté à modifier ou à adapter ses propres installations.
+sauf accord mutuel ou si l'Autorité de régulation des communications
+électroniques et des postes en décide autrement, des modifications dans leur
+réseau qui contraignent l'opérateur interconnecté à modifier ou à adapter ses
+propres installations.

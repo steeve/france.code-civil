@@ -41,5 +41,5 @@ la Commission supérieure du service public des postes et des communications
 
 Les litiges relatifs aux conditions techniques et financières de la fourniture
 des listes d'abonnés prévue à l'alinéa précédent peuvent être soumis à
-l'Autorité de régulation des télécommunications conformément à l'article L.
-36-8.
+l'Autorité de régulation des communications électroniques et des postes
+conformément à l'article L. 36-8.

@@ -17,8 +17,9 @@ concernées et recueillent leurs remarques éventuelles.
 Les projets de modifications mentionnées aux deux alinéas précédents, leurs
 conditions de mise en oeuvre et les délais de mise en conformité des équipements
 font l'objet d'une approbation préalable par l'Autorité de régulation des
-télécommunications. Celle-ci peut également, à la demande de l'opérateur,
-réduire à 6 mois minimum le délai prévu à l'alinéa précédent.
+communications électroniques et des postes. Celle-ci peut également, à la
+demande de l'opérateur, réduire à 6 mois minimum le délai prévu à l'alinéa
+précédent.
 
 Sans préjudice des dispositions de l'article L. 121-84 du code de la
 consommation, les informations relatives à de nouvelles offres relevant du

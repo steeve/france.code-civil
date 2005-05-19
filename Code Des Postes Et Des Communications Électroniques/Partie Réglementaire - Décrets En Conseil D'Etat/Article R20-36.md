@@ -29,15 +29,15 @@ Les opérateurs qui souhaitent offrir à leur client la possibilité de bénéfi
 des dispositions définies au 2° de l'article L. 35-1 dans les conditions prévues
 au troisième alinéa du II de l'article L. 35-3 transmettent leur demande
 simultanément au ministre chargé des communications électroniques et à
-l'Autorité de régulation des télécommunications selon la procédure décrite au
-premier alinéa du III de l'article R. 20-34. Le ministre se prononce au regard
-notamment de l'impact de la demande sur la qualité du service universel et sur
-le coût net total de la composante.
+l'Autorité de régulation des communications électroniques et des postes selon la
+procédure décrite au premier alinéa du III de l'article R. 20-34. Le ministre se
+prononce au regard notamment de l'impact de la demande sur la qualité du service
+universel et sur le coût net total de la composante.
 
 Ces opérateurs respectent l'ensemble des obligations prévues par la section 1 du
 présent chapitre relatives aux prestations de service universel qu'ils
 fournissent.
 
-Ils transmettent annuellement à l'Autorité de régulation des télécommunications
-les comptes de ces prestations, audités conformément aux dispositions de
-l'article R. 20-32.
+Ils transmettent annuellement à l'Autorité de régulation des communications
+électroniques et des postes les comptes de ces prestations, audités conformément
+aux dispositions de l'article R. 20-32.

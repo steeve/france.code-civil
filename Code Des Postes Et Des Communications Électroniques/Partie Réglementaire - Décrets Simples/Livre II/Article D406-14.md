@@ -2,8 +2,8 @@ Article D406-14
 ----
 Pour les autorisations d'utilisation de fréquences relevant de l'article L.
 42-1, le délai entre la réception de la demande complète par l'Autorité de
-régulation des télécommunications et la notification au demandeur de la décision
-ne peut excéder six semaines.
+régulation des communications électroniques et des postes et la notification au
+demandeur de la décision ne peut excéder six semaines.
 
 Par dérogation à l'alinéa précédent, lorsque la décision intervient à l'issue
 d'une procédure d'attribution en application de l'article L. 42-2, ce délai
@@ -19,5 +19,5 @@ compter de l'issue de la procédure de coordination internationale.
 
 Dans l'hypothèse où une coordination nationale est nécessaire, les autorités
 affectataires concernées sont saisies par l'Autorité de régulation des
-télécommunications et se prononcent dans un délai raisonnable permettant à
-celle-ci de respecter le délai de six semaines précité.
+communications électroniques et des postes et se prononcent dans un délai
+raisonnable permettant à celle-ci de respecter le délai de six semaines précité.

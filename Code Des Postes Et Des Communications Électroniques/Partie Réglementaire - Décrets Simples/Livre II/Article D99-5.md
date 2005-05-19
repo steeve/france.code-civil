@@ -3,7 +3,7 @@ Article D99-5
 La commission consultative des réseaux et services de communications
 électroniques est composée de vingt et un membres nommés par arrêté du ministre
 chargé des communications électroniques, après avis de l'Autorité de régulation
-des télécommunications. Elle comprend :
+des communications électroniques et des postes. Elle comprend :
 
 - sept représentants des exploitants de réseaux et fournisseurs de services
 autres que radioélectriques ;
@@ -28,21 +28,22 @@ recommandations émanant des instances européennes et internationales ;
 à la numérotation mentionnées aux articles L. 34-8 et L. 44.
 
 La commission peut être saisie, par le ministre chargé des communications
-électroniques ou par l'Autorité de régulation des télécommunications, de
-demandes d'avis, d'études ou de toute autre question relevant de son domaine de
-compétence. Elle peut décider, à l'initiative de son président et avec l'accord
-de la majorité de ses membres, de se saisir de toute question entrant dans son
-domaine de compétence. Elle en informe alors le ministre chargé des
-communications électroniques et l'Autorité de régulation des télécommunications.
+électroniques ou par l'Autorité de régulation des communications électroniques
+et des postes, de demandes d'avis, d'études ou de toute autre question relevant
+de son domaine de compétence. Elle peut décider, à l'initiative de son président
+et avec l'accord de la majorité de ses membres, de se saisir de toute question
+entrant dans son domaine de compétence. Elle en informe alors le ministre chargé
+des communications électroniques et l'Autorité de régulation des communications
+électroniques et des postes.
 
 Le président de la commission consultative des réseaux et services de
 communications électroniques transmet les avis émis par cette instance au
 ministre chargé des communications électroniques et à l'Autorité de régulation
-des télécommunications. Le ministre transmet à la Commission supérieure du
-service public des postes et des communications électroniques les avis que la
-commission consultative des réseaux et services de communications électroniques
-a émis sur les projets sur lesquels elle a été consultée. Les avis émis par la
-commission peuvent être rendus publics, soit à l'initiative de l'autorité qui
-les a sollicités, soit à l'initiative du président de la commission, avec
-l'accord de la majorité des membres de cette instance et après que l'autorité de
-saisine en a été informée.
+des communications électroniques et des postes. Le ministre transmet à la
+Commission supérieure du service public des postes et des communications
+électroniques les avis que la commission consultative des réseaux et services de
+communications électroniques a émis sur les projets sur lesquels elle a été
+consultée. Les avis émis par la commission peuvent être rendus publics, soit à
+l'initiative de l'autorité qui les a sollicités, soit à l'initiative du
+président de la commission, avec l'accord de la majorité des membres de cette
+instance et après que l'autorité de saisine en a été informée.

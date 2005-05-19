@@ -1,8 +1,8 @@
 Article R9-9
 ----
 Dans le délai prévu à l'article précédent, l'Autorité de régulation des
-télécommunications transmet au ministre chargé des communications électroniques
-un dossier comportant les éléments suivants :
+communications électroniques et des postes transmet au ministre chargé des
+communications électroniques un dossier comportant les éléments suivants :
 
 1° La demande d'autorisation complète ;
 
@@ -20,4 +20,4 @@ ministre chargé des communications électroniques délivre l'autorisation relev
 de l'article L. 34-1 ou notifie son refus au demandeur. Ce délai est porté à un
 mois pour les autorisations relevant de l'article L. 33-1 ou conjointement des
 articles L. 33-1 et L. 34-1. Le ministre informe immédiatement l'Autorité de
-régulation des télécommunications de sa décision.
+régulation des communications électroniques et des postes de sa décision.

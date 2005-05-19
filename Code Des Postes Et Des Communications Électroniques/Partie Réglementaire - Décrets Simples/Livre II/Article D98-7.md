@@ -1,8 +1,8 @@
 Article D98-7
 ----
 A compter de la réception de la demande complète, l'Autorité de régulation des
-télécommunications délivre ou refuse les autorisations dans un délai de six
-semaines.
+communications électroniques et des postes délivre ou refuse les autorisations
+dans un délai de six semaines.
 
 Ce délai est porté à quatre mois lorsque la demande concerne :
 

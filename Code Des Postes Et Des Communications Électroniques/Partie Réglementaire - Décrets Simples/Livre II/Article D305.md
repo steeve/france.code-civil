@@ -1,11 +1,11 @@
 Article D305
 ----
 Sous réserve du deuxième alinéa de l'article L. 37-3, l'Autorité de régulation
-des télécommunications peut adopter les décisions notifiées à la Commission
-européenne en application du premier alinéa de l'article L. 37-3 au terme d'un
-délai d'un mois, qui court à compter de la date de réception de la notification,
-ou au terme de la consultation publique prévue au III de l'article L. 32-1 si ce
-délai est plus long.
+des communications électroniques et des postes peut adopter les décisions
+notifiées à la Commission européenne en application du premier alinéa de
+l'article L. 37-3 au terme d'un délai d'un mois, qui court à compter de la date
+de réception de la notification, ou au terme de la consultation publique prévue
+au III de l'article L. 32-1 si ce délai est plus long.
 
 La notification indique, s'il y a lieu, le caractère confidentiel des
 informations transmises, et comporte tous les documents nécessaires à la

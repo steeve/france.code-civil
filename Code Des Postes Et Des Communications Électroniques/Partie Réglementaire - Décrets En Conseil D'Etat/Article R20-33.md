@@ -29,7 +29,7 @@ coûts de réseau de commutation et de transmission correspondant à l'écouleme
 du trafic entrant et sortant relatif à cette zone. Les coûts pris en compte sont
 ceux d'un opérateur efficace.
 
-III. - L'Autorité de régulation des télécommunications précise et publie les
-règles d'imputation comptable des coûts et des recettes nécessaires aux calculs
-prévus au II et contrôle les modèles utilisés pour évaluer les coûts nets, et
-délimiter les zones considérées.
+III. - L'Autorité de régulation des communications électroniques et des postes
+précise et publie les règles d'imputation comptable des coûts et des recettes
+nécessaires aux calculs prévus au II et contrôle les modèles utilisés pour
+évaluer les coûts nets, et délimiter les zones considérées.

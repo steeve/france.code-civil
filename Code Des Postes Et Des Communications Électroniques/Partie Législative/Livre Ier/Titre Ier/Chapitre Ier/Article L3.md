@@ -1,6 +1,7 @@
 Article L3
 ----
-Les receveurs et agents des bureaux de poste des villes ou endroits maritimes
-sont chargés, à l'exclusion de toute autre personne, du service des lettres et
-paquets d'un poids de 1 kilogramme et au-dessous en provenance ou à destination
-des départements et territoires d'outre-mer.
+Les prestataires de services postaux non réservés relatifs aux envois de
+correspondance, y compris transfrontalière, doivent être titulaires d'une
+autorisation délivrée dans les conditions prévues à l'article L. 5-1, sauf si
+leur activité se limite à la correspondance intérieure et n'inclut pas la
+distribution.

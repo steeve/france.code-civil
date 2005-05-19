@@ -1,7 +1,7 @@
 Article R9-7
 ----
 Dès qu'il reçoit une demande d'autorisation, le président de l'Autorité de
-régulation des télécommunications en accuse réception.
+régulation des communications électroniques et des postes en accuse réception.
 
 Dans un délai de dix jours ouvrables à compter de la réception de toute demande
 relevant de l'article L. 34-1, et dans un délai de vingt jours ouvrables pour
@@ -12,6 +12,6 @@ soit que la demande est incomplète ou comporte des pièces dont la traduction e
 requise. Il invite alors le demandeur, le cas échéant, à fournir les pièces
 complémentaires et en accuse réception.
 
-Le président de l'Autorité de régulation des télécommunications informe le
-ministre chargé des communications électroniques des demandes déposées dès que
-celles-ci sont complètes.
+Le président de l'Autorité de régulation des communications électroniques et des
+postes informe le ministre chargé des communications électroniques des demandes
+déposées dès que celles-ci sont complètes.

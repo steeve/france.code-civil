@@ -23,5 +23,5 @@ modalités d'application du présent article. Il fixe les conditions dans
 lesquelles les tarifs du service universel et sa qualité sont contrôlés et
 précise, notamment, les cas dans lesquels les tarifs du service universel
 peuvent faire l'objet soit d'une mesure d'encadrement pluriannuel, soit d'une
-opposition ou d'un avis préalable de l'Autorité de régulation des
-télécommunications.
+opposition ou d'un avis préalable de l'Autorité de régulation des communications
+électroniques et des postes.

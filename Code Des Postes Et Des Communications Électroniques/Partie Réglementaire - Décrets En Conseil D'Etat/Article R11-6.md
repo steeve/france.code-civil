@@ -10,4 +10,5 @@ Le premier président fixe par ordonnance, dès le dépôt de la requête, la da
 l'audience à laquelle la demande de sursis sera examinée.
 
 Le demandeur au sursis dénonce à l'autre partie et à l'Autorité de régulation
-des télécommunications une copie de la requête et de l'ordonnance.
+des communications électroniques et des postes une copie de la requête et de
+l'ordonnance.

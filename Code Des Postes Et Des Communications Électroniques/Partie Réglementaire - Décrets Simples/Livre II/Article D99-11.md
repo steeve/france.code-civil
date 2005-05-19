@@ -1,11 +1,12 @@
 Article D99-11
 ----
 En application du III de l'article L. 34-8 et de l'article L. 37-2, l'Autorité
-de régulation des télécommunications peut, dans la mesure de ce qui est
-nécessaire, imposer aux opérateurs qui contrôlent l'accès aux utilisateurs
-finals des obligations destinées à assurer la connectivité de bout en bout,
-notamment l'obligation d'assurer l'interconnexion de leurs réseaux ainsi que
-l'interopérabilité des services fournis sur ces réseaux ou sur d'autres réseaux.
+de régulation des communications électroniques et des postes peut, dans la
+mesure de ce qui est nécessaire, imposer aux opérateurs qui contrôlent l'accès
+aux utilisateurs finals des obligations destinées à assurer la connectivité de
+bout en bout, notamment l'obligation d'assurer l'interconnexion de leurs réseaux
+ainsi que l'interopérabilité des services fournis sur ces réseaux ou sur
+d'autres réseaux.
 
 Ces obligations sont proportionnées, objectives, transparentes et non
 discriminatoires et adoptées dans le respect des procédures prévues aux articles

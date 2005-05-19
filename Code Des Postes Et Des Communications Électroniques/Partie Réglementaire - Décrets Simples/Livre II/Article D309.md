@@ -9,4 +9,5 @@ services, ou pour ceux de leurs filiales ou partenaires.
 
 Les modalités techniques et financières des services d'interconnexion et d'accès
 qu'ils offrent à leurs propres services, filiales et partenaires doivent pouvoir
-être justifiées sur demande de l'Autorité de régulation des télécommunications.
+être justifiées sur demande de l'Autorité de régulation des communications
+électroniques et des postes.

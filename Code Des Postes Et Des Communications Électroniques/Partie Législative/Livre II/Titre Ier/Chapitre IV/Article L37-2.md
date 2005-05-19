@@ -1,6 +1,7 @@
 Article L37-2
 ----
-L'Autorité de régulation des télécommunications fixe en les motivant :
+L'Autorité de régulation des communications électroniques et des postes fixe en
+les motivant :
 
 1° Les obligations prévues au III de l'article L. 34-8 ;
 

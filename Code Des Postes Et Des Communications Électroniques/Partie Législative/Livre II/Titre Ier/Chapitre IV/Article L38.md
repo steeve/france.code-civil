@@ -8,10 +8,11 @@ proportionnées à la réalisation des objectifs mentionnés à l'article L. 32-
 1° Rendre publiques des informations concernant l'interconnexion ou l'accès,
 notamment publier une offre technique et tarifaire détaillée d'interconnexion ou
 d'accès lorsqu'ils sont soumis à des obligations de non-discrimination ;
-l'Autorité de régulation des télécommunications peut imposer, à tout moment, des
-modifications à une telle offre pour la mettre en conformité avec les
-dispositions du présent code. L'opérateur communique à cette fin à l'Autorité de
-régulation des télécommunications toute information nécessaire ;
+l'Autorité de régulation des communications électroniques et des postes peut
+imposer, à tout moment, des modifications à une telle offre pour la mettre en
+conformité avec les dispositions du présent code. L'opérateur communique à cette
+fin à l'Autorité de régulation des communications électroniques et des postes
+toute information nécessaire ;
 
 2° Fournir des prestations d'interconnexion ou d'accès dans des conditions non
 discriminatoires ;

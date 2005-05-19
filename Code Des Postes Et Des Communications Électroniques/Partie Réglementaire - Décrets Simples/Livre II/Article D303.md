@@ -2,8 +2,8 @@ Article D303
 ----
 Lorsqu'elle détermine qu'un opérateur exerce une influence significative sur un
 marché du secteur des communications électroniques, l'Autorité de régulation des
-télécommunications peut lui imposer une ou plusieurs obligations parmi celles
-prévues aux articles D. 307 à D. 315.
+communications électroniques et des postes peut lui imposer une ou plusieurs
+obligations parmi celles prévues aux articles D. 307 à D. 315.
 
 Les projets de mesures correspondants font l'objet d'une consultation publique
 dans les conditions prévues aux articles L. 32-1 et D. 304. Ils font l'objet

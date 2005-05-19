@@ -10,9 +10,13 @@ dans les parties communes des habitations collectives, dans les locaux
 commerciaux, dans les lieux publics ou sur la voie publique, est tenue de
 contribuer à la collecte, la valorisation et l'élimination des déchets ainsi
 produits. Cette contribution peut prendre la forme de prestations en nature.
-Toutefois, est exclue de cette contribution la mise à disposition du public
-d'informations par un service public lorsqu'elle résulte exclusivement d'une
-obligation découlant d'une loi ou d'un règlement.
+Toutefois, sont exclues de cette contribution la mise à disposition du public
+d'informations par un service public, lorsqu'elle résulte exclusivement d'une
+obligation découlant d'une loi ou d'un règlement, ou par une publication de
+presse, au sens de l'article 1er de la loi n° 86-897 du 1er août 1986 portant
+réforme du régime juridique de la presse, et la distribution d'envois de
+correspondance au sens de l'article L. 1 du code des postes et des
+communications électroniques.
 
 Sous sa forme financière, la contribution est remise à un organisme agréé par
 les ministères chargés de l'environnement, des collectivités territoriales, de

@@ -7,8 +7,8 @@ proposées par le président de la commission.
 
 Ces personnalités ne peuvent exercer des fonctions soit auprès du ministre
 chargé des postes et des communications électroniques ou des établissements
-relevant de celui-ci, soit auprès de l'Autorité de régulation des
-télécommunications, soit auprès des opérateurs des secteurs des postes et
-communications électroniques, ni conserver, ni prendre durant leurs fonctions au
-sein de la commission, par eux-mêmes ou par personne interposée, des intérêts de
-nature à compromettre leur indépendance.
+relevant de celui-ci, soit auprès de l'Autorité de régulation des communications
+électroniques et des postes, soit auprès des opérateurs des secteurs des postes
+et communications électroniques, ni conserver, ni prendre durant leurs fonctions
+au sein de la commission, par eux-mêmes ou par personne interposée, des intérêts
+de nature à compromettre leur indépendance.

@@ -1,12 +1,13 @@
 Article D310
 ----
-L'Autorité de régulation des télécommunications peut imposer les obligations
-prévues au 3° de l'article L. 38, notamment lorsqu'elle considère qu'un refus
-d'accorder l'accès ou des modalités et conditions déraisonnables ayant un effet
-similaire empêcheraient l'émergence d'un marché de détail concurrentiel durable
-ou risqueraient d'être préjudiciables aux utilisateurs finaux. L'Autorité de
-régulation des télécommunications peut notamment imposer aux opérateurs réputés
-exercer une influence significative sur un marché du secteur des communications
+L'Autorité de régulation des communications électroniques et des postes peut
+imposer les obligations prévues au 3° de l'article L. 38, notamment lorsqu'elle
+considère qu'un refus d'accorder l'accès ou des modalités et conditions
+déraisonnables ayant un effet similaire empêcheraient l'émergence d'un marché de
+détail concurrentiel durable ou risqueraient d'être préjudiciables aux
+utilisateurs finaux. L'Autorité de régulation des communications électroniques
+et des postes peut notamment imposer aux opérateurs réputés exercer une
+influence significative sur un marché du secteur des communications
 électroniques l'obligation :
 
 1° D'accorder à des tiers l'accès à des éléments ou ressources de réseau
@@ -37,7 +38,7 @@ concurrence loyale dans la fourniture des services ;
 
 9° D'interconnecter des réseaux ou des moyens qui y sont associés.
 
-L'Autorité de régulation des télécommunications définit en tant que de besoin
-les conditions de mise en oeuvre des obligations prévues au présent article,
-notamment les délais, de façon à assurer leur exécution dans des conditions
-équitables et raisonnables.
+L'Autorité de régulation des communications électroniques et des postes définit
+en tant que de besoin les conditions de mise en oeuvre des obligations prévues
+au présent article, notamment les délais, de façon à assurer leur exécution dans
+des conditions équitables et raisonnables.

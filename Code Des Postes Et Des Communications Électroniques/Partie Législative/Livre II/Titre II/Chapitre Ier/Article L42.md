@@ -2,8 +2,8 @@ Article L42
 ----
 Pour chacune des fréquences ou bandes de fréquences radioélectriques dont
 l'assignation lui a été confiée en application de l'article L. 41, l'Autorité de
-régulation des télécommunications fixe, dans les conditions prévues à l'article
-L. 36-6 :
+régulation des communications électroniques et des postes fixe, dans les
+conditions prévues à l'article L. 36-6 :
 
 1° Le type d'équipement, de réseau ou de service auquel l'utilisation de la
 fréquence ou de la bande de fréquences est réservée ;

@@ -1,7 +1,8 @@
 Article D99-9
 ----
 Les accords d'interconnexion et d'accès précisent au minimum, sauf accord
-particulier de l'Autorité de régulation des télécommunications ;
+particulier de l'Autorité de régulation des communications électroniques et des
+postes ;
 
 Au titre des principes généraux :
 

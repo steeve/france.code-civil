@@ -43,33 +43,34 @@ sont effectués au cours de l'année considérée, en deux versements d'un monta
 égal à la moitié des sommes dues, le 15 janvier et le 15 septembre.
 
 La décision prévue au premier alinéa du III de l'article L. 35-3 du code des
-postes et des communications électroniques est prise par l'Autorité de tes
-régulation des télécommunications.
+postes et des communications électroniques est prise par l'Autorité de
+régulation des communications électroniques et des postes.
 
 Si un nouvel opérateur fournit le service universel, l'Autorité de régulation
-des télécommunications évalue le coût prévisionnel de ce service à partir
-d'informations concernant l'année précédant l'année de fourniture du service,
-communiquées par le nouvel opérateur, au plus tard le 31 octobre de l'année
-précédant l'année en cause.
+des communications électroniques et des postes évalue le coût prévisionnel de ce
+service à partir d'informations concernant l'année précédant l'année de
+fourniture du service, communiquées par le nouvel opérateur, au plus tard le 31
+octobre de l'année précédant l'année en cause.
 
-L'Autorité de régulation des télécommunications notifie le montant des
-contributions provisionnelles à la Caisse des dépôts et consignations et à
-chaque opérateur au plus tard le 15 décembre de l'année précédant l'année
-considérée. La Caisse des dépôts et consignations traite ces informations de
-manière confidentielle.
+L'Autorité de régulation des communications électroniques et des postes notifie
+le montant des contributions provisionnelles à la Caisse des dépôts et
+consignations et à chaque opérateur au plus tard le 15 décembre de l'année
+précédant l'année considérée. La Caisse des dépôts et consignations traite ces
+informations de manière confidentielle.
 
 Les soldes définitifs relatifs à l'année considérée sont constatés et rendus
-publics par l'Autorité de régulation des télécommunications au plus tard le 30
-avril de la deuxième année suivant l'année considérée. L'Autorité de régulation
-des télécommunications notifie ces valeurs à chaque opérateur et à la Caisse des
-dépôts et consignations au plus tard le 31 mai de la deuxième année suivant
-l'année considérée. Elle évalue ces soldes notamment sur la base des résultats
-de la comptabilité auditée des opérateurs relative à l'année considérée,
-mentionnée au I de l'article L. 35-3, et des chiffre d'affaires pour cette même
-année. Les versements de la régulation des contributions interviennent au plus
-tard le 20 septembre de la deuxième année suivant l'année considérée. Ceux-ci
-comprennent le versement d'un intérêt au taux de l'Euribor 12 mois qui court des
-dates d'échéance à la date de régularisation.
+publics par l'Autorité de régulation des communications électroniques et des
+postes au plus tard le 30 avril de la deuxième année suivant l'année considérée.
+L'Autorité de régulation des communications électroniques et des postes notifie
+ces valeurs à chaque opérateur et à la Caisse des dépôts et consignations au
+plus tard le 31 mai de la deuxième année suivant l'année considérée. Elle évalue
+ces soldes notamment sur la base des résultats de la comptabilité auditée des
+opérateurs relative à l'année considérée, mentionnée au I de l'article L. 35-3,
+et des chiffre d'affaires pour cette même année. Les versements de la régulation
+des contributions interviennent au plus tard le 20 septembre de la deuxième
+année suivant l'année considérée. Ceux-ci comprennent le versement d'un intérêt
+au taux de l'Euribor 12 mois qui court des dates d'échéance à la date de
+régularisation.
 
 En cas de défaillance d'un opérateur, et si les sommes dues par cet opérateur ne
 sont pas recouvrées dans un délai d'un an à compter de la défaillance telle que

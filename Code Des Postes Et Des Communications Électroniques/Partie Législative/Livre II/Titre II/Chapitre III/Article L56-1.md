@@ -3,9 +3,9 @@ Article L56-1
 Les servitudes radioélectriques dont bénéficient les exploitants de réseaux
 ouverts au public pour la protection des réseaux de communications électroniques
 sont instituées dans les conditions du présent article, à l'exception de celles
-concernant les centres, désignés par l'Autorité de régulation des
-télécommunications, qu'ils exploitent pour les besoins de la défense nationale
-ou de la sécurité publique.
+concernant les centres, désignés par l'Autorité de régulation des communications
+électroniques et des postes, qu'ils exploitent pour les besoins de la défense
+nationale ou de la sécurité publique.
 
 1° Les propriétés voisines des stations radioélectriques peuvent être frappées
 de servitudes destinées à assurer une bonne propagation des ondes.

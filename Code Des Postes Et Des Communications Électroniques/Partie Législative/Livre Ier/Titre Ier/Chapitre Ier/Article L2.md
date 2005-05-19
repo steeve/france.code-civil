@@ -8,16 +8,33 @@ dédommagement, en cas de perte, de vol, de détérioration ou de non-respect de
 engagements de qualité du service. Elle est également soumise à des obligations
 comptables et d'information spécifiques.
 
-Les services nationaux et transfrontières d'envois de correspondance, que ce
-soit par courrier accéléré ou non, y compris le publipostage, d'un poids
-inférieur à 350 grammes et dont le prix est inférieur à cinq fois le tarif
-applicable à un envoi de correspondance du premier échelon de poids de la
-catégorie normalisée la plus rapide, sont réservés à La Poste.
+Les services postaux relatifs aux envois de correspondance intérieure ou en
+provenance de l'étranger, y compris ceux assurés par courrier accéléré, sont
+réservés à La Poste lorsque leur poids ne dépasse pas 100 grammes et que leur
+prix est inférieur à trois fois le tarif de base. Constituent le secteur
+réservé, à compter du 1er janvier 2006, les services portant sur les envois de
+correspondance intérieure ou en provenance de l'étranger, y compris ceux assurés
+par courrier accéléré, d'un poids ne dépassant pas 50 grammes et d'un prix
+inférieur à deux fois et demie le tarif de base. Les envois de livres,
+catalogues, journaux et périodiques sont exclus du secteur réservé à La Poste.
 
-Le service des envois recommandés dont l'utilisation est prescrite par un texte
-légal ou réglementaire est réservé à La Poste qui est soumise à ce titre à des
-obligations.
+Le tarif de base mentionné ci-dessus est le tarif applicable à un envoi de
+correspondance du premier échelon de poids de la catégorie normalisée la plus
+rapide. Tant qu'il sert de référence pour la délimitation des services réservés,
+sa valeur ne peut excéder 1 euro.
 
-Les dispositions d'application du présent chapitre sont fixées par décret en
-Conseil d'Etat après avis de la Commission supérieure du service public des
-postes et des communications électroniques.
+Par dérogation au deuxième alinéa, la personne qui est à l'origine des envois de
+correspondance ou une personne agissant exclusivement en son nom peut assurer le
+service de ses propres envois.
+
+Un décret en Conseil d'Etat, pris après consultation de La Poste, et après avis
+de l'Autorité de régulation des communications électroniques et des postes et de
+la Commission supérieure du service public des postes et des communications
+électroniques, précise les caractéristiques de l'offre de service universel que
+La Poste est tenue d'assurer.
+
+Ce décret fixe également les droits et obligations de La Poste au titre de ses
+missions de service public des envois postaux, comprenant le régime spécifique
+offert à la presse en vertu du deuxième alinéa de l'article L. 4, ainsi que les
+conditions dans lesquelles sont assurées la neutralité et la confidentialité des
+services qu'elle fournit.

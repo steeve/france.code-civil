@@ -25,4 +25,4 @@ mentionnées au 4° de l'article L. 35-1 et qui s'imposent à l'ensemble des
 opérateurs ne peuvent faire l'objet d'une compensation.
 
 Le coût net du service universel est rendu public par l'Autorité de régulation
-des télécommunications.
+des communications électroniques et des postes.

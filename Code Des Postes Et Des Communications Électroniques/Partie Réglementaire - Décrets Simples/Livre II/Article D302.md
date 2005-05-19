@@ -1,11 +1,11 @@
 Article D302
 ----
 I. - Pour l'application du deuxième alinéa de l'article L. 37-1, l'Autorité de
-régulation des télécommunications tient le plus grand compte des lignes
-directrices adoptées par la Commission européenne en application de l'article 15
-de la directive 2002/21/CE du Parlement européen et du Conseil relative à un
-cadre réglementaire commun pour les réseaux et services de communications
-électroniques (directive cadre).
+régulation des communications électroniques et des postes tient le plus grand
+compte des lignes directrices adoptées par la Commission européenne en
+application de l'article 15 de la directive 2002/21/CE du Parlement européen et
+du Conseil relative à un cadre réglementaire commun pour les réseaux et services
+de communications électroniques (directive cadre).
 
 Elle procède à l'analyse des marchés transnationaux recensés dans la décision
 adoptée par la Commission européenne en application de l'article 15 de la

@@ -7,4 +7,5 @@ utilisateurs dans des conditions identiques et avec la même qualité.
 
 Ces opérateurs ne peuvent déroger aux conditions de fourniture qu'ils ont
 publiées, lorsqu'ils estiment déraisonnable une demande qui leur est adressée,
-qu'après accord de l'Autorité de régulation des télécommunications.
+qu'après accord de l'Autorité de régulation des communications électroniques et
+des postes.

@@ -3,8 +3,8 @@ Article R20-42
 Le compte spécifique mentionné à l'article R. 20-41 est géré par la Caisse des
 dépôts et consignations sous le contrôle d'un comité de trois membres présidé
 par un magistrat de la Cour des comptes et comprenant un membre de l'Autorité de
-régulation des télécommunications et un représentant de la Caisse des dépôts et
-consignations.
+régulation des communications électroniques et des postes et un représentant de
+la Caisse des dépôts et consignations.
 
 Le compte spécifique retrace en charge les frais de gestion exposés par la
 Caisse des dépôts et consignations au titre des missions mentionnées à l'article

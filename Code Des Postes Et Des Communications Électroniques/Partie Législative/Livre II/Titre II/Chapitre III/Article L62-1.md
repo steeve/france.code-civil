@@ -4,8 +4,8 @@ Les servitudes dont bénéficient les exploitants de réseaux ouverts au public
 pour la protection des réseaux de communications électroniques contre les
 perturbations radioélectriques sont instituées dans les conditions du présent
 article, à l'exception de celles concernant les centres, désignés par l'Autorité
-de régulation des télécommunications, qu'ils exploitent pour les besoins de la
-défense nationale ou de la sécurité publique.
+de régulation des communications électroniques et des postes, qu'ils exploitent
+pour les besoins de la défense nationale ou de la sécurité publique.
 
 1° Les abords des centres exploités par les opérateurs autorisés peuvent être
 frappés de servitudes destinées à éviter les perturbations électromagnétiques.

@@ -1,23 +1,23 @@
 Article L42-2
 ----
 Lorsque la bonne utilisation des fréquences l'exige, l'Autorité de régulation
-des télécommunications peut, après consultation publique, limiter, dans une
-mesure permettant d'assurer des conditions de concurrence effective, le nombre
-d'autorisations de les utiliser.
+des communications électroniques et des postes peut, après consultation
+publique, limiter, dans une mesure permettant d'assurer des conditions de
+concurrence effective, le nombre d'autorisations de les utiliser.
 
 Le ministre chargé des communications électroniques fixe, sur proposition de
-l'Autorité de régulation des télécommunications, les conditions d'attribution et
-de modification des autorisations d'utilisation correspondant à ces fréquences
-ainsi que la durée de la procédure d'attribution, qui ne peut excéder un délai
-fixé par décret.
+l'Autorité de régulation des communications électroniques et des postes, les
+conditions d'attribution et de modification des autorisations d'utilisation
+correspondant à ces fréquences ainsi que la durée de la procédure d'attribution,
+qui ne peut excéder un délai fixé par décret.
 
 La sélection des titulaires de ces autorisations se fait par appel à
 candidatures sur des critères portant sur les conditions d'utilisation
 mentionnées à l'article L. 42-1 ou sur la contribution à la réalisation des
 objectifs mentionnés à l'article L. 32-1.
 
-L'Autorité de régulation des télécommunications conduit la procédure de
-sélection et assigne les fréquences correspondantes.
+L'Autorité de régulation des communications électroniques et des postes conduit
+la procédure de sélection et assigne les fréquences correspondantes.
 
 Le ministre peut prévoir que l'un des critères de sélection est constitué par le
 montant de la redevance que les candidats s'engagent à verser si la fréquence ou

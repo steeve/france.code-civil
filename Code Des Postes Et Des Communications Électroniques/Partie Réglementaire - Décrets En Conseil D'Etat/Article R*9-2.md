@@ -1,7 +1,7 @@
 Article R*9-2
 ----
 La déclaration préalable prévue à l'article L. 34-4 est adressée à l'Autorité de
-régulation des télécommunications.
+régulation des communications électroniques et des postes.
 
 Cette déclaration comporte les éléments suivants :
 
@@ -17,5 +17,5 @@ Cette déclaration comporte les éléments suivants :
 concerné a été informé par le demandeur de son projet.
 
 Les modifications concernant les éléments figurant dans la déclaration doivent
-être portées à la connaissance de l'Autorité de régulation des
-télécommunications.
+être portées à la connaissance de l'Autorité de régulation des communications
+électroniques et des postes.

@@ -31,5 +31,5 @@ de ce délai, les pénalités raisonnables éventuellement exigées ;
 Ces opérateurs rendent publiques les statistiques relatives au délai de
 fourniture type et au temps de réparation type des liaisons louées, selon des
 modalités de calcul et une périodicité précisées par une décision de l'Autorité
-de régulation des télécommunications dans les conditions prévues par l'article
-L. 36-6.
+de régulation des communications électroniques et des postes dans les conditions
+prévues par l'article L. 36-6.

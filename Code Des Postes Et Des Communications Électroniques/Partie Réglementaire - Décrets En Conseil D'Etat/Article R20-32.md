@@ -7,11 +7,12 @@ net de cette obligation et de vérifier le respect du principe de l'orientation
 des tarifs vers les coûts.
 
 Les éléments pertinents du système d'information et les données comptables sont
-mis à la disposition de l'Autorité de régulation des télécommunications à la
-demande de cette dernière. Ils sont audités périodiquement aux frais de
-l'opérateur par un organisme indépendant désigné par l'Autorité de régulation
-des télécommunications, de manière à permettre une mise à jour annuelle des
-éléments et données nécessaires à l'application de la présente section. Les
-auditeurs doivent être indépendants de l'opérateur et de ses commissaires aux
-comptes. Les conclusions de l'audit sont rendues publiques par l'Autorité de
-régulation des télécommunications.
+mis à la disposition de l'Autorité de régulation des communications
+électroniques et des postes à la demande de cette dernière. Ils sont audités
+périodiquement aux frais de l'opérateur par un organisme indépendant désigné par
+l'Autorité de régulation des communications électroniques et des postes, de
+manière à permettre une mise à jour annuelle des éléments et données nécessaires
+à l'application de la présente section. Les auditeurs doivent être indépendants
+de l'opérateur et de ses commissaires aux comptes. Les conclusions de l'audit
+sont rendues publiques par l'Autorité de régulation des communications
+électroniques et des postes.

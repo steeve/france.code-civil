@@ -4,7 +4,8 @@ I. - L'interconnexion ou l'accès font l'objet d'une convention de droit privé
 entre les parties concernées. Cette convention détermine, dans le respect des
 dispositions du présent code et des décisions prises pour son application, les
 conditions techniques et financières de l'interconnexion ou de l'accès. Elle est
-communiquée à l'Autorité de régulation des télécommunications à sa demande.
+communiquée à l'Autorité de régulation des communications électroniques et des
+postes à sa demande.
 
 Lorsque cela est indispensable pour respecter les objectifs définis à l'article
 L. 32-1, l'autorité peut imposer, de manière objective, transparente, non

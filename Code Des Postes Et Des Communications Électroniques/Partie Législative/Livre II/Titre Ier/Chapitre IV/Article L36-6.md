@@ -3,8 +3,8 @@ Article L36-6
 Dans le respect des dispositions du présent code et de ses règlements
 d'application, et, lorsque ces décisions ont un effet notable sur la diffusion
 de services de radio et de télévision, après avis du Conseil supérieur de
-l'audiovisuel, l'Autorité de régulation des télécommunications précise les
-règles concernant :
+l'audiovisuel, l'Autorité de régulation des communications électroniques et des
+postes précise les règles concernant :
 
 1° Les droits et obligations afférents à l'exploitation des différentes
 catégories de réseaux et de services, en application de l'article L. 33-1 ;
