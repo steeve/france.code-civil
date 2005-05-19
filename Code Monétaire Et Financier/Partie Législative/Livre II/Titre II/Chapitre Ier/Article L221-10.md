@@ -1,5 +1,4 @@
 Article L221-10
 ----
-La Poste ouvre un compte sur livret à toute personne par laquelle ou au nom de
-laquelle des fonds sont versés, à titre d'épargne, dans un de ses
-établissements.
+L'établissement de crédit visé à l'article L. 518-26 ouvre un compte sur livret
+à toute personne par laquelle des fonds sont versés, à titre d'épargne.

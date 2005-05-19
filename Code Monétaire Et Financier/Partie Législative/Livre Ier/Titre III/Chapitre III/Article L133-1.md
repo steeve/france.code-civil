@@ -4,12 +4,12 @@ Les établissements de crédit, les entreprises d'investissement, les succursale
 situées en France d'établissements de crédit étrangers, d'entreprises
 d'investissement étrangères, d'établissements financiers étrangers tels que
 définis à l'article L. 511-21 et, par exception à l'article L. 518-1, le Trésor
-public, les services financiers de La Poste, la Banque de France, l'Institut
-d'émission des départements d'outre-mer, l'Institut d'émission d'outre-mer et la
-Caisse des dépôts et consignations respectent les dispositions suivantes
-lorsqu'ils effectuent des virements au sein de l'Espace économique européen
-libellés dans la monnaie d'un des Etats parties à l'accord sur l'Espace
-économique européen, sur ordre ou au bénéfice de leur clientèle :
+public, la Banque de France, l'Institut d'émission des départements d'outre-mer,
+l'Institut d'émission d'outre-mer et la Caisse des dépôts et consignations
+respectent les dispositions suivantes lorsqu'ils effectuent des virements au
+sein de l'Espace économique européen libellés dans la monnaie d'un des Etats
+parties à l'accord sur l'Espace économique européen, sur ordre ou au bénéfice de
+leur clientèle :
 
 1. Les retards dans l'exécution des virements effectués dont le montant est au
 plus égal à un seuil fixé par un arrêté du ministre chargé de l'économie donnent

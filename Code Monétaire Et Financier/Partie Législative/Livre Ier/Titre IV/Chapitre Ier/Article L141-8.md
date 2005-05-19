@@ -4,9 +4,8 @@ Peuvent être titulaires de comptes à la Banque de France :
 
 1. Les organismes régis par les dispositions de l'article L. 511-9 ;
 
-2. Le Trésor public, les services financiers de La Poste, l'institut d'émission
-des départements d'outre-mer, l'institut d'émission d'outre-mer et la caisse des
-dépôts et consignations ;
+2. Le Trésor public, l'institut d'émission des départements d'outre-mer,
+l'institut d'émission d'outre-mer et la caisse des dépôts et consignations ;
 
 3. Les prestataires de services d'investissement régis par le titre III du livre
 V ;

@@ -2,7 +2,7 @@ Article L131-4
 ----
 Le chèque ne peut être tiré que sur un établissement de crédit, un prestataire
 de services d'investissement, le Trésor public, la Caisse des dépôts et
-consignations, la Banque de France, ayant au moment de la création du titre des
+consignations, la Banque de France, ayant au moment de la création du titre, des
 fonds à la disposition du tireur et conformément à une convention expresse ou
 tacite d'après laquelle le tireur a le droit de disposer de ces fonds par
 chèque.
