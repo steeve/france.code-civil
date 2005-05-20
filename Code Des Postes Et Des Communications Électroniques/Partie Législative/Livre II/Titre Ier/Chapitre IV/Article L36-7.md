@@ -1,6 +1,6 @@
 Article L36-7
 ----
-L'Autorité de régulation des télécommunications :
+L'Autorité de régulation des communications électroniques et des postes :
 
 1° Reçoit les déclarations prévues à l'article L. 33-1 ;
 

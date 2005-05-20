@@ -4,10 +4,10 @@ Le ministre chargé des communications électroniques arrête la liste des
 fréquences ou bandes de fréquences dont les autorisations peuvent faire l'objet
 d'une cession.
 
-Tout projet de cession est notifié à l'Autorité de régulation des
-télécommunications. Lorsqu'un projet porte sur une fréquence qui a été assignée
-en application de l'article L. 42-2 ou est utilisée pour l'exercice de missions
-de service public, la cession est soumise à approbation de l'autorité.
+Tout projet de cession est notifié à l'Autorité de régulation des communications
+électroniques et des postes. Lorsqu'un projet porte sur une fréquence qui a été
+assignée en application de l'article L. 42-2 ou est utilisée pour l'exercice de
+missions de service public, la cession est soumise à approbation de l'autorité.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article,
 et notamment :

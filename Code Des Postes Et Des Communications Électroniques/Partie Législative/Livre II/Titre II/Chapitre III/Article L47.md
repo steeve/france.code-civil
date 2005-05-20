@@ -25,8 +25,8 @@ l'opérateur autorisé assume, dans la limite du contrat conclu entre les partie
 l'entretien des infrastructures et des équipements qui empruntent ses
 installations et qui sont placés sous sa responsabilité, moyennant paiement
 d'une contribution négociée avec l'opérateur. En cas de litige entre opérateurs,
-l'Autorité de régulation des télécommunications peut être saisie, dans les
-conditions fixées à l'article L. 36-8.
+l'Autorité de régulation des communications électroniques et des postes peut
+être saisie, dans les conditions fixées à l'article L. 36-8.
 
 La permission de voirie ne peut contenir des dispositions relatives aux
 conditions commerciales de l'exploitation. Elle donne lieu à versement de

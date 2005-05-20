@@ -16,12 +16,13 @@ au bénéfice du service universel des communications électroniques, sont garan
 indépendante de l'exploitation des réseaux et de la fourniture des services de
 communications électroniques. Elle est exercée au nom de l'Etat par le ministre
 chargé des communications électroniques et par l'Autorité de régulation des
-télécommunications.
+communications électroniques et des postes.
 
 II. - Dans le cadre de leurs attributions respectives, le ministre chargé des
-communications électroniques et l'Autorité de régulation des télécommunications
-prennent, dans des conditions objectives et transparentes, des mesures
-raisonnables et proportionnées aux objectifs poursuivis et veillent :
+communications électroniques et l'Autorité de régulation des communications
+électroniques et des postes prennent, dans des conditions objectives et
+transparentes, des mesures raisonnables et proportionnées aux objectifs
+poursuivis et veillent :
 
 1° A la fourniture et au financement de l'ensemble des composantes du service
 public des communications électroniques ;
@@ -75,11 +76,11 @@ ouverts au public.
 
 III. - Lorsque, dans le cadre des dispositions du présent code, le ministre
 chargé des communications électroniques et l'Autorité de régulation des
-télécommunications envisagent d'adopter des mesures ayant une incidence
-importante sur un marché, ils rendent publiques les mesures envisagées dans un
-délai raisonnable avant leur adoption et recueillent les observations qui sont
-faites à leur sujet. Le résultat de ces consultations est rendu public, sous
-réserve des secrets protégés par la loi.
+communications électroniques et des postes envisagent d'adopter des mesures
+ayant une incidence importante sur un marché, ils rendent publiques les mesures
+envisagées dans un délai raisonnable avant leur adoption et recueillent les
+observations qui sont faites à leur sujet. Le résultat de ces consultations est
+rendu public, sous réserve des secrets protégés par la loi.
 
 L'autorité met en place un service permettant de prendre connaissance des
 consultations prévues par l'alinéa précédent.

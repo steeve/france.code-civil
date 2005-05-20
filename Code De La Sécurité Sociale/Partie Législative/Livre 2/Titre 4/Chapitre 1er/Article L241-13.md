@@ -10,9 +10,9 @@ II. - Cette réduction est appliquée aux gains et rémunérations versés aux
 salariés au titre desquels l'employeur est soumis à l'obligation édictée par
 l'article L. 351-4 du code du travail et aux salariés mentionnés au 3° de
 l'article L. 351-12 du même code, à l'exception des gains et rémunérations
-versés par l'organisme mentionné à l'article 2 de la loi n° 90-568 du 2 juillet
-1990 relative à l'organisation du service public de la poste et des
-télécommunications et par les particuliers employeurs.
+versés par les particuliers employeurs et, jusqu'au 31 décembre 2005, par
+l'organisme mentionné à l'article 2 de la loi n° 90-568 du 2 juillet 1990
+relative à l'organisation du service public de La Poste et à France Télécom.
 
 Cette réduction n'est pas applicable aux gains et rémunérations versés par les
 employeurs relevant des dispositions du titre Ier du livre VII du présent code,

@@ -1,10 +1,11 @@
 Article L42-1
 ----
-I. - L'Autorité de régulation des télécommunications attribue les autorisations
-d'utilisation des fréquences radioélectriques dans des conditions objectives,
-transparentes et non discriminatoires tenant compte des besoins d'aménagement du
-territoire. Ces autorisations ne peuvent être refusées par l'Autorité de
-régulation des télécommunications que pour l'un des motifs suivants :
+I. - L'Autorité de régulation des communications électroniques et des postes
+attribue les autorisations d'utilisation des fréquences radioélectriques dans
+des conditions objectives, transparentes et non discriminatoires tenant compte
+des besoins d'aménagement du territoire. Ces autorisations ne peuvent être
+refusées par l'Autorité de régulation des communications électroniques et des
+postes que pour l'un des motifs suivants :
 
 1° La sauvegarde de l'ordre public, les besoins de la défense nationale ou de la
 sécurité publique ;
@@ -48,5 +49,5 @@ prévu à l'article L. 42-2.
 Les délais d'octroi des autorisations et de notification des conditions de leur
 renouvellement, ainsi que les obligations qui s'imposent aux titulaires
 d'autorisation pour permettre le contrôle par l'Autorité de régulation des
-télécommunications des conditions d'utilisation des fréquences sont fixés par
-décret.
+communications électroniques et des postes des conditions d'utilisation des
+fréquences sont fixés par décret.

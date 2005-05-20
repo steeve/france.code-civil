@@ -3,8 +3,8 @@ Article L36-8
 I. - En cas de refus d'accès ou d'interconnexion, d'échec des négociations
 commerciales ou de désaccord sur la conclusion ou l'exécution d'une convention
 d'interconnexion ou d'accès à un réseau de communications électroniques,
-l'Autorité de régulation des télécommunications peut être saisie du différend
-par l'une ou l'autre des parties.
+l'Autorité de régulation des communications électroniques et des postes peut
+être saisie du différend par l'une ou l'autre des parties.
 
 L'autorité se prononce, dans un délai fixé par décret en Conseil d'Etat, après
 avoir mis les parties à même de présenter leurs observations et, le cas échéant,
@@ -18,9 +18,9 @@ audiovisuelle, l'autorité recueille l'avis du Conseil supérieur de l'audiovisu
 qui se prononce dans un délai fixé par le décret en Conseil d'Etat prévu au
 présent alinéa.
 
-L'Autorité de régulation des télécommunications peut refuser la communication de
-pièces mettant en jeu le secret des affaires. Ces pièces sont alors retirées du
-dossier.
+L'Autorité de régulation des communications électroniques et des postes peut
+refuser la communication de pièces mettant en jeu le secret des affaires. Ces
+pièces sont alors retirées du dossier.
 
 En cas d'atteinte grave et immédiate aux règles régissant le secteur des
 communications électroniques, l'autorité peut, après avoir entendu les parties
@@ -32,9 +32,10 @@ L'autorité rend publiques ses décisions, sous réserve des secrets protégés 
 la loi. Elle les notifie aux parties.
 
 II. - En cas d'échec des négociations commerciales, l'Autorité de régulation des
-télécommunications peut également être saisie des différends relatifs à la mise
-en oeuvre des obligations des opérateurs prévues par le présent titre, ainsi que
-celles du chapitre III du titre II, notamment ceux portant sur :
+communications électroniques et des postes peut également être saisie des
+différends relatifs à la mise en oeuvre des obligations des opérateurs prévues
+par le présent titre, ainsi que celles du chapitre III du titre II, notamment
+ceux portant sur :
 
 1° Les possibilités et les conditions d'une utilisation partagée entre
 opérateurs, prévue à l'article L. 47, d'installations existantes situées sur le
@@ -62,9 +63,10 @@ prévues au I. En outre, elle procède à une consultation publique de toutes le
 parties intéressées avant toute décision imposant l'utilisation partagée entre
 opérateurs des installations mentionnées au 1°.
 
-III. - Les décisions prises par l'Autorité de régulation des télécommunications
-en application des I et II peuvent faire l'objet d'un recours en annulation ou
-en réformation dans le délai d'un mois à compter de leur notification.
+III. - Les décisions prises par l'Autorité de régulation des communications
+électroniques et des postes en application des I et II peuvent faire l'objet
+d'un recours en annulation ou en réformation dans le délai d'un mois à compter
+de leur notification.
 
 Le recours n'est pas suspensif. Toutefois, le sursis à exécution de la décision
 peut être ordonné, si celle-ci est susceptible d'entraîner des conséquences
@@ -72,13 +74,14 @@ manifestement excessives ou s'il est survenu, postérieurement à sa notificatio
 des faits nouveaux d'une exceptionnelle gravité.
 
 Les mesures conservatoires prises par l'Autorité de régulation des
-télécommunications peuvent, au maximum dix jours après leur notification, faire
-l'objet d'un recours en annulation ou en réformation. Ce recours est jugé dans
-le délai d'un mois.
+communications électroniques et des postes peuvent, au maximum dix jours après
+leur notification, faire l'objet d'un recours en annulation ou en réformation.
+Ce recours est jugé dans le délai d'un mois.
 
 IV. - Les recours contre les décisions et mesures conservatoires prises par
-l'Autorité de régulation des télécommunications en application du présent
-article sont de la compétence de la cour d'appel de Paris.
+l'Autorité de régulation des communications électroniques et des postes en
+application du présent article sont de la compétence de la cour d'appel de
+Paris.
 
 Le pourvoi en cassation formé le cas échéant contre l'arrêt de la cour d'appel
 est exercé dans le délai d'un mois suivant la notification de cet arrêt.
@@ -86,6 +89,6 @@ est exercé dans le délai d'un mois suivant la notification de cet arrêt.
 V. - Lorsqu'une des parties est établie dans un autre Etat membre de la
 Communauté européenne et que le différend est également porté devant les
 autorités compétentes d'autres Etats membres, l'Autorité de régulation des
-télécommunications coordonne son action avec celle de ces autorités. Les règles
-de procédure définies aux I et II sont applicables, à l'exception de celles qui
-sont relatives aux délais.
+communications électroniques et des postes coordonne son action avec celle de
+ces autorités. Les règles de procédure définies aux I et II sont applicables, à
+l'exception de celles qui sont relatives aux délais.

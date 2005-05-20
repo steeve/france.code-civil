@@ -3,7 +3,7 @@ Article L33-1
 I. - L'établissement et l'exploitation des réseaux ouverts au public et la
 fourniture au public de services de communications électroniques sont libres
 sous réserve d'une déclaration préalable auprès de l'Autorité de régulation des
-télécommunications.
+communications électroniques et des postes.
 
 Toutefois, la déclaration n'est pas exigée pour l'établissement et
 l'exploitation des réseaux internes ouverts au public et pour la fourniture au
@@ -60,8 +60,8 @@ article ;
 k) Les conditions nécessaires pour assurer l'interopérabilité des services ;
 
 l) Les obligations qui s'imposent à l'exploitant pour permettre son contrôle par
-l'Autorité de régulation des télécommunications et celles qui sont nécessaires
-pour l'application de l'article L. 37-1 ;
+l'Autorité de régulation des communications électroniques et des postes et
+celles qui sont nécessaires pour l'application de l'article L. 37-1 ;
 
 m) L'acquittement des taxes dues par l'exploitant pour couvrir les coûts
 administratifs occasionnés par la mise en oeuvre des dispositions du présent
@@ -89,10 +89,10 @@ juridique.
 
 III. - Sous réserve des engagements internationaux souscrits par la France, le
 ministre chargé des communications électroniques et l'Autorité de régulation des
-télécommunications veillent à ce que soit assurée l'égalité de traitement des
-opérateurs acheminant du trafic international au départ ou à destination de
-réseaux ouverts au public français, notamment dans les conditions d'accès aux
-réseaux français et étrangers.
+communications électroniques et des postes veillent à ce que soit assurée
+l'égalité de traitement des opérateurs acheminant du trafic international au
+départ ou à destination de réseaux ouverts au public français, notamment dans
+les conditions d'accès aux réseaux français et étrangers.
 
 Sous la même réserve, ils veillent également à ce que les opérateurs des pays
 tiers à la Communauté européenne assurent aux opérateurs déclarés en application

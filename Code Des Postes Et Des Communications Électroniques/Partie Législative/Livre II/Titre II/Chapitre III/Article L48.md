@@ -35,9 +35,9 @@ des installations accueillant l'opérateur autorisé assume, dans la limite du
 contrat conclu entre les parties, l'entretien des infrastructures et des
 équipements qui empruntent ses installations et qui sont placés sous sa
 responsabilité, moyennant paiement d'une contribution négociée avec l'opérateur.
-En cas de litige entre opérateurs, l'Autorité de régulation des
-télécommunications peut être saisie, dans les conditions fixées à l'article L.
-36-8.
+En cas de litige entre opérateurs, l'Autorité de régulation des communications
+électroniques et des postes peut être saisie, dans les conditions fixées à
+l'article L. 36-8.
 
 L'installation des ouvrages prévus au premier alinéa ne peut faire obstacle au
 droit des propriétaires ou copropriétaires de démolir, réparer, modifier ou

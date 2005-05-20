@@ -9,9 +9,9 @@ sanction prises par la commission de contrôle des assurances ;
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre
 les décisions de sanction prises par le ministre chargé du logement ;
 
-3° De l'article L. 36-11 du code des postes et communications électroniques
-contre les décisions de sanction prises par l'Autorité de régulation des
-télécommunications ;
+3° Des articles L. 5-3 et L. 36-11 du code des postes et des communications
+électroniques contre les décisions de sanction prises par l'Autorité de
+régulation des communications électroniques et des postes ;
 
 4° De l'article L. 951-10 du code de la sécurité sociale et l'article L. 531-6
 du code de la mutualité contre les décisions de sanction prises par la
@@ -22,7 +22,7 @@ décisions du Conseil supérieur de l'audiovisuel visées aux articles 42-1, 42-
 et 42-4 de cette loi ;
 
 6° De l'article 71 de la loi n° 96-597 du 2 juillet 1996 contre les décisions de
-sanction prises par la Commission des opérations de bourse à l'encontre des
+sanction prises par l'Autorité des marchés financiers à l'encontre des
 prestataires de service d'investissement agréés ;
 
 7° De l'article L. 623-3 du code monétaire et financier ;
