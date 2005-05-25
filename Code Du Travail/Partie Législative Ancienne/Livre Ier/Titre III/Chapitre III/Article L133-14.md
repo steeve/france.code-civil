@@ -10,5 +10,5 @@ réglementaire.
 
 Sont également fixées par voie réglementaire les modalités de la publicité à
 laquelle est soumise la procédure d'extension et d'élargissement applicable aux
-avenants salariaux aux conventions collectives départementales intéressant les
-professions agricoles.
+avenants salariaux aux conventions collectives départementales ou régionales
+intéressant les professions agricoles.

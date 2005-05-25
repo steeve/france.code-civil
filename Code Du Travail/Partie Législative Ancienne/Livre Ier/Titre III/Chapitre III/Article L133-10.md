@@ -7,5 +7,5 @@ la négociation collective. Cette procédure doit être de nature à préserver 
 droits des tiers.
 
 Dans les professions agricoles, les avenants salariaux à des conventions
-collectives départementales étendues peuvent être étendus par arrêtés des
-commissaires de la République.
+collectives régionales ou départementales étendues peuvent être étendus
+respectivement par arrêté du préfet de région ou du préfet de département.

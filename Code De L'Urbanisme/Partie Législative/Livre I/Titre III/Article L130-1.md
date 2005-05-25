@@ -26,18 +26,18 @@ l'environnement. Un décret en conseil d'Etat détermine les conditions
 d'application du présent alinéa.
 
 Dans les bois, forêts ou parcs situés sur le territoire de communes où
-l'établissement d'un plan local d'urbanisme a été prescrit mais où ce plan n'a
-pas encore été rendu public, ainsi que dans tout espace boisé classé, les coupes
-et abattages d'arbres sont soumis à autorisation préalable, sauf dans les cas
-suivants :
+l'établissement d'un plan local d'urbanisme a été prescrit, ainsi que dans tout
+espace boisé classé, les coupes et abattages d'arbres sont soumis à autorisation
+préalable, sauf dans les cas suivants :
 
-- S'il est fait application des dispositions des livres I et II du code
-forestier ;
+- s'il est fait application des dispositions du livre I du code forestier ;
 
-- S'il est fait application d'un plan simple de gestion approuvé, conformément à
-l'article L. 222-1 du code forestier ;
+- s'il est fait application d'un plan simple de gestion agréé conformément à
+l'article L. 222-1 du code forestier ou d'un règlement type de gestion approuvé
+conformément aux dispositions du II de l'article L. 8 et de l'article L. 222-6
+du même code ;
 
-- Si les coupes entrent dans le cadre d'une autorisation par catégories définies
+- si les coupes entrent dans le cadre d'une autorisation par catégories définies
 par arrêté préfectoral, après avis du centre régional de la propriété
 forestière.
 

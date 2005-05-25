@@ -48,9 +48,8 @@ b bis A compter du 1er janvier de l'année suivant la promulgation de la loi n°
 pendant dix ans pour les pleuperaies, pendant trente ans pour les bois résineux
 et pendant cinquante ans pour les bois feuillus et autres bois, à compter de
 l'exécution des travaux de plantation, de replantation ou de semis, ou à compter
-de la constatation de la réussite de l'opération de régénération naturelle
-effectuée dans les conditions prévues aux deuxième et troisième alinéas du 1°
-bis de l'article 1395 ;
+de la déclaration de la réussite de l'opération de régénération naturelle
+effectuée dans les conditions prévues du 1° bis de l'article 1395 ;
 
 c. Les semis, plantations ou replantations réalisés depuis moins de dix ans pour
 les peupleraies, moins de vingt ans pour les bois résineux et moins de trente
@@ -60,8 +59,8 @@ b pour les délais restant à courir sur les périodes ci-dessus.
 4. A compter du 1er janvier de l'année suivant la promulgation de la loi n°
 2001-602 du 9 juillet 2001 précitée, le bénéfice agricole afférent aux terrains
 boisés présentant un état de futaie irrégulière en équilibre de régénération est
-diminué d'un quart pendant les quinze années suivant la constatation de cet
-état. Cette réduction est renouvelable.
+diminué d'un quart pendant les quinze années suivant la déclaration de cet état.
+Cette réduction est renouvelable.
 
 Le deuxième alinéa du 1° ter de l'article 1395 est applicable au régime prévu
 par le premier alinéa du présent 4.

@@ -1,6 +1,10 @@
 Article L314-3
 ----
-Dans les départements d'outre-mer, la surface minimum d'installation instituée à
-l'article L. 312-5 est fixée tous les cinq ans par décision du ministre de
-l'agriculture prise après avis de la commission départementale d'orientation de
-l'agriculture.
+La surface minimum d'installation est fixée dans le schéma directeur
+départemental des structures agricoles pour chaque région naturelle du
+département et chaque nature de culture. Elle est révisée périodiquement.
+
+Pour les productions hors sol, le schéma directeur départemental des structures
+agricoles fixe les coefficients d'équivalence applicables uniformément à
+l'ensemble du département sur la base de la surface minimum d'installation
+prévue à l'alinéa précédent.
