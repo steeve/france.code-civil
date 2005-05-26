@@ -37,3 +37,18 @@ l'environnement ;
 réalisation du programme ou projet, pour compenser les effets dommageables que
 les mesures prévues au II ne peuvent supprimer, ainsi que l'estimation des
 dépenses correspondantes.
+
+IV. - Le dossier d'évaluation d'incidences des programmes pour lesquels une
+évaluation est conduite selon la procédure prévue aux articles L. 122-4 et
+suivants comprend, en outre :
+
+1° Une notice sommaire de présentation des objectifs du plan ou programme, de
+son contenu et, s'il y a lieu, de son articulation avec d'autres plans et
+programmes visés à l'article L. 122-4 ou les documents d'urbanisme avec lesquels
+il doit être compatible ou qu'il doit prendre en considération ;
+
+2° Un résumé non technique du contenu du programme et du dossier d'évaluation ;
+
+3° Les mesures de suivi envisagées ;
+
+4° Une description de la manière dont l'évaluation a été effectuée.
