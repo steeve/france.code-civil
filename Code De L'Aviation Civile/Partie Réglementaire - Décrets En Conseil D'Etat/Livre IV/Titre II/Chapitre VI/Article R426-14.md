@@ -44,7 +44,7 @@ pour chaque période à valider, de la double cotisation (affiliés et employeur
 définie aux articles R. 426-6 à R. 426-10, assises sur les prestations brutes
 perçues.
 
-Les services mentionnés aux e et p de l'article R. 426-13 sont pris en compte
+Les services mentionnés aux e, p et q de l'article R. 426-13 sont pris en compte
 pour leur durée pour l'application de l'article R. 426-11. Moyennant le
 versement par l'intéressé de la double cotisation (affiliés et employeurs)
 définie aux articles R. 426-6 à R. 426-10 assise sur le dernier salaire annuel

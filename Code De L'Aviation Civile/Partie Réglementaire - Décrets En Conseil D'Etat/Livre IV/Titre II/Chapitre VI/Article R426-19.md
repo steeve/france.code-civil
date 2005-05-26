@@ -5,14 +5,13 @@ de jouissance ou d'un droit à pension différé, le conjoint survivant apte à
 recevoir et chacun de ses enfants à charge ont droit à une pension.
 
 a) La pension de réversion au profit du conjoint survivant apte à recevoir est
-égale à un pourcentage de la pension de l'affilié fixé par décision du conseil
-d'administration entre un minimum de 55 p. 100 et un maximum de 60 p. 100.
+égale à un pourcentage de la pension de l'affilié fixé à de 60 %.
 
-b) La pension au profit de chacun des enfants à charge est égale à 12 p. 100 de
-la pension de l'affilié.
+b) La pension au profit de chacun des enfants à charge est égale à 12 % de la
+pension de l'affilié.
 
-Toutefois, le total des pensions ainsi allouées ne peut dépasser 100 p. 100 de
-la pension de l'affilié. S'il y a excédent, il est procédé à une réduction
+Toutefois, le total des pensions ainsi allouées ne peut dépasser 100 % de la
+pension de l'affilié. S'il y a excédent, il est procédé à une réduction
 temporaire des pensions des orphelins.
 
 S'il n'y a pas ou s'il n'y a plus de conjoint apte à recevoir, la pension de
@@ -49,10 +48,26 @@ compte tenu des dispositions de l'article R. 426-17.
 Si l'affilié décédé n'avait pas atteint l'âge de soixante ans au moment de son
 décès et tant que le conjoint survivant n'aura pas atteint le même âge, la
 pension de l'affilié servant à déterminer la pension de réversion est assortie
-d'une majoration dont le taux est fixé à 1,21 pour dix mille de la limite
-supérieure de la deuxième tranche de salaire défini au e de l'article R. 426-5
-si le conjoint survivant relève d'un régime légal obligatoire d'assurance
-maladie-maternité et de 1,69 pour dix mille dans le cas contraire.
+d'une majoration dans les conditions suivantes :
+
+- si le conjoint survivant bénéficie des prestations d'un régime légal
+obligatoire d'assurance maladie maternité autre que celui instauré par la loi n°
+99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle,
+la majoration est d'un montant de 0,8 % du plafond mensuel de calcul des
+cotisations de la sécurité sociale en vigueur, par annuité validée dans la
+limite de vingt-cinq ;
+
+- si le conjoint survivant entre dans le champ d'application de la loi du 27
+juillet 1999 mentionnée ci-dessus, la majoration est d'un montant comprenant
+d'une part 0,8 % du plafond mensuel de calcul des cotisations de la sécurité
+sociale en vigueur, par annuité validée dans la limite de vingt-cinq, et d'autre
+part 5 % de la pension mensuelle de l'affilié décédé calculée conformément aux
+deux premiers alinéas de l'article R. 426-16-1 ;
+
+- si le conjoint survivant n'entre dans aucun des deux cas prévus ci-dessus, la
+majoration est d'un montant de 1,12 % du plafond mensuel de calcul des
+cotisations de la sécurité sociale en vigueur, par annuité validée dans la
+limite de vingt-cinq.
 
 Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la
 date à laquelle l'affilié décédé aurait atteint son soixantième anniversaire.

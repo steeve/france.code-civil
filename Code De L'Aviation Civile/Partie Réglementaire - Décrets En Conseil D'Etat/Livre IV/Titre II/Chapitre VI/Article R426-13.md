@@ -65,9 +65,19 @@ n) Les périodes de préretraite indemnisées par le Fonds national de l'emploi 
 
 o) Sous réserve qu'elles ne donnent pas lieu à constitution d'un droit à pension
 dans un autre régime de retraite visé au f ci-dessus, certaines périodes de
-suspension de l'activité de navigant déterminées par décret ;
+suspension de l'activité de navigant déterminées parmi les périodes de
+suspension prévues par le code du travail, les conventions collectives et les
+réglementations particulières applicables aux personnels navigants
+professionnels de l'aéronautique civile. Un arrêté conjoint des ministres
+chargés du budget, de la sécurité sociale et de l'aviation civile établit la
+liste de ces périodes après avis du conseil d'administration de la caisse de
+retraite ;
 
 p) Les périodes d'inactivité sans solde, liées au travail à temps alterné dans
-le cadre d'un contrat de travail à durée indéterminée, sous réserve qu'elles ne
-donnent pas lieu à prestations dans le régime ou à cotisations dans un autre
-régime.
+le cadre d'un contrat de travail à durée indéterminée, ou les périodes
+d'inactivité relevant d'un congé parental pris sous forme de temps alterné, sous
+réserve qu'elles ne donnent pas lieu à prestations dans le régime ou à
+cotisations dans un autre régime ;
+
+q) Les périodes de congé de paternité mentionné à l'article L. 122-25-4 du code
+du travail.

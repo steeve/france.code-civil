@@ -13,9 +13,10 @@ approximativement la rémunération qu'aurait en métropole un navigant de même
 ancienneté pour une activité similaire. Lorsque l'intéressé n'est pas
 obligatoirement assujetti au régime de sécurité sociale applicable en France
 métropolitaine et dans les départements d'outre-mer ou à un régime de protection
-sociale similaire en vigueur dans les territoires d'outre-mer, ledit salaire est
-majoré d'un neuvième du plafond de la deuxième tranche mentionnée au e du
-présent article.
+sociale similaire en vigueur dans les territoires d'outre-mer, ledit salaire
+peut être majoré, par décision du conseil d'administration de la caisse de
+retraite, de 0,6 fois le plafond annuel de calcul des cotisations de la sécurité
+sociale en vigueur.
 
 Les salaires bruts réels et les salaires bruts fictifs éventuellement majorés
 prévus à l'alinéa précédent sont plafonnés à la limite supérieure de la deuxième
@@ -48,16 +49,23 @@ ainsi obtenus et l'effectif théorique global toutes spécialités confondues.
 L'indice annuel de variation des salaires du dernier exercice civil est égal au
 produit de l'indice de l'année antérieure par le coefficient global d'évolution
 des salaires entre les deux années précédant immédiatement l'exercice en cours.
-Pour déterminer, dès le début de cet exercice, le niveau des salaires servant à
-liquider les pensions, ainsi que les limites de tranches de salaires servant aux
-cotisations, cet indice sera corrigé des taux d'évolution du salaire brut moyen
-annuel par tête versé par les entreprises non financières, non agricoles, pour
-l'année civile considérée et l'exercice précédent. Ces taux sont ceux prévus par
-le rapport mentionné à l'article 32 de l'ordonnance n° 59-2 du 2 janvier 1959 et
-annexé au projet de loi de finances des années considérées. Pour les années
-antérieures à la date d'application du décret n° 95-825 du 30 juin 1995, les
-indices à prendre éventuellement en considération sont fournis par le tableau
-annexé au présent code.
+Jusqu'à l'exercice 2006 inclus, pour déterminer le niveau des salaires servant
+dès le début de l'exercice à liquider les pensions, cet indice est corrigé des
+taux d'évolution du salaire brut moyen annuel par tête versé par les entreprises
+non financières, non agricoles, pour l'année civile considérée et l'exercice
+précédent. Ces taux sont publiés dans le rapport annexé au projet de loi de
+finances des années considérées prévu par l'article 32 de l'ordonnance n° 59-2
+du 2 janvier 1959 puis l'article 50 de la loi organique n° 2001-692 du 1er août
+2001 relative aux lois de finances.
+
+Le tableau annexé au présent code fournit les indices à prendre en considération
+jusqu'à l'exercice 2004. Les indices applicables pour les exercices 2005 et 2006
+sont calculés conformément aux dispositions du précédent alinéa.
+
+A compter du 1er janvier 2007, l'indice corrigé de variation des salaires est
+celui appliqué en 2006, revalorisé chaque année du taux de revalorisation annuel
+des pensions appliqué au 1er juillet de l'année précédente, conformément aux
+dispositions de l'article R. 426-16-2.
 
 c) Salaire moyen indexé de carrière
 
@@ -86,10 +94,20 @@ d) Salaire moyen indexé majoré
 
 Lorsque l'affilié réunit plus de vingt-cinq annuités à titre onéreux, il est
 tenu compte partiellement, pour le calcul de la pension, des périodes
-supplémentaires, que celles-ci aient été validées à titre onéreux ou qu'elles
-l'aient été à titre gratuit au titre du g de l'article R. 426-13. Les services
-ainsi validés à titre gratuit doivent avoir été précédés et suivis de services
-civils.
+supplémentaires, que celles-ci aient été validées :
+
+- à titre onéreux ;
+
+- à titre gratuit au titre des services militaires mentionnés au f de l'article
+R. 426-13 pour les affiliés justifiant, antérieurement au 1er juillet 1995, de
+quinze ans de services civils ou de périodes d'incapacité médicale temporaire
+mentionnées aux a, b et c de l'article R. 426-13 ;
+
+- à titre gratuit au titre des services de guerre ou assimilés mentionnés au g
+de l'article R. 426-13.
+
+Lorsque les services ainsi validés le sont à titre gratuit, ils doivent avoir
+été précédés et suivis de services civils.
 
 Le calcul de la pension s'effectue dans les conditions précisées par la formule
 suivante :
@@ -98,16 +116,34 @@ suivante :
 
 e) Tranches de salaires
 
-Pour l'application du présent chapitre, le salaire annuel est divisé en deux
-tranches pour l'année de base 1962. Les limites des tranches de salaires
-retenues sont les suivantes :
+Jusqu'au 1er janvier 2005 pour l'application du présent chapitre, le salaire
+annuel est divisé en deux tranches pour l'année de base 1962. Les limites des
+tranches de salaires retenues sont les suivantes :
 
-Première tranche de 0 à 38 400 F ;
+Première tranche de 0 à 5 854,04 euros ;
 
-Deuxième tranche de 38 400 à 86 400 F ;
+Deuxième tranche de 5 854,04 à 13 171,60 euros ;
 
 Chaque année, ces limites sont réévaluées au 1er janvier par l'indice corrigé de
 variation des salaires défini au point b du présent article.
+
+A compter du 1er janvier 2005, pour l'application du présent chapitre, le
+salaire annuel est divisé en deux tranches :
+
+- la limite supérieure de la première tranche et inférieure de la deuxième
+tranche est fixée à :
+
+2,6 fois le plafond annuel de calcul des cotisations de sécurité sociale
+mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur pour
+l'exercice 2005 ;
+
+2,9 fois le plafond pour l'exercice 2006,
+
+3,2 fois le plafond pour l'exercice 2007,
+
+3,5 fois le plafond à partir de l'exercice 2008 ;
+
+- la limite supérieure de la deuxième tranche est fixée à huit fois le plafond.
 
 f) Valeur du fonds de retraite.
 
