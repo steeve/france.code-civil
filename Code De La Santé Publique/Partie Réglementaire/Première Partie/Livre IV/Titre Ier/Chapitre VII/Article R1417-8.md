@@ -1,62 +1,32 @@
 Article R1417-8
 ----
-Le conseil d'administration de l'institut comprend, outre son président :
+Le directeur général est nommé pour une durée de trois ans renouvelable.
 
-1° Neuf membres de droit représentant l'Etat :
+Il assure la direction de l'établissement.
 
-a) Le directeur général de la santé ou son représentant ;
+Il propose chaque année au conseil d'administration les orientations générales
+de la politique de l'établissement.
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+Il accomplit tous les actes qui ne sont pas réservés au conseil d'administration
+en vertu des dispositions de l'article R. 1417-7.
 
-c) Le directeur général de l'action sociale ou son représentant ;
+Il prépare et exécute les délibérations du conseil d'administration auquel il
+rend compte de sa gestion.
 
-d) Le directeur de l'administration générale, du personnel et du budget au
-ministère de la santé ou son représentant ;
+Il recrute, nomme et gère le personnel de l'institut. Il a autorité sur
+l'ensemble de ce personnel.
 
-e) Le directeur des relations du travail ou son représentant ;
+Il représente l'institut en justice et dans tous les actes de la vie civile.
 
-f) Le directeur de la sécurité sociale ou son représentant ;
+Il conclut au nom de l'établissement les marchés publics, contrats et
+conventions ainsi que les actes d'acquisition, de vente et de transaction, sous
+réserve des attributions conférées au conseil d'administration par les 5° et 6°
+de l'article R. 1417-5.
 
-g) Le directeur de l'enseignement scolaire ou son représentant ;
+Il est ordonnateur des recettes et des dépenses du budget de l'institut.
 
-h) Le directeur du budget ou son représentant ;
+Il peut désigner des ordonnateurs secondaires.
 
-i) Le directeur de la jeunesse, de l'éducation populaire et de la vie
-associative ;
-
-2° Six membres de droit représentant les organismes de protection sociale et de
-la mutualité :
-
-a) Le président et le directeur de la Caisse nationale de l'assurance maladie
-des travailleurs salariés ou leurs représentants ;
-
-b) Le directeur de la Caisse centrale de la mutualité sociale agricole ou son
-représentant ;
-
-c) Le directeur de la Caisse nationale d'assurance maladie des travailleurs non
-salariés ou son représentant ;
-
-d) Le directeur de la Caisse nationale d'assurance vieillesse des travailleurs
-salariés ou son représentant ;
-
-e) Le président de la Fédération nationale de la mutualité française ou son
-représentant ;
-
-3° Dix personnalités nommées par arrêté du ministre chargé de la santé pour une
-durée de trois ans renouvelable, soit :
-
-a) Quatre personnalités qualifiées dans les domaines de compétence de
-l'institut, dont deux en fonctions au sein d'un comité régional ou départemental
-d'éducation pour la santé ;
-
-b) Six représentants des usagers nommés sur proposition des associations de
-défense des droits des personnes malades et des usagers du système de santé
-mentionnées à l'article L. 1114-1 et ayant fait l'objet d'un agrément au niveau
-national ;
-
-4° Deux représentants du personnel de l'institut élus pour trois ans par ce
-personnel selon les modalités prévues par le règlement intérieur de l'institut.
-
-Le président du conseil d'administration est nommé pour une durée de trois ans
-renouvelable.
+Il peut déléguer sa signature à ceux de ses collaborateurs qui exercent une
+fonction de direction au sein de l'institut dans les conditions prévues par le
+règlement intérieur.

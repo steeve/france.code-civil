@@ -1,7 +1,5 @@
 Article R1417-16
 ----
-Les opérations financières et comptables de l'institut sont effectuées
-conformément aux dispositions du décret n° 53-1227 du 10 décembre 1953 relatif à
-la réglementation comptable applicable aux établissements publics nationaux à
-caractère administratif et du décret n° 62-1587 du 29 décembre 1962 portant
-réglementation générale sur la comptabilité publique.
+Des régies de recettes et d'avances peuvent être instituées dans les conditions
+prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de
+recettes et aux régies d'avances des organismes publics.

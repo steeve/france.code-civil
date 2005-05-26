@@ -1,21 +1,20 @@
 Article R1417-11
 ----
-Le conseil d'administration se réunit au moins trois fois par an sur convocation
-de son président ou, en cas d'empêchement de celui-ci, du directeur général. La
-convocation est de droit dans les trente jours lorsqu'elle est demandée par le
-ministre chargé de la santé ou par un tiers au moins des membres du conseil
-d'administration.
+La dotation globale prévue à l'article L. 1417-8 est fixée par arrêté des
+ministres chargés du budget, de la protection sociale et de la santé. Elle est
+révisée selon les mêmes modalités.
 
-L'ordre du jour est fixé par le président ou, en cas d'empêchement de celui-ci,
-par le directeur général. Les questions dont le ministre chargé de la santé, le
-directeur général de l'institut ou le tiers au moins des membres du conseil
-d'administration demandent l'inscription à l'ordre du jour y sont inscrites de
-droit.
+Elle est versée par la caisse primaire d'assurance maladie des travailleurs
+salariés dans la circonscription de laquelle se trouve le siège de l'institut,
+sous forme de versements mensuels égaux au douzième de la dotation globale.
 
-Le directeur général de l'institut, l'agent comptable, le contrôleur financier
-et le président du conseil scientifique participent avec voix consultative aux
-travaux du conseil d'administration. Le directeur général peut se faire assister
-de toute personne de son choix.
+L'arrêté fixant ou révisant la dotation globale, accompagné du budget approuvé,
+est notifié à l'institut, à la Caisse nationale de l'assurance maladie des
+travailleurs salariés et à la caisse primaire chargée du versement de la
+dotation globale.
 
-Le conseil peut entendre toute personne dont il estime l'audition utile à son
-information.
+Si la caisse primaire d'assurance maladie chargée du versement de la dotation
+globale n'a pas reçu de notification de la décision fixant cette dotation avant
+le 1er janvier de l'exercice en cause, elle règle, jusqu'à ce qu'une telle
+décision lui soit notifiée, des acomptes mensuels égaux aux sommes allouées pour
+la période correspondante de l'année précédente.

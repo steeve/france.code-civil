@@ -1,77 +1,62 @@
 Article R1417-2
 ----
-Le comité comprend, outre son président :
+Le conseil d'administration de l'institut comprend, outre son président :
 
-1° Onze membres de droit représentant l'Etat :
+1° Neuf membres de droit représentant l'Etat :
 
-a) Le directeur général de l'enseignement et de la recherche au ministère de
-l'agriculture ou son représentant ;
+a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur général de la santé ou son représentant ;
-
-c) Le directeur général de l'urbanisme, de l'habitat et de la construction ou
-son représentant ;
-
-d) Le directeur de l'enseignement scolaire au ministère de l'éducation nationale
-ou son représentant ;
-
-e) Le directeur de l'hospitalisation et de l'organisation des soins ou son
+b) Le directeur de l'hospitalisation et de l'organisation des soins ou son
 représentant ;
 
-f) Le directeur de la prévention des pollutions et des risques ou son
+c) Le directeur général de l'action sociale ou son représentant ;
+
+d) Le directeur de l'administration générale, du personnel et du budget au
+ministère de la santé ou son représentant ;
+
+e) Le directeur des relations du travail ou son représentant ;
+
+f) Le directeur de la sécurité sociale ou son représentant ;
+
+g) Le directeur de l'enseignement scolaire ou son représentant ;
+
+h) Le directeur du budget ou son représentant ;
+
+i) Le directeur de la jeunesse, de l'éducation populaire et de la vie
+associative ;
+
+2° Six membres de droit représentant les organismes de protection sociale et de
+la mutualité :
+
+a) Le président et le directeur de la Caisse nationale de l'assurance maladie
+des travailleurs salariés ou leurs représentants ;
+
+b) Le directeur de la Caisse centrale de la mutualité sociale agricole ou son
 représentant ;
-
-g) Le directeur des relations du travail ou son représentant ;
-
-h) Le directeur de la sécurité et de la circulation routières ou son
-représentant ;
-
-i) Le directeur de la sécurité sociale ou son représentant ;
-
-j) Le directeur de la jeunesse, de l'éducation populaire et de la vie
-associative ou son représentant ;
-
-k) Le président de la mission interministérielle de lutte contre la drogue et la
-toxicomanie ou son représentant ;
-
-2° Cinq membres de droit représentant des établissements publics sanitaires :
-
-a) Le directeur de l'Institut de veille sanitaire ou son représentant ;
-
-b) Le directeur de l'Agence française de sécurité sanitaire des produits de
-santé ou son représentant ;
-
-c) Le directeur de l'Agence française de sécurité sanitaire des aliments ou son
-représentant ;
-
-d) Le directeur de l'Agence nationale d'accréditation et d'évaluation en santé
-ou son représentant ;
-
-e) Le directeur de l'Institut national de prévention et d'éducation pour la
-santé ou son représentant ;
-
-3° Quatre représentants des organismes de protection sociale et de la mutualité
-:
-
-a) Le directeur de la Caisse nationale de l'assurance maladie ou son
-représentant ;
-
-b) Le directeur général de la Caisse centrale de la mutualité sociale agricole
-ou son représentant ;
 
 c) Le directeur de la Caisse nationale d'assurance maladie des travailleurs non
 salariés ou son représentant ;
 
-d) Le président de la Fédération nationale de la mutualité française ou son
+d) Le directeur de la Caisse nationale d'assurance vieillesse des travailleurs
+salariés ou son représentant ;
+
+e) Le président de la Fédération nationale de la mutualité française ou son
 représentant ;
 
-4° Trois représentants des collectivités territoriales désignés respectivement
-par l'Association des régions de France, l'Association des départements de
-France et l'Association des maires de France ;
+3° Dix personnalités nommées par arrêté du ministre chargé de la santé pour une
+durée de trois ans renouvelable, soit :
 
-5° Six personnalités qualifiées désignées par le ministre chargé de la santé,
-dont au moins trois représentants d'associations de défense des droits des
-personnes malades et d'usagers du système de santé ayant fait l'objet d'un
-agrément au niveau national dans les conditions prévues à l'article L. 1114-1,
-ainsi que le directeur de l'Agence française de sécurité sanitaire
-environnementale.
+a) Quatre personnalités qualifiées dans les domaines de compétence de
+l'institut, dont deux en fonctions au sein d'un comité régional ou départemental
+d'éducation pour la santé ;
+
+b) Six représentants des usagers nommés sur proposition des associations de
+défense des droits des personnes malades et des usagers du système de santé
+mentionnées à l'article L. 1114-1 et ayant fait l'objet d'un agrément au niveau
+national ;
+
+4° Deux représentants du personnel de l'institut élus pour trois ans par ce
+personnel selon les modalités prévues par le règlement intérieur de l'institut.
+
+Le président du conseil d'administration est nommé pour une durée de trois ans
+renouvelable.
