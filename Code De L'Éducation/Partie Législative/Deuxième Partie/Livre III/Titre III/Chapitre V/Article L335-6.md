@@ -13,18 +13,18 @@ d'activité et par niveau.
 
 Les diplômes et titres à finalité professionnelle, ainsi que les certificats de
 qualification figurant sur une liste établie par la commission paritaire
-nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés,
-par arrêté du Premier ministre, à la demande des organismes les ayant créés et
-après avis de la Commission nationale de la certification professionnelle.
+nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés
+à la demande des organismes les ayant créés et après avis de la Commission
+nationale de la certification professionnelle.
 
 Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances
 consultatives associant les organisations représentatives d'employeurs et de
 salariés sont enregistrés de droit dans ce répertoire.
 
-La Commission nationale de la certification professionnelle, placée auprès du
-Premier ministre, établit et actualise le répertoire national des certifications
-professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes
-et titres à l'évolution des qualifications et de l'organisation du travail.
+La Commission nationale de la certification professionnelle établit et actualise
+le répertoire national des certifications professionnelles. Elle veille au
+renouvellement et à l'adaptation des diplômes et titres à l'évolution des
+qualifications et de l'organisation du travail.
 
 Elle émet des recommandations à l'attention des institutions délivrant des
 diplômes, des titres à finalité professionnelle ou des certificats de

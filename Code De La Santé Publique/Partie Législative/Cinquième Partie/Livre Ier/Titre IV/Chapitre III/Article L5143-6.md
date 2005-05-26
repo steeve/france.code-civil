@@ -4,12 +4,12 @@ Les groupements reconnus de producteurs, les groupements professionnels
 agricoles dont l'action concourt à l'organisation de la production animale et
 qui justifient d'un encadrement technique et sanitaire suffisant et d'une
 activité économique réelle d'une part, les groupements de défense sanitaire
-d'autre part, peuvent, s'ils sont agréés à cet effet par arrêté du ministre
-chargé de l'agriculture, acheter aux établissements de préparation, de vente en
-gros ou de distribution en gros, détenir et délivrer à leurs membres, pour
-l'exercice exclusif de leur activité, les médicaments vétérinaires à l'exclusion
-de ceux contenant des substances ayant fait l'objet d'obligations particulières
-au titre de l'article L. 5144-1.
+d'autre part, peuvent, s'ils sont agréés à cet effet par l'autorité
+administrative, acheter aux établissements de préparation, de vente en gros ou
+de distribution en gros, détenir et délivrer à leurs membres, pour l'exercice
+exclusif de leur activité, les médicaments vétérinaires à l'exclusion de ceux
+contenant des substances ayant fait l'objet d'obligations particulières au titre
+de l'article L. 5144-1.
 
 Toutefois, ces groupements peuvent également acheter en gros et détenir ceux des
 médicaments contenant des substances prévues à l'article L. 5144-1 qui figurent
