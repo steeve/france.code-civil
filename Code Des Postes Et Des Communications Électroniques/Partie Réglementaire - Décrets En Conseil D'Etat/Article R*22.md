@@ -13,13 +13,13 @@ autre que ceux précités ;
 
 -5 000 mètres dans le cas d'un secteur de dégagement.
 
-La limite d'un centre [*définition*] est définie comme étant le contour du
-polygone de surface minimum englobant tous les éléments rayonnants ou
-collecteurs existants ou projetés. Toutefois, lorsque la distance entre deux
-points quelconques de ce contour excède 2 000 mètres, l'ensemble des éléments
-rayonnants ou collecteurs doit être fractionné en plusieurs îlots dont les
-limites particulières répondent à la définition ci-dessus ; les zones de
-servitudes sont alors déterminées à partir de la limite de chacun de ces îlots.
+La limite d'un centre est définie comme étant le contour du polygone de surface
+minimum englobant tous les éléments rayonnants ou collecteurs existants ou
+projetés. Toutefois, lorsque la distance entre deux points quelconques de ce
+contour excède 2 000 mètres, l'ensemble des éléments rayonnants ou collecteurs
+doit être fractionné en plusieurs îlots dont les limites particulières répondent
+à la définition ci-dessus ; les zones de servitudes sont alors déterminées à
+partir de la limite de chacun de ces îlots.
 
 Les différentes zones ainsi déterminées peuvent faire l'objet d'un seul décret
 de servitudes même lorsqu'elles ne se recoupent pas mutuellement.

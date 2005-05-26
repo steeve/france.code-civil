@@ -5,8 +5,7 @@ Est puni de l'amende prévue pour les contraventions de la 5e classe :
 1° Le capitaine ou patron de tout bâtiment qui a jeté l'ancre à moins d'un quart
 de mille nautique d'un câble sous-marin, dont il est en mesure de connaître la
 position au moyen de lignes de bouées ou autrement, ou s'est amarré à une bouée
-destinée à indiquer la position du câble [*infraction*], sauf les cas de force
-majeure ;
+destinée à indiquer la position du câble, sauf les cas de force majeure ;
 
 2° Le patron de tout bateau de pêche qui ne tient pas ses engins ou filets à un
 mille nautique au moins du bâtiment occupé à la pose, à la réparation d'un câble
