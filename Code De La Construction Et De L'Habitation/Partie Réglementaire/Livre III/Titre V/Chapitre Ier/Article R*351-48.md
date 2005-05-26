@@ -1,6 +1,6 @@
 Article R*351-48
 ----
-La section départementale des aides publiques au logement est présidée par le
+La commission départementale des aides publiques au logement est présidée par le
 préfet ou son représentant.
 
 Elle est composée du trésorier-payeur général, du directeur départemental de
