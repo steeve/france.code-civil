@@ -8,8 +8,7 @@ Elle peut obtenir gratuitement de l'opérateur auprès duquel elle est abonnée 
 au distributeur de ce service :
 
 1. De ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées
-ou susceptibles d'être consultées par les services universels de renseignements
-;
+ou susceptibles d'être consultées par les services de renseignements ;
 
 2. Que ces listes ne comportent pas l'adresse complète de son domicile sauf
 lorsque l'activité professionnelle mentionnée consiste à fournir des biens ou
@@ -35,8 +34,13 @@ Ces droits peuvent être exercés au moment de la souscription de l'abonnement o
 ultérieurement, à tout moment, auprès de l'opérateur ou du distributeur du
 service.
 
-Les abonnés qui ont demandé le bénéfice des dispositions prévues au 1 ci-dessus
-bénéficient de plein droit des dispositions du 4.
+Les abonnés qui bénéficient des dispositions prévues au 1 ci-dessus bénéficient
+de plein droit des dispositions du 4.
+
+Le consentement préalable des abonnés à un opérateur de téléphonie mobile est
+requis pour toute inscription de données à caractère personnel les concernant
+dans les listes d'abonnés ou d'utilisateurs mentionnées au premier alinéa. A
+défaut, ils bénéficient de plein droit des dispositions du 1 ci-dessus.
 
 Les abonnés qui ont opté pour un mode de règlement entièrement prépayé de leurs
 communications et qui n'ont aucun engagement contractuel de durée avec leur
@@ -44,3 +48,8 @@ opérateur doivent, pour figurer sur les listes d'abonnés ou d'utilisateurs
 mentionnées au premier alinéa, formuler une demande auprès de leur opérateur ou
 distributeur. Ils fournissent à cette fin les renseignements prévus au I de
 l'article R. 10-3.
+
+Les opérateurs et leurs distributeurs mettent les abonnés qui ont opté pour un
+mode de règlement entièrement prépayé de leurs communications et qui n'ont aucun
+engagement contractuel de durée avec leur opérateur à même de prendre
+connaissance des informations prévues au premier alinéa du présent article.

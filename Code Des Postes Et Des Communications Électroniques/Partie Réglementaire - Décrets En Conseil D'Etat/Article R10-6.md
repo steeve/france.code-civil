@@ -1,7 +1,7 @@
 Article R10-6
 ----
 La communication des listes d'abonnés et d'utilisateurs, par application du
-troisième alinéa de l'article L. 33-4, donne lieu à rémunération des opérateurs
+quatrième alinéa de l'article L. 34, donne lieu à rémunération des opérateurs
 ayant communiqué ces données.
 
 Les tarifs de cette communication, qui reflètent le coût du service rendu, sont
