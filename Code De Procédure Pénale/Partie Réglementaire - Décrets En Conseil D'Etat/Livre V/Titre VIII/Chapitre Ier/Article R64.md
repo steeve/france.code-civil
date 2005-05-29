@@ -13,7 +13,10 @@ plusieurs envois séparés.
 Le service du casier judiciaire national automatisé ne peut utiliser l'extrait
 du répertoire national d'identification des personnes physiques qui lui est
 communiqué à des fins autres que la vérification de l'état civil des personnes
-dont le casier judiciaire est demandé.
+dont le casier judiciaire est demandé ou, en sa qualité de gestionnaire du
+fichier judiciaire national automatisé des auteurs d'infractions sexuelles, à
+d'autres fins que la vérification de l'identité des personnes qui y sont
+inscrites, conformément aux articles 706-53-3, R. 53-8-3 et R. 53-8-24.
 
 En aucun cas le numéro attribué par l'institut national de la statistique et des
 études économiques pour servir de base aux vérifications d'identité n'est
