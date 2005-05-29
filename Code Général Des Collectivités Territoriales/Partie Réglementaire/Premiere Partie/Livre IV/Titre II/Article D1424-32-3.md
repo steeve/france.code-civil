@@ -2,8 +2,12 @@ Article D1424-32-3
 ----
 Les subventions du fonds d'aide à l'investissement prévu à l'article L.
 1424-36-1 sont réparties chaque année entre les services départementaux
-d'incendie et de secours sur la base d'un montant établi par zone de défense par
-le ministre chargé de la sécurité civile.
+d'incendie et de secours et la commune de Marseille sur la base d'un montant
+établi, dans les départements métropolitains, par zone de défense et, dans les
+départements d'outre-mer, par département. Cette répartition tient compte, à
+compter du 1er janvier 2005, de la subvention à verser au service d'incendie et
+de secours de la collectivité départementale de Mayotte, conformément aux
+dispositions de l'article L. 1752-2.
 
 Le montant des crédits affecté à chaque zone de défense est fixé en fonction de
 la population des départements composant chaque zone, définie selon les
