@@ -5,7 +5,12 @@ après déduction des pertes, de la part des frais d'acquisition non admise en
 représentation des engagements réglementés et des autres éléments incorporels,
 par les éléments suivants :
 
-1. Le capital social versé ou le fonds d'établissement constitué ;
+1. Le capital social versé ou le fonds d'établissement constitué ; toutefois,
+les actions de préférence définies à l'article L. 228-11 du code de commerce ne
+sont admises que si elles remplissent les conditions fixées par arrêté du
+ministre chargé de l'économie relatives notamment aux droits financiers attachés
+et aux versements correspondants, lesquels doivent pouvoir être suspendus et ne
+sont pas dans ce cas reportés à un exercice ultérieur ;
 
 2. Les réserves de toute dénomination, réglementaires ou libres, ne
 correspondant pas aux engagements, y compris la réserve de capitalisation ;
@@ -19,15 +24,18 @@ directement par l'entreprise d'assurance.
 II. - La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts
-subordonnés. Ces titres et emprunts doivent répondre aux conditions, notamment
-de durée et de remboursement, qui sont fixées par arrêté du ministre chargé de
-l'économie. La prise en compte de ces fonds est admise jusqu'à concurrence de 50
-% du montant le plus faible de l'exigence de marge de solvabilité ou de la marge
-de solvabilité. Toutefois, la prise en compte de ceux de ces fonds qui
-proviennent de titres ou emprunts à durée déterminée n'est admise qu'à
-concurrence de 25 % de cette marge. Tout remboursement effectué irrégulièrement
-peut, conformément aux dispositions de l'article L. 310-18, donner lieu à
-application de sanctions par la commission de contrôle.
+subordonnés, ainsi que d'actions de préférence définies à l'article L. 228-11 du
+code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
+I. Ces titres et emprunts subordonnés et actions de préférence doivent répondre
+aux conditions, notamment de durée et de remboursements, qui sont fixées par
+arrêté du ministre chargé de l'économie. La prise en compte de ces fonds est
+admise jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de
+marge de solvabilité ou de la marge de solvabilité. Toutefois, la prise en
+compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée
+déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout
+remboursement effectué irrégulièrement peut, conformément aux dispositions de
+l'article L. 310-18, donner lieu à application de sanctions par la commission de
+contrôle.
 
 2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de
 la part de cotisation versée par l'entreprise et non utilisée par le fonds.
