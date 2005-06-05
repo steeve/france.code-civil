@@ -1,6 +1,6 @@
 Article L5621-9
 ----
-- Toute personne physique ou morale a le droit de demander communication sans
+Toute personne physique ou morale a le droit de demander communication sans
 déplacement et de prendre copie totale ou partielle des procès-verbaux des
 assemblées délibérantes des établissements publics de coopération
 interrégionale, des budgets, des comptes, ainsi que des arrêtés des présidents
@@ -8,7 +8,7 @@ de ces établissements publics.
 
 Chacun peut les publier sous sa responsabilité.
 
-La personne visée au premier alinéa désireuse de se faire communiquer la copie
-des budgets ou des comptes des établissements publics peut l'obtenir, à ses
-frais, aussi bien du président de l'organisme que des services déconcentrés de
-l'Etat.
+La communication des documents mentionnés au premier alinéa, qui peut être
+obtenue aussi bien du président que des services déconcentrés de l'Etat,
+intervient dans les conditions prévues par l'article 4 de la loi n° 78-753 du 17
+juillet 1978.
