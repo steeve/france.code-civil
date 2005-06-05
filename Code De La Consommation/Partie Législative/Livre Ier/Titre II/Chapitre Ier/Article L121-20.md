@@ -2,11 +2,7 @@ Article L121-20
 ----
 Le consommateur dispose d'un délai de sept jours francs pour exercer son droit
 de rétractation sans avoir à justifier de motifs ni à payer de pénalités, à
-l'exception, le cas échéant, des frais de retour. Le consommateur peut déroger à
-ce délai au cas où il ne pourrait se déplacer et où simultanément il aurait
-besoin de faire appel à une prestation immédiate et nécessaire à ses conditions
-d'existence. Dans ce cas, il continuerait à exercer son droit de rétractation
-sans avoir à justifier de motifs ni à payer de pénalités.
+l'exception, le cas échéant, des frais de retour.
 
 Le délai mentionné à l'alinéa précédent court à compter de la réception pour les
 biens ou de l'acceptation de l'offre pour les prestations de services.
