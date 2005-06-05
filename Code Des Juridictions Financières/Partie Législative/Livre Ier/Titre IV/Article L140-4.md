@@ -6,6 +6,7 @@ magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la
 Cour des comptes, à l'occasion des enquêtes que ceux-ci effectuent dans le cadre
 de leurs attributions.
 
-Pour les besoins des mêmes enquêtes, les magistrats de la Cour des comptes
-peuvent exercer directement le droit de communication que les agents des
-services financiers tiennent de la loi.
+Pour les besoins des mêmes enquêtes, les magistrats de la Cour des comptes,
+conseillers maîtres en service extraordinaire et rapporteurs peuvent exercer
+directement le droit de communication que les agents des services financiers
+tiennent de la loi.
