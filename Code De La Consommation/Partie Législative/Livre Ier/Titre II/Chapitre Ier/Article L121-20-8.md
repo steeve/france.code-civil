@@ -1,10 +1,14 @@
 Article L121-20-8
 ----
-Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un
-service de radiodiffusion sonore ou de télévision sont définies par le II de
-l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
-télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
+La présente sous-section régit la fourniture de services financiers à un
+consommateur dans le cadre d'un système de vente ou de prestation de services à
+distance organisé par le fournisseur ou par un intermédiaire qui, pour ce
+contrat, utilise exclusivement une ou plusieurs techniques de communication à
+distance jusqu'à, et y compris, la conclusion du contrat.
 
-L'article 3 II de la loi n° 88-21 du 6 janvier 1988 a été abrogé par l'article
-25 de la loi n° 2000-719 du 1er août 2000 publiée au JORF du 2 août 2000. Il a
-été repris dans le code de la consommation à l'article L. 121-17.
+Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du
+livre V du code monétaire et financier ainsi que les opérations pratiquées par
+les entreprises régies par le code des assurances, par les mutuelles et unions
+régies par le livre II du code de la mutualité et par les institutions de
+prévoyance et unions régies par le titre III du livre IX du code de la sécurité
+sociale sans préjudice des dispositions spécifiques prévues par ces codes.
