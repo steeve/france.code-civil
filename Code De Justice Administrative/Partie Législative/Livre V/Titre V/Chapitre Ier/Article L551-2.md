@@ -2,11 +2,11 @@ Article L551-2
 ----
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être
 saisi en cas de manquement aux obligations de publicité ou de mise en
-concurrence auxquelles sont soumis les contrats visés à l'article 7-2 de la loi
-n° 92-1282 du 11 décembre 1992 relative aux procédures de passation de certains
-contrats dans les secteurs de l'eau, de l'énergie, des transports et des
-télécommunications. Le juge ne peut statuer, avant la conclusion du contrat, que
-dans les conditions définies ci-après.
+concurrence auxquelles sont soumis les marchés mentionnés au 2° de l'article 33
+de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par
+certaines personnes publiques ou privées non soumises au code des marchés
+publics. Le juge ne peut statuer, avant la conclusion du contrat, que dans les
+conditions définies ci-après.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le
 contrat et qui sont susceptibles d'être lésées par ce manquement.

@@ -2,10 +2,12 @@ Article L551-1
 ----
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être
 saisi en cas de manquement aux obligations de publicité et de mise en
-concurrence auxquelles est soumise la passation des marchés publics, des
-contrats de partenariat, des contrats visés au premier alinéa de l'article L.
-6148-5 du code de la santé publique et des conventions de délégation de service
-public.
+concurrence auxquelles est soumise la passation des marchés publics, des marchés
+mentionnés au 2° de l'article 24 de l'ordonnance n° 2005-649 du 6 juin 2005
+relative aux marchés passés par certaines personnes publiques ou privées non
+soumises au code des marchés publics, des contrats de partenariat, des contrats
+visés au premier alinéa de l'article L. 6148-5 du code de la santé publique et
+des conventions de délégation de service public.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le
 contrat et qui sont susceptibles d'être lésées par ce manquement, ainsi que le

@@ -1,6 +1,6 @@
 Article L433-1
 ----
-Les contrats conclus par les organismes privés d'habitations à loyer modéré sont
-soumis aux principes de publicité, de mise en concurrence et d'exécution prévus
-par le code des marchés publics dans des conditions fixées par décret en Conseil
-d'Etat.
+Les marchés conclus par les organismes privés d'habitation à loyer modéré sont
+soumis aux dispositions de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
+marchés passés par certaines personnes publiques ou privées non soumises au code
+des marchés publics.
