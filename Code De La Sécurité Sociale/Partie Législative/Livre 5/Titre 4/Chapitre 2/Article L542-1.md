@@ -16,9 +16,9 @@ d. soit l'allocation d'éducation de l'enfant handicapé ;
 2°) aux ménages ou personnes qui, n'ayant pas droit à l'une des prestations
 mentionnées au 1°, ont un enfant à charge au sens de l'article L. 512-3 ;
 
-3°) aux chefs de famille qui n'ont pas d'enfant à charge, pendant une durée
-déterminée à compter du mariage, à la condition que celui-ci ait été célébré
-avant que les époux aient l'un et l'autre atteint un âge limite ;
+3°) aux ménages qui n'ont pas d'enfant à charge, pendant une durée déterminée à
+compter du mariage, à la condition que celui-ci ait été célébré avant que les
+époux aient l'un et l'autre atteint un âge limite ;
 
 4°) aux ménages ou aux personnes qui ont à leur charge un ascendant vivant au
 foyer ayant dépassé un âge déterminé ;

@@ -1,11 +1,14 @@
 Article L351-6
 ----
-Un fonds national de l'habitation est institué. Il est chargé [*attributions*]
-du financement de l'aide personnalisée au logement, de la prime de déménagement
-prévue à l'article L. 351-5 et des dépenses de gestion y afférentes ainsi que
-des dépenses du conseil national de l'aide personnalisée au logement. Ce fonds
-est administré par un conseil de gestion présidé par le ministre chargé de la
-construction et de l'habitation.
+Le fonds national d'aide au logement est chargé de financer l'aide personnalisée
+au logement, la prime de déménagement prévue à l'article L. 351-5 et les
+dépenses de gestion qui s'y rapportent ainsi que les dépenses du conseil
+national de l'habitat.
 
-La composition, les modes de désignation et les modalités de fonctionnement du
-conseil de gestion mentionné ci-dessus sont fixés par décret.
+Il finance également l'allocation de logement relevant du titre III du livre
+VIII du code de la sécurité sociale ainsi que les dépenses de gestion qui s'y
+rapportent.
+
+Le fonds est administré par un conseil de gestion dont la composition, les modes
+de désignation des membres et les modalités de fonctionnement sont fixés par
+décret.

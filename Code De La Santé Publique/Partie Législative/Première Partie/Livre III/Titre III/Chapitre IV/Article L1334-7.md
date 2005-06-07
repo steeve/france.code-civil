@@ -4,13 +4,12 @@ A l'expiration d'un délai de quatre ans à compter de la date d'entrée en vigu
 de la loi n° 2004-806 du 9 août 2004 relative à la politique de santé publique,
 le constat mentionné à l'article L. 1334-5 est annexé à tout nouveau contrat de
 location d'un immeuble affecté en tout ou partie à l'habitation construit avant
-le 1er janvier 1949. Ce constat doit avoir été établi depuis moins de six ans à
-la date de la signature du contrat. Si un tel constat établit l'absence de
-revêtements contenant du plomb ou la présence de revêtements contenant du plomb
-à des concentrations inférieures aux seuils définis par arrêté des ministres
-chargés de la santé et de la construction, il n'y a pas lieu de faire établir un
-nouveau constat à chaque nouveau contrat de location. Le constat initial sera
-joint à chaque contrat de location.
+le 1er janvier 1949. Si un tel constat établit l'absence de revêtements
+contenant du plomb ou la présence de revêtements contenant du plomb à des
+concentrations inférieures aux seuils définis par arrêté des ministres chargés
+de la santé et de la construction, il n'y a pas lieu de faire établir un nouveau
+constat à chaque nouveau contrat de location. Le constat initial sera joint à
+chaque contrat de location.
 
 Lorsque le contrat de location concerne un logement situé dans un immeuble ou
 dans un ensemble immobilier relevant des dispositions de la loi n° 65-557 du 10

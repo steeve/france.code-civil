@@ -4,7 +4,7 @@ Les conventions mentionnées à l'article L. 351-2 sont conclues entre l'Etat et
 les bailleurs de logements précisés à cet article.
 
 Elles déterminent, dans le cadre des conventions types mentionnées au même
-article, les obligations des parties et fixent notamment [*contenu*] :
+article, les obligations des parties et fixent notamment :
 
 - les travaux d'amélioration qui incombent aux bailleurs ;
 
@@ -28,8 +28,7 @@ de leur évolution ainsi que les charges dont le remboursement incombe aux
 locataires ;
 
 - les obligations des bailleurs à l'égard des organismes chargés de la
-liquidation et du paiement de l'aide personnalisée au logement ainsi que le
-montant de leur contribution au fonds national de l'habitation ;
+liquidation et du paiement de l'aide personnalisée au logement ;
 
 - les conditions de leur révision ainsi que leur durée qui ne peut être
 inférieure à neuf ans ;

@@ -1,7 +1,8 @@
 Article L631-8
 ----
-Les dispositions de l'article précédent ne sont pas applicables dans les
-stations balnéaires, climatiques ou thermales, classées ou en voie de
-classement, aux locaux qui, avant le 2 septembre 1939 [*date*], étaient
-habituellement affectés à la location saisonnière ou occupés pendant la saison
-par leur propriétaire.
+Lorsque le changement d'usage fait l'objet de travaux entrant dans le champ
+d'application du permis de construire, la demande de permis de construire ou la
+déclaration de travaux vaut demande de changement d'usage.
+
+Ces travaux ne peuvent être exécutés qu'après l'obtention de l'autorisation
+mentionnée à l'article L. 631-7.

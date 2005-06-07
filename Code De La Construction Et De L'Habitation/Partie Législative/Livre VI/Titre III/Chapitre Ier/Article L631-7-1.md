@@ -1,23 +1,25 @@
 Article L631-7-1
 ----
-Les locaux régulièrement affectés à un usage autre que l'habitation peuvent être
-temporairement affectés à l'habitation pour une durée n'excédant pas treize ans.
-Ce délai commence à courir à compter de la déclaration d'affectation temporaire
-des locaux.
+L'autorisation préalable au changement d'usage est délivrée, après avis du maire
+et, à Paris, Marseille et Lyon, après avis du maire d'arrondissement, par le
+préfet du département dans lequel est situé l'immeuble. Elle peut être
+subordonnée à une compensation sous la forme de la transformation concomitante
+en habitation de locaux ayant un autre usage.
 
-Jusqu'à l'expiration du délai mentionné à l'alinéa précédent, les locaux
-peuvent, nonobstant les dispositions de l'article L. 631-7, retrouver leur
-affectation antérieure sur simple déclaration. Les locaux qui, à l'expiration de
-ce délai, demeurent affectés à l'habitation sont régis par les dispositions
-applicables aux locaux à usage d'habitation.
+L'autorisation de changement d'usage est accordée à titre personnel. Elle cesse
+de produire effet lorsqu'il est mis fin, à titre définitif, pour quelque raison
+que ce soit, à l'exercice professionnel du bénéficiaire. Toutefois, lorsque
+l'autorisation est subordonnée à une compensation, le titre est attaché au local
+et non à la personne. Les locaux offerts en compensation sont mentionnés dans
+l'autorisation qui est publiée au fichier immobilier ou inscrite au livre
+foncier.
 
-Les déclarations mentionnées au présent article sont adressées conjointement au
-maire et au préfet.
+L'usage des locaux définis à l'article L. 631-7 n'est en aucun cas affecté par
+la prescription trentenaire prévue par l'article 2262 du code civil.
 
-En cas de location d'un local temporairement affecté à l'habitation en
-application du présent article, le contrat doit mentionner le caractère
-temporaire de cette affectation. Sous cette réserve, le retour des locaux à leur
-usage primitif est un motif légitime et sérieux au sens de l'article 15 de la
-loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
-portant modification de la loi n° 86-1290 du 23 décembre 1986. Il ne constitue
-pas un événement au sens de l'article 11 de cette même loi.
+Dans chaque département où l'article L. 631-7 est applicable, le préfet prend un
+arrêté fixant les conditions dans lesquelles sont délivrées les autorisations et
+déterminées les compensations par quartier et, le cas échéant, par
+arrondissement, au regard des objectifs de mixité sociale, en fonction notamment
+des caractéristiques des marchés de locaux d'habitation et de la nécessité de ne
+pas aggraver la pénurie de logements.

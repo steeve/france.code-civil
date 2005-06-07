@@ -22,7 +22,7 @@ La prise en compte des ressources peut faire l'objet de dispositions
 spécifiques, lorsque le demandeur est âgé de moins de vingt-cinq ans, et qu'il
 bénéficie d'un contrat de travail autre qu'un contrat à durée indéterminée.
 
-Le barême, révisé le 1er juillet de chaque année, tient compte de l'évolution
-constatée des prix de détail et du coût de la construction. Cette révision
-assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de
-l'aide personnalisée au logement.
+Le barème, révisé chaque année à une date fixée par décret, tient compte de
+l'évolution constatée des prix de détail et du coût de la construction. Cette
+révision assure, par toutes mesures appropriées, le maintien de l'efficacité
+sociale de l'aide personnalisée au logement.

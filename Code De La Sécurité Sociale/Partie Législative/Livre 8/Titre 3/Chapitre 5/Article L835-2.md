@@ -8,13 +8,13 @@ où elle est versée soit au prêteur lorsque l'allocataire est propriétaire, s
 au bailleur du logement lorsque l'allocataire est locataire :
 
 1° L'allocataire est locataire d'un logement compris dans un patrimoine d'au
-moins dix logements appartenant à un organisme d'habitations à loyer modéré
-mentionné à l'article L. 411-2 du code de la construction et de l'habitation ou
-géré par lui, et n'ayant pas fait l'objet d'une convention en application de
-l'article L. 351-2 du même code et, dans les départements d'outre-mer,
-appartenant à une société d'économie mixte constituée en application de la loi
-n° 46-860 du 30 avril 1946 ou à une société d'économie mixte locale, et ayant
-été construits, acquis ou améliorés avec le concours financier de l'Etat ;
+moins dix logements, dont le propriétaire ou le gestionnaire est un organisme
+d'habitations à loyer modéré, une société d'économie mixte de construction et de
+gestion de logements sociaux ou l'un des organismes suivants : l'Entreprise
+minière et chimique et les sociétés à participation majoritaire de l'Entreprise
+minière et chimique, les sociétés à participation majoritaire des Charbonnages
+de France et l'établissement public du gestion immobilière du Nord -
+Pas-de-Calais et les sociétés à participation majoritaire de cet établissement ;
 
 2° L'allocataire et le bailleur ou, le cas échéant, le prêteur sont d'accord
 pour que l'allocation soit versée au bailleur ou au prêteur ; cette modalité de
@@ -27,25 +27,30 @@ d'accéder à la propriété, le bailleur ou le prêteur demande que l'allocatio
 soit versée ;
 
 4° L'allocataire est locataire d'un logement dont les revenus sont soumis aux
-dispositions du g ou du sixième alinéa du e du 1° du I de l'article 31 du code
-général des impôts.
+dispositions du g ou du sixième alinéa du e du 1 du I de l'article 31 du code
+général des impôts ;
 
-Toutefois, dans les cas précités, l'allocation ne peut être versée au bailleur
-que si le logement répond aux exigences prévues au premier alinéa de l'article
-L. 831-3 ou, en ce qui concerne les logements sociaux, si le bailleur s'engage
-par convention avec l'Etat à rendre le logement décent dans un délai fixé par
-ladite convention. Une copie de cette convention est adressée aux organismes
-payeurs de l'allocation de logement. Sont considérés comme logements sociaux
-pour l'application de cette disposition les logements appartenant à ou gérés par
-un organisme d'habitations à loyer modéré, une société d'économie mixte, ainsi
-qu'un des organismes suivants : l'Entreprise minière et chimique et les sociétés
-à participation majoritaire de l'Entreprise minière et chimique, les houillères
-de bassin et les sociétés à participation majoritaire des houillères de bassin,
-les sociétés à participation majoritaire des Charbonnages de France,
-l'Etablissement public de gestion immobilière du Nord - Pas-de-Calais et les
-sociétés à participation majoritaire de cet établissement.
+5° L'allocataire est locataire d'un logement géré par un organisme sans but
+lucratif pratiquant la gestion immobilière de logements destinés aux personnes
+défavorisées mentionnées au II de l'article L. 301-1 du code de la construction
+et de l'habitation et qui sont agréés à cet effet par le représentant de l'Etat
+dans le département ;
 
-Dès lors que l'allocation est versée au bailleur ou au prêteur, elle est
-déduite, par les soins de qui reçoit le versement, du montant du loyer et des
-dépenses accessoires de logement ou de celui des charges de remboursement. Cette
-déduction doit être portée à la connaissance de l'allocataire.
+6° L'allocataire est locataire d'un logement dont le propriétaire ou le
+gestionnaire est un des établissements publics mentionnés à l'article L. 822-3
+du code de l'éducation.
+
+L'allocation ne peut être versée au bailleur que si le logement répond aux
+exigences prévues au premier alinéa de l'article L. 831-3 ou, pour les logements
+mentionnés au troisième alinéa du présent article, si le bailleur s'engage par
+convention avec l'Etat à rendre le logement décent dans un délai fixé par la
+convention. Le bailleur adresse une copie de cette convention aux organismes
+payeurs de l'allocation de logement.
+
+Lorsque l'allocation est versée au bailleur ou au prêteur, celui-ci la déduit du
+montant du loyer et des dépenses accessoires de logement ou de celui des charges
+de remboursement. Il porte cette déduction à la connaissance de l'allocataire.
+
+Lorsque l'organisme payeur a versé une allocation indue et que le bailleur ou le
+prêteur justifie avoir procédé à la déduction prévue à l'alinéa précédent, le
+trop-perçu est recouvré auprès, suivant le cas, du locataire ou de l'emprunteur.

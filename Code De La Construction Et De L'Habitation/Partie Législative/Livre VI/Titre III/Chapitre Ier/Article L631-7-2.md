@@ -1,6 +1,6 @@
 Article L631-7-2
 ----
-Sur requête de tout intéressé, le représentant de l'Etat dans le département
-délivre, après avis du maire et dans le délai de deux mois, un certificat
-indiquant si le local peut être régulièrement ou non affecté à l'usage mentionné
-dans la demande.
+Dans des conditions fixées par l'arrêté prévu à l'article L. 631-7-1, le préfet
+peut autoriser, dans une partie d'un local d'habitation utilisé par le demandeur
+comme sa résidence principale, l'exercice d'une profession à la condition que
+celle-ci ne revête à aucun moment un caractère commercial.

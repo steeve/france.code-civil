@@ -1,48 +1,31 @@
 Article L631-7
 ----
-Dans les communes définies à l'article 10-7 de la loi n° 48-1360 du 1er
-septembre 1948 modifiée :
+Dans les communes de plus de 200 000 habitants et dans les départements des
+Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, le changement
+d'usage des locaux destinés à l'habitation est soumis à autorisation préalable.
 
-1° Les locaux à usage d'habitation ne peuvent être, ni affectés à un autre
-usage, ni transformés en meublés, hôtels, pensions de famille ou autres
-établissements similaires dont l'exploitant exerce la profession de loueur en
-meublé au sens du premier alinéa de l'article 2 de la loi n° 49-458 du 2 avril
-1949 modifiée, accordant le bénéfice du maintien dans les lieux à certains
-clients des hôtels, pensions de famille et meublés ; les présentes dispositions
-n'étant pas applicables aux locations en meublé mentionnées au deuxième alinéa
-dudit article 2 ;
+Constituent des locaux destinés à l'habitation toutes catégories de logements et
+leurs annexes, y compris les logements-foyers, logements de gardien, chambres de
+service, logements de fonction, logements inclus dans un bail commercial, locaux
+meublés donnés en location dans les conditions de l'article L. 632-1.
 
-2° Les locaux à usage professionnel ou administratif ainsi que les meublés,
-hôtels, pensions de famille ou établissements similaires ne peuvent, s'ils ne
-conservent pas leur destination primitive, être affectés à un usage autre que
-l'habitation ;
+Pour l'application du présent chapitre, un local est réputé à usage d'habitation
+s'il était affecté à cet usage au 1er janvier 1970. Cette affectation peut être
+établie par tout mode de preuve. Les locaux construits postérieurement au 1er
+janvier 1970 sont réputés avoir l'usage pour lequel la construction a été
+autorisée.
 
-3° Les garages et remises mentionnés à l'article 2 de la loi n° 48-1360 du 1er
-septembre 1948 précitée ne peuvent être affectés à un usage commercial,
-industriel ou artisanal.
+Toutefois, lorsqu'une autorisation administrative subordonnée à une compensation
+a été accordée après la date de référence pour changer l'usage d'un local
+mentionné à l'alinéa précédent, le local autorisé à changer d'usage et le local
+ayant servi de compensation sont réputés avoir l'usage résultant de
+l'autorisation.
 
-Il ne peut être dérogé à ces interdictions que par autorisation administrative
-préalable et motivée, après avis du maire et, à Paris, Marseille et Lyon, aprés
-avis du maire d'arrondissement.
+Sont nuls de plein droit tous accords ou conventions conclus en violation du
+présent article.
 
-Le représentant de l'Etat dans le département peut autoriser l'exercice, sous
-certaines conditions, dans une partie d'un local d'habitation, d'une profession
-qui ne puisse à aucun moment revêtir un caractère commercial si ce local
-constitue en même temps la résidence du demandeur.
-
-Ces dérogations et autorisations sont accordées à titre personnel. Cependant,
-les bénéficiaires membres d'une profession libérale réglementée, qui rendent à
-l'habitation le local qui était devenu totalement ou partiellement
-professionnel, peuvent être autorisés à transformer un autre local d'habitation
-en local professionnel pour une surface équivalente.
-
-La dérogation et l'autorisation cessent de produire effet lorsqu'il est mis fin,
-à titre définitif, pour quelque raison que ce soit, à l'exercice professionnel
-du bénéficiaire.
-
-Sont nuls de plein droit, tous accords ou conventions conclus en violation du
-présent article. Toutefois le locataire ou occupant d'un local d'habitation
-irrégulièrement transformé en meublé et réaffecté à la location nue bénéficie de
-plein droit, quelle que soit la date de son entrée dans les lieux, du maintien
-dans les lieux dans les conditions prévues aux chapitres Ier et II du titre Ier
-de la loi précitée du 1er septembre 1948.
+Les dispositions du présent article ne sont pas applicables aux locaux
+appartenant à une personne publique, affectés à un autre usage que l'habitation
+à la date de leur cession et dont le produit de la cession donne lieu au
+versement d'une recette non fiscale au profit du budget de l'Etat. Elles
+demeurent inapplicables aux locaux qui auront fait l'objet d'une telle cession.
