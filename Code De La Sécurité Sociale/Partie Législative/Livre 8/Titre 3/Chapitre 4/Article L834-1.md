@@ -1,25 +1,20 @@
 Article L834-1
 ----
-Il est institué un Fonds national d'aide au logement en vue de centraliser les
-recettes et dépenses relevant du présent titre. Ce fonds est administré par un
-comité de gestion comprenant des représentants de l'Etat et des principaux
-régimes de sécurité sociale intéressés.
+Le financement de l'allocation de logement relevant du présent titre et des
+dépenses de gestion qui s'y rapportent est assuré par le fonds national d'aide
+au logement mentionné à l'article L. 351-6 du code de la construction et de
+l'habitation.
 
-Les recettes du fonds sont constituées [*financement*] :
+Pour concourir à ce financement, les employeurs sont assujettis à :
 
-1°) Par le produit d'une cotisation à la charge des employeurs assise sur les
-salaires plafonnés et recouvrée selon les règles applicables en matière de
-sécurité sociale ;
+1° Une cotisation assise sur les salaires plafonnés et recouvrée selon les
+règles applicables en matière de sécurité sociale ;
 
-2°) Par le produit d'une contribution à la charge des employeurs occupant plus
-de neuf salariés [*effectifs*], à l'exception de l'Etat et des collectivités
-locales, de leurs établissements publics administratifs et des employeurs
-relevant du régime agricole au regard des lois sur la sécurité sociale ; le taux
-de cette contribution, assise sur la totalité des salaires et recouvrée suivant
-les règles applicables en matière de sécurité sociale, est fixé à 0,20 p. 100.
-Pour les rémunérations et gains versés à compter du 1er juillet 1991, le taux de
-0,20 p. 100 est porté à 0,40 p. 100.
+2° Une contribution calculée par application d'un taux de 0,40 % sur la totalité
+des salaires et recouvrée suivant les règles applicables en matière de sécurité
+sociale.
 
-3°) Par une contribution de l'Etat.
-
-Le fonds supporte les charges résultant de l'application du présent titre.
+Les employeurs occupant moins de dix salariés, l'Etat, les collectivités
+locales, leurs établissements publics administratifs et les employeurs relevant
+du régime agricole au regard des lois sur la sécurité sociale ne sont pas soumis
+à la contribution mentionnée au 2°.
