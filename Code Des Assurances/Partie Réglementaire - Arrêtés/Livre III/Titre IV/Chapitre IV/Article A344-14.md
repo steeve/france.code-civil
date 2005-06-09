@@ -3,7 +3,7 @@ Article A344-14
 Les entreprises soumises à la surveillance complémentaire en application du
 premier alinéa de l'article L. 334-3 et des articles R. 334-40, R. 334-44 et R.
 334-45 et les sociétés de groupe d'assurance fournissent chaque année à la
-commission de contrôle des assurances, avant le 31 mai, un dossier constitué
+commission de contrôle des assurances, avant le 30 avril, un dossier constitué
 conformément aux annexes 1 et 2 du présent article. Les entreprises mentionnées
 au deuxième alinéa de l'article L. 334-3 fournissent seulement les états décrits
 à l'annexe 2.
@@ -26,7 +26,7 @@ l'exercice de la surveillance complémentaire à une autre autorité conforméme
 l'article R. 334-44.
 
 
-A N N E X E 1
+ANNEXE 1
 
 1. Renseignements généraux
 
@@ -146,7 +146,7 @@ du chiffre d'affaires : produit net bancaire, commissions de services
 financières, et au niveau du bilan : dépôts clientèles, crédits consentis.
 
 
-A N N E X E 2
+ANNEXE 2
 
 Chaque entreprise soumise à la surveillance complémentaire fournit les tableaux
 suivants relatifs au groupe considéré, constitué de l'ensemble des entreprises

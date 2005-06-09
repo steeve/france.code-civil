@@ -7,11 +7,11 @@ pratiqué à partir d'hypothèses financières standardisées. Ces hypothèses
 consistent, par rapport à leur moyenne respective constatée sur les trois
 dernières années :
 
-- en une baisse de l'indice boursier de référence de 30 % ;
+-en une baisse de l'indice boursier de référence de 30 % ;
 
-- en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
+-en une hausse de deux points des taux d'intérêt de l'obligation de référence ;
 
-- en une baisse de 20 % du prix des transactions immobilières.
+-en une baisse de 20 % du prix des transactions immobilières.
 
 Le test consiste à comparer l'ensemble des décaissements et des encaissements
 prévisibles de l'entreprise au cours des cinq exercices qui suivent le dernier
@@ -30,7 +30,3 @@ comptabilisés. Les engagements pour sinistres à payer sont recalculés sur la
 base de prestations majorées de 20 % et le taux des rachats exceptionnels pris
 en compte est égal au triple du taux annuel moyen des rachats constatés au cours
 des années passées.
-
-Les entreprises transmettent les résultats du test chaque année à la commission
-de contrôle avant le 31 mars dans la forme de l'état C 6 bis Test d'exigibilité
-défini dans l'annexe à l'article A. 344-10.

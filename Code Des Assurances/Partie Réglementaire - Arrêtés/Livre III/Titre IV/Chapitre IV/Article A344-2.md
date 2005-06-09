@@ -6,7 +6,7 @@ catégories d'opérations suivantes :
 
 1 Contrats de capitalisation à prime unique (ou versements libres) ;
 
-2 Contrats de capitalisation à prime périodique ;
+2 Contrats de capitalisation à primes périodiques ;
 
 3 Contrats individuels d'assurance temporaire décès (y compris groupes ouverts)
 ;
@@ -14,7 +14,7 @@ catégories d'opérations suivantes :
 4 Autres contrats individuels d'assurance vie à prime unique (ou versements
 libres) (y compris groupes ouverts) ;
 
-5 Autres contrats individuels d'assurance vie à prime périodique (y compris
+5 Autres contrats individuels d'assurance vie à primes périodiques (y compris
 groupes ouverts) ;
 
 6 Contrats collectifs d'assurance en cas de décès ;
@@ -24,12 +24,15 @@ groupes ouverts) ;
 8 Contrats d'assurance vie ou de capitalisation en unités de compte à prime
 unique (ou versements libres) ;
 
-9 Contrats d'assurance vie ou de capitalisation en unités de compte à prime
-périodique ;
+9 Contrats d'assurance vie ou de capitalisation en unités de compte à primes
+périodiques ;
 
 10 Contrats collectifs relevant de l'article L. 441-1 du code des assurances ;
 
-19 Acceptations en réassurance (Vie) ;
+11 Plans d'épargne retraite populaires relevant de l'article 108 de la loi n°
+2003-775 du 21 août 2003 ;
+
+19 Acceptations en réassurance (vie) ;
 
 20 Dommages corporels (contrats individuels) (y compris garanties accessoires
 aux contrats d'assurance vie individuels) ;
@@ -67,9 +70,9 @@ contrats d'assurance vie collectifs) ;
 
 38 Caution ;
 
-39 Acceptations en réassurance (Non-vie).
+39 Acceptations en réassurance (non-vie).
 
-Les garanties nuptialité - natalité sont à inclure, selon le cas, dans les
+Les garanties nuptialité-natalité sont à inclure, selon le cas, dans les
 catégories 4 à 9.
 
 Les entreprises qui pratiquent plusieurs catégories d'opérations doivent, dans
@@ -78,7 +81,7 @@ de leurs affaires brutes de cessions et de leurs affaires cédées : primes,
 sinistres, commissions, provisions techniques. Ces mêmes éléments doivent être
 ventilés, dans la comptabilité, pour chaque catégorie :
 
-- par Etat de situation du risque ou de l'engagement ;
+- par état de situation du risque ou de l'engagement ;
 
 - entre les affaires du siège et les affaires de chacune des succursales
 établies à l'étranger.
