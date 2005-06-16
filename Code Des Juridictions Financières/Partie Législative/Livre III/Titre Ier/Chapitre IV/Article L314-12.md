@@ -6,5 +6,3 @@ procureur général, l'avocat général ou le commissaire du Gouvernement prése
 leurs conclusions. Des questions peuvent être posées par le président ou, avec
 son autorisation, par les membres de la Cour à l'intéressé ou à son
 représentant, qui doit avoir la parole le dernier.
-
-Le rapporteur a voix consultative dans les affaires qu'il rapporte.
