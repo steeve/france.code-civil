@@ -24,10 +24,12 @@ documents mentionnés par l'article L. 2132-2 ;
 6° L'édition et la diffusion des documents mentionnés par les articles L.
 2121-1, L. 2122-2, L. 2132-1 et L. 2132-2 ;
 
-7° Des actions de formations destinées à aider dans leurs tâches éducatives les
-assistantes maternelles accueillant des mineurs à titre non permanent.
+7° Des actions d'information sur la profession d'assistant maternel et des
+actions de formation initiale destinées à aider les assistants maternels dans
+leurs tâches éducatives, sans préjudice des dispositions du code du travail
+relatives à la formation professionnelle continue.
 
 En outre, le service doit participer aux actions de prévention des mauvais
 traitements et de prise en charge des mineurs maltraités dans les conditions
-prévues au sixième alinéa (5°) de l'article 40 et aux articles 66 à 72 du code
-de la famille et de l'aide sociale.
+prévues au sixième alinéa (5°) de l'article L. 221-1 et aux articles L. 226-1 à
+L. 226-11, L523-1 et L. 532-2 du code de l'action sociale et des familles.

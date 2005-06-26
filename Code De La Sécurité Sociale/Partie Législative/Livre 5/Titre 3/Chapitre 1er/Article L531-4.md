@@ -49,7 +49,9 @@ exercent une activité professionnelle ou poursuivent une formation
 professionnelle rémunérée à temps partiel, un complément à taux partiel peut
 être attribué à chacun d'entre eux dans les conditions définies au 2 du I sans
 que, toutefois, le montant cumulé de ces deux compléments à taux partiel puisse
-être supérieur à celui du complément à taux plein.
+être supérieur à celui du complément à taux plein. Lorsque le montant cumulé des
+deux compléments à taux partiel est inférieur à celui du complément à taux
+plein, le montant de ce dernier complément est versé.
 
 IV. - Pour les enfants adoptés ou confiés en vue d'adoption, le complément est
 versé pendant une durée minimale à compter de l'arrivée de l'enfant au foyer des

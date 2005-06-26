@@ -1,9 +1,10 @@
 Article L773-7
 ----
-L'employeur qui décide de ne plus confier d'enfant à une personne relevant du
-présent chapitre qu'il employait depuis trois mois au moins [*délai*] doit
-notifier à l'intéressée sa décision par lettre recommandée [*formalité
-obligatoire*] avec demande d'avis de réception. La date de présentation de la
-lettre recommandée fixe le point de départ du délai-congé éventuellement dû en
-vertu de l'article L. 773-8 ou L. 773-13 ci-après. L'inobservation de ce
-délai-congé donne lieu au versement d'une indemnité compensatrice.
+Les mentions du contrat de travail des assistants maternels sont définies par
+décret. Elles font référence en particulier à la décision d'agrément délivrée
+par le président du conseil général ainsi qu'à la garantie d'assurance souscrite
+par les intéressés ou le cas échéant par leur employeur.
+
+Une convention ou un accord collectif étendu applicable aux assistants maternels
+peut notamment compléter ou adapter les dispositions du présent article ainsi
+que des articles L. 773-10, L. 773-11 et L. 773-16.
