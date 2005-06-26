@@ -1,11 +1,7 @@
 Article L773-15
 ----
-En cas de licenciement pour un motif autre qu'une faute grave, les personnes
-visées à la présente section justifiant d'une ancienneté d'au moins deux ans
-[*durée*] au service du même employeur ont droit à une indemnité compensatrice
-prévue à l'article L. 773-7 ci-dessus.
-
-Le montant minimal de cette indemnité de licenciement est fixé par décret
-d'après la moyenne mensuelle des sommes perçues par l'intéressée au titre des
-six meilleurs mois consécutifs de salaire versés par l'employeur qui la
-licencie.
+Le préavis n'est pas requis dans le cas où la rupture est liée à l'impossibilité
+de confier ou d'accueillir un enfant compte tenu de la suspension ou du retrait
+de l'agrément de l'assistant maternel relevant de la présente section, tels
+qu'ils sont prévus par les dispositions de l'article L. 421-6 du code de
+l'action sociale et des familles.

@@ -7,4 +7,4 @@ occupe et des avantages en nature qu'il y reçoit du propriétaire.
 
 En cas de faute grave commise par le salarié dans l'exercice de ses fonctions
 son renvoi immédiat peut être ordonné, sur la demande de l'employeur, par
-l'autorité judiciaire [*compétence*].
+l'autorité judiciaire.

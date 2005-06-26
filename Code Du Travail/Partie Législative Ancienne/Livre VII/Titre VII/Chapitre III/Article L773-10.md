@@ -1,6 +1,8 @@
 Article L773-10
 ----
-Le décret prévu aux articles L. 773-3 et L. 773-3-1 précise les ca dans lesquels
-la rémunération est majorée pour tenir compte de sujétions exceptionnelles
-entraînées éventuellement par des handicaps, maladies ou inadaptations, ainsi
-que le montant minimum de cette majoration.
+L'assistant maternel bénéficie d'un repos quotidien d'une durée minimale de onze
+heures consécutives.
+
+Un décret, une convention ou un accord collectif étendu peut, dans des
+conditions prévues par décret et sous réserve de respecter le droit à un repos
+compensateur ou à une indemnité, déroger aux dispositions de l'alinéa précédent.

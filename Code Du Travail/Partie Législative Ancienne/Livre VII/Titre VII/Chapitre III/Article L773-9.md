@@ -1,9 +1,11 @@
 Article L773-9
 ----
-Dans le cas d'un contrat à durée indéterminée, la décision, par une personne
-mentionnée à la présente section, de ne plus garder un enfant qui lui était
-confié depuis au moins trois mois est subordonnée à un préavis de quinze jours
-[*durée*], à moins que l'employeur n'accepte d'abréger cette durée.
+En cas d'absence d'un enfant pendant une période d'accueil prévue par le
+contrat, l'assistant maternel bénéficie, dans les conditions et limites de la
+convention collective nationale des assistants maternels, du maintien de sa
+rémunération, sauf si l'enfant ne peut être accueilli du seul fait de
+l'assistant maternel ou lorsque l'absence est due à une maladie de l'enfant
+attestée par un certificat médical.
 
-L'inobservation de ces conditions constitue une rupture abusive qui ouvre droit,
-au profit de l'employeur, à des dommages-intérêts.
+Dans ce dernier cas, l'assistant maternel a droit à une indemnité compensatrice
+dont le montant minimal est fixé par décret.

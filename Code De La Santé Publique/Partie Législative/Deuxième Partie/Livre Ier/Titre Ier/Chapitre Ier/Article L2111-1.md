@@ -15,5 +15,6 @@ de six ans ainsi que de conseil aux familles pour la prise en charge de ces
 handicaps ;
 
 4° La surveillance et le contrôle des établissements et services d'accueil des
-enfants de moins de six ans ainsi que des assistantes maternelles mentionnées à
-l'article 123-1 du code de la famille et de l'aide sociale.
+enfants de moins de six ans ainsi que le contrôle, la surveillance et
+l'accompagnement des assistants maternels mentionnés à l'article L. 421-1 du
+code de l'action sociale et des familles.

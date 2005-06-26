@@ -16,3 +16,8 @@ cotisations du régime général de sécurité sociale assises sur les salaires.
 
 Les mentions figurant dans le formulaire de déclaration sont fixées par arrêté
 du ministre chargé de la sécurité sociale.
+
+L'organisme mentionné au premier alinéa délivre au salarié une attestation
+d'emploi. La délivrance de cette attestation valant bulletin de paie se
+substitue à la remise du bulletin de paie par l'employeur prévue par l'article
+L. 143-3 du code du travail.

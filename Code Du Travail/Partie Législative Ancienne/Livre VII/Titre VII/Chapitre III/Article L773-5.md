@@ -1,16 +1,12 @@
 Article L773-5
 ----
-En cas d'absence d'un enfant, les assistantes maternelles accueillant des
-mineurs à titre non permanent ont droit, pour chaque journée où, d'après les
-conventions passées ou à défaut, les usages en vigueur, l'enfant aurait
-normalement dû leur être confié, à une indemnité compensatrice dont le montant
-minimal est fixé par décret en référence au salaire minimum interprofessionnel
-de croissance [*SMIC*].
+Les éléments et le montant minimal des indemnités et fournitures destinées à
+l'entretien de l'enfant sont définis par décret.
 
-Toutefois, cette indemnité n'est pas due :
+Pour les assistants maternels, les éléments et le montant minimal des indemnités
+et fournitures destinées à l'entretien de l'enfant sont fixés en fonction de la
+durée d'accueil effective de l'enfant. Les indemnités et fournitures ne sont pas
+remises en cas d'absence de l'enfant.
 
-Lorsque l'absence de l'enfant est imputable à l'assistante maternelle ou à la
-famille de celle-ci ;
-
-Lorsque l'absence est due à une maladie de l'enfant ou à une circonstance
-contraignante pour l'employeur.
+Pour les assistants familiaux, les indemnités et fournitures sont dues pour
+toute journée d'accueil commencée.

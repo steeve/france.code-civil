@@ -1,23 +1,13 @@
 Article L773-11
 ----
-Lorsqu'elles accueillent des mineurs qui résident chez elles à titre permanent,
-les personnes relevant de la présente section ne peuvent s'en séparer à
-l'occasion de repos hebdomadaire, jours fériés, congés [*payés*] annuels, congés
-d'adoption ou congés de formation ou congés pour événements familiaux sans
-l'accord préalable de leur employeur [*condition*].
+L'assistant maternel ne peut être employé plus de six jours consécutifs. Le
+repos hebdomadaire de l'assistant maternel a une durée minimale de vingt-quatre
+heures auxquelles s'ajoutent les heures consécutives de repos quotidien prévues
+à l'article L. 773-10.
 
-La décision de celui-ci est fondée sur la situation de chaque enfant, en
-fonction, notamment, de ses besoins psychologiques et affectifs et des
-possibilités de remise à sa famille naturelle. Elle tient compte aussi des
-souhaits de la famille d'accueil.
-
-Lorsque l'enfant est maintenu chez l'assistante maternelle qui l'accueille à
-titre permanent pendant la période de congés annuels de cette dernière, la
-rémunération de celle-ci est maintenue et s'ajoute aux indemnités prévues à
-l'article L. 773-6.
-
-Si, à l'occasion d'une maternité, une personne relevant de la présente section
-désire qu'un enfant qui lui a été confié lui soit momentanément retiré, elle
-fixe la date de départ et la durée du retrait dans les limites prévues pour le
-repos des femmes en couches. Elle fait connaître cette date et cette durée à
-l'employeur avant la fin du septième mois de sa grossesse.
+L'employeur ne peut demander à un assistant maternel de travailler plus de
+quarante-huit heures par semaine, cette durée étant calculée comme une moyenne
+sur une période de quatre mois, sans avoir obtenu l'accord de celui-ci et sans
+respecter des conditions définies par décret. Avec l'accord du salarié, cette
+durée peut être calculée comme une moyenne sur une période de douze mois, dans
+le respect d'un plafond annuel de 2 250 heures.

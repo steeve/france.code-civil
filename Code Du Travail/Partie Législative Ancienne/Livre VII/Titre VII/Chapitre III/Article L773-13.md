@@ -1,13 +1,8 @@
 Article L773-13
 ----
-En cas de licenciement pour un motif autre qu'une faute grave, les personnes
-relevant de la présente section ont droit :
-
-1° A un délai-congé de quinze jours si elles justifient, au servic du même
-employeur, d'une ancienneté comprise entre trois et six mois ;
-
-2° A un délai-congé d'un mois si elles justifient d'une ancienneté comprise
-entre six mois et moins de deux ans ;
-
-3° A un délai-congé de deux mois [*durée*] si elles justifient d'une ancienneté
-d'au moins deux ans.
+L'assistant maternel qui justifie auprès du même employeur d'une ancienneté d'au
+moins trois mois a droit, en cas de rupture du contrat de travail par son
+employeur, sauf en cas de faute grave et sous réserve des dispositions de
+l'article L. 773-15, à un préavis de quinze jours avant le retrait de l'enfant
+qui lui était confié. La durée du préavis est portée à un mois lorsque l'enfant
+est accueilli depuis un an ou plus.
