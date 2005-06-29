@@ -1,6 +1,6 @@
 Article 235 ter KH
 ----
-Cet article reproduit les dispositions de l'article L. 920-9 du code du travail
+Cet article reproduit les dispositions de l'article L. 991-6 du code du travail
 :
 
 "Faute de réalisation totale ou partielle d'une prestation de formation,

@@ -1,12 +1,11 @@
 Article L993-2
 ----
 Toute infraction aux dispositions des articles L. 920-4, L. 920-5, L. 920-5-1,
-L. 920-5-2, L. 920-5-3, L. 920-8 et L. 920-13 est punie d'une amende de 4500
-euros.
+L. 920-5-3, L. 920-8 et L. 920-13 est punie d'une amende de 4500 euros.
 
-Toute infraction aux dispositions des articles L. 920-6 et L. 920-7 est punie
-d'une amende de 4500 euros et d'un emprisonnement d'un an ou de l'une de ces
-deux peines seulement.
+Toute infraction aux dispositions de l'article L. 920-6 est punie d'une amende
+de 4 500 euros et d'un emprisonnement d'un an ou de l'une de ces deux peines
+seulement.
 
 La condamnation aux peines prévues aux deux alinéas précédents peut être
 assortie, à titre de peine complémentaire, d'une interdiction d'exercer
