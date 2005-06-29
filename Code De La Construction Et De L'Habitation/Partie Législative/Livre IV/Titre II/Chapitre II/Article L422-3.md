@@ -20,7 +20,11 @@ d'habitation ;
 4° De réaliser des lotissements ;
 
 5° De réaliser des hébergements de loisir à vocation sociale selon les modalités
-prévues à l'article L. 421-1.
+prévues à l'article L. 421-1 ;
+
+6° D'acquérir et donner en location à des organismes agréés par arrêté du
+représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
+à l'hébergement temporaire des personnes en difficulté.
 
 Elles peuvent, en outre, avec l'accord du maire de la commune d'implantation et
 du représentant de l'Etat dans le département, gérer en qualité

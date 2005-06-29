@@ -6,6 +6,11 @@ limites que les salaires. Toutefois, elles le sont dans la limite de 90 p. 100
 au profit des établissements hospitaliers et des caisses de sécurité sociale
 pour le paiement des frais d'hospitalisation.
 
+Le montant de la saisie sur rappel de pensions et rentes s'apprécie en
+rapportant la quotité saisissable au montant dû par échéance mensuelle ou
+trimestrielle quelle que soit la période de validité à laquelle se rapporte le
+rappel.
+
 L'application des dispositions du présent article ne peut avoir pour effet de
 réduire les arrérages de la pension d'invalidité servie pour un trimestre à un
 montant inférieur au quart du taux minimum fixé à l'article L. 341-5.

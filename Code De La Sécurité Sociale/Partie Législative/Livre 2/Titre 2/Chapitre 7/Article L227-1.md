@@ -22,8 +22,8 @@ le recouvrement des cotisations et des impôts affectés ;
 
 2° Les objectifs liés à l'amélioration de la qualité du service aux usagers ;
 
-3° Le cas échéant, les objectifs liés à la politique d'action sociale et de
-prévention ;
+3° Les objectifs de l'action sociale, de prévention et de lutte contre
+l'exclusion ;
 
 4° Les règles de calcul et d'évolution des budgets de gestion administrative et,
 s'il y a lieu, des budgets de contrôle médical, d'action sanitaire et sociale et
@@ -47,7 +47,8 @@ objectifs fixés.
 
 II. - Pour la branche maladie, la convention d'objectifs et de gestion mentionne
 notamment les orientations pluriannuelles de l'action du Gouvernement dans les
-domaines de la santé publique, de la démographie médicale et du médicament.
+domaines de la santé publique, de la démographie médicale, du médicament et de
+la lutte contre l'exclusion en matière d'accès aux soins.
 
 Un avenant annuel à la convention d'objectifs et de gestion de la branche
 maladie du régime général détermine, en fonction de l'objectif national

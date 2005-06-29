@@ -14,4 +14,7 @@ l'un, de plusieurs ou de l'ensemble des établissements de l'entreprise
 appartenant à la personne condamnée ;
 
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq
-ans au plus.
+ans au plus ;
+
+5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et
+ayant servi à commettre l'infraction prévue à l'article 225-14.

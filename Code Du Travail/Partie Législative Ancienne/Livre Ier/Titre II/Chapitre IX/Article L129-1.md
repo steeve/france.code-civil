@@ -47,3 +47,9 @@ agréments prévus au présent article, et notamment les conditions particulièr
 auxquelles sont soumis les agréments des associations et des entreprises dont
 l'activité concerne la garde d'enfants ou l'assistance aux personnes âgées ou
 handicapées.
+
+Ce décret précise les conditions dans lesquelles les associations
+intermédiaires, agréées à la date de l'entrée en vigueur de la loi n° 96-63 du
+29 janvier 1996 en faveur du développement des emplois de services aux
+particuliers, poursuivent leur activité, pour des emplois qui, en raison de leur
+nature, n'exigent pas un diplôme ou un agrément, jusqu'au 31 décembre 1999.

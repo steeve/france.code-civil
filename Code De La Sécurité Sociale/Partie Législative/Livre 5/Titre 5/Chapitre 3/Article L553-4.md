@@ -4,7 +4,8 @@ Les prestations familiales sont incessibles et insaisissables sauf pour le
 recouvrement des prestations indûment versées à la suite d'une manoeuvre
 frauduleuse ou d'une fausse déclaration de l'allocataire.
 
-Toutefois, peuvent être saisis :
+Toutefois, peuvent être saisis dans la limite d'un montant mensuel déterminé
+dans les conditions prévues au deuxième alinéa de l'article L. 553-2 :
 
 1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution
 aux charges du mariage et liées à l'entretien des enfants : l'allocation pour
@@ -24,31 +25,31 @@ Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnée
 à l'article L. 742-1 sont recouvrées sur les prestations familiales visées à
 l'article L. 511-1, à l'exception de l'allocation de logement.
 
-L'allocation de logement mentionnée à l'article L. 542-1 est versée après accord
-de l'allocataire et du bailleur ou du prêteur :
+L'allocation de logement prévue à l'article L. 542-1 est versée à l'allocataire,
+sauf dans les cas suivants où elle est versée au bailleur du logement lorsque
+l'allocataire est locataire, au prêteur lorsque l'allocataire est propriétaire :
 
-- en cas de location, au bailleur du logement,
+1° L'allocataire est locataire d'un logement compris dans un patrimoine d'au
+moins dix logements, appartenant à un organisme d'habitations à loyer modéré
+mentionné à l'article L. 411-2 du code de la construction et de l'habitation ou
+géré par lui, et n'ayant pas fait l'objet d'une convention en application de
+l'article L. 351-2 du même code, et, dans les départements d'outre-mer,
+appartenant à une société d'économie mixte constituée en application de la loi
+n° 46-860 du 30 avril 1946 ou à une société d'économie mixte locale, et ayant
+été construits, acquis ou améliorés avec le concours financier de l'Etat ;
 
-- dans les autres cas, au prêteur.
+2° L'allocataire et le bailleur ou, le cas échéant, le prêteur sont d'accord
+pour un versement de l'allocation au bailleur ou au prêteur ; cette modalité de
+versement ne peut être modifiée qu'avec l'accord de l'allocataire et, selon le
+cas, du bailleur ou du prêteur ;
 
-Cette modalité de versement ne peut être modifiée qu'avec l'accord de
-l'allocataire et, selon le cas, du bailleur ou du prêteur.
+3° Dans des conditions fixées par décret. lorsque l'allocataire n'ayant pas
+réglé ses loyers ou sa dette contractée en vue d'accéder à la propriété, le
+bailleur ou le prêteur demande que l'allocation lui soit versée.
 
-A la suite du non-paiement des loyers ou du non-remboursement de la dette
-contractée en vue d'accéder à la propriété, pendant une période déterminée,
-l'allocation de logement peut être versée entre les mains du bailleur ou du
-prêteur sur leur demande, par l'organisme débiteur, après que l'allocataire a
-été informé et mis en mesure de faire entendre ses observations. Ce versement a
-lieu au plus tard jusqu'à l'extinction de la dette résultant des échéances
-impayées dans la limite d'un délai fixé par décret.
-
-Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour
-effet de faire obstacle à l'insaisissabilité et à l'incessibilité des
-prestations familiales.
-
-Nonobstant toute opposition, les allocataires dont les prestations familiales
-sont servies par versement à un compte courant de dépôts ou d'avances peuvent
-effectuer mensuellement des retraits de ce compte dans la limite du montant des
-prestations familiales.
+Dès lors que l'allocation est versée au bailleur ou au prêteur, elle est
+déduite, par les soins de qui reçoit le versement, du montant du loyer et des
+dépenses accessoires de logement ou de celui des charges de remboursement. Cette
+déduction doit être portée à la connaissance de l'allocataire.
 
 Un décret précise les conditions d'application des deux alinéas précédents.

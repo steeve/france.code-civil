@@ -16,8 +16,9 @@ Ces objectifs et ces principes tiennent compte de l'évolution démographique et
 desserte en transports et des options d'aménagement déterminées par le schéma
 directeur ou le schéma de secteur, lorsqu'ils existent, ainsi que des
 dispositions du plan départemental d'action pour le logement des personnes
-défavorisées et du protocole d'occupation du patrimoine social des communes,
-quand ils existent.
+défavorisées, des chartes intercommunales du logement définies à l'article L.
+441-1-5 et du protocole d'occupation du patrimoine social des communes, quand
+ils existent.
 
 Il indique les moyens, notamment fonciers, qui seront mis en oeuvre par les
 communes ou les établissements publics de coopération intercommunale compétents

@@ -23,7 +23,11 @@ que les immeubles réalisés par l'ensemble de ces organismes en vue de
 l'accession à la propriété ;
 
 - de réaliser, en qualité de prestataire de services, des opérations portant sur
-tout immeuble à usage principal d'habitation.
+tout immeuble à usage principal d'habitation ;
+
+- d'acquérir et donner en location à des organismes agréés par arrêté du
+représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
+à l'hébergement temporaire de personnes en difficulté.
 
 Un décret en Conseil d'Etat précise leurs attributions et détermine les
 modalités de leur fonctionnement.

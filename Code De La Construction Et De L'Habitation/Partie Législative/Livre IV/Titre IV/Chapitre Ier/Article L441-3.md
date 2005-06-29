@@ -4,10 +4,10 @@ Les organismes d'habitations à loyer modéré peuvent exiger des locataires des
 logements visés au premier alinéa de l'article L. 441-1 le paiement d'un
 supplément de loyer de solidarité en sus du loyer principal et des charges
 locatives dès lors qu'au cours du bail les ressources de l'ensemble des
-personnes vivant au foyer excèdent d'au moins 10 p. 100 les plafonds de
-ressources en vigueur pour l'attribution de ces logements. Ils doivent exiger le
-paiement d'un tel supplément dès lors qu'au cours du bail le dépassement du
-plafond de ressources est d'au moins 40 p. 100.
+personnes vivant au foyer excèdent d'au moins 20 % les plafonds de ressources en
+vigueur pour l'attribution de ces logements. Ils doivent exiger le paiement d'un
+tel supplément dès lors qu'au cours du bail le dépassement du plafond de
+ressources est d'au moins 40 %.
 
 Les ressources sont appréciées selon les modalités applicables en matière
 d'attribution des logements. Toutefois, les dernières ressources connues de

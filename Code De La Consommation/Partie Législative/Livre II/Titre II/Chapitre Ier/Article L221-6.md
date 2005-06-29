@@ -16,3 +16,8 @@ la décision ministérielle, faire procéder à la consignation, dans tous les l
 pour la santé ou la sécurité des personnes. Les produits consignés sont laissés
 à la garde de leur détenteur après inventaire. Il peut, dans les mêmes
 conditions, suspendre la prestation d'un service.
+
+Pour les produits entrant dans le champ de compétence de l' Agence française de
+sécurité sanitaire des aliments, les résultats des investigations et les
+propositions mentionnées au premier alinéa sont transmis, dans les mêmes
+conditions, au directeur général de l'agence.

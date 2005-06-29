@@ -12,7 +12,11 @@ lorsque le total de l'allocation et des ressources personnelles de l'intéressé
 dépasse ce plafond, l'allocation est réduite à due concurrence.
 
 Un décret détermine les revenus et autres avantages pris en compte pour
-l'appréciation des ressources.
+l'appréciation des ressources ainsi que les modalités selon lesquelles les
+rémunérations tirées d'activités professionnelles ou de stages de formation qui
+ont commencé au cours de la période de versement de l'allocation peuvent être
+exclues, en tout ou en partie, du montant des ressources servant au calcul de
+l'allocation.
 
 Ce décret détermine aussi le délai dans lequel le conjoint survivant demande
 l'attribution de cette prestation postérieurement à la date du décès.

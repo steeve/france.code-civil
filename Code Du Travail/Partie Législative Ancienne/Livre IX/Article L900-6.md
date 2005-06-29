@@ -1,10 +1,17 @@
 Article L900-6
 ----
-Les informations demandées, sous quelque forme que ce soit, par un organisme de
-formation au candidat à un stage ou à un stagiaire ne peuvent avoir comme
-finalité que d'apprécier son aptitude à suivre l'action de formation, qu'elle
-soit sollicitée, proposée ou poursuivie.
+La lutte contre l'illettrisme fait partie de l'éducation permanente. L'Etat, les
+collectivités territoriales, les établissements publics, les établissements
+d'enseignement publics et privés, les associations, les organisations
+professionnelles, syndicales et familiales, ainsi que les entreprises y
+concourent chacun pour leur part.
 
-Ces informations doivent présenter un lien direct et nécessaire avec l'action de
-formation. Le candidat à un stage ou le stagiaire est tenu d'y répondre de bonne
-foi.
+Les actions de lutte contre l'illettrisme sont des actions de formation, au sens
+de l'article L. 900-2.
+
+Les coûts de ces actions sont imputables au titre de l'obligation de
+participation au financement de la formation professionnelle prévue à l'article
+L. 950-1 dans les conditions prévues au présent livre.
+
+Les modalités d'application du présent article sont définies par décret en
+Conseil d'Etat.

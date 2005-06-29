@@ -13,9 +13,10 @@ particulières d'accès à l'emploi.
 I. Les contrats d'accès à l'emploi conclus en vertu de ces conventions donnent
 droit :
 
-1° A une aide forfaitaire de l'Etat à l'employeur, dont le montant et les
-modalités de versement sont fixés par décret ; cette aide est exclusive de toute
-autre aide à l'emploi financée par l'Etat ;
+1° A une aide de l'Etat pour les catégories de bénéficiaires rencontrant les
+difficultés d'accès à l'emploi les plus graves ; ces catégories, ainsi que les
+conditions d'octroi et le montant de l'aide qui peut être modulée en fonction de
+la gravité des difficultés d'accès à l'emploi, sont fixés par décret ;
 
 2° A une exonération des cotisations à la charge de l'employeur dues au titre
 des assurances sociales, des allocations familiales et des accidents du travail

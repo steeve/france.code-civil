@@ -12,5 +12,5 @@ allocation. Dans ce cas, le service de l'allocation d'assurance est interrompu.
 Cette allocation est à la charge du fonds mentionné à l'article précédent.
 
 Un décret en Conseil d'Etat fixe les mesures d'application du présent article et
-notamment la durée de cette allocation. Le taux de cette allocation est fixé par
-décret.
+notamment la durée de cette allocation. Le taux de cette allocation, qui est
+révisé une fois par an en fonction de l'évolution des prix, est fixé par décret.

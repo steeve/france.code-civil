@@ -15,6 +15,15 @@ par les établissements publics administratifs, lorsqu'ils sont affectés à un
 service public ou d'utilité générale et qu'ils ne sont pas productifs de
 revenus.
 
+Cette obligation n'est pas non plus applicable aux permis de construire délivrés
+entre la date de publication de la loi n° 98-657 du 29 juillet 1998
+d'orientation relative à la lutte contre les exclusions et le 31 décembre 2002,
+lorsque les travaux portent sur les logements à usage locatif construits avec le
+concours financier de l'Etat en application du 3° de l'article L. 351-2 du code
+de la construction et de l'habitation et destinés aux personnes défavorisées
+mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise
+en oeuvre du droit au logement.
+
 Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation
 résultant des deux premiers alinéas du présent article n'est pas applicable aux
 immeubles ou parties d'immeubles affectés à l'habitation.

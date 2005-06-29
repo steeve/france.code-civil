@@ -9,7 +9,9 @@ de l'évolution des circonstances économiques.
 
 Pour la détermination de la fraction saisissable, il est tenu compte du montant
 de la rémunération, de ses accessoires ainsi que, le cas échéant, de la valeur
-des avantages en nature, après déduction des cotisations obligatoires. Sont
-exceptées les indemnités insaisissables, les sommes allouées à titre de
+des avantages en nature, après déduction des cotisations obligatoires. Il est en
+outre tenu compte d'une fraction insaisissable, égale au montant de ressources
+dont disposerait le salarié s'il ne percevait que le revenu minimum d'insertion.
+Sont exceptées les indemnités insaisissables, les sommes allouées à titre de
 remboursement de frais exposés par le travailleur et les allocations ou
 indemnités pour charges de famille.

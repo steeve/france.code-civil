@@ -34,3 +34,11 @@ maximum de jours de congé pouvant être utilisés par les animateurs et par les
 salariés appelés à exercer des responsabilités syndicales, ainsi que le
 pourcentage maximum de salariés pouvant être simultanément absents au titre des
 congés prévus au présent article.
+
+Les demandeurs d'emploi peuvent participer aux stages visés au premier alinéa du
+présent article dans la limite des durées de douze et dix-huit jours par période
+annuelle prévues pour les salariés.
+
+Les travailleurs involontairement privés d'emploi continuent de bénéficier du
+revenu de remplacement auquel ils ont droit pendant la durée des stages
+considérés.

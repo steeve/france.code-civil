@@ -37,4 +37,5 @@ Cette allocation est à la charge du fonds de solidarité créé par la loi n°
 82-939 du 4 novembre 1982.
 
 Un décret en Conseil d'Etat détermine les mesures d'application du présent
-article, à l'exception des taux qui sont fixés par décret.
+article, à l'exception du taux de cette allocation, qui est révisé une fois par
+an en fonction de l'évolution des prix et est fixé par décret.

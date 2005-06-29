@@ -11,10 +11,26 @@ relative à l'activité et au contrôle des établissements de crédit ainsi que
 services financiers de La Poste sont tenus de déclarer à la Banque de France les
 incidents visés à l'alinéa précédent.
 
-Le fichier visé au premier alinéa recense également les mesures conventionnelles
-ou judiciaires mentionnées au titre III du présent livre. Elles sont
-communiquées à la Banque de France soit par la commission instituée à l'article
-L. 331-1 soit par le greffe du tribunal d'instance.
+Lorsque la commission instituée à l'article L. 331-1 a vérifié que le débiteur
+qui l'a saisie se trouve dans la situation visée à l'article L. 331-2, elle en
+informe la Banque de France aux fins d'inscription au fichier institué au
+premier alinéa du présent article. La même obligation pèse sur le greffe du juge
+de l'exécution lorsque, sur recours de l'intéressé en application du deuxième
+alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est
+reconnue par ce juge.
+
+Le fichier recense les mesures du plan conventionnel de redressement mentionnées
+à l'article L. 331-6. Ces mesures sont communiquées à la Banque de France par la
+commission. L'inscription est conservée pendant toute la durée de l'exécution du
+plan conventionnel, sans pouvoir excéder huit ans.
+
+Le fichier recense également les mesures prises en vertu des articles L. 331-7
+et L. 331-7-1 qui sont communiquées à la Banque de France par le greffe du juge
+de l'exécution. S'agissant des mesures définies à l'article L. 331-7 et au
+premier alinéa de l'article L. 331-7-1, l'inscription est conservée pendant
+toute la durée d'exécution de ces mesures, sans pouvoir excéder huit ans.
+S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la
+durée d'inscription est fixée à huit ans.
 
 La Banque de France est seule habilitée à centraliser les informations visées à
 l'alinéa précédent.
