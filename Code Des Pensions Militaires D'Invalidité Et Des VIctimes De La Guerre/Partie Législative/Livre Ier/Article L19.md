@@ -3,10 +3,7 @@ Article L19
 Des majorations de pensions égales au huitième de la pension au taux de soldat,
 telle quelle est fixée par application de l'article L. 9, sont accordées aux
 titulaires de pensions définitives ou temporaires d'un taux inférieur à 85 % par
-enfant légitime né ou à naître.
-
-Les mêmes majorations sont allouées pour chaque enfant naturel reconnu, sous les
-conditions fixées pour la reconnaissance à l'article L. 64.
+enfant né ou à naître.
 
 Elles sont également allouées aux enfants adoptés, sous réserve que l'acte
 d'adoption ait été passé à une époque où l'état de santé de l'adoptant ne

@@ -1,10 +1,12 @@
 Article 313
 ----
-En cas de jugement ou même de demande, soit de divorce, soit de séparation de
-corps, la présomption de paternité ne s'applique pas à l'enfant né plus de trois
-cents jours après l'ordonnance autorisant les époux à résider séparément, et
-moins de cent quatre-vingt jours depuis le rejet définitif de la demande ou
-depuis la réconciliation.
+En cas de demande en divorce ou en séparation de corps, la présomption de
+paternité est écartée lorsque l'enfant est né plus de trois cents jours après la
+date soit de l'homologation de la convention réglant l'ensemble des conséquences
+du divorce ou des mesures provisoires prises en application de l'article 250-2,
+soit de l'ordonnance de non-conciliation, et moins de cent quatre-vingts jours
+depuis le rejet définitif de la demande ou la réconciliation.
 
-La présomption de paternité retrouve, néanmoins, de plein droit, sa force si
-l'enfant, à l'égard des époux, a la possession d'état d'enfant légitime.
+Néanmoins, la présomption de paternité se trouve rétablie de plein droit si
+l'enfant a la possession d'état à l'égard de chacun des époux et s'il n'a pas
+une filiation paternelle déjà établie à l'égard d'un tiers.

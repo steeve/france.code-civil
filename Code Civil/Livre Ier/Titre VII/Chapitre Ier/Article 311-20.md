@@ -7,9 +7,9 @@ au notaire, qui les informe des conséquences de leur acte au regard de la
 filiation.
 
 Le consentement donné à une procréation médicalement assistée interdit toute
-action en contestation de filiation ou en réclamation d'état à moins qu'il ne
-soit soutenu que l'enfant n'est pas issu de la procréation médicalement assistée
-ou que le consentement a été privé d'effet.
+action aux fins d'établissement ou de contestation de la filiation à moins qu'il
+ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement
+assistée ou que le consentement a été privé d'effet.
 
 Le consentement est privé d'effet en cas de décès, de dépôt d'une requête en
 divorce ou en séparation de corps ou de cessation de la communauté de vie,
@@ -22,7 +22,5 @@ Celui qui, après avoir consenti à l'assistance médicale à la procréation, n
 reconnaît pas l'enfant qui en est issu engage sa responsabilité envers la mère
 et envers l'enfant.
 
-En outre, est judiciairement déclarée la paternité hors mariage de celui qui,
-après avoir consenti à l'assistance médicale à la procréation, ne reconnaît pas
-l'enfant qui en est issu. L'action obéit aux dispositions des articles 340-2 à
-340-6.
+En outre, sa paternité est judiciairement déclarée. L'action obéit aux
+dispositions des articles 328 et 331.

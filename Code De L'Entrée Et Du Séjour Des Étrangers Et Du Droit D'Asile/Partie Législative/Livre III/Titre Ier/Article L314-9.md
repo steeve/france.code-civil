@@ -15,7 +15,7 @@ mentionnée au 6° de l'article L. 313-11, sous réserve qu'il remplisse encore 
 conditions prévues pour l'obtention de cette carte de séjour temporaire et qu'il
 ne vive pas en état de polygamie.
 
-L'enfant visé au présent article s'entend de l'enfant légitime ou naturel ayant
-une filiation légalement établie ainsi que de l'enfant adopté, en vertu d'une
-décision d'adoption, sous réserve de la vérification par le ministère public de
-la régularité de cette décision lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé au présent article s'entend de l'enfant ayant une filiation
+légalement établie, y compris l'enfant adopté, en vertu d'une décision
+d'adoption, sous réserve de la vérification par le ministère public de la
+régularité de cette décision lorsqu'elle a été prononcée à l'étranger.

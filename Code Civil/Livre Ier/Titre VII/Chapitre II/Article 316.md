@@ -1,9 +1,14 @@
 Article 316
 ----
-Le mari doit former l'action en désaveu dans les six mois de la naissance,
-lorsqu'il se trouve sur les lieux.
+Lorsque la filiation n'est pas établie dans les conditions prévues à la section
+I du présent chapitre, elle peut l'être par une reconnaissance de paternité ou
+de maternité, faite avant ou après la naissance.
 
-S'il n'était pas sur les lieux, dans les six mois de son retour.
+La reconnaissance n'établit la filiation qu'à l'égard de son auteur.
 
-Et dans les six mois qui suivent la découverte de la fraude, si la naissance de
-l'enfant lui avait été cachée.
+Elle est faite dans l'acte de naissance, par acte reçu par l'officier de l'état
+civil ou par tout autre acte authentique.
+
+L'acte comporte les énonciations prévues à l'article 62 et la mention que
+l'auteur de la reconnaissance a été informé du caractère divisible du lien de
+filiation ainsi établi.

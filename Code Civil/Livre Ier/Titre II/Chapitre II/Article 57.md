@@ -5,8 +5,8 @@ sexe de l'enfant, les prénoms qui lui seront donnés, le nom de famille, suivi 
 cas échéant de la mention de la déclaration conjointe de ses parents quant au
 choix effectué, ainsi que les prénoms, noms, âges, professions et domiciles des
 père et mère et, s'il y a lieu, ceux du déclarant. Si les père et mère de
-l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état
-civil, il ne sera fait sur les registres aucune mention à ce sujet.
+l'enfant ou l'un d'eux ne sont pas désignés à l'officier de l'état civil, il ne
+sera fait sur les registres aucune mention à ce sujet.
 
 Les prénoms de l'enfant sont choisis par ses père et mère. La femme qui a
 demandé le secret de son identité lors de l'accouchement peut faire connaître
@@ -17,7 +17,7 @@ l'état civil porte immédiatement sur l'acte de naissance les prénoms choisis.
 Tout prénom inscrit dans l'acte de naissance peut être choisi comme prénom
 usuel.
 
-Lorsque ces prénoms ou l'un deux, seul ou associé aux autres prénoms ou au nom,
+Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom,
 lui paraissent contraires à l'intérêt de l'enfant ou au droit des tiers à voir
 protéger leur nom de famille, l'officier de l'état civil en avise sans délai le
 procureur de la République. Celui-ci peut saisir le juge aux affaires
