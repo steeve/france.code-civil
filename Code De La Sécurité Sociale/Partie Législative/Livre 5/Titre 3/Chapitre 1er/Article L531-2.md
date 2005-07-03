@@ -6,7 +6,8 @@ avant la naissance de l'enfant, ou pour chaque enfant adopté ou accueilli en vu
 d'adoption dans les conditions définies à l'article L. 512-4, à compter de
 l'arrivée de l'enfant au foyer. Dans ce second cas, elle est versée même si
 l'enfant a un âge supérieur à l'âge limite mentionné à l'article L. 531-1 mais
-inférieur à l'âge limite mentionné au 2° de l'article L. 512-3.
+inférieur à l'âge limite mentionné au 2° de l'article L. 512-3. Le montant de la
+prime est majoré en cas d'adoption.
 
 La date de versement de cette prime est fixée par décret.
 

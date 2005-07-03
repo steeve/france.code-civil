@@ -12,13 +12,13 @@ période de vingt-deux semaines postérieure à l'accouchement est alors réduit
 d'autant. Cette période commence huit semaines avant la date présumée de
 l'accouchement et se termine dix-huit semaines après la date de celui-ci
 lorsque, avant l'accouchement, la salariée elle-même ou le ménage assume déjà la
-charge de deux enfants au moins dans les conditions prévues aux articles L. 525
-à L. 529 du code de la sécurité sociale ou lorsque la salariée a déjà mis au
-monde au moins deux enfants nés viables. La période de huit semaines de
-suspension du contrat de travail antérieure à la date présumée de l'accouchement
-peut être augmentée d'une durée maximale de deux semaines ; la période de
-dix-huit semaines de suspension du contrat de travail postérieure à la date de
-l'accouchement est alors réduite d'autant.
+charge de deux enfants au moins dans les conditions prévues aux articles L.
+512-3 et suivants et L. 521-2 du code de la sécurité sociale ou lorsque la
+salariée a déjà mis au monde au moins deux enfants nés viables. La période de
+huit semaines de suspension du contrat de travail antérieure à la date présumée
+de l'accouchement peut être augmentée d'une durée maximale de deux semaines ; la
+période de dix-huit semaines de suspension du contrat de travail postérieure à
+la date de l'accouchement est alors réduite d'autant.
 
 Quand l'accouchement a lieu avant la date présumée, la période de suspension du
 contrat de travail pourra être prolongée jusqu'au terme des seize, des
@@ -42,23 +42,23 @@ permettre à la salariée de participer, chaque fois que possible, aux soins
 dispensés à son enfant et de bénéficier d'actions d'éducation à la santé
 préparant le retour à domicile.
 
-Tout salarié à qui un service départemental d'aide sociale à l'enfance ou un
-organisme autorisé pour l'adoption confie un enfant en vue de son adoption a le
-droit de suspendre le contrat de travail pendant une période de dix semaines au
-plus à dater de l'arrivée de l'enfant au foyer, vingt-deux semaines en cas
-d'adoptions multiples. Cette période est fixée à dix-huit semaines si l'adoption
-a pour effet de porter à trois ou plus le nombre d'enfants dont le salarié ou le
-ménage assume la charge dans les conditions prévues aux articles L. 512-3 et
-suivants et L. 521-1 du code de la sécurité sociale. La suspension du contrat de
-travail peut précéder de sept jours calendaires, au plus, l'arrivée de l'enfant
-au foyer. Les parents salariés bénéficient alors de la protection instituée à
-l'article L. 122-25-2 du présent code. L'adoption d'un enfant par un couple de
-parents salariés ouvre droit à onze jours supplémentaires ou, en cas d'adoptions
-multiples, à dix-huit jours supplémentaires de congé d'adoption à la condition
-que la durée de celui-ci soit répartie entre les deux parents. En ce cas, la
-durée du congé ne peut être fractionnée en plus de deux périodes, dont la plus
-courte ne saurait être inférieure à onze jours. Ces deux périodes peuvent être
-simultanées.
+Tout salarié à qui un service départemental d'aide sociale à l'enfance, un
+organisme français autorisé pour l'adoption ou l'Agence française de l'adoption
+confie un enfant en vue de son adoption a le droit de suspendre le contrat de
+travail pendant une période de dix semaines au plus à dater de l'arrivée de
+l'enfant au foyer, vingt-deux semaines en cas d'adoptions multiples. Cette
+période est fixée à dix-huit semaines si l'adoption a pour effet de porter à
+trois ou plus le nombre d'enfants dont le salarié ou le ménage assume la charge
+dans les conditions prévues aux articles L. 512-3 et suivants et L. 521-1 du
+code de la sécurité sociale. La suspension du contrat de travail peut précéder
+de sept jours calendaires, au plus, l'arrivée de l'enfant au foyer. Les parents
+salariés bénéficient alors de la protection instituée à l'article L. 122-25-2 du
+présent code. L'adoption d'un enfant par un couple de parents salariés ouvre
+droit à onze jours supplémentaires ou, en cas d'adoptions multiples, à dix-huit
+jours supplémentaires de congé d'adoption à la condition que la durée de
+celui-ci soit répartie entre les deux parents. En ce cas, la durée du congé ne
+peut être fractionnée en plus de deux périodes, dont la plus courte ne saurait
+être inférieure à onze jours. Ces deux périodes peuvent être simultanées.
 
 Les dispositions de l'alinéa précédent sont applicables à la personne salariée
 titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille

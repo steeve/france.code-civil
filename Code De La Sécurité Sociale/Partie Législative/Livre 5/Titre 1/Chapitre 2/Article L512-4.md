@@ -10,5 +10,5 @@ par un organisme autorisé pour l'adoption ;
 2° Le ou les enfants soient confiés en vue d'adoption ou adoptés par décision de
 l'autorité étrangère compétente et autorisés à entrer à ce titre sur le
 territoire français et que le postulant à l'adoption ou l'adoptant soit
-titulaire de l'agrément mentionné aux articles L. 225-2, L. 225-3 et L. 225-15
+titulaire de l'agrément mentionné aux articles L. 225-2, L. 225-3 et L. 225-17
 du code de l'action sociale et des familles.
