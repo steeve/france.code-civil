@@ -17,12 +17,13 @@ l'hospitalisation lorsque ce dernier a convoqué la commission.
 
 Sauf cas d'urgence, l'ordre du jour est adressé au moins sept jours à l'avance
 aux membres de la commission et aux personnes qui y siègent avec voix
-consultative [*délai*].
+consultative.
 
 Sauf dispositions contraires, les avis émis par les commissions médicales
 d'établissement et les désignations auxquelles elles procèdent, notamment la
 désignation d'un représentant de la commission médicale d'établissement à la
-commission du service de soins infirmiers, le sont valablement :
+commission des soins infirmiers, de rééducation et médico-techniques, le sont
+valablement :
 
 a) Pour les commissions médicales d'établissement dont le nombre de membres
 appelés à siéger est au plus égal à cinquante, lorsque plus de la moitié des

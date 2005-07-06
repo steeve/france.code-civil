@@ -11,7 +11,7 @@ jusqu'à la désignation de leurs remplaçants par la nouvelle assemblée.
 Le mandat des membres désignés sur proposition des organisations syndicales les
 plus représentatives expire lors de chaque renouvellement du comité technique
 d'établissement. Lorsque les représentants du personnel sont élus, la durée de
-leur mandat est fixée à trois ans.
+leur mandat est fixée à quatre ans.
 
 La durée du mandat des membres qui siègent en qualité de personnalités
 qualifiées et de représentants des usagers ou des familles de personnes

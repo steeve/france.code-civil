@@ -22,24 +22,24 @@ santé mentionnés aux articles R. 714-2-1 à R. 714-2-7, qui ne sont ni présid
 ni membres de droit, sont désignés dans les conditions suivantes :
 
 1° Les représentants des communes, départements et régions sont élus, en leur
-sein ou non, par les assemblées délibérantes de ces collectivités.
+sein, par les assemblées délibérantes de ces collectivités.
 
-A défaut d'accord entre les communes concernées pour la désignation de leurs
-représentants aux conseils d'administration des établissements intercommunaux
-mentionnés à l'article R. 714-2-2 et au II de l'article R. 714-2-7, les maires
-de ces communes se réunissent en un collège qui choisit les représentants
-desdites communes. De même, à défaut d'accord entre les départements concernés
-pour la désignation de leurs représentants aux conseils d'administration des
-établissements interdépartementaux mentionnés à l'article R. 714-2-5, les
-présidents de ces conseils généraux se réunissent en un collège qui choisit les
-représentants desdits départements.
+A défaut d'accord entre les communes de rattachement pour la désignation de
+leurs représentants aux conseils d'administration des établissements
+intercommunaux mentionnés à l'article R. 714-2-2 et au II de l'article R.
+714-2-7, les maires de ces communes se réunissent en un collège qui choisit les
+représentants desdites communes. De même, à défaut d'accord entre les
+départements de rattachement pour la désignation de leurs représentants aux
+conseils d'administration des établissements interdépartementaux mentionnés à
+l'article R. 714-2-5, les présidents de ces conseils généraux se réunissent en
+un collège qui choisit les représentants desdits départements.
 
 2° Les représentants de la commission médicale d'établissement et le
-représentant de la commission du service de soins infirmiers sont élus en leur
-sein par lesdites commissions, au scrutin uninominal secret et à la majorité
-absolue. Si cette majorité n'est pas atteinte au premier tour, un deuxième tour
-est organisé. La majorité relative suffit au second tour. En cas de partage égal
-des voix, le plus âgé est élu.
+représentant de la commission des soins infirmiers, de rééducation et
+médico-techniques sont élus en leur sein par lesdites commissions, au scrutin
+uninominal secret et à la majorité absolue. Si cette majorité n'est pas atteinte
+au premier tour, un deuxième tour est organisé. La majorité relative suffit au
+second tour. En cas de partage égal des voix, le plus âgé est élu.
 
 3° Les représentants des personnels titulaires relevant du titre IV du statut
 général des fonctionnaires sont désignés par le directeur de l'agence régionale
@@ -55,7 +55,7 @@ cas d'égalité des suffrages obtenus, l'ordre d'attribution des sièges entre l
 différentes organisations est déterminé par voie de tirage au sort.
 
 Dans le cas où il n'existe pas d'organisation syndicale dans l'établissement, ou
-lorsqu'il est fait application du dernier alinéa de l'article L. 714-17, les
+lorsqu'il est fait application du dernier alinéa de l'article L. 6144-4, les
 représentants du personnel sont élus au scrutin uninominal à un tour parmi les
 personnels titulaires par l'ensemble de ces personnels. En cas d'égalité des
 voix, le siège est attribué au candidat le plus âgé.
@@ -68,10 +68,11 @@ Parmi ces personnalités :
 
 a) Le médecin est nommé sur proposition conjointe du conseil départemental de
 l'ordre des médecins et des syndicats départementaux des médecins les plus
-représentatifs ; en cas de désaccord, le conseil, d'une part, et les syndicats,
-d'autre part, présentent une liste de trois médecins ; le directeur de l'agence
-régionale de l'hospitalisation choisit le médecin parmi les six personnes
-proposées ;
+représentatifs ; en cas de désaccord, le conseil et les syndicats présentent
+respectivement une liste de trois médecins dans le délai, compris entre un et
+deux mois, qui leur est imparti par le directeur de l'agence régionale de
+l'hospitalisation ; à l'issue de ce délai, celui-ci choisit le médecin parmi les
+personnes proposées ;
 
 b) Le représentant des professions paramédicales est choisi parmi les personnes
 présentées par les organisations professionnelles représentatives au niveau
@@ -79,35 +80,9 @@ national qui ont en outre une représentation au niveau régional ; il est tenu
 compte dans ce choix de l'orientation médicale de l'établissement ;
 
 5° Les représentants des usagers sont nommés par le directeur de l'agence
-régionale de l'hospitalisation, après avis du préfet du département dans lequel
-l'établissement a son siège, parmi les personnes proposées par les associations
-agréées en application de l'article L. 1114-1 et dont le directeur de l'agence
-estime que l'objet social correspond le mieux à l'orientation médicale et
-médico-sociale de l'établissement.
+régionale de l'hospitalisation parmi les personnes proposées par les
+associations agréées en application de l'article L. 1114-1 et dont le directeur
+de l'agence estime que l'objet social correspond le mieux à l'orientation
+médicale et médico-sociale de l'établissement.
 
-III. - Les membres des conseils d'administration des établissements publics de
-santé interhospitaliers mentionnés à l'article R. 714-2-7-1, qui ne sont ni
-président ni membres de droit, sont désignés dans les conditions suivantes :
-
-1° Les représentants des collectivités territoriales, les personnalités
-qualifiées et les représentants des usagers sont respectivement désignés parmi
-les membres siégeant en ces qualités au sein des conseils d'administration des
-établissements fondateurs par l'ensemble des membres de ces conseils, dans la
-limite du nombre total de représentants attribué à chacun de ces établissements
-par l'acte de création conformément au III de l'article R. 714-2-7-1.
-
-A défaut d'accord entre les conseils d'administration des établissements
-fondateurs pour désigner leurs représentants, le directeur de l'agence régionale
-de l'hospitalisation indique à chaque établissement fondateur le nombre de
-représentants qu'il lui revient de désigner au titre de chacune des catégories
-mentionnées aux 1°, 6° et 7° des I ou II de l'article R. 714-2-7-1, dans la
-limite du nombre de représentants qui lui est attribué par l'acte de création
-conformément au III du même article. Les représentants sont alors élus parmi les
-membres siégeant au titre de chacune des catégories considérées au sein de
-chaque conseil d'administration des établissements fondateurs, par l'ensemble
-des membres de ce conseil ;
-
-2° Les représentants de la commission médicale d'établissement, le représentant
-de la commission du service de soins infirmiers et les représentants des
-personnels titulaires relevant du titre IV du statut général des fonctionnaires
-sont désignés dans les conditions prévues aux 2° et 3° du II ci-dessus.
+III. - Abrogé.

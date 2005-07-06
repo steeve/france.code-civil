@@ -2,21 +2,20 @@ Article R714-2-5
 ----
 Les conseils d'administration des centres hospitaliers et des centres
 hospitaliers régionaux ayant le caractère d'établissements publics de santé
-interdépartementaux sont composés de vingt et un membres, à savoir
-[*composition*] :
+interdépartementaux sont composés de vingt-deux membres, répartis entre trois
+collèges :
 
-1° Six représentants des départements concernés, désignés par les conseils
-généraux, aucun département ne pouvant avoir plus de quatre représentants ;
+1° Un collège de représentants des collectivités territoriales comportant huit
+membres :
 
-2° Un représentant de la commune dans laquelle l'établissement a son siège,
-désigné par le conseil municipal ;
+a) Six représentants des départements de rattachement, aucun département ne
+pouvant avoir plus de quatre représentants ;
 
-3° Un représentant de la région dans laquelle l'établissement a son siège,
-désigné par le conseil régional ;
+b) Un représentant de la commune dans laquelle l'établissement a son siège ;
 
-4° Les treize membres mentionnés aux 6° à 11° de l'article R. 714-2-1.
+c) Un représentant de la région dans laquelle l'établissement a son siège ;
 
-Sous réserve des dispositions de l'avant-dernier alinéa de l'article L. 6143-5,
-le président du conseil d'administration est élu par le conseil parmi les
-représentants des collectivités territoriales ou parmi les personnalités
-qualifiées.
+2° Les deux collèges respectivement prévus aux 2° et 3° de l'article R. 714-2-1.
+
+Le président du conseil d'administration est élu par et parmi les membres du
+collège prévu au 1° ci-dessus et du collège prévu au 3° de l'article R. 714-2-1.
