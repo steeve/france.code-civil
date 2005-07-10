@@ -15,6 +15,15 @@ compris l'extension de surface consacrée à l'opération de vente au déballage
 est supérieur à 300 mètres carrés, et par le maire de la commune dont dépend le
 lieu de la vente dans le cas contraire.
 
+Les particuliers non inscrits au registre du commerce et des sociétés sont
+autorisés à participer aux ventes au déballage en vue de vendre exclusivement
+des objets personnels et usagés deux fois par an au plus, à condition qu'ils
+aient leur domicile ou leur résidence secondaire dans la commune,
+l'intercommunalité ou l'arrondissement départemental ou, pour les villes de
+Lyon, Marseille et Paris, dans l'arrondissement municipal siège de la
+manifestation. Les modalités d'application du présent alinéa sont fixées par
+décret en Conseil d'Etat.
+
 II. - Les dispositions du I ne sont pas applicables aux professionnels :
 
 1° Effectuant, dans une ou plusieurs communes, des tournées de ventes définies

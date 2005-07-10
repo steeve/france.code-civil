@@ -77,7 +77,9 @@ Les directeurs d'établissement de santé ;
 
 Le président de la Commission nationale de l'informatique et des libertés ;
 
-Le Défenseur des enfants.
+Le Défenseur des enfants ;
+
+Le président de la Commission nationale de déontologie de la sécurité.
 
 II. - En ce qui concerne les détenus militaires ou relevant d'une autorité
 militaire :

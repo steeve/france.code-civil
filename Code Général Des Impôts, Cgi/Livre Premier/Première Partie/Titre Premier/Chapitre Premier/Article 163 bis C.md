@@ -2,9 +2,10 @@ Article 163 bis C
 ----
 I. L'avantage défini à l'article 80 bis est imposé lors de la cession des
 titres, selon le cas, dans des conditions prévues à l'article 150-0 A ou 150 UB
-si les actions acquises revêtent la forme nominative et demeurent indisponibles,
-suivant des modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement
-d'une période de quatre années à compter de la date d'attribution de l'option.
+si les actions acquises revêtent la forme nominative et demeurent indisponibles
+sans être données en location, suivant des modalités fixées par décret en
+Conseil d'Etat, jusqu'à l'achèvement d'une période de quatre années à compter de
+la date d'attribution de l'option.
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une
 mère ou une filiale dont le siège social est situé à l'étranger, les obligations
@@ -23,7 +24,8 @@ reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné
 à l'article 80 bis est ajouté au revenu imposable de l'année au cours de
-laquelle le salarié aura converti les actions au porteur ou en aura disposé.
+laquelle le salarié aura converti les actions au porteur, en aura disposé ou les
+aura données en location.
 
 Toutefois, si les actions sont cédées pour un prix inférieur à leur valeur
 réelle à la date de levée de l'option, la différence est déductible du montant

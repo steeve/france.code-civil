@@ -1,9 +1,9 @@
 Article 787 B
 ----
-Sont exonérées de droits de mutation à titre gratuit, à concurrence de la moitié
-de leur valeur, les parts ou les actions d'une société ayant une activité
+Sont exonérées de droits de mutation à titre gratuit, à concurrence de 75 % de
+leur valeur, les parts ou les actions d'une société ayant une activité
 industrielle, commerciale, artisanale, agricole ou libérale transmises par décès
-ou en pleine propriété entre vifs si les conditions suivantes sont réunies :
+ou entre vifs si les conditions suivantes sont réunies :
 
 a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un
 engagement collectif de conservation d'une durée minimale de deux ans en cours
@@ -73,6 +73,12 @@ A compter de la transmission et jusqu'à l'expiration de l'engagement collectif
 de conservation visé au a, la société doit en outre adresser, dans les trois
 mois qui suivent le 31 décembre de chaque année, une attestation certifiant que
 les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
+
+Les dispositions du présent article s'appliquent en cas de donation avec réserve
+d'usufruit à la condition que les droits de vote de l'usufruitier soient
+statutairement limités aux décisions concernant l'affectation des bénéfices.
+Cette exonération n'est alors pas cumulable avec la réduction prévue à l'article
+790.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent
 article, notamment les obligations déclaratives incombant aux redevables et aux

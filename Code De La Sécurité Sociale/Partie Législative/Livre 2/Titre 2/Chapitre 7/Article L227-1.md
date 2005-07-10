@@ -86,4 +86,4 @@ minimale de quatre ans. Elles sont communiquées aux conseils de surveillance
 mentionnés à l'article L. 228-1.
 
 Les conventions et, le cas échéant, les avenants qui les modifient sont transmis
-à la commission mentionnée à l'article L. 111-9.
+aux commissions parlementaires mentionnées à l'article LO. 111-9.

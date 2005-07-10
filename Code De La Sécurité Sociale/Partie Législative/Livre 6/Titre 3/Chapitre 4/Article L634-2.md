@@ -8,3 +8,7 @@ l'article L. 351-1-2, au premier alinéa de l'article L. 351-2, aux 4° et 6° d
 l'article L. 351-3, aux articles L. 351-4, L. 351-6, L. 351-7 à L. 351-10, L.
 351-12, L. 351-13, L. 352-1, L. 353-1 à L. 353-5, au deuxième alinéa de
 l'article L. 355-1 et à l'article L. 355-2.
+
+Lorsqu'il est fait application des dispositions du 2° de l'article L. 633-10,
+les dispositions de l'article L. 351-10 s'appliquent au total des droits acquis
+par les deux conjoints.

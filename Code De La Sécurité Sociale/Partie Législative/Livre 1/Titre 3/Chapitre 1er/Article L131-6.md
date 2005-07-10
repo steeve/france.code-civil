@@ -18,7 +18,8 @@ quatrième, cinquième et sixième alinéas du a du 5 de l'article 158 et aux
 articles 238 bis HA et 238 bis HC du code général des impôts. Il n'est pas tenu
 compte des reports déficitaires, des amortissements réputés différés au sens du
 2° du 1 de l'article 39 du code général des impôts et des plus-values et
-moins-values à long terme.
+moins-values à long terme ainsi que des provisions mentionnées aux articles 39
+octies E et 39 octies F du code général des impôts.
 
 Sont également pris en compte, dans les conditions prévues au deuxième alinéa,
 les revenus tirés de la location de tout ou partie d'un fonds de commerce, d'un

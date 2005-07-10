@@ -17,4 +17,6 @@ sociale.
 Les employeurs occupant moins de dix salariés, l'Etat, les collectivités
 locales, leurs établissements publics administratifs et les employeurs relevant
 du régime agricole au regard des lois sur la sécurité sociale ne sont pas soumis
-à la contribution mentionnée au 2°.
+à la contribution mentionnée au 2°. (Les dispositions du cinquième alinéa de
+l'article L. 620-10 du code du travail s'appliquent au calcul de l'effectif
+mentionné au présent article) (1).

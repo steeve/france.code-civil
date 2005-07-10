@@ -54,7 +54,11 @@ La commission exerce, en outre, un rôle d'observatoire régulier des pratiques
 commerciales, des facturations et des contrats conclus entre producteurs,
 fournisseurs, revendeurs qui lui sont soumis. Elle établit chaque année un
 rapport d'activité, qu'elle transmet au Gouvernement et aux assemblées
-parlementaires. Ce rapport est rendu public.
+parlementaires. Ce rapport est rendu public. Il comprend une analyse détaillée
+du nombre et de la nature des infractions aux dispositions du présent titre
+ayant fait l'objet de sanctions administratives ou pénales. Il comprend
+également les décisions rendues en matière civile sur les opérations engageant
+la responsabilité de leurs auteurs.
 
 Un décret détermine l'organisation, les moyens et les modalités de
 fonctionnement de la commission ainsi que les conditions nécessaires pour

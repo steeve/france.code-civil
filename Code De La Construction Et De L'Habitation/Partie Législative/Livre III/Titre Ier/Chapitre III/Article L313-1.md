@@ -1,6 +1,6 @@
 Article L313-1
 ----
-Les employeurs, occupant au minimum dix salariés, à l'exception de l'Etat, des
+Les employeurs, occupant au minimum vingt salariés, à l'exception de l'Etat, des
 collectivités locales et de leurs établissements publics administratifs,
 assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
 impôts, autres que ceux qui appartiennent à des professions relevant du régime
@@ -50,19 +50,20 @@ Les modalités d'application du présent article sont fixées par décret en Con
 d'Etat.
 
 Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou
-dépassent l'effectif de dix salariés, sont dispensés pendant trois ans du
+dépassent l'effectif de vingt salariés, sont dispensés pendant trois ans du
 paiement de la cotisation relative à la participation. Le montant de leur
 participation est réduit de 75 p. 100, 50 p. 100 et 25 p. 100, respectivement
 chacune des trois années suivant la dernière année de dispense. Les employeurs
-qui sont dispensés en 1996 du paiement de la cotisation relative à la
-participation en application du présent alinéa bénéficient de cette dispense
-jusqu'au 31 décembre 1999.
+ayant dépassé l'effectif de vingt salariés avant le 1er septembre 2005 et qui,
+en 2005, bénéficient d'une dispense ou d'une réduction du montant de leur
+participation continuent à bénéficier de cette dispense ou de cette réduction
+dans les conditions antérieures.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables lorsque
 l'accroissement de l'effectif résulte de la reprise ou de l'absorption d'une
-entreprise ayant employé dix salariés ou plus au cours de l'une des trois années
-précédentes.
+entreprise ayant employé vingt salariés ou plus au cours de l'une des trois
+années précédentes.
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due
 dans les conditions de droit commun dés l'année au cours de laquelle l'effectif
-de dix salariés est atteint ou dépassé.
+de vingt salariés est atteint ou dépassé.

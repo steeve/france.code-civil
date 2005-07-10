@@ -1,11 +1,8 @@
 Article L332-2
 ----
-Quiconque a embarqué ou fait embarquer sur un navire de commerce employé à la
-navigation maritime ou à la navigation sur les rivières ou canaux, expédié ou
-fait expédier par voie de terre des matières pouvant être une cause d'explosion
-ou d'incendie, sans en avoir déclaré la nature au capitaine, maître ou patron,
-au commissionnaire expéditeur ou au voiturier, et sans avoir apposé des marques
-apparentes sur les emballages est puni d'une amende de 3 750 euros.
+Nul ne peut porter atteinte au bon état et à la propreté du port et de ses
+installations.
 
-Cette disposition est applicable à l'embarquement sur navire étranger dans un
-port français ou sur un point quelconque des eaux françaises.
+Le fait de jeter dans les eaux du port tous déchets, objets, terre, matériaux ou
+autres, est puni d'une amende d'un montant égal à celui prévu pour les
+contraventions de la cinquième classe.

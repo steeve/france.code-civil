@@ -13,14 +13,17 @@ commun lorsqu'elles emploient plus de neuf salariés :
 compétent pour l'organisation des transports urbains, lorsque la population de
 l'ensemble des communes membres de l'établissement atteint le seuil indiqué.
 
+(Les dispositions du cinquième alinéa de l'article L. 620-10 du code du travail
+s'appliquent au calcul de l'effectif mentionné au présent article) (1).
+
 Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou
 dépassent l'effectif de dix salariés sont dispensés pendant trois ans du
-paiement du versement. Le montant du versement est réduit de 75 p. 100, 50 p.
-100 et 25 p. 100, respectivement chacune des trois années suivant la dernière
-année de dispense. Pour les employeurs qui sont dispensés du versement en 1996,
-la dispense de paiement s'applique jusqu'au 31 décembre 1999.
+paiement du versement. Le montant du versement est réduit de 75 %, 50 % et 25 %,
+respectivement chacune des trois années suivant la dernière année de dispense.
+Pour les employeurs qui sont dispensés du versement en 1996, la dispense de
+paiement s'applique jusqu'au 31 décembre 1999.
 
-Les dispositions de l'alinéa précédent ne sont pas applicable s lorsque
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque
 l'accroissement de l'effectif résulte de la reprise ou de l'absorption d'une
 entreprise ayant employé dix salariés ou plus au cours de l'une des trois années
 précédentes. Dans ce cas, le versement est dû dans les conditions de droit

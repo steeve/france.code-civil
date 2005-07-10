@@ -6,16 +6,17 @@ travailleurs indépendants au sens de l'article L. 242-11.
 Pour la détermination des revenus mentionnés au précédent alinéa, il n'est pas
 tenu compte des reports déficitaires ainsi que des amortissements réputés
 différés au sens du 2° du 1 de l'article 39 du code général des impôts et des
-plus-values et moins-values professionnelles à long terme. Les revenus sont
-majorés des déductions et abattements mentionnés aux articles 44 quater, 44
-sexies, 44 septies et 44 octies, au 4 bis et aux quatrième, cinquième et sixième
-alinéas du a du 5 de l'article 158 et aux articles 238 bis HA à 238 bis HC du
-code général des impôts. Les cotisations personnelles de sécurité sociale
-mentionnées à l'article 154 bis du code général des impôts, ainsi que les sommes
-visées à l'article L. 443-8 du code du travail et versées au bénéfice de
-l'employeur et du travailleur indépendant, sont ajoutées au bénéfice pour le
-calcul de la contribution à l'exception de celles prises en compte dans le
-revenu défini à l'article L. 242-11.
+plus-values et moins-values professionnelles à long terme ainsi que des
+provisions mentionnées au articles 39 octies E et 39 octies F du code général
+des impôts. Les revenus sont majorés des déductions et abattements mentionnés
+aux articles 44 quater, 44 sexies, 44 septies et 44 octies, au 4 bis et aux
+quatrième, cinquième et sixième alinéas du a du 5 de l'article 158 et aux
+articles 238 bis HA à 238 bis HC du code général des impôts. Les cotisations
+personnelles de sécurité sociale mentionnées à l'article 154 bis du code général
+des impôts, ainsi que les sommes visées à l'article L. 443-8 du code du travail
+et versées au bénéfice de l'employeur et du travailleur indépendant, sont
+ajoutées au bénéfice pour le calcul de la contribution à l'exception de celles
+prises en compte dans le revenu défini à l'article L. 242-11.
 
 La contribution est, à titre provisionnel, assise sur le revenu professionnel de
 l'avant-dernière année précédant celle au titre de laquelle elle est due.

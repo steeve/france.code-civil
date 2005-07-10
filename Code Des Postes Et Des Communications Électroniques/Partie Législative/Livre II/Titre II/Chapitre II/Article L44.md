@@ -46,3 +46,18 @@ d'opérateur tout en demeurant en métropole, dans un même département
 d'outre-mer, à Mayotte ou à Saint-Pierre-et-Miquelon. Les opérateurs prévoient
 les dispositions nécessaires dans les conventions d'accès et d'interconnexion, à
 des tarifs reflétant les coûts correspondants.
+
+Les offres mentionnées à l'alinéa précédent doivent permettre à l'abonné qui le
+demande de changer d'opérateur tout en conservant son numéro dans un délai
+maximum de dix jours, sauf demande expresse de l'abonné. La demande de
+conservation du numéro, adressée par l'abonné à l'opérateur auprès duquel il
+souscrit un nouveau contrat, est transmise par ce dernier à l'opérateur de
+l'abonné. Sans préjudice des dispositions contractuelles relatives aux durées
+minimales d'engagement, le portage effectif du numéro entraîne la résiliation du
+contrat qui lie cet opérateur à l'abonné au plus tard dans le délai de dix jours
+précité.
+
+Un décret, pris après avis de l'Autorité de régulation des communications
+électroniques et des postes, de la Commission supérieure du service public des
+postes et des communications électroniques et du Conseil national de la
+consommation, précise les modalités d'application des deux alinéas précédents.

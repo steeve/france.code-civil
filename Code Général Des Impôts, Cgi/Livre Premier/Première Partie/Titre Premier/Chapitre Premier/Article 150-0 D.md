@@ -72,6 +72,12 @@ salaires.
 Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est
 réputé égal à la valeur de l'action à la date de la levée de l'option.
 
+8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une
+opération mentionnée au 4 de l'article L. 313-7 du code monétaire et financier,
+le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de
+la promesse unilatérale de vente compte non tenu des sommes correspondant aux
+versements effectués à titre de loyers.
+
 9. En cas de vente ultérieure de titres reçus à l'occasion d'une opération
 mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en
 vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30

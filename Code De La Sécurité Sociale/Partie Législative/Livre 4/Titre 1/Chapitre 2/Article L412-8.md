@@ -98,7 +98,10 @@ national ;
 
 14° Dans des conditions fixées par décret, les personnes bénéficiaires d'un
 appui à la création ou à la reprise d'une activité économique au titre de
-l'article L. 127-1 du code de commerce.
+l'article L. 127-1 du code de commerce ;
+
+15° Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code du
+service national.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
 aux personnes mentionnées aux a. et b. du 1° ci-dessus.
@@ -109,8 +112,9 @@ et de stages ainsi que la nature des établissements mentionnés aux a. et b. du
 
 En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent article
 et non assujetties aux assurances sociales en vertu du livre III ainsi que les
-personnes mentionnées au 13°, le décret en Conseil d'Etat et, pour les personnes
-mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°, 11° et 12° des décrets prévus par
-ceux-ci, déterminent à qui incombent les obligations de l'employeur. Pour les
-personnes qui ne sont pas rémunérées ou ne reçoivent pas une rémunération
-normale, ils fixent les bases des cotisations et celles des indemnités.
+personnes mentionnées au 13° et les personnes mentionnées au 15°, le décret en
+Conseil d'Etat et, pour les personnes mentionnées aux 4°, 5°, 6°, 7°, 9°, 10°,
+11° et 12° des décrets prévus par ceux-ci, déterminent à qui incombent les
+obligations de l'employeur. Pour les personnes qui ne sont pas rémunérées ou ne
+reçoivent pas une rémunération normale, ils fixent les bases des cotisations et
+celles des indemnités.

@@ -50,18 +50,19 @@ Sont également prises en compte dans le calcul du quota de 60 % les
 participations versées à des sociétés de caution mutuelle ou à des organismes de
 garantie intervenant dans la zone géographique choisie par le fonds.
 
-Lorsque les titres d'une société détenus par un fonds d'investissement de
-proximité sont admis aux négociations sur un marché mentionné au 1 de l'article
-L. 214-36, ils continuent à être éligibles au quota d'investissement de 60 %
-pendant une durée de cinq ans à compter de leur admission.
+1 bis. Sont également éligibles au quota d'investissement de 60 % mentionné au
+1, dans la limite de 20 % de l'actif du fonds, les titres mentionnés au 3 de
+l'article L. 214-36, sous réserve que la société émettrice réponde aux
+conditions mentionnées au 1, à l'exception de celle tenant à la non-cotation, et
+n'ait pas pour objet la détention de participations financières.
 
-2. Les dispositions du 5 de l'article L. 214-36 s'appliquent aux fonds
+2. Les dispositions du 4 et du 5 de l'article L. 214-36 s'appliquent aux fonds
 d'investissement de proximité sous réserve du respect du quota de 60 % et des
-conditions d'éligibilité tels que définis au 1 du présent article. Toutefois,
-par dérogation aux dispositions du 5 du même article, les fonds d'investissement
-de proximité créés jusqu'au 31 décembre 2004 doivent respecter leur quota
-d'investissement de 60 % au plus tard lors de l'inventaire de clôture du
-deuxième exercice suivant celui de leur constitution.
+conditions d'éligibilité tels que définis au 1 et au 1 bis du présent article.
+Toutefois, par dérogation aux dispositions du 5 du même article, les fonds
+d'investissement de proximité créés jusqu'au 31 décembre 2004 doivent respecter
+leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture
+du deuxième exercice suivant celui de leur constitution.
 
 3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être
 détenues :

@@ -5,7 +5,9 @@ lucratif employant trois salariés au plus, pour rémunérer des salariés et po
 simplifier les déclarations et paiements afférents aux cotisations et
 contributions dues au régime de sécurité sociale ou au régime obligatoire de
 protection sociale des salariés agricoles, au régime d'assurance chômage et aux
-institutions de retraites complémentaires et de prévoyance.
+institutions de retraites complémentaires et de prévoyance. Les associations
+visées à l'article L. 52-5 du code électoral peuvent utiliser le chèque emploi
+associatif quel que soit le nombre de leurs salariés.
 
 Le chèque-emploi associatif ne peut être utilisé qu'avec l'accord du salarié. Il
 se substitue à la remise du bulletin de paie prévue par l'article L. 143-3.

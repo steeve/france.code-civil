@@ -38,6 +38,11 @@ mutualité sociale agricole et chacune des caisses de mutualité sociale agricol
 Les contrats pluriannuels de gestion sont signés pour chacun des deux organismes
 par le président du conseil d'administration et par le directeur.
 
+II bis. - La Caisse centrale de la mutualité sociale agricole est saisie, pour
+avis, par le ministre chargé de la sécurité sociale, des projets de loi de
+financement de la sécurité sociale dans les conditions prévues par l'article L.
+200-3 du code de la sécurité sociale.
+
 III. - Elle est soumise aux dispositions applicables en matière de gestion
 administrative, comptable et financière aux caisses départementales et
 pluridépartementales de mutualité sociale agricole.

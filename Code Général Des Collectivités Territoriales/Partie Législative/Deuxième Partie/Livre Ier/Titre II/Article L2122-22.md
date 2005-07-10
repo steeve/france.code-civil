@@ -22,7 +22,7 @@ de passer à cet effet les actes nécessaires ;
 4° De prendre toute décision concernant la préparation, la passation,
 l'exécution et le règlement des marchés de travaux, de fournitures et de
 services qui peuvent être passés sans formalités préalables en raison de leur
-montant, lorsque les crédits sont inscrits au budget ;.
+montant, lorsque les crédits sont inscrits au budget ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une
 durée n'excédant pas douze ans ;
@@ -65,19 +65,23 @@ commune dans les actions intentées contre elle, dans les cas définis par le
 conseil municipal ;
 
 17° De régler les conséquences dommageables des accidents dans lesquels sont
-impliqués des véhicules municipaux dans la limite fixée par le conseil
-municipal.
+impliqués des véhicules municipaux dans la limite fixée par le conseil municipal
+;
 
 18° De donner, en application de l'article L. 324-1 du code de l'urbanisme,
 l'avis de la commune préalablement aux opérations menées par un établissement
-public foncier local.
+public foncier local ;
 
 19° De signer la convention prévue par le quatrième alinéa de l'article L. 311-4
 du code de l'urbanisme précisant les conditions dans lesquelles un constructeur
 participe au coût d'équipement d'une zone d'aménagement concerté et de signer la
 convention prévue par le troisième alinéa de l'article L. 332-11-2 du même code
 précisant les conditions dans lesquelles un propriétaire peut verser la
-participation pour voirie et réseaux.
+participation pour voirie et réseaux ;
 
 20° De réaliser les lignes de trésorerie sur la base d'un montant maximum
-autorisé par le conseil municipal.
+autorisé par le conseil municipal ;
+
+21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil
+municipal, le droit de préemption défini par l'article L. 214-1 du code de
+l'urbanisme.

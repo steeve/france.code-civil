@@ -38,3 +38,10 @@ alinéa de l'article L. 223-30.
 
 Dans les mêmes conditions, le gérant peut mettre les statuts en harmonie avec
 les dispositions impératives de la loi et des règlements.
+
+Lorsque des parts sociales ont fait l'objet d'un contrat de bail en application
+de l'article L. 239-1, le gérant peut inscrire dans les statuts la mention du
+bail et du nom du locataire à côté du nom de l'associé concerné, sous réserve de
+la ratification de cette décision par les associés dans les conditions prévues à
+l'article L. 223-29. Il peut, dans les mêmes conditions, supprimer cette mention
+en cas de non-renouvellement ou de résiliation du bail.

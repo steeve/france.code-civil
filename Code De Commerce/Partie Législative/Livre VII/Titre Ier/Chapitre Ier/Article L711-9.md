@@ -1,24 +1,12 @@
 Article L711-9
 ----
-Dans le cadre des opérations d'urbanisme, les chambres de commerce et
-d'industrie ou les chambres de métiers peuvent, en accord avec la collectivité
-locale ou l'organisme constructeur, réaliser, en qualité de maître d'ouvrage,
-toute forme d'équipement commercial et artisanal répondant à des préoccupations
-économiques et sociales, au profit de commerçants et artisans, en vue de leur
-installation ou de la reconversion de leur activité ou de leur transfert.
+Les chambres régionales de commerce et d'industrie veillent à la mise à
+disposition des ressortissants des chambres de commerce et d'industrie de leur
+circonscription, de services et prestations dont la nature et les modalités sont
+fixées par décret.
 
-Elles peuvent notamment faciliter l'accès des commerçants et artisans à la
-propriété du fonds, et éventuellement des locaux, sans apport initial en
-capital.
-
-Pour la réalisation d'équipements commerciaux et artisanaux, elles peuvent
-également être délégataires du droit de préemption urbain ainsi que titulaires,
-ou délégataires, du droit de préemption institué dans les zones d'aménagement
-différé.
-
-Les emprunts contractés par les chambres de commerce et d'industrie et les
-chambres de métiers pour la réalisation des opérations visées ci-dessus peuvent
-être garantis par les collectivités locales. Les chambres de commerce et
-d'industrie, les chambres de métiers et leurs assemblées permanentes peuvent
-contracter des emprunts auprès de la caisse des dépôts et consignations et de la
-caisse d'aide à l'équipement des collectivités locales.
+Elles peuvent également créer, assurer directement ou coordonner des dispositifs
+de conseil et d'assistance aux entreprises et des actions de formation
+professionnelle dont l'objet excède le ressort d'une des chambres de commerce et
+d'industrie de leur circonscription ou d'un groupement de plusieurs d'entre
+elles.

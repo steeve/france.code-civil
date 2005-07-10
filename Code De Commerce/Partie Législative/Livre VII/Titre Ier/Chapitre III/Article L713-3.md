@@ -31,7 +31,7 @@ relative au redressement et à la liquidation judiciaires des entreprises ou,
 dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
 personnelle et les banqueroutes, d'une mesure d'interdiction définie à l'article
-L. 625-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
+L. 653-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
 commerciale ;
 
 3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées

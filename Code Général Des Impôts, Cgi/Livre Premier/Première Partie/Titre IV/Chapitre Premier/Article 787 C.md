@@ -1,11 +1,11 @@
 Article 787 C
 ----
-Sont exonérés de droits de mutation à titre gratuit, à concurrence de la moitié
-de leur valeur, la totalité ou une quote-part indivise de l'ensemble des biens
+Sont exonérés de droits de mutation à titre gratuit, à concurrence de 75 % de
+leur valeur, la totalité ou une quote-part indivise de l'ensemble des biens
 meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une
 entreprise individuelle ayant une activité industrielle, commerciale,
-artisanale, agricole ou libérale transmis par décès ou en pleine propriété entre
-vifs si les conditions suivantes sont réunies :
+artisanale, agricole ou libérale transmis par décès ou entre vifs si les
+conditions suivantes sont réunies :
 
 a. L'entreprise individuelle mentionnée ci-dessus a été détenue depuis plus de
 deux ans par le défunt ou le donateur lorsqu'elle a été acquise à titre onéreux
@@ -20,3 +20,6 @@ transmission.
 c. L'un des héritiers, donataires ou légataires mentionnés au b poursuit
 effectivement pendant les cinq années qui suivent la date de la transmission
 l'exploitation de l'entreprise.
+
+En cas de donation avec réserve d'usufruit, l'exonération prévue au présent
+article n'est pas cumulable avec la réduction prévue à l'article 790.

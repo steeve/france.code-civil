@@ -211,7 +211,7 @@ de la dotation à cette provision déterminée dans les conditions prévues à l
 phrase précédente. Toutefois, pour les entreprises dont la durée moyenne de
 rotation des stocks, pondérée par matières et produits, est supérieure à un an,
 le plafond fixé à la phrase précédente est multiplié par cette durée moyenne,
-exprimée en mois, divisée par douze (1).
+exprimée en mois, divisée par douze.
 
 La provision pratiquée à la clôture d'un exercice en application de l'alinéa
 précédent est rapportée de plein droit aux bénéfices imposables de l'exercice en
@@ -239,8 +239,7 @@ Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à
 leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont
 rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué
 par l'entreprise elle-même, l'administration peut procéder aux rectifications
-nécessaires dès qu'elle constate que les provisions sont devenues sans objet
-(2).
+nécessaires dès qu'elle constate que les provisions sont devenues sans objet.
 
 Par dérogation aux dispositions des premier et seizième alinéas, la provision
 pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est
@@ -457,12 +456,13 @@ la détermination du résultat imposable lorsqu'elles sont supportées par l'Eta
 du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
 8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments
-incorporels non amortissables est loué dans les conditions prévues au 3 de
-l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise
-en compte pour la fixation du prix de vente convenu pour l'acceptation de la
-promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt
-sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement
-dans le contrat de crédit-bail.
+incorporels non amortissables ou des parts sociales ou des actions de sociétés
+commerciales non négociables sur un marché réglementé sont loués dans les
+conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et
+financier, la quote-part de loyers prise en compte pour la fixation du prix de
+vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas
+déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire.
+Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les
 obligations déclaratives.
