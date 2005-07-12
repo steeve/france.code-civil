@@ -36,15 +36,20 @@ II. Le conseil d'une communauté de communes ayant créé, créant ou gérant un
 zone d'activités économiques qui se situe sur le territoire d'une ou de
 plusieurs communes membres peut, à la majorité simple de ses membres, décider de
 se substituer à ces dernières pour la perception de la taxe professionnelle
-acquittée par les entreprises implantées dans la zone. Pour les communautés de
-communes créées, ou issues de la transformation d'un établissement public de
-coopération intercommunale préexistant, à compter de la date de publication de
-la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la
-simplification de la coopération intercommunale, seul le conseil d'une
-communauté de communes de moins de 50 000 habitants ou le conseil d'une
-communauté de communes de plus de 50 000 habitants et dont la ou les communes
-centre ont une population inférieure à 15 000 habitants peut décider de
-percevoir une taxe professionnelle de zone.
+acquittée par les entreprises implantées dans la zone. Il peut, dans les mêmes
+conditions, décider de se substituer à ses communes membres pour percevoir la
+taxe professionnelle acquittée par les installations de production d'électricité
+utilisant l'énergie mécanique du vent implantées sur le territoire de ces
+communes à compter de la publication de la loi n° 2005-781 du 13 juillet 2005 de
+programme fixant les orientations de la politique énergétique. Pour les
+communautés de communes créées, ou issues de la transformation d'un
+établissement public de coopération intercommunale préexistant, à compter de la
+date de publication de la loi n° 99-586 du 12 juillet 1999 relative au
+renforcement et à la simplification de la coopération intercommunale, seul le
+conseil d'une communauté de communes de moins de 50 000 habitants ou le conseil
+d'une communauté de communes de plus de 50 000 habitants et dont la ou les
+communes centre ont une population inférieure à 15 000 habitants peut décider de
+percevoir une taxe professionnelle de zone d'activités économiques.
 
 1° Le taux de taxe professionnelle voté par la communauté de communes en
 application de cette disposition ne peut, la première année, excéder le taux
@@ -107,6 +112,16 @@ communautaire.
 Le conseil de l'établissement public de coopération intercommunale fixe le
 montant de cette attribution après consultation de la ou des communes
 concernées.
+
+5° L'établissement public de coopération intercommunale verse à la ou aux
+communes dont tout ou partie du territoire est situé à l'intérieur d'une zone de
+développement de l'éolien ou, en l'absence de zone de développement de l'éolien,
+aux communes d'implantation des installations visées au premier alinéa du
+présent II et aux communes limitrophes membres de l'établissement public de
+coopération intercommunale une attribution visant à compenser les nuisances
+environnementales liées aux installations utilisant l'énergie mécanique du vent.
+Cette attribution ne peut être supérieure au produit de la taxe professionnelle
+perçue sur ces installations.
 
 III. Le conseil d'une communauté de communes peut, à la majorité simple de ses
 membres, décider de percevoir la taxe professionnelle selon les dispositions de

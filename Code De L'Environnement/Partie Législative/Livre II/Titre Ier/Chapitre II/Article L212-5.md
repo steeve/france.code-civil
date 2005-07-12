@@ -10,7 +10,10 @@ collectivités territoriales et de leurs groupements, des syndicats mixtes, des
 des sociétés d'économie mixte et des associations syndicales libres de
 l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations
 syndicales de propriétaires ayant des incidences sur la qualité, la répartition
-ou l'usage de la ressource en eau.
+ou l'usage de la ressource en eau. Le schéma prend également en compte
+l'évaluation, par zone géographique, du potentiel hydroélectrique établi en
+application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000
+précitée.
 
 Il énonce, ensuite, les priorités à retenir pour atteindre les objectifs définis
 à l'article L. 212-3, en tenant compte de la protection du milieu naturel

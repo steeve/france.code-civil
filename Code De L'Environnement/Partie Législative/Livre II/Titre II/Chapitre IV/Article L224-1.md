@@ -22,11 +22,16 @@ II. - Les décrets mentionnés au I peuvent aussi :
 d'énergie et les émissions de substances polluantes de leurs biens, à leur
 diligence et à leurs frais ;
 
-2° Prescrire les conditions de limitation de la publicité ou des campagnes
-d'information commerciale relatives à l'énergie ou à des biens consommateurs
-d'énergie lorsqu'elles sont de nature à favoriser la consommation d'énergie dans
-les cas autres que ceux prévus à l'article 1er de la loi n° 74-908 du 29 octobre
-1974 relative aux économies d'énergie.
+2° Prévoir que les chaudières et les systèmes de climatisation dont la puissance
+excède un seuil fixé par décret font l'objet d'inspections régulières, dont ils
+fixent les conditions de mise en oeuvre. Dans le cadre de ces inspections, des
+conseils d'optimisation de l'installation sont, le cas échéant, dispensés aux
+propriétaires ou gestionnaires ;
+
+3° Prescrire aux entreprises qui vendent de l'énergie ou des services
+énergétiques l'obligation de promotion d'une utilisation rationnelle de
+l'énergie et d'incitation à des économies d'énergie dans le cadre de leurs
+messages publicitaires.
 
 III. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles le fioul
 domestique, le gazole, l'essence et les supercarburants doivent comporter un

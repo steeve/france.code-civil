@@ -25,3 +25,13 @@ d'un entretien régulier.
 
 III. - Tout refus, retrait ou modification d'autorisation doit être motivé
 auprès du demandeur.
+
+IV. - Un décret détermine les conditions dans lesquelles les autorisations de
+travaux ou d'activités présentant un caractère temporaire, périodique et
+dépourvu d'effet important et durable sur le milieu naturel seront accordées,
+sans enquête publique préalable, aux entreprises hydroélectriques autorisées qui
+en feront la demande pour la durée du titre à couvrir. Les dispositions des
+décrets en vigueur à la date de la publication de la loi n° 2005-781 du 13
+juillet 2005 de programme fixant les orientations de la politique énergétique
+seront abrogées si elles ne sont pas en conformité avec les dispositions du
+décret visé ci-dessus.

@@ -31,9 +31,16 @@ ou par le président de l'établissement public de coopération et assermentés 
 les conditions prévues par l'article 43 de la loi n° 2000-108 du 10 février 2000
 précitée pour les fonctionnaires et agents habilités par le ministre chargé de
 l'énergie et pour les agents de la Commission de régulation de l'énergie
-habilités par son président. Ils encourent une amende de 15 000 Euros en cas de
+habilités par son président. Ils encourent une amende de 15 000 euros en cas de
 révélation des informations visées à l'article 20 de la loi n° 2000-108 du 10
 février 2000 et à l'article 9 de la loi n° 2003-8 du 3 janvier 2003 précitées.
+
+L'autorité organisatrice d'un réseau public de distribution d'électricité et de
+gaz peut exercer des missions de conciliation en vue du règlement de différends
+relatifs à la fourniture d'énergie de dernier recours, mentionnée à l'article 15
+de la loi n° 2000-108 du 10 février 2000 précitée et à l'article 16 de la loi n°
+2003-8 du 3 janvier 2003 précitée, qui lui seraient soumis par les consommateurs
+éligibles raccordés à son réseau ou leurs fournisseurs.
 
 En application des dispositions du quatrième alinéa de l'article 36 de la loi n°
 46-628 du 8 avril 1946 précitée, les collectivités et établissements précités
@@ -51,7 +58,14 @@ travaux d'électrification rurale dont la maîtrise d'ouvrage est assurée par l
 collectivités et les établissements mentionnés à l'alinéa précédent. A cet
 effet, il est alimenté par des contributions annuelles des gestionnaires des
 réseaux publics de distribution, assises sur le nombre de kilowattheures
-distribués à partir des ouvrages exploités en basse tension.
+distribués à partir des ouvrages exploités en basse tension. Il peut également
+consentir des aides financières pour la réalisation d'opérations de maîtrise de
+la demande d'électricité ou de production d'électricité par des énergies
+renouvelables dont la maîtrise d'ouvrage est assurée dans les conditions prévues
+à l'alinéa précédent, lorsqu'elles permettent d'éviter des extensions ou des
+renforcements de réseaux, ainsi que, dans les zones non interconnectées au
+réseau métropolitain continental, pour la réalisation des installations de
+production de proximité mentionnées à l'article L. 2224-33.
 
 Il est interdit aux entreprises, nonobstant toutes stipulations contractuelles
 contraires, de récupérer soit sur les consommateurs, soit sur les autorités
@@ -82,23 +96,20 @@ l'environnement applicables aux réseaux publics de distribution ;
 
 - les conditions dans lesquelles les collectivités concédantes peuvent faire
 prendre en charge par leur concessionnaire des opérations de maîtrise de la
-demande d'électricité ;
+demande d'électricité ou d'énergies de réseau ;
 
 - les conditions financières des concessions en matière de redevance et de
 pénalités.
 
-III. - Les communes qui ne disposent pas d'un réseau public de gaz naturel et
-qui ne figurent pas dans le plan prévu par l'article 50 de la loi n° 98-546 du 2
-juillet 1998 portant diverses dispositions d'ordre économique et financier ou
-dont les travaux de desserte n'ont pas été engagés dans le délai de trois ans,
-ou les établissements publics de coopération éventuellement compétents au titre
-de ces communes, peuvent concéder leur service public du gaz à toute entreprise
-ou société d'économie mixte régulièrement agréée à cet effet par le ministre
-chargé de l'énergie dans les conditions définies par le décret prévu au III du
-même article prenant en compte les capacités techniques et financières de
-l'opérateur. Ces communes ou ces établissements publics de coopération peuvent
-également créer une régie, avoir recours à un établissement de ce type existant
-ou participer à une société d'économie mixte existante.
+III. - Les communes, leurs établissements publics de coopération intercommunale
+ou leurs syndicats mixtes qui ne disposent pas d'un réseau public de
+distribution de gaz naturel ou dont les travaux de desserte ne sont pas en cours
+de réalisation peuvent concéder la distribution publique de gaz à toute
+entreprise agréée à cet effet par le ministre chargé de l'énergie, dans les
+conditions précisées à l'article 25-1 de la loi n° 2003-8 du 3 janvier 2003
+précitée. Ces communes et ces établissements peuvent créer une régie agréée par
+le ministre chargé de l'énergie, avoir recours à un établissement de ce type
+existant ou participer à une société d'économie mixte existante.
 
 IV. - Un réseau public de distribution d'électricité a pour fonction de
 desservir les consommateurs finals et les producteurs d'électricité raccordés en
