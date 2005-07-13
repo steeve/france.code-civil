@@ -73,7 +73,9 @@ a) Elimination et valorisation des déchets des ménages et déchets assimilés 
 
 b) Lutte contre la pollution de l'air ;
 
-c) Lutte contre les nuisances sonores.
+c) Lutte contre les nuisances sonores ;
+
+d) Soutien aux actions de maîtrise de la demande d'énergie.
 
 Lorsque l'exercice des compétences mentionnées au présent paragraphe est
 subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est

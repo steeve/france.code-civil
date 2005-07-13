@@ -3,11 +3,11 @@ Article L152-4
 Est puni d'une amende de 45 000 euros le fait, pour les utilisateurs du sol, les
 bénéficiaires des travaux, les architectes, les entrepreneurs ou toute autre
 personne responsable de l'exécution de travaux, de méconnaître les obligations
-imposées par les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 112-17, L.
-125-3 et L. 131-4, par les règlements pris pour leur application ou par les
-autorisations délivrées en conformité avec leurs dispositions. En cas de
-récidive, la peine est portée à six mois d'emprisonnement et 75 000 euros
-d'amende.
+imposées par les articles L. 111-4, L. 111-7, L. 111-8, L. 111-9, L. 111-10, L.
+111-10-1, L. 112-17, L. 125-3 et L. 131-4, par les règlements pris pour leur
+application ou par les autorisations délivrées en conformité avec leurs
+dispositions. En cas de récidive, la peine est portée à six mois
+d'emprisonnement et 75 000 euros d'amende.
 
 Les peines prévues à l'alinéa précédent sont également applicables :
 

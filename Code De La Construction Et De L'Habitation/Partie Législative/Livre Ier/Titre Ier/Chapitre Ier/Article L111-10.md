@@ -1,16 +1,29 @@
 Article L111-10
 ----
-Les nouvelles règles de construction et d'aménagement fixées par les décrets
-prévus à l'article L. 111-9 peuvent être rendues applicables aux locaux
-existants qui font l'objet de travaux donnant lieu à autorisation ou déclaration
-préalable ou réalisés avec l'aide financière de l'Etat, d'une collectivité
-publique ou d'un organisme assurant une mission de service public.
+Un décret en Conseil d'Etat détermine :
 
-Les conditions de cette application sont déterminées par des décrets en Conseil
-d'Etat dans les formes définies à l'article L. 111-9.
+- les caractéristiques thermiques et la performance énergétique des bâtiments ou
+parties de bâtiments existants qui font l'objet de travaux, en fonction des
+catégories de bâtiments, du type de travaux envisagés ainsi que du rapport entre
+le coût de ces travaux et la valeur du bâtiment au-delà de laquelle ces
+dispositions s'appliquent ;
 
-Ces mêmes décrets déterminent enfin les conditions d'application du présent
-article et, notamment, les délais d'exécution des travaux prescrits, ainsi que
-les cas et conditions dans lesquels il peut être dérogé à l'obligation
-d'exécuter ces travaux, en raison d'une impossibilité technique ou d'un coût
-excessif.
+- les catégories de bâtiments ou parties de bâtiments existants qui font
+l'objet, avant le début des travaux, d'une étude de faisabilité technique et
+économique. Cette étude évalue les diverses solutions d'approvisionnement en
+énergie, dont celles qui font appel aux énergies renouvelables ;
+
+- le contenu et les modalités de réalisation de cette étude ;
+
+- les caractéristiques thermiques que doivent respecter les nouveaux
+équipements, ouvrages ou installations mis en place dans des bâtiments
+existants, en fonction des catégories de bâtiments considérées ;
+
+- les catégories d'équipements, d'ouvrages ou d'installations visés par le
+précédent alinéa.
+
+Les mesures visant à améliorer les caractéristiques thermiques et la performance
+énergétique des bâtiments existants ainsi que leur impact sur les loyers, les
+charges locatives et le coût de la construction sont évalués dans un délai de
+cinq ans à compter de la publication de la loi n° 2005-781 du 13 juillet 2005 de
+programme fixant les orientations de la politique énergétique.

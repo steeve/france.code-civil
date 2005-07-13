@@ -123,7 +123,12 @@ densité de construction admise :
 - dans les zones à protéger en raison de la qualité de leurs paysages et de
 leurs écosystèmes pour permettre, dans les conditions précisées par l'article L.
 123-4, des transferts de constructibilité en vue de favoriser un regroupement
-des constructions.
+des constructions ;
+
+14° Recommander l'utilisation des énergies renouvelables pour
+l'approvisionnement énergétique des constructions neuves, en fonction des
+caractéristiques de ces constructions, sous réserve de la protection des sites
+et des paysages.
 
 Les documents graphiques du plan local d'urbanisme peuvent contenir des
 indications relatives au relief des espaces auxquels il s'applique.
