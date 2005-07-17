@@ -1,4 +1,5 @@
 Article R413-20
 ----
-Les délais mentionnés au présent chapitre sont comptés dans les conditions
-fixées aux articles 640 à 647 du nouveau code de procédure civile.
+Dans les dix jours du recours, le tribunal d'instance statue sans formalité,
+sans frais et sur simple avertissement donné trois jours à l'avance à toutes les
+parties en cause.

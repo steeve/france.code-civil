@@ -1,8 +1,5 @@
 Article R413-17
 ----
-La décision du tribunal d'instance est notifiée dans les trois jours par le
-greffier du tribunal d'instance aux parties par lettre recommandée avec demande
-d'avis de réception. Le greffier en donne avis au préfet et au procureur de la
-République dans le même délai.
-
-La décision du tribunal n'est susceptible ni d'appel ni d'opposition.
+La liste d'émargement signée par le président de la commission prévue à
+l'article L. 413-10 demeure déposée pendant huit jours au greffe du tribunal de
+commerce où elle est communiquée à tout électeur qui en fait la demande.

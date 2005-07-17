@@ -1,11 +1,12 @@
 Article R413-15
 ----
-Le recours est formé par déclaration écrite remise ou adressée au greffe du
-tribunal d'instance. La déclaration indique les nom, prénoms et adresse du
-réquérant, la qualité en laquelle il agit et l'objet du recours. La déclaration
-mentionne les noms, prénoms et adresses de la ou des personnes dont l'élection
-est contestée.
+Jusqu'à l'expiration des délais de recours contentieux, les fichiers supports
+comprenant la copie des programmes sources et des programmes exécutables, les
+matériels de vote, les fichiers d'émargement, de résultats et de sauvegarde
+doivent être conservés sous scellés sous le contrôle de la commission prévue à
+l'article L. 413-10. La procédure de décompte des votes enregistrés doit, si
+nécessaire, pouvoir être exécutée de nouveau.
 
-Le recours est porté à la connaissance du président du tribunal de commerce et
-du procureur de la République par le greffier du tribunal d'instance qui le
-notifie immédiatement aux personnes dont l'élection est contestée.
+A l'expiration des délais de recours, et si aucun recours n'a été exercé, il est
+procédé à la destruction des fichiers supports sous le contrôle de la commission
+prévue à l'article L. 413-10.

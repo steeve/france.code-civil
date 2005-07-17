@@ -1,12 +1,9 @@
 Article R413-12
 ----
-Le recensement des votes est effectué par la commission électorale. Les
-résultats sont proclamés publiquement par le président de la commission
-électorale. La liste des candidats élus, établie dans l'ordre dégressif du
-nombre de voix obtenu par chacun d'entre eux, est immédiatement affichée au
-greffe du tribunal de commerce.
-
-Le procès-verbal des opérations électorales est dressé en trois exemplaires
-revêtus de la signature des membres de la commission électorale : le premier
-exemplaire est envoyé au procureur général, le deuxième au préfet et le
-troisième est conservé au greffe du tribunal de commerce.
+Pour voter par voie électronique, l'électeur, après connexion au site internet
+ou à tout autre réseau accessible à tous les électeurs, s'identifie, exprime son
+vote et le valide au moyen des instruments d'authentification qui lui ont été
+attribués. Il vérifie l'inscription sécurisée de son vote par le système de vote
+électronique. La transmission du vote et l'émargement de l'électeur font l'objet
+d'un accusé de réception électronique sur lequel figure la date de ladite
+réception.

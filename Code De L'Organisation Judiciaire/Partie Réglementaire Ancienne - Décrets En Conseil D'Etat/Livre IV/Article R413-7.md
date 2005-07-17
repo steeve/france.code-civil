@@ -4,5 +4,5 @@ La commission prévue à l'article L. 413-10 comprend, outre son président, deu
 juges d'instance. Ces trois magistrats sont désignés par le premier président
 après avis de l'assemblée générale de la cour d'appel.
 
-Le secrétariat de la commission électorale est assuré par le greffier du
-tribunal de commerce.
+Le secrétariat de la commission est assuré par le greffier du tribunal de
+commerce.

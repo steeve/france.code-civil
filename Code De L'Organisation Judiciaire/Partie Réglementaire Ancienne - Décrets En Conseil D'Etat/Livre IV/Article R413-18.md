@@ -1,5 +1,10 @@
 Article R413-18
 ----
-Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à
-1022 du nouveau code de procédure civile. Le délai de pourvoi court à compter de
-la notification prévue à l'article R. 413-17.
+Dans un délai de huit jours à compter de la proclamation des résultats, tout
+électeur peut contester la régularité des opérations électorales devant le
+tribunal d'instance dans le ressort duquel se trouve situé le siège du tribunal
+de commerce.
+
+Le recours est également ouvert au préfet et au procureur de la République qui
+peuvent l'exercer dans un délai de quinze jours à compter de la réception du
+procès-verbal mentionné à l'article R. 413-16.

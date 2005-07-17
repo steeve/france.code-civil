@@ -1,11 +1,10 @@
 Article R413-6
 ----
-L'élection des membres d'un tribunal de commerce a lieu dans la commune où le
-tribunal a son siège.
+Le collège électoral est informé, par un arrêté du préfet pris un mois avant la
+date du dépouillement du premier tour de scrutin, de la date, de l'heure et du
+lieu fixés pour les opérations de dépouillement et de recensement des votes des
+premier et deuxième tours de scrutin. Une copie de cet arrêté est adressée à
+chaque électeur.
 
-Le collège électoral est convoqué par un arrêté du préfet pris un mois avant la
-date du scrutin. Cet arrêté fixe la date, les heures et le lieu de chacun des
-deux tours de scrutin. Un délai de quatre jours ouvrables doit séparer la date
-des deux tours de scrutin.
-
-Chaque électeur est en outre convoqué individuellement.
+Un délai de dix jours ouvrables sépare les dates de dépouillement des deux tours
+de scrutin.
