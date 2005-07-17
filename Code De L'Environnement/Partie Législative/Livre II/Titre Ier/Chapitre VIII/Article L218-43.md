@@ -1,8 +1,6 @@
 Article L218-43
 ----
-Sans préjudice du respect de toutes les prescriptions législatives ou
-réglementaires applicables à l'embarquement ou au chargement des matériaux,
-substances et déchets en cause, l'embarquement ou le chargement de tous
-matériaux, substances ou déchets destinés à être immergés en mer est subordonné
-à l'obtention d'une autorisation délivrée par le ministre chargé de
-l'environnement dans des conditions fixées par décret en Conseil d'Etat.
+L'immersion de déchets ou d'autres matières, telle qu'elle est définie à
+l'article 1er du protocole du 7 novembre 1996 à la convention de Londres de 1972
+sur la prévention de la pollution des mers résultant de l'immersion de déchets,
+est interdite.

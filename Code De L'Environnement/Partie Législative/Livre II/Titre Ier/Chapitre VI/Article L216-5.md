@@ -7,4 +7,11 @@ constatées par des procès-verbaux qui font foi jusqu'à preuve contraire.
 
 Les procès-verbaux doivent, sous peine de nullité, être adressés dans les cinq
 jours qui suivent leur clôture au procureur de la République. Une copie en est
-également remise, dans le même délai, à l'intéressé.
+également remise, dans le même délai, à l'intéressé et à l'autorité
+administrative. En outre, dans le même délai, une copie est adressée au
+président de la fédération départementale des associations agréées de pêche et
+de pisciculture et au président de l'association agréée de pêcheurs
+professionnels en eau douce lorsque l'infraction a pour conséquence de détruire
+les frayères, les zones de croissance ou d'alimentation de la faune piscicole,
+ou de porter atteinte à la continuité écologique ou au débit minimal du cours
+d'eau.

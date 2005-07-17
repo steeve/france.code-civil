@@ -1,14 +1,8 @@
 Article L218-45
 ----
-Les dispositions de la présente section sont également applicables aux
-opérations d'immersion effectuées en dehors de la zone d'application de la
-convention d'Oslo, soit en haute mer, soit dans la zone économique ou dans la
-zone de protection écologique, soit dans les eaux territoriales et intérieures
-maritimes françaises.
-
-Dans les eaux territoriales et intérieures maritimes françaises, les
-dispositions de la présente section s'appliquent aux navires, aéronefs, engins
-et plates-formes étrangers, même immatriculés dans un Etat non partie à ladite
-convention. Seules les peines d'amende mentionnées à la sous-section 2 de la
-présente section peuvent être prononcées à l'encontre des navires étrangers pour
-des infractions commises au-delà de la mer territoriale.
+Les dispositions des articles L. 218-43 et L. 218-44 ne sont pas applicables
+lorsque, en cas de danger grave, l'immersion apparaît comme le seul moyen de
+sauver des vies humaines ou d'assurer la sécurité des navires, aéronefs,
+plates-formes ou autres ouvrages. Dans la mesure du possible, elle est effectuée
+de façon à concilier ces impératifs de sécurité avec les exigences de la
+préservation de la faune et de la flore marines.

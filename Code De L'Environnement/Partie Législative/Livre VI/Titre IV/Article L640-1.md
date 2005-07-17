@@ -6,7 +6,7 @@ I. - Les articles L. 122-1 à L. 122-3, L. 141-1 à L. 142-3, L. 218-1 à L.
 antarctiques françaises.
 
 II. - Les pouvoirs dévolus au préfet par les dispositions mentionnées au I sont
-exercés par l'administrateur supérieur.
+exercés par le représentant de l'Etat.
 
 III. - Les dispositions relatives à la protection des monuments naturels et des
 sites sont énoncées par la loi n° 56-1106 du 3 novembre 1956 ayant pour objet,
