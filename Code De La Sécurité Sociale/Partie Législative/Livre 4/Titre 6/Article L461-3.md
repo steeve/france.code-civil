@@ -1,7 +1,7 @@
 Article L461-3
 ----
 Les dispositions du quatrième alinéa de l'article L. 461-2 dans la mesure où
-elles dérogent aux dispositions du dernier alinéa de l'article L. 461-2, sont
+elles dérogent aux dispositions du premier alinéa de l'article L. 461-1, sont
 applicables exclusivement aux maladies faisant l'objet de tableaux publiés
 postérieurement au 30 novembre 1955.
 

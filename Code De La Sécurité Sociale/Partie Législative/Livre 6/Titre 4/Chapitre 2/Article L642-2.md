@@ -22,16 +22,12 @@ valeur.
 
 Par dérogation aux dispositions des troisième et quatrième alinéas, sur demande
 du professionnel libéral, il n'est demandé aucune cotisation provisionnelle ou
-définitive pendant les douze premiers mois d'exercice de l'activité libérale.
+définitive pendant les douze premiers mois suivant la date d'effet de son
+affiliation.
 
-Les cotisations dues au titre de cette période font l'objet d'un étalement qui
-ne peut excéder cinq ans. Le bénéfice de cet étalement n'emporte aucune
-majoration de retard.
+Les dispositions des deuxième et troisième alinéas de l'article L. 131-6-1 sont
+applicables aux cotisations prévues par l'article L. 642-1.
 
-Le bénéfice de ces dispositions ne peut être obtenu plus d'une fois par période
-de cinq ans, au titre d'un début ou d'une reprise d'exercice de l'activité
-libérale.
-
-Les dispositions des trois alinéas précédents ne sont pas applicables à raison
+Les dispositions des deux alinéas précédents ne sont pas applicables à raison
 d'une modification des conditions dans lesquelles le professionnel libéral
 exerce son activité.

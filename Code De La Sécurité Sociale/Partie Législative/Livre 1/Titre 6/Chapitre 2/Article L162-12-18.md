@@ -15,7 +15,7 @@ règles générales de mise en oeuvre mentionnés dans la convention nationale o
 dans l'accord national.
 
 Le complément de rémunération ou la majoration de la participation prévue à
-l'article L. 162-14-2 peuvent être modulés en fonction de critères d'expérience,
+l'article L. 162-14-1 peuvent être modulés en fonction de critères d'expérience,
 de qualité des pratiques ou d'engagements relatifs à la formation, au lieu
 d'installation et d'exercice du médecin dans les conditions prévues par ces
 contrats.

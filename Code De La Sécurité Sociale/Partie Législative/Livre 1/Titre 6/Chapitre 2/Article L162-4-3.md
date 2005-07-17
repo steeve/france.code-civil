@@ -1,8 +1,8 @@
 Article L162-4-3
 ----
 Les médecins peuvent, à l'occasion des soins qu'ils délivrent et sous les
-conditions prévues au II de l'article L. 161-31, consulter les données issues
-des procédures de remboursement ou de prise en charge qui sont détenues par
+conditions prévues à l'article L. 161-31, consulter les données issues des
+procédures de remboursement ou de prise en charge qui sont détenues par
 l'organisme dont relève chaque bénéficiaire de l'assurance maladie. Dans ce cas,
 ils en informent préalablement le patient. Le bénéficiaire des soins donne son
 accord à cet accès en permettant au médecin d'utiliser, à cet effet, la carte

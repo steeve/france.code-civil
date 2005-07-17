@@ -7,7 +7,7 @@ connaissance de la caisse en application de l'article L. 321-2.
 
 Dans le cas prévu au quatrième alinéa de l'article L. 461-2, il est fixé un
 délai plus long courant à compter de la date d'entrée en vigueur du nouveau
-tableau annexé au décret en Conseil d'Etat .
+tableau annexé au décret.
 
 Le praticien établit en triple exemplaire et remet à la victime un certificat
 indiquant la nature de la maladie, notamment les manifestations mentionnées aux
