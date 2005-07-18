@@ -12,9 +12,9 @@ les personnels mentionnés à l'article L. 6155-l.
 Les professionnels de santé visés au deuxième alinéa du présent article sont
 tenus de transmettre au conseil régional de la formation médicale continue
 mentionné à l'article L. 4133-4 les éléments justifiant de leur participation à
-des actions de formations agréées, à des programmes d'évaluation réalisés par un
-organisme agréé, ou attestant qu'ils satisfont, à raison de la nature de leur
-activité, au respect de cette obligation.
+des actions de formations agréées, à des dispositifs d'évaluation, notamment
+ceux mentionnés à l'article L. 4133-1-1, ou attestant qu'ils satisfont, à raison
+de la nature de leur activité, au respect de cette obligation.
 
 Le respect de cette obligation fait l'objet d'une validation.
 

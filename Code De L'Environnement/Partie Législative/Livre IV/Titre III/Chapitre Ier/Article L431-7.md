@@ -1,8 +1,9 @@
 Article L431-7
 ----
 A l'exception des articles L. 432-2, L. 432-10, L. 432-11 et L. 432-12, les
-dispositions du présent titre ne sont pas applicables aux plans d'eau existant
-au 30 juin 1984, établis en dérivation ou par barrage et équipés des dispositifs
+dispositions du présent titre ne sont pas applicables aux piscicultures
+régulièrement autorisées ou déclarées ainsi qu'aux plans d'eau existant au 30
+juin 1984, établis en dérivation ou par barrage et équipés des dispositifs
 permanents empêchant la libre circulation du poisson entre ces plans d'eau et
 les eaux avec lesquelles ils communiquent :
 
@@ -17,5 +18,5 @@ l'article L. 432-7, et ne figurant pas à la liste prévue à l'article L. 432-6
 3° Soit s'ils résultent d'une concession ou d'une autorisation administrative,
 jusqu'à la fin de la période pour laquelle la concession ou l'autorisation a été
 consentie. Les détenteurs de ces autorisations ou concessions peuvent en
-demander le renouvellement en se conformant aux dispositions de l'article L.
-431-6.
+demander le renouvellement en se conformant aux dispositions des articles L.
+214-2 à L. 214-4.
