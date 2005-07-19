@@ -1,7 +1,7 @@
 Article L123-3
 ----
-Dans les zones d'aménagement concerté, le plan local d'urbanisme précise en
-outre :
+Dans les zones d'aménagement concerté, le plan local d'urbanisme peut en outre
+préciser :
 
 a) La localisation et les caractéristiques des espaces publics à conserver, à
 modifier ou à créer ;

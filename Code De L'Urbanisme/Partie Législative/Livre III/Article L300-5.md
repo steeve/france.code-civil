@@ -1,10 +1,18 @@
 Article L300-5
 ----
-Dans le cas où une collectivité territoriale ou un groupement de collectivités
-qui a décidé de mener une opération publique d'aménagement au sens du présent
-livre en confie la réalisation à un aménageur dans les conditions prévues au
-deuxième alinéa de l'article L. 300-4 et décide de participer au coût de
-l'opération, la convention précise à peine de nullité :
+I. ― Le traité de concession d'aménagement précise les obligations de chacune
+des parties, notamment :
+
+1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut
+éventuellement être prorogé, ou modifié ;
+
+2° Les conditions de rachat, de résiliation ou de déchéance par le concédant,
+ainsi que, éventuellement, les conditions et les modalités d'indemnisation du
+concessionnaire.
+
+II. ― Lorsque le concédant décide de participer au coût de l'opération, sous
+forme d'apport financier ou d'apport en terrains, le traité de concession
+précise en outre, à peine de nullité :
 
 1° Les modalités de cette participation financière, qui peut prendre la forme
 d'apports en nature ;
@@ -12,11 +20,11 @@ d'apports en nature ;
 2° Le montant total de cette participation et, s'il y a lieu, sa répartition en
 tranches annuelles ;
 
-3° Les modalités du contrôle technique, financier et comptable exercé par la
-collectivité ou le groupement contractant ; à cet effet, la société doit fournir
-chaque année un compte rendu financier comportant notamment en annexe :
+3° Les modalités du contrôle technique, financier et comptable exercé par le
+concédant ; à cet effet, le concessionnaire doit fournir chaque année un compte
+rendu financier comportant notamment en annexe :
 
-a) Le bilan prévisionnel actualisé des activités, objet de la convention,
+a) Le bilan prévisionnel actualisé des activités, objet de la concession,
 faisant apparaître, d'une part, l'état des réalisations en recettes et en
 dépenses et, d'autre part, l'estimation des recettes et dépenses restant à
 réaliser ;
@@ -27,26 +35,27 @@ et des dépenses de l'opération ;
 c) Un tableau des acquisitions et cessions immobilières réalisées pendant la
 durée de l'exercice.
 
-L'ensemble de ces documents est soumis à l'examen de l'assemblée délibérante de
-la collectivité ou du groupement contractant qui a le droit de contrôler les
-renseignements fournis, ses agents accrédités pouvant se faire présenter toutes
-pièces de comptabilité nécessaires à leur vérification. Dès la communication de
-ces documents et, le cas échéant, après les résultats du contrôle diligenté par
-la collectivité ou le groupement contractant, leur examen est mis à l'ordre du
-jour de la plus prochaine réunion de l'assemblée délibérante, qui se prononce
-par un vote.
+L'ensemble de ces documents est soumis à l'examen de l'organe délibérant du
+concédant ou à l'autorité administrative lorsque le concédant est l'Etat. Le
+concédant a le droit de contrôler les renseignements fournis, ses agents
+accrédités pouvant se faire présenter toutes pièces de comptabilité nécessaires
+à leur vérification. Si le concédant est une collectivité territoriale ou un
+groupement de collectivités territoriales, dès la communication de ces documents
+et, le cas échéant, après les résultats du contrôle diligenté par le concédant,
+ces documents sont soumis, dans un délai de trois mois, à l'examen de l'organe
+délibérant, qui se prononce par un vote.
 
-La participation visée aux trois premiers alinéas est approuvée par l'assemblée
-délibérante de la collectivité territoriale ou du groupement contractant. Toute
-révision de cette participation doit faire l'objet d'un avenant à la convention
-approuvé par l'assemblée délibérante de la collectivité territoriale ou du
-groupement contractant au vu d'un rapport spécial établi par l'aménageur.
+L'apport financier mentionné aux trois premiers alinéas du II du présent article
+est approuvé par l'organe délibérant du concédant ou par l'autorité
+administrative lorsque celui-ci est l'Etat. Toute révision de cet apport doit
+faire l'objet d'un avenant au traité de concession, approuvé par l'organe
+délibérant du concédant ou par l'autorité administrative lorsque celui-ci est
+l'Etat.
 
-L'opération d'aménagement pourra bénéficier, avec l'accord préalable de la
-collectivité contractante, de subventions versées par d'autres collectivités
-territoriales en vue de financer les actions d'aménagement public. Si ces
-subventions sont versées directement à l'organisme aménageur, celui-ci devra
-rendre compte de leur attribution, de leur échéancier et de leur encaissement
-effectif dans le rapport annuel prévu au quatrième alinéa (3°). Il devra
-également rendre compte de leur utilisation à la collectivité ayant accordé la
-subvention.
+III. ― L'opération d'aménagement peut bénéficier, avec l'accord préalable du
+concédant, de subventions versées par l'Etat, des collectivités territoriales et
+leurs groupements ou des établissements publics. Dans ce cas, le traité de
+concession est soumis aux dispositions du II, même si le concédant ne participe
+pas au financement de l'opération. Le concessionnaire doit également rendre
+compte de l'utilisation des subventions reçues aux personnes publiques qui les
+ont allouées.

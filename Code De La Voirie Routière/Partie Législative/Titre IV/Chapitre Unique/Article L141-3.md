@@ -5,8 +5,8 @@ conseil municipal. Ce dernier est également compétent pour l'établissement de
 plans d'alignement et de nivellement, l'ouverture, le redressement et
 l'élargissement des voies.
 
-Les délibérations prévues à l'alinéa précédent sont dispensées d'enquête
-publique préalable sauf lorsque le classement ou le déclassement envisagé a pour
+Les délibérations concernant le classement ou le déclassement sont dispensées
+d'enquête publique préalable sauf lorsque l'opération envisagée a pour
 conséquence de porter atteinte aux fonctions de desserte ou de circulation
 assurées par la voie.
 
