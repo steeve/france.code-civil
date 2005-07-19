@@ -33,7 +33,7 @@ daté et signé par l'infirmier ou l'infirmière et transcrit dans le dossier de
 soins infirmiers ;
 
 6° Administration des médicaments sans préjudice des dispositions prévues à
-l'article R. 4311-6 ;
+l'article R. 4311-5 ;
 
 7° Pose de dispositifs transcutanés et surveillance de leurs effets ;
 

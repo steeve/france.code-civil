@@ -1,7 +1,7 @@
 Article R5142-39
 ----
 Pour chaque établissement dépendant d'entreprises mentionnées aux 4° à 10° de
-l'article R. 5142-40, le nombre de pharmaciens ou de vétérinaires adjoints est
+l'article R. 5142-1, le nombre de pharmaciens ou de vétérinaires adjoints est
 fixé comme suit, en fonction de l'effectif du personnel calculé dans les
 conditions prévues à l'article R. 5142-40 :
 

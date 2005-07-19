@@ -1,7 +1,7 @@
 Article R5112-3
 ----
 Le pharmacien, propriétaire ou gérant d'une officine définie à l'article L.
-5125-1 ou d'une pharmacie mentionnée à l'article L. 5125-19, le médecin
+5125-1 ou d'une pharmacie mentionnée à l'article L. 5126-1, le médecin
 bénéficiaire de l'autorisation prévue par l'article L. 4211-3, l'établissement
 mentionné à l'article L. 5124-1 et, le cas échéant, chacune de ses succursales,
 ainsi que la personne physique autorisée à préparer des produits mentionnés à

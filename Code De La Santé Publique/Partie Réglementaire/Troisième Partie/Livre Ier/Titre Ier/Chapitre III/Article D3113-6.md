@@ -37,20 +37,20 @@ o) Poliomyélite ;
 
 p) Rage ;
 
-q) Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies
+q) Rougeole ;
+
+r) Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies
 subaiguës spongiformes transmissibles humaines ;
 
-r) Toxi-infections alimentaires collectives ;
+s) Toxi-infections alimentaires collectives ;
 
-s) Tuberculose ;
+t) Tuberculose ;
 
-t) Typhus exanthématique ;
+u) Typhus exanthématique ;
 
-u) Orthopoxviroses, dont la variole ;
+v) Orthopoxviroses, dont la variole ;
 
-v) Tularémie ;
-
-Rougeole.
+w) Tularémie.
 
 2° Autre maladie :
 

@@ -17,4 +17,4 @@ pharmacie et toxicologie des écoles nationales vétérinaires ;
 
 5° L'autorisation du préfet délivrée en application de l'article L. 4211-3 ;
 
-6° La convention mentionnée à l'article R. 3411-10.
+6° La convention mentionnée à l'article D. 3411-10.

@@ -2,17 +2,17 @@ Article R4127-85
 ----
 Le lieu habituel d'exercice d'un médecin est celui de la résidence
 professionnelle au titre de laquelle il est inscrit sur le tableau du conseil
-départemental, conformément à l'article L. 4112-1 du code de la santé publique.
+départemental, conformément à l'article L. 4112-1.
 
 Dans l'intérêt de la population, un médecin peut exercer son activité
 professionnelle sur un ou plusieurs sites distincts de sa résidence
 professionnelle habituelle :
 
-- lorsqu'il existe dans le secteur géographique considéré une carence ou une
+-lorsqu'il existe dans le secteur géographique considéré une carence ou une
 insuffisance de l'offre de soins préjudiciable aux besoins des patients ou à la
 permanence des soins ;
 
-- ou lorsque les investigations et les soins qu'il entreprend nécessitent un
+-ou lorsque les investigations et les soins qu'il entreprend nécessitent un
 environnement adapté, l'utilisation d'équipements particuliers, la mise en
 oeuvre de techniques spécifiques ou la coordination de différents intervenants.
 

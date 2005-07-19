@@ -10,9 +10,10 @@ le troisième par les deux premiers. En cas de carence de l'intéressé ou de se
 proches, la désignation du premier expert est faite à la demande du conseil par
 le président du tribunal de grande instance.
 
-Le conseil peut être saisi soit par le conseil départemental, soit par le
-préfet. L'expertise prévue à l'alinéa précédent est effectuée au plus tard dans
-le délai de deux mois à compter de la saisine du conseil.
+Le conseil peut être saisi soit par le conseil départemental, soit par le préfet
+soit par le Conseil national. L'expertise prévue à l'alinéa précédent est
+effectuée au plus tard dans le délai de deux mois à compter de la saisine du
+conseil.
 
 Recours de la décision du conseil peut être fait devant l'instance d'appel du
 conseil national par le praticien intéressé et par les autorités ci-dessus

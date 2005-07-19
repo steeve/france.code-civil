@@ -12,7 +12,7 @@ ou spécialités pour lesquelles les épreuves sont ouvertes ;
 3° Les modalités d'inscription ainsi que la composition du dossier de
 candidature et la nature des pièces justificatives à produire ;
 
-4° A l'issue des épreuves mentionnées à l'article D. 4111-5 et pour l'exercice
+4° A l'issue des épreuves mentionnées à l'article D. 4111-1 et pour l'exercice
 des fonctions hospitalières, le calendrier et les modalités d'affectation ;
 
 5° Le nombre de postes à pourvoir et la liste des services agréés mentionnés à

@@ -1,7 +1,7 @@
 Article R5124-52
 ----
 Chaque lot de médicaments ou de produits bénéficiant des autorisations ou de
-l'enregistrement prévus au deuxième alinéa de l'article R. 5124-51 fait l'objet,
+l'enregistrement prévus au deuxième alinéa de l'article R. 5124-49 fait l'objet,
 en France, du contrôle du produit fini lorsqu'il est importé :
 
 1° D'un Etat non membre de la Communauté européenne et non partie à l'accord sur

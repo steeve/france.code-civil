@@ -13,9 +13,10 @@ b) Mise sous une forme appropriée à leur administration des substances, y
 compris des composés radioactifs, nécessaires à l'obtention d'une image ;
 
 c) Administration orale, rectale, en injections intramusculaires, sous-cutanées
-et dans les veines superficielles ou dans les montages d'accès vasculaires
-implantables des substances, y compris des composés radioactifs, nécessaires à
-l'obtention d'une image ;
+et dans les veines superficielles, dans les montages d'accès vasculaires
+implantables et dans les cathéters centraux des substances, y compris des
+composés radioactifs, nécessaires à l'obtention d'une image ou, en ce qui
+concerne la médecine nucléaire, à la réalisation d'un acte thérapeutique ;
 
 d) Mesure et vérification de l'activité des composés radioactifs ;
 
@@ -68,7 +69,7 @@ clichés de centrage ;
 l) Assistance du médecin dans la pose du matériel vecteur et radioactif en
 curiethérapie ;
 
-3° Dans le domaine de l'électroradiologie :
+3° Dans le domaine de l'électrologie :
 
 a) Enregistrement des signaux électrophysiologiques ;
 

@@ -95,7 +95,7 @@ c) Sa composition qualitative et quantitative ;
 références des principaux travaux exploités pour cette synthèse ;
 
 8° Le cas échéant, une copie des autorisations accordées en application de
-l'article R. 5132-25 ou de l'article R. 5132-83.
+l'article R. 5132-74 ou de l'article R. 5132-83.
 
 Le directeur général de l'Agence française de sécurité sanitaire des aliments
 peut, dans un délai de deux mois après réception des informations mentionnées

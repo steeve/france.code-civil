@@ -13,7 +13,7 @@ conditions prévues au troisième alinéa de l'article R. 5132-3 :
 2° Les médicaments mentionnés à l'article L. 5121-8 utilisés en diagnostic
 médical, en anesthésie, en allergologie ou d'usage antalgique ou dentaire ;
 
-3° Les médicaments mentionnés à l'article R. 5121-94 ;
+3° Les médicaments mentionnés à l'article R. 5121-96 ;
 
 4° Les médicaments qui ne peuvent être délivrés qu'à des professionnels de santé
 en vertu de l'article R. 5121-80.

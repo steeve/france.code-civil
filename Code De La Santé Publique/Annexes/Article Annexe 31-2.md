@@ -1,9 +1,5 @@
 Article Annexe 31-2
 ----
-RÉFÉRENTIEL NATIONAL DE RÉDUCTION DES RISQUES POUR USAGERS DE DROGUE MENTIONNÉ À
-L'ARTICLE D. 3121-33
-
-
 Préambule
 
 L'article L. 3125-1 du code de la santé publique issu de la loi du 9 août 2004

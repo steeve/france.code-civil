@@ -1,11 +1,11 @@
 Article R5141-123
 ----
-I. - Tout médicament vétérinaire autre que ceux mentionnés aux 1° et 2° de
-l'article L. 5142-7 qui n'est pas pourvu d'une des autorisations de mise sur le
-marché mentionnées à l'article L. 5141-5, ou de l'enregistrement mentionné à
-l'article L. 5141-9, ou de l'autorisation temporaire d'utilisation mentionnée à
-l'article L. 5141-10 doit, avant son importation, faire l'objet d'une
-autorisation d'importation.
+Tout médicament vétérinaire autre que ceux mentionnés aux 1° et 2° de l'article
+L. 5142-7 qui n'est pas pourvu d'une des autorisations de mise sur le marché
+mentionnées à l'article L. 5141-5, ou de l'enregistrement mentionné à l'article
+L. 5141-9, ou de l'autorisation temporaire d'utilisation mentionnée à l'article
+L. 5141-10 doit, avant son importation, faire l'objet d'une autorisation
+d'importation.
 
 L'autorisation d'importation est délivrée par le directeur général de l'Agence
 française de sécurité sanitaire des aliments. Cette autorisation est accordée
@@ -23,7 +23,7 @@ la santé humaine ou la santé animale. Sauf en cas d'urgence, ces décisions
 n'interviennent qu'après que le titulaire de l'autorisation a été mis à même de
 présenter ses observations.
 
-II. - Sauf dans le cas de recours à une procédure d'autorisation d'importation
+Sauf dans le cas de recours à une procédure d'autorisation d'importation
 parallèle ou en cas d'importation d'un médicament vétérinaire en vue d'un essai
 clinique, d'une expérimentation ou d'une opération de fabrication, le recours à
 l'importation d'un médicament vétérinaire par une autre voie que le transport

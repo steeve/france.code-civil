@@ -3,7 +3,7 @@ Article R4127-275
 Un chirurgien-dentiste qui cesse momentanément tout exercice professionnel ne
 peut se faire remplacer que par un praticien inscrit au tableau de l'ordre ou un
 étudiant en chirurgie-dentaire remplissant les conditions prévues par l'article
-L. 4131-2.
+L. 4141-4.
 
 Le président du conseil départemental doit être immédiatement informé.
 

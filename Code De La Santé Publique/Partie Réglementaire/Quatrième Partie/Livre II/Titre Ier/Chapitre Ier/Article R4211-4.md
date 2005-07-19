@@ -1,7 +1,7 @@
 Article R4211-4
 ----
 L'autorisation est délivrée pour une durée de cinq ans ; elle est renouvelable
-dans les conditions prévues par l'article R. 4211-10.
+dans les conditions prévues par l'article R. 4211-9.
 
 Elle mentionne les nom, prénom et qualité de la personne qui prépare et délivre
 des allergènes, ainsi que l'adresse du lieu de préparation.

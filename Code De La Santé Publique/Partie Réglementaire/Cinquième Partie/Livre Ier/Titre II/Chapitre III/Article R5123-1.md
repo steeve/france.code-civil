@@ -15,7 +15,7 @@ font défaut, le médicament peut être pris en charge si le pharmacien dispense
 nombre d'unités de conditionnement correspondant aux besoins du patient après
 avoir recueilli l'accord du prescripteur qu'il mentionne expressément sur
 l'ordonnance. Lorsque le médicament n'est pas soumis aux dispositions de
-l'article R. 5132-4, il peut être pris en charge sans l'accord du prescripteur
+l'article R. 5132-3, il peut être pris en charge sans l'accord du prescripteur
 si le pharmacien délivre soit le nombre d'unités de conditionnement qui figure
 sur l'ordonnance sous réserve de délivrer le conditionnement commercialisé
 comportant le plus petit nombre d'unités de prise, soit, si le nombre d'unités
