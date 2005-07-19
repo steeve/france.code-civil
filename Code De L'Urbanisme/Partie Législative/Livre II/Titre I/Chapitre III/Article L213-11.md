@@ -1,12 +1,11 @@
 Article L213-11
 ----
-Les biens acquis par l'exercice du droit de préemption doivent être utilisés ou
+Les biens acquis par exercice du droit de préemption doivent être utilisés ou
 aliénés aux fins définies à l'article L. 210-1. L'utilisation ou l'aliénation
-d'un bien au profit d'une personne privée autre qu'une société d'économie mixte
-répondant aux conditions définies au deuxième alinéa de l'article L. 300-4 ou
-qu'une société d'habitations à loyer modéré doit faire l'objet d'une
-délibération motivée du conseil municipal ou, le cas échéant, d'une décision
-motivée du délégataire du droit de préemption.
+d'un bien au profit d'une personne privée autre que le concessionnaire d'une
+opération d'aménagement ou qu'une société d'habitations à loyer modéré doit
+faire l'objet d'une délibération motivée du conseil municipal ou, le cas
+échéant, d'une décision motivée du délégataire du droit de préemption.
 
 Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres
 fins un bien acquis depuis moins de cinq ans par exercice de ce droit, il doit

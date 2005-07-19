@@ -91,7 +91,7 @@ des transactions sur instruments financiers admis sur ces marchés ;
 application des articles L. 421-1 et L. 421-3, propose la reconnaissance ou le
 retrait de la qualité de marché réglementé d'instruments financiers ;
 
-3° Les conditions de dérogation à l'obligation prévue à l'article L. 421-12 ;
+3° Abrogé.
 
 4° Les règles relatives à l'information de l'Autorité des marchés financiers et
 du public concernant les ordres et les transactions sur instruments financiers
