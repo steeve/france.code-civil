@@ -10,7 +10,7 @@ cette fin.
 Les médicaments détenus en application de l'article L. 5126-6 et réservés à
 l'usage hospitalier sont fournis aux établissements mentionnés à l'article R.
 5126-111 autres que les établissements médico-sociaux par une entreprise
-pharmaceutique en application du 6° de l'article R. 5124-45, sur commande écrite
+pharmaceutique en application du 8° de l'article R. 5124-45, sur commande écrite
 du médecin ou du pharmacien précités.
 
 Les médicaments mentionnés à l'article R. 5132-1 sont détenus et leur stock

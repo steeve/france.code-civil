@@ -41,6 +41,6 @@ leur enregistrement.
 
 Le pharmacien ou le vétérinaire fait part au directeur général de l'Agence
 française de sécurité sanitaire des aliments ou aux agents mentionnés à
-l'article R. 5146-2 chargés de l'inspection de l'établissement des difficultés
+l'article R. 5146-1 chargés de l'inspection de l'établissement des difficultés
 éventuellement rencontrées dans l'accomplissement de ses missions ainsi que des
 observations qu'il est appelé à formuler dans l'intérêt de la santé publique.
