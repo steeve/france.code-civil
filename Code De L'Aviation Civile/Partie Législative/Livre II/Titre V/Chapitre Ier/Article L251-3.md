@@ -1,26 +1,20 @@
 Article L251-3
 ----
-Des décrets déterminent les éléments qui font partie de l'aéroport et qui
-comprennent notamment :
+Lorsqu'un ouvrage ou terrain appartenant à Aéroports de Paris et situé dans le
+domaine aéroportuaire est nécessaire à la bonne exécution par la société de ses
+missions de service public ou au développement de celles-ci, l'Etat s'oppose à
+sa cession, à son apport, sous quelque forme que ce soit, à la création d'une
+sûreté sur cet ouvrage ou terrain, ou subordonne la cession, la réalisation de
+l'apport ou la création de la sûreté à la condition qu'elle ne soit pas
+susceptible de porter préjudice à l'accomplissement desdites missions.
 
-a) Les aérodromes ouverts à la navigation aérienne civile, situés dans un rayon
-de 50 kilomètres du centre de Paris ;
+Le cahier des charges d'Aéroports de Paris fixe les modalités d'application du
+premier alinéa, notamment les catégories de biens en cause.
 
-b) Les voies d'accès aux aérodromes destinés au trafic des lignes aériennes
-mondiales, continentales et nationales ;
+Est nul de plein droit tout acte de cession, apport ou création de sûreté
+réalisé sans que l'Etat ait été mis à même de s'y opposer, en violation de son
+opposition ou en méconnaissance des conditions fixées à la réalisation de
+l'opération.
 
-c) Les routes aériennes réservées aux transports commerciaux ;
-
-d) Les dispositifs de protection de ces routes ;
-
-e) Les installations et dépendances rattachées à l'aéroport en vue de permettre
-son exploitation complète.
-
-L'aéroport de Paris peut en outre être autorisé à accepter des concessions et
-des affermages ou à prendre des participations se rattachant à son objet et
-présentant un intérêt direct et certain pour l'aménagement et le fonctionnement
-de l'aéroport.
-
-Il peut concéder, affermer les différents ouvrages et services dépendants de son
-exploitation. Les décisions de concession sont prises par décret en Conseil
-d'Etat.
+Les biens mentionnés au premier alinéa ne peuvent faire l'objet d'aucune saisie
+et le régime des baux commerciaux ne leur est pas applicable.
