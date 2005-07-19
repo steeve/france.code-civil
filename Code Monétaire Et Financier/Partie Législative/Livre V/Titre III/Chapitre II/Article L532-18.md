@@ -12,6 +12,6 @@ protection des fonds des clients.
 
 Pour l'application des articles L. 213-3, L. 322-1 à L. 322-4, L. 421-6, L.
 421-7, L. 421-8 à L. 421-11, L. 432-20, L. 431-7, L. 531-10, L. 533-3, L. 533-4,
-L. 533-6 à L. 533-11, L. 533-13 et L. 621-18-1, les personnes mentionnées à
-l'alinéa précédent sont assimilées à des prestataires de services
-d'investissement.
+L. 533-6 à L. 533-11, L. 533-13, L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les
+personnes mentionnées à l'alinéa précédent sont assimilées à des prestataires de
+services d'investissement.
