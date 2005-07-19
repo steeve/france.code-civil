@@ -1,120 +1,60 @@
 Article R224-2
 ----
-I. - Les conditions d'établissement et de perception des redevances pour :
+Les dispositions suivantes s'appliquent sur les aérodromes dont le trafic annuel
+moyen des trois dernières années a dépassé 100 000 passagers :
 
-- atterrissage des aéronefs de six tonnes et plus ;
+1° Les redevances comprennent notamment :
 
-- usage des dispositifs d'assistance à la navigation aérienne par les aéronefs
-de six tonnes et plus ;
+- la redevance d'atterrissage, correspondant à l'usage, par les aéronefs de plus
+de six tonnes, des infrastructures et équipements aéroportuaires nécessaires à
+l'atterrissage, au décollage, à la circulation au sol, ainsi que, le cas
+échéant, aux services complémentaires, tels que le balisage, l'information de
+vol et les aides visuelles ; les tarifs de cette redevance sont fonction de la
+masse maximale certifiée au décollage de l'aéronef ;
 
-- stationnement des aéronefs de six tonnes et plus ;
+- la redevance de stationnement, correspondant à l'usage, par les aéronefs de
+plus de six tonnes, des infrastructures et équipements de stationnement, ainsi
+que, le cas échéant, aux services complémentaires tels que les passerelles,
+l'énergie électrique et le dégivrage ; les tarifs de cette redevance sont
+fonction de la durée du stationnement, des caractéristiques de l'aéronef et, le
+cas échéant, de celles de l'aire de stationnement ;
 
-- usage des installations aménagées pour la réception des passagers et des
-marchandises ;
+- la redevance par passager, correspondant à l'usage des installations aménagées
+pour la réception des passagers et du public, ainsi que, le cas échéant, aux
+services complémentaires, tels que la mise à disposition de comptoirs
+d'enregistrement et d'embarquement, ainsi que des installations de tri des
+bagages. L'assiette de cette redevance est le nombre de passagers embarqués. Sur
+un même aérodrome, le tarif applicable à une même catégorie de passagers est
+identique pour toutes les aérogares. Toutefois, pour les aérogares mises en
+service après le 1er août 2005, des tarifs différenciés pourront être fixés en
+fonction des coûts d'investissement et d'exploitation afférents à ces aérogares
+et de la qualité de service ;
 
-- installations de distribution de carburants d'aviation,
+- la redevance pour usage des installations fixes de distribution de carburants
+d'aviation ; l'assiette de cette redevance, qui est due par les exploitants de
+ces installations, est le volume de carburant distribué.
 
-sont déterminées par arrêté interministériel après avis du Conseil supérieur de
-l'aviation marchande.
+Les services complémentaires peuvent, au choix de l'exploitant, être rattachés à
+l'une ou l'autre des redevances énumérées ci-dessus.
 
-II. - Les taux des redevances mentionnées au I ci-dessus sont fixés :
+2° Des redevances accessoires peuvent être instaurées par la personne mentionnée
+au I de l'article R. 224-3.
 
-- pour Aéroports de Paris, par son conseil d'administration ;
+Elles peuvent notamment correspondre aux services complémentaires mentionnés au
+1° ci-dessus, s'ils ne sont pas déjà couverts par les redevances qui y sont
+mentionnées, à la mise à disposition de locaux techniques, d'installations de
+traitement des eaux et d'aires d'entreposage, ainsi qu'à l'usage des
+installations nécessaires à l'atterrissage, au décollage et au stationnement des
+aéronefs de six tonnes et moins.
 
-- pour les autres aérodromes, par l'exploitant.
+Les conditions tarifaires des redevances accessoires peuvent être fixées par
+contrat quand elles correspondent à des services de nature particulière qui ne
+sont rendus qu'à certains usagers.
 
-Si l'aérodrome est doté d'une commission consultative économique, les taux sont
-fixés après avis de cette commission.
+3° Les exploitants des aérodromes mentionnés au premier alinéa tiennent une
+comptabilité de leurs services permettant d'identifier les coûts relatifs à
+chacune des catégories de redevances mentionnées au présent article.
 
-A. - S'il s'agit d'un aérodrome :
-
-- concédé conformément au cahier des charges type approuvé par le décret n°
-97-547 du 29 mai 1997 ou exploité suivant le régime de la convention prévu à
-l'article L. 221-1 ;
-
-- et ayant assuré en moyenne, au cours des trois dernières années civiles
-connues, un trafic de plus de 200 000 passagers, embarqués ou débarqués, les
-taux sont notifiés par l'exploitant au ministre chargé de l'aviation civile et
-au ministre chargé de l'économie par lettre recommandée avec avis de réception.
-
-Les taux sont exécutoires de plein droit un mois franc après leur réception par
-les deux ministres, à moins que l'un d'entre eux n'y fasse opposition dans ce
-délai.
-
-Dans ce dernier cas, l'exploitant peut, dans le mois qui suit la notification de
-l'opposition et sans consulter nécessairement la commission consultative
-économique susmentionnée, formuler de nouvelles propositions aux ministres.
-
-L'un ou l'autre des deux ministres dispose alors de quinze jours francs suivant
-réception pour s'opposer par décision explicite à tout ou partie des nouveaux
-taux proposés.
-
-En toutes hypothèses, seuls les taux n'ayant pas fait l'objet d'une opposition
-sont exécutoires :
-
-- soit à l'expiration du délai d'un mois imparti à l'exploitant de l'aérodrome
-pour formuler une nouvelle proposition ;
-
-- soit à l'expiration du délai de quinze jours francs imparti aux ministres pour
-s'opposer à de nouvelles propositions.
-
-En cas d'opposition devenue définitive, les taux précédemment en vigueur
-demeurent applicables.
-
-B. - S'il s'agit d'un aérodrome :
-
-- concédé en vertu du cahier des charges type prévu par le décret n° 97-547 du
-29 mai 1997 ou exploité suivant le régime de la convention prévu à l'article L.
-221-1 ;
-
-- et ayant assuré en moyenne, au cours des trois dernières années civiles
-connues, un trafic de moins de 200 000 passagers, embarqués ou débarqués,
-
-les taux sont notifiés au préfet territorialement compétent pour prendre les
-mesures prévues à l'article L. 213-2, par lettre recommandée avec avis de
-réception.
-
-Les taux sont exécutoires de plein droit à l'expiration du délai d'un mois
-suivant leur réception par le préfet et après que les usagers et le public en
-ont été informés par affichage.
-
-Toutefois, le préfet peut, dans le délai d'un mois prévu à l'alinéa précédent,
-demander à l'exploitant le réexamen des taux qui lui ont été notifiés. Les taux
-adoptés après ce réexamen sont exécutoires de plein droit dès leur notification
-au préfet, sous réserve de l'information des usagers et du public dans les
-conditions prévues à l'alinéa précédent.
-
-C. - Si l'aérodrome en cause est :
-
-- soit exploité par Aéroports de Paris ;
-
-- soit concédé ou exploité suivant un autre mode de gestion que ceux prévus au A
-et au B,
-
-les taux sont notifiés par l'exploitant, par lettre recommandée avec avis de
-réception :
-
-- soit au ministre chargé de l'aviation civile et au ministre chargé de
-l'économie, si l'aérodrome en cause a assuré en moyenne, au cours des trois
-dernières années civiles connues, un trafic de plus de 200 000 passagers,
-embarqués ou débarqués ;
-
-- soit au préfet territorialement compétent pour prendre les mesures prévues à
-l'article L. 213-2, si l'aérodrome en cause a assuré en moyenne, au cours des
-trois dernières années civiles connues, un trafic de moins de 200 000 passagers,
-embarqués ou débarqués.
-
-Les taux sont exécutoires à l'expiration d'un délai :
-
-- d'un mois franc à compter de leur réception par les deux ministres, pour les
-aérodromes Charles-de-Gaulle et Paris-Orly ;
-
-- de deux mois francs à compter de leur réception par l'autorité compétente,
-pour les autres aérodromes,
-
-sauf si, dans ces délais, l'un des ministres, ou le préfet, selon le cas, s'y
-oppose en tout ou partie.
-
-Dans cette dernière hypothèse, seuls les taux n'ayant pas fait l'objet d'une
-opposition sont exécutoires aux dates précitées, ceux précédemment en vigueur
-restant applicables dans le cas contraire.
+Les autres conditions d'établissement et de perception des redevances sont
+précisées, en tant que de besoin, par arrêté conjoint des ministres chargés de
+l'aviation civile et de l'économie.

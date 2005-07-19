@@ -1,36 +1,14 @@
 Article R224-1
 ----
-Sur tout aérodrome ouvert à la circulation aérienne publique, les services
-rendus aux usagers et au public donnent lieu à une rémunération, sous la forme
-de redevances perçues au profit de la personne qui fournit le service, notamment
-à l'occasion des opérations suivantes :
+Sur les aérodromes ouverts à la circulation aérienne publique et sur les
+aérodromes mentionnés aux articles R. 231-1 et R. 232-2, les services publics
+aéroportuaires donnant lieu à la perception de redevances en application de
+l'article L. 224-2 sont les services rendus aux exploitants d'aéronefs et à
+leurs prestataires de service à l'occasion de l'usage de terrains,
+d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires
+fournis par l'exploitant d'aérodrome, dans la mesure où cet usage est
+directement nécessaire, sur l'aérodrome, à l'exploitation des aéronefs ou à
+celle d'un service de transport aérien.
 
-Atterrissage des aéronefs ;
-
-Usage des dispositifs d'assistance à la navigation aérienne ;
-
-Stationnement et abri des aéronefs ;
-
-Usage des installations aménagées pour la réception des passagers et des
-marchandises ;
-
-Usage d'installations et d'outillages divers ;
-
-Occupation de terrains et d'immeubles ;
-
-Visite de tout ou partie des zones réservées de l'aérodrome ;
-
-Accès à certaines parties de la zone publique.
-
-Les redevances devront être appropriées aux services rendus.
-
-Les redevances revenant à l'Etat, à des collectivités publiques et
-établissements publics sont perçues par un comptable public.
-
-Elles sont recouvrées selon les règles propres à la collectivité ou à
-l'établissement qui en bénéficie et en ce qui concerne l'Etat, selon les règles
-prévues en matière de créances domaniales ou en vertu de titres de perception
-émis par les préfets.
-
-Lorsque les redevances sont perçues au comptant leur encaissement peut être
-assuré par un régisseur.
+Ces services ne peuvent donner lieu à la perception d'autres sommes, sous
+quelque forme que ce soit.

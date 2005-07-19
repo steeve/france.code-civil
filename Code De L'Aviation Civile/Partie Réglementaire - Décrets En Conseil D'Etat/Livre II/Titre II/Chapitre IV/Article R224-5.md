@@ -1,7 +1,9 @@
 Article R224-5
 ----
-Sur les aérodromes appartenant à l'Etat, un arrêté interministériel peut
-prescrire que la totalité ou une partie du produit de certaines redevances qui
-n'ont pas déjà été attribuées à un concessionnaire soit versée aux collectivités
-ou établissements publics énumérés à l'article R. 221-8 pour être affectée au
-financement de leur participation.
+Les tarifs des redevances mentionnées au 1° de l'article R. 224-2 et, le cas
+échéant, leurs modulations, sont notifiés par la personne chargée de leur
+fixation au représentant de l'Etat dans le département au moins deux mois avant
+leur entrée en vigueur. Cette notification, communiquée par lettre recommandée
+avec avis de réception, est accompagnée de l'avis de la commission consultative
+économique ou, à défaut, du compte rendu de la consultation des usagers, ainsi
+que des informations mentionnées au IV de l'article R. 224-3.
