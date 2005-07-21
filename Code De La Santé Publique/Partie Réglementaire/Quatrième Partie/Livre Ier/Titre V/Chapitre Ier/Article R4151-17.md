@@ -1,11 +1,11 @@
 Article R4151-17
 ----
-L'avis favorable du conseil départemental de l'ordre ne peut être donné que si
-l'étudiant demandeur a validé les trois premières années de formation, offre les
-garanties nécessaires de moralité et ne présente pas d'infirmité ou d'état
-pathologique incompatibles avec l'exercice de la profession.
+Les étudiants sages-femmes qui interrompent leurs études peuvent exercer la
+profession de sage-femme en qualité de remplaçant s'il satisfont aux conditions
+définies à l'article R. 4151-15.
 
-L'existence d'infirmité ou d'état pathologique est constatée, le cas échéant,
-dans les conditions fixées à l'article R. 4124-3.
+L'autorisation de remplacement est délivrée pour une période ne pouvant excéder
+trois mois, renouvelable une fois dans les mêmes conditions.
 
-Tout avis défavorable du conseil est motivé.
+Toutefois, aucune autorisation ne peut être délivrée au-delà d'une période de
+deux ans à compter de la date de l'interruption des études.
