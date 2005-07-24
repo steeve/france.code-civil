@@ -1,8 +1,8 @@
 Article R332-3-1
 ----
-Rapportée au montant défini à l'article R. 332-3, la valeur au bilan des actifs
-mentionnés ci-après ne peut excéder, sauf dérogation accordée cas par cas par la
-commission de contrôle des assurances :
+Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au
+bilan des actifs mentionnés ci-après ne peut excéder, sauf dérogation accordée
+cas par cas par la commission de contrôle des assurances :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même
 organisme et des dépôts placés auprès de cet organisme, à l'exception :
@@ -16,18 +16,19 @@ b) Des actions des sociétés d'investissement à capital variable et des parts 
 fonds communs de placement visées au 3° de l'article R. 332-2, dont le
 portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
-Le ratio de droit commun de 5 % peut atteindre 10 % pour les titres d'un même
-émetteur, à condition que la valeur des titres de l'ensemble des émetteurs dont
-les émissions sont admises au-delà du ratio de 5 % n'excède pas 40 % du montant
-défini à l'article R. 332-3.
+Le ratio de 5 % mentionné au deuxième alinéa peut atteindre 10 %, à condition
+que la valeur totale des titres émis et des prêts obtenus ou garantis par
+l'ensemble des organismes dont les émissions, prêts ou garanties de prêt sont
+admis au-delà du ratio de 5 % n'excède pas 40 % de la base de dispersion définie
+à l'article R. 332-3.
 
 2° 10 % pour un même immeuble ou pour les parts ou actions d'une même société
 immobilière ou foncière ;
 
-3° 1 % pour les valeurs mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2
-et les prêts mentionnés au troisième alinéa du 1 de l'article R. 332-13,
+3° 1 % pour les valeurs mentionnées aux 6°, 7°, 7° bis et 7° ter de l'article R.
+332-2 et les prêts mentionnés au troisième alinéa du 1 de l'article R. 332-13,
 respectivement émises ou obtenus par une même société ou un même organisme.
 
-Pour l'application des dispositions du 5° de l'article R. 332-2, une entreprise
-ne peut affecter à la représentation de ses engagements réglementés plus de 50 %
-des actions émises par une même société.
+Une entreprise ne peut affecter à la représentation de ses engagements
+réglementés plus de 50 % des actions émises par une même société mentionnée au
+5° de l'article R. 332-2.

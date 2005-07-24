@@ -11,7 +11,7 @@ accordée cas par cas par la commission de contrôle des assurances :
 332-2 et des prêts mentionnés au troisième alinéa du 1° de l'article R. 332-13,
 dont 10 % au maximum pour l'ensemble formé par les actions d'entreprises
 étrangères d'assurance mentionnées au 5° bis de l'article R. 332-2 par les
-actions et parts mentionnées aux 6°, 7° et 7° bis de l'article R. 332-2 et par
+actions et parts mentionnées aux 6°, 7° à 7° quater de l'article R. 332-2 et par
 les prêts mentionnés ci-dessus ;
 
 2° 40 % pour les actifs immobiliers mentionnés aux 9° et 9° bis de l'article R.
