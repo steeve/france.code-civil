@@ -24,4 +24,7 @@ ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une
 durée de trois ans au plus ;
 
 7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la
-sécurité routière.
+sécurité routière ;
+
+8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de
+citoyenneté.

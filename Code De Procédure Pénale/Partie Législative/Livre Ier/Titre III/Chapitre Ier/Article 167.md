@@ -31,3 +31,11 @@ qui doit intervenir dans un délai d'un mois à compter de la réception de la
 demande. Il en est de même s'il commet un seul expert alors que la partie a
 demandé qu'il en soit désigné plusieurs. Les dispositions du dernier alinéa de
 l'article 81 sont applicables.
+
+Le juge d'instruction peut également notifier au témoin assisté, selon les
+modalités prévues par le présent article, les conclusions des expertises qui le
+concernent en lui fixant un délai pour présenter une demande de complément
+d'expertise ou de contre-expertise. Le juge n'est toutefois pas tenu de rendre
+une ordonnance motivée s'il estime que la demande n'est pas justifiée, sauf si
+le témoin assisté demande à être mis en examen en application de l'article
+113-6.

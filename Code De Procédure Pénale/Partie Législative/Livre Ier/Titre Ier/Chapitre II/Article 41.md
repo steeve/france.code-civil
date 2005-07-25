@@ -23,11 +23,15 @@ service pénitentiaire d'insertion et de probation, le service compétent de
 l'éducation surveillée ou toute personne habilitée dans les conditions prévues
 par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale
 et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les
-mesures propres à favoriser l'insertion sociale de l'intéressé. En cas de
-poursuites contre un majeur âgé de moins de vingt et un ans au moment de la
-commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
-d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition
-de placement en détention provisoire.
+mesures propres à favoriser l'insertion sociale de l'intéressé.
+
+Ces diligences doivent être prescrites avant toute réquisition de placement en
+détention provisoire, en cas de poursuites contre un majeur âgé de moins de
+vingt et un ans au moment de la commission de l'infraction, lorsque la peine
+encourue n'excède pas cinq ans d'emprisonnement, et en cas de poursuites selon
+la procédure de comparution immédiate prévue aux articles 395 à 397-6 ou selon
+la procédure de comparution sur reconnaissance préalable de culpabilité prévue
+aux articles 495-7 à 495-13.
 
 A l'exception des infractions prévues aux articles 19 et 27 de l'ordonnance n°
 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des

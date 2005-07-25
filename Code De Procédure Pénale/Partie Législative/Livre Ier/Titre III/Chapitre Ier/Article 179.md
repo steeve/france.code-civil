@@ -6,7 +6,10 @@ ordonnance précise, s'il y a lieu, que le prévenu bénéficie des dispositions
 l'article 132-78 du code pénal.
 
 L'ordonnance de règlement met fin à la détention provisoire ou au contrôle
-judiciaire.
+judiciaire. S'il a été décerné, le mandat d'arrêt conserve sa force exécutoire ;
+s'ils ont été décernés, les mandats d'amener ou de recherche cessent de pouvoir
+recevoir exécution, sans préjudice de la possibilité pour le juge d'instruction
+de délivrer un mandat d'arrêt contre le prévenu.
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement
 motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à

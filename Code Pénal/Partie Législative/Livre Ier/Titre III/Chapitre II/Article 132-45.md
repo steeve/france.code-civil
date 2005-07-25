@@ -44,4 +44,16 @@ victime de l'infraction.
 
 15° En cas d'infraction commise à l'occasion de la conduite d'un véhicule
 terrestre à moteur, accomplir, à ses frais, un stage de sensibilisation à la
-sécurité routière.
+sécurité routière ;
+
+16° S'abstenir de diffuser tout ouvrage ou oeuvre audiovisuelle dont il serait
+l'auteur ou le co-auteur et qui porterait, en tout ou partie, sur l'infraction
+commise et s'abstenir de toute intervention publique relative à cette infraction
+; les dispositions du présent alinéa ne sont applicables qu'en cas de
+condamnation pour crimes ou délits d'atteintes volontaires à la vie,
+d'agressions sexuelles ou d'atteintes sexuelles ; (1)
+
+17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée
+par décision de justice ; (1)
+
+18° Accomplir un stage de citoyenneté.

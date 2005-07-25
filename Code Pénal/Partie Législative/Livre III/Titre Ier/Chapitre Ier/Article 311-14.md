@@ -21,4 +21,7 @@ l'infraction ou de la chose qui en est le produit, à l'exception des objets
 susceptibles de restitution ;
 
 5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31,
-dans les cas prévus par les articles 311-6 à 311-10.
+dans les cas prévus par les articles 311-6 à 311-10 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
+par l'article 131-5-1.

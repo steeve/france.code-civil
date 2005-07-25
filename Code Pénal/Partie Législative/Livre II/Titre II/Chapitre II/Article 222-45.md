@@ -11,4 +11,7 @@ une fonction publique ;
 
 3° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix
 ans au plus, une activité professionnelle ou bénévole impliquant un contact
-habituel avec des mineurs.
+habituel avec des mineurs ;
+
+4° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
+par l'article 131-5-1.

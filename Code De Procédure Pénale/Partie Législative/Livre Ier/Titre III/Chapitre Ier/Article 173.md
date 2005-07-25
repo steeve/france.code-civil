@@ -10,22 +10,23 @@ requiert du juge d'instruction communication de la procédure en vue de sa
 transmission à la chambre de l'instruction, présente requête aux fins
 d'annulation à cette chambre et en informe les parties.
 
-Si l'une des parties estime qu'une nullité a été commise, elle saisit la chambre
-de l'instruction par requête motivée, dont elle adresse copie au juge
-d'instruction qui transmet le dossier de la procédure au président de la chambre
-de l'instruction. La requête doit, à peine d'irrecevabilité, faire l'objet d'une
-déclaration au greffe de la chambre de l'instruction. Elle est constatée et
-datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le
-demandeur ne peut signer, il en est fait mention par le greffier. Lorsque le
-demandeur ou son avocat ne réside pas dans le ressort de la juridiction
-compétente, la déclaration au greffe peut être faite au moyen d'une lettre
-recommandée avec demande d'avis de réception. Lorsque la personne mise en examen
-est détenue, la requête peut également être faite au moyen d'une déclaration
-auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée
-et datée par le chef de l'établissement pénitentiaire qui la signe, ainsi que le
-demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de
-l'établissement. Ce document est adressé sans délai, en original ou en copie et
-par tout moyen, au greffe de la chambre de l'instruction.
+Si l'une des parties ou le témoin assisté estime qu'une nullité a été commise,
+elle saisit la chambre de l'instruction par requête motivée, dont elle adresse
+copie au juge d'instruction qui transmet le dossier de la procédure au président
+de la chambre de l'instruction. La requête doit, à peine d'irrecevabilité, faire
+l'objet d'une déclaration au greffe de la chambre de l'instruction. Elle est
+constatée et datée par le greffier qui la signe ainsi que le demandeur ou son
+avocat. Si le demandeur ne peut signer, il en est fait mention par le greffier.
+Lorsque le demandeur ou son avocat ne réside pas dans le ressort de la
+juridiction compétente, la déclaration au greffe peut être faite au moyen d'une
+lettre recommandée avec demande d'avis de réception. Lorsque la personne mise en
+examen est détenue, la requête peut également être faite au moyen d'une
+déclaration auprès du chef de l'établissement pénitentiaire. Cette déclaration
+est constatée et datée par le chef de l'établissement pénitentiaire qui la
+signe, ainsi que le demandeur. Si celui-ci ne peut signer, il en est fait
+mention par le chef de l'établissement. Ce document est adressé sans délai, en
+original ou en copie et par tout moyen, au greffe de la chambre de
+l'instruction.
 
 Les dispositions des trois premiers alinéas ne sont pas applicables aux actes de
 procédure qui peuvent faire l'objet d'un appel de la part des parties, et

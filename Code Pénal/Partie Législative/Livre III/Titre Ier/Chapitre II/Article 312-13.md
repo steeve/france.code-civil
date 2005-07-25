@@ -20,4 +20,7 @@ une arme soumise à autorisation ;
 l'infraction ou de la chose qui en est le produit, à l'exception des objets
 susceptibles de restitution ;
 
-5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31.
+5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de
+l'article 131-5-1.

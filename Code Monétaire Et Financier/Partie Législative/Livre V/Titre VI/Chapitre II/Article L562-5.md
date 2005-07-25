@@ -8,14 +8,15 @@ est alors reportée pour une durée n'excédant pas douze heures.
 Si l'accusé de réception n'est pas assorti d'une opposition, ou si, au terme du
 délai ouvert par l'opposition, aucune décision du président du tribunal de
 grande instance de Paris ou, le cas échéant, du juge d'instruction, n'est
-parvenue à l'organisme financier ou à la personne visée à l'article L. 562-1 qui
+parvenue à l'organisme financier ou à la personne visé à l'article L. 562-1 qui
 a effectué la déclaration, l'opération peut être exécutée.
 
 La déclaration porte sur des opérations déjà exécutées lorsqu'il a été
 impossible de surseoir à leur exécution. Il en est de même lorsqu'il est apparu
 postérieurement à la réalisation de l'opération que les sommes pourraient
-provenir du trafic de stupéfiants ou d' activités criminelles organisées. Le
-service institué à l'article L. 562-4 accuse réception de ces déclarations.
+provenir du trafic de stupéfiants ou d'activités criminelles organisées ou du
+financement du terrorisme. Le service institué à l'article L. 562-4 accuse
+réception de ces déclarations.
 
 Le président du tribunal de grande instance de Paris peut, sur requête du
 service institué à l'article L. 562-4 après avis du procureur de la République

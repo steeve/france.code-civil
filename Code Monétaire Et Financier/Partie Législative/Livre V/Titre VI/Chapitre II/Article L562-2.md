@@ -6,11 +6,13 @@ institué à l'article L. 562-4 :
 
 1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de
 stupéfiants, de la fraude aux intérêts financiers des Communautés européennes,
-de la corruption ou d'activités criminelles organisées ;
+de la corruption ou d'activités criminelles organisées ou qui pourraient
+participer au financement du terrorisme ;
 
-2. Les opérations qui portent sur des sommes lorsque celles-ci pourraient
-provenir du trafic de stupéfiants, de la fraude aux intérêts financiers des
-Communautés européennes, de la corruption ou d'activités criminelles organisées.
+2. Les opérations qui portent sur des sommes qui pourraient provenir du trafic
+de stupéfiants, de la fraude aux intérêts financiers des Communautés
+européennes, de la corruption ou d'activités criminelles organisées ou qui
+pourraient participer au financement du terrorisme.
 
 Les organismes financiers sont également tenus de déclarer à ce service :
 

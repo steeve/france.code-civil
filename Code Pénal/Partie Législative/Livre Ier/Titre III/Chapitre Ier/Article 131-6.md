@@ -1,7 +1,8 @@
 Article 131-6
 ----
-Lorsqu'un délit est puni d'une peine d'emprisonnement, une ou plusieurs des
-peines privatives ou restrictives de droits suivantes peuvent être prononcées :
+Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut
+prononcer, à la place de l'emprisonnement, une ou plusieurs des peines
+privatives ou restrictives de liberté suivantes :
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire,
 cette suspension pouvant être limitée, selon des modalités déterminées par
@@ -37,11 +38,23 @@ ou ceux qui sont certifiés et d'utiliser des cartes de paiement ;
 
 10° La confiscation de la chose qui a servi ou était destinée à commettre
 l'infraction ou de la chose qui en est le produit. Toutefois, cette confiscation
-ne peut pas être prononcée en matière de délit de presse.
+ne peut pas être prononcée en matière de délit de presse ;
 
 11° L'interdiction pour une durée de cinq ans au plus d'exercer une activité
 professionnelle ou sociale dès lors que les facilités que procure cette activité
 ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette
 interdiction n'est toutefois pas applicable à l'exercice d'un mandat électif ou
 de responsabilités syndicales. Elle n'est pas non plus applicable en matière de
-délit de presse.
+délit de presse ;
+
+12° L'interdiction, pour une durée de trois ans au plus, de paraître dans
+certains lieux ou catégories de lieux déterminés par la juridiction et dans
+lesquels l'infraction a été commise ;
+
+13° L'interdiction, pour une durée de trois ans au plus, de fréquenter certains
+condamnés spécialement désignés par la juridiction, notamment les auteurs ou
+complices de l'infraction ;
+
+14° L'interdiction, pour une durée de trois ans au plus, d'entrer en relation
+avec certaines personnes spécialement désignées par la juridiction, notamment la
+victime de l'infraction.

@@ -20,11 +20,6 @@ décision spéciale et motivée, de donner mainlevée de ces mandats.
 En toutes circonstances, les mandats décernés dans les cas susvisés continuent à
 produire leur effet, nonobstant le pourvoi en cassation.
 
-En cas d'opposition au jugement dans les conditions prévues par les articles 491
-et 492, l'affaire doit venir devant le tribunal à la première audience ou au
-plus tard dans la huitaine du jour de l'opposition, faute de quoi le prévenu
-doit être mis en liberté d'office. S'il y a lieu à remise, le tribunal doit
-statuer d'office par une décision motivée sur le maintien ou la mainlevée du
-mandat, le ministère public entendu. Le tout sans préjudice de la faculté pour
-le prévenu de former une demande de mise en liberté provisoire dans les
-conditions prévues par les articles 148-1 et 148-2.
+Si la personne est arrêtée à la suite du mandat d'arrêt et qu'il s'agit d'un
+jugement rendu par défaut, il est fait application des dispositions de l'article
+135-2.
