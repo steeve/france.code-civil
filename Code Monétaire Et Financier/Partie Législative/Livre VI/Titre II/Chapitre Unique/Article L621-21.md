@@ -17,7 +17,13 @@ industriel, financier ou technique à des personnes physiques ou morales
 aux autorités des autres Etats membres de la communauté européenne ou des autres
 Etats parties à l'accord sur l'Espace économique européen exerçant des
 compétences analogues et astreintes aux mêmes obligations de secret
-professionnel.
+professionnel. L'Autorité des marchés financiers et ses agents peuvent également
+échanger des informations confidentielles relatives aux obligations mentionnées
+aux articles L. 412-1, L. 451-1-2 et L. 451-1-3 avec les entités auxquelles ces
+autorités ont délégué le contrôle de ces obligations, dès lors que ces entités
+sont astreintes aux mêmes obligations de secret professionnel. A cette fin,
+l'Autorité des marchés financiers peut signer des conventions organisant ses
+relations avec ces entités déléguées.
 
 L'Autorité des marchés financiers peut également communiquer, par dérogation aux
 dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication

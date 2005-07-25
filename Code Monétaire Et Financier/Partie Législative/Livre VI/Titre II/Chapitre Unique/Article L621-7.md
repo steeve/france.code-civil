@@ -112,3 +112,19 @@ sous l'autorité ou agissant pour le compte des personnes qui produisent et
 diffusent des analyses financières, à titre de profession habituelle, et les
 dispositions propres à assurer leur indépendance d'appréciation et la prévention
 des conflits d'intérêts.
+
+IX. - Les règles relatives aux recommandations d'investissement destinées au
+public et portant sur tout émetteur dont les instruments financiers sont admis
+aux négociations sur un marché réglementé ou sur un instrument financier qu'il
+émet, lorsqu'elles sont produites ou diffusées par toute personne dans le cadre
+de ses activités professionnelles.
+
+Un décret en Conseil d'Etat précise les cas dans lesquels une information
+financière donnée au public constitue la production ou la diffusion d'une
+recommandation d'investissement telle que mentionnée à l'alinéa précédent.
+
+X. - Les modalités d'exécution, par dépôt ou par diffusion par voie de presse
+écrite et par voie électronique ou par la mise à disposition gratuite
+d'imprimés, des obligations de publicité et d'information édictées par le
+présent code au titre de la transparence des marchés financiers et dans le cadre
+des opérations par appel public à l'épargne.
