@@ -172,6 +172,41 @@ participation définis au troisième alinéa constaté au titre des exercices
 ouverts à compter du 1er janvier 2006 ne sont plus imputables ou reportables à
 partir des exercices ouverts à compter du 1er janvier 2007.
 
+a sexies. 1. Pour les exercices ouverts à compter du ler janvier 2006, les
+sommes réparties par un fonds commun de placement à risques et les distributions
+de sociétés de capital-risque soumises au régime fiscal des plus-values à long
+terme en application du deuxième alinéa du 5 de l'article 38 ou du 5 de
+l'article 39 terdecies sont soumises à l'impôt au taux de 8 % pour la fraction
+des sommes ou distributions afférentes aux cessions d'actions ou de parts de
+sociétés détenues directement depuis deux ans au moins et si le fonds ou la
+société a détenu directement au moins 5 % du capital de la société émettrice
+pendant deux ans au moins. Le taux de 8 % est fixé à 0 % pour les exercices
+ouverts à compter du 1er janvier 2007.
+
+Pour l'appréciation du seuil de 5 % prévu au premier alinéa, sont également pris
+en compte les titres détenus par d'autres fonds communs de placement à risques
+ou sociétés de capital-risque qui ont agi de concert avec le fonds ou la société
+concerné dans le cadre d'un contrat conclu en vue d'acquérir ces titres.
+
+Lorsque les actions ou parts cédées ont été reçues dans le cadre d'un échange,
+d'une conversion ou d'un remboursement d'un titre donnant accès au capital de la
+société, le délai de deux ans de détention des actions est décompté à partir de
+l'acquisition du titre donnant accès au capital de la société.
+
+2. Pour les exercices ouverts à compter du ler janvier 2006, la plus-value
+réalisée sur la cession de parts de fonds communs de placement à risques ou
+d'actions de sociétés de capital-risque mentionnées au premier alinéa du a ter
+est soumise au taux de 8 % à hauteur du rapport existant à la date de la cession
+entre la valeur des actions ou parts de sociétés mentionnées au premier alinéa
+du 1 inscrites à l'actif du fonds ou de la société augmentée des sommes en
+instance de distribution depuis moins de six mois représentative de la cession
+d'actions ou de parts de sociétés mentionnées au premier alinéa du 1 et la
+valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 0 %
+pour les exercices ouverts à compter du 1er janvier 2007.
+
+Un décret en Conseil d'Etat fixe les modalités d'appréciation du rapport
+précité.
+
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour
 les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros
 au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à

@@ -85,7 +85,7 @@ des prestations familiales auxquelles aurait eu droit le parent décédé ;
 adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie
 du fait de la loi ;
 
-14° ter L'indemnité prévue par l'article L. 1124-2 du code de la santé publique
+14° ter L'indemnité prévue par l'article L. 1121-11 du code de la santé publique
 ;
 
 15° Les prestations, visées aux articles L. 325-1 et L. 325-2 du code rural dans
@@ -149,10 +149,14 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
 du 27 septembre 1967 et les textes pris pour son application ;
 
-19° bis Le complément de rémunération résultant de la contribution de
-l'employeur à l'acquisition de chèques-vacances par les salariés, dans les
-conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée, dans la
-limite du salaire minimum de croissance apprécié sur une base mensuelle ;
+19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition
+des chèques-vacances conformément à l'article L. 411-5 du code du tourisme
+ci-après reproduit :
+
+"Art. L. 411-5 - L'avantage résultant de la contribution de l'employeur à
+l'acquisition des chèques-vacances par les salariés est exonéré de l'impôt sur
+le revenu, dans la limite du salaire minimum de croissance apprécié sur une base
+mensuelle" ;
 
 20° Les attributions gratuites d'actions :
 
@@ -243,3 +247,5 @@ travail.
 janvier de l'année d'imposition en rémunération d'une activité exercée pendant
 leurs congés scolaires ou universitaires, dans la limite de deux fois le montant
 mensuel du salaire minimum de croissance.
+
+37° L'aide financière mentionnée à l'article L. 129-13 du code du travail.

@@ -13,8 +13,9 @@ notamment être mises en oeuvre et financées par l'utilisation du reliquat des
 droits que le salarié a acquis à la date de la rupture de son contrat, au titre
 du droit individuel à la formation prévu à l'article L. 933-1. La durée des
 droits correspondant à ce reliquat, plafonné à vingt heures par année
-d'ancienneté et cent vingt heures sur six années, est doublée. Toutefois,
-l'allocation de formation prévue à l'article L. 933-4 n'est pas due.
+d'ancienneté et cent vingt heures sur six années, est doublée. Toutefois, seule
+est due une somme correspondant à l'allocation de formation prévue à l'article
+L. 933-4.
 
 Le salarié est placé sous le statut de stagiaire de la formation professionnelle
 pendant l'exécution de la convention de reclassement personnalisé.
@@ -22,7 +23,13 @@ pendant l'exécution de la convention de reclassement personnalisé.
 En cas d'accord du salarié, le contrat de travail est réputé rompu du commun
 accord des parties. Cette rupture de contrat de travail, qui ne comporte ni
 délai-congé ni indemnité de préavis, ouvre droit à l'indemnité prévue à
-l'article L. 122-9.
+l'article L. 122-9 ainsi, le cas échéant, qu'au solde de ce qu'aurait été
+l'indemnité de préavis si elle avait correspondu à une durée supérieure à deux
+mois. Le salarié dont la durée légale du délai-congé prévu à l'article L. 122-6
+est inférieure à deux mois perçoit dès la rupture du contrat de travail une
+somme d'un montant équivalent à l'indemnité de préavis qu'il aurait perçue en
+cas de refus. Les régimes social et fiscal applicables à ces sommes sont ceux
+applicables au préavis.
 
 Un accord conclu et agréé dans les conditions prévues à l'article L. 351-8
 définit les modalités d'application des dispositions des alinéas précédents,
@@ -33,11 +40,13 @@ entreprises et aux situations des salariés concernés. Il détermine également
 contenu des actions de soutien psychologique, d'orientation, d'évaluation,
 d'accompagnement et de formation, les modalités selon lesquelles elles sont
 financées, notamment au titre du droit individuel à la formation, et mises en
-oeuvre par l'un des organismes mentionnés aux articles L. 311-1 et L. 311-10
-ainsi que le montant de l'allocation servie au bénéficiaire, par les organismes
-mentionnés à l'article L. 351-21. L'employeur contribue au financement de
-l'allocation par un versement à ces organismes équivalent au minimum à deux mois
-de salaire de l'intéressé.
+oeuvre par l'un des organismes mentionnés aux articles L. 311-1 et L. 311-10,
+les obligations du bénéficiaire de la convention ainsi que le montant de
+l'allocation servie au bénéficiaire, par les organismes mentionnés à l'article
+L. 351-21. L'employeur contribue au financement de l'allocation par un versement
+à ces organismes équivalent au minimum à deux mois de salaire de l'intéressé,
+sous réserve que la durée légale du délai-congé prévu à l'article L. 122-6 soit
+au moins égale à deux mois.
 
 L'accord définit également les conditions dans lesquelles les mêmes organismes
 et les employeurs participent au financement des actions prévues à l'alinéa

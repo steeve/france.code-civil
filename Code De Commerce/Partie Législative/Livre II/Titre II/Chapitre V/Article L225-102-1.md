@@ -13,6 +13,18 @@ sociétés contrôlées au sens de l'article L. 233-16 ou de la société qui
 contrôle, au sens du même article, la société dans laquelle le mandat est
 exercé.
 
+Ce rapport décrit en les distinguant les éléments fixes, variables et
+exceptionnels composant ces rémunérations et avantages ainsi que les critères en
+application desquels ils ont été calculés ou les circonstances en vertu
+desquelles ils ont été établis. Il indique également les engagements de toutes
+natures, pris par la société au bénéfice de ses mandataires sociaux,
+correspondant à des éléments de rémunération, des indemnités ou des avantages
+dus ou susceptibles d'être dus à raison de la prise, de la cessation ou du
+changement de ces fonctions ou postérieurement à celles-ci. L'information donnée
+à ce titre doit préciser les modalités de détermination de ces engagements.
+Hormis les cas de bonne foi, les versements effectués et les engagements pris en
+méconnaissance des dispositions du présent alinéa peuvent être annulés.
+
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés
 dans toute société par chacun de ces mandataires durant l'exercice.
 
@@ -22,7 +34,10 @@ sociales et environnementales de son activité. Le présent alinéa ne s'appliqu
 pas aux sociétés dont les titres ne sont pas admis aux négociations sur un
 marché réglementé.
 
-Les dispositions des premier et deuxième alinéas ne sont pas applicables aux
+Les dispositions des deux derniers alinéas de l'article L. 225-102 sont
+applicables aux informations visées au présent article.
+
+Les dispositions des premier à troisième alinéas ne sont pas applicables aux
 sociétés dont les titres ne sont pas admis aux négociations sur un marché
 réglementé et qui ne sont pas contrôlées au sens de l'article L. 233-16 par une
 société dont les titres sont admis aux négociations sur un marché réglementé.

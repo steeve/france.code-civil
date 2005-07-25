@@ -18,8 +18,9 @@ alinéa ou lorsque ce contrat n'est pas renouvelé et que son bénéficiaire
 n'exerce pas d'activité professionnelle rémunérée, le versement de l'allocation
 dont il bénéficiait avant la conclusion du contrat est maintenu ou rétabli selon
 les conditions respectivement prévues aux articles L. 262-7 à L. 262-12-1 du
-code de l'action sociale et des familles, L. 351-10 du présent code ou L. 524-1
-du code de la sécurité sociale et précisées par décret en Conseil d'Etat.
+code de l'action sociale et des familles, L. 351-10 du présent code, L. 524-1 ou
+L. 821-1 à L. 821-3 du code de la sécurité sociale et précisées par décret en
+Conseil d'Etat.
 
 Les bénéficiaires du contrat insertion-revenu minimum d'activité peuvent
 bénéficier du contrat d'appui au projet d'entreprise, en application des

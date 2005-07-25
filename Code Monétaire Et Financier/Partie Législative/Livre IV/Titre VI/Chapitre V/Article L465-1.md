@@ -33,10 +33,3 @@ informations, avant que le public en ait connaissance. Lorsque les informations
 en cause concernent la commission d'un crime ou d'un délit, les peines encourues
 sont portées à sept ans d'emprisonnement et à 1 500 000 euros si le montant des
 profits réalisés est inférieur à ce chiffre.
-
-Est puni des peines prévues au premier alinéa le fait, pour toute personne, de
-répandre dans le public par des voies et moyens quelconques des informations
-fausses ou trompeuses sur les perspectives ou la situation d'un émetteur dont
-les titres sont négociés sur un marché réglementé ou sur les perspectives
-d'évolution d'un instrument financier admis sur un marché réglementé, de nature
-à agir sur les cours.

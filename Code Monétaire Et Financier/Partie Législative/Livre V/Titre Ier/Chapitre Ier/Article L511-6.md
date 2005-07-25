@@ -36,4 +36,8 @@ développement d'entreprises par des chômeurs ou titulaires des minima sociaux
 sur ressources propres et sur emprunts contractés auprès d'établissements de
 crédit ou des institutions ou services mentionnés à l'article L. 518-1,
 habilitées et contrôlées dans des conditions définies par décret en Conseil
-d'Etat.
+d'Etat ;
+
+6. Aux personnes morales pour les prêts participatifs qu'elles consentent en
+vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à
+l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.

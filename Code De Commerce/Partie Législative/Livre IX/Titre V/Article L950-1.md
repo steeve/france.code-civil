@@ -6,7 +6,8 @@ Futuna :
 
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15,
+L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 

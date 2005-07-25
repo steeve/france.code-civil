@@ -39,12 +39,7 @@ d'investissement.
 II. - Le plan d'épargne pour la retraite collectif peut recevoir, à l'initiative
 des participants, les versements des sommes issues de l'intéressement, de la
 participation ainsi que d'autres versements volontaires et des contributions des
-entreprises prévues à l'article L. 443-7. Peuvent également lui être transférées
-les sommes inscrites dans les plans d'épargne prévus aux articles L. 443-1 ou L.
-443-1-1, avant l'expiration du délai fixé à l'article L. 443-6. Ces transferts
-ne sont pas pris en compte pour l'appréciation du plafond mentionné au premier
-alinéa de l'article L. 443-2 et ne peuvent donner lieu à un versement
-complémentaire de l'entreprise.
+entreprises prévues à l'article L. 443-7.
 
 Par dérogation à l'article L. 443-7, les sommes issues de la participation qui
 sont versées au plan d'épargne pour la retraite collectif peuvent donner lieu à

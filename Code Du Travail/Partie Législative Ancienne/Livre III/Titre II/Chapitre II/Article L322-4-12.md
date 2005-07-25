@@ -4,9 +4,21 @@ I. - Le contrat d'avenir est un contrat de travail de droit privé à durée
 déterminée passé en application de l'article L. 122-2 avec l'un des employeurs
 mentionnés à l'article L. 322-4-11. Il est conclu pour une durée de deux ans. Il
 peut être renouvelé dans la limite de douze mois. Pour les bénéficiaires âgés de
-plus de cinquante ans, la limite de renouvellement peut être de trente-six mois.
-Les dispositions du dernier alinéa de l'article L. 122-2 relatives au nombre
-maximal des renouvellements ne sont pas applicables.
+plus de cinquante ans et les personnes reconnues travailleurs handicapés dans
+les conditions prévues à l'article L. 323-10, la limite de renouvellement peut
+être de trente-six mois. Les dispositions du dernier alinéa de l'article L.
+122-2 relatives au nombre maximal des renouvellements ne sont pas applicables.
+
+Par dérogation aux dispositions du premier alinéa, lorsque la convention a été
+conclue pour une durée comprise entre six et vingt-quatre mois en application du
+dernier alinéa de l'article L. 322-4-11, le contrat est conclu pour la même
+durée. Il est renouvelable deux fois, la durée totale du contrat ne pouvant,
+compte tenu du ou des renouvellements, excéder trente-six mois. Pour les
+bénéficiaires âgés de plus de cinquante ans et les personnes reconnues
+travailleurs handicapés dans les conditions prévues à l'article L. 323-10, cette
+durée totale ne peut excéder cinq ans.
+
+Un bilan est réalisé tous les six mois avec l'employeur et le référent.
 
 Sauf clauses conventionnelles prévoyant une période d'essai d'une durée moindre,
 la période d'essai du contrat d'avenir est fixée à un mois.
@@ -32,10 +44,16 @@ l'allocation perçue par le bénéficiaire du contrat. Le montant de cette aide 
 personne isolée en application de l'article L. 262-2 du code de l'action sociale
 et des familles.
 
-Il perçoit également de l'Etat une aide dégressive avec la durée du contrat dont
-le montant, ajouté à celui de l'aide prévue ci-dessus, ne peut excéder le niveau
-de la rémunération versée à l'intéressé. Pour les employeurs conventionnés au
-titre de l'article L. 322-4-16-8, cette aide n'est pas dégressive.
+Le débiteur de l'allocation peut confier le service de l'aide à l'employeur
+mentionnée au premier alinéa à l'un des organismes mentionnés à l'article L.
+262-30 du code de l'action sociale et des familles ou à l'un des organismes
+visés au premier alinéa de l'article L. 351-21 du présent code.
+
+L'employeur perçoit également de l'Etat, dans des conditions déterminées par
+décret, une aide dégressive avec la durée du contrat dont le montant, ajouté à
+celui de l'aide prévue ci-dessus, ne peut excéder le niveau de la rémunération
+versée à l'intéressé. Pour les employeurs conventionnés au titre de l'article L.
+322-4-16-8, cette aide n'est pas dégressive.
 
 Les dispositions des deuxième et troisième alinéas du II de l'article L. 322-4-7
 sont applicables au contrat d'avenir.
@@ -62,5 +80,5 @@ lorsque ce contrat n'est pas renouvelé et que son bénéficiaire n'exerce pas
 d'activité professionnelle rémunérée, le versement de l'allocation dont il
 bénéficiait avant la conclusion du contrat est maintenu ou rétabli selon les
 conditions respectivement prévues aux articles L. 262-7 à L. 262-12-1 du code de
-l'action sociale et des familles, L. 351-10 du présent code ou L. 524-1 du code
-de la sécurité sociale.
+l'action sociale et des familles, L. 351-10 du présent code, L. 524-1 ou L.
+821-1 à L. 821-3 du code de la sécurité sociale.

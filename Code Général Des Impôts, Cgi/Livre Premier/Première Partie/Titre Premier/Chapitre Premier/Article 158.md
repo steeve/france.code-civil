@@ -21,24 +21,25 @@ Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont
 soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en
 espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-2° Les revenus distribués par les sociétés passibles de l'impôt sur les sociétés
-ou d'un impôt équivalent, ayant leur siège dans un Etat de la Communauté
-européenne ou dans un Etat ou territoire ayant conclu avec la France une
-convention fiscale en vue d'éviter les doubles impositions en matière d'impôt
-sur les revenus et résultant d'une décision régulière des organes compétents,
-sont retenus, pour le calcul de l'impôt sur le revenu, pour 50 % de leur
-montant. A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas
-leur siège dans un Etat de la Communauté européenne, cette disposition est
-réservée aux revenus distribués par des sociétés établies dans un Etat ou
-territoire ayant conclu une convention fiscale qui contient une clause
-d'assistance administrative en vue de lutter contre la fraude ou l'évasion
-fiscale ;
+2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt
+sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt,
+ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou
+territoire ayant conclu avec la France une convention fiscale en vue d'éviter
+les doubles impositions en matière d'impôt sur les revenus et résultant d'une
+décision régulière des organes compétents, sont retenus, pour le calcul de
+l'impôt sur le revenu, pour 50 % de leur montant. A compter du 1er janvier 2009
+pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la
+Communauté européenne, cette disposition est réservée aux revenus distribués par
+des sociétés établies dans un Etat ou territoire ayant conclu une convention
+fiscale qui contient une clause d'assistance administrative en vue de lutter
+contre la fraude ou l'évasion fiscale ;
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
 a. Aux produits des actions des sociétés d'investissement mentionnées au 1° bis
 et au 1° ter de l'article 208 et des sociétés de capital-risque mentionnées au
-3° septies du même article ;
+3° septies du même article prélevés sur des bénéfices exonérés d'impôt sur les
+sociétés ;
 
 b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article
 208 et des sociétés d'investissement de même nature établies hors de France et
@@ -52,18 +53,22 @@ d. Aux revenus distribués mentionnés au a de l'article 111 ;
 e. Aux bénéfices ou revenus mentionnés à l'article 123 bis ;
 
 4° Les dispositions du 2° sont également applicables pour la part des revenus de
-la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°,
-distribués ou répartis par :
+la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés
+sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un impôt
+équivalent, distribués ou répartis par :
 
 a. Les organismes de placement collectif en valeurs mobilières régis par les
 articles L. 214-2 et suivants du code monétaire et financier ;
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans
-d'autres Etats membres de la Communauté européenne et bénéficiant de la
-procédure de reconnaissance mutuelle des agréments prévue par la directive
-85/611/CE du Conseil du 20 décembre 1985 portant coordination des dispositions
-législatives, réglementaires et administratives concernant certains organismes
-de placement collectif en valeurs mobilières (OPCVM) ;
+d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre
+de cette Communauté partie à l'accord sur l'Espace économique européen ayant
+conclu une convention fiscale qui contient une clause d'assistance
+administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui
+bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par
+la directive 85/611/CE du Conseil du 20 décembre 1985 portant coordination des
+dispositions législatives, réglementaires et administratives concernant certains
+organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
 c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
 
@@ -79,7 +84,8 @@ fonction de leur nature et origine ;
 5° Il est opéré un abattement annuel de 1 220 Euros pour les contribuables
 célibataires, divorcés ou veufs et de 2 440 Euros pour les contribuables mariés
 soumis à une imposition commune sur le montant net des revenus déterminé dans
-les conditions du 2°.
+les conditions du 2° et après déduction des dépenses effectuées en vue de leur
+acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
@@ -169,8 +175,7 @@ b. Les dispositions du a sont applicables aux allocations mentionnées aux
 premier et troisième alinéas de l'article 231 bis D, aux participations en
 espèces et, à compter du 1er janvier 1991, aux dividendes des actions de
 travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque
-ces sommes sont imposables, de même qu'à l'aide financière mentionnée à
-l'article L129-3 du code du travail.
+ces sommes sont imposables.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme
 de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe
@@ -204,6 +209,11 @@ au titre de l'année précédente.
 Pour l'application de cette règle, les arrérages échus en 1987 sont répartis
 également sur le nombre de mois auxquels ils correspondent, arrondi au nombre
 entier le plus proche.
+
+Les dispositions des deux alinéas précédents sont également applicables pour
+l'établissement de l'impôt des redevables pensionnés au 31 décembre 2003 dont la
+pension a fait l'objet d'un premier versement mensuel en 2004, les arrérages
+mentionnés au deuxième alinéa s'entendant des arrérages échus en 2004.
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un
 revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que

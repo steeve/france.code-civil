@@ -9,6 +9,12 @@ autorisation ne peut être donnée pour une durée supérieure à dix-huit mois.
 comité d'entreprise est informé de la résolution adoptée par l'assemblée
 générale.
 
+Un rapport spécial informe chaque année l'assemblée générale de la réalisation
+des opérations d'achat d'actions qu'elle a autorisées et précise en particulier,
+pour chacune des finalités, le nombre et le prix des actions ainsi acquises, le
+volume des actions utilisées pour ces finalités, ainsi que les éventuelles
+réallocations à d'autres finalités dont elles ont fait l'objet.
+
 Le conseil d'administration peut déléguer au directeur général ou, en accord
 avec ce dernier, à un ou plusieurs directeurs généraux délégués, les pouvoirs
 nécessaires pour réaliser cette opération. Le directoire peut déléguer à son
@@ -20,8 +26,8 @@ conditions prévues par ces derniers.
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par
 tous moyens. Ces actions peuvent être annulées dans la limite de 10 % du capital
 de la société par périodes de vingt-quatre mois. La société informe chaque mois
-le Conseil des marchés financiers des achats, cessions, transferts et
-annulations ainsi réalisés. Le Conseil des marchés financiers porte cette
+l'Autorité des marchés financiers des achats, cessions, transferts et
+annulations ainsi réalisés. L'Autorité des marchés financiers porte cette
 information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de
@@ -33,6 +39,12 @@ dans les conditions prévues ci-dessus. Elles peuvent également leur proposer
 d'acquérir leurs propres actions dans les conditions prévues par le II de
 l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
 travail.
+
+Le nombre d'actions acquises par la société en vue de leur conservation et de
+leur remise ultérieure en paiement ou en échange dans le cadre d'une opération
+de fusion, de scission ou d'apport ne peut excéder 5 % de son capital. Ces
+dispositions sont applicables aux programmes de rachat soumis à l'approbation
+des assemblées générales se tenant à compter du 1er janvier 2006.
 
 En cas d'annulation des actions achetées, la réduction de capital est autorisée
 ou décidée par l'assemblée générale extraordinaire qui peut déléguer au conseil

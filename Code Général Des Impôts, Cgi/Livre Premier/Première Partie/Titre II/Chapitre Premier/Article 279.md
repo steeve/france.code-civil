@@ -118,8 +118,10 @@ comptabilité une ventilation des recettes correspondant à chaque taux. La
 détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
 b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance
-maximale inférieure ou égale à 36 kilovoltampères et de gaz naturel combustible,
-distribués par réseaux.
+maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de
+gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de
+chaleur lorsqu'elle est produite au moins à 60 % à partir de la biomasse, de la
+géothermie, des déchets et d'énergie de récupération.
 
 La puissance maximale prise en compte correspond à la totalité des puissances
 maximales souscrites par un même abonné sur un même site ;
@@ -145,7 +147,7 @@ organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de
 l'environnement ;
 
 i. les prestations de services fournies par des entreprises agréées en
-application du II de l'article L. 129-1 du code du travail.
+application de l'article L. 129-1 du code du travail.
 
 j) Les rémunérations versées par les collectivités territoriales et leurs
 groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens

@@ -22,7 +22,10 @@ respect. Elle délivre au contribuable un document attestant la bonne exécution
 de la convention lorsque celle-ci prend fin.
 
 II. - La réduction d'impôt, d'un montant forfaitaire de 1 000 Euros, est
-accordée au titre de l'année au cours de laquelle la convention prend fin.
+accordée au titre de l'année au cours de laquelle la convention prend fin. Cette
+réduction d'impôt est majorée dans des conditions définies par décret lorsque
+l'aide est apportée à une personne handicapée au sens de l'article L. 114 du
+code de l'action sociale et des familles.
 
 III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
 article, notamment :

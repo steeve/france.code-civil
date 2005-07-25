@@ -1,10 +1,13 @@
 Article L441-4
 ----
-Les sommes attribuées aux salariés en application de l'accord d'intéressement
-n'ont pas le caractère de rémunération, au sens de l'article L. 242-1 du code de
-la sécurité sociale et ne peuvent se substituer à aucun des éléments de
-rémunération, au sens du même article, en vigueur dans l'entreprise ou qui
-deviennent obligatoires en vertu de règles légales ou contractuelles.
+Les sommes attribuées aux bénéficiaires en application de l'accord
+d'intéressement n'ont pas le caractère de rémunération, au sens de l'article L.
+242-1 du code de la sécurité sociale et de l'article L. 741-10 du code rural, ni
+de revenu professionnel au sens de l'article L. 131-6 du code de la sécurité
+sociale et de l'article L. 731-14 du code rural et ne peuvent se substituer à
+aucun des éléments de rémunération, au sens des mêmes articles, en vigueur dans
+l'entreprise ou qui deviennent obligatoires en vertu de règles légales ou
+contractuelles.
 
 Toutefois, cette règle de non-substitution ne peut avoir pour effet de remettre
 en cause les exonérations prévues tant au présent article qu'aux articles L.

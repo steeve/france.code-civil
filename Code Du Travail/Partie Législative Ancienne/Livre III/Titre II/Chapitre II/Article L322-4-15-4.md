@@ -8,9 +8,10 @@ conclu sous forme écrite. Il fixe les modalités de mise en oeuvre des actions
 définies dans la convention prévue à l'article L. 322-4-15-1.
 
 Le contrat insertion-revenu minimum d'activité peut être renouvelé, le cas
-échéant, deux fois par dérogation aux dispositions de l'article L. 122-2, sous
-réserve du renouvellement par avenant de la convention par le département ou la
-collectivité débitrice de l'une des allocations visées à l'article L. 322-4-15.
+échéant, deux fois par dérogation aux dispositions de l'article L. 122-2 et du
+deuxième alinéa du I de l'article L. 124-2-2, sous réserve du renouvellement par
+avenant de la convention par le département ou la collectivité débitrice de
+l'une des allocations visées à l'article L. 322-4-15.
 
 La convention est renouvelée à l'issue d'une évaluation des conditions
 d'exécution des actions qu'elle prévoit.
@@ -30,6 +31,17 @@ Un décret en Conseil d'Etat détermine les conditions dans lesquelles la durée
 travail hebdomadaire peut varier sur tout ou partie de l'année sans excéder la
 durée prévue à l'article L. 212-1 du présent code ou à l'article L. 713-2 du
 code rural.
+
+Dans les exploitations, entreprises et établissements visés aux 1° à 4° de
+l'article L. 722-1 du code rural ainsi que les coopératives agricoles visées au
+6° de l'article L. 722-20 du même code, le contrat de travail peut prévoir des
+actions de formation proposées par les organismes paritaires de la formation
+professionnelle et extérieures à l'entreprise. Ces formations doivent être
+prévues par la convention mentionnée au premier alinéa de l'article L.
+322-4-15-1. La durée de ces formations s'impute sur le temps de travail. La
+durée moyenne hebdomadaire de travail calculée sur la durée totale du contrat
+doit être au moins égale à la durée minimale hebdomadaire fixée au présent
+article.
 
 Sous réserve de clauses conventionnelles prévoyant une période d'essai d'une
 durée moindre, la période d'essai au titre du contrat insertion-revenu minimum

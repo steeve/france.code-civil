@@ -29,6 +29,11 @@ e) D'aides à des organismes agréés d'information du public sur le logement.
 
 f) De subventions à l'Agence nationale pour la rénovation urbaine.
 
+g) De compensations versées aux entreprises d'assurance de dommages qui
+proposent la souscription de contrats d'assurance contre le risque de loyers
+impayés respectant un cahier des charges social établi par l'Union d'économie
+sociale du logement et approuvé par décret.
+
 Ces dispositions sont applicables aux établissements publics ayant un caractère
 industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités
 locales et de leurs établissements publics ayant le même caractère.
@@ -59,5 +64,5 @@ entreprise ayant employé dix salariés ou plus au cours de l'une des trois ann�
 précédentes.
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due
-dans les conditions de droit commun dès l'année au cours de laquelle l'effectif
+dans les conditions de droit commun dés l'année au cours de laquelle l'effectif
 de dix salariés est atteint ou dépassé.

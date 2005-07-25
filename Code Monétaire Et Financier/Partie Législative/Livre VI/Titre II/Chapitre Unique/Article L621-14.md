@@ -1,15 +1,23 @@
 Article L621-14
 ----
 I. - Le collège peut, après avoir mis la personne concernée en mesure de
-présenter ses explications, ordonner qu'il soit mis fin aux pratiques contraires
-aux dispositions législatives ou réglementaires, lorsque ces pratiques sont de
-nature à porter atteinte aux droits des épargnants ou ont pour effet de fausser
-le fonctionnement du marché, de procurer aux intéressés un avantage injustifié
-qu'ils n'auraient pas obtenu dans le cadre normal du marché, de porter atteinte
-à l'égalité d'information ou de traitement des investisseurs ou à leurs intérêts
-ou de faire bénéficier les émetteurs ou les investisseurs des agissements
-d'intermédiaires contraires à leurs obligations professionnelles. Ces décisions
-peuvent être rendues publiques.
+présenter ses explications, ordonner qu'il soit mis fin, en France et à
+l'étranger, aux manquements aux obligations résultant des dispositions
+législatives ou réglementaires ou des règles professionnelles visant à protéger
+les investisseurs contre les opérations d'initiés, les manipulations de cours et
+la diffusion de fausses informations, ou à tout autre manquement de nature à
+porter atteinte à la protection des investisseurs ou au bon fonctionnement du
+marché. Ces décisions peuvent être rendues publiques.
+
+Le collège dispose des mêmes pouvoirs que ceux mentionnés à l'alinéa précédent à
+l'encontre des manquements aux obligations résultant des dispositions
+législatives ou réglementaires visant à protéger les investisseurs et le marché
+contre les opérations d'initié, les manipulations de cours ou la diffusion de
+fausses informations, commis sur le territoire français et concernant des
+instruments financiers admis aux négociations sur un marché réglementé d'un
+autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen ou pour lesquels une demande d'admission aux négociations
+sur un tel marché a été présentée.
 
 II. - Le président de l'Autorité des marchés financiers peut demander en justice
 qu'il soit ordonné à la personne qui est responsable de la pratique relevée de

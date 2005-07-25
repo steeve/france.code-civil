@@ -4,13 +4,13 @@ Une fraction de la taxe d'apprentissage est versée au Trésor public par les
 redevables de la taxe d'apprentissage par l'intermédiaire d'un des organismes
 collecteurs mentionnés à l'article L. 118-2-4. Le produit des versements
 effectués à ce titre est intégralement reversé aux fonds régionaux
-d'apprentissage et de formation professionnelle continue selon des modalités
-fixées par décret pris après avis, émis dans des conditions définies par décret,
-du Conseil national de la formation professionnelle tout au long de la vie.
+d'apprentissage et de formation professionnelle continue ou aux centres de
+formation d'apprentis pour lesquels a été passée convention avec l'Etat selon
+des modalités fixées par décret pris après avis, émis dans des conditions
+définies par décret, du Conseil national de la formation professionnelle tout au
+long de la vie.
 
-Les sommes reversées aux fonds régionaux de l'apprentissage et de la formation
-professionnelle continue au titre du premier alinéa sont exclusivement affectées
-au financement :
+Les sommes ainsi reversées sont exclusivement affectées au financement :
 
 1° Des centres de formation d'apprentis et des sections d'apprentissage pour
 lesquels la région considérée a passé convention et des centres de formation
@@ -18,11 +18,15 @@ d'apprentis pour lesquels a été passée convention avec l'Etat en application 
 l'article L. 116-2 ;
 
 2° Des actions arrêtées en application des contrats d'objectifs et de moyens
-mentionnés à l'article L. 118-1.
+mentionnés à l'article L. 118-1 ou, dans le cas des centres de formation
+d'apprentis pour lesquels a été passée convention avec l'Etat, des actions de
+développement et de modernisation arrêtées dans le cadre de ladite convention.
 
 La région présente chaque année un rapport indiquant l'utilisation de ces sommes
 au comité de coordination régional de l'emploi et de la formation
 professionnelle mentionné à l'article L. 910-1.
+
+3° Des actions nationales de communication et de promotion de l'apprentissage.
 
 Les sommes affectées en application du troisième alinéa (1°) du présent article
 sont destinées en priorité aux centres de formation d'apprentis et aux sections

@@ -16,7 +16,8 @@ mois à compter de cette même date, doit être pris par l'entreprise.
 Les accords d'intéressement, au sens du présent chapitre, conclus au sein d'un
 groupe de sociétés établies dans plusieurs Etats membres de l'Union européenne,
 ouvrent droit aux exonérations précitées pour les primes versées à leurs
-salariés par les entreprises parties auxdits accords situées en France.
+salariés ainsi qu'aux personnes mentionnées au sixième alinéa de l'article L.
+441-1 par les entreprises parties auxdits accords situées en France.
 
 Ces accords doivent instituer un système d'information du personnel et de
 vérification des modalités d'exécution de l'accord. Ils comportent notamment un
@@ -29,14 +30,21 @@ modalités de calcul de l'intéressement. Ces modalités peuvent varier selon le
 établissements et les unités de travail ; l'accord peut, à cet effet, renvoyer à
 des accords d'établissement.
 
-Le montant global des primes distribuées aux salariés ne doit pas dépasser
-annuellement 20 p. 100 du total des salaires bruts versés aux personnes
-concernées.
+Le montant global des primes distribuées aux bénéficiaires ne doit pas dépasser
+annuellement 20 p. 100 du total des salaires bruts et, le cas échéant, de la
+rémunération annuelle ou du revenu professionnel des bénéficiaires visés au
+sixième alinéa de l'article L. 441-1 imposé à l'impôt sur le revenu au titre de
+l'année précédente versés aux personnes concernées.
 
 Les accords intervenus en application de l'article L. 441-1 doivent définir les
 critères de répartition des produits de l'intéressement. La répartition entre
-les salariés peut être uniforme, proportionnelle aux salaires ou à la durée de
-présence dans l'entreprise au cours de l'exercice, ou retenir conjointement ces
+les bénéficiaires peut être uniforme, proportionnelle à la durée de présence
+dans l'entreprise au cours de l'exercice ou proportionnelle aux salaires ; pour
+les personnes mentionnées au sixième alinéa de l'article L. 441-1, la
+répartition proportionnelle aux salaires prend en compte la rémunération
+annuelle ou le revenu professionnel imposé à l'impôt sur le revenu au titre de
+l'année précédente, dans la limite d'un plafond égal au salaire le plus élevé
+versé dans l'entreprise. L'accord peut également retenir conjointement ces
 différents critères. Sont assimilées à des périodes de présence les périodes
 visées aux articles L. 122-26 et L. 122-32-1. Ces critères peuvent varier selon
 les établissements et les unités de travail ; l'accord peut, à cet effet,
@@ -48,9 +56,9 @@ l'ancienneté et la qualification tels qu'ils ont été homologués dans ce cadr
 dès lors qu'ils auront été renouvelés sans discontinuité depuis leur dernière
 homologation.
 
-Le montant des primes distribuées à un même salarié ne peut, au titre d'un même
-exercice, excéder une somme égale à la moitié du montant du plafond annuel moyen
-retenu pour le calcul des cotisations de sécurité sociale.
+Le montant des primes distribuées à un même bénéficiaire ne peut, au titre d'un
+même exercice, excéder une somme égale à la moitié du montant du plafond annuel
+moyen retenu pour le calcul des cotisations de sécurité sociale.
 
 Pour ouvrir droit aux exonérations prévues aux articles L. 441-1 et L. 441-6
 ci-après, les accords doivent avoir été conclus avant le premier jour du

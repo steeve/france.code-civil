@@ -12,6 +12,12 @@ visées aux articles L. 122-26 et L. 122-32-1.
 Ces accords peuvent en outre fixer un salaire plancher servant de base de calcul
 à la part individuelle.
 
+Les sommes qui n'auraient pu être mises en distribution en raison des règles
+définies au présent article font l'objet d'une répartition immédiate entre tous
+les salariés auxquels ont été versées, en application des règles précitées, des
+sommes d'un montant inférieur au plafond des droits individuels fixé par décret.
+Ce plafond ne peut être dépassé du fait de cette répartition supplémentaire.
+
 Les sommes qui, en raison des règles définies par le présent article, n'auraient
 pu être mises en distribution demeurent dans la réserve spéciale de
 participation des salariés pour être réparties au cours des exercices

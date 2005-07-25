@@ -48,7 +48,12 @@ dans les cas de vente de lots remembrés ;
 
 6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15
 000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de
-l'immeuble ou de la partie d'immeuble.
+l'immeuble ou de la partie d'immeuble ;
+
+7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer
+modéré, à une société d'économie mixte gérant des logements sociaux ou à un
+organisme mentionné à l'article L. 365-1 du code de la construction et de
+l'habitation.
 
 III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par
 les titulaires de pensions de vieillesse ou de la carte d'invalidité

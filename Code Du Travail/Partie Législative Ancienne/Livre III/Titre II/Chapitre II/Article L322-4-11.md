@@ -1,11 +1,12 @@
 Article L322-4-11
 ----
-La conclusion de chaque contrat d'avenir est subordonnée à la signature d'une
-convention entre le bénéficiaire du contrat, qui s'engage à prendre part à
-toutes les actions qui y sont prévues, le président du conseil général ou le
-maire ou, le cas échéant, le président de l'établissement public de coopération
-intercommunale, le représentant de l'Etat et l'un des employeurs appartenant aux
-catégories suivantes :
+Lorsque le département, la commune ou, le cas échéant, l'établissement public de
+coopération intercommunale assure la mise en oeuvre du contrat d'avenir, la
+conclusion de chaque contrat est subordonnée à la signature d'une convention
+individuelle entre le bénéficiaire, qui s'engage à prendre part à toutes les
+actions qui y sont prévues, le président du conseil général ou le maire ou, le
+cas échéant, le président de l'établissement public de coopération
+intercommunale et l'un des employeurs appartenant aux catégories suivantes :
 
 1° Les collectivités territoriales et les autres personnes morales de droit
 public ;
@@ -16,6 +17,19 @@ public ;
 3° Les autres organismes de droit privé à but non lucratif ;
 
 4° Les employeurs mentionnés aux articles L. 322-4-16 et L. 322-4-16-8.
+
+Le département, la commune ou l'établissement public de coopération
+intercommunale signe préalablement avec 1'Etat une convention d'objectifs qui
+détermine, le cas échéant, les organismes délégataires mentionnés au quatrième
+alinéa de l'article L. 322-4-10 et à l'article L. 322-4-13 et le nombre de
+contrats d'avenir pouvant être conclus en application du premier alinéa du
+présent article.
+
+Lorsque l'Etat assure la mise en ceuvre du contrat d'avenir, la conclusion de
+chaque contrat est subordonnée à la signature d'une convention individuelle
+entre le bénéficiaire, qui s'engage à prendre part à toutes les actions qui y
+sont prévues, le représentant de l'Etat et l'un des employeurs appartenant aux
+catégories mentionnées précédemment.
 
 Cette convention définit le projet professionnel proposé au bénéficiaire du
 contrat d'avenir. Elle fixe notamment les conditions d'accompagnement dans
@@ -38,6 +52,17 @@ mentionnée au deuxième alinéa de l'article L. 262-37 du code de l'action soci
 et des familles. Lorsqu'il est signé par le président du conseil général, le
 contrat d'avenir peut tenir lieu de contrat d'insertion au sens du même article.
 
-La convention est conclue pour une durée de deux ans ; elle est renouvelable
-pour une durée de douze mois. La situation du bénéficiaire du contrat d'avenir
-est réexaminée tous les six mois.
+La convention est conclue pour une durée de deux ans. Elle peut être renouvelée
+dans la limite de douze mois. Pour les bénéficiaires âgés de plus de cinquante
+ans et les personnes reconnues travailleurs handicapés dans les conditions
+prévues à l'article L. 323-10, la limite de renouvellement peut être de
+trente-six mois.
+
+Par dérogation aux dispositions de l'avant-dernier alinéa, lorsque des
+circonstances particulières tenant au secteur d'activité professionnelle ou au
+profil de poste le justifient, le préfet peut prévoir une durée comprise entre
+six et vingt-quatre mois. La convention est alors renouvelable deux fois, sa
+durée totale ne pouvant, compte tenu du ou des renouvellements, excéder
+trente-six mois. Pour les bénéficiaires âgés de plus de cinquante ans et les
+personnes reconnues travailleurs handicapés dans les conditions prévues à
+l'article L. 323-10, cette durée totale ne peut excéder cinq ans.

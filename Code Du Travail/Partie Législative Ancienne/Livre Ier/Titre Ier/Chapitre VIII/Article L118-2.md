@@ -13,5 +13,5 @@ financier qui s'impute sur la fraction de la taxe d'apprentissage définie à
 l'article L. 118-3. Le montant de ce concours est au moins égal, dans la limite
 de la fraction de la taxe réservée à l'apprentissage, au coût par apprenti fixé
 par la convention de création du centre de formation d'apprentis ou de la
-section d'apprentissage, tel que défini au septième alinéa de l'article L.
+section d'apprentissage, tel que défini au huitième alinéa de l'article L.
 118-2-2.

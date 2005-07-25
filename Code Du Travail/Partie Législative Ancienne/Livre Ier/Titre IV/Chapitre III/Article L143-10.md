@@ -17,4 +17,6 @@ les salaires, appointements ou commissions proprement dites mais encore tous les
 accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4,
 l'indemnité pour inobservation du délai congé mentionnée à l'article L. 122-8,
 l'indemnité compensatrice mentionnée à l'article L. 122-32-6 et l'indemnité
-mentionnée à l'article L. 124-4-4.
+mentionnée à l'article L. 124-4-4, ainsi que les contributions dues par
+l'employeur dans le cadre des conventions de reclassement personnalisé
+mentionnées à l'article L. 321-4-2.

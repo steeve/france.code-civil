@@ -19,6 +19,15 @@ de l'article L. 423-2 ou un comité d'entreprise, la ratification doit être
 demandée conjointement par le chef d'entreprise et une ou plusieurs de ces
 organisations ou ce comité.
 
+Dans les entreprises dont l'effectif habituel comprend au moins un et au plus
+cent salariés, les chefs de ces entreprises ou, s'il s'agit de personnes
+morales, leurs présidents, directeurs généraux, gérants ou membres du
+directoire, ainsi que le conjoint du chef d'entreprise s'il a le statut de
+conjoint collaborateur ou de conjoint associé peuvent également bénéficier des
+dispositions de l'accord d'intéressement. Un tel accord ne peut être conclu dans
+une entreprise dont l'effectif est limité à un salarié si celui-ci a également
+la qualité de président, directeur général, gérant ou membre du directoire.
+
 Toutefois, les dispositions du présent chapitre ne sont applicables de plein
 droit aux entreprises publiques ou aux sociétés nationales que si elles entrent
 dans le champ d'application défini au chapitre Ier du titre III du livre 1er du

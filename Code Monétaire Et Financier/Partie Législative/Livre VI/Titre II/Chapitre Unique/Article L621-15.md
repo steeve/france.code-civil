@@ -35,34 +35,54 @@ par les lois, règlements et règles professionnelles approuvées par l'Autorit�
 des marchés financiers en vigueur, sous réserve des dispositions de l'article L.
 613-21 ;
 
-c) Toute personne autre que l'une des personnes mentionnées au II de l'article
-L. 621-9, auteur des pratiques mentionnées au I de l'article L. 621-14.
+c) Toute personne qui, sur le territoire français ou à l'étranger, s'est livrée
+ou a tenté de se livrer à une opération d'initié ou s'est livrée à une
+manipulation de cours, à la diffusion d'une fausse information ou à tout autre
+manquement mentionné au premier alinéa du I de l'article L. 621-14, dès lors que
+ces actes concernent un instrument financier émis par une personne ou une entité
+faisant appel public à l'épargne ou admis aux négociations sur un marché
+d'instruments financiers ou pour lequel une demande d'admission aux négociations
+sur un tel marché a été présentée, dans les conditions déterminées par le
+règlement général de l'Autorité des marchés financiers ;
+
+d) Toute personne qui, sur le territoire français, s'est livrée ou a tenté de se
+livrer à une opération d'initié ou s'est livrée à une manipulation de cours, à
+la diffusion d'une fausse information ou à tout autre manquement mentionné au
+dernier alinéa du I de l'article L. 621-14, dès lors que ces actes concernent un
+instrument financier admis aux négociations sur un marché réglementé d'un autre
+Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen ou pour lequel une demande d'admission aux négociations sur
+un tel marché a été présentée.
 
 III. - Les sanctions applicables sont :
 
-a) Pour les personnes mentionnées au a du II, l'avertissement, le blâme,
-l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie
-des services fournis ; la commission des sanctions peut prononcer soit à la
-place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne
-peut être supérieur à 1,5 million d'euros ou au décuple du montant des profits
-éventuellement réalisés ; les sommes sont versées au fonds de garantie auquel
-est affiliée la personne sanctionnée ou, à défaut, au Trésor public ;
-
-b) Pour les personnes mentionnées au b du II, l'avertissement, le blâme, le
-retrait temporaire ou définitif de la carte professionnelle, l'interdiction à
-titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la
-commission des sanctions peut prononcer soit à la place, soit en sus de ces
-sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 1,5
-million d'euros ou au décuple du montant des profits éventuellement réalisés en
-cas de pratiques mentionnées au I de l'article L. 621-14 ou à 300 000 euros ou
-au quintuple des profits éventuellement réalisés dans les autres cas ; les
-sommes sont versées au fonds de garantie auquel est affiliée la personne morale
-sous l'autorité ou pour le compte de qui agit la personne sanctionnée ou, à
+a) Pour les personnes mentionnées aux 1° à 8°, 11° et 12° du II de l'article L.
+621-9, l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif
+de l'exercice de tout ou partie des services fournis ; la commission des
+sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
+sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros
+ou au décuple du montant des profits éventuellement réalisés ; les sommes sont
+versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à
 défaut, au Trésor public ;
 
-c) Pour les personnes mentionnées au c du II, une sanction pécuniaire dont le
-montant ne peut être supérieur à 1,5 million d'euros ou au décuple du montant
-des profits éventuellement réalisés ; les sommes sont versées au Trésor public.
+b) Pour les personnes physiques placées sous l'autorité ou agissant pour le
+compte de l'une des personnes mentionnées aux 1° à 8°, 11° et 12° du II de
+l'article L. 621-9, et l'avertissement, le blâme, le retrait temporaire ou
+définitif de la carte professionnelle, l'interdiction à titre temporaire ou
+définitif de l'exercice de tout ou partie des activités ; la commission des
+sanctions peut prononcer soit à la place, soit en sus de ces sanctions une
+sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros
+ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
+mentionnées aux c et d du II ou à 300 000 euros ou au quintuple des profits
+éventuellement réalisés dans les autres cas ; les sommes sont versées au fonds
+de garantie auquel est affiliée la personne morale sous l'autorité ou pour le
+compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
+
+c) Pour les personnes autres que l'une des personnes mentionnées au II de
+l'article L. 621-9, auteurs des faits mentionnés aux c et d du II, une sanction
+pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au
+décuple du montant des profits éventuellement réalisés ; les sommes sont versées
+au Trésor public.
 
 Le montant de la sanction doit être fixé en fonction de la gravité des
 manquements commis et en relation avec les avantages ou les profits

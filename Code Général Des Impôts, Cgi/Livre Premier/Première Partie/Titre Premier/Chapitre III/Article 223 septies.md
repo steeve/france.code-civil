@@ -3,9 +3,6 @@ Article 223 septies
 Les personnes morales passibles de l'impôt sur les sociétés sont assujetties à
 une imposition forfaitaire annuelle d'un montant fixé à :
 
-750 euros pour les personnes morales dont le chiffre d'affaires majoré des
-produits financiers est compris entre 76 000 euros et 150 000 euros ;
-
 1 125 euros pour les personnes morales dont le chiffre d'affaires majoré des
 produits financiers est compris entre 150 000 euros et 300 000 euros ;
 
