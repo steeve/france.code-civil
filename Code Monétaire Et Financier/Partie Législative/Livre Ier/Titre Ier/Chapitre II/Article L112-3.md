@@ -25,4 +25,6 @@ du 9 juillet 1984 sur le développement de l'initiative économique ;
 l'article 80 de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976) ;
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques
-pour les besoins de leur activité professionnelle.
+pour les besoins de leur activité professionnelle ;
+
+9° Les loyers prévus par les conventions portant sur un local d'habitation.
