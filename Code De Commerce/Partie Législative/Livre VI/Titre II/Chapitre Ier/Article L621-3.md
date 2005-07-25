@@ -1,8 +1,11 @@
 Article L621-3
 ----
-En cas d'inexécution des engagements financiers conclus dans le cadre de
-l'accord amiable prévu soit par l'article L. 611-4, soit par l'article L. 351-6
-du code rural, la procédure peut être ouverte sur demande du procureur de la
-République, du débiteur ou d'un créancier partie à l'accord. Le tribunal
-prononce la résolution de l'accord. Les créanciers recouvrent l'intégralité de
-leurs créances et sûretés, déduction faite des sommes perçues.
+Le jugement ouvre une période d'observation d'une durée maximale de six mois qui
+peut être renouvelée une fois par décision motivée à la demande de
+l'administrateur, du débiteur ou du ministère public. Elle peut en outre être
+exceptionnellement prolongée à la demande du procureur de la République par
+décision motivée du tribunal pour une durée fixée par décret en Conseil d'Etat.
+
+Lorsqu'il s'agit d'une exploitation agricole, le tribunal peut proroger la durée
+de la période d'observation en fonction de l'année culturale en cours et des
+usages spécifiques aux productions de l'exploitation.

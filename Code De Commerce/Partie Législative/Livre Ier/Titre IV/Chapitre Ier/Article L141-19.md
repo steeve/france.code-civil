@@ -18,9 +18,9 @@ compris le matériel et les marchandises.
 
 La surenchère du sixième n'est pas admise après la vente judiciaire d'un fonds
 de commerce ou la vente poursuivie à la requête d'un administrateur judiciaire
-ou d'un mandataire judiciaire à la liquidation des entreprises, ou de
-copropriétaires indivis du fonds, faite aux enchères publiques et conformément
-aux articles L. 143-6 et L. 143-7.
+ou d'un mandataire judiciaire, ou de copropriétaires indivis du fonds, faite aux
+enchères publiques et conformément aux articles L. 143-6 et L. 143-7, ou selon
+les dispositions de l'article L. 642-5.
 
 L'officier public commis pour procéder à la vente doit n'admettre à enchérir que
 des personnes dont la solvabilité lui est connue, ou qui ont déposé soit entre

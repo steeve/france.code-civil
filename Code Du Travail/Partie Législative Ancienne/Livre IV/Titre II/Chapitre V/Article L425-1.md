@@ -16,7 +16,7 @@ de plein droit.
 
 La même procédure est applicable au licenciement des anciens délégués du
 personnel les six premiers mois qui suivent l'expiration de leur mandat ou la
-disparition de l'institution [*délai de protection*].
+disparition de l'institution.
 
 La même procédure s'applique lorsque la lettre du syndicat notifiant à
 l'employeur la candidature aux fonctions de délégué du personnel a été reçue par
@@ -35,9 +35,8 @@ l'entreprise.
 
 La durée fixée au quatrième alinéa est également de six mois pour les candidats,
 au premier comme au second tour, aux fonctions de délégués du personnel à partir
-de la publication des candidatures [*délai de protection*]. La durée de six mois
-court à partir de l'envoi, par lettre recommandée à l'employeur, des listes de
-candidatures [*point de départ*].
+de la publication des candidatures. La durée de six mois court à partir de
+l'envoi, par lettre recommandée à l'employeur, des listes de candidatures.
 
 Afin de faciliter la mise en place de l'institution des délégués, les salariés
 qui ont demandé à l'employeur d'organiser les élections de délégués du
@@ -58,6 +57,6 @@ est soumise à la procédure définie au présent article.
 Cette procédure est également applicable aux délégués du personnel institués par
 voie conventionnelle.
 
-En cas de redressement ou de liquidation judiciaire, tout licenciement d'un
-salarié mentionné aux précédents alinéas est soumis à la procédure définie au
-présent article.
+En cas de procédure de sauvegarde ou de redressement ou de liquidation
+judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est
+soumis à la procédure définie au présent article.

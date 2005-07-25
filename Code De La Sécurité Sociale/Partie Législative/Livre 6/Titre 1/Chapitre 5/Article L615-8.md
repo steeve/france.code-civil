@@ -9,13 +9,13 @@ peut, dans un délai déterminé, faire valoir ses droits aux prestations, mais 
 règlement ne peut intervenir que si la totalité des cotisations dues a été
 acquittée avant l'expiration du même délai.
 
-Lorsque le tribunal arrête un plan de continuation en application de l'article
-L. 621-70 du code de commerce ou lorsque la commission de recours amiable de la
-caisse mutuelle régionale accorde à l'assuré un étalement du paiement des
-cotisations, ce dernier est rétabli dans ses droits aux prestations à compter du
-prononcé du jugement ou de la prise de décision de la caisse mutuelle régionale,
-dès lors qu'il s'acquitte régulièrement des cotisations dues selon l'échéancier
-prévu ainsi que des cotisations en cours.
+Lorsque le tribunal arrête un plan de sauvegarde ou de redressement judiciaire
+en application de l'article L. 621-70 du code de commerce ou lorsque la
+commission de recours amiable de la caisse mutuelle régionale accorde à l'assuré
+un étalement du paiement des cotisations, ce dernier est rétabli dans ses droits
+aux prestations à compter du prononcé du jugement ou de la prise de décision de
+la caisse mutuelle régionale, dès lors qu'il s'acquitte régulièrement des
+cotisations dues selon l'échéancier prévu ainsi que des cotisations en cours.
 
 Par dérogation aux dispositions du premier alinéa du présent article, l'assuré
 dont l'entreprise a fait l'objet d'une liquidation judiciaire et qui ne remplit

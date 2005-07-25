@@ -1,13 +1,10 @@
 Article L626-1
 ----
-Les dispositions de la présente section sont applicables :
+Lorsqu'il existe une possibilité sérieuse pour l'entreprise d'être sauvegardée,
+le tribunal arrête dans ce but un plan qui met fin à la période d'observation.
 
-1° A tout commerçant, agriculteur ou personne immatriculée au répertoire des
-métiers ;
-
-2° A toute personne qui a, directement ou indirectement, en droit ou en fait,
-dirigé ou liquidé une personne morale de droit privé ayant une activité
-économique ;
-
-3° Aux personnes physiques représentants permanents de personnes morales
-dirigeants des personnes morales définies au 2° ci-dessus.
+Ce plan de sauvegarde comporte, s'il y a lieu, l'arrêt, l'adjonction ou la
+cession d'une ou de plusieurs activités. Les cessions faites en application du
+présent article sont soumises aux dispositions de la section 1 du chapitre II du
+titre IV. Le mandataire judiciaire exerce les missions confiées au liquidateur
+par ces dispositions.

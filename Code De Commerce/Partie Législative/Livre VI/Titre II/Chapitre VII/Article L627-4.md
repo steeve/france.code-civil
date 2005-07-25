@@ -1,6 +1,4 @@
 Article L627-4
 ----
-Le fait, pour toute personne, d'exercer une activité professionnelle ou des
-fonctions en violation des interdictions, déchéances ou incapacité prévues par
-les articles L. 625-2 et L. 625-8, est puni d'un emprisonnement de deux ans et
-d'une amende de 375000 euros.
+Après le dépôt au greffe du projet de plan par le débiteur, le tribunal statue
+au vu du rapport du juge-commissaire.

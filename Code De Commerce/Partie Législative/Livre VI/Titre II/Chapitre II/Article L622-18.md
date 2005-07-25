@@ -1,8 +1,10 @@
 Article L622-18
 ----
-Le juge-commissaire ordonne la vente aux enchères publiques ou de gré à gré des
-autres biens de l'entreprise, le débiteur entendu ou dûment appelé et après
-avoir recueilli les observations des contrôleurs.
+Toute somme perçue par l'administrateur ou le mandataire judiciaire qui n'est
+pas portée sur les comptes bancaires ou postaux du débiteur, pour les besoins de
+la poursuite d'activité, doit être versée immédiatement en compte de dépôt à la
+Caisse des dépôts et consignations.
 
-Le juge-commissaire peut demander que le projet de vente amiable lui soit soumis
-afin de vérifier si les conditions qu'il a fixées ont été respectées.
+En cas de retard, l'administrateur ou le mandataire judiciaire doit, pour les
+sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de
+l'intérêt légal majoré de cinq points.

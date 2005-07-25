@@ -1,13 +1,13 @@
 Article L143-10
 ----
-Lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire,
-les rémunérations de toute nature dues aux salariés et apprentis et l'indemnité
-mentionnée à l'article L. 980-11-1 due par l'employeur aux bénéficiaires d'un
-stage d'initiation à la vie professionnelle pour les soixante derniers jours de
-travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus,
-être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à
-concurrence d'un plafond mensuel identique pour toutes les catégories de
-bénéficiaires.
+Lorsqu'est ouverte une procédure de sauvegarde ou de redressement ou de
+liquidation judiciaire, les rémunérations de toute nature dues aux salariés et
+apprentis et l'indemnité mentionnée à l'article L. 980-11-1 (1) due par
+l'employeur aux bénéficiaires d'un stage d'initiation à la vie professionnelle
+pour les soixante derniers jours de travail ou d'apprentissage doivent,
+déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de
+toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel
+identique pour toutes les catégories de bénéficiaires.
 
 Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux
 fois le plafond retenu pour le calcul des cotisations de sécurité sociale.

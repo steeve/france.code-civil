@@ -1,20 +1,19 @@
 Article L622-10
 ----
-Si l'intérêt public ou celui des créanciers l'exige, le maintien de l'activité
-peut être autorisé par le tribunal pour une durée maximale fixée par décret en
-Conseil d'Etat. Elle peut être prolongée à la demande du procureur de la
-République pour une durée fixée par la même voie. Lorsqu'il s'agit d'une
-exploitation agricole, ce délai est fixé par le tribunal en fonction de l'année
-culturale en cours et des usages spécifiques aux productions concernées. Les
-dispositions de l'article L. 621-32 sont applicables aux créances nées pendant
-cette période.
+A tout moment de la période d'observation, le tribunal, à la demande du
+débiteur, de l'administrateur, du mandataire judiciaire, d'un contrôleur, du
+ministère public ou d'office, peut ordonner la cessation partielle de
+l'activité.
 
-L'administration de l'entreprise est assurée par l'administrateur, qui reste en
-fonctions par dérogation aux dispositions de l'article L. 621-27, ou, à défaut,
-par le liquidateur. L'administrateur ou, à défaut, le liquidateur procède aux
-licenciements dans les conditions prévues aux articles L. 321-8 et L. 321-9 du
-code du travail.
+Dans les mêmes conditions, il convertit la procédure en un redressement
+judiciaire, si les conditions de l'article L. 631-1 sont réunies, ou prononce la
+liquidation judiciaire, si les conditions de l'article L. 640-1 sont réunies.
 
-Lorsque l'administrateur ne dispose pas des sommes nécessaires à la poursuite de
-l'activité, il peut, sur autorisation du juge-commissaire, se les faire remettre
-par le liquidateur.
+Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur, le
+mandataire judiciaire, les contrôleurs et les représentants du comité
+d'entreprise ou, à défaut, des délégués du personnel, et avoir recueilli l'avis
+du ministère public.
+
+Lorsqu'il convertit la procédure de sauvegarde en procédure de redressement
+judiciaire, le tribunal peut, si nécessaire, modifier la durée de la période
+d'observation restant à courir.

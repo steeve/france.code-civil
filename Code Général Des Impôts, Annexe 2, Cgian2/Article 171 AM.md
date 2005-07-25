@@ -9,10 +9,10 @@ sociétés de capital-risque ;
 
 b) Lorsqu'une société dont les titres ou droits sont inclus dans le quota de 50
 % fait l'objet d'une liquidation judiciaire, de l'ouverture d'une procédure de
-redressement judiciaire ou de la constatation d'une dépréciation, les titres ou
-droits en cause sont réputés maintenus à l'actif de la société de capital-risque
-pour leur valeur d'acquisition pendant cinq ans à compter du jugement ou de la
-constatation de la provision ;
+sauvegarde ou de redressement judiciaire ou de la constatation d'une
+dépréciation, les titres ou droits en cause sont réputés maintenus à l'actif de
+la société de capital-risque pour leur valeur d'acquisition pendant cinq ans à
+compter du jugement ou de la constatation de la provision ;
 
 c) Lorsque des titres ou droits inclus dans le quota de 50 % font l'objet d'une
 cession, les titres ou droits cédés sont réputés maintenus à l'actif de la

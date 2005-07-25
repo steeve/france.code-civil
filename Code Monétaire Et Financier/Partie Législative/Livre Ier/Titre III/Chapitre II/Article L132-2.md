@@ -5,4 +5,5 @@ irrévocable.
 
 Il ne peut être fait opposition au paiement qu'en cas de perte, de vol ou
 d'utilisation frauduleuse de la carte ou des données liées à son utilisation, de
-redressement ou de liquidation judiciaires du bénéficiaire.
+procédure de sauvegarde, de redressement ou de liquidation judiciaires du
+bénéficiaire.

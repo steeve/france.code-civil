@@ -3,13 +3,9 @@ Article R*311-7
 Le siège et le ressort des tribunaux de grande instance sont fixés conformément
 au tableau n° I annexé au présent code.
 
-Pour l'application de l'article L. 610-1 du code de commerce, la liste des
+Pour l'application de l'article L. 621-2 du code de commerce, la liste des
 tribunaux de grande instance compétents en métropole est fixée au tableau VIII
 annexé au présent code.
-
-Pour l'application de l'article L. 420-7 du code de commerce, la liste des
-tribunaux de grande instance compétents en métropole est fixée conformément au
-tableau XI bis annexé au présent code.
 
 Lorsqu'un tribunal de grande instance est créé ou lorsque le ressort d'un
 tribunal de grande instance est modifié par suite d'une nouvelle délimitation

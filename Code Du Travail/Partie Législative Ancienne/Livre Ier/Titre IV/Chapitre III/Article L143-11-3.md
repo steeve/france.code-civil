@@ -20,9 +20,10 @@ Les créances visées au premier et au deuxième alinéa sont garanties :
 - lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure
 ;
 
-- lorsque, si un plan organisant la continuation de l'entreprise intervient à
-l'issue de la procédure, elles deviennent exigibles du fait de la rupture du
-contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
+- lorsque, si un plan organisant la sauvegarde ou le redressement judiciaire de
+l'entreprise intervient à l'issue de la procédure, elles deviennent exigibles du
+fait de la rupture du contrat de travail, dans les délais prévus au 2° de
+l'article L. 143-11-1 ;
 
 - lorsqu'intervient un jugement de liquidation judiciaire ou un jugement
 arrêtant le plan de cession totale de l'entreprise.
@@ -33,4 +34,4 @@ travail dans le cadre d'un licenciement pour motif économique, en application
 d'un accord d'entreprise ou d'établissement ou de groupe ou d'une décision
 unilatérale de l'employeur, lorsque l'accord a été conclu et déposé ou la
 décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture
-de la procédure de redressement ou de liquidation judiciaires.
+de la procédure de sauvegarde, de redressement ou de liquidation judiciaires.

@@ -1,7 +1,7 @@
 Article L143-14
 ----
-Le représentant des créanciers établit les relevés des créances dans les
-conditions suivantes :
+Le mandataire judiciaire établit les relevés des créances dans les conditions
+suivantes :
 
 1° Pour les créances mentionnées aux articles L. 143-9 et L. 143-10, dans les
 dix jours suivant le prononcé du jugement d'ouverture de la procédure ;

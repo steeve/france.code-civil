@@ -1,16 +1,24 @@
 Article L621-10
 ----
-Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à
-la demande du procureur de la République, procéder au remplacement de
-l'administrateur, de l'expert ou du représentant des créanciers. Il peut
-adjoindre dans les mêmes conditions un ou plusieurs administrateurs ou
-représentants des créanciers à ceux déjà nommés.
+Le juge-commissaire désigne un à cinq contrôleurs parmi les créanciers qui lui
+en font la demande. Lorsqu'il désigne plusieurs contrôleurs, il veille à ce
+qu'au moins l'un d'entre eux soit choisi parmi les créanciers titulaires de
+sûretés et qu'un autre soit choisi parmi les créanciers chirographaires.
 
-L'administrateur, le représentant des créanciers ou un contrôleur peut demander
-au juge-commissaire de saisir à cette fin le tribunal. Dans les mêmes
-conditions, le débiteur peut demander le remplacement de l'administrateur ou de
-l'expert. Les créanciers peuvent demander le remplacement de leur représentant.
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef
+d'entreprise ou des dirigeants de la personne morale, ni aucune personne
+détenant directement ou indirectement tout ou partie du capital de la personne
+morale débitrice ou dont le capital est détenu en tout ou partie par cette même
+personne, ne peut être nommé contrôleur ou représentant d'une personne morale
+désignée comme contrôleur.
 
-Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les
-salariés de l'entreprise peuvent seuls procéder au remplacement du représentant
-des salariés.
+Lorsque le débiteur exerce une profession libérale soumise à un statut
+législatif ou réglementaire ou dont le titre est protégé, l'ordre professionnel
+ou l'autorité compétente dont, le cas échéant, il relève est d'office
+contrôleur. Dans ce cas, le juge-commissaire ne peut désigner plus de quatre
+contrôleurs.
+
+La responsabilité du contrôleur n'est engagée qu'en cas de faute lourde. Il peut
+se faire représenter par l'un de ses préposés ou par ministère d'avocat. Tout
+créancier nommé contrôleur peut être révoqué par le tribunal à la demande du
+ministère public.

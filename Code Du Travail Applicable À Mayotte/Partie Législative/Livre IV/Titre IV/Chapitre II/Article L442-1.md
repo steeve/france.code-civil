@@ -64,14 +64,15 @@ réunion du comité d'entreprise dans les quinze jours qui suivent la réunion �
 laquelle il avait été préalablement convoqué.
 
 Il est également informé et consulté avant toute déclaration de cessation des
-paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement
-ou de liquidation judiciaire, avant toute décision relative à la poursuite de
-l'activité ainsi que lors de l'élaboration du projet de plan de redressement ou
-de liquidation de l'entreprise dans les conditions prévues aux articles L.
-621-56, L. 621-61 et L. 621-91 du code de commerce. La ou les personnes qu'il a
-désignées selon les dispositions de l'article L. 623-10 dudit code sont
-entendues par le tribunal compétent dans les conditions fixées aux articles L.
-621-4, L. 621-60, L. 621-27, L. 621-62 et L. 621-69 dudit code.
+paiements et lorsque l'entreprise fait l'objet d'une procédure de sauvegarde ou
+de redressement ou de liquidation judiciaire, avant toute décision relative à la
+poursuite de l'activité ainsi que lors de l'élaboration du projet de plan de
+sauvegarde ou de redressement ou de liquidation de l'entreprise dans les
+conditions prévues aux articles L. 621-56, L. 621-61 et L. 621-91 du code de
+commerce. La ou les personnes qu'il a désignées selon les dispositions de
+l'article L. 623-10 dudit code sont entendues par le tribunal compétent dans les
+conditions fixées aux articles L. 621-4, L. 621-60, L. 621-27, L. 621-62 et L.
+621-69 dudit code.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
 et de développement technologique de l'entreprise. A défaut, les aides publiques

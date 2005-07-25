@@ -1,9 +1,10 @@
 Article L621-9
 ----
-Le représentant des salariés ainsi que les salariés participant à sa désignation
-ne doivent avoir encouru aucune des condamnations prévues par les articles L. 5
-et L. 6 du code électoral. Le représentant des salariés doit être âgé de
-dix-huit ans accomplis.
+Le juge-commissaire est chargé de veiller au déroulement rapide de la procédure
+et à la protection des intérêts en présence.
 
-Les contestations relatives à la désignation du représentant des salariés sont
-de la compétence du tribunal d'instance qui statue en dernier ressort.
+Lorsque la désignation d'un technicien est nécessaire, seul le juge-commissaire
+peut y procéder en vue d'une mission qu'il détermine, sans préjudice de la
+faculté pour le tribunal prévue à l'article L. 621-4 de désigner un ou plusieurs
+experts. Les conditions de la rémunération de ce technicien sont fixées par un
+décret en Conseil d'Etat.

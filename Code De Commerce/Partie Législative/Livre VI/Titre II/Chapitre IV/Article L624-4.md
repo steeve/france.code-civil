@@ -1,6 +1,5 @@
 Article L624-4
 ----
-Le tribunal peut ouvrir une procédure de redressement judiciaire ou de
-liquidation judiciaire à l'égard des dirigeants à la charge desquels a été mis
-tout ou partie du passif d'une personne morale et qui ne s'acquittent pas de
-cette dette.
+Le juge-commissaire statue en dernier ressort dans les cas prévus à la présente
+section lorsque la valeur de la créance en principal n'excède pas le taux de
+compétence en dernier ressort du tribunal qui a ouvert la procédure.

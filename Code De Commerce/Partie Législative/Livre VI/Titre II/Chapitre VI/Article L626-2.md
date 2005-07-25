@@ -1,20 +1,19 @@
 Article L626-2
 ----
-En cas d'ouverture d'une procédure de redressement judiciaire ou de liquidation
-judiciaire, sont coupables de banqueroute les personnes mentionnées à l'article
-L. 626-1 contre lesquelles a été relevé l'un des faits ci-après :
+Le projet de plan détermine les perspectives de redressement en fonction des
+possibilités et des modalités d'activités, de l'état du marché et des moyens de
+financement disponibles.
 
-1° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure
-de redressement judiciaire, soit fait des achats en vue d'une revente au-dessous
-du cours, soit employé des moyens ruineux pour se procurer des fonds ;
+Il définit les modalités de règlement du passif et les garanties éventuelles que
+le chef d'entreprise doit souscrire pour en assurer l'exécution.
 
-2° Avoir détourné ou dissimulé tout ou partie de l'actif du débiteur ;
+Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que
+les conditions sociales envisagées pour la poursuite d'activité. Lorsque le
+projet prévoit des licenciements pour motif économique, il rappelle les mesures
+déjà intervenues et définit les actions à entreprendre en vue de faciliter le
+reclassement et l'indemnisation des salariés dont l'emploi est menacé. Le projet
+tient compte des travaux recensés par le bilan environnemental.
 
-3° Avoir frauduleusement augmenté le passif du débiteur ;
-
-4° Avoir tenu une comptabilité fictive ou fait disparaître des documents
-comptables de l'entreprise ou de la personne morale ou s'être abstenu de tenir
-toute comptabilité lorsque la loi en fait l'obligation ;
-
-5° Avoir tenu une comptabilité manifestement incomplète ou irrégulière au regard
-des dispositions légales.
+Il recense, annexe et analyse les offres d'acquisition portant sur une ou
+plusieurs activités, présentées par des tiers. Il indique la ou les activités
+dont sont proposés l'arrêt ou l'adjonction.

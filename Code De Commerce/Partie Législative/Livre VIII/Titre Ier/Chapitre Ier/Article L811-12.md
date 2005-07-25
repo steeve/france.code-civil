@@ -3,11 +3,11 @@ Article L811-12
 L'action disciplinaire est engagée par le garde des sceaux, ministre de la
 justice, le procureur général près la cour d'appel dans le ressort de laquelle
 ont été commis les faits, le commissaire du Gouvernement ou le président du
-Conseil national des administrateurs judiciaires et des mandataires judiciaires
-au redressement et à la liquidation des entreprises. L'acceptation de la
-démission d'une personne inscrite sur la liste des administrateurs judiciaires
-ne fait pas obstacle aux poursuites disciplinaires si les faits qui lui sont
-reprochés ont été commis pendant l'exercice de ses fonctions.
+Conseil national des administrateurs judiciaires et des mandataires judiciaires.
+L'acceptation de la démission d'une personne inscrite sur la liste des
+administrateurs judiciaires ne fait pas obstacle aux poursuites disciplinaires
+si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses
+fonctions.
 
 I. - La commission nationale d'inscription siège comme chambre de discipline. Le
 commissaire du Gouvernement y exerce les fonctions du ministère public. Elle

@@ -1,13 +1,6 @@
 Article L621-5
 ----
-Le tribunal compétent est le tribunal de commerce si le débiteur est commerçant
-ou est immatriculé au répertoire des métiers. Le tribunal de grande instance est
-compétent dans les autres cas. S'il se révèle que la procédure ouverte doit être
-étendue à une ou plusieurs autres personnes, le tribunal initialement saisi
-reste compétent.
-
-Un décret en Conseil d'Etat détermine dans chaque département le tribunal ou les
-tribunaux appelés à connaître des procédures de redressement judiciaire
-applicables aux personnes autres que celles mentionnées au deuxième alinéa de
-l'article L. 620-2, ainsi que le ressort dans lequel ces tribunaux exercent les
-attributions qui leur sont dévolues.
+Aucun parent ou allié, jusqu'au quatrième degré inclusivement, du chef
+d'entreprise ou des dirigeants, s'il s'agit d'une personne morale, ne peut être
+désigné à l'une des fonctions prévues à l'article L. 621-4 sauf dans les cas où
+cette disposition empêche la désignation d'un représentant des salariés.

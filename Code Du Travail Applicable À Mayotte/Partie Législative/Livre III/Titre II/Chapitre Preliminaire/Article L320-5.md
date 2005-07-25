@@ -17,5 +17,5 @@ même période de trente jours, de réunir et de consulter le comité d'entrepri
 ou les délégués du personnel, conformément à l'article L. 320-7 ;
 
 3° Lorsque les licenciements interviennent dans le cadre d'une procédure de
-redressement ou de liquidation judiciaire, de respecter les dispositions de
-l'article L. 320-9.
+sauvegarde ou de redressement ou de liquidation judiciaire, de respecter les
+dispositions de l'article L. 320-9.

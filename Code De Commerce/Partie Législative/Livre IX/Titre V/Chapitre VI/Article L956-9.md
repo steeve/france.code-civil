@@ -1,7 +1,3 @@
 Article L956-9
 ----
-Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi
-rédigée :
-
-"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs
-liquidateurs. "
+Le 4° du III de l'article L. 643-11 ne s'applique pas.

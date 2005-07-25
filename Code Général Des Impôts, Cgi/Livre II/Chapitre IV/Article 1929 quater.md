@@ -27,10 +27,9 @@ assimilées et les contributions indirectes, ainsi que pour les impôts directs 
 taxes assimilées recouvrés par les comptables de la direction générale des
 impôts.
 
-4. La publicité est obligatoire lorsque les sommes dues par un redevable à un
-même poste comptable ou service assimilé et susceptibles d'être inscrites
-dépassent 12 200 euros au dernier jour d'un trimestre civil. Les sommes qui ne
-dépassent pas le montant minimum peuvent également être inscrites.
+4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre
+civil, par un redevable à un même poste comptable ou service assimilé et
+susceptibles d'être inscrites demeurent impayées.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu
 des obligations et formalités mises par le présent article à la charge de
@@ -41,15 +40,19 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 
 6. Les frais de l'inscription du privilège sont à la charge du Trésor.
 
-7. En cas de redressement ou de liquidation judiciaires du redevable ou de
-liquidation des biens du redevable, ou d'un tiers tenu légalement au paiement
-des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège
-pour les créances qui étaient soumises à titre obligatoire à la publicité prévue
-aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre
-du redevable.
+7. En cas de procédures de sauvegarde, de redressement ou de liquidation
+judiciaires du redevable ou de liquidation des biens du redevable, ou d'un tiers
+tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne
+peut exercer son privilège pour les créances qui étaient soumises à titre
+obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été
+régulièrement requise à l'encontre du redevable.
 
 8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre
 ans, sauf renouvellement.
+
+8 bis. Le comptable compétent demande, dans un délai d'un mois, la radiation
+totale de l'inscription devenue sans objet, dès lors que le débiteur s'est
+acquitté de sa dette.
 
 9. Les modalités d'application du présent article et notamment les formes et
 délais des inscriptions et de leur radiation sont fixées par un décret en

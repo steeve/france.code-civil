@@ -1,14 +1,23 @@
 Article L621-7
 ----
-Le tribunal fixe, s'il y a lieu, la date de cessation des paiements. A défaut de
-détermination de cette date, la cessation des paiements est réputée être
-intervenue à la date du jugement qui la constate. Elle peut être reportée une ou
-plusieurs fois, sans pouvoir être antérieure de plus de dix-huit mois à la date
-du jugement d'ouverture.
+Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à
+la demande du ministère public, procéder au remplacement de l'administrateur, de
+l'expert ou du mandataire judiciaire.
 
-Il se prononce d'office ou à la demande de l'administrateur, du représentant des
-créanciers, du liquidateur ou du procureur de la République. La demande de
-modification de date doit être présentée au tribunal avant l'expiration du délai
-de quinze jours qui suit le dépôt du rapport prévu à l'article L. 621-54 ou du
-projet de plan prévu à l'article L. 621-141 ou du dépôt de l'état des créances
-si la liquidation est prononcée.
+Le tribunal peut adjoindre, dans les mêmes conditions, un ou plusieurs
+administrateurs ou mandataires judiciaires à ceux déjà nommés. L'administrateur,
+le mandataire judiciaire ou un créancier nommé contrôleur peut demander au
+juge-commissaire de saisir à cette fin le tribunal.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut
+législatif ou réglementaire ou dont le titre est protégé, l'ordre professionnel
+ou l'autorité compétente dont, le cas échéant, il relève peut saisir le
+ministère public à cette même fin.
+
+Le débiteur peut demander au juge-commissaire de saisir le tribunal aux fins de
+remplacer l'administrateur ou l'expert. Dans les mêmes conditions, les
+créanciers peuvent demander le remplacement du mandataire judiciaire.
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les
+salariés de l'entreprise peuvent seuls procéder au remplacement du représentant
+des salariés.

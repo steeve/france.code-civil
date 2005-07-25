@@ -1,20 +1,15 @@
 Article L626-5
 ----
-Les personnes physiques coupables des infractions prévues par les articles L.
-626-3 et L. 626-4 encourent également les peines complémentaires suivantes :
+Les propositions pour le règlement des dettes sont, au fur et à mesure de leur
+élaboration et sous surveillance du juge-commissaire, communiquées par
+l'administrateur au mandataire judiciaire, aux contrôleurs ainsi qu'au comité
+d'entreprise ou, à défaut, aux délégués du personnel.
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les
-modalités de l'article 131-26 du code pénal ;
-
-2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction
-publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
-l'occasion de l'exercice de laquelle l'infraction a été commise ;
-
-3° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
-
-4° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques
-autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré
-ou ceux qui sont certifiés ;
-
-5° L'affichage ou la diffusion de la décision prononcée dans les conditions
-prévues par l'article 131-35 du code pénal.
+Le mandataire judiciaire recueille individuellement ou collectivement l'accord
+de chaque créancier qui a déclaré sa créance conformément à l'article L. 622-24,
+sur les délais et remises qui lui sont proposés. En cas de consultation par
+écrit, le défaut de réponse, dans le délai de trente jours à compter de la
+réception de la lettre du mandataire judiciaire, vaut acceptation. Ces
+dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du
+code du travail pour les sommes mentionnées au quatrième alinéa de l'article L.
+622-24, même si leurs créances ne sont pas encore déclarées.

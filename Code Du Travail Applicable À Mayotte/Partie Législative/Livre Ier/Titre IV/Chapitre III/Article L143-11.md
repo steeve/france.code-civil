@@ -1,11 +1,12 @@
 Article L143-11
 ----
-En cas de redressement judiciaire, doivent être aussi payées nonobstant
-l'existence de toute autre créance privilégiée, les créances résultant de la
-rupture des contrats de travail intervenant pendant la période d'observation,
-dans le mois suivant le jugement qui arrête le plan de redressement, dans les
-quinze jours suivant le jugement de liquidation et pendant le maintien
-provisoire de l'activité autorisé par le jugement de liquidation judiciaire.
+En cas de procédures de sauvegarde ou de redressement judiciaire, doivent être
+aussi payées nonobstant l'existence de toute autre créance privilégiée, les
+créances résultant de la rupture des contrats de travail intervenant pendant la
+période d'observation, dans le mois suivant le jugement qui arrête le plan de
+sauvegarde ou de redressement, dans les quinze jours suivant le jugement de
+liquidation et pendant le maintien provisoire de l'activité autorisé par le
+jugement de liquidation judiciaire.
 
 Il en est de même lorsque le tribunal prononce la liquidation judiciaire, dans
 la limite d'un montant maximal correspondant à un mois et demi de travail pour

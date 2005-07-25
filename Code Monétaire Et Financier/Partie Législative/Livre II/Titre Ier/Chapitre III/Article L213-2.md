@@ -11,5 +11,5 @@ En cas de redressement judiciaire des biens d'un intermédiaire financier teneur
 de comptes, les titulaires des titres de créances négociables inscrits en compte
 font virer l'intégralité de leurs droits à un compte tenu par un autre
 intermédiaire habilité ; le juge commissaire est informé de ce virement. En cas
-d'insuffisance des inscriptions, ils font une déclaration au représentant des
-créanciers pour le complément de leurs droits.
+d'insuffisance des inscriptions, ils font une déclaration au mandataire
+judiciaire pour le complément de leurs droits.

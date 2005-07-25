@@ -16,8 +16,8 @@ ou plusieurs des événements suivants :
 prévues par le code du travail en cas de licenciement ;
 
 2° Cessation d'activité non salariée du membre participant à la suite d'un
-jugement de liquidation judiciaire en application des articles L. 622-1 à L.
-623-9 du code de commerce ;
+jugement de liquidation judiciaire en application en application du titre IV du
+livre VI du code de commerce ;
 
 3° Invalidité du membre participant correspondant au classement dans les
 deuxième ou troisième catégories prévues à l'article L. 341-4 du code de la

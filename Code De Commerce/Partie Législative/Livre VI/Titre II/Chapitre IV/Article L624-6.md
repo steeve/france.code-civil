@@ -1,6 +1,6 @@
 Article L624-6
 ----
-Dans les cas prévus aux articles L. 624-3 à L. 624-5, le tribunal se saisit
-d'office ou est saisi par l'administrateur, le représentant des créanciers, le
-commissaire à l'exécution du plan, le liquidateur ou le procureur de la
-République.
+Le mandataire judiciaire ou l'administrateur peut, en prouvant par tous les
+moyens que les biens acquis par le conjoint du débiteur l'ont été avec des
+valeurs fournies par celui-ci, demander que les acquisitions ainsi faites soient
+réunies à l'actif.

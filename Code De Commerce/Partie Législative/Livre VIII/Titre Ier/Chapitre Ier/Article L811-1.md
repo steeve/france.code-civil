@@ -13,4 +13,4 @@ confier sous leur responsabilité à des tiers une partie de ces tâches.
 Lorsque les administrateurs judiciaires confient à des tiers des tâches qui
 relèvent de la mission que leur a confiée le tribunal, ils les rétribuent sur la
 rémunération qu'ils perçoivent en application du décret prévu à l'article L.
-814-6.
+663-2.

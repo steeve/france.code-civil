@@ -31,8 +31,8 @@ l'exécution ;
 2° Prépare le projet médical ainsi que les plans de formation et d'évaluation
 mentionnés aux 2° et 3° de l'article L. 6144-1 ;
 
-3° Contribue à l'élaboration et à la mise en oeuvre du plan de redressement
-prévu à l'article L. 6143-3 ;
+3° Contribue à l'élaboration et à la mise en oeuvre du plan de sauvegarde ou de
+redressement prévu à l'article L. 6143-3 ;
 
 4° Donne un avis sur la nomination des responsables de pôle d'activité clinique
 et médico-technique et des chefs de services ;

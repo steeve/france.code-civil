@@ -1,9 +1,6 @@
 Article L626-11
 ----
-Dans les cas prévus par les articles précédents, la juridiction saisie statue,
-lors même qu'il y aurait relaxe :
+Le jugement qui arrête le plan en rend les dispositions opposables à tous.
 
-1° D'office, sur la réintégration dans le patrimoine du débiteur de tous les
-biens, droits ou actions qui ont été frauduleusement soustraits ;
-
-2° Sur les dommages intérêts qui seraient demandés.
+A l'exception des personnes morales, les coobligés et les personnes ayant
+consenti un cautionnement ou une garantie autonome peuvent s'en prévaloir.

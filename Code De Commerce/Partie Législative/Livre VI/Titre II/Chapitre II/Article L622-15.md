@@ -1,5 +1,4 @@
 Article L622-15
 ----
-Pendant la procédure de liquidation judiciaire, le liquidateur est le
-destinataire du courrier adressé au débiteur. Les dispositions des deuxième et
-troisième alinéas de l'article L. 621-20 sont applicables.
+En cas de cession du bail, toute clause imposant au cédant des dispositions
+solidaires avec le cessionnaire est réputée non écrite.

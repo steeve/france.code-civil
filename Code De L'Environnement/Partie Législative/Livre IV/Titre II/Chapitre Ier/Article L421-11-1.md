@@ -1,7 +1,7 @@
 Article L421-11-1
 ----
-En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L.
-612-4 du code de commerce, ou de manquement grave et persistant d'une fédération
+En cas de mise en oeuvre des dispositions du troisième alinéa de l'article L.
+612-3 du code de commerce, ou de manquement grave et persistant d'une fédération
 départementale à ses missions d'indemnisation des dégâts de grand gibier et
 d'organisation de la formation préparatoire à l'examen du permis de chasser
 constaté à l'issue d'une procédure contradictoire, le préfet transmet à la

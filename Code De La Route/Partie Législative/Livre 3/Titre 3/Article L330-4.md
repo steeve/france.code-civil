@@ -9,9 +9,8 @@ leur mission :
 1° Aux agents chargés de l'exécution d'un titre exécutoire ;
 
 2° Aux administrateurs judiciaires ou mandataires liquidateurs désignés dans le
-cadre d'une procédure de redressement judiciaire ou de liquidation de biens
-prévue par la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises ;
+cadre des procédures de sauvegarde ou de redressement judiciaire ou de
+liquidation de biens prévues par le code de commerce ;
 
 3° Aux syndics désignés dans le cadre d'une procédure de règlement judiciaire ou
 de liquidation de biens prévue par la loi n° 67-563 du 13 juillet 1967 sur le

@@ -3,8 +3,8 @@ Article L143-13
 Nonobstant l'existence de toute autre créance, les créances que garantit le
 privilège établi aux articles L. 143-9 et L. 143-10 doivent être payées par
 l'administrateur par ordonnance du juge-commissaire, dans les dix jours du
-prononcé du jugement ouvrant la procédure de redressement judiciaire, si
-l'administrateur dispose des fonds nécessaires.
+prononcé du jugement ouvrant la procédure de sauvegarde ou de redressement
+judiciaire, si l'administrateur dispose des fonds nécessaires.
 
 Toutefois, avant tout établissement du montant de ces créances, l'administrateur
 doit, avec l'autorisation du juge-commissaire et dans la mesure des fonds

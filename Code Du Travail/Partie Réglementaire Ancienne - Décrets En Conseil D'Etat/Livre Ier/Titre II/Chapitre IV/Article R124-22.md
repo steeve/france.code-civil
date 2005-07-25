@@ -8,11 +8,11 @@ des sommes définies à l'article R. 124-8, qui restent dues pour la durée de
 l'utilisation, par lui, des travailleurs temporaires.
 
 Dans ce cas, soit le salarié ou l'organisme de sécurité sociale ou l'institution
-sociale, soit, en cas de redressement judiciaire ou de liquidation judiciaire,
-le représentant des créanciers ou le liquidateur avise l'utilisateur de
-l'insuffisance de la caution en lui adressant une demande de paiement des sommes
-restant dues par lettre recommandée avec demande d'avis de réception ou par
-lettre remise à l'utilisateur dont il est délivré récépissé.
+sociale, soit, en cas de procédures de sauvegarde ou de redressement judiciaire
+ou de liquidation judiciaire, le mandataire judiciaire ou le liquidateur avise
+l'utilisateur de l'insuffisance de la caution en lui adressant une demande de
+paiement des sommes restant dues par lettre recommandée avec demande d'avis de
+réception ou par lettre remise à l'utilisateur dont il est délivré récépissé.
 
 Le paiement des sommes dues doit être effectué par l'utilisateur dans le délai
 de dix jours suivant la réception de la demande.

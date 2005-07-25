@@ -22,7 +22,7 @@ code de commerce, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au
 redressement et à la liquidation judiciaires des entreprises ou, dans le régime
 antérieur à cette loi, au titre II de la loi n° 67-563 du 13 juillet 1967 sur le
 règlement judiciaire, la liquidation des biens, la faillite personnelle et les
-banqueroutes, ou d'une mesure d'interdiction définie à l'article L. 625-8 du
+banqueroutes, ou d'une mesure d'interdiction définie à l'article L. 653-8 du
 code de commerce ou d'une mesure d'interdiction d'exercer une activité
 commerciale.
 

@@ -24,7 +24,7 @@ biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 19
 ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
 
 7° Des avances faites par le Trésor public en matière de redressement et de
-liquidation judiciaire des entreprises, en application de l'article L. 627-3 du
+liquidation judiciaire des entreprises, en application de l'article L. 663-1 du
 code de commerce.
 
 8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des

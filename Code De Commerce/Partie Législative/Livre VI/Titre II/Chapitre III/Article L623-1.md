@@ -1,20 +1,16 @@
 Article L623-1
 ----
-I. - Sont susceptibles d'appel ou de pourvoi en cassation :
+L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un
+ou plusieurs experts, est chargé de dresser dans un rapport le bilan économique
+et social de l'entreprise.
 
-1° Les décisions statuant sur l'ouverture de la procédure de la part du
-débiteur, du créancier poursuivant ainsi que du ministère public même s'il n'a
-pas agi comme partie principale ;
+Le bilan économique et social précise l'origine, l'importance et la nature des
+difficultés de l'entreprise.
 
-2° Les décisions statuant sur la liquidation judiciaire, arrêtant ou rejetant le
-plan de continuation de l'entreprise de la part du débiteur, de
-l'administrateur, du représentant des créanciers, du comité d'entreprise ou, à
-défaut, des délégués du personnel ainsi que du ministère public même s'il n'a
-pas agi comme partie principale ;
+Dans le cas où l'entreprise exploite une ou des installations classées au sens
+du titre Ier du livre V du code de l'environnement, le bilan économique et
+social est complété par un bilan environnemental que l'administrateur fait
+réaliser dans des conditions prévues par décret en Conseil d'Etat.
 
-3° Les décisions modifiant le plan de continuation de l'entreprise de la part du
-débiteur, du commissaire à l'exécution du plan, du comité d'entreprise ou, à
-défaut des délégués du personnel ainsi que du ministère public même s'il n'a pas
-agi comme partie principale.
-
-II. - L'appel du ministère public est suspensif.
+Au vu de ce bilan, l'administrateur propose un plan de sauvegarde, sans
+préjudice de l'application des dispositions de l'article L. 622-10.

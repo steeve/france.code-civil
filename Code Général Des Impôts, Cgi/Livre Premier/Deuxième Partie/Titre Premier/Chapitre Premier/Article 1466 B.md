@@ -110,8 +110,8 @@ III. - Les dispositions du I s'appliquent également aux contribuables qui
 emploient moins de 250 salariés, lorsque leur entreprise est en difficulté et
 qu'elle présente un intérêt économique et social pour la Corse. Une entreprise
 est considérée comme étant en difficulté lorsqu'elle fait l'objet d'une
-procédure de redressement judiciaire ou lorsque sa situation financière rend
-imminente sa cessation d'activité.
+procédure de conciliation, de sauvegarde ou de redressement judiciaire ou
+lorsque sa situation financière rend imminente sa cessation d'activité.
 
 Toutefois :
 

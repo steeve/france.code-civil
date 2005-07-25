@@ -1,7 +1,6 @@
 Article L936-10
 ----
-Pour l'application de l'article L. 621-60, les institutions régies par le livre
-IX du code de la sécurité sociale sont les institutions de retraite
-complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions
-applicables en Nouvelle-Calédonie et relatives aux régimes de sécurité et de
-protection sociales.
+A l'article L. 626-14, la référence à l'article 28 du décret n° 55-22 du 4
+janvier 1955 portant réforme de la publicité foncière est remplacée par la
+référence aux dispositions applicables localement et relatives à la publicité
+des droits sur les immeubles autres que les privilèges et hypothèques.

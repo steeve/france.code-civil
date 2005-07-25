@@ -1,4 +1,6 @@
 Article L627-1
 ----
-Aucune opposition ou procédure d'exécution de quelque nature qu'elle soit sur
-les sommes versées à la Caisse des dépôts et consignations n'est recevable.
+Les dispositions du présent chapitre sont applicables lorsqu'il n'a pas été
+désigné d'administrateur judiciaire en application de l'avant-dernier alinéa de
+l'article L. 621-4. Les autres dispositions du présent titre sont applicables
+dans la mesure où elles ne sont pas contraires à celles du présent chapitre.

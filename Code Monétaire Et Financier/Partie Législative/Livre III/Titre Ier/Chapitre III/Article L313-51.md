@@ -21,8 +21,8 @@ Dans les conditions et selon les modalités prescrites à l'article L. 313-50 et
 au présent article, le mécanisme de garantie des cautions prend en charge
 rétroactivement les engagements de caution exigés par un texte législatif ou
 réglementaire octroyés par tout établissement de crédit ayant fait l'objet d'une
-procédure de redressement judiciaire ouverte après le 1er janvier 1996 et qui
-n'a pu intégralement honorer ces engagements.
+procédure de sauvegarde ou de redressement judiciaire ouverte après le 1er
+janvier 1996 et qui n'a pu intégralement honorer ces engagements.
 
 Pour l'application de ces dispositions, le fonds de garantie des dépôts assume,
 dès l'agrément du président de son directoire, la charge financière de ces

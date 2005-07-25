@@ -12,9 +12,9 @@ du groupe d'établissements pour lesquels un taux commun est déterminé.
 Toutefois, le coût de l'accident du travail ou de la maladie professionnelle est
 entièrement imputé au compte employeur de l'entreprise de travail temporaire en
 cas de défaillance de l'entreprise utilisatrice. L'entreprise utilisatrice qui
-fait l'objet d'une procédure de redressement judiciaire ou de liquidation
-judiciaire est regardée comme défaillante au sens des dispositions du premier
-alinéa de l'article L. 241-5-1.
+fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire ou de
+liquidation judiciaire est regardée comme défaillante au sens des dispositions
+du premier alinéa de l'article L. 241-5-1.
 
 L'entreprise utilisatrice qui assume directement la charge totale de la gestion
 du risque en vertu des articles L. 413-13 ou L. 413-14 est tenue de verser à

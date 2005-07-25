@@ -1,7 +1,7 @@
 Article L421-17
 ----
-En cas de mise en oeuvre des dispositions du dernier alinéa de l'article L.
-612-4 du code de commerce, ou de manquement grave et persistant de la fédération
+En cas de mise en oeuvre des dispositions du troisième alinéa de l'article L.
+612-3 du code de commerce, ou de manquement grave et persistant de la fédération
 nationale à sa mission de gestion du fonds mentionné à l'article L. 421-14 du
 présent code constaté à l'issue d'une procédure contradictoire, le ministre
 chargé de la chasse transmet à la Cour des comptes ses observations. Si la Cour

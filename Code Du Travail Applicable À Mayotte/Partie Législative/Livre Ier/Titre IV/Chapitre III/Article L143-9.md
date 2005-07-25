@@ -1,11 +1,11 @@
 Article L143-9
 ----
-Lorsqu'est ouverte une procédure de redressement judiciaire, les rémunérations
-de toute nature dues aux salariés et apprentis pour les soixante derniers jours
-de travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus,
-être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à
-concurrence d'un plafond mensuel identique pour toutes les catégories de
-bénéficiaires.
+Lorsqu'est ouverte une procédure de sauvegarde ou de redressement judiciaire,
+les rémunérations de toute nature dues aux salariés et apprentis pour les
+soixante derniers jours de travail ou d'apprentissage doivent, déduction faite
+des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre
+créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour
+toutes les catégories de bénéficiaires.
 
 Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte.
 

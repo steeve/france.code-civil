@@ -18,7 +18,7 @@ ouvrables en cas de licenciement individuel d'un membre du personnel
 d'encadrement tel que défini au troisième alinéa de l'article L. 513-1.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables en cas de
-redressement ou de liquidation judiciaires.
+procédure de sauvegarde ou de redressement ou de liquidation judiciaires.
 
 En cas de licenciement collectif pour motif économique concernant au moins dix
 salariés dans une même période de trente jours, la lettre prévue au premier

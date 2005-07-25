@@ -8,10 +8,7 @@ année un bilan, un compte de résultat et une annexe. Les modalités
 d'établissement de ces documents sont précisées par décret.
 
 Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes
-et un suppléant choisis sur la liste mentionnée à l'article L. 822-1 qui
-exercent leurs fonctions dans les conditions prévues par le livre II, titres Ier
-et II, sous réserve des règles qui leur sont propres. Les dispositions de
-l'article L. 242-27 sont applicables.
+et un suppléant.
 
 Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui
 n'ont pas la forme commerciale, lorsqu'elles ne font pas appel à des
@@ -23,9 +20,6 @@ précisées par décret en Conseil d'Etat.
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des
 personnes morales mentionnées au premier alinéa du présent article qui n'auront
 pas, chaque année, établi un bilan, un compte de résultat et une annexe.
-
-Les dispositions des articles L. 242-25 et L. 242-28 sont également applicables
-à ces dirigeants.
 
 Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes
 morales de droit privé non commerçantes ayant une activité économique peuvent

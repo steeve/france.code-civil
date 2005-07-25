@@ -13,4 +13,4 @@ demande, il adresse une réponse motivée à la commission médicale et au comit
 technique.
 
 Au vu des conclusions de l'audit, le conseil d'administration peut décider
-d'adopter un plan de redressement.
+d'adopter un plan de sauvegarde ou de redressement.

@@ -27,13 +27,12 @@ d'Etat ;
 - deux personnes qualifiées en matière économique ou sociale, désignées par le
 garde des sceaux, ministre de la justice ;
 
-- trois mandataires judiciaires au redressement et à la liquidation des
-entreprises, inscrits sur la liste, élus par leurs pairs dans des conditions
-déterminées par décret en Conseil d'Etat. L'un d'eux est remplacé par une
-personne inscrite sur la liste des experts en diagnostic d'entreprise lorsque la
-commission donne, en application des dispositions du dernier alinéa de l'article
-L. 813-1, un avis sur l'inscription d'un expert de cette spécialité, sur sa
-radiation ou sur son retrait de la liste.
+- trois mandataires judiciaires, inscrits sur la liste, élus par leurs pairs
+dans des conditions déterminées par décret en Conseil d'Etat. L'un d'eux est
+remplacé par une personne inscrite sur la liste des experts en diagnostic
+d'entreprise lorsque la commission donne, en application des dispositions du
+dernier alinéa de l'article L. 813-1, un avis sur l'inscription d'un expert de
+cette spécialité, sur sa radiation ou sur son retrait de la liste.
 
 En cas d'égalité des voix, celle du président est prépondérante.
 

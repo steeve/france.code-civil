@@ -2,8 +2,9 @@ Article L813-1
 ----
 Les experts en diagnostic d'entreprise sont désignés en justice pour établir un
 rapport sur la situation économique et financière d'une entreprise en cas de
-règlement amiable ou de redressement judiciaire, ou concourir à l'élaboration
-d'un tel rapport en cas de redressement judiciaire.
+procédure de conciliation ou de procédure de sauvegarde ou de redressement
+judiciaire, ou concourir à l'élaboration d'un tel rapport en cas de procédure de
+sauvegarde ou de redressement judiciaire.
 
 Ces experts ne doivent pas, au cours des cinq années précédentes, avoir perçu à
 quelque titre que ce soit, directement ou indirectement, une rétribution ou un

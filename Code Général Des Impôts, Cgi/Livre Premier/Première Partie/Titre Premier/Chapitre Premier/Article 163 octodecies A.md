@@ -8,15 +8,15 @@ déduction éventuelle des sommes récupérées.
 
 La déduction est opérée, dans la limite annuelle de 30 000 euros, sur le revenu
 net global de l'année au cours de laquelle intervient la réduction du capital de
-la société, en exécution d'un plan de redressement visé aux articles L. 621-70
-et suivants du code de commerce, ou la cession de l'entreprise ordonnée par le
-tribunal en application des articles L. 621-83 et suivants de ce code, ou le
-jugement de clôture de la liquidation judiciaire.
+la société, en exécution d'un plan de redressement visé à l'article L. 631-19 du
+code de commerce, ou la cession de l'entreprise ordonnée par le tribunal en
+application de l'article L. 631-22 de ce code, ou le jugement de clôture de la
+liquidation judiciaire.
 
 Par exception aux dispositions du deuxième alinéa, la déduction peut, sur option
 expresse du souscripteur, être opérée à compter de l'année au cours de laquelle
-intervient le jugement ordonnant la cession de l'entreprise en application des
-articles L. 621-83 et suivants du code de commerce, en l'absence de tout plan de
+intervient le jugement ordonnant la cession de l'entreprise en application de
+l'article L. 631-22 du code de commerce, en l'absence de tout plan de
 continuation, ou prononçant sa liquidation judiciaire. Cette option porte sur
 l'ensemble des souscriptions au capital de la société faisant l'objet de la
 procédure collective.
@@ -62,9 +62,9 @@ versées au titre de l'exécution d'un engagement de caution souscrit au profit 
 la société mentionnée au I ;
 
 3° Les souscriptions effectuées par les personnes à l'encontre desquelles le
-tribunal a prononcé l'une des condamnations mentionnées aux articles L. 624-3,
-L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8, L. 626-2 ou L. 626-6
-du code de commerce.
+tribunal a prononcé l'une des condamnations mentionnées aux articles L. 651-2,
+L. 652-1, L. 653-4, L. 653-5, L. 653-6, L. 653-8, L. 654-2 ou L. 654-6 du code
+de commerce.
 
 Lorsqu'une déduction a été effectuée dans les conditions prévues au troisième
 alinéa du I, le montant des sommes déduites est ajouté au revenu net global de
@@ -73,8 +73,8 @@ l'année de la condamnation.
 II bis. Le régime fiscal défini au I s'applique, dans les mêmes limites, aux
 souscriptions en numéraire par des personnes physiques à une augmentation de
 capital réalisée, à compter du 1er janvier 1994, par une société dans le cadre
-d'un plan de redressement organisant la continuation de l'entreprise et arrêté
-conformément aux dispositions de l'article L. 621-62 du code de commerce.
+d'un plan de redressement arrêté conformément aux dispositions de l'article L.
+631-19 du code de commerce.
 
 Sous réserve des exclusions visées aux 1°, 2° et 3° du II, la déduction
 intervient si la société se trouve en cessation de paiement dans les huit ans

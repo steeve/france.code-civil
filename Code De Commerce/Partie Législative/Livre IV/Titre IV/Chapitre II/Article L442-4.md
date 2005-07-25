@@ -26,5 +26,5 @@ les mêmes produits par un autre commerçant dans la même zone d'activité ;
 publicité ou annonce à l'extérieur du point de vente, aux produits périssables à
 partir du moment où ils sont menacés d'altération rapide.
 
-II. - Les exceptions prévues au I ne font pas obstacle à l'application du 2 de
-l'article L. 625-5 et du 1 de l'article L. 626-2.
+II. - Les exceptions prévues au I ne font pas obstacle à l'application du 2° de
+l'article L. 653-5 et du 1 de l'article L. 654-2.

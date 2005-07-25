@@ -7,9 +7,9 @@ chargé de l'aviation civile, sous réserve des dispositions de l'article R.
 330-19, après avis du Conseil supérieur de l'aviation marchande.
 
 Toutefois, cet avis n'est pas requis préalablement au renouvellement d'une
-licence temporaire décidé après la prolongation d'une période de redressement
-judiciaire, ou au retrait intervenant à la suite de la liquidation judiciaire de
-la société ou de sa dissolution.
+licence temporaire décidé après la prolongation d'une période de procédures de
+sauvegarde ou de redressement judiciaire, ou au retrait intervenant à la suite
+de la liquidation judiciaire de la société ou de sa dissolution.
 
 L'avis du conseil est émis après que le transporteur a été invité à présenter
 ses observations devant celui-ci.

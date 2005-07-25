@@ -25,6 +25,6 @@ viennent en concours si les sommes disponibles ne permettent pas de
 désintéresser la totalité des créanciers. La réception ultérieure d'autres
 oppositions ou d'autres mesures d'exécution emportant effet d'attribution
 immédiate, même émanant de créanciers privilégiés, ainsi que la survenance d'un
-jugement portant ouverture d'un redressement judiciaire ou d'une liquidation
-judiciaire ne remettent pas en cause l'effet d'attribution immédiate prévu par
-l'article L. 652-3.
+jugement portant ouverture d'une procédure de sauvegarde ou de redressement
+judiciaire ou d'une liquidation judiciaire ne remettent pas en cause l'effet
+d'attribution immédiate prévu par l'article L. 652-3.

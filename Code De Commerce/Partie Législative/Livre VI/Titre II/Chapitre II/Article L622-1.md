@@ -1,11 +1,19 @@
 Article L622-1
 ----
-La procédure de liquidation judiciaire est ouverte sans période d'observation à
-l'égard de toute entreprise mentionnée au premier alinéa de l'article L. 620-2
-en état de cessation des paiements, dont l'activité a cessé ou dont le
-redressement est manifestement impossible.
+I. - L'administration de l'entreprise est assurée par son dirigeant.
 
-Elle est engagée selon les modalités prévues au second alinéa de l'article L.
-621-1 et aux articles L. 621-2 à L. 621-5 ainsi que L. 621-14 et L. 621-15.
+II. - Lorsque le tribunal, en application des dispositions de l'article L.
+621-4, désigne un ou plusieurs administrateurs, il les charge ensemble ou
+séparément de surveiller le débiteur dans sa gestion ou de l'assister pour tous
+les actes de gestion ou pour certains d'entre eux.
 
-La date de cessation des paiements est fixée conformément à l'article L. 621-7.
+III. - Dans sa mission, l'administrateur est tenu au respect des obligations
+légales et conventionnelles incombant au chef d'entreprise.
+
+IV. - A tout moment, le tribunal peut modifier la mission de l'administrateur
+sur la demande de celui-ci, du mandataire judiciaire ou du ministère public.
+
+V. - L'administrateur peut faire fonctionner sous sa signature les comptes
+bancaires ou postaux dont le débiteur est titulaire si ce dernier a fait l'objet
+des interdictions prévues aux articles 65-2 et 68, troisième alinéa, du décret
+du 30 octobre 1935 unifiant le droit en matière de chèques.

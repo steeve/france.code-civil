@@ -1,6 +1,6 @@
 Article R613-25
 ----
-I. - L'administrateur ou le liquidateur, désigné dans le cadre d'une procédure
+I.-L'administrateur ou le liquidateur, désigné dans le cadre d'une procédure
 ouverte à l'égard d'un établissement de crédit ayant son siège en France, fait
 procéder à la publication dans les meilleurs délais au Journal officiel de
 l'Union européenne et dans deux journaux à diffusion nationale de chaque Etat
@@ -9,9 +9,11 @@ suivantes :
 
 1° Les mesures mentionnées au 3 du I de l'article L. 613-21 ;
 
-2° Le jugement ouvrant un règlement amiable ou un redressement judiciaire ;
+2° Le jugement ouvrant une procédure de conciliation, de sauvegarde ou de
+redressement judiciaire ;
 
-3° Le jugement arrêtant un plan de continuation ou de cession ;
+3° Le jugement arrêtant un plan de sauvegarde ou de redressement judiciaire ou
+de cession ;
 
 4° Le jugement ouvrant ou prononçant une liquidation judiciaire ;
 
@@ -24,7 +26,7 @@ juridique de la mesure adoptée, les délais de recours et la date d'expiration 
 ces derniers ainsi que l'adresse de la juridiction compétente pour connaître
 d'un recours.
 
-II. - S'agissant des décisions mentionnées aux 4° et 5° du I, l'extrait doit
+II.-S'agissant des décisions mentionnées aux 4° et 5° du I, l'extrait doit
 préciser en outre que tout créancier peut prendre connaissance du rapport de
 liquidation auprès du greffe du tribunal compétent, conformément à l'article 123
 du décret n° 85-1388 du 27 décembre 1985 relatif au redressement et à la

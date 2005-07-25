@@ -1,6 +1,6 @@
 Article L231-6
 ----
-I. - La garantie de livraison prévue au k de l'article L. 231-2 couvre le maître
+I.-La garantie de livraison prévue au k de l'article L. 231-2 couvre le maître
 de l'ouvrage, à compter de la date d'ouverture du chantier, contre les risques
 d'inexécution ou de mauvaise exécution des travaux prévus au contrat, à prix et
 délais convenus.
@@ -9,7 +9,7 @@ En cas de défaillance du constructeur, le garant prend à sa charge :
 
 a) Le coût des dépassements du prix convenu dès lors qu'ils sont nécessaires à
 l'achèvement de la construction, la garantie apportée à ce titre pouvant être
-assortie d'une franchise n'excédant pas 5 p. 100 du prix convenu ;
+assortie d'une franchise n'excédant pas 5 % du prix convenu ;
 
 b) Les conséquences du fait du constructeur ayant abouti à un paiement anticipé
 ou à un supplément de prix ;
@@ -21,7 +21,7 @@ fixés par décret.
 La garantie est constituée par une caution solidaire donnée par un établissement
 de crédit ou une entreprise d'assurance agréés à cet effet.
 
-II. - Dans le cas où le garant constate que le délai de livraison n'est pas
+II.-Dans le cas où le garant constate que le délai de livraison n'est pas
 respecté ou que les travaux nécessaires à la levée des réserves formulées à la
 réception ne sont pas réalisés, il met en demeure sans délai le constructeur
 soit de livrer l'immeuble, soit d'exécuter les travaux. Le garant est tenu à la
@@ -32,18 +32,17 @@ Quinze jours après une mise en demeure restée infructueuse, le garant procède
 l'exécution de ses obligations dans les conditions prévues au paragraphe III du
 présent article.
 
-Au cas où, en cours d'exécution des travaux, le constructeur fait l'objet de la
-procédure de redressement judiciaire prévue par la loi n° 85-98 du 25 janvier
-1985 relative au redressement et à la liquidation judiciaires des entreprises,
-le garant peut mettre en demeure l'administrateur de se prononcer sur
-l'exécution du contrat conformément à l'article 37 de ladite loi. A défaut de
-réponse dans le délai d'un mois et sans que ce délai puisse être prorogé pour
+Au cas où, en cours d'exécution des travaux, le constructeur fait l'objet des
+procédures de sauvegarde et de redressement judiciaire prévues par le code de
+commerce, le garant peut mettre en demeure l'administrateur de se prononcer sur
+l'exécution du contrat conformément à l'article L. 621-28 dudit code. A défaut
+de réponse dans le délai d'un mois et sans que ce délai puisse être prorogé pour
 quelque raison que ce soit, le garant procède à l'exécution de ses obligations.
 Il y procède également dans le cas où, malgré sa réponse positive,
 l'administrateur ne poursuit pas l'exécution du contrat dans les quinze jours
 qui suivent sa réponse.
 
-III. - Dans les cas prévus au paragraphe II ci-dessus et faute pour le
+III.-Dans les cas prévus au paragraphe II ci-dessus et faute pour le
 constructeur ou l'administrateur de procéder à l'achèvement de la construction,
 le garant doit désigner sous sa responsabilité la personne qui terminera les
 travaux.
@@ -58,7 +57,7 @@ En cas de défaillance du constructeur, le garant est en droit d'exiger de
 percevoir directement les sommes correspondant aux travaux qu'il effectue ou
 fait effectuer dans les conditions prévues au e de l'article L. 231-2.
 
-IV. - La garantie cesse lorsque la réception des travaux a été constatée par
-écrit et, le cas échéant, à l'expiration du délai de huit jours prévu à
-l'article L. 231-8 pour dénoncer les vices apparents ou, si des réserves ont été
-formulées, lorsque celles-ci ont été levées.
+IV.-La garantie cesse lorsque la réception des travaux a été constatée par écrit
+et, le cas échéant, à l'expiration du délai de huit jours prévu à l'article L.
+231-8 pour dénoncer les vices apparents ou, si des réserves ont été formulées,
+lorsque celles-ci ont été levées.

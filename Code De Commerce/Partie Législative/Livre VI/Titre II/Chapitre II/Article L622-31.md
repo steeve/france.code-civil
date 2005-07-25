@@ -1,5 +1,6 @@
 Article L622-31
 ----
-Le liquidateur procède à la reddition des comptes. Il est responsable des
-documents qui lui ont été remis au cours de la procédure pendant cinq ans à
-compter de cette reddition.
+Le créancier, porteur d'engagements souscrits, endossés ou garantis
+solidairement par deux ou plusieurs coobligés soumis à une procédure de
+sauvegarde, peut déclarer sa créance pour la valeur nominale de son titre, dans
+chaque procédure.

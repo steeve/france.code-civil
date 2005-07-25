@@ -70,9 +70,9 @@ professionnel n'est plus conforme au projet initial ainsi que dans les cas
 suivants :
 
 1° En cas d'aide à la création d'entreprises, lorsque l'entreprise a cessé son
-activité, en cas de procédure de redressement ou de liquidation judiciaire, ou
-si la condition de direction effective de l'entreprise créée ou reprise cesse
-d'être remplie.
+activité, en cas de procédure de sauvegarde ou de redressement ou de liquidation
+judiciaire, ou si la condition de direction effective de l'entreprise créée ou
+reprise cesse d'être remplie.
 
 2° En cas d'aide à la formation en mobilité pour manque d'assiduité à la
 formation professionnelle prévue.

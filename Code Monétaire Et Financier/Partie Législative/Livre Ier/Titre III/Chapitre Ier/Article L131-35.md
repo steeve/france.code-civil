@@ -6,9 +6,9 @@ l'article L. 131-73 ou de l'interdiction prévue au deuxième alinéa de l'artic
 L. 163-6.
 
 Il n'est admis d'opposition au paiement par chèque qu'en cas de perte, de vol ou
-d'utilisation frauduleuse du chèque, de redressement ou de liquidation
-judiciaires du porteur. Le tireur doit immédiatement confirmer son opposition
-par écrit, quel que soit le support de cet écrit.
+d'utilisation frauduleuse du chèque, de procédure de sauvegarde, de redressement
+ou de liquidation judiciaires du porteur. Le tireur doit immédiatement confirmer
+son opposition par écrit, quel que soit le support de cet écrit.
 
 Tout banquier doit informer par écrit les titulaires de compte des sanctions
 encourues en cas d'opposition fondée sur une autre cause que celles prévues au

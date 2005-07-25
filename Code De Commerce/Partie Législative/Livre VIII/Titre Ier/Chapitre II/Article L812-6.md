@@ -1,9 +1,8 @@
 Article L812-6
 ----
-Les dossiers suivis par le mandataire judiciaire au redressement et à la
-liquidation des entreprises qui quitte ses fonctions, pour quelque motif que ce
-soit, sont répartis par la juridiction entre les autres mandataires dans un
-délai de trois mois à compter de la cessation de fonctions.
+Les dossiers suivis par le mandataire judiciaire qui quitte ses fonctions, pour
+quelque motif que ce soit, sont répartis par la juridiction entre les autres
+mandataires dans un délai de trois mois à compter de la cessation de fonctions.
 
 Toutefois, dans l'intérêt d'une bonne administration de la justice, la
 juridiction peut autoriser l'ancien mandataire à poursuivre le traitement d'un

@@ -1,10 +1,15 @@
 Article L622-20
 ----
-Le liquidateur peut, avec l'autorisation du juge-commissaire et le débiteur
-entendu ou dûment appelé, compromettre et transiger sur toutes les contestations
-qui intéressent collectivement les créanciers même sur celles qui sont relatives
-à des droits et actions immobiliers.
+Le mandataire judiciaire désigné par le tribunal a seul qualité pour agir au nom
+et dans l'intérêt collectif des créanciers. Toutefois, en cas de carence du
+mandataire judiciaire, tout créancier nommé contrôleur peut agir dans cet
+intérêt dans des conditions fixées par décret en Conseil d'Etat.
 
-Si l'objet du compromis ou de la transaction est d'une valeur indéterminée ou
-excède la compétence en dernier ressort du tribunal, le compromis ou la
-transaction est soumis à l'homologation du tribunal.
+Le mandataire judiciaire communique au juge-commissaire et au ministère public
+les observations qui lui sont transmises à tout moment de la procédure par les
+contrôleurs.
+
+Les sommes recouvrées à l'issue des actions introduites par le mandataire
+judiciaire ou, à défaut, par le ou les créanciers nommés contrôleurs, entrent
+dans le patrimoine du débiteur et sont affectées en cas de continuation de
+l'entreprise selon les modalités prévues pour l'apurement du passif.

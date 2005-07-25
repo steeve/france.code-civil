@@ -1,37 +1,19 @@
 Article L622-16
 ----
-Les ventes d'immeubles ont lieu suivant les formes prescrites en matière de
-saisie immobilière. Toutefois, le juge-commissaire fixe, après avoir recueilli
-les observations des contrôleurs, le débiteur et le liquidateur entendus ou
-dûment appelés, la mise à prix et les conditions essentielles de la vente et
-détermine les modalités de la publicité.
+En cas de procédure de sauvegarde, le bailleur n'a privilège que pour les deux
+dernières années de loyers avant le jugement d'ouverture de la procédure.
 
-Lorsqu'une procédure de saisie immobilière engagée avant l'ouverture du
-redressement ou de la liquidation judiciaires a été suspendue par l'effet de
-cette dernière, le liquidateur peut être subrogé dans les droits du créancier
-saisissant pour les actes que celui-ci a effectués, lesquels sont réputés
-accomplis pour le compte du liquidateur qui procède à la vente des immeubles. La
-saisie immobilière peut alors reprendre son cours au stade où le jugement
-d'ouverture l'avait suspendue.
+Si le bail est résilié, le bailleur a, en outre, privilège pour l'année
+courante, pour tout ce qui concerne l'exécution du bail et pour les dommages et
+intérêts qui pourront lui être alloués par les tribunaux.
 
-Dans les mêmes conditions, le juge-commissaire peut, si la consistance des
-biens, leur emplacement ou les offres reçues sont de nature à permettre une
-cession amiable dans de meilleures conditions, autoriser la vente soit par
-adjudication amiable sur la mise à prix qu'il fixe, soit de gré à gré aux prix
-et conditions qu'il détermine. En cas d'adjudication amiable, il peut toujours
-être fait surenchère.
+Si le bail n'est pas résilié, le bailleur ne peut exiger le paiement des loyers
+à échoir lorsque les sûretés qui lui ont été données lors du contrat sont
+maintenues ou lorsque celles qui ont été fournies depuis le jugement d'ouverture
+sont jugées suffisantes.
 
-Les adjudications réalisées en application des alinéas qui précèdent emportent
-purge des hypothèques.
-
-Le liquidateur répartit le produit des ventes et règle l'ordre entre les
-créanciers, sous réserve des contestations qui sont portées devant le tribunal
-de grande instance.
-
-En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en
-considération de la situation personnelle et familiale du débiteur, lui accorder
-des délais de grâce dont il détermine la durée pour quitter sa maison
-d'habitation principale.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil
-d'Etat.
+Le juge-commissaire peut autoriser le débiteur ou l'administrateur, selon le
+cas, à vendre des meubles garnissant les lieux loués soumis à dépérissement
+prochain, à dépréciation imminente ou dispendieux à conserver, ou dont la
+réalisation ne met pas en cause, soit l'existence du fonds, soit le maintien de
+garanties suffisantes pour le bailleur.

@@ -1,8 +1,6 @@
 Article L626-13
 ----
-Le fait, pour le créancier, après le jugement ouvrant la procédure de
-redressement judiciaire ou de liquidation judiciaire, de passer une convention
-comportant un avantage particulier à la charge du débiteur est puni des peines
-prévues par l'article 314-1 du code pénal.
-
-La juridiction saisie prononce la nullité de cette convention.
+L'arrêt du plan par le tribunal entraîne la levée de plein droit de toute
+interdiction d'émettre des chèques conformément à l'article L. 131-73 du code
+monétaire et financier, mise en oeuvre à l'occasion du rejet d'un chèque émis
+avant le jugement d'ouverture de la procédure.

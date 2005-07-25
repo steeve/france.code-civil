@@ -54,6 +54,6 @@ temporaire, délégué syndical, est soumise à la procédure prévue ci-dessus.
 La règle prévue à l'alinéa ci-dessus est applicable dans le cas de la décision
 prévue à la dernière phrase de l'article L. 423-10.
 
-En cas de redressement ou de liquidation judiciaire, tout licenciement d'un
-salarié mentionné aux précédents alinéas est soumis à la procédure définie au
-présent article.
+En cas de procédure de sauvegarde ou de redressement ou de liquidation
+judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est
+soumis à la procédure définie au présent article.
