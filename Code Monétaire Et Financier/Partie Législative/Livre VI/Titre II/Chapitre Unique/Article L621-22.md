@@ -29,4 +29,5 @@ même code.
 
 V. - Les commissaires aux comptes sont déliés du secret professionnel et leur
 responsabilité ne peut de ce seul fait être engagée pour les informations
-données en exécution des obligations prévues au présent article.
+données en exécution des obligations et démarches prévues au présent article et
+à l'article L. 621-18.
