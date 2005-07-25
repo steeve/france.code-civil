@@ -6,7 +6,8 @@ troisième partie, le conseil régional définit le régime et décide de l'octr
 des aides aux entreprises dans la région qui revêtent la forme de prestations de
 services, de subventions, de bonifications d'intérêt, de prêts et avances
 remboursables, à taux nul ou à des conditions plus favorables que celles du taux
-moyen des obligations.
+moyen des obligations. Il peut déléguer la gestion de ces avances à des
+établissements publics locaux.
 
 Les départements, les communes et leurs groupements peuvent participer au
 financement de ces aides dans le cadre d'une convention passée avec la région.

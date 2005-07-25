@@ -21,9 +21,11 @@ contrôler la conformité de sa comptabilité aux règles en vigueur. Ils vérif
 également la sincérité et la concordance avec les comptes annuels des
 informations données dans le rapport de gestion du conseil d'administration ou
 du directoire, selon le cas, et dans les documents adressés aux actionnaires sur
-la situation financière et les comptes annuels. Ils vérifient, le cas échéant,
-la sincérité et la concordance avec les comptes consolidés des informations
-données dans le rapport sur la gestion du groupe.
+la situation financière et les comptes annuels. Ils attestent spécialement
+l'exactitude et la sincérité des informations visées aux trois premiers alinéas
+de l'article L. 225-102-1.. Ils vérifient, le cas échéant, la sincérité et la
+concordance avec les comptes consolidés des informations données dans le rapport
+sur la gestion du groupe.
 
 Les commissaires aux comptes s'assurent que l'égalité a été respectée entre les
 actionnaires.

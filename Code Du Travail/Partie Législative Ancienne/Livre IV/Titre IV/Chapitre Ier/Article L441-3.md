@@ -11,8 +11,8 @@ Tout accord doit préciser notamment :
 4. Les modalités de calcul de l'intéressement et les critères de répartition de
 ses produits dans le respect des dispositions prévues à l'article L. 441-2 ;
 
-5. Les dates de versement. Toute somme versée aux salariés en application de
-l'accord d'intéressement au-delà du dernier jour du septième mois suivant la
+5. Les dates de versement. Toute somme versée aux bénéficiaires en application
+de l'accord d'intéressement au-delà du dernier jour du septième mois suivant la
 clôture de l'exercice produira un intérêt calculé au taux légal. Ces intérêts, à
 la charge de l'entreprise, sont versés en même temps que le principal et
 bénéficient du régime d'exonération prévu aux articles L. 441-4 et L. 441-6

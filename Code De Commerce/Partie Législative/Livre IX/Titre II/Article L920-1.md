@@ -5,7 +5,8 @@ dispositions suivantes du présent code sont applicables à Mayotte :
 
 1° Le livre Ier, à l'exception des articles L. 125-3, L. 126-1 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15,
+L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 
@@ -14,8 +15,8 @@ dispositions suivantes du présent code sont applicables à Mayotte :
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L.
 524-20 et L. 524-21 ;
 
-6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à
-L. 628-8 ;
+6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L.
+670-8 ;
 
 7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et
 des dispositions relatives aux délégués consulaires ;

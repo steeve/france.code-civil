@@ -4,7 +4,8 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 1° L. 125-3, L. 126-1 ;
 
-2° L. 252-1 à L. 252-13 ;
+2° L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L.
+252-13 ;
 
 3° L. 470-6 ;
 

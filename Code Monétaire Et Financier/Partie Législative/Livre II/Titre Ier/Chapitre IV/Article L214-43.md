@@ -41,7 +41,11 @@ La cession des créances s'effectue par la seule remise d'un bordereau dont les
 devient opposable aux tiers à la date apposée sur le bordereau lors de sa
 remise, quelle que soit la date de naissance, d'échéance ou d'exigibilité des
 créances, sans qu'il soit besoin d'autre formalité, et ce quelle que soit la loi
-applicable aux créances et la loi du pays de résidence des débiteurs. La remise
+applicable aux créances et la loi du pays de résidence des débiteurs. Nonobstant
+l'ouverture éventuelle d'une procédure visée au livre VI du code de commerce à
+l'encontre du cédant postérieurement à la cession, cette cession conserve ses
+effets après le jugement d'ouverture, sauf lorsque ces créances résultent de
+contrats à exécution successive dont le montant n'est pas déterminé. La remise
 du bordereau entraîne de plein droit le transfert des sûretés, des garanties et
 des accessoires attachés à chaque créance, y compris les sûretés hypothécaires,
 et son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.

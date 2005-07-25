@@ -2,10 +2,10 @@ Article L214-35-1
 ----
 La souscription et l'acquisition des parts ou actions d'un organisme de
 placement collectif en valeurs mobilières à règles d'investissement allégées
-sont réservées aux investisseurs qualifiés mentionnés au deuxième alinéa de
-l'article L. 411-2 ainsi qu'aux investisseurs étrangers appartenant à une
-catégorie équivalente sur le fondement du droit du pays dans lequel est situé
-son siège.
+sont réservées aux investisseurs qualifiés mentionnés à l'avant-dernier alinéa
+du II de l'article L. 411-2 ainsi qu'aux investisseurs étrangers appartenant à
+une catégorie équivalente sur le fondement du droit du pays dans lequel est
+situé son siège.
 
 Le règlement général de l'Autorité des marchés financiers fixe les conditions
 dans lesquelles la souscription et l'acquisition des parts ou actions de ces

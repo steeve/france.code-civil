@@ -12,7 +12,11 @@ société en vertu d'un accord conclu avec d'autres associés ou actionnaires et
 qui n'est pas contraire à l'intérêt de la société ;
 
 3° Lorsqu'elle détermine en fait, par les droits de vote dont elle dispose, les
-décisions dans les assemblées générales de cette société.
+décisions dans les assemblées générales de cette société ;
+
+4° Lorsqu'elle est associée ou actionnaire de cette société et dispose du
+pouvoir de nommer ou de révoquer la majorité des membres des organes
+d'administration, de direction ou de surveillance de cette société.
 
 II. - Elle est présumée exercer ce contrôle lorsqu'elle dispose directement ou
 indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucun

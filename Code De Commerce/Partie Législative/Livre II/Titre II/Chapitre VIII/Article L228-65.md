@@ -18,7 +18,10 @@ de préférence par rapport à la créance des obligataires composant la masse ;
 
 5° Sur toute proposition relative à l'abandon total ou partiel des garanties
 conférées aux obligataires, au report de l'échéance du paiement des intérêts et
-à la modification des modalités d'amortissement ou du taux des intérêts.
+à la modification des modalités d'amortissement ou du taux des intérêts ;
+
+6° Sur tout projet de transfert du siège social d'une société européenne dans un
+autre Etat membre.
 
 II. - L'assemblée générale délibère dans les conditions de quorum prévues au
 deuxième alinéa de l'article L. 225-98. Elle statue à la majorité des deux tiers
