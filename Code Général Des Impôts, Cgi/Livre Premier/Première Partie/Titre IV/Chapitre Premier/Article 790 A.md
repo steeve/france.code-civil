@@ -33,9 +33,9 @@ transmission l'exploitation du fonds ou de la clientèle transmis ou l'activité
 de la société dont les parts ou actions sont transmises et dont l'un d'eux
 assure, pendant la même période, la direction effective de l'entreprise. Dans le
 cas où l'entreprise fait l'objet d'une procédure de liquidation judiciaire
-prévue aux articles L. 622-1 et suivants du code de commerce dans les cinq
-années qui suivent la date de la transmission, il n'est pas procédé à la
-déchéance du régime de faveur prévu au premier alinéa.
+prévue au titre IV du livre VI du code de commerce dans les cinq années qui
+suivent la date de la transmission, il n'est pas procédé à la déchéance du
+régime de faveur prévu au premier alinéa.
 
 II. - Lorsque les donataires ont exercé l'option prévue au I, le bénéfice de ses
 dispositions est exclusif de l'application de l'article 787 B sur la fraction de
