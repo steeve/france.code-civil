@@ -6,6 +6,10 @@ d'un an dès lors que le logement loué constitue sa résidence principale. A
 l'expiration de ce contrat, le bail est tacitement reconduit pour un an sous
 réserve des dispositions suivantes.
 
+Lorsque la location est consentie à un étudiant, la durée du bail peut être
+réduite à neuf mois. Dans ce cas, la clause de reconduction tacite prévue au
+premier alinéa est inapplicable.
+
 Le bailleur qui souhaite, à l'expiration du contrat, en modifier les conditions
 doit informer le locataire avec un préavis de trois mois. Si le locataire
 accepte les nouvelles conditions, le contrat est renouvelé pour un an.

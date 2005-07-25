@@ -23,7 +23,7 @@ temporaire, ou si une convention ou un accord conclu au sein d'entreprises ou
 d'établissements de cette branche le prévoit ;
 
 2° Dans le cas de contrats de travail temporaire conclus dans le cadre de
-l'article L. 124-21 ;
+l'article L. 124-21 ou de l'article L. 322-4-15-4 ;
 
 3° Si le contrat est rompu à l'initiative du salarié, pour faute grave de
 celui-ci ou en cas de force majeure.

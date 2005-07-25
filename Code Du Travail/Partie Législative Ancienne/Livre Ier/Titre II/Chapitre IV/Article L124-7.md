@@ -29,7 +29,8 @@ contrat de travail temporaire est conclu pour assurer le remplacement d'un
 salarié temporairement absent ou dont le contrat de travail est suspendu, en cas
 de nouvelle absence du salarié remplacé. Il en est de même lorsque le contrat de
 travail temporaire est conclu pour l'exécution de travaux urgents nécessités par
-des mesures de sécurité et au titre des 3°, 4° et 5° de l'article L. 124-2-1.
+des mesures de sécurité et au titre des 3°, 4° et 5° de l'article L. 124-2-1 ou
+au titre de l'article L. 322-4-15-4.
 
 Elles ne sont pas non plus applicables en cas de rupture anticipée du fait du
 salarié, et en cas de refus par le salarié du renouvellement de son contrat,

@@ -23,6 +23,9 @@ l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garan
 par le fonds de garantie de l'accession sociale à la propriété mentionné au
 troisième alinéa de l'article L. 312-1 ;
 
+2° ter Assure, dans des conditions fixées par convention avec l'Etat, le
+financement des aides prévues au g de l'article L. 313-1 ;
+
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins
 mentionnées au 2°. Ces recommandations ne peuvent déroger aux conventions
 ci-dessus mentionnées ;

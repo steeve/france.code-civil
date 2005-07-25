@@ -4,13 +4,16 @@ Une convention ou un accord collectif de branche étendu ou une convention ou un
 accord d'entreprise ou d'établissement peut faire varier en deçà de sept jours,
 jusqu'à un minimum de trois jours ouvrés, le délai prévu au premier alinéa de
 l'article L. 212-4-3, dans lequel la modification de la répartition de la durée
-du travail doit être notifiée au salarié. La convention ou l'accord collectif de
-branche étendu ou la convention ou l'accord d'entreprise ou d'établissement doit
-prévoir des contreparties apportées au salarié lorsque le délai de prévenance
-est réduit en deçà de sept jours ouvrés. Cet accord ou cette convention peut
-également porter jusqu'au tiers de la durée stipulée au contrat la limite dans
-laquelle peuvent être effectuées des heures complémentaires, fixée au deuxième
-alinéa du même article.
+du travail doit être notifiée au salarié. Dans les associations et entreprises
+d'aide à domicile, ce délai peut être inférieur pour les cas d'urgence définis
+par convention ou accord collectif de branche étendu ou par convention ou accord
+d'entreprise ou d'établissement. La convention ou l'accord collectif de branche
+étendu ou la convention ou l'accord d'entreprise ou d'établissement doit prévoir
+des contreparties apportées au salarié lorsque le délai de prévenance est réduit
+en deçà de sept jours ouvrés. Cet accord ou cette convention peut également
+porter jusqu'au tiers de la durée stipulée au contrat la limite dans laquelle
+peuvent être effectuées des heures complémentaires, fixée au deuxième alinéa du
+même article.
 
 L'accord collectif permettant les dérogations prévues au premier alinéa doit
 comporter des garanties relatives à la mise en oeuvre, pour les salariés à temps

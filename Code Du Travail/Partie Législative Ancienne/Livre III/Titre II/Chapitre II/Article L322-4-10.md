@@ -3,8 +3,8 @@ Article L322-4-10
 Il est institué un contrat de travail dénommé "contrat d'avenir", destiné à
 faciliter l'insertion sociale et professionnelle des personnes bénéficiant,
 depuis une durée fixée par décret en Conseil d'Etat, du revenu minimum
-d'insertion, de l'allocation spécifique de solidarité ou de l'allocation de
-parent isolé.
+d'insertion, de l'allocation spécifique de solidarité, de l'allocation de parent
+isolé ou de l'allocation aux adultes handicapés.
 
 Les contrats d'avenir portent sur des emplois visant à satisfaire des besoins
 collectifs non satisfaits.
@@ -12,13 +12,16 @@ collectifs non satisfaits.
 Le département ou la commune de résidence du bénéficiaire ou, le cas échéant,
 l'établissement public de coopération intercommunale auquel appartient la
 commune est chargé d'assurer la mise en oeuvre du contrat d'avenir dans les
-conditions fixées aux articles L. 322-4-11 à L. 322-4-13.
+conditions fixées aux articles L. 322-4-11 à L. 322-4-13. Pour les bénéficiaires
+de l'allocation spécifique de solidarité, de l'allocation de parent isolé ou de
+l'allocation aux adultes handicapés, l'Etat peut, dans les mêmes conditions,
+assurer la mise en oeuvre du contrat d'avenir.
 
 Le département ou la commune de résidence du bénéficiaire ou, le cas échéant,
 l'établissement public de coopération intercommunale auquel appartient la
 commune peut, par convention, confier à la maison de l'emploi, au plan local
 pluriannuel pour l'insertion et l'emploi ou à la mission locale la mise en
-oeuvre des contrats d'avenir conclus pour les habitants de son ressort.
+oeuvre des contrats d'avenir.
 
 Dans chaque département, une commission de pilotage coordonne la mise en oeuvre
 du contrat d'avenir et organise les modalités du suivi personnalisé des

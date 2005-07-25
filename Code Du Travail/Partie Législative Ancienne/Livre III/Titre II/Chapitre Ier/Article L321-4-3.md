@@ -5,8 +5,7 @@ ainsi que dans les entreprises visées à l'article L. 439-6 et celles visées �
 l'article L. 439-1 dès lors qu'elles occupent ensemble au moins mille salariés,
 l'employeur qui envisage de prononcer un licenciement pour motif économique est
 tenu de proposer à chaque salarié concerné un congé de reclassement, dont la
-durée ne peut exéder neuf mois. Lorsque le salarié refuse ce congé, l'employeur
-est tenu de lui proposer le bénéfice des mesures prévues à l'article L. 321-4-2.
+durée ne peut exéder neuf mois.
 
 Le congé de reclassement a pour objet de permettre au salarié de bénéficier
 d'actions de formation et des prestations d'une cellule d'accompagnement des

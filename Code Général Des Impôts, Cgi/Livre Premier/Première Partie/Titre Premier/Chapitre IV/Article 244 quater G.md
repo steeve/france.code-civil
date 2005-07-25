@@ -25,4 +25,4 @@ l'article 156.
 
 IV. - Le nombre moyen annuel d'apprentis mentionné au I s'apprécie en fonction
 du nombre d'apprentis dont le contrat avec l'entreprise a été conclu depuis au
-moins six mois.
+moins un mois.

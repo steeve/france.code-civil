@@ -10,9 +10,11 @@ dans le cadre d'un enseignement alterné ou du déroulement de leur scolarité.
 
 A titre exceptionnel, des dérogations aux dispositions du premier alinéa peuvent
 être accordées par l'inspecteur du travail pour les établissements commerciaux
-et ceux du spectacle. En ce qui concerne les professions de la boulangerie, de
-la restauration et de l'hôtellerie, un décret en Conseil d'Etat détermine les
-conditions dans lesquelles ces dérogations peuvent être accordées.
+et ceux du spectacle. Un décret en Conseil d'Etat détermine en outre la liste
+des secteurs pour lesquels les caractéristiques particulières de l'activité
+justifient une dérogation. Une convention ou un accord collectif étendu ou une
+convention ou un accord d'entreprise ou d'établissement peut définir les
+conditions dans lesquelles celle-ci peut être accordée.
 
 Sous réserve des dispositions de l'article L. 213-10, il ne peut être accordé de
 dérogation pour l'emploi des jeunes travailleurs mentionnés au premier alinéa

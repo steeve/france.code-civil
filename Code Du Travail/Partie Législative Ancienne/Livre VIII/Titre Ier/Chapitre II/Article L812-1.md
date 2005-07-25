@@ -1,8 +1,9 @@
 Article L812-1
 ----
-L'article L. 129-2, à l'exception de son avant-dernier alinéa, n'est pas
-applicable dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon. Dans
-ces départements et dans cette collectivité, il est créé un titre de travail
+Les dispositions des articles L. 129-5 à L. 129-12 s'appliquent dans les
+départements d'outre-mer et à Saint-Pierre-et-Miquelon lorsque le chèque
+emploi-service universel a la nature d'un titre spécial de paiement. Dans ces
+départements et dans cette collectivité, il est créé un titre de travail
 simplifié pour assurer la rémunération et pour la déclaration en vue du paiement
 des cotisations sociales :
 
@@ -35,8 +36,8 @@ durée indéterminée.
 Les titres de travail simplifiés sont émis et délivrés par les établissements de
 crédit ou par les institutions ou services énumérés à l'article 8 de la loi n°
 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements
-de crédit, dans le cadre de la convention prévue à l'avant-dernier alinéa de
-l'article L. 129-2.
+de crédit, dans le cadre de la convention prévue au premier alinéa de l'article
+L. 129-7.
 
 Les cotisations sociales d'origine légale ou conventionnelle imposées par la loi
 dues au titre des rémunérations versées aux salariés visés au présent article

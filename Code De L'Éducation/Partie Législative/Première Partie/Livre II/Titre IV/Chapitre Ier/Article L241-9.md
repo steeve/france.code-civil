@@ -9,7 +9,10 @@ de l'enseignement supérieur, par des enseignants-chercheurs. Pour
 l'apprentissage agricole, elle est assurée par les inspecteurs de l'enseignement
 agricole ou, à défaut, par des fonctionnaires chargés d'inspection. Ces
 fonctionnaires sont commissionnés par le ministre chargé de l'éducation
-nationale ou par le ministre chargé de l'agriculture.
+nationale ou par le ministre chargé de l'agriculture. Pour le secteur de la
+jeunesse et des sports, l'inspection de l'apprentissage est assurée par des
+inspecteurs de la jeunesse et des sports, commissionnés à cet effet par leur
+ministre.
 
 L'inspection de l'apprentissage peut être exercée conjointement, en tant que de
 besoin, par d'autres fonctionnaires, commissionnés en raison de leurs

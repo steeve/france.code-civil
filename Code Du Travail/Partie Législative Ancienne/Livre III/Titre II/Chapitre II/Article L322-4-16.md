@@ -9,7 +9,9 @@ spécifiques d'accueil et d'accompagnement.
 L'Etat peut, après consultation des partenaires locaux réunis au sein du conseil
 départemental de l'insertion par l'activité économique institué à l'article L.
 322-4-16-4, conclure des conventions avec les employeurs dont l'activité a
-spécifiquement cet objet. Ces conventions peuvent prévoir des aides de l'Etat.
+spécifiquement cet objet et avec les communes ou les établissements publics de
+coopération intercommunale disposant de la compétence action sociale d'intérêt
+communautaire. Ces conventions peuvent prévoir des aides de l'Etat.
 
 II. - Lorsque des conventions mentionnées au I sont conclues avec des personnes
 morales de droit privé produisant des biens et services en vue de leur

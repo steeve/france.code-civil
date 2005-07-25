@@ -38,6 +38,11 @@ ci-dessus ;
 2. Dans les huit jours suivant la réception des relevés visés aux 2 et 4
 ci-dessus.
 
+Par dérogation aux dispositions des trois alinéas précédents, l'avance des
+contributions de l'employeur au financement de la convention de reclassement
+personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux
+organismes gestionnaires mentionnés à l'article L. 351-21.
+
 Le représentant des créanciers reverse immédiatement les sommes qu'il a reçues
 aux salariés et organismes créanciers, à l'exclusion des créanciers subrogés, et
 en informe le représentant des salariés.

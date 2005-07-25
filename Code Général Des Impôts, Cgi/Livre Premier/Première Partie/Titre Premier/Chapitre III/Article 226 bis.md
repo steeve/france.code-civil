@@ -16,7 +16,7 @@ définie au premier alinéa de l'article 227 du code général des impôts. Le
 montant de ce concours est au moins égal, dans la limite de la fraction de la
 taxe réservée à l'apprentissage, au coût par apprenti fixé par la convention de
 création du centre de formation d'apprentis ou de la section d'apprentissage,
-tel que défini au septième alinéa de l'article L. 118-2-2 du code du travail.
+tel que défini au huitième alinéa de l'article L. 118-2-2 du code du travail.
 
 En application de l'article L. 118-2-1 du code du travail, les concours
 financiers apportés aux écoles d'enseignement technologique et professionnel qui

@@ -20,7 +20,12 @@ travail ;
 d. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû
 engager des frais exceptionnels de garde d'enfants à la suite d'une obligation
 professionnelle imprévisible survenant en dehors des horaires habituels de
-travail, dans la limite des frais réellement engagés.
+travail, dans la limite des frais réellement engagés ;
+
+e.
+
+f. Des dépenses engagées au titre de l'aide financière de l'entreprise
+mentionnée à l'article L. 129-13 du code du travail (1).
 
 II. - Les subventions publiques reçues par les entreprises à raison des dépenses
 ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.

@@ -3,13 +3,15 @@ Article L212-4-3
 Le contrat de travail des salariés à temps partiel est un contrat écrit. Il
 mentionne la qualification du salarié, les éléments de la rémunération, la durée
 hebdomadaire ou, le cas échéant, mensuelle prévue et, sauf pour les salariés des
-associations d'aide à domicile, la répartition de la durée du travail entre les
-jours de la semaine ou les semaines du mois. Il définit en outre les cas dans
-lesquels une modification éventuelle de cette répartition peut intervenir ainsi
-que la nature de cette modification. Toute modification doit être notifiée au
-salarié sept jours au moins avant la date à laquelle elle doit avoir lieu. Le
-contrat de travail détermine également les modalités selon lesquelles les
-horaires de travail pour chaque journée travaillée sont communiqués par écrit au
+associations et entreprises d'aide à domicile, la répartition de la durée du
+travail entre les jours de la semaine ou les semaines du mois. Il définit en
+outre les cas dans lesquels une modification éventuelle de cette répartition
+peut intervenir ainsi que la nature de cette modification. Toute modification
+doit être notifiée au salarié sept jours au moins avant la date à laquelle elle
+doit avoir lieu. Le contrat de travail détermine également les modalités selon
+lesquelles les horaires de travail pour chaque journée travaillée sont
+communiqués par écrit au salarié. Dans les associations et entreprises d'aide à
+domicile, les horaires de travail sont communiqués par écrit chaque mois au
 salarié.
 
 Le contrat de travail précise par ailleurs les limites dans lesquelles peuvent

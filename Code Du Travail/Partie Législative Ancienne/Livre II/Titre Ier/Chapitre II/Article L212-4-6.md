@@ -36,6 +36,11 @@ date à laquelle le salarié en a été informé ; ce délai peut être ramené 
 jours par convention ou accord collectif de branche étendu ou convention ou
 accord d'entreprise ou d'établissement.
 
+Dans les associations et entreprises d'aide à domicile, une convention ou un
+accord collectif de branche étendu ou une convention ou un accord d'entreprise
+ou d'établissement peut déroger aux dispositions du 6° et, pour les cas
+d'urgence, du 8°.
+
 Par dérogation aux dispositions des articles L. 143-2 et L. 144-2, la convention
 ou l'accord peut prévoir que la rémunération versée mensuellement aux salariés
 est indépendante de l'horaire réel et est calculée dans les conditions prévues

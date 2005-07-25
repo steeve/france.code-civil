@@ -31,8 +31,7 @@ prévues à l'article L. 991-8.
 Les sommes indûment collectées utilisées ou conservées et celles correspondant à
 des emplois de fonds non conformes aux obligations résultant du présent titre
 donnent lieu à un versement d'égal montant au Trésor public. Les décisions de
-versement au Trésor public sont prises par le ministre chargé de la formation
-professionnelle.
+versement au Trésor public sont prises par l'autorité compétente de l'Etat.
 
 Les versements au Trésor public mentionnés au présent article sont recouvrés
 selon les modalités ainsi que sous les sûretés, garanties et pénalités
@@ -43,5 +42,5 @@ Les manquements constatés aux dispositions législatives et réglementaires
 applicables aux organismes collecteurs ou aux conditions prévues par la décision
 d'habilitation prise en application de l'article L. 118-2-4 dans le cadre de la
 procédure de contrôle mentionnée au présent article peuvent donner lieu à une
-mise en demeure ou à un retrait de l'habilitation par le ministre chargé de la
-formation professionnelle.
+mise en demeure ou à un retrait de l'habilitation par l'autorité compétente de
+l'Etat.
