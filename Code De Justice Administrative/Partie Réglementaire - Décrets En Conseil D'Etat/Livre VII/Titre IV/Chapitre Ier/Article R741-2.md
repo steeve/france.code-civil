@@ -1,6 +1,9 @@
 Article R741-2
 ----
-La décision mentionne que l'audience a été publique.
+La décision mentionne que l'audience a été publique, sauf s'il a été fait
+application des dispositions de l'article L. 731-1. Dans ce dernier cas, il est
+mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du
+public.
 
 Elle contient le nom des parties, l'analyse des conclusions et mémoires ainsi
 que les visas des dispositions législatives ou réglementaires dont elle fait

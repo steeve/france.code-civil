@@ -11,3 +11,18 @@ Lorsque le pourvoi est irrecevable pour défaut de ministère d'avocat ou entach
 d'une irrecevabilité manifeste non susceptible d'être couverte en cours
 d'instance, le président de la sous-section peut décider par ordonnance de ne
 pas l'admettre.
+
+Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de la
+sous-section peut également décider par ordonnance de ne pas admettre :
+
+1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation
+ou qualification de faits, présentent à juger en droit des questions identiques
+à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble
+par une même décision ou examinées ensemble par un même avis rendu en
+application de l'article L. 113-1 ;
+
+2° Les pourvois dirigés contre les ordonnances prises en application de
+l'article R. 222-1 ;
+
+3° Les pourvois dirigés contre les ordonnances prises en application de
+l'article L. 522-3.
