@@ -17,7 +17,10 @@ du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
 l'aménagement et la mise en valeur des terres mises à leur disposition par
 l'Etat, les ont exploitées directement à des fins exclusivement agricoles et qui
 s'engagent à les maintenir à cet usage pendant trente ans à compter de la date
-de transfert de propriété.
+de transfert de propriété. Pour bénéficier, dans les mêmes conditions, des
+dispositions du présent alinéa les agriculteurs qui exploitent ces terres sans
+titre régulier doivent présenter une demande dans un délai fixé par décret en
+Conseil d'Etat.
 
 Les dispositions du présent article sont applicables aux personnes morales dont
 l'objet est essentiellement agricole et dont plus de 50 % du capital social est
