@@ -8,3 +8,6 @@ de l'article L. 511-12-1, les mots : "ou celle rendue par la Commission
 européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21
 décembre 1989 relatif au contrôle des opérations de concentration entre
 entreprises" sont supprimés.
+
+A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont
+remplacés par les mots : "arrêté du ministre chargé de l'économie".

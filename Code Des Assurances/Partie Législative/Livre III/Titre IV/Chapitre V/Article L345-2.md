@@ -4,11 +4,14 @@ Les entreprises soumises au contrôle de l'Etat en application de l'article L.
 310-1 et ayant leur siège social en France, les entreprises mentionnées à
 l'article L. 310-1-1, les sociétés de groupe d'assurance définies à l'article L.
 322-1-2 et les compagnies financières holding mixtes définies au 9° de l'article
-L. 334-2 doivent établir et publier des comptes consolidés dans des conditions
-définies par règlement du Comité de la réglementation comptable. Les entreprises
-qui sont incluses par intégration globale dans les comptes consolidés d'une
-entreprise elle-même soumise à une obligation de consolidation en application du
-présent alinéa ne sont toutefois pas soumises à cette obligation.
+L. 334-2 établissent et publient des comptes consolidés ou combinés selon les
+règles définies par règlement du Comité de la réglementation comptable.
+Toutefois, elles sont dispensées de se conformer à ces règles lorsqu'elles
+utilisent les normes comptables internationales adoptées par règlement de la
+Commission européenne. Les entreprises qui sont incluses par intégration globale
+dans les comptes consolidés d'une entreprise elle-même soumise à une obligation
+de consolidation en application du présent alinéa ne sont toutefois pas soumises
+à cette obligation.
 
 Lorsque la Commission de contrôle des assurances considère que les comptes
 consolidés d'une société de groupe d'assurance ne permettent pas de porter une
