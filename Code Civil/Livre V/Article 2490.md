@@ -3,9 +3,8 @@ Article 2490
 Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont
 remplacés comme suit :
 
-1° "Tribunal de grande instance" ou "tribunal d'instance" par :
-
-"tribunal de première instance" ;
+1° "Tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de
+première instance" ;
 
 2° "Cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
 
@@ -14,4 +13,17 @@ délégué" ;
 
 4° "Département" ou "arrondissement" par : "collectivité départementale" ;
 
-5° (Supprimé).
+5° (Supprimé) ;
+
+6° "Décret du 4 janvier 1955" par : "dispositions du titre IV du livre IV" ;
+
+7° "Bureau des hypothèques" ou "conservation des hypothèques" par : "service de
+la conservation de la propriété immobilière" ;
+
+8° "Conservateur des hypothèques" par : "conservateur de la propriété
+immobilière" ;
+
+9° "Inscription à la conservation des hypothèques" par : "inscription au livre
+foncier" ;
+
+10° "Fichier immobilier" par : "livre foncier".
