@@ -4,9 +4,11 @@ L'habilitation prévue à l'article L. 2573-10 peut être suspendue pour une dur
 maximum d'un an ou retirée, après mise en demeure, par le représentant de l'Etat
 à Mayotte, pour les motifs suivants :
 
-1° Non-respect des conditions auxquelles était soumise sa délivrance ;
+1° Non-respect des dispositions du présent chapitre auxquelles sont soumises les
+régies, entreprises ou associations habilitées conformément aux dispositions de
+l'article L. 2573-10 ;
 
-2° Non-respect du règlement des pompes funèbres applicable à Mayotte ;
+2° Alinéa abrogé ;
 
 3° Non-exercice ou cessation d'exercice des activités au titre desquelles elle a
 été délivrée ;

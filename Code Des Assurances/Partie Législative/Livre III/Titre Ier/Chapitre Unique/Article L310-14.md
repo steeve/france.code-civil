@@ -7,13 +7,17 @@ holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes mentionné
 au cinquième alinéa de l'article L. 310-12 toutes informations nécessaires à
 l'exercice de sa mission.
 
-Elle peut également leur demander la communication des rapports des commissaires
-aux comptes et, d'une manière générale, de tous documents comptables dont elle
-peut, en tant que de besoin, demander la certification. Elle peut demander
-communication des documents à caractère contractuel ou publicitaire. Elle peut
-exiger la modification ou décider le retrait de tout document contraire aux
-dispositions législatives ou réglementaires. Dans ce cas, elle statue dans les
-conditions prévues à l'article L. 310-18.
+Elle peut leur demander la communication des rapports des commissaires aux
+comptes et, d'une manière générale, de tous documents comptables dont elle peut,
+en tant que de besoin, demander la certification. Elle peut demander la
+certification des retraitements opérés, selon des modalités fixées par voie
+réglementaire, pour le calcul de la marge de solvabilité ajustée des entreprises
+appliquant les normes comptables internationales adoptées par règlement de la
+Commission européenne. Elle peut demander communication des documents à
+caractère contractuel ou publicitaire. Elle peut exiger la modification ou
+décider le retrait de tout document contraire aux dispositions législatives ou
+réglementaires. Dans ce cas, elle statue dans les conditions prévues à l'article
+L. 310-18.
 
 Elle vérifie que les publications auxquelles sont astreintes les entreprises
 visées aux articles L. 310-1 et L. 310-1-1 et les sociétés de groupe d'assurance

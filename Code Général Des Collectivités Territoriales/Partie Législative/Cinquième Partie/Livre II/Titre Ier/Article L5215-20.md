@@ -59,7 +59,8 @@ b) Dispositifs locaux de prévention de la délinquance ;
 
 a) Assainissement et eau ;
 
-b) Création et extension des cimetières créés, crématoriums ;
+b) Création, extension et translation des cimetières et sites cinéraires hors de
+l'emprise des cimetières ainsi que création et extension des crématoriums ;
 
 c) Abattoirs, abattoirs marchés et marchés d'intérêt national ;
 
