@@ -1,20 +1,31 @@
 Article L5124-14
 ----
-Pour la réalisation de son objet, le Laboratoire français du fractionnement et
-des biotechnologies peut créer des filiales et prendre des participations dans
-des groupements ou personnes morales, quel que soit leur statut juridique.
+La société anonyme dénommée "Laboratoire français du fractionnement et des
+biotechnologies" exerce des activités de recherche, de production et de
+commercialisation des médicaments dérivés du sang, des médicaments susceptibles
+de se substituer aux médicaments dérivés du sang et des produits de santé issus
+des biotechnologies. Son capital est détenu en majorité par l'Etat ou ses
+établissements publics.
 
-Seuls l'établissement public industriel et commercial dénommé Laboratoire
-français du fractionnement et des biotechnologies ainsi que les groupements ou
-personnes morales mentionnés à l'alinéa précédent peuvent préparer les
-médicaments mentionnés à l'article L. 5121-3 à partir du sang ou de ses
-composants collectés par les établissements de transfusion sanguine. Ils
-exercent également des activités de recherche et de production concernant les
-médicaments susceptibles de se substituer aux produits dérivés du sang et des
-produits de biotechnologie.
+Les activités relatives aux médicaments dérivés du sang, issus du fractionnement
+du plasma, sont exercées exclusivement par une filiale, au sens de l'article L.
+233-1 du code de commerce, créée à cet effet. Le capital de cette filiale est
+détenu, directement ou indirectement, majoritairement par l'Etat ou par ses
+établissements publics. Seule cette filiale peut fabriquer des médicaments
+mentionnés à l'article L. 5121-3 du code de la santé publique, à partir du sang
+ou de ses composants collectés par l'Etablissement français du sang. Toutefois,
+elle peut sous-traiter certaines des étapes concourant à la fabrication de ces
+médicaments, à l'exception de la libération des lots. Les médicaments fabriqués
+par cette filiale sont libérés sous le contrôle de son pharmacien responsable.
 
-La libération des médicaments mentionnés à l'article L. 5121-3 au sein des
-groupements et personnes morales mentionnés au premier alinéa du présent article
-s'effectue sous le contrôle du pharmacien responsable du Laboratoire français du
-fractionnement et des biotechnologies mentionné au deuxième alinéa de l'article
-L. 5124-15.
+Une personne morale ayant pour objet l'activité de collecte de sang ou de ses
+composants ne peut pas détenir de participation directe ou indirecte dans la
+société anonyme "Laboratoire français du fractionnement et des biotechnologies"
+et dans les sociétés contrôlées par celle-ci au sens de l'article L. 233-3 du
+code de commerce.
+
+La société anonyme "Laboratoire français du fractionnement et des
+biotechnologies" et les sociétés contrôlées par celle-ci au sens de l'article L.
+233-3 du code de commerce ne peuvent pas détenir de participation directe ou
+indirecte dans une personne morale ayant pour objet l'activité de collecte de
+sang ou de ses composants.

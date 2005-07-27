@@ -1,21 +1,16 @@
 Article L5124-16
 ----
-Le Laboratoire français du fractionnement et des biotechnologies est soumis à un
-régime financier et comptable adapté à sa mission. Les recettes du Laboratoire
-français du fractionnement et des biotechnologies sont constituées par :
+Sous réserve des dispositions applicables aux sociétés dans lesquelles l'Etat
+détient directement ou indirectement tout ou partie du capital, la société
+"Laboratoire français du fractionnement et des biotechnologies" est régie par
+les dispositions du code de commerce applicables aux sociétés anonymes.
 
-- les ressources tirées de son activité industrielle et commerciale ;
+Si les statuts prévoient que la direction générale de la société est assumée
+sous sa responsabilité par un directeur général au sens de l'article L. 225-51-1
+du code de commerce, ce dernier est nommé par décret sur proposition du
+président du conseil d'administration.
 
-- des produits divers, des dons et legs ainsi que des subventions de
-fonctionnement et d'équipement de l'Etat ou d'autres organismes publics et
-privés ;
-
-- des emprunts.
-
-La loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur
-public lui est applicable.
-
-Les membres du conseil d'administration visés aux 1° et 2° de l'article 5 de la
-loi n° 83-675 du 26 juillet 1983 précitée sont nommés par arrêté. Parmi les six
-personnalités qualifiées, sont désignés un représentant des associations de
-donneurs de sang et un représentant des usagers du système de santé.
+Les associations de donneurs de sang sont représentées au conseil
+d'administration de la filiale de la société anonyme "Laboratoire français du
+fractionnement et des biotechnologies" mentionnée au second alinéa de l'article
+L. 5124-14 du code de la santé publique.
