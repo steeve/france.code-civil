@@ -7,5 +7,3 @@ forêts commissionnés par le représentant du Gouvernement.
 
 Les procès-verbaux font foi jusqu'à preuve contraire. Ils sont transmis dans les
 délais prévus par le livre III.
-
-L'article L. 428-26 est applicable à ces agents.

@@ -1,18 +1,36 @@
 Article L651-1
 ----
-Pour l'application à Mayotte des dispositions du présent code, il y a lieu de
-lire :
+Le présent code est applicable à Mayotte sous réserve des adaptations prévues
+par le présent titre.
 
-- collectivité départementale de Mayotte pour département ;
+Pour l'application à Mayotte des dispositions du présent code :
 
-- directeur de l'agriculture pour directeur départemental de l'agriculture et de
-la forêt ;
+1° Les références au département, au département d'outre-mer ou à la région sont
+remplacées par la référence à la collectivité départementale de Mayotte ;
 
-- direction de l'agriculture pour direction de l'agriculture et de la forêt ;
+2° La référence aux conseils généraux ou au conseil régional est remplacée par
+la référence au conseil général de Mayotte ;
 
-- tribunal de première instance pour tribunal d'instance et tribunal de grande
-instance ;
+3° Les mots : "président du conseil régional" sont remplacés par les mots :
+"président du conseil général" ;
 
-- tribunal supérieur d'appel pour cour d'appel ;
+4° Les mots : "représentant de l'Etat dans le département", "préfet", "préfet de
+région" ou "préfet coordonnateur de bassin" sont remplacés par les mots :
+"représentant de l'Etat à Mayotte" ;
 
-- code des communes pour code général des collectivités territoriales.
+5° La référence à la direction départementale de l'agriculture et de la forêt
+est remplacée par la référence à la direction de l'agriculture et de la forêt ;
+
+6° Les mots : "administrateur des affaires maritimes" sont remplacés par les
+mots : "chef du service des affaires maritimes" ;
+
+7° Les mots : "tribunal d'instance" ou "tribunal de grande instance" sont
+remplacés par les mots : "tribunal de première instance" ;
+
+8° Les mots : "cour d'appel" sont remplacés par les mots :
+
+"tribunal supérieur d'appel".
+
+Les références à des dispositions non applicables dans la collectivité sont
+remplacées par les références aux dispositions ayant le même objet applicable
+localement.

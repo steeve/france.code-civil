@@ -1,9 +1,4 @@
 Article L655-4
 ----
-Pour son application à Mayotte, le troisième alinéa de l'article L. 515-11 est
-ainsi rédigé :
-
-" Le préjudice est estimé à la date de la décision de première instance.
-Toutefois, est seul pris en considération l'usage possible des immeubles et
-droits immobiliers un an avant la mise à la disposition du public prévue à
-l'article L. 515-9. "
+Pour l'application de l'article L. 541-10-1 à Mayotte, les mots : " 1er janvier
+2005 " sont remplacés par les mots : " 1er janvier 2010 ".

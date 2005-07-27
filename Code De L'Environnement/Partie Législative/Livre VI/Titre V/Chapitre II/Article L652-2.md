@@ -1,7 +1,7 @@
 Article L652-2
 ----
-Le représentant du Gouvernement assure la conservation, la gestion et la police
-des eaux superficielles et souterraines sur le territoire de Mayotte.
+Le représentant de l'Etat assure la conservation, la gestion et la police des
+eaux superficielles et souterraines sur le territoire de Mayotte.
 
 Il prescrit les dispositions propres à maintenir le libre écoulement et la
 répartition des eaux ainsi qu'à préserver la sécurité et la salubrité publique.
