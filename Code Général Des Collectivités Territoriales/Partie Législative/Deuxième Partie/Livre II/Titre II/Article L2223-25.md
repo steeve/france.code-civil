@@ -1,14 +1,15 @@
 Article L2223-25
 ----
-- L'habilitation prévue à l'article L. 2223-23 peut être suspendue pour une
-durée maximum d'un an ou retirée, après mise en demeure, par le représentant de
-l'Etat dans le département où les faits auront été constatés, pour les motifs
-suivants :
+L'habilitation prévue à l'article L. 2223-23 peut être suspendue pour une durée
+maximum d'un an ou retirée, après mise en demeure, par le représentant de l'Etat
+dans le département où les faits auront été constatés, pour les motifs suivants
+:
 
-1° Non-respect des conditions auxquelles était soumise sa délivrance, définies
-en application des dispositions des articles L. 2223-23 et L. 2223-24 ;
+1° Non-respect des dispositions du présent code auxquelles sont soumises les
+régies, entreprises ou associations habilitées conformément à l'article L.
+2223-23 ;
 
-2° Non-respect du règlement national des pompes funèbres ;
+2° Abrogé
 
 3° Non-exercice ou cessation d'exercice des activités au titre desquelles elle a
 été délivrée ;

@@ -1,6 +1,6 @@
 Article L2223-19
 ----
-- Le service extérieur des pompes funèbres est une mission de service public
+Le service extérieur des pompes funèbres est une mission de service public
 comprenant :
 
 1° Le transport des corps avant et après mise en bière ;
@@ -12,7 +12,7 @@ comprenant :
 4° La fourniture des housses, des cercueils et de leurs accessoires intérieurs
 et extérieurs ainsi que des urnes cinéraires ;
 
-5° La fourniture des tentures extérieures des maisons mortuaires ;
+5° Alinéa supprimé
 
 6° La gestion et l'utilisation des chambres funéraires ;
 
