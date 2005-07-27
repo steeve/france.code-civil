@@ -1,21 +1,17 @@
 Article L313-2
 ----
-A compter de la décision administrative ou du décret en Conseil d'Etat
-délimitant un secteur sauvegardé, tout travail ayant pour effet de modifier
-l'état des immeubles est soumis soit à autorisation dans les conditions et
-formes prévues pour le permis de construire, soit à autorisation spéciale pour
-les travaux qui ne ressortissent pas au permis de construire. Cette autorisation
-ne peut être délivrée que si les travaux sont compatibles avec le plan de
-sauvegarde et de mise en valeur.
+A compter de la publication de la décision administrative créant le secteur
+sauvegardé, tout travail ayant pour effet de modifier l'état des immeubles est
+soumis à permis de construire ou à déclaration, dans les conditions prévues par
+le livre IV, après accord de l'architecte des Bâtiments de France. Cet accord
+est réputé donné à l'expiration d'un délai fixé par décret en Conseil d'Etat.
+L'autorisation délivrée énonce les prescriptions auxquelles le pétitionnaire
+doit se conformer.
 
-Pendant la période comprise entre la délimitation du secteur sauvegardé et
-l'intervention de l'acte rendant public un plan de sauvegarde et de mise en
-valeur, les travaux de la nature de ceux qui sont indiqués ci-dessus peuvent
-faire l'objet d'un sursis à statuer dans les conditions et délai prévus à
-l'article L. 111-8.
-
-L'autorisation énonce les prescriptions auxquelles le propriétaire doit se
-conformer.
+A compter de la publication de la décision prescrivant l'élaboration d'un plan
+de sauvegarde et de mise en valeur ou sa révision, les travaux de la nature de
+ceux qui sont indiqués ci-dessus peuvent faire l'objet d'un sursis à statuer
+dans les conditions et délais prévus à l'article L. 111-8.
 
 En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et,
 d'autre part, soit le maire ou l'autorité compétente pour délivrer
