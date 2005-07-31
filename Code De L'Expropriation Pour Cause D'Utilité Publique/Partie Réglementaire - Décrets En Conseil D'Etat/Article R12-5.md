@@ -7,5 +7,5 @@ La notification de l'ordonnance doit reproduire les termes de l'article L. 12-5
 du présent code et des articles 612 et 973 du nouveau code de procédure civile.
 
 Les frais et dépens afférents à l'ordonnance d'expropriation et au pourvoi en
-cassation contre celle-ci sont déterminés dans les conditions prévues aux
-articles R. 13-54 et R. 13-55.
+cassation contre celle-ci sont déterminés dans les conditions prévues à la
+section V du présent chapitre.

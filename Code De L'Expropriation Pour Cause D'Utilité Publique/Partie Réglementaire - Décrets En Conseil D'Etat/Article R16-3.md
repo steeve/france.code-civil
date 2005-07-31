@@ -1,7 +1,11 @@
 Article R16-3
 ----
-En ce qui concerne les aménagements hydroélectriques soumis au régime de la
-concession par application de la loi du 16 octobre 1919, un décret en Conseil
-d'Etat précise les conditions d'instruction de la demande de concession pour les
-mettre en harmonie avec les dispositions du chapitre Ier du présent titre
-(partie réglementaire).
+Les dispositions du livre Ier du nouveau code de procédure civile s'appliquent
+devant les juridictions de l'expropriation sous réserve des dispositions
+particulières prévues par le présent code.
+
+Les dispositions particulières à la cour d'appel et à la Cour de cassation
+figurant respectivement au titre VI et au chapitre Ier du titre VII du livre II
+du nouveau code de procédure civile s'appliquent devant les juridictions de
+l'expropriation sous réserve des dispositions particulières prévues par le
+présent code.

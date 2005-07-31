@@ -1,12 +1,11 @@
 Article R13-44
 ----
 Lorsque l'expropriation porte sur la totalité des biens ayant fait l'objet de la
-mutation [*récente*] de référence, l'indemnité principale [*calcul*] ne peut
-excéder l'estimation faite par les services fiscaux (domaine), ou celle
-résultant de l'avis émis par la commission des opérations immobilières si la
-mutation visée à l'article L. 13-17 a donné lieu à une déclaration ou à une
-évaluation administrative, réévaluée, le cas échéant, dans les conditions
-prévues à l'article R. 13-43, d'un montant inférieur à ladite estimation.
+mutation de référence, l'indemnité principale ne peut excéder l'estimation faite
+par les services fiscaux (domaine), si la mutation visée à l'article L. 13-17 a
+donné lieu à une déclaration ou à une évaluation administrative, réévaluée, le
+cas échéant, dans les conditions prévues à l'article R. 13-43, d'un montant
+inférieur à ladite estimation.
 
 Il en est de même lorsque, l'expropriation ne portant que sur une partie des
 biens ayant fait l'objet de la mutation de référence, cette estimation est
