@@ -11,6 +11,7 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 4° L. 522-1 à L. 522-40 et L. 524-20 ;
 
-5° L. 711-5, L. 711-9, L. 713-6 à L. 713-10, L. 713-11 à L. 713-17 en tant
-qu'ils concernent les délégués consulaires ; L. 721-1, L. 721-2, L. 722-1 à L.
-724-7, L. 741-1 à L. 743-11, L. 750-1 à L. 761-11.
+5° L. 711-2 (4°), L. 711-4 (dernier alinéa), L. 711-6 à L. 711-10, L. 712-4, L.
+712-5, L. 713-6 à L. 713-10, L. 713-11 à L. 713-18 en tant qu'ils concernent les
+délégués consulaires ; L. 721-1, L. 721-2, L. 722-1 à L. 724-7, L. 741-1 à L.
+743-11, L. 750-1 à L. 761-11.
