@@ -1,9 +1,9 @@
 Article A510-3
 ----
 Les mutuelles et unions effectuent la vérification d'identité prévue par
-l'article 12 de la loi n° 90-614 du 12 juillet 1990 et par l'article 3 du décret
-n° 91-160 du 13 février 1991 avant la conclusion de toute opération relevant du
-b du 1° du I de l'article L. 111-1 dès lors que celle-ci donne lieu à la
+l'article 12 de la loi n° 90-614 du 12 juillet 1990 et par l'article R. 563-1 du
+code monétaire et financier avant la conclusion de toute opération relevant du b
+du 1° du I de l'article L. 111-1 dès lors que celle-ci donne lieu à la
 constitution d'une provision mathématique.
 
 Les dispositions du précédent alinéa ne sont pas applicables lorsque l'opération
@@ -15,6 +15,6 @@ l'obligation d'identification.
 
 Lorsqu'une mutuelle ou une union fait partie d'un groupe au sens de l'article L.
 212-7, elle peut, après information de l'organisme sur lequel pèse l'obligation
-de consolidation, désigner, pour l'application des articles 2 et 5 du décret n°
-91-160 du 13 février 1991, la ou les personnes spécialement habilitées à cet
-effet par un autre organisme du même ensemble.
+de consolidation, désigner, pour l'application des articles R. 562-1 et R. 562-2
+du code monétaire et financier, la ou les personnes spécialement habilitées à
+cet effet par un autre organisme du même ensemble.
