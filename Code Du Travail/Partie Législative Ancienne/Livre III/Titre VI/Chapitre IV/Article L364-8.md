@@ -1,7 +1,8 @@
 Article L364-8
 ----
 Les personnes physiques coupables des infractions prévues au deuxième alinéa de
-l'article L. 364-1 et aux articles L. 364-2, complémentaires suivantes :
+l'article L. 364-1 et aux articles L. 364-2, L. 364-3 et L. 364-5 encourent
+également les peines complémentaires suivantes :
 
 1° L'interdiction, pour une durée de cinq ans au plus, d'exercer directement ou
 par personne interposée l'activité professionnelle dans l'exercice ou à
