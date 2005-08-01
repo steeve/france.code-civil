@@ -1,8 +1,8 @@
 Article L114-6
 ----
-Les comptes des régimes et organismes de sécurité sociale doivent être
-réguliers, sincères et donner une image fidèle de leur patrimoine et de leur
-situation financière.
+Pour l'application du VII de l'article LO 111-3, les organismes nationaux et les
+organismes de base des régimes obligatoires de sécurité sociale respectent les
+dispositions prévues aux alinéas suivants.
 
 Les comptes annuels et infra-annuels des organismes de base de sécurité sociale,
 présentés par l'agent comptable, établis sous sa responsabilité et visés par le

@@ -1,6 +1,6 @@
 Article L111-11
 ----
-Chaque caisse nationale d'assurance maladie transmet avant le 30 juin de chaque
+Chaque caisse nationale d'assurance maladie transmet avant le 15 juin de chaque
 année au ministre chargé de la sécurité sociale et au Parlement des propositions
 relatives à l'évolution de ses charges et de ses produits au titre de l'année
 suivante et aux mesures nécessaires pour atteindre l'équilibre prévu par le
