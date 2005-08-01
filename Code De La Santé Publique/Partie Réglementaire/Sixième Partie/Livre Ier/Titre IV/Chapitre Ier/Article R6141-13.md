@@ -3,13 +3,13 @@ Article R6141-13
 En vue de composer le conseil d'administration du futur établissement devant
 résulter d'une transformation prévue à l'article R. 6141-11, le directeur chargé
 de la mise en place du nouvel établissement dans les conditions définies à
-l'article 26 du décret n° 2000-232 du 13 mars 2000 portant statut particulier
-des grades et emplois des personnels de direction des établissements mentionnés
-à l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée
-portant dispositions statutaires relatives à la fonction publique hospitalière
-procède, avant la date prévue pour la création de cet établissement, à la
-constitution de sa commission médicale, de son comité technique et de sa
-commission du service de soins infirmiers, de réadaptation et médico-techniques.
+l'article 26 du décret n° 2005-921 du 2 août 2005 portant statut particulier des
+grades et emplois des personnels de direction des établissements mentionnés à
+l'article 2 (1°, 2° et 3°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant
+dispositions statutaires relatives à la fonction publique hospitalière procède,
+avant la date prévue pour la création de cet établissement, à la constitution de
+sa commission médicale, de son comité technique et de sa commission du service
+de soins infirmiers, de réadaptation et médico-techniques.
 
 Sont électeurs, éligibles ou susceptibles d'être désignés aux instances
 susmentionnées l'ensemble des personnels des établissements concernés par la
