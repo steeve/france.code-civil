@@ -1,9 +1,15 @@
 Article 495
 ----
-Peuvent être soumis à la procédure simplifiée prévue à la présente section les
-délits prévus par le code de la route, les contraventions connexes prévues par
-ce code et les délits en matière de réglementations relatives aux transports
-terrestres.
+Peuvent être soumis à la procédure simplifiée prévue à la présente section :
+
+1° Les délits prévus par le code de la route et les contraventions connexes
+prévues par ce code ;
+
+2° Les délits en matière de réglementations relatives aux transports terrestres
+;
+
+3° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels
+une peine d'emprisonnement n'est pas encourue.
 
 Cette procédure n'est pas applicable :
 

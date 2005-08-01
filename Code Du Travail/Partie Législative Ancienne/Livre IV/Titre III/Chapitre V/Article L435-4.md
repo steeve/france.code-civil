@@ -4,7 +4,8 @@ Le comité central d'entreprise est composé d'un nombre égal de délégués
 titulaires et de suppléants, élus, pour chaque établissement, par le comité
 d'établissement parmi ses membres ; ce nombre est fixé par voie réglementaire.
 Toutefois, le nombre total des membres titulaires ne peut excéder un maximum
-également fixé par voie réglementaire.
+également fixé par voie réglementaire. L'élection a lieu tous les quatre ans,
+après l'élection générale des membres des comités d'établissement.
 
 Lorsqu'un ou plusieurs établissements constituent trois collèges électoraux en
 application de l'article L. 433-2 ci-dessus, un délégué titulaire et un délégué

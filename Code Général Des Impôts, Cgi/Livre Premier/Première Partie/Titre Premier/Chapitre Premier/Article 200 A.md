@@ -17,9 +17,10 @@ l'article 163 bis C est imposé au taux de 30 % à concurrence de la fraction
 annuelle qui n'excède pas 152 500 euros et de 40 % au-delà.
 
 Ces taux sont réduits respectivement à 16 % et 30 % lorsque les titres acquis
-revêtent la forme nominative et demeurent indisponibles, suivant des modalités
-fixées par décret, pendant un délai au moins égal à deux ans à compter de la
-date d'achèvement de la période mentionnée au I de l'article 163 bis C.
+revêtent la forme nominative et demeurent indisponibles sans être donnés en
+location, suivant des modalités fixées par décret, pendant un délai au moins
+égal à deux ans à compter de la date d'achèvement de la période mentionnée au I
+de l'article 163 bis C.
 
 6 bis Sauf option pour l'imposition à l'impôt sur le revenu selon les règles
 applicables aux traitements et salaires, l'avantage correspondant à la valeur à

@@ -37,6 +37,10 @@ c) Les devis, les bons de commande ou de travaux, les factures et les contrats
 ou documents commerciaux relatifs aux prestations exécutées en violation des
 dispositions de l'article L. 324-9.
 
+Les agents mentionnés au premier alinéa peuvent, sur demande écrite, obtenir des
+services préfectoraux tous renseignements ou tous documents relatifs à
+l'autorisation d'exercice ou à l'agrément d'une profession réglementée.
+
 Les agents cités au premier alinéa sont en outre habilités à entendre, en
 quelque lieu que ce soit et avec son consentement, toute personne rémunérée,
 ayant été rémunérée ou présumée être ou avoir été rémunérée par l'employeur ou

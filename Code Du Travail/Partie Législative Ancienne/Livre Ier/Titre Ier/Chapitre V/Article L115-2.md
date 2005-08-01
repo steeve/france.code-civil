@@ -46,7 +46,8 @@ conseil régional lorsque celui-ci est signataire de la convention.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique
 préparé, le contrat peut prendre fin, à l'initiative du salarié, avant le terme
-fixé initialement.
+fixé initialement, à la condition d'en avoir informé l'employeur par écrit au
+minimum deux mois auparavant.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs
 pour préparer des diplômes ou titres sanctionnant des qualifications

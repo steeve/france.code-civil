@@ -46,7 +46,11 @@ b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'articl
 soumises à un régime fiscal équivalent ;
 
 c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire
-en sa qualité d'associé ou d'actionnaire ;
+en sa qualité d'associé ou d'actionnaire. Pour l'application de cette
+disposition, est considéré comme actionnaire ou associé le preneur bénéficiaire
+de revenus mentionnés au 2° distribués par la société dont il loue les actions
+ou parts sociales en application des articles L. 239-1 à L. 239-5 du code de
+commerce ;
 
 d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
@@ -112,8 +116,7 @@ articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou
 d'une société visés aux articles 8 à 8 quinquies et chacun des conjoints
 exploitants agricoles de fonds séparés ou associés d'une même société ou
 groupement adhérant à l'un de ces organismes bénéficient d'un abattement de 20 %
-sur leurs bénéfices déclarés soumis à un régime réel d'imposition ou au régime
-prévu à l'article 68 F.
+sur leurs bénéfices déclarés soumis à un régime réel d'imposition.
 
 Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la limite
 fixée au cinquième alinéa du a du 5 ;

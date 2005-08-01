@@ -6,4 +6,6 @@ de prestations de vieillesse liquidées par un régime obligatoire.
 
 Un décret fixe les conditions d'application du présent article, notamment l'âge
 avant lequel doit intervenir la transmission de l'entreprise et la durée du
-cumul entre la pension et les revenus d'activité.
+cumul entre la pension et les revenus d'activité. Il comporte en outre des
+dispositions spécifiques aux activités de tutorat rémunérées exercées
+conformément à l'article L. 129-1 du code de commerce.

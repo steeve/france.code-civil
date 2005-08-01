@@ -32,3 +32,8 @@ vente moyennant un prix convenu tenant compte, au moins pour partie, des
 versements effectués à titre de loyers, à l'exclusion de toute opération de
 location à l'ancien propriétaire du fonds de commerce ou de l'établissement
 artisanal.
+
+4. Les opérations de location de parts sociales ou d'actions prévues aux
+articles L. 239-1 à L. 239-5 du code de commerce, assorties d'une promesse
+unilatérale de vente moyennant un prix convenu tenant compte, au moins pour
+partie, des versements effectués à titre de loyers.

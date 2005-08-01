@@ -1,7 +1,7 @@
 Article L433-13
 ----
 Dans toute entreprise ou organisme mentionné à l'article L. 431-1, le chef
-d'entreprise doit informer, tous les deux ans, le personnel, par voie
+d'entreprise doit informer, tous les quatre ans, le personnel, par voie
 d'affichage, de l'organisation des élections en vue de la désignation des
 membres du comité d'entreprise. Le document affiché précise la date envisagée
 pour le premier tour de ces élections qui doit se placer au plus tard le

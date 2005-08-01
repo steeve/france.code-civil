@@ -15,9 +15,13 @@ revenu global des années suivantes jusqu'à la sixième année inclusivement.
 Toutefois, n'est pas autorisée l'imputation :
 
 1° des déficits provenant d'exploitations agricoles lorsque le total des revenus
-nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être
+nets d'autres sources excède 60 000 euros ; ces déficits peuvent cependant être
 admis en déduction des bénéfices de même nature des années suivantes jusqu'à la
 sixième inclusivement.
+
+Le montant mentionné au premier alinéa du 1° est révisé chaque année selon les
+mêmes modalités que la limite supérieure de la première tranche du barème de
+l'impôt sur le revenu.
 
 1° bis des déficits provenant, directement ou indirectement, des activités
 relevant des bénéfices industriels ou commerciaux lorsque ces activités ne
@@ -88,14 +92,13 @@ fonciers des dix années suivantes ; cette disposition n'est pas applicable aux
 propriétaires de monuments classés monuments historiques, inscrits à
 l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou
 ayant reçu le label délivré par la "Fondation du patrimoine" en application de
-l'article 2 de la loi n° 96-590 du 2 juillet 1996 relative à la "Fondation du
-patrimoine" si ce label a été accordé sur avis favorable du service
-départemental de l'architecture et du patrimoine ni aux nus-propriétaires pour
-le déficit foncier qui résulte des travaux qu'ils payent en application des
-dispositions de l'article 605 du code civil, lorsque le démembrement de
-propriété d'un immeuble bâti résulte de succession ou de donation entre vifs,
-effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième
-degré inclusivement.
+l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis
+favorable du service départemental de l'architecture et du patrimoine ni aux
+nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils payent
+en application des dispositions de l'article 605 du code civil, lorsque le
+démembrement de propriété d'un immeuble bâti résulte de succession ou de
+donation entre vifs, effectuée sans charge ni condition et consentie entre
+parents jusqu'au quatrième degré inclusivement.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de
 dépenses autres que les intérêts d'emprunt effectuées sur des locaux
@@ -204,7 +207,11 @@ suivantes.
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur
 marchandises réalisées à l'étranger.
 
-7° (Abrogé à compter de l'imposition des revenus de 1996 ;
+7° Abrogé
+
+8° Des déficits constatés dans la catégorie des revenus des capitaux mobiliers ;
+ces déficits peuvent cependant être imputés sur les revenus de même nature des
+six années suivantes.
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre
 un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits
@@ -229,10 +236,9 @@ aux immeubles classés monuments historiques ou inscrits à l'inventaire
 supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en
 raison de leur caractère historique ou artistique particulier et qui auront été
 agréés à cet effet par le ministre chargé du budget, ou en raison du label
-délivré par la "Fondation du patrimoine" en application de l'article 2 de la loi
-n° 96-590 du 2 juillet 1996 relative à la "Fondation du patrimoine" si ce label
-a été accordé sur avis favorable du service départemental de l'architecture et
-du patrimoine ;
+délivré par la "Fondation du patrimoine" en application de l'article L. 143-2 du
+code du patrimoine si ce label a été accordé sur avis favorable du service
+départemental de l'architecture et du patrimoine ;
 
 1° quater (sans objet).
 

@@ -30,10 +30,10 @@ considéré entre les entreprises constitutives du groupe, de l'importance
 relative de chaque collège au sein de l'entreprise et du nombre des suffrages
 recueillis par chaque élu.
 
-Cette désignation est opérée tous les deux ans [*durée du mandat*].
+Cette désignation est opérée tous les quatre ans.
 
-[*alinéa ajouté par la loi 575*] Lorsqu'un représentant du personnel au sein du
-comité de groupe cesse ses fonctions, son remplaçant, pour la durée du mandat
-restant à courir, est désigné par les organisations syndicales dans le cas prévu
-au troisième alinéa ou par le directeur départemental du travail et de l'emploi
-dans celui fixé au cinquième alinéa [*autorité compétente*].
+Lorsqu'un représentant du personnel au sein du comité de groupe cesse ses
+fonctions, son remplaçant, pour la durée du mandat restant à courir, est désigné
+par les organisations syndicales dans le cas prévu au troisième alinéa ou par le
+directeur départemental du travail et de l'emploi dans celui fixé au cinquième
+alinéa.

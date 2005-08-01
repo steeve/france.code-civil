@@ -12,5 +12,5 @@ Est en outre prohibée, dès lors qu'elle est susceptible d'affecter le
 fonctionnement ou la structure de la concurrence, l'exploitation abusive par une
 entreprise ou un groupe d'entreprises de l'état de dépendance économique dans
 lequel se trouve à son égard une entreprise cliente ou fournisseur. Ces abus
-peuvent notamment consister en refus de vente, en ventes liées ou pratiques
-discriminatoires visées à l'article L. 442-6.
+peuvent notamment consister en refus de vente, en ventes liées, en pratiques
+discriminatoires visées au I de l'article L. 442-6 ou en accords de gamme.

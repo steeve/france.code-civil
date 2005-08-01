@@ -1,13 +1,28 @@
 Article L711-2
 ----
-Les chambres de commerce et d'industrie ont pour attributions :
+Les chambres de commerce et d'industrie représentent auprès des pouvoirs publics
+les intérêts de l'industrie, du commerce et des services de leur
+circonscription.
 
-1° De donner au Gouvernement les avis et les renseignements qui leur sont
-demandés sur les questions industrielles et commerciales ;
+A ce titre :
 
-2° De présenter leurs vues sur les moyens d'accroître la prospérité de
-l'industrie et du commerce ;
+1° Elles sont consultées par l'Etat sur les règlements relatifs aux usages
+commerciaux ;
 
-3° D'assurer, sous réserve des autorisations prévues aux articles L. 711-6 et L.
-711-8, l'exécution des travaux et l'administration des services nécessaires aux
-intérêts dont elles ont la garde.
+2° Elles peuvent être consultées par les collectivités territoriales et leurs
+établissements publics sur leurs projets de développement économique, de
+création d'infrastructures et de dispositifs d'assistance aux entreprises et sur
+leurs projets en matière de formation professionnelle ;
+
+3° Elles peuvent également être consultées par l'Etat, les collectivités
+territoriales et leurs établissements publics sur toute question relative à
+l'industrie, au commerce, aux services, au développement économique, à la
+formation professionnelle, à l'aménagement du territoire et à l'environnement
+intéressant leur circonscription. Elles peuvent, de leur propre initiative,
+émettre des avis et des voeux sur ces mêmes questions ;
+
+4° Dans les conditions précisées à l'article L. 121-4 du code de l'urbanisme,
+elles sont associées à l'élaboration des schémas de cohérence territoriale et
+des plans locaux d'urbanisme et peuvent, à leur initiative, réaliser les
+documents nécessaires à la préparation des documents prévisionnels
+d'organisation commerciale.

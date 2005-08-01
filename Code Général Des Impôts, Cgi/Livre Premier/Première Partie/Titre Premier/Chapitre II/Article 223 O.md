@@ -55,18 +55,22 @@ la somme de ces crédits d'impôt.
 
 i. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater H ; les dispositions de l'article 220 I s'appliquent à la
-somme de ces crédits d'impôt (1) (2).
+somme de ces crédits d'impôt.
 
 j. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater I ; les dispositions de l'article 220 J s'appliquent à la
-somme de ces crédits d'impôt (1).
+somme de ces crédits d'impôt.
 
 k. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater J ; les dispositions de l'article 220 K s'appliquent à la
-somme de ces crédits d'impôt (3).
+somme de ces crédits d'impôt.
 
 l. Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater K ; les dispositions de l'article 199 ter J s'appliquent à
-la somme de ces crédits d'impôt (4).
+la somme de ces crédits d'impôt.
+
+m) Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater M ; les dispositions de l'article 199 ter L s'appliquent à
+la somme de ces crédits d'impôt.
 
 2. abrogé

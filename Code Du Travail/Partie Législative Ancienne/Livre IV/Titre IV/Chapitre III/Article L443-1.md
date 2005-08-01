@@ -10,8 +10,10 @@ d'épargne d'entreprise.
 
 Dans les entreprises dont l'effectif habituel comprend au moins un et au plus
 cent salariés, les chefs de ces entreprises, ou, s'il s'agit de personnes
-morales, leurs présidents, directeurs généraux, gérants ou membres du
-directoire, peuvent également participer aux plans d'épargne d'entreprise.
+morales, leurs présidents, directeurs généraux, gérants ou membres du directoire
+ainsi que le conjoint du chef d'entreprise s'il a le statut de conjoint
+collaborateur ou de conjoint associé mentionné à l'article L. 121-4 du code de
+commerce, peuvent également participer aux plans d'épargne d'entreprise.
 
 Les plans d'épargne d'entreprise peuvent être établis dans toute entreprise à
 l'initiative de celle-ci ou en vertu d'un accord avec le personnel, notamment en

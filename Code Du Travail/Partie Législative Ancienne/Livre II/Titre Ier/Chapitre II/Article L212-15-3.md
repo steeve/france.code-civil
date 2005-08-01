@@ -68,6 +68,13 @@ et du deuxième alinéa de l'article L. 212-7. Les dispositions des articles L.
 doit déterminer les modalités concrètes d'application de ces dernières
 dispositions.
 
+La convention ou l'accord peut également préciser que les conventions de forfait
+en jours sont applicables, à condition qu'ils aient individuellement donné leur
+accord par écrit, aux salariés non cadres dont la durée du temps de travail ne
+peut être prédéterminée et qui disposent d'une réelle autonomie dans
+l'organisation de leur emploi du temps pour l'exercice des responsabilités qui
+leur sont confiées.
+
 L'employeur doit tenir à la disposition de l'inspecteur du travail, pendant une
 durée de trois ans, le ou les documents existant dans l'entreprise ou
 l'établissement permettant de comptabiliser le nombre de jours de travail

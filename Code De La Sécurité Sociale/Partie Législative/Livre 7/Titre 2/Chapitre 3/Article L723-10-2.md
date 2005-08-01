@@ -4,7 +4,7 @@ Sont liquidées sans coefficient de réduction, même s'ils ne justifient pas de
 durée d'assurance prévue au deuxième alinéa de l'article L. 723-10-1, les
 pensions de retraite :
 
-l° Des avocats ayant atteint l'âge déterminé en application du 1° de l'article
+1° Des avocats ayant atteint l'âge déterminé en application du 1° de l'article
 L. 351-8 ;
 
 2° Des avocats ayant atteint l'âge prévu au premier alinéa de l'article L.
@@ -20,3 +20,6 @@ militaires d'invalidité et des victimes de la guerre ;
 la Résistance ou de la carte de déporté ou interné politique ;
 
 - personnes mentionnées au 5° de l'article L. 351-8.
+
+Les dispositions du présent article sont applicables au conjoint collaborateur
+de l'avocat non salarié mentionné à l'article L. 723-1.

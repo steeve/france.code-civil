@@ -11,4 +11,5 @@ frais résultant des obligations légales et réglementaires liées à la sécur
 des produits.
 
 Ces dispositions ne sont pas applicables en cas de revente en l'état, à
-l'exception des enregistrements sonores reproduits sur supports matériels.
+l'exception des enregistrements sonores reproduits sur supports matériels et des
+vidéogrammes destinés à l'usage privé du public.

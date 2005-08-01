@@ -2,8 +2,9 @@ Article L124-6
 ----
 Les administrateurs ou les membres du directoire et du conseil de surveillance
 sont des personnes physiques ayant soit la qualité d'associé, à titre personnel,
-soit la qualité de président du conseil d'administration, de membre du
-directoire ou de gérant d'une société ayant elle-même la qualité d'associé.
+soit la qualité de président du conseil d'administration, de directeur général,
+de membre du directoire ou de gérant d'une société ayant elle-même la qualité
+d'associé.
 
 Les fonctions des membres du conseil d'administration ou des membres du conseil
 de surveillance sont gratuites et n'ouvrent droit qu'au remboursement, sur

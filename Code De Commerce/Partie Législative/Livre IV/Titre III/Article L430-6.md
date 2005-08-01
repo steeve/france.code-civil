@@ -8,7 +8,7 @@ puissance d'achat qui place les fournisseurs en situation de dépendance
 économique. Il apprécie si l'opération apporte au progrès économique une
 contribution suffisante pour compenser les atteintes à la concurrence. Le
 conseil tient compte de la compétitivité des entreprises en cause au regard de
-la concurrence internationale.
+la concurrence internationale et de la création ou du maintien de l'emploi.
 
 La procédure applicable à cette consultation du Conseil de la concurrence est
 celle qui est prévue au deuxième alinéa de l'article L. 463-2 et aux articles L.
