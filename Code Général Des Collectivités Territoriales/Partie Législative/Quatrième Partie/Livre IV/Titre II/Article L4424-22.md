@@ -10,9 +10,7 @@ et de pêche qui, à la date de promulgation de la loi n° 2002-92 du 22 janvier
 2002 relative à la Corse, relèvent de la compétence des départements.
 
 Les biens, appartenant à l'Etat, des ports d'Ajaccio et de Bastia sont
-transférés dans le patrimoine de la collectivité territoriale de Corse. L'Etat
-demeure compétent pour exercer la police des ports maritimes d'Ajaccio et de
-Bastia dans les conditions prévues au livre III du code des ports maritimes. La
+transférés dans le patrimoine de la collectivité territoriale de Corse. La
 collectivité territoriale met gratuitement à la disposition de l'Etat les
 installations et aménagements qui sont nécessaires au fonctionnement des
 services chargés de la police portuaire et de la sécurité. Une convention entre
