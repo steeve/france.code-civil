@@ -1,9 +1,0 @@
-Article R*235-18-1
-----
-La demande de renouvellement de location d'un lot de pêche aux engins et aux
-filets présentée par le locataire en place est satisfaite au prix du loyer fixé
-par le directeur des services fiscaux si elle est accueillie en application de
-l'article R. 235-17, même en présence d'autres demandes recevables.
-
-A défaut de conclusion du contrat dans les quinze jours de la notification qui
-est faite au locataire à cet effet, le lot est mis en adjudication.

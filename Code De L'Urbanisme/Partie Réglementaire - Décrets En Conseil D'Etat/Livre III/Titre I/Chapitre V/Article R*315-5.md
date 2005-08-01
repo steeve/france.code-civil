@@ -35,10 +35,10 @@ g) S'il y a lieu, une copie de la lettre par laquelle l'autorité compétente fa
 connaître au demandeur que son dossier de demande d'autorisation de coupe ou
 d'abattage et, le cas échéant, d'autorisation de défrichement est complet ;
 
-h) L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre
-1977, lorsque l'opération est située en dehors d'une commune ou partie de
-commune dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la
-construction d'une surface hors oeuvre nette de 3 000 mètres carrés ou plus.
+h) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement,
+lorsque l'opération est située en dehors d'une commune ou partie de commune
+dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la
+construction d'une surface hors oeuvre nette de 3 000 mètres carrés ou plus ;
 
 i) S'il est prévu une réalisation par tranches, les conditions et modalités
 d'exécution des travaux ;

@@ -6,6 +6,4 @@ de l'opération est prise en compte pour l'application des seuils définis
 ci-dessus.
 
 Le montant des seuils financiers prévus audit article est révisé par l'arrêté
-ministériel prévu à l'article 1er (III) du décret n° 85-453 du 23 avril 1985
-pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la
-démocratisation des enquêtes publiques et à la protection de l'environnement.
+ministériel prévu à l'article R. 123-1 du code de l'environnement.

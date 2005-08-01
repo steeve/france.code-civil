@@ -2,10 +2,11 @@ Article R*146-2
 ----
 En application du deuxième alinéa de l'article L. 146-6, peuvent être implantés
 dans les espaces et milieux mentionnés à cet article, après enquête publique
-dans les cas prévus par le décret n° 85-453 du 23 avril 1985, les aménagements
-légers suivants, à condition que leur localisation et leur aspect ne dénaturent
-pas le caractère des sites, ne compromettent pas leur qualité architecturale et
-paysagère et ne portent pas atteinte à la préservation des milieux :
+dans les cas prévus par les articles R. 123-1 à R. 123-33 du code de
+l'environnement, les aménagements légers suivants, à condition que leur
+localisation et leur aspect ne dénaturent pas le caractère des sites, ne
+compromettent pas leur qualité architecturale et paysagère et ne portent pas
+atteinte à la préservation des milieux :
 
 a) Lorsqu'ils sont nécessaires à la gestion ou à l'ouverture au public de ces
 espaces ou milieux, les cheminements piétonniers et cyclables et les sentes

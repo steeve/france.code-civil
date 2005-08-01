@@ -10,10 +10,8 @@ l'enquête publique à l'initiative du préfet. Lorsqu'une association mentionn�
 l'article L. 121-5 demande à être consultée, son président adresse la demande au
 préfet.
 
-L'enquête publique est organisée dans les formes prévues par le décret modifié
-n° 85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12
-juillet 1983 relative à la démocratisation des enquêtes publiques et à la
-protection de l'environnement.
+L'enquête publique est organisée dans les formes prévues par les articles R.
+123-1 à R. 123-33 du code de l'environnement.
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les
 conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que le

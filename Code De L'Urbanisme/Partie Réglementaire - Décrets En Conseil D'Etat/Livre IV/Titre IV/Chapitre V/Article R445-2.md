@@ -39,8 +39,8 @@ usagers de la remontée mécanique ;
 i) Une note sur les risques naturels et technologiques prévisibles et les
 dispositions principales prévues pour y faire face ;
 
-j) L'étude ou la notice d'impact prévue, selon le cas, par l'article 2 ou 4 du
-décret n° 77-1141 du 12 octobre 1977.
+j) L'étude ou la notice d'impact prévue, selon le cas, par l'article R. 122-3 ou
+R. 122-9 du code de l'environnement.
 
 Le dossier comporte en outre :
 
@@ -69,7 +69,7 @@ d) Lorsque les travaux projetés sont soumis à l'avis de la commission
 consultative départementale de la protection civile, de la sécurité et de
 l'accessibilité ou de la commission de sécurité compétente en vertu des articles
 R. 123-13 ou R. 123-22 du code de la construction et de l'habitation, les plans
-et documents nécessaires à la formulation de cet avis.
+et documents nécessaires à la formulation de cet avis ;
 
 e) Dans le cas d'une remontée mécanique empruntant un tunnel d'une longueur de
 plus de 300 mètres, le rapport d'un expert ou d'un organisme qualifié agréé dans

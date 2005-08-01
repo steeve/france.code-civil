@@ -21,8 +21,8 @@ l'article 1er du décret n° 88-1124 du 15 décembre 1988 modifié ;
 
 c) S'ils relèvent d'un autre régime d'autorisation ou d'approbation
 administrative et doivent faire l'objet d'une étude ou d'une notice d'impact au
-titre de l'article L. 122-1 et suivants du code de l'environnement et du décret
-n° 77-1141 du 12 octobre 1977 modifié ;
+titre de l'article L. 122-1 et suivants du code de l'environnement et des
+articles R. 122-4 à R. 122-8 et R. 122-10 du même code ;
 
 d) Si, bien que dispensés d'une étude ou d'une notice d'impact par application
 des articles 3 et 4 du décret n° 77-1141 du 12 octobre 1977 modifié, ils

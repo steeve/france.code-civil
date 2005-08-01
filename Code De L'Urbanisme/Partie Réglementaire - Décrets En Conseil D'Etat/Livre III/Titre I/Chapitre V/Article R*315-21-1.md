@@ -1,7 +1,7 @@
 Article R*315-21-1
 ----
 Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas
-ci-après énumérés[*autorisation expresse*] :
+ci-après énumérés :
 
 a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé
 ou inscrit.
@@ -17,7 +17,7 @@ d) Lorsque le projet est situé dans un territoire en instance de classement ou
 classé en réserve naturelle.
 
 e) Lorsque le projet de lotissement fait partie des catégories d'aménagements,
-d'ouvrages ou travaux soumis à enquête publique en application du décret n°
-85-453 du 23 avril 1985.
+d'ouvrages ou travaux soumis à enquête publique en application des articles R.
+123-1 à R. 123-33 du code de l'environnement.
 
 f) Lorsqu'il est fait application des dispositions de l'article R. 315-33.

@@ -22,11 +22,11 @@ e) Lorsque le projet est situé dans une zone de protection du patrimoine
 architectural et urbain ;
 
 f) Lorsque la construction est située dans un territoire en instance de
-classement ou classé en réserve naturelle.
+classement ou classé en réserve naturelle ;
 
 g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages
-ou de travaux soumis à enquête publique en application du décret n° 85-453 du 23
-avril 1985.
+ou de travaux soumis à enquête publique en application des articles R. 123-1 à
+R. 123-33 du code de l'environnement ;
 
 h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de
 l'article R. 421-16.

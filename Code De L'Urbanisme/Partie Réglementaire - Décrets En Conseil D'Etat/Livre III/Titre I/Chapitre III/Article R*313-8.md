@@ -1,7 +1,7 @@
 Article R*313-8
 ----
 Le plan rendu public est soumis par le préfet à enquête dans les formes prévues
-par les chapitres I et II du décret n° 85-453 du 23 avril 1985.
+par les articles R. 123-1 à R. 123-23 du code de l'environnement.
 
 Le préfet peut, par un même arrêté, rendre public le plan, prescrire l'enquête
 publique prévue au précédent alinéa et, s'il y a lieu, prescrire l'enquête en

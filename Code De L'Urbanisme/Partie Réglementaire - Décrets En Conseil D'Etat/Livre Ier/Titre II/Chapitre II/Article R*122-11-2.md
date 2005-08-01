@@ -19,11 +19,10 @@ l'enquête publique à l'initiative de l'autorité chargée de la procédure.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée,
 son président adresse la demande à l'autorité chargée de la procédure.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453
-du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983
-relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement. L'autorité chargée de la procédure exerce les compétences
-attribuées au préfet par les articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
+L'enquête publique est organisée dans les formes prévues par les articles R.
+123-1 à R. 123-33 du code de l'environnement. L'autorité chargée de la procédure
+exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8,
+R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le
 rapport et les conclusions du commissaire enquêteur ou de la commission

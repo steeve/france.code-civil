@@ -1,7 +1,7 @@
 Article R421-17
 ----
 Lorsque le projet est soumis à enquête publique dans les condition prévues par
-les chapitres I et II du décret n° 85-453 du 23 avril 1985, celle-ci est
+les articles R. 123-1 à R. 123-33 du code de l'environnement, celle-ci est
 organisée par le préfet lorsque le permis de construire est délivré au nom de
 l'Etat, et par le maire ou le président de l'établissement public de coopération
 intercommunale dans les autres cas. Le service chargé de l'instruction de la

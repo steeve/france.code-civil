@@ -10,7 +10,7 @@ personne, physique ou morale, responsable de l'activité envisagée ;
 l'expédition ;
 
 3° Une évaluation préliminaire ou, en cas d'impact plus que mineur ou
-transitoire de l'activité ou l'environnement, un projet d'évaluation globale
+transitoire de l'activité sur l'environnement, un projet d'évaluation globale
 d'impact répondant aux exigences des stipulations selon le cas du 1 de l'article
 2 ou du 2 de l'article 3 de l'annexe I du protocole de Madrid du 4 octobre 1991
 ;

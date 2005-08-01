@@ -2,7 +2,7 @@ Article R*315-46
 ----
 Lorsque l'autorité compétente décide d'ouvrir l'enquête publique prévue à
 l'article L. 315-2-1, celle-ci est organisée dans les formes prévues par les
-chapitres Ier et II du décret n° 85-453 du 23 avril 1985 :
+articles R. 123-1 à R. 123-33 du code de l'environnement :
 
 - par le préfet lorsque le lotissement concerné est situé dans le périmètre
 d'une opération d'intérêt national ;

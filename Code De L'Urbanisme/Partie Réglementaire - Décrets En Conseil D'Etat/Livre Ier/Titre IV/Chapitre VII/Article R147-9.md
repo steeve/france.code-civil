@@ -10,6 +10,4 @@ aérodromes.
 Lorsque le plan d'exposition au bruit concerne un aérodrome affecté à titre
 exclusif, principal ou secondaire au ministère chargé de la défense, la
 procédure d'enquête est conduite dans le respect des conditions posées par les
-articles 2 et 3 du décret n° 85-693 du 5 juillet 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 et déterminant les conditions de protection
-du secret de la défense nationale.
+articles R. 123-45 et R. 123-46 du code de l'environnement.

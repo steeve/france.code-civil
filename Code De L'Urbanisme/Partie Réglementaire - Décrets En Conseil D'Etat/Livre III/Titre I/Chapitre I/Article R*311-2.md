@@ -19,7 +19,7 @@ b) Un plan de situation ;
 
 c) Un plan de délimitation du ou des périmètres composant la zone ;
 
-d) L'étude d'impact définie à l'article 2 du décret du 12 octobre 1977 modifié.
+d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement.
 
 Le dossier précise également si la taxe locale d'équipement sera ou non exigible
 dans la zone. Il mentionne si le mode de réalisation choisi relève soit des 1°
