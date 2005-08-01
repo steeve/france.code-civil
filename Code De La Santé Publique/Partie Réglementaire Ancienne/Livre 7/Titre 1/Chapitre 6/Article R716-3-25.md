@@ -6,8 +6,8 @@ de surveillance est consultée sur :
 
 1. Toutes les questions qui lui sont soumises par le directeur de l'hôpital ou
 du groupe hospitalier, soit à son initiative, soit à la demande du directeur
-général ou du conseil d'administration de l'Assistance publique - hôpitaux de
-Paris ;
+général, du directeur exécutif du groupement hospitalier universitaire ou du
+conseil d'administration de l'Assistance publique-hôpitaux de Paris ;
 
 2. Le projet local d'établissement ainsi que le projet médical de l'hôpital ou
 du groupe hospitalier ;

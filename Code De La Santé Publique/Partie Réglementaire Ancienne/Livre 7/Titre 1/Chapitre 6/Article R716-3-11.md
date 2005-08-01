@@ -9,11 +9,13 @@ Il est compétent pour régler les affaires de l'Assistance publique - hôpitaux
 Paris autres que celles qui sont réservées au conseil d'administration.
 
 Le directeur général peut déléguer par arrêté aux directeurs du siège, aux
-directeurs des hôpitaux et groupes hospitaliers et aux directeurs des services
-généraux une partie de ses compétences relatives au fonctionnement courant de
-ces directions, hôpitaux, groupes hospitaliers et services généraux. Toutefois,
-il peut toujours évoquer et régler lui-même des affaires comprises dans cette
-délégation en vue d'assurer le bon fonctionnement du service public hospitalier.
+directeurs des hôpitaux et groupes hospitaliers, aux directeurs des services
+généraux et aux directeurs exécutifs des groupements hospitaliers universitaires
+une partie de ses compétences relatives au fonctionnement courant de ces
+directions, hôpitaux, groupes hospitaliers, services généraux et groupements
+hospitaliers universitaires. Toutefois, il peut toujours évoquer et régler
+lui-même des affaires comprises dans cette délégation en vue d'assurer le bon
+fonctionnement du service public hospitalier.
 
 Le directeur général peut déléguer par arrêté aux personnes mentionnées au
 troisième alinéa du présent article ses compétences de personne responsable des
