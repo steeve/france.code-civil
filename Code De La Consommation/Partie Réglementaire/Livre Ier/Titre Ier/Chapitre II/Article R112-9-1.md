@@ -42,8 +42,49 @@ l'article R. 112-8.
 
 Toutefois, cette mention et cette indication ne sont pas applicables aux
 boissons à base de café, de thé, ou d'extrait de café ou de thé, dont la
-dénomination de vente comporte le terme "café" ou "thé".
+dénomination de vente comporte le terme "café" ou "thé" ;
 
-8° Les autres mentions obligatoires prévues, le cas échéant, par les autres
+8° La mention "contient de la réglisse" pour les confiseries ou boissons
+contenant de l'acide glycyrrhizinique ou son sel d'ammonium à la suite de
+l'ajout de la ou des substances telles quelles ou de réglisse Glycyrrhiza
+glabra, à une concentration supérieure ou égale à 100 mg/kg ou 10 mg/l, sauf si
+le terme "réglisse" figure déjà dans la liste des ingrédients ou dans la
+dénomination sous laquelle le produit est commercialisé.
+
+Cette mention figure juste après la liste des ingrédients, sauf si le terme
+"réglisse" y figure déjà ou s'il figure dans la dénomination sous laquelle le
+produit est commercialisé.
+
+En l'absence de liste des ingrédients, la mention figure près de la dénomination
+sous laquelle le produit est commercialisé ;
+
+9° La mention "contient de la réglisse - les personnes souffrant d'hypertension
+doivent éviter toute consommation excessive" pour les confiseries contenant de
+l'acide glycyrrhizinique ou son sel d'ammonium à la suite de l'ajout de la ou
+des substances telles quelles ou de réglisse Glycyrrhiza glabra, à des
+concentrations supérieures ou égales à 4 g/kg.
+
+Cette mention figure après la liste des ingrédients.
+
+En l'absence de liste des ingrédients, la mention figure près de la dénomination
+sous laquelle le produit est commercialisé ;
+
+10° La mention "contient de la réglisse - les personnes souffrant d'hypertension
+doivent éviter toute consommation excessive" pour les boissons contenant de
+l'acide glycyrrhizinique ou son sel d'ammonium à la suite de l'ajout de la ou
+des substances telles quelles ou de réglisse Glycyrrhiza glabra, à des
+concentrations supérieures ou égales à 50 mg/l, ou supérieures ou égales à 300
+mg/l dans le cas des boissons contenant plus de 1,2 % en volume d'alcool.
+
+Cette mention figure après la liste des ingrédients.
+
+En l'absence de liste des ingrédients, la mention figure près de la dénomination
+sous laquelle le produit est commercialisé.
+
+Les teneurs mentionnées aux 8°, 9° et 10° s'appliquent aux produits tels que
+proposés prêts à consommer ou reconstitués conformément aux instructions des
+fabricants ;
+
+11° Les autres mentions obligatoires prévues, le cas échéant, par les autres
 dispositions réglementaires relatives à certaines denrées alimentaires
 déterminées.
