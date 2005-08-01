@@ -4,9 +4,8 @@ Pour être autorisés à effectuer des prélèvements d'organes à des fins
 thérapeutiques sur une personne décédée, les établissements de santé doivent :
 
 1° Disposer du personnel et de l'équipement nécessaires à l'établissement du
-constat de la mort, dans les conditions définies au chapitre II du présent
-titre, d'une personne assistée par ventilation mécanique et conservant une
-fonction hémodynamique ;
+constat de la mort, dans les conditions définies au chapitre II du présent titre
+;
 
 2° Justifier d'une organisation et de conditions de fonctionnement permettant
 l'exécution satisfaisante des opérations de prélèvement ;

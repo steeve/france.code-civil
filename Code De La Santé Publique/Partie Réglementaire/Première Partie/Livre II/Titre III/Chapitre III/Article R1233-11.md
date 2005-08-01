@@ -1,7 +1,9 @@
 Article R1233-11
 ----
-Pour l'application des dispositions du présent chapitre, les hôpitaux des armées
-sont regardés comme des établissements publics de santé.
-
-Pour ces hôpitaux, le ministre de la défense exerce les attributions du préfet
-du département et du directeur de l'agence régionale de l'hospitalisation.
+Indépendamment de l'autorisation prévue à l'article R. 1233-2, les
+établissements de santé qui souhaitent effectuer les prélèvements d'organes
+mentionnés au deuxième alinéa de l'article R. 1232-4-1, définissent par voie de
+convention avec l'agence de la biomédecine les moyens qu'ils s'engagent à mettre
+au service de cette activité. Cette convention définit également le contenu et
+la périodicité des informations qu'ils doivent transmettre à cette agence pour
+lui permettre d'évaluer cette activité.

@@ -7,5 +7,5 @@ délai vaut rejet de la demande d'autorisation.
 
 Le directeur de l'agence régionale de l'hospitalisation établit et tient à jour
 une liste des établissements de santé autorisés dans la région ; il la transmet
-au ministre chargé de la santé et au directeur général de l'Etablissement
-français des greffes.
+au ministre chargé de la santé et au directeur général de l'agence de la
+biomédecine.
