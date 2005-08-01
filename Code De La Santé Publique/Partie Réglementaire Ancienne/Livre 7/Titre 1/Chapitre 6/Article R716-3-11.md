@@ -2,7 +2,8 @@ Article R716-3-11
 ----
 Le directeur général exerce à l'égard de l'ensemble de l'établissement les
 pouvoirs définis à l'article L. 714-12, ainsi que ceux qui lui sont conférés par
-les articles 103 et 104 du titre IV du statut général des fonctionnaires.
+les articles 103 et 104 de la loi n° 86-33 du 9 janvier 1986 modifiée portant
+dispositions statutaires relatives à la fonction publique hospitalière.
 
 Il est compétent pour régler les affaires de l'Assistance publique - hôpitaux de
 Paris autres que celles qui sont réservées au conseil d'administration.

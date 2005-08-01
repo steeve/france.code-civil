@@ -36,8 +36,9 @@ celle-ci ;
 
 9° Sept représentants des personnels désignés par le directeur de l'agence
 régionale de l'hospitalisation, sur proposition des organisations syndicales les
-plus représentatives, parmi les personnels titulaires relevant du titre IV du
-statut général des fonctionnaires, dans les conditions prévues au 3° du II de
+plus représentatives, parmi les personnels titulaires relevant de la loi n°
+86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la
+fonction publique hospitalière, dans les conditions prévues au 3° du II de
 l'article R. 714-2-25, le nombre de voix à prendre en compte étant celui des
 voix recueillies aux élections au comité technique central d'établissement ;
 
@@ -49,8 +50,8 @@ dans les conditions prévues au 4° du II de l'article R. 714-2-25 ;
 11° Le président du comité de coordination de l'enseignement médical de
 l'université ;
 
-12° Deux représentants des usagers nommés dans les conditions indiquées au 5° du
-II de l'article R. 714-2-25.
+12° Deux représentants des usagers nommés parmi les personnes proposées par les
+associations agréées en application de l'article L. 1114-1.
 
 En outre, le conseil d'administration peut s'adjoindre un représentant de la
 communauté urbaine de Lyon désigné en son sein par le conseil de communauté et

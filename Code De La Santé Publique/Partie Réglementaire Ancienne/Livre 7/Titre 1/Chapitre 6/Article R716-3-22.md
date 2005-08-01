@@ -22,8 +22,9 @@ par celle-ci en son sein ;
 
 6° Trois représentants des personnels nommés par le préfet de région, sur
 proposition des organisations syndicales les plus représentatives, parmi les
-personnels titulaires relevant du titre IV du statut général des fonctionnaires
-; la représentativité des organisations syndicales est appréciée dans les
+personnels titulaires relevant de la loi n° 86-33 du 9 janvier 1986 modifiée
+portant dispositions statutaires relatives à la fonction publique hospitalière ;
+la représentativité des organisations syndicales est appréciée dans les
 conditions prévues au deuxième alinéa du 3° du II de l'article R. 714-2-25
 compte tenu du nombre total des voix recueillies dans l'hôpital ou le groupe
 hospitalier à l'occasion des élections au comité technique local d'établissement
@@ -38,8 +39,8 @@ représentatifs ;
 
 8° Deux représentants des usagers désignés par le préfet de la région
 Ile-de-France, après avis du directeur de l'agence régionale de
-l'hospitalisation, parmi les personnes présentées par les organisations
-mentionnées au 5° du II de l'article R. 714-2-25.
+l'hospitalisation, parmi les personnes présentées par les associations agréées
+en application de l'article L. 1114-1.
 
 II. - Pour les hôpitaux situés hors de la région Ile-de-France, la composition
 de la commission de surveillance est déterminée par arrêté des ministres chargés

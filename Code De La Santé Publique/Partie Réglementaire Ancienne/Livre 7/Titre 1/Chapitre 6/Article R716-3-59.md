@@ -28,8 +28,9 @@ celle-ci ;
 
 9° Trois représentants des personnels désignés par le ministre chargé de la
 santé, sur proposition des organisations syndicales les plus représentatives,
-parmi les personnels titulaires relevant du titre IV du statut général des
-fonctionnaires ;
+parmi les personnels titulaires relevant de la loi n° 86-33 du 9 janvier 1986
+modifiée portant dispositions statutaires relatives à la fonction publique
+hospitalière ;
 
 10° Deux personnalités qualifiées nommées par le ministre chargé de la santé,
 sur proposition du préfet de la région Ile-de-France, préfet de Paris, après
@@ -47,5 +48,5 @@ ministre chargé de la santé, sur proposition du Conseil national des universit
 12° Deux représentants des usagers nommés par arrêté du ministre chargé de la
 santé, sur proposition du préfet de la région Ile-de-France, préfet de Paris,
 après avis du directeur de l'agence régionale de l'hospitalisation, parmi les
-personnes présentées par les organisations mentionnées au 5° du II de l'article
-R. 714-2-25.
+personnes présentées par les associations agréées en application de l'article L.
+1114-1.
