@@ -1,4 +1,4 @@
-Article R*241-21
+Article R*331-19
 ----
 Le président et, le cas échéant, les vice-présidents sont élus par les membres
 du conseil d'administration. Ces élections ont lieu tous les trois ans à

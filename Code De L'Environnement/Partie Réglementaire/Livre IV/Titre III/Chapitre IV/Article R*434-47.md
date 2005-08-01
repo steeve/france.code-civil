@@ -1,4 +1,4 @@
-Article R*234-43
+Article R*434-47
 ----
 Dans le cas où une association se trouve dans l'impossibilité de fonctionner, la
 gestion de son budget ou son administration peut, à titre provisoire, être
