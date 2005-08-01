@@ -16,15 +16,13 @@ dans l'étiquetage par des mots, des images ou une représentation graphique ;
 caractériser la denrée alimentaire et la distinguer des produits avec lesquels
 elle pourrait être confondue en raison de sa dénomination ou de son aspect.
 
-La mention prévue à l'alinéa précédent figure soit dans la dénomination de vente
-de la denrée alimentaire, soit à proximité immédiate de cette dénomination, soit
-dans la liste des ingrédients.
+La mention prévue au premier alinéa figure soit dans la dénomination de vente de
+la denrée alimentaire, soit à proximité immédiate de cette dénomination, soit
+dans la liste des ingrédients en rapport avec l'ingrédient ou la catégorie
+d'ingrédient dont il s'agit.
 
 La quantité mentionnée, exprimée en pourcentage, correspond à la quantité du ou
-des ingrédients au moment de leur mise en oeuvre. Des arrêtés du ministre chargé
-de la consommation, du ministre chargé de l'agriculture et des autres ministres
-intéressés peuvent prévoir des dérogations à ce principe pour certaines denrées
-alimentaires.
+des ingrédients au moment de leur mise en oeuvre.
 
 Lorsqu'une denrée alimentaire a subi une perte d'humidité à la suite d'un
 traitement thermique ou autre, cette quantité correspond au rapport exprimé en

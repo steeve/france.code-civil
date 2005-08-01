@@ -14,8 +14,9 @@ conditions prévues aux articles R. 112-17 et R. 112-17-1 ;
 
 4° La quantité nette ;
 
-5° La date jusqu'à laquelle la denrée conserve ses propriétés spécifiques ainsi
-que l'indication des conditions particulières de conservation ;
+5° La date de durabilité minimale ou, dans le cas de denrées alimentaires très
+périssables microbiologiquement, la date limite de consommation ainsi que
+l'indication des conditions particulières de conservation ;
 
 6° Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur ou
 d'un vendeur établi à l'intérieur du territoire de la Communauté européenne ;
@@ -28,4 +29,4 @@ l'origine ou la provenance réelle de la denrée alimentaire ;
 
 9° Le mode d'emploi chaque fois que sa mention est nécessaire à un usage
 approprié de la denrée alimentaire ainsi que, le cas échéant, les conditions
-particulières d'utilisation, notamment les précautions d'emploi.
+particulières d'utilisation.

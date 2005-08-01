@@ -23,12 +23,16 @@ Communauté européenne, déterminent de manière précise la quantité de
 l'ingrédient ou de la catégorie d'ingrédients sans en prévoir l'indication sur
 l'étiquetage ;
 
-3° Dans le cas de mélanges de fruits ou de légumes ou d'épices ou de plantes
-aromatiques, dont aucun ne prédomine en poids de manière significative.
+3° Dans le cas de mélanges de fruits ou de légumes ou de champignons ou d'épices
+ou de plantes aromatiques, dont aucun ne prédomine en poids de manière
+significative ;
 
-4° Dans les cas où la mention "édulcorant(s)" ou "avec sucre(s) et
+4° Dans le cas de mélanges d'épices ou de plantes aromatiques, dont aucune ne
+prédomine en poids de manière significative ;
+
+5° Dans les cas où la mention "édulcorant(s)" ou "avec sucre(s) et
 édulcorant(s)" accompagne la dénomination de vente d'une denrée alimentaire,
 conformément aux dispositions de l'article R. 112-9-1 (3° et 4°) ;
 
-5° Aux mentions relatives à l'adjonction de vitamines et minéraux dans les cas
+6° Aux mentions relatives à l'adjonction de vitamines et minéraux dans les cas
 où ces substances font l'objet d'un étiquetage nutritionnel.

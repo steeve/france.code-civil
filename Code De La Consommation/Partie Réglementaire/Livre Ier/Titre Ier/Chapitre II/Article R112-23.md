@@ -22,7 +22,8 @@ et boissons alcoolisées dans des récipients individuels de plus de 5 litres,
 destinés à être livrés aux collectivités ;
 
 6° Produits de la boulangerie ou de la pâtisserie qui, en raison de leur nature,
-sont consommés dans le délai de vingt-quatre heures après la fabrication ;
+sont usuellement consommés dans le délai de vingt-quatre heures après la
+fabrication ;
 
 7° Vinaigres ;
 
