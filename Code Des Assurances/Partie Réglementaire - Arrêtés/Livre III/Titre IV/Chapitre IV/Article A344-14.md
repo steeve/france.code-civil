@@ -13,7 +13,7 @@ président du directoire ou le directeur général unique dans les sociétés
 anonymes, par le directeur et par le président du conseil d'administration dans
 les sociétés d'assurance mutuelles et leurs unions, par le mandataire général ou
 son représentant légal dans les succursales d'entreprises étrangères, sous la
-formule suivante : "Le présent document, comprenant x feuillets numérotés, est
+formule suivante : "Le présent document, comprenant X feuillets numérotés, est
 certifié, sous peine de l'application des sanctions prévues à l'article L.
 310-28 du code des assurances, conforme aux écritures de l'entreprise et de ses
 entreprises apparentées, et aux dispositions du titre IV du livre III du même
@@ -109,6 +109,12 @@ groupe :
 
 - autres éléments éventuels.
 
+Pour les entreprises appliquant les normes comptables internationales adoptées
+par règlement de la Commission européenne, un troisième tableau fait apparaître
+les retraitements mentionnnés à l'article R. 334-42. Ce tableau est accompagné
+d'une annexe décrivant les règles et principes retenus pour l'identification et
+le calcul de ces retraitements.
+
 5. Etat d'analyse de l'équilibre technique non-vie (état G3)
 
 Ventilation par entreprise des soldes de souscription séparant résultat de
@@ -179,7 +185,7 @@ l'entreprise concernée, les ventes ou achats d'immeubles ou de titres à
 l'intérieur du groupe sont recensés, faisant apparaître l'entreprise vendeuse,
 l'entreprise acheteuse, la valeur comptable dans la première, le prix de vente
 et la référence ayant permis d'établir celui-ci (expertise, capitalisation du
-résultat...).
+résultat ...).
 
 Ceci inclut les souscriptions de titres émis par une entreprise du groupe même
 s'ils sont destinés à être cotés.
@@ -199,11 +205,10 @@ Liste des GIE, pools et autres groupements de coassurance ou coréassurance dans
 lesquels l'entreprise est solidaire sans limites des autres membres ; montants
 des provisions de sinistres à payer au bilan de ces groupements.
 
-5. Recensement des opérations avec une personne physique (G 14)
-
-Liste des opérations de toute nature avec une personne physique visée à
-l'article R. 334-45 dès lors qu'elles dépassent 5 % du minimum de marge de
-solvabilité de l'entreprise.
+5. Recensement des opérations avec une personne physique (G 14)&lt;RL Liste des
+opérations de toute nature avec une personne physique visée à l'article R.
+334-45 dès lors qu'elles dépassent 5 % du minimum de marge de solvabilité de
+l'entreprise.
 
 6. Recensement des apports de fonds (G 15)
 
