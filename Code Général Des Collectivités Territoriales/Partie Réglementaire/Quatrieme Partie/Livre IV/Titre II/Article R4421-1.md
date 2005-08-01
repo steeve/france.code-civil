@@ -9,10 +9,7 @@ Il est chargé :
 
 1° Dans sa formation dite "des sites, perspectives et paysages" d'exercer les
 compétences dévolues à la commission départementale des sites, perspectives et
-paysages par l'article 2 du décret n° 98-865 du 23 septembre 1998 fixant les
-missions, la composition, le mode de désignation et les conditions de
-fonctionnement des commissions départementales des sites, perspectives et
-paysages et de la Commission supérieure des sites, perspectives et paysages ;
+paysages par l'article R. 341-16 du code de l'environnement ;
 
 2° Dans sa formation dite "du patrimoine" d'exercer les compétences dévolues à
 la commission régionale du patrimoine et des sites par l'article 1er du décret

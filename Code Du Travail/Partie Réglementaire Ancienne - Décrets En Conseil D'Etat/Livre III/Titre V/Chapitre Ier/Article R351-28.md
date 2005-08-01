@@ -1,31 +1,36 @@
 Article R351-28
 ----
-Sont exclues, à titre temporaire ou définitif, du revenu de remplacement
-mentionné par l'article L. 351-1 les personnes [*demandeurs d'emploi*] qui :
+I. - Le préfet du département supprime le revenu de remplacement mentionné à
+l'article L. 351-1, de manière temporaire ou définitive, ou en réduit le
+montant, selon les modalités suivantes :
 
-1. Refusent sans motif légitime :
+1° En cas de manquement mentionné au 1° de l'article R. 311-3-5, le préfet
+réduit de 20 % le montant du revenu de remplacement, pendant une durée de deux à
+six mois ; en cas de nouvelle occurence de l'un quelconque de ces mêmes
+manquements, le montant du revenu de remplacement est réduit de 50 % pour une
+durée de deux à six mois ou bien le revenu de remplacement est supprimé de façon
+définitive ;
 
-a) Un emploi compatible avec leur spécialité ou leur formation antérieure et
-rétribué à un taux de salaire normalement pratiqué dans la profession et la
-région ;
+2° En cas de manquement mentionné au 2° de l'article R. 311-3-5, le préfet
+supprime le revenu de remplacement pour une durée de deux mois ; en cas de
+nouvelle occurence de l'un quelconque de ces mêmes manquements, le revenu de
+remplacement est supprimé pour une durée de deux à six mois ou bien de façon
+définitive ;
 
-b) De suivre une action de formation prévue aux 1° et 3° à 6° de l'article L.
-900-2, ou une action d'insertion prévue au chapitre II du titre II du livre III
-du présent code ;
+3° En cas de déclaration inexacte ou mensongère du demandeur d'emploi, faite en
+vue de percevoir indûment le revenu de remplacement, le préfet supprime ce
+revenu de façon définitive ; toutefois, si ce manquement est lié à une activité
+non déclarée d'une durée très brève, le revenu de remplacement est supprimé pour
+une durée de deux à six mois.
 
-c) Une proposition de contrat d'apprentissage ;
-
-d) De répondre à toute convocation des agents chargés du contrôle ;
-
-e) De se soumettre à une visite médicale auprès des services médicaux de
-main-d'oeuvre destinée à vérifier leur aptitude au travail ou à certains types
-d'emplois ;
-
-2. Ne peuvent justifier de l'accomplissement d'actes positifs de recherche
-d'emploi au sens du premier alinéa de l'article R. 351-27. Le caractère réel et
-sérieux de ces actes est apprécié compte tenu de la situation du demandeur
-d'emploi et de la situation locale de l'emploi.
-
-3. Ont fait des déclarations inexactes ou présenté des attestations mensongères
-en vue de toucher indûment le revenu de remplacement prévu à l'article L. 351-1,
-ou ont, en toute connaissance de cause, perçu indûment ledit revenu.
+II. - Les organismes de l'assurance chômage mentionnés à l'article L. 351-21
+peuvent, à titre conservatoire et jusqu'à ce que le préfet ait statué sur la
+situation du demandeur d'emploi selon les modalités prévues au I du présent
+article, prendre une mesure de suspension du versement ou de réduction du
+montant du revenu de remplacement mentionné à l'article L. 351-3, pour les
+motifs prévus au 2° (a) de l'article R. 311-3-5 et au 3° du I du présent
+article. Cette mesure ne peut intervenir qu'après que l'intéressé ait été mis à
+même de présenter ses observations. Elle cesse de produire effet au-delà d'une
+durée de deux mois à l'issue de laquelle, en l'absence de décision explicite du
+préfet, le versement du revenu de remplacement est, en tout état de cause,
+rétabli.

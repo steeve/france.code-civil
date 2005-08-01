@@ -2,10 +2,10 @@ Article R322-17-8
 ----
 I. - En cas de non-respect des dispositions de la convention accompagnant le
 contrat d'avenir par l'employeur, le président du conseil général, le maire ou
-le président de l'établissement public de coopération intercommunale, ou le
-délégataire signataire de la convention informe au préalable l'employeur de son
-intention de dénoncer la convention. Celui-ci dispose d'un délai de sept jours
-pour faire connaître ses observations.
+le président de l'établissement public de coopération intercommunale, l'Agence
+nationale pour l'emploi, ou le délégataire signataire de la convention informe
+au préalable l'employeur de son intention de dénoncer la convention. Celui-ci
+dispose d'un délai de sept jours pour faire connaître ses observations.
 
 Les autorités mentionnées à l'alinéa précédent informent le Centre national pour
 l'aménagement des structures des exploitations agricoles ainsi que l'organisme

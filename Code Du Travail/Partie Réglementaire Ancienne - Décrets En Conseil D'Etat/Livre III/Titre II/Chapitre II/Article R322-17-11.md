@@ -26,10 +26,11 @@ l'allocation.
 III. - En vue de la préparation et de la conclusion des conventions de contrat
 d'avenir, le Centre national pour l'aménagement des structures des exploitations
 agricoles transmet à l'exécutif de la collectivité territoriale, de
-l'établissement public de coopération intercommunale ou au délégataire, à sa
-demande, les informations nominatives relatives aux personnes remplissant les
-conditions prévues à l'article R. 322-17 : le nom, l'adresse, la date de
-naissance et la nature de l'allocation perçue.
+l'établissement public de coopération intercommunale, à l'agence locale pour
+l'emploi ou au délégataire, à sa demande, les informations nominatives relatives
+aux personnes remplissant les conditions prévues à l'article R. 322-17 :
+
+le nom, l'adresse, la date de naissance et la nature de l'allocation perçue.
 
 IV. - En vue de la préparation et de la conclusion des conventions de contrat
 insertion-revenu minimum d'activité, le Centre national pour l'aménagement des
@@ -48,14 +49,13 @@ Les délégations régionales du Centre national pour l'aménagement des structu
 des exploitations agricoles utilisent les données pour :
 
 1° Le calcul et le paiement de l'aide à l'employeur au titre du contrat d'avenir
-ou du contrat insertion-revenu minimum d'insertion et des aides attribuées à
-l'employeur en application des dispositions du troisième alinéa du I de
-l'article L. 332-4-15-6 et de l'article R. 322-17-10 ;
-
-2° L'élaboration de données statistiques et financières anonymes.
+ou du contrat insertion - revenu minimum d'activité et des aides attribuées à
+l'employeur en application des dispositions de l'article L. 322-4-12 et de
+l'article L. 322-4-15-6 2° L'élaboration de données statistiques et financières
+anonymes.
 
 VI. - Pour l'application des dispositions prévues aux articles R. 351-35 du
-présent décret et R. 262-8 du code de l'action sociale et des familles, R. 524-3
+présent code et R. 262-8 du code de l'action sociale et des familles, R. 524-3
 du code de la sécurité sociale, le Centre national pour l'aménagement des
 structures des exploitations agricoles transmet aux organisations mentionnées à
 l'article L. 262-30 du code de l'action sociale et des familles et à l'article
@@ -80,12 +80,12 @@ premier alinéa du II de l'article L. 322-4-12.
 
 VII. - Les directions départementales du travail, de l'emploi et de la formation
 professionnelle et, à leur demande, les services des collectivités
-territoriales, des établissements publics de coopération intercommunale et des
-délégataires remplissant les conditions fixées au second alinéa du III du
-présent article sont seuls destinataires des données à caractère personnel
-relatives aux contrats d'avenir contenues dans les conventions, à l'exception du
-numéro d'inscription au répertoire national d'identification des personnes
-physiques.
+territoriales, des établissements publics de coopération intercommunale, des
+agences locales pour l'emploi et des délégataires remplissant les conditions
+fixées au second alinéa du III du présent article sont seuls destinataires des
+données à caractère personnel relatives aux contrats d'avenir contenues dans les
+conventions, à l'exception du numéro d'inscription au répertoire national
+d'identification des personnes physiques.
 
 Les directions départementales du travail, de l'emploi de de la formation
 professionnelle et, à leur demande, les services du conseil général et l'agence
@@ -116,8 +116,9 @@ X. - Le bénéficiaire du contrat d'avenir peut exercer le droit d'accès prévu
 l'article 39 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
 l'informatique, aux fichiers et aux libertés auprès de l'exécutif de la
 collectivité territoriale, de l'établissement public de coopération
-intercommunale ou de l'organisme délégataire et de la délégation régionale du
-Centre national pour l'aménagement des structures des exploitations agricoles.
+intercommunale, de l'agence locale pour l'emploi ou de l'organisme délégataire
+et de la délégation régionale du Centre national pour l'aménagement des
+structures des exploitations agricoles.
 
 Le bénéficiaire du contrat insertion-revenu minimum d'activité peut exercer le
 droit d'accès prévu par l'article 39 de la même loi auprès du président du

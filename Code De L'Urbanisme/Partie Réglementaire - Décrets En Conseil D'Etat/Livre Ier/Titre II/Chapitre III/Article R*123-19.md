@@ -2,12 +2,10 @@ Article R*123-19
 ----
 Le projet de plan local d'urbanisme est soumis à l'enquête publique par le maire
 ou le président de l'établissement public de coopération intercommunale
-compétent dans les formes prévues par les articles 7 à 21 du décret modifié n°
-85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12
-juillet 1983 relative à la démocratisation des enquêtes publiques et à la
-protection de l'environnement. Toutefois, le maire ou le président de
-l'établissement public exerce les compétences attribuées au préfet par les
-articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
+compétent dans les formes prévues par les articles R. 123-7 à R. 123-23 du code
+de l'environnement. Toutefois, le maire ou le président de l'établissement
+public exerce les compétences attribuées au préfet par les articles R. 123-7, R.
+123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la
 déclaration d'utilité publique des opérations, acquisitions ou expropriations

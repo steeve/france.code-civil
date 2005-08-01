@@ -1,9 +1,9 @@
 Article R322-17-2
 ----
 La convention qui accompagne le contrat d'avenir est conclue et mise en oeuvre
-par le président du conseil général, le maire de la commune de résidence du
-bénéficiaire ou, le cas échéant, le président de l'établissement public de
-coopération intercommunale.
+par le président du conseil général, le maire de la commune, le cas échéant le
+président de l'établissement public de coopération intercommunale ou, pour le
+compte de l'Etat, par l'Agence nationale pour l'emploi.
 
 Toutefois, et sous réserve du dernier alinéa de l'article L. 322-4-10, lorsque
 la conclusion et la mise en oeuvre de la convention au profit de bénéficiaires

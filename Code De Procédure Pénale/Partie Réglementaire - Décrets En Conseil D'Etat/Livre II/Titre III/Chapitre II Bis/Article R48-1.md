@@ -59,9 +59,9 @@ de voyageurs.
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières,
 d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
 
-b) Les articles R. 241-61 à R. 241-64, l'article R. 241-66 du code de
-l'environnement relatifs aux parcs nationaux et les articles R. 242-68 à R.
-242-71 du même code relatifs aux réserves naturelles ;
+b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de
+l'environnement relatifs aux parcs nationaux et les articles R332-69 à R332-72
+du même code relatifs aux réserves naturelles ;
 
 c) L'article R. 322-5 du code forestier relatif à la protection contre
 l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à
@@ -103,17 +103,11 @@ où se pratiquent de façon habituelle l'élevage en vue de la vente, la
 commercialisation, le toilettage, le transit ou la garde de ces animaux pris
 pour l'application des articles 276, 276-2 et 276-3 du code rural ;
 
-g) Les articles 12 et 13 du décret n° 95-1285 du 13 décembre 1995 relatif à la
-protection des animaux en cours de transport ;
+g) Les articles R. 215-6 et R. 215-7 du code rural ;
 
-h) L'article 21 (b et c) du décret n° 97-903 du 1er octobre 1997 relatif à la
-protection des animaux au moment de leur abattage ou de leur mise à mort ;
+h) L'article R. 215-8 du code rural ;
 
-i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application
-du chapitre III du titre II du livre II du code rural, et relatifs à
-l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la
-déclaration en mairie, la vaccination, la stérilisation, l'assurance et les
-conditions de circulation de certains chiens.
+i) L'article R. 215-2 du code rural ;
 
 5° Contraventions réprimées par le code des postes et des communications
 électroniques prévues par les articles R. 10-1, R. 10-2, R. 10-4 et R. 10-9.

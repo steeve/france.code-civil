@@ -7,7 +7,7 @@ Les décisions de radiation de la liste des demandeurs d'emploi sont motivées e
 notifiées aux intéressés. Elles indiquent la durée de la radiation.
 
 Les personnes qui entendent les contester doivent former un recours préalable
-devant le délégué départemental. Ce recours, qui n'est pas suspensif, est soumis
-pour avis à la commission départementale prévue à l'article R. 351-34, à
-laquelle participe alors le délégué départemental de l'Agence nationale pour
-l'emploi. L'avis de la commission lie le délégué.
+devant le délégué départemental de l'Agence nationale pour l'emploi. Ce recours,
+qui n'est pas suspensif, peut être soumis, par le délégué départemental, pour
+avis à la commission départementale prévue à l'article R. 351-34, à laquelle il
+participe alors.

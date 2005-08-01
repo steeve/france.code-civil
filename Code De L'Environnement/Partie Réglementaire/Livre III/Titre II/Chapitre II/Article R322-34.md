@@ -1,0 +1,8 @@
+Article R322-34
+----
+Les préfets de régions et des départements intéressés, accompagnés des
+fonctionnaires qu'ils désignent, peuvent assister aux réunions de conseils de
+rivage.
+
+Le président ou un vice-président, le directeur du conservatoire ou son
+représentant peuvent également assister aux réunions.

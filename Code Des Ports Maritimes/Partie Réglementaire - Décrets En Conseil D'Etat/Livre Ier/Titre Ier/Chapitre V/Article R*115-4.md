@@ -1,10 +1,9 @@
 Article R*115-4
 ----
-I. Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du
-décret n° 77-1141 du 12 octobre 1977 modifié, pris pour l'application des
-articles L. 122-1, L. 122-2 et L. 122-3 du code de l'environnement, lorsque le
-coût total des travaux de construction ou d'extension excède le montant fixé au
-C de l'article 3 du même décret.
+I. Le dossier d'instruction comporte l'étude d'impact définie à l'article R.
+122-3 du code de l'environnement, lorsque le coût total des travaux de
+construction ou d'extension excède le montant fixé à l'article R. 122-8 du même
+code.
 
 Il comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617
 du 17 juillet 1984 pris pour l'application de l'article 14 de la loi n° 82-1153
