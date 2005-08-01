@@ -20,9 +20,8 @@ articles 41 duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
 adresse, à la direction des services fiscaux désignée au I, un état de chacun
-des inventaires semestriels de l'actif du fonds prévus à l'article 3 du décret
-n° 97-237 du 14 mars 1997 relatif aux fonds communs de placement dans
-l'innovation, à l'appui du bilan et du compte de résultats.
+des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-72 du
+code monétaire et financier, à l'appui du bilan et du compte de résultats.
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds
 délivre, au plus tard le 16 février de l'année civile qui suit celle de la
