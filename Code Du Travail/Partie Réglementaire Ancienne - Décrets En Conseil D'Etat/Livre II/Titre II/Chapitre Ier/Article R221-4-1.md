@@ -6,22 +6,25 @@ les activités spécifiées dans le tableau suivant :
 
 Établissements :
 
-Aéroports (commerces et services situés dans l'enceinte des).
+1° Aéroports (commerces et services situés dans l'enceinte des).
 
 Activités :
 
 Établissements :
 
-Aide et maintien à domicile (services d').
+2° Services rendus aux personnes physiques à leur domicile par des associations
+ou des entreprises ayant fait l'objet d'un agrément de l'Etat ou d'une
+collectivité territoriale qui procèdent à l'embauche de travailleurs pour les
+mettre à disposition de ces personnes physiques.
 
 Activités :
 
-Toutes activités liées à la continuité de l'aide et des soins aux personnes
-dépendantes.
+Toutes activités directement liées à l'objet de ces associations ou de ces
+entreprises.
 
 Établissements :
 
-Ascenseurs, monte-charge, matériels aéraulique, thermique et frigorifique
+3° Ascenseurs, monte-charge, matériels aéraulique, thermique et frigorifique
 (entreprises d'installation d').
 
 Activités :
@@ -30,7 +33,7 @@ Service de dépannage d'urgence.
 
 Établissements :
 
-Assurance (organismes et auxiliaires d').
+4° Assurance (organismes et auxiliaires d').
 
 Activités :
 
@@ -38,13 +41,13 @@ Service de permanence pour assistance aux voyageurs et touristes.
 
 Établissements :
 
-Casinos et établissements de jeux.
+5° Casinos et établissements de jeux.
 
 Activités :
 
 Établissements :
 
-Centres culturels, sportifs et récréatifs. Parcs d'attractions.
+6° Centres culturels, sportifs et récréatifs. Parcs d'attractions.
 
 Activités :
 
@@ -53,7 +56,7 @@ leur objet.
 
 Établissements :
 
-Change de monnaie, traitement des moyens de paiement (établissements de).
+7° Change de monnaie, traitement des moyens de paiement (établissements de).
 
 Activités :
 
@@ -62,7 +65,7 @@ la sécurité des moyens de paiement.
 
 Établissements :
 
-Enseignement (établissement d').
+8° Enseignement (établissement d').
 
 Activités :
 
@@ -70,37 +73,42 @@ Service d'internat.
 
 Établissements :
 
-Foires et salons ayant fait l'objet d'une autorisation ou d'un agrément,
-congrès, colloques et séminaires (entreprises d'organisation, d'expositions,
-d'installation de stands).
+9° Foires et salons régulièrement déclarés, congrès, colloques et séminaires
+(entreprises d'organisation, d'installation de stands, entreprises
+participantes).
 
 Activités :
 
-Organisation des manifestations, expositions, montage et démontage des stands.
+Organisation des manifestations, expositions, montage et démontage des stands,
+tenue des stands. Activité d'accueil du public.
 
 Établissements :
 
-Maintenance (entreprise de).
+10° Entreprises et services de maintenance.
 
 Activités :
 
-Travaux de révision, d'entretien, de réparation, de montage et de démontage,
-nécessitant, pour des raisons techniques, la mise hors exploitation des
-installations, ou qui doivent être réalisés de façon urgente. Travaux de
-dépannage d'appareils et d'installations domestiques à usage quotidien.
+Travaux de révision, d'entretien, de réparation, de montage et de démontage, y
+compris les travaux informatiques nécessitant, pour des raisons techniques, la
+mise hors exploitation des installations, ou qui doivent être réalisés de façon
+urgente. Travaux de dépannage d'appareils et d'installations domestiques à usage
+quotidien.
 
 Établissements :
 
-Marchés (entreprises d'installation de/et concessionnaires de droits de place).
+11° Marchés installés sur le domaine public et relevant de l'autorité municipale
+(entreprises d'installation de ces marchés, concessionnaires de droits de place,
+entreprises et commerces participants).
 
 Activités :
 
-Installation et démontage des marchés installés sur le domaine public et
-relevant de l'autorité municipale. Perception des droits de place.
+Installation et démontage des marchés Tenue des stands.
+
+Perception des droits de place.
 
 Établissements :
 
-Ouvrages routiers à péages (entreprises d'exploitation d').
+12° Ouvrages routiers à péages (entreprises d'exploitation d').
 
 Activités :
 
@@ -108,7 +116,7 @@ Service de péage.
 
 Établissements :
 
-Perception des droits d'auteurs et d'interprètes.
+13° Perception des droits d'auteurs et d'interprètes.
 
 Activités :
 
@@ -116,7 +124,7 @@ Service de contrôle.
 
 Établissements :
 
-Promoteurs et agences immobilières.
+14° Promoteurs et agences immobilières.
 
 Activités :
 
@@ -125,7 +133,7 @@ saisonnières de meublés liés au tourisme.
 
 Établissements :
 
-Soins médicaux infirmiers et vétérinaires (établissements et services de).
+15° Soins médicaux infirmiers et vétérinaires (établissements et services de).
 
 Activités :
 
@@ -134,7 +142,7 @@ soins.
 
 Établissements :
 
-Surveillance, gardiennage (entreprise de).
+16° Surveillance, gardiennage (entreprise de).
 
 Activités :
 
@@ -142,15 +150,87 @@ Service de surveillance, de gardiennage et de lutte contre l'incendie.
 
 Établissements :
 
-Syndicats d'initiative et offices de tourisme.
+17° Syndicats d'initiative et offices de tourisme.
 
 Activités :
 
 Établissements :
 
-Tourisme et loisirs (entreprises ou agences de services les concernant).
+18° Tourisme et loisirs (entreprises ou agences de services les concernant).
 
 Activités :
 
 Réservation et vente d'excursions, de places de spectacles, accompagnement de
 clientèle.
+
+Établissements :
+
+19° Entreprises et services d'ingénierie informatique.
+
+Activités :
+
+Infogérance pour les entreprises clientes bénéficiant d'une dérogation
+permanente permettant de donner aux salariés le repos hebdomadaire par
+roulement.
+
+Infogérance pour les entreprises qui ne peuvent subir, pour des raisons
+techniques impérieuses ou de sécurité, des interruptions de services
+informatiques.
+
+Infogérance de réseaux internationaux.
+
+Établissements :
+
+20° Entreprises et services de surveillance, d'animation et d'assistance de
+services de communication électronique.
+
+Activités :
+
+Travaux de surveillance, d'assistance téléphonique ou télématique.
+
+Établissements :
+
+21° Jardineries et graineteries.
+
+Activités :
+
+Toutes activités situées dans ces établissements et directement liées à leur
+objet.
+
+Établissements :
+
+22° Etablissements et services de garde d'animaux.
+
+Activités :
+
+Toute activité liée à la surveillance, aux soins, à l'entretien et à la
+nourriture d'animaux.
+
+Établissements :
+
+23° Entreprises concessionnaires ou gestionnaires de ports de plaisance.
+
+Activités :
+
+Surveillance permanente et continue des installations portuaires ainsi que de
+celle des bateaux amarrés, entrant ou sortant du port.
+
+Accueil vingt-quatre heures sur vingt-quatre des plaisanciers.
+
+Intervention des équipes de secours (sécurité terre-mer).
+
+Établissements :
+
+24° Etablissement de location de DVD et de cassettes vidéo.
+
+Activités :
+
+Activités situées dans ces établissements et directement liées à leur objet.
+
+Établissements :
+
+25° Associations agréées de surveillance de la qualité de l'air.
+
+Activités :
+
+Toutes activités directement liées à l'objet de ces associations.
