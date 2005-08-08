@@ -8,12 +8,12 @@ habituellement :
 
 1° Pour les mères, pendant sept jours au moins compris dans la période
 commençant six semaines avant la date présumée de l'accouchement et se terminant
-dix semaines après ; la durée de versement est de vingt-huit jours au maximum,
-consécutifs ou non ;
+dix semaines après ; la durée maximale de versement est de vingt-huit jours, ou
+sur demande de l'intéressée de cinquante-six jours, consécutifs ou non ;
 
 2° Pour les mères adoptantes, pendant sept jours au moins à compter de la date
-d'arrivée de l'enfant au foyer ; la durée maximale de versement est de quatorze
-jours au plus, consécutifs ou non ;
+d'arrivée de l'enfant au foyer ; la durée maximale de versement est égale à la
+moitié des durées fixées au 1° ;
 
 3° Pour les pères, pendant onze jours consécutifs au plus débutant dans la
 période de quatre mois suivant la naissance ou l'arrivée de l'enfant au foyer.

@@ -5,8 +5,11 @@ incombe, sous réserve des conditions d'ouverture des droits, au régime
 d'affiliation à la date de la première constatation médicale de la grossesse.
 
 Les modalités d'application des articles L. 722-8 à L. 722-8-3 sont celles
-prévues aux articles D. 615-4-1 à D. 615-13 et D. 722-15-1 et, pour les
-conjoints ou conjointes d'infirmiers, aux articles D. 722-15-1-1 à D. 722-15-9.
+prévues aux articles D. 615-4-1 à D. 615-13. Pour l'application aux conjoints
+collaborateurs des praticiens et auxiliaires médicaux conventionnés, la
+référence à la caisse primaire d'assurance maladie est substituée à la référence
+à l'organisme conventionné et la référence au praticien ou auxiliaire médical
+est substituée au chef d'entreprise.
 
 Pour l'ouverture du droit aux prestations en nature de l'assurance maternité de
 l'assuré qui cesse d'appartenir au régime d'assurance maladie, maternité, décès
