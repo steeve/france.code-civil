@@ -13,7 +13,7 @@ Bordeaux : quatre chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : six chambres ;
+Cergy-Pontoise : sept chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -33,7 +33,7 @@ Marseille : huit chambres ;
 
 Melun : six chambres ;
 
-Montpellier : six chambres ;
+Montpellier : sept chambres ;
 
 Nancy : deux chambres ;
 
