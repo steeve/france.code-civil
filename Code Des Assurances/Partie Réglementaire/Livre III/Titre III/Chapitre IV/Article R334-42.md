@@ -2,11 +2,9 @@ Article R334-42
 ----
 La solvabilité ajustée d'une entreprise d'assurance participante est la
 différence entre les éléments admissibles pour la marge de solvabilité calculés
-à partir des données consolidées ou combinées établies conformément aux
-dispositions de l'article R. 345-1 et l'exigence de solvabilité calculée à
-partir des données consolidées ou combinées des entreprises entrant dans le
-champ de la surveillance complémentaire établies en application de ces mêmes
-dispositions.
+à partir des données consolidées ou combinées et l'exigence de solvabilité
+calculée à partir des données consolidées ou combinées des entreprises entrant
+dans le champ de la surveillance complémentaire.
 
 Les éléments admissibles pour la marge de solvabilité de l'entreprise
 d'assurance participante pour laquelle la solvabilité ajustée est calculée et
@@ -51,3 +49,14 @@ par les autorités d'un Etat non membre de la Communauté européenne ou qui n'e
 pas partie au traité sur l'Espace économique européen dans lequel une entreprise
 apparentée d'assurance ou de réassurance a son siège et dont les exigences sont
 considérées comme équivalentes.
+
+En outre, si une entreprise utilise les normes comptables internationales
+adoptées par règlement de la Commission européenne, les données consolidées ou
+combinées prises en compte pour le calcul de sa marge de solvabilité ajustée
+font l'objet des retraitements nécessaires pour assurer la comparabilité de
+cette marge avec celle des entreprises n'appliquant pas ces normes.
+
+Un arrêté du ministre chargé de l'économie fixe la liste de ces retraitements et
+précise les cas et conditions dans lesquels la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance peut dispenser une
+entreprise d'effectuer un ou plusieurs de ces retraitements.
