@@ -1,4 +1,4 @@
-Article R4221-14
+Article R4111-16
 ----
 La commission émet son avis à la majorité des voix. En cas de partage égal,
 celle du président est prépondérante.
