@@ -1,13 +1,20 @@
 Article R4221-13
 ----
-La décision de suspension prononcée en application de l'article L. 4221-18 est
-notifiée au pharmacien par l'autorité administrative compétente par lettre
-remise en mains propres contre émargement. La décision précise la date à
-laquelle l'audition de l'intéressé prévue à ce même article a lieu. La décision
-est motivée.
+La commission mentionnée à l'article R. 4221-12 est composée comme suit :
 
-La mesure de suspension prend fin de plein droit lorsque la décision de
-l'instance ordinale est intervenue en application du deuxième alinéa de
-l'article L. 4221-18, ou lorsqu'il n'a pas été procédé à l'audition du
-pharmacien dans le délai prévu à ce même article, sauf si l'absence de cette
-formalité est le fait de l'intéressé lui-même.
+a) Le directeur de l'hospitalisation et de l'organisation des soins ou son
+représentant ;
+
+b) Le directeur général de la santé ou son représentant ;
+
+c) Le directeur de l'enseignement supérieur ou son représentant ;
+
+d) Deux enseignants-chercheurs des disciplines pharmaceutiques ayant des
+fonctions hospitalières ;
+
+e) Un représentant du Conseil national de l'ordre des pharmaciens.
+
+Les membres visés aux d et e sont nommés par arrêté du ministre chargé de la
+santé pour une durée de trois ans renouvelable une fois.
+
+Le président est désigné par le ministre parmi les membres mentionnés au d.

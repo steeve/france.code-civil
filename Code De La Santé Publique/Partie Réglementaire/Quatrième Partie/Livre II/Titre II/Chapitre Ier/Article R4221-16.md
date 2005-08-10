@@ -1,11 +1,13 @@
 Article R4221-16
 ----
-Lorsque le pharmacien suspendu en application de l'article L. 4221-18 a la
-qualité d'agent de droit public, l'autorité investie du pouvoir hiérarchique lui
-maintient, lorsqu'il est fonctionnaire, son traitement ainsi que l'indemnité de
-résidence, le supplément familial de traitement et les prestations familiales
-obligatoires et, lorsqu'il n'est pas fonctionnaire, ses émoluments mensuels.
+La décision de suspension prononcée en application de l'article L. 4221-18 est
+notifiée au pharmacien par l'autorité administrative compétente par lettre
+remise en mains propres contre émargement. La décision précise la date à
+laquelle l'audition de l'intéressé prévue à ce même article a lieu. La décision
+est motivée.
 
-Lorsque le pharmacien suspendu en application de l'article L. 4221-18 a la
-qualité de salarié soumis au code du travail, l'employeur lui maintient son
-salaire pendant la période de mise à pied conservatoire.
+La mesure de suspension prend fin de plein droit lorsque la décision de
+l'instance ordinale est intervenue en application du deuxième alinéa de
+l'article L. 4221-18, ou lorsqu'il n'a pas été procédé à l'audition du
+pharmacien dans le délai prévu à ce même article, sauf si l'absence de cette
+formalité est le fait de l'intéressé lui-même.
