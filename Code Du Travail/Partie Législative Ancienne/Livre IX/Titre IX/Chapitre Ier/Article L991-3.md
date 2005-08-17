@@ -9,10 +9,13 @@ Ces agents sont assermentés dans des conditions prévues par décret en Conseil
 d'Etat. Ils sont tenus au secret professionnel dans les termes des articles
 226-13 et 226-14 du code pénal.
 
+Dans l'exercice de leurs missions, les agents mentionnés au premier alinéa
+peuvent se faire assister par des fonctionnaires élèves ou stagiaires.
+
 L'administration fiscale, les organismes collecteurs mentionnés aux articles L.
 951-1, L. 952-1, L. 953-1, L. 953-3, L. 953-4, L. 961-9 et L. 961-10, le fonds
 national mentionné à l'article L. 961-13 et les administrations qui financent
-des actions de formation sont tenues de leur communiquer les renseignements
+des actions de formation sont tenus de leur communiquer les renseignements
 nécessaires à l'accomplissement de leur mission.
 
 L'autorité administrative présente chaque année au comité de coordination

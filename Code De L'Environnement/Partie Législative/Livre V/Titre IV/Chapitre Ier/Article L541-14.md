@@ -50,11 +50,13 @@ régional et des conseils généraux et des associations agréées de protection
 l'environnement.
 
 VII. - Le projet de plan est soumis pour avis au représentant de l'Etat dans le
-département, au conseil départemental d'hygiène ainsi qu'aux conseils généraux
-des départements limitrophes. En Ile-de-France, il est soumis pour avis au
-représentant de l'Etat dans la région ainsi qu'aux conseils généraux et aux
-conseils départementaux d'hygiène des départements situés sur le territoire de
-la région. Il peut être modifié pour tenir compte de ces avis, qui sont réputés
+département, à la commission départementale compétente en matière
+d'environnement, de risques sanitaires et technologiques ainsi qu'aux conseils
+généraux des départements limitrophes. En Ile-de-France, il est soumis pour avis
+au représentant de l'Etat dans la région ainsi qu'aux conseils généraux et aux
+commissions départementales compétentes en matière d'environnement, de risques
+sanitaires et technologiques des départements situés sur le territoire de la
+région. Il peut être modifié pour tenir compte de ces avis, qui sont réputés
 favorables s'ils n'ont pas été formulés dans un délai de trois mois à compter de
 la réception du projet. Si le plan est élaboré par l'Etat, dans les conditions
 prévues à l'article L. 541-15, l'avis du conseil général et, en Ile-de-France,

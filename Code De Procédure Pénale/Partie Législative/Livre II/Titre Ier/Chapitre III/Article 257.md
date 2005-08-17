@@ -14,5 +14,5 @@ prud'homme ;
 3° Secrétaire général du Gouvernement ou d'un ministère, directeur de ministère,
 membre du corps préfectoral ;
 
-4° Fonctionnaire des services de police ou de l'administration pénitentiaire,
-militaire, en activité de service.
+4° Fonctionnaire des services de police ou de l'administration pénitentiaire et
+militaire de la gendarmerie, en activité de service.

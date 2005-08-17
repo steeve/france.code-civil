@@ -1,8 +1,7 @@
 Article A7
 ----
 Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres
-organisés par les commandants de légion de gendarmerie départementale (ou
-autorités assimilées) concernés.
+organisés par les commandants de formations énumérés à l'article A. 2 concernés.
 
 Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux
 des documents imprimés ou manuscrits ou des codes annotés et commentés article

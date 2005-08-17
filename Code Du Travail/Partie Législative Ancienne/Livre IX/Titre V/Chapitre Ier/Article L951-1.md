@@ -26,8 +26,8 @@ professionnelle ;
 professionnalisation définis au titre VIII du présent livre et du droit
 individuel à la formation prévu à l'article L. 933-1.
 
-Sous réserve des dispositions qui précèdent et de celles de l'article L. 951-5,
-les employeurs s'acquittent de l'obligation prévue à l'article L. 950-1 :
+Sous réserve des dispositions qui précèdent, les employeurs s'acquittent de
+l'obligation prévue à l'article L. 950-1 :
 
 1° En finançant des actions mentionnées aux articles L. 900-2 ou L. 900-3 au
 bénéfice de leurs personnels dans le cadre d'un plan de formation établi dans le
@@ -47,11 +47,10 @@ par les régions, en application de l'article L. 941-1 ci-dessus ;
 4° En finançant les actions de formation prévues à l'article L. 122-28-7.
 
 Sont regardées comme des actions de formation au sens du sixième et du huitième
-alinéa du présent article et peuvent également faire l'objet d'un financement
-soit par les fonds d'assurance-formation, soit dans le cadre des dispositions de
-l'article L. 951-5, les formations destinées à permettre aux cadres bénévoles du
-mouvement coopératif, associatif ou mutualiste d'acquérir les compétences
-nécessaires à l'exercice de leurs responsabilités.
+alinéas du présent article et peuvent également faire l'objet d'un financement
+par les fonds d'assurance-formation les formations destinées à permettre aux
+cadres bénévoles du mouvement coopératif, associatif ou mutualiste d'acquérir
+les compétences nécessaires à l'exercice de leurs responsabilités.
 
 Pour le secteur des entreprises de pêche maritime et de cultures marines,
 l'employeur verse à l'organisme collecteur paritaire agréé mentionné au
