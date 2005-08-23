@@ -30,4 +30,5 @@ Le nombre de points supplémentaires attribués à ce titre est égal à 200 par
 année civile au titre de laquelle l'obligation prévue à l'alinéa ci-dessus est
 remplie.
 
-La valeur de service du point est égale à 0,484 Euros.
+La valeur de service du point est égale à 0,493 euros pour les prestations
+servies au titre de l'année 2005.
