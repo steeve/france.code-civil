@@ -8,12 +8,10 @@ obligatoire.
 
 L'accueil des enfants de moins de trois ans est assuré en priorité dans les
 écoles et classes maternelles situées dans un environnement social défavorisé,
-que ce soit dans les zones urbaines, rurales ou de montagne, et particulièrement
-en zone d'éducation prioritaire.
+que ce soit dans les zones urbaines, rurales ou de montagne et dans les régions
+d'outre-mer, et particulièrement en zone d'éducation prioritaire.
 
 En l'absence d'école ou de classe maternelle, les enfants de cinq ans dont les
 parents demandent la scolarisation sont admis à l'école élémentaire dans une
 section enfantine afin de leur permettre d'entrer dans le cycle des
-apprentissages fondamentaux prévu à l'article 3 du décret n° 90-788 du 6
-septembre 1990 relatif à l'organisation et au fonctionnement des écoles
-maternelles et élémentaires.
+apprentissages fondamentaux prévu à l'article D. 321-2 du code de l'éducation.

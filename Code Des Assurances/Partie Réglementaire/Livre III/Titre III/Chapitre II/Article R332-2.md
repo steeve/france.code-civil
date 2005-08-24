@@ -57,13 +57,24 @@ monétaire et financier, parts des fonds communs de placement dans l'innovation
 de l'article L. 214-41 du même code et parts des fonds d'investissement de
 proximité de l'article L. 214-41-1 du même code ;
 
-7° bis Actions des sociétés d'investissement à capital variable et parts des
-fonds communs de placement des articles L. 214-35, L. 214-35-2, L. 214-37 et L.
-214-38 du code monétaire et financier ;
+7° bis Actions des sociétés d'investissement à capital variable et parts de
+fonds communs de placement des articles L. 214-37 et L. 214-38 du code monétaire
+et financier, actions ou parts d'organisme de placement collectif en valeurs
+mobilières relevant de l'article L. 214-35-2 du code monétaire et financier,
+actions ou parts d'organismes de placement collectif en valeurs mobilières
+relevant de l'article L. 214-35 du code monétaire et financier dans sa rédaction
+antérieure au 2 août 2003 ;
+
+7° ter Parts ou actions d'organismes de placement collectif en levier mentionnés
+au R. 214-29 ou d'organismes de placement collectifs en valeurs mobilières à
+règles d'investissement allégées à effet de levier mentionnés au R. 214-32 ;
+
+7° quater Parts ou actions d'organismes de placement collectif en valeur
+mobilières de fonds alternatifs mentionnés au R. 214-36 ;
 
 8° Actions des sociétés d'investissement à capital variable et parts des fonds
-communs de placement, autres que celles mentionnées aux 3°,7° et 7° bis , dans
-les conditions fixées par l'article R. 332-14.
+communs de placement, autres que celles mentionnées aux 3° et 7° à 7° quater,
+dans les conditions fixées par l'article R. 332-14.
 
 Les marchés reconnus mentionnés aux 2°, 2° bis, 2° ter et 4° du présent article
 sont les marchés réglementés des Etats parties à l'accord sur l'Espace
