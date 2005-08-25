@@ -1,6 +1,6 @@
 Article L2221-5
 ----
-Les règles de la comptabilité des communes sont applicables aux régies
+Les règles budgétaires et comptables des communes sont applicables aux régies
 municipales, sous réserve des modifications prévues par les décrets en Conseil
 d'Etat mentionnés aux articles L. 2221-10 et L. 2221-14.
 

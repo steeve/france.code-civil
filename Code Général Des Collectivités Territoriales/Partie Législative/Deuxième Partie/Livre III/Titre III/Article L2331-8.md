@@ -14,14 +14,15 @@ décret ;
 
 5° Le produit des cessions des immobilisations financières ;
 
-6° Les donations avec charges ;
+6° Les dons et legs en nature et les dons et legs en espèces affectés à l'achat
+d'une immobilisation financière ou physique ;
 
 7° Pour les communes ou les établissements publics de coopération intercommunale
 dont la population est inférieure à 3 500 habitants et pour leurs établissements
-publics, les amortissements et les provisions ;
+publics, les amortissements ;
 
-8° Les provisions spéciales constituées pour toute dette financière faisant
-l'objet d'un différé de remboursement ;
+8° Le cas échéant, les recettes des provisions, dans les conditions prévues par
+décret en Conseil d'Etat ;
 
 9° Les surtaxes locales temporaires, notamment celles prévues par la loi du 15
 septembre 1942 relative à la perception de surtaxes locales temporaires sur les

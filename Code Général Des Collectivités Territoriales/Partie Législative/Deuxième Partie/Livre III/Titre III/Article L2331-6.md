@@ -1,6 +1,6 @@
 Article L2331-6
 ----
-- Les recettes non fiscales de la section d'investissement comprennent :
+Les recettes non fiscales de la section d'investissement comprennent :
 
 1° Le produit du relèvement du tarif des amendes relatives à la circulation
 routière ;
@@ -9,9 +9,7 @@ routière ;
 dont la population est égale ou supérieure à 3 500 habitants et pour leurs
 établissements publics, les amortissements des immobilisations ;
 
-3° Pour les communes et les établissements publics de coopération intercommunale
-dont la population est égale ou supérieure à 3 500 habitants et pour leurs
-établissements publics, les provisions ;
+3° Supprimé ;
 
 4° Le produit des subventions d'investissement et d'équipement ;
 

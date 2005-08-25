@@ -6,7 +6,10 @@ totalité dès la plus proche décision budgétaire suivant le vote du compte
 administratif et, en tout état de cause, avant la clôture de l'exercice suivant.
 
 La délibération d'affectation prise par l'assemblée délibérante est produite à
-l'appui de la décision budgétaire de reprise de ce résultat.
+l'appui de la décision budgétaire de reprise de ce résultat. Lorsque le compte
+administratif ne fait pas ressortir de besoin de financement en section
+d'investissement, le résultat de la section de fonctionnement constaté au compte
+administratif est repris à cette section sauf si le conseil en décide autrement.
 
 Le résultat déficitaire de la section de fonctionnement, le besoin de
 financement ou l'excédent de la section d'investissement sont repris en totalité
