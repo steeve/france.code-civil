@@ -26,7 +26,9 @@ Mayotte par l'article L. 3534-1.
 
 7° Les dépenses dont elle a la charge en matière d'apprentissage ;
 
-8° Les dépenses liées au service d'incendie et de secours ;
+8° Les dépenses liées au service d'incendie et de secours et notamment sa
+contribution au financement de la formation des officiers de sapeurs-pompiers
+volontaires assurée par leur établissement public national de formation ;
 
 9° Les dépenses résultant de l'entretien des équipements mobiliers ou
 immobiliers destinés à un service public ou à l'usage public transférés à la
