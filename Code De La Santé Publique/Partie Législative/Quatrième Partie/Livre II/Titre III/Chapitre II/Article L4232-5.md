@@ -11,6 +11,6 @@ pharmaciens inscrits à l'ordre dans la région.
 Il règle tous les rapports dans le cadre professionnel entre les pharmaciens
 agréés comme maîtres de stage et les étudiants stagiaires.
 
-Le conseil régional peut demander au pharmacien inspecteur régional de santé
-publique de faire effectuer des enquêtes. Il est saisi du résultat de ces
-enquêtes.
+Le conseil régional ou son président peut demander au pharmacien inspecteur
+régional de santé publique de faire procéder à des enquêtes. Le conseil régional
+est saisi du résultat de ces enquêtes.
