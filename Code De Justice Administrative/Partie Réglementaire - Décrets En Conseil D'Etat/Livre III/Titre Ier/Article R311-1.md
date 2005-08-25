@@ -22,10 +22,10 @@ collégiaux à compétence nationale ;
 d'application s'étend au-delà du ressort d'un seul tribunal administratif ;
 
 6° Des litiges d'ordre administratif nés hors des territoires soumis à la
-juridiction d'un tribunal administratif ou d'un conseil du contentieux
-administratif ;
+juridiction d'un tribunal administratif ;
 
-7° Abrogé ;
+7° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de
+la procédure devant la juridiction administrative ;
 
 8° Des recours en interprétation et des recours en appréciation de légalité des
 actes dont le contentieux relève en premier et dernier ressort du Conseil d'Etat

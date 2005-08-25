@@ -16,9 +16,11 @@ irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres
 que la condamnation prévue à l'article L. 761-1 ou la charge des dépens ;
 
-6° Statuer sur les requêtes relevant d'une série, qui présentent à juger en
-droit et en fait des questions identiques à celles que le Conseil d'Etat
-statuant au contentieux a déjà tranchées ensemble par une même décision.
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle
+appréciation ou qualification de faits, présentent à juger en droit des
+questions identiques à celles tranchées ensemble par une même décision du
+Conseil d'Etat statuant au contentieux ou examinées ensemble par un même avis
+rendu par le Conseil d'Etat en application de l'article L. 113-1.
 
 Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à
 exécution d'une décision juridictionnelle.

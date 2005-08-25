@@ -18,10 +18,13 @@ irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres
 que la condamnation prévue à l'article L. 761-1 ou la charge des dépens ;
 
-6° Statuer sur les requêtes relevant d'une série, qui présentent à juger en
-droit et en fait, pour la juridiction saisie, des questions identiques à celles
-qu'elle a déjà tranchées ensemble par une même décision passée en force de chose
-jugée.
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle
+appréciation ou qualification de faits, présentent à juger en droit, pour la
+juridiction saisie, des questions identiques à celles qu'elle a déjà tranchées
+ensemble par une même décision passée en force de chose jugée ou à celles
+tranchées ensemble par une même décision du Conseil d'Etat statuant au
+contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat
+en application de l'article L. 113-1.
 
 Les présidents des cours administratives d'appel et les présidents des
 formations de jugement des cours peuvent, en outre, par ordonnance, rejeter les
