@@ -20,7 +20,9 @@ Il diffuse auprès des professionnels les règles de bonnes pratiques.
 
 Le conseil départemental est composé de membres élus parmi les
 masseurs-kinésithérapeutes exerçant à titre libéral et parmi les
-masseurs-kinésithérapeutes exerçant à titre salarié.
+masseurs-kinésithérapeutes exerçant à titre salarié. Le nombre de membres du
+conseil départemental est fixé par voie réglementaire compte tenu du nombre de
+masseurs-kinésithérapeutes inscrits au dernier tableau publié.
 
 Les dispositions de l'article L. 4123-2 sont applicables au conseil
 départemental de l'ordre des masseurs-kinésithérapeutes.

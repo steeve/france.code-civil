@@ -5,6 +5,10 @@ diplômes, certificats, titres ou autorisations auprès du service de l'Etat
 compétent ou de l'organisme désigné à cette fin. En cas de changement de
 situation professionnelle, ils en informent ce service ou cet organisme.
 
+Il est établi, pour chaque département, par le service de l'Etat compétent ou
+l'organisme désigné à cette fin, une liste des membres de cette profession,
+portée à la connaissance du public.
+
 Un masseur-kinésithérapeute ne peut exercer sa profession, à l'exception de ceux
 qui relèvent du service de santé des armées, que :
 

@@ -13,6 +13,6 @@ avec le conseil national de l'ordre.
 
 Ils établissent et tiennent à jour un tableau des pharmaciens exerçant une
 activité professionnelle dans les circonscriptions qu'ils représentent. Chacun
-de ces tableaux est affiché à la direction des affaires sanitaires et sociales
-de chaque département ou collectivité et déposé chaque année à la préfecture
-ainsi qu'aux parquets des tribunaux du département ou de la collectivité.
+de ces tableaux est transmis aux services de l'Etat de chaque département ou
+collectivité et porté à la connaissance du public, dans des conditions fixées
+par décret.

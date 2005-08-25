@@ -1,14 +1,15 @@
 Article L4132-8
 ----
 La chambre disciplinaire de première instance de l'ordre des médecins de la
-région Ile-de-France comporte deux sections comptant chacune treize membres
-titulaires, dont six délégués du Conseil départemental de Paris et un délégué de
-chacun des conseils départementaux de la région Ile-de-France autres que celui
-de Paris. De plus, cette chambre disciplinaire de première instance comporte
-treize membres suppléants, dont six délégués du Conseil départemental de Paris
-et un délégué de chacun des conseils départementaux de la région Ile-de-France
-autres que celui de Paris.
+région Ile-de-France comporte trois sections de huit membres chacune.
 
-Les membres titulaires de chacune des sections et les membres suppléants de la
-chambre sont renouvelables par deux fractions de quatre membres et par une
-troisième fraction de cinq membres.
+Les médecins exerçant dans la région Provence-Alpes-Côte d'Azur et les médecins
+exerçant dans la région Corse sont soumis à la compétence de la chambre
+disciplinaire interrégionale de première instance de Provence-Alpes-Côte d'Azur
+- Corse.
+
+Cette chambre siège auprès du conseil régional de Provence-Alpes-Côte d'Azur.
+
+Les membres de cette formation sont élus dans les conditions de l'article L.
+4132-7 par l'assemblée des conseils régionaux de Provence-Alpes-Côte d'Azur et
+de la Corse.

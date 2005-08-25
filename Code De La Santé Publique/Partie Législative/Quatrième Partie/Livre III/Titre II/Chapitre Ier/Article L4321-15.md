@@ -7,9 +7,11 @@ voix consultative, d'un représentant du ministre chargé de la santé.
 
 Le Conseil national de l'ordre des masseurs-kinésithérapeutes comporte, en son
 sein, une chambre disciplinaire nationale présidée par un magistrat de la
-juridiction administrative et composée de membres élus parmi les
-masseurs-kinésithérapeutes exerçant à titre libéral et de
-masseurs-kinésithérapeutes exerçant à titre salarié.
+juridiction administrative.
+
+La chambre disciplinaire nationale comprend des membres élus par le conseil
+national pour moitié parmi les membres du conseil national, et pour moitié parmi
+les masseurs-kinésithérapeutes inscrits au tableau.
 
 Cette chambre est saisie en appel des décisions des chambres disciplinaires de
 première instance.

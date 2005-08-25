@@ -1,10 +1,8 @@
 Article L4126-4
 ----
-Si la décision a été rendue sans que le médecin, le chirurgien-dentiste ou la
-sage-femme mis en cause ait comparu ou se soit fait représenter, celui-ci peut
-faire opposition dans le délai de cinq jours à compter de la notification faite
-à sa personne, par lettre recommandée avec accusé de réception. Lorsque la
-notification n'a pas été faite à sa personne, le délai est de trente jours à
-partir de la notification à sa résidence professionnelle et par ministère
-d'huissier. L'opposition est reçue par simple déclaration au secrétariat du
-conseil qui en donne récépissé.
+Le médecin, le chirurgien-dentiste ou la sage-femme qui, mis en cause devant la
+chambre disciplinaire nationale, n'a pas produit de défense écrite en la forme
+régulière, est admis à former opposition à la décision rendue par défaut.
+
+L'opposition a un effet suspensif sauf lorsque la chambre est saisie d'un appel
+d'une décision prise en application de l'article L. 4113-14.

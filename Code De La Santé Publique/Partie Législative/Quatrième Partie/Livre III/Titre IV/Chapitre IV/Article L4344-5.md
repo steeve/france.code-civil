@@ -1,7 +1,11 @@
 Article L4344-5
 ----
-Sous réserve des dispositions de l'article L. 4344-3, l'interdiction temporaire
-ou définitive d'exercer la profession d'orthophoniste ou d'orthoptiste peut être
-prononcée, à titre de peine complémentaire, par les cours et tribunaux en
-matière criminelle ou correctionnelle, sauf, dans ce dernier cas, lorsque la
-peine principale prononcée est une peine d'amende.
+L'usage sans droit de la qualité d'orthophoniste ou d'orthoptiste ou d'un
+diplôme, certificat ou autre titre légalement requis pour l'exercice de ces
+professions est puni comme le délit d'usurpation de titre prévu à l'article
+433-17 du code pénal.
+
+Les personnes morales peuvent être déclarées pénalement responsables de ce
+délit, dans les conditions prévues par l'article 121-2 du code pénal. Elles
+encourent les peines prévues pour le délit d'usurpation de titre aux articles
+433-17 et 433-25 de ce même code.

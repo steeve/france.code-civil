@@ -1,8 +1,14 @@
 Article L4162-1
 ----
-Le fait de se livrer à l'exercice de la médecine ou de la chirurgie dentaire
-sans être titulaire du diplôme français d'Etat de docteur en médecine ou en
-chirurgie dentaire et en faisant précéder ou suivre son nom du titre de docteur
-sans en indiquer la nature ou sans préciser qu'il s'agit d'un titre étranger ou
-d'un diplôme français d'université est considéré comme une usurpation du titre
-français de docteur en médecine ou en chirurgie dentaire.
+L'usage sans droit de la qualité de médecin, de chirurgien-dentiste ou de
+sage-femme ou d'un diplôme, certificat ou autre titre légalement requis pour
+l'exercice de ces professions est puni comme le délit d'usurpation de titre
+prévu à l'article 433-17 du code pénal.
+
+Les personnes morales peuvent être déclarées pénalement responsables de ce
+délit, dans les conditions prévues par l'article 121-2 du code pénal. Elles
+encourent les peines prévues, pour le délit d'usurpation de titre, aux articles
+433-17 et 433-25 de ce même code.
+
+Le non-respect des dispositions de l'article L. 4111-5 est assimilé à une
+usurpation du titre de médecin, de chirurgien-dentiste ou de sage-femme.

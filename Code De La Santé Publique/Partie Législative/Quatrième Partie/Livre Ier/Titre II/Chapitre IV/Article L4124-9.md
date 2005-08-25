@@ -12,7 +12,3 @@ par décret en Conseil d'Etat.
 Les sages-femmes de la Réunion sont soumises à la compétence disciplinaire de la
 chambre disciplinaire de première instance dont relèvent les sages-femmes de la
 région Ile-de-France.
-
-Les membres du conseil départemental de l'ordre des sages-femmes de la Réunion
-participent à l'élection des membres de la chambre disciplinaire de première
-instance dont relèvent les sages-femmes de la région Ile-de-France.

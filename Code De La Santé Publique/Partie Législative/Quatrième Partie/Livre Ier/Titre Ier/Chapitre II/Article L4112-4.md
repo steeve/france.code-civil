@@ -12,7 +12,6 @@ Les décisions du conseil régional en matière d'inscription au tableau sont
 notifiées sans délai au président du conseil départemental qui les notifie
 lui-même dans les dix jours au médecin, au chirurgien-dentiste ou à la
 sage-femme qui en a été l'objet. Elles sont également notifiées sans délai au
-représentant de l'Etat dans le département, au procureur de la République et au
 conseil national de l'ordre. Elles peuvent être frappées d'appel devant le
 conseil national par le médecin, le chirurgien-dentiste ou la sage-femme
 intéressés ou par le conseil départemental.

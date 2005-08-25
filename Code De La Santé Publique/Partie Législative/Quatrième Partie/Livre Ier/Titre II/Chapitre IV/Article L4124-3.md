@@ -5,5 +5,5 @@ parties, soit d'office, ordonner une enquête sur les faits dont la constatation
 lui paraît utile à l'instruction de l'affaire.
 
 La décision qui ordonne l'enquête indique les faits sur lesquels elle doit
-porter et décide, suivant le cas, si elle a lieu devant la chambre ou devant un
-membre de la chambre qui se transporte sur les lieux.
+porter et désigne le membre de la juridiction disciplinaire chargé d'enquêter
+sur l'affaire.

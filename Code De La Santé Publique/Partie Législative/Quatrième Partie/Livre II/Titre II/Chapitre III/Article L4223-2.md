@@ -1,10 +1,17 @@
 Article L4223-2
 ----
-L'usurpation d'un titre donnant accès en France à l'exercice de la profession de
-pharmacien est puni des peines prévues à l'article 433-17 du code pénal.
+L'usage sans droit de la qualité de pharmacien ou d'un diplôme, certificat ou
+autre titre légalement requis pour l'exercice de cette profession est puni comme
+le délit d'usurpation de titre prévu à l'article 433-17 du code pénal.
 
-Est puni des mêmes peines le fait pour un pharmacien non titulaire du diplôme
-français d'Etat de docteur en pharmacie ou de pharmacien, dans tous les cas où
-il fait état de son titre ou de sa qualité de pharmacien, de ne pas faire
-figurer le lieu et l'établissement universitaire où il a obtenu le titre ou le
-certificat lui permettant d'exercer la profession de pharmacien.
+Les personnes physiques encourent également la peine complémentaire de fermeture
+définitive ou pour une période de cinq ans au plus de l'établissement dans
+lequel l'infraction a été commise.
+
+Les personnes morales peuvent être déclarées pénalement responsables de ce
+délit, dans les conditions prévues par l'article 121-2 du code pénal. Elles
+encourent les peines prévues pour le délit d'usurpation de titre aux articles
+433-17 et 433-25 de ce même code.
+
+Le non-respect des dispositions de l'article L. 4221-14 est assimilé à une
+usurpation du titre de pharmacien.

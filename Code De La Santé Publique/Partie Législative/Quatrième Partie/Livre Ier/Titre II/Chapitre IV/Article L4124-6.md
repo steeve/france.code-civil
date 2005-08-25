@@ -20,7 +20,8 @@ ne pouvant excéder trois années ;
 5° La radiation du tableau de l'ordre.
 
 Les deux premières de ces peines comportent, en outre, la privation du droit de
-faire partie du conseil départemental, de la chambre disciplinaire de première
+faire partie du conseil départemental, du conseil régional ou du conseil
+interrégional et du conseil national, de la chambre disciplinaire de première
 instance ou de la chambre disciplinaire nationale de l'ordre pendant une durée
 de trois ans ; les suivantes, la privation de ce droit à titre définitif. Le
 médecin, le chirurgien-dentiste ou la sage-femme radié ne peut se faire inscrire

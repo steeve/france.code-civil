@@ -10,7 +10,3 @@ décret en Conseil d'Etat.
 
 Les sages-femmes de la Réunion sont soumises à la compétence du conseil
 interrégional dont relèvent les sages-femmes de la région Ile-de-France.
-
-Les membres du conseil départemental de l'ordre des sages-femmes de la Réunion
-participent à l'élection des membres du conseil interrégional dont relèvent les
-sages-femmes de la région Ile-de-France.

@@ -11,8 +11,3 @@ disciplinaires de première instance de ces deux ordres en métropole.
 Les sages-femmes de la Guadeloupe, de la Guyane et de la Martinique sont
 soumises à la compétence disciplinaire de la chambre disciplinaire de première
 instance dont relèvent les sages-femmes de la région Ile-de-France.
-
-Les membres des conseils départementaux de l'ordre des sages-femmes de ces
-départements participent à l'élection des membres de la chambre disciplinaire de
-première instance de l'ordre des sages-femmes dont relèvent les sages-femmes de
-la région Ile-de-France.

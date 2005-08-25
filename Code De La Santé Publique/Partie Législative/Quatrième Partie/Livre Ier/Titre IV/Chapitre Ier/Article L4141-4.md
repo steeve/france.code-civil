@@ -6,12 +6,11 @@ européen, ayant satisfait en France à l'examen de cinquième année, peuvent �
 autorisés à exercer l'art dentaire, soit à titre de remplaçant, soit comme
 adjoint d'un chirurgien-dentiste.
 
-Ces autorisations sont délivrées par le représentant de l'Etat dans le
-département, après avis favorable du conseil départemental de l'ordre des
-chirurgiens-dentistes, et pour une durée limitée.
+Ces autorisations sont délivrées pour une durée limitée par le conseil
+départemental de l'ordre des chirurgiens-dentistes qui en informe les services
+de l'Etat.
 
-Un décret en Conseil d'Etat, pris après avis du conseil national de l'ordre des
-chirurgiens-dentistes, fixe les conditions d'application du premier alinéa du
-présent article, notamment le niveau d'études exigé selon la qualification du
-praticien remplacé, la durée maximale des autorisations et les conditions de
-leur prorogation.
+Un décret, pris après avis du Conseil national de l'ordre des
+chirurgiens-dentistes, fixe les conditions d'application du présent article,
+notamment le niveau d'études exigé selon la qualification du praticien remplacé,
+la durée maximale des autorisations et les conditions de leur prorogation.

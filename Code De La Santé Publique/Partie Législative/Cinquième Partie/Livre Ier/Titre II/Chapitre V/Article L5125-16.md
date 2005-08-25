@@ -1,20 +1,14 @@
 Article L5125-16
 ----
-Tout pharmacien se proposant d'exploiter une officine doit en faire la
-déclaration préalable à la préfecture où elle est enregistrée.
+Tout pharmacien ou toute société se proposant d'exploiter une officine doit en
+faire la déclaration auprès du conseil compétent de l'ordre des pharmaciens.
 
-Doivent être jointes à cette déclaration les justifications propres à établir
-que son auteur remplit les conditions exigées par les articles L. 4221-1 et L.
-5125-17.
+En cas de cessation d'exploitation, de transfert ou de regroupement d'officine,
+ou de tout changement affectant la propriété de l'officine, le pharmacien ou la
+société en informe le conseil de l'ordre compétent.
 
-Si l'une ou plusieurs de ces conditions font défaut, le représentant de l'Etat
-dans le département, après avis du conseil régional de l'ordre des pharmaciens
-et sur la proposition du directeur régional des affaires sanitaires et sociales,
-doit refuser l'enregistrement par une décision motivée.
+Le conseil compétent de l'ordre des pharmaciens transmet les informations
+concernant les débuts, les changements et les cessations d'exploitation des
+officines aux services de l'Etat.
 
-En cas de réclamation, il est statué par le ministre chargé de la santé après
-avis du conseil régional.
-
-Si aucune décision n'est intervenue dans le délai de deux mois à compter du
-dépôt de la déclaration, l'enregistrement de celle-ci est de droit à
-l'expiration dudit délai.
+Les modalités d'application du présent article sont fixées par décret.

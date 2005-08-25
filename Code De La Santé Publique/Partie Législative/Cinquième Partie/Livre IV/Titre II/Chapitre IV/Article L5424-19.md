@@ -8,10 +8,6 @@ Les personnes physiques coupables d'une infraction prévue au présent chapitre,
 encourent la peine complémentaire de la fermeture temporaire ou définitive de
 l'officine.
 
-Dans l'un et l'autre cas, le titulaire de l'officine est tenu de présenter un
-remplaçant au conseil régional de l'ordre qui, à défaut de présentation, en
-désigne un d'office.
-
 Dans tous les cas mentionnés aux articles du présent chapitre, à l'exception des
 articles L. 5424-12 et L. 5424-18, la récidive est punie de trois mois
 d'emprisonnement et de 7500 euros d'amende.

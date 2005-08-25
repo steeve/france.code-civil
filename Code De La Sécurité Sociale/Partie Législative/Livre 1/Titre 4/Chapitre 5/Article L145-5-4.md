@@ -1,7 +1,7 @@
 Article L145-5-4
 ----
 Tout professionnel qui contrevient aux décisions de l'assemblée
-interprofessionnelle du conseil mentionné à l'article L. 4191-1 du code de la
+interprofessionnelle du conseil mentionné à l'article L. 4391-1 du code de la
 santé publique, de la section des assurances sociales de la chambre
 disciplinaire de première instance ou de la section des assurances sociales de
 la chambre disciplinaire nationale du même conseil, ou du conseil régional ou

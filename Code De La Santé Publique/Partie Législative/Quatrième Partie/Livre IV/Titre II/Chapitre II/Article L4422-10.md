@@ -12,8 +12,8 @@ section E et avec le conseil national de l'ordre.
 
 "Il établit et tient à jour un tableau des pharmaciens exerçant une activité
 professionnelle dans les circonscriptions qu'il représente. Ce tableau est
-affiché dans les locaux de l'administration supérieure du territoire et déposé
-chaque année au parquet des tribunaux du territoire.
+transmis à l'administration supérieure du territoire et porté à la connaissance
+du public, dans des conditions fixées par décret.
 
 "Dans le cas où aucun pharmacien n'est désigné, l'administrateur supérieur
 exerce les attributions prévues aux alinéas précédents."

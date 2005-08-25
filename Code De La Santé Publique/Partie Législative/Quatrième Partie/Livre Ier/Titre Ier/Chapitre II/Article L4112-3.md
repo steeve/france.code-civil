@@ -23,6 +23,5 @@ Dans la semaine qui suit la décision du conseil, celle-ci est notifiée par
 lettre recommandée à l'intéressé. En cas de refus d'inscription, la décision
 doit être motivée.
 
-Chaque inscription au tableau est notifiée sans délai au représentant de l'Etat
-dans le département, au procureur de la République et au conseil national de
+Chaque inscription au tableau est notifiée sans délai au conseil national de
 l'ordre.
