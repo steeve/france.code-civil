@@ -1,6 +1,6 @@
 Article D731-91
 ----
-Pour l'année 2004, le taux de la cotisation due pour les personnes mentionnées
+Pour l'année 2005, le taux de la cotisation due pour les personnes mentionnées
 aux 1°, 2° et 5° de l'article L. 722-10, assise sur les revenus professionnels
 du chef d'exploitation ou d'entreprise agricole ou sur l'assiette forfaitaire
 définis aux articles L. 731-14 à L. 731-21, est fixé à 8,13 %.

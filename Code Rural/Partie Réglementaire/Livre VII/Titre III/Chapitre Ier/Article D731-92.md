@@ -1,6 +1,6 @@
 Article D731-92
 ----
-Pour l'année 2004, le taux de la cotisation dont sont redevables pour eux-mêmes
+Pour l'année 2005, le taux de la cotisation dont sont redevables pour eux-mêmes
 les chefs d'exploitation ou d'entreprise agricole exerçant à titre secondaire et
 assise sur les revenus professionnels du chef d'exploitation ou d'entreprise
 agricole ou sur l'assiette forfaitaire définis aux articles L. 731-14 à L.

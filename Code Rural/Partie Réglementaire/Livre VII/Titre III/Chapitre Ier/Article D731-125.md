@@ -1,6 +1,6 @@
 Article D731-125
 ----
-Pour l'année 2004, les taux des cotisations mentionnées aux 2° a) et 3° de
+Pour l'année 2005, les taux des cotisations mentionnées aux 2° a) et 3° de
 l'article L. 731-42 dues pour la couverture des dépenses complémentaires
 afférentes à l'assurance vieillesse agricole des chefs d'exploitation ou
 d'entreprise agricole, assises sur les revenus professionnels ou l'assiette
