@@ -20,13 +20,16 @@ d'adoption du budget avant cette date, l'exécutif de la collectivité
 territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et
 mandater les dépenses d'investissement, dans la limite du quart des crédits
 ouverts au budget de l'exercice précédent, non compris les crédits afférents au
-remboursement de la dette, et, pour les dépenses à caractère pluriannuel
-incluses dans une autorisation de programme, les liquider et les mandater dans
-la limite des crédits de paiement prévus au titre de l'exercice par la
-délibération d'ouverture d'autorisation de programme.
+remboursement de la dette.
 
 L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et
 l'affectation des crédits.
+
+Pour les dépenses à caractère pluriannuel incluses dans une autorisation de
+programme ou d'engagement votée sur des exercices antérieurs, l'exécutif peut
+les liquider et les mandater dans la limite des crédits de paiement prévus au
+titre de l'exercice par la délibération d'ouverture de l'autorisation de
+programme ou d'engagement.
 
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget
 lors de son adoption. Le comptable est en droit de payer les mandats et
@@ -115,7 +118,7 @@ provisions exigées.
 
 Art.L. 1612-8.-Le budget primitif de la collectivité territoriale est transmis
 au représentant de l'Etat dans le département au plus tard quinze jours après le
-délai limite fixé pour son adoption par les articles L. 1612-2 et L. 1612-9.A
+délai limite fixé pour son adoption par les articles L. 1612-2 et L. 1612-9. A
 défaut, il est fait application des dispositions de l'article L. 1612-2.
 
 Art.L. 1612-9.-A compter de la saisine de la chambre régionale des comptes et
