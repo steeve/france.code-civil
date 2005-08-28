@@ -31,7 +31,7 @@ enfants exonérées de l'impôt sur le revenu en application du 2° ter de l'art
 81 du code général des impôts à l'exception de celles correspondant aux
 retraites ou pensions liquidées avant le 1er janvier 2004 et dont sont
 titulaires les personnes bénéficiant, au 30 juin 2005, de l'aide personnalisée
-au logement (NOTA).
+au logement.
 
 Ne sont pas déduits du décompte des ressources les déficits constatés au cours
 d'une année antérieure à celle qui est prise en considération et qui font
@@ -52,7 +52,9 @@ Sont exclus de ce décompte :
 son conjoint, soit aux autres personnes définies au I du présent article ;
 
 - les arrérages des rentes viagères constituées en faveur d'une personne
-handicapée et mentionnés à l'article 199 septies du code général des impôts.
+handicapée et mentionnés à l'article 199 septies du code général des impôts ;
+
+- la prime de retour à l'emploi.
 
 III. - Lorsque les ressources ne provenant pas d'une activité salariée ne sont
 pas connues au moment de la demande ou du réexamen du droit, il est tenu compte

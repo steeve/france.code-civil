@@ -9,7 +9,8 @@ N'entrent pas en compte pour l'attribution de cette allocation les rentes
 viagères mentionnées aux 1° et 2° du I de l'article 199 septies du code général
 des impôts lorsqu'elles ont été constituées en faveur d'une personne handicapée
 ou, dans la limite d'un montant fixé par décret, lorsqu'elles ont été
-constituées par une personne handicapée pour elle-même.
+constituées par une personne handicapée pour elle-même. Il n'est également pas
+tenu compte dans ce calcul de la prime de retour à l'emploi.
 
 Les prestations et les ressources d'origine étrangère ou versées par une
 organisation internationale sont prises en compte pour l'application des limites

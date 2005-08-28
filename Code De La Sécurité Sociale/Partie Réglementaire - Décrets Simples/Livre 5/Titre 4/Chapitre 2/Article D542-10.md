@@ -32,7 +32,7 @@ présent article.
 Est toutefois exclue du décompte des ressources l'allocation mentionnée à
 l'article L. 262-3 du code de l'action sociale et des familles et servie soit à
 l'allocataire ou à son conjoint ou concubin, soit aux personnes définies à
-l'article D. 542-9.
+l'article D. 542-9. Il en est de même pour la prime de retour à l'emploi.
 
 Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du
 code général des impôts au titre des reports des déficits constatés au cours

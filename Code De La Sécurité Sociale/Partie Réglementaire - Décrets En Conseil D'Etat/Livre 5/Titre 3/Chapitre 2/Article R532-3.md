@@ -35,7 +35,8 @@ familles.
 
 Sont également exclus du décompte des ressources les arrérages des rentes
 viagères constituées en faveur d'une personne handicapée et mentionnées à
-l'article 199 septies (2°) du code général des impôts.
+l'article 199 septies (2°) du code général des impôts. Il en est de même pour la
+prime de retour à l'emploi.
 
 Il est fait abstraction des déductions opérées en vertu de l'article 156-I du
 code général des impôts au titre des reports des déficits constatés au cours
