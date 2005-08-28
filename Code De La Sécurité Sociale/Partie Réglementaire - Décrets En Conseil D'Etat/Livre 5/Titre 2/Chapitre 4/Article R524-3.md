@@ -33,7 +33,9 @@ montant égal à 150 % de la base mensuelle de calcul prévue à l'article L. 55
 ;
 
 6° Des rémunérations perçues dans le cadre d'un contrat insertion-revenu minimum
-d'activité ou d'un contrat d'avenir.
+d'activité ou d'un contrat d'avenir ;
+
+7° De la prime de retour à l'emploi.
 
 Lorsqu'en cours de versement de l'allocation le parent isolé commence à exercer
 une activité salariée ou non salariée ou à suivre une formation rémunérée, les
