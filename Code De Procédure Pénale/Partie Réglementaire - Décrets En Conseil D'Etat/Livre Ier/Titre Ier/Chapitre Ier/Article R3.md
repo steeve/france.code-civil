@@ -11,10 +11,10 @@ cassation, président ;
 2° Le général de gendarmerie, inspecteur général des armées, ou son représentant
 ;
 
-3° Des magistrats du ministère public, dont quatre au plus peuvent être des
-magistrats honoraires, et des officiers supérieurs de la gendarmerie dont quatre
-au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
-huit et au plus de quinze, est déterminé par arrêté conjoint du garde des
+3° Des magistrats du ministère public, dont six au plus peuvent être des
+magistrats honoraires, et des officiers supérieurs de la gendarmerie dont six au
+plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
+huit et au plus de vingt-deux, est déterminé par arrêté conjoint du garde des
 sceaux, ministre de la justice, et du ministre de la défense en fonction du
 nombre de candidats à l'examen technique prévu à l'article R. 5.
 
