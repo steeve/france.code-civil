@@ -19,15 +19,15 @@ ainsi que les propositions de tarifs de prestations mentionnés à l'article L.
 
 4° Le plan de redressement prévu à l'article L. 6143-3 ;
 
-5° Les comptes et l'affectation des résultats d'exploitation, ainsi que le bilan
-social ;
+5° Les comptes et l'affectation des résultats d'exploitation ;
 
-6° L'organisation de l'établissement en pôles d'activité et leurs éventuelles
-structures internes ainsi que les structures prévues à l'article L. 6146-10 ;
+6° L'organisation interne de l'établissement définie à l'article L. 6146-1 ainsi
+que les procédures prévues à l'article L. 6145-16 ;
 
-7° La politique de contractualisation interne prévue à l'article L. 6145-16 ;
+7° Les structures prévues à l'article L. 6146-10 ;
 
-8° La politique sociale et les modalités d'une politique d'intéressement ;
+8° La politique sociale et les modalités d'une politique d'intéressement ainsi
+que le bilan social ;
 
 9° La mise en oeuvre annuelle de la politique de l'établissement en matière de
 participation aux réseaux de santé mentionnés à l'article L. 6321-1 et d'actions

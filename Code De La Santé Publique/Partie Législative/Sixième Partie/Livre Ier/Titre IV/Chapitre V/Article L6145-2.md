@@ -1,8 +1,12 @@
 Article L6145-2
 ----
-Lorsque le directeur de l'agence régionale de l'hospitalisation constate que la
-répartition à laquelle le directeur a procédé en application de l'article L.
-6145-1 n'ouvre pas les crédits nécessaires au respect des obligations et des
-engagements de l'établissement ou modifie la répartition des dépenses par
-groupes fonctionnels qu'il avait précédemment arrêtée, il règle le budget et le
-rend exécutoire en assortissant sa décision d'une motivation explicite.
+Si l'état des prévisions de recettes et de dépenses n'est pas adopté par le
+conseil d'administration à une date fixée par voie réglementaire, le directeur
+de l'agence régionale de l'hospitalisation arrête l'état des prévisions de
+recettes et de dépenses. Cet état a alors un caractère limitatif.
+
+De même, le directeur de l'agence régionale de l'hospitalisation arrête les
+comptes et l'affectation des résultats d'exploitation au vu du compte financier
+produit par le comptable lorsque le conseil d'administration n'a pas pris la
+délibération prévue au 5° de l'article L. 6143-1 à une date fixée par voie
+réglementaire.

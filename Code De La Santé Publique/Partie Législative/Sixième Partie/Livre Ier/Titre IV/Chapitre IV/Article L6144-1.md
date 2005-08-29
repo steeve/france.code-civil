@@ -1,9 +1,10 @@
 Article L6144-1
 ----
 I. - Dans chaque établissement public de santé, il est créé une commission
-médicale d'établissement dotée de compétences consultatives et appelée à prendre
-des décisions dans des matières et dans des conditions fixées par voie
-réglementaire.
+médicale d'établissement dotée de compétences consultatives et appelée à
+préparer, avec le directeur dans les hôpitaux locaux et avec le conseil exécutif
+dans les autres établissements publics de santé, des décisions dans des matières
+et dans des conditions fixées par voie réglementaire.
 
 II. - La commission médicale d'établissement comporte au moins une
 sous-commission spécialisée, créée par le règlement intérieur de

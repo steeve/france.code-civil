@@ -29,7 +29,7 @@ baux de plus de dix-huit ans ;
 participation nécessaires à la réalisation de projet de recherche ou à
 l'exploitation des résultats ;
 
-9° Les conventions mentionnées à l'article L. 6162-6 ;
+9° Les conventions mentionnées à l'article L. 6162-5 ;
 
 10° Le règlement intérieur ;
 
