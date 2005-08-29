@@ -3,15 +3,16 @@ Article R*442-20
 Lorsque le mandant est doté d'un comptable public, s'appliquent les dispositions
 suivantes :
 
-I. - Le mandant transmet l'ampliation du mandat dès sa conclusion à son
-comptable public.
+I. - Le comptable public du mandant est consulté sur le projet de mandat.A
+l'expiration d'un délai d'un mois il est réputé avoir rendu son avis. Le mandant
+lui transmet l'ampliation du mandat dès sa conclusion.
 
 II. - Lorsque le mandataire est tenu d'ouvrir le compte mentionné au premier
-alinéa de l'article R. 442-19, le compte est ouvert auprès de l'Etat, de La
-Poste, de la Caisse des dépôts et consignations, de la Banque de France ou
-auprès d'un établissement de crédit ayant obtenu un agrément en vertu des
-dispositions applicables dans les Etats membres de la Communauté européenne ou
-les autres Etats parties à l'accord sur l'Espace économique européen.
+alinéa de l'article R. 442-19, le compte est ouvert auprès de l'Etat, de la
+Caisse des dépôts et consignations, de la Banque de France ou auprès d'un
+établissement de crédit ayant obtenu un agrément en vertu des dispositions
+applicables dans les Etats membres de la Communauté européenne ou les autres
+Etats parties à l'accord sur l'Espace économique européen.
 
 III. - Lorsque le mandat stipule que le mandataire dispose d'une avance
 permanente, l'ordonnateur du mandant fixe le montant de cette avance dans la

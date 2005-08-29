@@ -1,9 +1,9 @@
 Article R315-69
 ----
 Les comptes d'épargne-construction ouverts par les caisses d'épargne ordinaires
-ou par la caisse nationale d'épargne fonctionnent dans les conditions prévues
-par les textes régissant ces organismes en tout ce qui n'est pas contraire aux
-dispositions des articles L. 315-19 à L. 315-32 et de la présente sous-section.
+fonctionnent dans les conditions prévues par les textes régissant ces organismes
+en tout ce qui n'est pas contraire aux dispositions des articles L. 315-19 à L.
+315-32 et de la présente sous-section.
 
 Les dispositions particulières, nécessaires en ce qui concerne les comptes
 ouverts auprès des organismes avec lesquels la caisse des dépôts et
