@@ -5,5 +5,3 @@ identifie les services de l'établissement au sein desquels sont dispensés des
 soins palliatifs. Il précise les mesures qui doivent être prises en application
 des dispositions du contrat pluriannuel mentionné aux articles L. 6114-1 et L.
 6114-2.
-
-Les modalités d'application du présent article sont définies par décret.

@@ -1,22 +1,16 @@
 Article L6147-4
 ----
-L'établissement public de santé de Saint-Pierre-et-Miquelon est administré par
-un conseil d'administration et par un directeur. Ce dernier est nommé par
-l'autorité administrative supérieure. Il peut appartenir soit au corps médical,
-soit au corps du personnel de direction des établissements mentionnés aux 1°, 2°
-et 3° de l'article 2 du titre IV du statut général des fonctionnaires.
+L'établissement public de santé de Saint-Pierre-et-Miquelon est soumis aux
+dispositions du présent code sous les réserves suivantes :
 
-Le conseil d'administration comprend des représentants des collectivités locales
-intéressées, du personnel médical et pharmaceutique, de la caisse de prévoyance
-sociale, du personnel titulaire n'appartenant pas au corps médical et des
-personnes qualifiées désignées par le représentant de l'Etat dans la
-collectivité territoriale.
+1° Les compétences de l'agence régionale de l'hospitalisation et de son
+directeur sont exercées, à son égard, par le préfet ;
 
-La commission médicale est obligatoirement consultée sur le fonctionnement des
-services médicaux.
+2° Son directeur peut appartenir soit au corps médical, soit au corps du
+personnel de direction des établissements mentionnés aux 1°, 2° et 3° de
+l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
+statutaires relatives à la fonction publique hospitalière ; il est nommé par le
+ministre chargé de la santé après avis du ministre chargé de l'outre-mer ;
 
-Le comité technique paritaire est obligatoirement consulté sur le fonctionnement
-des services, et notamment sur les conditions de travail dans l'établissement.
-
-Un décret détermine la composition du conseil d'administration et les
-incompatibilités s'appliquant à ses membres.
+3° Son conseil d'administration comprend, outre les membres mentionnés à
+l'article L. 6143-5, des représentants de la caisse de prévoyance sociale.

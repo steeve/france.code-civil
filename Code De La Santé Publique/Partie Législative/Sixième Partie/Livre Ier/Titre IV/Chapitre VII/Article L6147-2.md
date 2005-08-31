@@ -25,10 +25,10 @@ Le directeur est nommé par arrêté des ministres chargés de l'action sociale,
 l'intérieur et de la santé, après avis du président du conseil d'administration.
 
 Le centre d'accueil et de soins hospitaliers est soumis, en ce qui concerne son
-budget et son fonctionnement, aux dispositions du présent livre. Il est soumis à
-la tutelle de l'Etat. Les modalités d'application des dispositions du présent
-titre sont adaptées par voie réglementaire aux conditions particulières de
-fonctionnement de cet établissement.
+budget et son fonctionnement, aux dispositions du présent livre. Les modalités
+d'application des dispositions du présent titre sont adaptées par voie
+réglementaire aux conditions particulières de fonctionnement de cet
+établissement.
 
 A l'exception des dispositions concernant le budget, l'administration et le
 fonctionnement, la loi n° 75-535 du 30 juin 1975 relative aux institutions

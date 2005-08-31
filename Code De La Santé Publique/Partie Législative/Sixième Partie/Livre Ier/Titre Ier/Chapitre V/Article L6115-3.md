@@ -22,7 +22,8 @@ conditions prévues à l'article L. 6141-1 ;
 6° Approuve les délibérations des établissements publics de santé mentionnées au
 2° de l'article L. 6143-4 ;
 
-7° Exerce les compétences définies aux articles L. 6145-1 et L. 6145-4 ;
+7° Exerce les compétences définies aux articles L. 6145-1, L. 6145-2 et L.
+6145-4 ;
 
 8° Conclut les contrats de concession pour l'exécution du service public
 hospitalier dans les conditions définies à l'article L. 6161-9 ;
@@ -34,10 +35,12 @@ hospitalier dans les conditions définies à l'article L. 6161-9 ;
 mentionnée à l'article L. 6161-6 ;
 
 11° Fixe les dispositions prévues aux articles L. 162-22-4, L. 162-22-12 et L.
-162-22-14 du code de la sécurité sociale.
+162-22-14 du code de la sécurité sociale ;
+
+12° Prend les mesures prévues à l'article L. 6143-3 ou à l'article L. 6143-3-1.
 
 Le directeur rend compte à la commission exécutive des décisions qu'il prend sur
-les matières autres que celles énumérées aux 1° à 11°. Il la tient informée de
+les matières autres que celles énumérées aux 1° à 12 Il la tient informée de
 toute suspension d'autorisation en application du premier alinéa de l'article L.
 6122-13.
 

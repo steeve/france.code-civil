@@ -22,23 +22,20 @@ sanitaire de Saint-Pierre-et-Miquelon et des priorités nationales ou locales en
 matière de politique sanitaire en tenant compte de l'activité et des coûts de
 l'établissement. Le montant des dépenses hospitalières autorisées représente la
 part des dépenses de l'établissement prises en compte pour la fixation de la
-dotation annuelle et des tarifs de prestations. Ce montant a un caractère
-limitatif.
+dotation annuelle de financement et des tarifs de prestations. Ce montant a un
+caractère limitatif.
 
-La dotation globale mentionnée à l'alinéa précédent couvre, pour les missions
-mentionnées au troisième alinéa de l'article L. 6147-3, la part des dépenses
-prises en charge par l'assurance maladie.
-
-Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon,
-les compétences dévolues au directeur de l'agence régionale de l'hospitalisation
-sont exercées par le préfet.
+La dotation annuelle de financement mentionnée à l'alinéa précédent couvre, pour
+les missions mentionnées au troisième alinéa de l'article L. 6147-3, la part des
+dépenses prises en charge par l'assurance maladie.
 
 Par dérogation aux dispositions de l'article L. 174-2 du code de la sécurité
-sociale, la dotation globale est versée par la caisse de prévoyance sociale
-mentionnée à l'article 3 de l'ordonnance n° 77-1102 du 26 septembre 1977 portant
-extension et adaptation au département de Saint-Pierre-et-Miquelon de diverses
-dispositions relatives aux affaires sociales. La contribution de l'Etablissement
-national des invalides de la marine au financement de la dotation globale versée
-par la caisse de protection sociale est fixée par accord entre les deux régimes.
-A défaut d'accord, la contribution de l'Etablissement national des invalides de
-la marine est fixée par arrêté du ministre chargé de la sécurité sociale.
+sociale, la dotation annuelle de financement est versée par la caisse de
+prévoyance sociale mentionnée à l'article 3 de l'ordonnance n° 77-1102 du 26
+septembre 1977 portant extension et adaptation au département de
+Saint-Pierre-et-Miquelon de diverses dispositions relatives aux affaires
+sociales. La contribution de l'Etablissement national des invalides de la marine
+au financement de la dotation annuelle de financement versée par la caisse de
+protection sociale est fixée par accord entre les deux régimes. A défaut
+d'accord, la contribution de l'Etablissement national des invalides de la marine
+est fixée par arrêté du ministre chargé de la sécurité sociale.

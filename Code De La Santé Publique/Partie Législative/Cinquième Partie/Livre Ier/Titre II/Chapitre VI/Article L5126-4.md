@@ -7,3 +7,8 @@ sont autorisés à vendre au public, au détail et dans le respect des condition
 prévues aux articles L. 5123-2 à L. 5123-4. Les conditions d'utilisation des
 médicaments et des dispositifs médicaux stériles sont arrêtées conjointement par
 les ministres chargés de la santé et de la sécurité sociale.
+
+La part prise en charge par les régimes obligatoires d'assurance maladie au
+titre des remboursements afférents à ces médicaments est facturée à la caisse
+désignée en application de l'article L. 174-2 ou L. 174-18 du code de la
+sécurité sociale.
