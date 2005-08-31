@@ -1,22 +1,12 @@
 Article L1336-5
 ----
-Est puni d'un an d'emprisonnement et d'une amende de 15000 euros le fait :
+Les ressources de l'agence sont constituées notamment :
 
-1° D'exercer une activité ou d'utiliser un procédé, un dispositif ou une
-substance interdits en application de l'article L. 1333-2 ;
+1° Par des subventions des collectivités publiques, de leurs établissements
+publics, de la Communauté européenne ou des organisations internationales ;
 
-2° D'exposer des personnes au-delà des valeurs limites fixées par les décrets
-pris pour l'application du 3° de l'article L. 1333-1 ;
+2° Par des redevances pour services rendus ;
 
-3° D'entreprendre ou d'exercer une activité mentionnée à l'article L. 1333-1
-sans être titulaire de l'autorisation ou sans avoir effectué la déclaration
-prévue à l'article L. 1333-4 ;
+3° Par des produits divers, dons et legs ;
 
-4° De ne pas assurer, en violation de l'article L. 1333-7, la reprise des
-sources radioactives scellées destinées à des activités soumises à déclaration
-ou autorisation préalable, ou de ne pas constituer la garantie financière prévue
-audit article ;
-
-5° D'utiliser les radiations ionisantes sur le corps humain à des fins et dans
-des conditions autres que celles prévues par le premier alinéa de l'article L.
-1333-11.
+4° Par des emprunts.

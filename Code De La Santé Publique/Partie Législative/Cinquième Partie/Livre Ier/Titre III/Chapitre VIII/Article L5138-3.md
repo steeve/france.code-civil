@@ -6,6 +6,5 @@ sanitaire des produits de santé de certifier que l'établissement qui produit l
 matières premières respecte les bonnes pratiques mentionnées à l'article L.
 5138-2.
 
-Le contenu de ce certificat est fixé par arrêté du ministre chargé de la santé,
-pris sur proposition de l'Agence française de sécurité sanitaire des produits de
-santé.
+Le contenu de ce certificat est fixé par décision de l'Agence française de
+sécurité sanitaire des produits de santé.

@@ -11,6 +11,3 @@ organisations internationales ;
 3° Par des produits divers, dons et legs ;
 
 4° Par des emprunts.
-
-L'institut peut attribuer des subventions dans des conditions prévues par
-décret.

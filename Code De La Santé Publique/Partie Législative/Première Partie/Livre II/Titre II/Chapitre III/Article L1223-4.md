@@ -10,6 +10,11 @@ nature et l'étendue de la délégation consentie par le président de
 l'Etablissement français du sang pour la gestion de l'établissement de
 transfusion sanguine concerné.
 
+Le directeur de chacun des établissements de transfusion sanguine assure, sous
+l'autorité de la personne responsable mentionnée à l'article L. 1222-2, la mise
+en oeuvre des dispositions législatives et réglementaires relatives à la qualité
+et la sécurité des produits sanguins labiles.
+
 Un décret détermine les conditions dans lesquelles la liste d'aptitude prévue au
 premier alinéa est établie, et notamment la formation spécialisée et
 l'expérience pratique que les directeurs doivent justifier ainsi que la durée

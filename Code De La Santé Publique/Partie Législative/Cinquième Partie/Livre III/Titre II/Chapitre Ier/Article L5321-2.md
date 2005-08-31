@@ -16,4 +16,5 @@ organisations internationales ;
 
 L'agence ne peut recevoir des dons des personnes dont elle contrôle l'activité.
 
-L'agence peut attribuer des subventions dans des conditions prévues par décret.
+L'agence peut attribuer des subventions dans des conditions prévues par le
+conseil d'administration.

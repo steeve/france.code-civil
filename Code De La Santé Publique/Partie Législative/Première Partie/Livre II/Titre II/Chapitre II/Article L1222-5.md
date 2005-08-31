@@ -12,9 +12,9 @@ consultative.
 Le président et les autres membres du conseil d'administration sont nommés par
 décret.
 
-Le président du conseil d'administration assure la direction de l'agence, dans
-le cadre des orientations définies par le conseil d'administration, dont il
-exécute les délibérations.
+Le président du conseil d'administration assure la direction de l'Etablissement
+français du sang, dans le cadre des orientations définies par le conseil
+d'administration, dont il exécute les délibérations.
 
 L'établissement comprend un conseil scientifique chargé de donner des avis sur
 les questions médicales, scientifiques et techniques dont les membres sont

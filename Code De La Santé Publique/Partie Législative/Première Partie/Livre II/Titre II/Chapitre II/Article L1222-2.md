@@ -1,7 +1,9 @@
 Article L1222-2
 ----
-Avant distribution d'un nouveau produit sanguin labile, l'Etablissement français
-du sang doit communiquer à l'Agence française de sécurité sanitaire des produits
-de santé, les informations relatives aux caractéristiques, à la préparation, au
-contrôle, à l'efficacité et à la sécurité du produit afin qu'il soit procédé à
-son enregistrement.
+Le respect, dans les établissements de transfusion sanguine, des dispositions
+législatives et réglementaires relatives à la qualité et la sécurité des
+produits sanguins labiles est garanti par une personne responsable désignée à
+cet effet par le président de l'Etablissement français du sang dans des
+conditions prévues par décret en Conseil d'Etat. La personne responsable a
+autorité sur les directeurs des établissements de transfusion sanguine pour
+l'exercice de cette mission.

@@ -45,3 +45,9 @@ Les personnes mentionnées aux cinquième et sixième alinéas ci-dessus sont
 également soumises aux dispositions du premier alinéa de l'article L. 4113-13.
 En cas de manquement à ces dispositions, l'autorité administrative peut mettre
 fin à leurs fonctions.
+
+Comme les agents de l'agence, les membres des conseils et commissions et les
+personnes qui apportent occasionnellement leur concours à l'agence ou à ces
+instances sont astreints au secret professionnel pour les informations dont ils
+ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et
+sous les peines prévues aux articles 226-13 et 226-14 du code pénal.

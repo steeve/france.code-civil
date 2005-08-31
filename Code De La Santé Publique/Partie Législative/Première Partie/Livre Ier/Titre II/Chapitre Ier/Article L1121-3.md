@@ -25,12 +25,12 @@ personne qui s'y prête, peuvent être effectuées sous la direction et la
 surveillance d'une personne qualifiée.
 
 Les recherches biomédicales portant sur des médicaments sont réalisées dans le
-respect des règles de bonnes pratiques cliniques fixées par arrêté du ministre
-chargé de la santé sur proposition de l'Agence française de sécurité sanitaire
-des produits de santé. Pour les autres recherches, des recommandations de bonnes
-pratiques sont fixées par arrêté du ministre chargé de la santé, sur proposition
-de l'Agence française de sécurité sanitaire des produits de santé pour les
-produits mentionnés à l'article L. 5311-1.
+respect des règles de bonnes pratiques cliniques fixées par décision de l'Agence
+française de sécurité sanitaire des produits de santé. Pour les autres
+recherches, des recommandations de bonnes pratiques sont fixées par arrêté du
+ministre chargé de la santé et par décision de l'Agence française de sécurité
+sanitaire des produits de santé pour les produits mentionnés à l'article L.
+5311-1.
 
 Les personnes chargées du contrôle de qualité d'une recherche biomédicale et
 dûment mandatées à cet effet par le promoteur ont accès, sous réserve de

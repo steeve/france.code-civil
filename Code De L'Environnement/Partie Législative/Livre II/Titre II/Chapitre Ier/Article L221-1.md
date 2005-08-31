@@ -6,11 +6,11 @@ surveillance de la qualité de l'air et de ses effets sur la santé et sur
 l'environnement. Il confie à l'Agence de l'environnement et de la maîtrise de
 l'énergie la coordination technique de la surveillance de la qualité de l'air.
 Des objectifs de qualité de l'air, des seuils d'alerte et des valeurs limites
-sont fixés, après avis de l'Agence française de sécurité sanitaire
-environnementale, en conformité avec ceux définis par l'Union européenne ou, à
-défaut, par l'Organisation mondiale de la santé. Ces objectifs, seuils d'alerte
-et valeurs limites sont régulièrement réévalués pour prendre en compte les
-résultats des études médicales et épidémiologiques.
+sont fixés, après avis de l'Agence française de sécurité sanitaire de
+l'environnement et du travail, en conformité avec ceux définis par l'Union
+européenne ou, à défaut, par l'Organisation mondiale de la santé. Ces objectifs,
+seuils d'alerte et valeurs limites sont régulièrement réévalués pour prendre en
+compte les résultats des études médicales et épidémiologiques.
 
 II. - Au sens du présent titre, on entend par :
 

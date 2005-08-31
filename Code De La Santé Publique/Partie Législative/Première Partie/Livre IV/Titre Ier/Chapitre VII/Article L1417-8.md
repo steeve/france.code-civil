@@ -19,6 +19,3 @@ Communauté européenne ou des organisations internationales ;
 6° Par des produits divers, dons et legs ;
 
 7° Par des emprunts.
-
-L'institut peut attribuer des subventions dans des conditions prévues par
-décret.

@@ -4,7 +4,8 @@ L'Agence française de sécurité sanitaire des produits de santé est un
 établissement public de l'Etat, placé sous la tutelle du ministre chargé de la
 santé.
 
-L'agence participe à l'application des lois et règlements relatifs à
+L'agence participe à l'application des lois et règlements et prend, dans les cas
+prévus par des dispositions particulières, des décisions relatives à
 l'évaluation, aux essais, à la fabrication, à la préparation, à l'importation, à
 l'exportation, à la distribution en gros, au conditionnement, à la conservation,
 à l'exploitation, à la mise sur le marché, à la publicité, à la mise en service
@@ -29,7 +30,7 @@ compris lorsqu'ils sont prélevés à l'occasion d'une intervention chirurgicale
 
 7° Les produits cellulaires à finalité thérapeutique ;
 
-8° (Abrogé)
+8° Le lait maternel collecté, qualifié, préparé et conservé par les lactariums ;
 
 9° Les produits destinés à l'entretien ou à l'application des lentilles de
 contact ;
@@ -41,9 +42,7 @@ véhicules dans les cas prévus à l'article L. 3114-1 ;
 
 12° Les produits thérapeutiques annexes ;
 
-13° Les aliments diététiques destinés à des fins médicales spéciales qui, du
-fait de leur composition, sont susceptibles de présenter un risque pour les
-personnes auxquelles ils ne sont pas destinés ;
+13° (Abrogé)
 
 14° Les lentilles oculaires non correctrices ;
 

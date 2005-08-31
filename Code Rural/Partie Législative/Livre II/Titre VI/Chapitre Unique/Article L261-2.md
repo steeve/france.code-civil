@@ -12,3 +12,7 @@ Les avis émis par l'agence sont rendus publics.
 
 Dans le cas d'urgence dûment motivée, l'Agence française de sécurité sanitaire
 des aliments est informée sans délai des dispositions arrêtées.
+
+Les dispositions du présent article ne sont pas applicables aux projets de
+dispositions législatives et réglementaires relatives aux médicaments
+vétérinaires régis par le code de la santé publique.

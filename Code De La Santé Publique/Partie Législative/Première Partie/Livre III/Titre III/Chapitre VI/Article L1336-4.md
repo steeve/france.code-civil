@@ -1,13 +1,12 @@
 Article L1336-4
 ----
-Est puni de trois ans d'emprisonnement et de 75000 euros d'amende le fait :
+L'agence emploie du personnel selon les dispositions prévues aux articles L.
+1323-6 à L. 1323-9.
 
-1° Pour un propriétaire ou un locataire principal, à partir de la notification
-faite par le représentant de l'Etat dans le département de l'extrait de
-délibération du conseil départemental mentionnée à l'article L. 1331-20, de
-renouveler un bail, ou de relouer des locaux vacants ou des locaux insalubres
-dans un immeuble déclaré partiellement insalubre ;
-
-2° De ne pas rendre l'utilisation de locaux ou d'installations conformes aux
-prescriptions de l'arrêté du représentant de l'Etat mentionné à l'article L.
-1331-24.
+Les membres des conseils et commissions siégeant auprès de l'agence ainsi que
+les personnes qui apportent occasionnellement leur concours à l'agence ou à ces
+instances sont soumis aux dispositions des cinquième à neuvième alinéas de
+l'article L. 1323-9. Comme les agents de l'agence, ils sont astreints au secret
+professionnel pour les informations dont ils ont pu avoir connaissance en raison
+de leurs fonctions, dans les conditions et sous les peines prévues aux articles
+226-13 et 226-14 du code pénal.

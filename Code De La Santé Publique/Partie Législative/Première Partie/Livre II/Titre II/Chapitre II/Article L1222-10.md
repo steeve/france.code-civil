@@ -9,4 +9,4 @@ du sang ainsi que les conditions d'exercice de la tutelle et du contrôle
 financier de l'Etat ;
 
 2° Les qualifications des personnels de l'établissement pour les catégories
-qu'il détermine.
+qu'il détermine, et de la personne responsable mentionnée à l'article L. 1222-2.

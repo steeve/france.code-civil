@@ -16,7 +16,7 @@ la qualité de l'air, son évolution possible et ses effets sur la santé et
 l'environnement. L'inventaire des émissions des substances polluantes et le
 rapport sur la qualité de l'air, son évolution possible et ses effets sur la
 santé et l'environnement sont soumis à l'avis de l'Agence française de sécurité
-sanitaire environnementale.
+sanitaire de l'environnement et du travail.
 
 Lorsque les objectifs de qualité de l'air ne sont pas atteints ou lorsque les
 seuils d'alerte et valeurs limites mentionnés à l'article L. 221-1 sont dépassés
