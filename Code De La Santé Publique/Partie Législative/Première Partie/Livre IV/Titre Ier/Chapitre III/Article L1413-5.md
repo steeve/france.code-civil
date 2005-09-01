@@ -21,5 +21,5 @@ santé et, le cas échéant, des autres ministres intéressés fixe les conditio
 cette transmission.
 
 L'institut accède, à sa demande, aux informations couvertes par le secret
-médical ou industriel dans des conditions préservant la confidentialité de ces
-données à l'égard des tiers.
+médical ou le secret en matière commerciale et industrielle dans des conditions
+préservant la confidentialité de ces données à l'égard des tiers.

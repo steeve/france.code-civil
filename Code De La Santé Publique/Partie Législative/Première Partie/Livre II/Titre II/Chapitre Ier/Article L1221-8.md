@@ -3,11 +3,12 @@ Article L1221-8
 Peuvent être préparés à partir du sang ou de ses composants :
 
 1° Des produits sanguins labiles, comprenant notamment le sang total, le plasma
-et les cellules sanguines d'origine humaine, dont la liste et les
-caractéristiques sont fixées par le ministre chargé de la santé, sur proposition
-de l'Agence française de sécurité sanitaire des produits de santé, après avis de
-l'Etablissement français du sang, et publiées au Journal officiel de la
-République française ;
+et les cellules sanguines d'origine humaine. A l'exception des produits sanguins
+labiles destinés à des recherches biomédicales, seuls peuvent être distribués ou
+délivrés à des fins thérapeutiques, les produits sanguins labiles dont la liste
+et les caractéristiques sont fixées par décision de l'Agence française de
+sécurité sanitaire des produits de santé, après avis de l'Etablissement français
+du sang, et publiée au Journal officiel de la République française.
 
 2° Des pâtes plasmatiques ;
 

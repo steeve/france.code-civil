@@ -14,14 +14,12 @@ pour donner son avis est fixé par voie réglementaire.
 
 Des règles de bonne pratique relatives au prélèvement, à la conservation, à la
 transformation, au transport et à l'utilisation des organes, tissus et cellules
-animaux sont préparées par l'Agence française de sécurité sanitaire des produits
-de santé après avis de l'Agence de la biomédecine et homologuées par le ministre
-chargé de la santé.
+animaux sont définies par décision de l'Agence française de sécurité sanitaire
+des produits de santé après avis de l'Agence de la biomédecine.
 
-Des arrêtés du ministre chargé de la santé, pris sur proposition de l'Agence
-française de sécurité sanitaire des produits de santé, après avis de l'Agence de
-la biomédecine et de l'Agence française de sécurité sanitaire des aliments
-fixent :
+Des décisions de l'Agence française de sécurité sanitaire des produits de santé
+prises après avis de l'Agence de la biomédecine et de l'Agence française de
+sécurité sanitaire des aliments fixent :
 
 1° Les règles de bonne pratique relatives à la sélection, à la production et à
 l'élevage des animaux ;

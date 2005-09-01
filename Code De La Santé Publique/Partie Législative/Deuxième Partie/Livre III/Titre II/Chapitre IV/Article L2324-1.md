@@ -12,11 +12,12 @@ Sous la même réserve, la création, l'extension et la transformation des
 sont décidées par la collectivité publique intéressée, après avis du président
 du conseil général.
 
-La création, l'extension ou la transformation des centres de vacances, de
-loisirs ou de placement de vacances, publics ou privés, qui accueillent des
-enfants de moins de six ans est subordonnée à une autorisation délivrée par le
-représentant de l'Etat dans le département, après avis du médecin responsable du
-service départemental de protection maternelle et infantile.
+L'organisation d'un accueil collectif à caractère éducatif hors du domicile
+parental, à l'occasion des vacances scolaires, des congés professionnels ou des
+loisirs, public ou privé, ouvert à des enfants scolarisés de moins de six ans
+est subordonnée à une autorisation délivrée par le représentant de l'Etat dans
+le département, après avis du médecin responsable du service départemental de
+protection maternelle et infantile.
 
 Les conditions de qualification ou d'expérience professionnelle, de moralité et
 d'aptitude physique requises des personnes exerçant leur activité dans les

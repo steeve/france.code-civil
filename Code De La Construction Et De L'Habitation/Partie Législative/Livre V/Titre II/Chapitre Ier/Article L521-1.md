@@ -2,7 +2,7 @@ Article L521-1
 ----
 Lorsqu'un immeuble fait l'objet d'un arrêté d'insalubrité assorti d'une
 interdiction d'habiter temporaire ou définitive pris en application des articles
-L. 1331-23, L. 1331-28 et L. 1336-3 du code de la santé publique ou d'un arrêté
+L. 1331-23, L. 1331-28 et L. 1337-3 du code de la santé publique ou d'un arrêté
 portant interdiction d'habiter, en cas de péril, en application de l'article L.
 511-2, le propriétaire est tenu, sans préjudice des actions dont il dispose à
 l'encontre des personnes auxquelles l'état d'insalubrité ou de péril serait en

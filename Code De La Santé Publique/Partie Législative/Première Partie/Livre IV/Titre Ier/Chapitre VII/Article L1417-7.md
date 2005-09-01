@@ -1,15 +1,11 @@
 Article L1417-7
 ----
-L'institut emploie des agents régis par les titres II, III ou IV du statut
-général des fonctionnaires, des personnels mentionnés aux 1° et 2° de l'article
-L. 6152-1 ou des agents publics régis par des statuts particuliers, en position
-de détachement ou de mise à disposition.
+Les agents employés par l'institut sont régis par les dispositions des articles
+L. 5323-1 à L. 5323-4.
 
-Il emploie également des agents contractuels de droit public, avec lesquels il
-peut conclure des contrats à durée déterminée ou indéterminée. Le conseil
-d'administration délibère sur un règlement fixant les conditions de leur gestion
-administrative et financière.
-
-L'établissement peut également faire appel à des agents contractuels de droit
-privé. Ces fonctions peuvent être exercées par des agents occupant par ailleurs
-à titre principal une activité professionnelle libérale.
+Les membres des conseils et commissions et les personnes qui apportent leur
+concours occasionnel à l'institut ou à ces instances sont soumis aux
+dispositions des cinquième à neuvième alinéas de l'article L. 5323-4. Ils sont
+astreints au secret professionnel pour les informations dont ils ont pu avoir
+connaissance en raison de leurs fonctions, dans les conditions et sous les
+peines prévues aux articles 226-13 et 226-14 du code pénal.

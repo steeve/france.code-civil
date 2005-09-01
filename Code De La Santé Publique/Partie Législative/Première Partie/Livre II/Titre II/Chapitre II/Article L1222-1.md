@@ -5,9 +5,10 @@ sous la tutelle du ministre chargé de la santé. Cet établissement veille à l
 satisfaction des besoins en matière de produits sanguins labiles et à
 l'adaptation de l'activité transfusionnelle aux évolutions médicales,
 scientifiques et technologiques dans le respect des principes éthiques. Il
-organise sur l'ensemble du territoire national les activités de collecte du
-sang, de préparation et de qualification des produits sanguins labiles, ainsi
-que leur distribution aux établissements de santé.
+organise sur l'ensemble du territoire national, dans le cadre des schémas
+d'organisation de la transfusion sanguine, les activités de collecte du sang, de
+qualification biologique du don, de préparation, de distribution et de
+délivrance des produits sanguins labiles.
 
 Il est notamment chargé :
 

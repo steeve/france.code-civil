@@ -1,6 +1,6 @@
 Article L1312-1
 ----
-Sous réserve des dispositions des articles L. 1324-1, L. 1336-1, L. 1336-1-1 et
+Sous réserve des dispositions des articles L. 1324-1, L. 1337-1, L. 1337-1-1 et
 L. 1343-1, les infractions aux prescriptions des articles du présent livre, ou
 des règlements pris pour leur application, sont constatées par des officiers et
 agents de police judiciaire, conformément aux dispositions du code de procédure

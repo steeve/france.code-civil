@@ -14,8 +14,9 @@ soins médicaux, paramédicaux ou vétérinaires ;
 3° Des locaux et véhicules exposés aux micro-organismes et toxines mentionnés à
 l'article L. 5139-1.
 
-Cette désinfection est réalisée selon des procédés ou avec des appareils agréés
-par l'Agence française de sécurité sanitaire des produits de santé.
+Cette désinfection est réalisée avec des appareils agréés par des organismes
+dont la liste est établie par décision de l'Agence française de sécurité
+sanitaire des produits de santé.
 
 Les mesures de désinfection sont mises à exécution, dans les villes de 20 000
 habitants et au-dessus, par les soins de l'autorité municipale suivant des
