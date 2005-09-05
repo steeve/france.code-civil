@@ -1,12 +1,14 @@
 Article R325-28
 ----
-Le transfert d'un véhicule du lieu de son stationnement à celui de sa garde en
-fourrière peut être opéré :
+Peuvent procéder au transfert d'un véhicule du lieu de son stationnement à celui
+de sa garde en fourrière :
 
-1° Par les soins de l'administration, conformément aux dispositions de l'alinéa
-1 de l'article L. 325-2 ;
+1° Les personnels habilités mentionnés aux premier et deuxième alinéas de
+l'article L. 325-2 ;
 
-2° En vertu d'une réquisition adressée à un tiers ;
+2° Le professionnel agréé, ou son préposé, désigné pour l'enlèvement du véhicule
+dont la mise en fourrière a été prescrite ;
 
-3° En vertu d'une réquisition adressée au conducteur ou au propriétaire du
-véhicule.
+3° Un tiers en vertu d'une réquisition ;
+
+4° Le propriétaire ou le conducteur du véhicule en vertu d'une réquisition.

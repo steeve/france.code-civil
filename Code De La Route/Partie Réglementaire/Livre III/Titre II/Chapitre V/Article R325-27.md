@@ -1,9 +1,12 @@
 Article R325-27
 ----
-Les intéressés peuvent contester auprès du procureur de la République du lieu de
-l'infraction la décision de mise en fourrière. Ce magistrat confirme la mesure
-ou en ordonne la mainlevée dans le délai maximal de cinq jours ouvrables.
+Les intéressés peuvent contester la décision de mise en fourrière :
 
-Si, à l'examen de la procédure, le procureur de la République estime qu'il n'a
-pas été commis d'infraction, il ordonne que soit donnée mainlevée de la mise en
-fourrière et en informe immédiatement l'autorité qui l'a prescrite.
+- auprès du procureur de la République du lieu de l'enlèvement du véhicule,
+lorsque la procédure est consécutive à la commission d'une infraction ;
+
+- auprès du préfet du lieu de l'enlèvement du véhicule, dans les autres cas.
+
+Dans le délai de cinq jours ouvrables, l'autorité compétente confirme la mesure
+ou, si elle estime la décision infondée, en ordonne la mainlevée. Elle en
+informe sans délai l'auteur de la prescription.
