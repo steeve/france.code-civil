@@ -106,9 +106,6 @@ De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
 
 De l'article 25 du décret n° 64-481 du 23 janvier 1964.
 
-Périmètres de protection institués en application de l'article 7 de l'ordonnance
-n° 58-1132 du 25 novembre 1958 relative au stockage souterrain de gaz.
-
 b) Energie hydraulique.
 
 Périmètres auxquels s'applique la servitude de submersion et d'occupation
@@ -121,11 +118,6 @@ d'intérêt général instituées en application de l'article 11 de la loi n° 5
 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application
 dudit article 11.
 
-Servitudes relatives aux périmètres de protection instituées en application de
-l'article 6 de l'ordonnance n° 58-1332 du 23 décembre 1958 relative aux
-stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi
-de finances rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
-
 d) Chaleur :
 
 Servitudes relatives aux canalisations de transport et de distribution de
@@ -136,6 +128,10 @@ B. - Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles
 71 à 73 du code minier.
+
+Servitudes relatives à la protection des stockages souterrains de gaz naturel,
+d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à
+destination industrielle prévues à l'article 104-3 (I et II) du code minier.
 
 C. - Canalisations.
 
@@ -240,10 +236,12 @@ L. 62-1 et R. 27 à R. 39 du code des postes et télécommunications.
 Servitudes attachées aux réseaux de télécommunications instituées en application
 des articles L. 45-1 et L. 48 du code des postes et télécommunications.
 
-III - Servitudes relatives à la Défense Nationale Servitudes de champ de vue
-instituées par la loi du 18 juillet 1895 concernant la détermination et la
-conservation des postes électro-sémaphoriques, modifiée par la loi du 27 mai
-1933.
+
+III - Servitudes relatives à la Défense Nationale
+
+Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant
+la détermination et la conservation des postes électro-sémaphoriques, modifiée
+par la loi du 27 mai 1933.
 
 Servitudes attachées à la sécurité de la navigation et à la défense des côtes
 instituées en application de la loi du 11 juillet 1933.
@@ -301,9 +299,11 @@ Servitudes d'inondation pour la rétention des crues du Rhin résultant de
 l'application de la loi n° 91-1385 du 31 décembre 1991 portant diverses
 dispositions en matière de transports.
 
-Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663
-du 19 juillet 1976 relative aux installations classées pour la protection de
-l'environnement.
+Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code
+de l'environnement.
 
 Servitudes d'utilité publique instituées en application de l'article L. 211-12
 du code de l'environnement.
+
+Plans de prévention des risques technologiques établis en application de
+l'article L. 515-15 du code de l'environnement.

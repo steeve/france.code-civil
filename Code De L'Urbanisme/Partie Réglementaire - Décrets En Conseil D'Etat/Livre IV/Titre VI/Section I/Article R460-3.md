@@ -34,4 +34,6 @@ L. 332-1 à L. 332-19-1 du code de l'environnement ;
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de
 prévention des risques naturels prévisibles prévu par l'article L. 562-1 du code
 de l'environnement, ou par un plan de prévention des risques miniers établi en
-application de l'article 94 du code minier.
+application de l'article 94 du code minier ou par un plan de prévention des
+risques technologiques établi en application de l'article L. 515-15 du code de
+l'environnement.
