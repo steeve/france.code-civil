@@ -5,6 +5,9 @@ chair ou les produits doivent être livrés au public en vue de la consommation
 sont tenus de déclarer leur élevage. Le préfet est chargé d'organiser
 l'immatriculation des élevages selon des modalités définies par décret.
 
+Les dispositions de l'alinéa précédent ne sont pas applicables aux détenteurs
+professionnels d'équidés.
+
 II. - Dans les conditions prévues par arrêté du ministre chargé de
 l'agriculture, tout propriétaire ou détenteur d'animaux appartenant à des
 espèces dont la chair ou les produits doivent être cédés en vue de la

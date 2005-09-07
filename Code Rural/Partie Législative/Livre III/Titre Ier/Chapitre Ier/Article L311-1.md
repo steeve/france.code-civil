@@ -11,3 +11,8 @@ préparation et d'entraînement des équidés domestiques en vue de leur
 exploitation, à l'exclusion des activités de spectacle.
 
 Les activités agricoles ainsi définies ont un caractère civil.
+
+Toutefois, pour la détermination des critères d'affiliation aux régimes de
+protection sociale des non-salariés et des salariés des professions agricoles,
+sont considérées comme agricoles les activités mentionnées respectivement aux
+articles L. 722-1 et L. 722-20.

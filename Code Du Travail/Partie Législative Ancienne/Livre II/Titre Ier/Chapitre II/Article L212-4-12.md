@@ -8,8 +8,8 @@ permanents, définis par cette convention ou cet accord, qui par nature
 comportent une alternance de périodes travaillées et de périodes non
 travaillées.
 
-Par dérogation aux dispositions de l'alinéa précédent, les ateliers protégés
-mentionnés à l'article L. 323-30 peuvent conclure le contrat de travail prévu
+Par dérogation aux dispositions de l'alinéa précédent, les entreprises adaptées
+mentionnées à l'article L. 323-21 peuvent conclure le contrat de travail prévu
 ci-dessus même en l'absence de convention ou d'accord collectif le prévoyant,
 dès lors que ce contrat est conclu avec un travailleur handicapé, bénéficiaire
 de l'obligation d'emploi définie à l'article L. 323-3.

@@ -24,16 +24,18 @@ congés payés dont le montant est égal au dixième de la rémunération totale
 due au salarié pour les prestations effectuées.
 
 Les organismes de recouvrement du régime général de sécurité sociale organisent
-directement, et à titre gratuit, la gestion du chèque-emploi associatif au
+directement et, à titre gratuit, la gestion du chèque-emploi associatif au
 profit des associations. Pour les salariés d'associations relevant du régime
-obligatoire de protection sociale des salariés agricoles, les organismes de
-recouvrement du régime général de sécurité sociale transmettent aux caisses de
-mutualité sociale agricole les données permettant à ces dernières d'assurer la
-couverture sociale de ces salariés. Un accord entre les organismes de
-recouvrement du régime général de sécurité sociale et les caisses de mutualité
-sociale agricole prévoit les modalités de gestion et de répartition du versement
-unique des cotisations et contributions sociales dues au titre des rémunérations
-des salariés concernés.
+obligatoire de protection sociale des salariés agricoles, le calcul et le
+recouvrement des cotisations et contributions sociales d'origine légale ou
+conventionnelle ainsi que des cotisations de médecine du travail sont assurés
+par les caisses de mutualité sociale agricole. Ces caisses assurent également
+les opérations nécessaires à la couverture sociale de ces salariés. Un accord
+entre les organismes de recouvrement du régime général de sécurité sociale et
+les caisses de mutualité sociale agricole prévoit la nature et les règles de
+transfert des informations entre lesdits organismes et caisses pour
+l'application du dispositif ainsi que les modalités de mise en oeuvre de ce
+dernier.
 
 Les chèques-emploi associatif sont émis et délivrés par les établissements de
 crédit ou par les institutions ou services énumérés à l'article L. 518-1 du code

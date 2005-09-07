@@ -10,6 +10,14 @@ ouvrir droit à une pension à taux plein du régime général de la sécurité 
 et qu'elles remplissent des conditions fixées par décret, de durées minimales
 d'activité non salariée agricole accomplie à titre exclusif ou principal.
 
+Cette majoration s'applique également aux conjoints en activité au 1er janvier
+1999 qui ont opté à cette date pour la qualité de collaborateur d'exploitation
+ou d'entreprise mentionnée à l'article L. 732-35, qui, à défaut de justifier de
+la durée d'assurance et de périodes équivalentes définies à l'alinéa précédent,
+justifient de la durée d'assurance mentionnée au troisième alinéa du I de
+l'article L. 732-54-2 et dont la pension de retraite a pris effet
+postérieurement au 31 décembre 2001.
+
 II. - Cette majoration a pour but de porter la pension de retraite de
 l'intéressé à un montant minimum. Ce montant minimum tient compte de sa durée
 d'activité non salariée agricole effectuée à titre exclusif ou principal et

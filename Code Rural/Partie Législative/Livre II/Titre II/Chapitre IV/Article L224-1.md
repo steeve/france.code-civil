@@ -4,7 +4,7 @@ Nonobstant toutes dispositions législatives contraires, lorsque, à l'intérieu
 d'une aire s'étendant sur une ou plusieurs communes, un ou plusieurs
 départements ou sur l'ensemble du territoire national, le nombre des animaux
 d'une même espèce qui sont déjà soumis à des mesures collectives de prophylaxie
-contre une maladie réputée contagieuse ou à des mesures d'évaluation, de
+contre une maladie réputée contagieuse ou non ou à des mesures d'évaluation, de
 prévention ou de maîtrise des risques sanitaires, atteint 60 % de l'effectif
 entretenu dans cette aire ou que 60 % des exploitations qui s'y trouvent sont
 déjà soumises auxdites mesures, cette prophylaxie ou cette mesure d'évaluation,

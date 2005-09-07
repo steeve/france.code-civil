@@ -1,6 +1,6 @@
 Article L241-16
 ----
-Nonobstant les dispositions des articles L. 223-3-1 et L. 241-15, l'Etat peut
+Nonobstant les dispositions des articles L. 223-3 et L. 241-15, l'Etat peut
 faire exécuter, par des fonctionnaires et agents qualifiés titulaires ou
 contractuels relevant de la direction chargée des services vétérinaires du
 ministère de l'agriculture et appartenant aux catégories désignées par décret en
