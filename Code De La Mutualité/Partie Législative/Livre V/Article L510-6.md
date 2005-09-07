@@ -51,7 +51,7 @@ Lorsqu'elle a connaissance d'une infraction aux dispositions du présent article
 ainsi que de celles de l'article L. 114-39, commises par un commissaire aux
 comptes, la commission de contrôle peut demander au tribunal compétent de
 relever ce commissaire aux comptes de ses fonctions selon les modalités définies
-à l'article L. 225-233 du code de commerce.
+à l'article L. 823-7 du code de commerce.
 
 La commission peut également dénoncer cette infraction à l'autorité
 disciplinaire compétente et communiquer, à cette fin, les informations qu'elle

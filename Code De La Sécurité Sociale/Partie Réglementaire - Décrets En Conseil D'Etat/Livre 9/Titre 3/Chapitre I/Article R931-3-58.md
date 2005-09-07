@@ -16,6 +16,6 @@ d'administration et dans les documents adressés aux membres de la commission
 paritaire ou aux membres de l'assemblée générale sur la situation financière et
 les comptes annuels.
 
-Les premier, deuxième et dernier alinéas de l'article L. 225-236 du code de
+Les premier, deuxième et dernier alinéas de l'article L. 823-13 du code de
 commerce s'appliquent aux institutions de prévoyance et aux unions
 d'institutions de prévoyance.

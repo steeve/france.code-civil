@@ -9,11 +9,11 @@ propose de désigner.
 
 Lorsqu'il informe la commission de contrôle de son intention de désigner comme
 commissaires aux comptes une société de commissaires aux comptes constituée et
-inscrite selon les modalités prévues à l'article L. 225-228 du code de commerce,
-la mutuelle ou l'union précise le nom du commissaire aux comptes associé,
-actionnaire ou dirigeant, responsable de la mission au nom de cette entreprise.
-Il informe la commission de contrôle de toute modification ultérieure de cette
-situation.
+inscrite selon les modalités prévues aux articles L. 823-1, L. 823-2 et L.
+823-15 du code de commerce, la mutuelle ou l'union précise le nom du commissaire
+aux comptes associé, actionnaire ou dirigeant, responsable de la mission au nom
+de cette entreprise. Il informe la commission de contrôle de toute modification
+ultérieure de cette situation.
 
 La commission de contrôle dispose d'un délai de deux mois pour faire connaître à
 la mutuelle ou l'union son avis sur la proposition de désignation du commissaire

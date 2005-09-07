@@ -57,7 +57,7 @@ alinéa du I du présent article, ou lorsqu'elle considère que les conditions
 d'indépendance nécessaires au bon déroulement de la mission de ce commissaire
 aux comptes ne sont pas remplies, la commission bancaire peut demander au
 tribunal compétent de relever celui-ci de ses fonctions selon les modalités
-prévues à l'article L. 225-233 du code de commerce.
+prévues à l'article L. 823-7 du code de commerce.
 
 La commission bancaire peut également dénoncer cette infraction à l'autorité
 disciplinaire compétente. A cette fin, la commission bancaire peut communiquer

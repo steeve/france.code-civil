@@ -31,19 +31,13 @@ Dans un délai de six semaines à compter de la fin de chaque semestre de
 l'exercice, la société de gestion dresse, pour chacun des fonds qu'elle gère,
 l'inventaire de l'actif sous le contrôle du dépositaire.
 
-VI. - Le commissaire aux comptes du fonds est désigné pour six exercices par le
-conseil d'administration, le gérant ou le directoire de la société de gestion,
-après accord de l'Autorité des marchés financiers.
-
-Les dispositions des articles L. 822-1, L. 822-2, L. 822-3, L. 822-6, L. 822-7,
-L. 822-9, L. 822-10, L. 822-12, L. 822-13 et L. 225-227, L. 225-237, L. 225-238,
-du deuxième alinéa de l'article L. 225-240 et les dispositions de l'article L.
-822-15, les articles L. 225-241 et L. 225-242 du code de commerce lui sont
-applicables.
+VI. Le conseil d'administration, le gérant ou le directoire de la société de
+gestion désigne le commissaire aux comptes du fonds après accord de l'Autorité
+des marchés financiers.
 
 Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi
 qu'à l'Autorité des marchés financiers les irrégularités et inexactitudes qu'il
 relève dans l'accomplissement de sa mission.
 
 Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par
-les articles L. 225-230 et L. 225-231 du code de commerce.
+les articles L. 823-6 et L. 225-231 du code de commerce.

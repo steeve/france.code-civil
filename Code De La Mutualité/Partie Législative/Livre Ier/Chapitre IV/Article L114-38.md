@@ -3,11 +3,11 @@ Article L114-38
 Les mutuelles et unions régies par le livre II ou, lorsqu'elles dépassent un
 volume d'activité fixé par décret, celles régies par le livre III, ainsi que les
 fédérations, sont tenues de nommer au moins un commissaire aux comptes et un
-suppléant choisis sur la liste mentionnée à l'article L. 225-219 du code de
+suppléant choisis sur la liste mentionnée à l'article L. 822-1 du code de
 commerce. Le président convoque les commissaires aux comptes à toute assemblée
 générale.
 
-Les dispositions des articles L. 225-218 à L. 225-242 du code de commerce sont
+Les dispositions des articles L. 822-9 à L. 822-18 du code de commerce sont
 applicables aux commissaires aux comptes contrôlant les mutuelles, unions et
 fédérations sous réserve des dispositions du présent code.
 

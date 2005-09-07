@@ -1,7 +1,8 @@
 Article L821-1
 ----
-Il est institué auprès du garde des sceaux, ministre de la justice, un Haut
-Conseil du commissariat aux comptes ayant pour mission :
+Il est institué auprès du garde des sceaux, ministre de la justice, une autorité
+administrative indépendante dénommée Haut Conseil du commissariat aux comptes
+ayant pour mission :
 
 - d'assurer la surveillance de la profession avec le concours de la Compagnie
 nationale des commissaires aux comptes instituée par l'article L. 821-6 ;
@@ -27,4 +28,11 @@ conditions définies par l'article L. 821-9 ;
 
 - d'assurer, comme instance d'appel des décisions prises par les chambres
 régionales mentionnées à l'article L. 822-6, la discipline des commissaires aux
-comptes.
+comptes ;
+
+- de veiller à la bonne exécution des contrôles mentionnés aux b et c de
+l'article L. 821-7 dans les conditions définies par décret en Conseil d'Etat et
+garantissant l'indépendance des fonctions de contrôle et de sanction ;
+
+- d'établir des relations avec les autorités d'autres Etats exerçant des
+compétences analogues.
