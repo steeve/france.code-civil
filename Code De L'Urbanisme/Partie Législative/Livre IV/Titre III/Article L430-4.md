@@ -18,3 +18,9 @@ b) Dans les autres communes, au nom de l'Etat.
 L'absence de notification de la décision de l'administration dans un délai de
 quatre mois à compter de la réception de la demande équivaut à l'octroi du
 permis de démolir.
+
+Ce délai est de cinq mois si le bâtiment est au nombre de ceux visés aux
+articles L. 621-25 et L. 621-30 du code du patrimoine. Toutefois, en application
+de l'article L. 430-8, l'absence de notification de la décision ne peut alors
+équivaloir à l'octroi du permis de démolir que si l'autorité administrative
+compétente a donné son accord.

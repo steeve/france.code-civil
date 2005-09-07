@@ -23,8 +23,9 @@ l'article L. 142-11 dans sa rédaction issue de ladite loi ou dans les zones
 d'environnement protégé créées en application de l'article L. 143-1 dans sa
 rédaction antérieure à la loi n° 83-8 du 7 janvier 1983 ;
 
-f) aux immeubles ou parties d'immeubles inscrits sur l'inventaire supplémentaire
-des monuments historiques ;
+f) Aux immeubles ou parties d'immeubles inscrits au titre des monuments
+historiques ainsi qu'aux immeubles ou parties d'immeubles adossés aux immeubles
+classés au titre des monuments historiques ;
 
 g) dans les zones de protection du patrimoine architectural et urbain créées en
 application des articles L. 642-1 et L. 642-2 du code du patrimoine ;
@@ -33,6 +34,6 @@ h) Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un
 plan d'occupation des sols approuvé, dans des périmètres délimités par
 délibération du conseil municipal.
 
-Toutefois, les immeubles classés en application de la loi du 31 décembre 1913,
-ainsi que les sites classés en application de la loi du 2 mai 1930, demeurent
-régis par les dispositions particulières de ces lois.
+Toutefois les immeubles classés au titre des monuments historiques en
+application du code du patrimoine et les sites classés en application du code de
+l'environnement demeurent régis par les dispositions particulières à ces codes.

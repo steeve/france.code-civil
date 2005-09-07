@@ -3,11 +3,13 @@ Article L422-1
 Sont exemptés du permis de construire les constructions ou travaux couverts par
 le secret de la défense nationale, les dispositifs techniques nécessaires aux
 systèmes de radiocommunication numérique de la police et de la gendarmerie
-nationales, les travaux de ravalement, les travaux sur les immeubles classés. Il
-en est de même des travaux relatifs à la reconstruction d'établissements
-pénitentiaires après mutinerie ou des travaux réalisés à l'intérieur de
-l'enceinte de ces établissements nécessitant le secret pour des raisons de
-sécurité.
+nationales, les travaux d'entretien ou de réparations ordinaires des immeubles
+inscrits et les travaux de ravalement, à l'exception de ceux portant sur les
+immeubles inscrits. Sont également exemptés les travaux d'entretien, de
+réparation ou de restauration des immeubles classés. Il en est de même des
+travaux relatifs à la reconstruction d'établissements pénitentiaires après
+mutinerie ou des travaux réalisés à l'intérieur de l'enceinte de ces
+établissements nécessitant le secret pour des raisons de sécurité.
 
 Sont également exemptés du permis de construire certaines constructions ou
 travaux relatifs à la défense nationale ou aux installations techniques

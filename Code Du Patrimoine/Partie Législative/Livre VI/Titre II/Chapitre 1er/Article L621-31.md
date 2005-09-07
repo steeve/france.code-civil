@@ -7,27 +7,40 @@ d'aucune construction nouvelle, d'aucune démolition, d'aucun déboisement,
 d'aucune transformation ou modification de nature à en affecter l'aspect, sans
 une autorisation préalable.
 
-Le permis de construire tient lieu de l'autorisation prévue à l'alinéa précédent
-s'il est revêtu du visa de l'architecte des Bâtiments de France.
+La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ
+de visibilité d'un parc ou d'un jardin classé ou inscrit ne comportant pas
+d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été
+délimité dans les conditions fixées aux deuxième ou troisième alinéas de
+l'article L. 621-30-1.
+
+Si cet immeuble est classé au titre des monuments historiques, l'autorisation
+est celle prévue au premier alinéa de l'article L. 621-9. Si l'immeuble n'est
+pas classé, le permis de construire ou le permis de démolir tient lieu de
+l'autorisation si l'architecte des Bâtiments de France a donné son accord.
+
+Les travaux soumis à permis de construire ou permis de démolir et portant sur
+des immeubles inscrits ou des immeubles adossés à des immeubles classés ne sont
+soumis qu'à l'accord de l'autorité administrative prévu respectivement aux
+articles L. 621-27 et L. 621-30.
 
 En cas de désaccord soit du maire ou de l'autorité administrative compétente
-pour délivrer l'autorisation ou le permis de construire, soit du pétitionnaire
-avec l'avis émis par l'architecte des Bâtiments de France, le représentant de
-l'Etat dans la région émet, après consultation de la section de la commission
-régionale du patrimoine et des sites, un avis qui se substitue à celui de
-l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à
-l'occasion du refus d'autorisation de travaux. Si le représentant de l'Etat
-infirme l'avis de l'architecte des Bâtiments de France, le maire ou l'autorité
-administrative compétente est fondé à délivrer l'autorisation ou le permis de
-construire initialement refusé. Les délais de saisine du préfet de région et
-ceux impartis à la section de la commission régionale du patrimoine et des
-sites, au préfet ou au maire, ou à l'autorité administrative compétente pour
-statuer sont fixés par décret en Conseil d'Etat.
+pour délivrer l'autorisation, le permis de construire ou le permis de démolir,
+soit du pétitionnaire avec l'avis émis par l'architecte des Bâtiments de France,
+le représentant de l'Etat dans la région émet, après consultation de la section
+de la commission régionale du patrimoine et des sites, un avis qui se substitue
+à celui de l'architecte des Bâtiments de France. Le recours du pétitionnaire
+s'exerce à l'occasion du refus d'autorisation de travaux. Si le représentant de
+l'Etat infirme l'avis de l'architecte des Bâtiments de France, le maire ou
+l'autorité administrative compétente est fondé à délivrer l'autorisation, le
+permis de construire ou le permis de démolir initialement refusé. Les délais de
+saisine du préfet de région et ceux impartis à la section de la commission
+régionale du patrimoine et des sites, au préfet ou au maire, ou à l'autorité
+administrative compétente pour statuer sont fixés par décret en Conseil d'Etat.
 
 Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des
 Bâtiments de France ou le représentant de l'Etat dans la région est saisi en
-application du présent article. L'autorisation ou le permis de construire ne
-peut dès lors être délivré qu'avec son accord.
+application du présent article. L'autorisation, le permis de construire ou le
+permis de démolir ne peut dès lors être délivré qu'avec son accord.
 
 Dans la collectivité territoriale de Corse, les compétences dévolues au préfet
 de région par le présent article sont exercées par le préfet de Corse.
