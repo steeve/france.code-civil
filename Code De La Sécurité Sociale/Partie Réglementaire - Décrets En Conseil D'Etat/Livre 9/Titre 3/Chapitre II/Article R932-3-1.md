@@ -4,7 +4,7 @@ Lorsque les institutions de prévoyance et leurs unions réalisent des opératio
 soumises aux dispositions du second alinéa de l'article L. 131-1 du code des
 assurances, les unités de compte visées à cet article sont :
 
-1° Les actifs énumérés aux 1°, 2°, 3°, 4°, 5°, 6° et 10° de l'article R.
+1° Les actifs énumérés aux 1°, 2°, 3°, 3° bis, 4°, 5°, 6° et 10° de l'article R.
 931-10-21 du présent code ;
 
 2° Dans les conditions fixées à l'article R. 131-3 du code des assurances, les

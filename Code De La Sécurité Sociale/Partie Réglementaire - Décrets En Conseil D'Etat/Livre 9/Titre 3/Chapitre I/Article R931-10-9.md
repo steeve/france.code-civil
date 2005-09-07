@@ -7,6 +7,9 @@ pratiquer simultanément au moins deux ou plusieurs branches mentionnées soit a
 après déduction des pertes ainsi que de la part des frais d'acquisition non
 admise en représentation des engagements réglementés et des autres éléments
 incorporels, par les mêmes éléments que ceux définis à l'article R. 931-10-6.
-Toutefois, l'élément défini au 6 (a) de cet article n'est à prendre en compte
+Toutefois, l'élément défini au 3 du III de cet article n'est à prendre en compte
 que dans la limite du montant de la fraction vie définie au troisième alinéa de
 l'article R. 931-10-10.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées
+sont déduites des éléments énumérés ci-dessus.
