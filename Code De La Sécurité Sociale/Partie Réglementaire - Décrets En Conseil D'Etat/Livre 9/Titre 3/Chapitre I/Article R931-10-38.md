@@ -1,8 +1,9 @@
 Article R931-10-38
 ----
 La garantie des créances sur les réassureurs mentionnée à l'article R. 931-10-25
-est constituée par le nantissement des valeurs visées aux 1°, 2°, 3°, 4°, 5°,
-10° et 12° de l'article R. 931-10-21.
+est constituée par le nantissement des valeurs visées aux 1°, 2°, 3°, 3° bis,
+4°, 5°, 10° et 12° de l'article R. 931-10-21. Ces valeurs sont déposées sur un
+compte gagé au sens de l'article L. 431-4 du code monétaire et financier.
 
 Les valeurs reçues en nantissement sont évaluées conformément aux dispositions
 de l'article R. 931-10-42. Pour l'estimation des valeurs mentionnées au 1° de

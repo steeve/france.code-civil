@@ -2,8 +2,9 @@ Article R931-10-30
 ----
 Les institutions de prévoyance et les unions d'institutions de prévoyance
 peuvent représenter les engagements afférents aux opérations réalisées par leurs
-succursales situées hors du territoire de la Communauté européenne par les
-éléments d'actif admis par les législations des pays où elles opèrent et
+succursales situées hors du territoire des Etats membres de la Communauté
+européenne ou des Etats parties à l'accord sur l'Espace économique européen par
+les éléments d'actif admis par les législations des pays où elles opèrent et
 localisés sur le territoire de ces pays.
 
 Il en est de même lorsque les engagements réglementés des institutions de

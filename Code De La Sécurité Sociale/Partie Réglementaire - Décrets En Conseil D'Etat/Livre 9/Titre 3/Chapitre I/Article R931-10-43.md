@@ -30,9 +30,9 @@ résulte de l'application des règles d'évaluation prévues par l'article R.
 931-10-27, est constatée en compte de résultat.
 
 III. - Les actifs visés aux articles R. 931-10-40 et R. 931-10-41 inscrits dans
-une devise autre que le franc français en application des dispositions de
-l'article R. 931-11-7 sont évalués dans cette même devise pour l'application de
-l'article R. 931-10-42.
+une devise autre que l'euro en application des dispositions de l'article R.
+931-11-7 sont évalués dans cette même devise pour l'application de l'article R.
+931-10-42.
 
 IV. - La provision pour pertes de change est calculée après compensation de
 l'ensemble des différences de conversion actif et passif.

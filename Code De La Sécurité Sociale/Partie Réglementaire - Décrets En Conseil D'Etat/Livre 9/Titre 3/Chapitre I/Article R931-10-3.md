@@ -45,4 +45,19 @@ l'institution ou l'union exerce son activité, la marge de solvabilité peut
 d'établissement ;
 
 2. Les plus-values résultant d'une sous-estimation d'éléments d'actif, dans la
-mesure où ces plus-values n'ont pas un caractère exceptionnel.
+mesure où ces plus-values n'ont pas un caractère exceptionnel ;
+
+3. Les plus-values latentes sur les instruments financiers à terme mentionnés
+aux articles R. 931-10-48 et R. 931-10-49, lorsque les opérations
+correspondantes sont négociées sur un marché reconnu au sens du dernier alinéa
+du A de l'article R. 931-10-21 ou réalisées de gré à gré dans la mesure où elles
+sont garanties dans les conditions prévues à l'article R. 931-10-59.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées
+sont déduites des éléments énumérés à l'alinéa précédent et au 2.
+
+IV. - Pour les institutions de prévoyance ou unions adhérentes au fonds
+paritaire de garantie institué par l'article L. 931-35, la marge de solvabilité
+peut également être constituée par la réserve pour fonds de garantie prévue à
+l'article R. 931-12-11, à hauteur de la part de cotisation versée par
+l'institution ou l'union et non utilisée par le fonds.
