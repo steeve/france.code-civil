@@ -7,10 +7,9 @@ peuvent être entrepris que :
 1° Soit par le propriétaire du sol ou avec son consentement, après déclaration
 au préfet ;
 
-2° Soit, à défaut de ce consentement, par autorisation conjointe des ministres
-chargés des mines et de l'environnement, après que le propriétaire a été invité
-à présenter ses observations, dans les conditions fixées par décret en Conseil
-d'Etat.
+2° Soit, à défaut de ce consentement, par autorisation de l'autorité
+administrative, après que le propriétaire a été invité à présenter ses
+observations, dans les conditions fixées par décret en Conseil d'Etat.
 
 II. - Cette autorisation de recherches confère à son titulaire, à l'intérieur
 d'un périmètre défini par l'arrêté, le droit d'effectuer des travaux de
