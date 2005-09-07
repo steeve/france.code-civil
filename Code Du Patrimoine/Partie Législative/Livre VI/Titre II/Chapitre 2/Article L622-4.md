@@ -4,8 +4,8 @@ Les objets mobiliers appartenant à une personne privée peuvent être classés 
 titre des monuments historiques, avec le consentement du propriétaire, par
 décision de l'autorité administrative.
 
-A défaut de consentement du propriétaire, le classement est prononcé par un
-décret en Conseil d'Etat pris après avis de la commission supérieure des
+A défaut de consentement du propriétaire, le classement d'office est prononcé
+par un décret en Conseil d'Etat pris après avis de la Commission nationale des
 monuments historiques.
 
 Le classement pourra donner lieu au paiement d'une indemnité représentative du

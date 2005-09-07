@@ -5,10 +5,10 @@ L. 621-4 et L. 621-5 est classé au titre des monuments historiques par décisio
 de l'autorité administrative, s'il y a consentement du propriétaire. La décision
 détermine les conditions du classement.
 
-A défaut du consentement du propriétaire, le classement est prononcé par décret
-en Conseil d'Etat, pris après avis de la Commission supérieure des monuments
-historiques, qui détermine les conditions de classement et notamment les
-servitudes et obligations qui en découlent.
+A défaut du consentement du propriétaire, le classement d'office est prononcé
+par décret en Conseil d'Etat, pris après avis de la Commission nationale des
+monuments historiques, qui détermine les conditions de classement et notamment
+les servitudes et obligations qui en découlent.
 
 Le classement d'office peut donner droit à indemnité au profit du propriétaire
 s'il résulte, des servitudes et obligations dont il s'agit, une modification à

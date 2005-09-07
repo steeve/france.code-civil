@@ -9,6 +9,6 @@ d'office, le propriétaire peut solliciter l'Etat d'engager la procédure
 d'expropriation. L'Etat fait connaître sa décision sur cette requête, qui ne
 suspend pas l'exécution des travaux, dans un délai de six mois au plus et au
 terme d'une procédure fixée par décret en Conseil d'Etat. Si l'autorité
-administrative a décidé de poursuivre l'expropriation, l'Etat peut se substituer
-à une collectivité territoriale ou à un établissement public avec leur
-consentement.
+administrative a décidé de poursuivre l'expropriation au nom de l'Etat, une
+collectivité territoriale ou un établissement public peut décider de se
+substituer à l'Etat comme bénéficiaire, avec l'accord de cette autorité.
