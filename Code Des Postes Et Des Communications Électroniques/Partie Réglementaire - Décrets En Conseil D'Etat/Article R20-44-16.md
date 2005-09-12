@@ -29,7 +29,7 @@ notifiés aux membres du conseil et au membre du corps du contrôle général
 
 Le conseil d'administration délibère à la majorité des membres présents ou
 représentés. Lorsque la délibération porte sur les points mentionnés aux 1° et
-2° de l'article R. 52-2-4 ainsi que sur la délégation donnée au directeur
+2° de l'article R. 20-44-14 ainsi que sur la délégation donnée au directeur
 général, le président du conseil d'administration notifie au Premier ministre et
 à chacun des membres le projet de délibération adopté par le conseil tel
 qu'amendé pour tenir compte des observations exprimées. Ce projet de

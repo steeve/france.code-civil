@@ -25,7 +25,7 @@ section de fonctionnement ;
 
 8° Approbation de l'organisation générale de l'établissement ;
 
-9° Approbation des conventions mentionnées au 11° de l'article R. 52-2-1 ;
+9° Approbation des conventions mentionnées au 11° de l'article R. 20-44-11 ;
 
 10° Fixation des conditions dans lesquelles les projets de marchés, d'aides au
 réaménagement du spectre et de conventions sont soumis à son approbation ;
@@ -42,6 +42,8 @@ rémunération du personnel contractuel ;
 14° Formation et composition de commissions consultatives compétentes dans le
 cadre des différentes missions de l'agence ;
 
-15° Approbation des conventions passées avec des personnes publiques ou privées
-relatives aux conditions de versements et de réutilisation des contributions au
-réaménagement du spectre.
+15° Intervention du fonds de réaménagement du spectre ou préfinancement par
+celui-ci des opérations de réaménagements, sur demande des administrations ou
+autorités affectataires, coût de ces opérations et approbation des conventions
+passées avec des personnes publiques ou privées relatives aux conditions de
+versements et de réutilisation des contributions au réaménagement du spectre.
