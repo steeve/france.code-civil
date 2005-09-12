@@ -1,9 +1,10 @@
 Article R425-4
 ----
-Un conseil de discipline est chargé de proposer au ministre compétent
-l'application de sanctions à l'égard des personnes titulaires de licences et
-certificats qui seraient reconnues coupables de fautes commises soit dans
-l'exercice ou à l'occasion de l'exercice de la profession de navigant, soit à
-l'occasion de vols accomplis à quelque titre que ce soit ou qui auraient encouru
-une condamnation définitive pour crime ou pour un délit contre la probité ou les
-bonnes moeurs.
+Le conseil de discipline du personnel navigant professionnel de l'aéronautique
+civile est chargé de donner au ministre un avis sur l'application de sanctions à
+l'égard des personnes titulaires de titres aéronautiques de personnel navigant
+professionnel délivrés par le ministre chargé de l'aviation civile ou le
+ministre chargé de la défense ou validés par ces mêmes autorités, à l'encontre
+desquelles auront été relevés des manquements aux règles édictées par le présent
+code en vue d'assurer la sécurité et, le cas échéant, par les dispositions
+prises pour son application.
