@@ -11,9 +11,9 @@ pendant la durée de leurs missions, est de 100 millisieverts. Elle est fixée �
 - la dose efficace susceptible d'être reçue par les personnels du groupe 2 est
 de 10 millisieverts.
 
-Un dépassement des niveaux de référence du second groupe peut être admis
-exceptionnellement, afin de sauver des vies humaines, pour des intervenants
-volontaires et informés du risque que comporte leur intervention.
+Un dépassement des niveaux de référence peut être admis exceptionnellement, afin
+de sauver des vies humaines, pour des intervenants volontaires et informés du
+risque que comporte leur intervention.
 
 La dose efficace intègre l'ensemble des doses reçues par exposition interne et
 externe. Elle est évaluée selon les modalités définies en application de
@@ -21,3 +21,6 @@ l'article R. 1333-10.
 
 Les personnels appelés à intervenir doivent bénéficier de protections
 individuelles et être munis de dispositifs dosimétriques appropriés.
+
+En aucun cas la dose efficace totalisée sur la vie entière d'un intervenant ne
+doit dépasser 1 sievert.
