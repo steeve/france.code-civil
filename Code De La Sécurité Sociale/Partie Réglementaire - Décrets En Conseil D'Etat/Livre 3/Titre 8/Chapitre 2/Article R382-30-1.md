@@ -13,10 +13,8 @@ civil de solidarité met dans l'impossibilité de s'acquitter des cotisations
 sociales dont elles sont redevables.
 
 Le montant des cotisations prises en charge, pour la période comprise entre le
-1er juillet et le 30 juin, ne peut excéder la différence entre les cotisations
-établies sur la base de l'assiette forfaitaire visée à l'article R. 382-24 et le
-montant de cotisations correspondant au revenu tiré de l'activité d'artiste
-auteur tel que défini à l'article L. 382-3.
+1er juillet et le 30 juin, ne peut excéder le montant des cotisations établies
+sur la base de l'assiette forfaitaire mentionnée à l'article R. 382-24.
 
 La demande motivée de prise en charge de tout ou partie des cotisations dues au
 titre de la dernière année civile est adressée à la commission prévue à
@@ -25,4 +23,4 @@ agréé compétent les déclarations mentionnées au premier alinéa de l'articl
 382-28 relatives à ladite année civile.
 
 Un artiste auteur ne peut bénéficier de la prise en charge de tout ou partie de
-ses cotisations au titre de plus de deux années civiles consécutives.
+ses cotisations au titre de plus de trois années civiles consécutives.
