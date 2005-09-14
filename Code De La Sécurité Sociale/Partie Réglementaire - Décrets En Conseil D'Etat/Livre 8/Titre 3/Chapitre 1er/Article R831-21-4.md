@@ -33,6 +33,11 @@ ci-dessous, qui doit faire connaître sa décision dans un délai maximum de six
 mois. Il en est de même en cas de mauvaise exécution du plan d'apurement ou de
 constitution d'un nouvel impayé.
 
+Toutefois, en cas de retard dans la mise en place du plan d'apurement ou de
+difficultés dans l'exécution de celui-ci, et dès lors que le locataire
+s'acquitte du paiement du loyer, l'organisme payeur peut décider le maintien du
+versement de l'allocation de logement.
+
 b) Soit de saisir directement un fonds local d'aide au logement et notamment le
 fonds de solidarité pour le logement prévu à l'article 6 de la loi n° 90-449 du
 31 mai 1990 ou tout autre dispositif ou organisme à vocation analogue en lui
@@ -48,9 +53,9 @@ respect des conditions fixées par le dispositif d'aide.
 
 Si le fonds ou l'organisme mentionné au b ci-dessus n'a pas fait connaître sa
 décision dans le délai précité, et après mise en demeure, l'organisme payeur
-suspend le droit à l'allocation de logement. Il en est de même en cas de non
-respect des conditions fixées par le dispositif ou de constitution d'un nouvel
-impayé.
+suspend le droit à l'allocation de logement. Il en est de même en cas de
+non-respect des conditions fixées par le dispositif ou de constitution d'un
+nouvel impayé.
 
 c) L'exécution régulière du plan d'apurement est vérifiée tous les douze mois
 par l'organisme payeur.

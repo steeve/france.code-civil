@@ -369,9 +369,12 @@ V. DIVERS
 
 Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
-En ce qui concerne les caisses d'épargne ordinaires (code des caisses d'épargne
-; décret n° 54-1080 du 6 novembre 1954 complété et modifié) :
+A. - En ce qui concerne les caisses d'épargne ordinaires (code des caisses
+d'épargne ; décret n° 54-1080 du 6 novembre 1954 complété et modifié) :
 
 1°) membres des conseils d'administration des caisses d'épargne ordinaires ;
 
 2°) membres de la commission supérieure des caisses d'épargne.
+
+B. - En ce qui concerne le Médiateur de la République : délégués du Médiateur de
+la République.
