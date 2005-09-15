@@ -77,6 +77,9 @@ Les directeurs d'établissement de santé ;
 
 Le président de la Commission nationale de l'informatique et des libertés ;
 
+Le président de la Haute Autorité de lutte contre les discriminations et pour
+l'égalité ;
+
 Le Défenseur des enfants ;
 
 Le président de la Commission nationale de déontologie de la sécurité.
