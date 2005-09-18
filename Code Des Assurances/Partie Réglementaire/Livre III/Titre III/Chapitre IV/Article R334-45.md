@@ -8,9 +8,11 @@ commission de contrôle des assurances, notamment celles qui portent sur les
 prêts, les garanties et les opérations hors bilan, les éléments admissibles pour
 la marge de solvabilité, les investissements, les opérations de réassurance et
 les accords de répartition des coûts. L'entreprise déclare au moins une fois par
-an à cette commission les opérations importantes mentionnées ci-dessus. Un
-arrêté du ministre chargé de l'économie précise les conditions dans lesquelles
-ces opérations doivent être déclarées.
+an à cette commission les opérations importantes mentionnées ci-dessus.
+L'entreprise se dote en outre de procédures de gestion des risques et de
+dispositifs de contrôle interne visant à identifier, mesurer, encadrer et
+contrôler ces opérations. Un arrêté du ministre chargé de l'économie précise les
+conditions dans lesquelles ces opérations doivent être déclarées.
 
 Si la commission de contrôle des assurances estime, à partir de l'examen de ces
 déclarations, que la solvabilité de l'entreprise d'assurance est compromise ou

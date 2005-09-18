@@ -6,7 +6,8 @@ représentation des engagements réglementés et des autres éléments incorpore
 par les éléments suivants :
 
 a) Les éléments définis aux 1, 2, 3 du I, 1 et 2 du II et 1 et 3 du III de
-l'article R. 334-11 ;
+l'article R. 334-11 en tenant compte des déductions prévues au I de cet article
+;
 
 b) L'élément défini au 2 du III de l'article R. 334-11 ;
 

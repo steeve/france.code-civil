@@ -5,4 +5,4 @@ afférente aux opérations réalisées sur le territoire de la République fran�
 est constituée, après déduction des pertes de la part des frais d'acquisition
 non admise en représentation des engagements réglementés et des autres éléments
 incorporels, par les éléments définis aux 2 et 3 du I et aux 2 et 4 du III de
-l'article R. 334-11.
+l'article R. 334-11 en tenant compte des déductions prévues à cet article.

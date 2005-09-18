@@ -6,4 +6,5 @@ montant, afférent aux opérations réalisées sur le territoire de la Républiq
 française, est égal, après déduction des pertes, de la part des frais
 d'acquisition non admise en représentation des engagements réglementés et des
 autres éléments incorporels, au total des éléments définis aux 2 et 3 du I et au
-3 du III de l'article R. 334-3.
+3 du III de l'article R. 334-3 en tenant compte des déductions prévues à cet
+article.
