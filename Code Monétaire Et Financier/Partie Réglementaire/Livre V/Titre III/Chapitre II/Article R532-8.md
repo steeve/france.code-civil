@@ -1,16 +1,31 @@
 Article R532-8
 ----
-Lorsque le requérant est soit une filiale directe ou indirecte d'une entreprise
-d'investissement ou d'un établissement de crédit agréé dans un autre Etat membre
-de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
-économique européen, soit une filiale directe ou indirecte de l'entreprise mère
-d'une entreprise d'investissement ou d'un établissement de crédit agréé dans un
-tel Etat, soit une entreprise ou un établissement contrôlé par les mêmes
-personnes physiques ou morales qu'une entreprise d'investissement ou qu'un
-établissement de crédit agréé dans un tel Etat, le Comité des établissements de
-crédit et des entreprises d'investissement consulte l'autorité compétente de
-l'autre Etat concerné, de sa propre initiative ou à la demande de l'autorité
-chargée de l'approbation du programme d'activité.
+Avant d'assortir de conditions particulières une autorisation, de délivrer une
+autorisation de prise de participation ou de prise de contrôle, ou d'octroyer un
+agrément à une entreprise d'investissement qui est :
+
+1° Soit une filiale d'une entreprise d'assurance, d'un établissement de crédit
+ou d'une entreprise d'investissement agréés dans un Etat membre ou partie à
+l'accord sur l'Espace économique européen ;
+
+2° Soit une filiale de l'entreprise mère d'une entreprise d'assurance, d'un
+établissement de crédit ou d'une entreprise d'investissement agréés dans un Etat
+membre ou partie à l'accord sur l'Espace économique européen ;
+
+3° Soit une entreprise contrôlée par une personne, physique, ou morale, qui
+contrôle également une entreprise d'assurance, un établissement de crédit ou une
+entreprise d'investissement agréés dans un Etat membre ou partie à l'accord sur
+l'Espace économique européen,
+
+le Comité des établissements de crédit et des entreprises d'investissement
+consulte, de sa propre initiative ou à la demande de l'Autorité des marchés
+financiers, l'autorité compétente, au sens du 4° du I de l'article L. 517-2,
+afin d'évaluer notamment la qualité des actionnaires ainsi que l'honorabilité et
+la compétence des dirigeants associés à la gestion d'une autre entité du même
+groupe.
+
+Cette autorité dispose d'un délai d'un mois pour formuler ses observations. Ce
+délai peut être prorogé d'un mois, à sa demande.
 
 Lorsque le requérant est une filiale directe ou indirecte d'une entreprise
 d'investissement ou d'un établissement de crédit ayant son siège dans un Etat
