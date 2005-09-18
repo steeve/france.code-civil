@@ -3,7 +3,11 @@ Article R334-41
 Les entreprises mentionnées à l'article R. 334-40 doivent présenter une
 solvabilité ajustée positive déterminée selon les modalités précisées à
 l'article R. 334-42 sur la base des comptes consolidés ou combinés établis
-conformément aux dispositions de l'article L. 345-2.
+conformément aux dispositions de l'article L. 345-2. Toutefois, lorsque ces
+entreprises sont des entreprises participantes d'un établissement de crédit,
+d'une entreprise d'investissement ou d'un établissement financier, elles
+peuvent, alternativement, présenter une solvabilité ajustée positive selon les
+modalités précisées aux articles R. 334-49 et R. 334-50.
 
 Toutefois, la commission de contrôle des assurances peut dispenser du calcul de
 la solvabilité ajustée une entreprise d'assurance :

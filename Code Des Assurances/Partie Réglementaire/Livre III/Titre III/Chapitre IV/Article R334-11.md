@@ -21,6 +21,28 @@ au titre du dernier exercice.
 La marge de solvabilité est diminuée du montant de ses actions propres détenues
 directement par l'entreprise d'assurance.
 
+Lorsque l'entreprise n'est pas soumise à une surveillance complémentaire en
+application de l'article L. 334-3 ou de l'article L. 334-4, la marge de
+solvabilité est également diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 334-2 que l'entreprise
+d'assurance détient dans des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers ;
+
+b) Les créances subordonnées et autres instruments financiers que l'entreprise
+d'assurance détient sur des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers dans lesquels elle détient une
+participation, et qui sont considérés comme des fonds propres pour le calcul des
+exigences de fonds propres applicables aux entreprises et établissements
+mentionnés ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise
+d'investissement ou un établissement financier est détenue temporairement en vue
+de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de
+contrôle des assurances, des mutuelles et des institutions de prévoyance peut
+autoriser l'entreprise d'assurance à ne pas effectuer les déductions prévues aux
+a et b.
+
 II. - La marge de solvabilité peut également être constituée par :
 
 1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts

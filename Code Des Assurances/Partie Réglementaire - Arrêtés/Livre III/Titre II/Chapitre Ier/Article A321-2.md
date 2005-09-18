@@ -1,7 +1,8 @@
 Article A321-2
 ----
-Les personnes mentionnées au I, f de l'article A. 321-1 doivent produire un état
-descriptif de leurs activités. Elles indiquent notamment :
+Les personnes mentionnées au I, f de l'article A. 321-1 et celles mentionnées
+aux articles R. 334-46 et R. 334-48 doivent produire un état descriptif de leurs
+activités. Elles indiquent notamment :
 
 1. La nature de leurs activités professionnelles actuelles et de celles qu'elles
 ont exercées pendant les dix années précédant la demande d'agrément ;

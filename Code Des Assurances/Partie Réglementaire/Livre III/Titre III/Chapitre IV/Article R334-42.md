@@ -16,7 +16,10 @@ des sociétés d'assurance mutuelle ne sont pris en compte, selon des modalités
 précisées par arrêté du ministre chargé de l'économie, que dans la mesure où ils
 peuvent être effectivement rendus disponibles pour couvrir la marge de
 solvabilité de l'entreprise d'assurance participante pour laquelle la
-solvabilité ajustée est calculée.
+solvabilité ajustée est calculée. En outre, sont déduites les participations,
+créances subordonnées et autres instruments financiers détenus sur des
+établissements de crédit, des entreprises d'investissement et des établissements
+financiers, et mentionnés au I de l'article R. 334-3.
 
 L'exigence de solvabilité des entreprises incluses dans le calcul de solvabilité
 ajustée se définit de la manière suivante :

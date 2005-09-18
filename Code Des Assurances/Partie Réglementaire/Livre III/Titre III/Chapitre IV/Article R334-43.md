@@ -5,8 +5,8 @@ résultat satisfaisant en raison des structures du groupe concerné, la commissi
 de contrôle des assurances est autorisée à appliquer, à titre exceptionnel et
 dérogatoire, l'une des deux méthodes suivantes :
 
-1. Méthode n° 1 : La solvabilité ajustée de l'entreprise d'assurance
-participante est la différence entre :
+1. Méthode n° 1 : déduction et agrégation : La solvabilité ajustée de
+l'entreprise d'assurance participante est la différence entre :
 
 a) La somme des éléments admissibles pour la marge de solvabilité de
 l'entreprise d'assurance participante et de la part proportionnelle de cette
@@ -18,8 +18,8 @@ l'entreprise d'assurance participante, de l'exigence de solvabilité de
 l'entreprise d'assurance participante et de la part proportionnelle de
 l'exigence de solvabilité de l'entreprise d'assurance apparentée.
 
-2. Méthode n° 2 : La solvabilité ajustée de l'entreprise d'assurance
-participante est la différence entre :
+2. Méthode n° 2 : déduction d'une exigence : La solvabilité ajustée de
+l'entreprise d'assurance participante est la différence entre :
 
 a) La somme des éléments admissibles pour la marge de solvabilité de
 l'entreprise d'assurance participante ;
@@ -38,4 +38,14 @@ déficit de l'entreprise filiale est pris en compte sur une base proportionnelle
 
 Pour le calcul de la solvabilité ajustée en application de ces deux méthodes,
 les opérations intragroupe sont éliminées d'une manière équivalente à celle
-définie à l'article R. 341-1.
+prévue pour l'établissement des comptes consolidés ou combinés mentionnés à
+l'article L. 345-2. En outre, sont déduits des éléments admissibles pour la
+marge de solvabilité les participations, créances et autres instruments détenus
+sur des établissements de crédit, des entreprises d'investissement et des
+établissements financiers mentionnés au I de l'article R. 334-3.
+
+Lorsque l'entreprise est une entreprise participante d'un établissement de
+crédit, d'une entreprise d'investissement ou d'un établissement financier, la
+Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance est également autorisée à appliquer, alternativement à ces deux
+méthodes, les méthodes définies aux articles R. 334-49 et R. 334-50.

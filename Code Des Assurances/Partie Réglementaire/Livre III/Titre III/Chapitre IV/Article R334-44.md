@@ -2,8 +2,10 @@ Article R334-44
 ----
 Les entreprises d'assurance agréées en France et soumises au contrôle de l'Etat
 en application de l'article L. 310-1 dont l'entreprise mère est une société de
-groupe d'assurance, une entreprise soumise au contrôle de l'Etat en application
-de l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le
+groupe d'assurance, une compagnie financière holding mixte dont le coordonnateur
+est la Commission de contrôle des assurances, des mutuelles et des institutions
+de prévoyance, une entreprise soumise au contrôle de l'Etat en application de
+l'article L. 310-1-1 ou une entreprise d'assurance ou de réassurance dont le
 siège social est situé hors d'un Etat membre de la Communauté européenne ou
 partie à l'accord sur l'Espace économique européen doivent justifier d'une
 solvabilité ajustée positive selon les modalités définies aux articles R. 334-41
@@ -20,14 +22,18 @@ entreprise apparentée est déjà prise en compte dans le calcul effectué pour
 cette autre entreprise d'assurance ;
 
 2. D'une entreprise dont l'entreprise mère est une société de groupe
-d'assurance, entreprise d'assurance ou de réassurance dont le siège social est
+d'assurance, compagnie financière holding mixte dont le coordonnateur est la
+Commission de contrôle des assurances, des mutuelles et des institutions de
+prévoyance, entreprise d'assurance ou de réassurance dont le siège social est
 situé hors d'un Etat membre de la Communauté européenne ou partie à l'accord sur
 l'Espace économique européen et est, à la fois, commune avec une ou plusieurs
 autres entreprises d'assurance agréées en France et déjà prise en compte dans le
 calcul effectué pour l'une de ces autres entreprises d'assurance ;
 
 3. D'une entreprise dont l'entreprise mère est une société de groupe
-d'assurance, entreprise d'assurance ou de réassurance dont le siège social est
+d'assurance, compagnie financière holding mixte dont le coordonnateur est la
+Commision de contrôle des assurances, des mutuelles et des institutions de
+prévoyance, entreprise d'assurance ou de réassurance dont le siège social est
 situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur
 l'Espace économique européen et est commune avec une ou plusieurs autres
 entreprises d'assurance agréées dans d'autres Etats membres de la Communauté
