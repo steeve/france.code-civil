@@ -23,7 +23,7 @@ définies en application de l'article R. 1333-10.
 
 Le préfet dirige les opérations de secours et assure l'information des
 populations. Pour satisfaire aux obligations internationales en matière de
-notification, d'échange d'informations et d'assistance, il informe le Premier
-ministre de ses décisions. En liaison avec les départements ministériels
-concernés, il met en oeuvre, le cas échéant, les accords bilatéraux avec les
-Etats frontaliers.
+notification, d'échange d'informations et d'assistance, il informe les ministres
+chargés de la sûreté nucléaire et de la radioprotection de ses décisions. En
+liaison avec les départements ministériels concernés, il met en oeuvre, le cas
+échéant, les accords bilatéraux avec les Etats frontaliers.
