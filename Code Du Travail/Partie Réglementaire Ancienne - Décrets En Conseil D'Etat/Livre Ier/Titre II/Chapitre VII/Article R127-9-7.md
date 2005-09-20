@@ -1,6 +1,7 @@
 Article R127-9-7
 ----
-L'inspecteur du travail peut mettre fin à l'agrément, par décision motivée :
+L'autorité mentionnée à l'article R. 127-2 peut mettre fin à l'agrément, par
+décision motivée :
 
 1° Lorsque ne sont pas respectées les dispositions législatives ou
 réglementaires relatives aux groupements d'employeurs ;
@@ -8,9 +9,9 @@ réglementaires relatives aux groupements d'employeurs ;
 2° Lorsque les stipulations de la convention collective choisie ne sont pas
 respectées ;
 
-3° Lorsque le groupement ne donne pas suite à la demande de l'inspecteur du
-travail de choisir une nouvelle convention collective en application de
-l'article R. 127-9-6.
+3° Lorsque le groupement ne donne pas suite à la demande de l'autorité
+mentionnée à l'article R. 127-2 de choisir une nouvelle convention collective en
+application de l'article R. 127-9-6.
 
 Le groupement est avisé au préalable des motifs du projet de retrait de
 l'agrément et invité à présenter ses observations dans un délai d'un mois
