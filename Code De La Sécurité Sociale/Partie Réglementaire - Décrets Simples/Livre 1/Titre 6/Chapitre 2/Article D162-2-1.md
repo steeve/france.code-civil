@@ -15,8 +15,7 @@ de la santé et de l'économie ;
 4° Le directeur général de la concurrence, de la consommation et de la
 répression des fraudes ou son représentant ;
 
-5° Le directeur général de l'industrie, des technologies de l'information et des
-postes ou son représentant ;
+5° Le directeur général des entreprises ou son représentant ;
 
 6° Deux représentants des organismes nationaux d'assurance maladie désignés par
 le directeur général de la Caisse nationale d'assurance maladie des travailleurs
@@ -38,6 +37,12 @@ budget, un représentant du ministre chargé de l'agriculture, un représentant 
 ministre chargé des petites et moyennes entreprises ou un représentant du
 ministre chargé des anciens combattants aux travaux du comité et de ses
 sections, avec voix consultative.
+
+Lorsque l'ordre du jour comporte l'examen de produits ou prestations relevant de
+l'article L. 165-1 et contribuant à la prise en charge d'une perte d'autonomie,
+le président associe aux travaux du comité et de ses sections, pour le produit
+ou la prestation concernée, un représentant de la Caisse nationale de solidarité
+pour l'autonomie, avec voix consultative.
 
 Les directeurs d'administration centrale ne peuvent se faire représenter que par
 des membres de leur service occupant des fonctions au moins égales à celles de
