@@ -2,7 +2,11 @@ Article R613-7
 ----
 Le fonds national de médecine préventive doit être équilibré en recettes et en
 dépenses. Il assure la couverture des dépenses de médecine préventive des
-caisses mutuelles régionales.
+caisses mutuelles régionales. Il verse aux unions régionales des caisses
+d'assurance maladie ou, dans les régions d'outre-mer, à la caisse générale de
+sécurité sociale ou, à Saint-Pierre-et-Miquelon, à la caisse de prévoyance
+sociale la contribution mentionnée à l'article R. 1411-25 du code de la santé
+publique.
 
 Les recettes du fonds national de médecine préventive sont constituées par sa
 dotation.
