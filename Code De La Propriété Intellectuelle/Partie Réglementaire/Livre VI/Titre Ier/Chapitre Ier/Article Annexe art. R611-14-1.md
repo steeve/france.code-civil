@@ -68,6 +68,20 @@ technologique en application des dispositions de l'article 23 de la loi n°
 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la
 recherche et le développement technologique de la France.
 
+- autres agents recrutés par les établissements publics à caractère scientifique
+et technologique et les établissements d'enseignement supérieur en application
+des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant
+dispositions statutaires relatives à la fonction publique de l'Etat pour
+effectuer des travaux de recherche dans le cadre de la préparation d'une thèse
+de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après
+l'obtention d'un tel doctorat.
+
+- agents recrutés dans les services d'activités industrielles et commerciales
+des établissements publics d'enseignement supérieur en application de l'article
+L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le
+cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du
+code de l'éducation ou après l'obtention d'un tel doctorat.
+
 Enseignement supérieur, recherche et affaires sociales :
 
 - personnels enseignants et hospitaliers des centres hospitaliers et
@@ -125,6 +139,13 @@ par le décret n° 95-621 du 6 mai 1995.
 d'enseignement supérieur publics relevant du ministre chargé de l'agriculture,
 régis par le décret n° 91-374 du 16 avril 1991.
 
+- autres agents recrutés par les établissements publics participant au service
+public de l'enseignement supérieur en application des articles 4 et 6 de la loi
+n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives
+à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le
+cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du
+code de l'éducation ou après l'obtention d'un tel doctorat.
+
 Industrie :
 
 Corps de fonctionnaires :
@@ -167,6 +188,13 @@ du 28 janvier 1975 modifié.
 - Personnels contractuels de droit public du groupe des écoles des
 télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177
 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+
+- autres agents recrutés par les établissements publics participant au service
+public de l'enseignement supérieur en application des articles 4 et 6 de la loi
+n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives
+à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le
+cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du
+code de l'éducation ou après l'obtention d'un tel doctorat.
 
 Equipement, transports et logement.
 
@@ -239,3 +267,66 @@ contrat du ministère des travaux publics, des transports et du tourisme ;
 
 - règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires
 employés par la direction régionale de l'équipement de l'Ile-de-France.
+
+- autres agents recrutés par les établissements publics participant au service
+public de l'enseignement supérieur en application des articles 4 et 6 de la loi
+n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives
+à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le
+cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du
+code de l'éducation ou après l'obtention d'un tel doctorat.
+
+Défense.
+
+Corps de fonctionnaires civils et militaires :
+
+- ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982
+modifié ;
+
+- ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août
+1976 modifié ;
+
+- praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
+
+- ingénieurs des études et techniques régis par le décret n° 79-1135 du 27
+décembre 1979 modifié ;
+
+- ingénieurs d'études et de fabrications du ministère de la défense régis par le
+décret n° 89-750 du 18 octobre 1989 modifié ;
+
+- techniciens supérieurs d'études et de fabrications du ministère de la défense
+régis par le décret n° 89-749 du 18 octobre 1989 modifié ;
+
+- techniciens du ministère de la défense régis par le décret n° 98-203 du 20
+mars 1998 modifié.
+
+Agents non titulaires :
+
+- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A,
+régis par le décret n° 49-1378 du 3 octobre 1949 modifié ;
+
+- professeurs à occupation principale de l'Ecole nationale supérieure de
+l'aéronautique régis par le décret n° 67-962 du 23 octobre 1967 ;
+
+- personnels scientifiques des laboratoires et centres de recherche de l'Ecole
+polytechnique régis par le décret n° 73-311 du 14 mars 1973 modifié ;
+
+- ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole
+polytechnique régis par le décret n° 73-312 du 14 mars 1973 modifié ;
+
+- agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988
+relatif à certains agents sur contrat des services à caractère industriel ou
+commercial du ministère de la défense ;
+
+- personnels enseignants de l'Ecole polytechnique régis par le décret n°
+2000-497 du 5 juin 2000 ;
+
+- personnels contractuels scientifiques, techniques et administratifs de
+recherche de l'Ecole polytechnique régis par le décret n° 2003-1006 du 21
+octobre 2003 ;
+
+- autres agents recrutés par les établissements publics participant au service
+public de l'enseignement supérieur en application des articles 4 et 6 de la loi
+n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives
+à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le
+cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du
+code de l'éducation ou après l'obtention d'un tel doctorat.
