@@ -1,15 +1,14 @@
 Article 260 I
 ----
-L'option globale ou restreinte fait l'objet d'une déclaration formulée par
-l'intéressé sur un imprimé dont le modèle est fixé par l'administration. Elle
-doit être adressée avant le 1er février de la première année de la période
-qu'elle recouvre, par lettre recommandée , au service des impôts dont dépend
-l'exploitation intéressée. L'option prend effet du 1er janvier de ladite année.
+L'option est exercée par l'accomplissement pour la première fois des obligations
+déclaratives et liquidatives qu'elle entraîne.
 
-La renonciation à cette option doit être formulée dans les mêmes formes deux
-mois au moins avant l'expiration des périodes prévues à l'article 260 G.
+Elle prend effet au 1er janvier de la première année de la période qu'elle
+recouvre. Dans le cas où le début de l'exploitation agricole est postérieur au
+1er janvier, l'option prend effet à la date du début d'exploitation et est
+réputée avoir été exercée au 1er janvier pour le décompte des périodes prévues à
+l'article 260 G.
 
-Celui qui devient exploitant agricole, en qualité de propriétaire, de fermier ou
-de métayer, dans le courant d'une année civile, doit exercer l'option dans un
-délai de un mois à compter de la date du début de ses activités. L'option prend
-effet à la même date.
+La renonciation à cette option est formulée par lettre recommandée adressée au
+service des impôts dont dépend l'exploitation intéressée deux mois au moins
+avant l'expiration de la période fixée à l'article 260 G.
