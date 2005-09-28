@@ -1,7 +1,7 @@
 Article R144-4
 ----
-En cas de renvoi par la cour de cassation devant le tribunal des affaires de
-sécurité sociale ou la cour d'appel par elle désignée ou devant la commission
-nationale technique, il appartient à l'une des parties au pourvoi de saisir la
-juridiction de renvoi par simple lettre recommandée adressée au greffe ou au
-secrétariat de ladite juridiction.
+La récusation du président et des assesseurs du tribunal des affaires de
+sécurité sociale, du tribunal du contentieux de l'incapacité et de la Cour
+nationale de l'incapacité et de la tarification de l'assurance des accidents du
+travail est régie par les dispositions du chapitre II du titre X du livre Ier du
+nouveau code de procédure civile.

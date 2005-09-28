@@ -1,26 +1,7 @@
 Article R144-3
 ----
-Peuvent former pourvoi, dans le délai de deux mois à compter de la notification
-de la décision aux parties [*point de départ, requérant*] :
-
-1°) le directeur régional des affaires sanitaires et sociales ou son
-représentant en ce qui concerne les litiges auxquels donne lieu l'application
-des législations de sécurité sociale ;
-
-2°) le chef du service régional de l'inspection du travail, de l'emploi et de la
-politique sociale agricoles ou son représentant en ce qui concerne les litiges
-auxquels donne lieu l'application des législations de mutualité sociale
-agricole.
-
-Lorsque le litige pose la question de savoir si la législation applicable est
-celle afférente aux professions non agricoles ou celle afférente aux professions
-agricoles, le directeur régional des affaires sanitaires et sociales ou son
-représentant et le chef du service régional de l'inspection du travail, de
-l'emploi et de la politique sociale agricoles ou son représentant peuvent chacun
-former pourvoi dans le délai mentionné ci-dessus.
-
-Le directeur régional des affaires sanitaires et sociales et le chef du service
-régional de l'inspection du travail, de l'emploi et de la politique sociale
-agricoles, demandeurs ou défendeurs au pourvoi, sont dispensés du ministère
-d'avocat. Le pourvoi introduit par ces fonctionnaires est formé directement au
-greffe de la Cour de cassation.
+Dans le délai d'un mois à dater de la convocation prévue à l'alinéa 3 de
+l'article L. 144-2, le procès-verbal de la séance de comparution est adressé par
+le président du tribunal au premier président de la cour d'appel dans le ressort
+de laquelle le tribunal a son siège et au procureur général près ladite cour,
+qui le transmettent sans délai au garde des sceaux, ministre de la justice.

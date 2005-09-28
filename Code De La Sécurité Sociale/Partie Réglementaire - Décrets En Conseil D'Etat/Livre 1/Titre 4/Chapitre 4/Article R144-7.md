@@ -1,23 +1,11 @@
 Article R144-7
 ----
-Les dépenses mentionnées à l'article L. 144-2 sont notamment :
+Le pourvoi mentionné à l'article L. 144-1 du présent code est formé par
+ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Il est
+instruit et jugé conformément aux règles de la procédure ordinaire dans la
+mesure où elles ne sont pas contraires aux dispositions du présent chapitre et
+des chapitres 2 et 3 du présent titre.
 
-1°) les frais et indemnités d'assesseurs, de témoins et d'expertises qui n'ont
-pas été mis expressément à la charge d'une partie ou d'un organisme par une
-disposition particulière ;
-
-2°) les émoluments des greffiers des cours d'appel afférents aux recours formés
-contre les décisions des tribunaux des affaires de sécurité sociale ;
-
-3°) ... [*Abrogé*]
-
-4°) les frais de fonctionnement des tribunaux des affaires de sécurité sociale
-et des juridictions du contentieux technique de la sécurité sociale.
-
-Les arrêtés mentionnés au deuxième alinéa de l'article L. 144-2 sont pris par le
-ministre chargé de la sécurité sociale, le ministre chargé de l'agriculture et,
-le cas échéant, le garde des sceaux, ministre de la justice.
-
-Les arrêtés mentionnés au troisième alinéa du même article L. 144-2 sont pris
-par le ministre chargé de la sécurité sociale et les autres ministres
-intéressés.
+Le pourvoi est déposé au greffe de la Cour de cassation dans un délai de deux
+mois à compter de la notification de la décision. Ce délai ne court pas s'il
+n'est pas mentionné dans la notification de la décision.

@@ -1,14 +1,26 @@
 Article R144-8
 ----
-Les dispositions des chapitres 2,3 et 4 du présent titre, sont applicables au
-règlement des différends entre les caisses d'assurances accidents des
-départements du Haut-Rhin, du Bas-Rhin et de la Moselle mentionnées au titre V
-du livre VII du code rural et leurs ressortissants, sous réserve des modalités
-particulières qui seront fixées par décret pris sur le rapport du ministre
-chargé de l'agriculture.
+Peuvent former pourvoi, dans le délai de deux mois à compter de la notification
+de la décision aux parties :
 
-Les dispositions desdits chapitres sont également applicables, dans les
-départements mentionnés à l'alinéa précédent, aux règlements des différends
-consécutifs à la réparation des accidents du travail survenus et des maladies
-professionnelles constatées avant le 1er janvier 1947 dans les professions
-autres que les professions agricoles.
+1°) le directeur régional des affaires sanitaires et sociales ou son
+représentant en ce qui concerne les litiges auxquels donne lieu l'application
+des législations de sécurité sociale ;
+
+2°) le chef du service régional de l'inspection du travail, de l'emploi et de la
+politique sociale agricoles ou son représentant en ce qui concerne les litiges
+auxquels donne lieu l'application des législations de mutualité sociale
+agricole.
+
+Lorsque le litige pose la question de savoir si la législation applicable est
+celle afférente aux professions non agricoles ou celle afférente aux professions
+agricoles, le directeur régional des affaires sanitaires et sociales ou son
+représentant et le chef du service régional de l'inspection du travail, de
+l'emploi et de la politique sociale agricoles ou son représentant peuvent chacun
+former pourvoi dans le délai mentionné ci-dessus.
+
+Le directeur régional des affaires sanitaires et sociales et le chef du service
+régional de l'inspection du travail, de l'emploi et de la politique sociale
+agricoles, demandeurs ou défendeurs au pourvoi, sont dispensés du ministère
+d'avocat. Le pourvoi introduit par ces fonctionnaires est formé directement au
+greffe de la Cour de cassation.

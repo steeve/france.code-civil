@@ -5,11 +5,11 @@ du contentieux de l'incapacité ou par la Cour nationale de l'incapacité et de 
 tarification de l'assurance des accidents du travail :
 
 1°) Les frais de consultation et d'expertise sont réglés, sans consignation
-préalable de provision, dans les conditions prévues aux articles L. 144-2 et R.
-144-7-3 ;
+préalable de provision, dans les conditions prévues aux articles L. 144-5 et R.
+144-14 ;
 
-2°) les fonctions d'expert ne peuvent être remplies par le médecin qui a soigné
+2°) Les fonctions d'expert ne peuvent être remplies par le médecin qui a soigné
 le malade ou la victime, un médecin attaché à l'entreprise, un médecin
 appartenant au conseil d'administration de la caisse intéressée à l'instance ni
 par le médecin participant au service de contrôle médical fonctionnant auprès de
-la caisse intéressée [*incompatibilité*].
+la caisse intéressée.

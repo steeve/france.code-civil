@@ -1,12 +1,21 @@
 Article R144-1
 ----
-Le pourvoi mentionné à l'article L. 144-1 du présent code est formé par
-ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Il est
-instruit et jugé conformément aux règles de la procédure ordinaire dans la
-mesure où elles ne sont pas contraires aux dispositions du présent chapitre et
-des chapitres 2 et 3 du présent titre.
+Dans les quinze jours suivant leur désignation, les présidents des tribunaux du
+contentieux de l'incapacité qui ne sont pas des magistrats honoraires, les
+assesseurs titulaires et suppléants des tribunaux des affaires de sécurité
+sociale et des tribunaux du contentieux de l'incapacité sont invités, par le
+procureur général près la cour d'appel dans le ressort de laquelle le tribunal a
+son siège, à se présenter devant la cour pour prêter serment.
 
-Le délai prévu à l'article 17 de la loi du 23 juillet 1947 modifiant
-l'organisation et la procédure de la Cour de cassation court à compter de la
-notification de la décision objet du pourvoi . La forclusion ne peut être
-opposée que si cette notification porte mention dudit délai.
+Le premier président de la cour d'appel ou le magistrat délégué par lui,
+siégeant en audience publique et en présence du procureur général, reçoit les
+prestations de serment.
+
+Au cours de leur réception, les présidents des tribunaux du contentieux de
+l'incapacité qui ne sont pas des magistrats honoraires, les assesseurs
+titulaires et suppléants des tribunaux des affaires de sécurité sociale et des
+tribunaux du contentieux de l'incapacité prêtent individuellement le serment
+suivant : "Je jure de remplir mes devoirs avec zèle et intégrité et de garder le
+secret des délibérations."
+
+Il est dressé procès-verbal de la réception du serment.

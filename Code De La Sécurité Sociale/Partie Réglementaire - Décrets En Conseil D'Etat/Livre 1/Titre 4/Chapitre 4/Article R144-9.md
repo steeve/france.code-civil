@@ -1,8 +1,8 @@
 Article R144-9
 ----
-Les recours prévus à l'article L. 242-8 du code de l'action sociale et des
-familles et aux 3° et 4° de l'article L. 323-11 du code du travail sont soumis
-aux dispositions des articles R. 143-3, R. 143-3-1 et R. 143-6 à R. 143-14.
-
-Le défendeur dans ces instances est le préfet du département dans lequel est
-situé le siège de la commission dont la décision est contestée.
+En cas de renvoi par la Cour de cassation devant le tribunal des affaires de
+sécurité sociale ou la cour d'appel par elle désignée ou devant la Cour
+nationale de l'incapacité et de la tarification de l'assurance des accidents du
+travail, il appartient à l'une des parties au pourvoi de saisir la juridiction
+de renvoi par simple lettre recommandée adressée au greffe ou au secrétariat de
+ladite juridiction.

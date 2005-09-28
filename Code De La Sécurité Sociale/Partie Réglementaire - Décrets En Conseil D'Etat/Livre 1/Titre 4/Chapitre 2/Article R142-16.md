@@ -11,3 +11,8 @@ aucun blanc, les réclamations déposées ou reçues par lettre recommandée. Il
 tient les rôles et le registre des délibérations du tribunal, rédige les
 procès-verbaux et délivre à toute personne intéressée des extraits des décisions
 prises par le tribunal.
+
+Selon les besoins du service, le secrétaire peut désigner sous sa responsabilité
+un ou plusieurs agents du secrétariat pour exercer partie des fonctions qui lui
+sont attribuées par le présent article. Au préalable, ces agents prêtent le
+serment prévu au premier alinéa.
