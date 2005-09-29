@@ -35,7 +35,10 @@ Sont également considérés comme machines, dans la mesure où ils n'assurent p
 la fonction de transport, les matériels répondant à la définition des machines
 placés sur les véhicules ou leurs remorques.
 
-2° Tracteurs agricoles et forestiers à roues.
+2° Tracteurs agricoles ou forestiers, ainsi que leurs entités techniques,
+systèmes et composants, à l'exclusion de ceux qui sont spécialement conçus et
+construits pour les forces armées, la protection civile, les services de lutte
+contre l'incendie ou les services responsables du maintien de l'ordre.
 
 3° Accessoires de levage répondant à la définition suivante : équipements non
 incorporés à une machine, à un tracteur ou à un autre matériel et placés entre
