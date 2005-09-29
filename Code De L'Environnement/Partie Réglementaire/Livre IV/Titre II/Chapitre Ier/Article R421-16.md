@@ -7,7 +7,7 @@ leurs compétences scientifiques et techniques :
 recherche compétents en matière de protection de la nature et de préservation de
 la faune sauvage, nommés pour six ans, après avis du directeur général de
 l'Office national de la chasse et de la faune sauvage, par arrêté du ministre
-chargé de la chasse ;
+chargé de la chasse et du ministre chargé de l'agriculture et de la forêt ;
 
 2° Deux membres désignés par le directeur général de l'office, pour six ans,
 parmi les personnels en activité de l'établissement titulaires d'un doctorat ou

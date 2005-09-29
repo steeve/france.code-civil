@@ -1,9 +1,9 @@
 Article R421-12
 ----
-Le conseil d'administration se réunit sur convocation de son président ou du
-ministre chargé de la chasse et au moins deux fois par an. Cette convocation
-écrite doit être adressée aux membres huit jours au moins avant la date de
-réunion.
+Le conseil d'administration se réunit sur convocation de son président, du
+ministre de l'agriculture et de la forêt ou du ministre chargé de la chasse et
+au moins deux fois par an. Cette convocation écrite doit être adressée aux
+membres huit jours au moins avant la date de réunion.
 
 Le conseil ne peut valablement délibérer que si le nombre des membres présents
 est au moins égal à la moitié du nombre des membres en exercice. Lorsque le
