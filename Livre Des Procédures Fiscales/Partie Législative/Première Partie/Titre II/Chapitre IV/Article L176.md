@@ -22,7 +22,8 @@ cette période.
 Dans le cas prévu au deuxième alinéa du a du 1 du 7° de l'article 257 du code
 général des impôts, le droit de reprise de l'administration s'exerce jusqu'à la
 fin de la troisième année suivant celle au cours de laquelle intervient la
-délivrance du permis de construire ou le début des travaux.
+délivrance du permis de construire ou du permis d'aménager ou le début des
+travaux.
 
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts,
 le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième

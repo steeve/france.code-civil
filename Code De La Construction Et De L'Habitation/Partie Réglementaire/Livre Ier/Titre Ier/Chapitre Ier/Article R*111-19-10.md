@@ -32,4 +32,4 @@ représentant de l'Etat dans le département ne peut accorder une dérogation qu
 si une mesure de substitution est prévue.
 
 Dans tous les cas, le représentant de l'Etat dans le département se prononce
-selon les modalités prévues au III de l'article R. 111-19-16.
+selon les modalités prévues aux articles R. 111-19-24 et R. 111-19-25.

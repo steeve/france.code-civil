@@ -1,34 +1,25 @@
 Article L422-2
 ----
-Les constructions ou travaux exemptés du permis de construire, à l'exception de
-ceux couverts par le secret de la défense nationale, et de ceux, visés au
-premier alinéa de l'article L. 422-1, répondant aux besoins des services du
-ministère de l'intérieur ou des établissements pénitentiaires, font l'objet
-d'une déclaration auprès du maire de la commune avant le commencement des
-travaux.
+Par exception aux dispositions du a de l'article L. 422-1, l'autorité
+administrative de l'Etat est compétente pour se prononcer sur un projet portant
+sur :
 
-Sauf opposition dûment motivée, notifiée par l'autorité compétente en matière de
-permis de construire dans le délai d'un mois à compter de la réception de la
-déclaration, les travaux peuvent être exécutés sous réserve, le cas échéant, du
-respect des prescriptions notifiées dans les mêmes conditions.
+a) Les travaux, constructions et installations réalisés pour le compte de
+l'Etat, de la région, de la collectivité territoriale de Corse, du département,
+de leurs établissements publics et concessionnaires ainsi que pour le compte
+d'Etats étrangers ou d'organisations internationales ;
 
-Lorsque les constructions ou travaux mentionnés au premier alinéa sont soumis,
-par des dispositions législatives ou réglementaires, en raison de leur
-emplacement ou de leur utilisation, à un régime d'autorisation ou à des
-prescriptions dont l'application est contrôlée par une autorité autre que celle
-compétente en matière de permis de construire, la déclaration mentionnée au
-premier alinéa tient lieu des demandes d'autorisation exigées au titre de ces
-dispositions. Dans ce cas, le délai prévu à l'alinéa précédent est porté à deux
-mois.
+b) Les ouvrages de production, de transport, de distribution et de stockage
+d'énergie, ainsi que ceux utilisant des matières radioactives ; un décret en
+Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
 
-Si l'autorité consultée manifeste son désaccord ou assortit son accord de
-prescriptions, l'autorité compétente en matière de permis de construire, selon
-le cas, s'oppose à l'exécution des travaux ou notifie les prescriptions dont
-l'accord est assorti. En cas d'accord manifesté par l'autorité consultée,
-l'absence d'opposition de l'autorité compétente en matière de permis de
-construire tient lieu des autorisations prévues par les dispositions
-législatives ou réglementaires mentionnées à l'alinéa précédent.
+c) Les travaux, constructions et installations réalisés à l'intérieur des
+périmètres des opérations d'intérêt national mentionnées à l'article L. 121-2 ;
 
-Les conditions de dépôt, de publicité et de transmission de la déclaration
-prévue au premier alinéa ainsi que les modalités de réponse des autorités
-concernées sont déterminées par décret en Conseil d'Etat.
+d) Les opérations ayant fait l'objet d'une convention prise sur le fondement de
+l'article L. 302-9-1 du code de la construction et de l'habitation, pendant la
+durée d'application de l'arrêté préfectoral prévu au même article.
+
+Lorsque la décision est prise par le préfet, celui-ci recueille l'avis du maire
+ou du président de l'établissement public de coopération intercommunale
+compétent.

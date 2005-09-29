@@ -1,22 +1,12 @@
 Article R313-27
 ----
-Peuvent faire l'objet de l'autorisation spéciale prévue à l'article L. 313-3
-(alinéa 2) les travaux exécutés dans les périmètres délimités par le ministre
-chargé de l'urbanisme, comportant :
+L'autorité expropriante qui a pris l'initiative de la déclaration d'utilité
+publique de l'opération notifie à chaque propriétaire, ou copropriétaire, le
+programme détaillé des travaux à réaliser sur le bâtiment et son terrain
+d'assiette.
 
-Réparation, assainissement, aménagement, installation d'équipement de confort ;
-
-Transformation ou réfection de bâtiment ;
-
-Démolition totale ou partielle de constructions ;
-
-Constructions additionnelles, lorsque ces travaux tendent à l'amélioration
-d'immeubles existants, à leur modernisation, à l'aménagement d'espaces libres et
-d'aires de stationnement ainsi que, d'une manière générale, à leur adaptation
-aux besoins du quartier, au caractère des lieux avoisinants et à une meilleure
-application des règles d'urbanisme ayant pour conséquence la transformation de
-leurs conditions d'habitabilité ou leur mise en valeur.
-
-Dans les secteurs sauvegardés, les travaux qui peuvent faire l'objet de
-l'autorisation spéciale sont ceux définis par le plan de sauvegarde et de mise
-en valeur de chaque secteur.
+La notification prévue à l'alinéa précédent est effectuée à l'occasion de la
+notification individuelle du dépôt en mairie du dossier de l'enquête parcellaire
+prévue par l'article R. 11-22 du code de l'expropriation pour cause d'utilité
+publique. Elle comporte l'indication du délai dans lequel doivent être réalisés
+les travaux.

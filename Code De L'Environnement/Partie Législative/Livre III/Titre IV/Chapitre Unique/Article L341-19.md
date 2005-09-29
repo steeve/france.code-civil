@@ -44,6 +44,6 @@ statue soit sur la mise en conformité des lieux avec les prescriptions formulé
 par le ministre chargé des sites, soit sur leur rétablissement dans leur état
 antérieur ;
 
-3° Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est
+3° Le droit de visite prévu à l'article L. 461-1 du code de l'urbanisme est
 ouvert aux représentants du ministre chargé des sites ; l'article L. 480-12 du
 même code est applicable.

@@ -1,10 +1,10 @@
 Article L141-6
 ----
-Pour les contrats d'assurance de groupe au sens de l'article L. 140-1, autres
+Pour les contrats d'assurance de groupe au sens de l'article L. 141-1, autres
 que ceux qui sont régis par le titre Ier de la loi n° 89-1009 du 31 décembre
 1989 renforçant les garanties offertes aux personnes assurées contre certains
 risques, et pour les contrats collectifs de capitalisation présentant les mêmes
-caractéristiques que les contrats de groupe au sens de l'article L. 140-1, le
+caractéristiques que les contrats de groupe au sens de l'article L. 141-1, le
 souscripteur est, tant pour les adhésions au contrat que pour l'exécution de
 celui-ci, réputé agir, à l'égard de l'adhérent, de l'assuré et du bénéficiaire,
 en tant que mandataire de l'entreprise d'assurance auprès de laquelle le contrat

@@ -1,19 +1,16 @@
 Article A424-2
 ----
-Lorsque le responsable du service de l'Etat dans le département, chargé de
-l'urbanisme, compétent en matière d'établissement de l'assiette et de
-liquidation des impositions précitées, est saisi d'une demande du maire ou du
-président de l'établissement public de coopération intercommunale compétent ou
-qu'il propose à ces derniers d'exercer cette mission fiscale au nom de l'Etat,
-il apprécie notamment que les services municipaux ou ceux de l'établissement
-public de coopération intercommunale compétents comportent une organisation
-technique suffisante *autorités compétentes*.
+L'arrêté prévu au premier alinéa de l'article A. 424-1 :
 
-L'arrêté portant déconcentration auprès du maire ou du président de
-l'établissement de coopération intercommunale de l'établissement de l'assiette
-et de la liquidation de ces impositions est signé par le préfet sur proposition
-du responsable du service de l'Etat dans le département, chargé de l'urbanisme.
-Il fait l'objet d'une publication dans le recueil des actes administratifs du
-département. Il est affiché en mairie et est inséré en caractères apparents dans
-l'un des journaux quotidiens publiés dans le département. Il est transmis au
-directeur des services fiscaux et au président du conseil général*publicité*.
+a) Indique la collectivité au nom de laquelle la décision est prise ;
+
+b) Vise la demande de permis ou la déclaration et en rappelle les principales
+caractéristiques : nom et adresse du demandeur, objet de la demande, numéro
+d'enregistrement, lieu des travaux ;
+
+c) Vise les textes législatifs et réglementaires dont il est fait application ;
+
+d) Vise les avis recueillis en cours d'instruction et leur sens.
+
+L'arrêté mentionne, en caractères lisibles, le prénom, le nom et la qualité de
+son signataire.

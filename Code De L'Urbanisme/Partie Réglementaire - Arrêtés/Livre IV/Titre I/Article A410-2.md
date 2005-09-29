@@ -1,5 +1,4 @@
 Article A410-2
 ----
-La réponse à la demande de certificat d'urbanisme est établie conformément à
-l'un ou l'autre des deux modèles intitulés respectivement Certificat d'urbanisme
-positif et Certificat d'urbanisme négatif et annexés au présent article.
+Le plan de situation joint à la demande précise son échelle et l'orientation du
+terrain par rapport au nord.

@@ -1,4 +1,5 @@
 Article A441-2
 ----
-Les dispositions des articles A. 422-1-1 et A. 422-1-2 sont également
-applicables à la déclaration de clôture.
+Le déclarant annexe à la déclaration préalable un bordereau de dépôt, établi
+conformément au modèle annexé au formulaire mentionné à l'article A. 441-1,
+identifiant celles des pièces qui sont jointes à la déclaration.

@@ -8,7 +8,7 @@ réglementation technique et de sécurité en vigueur et aux prescriptions impos
 par l'autorisation d'exécution des travaux ;
 
 2° S'il s'agit d'une installation autre qu'un téléski, une attestation du
-contrôleur technique mentionné à l'article R. 342-25 du code du tourisme chargé
+contrôleur technique mentionné à l'article R. 342-8 du code du tourisme chargé
 par le maître d'ouvrage de contrôler la conception et l'exécution des
 fondations, ancrages et superstructures, à l'exclusion des parties mobiles ou
 sujettes à l'usure ;
