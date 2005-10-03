@@ -22,14 +22,15 @@ professionnelle désignés à l'article 16 du décret n° 75-911 du 6 octobre 19
 modifié par l'article 7 du décret n° 79-71 du 23 janvier 1979 sont jointes aux
 documents mentionnés à l'article 371 F.
 
-Au vu de ces pièces, la commission mentionnée à l'article 371 G émet un avis
-séparé sur l'octroi des habilitations prévues aux premier et au deuxième
-alinéas. Le directeur mentionné à l'article 371 G est sur ce point lié par
-l'avis de la commission.
+La commission mentionnée à l'article 371 G rend sa décision sur la demande
+d'habilitation après examen des pièces mentionnées au troisième alinéa.
 
 Dans le cas où des changements interviennent en ce qui concerne les responsables
 de leurs services comptables, les centres bénéficiant des habilitations
-mentionnées aux premier et deuxième alinéas doivent informer le directeur
-mentionné à l'article 371 G dans un délai d'un mois. Le maintien de
-l'habilitation est subordonné à une décision du directeur prise dans les
-conditions prévues aux troisième et quatrième alinéas.
+mentionnées aux premier et deuxième alinéas doivent informer le directeur chargé
+de la direction des services fiscaux située au chef-lieu de la région dans
+laquelle le centre a son siège, ou le directeur chargé de la direction
+spécialisée des impôts pour la région d'Ile-de-France et pour Paris lorsque le
+siège du centre se situe dans la région d'Ile-de-France dans un délai d'un mois.
+Le maintien de l'habilitation est subordonné à une décision de la commission
+prise dans les conditions prévues aux troisième et quatrième alinéas.
