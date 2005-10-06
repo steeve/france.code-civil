@@ -4,6 +4,11 @@ Les institutions et unions d'institutions de prévoyance mentionnées à l'artic
 R. 933-1 doivent présenter une solvabilité ajustée positive déterminée selon les
 modalités précisées à l'article R. 933-3 sur la base des comptes consolidés ou
 combinés établis conformément aux dispositions de l'article L. 931-34.
+Toutefois, lorsque ces institutions de prévoyance ou unions sont des organismes
+participants d'un établissement de crédit, d'une entreprise d'investissement ou
+d'un établissement financier, elles peuvent, alternativement, présenter une
+solvabilité ajustée positive selon les modalités précitées aux articles R. 933-9
+et R. 933-10.
 
 Toutefois, la commission de contrôle mentionnée à l'article L. 951-1 peut
 dispenser du calcul de la solvabilité ajustée une institution de prévoyance ou

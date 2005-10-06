@@ -16,7 +16,11 @@ admissibles, notamment les plus-values latentes et les emprunts subordonnés, ne
 sont pris en compte, selon des modalités précisées par arrêté du ministre chargé
 de la sécurité sociale, que dans la mesure où ils peuvent être effectivement
 rendus disponibles pour couvrir la marge de solvabilité de l'institution ou de
-l'union participante pour laquelle la solvabilité ajustée est calculée.
+l'union participante pour laquelle la solvabilité ajustée est calculée. En
+outre, sont déduits les participations, créances subordonnées et autres
+instruments financiers détenus sur des établissements de crédit, des entreprises
+d'investissement et des établissements financiers, et mentionnés au I de
+l'article R. 931-10-3.
 
 L'exigence de solvabilité des organismes assureurs inclus dans le calcul de
 solvabilité ajustée se définit de la manière suivante :

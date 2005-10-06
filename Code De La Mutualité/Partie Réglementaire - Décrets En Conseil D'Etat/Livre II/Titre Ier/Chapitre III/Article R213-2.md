@@ -3,7 +3,11 @@ Article R213-2
 Les mutuelles et unions mentionnées à l'article R. 213-1 doivent présenter une
 solvabilité ajustée positive déterminée selon les modalités précisées à
 l'article R. 213-3 sur la base des comptes consolidés ou combinés établis
-conformément aux dispositions de l'article L. 212-7.
+conformément aux dispositions de l'article L. 212-7. Toutefois, lorsque ces
+mutuelles et unions sont des organismes participants d'un établissement de
+crédit, d'une entreprise d'investissement ou d'un établissement financier, elles
+peuvent, alternativement, présenter une solvabilité ajustée positive selon les
+modalités précisées aux articles R. 213-9 et R. 213-10.
 
 Toutefois, la commission de contrôle mentionnée à l'article L. 510-1 peut
 dispenser du calcul de la solvabilité ajustée une mutuelle ou une union s'il

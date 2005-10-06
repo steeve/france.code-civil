@@ -20,6 +20,29 @@ solvabilité que pour sa valeur progressivement réduite chaque année d'un mont
 constant égal au double du montant total de cet emprunt divisé par le nombre
 d'années de sa durée.
 
+Lorsque l'institution de prévoyance ou l'union n'est pas soumise à une
+surveillance complémentaire en application de l'article L. 933-3 ou de l'article
+L. 933-4-1, la marge de solvabilité est diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 933-2 que l'institution ou
+l'union détient dans des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers ;
+
+b) Les créances et autres instruments financiers que l'institution ou l'union
+détient sur des établissements de crédit, des entreprises d'investissement ou
+des établissements financiers dans lesquels elle détient une participation, et
+qui sont considérés comme des fonds propres pour le calcul des exigences de
+fonds propres applicables aux entreprises et établissements mentionnés
+ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise
+d'investissement ou un établissement financier est détenue temporairement par
+une institution ou union susmentionnées en vue de faciliter l'assainissement et
+la sauvegarde de cette entité, la Commission de contrôle des assurances, des
+mutuelles et des institutions de prévoyance peut autoriser l'institution de
+prévoyance ou l'union à ne pas effectuer les déductions prévues aux deux alinéas
+précédents.
+
 II. - La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
 subordonnés.

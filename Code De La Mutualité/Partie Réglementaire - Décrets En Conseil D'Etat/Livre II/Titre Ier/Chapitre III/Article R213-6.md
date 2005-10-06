@@ -6,9 +6,11 @@ sont soumises au contrôle de la commission de contrôle mentionnée à l'articl
 opérations hors bilan, les éléments admissibles pour la marge de solvabilité,
 les investissements, les opérations de réassurance et les accords de répartition
 des coûts. La mutuelle ou l'union déclare au moins une fois par an à cette
-commission les opérations importantes mentionnées ci-dessus. Un arrêté du
-ministre chargé de la mutualité précise les conditions dans lesquelles ces
-opérations doivent être déclarées.
+commission les opérations importantes mentionnées ci-dessus. La mutuelle ou
+l'union dispose en outre de procédures de gestion des risques et de dispositifs
+de contrôle interne destinés à détecter, mesurer, encadrer et contrôler ces
+opérations. Un arrêté du ministre chargé de la mutualité précise les conditions
+dans lesquelles ces opérations doivent être déclarées.
 
 Si la commission de contrôle mentionnée à l'article L. 510-1 estime, à partir de
 l'examen de ces déclarations, que la solvabilité de la mutuelle ou de l'union

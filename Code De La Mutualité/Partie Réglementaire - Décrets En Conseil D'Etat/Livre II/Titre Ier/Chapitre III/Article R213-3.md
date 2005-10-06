@@ -17,7 +17,10 @@ subordonnés, ne sont pris en compte, selon des modalités précisées par arrê
 ministre chargé de la mutualité, que dans la mesure où ils peuvent être
 effectivement rendus disponibles pour couvrir la marge de solvabilité de la
 mutuelle ou de l'union participante pour laquelle la solvabilité ajustée est
-calculée.
+calculée. En outre, sont déduits les participations, créances subordonnées et
+autres instruments financiers détenus sur des établissements de crédit, des
+entreprises d'investissement et des établissements financiers, et mentionnés au
+I de l'article R. 212-11.
 
 L'exigence de solvabilité des organismes assureurs inclus dans le calcul de
 solvabilité ajustée se définit de la manière suivante :
