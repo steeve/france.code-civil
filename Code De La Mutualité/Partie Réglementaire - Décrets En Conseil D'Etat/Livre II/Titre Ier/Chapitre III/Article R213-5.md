@@ -1,7 +1,9 @@
 Article R213-5
 ----
 Les mutuelles ou unions dont l'organisme de référence mentionné au 1° de
-l'article L. 212-7-1 est une société de groupe d'assurance, une entreprise
+l'article L. 212-7-1 est une société de groupe d'assurance, une compagnie
+financière holding mixte dont le coordonnateur est la Commission de contrôle des
+assurances, des mutuelles et des institutions de prévoyance, une entreprise
 soumise au contrôle de l'Etat en application de l'article L. 310-1-1 du code des
 assurances ou une entreprise d'assurance ou de réassurance dont le siège social
 est situé dans un Etat membre de la Communauté européenne ou partie à l'accord
@@ -20,14 +22,18 @@ cette mutuelle ou union est déjà prise en compte dans le calcul effectué pour
 cet autre organisme assureur ;
 
 2. D'une institution ou d'une union dont l'organisme de référence est une
-société de groupe d'assurance, entreprise d'assurance ou de réassurance dont le
+société de groupe d'assurance, compagnie financière holding mixte dont le
+coordonnateur est la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance, entreprise d'assurance ou de réassurance dont le
 siège social est situé hors d'un Etat membre de la Communauté européenne ou
 partie à l'accord sur l'Espace économique européen et est à la fois commune avec
 un ou plusieurs organismes assureurs agréés en France et déjà pris en compte
 dans le calcul effectué pour l'une de ces autres entreprises d'assurance ;
 
 3. D'une institution ou d'une union dont l'organisme de référence est une
-société de groupe d'assurance, entreprise d'assurance ou de réassurance dont le
+société de groupe d'assurance, compagnie financière holding mixte dont le
+coordonnateur est la Commission de contrôle des assurances, des mutuelles et des
+institutions de prévoyance, entreprise d'assurance ou de réassurance dont le
 siège social est situé dans un Etat membre de la Communauté européenne ou partie
 à l'accord sur l'Espace économique européen dès lors que la commission de
 contrôle mentionnée à l'article L. 510-1 a conclu un accord avec une autorité
