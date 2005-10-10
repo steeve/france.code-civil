@@ -19,6 +19,3 @@ civile ou fraction d'année civile écoulée depuis la date d'acquisition
 d'importation ou de la première utilisation du bien. Pour les immeubles affectés
 à l'habitation, le montant de la déduction est égal au montant de la taxe qui
 les a grevés.
-
-Le montant de la déduction prévue au présent article ne peut excéder le montant
-de la taxe due à raison de la cession ou de l'apport.
