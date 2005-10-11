@@ -20,9 +20,9 @@ morales pourraient être en tout ou partie transférés en des points du territo
 où ils contribueraient utilement à un développement équilibré des régions ;
 
 c) Il propose à l'approbation du comité interministériel d'aménagement et de
-développement du territoire des opérations de transfert concernant des services
-ou personnes morales mentionnés au a. Le comité assure la coordination de ces
-opérations et, lorsqu'elles ont été approuvées par le comité interministériel
-d'aménagement du territoire, veille à ce qu'elles soient conduites à leur terme.
-Il peut adresser des recommandations aux services et personnes morales concernés
-par ces opérations.
+compétitivité des territoires des opérations de transfert concernant des
+services ou personnes morales mentionnés au a. Le comité assure la coordination
+de ces opérations et, lorsqu'elles ont été approuvées par le comité
+interministériel d'aménagement du territoire, veille à ce qu'elles soient
+conduites à leur terme. Il peut adresser des recommandations aux services et
+personnes morales concernés par ces opérations.

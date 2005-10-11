@@ -4,7 +4,7 @@ L'Etat notifie à la Commission européenne les projets d'aides ou de régimes
 d'aides que les collectivités territoriales et leurs groupements souhaitent
 mettre en oeuvre, sous réserve de leur compatibilité avec les stratégies de
 développement de l'Etat, telles qu'elles sont arrêtées en comité
-interministériel d'aménagement et de développement du territoire.
+interministériel d'aménagement et de compétitivité des territoires.
 
 Toute collectivité territoriale, tout groupement de collectivités territoriales
 ayant accordé une aide à une entreprise est tenu de procéder sans délai à sa
@@ -23,4 +23,4 @@ Les obligations résultant de la procédure prévue à l'article 88-1 du traité
 instituant la Communauté européenne et de la mise en oeuvre des règlements
 d'exemption pris en application de l'article 89 dudit traité s'imposent aux
 collectivités territoriales et à leurs groupements lorsqu'elles concernent leurs
-dispositifs d'aide aux entreprises. ;
+dispositifs d'aide aux entreprises.

@@ -8,4 +8,4 @@ territoriales d'aménagement et le schéma directeur de la région d'Ile-de-Fran
 avec les orientations de la politique d'aménagement et de développement du
 territoire, ainsi qu'avec celles de la politique de la ville et notamment celles
 qui ont été approuvées en comité interministériel d'aménagement et de
-développement du territoire et en comité interministériel de la ville.
+compétitivité des territoires et et en comité interministériel de la ville.
