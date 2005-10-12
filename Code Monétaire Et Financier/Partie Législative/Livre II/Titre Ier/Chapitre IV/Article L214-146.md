@@ -6,7 +6,7 @@ statuts de la société de placement à prépondérance immobilière à capital
 variable le prévoient. Chaque compartiment donne lieu à l'émission d'une ou
 plusieurs catégories de parts ou actions représentatives des actifs de
 l'organisme de placement collectif immobilier qui lui sont attribués. Par
-dérogation à l'article 2285 du code civil et sauf stipulation contraire des
+dérogation à l'article 2093 du code civil et sauf stipulation contraire des
 documents constitutifs de l'organisme de placement collectif immobilier, les
 actifs d'un compartiment déterminé ne répondent que des dettes, engagements et
 obligations et ne bénéficient que des créances qui concernent ce compartiment.

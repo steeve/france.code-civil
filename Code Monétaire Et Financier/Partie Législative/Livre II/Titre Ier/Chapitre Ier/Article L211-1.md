@@ -40,4 +40,5 @@ un règlement monétaire par le vendeur ;
 6. Tous autres instruments de marché à terme.
 
 III. - Les instruments financiers ne peuvent être émis que par l'Etat, une
-personne morale, un fonds commun de placement ou un fonds commun de créances.
+personne morale, un fonds commun de placement, un fonds de placement immobilier
+ou un fonds commun de créances.

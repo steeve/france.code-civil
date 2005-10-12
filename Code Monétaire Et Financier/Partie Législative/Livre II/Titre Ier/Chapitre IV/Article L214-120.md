@@ -12,7 +12,7 @@ liquidative majorée ou diminuée, selon le cas, des frais et commissions.
 
 Le montant du capital est égal à tout moment à la valeur de l'actif net de la
 société de placement à prépondérance immobilière à capital variable, déduction
-faite des sommes distribuables définies au I de l'article L. 214-128.
+faite des sommes distribuables définies au 1° du I de l'article L. 214-128.
 
 Le capital initial d'une société de placement à prépondérance immobilière à
 capital variable ne peut être inférieur à un montant fixé par décret.

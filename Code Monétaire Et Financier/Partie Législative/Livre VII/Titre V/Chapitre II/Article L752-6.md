@@ -9,9 +9,5 @@ A l'article L. 214-18, les mots : "les dispositions de l'ordonnance n° 45-2710
 du 2 novembre 1945 relative aux sociétés d'investissement ainsi que" sont
 supprimés.
 
-Pour l'application de l'article L. 214-43, les références au code de commerce
-sont remplacées par les références aux dispositions applicables localement ayant
-le même objet.
-
 Les articles L. 231-3 à L. 231-21 sont également applicables en Polynésie
 française.

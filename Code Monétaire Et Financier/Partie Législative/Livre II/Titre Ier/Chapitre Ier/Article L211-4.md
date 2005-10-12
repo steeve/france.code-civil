@@ -6,7 +6,8 @@ comptes tenus par l'émetteur ou par un intermédiaire habilité.
 
 Les titres des sociétés par actions qui ne sont pas admis aux négociations sur
 un marché réglementé, à l'exception des actions de sociétés d'investissement à
-capital variable "SICAV", doivent être inscrits à un compte tenu chez lui par
+capital variable "SICAV" ou de sociétés de placement à prépondérance immobilière
+à capital variable, doivent être inscrits à un compte tenu chez lui par
 l'émetteur au nom du propriétaire des titres.
 
 Par dérogation aux obligations de l'alinéa précédent, lorsque les titres sont

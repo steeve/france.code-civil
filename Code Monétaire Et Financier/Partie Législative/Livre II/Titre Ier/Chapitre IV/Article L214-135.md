@@ -24,11 +24,11 @@ sociétés civiles de placement immobilier en fonds de placement immobilier,
 entraînent la dissolution des sociétés concernées et la transmission universelle
 de leur patrimoine au fonds sans qu'il y ait lieu à liquidation.
 
-Le commissaire aux comptes apprécie, sous sa responsabilité, la valeur de tout
-apport en nature, au vu de l'estimation réalisée par deux évaluateurs
-immobiliers remplissant les conditions mentionnées à l'article L. 214-112 et
-désignés par la société de gestion. Lorsque l'apport en nature est effectué lors
-de la constitution du fonds de placement immobilier, le règlement contient
+Tout apport en nature est évalué par le commissaire aux comptes sous sa
+responsabilité, au vu de l'estimation réalisée par deux évaluateurs immobiliers
+remplissant les conditions mentionnées à l'article L. 214-112 et désignés par la
+société de gestion. Lorsque l'apport en nature est effectué lors de la
+constitution du fonds de placement immobilier, le règlement contient
 l'évaluation de ces apports. Le rapport du commissaire aux comptes est joint au
 règlement. Il est mis à la disposition des porteurs de parts. Les apports en
 nature effectués après la constitution du fonds de placement immobilier font

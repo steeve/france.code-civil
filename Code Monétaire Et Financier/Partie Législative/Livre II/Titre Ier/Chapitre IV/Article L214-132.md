@@ -7,19 +7,12 @@ société de gestion de portefeuille chargée de sa gestion.
 La société de gestion établit le règlement du fonds.
 
 Ce règlement prévoit l'institution d'un conseil de surveillance composé
-uniquement de représentants des porteurs de parts. Ce conseil est composé de
-cinq membres au moins et de neuf membres au plus, dont un président élu par les
-membres, tenus à la discrétion sur les informations présentant un caractère
-confidentiel et données comme telles par le président. Il ne peut s'immiscer
-dans la gestion du fonds. Le règlement général de l'Autorité des marchés
-financiers fixe les conditions dans lesquelles il exerce sa mission, les
-conditions et les modalités de désignation de ses membres ainsi que les moyens
-mis à leur disposition. Les membres du conseil de surveillance sont responsables
-des fautes personnelles commises dans l'exécution de leur mandat. Ils
-n'encourent aucune responsabilité à raison des actes de la gestion et de leur
-résultat. Le règlement général de l'Autorité des marchés financiers fixe les
-règles relatives au cumul de mandats au sein des conseils de surveillance et
-détermine les règles d'incompatibilité.
+uniquement de représentants des porteurs de parts. Ce conseil, composé de cinq
+membres au moins et de neuf membres au plus, exerce un contrôle sur les
+modalités de gestion du fonds. Il ne peut s'immiscer dans cette gestion. Le
+règlement général de l'Autorité des marchés financiers fixe les conditions dans
+lesquelles il exerce sa mission, les modalités de désignation de ses membres
+ainsi que les moyens mis à leur disposition.
 
 Chaque fois qu'il le juge nécessaire et au moins une fois par an, le conseil de
 surveillance établit un rapport rendant compte de sa mission. Le règlement

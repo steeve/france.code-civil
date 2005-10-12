@@ -16,9 +16,9 @@ société de gestion du fonds établit les comptes annuels de l'organisme de
 placement collectif immobilier et un rapport écrit sur la gestion de l'organisme
 de placement collectif immobilier dont le contenu, défini par décret en Conseil
 d'Etat, expose notamment la situation de l'endettement et de la liquidité de
-l'organisme de placement collectif immobilier. Ce rapport est mis à la
-disposition des actionnaires ou des porteurs de parts dans des conditions et
-limites précisées par le règlement général de l'Autorité des marchés financiers.
+l'organisme de placement collectif immobilier. Ce rapport est adressé aux
+actionnaires ou aux porteurs de parts dans des conditions et limites précisées
+par le règlement général de l'Autorité des marchés financiers.
 
 Par dérogation aux dispositions du premier alinéa de l'article L. 123-22 du code
 de commerce, la comptabilité d'un organisme de placement immobilier peut être
