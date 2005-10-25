@@ -42,3 +42,8 @@ exploitants d'installations autorisées au cours de la durée du plan ainsi qu'�
 ceux dont l'autorisation viendrait à être modifiée. L'Etat peut se porter
 acquéreur de quotas en application du II de l'article L. 229-15 pour compléter
 cette réserve.
+
+VI. - Pour chaque période de cinq ans visée au I, le plan fixe, sous forme d'un
+pourcentage du total des quotas affectés à chaque installation, la quantité
+maximale de celles des unités visées par l'article L. 229-22 que les exploitants
+peuvent utiliser conformément au dernier alinéa de l'article L. 229-7.

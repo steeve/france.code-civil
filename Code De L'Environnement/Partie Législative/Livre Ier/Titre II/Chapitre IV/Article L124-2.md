@@ -1,15 +1,27 @@
 Article L124-2
 ----
-Les citoyens ont un droit à l'information sur les risques majeurs auxquels ils
-sont soumis dans certaines zones du territoire et sur les mesures de sauvegarde
-qui les concernent. Ce droit s'applique aux risques technologiques et aux
-risques naturels prévisibles.
+Est considérée comme information relative à l'environnement au sens du présent
+chapitre toute information disponible, quel qu'en soit le support, qui a pour
+objet :
 
-Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il
-détermine notamment les modalités selon lesquelles les mesures de sauvegarde
-sont portées à la connaissance du public ainsi que les catégories de locaux dans
-lesquels les informations sont affichées.
+1° L'état des éléments de l'environnement, notamment l'air, l'atmosphère, l'eau,
+le sol, les terres, les paysages, les sites naturels, les zones côtières ou
+marines et la diversité biologique, ainsi que les interactions entre ces
+éléments ;
 
-L'exploitant est tenu de participer à l'information générale du public sur les
-mesures prises aux abords des ouvrages ou installations faisant l'objet d'un
-plan particulier d'intervention.
+2° Les décisions, les activités et les facteurs, notamment les substances,
+l'énergie, le bruit, les rayonnements, les déchets, les émissions, les
+déversements et autres rejets, susceptibles d'avoir des incidences sur l'état
+des éléments visés au 1° ;
+
+3° L'état de la santé humaine, la sécurité et les conditions de vie des
+personnes, les constructions et le patrimoine culturel, dans la mesure où ils
+sont ou peuvent être altérés par des éléments de l'environnement, des décisions,
+des activités ou des facteurs mentionnés ci-dessus ;
+
+4° Les analyses des coûts et avantages ainsi que les hypothèses économiques
+utilisées dans le cadre des décisions et activités visées au 2° ;
+
+5° Les rapports établis par les autorités publiques ou pour leur compte sur
+l'application des dispositions législatives et réglementaires relatives à
+l'environnement.

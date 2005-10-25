@@ -8,7 +8,10 @@ d'environnement.
 Les études préalables à la réalisation d'aménagements ou d'ouvrages qui, par
 l'importance de leurs dimensions ou leurs incidences sur le milieu naturel,
 peuvent porter atteinte à ce dernier, doivent comporter une étude d'impact
-permettant d'en apprécier les conséquences.
+permettant d'en apprécier les conséquences. Cette étude d'impact est transmise
+pour avis à l'autorité administrative de l'Etat compétente en matière
+d'environnement par l'autorité chargée d'autoriser ou d'approuver ces
+aménagements ou ces ouvrages.
 
 Sans préjudice de l'application des dispositions des articles L. 11-1-1 du code
 de l'expropriation pour cause d'utilité publique et L. 126-1 du présent code
