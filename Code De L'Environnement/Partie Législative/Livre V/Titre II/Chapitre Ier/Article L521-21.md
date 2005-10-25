@@ -1,7 +1,7 @@
 Article L521-21
 ----
-I. - Est puni de deux ans d'emprisonnement et de 75 000 Euro d'amende le fait de
-:
+I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait
+de :
 
 1° Fournir sciemment des renseignements inexacts susceptibles d'entraîner pour
 la substance considérée ou les préparations la contenant, ou pour les produits
@@ -10,7 +10,7 @@ contraignantes que celles auxquelles ils auraient normalement dû être soumis, 
 de dissimuler des renseignements connus ;
 
 2° Ne pas respecter les mesures d'interdiction ou les prescriptions édictées en
-application du II de l'article L. 521-6 et par les règlements (CEE) n° 2455/12,
+application du II de l'article L. 521-6 et par les règlements (CE) n° 304/2003,
 (CEE) n° 793/93, (CE) n° 2037/2000 ;
 
 3° Ne pas satisfaire dans le délai imparti aux obligations prescrites par la

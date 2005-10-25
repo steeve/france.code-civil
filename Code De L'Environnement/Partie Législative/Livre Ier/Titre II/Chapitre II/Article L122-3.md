@@ -28,3 +28,7 @@ d'impact ;
 
 5° Les conditions dans lesquelles le ministre chargé de l'environnement peut se
 saisir ou être saisi, pour avis, de toute étude d'impact.
+
+III. - Il désigne l'autorité administrative saisie pour avis en application du
+deuxième alinéa de l'article L. 122-1 et détermine les conditions dans
+lesquelles cet avis est élaboré et mis à la disposition du public.

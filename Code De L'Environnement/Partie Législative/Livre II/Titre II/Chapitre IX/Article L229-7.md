@@ -23,3 +23,9 @@ Toutefois, lorsqu'une installation utilise, dans un processus de combustion, des
 gaz fournis par une installation sidérurgique, les quotas correspondants sont
 affectés et délivrés à l'exploitant de cette dernière installation. Celui-ci est
 seul responsable, à ce titre, des obligations prévues par la présente section.
+
+L'exploitant peut, dans la limite du pourcentage prévu par le VI de l'article L.
+229-8, s'acquitter de l'obligation prévue au quatrième alinéa du présent article
+au moyen de certaines unités visées par l'article L. 229-22 inscrites à son
+compte dans le registre national mentionné à l'article L. 229-16. Un décret en
+Conseil d'Etat précise celles des unités qui peuvent ainsi être utilisées.
