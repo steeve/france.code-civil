@@ -1,0 +1,12 @@
+Article R323-22
+----
+Lorsqu'un établissement public de coopération intercommunale ou un département a
+conclu avec l'Etat une convention de délégation de compétence en application des
+articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au
+représentant de l'Etat dans le département pour prendre toutes les décisions
+relatives aux aides prévues par la présente section concernant les logements et
+les immeubles situés dans le périmètre de la convention de délégation. Cette
+convention prévoit si l'instruction des demandes de subvention est assurée par
+la direction départementale de l'équipement en application de l'article 112 de
+la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités
+locales ou par le délégataire.

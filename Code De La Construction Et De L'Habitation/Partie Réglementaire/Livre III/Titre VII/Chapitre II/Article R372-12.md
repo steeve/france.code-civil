@@ -1,7 +1,10 @@
 Article R372-12
 ----
-La subvention est versée par l'Etat à l'organisme bénéficiaire dans les
-conditions suivantes :
+La subvention est versée par l'Etat ou, pour les logements et les immeubles
+situés dans le périmètre d'une convention de délégation de compétence signée en
+application des articles L. 301-5-1 et L. 301-5-2, par l'établissement public de
+coopération intercommunale délégataire ou le conseil général délégataire à
+l'organisme bénéficiaire dans les conditions suivantes :
 
 - un acompte peut, dans la limite de 30 % de son montant, être versé aux
 organismes bénéficiaires, après passation des marchés et sur constatation du
