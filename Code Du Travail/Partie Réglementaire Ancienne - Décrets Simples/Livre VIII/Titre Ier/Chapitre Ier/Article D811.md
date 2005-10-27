@@ -22,8 +22,12 @@ chapitre IV du livre VIII du code du travail ;
 
 5° Le montant de la fraction de la taxe d'apprentissage obligatoirement réservée
 au développement de l'apprentissage en application de l'article L. 118-3 est
-fixé à 50 p. 100 de la taxe due en raison des salaires versés pendant l'année
-considérée.
+fixé à 52 p. 100 de la taxe due en raison des salaires versés pendant l'année
+considérée ;
+
+6° Le montant de la fraction de taxe d'apprentissage versée au Trésor public en
+application du premier alinéa de l'article L. 118-2-2 est fixée à 12 % de la
+taxe due en raison des salaires versés pendant l'année précédente.
 
 Le montant de la partie du salaire versée aux apprentis ne donnant lieu à aucune
 charge sociale d'origine légale et conventionnelle, ni à aucune charge fiscale
