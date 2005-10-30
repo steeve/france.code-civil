@@ -1,4 +1,4 @@
-Article D131-5-2
+Article D131-1-2
 ----
 Les comités régionaux de gestion de l'espace aérien, dont le ressort
 géographique, la composition et les attributions sont fixés par arrêté du

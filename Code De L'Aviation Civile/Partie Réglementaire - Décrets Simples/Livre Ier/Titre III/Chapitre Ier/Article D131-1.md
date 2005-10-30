@@ -1,10 +1,5 @@
 Article D131-1
 ----
-La circulation aérienne comprend :
-
-- la circulation aérienne générale, qui relève de la compétence du ministre
-chargé de l'aviation civile ;
-
-- la circulation aérienne militaire comprenant elle-même la circulation
-opérationnelle militaire et la circulation d'essais et de réception, qui relève
-de la compétence du ministre de la défense.
+Le ministre de la défense et le ministre chargé de l'aviation civile organisent
+conjointement l'espace aérien national et les espaces aériens placés sous
+juridiction française et en réglementent l'utilisation.

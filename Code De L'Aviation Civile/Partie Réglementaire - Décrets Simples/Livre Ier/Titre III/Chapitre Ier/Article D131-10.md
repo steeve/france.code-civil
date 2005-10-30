@@ -1,12 +1,16 @@
 Article D131-10
 ----
-Le ministre chargé de l'aviation civile assure en accord avec le ministre de la
-défense et après avis du directeur de l'espace aérien, la mise à jour et la
-publication des annexes I et II au présent chapitre ainsi que la publication de
-tous les rectificatifs, additifs et textes d'application nécessaire.
+Conformément aux dispositions du III de l'article 10 du décret n° 2005-471 du 16
+mai 2005 fixant l'organisation de l'administration centrale du ministère de
+l'équipement, des transports, de l'aménagement du territoire, du tourisme et de
+la mer, la direction du contrôle de la sécurité de la direction générale de
+l'aviation civile est l'autorité de surveillance nationale, au sens de l'article
+4 du règlement (CE) n° 549/2004 du Parlement européen et du Conseil du 10 mars
+2004 fixant le cadre pour la réalisation du ciel unique européen.
 
-Le ministre de la défense assure en accord avec le ministre chargé de l'aviation
-civile et, dans la limite de ses attributions, aprés avis du délégué à l'espace
-aérien, la mise à jour et la publication de l'annexe III au présent chapitre
-ainsi que la publication de tous rectificatifs, additifs et textes d'application
-nécessaires.
+Au sein du ministère de la défense, les fonctions d'autorité de surveillance
+nationale sont exercées, pour le compte de la direction du contrôle de la
+sécurité, par le directeur de la circulation aérienne militaire.
+
+Un arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation
+civile précise les conditions d'exercice de ces compétences.

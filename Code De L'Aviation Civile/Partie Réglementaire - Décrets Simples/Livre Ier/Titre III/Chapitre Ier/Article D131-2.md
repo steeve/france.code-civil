@@ -1,5 +1,8 @@
 Article D131-2
 ----
-La circulation aérienne générale [*définition*] est constituée par l'ensemble
-des mouvements des aéronefs civils et des aéronefs d'Etat soumis à la
-réglementation propre à ce type de circulation.
+La circulation aérienne comprend :
+
+- la circulation aérienne générale, qui relève de la compétence du ministre
+chargé de l'aviation civile ;
+
+- la circulation aérienne militaire, qui relève de la compétence de la défense.
