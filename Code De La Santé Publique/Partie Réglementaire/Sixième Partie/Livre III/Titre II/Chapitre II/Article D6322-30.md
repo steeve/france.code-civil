@@ -1,7 +1,7 @@
 Article D6322-30
 ----
 En application de l'article L. 6322-2, un délai minimum de quinze jours doit
-être respecté entre la remise du devis détaillé, daté et signé par le ou les
+être respecté après la remise du devis détaillé, daté et signé par le ou les
 praticiens mentionnés aux 1°, 2° et 4° de l'article D. 6322-43 devant effectuer
 l'intervention de chirurgie esthétique.
 
