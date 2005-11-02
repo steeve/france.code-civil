@@ -1,7 +1,8 @@
 Article A931-2-2
 ----
-Les personnes mentionnées au I, e, de l'article A 931-2-1 doivent produire un
-état descriptif de leurs activités. Elles indiquent notamment :
+Les personnes mentionnées au I, e, de l'article A 931-2-1 et celles mentionnées
+à l'article R. 933-7 doivent produire un état descriptif de leurs activités.
+Elles indiquent notamment :
 
 1. La nature de leurs activités professionnelles actuelles et de celles qu'elles
 ont exercées pendant les dix années précédant la demande d'agrément ainsi que,
@@ -16,24 +17,24 @@ refus d'inscription sur une liste professionnelle ;
 équivalente pendant les dix années précédant la demande d'agrément ;
 
 4. Si elles ont exercé des fonctions d'administrateur ou de direction dans des
-entreprises ayant fait l'objet de mesures de redressement ou de liquidation
-judiciaires prévues par le code de commerce ou, dans le régime antérieur, de
-mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le règlement
-judiciaire, la faillite personnelle et les banqueroutes, ou de mesures
+entreprises ayant fait l'objet de mesures de sauvegarde ou de redressement ou de
+liquidation judiciaires prévues par le code de commerce ou, dans le régime
+antérieur, de mesures prévues par la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire, la faillite personnelle et les banqueroutes, ou de mesures
 équivalentes à l'étranger.
 
-Les personnes mentionnées au I, e, de l'article A 931-2-1 doivent également
-produire un bulletin n° 3 de leur casier judiciaire datant de moins de trois
-mois ou un document équivalent délivré par une autorité judiciaire ou
-administrative compétente d'un Etat membre de l'Espace économique européen autre
-que la France. Lorsque ces personnes ne sont pas des ressortissants d'un Etat
-membre de l'Espace économique européen, elles doivent produire un document
-équivalent ou, à défaut, une déclaration sous serment ou une déclaration
-solennelle faite devant une autorité compétente ou un notaire, aux termes de
-laquelle elles affirment ne pas avoir fait, à l'étranger, l'objet d'une
-condamnation qui, si elle avait été prononcée par une juridiction française,
-serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité compétente ou
-le notaire délivre une attestation faisant foi de ce serment ou de cette
-déclaration solennelle. En outre, si elles ne sont pas de nationalité française,
-ces personnes doivent satisfaire aux dispositions des lois et règlements
-relatifs à la situation et à la police des étrangers.
+Les personnes mentionnées au I, e, de l'article A 931-2-1 et celles mentionnées
+à l'article R. 933-7 doivent également produire un bulletin n° 3 de leur casier
+judiciaire datant de moins de trois mois ou un document équivalent délivré par
+une autorité judiciaire ou administrative compétente d'un Etat membre de
+l'Espace économique européen autre que la France. Lorsque ces personnes ne sont
+pas des ressortissants d'un Etat membre de l'Espace économique européen, elles
+doivent produire un document équivalent ou, à défaut, une déclaration sous
+serment ou une déclaration solennelle faite devant une autorité compétente ou un
+notaire, aux termes de laquelle elles affirment ne pas avoir fait, à l'étranger,
+l'objet d'une condamnation qui, si elle avait été prononcée par une juridiction
+française, serait inscrite au bulletin n° 3 du casier judiciaire. L'autorité
+compétente ou le notaire délivre une attestation faisant foi de ce serment ou de
+cette déclaration solennelle. En outre, si elles ne sont pas de nationalité
+française, ces personnes doivent satisfaire aux dispositions des lois et
+règlements relatifs à la situation et à la police des étrangers.
