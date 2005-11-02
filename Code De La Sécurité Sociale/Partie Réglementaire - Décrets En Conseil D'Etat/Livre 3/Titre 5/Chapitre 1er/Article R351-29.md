@@ -10,10 +10,12 @@ est la plus avantageuse pour l'assuré.
 
 Les salaires exonérés de cotisations entre le 1er avril et le 31 décembre 1987
 en application de l'article L. 241-10 entrent en compte, s'il y a lieu, dans la
-détermination du salaire servant de base au calcul de la pension. Pour les
-salaires perçus postérieurement au 31 janvier 1991, le salaire servant de base
-au calcul de la pension est celui correspondant aux cotisations versées dans la
-limite du plafond mentionné au premier alinéa de l'article L. 241-3.
+détermination du salaire servant de base au calcul de la pension. Le salaire
+servant de base au calcul de la pension est celui correspondant, pour chaque
+année prise en compte, aux cotisations versées par le salarié au titre des gains
+et rémunérations perçus au cours de cette année, sans que ce salaire puisse
+excéder, le cas échéant tous emplois confondus, le montant du plafond mentionné
+au premier alinéa de l'article L. 241-3 en vigueur au cours de cette année.
 
 Lorsque l'assuré ne justifie pas de vingt-cinq années civiles d'assurance
 postérieurement au 31 décembre 1947, les années antérieures sont prises en
