@@ -4,11 +4,19 @@ Le volet social est adressé par l'employeur à un organisme de recouvrement de
 sécurité sociale, désigné par arrêté du ministre chargé de la sécurité sociale,
 au plus tard à la fin du mois au cours duquel le salarié a effectué sa
 prestation ou dans les quinze jours suivant le versement de la rémunération.
+Pour la gestion des missions mentionnées au présent article, l'organisme de
+recouvrement adhère à une convention établie par l'Agence centrale des
+organismes de sécurité sociale.
 
-Cet organisme assure le calcul et l'encaissement des contributions et
+Cet organisme assure le calcul et le recouvrement des contributions et
 cotisations sociales d'origine légale ou conventionnelle, il délivre une
 attestation d'emploi permettant au salarié de justifier de ses droits aux
 prestations de sécurité sociale, d'assurance chômage et de retraite
 complémentaire. Il délivre également une attestation annuelle permettant à
 l'employeur de justifier de son droit à la réduction d'impôt prévue par
 l'article 199 sexdecies du code général des impôts.
+
+Lorsque le particulier employeur bénéficie de l'allocation prévue au I de
+l'article L. 531-5 du code de la sécurité sociale, et par dérogation aux
+dispositions du présent article, l'emploi doit être déclaré selon les modalités
+prévues à l'article L. 531-8 du même code.

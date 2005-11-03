@@ -1,6 +1,7 @@
 Article D129-2
 ----
-Le volet comporte les mentions suivantes :
+La déclaration mentionnée à l'article D. 129-1 (volet social) comporte les
+mentions suivantes :.
 
 1. Mentions relatives à l'employeur :
 
