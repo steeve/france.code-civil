@@ -1,41 +1,33 @@
 Article R129-3
 ----
-Le comité d'entreprise ou l'entreprise qui verse l'aide financière prévue à
-l'article L. 129-3 doit, aux fins de contrôle, établir au titre de chaque année
-civile un état récapitulatif individuel des aides versées aux salariés de
-l'entreprise. Il doit également conserver les documents que les salariés
-bénéficiaires sont tenus de produire en vue de justifier la destination de
-l'aide. Ces documents sont les suivants :
+Le préfet accorde l'agrément si les conditions suivantes sont remplies :
 
-a) Si le salarié a recouru aux services d'un employé de maison :
+1° L'association est administrée par des personnes bénévoles qui n'ont aucun
+intérêt direct ou indirect dans l'activité de l'association ou ses résultats ;
 
-- la copie des avis d'échéance ou de prélèvement des cotisations qui lui ont été
-adressés par l'organisme de recouvrement des cotisations de sécurité sociale et
-d'allocations familiales ou, à défaut, la copie des déclarations visées à
-l'article R. 243-17 du code de la sécurité sociale qu'il a adressées à cet
-organisme ;
+2° L'association affecte ses résultats excédentaires au financement exclusif des
+actions entrant dans son objet ;
 
-- la copie de l'attestation fiscale qui lui a été adressée par l'organisme de
-recouvrement des cotisations de sécurité sociale et d'allocations familiales
-pour justifier de son droit à la réduction d'impôt prévu par l'article 199
-sexdecies du code général des impôts ;
+3° L'association ou l'entreprise dispose en propre ou au sein du réseau dont
+elle fait partie des moyens humains, matériels et financiers, permettant de
+satisfaire l'objet pour lequel l'agrément est sollicité ;
 
-b) Si le salarié a recouru aux services d'une personne employée par une
-association agréée ou une entreprise agréée, la ou les factures délivrées par
-l'association ou l'entreprise, dans les conditions prévues par le décret pris
-pour l'application de l'article L. 129-1 et précisant :
+4° L'association ou l'entreprise comportant plusieurs établissements dispose
+d'une charte de qualité qui répond aux exigences de l'agrément et à laquelle les
+établissements sont tenus d'adhérer ; la mise en oeuvre de cette charte par les
+établissements donne lieu à une évaluation périodique ;
 
-- le nom et l'adresse de l'organisme prestataire ;
+5° Lorsque les services portent partiellement ou en totalité sur les activités
+mentionnées au premier alinéa de l'article L. 129-1, le demandeur de l'agrément
+s'engage à respecter un cahier des charges approuvé par arrêté du ministre
+chargé de l'emploi assurant l'équivalence de qualité mentionnée au I de
+l'article L. 129-17 ;
 
-- le numéro et la date de l'agrément prévus à l'article L. 129-1 ;
+6° Le ou les dirigeants de l'entreprise n'ont pas fait l'objet d'une
+condamnation pour l'une des infractions mentionnées à l'article 1er de la loi n°
+47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales
+et industrielles ;
 
-- le nom et l'adresse du bénéficiaire de la prestation de service ;
-
-- la nature exacte des services fournis ;
-
-- le montant des sommes effectivement acquittées au titre de la prestation de
-service ;
-
-- un numéro d'immatriculation de l'intervenant permettant son identification
-dans les registres des salariés de l'entreprise ou de l'association
-prestataires.
+7° La personne représentant l'association ou l'entreprise dont l'activité est en
+lien avec des mineurs n'est pas inscrite au fichier judiciaire national
+automatisé des auteurs d'infractions sexuelles.
