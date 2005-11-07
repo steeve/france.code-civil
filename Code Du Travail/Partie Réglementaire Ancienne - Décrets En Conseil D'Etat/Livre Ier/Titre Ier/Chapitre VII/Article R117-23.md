@@ -11,9 +11,8 @@ Sous réserve des dispositions du dernier alinéa du présent article, les
 conventions sont conformes à une convention type fixée par arrêté du ministre
 chargé du travail, du ministre chargé de l'éducation nationale, du ministre
 chargé de l'agriculture, du ministre chargé de l'industrie et du ministre chargé
-de l'artisanat. Cet arrêté est pris après avis de la commission permanente du
-Conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi.
+de l'artisanat. Cet arrêté est pris après avis du Conseil national de la
+formation professionnelle tout au long de la vie.
 
 Les conventions fixent :
 
