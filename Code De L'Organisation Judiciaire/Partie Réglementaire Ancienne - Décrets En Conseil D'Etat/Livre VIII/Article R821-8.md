@@ -1,6 +1,7 @@
 Article R821-8
 ----
-Les inspecteurs adressent un compte rendu de leur mission au procureur de la
+Sauf dans les cas prévus à l'article R. 821-6, les inspecteurs mentionnés à
+l'article R. 821-5 adressent un compte rendu de leur mission au procureur de la
 République. Les inspections occasionnelles donnent lieu à l'établissement d'un
 rapport détaillé.
 
