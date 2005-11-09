@@ -1,12 +1,12 @@
 Article R116-17-1
 ----
 Le montant minimum de ressources par apprenti, par domaine et par niveau de
-formation prévu au deuxième alinéa de l'article L. 118-2-2, est déterminé par
+formation prévu au septième alinéa de l'article L. 118-2-2, est déterminé par
 arrêté conjoint du ministre chargé de la formation professionnelle et, en
 fonction des formations concernées, du ministre chargé de l'éducation, du
 ministre chargé de l'enseignement supérieur ou du ministre chargé de
-l'agriculture, après avis du comité de coordination des programmes régionaux
-d'apprentissage et de formation professionnelle continue.
+l'agriculture, après avis du Conseil national de la formation professionnelle
+tout au long de la vie.
 
 Il peut être modulé par le conseil régional dans une limite de 10 % par rapport
 au montant de référence. Cette modulation est décidée après avis du comité de

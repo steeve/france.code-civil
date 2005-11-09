@@ -1,15 +1,17 @@
 Article R119-10
 ----
-Les demandes d'accord provisoire sont adressées au préfet de région. Lesdits
-accords sont conclus au nom de l'Etat :
+Les organismes collecteurs mentionnés aux deuxième, troisième et sixième alinéas
+de l'article L. 118-2-4 établissent des comptes selon les principes et méthodes
+comptables définis par le code de commerce.
 
-/P/Par le préfet de région [*autorité compétente*] en ce qui concerne les
-accords simples/P/DECR.0100 02-02-1977//;
+Le plan comptable applicable à ces organismes est approuvé par arrêté du garde
+des sceaux, ministre de la justice, et des ministres chargés de l'économie et de
+la formation professionnelle, après avis du Conseil national de la comptabilité.
 
-Par le ministre de l'éducation nationale agissant en accord avec le ministre
-intéressé, ou par le ministre de l'agriculture lorsqu'il s'agit d'un centre de
-formation d'apprentis à recrutement national ou, dans le cas contraire, par le
-préfet de la région où l'organisme intéressé a son siège, après avis du ou des
-comités régionaux de la formation professionnelle, de la promotion sociale et de
-l'emploi intéressés, pour les accords de transformation et les avenants
-d'adaptation.
+Les organismes collecteurs mentionnés au cinquième alinéa de l'article L.
+118-2-4 établissent des comptes conformément aux règles harmonisées qui leur
+sont applicables.
+
+Les organismes à activités multiples tiennent une comptabilité distincte de
+l'activité qu'ils mènent au titre de l'habilitation mentionnée à l'article L.
+118-2-4.

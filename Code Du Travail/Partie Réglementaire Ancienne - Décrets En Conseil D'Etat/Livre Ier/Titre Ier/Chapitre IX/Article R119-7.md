@@ -1,8 +1,8 @@
 Article R119-7
 ----
-Les accords provisoires ont pour objet d'habiliter les organismes mentionnés à
-l'article ci-dessus à accueillir les apprentis ayant souscrit leur contrat
-d'apprentissage avant une date qui sera fixée par chaque accord et qui ne pourra
-être postérieure au /M/1er Juillet 1976/M/DECR.0100 02-02-1977 :
-
-1er Juillet 1978// [*date limite*] .
+Tout assujetti à la taxe d'apprentissage peut obtenir, sur sa demande, une
+exonération totale ou partielle de cette taxe, à raison des dépenses exposées
+par lui au cours de l'année d'imposition en vue de favoriser les premières
+formations technologiques et professionnelles, et notamment l'apprentissage, par
+l'intermédiaire d'un des organismes collecteurs mentionnés à l'article L.
+118-2-4.

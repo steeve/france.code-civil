@@ -13,4 +13,12 @@ diplôme ou le titre préparé de trois années ;
 en relation avec la qualification visée par le diplôme ou le titre préparé d'une
 durée de cinq ans et d'un niveau minimal de qualification qui est déterminé par
 le comité départemental de la formation professionnelle, de la promotion sociale
-et de l'emploi.
+et de l'emploi ;
+
+3. Les personnes possédant une expérience professionnelle de cinq ans en rapport
+avec le diplôme ou le titre préparé par l'apprenti après avis du recteur, du
+directeur régional de l'agriculture et de la forêt ou du directeur régional de
+la jeunesse, des sports et des loisirs.
+
+Faute de réponse dans un délai de quinze jours suivant le dépôt de la demande,
+l'autorisation prévue à l'alinéa ci-dessus est réputée acquise.

@@ -34,4 +34,11 @@ d'information ;
 
 6. Organise à l'intention des employeurs toutes autres activités nécessaires
 pour assurer la coordination de la formation dispensée par le centre ou la
-section d'apprentissage et de la formation en entreprise.
+section d'apprentissage et de la formation en entreprise ;
+
+7. Organise l'entretien prévu à l'article L. 115-2-1 et établit le compte rendu
+de cet entretien ;
+
+8. Organise les stages pratiques prévus à l'article L. 116-5 bénéficiant aux
+enseignants, au moment de l'accès à la fonction d'enseignant puis tous les cinq
+ans.

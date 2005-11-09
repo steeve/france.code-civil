@@ -8,9 +8,9 @@ qualification recherchée est en rapport direct avec celle qui résulte du premi
 diplôme ou titre obtenu.
 
 La décision est prise par le recteur ou par le directeur régional de
-l'agriculture et de la forêt après avis du directeur du centre de formation
-d'apprentis ou, dans le cas d'une section d'apprentissage, du responsable
-d'établissement [*autorité compétente*].
+l'agriculture et de la forêt ou par le directeur régional de la jeunesse, des
+sports et des loisirs après avis du directeur du centre de formation d'apprentis
+ou, dans le cas d'une section d'apprentissage, du responsable d'établissement.
 
 Faute de réponse dans le délai d'un mois suivant le dépôt de la demande, la
-décision est réputée positive [*accord tacite*].
+décision est réputée positive.

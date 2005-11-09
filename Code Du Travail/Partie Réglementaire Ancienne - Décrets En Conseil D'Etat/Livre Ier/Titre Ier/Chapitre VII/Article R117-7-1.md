@@ -9,10 +9,10 @@ objet l'acquisition d'une qualification.
 
 La décision est prise, après avis du directeur du centre de formation
 d'apprentis, par le recteur ou par le directeur régional de l'agriculture et de
-la forêt [*autorité compétente*].
+la forêt ou par le directeur régional de la jeunesse, des sports et des loisirs.
 
 Faute de réponse dans le délai d'un mois suivant le dépôt de la demande, la
-décision est réputée positive [*accord tacite*].
+décision est réputée positive.
 
 Ces apprentis sont considérés notamment en ce qui concerne la rémunération
 minimale comme ayant déjà effectué une première année d'apprentissage.

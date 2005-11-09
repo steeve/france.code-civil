@@ -6,9 +6,10 @@ sans pouvoir conduire à la conclusion de contrats d'apprentissage d'une durée
 inférieure à un an ou supérieure à trois ans.
 
 Cette adaptation est autorisée par le recteur de l'académie, ou par le directeur
-régional de l'agriculture et de la forêt, après avis, le cas échéant, du
-président de l'université ou du directeur de l'établissement d'enseignement
-supérieur concerné, au vu de l'évaluation des compétences du jeune concerné.
+régional de l'agriculture et de la forêt ou par le directeur régional de la
+jeunesse, des sports et des loisirs, après avis, le cas échéant, du président de
+l'université ou du directeur de l'établissement d'enseignement supérieur
+concerné, au vu de l'évaluation des compétences du jeune concerné.
 
 Faute de réponse dans le délai d'un mois suivant le dépôt de la demande,
 l'autorisation prévue à l'alinéa ci-dessus est réputée acquise.

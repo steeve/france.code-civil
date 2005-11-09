@@ -1,11 +1,12 @@
 Article R116-3-1
 ----
-La création d'une unité de formation par apprentissage est subordonnée à la
-conclusion d'une convention entre le centre de formation d'apprentis créé en
-application du sixième alinéa (2°) de l'article L. 115-1 et l'établissement
-d'enseignement ou de formation et de recherche. Le conseil d'administration de
-l'établissement, ou l'instance délibérante qui en tient lieu, donne son accord
-préalablement à la signature de la convention.
+La création d'une unité de formation par apprentissage en application du sixième
+alinéa de l'article L. 115-1 est subordonnée à la conclusion d'une convention
+entre un centre de formation d'apprentis et un établissement d'enseignement
+public ou privé sous contrat ou un établissement de formation et de recherche et
+l'établissement d'enseignement ou de formation et de recherche. Le conseil
+d'administration de l'établissement, ou l'instance délibérante qui en tient
+lieu, donne son accord préalablement à la signature de la convention.
 
 La convention détermine notamment [*contenu*] :
 

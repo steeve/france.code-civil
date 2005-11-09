@@ -1,6 +1,11 @@
 Article R119-11
 ----
-L'Etat peut dénoncer [*sanction*] les accords provisoires, après mise en demeure
-non suivie d'effet, pour méconnaissance des obligations résultant desdits
-accords ou pour insuffisance grave de la formation. En cas de dénonciation, sont
-applicables les articles R. 116-35 et R. 116-36.
+Les sommes collectées par les organismes collecteurs mentionnés à l'article L.
+118-2-4 auprès des employeurs redevables de la taxe d'apprentissage doivent être
+conservées en numéraire, ou déposées à vue, ou peuvent être placées à court
+terme.
+
+Les intérêts produits par les sommes déposées ou placées à court terme ont le
+même caractère que les sommes dont ils sont issus. Ils sont soumis aux mêmes
+conditions d'utilisation ainsi qu'à la procédure de contrôle mentionnée à
+l'article L. 119-1-1.

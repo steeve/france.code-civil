@@ -1,10 +1,10 @@
 Article R116-20
 ----
 La demande de conclusion d'une convention et le projet de convention qui y fait
-suite sont soumis, suivant la distinction faite à l'article R. 116-18, soit à la
-commission permanente du Conseil national de la formation professionnelle, de la
-promotion sociale et de l'emploi, soit au comité de coordination régional de
-l'emploi et de la formation professionnelle intéressé.
+suite sont soumis, suivant la distinction faite à l'article R. 116-18, soit au
+Conseil national de la formation professionnelle tout au long de la vie, soit au
+comité de coordination régional de l'emploi et de la formation professionnelle
+intéressé.
 
 Les instances ci-dessus mentionnées émettent leur avis en tenant compte :
 
