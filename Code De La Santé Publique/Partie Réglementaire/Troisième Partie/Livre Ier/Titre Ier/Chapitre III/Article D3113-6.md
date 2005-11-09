@@ -21,36 +21,38 @@ g) Fièvre jaune ;
 
 h) Fièvre typhoïde et fièvres paratyphoïdes ;
 
-i) Légionellose ;
+i) Hépatite A aiguë ;
 
-j) Listériose ;
+j) Infection invasive à méningocoque ;
 
-k) Infection invasive à méningocoque ;
+k) Légionellose ;
 
-l) Paludisme autochtone ;
+l) Listériose ;
 
-m) Paludisme d'importation dans les départements d'outre-mer ;
+m) Orthopoxviroses, dont la variole ;
 
-n) Peste ;
+n) Paludisme autochtone ;
 
-o) Poliomyélite ;
+o) Paludisme d'importation dans les départements d'outre-mer ;
 
-p) Rage ;
+p) Peste ;
 
-q) Rougeole ;
+q) Poliomyélite ;
 
-r) Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies
+r) Rage ;
+
+s) Rougeole ;
+
+t) Suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies
 subaiguës spongiformes transmissibles humaines ;
 
-s) Toxi-infections alimentaires collectives ;
+u) Toxi-infections alimentaires collectives ;
 
-t) Tuberculose ;
+v) Tuberculose ;
 
-u) Typhus exanthématique ;
+w) Tularémie ;
 
-v) Orthopoxviroses, dont la variole ;
-
-w) Tularémie.
+x) Typhus exanthématique ;
 
 2° Autre maladie :
 
