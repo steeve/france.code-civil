@@ -3,9 +3,9 @@ Article R112-7
 L'étiquetage et les modalités selon lesquelles il est réalisé ne doivent pas
 être de nature à créer une confusion dans l'esprit de l'acheteur ou du
 consommateur, notamment sur les caractéristiques de la denrée alimentaire et
-plus particulièrement sur la nature, l'identité, les qualités, la composition,
-la quantité, la durabilité, la conservation, l'origine ou la provenance, le mode
-de fabrication ou d'obtention.
+notamment sur la nature, l'identité, les qualités, la composition, la quantité,
+la durabilité, l'origine ou la provenance, le mode de fabrication ou
+d'obtention.
 
 L'étiquetage ne doit comporter aucune mention tendant à faire croire que la
 denrée alimentaire possède des caractéristiques particulières alors que toutes
@@ -17,7 +17,7 @@ d'une denrée alimentaire ne doit pas faire état de propriétés de prévention
 traitement et de guérison d'une maladie humaine ni évoquer ces propriétés.
 
 Les interdictions ou restrictions prévues ci-dessus s'appliquent également à la
-présentation des denrées alimentaires, notamment à la forme ou à l'aspect donné
-à celle-ci ou à leur emballage, au matériau d'emballage utilisé, à la manière
-dont elles sont disposées ainsi qu'à l'environnement dans lequel elles sont
-exposées.
+publicité et à la présentation des denrées alimentaires, notamment à la forme ou
+à l'aspect donné à celle-ci ou à leur emballage, au matériau d'emballage
+utilisé, à la manière dont elles sont disposées ainsi qu'à l'environnement dans
+lequel elles sont exposées.

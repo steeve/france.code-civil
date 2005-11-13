@@ -11,7 +11,11 @@ au fait qu'ils étaient contenus dans un ou plusieurs ingrédients de cette denr
 et sous réserve qu'ils ne remplissent plus de fonction technologique dans le
 produit fini ;
 
-3° Les auxiliaires technologiques ;
+3° Les additifs qui sont utilisés en tant qu'auxiliaires technologiques ;
 
-4° Les substances utilisées aux doses strictement nécessaires comme solvants ou
+4° Les substances qui ne sont pas des additifs, mais qui sont utilisées de la
+même manière et dans le même but que les auxiliaires technologiques et qui sont
+toujours présentes dans le produit fini, même sous une forme modifiée ;
+
+5° Les substances utilisées aux doses strictement nécessaires comme solvants ou
 supports pour les additifs et les arômes.

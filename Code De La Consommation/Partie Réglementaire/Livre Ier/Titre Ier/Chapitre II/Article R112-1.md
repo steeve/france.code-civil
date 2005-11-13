@@ -14,4 +14,7 @@ l'emballage subisse une ouverture ou une modification ;
 3° Etiquetage : les mentions, indications, marques de fabrique ou de commerce,
 images ou signes se rapportant à une denrée alimentaire et figurant sur tout
 emballage, document, écriteau, étiquette, bague ou collerette accompagnant ou se
-référant à cette denrée alimentaire.
+référant à cette denrée alimentaire ;
+
+4° Collectivités : les restaurants, hôpitaux, cantines et autres collectivités
+similaires.
