@@ -9,7 +9,7 @@ chancelier de la Légion d'honneur, tous actes, arrêtés et décisions, à
 l'exception des déclarations formulées au nom du conseil de l'ordre.
 
 Il assure le secrétariat général du conseil de l'ordre et la direction des
-services de l'administration.
+services de l'administration. II prépare le budget de l'ordre.
 
 Le grand chancelier peut, par arrêté, déléguer sa signature à des chefs de
 service et des fonctionnaires de catégorie A de la grande chancellerie nommément
