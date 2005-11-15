@@ -53,7 +53,7 @@ compétences suivantes (...) (1) (2).
 société a été spécialement agréée dans les conditions fixées à l'article R.
 423-87 du code de la construction et de l'habitation.
 
-(2) Ne mentionner que celles des compétences énumérées aux alinéas troisième et
+(2) Ne mentionner que celles des compétences énumérées aux alinéas quatrième et
 suivants de l'article L. 422-2 du code de la construction et de l'habitation et
 qui sont communes aux organismes publics et aux sociétés anonymes d'habitations
 à loyer modéré pour l'exercice desquelles la société a été spécialement agréée.
