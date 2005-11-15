@@ -1,91 +1,113 @@
 Article R*654-111
 ----
-I. - Afin d'améliorer de manière durable la structure de la production laitière
-des exploitations, le préfet peut, en cas de constitution préalable d'un
-groupement agricole d'exploitation en commun ayant pour objet la mise en commun
-de la seule activité de production laitière des associés, autoriser le
-transfert, sans cession, location ou mise à disposition des terres auxquelles
-elles correspondent, des quantités de référence laitières détenues par ces
-derniers.
+I. - Afin d'améliorer de manière durable la structure des exploitations
+laitières, le préfet peut autoriser le transfert à une société de forme civile,
+préalablement constituée et répondant aux conditions prévues au II, des
+quantités de référence laitières détenues par ses associés, sans apport ni mise
+à disposition à quelque titre que ce soit des terres auxquelles ces quantités
+correspondent.
 
-L'autorisation est délivrée pour une durée indéterminée, après avis de la
-commission départementale d'orientation agricole par le préfet du département
-dans lequel le groupement a son siège.
+Le transfert à la société des quantités de référence laitières détenues par les
+producteurs associés ne donne pas lieu aux prélèvements mentionnés aux articles
+R. 654-102 et R. 654-103.
 
-Lorsque le nombre des associés au sein du groupement agricole d'exploitation en
-commun est réduit ou modifié, une nouvelle demande d'autorisation doit être
-déposée.
+Lorsque l'un des associés agrandit son exploitation par adjonction de terres
+auxquelles correspondent des quantités de référence laitières, les prélèvements
+correspondants sont calculés en tenant compte des quantités de référence
+laitières apportées par l'intéressé à la société, soit qu'il en ait disposé à
+son adhésion, soit qu'il en ait bénéficié ultérieurement. Le transfert à la
+société des quantités de référence laitières afférentes aux terres adjointes à
+l'exploitation ne donne pas lieu à prélèvement.
 
-Le transfert au groupement agricole d'exploitation en commun des quantités de
-référence laitières détenues par les producteurs associés ne donne pas lieu aux
-prélèvements mentionnés aux articles R. 654-102 et R. 654-103. Toutefois, il est
-fait application de ces prélèvements lorsque l'un des associés agrandit son
-exploitation de surfaces auxquelles correspondent des quantités de référence
-laitières. Ces prélèvements sont calculés en tenant compte des quantités de
-référence laitières dont disposait l'intéressé avant son adhésion au groupement.
-Le transfert au groupement des nouvelles quantités de référence laitières ne
-donne pas lieu à prélèvement.
+Dans le cas où les quantités de référence laitières, dont le transfert à une
+société civile constituée en application du premier alinéa est envisagé,
+correspondent à des terres prises à bail pour lesquelles un acte de nature à
+entraîner l'expiration du bail est intervenu avant la demande de participation à
+la société, ce transfert ne peut être autorisé que si les conditions prévues aux
+articles R. 654-106 et R. 654-107 sont réunies.
 
-II. - L'autorisation accordée par le préfet est subordonnée au respect par les
-associés du groupement agricole d'exploitation en commun des conditions définies
-au III. Le préfet est habilité à vérifier sur place le fonctionnement du
-groupement. Ce contrôle est réalisé au moins une fois tous les trois ans. A
-défaut du respect de ces conditions et après mise en demeure, l'autorisation est
-retirée.
+L'autorisation est délivrée pour une durée indéterminée par le préfet du
+département dans lequel la société a son siège.
 
-En cas de dissolution du groupement, de transformation de la forme juridique ou
-de l'objet social de celui-ci ou en cas de retrait de l'agrément par application
-de l'article L. 323-12, cette autorisation devient caduque.
+II. - L'autorisation de transfert des références est subordonnée au respect des
+conditions suivantes :
 
-En cas de retrait ou de caducité de l'autorisation, les quantités de référence
-laitières que chaque producteur a transférées au groupement agricole
-d'exploitation en commun, lors de sa constitution ou au cours de son existence,
-lui sont alors réattribuées, à l'exception, le cas échéant, de celles
-correspondant à des surfaces de son exploitation qu'il a cédées alors qu'il
-était membre du groupement. Ces dernières sont affectées à la réserve nationale.
-Il est alors fait application du prélèvement prévu au dernier alinéa de
-l'article R. 654-102.
+a) La société a pour objet la mise en commun dans sa totalité de la seule
+activité de production laitière des associés, notamment par l'exploitation d'un
+atelier commun de traite. L'activité de production laitière est entendue comme
+la gestion autonome et effective de l'ensemble des activités agricoles
+concourant à la production de lait et à sa commercialisation, notamment les
+opérations de traite, l'approvisionnement en nourriture des animaux de
+l'exploitation laitière et la maîtrise du cycle biologique du cheptel laitier, y
+compris la gestion du troupeau de renouvellement. La société peut, en outre,
+avoir pour objet des activités de fabrication et de vente directe de produits
+laitiers ;
 
-Les mêmes dispositions sont applicables lorsque l'un des associés cesse de faire
-partie du groupement.
+b) La société ne dispose pas, à quelque titre que ce soit, de terres, à
+l'exception des parcelles où sont implantés les bâtiments nécessaires à la
+production laitière ;
 
-III. - L'autorisation ne peut être accordée à un groupement réunissant à la fois
-un ou des producteurs en situation de dépassement et un ou des producteurs en
-situation de sous-réalisation. La situation de dépassement ou de
-sous-réalisation est prise en compte si elle porte sur un volume supérieur à 10
-% des quantités de référence laitières attribuées aux intéressés pour chacune
-des deux précédentes campagnes laitières.
+c) La société est constituée exclusivement par des associés producteurs de lait
+titulaires de quantités de référence laitières. Ceux-ci peuvent être des
+personnes physiques ou des personnes morales, à la condition que ces dernières
+comprennent au moins un associé se consacrant à l'exploitation et que le ou
+lesdits associés détiennent plus de 50 % des parts représentatives du capital
+social ;
 
-Aucun associé du groupement ne peut détenir moins d'un tiers des quantités de
-référence laitières détenues par l'associé apportant les quantités de référence
-les plus importantes.
+d) Les associés personnes physiques sont âgés de moins de 65 ans ; les associés
+personnes morales comptent au moins un associé exploitant qui remplit cette
+condition ;
 
-Les quantités de référence laitières apportées au groupement par chaque associé
-ne peuvent excéder deux fois le volume moyen des quantités de référence
-laitières du département dans lequel le groupement a son siège. La quantité de
-référence laitière du groupement ne peut excéder cinq fois ce volume moyen.
+e) Chacun des associés exerce l'activité de production laitière exclusivement au
+sein de la société à laquelle il transfère toutes les quantités de référence
+laitières dont il dispose. La même obligation s'applique aux personnes morales
+associées ;
 
-Le transfert des quantités de référence laitières sans transfert des terres
-auxquelles elles correspondent ne peut être autorisé si le producteur a atteint
-l'âge auquel il peut prétendre au bénéfice d'un avantage de vieillesse agricole.
+f) Chacun des associés participe personnellement et effectivement à l'activité
+de production laitière de la société, sans se limiter à la direction et à la
+surveillance de l'exploitation. Dans le cas d'une personne morale associée,
+cette obligation est assumée par au moins l'un des associés exploitants. Afin de
+permettre l'exercice en commun de l'activité de production laitière, une
+distance maximale entre le lieu de l'atelier de production et le siège des
+exploitations des associés est fixée par le préfet après avis de la commission
+départementale d'orientation de l'agriculture. Toutefois, cette distance ne peut
+dépasser 30 kilomètres ;
 
-Dans le cas où la surface prise en compte pour l'application du présent décret
-est composée en tout ou partie de terres prises à bail et où un acte de nature à
-entraîner l'expiration du bail est intervenu avant la demande de participation
-au groupement agricole d'exploitation en commun, ce transfert ne peut être
-autorisé que si les conditions prévues aux articles R. 654-106 et R. 654-107
-sont réunies.
-
-Chacun des associés doit consacrer à la production des fourrages nécessaires à
+g) Chacun des associés consacre à la production des fourrages nécessaires à
 l'alimentation du cheptel une superficie minimale déterminée en fonction des
 quantités de référence laitières qu'il a apportées au groupement. Cette
-superficie minimale est fixée selon des critères arrêtés, pour chaque
-département, par le préfet après avis de la commission départementale
-d'orientation de l'agriculture, en tenant compte des modes locaux de production.
+superficie minimale est fixée selon des critères arrêtés par le préfet, après
+avis de la commission départementale d'orientation de l'agriculture, en tenant
+compte des modes locaux de production.
 
-Afin de permettre l'exercice en commun de l'activité de production laitière, une
-distance maximale, qui ne peut excéder 25 kilomètres, entre le siège de chacune
-des exploitations des associés et le siège du groupement agricole d'exploitation
-en commun est fixée par le préfet après avis du comité départemental d'agrément
-des groupements agricoles d'exploitation en commun et de la commission
-départementale d'orientation de l'agriculture.
+III. - La société fait connaître au préfet du département dans lequel elle a son
+siège, dans un délai de deux mois, tout changement de situation par l'effet
+duquel elle cesse de remplir l'une ou plusieurs des conditions énumérées au II.
+
+Le préfet peut sanctionner l'absence de communication par la société des
+informations mentionnées à l'alinéa précédent par une amende administrative,
+dont le montant est celui fixé par l'article 131-13 du code pénal pour les
+contraventions de la 3e classe.
+
+Le préfet est habilité à vérifier le fonctionnement de la société, y compris par
+un contrôle sur place. Ce contrôle est réalisé au moins une fois tous les trois
+ans. A défaut de respect des conditions prévues au II, l'autorisation est
+retirée, après mise en demeure de régulariser la situation restée sans effet, à
+l'expiration du délai imparti. En cas de dissolution de la société,
+l'autorisation devient caduque.
+
+En cas de retrait ou de caducité de l'autorisation, les quantités de référence
+laitières que chaque producteur a transférées à la société lui sont
+réattribuées. Il est alors fait application des dispositions de l'article R.
+654-102. Il en est de même lorsque l'un des associés cesse de faire partie de la
+société.
+
+Toutefois, la dissolution par les associés d'une société créée depuis plus de
+cinq ans ou le départ de l'un des associés plus de cinq ans après la date de son
+adhésion ne donne pas lieu aux prélèvements mentionnés à l'article R. 654-102.
+
+IV. - Les groupements agricoles d'exploitation en commun ayant pour objet la
+mise en commun de la seule activité de production laitière des associés,
+autorisés sur le fondement de l'article R. 654-111 dans sa rédaction antérieure
+à la publication du décret n° 2005-1414 du 16 novembre 2005, demeurent soumis
+aux dispositions de cet article.
