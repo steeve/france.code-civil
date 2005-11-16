@@ -7,10 +7,10 @@ de l'article 28 du décret n° 86-442 du 14 mars 1986 relatif à la désignation
 médecins agréés, à l'organisation des comités médicaux et des commissions de
 réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics
 et au régime de congés de maladie des fonctionnaires a droit à un congé de
-longue maladie d'une durée maximale de trois ans. Le praticien attaché ou
-praticien attaché associé effectuant plus de trois demi-journées conserve, dans
-cette position, la totalité de ses émoluments pendant un an et la moitié de ses
-émoluments pendant les deux années suivantes.
+longue maladie d'une durée maximale de trois ans. Le praticien attaché
+effectuant plus de trois demi-journées conserve, dans cette position, la
+totalité de ses émoluments pendant un an et la moitié de ses émoluments pendant
+les deux années suivantes.
 
 Le praticien attaché qui a obtenu un congé longue maladie ne peut bénéficier
 d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de

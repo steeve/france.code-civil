@@ -1,7 +1,7 @@
 Article R6152-701
 ----
 Les personnels médicaux, pharmaceutiques et odontologistes, régis par les
-dispositions des sections 1 à 5 du présent chapitre bénéficient d'une réduction
+dispositions des sections 1 à 6 du présent chapitre bénéficient d'une réduction
 annuelle de leur temps de travail de 20 jours.
 
 Lorsque les fonctions ne sont pas assurées à temps plein, le nombre de jours

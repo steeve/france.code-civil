@@ -36,8 +36,7 @@ demande au moins un mois à l'avance. Il est placé en position de congé parent
 au plus tôt, à compter du jour de la reprise d'activité du bénéficiaire.
 
 Si une nouvelle naissance ou une nouvelle adoption se produit au cours du congé
-parental, le praticien attaché ou attaché associé a droit à un nouveau congé
-parental.
+parental, le praticien attaché a droit à un nouveau congé parental.
 
 Le directeur de l'établissement fait procéder aux enquêtes nécessaires en vue de
 s'assurer que l'activité du praticien est réellement consacrée à élever son
@@ -47,8 +46,8 @@ congé après que l'intéressé a été mis à même de présenter ses observati
 Le congé parental cesse de plein droit en cas de retrait de l'enfant placé en
 vue de son adoption.
 
-A la fin du congé parental, le praticien attaché ou attaché associé est
-réintégré de plein droit pour la durée d'engagement restant à courir, le cas
-échéant au-delà du quota de demi-journées arrêté annuellement par le conseil
-d'administration dans son établissement public de santé d'origine. Il en formule
-la demande un mois au moins avant la date à laquelle il souhaite être réintégré.
+A la fin du congé parental, le praticien attaché est réintégré de plein droit
+pour la durée d'engagement restant à courir, le cas échéant au-delà du quota de
+demi-journées arrêté annuellement par le conseil d'administration dans son
+établissement public de santé d'origine. Il en formule la demande un mois au
+moins avant la date à laquelle il souhaite être réintégré.

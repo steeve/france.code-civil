@@ -27,4 +27,8 @@ mensuels perçus avant le licenciement, multipliée par le nombre d'années de
 services effectifs réalisés dans l'établissement concerné, dans la limite de
 douze. Au-delà des années pleines, une durée de service égale ou supérieure à
 six mois est comptée pour un an ; une durée de service inférieure à six mois
-n'est pas prise en compte pour le calcul des droits.
+n'est pas prise en compte pour le calcul des droits. Sont prises en compte, dès
+lors qu'elles ont été effectuées de manière consécutive, les fonctions exercées
+en qualité de praticien attaché ainsi que les fonctions exercées en qualité
+d'attaché pour les praticiens ayant bénéficié des dispositions de l'article 33
+du décret n° 2003-769 du 1er août 2003.
