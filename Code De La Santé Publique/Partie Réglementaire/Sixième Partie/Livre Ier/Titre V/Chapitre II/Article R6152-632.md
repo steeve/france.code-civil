@@ -1,5 +1,12 @@
 Article R6152-632
 ----
+Peuvent être recrutés comme praticiens attachés associés les praticiens qui, ne
+remplissant pas les conditions indiquées à l'article R. 6152-602, ont achevé
+leurs études médicales, odontologiques ou pharmaceutiques et qui, en outre,
+remplissent les conditions de diplôme, de titre et de formation fixées par
+arrêté conjoint des ministres chargés de la santé et de l'enseignement
+supérieur.
+
 Les praticiens attachés associés participent à l'activité du service public
 hospitalier sous la responsabilité directe du responsable de la structure dans
 laquelle ils sont affectés ou de l'un de ses collaborateurs médecin, chirurgien,
