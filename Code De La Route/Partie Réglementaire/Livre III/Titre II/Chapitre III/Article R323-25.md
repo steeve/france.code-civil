@@ -1,9 +1,12 @@
 Article R323-25
 ----
-Tout véhicule à moteur affecté au transport de marchandises, ou sa remorque,
-dont le poids total autorisé en charge est supérieur à 3,5 tonnes et qui a fait
-l'objet d'une demande de certificat d'immatriculation, ne peut être mis en
-circulation que sur autorisation du préfet après un contrôle technique initial.
+Tout véhicule dont le poids total autorisé en charge est supérieur à 3,5 tonnes,
+à l'exception des véhicules visés aux articles R. 323-23, R. 323-24 et R.
+323-26, et qui fait l'objet d'une demande de certificat d'immatriculation, ne
+peut être mis en circulation qu'après un contrôle de conformité initial effectué
+soit par les services de l'Etat chargés de la réception des véhicules, soit par
+des opérateurs qualifiés. Un arrêté du ministre chargé des transports fixe les
+modalités du contrôle et les conditions de désignation des opérateurs qualifiés.
 
 Toutefois, certaines catégories de véhicules livrés prêts à l'emploi, définies
 par le ministre chargé des transports en fonction de l'affectation et du poids
