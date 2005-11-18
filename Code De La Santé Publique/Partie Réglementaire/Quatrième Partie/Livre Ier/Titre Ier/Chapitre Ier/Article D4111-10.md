@@ -1,6 +1,6 @@
 Article D4111-10
 ----
-La commission est composée comme suit :
+I. - La commission est composée comme suit :
 
 1° Le directeur de l'hospitalisation et de l'organisation des soins ou son
 représentant, président ;
@@ -9,21 +9,49 @@ représentant, président ;
 
 3° Le directeur de l'enseignement supérieur ou son représentant ;
 
-4° Deux représentants du conseil de l'ordre de la profession intéressée ;
+4° Deux représentants du conseil national de l'ordre de la profession concernée.
 
-5° Trois membres des organisations syndicales nationales des professions
-concernées choisis dans la discipline ou spécialité, dont un parmi les
-organisations syndicales représentatives des praticiens hospitaliers, un parmi
-les organisations syndicales des praticiens libéraux et un parmi les
-organisations syndicales représentatives des praticiens titulaires d'un diplôme
-obtenu dans un Etat autre que ceux de la Communauté européenne ou partie à
-l'accord sur l'Espace économique européen ;
+II. - La section compétente pour l'examen des demandes d'autorisation d'exercice
+présentées par les médecins comprend en outre :
 
-6° Deux membres des organisations et associations professionnelles, pour les
-médecins par discipline ou spécialité ;
+5° Le collège mentionné à l'article D. 4111-9 constitué pour les disciplines ou
+spécialités des médecins siégeant à la commission de qualification ordinale de
+première instance telle que prévue par le règlement de qualification ;
 
-7° Deux experts de la profession, ou, pour les médecins, de la discipline ou
-spécialité.
+6° Un membre de la profession concernée proposé par les organisations syndicales
+preprésentatives des praticiens titulaires d'un diplôme acquis en dehors de
+l'Union européenne ou de l'Espace économique européen.
 
-Le mandat des membres mentionnés aux 4°, 5°, 6° et 7° est de trois ans ; il est
-renouvelable.
+III. - La section compétente pour l'examen des demandes d'autorisation
+d'exercice présentées par les chirurgiens-dentistes comprend en outre :
+
+5° Deux membres choisis parmi des organisations syndicales représentatives des
+chirurgiens-dentistes ;
+
+6° Un membre de la profession concernée proposé par les organisations syndicales
+représentatives des praticiens titulaires d'un diplôme acquis en dehors de
+l'Union européenne ou de l'Espace économique européen ;
+
+7° Un professeur des universités-praticien hospitalier en odontologie ;
+
+8° Un membre des associations professionnelles.
+
+IV. - La section compétente pour l'examen des demandes d'autorisation d'exercice
+présentées par les sages-femmes comprend en outre :
+
+5° Deux membres choisis parmi des organisations syndicales représentatives des
+sages-femmes ;
+
+6° Un membre de la profession concernée proposé par les organisations syndicales
+représentatives des praticiens titulaires d'un diplôme acquis en dehors de
+l'Union européenne ou de l'Espace économique européen ;
+
+7° Un ou une sage-femme directeur d'école ;
+
+8° Un membre des associations professionnelles.
+
+A chacune des sections est adjoint à titre consultatif un représentant d'une
+association d'accueil ou d'aide aux réfugiés.
+
+Ces membres sont nommés par arrêté du ministre chargé de la santé pour une durée
+de trois ans, renouvelable.
