@@ -15,21 +15,28 @@ l'habitat ou par le président de l'établissement public de coopération
 intercommunale ou du conseil général ayant conclu la convention mentionnée à
 l'article L. 321-1-1 peut, à titre exceptionnel, accorder une subvention lorsque
 le dossier n'a pu être déposé qu'après le commencement des travaux, notamment en
-cas d'application de l'article L. 125-1 du code des assurances relatif aux
-dommages causés par des catastrophes naturelles ou de l'article L. 122-7 du même
-code relatif aux dommages causés par les effets du vent dû aux tempêtes,
-ouragans et cyclones.
+cas de travaux réalisés d'office par la commune ou l'Etat en application des
+articles L. 1331-29 et L. 1334-2 du code de la santé publique, ou des articles
+L. 129-2 et L. 511-2 et suivant du présent code et en cas d'application de
+l'article L. 125-1 du code des assurances relatif aux dommages causés par des
+catastrophes naturelles ou de l'article L. 122-7 du même code relatif aux
+dommages causés par les effets du vent dû aux tempêtes, ouragans et cyclones.
 
-La décision d'octroi de subvention mentionne le montant prévisionnel, le
-calendrier et les caractéristiques des travaux ainsi que le montant de la
-subvention, les conditions de son versement et les dispositions relatives à son
-reversement éventuel. Toute demande qui n'a pas donné lieu à la notification
-d'une décision, au sens du présent article, dans un délai de quatre mois à
-compter de la réception du dossier complet est réputée rejetée.
+La décision d'octroi de subvention mentionne les caractéristiques principales du
+projet, le montant de la subvention, les conditions de son versement et les
+dispositions relatives à son reversement éventuel ainsi que le comptable
+assignataire. Toute demande qui n'a pas donné lieu à la notification d'une
+décision, au sens du présent article, dans un délai de quatre mois à compter de
+la réception du dossier complet est réputée rejetée.
 
-Le versement de la subvention est effectué, sur déclaration d'achèvement des
-travaux, après vérification de la conformité de la réalisation du projet avec
-les caractéristiques mentionnées dans la décision d'octroi de subvention. La
-subvention est versée sur présentation des factures des entreprises, sauf cas
-exceptionnels dus, notamment, à la défaillance de l'entreprise chargée des
-travaux.
+La subvention est versée, sur déclaration d'achèvement des travaux, après
+vérification de la conformité des travaux réalisés avec les caractéristiques du
+projet sur lesquelles la décision d'attribution a été fondée. La subvention est
+versée sur présentation des factures des entreprises, sauf cas exceptionnels
+dus, notamment, à la défaillance de l'entreprise chargée des travaux.
+
+Par exception aux dispositions du présent article, des travaux définis par le
+conseil d'administration de l'agence peuvent être réalisés par les propriétaires
+occupants, sous réserve d'un encadrement technique des travaux durant leur
+exécution et de la production de justificatifs des dépenses engagées, dans des
+conditions définies par le règlement général de l'agence.

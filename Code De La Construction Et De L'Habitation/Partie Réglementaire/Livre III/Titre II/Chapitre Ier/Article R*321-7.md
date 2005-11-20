@@ -19,3 +19,12 @@ au conseil d'administration et le transmet, après approbation du conseil, aux
 ministres de tutelle.
 
 Il nomme aux emplois de l'agence et a autorité sur le personnel.
+
+Il est la personne responsable des marchés de l'établissement au sens de
+l'article 20 du code des marchés publics. Il conclut les conventions mentionnées
+au 7° de l'article R. 321-5. Il peut déléguer sa signature à des agents de
+l'agence. Il peut déléguer ses pouvoirs aux délégués locaux mentionnés à
+l'article R. 321-11, dans des limites qu'il détermine, pour prendre tout acte
+nécessaire à l'exercice de leurs attributions, notamment ses pouvoirs
+d'ordonnateur et de personne responsable des marchés dans les conditions prévues
+par le code des marchés publics.

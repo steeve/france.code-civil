@@ -3,16 +3,16 @@ Article R321-21
 Le reversement est de plein droit exigé s'il s'avère que l'aide a été obtenue à
 la suite de fausses déclarations ou de manoeuvres frauduleuses.
 
+Le conseil d'administration ou, sur délégation, le comité restreint exerce le
+pouvoir de sanction prévu à l'article L. 321-2. Il peut, notamment, prononcer
+une sanction pécuniaire en cas de fausses déclarations ou de manoeuvres
+frauduleuses.
+
 I. - Lorsque aucune convention de délégation de compétence mentionnée aux
 articles L. 301-5-1 et L. 301-5-2 n'a été signée et sans préjudice de poursuites
 judiciaires, le reversement total ou partiel de l'aide est prononcé par la
 commission d'amélioration de l'habitat en cas de méconnaissance des
 prescriptions de la présente section.
-
-Le conseil d'administration ou, sur délégation, le comité restreint exerce le
-pouvoir de sanction prévu à l'article L. 321-2. Il peut, notamment, prononcer
-une sanction pécuniaire en cas de fausses déclarations ou de manoeuvre
-frauduleuses.
 
 II. - Lorsque a été signée une convention de délégation de compétence mentionnée
 aux articles L. 301-5-1 et L. 301-5-2 du présent code et sans préjudice de
