@@ -26,7 +26,7 @@ conditions visées aux h et i du 6 de l'article 244 sexies en cas de :
 
 a) Location-gérance ou "gérance libre" émanant d'une commune ou d'un groupement
 de communes en zone rurale, ou d'un particulier dans les zones de revitalisation
-rurale précisées par le décret n° 96-119 du 14 février 1996 ;
+rurale précisées par le décret n° 2005-1435 du 21 novembre 2005 ;
 
 b) Exploitation de magasins franchisés en zone de revitalisation rurale citée au
 a.
