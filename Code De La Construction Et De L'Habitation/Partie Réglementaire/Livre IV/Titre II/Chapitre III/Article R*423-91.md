@@ -21,7 +21,12 @@ délibérative, pour l'attribution des logements faisant l'objet du mandat ;
 représentant, avec voix délibérative, pour l'attribution de ces logements. Il
 dispose d'une voix prépondérante en cas d'égalité des voix.
 
-Les présidents des établissements publics de coordination intercommunale
+Un représentant des associations menant des actions d'insertion ou en faveur du
+logement des personnes défavorisées participe avec voix consultative aux séances
+de la commission. Ce représentant est désigné dans des conditions prévues par
+décret.
+
+Les présidents des établissements publics de coopération intercommunale
 compétents en matière de programme local de l'habitat ou leurs représentants
 participent à titre consultatif aux séances de la commission pour l'attribution
 des logements situés sur le territoire relevant de leur compétence.
