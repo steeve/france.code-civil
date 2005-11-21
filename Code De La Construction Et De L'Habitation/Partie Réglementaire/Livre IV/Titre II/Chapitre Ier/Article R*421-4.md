@@ -59,4 +59,16 @@ peut excéder les plafonds de loyers fixés en application du troisième alinéa
 g du 1° du I de l'article 31 du code général des impôts. En outre, les
 dispositions du I et du II de l'article 15 de la loi du 6 juillet 1989 sont
 applicables aux contrats de location qui prennent fin au plus tard à la revente
-des lots, lorsque le congé émane du bailleur.
+des lots, lorsque le congé émane du bailleur ;
+
+8° Etre syndic de copropriété d'immeubles réalisés par les sociétés civiles
+immobilières dont ils ont souscrit ou acquis des parts en application de
+l'article R. 423-15-1 (4°) et exercer les fonctions d'administrateur de biens
+pour les mêmes immeubles ;
+
+9° Gérer, en qualité de syndic de copropriété et d'administrateur de biens,
+après accord du maire de la commune d'implantation et dans les conditions fixées
+par l'article L. 442-11, des logements situés dans le périmètre défini pour une
+opération programmée d'amélioration de l'habitat visée à l'article L. 303-1
+ainsi que des logements appartenant à des personnes privées et vacants depuis
+plus d'un an.

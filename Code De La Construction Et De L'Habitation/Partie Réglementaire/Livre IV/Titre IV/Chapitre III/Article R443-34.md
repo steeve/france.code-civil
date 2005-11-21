@@ -1,7 +1,7 @@
 Article R443-34
 ----
 I. - Les logements produits par les organismes d'habitations à loyer modéré dans
-les conditions définies aux articles L. 421-1 (7e al.), L. 422-2 (4e al.) et L.
+les conditions définies aux articles L. 421-1 (7e al.), L. 422-2 (5e al.) et L.
 422-3 (3e al.) sont vendus soit à des acquéreurs qui destinent le logement à
 leur occupation personnelle dans les conditions du II ci-dessous, soit à des
 acquéreurs qui le louent dans le cadre des dispositions du quatrième et du
@@ -19,4 +19,4 @@ articles L. 421-1 et L. 422-2 du code de la construction et de l'habitation.
 
 III. - Cet arrêté détermine également le prix de vente maximum des logements
 produits dans les conditions définies aux articles L. 421-1 (7e alinéa), L.
-422-2 (4e alinéa) et L. 422-3 (3e alinéa) du même code.
+422-2 (5e alinéa) et L. 422-3 (3e alinéa) du même code.
