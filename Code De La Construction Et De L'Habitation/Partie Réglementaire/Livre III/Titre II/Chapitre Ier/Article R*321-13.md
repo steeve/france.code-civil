@@ -5,7 +5,8 @@ exception faite de l'établissement public de gestion immobilière de Nord -
 Pas-de-Calais institué par l'article 191 de la loi n° 2000-1208 du 13 décembre
 2000 relative à la solidarité et au renouvellement urbains, les collectivités
 publiques et leurs établissements publics ne peuvent bénéficier de l'aide de
-l'agence.
+l'agence. Cette disposition ne s'applique pas aux participations prévues à
+l'article R. 321-16.
 
 Les établissements publics d'aménagement prévus à l'article L. 321-1 du code de
 l'urbanisme, les organismes d'habitations à loyer modéré mentionnés à l'article

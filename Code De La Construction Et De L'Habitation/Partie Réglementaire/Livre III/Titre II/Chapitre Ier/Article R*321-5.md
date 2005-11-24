@@ -23,4 +23,13 @@ missions de l'agence ;
 8° Il statue sur le rapport annuel d'activités ;
 
 9° Il examine le rapport annuel relatif à la mise en oeuvre des délégations de
-compétence et à la réalisation des objectifs de l'agence.
+compétence et à la réalisation des objectifs de l'agence ;
+
+10° Il donne un avis sur la répartition prévisionnelle entre les régions du
+montant des aides publiques en faveur de la rénovation de l'habitat privé, y
+compris de celles susceptibles d'être déléguées en application de l'article L.
+301-3 ;
+
+11° Il approuve les transactions et autorise le directeur général à les signer ;
+
+12° Il délibère sur les contrats d'objectifs entre l'agence et l'Etat.

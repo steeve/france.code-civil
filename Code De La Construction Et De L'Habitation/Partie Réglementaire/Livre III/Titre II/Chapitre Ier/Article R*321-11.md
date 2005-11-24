@@ -18,10 +18,6 @@ conventions mentionnées aux articles L. 301-5-1 et L. 301-5-2, le délégué lo
 décide de l'attribution des subventions aux prestations d'ingénierie permettant
 la mise en oeuvre des opérations mentionnées à l'article R. 321-16.
 
-Par délégation de pouvoir du directeur général, le délégué local prescrit
-l'exécution des dépenses d'intervention prévues à l'article R. 321-12 et
-l'exécution des recettes résultant de l'application de l'article R. 321-21.
-
 Dans le délai de quinze jours suivant la réunion de la commission, le délégué
 local peut déférer au conseil d'administration de l'agence les décisions prises
 en application des 1° et 2° du I de l'article R. 321-10, qui ne deviennent
