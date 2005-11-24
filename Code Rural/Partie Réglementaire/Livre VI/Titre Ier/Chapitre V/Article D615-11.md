@@ -1,9 +1,7 @@
 Article D615-11
 ----
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont
-tenus de ne pas brûler les résidus de paille ainsi que les résidus des cultures
-d'oléagineux, de protéagineux et de céréales, à l'exception de ceux des cultures
-de riz.
-
-Toutefois, le préfet peut autoriser à titre exceptionnel ce brûlage lorsqu'il
-s'avère nécessaire pour des motifs agronomiques ou sanitaires.
+Pour l'application du 1 de l'article 30 du règlement (CE) n° 796/2004 de la
+Commission du 21 avril 2004 susvisé, un arrêté du ministre chargé de
+l'agriculture définit les instruments de contrôle permettant la mesure des
+surfaces déclarées au titre des régimes d'aide relevant du présent chapitre et
+la marge de tolérance éventuellement appliquée à cette mesure.

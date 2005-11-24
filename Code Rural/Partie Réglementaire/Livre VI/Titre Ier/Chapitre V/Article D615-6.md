@@ -1,19 +1,16 @@
 Article D615-6
 ----
-I. - L'octroi du paiement aux aides est subordonné, en application des
-paragraphes 3 et 4 de l'article 86 du règlement (CE) n° 1782/2003 du 29
-septembre 2003, à l'appartenance des agriculteurs à une organisation de
-producteurs, telle que définie à l'article 11 du règlement (CE) n° 2000/96 du 28
-octobre 1996 modifié portant organisation commune des marchés dans le secteur
-des fruits et légumes.
+I. - Pour la détermination du coefficient de réduction de la superficie visé à
+l'article 4 et du taux de dépassement des superficies visé à l'article 61 du
+règlement (CE) n° 1973/2004 de la Commission du 29 octobre 2004 susvisé, le
+non-dépassement ou le dépassement des superficies mentionnées auxdits articles
+est constaté par arrêté conjoint des ministres chargés de l'agriculture et du
+budget. Cet arrêté fixe le taux de ce dépassement.
 
-II. - Les plans d'amélioration mentionnés à l'article 23 du règlement (CE) n°
-2237/2003 ne peuvent pas être interrompus avant leur date normale d'expiration.
-
-III. - Des arbres produisant d'autres fruits que des fruits à coque peuvent être
-présents sur le verger tel que défini à l'article 19 du règlement (CE) n°
-2237/2003 susvisé lorsque leur nombre ne dépasse pas 10 % du nombre d'arbres
-mentionné au paragraphe 3 de cet article. Des châtaigniers peuvent également
-être présents sur le verger lorsque le nombre d'arbres à fruits à coque
-éligibles est conforme au nombre mentionné au paragraphe 3 de l'article 19 du
-règlement (CE) n° 2237/2003 susvisé.
+II. - Aux fins de réduction du montant des aides en cas de dépassement des
+plafonds budgétaires pour l'application des articles 64, 66, 67, 68, 70 et 71,
+paragraphe 2, du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003
+susvisé, le non-dépassement ou le dépassement de ces plafonds budgétaires est
+constaté par arrêté conjoint des ministres chargés de l'agriculture et du budget
+pour chacun des paiements directs mentionnés à ces articles. Cet arrêté fixe
+pour chacun de ces paiements le taux de ce dépassement.
