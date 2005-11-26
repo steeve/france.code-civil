@@ -1,25 +1,7 @@
 Article D615-17
 ----
-I. - Les agents relevant de l'un des organismes mentionnés aux I à III de
-l'article D. 615-16 ont qualité pour réaliser pour le compte de l'un ou l'autre
-de ces organismes les contrôles mentionnés aux mêmes paragraphes, qu'ils soient
-fonctionnaires ou agents non titulaires de l'Etat, notamment :
-
-- les inspecteurs de la santé publique vétérinaire et les ingénieurs du génie
-rural, des eaux et des forêts ;
-
-- les ingénieurs des travaux agricoles, les ingénieurs des travaux ruraux, les
-ingénieurs des travaux des eaux et forêts ;
-
-- les techniciens des services du ministère de l'agriculture ;
-
-- les agents techniques sanitaires et les contrôleurs sanitaires ;
-
-- les inspecteurs des installations classées.
-
-II. - Ont qualité pour réaliser, pour le compte de l'établissement mentionné au
-IV de l'article D. 615-16, les contrôles mentionnés au même paragraphe :
-
-- les agents relevant de cet établissement ;
-
-- les agents relevant de l'organisme mentionné à l'article L. 313-3.
+Le ministre chargé de l'agriculture arrête les raisons environnementales
+mentionnées au 4 de l'article 54 et au 9 de l'article 107 du règlement (CE) n°
+1782/2003 du Conseil du 29 septembre 2003 susvisé qui permettent d'accepter des
+parcelles en jachère d'une largeur d'au moins 5 mètres et d'une superficie d'au
+moins 0,05 hectare au titre des paiements relatifs aux terres mises en jachère.

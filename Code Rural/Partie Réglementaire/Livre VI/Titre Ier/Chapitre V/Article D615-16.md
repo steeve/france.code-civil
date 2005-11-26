@@ -1,30 +1,7 @@
 Article D615-16
 ----
-I. - Les directions départementales de l'agriculture et de la forêt ou, dans les
-départements d'outre-mer, les directions de l'agriculture et de la forêt sont
-désignées comme organismes spécialisés en matière de contrôle au sens de
-l'article 42 du règlement (CE) n° 796/2004 du 21 avril 2004 susmentionné pour le
-contrôle du respect des exigences réglementaires mentionnées à l'article D.
-615-9 en matière environnementale.
-
-II. - Les directions départementales des services vétérinaires ou, dans les
-départements d'outre-mer, les directions des services vétérinaires sont
-désignées comme organismes spécialisés en matière de contrôle au sens de
-l'article 42 du règlement (CE) n° 796/2004 du 21 avril 2004 de la Commission
-susmentionné, pour le contrôle du respect des exigences réglementaires
-mentionnées à l'article D. 615-9 relatives à l'identification et à
-l'enregistrement des animaux, à la santé publique, à la santé des animaux et à
-la notification des maladies.
-
-III. - Les directions régionales de l'agriculture et de la forêt ou, dans les
-départements d'outre-mer, les directions de l'agriculture et de la forêt sont
-désignées comme organismes spécialisés en matière de contrôle au sens de
-l'article 42 du règlement (CE) n° 796/2004 du 21 avril 2004 susmentionné pour le
-contrôle du respect des exigences réglementaires mentionnées à l'article D.
-615-9 relatives à la protection de la santé des végétaux.
-
-IV. - L'Office national interprofessionnel des céréales est désigné comme
-organisme spécialisé en matière de contrôle au sens de l'article 42 du règlement
-(CE) n° 796/2004 du 21 avril 2004 susmentionné pour le contrôle du respect des
-bonnes conditions agricoles et environnementales mentionnées à l'article D.
-615-9.
+En application du 6 de l'article 107 du règlement (CE) n° 1782/2003 du Conseil
+du 29 septembre 2003 et de l'article 68 du règlement (CE) n° 1973/2004 de la
+Commission du 29 octobre 2004 susvisés, un arrêté du ministre chargé de
+l'agriculture fixe le taux au-delà duquel les terres volontairement retirées de
+la production ne bénéficient plus du paiement à la surface.

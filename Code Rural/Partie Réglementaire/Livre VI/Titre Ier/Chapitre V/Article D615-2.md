@@ -1,16 +1,10 @@
 Article D615-2
 ----
-Lorsque le ministre chargé de l'agriculture estime qu'un événement climatique
-présente le caractère de conditions climatiques exceptionnelles ou de
-circonstances climatiques particulières au sens des dispositions du règlement
-(CE) n° 2316/1999 de la Commission du 22 octobre 1999 portant modalités
-d'application du règlement (CE) n° 1251/1999 du Conseil instituant un régime de
-soutien aux producteurs de certaines cultures arables, du règlement (CE) n°
-1782/2003 du Conseil du 29 septembre 2003 établissant des règles communes pour
-les régimes de soutien direct dans le cadre de la politique agricole commune et
-établissant certains régimes de soutien en faveur des agriculteurs, ou du
-règlement (CE) n° 2237/2003 du 23 décembre 2003, il prend un arrêté
-reconnaissant à cet événement ce caractère.
-
-L'arrêté mentionné à l'alinéa précédent détermine les zones et périodes touchées
-par cet événement.
+Pour l'application des dispositions des articles 14 du règlement (CE) n°
+796/2004 de la Commission du 21 avril 2004 susvisé et 2 du règlement (CE) n°
+1973/2004 de la Commission du 29 octobre 2004 portant modalités d'application du
+règlement (CE) n° 1782/2003 du Conseil en ce qui concerne les régimes d'aide
+prévus aux titres IV et IV bis dudit règlement et l'utilisation de terres mises
+en jachère pour la production de matières premières, un arrêté du ministre
+chargé de l'agriculture fixe la superficie minimale de la parcelle agricole
+pouvant faire l'objet d'une demande.

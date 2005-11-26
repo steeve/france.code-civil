@@ -1,6 +1,6 @@
 Article D615-18
 ----
-Les agriculteurs mentionnés à l'article D. 615-9 sont tenus de présenter à la
-demande des agents mentionnés à l'article D. 615-17 les informations nécessaires
-à la vérification du respect des exigences en matière de gestion et des bonnes
-conditions agricoles et environnementales au sens de la présente section.
+Pour l'application des dispositions de l'article 57 du règlement (CE) n°
+1973/2004 de la Commission du 29 octobre 2004 susvisé, un arrêté du ministre
+chargé de l'agriculture fixe la date limite des semis du maïs doux et du chanvre
+destiné à la production de fibres.

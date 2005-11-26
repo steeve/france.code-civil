@@ -1,11 +1,9 @@
 Article D615-25
 ----
-Le directeur départemental de l'agriculture et de la forêt ou, dans les
-départements d'outre-mer, le directeur de l'agriculture et de la forêt
-recueille, sous l'autorité du préfet, les observations de l'agriculteur sur les
-cas de non-conformité constatés à l'occasion des contrôles effectués et sur le
-taux de réduction susceptible d'en résulter.
-
-Il transmet aux organismes payeurs la liste des cas de non-conformité qui
-entraînent une réduction des paiements directs en application de la présente
-section, et le taux de cette réduction.
+Pour l'application des dispositions des articles 7 et 55 du règlement (CE) n°
+1973/2004 de la Commission du 29 octobre 2004 et des paragraphes 3 de l'article
+13 et 5 de l'article 50 du règlement (CE) n° 796/2004 de la Commission du 21
+avril 2004 susvisés, relatives à l'octroi du supplément, de l'aide spéciale et
+de la prime spéciale à la qualité pour le blé dur, la quantité minimale de
+semences certifiées et les modalités de preuve attestant de l'utilisation de
+cette quantité sont arrêtées par le ministre chargé de l'agriculture.

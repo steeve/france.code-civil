@@ -1,6 +1,6 @@
 Article D762-101
 ----
-Pour l'année 2004, le taux de la cotisation mentionnée à l'article L. 762-36 est
+Pour l'année 2005, le taux de la cotisation mentionnée à l'article L. 762-36 est
 fixé selon les modalités définies comme suit :
 
 1° Pour les affiliés mentionnés au 1° de l'article D. 762-84 :

@@ -1,11 +1,11 @@
 Article D615-3
 ----
-Pour l'application des dispositions de l'article 6 du règlement (CE) n°
-2237/2003 du 23 décembre 2003, un arrêté conjoint des ministres chargés de
-l'agriculture et du budget détermine les coefficients de réduction des primes,
-paiements et aides mentionnés par cet article.
+Le préfet est chargé, pour le compte des organismes payeurs au sens de l'article
+4 du règlement (CE) n° 1258/1999 du Conseil du 17 mai 1999 susvisé, de
+l'instruction des demandes d'aides et de l'application lors du calcul du montant
+des aides à verser des réductions et exclusions prévues au titre du présent
+chapitre ainsi que par les articles 21, 51 à 54, 59 et 60 du règlement (CE) n°
+796/2004 de la Commission du 21 avril 2004 susvisé.
 
-Le taux d'intérêt prévu à l'article 49 du règlement (CEE) n° 2419/2001 susvisé
-et appliqué au remboursement des paiements indus est fixé par un arrêté conjoint
-des ministres chargés de l'agriculture et du budget. Ce taux ne peut être
-supérieur au double du taux de l'intérêt légal.
+Les modalités d'exercice de ces missions sont établies par convention conclue
+entre le ministre chargé de l'agriculture et les organismes payeurs.

@@ -1,9 +1,6 @@
 Article D615-13
 ----
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont
-tenus, lorsqu'ils sollicitent une aide pour leurs surfaces irriguées en céréales
-oléagineux et protéagineux, de fournir les autorisations ou récépissés de
-déclaration de prélèvement d'eau et d'équiper leurs points de prélèvements en
-moyens de mesure ou d'évaluation de l'eau prélevée, dans les conditions prévues
-aux articles L. 214-1 à L. 214-11 et L. 512-1 à L. 512-19 du code de
-l'environnement.
+Pour l'application de l'article 103 du règlement (CE) n° 1782/2003 du Conseil du
+29 septembre 2003 susvisé, les ministres chargés de l'agriculture et du budget
+arrêtent conjointement le plan de régionalisation élaboré en vue de fixer les
+rendements utilisés pour le calcul du paiement à la surface.
