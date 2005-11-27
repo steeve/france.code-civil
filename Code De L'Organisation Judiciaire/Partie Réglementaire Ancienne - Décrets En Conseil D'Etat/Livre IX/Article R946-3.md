@@ -1,9 +1,7 @@
 Article R946-3
 ----
-Le président du tribunal supérieur d'appel et le procureur de la République près
-ledit tribunal, après avis du président du tribunal de première instance et du
-greffier en chef du tribunal supérieur d'appel, répartissent le personnel
-assurant le service des secrétariats-greffes entre le secrétariat-greffe du
-tribunal supérieur d'appel et celui du tribunal de première instance et
-désignent un fonctionnaire responsable du secrétariat-greffe du tribunal de
-première instance.
+Les dispositions des chapitres II et III du titre Ier du livre VIII relatives au
+fonctionnement des secrétariats-greffes sont applicables au tribunal supérieur
+d'appel et au tribunal de première instance, à l'exception du troisième alinéa
+de l'article R. 812-10, des articles R. 812-13 à R. 812-15, de la deuxième
+phrase du premier alinéa de l'article R. 812-16 et de l'article R. 813-4.
