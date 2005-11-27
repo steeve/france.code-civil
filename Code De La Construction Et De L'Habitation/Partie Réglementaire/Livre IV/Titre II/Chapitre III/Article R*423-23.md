@@ -13,8 +13,3 @@ les conditions fixés par les instructions prévues à l'article R. 423-30. Le
 calcul de ces provisions s'effectue sur la base des créances échues et non
 recouvrées au 31 décembre [*date*], exception faite du quittancement de
 décembre.
-
-La dotation annuelle à la provision pour grosses réparations peut varier, selon
-les besoins et les possibilités de l'office, sans jamais pouvoir être inférieure
-à une fraction de la valeur brute actualisée des immobilisations fixée en
-application des instructions mentionnées ci-dessus.
