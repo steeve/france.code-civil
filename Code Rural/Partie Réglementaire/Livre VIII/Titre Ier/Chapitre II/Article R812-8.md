@@ -1,15 +1,21 @@
 Article R812-8
 ----
-La formation conduisant au diplôme de paysagiste DPLG est assurée, sous la
-tutelle conjointe du ministre de l'agriculture et du ministre chargé de
-l'architecture, par l'Ecole nationale supérieure du paysage, établissement
-public d'enseignement et de recherche, ainsi que par les établissements
-d'enseignement supérieur agricole et les écoles d'architecture habilités à cet
-effet par un arrêté conjoint de ces ministres.
+Le conseil d'administration peut constituer une commission permanente, dont il
+fixe la composition. Entre ses séances, il peut déléguer à cette commission le
+pouvoir de délibérer sur les décisions modificatives du budget ainsi que les
+attributions mentionnées aux 7°, 8°, 9°, 10°, 11°, 13° et 15° de l'article R.
+812-7.
 
-La formation comporte trois années d'enseignement suivies d'un travail personnel
-de fin d'études d'une durée maximum d'un an.
+La commission permanente est présidée par le président du conseil
+d'administration ou, en son absence, par le vice-président. Outre son président,
+elle comprend au plus quinze membres parmi lesquels doivent figurer au moins un
+représentant de l'Etat, deux représentants des personnels enseignants, un
+représentant des personnels administratifs, ingénieurs, techniques, ouvriers et
+de service et des personnels de recherche et un représentant des étudiants.
 
-Le contenu et les modalités de cette formation ainsi que les conditions de
-délivrance du diplôme de paysagiste DPLG sont fixés par un arrêté conjoint des
-ministres chargés de l'agriculture et de l'architecture.
+Le conseil d'administration renouvellera les membres de cette commission chaque
+année.
+
+La commission est réunie par son président, sur proposition du directeur, qui y
+assiste avec voix consultative. Elle rend compte au conseil d'administration de
+ses délibérations à la plus prochaine séance de ce dernier.
