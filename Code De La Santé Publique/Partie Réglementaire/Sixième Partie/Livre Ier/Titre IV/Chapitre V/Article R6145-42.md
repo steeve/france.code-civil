@@ -1,19 +1,10 @@
 Article R6145-42
 ----
-Sans préjudice de l'exercice de ses pouvoirs généraux de contrôle, le directeur
-de l'agence régionale de l'hospitalisation peut, à son initiative ou à la
-demande du conseil d'administration ou du directeur de l'établissement,
-soumettre le fonctionnement et la gestion d'un établissement public de santé en
-difficulté à l'examen d'une mission d'enquête.
-
-Le directeur de l'agence régionale de l'hospitalisation peut faire appel, le cas
-échéant, à des représentants spécialisés de l'Etat.
-
-La mission d'enquête procède à l'audition de toute personne qu'elle juge utile
-d'entendre, et notamment du président de la commission médicale et du
-représentant du contrôle médical compétent pour l'établissement considéré.
-
-Le directeur de l'agence régionale de l'hospitalisation communique les
-conclusions de la mission d'enquête au président du conseil d'administration, au
-directeur et au comptable de l'établissement ; il propose les mesures de nature
-à remédier aux difficultés de fonctionnement ou de gestion constatées.
+Pour l'application du second alinéa de l'article L. 6145-3 et du deuxième alinéa
+de l'article L. 6145-5, le directeur de l'agence régionale de l'hospitalisation
+met en demeure l'ordonnateur d'exécuter ses obligations. Si à l'expiration d'un
+délai de 30 jours suivant cette mise en demeure, l'ordonnateur ne s'est pas
+exécuté, le directeur de l'agence régionale de l'hospitalisation arrête le
+montant des sommes dues et procède au mandatement d'office de la dépense ou à
+l'émission d'office du titre de recette dans les conditions fixées par arrêté
+des ministres chargés de la santé, de la sécurité sociale et du budget.

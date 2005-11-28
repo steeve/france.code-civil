@@ -1,7 +1,8 @@
 Article L341-12
 ----
-Lors des actes de démarchage bancaire ou financier, doivent être communiqués par
-écrit, à la personne démarchée, quel que soit le support de cet écrit :
+En temps utile, avant qu'elle ne soit liée par un contrat, la personne démarchée
+reçoit des informations fixées par décret en Conseil d'Etat, portant notamment
+sur :
 
 1° Le nom, l'adresse professionnelle et, le cas échéant, le numéro
 d'enregistrement de la personne physique procédant au démarchage ;
@@ -21,12 +22,30 @@ proposés, élaborée sous la responsabilité de la personne ou de l'établissem
 qui a recours au démarchage et indiquant, s'il y a lieu, les risques
 particuliers que peuvent comporter les produits proposés ;
 
-5° Les conditions de l'offre contractuelle, notamment financières, et les
-modalités selon lesquelles sera conclu le contrat, en particulier le lieu et la
-date de signature de celui-ci ;
+5° Les conditions de l'offre contractuelle, notamment le prix total
+effectivement dû par la personne démarchée ou, lorsqu'un prix exact ne peut être
+indiqué, la base de calcul du prix, permettant à la personne démarchée de
+vérifier ce dernier, les modalités selon lesquelles sera conclu le contrat, en
+particulier le lieu et la date de signature de celui-ci ;
 
-6° L'information relative à l'existence ou à l'absence du droit de rétractation
-prévu à l'article L. 341-16, ainsi que ses modalités d'exercice.
+6° L'existence ou l'absence du droit de rétractation, prévu selon les cas, à
+l'article L. 121-20-15 du code de la consommation ou à l'article L. 341-16 du
+présent code, ainsi que ses modalités d'exercice ;
+
+7° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et
+l'existence de toute clause concernant le choix d'une juridiction.
+
+Les informations communiquées par le fournisseur à la personne démarchée sur les
+obligations contractuelles sont conformes à la loi applicable au contrat en cas
+de conclusion de celui-ci.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque,
+sont fournies de manière claire et compréhensible par tout moyen adapté à la
+technique de communication à distance utilisée.
+
+Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les
+modalités particulières applicables en cas de communication par téléphonie
+vocale.
 
 Ces dispositions sont applicables sans préjudice de l'application des
 obligations législatives et réglementaires spécifiques à chaque produit,

@@ -1,17 +1,10 @@
 Article R812-11
 ----
-Il est institué une commission consultative de la formation des paysagistes DPLG
-dont l'objet est de veiller au développement coordonné de l'enseignement
-dispensé dans les établissements mentionnés à l'article R. 812-9.
+Le directeur est nommé par arrêté du ministre chargé de l'agriculture pris après
+avis du conseil d'administration. Toutefois, dans le cas des directeurs des
+établissements mentionnés aux 2°, 3°, 4° et 9° de l'article R. 812-1, cet arrêté
+est pris conjointement avec le ministre chargé de l'enseignement supérieur.
 
-La composition de cette commission, qui comprend notamment des représentants des
-personnels enseignants et des milieux professionnels, est fixée par un arrêté
-conjoint des ministres chargés de l'agriculture et de l'architecture.
-
-L'avis de la commission est requis préalablement :
-
-a) Aux arrêtés d'habilitation prévus à l'article R. 812-8 ci-dessus ;
-
-b) A la fixation des programmes des concours d'accès aux établissements
-préparant au diplôme de paysagiste DPLG ainsi qu'à celle des modalités
-d'organisation de ces concours.
+Seul le secrétaire général qui en assure le secrétariat peut assister aux
+séances du conseil d'administration au cours desquelles sont examinées les
+candidatures au poste de directeur de l'établissement.

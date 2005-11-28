@@ -1,15 +1,26 @@
 Article R*812-33
 ----
-L'enseignement dispensé par ces écoles porte sur :
+La formation des ingénieurs agronomes à vocation générale est donnée dans les
+écoles nationales supérieures agronomiques. Ces écoles sont des établissements
+d'enseignement et de recherche.
 
-a) La santé, l'hygiène, la médecine, la pharmacie et la chirurgie des animaux ;
+Ces écoles dispensent un enseignement scientifique portant principalement sur
+les sciences biologiques, physiques, économiques et humaines dans leurs rapports
+avec l'agriculture. Les écoles nationales supérieures agronomiques sont les
+suivantes :
 
-b) La production des animaux et l'économie de l'élevage ;
+a) L'Institut national agronomique Paris-Grignon ;
 
-c) La production et le contrôle des denrées animales et d'origine animale ;
+b) L'Institut national d'enseignement supérieur et de recherche agronomique et
+agroalimentaire de Rennes, et
 
-d) Les relations entre l'animal, l'homme et leur environnement et leurs
-incidences sur la santé publique.
+c) L'Ecole nationale supérieure agronomique de Montpellier,
 
-Les écoles nationales vétérinaires prennent part aux recherches dans ces
-domaines.
+qui relèvent du ministre de l'agriculture ;
+
+d) L'Ecole nationale supérieure d'agronomie et des industries alimentaires de
+Nancy, et
+
+e) L'Ecole nationale supérieure agronomique de Toulouse,
+
+qui relèvent du ministre chargé de l'enseignement supérieur.

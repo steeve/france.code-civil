@@ -20,7 +20,7 @@ personnes morales qu'elles mandatent pour proposer un de ces dispositifs conclus
 par l'entreprise. Dans ce cas, et sans préjudice des règles d'information et de
 commercialisation auxquelles elles sont soumises, seules sont applicables à ces
 activités de démarchage les dispositions de l'article L. 341-9, du 3° de
-l'article L. 353-2 et de l'article L. 353-4 du présent code ;
+l'article L. 353-2 (1) et de l'article L. 353-4 du présent code ;
 
 3° Les conseillers en investissements financiers définis à l'article L. 541-1,
 exclusivement pour les opérations prévues au 5° de l'article L. 341-1.

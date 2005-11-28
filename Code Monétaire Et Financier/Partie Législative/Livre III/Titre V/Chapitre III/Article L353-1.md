@@ -8,9 +8,10 @@ de démarchage en cas d'activité réalisée dans les conditions de l'article L.
 341-8 ;
 
 2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire
-ou financier définie à l'article L. 341-1, de ne pas communiquer à la personne
-démarchée les informations et documents mentionnés à l'article L. 341-12 et à
-l'avant-dernier alinéa de l'article L. 341-6 ;
+ou financier dans les conditions définies au septième alinéa de l'article L.
+341-1, de ne pas communiquer à la personne démarchée les informations et
+documents mentionnés à l'article L. 341-12 et à l'avant-dernier alinéa de
+l'article L. 341-6 ;
 
 3° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire
 ou financier définie à l'article L. 341-1, de ne pas respecter les règles

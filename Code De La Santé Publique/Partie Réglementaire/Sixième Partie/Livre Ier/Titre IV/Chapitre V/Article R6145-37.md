@@ -1,6 +1,10 @@
 Article R6145-37
 ----
-Les dispositions du premier alinéa de l'article L. 6145-3 s'appliquent lorsque
-le budget n'est pas adopté par le conseil d'administration au plus tard le 15
-mars ou dans un délai de trente jours suivant la notification des dotations et
-forfaits mentionnés à l'article L. 6145-1 si ce délai expire après le 15 mars.
+Par dérogation aux dispositions de l'article R. 6145-2 et sans préjudice des
+dispositions de l'article R. 6145-38, au début de chaque année, l'ordonnateur
+dispose d'un délai d'un mois pour procéder, d'une part, pour ce qui concerne les
+opérations d'exploitation, à l'émission des titres de recettes et des mandats
+correspondant aux droits acquis et aux services faits au cours de l'année
+précédente et, d'autre part, aux opérations d'ordre.
+
+Le comptable procède dans le même délai à la comptabilisation de ces opérations.

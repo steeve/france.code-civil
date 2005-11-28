@@ -1,6 +1,10 @@
 Article R*812-42
 ----
-Le Centre national d'études agronomiques des régions chaudes est un
-établissement public national à caractère administratif doté de la personnalité
-civile et de l'autonomie financière. Il est placé sous la tutelle du ministre de
-l'agriculture. Son siège est à Montpellier.
+Outre les élèves étrangers recrutés selon les procédures applicables aux
+candidats français, l'Institut national agronomique Paris-Grignon, l'Institut
+national d'enseignement supérieur et de recherche agronomique et agroalimentaire
+de Rennes, l'Ecole nationale supérieure agronomique de Montpellier, l'Ecole
+nationale supérieure agronomique de Toulouse et l'Ecole nationale supérieure
+d'agronomie et des industries alimentaires de Nancy peuvent admettre des
+candidats étrangers dans tous les cycles de formation et à chacun des niveaux de
+recrutement dans les conditions fixées aux articles R. 812-25 à R. 812-30.
