@@ -8,4 +8,7 @@ réalisées dans :
 ;
 
 2° Les services ou établissements sociaux ou médico-sociaux mentionnés à
-l'article L. 6111-3.
+l'article L. 6111-3 ;
+
+3° Les écoles ou instituts de formation mentionnés aux articles L. 4151-1 et L.
+4383-1.

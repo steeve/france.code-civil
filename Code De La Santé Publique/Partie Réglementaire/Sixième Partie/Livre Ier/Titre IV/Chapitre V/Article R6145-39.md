@@ -1,22 +1,19 @@
 Article R6145-39
 ----
-Les tarifs de prestations d'hospitalisation mentionnés à l'article L. 162-22-10
-du code de la sécurité sociale sont facturés dans les conditions en vigueur au
-moment de la fin du séjour du patient.
+Sans préjudice de l'exercice de ses pouvoirs généraux de contrôle, le directeur
+de l'agence régionale de l'hospitalisation peut, à son initiative ou à la
+demande du conseil d'administration ou du directeur de l'établissement,
+soumettre le fonctionnement et la gestion d'un établissement public de santé en
+difficulté à l'examen d'une mission d'enquête.
 
-Dans l'attente de la fixation des tarifs de prestations mentionnés à l'article
-L. 174-3 du même code et du montant des forfaits prévus à l'article L. 162-22-12
-du même code et des dotations prévues aux articles L. 162-22-14 et L. 174-1 du
-même code :
+Le directeur de l'agence régionale de l'hospitalisation peut faire appel, le cas
+échéant, à des représentants spécialisés de l'Etat.
 
-1° La caisse chargée du versement des dotations et des forfaits annuels règle
-des acomptes mensuels égaux à un douzième des dotations et des forfaits de
-l'année précédente ;
+La mission d'enquête procède à l'audition de toute personne qu'elle juge utile
+d'entendre, et notamment du président de la commission médicale et du
+représentant du contrôle médical compétent pour l'établissement considéré.
 
-2° Les recettes relatives à la facturation des tarifs de prestations,
-mentionnées à l'article L. 174-3 du même code, sont liquidées et perçues dans
-les conditions en vigueur au cours de l'exercice précédent ;
-
-3° Les autres recettes sont recouvrées dans les conditions et selon les prix ou
-tarifs fixés par l'ordonnateur ou selon les modalités prévues dans les
-conventions en cours ou les dispositions réglementaires en vigueur.
+Le directeur de l'agence régionale de l'hospitalisation communique les
+conclusions de la mission d'enquête au président du conseil d'administration, au
+directeur et au comptable de l'établissement ; il propose les mesures de nature
+à remédier aux difficultés de fonctionnement ou de gestion constatées.

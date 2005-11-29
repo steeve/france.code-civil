@@ -2,8 +2,9 @@ Article R6145-64
 ----
 Toutes les opérations de travaux et les opérations concernant les équipements
 matériels lourds mentionnés à l'article R. 6122-26 sont rattachées à un
-programme d'investissement.
+programme d'investissement, sur lequel le conseil d'administration délibère en
+application de l'article L. 6143-2.
 
-Les programmes d'investissement sont établis en cohérence avec le projet
-d'établissement mentionné au 1° de l'article L. 6143-1 tel qu'il a été approuvé
-; ils comprennent une ou plusieurs opérations.
+Les programmes d'investissement sont approuvés par le directeur de l'agence
+régionale de l'hospitalisation dans les conditions fixées par l'article L.
+6143-4 ; ils comprennent une ou plusieurs opérations.

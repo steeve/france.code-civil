@@ -17,9 +17,9 @@ d) Le directeur de la sécurité sociale ou son représentant ;
 
 e) Le directeur du budget ou son représentant ;
 
-f) Le sous-directeur de la qualité et du fonctionnement des établissements de
-santé de la direction de l'hospitalisation et de l'organisation des soins ou son
-représentant ;
+f) Un sous-directeur de la direction de l'hospitalisation et de l'organisation
+des soins, désigné par le directeur de l'hospitalisation et de l'organisation
+des soins, ou son représentant ;
 
 2° Six personnalités nommées par arrêté des ministres chargés de la santé et de
 la sécurité sociale pour une durée de trois ans renouvelable :

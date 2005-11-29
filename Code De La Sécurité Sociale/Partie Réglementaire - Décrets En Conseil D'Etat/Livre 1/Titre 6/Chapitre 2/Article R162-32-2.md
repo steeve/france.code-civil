@@ -27,3 +27,10 @@ régimes obligatoires de sécurité sociale le maintien du corps du patient dans
 chambre mortuaire de l'établissement, à la demande de la famille, au-delà du
 délai de trois jours suivant le décès prévu à l'article R. 2223-89 du code
 général des collectivités territoriales.
+
+L'établissement doit informer le patient du prix de ces prestations, pour
+lesquelles il établit une facture détaillée conformément aux dispositions de
+l'article L. 441-3 du code de commerce.
+
+Les dispositions du présent article s'appliquent également aux établissements
+relevant des articles L. 162-22-16 et L. 174-1 du présent code.
