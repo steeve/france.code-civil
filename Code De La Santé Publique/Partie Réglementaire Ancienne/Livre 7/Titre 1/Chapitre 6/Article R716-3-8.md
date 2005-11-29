@@ -6,13 +6,10 @@ d'exercer au nom de celui-ci les compétences qu'il détient en ce qui concerne 
 
 a) Les décisions modificatives mentionnées au 3° de l'article L. 714-4 ;
 
-b) La ventilation des dépenses et des recettes approuvées entre les comptes de
-chaque groupe fonctionnel, prévue à l'article R. 714-3-15 ;
-
-c) Les conventions concernant les actions de coopération internationale
+b) Les conventions concernant les actions de coopération internationale
 mentionnées au 8° de l'article L. 714-4 ;
 
-d) Les actions judiciaires et transactions mentionnées à l'article R. 716-3-7.
+c) Les actions judiciaires et transactions mentionnées à l'article R. 716-3-7.
 
 Les décisions prises en vertu du présent article sont signées personnellement
 par le président ou, en cas d'empêchement de celui-ci, par le premier

@@ -5,8 +5,9 @@ Le comité technique local est consulté sur les sujets d'intérêt local suivan
 1. Le projet local d'établissement et les programmes d'investissement relatifs
 aux opérations de travaux et aux équipements lourds ;
 
-2. La section de budget, les résultats de l'exécution de cette section de budget
-et le tableau local des effectifs médicaux et non médicaux ;
+2. La section d'état des prévisions de recettes et de dépenses, les résultats de
+l'exécution de cette section et le tableau local des effectifs médicaux et non
+médicaux ;
 
 3. Les créations, suppressions et transformations de structures et services de
 l'hôpital ou du groupe hospitalier visées au 3° de l'article L. 714-18 ;

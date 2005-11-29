@@ -1,22 +1,12 @@
 Article R6145-4
 ----
-La comptabilité des établissements publics de santé a pour objet la description
-et le contrôle des opérations ainsi que l'information des autorités chargées de
-la gestion ou du contrôle de ces établissements.
-
-Elle est organisée en vue de permettre :
-
-1° La connaissance et le contrôle des opérations budgétaires et des opérations
-de trésorerie ;
-
-2° L'appréciation de la situation du patrimoine ;
-
-3° La connaissance des opérations faites avec les tiers ;
-
-4° La détermination des résultats ;
-
-5° Le calcul des coûts des services rendus, notamment en fonction des
-pathologies et du mode de prise en charge des patients ;
-
-6° L'intégration des opérations dans la comptabilité économique nationale et
-dans les comptes et statistiques élaborés pour les besoins de l'Etat.
+Dans le cas où les frais de séjour des malades ne sont pas susceptibles d'être
+pris en charge soit par les services de l'aide médicale, soit par un organisme
+d'assurance maladie, soit par le ministère des anciens combattants et victimes
+de guerre ou par tout autre organisme public, les intéressés ou, à défaut, leur
+famille ou un tiers responsable souscrivent un engagement d'acquitter les frais
+de toute nature afférents au régime choisi. Ils sont tenus, sauf dans les cas
+d'urgence, de verser au moment de leur entrée dans l'établissement une provision
+renouvelable calculée sur la base de la durée estimée du séjour. En cas de
+sortie avant l'expiration du délai prévu, la fraction dépassant le nombre de
+jours de présence est restituée.

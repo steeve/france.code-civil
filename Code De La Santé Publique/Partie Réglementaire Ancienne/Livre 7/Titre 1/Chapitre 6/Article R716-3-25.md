@@ -12,8 +12,9 @@ conseil d'administration de l'Assistance publique-hôpitaux de Paris ;
 2. Le projet local d'établissement ainsi que le projet médical de l'hôpital ou
 du groupe hospitalier ;
 
-3. Le projet de la section de budget de l'hôpital ou du groupe hospitalier,
-ainsi que les résultats de l'exécution de cette section de budget ;
+3. Le projet de la section d'état des prévisions de recettes et de dépenses de
+l'hôpital ou du groupe hospitalier, ainsi que les résultats de l'exécution de
+cette section ;
 
 4. Les programmes d'investissement relatifs aux travaux et équipements lourds
 concernant l'hôpital ou le groupe hospitalier ;

@@ -1,7 +1,11 @@
 Article R6145-54
 ----
-Lorsque sont supprimées des activités suivies précédemment soit sur le budget
-général, soit sur l'un des budgets annexes mentionnés à l'article R. 6145-12,
-les résultats antérieurs des budgets concernés sont reportés sur le nouveau
-budget général et affectés dans les conditions fixées aux articles R. 6145-50 à
-R. 6145-53.
+Les postes comptables des établissements publics de santé relèvent des services
+déconcentrés du Trésor.
+
+Pour les établissements importants ou groupes d'établissements désignés par
+arrêté des ministres chargés du budget et de la santé, il peut être créé un
+poste comptable spécialisé.
+
+Les dépenses afférentes au fonctionnement des postes comptables hospitaliers
+sont à la charge du budget général de l'Etat.

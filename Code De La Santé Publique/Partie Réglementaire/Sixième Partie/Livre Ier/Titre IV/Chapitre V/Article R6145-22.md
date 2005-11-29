@@ -1,28 +1,20 @@
 Article R6145-22
 ----
-Les tarifs de prestations institués à l'article L. 174-3 du code de la sécurité
-sociale sont établis pour :
+Les tarifs de prestations mentionnés aux 1° et 2° de l'article R. 6145-21, à
+l'exception de ceux relatifs aux unités de soins de longue durée, sont obtenus,
+pour chaque catégorie tarifaire, en divisant le coût de revient prévisionnel par
+le nombre de journées d'hospitalisation prévues, après déduction des produits ne
+résultant pas de la facturation des tarifs de prestations.
 
-1° L'hospitalisation complète en régime commun, au moins pour chacune des
-catégories suivantes :
+Le coût de revient prévisionnel est égal à la totalité des dépenses
+d'exploitation des sections tarifaires concernées comprenant :
 
-a) Services spécialisés ou non ;
+1° Les charges directes ;
 
-b) Services de spécialités coûteuses ;
+2° Les charges des consommations d'actes, de biens et de services médicaux sur
+la base de leur prix d'achat ou, à défaut, de leur coût de revient ;
 
-c) Services de spécialités très coûteuses ;
-
-d) Services de suite et de réadaptation ;
-
-e) Unités de soins de longue durée pour ce qui concerne les soins ;
-
-2° Les modes de prise en charge alternatifs à l'hospitalisation, au moins pour
-chacune des catégories suivantes :
-
-a) L'hospitalisation à temps partiel ;
-
-b) La chirurgie ambulatoire ;
-
-c) L'hospitalisation à domicile ;
-
-3° Les interventions du service mobile de secours et de soins d'urgence.
+3° Les autres charges du compte de résultat prévisionnel principal qui ne sont
+pas couvertes par des ressources propres, réparties entre les catégories
+tarifaires proportionnellement au nombre de journées prévues dans chaque
+catégorie.

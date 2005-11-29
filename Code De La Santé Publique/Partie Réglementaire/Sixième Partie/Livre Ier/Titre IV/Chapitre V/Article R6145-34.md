@@ -1,7 +1,7 @@
 Article R6145-34
 ----
-L'établissement de santé tient à la disposition du directeur de l'agence
-régionale de l'hospitalisation les documents et informations nécessaires à
-l'exercice de son contrôle. La demande de communication de ces documents, autres
-que ceux prévus à l'article R. 6145-20, ne suspend pas les délais prévus à
-l'article L. 6145-1.
+Les dispositions du premier alinéa de l'article L. 6145-3 s'appliquent lorsque
+l'état des prévisions de recettes et de dépenses n'est pas adopté par le conseil
+d'administration au plus tard le 15 mars ou dans un délai de trente jours
+suivant la notification des dotations et forfaits mentionnés à l'article L.
+6145-1 si ce délai expire après le 15 mars.

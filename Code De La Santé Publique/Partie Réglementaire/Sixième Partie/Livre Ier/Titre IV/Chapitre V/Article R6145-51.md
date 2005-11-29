@@ -1,26 +1,29 @@
 Article R6145-51
 ----
-S'il est constaté que les recettes du budget général mentionnées au groupe 2 de
-l'article R. 6145-15 sont, à la clôture de l'exercice, supérieures aux recettes
-prévues au dernier budget rendu exécutoire de l'exercice concerné, l'excédent de
-recettes est affecté à la couverture des charges d'exploitation autorisées au
-dernier budget rendu exécutoire de l'exercice en cours.
+L'excédent de chacun des comptes de résultat annexes autres que celui mentionné
+à l'article R. 6145-50 est affecté, au cours de l'exercice suivant celui auquel
+il se rapporte :
 
-Les tarifs de prestations et le montant de la dotation annuelle de financement
-sont diminués en conséquence.
+1° A un compte de report à nouveau de ce compte de résultat annexe ;
 
-S'il est constaté que les recettes mentionnées au premier alinéa sont, à la
-clôture de l'exercice, inférieures aux recettes prévues au dernier budget rendu
-exécutoire de l'exercice concerné, le déficit de recettes ainsi constaté est
-couvert par ajout aux charges d'exploitation autorisées au dernier budget rendu
-exécutoire de l'exercice en cours.
+2° A un compte de réserve destiné au financement de mesures d'investissement de
+ce compte de résultat annexe ;
 
-Les tarifs de prestations et le montant de la dotation annuelle de financement
-sont majorés en conséquence.
+3° A un compte de réserve de trésorerie ;
 
-Les excédents ou déficits de recettes mentionnés aux premier et troisième
-alinéas sont corrigés de la différence existant entre le montant des annulations
-de titres de recettes en raison d'un changement de débiteur, ou d'une erreur ou
-d'une modification portant sur le montant de la créance, et celui des
-réémissions de titres sur exercices antérieurs relatifs aux recettes mentionnées
-au premier alinéa, comptabilisés à la clôture de l'exercice.
+4° A un compte de réserve de compensation de ce compte de résultat annexe ;
+
+5° A un compte d'excédent affecté à la compensation des charges d'amortissement
+des équipements, agencements et installations de mise aux normes de sécurité de
+ce compte de résultat annexe.
+
+Le déficit de chacun des comptes de résultat annexes autres que celui mentionné
+à l'article R. 6145-50 est couvert en priorité par reprise sur la réserve de
+compensation et, pour le surplus éventuel, par ajout aux charges d'exploitation
+de l'exercice suivant celui auquel il se rapporte. Toutefois, pour les comptes
+de résultats annexes des services et activités mentionnés aux 2° et 4° de
+l'article R. 6145-12, cette incorporation peut être étalée sur les trois
+exercices suivants.
+
+Les tarifs de prestations des services et activités mentionnés aux 2° et 4° de
+l'article R. 6145-12 sont modifiés en conséquence.

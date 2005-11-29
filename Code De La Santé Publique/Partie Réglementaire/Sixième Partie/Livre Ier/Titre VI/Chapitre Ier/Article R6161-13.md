@@ -21,12 +21,14 @@ provoquer la désignation de l'attributaire ou pour procéder elle-même, le cas
 s'engage, en cas de cessation d'activité, à verser à un organisme public ou
 privé poursuivant un but similaire, le fonds de roulement et les provisions non
 employées ainsi qu'une somme correspondant à la plus-value immobilière résultant
-de dépenses inscrites au budget ; le service des domaines procède à l'évaluation
-de cette plus-value ; en cas de transformation ou de modification importante
-dans le fonctionnement de l'établissement, l'autorité administrative apprécie
-s'il y a lieu d'imposer le versement ci-dessus et dans quelle mesure.
+de dépenses inscrites à l'état des prévisions de recettes et de dépenses ;
+
+le service des domaines procède à l'évaluation de cette plus-value ; en cas de
+transformation ou de modification importante dans le fonctionnement de
+l'établissement, l'autorité administrative apprécie s'il y a lieu d'imposer le
+versement ci-dessus et dans quelle mesure.
 
 En outre, sans préjudice des dispositions ci-dessus, seuls les amortissements
 relatifs aux immobilisations affectées à l'activité hospitalière sont pris en
-compte pour la fixation du budget, et des tarifs de prestations mentionnés à
-l'article R. 6145-22.
+compte pour la fixation de l'état des prévisions de recettes et de dépenses, et
+des tarifs de prestations mentionnés à l'article R. 6145-21.
