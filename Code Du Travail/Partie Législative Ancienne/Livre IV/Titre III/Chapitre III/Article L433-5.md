@@ -2,8 +2,7 @@ Article L433-5
 ----
 Sont éligibles, à l'exception des conjoint, ascendants, descendants, frères,
 soeurs ou alliés au même degré du chef d'entreprise, les électeurs âgés de
-dix-huit ans accomplis et travaillant dans l'entreprise sans interruption depuis
-un an au moins.
+dix-huit ans accomplis et travaillant dans l'entreprise depuis un an au moins.
 
 Ne peuvent être désignés les salariés qui ont été condamnés pour indignité
 nationale ou qui ont été déchus de leurs fonctions syndicales en application des

@@ -30,9 +30,9 @@ La répartition des sièges entre les différentes catégories et la répartitio
 personnel dans les collèges électoraux font l'objet d'un accord entre le chef
 d'entreprise ou son représentant et les organisations syndicales intéressées.
 
-Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail décide de
-cette répartition entre les collèges électoraux conformément au cinquième alinéa
-du présent article, ou, à défaut, conformément à la loi.
+Dans le cas où cet accord ne peut être obtenu, l'autorité administrative décide
+de cette répartition entre les collèges électoraux conformément au cinquième
+alinéa du présent article, ou, à défaut, conformément à la loi.
 
 A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus,
 les organisations syndicales intéressées examinent les voies et moyens en vue
@@ -40,9 +40,8 @@ d'atteindre une représentation équilibrée des femmes et des hommes sur les
 listes de candidatures.
 
 Dans chaque entreprise, à défaut d'accord entre le chef d'entreprise et les
-organisations syndicales intéressées, le directeur départemental du travail et
-de l'emploi du siège de l'entreprise a compétence pour reconnaître le caractère
-d'établissement distinct.
+organisations syndicales intéressées, le caractère d'établissement distinct est
+reconnu par l'autorité administrative compétente.
 
 La perte de la qualité d'établissement distinct, reconnue par la décision
 administrative, emporte suppression du comité de l'établissement considéré, sauf

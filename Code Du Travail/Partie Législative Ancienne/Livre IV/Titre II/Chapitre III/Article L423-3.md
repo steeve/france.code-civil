@@ -11,9 +11,9 @@ sièges entre les différentes catégories font l'objet d'un accord entre le che
 d'entreprise ou son représentant et les organisations syndicales représentatives
 intéressées.
 
-Dans le cas où cet accord ne peut être obtenu, l'inspecteur du travail procède à
-cette répartition entre les collèges électoraux conformément à l'alinéa premier
-ou, à défaut, en application de l'article L. 423-2.
+Dans le cas où cet accord ne peut être obtenu, l'autorité administrative procède
+à cette répartition entre les collèges électoraux conformément à l'alinéa
+premier ou, à défaut, en application de l'article L. 423-2.
 
 A l'occasion de l'élaboration du protocole d'accord préélectoral visé ci-dessus,
 les organisations syndicales intéressées examinent les voies et moyens en vue
