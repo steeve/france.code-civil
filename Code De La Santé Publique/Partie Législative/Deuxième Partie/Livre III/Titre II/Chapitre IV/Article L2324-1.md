@@ -24,3 +24,7 @@ d'aptitude physique requises des personnes exerçant leur activité dans les
 établissements ou services mentionnés aux alinéas précédents ainsi que les
 conditions d'installation et de fonctionnement de ces établissements ou services
 sont fixées par voie réglementaire.
+
+Les dispositions de l'article L. 133-6 du code de l'action sociale et des
+familles s'appliquent aux établissements, services et lieux de vie et d'accueil
+mentionnés au présent chapitre.
