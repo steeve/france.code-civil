@@ -8,7 +8,9 @@ location-accession régi par la loi n° 84-595 du 12 juillet 1984 définissant l
 location-accession à la propriété et destinés à être occupés à titre de
 résidence principale par des personnes dont les revenus, à la date de signature
 du contrat préliminaire ou, à défaut, du contrat de location-accession, sont
-inférieurs aux plafonds de ressources mentionnés à l'article R. 331-66.
+inférieurs à des plafonds de ressources définis par arrêté conjoint du ministre
+chargé de l'économie, du ministre chargé du budget et du ministre chargé du
+logement.
 
 Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de
 refinancement conclue sous l'égide de l'Etat entre les établissements de crédits
