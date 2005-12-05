@@ -1,7 +1,10 @@
 Article R5211-45
 ----
-Le dossier d'information mis à la disposition du public dans les conditions
-prévues à l'article L. 5211-50 contient notamment la délibération qui a décidé
-la consultation, à laquelle sont annexées, le cas échéant, les observations
-formulées par les membres de l'organe délibérant de l'établissement public de
-coopération intercommunale, à l'occasion de cette délibération.
+Les articles R. 1112-3 à R. 1112-8 et R. 1112-15 à R. 1112-17 sont applicables
+aux établissements publics de coopération intercommunale.
+
+Pour leur application il y a lieu de lire : "établissement public de coopération
+intercommunale" au lieu de : "collectivité territoriale ayant décidé un
+référendum" et : "président de l'établissement public de coopération
+intercommunale" au lieu de : "président de l'organe exécutif de la collectivité
+compétente".

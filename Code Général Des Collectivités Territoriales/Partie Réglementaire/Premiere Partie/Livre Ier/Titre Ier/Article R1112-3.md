@@ -24,7 +24,7 @@ collectivité territoriale ayant décidé le référendum ainsi que tout groupe,
 parti ou groupement politique ayant déposé une demande d'habilitation, peut,
 dans les vingt-quatre heures qui suivent la publication de la liste, saisir le
 tribunal administratif compétent. Le tribunal statue en premier et dernier
-ressort dans les trois jours suivant le dépôt de la requête. S'il l'estime
+ressort dans les trois jours suivant le dépôt de la requête.S'il l'estime
 fondée, le tribunal procède à la réformation de l'arrêté.
 
 Pour l'application des articles du code électoral (partie Réglementaire) à la
