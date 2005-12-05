@@ -21,14 +21,14 @@ directeur régional de l'aviation civile ou, à défaut de directeur régional, 
 chef de service de l'aviation civile dans le département ou de leurs
 représentants ; lorsqu'elles concernent les eaux territoriales au large de ces
 départements, ces mesures sont prises par le délégué du Gouvernement institué
-par le décret n° 79-413 du 25 mai 1979, après, outre les avis ci-dessus
+par le décret n° 2005-1514 du 6 décembre 2005, après, outre les avis ci-dessus
 mentionnés, la consultation du commandant de la zone maritime ou de son
 représentant ;
 
-Dans les territoires d'outre-mer et la collectivité territoriale de Mayotte, par
-arrêté du délégué du Gouvernement après consultation du chef du service d'Etat
-de l'aviation civile ou de son représentant ; lorsqu'elles concernent les eaux
-territoriales au large de ces territoires, ces mesures sont prises par le
-délégué du Gouvernement institué par le décret précité du 25 mai 1979, après
-consultation du chef du service d'Etat de l'aviation civile et du commandant de
-zone maritime ou de leurs représentants.
+Dans les territoires d'outre-mer et à Mayotte, par arrêté du délégué du
+Gouvernement après consultation du chef du service d'Etat de l'aviation civile
+ou de son représentant ; lorsqu'elles concernent les eaux territoriales au large
+de ces territoires, ces mesures sont prises par le délégué du Gouvernement
+institué par le décret précité du 6 décembre 2005, après consultation du chef du
+service d'Etat de l'aviation civile et du commandant de zone maritime ou de
+leurs représentants.
