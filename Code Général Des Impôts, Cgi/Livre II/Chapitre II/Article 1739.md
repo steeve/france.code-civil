@@ -1,13 +1,22 @@
 Article 1739
 ----
-1. Sont constatées, poursuivies et sanctionnées comme en matière de
-contributions indirectes :
+I. - Nonobstant toutes dispositions contraires, il est interdit à tout
+établissement de crédit qui reçoit du public des fonds à vue ou à moins de cinq
+ans, et par quelque moyen que ce soit, d'ouvrir ou de maintenir ouverts dans des
+conditions irrégulières des comptes bénéficiant d'une aide publique, notamment
+sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes
+excédant les plafonds autorisés.
 
-1° (Abrogé à compter du 1er janvier 1993).
+Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la
+commission bancaire, les infractions aux dispositions du présent article sont
+punies d'une amende fiscale dont le taux est égal au montant des intérêts payés,
+sans que cette amende puisse être inférieure à 75 Euros.
 
-2° Les infractions aux obligations imposées en vertu du 1 de l'article 268 ter
-et du III de l'article 298 bis, en vue du contrôle des opérations d'importation,
-d'achat, de vente, de commission et de courtage portant sur les animaux vivants
-de boucherie et de charcuterie.
+Un décret pris sur le rapport du ministre chargé du budget fixe les modalités
+d'application du présent article, et notamment les conditions dans lesquelles
+seront constatées et poursuivies les infractions.
 
-2. (Abrogé).
+II. - Les dispositions du I s'appliquent, quels que soient les entreprises,
+établissements ou organismes dépositaires, au régime de l'épargne populaire créé
+par la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne
+populaire.

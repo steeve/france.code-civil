@@ -25,7 +25,7 @@ La déduction des intérêts est pratiquée sur les salaires versés par la soci
 rachetée.
 
 Les conditions énoncées aux septième et huitième alinéas du 2° quater de
-l'article 83 s'appliquent aux titres de la société créée (1).
+l'article 83 s'appliquent aux titres de la société créée.
 
 II. Sont déductibles du montant brut des sommes payées, dans les conditions
 prévues au II de l'article 220 quater A, les intérêts des emprunts contractés à
@@ -34,7 +34,7 @@ du capital d'une société ayant pour objet exclusif de racheter tout ou partie 
 capital de leur entreprise et pour la souscription à une augmentation de ce
 capital effectuée au cours de l'année de la création de cette société, si le
 montant de cette augmentation de capital est affecté à la réduction des emprunts
-mentionnés au deuxième alinéa du I de l'article 220 quater A (2).
+mentionnés au deuxième alinéa du I de l'article 220 quater A.
 
 Ces intérêts restent déductibles si les titres de la société sont apportés à une
 société mentionnée au cinquième alinéa du c du II de l'article 220 quater A.
@@ -47,11 +47,11 @@ La déduction ne peut excéder le montant brut du salaire versé à l'emprunteur
 l'entreprise. Elle ne peut être supérieure à 150.000 F. Elle est limitée aux
 intérêts afférents aux emprunts utilisés pour libérer le capital au cours de
 l'année de création de la société. Les neuvième et dixième alinéas du 2° quater
-de l'article 83 s'appliquent à cette déduction (3).
+de l'article 83 s'appliquent à cette déduction.
 
 La déduction des intérêts prévue au premier alinéa du présent II n'est plus
 admise à compter de l'année au cours de laquelle une des conditions fixées par
-l'article 220 quater A cesse d'être satisfaite (4).
+l'article 220 quater A cesse d'être satisfaite.
 
 III. Les dispositions du II sont applicables aux intérêts des emprunts
 contractés par les salariés pour l'acquisition d'actions de la société rachetée
@@ -66,16 +66,12 @@ constitution de la société créée en vue du rachat ;
 de la société créée en vue du rachat ;
 
 3° Les salariés font apport des titres ainsi acquis à la société créée dès sa
-constitution (3).
+constitution.
 
 IV. Lorsque le rachat d'une entreprise a été soumis à l'accord du ministre
 chargé des finances, prévu à l'article 220 quater B, le bénéfice des
 dispositions des II et III est subordonné à cet accord.
 
-(1) Annexe III, art. 38 septdecies A à 38 septdecies E.
-
-(2) Annexe III, art. 38 septdecies F.
-
-(3) Annexe III, art. 38 septdecies G.
-
-(4) Voir également l'article 1740 quinquies.
+V.-Les avantages prévus aux II et III ne sont plus applicables à compter de
+l'année au cours de laquelle l'une des conditions prévues à l'article 220 quater
+A cesse d'être satisfaite.

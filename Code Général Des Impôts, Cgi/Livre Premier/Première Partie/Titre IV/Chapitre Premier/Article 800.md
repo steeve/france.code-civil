@@ -7,7 +7,9 @@ imprimée fournie gratuitement par l'administration.
 En sont dispensés :
 
 1° Les ayants cause en ligne directe et le conjoint survivant du défunt lorsque
-l'actif brut successoral est inférieur à 10 000 Euros ;
+l'actif brut successoral est inférieur à 50 000 Euros et à la condition que ces
+personnes n'aient pas bénéficié antérieurement, de la part du défunt, d'une
+donation ou d'un don manuel non enregistré ou non déclaré ;
 
 2° Les personnes autres que celles visées au 1° lorsque l'actif brut successoral
 est inférieur à 3 000 Euros.

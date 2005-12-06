@@ -4,7 +4,7 @@ Article 39 ter
 recherche et l'exploitation des hydrocarbures liquides ou gazeux en France
 métropolitaine ou dans les départements d'outre-mer sont autorisés à déduire de
 leur bénéfice net d'exploitation, dans la limite de 50 % de ce bénéfice, une
-provision pour reconstitution des gisements d'hydrocarbures égale à 23,50 % du
+provision pour reconstitution des gisements d'hydrocarbures égale à 23, 50 % du
 montant des ventes des produits marchands extraits des gisements qu'ils
 exploitent en métropole ou dans ces départements.
 
@@ -21,9 +21,9 @@ réserve ordinaire assimilé aux réserves constituées par prélèvements sur l
 soldes bénéficiaires soumis à l'impôt.
 
 Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice
-imposable de l'exercice au cours duquel a expiré le délai ci-dessus défini.
-L'impôt correspondant à la réintégration des sommes non employées dans ce délai
-est majoré de l'intérêt de retard prévu à l'article 1729.
+imposable de l'exercice au cours duquel a expiré le délai ci-dessus
+défini.L'impôt correspondant à la réintégration des sommes non employées dans ce
+délai est majoré de l'intérêt de retard prévu à l'article 1727.
 
 2. Les entreprises qui réalisent des investissements amortissables en emploi de
 la provision définie au 1 doivent rapporter à leurs résultats imposables, au
@@ -40,9 +40,9 @@ consolidé.
 exercices antérieurs au premier exercice clos à compter du 31 décembre 2000 doit
 être employée dans les conditions prévues au 1. Dans le cas contraire, les fonds
 non utilisés sont rapportés au résultat imposable de l'exercice au cours duquel
-expire le délai de deux ans défini au deuxième alinéa du 1. L'impôt
-correspondant à la réintégration des sommes non employées dans ce délai est
-majoré de l'intérêt de retard prévu à l'article 1729.
+expire le délai de deux ans défini au deuxième alinéa du 1.L'impôt correspondant
+à la réintégration des sommes non employées dans ce délai est majoré de
+l'intérêt de retard prévu à l'article 1727.
 
 La partie non encore rapportée des sommes correspondant aux investissements
 amortissables admis en emploi des provisions constituées au titre des exercices

@@ -34,15 +34,15 @@ résultant de l'autorisation, la base de la taxe ou du complément de taxe
 directeur départemental de l'équipement ou par le maire.
 
 Le recouvrement de la taxe ou du complément de taxe, augmenté de l'amende
-fiscale prévue à l'article 1836, est immédiatement poursuivi contre le
+fiscale prévue à l'article 1828, est immédiatement poursuivi contre le
 constructeur.
 
 III. A défaut de paiement de la taxe dans les délais impartis au I, le
-recouvrement de cette taxe et de l'intérêt de retard et la majoration prévus à
-l'article 1731 est poursuivi par les comptables du Trésor dans les conditions
-fixées au titre IV du livre des procédures fiscales. Il en est de même du
-recouvrement de la taxe ou du complément de taxe et de l'amende fiscale dans
-l'hypothèse visée au II.
+recouvrement de cette taxe, de l'intérêt de retard prévu à l'article 1727 et de
+la majoration prévue à l'article 1731 est poursuivi par les comptables du Trésor
+dans les conditions fixées au titre IV du livre des procédures fiscales. Il en
+est de même du recouvrement de la taxe ou du complément de taxe et de l'amende
+fiscale dans l'hypothèse visée au II.
 
 IV. Le recouvrement de la taxe est garanti par le privilège prévu au 1 de
 l'article 1929.

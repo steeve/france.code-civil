@@ -8,8 +8,8 @@ de la Banque de France.
 
 2. (Transféré sous l'article 1788 quinquies).
 
-3. Les dispositions prévues au 1 et à l'article 1788 quinquies s'appliquent aux
-taxes qui sont acquittées dans les mêmes conditions et délais que ceux prévus à
-l'article 287.
+3. Les dispositions prévues au 1 de l'article 1738 s'appliquent aux taxes qui
+sont acquittées dans les mêmes conditions et délais que ceux prévus à l'article
+287.
 
 4. (Sans objet).

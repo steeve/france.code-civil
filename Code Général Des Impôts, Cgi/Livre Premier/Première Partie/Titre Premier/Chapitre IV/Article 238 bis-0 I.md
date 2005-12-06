@@ -40,9 +40,7 @@ transfert, majorée des produits acquis depuis cette date ou, à défaut, du tot
 des sommes calculées ainsi qu'il est précisé à la phrase qui précède. Toutefois,
 l'entreprise peut apporter la preuve que le résultat ainsi déterminé excède le
 résultat effectivement réalisé, déterminé dans les conditions fixées au deuxième
-alinéa. En cas d'application des dispositions du présent alinéa, le montant des
-droits éludés est assorti de l'intérêt de retard visé à l'article 1727 et de la
-majoration prévue à l'article 1759.
+alinéa.
 
 II. Les dispositions du I ne sont pas applicables aux transferts qui résultent
 de l'exécution de contrats d'assurances ou de mandats.

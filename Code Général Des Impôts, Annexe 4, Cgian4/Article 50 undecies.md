@@ -1,23 +1,38 @@
 Article 50 undecies
 ----
 1. La liste des matériels d'équipement destinés à l'industrie hôtelière et
-touristique dont l'importation dans les départements de la Guadeloupe de la
+touristique dont l'importation dans les départements de la Guadeloupe, de la
 Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la
-valeur ajoutée est fixée ainsi qu'il suit :
+valeur ajoutée, est fixée ainsi qu'il suit :
 
-NUMERO DU TARIF des droits de douane d'importation / DESIGNATION DES PRODUITS
+NUMERO DU TARIF des droits de douane d'importation
 
-40-06 à 40-07 : Tous produits de ces positions.
 
-40-10 : Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+DESIGNATION DES PRODUITS
 
-Ex 42-05 : Articles de maroquinerie n'ayant pas le caractère de contenant
-(sous-mains, signets, etc.) en cuir naturel ou reconstitué.
+40-06 à 40-07
 
-Ex 44-16 : Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs
-parties en bois.
+Tous produits de ces positions.
 
-44-19 : Articles en bois pour la table ou la cuisine.
+40-10
+
+Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+
+
+Ex 42-05
+
+Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains,
+signets, etc.) en cuir naturel ou reconstitué.
+
+
+Ex 44-16
+
+Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en
+bois.
+
+44-19
+
+Articles en bois pour la table ou la cuisine.
 
 
 Ex 44-21-90
@@ -117,7 +132,9 @@ confectionnées.
 
 Ex 63-01
 
-Couvertures autres que les couvertures chauffantes électriques. 63-02 à 63-04
+Couvertures autres que les couvertures chauffantes électriques.
+
+63-02 à 63-04
 
 Tous produits de ces positions.
 
@@ -138,8 +155,6 @@ détail.
 Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols
 de jardin et articles similaires).
 
-NUMEROS DU TARIF des droits de douane d'importation
-
 
 Ex 66-03
 
@@ -151,7 +166,7 @@ Laines de laitier, de scories, de roche et laines minérales similaires ;
 vermiculite expansée, argiles expansées, mousse de scories et produits minéraux
 similaires expansés ; mélanges et ouvrages en matières minérales à usages
 d'isolants thermiques ou sonores ou pour l'absorption du son, à l'exclusion de
-ceux des numéros 68-11, 68-12 ou de chapitre 69.
+ceux des numéros 68-11,68-12 ou de chapitre 69.
 
 69-09
 
@@ -183,287 +198,285 @@ bouchons, couvercles et autres dispositifs de fermeture, en verre.
 
 Objets en verre pour le service de la table, pour la cuisine, la toilette, le
 bureau, l'ornementation des appartements ou usages similaires, autres que ceux
-des n°s 70-10 ou 70-18.
+des n° s 70-10 ou 70-18.
 
 
 Ex 71-14
 
 Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
 
-NUMERO DU TARIF des droits de douane d'importation 73-10
+73-10
 
-Tous les produits de cette position. 73-21 et 73-22
+Tous les produits de cette position.
 
-Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation Ex 73-23
-
-DESIGNATION DES PRODUITS Articles de ménage ou d'économie domestique et leurs
-parties, en fonte, fer ou acier.
-
-NUMERO DU TARIF des droits de douane d'importation 73-26
-
-DESIGNATION DES PRODUITS Autres ouvrages en fer ou en acier.
-
-NUMERO DU TARIF des droits de douane d'importation 74-17 à 74-19
+73-21 et 73-22
 
 Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 75-08
 
-DESIGNATION DES PRODUITS Autres ouvrages en nickel.
+Ex 73-23
 
-NUMERO DU TARIF des droits de douane d'importation 76-12
+Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou
+acier.
 
-DESIGNATION DES PRODUITS Réservoirs, fûts, tambours, bidons, boîtes et
-récipients similaires en aluminium (y compris les étuis tubulaires rigides ou
-souples) pour toutes matières (à l'exception des gaz comprimés ou liquéfiés)
-d'une contenance n'excédant pas 300 litres, sans dispositifs mécaniques ou
-thermiques, même avec revêtement intérieur ou calorifuge.
+73-26
 
-NUMERO DU TARIF des droits de douane d'importation 76-15 et 76-16
+Autres ouvrages en fer ou en acier.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+74-17 à 74-19
 
-NUMERO DU TARIF des droits de douane d'importation 78-04
+Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tables, feuilles et bandes en plomb ; poudres et
-paillettes de plomb.
+75-08
 
-NUMERO DU TARIF des droits de douane d'importation 80-03
+Autres ouvrages en nickel.
 
-DESIGNATION DES PRODUITS Barres, profilés et fils en étain.
+76-12
 
-NUMERO DU TARIF des droits de douane d'importation Ex 80-07
+Réservoirs, fûts, tambours, bidons, boîtes et récipients similaires en aluminium
+(y compris les étuis tubulaires rigides ou souples) pour toutes matières (à
+l'exception des gaz comprimés ou liquéfiés) d'une contenance n'excédant pas 300
+litres, sans dispositifs mécaniques ou thermiques, même avec revêtement
+intérieur ou calorifuge.
 
-DESIGNATION DES PRODUITS Articles de ménage, d'hygiène, d'économie domestique et
-leurs parties en étain.
+76-15 et 76-16
 
-NUMERO DU TARIF des droits de douane d'importation 82-01-50
+Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Sécateurs (y compris les cisailles à volaille) maniés à
-une main.
+78-04
 
-NUMERO DU TARIF des droits de douane d'importation 82-05 à 82-06
+Tables, feuilles et bandes en plomb ; poudres et paillettes de plomb.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+80-03
 
-NUMERO DU TARIF des droits de douane d'importation 82-10
+Barres, profilés et fils en étain.
 
-DESIGNATION DES PRODUITS Appareils mécaniques actionnés à la main, d'un poids de
-10 kg ou moins, utilisés pour préparer, conditionner ou servir les aliments ou
-les boissons.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 82-11
+Ex 80-07
 
-DESIGNATION DES PRODUITS Couteaux (autres que ceux du n° 82-08) à lame
-tranchante ou dentelée.
+Articles de ménage, d'hygiène, d'économie domestique et leurs parties en étain.
 
-NUMERO DU TARIF des droits de douane d'importation 82-12 et 82-13
+82-01-50
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Sécateurs (y compris les cisailles à volaille) maniés à une main.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 82-14
+82-05 à 82-06
 
-DESIGNATION DES PRODUITS Autres articles de coutellerie (tondeuses, fendoirs,
-couperets, hachoirs de bouchers ou de cuisine et coupe-papier, par exemple).
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 82-15
+82-10
 
-DESIGNATION DES PRODUITS Cuillers, fourchettes, louches, écumoires, pelles à
-tarte, couteaux spéciaux à poisson ou à beurre, pinces à sucre et articles
-similaires.
+Appareils mécaniques actionnés à la main, d'un poids de 10 kg ou moins, utilisés
+pour préparer, conditionner ou servir les aliments ou les boissons.
 
-NUMERO DU TARIF des droits de douane d'importation 83-03 et 83-04
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 82-11
 
-NUMERO DU TARIF des droits de douane d'importation 83-06
+Couteaux (autres que ceux du n° 82-08) à lame tranchante ou dentelée.
 
-DESIGNATION DES PRODUITS Cloches, sonnettes, gongs et articles similaires, non
-électriques, en métaux communs ; statuettes et autres objets d'ornement en
-métaux communs ; cadres pour photographies, gravures ou similaires en métaux
-communs ; miroirs en métaux communs.
+82-12 et 82-13
 
-NUMERO DU TARIF des droits de douane d'importation 83-10
+Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Plaques indicatrices, plaques-enseignes,
-plaques-adresses et plaques similaires, chiffres, lettres et enseignes diverses
-en métaux communs, à l'exclusion de ceux du n° 94-05.
 
-NUMERO DU TARIF des droits de douane d'importation 84-03 à 84-04
+Ex 82-14
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de
+bouchers ou de cuisine et coupe-papier, par exemple).
 
-NUMERO DU TARIF des droits de douane d'importation 84-18
+82-15
 
-DESIGNATION DES PRODUITS Réfrigérateurs, congélateurs-conservateurs et autres
-matériels, machines et appareils pour la reproduction du froid, à équipement
-électrique ou autre ; pompes à chaleur autres que les machines et appareils pour
-le conditionnement de l'air du n° 84-15.
+Cuillers, fourchettes, louches, écumoires, pelles à tarte, couteaux spéciaux à
+poisson ou à beurre, pinces à sucre et articles similaires.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 84-22
+83-03 et 83-04
 
-DESIGNATION DES PRODUITS Machines à laver la vaisselle.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 84-23
+83-06
 
-DESIGNATION DES PRODUITS Appareils et instruments de pesage, à l'exclusion des
-bascules et balances compteuses de pièces, bascules et balances ensacheuses ou
-doseuses et autres bascules ou balances à usages spéciaux, poids et parties de
-ces appareils.
+Cloches, sonnettes, gongs et articles similaires, non électriques, en métaux
+communs ; statuettes et autres objets d'ornement en métaux communs ; cadres pour
+photographies, gravures ou similaires en métaux communs ; miroirs en métaux
+communs.
 
-NUMERO DU TARIF des droits de douane d'importation 84-50
+83-10
 
-DESIGNATION DES PRODUITS Machines à laver le linge, même avec dispositif de
-séchage.
+Plaques indicatrices, plaques-enseignes, plaques-adresses et plaques similaires,
+chiffres, lettres et enseignes diverses en métaux communs, à l'exclusion de ceux
+du n° 94-05.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 84-51
+84-03 à 84-04
 
-DESIGNATION DES PRODUITS Machines et appareils (autres que les machines du n°
-84-50) pour le lavage, le nettoyage, l'essorage, le séchage, le repassage, le
-pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt,
-le finissage.
+Tous produits de ces positions.
+
+84-18
+
+Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et
+appareils pour la reproduction du froid, à équipement électrique ou autre ;
+pompes à chaleur autres que les machines et appareils pour le conditionnement de
+l'air du n° 84-15.
+
+
+Ex 84-22
+
+Machines à laver la vaisselle.
+
+
+Ex 84-23
+
+Appareils et instruments de pesage, à l'exclusion des bascules et balances
+compteuses de pièces, bascules et balances ensacheuses ou doseuses et autres
+bascules ou balances à usages spéciaux, poids et parties de ces appareils.
+
+84-50
+
+Machines à laver le linge, même avec dispositif de séchage.
+
+
+Ex 84-51
+
+Machines et appareils (autres que les machines du n° 84-50) pour le lavage, le
+nettoyage, l'essorage, le séchage, le repassage, le pressage (y compris les
+presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage.
 
 84-52
 
-DESIGNATION DES PRODUITS Machines à coudre, autres que les machines à coudre les
-feuillets du n° 84-40, meubles, embases et couvercles spécialement conçus pour
-machines à coudre ; aiguilles pour machine à coudre.
+Machines à coudre, autres que les machines à coudre les feuillets du n° 84-40,
+meubles, embases et couvercles spécialement conçus pour machines à coudre ;
+aiguilles pour machine à coudre.
 
-NUMERO DU TARIF des droits de douane d'importation 84-69 à 84-70
+84-69 à 84-70
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 84-72
+84-72
 
-DESIGNATION DES PRODUITS Autres machines et appareils de bureau (duplicateurs
-hectographiques ou à stencils, machines à imprimer les adresses, distributeurs
-automatiques de billets de banque, machines à trier, à compter ou à encartoucher
-les pièces de monnaie, appareils à tailler les crayons, appareils à perforer ou
-à agrafer, par exemple).
+Autres machines et appareils de bureau (duplicateurs hectographiques ou à
+stencils, machines à imprimer les adresses, distributeurs automatiques de
+billets de banque, machines à trier, à compter ou à encartoucher les pièces de
+monnaie, appareils à tailler les crayons, appareils à perforer ou à agrafer, par
+exemple).
 
-NUMERO DU TARIF des droits de douane d'importation Ex 84-73
 
-DESIGNATION DES PRODUITS Parties et accessoires (autres que les coffrets,
-housses et similaires) reconnaissables comme étant exclusivement ou
-principalement destinés aux machines ou appareils des n°s 84-69,
+Ex 84-73
 
-84-70, 84-72.
+Parties et accessoires (autres que les coffrets, housses et similaires)
+reconnaissables comme étant exclusivement ou principalement destinés aux
+machines ou appareils des n° s 84-69,84-70,84-72.
 
-NUMERO DU TARIF des droits de douane d'importation 84-76
+84-76
 
-DESIGNATION DES PRODUITS Machines automatiques de vente de produits
-(timbres-poste, cigarettes, denrées alimentaires, boissons, par exemple), y
-compris les machines pour changer la monnaie.
+Machines automatiques de vente de produits (timbres-poste, cigarettes, denrées
+alimentaires, boissons, par exemple), y compris les machines pour changer la
+monnaie.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 85-02
 
-DESIGNATION DES PRODUITS Groupes électrogènes.
+Ex 85-02
 
-NUMERO DU TARIF des droits de douane d'importation 85-09
+Groupes électrogènes.
 
-DESIGNATION DES PRODUITS Appareils électromécaniques à moteur électrique
-incorporé, à usage domestique.
+85-09
 
-NUMERO DU TARIF des droits de douane d'importation 85-16
+Appareils électromécaniques à moteur électrique incorporé, à usage domestique.
 
-DESIGNATION DES PRODUITS Chauffe-eau et thermoplongeurs électriques ; appareils
-électriques pour le chauffage des locaux, du sol ou pour usages similaires ;
-appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser,
+85-16
+
+Chauffe-eau et thermoplongeurs électriques ; appareils électriques pour le
+chauffage des locaux, du sol ou pour usages similaires ; appareils
+électrothermiques pour la coiffure (sèche-cheveux, appareils à friser,
 chauffe-fers à friser, par exemple) ou pour sécher les mains ; fers à repasser
 électriques ; autres appareils électrothermiques pour usages domestiques,
 résistances chauffantes, autres que celles du n° 85-45.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 85-17
 
-DESIGNATION DES PRODUITS Appareils électriques pour la téléphonie ou la
-télégraphie par fil, à l'exception des appareils de télécommunication par
-courant porteur. NUMERO DU TARIF des droits de douane d'importation 85-18 à
-85-20
+Ex 85-17
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Appareils électriques pour la téléphonie ou la télégraphie par fil, à
+l'exception des appareils de télécommunication par courant porteur.
 
-NUMERO DU TARIF des droits de douane d'importation 85-27
+85-18 à 85-20
 
-DESIGNATION DES PRODUITS Appareils récepteurs pour la radiotéléphonie, la
-radiotélégraphie ou la radiodiffusion, même combinés, sous une même enveloppe, à
-un appareil d'enregistrement ou de reproduction du son ou à un appareil
-d'horlogerie.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 85-29
+85-27
 
-DESIGNATION DES PRODUITS Parties reconnaissables comme étant exclusivement ou
-principalement destinées aux appareils du n° 85-27.
+Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la
+radiodiffusion, même combinés, sous une même enveloppe, à un appareil
+d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 87-03
 
-DESIGNATION DES PRODUITS Voitures de tourisme et autres véhicules automobiles
-principalement conçus pour le transport de personnes (autres que ceux du n°
-87-02) y compris les voitures du type "break", comportant un minimum de sept
-places assises.
+Ex 85-29
 
-NUMERO DU TARIF des droits de douane d'importation 87-15
+Parties reconnaissables comme étant exclusivement ou principalement destinées
+aux appareils du n° 85-27.
 
-DESIGNATION DES PRODUITS Landaus, poussettes et voitures similaires pour le
-transport des enfants et leurs parties.
 
-NUMERO DU TARIF des droits de douane d'importation 87-16-80
+Ex 87-03
+
+Voitures de tourisme et autres véhicules automobiles principalement conçus pour
+le transport de personnes (autres que ceux du n° 87-02) y compris les voitures
+du type " break ", comportant un minimum de sept places assises.
+
+87-15
+
+Landaus, poussettes et voitures similaires pour le transport des enfants et
+leurs parties.
+
+87-16-80
 
 
 Ex 87-16-90
 
-DESIGNATION DES PRODUITS Autres véhicules non automobiles et leurs parties.
+Autres véhicules non automobiles et leurs parties.
 
-NUMERO DU TARIF des droits de douane d'importation 89-01
+89-01
 
-DESIGNATION DES PRODUITS Paquebots, bateaux de croisières, transbordeurs,
-cargos, péniches et bateaux similaires pour le transport de personnes et de
-marchandises.
+Paquebots, bateaux de croisières, transbordeurs, cargos, péniches et bateaux
+similaires pour le transport de personnes et de marchandises.
 
-NUMERO DU TARIF des droits de douane d'importation 89-03
+89-03
 
-DESIGNATION DES PRODUITS Yachts et autres bateaux et embarcations de plaisance
-ou de sport ; bateaux à rames et canoës.
+Yachts et autres bateaux et embarcations de plaisance ou de sport ; bateaux à
+rames et canoës.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 89-06
 
-DESIGNATION DES PRODUITS Bateaux de sauvetage.
+Ex 89-06
 
-NUMERO DU TARIF des droits de douane d'importation 91-05 à 91-06
+Bateaux de sauvetage.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
-
-NUMERO DU TARIF des droits de douane d'importation 92-01
-
-DESIGNATION DES PRODUITS Pianos, même automatiques ; clavecins et autres
-instruments à cordes à clavier.
-
-NUMERO DU TARIF des droits de douane d'importation 92-07
-
-DESIGNATION DES PRODUITS Instruments de musique dont le son est produit ou doit
-être amplifié par des moyens électriques (orgues, guitares, accordéons par
-exemple).
-
-NUMERO DU TARIF des droits de douane d'importation 94-01 à 94-05
+91-05 à 91-06
 
 Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 95-04
+92-01
 
-DESIGNATION DES PRODUITS Articles pour jeux de société, y compris les jeux à
-moteur ou à mouvement, les billards, les tables spéciales pour jeux de casino et
-les jeux de quilles automatiques (bowling par exemple).
+Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier.
 
-NUMERO DU TARIF des droits de douane d'importation 95-06-40
+92-07
 
-DESIGNATION DES PRODUITS Articles et matériel pour le tennis de table.
+Instruments de musique dont le son est produit ou doit être amplifié par des
+moyens électriques (orgues, guitares, accordéons par exemple).
 
-NUMERO DU TARIF des droits de douane d'importation 96-17
+94-01 à 94-05
 
-DESIGNATION DES PRODUITS Bouteilles isolantes et autres récipients isothermiques
-montés, dont l'isolation est assurée par le vide, ainsi que leurs parties (à
-l'exclusion des ampoules en verre).
+Tous produits de ces positions.
+
+95-04
+
+Articles pour jeux de société, y compris les jeux à moteur ou à mouvement, les
+billards, les tables spéciales pour jeux de casino et les jeux de quilles
+automatiques (bowling par exemple).
+
+95-06-40
+
+Articles et matériel pour le tennis de table.
+
+96-17
+
+Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation
+est assurée par le vide, ainsi que leurs parties (à l'exclusion des ampoules en
+verre).
 
 2. L'exonération dont sont susceptibles de bénéficier les voitures pour le
 transport des personnes comportant un minimum de sept places assises, reprises
@@ -484,6 +497,6 @@ importés.
 
 Cette attestation devra porter l'engagement, pour le cas où les produits ne
 recevraient pas l'affectation justifiant l'exonération de la taxe sur la valeur
-ajoutée, d'acquitter à la recette des impôts, la taxe devenue exigible, sans
-préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1785 B à 1786
-du code général des impôts.
+ajoutée, d'acquitter au service des impôts, la taxe devenue exigible, sans
+préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du
+code général des impôts.

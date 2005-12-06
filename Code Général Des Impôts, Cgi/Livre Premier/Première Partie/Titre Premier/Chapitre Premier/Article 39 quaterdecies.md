@@ -46,9 +46,8 @@ terme par le rapport entre le prix de cession affecté à l'acquisition du navir
 et la totalité de ce prix. Dans ce cas, la régularisation à effectuer est
 comprise dans le résultat imposable de l'exercice en cours à l'expiration du
 délai de dix-huit mois fixé au premier alinéa, majorée d'un montant égal au
-produit de cette régularisation par le taux de l'intérêt de retard prévu au
-troisième alinéa de l'article 1727 et appliqué dans les conditions mentionnées à
-l'article 1727 A.
+produit de cette régularisation par le taux de l'intérêt de retard prévu à
+l'article 1727.
 
 Lorsque l'entreprise visée au premier alinéa est une société soumise au régime
 d'imposition prévu à l'article 8, la condition tenant à la nature de l'activité

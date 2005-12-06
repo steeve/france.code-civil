@@ -10,8 +10,7 @@ En cas de cession de tout ou partie des titres souscrits dans les cinq ans de
 leur acquisition, le montant de l'amortissement exceptionnel est réintégré au
 bénéfice imposable de l'exercice au cours duquel intervient la cession et majoré
 d'une somme égale au produit de ce montant par le taux de l'intérêt de retard
-prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions
-mentionnées à l'article 1727 A.
+prévu à l'article 1727.
 
 Un décret fixe les modalités d'application, notamment les obligations
 déclaratives.

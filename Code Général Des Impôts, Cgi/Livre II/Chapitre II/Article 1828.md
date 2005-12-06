@@ -1,7 +1,6 @@
 Article 1828
 ----
-Dans le cas visé à l'article 1827, quiconque a été convaincu de s'être, d'une
-façon quelconque, rendu complice de manoeuvres destinées à éluder le paiement de
-l'impôt est personnellement passible, indépendamment de sanctions disciplinaires
-s'il est officier public ou ministériel, d'une amende égale à 50 % de la somme
-dont le Trésor a été frustré.
+Dans le cas prévu au II de l'article 1723 quater d'une construction sans
+autorisation ou en infraction aux obligations résultant de l'autorisation, le
+constructeur est tenu d'acquitter, outre la taxe locale d'équipement ou le
+complément de taxe exigible, une amende d'égal montant.

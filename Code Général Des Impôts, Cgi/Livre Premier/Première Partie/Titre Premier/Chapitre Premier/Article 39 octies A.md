@@ -44,7 +44,7 @@ sont réalisés pour des activités bancaires, financières, d'assurances et des
 activités définies à l'article 35.
 
 Lorsque l'implantation est réalisée dans un Etat qui est mentionné sur la liste
-établie par un arrêté du ministre chargé des finances , la provision peut être
+établie par un arrêté du ministre chargé des finances, la provision peut être
 égale au montant de l'investissement.
 
 Les dispositions du présent I bis ne sont plus applicables aux investissements
@@ -132,4 +132,5 @@ laquelle celle-ci se trouve elle-même associée.
 
 En cas de non-respect par l'entreprise française ou par l'établissement de
 crédit des engagements ou conditions auxquels l'agrément est subordonné, les
-dispositions de l'article 1756 sont applicables à l'établissement de crédit.
+dispositions de l'article 1649 nonies A sont applicables à l'établissement de
+crédit.

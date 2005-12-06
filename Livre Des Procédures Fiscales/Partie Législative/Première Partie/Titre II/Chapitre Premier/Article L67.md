@@ -2,8 +2,8 @@ Article L67
 ----
 La procédure de taxation d'office prévue aux 1° et 4° de l'article L. 66 n'est
 applicable que si le contribuable n'a pas régularisé sa situation dans les
-trente jours de la notification d'une première mise en demeure. Toutefois, le
-délai de régularisation est fixé à quatre-vingt-dix jours pour la présentation à
+trente jours de la notification d'une mise en demeure. Toutefois, le délai de
+régularisation est fixé à quatre-vingt-dix jours pour la présentation à
 l'enregistrement de la déclaration mentionnée à l'article 641 du code général
 des impôts.
 

@@ -8,8 +8,9 @@ visée au 1° du I de l'article 298 bis est versé lors du dépôt de celle-ci. 
 estime que les acomptes déjà payés au titre de l'année ou de l'exercice
 atteignent le montant de l'impôt dont il sera finalement redevable, l'exploitant
 peut surseoir au paiement des acomptes suivants. Si le montant de l'impôt est
-supérieur de plus de 30 % au montant des acomptes versés, l'intérêt de retard et
-la majoration prévus par l'article 1731 sont applicables.
+supérieur de plus de 30 % au montant des acomptes versés, l'intérêt de retard
+prévu à l'article 1727 et la majoration prévue par l'article 1731 sont
+applicables.
 
 La taxe est également exigible au vu de la déclaration prévue à la dernière
 phrase du 1° du I de l'article 298 bis et est versée lors du dépôt de celle-ci,

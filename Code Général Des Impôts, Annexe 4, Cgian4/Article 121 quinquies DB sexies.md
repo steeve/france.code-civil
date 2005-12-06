@@ -27,28 +27,28 @@ moins 15 000 habitants ;
 
 Dix emplois au moins dans les autres communes.
 
-Dans toutes zones où s'applique l'exonération temporaire, les opérations de
+Dans toutes les zones où s'applique l'exonération temporaire, les opérations de
 reprise doivent permettre le maintien de l'effectif permanent au niveau justifié
-par le plan de redressement de l'entreprise. Si l'effectif initial n'est pas
-maintenu, l'exonération peut être limitée à une fraction de la valeur locative
-des installations. En cas de reconversion, l'effectif doit être au moins
-maintenu.
+par les plans de sauvegarde ou de redressement de l'entreprise. Si l'effectif
+initial n'est pas maintenu, l'exonération peut être limitée à une fraction de la
+valeur locative des installations. En cas de reconversion, l'effectif doit être
+au moins maintenu.
 
 Les conditions d'emploi ci-dessus définies doivent être remplies durant toute la
 période d'exonération à peine de retrait de l'agrément dans les conditions
-prévues à l'article 1756 du code général des impôts ;
+prévues à l'article 1649 nonies A du code général des impôts ;
 
 2° En cas de création ou de décentralisation de services de direction, d'études,
 d'ingénierie et d'informatique, création d'au moins vingt emplois ; en cas
-d'exonération de ces mêmes services, création d'au moins dix emplois
+d'extention de ces mêmes services, création d'au moins dix emplois
 supplémentaires, l'effectif total de l'établissement devant alors atteindre au
 moins vingt emplois. L'extension doit en outre entraîner une progression d'au
-moins 25 p. 100 de l'effectif total de l'établissement, sauf s'il est créé au
-moins cinquante emplois supplémentaires.
+moins 25 % de l'effectif total de l'établissement, sauf s'il est créé au moins
+cinquante emplois supplémentaires.
 
 La création d'un nombre d'emplois permanents supérieur aux minima fixés
 ci-dessus peut être exigée en raison du montant des investissements envisagés.
 
-Les dispositions des articles 322 I à 322 L de l'annexe II au code général des
+Les dispositions des articles 322 I à 322 L de l'annexe III au code général des
 impôts sont applicables aux créations, extensions et décentralisations de
 services de direction, d'études, d'ingénierie et d'informatique.

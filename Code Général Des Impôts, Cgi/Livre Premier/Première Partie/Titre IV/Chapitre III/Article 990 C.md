@@ -5,4 +5,4 @@ intérêts (1).
 
 Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
 sanctions que celui mentionné à l'article 125 A. Les dispositions des articles
-242 ter (2), 1764 et du 1 de l'article 1768 bis lui sont applicables.
+242 ter et des 1 et 2 du I de l'article 1736 lui sont applicables.

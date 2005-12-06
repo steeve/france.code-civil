@@ -2,7 +2,7 @@ Article 134
 ----
 1. L'agrément prévu à l'article 113 peut être retiré, ou les sociétés qui l'ont
 obtenu peuvent en être déchues, par application des dispositions de l'article
-1756 du code général des impôts (1).
+1649 nonies A du code général des impôts.
 
 Il peut, bien que les engagements en vue de l'obtenir aient été remplis ou que
 les conditions mises à son octroi aient été respectées, être retiré notamment
@@ -32,6 +32,3 @@ consultation du comité consultatif dont la composition est prévue à l'article
 1653 C du code général des impôts. La société agréée est au préalable informée
 des faits qui lui sont reprochés et peut fournir toute justification à leur
 égard.
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier
-1992.

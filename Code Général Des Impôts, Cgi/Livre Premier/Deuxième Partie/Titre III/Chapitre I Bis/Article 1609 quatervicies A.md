@@ -75,7 +75,8 @@ l'article 302 bis K.
 d'office. Le montant de la taxe établie d'office résulte du produit de la taxe
 relative au décollage de l'aéronef le plus fortement taxable du redevable par le
 nombre de décollages relevés sur le mois ou le trimestre. Les droits sont
-assortis des pénalités prévues à l'article 1728.
+assortis de l'intérêt de retard prévu à l'article 1727 et de la majoration
+prévue au 1 de l'article 1728.
 
 Les éléments nécessaires à l'établissement de cette taxation sont communiqués
 par l'autorité responsable de la circulation aérienne. Les bases servant au

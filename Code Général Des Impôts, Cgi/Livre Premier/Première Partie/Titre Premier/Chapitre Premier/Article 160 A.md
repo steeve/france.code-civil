@@ -21,9 +21,11 @@ intéressés, être reportée au moment de la cession des droits sociaux reçus 
 rémunération de l'apport.
 
 III. Les dispositions des I et II s'appliquent aux rachats d'entreprises
-réalisées dans les conditions prévues à l'article 220 quater A (1). Lorsque le
+réalisées dans les conditions prévues à l'article 220 quater A. Lorsque le
 rachat a été soumis à l'accord du ministre chargé des finances, prévu à
 l'article 220 quater B, le bénéfice de ces dispositions est subordonné à cet
 accord.
 
-(1) Voir également l'article 1740 quinquies.
+IV.-Les avantages prévus au III ne sont plus applicables à compter de l'année au
+cours de laquelle l'une des conditions prévues à l'article 220 quater A cesse
+d'être satisfaite.

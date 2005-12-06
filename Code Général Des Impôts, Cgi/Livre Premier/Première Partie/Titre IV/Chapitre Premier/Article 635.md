@@ -50,6 +50,3 @@ prépondérance immobilière au sens du quatrième alinéa du 2° du I de l'arti
 726 ;
 
 8° 9° (Abrogés) ;
-
-10° Les actes portant cession et rachat taxables de parts de fonds de placement
-immobilier.

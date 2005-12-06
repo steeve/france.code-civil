@@ -38,4 +38,4 @@ la perception incombe aux comptables de la direction générale des impôts.
 
 3. Le ministre de l'économie et des finances fixe les conditions dans lesquelles
 des remises ou modérations de frais de poursuites et de majorations appliquées
-au titre des articles 1761 et 1762 pourront être accordées à titre gracieux.
+au titre de l'article 1730 pourront être accordées à titre gracieux.

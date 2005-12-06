@@ -1,7 +1,7 @@
 Article 1671 A
 ----
 Les retenues prévues aux articles 182 A et 182 B sont opérées par le débiteur
-des sommes versées et remises au service des impôts accompagnées d'une
+des sommes versées et remises à la recette des impôts accompagnées d'une
 déclaration conforme au modèle fixé par l'administration, au plus tard le 15 du
 mois suivant celui du paiement. Les dispositions des articles 1771 et 1926 sont
 applicables à ces retenues.

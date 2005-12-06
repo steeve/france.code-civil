@@ -19,4 +19,5 @@ nature et de la procédure d'enquête prévue à l'article L. 80 F. Elles peuven
 être invoquées lorsqu'est demandée la mise en oeuvre des procédures de visite et
 de saisie mentionnées aux articles L. 16 B et L. 38. La mise en oeuvre du droit
 d'enquête ne peut donner lieu à l'application d'amendes hormis celles prévues
-aux articles 1725 A, 1740 ter et 1740 ter A du code général des impôts.
+aux 1 et 3 du I et au II de l'article 1737 et à l'article 1788 B du code général
+des impôts.

@@ -1,6 +1,6 @@
 Article 1840 F
 ----
-Le prétendu créancier qui a faussement attesté l'existence d'une dette dont la
-déduction est demandée pour la perception des droits de mutation par décès est
-tenu, solidairement avec le déclarant, au paiement de l'intérêt de retard et de
-la majoration prévus à l'article 1729.
+Lorsqu'ils ont négligé de faire, dans les délais prescrits, les déclarations des
+biens transmis par décès aux héritiers, donataires ou légataires, les tuteurs et
+curateurs supportent personnellement les peines prévues à l'article 1728 et au 1
+de l'article 1729 B.

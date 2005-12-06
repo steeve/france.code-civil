@@ -28,6 +28,10 @@ II. Les dispositions du II de l'article 83 ter sont applicables.
 III. Le bénéfice de la réduction d'impôt est subordonné au respect des
 conditions énumérées au III de l'article 83 ter.
 
+Les avantages prévus au I cessent de s'appliquer à compter de l'année au cours
+de laquelle l'une des conditions fixées au présent article et à l'article 83 ter
+n'est plus satisfaite.
+
 IV. En cas de cession d'actions ou de parts dans les conditions mentionnées au
 IV de l'article 83 ter, le total des réductions d'impôt obtenues antérieurement
 en application du présent article fait l'objet d'une reprise l'année de la
@@ -38,7 +42,4 @@ bénéfice d'une autre déduction du revenu, d'une réduction ou d'un crédit d'
 ne peuvent bénéficier de l'avantage prévu au 1 du I.
 
 VI. Les dispositions des VI et VII de l'article 83 ter s'appliquent au présent
-article (1).
-
-(1) En ce qui concerne les conditions d'application de l'article 199 terdecies
-A, voir les articles 46 AM à 46 AO de l'annexe III.
+article.

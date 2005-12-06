@@ -12,7 +12,5 @@ Les exploitants d'un service de télévision qui estiment que les acomptes déj�
 payés au titre de l'année atteignent le montant de la taxe dont ils seront en
 définitive redevables peuvent surseoir aux paiements des acomptes suivants. Si
 le montant de la taxe est supérieur de plus de 20 % au montant des acomptes
-versés, l'intérêt de retard et la majoration prévus à l'article 1731 sont
-applicables.
-
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1998.
+versés, l'intérêt de retard prévu à l'article 1727 et la majoration prévue à
+l'article 1731 sont applicables.

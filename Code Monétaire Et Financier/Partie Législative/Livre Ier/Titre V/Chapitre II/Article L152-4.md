@@ -29,5 +29,5 @@ III. - La recherche, la constatation et la poursuite des infractions mentionnée
 au I sont effectuées dans les conditions fixées par le code des douanes.
 
 Dans le cas où l'amende prévue au I est infligée, la majoration de 40 %
-mentionnée au premier alinéa de l'article 1759 du code général des impôts n'est
+mentionnée au premier alinéa de l'article 1758 du code général des impôts n'est
 pas appliquée.

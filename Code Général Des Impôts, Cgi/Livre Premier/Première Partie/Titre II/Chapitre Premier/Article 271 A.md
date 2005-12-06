@@ -88,9 +88,9 @@ d'affaires au titre de la période de référence ou qui n'ont pas déposé le
 document prévu au premier alinéa ne peuvent bénéficier de la créance prévue au 3
 qu'après que leur situation a été régularisée.
 
-5. Lorsque le montant de la déduction de référence n'excède pas 10 000 F (1),
-les redevables qui sont placés sous le régime réel normal d'imposition de la
-taxe sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de
+5. Lorsque le montant de la déduction de référence n'excède pas 10 000 F, les
+redevables qui sont placés sous le régime réel normal d'imposition de la taxe
+sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de
 référence dans les conditions prévues au 1. Ces redevables adressent cependant
 au service des impôts dont ils relèvent le document prévu au 4.
 
@@ -128,7 +128,7 @@ référence, sans modifier le montant de la créance prévue au 3.
 
 1° Lorsque le montant de la déduction de référence soustraite de la taxe
 déductible par le redevable est inférieur au montant qu'il aurait dû retenir,
-les rappels, assortis des pénalités prévues à l'article 1729, sont de montant
+les rappels, assortis des majorations prévues à l'article 1729, sont de montant
 égal à l'insuffisance constatée.
 
 Une pénalité supplémentaire s'élevant à 40 % de cette minoration est appliquée.
@@ -141,15 +141,15 @@ déductible de la période de référence.
 montant qui aurait dû être retenu, un dégrèvement d'un montant égal à la
 différence constatée est prononcé.
 
-3° En cas de taxation d'office de la déduction de référence, les pénalités
-prévues à l'article 1728 s'appliquent sur son montant.
+3° En cas de taxation d'office de la déduction de référence, la majoration
+prévue au 1 de l'article 1728 s'appliquent sur son montant.
 
 4° Lorsque la créance est supérieure à la déduction de référence qui doit être
 soustraite de la taxe déductible, le rappel est égal à l'excédent constaté.
 
-Les pénalités prévues à l'article 1729 sont applicables, sauf dans le cas où le
-rappel résulte de la rectification, opérée à l'initiative de l'administration,
-du montant de la taxe déductible de la période de référence.
+Les majorations prévues à l'article 1729 sont applicables, sauf dans le cas où
+le rappel résulte de la rectification, opérée à l'initiative de
+l'administration, du montant de la taxe déductible de la période de référence.
 
 5° Lorsque la créance est inférieure à la déduction de référence qui doit être
 soustraite de la taxe déductible, le dégrèvement de l'insuffisance constatée qui
@@ -165,5 +165,3 @@ peuvent être rectifiées du fait de la prescription.
 s'appliquent aux achats, acquisitions intracommunautaires, importations,
 livraisons de biens et services pour lesquels le droit à déduction a pris
 naissance après le 30 juin 1993.
-
-(1) Montant périmé au 1er janvier 2002.

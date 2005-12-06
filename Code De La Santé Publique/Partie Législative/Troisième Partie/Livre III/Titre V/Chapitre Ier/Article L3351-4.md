@@ -1,8 +1,7 @@
 Article L3351-4
 ----
-Sans préjudice des interdictions mentionnées à l'article 1768 du code général
-des impôts, le fait de passer outre les interdictions énoncées à l'article L.
-3322-5 est puni de six mois d'emprisonnement et de 3750 euros d'amende.
+Le fait de passer outre les interdictions énoncées à l'article L. 3322-5 est
+puni de six mois d'emprisonnement et de 3 750 euros d'amende.
 
 En outre, le tribunal prononce la confiscation des marchandises et des moyens de
 transport et la fermeture définitive de l'établissement.

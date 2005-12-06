@@ -34,8 +34,7 @@ C. Le solde des taxes est prélevé en novembre à concurrence du montant de l'u
 des prélèvements visé au B. Le complément éventuel est prélevé en décembre.
 
 Toutefois, si les taxes sont mises en recouvrement après le 31 octobre, le solde
-est acquitté dans les conditions fixées par les articles 1663, 1761 et le II de
-l'article 1762 quater.
+est acquitté dans les conditions fixées par les articles 1663 et 1730.
 
 D. Il est mis fin aux prélèvements mensuels dès qu'ils ont atteint le montant
 des taxes mises en recouvrement. Le trop-perçu qui apparaît éventuellement lors

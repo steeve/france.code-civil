@@ -1,10 +1,10 @@
 Article 1732
 ----
-Lorsqu'un contribuable fait connaître, par une indication expresse portée sur la
-déclaration ou l'acte, ou dans une note y annexée, les motifs de droit ou de
-fait pour lesquels il ne mentionne pas certains éléments d'imposition en
-totalité ou en partie, ou donne à ces éléments une qualification qui
-entraînerait, si elle était fondée, une taxation atténuée, ou fait état de
-déductions qui sont ultérieurement reconnues injustifiées, les rectifications
-opérées à ces titres n'entraînent pas l'application de l'intérêt de retard visé
-à l'article 1727.
+La mise en oeuvre de la procédure d'évaluation d'office prévue à l'article L. 74
+du livre des procédures fiscales entraîne :
+
+a. L'application d'une majoration de 100 % aux droits rappelés ou aux créances
+de nature fiscale qui doivent être restituées à l'Etat ;
+
+b. L'interdiction de participer aux travaux des commissions instituées par les
+articles 1650 à 1652 bis et 1653 A.

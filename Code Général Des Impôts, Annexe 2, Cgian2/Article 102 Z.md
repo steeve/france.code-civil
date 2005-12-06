@@ -69,5 +69,5 @@ II. Toutefois, les entreprises ou les personnes morales, passibles de l'impôt
 sur les sociétés, qui estiment relever des dispositions du II ou du II bis de
 l'article 209 B du code général des impôts peuvent se limiter à indiquer dans
 leur déclaration les renseignements mentionnés aux a à e du I du présent
-article. La production de cette liste vaut indication expresse au sens de
-l'article 1732 du même code.
+article. La production de cette liste vaut indication expresse au sens du 2 du
+II de l'article 1727 du même code.

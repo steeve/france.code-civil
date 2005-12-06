@@ -9,5 +9,5 @@ la date de prise en charge des titres par le comptable constitue le point de
 départ pour l'application de la date limite de paiement.
 
 Lorsque la redevance n'a pas été réglée à la date limite de paiement, elle fait
-l'objet de la majoration de 10 % prévue à l'article 1761 du code général des
+l'objet de la majoration de 10 % prévue à l'article 1730 du code général des
 impôts. Une lettre de rappel est adressée au redevable.
