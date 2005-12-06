@@ -45,8 +45,8 @@ cet effet, les bases d'imposition sont arrêtées d'office.
 
 3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent
 leur activité en cours d'année sont tenus de faire parvenir à l'administration,
-dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration et
-l'état mentionnés au 3 de l'article 50-0.
+dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration
+prévue au 3 de l'article 50-0.
 
 4. Les dispositions du présent article sont applicables dans le cas de décès de
 l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les

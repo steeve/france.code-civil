@@ -1,17 +1,6 @@
 Article 227 bis
 ----
-Cet article reproduit les dispositions de l'article L. 118-3-2 du code du
-travail :
-
-"Les employeurs relevant du secteur des banques et des assurances où existaient,
-avant le 1er janvier 1977 des centres de formation qui leur étaient propres,
-peuvent s'exonérer de la fraction de taxe d'apprentissage prévue à l'article L.
-118-3, en apportant, par l'intermédiaire d'un des organismes collecteurs
-mentionnés à l'article L. 118-2-4, des concours financiers à ces centres s'ils
-s'engagent à faire donner à leurs salariés entrant dans la vie professionnelle
-et âgés de vingt ans au plus une formation générale théorique et pratique, en
-vue de l'obtention d'une qualification professionnelle sanctionnée par un des
-diplômes de l'enseignement technologique.
-
-Les conditions de cette formation seront précisées par décret en Conseil
-d'Etat."
+Les conditions d'exonération d'une fraction de la taxe d'apprentissage dont
+bénéficient les employeurs relevant du secteur des banques et des assurances où
+existaient, avant le 1er janvier 1977 des centres de formation qui leur étaient
+propres sont fixées à l'article L. 118-3-2 du code du travail.

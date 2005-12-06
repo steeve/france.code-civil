@@ -65,9 +65,7 @@ g. Les opérations visées au 8° du I de l'article 35.
 
 3. Les contribuables concernés portent directement le montant du chiffre
 d'affaires annuel et des plus ou moins-values réalisées ou subies au cours de
-cette même année sur la déclaration prévue à l'article 170. Ils joignent à cette
-déclaration un état conforme au modèle fourni par l'administration. Un décret en
-Conseil d'Etat précise le contenu de cet état.
+cette même année sur la déclaration prévue à l'article 170.
 
 4. Les entreprises placées dans le champ d'application du présent article ou
 soumises au titre de l'année 1998 à un régime forfaitaire d'imposition peuvent
@@ -81,9 +79,9 @@ l'année précédant celle au cours de laquelle elle est exercée. En cas de
 création, l'option peut être exercée sur la déclaration visée au 1° du I de
 l'article 286.
 
-Les options mentionnées au premier alinéa sont valables deux ans (1) tant que
+Les options mentionnées au premier alinéa sont valables deux ans tant que
 l'entreprise reste de manière continue dans le champ d'application du présent
-article. Elles sont reconduites tacitement par période de deux ans (1). Les
+article. Elles sont reconduites tacitement par période de deux ans. Les
 entreprises qui désirent renoncer à leur option pour un régime réel d'imposition
 doivent notifier leur choix à l'administration avant le 1er février de l'année
 suivant la période pour laquelle l'option a été exercée ou reconduite
@@ -94,6 +92,3 @@ présenter, sur demande de l'administration, un registre récapitulé par année
 présentant le détail de leurs achats et un livre-journal servi au jour le jour
 et présentant le détail de leurs recettes professionnelles, appuyés des factures
 et de toutes autres pièces justificatives.
-
-(1) Ces dispositions s'appliquent aux options exercées à compter du 1er janvier
-2002 et aux options en cours à cette date.

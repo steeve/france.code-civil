@@ -5,7 +5,5 @@ départements du Bas-Rhin, du Haut-Rhin et de la Moselle, quel que soit le sièg
 du principal établissement de l'entreprise (1).
 
 Toutefois, le taux de la taxe est réduit au pourcentage fixé par le décret prévu
-à l'article L. 119-4 du code du travail et le redevable ne peut être exonéré sur
-sa demande qu'à concurrence des versements prévus à l'article 226 bis.
-
-(1) Voir Annexe II, art. 140 N.
+à l'article L. 119-4 du code du travail et le redevable ne peut être exonéré
+qu'à concurrence des versements prévus à l'article 226 bis (2).

@@ -45,9 +45,9 @@ préalablement à toute opération.
 
 Sont exemptés des dispositions ci-dessus :
 
-1° Les objets d'or ou contenant de l'or, d'argent et de platine appartenant aux
-ambassadeurs et envoyés des puissances étrangères;
+1° Les objets d'or, d'argent et de platine appartenant aux ambassadeurs et
+envoyés des puissances étrangères ;
 
-2° Les bijoux d'or ou contenant de l'or et de platine, à l'usage personnel des
-voyageurs, et les ouvrages en argent servant également à leur personne, pourvu
-que leur poids n'excède pas en totalité 5 hectogrammes.
+2° Les bijoux d'or et de platine, à l'usage personnel des voyageurs, et les
+ouvrages en argent servant également à leur personne, pourvu que leur poids
+n'excède pas en totalité 5 hectogrammes.
