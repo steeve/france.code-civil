@@ -1,45 +1,34 @@
 Article R119-6
 ----
-I. - Le montant, les éléments et les conditions de versement de l'indemnité
-compensatrice forfaitaire mise à la charge de la région ou de la collectivité
-territoriale de Corse par les articles L. 214-12 du code de l'éducation et L.
-4424-34 du code général des collectivités territoriales sont fixés par la région
-ou la collectivité territoriale de Corse après avis du comité de coordination
-régional de l'emploi et de la formation professionnelle, en tenant compte
-notamment de l'ensemble de l'effort de l'employeur dans le domaine de
-l'apprentissage, de la durée de la formation et des objectifs de développement
-de la formation professionnelle des jeunes sur le territoire de la région ou de
-la collectivité territoriale de Corse.
+I. - Le versement de l'indemnité compensatrice forfaitaire, prévue par l'article
+L. 118-7, est à la charge de la région ou de la collectivité territoriale de
+Corse dans le ressort de laquelle est situé l'établissement du lieu de travail
+de l'apprenti.
 
-L'indemnité compensatrice forfaitaire est, pour chaque année du cycle de
-formation, d'un montant minimal de 1 000 Euros et d'un montant maximal de 5 000
-Euros.
-
-II. - Le versement de l'indemnité compensatrice, liée à la conclusion d'un
-contrat d'apprentissage par une entreprise ou un établissement d'une entreprise,
-est à la charge de la région ou de la collectivité territoriale de Corse dans le
-ressort de laquelle est situé l'établissement du lieu de travail.
-
-Ladite indemnité n'est versée à l'employeur de l'apprenti qu'à la condition que
-l'embauche de l'apprenti soit confirmée à l'issue des deux premiers mois de
-l'apprentissage.
-
-Ce versement cesse lorsque l'apprenti n'est plus salarié dans l'entreprise ou
-l'établissement qui l'a embauché.
+II. - Le montant minimal de l'indemnité est, pour chaque année du cycle de
+formation, fixé à 1 000 . Ce montant est proratisé en fonction de la durée du
+contrat lorsque celle-ci est inférieure à un an en application des dispositions
+de l'article L. 115-2.
 
 III. - L'employeur est tenu de reverser à la région ou à la collectivité
-territoriale de Corse l'intégralité des sommes perçues au titre de l'indemnité
-compensatrice dans les cas suivants :
+territoriale de Corse l'intégralité de l'indemnité perçue au titre du cycle de
+formation, dans les cas suivants :
 
-a) Rupture du contrat d'apprentissage, hors des cas prévus au quatrième alinéa
-de l'article L. 115-2 et à l'article L. 117-17 ;
-
-b) Résiliation du contrat d'apprentissage prononcé par le conseil des
-prud'hommes aux torts de l'employeur ;
-
-c) Décision d'opposition à l'engagement d'apprentis prise en application de
+1° Décision d'opposition à l'engagement d'apprentis prise en application de
 l'article L. 117-5 ;
 
-d) Rupture du contrat dans le cas prévu à l'article L. 117-5-1 ;
+2° Rupture du contrat dans le cas prévu à l'article L. 117-5-1 ;
 
-e) Violation des obligations prévues à l'article L. 117-7.
+3° Violation par l'employeur des obligations prévues à l'article L. 117-7 ;
+
+4° Rupture du contrat d'apprentissage à l'initiative de l'employeur, hors les
+cas prévus à l'article L. 117-17 ;
+
+5° Résiliation du contrat d'apprentissage prononcé par le conseil de prud'hommes
+aux torts de l'employeur en application de l'article L. 117-17.
+
+IV. - En cas de rupture du contrat d'apprentissage à l'initiative de l'apprenti,
+hors le cas prévu au deuxième alinéa de l'article L. 115-2, l'employeur est tenu
+de reverser à la région ou à la collectivité territoriale de Corse le montant de
+l'indemnité compensatrice forfaitaire calculé au prorata de la durée du contrat
+restant à courir.
