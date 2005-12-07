@@ -32,7 +32,14 @@ organismes désignés à cet effet ;
 et celui des caisses de base et d'assurer leur formation technique ;
 
 10° De créer tout service d'intérêt commun à l'ensemble des caisses de base ou à
-certaines d'entre elles.
+certaines d'entre elles ;
+
+11° De coordonner ses orientations en matière de recouvrement contentieux des
+cotisations et contributions sociales personnelles dues par les personnes
+exerçant les professions artisanales, industrielles et commerciales avec celles
+définies, pour leurs cotisations et contributions sociales dues en leur qualité
+d'employeur, au titre de leurs salariés, par l'Agence centrale des organismes de
+sécurité sociale en application du 2° bis de l'article L. 225-1-1.
 
 La Caisse nationale exerce, au titre des attributions énoncées ci-dessus, un
 pouvoir de contrôle sur les caisses de base.
