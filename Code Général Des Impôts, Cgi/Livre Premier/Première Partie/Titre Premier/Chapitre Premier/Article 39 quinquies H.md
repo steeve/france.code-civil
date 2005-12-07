@@ -15,21 +15,21 @@ sens de l'article 34 ;
 b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de
 l'extension d'une activité préexistante si elles remplissent les conditions du
 II du même article ou créées dans les conditions du I de l'article 44 septies
-et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une
+et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50% par une
 entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux
-exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 euros
-lorsque l'activité principale est de vendre des marchandises, objets,
-fournitures et denrées à emporter ou à consommer sur place ou de fournir le
-logement, ou 1 530 000 euros s'il s'agit d'autres entreprises ;
+exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 € lorsque
+l'activité principale est de vendre des marchandises, objets, fournitures et
+denrées à emporter ou à consommer sur place ou de fournir le logement, ou 1 530
+000 € s'il s'agit d'autres entreprises ;
 
 d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter du
 1er janvier 1996).
 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des
 travailleurs non salariés relevant des groupes de professions mentionnés au 1°
-de l'article L615-1 du code de la sécurité sociale et répondent aux conditions
+de l'article L. 613-1 du code de la sécurité sociale et répondent aux conditions
 définies aux b, et c sous réserve de leur adaptation par un décret en Conseil
 d'Etat.
 
@@ -52,9 +52,9 @@ ou reprise exerce une activité bancaire, financière, d'assurance, de gestion o
 de location d'immeubles.
 
 II. La provision spéciale constituée en franchise d'impôt est égale à la moitié
-des sommes effectivement versées au titre du prêt ou à 75 p. 100 du montant
-effectivement souscrit en capital ; elle ne peut excéder 46 000 euros pour un
-même salarié.
+des sommes effectivement versées au titre du prêt ou à 75% du montant
+effectivement souscrit en capital ; elle ne peut excéder 46 000 € pour un même
+salarié.
 
 Les sommes déduites du bénéfice d'un exercice, au titre de la provision
 spéciale, ne peuvent excéder 25 % du bénéfice net imposable de l'exercice
@@ -64,8 +64,8 @@ La provision est rapportée par tiers aux résultats imposables des exercices cl
 au cours des cinquième, sixième et septième années suivant celle de sa
 constitution. En tout état de cause, elle est réintégrée aux résultats
 imposables à hauteur de la fraction de son montant qui excède le total formé par
-la moitié du principal du prêt restant dû et 75 p. 100 du capital qui n'a pas
-été remboursé ou cédé.
+la moitié du principal du prêt restant dû et 75% du capital qui n'a pas été
+remboursé ou cédé.
 
 La provision éventuellement constituée pour faire face à la dépréciation des
 titres représentatifs des apports n'est admise en déduction des résultats
@@ -76,13 +76,13 @@ rapportées au résultat de l'entreprise.
 III. Peuvent également constituer, dans les conditions et selon les modalités
 prévues aux I et II, une provision spéciale en franchise d'impôt :
 
-a. les sociétés qui détiennent plus de 50 p. 100 du capital de la société qui
+a. les sociétés qui détiennent plus de 50% du capital de la société qui
 employait les créateurs de l'entreprise ou dont le capital est détenu pour plus
-de 50 p. 100 par cette société ;
+de 50% par cette société ;
 
-b. les sociétés dont le capital est détenu pour plus de 50 p. 100 par une
-société détenant plus de 50 p. 100 du capital de la société qui employait les
-créateurs de l'entreprise.
+b. les sociétés dont le capital est détenu pour plus de 50 % par une société
+détenant plus de 50% du capital de la société qui employait les créateurs de
+l'entreprise.
 
 IV. Un décret fixe les conditions d'application du présent article, notamment
-les obligations déclaratives (1).
+les obligations déclaratives.
