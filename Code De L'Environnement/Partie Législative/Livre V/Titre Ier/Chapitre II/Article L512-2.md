@@ -17,6 +17,5 @@ précédent. Il fixe, en outre, les conditions dans lesquelles il doit être
 procédé à une consultation des conseils généraux ou régionaux et les formes de
 cette consultation.
 
-Si un permis de construire a été demandé, il ne peut être accordé avant la
-clôture de l'enquête publique. Il ne peut être réputé accordé avant l'expiration
-d'un délai d'un mois suivant la date de clôture de l'enquête publique.
+Si un permis de construire a été demandé, il peut être accordé mais ne peut être
+exécuté avant la clôture de l'enquête publique.

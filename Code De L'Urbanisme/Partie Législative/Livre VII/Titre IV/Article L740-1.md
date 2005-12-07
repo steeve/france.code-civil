@@ -1,18 +1,7 @@
 Article L740-1
 ----
-Les articles L. 421-2-7, L. 421-4 et L. 421-5, L. 421-7 à L. 421-9, L. 443-1 à
-L. 443-3, L. 451-1 à L. 451-3 et L. 460-1 à L. 460-2 sont applicables à Mayotte
-sous réserve des dispositions ci-après.
-
-Pour l'application de l'article L. 421-2-7, les mots : "dans les conditions
-définies au b de l'article L. 421-2-2" sont remplacés par les mots : "après avis
-conforme du représentant de l'Etat à Mayotte lorsque la construction est située
-sur une partie du territoire communal non couverte par une carte communale, un
-plan d'occupation des sols ou un plan local d'urbanisme opposable aux tiers ou
-dans un périmètre où des mesures de sauvegarde prévues à l'article L. 111-7
-peuvent être appliquées, lorsque ce périmètre a été institué à l'initiative
-d'une personne autre que la commune".
-
-Pour l'application de l'article L. 421-8, les mots : "travaux de la nature de
-ceux visés à l'article L. 421-1" figurant au premier alinéa sont remplacés par
-les mots : "soumis au permis de construire".
+Les articles L. 410-1, L. 421-1 à L. 421-8, L. 422-1 à L. 422-7, L. 423-1, L.
+424-1 à L. 424-9, L. 425-1 à L. 425-3, L. 425-5, L. 425-7 à L. 425-10, L. 426-1,
+L. 431-1 à L. 434-1, L. 441-1 à L. 445-1, L. 451-1 à L. 452-1, L. 461-1 à L.
+463-1 et L. 471-1 à L. 471-3 sont applicables à Mayotte, sous réserve des
+dispositions ci-après.

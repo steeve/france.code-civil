@@ -8,7 +8,7 @@ collectifs, de lutter contre l'insalubrité, de permettre le renouvellement
 urbain, de sauvegarder ou de mettre en valeur le patrimoine bâti ou non bâti et
 les espaces naturels.
 
-L'aménagement, au sens du présent code, désigne l'ensemble des actes des
+L'aménagement, au sens du présent livre, désigne l'ensemble des actes des
 collectivités locales ou des établissements publics de coopération
 intercommunale qui visent, dans le cadre de leurs compétences, d'une part, à
 conduire ou à autoriser des actions ou des opérations définies dans l'alinéa

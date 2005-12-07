@@ -8,19 +8,20 @@ s'applique dans toutes les communes du département.
 Cette taxe est établie sur la construction, la reconstruction et
 l'agrandissement des bâtiments de toute nature, à l'exclusion de ceux qui sont
 définis par le 1° du I de l'article 1585 C et le II de l'article 1585 D, et sur
-les installations et travaux divers autorisés en application de l'article L.
-442-1 du code de l'urbanisme. Son taux est fixé par le conseil général. Il ne
-peut excéder 0,3 % de la valeur de l'ensemble immobilier déterminée conformément
-à l'article 1585 D.
+les aménagements soumis à permis d'aménager ou à déclaration préalable et
+mentionnés au quatorzième alinéa de l'article L. 142-2 du code de l'urbanisme.
+Son taux est fixé par le conseil général. Il ne peut excéder 0,3 % de la valeur
+de l'ensemble immobilier déterminée conformément à l'article 1585 D.
 
-Sur les installations et travaux divers autorisés en application de l'article L.
-442-1 du code de l'urbanisme, la taxe est établie selon les règles d'assiette,
-de taux et d'exemption définies à l'article L142-2 du code de l'urbanisme en
-matière de taxe départementale des espaces naturels sensibles. Le cumul des taux
-de la taxe départementale des espaces naturels sensibles et de la taxe
-départementale pour le financement des dépenses des conseils d'architecture,
-d'urbanisme et de l'environnement, appliqué aux installations et travaux divers,
-ne peut excéder la limite fixée à l'article précité.
+Sur les aménagements soumis à permis d'aménager ou à déclaration préalable et
+mentionnés au quatorzième alinéa de l'article L. 142-2 du code de l'urbanisme,
+la taxe est établie selon les règles d'assiette, de taux et d'exemption définies
+à l'article L142-2 du code de l'urbanisme en matière de taxe départementale des
+espaces naturels sensibles. Le cumul des taux de la taxe départementale des
+espaces naturels sensibles et de la taxe départementale pour le financement des
+dépenses des conseils d'architecture, d'urbanisme et de l'environnement,
+appliqué aux installations et travaux divers, ne peut excéder la limite fixée à
+l'article précité.
 
 La taxe est assise et recouvrée selon les mêmes modalités et sous les mêmes
 sanctions que la taxe locale d'équipement. Elle doit être payée au comptable du

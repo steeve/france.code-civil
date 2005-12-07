@@ -5,9 +5,9 @@ reconstruire l'immeuble existant, à charge de payer au locataire évincé
 l'indemnité d'éviction prévue à l'article L. 145-14.
 
 Il en est de même pour effectuer des travaux nécessitant l'évacuation des lieux
-compris dans un secteur ou périmètre prévu aux articles L. 313-3 et L. 313-4 du
-code de l'urbanisme et autorisés ou prescrits dans les conditions prévues audits
-articles.
+compris dans un secteur ou périmètre prévu aux articles L. 313-4 et L. 313-4-2
+du code de l'urbanisme et autorisés ou prescrits dans les conditions prévues
+audits articles.
 
 Toutefois, le bailleur peut se soustraire au paiement de cette indemnité en
 offrant au locataire évincé un local correspondant à ses besoins et

@@ -1,14 +1,9 @@
 Article L313-4-1
 ----
-L'autorité compétente pour délimiter le périmètre approuve, pour chaque bâtiment
-à restaurer, le programme des travaux à réaliser dans un délai qu'elle fixe.
-
-Le dossier de l'enquête publique prévue à l'article L. 313-4 est constitué comme
-en matière d'expropriation. Cette enquête vaut enquête préalable à la
-déclaration d'utilité publique des travaux de restauration.
-
-Si les propriétaires des immeubles inclus dans le périmètre font, au cours de
-l'enquête parcellaire, connaître leur intention de réaliser les travaux dont le
-détail leur a été notifié, ou d'en confier, par contrat, la réalisation à
-l'organisme chargé de la restauration, leurs immeubles ne sont pas compris dans
-l'arrêté de cessibilité.
+Lorsque l'opération nécessite une déclaration d'utilité publique, celle-ci est
+prise, dans les conditions fixées par le code de l'expropriation pour cause
+d'utilité publique, à l'initiative de la commune ou de l'établissement public de
+coopération intercommunale compétent pour réaliser les opérations de
+restauration immobilière, ou de l'Etat avec l'accord de la commune ou de
+l'établissement public de coopération intercommunale compétent en matière de
+plan local d'urbanisme.

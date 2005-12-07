@@ -1,7 +1,10 @@
 Article L122-1
 ----
-Ainsi qu'il est dit à l'article L. 421-1, alinéa 7, du code de l'urbanisme :
+Les travaux qui conduisent à la création, l'aménagement, la modification ou le
+changement de destination d'un immeuble de grande hauteur ne peuvent être
+exécutés qu'après autorisation de l'autorité chargée de la police de la sécurité
+qui vérifie leur conformité aux règles prévues à l'article L. 122-2.
 
-Le permis de construire tient lieu de l'autorisation exigée au titre de la
-réglementation relative aux immeubles de grande hauteur et sa délivrance est
-précédée de l'accord de l'autorité chargée de la police de la sécurité.
+Lorsque ces travaux sont soumis à permis de construire, celui-ci tient lieu de
+cette autorisation dès lors que sa délivrance a fait l'objet d'un accord de
+l'autorité chargée de la police de la sécurité.

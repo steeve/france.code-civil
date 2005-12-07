@@ -1,6 +1,7 @@
 Article L442-8
 ----
-A compter de la délivrance du permis d'aménager, le lotisseur peut consentir une
+A compter de la délivrance du permis d'aménager ou de la décision de
+non-opposition à la déclaration préalable, le lotisseur peut consentir une
 promesse unilatérale de vente indiquant la consistance du lot réservé, sa
 délimitation, son prix et son délai de livraison. La promesse ne devient
 définitive qu'au terme d'un délai de sept jours pendant lequel l'acquéreur a la

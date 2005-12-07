@@ -1,7 +1,13 @@
 Article L422-3
 ----
-Lorsque les constructions ou travaux exemptés du permis de construire n'ont pas
-fait l'objet d'une opposition de l'autorité compétente dans les conditions
-prévues à l'article précédent, la déclaration prévue au premier alinéa de cet
-article emporte les effets du permis de construire pour les impositions de toute
-nature dont ce permis constitue le fait générateur.
+Lorsqu'une commune fait partie d'un établissement public de coopération
+intercommunale, elle peut, en accord avec cet établissement, lui déléguer la
+compétence prévue au a de l'article L. 422-1 qui est alors exercée par le
+président de l'établissement public au nom de l'établissement.
+
+La délégation de compétence doit être confirmée dans les mêmes formes après
+chaque renouvellement du conseil municipal ou après l'élection d'un nouveau
+président de l'établissement public.
+
+Le maire adresse au président de l'établissement public son avis sur chaque
+demande de permis et sur chaque déclaration préalable.

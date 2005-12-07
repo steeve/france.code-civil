@@ -30,8 +30,8 @@ publique territoriale ;
 6° Le permis de construire et les autres autorisations d'utilisation du sol et
 le certificat d'urbanisme délivrés par le maire ou le président de
 l'établissement public de coopération intercommunale, lorsqu'il a reçu
-compétence dans les conditions prévues à l'article L. 421-2-1 du code de
-l'urbanisme ;
+compétence dans les conditions prévues aux articles L. 422-1 et L. 422-3 du code
+de l'urbanisme ;
 
 7° Les ordres de réquisition du comptable pris par le maire ;
 

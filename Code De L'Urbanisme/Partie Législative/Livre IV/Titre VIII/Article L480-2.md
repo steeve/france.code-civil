@@ -41,17 +41,18 @@ une mise en demeure adressée à celui-ci et restée sans résultat à l'expirat
 d'un délai de vingt-quatre heures, toutes les mesures prévues aux précédents
 alinéas.
 
-Dans le cas de constructions sans permis de construire ou de constructions
-poursuivies malgré une décision de la juridiction administrative ordonnant qu'il
-soit sursis à l'exécution du permis de construire, le maire prescrira par arrêté
-l'interruption des travaux ainsi que, le cas échéant, l'exécution, aux frais du
-constructeur, des mesures nécessaires à la sécurité des personnes ou des biens ;
-copie de l'arrêté du maire est transmise sans délai au ministère public. Dans
-tous les cas où il n'y serait pas pourvu par le maire et après une mise en
-demeure adressée à celui-ci et restée sans résultat à l'expiration d'un délai de
-vingt-quatre heures, le représentant de l'Etat dans le département prescrira ces
-mesures et l'interruption des travaux par un arrêté dont copie sera transmise
-sans délai au ministère public.
+Dans le cas de constructions sans permis de construire ou d'aménagement sans
+permis d'aménager, ou de constructions ou d'aménagement poursuivis malgré une
+décision de la juridiction administrative suspendant le permis de construire ou
+le permis d'aménager, le maire prescrira par arrêté l'interruption des travaux
+ainsi que, le cas échéant, l'exécution, aux frais du constructeur, des mesures
+nécessaires à la sécurité des personnes ou des biens ; copie de l'arrêté du
+maire est transmise sans délai au ministère public. Dans tous les cas où il n'y
+serait pas pourvu par le maire et après une mise en demeure adressée à celui-ci
+et restée sans résultat à l'expiration d'un délai de vingt-quatre heures, le
+représentant de l'Etat dans le département prescrira ces mesures et
+l'interruption des travaux par un arrêté dont copie sera transmise sans délai au
+ministère public.
 
 Dans le cas où le représentant de l'Etat dans le département fait usage des
 pouvoirs qui lui sont reconnus par les alinéas 9 et 10 du présent article, il

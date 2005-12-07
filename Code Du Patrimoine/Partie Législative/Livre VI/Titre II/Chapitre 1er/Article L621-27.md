@@ -7,16 +7,17 @@ avisé l'autorité administrative de leur intention et indiqué les travaux qu'i
 se proposent de réaliser.
 
 Lorsque les constructions ou les travaux envisagés sur les immeubles inscrits au
-titre des monuments historiques sont soumis à permis de construire ou à permis
-de démolir, celui-ci ne peut être délivré sans l'accord de l'autorité
-administrative chargée des monuments historiques (1).
+titre des monuments historiques sont soumis à permis de construire, à permis de
+démolir, à permis d'aménager ou à déclaration préalable, la décision accordant
+le permis ou la décision de non-opposition ne peut intervenir sans l'accord de
+l'autorité administrative chargée des monuments historiques.
 
 Les autres travaux envisagés sur les immeubles inscrits au titre des monuments
 historiques ne peuvent être entrepris sans la déclaration prévue au premier
 alinéa. L'autorité administrative ne peut s'opposer à ces travaux qu'en
 engageant la procédure de classement au titre des monuments historiques prévue
-par le présent titre (1).
+par le présent titre.
 
 Les travaux sur les immeubles inscrits sont exécutés sous le contrôle
 scientifique et technique des services de l'Etat chargés des monuments
-historiques (1).
+historiques.

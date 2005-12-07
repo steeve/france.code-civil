@@ -6,7 +6,7 @@ octies du code général des impôts et les taxes mentionnées au 1° de l'artic
 titre de recette individuel ou collectif délivré par le directeur départemental
 de l'équipement ou, dans des conditions fixées par décret en Conseil d'Etat, par
 le maire compétent pour délivrer les permis de construire au nom de la commune
-en application du premier alinéa de l'article L. 421-2-1 du code de l'urbanisme.
+en application de l'article L. 422-1 du code de l'urbanisme.
 
 L'autorité précitée peut déléguer sa signature aux agents placés sous son
 autorité.

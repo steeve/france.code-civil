@@ -17,5 +17,5 @@ l'autorité administrative.
 
 III. - Les actes de mutation de propriété des biens fonciers et immobiliers
 mentionnent explicitement, le cas échéant, les servitudes instituées en
-application de l'article L. 421-8 du code de l'urbanisme et du II du présent
+application de l'article L. 111-1-5 du code de l'urbanisme et du II du présent
 article.

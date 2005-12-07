@@ -1,5 +1,5 @@
 Article L313-4-3
 ----
-Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et
-modalités d'application de la présente section et notamment les conditions
-d'établissement du contrat mentionné à l'article L. 313-4-1.
+Lorsque la commune fait partie d'un établissement public de coopération
+intercommunale y ayant vocation, elle peut, en accord avec cet établissement,
+lui déléguer les attributions qui lui sont conférées par la présente section.

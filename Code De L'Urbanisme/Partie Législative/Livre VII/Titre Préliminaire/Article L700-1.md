@@ -43,4 +43,14 @@ Mayotte" et "application aux départements d'outre-mer et à Mayotte" ;
 10° Les références au code de l'expropriation pour cause d'utilité publique sont
 remplacées par les références aux dispositions correspondantes du décret du 6
 janvier 1935 portant réglementation de l'expropriation pour cause d'utilité
-publique à Madagascar applicable à la collectivité de Mayotte.
+publique à Madagascar applicable à la collectivité de Mayotte ;
+
+11° Les références au code de la construction et de l'habitation sont remplacées
+par les références aux dispositions correspondantes applicables à la
+collectivité de Mayotte ;
+
+12° Les références au code de commerce et à la loi n° 73-1193 du 27 décembre
+1973 d'orientation du commerce et de l'artisanat sont remplacées par les
+références aux dispositions correspondantes de l'ordonnance n° 98-526 du 24 juin
+1998 réglementant l'urbanisme commercial dans la collectivité territoriale de
+Mayotte.

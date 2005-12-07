@@ -1,17 +1,18 @@
 Article L480-4-1
 ----
-Les personnes morales peuvent être déclarées responsables dans les conditions
-prévues par l'article 121-2 du code pénal des infractions définies aux articles
-L. 160-1, L. 316-2, L. 316-3, L. 316-4, L. 430-4-2, L. 480-3, L. 480-4, L.
-480-12 et L. 510-2 du présent code.
+Est puni d'une amende de 18 000 euros et, en cas de récidive, d'une amende de 45
+000 euros le fait de vendre ou de louer des terrains bâtis ou non bâtis compris
+dans un lotissement sans avoir obtenu un permis d'aménager ou sans avoir
+respecté les obligations imposées par l'article L. 442-3, lorsque le lotissement
+est soumis à une déclaration préalable, ou sans s'être conformé aux
+prescriptions imposées par le permis d'aménager ou par la décision prise sur la
+déclaration préalable.
 
-Les peines encourues par les personnes morales sont les suivantes :
+Lorsque les prescriptions imposées n'ont pas été respectées, le tribunal peut en
+outre impartir un délai au lotisseur pour mettre les travaux en conformité avec
+lesdites prescriptions, sous peine d'une astreinte prononcée et exécutée dans
+les conditions prévues par les articles L. 480-7 et L. 480-8.
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5° et 9° de l'article 131-39 du code
-pénal.
-
-L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur
-l'activité dans l'exercice ou à l'occasion de laquelle l'infraction a été
-commise.
+Si, à l'expiration du délai fixé par le jugement, les travaux n'ont pas été mis
+en conformité, l'autorité compétente peut faire effectuer les travaux d'office,
+aux frais et risques financiers de l'aménageur.

@@ -12,6 +12,6 @@ l'autorité compétente.
 
 Sans préjudice des dispositions des deux alinéas ci-dessus, les représentants de
 l'Etat visés à l'article L. 145-11 du code de l'urbanisme pour les unités
-touristiques nouvelles et à l'article L. 445-1 du même code pour les remontées
-mécaniques tiennent compte des risques naturels pour la délivrance des
+touristiques nouvelles et aux articles L. 472-1 à L. 472-5 du même code pour les
+remontées mécaniques tiennent compte des risques naturels pour la délivrance des
 autorisations correspondantes.

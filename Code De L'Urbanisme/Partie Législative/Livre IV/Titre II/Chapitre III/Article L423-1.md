@@ -1,8 +1,8 @@
 Article L423-1
 ----
-Lorsqu'un emplacement est réservé par un plan d'occupation des sols rendu public
-ou un plan local d'urbanisme approuvé, ou un document d'urbanisme en tenant
-lieu, pour un ouvrage public, une voie publique, une installation d'intérêt
-général ou un espace vert et que la construction à édifier a un caractère
-précaire, le permis de construire peut exceptionnellement être accordé, sur avis
-favorable de la collectivité intéréssée à l'opération.
+Les demandes de permis de construire, d'aménager ou de démolir et les
+déclarations préalables sont présentées et instruites dans les conditions et
+délais fixés par décret en Conseil d'Etat.
+
+Aucune prolongation du délai d'instruction n'est possible en dehors des cas et
+conditions prévus par ce décret.

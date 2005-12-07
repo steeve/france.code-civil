@@ -27,8 +27,9 @@ d'application du présent alinéa.
 
 Dans les bois, forêts ou parcs situés sur le territoire de communes où
 l'établissement d'un plan local d'urbanisme a été prescrit, ainsi que dans tout
-espace boisé classé, les coupes et abattages d'arbres sont soumis à autorisation
-préalable, sauf dans les cas suivants :
+espace boisé classé, les coupes et abattages d'arbres sont soumis à la
+déclaration préalable prévue par l'article L. 421-4, sauf dans les cas suivants
+:
 
 - s'il est fait application des dispositions du livre I du code forestier ;
 
@@ -41,22 +42,7 @@ du même code ;
 par arrêté préfectoral, après avis du centre régional de la propriété
 forestière.
 
-La décision prescrivant l'élaboration d'un plan local d'urbanisme peut également
-soumettre à l'autorisation préalable prévue aux quatre alinéas précédents, sur
-tout ou partie du territoire concerné par ce plan, les coupes ou abattages
-d'arbres isolés, de haies ou réseaux de haies et de plantations d'alignement.
-
-L'autorisation de coupe et d'abattage d'arbres est délivrée dans les formes,
-conditions et délais déterminés par décret en Conseil d'Etat :
-
-a) Dans les communes où un plan local d'urbanisme a été approuvé, au nom de la
-commune ou de l'établissement public de coopération intercommunale ou de l'Etat,
-selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8.
-Toutefois, par dérogation aux dispositions de la loi n° 82-213 du 2 mars 1982
-modifiée relative aux droits et libertés des communes, des départements et des
-régions et à l'article L. 421-2-4, la décision ne devient exécutoire que quinze
-jours après qu'il a été procédé à sa notification et à sa transmission au
-représentant de l'Etat. Les dispositions de l'article L. 421-9 sont alors
-applicables ;
-
-b) Dans les autres communes, au nom de l'Etat.
+La délibération prescrivant l'élaboration d'un plan local d'urbanisme peut
+également soumettre à déclaration préalable, sur tout ou partie du territoire
+concerné par ce plan, les coupes ou abattages d'arbres isolés, de haies ou
+réseaux de haies et de plantations d'alignement.

@@ -43,10 +43,4 @@ mentionnés, sous peine de nullité ;
 
 8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un
 établissement de crédit, en vue de proposer des crédits visés au titre Ier du
-livre III du code de la consommation ;
-
-9° Aux conventions conclues entre les personnes mentionnées au 1° de l'article
-L. 341-3, à l'exception des sociétés de capital-risque, pour la distribution de
-produits, la réalisation d'une opération ou la fourniture d'un service,
-mentionnés à l'article L. 341-1, à l'exception des dispositions mentionnées à
-l'article L. 341-6.
+livre III du code de la consommation.
