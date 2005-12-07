@@ -15,9 +15,7 @@ des amortissements pratiqués selon le mode linéaire.
 
 2. Les contribuables visés au 1 portent directement sur la déclaration prévue à
 l'article 170 le montant des recettes annuelles et des plus ou moins-values
-réalisées ou subies au cours de cette même année. Ils joignent à cette
-déclaration un état conforme au modèle fourni par l'administration. Un décret en
-Conseil d'Etat précise le contenu de cet état.
+réalisées ou subies au cours de cette même année.
 
 3. Sous réserve des dispositions du 6, les dispositions prévues aux 1 et 2
 demeurent applicables pour l'établissement de l'imposition due au titre de la
@@ -41,9 +39,9 @@ des honoraires.
 peuvent opter pour le régime visé à l'article 97.
 
 Cette option doit être exercée dans les délais prévus pour le dépôt de la
-déclaration visée à l'article 97. Elle est valable deux ans (1) tant que le
+déclaration visée à l'article 97. Elle est valable deux ans tant que le
 contribuable reste de manière continue dans le champ d'application du présent
-article. Elle est reconduite tacitement par période de deux ans (1). Les
+article. Elle est reconduite tacitement par période de deux ans. Les
 contribuables qui désirent renoncer à leur option pour le régime visé à
 l'article 97 doivent notifier leur choix à l'administration avant le 1er février
 de l'année suivant la période pour laquelle l'option a été exercée ou reconduite
