@@ -1,15 +1,14 @@
 Article L621-3
 ----
-Une organisation autonome d'assurance vieillesse est instituée pour chacun des
-groupes de professions ci-après :
+Les groupes professionnels mentionnés à l'article L. 621-2 sont :
 
-1°) professions artisanales ;
+1° Le groupe des professions artisanales ;
 
-2°) professions industrielles et commerciales ;
+2° Le groupe des professions industrielles et commerciales ;
 
-3°) professions libérales ;
+3° Le groupe des professions libérales ;
 
-4°) professions agricoles.
+4° Le groupe des professions agricoles.
 
-Toutefois, sur proposition des organisations intéressées, des décrets en Conseil
-d'Etat pourront décider la fusion de plusieurs d'entre elles.
+Sur proposition de ces régimes, des décrets en Conseil d'Etat pourront décider
+la fusion de plusieurs d'entre eux.

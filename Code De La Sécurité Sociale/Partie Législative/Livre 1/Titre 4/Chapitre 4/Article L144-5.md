@@ -14,7 +14,7 @@ départementale ou pluri-départementale de mutualité sociale agricole du sièg
 la juridiction et remboursées par la caisse nationale compétente du régime
 général ou par la Caisse centrale de la mutualité sociale agricole ;
 
-3° Ou bien remboursées par la caisse nationale compétente du régime général au
+3°) ou bien remboursées par la caisse nationale compétente du régime général au
 budget de l'Etat.
 
 Les modalités suivant lesquelles les dépenses précitées sont avancées, réglées
@@ -25,7 +25,6 @@ Des arrêtés interministériels déterminent les conditions dans lesquelles les
 dépenses acquittées par la caisse nationale compétente, en application du
 présent article, sont réparties entre les organismes du régime général de
 sécurité sociale, du régime de la mutualité sociale agricole, des régimes
-spéciaux, les caisses nationales d'allocations de vieillesse des non-salariés
-mentionnées au livre VI du présent code, le fonds spécial d'invalidité mentionné
-par l'article L. 815-3-1 et le fonds de solidarité vieillesse institué par
-l'article L. 135-1.
+spéciaux, les organismes de sécurité sociale mentionnés au livre VI du présent
+code, le fonds spécial d'invalidité mentionné par l'article L. 815-3-1 et le
+fonds de solidarité vieillesse institué par l'article L. 135-1.

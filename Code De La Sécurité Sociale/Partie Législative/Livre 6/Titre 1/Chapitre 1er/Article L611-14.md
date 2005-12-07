@@ -1,12 +1,20 @@
 Article L611-14
 ----
-Les organismes conventionnés sont tenus [*obligation*] de fournir à la caisse
-nationale et aux caisses mutuelles régionales avec lesquelles ils ont passé
-convention tous documents administratifs et comptables nécessaires au contrôle
-de leur activité et à l'établissement, par la caisse nationale, d'un rapport
-annuel sur les coûts de fonctionnement comparés des organismes conventionnés
-précités.
+I. - Chaque caisse de base est dotée d'un directeur et d'un agent comptable
+nommés par le directeur général de la caisse nationale parmi les personnes
+inscrites sur une liste d'aptitude établie dans des conditions prévues par
+décret en Conseil d'Etat.
 
-Un arrêté interministériel détermine les documents administratifs et comptables
-que les organismes conventionnés sont tenus de fournir aux caisses mutuelles
-régionales et à la caisse nationale.
+Leur nomination intervient sur avis conforme du conseil d'administration de la
+caisse de base consulté sur une liste de trois noms établie par le directeur
+général. Si le conseil ne retient aucun des trois noms, le directeur général de
+la caisse nomme l'un des candidats figurant sur la liste.
+
+II. - Le directeur général de la caisse nationale peut mettre fin, pour un motif
+tiré de l'intérêt du service, aux fonctions des directeurs et des agents
+comptables des caisses de base, sous les garanties, notamment de reclassement,
+prévues par la convention collective. La décision mettant fin aux fonctions ne
+vaut pas licenciement.
+
+III. - Les directeurs et les agents comptables sont salariés des organismes où
+ils exercent leurs fonctions.

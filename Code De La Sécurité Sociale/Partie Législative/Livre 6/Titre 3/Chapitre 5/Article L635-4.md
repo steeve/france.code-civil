@@ -5,8 +5,7 @@ Les chauffeurs de taxi non salariés ayant adhéré, dans le cadre de la loi n°
 l'assurance volontaire du régime général de sécurité sociale sont affiliés au
 régime complémentaire obligatoire d'assurance vieillesse des travailleurs non
 salariés des professions artisanales. Un décret, pris après avis du conseil
-d'administration de la caisse nationale de l'Organisation autonome d'assurance
-vieillesse des travailleurs non salariés des professions artisanales, fixe les
-conditions d'application du présent article et notamment les modalités de
-validation des périodes d'activité ou assimilées, antérieures à sa date d'entrée
-en vigueur.
+d'administration de la section professionnelle des artisans de la Caisse
+nationale du régime social des indépendants, fixe les conditions d'application
+du présent article et notamment les modalités de validation des périodes
+d'activité ou assimilées, antérieures à sa date d'entrée en vigueur.

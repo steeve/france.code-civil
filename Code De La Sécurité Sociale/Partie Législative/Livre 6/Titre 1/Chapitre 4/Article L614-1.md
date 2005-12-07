@@ -1,5 +1,8 @@
 Article L614-1
 ----
-Sont applicables aux organismes créés par le présent titre dans les conditions
-fixées par décret en Conseil d'Etat les dispositions des articles L. 224-13, L.
-231-5, L. 243-3, L. 253-1, L. 256-2, L. 272-1, L. 272-2, L. 281-2, L. 281-3.
+Les différends nés de l'application du présent titre sont soumis aux
+juridictions mentionnées aux chapitres 2 à 4 du titre IV du livre Ier.
+
+Les dispositions du chapitre 5 du titre IV du livre Ier et du chapitre 7 du
+titre VII du livre III sont applicables à l'occasion des soins dispensés et des
+prestations servies aux bénéficiaires du présent titre.

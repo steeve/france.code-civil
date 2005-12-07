@@ -1,8 +1,7 @@
 Article L611-11
 ----
-Les caisses mutuelles régionales sont tenues [*obligations*], dans les
-conditions prévues à l'article L. 97 du livre des procédures fiscales,
-d'adresser chaque année à l'administration des impôts un relevé récapitulatif
-par médecin, chirurgien-dentiste, sage-femme, auxiliaire médical et laboratoire
-d'analyses médicales, des feuilles de maladie et notes de frais remises par les
-assurés.
+Une caisse de base peut déléguer à une autre caisse de base, avec l'accord du
+directeur général de la Caisse nationale ou à sa demande et pour une durée
+limitée éventuellement reconductible, la prise d'actes juridiques, le service de
+prestations ou l'exercice d'activités concourant à l'accomplissement de leurs
+missions.

@@ -1,6 +1,6 @@
 Article L623-6
 ----
-Les caisses des organisations autonomes mentionnées à l'article L. 621-3 peuvent
+Les caisses des organisations autonomes mentionnées à l'article L. 621-2 peuvent
 si elles l'estiment nécessaire, avant décision d'attribution ou de refus
 d'allocation, demander aux administrations fiscales tous renseignements relatifs
 aux ressources du requérant.

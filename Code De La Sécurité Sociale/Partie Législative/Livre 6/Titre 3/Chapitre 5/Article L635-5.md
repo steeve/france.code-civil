@@ -1,9 +1,9 @@
 Article L635-5
 ----
-Les régimes obligatoires d'assurance invalidité-décès des organisations
-autonomes d'assurance vieillesse des professions artisanales, industrielles et
-commerciales attribuent aux personnes affiliées une pension d'invalidité en cas
-d'invalidité totale ou partielle, médicalement constatée. La pension
+Les régimes obligatoires d'assurance invalidité-décès des professions
+artisanales, industrielles et commerciales attribuent aux personnes affiliées
+une pension d'invalidité en cas d'invalidité totale ou partielle, médicalement
+constatée par le service du contrôle médical des caisses. La pension
 d'invalidité prend fin à l'âge minimum auquel s'ouvre le droit à la pension de
 vieillesse allouée en cas d'inaptitude au travail par le régime concerné.
 

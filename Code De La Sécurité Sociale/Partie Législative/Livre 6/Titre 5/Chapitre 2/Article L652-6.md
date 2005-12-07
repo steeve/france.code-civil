@@ -1,10 +1,9 @@
 Article L652-6
 ----
 Le contrôle de l'application par les travailleurs non salariés des professions
-non agricoles des dispositions du présent livre est confié aux caisses mutuelles
-régionales ainsi qu'aux caisses et sections professionnelles relevant des
-organisations autonomes d'assurance vieillesse mentionnées aux 1°, 2° et 3° de
-l'article L. 621-3.
+non agricoles des dispositions du présent livre est confié aux caisses et
+sections professionnelles relevant des organisations autonomes d'assurance
+vieillesse mentionnées au 3° de l'article L. 621-3.
 
 Les agents chargés du contrôle sont assermentés et agréés dans des conditions
 définies par arrêté du ministre chargé de la sécurité sociale. Ces agents ont

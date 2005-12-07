@@ -24,8 +24,8 @@ Les modalités de gestion et de renseignement du système national d'information
 interrégimes de l'assurance maladie, définies conjointement par protocole passé
 entre au moins la Caisse nationale de l'assurance maladie des travailleurs
 salariés, la Caisse centrale de mutualité sociale agricole et la Caisse
-nationale d'assurance maladie et maternité des travailleurs non salariés, sont
-approuvées par un arrêté du ministre chargé de la sécurité sociale.
+nationale du régime social des indépendants, sont approuvées par un arrêté du
+ministre chargé de la sécurité sociale.
 
 Cet arrêté est pris après avis motivé de la Commission nationale de
 l'informatique et des libertés.

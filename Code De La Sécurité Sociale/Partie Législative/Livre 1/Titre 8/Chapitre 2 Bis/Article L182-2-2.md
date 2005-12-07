@@ -9,8 +9,7 @@ Le conseil est composé de :
 nationale de l'assurance maladie des travailleurs salariés en son sein ;
 
 2° Trois membres, dont le président, désignés par le conseil d'administration de
-la Caisse nationale d'assurance maladie et maternité des travailleurs non
-salariés en son sein ;
+la Caisse nationale du régime social des indépendants en son sein ;
 
 3° Trois membres, dont le président, désignés par le conseil central
 d'administration de la Mutualité sociale agricole en son sein.
@@ -27,8 +26,8 @@ Le collège des directeurs est composé :
 1° Du directeur général de la Caisse nationale de l'assurance maladie des
 travailleurs salariés ;
 
-2° Du directeur de la Caisse nationale d'assurance maladie et maternité des
-travailleurs non salariés ;
+2° Du directeur général de la Caisse nationale du régime social des indépendants
+;
 
 3° Du directeur de la Caisse centrale de mutualité sociale agricole.
 
