@@ -1,13 +1,13 @@
 Article L243-5
 ----
 Dès lors qu'elles dépassent 12 000 euros, les sommes privilégiées en application
-du premier alinéa de l'article L. 243-4 dues par un commerçant ou une personne
-morale de droit privé même non commerçante doivent être inscrites à un registre
-public tenu au greffe du tribunal de commerce ou du tribunal de grande instance
-dans le délai de six mois suivant leur date limite de paiement ou, le cas
-échéant, la date de notification de l'avertissement ou de la mise en demeure
-prévus à l'article L. 244-2, lorsque la créance est constatée lors d'un contrôle
-organisé en application des dispositions de l'article L. 243-7.
+du premier alinéa de l'article L. 243-4 dues par un commerçant, un artisan ou
+une personne morale de droit privé même non commerçante doivent être inscrites à
+un registre public tenu au greffe du tribunal de commerce ou du tribunal de
+grande instance dans le délai de six mois suivant leur date limite de paiement
+ou, le cas échéant, la date de notification de l'avertissement ou de la mise en
+demeure prévus à l'article L. 244-2, lorsque la créance est constatée lors d'un
+contrôle organisé en application des dispositions de l'article L. 243-7.
 
 En cas de redressement ou de liquidation judiciaires du redevable ou d'un tiers
 tenu légalement au paiement de ces sommes, le privilège dont l'inscription n'a

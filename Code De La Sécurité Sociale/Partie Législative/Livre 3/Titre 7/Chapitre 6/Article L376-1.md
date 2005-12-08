@@ -24,10 +24,9 @@ Hors le cas où la caisse est appelée en déclaration de jugement commun
 conformément aux dispositions ci-après, la demande de la caisse vis-à-vis du
 tiers responsable s'exerce en priorité à titre amiable. Une convention signée
 par la Caisse nationale de l'assurance maladie des travailleurs salariés, la
-Caisse nationale d'assurance maladie et maternité des travailleurs non salariés
-et la Caisse centrale de la mutualité sociale agricole avec les organisations
-représentatives des assureurs peut définir les modalités de mise en oeuvre de
-cette procédure.
+Caisse nationale du régime social des indépendants et la Caisse centrale de la
+mutualité sociale agricole avec les organisations représentatives des assureurs
+peut définir les modalités de mise en oeuvre de cette procédure.
 
 La personne victime, les établissements de santé, le tiers responsable et son
 assureur sont tenus d'informer la caisse de la survenue des lésions causées par

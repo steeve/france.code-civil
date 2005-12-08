@@ -25,10 +25,4 @@ l'article L. 226-4.
 Des décrets en Conseil d'Etat déterminent les conditions d'application du
 présent article aux unions régionales des caisses d'assurance maladie, aux
 régimes spéciaux mentionnés à l'article L. 711-1 et aux organismes du régime
-d'assurance maladie-maternité des travailleurs non-salariés des professions
-non-agricoles.
-
-En ce qui concerne les organismes d'assurance vieillesse des travailleurs
-non-salariés des professions industrielles, commerciales et artisanales, les
-dispositions du présent article peuvent faire l'objet d'adaptations par décret
-en Conseil d'Etat.
+social des indépendants.

@@ -4,7 +4,7 @@ Les charges entraînées par l'application du présent titre sont couvertes par 
 
 1°) les cotisations des assurés ;
 
-2°)...
+2°) (Abrogé) ;
 
 3°) une fraction du produit de la contribution sociale de solidarité à la charge
 de certaines sociétés instituées par l'article L. 651-1 ;

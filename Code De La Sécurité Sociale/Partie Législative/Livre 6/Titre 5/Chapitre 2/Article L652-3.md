@@ -2,15 +2,15 @@ Article L652-3
 ----
 Lorsqu'ils sont munis d'un titre exécutoire au sens de l'article 3 de la loi n°
 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, les
-organismes d'assurance maladie et maternité et les caisses d'assurance
-vieillesse des professions non salariées non agricoles habilités à décerner la
-contrainte définie à l'article L. 244-9 peuvent, au moyen d'une opposition,
-enjoindre aux tiers dépositaires, détenteurs ou redevables de sommes appartenant
-ou devant revenir au débiteur, de verser au lieu et place de celui-ci, auxdits
-organismes, les fonds qu'ils détiennent ou qu'ils doivent à concurrence des
-cotisations et des majorations et pénalités de retard bénéficiant du privilège
-prévu à l'article L. 243-4 ou ayant donné lieu à une inscription de privilège
-dans les conditions prévues à l'article L. 243-5.
+caisses du régime social des indépendants et les organismes conventionnés pour
+l'assurance maladie et maternité habilités à décerner la contrainte définie à
+l'article L. 244-9 peuvent, au moyen d'une opposition, enjoindre aux tiers
+dépositaires, détenteurs ou redevables de sommes appartenant ou devant revenir
+au débiteur, de verser au lieu et place de celui-ci, auxdits organismes, les
+fonds qu'ils détiennent ou qu'ils doivent à concurrence des cotisations et des
+majorations et pénalités de retard bénéficiant du privilège prévu à l'article L.
+243-4 ou ayant donné lieu à une inscription de privilège dans les conditions
+prévues à l'article L. 243-5.
 
 L'opposition motivée est notifiée au tiers détenteur et au débiteur par le
 directeur de l'un des organismes mentionnés à l'alinéa précédent. Elle affecte,
