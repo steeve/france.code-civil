@@ -88,5 +88,27 @@ chaude sanitaire (norme NF EN 12815) et les chaudières autres que celles
 mentionnées au 1 et au a du 2, de rendement énergétique supérieur ou égal à 65 %
 (norme NF EN 303.5 ou EN 12809), dont la puissance est inférieure à 300 kW ;
 
-b) De pompes à chaleur géothermales ou air/eau ayant un coefficient de
-performance supérieur ou égal à 3.
+b) de pompes à chaleur spécifiques telles que :
+
+1° Les pompes à chaleur géothermiques à capteur fluide ayant un coefficient de
+performance supérieur ou égal à 3 pour une température d'évaporation de - 5 °C ;
+
+2° Les autres pompes à chaleur géothermiques et les pompes à chaleur air/eau
+ayant un coefficient de performance supérieur ou égal à 3 pour une température
+d'évaporation de + 7 °C selon la norme d'essai 14511-2 ;
+
+3° Les pompes à chaleur air/air de type multisplit (y compris DRV) ou gainable,
+ayant un coefficient de performance supérieur ou égal à 3 pour une température
+extérieure de + 7 °C selon la norme d'essai 14511-2 et remplissant les critères
+suivants :
+
+- l'appareil est centralisé sur une unité extérieure ;
+
+- son fonctionnement est garanti par le fabricant jusqu'à une température de -
+15 °C ;
+
+- sa puissance calorifique thermodynamique restituée est supérieure ou égale à 5
+kW à une température extérieure de + 7 °C ;
+
+- l'installation finale a été contrôlée par un organisme d'inspection accrédité
+selon la norme NF EN 45004.
