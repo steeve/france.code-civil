@@ -14,3 +14,13 @@ Dans les cas prévus par les 1°, 2° et 3° de l'article 706-91, l'ordonnance
 comporte également l'énoncé des considérations de droit et de fait qui
 constituent le fondement de cette décision par référence aux seules conditions
 prévues par ces alinéas.
+
+Pour l'application des dispositions des articles 706-89 et 706-90, est compétent
+le juge des libertés et de la détention du tribunal de grande instance dont le
+procureur de la République dirige l'enquête, quelle que soit la juridiction dans
+le ressort de laquelle la perquisition doit avoir lieu. Le juge des libertés et
+de la détention peut alors se déplacer sur les lieux quelle que soit leur
+localisation sur l'ensemble du territoire national. Le procureur de la
+République peut également saisir le juge des libertés et de la détention du
+tribunal de grande instance dans le ressort duquel la perquisition doit avoir
+lieu, par l'intermédiaire du procureur de la République de cette juridiction.

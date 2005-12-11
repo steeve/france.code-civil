@@ -7,4 +7,5 @@ condamné exerce l'autorité parentale sur un enfant de moins de dix ans ayant
 chez ce parent sa résidence habituelle.
 
 Les dispositions du présent article ne sont pas applicables aux personnes
-condamnées pour un crime ou pour un délit commis sur un mineur.
+condamnées pour un crime ou pour un délit commis sur un mineur ou pour une
+infraction commise en état de récidive légale.

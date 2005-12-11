@@ -15,15 +15,17 @@ En vue de mettre en place le dispositif technique mentionné au premier alinéa,
 le juge d'instruction peut autoriser l'introduction dans un véhicule ou un lieu
 privé, y compris hors des heures prévues à l'article 59, à l'insu ou sans le
 consentement du propriétaire ou du possesseur du véhicule ou de l'occupant des
-lieux ou de toute personne titulaire d'un droit sur ceux-ci. S'il s'agit d'un
+lieux ou de toute personne titulaire d'un droit sur ceux-ci.S'il s'agit d'un
 lieu d'habitation et que l'opération doit intervenir hors des heures prévues à
 l'article 59, cette autorisation est délivrée par le juge des libertés et de la
 détention saisi à cette fin par le juge d'instruction. Ces opérations, qui ne
 peuvent avoir d'autre fin que la mise en place du dispositif technique, sont
-effectuées sous l'autorité et le contrôle du juge d'instruction.
+effectuées sous l'autorité et le contrôle du juge d'instruction. Les
+dispositions du présent alinéa sont également applicables aux opérations ayant
+pour objet la désinstallation du dispositif technique ayant été mis en place.
 
 La mise en place du dispositif technique mentionné au premier alinéa ne peut
-concerner les lieux visés aux articles 56-1, 56-2 et 56-3 ni être mise en oeuvre
+concerner les lieux visés aux articles 56-1,56-2 et 56-3 ni être mise en oeuvre
 dans le véhicule, le bureau ou le domicile des personnes visées à l'article
 100-7.
 

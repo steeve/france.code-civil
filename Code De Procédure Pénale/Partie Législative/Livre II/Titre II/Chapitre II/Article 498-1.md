@@ -14,3 +14,13 @@ connaissance de la signification, l'appel, tant en ce qui concerne les intérêt
 civils que la condamnation pénale, reste recevable jusqu'à l'expiration des
 délais de prescription de la peine, le délai d'appel courant à compter de la
 date à laquelle le prévenu a eu connaissance de la condamnation.
+
+Si la personne a été écrouée en exécution de la condamnation après l'expiration
+du délai de dix jours prévu par le premier alinéa et qu'elle forme appel
+conformément aux dispositions du deuxième alinéa, elle demeure toutefois
+détenue, sous le régime de la détention provisoire et sans préjudice de son
+droit de former des demandes de mise en liberté, jusqu'à l'audience devant la
+cour d'appel.
+
+Les dispositions du présent article sont également applicables en cas d'itératif
+défaut.

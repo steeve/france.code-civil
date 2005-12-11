@@ -7,6 +7,11 @@ dérober à l'exécution d'un mandat d'arrêt européen, la chambre de l'instruc
 peut, sur les réquisitions du ministère public, décerner mandat d'arrêt à son
 encontre.
 
+Les dispositions de l'article 74-2 sont alors applicables, les attributions du
+procureur de la République et du juge des libertés et de la détention prévues
+par cet article étant respectivement confiées au procureur général et au
+président de la chambre de l'instruction ou un conseiller par lui désigné.
+
 Lorsque l'intéressé a été appréhendé, l'affaire doit être examinée par la
 chambre de l'instruction dans les plus brefs délais et au plus tard dans les dix
 jours de sa mise sous écrou.

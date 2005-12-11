@@ -51,9 +51,16 @@ l'auteur ou le co-auteur et qui porterait, en tout ou partie, sur l'infraction
 commise et s'abstenir de toute intervention publique relative à cette infraction
 ; les dispositions du présent alinéa ne sont applicables qu'en cas de
 condamnation pour crimes ou délits d'atteintes volontaires à la vie,
-d'agressions sexuelles ou d'atteintes sexuelles ; (1)
+d'agressions sexuelles ou d'atteintes sexuelles ;
 
 17° Remettre ses enfants entre les mains de ceux auxquels la garde a été confiée
-par décision de justice ; (1)
+par décision de justice ;
 
-18° Accomplir un stage de citoyenneté.
+18° Accomplir un stage de citoyenneté ;
+
+19° En cas d'infraction commise soit contre son conjoint ou son concubin, soit
+contre ses enfants ou les enfants de ce dernier, résider hors du domicile ou de
+la résidence du couple et, le cas échéant, s'abstenir de paraître dans ce
+domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si
+nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
+psychologique.

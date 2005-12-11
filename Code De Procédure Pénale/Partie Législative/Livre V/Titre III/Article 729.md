@@ -17,7 +17,9 @@ Toutefois, les condamnés en état de récidive aux termes des articles 132-8,
 132-9 ou 132-10 du code pénal ne peuvent bénéficier d'une mesure de libération
 conditionnelle que si la durée de la peine accomplie est au moins égale au
 double de la durée de la peine restant à subir. Dans les cas prévus au présent
-alinéa, le temps d'épreuve ne peut excéder quinze années.
+alinéa, le temps d'épreuve ne peut excéder quinze années ou, si le condamné est
+en état de récidive légale, vingt années.
 
-Pour les condamnés à la réclusion criminelle à perpétuité, le temps d'épreuve
-est de quinze années.
+Pour les condamnés à la réclusion à perpétuité, le temps d'épreuve est de
+dix-huit années ; il est de vingt-deux années si le condamné est en état de
+récidive légale.

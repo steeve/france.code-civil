@@ -25,13 +25,20 @@ ou des règlements ;
 4° Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
 
 5° Faire procéder, avec l'accord des parties, à une mission de médiation entre
-l'auteur des faits et la victime. En cas de réussite de la médiation, le
+l'auteur des faits et la victime ; En cas de réussite de la médiation, le
 procureur de la République ou le médiateur du procureur de la République en
 dresse procès-verbal, qui est signé par lui-même et par les parties, et dont une
 copie leur est remise ; si l'auteur des faits s'est engagé à verser des dommages
 et intérêts à la victime, celle-ci peut, au vu de ce procès-verbal, en demander
 le recouvrement suivant la procédure d'injonction de payer, conformément aux
 règles prévues par le nouveau code de procédure civile.
+
+6° En cas d'infraction commise soit contre son conjoint ou son concubin, soit
+contre ses enfants ou les enfants de ce dernier, demander à l'auteur des faits
+de résider hors du domicile ou de la résidence du couple et, le cas échéant, de
+s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords
+immédiats de celui-ci, ainsi que, si nécessaire, de faire l'objet d'une prise en
+charge sanitaire, sociale ou psychologique.
 
 La procédure prévue au présent article suspend la prescription de l'action
 publique.

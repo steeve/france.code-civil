@@ -22,8 +22,8 @@ l'environnement, les peines sont portées à trois ans d'emprisonnement et à 45
 d'emprisonnement et à 100 000 Euros d'amende dans le cas prévu par le deuxième
 alinéa.
 
-Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant
-huit jours au plus, les peines sont portées à cinq ans d'emprisonnement et à 75
+Si l'incendie a provoqué pour autrui une incapacité totale de travail pendant au
+moins huit jours, les peines sont portées à cinq ans d'emprisonnement et à 75
 000 Euros d'amende dans le cas prévu par le premier alinéa, et à sept ans
 d'emprisonnement et à 100 000 Euros d'amende dans le cas prévu par le deuxième
 alinéa.

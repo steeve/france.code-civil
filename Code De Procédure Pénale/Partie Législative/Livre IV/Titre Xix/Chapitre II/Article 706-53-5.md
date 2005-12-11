@@ -15,10 +15,10 @@ tard après ce changement.
 
 Si la personne a été définitivement condamnée pour un crime ou pour un délit
 puni de dix ans d'emprisonnement, elle doit justifier de son adresse une fois
-tous les six mois en se présentant à cette fin auprès du groupement de
-gendarmerie départemental ou de la direction départementale de la sécurité
-publique de son domicile ou auprès de tout autre service désigné par la
-préfecture.
+tous les six mois en se présentant à cette fin soit auprès du commissariat ou de
+l'unité de gendarmerie de son domicile, soit auprès du groupement de gendarmerie
+départemental ou de la direction départementale de la sécurité publique de son
+domicile ou auprès de tout autre service désigné par la préfecture.
 
 Le fait, pour les personnes tenues aux obligations prévues par le présent
 article, de ne pas respecter ces obligations est puni de deux ans

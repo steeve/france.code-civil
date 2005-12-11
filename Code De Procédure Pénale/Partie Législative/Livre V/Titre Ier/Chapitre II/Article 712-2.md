@@ -9,3 +9,6 @@ la magistrature. Il peut être mis fin à leurs fonctions dans les mêmes formes
 Si un juge de l'application des peines est temporairement empêché d'exercer ses
 fonctions, le président du tribunal de grande instance désigne un autre
 magistrat pour le remplacer.
+
+Pour le fonctionnement de son cabinet, le juge de l'application des peines est
+assisté d'un greffier et doté d'un secrétariat-greffe.

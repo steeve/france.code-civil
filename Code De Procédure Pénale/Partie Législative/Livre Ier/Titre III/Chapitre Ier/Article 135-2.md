@@ -45,3 +45,22 @@ devant lui dans les quatre jours de la notification du mandat ; ce délai est
 porté à six jours en cas de transfèrement entre un département d'outre-mer et la
 France métropolitaine ou un autre département d'outre-mer. Il est alors procédé
 conformément aux dispositions des troisième et quatrième alinéas.
+
+La présentation devant le juge des libertés et de la détention prévue par les
+dispositions ci-dessus n'est pas nécessaire si, dans les délais prévus pour
+cette présentation, la personne peut comparaître devant la juridiction de
+jugement saisie des faits.
+
+Les dispositions du présent article sont également applicables aux mandats
+d'arrêt délivrés après l'ordonnance de règlement. Elles ne sont toutefois pas
+applicables lorsque, postérieurement à la délivrance du mandat d'arrêt décerné
+au cours de l'instruction ou après son règlement, la personne a été condamnée à
+une peine privative de liberté, soit en matière correctionnelle par un jugement
+contradictoire ou réputé contradictoire, soit en matière criminelle par un arrêt
+rendu par défaut ; elles ne sont de même pas applicables lorsque le mandat a été
+délivré à la suite d'une telle condamnation. Dans ces cas, sans qu'il soit
+nécessaire de la présenter devant le juge des libertés et de la détention, la
+personne arrêtée est placée en détention provisoire jusqu'à l'expiration des
+délais de recours et, en cas de recours, jusqu'à sa comparution devant la
+juridiction de jugement, sans préjudice de son droit de former des demandes de
+mise en liberté.

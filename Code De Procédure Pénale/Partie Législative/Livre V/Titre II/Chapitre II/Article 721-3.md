@@ -11,4 +11,4 @@ alinéa de l'article 729, pouvant aller jusqu'à cinq années, peut leur être
 accordée.
 
 Ces réductions exceptionnelles sont accordées par le tribunal de l'application
-des peines selon les modalités prévues à l'article 712-6.
+des peines selon les modalités prévues à l'article 712-7.

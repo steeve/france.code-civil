@@ -7,4 +7,4 @@ au respect des mesures de surveillance prévues par la décision de condamnation
 A tout moment de la durée de l'interdiction de séjour, le juge de l'application
 des peines peut, après audition du condamné et avis du procureur de la
 République, modifier la liste des lieux interdits et les mesures de surveillance
-et d'assistance dans les conditions prévues à l'article 712-5.
+et d'assistance dans les conditions prévues à l'article 712-8.

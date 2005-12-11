@@ -24,3 +24,8 @@ aux articles 712-6 ou 712-7, la chambre peut fixer un délai pendant lequel tout
 nouvelle demande tendant à l'octroi de la même mesure sera irrecevable. Ce délai
 ne peut excéder ni le tiers du temps de détention restant à subir ni trois
 années.
+
+S'il en fait la demande, l'avocat de la partie civile peut assister au débat
+contradictoire devant la chambre de l'application des peines de la cour d'appel
+statuant en appel d'un jugement du tribunal de l'application des peines pour y
+faire valoir ses observations, avant les réquisitions du ministère public.

@@ -21,3 +21,12 @@ entrepris sans son consentement, mais que, s'il refuse les soins qui lui seront
 proposés, l'emprisonnement prononcé en application du troisième alinéa de
 l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositions
 de l'alinéa précédent sont alors applicables.
+
+Le juge de l'application des peines peut également, après avoir procédé à
+l'examen prévu à l'article 763-10, ordonner le placement sous surveillance
+électronique mobile du condamné. Le juge de l'application des peines avertit le
+condamné que le placement sous surveillance électronique mobile ne pourra être
+mis en oeuvre sans son consentement mais que, à défaut ou s'il manque à ses
+obligations, l'emprisonnement prononcé en application du troisième alinéa de
+l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositions
+du deuxième alinéa du présent article sont applicables.
