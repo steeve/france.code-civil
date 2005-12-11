@@ -1,13 +1,12 @@
 Article L2353-4
 ----
-Sont punies d'un emprisonnement de cinq ans et d'une amende de 3 750 Euros :
+Sont punies d'un emprisonnement de cinq ans et d'une amende de 3 750 euros :
 
-1° La fabrication ou la détention, sans autorisation et sans motifs légitimes,
-de machines ou engins meurtriers ou incendiaires agissant par explosion ou
-autrement, ou un explosif quelconque, quelle que soit sa composition ;
+1° La fabrication, sans autorisation, d'un engin explosif ou incendiaire ou d'un
+produit explosif, quelle que soit sa composition ;
 
-2° La fabrication ou la détention, sans motifs légitimes, de tout autre élément
-ou substance destinés à entrer dans la composition d'un explosif.
+2° La fabrication de tout autre élément ou substance destinés à entrer dans la
+composition d'un produit explosif.
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 Euros d'amende
 lorsque l'infraction est commise en bande organisée.

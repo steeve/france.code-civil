@@ -1,6 +1,6 @@
 Article L2234-25
 ----
-I. - Des décrets en Conseil d'Etat déterminent les modalités d'application des
+I.-Des décrets en Conseil d'Etat déterminent les modalités d'application des
 dispositions du présent chapitre en ce qui concerne, notamment :
 
 1° Les modalités de règlement des réquisitions d'usage de biens immobiliers
@@ -15,7 +15,7 @@ appartenant à une collectivité ou à un établissement public ;
 règlement des réquisitions est exercée, au nom du Premier ministre, par le
 ministre de la défense assisté d'un comité consultatif interministériel.
 
-II. - Les décrets fixent également :
+II.-Les décrets fixent également :
 
 1° Les modalités de règlement et de recouvrement de l'indemnité de plus-value,
 ainsi que celles du remboursement des dépenses de gros entretien et la procédure
@@ -23,7 +23,7 @@ relative à l'acquisition éventuelle des immeubles par l'Etat ;
 
 2° Les droits et obligations des affectataires d'immeubles requis, à l'égard de
 l'Etat, quand ce dernier a apuré, en leur lieu et place dans les conditions
-prévues aux articles L. 2234-11 à L. 2234-16, la situation résultant des travaux
+prévues aux articles L. 2234-11 à L. 2234-15, la situation résultant des travaux
 effectués par lesdits affectataires ;
 
 3° Les conditions dans lesquelles interviennent :
@@ -37,10 +37,10 @@ la moins-value, en cas de travaux exécutés sur un aéronef réquisitionné ;
 c) La limitation de l'indemnité de plus-value à réclamer au prestataire du
 navire ou de l'aéronef.
 
-III. - Des aménagements aux modalités d'exécution et de règlement des
-réquisitions et du blocage, telles qu'elles sont prévues par les dispositions du
-présent chapitre et des articles L. 2213-1, L. 2213-3, L. 2213-4 et L. 2236-1,
-peuvent être apportés par décret en Conseil d'Etat en vue de faire face aux
-nécessités propres à la mobilisation des ressources en moyens de transport et de
-travaux publics dont le ministre des transports est responsable aux termes de
-l'article L. 1141-2 et des décrets pris pour son application.
+III.-Des aménagements aux modalités d'exécution et de règlement des réquisitions
+et du blocage, telles qu'elles sont prévues par les dispositions du présent
+chapitre et des articles L. 2213-1, L. 2213-3, L. 2213-4 et L. 2236-1, peuvent
+être apportés par décret en Conseil d'Etat en vue de faire face aux nécessités
+propres à la mobilisation des ressources en moyens de transport et de travaux
+publics dont le ministre des transports est responsable aux termes de l'article
+L. 1141-2 et des décrets pris pour son application.

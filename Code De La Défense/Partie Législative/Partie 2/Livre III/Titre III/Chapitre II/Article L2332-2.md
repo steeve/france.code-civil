@@ -11,8 +11,9 @@ publiques.
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles, à titre
 exceptionnel, les personnes satisfaisant aux prescriptions de l'article L.
-2332-1 peuvent participer aux salons professionnels déclarés en application de
-l'article L. 740-2 du code de commerce.
+2332-1 peuvent participer aux manifestations commerciales et aux salons
+professionnels déclarés en application des articles L. 740-1 et L. 740-2 du code
+de commerce.
 
 Les matériels, armes ou leurs éléments des 1re, 2e, 3e, 4e, 7e catégories, ainsi
 que des armes de 6e catégorie énumérées par décret en Conseil d'Etat, qui, par

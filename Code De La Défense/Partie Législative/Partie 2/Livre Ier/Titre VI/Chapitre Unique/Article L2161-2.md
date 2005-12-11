@@ -18,7 +18,7 @@ Une commission procède à l'évaluation des dommages. Si cette évaluation est
 acceptée, le montant de la somme fixée est payé sur le champ.
 
 En cas de désaccord, la contestation est introduite et jugée comme il est dit à
-l'article L. 2234-23.
+l'article L. 2234-22.
 
 La composition, le mode de fonctionnement et la compétence territoriale de cette
 commission sont définis par décret en Conseil d'Etat.

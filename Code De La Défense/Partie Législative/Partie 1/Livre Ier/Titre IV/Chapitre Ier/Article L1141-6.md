@@ -11,4 +11,4 @@ extraits, sous une forme différente de celle que l'auteur lui a donnée.
 Le montant de la rémunération allouée à l'auteur ou à ses ayants droit pour
 l'usage de son oeuvre est fixé par accord amiable ou, à défaut, par une
 commission spéciale d'évaluation instituée conformément au dernier alinéa de
-l'article L. 2234-21.
+l'article L. 2234-20.

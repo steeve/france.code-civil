@@ -2,21 +2,19 @@ Article 78-2-2
 ----
 Sur réquisitions écrites du procureur de la République aux fins de recherche et
 de poursuite des actes de terrorisme visés par les articles 421-1 à 421-5 du
-code pénal, des infractions en matière d'armes et d'explosifs visées par
-l'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870
-sur la fabrication des armes de guerre et par les articles 20, 31 et 32 du
-décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et
-munitions, des infractions de vol visées par les articles 311-3 à 311-11 du code
-pénal, de recel visées par les articles 321-1 et 321-2 du même code ou des faits
-de trafic de stupéfiants visés par les articles 222-34 à 222-38 dudit code, les
-officiers de police judiciaire, assistés, le cas échéant, des agents de police
-judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1° bis
-et 1° ter de l'article 21 peuvent, dans les lieux et pour la période de temps
-que ce magistrat détermine et qui ne peut excéder vingt-quatre heures,
-renouvelables sur décision expresse et motivée selon la même procédure, procéder
-non seulement aux contrôles d'identité prévus au sixième alinéa de l'article
-78-2 mais aussi à la visite des véhicules circulant, arrêtés ou stationnant sur
-la voie publique ou dans des lieux accessibles au public.
+code pénal, des infractions en matière d'armes et d'explosifs visées par les
+articles L. 2339-8, L. 2339-9 et L. 2353-4 du code de la défense, des
+infractions de vol visées par les articles 311-3 à 311-11 du code pénal, de
+recel visées par les articles 321-1 et 321-2 du même code ou des faits de trafic
+de stupéfiants visés par les articles 222-34 à 222-38 dudit code, les officiers
+de police judiciaire, assistés, le cas échéant, des agents de police judiciaire
+et des agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter
+de l'article 21 peuvent, dans les lieux et pour la période de temps que ce
+magistrat détermine et qui ne peut excéder vingt-quatre heures, renouvelables
+sur décision expresse et motivée selon la même procédure, procéder non seulement
+aux contrôles d'identité prévus au sixième alinéa de l'article 78-2 mais aussi à
+la visite des véhicules circulant, arrêtés ou stationnant sur la voie publique
+ou dans des lieux accessibles au public.
 
 Pour l'application des dispositions du présent article, les véhicules en
 circulation ne peuvent être immobilisés que le temps strictement nécessaire au
