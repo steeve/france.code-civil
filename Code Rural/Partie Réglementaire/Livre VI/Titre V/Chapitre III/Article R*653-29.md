@@ -1,10 +1,13 @@
 Article R*653-29
 ----
-Dans le présent paragraphe, on entend par :
+Dans le présent paragraphe :
 
-1° Exploitation : tout établissement, toute construction ou, dans le cas d'un
-élevage en plein air, tout lieu dans lequel des animaux sont détenus, élevés ou
-manipulés ;
+- les termes : "animal", "exploitation" et "détenteur" s'entendent au sens de
+l'article 2 du règlement (CE) n° 21/2004 du 17 décembre 2003 établissant un
+système d'identification et d'enregistrement des animaux des espèces ovine et
+caprine ;
 
-2° Détenteur : toute personne physique ou morale responsable d'animaux, même à
-titre temporaire, à l'exception du transporteur.
+- le terme : "centre de rassemblement" s'entend de "tout emplacement, y compris
+les exploitations, les centres de collectes et les marchés où sont rassemblés
+des animaux des espèces ovine et caprine issus de différentes exploitations
+d'origine en vue de la constitution de lots d'animaux".
