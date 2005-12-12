@@ -26,5 +26,3 @@ Centre de semi-liberté de Montpellier (hommes, femmes) (Hérault).
 Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
 
 Centre de semi-liberté de Toulouse (Haute-Garonne).
-
-Centre de semi-liberté de Villejuif (Val-de-Marne).

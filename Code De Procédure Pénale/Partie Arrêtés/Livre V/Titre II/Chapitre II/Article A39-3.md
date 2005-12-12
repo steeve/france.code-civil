@@ -8,3 +8,5 @@ Quartier pour peines aménagées du centre pénitentiaire de Marseille
 (Bouches-du-Rhône).
 
 Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
+
+Centre pour peines aménagées de Villejuif (Val-de-Marne).
