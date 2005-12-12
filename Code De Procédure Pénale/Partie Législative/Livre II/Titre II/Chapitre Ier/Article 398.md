@@ -11,10 +11,8 @@ les magistrats du siège supplémentaires, dans l'ordre de leur nomination au
 tribunal de grande instance, en commençant par le plus ancien du rang le plus
 élevé.
 
-Toutefois, pour le jugement des délits énumérés à l'article 398-1 sauf si la
-peine encourue, compte tenu de l'état de récidive légale du prévenu, est
-supérieure à cinq ans d'emprisonnement, il est composé d'un seul de ces
-magistrats exerçant les pouvoirs conférés au président.
+Toutefois, pour le jugement des délits énumérés à l'article 398-1, il est
+composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président.
 
 La désignation des magistrats du tribunal correctionnel appelés à statuer dans
 les conditions prévues à l'alinéa 3 est faite par le président du tribunal de

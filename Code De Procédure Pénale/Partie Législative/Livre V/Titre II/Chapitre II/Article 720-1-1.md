@@ -1,9 +1,10 @@
 Article 720-1-1
 ----
-La suspension peut également être ordonnée, quelle que soit la nature de la
-peine ou la durée de la peine restant à subir, et pour une durée qui n'a pas à
-être déterminée, pour les condamnés dont il est établi qu'ils sont atteints
-d'une pathologie engageant le pronostic vital ou que leur état de santé est
+Sauf s'il existe un risque grave de renouvellement de l'infraction, la
+suspension peut également être ordonnée, quelle que soit la nature de la peine
+ou la durée de la peine restant à subir, et pour une durée qui n'a pas à être
+déterminée, pour les condamnés dont il est établi qu'ils sont atteints d'une
+pathologie engageant le pronostic vital ou que leur état de santé est
 durablement incompatible avec le maintien en détention, hors les cas
 d'hospitalisation des personnes détenues en établissement de santé pour troubles
 mentaux.
@@ -34,6 +35,11 @@ même si le condamné ne respecte pas les obligations qui lui ont été imposée
 application des dispositions de l'alinéa précédent. La décision du juge de
 l'application des peines est prise selon les modalités prévues par l'article
 712-6.
+
+Si la suspension de peine a été ordonnée pour une condamnation prononcée en
+matière criminelle, une expertise médicale destinée à vérifier que les
+conditions de la suspension sont toujours remplies doit intervenir tous les six
+mois.
 
 Les dispositions de l'article 720-2 ne sont pas applicables lorsqu'il est fait
 application des dispositions du présent article.

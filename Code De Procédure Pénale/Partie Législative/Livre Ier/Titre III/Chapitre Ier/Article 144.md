@@ -4,8 +4,8 @@ La détention provisoire ne peut être ordonnée ou prolongée que si elle const
 l'unique moyen :
 
 1° De conserver les preuves ou les indices matériels ou d'empêcher soit une
-pression sur les témoins ou les victimes, soit une concertation frauduleuse
-entre personnes mises en examen et complices ;
+pression sur les témoins ou les victimes et leur famille, soit une concertation
+frauduleuse entre personnes mises en examen et complices ;
 
 2° De protéger la personne mise en examen, de garantir son maintien à la
 disposition de la justice, de mettre fin à l'infraction ou de prévenir son

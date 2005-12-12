@@ -4,12 +4,13 @@ Une réduction supplémentaire de la peine peut être accordée aux condamnés q
 manifestent des efforts sérieux de réadaptation sociale, notamment en passant
 avec succès un examen scolaire, universitaire ou professionnel traduisant
 l'acquisition de connaissances nouvelles, en justifiant de progrès réels dans le
-cadre d'un enseignement ou d'une formation ou en s'efforçant d'indemniser leurs
-victimes. Sauf décision du juge de l'application des peines, prise après avis de
-la commission de l'application des peines, les personnes condamnées à un suivi
-socio-judiciaire comprenant une injonction de soins, et qui refusent de suivre
-un traitement pendant leur incarcération, ne sont pas considérées comme
-manifestant des efforts sérieux de réadaptation sociale.
+cadre d'un enseignement ou d'une formation, en suivant une thérapie destinée à
+limiter les risques de récidive ou en s'efforçant d'indemniser leurs victimes.
+Sauf décision du juge de l'application des peines, prise après avis de la
+commission de l'application des peines, les personnes condamnées pour une
+infraction pour laquelle le suivi socio-judiciaire est encouru et qui refusent
+de suivre le traitement qui leur est proposé pendant leur incarcération, ne sont
+pas considérées comme manifestant des efforts sérieux de réadaptation sociale.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de
 la commission de l'application des peines, ne peut excéder, si le condamné est

@@ -6,4 +6,5 @@ est encourue.
 
 En matière correctionnelle, la juridiction ne peut prononcer une peine
 d'emprisonnement sans sursis qu'après avoir spécialement motivé le choix de
-cette peine.
+cette peine. Toutefois, il n'y a pas lieu à motivation spéciale lorsque la
+personne est en état de récidive légale.

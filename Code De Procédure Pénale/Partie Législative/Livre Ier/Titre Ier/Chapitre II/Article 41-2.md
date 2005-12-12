@@ -55,7 +55,14 @@ République ou ne pas entrer en relation avec eux ;
 12° Ne pas quitter le territoire national et remettre son passeport pour une
 durée qui ne saurait excéder six mois ;
 
-13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté.
+13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté ;
+
+14° En cas d'infraction commise soit contre son conjoint ou son concubin, soit
+contre ses enfants ou les enfants de ce dernier, résider hors du domicile ou de
+la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce
+domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si
+nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
+psychologique.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la
 réparation du préjudice commis, le procureur de la République doit également

@@ -25,4 +25,7 @@ de complice ;
 l'utilisation, pour la diffusion de messages à destination d'un public non
 déterminé, d'un réseau de télécommunications ;
 
-9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime.
+9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
+
+10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis
+sur d'autres victimes.

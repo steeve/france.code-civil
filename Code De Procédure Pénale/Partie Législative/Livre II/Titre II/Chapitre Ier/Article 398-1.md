@@ -12,7 +12,8 @@ l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1,
 3° Les délits en matière de réglementations relatives aux transports terrestres
 ;
 
-4° Les délits prévus par l'article L. 2339-9 du code de la défense ;
+4° Les délits de port ou transport d'armes de la 6e catégorie prévus par
+l'article L. 2339-9 du code de la défense ;
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 13°), 222-13 (1° à
 13°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11 311-3, 311-4 (1°

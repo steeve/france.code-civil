@@ -1,11 +1,12 @@
 Article 717-3
 ----
-Les activités de travail et de formation professionnelle sont prises en compte
-pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
+Les activités de travail et de formation professionnelle ou générale sont prises
+en compte pour l'appréciation des gages de réinsertion et de bonne conduite des
+condamnés.
 
 Au sein des établissements pénitentiaires, toutes dispositions sont prises pour
-assurer une activité professionnelle aux personnes incarcérées qui le
-souhaitent.
+assurer une activité professionnelle, une formation professionnelle ou générale
+aux personnes incarcérées qui en font la demande.
 
 Les relations de travail des personnes incarcérées ne font pas l'objet d'un
 contrat de travail. Il peut être dérogé à cette règle pour les activités
