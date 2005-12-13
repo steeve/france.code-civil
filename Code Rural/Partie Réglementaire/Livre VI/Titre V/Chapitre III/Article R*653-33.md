@@ -1,11 +1,8 @@
 Article R*653-33
 ----
-Les ovins et les caprins en provenance de l'Union européenne ou de pays tiers
-doivent être identifiés et accompagnés du ou des documents prévus par la
-réglementation douanière et sanitaire en vigueur lorsque l'animal est :
-
-1° Soit en transhumance ;
-
-2° Soit en transit ;
-
-3° Soit transporté en vue d'une importation définitive.
+Sans préjudice des dispositions de l'article L. 221-4, une restriction,
+partielle ou totale, des mouvements d'entrée et de sortie des animaux de
+l'exploitation peut être décidée par le directeur départemental des services
+vétérinaires en cas de non-respect des mesures prévues par l'article R. 653-32.
+Un arrêté du ministre chargé de l'agriculture fixe les modalités d'application
+du présent article.
