@@ -3,7 +3,7 @@ Article D731-18
 La déclaration des revenus professionnels est souscrite au moyen d'un imprimé
 établi conformément au modèle fixé par arrêté du ministre chargé de
 l'agriculture ; il est mis à la disposition des assurés par les caisses de
-mutualité sociale agricole au moins trente jours avant les dates prévues au 3°
+mutualité sociale agricole au moins trente jours avant les dates prévues au 4°
 de l'article D. 731-17.
 
 Les chefs d'exploitation ou d'entreprise agricole peuvent choisir, dans le cadre

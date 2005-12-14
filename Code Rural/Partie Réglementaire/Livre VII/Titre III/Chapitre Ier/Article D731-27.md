@@ -26,3 +26,11 @@ conformément aux dispositions de l'article D. 731-31 et des revenus
 professionnels des deux années précédentes. Cette assiette fait l'objet d'une
 régularisation sur la base de la moyenne des revenus définitivement connus
 afférents aux trois premières années lorsque ceux-ci sont définitivement connus.
+
+Pour les personnes qui ont formulé la demande prévue à l'article L. 731-22, le
+montant des fractions de cotisations restant à payer après la formulation de
+cette demande est déterminé en pourcentage d'un montant de cotisations calculé à
+partir d'une assiette égale au tiers de la somme de l'assiette forfaitaire,
+fixée conformément aux dispositions de l'article D. 731-31, des revenus estimés
+de l'année précédant celle au titre de laquelle les cotisations sont dues et des
+revenus de l'année antérieure à cette même année.
