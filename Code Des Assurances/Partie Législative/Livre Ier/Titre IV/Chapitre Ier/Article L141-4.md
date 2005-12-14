@@ -6,8 +6,9 @@ Le souscripteur est tenu :
 garanties et leurs modalités d'entrée en vigueur ainsi que les formalités à
 accomplir en cas de sinistre ;
 
-- d'informer par écrit les adhérents des modifications qu'il est prévu, le cas
-échéant, d'apporter à leurs droits et obligations.
+- d'informer par écrit les adhérents des modifications apportées à leurs droits
+et obligations, trois mois au minimum avant la date prévue de leur entrée en
+vigueur.
 
 La preuve de la remise de la notice à l'adhérent et de l'information relative
 aux modifications contractuelles incombe au souscripteur.

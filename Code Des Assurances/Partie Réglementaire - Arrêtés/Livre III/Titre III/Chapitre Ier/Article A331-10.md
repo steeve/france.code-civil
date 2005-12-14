@@ -21,10 +21,10 @@ d'invalidité est effectué à partir des éléments suivants :
 l'arrêté du 27 avril 1993 réactualisant les tables de mortalité ;
 
 Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi
-de survie en invalidité établie et certifiée par un actuaire indépendant de
-cette entreprise, agréé à cet effet par l'une des associations d'actuaires
-reconnues par la commission de contrôle des assurances ;
+de survie en invalidité établie par l'entreprise d'assurance et certifiée par un
+actuaire indépendant de cette entreprise, agréé à cet effet par l'une des
+associations d'actuaires reconnues par l'Autorité de contrôle des assurances et
+des mutuelles ;
 
-2° Un taux d'actualisation qui ne peut excéder 60 p. 100 du taux moyen des
-emprunts de l'Etat français calculé sur base semestrielle, sans pouvoir dépasser
-3,5 p. 100.
+2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen des emprunts
+de l'Etat français calculé sur base semestrielle, sans pouvoir dépasser 3,5 %.
