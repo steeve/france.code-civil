@@ -5,8 +5,7 @@ Les cotisations dont sont redevables les personnes mentionnées à l'article L.
 activité non salariée agricole, sont calculées sur la base d'une assiette
 forfaitaire. Pour la détermination de celle-ci, les revenus de capitaux
 mobiliers s'entendent de ceux définis au 1° du 1 de l'article 109 du code
-général des impôts, majorés de l'avoir fiscal prévu à l'article 158 bis du même
-code.
+général des impôts.
 
 Lorsque le montant des revenus de capitaux mobiliers est au plus égal à 2028
 fois le salaire minimum de croissance en vigueur au 1er janvier de l'année au
