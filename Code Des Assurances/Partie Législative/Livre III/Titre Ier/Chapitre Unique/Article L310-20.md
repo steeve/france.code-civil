@@ -1,6 +1,6 @@
 Article L310-20
 ----
-La Commission de contrôle des assurances, l'Autorité des marchés financiers, la
+L'Autorité de contrôle des assurances, l'Autorité des marchés financiers, la
 Commission bancaire, le Comité des établissements de crédit et des entreprises
 d'investissement, le Comité des entreprises d'assurance, le Conseil de la
 concurrence, les entreprises de marché et les chambres de compensation visées à

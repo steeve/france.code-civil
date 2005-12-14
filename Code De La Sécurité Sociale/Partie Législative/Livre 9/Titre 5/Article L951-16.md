@@ -11,5 +11,5 @@ versement, à leur profit, du fonds paritaire de garantie, dans les limites
 prévues par le règlement du fonds.
 
 Le fonds paritaire de garantie dispose d'un droit d'accès aux documents
-justificatifs du calcul de sa contribution, dont le montant est arrêté par la
-commission de contrôle.
+justificatifs du calcul de sa contribution, dont le montant est arrêté par
+l'Autorité de contrôle.

@@ -10,10 +10,9 @@ garanti par contrat, procède à un versement en une seule fois au profit de
 chaque assuré, souscripteur de contrats, adhérent ou bénéficiaire de prestations
 contre la remise par celui-ci d'un récépissé du versement.
 
-A titre exceptionnel, la commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance peut, sur la demande du fonds de garantie, lui
-accorder une prolongation, qui ne saurait être supérieure à trois mois, du délai
-prévu à l'alinéa précédent.
+A titre exceptionnel, l'Autorité de contrôle des assurances et des mutuelles
+peut, sur la demande du fonds de garantie, lui accorder une prolongation, qui ne
+saurait être supérieure à trois mois, du délai prévu à l'alinéa précédent.
 
 Le fonds met en oeuvre la garantie, selon la même procédure, si le liquidateur
 présente une demande complémentaire de versement en apportant la preuve que des

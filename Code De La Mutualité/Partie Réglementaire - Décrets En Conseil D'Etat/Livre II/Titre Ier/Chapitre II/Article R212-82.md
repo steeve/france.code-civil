@@ -1,7 +1,7 @@
 Article R212-82
 ----
-La commission de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier
-les limites fixées à la présente section, prendre en compte les instruments
+L'Autorité de contrôle mentionnée à l'article L. 510-1 peut, pour apprécier les
+limites fixées à la présente section, prendre en compte les instruments
 financiers utilisés par les organismes :
 
 a) Dans lesquels, d'une part, la mutuelle ou union a investi un montant

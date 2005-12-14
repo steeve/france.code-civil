@@ -31,7 +31,6 @@ sont recalculés sur la base de prestations majorées de 20 % et le taux des
 rachats exceptionnels pris en compte est égal au triple du taux annuel moyen des
 rachats constatés au cours des années passées.
 
-Les mutuelles et unions transmettent les résultats du test chaque année à la
-commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance avant le 31 mars, dans la forme de l'état C 6 bis défini dans
-l'annexe à l'article A. 114-5.
+Les mutuelles et unions transmettent les résultats du test chaque année à
+l'Autorité de contrôle des assurances et des mutuelles avant le 31 mars, dans la
+forme de l'état C 6 bis défini dans l'annexe à l'article A. 114-5.

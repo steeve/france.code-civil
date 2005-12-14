@@ -11,8 +11,8 @@ et la connaissance des actes et documents se rapportant aux immeubles
 expertisés.
 
 III. - Le ou les experts adressent à l'institution, avec leur rapport, l'état de
-leurs vacations, frais et honoraires et en remettent une copie à la commission
-de contrôle instituée par l'article L. 951-1. Lorsqu'elle envisage de contester
-le montant demandé par un des experts, l'institution de prévoyance ou l'union le
-notifie à la commission de contrôle dans un délai de quinze jours à compter de
-la réception de l'état des vacations.
+leurs vacations, frais et honoraires et en remettent une copie à l'Autorité de
+contrôle instituée par l'article L. 951-1. Lorsqu'elle envisage de contester le
+montant demandé par un des experts, l'institution de prévoyance ou l'union le
+notifie à l'Autorité de contrôle dans un délai de quinze jours à compter de la
+réception de l'état des vacations.

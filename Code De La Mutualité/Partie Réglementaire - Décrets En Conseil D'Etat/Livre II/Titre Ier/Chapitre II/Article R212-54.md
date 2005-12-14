@@ -20,15 +20,15 @@ d) La valeur de réalisation des immeubles et des parts ou actions des société
 immobilières ou foncières non inscrites à la cote d'une bourse de valeurs d'un
 Etat membre de l'organisation de coopération et de développement économique est
 déterminée sur la base d'une expertise quinquennale effectuée par un expert
-accepté par la commission de contrôle mentionnée à l'article L. 510-1. Entre
-deux expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par
-un expert accepté par cette commission ;
+accepté par l'Autorité de contrôle mentionnée à l'article L. 510-1. Entre deux
+expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un
+expert accepté par cette Autorité ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée
 comme il est prévu aux articles R. 212-52 et R. 212-53 ci-dessus, sauf dans le
 cas où une autre valeur résulte soit d'une expertise effectuée dans les
-conditions prévues à l'article R. 212-56, soit d'un accord entre la commission
-de contrôle mentionnée à l'article L. 510-1 et la mutuelle ou l'union.
+conditions prévues à l'article R. 212-56, soit d'un accord entre l'Autorité de
+contrôle mentionnée à l'article L. 510-1 et la mutuelle ou l'union.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des
 articles R. 212-52 et R. 212-53, il y a lieu de déduire de l'évaluation prévue

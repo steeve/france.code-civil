@@ -10,7 +10,7 @@ de l'article R. 931-10-42. Pour l'estimation des valeurs mentionnées au 1° de
 l'article R. 931-10-21, la fraction courue du coupon est prise en compte.
 
 A la demande d'une institution de prévoyance ou d'une union d'institutions de
-prévoyance, la commission de contrôle instituée à l'article L. 951-1 peut, par
+prévoyance, l'Autorité de contrôle instituée à l'article L. 951-1 peut, par
 dérogation aux dispositions du premier alinéa du présent article, l'autoriser,
 pour une durée déterminée, à constituer la garantie mentionnée à l'article R.
 931-10-25 dans des limites fixées par arrêté du ministre chargé de la sécurité

@@ -12,5 +12,5 @@ sont garantis par un versement, à leur profit, du fonds de garantie, dans les
 limites prévues par décret en Conseil d'Etat.
 
 Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du
-calcul de sa contribution, dont le montant est arrêté par la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance.
+calcul de sa contribution, dont le montant est arrêté par l'Autorité de contrôle
+des assurances et des mutuelles.

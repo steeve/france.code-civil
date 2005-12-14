@@ -14,8 +14,8 @@ vice-président du Conseil d'Etat ;
 4° Le gouverneur de la Banque de France, président de la Commission bancaire, ou
 son représentant ;
 
-5° Le président de la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance, ou son représentant ;
+5° Le président de l'Autorité de contrôle des assurances et des mutuelles, ou
+son représentant ;
 
 6° Le directeur des affaires civiles et du sceau au ministère de la justice, ou
 son représentant ;

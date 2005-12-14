@@ -1,7 +1,7 @@
 Article A140-1
 ----
 L'information préalable de l'adhérent mentionnée au premier alinéa de l'article
-L. 140-6 du code des assurances est fournie sous la forme d'un document
+L. 141-6 du code des assurances est fournie sous la forme d'un document
 spécifique, distinct de tous autres documents contractuels ou précontractuels.
 Etabli en double exemplaire, il est signé et daté par l'adhérent, qui conserve
 l'original.

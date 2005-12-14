@@ -17,9 +17,9 @@ immobilière ou foncière ou du commissaire aux comptes de l'institution ou de
 l'union.
 
 La réévaluation est faite par immeuble, soit par une expertise effectuée par un
-expert accepté par la commission de contrôle instituée à l'article L. 951-1
-selon les modalités fixées aux articles A. 931-10-15 et A. 931-10-16, soit par
-actualisation de la dernière estimation, certifiée par un expert accepté par la
-commission de contrôle précitée, par application d'une règle basée sur des
+expert accepté par l'Autorité de contrôle instituée à l'article L. 951-1 selon
+les modalités fixées aux articles A. 931-10-15 et A. 931-10-16, soit par
+actualisation de la dernière estimation, certifiée par un expert accepté par
+l'Autorité de contrôle précitée, par application d'une règle basée sur des
 indices représentatifs du marché immobilier et figurant dans le bulletin
 d'adhésion, le règlement ou le contrat.

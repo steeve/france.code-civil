@@ -4,10 +4,10 @@ I. - L'unité de rente correspondant à un rachat a la même valeur d'acquisitio
 que l'unité de rente acquise normalement dans l'année du rachat.
 
 II. - Chaque année, les institutions et les unions pratiquant les opérations
-collectives relevant de l'article L. 222-1 communiquent à la commission de
-contrôle prévue à l'article L. 510-1, pour chacun des règlements qu'elles
-mettent en oeuvre, la valeur de service et la valeur d'acquisition de l'unité de
-rente pour l'exercice à venir.
+collectives relevant de l'article L. 222-1 communiquent à l'Autorité de contrôle
+prévue à l'article L. 510-1, pour chacun des règlements qu'elles mettent en
+oeuvre, la valeur de service et la valeur d'acquisition de l'unité de rente pour
+l'exercice à venir.
 
 Elles communiquent également :
 

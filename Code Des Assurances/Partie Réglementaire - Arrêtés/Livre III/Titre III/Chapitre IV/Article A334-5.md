@@ -23,7 +23,7 @@ e) Les avantages du personnel ;
 
 f) Le périmètre de consolidation.
 
-La commission de contrôle peut dispenser une entreprise ou l'ensemble des
+L'autorité de contrôle peut dispenser une entreprise ou l'ensemble des
 entreprises d'assurance d'effectuer un ou plusieurs des retraitements mentionnés
 à l'article R. 334-42 dès lors que ce ou ces retraitements, pris ensemble ou
 séparément, ont un impact marginal sur le calcul de la marge de solvabilité

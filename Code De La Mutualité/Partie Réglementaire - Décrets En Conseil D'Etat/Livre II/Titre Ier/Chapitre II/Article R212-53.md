@@ -16,7 +16,7 @@ b) Les immeubles et les parts ou actions des sociétés immobilières ou fonciè
 non inscrites à la cote d'une bourse de valeurs d'un Etat membre de
 l'Organisation de coopération et de développement économique sont retenus pour
 leur prix d'achat ou de revient ou, dans les conditions fixées dans chaque cas
-par la commission de contrôle mentionnée à l'article L. 510-1, pour une valeur
+par l'Autorité de contrôle mentionnée à l'article L. 510-1, pour une valeur
 déterminée après expertise effectuée conformément à l'article R. 212-56. Les
 valeurs sont diminuées des amortissements pratiqués. Le prix de revient des
 immeubles est celui qui ressort des travaux de construction et d'amélioration, à
@@ -35,5 +35,5 @@ avant la publication du plan comptable, constataient les dépréciations, même
 lorsque celles-ci n'avaient pas un caractère durable, peuvent continuer à faire
 application de cette méthode jusqu'au dernier exercice clos un an avant le 1er
 janvier 2007 ; elles peuvent y renoncer à tout moment, en le notifiant
-préalablement à la commission de contrôle mentionnée à l'article L. 510-1, cette
+préalablement à l'Autorité de contrôle mentionnée à l'article L. 510-1, cette
 renonciation étant alors définitive.

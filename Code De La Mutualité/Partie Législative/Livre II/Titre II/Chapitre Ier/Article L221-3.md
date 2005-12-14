@@ -14,6 +14,3 @@ obligations respectifs des mutuelles et des unions concernées et, notamment, le
 conditions dans lesquelles sont mises en oeuvre les dispositions du présent
 titre relatives à l'information des membres participants ainsi que des mutuelles
 et unions souscriptrices.
-
-Une mutuelle ou une union qui présente des garanties dont le risque est porté
-par un autre organisme mutualiste agit comme intermédiaire mutualiste.

@@ -54,19 +54,18 @@ dans les conditions fixées au V.
 
 VIII. - Toute décision d'emprunter doit être autorisée par l'assemblée générale
 délibérant dans les conditions prévues au V et faire l'objet d'une résolution
-spéciale dont la teneur est préalablement soumise à l'approbation de la
-commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des
-assurés des entreprises affiliées par convention, au vu d'un dossier comportant
-une présentation détaillée des objectifs poursuivis, des conséquences de
-l'emprunt sur la situation financière de la société et des entreprises
-affiliées, ainsi que, le cas échéant, une description précise des cas de
-remboursement anticipé.
+spéciale dont la teneur est préalablement soumise à l'approbation de l'Autorité
+de contrôle des assurances et des mutuelles. Celle-ci se prononce, en veillant à
+la sauvegarde des intérêts des assurés des entreprises affiliées par convention,
+au vu d'un dossier comportant une présentation détaillée des objectifs
+poursuivis, des conséquences de l'emprunt sur la situation financière de la
+société et des entreprises affiliées, ainsi que, le cas échéant, une description
+précise des cas de remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à compter du dépôt du texte de la
 résolution et du dossier mentionné ci-dessus et en l'absence de décision
-expresse de la commission, l'autorisation est considérée comme accordée. En cas
-de décision expresse, celle-ci est communiquée à l'assemblée générale.
+expresse de l'Autorité, l'autorisation est considérée comme accordée. En cas de
+décision expresse, celle-ci est communiquée à l'assemblée générale.
 
 IX. - Les dispositions de l'article R. 322-54-3 sont applicables aux sociétés de
 groupe d'assurance mutuelle.

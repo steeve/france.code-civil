@@ -37,10 +37,9 @@ mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
-de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance peut
-autoriser la mutuelle ou l'union à ne pas effectuer les déductions prévues aux a
-et b.
+de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
+contrôle des assurances et des mutuelles peut autoriser la mutuelle ou l'union à
+ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -55,16 +54,16 @@ montant le plus faible étant retenu. Toutefois, la prise en compte de ceux de
 ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise
 qu'à concurrence de 25 % de cette marge. Tout remboursement effectué
 irrégulièrement peut, conformément aux dispositions de l'article L. 510-11,
-donner lieu à application de sanctions par la commission de contrôle mentionnée
-à l'article L. 510-1 ;
+donner lieu à application de sanctions par l'Autorité de contrôle mentionnée à
+l'article L. 510-1 ;
 
 2. Les réserves constituées en application des articles L. 111-6 et L. 431-1, y
 compris la part de cotisation versée par la mutuelle ou l'union et non utilisée
 par le système fédéral de garantie ou le fonds de garantie.
 
 III. - Sur demande et justification de la mutuelle ou de l'union et avec
-l'accord de la commission de contrôle mentionnée à l'article L. 510-1, la marge
-de solvabilité peut également être constituée par les éléments suivants :
+l'accord de l'Autorité de contrôle mentionnée à l'article L. 510-1, la marge de
+solvabilité peut également être constituée par les éléments suivants :
 
 1. Avec l'accord des autorités de contrôle des Etats membres de la Communauté
 européenne où la mutuelle ou l'union exerce son activité :

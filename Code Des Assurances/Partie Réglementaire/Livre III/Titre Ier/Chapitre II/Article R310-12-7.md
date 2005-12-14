@@ -1,7 +1,7 @@
 Article R310-12-7
 ----
 I. - Toutes les dépenses doivent être liquidées et ordonnancées au cours de
-l'exercice auquel elles se rattachent. Les dépenses de la commission de contrôle
+l'exercice auquel elles se rattachent. Les dépenses de l'Autorité de contrôle
 sont réglées par l'agent comptable sur l'ordre donné par le secrétaire général
 ou après avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés
 de pièces justificatives nécessaires, et notamment des factures, mémoires,

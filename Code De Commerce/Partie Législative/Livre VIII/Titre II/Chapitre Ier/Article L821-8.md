@@ -3,8 +3,8 @@ Article L821-8
 Le garde des sceaux, ministre de la justice, peut faire diligenter des
 inspections et demander, à cet effet, le concours de l'Autorité des marchés
 financiers, de la Compagnie nationale des commissaires aux comptes, de la
-Commission bancaire ou de la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance.
+Commission bancaire ou de l'Autorité de contrôle des assurances et des
+mutuelles.
 
 L'Autorité des marchés financiers peut faire diligenter toute inspection d'un
 commissaire aux comptes d'une personne faisant appel public à l'épargne ou d'un

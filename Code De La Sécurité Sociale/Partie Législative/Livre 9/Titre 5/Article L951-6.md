@@ -1,20 +1,20 @@
 Article L951-6
 ----
-La commission peut demander aux commissaires aux comptes d'une institution tout
+L'Autorité peut demander aux commissaires aux comptes d'une institution tout
 renseignement sur l'activité de celle-ci. Les commissaires aux comptes sont
 alors déliés, à son égard, du secret professionnel.
 
-La commission de contrôle peut également transmettre aux commissaires aux
-comptes des personnes mentionnées au premier alinéa les informations nécessaires
-à l'accomplissement de leur mission. Ces informations sont couvertes par le
-secret professionnel.
+L'Autorité de contrôle peut également transmettre aux commissaires aux comptes
+des personnes mentionnées au premier alinéa les informations nécessaires à
+l'accomplissement de leur mission. Ces informations sont couvertes par le secret
+professionnel.
 
-La commission de contrôle peut en outre transmettre des observations écrites aux
+L'Autorité de contrôle peut en outre transmettre des observations écrites aux
 commissaires aux comptes qui sont alors tenus d'apporter des réponses en cette
 forme.
 
 Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à
-la commission tout fait ou décision concernant l'institution visée au premier
+l'Autorité tout fait ou décision concernant l'institution visée au premier
 alinéa, dont ils ont eu connaissance dans l'exercice de leur mission, de nature
 :
 
@@ -34,7 +34,7 @@ d'institutions de prévoyance, à un groupement paritaire de prévoyance ou dans
 une institution ou un organisme relevant du second alinéa de l'article L. 931-34
 ou dans une institution de prévoyance, groupement paritaire de prévoyance
 appartenant à un conglomérat financier dont la surveillance est coordonnée par
-la commission de contrôle mentionnée à l'article L. 951-1 dans les conditions
+l'Autorité de contrôle mentionnée à l'article L. 951-1 dans les conditions
 prévues à l'article L. 933-4-6.
 
 La responsabilité des commissaires aux comptes ne peut être engagée pour les

@@ -20,5 +20,4 @@ assujettis à des règles prudentielles considérées comme équivalentes par la
 Commission bancaire ;
 
 d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord
-de la Commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance.
+de l'Autorité de contrôle des assurances et des mutuelles.

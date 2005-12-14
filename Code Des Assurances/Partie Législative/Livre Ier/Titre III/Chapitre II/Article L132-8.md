@@ -32,3 +32,7 @@ l'assuré, lorsque celui-ci n'est pas le contractant. Cette désignation ou cett
 substitution peut être réalisée soit par voie d'avenant au contrat, soit en
 remplissant les formalités édictées par l'article 1690 du code civil, soit par
 endossement quand la police est à ordre, soit par voie testamentaire.
+
+Lorsque l'assureur est informé du décès de l'assuré, l'assureur est tenu
+d'aviser le bénéficiaire, si les coordonnées sont portées au contrat, de la
+stipulation effectuée à son profit.

@@ -16,7 +16,7 @@ b) Des organismes mentionnés à l'article L. 518-1 du code monétaire et financ
 
 c) Des établissements de crédit ou entreprises d'investissement de pays tiers
 assujettis à des règles prudentielles considérées comme équivalentes par la
-commission bancaire ;
+Commission bancaire ;
 
 d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord
-de la commission de contrôle mentionnée à l'article L. 510-1.
+de l'Autorité de contrôle mentionnée à l'article L. 510-1.

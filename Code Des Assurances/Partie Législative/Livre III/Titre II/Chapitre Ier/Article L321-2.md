@@ -1,10 +1,11 @@
 Article L321-2
 ----
-Le Comité des entreprises d'assurance informe la Commission des communautés
-européennes de toute décision d'agrément d'une entreprise contrôlée par une
-entreprise dont le siège social est établi dans un Etat non partie à l'accord
-sur l'Espace économique européen. Le contrôle s'entend au sens des articles L.
-233-3 et L. 233-16 du code de commerce.
+Le Comité des entreprises d'assurance informe la Commission européenne et les
+autorités compétentes mentionnées au 11° de l'article L. 334-2 de toute décision
+d'agrément d'une entreprise contrôlée par une entreprise dont le siège social
+est établi dans un Etat non partie à l'accord sur l'Espace économique européen.
+Le contrôle s'entend au sens des articles L. 233-3 et L. 233-16 du code de
+commerce.
 
 Sur demande de l'autorité compétente des communautés européennes fondée sur ce
 qu'il a été constaté que les entreprises d'assurance ayant leur siège social

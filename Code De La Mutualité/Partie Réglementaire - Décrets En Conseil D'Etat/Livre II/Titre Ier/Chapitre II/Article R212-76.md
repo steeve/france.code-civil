@@ -1,7 +1,7 @@
 Article R212-76
 ----
-Sauf dérogation accordée au cas par cas par la commission de contrôle mentionnée
-à l'article L. 510-1, notamment au regard d'une modification globale des
+Sauf dérogation accordée au cas par cas par l'Autorité de contrôle mentionnée à
+l'article L. 510-1, notamment au regard d'une modification globale des
 conditions de marché, la somme des valeurs de réalisation positives de
 l'ensemble des instruments financiers à terme conclus de gré à gré avec
 l'ensemble des contreparties ne peut excéder 10 % de la base de dispersion

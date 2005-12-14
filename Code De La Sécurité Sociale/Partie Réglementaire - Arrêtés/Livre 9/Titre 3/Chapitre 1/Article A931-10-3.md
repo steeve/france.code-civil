@@ -7,8 +7,8 @@ du présent article. Ce facteur ne peut excéder dix.
 
 La durée résiduelle moyenne, à la date du calcul de la marge de solvabilité, est
 déterminée comme une moyenne pondérée des durées résiduelles des bulletins
-d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de la
-Commission de contrôle mentionnée à l'article L. 951-1, à partir de la
+d'adhésion ou contrats à la même date. Ce calcul s'effectue, après accord de
+l'Autorité de contrôle mentionnée à l'article L. 951-1, à partir de la
 cotisation annuelle ou d'une cotisation équivalente compte tenu de la durée du
 bulletin d'adhésion ou du contrat, ou de la provision mathématique.
 

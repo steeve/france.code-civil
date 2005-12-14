@@ -18,7 +18,7 @@ conformément à l'article R. 931-11-9 ;
 les institutions ou unions et les organismes auxquels elles sont apparentées ou
 subordonnées dans la mesure où ils sont admis à contribuer à la constitution de
 la marge de solvabilité de l'organisme assureur au passif duquel ils sont
-inscrits. Toutefois, la commission de contrôle mentionnée à l'article L. 951-1
+inscrits. Toutefois, l'Autorité de contrôle mentionnée à l'article L. 951-1
 dispose de la capacité de considérer comme pouvant être rendue disponible une
 plus grande part de ces titres et emprunts, dès lors qu'elle considère comme
 adéquate la répartition à l'intérieur de l'ensemble formé par les institutions

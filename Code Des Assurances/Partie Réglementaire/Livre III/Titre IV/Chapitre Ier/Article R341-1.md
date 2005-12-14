@@ -17,10 +17,10 @@ présent code ;
 l'article L. 310-1, autres que celles dont le siège social se trouve dans un
 Etat membre de la Communauté européenne, pour leurs opérations sur le territoire
 de la République française ou, lorsqu'elles sont soumises à une vérification de
-solvabilité globale exercée par la commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance, en vertu de la section IV du
-chapitre IV du titre III du présent livre, pour les opérations effectuées dans
-l'ensemble des pays auxquels s'étend cette vérification.
+solvabilité globale exercée par l'Autorité de contrôle des assurances et des
+mutuelles, en vertu de la section IV du chapitre IV du titre III du présent
+livre, pour les opérations effectuées dans l'ensemble des pays auxquels s'étend
+cette vérification ;
 
 3° Aux entreprises soumises au contrôle de l'Etat en vertu de l'article L.
 310-1-1.

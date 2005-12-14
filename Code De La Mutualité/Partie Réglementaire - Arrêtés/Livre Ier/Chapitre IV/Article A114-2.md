@@ -1,19 +1,18 @@
 Article A114-2
 ----
 I. - Sous réserve des dispositions mentionnées au V du présent article, les
-mutuelles et unions soumises au contrôle de la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance en application de
-l'article L. 510-1 remettent chaque année à cette dernière leurs comptes annuels
-dans les trente jours qui suivent leur approbation par l'assemblée générale.
-Elles joignent à cet envoi le rapport de gestion du conseil d'administration
-ainsi que les rapports des commissaires aux comptes et, pour celles qui y sont
-astreintes, le bilan social.
+mutuelles et unions soumises au contrôle de l'Autorité de contrôle des
+assurances et des mutuelles en application de l'article L. 510-1 remettent
+chaque année à cette dernière leurs comptes annuels dans les trente jours qui
+suivent leur approbation par l'assemblée générale. Elles joignent à cet envoi le
+rapport de gestion du conseil d'administration ainsi que les rapports des
+commissaires aux comptes et, pour celles qui y sont astreintes, le bilan social.
 
 II. - Sous réserve des dispositions mentionnées au V du présent article, les
 mutuelles et unions régies par le livre II du présent code et n'ayant pas conclu
 de convention de substitution pour l'intégralité de leurs opérations pratiquées
-en vertu de l'article L. 211-5 remettent chaque année à la commission de
-contrôle précitée :
+en vertu de l'article L. 211-5 remettent chaque année à l'Autorité de contrôle
+précitée :
 
 1° Dans les cinq mois suivant la clôture de l'exercice, le compte rendu détaillé
 annuel défini à l'article A. 114-4 ;
@@ -39,4 +38,4 @@ mêmes délais par l'organisme qui s'est substitué à elles.
 V. - Les mutuelles et unions mentionnées à l'article L. 510-2 du présent code
 remettent les documents mentionnés au I et au II ou III à l'autorité
 administrative qui exerce le contrôle au niveau régional, laquelle communique
-ces documents à la commission de contrôle précitée.
+ces documents à l'Autorité de contrôle précitée.

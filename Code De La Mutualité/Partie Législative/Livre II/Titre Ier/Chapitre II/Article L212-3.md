@@ -12,5 +12,5 @@ solvabilité contient obligatoirement une analyse des conditions dans lesquelles
 l'organisme est en mesure, à moyen et long terme, de faire face à l'ensemble de
 ses engagements.
 
-Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à la commission
-de contrôle mentionnée à l'article L. 510-1.
+Ce rapport est communiqué aux commissaires aux comptes, ainsi qu'à l'Autorité de
+contrôle mentionnée à l'article L. 510-1.

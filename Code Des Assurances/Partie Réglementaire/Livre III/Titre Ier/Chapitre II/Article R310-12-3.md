@@ -1,7 +1,7 @@
 Article R310-12-3
 ----
-Sans préjudice des compétences du président, le secrétaire général représente la
-commission de contrôle dans tous les actes de la vie civile.
+Sans préjudice des compétences du président, le secrétaire général représente
+l'Autorité de contrôle dans tous les actes de la vie civile.
 
 Il est ordonnateur des recettes et des dépenses.
 
@@ -15,8 +15,8 @@ définies par le règlement comptable et financier ;
 
 3° Gérer les disponibilités et décider des placements ;
 
-4° Passer au nom de la commission tous contrats, conventions et marchés et
-décider des prises ou cessions à bail de biens immobiliers ;
+4° Passer au nom de l'Autorité tous contrats, conventions et marchés et décider
+des prises ou cessions à bail de biens immobiliers ;
 
 5° Engager, gérer et licencier le personnel à l'égard duquel il exerce la
 compétence de l'employeur et en fixer les rémunérations et les indemnités ;
@@ -28,13 +28,13 @@ justice dans les matières relevant de sa compétence propre ;
 l'égard duquel il exerce la compétence de l'employeur.
 
 Dans les matières relevant de sa compétence, le secrétaire général est autorisé
-à transiger au nom de la commission dans les conditions fixées par les articles
+à transiger au nom de l'Autorité dans les conditions fixées par les articles
 2044 à 2058 du code civil.
 
 Un secrétaire général adjoint, placé sous l'autorité du secrétaire général, est
 nommé parmi les membres du corps de l'inspection générale des affaires sociales
 par arrêté conjoint des ministres chargés des finances, de la sécurité sociale
-et de la mutualité pris après avis de la commission.
+et de la mutualité pris après avis de l'Autorité.
 
 Le secrétaire général peut déléguer sa signature au secrétaire général adjoint
 en toute matière à l'exclusion des compétences qu'il détient, le cas échéant, en

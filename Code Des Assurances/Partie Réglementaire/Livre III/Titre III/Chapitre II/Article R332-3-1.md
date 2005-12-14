@@ -2,7 +2,7 @@ Article R332-3-1
 ----
 Rapportée à la base de dispersion définie à l'article R. 332-3, la valeur au
 bilan des actifs mentionnés ci-après ne peut excéder, sauf dérogation accordée
-cas par cas par la commission de contrôle des assurances :
+cas par cas par l'Autorité de contrôle des assurances et des mutuelles :
 
 1° 5 % pour l'ensemble des valeurs émises, prêts obtenus ou garantis par un même
 organisme et des dépôts placés auprès de cet organisme, à l'exception :

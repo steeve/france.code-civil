@@ -1,7 +1,7 @@
 Article L951-7
 ----
 Si cela est nécessaire à l'exercice de sa mission et dans la limite de celle-ci,
-la commission peut décider d'étendre le contrôle sur place d'une institution à
+l'Autorité peut décider d'étendre le contrôle sur place d'une institution à
 toute personne morale liée directement ou indirectement à cette institution par
 une convention et susceptible d'altérer son autonomie de fonctionnement ou de
 décision concernant l'un quelconque de ses domaines d'activité. Cette extension
@@ -16,6 +16,6 @@ Les contrôles sur place peuvent également, dans le cadre de conventions
 internationales, être étendus aux succursales ou filiales d'assurance
 d'institutions de prévoyance implantées à l'étranger.
 
-La commission de contrôle peut procéder à la vérification sur place des
+L'Autorité de contrôle peut procéder à la vérification sur place des
 informations nécessaires à la surveillance complémentaire instituée à l'article
 L. 933-3 auprès de l'institution et de ses organismes apparentés.

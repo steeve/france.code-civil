@@ -24,16 +24,16 @@ existant à la date de la liquidation ou contractées pour les besoins de celle-
 e) Ces titres ont la capacité d'absorber les pertes, même en cas de poursuite de
 l'activité ;
 
-f) Les statuts prévoient qu'ils ne peuvent être modifiés qu'après que la
-commission de contrôle aura déclaré, après avoir vérifié que le contrat modifié
-continuera de remplir les conditions fixées au présent article, ne pas s'opposer
-à la modification envisagée ;
+f) Les statuts prévoient qu'ils ne peuvent être modifiés qu'après que l'autorité
+de contrôle aura déclaré, après avoir vérifié que le contrat modifié continuera
+de remplir les conditions fixées au présent article, ne pas s'opposer à la
+modification envisagée ;
 
 g) Si les statuts prévoient une possibilité de rachat des actions de préférence
 par l'entreprise émettrice ou si la conversion des actions de préférence en
 actions ordinaires se traduit par une réduction de capital, ce rachat ou cette
 conversion ne peut intervenir avant 5 ans à compter de la date d'émission et
-nécessite l'approbation préalable de la commission de contrôle
+nécessite l'approbation préalable de l'autorité de contrôle
 
 II. - Les actions de préférence entrant dans la composition de la marge de
 solvabilité mentionnées au 1 du Il des articles R. 334-3 et R. 334-11 doivent
@@ -55,9 +55,10 @@ d'assurance débitrice, la dette devra être remboursée avant l'échéance conv
 ;
 
 3° Le contrat d'émission ou d'emprunt prévoit qu'il ne pourra être modifié
-qu'après que la Commission de contrôle des assurances aura déclaré, après avoir
-vérifié que le contrat modifié continuera de remplir les conditions fixées au
-présent article, ne pas s'opposer à la modification envisagée ;
+qu'après que l'autorité de contrôle des assurances et des mutuelles aura
+déclaré, après avoir vérifié que le contrat modifié continuera de remplir les
+conditions fixées au présent article, ne pas s'opposer à la modification
+envisagée ;
 
 4° Le contrat d'émission ou d'emprunt doit prévoir une échéance de remboursement
 des fonds au moins égale à cinq ans ou, lorsque aucune échéance n'est fixée, un
@@ -65,40 +66,42 @@ préavis d'au moins cinq ans pour tout remboursement.
 
 IV. - Au plus tard un an avant la date prévue pour le remboursement de tout ou
 partie des fonds visés au II et au III ci-dessus, l'entreprise d'assurance
-débitrice soumet à la Commission de contrôle des assurances un plan indiquant
-comment la marge de solvabilité sera maintenue, après le remboursement, au
-niveau requis par la réglementation. Ce plan n'est pas exigé si la part des
-fonds incluse dans la marge de solvabilité est progressivement et régulièrement
-ramenée à zéro par l'entreprise d'assurance au cours des cinq dernières années
-au moins avant l'échéance de remboursement.
+débitrice soumet à l'autorité de contrôle des assurances et des mutuelles un
+plan indiquant comment la marge de solvabilité sera maintenue, après le
+remboursement, au niveau requis par la réglementation. Ce plan n'est pas exigé
+si la part des fonds incluse dans la marge de solvabilité est progressivement et
+régulièrement ramenée à zéro par l'entreprise d'assurance au cours des cinq
+dernières années au moins avant l'échéance de remboursement.
 
 V. - Les fonds provenant des emprunts et titres subordonnés à durée déterminée
 entrant dans la composition de la marge de solvabilité peuvent être remboursés
-par anticipation à l'initiative de l'entreprise d'assurance débitrice si la
-Commission de contrôle des assurances a préalablement autorisé un tel
-remboursement, après s'être assurée que la marge de solvabilité ne risquait pas
-d'être ramenée en dessous du niveau nécessaire pour garantir durablement le
-respect de la marge requise par la réglementation.
+par anticipation à l'initiative de l'entreprise d'assurance débitrice si
+l'autorité de contrôle des assurances et des mutuelles a préalablement autorisé
+un tel remboursement, après s'être assurée que la marge de solvabilité ne
+risquait pas d'être ramenée en dessous du niveau nécessaire pour garantir
+durablement le respect de la marge requise par la réglementation.
 
-Dans les mêmes conditions, la Commission de contrôle des assurances peut
-autoriser le remboursement des fonds provenant des emprunts et titres
-subordonnés à durée indéterminée entrant dans la composition de la marge de
-solvabilité sans application du préavis prévu au 4° du III du présent article.
+Dans les mêmes conditions, l'autorité de contrôle des assurances et des
+mutuelles peut autoriser le remboursement des fonds provenant des emprunts et
+titres subordonnés à durée indéterminée entrant dans la composition de la marge
+de solvabilité sans application du préavis prévu au 4° du III du présent
+article.
 
 Dans les cas visés au présent paragraphe, l'entreprise d'assurance débitrice
-soumet au moins six mois à l'avance à la Commission de contrôle des assurances,
-à l'appui de sa demande d'autorisation, un plan indiquant comment la marge de
-solvabilité sera maintenue, après le remboursement, au niveau requis par la
-réglementation. L'absence de décision notifiée à l'entreprise à l'expiration
-d'un délai de six mois vaut autorisation.
+soumet au moins six mois à l'avance à l'autorité de contrôle des assurances et
+des mutuelles, à l'appui de sa demande d'autorisation, un plan indiquant comment
+la marge de solvabilité sera maintenue, après le remboursement, au niveau requis
+par la réglementation. L'absence de décision notifiée à l'entreprise à
+l'expiration d'un délai de six mois vaut autorisation.
 
 Sont notamment soumis aux dispositions du présent paragraphe l'amortissement
 anticipé par offre publique d'achat ou d'échange et le rachat en bourse de
 titres cotés ; toutefois un émetteur peut racheter en bourse sans autorisation
-préalable jusqu'à 5 % des titres émis, à condition d'informer la Commission de
-contrôle des assurances des rachats effectués.
+préalable jusqu'à 5 % des titres émis, à condition d'informer l'autorité de
+contrôle des assurances et des mutuelles des rachats effectués.
 
 VI. - Les contrats d'émission concernant des emprunts et titres à durée
 indéterminée qui prévoient formellement que tout remboursement est subordonné à
-autorisation préalable de la Commission de contrôle des assurances n'ont pas à
-prévoir le délai de préavis minimum visé au 4° du III du présent article.
+autorisation préalable de l'autorité de contrôle des assurances et des mutuelles
+n'ont pas à prévoir le délai de préavis minimum visé au 4° du III du présent
+article.

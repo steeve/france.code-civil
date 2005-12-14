@@ -1,8 +1,8 @@
 Article R951-1-1
 ----
-Les agents mis, en vertu de l'article L. 951-4, à la disposition de la
-commission de contrôle instituée par l'article L. 951-1, vérifient tous les
-livres, registres, règlements et bulletins d'adhésion, contrats, bordereaux,
+Les agents mis, en vertu de l'article L. 951-4, à la disposition de l'Autorité
+de contrôle instituée par l'article L. 951-1, vérifient tous les livres,
+registres, règlements et bulletins d'adhésion, contrats, bordereaux,
 procès-verbaux, pièces comptables ou documents quelconques relatifs à la
 situation de l'institution de prévoyance ou de l'union d'institutions de
 prévoyance et à toutes les opérations qu'elle pratique ; ils effectuent toutes

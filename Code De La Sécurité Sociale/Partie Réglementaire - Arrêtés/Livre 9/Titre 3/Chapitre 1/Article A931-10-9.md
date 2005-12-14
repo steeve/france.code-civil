@@ -22,7 +22,7 @@ annexe au présent article.
 Toutefois, il est possible pour une institution d'utiliser une loi de maintien
 établie par ses soins et certifiée par un actuaire indépendant de cette
 institution, agréé à cet effet par l'une des associations d'actuaires reconnues
-par la commission de contrôle instituée par l'article L. 951-1 du code de la
+par l'Autorité de contrôle instituée par l'article L. 951-1 du code de la
 sécurité sociale ;
 
 2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen des

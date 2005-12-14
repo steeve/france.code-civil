@@ -2,8 +2,8 @@ Article Annexe à l'article A. 931-11-15  Annexe 4
 ----
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à la
-commission de contrôle instituée par l'article L. 951-1 par les institutions de
+Les renseignements généraux du compte rendu détaillé annuel à produire à
+l'Autorité de contrôle instituée par l'article L. 951-1 par les institutions de
 prévoyance et les unions d'institutions de prévoyance sont les suivants :
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date

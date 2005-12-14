@@ -15,8 +15,7 @@ présent article et tables de génération pour les rentes viagères ;
 
 - tables établies par la mutuelle ou l'union et certifiées par un actuaire
 indépendant de celle-ci, agréé à cet effet par l'une des associations
-d'actuaires reconnues par la commission de contrôle instituée à l'article L.
-510-1.
+d'actuaires reconnues par l'Autorité de contrôle instituée à l'article L. 510-1.
 
 Pour les opérations de rentes viagères, les tarifs et les provisions techniques
 déterminés en utilisant les tables visées aux deuxième tiret du 2° ne peuvent

@@ -12,16 +12,15 @@ informations prévues à cet état sont portées dans l'état G 20 défini ci-ap
 b) Etat G 20. - Exigences complémentaires en matière d'adéquation des fonds
 propres :
 
-Un premier tableau (non reproduit) indique les exigences de solvabilité du
-secteur financier définies au II de l'article A. 933-11, en distinguant au
-minimum les exigences relatives au secteur des assurances de celles relatives au
-secteur bancaire et des services d'investissement.
+Un premier tableau indique les exigences de solvabilité du secteur financier
+définies au II de l'article A. 933-11, en distinguant au minimum les exigences
+relatives au secteur des assurances de celles relatives au secteur bancaire et
+des services d'investissement.
 
-Un second tableau (non reproduit) indique les fonds propres du conglomérat
-définis au I de l'article A. 933-11 avec leur décomposition par catégorie
-d'éléments de fonds propres et en distinguant les capitaux transsectoriels, les
-éléments du secteur des assurances et ceux du secteur bancaire et des services
-d'investissement.
+Un second tableau indique les fonds propres du conglomérat définis au I de
+l'article A. 933-11 avec leur décomposition par catégorie d'éléments de fonds
+propres et en distinguant les capitaux transsectoriels, les éléments du secteur
+des assurances et ceux du secteur bancaire et des services d'investissement.
 
 c) Etat G 21. - Concentrations de risques :
 
@@ -44,13 +43,77 @@ secteur bancaire et des entreprises d'investissement d'autre part. A cette fin,
 il est considéré que la compagnie financière holding mixte appartient au secteur
 financier le plus important.
 
-d) Etat G 22. - Transactions intragroupes importantes :
 
-Doit être déclarée toute transaction intragroupe dont le montant excède 5 % des
-exigences de solvabilité relatives au secteur financier du conglomérat
-financier. Pour chaque transaction intragroupe soumise à l'obligation de
-déclaration sont indiquées les caractéristiques de la transaction, selon le
-modèle ci-après :
+NOM
+
+de la contrepartie
+
+
+MONTANTS
+
+bruts
+
+
+DÉPRÉCIATION
+
+MONTANTS NETS
+
+de provisions
+
+
+DÉDUCTIONS
+
+RISQUES
+
+après déduction
+
+
+RISQUES NETS
+
+Contrepartie X
+
+
+Total du secteur des assurances
+
+Total du secteur bancaire et des services d'investissement
+
+
+TOTAL
+
+Contrepartie Y
+
+Tableau B : risque de placement en actions et en immobilier
+
+
+VALEUR NETTE COMPTABLE des placements en actions
+
+VALEUR NETTE COMPTABLE des placements immobiliers
+
+
+Secteur des assurances
+
+Secteur bancaire et des services d'investissement
+
+
+Total
+
+d) Etat G 22. - Transactions intragroupes importantes : Doit être déclarée toute
+transaction intragroupe dont le montant excède 5 % des exigences de solvabilité
+relatives au secteur financier du conglomérat financier. Pour chaque transaction
+intragroupe soumise à l'obligation de déclaration sont indiquées les
+caractéristiques de la transaction, selon le modèle ci-après :
+
+
+Type de transaction
+
+Date
+
+
+Montant
+
+Description de l'opération
+
+(contreparties, sens, objectifs poursuivis...)
 
 Pour les engagements figurant dans le tableau des engagements reçus et donnés ou
 le hors-bilan, le montant est celui repris dans ces états comptables
@@ -60,7 +123,7 @@ type lorsque le montant total de ces transactions excède le même seuil. Pour
 chaque type de transaction intragroupe soumise à cette obligation de déclaration
 est indiqué le montant total des transactions.
 
-II. - La commission de contrôle définit, après consultation des autres autorités
+II. - L'Autorité de contrôle définit, après consultation des autres autorités
 compétentes concernées et du conglomérat financier, les seuils de déclaration
 appropriés.
 

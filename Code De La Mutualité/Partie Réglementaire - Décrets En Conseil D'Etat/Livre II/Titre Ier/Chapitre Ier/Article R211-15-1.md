@@ -42,9 +42,8 @@ III. - Lorsque le retrait d'agrément concerne une mutuelle ou une union
 réalisant des opérations visées au b du 1° du I de l'article L. 111-1, l'avis
 mentionné au I du présent article reproduit le texte des articles L. 212-19 et
 L. 212-21. Le cas échéant, chaque membre participant ou ayant droit est par
-ailleurs informé, dans les mêmes conditions, des décisions prises par la
-commission de contrôle en application du deuxième alinéa de l'article L. 212-21.
-Lorsque la décision de la commission a pour effet de fixer la date à laquelle
-les bulletins d'adhésion cessent d'avoir effet, cette communication intervient
-au plus tard vingt jours avant la date de cessation des effets du bulletin
-d'adhésion.
+ailleurs informé, dans les mêmes conditions, des décisions prises par l'Autorité
+de contrôle en application du deuxième alinéa de l'article L. 212-21. Lorsque la
+décision de l'Autorité a pour effet de fixer la date à laquelle les bulletins
+d'adhésion cessent d'avoir effet, cette communication intervient au plus tard
+vingt jours avant la date de cessation des effets du bulletin d'adhésion.

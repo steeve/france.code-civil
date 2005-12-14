@@ -21,18 +21,18 @@ qui lui sont applicables ;
 l'union garantie au sens de l'annexe à l'article A 931-11-9, troisième alinéa.
 
 III. - La dérogation prévue au troisième alinéa de l'article R. 931-10-38 ne
-peut être accordée par la commission de contrôle instituée par l'article L.
-951-1 que dans la mesure où elle ne diminue pas la qualité de la représentation
-des engagements réglementées, et dans les limites suivantes :
+peut être accordée par l'Autorité de contrôle instituée par l'article L. 951-1
+que dans la mesure où elle ne diminue pas la qualité de la représentation des
+engagements réglementées, et dans les limites suivantes :
 
-- la durée, fixée initialement par la commission de contrôle, ne peut excéder un
+- la durée, fixée initialement par l'Autorité de contrôle, ne peut excéder un
 exercice, éventuellement renouvelable dans les conditions définies par celle-ci
 ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à
 aucun moment excéder :
 
-- le montant maximum autorisé par la commission de contrôle ;
+- le montant maximum autorisé par l'Autorité de contrôle ;
 
 - la moitié du montant total des engagements réglementés tels que définis à
 l'article R. 931-10-12 ;
@@ -40,6 +40,6 @@ l'article R. 931-10-12 ;
 - les deux tiers du montant total de la part des réassureurs dans les provisions
 techniques.
 
-IV. - La dérogation peut être supprimée à tout moment par la commission de
-contrôle instituée par l'article L. 951-1 si celle-ci estime que les conditions
-l'ayant justifiée ne sont plus remplies.
+IV. - La dérogation peut être supprimée à tout moment par l'Autorité de contrôle
+instituée par l'article L. 951-1 si celle-ci estime que les conditions l'ayant
+justifiée ne sont plus remplies.

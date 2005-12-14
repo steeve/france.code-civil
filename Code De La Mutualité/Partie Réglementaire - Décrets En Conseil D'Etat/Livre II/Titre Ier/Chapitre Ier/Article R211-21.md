@@ -6,13 +6,13 @@ plusieurs branches mentionnées à l'article R. 211-2 avec une autre mutuelle ou
 union.
 
 La mutuelle ou l'union qui s'est substituée à un autre organisme est chargée,
-pour le compte et à la place de cet organisme, de faire à la commission de
-contrôle mentionnée à l'article L. 510-1 les différentes communications
-prescrites par le livre V, de tenir à son siège les livres de comptabilité,
-registres ou fichiers prévus par le présent code et de mettre à la disposition
-des agents chargés du contrôle des organismes mutualistes mentionnés à l'article
-L. 951-4 du code de la sécurité sociale tous les documents nécessaires à
-l'accomplissement de la mission de cette commission.
+pour le compte et à la place de cet organisme, de faire à l'Autorité de contrôle
+mentionnée à l'article L. 510-1 les différentes communications prescrites par le
+livre V, de tenir à son siège les livres de comptabilité, registres ou fichiers
+prévus par le présent code et de mettre à la disposition des agents chargés du
+contrôle des organismes mutualistes mentionnés à l'article L. 951-4 du code de
+la sécurité sociale tous les documents nécessaires à l'accomplissement de la
+mission de cette Autorité.
 
 La convention prévoit que la mutuelle ou l'union qui s'est substituée à un
 organisme doit constituer et représenter, dans les conditions fixées par

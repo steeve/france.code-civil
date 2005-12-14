@@ -1,8 +1,8 @@
 Article A211-3
 ----
 La mutuelle ou l'union qui souhaite se substituer à un autre organisme
-mutualiste présente à la commission de contrôle instituée par l'article L. 510-1
-un dossier d'information en double exemplaire qui comporte :
+mutualiste présente à l'Autorité de contrôle instituée par l'article L. 510-1 un
+dossier d'information en double exemplaire qui comporte :
 
 a) La décision d'agrément ou la copie de la demande d'agrément de la mutuelle ou
 de l'union ;

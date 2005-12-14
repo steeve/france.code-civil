@@ -6,7 +6,7 @@ registre national des mutuelles :
 1° Les décisions d'agrément et de retrait d'agrément prises en application des
 articles L. 211-7 et L. 211-9 ;
 
-2° Les décisions de la Commission de contrôle mentionnée à l'article L. 510-1
+2° Les décisions de l'Autorité de contrôle mentionnée à l'article L. 510-1
 prises en application de l'article L. 510-10 ;
 
 3° Les mesures mentionnées aux articles L. 212-15 et L. 212-16 du présent code

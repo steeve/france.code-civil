@@ -35,6 +35,6 @@ l'efficacité de la décision, une autorité compétente peut décider de ne pas
 consulter ses homologues, sous réserve de les informer sans délai de cette
 décision.
 
-3° La Commission de contrôle coopère étroitement avec les autres autorités
+3° L'autorité de contrôle coopère étroitement avec les autres autorités
 compétentes en vue de rechercher l'effectivité des sanctions ou mesures adoptées
 conformément aux articles L. 334-16 et L. 334-17.

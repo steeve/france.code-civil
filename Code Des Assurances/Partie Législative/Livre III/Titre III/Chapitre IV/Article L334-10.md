@@ -1,6 +1,6 @@
 Article L334-10
 ----
-Lorsqu'elle est coordonnateur, la commission de contrôle assure, au titre de la
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle assure, au titre de la
 surveillance complémentaire :
 
 1° La coordination de la collecte et de la diffusion de toute information utile

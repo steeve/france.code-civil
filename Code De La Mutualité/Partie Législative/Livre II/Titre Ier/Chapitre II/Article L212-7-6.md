@@ -1,15 +1,15 @@
 Article L212-7-6
 ----
-La commission de contrôle mentionnée à l'article L. 510-1, la commission
-bancaire, l'Autorité des marchés financiers, en liaison, le cas échéant, avec
-les autorités de surveillance des entités réglementées des Etats membres ou
-autres Etats parties à l'accord sur l'Espace économique européen identifient les
+L'Autorité de contrôle mentionnée à l'article L. 510-1, la commission bancaire,
+l'Autorité des marchés financiers, en liaison, le cas échéant, avec les
+autorités de surveillance des entités réglementées des Etats membres ou autres
+Etats parties à l'accord sur l'Espace économique européen identifient les
 groupes entrant dans le champ de la surveillance complémentaire des conglomérats
 financiers et échangent à cet effet toute information utile à l'accomplissement
 de leurs missions respectives.
 
-Lorsqu'un groupe a été identifié comme un conglomérat financier et que la
-commission de contrôle mentionnée à l'article L. 510-1 est désignée,
+Lorsqu'un groupe a été identifié comme un conglomérat financier et que
+l'Autorité de contrôle mentionnée à l'article L. 510-1 est désignée,
 conformément aux dispositions de l'article L. 212-7-9, comme le coordonnateur de
 la surveillance complémentaire, elle en informe l'entité tête de groupe ou, à
 défaut, l'entité réglementée qui affiche le total du bilan le plus élevé dans le

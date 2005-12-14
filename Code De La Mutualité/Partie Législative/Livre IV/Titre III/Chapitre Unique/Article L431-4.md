@@ -34,14 +34,14 @@ d'elles. Son président ne peut exercer ses fonctions qu'après agrément du
 ministre chargé de la mutualité.
 
 Le ministre chargé de la mutualité ou son représentant ainsi que le président de
-la commission de contrôle mentionnée à l'article L. 510-1 ou son représentant
+l'Autorité de contrôle mentionnée à l'article L. 510-1 ou son représentant
 peuvent, à leur demande, être entendus par le conseil de surveillance et le
 directoire.
 
-La commission de contrôle mentionnée à l'article L. 510-1 entend le président du
+L'Autorité de contrôle mentionnée à l'article L. 510-1 entend le président du
 directoire du fonds de garantie sur toute question concernant une mutuelle ou
 une union pour laquelle elle envisage de mettre en oeuvre les dispositions du
 présent chapitre.
 
-Le président du directoire est également entendu, à sa demande, par la
-commission de contrôle mentionnée à l'article L. 510-1.
+Le président du directoire est également entendu, à sa demande, par l'Autorité
+de contrôle mentionnée à l'article L. 510-1.

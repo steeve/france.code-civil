@@ -1,7 +1,7 @@
 Article R310-12-2
 ----
 Sur proposition du secrétaire général et dans le cadre des dispositions
-mentionnées aux articles L. 310-12-3 et L. 310-12-4, la commission de contrôle
+mentionnées aux articles L. 310-12-3 et L. 310-12-4, l'Autorité de contrôle
 délibère sur :
 
 1° Le budget annuel et ses modifications en cours d'année ;

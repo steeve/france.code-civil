@@ -16,7 +16,7 @@ définie au 4° de l'article R. 212-23. Le montant ainsi calculé est inscrit po
 provisions pour risques en cours. Pour l'application du présent alinéa, les
 sinistres sont rattachés à l'exercice de survenance.
 
-La commission de contrôle instituée par l'article L. 510-1 peut prescrire à une
+L'Autorité de contrôle instituée par l'article L. 510-1 peut prescrire à une
 mutuelle ou union de prendre des dispositions appropriées pour le calcul prévu
 au précédent alinéa. Elle peut également, si le taux calculé en application du
 précédent alinéa apparaît insuffisant en raison d'évolutions récentes et

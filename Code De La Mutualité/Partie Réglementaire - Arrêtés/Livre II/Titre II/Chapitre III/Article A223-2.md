@@ -16,8 +16,8 @@ du commissaire aux comptes de la société immobilière ou foncière ou du
 commissaire aux comptes de la mutuelle ou de l'union de mutuelles.
 
 La réévaluation doit être effectuée par immeuble soit par une expertise
-effectuée par un expert accepté par la commission de contrôle instituée à
-l'article L. 510-1, soit par actualisation de la dernière estimation certifiée
-par un expert accepté par la commission de contrôle précitée par application
-d'une règle basée sur des indices représentatifs du marché immobilier et
-figurant dans le règlement ou le contrat collectif.
+effectuée par un expert accepté par l'Autorité de contrôle instituée à l'article
+L. 510-1, soit par actualisation de la dernière estimation certifiée par un
+expert accepté par l'Autorité de contrôle précitée par application d'une règle
+basée sur des indices représentatifs du marché immobilier et figurant dans le
+règlement ou le contrat collectif.

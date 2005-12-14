@@ -1,7 +1,7 @@
 Article L951-10-1
 ----
 Lorsqu'une institution de prévoyance fait l'objet d'une procédure de transfert
-d'office de portefeuille, la commission de contrôle peut, si elle estime que les
+d'office de portefeuille, l'Autorité de contrôle peut, si elle estime que les
 personnes physiques ou morales, autres que les salariés d'institutions de
 prévoyance, par l'intermédiaire desquelles des bulletins d'adhésion à des
 règlements ou des contrats ont été proposés ou souscrits, ont eu un comportement

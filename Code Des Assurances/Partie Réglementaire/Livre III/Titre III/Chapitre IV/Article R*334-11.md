@@ -1,28 +1,93 @@
 Article R*334-11
 ----
-Une entreprise étrangère dont le siège social n'est pas établi sur le territoire
-d'un Etat membre de la Communauté économique européenne, agréée ou demandant
-l'agrément pour pratiquer les opérations d'assurances dommages en France et dans
-un ou plusieurs autres Etats membres, peut demander au ministre de l'économie et
-des finances que lui soient appliquées une ou plusieurs des mesures suivantes :
+I. - La marge de solvabilité mentionnée à l'article L. 334-1 est constituée,
+après déduction des pertes, de la part des frais d'acquisition non admise en
+représentation des engagements réglementés et des autres éléments incorporels,
+par les éléments suivants :
 
-a) Que, par dérogation aux dispositions de l'article R. 334-6, la marge de
-solvabilité soit calculée en fonction de l'activité globale qu'elle exerce sur
-le territoire de la République française et sur celui des autres Etats membres
-qui acceptent cette mesure ;
+1. Le capital social versé ou le fonds d'établissement constitué ; toutefois,
+les actions de préférence définies à l'article L. 228-11 du code de commerce ne
+sont admises que si elles remplissent les conditions fixées par arrêté du
+ministre chargé de l'économie relatives notamment aux droits financiers attachés
+et aux versements correspondants, lesquels doivent pouvoir être suspendus et ne
+sont pas dans ce cas reportés à un exercice ultérieur ;
 
-b) Qu'elle soit dispensée de l'obligation de déposer en France le cautionnement
-prévu par le d de l'article R. 321-8, sous réserve de justifier du dépôt auprès
-d'un autre Etat membre d'un cautionnement égal au quart du montant minimal du
-fonds de garantie calculé en fonction de l'activité globale qu'elle exerce en
-France et dans les autres Etats membres ayant accepté cette procédure ;
+2. Les réserves de toute dénomination, réglementaires ou libres, ne
+correspondant pas aux engagements, y compris la réserve de capitalisation ;
 
-c) Que, par dérogation aux dispositions de l'article R. 334-6, les actifs
-formant la contrepartie du fonds de garantie, calculé en fonction de l'activité
-globale qu'elle exerce en France et dans les autres Etats membres qui acceptent
-cette mesure, soient localisés sur le territoire de la République française ou
-sur celui d'un des Etats précités.
+3. Le report du bénéfice ou de la perte, déduction faite des dividendes à verser
+au titre du dernier exercice.
 
-L'entreprise doit justifier qu'elle présente une demande analogue aux autorités
-de contrôle des Etats membres dans lesquels elle est agréée ou demande
-l'agrément pour pratiquer les opérations mentionnées ci-dessus.
+La marge de solvabilité est diminuée du montant de ses actions propres détenues
+directement par l'entreprise d'assurance.
+
+Lorsque l'entreprise n'est pas soumise à une surveillance complémentaire en
+application de l'article L. 334-3 ou de l'article L. 334-4, la marge de
+solvabilité est également diminuée des éléments suivants :
+
+a) Les participations au sens du 2° de l'article L. 334-2 que l'entreprise
+d'assurance détient dans des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers ;
+
+b) Les créances subordonnées et autres instruments financiers que l'entreprise
+d'assurance détient sur des établissements de crédit, des entreprises
+d'investissement ou des établissements financiers dans lesquels elle détient une
+participation, et qui sont considérés comme des fonds propres pour le calcul des
+exigences de fonds propres applicables aux entreprises et établissements
+mentionnés ci-dessus.
+
+Lorsqu'une participation dans un établissement de crédit, une entreprise
+d'investissement ou un établissement financier est détenue temporairement en vue
+de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
+contrôle des assurances et des mutuelles peut autoriser l'entreprise d'assurance
+à ne pas effectuer les déductions prévues aux a et b.
+
+II. - La marge de solvabilité peut également être constituée par :
+
+1. Les fonds effectivement versés provenant de l'émission de titres ou emprunts
+subordonnés, ainsi que d'actions de préférence définies à l'article L. 228-11 du
+code de commerce autres que celles à caractère non cumulatif mentionnées au 1 du
+I. Ces titres et emprunts subordonnés et actions de préférence doivent répondre
+aux conditions, notamment de durée et de remboursements, qui sont fixées par
+arrêté du ministre chargé de l'économie. La prise en compte de ces fonds est
+admise jusqu'à concurrence de 50 % du montant le plus faible de l'exigence de
+marge de solvabilité ou de la marge de solvabilité. Toutefois, la prise en
+compte de ceux de ces fonds qui proviennent de titres ou emprunts à durée
+déterminée n'est admise qu'à concurrence de 25 % de cette marge. Tout
+remboursement effectué irrégulièrement peut, conformément aux dispositions de
+l'article L. 310-18, donner lieu à application de sanctions par l'Autorité de
+contrôle.
+
+2. La réserve pour fonds de garantie prévue à l'article R. 423-16, à hauteur de
+la part de cotisation versée par l'entreprise et non utilisée par le fonds.
+
+III. - Sur demande et justification de l'entreprise et avec l'accord de
+l'Autorité de contrôle, la marge de solvabilité peut également être constituée
+par :
+
+1. La moitié de la fraction non versée du capital ou de la part restant à
+rembourser de l'emprunt pour fonds d'établissement, dès que la partie versée
+atteint 25 % de ce capital ou de ce fonds, à concurrence de 50 % du montant le
+plus faible de la marge de solvabilité ou de l'exigence de marge de solvabilité
+;
+
+2. Les plus-values pouvant résulter de la sous-estimation d'éléments d'actif
+dans la mesure où de telles plus-values n'ont pas un caractère exceptionnel ;
+
+3. Les plus-values latentes sur les instruments financiers à terme mentionnés
+aux articles R. 332-45 et R. 332-46, dès lors que les opérations correspondantes
+sont négociées sur un marché reconnu au sens du dernier alinéa du A de l'article
+R. 332-2 ou réalisées de gré à gré dans la mesure où elles sont garanties dans
+les conditions prévues à l'article R. 332-56 ;
+
+4. Jusqu'au 31 décembre 2009, un montant représentant 50 % des bénéfices futurs
+de l'entreprise. Le montant des bénéfices futurs est obtenu en multipliant le
+bénéfice annuel estimé de l'entreprise par le facteur qui représente la durée
+résiduelle moyenne des contrats.
+
+Un arrêté du ministre chargé de l'économie fixe les modalités de calcul du
+facteur mentionné à l'alinéa précédent ainsi que les éléments constitutifs du
+bénéfice annuel estimé.
+
+Les moins-values latentes sur instruments financiers à terme non provisionnées
+sont déduites des éléments énumérés au 2 et au 3 du III.

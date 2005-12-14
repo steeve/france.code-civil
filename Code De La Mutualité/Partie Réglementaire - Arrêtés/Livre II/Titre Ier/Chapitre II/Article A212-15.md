@@ -22,18 +22,18 @@ qui lui sont applicables ;
 l'union garantie.
 
 III. - La dérogation prévue au troisième alinéa de l'article R. 212-50 ne peut
-être accordée par la commission de contrôle mentionnée à l'article L. 510-1 que
+être accordée par l'Autorité de contrôle mentionnée à l'article L. 510-1 que
 dans la mesure où elle ne diminue pas la qualité de la représentation des
 engagements réglementés, et dans les limites suivantes :
 
-- la durée fixée initialement par la commission de contrôle ne peut excéder un
+- la durée fixée initialement par l'Autorité de contrôle ne peut excéder un
 exercice, éventuellement renouvelable dans les conditions définies par celle-ci
 ;
 
 - le montant total des garanties admises au titre de ladite dérogation ne peut à
 aucun moment excéder :
 
-- le montant maximum autorisé par la commission de contrôle ;
+- le montant maximum autorisé par l'Autorité de contrôle ;
 
 - la moitié du montant total des engagements réglementés tels que définis à
 l'article R. 212-21 ;
@@ -41,6 +41,6 @@ l'article R. 212-21 ;
 - les deux tiers du montant total de la part des réassureurs dans les provisions
 techniques.
 
-IV. - La dérogation peut être supprimée à tout moment par la commission de
-contrôle mentionnée à l'article L. 510-1 si celle-ci estime que les conditions
-l'ayant justifiée ne sont plus remplies.
+IV. - La dérogation peut être supprimée à tout moment par l'Autorité de contrôle
+mentionnée à l'article L. 510-1 si celle-ci estime que les conditions l'ayant
+justifiée ne sont plus remplies.

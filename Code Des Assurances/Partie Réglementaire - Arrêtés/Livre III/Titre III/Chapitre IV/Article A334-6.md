@@ -17,8 +17,8 @@ en précisant la société vendeuse, la société acheteuse, la valeur comptable
 la première, le prix de vente et la référence ayant permis d'établir celui-ci.
 
 Les opérations nouvelles mentionnées à cet article sont déclarées à l'issue de
-chaque trimestre dans les 30 jours à la Commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance.
+chaque trimestre dans les 30 jours à l'Autorité de contrôle des assurances et
+des mutuelles.
 
 En outre, dans tous les cas, les rachats ou remboursements des titres et
 emprunts subordonnés effectués directement ou indirectement entre entreprises

@@ -2,10 +2,10 @@ Article D212-3
 ----
 I. - Le compte financier mentionné au II de l'article D. 212-1 comprend, en
 produits, la part du produit net des placements calculée suivant les règles
-fixées au II du présent article et, en charges, sur autorisation de la
-commission de contrôle mentionnée à l'article L. 510-1 et après justifications,
-la part des résultats que la mutuelle ou l'union a dû affecter aux fonds propres
-pour satisfaire au montant minimal de la marge de solvabilité.
+fixées au II du présent article et, en charges, sur autorisation de l'Autorité
+de contrôle mentionnée à l'article L. 510-1 et après justifications, la part des
+résultats que la mutuelle ou l'union a dû affecter aux fonds propres pour
+satisfaire au montant minimal de la marge de solvabilité.
 
 II. - La part du produit financier à inscrire en produits du compte financier
 est égale à la somme des deux éléments suivants :

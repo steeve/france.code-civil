@@ -1,14 +1,14 @@
 Article L334-16
 ----
-Lorsque la commission de contrôle, dans l'exercice de ses fonctions de
+Lorsque l'Autorité de contrôle, dans l'exercice de ses fonctions de
 coordonnateur, constate que la solvabilité des entités réglementées appartenant
 à un conglomérat financier risque d'être compromise, ou que les transactions
 entre les différentes entités du conglomérat ou que les concentrations de
 risques menacent la situation financière de ces entités réglementées, ou qu'une
 entité réglementée ne se conforme pas aux exigences de l'article L. 334-8, ou
 qu'une compagnie financière holding mixte ne respecte pas les dispositions
-législatives et réglementaires afférentes à son activité, la commission de
-contrôle peut prononcer, à l'encontre de cette compagnie ou de ses dirigeants :
+législatives et réglementaires afférentes à son activité, l'Autorité de contrôle
+peut prononcer, à l'encontre de cette compagnie ou de ses dirigeants :
 
 1° Une ou plusieurs des sanctions prévues aux 1, 2, 4 et 4 bis de l'article L.
 310-18 ;
@@ -33,15 +33,15 @@ capital minimum le plus élevé.
 Les sommes correspondantes sont versées au Trésor public et recouvrées comme des
 créances de l'Etat étrangères à l'impôt et au domaine.
 
-La commission de contrôle peut décider de reporter sa décision à l'expiration
-d'un délai imparti aux entités réglementées ou à la compagnie financière holding
+L'Autorité de contrôle peut décider de reporter sa décision à l'expiration d'un
+délai imparti aux entités réglementées ou à la compagnie financière holding
 mixte placée à la tête du groupe pour prendre toute mesure destinée à rétablir
 ou renforcer leur équilibre financier ou à corriger leurs pratiques.
 
 Dans les cas visés aux alinéas précédents, les dispositions des trois derniers
 alinéas de l'article L. 310-18 sont applicables.
 
-La commission de contrôle informe de ces constatations les autorités compétentes
+L'Autorité de contrôle informe de ces constatations les autorités compétentes
 chargées de la surveillance sectorielle des entités réglementées du conglomérat
 financier.
 
@@ -52,7 +52,7 @@ en France, dans les conditions prévues à l'alinéa précédent, les sanctions
 prévues au présent article ou prendre les mesures prévues par son droit
 national.
 
-Les autorités compétentes sectorielles, y compris la commission de contrôle
+Les autorités compétentes sectorielles, y compris l'Autorité de contrôle
 lorsqu'elle intervient en cette qualité, peuvent faire usage, aux fins de la
 surveillance complémentaire, des pouvoirs de sanctions dont elles disposent au
 titre de la surveillance sectorielle à l'égard des entités réglementées soumises

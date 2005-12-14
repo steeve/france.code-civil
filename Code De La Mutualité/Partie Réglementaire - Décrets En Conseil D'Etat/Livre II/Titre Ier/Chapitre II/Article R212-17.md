@@ -8,8 +8,8 @@ de solvabilité définie à l'article R. 212-16.
 Ce fonds ne peut être inférieur à 2,25 millions d'euros. Ce montant est révisé
 annuellement en fonction de l'évolution de l'indice européen des prix à la
 consommation publié par l'Eurostat pour l'ensemble des Etats membres. Chaque
-année, la commission de contrôle communique le nouveau montant en euros calculé
-en fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros
+année, l'Autorité de contrôle communique le nouveau montant en euros calculé en
+fonction de l'évolution de cet indice et arrondi au multiple de 100 000 euros
 supérieur. Si la variation de l'indice depuis la dernière adaptation est
 inférieure à 5 %, ce montant n'est pas révisé.
 

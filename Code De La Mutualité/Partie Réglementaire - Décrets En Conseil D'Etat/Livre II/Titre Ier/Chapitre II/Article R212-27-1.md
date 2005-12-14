@@ -6,6 +6,6 @@ engagements à l'égard des membres participants, bénéficiaires et ayants droi
 dans des conditions détériorées de marché. Les modalités de ce test sont fixées
 par arrêté du ministre chargé de la mutualité.
 
-Les résultats de ce test sont communiqués à la commission de contrôle mentionnée
-à l'article L. 510-1 à une date fixée par arrêté du ministre chargé de la
+Les résultats de ce test sont communiqués à l'Autorité de contrôle mentionnée à
+l'article L. 510-1 à une date fixée par arrêté du ministre chargé de la
 mutualité.

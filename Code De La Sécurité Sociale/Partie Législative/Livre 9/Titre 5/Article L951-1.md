@@ -1,22 +1,22 @@
 Article L951-1
 ----
-La Commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance instituée par l'article L. 310-12 du code des assurances est
-compétente pour assurer le contrôle des institutions, unions et groupements
-régis par le présent livre et par l'article L. 727-2 du code rural.
+L'Autorité de contrôle des assurances et des mutuelles instituée par l'article
+L. 310-12 du code des assurances est compétente pour assurer le contrôle des
+institutions, unions et groupements régis par le présent livre et par l'article
+L. 727-2 du code rural.
 
 Les opérations de retraite complémentaire réalisées par les institutions de
 retraite complémentaire relevant du titre II du livre IX faisant l'objet d'une
 compensation interprofessionnelle et générale ne sont pas soumises au contrôle
-de la commission.
+de l'Autorité.
 
-La commission de contrôle peut décider en outre de soumettre au contrôle toute
+L'Autorité de contrôle peut décider en outre de soumettre au contrôle toute
 personne physique ou morale ayant reçu d'un organisme mentionné au présent
 article un mandat de souscription ou de gestion, ou exerçant, à quelque titre
 que ce soit, le courtage d'assurance ou la présentation d'opérations
 d'assurance.
 
-Pour les organismes soumis au contrôle de la commission de contrôle en vertu de
+Pour les organismes soumis au contrôle de l'Autorité de contrôle en vertu de
 l'article L. 510-1 du code de la mutualité et du premier alinéa du présent
 article, et par dérogation aux dispositions de l'article L. 310-12-4 du code des
 assurances, la contribution mentionnée audit article est établie et recouvrée

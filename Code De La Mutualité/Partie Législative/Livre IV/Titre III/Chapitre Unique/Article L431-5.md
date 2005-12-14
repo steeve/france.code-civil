@@ -11,5 +11,5 @@ l'exécution des traités de réassurance en cours.
 Le fonds de garantie peut engager toute action en responsabilité à l'encontre
 des dirigeants de droit ou de fait de la mutuelle ou de l'union dont la
 défaillance a entraîné son intervention, aux fins d'obtenir le remboursement de
-tout ou partie des sommes versées par lui. Il en informe la commission de
-contrôle mentionnée à l'article L. 510-1.
+tout ou partie des sommes versées par lui. Il en informe l'Autorité de contrôle
+mentionnée à l'article L. 510-1.

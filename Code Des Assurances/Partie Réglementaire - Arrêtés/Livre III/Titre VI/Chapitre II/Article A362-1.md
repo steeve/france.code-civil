@@ -5,10 +5,9 @@ en langue française et comporter les éléments suivants :
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
-b) L'adresse de la succursale en France, à laquelle la commission de contrôle
-des assurances, des mutuelles et des institutions de prévoyance et le ministre
-chargé de l'économie et des finances peuvent demander des informations pour
-l'exercice de leurs compétences ;
+b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle des
+assurances et des mutuelles et le ministre chargé de l'économie et des finances
+peuvent demander des informations pour l'exercice de leurs compétences ;
 
 c) Le nom et les pouvoirs du mandataire général ;
 

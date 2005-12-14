@@ -1,7 +1,7 @@
 Article R510-2
 ----
 Les agents mis, en vertu de l'article L. 951-4 du code de la sécurité sociale, à
-la disposition de la commission de contrôle mentionnée à l'article L. 510-1,
+la disposition de l'Autorité de contrôle mentionnée à l'article L. 510-1,
 vérifient tous les livres, registres, règlements et bulletins d'adhésion,
 contrats, bordereaux, procès-verbaux, pièces comptables ou documents quelconques
 relatifs à la situation de la mutuelle ou de l'union de mutuelles et à toutes

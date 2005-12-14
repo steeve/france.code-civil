@@ -4,7 +4,7 @@ Si une entreprise mentionnée à l'article L. 310-1-1, aux 1°, 3° ou 4° de
 l'article L. 310-2 ou à l'article L. 322-1-2 a enfreint une disposition
 législative ou réglementaire qui lui est applicable ou a des pratiques qui
 mettent en péril sa marge de solvabilité ou l'exécution des engagements qu'elle
-a contractés envers les assurés, adhérents ou ayants droit, la commission peut
+a contractés envers les assurés, adhérents ou ayants droit, l'Autorité peut
 prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des
 sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
@@ -23,11 +23,11 @@ dans l'exercice de l'activité ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
 
-La commission de contrôle peut décider de reporter sa décision à l'issue d'un
-délai qu'elle impartit à l'entreprise, pour prendre toute mesure de nature à
-mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
+L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai
+qu'elle impartit à l'entreprise, pour prendre toute mesure de nature à mettre
+fin aux manquements ou pratiques mentionnés au premier alinéa.
 
-En outre, la Commission peut prononcer soit à la place, soit en sus de ces
+En outre, l'Autorité peut prononcer soit à la place, soit en sus de ces
 sanctions, une sanction pécuniaire. Le montant de cette sanction pécuniaire doit
 être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % du
 chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos calculé
@@ -42,17 +42,15 @@ d'affaires de celle des entreprises d'assurance incluses par intégration global
 dans la consolidation ou la combinaison dont le total des primes émises au cours
 du dernier exercice clos est le plus élevé.
 
-Dans tous les cas visés au présent article, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance statue après une
-procédure contradictoire. Elle informe obligatoirement les intéressés de leur
-droit à être entendus. Lorsqu'ils font usage de cette faculté, ils peuvent se
-faire représenter ou assister.
+Dans tous les cas visés au présent article, l'Autorité de contrôle des
+assurances et des mutuelles statue après une procédure contradictoire. Elle
+informe obligatoirement les intéressés de leur droit à être entendus. Lorsqu'ils
+font usage de cette faculté, ils peuvent se faire représenter ou assister.
 
 Les personnes sanctionnées peuvent, dans le délai de deux mois qui suit la
 notification de la décision, former un recours de pleine juridiction devant le
 Conseil d'Etat.
 
-Lorsqu'une sanction prononcée par la commission de contrôle des assurances est
-devenue définitive, la commission peut, aux frais de l'entreprise sanctionnée,
-ordonner l'insertion de sa décision dans trois journaux ou publications qu'elle
-désigne et l'affichage dans les lieux et pour la durée qu'elle indique.
+L'autorité de contrôle peut rendre publique sa décision dans les journaux,
+publications ou supports qu'elle désigne. Les frais sont supportés par la
+personne sanctionnée.
