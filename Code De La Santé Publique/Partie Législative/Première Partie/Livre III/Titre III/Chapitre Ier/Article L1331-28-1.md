@@ -20,5 +20,5 @@ situation de l'immeuble, ainsi qu'aux gestionnaires du fonds de solidarité pour
 le logement du département.
 
 A la diligence du préfet et aux frais du propriétaire, l'arrêté d'insalubrité
-est publié à la conservation des hypothèques dont dépend l'immeuble pour chacun
-des locaux concernés.
+est publié à la conservation des hypothèques ou au livre foncier dont dépend
+l'immeuble pour chacun des locaux concernés.

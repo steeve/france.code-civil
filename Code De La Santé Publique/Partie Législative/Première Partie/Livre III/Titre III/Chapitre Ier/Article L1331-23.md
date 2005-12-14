@@ -1,19 +1,14 @@
 Article L1331-23
 ----
-Le représentant de l'Etat dans le département peut déclarer l'insalubrité des
-locaux et installations utilisés aux fins d'habitation, mais impropres à cet
-objet pour des raisons d'hygiène, de salubrité ou de sécurité et situés à
-l'intérieur d'un périmètre qu'il définit.
+Des locaux ne peuvent être mis à disposition aux fins d'habitation, à titre
+gratuit ou onéreux, dans des conditions qui conduisent manifestement à leur
+suroccupation. Le préfet met en demeure la personne qui a mis les locaux à
+disposition dans de telles conditions de faire cesser cette situation dans un
+délai qu'il fixe.
 
-L'arrêté du représentant de l'Etat dans le département est pris après avis du
-conseil départemental d'hygiène auquel le maire ou, le cas échéant, le président
-du groupement de communes ayant compétence en matière de logement est invité à
-présenter ses observations, et après délibération du conseil municipal ou, le
-cas échéant, de l'organe délibérant du groupement de communes ayant compétence
-en matière de logement. Cet arrêté vaut interdiction d'habiter et d'utiliser au
-sens de l'article L. 1331-28 pour les immeubles qu'il désigne.
-
-Cet arrêté est publié au Recueil des actes administratifs du département et
-affiché à la mairie du lieu de situation des biens.
-
-Il est notifié aux propriétaires et usufruitiers intéressés.
+Les dispositions de l'article L. 521-2 du code de la construction et de
+l'habitation sont applicables aux locaux visés par la mise en demeure. La
+personne qui a mis les locaux à disposition est tenue d'assurer le relogement
+des occupants affectés par l'exécution de cette mise en demeure dans les
+conditions prévues au II de l'article L. 521-3-1 du même code ; à défaut, les
+dispositions de l'article L. 521-3-2 sont applicables.
