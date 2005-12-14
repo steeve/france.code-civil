@@ -1,26 +1,22 @@
 Article L511-3
 ----
 En cas de péril imminent, le maire, après avertissement adressé au propriétaire,
-provoque la nomination par le juge du tribunal d'instance d'un homme de l'art
-qui est chargé d'examiner l'état des bâtiments dans les vingt-quatre heures qui
-suivent sa nomination.
+demande à la juridiction administrative compétente la nomination d'un expert
+qui, dans les vingt-quatre heures qui suivent sa nomination, examine les
+bâtiments, dresse constat de l'état des bâtiments mitoyens et propose des
+mesures de nature à mettre fin à l'imminence du péril s'il la constate.
 
-Si le rapport de cet expert constate l'urgence ou le péril grave et imminent, le
-maire ordonne les mesures provisoires nécessaires pour garantir la sécurité et,
+Si le rapport de l'expert conclut à l'existence d'un péril grave et imminent, le
+maire ordonne les mesures provisoires nécessaires pour garantir la sécurité,
 notamment, l'évacuation de l'immeuble.
 
-Dans le cas où ces mesures n'auraient point été exécutées dans le délai imparti
-par la sommation, le maire a le droit de faire exécuter d'office et aux frais du
-propriétaire les mesures indispensables.
+Dans le cas où ces mesures n'auraient pas été exécutées dans le délai imparti,
+le maire les fait exécuter d'office. En ce cas, le maire agit en lieu et place
+des propriétaires, pour leur compte et à leurs frais.
 
-Il est ensuite procédé conformément aux dispositions édictées dans l'article
-précédent.
+Si les mesures ont à la fois conjuré l'imminence du danger et mis fin
+durablement au péril, le maire, sur le rapport d'un homme de l'art, prend acte
+de leur réalisation et de leur date d'achèvement.
 
-La personne tenue d'exécuter les travaux prescrits peut se libérer de cette
-obligation en les faisant réaliser dans le cadre d'un bail à réhabilitation.
-Elle peut aussi conclure sur le bien concerné un bail emphytéotique ou un
-contrat de vente moyennant paiement d'une rente viagère, à charge pour les
-preneur ou débirentier d'exécuter les travaux prescrits. Dans tous les cas, il
-peut être convenu que cette personne restera dans les lieux lorsqu'elle les
-occupait à la date de l'arrêté prescrivant la réparation ou la démolition de
-l'immeuble menaçant ruine.
+Si elles n'ont pas mis fin durablement au péril, le maire poursuit la procédure
+dans les conditions prévues à l'article L. 511-2.
