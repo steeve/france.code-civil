@@ -16,7 +16,7 @@ conditions définies au premier alinéa du présent article. Cet arrêté doit
 concerner l'ensemble des institutions ou unions pratiquant une même catégorie
 d'opérations.
 
-La Commission de contrôle instituée par l'article L. 951-1 peut demander que les
+L'Autorité de contrôle instituée par l'article L. 951-1 peut demander que les
 comptes annuels lui soient communiqués avant d'être soumis à l'assemblée
 générale à partir de la date à laquelle ils doivent être tenus à la disposition
 des commissaires aux comptes.

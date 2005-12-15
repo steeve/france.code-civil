@@ -64,7 +64,7 @@ Français établis hors de France : 4
 
 = 127
 
-II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi
+II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi
 rédigé :
 
 
@@ -127,7 +127,7 @@ Français établis hors de France : 4
 
 = 127
 
-III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi
+III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi
 rédigé :
 
 

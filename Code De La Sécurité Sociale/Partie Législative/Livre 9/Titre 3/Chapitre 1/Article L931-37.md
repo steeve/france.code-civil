@@ -28,11 +28,11 @@ ou d'une union d'institutions de prévoyance, ni recevoir directement ou
 indirectement, de rétribution de celle-ci.
 
 Le ministre chargé de la sécurité sociale ou son représentant et le président de
-la commission de contrôle instituée par l'article L. 951-1 ou son représentant
+l'Autorité de contrôle instituée par l'article L. 951-1 ou son représentant
 peuvent, à leur demande, être entendus par le conseil d'administration du fonds.
 
-Préalablement à la mise en oeuvre des dispositions de l'article L. 951-15, la
-commission de contrôle entend le président et le vice-président du fonds de
+Préalablement à la mise en oeuvre des dispositions de l'article L. 951-15,
+l'Autorité de contrôle entend le président et le vice-président du fonds de
 garantie.
 
 Le fonds est soumis au contrôle de l'Etat.

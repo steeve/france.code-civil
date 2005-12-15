@@ -9,7 +9,7 @@ Les valeurs reçues en nantissement sont évaluées conformément aux dispositio
 de l'article R. 212-54. Pour l'estimation des valeurs mentionnées au 1° de
 l'article R. 212-31, la fraction courue du coupon est prise en compte.
 
-A la demande d'une mutuelle ou union, la commission de contrôle mentionnée à
+A la demande d'une mutuelle ou union, l'Autorité de contrôle mentionnée à
 l'article L. 510-1 peut, par dérogation aux dispositions du premier alinéa du
 présent article, l'autoriser, pour une durée déterminée, à constituer la
 garantie mentionnée à l'article R. 212-35 dans des limites fixées par arrêté du

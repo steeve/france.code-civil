@@ -6,7 +6,11 @@ Sont interdites :
 interdiction d'habiter, ou d'un arrêté de péril, ou sont déclarés insalubres, ou
 comportent pour le quart au moins de leur superficie totale des logements loués
 ou occupés classés dans la catégorie IV visée par la loi n° 48-1360 du 1er
-septembre 1948 précitée ;
+septembre 1948 précitée. La division d'un immeuble bâti ou d'un groupe
+d'immeubles bâtis, entre plusieurs personnes, par lots comprenant chacun une
+partie privative et une quote-part de parties communes est néanmoins autorisée
+lorsqu'il s'agit d'y réaliser des travaux de restauration immobilière déclarés
+d'utilité publique en application de l'article L. 313-4 du code de l'urbanisme ;
 
 - toute division d'immeuble en vue de créer des locaux à usage d'habitation
 d'une superficie et d'un volume habitables inférieurs respectivement à 14 m2 et

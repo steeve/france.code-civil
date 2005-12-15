@@ -3,8 +3,7 @@ Article L621-15
 I. - Le collège examine le rapport d'enquête ou de contrôle établi par les
 services de l'Autorité des marchés financiers, ou la demande formulée par le
 gouverneur de la Banque de France, président de la Commission bancaire, ou par
-le président de la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance.
+le président de l'Autorité de contrôle des assurances et des mutuelles.
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux
 personnes concernées. Il transmet la notification des griefs à la commission des

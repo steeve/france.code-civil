@@ -19,16 +19,15 @@ au jour de l'inventaire ;
 d) La valeur de réalisation des immeubles et des parts ou actions des sociétés
 immobilières ou foncières non inscrites à la cote d'une bourse de valeurs d'un
 Etat membre de l'O.C.D.E. est déterminée sur la base d'une expertise
-quinquennale effectuée par un expert accepté par la commission de contrôle
+quinquennale effectuée par un expert accepté par l'Autorité de contrôle
 instituée à l'article L. 951-1. Entre deux expertises, la valeur fait l'objet
-d'une estimation annuelle, certifiée par un expert accepté par cette commission
-;
+d'une estimation annuelle, certifiée par un expert accepté par cette Autorité ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée
 comme il est prévu aux articles R. 931-10-40 et R. 931-10-41, sauf dans le cas
 où une autre valeur résulte soit d'une expertise effectuée dans les conditions
-prévues à l'article R. 931-10-44, soit d'un accord entre la commission de
-contrôle et l'institution ou l'union.
+prévues à l'article R. 931-10-44, soit d'un accord entre l'Autorité de contrôle
+et l'institution ou l'union.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des
 articles R. 931-10-40 et R. 931-10-41, il y a lieu de déduire de l'évaluation

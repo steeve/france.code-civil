@@ -1,14 +1,13 @@
 Article R334-50
 ----
-Lorsqu'elle est désignée comme coordonnateur, la Commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance peut, après
-consultation des autres autorités compétentes concernées, au sens du 12° de
-l'article L. 334-2, et du conglomérat financier considéré, faire appliquer, à la
-place de la méthode prévue à l'article R. 334-49 pour le calcul des exigences
-complémentaires, l'une des trois méthodes suivantes, si elle lui apparaît plus
-pertinente au regard des impératifs de la surveillance complémentaire, en raison
-notamment de la structure du conglomérat financier considéré, ou à la demande de
-ce dernier.
+Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle des
+assurances et des mutuelles peut, après consultation des autres autorités
+compétentes concernées, au sens du 12° de l'article L. 334-2, et du conglomérat
+financier considéré, faire appliquer, à la place de la méthode prévue à
+l'article R. 334-49 pour le calcul des exigences complémentaires, l'une des
+trois méthodes suivantes, si elle lui apparaît plus pertinente au regard des
+impératifs de la surveillance complémentaire, en raison notamment de la
+structure du conglomérat financier considéré, ou à la demande de ce dernier.
 
 1° Méthode n° 1 : Déduction et agrégation.
 
@@ -47,11 +46,10 @@ La différence doit être positive.
 
 3° Méthode n° 3 : combinaison des trois méthodes.
 
-Lorsqu'elle est coordonnateur, la Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance peut, sous réserve des conditions
-mentionnées au premier alinéa, permettre au conglomérat financier de combiner
-deux ou trois des méthodes mentionnées à l'article R. 334-49 et au présent
-article.
+Lorsqu'elle est coordonnateur, l'Autorité de contrôle des assurances et des
+mutuelles peut, sous réserve des conditions mentionnées au premier alinéa,
+permettre au conglomérat financier de combiner deux ou trois des méthodes
+mentionnées à l'article R. 334-49 et au présent article.
 
 Un arrêté du ministre chargé de l'économie détermine les modalités de calcul des
 fonds propres et des exigences de solvabilité d'une entité qui doivent être

@@ -1,16 +1,17 @@
 Article L651-10
 ----
 I. - Lorsqu'à l'occasion de poursuites exercées sur le fondement de l'article
-225-14 du code pénal il est avéré que la continuation de l'exploitation d'un
-établissement d'hébergement des personnes est contraire aux prescriptions du
-règlement sanitaire départemental ou est susceptible de porter atteinte à la
-dignité humaine ou à la santé publique, l'autorité administrative compétente
-peut saisir sur requête le président du tribunal de grande instance ou le
-magistrat du siège délégué par lui, aux fins de faire désigner un administrateur
-provisoire pour toute la durée de la procédure ; les organismes intervenant dans
-le domaine de l'insertion par le logement agréés à cette fin par le représentant
-de l'Etat dans le département peuvent être désignés en qualité d'administrateur
-provisoire.
+225-14 du code pénal, des articles L. 1337-4 du code de la santé publique et L.
+511-6 et L. 521-4 du présent code, il est avéré que la continuation de
+l'exploitation d'un établissement d'hébergement des personnes est contraire aux
+prescriptions du règlement sanitaire départemental ou est susceptible de porter
+atteinte à la dignité humaine ou à la santé publique, l'autorité administrative
+compétente peut saisir sur requête le président du tribunal de grande instance
+ou le magistrat du siège délégué par lui, aux fins de faire désigner un
+administrateur provisoire pour toute la durée de la procédure ; les organismes
+intervenant dans le domaine de l'insertion par le logement agréés à cette fin
+par le représentant de l'Etat dans le département peuvent être désignés en
+qualité d'administrateur provisoire.
 
 II. - Le ministère public porte à la connaissance du propriétaire de l'immeuble
 et du propriétaire du fonds dans lequel est exploité l'établissement visé au I

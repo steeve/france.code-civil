@@ -33,8 +33,8 @@ l) Deux représentants des professions mentionnées au 9 de l'article L. 562-1 ;
 
 a) Le secrétaire général de la Commission bancaire ou son représentant ;
 
-b) Le secrétaire général de la commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance ou son représentant ;
+b) Le secrétaire général de l'autorité de contrôle des assurances et des
+mutuelles ou son représentant ;
 
 c) Le directeur général de l'Autorité des marchés financiers ou son représentant
 ;

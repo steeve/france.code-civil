@@ -6,5 +6,5 @@ vigueur, après amortissement intégral des dépenses d'établissement et après
 les dispositions réglementaires concernant la marge de solvabilité et la
 solvabilité ajustée aient été satisfaites.
 
-La commission de contrôle des assurances peut s'opposer à une affectation
-d'excédents aux réserves libres.
+L'Autorité de contrôle des assurances et des mutuelles peut s'opposer à une
+affectation d'excédents aux réserves libres.

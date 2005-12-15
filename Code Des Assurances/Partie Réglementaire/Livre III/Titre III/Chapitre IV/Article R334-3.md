@@ -44,10 +44,9 @@ mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
-de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance peut
-autoriser l'entreprise d'assurance à ne pas effectuer les déductions prévues aux
-a et b.
+de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
+contrôle des assurances et des mutuelles peut autoriser l'entreprise d'assurance
+à ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par :
 
@@ -64,15 +63,15 @@ solvabilité disponible, le montant le plus faible étant retenu. Toutefois, la
 prise en compte de ceux de ces fonds qui proviennent de titres ou emprunts à
 durée déterminée n'est admise qu'à concurrence de 25 %. Tout remboursement
 effectué irrégulièrement peut, conformément aux dispositions de l'article L.
-310-18, donner lieu à application de sanctions par la commission de contrôle ;
+310-18, donner lieu à application de sanctions par l'Autorité de contrôle ;
 
 2. Pour les entreprises adhérentes au fonds de garantie institué par l'article
 L. 423-1, la réserve pour fonds de garantie prévue à l'article R. 423-16, à
 hauteur de la part de cotisation versée par l'entreprise et non utilisée par le
 fonds.
 
-III. - Sur demande et justification de l'entreprise et avec l'accord de la
-commission de contrôle, la marge de solvabilité peut également être constituée
+III. - Sur demande et justification de l'entreprise et avec l'accord de
+l'Autorité de contrôle, la marge de solvabilité peut également être constituée
 par :
 
 1. La moitié de la fraction non versée du capital social ou de la part restant à

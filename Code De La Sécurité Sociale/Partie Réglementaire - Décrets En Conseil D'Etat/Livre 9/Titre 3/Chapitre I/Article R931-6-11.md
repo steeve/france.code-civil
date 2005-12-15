@@ -44,9 +44,8 @@ une union réalisant des opérations d'assurance visées au a de l'article L.
 931-1, l'avis mentionné au I du présent article reproduit le texte des articles
 L. 931-21-2 et L. 931-21-4. Le cas échéant, chaque membre adhérent ou membre
 participant et chaque bénéficiaire connu est par ailleurs informé, dans les
-mêmes conditions, des décisions prises par la commission de contrôle en
-application du deuxième alinéa de l'article L. 931-21-4. Lorsque la décision de
-la commission a pour effet de fixer la date à laquelle les bulletins d'adhésion
-ou contrats cessent d'avoir effet, cette communication intervient au plus tard
-vingt jours avant la date de cessation des effets du bulletin d'adhésion ou
-contrat.
+mêmes conditions, des décisions prises par l'Autorité de contrôle en application
+du deuxième alinéa de l'article L. 931-21-4. Lorsque la décision de l'Autorité a
+pour effet de fixer la date à laquelle les bulletins d'adhésion ou contrats
+cessent d'avoir effet, cette communication intervient au plus tard vingt jours
+avant la date de cessation des effets du bulletin d'adhésion ou contrat.

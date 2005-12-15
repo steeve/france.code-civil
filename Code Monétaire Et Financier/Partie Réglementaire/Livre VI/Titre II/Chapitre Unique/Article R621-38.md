@@ -5,8 +5,7 @@ notification des griefs est adressée, par lettre recommandée avec demande d'av
 de réception, remise en main propre contre récépissé ou acte d'huissier, à la
 personne mise en cause, accompagnée du rapport d'enquête ou de contrôle ou de la
 demande formulée par le président de la Commission bancaire ou par le président
-de la Commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance.
+de l'Autorité de contrôle des assurances et des mutuelles.
 
 La notification des griefs est transmise au président de la commission des
 sanctions.

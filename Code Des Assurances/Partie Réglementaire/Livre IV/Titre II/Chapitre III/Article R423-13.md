@@ -32,12 +32,12 @@ par l'entreprise sur la réserve pour fonds de garantie.
 
 Les entreprises adhérentes disposent d'un délai de 10 jours ouvrés pour verser
 au fonds leur cotisation à compter de la réception de la notification prévue au
-deuxième alinéa. Le fonds de garantie informe la commission de contrôle de tout
+deuxième alinéa. Le fonds de garantie informe l'autorité de contrôle de tout
 retard de versement de plus d'un mois ou de tout refus de versement d'une
-entreprise d'assurance, afin que la commission mette en oeuvre, le cas échéant,
-les procédures de sanctions prévues à l'article L. 310-18. La commission peut
-également engager une procédure de sanction si elle constate que l'entreprise
-n'a pas doté la réserve pour fonds de garantie du montant prévu.
+entreprise d'assurance, afin que l'autorité mette en oeuvre, le cas échéant, les
+procédures de sanctions prévues à l'article L. 310-18. L'autorité peut également
+engager une procédure de sanction si elle constate que l'entreprise n'a pas doté
+la réserve pour fonds de garantie du montant prévu.
 
 Les cotisations versées au fonds de garantie par les entreprises dont l'adhésion
 au fonds a pris fin ne peuvent faire l'objet d'un reversement par celui-ci.

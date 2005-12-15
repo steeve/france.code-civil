@@ -11,8 +11,13 @@ Les contrats d'assurance de groupe en cas de vie dont les prestations sont liée
 rachat. Toutefois, ces contrats doivent prévoir une faculté de rachat
 intervenant lorsque se produisent l'un ou plusieurs des événements suivants :
 
-- expiration des droits de l'assuré aux allocations d'assurance chômage prévues
-par le code du travail en cas de licenciement ;
+- expiration des droits de l'assuré aux allocations chômage prévues par le code
+du travail en cas de licenciement, ou le fait pour un assuré qui a exercé des
+fonctions d'administrateur, de membre du directoire ou de membre de conseil de
+surveillance, et n'a pas liquidé sa pension dans un régime obligatoire
+d'assurance vieillesse, de ne pas être titulaire d'un contrat de travail ou d'un
+mandat social depuis deux ans au moins à compter du non-renouvellement de son
+mandat social ou de sa révocation ;
 
 - cessation d'activité non salariée de l'assuré à la suite d'un jugement de
 liquidation judiciaire en application des dispositions de la loi n° 85-98 du 25

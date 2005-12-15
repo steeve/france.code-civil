@@ -1,7 +1,7 @@
 Article R931-10-60
 ----
-La commission de contrôle mentionnée à l'article L. 951-1 peut, pour apprécier
-les limites fixées à la présente section, prendre en compte les instruments
+L'Autorité de contrôle mentionnée à l'article L. 951-1 peut, pour apprécier les
+limites fixées à la présente section, prendre en compte les instruments
 financiers utilisés par les organismes :
 
 a) Dans lesquels, d'une part, l'entreprise a investi un montant supérieur à 0,5

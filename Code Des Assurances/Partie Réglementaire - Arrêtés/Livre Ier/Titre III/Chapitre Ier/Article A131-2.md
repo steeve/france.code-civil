@@ -14,9 +14,8 @@ ainsi que de la réévaluation des immeubles. La valeur de l'actif net doit fair
 l'objet d'une attestation de la part d'un commissaire aux comptes.
 
 La réévaluation doit être effectuée par immeuble, soit par une expertise
-effectuée par un expert accepté par la commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance, soit par actualisation de la
-dernière estimation, certifiée par un expert accepté par la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance par
+effectuée par un expert accepté par l'Autorité de contrôle des assurances et des
+mutuelles, soit par actualisation de la dernière estimation, certifiée par un
+expert accepté par l'Autorité de contrôle des assurances et des mutuelles par
 application d'une règle basée sur des indices représentatifs du marché
 immobilier et inscrite au règlement général du contrat.

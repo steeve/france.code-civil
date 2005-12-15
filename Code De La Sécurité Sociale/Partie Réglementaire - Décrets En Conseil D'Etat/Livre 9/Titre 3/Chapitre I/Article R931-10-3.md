@@ -37,10 +37,9 @@ mentionnés ci-dessus.
 
 Lorsqu'une participation dans un établissement de crédit, une entreprise
 d'investissement ou un établissement financier est détenue temporairement en vue
-de faciliter l'assainissement et la sauvegarde de cette entité, la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance peut
-autoriser l'institution ou l'union à ne pas effectuer les déductions prévues aux
-a et b.
+de faciliter l'assainissement et la sauvegarde de cette entité, l'Autorité de
+contrôle des assurances et des mutuelles peut autoriser l'institution ou l'union
+à ne pas effectuer les déductions prévues aux a et b.
 
 II. - La marge de solvabilité peut également être constituée par les fonds
 effectivement encaissés provenant de l'émission de titres ou emprunts
@@ -54,11 +53,11 @@ montant le plus faible étant retenu. Toutefois, la prise en compte de ceux de
 ces fonds qui proviennent de titres ou emprunts à durée déterminée n'est admise
 qu'à concurrence de 25 % de cette marge. Tout remboursement effectué
 irrégulièrement peut, conformément aux dispositions de l'article L. 951-10,
-donner lieu à application de sanctions par la commission de contrôle instituée
-par l'article L. 951-1.
+donner lieu à application de sanctions par l'Autorité de contrôle instituée par
+l'article L. 951-1.
 
 III. - Sur demande et justification de l'institution ou de l'union et avec
-l'accord de la commission de contrôle instituée par l'article L. 951-1 et des
+l'accord de l'Autorité de contrôle instituée par l'article L. 951-1 et des
 autorités de contrôle des Etats membres de la Communauté européenne où
 l'institution ou l'union exerce son activité, la marge de solvabilité peut
 également être constituée par les éléments suivants :

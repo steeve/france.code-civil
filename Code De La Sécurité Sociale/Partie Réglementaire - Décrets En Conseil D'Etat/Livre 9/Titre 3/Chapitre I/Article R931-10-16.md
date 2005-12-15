@@ -12,7 +12,7 @@ tenir compte des recours à exercer ; les recours à recevoir font l'objet d'une
 
 Par dérogation aux dispositions du deuxième alinéa du présent article, toute
 institution de prévoyance ou union d'institutions de prévoyance peut, après
-accord de la commission de contrôle instituée à l'article L. 951-1, utiliser des
+accord de l'Autorité de contrôle instituée à l'article L. 951-1, utiliser des
 méthodes statistiques pour l'estimation des sinistres survenus au cours des deux
 derniers exercices.
 

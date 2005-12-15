@@ -5,8 +5,8 @@ total des engagements réglementés mentionnés à l'article R. 212-21, toutes
 monnaies confondues, et le montant total des actifs mentionnés aux articles R.
 212-36 à R. 212-42, toutes monnaies confondues, la valeur au bilan de chacune
 des catégories d'actif énumérées ci-après ne peut excéder, sauf dérogation
-accordée cas par cas par la commission de contrôle mentionnée à l'article L.
-510-1 :
+accordée cas par cas par l'Autorité de contrôle mentionnée à l'article L. 510-1
+:
 
 1° 65 % pour l'ensemble des valeurs mentionnées du 6° au 12° de l'article R.
 212-31 et des prêts mentionnés au troisième alinéa du I de l'article R. 212-45,

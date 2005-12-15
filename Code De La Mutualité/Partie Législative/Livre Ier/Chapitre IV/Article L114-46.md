@@ -8,5 +8,5 @@ adaptation du régime de la publicité foncière.
 
 Un arrêté détermine, selon la nature et l'importance de leurs opérations, les
 états statistiques que les organismes doivent produire, ainsi que la nature et
-la périodicité des informations qu'ils doivent transmettre à la commission de
+la périodicité des informations qu'ils doivent transmettre à l'Autorité de
 contrôle mentionnée à l'article L. 510-1.

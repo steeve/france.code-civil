@@ -10,5 +10,4 @@ Dans un délai de trois mois à compter de la réception de cette déclaration, 
 comité des entreprises d'assurance fait savoir à l'entreprise si ce changement
 est de nature à entraîner la mise en oeuvre des compétences dont il dispose aux
 termes de l'article L. 325-1. Le Comité des entreprises d'assurance transmet
-cette information à la Commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance.
+cette information à l'Autorité de contrôle des assurances et des mutuelles.

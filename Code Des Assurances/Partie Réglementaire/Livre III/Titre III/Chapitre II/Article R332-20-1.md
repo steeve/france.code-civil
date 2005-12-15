@@ -20,17 +20,15 @@ d) La valeur de réalisation des immeubles et des parts ou actions des société
 immobilières ou foncières non inscrites à la cote d'une bourse de valeurs d'un
 Etat membre de l'organisation de coopération et de développement économiques est
 déterminée sur la base d'une expertise quinquennale effectuée par un expert
-accepté par la commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance. Entre deux expertises, la valeur fait l'objet d'une
-estimation annuelle, certifiée par un expert accepté par la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance ;
+accepté par l'Autorité de contrôle des assurances et des mutuelles. Entre deux
+expertises, la valeur fait l'objet d'une estimation annuelle, certifiée par un
+expert accepté par l'Autorité de contrôle des assurances et des mutuelles ;
 
 e) Les autres placements sont retenus pour leur valeur comptable déterminée
 comme il est prévu aux articles R. 332-19 et R. 332-20 ci-dessus, sauf dans le
 cas où une autre valeur résulte soit d'une expertise effectuée dans les
-conditions prévues à l'article R. 332-23, soit d'un accord entre la commission
-de contrôle des assurances, des mutuelles et des institutions de prévoyance et
-l'entreprise.
+conditions prévues à l'article R. 332-23, soit d'un accord entre l'Autorité de
+contrôle des assurances et des mutuelles et l'entreprise.
 
 Pour les titres inscrits en comptabilité hors coupon couru en application des
 articles R. 332-19 et R. 332-20, il y a lieu de déduire de l'évaluation prévue

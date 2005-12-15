@@ -12,11 +12,10 @@ selon les modalités prévues au présent article et aux articles L. 310-12 à L
 310-15.
 
 La surveillance complémentaire tient compte des entreprises qui sont apparentées
-aux entreprises précitées. La Commission de contrôle des assurances, des
-mutuelles et des institutions de prévoyance peut décider d'exclure une
-entreprise apparentée de la surveillance complémentaire si elle estime que cette
-entreprise présente un intérêt négligeable ou contraire aux objectifs de cette
-surveillance.
+aux entreprises précitées. L'Autorité de contrôle des assurances et des
+mutuelles peut décider d'exclure une entreprise apparentée de la surveillance
+complémentaire si elle estime que cette entreprise présente un intérêt
+négligeable ou contraire aux objectifs de cette surveillance.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent
 article.

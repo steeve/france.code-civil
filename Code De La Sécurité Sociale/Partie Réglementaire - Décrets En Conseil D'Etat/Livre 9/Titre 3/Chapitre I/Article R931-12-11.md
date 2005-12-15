@@ -28,13 +28,13 @@ année, pour moitié à sa restitution par le fonds à l'institution de prévoya
 ou union concernée et pour moitié à une reprise par l'institution de prévoyance
 ou union sur la réserve pour fonds de garantie.
 
-Le fonds paritaire de garantie informe la commission de contrôle de tout retard
-de versement de plus de deux mois ou de tout refus de versement d'une
-institution de prévoyance ou union, afin que la commission mette en oeuvre, le
-cas échéant, les procédures de sanctions prévues à l'article L. 951-10. La
-commission peut également engager une procédure de sanction si elle constate que
-l'institution de prévoyance ou l'union n'a pas doté la réserve pour fonds de
-garantie du montant prévu.
+Le fonds paritaire de garantie informe l'Autorité de contrôle de tout retard de
+versement de plus de deux mois ou de tout refus de versement d'une institution
+de prévoyance ou union, afin que l'Autorité mette en oeuvre, le cas échéant, les
+procédures de sanctions prévues à l'article L. 951-10. L'Autorité peut également
+engager une procédure de sanction si elle constate que l'institution de
+prévoyance ou l'union n'a pas doté la réserve pour fonds de garantie du montant
+prévu.
 
 Les cotisations versées au fonds paritaire de garantie par les institutions de
 prévoyance ou unions dont l'adhésion au fonds a pris fin ne peuvent faire

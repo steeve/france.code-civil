@@ -45,8 +45,8 @@ des sociétés de groupe d'assurance définies à l'article L. 322-1-2 et dont l
 siège social est situé en France ou dans des compagnies financières holding
 mixtes définies au 9° de l'article L. 334-2, dont le siège social est situé en
 France et appartenant à un conglomérat financier dont la surveillance est
-coordonnée par la Commission de contrôle des assurances, des mutuelles et des
-institutions de prévoyance dans les conditions prévues à l'article L. 334-9.
+coordonnée par l'Autorité de contrôle des assurances et des mutuelles dans les
+conditions prévues à l'article L. 334-9.
 
 III. - Avant toute décision prévue au I, le Comité des entreprises d'assurance
 consulte les autorités compétentes mentionnées aux articles L. 321-1 et L.

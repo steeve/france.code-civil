@@ -3,9 +3,8 @@ Article R334-22
 Une entreprise visée au 4° de l'article L. 310-2, agréée ou demandant l'agrément
 pour pratiquer les opérations mentionnées aux 1 à 18 et 20 à 26 de l'article R.
 321-1 en France et dans un ou plusieurs autres Etats membres peut demander, en
-motivant son choix, à la commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance de faire l'objet en France de la vérification de
-solvabilité globale.
+motivant son choix, à l'Autorité de contrôle des assurances et des mutuelles de
+faire l'objet en France de la vérification de solvabilité globale.
 
 L'entreprise doit justifier qu'elle informe de cette demande les autorités de
 contrôle des autres Etats membres dans lesquels elle est agréée ou demande
@@ -33,10 +32,9 @@ opérations mentionnées aux 1 à 18 de l'article R. 321-1 ;
 - à 200 000 unités de compte de la Communauté économique européenne pour
 pratiquer les opérations mentionnées aux 20 à 26 de l'article R. 321-1.
 
-Ces mesures prennent effet à la date à laquelle la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance s'engage vis-à-vis
-des autorités de contrôle des autres Etats membres à exercer la vérification de
-solvabilité globale.
+Ces mesures prennent effet à la date à laquelle l'Autorité de contrôle des
+assurances et des mutuelles s'engage vis-à-vis des autorités de contrôle des
+autres Etats membres à exercer la vérification de solvabilité globale.
 
 La vérification de solvabilité globale prend en compte les informations reçues
 des autorités de contrôle des autres Etats intéressés, membres de l'Espace

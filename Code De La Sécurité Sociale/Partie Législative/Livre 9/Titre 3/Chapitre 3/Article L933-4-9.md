@@ -1,6 +1,6 @@
 Article L933-4-9
 ----
-Afin de faciliter l'exercice de la surveillance complémentaire, la commission de
+Afin de faciliter l'exercice de la surveillance complémentaire, l'Autorité de
 contrôle mentionnée à l'article L. 951-1 conclut avec les autorités compétentes
 concernées, et, en tant que de besoin, toute autre autorité compétente
 intéressée, des accords de coordination. Ces accords sont publiés au Journal

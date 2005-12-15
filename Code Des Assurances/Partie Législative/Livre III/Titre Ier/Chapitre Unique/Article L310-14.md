@@ -1,10 +1,10 @@
 Article L310-14
 ----
-La commission peut demander aux entreprises visées aux articles L. 310-1 et L.
+L'Autorité peut demander aux entreprises visées aux articles L. 310-1 et L.
 310-1-1, aux sociétés de groupe d'assurance, aux sociétés de groupe mixte
 d'assurance définies à l'article L. 322-1-2 et aux compagnies financières
 holding mixtes définies à l'article L. 334-2 ainsi qu'aux personnes mentionnées
-au cinquième alinéa de l'article L. 310-12 toutes informations nécessaires à
+au quatrième alinéa de l'article L. 310-12 toutes informations nécessaires à
 l'exercice de sa mission.
 
 Elle peut leur demander la communication des rapports des commissaires aux
@@ -26,11 +26,11 @@ procéder à des publications rectificatives dans le cas où des inexactitudes o
 des omissions auraient été relevées. Elle peut porter à la connaissance du
 public toutes informations qu'elle estime nécessaires.
 
-La Commission de contrôle des assurances peut demander aux entreprises soumises
-à une surveillance complémentaire en application de l'article L. 334-3 les
-données ou informations qui, nécessaires à l'exercice de cette surveillance,
-sont détenues par leurs entreprises apparentées. Si ces dernières entreprises ne
-fournissent pas ces données et informations, la Commission de contrôle peut leur
+L'Autorité de contrôle des assurances peut demander aux entreprises soumises à
+une surveillance complémentaire en application de l'article L. 334-3 les données
+ou informations qui, nécessaires à l'exercice de cette surveillance, sont
+détenues par leurs entreprises apparentées. Si ces dernières entreprises ne
+fournissent pas ces données et informations, l'Autorité de contrôle peut leur
 demander directement.
 
 Les entreprises soumises à une surveillance complémentaire et dont le siège

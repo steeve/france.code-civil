@@ -15,8 +15,8 @@ ou de ce groupe de titres. Le prix d'achat s'entend hors intérêt couru ;
 b) Les immeubles et les parts ou actions des sociétés immobilières ou foncières
 non inscrites à la cote d'une bourse de valeurs d'un Etat membre de l'O.C.D.E.
 sont retenus pour leur prix d'achat ou de revient ou, dans les conditions fixées
-dans chaque cas par la commission de contrôle instituée à l'article L. 951-1,
-pour une valeur déterminée après expertise effectuée conformément à l'article R.
+dans chaque cas par l'Autorité de contrôle instituée à l'article L. 951-1, pour
+une valeur déterminée après expertise effectuée conformément à l'article R.
 931-10-44 ; les valeurs sont diminuées des amortissements pratiqués ; le prix de
 revient des immeubles est celui qui ressort des travaux de construction et
 d'amélioration, à l'exclusion des travaux d'entretien proprement dits ;
@@ -34,5 +34,5 @@ du dernier exercice clos avant le 1er janvier 1999, constataient les
 dépréciations, même lorsque celles-ci n'avaient pas un caractère durable,
 peuvent continuer à faire application de cette méthode jusqu'au dernier exercice
 clos avant le 1er janvier 2005 ; elles peuvent y renoncer à tout moment en le
-notifiant préalablement à la commission de contrôle instituée à l'article L.
-951-1, cette renonciation étant alors définitive.
+notifiant préalablement à l'Autorité de contrôle instituée à l'article L. 951-1,
+cette renonciation étant alors définitive.

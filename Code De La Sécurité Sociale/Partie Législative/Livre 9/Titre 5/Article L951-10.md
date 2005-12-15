@@ -1,12 +1,12 @@
 Article L951-10
 ----
 Lorsqu'une institution, une union ou un groupement a enfreint une disposition
-législative ou réglementaire dans le domaine relevant du contrôle de la
-commission, ou a des pratiques qui mettent en péril sa marge de solvabilité ou
-l'exécution des engagements qu'elle a contractés envers les membres
-participants, ayants droit ou bénéficiaires, la commission peut prononcer à son
-encontre, ou à celle de ses dirigeants, l'une ou plusieurs des sanctions
-disciplinaires suivantes en fonction de la gravité du manquement :
+législative ou réglementaire dans le domaine relevant du contrôle de l'Autorité,
+ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution
+des engagements qu'elle a contractés envers les membres participants, ayants
+droit ou bénéficiaires, l'Autorité peut prononcer à son encontre, ou à celle de
+ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes en
+fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -25,14 +25,14 @@ prévoyance ou de l'union ;
 6° Le transfert d'office de tout ou partie de portefeuille de bulletins
 d'adhésion à des règlements, de contrats ou d'opérations.
 
-La commission de contrôle peut décider de reporter sa décision à l'issue d'un
-délai qu'elle impartit à l'institution de prévoyance ou à l'union pour prendre
-toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au
-premier alinéa.
+L'Autorité de contrôle peut décider de reporter sa décision à l'issue d'un délai
+qu'elle impartit à l'institution de prévoyance ou à l'union pour prendre toute
+mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier
+alinéa.
 
-En outre, la commission de contrôle peut prononcer soit à la place, soit en sus
-de ces sanctions, une sanction pécuniaire. Le montant de cette sanction doit
-être fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des
+En outre, l'Autorité de contrôle peut prononcer soit à la place, soit en sus de
+ces sanctions, une sanction pécuniaire. Le montant de cette sanction doit être
+fonction de la gravité des manquements commis, sans pouvoir excéder 3 % des
 cotisations perçues au cours du dernier exercice clos calculé sur une période de
 douze mois. Ce maximum est porté à 5 % en cas de nouvelle violation de la même
 obligation. Les sommes correspondantes sont versées au Trésor public. Elles sont
@@ -44,12 +44,11 @@ pécuniaire est défini par référence aux cotisations de celle des institution
 unions incluses par intégration globale dans la consolidation dont le total des
 cotisations émises au cours du dernier exercice clos est le plus élevé.
 
-Lorsqu'une sanction prononcée par la commission est devenue définitive, la
-commission peut, aux frais de l'institution sanctionnée, ordonner l'insertion de
-sa décision dans trois journaux ou publications qu'elle désigne et l'affichage
-dans les lieux et pour la durée qu'elle indique.
+L'autorité de contrôle peut rendre publique sa décision dans les journaux,
+publications ou supports qu'elle désigne. Les frais sont supportés par la
+personne sanctionnée.
 
-Dans tous les cas visés au présent article, la commission statue après une
+Dans tous les cas visés au présent article, l'Autorité statue après une
 procédure contradictoire. Les intéressés peuvent demander à être entendus. Ils
 peuvent se faire représenter ou assister. Les institutions sanctionnées peuvent,
 dans le délai de deux mois qui suit la notification de la décision, former un

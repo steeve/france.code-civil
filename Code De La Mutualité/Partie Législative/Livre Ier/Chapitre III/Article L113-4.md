@@ -12,7 +12,7 @@ prononcé la dissolution, de l'excédent de l'actif net sur le passif, celui-ci
 est affecté au fonds de garantie mentionné à l'article L. 431-1.
 
 A défaut de réunion de l'assemblée générale durant deux années civiles
-consécutives, la dissolution peut être prononcée par la commission de contrôle
+consécutives, la dissolution peut être prononcée par l'Autorité de contrôle
 mentionnée à l'article L. 510-1, qui nomme un liquidateur. L'excédent de l'actif
 net sur le passif est dévolu au fonds de garantie mentionné à l'article L.
 431-1.

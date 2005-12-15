@@ -1,8 +1,7 @@
 Article L933-4-7
 ----
-Lorsqu'elle est désignée comme coordonnateur, la commission de contrôle
-mentionnée à l'article L. 951-1 assure, au titre de la surveillance
-complémentaire :
+Lorsqu'elle est désignée comme coordonnateur, l'Autorité de contrôle mentionnée
+à l'article L. 951-1 assure, au titre de la surveillance complémentaire :
 
 a) La coordination de la collecte et de la diffusion de toute information utile
 dans la marche normale des affaires comme dans les situations d'urgence, et en

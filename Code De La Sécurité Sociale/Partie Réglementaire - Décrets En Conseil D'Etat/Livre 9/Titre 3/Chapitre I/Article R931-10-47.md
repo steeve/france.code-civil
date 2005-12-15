@@ -11,6 +11,6 @@ le montant des provisions mathématiques qui seraient à inscrire si les frais
 d'acquisition n'étaient pas pris en compte dans les engagements des
 participants, bénéficiaires et ayants droit. Le montant de cet écart ainsi que
 le calcul des frais d'acquisition reportés doivent pouvoir être justifiés à tout
-moment auprès de la commission de contrôle instituée à l'article L. 951-1. Les
+moment auprès de l'Autorité de contrôle instituée à l'article L. 951-1. Les
 frais d'acquisition reportés sont admis en représentation des provisions
 techniques.

@@ -50,7 +50,7 @@ France ;
 détenues au travers d'une société de groupe d'assurance, l'exigence de
 solvabilité ajustée de cette dernière est égale à zéro ;
 
-La commission de contrôle mentionnée à l'article L. 951-1 peut prendre en compte
+L'Autorité de contrôle mentionnée à l'article L. 951-1 peut prendre en compte
 les exigences de solvabilité et les éléments admissibles pour satisfaire ces
 exigences retenus par les autorités d'un Etat non membre de la Communauté
 européenne ou qui n'est pas partie au traité sur l'Espace économique européen

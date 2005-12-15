@@ -11,7 +11,7 @@ montant brut, sans tenir compte des recours à exercer ; les recours à recevoir
 font l'objet d'une évaluation distincte.
 
 Par dérogation aux dispositions du deuxième alinéa du présent article, toute
-mutuelle ou union peut, après accord de la commission de contrôle mentionnée à
+mutuelle ou union peut, après accord de l'Autorité de contrôle mentionnée à
 l'article L. 510-1, utiliser des méthodes statistiques pour l'estimation des
 sinistres survenus au cours des deux derniers exercices.
 

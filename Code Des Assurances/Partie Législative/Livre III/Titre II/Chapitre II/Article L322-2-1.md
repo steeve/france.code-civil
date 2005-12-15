@@ -40,5 +40,5 @@ variable ne peut être calculée par référence à un critère représentatif d
 volume d'activité de la société émettrice.
 
 IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent
-article, notamment le contrôle exercé par la Commission de contrôle des
-assurances sur ces émissions.
+article, notamment le contrôle exercé par l'Autorité de contrôle des assurances
+et des mutuelles sur ces émissions.

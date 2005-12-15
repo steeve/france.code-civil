@@ -18,8 +18,8 @@ l'article L. 931-9 ;
 5° L'engagement d'adhérer au fonds paritaire de garantie prévu à l'article L.
 931-35.
 
-Le ministre refuse l'agrément, après avis de la commission de contrôle instituée
-à l'article L. 951-1 du code de la sécurité sociale, lorsque l'exercice de la
+Le ministre refuse l'agrément, après avis de l'Autorité de contrôle instituée à
+l'article L. 951-1 du code de la sécurité sociale, lorsque l'exercice de la
 mission de surveillance de l'institution est susceptible d'être entravé, soit
 par l'existence de liens de contrôle directs ou indirects entre l'institution
 requérante et d'autres personnes physiques ou morales, soit par l'existence de

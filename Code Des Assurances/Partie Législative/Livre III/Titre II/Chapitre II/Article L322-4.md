@@ -1,14 +1,15 @@
 Article L322-4
 ----
 Les prises, extensions ou cessions de participations directes ou indirectes dans
-les entreprises mentionnées au 1° de l'article L. 310-2 peuvent être soumises,
-afin de préserver les intérêts des assurés, à un régime de déclaration ou
-d'autorisation préalables, dans des conditions définies par décret en Conseil
-d'Etat. Ces dispositions s'appliquent également aux prises, extensions ou
+les entreprises mentionnées au 1° de l'article L. 310-2 peuvent être soumises à
+un régime de déclaration ou d'autorisation préalable, dans des conditions
+définies par décret en Conseil d'Etat. Ce régime vise à préserver les intérêts
+des assurés et à s'assurer que l'entreprise dispose d'une gestion saine et
+prudente. Ces dispositions s'appliquent également aux prises, extensions ou
 cessions de participations dans des sociétés de groupe d'assurance dont le siège
 social est situé en France ainsi que dans des compagnies financières holdings
 mixtes dont le siège social est situé en France et appartenant à un conglomérat
-financier dont la surveillance est coordonnée par la commission de contrôle dans
+financier dont la surveillance est coordonnée par l'Autorité de contrôle dans
 les conditions prévues à l'article L. 334-9.
 
 L'autorisation donnée à des opérations mentionnées au premier alinéa peut être
@@ -18,11 +19,11 @@ personnes ayant présenté une demande d'autorisation.
 En cas de manquement aux prescriptions édictées par le décret en Conseil d'Etat
 visé au premier alinéa du présent article et sans préjudice des dispositions de
 l'article L. 233-14 du code de commerce, à la demande du Comité des entreprises
-d'assurance, du procureur de la République, de la Commission de contrôle des
-assurances ou de tout actionnaire, le juge suspend, jusqu'à régularisation de la
-situation, l'exercice des droits de vote attachés aux actions ou parts sociales
-des entreprises visées au premier alinéa du présent article détenues
-irrégulièrement, directement ou indirectement.
+d'assurance, du procureur de la République, de l'Autorité de contrôle des
+assurances et des mutuelles ou de tout actionnaire, le juge suspend, jusqu'à
+régularisation de la situation, l'exercice des droits de vote attachés aux
+actions ou parts sociales des entreprises visées au premier alinéa du présent
+article détenues irrégulièrement, directement ou indirectement.
 
 Toute personne envisageant de déposer un projet d'offre publique à l'Autorité
 des marchés financiers en application du chapitre III du titre III du livre IV

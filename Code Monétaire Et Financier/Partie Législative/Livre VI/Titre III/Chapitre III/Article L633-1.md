@@ -1,12 +1,12 @@
 Article L633-1
 ----
-La commission bancaire, la Commission de contrôle des assurances, des mutuelles
-et des institutions de prévoyance, l'Autorité des marchés financiers, en
-liaison, le cas échéant, avec les autorités de surveillance des entités
-réglementées des Etats membres ou autres Etats parties à l'accord sur l'Espace
-économique européen, identifient les groupes entrant dans le champ de la
-surveillance complémentaire des conglomérats financiers et échangent à cet effet
-toute information utile à l'accomplissement de leurs missions respectives.
+La commission bancaire, l'Autorité de contrôle des assurances et des mutuelles,
+l'Autorité des marchés financiers, en liaison, le cas échéant, avec les
+autorités de surveillance des entités réglementées des Etats membres ou autres
+Etats parties à l'accord sur l'Espace économique européen, identifient les
+groupes entrant dans le champ de la surveillance complémentaire des conglomérats
+financiers et échangent à cet effet toute information utile à l'accomplissement
+de leurs missions respectives.
 
 Lorsque un groupe a été identifié comme un conglomérat financier et que la
 commission bancaire est désignée, conformément aux dispositions de l'article L.

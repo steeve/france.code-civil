@@ -1,6 +1,6 @@
 Article R212-73
 ----
-Sauf dérogation expresse de la commission de contrôle mentionnée à l'article L.
+Sauf dérogation expresse de l'Autorité de contrôle mentionnée à l'article L.
 510-1, une mutuelle ou union ne peut utiliser d'instrument financier à terme que
 dans les cas prévus par les articles R. 212-70, R. 212-71 et R. 212-72.
 

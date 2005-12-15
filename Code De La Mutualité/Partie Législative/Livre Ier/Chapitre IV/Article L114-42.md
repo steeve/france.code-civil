@@ -18,7 +18,7 @@ dirigeant est tenu de le remettre au président. Le conseil d'administration doi
 en être saisi dès qu'il est appelé à se réunir.
 
 II. - Le comité d'entreprise ou à défaut les délégués du personnel communiquent
-au président de la commission de contrôle mentionnée à l'article L. 510-1, tout
+au président de l'Autorité de contrôle mentionnée à l'article L. 510-1, tout
 fait révélant la cessation des paiements de l'organisme.
 
 III. - Les informations concernant la mutuelle, union ou fédération communiquées

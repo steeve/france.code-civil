@@ -14,10 +14,10 @@ L'assemblée générale peut également être convoquée par :
 
 2° Les commissaires aux comptes ;
 
-3° La commission de contrôle mentionnée à l'article L. 510-1, d'office ou à la
+3° L'Autorité de contrôle mentionnée à l'article L. 510-1, d'office ou à la
 demande d'un membre participant ;
 
-4° Un administrateur provisoire nommé par la commission de contrôle mentionnée à
+4° Un administrateur provisoire nommé par l'Autorité de contrôle mentionnée à
 l'article L. 510-1, à la demande d'un ou plusieurs membres participants ;
 
 5° Les liquidateurs.

@@ -7,16 +7,16 @@ spéciale.
 
 Trois mois au moins avant la réunion de la commission paritaire ou de
 l'assemblée générale, l'institution de prévoyance ou l'union d'institutions de
-prévoyance soumet à l'approbation de la commission de contrôle instituée par
+prévoyance soumet à l'approbation de l'Autorité de contrôle instituée par
 l'article L. 951-1 le texte du projet de délibération mentionnée au premier
-alinéa. La commission se prononce en veillant à la sauvegarde des intérêts des
+alinéa. L'Autorité se prononce en veillant à la sauvegarde des intérêts des
 membres participants et bénéficiaires au vu d'un dossier comprenant une
 présentation détaillée des objectifs poursuivis, des caractéristiques des titres
 émis, des conséquences de l'émission sur la situation financière de
 l'institution ou de l'union ainsi que, le cas échéant, une description précise
 des cas de remboursement anticipé. A l'expiration d'un délai de deux mois à
 dater du dépôt de ce dossier ainsi que du texte de la délibération, en l'absence
-de décision expresse de la commission, l'autorisation est réputée accordée.
+de décision expresse de l'Autorité, l'autorisation est réputée accordée.
 
 La délibération de la commission paritaire ou de l'assemblée générale fixe les
 caractéristiques essentielles de l'émission de titres participatifs et,

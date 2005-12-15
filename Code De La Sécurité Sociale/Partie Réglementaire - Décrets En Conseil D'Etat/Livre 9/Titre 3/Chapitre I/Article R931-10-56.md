@@ -20,4 +20,4 @@ assujettis à des règles prudentielles considérées comme équivalentes par la
 commission bancaire ;
 
 d) D'entreprises d'assurance, de réassurance ou d'autres organismes, sur accord
-de la commission de contrôle mentionnée à l'article L. 951-1.
+de l'Autorité de contrôle mentionnée à l'article L. 951-1.

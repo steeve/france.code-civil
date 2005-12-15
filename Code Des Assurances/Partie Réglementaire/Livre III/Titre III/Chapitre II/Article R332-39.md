@@ -9,15 +9,14 @@ la Caisse des dépôts et consignations ou à la Banque de France d'actifs affec
 1° Des provisions techniques au 31 décembre de l'exercice précédent, telles
 qu'elles sont prévues aux articles R. 331-3, R. 331-5 et R. 331-6, à l'exclusion
 des provisions afférentes aux opérations mentionnées aux 4 à 7, 11 et 12 de
-l'article R. 321-1 et aux opérations de réassurance.
+l'article R. 321-1 et aux opérations de réassurance ;
 
-2° D'une majoration forfaitaire égale à 30 p. 100 de l'augmentation, constatée
-au cours de l'exercice précédent, des provisions techniques mentionnées au 1°
-ci-dessus. Toutefois, la commission de contrôle des assurances, des mutuelles et
-des institutions de prévoyance peut, sur demande de l'entreprise accompagnée de
-toutes justifications utiles, accorder dispense totale ou partielle de
-l'obligation de dépôt ou d'inscription en compte afférente à cette majoration.
+2° D'une majoration forfaitaire égale à 30 % de l'augmentation, constatée au
+cours de l'exercice précédent, des provisions techniques mentionnées au 1°
+ci-dessus. Toutefois, l'Autorité de contrôle des assurances et des mutuelles
+peut, sur demande de l'entreprise accompagnée de toutes justifications utiles,
+accorder dispense totale ou partielle de l'obligation de dépôt ou d'inscription
+en compte afférente à cette majoration.
 
 Le dépôt ou l'inscription en compte de ces actifs est soumis au visa préalable
-de la commission de contrôle des assurances, des mutuelles et des institutions
-de prévoyance.
+de l'Autorité de contrôle des assurances et des mutuelles.

@@ -7,7 +7,7 @@ du 29 novembre 1983 mentionné à l'article R. 931-11-2, ainsi que les règles
 spécifiques d'utilisation des comptes et les principes généraux d'organisation
 et de fonctionnement du système comptable. Il peut, en outre, prescrire, lorsque
 cela est nécessaire pour la justification des comptes ou l'exercice des
-compétences de la commission de contrôle instituée par l'article L. 951-1, des
+compétences de l'Autorité de contrôle instituée par l'article L. 951-1, des
 modalités spécifiques d'enregistrement et de suivi extra-comptable des
 placements, des bulletins d'adhésion à un règlement ou des contrats, des
 sinistres et des opérations de réassurance, coassurance et coréassurance des

@@ -22,7 +22,7 @@ par le présent code ou lorsque les caractéristiques du projet ou la qualité d
 dirigeants lui paraissent de nature à mettre en péril la capacité de l'organisme
 à respecter ses engagements à l'égard des membres participants.
 
-L'autorité administrative refuse l'agrément, après avis de la commission de
+L'autorité administrative refuse l'agrément, après avis de l'Autorité de
 contrôle mentionnée à l'article L. 510-1, lorsque l'exercice de la mission de
 surveillance de la mutuelle ou de l'union est susceptible d'être entravé, soit
 par l'existence de relations de contrôle direct ou indirect entre l'organisme

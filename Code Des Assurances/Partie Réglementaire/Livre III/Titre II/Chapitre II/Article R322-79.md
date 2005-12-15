@@ -4,17 +4,18 @@ I. - Toute émission d'obligations, de titres participatifs ou de titres
 subordonnés remboursables dans les conditions et limites prévues à l'article L.
 322-2-1 doit être autorisée par l'assemblée générale délibérant comme il est dit
 à l'article R. 322-63 et faire l'objet d'une résolution spéciale dont la teneur
-est préalablement soumise à l'approbation de la commission de contrôle des
-assurances. Celle-ci se prononce, en veillant à la sauvegarde des intérêts des
-assurés, au vu d'un dossier comportant une présentation détaillée des objectifs
-poursuivis, des caractéristiques des titres émis, des conséquences de l'émission
-sur la situation financière de l'entreprise concernée, ainsi que, le cas
-échéant, une description précise des cas de remboursement anticipé.
+est préalablement soumise à l'approbation de l'Autorité de contrôle des
+assurances et des mutuelles. Celle-ci se prononce, en veillant à la sauvegarde
+des intérêts des assurés, au vu d'un dossier comportant une présentation
+détaillée des objectifs poursuivis, des caractéristiques des titres émis, des
+conséquences de l'émission sur la situation financière de l'entreprise
+concernée, ainsi que, le cas échéant, une description précise des cas de
+remboursement anticipé.
 
 A l'expiration d'un délai de deux mois à dater du dépôt du texte de la
 résolution et du dossier mentionné ci-dessus et en l'absence de décision
-expresse de la commission, l'autorisation est considérée comme accordée. En cas
-de décision expresse, celle-ci est communiquée à l'assemblée générale.
+expresse de l'Autorité, l'autorisation est considérée comme accordée. En cas de
+décision expresse, celle-ci est communiquée à l'assemblée générale.
 
 La résolution de l'assemblée générale mentionnée au premier alinéa fixe les
 caractéristiques essentielles de l'émission des titres mentionnés à l'article L.
@@ -33,7 +34,7 @@ L'émission doit être réalisée en une ou plusieurs fois dans le délai de qui
 mois à compter de l'adoption de la résolution par l'assemblée générale des
 sociétaires.
 
-Le conseil d'administration ou le directoire rend compte à la plus prochaine
+Le conseil d'administration ou le directoire rend compte à la prochaine
 assemblée générale de la mise en oeuvre de la résolution.
 
 II. - Les dispositions des sections III et III bis du chapitre V du décret n°

@@ -1,6 +1,6 @@
 Article L933-4-10
 ----
-La commission de contrôle mentionnée à l'article L. 951-1 coopère avec les
+L'Autorité de contrôle mentionnée à l'article L. 951-1 coopère avec les
 autorités compétentes chargées de la surveillance des entités réglementées
 appartenant à un conglomérat financier et, lorsqu'elle n'exerce pas ce rôle,
 avec le coordinateur.
