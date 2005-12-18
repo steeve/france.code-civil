@@ -1,11 +1,12 @@
 Article R541-3
 ----
-L'allocation d'éducation spéciale et son complément éventuel font l'objet d'une
-demande de la personne ayant la charge de l'enfant adressée à la commission de
-l'éducation spéciale, par l'intermédiaire de l'organisme ou du service qui est
-ou serait compétent pour verser les prestations familiales. Cette demande est
-accompagnée de tout document nécessaire à l'appréciation des droits de
-l'intéressé et notamment :
+La demande d'allocation d'éducation de l'enfant handicapé, de son complément et
+de la majoration mentionnés aux articles L. 541-1 et L. 541-4, est adressée à la
+maison départementale des personnes handicapées du lieu de résidence de
+l'intéressé.
+
+Cette demande est accompagnée de toutes les pièces justificatives utiles à
+l'appréciation des droits de l'intéressé :
 
 1°) d'un certificat médical détaillé sous pli fermé précisant la nature
 particulière de l'infirmité, le type de soins ou, le cas échéant, les mesures
@@ -15,8 +16,9 @@ vie lorsqu'elle doit lui être apportée par une tierce personne ;
 
 2°) d'une déclaration du demandeur attestant :
 
-a. que l'enfant est admis ou n'est pas admis dans un établissement d'éducation
-spéciale en précisant le cas échéant s'il est placé en internat ;
+a. que l'enfant est admis ou n'est pas admis dans un établissement mentionné au
+2° du I de l'article L. 312-1 du code de l'action sociale et des familles en
+précisant le cas échéant s'il est placé en internat ;
 
 b. que l'enfant bénéficie ou ne bénéficie pas de soins médicaux ou rééducatifs
 se rapportant à son invalidité, soit dans un établissement d'hospitalisation,
@@ -28,7 +30,6 @@ par l'aide sociale. Le modèle de la déclaration est fixé par arrêté du mini
 chargé de la sécurité sociale, du ministre chargé de l'agriculture et du
 ministre chargé de la santé.
 
-Si les conditions d'attribution des prestations familiales sont remplies, la
-demande accompagnée des pièces justificatives est transmise par l'organisme ou
-service débiteur des prestations familiales à la commission de l'éducation
-spéciale du lieu de résidence du demandeur.
+La maison départementale des personnes handicapées transmet, sans délai, un
+exemplaire du dossier de demande à l'organisme débiteur en vue de l'examen des
+conditions relevant de la compétence de celui-ci.

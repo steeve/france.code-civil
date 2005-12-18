@@ -1,15 +1,15 @@
 Article R541-2
 ----
-Pour la détermination du montant du complément d'allocation d'éducation
-spéciale, l'enfant handicapé est classé, par la commission de l'éducation
-spéciale, au moyen d'un guide d'évaluation défini par arrêté, dans une des six
-catégories prévues ci-dessous. L'importance du recours à une tierce personne
-prévu à l'article L. 541-1 est appréciée par la commission de l'éducation
-spéciale au regard de la nature ou de la gravité du handicap de l'enfant en
-prenant en compte, sur justificatifs produits par les intéressés, la réduction
-d'activité professionnelle d'un ou des parents ou sa cessation ou la
-renonciation à exercer une telle activité et la durée du recours à une tierce
-personne rémunérée :
+Pour la détermination du montant du complément d'allocation d'éducation de
+l'enfant handicapé, l'enfant handicapé est classé, par la commission des droits
+et de l'autonomie des personnes handicapées, au moyen d'un guide d'évaluation
+défini par arrêté, dans une des six catégories prévues ci-dessous. L'importance
+du recours à une tierce personne prévu à l'article L. 541-1 est appréciée par la
+commission des droits et de l'autonomie des personnes handicapées au regard de
+la nature ou de la gravité du handicap de l'enfant en prenant en compte, sur
+justificatifs produits par les intéressés, la réduction d'activité
+professionnelle d'un ou des parents ou sa cessation ou la renonciation à exercer
+une telle activité et la durée du recours à une tierce personne rémunérée :
 
 1° Est classé dans la 1re catégorie l'enfant dont le handicap entraîne, par sa
 nature ou sa gravité, des dépenses égales ou supérieures à un montant fixé par
