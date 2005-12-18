@@ -1,8 +1,7 @@
 Article L645-6
 ----
 Il est institué une compensation entre les régimes de prestations
-complémentaires de vieillesse mentionnés au présent chapitre et rendus
-obligatoires en application de l'article L. 645-3.
+complémentaires de vieillesse mentionnés au présent chapitre.
 
 Cette compensation a pour objet de remédier aux conséquences des déséquilibres
 démographiques, dès lors que les charges au titre des droits propres pesant sur

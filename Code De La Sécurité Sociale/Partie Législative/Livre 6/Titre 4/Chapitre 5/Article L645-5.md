@@ -1,11 +1,16 @@
 Article L645-5
 ----
-Les praticiens à plein temps qui auront renoncé à exercer une activité de
-clientèle privée au sein du service public hospitalier dans les conditions
-prévues à l'article 2 de la loi n° 82-916 du 28 octobre 1982 peuvent, par
-dérogation à l'article L. 645-1, continuer, sur leur demande, à bénéficier du
-régime de prestations complémentaires de vieillesse prévu audit article L.
-645-1.
+La valeur de service du point de retraite pour les prestations de droit direct
+et les pensions de réversion liquidées antérieurement au 1er janvier 2006 est
+fixée par décret pour chacun des régimes.
 
-La cotisation prévue à l'article L. 645-2 est à la charge exclusive de ces
-praticiens et est versée dans les conditions prévues par l'article L. 645-1.
+Les points non liquidés et acquis antérieurement au 1er janvier 2006 ouvrent
+droit à un montant annuel de pension égal à la somme des produits du nombre de
+points acquis chaque année par une valeur de service du point. Cette valeur,
+fixée par décret, peut varier selon l'année durant laquelle les points ont été
+acquis et selon l'année de liquidation de la pension.
+
+Les points acquis à compter du 1er janvier 2006 ouvrent droit à un montant
+annuel de pension égal au produit du nombre de points portés au compte de
+l'intéressé par la valeur de service du point. Cette valeur de service est fixée
+par décret.

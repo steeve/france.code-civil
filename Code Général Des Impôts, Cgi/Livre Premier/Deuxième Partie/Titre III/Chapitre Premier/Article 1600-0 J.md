@@ -6,12 +6,29 @@ selon les modalités prévues à cet article, pour la partie acquise à compter 
 ce qui concerne les placements visés du 3 au 9 :
 
 1. Les intérêts et primes d'épargne des comptes d'épargne logement visés à
-l'article L. 315-1 du code de la construction et de l'habitation respectivement
-lors de leur inscription en compte et de leur versement ;
+l'article L. 315-1 du code de la construction et de l'habitation, à l'exception
+des plans d'épargne-logement, respectivement lors de leur inscription en compte
+et de leur versement ;
 
-2. Les intérêts et primes d'épargne des plans d'épargne logement visés à
-l'article R. 315-24 du code de la construction et de l'habitation lors du
-dénouement du contrat ;
+2. Les intérêts des plans d'épargne-logement, exonérés d'impôt sur le revenu en
+application du 9° bis de l'article 157 :
+
+a) Au 1er janvier 2006, pour les plans de plus de dix ans à cette date et pour
+ceux ouverts avant le l'avril 1992 dont le terme est échu avant le 1er janvier
+2006 ;
+
+b) A la date du dixième anniversaire du plan ou, pour les plans ouverts avant le
+1er avril 1992, à leur date d'échéance ;
+
+c) Lors du dénouement du plan, s'il intervient antérieurement au dixième
+anniversaire ou antérieurement à leur date d'échéance pour les plans ouverts
+avant le 1er avril 1992 ;
+
+d) Lors de leur inscription en compte, pour les intérêts courus à compter du 1er
+janvier 2006 sur des plans de plus de dix ans ou sur des plans ouverts avant le
+1er avril 1992 dont le terme est échu ;
+
+2 bis Les primes d'épargne des plans d'épargne-logement lors de leur versement ;
 
 3. Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
 placements de même nature mentionnés à l'article 125-0 A quelle que soit leur
@@ -27,22 +44,21 @@ respectivement lors de leur inscription en compte et de leur versement ;
 valeurs ou de la clôture d'un plan d'épargne en actions défini à l'article 163
 quinquies D ;
 
-a. en cas de retrait ou de rachat entraînant la cl&lt;CB&gt;ture du plan, le
-gain net est déterminé par différence entre, d'une part, la valeur liquidative
-du plan ou la valeur de rachat pour les contrats de capitalisation à la date du
-retrait ou du rachat et, d'autre part, la valeur liquidative ou de rachat au 1er
-février 1996 majorée des versements effectués depuis cette date et diminuée du
-montant des sommes déjà retenues à ce titre lors des précédents retraits ou
-rachats ;
+a. en cas de retrait ou de rachat entraînant la clôture du plan, le gain net est
+déterminé par différence entre, d'une part, la valeur liquidative du plan ou la
+valeur de rachat pour les contrats de capitalisation à la date du retrait ou du
+rachat et, d'autre part, la valeur liquidative ou de rachat au 1er février 1996
+majorée des versements effectués depuis cette date et diminuée du montant des
+sommes déjà retenues à ce titre lors des précédents retraits ou rachats ;
 
-b. en cas de retrait ou de rachat n'entraînant pas la cl&lt;CB&gt;ture du plan,
-le gain net afférent à chaque retrait ou rachat est déterminé par différence
-entre, d'une part, le montant du retrait ou rachat et, d'autre part, une
-fraction de la valeur liquidative ou de rachat au 1er février 1996 augmentée des
-versements effectués sur le plan depuis cette date et diminuée du montant des
-sommes déjà retenues à ce titre lors des précédents retraits ou rachats. Cette
-fraction est égale au rapport du montant du retrait ou rachat effectué à la
-valeur liquidative totale du plan à la date du retrait ou du rachat ;
+b. en cas de retrait ou de rachat n'entraînant pas la clôture du plan, le gain
+net afférent à chaque retrait ou rachat est déterminé par différence entre,
+d'une part, le montant du retrait ou rachat et, d'autre part, une fraction de la
+valeur liquidative ou de rachat au 1er février 1996 augmentée des versements
+effectués sur le plan depuis cette date et diminuée du montant des sommes déjà
+retenues à ce titre lors des précédents retraits ou rachats. Cette fraction est
+égale au rapport du montant du retrait ou rachat effectué à la valeur
+liquidative totale du plan à la date du retrait ou du rachat ;
 
 La valeur liquidative ou de rachat ne tient pas compte des gains nets et
 produits de placement mentionnés au 8 afférents aux parts des fonds communs de
@@ -85,6 +101,10 @@ contrat ;
 
 II. Les dispositions du I ne sont pas applicables aux revenus visés au 3
 s'agissant des seuls contrats en unités de comptes et aux 5 à 9, lorsque ces
-revenus entrent dans le champ d'application de l'article 1600-0 G.
+revenus entrent dans le champ d'application de l'article 1600-0 G (1).
 
 III. (sans objet).
+
+l'article 157, lors de l'expiration du contrat ;
+
+10. (Abrogé)
