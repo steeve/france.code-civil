@@ -1,7 +1,8 @@
-Article D3112-6
+Article D3121-38
 ----
-Peuvent être habilités comme centres de lutte contre la tuberculose pour
-l'application de l'article L. 3112-3 :
+Peuvent être habilités comme centres d'information, de dépistage et de
+diagnostic des infections sexuellement transmissibles pour l'application de
+l'article L. 3121-2-1 :
 
 1° Les établissements de santé mentionnés à l'article L. 6112-2 ;
 
