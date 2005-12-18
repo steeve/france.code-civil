@@ -1,14 +1,5 @@
 Article L723-46
 ----
-Les assemblées générales des organismes de mutualité sociale agricole et celles
-des unions mentionnées aux articles L. 723-7 et L. 723-13 désignent un ou
-plusieurs commissaires aux comptes, agréés par les cours d'appel.
-
-Les commissaires aux comptes peuvent procéder à toute époque aux contrôles et
-investigations comptables relevant de leur mission. Ils rendent compte de leur
-mandat à l'assemblée générale appelée à statuer sur les comptes de chaque
-exercice.
-
 Les décisions des assemblées générales des caisses départementales ou
 pluridépartementales de mutualité sociale agricole et de la caisse centrale de
 la mutualité sociale agricole ainsi que des associations et groupements
