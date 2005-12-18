@@ -1,7 +1,9 @@
 Article R1617-13
 ----
-Les régisseurs d'avances effectuent les dépenses dans les mêmes conditions que
-les comptables publics. Toutefois, sont seuls autorisés les paiements en
-numéraire, par chèque, mandat-carte et carte bancaire. Toute autre modalité de
-paiement des dépenses est soumise à l'accord préalable du trésorier-payeur
-général ou du receveur des finances.
+Les régisseurs d'avances effectuent le paiement des dépenses dans les mêmes
+conditions que les comptables publics.
+
+Dans les conditions fixées par l'acte constitutif de la régie, ils peuvent être
+habilités à remettre des instruments de paiement, mentionnés à l'article R.
+1617-7, à des bénéficiaires désignés par la collectivité ou son établissement
+public local.
