@@ -15,14 +15,8 @@ représentative des charges sont fixés par arrêté du ministre chargé de la
 sécurité sociale, du ministre chargé du budget, du ministre chargé de
 l'agriculture et du ministre chargé du logement.
 
-Le loyer mensuel payé par les étudiants logés en résidence universitaire est
-réputé égal à :
-
-70,88 Euros lorsqu'il s'agit d'une personne isolée ;
-
-110,38 Euros lorsqu'il s'agit d'un ménage.
-
-Ce montant est augmenté de la majoration forfaitaire représentative des charges.
+Pour les étudiants logés en résidence universitaire, l'allocation de logement
+est calculée selon les modalités définies à l'article D. 831-2-1.
 
 Lorsque le logement occupé est une chambre, le loyer principal effectivement
 payé est pris en compte dans la limite d'un plafond mensuel auquel s'ajoute la

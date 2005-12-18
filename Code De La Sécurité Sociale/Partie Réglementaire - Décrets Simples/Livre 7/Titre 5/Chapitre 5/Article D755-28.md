@@ -25,15 +25,11 @@ Ce plafond ne pourra, en aucun cas, être inférieur à celui qui était en vigu
 lors de l'entrée dans les lieux sous réserve qu'il s'agisse d'un local habité
 pour la première fois par le bénéficiaire.
 
-Le loyer mensuel payé par les étudiants logés en résidence universitaire est
-réputé égal à :
+L'arrêté interministériel prévu au présent article fixe en outre le plafond de
+la prime de déménagement.
 
-70,88 Euros lorsqu'il s'agit d'une personne isolée ;
-
-110,38 Euros lorsqu'il s'agit d'un ménage.
-
-707 F pour la période du 1er juillet 2001 au 31 décembre 2001, et à 107,78 Euro
-à compter du 1er janvier 2002 lorsqu'il s'agit d'un ménage.
+Pour les étudiants logés en résidence universitaire, l'allocation de logement
+est calculée selon les modalités définies à l'article D. 831-2-1.
 
 Ce montant est augmenté de la majoration forfaitaire représentative des charges.
 
