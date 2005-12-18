@@ -11,9 +11,9 @@ charge en sus des prestations d'hospitalisation susmentionnées.
 
 Bénéficient d'un remboursement intégral de la part prise en charge par les
 régimes obligatoires d'assurance maladie les établissements qui ont adhéré au
-contrat de bon usage des médicaments et des produits et prestations établi par
-le directeur de l'agence régionale de l'hospitalisation dans des conditions
-définies par décret.
+contrat de bon usage des médicaments et des produits et prestations établi
+conjointement par le directeur de l'agence régionale de l'hospitalisation et
+l'assurance maladie dans des conditions définies par décret.
 
 Lorsque l'établissement adhérent ne respecte pas les stipulations de ce contrat
 et après qu'il a été mis en demeure de présenter ses observations, ce

@@ -1,6 +1,5 @@
 Article L816-1
 ----
-Nonobstant toute disposition contraire, le présent titre est applicable aux
-personnes de nationalité étrangère titulaires d'un des titres de séjour ou
-documents justifiant la régularité de leur séjour en France. La liste de ces
-titres et documents est fixée par décret.
+Le présent titre est applicable aux personnes de nationalité étrangère sous
+réserve qu'elles répondent aux conditions prévues aux articles L. 262-9 et L.
+262-9-1 du code de l'action sociale et des familles.

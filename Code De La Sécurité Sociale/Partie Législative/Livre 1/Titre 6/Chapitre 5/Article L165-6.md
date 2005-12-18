@@ -11,9 +11,9 @@ dispense d'avance de frais.
 Ces accords doivent comporter des dispositions adaptées à la situation des
 bénéficiaires du droit à la protection complémentaire en matière de santé. A ce
 titre, pour les produits ou prestations de santé mentionnés à l'article L. 165-1
-figurant sur la liste mentionnée au cinquième alinéa de l'article L. 861-3, ces
+figurant sur la liste mentionnée au sixième alinéa de l'article L. 861-3, ces
 accords prévoient soit l'obligation pour les distributeurs de proposer un
-produit ou prestation à un prix n'excédant pas le montant des frais pris en
+produit ou une prestation à un prix n'excédant pas le montant des frais pris en
 charge défini par l'arrêté mentionné à l'article L. 861-3, soit le montant
 maximal pouvant être facturé aux bénéficiaires du droit à la protection
 complémentaire en matière de santé.

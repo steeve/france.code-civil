@@ -11,8 +11,11 @@ spécialiste. Il peut être un médecin hospitalier.
 Le médecin traitant peut être un médecin salarié d'un centre de santé mentionné
 à l'article L. 6323-1 du code de la santé publique ou d'un établissement ou
 service visé à l'article L. 312-1 du code de l'action sociale et des familles.
-Un arrêté fixe les missions du médecin traitant quand celui-ci est un médecin
-salarié.
+Les médecins exerçant dans le cadre de la même spécialité au sein d'un cabinet
+médical situé dans les mêmes locaux ou dans un centre de santé mentionné à
+l'article L. 6323-1 du code de la santé publique peuvent être conjointement
+désignés médecins traitants. Un arrêté fixe les missions du médecin traitant
+quand celui-ci est un médecin salarié.
 
 Le médecin traitant participe à la mise en place et à la gestion du dossier
 médical personnel prévu à l'article L. 161-36-1 du présent code.

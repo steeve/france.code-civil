@@ -2,8 +2,7 @@ Article L725-13
 ----
 Est puni d'une amende de 4500 euros, le fait :
 
-1° Par manoeuvres frauduleuses ou fausse déclaration, d'obtenir ou de tenter
-d'obtenir des prestations qui ne sont pas dues ;
+1° (alinéa abrogé) ;
 
 2° Pour tout intermédiaire, d'offrir ou de faire offrir ses services, moyennant
 émoluments convenus d'avance, à un allocataire ou à un assuré en vue de lui

@@ -57,8 +57,12 @@ affilié l'assuré social victime de l'accident recouvre une indemnité forfaita
 à la charge du tiers responsable et au profit du fonds national des accidents du
 travail de l'organisme national d'assurance maladie. Le montant de cette
 indemnité est égal au tiers des sommes dont le remboursement a été obtenu, dans
-les limites d'un montant maximum de 760 euros et d'un montant minimum de 76
-euros.
+les limites d'un montant maximum de 910 euros et d'un montant minimum de 91
+euros. A compter du 1er janvier 2007, les montants mentionnés au présent alinéa
+sont révisés chaque année, par arrêté des ministres chargés de la sécurité
+sociale et du budget, en fonction du taux de progression de l'indice des prix à
+la consommation hors tabac prévu dans le rapport économique, social et financier
+annexé au projet de loi de finances pour l'année considérée.
 
 Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
 les garanties et sanctions prévues au chapitre 3 du titre III et aux chapitres
@@ -68,4 +72,4 @@ livre II applicables au recouvrement des cotisations de sécurité sociale.
 Lorsque l'assuré victime de l'accident est affilié au régime agricole,
 l'indemnité est recouvrée selon les règles et sous les garanties et sanctions
 prévues aux chapitres 2, 3 et 4 du titre IV du livre Ier ainsi qu'à l'article
-1143-2 du code rural.
+1143-2 (1) du code rural.

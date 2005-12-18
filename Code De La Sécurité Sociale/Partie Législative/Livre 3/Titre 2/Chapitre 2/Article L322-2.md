@@ -8,12 +8,11 @@ dispensés les soins, les conditions d'hébergement, la nature de l'établisseme
 où les soins sont donnés. La participation de l'assuré peut être réduite en
 fonction de l'âge ou de la situation de famille du bénéficiaire des prestations.
 
-La participation est fixée et peut être, dans les cas mentionnés à l'article L.
-322-3, réduite ou supprimée, dans des limites et des conditions fixées par
-décret en Conseil d'Etat, par décision de l'Union nationale des caisses
-d'assurance maladie, après avis de l'Union nationale des organismes d'assurance
-maladie complémentaire. Le ministre chargé de la santé peut s'opposer à cette
-décision pour des motifs de santé publique. La décision du ministre est motivée.
+La participation est fixée dans des limites et des conditions fixées par décret
+en Conseil d'Etat, par décision de l'Union nationale des caisses d'assurance
+maladie, après avis de l'Union nationale des organismes d'assurance maladie
+complémentaire. Le ministre chargé de la santé peut s'opposer à cette décision
+pour des motifs de santé publique. La décision du ministre est motivée.
 
 L'application aux spécialités pharmaceutiques mentionnées à l'article L. 162-17
 des taux de participation mentionnés à l'alinéa précédent est déterminée par

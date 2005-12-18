@@ -15,13 +15,6 @@ Le taux et le maximum des indemnités journalières, la date à partir de laquel
 l'indemnité est majorée, ainsi que les modalités de détermination du gain
 journalier de base sont fixés par décret en Conseil d'Etat.
 
-Compte tenu de la modification du taux de la contribution sociale généralisée
-prévue en application du 3° du I de l'article 5 de la loi de financement de la
-sécurité sociale pour 1998 (n° 97-1164 du 19 décembre 1997), le taux et le
-maximum des indemnités journalières visées à l'alinéa précédent sont majorés à
-compter du septième mois de leur perception selon des modalités déterminées par
-décret en Conseil d'Etat.
-
 En cas d'augmentation générale des salaires postérieurement à l'ouverture du
 bénéfice de l'assurance maladie et lorsque l'interruption de travail se prolonge
 au-delà d'une durée déterminée, le taux de l'indemnité journalière peut faire

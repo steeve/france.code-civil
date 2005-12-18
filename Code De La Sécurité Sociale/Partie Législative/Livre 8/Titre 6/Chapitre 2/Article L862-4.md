@@ -12,11 +12,11 @@ annulations et des remboursements, ou, à défaut d'émission, recouvrées,
 afférentes à la protection complémentaire en matière de frais de soins de santé,
 à l'exclusion des réassurances.
 
-II. - Le taux de la contribution est fixé à 1,75 %.
+II. - Le taux de la contribution est fixé à 2,5 %.
 
 III. - Les organismes mentionnés au I du présent article déduisent du montant de
 la contribution due en application du I et du II ci-dessus un montant égal, pour
-chaque organisme, au produit de la somme de 75 euros par le nombre de personnes
+chaque organisme, au produit de la somme de 85 euros par le nombre de personnes
 bénéficiant, le dernier jour du deuxième mois du trimestre civil au titre duquel
 la contribution est due, de la prise en charge des dépenses mentionnées à
 l'article L. 861-3 au titre des dispositions du b de l'article L. 861-4. Ils

@@ -13,5 +13,5 @@ Les revenus servant de base au calcul des cotisations dues au titre du présent
 régime sont constitués du montant brut des droits d'auteur lorsque ces derniers
 sont assimilés fiscalement à des traitements et salaires par le 1 quater de
 l'article 93 du code général des impôts. Ils sont constitués du montant des
-revenus imposables au titre des bénéfices non commerciaux majorés de 15 p. 100
+revenus imposables au titre des bénéfices non commerciaux majorés de 15 %
 lorsque cette assimilation n'est pas applicable.

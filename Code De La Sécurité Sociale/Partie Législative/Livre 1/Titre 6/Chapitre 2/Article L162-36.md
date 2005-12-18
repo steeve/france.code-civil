@@ -14,5 +14,5 @@ de sécurité sociale.
 
 Les auteurs de fraudes ou de fausses déclarations, faites à l'occasion de
 l'application des dispositions mentionnées au premier alinéa, sont passibles des
-sanctions prévues à l'article L. 377-1, sans préjudice des peines résultant de
+sanctions prévues à l'article L. 114-13, sans préjudice des peines résultant de
 l'application d'autres lois, s'il y échet.

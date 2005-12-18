@@ -24,3 +24,10 @@ solidarité professionnelle et notamment des sinistres et des retraites.
 Il peut, devant toutes les juridictions, exercer tous les droits réservés à la
 partie civile relativement aux faits portant un préjudice direct ou indirect à
 l'intérêt collectif de la profession pharmaceutique.
+
+Afin de favoriser la qualité des soins et de la dispensation des médicaments,
+produits et objets définis à l'article L. 4211-1, il contribue au développement
+des moyens destinés à faciliter la mise en oeuvre du dossier médical personnel
+mentionné à l'article L. 161-36-1 du code de la sécurité sociale, dans le cadre
+de l'exercice de la profession de pharmacien et des articles L. 161-36-1 à L.
+161-36-4 du même code.

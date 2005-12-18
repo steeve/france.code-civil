@@ -15,4 +15,10 @@ de vingt-deux semaines postérieure à l'accouchement est alors réduite d'autan
 
 Quand l'accouchement a lieu avant la date présumée, la période d'indemnisation
 de seize ou de trente-quatre semaines, quarante-six semaines en cas de naissance
-de plus de deux enfants n'est pas réduite de ce fait .
+de plus de deux enfants n'est pas réduite de ce fait.
+
+Quand la naissance de l'enfant a lieu plus de six semaines avant la date
+présumée de l'accouchement, la période pendant laquelle la mère perçoit
+l'indemnité journalière de repos est augmentée du nombre de jours courant entre
+la naissance de l'enfant et six semaines avant la date présumée de
+l'accouchement.

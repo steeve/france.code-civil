@@ -5,7 +5,8 @@ Le directeur général, sur mandat du collège des directeurs :
 1° Négocie et signe l'accord-cadre, les conventions, leurs avenants et annexes
 et les accords et contrats régissant les relations avec les professions de santé
 mentionnées à l'article L. 162-14-1 et les centres de santé mentionnés à
-l'article L. 162-32-1 ;
+l'article L. 162-32-1 ainsi que l'accord national mentionné à l'article L.
+162-16-7 ;
 
 2° Négocie et signe les contrats pluriannuels d'objectifs et de gestion
 interrégimes prévus à l'article L. 183-2-3.

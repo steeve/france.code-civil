@@ -50,8 +50,13 @@ au troisième alinéa ci-dessus, la caisse d'assurance maladie à laquelle est
 affilié l'assuré social victime de l'accident recouvre une indemnité forfaitaire
 à la charge du tiers responsable et au profit de l'organisme national
 d'assurance maladie. Le montant de cette indemnité est égal au tiers des sommes
-dont le remboursement a été obtenu, dans les limites d'un montant maximum de 760
-euros et d'un montant minimum de 76 euros.
+dont le remboursement a été obtenu, dans les limites d'un montant maximum de 910
+euros et d'un montant minimum de 91 euros. A compter du 1er janvier 2007, les
+montants mentionnés au présent alinéa sont révisés chaque année, par arrêté des
+ministres chargés de la sécurité sociale et du budget, en fonction du taux de
+progression de l'indice des prix à la consommation hors tabac prévu dans le
+rapport économique, social et financier annexé au projet de loi de finances pour
+l'année considérée.
 
 Cette indemnité est établie et recouvrée par la caisse selon les règles et sous
 les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres

@@ -15,9 +15,10 @@ demande d'affiliation et sont habilités à transmettre les documents afférents
 l'organisme compétent avec l'accord de l'intéressé.
 
 Les personnes qui, au moment de la demande, sont sans domicile fixe doivent
-élire domicile soit auprès d'un organisme agréé à cet effet par décision de
-l'autorité administrative, soit auprès d'un centre communal ou intercommunal
-d'action sociale.
+élire domicile soit, après avis favorable d'un assistant de service social,
+auprès d'un organisme agréé à cet effet par décision de l'autorité
+administrative, soit auprès d'un centre communal ou intercommunal d'action
+sociale.
 
 Les modalités d'application du présent article sont définies par décret en
 Conseil d'Etat.

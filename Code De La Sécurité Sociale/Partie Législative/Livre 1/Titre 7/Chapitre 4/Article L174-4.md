@@ -20,7 +20,10 @@ Le forfait journalier s'impute à due concurrence sur la participation laissée
 éventuellement à la charge des assurés par leurs régimes respectifs d'assurance
 maladie, lorsque le montant de cette participation est supérieur ou égal à celui
 du forfait journalier ; dans le cas contraire, la participation est imputée sur
-le forfait.
+le forfait. Cette disposition n'est toutefois pas applicable lorsqu'en vertu du
+l° de l'article L. 322-3 la participation de l'assuré à l'occasion d'une
+hospitalisation est limitée au motif que la dépense demeurant à sa charge
+dépasse un certain montant.
 
 Le forfait journalier peut être pris en charge par le régime local d'assurance
 maladie dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle dans

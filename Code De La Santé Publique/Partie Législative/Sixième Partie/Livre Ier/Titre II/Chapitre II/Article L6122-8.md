@@ -8,7 +8,8 @@ nécessitant des dispositions particulières dans l'intérêt de la santé publi
 L'autorisation fixe les objectifs quantifiés des activités de soins ou des
 équipements lourds autorisés lorsqu'ils n'ont pas été fixés dans le contrat
 pluriannuel d'objectifs et de moyens conformément aux dispositions des articles
-L. 6114-1 et suivants.
+L. 6114-1 et suivants. Dans ce cas, l'autorisation prévoit les pénalités
+applicables en cas de non-respect de ces objectifs.
 
 Dans le cadre d'une opération de coopération, conversion, cession, changement de
 lieu d'implantation, fermeture, regroupement prévue par le schéma d'organisation

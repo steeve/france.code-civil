@@ -16,6 +16,12 @@ dentaires prothétiques ou d'orthopédie dento-faciale et pour les dispositifs
 médicaux à usage individuel admis au remboursement, dans des limites fixées par
 arrêté interministériel.
 
+La prise en charge prévue au 1° ci-dessus peut être limitée par décret en
+Conseil d'Etat afin de respecter les dispositions de l'article L. 871-1 et de
+prendre en compte les avis de la Haute Autorité de santé eu égard à
+l'insuffisance du service médical rendu des produits, actes ou prestations de
+santé.
+
 L'arrêté mentionné au 3° ci-dessus précise notamment la liste des dispositifs et
 la limite du montant des frais pris en charge.
 
@@ -30,11 +36,11 @@ bénéficient de la procédure de dispense d'avance de frais pour les frais des
 actes réalisés par ce médecin ou par les médecins spécialistes qui se déclarent
 correspondants de ce médecin, pour eux-mêmes ou leurs ayants droit.
 
-Les personnes dont le droit aux prestations définies aux cinq premiers alinéas
-du présent article vient à expiration bénéficient, pour une durée d'un an à
-compter de la date d'expiration de ce droit, de la procédure de dispense
-d'avance des frais prévue à l'alinéa précédent pour la part de leurs dépenses
-prise en charge par les régimes obligatoires d'assurance maladie et maternité.
+Les personnes dont le droit aux prestations définies aux six premiers alinéas du
+présent article vient à expiration bénéficient, pour une durée d'un an à compter
+de la date d'expiration de ce droit, de la procédure de dispense d'avance des
+frais prévue à l'alinéa précédent pour la part de leurs dépenses prise en charge
+par les régimes obligatoires d'assurance maladie et maternité.
 
 Pour l'application de cette dispense d'avance de frais, un décret détermine les
 modalités de paiement des professionnels et établissements de santé permettant

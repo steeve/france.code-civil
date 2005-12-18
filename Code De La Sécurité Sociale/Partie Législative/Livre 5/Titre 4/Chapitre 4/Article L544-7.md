@@ -1,10 +1,13 @@
 Article L544-7
 ----
-Les modalités selon lesquelles l'allocation de présence parentale à taux plein
-ou à taux partiel est attribuée aux personnes visées aux articles L. 751-1 et L.
-772-1 du code du travail, aux 1°, 4° et 5° de l'article L. 615-1, à l'article L.
-722-1 du présent code, à l'article L. 722-9 du code rural et les modalités selon
-lesquelles l'allocation de présence parentale est attribuée à taux plein aux
-travailleurs à la recherche d'un emploi visés aux articles L. 351-1 à L. 351-15
-du code du travail ou en formation professionnelle rémunérée sont fixées par
-décret.
+Un complément pour frais est attribué au ménage ou à la personne dont les
+ressources ne dépassent pas un plafond, lorsque la maladie, le handicap ou
+l'accident visés au premier alinéa de l'article L. 544-1 exigent des dépenses à
+la charge desdits ménage ou personne, supérieures à un montant déterminé. Ce
+complément, versé mensuellement selon des modalités fixées par décret, est
+forfaitaire.
+
+Le plafond de ressources visé au premier alinéa varie en fonction du nombre
+d'enfants à charge. Il est majoré lorsque chaque membre du couple dispose d'un
+revenu professionnel ou lorsque la charge du ou des enfants est assumée par une
+seule personne.

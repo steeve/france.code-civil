@@ -6,9 +6,7 @@ intentionnelle, la décision attribuant la protection complémentaire est
 rapportée. Le rapport de la décision entraîne la nullité des adhésions et
 contrats prévus au b de l'article L. 861-4.
 
-II. - Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir
-ou faire obtenir le bénéfice de la protection complémentaire en matière de santé
-est passible des peines prévues à l'article 441-1 du code pénal.
+II. - Paragraphe abrogé
 
 III. - Toute infraction aux prescriptions des articles L. 861-3 et L. 861-8 est
 punie d'une amende de 15000 euros.

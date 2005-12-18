@@ -1,10 +1,7 @@
 Article L544-5
 ----
-Lorsque les deux membres d'un couple réduisent leur activité professionnelle,
-ils peuvent bénéficier chacun d'une allocation à taux partiel dans les
-conditions prévues à l'article L. 544-2 même si le montant cumulé des deux
-prestations excède celui de l'allocation à taux plein.
-
-Les deux membres du couple ne peuvent cumuler le bénéfice de deux allocations de
-présence parentale à taux plein ni celui d'une allocation de présence parentale
-à taux plein et de l'allocation à taux partiel.
+L'allocation journalière de présence parentale est due à compter du premier jour
+du mois civil au cours duquel est déposée la demande, sous réserve que les
+conditions d'ouverture de droit soient réunies à cette date. L'allocation cesse
+d'être due à compter du premier jour du mois civil suivant celui au cours duquel
+les conditions de droit ne sont plus réunies.

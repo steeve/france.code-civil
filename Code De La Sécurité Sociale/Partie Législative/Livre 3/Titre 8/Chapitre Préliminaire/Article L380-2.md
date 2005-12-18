@@ -14,3 +14,23 @@ déclaratives incombant aux assujettis.
 La cotisation est recouvrée selon les dispositions des sections 2 à 4 du
 chapitre III et du chapitre IV du titre IV du livre II du présent code, sous
 réserve des adaptations prévues par décret du Conseil d'Etat.
+
+Pour bénéficier du remboursement des prestations, l'assuré mentionné au premier
+alinéa doit être à jour de ses cotisations.
+
+En cas de fraude ou de fausse déclaration sur le montant des ressources, la
+caisse peut, sans préjudice des dispositions de l'article L. 162-1-14, suspendre
+à titre conservatoire, après mise en demeure, le versement des prestations. Les
+modalités d'application du présent alinéa sont fixées par décret.
+
+Pour la détermination du montant de la cotisation visée au premier alinéa et le
+contrôle des déclarations de ressources effectué à cette fin, les organismes
+d'assurance maladie peuvent demander toutes les informations nécessaires à
+l'administration des impôts, aux organismes de sécurité sociale et aux
+organismes d'indemnisation du chômage qui sont tenus de les leur communiquer.
+Les personnels des organismes sont tenus au secret quant aux informations qui
+leur sont communiquées. Les informations demandées doivent être limitées aux
+données strictement nécessaires à l'accomplissement de cette mission, dans le
+respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés. Les personnes intéressées sont
+informées de la possibilité de ces échanges d'informations.

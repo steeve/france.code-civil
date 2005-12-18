@@ -15,10 +15,10 @@ que sur les projets d'autorisation des structures médicales mentionnées à
 l'article L. 6146-10.
 
 Le comité rend un avis sur la définition des zones rurales ou urbaines où est
-constaté un déficit en matière d'offre de soins, prévues au II de l'article 25
-de la loi n° 98-1194 du 23 décembre 1998 de financement de la sécurité sociale
-pour 1999 et au 3° du II de l'article 4 de l'ordonnance n° 96-345 du 24 avril
-1996 relative à la maîtrise médicalisée des dépenses de soins.
+constaté un déficit en matière d'offre de soins, prévues au II de l'article L.
+221-1-1 du code de la sécurité sociale et au 3° du II de l'article 4 de
+l'ordonnance n° 96-345 du 24 avril 1996 relative à la maîtrise médicalisée des
+dépenses de soins.
 
 Il peut émettre des avis sur toute question relative à l'organisation sanitaire
 dans la région.

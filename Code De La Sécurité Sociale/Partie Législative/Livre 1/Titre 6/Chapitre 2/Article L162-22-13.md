@@ -31,7 +31,13 @@ d'intérêt général et à l'aide à la contractualisation, un bilan élaboré 
 base des données transmises par chaque agence régionale de l'hospitalisation est
 transmis avant le 15 octobre de chaque année au Parlement et aux organisations
 nationales les plus représentatives des établissements de santé publics et
-privés.
+privés. Ce bilan contient notamment une analyse du bien-fondé du périmètre des
+missions d'intérêt général et d'aide à la contractualisation des établissements
+de santé mentionnés au premier alinéa, de l'évolution du montant annuel de la
+dotation nationale de financement de ces missions, de celle du montant des
+dotations régionales et de celle du montant des dotations attribuées à chaque
+établissement, ainsi que des critères d'attribution de ces dernières aux
+établissements.
 
 Un décret, pris après avis des organisations nationales les plus représentatives
 des établissements de santé, fixe la liste des missions d'intérêt général et des

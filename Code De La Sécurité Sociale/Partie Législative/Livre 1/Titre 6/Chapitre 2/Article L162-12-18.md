@@ -50,10 +50,9 @@ caisses d'assurance maladie à destination des assurés.
 
 Le contrat peut comporter des engagements spécifiques en matière de permanence
 des soins ou d'implantation ou de maintien dans les zones mentionnées au
-deuxième alinéa du II de l'article 25 de la loi de financement de la sécurité
-sociale pour 1999 (n° 98-1194 du 23 décembre 1998) et au 3° du II de l'article 4
-de l'ordonnance n° 96-345 du 24 avril 1996 relative à la maîtrise médicalisée
-des dépenses de soins.
+deuxième alinéa du II de l'article L. 221-1-1 et au 3° du II de l'article 4 de
+l'ordonnance n° 96-345 du 24 avril 1996 relative à la maîtrise médicalisée des
+dépenses de soins.
 
 Les contrats prévoient les conditions dans lesquelles la caisse primaire
 d'assurance maladie peut, lorsque les engagements ne sont pas tenus, mettre fin

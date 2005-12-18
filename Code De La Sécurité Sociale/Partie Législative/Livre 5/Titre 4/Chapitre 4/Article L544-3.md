@@ -1,8 +1,13 @@
 Article L544-3
 ----
-Pour chaque période d'attribution de la prestation, la nécessité d'une présence
-soutenue ou de soins contraignants de la part des parents est attestée par un
-certificat médical détaillé et soumise à l'avis du service du contrôle médical
-prévu aux articles L. 315-1 et L. 615-13 ou du régime spécial de sécurité
-sociale. Le droit à la prestation est subordonné à un avis favorable dudit
-service.
+L'allocation est versée dans la limite d'une durée maximum fixée par décret pour
+un même enfant et par maladie, handicap ou accident. Le nombre maximum
+d'allocations journalières versées au cours de cette période est égal à trois
+cent dix.
+
+Au-delà de la durée maximum prévue au premier alinéa, le droit à l'allocation
+journalière de présence parentale peut être ouvert de nouveau, en cas de rechute
+ou de récidive de la pathologie de l'enfant au titre de laquelle un premier
+droit à l'allocation de présence parentale ou à l'allocation journalière de
+présence parentale avait été ouvert, dès lors que les conditions visées aux
+articles L. 544-1 et L. 544-2 sont réunies.

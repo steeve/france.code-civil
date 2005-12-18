@@ -13,3 +13,9 @@ décision mentionnée au troisième alinéa du I de l'article L. 322-2.
 L'Union nationale des professionnels de santé examine annuellement un programme
 annuel de concertation avec l'Union nationale des caisses d'assurance maladie et
 l'Union nationale des organismes d'assurance maladie complémentaire.
+
+L'Union nationale des professionnels de santé reçoit une contribution à son
+fonctionnement de la Caisse nationale de l'assurance maladie des travailleurs
+salariés. Le montant de cette contribution est défini par l'accord mentionné à
+l'article L. 162-1-13 ou, à défaut, par arrêté du ministre chargé de la sécurité
+sociale.

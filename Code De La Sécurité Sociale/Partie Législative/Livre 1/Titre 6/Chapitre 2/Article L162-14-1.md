@@ -26,15 +26,18 @@ fonctionnement de fonds de modernisation de la profession considérée ;
 
 4° Le cas échéant, des dispositifs d'aides visant à faciliter l'installation des
 professionnels de santé libéraux ou des centres de santé mentionnés à l'article
-L. 6323-1 du code de la santé publique dans les zones mentionnées à l'article L.
-162-47 du présent code ainsi que les conditions dans lesquelles les praticiens
-libéraux exerçant dans ces zones bénéficient, en contrepartie, d'une
-rémunération forfaitaire annuelle. La convention fixe également les modalités de
-calcul et de répartition, entre régimes, de cette rémunération. Les obligations
-auxquelles sont soumis les professionnels ou les centres de santé qui
-bénéficient de ces aides peuvent être adaptées par les unions régionales des
-caisses d'assurance maladie après consultation des organisations représentatives
-des professionnels de santé pour tenir compte de la situation régionale ;
+L. 6323-1 du code de la santé publique, ou le remplacement de professionnels de
+santé libéraux, dans les zones mentionnées à l'article L. 162-47 du présent code
+ainsi que les conditions dans lesquelles les praticiens libéraux exerçant dans
+ces zones bénéficient, en contrepartie, d'une rémunération forfaitaire annuelle
+qui peut être modulée en fonction de leur niveau d'activité et de leurs
+modalités d'exercice, notamment pour favoriser l'exercice regroupé. La
+convention fixe également les modalités de calcul et de répartition, entre
+régimes, de cette rémunération. Les obligations auxquelles sont soumis les
+professionnels ou les centres de santé qui bénéficient de ces aides peuvent être
+adaptées par les unions régionales des caisses d'assurance maladie après
+consultation des organisations représentatives des professionnels de santé pour
+tenir compte de la situation régionale ;
 
 5° Les conditions dans lesquelles les caisses d'assurance maladie participent au
 financement des cotisations dues par les professionnels de santé au titre de

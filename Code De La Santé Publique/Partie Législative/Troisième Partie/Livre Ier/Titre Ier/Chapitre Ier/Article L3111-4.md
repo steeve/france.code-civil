@@ -1,9 +1,9 @@
 Article L3111-4
 ----
 Une personne qui, dans un établissement ou organisme public ou privé de
-prévention ou de soins, exerce une activité professionnelle l'exposant à des
-risques de contamination doit être immunisée contre l'hépatite B, la diphtérie,
-le tétanos et la poliomyélite.
+prévention de soins ou hébergeant des personnes âgées, exerce une activité
+professionnelle l'exposant à des risques de contamination doit être immunisée
+contre l'hépatite B, la diphtérie, le tétanos, la poliomyélite et la grippe.
 
 Les personnes qui exercent une activité professionnelle dans un laboratoire
 d'analyses de biologie médicale doivent être immunisées contre la fièvre
