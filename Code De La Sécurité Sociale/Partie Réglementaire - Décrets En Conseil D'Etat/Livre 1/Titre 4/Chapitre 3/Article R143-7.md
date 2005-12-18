@@ -11,8 +11,8 @@ recours amiable, soit à l'expiration du délai d'un mois prévu à l'article R.
 143-1.
 
 Le recours n'est pas suspensif, sous réserve de dispositions législatives
-particulières, et notamment de celles de l'article L. 323-11 du code du travail
-et de l'article L. 242-8 du code de l'action sociale et des familles.
+particulières, et notamment de celles du premier alinéa de l'article L. 241-9 du
+code de l'action sociale et des familles.
 
 La déclaration doit indiquer les nom, prénoms, profession et adresse du
 requérant ou, pour les personnes morales, leur dénomination et leur siège, et,

@@ -18,6 +18,6 @@ a. soit une pièce délivrée par le service ou l'organisme compétent attestant
 l'intéressé est bénéficiaire d'une allocation ou majoration pour tierce personne
 servie au titre d'un régime social législatif ou réglementaire ;
 
-b. soit une décision de la commission de l'éducation spéciale ou de la
-commission technique d'orientation et de reclassement professionnel instituées
-par la loi n° 75-534 du 30 juin 1975.
+b. soit une décision de la commission des droits et de l'autonomie des personnes
+handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles.
