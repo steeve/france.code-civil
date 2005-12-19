@@ -24,4 +24,7 @@ délégué) ".
 Pour l'application des alinéas précédents, les jugements du tribunal
 administratif de Nouvelle-Calédonie portent la mention :
 
-" Le tribunal administratif de Nouvelle-Calédonie ".
+" Le tribunal administratif de Nouvelle-Calédonie " et ceux du tribunal
+administratif de la Polynésie française portent la mention :
+
+"Le tribunal administratif de la Polynésie française ".
