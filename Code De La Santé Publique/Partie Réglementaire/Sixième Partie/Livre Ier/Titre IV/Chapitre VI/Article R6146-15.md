@@ -1,8 +1,14 @@
 Article R6146-15
 ----
-Les tarifs de prestations applicables dans les structures d'hospitalisation
-régies par la présente section sont déterminés d'après les prix de revient
-prévisionnels calculés dans les conditions prévues aux articles R. 6145-22 à R.
-6145-30 ; ils ne peuvent être inférieurs aux tarifs de prestations payés par les
-malades admis, sur leur demande, en régime particulier dans la même discipline
-ou spécialité dans les conditions prévues à l'article R. 6145-27.
+Le règlement intérieur de l'établissement fixe les modalités du scrutin,
+notamment les conditions du vote par correspondance.
+
+La date de l'élection est fixée par le directeur de l'établissement. Un mois au
+moins avant, le directeur publie par voie d'affichage la date retenue, la liste
+des électeurs et des éligibles ainsi que le nombre de sièges de représentants
+titulaires et suppléants à pourvoir dans les deux groupes au titre de chacun des
+corps et catégories énumérés à l'article R. 6146-12.
+
+Le procès-verbal des opérations électorales est affiché pendant six jours francs
+après le scrutin. Les éventuelles réclamations sur la validité de ces élections
+sont adressées au directeur de l'établissement avant l'expiration de ce délai.

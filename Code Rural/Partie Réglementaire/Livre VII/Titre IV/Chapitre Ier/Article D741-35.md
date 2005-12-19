@@ -11,8 +11,8 @@ Toutefois, pour les personnes mentionnées au deuxième alinéa de l'article L.
 16,50 %, soit 11 % à la charge de l'employeur et 5,50 % à la charge du salarié ;
 
 2° Le taux de la cotisation affectée à la couverture des prestations légales de
-l'assurance vieillesse est fixé à 15,15 %, soit 7,20 % à la charge de
-l'employeur et 6,55 % à la charge du salarié sur les rémunérations ou gains de
+l'assurance vieillesse est fixé à 15,45 %, soit 7,30 % à la charge de
+l'employeur et 6,65 % à la charge du salarié sur les rémunérations ou gains de
 celui-ci dans la limite du plafond mentionné au a) du II de l'article L. 741-9,
 et, sur la totalité des rémunérations ou gains du salarié, 1,40 % à la charge de
 l'employeur et 0,10 % à la charge du salarié.

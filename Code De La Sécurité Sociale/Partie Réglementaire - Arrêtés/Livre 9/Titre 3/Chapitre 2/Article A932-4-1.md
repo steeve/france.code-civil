@@ -43,13 +43,23 @@ correspondant à la réversion, calculés comme il est dit ci-dessus.
 Les calculs sont effectués selon les modalités prévues au paragraphe IV
 ci-après.
 
-IV. - Les calculs de la provision mathématique théorique mentionnée à l'article
-R. 932-4-15, des équivalences actuarielles prévues à l'article R. 932-4-14 et de
-la répartition des droits prévue au second alinéa de l'article R. 932-4-20 sont
-effectués à l'aide d'un taux d'intérêt au plus égal à 60 % du taux moyen des
-emprunts de l'Etat français, calculé sur une base semestrielle, sans pouvoir
-excéder 3,5 % et en utilisant une des tables de mortalité prévues au 2° du
-premier alinéa de l'article A. 931-10-10.
+IV. - Les calculs de la provision mathématique théorique, mentionnée à l'article
+R. 932-4-15, des équivalences actuarielles prévues à l'article R. 932-4-14 et la
+répartition des droits prévue à l'article R. 932-4-20 sont effectués en
+utilisant l'une des tables de mortalité prospectives prévues au 2° du premier
+alinéa de l'article A. 931-10-10 et à l'aide d'un taux au plus égal au plus
+élevé des deux taux suivants :
+
+a) Un taux obtenu par composition de taux d'intérêt égaux pour les huit
+premières années à 75 % du taux moyen au cours des deux derniers exercices des
+emprunts de l'Etat dans la devise duquel sont libellés les engagements relatifs
+au règlement, et à 60 % de ce même taux, dans la limite de 3,5 %, pour les
+exercices suivants ;
+
+b) Un taux de 1,5 %, si ce taux est inférieur à la valeur moyenne, au cours des
+deux derniers exercices, du taux de rendement réel des actifs représentant la
+provision technique mentionnée à l'article R. 932-4-4, ou, dans le cas
+contraire, la valeur moyenne ainsi déterminée.
 
 La provision mathématique théorique ne peut être inférieure à celle qui
 résulterait de l'utilisation des tables prévues au premier tiret du 2° du
