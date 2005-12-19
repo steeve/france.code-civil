@@ -6,5 +6,5 @@ l'importation ou la distribution en France de dispositifs médicaux à usage
 individuel, de tissus et cellules issus du corps humain quel qu'en soit le degré
 de transformation et de leurs dérivés, de produits de santé autres que les
 médicaments mentionnés à l'article L. 162-17 ou de prestations de services et
-d'adaptation associées inscrits au titre Ier de la liste prévue à l'article L.
-165-1.
+d'adaptation associées inscrits aux titres Ier et III de la liste prévue à
+l'article L. 165-1.

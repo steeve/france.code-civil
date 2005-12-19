@@ -6,7 +6,11 @@ sommes versées aux travailleurs en contrepartie ou à l'occasion du travail,
 notamment les salaires ou gains, les indemnités de congés payés, le montant des
 retenues pour cotisations ouvrières, les indemnités, primes, gratifications et
 tous autres avantages en argent, les avantages en nature, ainsi que les sommes
-perçues directement ou par l'entremise d'un tiers à titre de pourboire.
+perçues directement ou par l'entremise d'un tiers à titre de pourboire. La
+compensation salariale d'une perte de rémunération induite par une mesure de
+réduction du temps de travail est également considérée comme une rémunération,
+qu'elle prenne la forme, notamment, d'un complément différentiel de salaire ou
+d'une hausse du taux de salaire horaire.
 
 Lorsque le bénéficiaire d'une option accordée dans les conditions prévues aux
 articles L. 225-177 à L. 225-186 du code de commerce ne remplit pas les
@@ -27,11 +31,15 @@ Ne seront pas comprises dans la rémunération les prestations de sécurité soc
 versées par l'entremise de l'employeur.
 
 Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
-contributions des employeurs destinées au financement des régimes de retraite
-complémentaire mentionnés au chapitre Ier du titre II du livre IX, ainsi que
-celles versées en couverture d'engagements de retraite complémentaire souscrits
-antérieurement à l'adhésion des employeurs aux institutions mettant en oeuvre
-les régimes institués en application de l'article L. 921-4.
+contributions mises à la charge des employeurs en application d'une disposition
+législative ou réglementaire ou d'un accord national interprofessionnel
+mentionné à l'article L. 921-4, destinées au financement des régimes de retraite
+complémentaire mentionnés au chapitre Ier du titre II du livre IX ou versées en
+couverture d'engagements de retraite complémentaire souscrits antérieurement à
+l'adhésion des employeurs aux institutions mettant en oeuvre les régimes
+institués en application de l'article L. 921-4 et dues au titre de la part
+patronale en application des textes régissant ces couvertures d'engagements de
+retraite complémentaire.
 
 Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
 contributions des employeurs destinées au financement des prestations
@@ -85,8 +93,12 @@ des articles L. 225-197-1 à L. 225-197-3 du code de commerce sont exclues de
 l'assiette des cotisations mentionnées au premier alinéa si sont respectées les
 conditions d'attribution fixées par le conseil d'administration ou, le cas
 échéant, le directoire, en application des dispositions du sixième alinéa de
-l'article L. 225-197-1 du même code. A défaut, l'employeur est tenu au paiement
-de la totalité des cotisations sociales, y compris pour leur part salariale.
+l'article L. 225-197-1 du même code et si l'employeur notifie à son organisme de
+recouvrement l'identité de ses salariés ou mandataires sociaux auxquels des
+actions gratuites ont été attribuées définitivement au cours de l'année civile
+précédente, ainsi que le nombre et la valeur des actions attribuées à chacun
+d'entre eux. A défaut, l'employeur est tenu au paiement de la totalité des
+cotisations sociales, y compris pour leur part salariale.
 
 Les dispositions de l'avant-dernier alinéa sont également applicables lorsque
 l'attribution est effectuée, dans les mêmes conditions, par une société dont le

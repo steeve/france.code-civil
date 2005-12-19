@@ -3,21 +3,16 @@ Article L135-2
 Les dépenses prises en charge par le Fonds de solidarité vieillesse au titre du
 premier alinéa de l'article L. 135-1 sont les suivantes :
 
-1° Le financement des allocations aux personnes âgées mentionnées :
+1° Le financement des allocations mentionnées :
 
-a) Au titre Ier du livre VIII, à l'exclusion de celle qui est versée au titre de
-l'article L. 815-3 ;
+- au dernier alinéa de l'article L. 643-1 ;
 
-b) A l'article 14 de la loi de finances rectificative pour 1963 (n° 63-628 du 2
-juillet 1963) portant maintien de la stabilité économique et financière ;
+- au chapitre V du titre Ier du livre VIII ;
 
-c) Au 1° de l'article 1110 du code rural ;
+- à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
+minimum vieillesse ;
 
-d) Au dernier alinéa de l'article L. 643-1 ;
-
-2° Les dépenses attachées au service de l'allocation spéciale visée aux articles
-L. 814-1 et L. 814-3 et supportées par les régimes d'assurance vieillesse de
-base ;
+2° (Paragraphe supprimé)
 
 3° Les sommes correspondant au service, par les régimes d'assurance vieillesse
 de base mentionnés au titre V du livre III, aux 1° et 2° de l'article L. 621-3

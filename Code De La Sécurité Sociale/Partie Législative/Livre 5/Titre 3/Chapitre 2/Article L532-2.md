@@ -36,3 +36,8 @@ exerce ou a exercée.
 IV. - Lorsque le bénéficiaire du complément de libre choix d'activité a un seul
 enfant à charge, le complément est cumulable, le mois d'ouverture du droit, avec
 les indemnités et allocations visées aux 1° à 3° du II.
+
+V. - Pendant le mois au cours duquel le versement des indemnités ou allocations
+mentionnées aux 1° à 3° du II prend fin, celles-ci sont cumulables avec le
+complément de libre choix d'activité à taux plein, lorsqu'il est fait usage de
+l'option mentionnée au deuxième alinéa du VI de l'article L. 531-4.

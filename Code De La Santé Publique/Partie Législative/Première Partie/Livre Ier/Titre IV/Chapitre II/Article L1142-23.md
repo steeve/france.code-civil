@@ -46,8 +46,4 @@ est fixé chaque année par la loi de financement de la sécurité sociale ;
 
 5° Une dotation versée par l'Etat en application de l'article L. 3111-9 ;
 
-6° Une dotation versée par l'Etat en vue d'assurer l'indemnisation des victimes
-de préjudices résultant de la contamination par le virus d'immunodéficience
-humaine en application des articles L. 3122-1 à L. 3122-5 ;
-
-7° Une dotation versée par le fonds mentionné à l'article L. 3110-5.
+6° Une dotation versée par le fonds mentionné à l'article L. 3110-5.

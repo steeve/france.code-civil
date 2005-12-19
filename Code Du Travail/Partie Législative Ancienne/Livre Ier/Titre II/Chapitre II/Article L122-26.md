@@ -37,10 +37,10 @@ l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
 Lorsque l'accouchement intervient plus de six semaines avant la date prévue et
 exige l'hospitalisation postnatale de l'enfant, la période de suspension du
 contrat de travail prévue aux alinéas précédents est prolongée du nombre de
-jours courant entre la date effective de la naissance et la date prévue, afin de
-permettre à la salariée de participer, chaque fois que possible, aux soins
-dispensés à son enfant et de bénéficier d'actions d'éducation à la santé
-préparant le retour à domicile.
+jours courant entre la date effective de la naissance et six semaines avant la
+date prévue, afin de permettre à la salariée de participer, chaque fois que
+possible, aux soins dispensés à son enfant et de bénéficier d'actions
+d'éducation à la santé préparant le retour à domicile.
 
 Tout salarié à qui un service départemental d'aide sociale à l'enfance, un
 organisme français autorisé pour l'adoption ou l'Agence française de l'adoption
@@ -61,10 +61,11 @@ peut être fractionnée en plus de deux périodes, dont la plus courte ne saurai
 être inférieure à onze jours. Ces deux périodes peuvent être simultanées.
 
 Les dispositions de l'alinéa précédent sont applicables à la personne salariée
-titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille
-et de l'aide sociale lorsqu'elle adopte ou accueille un enfant en vue de son
-adoption par décision de l'autorité étrangère compétente, à condition que
-l'enfant ait été autorisé, à ce titre, à entrer sur le territoire français.
+titulaire de l'agrément mentionné aux articles L. 225-2 à L. 225-7 et L. 225-18
+ou L. 225-15 du code de l'action sociale et des familles lorsqu'elle adopte ou
+accueille un enfant en vue de son adoption par décision de l'autorité étrangère
+compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer sur
+le territoire français.
 
 Le père ou la mère avertit l'employeur du motif de son absence et de la date à
 laquelle il ou elle entend mettre fin à la suspension de son contrat de travail.

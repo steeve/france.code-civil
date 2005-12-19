@@ -5,7 +5,8 @@ régionales de l'hospitalisation mentionnées à l'article L. 6115-2, ainsi qu'�
 l'Etat et aux organismes d'assurance maladie, les informations relatives à leurs
 moyens de fonctionnement et à leur activité qui sont nécessaires à l'élaboration
 et à la révision de la carte sanitaire et du schéma d'organisation sanitaire, à
-la détermination de leurs ressources et à l'évaluation de la qualité des soins.
+la détermination de leurs ressources, à l'évaluation de la qualité des soins
+ainsi qu'au contrôle de leur activité et de leurs facturations.
 
 Les destinataires des informations mentionnées à l'alinéa précédent mettent en
 oeuvre, sous le contrôle de l'Etat au plan national et des agences au plan

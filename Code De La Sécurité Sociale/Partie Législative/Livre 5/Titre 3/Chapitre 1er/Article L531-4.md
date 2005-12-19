@@ -79,6 +79,21 @@ reprise d'activité du parent bénéficiaire alors qu'il a un enfant à charge
 remplissant des conditions d'âge. Cette option, définitive, est ouverte au
 parent qui assume la charge d'un nombre déterminé d'enfants.
 
+Par exception au 1 du I et dans des conditions définies par décret, le
+complément de libre choix d'activité à taux plein peut être attribué, à un
+montant majoré et pendant une durée déterminée, à la personne qui choisit de ne
+pas exercer d'activité professionnelle pendant cette même durée. Dans ce cas,
+l'activité professionnelle antérieure minimale prévue au III doit avoir été
+exercée au cours d'une période de référence fixée par décret. Cette option,
+définitive, est ouverte au parent qui assume la charge d'un nombre déterminé
+d'enfants. La période de droit ouverte par cette option peut être partagée entre
+les deux parents.
+
+Par exception aux dispositions de l'article L. 552-1, le droit au complément de
+libre choix d'activité prévu à l'alinéa précédent est ouvert le mois de la
+naissance, de l'adoption ou de l'arrivée au foyer de l'enfant adopté ou confié
+en vue d'adoption.
+
 VII. - Le montant du complément de libre choix d'activité est majoré lorsque la
 personne y ouvrant droit ne bénéficie pas de l'allocation de base mentionnée au
 2° de l'article L. 531-1.

@@ -12,8 +12,7 @@ de santé mentionnées à l'article L. 162-14-1 et les centres de santé mention
 2° De prendre les décisions en matière d'actes et prestations prévus à l'article
 L. 162-1-7 ;
 
-3° De fixer la participation prévue en application des articles L. 322-2 et L.
-322-3 ;
+3° De fixer la participation prévue en application de l'article L. 322-2 ;
 
 4° D'assurer les relations des régimes obligatoires de base de l'assurance
 maladie avec l'Union nationale des organismes d'assurance maladie complémentaire

@@ -29,6 +29,13 @@ L. 162-29-1 dans lesquels sont admis des bénéficiaires de l'assurance maladie
 notamment au regard des règles définies en application des dispositions de
 l'article L. 162-1-7.
 
+III. bis. - Le service du contrôle médical procède auprès des établissements de
+santé visés à l'article L. 162-22-6, des pharmaciens et des distributeurs de
+produits ou prestations, dans le respect des règles déontologiques, aux
+contrôles nécessaires en matière de délivrance et de facturation de médicaments,
+produits ou prestations donnant lieu à remboursement par les caisses d'assurance
+maladie.
+
 IV. - Il procède également à l'analyse, sur le plan médical, de l'activité des
 professionnels de santé dispensant des soins aux bénéficiaires de l'assurance
 maladie, notamment au regard des règles définies par les conventions qui

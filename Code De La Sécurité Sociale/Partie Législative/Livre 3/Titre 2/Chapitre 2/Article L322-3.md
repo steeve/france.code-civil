@@ -1,7 +1,10 @@
 Article L322-3
 ----
 La participation de l'assuré mentionnée au premier alinéa de l'article L. 322-2
-peut être limitée ou supprimée dans les cas suivants :
+peut être limitée ou supprimée dans des conditions fixées par décret en Conseil
+d'Etat, pris après avis de l'Union nationale des caisses d'assurance maladie et
+de l'Union nationale des organismes d'assurance maladie complémentaire, dans les
+cas suivants :
 
 1°) lorsque, à l'occasion d'une hospitalisation ou au cours d'une période de
 temps déterminée, la dépense demeurant à la charge de l'intéressé dépasse un

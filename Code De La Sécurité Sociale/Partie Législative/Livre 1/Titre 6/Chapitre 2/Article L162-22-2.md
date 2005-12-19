@@ -6,14 +6,14 @@ les établissements de santé privés mentionnés aux d et e de l'article L.
 162-22-6. Cet objectif est constitué par le montant annuel des charges
 afférentes aux frais d'hospitalisation au titre des soins dispensés dans le
 cadre de ces activités au cours de l'année et supportées par les régimes
-obligatoires d'assurance maladie. Le contenu de cet objectif est défini par
-décret.
+obligatoires d'assurance maladie et tient compte notamment des créations et
+fermetures d'établissements. Le contenu de cet objectif est défini par décret.
 
 Le montant de l'objectif quantifié national est arrêté par l'Etat en fonction de
 l'objectif national de dépenses d'assurance maladie. Ce montant prend en compte,
 outre la part mentionnée à l'article L. 162-43, les évolutions de toute nature à
-l'issue desquelles des établissements de santé ou des services ou des activités
-de ces établissements se trouvent placés pour tout ou partie sous un régime
+la suite desquelles des établissements, des services ou des activités sanitaires
+ou médico-sociaux se trouvent placés pour tout ou partie sous un régime
 juridique ou de financement différent de celui sous lequel ils étaient placés
 auparavant, notamment celles relatives aux conversions d'activité.
 

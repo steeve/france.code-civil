@@ -18,4 +18,4 @@ Les prestations familiales comprennent :
 
 8°) l'allocation de parent isolé ;
 
-9°) l'allocation de présence parentale.
+9°) l'allocation journalière de présence parentale.

@@ -12,8 +12,8 @@ Le montant du crédit d'impôt varie selon le nombre et l'âge des personnes
 composant le foyer, au sens de l'article L. 861-1, couvertes par le ou les
 contrats.
 
-Il est égal à 150 Euros par personne âgée de vingt-cinq à cinquante-neuf ans, de
-75 Euros par personne âgée de moins de vingt-cinq ans et de 250 Euros par
+Il est égal à 200 Euros par personne âgée de vingt-cinq à cinquante-neuf ans, de
+100 Euros par personne âgée de moins de vingt-cinq ans et de 400 Euros par
 personne âgée de soixante ans et plus. L'âge est apprécié au 1er janvier de
 l'année.
 

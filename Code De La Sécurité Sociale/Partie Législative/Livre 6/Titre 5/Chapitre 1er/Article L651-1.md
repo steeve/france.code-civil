@@ -6,20 +6,23 @@ mentionné à l'article L. 135-1 et du Fonds de réserve pour les retraites
 mentionné à l'article L. 135-6, une contribution sociale de solidarité à la
 charge :
 
-1°) des sociétés anonymes et des sociétés par actions simplifiées ;
+1°) Des sociétés anonymes et des sociétés par actions simplifiées, quelles que
+soient, le cas échéant, la nature et la répartition de leur capital ;
 
-2°) des sociétés à responsabilité limitée ;
+2°) Des sociétés à responsabilité limitée ;
 
-3°) des sociétés en commandite ;
+3°) Des sociétés en commandite ;
 
-4°) des entreprises publiques et sociétés nationales, quelle qu'en soit la
-nature juridique, soumises aux dispositions des articles L. 442-1 à L. 442-17 du
-code du travail relatifs à la participation des salariés aux fruits de
-l'expansion des entreprises ou dont la moitié du capital social est détenu,
-ensemble ou séparément, par l'Etat, par une ou plusieurs entreprises publiques
-ou par une ou plusieurs sociétés nationales.
+4°) Des personnes morales de droit public, dans la mesure où elles sont
+assujetties à la taxe sur la valeur ajoutée en application des dispositions de
+l'article 256 B du code général des impôts ;
 
-5°) des personnes morales dont le siège est situé hors du territoire de la
+4° bis) Des groupements d'intérêt public assujettis à la taxe sur la valeur
+ajoutée en application de dispositions du chapitre Ier du titre II de la
+première partie du livre Ier du code général des impôts autres que celles de
+l'article 256 B ;
+
+5°) Des personnes morales dont le siège est situé hors du territoire de la
 France métropolitaine ou des départements d'outre-mer, à raison des affaires
 réalisées sur ce territoire et le rendant passibles de l'impôt sur les sociétés
 ;
@@ -32,7 +35,7 @@ réalisées sur ce territoire et le rendant passibles de l'impôt sur les socié
 réalisées sur le territoire de la France métropolitaine ou des départements
 d'outre-mer ;
 
-9° Des organismes suivants, non mentionnés aux 1° à 8° :
+9°) Des organismes suivants, non mentionnés aux 1° à 8° :
 
 établissements et entreprises exerçant l'activité définie à l'article L. 511-1
 du code monétaire et financier et relevant des chapitres Ier à VII ainsi que de

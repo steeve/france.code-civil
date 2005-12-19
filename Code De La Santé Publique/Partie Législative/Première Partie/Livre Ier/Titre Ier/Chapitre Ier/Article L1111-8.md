@@ -18,15 +18,14 @@ subordonnées à l'accord de la personne concernée.
 
 Les conditions d'agrément des hébergeurs sont fixées par décret en Conseil
 d'Etat pris après avis de la Commission nationale de l'informatique et des
-libertés et des conseils de l'ordre des professions de santé ainsi que du
-conseil des professions paramédicales. Ce décret mentionne les informations qui
-doivent être fournies à l'appui de la demande d'agrément, notamment les modèles
-de contrats prévus au deuxième alinéa et les dispositions prises pour garantir
-la sécurité des données traitées en application de l'article 34 de la loi n°
-78-17 du 6 janvier 1978 précitée, en particulier les mécanismes de contrôle et
-de sécurité dans le domaine informatique ainsi que les procédures de contrôle
-interne. Les dispositions de l'article L. 4113-6 s'appliquent aux contrats
-prévus à l'alinéa précédent.
+libertés et des conseils de l'ordre des professions de santé. Ce décret
+mentionne les informations qui doivent être fournies à l'appui de la demande
+d'agrément, notamment les modèles de contrats prévus au deuxième alinéa et les
+dispositions prises pour garantir la sécurité des données traitées en
+application de l'article 34 de la loi n° 78-17 du 6 janvier 1978 précitée, en
+particulier les mécanismes de contrôle et de sécurité dans le domaine
+informatique ainsi que les procédures de contrôle interne. Les dispositions de
+l'article L. 4113-6 s'appliquent aux contrats prévus à l'alinéa précédent.
 
 L'agrément peut être retiré, dans les conditions prévues par l'article 24 de la
 loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs

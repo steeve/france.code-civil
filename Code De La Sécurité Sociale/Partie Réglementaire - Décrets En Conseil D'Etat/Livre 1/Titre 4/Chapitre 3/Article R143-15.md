@@ -25,12 +25,10 @@ accident du travail ou à une maladie professionnelle ;
 c) Mentionnées au 3° de l'article L. 143-1 et relatives à l'état d'incapacité
 permanente de travail en cas d'accident du travail survenu ou de maladie
 professionnelle constatée, dans les départements du Haut-Rhin, du Bas-Rhin et de
-la Moselle,
+la Moselle, ainsi que des contestations prévues au premier alinéa de l'article
+L. 241-9 du code de l'action sociale et des familles pour les ressortissants du
+régime agricole ;
 
-ainsi que des contestations prévues au dernier alinéa du I de l'article L.
-323-11 du code du travail et à l'article L. 242-8 du code de l'action sociale et
-des familles pour les ressortissants du régime agricole ;
-
-4° Des contestations prévues au dernier alinéa du I de l'article L. 323-11 du
-code du travail et à l'article L. 242-8 du code de l'action sociale et des
-familles pour les ressortissants des régimes autres qu'agricoles.
+4° Des contestations prévues au premier alinéa de l'article L. 241-9 du code de
+l'action sociale et des familles pour les ressortissants des régimes autres
+qu'agricoles.

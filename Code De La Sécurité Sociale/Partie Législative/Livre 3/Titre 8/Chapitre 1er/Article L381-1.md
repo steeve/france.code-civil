@@ -26,6 +26,10 @@ est affiliée à l'assurance vieillesse du régime général de sécurité socia
 sous réserve que ses ressources ou celles du ménage soient inférieures à un
 plafond fixé par décret.
 
+La personne bénéficiaire de l'allocation journalière de présence parentale est
+affiliée à l'assurance vieillesse du régime général, sous réserve que ses
+ressources ou celles du ménage soient inférieures à un plafond fixé par décret.
+
 En outre, est affilié obligatoirement à l'assurance vieillesse du régime général
 de sécurité sociale, pour autant que ses ressources ou celles du ménage ne
 dépassent pas le plafond du complément familial et que cette affiliation ne soit

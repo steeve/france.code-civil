@@ -24,6 +24,6 @@ défini dans les conditions fixées par décret, dès lors qu'un des dispositifs
 tissus, cellules, produits ou prestations y est mentionné.
 
 Il est procédé sur l'assiette définie aux alinéas précédents à un abattement
-forfaitaire de 100 000 Euros.
+forfaitaire de 50 000 euros.
 
 Le taux de la contribution est fixé à 10 %.

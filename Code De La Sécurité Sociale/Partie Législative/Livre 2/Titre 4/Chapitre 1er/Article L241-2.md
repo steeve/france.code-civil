@@ -3,15 +3,15 @@ Article L241-2
 Les ressources des assurances maladie, maternité, invalidité et décès sont
 également constituées par des cotisations assises sur :
 
-1°) les avantages de retraite, soit qu'ils aient été financés en tout ou partie
+1°) Les avantages de retraite, soit qu'ils aient été financés en tout ou partie
 par une contribution de l'employeur, soit qu'ils aient donné lieu à rachat de
 cotisations ainsi que les avantages de retraite versés au titre des articles L.
 381-1 et L. 742-1 du présent code, à l'exclusion des bonifications ou
 majorations pour enfants autres que les annuités supplémentaires ;
 
-2°) les allocations et revenus de remplacement mentionnés à l'article L. 131-2 ;
+2°) Les allocations et revenus de remplacement mentionnés à l'article L. 131-2 ;
 
-3° Le produit de la contribution additionnelle à la contribution sociale de
+3°) Le produit de la contribution additionnelle à la contribution sociale de
 solidarité à la charge des sociétés, prévue par l'article L. 245-13.
 
 Des cotisations forfaitaires peuvent être fixées par arrêté ministériel pour
@@ -25,7 +25,7 @@ et revenus de remplacement mentionnés aux 1° et 2° du présent article.
 Les ressources des assurances maladie, maternité, invalidité et décès sont en
 outre constituées par :
 
-1° Une fraction égale à 32,50 % du droit de consommation prévu à l'article 575
+1° Une fraction égale à 32,46 % du droit de consommation prévu à l'article 575
 du code général des impôts ;
 
 2° Le remboursement par la Caisse nationale des allocations familiales des

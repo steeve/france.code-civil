@@ -14,7 +14,7 @@ Il en est de même en cas de facturation en vue du remboursement, par les
 organismes d'assurance maladie, d'un acte non effectué ou de prestations et
 produits non délivrés.
 
-L'action en recouvrement, qui se prescrit par deux ans à compter de la date de
+L'action en recouvrement, qui se prescrit par trois ans à compter de la date de
 paiement de la somme indue, s'ouvre par l'envoi au professionnel ou à
 l'établissement d'une notification de payer le montant réclamé ou de produire,
 le cas échéant, leurs observations.

@@ -24,9 +24,18 @@ physiques est utilisé pour les demandes, échanges et traitements nécessaires 
 la communication des informations mentionnées aux 1° à 4°, lorsqu'elles
 concernent des personnes physiques.
 
-Les agents des administrations fiscales peuvent également signaler aux
-directeurs régionaux de la sécurité sociale, aux directeurs régionaux des
-affaires sanitaires et sociales et aux directeurs régionaux et chefs des
-services départementaux du travail et de la protection sociale agricoles, les
-infractions qu'ils constatent en ce qui concerne l'application des lois et
-règlements relatifs au régime général ou au régime agricole de sécurité sociale.
+Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction
+des droits aux prestations de sécurité sociale de toute nature, ainsi que le
+paiement des cotisations et contributions, les organismes et services mentionnés
+au premier alinéa peuvent demander aux administrations fiscales de leur
+communiquer une liste des personnes qui ont déclaré soit n'avoir plus leur
+domicile en France, soit n'avoir perçu que des revenus du patrimoine ou de
+placement.
+
+Les agents des administrations fiscales signalent aux directeurs régionaux des
+affaires sanitaires et sociales et aux chefs des services régionaux de
+l'inspection du travail, de l'emploi et de la politique sociale agricoles, ainsi
+qu'aux organismes de protection sociale les faits susceptibles de constituer des
+infractions qu'ils relèvent en ce qui concerne l'application des lois et
+règlements relatifs au régime général, au régime des travailleurs indépendants
+non agricoles, aux régimes spéciaux ou au régime agricole de sécurité sociale.

@@ -24,4 +24,17 @@ de soins et équipements lourds pour lesquels une autorisation a été délivré
 en définissent les conditions de mise en oeuvre, au plus tard trois mois après
 la délivrance de cette autorisation. A défaut de signature du contrat ou de
 l'avenant dans ce délai, l'agence régionale de l'hospitalisation inscrit ces
-objectifs quantifiés dans l'autorisation mentionnée à l'article L. 6122-1.
+objectifs quantifiés ainsi que les pénalités applicables en cas de non-respect
+de ces objectifs dans l'autorisation mentionnée à l'article L. 6122-1.
+
+Lors du renouvellement du contrat pluriannuel d'objectifs et de moyens prévu à
+l'article L. 6114-1, les objectifs quantifiés mentionnés à l'alinéa précédent
+sont révisés.
+
+Lors du renouvellement de l'autorisation prévu à l'article L. 6122-10, ou
+lorsque l'autorisation a fait l'objet de la révision prévue à l'article L.
+6121-2 ou à l'article L. 6122-12, les objectifs quantifiés fixés par le contrat
+pluriannuel d'objectifs et de moyens, relatifs à l'activité de soins ou
+l'équipement matériel lourd faisant l'objet de l'autorisation, sont révisés dans
+les trois mois suivant le renouvellement ou la décision de révision de
+l'autorisation.

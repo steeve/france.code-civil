@@ -5,7 +5,10 @@ alinéa de l'article L. 322-4 ou de l'article L. 321-4-2 du code du travail ou
 l'un des revenus de remplacement mentionnés à l'article L. 351-2 du même code
 conserve la qualité d'assuré et bénéficie du maintien de ses droits aux
 prestations du régime obligatoire d'assurance maladie, maternité, invalidité et
-décès dont elle relevait antérieurement.
+décès dont elle relevait antérieurement. Elle continue à en bénéficier, en cas
+de reprise d'une activité insuffisante pour justifier des conditions d'ouverture
+du droit à prestation fixées à l'article L. 313-1, pendant une durée déterminée
+par décret en Conseil d'Etat.
 
 A défaut, elle bénéficie, pour elle-même et ses ayants droit, des prestations en
 nature des assurances maladie et maternité du régime général.
