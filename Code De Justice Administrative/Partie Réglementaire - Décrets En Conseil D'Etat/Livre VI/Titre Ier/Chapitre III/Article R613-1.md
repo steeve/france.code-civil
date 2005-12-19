@@ -8,6 +8,6 @@ Les lettres remises contre signature portant notification de cette ordonnance ou
 tous autres dispositifs permettant d'attester la date de réception de ladite
 ordonnance sont envoyés à toutes les parties en cause quinze jours au moins
 avant la date de la clôture fixée par l'ordonnance. Devant les tribunaux
-administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie,
-le délai de notification est porté à un mois et l'ordonnance peut être notifiée
-par voie administrative.
+administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de
+Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance
+peut être notifiée par voie administrative.

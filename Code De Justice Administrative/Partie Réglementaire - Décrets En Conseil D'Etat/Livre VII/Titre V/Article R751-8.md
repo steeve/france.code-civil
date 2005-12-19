@@ -12,8 +12,9 @@ lorsqu'elle émane d'un tribunal administratif statuant dans l'une des matières
 mentionnées à l'article R. 811-10-1, la notification est adressée au préfet.
 Copie de la décision est alors adressée au ministre intéressé.
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie,
-l'expédition est adressée dans tous les cas au haut-commissaire.
+Devant les tribunaux administratifs de la Polynésie française et de
+Nouvelle-Calédonie, l'expédition est adressée dans tous les cas au
+haut-commissaire.
 
 Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au
 représentant du gouvernement.

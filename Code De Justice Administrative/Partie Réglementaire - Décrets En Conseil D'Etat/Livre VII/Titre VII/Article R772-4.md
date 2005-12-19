@@ -1,6 +1,6 @@
 Article R772-4
 ----
-Devant les tribunaux administratifs de Papeete, de Mata-Utu et de
+Devant les tribunaux administratifs de la Polynésie française, de Mata-Utu et de
 Nouvelle-Calédonie, les requêtes en matière fiscale dont le contentieux
 ressortit à la juridiction administrative sont, sous réserve des articles 100 à
 104 ter du décret du 5 août 1881 modifié et des articles 172 et 173 du décret du

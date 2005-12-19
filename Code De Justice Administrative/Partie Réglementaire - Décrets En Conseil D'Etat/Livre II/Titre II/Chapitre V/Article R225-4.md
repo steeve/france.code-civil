@@ -11,8 +11,8 @@ ou
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, ne et ne sous-sections réunies) ",
+" Le Conseil d'Etat (section du contentieux, no et no sous-sections réunies) ",
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, ne sous-section) ".
+" Le Conseil d'Etat (section du contentieux, no sous-section) ".
