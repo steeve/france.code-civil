@@ -1,6 +1,6 @@
 Article A310-3
 ----
-I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute
+- I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute
 entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre
 prestation de services doit fournir, en double exemplaire, à l'Autorité de
 contrôle des assurances et des mutuelles les documents et informations suivants
