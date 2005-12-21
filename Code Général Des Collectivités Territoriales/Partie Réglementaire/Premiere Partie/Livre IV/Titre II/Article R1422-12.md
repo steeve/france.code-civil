@@ -7,11 +7,8 @@ l'identification du document, une description détaillée de son état avec
 photographies, le devis descriptif et estimatif détaillé de la restauration
 envisagée, les références du restaurateur.
 
-Le préfet de région dispose d'un délai de trois mois pour faire connaître un
-avis après consultation du Conseil national scientifique du patrimoine des
-bibliothèques publiques composé, dans les conditions fixées par arrêté du
-ministre chargé de la culture, de représentants de l'Etat et du personnel
-scientifique des bibliothèques ainsi que de personnalités qualifiées.
+Le préfet de région dispose d'un délai de trois mois pour faire connaître son
+avis.
 
 Cet avis est communiqué au maire de la commune intéressée. Les travaux ne
 peuvent commencer avant la transmission de cet avis ou l'expiration de ce délai.
