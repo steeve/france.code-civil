@@ -19,5 +19,4 @@ conventionnels.
 Aucun prélèvement ne peut être réalisé sur une personne si des critères
 cliniques ou des antécédents révèlent un risque potentiel de transmission par
 celle-ci de la maladie de Creutzfeldt-Jakob ou d'autres encéphalopathies
-subaiguës spongiformes transmissibles. Un arrêté du ministre chargé de la santé
-peut préciser ces critères ou antécédents.
+subaiguës spongiformes transmissibles.
