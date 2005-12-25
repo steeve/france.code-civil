@@ -13,8 +13,8 @@ prévus au II de l'article 94. La restitution est opérée au profit de cet
 du plan.
 
 En cas de restitution d'avoirs fiscaux ou crédits d'impôt après la clôture du
-plan, la valeur liquidative du plan mentionnée au 2 du II de l'article 150-0 A
-du code général des impôts comprend ces sommes.
+plan, la valeur liquidative du plan mentionnée aux 2 et 2 bis du II de l'article
+150-0 A du code général des impôts comprend ces sommes.
 
 Le transfert d'un plan entre organismes gestionnaires ne fait pas perdre le
 droit à restitution de l'avoir fiscal et du crédit d'impôt. Lorsque la
