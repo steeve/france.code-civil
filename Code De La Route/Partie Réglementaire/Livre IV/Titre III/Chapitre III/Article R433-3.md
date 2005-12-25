@@ -11,13 +11,9 @@ exclusivement aux catégories de véhicules ou de marchandises suivantes :
 
 2° Bois en grume ;
 
-3° Machine, instrument et ensemble agricoles ;
+3° Matériel et engin de travaux publics ;
 
-4° Matériel et engin de travaux publics ;
-
-5° Ensemble forain ;
-
-6° Conteneur.
+4° Conteneur.
 
 II. - Le cas échéant, pour les besoins de l'exploitation, ce déplacement peut
 s'effectuer au-delà du département, mais seulement dans les départements

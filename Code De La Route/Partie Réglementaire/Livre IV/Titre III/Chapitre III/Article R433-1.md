@@ -2,18 +2,24 @@ Article R433-1
 ----
 I. - Le transport ou la circulation de marchandises, engins ou véhicules
 présentant un caractère exceptionnel en raison de leurs dimensions ou de leur
-masse, lesquelles ne respectent pas les limites réglementaires, doit faire
-l'objet d'une autorisation préalable. Ces dispositions s'appliquent aux
-catégories de véhicules suivantes :
+masse excédant les limites réglementaires, doit faire l'objet d'une autorisation
+préalable. Ces dispositions s'appliquent aux catégories de véhicules suivantes :
 
 1° Véhicule à moteur ou remorque transportant ou destiné au transport de charges
 indivisibles ;
 
-2° Véhicule ou matériel agricole ou de travaux publics ;
+2° Véhicule, matériel agricole ou forestier ou leur ensemble, machine agricole
+automotrice, machine ou instrument agricole remorqué dont les dimensions, y
+compris les outillages portés amovibles, dépassent une longueur de 25 mètres ou
+une largeur de 4,50 mètres ;
 
-3° Ensemble forain comprenant une seule remorque ;
+3° Véhicule à moteur ou remorque à usage forain ;
 
-4° Véhicule ou engin spécial.
+4° Ensemble forain dont la longueur est supérieure à 30 mètres ;
+
+5° Véhicule ou engin spécial ;
+
+6° Véhicule ou matériel de travaux publics.
 
 II. - Au sens du présent article on entend par charge indivisible une charge qui
 ne peut, aux fins de transport par route, être divisée en plusieurs chargements
