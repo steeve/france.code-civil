@@ -41,8 +41,7 @@ l'ensemble de ces personnels. En cas d'égalité des voix, le siège est attribu
 au candidat le plus âgé ;
 
 4° Les personnalités qualifiées sont nommées par le directeur de l'agence
-régionale de l'hospitalisation après avis du préfet du département dans lequel
-l'établissement a son siège.
+régionale de l'hospitalisation.
 
 Parmi ces personnalités :
 

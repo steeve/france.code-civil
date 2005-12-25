@@ -62,18 +62,19 @@ c) Quatre praticiens titulaires mentionnés aux articles R. 6152-1 et R. 6152-20
 
 Les représentants mentionnés aux 1° à 4° du présent article sont élus dans
 chaque discipline ou groupe de disciplines respectivement par l'ensemble des
-médecins, chirurgiens, biologistes ou anesthésistes mentionnés aux a et b de
-l'article 1er et à l'article 73 du décret n° 84-135 du 24 février 1984 précité
-et par les praticiens hospitaliers relevant des dispositions des sections 1 et 2
-du chapitre II du titre V du présent livre, à l'exception de ceux nommés à titre
-provisoire en application des articles R. 6152-16 et R. 6152-213 ;
+médecins, chirurgiens, biologistes ou anesthésistes mentionnés aux a et b du 1°
+de l'article 1er et à l'article 73 du décret n° 84-135 du 24 février 1984
+précité et par les praticiens hospitaliers relevant des dispositions des
+sections 1 et 2 du chapitre II du titre V du présent livre, à l'exception de
+ceux nommés à titre provisoire en application des articles R. 6152-16 et R.
+6152-213 ;
 
 5° Un pharmacien titulaire élu par l'ensemble des pharmaciens de l'établissement
 régis par le décret n° 72-361 du 20 avril 1972 relatif à la nomination et à
 l'avancement des pharmaciens résidents des établissements d'hospitalisation, de
 soins et de cure publics, les sections 1 et 2 du chapitre II du titre IV du
 présent livre, à l'exception de ceux nommés à titre provisoire en application
-des articles R. 6152-10 et R. 6152-218 ;
+des articles R. 6152-16 et R. 6152-213 ;
 
 6° Dans les centres hospitaliers universitaires ayant passé convention avec une
 unité de formation et de recherche en odontologie, deux odontologistes, dont :
@@ -103,15 +104,16 @@ odontologistes mentionnés au A de l'article 1er du décret n° 90-92 du 24 janv
 dentaire-odontologistes des services de consultations et de traitements
 dentaires et des odontologistes relevant des dispositions des sections 1 et 2 du
 chapitre II du titre V du présent livre, à l'exception de ceux nommés à titre
-provisoire en application respectivement des articles R. 6152-10 et R. 6152-218
+provisoire en application respectivement des articles R. 6152-16 et R. 6152-213
 ;
 
 7° Sept représentants des personnels temporaires ou non titulaires et des
 personnels contractuels :
 
 a) Trois représentants élus par et parmi les personnels temporaires ou non
-titulaires mentionnés aux 2° et 3° de l'article R. 6152-1 et au B de l'article
-1er du décret n° 90-92 du 24 janvier 1990 précité ;
+titulaires mentionnés aux 2° et 3° de l'article 1er du décret n° 84-135 du 24
+février 1984 et au B de l'article 1er du décret n° 90-92 du 24 janvier 1990
+précité ;
 
 b) Trois représentants élus par et parmi les assistants des hôpitaux mentionnés
 à l'article R. 6152-501 et les praticiens attachés mentionnés à l'article R.

@@ -1,6 +1,6 @@
 Article R6144-43
 ----
-La durée du mandat des représentants du personnel est fixée à trois ans. Ce
+La durée du mandat des représentants du personnel est fixée à quatre ans. Ce
 mandat est renouvelable.
 
 La durée du mandat peut être exceptionnellement réduite ou prorogée, dans un

@@ -2,11 +2,11 @@ Article R6111-3
 ----
 Le programme d'actions et le rapport d'activité sont soumis, dans les
 établissements publics de santé, à l'avis de la commission médicale
-d'établissement et de la commission du service de soins infirmiers, de
-réadaptation et médico-techniques dans les établissements de santé privés
-participant au service public hospitalier, à l'avis de la commission médicale
-d'établissement et, dans les autres établissements de santé privés, à l'avis de
-la conférence médicale.
+d'établissement et de la commission des soins infirmiers, de rééducation et
+médico-techniques, de réadaptation et médico-techniques dans les établissements
+de santé privés participant au service public hospitalier, à l'avis de la
+commission médicale d'établissement et, dans les autres établissements de santé
+privés, à l'avis de la conférence médicale.
 
 Le programme d'actions et le rapport d'activité, après délibération du conseil
 d'administration dans les établissements publics de santé ou de l'organe

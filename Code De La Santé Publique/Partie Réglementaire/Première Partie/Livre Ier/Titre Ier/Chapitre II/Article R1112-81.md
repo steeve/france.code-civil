@@ -22,9 +22,10 @@ plusieurs des membres suivants :
 1° Le président de la commission médicale d'établissement ou le représentant
 qu'il désigne parmi les médecins membres de cette commission ;
 
-2° Un représentant de la commission du service de soins infirmiers et son
-suppléant, désignés par le directeur du service de soins infirmiers parmi les
-membres mentionnés au b de l'article R. 714-62-2 ;
+2° Un représentant de la commission des soins infirmiers, de rééducation et
+médico-techniques et son suppléant, désignés par le directeur des soins
+infirmiers, de rééducation et médico-techniques parmi les membres mentionnés au
+b de l'article R. 714-62-2 ;
 
 3° Un représentant du personnel et son suppléant, choisis par les membres du
 comité technique d'établissement en son sein ;

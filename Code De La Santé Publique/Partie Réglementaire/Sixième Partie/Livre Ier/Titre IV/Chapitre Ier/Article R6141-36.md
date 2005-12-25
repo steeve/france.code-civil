@@ -27,8 +27,8 @@ questions relatives à la qualité et à la sécurité des soins sont examinées
 
 7° Le comité de sécurité transfusionnelle et d'hémovigilance ;
 
-8° La commission du service de soins infirmiers de rééducations et
-médico-techniques ;
+8° La commission des soins infirmiers, de rééducation et médico-techniques de
+rééducations et médico-techniques ;
 
 9° La commission des relations avec les usagers et de la qualité de la prise en
 charge ;

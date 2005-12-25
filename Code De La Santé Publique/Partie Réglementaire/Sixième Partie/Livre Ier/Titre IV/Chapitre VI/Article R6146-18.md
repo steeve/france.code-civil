@@ -1,10 +1,5 @@
 Article R6146-18
 ----
-La communication du dossier médical d'un patient admis dans une structure régie
-par la présente section est assurée, dans les conditions prévues aux articles R.
-1112-2 et R. 1112-3, par le praticien, admis à exercer à titre libéral dans
-cette structure, qui a constitué le dossier.
-
-Lorsque le praticien cesse d'exercer une activité dans cette structure, les
-dossiers médicaux qu'il a constitués sont conservés par le centre hospitalier ;
-il peut s'en procurer copie.
+Dans l'attente des dispositions réglementaires mentionnées à l'article L.
+6146-11, les services, unités fonctionnelles et autres structures restent régis
+par les articles R. 714-21-1 à R. 714-21-25, R. 714-24-1 et R. 714-24-2.

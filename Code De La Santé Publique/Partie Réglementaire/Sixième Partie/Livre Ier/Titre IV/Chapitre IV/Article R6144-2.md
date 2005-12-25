@@ -18,9 +18,9 @@ praticiens hospitaliers titulaires régis par les dispositions des sections 1 et
 représentants des pharmaciens régis par les dispositions du décret n° 72-361 du
 20 avril 1972 relatif à la nomination et à l'avancement des pharmaciens
 résidents des établissements d'hospitalisation, de soins et de cure publics élus
-par l'ensemble des praticiens hospitaliers et pharmaciens autres que ceux
+par l'ensemble des praticiens relevant de ces dispositions autres que ceux
 mentionnés au 1°, à l'exception de ceux qui ont été nommés en application des
-articles R. 6152-16 et R. 6152-222 ;
+articles R. 6152-16 et R. 6152-213 ;
 
 3° Cinq représentants au total des médecins, odontologistes et pharmaciens
 contractuels dont :
