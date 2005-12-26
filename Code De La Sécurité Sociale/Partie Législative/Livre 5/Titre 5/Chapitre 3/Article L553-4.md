@@ -49,7 +49,7 @@ ses loyers ou sa dette contractée en vue d'accéder à la propriété, le baill
 ou le prêteur demande que l'allocation lui soit versée ;
 
 4° L'allocataire est locataire d'un logement dont les revenus sont soumis aux
-dispositions du g ou du sixième alinéa du e du 1° du I de l'article 31 du code
+dispositions du g ou du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts ;
 
 5° L'allocataire est locataire d'un logement géré par un organisme sans but

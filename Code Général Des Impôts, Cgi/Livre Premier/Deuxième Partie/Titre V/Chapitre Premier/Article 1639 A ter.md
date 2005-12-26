@@ -29,37 +29,49 @@ soumis aux dispositions de l'article 1609 nonies C ne résultant pas d'une
 substitution ou d'une transformation de groupement préexistant.
 
 II. - Les dispositions du I ci-dessus sont applicables sur le territoire de la
-zone d'activités économiques des groupements faisant application des
-dispositions du II de l'article 1609 quinquies C.
+zone d'activités économiques des établissements publics de coopération
+intercommunale faisant application des dispositions du II de l'article 1609
+quinquies C. Elles sont également applicables aux installations de production
+d'électricité utilisant l'énergie mécanique du vent soumises au régime prévu par
+le II du même article.
 
-Ces groupements peuvent prendre, en matière de taxe professionnelle, des
-délibérations propres à la zone d'activités économiques.
+Ces établissements publics de coopération intercommunale peuvent prendre, en
+matière de taxe professionnelle, des délibérations propres à la zone d'activités
+économiques et aux installations de production d'électricité utilisant l'énergie
+mécanique du vent.
 
 Les établissements publics de coopération intercommunal faisant application du
-régime prévu au II de l'article 1609 quinquies C qui optent pour le régime prévu
-à l'article 1609 nonies C ou deviennent soumis à ce régime doivent, dans le cas
-où des délibérations différentes étaient appliquées hors de la zone d'activités
-économiques et dans la zone d'activités économiques, antérieurement à la
-décision les plaçant sous le régime de l'article 1609 nonies C, prendre une
-délibération précisant les délibérations applicables sur l'ensemble de leur
-territoire. Cette délibération doit retenir le régime appliqué soit dans la zone
-d'activités économiques, soit hors de la zone d'activités économiques. Elle doit
-être prise lors de la décision de l'établissement public de coopération
-intercommunale le plaçant sous le régime de l'article 1609 nonies C ; à défaut,
-les délibérations en vigueur hors de la zone d'activités sont applicables.
+régime prévu à la première phrase du premier alinéa du II de l'article 1609
+quinquies C qui optent pour le régime prévu à l'article 1609 nonies C ou
+deviennent soumis à ce régime doivent, dans le cas où des délibérations
+différentes étaient appliquées hors de la zone d'activités économiques et dans
+la zone d'activités économiques, antérieurement à la décision les plaçant sous
+le régime de l'article 1609 nonies C, prendre une délibération précisant les
+délibérations applicables sur l'ensemble de leur territoire. Cette délibération
+doit retenir le régime appliqué soit dans la zone d'activités économiques, soit
+hors de la zone d'activités économiques. Elle doit être prise lors de la
+décision de l'établissement public de coopération intercommunale le plaçant sous
+le régime de l'article 1609 nonies C ; à défaut, les délibérations en vigueur
+hors de la zone d'activités sont applicables. Ce dispositif est applicable dans
+les mêmes conditions lorsque l'établissement public de coopération
+intercommunale faisant application de la deuxième phrase du premier alinéa du II
+de l'article 1609 quinquies C opte pour le régime prévu à l'article 1609 nonies
+C ou devient soumis à ce régime.
 
 III. - Les exonérations applicables antérieurement à la création d'un
 établissement public de coopération intercommunale soumis aux dispositions
-fiscales prévues à l'article 1609 nonies C ou d'une zone d'activités économiques
-en exécution des délibérations des conseils des communes membres ou du
-groupement préexistant sont maintenues, pour la quotité et la durée initialement
-prévues, en proportion du taux d'imposition de la commune et du taux
-d'imposition du groupement l'année précédant l'application de l'article 1609
-nonies C ou du II de l'article 1609 quinquies C.
+fiscales prévues à l'article 1609 nonies C en exécution des délibérations des
+conseils des communes membres ou du groupement préexistant sont maintenues, pour
+la quotité et la durée initialement prévues, en proportion du taux d'imposition
+de la commune et du taux d'imposition du groupement l'année précédant
+l'application de l'article 1609 nonies C. Ces dispositions sont applicables aux
+établissements publics de coopération intercommunale faisant application du II
+de l'article 1609 quinquies C.
 
 Lorsqu'un établissement public de coopération intercommunale, faisant
-application du régime prévu au II de l'article 1609 quinquies C, opte pour le
-régime prévu à l'article 1609 nonies C ou devient soumis à ce régime :
+application du régime prévu à la première phrase du premier alinéa du II de
+l'article 1609 quinquies C, opte pour le régime prévu à l'article 1609 nonies C
+ou devient soumis à ce régime :
 
 a. les exonérations applicables antérieurement à la modification on du régime
 hors de la zone d'activités économiques en exécution des délibérations des
@@ -71,6 +83,11 @@ la zone d'activités économiques sont maintenues pour la quotité et la durée
 initialement prévues. Les dispositions du premier alinéa sont maintenues
 lorsqu'elles étaient appliquées antérieurement à la modification du régime
 fiscal de l'établissement public de coopération intercommunale.
+
+Les dispositions des deuxième, troisième et quatrième alinéas sont applicables
+dans les mêmes conditions lorsque l'établissement public de coopération
+intercommunale fait application de la deuxième phrase du premier alinéa du II de
+l'article 1609 quinquies C.
 
 IV. - 1. Sous réserve des dispositions de l'article 1466, l'établissement public
 de coopération intercommunale issu de la fusion, réalisée dans les conditions

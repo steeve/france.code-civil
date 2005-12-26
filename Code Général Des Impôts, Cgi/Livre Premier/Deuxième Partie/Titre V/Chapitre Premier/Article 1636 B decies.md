@@ -6,6 +6,15 @@ coopération intercommunale soumis aux dispositions de l'article 1609 nonies C
 votent les taux des taxes foncières et de la taxe d'habitation, conformément aux
 dispositions applicables aux communes.
 
+Toutefois, pour les communes membres d'un établissement public de coopération
+intercommunale à fiscalité additionnelle qui devient soumis aux dispositions de
+l'article 1609 nonies C, et pour la première année d'application de ces
+dispositions, le dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas
+applicable lorsque le taux de taxe foncière sur les propriétés non bâties voté
+l'année précédente par la commune est inférieur de plus d'un tiers au taux moyen
+constaté la même année au niveau national dans l'ensemble des collectivités de
+même nature.
+
 II. - La communauté ou le syndicat d'agglomération nouvelle visés à l'article
 1609 nonies B ou les établissements publics de coopération intercommunale visés
 soit au I de l'article 1609 nonies C, soit au II de l'article 1609 quinquies C

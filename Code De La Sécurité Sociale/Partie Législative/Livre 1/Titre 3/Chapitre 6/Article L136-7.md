@@ -5,7 +5,7 @@ l'article 125 A du code général des impôts sont assujettis à une contributio
 l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du
 II et sauf s'ils sont versés aux personnes visées au III du même article.
 
-Les plus-values mentionnées aux articles 150 U à 150 UB du code général des
+Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
 impôts sont également assujetties à cette contribution.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au
@@ -14,12 +14,30 @@ cas échéant, constatée à compter de cette même date en ce qui concerne les
 placements visés du 3° au 9° ;
 
 1° Les intérêts et primes d'épargne des comptes d'épargne logement visés à
-l'article L. 315-1 du code de la construction et de l'habitation, respectivement
-lors de leur inscription en compte et de leur versement ;
+l'article L. 315-1 du code de la construction et de l'habitation, à l'exception
+des plans d'épargne-logement, respectivement lors de leur inscription en compte
+et de leur versement ;
 
-2° Les intérêts et primes d'épargne des plans d'épargne logement visés à
-l'article R. 315-24 du code de la construction et de l'habitation lors du
-dénouement du contrat ;
+2° Les intérêts des plans d'épargne-logement, exonérés d'impôt sur le revenu en
+application du 9° bis de l'article 157 du code général des impôts :
+
+a) Au 1er janvier 2006, pour les plans de plus de dix ans à cette date et pour
+ceux ouverts avant le 1er avril 1992 dont le terme est échu avant le 1er janvier
+2006 ;
+
+b) A la date du dixième anniversaire du plan ou, pour les plans ouverts avant le
+1er avril 1992, à leur date d'échéance ;
+
+c) Lors du dénouement du plan, s'il intervient antérieurement au dixième
+anniversaire ou antérieurement à leur date d'échéance pour les plans ouverts
+avant le 1er avril 1992 ;
+
+d) Lors de leur inscription en compte, pour les intérêts courus à compter du 1er
+janvier 2006 sur des plans de plus de dix ans ou sur des plans ouverts avant le
+1er avril 1992 dont le terme est échu ;
+
+2° bis Les primes d'épargne des plans d'épargne-logement lors de leur versement
+;
 
 3° Les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux
 placements de même nature mentionnés à l'article 125-0A du code général des
@@ -103,7 +121,10 @@ au titre des mois de décembre et janvier sur les revenus de placement visés au
 II du présent article fait l'objet d'un versement déterminé d'après les revenus
 des mêmes placements soumis l'année précédente à la contribution sociale
 généralisée au cours des mois de décembre et janvier et retenus à hauteur de 90
-p. 100 de leur montant.
+p. 100 de leur montant. Ces dispositions s'appliquent également à la
+contribution sociale généralisée prévue au I et due, au titre du mois de
+décembre, sur les intérêts des plans d'épargne-logement mentionnés au troisième
+alinéa du 1° du III bis de l'article 125 A du code général des impôts.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
 le taux de la contribution fixé à l'article L. 136-8. Son paiement doit

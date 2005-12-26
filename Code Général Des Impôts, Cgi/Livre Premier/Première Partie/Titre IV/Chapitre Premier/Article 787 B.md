@@ -69,6 +69,29 @@ attestation de la société dont les parts ou actions font l'objet de l'engageme
 collectif de conservation certifiant que les conditions prévues aux a et b ont
 été remplies jusqu'au jour de la transmission.
 
+f. En cas de non-respect de la condition prévue au c par suite de l'apport de
+titres d'une société ayant une activité industrielle, commerciale, artisanale,
+agricole ou libérale à une société dont l'objet unique est la gestion de son
+propre patrimoine constitué exclusivement d'une participation dans la société
+dont les parts ou actions ont été transmises, l'exonération partielle n'est pas
+remise en cause si les conditions suivantes sont réunies :
+
+1° La société bénéficiaire de l'apport est détenue en totalité par les personnes
+physiques bénéficiaires de l'exonération. Le donateur peut toutefois détenir une
+participation directe dans le capital social de cette société, sans que cette
+participation puisse être majoritaire. Elle est dirigée directement par une ou
+plusieurs des personnes physiques bénéficiaires de l'exonération. Les conditions
+tenant à la composition de l'actif de la société, à la détention de son capital
+et à sa direction doivent être respectées à l'issue de l'opération d'apport et
+jusqu'au terme de l'engagement mentionné au c ;
+
+2° La société bénéficiaire de l'apport prend l'engagement de conserver les
+titres apportés jusqu'au terme de l'engagement prévu au c ;
+
+3° Les héritiers, donataires ou légataires, associés de la société bénéficiaire
+des apports doivent conserver, pendant la durée mentionnée au 2°, les titres
+reçus en contrepartie de l'opération d'apport.
+
 A compter de la transmission et jusqu'à l'expiration de l'engagement collectif
 de conservation visé au a, la société doit en outre adresser, dans les trois
 mois qui suivent le 31 décembre de chaque année, une attestation certifiant que

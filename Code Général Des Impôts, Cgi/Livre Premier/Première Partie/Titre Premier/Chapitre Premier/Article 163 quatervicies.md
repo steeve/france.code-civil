@@ -31,13 +31,18 @@ d'y adhérer, de transférer ses droits vers un plan d'épargne retraite populai
 défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ou vers un
 autre contrat respectant les règles fixées au b ;
 
-c) au régime de retraite complémentaire institué par la Caisse nationale de
-prévoyance de la fonction publique et aux autres régimes de retraite
-complémentaire constitués au profit des fonctionnaires et agents de l'Etat, des
-collectivités locales et des établissements publics soit auprès d'organismes
-relevant du code de la mutualité, soit auprès d'entreprises régies par le code
-des assurances et auxquels les dispositions du 1° bis de l'article 83, en
-vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date.
+c) Au régime de retraite complémentaire institué par la Caisse nationale de
+prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite
+complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur
+jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au
+profit des fonctionnaires et agents de l'Etat, des collectivités territoriales
+et des établissements publics soit auprès d'organismes relevant du code de la
+mutualité, soit auprès d'entreprises régies par le code des assurances, ou
+institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n°
+2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les
+directives 92/49/CEE et 92/96/CEE du Conseil, des 18 juin et 10 novembre 1992,
+pour leurs opérations collectives visées à l'article L. 222-1 du code de la
+mutualité.
 
 2. - a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour
 chaque membre du foyer fiscal dans une limite annuelle égale à la différence
@@ -78,6 +83,10 @@ incluse ;
 3° deux années de cotisations au titre de chacune des années 2010 à 2012
 incluse.
 
+Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la
+qualité de fonctionnaire ou d'agent public, en activité, affiliées après le 31
+décembre 2004.
+
 II. - Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I
 s'entendent :
 
@@ -91,7 +100,7 @@ bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de
 l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92,
 pour leur montant imposable.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies ainsi
-que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du
-montant des revenus définis au premier alinéa. Il n'est pas tenu compte des
-plus-values et moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies ou au 9
+de l'article 93 ainsi que l'abattement prévu à l'article 73 B sont retenus pour
+l'appréciation du montant des revenus définis au premier alinéa. Il n'est pas
+tenu compte des plus-values et moins-values professionnelles à long terme.

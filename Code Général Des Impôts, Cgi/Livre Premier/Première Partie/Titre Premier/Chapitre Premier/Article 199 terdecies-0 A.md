@@ -108,7 +108,7 @@ montant à un moment quelconque au cours des cinq années précédant la
 souscription des parts du fonds ou l'apport des titres.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux
-effectués jusqu'au 31 décembre 2006. Les versements sont retenus dans les
+effectués jusqu'au 31 décembre 2010. Les versements sont retenus dans les
 limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou
 divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition
 commune.
@@ -126,7 +126,7 @@ commune.
 VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en
 numéraire de parts de fonds d'investissement de proximité mentionnés à l'article
 L. 214-41-1 du code monétaire et financier. Les versements ouvrant droit à la
-réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2006. Ils sont
+réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont
 retenus dans les limites annuelles de 12 000 Euros pour les contribuables
 célibataires, veufs ou divorcés et de 24 000 Euros pour les contribuables mariés
 soumis à imposition commune. Les réductions d'impôt prévues au VI et au VI bis

@@ -137,7 +137,11 @@ services accessoires qu'elles réalisent ;
 3° octies - Les fonds communs de créances pour les bénéfices réalisés dans le
 cadre de leur objet légal ;
 
-4° (abrogé).
+3° nonies - Les sociétés de placement à prépondérance immobilière à capital
+variable régies par les articles L. 214-89 et suivants du code monétaire et
+financier ;
+
+4° (abrogé) ;
 
 5° Les organismes de jardins familiaux définis à l'article L 561-2 du code
 rural, lorsque leur activité, considérée dans son ensemble, s'exerce dans des

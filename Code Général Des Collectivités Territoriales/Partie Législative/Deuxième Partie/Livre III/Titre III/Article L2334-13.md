@@ -21,20 +21,20 @@ total des attributions leur revenant au titre de la dotation globale de
 fonctionnement progresse au moins comme l'ensemble des ressources affectées à
 cette dotation.
 
-En 1995, Le montant des crédits respectivement attribués à la dotation de
+En 1995 Le montant des crédits respectivement attribués à la dotation de
 solidarité urbaine et de cohésion sociale et à la dotation de solidarité rurale
 est fixé par le comité des finances locales de telle sorte qu'aucune de ces deux
-dotations n'excède 55 p. 100 et ne soit inférieure à 45 p. 100 du solde
-mentionné au quatrième alinéa.
+dotations n'excède 55 p. 100 et ne soit inférieure à 45 % du solde mentionné au
+quatrième alinéa.
 
 Pour l'année 1996, le montant des crédits mis en répartition au titre de la
-dotation de solidarité urbaine et de cohésion sociale est égal à 57 p. 100 du
-solde mentionné au quatrième alinéa.
+dotation de solidarité urbaine et de cohésion sociale est égal à 57 % du solde
+mentionné au quatrième alinéa.
 
 A compter de 1997, l'augmentation annuelle de ce solde est répartie par le
 comité des finances locales entre la dotation de solidarité urbaine et de
 cohésion sociale et la dotation de solidarité rurale de manière à ce que chacune
-en reçoive 45 p. 100 au moins et 55 p. 100 au plus.
+en reçoive 45 % au moins et 55 % au plus.
 
 En 2002, le montant des crédits affectés à la dotation de solidarité rurale en
 application des dispositions précédentes est majoré de 1,5 million d'euros. En
@@ -48,3 +48,10 @@ est répartie par le comité des finances locales entre la dotation nationale de
 péréquation, la dotation de solidarité urbaine et de cohésion sociale et la
 dotation de solidarité rurale, ainsi qu'entre les différentes parts ou fractions
 de ces dotations, quand elles existent.
+
+La seconde fraction de la dotation de solidarité rurale prévue à l'article L.
+2334-22 est diminuée, en 2006, d'un montant de 10,5 millions d'euros. En 2007,
+l'augmentation du solde de la dotation d'aménagement répartie par le comité des
+finances locales en application de l'avant-dernier alinéa du présent article est
+calculée à partir du solde de la dotation d'aménagement effectivement réparti,
+compte tenu de cette minoration de 10,5 millions d'euros.

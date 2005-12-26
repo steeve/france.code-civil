@@ -37,45 +37,56 @@ I, dans la limite de 20 % de l'actif du fonds, les titres mentionnés au 3 de
 l'article L. 214-36, sous réserve que la société émettrice réponde aux
 conditions mentionnées au I, à l'exception de celle tenant à la non-cotation.
 
-I ter. - Sont pris en compte, pour le calcul du quota d'investissement mentionné
-au I, les titres de capital mentionnés au 3 de l'article L. 214-36 émis par des
-sociétés qui ont pour objet principal la détention de participations financières
-et qui répondent aux conditions du premier alinéa du I, à l'exception de la
-non-cotation.
+I ter. - Abrogé.
 
-Ces titres sont retenus dans le quota d'investissement de 60 % et pour le calcul
-de la limite de 20 % prévue au I bis à concurrence du pourcentage
-d'investissement direct de l'actif de la société émettrice dans des sociétés qui
-répondent aux conditions mentionnées au I et au I bis, selon des modalités
-fixées par décret en Conseil d'Etat. Toutefois, pour l'appréciation de la
-condition relative au capital de ces participations mentionnée au premier alinéa
-du I, il n'est pas tenu compte de la participation de la société mère mentionnée
-au premier alinéa.
+I quater. - Abrogé.
 
-I quater. - Sont également pris en compte pour le calcul du quota
-d'investissement mentionné au I les parts ou les titres de capital ou donnant
-accès au capital émis par des sociétés répondant aux conditions du premier
-alinéa du I :
+I quinquies. - 1. Sous réserve du respect de la limite de 20 % prévue au I bis,
+sont également éligibles au quota d'investissement mentionné au I les titres de
+capital mentionnés aux 1 et 3 de l'article L. 214-36 émis par les sociétés qui
+remplissent les conditions suivantes :
 
-- qui ont pour objet exclusif de détenir des participations dans des sociétés
-qui répondent aux conditions mentionnées au I. Toutefois, pour l'appréciation de
-la condition relative au capital de ces participations mentionnée au premier
-alinéa du I, il n'est pas tenu compte de la participation de la société mère
-mentionnée au premier alinéa, et la condition prévue au b du I peut également
-être appréciée par l'organisme mentionné à ce même b au niveau de la société
-mentionnée au premier alinéa dans des conditions fixées par décret ;
+a) La société répond aux conditions mentionnées au I. La condition prévue au b
+du I est appréciée par l'organisme mentionné à ce même b au niveau de la
+société, au regard de son activité et de celle de ses filiales mentionnées au c,
+dans des conditions fixées par décret ;
 
-- et dont les emprunts d'espèces sont inférieurs à 10 % de leur situation nette
-comptable.
+b) La société a pour objet social la détention de participations remplissant les
+conditions mentionnées au c et peut exercer une activité industrielle ou
+commerciale au sens de l'article 34 du code général des impôts ;
 
-Un décret en Conseil d'Etat précise les modalités de calcul de la condition
-relative à l'exclusivité de l'objet mentionné au deuxième alinéa.
+c) La société détient exclusivement des participations représentant au moins 75
+% du capital de sociétés :
+
+1° Dont les titres sont de la nature de ceux mentionnés aux 1 et 3 de l'article
+L. 214-36 ;
+
+2° Qui remplissent les conditions mentionnées au premier alinéa du I, à
+l'exception de celles tenant à l'effectif et au capital ;
+
+3° Et qui ont pour objet la conception ou la création de produits, de procédés
+ou de techniques répondant aux conditions du b du I ou l'exercice d'une activité
+industrielle ou commerciale au sens de l'article 34 du code général des impôts ;
+
+d) La société détient, au minimum, une participation dans une société mentionnée
+au c dont l'objet social est la conception ou la création de produits, de
+procédés ou de techniques répondant aux conditions du b du I.
+
+2. Un décret en Conseil d'Etat précise les modalités de calcul de la condition
+relative à l'effectif prévue au premier alinéa du I pour la société mentionnée
+au 1 et d'appréciation de la condition d'exclusivité de la détention des
+participations prévue au c de ce même 1.
 
 II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par
 un organisme chargé de soutenir l'innovation ou à raison de leurs dépenses
 cumulées de recherche, du caractère innovant de sociétés dont les titres
 figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient
 lors de la première souscription ou acquisition de ces titres par ce fonds.
+
+En cas de cession par une société mère mentionnée au premier alinéa du I
+quinquies de titres de filiales mentionnées au d de ce même I quinquies
+remettant en cause le seuil de détention de 75 %, les titres de cette société
+mère cessent d'être pris en compte dans le quota d'investissement de 60 %.
 
 III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre
 deux sociétés, ces liens sont réputés exister :

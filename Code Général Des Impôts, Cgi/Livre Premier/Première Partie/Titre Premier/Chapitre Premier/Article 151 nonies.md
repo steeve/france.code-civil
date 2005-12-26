@@ -40,13 +40,10 @@ Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent 
 l'administration un état faisant apparaître le montant des plus-values réalisées
 lors de la transmission et dont l'imposition est reportée conformément au 1.
 
-Le ou les bénéficiaires mentionnés au premier alinéa du présent 2 doivent
-joindre à la déclaration prévue à l'article 170 au titre de l'année en cours à
-la date de la transmission et des années suivantes un état faisant apparaître
-les renseignements nécessaires au suivi des plus-values dont l'imposition est
-reportée conformément au 1.
+3. Alinéa supprimé
 
-3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
+4. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue
+au 2.
 
 III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au
 paragraphe I ou de sa transformation en société passible de cet impôt,
@@ -65,3 +62,15 @@ activité professionnelle, l'imposition de la plus-value constatée sur les part
 dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat
 ou d'annulation de ces parts. Ce report est maintenu dans les conditions prévues
 au paragraphe III.
+
+V. - Les reports d'impositions mentionnés aux II, III et IV sont maintenus en
+cas d'échange de droits sociaux résultant d'une fusion ou d'une scission jusqu'à
+la date de cession, de rachat ou d'annulation des droits reçus lors de
+l'échange.
+
+VI. - Pour l'application des II à V, le ou les bénéficiaires du report
+d'imposition doivent joindre à la déclaration prévue à l'article 170 au titre de
+l'année au cours de laquelle les plus-values bénéficiant d'un report
+d'imposition sont réalisées et des années suivantes un état faisant apparaître
+les renseignements nécessaires au suivi des plus-values dont l'imposition est
+reportée. Un décret précise le contenu de cet état.

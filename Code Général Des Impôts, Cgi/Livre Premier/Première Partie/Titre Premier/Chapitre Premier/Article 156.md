@@ -34,12 +34,11 @@ déficits non déductibles pour ces motifs peuvent cependant être imputés sur 
 bénéfices tirés d'activités de même nature exercées dans les mêmes conditions,
 durant la même année ou les six années suivantes. Ces modalités d'imputation
 sont applicables aux déficits réalisés par des personnes autres que les loueurs
-professionnels au sens du sixième alinéa du V de l'article 151 septies, louant
-directement ou indirectement des locaux d'habitation meublés ou destinés à être
-meublés.
+professionnels au sens du VII de l'article 151 septies, louant directement ou
+indirectement des locaux d'habitation meublés ou destinés à être meublés.
 
 Toutefois, lorsque l'un des membres du foyer fiscal fait l'objet d'une procédure
-de liquidation judiciaire prévue par le titre II du livre VI du code de commerce
+de liquidation judiciaire prévue par le titre IV du livre VI du code de commerce
 à raison de l'activité génératrice des déficits mentionnés au premier alinéa,
 les dispositions du premier alinéa du I sont applicables au montant de ces
 déficits restant à reporter à la date d'ouverture de la procédure, à la
@@ -128,43 +127,8 @@ sociétés si les associés conservent les titres pendant six ans.
 Le revenu global de l'année au cours de laquelle l'engagement ou les conditions
 de la location ne sont pas respectés est majoré du montant des déficits indûment
 imputés. Ces déficits constituent une insuffisance de déclaration pour
-l'application de l'article 1733.
-
-L'imputation exclusive sur les revenus fonciers n'est pas applicable aux
-déficits résultant de dépenses autres que les intérêts d'emprunts effectuées sur
-des locaux d'habitation par leurs propriétaires en vue du réaménagement d'un ou
-plusieurs immeubles situés dans une zone franche urbaine telle que définie au B
-du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation
-pour l'aménagement et le développement du territoire. Les travaux doivent faire
-l'objet d'une convention approuvée par le représentant de l'Etat dans le
-département par laquelle le propriétaire de l'immeuble ou les propriétaires dans
-le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifiée
-fixant le statut de la copropriété des immeubles bâtis s'engagent à procéder à
-la réhabilitation complète des parties communes de l'immeuble bâti. Le ou les
-propriétaires doivent s'engager à louer les locaux nus à usage de résidence
-principale du locataire pendant une durée de six ans. La location doit prendre
-effet dans les douze mois qui suivent la date d'achèvement des travaux. Ce
-dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation
-sont la propriété d'une société non soumise à l'impôt sur les sociétés si les
-associés conservent les titres pendant six ans.
-
-En cas de non-respect, par le contribuable, de l'un de ses engagements, le
-revenu global de l'année au cours de laquelle la rupture intervient est majoré
-du montant des déficits qui ont fait l'objet d'une imputation au titre des
-dispositions du cinquième alinéa. Pour son imposition, la fraction du revenu
-résultant de cette majoration est divisée par le nombre d'années civiles au
-titre desquelles un déficit a été imputé sur le revenu global ; le résultat est
-ajouté au revenu global net de l'année de rupture de l'engagement et l'impôt
-correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue
-par le nombre d'années pris en compte pour déterminer le quotient. Cette
-majoration n'est pas appliquée lorsque le non-respect de l'engagement est dû à
-l'invalidité correspondant au classement dans la deuxième ou la troisième des
-catégories prévues à l'article L. 341-4 du code de la sécurité sociale, au
-licenciement ou au décès du contribuable ou de l'un des époux soumis à
-imposition commune.
-
-Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues aux cinquième et sixième alinéas sont fixées par décret.
+l'application de la dispense de l'intérêt de retard mentionnée au 4° du II de
+l'article 1727.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable
 aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt.

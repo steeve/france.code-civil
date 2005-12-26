@@ -48,8 +48,9 @@ transmises ;
 
 12° Les modalités particulières applicables aux recherches biomédicales dont le
 promoteur est un organisme public de recherche, une université, un établissement
-public de santé ou un établissement de santé privé participant au service public
-hospitalier ou un établissement public portant sur :
+public de santé, un établissement de santé privé participant au service public
+hospitalier, un établissement public ou toute autre personne physique ou morale
+ne poursuivant pas de but lucratif portant sur :
 
 - des médicaments bénéficiant de l'autorisation de mise sur le marché prévue à
 l'article L. 5121-8 ou de l'autorisation temporaire d'utilisation prévue au a de

@@ -6,12 +6,12 @@ pondéré par l'effort fiscal dans la limite de 1,3 et par un coefficient varian
 uniformément de 2 à 0,5 dans l'ordre croissant du rang de classement des
 communes éligibles.
 
-Pour la détermination de la dotation revenant aux communes éligibles de moins de
-200 000 habitants, s'appliquent au produit défini au premier alinéa deux
-coefficients multiplicateurs supplémentaires, l'un égal à un, augmenté du
-rapport entre le double de la population des zones urbaines sensibles et la
-population totale de la commune, et l'autre égal à un, augmenté du rapport entre
-la population des zones franches urbaines et la population totale de la commune.
+Pour la détermination de la dotation revenant aux communes éligibles,
+s'appliquent au produit défini au premier alinéa deux coefficients
+multiplicateurs supplémentaires, l'un égal à un, augmenté du rapport entre le
+double de la population des zones urbaines sensibles et la population totale de
+la commune, et l'autre égal à un, augmenté du rapport entre la population des
+zones franches urbaines et la population totale de la commune.
 
 L'accroissement de la dotation de chaque commune ne peut excéder 4 millions
 d'euros par an.

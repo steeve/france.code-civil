@@ -19,4 +19,9 @@ l'article 199 sexdecies du code général des impôts.
 Lorsque le particulier employeur bénéficie de l'allocation prévue au I de
 l'article L. 531-5 du code de la sécurité sociale, et par dérogation aux
 dispositions du présent article, l'emploi doit être déclaré selon les modalités
-prévues à l'article L. 531-8 du même code.
+prévues à l'article L. 531-8 du même code. Lorsque l'employeur bénéficie de
+l'une des allocations prévues aux articles L. 841-1 et L. 842-1 du code de la
+sécurité sociale, en vertu de la réglementation applicable avant le 1er janvier
+2004, l'emploi doit être déclaré selon les modalités prévues aux articles L.
+841-4, L. 842-4, D. 841-2 et D. 842-4 du code de la sécurité sociale, dans leur
+rédaction en vigueur avant cette même date.

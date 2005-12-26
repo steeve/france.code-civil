@@ -16,21 +16,23 @@ l'alinéa suivant.
 
 Le total des ressources du bénéficiaire de l'allocation équivalent retraite,
 dans la limite de plafonds fixés par décret en Conseil d'Etat, ne pourra être
-inférieur à 877 Euro. Les ressources prises en considération pour l'appréciation
-de ce montant ne comprennent pas les allocations d'assurance ou de solidarité,
-les rémunérations de stage ou les revenus d'activité du conjoint de l'intéressé,
-ou de son concubin ou de son partenaire lié à lui par un pacte civil de
-solidarité, tels qu'ils doivent être déclarés à l'administration fiscale pour le
-calcul de l'impôt sur le revenu.
+inférieur à 877 euros. Les ressources prises en considération pour
+l'appréciation de ce montant ne comprennent pas les allocations d'assurance ou
+de solidarité, les rémunérations de stage ou les revenus d'activité du conjoint
+de l'intéressé, ou de son concubin ou de son partenaire lié à lui par un pacte
+civil de solidarité, tels qu'ils doivent être déclarés à l'administration
+fiscale pour le calcul de l'impôt sur le revenu.
 
 Les bénéficiaires de l'allocation équivalent retraite bénéficient, à leur
 demande, de la dispense de recherche d'emploi prévue au deuxième alinéa de
 l'article L. 351-16.
 
-L'allocation équivalent retraite est à la charge du fonds mentionné à l'article
-L. 351-9. Son service est assuré dans les conditions prévues par une convention
-conclue entre l'Etat et les organismes gestionnaires des allocations de
-solidarité mentionnés à l'article L. 351-21.
+L'allocation équivalent retraite est à la charge du fonds de solidarité créé par
+l'article 1er de la loi n° 82-939 du 4 novembre 1982 relative à la contribution
+exceptionnelle de solidarité en faveur des travailleurs privés d'emploi. Son
+service est assuré dans les conditions prévues par une convention conclue entre
+l'Etat et les organismes gestionnaires des allocations de solidarité mentionnés
+à l'article L. 351-21.
 
 Un décret en Conseil d'Etat fixe les plafonds de ressources mentionnés au
 troisième alinéa et les conditions de ressources mentionnées au premier alinéa

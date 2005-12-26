@@ -8,4 +8,10 @@ A compter de 2006, pour le calcul du montant de la dotation globale de
 fonctionnement des départements, le montant de la dotation globale de
 fonctionnement de 2005 calculé dans les conditions ci-dessus est diminué du
 montant des réfactions sur la dotation de compensation effectuées en application
-du 3°.
+des deuxième à quatrième alinéas de l'article L. 3334-7-1.
+
+A compter de 2007, pour le calcul du montant de la dotation globale de
+fonctionnement des départements, le montant de la dotation globale de
+fonctionnement de 2006 calculé dans les conditions définies ci-dessus est
+augmenté du montant des majorations prévues aux sixième à neuvième alinéas de
+l'article L. 3334-7-1.

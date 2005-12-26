@@ -16,6 +16,10 @@ attestation sur l'honneur indiquant le montant des abattements déjà appliqués
 aux sommes, rentes ou valeurs quelconques reçues d'un ou plusieurs organismes
 d'assurance et assimilés à raison du décès du même assuré.
 
+Le bénéficiaire n'est pas assujetti au prélèvement visé au premier alinéa
+lorsqu'il est exonéré de droits de mutation à titre gratuit en application des
+dispositions de l'article 795.
+
 II. - Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable
 des impôts par les organismes d'assurance et assimilés ou leur représentant
 fiscal visé au III dans les quinze jours qui suivent la fin du mois au cours

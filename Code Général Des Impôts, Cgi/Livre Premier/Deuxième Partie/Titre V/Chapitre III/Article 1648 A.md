@@ -46,17 +46,23 @@ combustibles, toute unité de production ou de traitement est considérée comme
 Les dispositions du I sexies ne sont alors pas applicables.
 
 I ter. 1. Lorsque, dans un établissement public de coopération intercommunale
-ayant opté pour le régime fiscal prévu au II de l'article 1609 quinquies C, les
-bases d'imposition d'un établissement implanté dans la zone d'activités
-économiques, rapportées au nombre d'habitants de la commune sur le territoire de
-laquelle est situé l'établissement, excèdent deux fois la moyenne nationale des
-bases communales de taxe professionnelle par habitant, il est perçu directement
-un prélèvement de taxe professionnelle du groupement au profit du fonds
-départemental de péréquation de la taxe professionnelle.
+ayant opté pour le régime fiscal prévu à la première phrase du premier alinéa du
+II de l'article 1609 quinquies C, les bases d'imposition d'un établissement
+implanté dans la zone d'activités économiques, rapportées au nombre d'habitants
+de la commune sur le territoire de laquelle est situé l'établissement, excèdent
+deux fois la moyenne nationale des bases communales de taxe professionnelle par
+habitant, il est perçu directement un prélèvement de taxe professionnelle du
+groupement au profit du fonds départemental de péréquation de la taxe
+professionnelle.
 
 Ce prélèvement est égal au montant des bases excédentaires de l'établissement
 pondérées par le taux de taxe professionnelle perçue par le groupement sur la
 zone d'activités économiques.
+
+Les dispositions des premier et deuxième alinéas sont applicables dans les mêmes
+conditions lorsque l'établissement public de coopération intercommunale fait
+application de la deuxième phrase du premier alinéa du II de l'article 1609
+quinquies C.
 
 2 a. Lorsque, dans un établissement public de coopération intercommunale soumis
 de plein droit ou après option au régime fiscal prévu à l'article 1609 nonies C,

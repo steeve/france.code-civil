@@ -57,7 +57,9 @@ b) Autres huiles légères.
 
 essences d'aviation : indice 10, hectolitre, 32,36.
 
-supercarburant sans plomb : indice 11, hectolitre, 58,92.
+supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le
+supercarburant correspondant à l'indice d'identification n° 11 bis : indice 11,
+hectolitre, 60,69.
 
 supercarburant sans plomb contenant un additif spécifique améliorant les
 caractéristiques antirécession de soupape :
@@ -96,7 +98,7 @@ a) Gazole :
 
 sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 41,69.
+présentant un point d'éclair inférieur à 120 °C : indice 22, hectolitre, 42,84.
 
 autre : indice 23, hectolitre, exemption.
 
@@ -276,7 +278,32 @@ l'exclusion des produits repris au 38 11 21 00).
 3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux
 des positions 27 07 ou 29 02.
 
-2. - (abrogé).
+2. Une réfaction peut être effectuée sur les taux de taxe intérieure de
+consommation applicable au supercarburant repris à l'indice d'identification 11
+et au gazole repris à l'indice d'identification 22.
+
+Pour l'année 2006, le montant de cette réfaction est de 1,77 euro par hectolitre
+pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
+
+A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse
+peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe
+intérieure de consommation applicable aux carburants vendus aux consommateurs
+finals sur leur territoire dans la double limite de la fraction de tarif
+affectée à chaque région et à la collectivité territoriale de Corse en vertu du
+I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour
+2006 relatif à la compensation financière des transferts de compétences aux
+régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
+mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le
+gazole mentionné à l'indice d'identification 22.
+
+Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent
+intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui
+précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la
+direction générale des douanes et droits indirects, qui procède à la publication
+des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à
+la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés
+de la taxe intérieure de consommation entrent en vigueur le 1er janvier de
+l'année suivante.
 
 3. - Tout produit destiné à être utilisé, mis en vente ou utilisé comme
 carburant pour moteur ou comme additif ou en vue d'accroitre le volume final des
@@ -289,3 +316,20 @@ chauffage est soumis à la taxe intérieure de consommation au taux prévu pour 
 combustibles auxquels il se substitue. Cette disposition ne s'applique ni aux
 hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires,
 ni au gaz naturel.
+
+4. A compter du 1er janvier 2007, les personnes physiques ou morales qui
+vendent, en régime de droits acquittés, des carburants visés aux indices
+d'identification 11 et 22 dans des régions ou collectivités territoriales où le
+taux de la taxe intérieure de consommation diffère du taux appliqué lors de la
+mise à la consommation :
+
+a) Acquittent le montant différentiel de taxe si le taux supporté lors de la
+mise à la consommation est inférieur ;
+
+b) Peuvent demander le remboursement du différentiel de taxe dans le cas
+contraire.
+
+Pour le paiement du montant différentiel de taxe et des pénalités afférentes,
+l'administration des douanes et droits indirects peut demander une caution. Les
+obligations déclaratives des opérateurs concernés sont fixées par arrêté du
+ministre chargé du budget.

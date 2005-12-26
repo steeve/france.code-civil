@@ -97,7 +97,11 @@ Pour les établissements publics de coopération intercommunale issus de la
 transformation d'un syndicat ou d'une communauté d'agglomération nouvelle, le
 potentiel financier des communes qui étaient membres du syndicat ou de la
 communauté et qui font partie du nouvel établissement public de coopération
-intercommunale est calculé en 2005 conformément aux premier à douzième alinéas.
+intercommunale est calculé à compter de 2006 conformément aux premier à
+treizième alinéas. Pour le calcul du potentiel fiscal de ces communes, la part
+de la dotation de compensation répartie entre les communes membres en
+application du treizième alinéa est prise en compte à hauteur d'un seuil de 20 %
+en 2006. Ce seuil augmente de 20 points par an pour atteindre 100 % en 2010.
 
 Lorsque, à compter de l'année de promulgation de la loi n° 99-1126 du 28
 décembre 1999 modifiant le code général des collectivités territoriales et

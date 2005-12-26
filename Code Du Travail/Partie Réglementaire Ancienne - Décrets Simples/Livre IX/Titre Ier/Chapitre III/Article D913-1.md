@@ -24,7 +24,9 @@ représentatives au plan national ;
 d'organismes intéressés à la formation professionnelle ;
 
 6° Trois personnes qualifiées en matière de formation professionnelle nommées
-par arrêté du ministre chargé de la formation professionnelle.
+par arrêté du ministre chargé de la formation professionnelle ;
+
+7° Le président de la Commission nationale de la certification professionnelle.
 
 Des membres suppléants en nombre égal à celui des titulaires sont désignés dans
 les mêmes conditions. Ils peuvent assister aux réunions du conseil mais ne

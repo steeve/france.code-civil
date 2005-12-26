@@ -10,6 +10,6 @@ chaque catégorie d'organisme financier.
 Le ministre chargé de l'économie établit ces règlements pour les agents des
 marchés interbancaires et les organismes mentionnés à l'article L. 518-1.
 
-Le contrôle de l'inspection générale des finances sur les services financiers de
-La Poste prévu à l'article L. 564-3 est exercé en liaison avec l'inspection
-générale des postes et télécommunications.
+Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article
+L. 564-3 est exercé en liaison avec l'inspection générale des postes et
+télécommunications.

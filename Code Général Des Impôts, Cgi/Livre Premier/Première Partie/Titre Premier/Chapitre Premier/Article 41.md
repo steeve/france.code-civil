@@ -66,4 +66,7 @@ d. Le ou les exploitants mentionnés au a joignent à leur déclaration de résu
 un état faisant apparaître, pour chaque nature d'élément, les renseignements
 nécessaires au calcul des plus-values imposables.
 
+e) L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue
+au a.
+
 V. - Un décret précise les obligations déclaratives.

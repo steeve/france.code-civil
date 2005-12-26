@@ -6,8 +6,7 @@ dispositions de l'article D. 49-39.
 
 Le condamné peut faire appel de l'ordonnance refusant d'homologuer la
 proposition d'aménagement de peine dans le délai de vingt-quatre heures à
-compter de la notification. Il ne peut faire appel d'une ordonnance refusant
-d'homologuer une proposition de permission de sortir.
+compter de la notification.
 
 Le procureur de la République peut faire appel des ordonnances d'homologation ou
 de refus d'homologation dans le délai de vingt-quatre heures de leur

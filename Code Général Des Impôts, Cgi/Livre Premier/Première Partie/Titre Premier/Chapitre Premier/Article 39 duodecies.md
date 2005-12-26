@@ -9,7 +9,7 @@ distincts suivant qu'elles sont réalisées à court ou à long terme.
 a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis
 moins de deux ans. Le cas échéant, ces plus-values sont majorées du montant des
 amortissements expressément exclus des charges déductibles ainsi que de ceux qui
-ont été différés en méconnaissance des dispositions de l'article 39 B (1) ;
+ont été différés en méconnaissance des dispositions de l'article 39 B ;
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus
 depuis deux ans au moins, dans la mesure où elles correspondent à des
@@ -49,6 +49,11 @@ titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les
 cessions de titres intervenues dans ce délai sont réputées porter en priorité
 sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de
 scission.
+
+6 bis. Le régime fiscal des plus et moins-values à long terme prévu par le
+présent article et les articles suivants n'est pas applicable à la quote-part
+des profits distribués par un fonds de placement immobilier mentionné à
+l'article 239 nonies.
 
 7.
 

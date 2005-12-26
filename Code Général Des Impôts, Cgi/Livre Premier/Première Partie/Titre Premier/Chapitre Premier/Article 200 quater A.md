@@ -39,11 +39,8 @@ d'impôt ne peut excéder, pour la période du 1er janvier 2005 au 31 décembre
 2009, la somme de 5 000 euros pour une personne célibataire, veuve ou divorcée
 et de 10 000 euros pour un couple marié soumis à imposition commune. Cette somme
 est majorée de 400 euros par personne à charge au sens des articles 196 à 196 B.
-Cette majoration est fixée à 500 euros pour le second enfant et à 600 euros par
-enfant à partir du troisième. Les sommes de 400 euros, 500 euros et 600 euros
-sont divisées par deux lorsqu'il s'agit d'un enfant réputé à charge égale de
-l'un et l'autre de ses parents. Pour l'application de ces dispositions, les
-enfants réputés à charge égale de chacun des parents sont décomptés en premier.
+La somme de 400 Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à
+charge égale de l'un et l'autre de ses parents.
 
 5. Le crédit d'impôt est égal à :
 

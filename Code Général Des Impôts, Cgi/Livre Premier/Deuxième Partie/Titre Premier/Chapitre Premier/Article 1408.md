@@ -13,10 +13,13 @@ redevables de la taxe d'habitation afférente aux locaux attribués en jouissanc
 
 II. Sont exonérés :
 
-1° Les établissements publics scientifiques, d'enseignement et d'assistance;
+1° Les établissements publics scientifiques, d'enseignement et d'assistance,
+ainsi que les établissements visés aux articles 12 et 13 de la loi n° 84-53 du
+26 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique territoriale ;
 
 2° Les habitants reconnus indigents par la commission communale des impôts
-directs, d'accord avec l'agent de l'administration fiscale;
+directs, d'accord avec l'agent de l'administration fiscale ;
 
 3° Les ambassadeurs et autres agents diplomatiques de nationalité étrangère dans
 la commune de leur résidence officielle et pour cette résidence seulement, dans

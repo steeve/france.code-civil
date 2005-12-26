@@ -21,6 +21,9 @@ jusqu'à la date de la cession ou du rachat des droits sociaux reçus en
 rémunération de l'apport, si cette cession ou ce rachat intervient avant
 l'expiration de ce délai de report.
 
+L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au
+premier alinéa.
+
 Les dispositions du sixième alinéa du II de l'article 151 octies sont
 applicables aux plus-values dont l'imposition est reportée en application du
 premier alinéa.
@@ -73,10 +76,10 @@ au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 4. Un décret fixe les conditions d'application du présent IV, notamment les
 obligations déclaratives des contribuables (1).
 
-V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la
-perte réalisés lors de l'échange de droits sociaux résultant d'une fusion ou
-d'une scission de sociétés, lorsque ces droits sont affectés à l'exercice de la
-profession au sens de l'article 93.
+V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au
+profit ou à la perte réalisés lors de l'échange de titres résultant des
+opérations mentionnées aux articles précités, lorsque ces titres sont affectés à
+l'exercice de la profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux
 obligations définies à l'article 54 septies.

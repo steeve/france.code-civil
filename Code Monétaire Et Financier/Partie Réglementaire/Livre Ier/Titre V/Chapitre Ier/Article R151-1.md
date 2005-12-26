@@ -2,8 +2,8 @@ Article R151-1
 ----
 Pour l'application du présent titre :
 
-1° Le territoire dénommé "France" s'entend : de la France métropolitaine, de la
-Guadeloupe, de la Guyane, de la Martinique, de la Réunion, de Mayotte, de
+1° Le territoire dénommé " France " s'entend : de la France métropolitaine, de
+la Guadeloupe, de la Guyane, de la Martinique, de la Réunion, de Mayotte, de
 Saint-Pierre-et-Miquelon et des îles Wallis et Futuna ainsi que la Principauté
 de Monaco. Toutefois, pour les besoins statistiques liés à l'établissement de la
 balance des paiements, les îles Wallis et Futuna sont considérées comme
@@ -32,8 +32,7 @@ quelque nature qu'elles soient, telles que prêts, emprunts ou dépôts, ainsi q
 les investissements immobiliers ;
 
 5° Sont qualifiées d'investissements directs étrangers, pour l'application de
-l'article R. 152-5 et des articles 7 à 9 du décret n° 2003-196 du 7 mars 2003
-réglementant les relations financières avec l'étranger :
+l'article R. 152-5 :
 
 a) La création d'une entreprise nouvelle par une entreprise de droit étranger ou
 une personne physique non résidente ;
@@ -54,19 +53,15 @@ capital ou les droits de vote sont détenus à plus de 33,33 % par une ou des
 entreprises de droit étranger ou une ou des personnes physiques non résidentes ;
 
 6° Sont également qualifiées d'investissements étrangers, pour l'application de
-l'article R. 152-5 et des articles 7 à 9 du décret n° 2003-196 du 7 mars 2003
-réglementant les relations financières avec l'étranger, des opérations telles
-que l'octroi de prêts ou de garanties substantielles ou l'achat de brevets ou de
-licences, l'acquisition de contrats commerciaux ou l'apport d'assistance
-technique qui entraînent la prise de contrôle de fait d'une entreprise de droit
-français par une entreprise de droit étranger ou une personne physique non
-résidente ;
+l'article R. 152-5, des opérations telles que l'octroi de prêts ou de garanties
+substantielles ou l'achat de brevets ou de licences, l'acquisition de contrats
+commerciaux ou l'apport d'assistance technique qui entraînent la prise de
+contrôle de fait d'une entreprise de droit français par une entreprise de droit
+étranger ou une personne physique non résidente ;
 
 7° Sont qualifiées d'investissements indirects étrangers, pour l'application de
-l'article R. 152-5 et des articles 7 à 9 du décret n° 2003-196 du 7 mars 2003
-réglementant les relations financières avec l'étranger, les opérations
-effectuées à l'étranger ayant pour effet de modifier le contrôle d'une
-entreprise non résidente, elle-même détentrice d'une participation ou de droits
-de vote dans une entreprise de droit français dont le capital ou les droits de
-vote sont détenus à plus de 33,33 % par une ou des entreprises de droit étranger
-ou des personnes physiques non résidentes.
+l'article R. 152-5, les opérations effectuées à l'étranger ayant pour effet de
+modifier le contrôle d'une entreprise non résidente, elle-même détentrice d'une
+participation ou de droits de vote dans une entreprise de droit français dont le
+capital ou les droits de vote sont détenus à plus de 33,33 % par une ou des
+entreprises de droit étranger ou des personnes physiques non résidentes.

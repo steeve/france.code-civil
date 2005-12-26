@@ -45,5 +45,8 @@ dispositions législatives et réglementaires en vigueur, ainsi qu'aux
 stipulations conventionnelles prises en vertu des articles L. 123-1 et L. 123-2
 et agréées par l'autorité compétente de l'Etat ;
 
+5° bis De gérer, pour le compte des régimes de sécurité sociale concernés, la
+répartition des impôts et taxes mentionnés au II de l'article L. 131-8 ;
+
 6° De contrôler les opérations immobilières des unions de recouvrement et la
 gestion de leur patrimoine immobilier.

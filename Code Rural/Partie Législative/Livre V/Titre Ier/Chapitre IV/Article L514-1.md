@@ -5,7 +5,7 @@ d'agriculture, notamment au moyen de la taxe pour frais de chambres
 d'agriculture prévue par l'article 1604 du code général des impôts.
 
 L'augmentation maximale du produit de la taxe que chaque chambre départementale
-d'agriculture peut inscrire à son budget est fixée, pour 2005, à 1,8 %.
+d'agriculture peut inscrire à son budget est fixée, pour 2006, à 2 %.
 
 Toutefois, à titre exceptionnel, le ministre chargé de l'agriculture peut
 autoriser une chambre départementale d'agriculture à majorer l'augmentation

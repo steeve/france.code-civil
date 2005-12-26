@@ -58,7 +58,7 @@ Tarifs par tonne de fret ou de courrier : De 0,15 à 0,6 euro.
 
 CLASSE : 3
 
-Tarifs par passager : De 2,6 à 9,5 euros.
+Tarifs par passager : De 2,6 à 10 euros.
 
 Tarifs par tonne de fret ou de courrier : De 0,6 à 1,5 euro.
 
@@ -82,19 +82,14 @@ par l'administration de l'aviation civile, le nombre de passagers et la masse de
 fret et de courrier embarqués le mois précédent pour les vols effectués au
 départ de chaque aérodrome.
 
-Cette déclaration, accompagnée du paiement de la taxe due, est adressée, sous
-réserve des dispositions du VI, aux comptables du budget annexe de l'aviation
-civile.
+Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux
+comptables du budget annexe de l'aviation civile.
 
 V. - La taxe est recouvrée et contrôlée selon les mêmes règles, conditions,
 garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K.
 
-Sous réserve des dispositions du VI, le contentieux est suivi par la direction
-générale de l'aviation civile. Les réclamations sont présentées, instruites et
-jugées selon les règles applicables à la taxe de l'aviation civile.
+Le contentieux est suivi par la direction générale de l'aviation civile. Les
+réclamations sont présentées, instruites et jugées selon les règles applicables
+à la taxe de l'aviation civile.
 
-VI. - Par dérogation aux dispositions qui précèdent, les déclarations et
-paiements de la taxe perçue au profit d'un établissement public national doté
-d'un comptable public sont adressés à l'agent comptable de cet établissement.
-L'établissement public recouvre et contrôle la taxe, notamment au plan
-contentieux, selon les règles fixées aux alinéas précédents.
+VI. - (abrogé)

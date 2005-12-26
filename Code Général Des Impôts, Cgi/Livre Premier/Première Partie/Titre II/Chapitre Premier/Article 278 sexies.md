@@ -15,8 +15,8 @@ Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature
 perçues par les personnes qui exercent sur ces immeubles un droit de propriété
 ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées aux quatrième et cinquième alinéas du c
-du 1 du 7° de l'article 257 (1).
+2. Les livraisons à soi-même mentionnées aux neuvième et dixième alinéas du c du
+1 du 7° de l'article 257.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5°
 de l'article L. 351-2 du code de la construction et de l'habitation et qui
@@ -41,7 +41,7 @@ titulaires de contrats de location-accession conclus dans les conditions prévue
 par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la
 propriété immobilière, qui font l'objet, dans des conditions fixées par décret,
 d'une convention et d'une décision d'agrément prise par le représentant de
-l'Etat dans le département (1).
+l'Etat dans le département.
 
 4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
 

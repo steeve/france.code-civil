@@ -14,20 +14,19 @@ Pour la détermination des revenus mentionnés au précédent alinéa, il n'est 
 tenu compte des reports déficitaires ainsi que des amortissements réputés
 différés au sens du 2° du 1 de l'article 39 du code général des impôts, des
 plus-values et moins-values professionnelles à long terme et des modalités
-d'assiette mentionnées au IV de l'article 72 B, à l'article 75-0 B et à
-l'article 75-0 D du code général des impôts. Les revenus sont majorés des
-déductions et abattements visés aux articles 44 quater, 44 sexies, 44 septies,
-73 B, au 4 bis et aux quatrième, cinquième et sixième alinéas du a du 5 de
-l'article 158 ainsi qu'aux articles 238 bis HA à 238 bis HC du même code, des
-cotisations personnelles de sécurité sociale de l'exploitant, de son conjoint et
-des membres de sa famille, ainsi que des sommes visées à l'article L. 443-8 du
-code du travail et versées au bénéfice des intéressés, à l'exception de celles
-prises en compte dans le revenu défini à l'article L. 731-14 du code rural. La
-dotation d'installation en capital accordée aux jeunes agriculteurs ainsi que le
-montant de la différence entre l'indemnité versée en compensation de l'abattage
-total ou partiel de troupeaux en application des articles L. 221-2 ou L. 234-4
-du code rural et la valeur en stock ou en compte d'achats des animaux abattus
-sont exclus de ces revenus.
+d'assiette mentionnées à l'article 75-0 A et à l'article 75-0 B du code général
+des impôts. Les revenus sont majorés des déductions et abattements visés aux
+articles 44 quater, 44 sexies, 44 septies, 73 B, au 4 bis et aux quatrième,
+cinquième et sixième alinéas du a du 5 de l'article 158 ainsi qu'aux articles
+238 bis HA à 238 bis HC du même code, des cotisations personnelles de sécurité
+sociale de l'exploitant, de son conjoint et des membres de sa famille, ainsi que
+des sommes visées à l'article L. 443-8 du code du travail et versées au bénéfice
+des intéressés, à l'exception de celles prises en compte dans le revenu défini à
+l'article L. 731-14 du code rural. La dotation d'installation en capital
+accordée aux jeunes agriculteurs ainsi que le montant de la différence entre
+l'indemnité versée en compensation de l'abattage total ou partiel de troupeaux
+en application des articles L. 221-2 ou L. 234-4 du code rural et la valeur en
+stock ou en compte d'achats des animaux abattus sont exclus de ces revenus.
 
 Lorsque les personnes mentionnées à l'article L. 722-4 du code rural estiment
 que les revenus professionnels pris en compte pour le calcul de la contribution

@@ -64,17 +64,32 @@ L. 481-1-1 du même code et les sociétés anonymes de coordination entre les
 organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du
 même code pour :
 
-- les opérations réalisées au titre du service d'intérêt général défini à
-l'article L. 411-2 du même code ;
+a. - les opérations réalisées au titre du service d'intérêt général défini aux
+neuvième, dixième et onzième alinéas de l'article L. 411-2 du même code ainsi
+que les services accessoires à ces opérations ;
 
-- les produits engendrés par les locaux annexes et accessoires des ensembles
+b. - les produits engendrés par les locaux annexes et accessoires des ensembles
 d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que
 ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
-- les produits financiers issus du placement de la trésorerie de ces organismes.
+c. - les produits financiers issus du placement de la trésorerie de ces
+organismes.
 
 La fraction du bénéfice provenant d'activités autres que celles visées aux
 alinéas précédents et au 6° bis est soumise à l'impôt sur les sociétés ;
+
+Pour l'application des dispositions du premier alinéa de l'article 221 bis, la
+deuxième condition mentionnée à cet alinéa n'est pas exigée des sociétés qui
+cessent totalement ou partiellement d'être soumises au taux prévu au deuxième
+alinéa du I de l'article 219 du fait des dispositions du présent 4°. Les
+dispositions de l'article 111 bis ne s'appliquent pas à ces mêmes sociétés.
+
+Les dispositions du présent 4° s'appliquent aux exercices clos à compter du 1er
+janvier 2006.
+
+Toutefois, les organismes et les sociétés mentionnés au premier alinéa peuvent
+opter pour l'application anticipée de ces dispositions aux exercices clos à
+compter du 1er janvier 2005. Cette option est irrévocable.
 
 4° bis. (abrogé).
 
@@ -97,14 +112,16 @@ l'impôt sur les sociétés.
 la construction et de l'habitation, et dont les dirigeants de droit ou de fait
 ne sont pas rémunérés, pour :
 
-- les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même
-code lorsqu'elles relèvent du service d'intérêt général défini à l'article L.
-411-2 du même code ;
+a. les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même
+code lorsqu'elles relèvent du service d'intérêt général défini aux neuvième et
+onzième alinéas de l'article L. 411-2 du même code ainsi que les services
+accessoires à ces opérations ;
 
-- les produits engendrés par les locaux annexes et accessoires des ensembles
-d'habitations mentionnés à l'article L. 411-1 du même code ;
+b. les produits engendrés par les locaux annexes et accessoires des ensembles
+d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que
+ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
-- les produits financiers issus du placement de la trésorerie de ces organismes
+c. les produits financiers issus du placement de la trésorerie de ces organismes
 ;
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la

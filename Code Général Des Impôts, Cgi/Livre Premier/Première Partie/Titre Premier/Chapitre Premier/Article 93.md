@@ -42,7 +42,7 @@ l'article 1717, pour la même part.
 8° Les redevances de concessions de produits de la propriété industrielle
 définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre
 le concédant et le concessionnaire, le montant des redevances est déductible
-dans les conditions et limites fixées au 12 de l'article 39 (4).
+dans les conditions et limites fixées au 12 de l'article 39.
 
 1 bis. (Abrogé).
 
@@ -53,13 +53,13 @@ prévues en matière de traitements et salaires.
 
 Ce régime est subordonné aux conditions suivantes :
 
-- Les commissions reçues doivent être intégralement déclarées par les tiers ;
+Les commissions reçues doivent être intégralement déclarées par les tiers ;
 
-- Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à
+Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à
 l'exception de courtages et autres rémunérations accessoires se rattachant
 directement à l'exercice de leur profession ;
 
-- Le montant brut de ces courtages et rémunérations accessoires ne doit pas
+Le montant brut de ces courtages et rémunérations accessoires ne doit pas
 excéder 10 % du montant brut des commissions.
 
 La demande doit être adressée au service des impôts du lieu d'exercice de la
@@ -117,3 +117,20 @@ contrôlée qui exercent une activité professionnelle au sens du 1 de l'article
 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les
 résultats de l'année en cours à la date de leur versement. Dans ce cas, elles
 sont imposables dans les conditions définies par ce dernier article.
+
+9. Les auteurs d'oeuvres d'art au sens du 1° du I de l'article 297 A bénéficient
+d'un abattement de 50 % sur le montant de leur bénéfice imposable au titre de la
+première année d'activité ainsi que des quatre années suivantes.
+
+Ces dispositions s'appliquent aux revenus résultant de la cession des oeuvres
+mentionnées à l'alinéa précédent, ainsi que de la cession et de l'exploitation
+des droits patrimoniaux reconnus par la loi sur ces mêmes oeuvres, et perçus par
+les auteurs personnes physiques imposées selon le régime de la déclaration
+contrôlée.
+
+Les revenus provenant des opérations mentionnées à l'article 279 bis ne
+bénéficient pas de l'abattement prévu au premier alinéa.
+
+L'abattement mentionné au premier alinéa ne peut excéder 50 000 euros par an.
+
+Il ne s'applique pas en cas d'option pour le régime prévu à l'article 100 bis.

@@ -61,16 +61,15 @@ dans les départements d'outre-mer.
 3 a. Les conditions et modalités d'application du 1 sont fixées par décret. Il
 peut être prévu par ce décret des règles spéciales pour le calcul de la taxe sur
 les salaires en ce qui concerne certaines professions, notamment celles qui
-relèvent du régime agricole au regard des lois sur la sécurité sociale (1).
+relèvent du régime agricole au regard des lois sur la sécurité sociale.
 
 Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités selon
 lesquelles sera déterminé le rapport défini au 1.
 
 b. Un décret pris en conseil des ministres, après avis du Conseil d'Etat, fixe
-les conditions d'application du premier alinéa du 2 bis (2).
+les conditions d'application du premier alinéa du 2 bis.
 
-4. Le produit de la taxe sur les salaires est affecté en totalité au budget
-général.
+4. (Abrogé)
 
 5. Le taux de 4,25 % prévu au 1 est réduit à 2,95 %, dans les départements de la
 Guadeloupe, de la Martinique et de la Réunion, et à 2,55 % dans le département

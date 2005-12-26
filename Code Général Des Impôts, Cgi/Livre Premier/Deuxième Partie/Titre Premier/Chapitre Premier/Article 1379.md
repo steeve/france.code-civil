@@ -13,7 +13,11 @@ chapitre :
 
 5° La redevance des mines ;
 
-6° L'imposition forfaitaire sur les pylônes.
+6° L'imposition forfaitaire sur les pylônes ;
+
+7° La taxe annuelle sur les installations de production d'électricité utilisant
+l'énergie mécanique du vent situées dans les eaux intérieures ou la mer
+territoriale.
 
 II. Elles peuvent, en outre, instituer les taxes suivantes :
 

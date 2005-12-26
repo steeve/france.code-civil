@@ -40,7 +40,14 @@ l'Etablissement public de gestion immobilière du Nord - Pas-de-Calais et les
 logements locatifs ayant bénéficié de prêts spéciaux consentis par le Crédit
 foncier de France appartenant à des personnes morales autres que celles citées
 ci-dessus à la condition qu'ils constituent sur le territoire d'une commune un
-ensemble d'au moins 2 000 logements.
+ensemble d'au moins 2 000 logements. Les organismes d'habitations à loyer modéré
+et les sociétés d'économie mixte locales sont tenus de fournir au représentant
+de l'Etat dans la région, chaque année avant le 31 octobre, un inventaire par
+commune des logements sociaux dont ils sont propriétaires au 1er janvier. Le
+défaut de production de cet inventaire ou la production d'un inventaire
+manifestement erroné donne lieu à l'application d'une amende de 1 500 Euros
+recouvrée comme en matière de taxe sur les salaires. Un décret fixe le contenu
+de l'inventaire mentionné ci-dessus.
 
 Les aides au logement retenues pour l'application du présent article sont, dans
 des conditions définies par décret en Conseil d'Etat, les prestations prévues

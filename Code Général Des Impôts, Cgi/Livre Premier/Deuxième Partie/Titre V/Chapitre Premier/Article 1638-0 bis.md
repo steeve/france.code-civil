@@ -60,27 +60,33 @@ sans fiscalité propre.
 
 Pour la première année suivant celle de la fusion :
 
-1° Le taux de taxe professionnelle de zone voté par l'établissement public de
-coopération intercommunale issu de la fusion ne peut excéder le taux moyen de
-taxe professionnelle constaté l'année précédente dans les communes membres,
-pondéré par l'importance relative des bases de ces communes ; le taux moyen
-pondéré tient compte des produits perçus par les établissements publics de
-coopération intercommunale préexistants et des bases imposées à leur profit à la
-taxe professionnelle de zone. Toutefois, lorsque ce taux moyen pondéré est
-inférieur à un ou aux taux de taxe professionnelle de zone, l'établissement
+1° Le taux de taxe professionnelle de zone ainsi que le taux de taxe
+professionnelle afférent aux installations de production d'électricité utilisant
+l'énergie mécanique du vent votés par l'établissement public de coopération
+intercommunale issu de la fusion ne peuvent excéder le taux moyen de taxe
+professionnelle constaté l'année précédente dans les communes membres, pondéré
+par l'importance relative des bases de ces communes ; le taux moyen pondéré
+tient compte des produits perçus par les établissements publics de coopération
+intercommunale préexistants et des bases imposées à leur profit en application
+du II de l'article 1609 quinquies C. Toutefois, lorsque ce taux moyen pondéré
+est inférieur à un ou aux taux de taxe professionnelle de zone, l'établissement
 public de coopération intercommunale issu de la fusion peut décider de fixer son
 taux dans la limite du ou des taux de taxe professionnelle de zone votés l'année
 précédente par les établissements publics de coopération intercommunale
-préexistants.
+préexistants. Il en est de même pour le taux de taxe professionnelle afférent
+aux installations de production d'électricité utilisant l'énergie mécanique du
+vent ;
 
 Les dispositions du troisième alinéa du 1° du II de l'article 1609 quinquies C
 sont applicables à l'établissement public de coopération intercommunale issu de
 la fusion. Dans le cas d'établissements intercommunaux préexistants faisant
 application du dispositif de réduction des écarts de taux, il est tenu compte du
 taux effectivement appliqué sur le territoire de la commune au titre de l'année
-précédente ;
+précédente.
 
-2° Les dispositions du I du présent article sont applicables hors de la zone.
+2° Les dispositions du I du présent article sont applicables aux bases
+d'imposition à la taxe professionnelle autres que celles soumises aux
+dispositions du II de l'article 1609 quinquies C.
 
 Lorsque l'établissement public de coopération intercommunale issu de la fusion
 opte pour le régime prévu au I de l'article 1609 nonies C, le taux de taxe
@@ -88,16 +94,18 @@ professionnelle qu'il vote la première année ne peut excéder le taux moyen de
 taxe professionnelle constaté l'année précédente dans les communes membres,
 pondéré par l'importance relative des bases de ces communes. Le taux moyen
 pondéré tient compte des produits perçus par les établissements publics de
-coopération intercommunale préexistants et des bases imposées à leur profit à la
-taxe professionnelle de zone.
+coopération intercommunale préexistants et des bases imposées à leur profit en
+application du II de l'article 1609 quinquies C.
 
 A compter de la deuxième année suivant celle de la fusion, les taux de
-l'établissement public de coopération intercommunale issu de la fusion sont
-fixés hors de la zone dans les conditions prévues au I de l'article 1636 B
-sexies ; dans la zone et dans le cas où l'établissement public de coopération
-intercommunale relève du régime prévu au I de l'article 1609 nonies C, le taux
-de taxe professionnelle est fixé en application des II, III et IV de l'article
-1636 B decies.
+l'établissement public de coopération intercommunale issu de la fusion
+applicables aux bases d'imposition autres que celles soumises aux dispositions
+du II de l'article 1609 quinquies C sont fixés, dans les conditions prévues au I
+de l'article 1636 B sexies ; pour les bases soumises aux dispositions du II de
+l'article 1609 quinquies C et dans le cas où l'établissement public de
+coopération intercommunale relève du régime prévu au I de l'article 1609 nonies
+C, le taux de taxe professionnelle est fixé en application des II, III et IV de
+l'article 1636 B decies.
 
 III. - 1. En cas de fusion d'établissements publics de coopération
 intercommunale soumis aux dispositions du I de l'article 1609 nonies C, réalisée
@@ -119,7 +127,8 @@ relative des bases imposées sur le territoire de ces communes ; le taux moyen
 pondéré tient compte des produits perçus au profit des établissements publics de
 coopération intercommunaux préexistants et des bases imposées à leur profit en
 application des dispositions du I de l'article 1609 nonies C ou du II de
-l'article 1609 quinquies C.
+l'article 1609 quinquies C. Les dispositions des II, III et IV de l'article 1636
+B decies s'appliquent à ce taux moyen pondéré.
 
 Les dispositions du troisième alinéa du a, des premier et troisième alinéas du b
 du 1° du III de l'article 1609 nonies C sont applicables à l'établissement

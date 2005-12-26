@@ -5,14 +5,10 @@ comprennent :
 
 1° Pour les propriétés urbaines :
 
-a) Les dépenses de réparation et d'entretien, les frais de gérance et de
-rémunération des gardes et concierges, effectivement supportés par le
+a) Les dépenses de réparation et d'entretien effectivement supportés par le
 propriétaire ;
 
-a bis) le montant des primes d'assurances versées au titre de la garantie du
-risque de loyers impayés. Lorsque le contrat comporte également la garantie
-d'autres risques, la fraction des primes destinée à couvrir le risque de loyers
-impayés doit être distinguée ;
+a bis) les primes d'assurance ;
 
 a ter) Le montant des dépenses supportées pour le compte du locataire par le
 propriétaire dont celui-ci n'a pu obtenir le remboursement, au 31 décembre de
@@ -22,8 +18,7 @@ a quater) Les provisions pour dépenses, comprises ou non dans le budget
 prévisionnel de la copropriété, prévues aux articles 14-1 et 14-2 de la loi n°
 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles
 bâtis, supportées par le propriétaire, diminuées du montant des provisions
-déduites l'année précédente qui correspond à des charges couvertes par la
-déduction forfaitaire prévue au e ou qui ne sont pas déductibles ;
+déduites l'année précédente qui correspond à des charges non déductibles ;
 
 b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion
 des frais correspondant à des travaux de construction, de reconstruction ou
@@ -36,180 +31,58 @@ travaux de construction, de reconstruction ou d'agrandissement ;
 
 b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3 du
 code de l'urbanisme et les zones de protection du patrimoine architectural,
-urbain et paysager définies à l'article 70 de la loi n° 83-8 du 7 janvier 1983
-modifiée relative à la répartition de compétences entre les communes, les
-départements, les régions et l'Etat, les frais d'adhésion à des associations
-foncières urbaines de restauration, les travaux de démolition imposés par
-l'autorité qui délivre le permis de construire et prévus par les plans de
-sauvegarde et de mise en valeur rendus publics ou par la déclaration d'utilité
-publique des travaux de restauration, à l'exception des travaux de construction,
-de reconstruction ou d'agrandissement. Toutefois, constituent des charges de la
-propriété déductibles pour la détermination du revenu net, les travaux de
-reconstitution de toiture ou de murs extérieurs d'immeubles existants prévus par
-les mêmes plans de sauvegarde ou imposés par la même déclaration d'utilité
-publique et rendus nécessaires par ces démolitions. Il en est de même des
-travaux de transformation en logement de tout ou partie d'un immeuble, dans le
-volume bâti existant dont la conservation est conforme au plan de sauvegarde et
-de mise en valeur ou à la déclaration d'utilité publique des travaux de
-restauration. Il en est de même des travaux de réaffectation à l'habitation de
-tout ou partie d'un immeuble originellement destiné à l'habitation et ayant
-perdu cet usage, dont la conservation est conforme au plan de sauvegarde et de
-mise en valeur ou à la déclaration d'utilité publique des travaux de
-restauration. Pour l'application de ces dispositions, les conditions mentionnées
-au 3° du I de l'article 156 doivent être remplies ;
+urbain et paysager définies à l'article L. 642-1 du code du patrimoine, les
+frais d'adhésion à des associations foncières urbaines de restauration, les
+travaux de démolition imposés par l'autorité qui délivre le permis de construire
+et prévus par les plans de sauvegarde et de mise en valeur rendus publics ou par
+la déclaration d'utilité publique des travaux de restauration, à l'exception des
+travaux de construction, de reconstruction ou d'agrandissement. Toutefois,
+constituent des charges de la propriété déductibles pour la détermination du
+revenu net, les travaux de reconstitution de toiture ou de murs extérieurs
+d'immeubles existants prévus par les mêmes plans de sauvegarde ou imposés par la
+même déclaration d'utilité publique et rendus nécessaires par ces démolitions.
+Il en est de même des travaux de transformation en logement de tout ou partie
+d'un immeuble, dans le volume bâti existant dont la conservation est conforme au
+plan de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique
+des travaux de restauration. Il en est de même des travaux de réaffectation à
+l'habitation de tout ou partie d'un immeuble originellement destiné à
+l'habitation et ayant perdu cet usage, dont la conservation est conforme au plan
+de sauvegarde et de mise en valeur ou à la déclaration d'utilité publique des
+travaux de restauration. Pour l'application de ces dispositions, les conditions
+mentionnées au 3° du I de l'article 156 doivent être remplies ;
 
-b quater) Dans les zones franches urbaines telles que définies au B du 3 de
-l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour
-l'aménagement et le développement du territoire, les travaux de démolition
-rendus nécessaires par le réaménagement d'un ou plusieurs immeubles, dès lors
-que le représentant de l'Etat dans le département a donné son accord à la
-convention mentionnée au cinquième alinéa du 3° du I de l'article 156, à
-l'exclusion des travaux de construction, de reconstruction ou d'agrandissement.
-Toutefois, constituent des charges de la propriété déductibles pour la
-détermination du revenu net les travaux de reconstitution de toiture ou de murs
-extérieurs d'immeubles existants prévus par la même convention et rendus
-nécessaires par ces démolitions. Pour l'application de ces dispositions, les
-conditions mentionnées au cinquième alinéa du 3° du I de l'article 156 doivent
-être remplies.
-
-Les obligations déclaratives incombant aux contribuables concernés par les
-dispositions prévues au premier alinéa sont fixées par décret ;
+b quater) (abrogé)
 
 c) Les impositions, autres que celles incombant normalement à l'occupant,
-perçues, à raison desdites propriétés, au profit des collectivités locales, de
-certains établissements publics ou d'organismes divers ainsi que la taxe
-annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux
-de stockage perçue dans la région d'Ile-de-France prévue à l'article 231 ter ;
+perçues, à raison desdites propriétés, au profit des collectivités
+territoriales, de certains établissements publics ou d'organismes divers ainsi
+que la taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux
+et les locaux de stockage perçue dans la région d'Ile-de-France prévue à
+l'article 231 ter ;
 
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la
 construction, la réparation ou l'amélioration des propriétés ;
 
-e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les
-frais de gestion, l'assurance à l'exclusion de celle visée au a bis et
-l'amortissement. Lorsque l'une des options prévues au f, g et h et à l'article
-31 bis est exercée, la déduction, fixée à 6 p. 100, représente les frais de
-gestion et l'assurance à l'exclusion de celle visée au a bis. Elle est fixée à
-40 % pour les loyers des logements situés en zone de revitalisation rurale,
-lorsque l'option prévue au h est exercée (1). La déduction forfaitaire au taux
-de 14 % est de nouveau applicable à l'expiration de l'application des régimes
-visés aux g et h et à l'article 31 bis.
+e) Les frais de gestion, fixés à 20 euros par local, majorés, lorsque ces
+dépenses sont effectivement supportées par le propriétaire, des frais de
+rémunération des gardes et concierges, des frais de procédure et des frais de
+rémunération, honoraire et commission versés à un tiers pour la gestion des
+immeubles ;
 
-Le taux de déduction mentionné au premier alinéa est fixé à 40 % pour les
-revenus des six premières années de location des logements qui ne peuvent donner
-lieu à l'un ou l'autre des régimes prévus au f, g et h et qui, répondant aux
-normes d'habitabilité telles que définies par décret, sont loués par une
-personne physique ou une société non soumise à l'impôt sur les sociétés en vertu
-d'un bail conclu à compter du 1er janvier 1999. Le contribuable ou la société
-propriétaire doit s'engager à louer le logement nu pendant une durée de six ans
-au moins à des personnes qui en font leur habitation principale. Cet engagement
-prévoit, en outre, que le loyer et les ressources du locataire appréciées à la
-date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret
-et que la location ne peut être conclue avec un membre du foyer fiscal, un
-ascendant ou un descendant du contribuable, une personne occupant déjà le
-logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt
-sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un
-ascendant ou un descendant d'un associé. Les associés des sociétés précitées
-s'engagent à conserver leurs parts pendant au moins six ans. Un contribuable ne
-peut, pour un même logement ou une même souscription de titres, pratiquer la
-réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la
-déduction forfaitaire au taux de 40 % prévue au présent alinéa. Lorsque la
-location est suspendue à l'issue d'une période d'au moins trois ans au profit
-d'un ascendant ou d'un descendant du contribuable, la déduction forfaitaire
-s'applique au taux de 14 % et la période de mise à disposition du logement au
-profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée
-de location minimale de six ans. Cette période de mise à disposition du logement
-ne peut excéder neuf ans.
+e bis) Les dépenses supportées par un fonds de placement immobilier mentionné à
+l'article 239 nonies au titre des frais de fonctionnement et de gestion à
+proportion des actifs mentionnés au a du 1° du II de l'article L. 214-140 du
+code monétaire et financier détenus directement ou indirectement par le fonds, à
+l'exclusion des frais de gestion variables perçus par la société de gestion
+mentionnée à l'article L. 214-119 du même code en fonction des performances
+réalisées.
 
-La location du logement consentie à un organisme public ou privé pour le
-logement à usage d'habitation principale de son personnel, à l'exclusion du
-propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
-ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
-Un décret précise les conditions de cette location, notamment les modalités
-d'appréciation des loyers et des ressources de l'occupant.
+Les frais de gestion, de souscription et de transaction supportés directement
+par les porteurs de parts d'un fonds de placement immobilier mentionné à
+l'article 239 nonies ne sont pas compris dans les charges de la propriété
+admises en déduction ;
 
-Le taux de la déduction forfaitaire, mentionné au premier alinéa, est fixé à 40
-% lorsque le contribuable a exercé l'option prévue au h, à la double condition
-qu'il donne, pendant toute la durée d'application de cette option, le logement
-en location à un organisme sans but lucratif ou à une union d'économie sociale
-qui le met à la disposition de personnes défavorisées mentionnées à l'article
-1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au
-logement autres qu'un membre du foyer fiscal, un ascendant ou un descendant du
-contribuable, l'organisme ou l'union ayant été agréé à cet effet par le
-représentant de l'Etat dans le département, et qu'il s'engage, dans les
-conditions prévues au h, à ce que le loyer et les ressources du locataire,
-appréciées à la date de conclusion du bail, n'excèdent pas des plafonds fixés
-par décret et inférieurs à ceux mentionnés au deuxième alinéa du présent e. Ces
-dispositions s'appliquent aux logements acquis neufs ou en état futur
-d'achèvement à compter du 1er janvier 2005 et aux logements que le contribuable
-fait construire et qui ont fait l'objet, à compter de la même date, d'une
-déclaration d'ouverture de chantier. Elles sont également applicables aux locaux
-affectés à un usage autre que l'habitation acquis à compter du 1er janvier 2005
-et que le contribuable transforme en logements, ainsi qu'aux logements acquis à
-compter de cette date qui ne satisfont pas aux caractéristiques de décence
-prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer
-les rapports locatifs et portant modification de la loi n° 86-1290 du 23
-décembre 1986 et qui font l'objet de travaux de réhabilitation définis par
-décret permettant aux logements d'acquérir des performances techniques voisines
-de celles des logements neufs.
-
-Le taux de déduction mentionné au premier alinéa est porté à 60 % pendant trois
-ans, pour les revenus tirés de la location des logements qui ne peuvent donner
-lieu à l'un ou l'autre des régimes prévus aux f, g et h, qui répondent aux
-normes d'habitabilité définies par décret et qui sont loués par une personne
-physique ou une société non soumise à l'impôt sur les sociétés en vertu d'un
-bail conclu, reconduit ou renouvelé entre le 1er janvier 2002 et le 31 décembre
-2004. Le contribuable ou la société propriétaire doit s'engager à louer le
-logement nu pendant une durée de trois ans au moins à des personnes qui en font
-leur habitation principale. Cet engagement prévoit en outre que le loyer et les
-ressources du locataire, constatées à la date à laquelle la location avec ce
-locataire ouvre droit pour la première fois aux dispositions du présent alinéa,
-ne doivent pas excéder des plafonds qui seront fixés par décret à des niveaux
-inférieurs à ceux mentionnés au deuxième alinéa. L'engagement prévoit également
-que la location ne peut pas être conclue avec un membre du foyer fiscal, un
-ascendant ou un descendant du contribuable ou, si le logement est la propriété
-d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un
-membre de son foyer fiscal, un ascendant ou un descendant d'un associé. Les
-associés des sociétés précitées s'engagent à conserver leurs parts pendant au
-moins trois ans. Un contribuable ne peut, pour un même logement ou une même
-souscription de titres, pratiquer la réduction d'impôt mentionnée à l'article
-199 undecies A et bénéficier de la déduction forfaitaire au taux de 60 % prévue
-au présent alinéa.
-
-La location du logement consentie à un organisme sans but lucratif qui le met à
-la disposition de personnes défavorisées mentionnées à l'article 1er de la loi
-n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement autres
-qu'un membre du foyer fiscal, un ascendant ou un descendant du contribuable, et
-qui est agréé à cet effet par le représentant de l'Etat dans le département, ne
-fait pas obstacle au bénéfice de la déduction prévue au cinquième alinéa. A
-l'issue de la période de trois ans en cours au 1er janvier 2005, le propriétaire
-peut bénéficier, qu'il y ait ou non changement de titulaire du bail, de la
-déduction forfaitaire majorée de 40 % prévue au deuxième alinéa, à la condition
-de respecter les plafonds de loyer et de ressources fixés par le décret prévu au
-même alinéa.
-
-En cas de non-respect de l'un des engagements mentionnés au deuxième, au
-quatrième ou au cinquième alinéa ou de cession du logement ou des parts
-sociales, le supplément de déduction forfaitaire fait l'objet d'une reprise au
-titre de l'année de la rupture de l'engagement ou de la cession. En cas
-d'invalidité correspondant au classement dans la deuxième ou la troisième des
-catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
-licenciement ou de décès du contribuable ou de l'un des époux soumis à
-imposition commune, cette reprise n'est pas appliquée.
-
-Tant que la condition de loyer prévue au deuxième alinéa demeure remplie, le
-bénéfice du taux majoré est prorogé par périodes de trois ans, en cas de
-poursuite, de reconduction ou de renouvellement du contrat de location.
-
-Sous réserve que les conditions de loyer et de ressources du nouveau locataire
-prévues au deuxième, au quatrième ou au cinquième alinéa soient remplies, le
-taux majoré demeure également applicable en cas de changement de titulaire du
-bail.
-
-Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à
-6 % pour les revenus des neuf premières années de location des logements ouvrant
-droit à la réduction d'impôt prévue à l'article 199 decies E ;
-
-f. pour les logements situés en France, acquis neufs ou en l'état futur
+f) pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement entre le 1er janvier 1996 et le 31 décembre 1998 et à la demande du
 contribuable, une déduction au titre de l'amortissement égale à 10 % du prix
 d'acquisition du logement pour les quatre premières années et à 2 % de ce prix
@@ -327,8 +200,8 @@ doit prendre effet dans les douze mois qui suivent la date d'achèvement de
 l'immeuble ou de son acquisition si elle est postérieure. Cet engagement
 prévoit, en outre, que le loyer et les ressources du locataire appréciées à la
 date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret.
-La location du logement consentie dans les conditions fixées au troisième alinéa
-du e à un organisme public ou privé pour le logement à usage d'habitation
+La location du logement consentie dans les conditions fixées au deuxième alinéa
+du j à un organisme public ou privé pour le logement à usage d'habitation
 principale de son personnel, à l'exclusion du propriétaire du logement, de son
 conjoint, ou des membres de son foyer fiscal, ne fait pas obstacle au bénéfice
 de la déduction.
@@ -343,10 +216,9 @@ alinéa est remplie, en cas de changement de titulaire du bail. En cas de
 non-respect des conditions de location ou de cession du logement, les déductions
 pratiquées pendant l'ensemble de la période triennale sont remises en cause dans
 les conditions de droit commun. A l'issue de cette période, et sous réserve que
-les conditions de loyer et de ressources prévues au e soient remplies, le
-propriétaire peut bénéficier de la déduction forfaitaire majorée prévue aux
-deuxième et cinquième alinéas du e, qu'il y ait ou non changement de titulaire
-du bail.
+les conditions de loyer et de ressources soient remplies, le propriétaire peut
+bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
+titulaire du bail.
 
 La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
@@ -374,9 +246,8 @@ de changement de titulaire du bail. En cas de non-respect des conditions de
 location ou de cession du logement, les déductions pratiquées pendant l'ensemble
 de la période triennale sont remises en cause dans les conditions de droit
 commun. A l'issue de cette période, et sous réserve que les conditions de loyer
-et de ressources prévues au e soient remplies, le propriétaire peut bénéficier
-de la déduction forfaitaire majorée prévue aux deuxième et cinquième alinéas du
-e, qu'il y ait ou non changement de titulaire du bail ;
+et de ressources soient remplies, le propriétaire peut bénéficier de la
+déduction prévue au j, qu'il y ait ou non changement de titulaire du bail ;
 
 2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
 l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
@@ -465,10 +336,9 @@ de renouvellement du bail ou en cas de changement de titulaire du bail. En cas
 de non-respect des conditions de location ou de cession du logement, les
 déductions pratiquées pendant l'ensemble de la période triennale sont remises en
 cause dans les conditions de droit commun. A l'issue de cette période, et sous
-réserve que les conditions de loyer et de ressources prévues au e soient
-remplies, le propriétaire peut bénéficier de la déduction forfaitaire majorée
-prévue aux deuxième et cinquième alinéas du e, qu'il y ait ou non changement de
-titulaire du bail.
+réserve que les conditions de loyer et de ressources soient remplies, le
+propriétaire peut bénéficier de la déduction prévue au j, qu'il y ait ou non
+changement de titulaire du bail.
 
 La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
@@ -495,10 +365,9 @@ ou en cas de changement de titulaire du bail. En cas de non-respect des
 conditions de location ou de cession du logement, les déductions pratiquées
 pendant l'ensemble de la période triennale sont remises en cause dans les
 conditions de droit commun. A l'issue de cette période, et sous réserve que les
-conditions de loyer et de ressources prévues au e soient remplies, le
-propriétaire peut bénéficier de la déduction forfaitaire majorée prévue aux
-deuxième et cinquième alinéas du e, qu'il y ait ou non changement de titulaire
-du bail.
+conditions de loyer et de ressources soient remplies, le propriétaire peut
+bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
+titulaire du bail.
 
 2. Les dépenses d'amélioration ouvrent droit à une déduction, au titre de
 l'amortissement, égale à 10 % du montant de la dépense pendant dix ans.
@@ -544,19 +413,151 @@ ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label déliv
 par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de
 l'article 156.
 
+i) Lorsque le contribuable, domicilié en France au sens de l'article 4 B,
+transfère son habitation principale pour des raisons professionnelles, une
+déduction fixée à 10 % des revenus bruts annuels tirés de la location de son
+ancienne habitation principale jusqu'au 31 décembre de la troisième année qui
+suit la date de sa mise en location ou jusqu'à la date de l'acquisition d'une
+nouvelle habitation principale si elle est antérieure.
+
+L'application des dispositions de l'alinéa précédent est subordonnée au respect
+des conditions suivantes :
+
+1 La nouvelle activité professionnelle doit avoir débuté entre le 1er juillet
+2005 et le 31 décembre 2007 et être exercée pendant une durée au moins égale à
+six mois consécutifs ;
+
+2 L'ancienne habitation principale du contribuable, pour laquelle la déduction
+est demandée, doit être donnée en location nue à titre d'habitation principale
+du locataire, immédiatement après le transfert du domicile. Ce transfert doit
+intervenir dans l'année qui suit la date du début de l'exercice de la nouvelle
+activité ;
+
+3 La nouvelle habitation principale doit être prise en location dans l'année qui
+suit la date du début de l'exercice de la nouvelle activité et doit être située
+à plus de 200 kilomètres de celle précédemment occupée. Le bailleur de cette
+nouvelle habitation ne peut être un membre du foyer fiscal du contribuable ou
+une société dont ce dernier ou l'un des membres du foyer fiscal est associé.
+
+j) Une déduction fixée à 26 % des revenus bruts au titre des six premières
+années de location des logements qui ne peuvent donner lieu à l'un ou l'autre
+des régimes prévus au f, g et h et qui, répondant aux normes d'habitabilité
+telles que définies par décret, sont loués par une personne physique ou une
+société non soumise à l'impôt sur les sociétés en vertu d'un bail conclu à
+compter du 1er janvier 1999. Le contribuable ou la société propriétaire doit
+s'engager à louer le logement nu pendant une durée de six ans au moins à des
+personnes qui en font leur habitation principale. Cet engagement prévoit, en
+outre, que le loyer et les ressources du locataire appréciées à la date de
+conclusion du bail ne doivent pas excéder des plafonds fixés par décret et que
+la location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou
+un descendant du contribuable, une personne occupant déjà le logement ou, si
+celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés,
+l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant
+d'un associé. Les associés des sociétés précitées s'engagent à conserver leurs
+parts pendant au moins six ans. Un contribuable ne peut, pour un même logement
+ou une même souscription de titres, pratiquer la réduction d'impôt mentionnée à
+l'article 199 undecies A et bénéficier de la déduction au taux de 26 % prévue au
+présent alinéa. Lorsque la location est suspendue à l'issue d'une période d'au
+moins trois ans au profit d'un ascendant ou d'un descendant du contribuable, la
+déduction ne s'applique pas et la période de mise à disposition du logement au
+profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée
+de location minimale de six ans. Cette période de mise à disposition du logement
+ne peut excéder neuf ans.
+
+La location du logement consentie à un organisme public ou privé pour le
+logement à usage d'habitation principale de son personnel, à l'exclusion du
+propriétaire du logement, de son conjoint, de membres de son foyer fiscal ou de
+ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction.
+Un décret précise les conditions de cette location, notamment les modalités
+d'appréciation des loyers et des ressources de l'occupant.
+
+Le taux de déduction mentionné au premier alinéa est porté à 46 % pendant trois
+ans, pour les revenus tirés de la location des logements qui ne peuvent donner
+lieu à l'un ou l'autre des régimes prévus aux f, g et h, qui répondent aux
+normes d'habitabilité définies par décret et qui sont loués par une personne
+physique ou une société non soumise à l'impôt sur les sociétés en vertu d'un
+bail conclu, reconduit ou renouvelé entre le 1er janvier 2002 et le 31 décembre
+2004. Le contribuable ou la société propriétaire doit s'engager à louer le
+logement nu pendant une durée de trois ans au moins à des personnes qui en font
+leur habitation principale. Cet engagement prévoit en outre que le loyer et les
+ressources du locataire, constatées à la date à laquelle la location avec ce
+locataire ouvre droit pour la première fois aux dispositions du présent alinéa,
+ne doivent pas excéder des plafonds qui seront fixés par décret à des niveaux
+inférieurs à ceux mentionnés au premier alinéa. L'engagement prévoit également
+que la location ne peut pas être conclue avec un membre du foyer fiscal, un
+ascendant ou un descendant du contribuable ou, si le logement est la propriété
+d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un
+membre de son foyer fiscal, un ascendant ou un descendant d'un associé. Les
+associés des sociétés précitées s'engagent à conserver leurs parts pendant au
+moins trois ans. Un contribuable ne peut, pour un même logement ou une même
+souscription de titres, pratiquer la réduction d'impôt mentionnée à l'article
+199 undecies A et bénéficier de la déduction prévue au présent alinéa.
+
+La location du logement consentie à un organisme sans but lucratif qui le met à
+la disposition de personnes défavorisées mentionnées à l'article 1er de la loi
+n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement autres
+qu'un membre du foyer fiscal, un ascendant ou un descendant du contribuable, et
+qui est agréé à cet effet par le représentant de l'Etat dans le département, ne
+fait pas obstacle au bénéfice de la déduction prévue au troisième alinéa. A
+l'issue de la période de trois ans en cours au 1er janvier 2005, le propriétaire
+peut bénéficier, qu'il y ait ou non changement de titulaire du bail, de la
+déduction prévue au premier alinéa, à la condition de respecter les plafonds de
+loyer et de ressources fixés par le décret prévu au même alinéa.
+
+En cas de non-respect de l'un des engagements mentionnés au premier ou au
+troisième alinéa ou de cession du logement ou des parts sociales, la déduction
+fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou
+de la cession. En cas d'invalidité correspondant au classement dans la deuxième
+ou la troisième des catégories prévues à l'article L. 341-4 du code de la
+sécurité sociale, de licenciement ou de décès du contribuable ou de l'un des
+époux soumis à imposition commune, cette reprise n'est pas appliquée.
+
+Tant que la condition de loyer prévue au premier alinéa demeure remplie, le
+bénéfice de la déduction est prorogé par périodes de trois ans, en cas de
+poursuite, de reconduction ou de renouvellement du contrat de location.
+
+Sous réserve que les conditions de loyer et de ressources du nouveau locataire
+prévues au premier ou au troisième alinéa soient remplies, la déduction demeure
+également applicable en cas de changement de titulaire du bail.
+
+k) Une déduction fixée à 26 % des revenus bruts, pour les logements situés en
+zone de revitalisation rurale, lorsque l'option prévue au h est exercée.
+
+Cette déduction est également applicable lorsque le contribuable a exercé
+l'option prévue au h, à la double condition qu'il donne, pendant toute la durée
+d'application de cette option, le logement en location à un organisme sans but
+lucratif ou à une union d'économie sociale qui le met à la disposition de
+personnes défavorisées, mentionnées à l'article 1er de la loi n° 90-449 du 31
+mai 1990 visant à la mise en oeuvre du droit au logement, autres qu'un membre du
+foyer fiscal, un ascendant ou un descendant du contribuable, l'organisme ou
+l'union ayant été agréé à cet effet par le représentant de l'Etat dans le
+département, et qu'il s'engage, dans les conditions prévues au h, à ce que le
+loyer et les ressources du locataire, appréciées à la date de conclusion du
+bail, n'excèdent pas des plafonds fixés par décret et inférieurs à ceux
+mentionnés au premier alinéa du j.
+
+En cas de non-respect de l'un des engagements mentionnés au deuxième alinéa ou
+de cession du logement ou des parts sociales, la déduction fait l'objet d'une
+reprise au titre de l'année de la rupture de l'engagement ou de la cession. En
+cas d'invalidité correspondant au classement dans la deuxième ou la troisième
+des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
+licenciement ou de décès du contribuable ou de l'un des époux soumis à
+imposition commune, cette reprise n'est pas appliquée.
+
+Sous réserve que la condition de loyer soit remplie, la déduction demeure
+applicable en cas de changement de titulaire du bail.
+
 2° Pour les propriétés rurales :
 
-a) Les dépenses énumérées aux a à d du 1° ;
+a) Les dépenses énumérées aux a à e du 1° ;
 
-b) Les primes d'assurances ;
+b) (abrogé)
 
-c) Les dépenses d'amélioration non rentables afférentes aux éléments autres que
-les locaux d'habitation et effectivement supportées par le propriétaire. Les
-dépenses engagées pour la construction d'un nouveau bâtiment d'exploitation
-rurale, destiné à remplacer un bâtiment de même nature, vétuste ou inadapté aux
-techniques modernes de l'agriculture, sont considérées comme des dépenses
-d'amélioration non rentables à condition que la construction nouvelle n'entraîne
-pas une augmentation du fermage ;
+c) Les dépenses d'amélioration non rentables afférentes aux propriétés bâties
+autres que les locaux d'habitation, effectivement supportées par le
+propriétaire. Sont considérées comme des dépenses d'amélioration non rentables
+les dépenses qui ne sont pas susceptibles d'entraîner une augmentation du
+fermage ;
 
 c bis) Dans les conditions fixées par décret, les dépenses d'amélioration et de
 construction, qui s'incorporent aux bâtiments d'exploitation rurale, destinées à
@@ -564,16 +565,23 @@ satisfaire aux obligations prévues au titre Ier du livre V du code de
 l'environnement, relatif aux installations classées pour la protection de
 l'environnement ;
 
-d) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les
-frais de gestion et l'amortissement. En ce qui concerne les constructions
-nouvelles, reconstructions et additions de construction qui bénéficient de
-l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue au
-II bis de l'article 1385, le taux de la déduction forfaitaire est porté à 15 %
-pendant la durée de cette exonération ; le taux de 15 % s'applique également aux
-revenus provenant des biens ruraux placés sous le régime des baux à long terme
-mentionnés au 2° de l'article 743 ;
+c ter) Les dépenses engagées pour la construction d'un nouveau bâtiment
+d'exploitation rurale, destiné à remplacer un bâtiment de même nature, vétuste
+ou inadapté aux techniques modernes de l'agriculture, à condition que la
+construction nouvelle n'entraîne pas une augmentation du fermage ;
 
-e) (disposition devenue sans objet : loi n° 83-1179 du 29 décembre 1983 art. 22
-III 1).
+c quater) Les dépenses d'amélioration afférentes aux propriétés non bâties et
+effectivement supportées par le propriétaire ;
+
+c quinquies) Les travaux de restauration et de gros entretien effectués sur des
+espaces naturels mentionnés aux articles L. 331-2, L. 332-2, L. 341-2 et L.
+414-1 du code de l'environnement et dans leurs textes d'application, ainsi que
+des espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, en vue de
+leur maintien en bon état écologique et paysager qui ont reçu l'accord préalable
+de l'autorité administrative compétente.
+
+d) (abrogé)
+
+e) (abrogé)
 
 II. (Transféré sous l'article 156 II 1° ter).

@@ -143,7 +143,10 @@ résultant de la contribution de l'employeur à l'acquisition par le salarié de
 titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
 comprise entre un minimum et un maximum fixés par arrêté du ministre de
-l'économie et des finances.
+l'économie et des finances. La limite d'exonération est relevée chaque année
+dans la même proportion que la limite supérieure de la première tranche du
+barème de l'impôt sur le revenu et arrondie, s'il y a lieu, au centime d'euro le
+plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée

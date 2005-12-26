@@ -7,7 +7,8 @@ mission de service public ou en vue de la réalisation d'une opération d'intér
 général relevant de sa compétence ou, jusqu'au 31 décembre 2007, liée aux
 besoins de la justice, de la police ou de la gendarmerie nationales ainsi que
 d'un établissement public de santé ou d'une structure de coopération sanitaire
-dotée de la personnalité morale publique.
+dotée de la personnalité morale publique ou, jusqu'au 31 décembre 2010, liée aux
+besoins d'un service départemental d'incendie et de secours.
 
 Un tel bail peut être conclu même si le bien sur lequel il porte, en raison
 notamment de l'affectation du bien résultant soit du bail ou d'une convention

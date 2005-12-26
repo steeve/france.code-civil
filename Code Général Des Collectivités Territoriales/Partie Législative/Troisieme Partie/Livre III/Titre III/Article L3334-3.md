@@ -20,7 +20,7 @@ A compter de 2005, la dotation forfaitaire de chaque département, à l'exceptio
 du département de Paris, est constituée d'une dotation de base et, le cas
 échéant, d'une garantie.
 
-En 2005, chaque département perçoit une dotation de base égale à 70 Euros par
+En 2005, chaque département perçoit une dotation de base égale à 70 euros par
 habitant. Il perçoit le cas échéant une garantie égale à la différence entre le
 montant qu'il aurait perçu en appliquant à sa dotation forfaitaire de 2004 un
 taux de progression égal à 60 % du taux de croissance de l'ensemble des
@@ -29,7 +29,7 @@ de base pour 2005, d'autre part.
 
 A compter de 2006, le montant de la dotation de base par habitant de chaque
 département et, le cas échéant, sa garantie, évoluent chaque année selon un taux
-de progression fixé par le comité des finances locales entre 60 % et 70 % du
+de progression fixé par le comité des finances locales entre 35 % et 70 % du
 taux de croissance de l'ensemble des ressources de la dotation globale de
 fonctionnement.
 

@@ -154,6 +154,12 @@ Les dispositions des premier et deuxième alinéas ne sont pas applicables si la
 soulte excède 10 p. 100 de la valeur nominale des parts ou actions reçues, ou si
 elle excède le profit réalisé.
 
+Ces dispositions s'appliquent au profit ou à la perte résultant de l'échange de
+titres consécutif à la fusion ou à la scission de sociétés de placement à
+prépondérance immobilière à capital variable mentionnées au 3° nonies de
+l'article 208 et de fonds de placement immobilier mentionnés à l'article 239
+nonies.
+
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution
 de contrats à terme d'instruments financiers en cours à la clôture de l'exercice
 est compris dans les résultats de cet exercice ; il est déterminé d'après le
@@ -203,14 +209,14 @@ déclaration de résultats de l'exercice. A défaut, la perte sur une position
 n'est pas déductible du résultat imposable.
 
 7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre
-d'une offre publique d'échange ou de la conversion d'obligations en actions,
-réalisée conformément à la réglementation en vigueur, est compris dans le
-résultat de l'exercice au cours duquel les actions reçues en échange sont
-cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de
-ces titres est déterminé par rapport à la valeur que les actions remises à
-l'échange ou les obligations converties avaient du point de vue fiscal ; le
-délai de deux ans mentionné à l'article 39 duodecies s'apprécie à compter de la
-date d'acquisition des actions remises à l'échange.
+d'une offre publique d'échange, de la conversion ou de l'échange d'obligations
+en actions, réalisé conformément à la réglementation en vigueur, est compris
+dans le résultat de l'exercice au cours duquel les actions reçues en échange
+sont cédées. Dans ce cas, le profit ou la perte résultant de la cession
+ultérieure de ces titres est déterminé par rapport à la valeur que les actions
+remises à l'échange ou les obligations converties ou échangées avaient du point
+de vue fiscal ; le délai de deux ans mentionné à l'article 39 duodecies
+s'apprécie à compter de la date d'acquisition des actions remises à l'échange.
 
 Toutefois, en cas d'échange ou de conversion avec soulte, la plus-value réalisée
 est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de
@@ -286,10 +292,12 @@ telle société.
 
 Les dispositions du présent article s'appliquent aux opérations d'échange
 portant sur des certificats d'investissement, des certificats coopératifs
-d'investissement, des certificats pétroliers, des certificats de droit de vote
-et des actions à dividende prioritaire sans droit de vote ainsi qu'à la
-conversion d'actions ordinaires en actions à dividende prioritaire sans droit de
-vote ou de ces dernières en actions ordinaires.
+d'investissement, des certificats pétroliers, des certificats de droit de vote,
+des actions à dividende prioritaire sans droit de vote et des actions de
+préférence, ainsi qu'à la conversion d'actions ordinaires en actions à dividende
+prioritaire sans droit de vote ou en actions de préférence, d'actions de
+préférence en actions de préférence d'une autre catégorie, d'actions à dividende
+prioritaire sans droit de vote ou d'actions de préférence en actions ordinaires.
 
 Les dispositions du présent 7 s'appliquent au remboursement, par la société
 émettrice, des porteurs d'obligations remboursables en actions, lorsque cette

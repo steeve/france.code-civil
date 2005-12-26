@@ -2,8 +2,8 @@ Article 266 octies
 ----
 La taxe mentionnée à l'article 266 sexies est assise sur :
 
-1. Le poids des déchets reçus par les exploitants mentionnés au 1 du I de
-l'article 266 sexies ;
+1. Le poids des déchets reçus ou transférés vers un autre Etat par les
+exploitants ou les personnes mentionnés au 1 du I de l'article 266 sexies ;
 
 2. Le poids des substances émises dans l'atmosphère par les installations
 mentionnées au 2 du I de l'article 266 sexies ;

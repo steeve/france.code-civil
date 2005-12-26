@@ -22,8 +22,7 @@ budget détermine les montants à verser ainsi que les dates de versement ;
 5° Une fraction égale à 65 % du produit des prélèvements visés aux articles L.
 245-14 à L. 245-16 ;
 
-6° Les versements du compte d'affectation institué par le II de l'article 36 de
-la loi de finances pour 2001 (n° 2000-1352 du 30 décembre 2000) ;
+6° Paragraphe abrogé
 
 7° Les sommes issues de l'application du titre IV du livre IV du code du travail
 et reçues en consignation par la Caisse des dépôts et consignations ou résultant

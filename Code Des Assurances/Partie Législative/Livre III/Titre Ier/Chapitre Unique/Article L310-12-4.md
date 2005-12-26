@@ -10,8 +10,8 @@ d'annulations de l'exercice et de tous les exercices antérieurs, auxquelles
 s'ajoute la variation, au cours du même exercice, du total des primes ou
 cotisations restant à émettre, nettes de cession.
 
-Le taux de la contribution, fixé par décret, est compris entre 0, 05 pour mille
-et 0, 15 pour mille. Ce même décret peut fixer un taux distinct pour les
+Le taux de la contribution, fixé par décret, est compris entre 0,05 pour mille
+et 0,15 pour mille. Ce même décret peut fixer un taux distinct pour les
 organismes régis par le livre III du code de la mutualité.
 
 La contribution est liquidée, ordonnancée et recouvrée selon les modalités
@@ -28,7 +28,7 @@ septembre.
 Lorsque ces sommes n'ont pas été versées aux dates limites d'exigibilité
 mentionnées au quatrième alinéa, la majoration et l'intérêt de retard mentionnés
 au 1 de l'article 1731 et à l'article 1727 du code général des impôts sont
-applicables aux sommes dont le versement a été différé.L'intérêt de retard est
+applicables aux sommes dont le versement a été différé. L'intérêt de retard est
 calculé à compter du premier jour du mois suivant celui au cours duquel la
 contribution devait être acquittée jusqu'au dernier jour du mois du paiement.
 
@@ -39,7 +39,7 @@ motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter d
 ce délai ses observations.
 
 Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle
-des dépenses engagées ne sont pas applicables à l'Autorité de contrôle.
+des dépenses engagées ne sont pas applicables à la commission de contrôle.
 
-Un décret en Conseil d'Etat fixe le régime comptable de l'Autorité de contrôle
-et les modalités d'application du présent article.
+Un décret en Conseil d'Etat fixe le régime comptable de la commission de
+contrôle et les modalités d'application du présent article.

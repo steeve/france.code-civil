@@ -41,9 +41,11 @@ Les haras.
 Sous réserve des dispositions du 9°, cette exonération n'est pas applicable aux
 immeubles qui appartiennent à des établissements publics autres que les
 établissements publics de coopération intercommunale, les syndicats mixtes, les
-ententes interdépartementales, les établissements scientifiques, d'enseignement
-et d'assistance, ni aux organismes de l'Etat, des départements ou des communes
-ayant un caractère industriel ou commercial.
+ententes interdépartementales, les établissements publics scientifiques,
+d'enseignement et d'assistance ainsi que les établissements visés aux articles
+12 et 13 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires
+relatives à la fonction publique territoriale, ni aux organismes de l'Etat, des
+départements ou des communes ayant un caractère industriel ou commercial.
 
 Les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des
 collectivités locales ou des établissements publics, en vertu d'une convention,

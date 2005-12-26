@@ -1,8 +1,8 @@
 Article 885 H
 ----
 Les exonérations prévues en matière de droits de mutation par décès par les
-articles 787 B et 787 C, le 1 et les 3°, 4°, 5° et 6° du 2 de l'article 793 et
-par les articles 795 A et 1135 bis ne sont pas applicables à l'impôt de
+articles 787 B et 787 C, le 1 et les 3°, 4°, 5°, 6° et 7° du 2 de l'article 793
+et par les articles 795 A et 1135 bis ne sont pas applicables à l'impôt de
 solidarité sur la fortune.
 
 Toutefois les dispositions du 3° du 1 du même article relatives aux parts

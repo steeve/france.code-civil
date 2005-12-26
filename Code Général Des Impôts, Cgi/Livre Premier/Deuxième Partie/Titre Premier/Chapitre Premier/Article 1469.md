@@ -50,10 +50,18 @@ Les entreprises concernées sont tenues de souscrire avant le 1er mai 1993 des
 déclarations rectificatives pour les impositions complémentaires à établir au
 titre de l'année 1993 ;
 
-3° bis Les biens visés aux 2° et 3°, utilisés par une personne qui n'en est ni
-propriétaire, ni locataire, ni sous-locataire, sont imposés au nom de leur
-sous-locataire ou, à défaut, de leur locataire ou, à défaut, de leur
-propriétaire dans le cas où ceux-ci sont passibles de taxe professionnelle ;
+3° bis Les biens mentionnés aux 2° et 3°, utilisés par une personne passible de
+la taxe professionnelle qui n'en est ni propriétaire, ni locataire, ni
+sous-locataire et confiés en contrepartie de l'exécution d'un travail par leur
+propriétaire, leur locataire ou leur sous-locataire sont imposés au nom de la
+personne qui les a confiés, dans le cas où elle est passible de la taxe
+professionnelle ;
+
+Les collectivités territoriales et leurs groupements dotés d'une fiscalité
+propre peuvent, par une délibération de portée générale prise dans les
+conditions prévues à l'article 1639 A bis, exonérer de taxe professionnelle les
+outillages utilisés par un sous-traitant industriel qui n'en est ni
+propriétaire, ni locataire, ni sous-locataire et imposés à son nom ;
 
 3° ter La valeur locative des matériels agricoles utilisés exclusivement à des
 travaux saisonniers effectués pour le compte d'exploitants agricoles est
@@ -62,7 +70,7 @@ fixée par arrêté du ministre chargé du budget ;
 
 3° quater Le prix de revient d'un bien cédé n'est pas modifié lorsque ce bien
 est rattaché au même établissement avant et après la cession et lorsque,
-directement ou indirectement (1):
+directement ou indirectement :
 
 a. l'entreprise cessionnaire contrôle l'entreprise cédante ou est contrôlée par
 elle ;

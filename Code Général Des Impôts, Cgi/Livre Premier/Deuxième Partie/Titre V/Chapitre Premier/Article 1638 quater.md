@@ -112,14 +112,21 @@ antérieures.
 
 III. Les dispositions des I et II sont également applicables dans les communes
 ou parties de communes qui sont incorporées dans une zone d'activités
-économiques où il est fait application des dispositions du II de l'article 1609
-quinquies C.
+économiques où il est fait application des dispositions de la première phrase du
+premier alinéa du II de l'article 1609 quinquies C. Ces dispositions sont
+également applicables en cas de rattachement d'une commune sur le territoire de
+laquelle sont implantées des installations de production d'électricité utilisant
+l'énergie mécanique du vent à un établissement public de coopération
+intercommunale faisant application de la deuxième phrase du premier alinéa du II
+du même article.
 
 Toutefois, le conseil municipal de la commune et l'organe délibérant de
 l'établissement public de coopération intercommunale peuvent décider, par
 délibérations concordantes, que le taux de taxe professionnelle appliqué dans la
-commune ou partie de commune incorporée dans la zone est, dès la première année,
-celui fixé par l'établissement public de coopération intercommunale.
+commune ou partie de commune incorporée dans la zone ou aux installations de
+production d'électricité utilisant l'énergie mécanique du vent est, dès la
+première année, celui fixé par l'établissement public de coopération
+intercommunale.
 
 IV. En cas de rattachement volontaire ou à la suite d'une transformation dans
 les conditions prévues à l'article L. 5211-41-1 du code général des

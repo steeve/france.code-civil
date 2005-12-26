@@ -11,7 +11,7 @@ des biens, services ou autres avantages directs ou indirects à des prix
 inférieurs à ceux qui sont habituellement pratiqués.
 
 Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit
-être versé par chèque.
+être versé par chèque, virement, prélèvement automatique ou carte bancaire.
 
 Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du
 montant des dépenses autorisées lorsque ce montant est égal ou supérieur à 15

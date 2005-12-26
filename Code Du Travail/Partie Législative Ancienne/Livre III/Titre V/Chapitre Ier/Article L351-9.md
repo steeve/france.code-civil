@@ -1,41 +1,23 @@
 Article L351-9
 ----
-Ont droit, dès lors qu'ils ne justifient pas de références de travail
-suffisantes pour être indemnisés en application de l'article L. 351-3 au-delà
-d'une durée définie, dans les conditions fixées par le décret prévu au présent
-article, à une allocation d'insertion qui est servie pendant une durée
-déterminée :
+I. - Peuvent bénéficier d'une allocation temporaire d'attente les ressortissants
+étrangers ayant atteint l'âge de dix-huit ans révolu dont le titre de séjour ou
+le récépissé de demande de titre de séjour mentionne qu'ils ont sollicité
+l'asile en France et qui ont présenté une demande tendant à bénéficier du statut
+de réfugié, s'ils satisfont à une condition de ressources.
 
-1° (dispositions abrogées)
+Ne peuvent prétendre à cette allocation les personnes qui proviennent soit d'un
+pays pour lequel le conseil d'administration de l'Office français de protection
+des réfugiés et apatrides a décidé la mise en oeuvre des stipulations du 5 du C
+de l'article 1er de la convention de Genève du 28 juillet 1951 relative au
+statut des réfugiés, soit d'un pays considéré comme un pays d'origine sûr, au
+sens du 2° de l'article L. 741-4 du code de l'entrée et du séjour des étrangers
+et du droit d'asile.
 
-2° (dispositions abrogées)
-
-3° Les détenus libérés à l'issue d'une période minimale de détention ; sont
-toutefois exclus du bénéfice de cette disposition ceux qui ont été libérés après
-exécution d'une peine privative de liberté prononcée pour infraction aux
-dispositions aux articles 222-34 à 222-39, 224-5, 224-6 et 225-5 à 225-10 du
-code pénal, sauf si, s'agissant des infractions prévues par les articles 222-34
-à 222-39 précités, celles-ci ont été commises pendant la minorité ainsi que ceux
-qui ont été condamnés à deux peines de réclusion criminelle ;
-
-4° Certaines catégories de personnes en attente de réinsertion ou en instance de
-reclassement par application de l'article L. 122-32-1 du code du travail et se
-trouvant, du fait de circonstances indépendantes de leur volonté, dans une
-situation les excluant du bénéfice de l'allocation d'assurance.
-
-Le droit à l'allocation d'insertion est subordonné :
-
-a) En ce qui concerne les personnes définies au 1°, à une condition relative
-soit à la formation acquise, soit à la situation de famille, soit à
-l'accomplissement des obligations du service national, soit encore à l'exercice
-d'une activité antérieure ;
-
-b) En ce qui concerne les personnes définies aux 2°, 3° et 4°, à une condition
-de ressources.
-
-Cette allocation est à la charge du fonds de solidarité créé par la loi n°
-82-939 du 4 novembre 1982.
-
-Un décret en Conseil d'Etat détermine les mesures d'application du présent
-article, à l'exception du taux de cette allocation, qui est révisé une fois par
-an en fonction de l'évolution des prix et est fixé par décret.
+II. - Peuvent également bénéficier de l'allocation les ressortissants étrangers
+bénéficiaires de la protection temporaire, dans les conditions prévues au titre
+Ier du livre VIII du code de l'entrée et du séjour des étrangers et du droit
+d'asile, les ressortissants étrangers bénéficiaires de la protection
+subsidiaire, les ressortissants étrangers auxquels une autorisation provisoire
+de séjour a été délivrée en application de l'article L. 316-1 du même code,
+ainsi que certaines catégories de personnes en attente de réinsertion.

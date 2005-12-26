@@ -3,8 +3,8 @@ Article 244 quater H
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 octies et 44
 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses
-de prospection commerciale afin d'exporter en dehors de l'Espace économique
-européen des services, des biens et des marchandises.
+de prospection commerciale afin d'exporter des services, des biens et des
+marchandises.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires
@@ -39,16 +39,19 @@ II. - Les dépenses ouvrant droit au crédit d'impôt sont, à condition qu'elle
 soient déductibles du résultat imposable :
 
 a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection
-commerciale en vue d'exporter en dehors de l'Espace économique européen ;
+commerciale en vue d'exporter ;
 
 b. Les dépenses visant à réunir des informations sur les marchés et les clients
-situés en dehors de l'Espace économique européen ;
+;
 
-c. Les dépenses de participation à des salons et à des foires-expositions en
-dehors de l'Espace économique européen ;
+c. Les dépenses de participation à des salons et à des foires-expositions ;
 
 d. Les dépenses visant à faire connaître les produits et services de
-l'entreprise en vue d'exporter en dehors de l'Espace économique européen.
+l'entreprise en vue d'exporter ;
+
+e) Les indemnités mensuelles et les prestations mentionnées à l'article L.
+122-12 du code du service national lorsque l'entreprise a recours à un
+volontaire international en entreprise comme indiqué au III.
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice
 clos au cours desquels des dépenses éligibles ont été exposées, est égal à 50 %

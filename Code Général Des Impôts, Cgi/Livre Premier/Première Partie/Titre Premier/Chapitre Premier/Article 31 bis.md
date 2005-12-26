@@ -22,8 +22,8 @@ L'associé doit s'engager à conserver la totalité de ses titres jusqu'à
 l'expiration de l'engagement souscrit par la société. Le produit de la
 souscription annuelle doit être intégralement investi dans les dix-huit mois qui
 suivent la clôture de celle-ci. La société ne peut pas bénéficier de la
-déduction forfaitaire majorée au taux de 40 % ou de 60 % durant la période
-couverte par l'engagement de location.
+déduction prévue au j du 1° du I de l'article 31 durant la période couverte par
+l'engagement de location.
 
 Tant que la condition de loyer prévue au troisième alinéa du h du 1° du I de
 l'article 31 reste remplie, l'associé peut, par période de trois ans et pendant

@@ -55,3 +55,13 @@ d'étiquettes adhésives est autorisée.
 
 V. - L'ensemble des exigences mentionnées au présent article doit être respecté
 lors de l'impression et du stockage du passeport phytosanitaire.
+
+VI. - Par dérogation aux I à V du présent article, le ministre chargé de
+l'agriculture peut autoriser pour certaines espèces végétales l'utilisation
+d'une étiquette officielle spécifique en remplacement du passeport
+phytosanitaire, conformément aux dispositions de la directive 92/105/CEE de la
+Commission, du 3 décembre 1992, établissant une certaine normalisation des
+passeports phytosanitaires à utiliser pour les mouvements de certains végétaux,
+produits végétaux ou autres objets à l'intérieur de la Communauté et fixant les
+modalités relatives à la délivrance de tels passeports phytosanitaires, ainsi
+que les conditions et modalités de leur remplacement.

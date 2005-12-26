@@ -13,6 +13,6 @@ bis en vigueur avant la date de promulgation de la loi de finances pour 2004 (n�
 l'échange, diminué de la soulte reçue ou majoré de la soulte versée lors de
 l'échange.
 
-La même règle est applicable dans le cas où la société rachète a u cours de son
-existence les droits de certains associés, actionnaires ou porteurs de parts
-bénéficiaires.
+Les dispositions de la première phrase du premier alinéa sont applicables dans
+le cas où la société rachète au cours de son existence les droits de certains
+associés, actionnaires ou porteurs de parts bénéficiaires.

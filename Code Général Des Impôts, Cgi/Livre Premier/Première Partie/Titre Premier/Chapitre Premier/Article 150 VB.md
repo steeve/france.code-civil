@@ -32,7 +32,8 @@ l'article 683 ;
 
 3° Des frais afférents à l'acquisition à titre onéreux définis par décret, que
 le cédant peut fixer forfaitairement à 7,5 % du prix d'acquisition dans le cas
-des immeubles ;
+des immeubles à l'exception de ceux détenus directement ou indirectement par un
+fonds de placement immobilier mentionné à l'article 239 nonies ;
 
 4° Des dépenses de construction, de reconstruction, d'agrandissement ou
 d'amélioration, supportées par le vendeur et réalisées par une entreprise depuis
@@ -41,7 +42,10 @@ lorsqu'elles n'ont pas été déjà prises en compte pour la détermination de
 l'impôt sur le revenu et qu'elles ne présentent pas le caractère de dépenses
 locatives. Lorsque le contribuable, qui cède un immeuble bâti plus de cinq ans
 après son acquisition, n'est pas en état d'apporter la justification de ces
-dépenses, une majoration égale à 15 % du prix d'acquisition est pratiquée ;
+dépenses, une majoration égale à 15 % du prix d'acquisition est pratiquée. Cette
+majoration n'est pas applicable aux cessions d'immeubles détenus directement ou
+indirectement par un fonds de placement immobilier mentionné à l'article 239
+nonies ;
 
 5° Des frais de voirie, réseaux et distribution en ce qui concerne les terrains
 à bâtir ;

@@ -11,9 +11,16 @@ dans ce cas, se prévaloir de la règle du secret.
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
 L'administration fiscale est tenue de transmettre, chaque année, aux
-collectivités locales et à leurs groupements dotés d'une fiscalité propre les
-rôles généraux des impôts directs locaux comportant les impositions émises à
-leur profit.
+collectivités locales et à leurs groupements dotés d'une fiscalité propre :
+
+a) Les rôles généraux des impôts directs locaux comportant les impositions
+émises à leur profit et, à leur demande, les montants des rôles supplémentaires
+lorsqu'ils sont d'un montant supérieur à un seuil fixé par arrêté du ministre
+chargé du budget ;
+
+b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements
+dont les contribuables de la collectivité ont bénéficié, à l'exception de ceux
+accordés en application de l'article L. 190.
 
 Elle est également tenue de leur transmettre, à leur demande, la liste des
 logements vacants recensés l'année précédente pour l'établissement de la taxe
@@ -23,9 +30,10 @@ de son propriétaire et, le cas échéant, l'année à partir de laquelle le loc
 été soumis à la taxe sur les locaux vacants et le taux d'imposition à cette
 taxe.
 
-Les communes et l'administration peuvent se communiquer mutuellement les
-informations nécessaires au recensement des bases des impositions directes
-locales.
+Les collectivités locales, les établissements publics de coopération
+intercommunale dotés d'une fiscalité propre et l'administration fiscale peuvent
+se communiquer mutuellement les informations nécessaires au recensement des
+bases des impositions directes locales.
 
 Les informations transmises aux collectivités locales et à leurs groupements
 dotés d'une fiscalité propre sont couvertes par le secret professionnel, et

@@ -7,10 +7,10 @@ est soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés.
 
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984
-relative à l'activité et au contrôle des établissements de crédit ainsi que les
-services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne
-peuvent être facturés aux personnes physiques concernées.
+relative à l'activité et au contrôle des établissements de crédit sont tenus de
+déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les
+frais afférents à cette déclaration ne peuvent être facturés aux personnes
+physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur
 en application du premier alinéa de l'article L. 331-3, elle en informe la
@@ -45,9 +45,8 @@ La Banque de France est déliée du secret professionnel pour la diffusion, aux
 établissements de crédit et aux services financiers susvisés, des informations
 nominatives contenues dans le fichier.
 
-Il est interdit à la Banque de France, aux établissements de crédit et aux
-services financiers de La Poste de remettre à quiconque copie, sous quelque
-forme que ce soit, des informations contenues dans le fichier, même à
-l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la
-loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux
-articles 43 et 44 de la même loi.
+Il est interdit à la Banque de France et aux établissements de crédit de
+remettre à quiconque copie, sous quelque forme que ce soit, des informations
+contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès
+conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous
+peine des sanctions prévues aux articles 226-22 et 226-21 du code pénal.

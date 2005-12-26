@@ -19,9 +19,16 @@ Sont également exonérées les livraisons de gaz destiné à être utilisé :
 a) Comme matière première ;
 
 b) Comme combustible pour la fabrication sous le régime de l'usine exercée des
-huiles minérales visées aux tableaux B et C de l'article 265.
+huiles minérales visées aux tableaux B et C de l'article 265 ;
+
+c) Comme combustible pour la production d'électricité, à compter du 1er janvier
+2006 et à l'exclusion des livraisons de gaz destiné à être utilisé dans les
+installations visées à l'article 266 quinquies A.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après
 arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.
+5. Le tarif de la taxe est fixé à 1,19 euro par millier de kilowattheures.
+
+6. Le produit de la taxe est affecté à l'Agence de l'environnement et de la
+maîtrise de l'énergie.
