@@ -1,13 +1,13 @@
 Article R20-55
 ----
 Lorsqu'il demande l'institution de la servitude prévue à l'article L. 45-1,
-l'opérateur autorisé en vertu de l'article L. 33-1 adresse au maire de la
-commune dans laquelle est située la propriété sur laquelle il envisage d'établir
-l'ouvrage, en autant d'exemplaires qu'il y a de propriétaires ou, en cas de
-copropriété, de syndics concernés plus trois, un dossier indiquant :
+l'exploitant de réseau ouvert au public adresse au maire de la commune dans
+laquelle est située la propriété sur laquelle il envisage d'établir l'ouvrage,
+en autant d'exemplaires qu'il y a de propriétaires ou, en cas de copropriété, de
+syndics concernés plus trois, un dossier indiquant :
 
 1° La localisation cadastrale de l'immeuble, du groupe d'immeubles ou de la
-propriété non bâtie, accompagnée de la liste des propriétaires concernés ;
+propriété, accompagnée de la liste des propriétaires concernés ;
 
 2° Les motifs qui justifient le recours à la servitude ;
 

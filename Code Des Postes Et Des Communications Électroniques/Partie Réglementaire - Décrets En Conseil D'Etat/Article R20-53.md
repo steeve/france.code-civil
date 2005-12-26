@@ -1,7 +1,5 @@
 Article R20-53
 ----
-La barème figurant à l'article précédent est un barème maximum. Il s'applique en
-l'absence de détermination de montants inférieurs par le ministre chargé du
-domaine pour les redevances dues à raison de l'occupation du domaine public de
-l'Etat et par l'organe délibérant des collectivités territoriales pour les
-redevances dues à raison de l'occupation de leur domaine public.
+Les montants figurant à l'article précédent sont révisés au 1er janvier de
+chaque année, par application de la moyenne des quatre dernières valeurs
+trimestrielles de l'index général relatif aux travaux publics.

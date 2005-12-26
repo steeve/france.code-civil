@@ -1,6 +1,6 @@
 Article R20-58
 ----
-Dans le mois suivant l'expiration du délai mentionné au deuxième alinéa de
+Dans le mois suivant l'expiration du délai mentionné au cinquième alinéa de
 l'article L. 48 du code des postes et des communications électroniques, qui ne
 peut être supérieur à quatre mois, et au vu des observations qui ont été
 présentées, le maire agissant au nom de l'Etat institue la servitude. Cet arrêté
