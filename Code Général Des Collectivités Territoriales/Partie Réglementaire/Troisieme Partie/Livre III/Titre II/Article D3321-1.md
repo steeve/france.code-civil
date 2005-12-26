@@ -53,12 +53,3 @@ départemental et ne peut être modifiée au cours d'un même exercice budgétai
 L'assemblée délibérante peut charger l'ordonnateur de déterminer la durée
 d'amortissement d'un bien à l'intérieur de durées minimales et maximales qu'elle
 a fixées pour la catégorie à laquelle appartient ce bien.
-
-Pour l'application du 1° de l'article R. 3313-7, l'état des biens meubles et
-immeubles annexé aux documents budgétaires indique, pour les biens amortis y
-compris ceux cédés, affectés, reçus à disposition, réformés ou détruits, la
-durée d'amortissement, le coût historique, la valeur nette comptable, les
-amortissements antérieurs et l'amortissement de l'exercice.
-
-L'état joint au compte administratif doit correspondre aux données figurant dans
-le compte de gestion du comptable.

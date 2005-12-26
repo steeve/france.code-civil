@@ -1,5 +1,6 @@
 Article D2311-2
 ----
-Les nomenclatures par nature et la nomenclature fonctionnelle visées à l'article
-R. 2311-1 sont fixées par arrêté conjoint du ministre chargé des collectivités
-locales et du ministre chargé du budget.
+La nomenclature par nature et la nomenclature par fonction ainsi que la
+présentation des documents budgétaires visées à l'article L. 2312-3 sont fixées
+par arrêté conjoint du ministre chargé des collectivités locales et du ministre
+chargé du budget.

@@ -6,8 +6,10 @@ a) Section d'investissement :
 
 - à chacun des comptes à deux chiffres des classes 1 et 2 ouverts à la
 nomenclature par nature, à l'exception des comptes "Report à nouveau", "Résultat
-de l'exercice", "Provisions pour risques et charges", "Provisions pour
-dépréciation des immobilisations" ;
+de l'exercice", "Provisions pour risques et charges", "Différences sur
+réalisations d'immobilisations", "Immobilisations affectées, concédées,
+affermées ou mises à disposition", "Amortissements des immobilisations",
+"Provisions pour dépréciation des immobilisations".
 
 - à chacun des chapitres globalisés dont la liste et la composition sont fixées
 par l'arrêté prévu à l'article L. 3312-2 ;
@@ -24,15 +26,15 @@ relatives au revenu minimum d'insertion ;
 - à chacune des opérations pour le compte de tiers, dont la liste et les
 subdivisions sont déterminées par l'arrêté prévu à l'article L. 3312-2 ;
 
-- au compte "Charges à répartir sur plusieurs exercices" ;
-
 - au compte "Subventions d'équipement versées" ;
 
 - en dépenses, à la ligne intitulée "Dépenses imprévues" ;
 
-- en recettes, à la ligne intitulée "Virement de la section de fonctionnement.
+- en recettes, à la ligne intitulée "Virement de la section de fonctionnement".
 
-Ces deux derniers chapitres ne comportent que des prévisions sans réalisation.
+- en recettes, à la ligne intitulée "Produits des cessions d'immobilisations" ;
+
+Ces trois derniers chapitres ne comportent que des prévisions sans réalisation.
 
 b) Section de fonctionnement :
 
