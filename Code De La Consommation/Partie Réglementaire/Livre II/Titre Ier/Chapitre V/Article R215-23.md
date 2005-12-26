@@ -1,22 +1,20 @@
 Article R215-23
 ----
-En matière de contrôle bactériologique ou de pureté biologique, dans le cas où
-il ressort du rapport du laboratoire que le produit, bien que non conforme aux
-caractéristiques auxquelles il doit répondre, n'est pas toxique, le préfet fait
-remettre, dans le plus bref délai au propriétaire ou au détenteur du produit,
-par la direction de la concurrence, de la consommation et de la répression des
-fraudes, une copie du rapport du laboratoire. Il l'invite à prendre toutes
-mesures nécessaires pour remédier à la non-conformité et lui fait savoir qu'un
-second prélèvement sera effectué ultérieurement sur son produit. Un délai de
-huit jours au minimum et d'un mois au maximum doit s'écouler entre la
-notification de ces observations et le second prélèvement.
+En matière de contrôle bactériologique, le service dont relève l'agent
+verbalisateur adresse, dans les plus brefs délais, au détenteur des produits une
+copie du rapport du laboratoire, dans le cas où il ressort de ce rapport que le
+produit, bien que non conforme à la réglementation à laquelle il doit répondre,
+n'est pas toxique. Il invite le détenteur du produit à prendre toutes mesures
+nécessaires pour remédier à la non-conformité et lui fait savoir qu'un second
+prélèvement sera effectué ultérieurement sur ce produit. Un délai de huit jours
+au minimum et de trois mois au maximum doit s'écouler entre la notification de
+ces observations et le second prélèvement.
 
 Si l'analyse effectuée à la suite de ce second prélèvement révèle de nouveau une
-non-conformité de l'échantillon aux prescriptions réglementaires, le préfet
-transmet au procureur de la République le dossier comportant notamment les deux
-procès-verbaux de prélèvement et les deux rapports du laboratoire, ainsi que
-toutes les informations recueillies par la direction de la concurrence, de la
-consommation et de la répression des fraudes.
+non-conformité du produit aux prescriptions réglementaires, le dossier qui
+comporte notamment les deux procès-verbaux de prélèvement et les deux rapports
+du laboratoire est transmis au procureur de la République, ainsi que toutes les
+informations recueillies par l'agent verbalisateur.
 
 Le propriétaire ou le détenteur du produit est avisé par le procureur de la
 République qu'il peut prendre communication du dossier, qu'un troisième

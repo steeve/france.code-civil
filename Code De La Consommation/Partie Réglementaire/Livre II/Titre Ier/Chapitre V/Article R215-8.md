@@ -14,7 +14,6 @@ noms et adresses des expéditeurs et destinataires ;
 
 4° Le numéro d'ordre du prélèvement ;
 
-5° Le numéro sous lequel les échantillons sont enregistrés au moment de leur
-réception par le service administratif ;
+5° Le numéro d'identification attribué par le service administratif ;
 
 6° La signature de l'agent verbalisateur.

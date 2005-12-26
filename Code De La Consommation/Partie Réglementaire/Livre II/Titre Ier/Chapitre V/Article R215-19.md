@@ -1,14 +1,12 @@
 Article R215-19
 ----
-Pour l'examen des échantillons, les laboratoires doivent employer les méthodes
-indiquées par la commission visée à l'article R. 551-1, lorsqu'elles existent.
+Pour l'examen des échantillons, les laboratoires emploient les méthodes
+d'analyse ou d'essais définies à l'article 11 du règlement (CE) n° 882/2004 du
+Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles
+officiels effectués pour s'assurer de la conformité avec la législation sur les
+aliments pour animaux et les denrées alimentaires et avec les dispositions
+relatives à la santé animale et au bien-être des animaux. Le ministre chargé de
+l'économie peut fixer par arrêté les méthodes d'analyse ou d'essais et
+d'échantillonnage.
 
-Ces méthodes sont décrites en détail par des arrêtés du ministre chargé de
-l'économie et des finances ou, s'il s'agit de laboratoires d'Etat relevant d'un
-autre ministre, par des arrêtés conjoints du ministre chargé de l'économie et
-des finances et du ministre compétent, pris sur avis de cette commission.
-
-Les laboratoires peuvent toutefois employer d'autres méthodes en complément et
-leurs directeurs peuvent se faire assister de tout spécialiste de leur choix.
-
-Les analyses sont à la fois d'ordre qualitatif et quantitatif.
+Les laboratoires peuvent se faire assister de tout spécialiste de leur choix.
