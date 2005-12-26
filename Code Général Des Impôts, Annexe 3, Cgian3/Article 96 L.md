@@ -42,60 +42,52 @@ application du 1 de l'article 272 du code général des impôts.
 Le nombre et la nature des autres informations portées sur la déclaration
 dépendent de la nature des flux précisés à l'article 96 J et du montant des
 échanges par rapport aux seuils statistiques définis à l'article 28 du règlement
-C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes (1) :
+C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes :
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires
-est supérieur au seuil d'assimilation (2) :
+est supérieur au seuil d'assimilation :
 
 1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont
 ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus
 par arrêté du ministre chargé des douanes, la codification plus détaillée
 spécifiée dans cet arrêté doit être utilisée ;
 
-2° La valeur fiscale en euros des introductions/expéditions de biens ;
+2° La valeur en euros des introductions/expéditions de biens ;
 
-3° L'Etat membre de provenance ou de destination des produits ;
-
-4° La valeur statistique en euros déterminée selon les modalités prévues à
-l'article 12 du règlement C.E.E. n° 3046-92 du 22 octobre 1992 dès lors que la
-valeur fiscale n'est pas exigée.
+3° L'Etat membre de provenance ou de destination des produits.
 
 Ces opérateurs ont la possibilité de mentionner au maximum dix des
 sous-positions de la nomenclature combinée des produits les plus importantes en
 valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous
 une position unique de la nomenclature combinée fixée par arrêté du ministre
-chargé des douanes (3).
+chargé des douanes.
 
 b) De plus, pour les opérateurs dont le montant annuel des échanges
-intracommunautaires est supérieur au seuil de simplification (4) :
+intracommunautaires est supérieur au seuil de simplification :
 
 1° Le pays d'origine des produits, à l'introduction ;
 
 2° La masse nette de la marchandise et, le cas échéant, les unités
 supplémentaires ;
 
-3° La nature de la transaction ;
+3° La nature de la transaction.
 
 c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b
 dont le montant annuel des échanges intracommunautaires excède un seuil fixé par
-arrêté (5) :
+arrêté :
 
-1° La valeur statistique en euros ;
+1° Le mode de transport ;
 
-2° Les conditions de livraison ;
-
-3° Le mode de transport ;
-
-4° Le département d'expédition initiale ou de destination du produit.
+2° Le département d'expédition initiale ou de destination des produits.
 
 d) Les opérateurs ont la possibilité de regrouper, sous une position unique de
-la nomenclature combinée (3), les transactions dont le montant en valeur est
-inférieur à un seuil fixé par arrêté du ministre chargé des douanes (6). Dans ce
+la nomenclature combinée, les transactions dont le montant en valeur est
+inférieur à un seuil fixé par arrêté du ministre chargé des douanes. Dans ce
 cas, les informations visées aux b et c ne sont pas renseignées.
 
 Pour les opérateurs visés aux b et c, le montant total repris sous cette
 position unique de la nomenclature combinée ne peut cependant pas excéder une
-valeur fixée par arrêté du ministre chargé des douanes (7).
+valeur fixée par arrêté du ministre chargé des douanes.
 
 e) Les opérateurs visés aux a et b peuvent se dispenser de la mention du régime
 pour les opérations n'impliquant pas l'indication du numéro d'identification à
