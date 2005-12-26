@@ -21,7 +21,8 @@ les ratios suivants :
 
 7° Dépenses de personnel/dépenses réelles de fonctionnement ;
 
-8° Coefficient de mobilisation du potentiel fiscal ;
+8° Coefficient de mobilisation du potentiel fiscal et, le cas échéant,
+coefficient de mobilisation du potentiel fiscal élargi ;
 
 9° Dépenses réelles de fonctionnement et remboursement annuel de la dette en
 capital/recettes réelles de fonctionnement ;

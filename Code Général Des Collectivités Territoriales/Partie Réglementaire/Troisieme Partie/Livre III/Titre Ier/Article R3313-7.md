@@ -1,33 +1,39 @@
 Article R3313-7
 ----
-Outre les annexes prévues aux articles R. 3313-1 à R. 3313-6, les documents
-budgétaires sont assortis en annexe :
+Les états annexés aux documents budgétaires en application de l'article L.
+3312-2 sont les suivants :
 
-1° D'une présentation de l'état des immobilisations amortissables ;
+I. - Etats annexés au budget et au compte administratif :
 
-2° D'un récapitulatif des acquisitions et cessions d'immobilisations ;
+1° Tableaux récapitulant l'état des emprunts et dettes ;
 
-3° De tableaux récapitulant l'état des emprunts et dettes du département ;
+2° Présentation de l'état des provisions ;
 
-4° D'une présentation des opérations d'ordre budgétaire affectant à la fois la
-section d'investissement et la section de fonctionnement ;
+3° Présentation des méthodes utilisées pour les amortissements ;
 
-5° D'une présentation des engagements donnés et reçus par le département ;
+4° Présentation de l'équilibre des opérations financières ;
 
-6° D'une situation des autorisations de programme ainsi que des crédits de
-paiement y afférents ;
+5° Présentation de l'état des charges transférées en investissement ;
 
-7° D'une situation des autorisations d'engagement et des crédits de paiement y
-afférents ;
+6° Présentation du mode de financement des opérations pour le compte de tiers ;
 
-8° D'une présentation de l'état des provisions constituées ;
+7° Présentation des engagements donnés et reçus ;
 
-9° D'une présentation de l'état des charges transférées en investissement ;
+8° Présentation de l'emploi des recettes grevées d'une affectation spéciale ;
 
-10° D'une présentation de l'emploi des recettes grevées d'une affectation
-spéciale ;
+9° Etat du personnel ;
 
-11° D'une présentation du mode de financement des opérations pour le compte de
-tiers ;
+10° Liste des organismes de regroupement dont le département est membre ;
 
-12° D'un état du personnel du département.
+11° Liste des établissements ou services créés par le département ;
+
+12° Tableau retraçant les décisions en matière de taux des contributions
+directes.
+
+II. - Etats annexés au seul compte administratif :
+
+1° Etat de variation des immobilisations ;
+
+2° Etat présentant le montant de recettes et de dépenses affectées aux services
+assujettis à la taxe sur la valeur ajoutée qui ne font pas l'objet d'un budget
+distinct du budget général.

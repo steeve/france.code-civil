@@ -1,8 +1,6 @@
 Article R5211-18
 ----
-Pour l'application du 5° du troisième alinéa de l'article L. 2313-1, le bilan
-est certifié par un commissaire aux comptes pour les organismes soumis à
-l'obligation de certification des comptes. Pour les organismes non soumis à
-l'obligation de certification des comptes, le bilan est certifié par le
-président de l'organisme concerné. Ces documents sont joints au compte
-administratif de l'établissement public de coopération intercommunale.
+Les comptes certifiés mentionnés à l'article L. 2313-1-1 le sont par un
+commissaire aux comptes pour les organismes soumis à l'obligation de
+certification des comptes et par le président de l'organisme en cause pour les
+organismes non soumis à une telle obligation.

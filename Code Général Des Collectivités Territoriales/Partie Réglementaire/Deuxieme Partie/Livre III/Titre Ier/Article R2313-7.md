@@ -11,8 +11,8 @@ budgétaires sont assortis en annexe, des données synthétiques suivantes :
 
 3° Annuité de la dette rapportée aux recettes réelles de fonctionnement.
 
-Les dépenses réelles et les recettes réelles de fonctionnement sont celles qui
-donnent lieu à décaissement ou encaissement effectif.
+Les dépenses réelles et les recettes réelles de fonctionnement sont celles
+définies à l'article R. 2313-2.
 
 L'annuité de la dette comprend le capital à rembourser dans l'exercice, augmenté
 des intérêts et charges financières.
