@@ -38,4 +38,7 @@ départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la
 Seine-Saint-Denis ;
 
 7° Les circonscriptions de sécurité publique dont la compétence couvre un
-département ainsi qu'une partie d'un ou plusieurs départements limitrophes.
+département ainsi qu'une partie d'un ou plusieurs départements limitrophes ;
+
+8° Les services interdépartementaux de sécurisation des réseaux de transports en
+commun de voyageurs.

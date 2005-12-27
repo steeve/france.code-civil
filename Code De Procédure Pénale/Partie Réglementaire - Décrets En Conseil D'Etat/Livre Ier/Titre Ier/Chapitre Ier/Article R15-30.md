@@ -1,14 +1,17 @@
 Article R15-30
 ----
 Les officiers et agents de police judiciaire appartenant aux sûretés
-départementales de sécurité publique ou aux services de police urbaine des
-circonscriptions de sécurité publique sont compétents pour opérer sur l'ensemble
-des lignes, stations, gares, arrêts et couloirs affectés aux transports
-collectifs de voyageurs dans leur département d'affectation et dans les
-départements limitrophes.
+départementales ou aux circonscriptions de sécurité publique sont compétents sur
+l'ensemble des réseaux, lignes, stations, gares, arrêts et couloirs affectés aux
+transports collectifs de voyageurs dans leur département d'affectation et dans
+les départements limitrophes.
 
-Toutefois, les officiers et agents de police judiciaire affectés au service de
-police déconcentré chargé, en coordination avec les exploitants, de la sécurité
-des personnes et des biens sur les réseaux de transport en commun de voyageurs
-par voie ferrée sont compétents pour opérer sur toute l'étendue de la région
-d'Ile-de-France.
+Toutefois, ceux affectés dans un service interdépartemental de sécurisation des
+réseaux de transport en commun de voyageurs sont compétents dans l'ensemble des
+départements couverts par ce service ainsi que dans les départements limitrophes
+du département de rattachement de ce dernier.
+
+Les officiers et agents de police judiciaire affectés au service de police
+intervenant sur les réseaux de transport en commun de voyageurs par voie ferrée
+de la région d'Ile-de-France sont compétents sur toute l'étendue de cette
+région.
