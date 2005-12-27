@@ -12,5 +12,7 @@ du I de l'article 163 octodecies A du code général des impôts ou au troisièm
 alinéa, en cas d'exercice de l'option prévue à cet alinéa, accompagnée, le cas
 échéant, de la copie d'un extrait du jugement mentionné au premier alinéa du II
 bis du même article, soit la copie de l'une des formalités assurant la publicité
-de ces jugements dans les conditions prévues à l'article 21 du décret n° 85-1388
-du 27 décembre 1985.
+de ces jugements dans les conditions prévues à l'article 63 du décret n°
+2005-1677 du 28 décembre 2005 dont les dispositions sont applicables aux
+procédures de redressement judiciaire en vertu de l'article 176 de ce même
+décret.
