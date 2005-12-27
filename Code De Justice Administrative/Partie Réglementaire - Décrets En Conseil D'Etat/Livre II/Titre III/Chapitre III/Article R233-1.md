@@ -25,5 +25,5 @@ conditions et limites, lorsque l'augmentation de traitement consécutive à leur
 nomination est inférieure à celle résultant d'un avancement à ce dernier
 échelon.
 
-Ceux qui ont été recrutés par la voie du troisième concours sont placés au 6e
+Ceux qui ont été recrutés par la voie du troisième concours sont placés au 7e
 échelon du grade de conseiller.
