@@ -10,10 +10,10 @@ Le relevé de forclusion est demandé au président de la juridiction compétent
 pour connaître de l'opposition ou de l'appel. Le président est saisi comme en
 matière de référé.
 
-La demande n'est recevable que si elle est formée dans un délai raisonnable à
-partir du moment où le défendeur a eu connaissance de la décision, sans jamais
-pouvoir l'être plus d'un an après la notification de celle-ci ; ce délai n'est
-pas suspensif d'exécution.
+La demande est recevable jusqu'à l'expiration d'un délai de deux mois suivant le
+premier acte signifié à personne ou, à défaut, suivant la première mesure
+d'exécution ayant pour effet de rendre indisponibles en tout ou partie les biens
+du débiteur.
 
 Le président se prononce sans recours.
 

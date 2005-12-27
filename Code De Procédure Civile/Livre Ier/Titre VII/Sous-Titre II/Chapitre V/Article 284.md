@@ -13,4 +13,4 @@ Lorsque le juge envisage de fixer la rémunération de l'expert à un montant
 inférieur au montant demandé, il doit au préalable inviter l'expert à formuler
 ses observations.
 
-Le juge délivre à l'expert, sur sa demande, un titre exécutoire.
+Le juge délivre à l'expert un titre exécutoire.

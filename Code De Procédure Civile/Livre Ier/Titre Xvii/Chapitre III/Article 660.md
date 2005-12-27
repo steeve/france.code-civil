@@ -1,15 +1,11 @@
 Article 660
 ----
-Si l'acte est destiné à une personne qui demeure dans un territoire d'outre-mer,
-la signification est faite au parquet.
+Si l'acte est destiné à une personne qui demeure dans une collectivité
+d'outre-mer ou en Nouvelle-Calédonie, et à moins que la signification ait pu
+être faite à personne, l'huissier de justice expédie l'acte à l'autorité
+compétente aux fins de sa remise à l'intéressé selon les modalités applicables
+dans la collectivité où il demeure.
 
-Le procureur vise l'original et envoie la copie au chef du service judiciaire
-local pour que celle-ci soit remise à l'intéressé selon les modalités
-applicables dans le territoire où il demeure.
-
-L'huissier de justice doit, le jour même de la signification faite au parquet
-ou, au plus tard, le premier jour ouvrable, expédier au destinataire, par lettre
-recommandée, la copie certifiée conforme de l'acte.
-
-Les dispositions du présent article ne sont pas applicables si la signification
-a pu être faite à personne.
+L'huissier de justice doit, le jour même ou, au plus tard, le premier jour
+ouvrable suivant, expédier au destinataire, par lettre recommandée avec demande
+d'avis de réception, la copie certifiée conforme de l'acte.

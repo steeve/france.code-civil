@@ -1,7 +1,10 @@
 Article 670-2
 ----
-La notification faite par le secrétaire d'une juridiction à une personne qui
-demeure dans un territoire d'outre-mer l'est par la remise ou par la
-transmission de l'acte de notification au parquet.
+Si l'acte est destiné à une personne qui demeure dans une collectivité
+d'outre-mer ou en Nouvelle-Calédonie, le secrétaire de la juridiction expédie
+l'acte à l'autorité compétente aux fins de sa remise à l'intéressé selon les
+modalités applicables dans la collectivité où il demeure.
 
-Le procureur procède alors comme en matière de signification au parquet.
+L'autorité compétente informe la juridiction des diligences faites ; elle lui
+transmet, le cas échéant, tout procès-verbal ou récépissé constatant la remise
+de l'acte.

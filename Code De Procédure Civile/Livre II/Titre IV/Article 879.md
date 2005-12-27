@@ -95,9 +95,10 @@ Art. R. 516-9
 La demande est formée au secrétariat du conseil de prud'hommes. Elle peut lui
 être adressée par lettre recommandée.
 
-Elle doit indiquer les nom, profession et adresse des parties ainsi que ses
-différents chefs. Le greffe délivre ou envoie immédiatement un récépissé au
-demandeur.
+Outre les mentions prescrites par l'article 58 du nouveau code de procédure
+civile, la demande mentionne, en cas de pluralité de chefs de demande,
+l'indication de chacun d'eux. Le greffe délivre ou envoie immédiatement un
+récépissé au demandeur.
 
 Ce récépissé, ou un document qui lui est joint, reproduit les dispositions des
 articles R. 516-4, R. 516-5 et R. 516-13 à R. 516-20-1.
@@ -173,7 +174,7 @@ convoqué à une prochaine séance soit par lettre recommandée du greffe avec
 demande d'avis de réception, soit par acte d'huissier de justice à la diligence
 du demandeur. Cet acte doit intervenir dans les six mois de la décision du
 bureau de conciliation à peine de caducité de la demande constatée par ce
-bureau."
+bureau.
 
 Art. R. 516-18
 
@@ -187,7 +188,7 @@ légalement de délivrer ;
 Lorsque l'existence de l'obligation n'est pas sérieusement contestable, le
 versement de provisions sur les salaires et accessoires du salaire, les
 commissions et sur les indemnités de congés payés, de préavis et de
-licenciement, l'indemnité de fin de contrat prévue à l'article L. 122-3-5,
+licenciement, l'indemnité de fin de contrat prévue à l'article L. 122-3-4,
 l'indemnité prévue au IV de l'article L. 122-3-8, les indemnités mentionnées à
 l'article L. 122-32-6 et l'indemnité de précarité d'emploi mentionnée à
 l'article L. 124-4-4 ; le montant total des provisions allouées, qui doit être
@@ -449,7 +450,7 @@ départiteur, et qui doit être tenue dans le mois du renvoi.
 
 En cas de partage des voix au sein de la formation de référé, l'affaire est
 renvoyée à une audience présidée par le juge départiteur, et qui doit être tenue
-sans délai et au plus tard dans les quinze jours du renvoi."
+sans délai et au plus tard dans les quinze jours du renvoi.
 
 Lorsqu'un conseiller prud'homme est empêché de siéger à l'audience de départage,
 il pourvoit lui-même à son remplacement par un conseiller prud'homme du même
@@ -486,7 +487,7 @@ Les décisions rendues en matière prud'homale sont notifiées aux parties en ca
 par le greffe du conseil de prud'hommes ou de la cour d'appel au lieu où elles
 demeurent réellement, par lettre recommandée avec demande d'avis de réception
 sans préjudice du droit des parties de les faire signifier par acte d'huissier
-de justice."
+de justice.
 
 Les parties sont avisées des mesures d'administration judiciaire verbalement
 avec émargement au dossier ou par lettre simple.
@@ -565,7 +566,7 @@ demande est portée devant le conseil de prud'hommes du domicile du salarié.
 Le salarié peut toujours saisir le conseil de prud'hommes du lieu où
 l'engagement a été contracté ou celui du lieu où l'employeur est établi.
 
-Toute clause qui directement ou indirectement, déroge aux dispositions qui
+Toute clause qui directement ou indirectement déroge aux dispositions qui
 précèdent est réputée non écrite.
 
 Art. R. 517-2
@@ -596,23 +597,13 @@ montant des autres demandes.
 
 Art. R. 517-4
 
-Le jugement est sans appel lorsqu'aucun des chefs des demandes initiales ou
-incidentes ne dépasse, à lui seul, le taux de compétence en dernier ressort du
-conseil de prud'hommes.
-
-Si l'un des chefs de demande n'est susceptible d'être jugé qu'à charge d'appel,
-le conseil de prud'hommes se prononce, sur tous, en premier ressort.
+Le jugement n'est pas susceptible d'appel lorsque la valeur totale des
+prétentions d'aucune des parties ne dépasse le taux de compétence en dernier
+ressort du conseil de prud'hommes.
 
 Le jugement n'est pas susceptible d'appel si la seule demande reconventionnelle
 en dommages-intérêts, lorsqu'elle est fondée exclusivement sur la demande
 initiale, dépasse le taux de la compétence en dernier ressort.
-
-Art. R. 517-5
-
-Si une demande reconventionnelle reconnue mal fondée a eu pour effet de rendre
-le jugement susceptible d'appel, la Cour peut condamner son auteur à une amende
-civile de 15 à 1500 euros sans préjudice des dommages-intérêts qui seraient
-réclamés.
 
 Section 3 : L'opposition.
 
@@ -634,12 +625,11 @@ Le délai d'appel est d'un mois.
 L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou
 adresse par pli recommandé, au greffe de la Cour.
 
-La déclaration indique les nom, prénoms, profession et domicile de l'appelant
-ainsi que les nom et adresse des parties contre lesquelles l'appel est dirigé.
-Elle désigne le jugement dont il est fait appel et mentionne, le cas échéant,
-les chefs du jugement auxquels se limite l'appel ainsi que le nom et l'adresse
-du représentant de l'appelant devant la cour. Elle est accompagnée d'une copie
-de la décision.
+Outre les mentions prescrites par l'article 58 du nouveau code de procédure
+civile, la déclaration désigne le jugement dont il est fait appel et mentionne,
+le cas échéant, les chefs de celui-ci auxquels se limite l'appel ainsi que le
+nom et l'adresse du représentant de l'appelant devant la cour. Elle est
+accompagnée d'une copie de la décision.
 
 Art. R. 517-8
 

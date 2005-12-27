@@ -14,8 +14,8 @@ Le recours n'est pas suspensif, sous réserve de dispositions législatives
 particulières, et notamment de celles du premier alinéa de l'article L. 241-9 du
 code de l'action sociale et des familles.
 
-La déclaration doit indiquer les nom, prénoms, profession et adresse du
-requérant ou, pour les personnes morales, leur dénomination et leur siège, et,
-le cas échéant, le nom et l'adresse du médecin qu'il désigne pour recevoir les
-documents médicaux. Elle contient l'objet de la demande et un exposé sommaire de
-ses motifs. Elle doit être accompagnée d'une copie de la décision contestée.
+Outre les mentions prescrites par l'article 58 du nouveau code de procédure
+civile, la déclaration indique, le cas échéant, le nom et l'adresse du médecin
+que le demandeur désigne pour recevoir les documents médicaux. Elle contient un
+exposé sommaire des motifs de la demande. Elle est accompagnée d'une copie de la
+décision contestée.

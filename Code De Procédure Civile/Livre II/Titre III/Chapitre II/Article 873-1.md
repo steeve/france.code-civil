@@ -1,4 +1,4 @@
-Article 896
+Article 873-1
 ----
 A la demande de l'une des parties, et si l'urgence le justifie, le président
 saisi en référé peut renvoyer l'affaire à une audience dont il fixe la date pour

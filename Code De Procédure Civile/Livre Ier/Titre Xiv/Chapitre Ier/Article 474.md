@@ -5,10 +5,6 @@ moins d'entre eux ne comparaît pas, le jugement est réputé contradictoire à
 l'égard de tous si la décision est susceptible d'appel ou si ceux qui ne
 comparaissent pas ont été cités à personne.
 
-Si la décision requise n'est pas susceptible d'appel, les parties défaillantes
-qui n'ont pas été citées à personne doivent être citées à nouveau. Le juge peut
-néanmoins décider, si la citation a été faite selon les modalités prévues à
-l'article 659, qu'il n'y a pas lieu à nouvelle citation. Le jugement rendu après
-nouvelles citations est réputé contradictoire à l'égard de tous dès lors que
-l'un des défendeurs comparaît ou a été cité à personne sur première ou seconde
-citation ; dans le cas contraire, le jugement est rendu par défaut.
+Lorsque la décision n'est pas susceptible d'appel et que l'une au moins des
+parties qui n'a pas comparu n'a pas été citée à personne, le jugement est rendu
+par défaut.

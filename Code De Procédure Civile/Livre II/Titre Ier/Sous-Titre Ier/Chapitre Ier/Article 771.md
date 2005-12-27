@@ -5,7 +5,9 @@ mise en état est, jusqu'à son dessaisissement, seul compétent, à l'exclusion
 toute autre formation du tribunal, pour :
 
 1. Statuer sur les exceptions de procédure et sur les incidents mettant fin à
-l'instance ;
+l'instance ; les parties ne sont plus recevables à soulever ces exceptions et
+incidents ultérieurement à moins qu'ils ne surviennent ou soient révélés
+postérieurement au dessaisissement du juge ;
 
 2. Allouer une provision pour le procès ;
 

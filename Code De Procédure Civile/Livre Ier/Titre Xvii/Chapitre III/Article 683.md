@@ -1,10 +1,6 @@
 Article 683
 ----
-Les notifications à l'étranger sont faites par voie de signification.
-
-Lorsque la notification est faite par le secrétaire de la juridiction, il est
-procédé comme il est dit aux articles 670-2 et 670-3. Le secrétaire de la
-juridiction est alors tenu des mêmes obligations que l'huissier de justice.
-
-Les dispositions du présent article ne préjudicient pas à l'application des
-traités prévoyant une autre forme de notification.
+Sous réserve de l'application des règlements communautaires et des traités
+internationaux, la transmission des actes judiciaires et extrajudiciaires à
+l'étranger est faite par voie de notification ou de signification
+internationales dans les conditions prévues par la présente sous-section.
