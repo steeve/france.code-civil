@@ -6,8 +6,6 @@ nettes de prélèvements et de taxes, et sur laquelle sont réglées les prestat
 servies. Elle est représentée à l'actif dans les conditions et limites fixées
 par la section 10 du chapitre Ier du présent titre.
 
-La provision technique spéciale est capitalisée au taux de 3,50 p. 100.
-
 Sont affectés à ladite provision, à concurrence d'au moins 85 p. 100 de leur
 montant, les produits générés par la gestion financière des opérations
 mentionnées à l'article L. 932-24.
