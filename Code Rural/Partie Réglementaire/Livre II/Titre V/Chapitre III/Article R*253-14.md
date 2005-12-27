@@ -2,7 +2,7 @@ Article R*253-14
 ----
 I. - Sont considérés comme essais officiels les essais réalisés par des services
 et organismes publics représentés au comité d'homologation des produits
-antiparasitaires à usage agricole et des produits assimilés.
+phytopharmaceutiques, des matières fertilisantes et des supports de culture.
 
 II. - Sont considérés comme essais officiellement reconnus les essais qui font
 l'objet de déclarations auprès du ministre chargé de l'agriculture par le

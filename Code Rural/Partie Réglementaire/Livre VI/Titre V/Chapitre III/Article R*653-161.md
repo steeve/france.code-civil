@@ -48,5 +48,5 @@ inscrites au budget de l'établissement, soit des virements de crédits entre la
 section des opérations en capital et la section de fonctionnement ou entre les
 chapitres de matériels et les chapitres de personnel. Toutes les autres
 décisions modificatives de budget sont prises par le directeur général en accord
-avec le membre du corps du contrôle général économique et financier et soumises
-à la ratification du conseil d'administration lors de sa plus prochaine séance.
+avec le contrôleur financier et soumises à la ratification du conseil
+d'administration lors de sa plus prochaine séance.

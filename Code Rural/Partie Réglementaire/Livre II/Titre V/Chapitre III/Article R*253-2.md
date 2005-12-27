@@ -1,8 +1,7 @@
 Article R*253-2
 ----
-La commission d'étude de la toxicité des produits antiparasitaires à usage
-agricole et des produits assimilés, des matières fertilisantes et des supports
-de culture est chargée :
+La commission d'étude de la toxicité des produits phytopharmaceutiques, des
+matières fertilisantes et des supports de culture est chargée :
 
 1° D'examiner les risques de la toxicité directe ou indirecte à l'égard de
 l'homme et des animaux, ainsi que les dangers que peut présenter la dispersion

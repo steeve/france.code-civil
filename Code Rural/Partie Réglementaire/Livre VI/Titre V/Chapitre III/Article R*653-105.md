@@ -1,9 +1,9 @@
 Article R*653-105
 ----
 I. - Le ministre chargé de l'agriculture fixe par arrêtés, après avis de la
-commission nationale d'amélioration génétique et, le cas échéant, de la
-commission nationale vétérinaire, les conditions que doivent remplir les centres
-pour être autorisés à pratiquer l'insémination artificielle.
+commission nationale d'amélioration génétique et, le cas échéant, du comité
+consultatif de la santé et de la protection animales, les conditions que doivent
+remplir les centres pour être autorisés à pratiquer l'insémination artificielle.
 
 II. - Ces conditions concernent notamment :
 

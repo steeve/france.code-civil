@@ -1,7 +1,8 @@
 Article R*253-4
 ----
-Le comité d'homologation des produits antiparasitaires à usage agricole et des
-produits assimilés est chargé :
+Le comité d'homologation des produits phytopharmaceutiques, des matières
+fertilisantes et des supports de culture est chargé, outre les compétences qu'il
+exerce au titre de l'article R. 255-6 :
 
 1° D'examiner les demandes d'homologation des produits destinés à être mis en
 vente et de vérifier qu'ils sont conformes aux règles adoptées sur proposition

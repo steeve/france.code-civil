@@ -21,5 +21,5 @@ région, les organismes intéressés peuvent dans le délai de deux mois à comp
 de la notification du refus, formuler un recours devant le ministre de
 l'agriculture qui se prononce dans le délai de quatre mois après avis du conseil
 supérieur d'orientation de la coopération agricole, ou, dans les conditions
-prévues à l'article R. 528-2, par la commission centrale d'agrément mentionnée
-au même article.
+prévues à l'article D. 528-2, par la commission centrale de la coopération
+agricole mentionnée au même article.

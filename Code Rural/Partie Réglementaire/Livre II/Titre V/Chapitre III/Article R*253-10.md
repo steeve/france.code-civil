@@ -10,9 +10,10 @@ communautaire et publiés par arrêté du ministre chargé de l'agriculture.
 Ces dossiers sont d'abord transmis à l'autorité compétente de tout Etat membre,
 qui en apprécie la recevabilité. Lorsqu'ils sont transmis au ministre chargé de
 l'agriculture celui-ci notifie au demandeur leur conformité, après avis de la
-commission d'étude de la toxicité des produits antiparasitaires à usage agricole
-et des produits assimilés, et sur proposition du comité d'homologation des
-produits antiparasitaires à usage agricole et des produits assimilés.
+commission d'étude de la toxicité des produits phytopharmaceutiques, des
+matières fertilisantes et des supports de culture, et sur proposition du comité
+d'homologation des produits phytopharmaceutiques, des matières fertilisantes et
+des supports de culture.
 
 Le ministre notifie, soit son accord pour la transmission du dossier, soit le
 rejet de la demande.

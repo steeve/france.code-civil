@@ -1,10 +1,10 @@
 Article R*255-1
 ----
 Le ministre chargé de l'agriculture fixe par arrêté, après avis de la commission
-des matières fertilisantes et supports de culture créée en application de
-l'article R. 255-5, les conditions auxquelles sont subordonnées les
-homologations et les autorisations provisoires de vente ou d'importation prévues
-à l'article L. 255-2.
+des produits phytopharmaceutiques, des matières fertilisantes et des supports de
+culture, les conditions auxquelles sont subordonnées les homologations et les
+autorisations provisoires de vente ou d'importation prévues à l'article L.
+255-2.
 
 Il se prononce sur les demandes d'homologation après avis du comité créé en
 application de l'article R. 255-6. En cas de refus, sa décision doit être

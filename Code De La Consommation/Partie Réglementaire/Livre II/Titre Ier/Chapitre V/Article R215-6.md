@@ -14,5 +14,5 @@ procès-verbal toutes les déclarations qu'il juge utiles. Il est invité à sig
 le procès-verbal ; en cas de refus, mention en est faite par l'agent
 verbalisateur.
 
-Le procès-verbal porte également le numéro sous lequel il est enregistré au
-moment de sa réception par le service administratif.
+Ce procès-verbal porte également le numéro d'identification attribué par le
+service administratif qui enregistre le prélèvement.

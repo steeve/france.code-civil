@@ -14,6 +14,6 @@ un arrondissement d'une région voisine et dont l'agrément ne relève pas de
 l'autorité départementale.
 
 Sont agréées par arrêté du ministre de l'agriculture, après avis de la
-commission centrale d'agrément prévue à l'article R. 528-2, les unions de
-coopératives agricoles ainsi que toutes les sociétés coopératives agricoles qui
-n'entrent pas dans les cas prévus par les deux alinéas précédents.
+commission centrale de la coopération agricole prévue à l'article D. 528-2, les
+unions de coopératives agricoles ainsi que toutes les sociétés coopératives
+agricoles qui n'entrent pas dans les cas prévus par les deux alinéas précédents.

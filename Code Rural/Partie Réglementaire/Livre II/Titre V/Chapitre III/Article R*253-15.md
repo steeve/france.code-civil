@@ -9,8 +9,8 @@ L'agrément est réputé acquis en l'absence de réponse du ministre à l'expira
 d'un délai de six mois à compter de la date de réception de la demande.
 
 II. - L'agrément est délivré par le ministre chargé de l'agriculture sur
-proposition du comité d'homologation des produits antiparasitaires à usage
-agricole et des produits assimilés, si :
+proposition du comité d'homologation des produits phytopharmaceutiques, des
+matières fertilisantes et des supports de culture, si :
 
 a) Le dossier répond aux exigences d'un cahier des charges ;
 

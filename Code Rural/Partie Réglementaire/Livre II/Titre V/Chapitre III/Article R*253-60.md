@@ -19,6 +19,7 @@ levée dans le même délai ;
 l'objet d'une décision favorable de l'autorité communautaire compétente.
 
 Le ministre chargé de l'agriculture fait alors achever l'examen de la demande
-par la commission d'étude de la toxicité des produits antiparasitaires à usage
-agricole et des produits assimilés et par le comité d'homologation des produits
-antiparasitaires à usage agricole et des produits assimilés.
+par la commission d'étude de la toxicité des produits phytopharmaceutiques, des
+matières fertilisantes et des supports de culture et par le comité
+d'homologation des produits phytopharmaceutiques, des matières fertilisantes et
+des supports de culture.
