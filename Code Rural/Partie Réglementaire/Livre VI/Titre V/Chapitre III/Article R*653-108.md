@@ -2,8 +2,8 @@ Article R*653-108
 ----
 I. - Les autorisations accordées peuvent être modifiées ou retirées par arrêté
 motivé du ministère chargé de l'agriculture pris après avis de la commission
-nationale d'amélioration génétique et, le cas échéant, de la commission
-nationale vétérinaire :
+nationale d'amélioration génétique et, le cas échéant, du comité consultatif de
+la santé et de la protection animales :
 
 1° Soit lorsqu'une ou plusieurs des conditions exigées pour l'octroi de
 l'autorisation ne sont pas remplies ;

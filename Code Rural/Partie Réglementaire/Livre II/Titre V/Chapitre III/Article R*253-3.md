@@ -1,7 +1,8 @@
 Article R*253-3
 ----
-La commission des produits antiparasitaires à usage agricole et des produits
-assimilés est chargée :
+La commission des produits phytopharmaceutiques, des matières fertilisantes et
+des supports de culture est chargée, outre les compétences qu'elle exerce au
+titre de l'article R. 255-5 :
 
 1° De proposer au ministre chargé de l'agriculture toutes les mesures
 susceptibles de contribuer à la normalisation, à la définition et à
@@ -17,8 +18,8 @@ intéressés et de formuler toutes recommandations relevant de sa compétence et
 concernant les produits énumérés à l'article L. 253-1.
 
 Cette commission comprend des représentants des services publics et des
-organismes professionnels concernés ainsi que des experts choisis en raison de
-leur compétence.
+organismes professionnels concernés ainsi que des organisations agréées de
+consommateurs et des experts choisis en raison de leur compétence.
 
 Ils sont nommés par arrêté du ministre chargé de l'agriculture sur proposition,
 le cas échéant, des ministres intéressés.

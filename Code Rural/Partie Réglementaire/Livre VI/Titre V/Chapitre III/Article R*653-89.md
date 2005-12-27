@@ -2,8 +2,8 @@ Article R*653-89
 ----
 I. - Les opérations de monte publique sont réglementées par arrêtés du ministre
 chargé de l'agriculture pris après avis de la commission nationale
-d'amélioration génétique et, le cas échéant, de la commission nationale
-vétérinaire.
+d'amélioration génétique et, le cas échéant, du comité consultatif de la santé
+et de la protection animales.
 
 II. - Ces arrêtés fixent, pour chaque espèce, pour chaque catégorie de monte et,
 en tant que de besoin, par région et par type d'utilisation, les normes

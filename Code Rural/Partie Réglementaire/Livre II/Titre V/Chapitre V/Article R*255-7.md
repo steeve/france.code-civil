@@ -16,5 +16,5 @@ retrait prévues au dernier alinéa de l'article L. 255-4 ;
 
 3° Un droit supplémentaire d'un montant de 915 euros pour frais d'essais
 culturaux, perçu lorsque ceux-ci auront été estimés nécessaires, sur avis du
-comité d'homologation des matières fertilisantes et des supports de culture
-institué par l'article R. 255-5.
+comité d'homologation des produits phytopharmaceutiques, des matières
+fertilisantes et des supports de culture institué par l'article R. 255-6.

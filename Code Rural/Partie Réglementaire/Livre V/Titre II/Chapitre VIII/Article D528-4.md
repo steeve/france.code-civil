@@ -1,6 +1,6 @@
 Article D528-4
 ----
-La commission centrale d'agrément comprend :
+La commission centrale de la coopération agricole comprend :
 
 a) Quatre représentants du ministre de l'agriculture, dont un au titre d'une
 direction régionale ou départementale de l'agriculture et de la forêt ;
@@ -18,7 +18,11 @@ le Conseil supérieur d'orientation de la coopération agricole parmi ses membre
 ;
 
 f) Un représentant des exploitants agricoles, désigné par ledit conseil parmi
-ses membres.
+ses membres ;
 
-La commission centrale d'agrément est présidée par un des membres représentant
-l'administration, désigné en cette qualité par le ministre de l'agriculture.
+g) Un représentant des entreprises non coopératives désigné sur proposition de
+l'Association nationale des industries agroalimentaires.
+
+La commission centrale de la coopération agricole est présidée par un des
+membres représentant l'administration, désigné en cette qualité par le ministre
+de l'agriculture.

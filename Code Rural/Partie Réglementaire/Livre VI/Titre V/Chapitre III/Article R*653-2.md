@@ -23,14 +23,15 @@ essais d'élevage en race pure ou en croisement industriel de ces races.
 
 III. - La commission générale est consultée sur tout recours gracieux présenté
 au ministre à la suite d'une sanction intervenue en application des dispositions
-des articles L. 653-2 à L. 653-10, L. 653-15 à L. 653-17, L. 671-10 et L.
-671-11.
+des articles L. 653-2 à L. 653-10, L. 653-15 à L. 653-17, L. 671-10 et L. 671-11
+à l'exception des sanctions relatives à l'identification animale.
 
 La commission générale peut être consultée par le ministre chargé de
 l'agriculture sur :
 
 1° Les projets de textes réglementaires relatifs à l'application des articles L.
-653-2 à L. 653-10, L. 653-15 à L. 653-17, L. 671-10 et L. 671-11 ;
+653-2 à L. 653-10, L. 653-15 à L. 653-17, L. 671-10 et L. 671-11 à l'exception
+des dispositions relatives à l'identification des animaux ;
 
 2° Toutes questions communes aux différentes espèces ;
 
