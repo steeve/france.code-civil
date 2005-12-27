@@ -29,7 +29,19 @@ précédents ;
 
 d) Le montant des plus-values réintégrées dans les résultats de l'exercice ;
 
-e) Le montant des plus-values restant à réintégrer.
+e) Le montant des plus-values restant à réintégrer ;
+
+3° Pour le mali technique de fusion :
+
+a. La valeur brute à l'ouverture et à la fin de l'exercice ;
+
+b. La diminution en cours d'exercice ;
+
+c. Le montant des dépréciations comptables à l'ouverture et à la fin de
+l'exercice ;
+
+d. Les augmentations et diminutions des dépréciations comptables en cours
+d'exercice.
 
 II. Il est souscrit un état par opération et par exercice tant qu'il existe, au
 titre de l'opération concernée, des éléments auxquels est attaché un sursis
@@ -53,9 +65,9 @@ b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
 
-IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221
-bis du code général des impôts doit mentionner pour chacune des immobilisations
-qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel
+IV.-L'état dont la production est prévue au deuxième alinéa de l'article 221 bis
+du code général des impôts doit mentionner pour chacune des immobilisations qui
+fait l'objet d'une réévaluation lors du premier exercice au titre duquel
 l'option a été exercée :
 
 1° La valeur comptable ;
