@@ -13,7 +13,8 @@ effet à compter du premier jour du trimestre civil suivant le mois au cours
 duquel l'assujetti remplit les conditions d'affiliation définies ci-dessus.
 
 L'immatriculation des personnes assumant, au foyer familial, la charge d'un
-handicapé adulte prend effet à compter du premier jour du trimestre civil
-suivant le mois au cours duquel la commission prévue à l'article L. 323-11 du
-code du travail a décidé que les conditions d'affiliation ci-dessus définies
-sont remplies.
+adulte handicapé prend effet à compter du premier jour du trimestre civil
+suivant le mois au cours duquel la commission des droits et de l'autonomie des
+personnes handicapées mentionnée à l'article L. 146-9 du code de l'action
+sociale et des familles a décidé que les conditions d'affiliation ci-dessus
+définies sont remplies.
