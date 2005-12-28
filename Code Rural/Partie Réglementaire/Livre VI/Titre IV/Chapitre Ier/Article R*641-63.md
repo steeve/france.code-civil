@@ -7,8 +7,8 @@ désignation du ministre chargé de l'agriculture :
 
 2° Un directeur départemental de l'agriculture et de la forêt ;
 
-3° Le directeur de l'Office national interprofessionnel du lait ou son
-représentant ;
+3° Le directeur de l'Office national interprofessionnel de l'élevage et de ses
+productions ou son représentant ;
 
 II. - Sont également membres de chaque comité régional, sur désignation des
 ministres chargés de l'économie et du budget :

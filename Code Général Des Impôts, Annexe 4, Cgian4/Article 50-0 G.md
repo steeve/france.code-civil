@@ -5,7 +5,7 @@ III au code général des impôts, la liste récapitulative comporte les
 renseignements suivants :
 
 a. Le nom ou la raison sociale, l'adresse et l'activité professionnelle des
-personnes définies au b du II de l'article 111-0 E et à l'article 111-0 F de la
+personnes définies au 2° du II de l'article 111-0 E et à l'article 111-0 F de la
 même annexe ;
 
 b. Le numéro d'identification porté sur la déclaration préalable de profession,

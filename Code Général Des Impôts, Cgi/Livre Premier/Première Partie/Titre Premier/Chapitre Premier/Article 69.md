@@ -1,7 +1,7 @@
 Article 69
 ----
 I. Lorsque les recettes d'un exploitant agricole, pour l'ensemble de ses
-exploitations, dépassent une moyenne de 76 300 euros mesurée sur deux années
+exploitations, dépassent une moyenne de 76 300 € mesurée sur deux années
 consécutives, l'intéressé est obligatoirement imposé d'après un régime réel
 d'imposition à compter de la première année suivant la période biennale
 considérée.
@@ -13,7 +13,7 @@ a. Sur option, aux exploitants normalement placés sous le régime du forfait ;
 
 b. De plein droit, aux autres exploitants, y compris ceux dont le forfait a été
 dénoncé par l'administration, dont la moyenne des recettes, mesurée sur deux
-années consécutives, n'excède pas 350 000 euros.
+années consécutives, n'excède pas 350 000 €.
 
 III. En cas de dépassement de la limite mentionnée au b du II, les intéressés
 sont soumis de plein droit au régime réel normal d'imposition à compter du
@@ -35,7 +35,7 @@ quatre mois à compter de la date du début de l'activité. Toutefois, lorsque l
 durée du premier exercice est inférieure à quatre mois, l'option doit être
 exercée au plus tard à la date de clôture de cet exercice.
 
-V. Pour l'application des dispositions du présent article et du II de l'article
-151 septies, les recettes provenant d'opérations d'élevage ou de culture portant
-sur des animaux ou des produits appartenant à des tiers sont multipliées par
-cinq.
+V. Pour l'application des dispositions du présent article et des II et IV de
+l'article 151 septies, les recettes provenant d'opérations d'élevage ou de
+culture portant sur des animaux ou des produits appartenant à des tiers sont
+multipliées par cinq.

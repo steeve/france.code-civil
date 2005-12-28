@@ -32,7 +32,8 @@ présent article.
 Est toutefois exclue du décompte des ressources l'allocation de revenu minimum
 d'insertion mentionnée à l'article L. 262-3 du code de l'action sociale et des
 familles et servie soit à l'allocataire ou à son conjoint ou concubin, soit aux
-personnes définies à l'article R. 831-5.
+personnes définies à l'article R. 831-5. Il en est de même pour la prime de
+retour à l'emploi.
 
 En application des dispositions de l'article L. 832-1, sont exclus également du
 décompte des ressources les ressources les arrérages des rentes viagères

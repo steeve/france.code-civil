@@ -30,7 +30,7 @@ mensuellement une déclaration conforme au modèle prescrit par la direction
 générale des impôts et comportant les indications nécessaires à l'assiette et à
 la perception de cette redevance.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève le
+Cette déclaration est souscrite auprès du service des impôts dont relève le
 redevable pour le dépôt de ses déclarations de taxes sur le chiffre d'affaires.
 Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au
 cours duquel les opérations imposables ont été réalisées. La redevance est

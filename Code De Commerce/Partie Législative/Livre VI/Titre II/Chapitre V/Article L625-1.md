@@ -1,13 +1,18 @@
 Article L625-1
 ----
-Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire est
-ouverte, les dispositions du présent chapitre sont applicables :
+Après vérification, le mandataire judiciaire établit, dans les délais prévus à
+l'article L. 143-11-7 du code du travail, les relevés des créances résultant
+d'un contrat de travail, le débiteur entendu ou dûment appelé. Les relevés des
+créances sont soumis au représentant des salariés dans les conditions prévues à
+l'article L. 625-2. Ils sont visés par le juge-commissaire, déposés au greffe du
+tribunal et font l'objet d'une mesure de publicité dans des conditions fixées
+par décret en Conseil d'Etat.
 
-1° Aux personnes physiques exerçant la profession de commerçant, d'agriculteur
-ou immatriculées au répertoire des métiers ;
+Le salarié dont la créance ne figure pas en tout ou en partie sur un relevé peut
+saisir à peine de forclusion le conseil de prud'hommes dans un délai de deux
+mois à compter de l'accomplissement de la mesure de publicité mentionnée à
+l'alinéa précédent. Il peut demander au représentant des salariés de l'assister
+ou de le représenter devant la juridiction prud'homale.
 
-2° Aux personnes physiques, dirigeants de droit ou de fait de personnes morales
-ayant une activité économique ;
-
-3° Aux personnes physiques, représentants permanents de personnes morales,
-dirigeants des personnes morales définies au 2° ci-dessus.
+Le débiteur ou l'administrateur lorsqu'il a pour mission d'assurer
+l'administration est mis en cause.

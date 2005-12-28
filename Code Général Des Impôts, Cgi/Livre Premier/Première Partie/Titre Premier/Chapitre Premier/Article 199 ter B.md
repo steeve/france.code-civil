@@ -8,7 +8,7 @@ profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance e
 utilisée pour le paiement de l'impôt sur le revenu dû au titre des trois années
 suivant celle au titre de laquelle elle est constatée puis, s'il y a lieu, la
 fraction non utilisée est remboursée à l'expiration de cette période. Toutefois,
-la créance constatée au titre de l'année de création et des deux années
+la créance constatée au titre de l'année de création et des quatre années
 suivantes est immédiatement remboursable aux entreprises créées à compter du 1er
 janvier 2004 qui remplissent les conditions mentionnées au III de l'article 44
 sexies et dont le capital est entièrement libéré et détenu de manière continue à
@@ -39,14 +39,14 @@ physiques autres que celles mentionnées au I de l'article 151 nonies n'est ni
 imputable ni restituable.
 
 Par exception aux dispositions du premier alinéa, les entreprises ayant fait
-l'objet d'un redressement ou d'une liquidation judiciaires peuvent demander le
-remboursement de leur créance non utilisée à compter de la date du jugement qui
-a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un
-intérêt appliqué à la créance restant à imputer. Cet intérêt, dont le taux est
-celui de l'intérêt légal applicable le mois suivant la demande de l'entreprise,
-est calculé à compter du premier jour du mois suivant la demande de l'entreprise
-jusqu'au terme des trois années suivant celle au titre de laquelle la créance
-est constatée.
+l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation
+judiciaires peuvent demander le remboursement de leur créance non utilisée à
+compter de la date du jugement qui a ouvert ces procédures. Ce remboursement est
+effectué sous déduction d'un intérêt appliqué à la créance restant à imputer.
+Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois
+suivant la demande de l'entreprise, est calculé à compter du premier jour du
+mois suivant la demande de l'entreprise jusqu'au terme des trois années suivant
+celle au titre de laquelle la créance est constatée.
 
 II. (Abrogé).
 

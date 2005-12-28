@@ -1,7 +1,7 @@
 Article D323-25-5
 ----
-Le contrat liant l'organisme gestionnaire de l'atelier protégé avec le
-travailleur handicapé doit préciser notamment [*mentions obligatoires*] :
+Le contrat liant l'organisme gestionnaire de l'entreprise adaptée avec le
+travailleur handicapé doit préciser notamment :
 
 a) La qualification professionnelle du salarié ;
 

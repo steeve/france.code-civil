@@ -10,9 +10,9 @@ des dépenses et des recettes ;
 d'administration, rendant compte, dans le cadre de ses compétences, de
 l'ensemble des éléments de sa gestion ;
 
-3° D'un état des dépenses régulièrement engagées dans la limite des crédits
-autorisés et qui n'ont pas fait l'objet d'un mandatement à la clôture de
-l'exercice, établi par l'ordonnateur et notifié au comptable.
+3° D'un état des dépenses régulièrement engagées et qui n'ont pas fait l'objet
+d'un mandatement à la clôture de l'exercice, établi par l'ordonnateur et notifié
+au comptable.
 
 Le comptable affirme sincère et véritable le compte financier dans la forme
 prévue au décret n° 79-124 du 5 février 1979 relatif à la signature des comptes

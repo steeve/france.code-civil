@@ -13,8 +13,8 @@ l'article L. 125-5 ;
 2° Donne son avis sur les interdictions ou réglementations des plantations et
 semis d'essences forestières en vertu de l'article L. 126-1 ;
 
-3° Intervient au titre de l'aménagement foncier forestier et de l'aménagement
-foncier agricole et forestier ;
+3° Intervient au titre de l'aménagement foncier agricole et forestier en zone
+forestière ;
 
 4° Intervient au titre de la réorganisation foncière chaque fois que l'opération
 peut inclure des terrains boisés ou à boiser.

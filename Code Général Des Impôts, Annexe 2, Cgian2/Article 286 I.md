@@ -30,8 +30,8 @@ des fraudes.
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la
 réglementation communautaire et portent les références des contrats d'achat
-soumis au visa de l'office national interprofessionnel des vins, pour les
-transactions soumises à cette procédure.
+soumis au visa de l'Office national interprofessionnel des fruits, des légumes
+des vins et de l'horticulture pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords
 interprofessionnels visés notamment aux articles L. 632-1 à L. 632-7 du code

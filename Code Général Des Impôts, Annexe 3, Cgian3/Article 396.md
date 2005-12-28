@@ -10,7 +10,7 @@ foncière et aux taxes additionnelles exigibles en raison :
 précité ;
 
 3° des acquisitions effectuées dans le cadre des dispositions des articles L.
-621-83 ou L. 622-17 du code de commerce ;
+626-1, L. 631-22 et L. 642-1 du code de commerce ;
 
 4° des paiements d'indemnités entre officiers publics et ministériels par suite
 de suppression d'offices ;

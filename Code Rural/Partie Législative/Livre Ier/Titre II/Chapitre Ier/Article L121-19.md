@@ -1,24 +1,20 @@
 Article L121-19
 ----
-Dès que la commission communale ou intercommunale d'aménagement foncier lui en a
-fait la proposition, le préfet peut interdire le destruction de tous espaces
-boisés visés à l'avant-dernier alinéa de l'article L. 311-2 du code forestier
-ainsi que de tous boisements linéaires, haies et plantations d'alignement sur
-tout ou partie de la ou des communes concernées. Cette interdiction vaut jusqu'à
-l'intervention de la décision préfectorale prévue à l'article L. 121-14.
+Le président du conseil général fixe la liste des travaux dont la préparation et
+l'exécution sont interdites jusqu'à la clôture des opérations. Il peut interdire
+la destruction de tous les espaces boisés mentionnés à l'article L. 311-2 du
+code forestier, ainsi que de tous boisements linéaires, haies et plantations
+d'alignement et arbres isolés.
 
-La décision préfectorale prévue à l'article L. 121-14 peut, sur proposition de
-la commission communale ou intercommunale d'aménagement foncier, fixer la liste
-des travaux dont la préparation et l'exécution sont interdites jusqu'à la date
-de clôture des opérations.
-
-Jusqu'à cette date également, la destruction de tous bois visés à
-l'avant-dernier alinéa de l'article L. 311-2 du code forestier ainsi que celle
-de tous boisements linéaires, haies et plantations d'alignement dans le
-périmètre de l'opération d'aménagement foncier, lorsqu'elle n'est pas interdite
-en application de l'alinéa précédent, est soumise à autorisation du préfet,
-prise après avis de la commission communale ou intercommunale d'aménagement
-foncier.
+Les travaux forestiers, y compris les travaux d'exploitation forestière et les
+plantations, peuvent être soumis par le président du conseil général à son
+autorisation, après avis de la commission communale ou intercommunale
+d'aménagement foncier. Les autres travaux de nature à modifier l'état des lieux
+sont soumis par le président du conseil général à son autorisation, après avis
+de la commission communale ou intercommunale d'aménagement foncier. En l'absence
+d'une décision de rejet émise par le président du conseil général dans le délai
+de quatre mois à compter de la réception par celui-ci de la demande
+d'autorisation, celle-ci est considérée comme accordée.
 
 Les interdictions ou refus d'autorisation prononcés en application des alinéas
 précédents n'ouvrent droit à aucune indemnité.

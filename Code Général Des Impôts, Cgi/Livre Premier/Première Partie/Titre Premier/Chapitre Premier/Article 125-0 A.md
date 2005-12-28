@@ -253,5 +253,5 @@ Un décret fixe les modalités d'application du présent 1° bis.
 2° Dans le cas contraire, à 60 %.
 
 III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et
-sanctions que celui mentionné à l'article 125 A. Les dispositions de l'article
-1764 et du 1 des articles 242 ter et 1768 bis sont applicables.
+sanctions que celui mentionné à l'article 125 A. Les dispositions du 1 des
+articles 242 ter et 1736 sont applicables.

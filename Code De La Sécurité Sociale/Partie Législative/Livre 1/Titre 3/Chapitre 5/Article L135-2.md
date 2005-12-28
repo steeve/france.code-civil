@@ -7,7 +7,7 @@ premier alinéa de l'article L. 135-1 sont les suivantes :
 
 - au dernier alinéa de l'article L. 643-1 ;
 
-- au chapitre V du titre Ier du livre VIII ;
+- aux chapitres V et V ter du titre Ier du livre VIII ;
 
 - à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le
 minimum vieillesse ;

@@ -12,9 +12,9 @@ représentant ;
 3° Le président du syndicat départemental des propriétaires forestiers
 sylviculteurs ou son représentant ;
 
-4° Deux propriétaires forestiers et deux suppléants choisis par le préfet sur
-une liste d'au moins six noms, présentée par la chambre d'agriculture sur
-proposition du centre régional de la propriété forestière ;
+4° Deux propriétaires forestiers et deux suppléants choisis par le président du
+conseil général sur une liste d'au moins six noms, présentée par la chambre
+d'agriculture sur proposition du centre régional de la propriété forestière ;
 
 5° Deux maires ou deux délégués communaux élus par les conseils municipaux
 représentant les communes propriétaires de forêts relevant du régime forestier

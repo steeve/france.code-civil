@@ -1,8 +1,18 @@
 Article R6145-21
 ----
-Le tableau des emplois permanents fait apparaître, pour le budget général et
-chacun des budgets annexes, le nombre par grade ou qualification des emplois
-dont la rémunération est prévue au budget.
+Pour les activités de soins de suite et de réadaptation, de soins de longue
+durée, de psychiatrie ainsi que pour les activités de médecine des hôpitaux
+locaux, les tarifs de prestations mentionnés à l'article L. 174-3 du code de la
+sécurité sociale sont établis pour au moins chacune des catégories suivantes :
 
-Le modèle du tableau des emplois permanents est fixé par arrêté des ministres
-chargés du budget, de la santé et de la sécurité sociale.
+1° L'hospitalisation complète en régime commun en distinguant :
+
+a) Services spécialisés ou non ;
+
+b) Services de suite et de réadaptation ;
+
+c) Unités de soins de longue durée pour ce qui concerne les soins ;
+
+2° L'hospitalisation à temps partiel ;
+
+3° L'hospitalisation à domicile.

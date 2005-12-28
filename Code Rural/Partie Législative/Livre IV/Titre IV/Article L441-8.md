@@ -21,8 +21,9 @@ Le même cantonnement a lieu de plein droit aux cas d'emphytéose et d'usufruit.
 Les effets des contrats ou sentences sont opposables aux preneurs de baux
 ordinaires consentis par le bailleur ou le complanteur, lorsque les biens objets
 de ces baux sont compris dans les opérations de rachat ou échange, parcellement
-ou regroupement de parcelles, remembrement et, d'une manière générale, dans
-toutes les opérations mettant fin aux baux à complant.
+ou regroupement de parcelles, aménagement foncier agricole et forestier et,
+d'une manière générale, dans toutes les opérations mettant fin aux baux à
+complant.
 
 Les tiers intéressés ont toujours le droit de présenter leurs dires et
 observations devant la commission prévue à l'article L. 441-5, devant qu'ils

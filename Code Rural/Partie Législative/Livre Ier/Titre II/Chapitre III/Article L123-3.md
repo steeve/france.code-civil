@@ -12,14 +12,15 @@ nécessaires à l'utilisation convenable de ces sources ;
 minier, ainsi que les terrains destinés à l'extraction des substances minérales
 sur lesquels un exploitant de carrières peut se prévaloir d'un titre de
 propriété ou d'un droit de foretage enregistré depuis au moins deux ans à la
-date de la décision préfectorale fixant le périmètre, prise dans les conditions
-de l'article L. 121-14 ;
+date de la délibération du conseil général ou de l'arrêté de son président
+fixant le périmètre, pris dans les conditions de l'article L. 121-14 ;
 
-4° Les immeubles présentant, à la date de l'arrêté fixant le périmètre de
-remembrement, les caractéristiques d'un terrain à bâtir au sens du 1° du
+4° Les immeubles présentant, à la date de la délibération du conseil général ou
+de l'arrêté de son président fixant le périmètre d'aménagement foncier agricole
+et forestier, les caractéristiques d'un terrain à bâtir au sens du 1° du
 paragraphe II de l'article L. 13-15 du code de l'expropriation pour cause
 d'utilité publique ;
 
 5° De façon générale, les immeubles dont les propriétaires ne peuvent bénéficier
-de l'opération de remembrement, en raison de l'utilisation spéciale desdits
-immeubles.
+de l'opération d'aménagement foncier agricole et forestier, en raison de
+l'utilisation spéciale desdits immeubles.

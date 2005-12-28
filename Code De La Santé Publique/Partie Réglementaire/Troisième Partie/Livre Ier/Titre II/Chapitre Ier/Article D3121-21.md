@@ -5,4 +5,8 @@ alinéas de l'article L. 3121-2 :
 
 1° Les établissements énumérés à l'article L. 6112-2 ;
 
-2° Les dispensaires antivénériens mentionnés à l'article L. 1423-2.
+2° Les établissements ou organismes habilités en application de l'article L.
+3121-2-1, ainsi que les services ou organismes relevant des collectivités
+territoriales ayant conclu avec l'Etat une convention en application de
+l'article L. 3121-1 pour l'exercice d'activités de lutte contre les infections
+sexuellement transmissibles.

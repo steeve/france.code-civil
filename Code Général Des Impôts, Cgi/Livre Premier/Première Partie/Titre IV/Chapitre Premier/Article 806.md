@@ -23,8 +23,8 @@ sans frais par le comptable des impôts et constatant soit l'acquittement, soit
 la non exigibilité de l'impôt de mutation par décès.
 
 Ils peuvent, toutefois, sur la demande écrite des bénéficiaires, verser tout ou
-partie des sommes dues par eux en l'acquit des droits de mutation par décès, au
-service des impôts où doit être déposée la déclaration de succession.
+partie des sommes dues par eux en l'acquit des droits de mutation par décès, à
+la recette des impôts où doit être déposée la déclaration de succession.
 
 Les dispositions du présent paragraphe ne sont pas applicables lorsque
 l'ensemble des sommes, rentes ou émoluments quelconques dus par un ou plusieurs

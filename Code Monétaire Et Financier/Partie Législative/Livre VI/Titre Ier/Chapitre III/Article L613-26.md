@@ -1,6 +1,6 @@
 Article L613-26
 ----
-Par dérogation aux dispositions de l'article L. 621-1 du code de commerce, sont
+Par dérogation aux dispositions de l'article L. 631-1 du code de commerce, sont
 en état de cessation des paiements les établissements de crédit qui ne sont pas
 en mesure d'assurer leurs paiements, immédiatement ou à terme rapproché.
 

@@ -5,7 +5,7 @@ l'article 125 A du code général des impôts sont assujettis à une contributio
 l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du
 II et sauf s'ils sont versés aux personnes visées au III du même article.
 
-Les plus-values mentionnées aux articles 150 U à 150 UC du code général des
+Les plus-values mentionnées aux articles 150 U à 150 UB du code général des
 impôts sont également assujetties à cette contribution.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au
@@ -121,10 +121,7 @@ au titre des mois de décembre et janvier sur les revenus de placement visés au
 II du présent article fait l'objet d'un versement déterminé d'après les revenus
 des mêmes placements soumis l'année précédente à la contribution sociale
 généralisée au cours des mois de décembre et janvier et retenus à hauteur de 90
-p. 100 de leur montant. Ces dispositions s'appliquent également à la
-contribution sociale généralisée prévue au I et due, au titre du mois de
-décembre, sur les intérêts des plans d'épargne-logement mentionnés au troisième
-alinéa du 1° du III bis de l'article 125 A du code général des impôts.
+p. 100 de leur montant.
 
 Ce versement est égal au produit de l'assiette de référence ainsi déterminée par
 le taux de la contribution fixé à l'article L. 136-8. Son paiement doit

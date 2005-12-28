@@ -1,40 +1,62 @@
 Article 1466 A
 ----
-I. Les communes peuvent, dans des parties de leur territoire, dénommées zones
-urbaines sensibles, caractérisées par la présence de grands ensembles ou de
-quartiers d'habitat dégradé mentionnés au 3 de l'article 42 modifié de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
-territoire et par un déséquilibre accentué entre l'habitat et l'emploi,
-délimiter, par délibération prise dans les conditions de l'article 1639 A bis,
-des périmètres à l'intérieur desquels sont exonérées de la taxe professionnelle
-les créations ou extensions d'établissement, dans la limite d'un montant de base
-nette imposable fixé pour 1992 à un million de francs et actualisé chaque année
-en fonction de la variation des prix constatée par l'Institut national de la
-statistique et des études économiques pour l'année de référence définie à
-l'article 1467 A. La délibération fixe le taux d'exonération ainsi que sa durée
-; elle ne peut avoir pour effet de reporter de plus de cinq ans l'application du
-régime d'imposition de droit commun. Elle porte sur la totalité de la part
-revenant à chaque commune. Seuls les établissements employant moins de 150
-salariés peuvent bénéficier de cette mesure.
+I. - A compter du 1er janvier 2005, les collectivités territoriales sur le
+territoire desquelles sont situés un ou plusieurs quartiers classés en zones
+urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4
+février 1995 d'orientation pour l'aménagement et le développement du territoire
+ou leurs établissements publics de coopération intercommunale dotés d'une
+fiscalité propre peuvent exonérer de la taxe professionnelle par délibération
+prise dans les conditions de l'article 1639 A bis du présent code les créations
+ou extensions d'établissement réalisées dans une ou plusieurs de ces zones
+urbaines sensibles, dans la limite d'un montant de base nette imposable fixé
+pour 2005 à 122 863 Euros et actualisé chaque année en fonction de la variation
+des prix. Seuls les établissements employant moins de 150 salariés peuvent
+bénéficier de cette mesure.
 
-Les délibérations des conseils municipaux s'appliquent à la cotisation de
+Pour les opérations réalisées à compter du 1er janvier 2005, l'exonération
+s'applique aux entreprises qui ont employé moins de 250 salariés au cours de la
+période de référence retenue pour le calcul de la base d'imposition et dont soit
+le chiffre d'affaires annuel réalisé au cours de la même période n'excède pas 50
+millions d'euros, soit le total de bilan, au terme de la même période, n'excède
+pas 43 millions d'euros. L'effectif à retenir est apprécié par référence au
+nombre moyen de salariés au cours de la période. Le chiffre d'affaires à prendre
+en compte est éventuellement corrigé pour correspondre à une année pleine et,
+pour une société mère d'un groupe mentionné à l'article 223 A, s'entend de la
+somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+
+L'exonération prévue n'est pas applicable aux entreprises dont 25 % ou plus du
+capital ou des droits de vote sont contrôlés, directement ou indirectement, par
+une ou plusieurs entreprises ne répondant pas aux conditions fixées par le
+précédent alinéa. Pour la détermination de ce pourcentage, les participations
+des sociétés de capital-risque, des fonds communs de placement à risques, des
+sociétés de développement régional, des sociétés financières d'innovation et des
+sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte
+à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de
+l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds.
+
+La délibération fixe le taux d'exonération, sa durée ainsi que la ou les zones
+urbaines sensibles concernées.
+
+La délibération porte sur la totalité de la part revenant à chaque collectivité
+territoriale ou établissement public de coopération intercommunale doté d'une
+fiscalité propre. Elle ne peut avoir pour effet de reporter de plus de cinq ans
+l'application du régime d'imposition de droit commun.
+
+Les délibérations prises par les communes ou leurs établissements publics de
+coopération intercommunale qui perçoivent la taxe professionnelle unique en
+application de l'article 1609 nonies C s'appliquent à la cotisation de
 péréquation de la taxe professionnelle.
-
-La limite de base nette imposable visée au premier alinéa est fixée à 124 250
-euros au titre de 2002 et, sous réserve de l'actualisation annuelle en fonction
-de la variation des prix, à 113 600 euros à compter de 2003 (120 928 euros après
-actualisation au titre de 2004).
 
 I bis Sauf délibération contraire de la collectivité territoriale ou du
 groupement de collectivités territoriales, les créations et extensions
 d'établissement intervenues entre le 1er janvier 1995 et le 31 décembre 1996,
 dans les communes éligibles au titre de l'année précédente à la dotation de
-solidarité urbaine mentionnée aux articles L. 2334-15 à L. 2334-18-3 du code
-général des collectivités territoriales, sont exonérées de taxe professionnelle
-lorsqu'elles sont réalisées dans les parties de leur territoire, dénommées zones
-de redynamisation urbaine, caractérisées par la présence de grands ensembles ou
-de quartiers d'habitat dégradé dont la liste est fixée par décret et par un
-déséquilibre accentué entre l'habitat et l'emploi.
+solidarité urbaine et de cohésion sociale mentionnée aux articles L. 2334-15 à
+L. 2334-18-3 du code général des collectivités territoriales, sont exonérées de
+taxe professionnelle lorsqu'elles sont réalisées dans les parties de leur
+territoire, dénommées zones de redynamisation urbaine, caractérisées par la
+présence de grands ensembles ou de quartiers d'habitat dégradé dont la liste est
+fixée par décret et par un déséquilibre accentué entre l'habitat et l'emploi.
 
 Cette exonération est limitée au montant de base nette imposable fixé au I. Elle
 porte sur la totalité de la part revenant à chaque collectivité territoriale ou
@@ -260,10 +282,7 @@ et I quinquies concernant le nombre de salariés, la période de référence à
 retenir est l'année mentionnée à l'article 1467 A, pour les impositions établies
 au titre de 1997 et des années suivantes.
 
-III. Les groupements de communes dotés d'une fiscalité propre, les départements
-et les régions peuvent exonérer de taxe professionnelle les créations ou
-extensions d'établissements comprises dans un périmètre défini au I et dans les
-conditions définies aux I et II.
+III. abrogé
 
 IV. Les obligations déclaratives des personnes et organismes concernés par les
 exonérations prévues au présent article sont fixées par décret.

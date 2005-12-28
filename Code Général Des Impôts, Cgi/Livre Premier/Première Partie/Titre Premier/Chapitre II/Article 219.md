@@ -38,10 +38,7 @@ Pour les exercices ouverts à compter de la même date, le régime des plus ou
 moins-values à long terme cesse également de s'appliquer en ce qui concerne les
 titres de sociétés dont l'actif est constitué principalement par des titres
 exclus de ce régime ou dont l'activité consiste de manière prépondérante en la
-gestion des mêmes valeurs pour leur propre compte. Il ne s'applique pas non plus
-aux titres émis par les organismes de placement collectif immobilier ou par les
-organismes de droit étranger ayant un objet équivalent mentionnés au e du I de
-l'article L. 214-92 du code monétaire et financier.
+gestion des mêmes valeurs pour leur propre compte.
 
 Pour l'application des premier et deuxième alinéas, constituent des titres de
 participation les parts ou actions de sociétés revêtant ce caractère sur le plan
@@ -344,5 +341,6 @@ IV. - Le taux de l'impôt est fixé à 16,5 % en ce qui concerne les plus-values
 imposables en application du 2 de l'article 221, du deuxième alinéa de l'article
 223 F et de l'article 208 C ter, relatives aux immeubles, droits afférents à un
 contrat de crédit-bail et parts des organismes mentionnés au dernier alinéa du
-II de l'article 208 C inscrits à l'actif des sociétés qui ont opté pour le
-régime prévu au II de ce même article.
+II de l'article 208 C inscrits à l'actif des sociétés d'investissements
+immobiliers cotées et de leurs filiales qui ont opté pour le régime prévu à cet
+article.

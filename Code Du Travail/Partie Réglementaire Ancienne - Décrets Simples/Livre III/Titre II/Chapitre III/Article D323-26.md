@@ -1,17 +1,10 @@
 Article D323-26
 ----
-Dans la première quinzaine du mois de janvier de chaque année, les chefs
-d'établissement [*obligations*] soumis aux dispositions des articles L. 323-36
-et suivants sont tenus de faire connaître au service public de l'emploi la liste
-des bénéficiaires employés par eux pendant l'année précédente, en spécifiant la
-période d'utilisation de chacun d'eux. Cette liste doit être établie
-conformément à un modèle fixé par arrêté du ministre chargé du travail.
-
-Les assujettis doivent, en outre, notifier au service public de l'emploi toutes
-les modifications qui se produiraient en cours d'année en ce qui concerne soit
-le renvoi, soit l'embauchage de bénéficiaires des dispositions des articles L.
-323-36 et suivants.
-
-Un représentant de l'union mentionnée à l'article L. 323-36 peut prendre
-communication au siège du service public de l'emploi des renseignements ainsi
-fournis.
+Le salarié handicapé qui a démissionné d'une entreprise adaptée ou d'un centre
+de distribution de travail à domicile pour travailler dans une entreprise
+ordinaire bénéficie, dans le délai d'un an à compter de la rupture de son
+contrat, de la priorité d'embauche mentionnée à l'article L. 323-33 s'il
+manifeste le souhait de réintégrer l'entreprise adaptée ou le centre de
+distribution de travail à domicile. Dans ce cas, l'entreprise adaptée ou le
+centre de distribution de travail à domicile l'informe de tout emploi disponible
+compatible avec sa qualification.

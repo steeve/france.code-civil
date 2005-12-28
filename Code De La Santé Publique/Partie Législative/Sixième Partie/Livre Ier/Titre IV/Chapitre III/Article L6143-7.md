@@ -15,10 +15,4 @@ déontologiques ou professionnelles qui s'imposent aux professions de santé, de
 responsabilités qui sont les leurs dans l'administration des soins et de
 l'indépendance professionnelle du praticien dans l'exercice de son art.
 
-Le directeur ordonnateur des dépenses peut procéder en cours d'exercice à des
-virements de crédits entre les comptes d'un même groupe fonctionnel. Ces
-virements sont portés, sans délai, à la connaissance du comptable, du directeur
-de l'agence régionale de l'hospitalisation et du conseil d'administration dans
-sa plus proche séance.
-
 Le directeur peut déléguer sa signature dans des conditions fixées par décret.

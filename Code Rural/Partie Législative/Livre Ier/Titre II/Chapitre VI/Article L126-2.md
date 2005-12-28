@@ -1,22 +1,15 @@
 Article L126-2
 ----
-Dans les périmètres mentionnés aux 2° et 3° de l'article L. 126-1 :
+Dans les zones ou périmètres où des plantations et semis d'essences forestières
+ou la reconstitution après coupe rase sont interdits ou réglementés, en
+application de l'article L. 126-1, le conseil général peut imposer aux
+propriétaires de terrains qui ne font pas l'objet d'une occupation agricole ou
+pastorale et dont l'enfrichement ou le boisement spontané risque de porter
+atteinte à la sécurité de constructions ou de voiries ouvertes à la circulation
+publique, au maintien de fonds agricoles voisins ou à la préservation de milieux
+naturels ou paysages remarquables, de procéder à leur débroussaillement et de
+les maintenir en état débroussaillé.
 
-1° Le préfet approuve, après consultation des chambres d'agriculture et des
-centres régionaux de la propriété forestière, un plan d'aménagement de mise en
-valeur et d'équipement de l'ensemble du périmètre et délimite notamment les
-territoires à maintenir en nature de bois pour assurer soit l'équilibre du
-milieu physique, soit l'approvisionnement en produits forestiers, soit la
-satisfaction des besoins en espaces verts des populations, soit l'équilibre
-biologique de la région ;
-
-2° L'Etat peut provoquer ou faciliter la création de groupements forestiers en
-attribuant à chaque apporteur une prime déterminée selon un barème et dans la
-limite d'un maximum fixé par arrêté conjoint du ministre de l'agriculture et du
-ministre chargé de l'économie et des finances ;
-
-3° Le préfet peut, dans les conditions prévues à l'article L. 134-1, constituer
-une ou plusieurs associations foncières entre les propriétaires intéressés en
-vue de procéder à la prise en charge, à la gestion et à l'entretien des ouvrages
-généraux d'infrastructure nécessaires à la mise en valeur des terrains situés
-dans le périmètre.
+Lorsque le propriétaire ne procède pas à ce débroussaillement, celui-ci peut
+être exécuté par les collectivités territoriales et dans les conditions
+mentionnées à l'article L. 151-36.

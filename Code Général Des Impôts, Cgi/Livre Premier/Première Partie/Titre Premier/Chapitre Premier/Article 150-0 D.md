@@ -101,24 +101,23 @@ dix années suivantes.
 12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits
 sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées
 au 11, l'année au cours de laquelle intervient soit la réduction du capital de
-la société, en exécution d'un plan de redressement mentionné aux articles L.
-621-70 et suivants du code de commerce, soit la cession de l'entreprise ordonnée
-par le tribunal en application des articles L. 621-83 et suivants de ce code,
-soit le jugement de clôture de la liquidation judiciaire.
+la société, en exécution d'un plan de redressement mentionné à l'article L.
+631-19 du code de commerce, soit la cession de l'entreprise ordonnée par le
+tribunal en application de l'article L. 631-22 de ce code, soit le jugement de
+clôture de la liquidation judiciaire.
 
 Par exception aux dispositions du premier alinéa, préalablement à l'annulation
 des titres, les pertes sur valeurs mobilières, droits sociaux ou titres
 assimilés peuvent, sur option expresse du détenteur, être imputées dans les
 conditions prévues au 11, à compter de l'année au cours de laquelle intervient
-le jugement ordonnant la cession de l'entreprise en application des articles L.
-621-83 et suivants du code de commerce, en l'absence de tout plan de
-continuation, ou prononçant sa liquidation judiciaire. L'option porte sur
-l'ensemble des valeurs mobilières, droits sociaux ou titres assimilés détenus
-dans la société faisant l'objet de la procédure collective et s'exerce
-concomitamment à celle prévue au I de l'article 163 octodecies A. En cas
-d'infirmation du jugement ou de résolution du plan de cession, la perte imputée
-ou reportée est reprise au titre de l'année au cours de laquelle intervient cet
-événement.
+le jugement ordonnant la cession de l'entreprise en application de l'article L.
+631-22 du code de commerce, en l'absence de tout plan de continuation, ou
+prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs
+mobilières, droits sociaux ou titres assimilés détenus dans la société faisant
+l'objet de la procédure collective et s'exerce concomitamment à celle prévue au
+I de l'article 163 octodecies A. En cas d'infirmation du jugement ou de
+résolution du plan de cession, la perte imputée ou reportée est reprise au titre
+de l'année au cours de laquelle intervient cet événement.
 
 Les dispositions des premier et deuxième alinéas ne s'appliquent pas :
 
@@ -130,11 +129,11 @@ D ;
 
 b. Aux pertes constatées par les personnes à l'encontre desquelles le tribunal a
 prononcé au titre des sociétés en cause l'une des condamnations mentionnées aux
-articles L. 624-3, L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8,
-L. 626-2 ou L. 626-6 du code de commerce. Lorsque l'une de ces condamnations est
-prononcée à l'encontre d'un contribuable ayant exercé l'option prévue au
-deuxième alinéa, la perte ainsi imputée ou reportée est reprise au titre de
-l'année de la condamnation.
+articles L. 651-2, L. 652-1, L. 653-4, L. 653-5, L. 653-6, L. 653-8, L. 654-2 ou
+L. 654-6 du code de commerce. Lorsque l'une de ces condamnations est prononcée à
+l'encontre d'un contribuable ayant exercé l'option prévue au deuxième alinéa, la
+perte ainsi imputée ou reportée est reprise au titre de l'année de la
+condamnation.
 
 13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix
 effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre

@@ -4,6 +4,6 @@ Article 1679 bis B
 
 2. (sans objet)
 
-3. Les versements exigibles en application de l'article L. 991-8 du code du
-travail et les pénalités correspondantes sont recouvrés immédiatement dans les
-conditions prévues au I de l'article L. 951-9 du même code.
+3. Les versements exigibles au titre du contrôle de la formation professionnelle
+continue sont effectués conformément aux règles mentionnées à la deuxième phrase
+du quatrième alinéa de l'article L. 991-8 du code du travail.

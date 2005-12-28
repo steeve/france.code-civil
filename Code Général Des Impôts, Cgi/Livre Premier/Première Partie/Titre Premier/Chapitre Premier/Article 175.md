@@ -10,5 +10,5 @@ et les personnes exerçant une activité non commerciale, placées sous le régi
 de la déclaration contrôlée.
 
 La déclaration des sommes versées ou distribuées dans les conditions mentionnées
-à l'article 1763 A est faite en même temps que celle relative à l'impôt sur les
+à l'article 1759 est faite en même temps que celle relative à l'impôt sur les
 sociétés prévu au chapitre II du présent titre.

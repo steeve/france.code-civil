@@ -1,7 +1,7 @@
 Article R*664-4
 ----
-La réserve est gérée par l'Office national interprofessionnel des vins
-(ONIVINS).
+La réserve est gérée par l'Office national interprofessionnel des fruits, des
+légumes, des vins et de l'horticulture.
 
 Les crédits d'intervention ainsi que les recettes correspondant aux opérations
 d'achat et de cessions de droits par la réserve s'inscrivent dans l'état
@@ -15,5 +15,6 @@ conditions fixées à l'article R. 621-32.
 
 Les titulaires de droits de replantation peuvent en proposer la cession à la
 réserve en s'adressant à la délégation régionale de l'Office national
-interprofessionnel des vins compétente pour le département dans lequel est situé
-le siège de l'exploitation détentrice de ces droits.
+interprofessionnel des fruits, des légumes, des vins et de l'horticulture
+compétente pour le département dans lequel est situé le siège de l'exploitation
+détentrice de ces droits.

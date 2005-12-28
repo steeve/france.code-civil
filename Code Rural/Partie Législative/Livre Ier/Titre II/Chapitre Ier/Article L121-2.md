@@ -1,21 +1,17 @@
 Article L121-2
 ----
-Le préfet peut instituer une commission communale d'aménagement foncier, après
-avis du conseil général, lorsque l'utilité d'un aménagement foncier lui est
-signalée, notamment par le conseil municipal ou par des propriétaires ou des
-exploitants de la commune.
+Le conseil général peut instituer une commission communale ou intercommunale
+d'aménagement foncier :
 
-L'institution d'une commission communale d'aménagement foncier est de droit :
+1° A la demande du ou des conseils municipaux des communes intéressées lorsqu'il
+est envisagé un aménagement foncier agricole et forestier ou une opération
+d'échanges et cessions de parcelles dans le cadre d'un périmètre d'aménagement
+foncier ;
 
-1° Si le conseil général le demande ;
+2° A la demande des propriétaires ou exploitants de la commune lorsque ceux-ci
+envisagent de procéder à des échanges et cessions amiables dans les conditions
+prévues à l'article L. 124-3.
 
-2° En cas de mise en oeuvre de l'article L. 123-24 ;
-
-3° En zone de montagne, lorsqu'elle est demandée à l'occasion de l'élaboration
-ou de la révision d'un plan d'occupation des sols et, dans les mêmes conditions,
-dans les zones définies par décret après avis de la commission départementale
-d'aménagement foncier et accord du conseil général ;
-
-4° Après avis du conseil municipal de la commune, lorsque le programme d'une
-charte intercommunale d'aménagement et de développement approuvé a prévu la mise
-en oeuvre d'une opération d'aménagement foncier.
+Dans le cas prévu à l'article L. 123-24, la constitution d'une commission
+communale ou intercommunale d'aménagement foncier est de droit à compter de la
+publication de l'arrêté d'ouverture d'enquête publique.

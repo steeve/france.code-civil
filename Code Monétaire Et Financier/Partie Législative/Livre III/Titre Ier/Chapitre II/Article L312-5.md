@@ -18,6 +18,14 @@ de cette intervention. Il peut en particulier subordonner celle-ci à la cession
 totale ou partielle de l'établissement de crédit ou à l'extinction de son
 activité, notamment par la cession de son fonds de commerce.
 
+Les sommes versées par le fonds de garantie dans le cadre de l'intervention
+préventive bénéficient du privilège mentionné à l'article L. 611-11 du code de
+commerce.
+
+Le fonds de garantie ne peut être tenu responsable des préjudices subis du fait
+des concours consentis, sauf dans les cas limitativement énumérés à l'article L.
+650-1 du même code.
+
 III. - Pour l'application des présentes dispositions, le fonds de garantie peut
 participer, sur demande d'un organe central mentionné à l'article L. 511-30, à
 l'action de ce dernier en prenant en charge une partie du coût des mesures

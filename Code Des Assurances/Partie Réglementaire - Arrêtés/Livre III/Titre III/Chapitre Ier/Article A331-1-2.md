@@ -13,3 +13,9 @@ génération homologuées par arrêté du ministre de l'économie.
 Les entreprises devront néanmoins avoir, dans un délai d'au plus huit ans, un
 niveau de provisionnement des rentes viagères supérieur ou égal à celui obtenu
 avec la table TV 88-90 homologuée par arrêté du 27 avril 1993.
+
+Les dispositions des alinéas précédents ne font pas obstacle au pouvoir de
+l'autorité mentionnée à l'article L. 310-12 d'exiger conformément à l'article R.
+331-1 qu'une entreprise d'assurance majore les provisions mathématiques
+mentionnées au premier alinéa, après examen des données d'expérience relatives à
+la population d'assurés.

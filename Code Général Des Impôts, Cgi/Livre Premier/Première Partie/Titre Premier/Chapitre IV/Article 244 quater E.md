@@ -67,8 +67,8 @@ investissements.
 difficulté peuvent ouvrir droit au crédit d'impôt prévu au 1° si elles ont reçu
 un agrément préalable délivré dans les conditions prévues à l'article 1649
 nonies. Une entreprise est considérée comme étant en difficulté lorsqu'elle fait
-l'objet d'une procédure de redressement judiciaire ou lorsque sa situation
-financière rend imminente sa cessation d'activité.
+l'objet d'une procédure de sauvegarde ou de redressement judiciaire ou lorsque
+sa situation financière rend imminente sa cessation d'activité.
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt
 aux investissements prévus dans le cadre du plan de restructuration présenté par

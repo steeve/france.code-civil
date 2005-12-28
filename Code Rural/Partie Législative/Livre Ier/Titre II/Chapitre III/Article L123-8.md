@@ -10,10 +10,10 @@ parcelles ;
 le comblement de fossés, lorsque ces travaux présentent un caractère d'intérêt
 collectif pour l'exploitation du nouvel aménagement parcellaire ;
 
-3° Tous travaux d'amélioration foncière connexes au remembrement, tels que ceux
-qui sont nécessaires à la sauvegarde des équilibres naturels ou qui ont pour
-objet, notamment, la protection des sols, l'écoulement des eaux nuisibles, la
-retenue et la distribution des eaux utiles ;
+3° Tous travaux d'amélioration foncière connexes à l'aménagement foncier
+agricole et forestier, tels que ceux qui sont nécessaires à la sauvegarde des
+équilibres naturels ou qui ont pour objet, notamment, la protection des sols,
+l'écoulement des eaux nuisibles, la retenue et la distribution des eaux utiles ;
 
 4° Les travaux de rectification, de régularisation et de curage de cours d'eau
 non domaniaux, soit lorsque ces travaux sont indispensables à l'établissement
@@ -30,4 +30,4 @@ berges. La commission communale identifie les emprises foncières correspondant 
 ces éléments.
 
 L'assiette des ouvrages mentionnés aux 1°, 3°, 4° et 5° est prélevée sans
-indemnité sur la totalité des terres à remembrer.
+indemnité sur la totalité des terres à aménager.

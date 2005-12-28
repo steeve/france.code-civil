@@ -1,15 +1,14 @@
 Article 1840 G ter
 ----
-I. En cas de défaut de production de la justification prévue au 2° du II du A de
-l'article 1594-0 G, l'acquéreur est tenu d'acquitter, à première réquisition,
-l'imposition dont il avait été exonéré.
+I. - Lorsqu'une exonération ou une réduction de droits d'enregistrement ou de
+taxe de publicité foncière a été obtenue en contrepartie du respect d'un
+engagement ou de la production d'une justification, le non-respect de
+l'engagement ou le défaut de production de la justification entraîne
+l'obligation de payer les droits dont la mutation a été exonérée. Les droits,
+majorés de l'intérêt de retard prévu à l'article 1727, doivent être acquittés
+dans le mois qui suit, selon le cas, la rupture de l'engagement ou l'expiration
+du délai prévu pour produire la justification requise.
 
-II. Les personnes mentionnées aux 1°, 1° bis et 3° du I de l'article 35 ayant
-acquis des biens visés au I du A de l'article 1594-0 G avant le 1er janvier 1993
-pour lesquels le délai pour construire expire au 31 décembre 1998 sont tenues
-d'acquitter le montant des impositions dont elles avaient été exonérées, réduit
-respectivement de 75 %, 50 % ou 25 % selon que les justifications prévues au 2°
-du II du A de l'article 1594-0 G sont produites au plus tard les 31 décembre
-2000, 2002 ou 2004.
-
-III. Les modalités d'application du présent article sont fixées par décret.
+II. - En cas de non-respect des engagements prévus au II de l'article 1135 bis,
+à l'article 1137 et au I bis de l'article 1594, un droit supplémentaire de 1 %
+s'ajoute aux droits et à l'intérêt de retard prévu à l'article 1727.

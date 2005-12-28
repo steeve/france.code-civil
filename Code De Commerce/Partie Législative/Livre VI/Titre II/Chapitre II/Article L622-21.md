@@ -1,18 +1,15 @@
 Article L622-21
 ----
-Le liquidateur autorisé par le juge-commissaire peut, en payant la dette,
-retirer les biens constitués en gage par le débiteur ou la chose retenue.
+I. - Le jugement d'ouverture interrompt ou interdit toute action en justice de
+la part de tous les créanciers dont la créance n'est pas mentionnée au I de
+l'article L. 622-17 et tendant :
 
-A défaut de retrait, le liquidateur doit, dans les six mois du jugement de
-liquidation judiciaire, demander au juge-commissaire l'autorisation de procéder
-à la réalisation. Le liquidateur notifie l'autorisation au créancier quinze
-jours avant la réalisation.
+1° A la condamnation du débiteur au paiement d'une somme d'argent ;
 
-Le créancier gagiste, même s'il n'est pas encore admis, peut demander, avant la
-réalisation, l'attribution judiciaire. Si la créance est rejetée en tout ou en
-partie, il restitue au liquidateur le bien ou sa valeur, sous réserve du montant
-admis de sa créance.
+2° A la résolution d'un contrat pour défaut de paiement d'une somme d'argent.
 
-En cas de vente par le liquidateur, le droit de rétention est de plein droit
-reporté sur le prix. L'inscription éventuellement prise pour la conservation du
-gage est radiée à la diligence du liquidateur.
+II. - Il arrête ou interdit également toute voie d'exécution de la part de ces
+créanciers tant sur les meubles que sur les immeubles.
+
+III. - Les délais impartis à peine de déchéance ou de résolution des droits sont
+en conséquence suspendus.

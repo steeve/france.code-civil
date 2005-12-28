@@ -44,7 +44,7 @@ sécurité sociale, aux entreprises régies par le code des assurances et aux
 mutuelles, unions et fédérations régies par le présent code ;
 
 3° Si une mesure définitive de faillite personnelle ou une autre mesure
-définitive d'interdiction prévue aux articles L. 625-1 à L. 625-10 du code de
+définitive d'interdiction prévue aux articles L. 625-1 à L. 653-11 du code de
 commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13
 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
 personnelle et les banqueroutes a été prononcée à son égard ou s'il a été

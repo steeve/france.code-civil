@@ -1,22 +1,31 @@
 Article L228-5
 ----
-Sont punis de l'amende prévue pour les contraventions de la 5e classe :
+I. - Est puni de 3750 euros d'amende le fait de :
 
-1° Le fait de ne pas effectuer les déclarations prescrites à l'article L. 226-4
-ou de ne pas remettre à la personne chargée de l'exécution du service public de
-l'équarrissage les cadavres d'animaux ou les viandes visées au même article ;
+1° Jeter en quelque lieu que ce soit des cadavres d'animaux ou des matières
+animales définis par le règlement (CE) n° 1774/2002 du Parlement européen et du
+Conseil, du 3 octobre 2002, établissant des règles sanitaires applicables aux
+sous-produits animaux non destinés à la consommation humaine ;
 
-2° Le fait pour les personnes chargées de l'exécution du service public de
-l'équarrissage de ne pas procéder aux enlèvements dans les délais prescrits à
-l'article L. 226-5 ;
+2° Utiliser, à des fins autres que l'élimination, des cadavres d'animaux et des
+matières animales dont l'élimination est obligatoire ;
 
-3° Le fait pour toute personne chargée d'une mission d'équarrissage d'exercer
-l'une des activités visées au premier alinéa de l'article L. 226-7 ;
+3° Ne pas effectuer les déclarations prescrites à l'article L. 226-6 ou ne pas
+remettre à la personne chargée d'une activité d'équarrissage les cadavres
+d'animaux et les matières animales dont l'élimination est obligatoire ;
 
-4° Le fait pour tout inspecteur d'un service d'inspection des viandes, tout
-préposé à ce service, tout inspecteur d'un atelier d'équarrissage d'exercer la
-profession d'équarrisseur ou d'avoir des intérêts directs ou indirects dans un
-atelier d'équarrissage.
+4° Exercer à la fois une activité d'équarrissage et une activité de commerce ou
+de transport d'animaux, de viandes ou de produits carnés destinés à la
+consommation humaine ;
 
-Dans les cas de récidive ou d'infractions commises de mauvaise foi, une peine de
-six mois d'emprisonnement peut être prononcée.
+5° Exercer une activité d'équarrissage sur un site sur lequel est exercée une
+activité de commerce ou de transport d'animaux, de viandes ou de produits carnés
+destinés à la consommation humaine.
+
+II. - Les personnes morales peuvent être déclarées responsables pénalement, dans
+les conditions prévues à l'article 121-2 du code pénal, des infractions définies
+au I. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.

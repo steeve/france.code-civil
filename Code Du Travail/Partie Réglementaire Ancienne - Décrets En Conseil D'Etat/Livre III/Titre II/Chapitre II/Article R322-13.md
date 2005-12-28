@@ -1,10 +1,10 @@
 Article R322-13
 ----
-Le comité supérieur de l'emploi comprend [*composition*] :
+Le comité supérieur de l'emploi comprend :
 
 Le ministre chargé de l'emploi ou son représentant, président ;
 
-Deux [*nombre*] représentants du ministre chargé du travail ;
+Deux représentants du ministre chargé du travail ;
 
 Deux représentants du ministre de l'économie et des finances ;
 
@@ -19,7 +19,8 @@ Un représentant du ministre de l'agriculture ;
 Deux représentants du ministre délégué auprès du Premier ministre, chargé du
 Plan et de l'aménagement du territoire, dont l'un désigné au titre du
 commissariat général du Plan d'équipement et de la productivité et l'autre au
-titre de la délégation à l'aménagement du territoire et à l'action régionale ;
+titre de la délégation interministérielle à l'aménagement et à la compétitivité
+des territoires ;
 
 Le secrétaire général du comité interministériel de la formation professionnelle
 et de la promotion sociale ou son représentant ;

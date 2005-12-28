@@ -1,9 +1,9 @@
 Article R323-73
 ----
-Lorsque la commission technique d'orientation et de reclassement professionnel
-estime qu'un travailleur handicapé peut être dirigé vers une activité
-indépendante, une subvention d'installation peut lui être attribuée en vue de
-l'achat et de l'installation de l'équipement nécessaire à cette activité.
+Les personnes handicapées pour lesquelles la commission mentionnée à l'article
+L. 146-9 du code de l'action sociale et des familles prononce une orientation
+vers le marché du travail et qui se dirigent vers une activité indépendante
+peuvent bénéficier d'une subvention d'installation. Cette subvention contribue à
+l'achat et à l'installation de l'équipement nécessaire à cette activité.
 
-Le montant et les conditions d'attribution de cette subvention sont fixés par
-décret.
+Son montant et ses conditions d'attribution sont fixés par décret.

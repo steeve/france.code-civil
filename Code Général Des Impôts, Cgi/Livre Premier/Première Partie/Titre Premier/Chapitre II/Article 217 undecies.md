@@ -25,10 +25,10 @@ apportés par les sociétés de financement définies au g du 2 de l'article 199
 undecies A.
 
 La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de
-réhabilitation d'h&lt;CB&gt;tel, de résidence de tourisme et de village de
-vacances classés et aux logiciels nécessaires à l'utilisation des
-investissements éligibles, lorsque ces travaux et logiciels constituent des
-éléments de l'actif immobilisé.
+réhabilitation d'hôtel, de résidence de tourisme et de village de vacances
+classés et aux logiciels nécessaires à l'utilisation des investissements
+éligibles, lorsque ces travaux et logiciels constituent des éléments de l'actif
+immobilisé.
 
 La déduction prévue au premier alinéa s'applique à la réalisation
 d'investissements nécessaires à l'exploitation d'une concession de service
@@ -299,9 +299,8 @@ investissements est cédé ou cesse d'être affecté à l'exploitation de
 l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage
 résultant de l'application du premier alinéa est rapporté au résultat imposable
 de l'exercice au cours duquel cet événement se réalise, majoré d'un montant égal
-au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième
-alinéa de l'article 1727 et appliqué dans les conditions mentionnées à l'article
-1727 A.
+au produit de cet avantage par le taux de l'intérêt de retard prévu à l'article
+1727.
 
 Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant
 ouvert droit à déduction sont transmis dans le cadre d'opérations soumises aux

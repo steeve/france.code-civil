@@ -17,8 +17,7 @@ provisoire ;
 d'agrément prévu au 5° ou le transfert partiel de portefeuille prévu au 6° du
 même article ;
 
-3° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code
-de commerce ;
+3° Abrogé.
 
-4° La procédure de redressement judiciaire mentionnée au titre II du livre VI du
-code de commerce.
+4° La procédure de redressement judiciaire mentionnée au livre VI du code de
+commerce.

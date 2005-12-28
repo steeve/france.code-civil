@@ -3,43 +3,43 @@ Article 170
 Entrent notamment dans les prévisions du deuxième alinéa du I de l'article 1040
 du code général des impôts :
 
-La caisse des dépôts et consignations ;
+la caisse des dépôts et consignations ;
 
-L'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ;
 
-La caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ;
 
-La caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ;
 
-La caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ;
 
-La caisse autonome des retraites des ouvriers mineurs ;
+la caisse autonome des retraites des ouvriers mineurs ;
 
-La caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ;
 
-La caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-Les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ;
 
-Les chambres d'agriculture ;
+les chambres d'agriculture ;
 
-Les chambres de métiers ;
+les chambres de métiers et de l'artisanat ;
 
-Le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ;
 
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-L'entreprise minière et chimique ;
+l'entreprise minière et chimique ;
 
-Les sections de l'office central de répartition des produits industriels ;
+les sections de l'office central de répartition des produits industriels ;
 
-L'office national des anciens combattants et victimes de guerre ;
+l'office national des anciens combattants et victimes de guerre ;
 
-Les voies navigables de France ;
+voies navigables de France ;
 
-L'office national interprofessionnel des céréales ;
+l'office national interprofessionnel des céréales ;
 
-Les offices publics d'habitations à loyer modéré ;
+les offices publics d'habitations à loyer modéré ;
 
-Les régies municipales, intercommunales et départementales exploitant des
+les régies municipales, intercommunales et départementales exploitant des
 services à caractère industriel ou commercial.

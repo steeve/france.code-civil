@@ -28,4 +28,4 @@ asine et de leurs croisements, gibiers ruminants d'élevage : 47 euros/t.
 
 5,00 euros/t.
 
-2. Le taux b est fixé à 197 euros par tonne de déchets.
+2. Le taux b est fixé à 0 euro par tonne de déchets.

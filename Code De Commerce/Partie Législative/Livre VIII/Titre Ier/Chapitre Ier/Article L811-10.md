@@ -23,12 +23,12 @@ d'intérêts à caractère familial.
 La qualité d'administrateur judiciaire inscrit sur la liste ne fait pas obstacle
 à l'exercice d'une activité de consultation dans les matières relevant de la
 qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire
-ad hoc et de conciliateur prévus par l'article L. 611-3 du présent code et par
-l'article L. 351-4 du code rural, de commissaire à l'exécution du plan,
-d'administrateur ou de liquidateur amiable, d'expert judiciaire et de séquestre
-amiable ou judiciaire. Cette activité et ces mandats, à l'exception des mandats
-de mandataire ad hoc, de conciliateur et de commissaire à l'exécution du plan,
-ne peuvent être exercés qu'à titre accessoire.
+ad hoc et de conciliateur prévus aux articles L. 611-3 et L. 611-6 du présent
+code et par l'article L. 351-4 du code rural, de commissaire à l'exécution du
+plan, d'administrateur ou de liquidateur amiable, d'expert judiciaire et de
+séquestre amiable ou judiciaire. Cette activité et ces mandats, à l'exception
+des mandats de mandataire ad hoc, de conciliateur et de commissaire à
+l'exécution du plan, ne peuvent être exercés qu'à titre accessoire.
 
 Les conditions du présent article sont, à l'exception du quatrième alinéa,
 applicables aux personnes morales inscrites.

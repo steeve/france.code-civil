@@ -1,8 +1,9 @@
 Article 188 ter
 ----
-Pour l'application du 5 de l'article 1730, le télérèglement des impôts directs
-s'effectue sur option du contribuable, qui ordonne l'opération sur l'un des
-comptes mentionnés à l'article 1681 D du code général des impôts.
+Pour l'application du 5 de l'article 1730 du code général des impôts, le
+télérèglement des impôts directs s'effectue sur option du contribuable, qui
+ordonne l'opération sur l'un des comptes mentionnés à l'article 1681 D du même
+code.
 
 Cette option peut être exercée, sans majoration, jusqu'au cinquième jour, à
 minuit, qui suit la date limite de paiement pour les acomptes et le solde de

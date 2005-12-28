@@ -22,9 +22,9 @@ délai de deux mois à compter de la date du fait qui lui en a ouvert le droit.
 Le fonds repris doit être effectivement mis en valeur dans l'année qui suit la
 date de la reprise par le propriétaire.
 
-Pendant les délais susmentionnés, tout boisement est soumis à autorisation
-préfectorale sauf dans les zones à vocation forestière définies en application
-de l'article L. 126-1.
+Pendant les délais susmentionnés, tout boisement est soumis à l'autorisation du
+président du conseil général prévue à l'article L. 121-19 sauf dans les zones à
+vocation forestière définies en application de l'article L. 126-1.
 
 Lorsque le propriétaire et, le cas échéant, le titulaire du droit d'exploitation
 ont fait connaître qu'ils renonçaient ou lorsque le fonds n'a pas effectivement

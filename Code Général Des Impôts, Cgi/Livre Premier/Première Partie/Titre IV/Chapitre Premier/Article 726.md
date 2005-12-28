@@ -3,7 +3,7 @@ Article 726
 I. Les cessions de droits sociaux sont soumises à un droit d'enregistrement dont
 le taux est fixé :
 
-1° A 1 % :
+1° A 1,10 % :
 
 - pour les actes portant cessions d'actions, de parts de fondateurs ou de parts
 bénéficiaires des sociétés par actions cotées en bourse ;
@@ -13,9 +13,9 @@ de parts de fondateurs ou de parts bénéficiaires des sociétés par actions no
 cotées en bourse, et de parts ou titres du capital, souscrits par les clients,
 des établissements de crédit mutualistes ou coopératifs.
 
-Ce droit est plafonné à 3 049 euros par mutation ;
+Ce droit est plafonné à 4 000 euros par mutation ;
 
-2° A 4,80 % :
+2° A 5 % :
 
 - pour les cessions de parts sociales dans les sociétés dont le capital n'est
 pas divisé en actions, à l'exception des cessions de parts ou titres du capital
@@ -43,7 +43,9 @@ effectuées par une société créée en vue de racheter une autre société dan
 conditions prévues aux articles 83 ter, 199 terdecies A, 220 quater ou 220
 quater A. Lorsque le rachat a été soumis à l'accord du ministre chargé des
 finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions
-est subordonné à cet accord.
+est subordonné à cet accord. Cet avantage n'est plus applicable à compter de
+l'année au cours de laquelle l'une des conditions prévues aux articles 83 ter,
+199 terdecies A et 220 quater A cesse d'être satisfaite.
 
 Les perceptions mentionnées au I ne sont pas applicables aux cessions de droits
 sociaux résultant d'opérations de pensions régies par les articles L. 432-12 à
@@ -52,4 +54,4 @@ L. 432-19 du code monétaire et financier.
 III. - Pour la liquidation du droit prévu au 2° du I, il est appliqué sur la
 valeur de chaque part sociale d'une société qui n'est pas à prépondérance
 immobilière un abattement égal au rapport entre la somme de 23 000 euros et le
-nombre total de parts sociales de la société (1).
+nombre total de parts sociales de la société.

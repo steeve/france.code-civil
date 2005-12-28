@@ -1,6 +1,6 @@
 Article L952-4
 ----
-Les employeurs sont tenus de remettre au service des impôts compétent une
+Les employeurs sont tenus de remettre à la recette des impôts compétente une
 déclaration indiquant notamment les montants de la participation à laquelle ils
 étaient tenus et des versements effectués ainsi que la désignation de
 l'organisme destinataire.

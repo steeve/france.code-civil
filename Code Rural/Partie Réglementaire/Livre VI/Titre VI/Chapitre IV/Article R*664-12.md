@@ -1,9 +1,10 @@
 Article R*664-12
 ----
 Des plantations nouvelles peuvent être autorisées pour les superficies destinées
-à de nouvelles plantations dans le cadre d'un remembrement ou de mesures
-d'expropriation pour cause d'utilité publique, à l'expérimentation, à la culture
-de vignes-mères de greffons sans récolte de fruits.
+à de nouvelles plantations dans le cadre d'un aménagement foncier agricole et
+forestier ou de mesures d'expropriation pour cause d'utilité publique, à
+l'expérimentation, à la culture de vignes-mères de greffons sans récolte de
+fruits.
 
 Les critères, les contingents d'autorisations et les autorisations de ces
 plantations pour des vignes aptes à produire des vins de qualité produits dans

@@ -85,8 +85,8 @@ Val-de-Marne ;
 de l'Essonne et du Val-d'Oise. A compter de la promulgation de la loi n°
 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
 urbains, les communes des autres départements éligibles à la dotation de
-solidarité urbaine prévue à l'article L. 2334-15 du code général des
-collectivités territoriales sont réputées appartenir à la troisième
+solidarité urbaine et de cohésion sociale prévue à l'article L. 2334-15 du code
+général des collectivités territoriales sont réputées appartenir à la troisième
 circonscription.
 
 Dans chaque circonscription, ce tarif est réduit pour les locaux possédés par
@@ -134,7 +134,7 @@ Trésor du lieu de situation des locaux imposables.
 
 VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les
 sanctions relatifs à la taxe sont régis par les règles applicables en matière de
-taxe sur les salaires jusqu'au 31 décembre 2003 (1).
+taxe sur les salaires jusqu'au 31 décembre 2003.
 
 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le
 recouvrement de la taxe.

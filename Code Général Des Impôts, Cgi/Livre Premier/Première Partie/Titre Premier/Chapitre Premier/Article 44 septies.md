@@ -2,22 +2,20 @@ Article 44 septies
 ----
 I. - Les sociétés créées pour reprendre une entreprise industrielle en
 difficulté qui fait l'objet d'une cession ordonnée par le tribunal en
-application des articles L. 621-83 et suivants du code de commerce bénéficient
-d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à
-l'exclusion des plus-values constatées lors de la réévaluation des éléments
-d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur
-création et déclarés selon les modalités prévues à l'article 53 A. Le montant de
-cette exonération est déterminé dans les conditions prévues par les dispositions
-des II à IX.
+application de l'article L. 626-1, de l'article L. 631-22 ou des articles L.
+642-1 et suivants du code de commerce bénéficient d'une exonération d'impôt sur
+les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values
+constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au
+terme du vingt-troisième mois suivant celui de leur création et déclarés selon
+les modalités prévues à l'article 53 A. Le montant de cette exonération est
+déterminé dans les conditions prévues par les dispositions des II à IX.
 
-Cette exonération peut être également accordée lorsque la procédure de
-redressement judiciaire n'est pas mise en oeuvre, ou lorsque la reprise concerne
-des branches complètes et autonomes d'activité industrielle et est effectuée
-dans le cadre de cessions ordonnées par le juge-commissaire en application de
-l'article L. 622-17 du code de commerce, ou lorsque la reprise porte sur un ou
-plusieurs établissements industriels en difficulté d'une entreprise industrielle
-et dans la mesure où la société créée pour cette reprise est indépendante
-juridiquement et économiquement de l'entreprise cédante.
+Cette exonération peut être également accordée lorsque les procédures de
+sauvegarde ou de redressement judiciaire ne sont pas mises en oeuvre, ou lorsque
+la reprise porte sur un ou plusieurs établissements industriels en difficulté
+d'une entreprise industrielle et dans la mesure où la société créée pour cette
+reprise est indépendante juridiquement et économiquement de l'entreprise
+cédante.
 
 N'ouvrent pas droit au bénéfice de l'exonération les activités exercées dans
 l'un des secteurs suivants : transports, construction de véhicules automobiles,

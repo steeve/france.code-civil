@@ -42,7 +42,8 @@ acquisitions et détiennent des factures établies conformément à la
 réglementation communautaire. Toutefois, les redevables qui n'ont pas porté sur
 la déclaration mentionnée au d du 1 le montant de la taxe due au titre
 d'acquisitions intracommunautaires sont autorisés à opérer la déduction lorsque
-cette taxe a été payée au Trésor.
+les conditions de fond sont remplies et sous réserve de l'application de
+l'amende prévue au 4 de l'article 1788 A.
 
 3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les
 redevables doivent apporter les rectifications correspondantes dans leurs

@@ -34,7 +34,7 @@ l'article L. 341-4 du code de la sécurité sociale ;
 
 b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la
 résidence à titre principal bénéficie d'une allocation attribuée en vertu des
-dispositions des articles L. 821-1 à L. 821-9 ou L. 541-1 à L. 541-3 du même
+dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même
 code ;
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la

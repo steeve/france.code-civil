@@ -10,8 +10,8 @@ des compagnies judiciaires réunissant : les avoués près les cours d'appel, le
 huissiers de justice, les personnes ayant la qualité de commissaire-priseur
 judiciaire ou de personne habilitée à diriger les ventes dans les conditions
 prévues à l'article L. 321-8 du code de commerce, les administrateurs
-judiciaires, les mandataires judiciaires à la liquidation des entreprises, les
-greffiers des tribunaux de commerce, les arbitres près le tribunal de commerce ;
+judiciaires, les mandataires judiciaires, les greffiers des tribunaux de
+commerce, les arbitres près le tribunal de commerce ;
 
 3° La section professionnelle des médecins ;
 

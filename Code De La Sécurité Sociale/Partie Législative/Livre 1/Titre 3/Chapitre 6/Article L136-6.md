@@ -33,8 +33,8 @@ contribution sur les revenus d'activité et de remplacement définie aux article
 L. 136-1 à L. 136-5.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A et, aux 2° et
-5° du 3 de l'article 158 du code général des impôts.
+application des abattements mentionnés au I de l'article 125-0 A, aux 2° et 5°
+du 3 ainsi qu'au 4 bis de l'article 158 du code général des impôts.
 
 II. - Sont également assujettis à la contribution, dans les conditions et selon
 les modalités prévues au I ci-dessus :

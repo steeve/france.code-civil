@@ -12,13 +12,13 @@ paiement des obligations foncières et des autres ressources privilégiées
 mentionnées au 2 du I de l'article L. 515-13 ;
 
 2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de
-redressement ou de liquidation judiciaires, ou de règlement amiable, les
-créances nées régulièrement des opérations mentionnées au 2 du I de l'article L.
-515-13 sont payées à leur échéance contractuelle et par priorité à toutes les
-autres créances, assorties ou non de privilèges ou de sûretés, y compris les
-intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à l'entier
-désintéressement des titulaires des créances privilégiées au sens du présent
-article, nul autre créancier de la société de crédit foncier ne peut se
+sauvegarde, de redressement ou de liquidation judiciaires, ou de règlement
+amiable, les créances nées régulièrement des opérations mentionnées au 2 du I de
+l'article L. 515-13 sont payées à leur échéance contractuelle et par priorité à
+toutes les autres créances, assorties ou non de privilèges ou de sûretés, y
+compris les intérêts résultant de contrats, quelle qu'en soit la durée. Jusqu'à
+l'entier désintéressement des titulaires des créances privilégiées au sens du
+présent article, nul autre créancier de la société de crédit foncier ne peut se
 prévaloir d'un droit quelconque sur les biens et droits de cette société ;
 
 3. La liquidation judiciaire d'une société de crédit foncier n'a pas pour effet

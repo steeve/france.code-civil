@@ -13,10 +13,7 @@ d'assurance maladie complémentaire.
 Ces règles prévoient l'exclusion totale ou partielle de la prise en charge de la
 majoration de participation des assurés et de leurs ayants droit visée à
 l'article L. 162-5-3 et des actes et prestations pour lesquels le patient n'a
-pas accordé l'autorisation visée à l'article L. 161-36-2. Elles prévoient
-également l'exclusion totale ou partielle de la prise en charge des dépassements
-d'honoraires sur le tarif des actes et consultations visés au 18° de l'article
-L. 162-5.
+pas accordé l'autorisation visée à l'article L. 161-36-2.
 
 Elles prévoient également la prise en charge totale ou partielle des prestations
 liées à la prévention, aux consultations du médecin traitant mentionné à

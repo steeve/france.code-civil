@@ -21,16 +21,17 @@ Les revenus ainsi déterminés sont divisés par douze ;
 
 b) Des prestations servies par les organismes débiteurs de prestations
 familiales, à l'exception de l'allocation de rentrée scolaire, des compléments
-d'allocation d'éducation spéciale liés aux périodes de retour au foyer,
-lorsqu'ils ne sont pas payés mensuellement, de la prime à la naissance ou à
-l'adoption et du complément de libre choix du mode de garde de la prestation
-d'accueil du jeune enfant ; sont également exclus les versements d'allocation
-aux adultes handicapés et de son complément ainsi que ceux du revenu minimum
-d'insertion, lorsqu'ils sont liés aux périodes de congé ou de suspension de
-prise en charge mentionnées respectivement aux articles R. 821-8, R. 821-13, R.
-821-14 et à l'article 29 du décret n° 88-1111 du 12 décembre 1988 modifié
-relatif à la détermination du revenu minimum d'insertion et à l'allocation de
-revenu minimum d'insertion et modifiant le code de la sécurité sociale.
+et de la majoration de l'allocation d'éducation de l'enfant handicapé liés aux
+périodes de retour au foyer, lorsqu'ils ne sont pas payés mensuellement, de la
+prime à la naissance ou à l'adoption et du complément de libre choix du mode de
+garde de la prestation d'accueil du jeune enfant ; sont également exclus les
+versements d'allocation aux adultes handicapés et de son complément ainsi que
+ceux du revenu minimum d'insertion, lorsqu'ils sont liés aux périodes de congé
+ou de suspension de prise en charge mentionnées respectivement aux articles R.
+821-8, R. 821-13, R. 821-14 et à l'article 29 du décret n° 88-1111 du 12
+décembre 1988 modifié relatif à la détermination du revenu minimum d'insertion
+et à l'allocation de revenu minimum d'insertion et modifiant le code de la
+sécurité sociale.
 
 Les prestations mentionnées au b ci-dessus sont constituées des prestations dues
 au titre de la première mensualité sur laquelle porte la récupération ;
@@ -73,21 +74,21 @@ III. - Le montant mensuel du prélèvement effectué sur les prestations à éch
 est calculé sur le revenu mensuel pondéré résultant du II, dans les conditions
 suivantes :
 
-25 % sur la tranche de revenus comprise entre 1 333 F et 2 000 F ;
+25 % sur la tranche de revenus comprise entre 231 euros et 345 euros ;
 
-35 % sur la tranche de revenus comprise entre 2 001 F et 3 000 F ;
+35 % sur la tranche de revenus comprise entre 346 euros et 516 euros ;
 
-45 % sur la tranche de revenus comprise entre 3 001 F et 4 000 F ;
+45 % sur la tranche de revenus comprise entre 517 euros et 690 euros ;
 
-60 % sur la tranche de revenus supérieure à 4 001 F.
+60 % sur la tranche de revenus supérieure à 691 euros.
 
-Il est opéré une retenue forfaitaire de 200 F sur la tranche de revenus
-inférieure à 1 333 F.
+Il est opéré une retenue forfaitaire de 37 euros sur la tranche de revenus
+inférieure à 231 euros.
 
 Lorsque les informations relatives aux revenus de l'allocataire et de son
 conjoint ou concubin ne sont pas en possession de l'organisme débiteur de
-prestations familiales, le revenu mensuel pondéré est réputé être égal à 6 000
-F. Dans ce cas, l'organisme débiteur de prestations familiales en informe
+prestations familiales, le revenu mensuel pondéré est réputé être égal à 1034
+euros. Dans ce cas, l'organisme débiteur de prestations familiales en informe
 l'allocataire. Le recouvrement est poursuivi sur ces bases à défaut de réception
 de la déclaration du montant de ces revenus.
 

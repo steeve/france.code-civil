@@ -15,7 +15,7 @@ l'article 223 B ;
 d. Registre mentionné au II de l'article 54 septies ;
 
 e. Etat prévu au IV de l'article 41, au I de l'article 54 septies, au II de
-l'article 151 octies ou au 2 du II et au VI de l'article 151 nonies au titre de
+l'article 151 octies ou au 2 du II de l'article 151 nonies au titre de
 l'exercice au cours duquel est réalisée l'opération visée par ces dispositions
 ou au titre des exercices ultérieurs.
 

@@ -24,14 +24,14 @@ L'employeur est remboursé sur production d'états nominatifs, visés par
 l'autorité administrative compétente, précisant le nombre d'heures chômées par
 chaque salarié.
 
-Toutefois, en cas de redressement ou de liquidation judiciaire, ou de
-difficultés financières de l'employeur, le préfet, ou sur délégation le
-directeur départemental du travail, de l'emploi et de la formation
-professionnelle, peut faire procéder au paiement direct des allocations aux
-salariés. La procédure de paiement direct des allocations aux salariés peut
-également être employée pour assurer, sous le contrôle des services de l'emploi,
-l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs
-employeurs.
+Toutefois, en cas de procédure de sauvegarde ou de redressement ou de
+liquidation judiciaire, ou de difficultés financières de l'employeur, le préfet,
+ou sur délégation le directeur départemental du travail, de l'emploi et de la
+formation professionnelle, peut faire procéder au paiement direct des
+allocations aux salariés. La procédure de paiement direct des allocations aux
+salariés peut également être employée pour assurer, sous le contrôle des
+services de l'emploi, l'indemnisation des travailleurs à domicile habituellement
+occupés par plusieurs employeurs.
 
 A l'occasion du paiement des allocations, un document indiquant le nombre des
 heures indemnisées, les taux appliqués et les sommes versées au titre de la

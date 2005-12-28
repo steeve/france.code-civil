@@ -1,6 +1,6 @@
 Article 41 sexies B
 ----
-I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 100 000
+I. - Le montant annuel en valeur du seuil d'assimilation est fixé à 150 000
 euros à l'introduction comme à l'expédition.
 
 II. - Le montant annuel en valeur du seuil de simplification est fixé à 230 000

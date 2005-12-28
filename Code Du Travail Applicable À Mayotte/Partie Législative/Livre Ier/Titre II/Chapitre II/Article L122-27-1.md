@@ -17,4 +17,4 @@ moins de sept jours ouvrables à compter de la date pour laquelle le salarié a
 été convoqué en application de l'article L. 122-27.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables en cas de
-procédure de sauvegarde ou de redressement ou de liquidation judiciaire.
+redressement ou de liquidation judiciaire.

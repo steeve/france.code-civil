@@ -6,13 +6,19 @@ qu'il a apportés, déduction faite de la surface nécessaire aux ouvrages
 collectifs mentionnés à l'article L. 123-8 et compte tenu des servitudes
 maintenues ou créées.
 
-Lorsque des terrains ne peuvent être réattribués conformément aux dispositions
-des articles L. 123-2 et L. 123-3, en raison de la création des aires
-nécessaires aux ouvrages collectifs communaux, il peut être attribué une valeur
-d'échange tenant compte de leur valeur vénale.
+Lorsque des terrains visés aux articles L. 123-2 et L. 123-3 ou situés dans les
+zones urbanisées ou d'urbanisation future identifiées par les documents
+d'urbanisme visés à l'article L. 121-1 et ne bénéficiant pas des éléments de
+viabilité visés au a du 1° du II de l'article L. 13-15 du code de
+l'expropriation pour cause d'utilité publique sont attribués à la commune en vue
+de la réalisation des projets communaux ou intercommunaux visés à l'article L.
+123-27 du présent code, il peut être attribué au propriétaire une valeur
+d'échange tenant compte de la valeur vénale résultant des caractéristiques
+desdits terrains.
 
 L'attribution d'une soulte en espèces, fixée le cas échéant comme en matière
-d'expropriation, peut être accordée.
+d'expropriation, peut être mise à la charge de la commune. Cette soulte est
+recouvrée dans les conditions définies au dernier alinéa de l'article L. 121-24.
 
 Sauf accord exprès des intéressés, l'équivalence en valeur de productivité
 réelle doit, en outre, être assurée par la commission communale dans chacune des
@@ -37,17 +43,19 @@ exprès, aux propriétaires dont les apports ne comprennent qu'une seule nature 
 culture.
 
 Tout propriétaire de parcelles situées dans une aire délimitée d'appellation
-d'origine contrôlée ne couvrant qu'une partie du périmètre de remembrement peut
-demander à la commission communale ou intercommunale d'aménagement foncier
-qu'une superficie équivalente lui soit attribuée dans cette aire.
+d'origine contrôlée ne couvrant qu'une partie du périmètre d'aménagement foncier
+agricole et forestier peut demander à la commission communale ou intercommunale
+d'aménagement foncier qu'une superficie équivalente lui soit attribuée dans
+cette aire.
 
 Le paiement d'une soulte en espèces est autorisé lorsqu'il y a lieu d'indemniser
 le propriétaire du terrain cédé des plus-values transitoires qui s'y trouvent
 incorporées et qui sont définies par la commission. Le montant de la soulte
 n'est versé directement au bénéficiaire que si l'immeuble qu'il cède est libre
 de toute charge réelle, à l'exception des servitudes maintenues. La dépense
-engagée par le département au titre du remembrement de la commune comprend, dans
-la limite de 1 p. 100 de cette dépense, les soultes ainsi définies.
+engagée par le département au titre de l'aménagement foncier agricole et
+forestier de la commune comprend, dans la limite de 1 p. 100 de cette dépense,
+les soultes ainsi définies.
 
 Le paiement de soultes en espèces est également autorisé lorsqu'il y a lieu
 d'indemniser les propriétaires de terrains cédés des plus-values à caractère

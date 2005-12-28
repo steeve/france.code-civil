@@ -2,22 +2,22 @@ Article 150-0 A
 ----
 I. - 1. Sous réserve des dispositions propres aux bénéfices industriels et
 commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que
-de l'article 150 UB, les gains nets retirés des cessions à titre onéreux,
-effectuées directement ou par personne interposée, de valeurs mobilières, de
-droits sociaux, de titres mentionnés au 1° de l'article 118 et aux 6° et 7° de
-l'article 120, de droits portant sur ces valeurs, droits ou titres ou de titres
-représentatifs des mêmes valeurs, droits ou titres, sont soumis à l'impôt sur le
-revenu lorsque le montant de ces cessions excède, par foyer fiscal, 15 000 euros
-par an.
+des articles 150 UB et 150 UC, les gains nets retirés des cessions à titre
+onéreux, effectuées directement ou par personne interposée, de valeurs
+mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et
+aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou
+titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont
+soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par
+foyer fiscal, 15 000 euros par an.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation
 personnelle, familiale ou professionnelle des contribuables, le franchissement
 de la limite précitée est apprécié par référence à la moyenne des cessions de
 l'année considérée et des deux années précédentes. Les événements exceptionnels
-doivent notamment s'entendre de la mise à la retraite, du chômage, du
-redressement ou de la liquidation judiciaires ainsi que de l'invalidité ou du
-décès du contribuable ou de l'un ou l'autre des époux soumis à une imposition
-commune.
+doivent notamment s'entendre de la mise à la retraite, du chômage, de la
+procédure de sauvegarde, du redressement ou de la liquidation judiciaires ainsi
+que de l'invalidité ou du décès du contribuable ou de l'un ou l'autre des époux
+soumis à une imposition commune.
 
 2. Le complément de prix reçu par le cédant en exécution de la clause du contrat
 de cession de valeurs mobilières ou de droits sociaux par laquelle le
@@ -78,7 +78,7 @@ condition que, à la date de la clôture, les titres figurant dans le plan aient
 rachat total. Pour l'appréciation de la limite mentionnée au 1 du I, la valeur
 liquidative du plan ou la valeur de rachat du contrat de capitalisation à la
 date de sa clôture, est ajoutée au montant des cessions réalisées en dehors du
-plan au cours de la même année (1);
+plan au cours de la même année ;
 
 3. Au gain net retiré des cessions de titres de sociétés immobilières pour le
 commerce et l'industrie non cotées ;
@@ -87,8 +87,27 @@ commerce et l'industrie non cotées ;
 capital variable et au gain net résultant des rachats de parts de fonds communs
 de placement définis au 2 du III ou de la dissolution de tels fonds ;
 
+4 bis. Au gain net retiré des rachats d'actions de sociétés de placement à
+prépondérance immobilière à capital variable mentionnées au 3° nonies de
+l'article 208 ;
+
+4 ter. Par dérogation aux dispositions de l'article 239 nonies, aux titres cédés
+dans le cadre de leur gestion par les fonds de placement immobilier régis par
+les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une
+personne physique agissant directement ou par personne interposée possède plus
+de 10 % des parts du fonds.
+
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont
 la durée à l'émission est supérieure à cinq ans.
+
+6. Indépendamment de l'application des dispositions des articles 109, 112, 120
+et 161, au gain net retiré par le bénéficiaire lors d'un rachat par une société
+émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D. Pour
+l'appréciation de la limite mentionnée au 1 du I, le montant du remboursement
+des titres diminué du montant du revenu distribué imposable à l'impôt sur le
+revenu au titre de ce rachat dans les conditions prévues aux articles 109, 112,
+120 et 161 est ajouté au montant des cessions réalisées au cours de la même
+année.
 
 III. - Les dispositions du I ne s'appliquent pas :
 

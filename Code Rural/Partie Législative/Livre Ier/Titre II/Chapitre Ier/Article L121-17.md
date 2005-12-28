@@ -23,11 +23,16 @@ toutes les modifications apportées au réseau des chemins ruraux.
 Les dépenses d'acquisition de l'assiette, s'il y a lieu, et les frais
 d'établissement et d'entretien des voies communales ou des chemins ruraux
 modifiés ou créés dans les conditions fixées par le présent article sont à la
-charge de la commune. Si le chemin est en partie limitrophe de deux communes,
-chacune d'elles supporte par moitié la charge afférente à cette partie. Le
-conseil municipal peut charger l'association foncière de la réorganisation d'une
-partie ou de la totalité des chemins ruraux, ainsi que de l'entretien et de la
-gestion de ceux-ci.
+charge de la commune. L'emprise nécessaire à la création ou à la modification de
+tracé ou d'emprise des voies communales ou des chemins ruraux peut être
+attribuée à la commune, à sa demande, en contrepartie de ses apports dans le
+périmètre d'aménagement foncier, à la condition que ceux-ci couvrent l'ensemble
+des apports nécessaires à cette création ou modification et que la surface des
+emprises nécessaires ne dépasse pas 5 % de la surface du périmètre. Si le chemin
+est en partie limitrophe de deux communes, chacune d'elles supporte par moitié
+la charge afférente à cette partie. Le conseil municipal peut charger
+l'association foncière de la réorganisation d'une partie ou de la totalité des
+chemins ruraux, ainsi que de l'entretien et de la gestion de ceux-ci.
 
 Les servitudes de passage sur les chemins ruraux supprimés sont supprimées avec
 eux.

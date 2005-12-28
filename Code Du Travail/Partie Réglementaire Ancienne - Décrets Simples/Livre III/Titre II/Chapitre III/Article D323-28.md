@@ -1,7 +1,8 @@
 Article D323-28
 ----
-Le service public de l'emploi doit prendre note sur une fiche spéciale portant
-la désignation précise de l'entreprise, des offres reçues du même employeur pour
-des bénéficiaires de l'article L. 323-36. La fiche mentionne la date des offres
-reçues, la nature des emplois offerts, la suite donnée à chaque offre, ainsi que
-tous renseignements relatifs à l'application des articles L. 323-36 et suivants.
+La subvention spécifique ne peut être allouée qu'aux entreprises adaptées et
+centres de distribution de travail à domicile qui ont conclu le contrat
+d'objectifs mentionné à l'article R. 323-62. Après avis du comité de
+coordination régional de l'emploi et de la formation professionnelle, un avenant
+financier au contrat d'objectifs fixe le montant de la subvention spécifique et
+les modalités du contrôle exercé par l'Etat.

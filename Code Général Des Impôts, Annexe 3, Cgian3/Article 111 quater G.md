@@ -17,7 +17,7 @@ contrôle de la redevance sanitaire d'abattage ;
 direction générale des impôts et comportant les indications nécessaires à
 l'assiette et à la perception de la redevance.
 
-Cette déclaration doit être remise par chaque redevable à la recette des impôts
+Cette déclaration doit être remise par chaque redevable au service des impôts
 dont dépend le lieu d'abattage ou de traitement du gibier sauvage avant le 25 du
 mois suivant celui au cours duquel les opérations imposables ont été réalisées.
 La redevance doit être acquittée dans le même délai. Lorsque son montant est

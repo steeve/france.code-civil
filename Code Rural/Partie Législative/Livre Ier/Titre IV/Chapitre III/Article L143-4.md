@@ -15,7 +15,7 @@ actes conclus entre indivisaires en application des articles 815-14, 815-15 et
 
 4° Sous réserve, dans tous les cas, que l'exploitation définitive ainsi
 constituée ait une surface inférieure à la superficie mentionnée au I, 1° de
-l'article 188-2 du code rural, les acquisitions réalisées :
+l'article L331-2 du code rural, les acquisitions réalisées :
 
 a) Par les salariés agricoles, les aides familiaux et les associés
 d'exploitation, majeurs, sous réserve qu'ils satisfassent à des conditions
@@ -26,8 +26,8 @@ application des articles L. 411-5 à L. 411-7, L. 411-57 à L. 411-63, L. 411-67
 L. 415-10 et L. 415-11 relatifs au droit de reprise des propriétaires privés ou
 des collectivités publiques, ainsi que par les agriculteurs à titre principal
 expropriés, sous réserve que l'exercice du droit de reprise ou l'expropriation
-ait eu pour l'exploitation de l'intéressé l'une des conséquences énoncées au II,
-2°, de l'article 188-2 du code rural, ou qu'elle l'ait supprimée totalement ;
+ait eu pour l'exploitation de l'intéressé l'une des conséquences énoncées au I,
+2°, de l'article L331-2 du code rural, ou qu'elle l'ait supprimée totalement ;
 
 5° Les acquisitions de terrains destinées :
 
@@ -58,10 +58,8 @@ c) Si elles ont fait l'objet d'une autorisation de défrichement ou si elles son
 dispensées d'une déclaration de défrichement en application de l'article L.
 311-2, 3°, du code forestier ;
 
-d) Si elles sont situées dans un périmètre d'aménagement foncier forestier
-institué en application de l'article L. 512-1 du code forestier ou dans un
-périmètre d'aménagement foncier agricole et forestier défini en application du
-4° de l'article L. 126-1 ;
+d) Si elles sont situées dans un périmètre d'aménagement foncier agricole et
+forestier en zone forestière prévu aux articles L. 123-18 à L. 123-22 ;
 
 7° Les biens compris dans un plan de cession totale ou partielle d'une
 entreprise arrêté conformément aux articles 81 et suivants de la loi n° 85-98 du

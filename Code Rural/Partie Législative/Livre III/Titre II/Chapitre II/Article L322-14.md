@@ -12,7 +12,7 @@ ci-après reproduits :
 "Art. 746 : Les partages de biens meubles et immeubles entre copropriétaires,
 cohéritiers et coassociés, à quelque titre que ce soit, pourvu qu'il en soit
 justifié, sont assujettis à un droit d'enregistrement ou à une taxe de publicité
-foncière de 1 %.
+foncière de 1,10 %.
 
 "Art. 748 bis : Le droit d'enregistrement ou la taxe de publicité foncière prévu
 à l'article 746 est applicable au partage d'un groupement foncier agricole pour

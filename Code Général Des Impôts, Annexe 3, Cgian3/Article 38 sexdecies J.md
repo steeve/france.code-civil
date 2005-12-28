@@ -27,9 +27,8 @@ végétales de l'exploitant de mesures de police administrative prévues aux
 articles L. 234-4, L. 251-2 et L. 251-9 du code rural ;
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de
-mesures de police sanitaire prévues par l'article 8 du décret n° 95-100 du 26
-janvier 1995 modifié ou de mesures sanitaires prévues par l'article 5 du décret
-n° 94-340 du 28 avril 1994 modifié ;
+mesures de police sanitaire prévues par l'article D. 236-14 du code rural ou de
+mesures sanitaires prévues par l'article D. 231-39 du même code ;
 
 3° Aléas familiaux :
 

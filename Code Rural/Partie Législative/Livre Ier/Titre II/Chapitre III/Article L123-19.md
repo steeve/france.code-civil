@@ -1,20 +1,35 @@
 Article L123-19
 ----
-Si la commune le demande, l'équivalent des terres qu'elle apporte au
-remembrement-aménagement lui est attribué dans la surface affectée à
-l'urbanisation. Cette attribution ne peut toutefois excéder la moitié de ladite
-surface. Les attributions aux autres propriétaires sont faites, selon le
-pourcentage défini au deuxième alinéa de l'article L. 123-18, sur la superficie
-restante.
+La commission communale ou intercommunale détermine les différents types de
+peuplements forestiers compris dans la zone forestière du périmètre de
+l'aménagement.
 
-Les terres attribuées à la société d'aménagement foncier et d'établissement
-rural dans la surface affectée à l'urbanisation sont cédées par cette société
-dans les conditions prévues au second alinéa de l'article L. 141-2 et à
-l'article L. 142-1.
+Pour chacun de ces types de peuplement, chaque propriétaire doit recevoir dans
+la nouvelle distribution, d'une part, des terrains dont la surface est
+équivalente, en valeur de productivité, à celle des terrains apportés, compte
+tenu de la surface nécessaire aux ouvrages collectifs prévus par l'article L.
+123-8, ainsi que des servitudes maintenues ou créées, les dispositions du
+troisième alinéa de l'article L. 123-4 étant en outre applicables, et, d'autre
+part, des peuplements dont la valeur d'avenir est équivalente à celle des
+peuplements apportés.
 
-Tout propriétaire peut demander à la commission communale d'aménagement foncier
-la totalité de ses attributions en terrains agricoles. La demande peut être
-rejetée si elle est de nature à compromettre la bonne réalisation de l'opération
-de remembrement-aménagement. Les conditions de présentation et d'instruction des
-demandes ainsi que le moment des opérations où les demandes ne seront plus
-recevables sont fixées par décret en Conseil d'Etat.
+Il peut toutefois être dérogé à l'obligation d'assurer l'une ou l'autre des
+équivalences prévues ci-dessus soit en vertu d'un accord exprès des intéressés,
+soit dans les limites fixées, pour chaque région forestière du département, par
+la commission départementale. Celle-ci détermine à cet effet, après avis du
+centre régional de la propriété forestière :
+
+1° Les écarts en pourcentage qui, pour chaque type de peuplement, peuvent être
+tolérés entre apports et attributions de chaque propriétaire en ce qui concerne
+la valeur de productivité réelle des terrains et la valeur d'avenir des
+peuplements ; cette tolérance ne peut excéder 20 % de la valeur de productivité
+réelle des terrains et 5 % de la valeur d'avenir des peuplements ;
+
+2° La surface en dessous de laquelle les apports d'un propriétaire dans un
+certain type de peuplement peuvent être compensés par des attributions dans un
+type différent. Cette surface ne peut excéder 4 hectares.
+
+Les peuplements forestiers situés sur les parcelles apportées ou attribuées font
+l'objet d'une évaluation qui donne lieu, le cas échéant, au paiement d'une
+soulte en espèces dans les conditions prévues à l'article L. 123-4. Une soulte
+en nature peut également être prévue avec l'accord des propriétaires intéressés.

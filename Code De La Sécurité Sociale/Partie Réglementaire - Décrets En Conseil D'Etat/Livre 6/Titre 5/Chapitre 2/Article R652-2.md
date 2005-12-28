@@ -38,8 +38,8 @@ qu'en cas d'insuffisance de fonds celui-ci vient en concours avec les autres
 créanciers, même privilégiés, auteurs de mesures de prélèvement emportant
 attribution immédiate notifiées au cours de la même journée ; que ni la
 notification ultérieure d'une autre mesure de prélèvement, ni la survenance d'un
-jugement portant ouverture d'un redressement ou d'une liquidation judiciaires ne
-remettent en cause cette attribution ;
+jugement portant ouverture d'une procédure de sauvegarde ou de redressement ou
+d'une liquidation judiciaires ne remettent en cause cette attribution ;
 
 10° L'indication que le tiers détenteur dispose d'un délai de deux jours pour
 communiquer à l'organisme créancier tous renseignements et pièces justificatives
@@ -64,5 +64,5 @@ faisant l'objet de l'opposition. A cette fin, le créancier peut requérir de
 l'ordonnateur qu'il lui indique le comptable public assignataire de la dépense
 ainsi que tous les renseignements nécessaires à la mise en oeuvre de la mesure.
 
-L'article R. 52-11 du code des postes et télécommunications et l'article 31 du
-code des caisses d'épargne sont applicables.
+L'article R. 52-11 du code des postes et télécommunications et l'article L.
+221-5 du code monétaire et financier sont applicables.

@@ -1,19 +1,19 @@
 Article L621-33
 ----
 Toutes infractions à la présente section et aux décrets et arrêtés ministériels
-pris pour son application sont punies, dans les conditions de l'article 1791 du
-code général des impôts, d'une amende fiscale de 100 F à 5 000 F, d'une pénalité
-dont le montant est compris entre une et trois fois celui des droits fraudés ou
-compromis, sans préjudice de la confiscation des marchandises et, le cas
-échéant, des moyens de transport.
+pris pour son application sont punies, dans les conditions du I de l'article
+1791 du code général des impôts, d'une amende fiscale de 15 euros à 750 euros,
+d'une pénalité dont le montant est compris entre une et trois fois celui des
+droits fraudés ou compromis, sans préjudice de la confiscation des marchandises
+et, le cas échéant, des moyens de transport.
 
 Si le délinquant est un meunier ou un négociant en grains, déjà condamné depuis
 moins de cinq ans pour la même infraction, la condamnation entraîne de plein
 droit contre lui l'interdiction d'exploiter soit un moulin, soit un commerce de
 grains pendant un délai dont le tribunal fixe la durée. Pendant ce délai, le
-condamné ne peut, à peine d'une amende fiscale de 100 F à 5 000 F, être employé
-à quelque titre que ce soit dans l'établissement qu'il a exploité, même s'il l'a
-vendu, loué ou mis en gérance.
+condamné ne peut, à peine d'une amende fiscale de 15 euros à 750 euros, être
+employé à quelque titre que ce soit dans l'établissement qu'il a exploité, même
+s'il l'a vendu, loué ou mis en gérance.
 
 Toutes les amendes infligées en vertu de la présente section sont perçues au
 bénéfice de l'office national interprofessionnel des céréales.

@@ -18,9 +18,9 @@ sens du 1 de l'article 92 ;
 
 4° Les sociétés d'assurance mutuelles ;
 
-5° Les artisans établis dans la circonscription d'une chambre de métiers,
-régulièrement inscrits au répertoire des métiers et qui ne sont pas portés sur
-la liste électorale de la chambre de commerce et d'industrie de leur
+5° Les artisans établis dans la circonscription d'une chambre de métiers et de
+l'artisanat, régulièrement inscrits au répertoire des métiers et qui ne sont pas
+portés sur la liste électorale de la chambre de commerce et d'industrie de leur
 circonscription ;
 
 6° Les caisses de crédit agricole mutuel ;
@@ -28,7 +28,7 @@ circonscription ;
 7° Les caisses de crédit mutuel adhérentes à la confédération nationale du
 crédit mutuel ;
 
-8° La caisse nationale de crédit agricole ;
+8° L'organe central du crédit agricole ;
 
 9° Les caisses d'épargne et de prévoyance ;
 
@@ -42,27 +42,37 @@ La base d'imposition est réduite de moitié pour les artisans régulièrement
 inscrits au répertoire des métiers et qui restent portés sur la liste électorale
 de la chambre de commerce et d'industrie de leur circonscription.
 
-II. Les chambres de commerce et d'industrie autres que les chambres régionales
+II. - Les chambres de commerce et d'industrie autres que les chambres régionales
 de commerce et d'industrie votent chaque année le taux de la taxe mentionnée au
 I. Ce taux ne peut excéder celui de l'année précédente.
 
-Toutefois, pour les chambres de commerce et d'industrie qui ont adhéré à un
-schéma directeur régional tel que défini par la loi, ce taux peut être augmenté
-dans une proportion qui ne peut être supérieure à celle fixée chaque année par
-la loi. Lorsque le taux de 2004 défini au V de l'article 53 de la loi de
-finances rectificative pour 2004 (n° 2004-1485 du 30 décembre 2004) est
-inférieur au taux moyen constaté la même année au niveau national pour
-l'ensemble des chambres de commerce et d'industrie, le taux de l'année
-d'imposition ainsi déterminé peut également, au titre des cinq années qui
-suivent celle de l'adoption de la délibération de la chambre approuvant le
-schéma directeur régional, être majoré du dixième de la différence entre le taux
-moyen précité et le taux de 2004.
+Toutefois, pour les chambres de commerce et d'industrie qui ont délibéré
+favorablement pour mettre en oeuvre un schéma directeur régional prévu par
+l'article L. 711-8 du code de commerce, ce taux peut être augmenté dans une
+proportion qui ne peut être supérieure à celle fixée chaque année par la loi.
+Lorsque le taux de 2004 défini au V de l'article 53 de la loi n° 2004-1485 du 30
+décembre 2004 de finances rectificative pour 2004 est inférieur au taux moyen
+constaté la même année au niveau national pour l'ensemble des chambres de
+commerce et d'industrie, le taux de l'année d'imposition ainsi déterminé peut
+également, au titre des cinq années qui suivent celle de l'adoption de la
+délibération de la chambre approuvant le schéma directeur régional, être majoré
+du dixième de la différence entre le taux moyen précité et le taux de 2004.
 
-Dans un département où il n'y a qu'une chambre de commerce et d'industrie le
-rôle comprend les redevables de la taxe pour frais de chambres de commerce de
-tout le département. S'il y a dans le département plusieurs chambres de commerce
-et d'industrie, le rôle de chacune d'elles comprend les redevables de la taxe
-qui sont imposés dans sa circonscription.
+A compter des impositions établies au titre de 2011, le taux de la taxe
+mentionnée au I ne peut excéder 95 % du taux de l'année précédente pour les
+chambres de commerce et d'industrie qui n'ont pas, au 31 décembre de l'année
+précédant celle de l'imposition, délibéré favorablement pour mettre en oeuvre un
+schéma directeur régional prévu par l'article L. 711-8 du code de commerce ou
+dont l'autorité de tutelle a constaté, à la même date, qu'elles n'ont pas
+respecté les dispositions prévues audit schéma. Si la chambre n'a pas voté son
+taux dans les conditions prévues au présent alinéa, elle est administrée selon
+les dispositions de l'article L. 712-8 du code de commerce.
+
+Dans un département où il n'y a qu'une chambre de commerce et d'industrie, le
+rôle comprend les redevables visés au I de tout le département. S'il y a dans le
+département plusieurs chambres de commerce et d'industrie, le rôle de chacune
+d'elles comprend les redevables de la taxe qui sont imposés dans sa
+circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent
 article.

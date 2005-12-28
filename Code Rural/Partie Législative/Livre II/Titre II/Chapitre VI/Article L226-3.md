@@ -1,12 +1,15 @@
 Article L226-3
 ----
-L'indemnisation mentionnée à l'article L. 226-1 n'est due que si le montant des
-dommages est supérieur à un minimum fixé par décret en Conseil d'Etat.
+Il est interdit de jeter en quelque lieu que ce soit les sous-produits animaux.
 
-En tout état de cause, l'indemnité fait l'objet d'un abattement proportionnel
-fixé par décret en Conseil d'Etat.
+Les propriétaires ou détenteurs de tous cadavres d'animaux doivent confier ces
+derniers à un établissement agréé en vue de leur élimination par incinération ou
+co-incinération.
 
-En outre, elle peut être réduite s'il est constaté que la victime des dégâts a,
-par un procédé quelconque, favorisé l'arrivée du gibier sur son fonds, en
-particulier en procédant de façon répétée, et sans respecter les assolements
-pratiqués dans la région, à des cultures de nature à l'attirer.
+Les propriétaires ou détenteurs de matières animales doivent confier ces
+dernières à un établissement agréé en vue de leur élimination ou de leur
+utilisation.
+
+Les modalités de délivrance des agréments prévus par le règlement (CE) n°
+1774/2002 du 3 octobre 2002 précité sont définies par arrêté du ministre chargé
+de l'agriculture et, le cas échéant, des autres ministres intéressés.

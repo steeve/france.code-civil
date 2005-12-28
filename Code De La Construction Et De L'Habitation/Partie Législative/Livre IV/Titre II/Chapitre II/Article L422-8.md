@@ -15,13 +15,14 @@ commerce, notamment ses articles L. 225-129, L. 225-204 et L. 228-23, toute
 augmentation ou réduction du capital social ou toute cession d'action est
 soumise à l'agrément de l'administrateur provisoire, à peine de nullité.
 
-Lorsque la société fait l'objet d'un plan de redressement approuvé par le
-conseil d'administration de la Caisse de garantie du logement social,
-l'administrateur provisoire peut soumettre à l'assemblée générale extraordinaire
-tout projet d'augmentation du capital social rendu nécessaire par le plan de
-redressement. En cas de refus de l'assemblée générale extraordinaire, la
-décision de procéder à l'augmentation de capital est prise par le conseil
-d'administration de la Caisse de garantie du logement social.
+Lorsque la société fait l'objet de plans de sauvegarde ou de redressement
+approuvés par le conseil d'administration de la Caisse de garantie du logement
+social, l'administrateur provisoire peut soumettre à l'assemblée générale
+extraordinaire tout projet d'augmentation du capital social rendu nécessaire par
+les plans de sauvegarde ou de redressement. En cas de refus de l'assemblée
+générale extraordinaire, la décision de procéder à l'augmentation de capital est
+prise par le conseil d'administration de la Caisse de garantie du logement
+social.
 
 Pendant la durée de l'administration provisoire, l'assemblée générale ne peut
 désigner un nouveau conseil d'administration ou conseil de surveillance. A

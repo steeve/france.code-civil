@@ -50,15 +50,6 @@ civile précédente. Celui versé en décembre est égal au cinquième de cette 
 Le complément de taxe éventuellement exigible est versé lors du dépôt de la
 déclaration annuelle mentionnée au premier alinéa du 3 de l'article 287.
 
-A titre transitoire pour l'année 2004, les redevables mentionnés à l'alinéa
-précédent acquittent un acompte calculé sur les salaires versés au titre de
-chaque trimestre échu. Ces acomptes sont versés spontanément en avril, juillet
-et octobre. L'acompte de décembre 2004, également versé spontanément, est
-calculé sur les salaires versés au titre du bimestre échu. La taxe due au titre
-de 2004 est liquidée sur la déclaration mentionnée au premier alinéa du 3 de
-l'article 287 souscrite en 2005. Le montant des acomptes payés au titre de
-l'année 2004 est imputé sur le montant de la taxe due.
-
 La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes
 sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre
 d'affaires.
@@ -67,12 +58,13 @@ Les réclamations sont présentées, instruites et jugées selon les règles
 applicables à ces mêmes taxes.
 
 V. - L'Association nationale pour la formation automobile est placée sous le
-contrôle économique et financier de l'Etat ; un contrôleur d'Etat est désigné
-par le ministre chargé du budget.
+contrôle économique et financier de l'Etat ; un membre du corps du contrôle
+général économique et financier est désigné par le ministre chargé du budget.
 
 Un commissaire du Gouvernement auprès de l'association est désigné par le
 ministre chargé de l'éducation nationale en accord avec le ministre chargé de la
 formation professionnelle.
 
-Les modalités d'exercice des attributions du contrôleur d'Etat et du commissaire
-du Gouvernement sont fixées par décret.
+Les modalités d'exercice des attributions du membre du corps du contrôle général
+économique et financier et du commissaire du Gouvernement sont fixées par
+décret.

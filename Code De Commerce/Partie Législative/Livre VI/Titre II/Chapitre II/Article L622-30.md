@@ -1,11 +1,15 @@
 Article L622-30
 ----
-A tout moment, le tribunal peut prononcer, même d'office, le débiteur entendu ou
-dûment appelé et sur rapport du juge-commissaire, la clôture de la liquidation
-judiciaire :
+Les hypothèques, nantissements et privilèges ne peuvent plus être inscrits
+postérieurement au jugement d'ouverture. Il en va de même des actes et des
+décisions judiciaires translatifs ou constitutifs de droits réels, à moins que
+ces actes n'aient acquis date certaine ou que ces décisions ne soient devenues
+exécutoires avant le jugement d'ouverture.
 
-1° Lorsqu'il n'existe plus de passif exigible ou que le liquidateur dispose des
-sommes suffisantes pour désintéresser les créanciers ;
+Toutefois, le Trésor public conserve son privilège pour les créances qu'il
+n'était pas tenu d'inscrire à la date du jugement d'ouverture et pour les
+créances mises en recouvrement après cette date si ces créances sont déclarées
+dans les conditions prévues à l'article L. 622-24.
 
-2° Lorsque la poursuite des opérations de liquidation judiciaire est rendue
-impossible en raison de l'insuffisance de l'actif.
+Le vendeur du fonds de commerce, par dérogation aux dispositions du premier
+alinéa, peut inscrire son privilège.

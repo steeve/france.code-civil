@@ -20,3 +20,12 @@ ou à une inspection est tenu, sans pouvoir opposer le secret professionnel, de
 déférer aux demandes des personnes chargées du contrôle ou de l'inspection
 tendant à la communication de tout renseignement recueilli ou de tout document
 établi dans le cadre de l'exécution de sa mission.
+
+La Caisse des dépôts et consignations est tenue, sans pouvoir opposer le secret
+professionnel, de déférer aux demandes des personnes chargées de l'inspection
+ainsi qu'à celles du conseil national mentionné à l'article L. 814-2 pour
+l'exercice du contrôle dont il est chargé, tendant à la communication de tout
+renseignement ou document utiles à la connaissance des mouvements de fonds
+intervenus sur les comptes ouverts dans ses livres au nom de chaque
+administrateur judiciaire et de sommes qui y sont déposées au titre des mandats
+sur lesquels porte l'inspection ou le contrôle.

@@ -35,8 +35,9 @@ restant à courir.
 Le dispositif s'applique sur agrément, délivré dans les conditions prévues à
 l'article 1649 nonies, aux entreprises visées au premier alinéa et en
 difficulté. Une entreprise est considérée comme étant en difficulté lorsqu'elle
-fait l'objet d'une procédure de redressement judiciaire ou lorsque sa situation
-financière rend imminente sa cessation d'activité.
+fait l'objet d'une procédure de conciliation, de sauvegarde ou de redressement
+judiciaire ou lorsque sa situation financière rend imminente sa cessation
+d'activité.
 
 L'agrément mentionné au sixième alinéa est accordé si l'octroi de l'exonération
 dont bénéficierait l'entreprise n'altère pas les échanges dans une mesure

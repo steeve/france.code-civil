@@ -12,7 +12,8 @@ rend compte de sa gestion.
 
 Il prépare le budget et l'exécute.
 
-Il est ordonnateur des recettes et des dépenses.
+Il est ordonnateur des recettes et des dépenses, y compris pour l'Observatoire
+des risques médicaux institué en application de l'article L. 1142-29.
 
 Il recrute, nomme et gère les agents contractuels de l'office et les affecte, le
 cas échéant, dans les commissions régionales et interrégionales de conciliation
@@ -28,15 +29,17 @@ civile.
 
 Il conclut les marchés publics, les contrats et les baux.
 
-Sous réserve des dispositions de l'article R. 1142-46, il détermine les offres
-d'indemnisation proposées aux demandeurs et le montant des provisions à leur
-verser, et il décide, le cas échéant, des actions en justice liées aux
-indemnisations mentionnées articles L. 1142-15, L. 1142-17 et L. 1142-21.
+Sous réserve des dispositions de l'article R. 1142-46, il détermine ou, dans les
+cas prévus aux articles L. 3111-9 et L. 3122-5, présente les offres
+d'indemnisation proposées aux demandeurs ainsi que le montant des provisions à
+leur verser, et il décide, le cas échéant, des actions en justice liées aux
+indemnisations mentionnées aux articles L. 1142-15, L. 1142-17, L. 1142-21, L.
+3110-4, L. 3111-9 et L. 3122-4.
 
 Le directeur informe le conseil d'administration des modalités d'indemnisation,
 de l'état des procédures et du suivi des dossiers ainsi que des actions
-récursoires exercées en application des articles L. 1142-15, L. 1142-17 et L.
-1142-21.
+récursoires exercées en application des articles L. 1142-15, L. 1142-17, L.
+1142-21, L. 3110-4, L. 3111-9 et L. 3122-4.
 
 Le directeur informe chaque commission régionale ou interrégionale de
 conciliation et d'indemnisation des accidents médicaux, des affections

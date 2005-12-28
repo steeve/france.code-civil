@@ -1,6 +1,6 @@
 Article L226-7
 ----
-L'exercice de la mission d'équarrissage définie à l'article L. 226-1 est
+L'exercice de la mission d'équarrissage définie à l'article L. 226-2 est
 incompatible avec toute activité de commerce et de transport d'animaux, de
 viandes ou de produits carnés destinés à la consommation humaine.
 

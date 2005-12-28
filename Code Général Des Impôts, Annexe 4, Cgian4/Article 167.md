@@ -1,54 +1,54 @@
 Article 167
 ----
-1. Sont notamment soumis au régime prévu à l'article 165 1 :
+1. Sont notamment soumis au régime prévu au 1 de l'article 165 :
 
-Les voies navigables de France ;
+voies navigables de France ;
 
-La caisse nationale du crédit agricole ;
+la caisse nationale du crédit agricole ;
 
-Les chambres de commerce et d'industrie et ports autonomes ;
+les chambres de commerce et d'industrie et ports autonomes ;
 
-Le comité national interprofessionnel des viandes ;
+le comité national interprofessionnel des viandes ;
 
-L'entreprise de recherches et d'activités pétrolières (E.R.A.P.) ;
+l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-L'entreprise minière et chimique ;
+l'entreprise minière et chimique ;
 
-Les régies municipales intercommunales et départementales exploitant des
+les régies municipales, intercommunales et départementales exploitant des
 services à caractère industriel et commercial ;
 
-Le service des alcools.
+le service des alcools.
 
-2. Sont notamment soumis au régime prévu à l'article 165 2 :
+2. Sont notamment soumis au régime prévu au 2 de l'article 165 :
 
-Les manufactures nationales ;
+les manufactures nationales ;
 
-L'administration des monnaies et médailles ;
+l'administration des monnaies et médailles ;
 
-Les arsenaux, poudreries et usines mécaniques de l'Etat.
+les arsenaux, poudreries et usines mécaniques de l'Etat.
 
-3. Sont notamment soumis au régime prévu à l'article 166 1 :
+3. Sont notamment soumis au régime prévu au 1 de l'article 166 :
 
-L'établissement national des invalides de la marine ;
+l'établissement national des invalides de la marine ;
 
-La caisse des retraites des inscrits maritimes ;
+la caisse des retraites des inscrits maritimes ;
 
-La caisse des retraites des agents du service général ;
+la caisse des retraites des agents du service général ;
 
-La caisse de prévoyance des marins français ;
+la caisse de prévoyance des marins français ;
 
-La caisse générale de garantie des assurances sociales ;
+la caisse générale de garantie des assurances sociales ;
 
-La caisse de retraite des ouvriers mineurs ;
+la caisse de retraite des ouvriers mineurs ;
 
-La caisse de compensation pour la décentralisation de l'industrie aéronautique ;
+la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-Les chambres d'agriculture ;
+les chambres d'agriculture ;
 
-Les chambres de métiers ;
+les chambres de métiers et de l'artisanat ;
 
-Les sections de l'office de répartition des produits industriels ;
+les sections de l'office de répartition des produits industriels ;
 
-L'office national interprofessionnel des céréales ;
+l'office national interprofessionnel des céréales ;
 
-L'office national des anciens combattants et victimes de guerre.
+l'office national des anciens combattants et victimes de guerre.

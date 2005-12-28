@@ -7,11 +7,11 @@ négociations sur un marché réglementé et qui :
 a) Ou bien emploient des salariés dont un tiers au moins a été recruté dans le
 cadre des contrats de travail visés à l'article L. 322-4-20 ou parmi des
 personnes mentionnées au premier alinéa du I de l'article L. 322-4-8 ou pouvant
-invoquer une décision les classant, en application de l'article L. 323-11, dans
-la catégorie correspondant aux handicaps graves ou les déclarant relever soit
-d'un atelier protégé, soit d'un centre d'aide par le travail ; dans le cas d'une
-entreprise individuelle, les conditions précitées s'appliquent à la personne de
-l'entrepreneur individuel ;
+invoquer une décision les déclarant, en application de l'article L. 241-6 du
+code de l'action sociale et des familles, relever d'un établissement ou service
+mentionné au a du 5° du I de l'article L. 312-1 de ce même code ; dans le cas
+d'une entreprise individuelle, les conditions précitées s'appliquent à la
+personne de l'entrepreneur individuel ;
 
 b) Ou bien sont constituées sous forme d'associations, de coopératives, de
 mutuelles, d'institutions de prévoyance ou de sociétés dont les dirigeants sont

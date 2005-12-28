@@ -19,11 +19,11 @@ nouvel engagement de les lui communiquer ultérieurement sur sa demande.
 Les redevables doivent déclarer au plus tard le 15 mai de chaque année la
 situation, la consistance et la valeur des immeubles et droits immobiliers en
 cause. Cette déclaration, accompagnée du paiement de la taxe, est déposée au
-lieu fixé par arrêté du ministre chargé du budget (1).
+lieu fixé par arrêté du ministre chargé du budget.
 
 La taxe est recouvrée selon les règles et sous les sanctions et garanties
 applicables aux droits d'enregistrement. Sont également applicables à la taxe
 les dispositions de l'article 223 quinquies A.
 
-En cas de cession de l'immeuble, le représentant visé au I de l'article 244 bis
-A est responsable du paiement de la taxe restant due à cette date.
+En cas de cession de l'immeuble, le représentant visé au 3 du I de l'article 244
+bis A est responsable du paiement de la taxe restant due à cette date.

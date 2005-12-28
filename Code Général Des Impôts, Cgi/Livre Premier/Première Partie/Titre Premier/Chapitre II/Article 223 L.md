@@ -54,10 +54,10 @@ moins-value nette à long terme d'ensemble qui étaient encore reportables à la
 date d'effet de la fusion.
 
 Dans la situation visée au premier alinéa du présent c, par exception aux
-dispositions du dernier alinéa de l'article 223 M et de la première phrase du 1
-de l'article 223 N, la société mère acquitte l'imposition forfaitaire annuelle
-et les acomptes d'impôt sur les sociétés dus par les sociétés membres du groupe
-au titre de l'année ou de l'exercice d'entrée dans le groupe.
+dispositions de l'article 223 M et de la première phrase du 1 de l'article 223
+N, la société mère acquitte l'imposition forfaitaire annuelle et les acomptes
+d'impôt sur les sociétés dus par les sociétés membres du groupe au titre de
+l'année ou de l'exercice d'entrée dans le groupe.
 
 d. Si, au cours d'un exercice, le capital d'une société mère définie au premier
 alinéa de l'article 223 A vient à être détenu, directement ou indirectement, à

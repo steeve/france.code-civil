@@ -38,10 +38,3 @@ modifications de la proportion d'assurés sociaux accueillis dans l'établisseme
 dont la participation est limitée ou supprimée.
 
 La décision du directeur de l'agence régionale de l'hospitalisation est motivée.
-
-Ce montant est corrigé, le cas échéant, à due concurrence des sommes perçues au
-titre des actes pratiqués par les professionnels médicaux employés par
-l'établissement, dans le cadre d'un groupement de coopération sanitaire, au
-profit d'un patient pris en charge par un établissement de santé privé mentionné
-aux d ou e de l'article L. 162-22-6 du code de la sécurité sociale et facturés à
-ce dernier en application des dispositions de l'article L. 6133-2.

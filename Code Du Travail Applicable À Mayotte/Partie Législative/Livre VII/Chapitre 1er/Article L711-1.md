@@ -22,7 +22,8 @@ taxe d'apprentissage par le code des impôts applicable dans la collectivité
 départementale de Mayotte.
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord
-professionnel de travail et agréé par arrêté du représentant de l'Etat.
+professionnel de travail et agréé par arrêté du représentant de l'Etat. Les
+modalités de gestion de cet organisme sont fixées par décret en Conseil d'Etat.
 
 Le plafond des rémunérations prises en compte pour l'assiette de la contribution
 et les modalités de contrôle de l'organisme gestionnaire du fonds sont précisés
@@ -31,16 +32,3 @@ par arrêté du représentant de l'Etat.
 Cet arrêté fixe également la part minimum des sommes collectées qui doivent être
 affectées aux actions de formation dispensées dans le cadre des contrats de
 formation en alternance mentionnées aux articles L. 711-5 à L. 711-7.
-
-Les organismes privés de formation intervenant dans la collectivité
-départementale au titre des actions prévues à l'article L. 711-2 font l'objet
-d'un agrément délivré par le représentant de l'Etat. Il est tenu compte, pour la
-délivrance de l'agrément, des capacités financières de l'organisme, des moyens
-matériels et humains mis en oeuvre, de la régularité de la situation des
-candidats à l'agrément au regard de l'acquittement des cotisations sociales et
-des impositions de toute nature, ainsi que de la qualité de la formation
-dispensée.
-
-Les organismes existant à la date de promulgation de l'ordonnance n° 2000-285 du
-30 mars 2000 portant actualisation et adaptation du droit du travail de
-l'outre-mer sont soumis aux mêmes obligations dans un délai de trois ans.

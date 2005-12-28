@@ -1,7 +1,7 @@
 Article L951-12
 ----
-I. - Les employeurs sont tenus de remettre au service des impôts compétent une
-déclaration en double exemplaire, indiquant notamment le montant de la
+I. - Les employeurs sont tenus de remettre à la recette des impôts compétente
+une déclaration en double exemplaire, indiquant notamment le montant de la
 participation à laquelle ils étaient tenus et les dépenses effectivement
 consenties, en vertu de l'article L. 951-1.
 

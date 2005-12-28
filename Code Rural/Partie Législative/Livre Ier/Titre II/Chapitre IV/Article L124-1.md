@@ -1,16 +1,15 @@
 Article L124-1
 ----
-Les échanges d'immeubles ruraux sont, en ce qui concerne le transfert des
-privilèges, des hypothèques et des baux y afférents, assimilés aux échanges
-réalisés par voie de remembrement collectif lorsque les immeubles échangés sont
-situés soit dans le même canton, soit dans un canton et dans une commune
-limitrophe de celui-ci.
+Les dispositions des articles L. 123-11 à L. 123-17 et les dispositions du
+chapitre VII du présent titre sont applicables aux échanges d'immeubles ruraux
+mentionnés au présent chapitre, qui sont assimilés aux échanges réalisés par
+voie d'aménagement foncier agricole et forestier.
 
-En dehors de ces limites, l'un des immeubles échangés doit être contigu aux
-propriétés de celui des échangistes qui le recevra, ces immeubles devant en
-outre avoir été acquis par les contractants par acte enregistré depuis plus de
-deux ans, ou recueillis à titre héréditaire.
+En cas d'opposition du titulaire de droits de privilèges, d'hypothèques ou de
+baux, l'acte d'échange est soumis, avant sa publication au bureau des
+hypothèques, à l'homologation du président du tribunal de grande instance
+statuant par voie d'ordonnance sur requête.
 
-En cas d'opposition du titulaire de ces droits, l'acte d'échange est soumis,
-avant sa publication au bureau des hypothèques, à l'homologation du président du
-tribunal de grande instance statuant par voie d'ordonnance sur requête.
+Les dispositions de l'article 708 du code général des impôts sont applicables
+aux échanges effectués conformément aux dispositions des articles L. 124-3 et L.
+124-4 du présent code.

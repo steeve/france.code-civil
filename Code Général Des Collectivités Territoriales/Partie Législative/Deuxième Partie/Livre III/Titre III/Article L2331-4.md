@@ -1,6 +1,6 @@
 Article L2331-4
 ----
-Les recettes non fiscales de la section de fonctionnement peuvent comprendre :
+- Les recettes non fiscales de la section de fonctionnement peuvent comprendre :
 
 1° Le produit de la redevance d'enlèvement des ordures ménagères sur les
 terrains de camping, de la redevance spéciale ou de la redevance pour enlèvement
@@ -31,9 +31,8 @@ II du code des ports maritimes relatif aux droits de port et de navigation ;
 
 10° Le produit des droits de voirie et autres droits légalement établis ;
 
-11° Le produit de la redevance pour l'accès aux pistes de ski de fond balisées
-et régulièrement damées et aux installations collectives destinées à favoriser
-la pratique du ski de fond :
+11° Le produit de la redevance pour l'accès aux sites nordiques dédiés de ski de
+fond balisées et aux loisirs de neige autres que le ski alpin ;
 
 12° Les dons et legs en espèces hormis ceux visés au 6° de l'article L. 2331-8 ;
 

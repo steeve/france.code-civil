@@ -1,7 +1,8 @@
 Article L3312-1
 ----
 Dans un délai de deux mois précédant l'examen du budget, un débat a lieu au
-conseil général sur les orientations budgétaires.
+conseil général sur les orientations budgétaires de l'exercice ainsi que sur les
+engagements pluriannuels envisagés.
 
 Le projet de budget du département est préparé et présenté par le président du
 conseil général qui est tenu de le communiquer aux membres du conseil général

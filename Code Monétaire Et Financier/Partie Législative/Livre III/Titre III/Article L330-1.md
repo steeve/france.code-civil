@@ -17,21 +17,22 @@ place ou par une convention type. Le ministre chargé de l'économie notifie à 
 Commission européenne la liste des systèmes bénéficiant des dispositions du
 présent titre.
 
-Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à
-l'encontre d'un participant à un système de règlement interbancaire ou de
-règlement et de livraison d'instruments financiers de l'Espace économique
-européen, les droits et obligations découlant de sa participation ou liés à
-cette participation audit système sont déterminés par la loi qui régit le
-système, sous réserve que cette loi soit celle d'un Etat partie à l'accord sur
-l'Espace économique européen.
+Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation
+judiciaires est ouverte à l'encontre d'un participant à un système de règlement
+interbancaire ou de règlement et de livraison d'instruments financiers de
+l'Espace économique européen, les droits et obligations découlant de sa
+participation ou liés à cette participation audit système sont déterminés par la
+loi qui régit le système, sous réserve que cette loi soit celle d'un Etat partie
+à l'accord sur l'Espace économique européen.
 
 II. - Nonobstant toute disposition législative contraire, les paiements et les
 livraisons d'instruments financiers effectués dans le cadre de systèmes de
 règlements interbancaires ou dans le cadre de systèmes de règlement et de
 livraison d'instruments financiers, jusqu'à l'expiration du jour où est rendu un
-jugement d'ouverture de redressement ou de liquidation judiciaires à l'encontre
-d'un établissement participant, directement ou indirectement, à un tel système,
-ne peuvent être annulés, même au motif qu'est intervenu ce jugement.
+jugement d'ouverture de redressement, de sauvegarde ou de liquidation
+judiciaires à l'encontre d'un établissement participant, directement ou
+indirectement, à un tel système, ne peuvent être annulés, même au motif qu'est
+intervenu ce jugement.
 
 III. - Ces dispositions sont également applicables aux instructions de paiement
 ainsi qu'aux instructions de livraison d'instruments financiers, dès lors

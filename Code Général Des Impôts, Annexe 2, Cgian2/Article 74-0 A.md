@@ -26,8 +26,8 @@ d) Décès du contribuable ou de l'un des époux soumis à une imposition commun
 
 e) Divorce ou séparation de corps ;
 
-f) Redressement ou liquidation judiciaire du contribuable ou de l'un des époux
-soumis à une imposition commune ;
+f) Procédure de sauvegarde, redressement ou liquidation judiciaire du
+contribuable ou de l'un des époux soumis à une imposition commune ;
 
 g) Tout autre événement exceptionnel affectant la situation personnelle,
 familiale ou professionnelle du contribuable et revêtant un caractère de gravité

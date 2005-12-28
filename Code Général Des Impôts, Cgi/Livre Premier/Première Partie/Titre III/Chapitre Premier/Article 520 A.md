@@ -16,6 +16,21 @@ et de boissons non alcooliques relevant du code NC 2206 du tarif des douanes et
 ayant dans l'un ou l'autre cas un titre alcoométrique acquis supérieur à 0,5 %
 vol. ;
 
+Par dérogation aux dispositions précédentes, le taux par hectolitre applicable
+aux bières produites par les petites brasseries indépendantes, dont le titre
+alcoométrique excède 2,8 % vol., est fixé à :
+
+1,30 euro par degré alcoométrique pour les bières brassées par les entreprises
+dont la production annuelle est inférieure ou égale à 10 000 hectolitres ;
+
+1,56 euro par degré alcoométrique pour les bières brassées par les entreprises
+dont la production annuelle est supérieure à 10 000 hectolitres et inférieure ou
+égale à 50 000 hectolitres ;
+
+1,95 euro par degré alcoométrique pour les bières brassées par les entreprises
+dont la production annuelle est supérieure à 50 000 hectolitres et inférieure ou
+égale à 200 000 hectolitres.
+
 b) Sur les boissons non alcoolisées énumérées ci-après dont le tarif, par
 hectolitre, est fixé à :
 

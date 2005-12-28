@@ -1,10 +1,11 @@
 Article R613-14
 ----
-Avant qu'il ne soit statué sur l'ouverture d'une procédure de redressement ou de
-liquidation judiciaires à l'égard d'un établissement de crédit, d'une entreprise
-d'investissement ou d'un adhérent d'une chambre de compensation, le président du
-tribunal saisit la Commission bancaire d'une demande d'avis. Le greffier
-transmet cette demande sans délai. Il en informe le procureur de la République.
+Avant qu'il ne soit statué sur l'ouverture d'une procédure de sauvegarde, de
+redressement ou de liquidation judiciaires à l'égard d'un établissement de
+crédit, d'une entreprise d'investissement ou d'un adhérent d'une chambre de
+compensation, le président du tribunal saisit la Commission bancaire d'une
+demande d'avis. Le greffier transmet cette demande sans délai. Il en informe le
+procureur de la République.
 
 La saisine de la Commission bancaire est écrite. Elle est accompagnée des pièces
 nécessaires à son information. Cette saisine est, à la diligence de la

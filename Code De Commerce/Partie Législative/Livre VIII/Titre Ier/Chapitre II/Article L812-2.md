@@ -1,15 +1,14 @@
 Article L812-2
 ----
 I. - Nul ne peut être désigné en justice pour exercer les fonctions de
-mandataire judiciaire au redressement et à la liquidation des entreprises s'il
-n'est inscrit sur la liste établie à cet effet par une commission nationale.
+mandataire judiciaire s'il n'est inscrit sur la liste établie à cet effet par
+une commission nationale.
 
 II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision
 spécialement motivée et après avis du procureur de la République, désigner comme
-mandataire judiciaire au redressement et à la liquidation des entreprises une
-personne physique justifiant d'une expérience ou d'une qualification
-particulière au regard de la nature de l'affaire et remplissant les conditions
-définies aux 1° à 4° de l'article L. 812-3.
+mandataire judiciaire une personne physique justifiant d'une expérience ou d'une
+qualification particulière au regard de la nature de l'affaire et remplissant
+les conditions définies aux 1° à 4° de l'article L. 812-3.
 
 Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq
 années précédentes, avoir perçu à quelque titre que ce soit, directement ou
@@ -25,9 +24,8 @@ d'une décision de radiation ou de retrait des listes en application des article
 L. 811-6, L. 811-12, L. 812-4 et L. 812-9. Elles sont tenues d'exécuter les
 mandats qui leur sont confiés en se conformant, dans l'accomplissement de leurs
 diligences professionnelles, aux mêmes obligations que celles qui s'imposent aux
-mandataires judiciaires au redressement et à la liquidation des entreprises
-inscrits sur la liste. Elles ne peuvent exercer les fonctions de mandataire
-judiciaire au redressement et à la liquidation des entreprises à titre habituel.
+mandataires judiciaires inscrits sur la liste. Elles ne peuvent exercer les
+fonctions de mandataire judiciaire à titre habituel.
 
 Les personnes désignées en application du premier alinéa du présent II doivent,
 lors de l'acceptation de leur mandat, attester sur l'honneur qu'elles

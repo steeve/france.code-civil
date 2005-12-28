@@ -4,10 +4,8 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
 1° Les réassurances, sous réserve de ce qui est dit à l'article 1000 ;
 
-2° Les assurances bénéficiant, en vertu de dispositions exceptionnelles, de
-l'exonération des droits de timbre et d'enregistrement, à l'exception de celles
-couvrant les risques maladie souscrites auprès des mutuelles définies par
-l'article L. 111-1 du code de la mutualité ;
+2° Les assurances bénéficiant, en vertu de dispositions exceptionnelles autres
+que celles de l'article 1087, de l'exonération de droits d'enregistrement ;
 
 3° Les contrats d'assurances sur corps, marchandises transportées et
 responsabilité civile du transporteur, des navires de commerce et des navires de

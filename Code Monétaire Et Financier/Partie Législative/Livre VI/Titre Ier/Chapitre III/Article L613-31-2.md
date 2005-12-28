@@ -11,11 +11,10 @@ sont :
 
 1° Les mesures mentionnées au 3° du I de l'article L. 613-21 ;
 
-2° La procédure de règlement amiable mentionnée au titre Ier du livre VI du code
-de commerce lorsque la suspension provisoire des poursuites a été prononcée ;
+2° Abrogé.
 
-3° La procédure de redressement judiciaire mentionnée au titre II du livre VI du
-code de commerce.
+3° La procédure de redressement judiciaire mentionnée au livre VI du code de
+commerce.
 
 II. - Les mesures de liquidation mentionnées à la présente sous-section sont les
 procédures collectives ouvertes et contrôlées en France ou dans tout autre Etat
@@ -23,4 +22,4 @@ membre par les autorités administratives ou judiciaires, destinées à réalise
 patrimoine sous la surveillance de ces autorités.
 
 Lorsqu'elles sont prises en France, ces mesures sont celles qui font l'objet du
-chapitre II du titre II du livre VI du code de commerce.
+titre IV du livre VI du code de commerce.

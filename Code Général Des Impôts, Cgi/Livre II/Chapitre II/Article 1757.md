@@ -1,8 +1,9 @@
 Article 1757
 ----
-Les dispositions de l'article 1729 sont applicables en ce qui concerne toute
-personne qui, encaissant directement ou indirectement des revenus soit dans les
-territoires d'outre-mer ou dans les Etats de l'ancienne Communauté [*CEE*], soit
-à l'étranger, ne les a pas mentionnés séparément dans la déclaration prévue à
-l'article 170. Toutefois l'intérêt de retard et la majoration ne portent que sur
-le supplément de droit dû en application du 2 de l'article 173.
+Lorsque le rachat d'une entreprise a été réalisé avec l'accord préalable du
+ministre chargé du budget conformément à l'article 220 quater B, les droits
+rappelés et les crédits d'impôt à rembourser en application des II et III de
+l'article 83 bis, du III de l'article 160 A, de l'article 220 quater A et du
+deuxième alinéa du II de l'article 726 sont assortis de l'intérêt de retard
+prévu à l'article 1727, d'une majoration de 20 %, et, le cas échéant, de la
+majoration pour manoeuvres frauduleuses mentionnée à l'article 1729.

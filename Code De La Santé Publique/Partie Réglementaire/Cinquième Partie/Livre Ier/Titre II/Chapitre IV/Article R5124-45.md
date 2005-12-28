@@ -11,10 +11,13 @@ du sang que ces établissements sont autorisés à dispenser aux malades qui y s
 traités, sur commande écrite du directeur ou d'un pharmacien de cet
 établissement ;
 
-2° Aux dispensaires antivénériens, les produits nécessaires aux traitements
-ambulatoires qu'ils assurent, sur commande écrite du pharmacien ou du médecin
-responsable dans le dispensaire de la détention et de la dispensation de ces
-produits ;
+2° Aux organismes relevant d'une collectivité territoriale ayant conclu avec
+l'Etat une convention en application de l'article L. 3121-1 et aux
+établissements ou organismes habilités pour la lutte contre les infections
+sexuellement transmissibles en application de l'article L. 3121-2-1, les
+médicaments nécessaires au traitement ambulatoire de ces infections, sur
+commande écrite du pharmacien ou du médecin responsable de la détention et de la
+dispensation de ces produits.
 
 3° Aux centres de planification ou d'éducation familiale, les médicaments,
 produits ou objets contraceptifs que les centres distribuent dans les conditions
@@ -27,9 +30,14 @@ ou d'un autre médecin autorisé par le préfet ;
 produits nécessaires à ces vaccinations, sur commande écrite du médecin
 responsable du service ou centre ;
 
-5° Aux dispensaires antituberculeux, les médicaments antituberculeux que ces
-dispensaires sont autorisés à délivrer, sur commande écrite du pharmacien du
-centre ou du médecin autorisé par le préfet ;
+5° Aux organismes relevant d'une collectivité territoriale ayant conclu avec
+l'Etat une convention en application de l'article L. 3112-2 et aux
+établissements ou organismes habilités pour la lutte contre la tuberculose ou
+pour la lutte contre la lèpre en application de l'article L. 3112-3, les
+médicaments antituberculeux, ou les médicaments nécessaires au traitement
+ambulatoire de la lèpre, sur commande écrite du pharmacien ou du médecin
+responsable dans l'établissement ou l'organisme de la détention et de la
+dispensation de ces produits ;
 
 6° Aux centres spécialisés de soins aux toxicomanes, les médicaments
 correspondant strictement aux missions de ces centres, sur commande écrite du

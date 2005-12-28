@@ -1,7 +1,11 @@
 Article L624-1
 ----
-Le jugement qui ouvre le redressement ou la liquidation judiciaires de la
-personne morale produit ses effets à l'égard de toutes les personnes membres ou
-associées de la personne morale et indéfiniment et solidairement responsables du
-passif social. Le tribunal ouvre à l'égard de chacune d'elles une procédure de
-redressement judiciaire ou de liquidation judiciaire selon le cas.
+Dans le délai fixé par le tribunal, le mandataire judiciaire établit, après
+avoir sollicité les observations du débiteur, la liste des créances déclarées
+avec ses propositions d'admission, de rejet ou de renvoi devant la juridiction
+compétente. Il transmet cette liste au juge-commissaire.
+
+Le mandataire judiciaire ne peut être rémunéré au titre des créances déclarées
+ne figurant pas sur la liste établie dans le délai mentionné ci-dessus, sauf
+pour des créances déclarées après ce délai, en application des deux derniers
+alinéas de l'article L. 622-24.
