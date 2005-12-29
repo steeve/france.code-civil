@@ -8,10 +8,11 @@ professions agricoles.
 Cette cotisation est calculée sur les rémunérations versées aux travailleurs
 salariés ou assimilés dans la limite du plafond prévu pour la fixation du
 montant des cotisations d'accidents du travail, d'allocations familiales et
-d'assurance vieillesse. Le taux de cette cotisation est fixé à 0,10 p. 100 des
+d'assurance vieillesse. Le taux de cette cotisation est fixé à 0,10 % des
 rémunérations définies ci-dessus.
 
 La cotisation est, sous réserve des dispositions de l'article R. 834-9,
-recouvrée, pour le compte du fonds national d'aide au logement, par les
+recouvrée, pour le compte du fonds national d'aide au logement mentionné à
+l'article L. 351-6 du code de la construction et de l'habitation, par les
 organismes ou services chargés du recouvrement des cotisations de sécurité
 sociale ou d'assurances sociales agricoles.
