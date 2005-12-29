@@ -29,7 +29,11 @@ mentionnés au III.
 
 La taxe est exigible à la livraison.
 
-V. - Le taux de la taxe est fixé à 0,36 Euros par tonne.
+Les quantités de céréales destinées à être récupérées, sous forme d'aliments
+pour la nourriture animale, par l'exploitant agricole qui les a initialement
+livrées, sont exonérées de la taxe.
+
+V. - Le taux de la taxe est fixé à 0,36 euro par tonne.
 
 VI. - La taxe est liquidée par les collecteurs agréés et les producteurs
 grainiers sur une déclaration agréée par l'administration des douanes et droits
