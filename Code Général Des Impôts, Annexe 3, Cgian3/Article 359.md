@@ -1,9 +1,10 @@
 Article 359
 ----
-1. Chacun des acomptes est égal au quart de l'impôt liquidé par application aux
-éléments de résultats mentionnés au premier alinéa du 1 de l'article 1668 du
-code général des impôts des taux correspondants fixés à l'article 219 du même
-code.
+1. Sous réserve des dispositions des cinquième à neuvième alinéas du 1 de
+l'article 1668 du code général des impôts, chacun des acomptes est égal au quart
+de l'impôt liquidé par application aux éléments de résultats mentionnés au
+premier alinéa du 1 du même article des taux correspondants fixés à l'article
+219 du même code.
 
 Les résultats servant de base au calcul de chacun des acomptes sont ceux
 afférents au plus récent exercice ou, le cas échéant, à la dernière période
