@@ -20,4 +20,7 @@ de santé concernés par cette demande.
 
 Lorsque tel est le cas, ils ne peuvent participer à la préparation des avis,
 siéger durant les travaux de la commission ou réaliser une mission de
-conciliation relatifs à cette demande.
+conciliation relatifs à cette demande. Lorsqu'il s'agit du président, il est
+alors remplacé par le président adjoint. S'ils se trouvent tous les deux dans ce
+cas ou en cas d'empêchement du président adjoint ou à défaut de président
+adjoint de ce dernier, le dossier est transmis à une autre commission.

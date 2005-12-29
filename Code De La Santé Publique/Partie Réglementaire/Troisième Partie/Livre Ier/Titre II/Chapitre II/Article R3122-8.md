@@ -1,29 +1,24 @@
 Article R3122-8
 ----
-En application du troisième alinéa de l'article L. 3122-1, la commission
-d'indemnisation est chargée, d'une part, de se prononcer sur les demandes
-d'indemnisation, d'autre part, d'administrer ce fonds.
+Outre son président, la commission d'indemnisation comprend cinq membres nommés
+pour trois ans renouvelables par arrêté du ministre de la justice et du ministre
+chargé de la santé :
 
-Elle est présidée par le président du fonds, président de chambre ou conseiller
-à la Cour de cassation, en activité ou honoraire, qui est nommé par arrêté des
-ministres chargés des affaires sociales, du budget, de l'économie et des
-finances, de la justice et de la santé.
+1° Un président de chambre ou un conseiller à la Cour de cassation, en activité
+ou honoraire, vice-président de la commission ;
 
-La commission comprend en outre quatre membres nommés par arrêté conjoint des
-mêmes ministres :
+2° Un membre du Conseil d'Etat, en activité ou honoraire ;
 
-1° Un membre du Conseil d'Etat ;
+3° Un membre de l'Inspection générale des affaires sociales ;
 
-2° Un membre de l'inspection générale des affaires sociales ;
+4° Un médecin membre ou ancien membre du Conseil national du syndrome
+immunodéficitaire acquis ;
 
-3° Un médecin membre ou ancien membre du Conseil national du syndrome de
-l'immuno-déficience acquise ;
+5° Une personnalité qualifiée dans le domaine de la santé.
 
-4° Une personnalité qualifiée dans le domaine de la santé.
-
-Le président et les membres de la commission ont chacun un suppléant nommé dans
-les mêmes conditions ; ils sont nommés, ainsi que les suppléants, pour une
-période de trois ans renouvelable.
+Ces cinq membres ont chacun un suppléant, nommé dans les mêmes conditions, qui
+ne participe aux séances de la commission qu'en l'absence de son titulaire. En
+cas d'absence du président, la commission est présidée par son vice-président.
 
 En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son
 prédécesseur pour la durée du mandat restant à courir.

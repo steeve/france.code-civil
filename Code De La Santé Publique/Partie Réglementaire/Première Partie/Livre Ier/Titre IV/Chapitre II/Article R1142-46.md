@@ -21,8 +21,8 @@ Il délibère en outre sur les matières suivantes :
 supérieur à un seuil qu'il détermine ;
 
 8° Les actions en justice et les transactions, à l'exception de celles résultant
-de l'application des articles L. 1142-3, L. 1142-14 à L. 1142-17, L. 1142-20, L.
-1142-21 et L. 3111-9 ;
+de l'application des articles L. 1142-3, L. 1142-14, L. 1142-15, L. 1142-17, L.
+1142-20, L. 1142-21, L. 3110-4, L. 3111-9, L. 3122-3 et L. 3122-4 ;
 
 9° La convention avec la caisse primaire d'assurance maladie mentionnée à
 l'article R. 1142-53 ;

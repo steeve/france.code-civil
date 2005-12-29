@@ -12,3 +12,7 @@ l'expert a réalisé les missions qui lui ont été confiées au cours de la pé
 
 Ils s'assurent que le candidat a actualisé ses connaissances en matière de
 responsabilité médicale et procèdent à leur évaluation.
+
+La demande de renouvellement de l'inscription sur la liste nationale des experts
+en accidents médicaux est adressée dans les conditions de l'article R. 1142-30,
+au moins six mois avant la date d'échéance de l'inscription en cours.

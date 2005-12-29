@@ -1,4 +1,4 @@
 Article R3122-7
 ----
-Les décisions du fonds rejetant partiellement ou totalement la demande
+Les décisions de l'office rejetant partiellement ou totalement la demande
 d'indemnisation sont motivées.
