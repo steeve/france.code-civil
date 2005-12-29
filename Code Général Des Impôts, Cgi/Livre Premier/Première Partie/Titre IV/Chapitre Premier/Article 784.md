@@ -10,13 +10,13 @@ reçu les actes de donation, et la date de l'enregistrement de ces actes.
 
 La perception est effectuée en ajoutant à la valeur des biens compris dans la
 donation ou la déclaration de succession celle des biens qui ont fait l'objet de
-donations antérieures , à l'exception de celles passées depuis plus de dix ans,
+donations antérieures , à l'exception de celles passées depuis plus de six ans,
 et, lorsqu'il y a lieu à application d'un tarif progressif, en considérant ceux
 de ces biens dont la transmission n'a pas encore été assujettie au droit de
 mutation à titre gratuit comme inclus dans les tranches les plus élevées de
 l'actif imposable.
 
 Pour le calcul des abattements et réductions édictés par les articles 779, 780,
-et 790 B (1) il est tenu compte des abattements et des réductions effectués sur
-les donations antérieures visées au deuxième alinéa consenties par la même
-personne.
+790 B, 790 C et 790 D il est tenu compte des abattements et des réductions
+effectués sur les donations antérieures visées au deuxième alinéa consenties par
+la même personne.

@@ -1,8 +1,8 @@
 Article L461
 ----
-La France adopte les orphelins [*conditions d'adoption*] :
+La France adopte les orphelins :
 
-1° Dont le père ou le soutien a été tué :
+1° Dont le père, la mère ou le soutien a été tué :
 
 Soit à l'ennemi ;
 

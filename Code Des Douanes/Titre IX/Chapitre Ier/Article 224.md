@@ -1,8 +1,10 @@
 Article 224
 ----
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat ou,
-lorsqu'il est perçu au titre des navires de plaisance visés au dernier alinéa de
-l'article 223, au profit de la collectivité territoriale de Corse.
+1. A l'exception du produit afférent aux navires de plaisance mentionnés au
+dernier alinéa de l'article 223, perçu au profit de la collectivité territoriale
+de Corse, le montant du produit du droit de francisation et de navigation est
+affecté à concurrence de 80 % au Conservatoire de l'espace littoral et des
+rivages lacustres et à concurrence de 20 % au budget général de l'Etat.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au
 profit de la collectivité territoriale de Corse un prélèvement pour frais

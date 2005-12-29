@@ -107,14 +107,17 @@ par parts égales en proportion du nombre d'années restant à courir conformém
 à la durée fixée par la délibération.
 
 c. Lorsqu'un établissement public de coopération intercommunale faisant
-application du régime prévu au II de l'article 1609 quinquies C opte pour le
-régime prévu au présent article ou devient soumis à ce régime, le taux constaté
-dans une commune l'année précédente est le taux appliqué en dehors des zones
-d'activités économiques existant sur son territoire antérieurement au changement
-de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de
-zone si celle-ci est implantée sur le territoire de plusieurs communes est alors
-assimilé à celui d'une commune membre supplémentaire pour l'application des
-dispositions du présent III.
+application de la première phrase du premier alinéa du II de l'article 1609
+quinquies C opte pour le régime prévu au présent article ou devient soumis à ce
+régime, le taux constaté dans une commune l'année précédente est le taux
+appliqué en dehors des zones d'activités économiques existant sur son territoire
+antérieurement au changement de régime ; le taux constaté l'année précédente
+dans chaque zone ou fraction de zone si celle-ci est implantée sur le territoire
+de plusieurs communes est alors assimilé à celui d'une commune membre
+supplémentaire pour l'application des dispositions du présent III. Ce dispositif
+est applicable dans les mêmes conditions lorsque l'établissement public de
+coopération intercommunale fait application de la deuxième phrase du premier
+alinéa du II de l'article 1609 quinquies C.
 
 2° Au titre des années suivant la première année d'application des dispositions
 du 1°, le taux de taxe professionnelle est fixé par le conseil de
@@ -213,24 +216,41 @@ des transferts de charges.
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
 conditions figurant aux 2°, 3° et 4° ;
 
-2° L'attribution de compensation est égale au produit de taxe professionnelle, y
-compris la compensation prévue au I du D de l'article 44 modifié de la loi de
-finances pour 1999 (n° 98-1266 du 30 décembre 1998), celle prévue au B de
-l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002),
-et, le cas échéant, les compensations prévues au B de l'article 4 de la loi n°
-96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de
-relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre
-1996 relative à la zone franche de Corse, versées antérieurement aux communes,
-mais hors compensation prévue au IV bis de l'article 6 de la loi de finances
-pour 1987 (n° 86-1317 du 30 décembre 1986), perçu par elle l'année précédant
-l'institution du taux de taxe professionnelle communautaire diminué du coût net
-des charges transférées calculé dans les conditions définies au IV.
-L'attribution de compensation est majorée d'une fraction de la contribution
-d'une commune définie à l'article L302-8 du code de la construction et de
-l'habitation. Cette fraction est égale à la part du potentiel fiscal de la taxe
-professionnelle dans le potentiel fiscal de la commune. Cette attribution est
-recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert
-de charges.
+2° L'attribution de compensation est égale au produit de taxe professionnelle
+perçu par elle l'année précédant celle de l'institution du taux de taxe
+professionnelle communautaire diminué du coût net des charges transférées
+calculé dans les conditions définies au IV ; ce produit de taxe professionnelle
+est majoré du montant perçu la même année au titre de la part de la dotation
+forfaitaire prévue à l'article L. 2334-7 du code général des collectivités
+territoriales correspondant au montant antérieurement versé en application du I
+du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre
+1998), de la compensation prévue au B de l'article 26 de la loi de finances pour
+2003 (n° 2002-1575 du 30 décembre 2002) ainsi que, sous réserve d'une
+délibération du conseil de l'établissement public de coopération intercommunale
+statuant à l'unanimité, de la compensation prévue à l'article 53 de la loi de
+finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et, le cas échéant, des
+compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre
+1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de
+l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche
+de Corse, versées antérieurement aux communes, mais hors compensation prévue au
+IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
+1986). L'attribution de compensation est majorée d'une fraction de la
+contribution d'une commune définie à l'article L302-8 du code de la construction
+et de l'habitation. Cette fraction est égale à la part du potentiel fiscal de la
+taxe professionnelle dans le potentiel fiscal de la commune. Cette attribution
+est recalculée, dans les conditions prévues au IV, lors de chaque nouveau
+transfert de charges.
+
+Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de
+coopération intercommunale faisant application du régime fiscal du présent
+article pour adhérer à un autre établissement public de coopération
+intercommunale faisant application du même régime fiscal, le produit de taxe
+professionnelle est majoré du montant perçu, l'année de cette modification, par
+l'établissement public de coopération intercommunale auquel elle a cessé
+d'appartenir, au titre de la part de la dotation de compensation prévue à
+l'article L. 5211-28-1 du code général des collectivités territoriales
+correspondant au montant antérieurement versé en application du I du D de
+l'article 44 de la loi de finances pour 1999 précitée.
 
 2° bis Abrogé
 
@@ -306,17 +326,18 @@ communautaire, dont le principe et les critères de répartition sont fixés par
 conseil communautaire statuant à la majorité des deux tiers. Le montant de cette
 dotation est fixé librement par le conseil de l'établissement public de
 coopération intercommunale. Elle est répartie en tenant compte prioritairement
-de l'importance de la population et du potentiel fiscal par habitant, les autres
-critères étant fixés librement par le conseil. Toutefois, en cas d'application
-par l'établissement public de coopération intercommunale des dispositions du II,
-cette dotation ne peut être augmentée, sauf pour assurer le respect d'accords
-conventionnels de partage de fiscalité avec d'autres établissements publics de
-coopération intercommunale. Lorsqu'une zone d'activités économiques d'intérêt
-départemental est située en tout ou partie sur le territoire de l'établissement
-public de coopération intercommunale, celui-ci peut étendre le versement de la
-dotation de solidarité communautaire aux établissements publics de coopération
-intercommunale à fiscalité propre constituant un ensemble sans discontinuité
-territoriale et limitrophe de son territoire.
+de l'importance de la population et du potentiel fiscal ou financier par
+habitant, les autres critères étant fixés librement par le conseil. Toutefois,
+en cas d'application par l'établissement public de coopération intercommunale
+des dispositions du II, cette dotation ne peut être augmentée, sauf pour assurer
+le respect d'accords conventionnels de partage de fiscalité avec d'autres
+établissements publics de coopération intercommunale. Lorsqu'une zone
+d'activités économiques d'intérêt départemental est située en tout ou partie sur
+le territoire de l'établissement public de coopération intercommunale, celui-ci
+peut étendre le versement de la dotation de solidarité communautaire aux
+établissements publics de coopération intercommunale à fiscalité propre
+constituant un ensemble sans discontinuité territoriale et limitrophe de son
+territoire.
 
 L'établissement public de coopération intercommunale autre qu'une communauté
 urbaine créé sans être issu d'une transformation et soumis dès la première année
@@ -343,9 +364,9 @@ Ces critères sont déterminés notamment en fonction :
 a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant
 de l'établissement public de coopération intercommunale ;
 
-b. de l'insuffisance de potentiel fiscal par habitant de la commune au regard du
-potentiel fiscal communal moyen par habitant sur le territoire de
-l'établissement public de coopération intercommunale.
+b. de l'insuffisance de potentiel fiscal ou financier par habitant de la commune
+au regard du potentiel fiscal ou financier communal moyen par habitant sur le
+territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.
 

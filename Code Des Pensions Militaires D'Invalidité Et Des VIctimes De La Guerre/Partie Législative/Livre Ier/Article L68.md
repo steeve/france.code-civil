@@ -1,10 +1,9 @@
 Article L68
 ----
-Les ascendants de nationalité étrangère, lorsqu'un ou plusieurs de leurs fils
+Les ascendants de nationalité étrangère, lorsqu'un ou plusieurs de leurs enfants
 incorporés dans l'armée française sont décédés ou disparus dans les conditions
 de nature à ouvrir à pension de veuve, sont admis au bénéfice des pensions
-prévues aux articles L. 67 et L. 77 à condition [*étrangers - conditions
-d'ouverture du droit à pension*] :
+prévues aux articles L. 67 et L. 77 à condition :
 
 1° Qu'ils résident en France si, lors du fait dommageable, la nation de laquelle
 ils étaient ressortissants était en guerre avec la France ;
@@ -12,8 +11,7 @@ ils étaient ressortissants était en guerre avec la France ;
 2° Qu'ils ne soient pas bénéficiaires d'une allocation d'ascendant servie par un
 gouvernement étranger.
 
-Les dispositions de l'alinéa 1° qui précède ont effet [*date d'entrée en
-vigueur*] :
+Les dispositions de l'alinéa 1° qui précède ont effet :
 
 a) A compter du 2 septembre 1939 pour les décès imputables à la guerre commencée
 à cette date ;

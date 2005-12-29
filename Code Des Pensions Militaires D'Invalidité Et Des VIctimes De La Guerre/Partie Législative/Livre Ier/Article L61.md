@@ -16,12 +16,12 @@ Le tribunal statue à l'aide des documents et des pièces versées aux débats d
 suivis sur la demande en séparation de corps ou en divorce ; il peut, en cas de
 renseignements insuffisants, ordonner une enquête qui a lieu devant le juge
 commis, il prononce la déchéance s'il résulte des pièces produites et des
-témoignages entendus la preuve que la femme a eu envers son mari des torts qui
-auraient été suffisants pour faire prononcer à sa charge la séparation de corps
-ou le divorce.
+témoignages entendus la preuve que le conjoint survivant a eu envers son
+conjoint décédé des torts qui auraient été suffisants pour faire prononcer à sa
+charge la séparation de corps ou le divorce.
 
-Le jugement est lu en audience publique ; s'il est rendu par défaut, la femme
-peut se pourvoir par la voie d'opposition.
+Le jugement est lu en audience publique ; s'il est rendu par défaut, le conjoint
+survivant peut se pourvoir par la voie d'opposition.
 
 L'opposition n'est recevable que pendant la huitaine à compter de la
 signification du jugement à partie.

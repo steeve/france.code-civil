@@ -7,9 +7,8 @@ a) Les cotisations des services départementaux d'incendie et de secours ;
 
 b) Les dons et legs ;
 
-c) Les remboursements du fonds de compensation de la taxe sur la valeur ajoutée,
-ainsi que la fraction principale de la première part de la dotation globale
-d'équipement des départements, conformément à l'article L. 3334-11 ;
+c) Les remboursements du fonds de compensation de la taxe sur la valeur ajoutée
+;
 
 d) Les remboursements pour services rendus et les participations diverses ;
 

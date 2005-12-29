@@ -48,13 +48,13 @@ IV. - Le crédit d'impôt n'est pas accordé lorsque le montant des revenus au s
 du IV de l'article 1417 afférents à l'année au cours de laquelle s'achève la
 période de six mois mentionnée au b du I excède :
 
-20 000 Euros pour la première part de quotient familial des personnes
+25 000 Euros pour la première part de quotient familial des personnes
 célibataires, veuves ou divorcées ;
 
-40 000 Euros pour les deux premières parts de quotient familial des personnes
+50 000 Euros pour les deux premières parts de quotient familial des personnes
 soumises à imposition commune.
 
-Les montants mentionnés aux deuxième et troisième alinéas sont majorés de 3 421
+Les montants mentionnés aux deuxième et troisième alinéas sont majorés de 4 276
 Euros pour chacune des demi-parts suivantes et de la moitié de cette somme pour
 chacun des quarts de part suivants.
 

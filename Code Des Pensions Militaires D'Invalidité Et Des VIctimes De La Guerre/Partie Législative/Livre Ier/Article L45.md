@@ -1,8 +1,8 @@
 Article L45
 ----
 Les demandes de pension autres que les pensions de réversion, formulées par les
-veuves ou orphelins de militaires décédés dans leur foyer, doivent être
-accompagnées d'un rapport médico-légal, établi par le médecin qui a soigné
+conjoints survivants ou orphelins de militaires décédés dans leur foyer, doivent
+être accompagnées d'un rapport médico-légal, établi par le médecin qui a soigné
 l'ancien militaire ou marin pendant la dernière maladie ou, à défaut de soins
 donnés pendant la dernière maladie, par le médecin qui a constaté le décès.
 

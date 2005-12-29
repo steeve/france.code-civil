@@ -7,6 +7,6 @@ du ministère chargé de la production industrielle, pour les infirmités
 contractées ou aggravées antérieurement au 13 juin 1944 par le fait ou à
 l'occasion du service ;
 
-b) A leurs veuves ou ascendants, en raison des décès survenus à la suite des
-infirmités contractées ou aggravées antérieurement au 13 juin 1944 par le fait
-ou à l'occasion du service.
+b) A leurs conjoints survivants ou ascendants, en raison des décès survenus à la
+suite des infirmités contractées ou aggravées antérieurement au 13 juin 1944 par
+le fait ou à l'occasion du service.

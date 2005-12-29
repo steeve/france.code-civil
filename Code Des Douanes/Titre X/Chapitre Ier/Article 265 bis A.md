@@ -4,24 +4,33 @@ Article 265 bis A
 utilisés comme carburant ou combustible, bénéficient, dans la limite des
 quantités fixées par agrément, d'une réduction de la taxe intérieure de
 consommation, dont les tarifs sont fixés au tableau B du 1 de l'article 265. A
-compter du 1er janvier 2004, cette réduction est fixée à :
+compter du 1er janvier 2006, cette réduction est fixée à :
 
-a) 33 euros par hectolitre pour les esters méthyliques d'huile végétale
-incorporés au gazole ou au fioul domestique ;
+a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les
+esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique ;
 
-b) 38 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool
+b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool
 éthylique incorporés aux supercarburants dont la composante alcool est d'origine
 agricole ;
 
-c) 37 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé
-directement aux supercarburants.
+c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé
+aux supercarburants ;
+
+d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par
+hectolitre pour les esters éthyliques d'huile végétale, incorporés au gazole ou
+au fioul domestique.
+
+1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710
+ouvre droit à la réduction de taxe intérieure de consommation visée aux b et c
+du 1.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les
-unités de production des esters méthyliques d'huile végétale, d'alcool éthylique
-et de ses dérivés doivent être agréées par le ministre chargé du budget après
-avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie,
-sur procédure d'appel à candidatures publiée au Journal officiel des Communautés
-européennes.
+unités de production des esters méthyliques d'huile végétale ou d'huile animale,
+des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool
+éthylique et de ses dérivés doivent être agréées par le ministre chargé du
+budget après avis du ministre chargé de l'agriculture et du ministre chargé de
+l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel
+des Communautés européennes.
 
 Toutefois, si ces unités de production n'ont pas pour objet principal la
 production d'huiles utilisées comme carburant ou comme combustible, elles ne

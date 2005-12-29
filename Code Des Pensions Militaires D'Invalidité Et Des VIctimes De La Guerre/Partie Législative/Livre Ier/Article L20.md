@@ -12,7 +12,7 @@ dispositions de l'article L. 19 cessent d'être applicables aux bénéficiaires 
 présent article.
 
 Cependant, en aucun cas l'application du nouveau régime aux familles comptant au
-moins deux enfants [*nombre*] nés avant le 1er octobre 1945 et ouvrant droit aux
+moins deux enfants nés avant le 1er octobre 1945 et ouvrant droit aux
 majorations prévues par l'article L. 19 ne peut entraîner une diminution du
 total des majorations effectivement perçues à cette date au titre desdits
 enfants, tant à raison de la pension que des allocations aux grands invalides.
@@ -20,26 +20,30 @@ Le nouveau régime est intégralement applicable à partir du 1er octobre 1946, 
 familles ne comptant qu'un seul enfant à charge.
 
 Les enfants atteints d'une infirmité incurable ne leur permettant pas de gagner
-un salaire dont le montant est fixé par décret ouvrent droit, lorsque leur père
-ne peut plus prétendre aux prestations familiales de leur chef, et sauf le cas
-où ils sont hospitalisés aux frais de l'Etat, à une allocation spéciale dont le
-montant annuel est fixé ainsi qu'il suit :
+un salaire dont le montant est fixé par décret ouvrent droit, lorsque leur père,
+ou leur mère, ne peut plus prétendre aux prestations familiales de leur chef, et
+sauf le cas où ils sont hospitalisés aux frais de l'Etat, à une allocation
+spéciale dont le montant annuel est fixé ainsi qu'il suit :
 
-POUR UNE PENSION D'INVALIDITE DE 100 %
+POUR UNE PENSION D'INVALIDITE
 
-INDICE DE PENSION défini à l'article L. 8 bis du code : 92
+INDICE DE PENSION défini à l'article L. 8 bis du code
 
-POUR UNE PENSION D'INVALIDITE DE 95 %
+DE 100 %
 
-INDICE DE PENSION défini à l'article L. 8 bis du code : 85
+92
 
-POUR UNE PENSION D'INVALIDITE DE 90 %
+DE 95 %
 
-INDICE DE PENSION défini à l'article L. 8 bis du code : 77
+85
 
-POUR UNE PENSION D'INVALIDITE DE 85 %
+DE 90 %
 
-INDICE DE PENSION défini à l'article L. 8 bis du code : 65
+77
+
+DE 85 %
+
+65
 
 Cette allocation n'est cumulable avec aucun autre supplément familial attribué
 au titre du même enfant.

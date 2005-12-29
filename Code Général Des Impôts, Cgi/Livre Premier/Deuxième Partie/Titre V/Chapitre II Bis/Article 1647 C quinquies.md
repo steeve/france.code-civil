@@ -1,10 +1,10 @@
 Article 1647 C quinquies
 ----
-I. - La cotisation de taxe professionnelle établie au titre des années 2005,
-2006 et 2007 fait l'objet d'un dégrèvement pour sa part assise sur la valeur
-locative des immobilisations corporelles qui, à la date de leur création ou de
-leur première acquisition, intervenue entre le 1er janvier 2004 et le 31
-décembre 2005 inclus, sont éligibles aux dispositions de l'article 39 A.
+I. - Les immobilisations corporelles neuves éligibles aux dispositions de
+l'article 39 A ouvrent droit à un dégrèvement égal respectivement à la totalité,
+aux deux tiers et à un tiers de la cotisation de taxe professionnelle pour la
+première année au titre de laquelle ces biens sont compris dans la base
+d'imposition et pour les deux années suivantes.
 
 Pour bénéficier du dégrèvement, les redevables indiquent chaque année sur les
 déclarations prévues à l'article 1477 la valeur locative et l'adresse des biens
@@ -14,11 +14,11 @@ Les biens pour lesquels les redevables demandent le bénéfice du dégrèvement 
 peuvent faire l'objet des dégrèvements mentionnés aux articles 1647 C à 1647 C
 quater.
 
-II. - Le montant du dégrèvement est égal au produit de la valeur locative des
-immobilisations mentionnées au I, après application de l'ensemble des réductions
-et abattements dont elle peut faire l'objet, par le taux global de l'année
-d'imposition limité au taux global constaté dans la commune au titre de 2003,
-s'il est inférieur.
+II. - Le montant du dégrèvement est égal au produit, selon le cas, de la
+totalité, des deux tiers ou d'un tiers de la valeur locative des immobilisations
+mentionnées au I, après application de l'ensemble des réductions et abattements
+dont elle peut faire l'objet, par le taux global de l'année d'imposition limité
+au taux global constaté dans la commune au titre de 2003, s'il est inférieur.
 
 Les bases correspondant à ce dégrèvement ne sont pas prises en compte pour
 l'application des exonérations et abattements visés aux articles 1464 à 1466 E

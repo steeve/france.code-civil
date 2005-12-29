@@ -1,8 +1,8 @@
 Article L67
 ----
 Si le décès ou la disparition du militaire ou marin est survenue dans des
-conditions de nature à ouvrir le droit à pension de veuve, ses ascendants ont
-droit à une pension s'ils justifient [*condition d'ouverture du droit*] :
+conditions de nature à ouvrir le droit à pension de conjoint survivant, ses
+ascendants ont droit à une pension s'ils justifient :
 
 1° Qu'ils sont de nationalité française ;
 

@@ -9,10 +9,10 @@ besoin, la coordination des actions qu'ils conduisent. L'Etat peut également
 dans cette convention charger la collectivité territoriale de Corse de la mise
 en oeuvre de certaines de ses actions.
 
-II. - La collectivé territoriale de Corse est attributaire des subventions de
-fonctionnement du Fonds national pour le développement du sport destinées aux
-groupements sportifs locaux et réparties régionalement dans le cadre des
-orientations définies au sein du conseil dudit fonds.
+II. - La collectivité territoriale de Corse est attributaire des subventions de
+fonctionnement de l'établissement public chargé du développement du sport
+destinées aux groupements sportifs locaux et réparties régionalement dans le
+cadre des orientations définies par les instances dudit établissement.
 
 Elles sont affectées par délibération de l'Assemblée de Corse sur proposition du
 conseil exécutif et après consultation du représentant de l'Etat et d'une

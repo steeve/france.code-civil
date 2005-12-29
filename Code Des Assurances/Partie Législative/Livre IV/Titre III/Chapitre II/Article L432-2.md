@@ -7,6 +7,11 @@ La garantie de l'Etat peut être accordée en totalité ou en partie :
 a) Pour ses opérations d'assurances des risques commerciaux, politiques,
 monétaires, catastrophiques et de certains risques dits extraordinaires ;
 
+a bis) Pour ses opérations d'assurance couvrant le risque de non-paiement des
+sommes dues par des entreprises à des établissements de crédit ou des
+entreprises d'assurance dans le cadre d'opérations de commerce extérieur dans
+des conditions prévues par décret ;
+
 b) Pour ses garanties spécifiques couvrant les risques de non- paiement, dans
 des conditions prévues par décret ;
 

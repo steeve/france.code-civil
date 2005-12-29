@@ -2,12 +2,11 @@ Article 1664
 ----
 1. En ce qui concerne les contribuables qui auront été compris dans les rôles de
 l'année précédente pour une somme au moins égale à 296 euros, l'impôt sur le
-revenu ainsi que la contribution mentionnée à l'article 234 undecies donnent
-lieu, par dérogation aux dispositions de l'article 1663 et en l'absence d'option
-pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à deux
-versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle au
-cours de laquelle sont réalisés les revenus servant de base de calcul de
-l'impôt.
+revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en
+l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article
+1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année
+suivant celle au cours de laquelle sont réalisés les revenus servant de base de
+calcul de l'impôt.
 
 Le montant de chaque acompte est égal au tiers des cotisations mises à la charge
 du redevable dans les rôles concernant la dernière année au titre de laquelle il

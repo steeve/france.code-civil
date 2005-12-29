@@ -64,7 +64,7 @@ corrigés en tenant compte de la variation des revenus résultant de cette
 modification, le cas échéant de manière forfaitaire. Les modalités de calcul de
 ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 38 690
+Le montant total des ressources à prendre en compte ne doit pas excéder 51 900
 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
@@ -90,6 +90,13 @@ incessible, d'égal montant. Cette créance constitue un produit imposable
 rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel
 l'établissement de crédit a versé des avances remboursables sans intérêt et par
 fractions égales sur les exercices suivants.
+
+En cas de fusion, la créance de la société absorbée est transférée à la société
+absorbante. En cas de scission ou d'apport partiel d'actif, la créance est
+transmise à la société bénéficiaire des apports à la condition que l'ensemble
+des prêts à taux zéro y afférents et versés à des personnes physiques par la
+société scindée ou apporteuse soient transférés à la société bénéficiaire des
+apports.
 
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une
 convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à

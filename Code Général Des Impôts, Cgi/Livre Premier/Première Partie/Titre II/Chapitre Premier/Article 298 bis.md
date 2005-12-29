@@ -33,8 +33,8 @@ biens ne constituant pas des immobilisations et les services, par imputation sur
 la taxe due au titre du trimestre pendant lequel le droit à déduction a pris
 naissance ;
 
-4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et 1785
-D, les exploitants agricoles assujettis à la taxe sur la valeur ajoutée sont
+4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et
+1785, les exploitants agricoles assujettis à la taxe sur la valeur ajoutée sont
 soumis à l'ensemble des dispositions prévues par le présent code. Toutefois,
 l'article 302 septies A ne leur est pas applicable.
 
@@ -109,7 +109,7 @@ la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis po
 ses opérations agricoles au régime simplifié prévu au I peuvent être imposées
 selon ce régime lorsque le montant total des recettes accessoires taxes
 comprises n'excède pas, au titre de la période annuelle d'imposition précédente,
-30 000 euros et 30 % du montant des recettes taxes comprises provenant de ses
+50 000 euros et 30 % du montant des recettes taxes comprises provenant de ses
 activités agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants

@@ -16,10 +16,10 @@ complémentaires constituées à la clôture du même exercice en vue de faire f
 l'aggravation du coût estimé des sinistres advenus au cours d'autres exercices
 antérieurs. Chaque excédent de provision, après application de la franchise, et
 chaque dotation complémentaire sont rattachés à l'exercice au titre duquel la
-provision initiale a été constituée. La taxe est calculée au taux de 0,75 p. 100
+provision initiale a été constituée. La taxe est calculée au taux de 0,40 p. 100
 par mois écoulé depuis la constitution de la provision en faisant abstraction du
 nombre d'années correspondant au nombre d'exercices au titre desquels il n'était
-pas dû d'impôt sur les sociétés (1). Pour le calcul de la taxe due au titre de
+pas dû d'impôt sur les sociétés. Pour le calcul de la taxe due au titre de
 l'exercice clos le 31 décembre 2001, le taux de la franchise est fixé à 6 %. Si
 la différence entre la taxe qui aurait été due au titre de 2001 en la liquidant
 avec un taux de franchise fixé à 3 % et la taxe effectivement due au titre de

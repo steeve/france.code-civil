@@ -1,11 +1,11 @@
 Article 788
 ----
 I. - L'abattement mentionné à l'article 775 ter se répartit entre les
-bénéficiaires cités à cet article au prorata de leurs droits dans la succession.
-Il s'impute sur la part de chaque héritier déterminée après application des
-abattements mentionnés au I de l'article 779. La fraction de l'abattement non
-utilisée par un ou plusieurs bénéficiaires est répartie entre les autres
-bénéficiaires au prorata de leurs droits dans la succession.
+bénéficiaires cités à cet article au prorata de leurs droits légaux dans la
+succession. Il s'impute sur la part de chaque héritier déterminée après
+application des abattements mentionnés aux I et II de l'article 779. La fraction
+de l'abattement non utilisée par un ou plusieurs bénéficiaires est répartie
+entre les autres bénéficiaires au prorata de leurs droits dans la succession.
 
 II. Pour la perception des droits de mutation par décès, il est effectué un
 abattement de 57 000 euros sur la part de chaque frère ou soeur, célibataire,

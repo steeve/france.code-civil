@@ -35,3 +35,8 @@ cette date, le montant de l'abattement est de 57 000 euros.
 Le bénéfice de cet abattement est remis en cause lorsque le pacte prend fin au
 cours de l'année civile de sa conclusion ou de l'année suivante pour un motif
 autre que le mariage entre les partenaires ou le décès de l'un d'entre eux.
+
+IV Pour la perception des droits de mutation à titre gratuit, il est effectué en
+cas de donation ou, lorsque les dispositions du II de l'article 788 ne sont pas
+applicables, en cas de succession, un abattement de 5 000 euros sur la part de
+chacun des frères ou soeurs.

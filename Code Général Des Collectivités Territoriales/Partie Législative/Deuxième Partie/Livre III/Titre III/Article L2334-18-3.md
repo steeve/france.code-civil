@@ -5,8 +5,9 @@ garantie non renouvelable, une attribution égale à la moitié de celle qu'elle
 perçue l'année précédente.
 
 Pour 2005, lorsqu'une commune cesse d'être éligible à la dotation, elle perçoit,
-à titre de garantie non renouvelable, une attribution égale à celle qu'elle a
-perçue en 2004.
+à titre de garantie, une attribution égale à celle qu'elle a perçue en 2004. En
+2006, cette commune perçoit à titre de garantie une attribution égale à la
+moitié du montant perçu en 2004.
 
 En outre, lorsque, à compter de 2000, une commune, dont l'établissement public
 de coopération intercommunale dont elle est membre a opté deux ans auparavant

@@ -28,7 +28,7 @@ par suite d'erreur matérielle ou médicale, de fraude, de substitution, de
 simulation, à raison d'affections dont l'intéressé n'est pas atteint ;
 
 b) Qu'un ancien militaire dont le prétendu décès a ouvert droit à pension de
-veuve, d'orphelin ou d'ascendant est reconnu vivant.
+conjoint survivant, d'orphelin ou d'ascendant est reconnu vivant.
 
 Pour l'application du présent article (3°), le ministre des anciens combattants
 et victimes de guerre saisit le tribunal départemental des pensions, lequel

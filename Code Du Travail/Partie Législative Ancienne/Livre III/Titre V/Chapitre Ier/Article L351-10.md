@@ -10,7 +10,8 @@ d'assurance âgés de cinquante ans au moins qui satisfont aux conditions
 mentionnées à l'alinéa précédent et qui optent pour la perception de cette
 allocation. Dans ce cas, le service de l'allocation d'assurance est interrompu.
 
-Cette allocation est à la charge du fonds mentionné à l'article précédent.
+Cette allocation est à la charge du fonds de solidarité créé par l'article 1er
+de la loi n° 82-939 du 4 novembre 1982.
 
 Après un rapport d'évaluation et suivant des modalités fixées par décret, à
 l'échéance de la période de versement de l'allocation, le bénéficiaire peut

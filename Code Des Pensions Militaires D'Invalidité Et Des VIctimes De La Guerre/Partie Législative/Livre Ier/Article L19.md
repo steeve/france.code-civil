@@ -14,9 +14,9 @@ pouvait laisser prévoir une issue fatale à brève échéance.
 
 Les majorations sont dues pour chaque enfant jusqu'à l'âge de dix-huit ans.
 
-Elles sont payables même après la mort du père, sous réserve de l'application
-des deux derniers alinéas de l'article L. 51 et des articles L. 54, L. 55 et L.
-56.
+Elles sont payables même après la mort du père ou de la mère, sous réserve de
+l'application des deux derniers alinéas de l'article L. 51 et des articles L.
+54, L. 55 et L. 56.
 
 Les enfants atteints d'une infirmité incurable ne leur permettant pas de gagner
 un salaire dont le montant est fixé par décret conservent le bénéfice de ces

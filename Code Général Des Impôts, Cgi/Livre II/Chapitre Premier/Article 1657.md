@@ -27,12 +27,11 @@ de l'arrondissement des taux et du montant des cotisations viennent en
 augmentation ou en diminution du produit des sommes revenant à l'Etat pour frais
 de dégrèvement et non-valeurs et pour frais d'assiette et de recouvrement.
 
-1 bis. Les cotisations initiales d'impôt sur le revenu et de la contribution
-mentionnée aux articles 234 undecies ne sont pas mises en recouvrement lorsque
-leur montant global, avant imputation de tout crédit d'impôt, est inférieur à 61
-euros.
+1 bis. Les cotisations initiales d'impôt sur le revenu ne sont pas mises en
+recouvrement lorsque leur montant, avant imputation de tout crédit d'impôt, est
+inférieur à 61 €.
 
 2. Les cotisations d'impôts directs dont le montant total par article de rôle
-est inférieur à 12 euros ne sont pas mises en recouvrement si elles sont perçues
-au profit du budget de l'Etat ; elles sont allouées en non-valeurs si elles sont
+est inférieur à 12 € ne sont pas mises en recouvrement si elles sont perçues au
+profit du budget de l'Etat ; elles sont allouées en non-valeurs si elles sont
 perçues au profit d'un autre budget.

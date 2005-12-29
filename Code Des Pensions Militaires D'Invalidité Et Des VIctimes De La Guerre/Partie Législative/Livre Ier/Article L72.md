@@ -17,8 +17,9 @@ Soit de soixante-cinq ans ;
 Soit de soixante ans s'ils sont infirmes ou atteints d'une maladie incurable ou
 entraînant une incapacité permanente de travail.
 
-Les veuves bénéficiaires de la pension au taux exceptionnel prévu à l'article L.
-51, 1er alinéa, perçoivent, lorsqu'elles sont admises au bénéfice d'une pension
-d'ascendant majorée dans les conditions prévues par le présent paragraphe, une
-allocation complémentaire dont le taux est fixé à 170 points. Cette allocation
-est soumise aux mêmes conditions de ressources que la pension d'ascendant.
+Les conjoints survivants bénéficiaires de la pension au taux exceptionnel prévu
+à l'article L. 51, 1er alinéa, perçoivent, lorsqu'ils sont admis au bénéfice
+d'une pension d'ascendant majorée dans les conditions prévues par le présent
+paragraphe, une allocation complémentaire dont le taux est fixé à 170 points.
+Cette allocation est soumise aux mêmes conditions de ressources que la pension
+d'ascendant.

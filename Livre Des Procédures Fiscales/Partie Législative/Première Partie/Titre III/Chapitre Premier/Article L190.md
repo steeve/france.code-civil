@@ -24,8 +24,18 @@ tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de
 droits à déduction, fondées sur la non-conformité de la règle de droit dont il a
 été fait application à une règle de droit supérieure.
 
-Lorsque cette non-conformité a été révélée par une décision juridictionnelle,
-l'action en restitution des sommes versées ou en paiement des droits à déduction
-non exercés ou l'action en réparation du préjudice subi ne peut porter que sur
-la période postérieure au 1er janvier de la quatrième année précédant celle où
-la décision révélant la non-conformité est intervenue.
+Lorsque cette non-conformité a été révélée par une décision juridictionnelle ou
+un avis rendu au contentieux, l'action en restitution des sommes versées ou en
+paiement des droits à déduction non exercés ou l'action en réparation du
+préjudice subi ne peut porter que sur la période postérieure au 1er janvier de
+la troisième année précédant celle où la décision ou l'avis révélant la
+non-conformité est intervenu.
+
+Pour l'application de l'alinéa précédent, sont considérés comme des décisions
+juridictionnelles ou des avis rendus au contentieux les décisions du Conseil
+d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de
+justice administrative, les arrêts de la Cour de cassation ainsi que les avis
+rendus en application de l'article L. 151-1 du code de l'organisation
+judiciaire, les arrêts du Tribunal des conflits et les arrêts de la Cour de
+justice des Communautés européennes se prononçant sur un recours en annulation,
+sur une action en manquement ou sur une question préjudicielle.

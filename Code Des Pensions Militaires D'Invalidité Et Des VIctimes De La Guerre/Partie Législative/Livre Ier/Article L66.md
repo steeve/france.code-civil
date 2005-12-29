@@ -2,10 +2,10 @@ Article L66
 ----
 Lorsqu'un militaire ou marin est porté sur les listes de disparus, que l'on ait
 pu ou non fixer le lieu, la date et les circonstances de sa disparition, il est
-accordé à sa femme et à ses enfants âgés de moins de vingt et un ans, dans les
-conditions où ils auraient eu, en cas de décès, droit à pension, des pensions
-provisoires liquidées sur le taux normal établi aux articles L. 49 et suivants
-avec application des majorations prévues à l'article L. 54.
+accordé à son conjoint et à ses enfants âgés de moins de vingt et un ans, dans
+les conditions où ils auraient eu, en cas de décès, droit à pension, des
+pensions provisoires liquidées sur le taux normal établi aux articles L. 49 et
+suivants avec application des majorations prévues à l'article L. 54.
 
 Ces pensions provisoires ne peuvent être demandées que s'il s'est écoulé au
 moins six mois depuis le jour de la disparition.

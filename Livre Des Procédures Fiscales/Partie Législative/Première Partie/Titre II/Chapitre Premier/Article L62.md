@@ -3,7 +3,7 @@ Article L62
 Au cours d'une vérification de comptabilité et pour les impôts sur lesquels
 porte cette vérification, le contribuable peut régulariser les erreurs,
 inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans
-les délais, moyennant le paiement d'un intérêt de retard égal à 50 % de
+les délais, moyennant le paiement d'un intérêt de retard égal à 70 % de
 l'intérêt de retard prévu à l'article 1727 du code général des impôts.
 
 Cette procédure de régularisation spontanée ne peut être appliquée que si :

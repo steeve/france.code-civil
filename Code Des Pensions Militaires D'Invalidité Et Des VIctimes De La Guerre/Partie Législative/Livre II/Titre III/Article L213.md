@@ -19,6 +19,6 @@ maladies, sans condition de délai.
 Le bénéfice de la présomption d'origine, tel qu'il est défini à l'article L. 3,
 est reconnu aux personnes contraintes au travail en pays ennemi.
 
-Le taux de la pension de veuve prévu au premier alinéa de l'article L. 51 est
-applicable, sans condition d'âge, d'invalidité ni de ressources, aux veuves des
-déportés politiques morts au cours de leur déportation.
+Le taux de la pension de conjoint survivant prévu au premier alinéa de l'article
+L. 51 est applicable, sans condition d'âge, d'invalidité ni de ressources, aux
+conjoints survivants des déportés politiques morts au cours de leur déportation.

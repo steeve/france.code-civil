@@ -10,7 +10,8 @@ Mutilés et réformés de guerre pensionnés ;
 
 Titulaires de la carte du combattant ;
 
-Veuves de guerre pensionnées au titre du présent code ;
+Veufs et veuves de guerre pensionnés au titre du présent code et partenaires
+liés par un pacte civil de solidarité pensionnés dans les mêmes conditions ;
 
 Ascendants pensionnés des militaires "Morts pour la France" ;
 

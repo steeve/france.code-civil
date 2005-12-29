@@ -19,4 +19,4 @@ Les bénéficiaires des articles L. 68 à L. 72 ; R. 72 et R. 73 inclus du Code 
 pensions civiles et militaires de retraite peuvent obtenir la révision de leur
 situation de façon qu'à tout moment ils bénéficient des émoluments les plus
 avantageux sans que l'administration puisse leur opposer l'option signée par
-eux, par leur conjoint ou leur père.
+eux, par leur conjoint ou l'un de leurs parents.

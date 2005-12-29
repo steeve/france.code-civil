@@ -18,6 +18,7 @@ code général des collectivités territoriales.
 
 e) la taxe sur les fournitures d'électricité dans les conditions prévues aux
 articles L. 2333-2 à L. 2333-5 du code général des collectivités territoriales,
-au lieu et place des communes membres dont la population agglomérée au chef-lieu
-est inférieure à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans frais
-par le distributeur. Le taux de la taxe ne peut dépasser 8 p. 100.
+au lieu et place des communes membres dont la population est inférieure ou égale
+à 2 000 habitants. Dans ce cas, celle-ci est recouvrée sans frais par le
+gestionnaire du réseau de distribution ou le fournisseur. Le taux de la taxe ne
+peut dépasser 8 p. 100.

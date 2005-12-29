@@ -8,8 +8,8 @@ code énumérés ci-dessous :
 1° Les titulaires d'une pension d'invalidité correspondant à un taux
 d'incapacité d'au moins 85 % ;
 
-2° Les veuves de guerre non remariées et les veuves non remariées de grands
-invalides de guerre ;
+2° Les conjoints survivants de guerre non remariés et les conjoints survivants
+non remariés de grands invalides de guerre ;
 
 3° Les orphelins de guerre mineurs, titulaires d'une pension ;
 
@@ -22,7 +22,7 @@ commission prévue à l'article 52 de l'ordonnance n° 45-2434 du 19 octobre 194
 6° Les victimes civiles de la guerre bénéficiaires des lois des 24 juin 1919, 20
 mai 1946 et 14 mai 1951 et des textes subséquents ;
 
-7° Les veuves, non assurées sociales ;
+7° Les conjoints survivants, non assurés sociaux ;
 
 8° Les ascendants pensionnés au titre du présent code, âgés de plus de
 soixante-cinq ans et ne relevant pas déjà d'un régime obligatoire d'assurance

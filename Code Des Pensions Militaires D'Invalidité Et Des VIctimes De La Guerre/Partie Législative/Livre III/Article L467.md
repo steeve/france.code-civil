@@ -1,15 +1,15 @@
 Article L467
 ----
-Sur la demande du père ou du représentant légal de l'enfant et, à son défaut, à
-la diligence du procureur de la République, le tribunal, réuni en la chambre du
-conseil, après s'être procuré les renseignements convenables et avoir convoqué,
-par lettre recommandée, sans frais, le représentant légal de l'enfant, vérifie
-si celui-ci réunit les conditions nécessaires pour être dit "pupille de la
-nation". Le représentant légal de l'enfant, autre que le père, la mère ou un
-ascendant, doit être autorisé par le conseil de famille à présenter cette
-demande. Lorsqu'il l'a formulée lui-même, il n'est convoqué devant le tribunal
-que si l'admission de la demande soulève des difficultés et que les magistrats
-jugent utiles des explications complémentaires.
+Sur la demande du père, de la mère ou du représentant légal de l'enfant et, à
+son défaut, à la diligence du procureur de la République, le tribunal, réuni en
+la chambre du conseil, après s'être procuré les renseignements convenables et
+avoir convoqué, par lettre recommandée, sans frais, le représentant légal de
+l'enfant, vérifie si celui-ci réunit les conditions nécessaires pour être dit
+"pupille de la nation". Le représentant légal de l'enfant, autre que le père, la
+mère ou un ascendant, doit être autorisé par le conseil de famille à présenter
+cette demande. Lorsqu'il l'a formulée lui-même, il n'est convoqué devant le
+tribunal que si l'admission de la demande soulève des difficultés et que les
+magistrats jugent utiles des explications complémentaires.
 
 Le greffier du tribunal notifie, par lettre recommandée et sans frais, le
 jugement au représentant légal de l'enfant ainsi qu'à l'office départemental.

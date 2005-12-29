@@ -5,12 +5,12 @@ un militaire ou marin interné dans un établissement public d'aliénés ou dans
 établissement privé faisant fonction d'asile public, est employée, à due
 concurrence, à acquitter les frais d'hospitalisation.
 
-Toutefois, en cas d'existence de femme ou d'enfants et d'ascendants,
+Toutefois, en cas d'existence de conjoint ou d'enfants et d'ascendants,
 l'administrateur des biens de l'aliéné ou son tuteur verse, dans les quinze
 premiers jours de chaque trimestre :
 
-a) A la femme ou au représentant légal des enfants, les majorations d'enfants et
-une somme égale à une pension de veuve du taux normal ;
+a) Au conjoint ou au représentant légal des enfants, les majorations d'enfants
+et une somme égale à une pension de veuve du taux normal ;
 
 b) Aux ascendants des aliénés remplissant les conditions prévues au titre IV,
 une somme égale à la pension prévue à l'article L. 72.
