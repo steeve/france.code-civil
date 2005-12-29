@@ -10,8 +10,9 @@ limite mentionnée au premier alinéa du 1 de l'article 238 bis, minorée du tot
 des versements mentionnés au même article.
 
 Pour bénéficier de la déduction prévue au premier alinéa, l'entreprise doit
-exposer dans un lieu accessible au public le bien qu'elle a acquis pour la
-période correspondant à l'exercice d'acquisition et aux quatre années suivantes.
+exposer dans un lieu accessible au public ou aux salariés, à l'exception de
+leurs bureaux, le bien qu'elle a acquis pour la période correspondant à
+l'exercice d'acquisition et aux quatre années suivantes.
 
 Sont également admises en déduction dans les conditions prévues au premier
 alinéa les sommes correspondant au prix d'acquisition d'instruments de musique.

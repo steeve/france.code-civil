@@ -18,5 +18,5 @@ conservation des hypothèques, au moment où la formalité fusionnée est requis
 au contrôle de l'impôt.
 
 Pour les actes visés au deuxième alinéa du I du même article, l'un des
-exemplaires de l'extrait d'acte est déposé à la recette des impôts compétente
-pour opérer la formalité de l'enregistrement (3).
+exemplaires de l'extrait d'acte est déposé au service des impôts compétent pour
+opérer la formalité de l'enregistrement (3).

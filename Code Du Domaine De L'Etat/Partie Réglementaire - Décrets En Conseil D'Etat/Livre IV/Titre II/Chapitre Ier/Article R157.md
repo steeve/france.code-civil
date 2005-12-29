@@ -18,8 +18,8 @@ des postes et télécommunications ;
 
 - D'autre part, du motif de sa non-délivrance.
 
-Dans cette éventualité, l'ampliation ou l'extrait retourné reste déposé à la
-recette des impôts chargée du recouvrement des produits domaniaux où il peut en
+Dans cette éventualité, l'ampliation ou l'extrait retourné reste déposé au
+service des impôts chargée du recouvrement des produits domaniaux où il peut en
 être délivré copie à tout moment et sans frais soit au redevable lui-même, soit
 à son fondé de pouvoir.
 

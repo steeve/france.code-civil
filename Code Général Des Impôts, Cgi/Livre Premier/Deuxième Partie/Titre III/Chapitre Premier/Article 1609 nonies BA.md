@@ -29,10 +29,11 @@ finances pour 1987 (n° 86-1317 du 30 décembre 1986), au III de l'article 52 de
 la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
 développement du territoire, au B de l'article 4 de la loi n° 96-987 du 14
 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance pour la
-ville, au III de l'article 95 de la loi de finances pour 1998 (n° 97-1269 du 30
-décembre 1997), sont versées à l'agglomération nouvelle. Toutefois, le taux
-retenu pour le calcul de celles perçues dans la partie de la zone d'activités
-située hors de l'agglomération nouvelle est le taux de référence de la commune ;
+ville, aux III et IV de l'article 95 de la loi de finances pour 1998 (n° 97-1269
+du 30 décembre 1997), sont versées à l'agglomération nouvelle. Toutefois, le
+taux retenu pour le calcul de celles perçues dans la partie de la zone
+d'activités située hors de l'agglomération nouvelle est le taux de référence de
+la commune ;
 
 c. les dispositions des articles 1648 A et 1648 AA ne s'appliquent pas à la
 partie de la zone d'activités située hors de l'agglomération nouvelle, mais qui

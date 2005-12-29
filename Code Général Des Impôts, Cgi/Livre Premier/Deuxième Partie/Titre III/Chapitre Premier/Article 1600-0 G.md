@@ -15,8 +15,8 @@ modalités prévues au III de l'article L. 136-6 du code de la sécurité social
 l'exception du troisième alinéa.
 
 Pour la détermination de l'assiette de la contribution, il n'est pas fait
-application des abattements mentionnés au I de l'article 125-0 A, aux 2° et 5°
-du 3 ainsi qu'au 4 bis de l'article 158.
+application des abattements mentionnés au I de l'article 125-0 A, à l'article
+150-0 D bis et aux 2° et 5° du 3 de l'article 158.
 
 II. La contribution est mise en recouvrement et exigible en même temps, le cas
 échéant, que la contribution sociale instituée par l'article L. 136-6 du code de

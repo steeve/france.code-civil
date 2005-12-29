@@ -31,12 +31,15 @@ avant la fin du deuxième exercice qui suit celui de leur réalisation.
 
 Sont exonérés les produits versés en application des trois alinéas précédents
 s'ils sont distribués au cours de l'exercice suivant celui de leur perception
-par une société ayant opté pour le présent régime.
+par une société ayant opté pour le présent régime. Cette société peut être une
+filiale ou une société, mentionnée respectivement au premier alinéa ou au I, dès
+lors que cette dernière est liée directement ou indirectement, au sens du 12 de
+l'article 39, à la société bénéficiaire de la distribution.
 
 Pour l'application des présentes dispositions, les opérations visées au premier
 alinéa et réalisées par des organismes mentionnés à l'article 8 sont réputées
 être faites par les associés, lorsque ceux-ci sont admis au bénéfice du présent
-régime, à hauteur de leur participation (1).
+régime, à hauteur de leur participation.
 
 III. - L'option doit être notifiée au plus tard avant la fin du quatrième mois
 de l'ouverture de l'exercice au titre duquel l'entreprise souhaite être soumise
@@ -44,6 +47,13 @@ au présent régime, à l'exception de l'exercice clos en 2003 pour lequel l'opt
 doit être notifiée avant le 30 septembre 2003.
 
 Cette option est irrévocable.
+
+III bis. - Les sociétés soumises à l'impôt sur les sociétés mentionnées au c du
+I de l'article L. 214-92 du code monétaire et financier peuvent opter dans les
+conditions du III pour le régime d'imposition prévu au II lorsqu'elles sont
+détenues à 95 % au moins, directement ou indirectement et de manière continue au
+cours de l'exercice, par une société de placement à prépondérance immobilière à
+capital variable mentionnée au 3° nonies de l'article 208.
 
 IV. - En cas de sortie du présent régime de la société d'investissements
 immobiliers cotée dans les dix années suivant l'option, les plus-values imposées
@@ -54,7 +64,7 @@ payé au titre du IV du même article.
 N'est pas constitutive d'une sortie la fusion de deux sociétés d'investissements
 immobiliers cotées dès lors que la société absorbante s'engage, dans l'acte de
 fusion, à se substituer à la société absorbée pour les obligations de
-distribution prévues du deuxième au quatrième alinéas du II (2).
+distribution prévues du deuxième au quatrième alinéas du II.
 
 V. - Un décret fixe les conditions de l'option et les obligations déclaratives
-des sociétés soumises au présent régime.
+des sociétés mentionnées aux II et III bis soumises au présent régime.

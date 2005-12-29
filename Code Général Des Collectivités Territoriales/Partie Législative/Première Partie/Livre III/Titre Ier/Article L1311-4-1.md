@@ -7,6 +7,11 @@ dépendances de leur domaine public, acquérir ou rénover des bâtiments destin
 ou de la gendarmerie nationales ou d'un établissement public de santé ou d'une
 structure de coopération sanitaire dotée de la personnalité morale publique.
 
+Jusqu'au 31 décembre 2010, les conseils généraux peuvent construire, y compris
+sur les dépendances de leur domaine public, acquérir ou rénover des bâtiments
+destinés à être mis à la disposition des services départementaux d'incendie et
+de secours.
+
 Une convention entre l'Etat ou l'établissement public de santé ou la structure
 de coopération sanitaire mentionnée au premier alinéa et la collectivité ou
 l'établissement propriétaire précise notamment les engagements financiers des

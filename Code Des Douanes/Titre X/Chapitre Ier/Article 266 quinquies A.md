@@ -11,10 +11,10 @@ teneur en soufre supérieure à 1 % utilisé dans des installations de cogénér
 réglementation en vigueur est portée à dix années.
 
 Cette exonération s'applique aux installations mises en service, au plus tard,
-le 31 décembre 2005. Toutefois, en ce qui concerne les huiles minérales, autres
+le 31 décembre 2007. Toutefois, en ce qui concerne les huiles minérales, autres
 que le fioul lourd et les gaz de raffinerie, cette exonération ne s'applique
 qu'aux installations mises en service entre le 1er janvier 2003 et le 31
-décembre 2005.
+décembre 2007.
 
 La nature et la puissance minimale des installations de cogénération ainsi que
 le rapport entre les deux énergies produites sont fixés par décret en Conseil

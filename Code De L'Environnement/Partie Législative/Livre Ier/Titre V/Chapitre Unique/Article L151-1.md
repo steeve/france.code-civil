@@ -7,10 +7,14 @@ par l'article 266 sexies du code des douanes ci-après reproduit :
 polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et
-assimilés ou tout exploitant d'une installation d'élimination de déchets
+assimilés, tout exploitant d'une installation d'élimination de déchets
 industriels spéciaux par incinération, coïncinération, stockage, traitement
-physico-chimique ou biologique non exclusivement utilisées pour les déchets que
-l'entreprise produit ;
+physico-chimique ou biologique non exclusivement utilisée pour les déchets que
+l'entreprise produit ou toute personne qui transfère ou fait transférer des
+déchets industriels spéciaux vers un autre Etat en application du règlement
+(CEE) n° 259/93 du Conseil du 1er février 1993, concernant la surveillance et le
+contrôle des transferts de déchets à l'entrée et à la sortie de la communauté
+européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V
 (titre Ier) du code de l'environnement dont la puissance thermique maximale
@@ -20,7 +24,7 @@ mentionnées au 2 de l'article 266 septies émises en une année lorsque
 l'installation n'entre pas dans les catégories précédentes, dépassent certains
 seuils fixés par décret en Conseil d'Etat ;
 
-3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+3. (Alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. Toute personne qui effectue une première livraison après fabrication
 nationale ou qui livre sur le marché intérieur en cas d'acquisition
@@ -70,18 +74,29 @@ code de l'environnement ;
 b. Tout exploitant d'un établissement mentionné au a dont les activités,
 figurant sur une liste établie par décret en Conseil d'Etat après avis du
 Conseil supérieur des installations classées, font courir, par leur nature ou
-leur volume, des risques particuliers à l'environnement.
+leur volume, des risques particuliers à l'environnement ;
+
+9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code
+de l'environnement, qui, au titre d'une année civile, a mis à disposition, fait
+mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
+déclarées non conformes à la Constitution) dans les conditions mentionnées audit
+article et qui n'a pas acquitté la contribution financière ou en nature qui y
+est prévue.
 
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement
-affectées à la valorisation comme matière ni aux installations d'élimination de
-déchets exclusivement affectées à l'amiante-ciment ;
+affectées à la valorisation comme matière par incorporation des déchets dans un
+processus de production ou tout autre procédé aboutissant à la vente de
+matériaux ;
 
-2. a. Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ;
+1 bis Aux transferts de déchets industriels spéciaux vers un autre Etat
+lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme matière ;
 
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection
-civile ou de lutte contre l'incendie ;
+1 ter Aux installations d'élimination de déchets exclusivement affectées à
+l'amiante-ciment ;
+
+2. (Alinéa abrogé)
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de
 recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde
@@ -90,7 +105,7 @@ de silicium ;
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations
 auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le
 linge, aux matériaux d'extraction, aux produits antiparasitaires à usage
-agricole ou aux produits assimilés mentionnés respectivement au a du 4 et aux 5,
+agricole et aux produits assimilés mentionnés respectivement au a du 4 et aux 5,
 6 et 7 du I du présent article lorsque la première livraison après fabrication
 nationale consiste en une expédition directe à destination d'un Etat membre de
 la Communauté européenne ou en une exportation ;

@@ -28,9 +28,9 @@ ouverture à un droit proportionnel ou progressif ;
 2° Les actes portant acceptation ou répudiation de successions, legs ou
 communautés ;
 
-3° Les certificats de propriétés (1) ;
+3° Les certificats de propriétés ;
 
-4° Les inventaires de meubles (1), titres et papiers et les prisées de meubles ;
+4° Les inventaires de meubles, titres et papiers et les prisées de meubles ;
 
 5° Les actes portant transmission de propriété ou d'usufruit de fonds de
 commerce, de clientèles ou d'offices, ou cession de droit à un bail ou du
@@ -38,7 +38,8 @@ bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble ;
 
 6° Les procès-verbaux constatant une adjudication aux enchères publiques de
 biens meubles corporels ou incorporels ou toute autre vente de mêmes biens faite
-avec publicité et concurrence ;
+avec publicité et concurrence, lorsqu'ils sont soumis à un droit proportionnel
+ou progressif ;
 
 7° Les actes portant cession d'actions, de parts de fondateurs ou de parts
 bénéficiaires ou cession de parts sociales dans les sociétés dont le capital
@@ -50,4 +51,5 @@ prépondérance immobilière au sens du quatrième alinéa du 2° du I de l'arti
 
 8° 9° (Abrogés) ;
 
-(1) Voir Annexe IV, art. 60.
+10° Les actes portant cession et rachat taxables de parts de fonds de placement
+immobilier.

@@ -1,10 +1,9 @@
 Article 1647 C bis
 ----
-A compter des impositions établies au titre de 2001, les entreprises qui
-exercent l'activité de transport sanitaire terrestre dans les conditions prévues
-aux articles L. 6312-1 et suivants du code de la santé publique bénéficient d'un
-dégrèvement de 50 % de la cotisation de taxe professionnelle due à raison de
-cette activité.
+Les entreprises qui exercent l'activité de transport sanitaire terrestre dans
+les conditions prévues aux articles L. 6312-1 et suivants du code de la santé
+publique bénéficient d'un dégrèvement de 75 % de la cotisation de taxe
+professionnelle due à raison de cette activité.
 
 Ce dégrèvement est accordé à compter de l'année qui suit celle au cours de
 laquelle une copie de la décision d'agrément délivrée en application des

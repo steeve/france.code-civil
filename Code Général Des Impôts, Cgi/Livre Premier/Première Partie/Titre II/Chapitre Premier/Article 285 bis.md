@@ -16,7 +16,7 @@ de l'article 293 B.
 des droits qu'il perçoit.
 
 Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui
-versent des droits à l'auteur ainsi qu'au centre des impôts dont celui-ci
+versent des droits à l'auteur ainsi qu'au service des impôts dont celui-ci
 relève.
 
 Elle prend effet le premier jour du mois qui suit celui au cours duquel elle est
@@ -35,11 +35,10 @@ les modalités de liquidation de la taxe définies au 5. Ils déposent au titre 
 ces droits une déclaration annuelle de chiffre d'affaires.
 
 5. Pour le calcul du montant de la taxe nette due par l'auteur, les personnes
-visées au 1 appliquent en France métropolitaine un taux forfaitaire de 0,8 p.
-100 des droits d'auteur au titre des droits à déduction en France
-métropolitaine. Ce taux est de 0,40 p. 100 dans les départements de la
-Guadeloupe, de la Réunion et de la Martinique. Cette déduction est exclusive de
-toute autre déduction.
+visées au 1 appliquent en France métropolitaine un taux forfaitaire de 0,8% des
+droits d'auteur au titre des droits à déduction en France métropolitaine. Ce
+taux est de 0,40% dans les départements de la Guadeloupe, de la Réunion et de la
+Martinique. Cette déduction est exclusive de toute autre déduction.
 
 6. Les personnes visées au 1 doivent déclarer et acquitter la retenue dans les
 mêmes conditions et sous les mêmes sanctions que leurs propres opérations. La

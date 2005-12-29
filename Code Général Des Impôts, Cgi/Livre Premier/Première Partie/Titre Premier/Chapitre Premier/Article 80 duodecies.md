@@ -24,9 +24,7 @@ sécurité sociale en vigueur à la date du versement des indemnités ;
 
 b) Soit le montant de l'indemnité de licenciement prévue par la convention
 collective de branche, par l'accord professionnel ou interprofessionnel ou, à
-défaut, par la loi, si ce montant est supérieur à six fois le plafond mentionné
-à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du
-versement des indemnités ;
+défaut, par la loi ;
 
 4° La fraction des indemnités de mise à la retraite qui n'excède pas :
 
@@ -36,11 +34,9 @@ travail, ou 50 % du montant de l'indemnité si ce seuil est supérieur, dans la
 limite de cinq fois le plafond mentionné à l'article L. 241-3 du code de la
 sécurité sociale en vigueur à la date du versement des indemnités ;
 
-b) Soit le montant de l'indemnité de licenciement prévue par la convention
+b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention
 collective de branche, par l'accord professionnel ou interprofessionnel ou, à
-défaut, par la loi, si ce montant est supérieur à cinq fois le plafond mentionné
-à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du
-versement des indemnités.
+défaut, par la loi.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à
 l'occasion de la cessation de leurs fonctions, aux mandataires sociaux,

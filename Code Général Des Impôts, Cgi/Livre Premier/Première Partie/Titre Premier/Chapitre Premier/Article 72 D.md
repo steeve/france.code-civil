@@ -20,10 +20,6 @@ suivants. Toutefois, le retrait de l'adhérent ou la cession de parts sociales
 entraîne la réintégration immédiate dans le résultat imposable de la fraction de
 la déduction qui n'a pas encore été rapportée.
 
-Les exploitants agricoles qui pratiquent cette déduction renoncent
-définitivement aux dispositions prévues à l'article 72 B pour les stocks qui
-auraient pu y ouvrir droit.
-
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est
 rapportée aux résultats du cinquième exercice suivant sa réalisation. Sur
 demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat
@@ -48,4 +44,4 @@ déduction au titre d'un exercice précédant celui de la transmission n'est pas
 considérée pour l'application du I comme une cessation d'activité si le ou les
 bénéficiaires de la transmission remplissent les conditions ouvrant droit à la
 déduction et s'engagent à utiliser celle-ci conformément à son objet dans les
-cinq années qui suivent celle au cours de laquelle elle a été pratiquée (1).
+cinq années qui suivent celle au cours de laquelle elle a été pratiquée.

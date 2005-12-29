@@ -20,14 +20,12 @@ jusqu'à 370 000 Euros de chiffre d'affaires et à 0,05 % au-delà. Le chiffre
 d'affaires mentionné au II s'entend hors taxe sur la valeur ajoutée.
 
 Les redevables dont la partie variable de la cotisation due au titre des années
-2003, 2004 et des périodes d'imposition débutant en 2005, 2006, 2007 et 2008 est
-supérieure respectivement de 20 % au titre des années 2003, 2004 et des périodes
-d'imposition débutant en 2005 et de 40 %, 60 % et 80 % au titre des périodes
-d'imposition débutant en 2006, 2007 et 2008, au total des sommes acquittées pour
-l'année 2002 au titre des taxes parafiscales instituées par les décrets n°s
-2000-1297 à 2000-1299 inclus et n°s 2000-1339 à 2000-1344 inclus du 26 décembre
-2000 sont autorisés à imputer le montant de cet excédent ainsi calculé sur le
-montant de la taxe à acquitter.
+2003, 2004 et des périodes d'imposition débutant en 2005 et 2006 est supérieure
+de 20 % au titre des années 2003, 2004 et des périodes d'imposition débutant en
+2005 et 2006 au total des sommes acquittées pour l'année 2002 au titre des taxes
+parafiscales instituées par les décrets n° 2000-1297 à n° 2000-1299 inclus et n°
+2000-1339 à n° 2000-1344 inclus du 26 décembre 2000 sont autorisés à imputer le
+montant de cet excédent ainsi calculé sur le montant de la taxe à acquitter.
 
 IV. - La taxe est acquittée :
 
@@ -37,7 +35,7 @@ simplifié mentionné à cet article. Lorsqu'elle est acquittée sur la déclara
 mentionnée à la dernière phrase du 1° du 1 de l'article précité, la partie
 forfaitaire et le seuil de 370 000 Euros mentionnés au premier alinéa du III
 ainsi que les montants au-delà desquels la taxe due est plafonnée en application
-du second alinéa dudit III sont ajustés pro rata temporis ;
+du second alinéa dudit III sont ajustés prorata temporis ;
 
 2° Sur la déclaration déposée au titre du premier trimestre de l'année ou de
 l'exercice au titre de laquelle ou duquel la taxe est due, pour les exploitants
@@ -46,8 +44,8 @@ au quatrième alinéa du I de l'article 1693 bis. Lorsqu'elle est acquittée au
 titre de la période définie à la dernière phrase du 1° du I de l'article 298
 bis, la partie forfaitaire et le seuil de 370 000 Euros mentionnés au premier
 alinéa du III du présent article ainsi que les montants au-delà desquels la taxe
-due est plafonnée en application du second alinéa dudit III sont ajustés prorata
-temporis ;
+due est plafonnée en application du second alinéa dudit III sont ajustés pro
+rata temporis ;
 
 3° Sur l'annexe de la déclaration des opérations du premier trimestre ou du mois
 de mars de l'année au titre de laquelle la taxe est due, déposée en application

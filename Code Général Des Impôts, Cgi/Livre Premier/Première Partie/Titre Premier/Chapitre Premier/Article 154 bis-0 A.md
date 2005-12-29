@@ -25,8 +25,8 @@ du travail et exonérées en application du 18° de l'article 81.
 
 II. - La déduction mentionnée au I est subordonnée à la justification par le
 chef d'exploitation ou d'entreprise de la régularité de sa situation vis-à-vis
-du régime d'assurance vieillesse de base dont il relève, conformément au I de
-l'article 55 de la loi n° 97-1051 du 18 novembre 1997 précitée.
+des régimes d'assurance vieillesse obligatoires dont il relève, conformément au
+I de l'article 55 de la loi n° 97-1051 du 18 novembre 1997 précitée.
 
 III. - Si le chef d'exploitation a souscrit un contrat pour son conjoint ou les
 membres de sa famille participant à l'exploitation et affiliés au régime de base

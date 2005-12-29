@@ -6,7 +6,7 @@ de Corse prévus au III de l'article L. 4424-7 et aux articles L. 4424-22, L.
 du code forestier s'effectuent à titre gratuit, dans les conditions déterminées
 par la loi de finances, et selon les modalités prévues aux trois premiers
 alinéas de l'article L. 4422-44. Ces transferts sont exemptés de tous frais,
-droits ou taxes.
+salaires, droits ou taxes.
 
 II. - Par dérogation aux dispositions de l'article 30 de la loi n° 91-662 du 13
 juillet 1991 d'orientation pour la ville, lorsque l'Etat décide d'aliéner un

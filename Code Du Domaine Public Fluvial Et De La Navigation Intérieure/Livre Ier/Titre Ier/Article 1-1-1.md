@@ -18,7 +18,7 @@ déléguer, par convention, tout ou partie de leurs compétences à des
 collectivités territoriales qui en feraient la demande.
 
 Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement
-d'aucune indemnité, droit, taxe ou honoraires.
+d'aucune indemnité, droit, taxe, salaire ou honoraires.
 
 Toutefois, lorsque avant le 1er janvier 2005, une partie du domaine public
 fluvial a été concédée à une collectivité territoriale, cette dernière est

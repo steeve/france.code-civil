@@ -18,7 +18,7 @@ entreprises occupant au moins cinquante salariés dans lesquelles l'institution
 d'un comité d'entreprise n'est pas obligatoire ;
 
 les modalités d'établissement et le contenu de la déclaration prévus à l'article
-L. 951-12, ainsi que la recette des impôts compétente pour recevoir cette
+L. 951-12, ainsi que le service des impôts compétent pour recevoir cette
 déclaration."
 
 "Article L. 992-7 : Un décret en Conseil d'Etat apportera aux dispositions des

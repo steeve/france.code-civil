@@ -1,7 +1,7 @@
 Article 287
 ----
-1. Tout redevable de la taxe sur la valeur ajoutée est tenu de remettre à la
-recette des impôts dont il dépend et dans le délai fixé par arrêté une
+1. Tout redevable de la taxe sur la valeur ajoutée est tenu de remettre au
+service des impôts dont il dépend et dans le délai fixé par arrêté une
 déclaration conforme au modèle prescrit par l'administration.
 
 2. Les redevables soumis au régime réel normal d'imposition déposent
@@ -89,4 +89,7 @@ pour lesquelles le destinataire de la livraison est désigné comme redevable de
 la taxe en application des dispositions du 2 ter de l'article 283 et des
 livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est
 désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies
-de ce dernier article.
+de ce dernier article ;
+
+c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article
+257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

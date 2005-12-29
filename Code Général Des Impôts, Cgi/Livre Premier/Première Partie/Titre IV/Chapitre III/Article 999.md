@@ -11,10 +11,3 @@ la capitalisation de leurs réserves. Cette exonération est subordonnée à la
 condition que les contrats conclus à cet effet soient conformes à un
 contrat-type approuvé par arrêté conjoint signé par le ministre de l'économie et
 des finances et par le ministre du travail ou le ministre de l'agriculture (1).
-
-A l'exception des versements afférents au risque maladie faits auprès des
-institutions de prévoyance visées aux articles L. 931-1 du code de la sécurité
-sociale et L. 727-2 du code rural, bénéficient de la même exonération les
-versements reçus par les institutions visées à l'alinéa précédent qui assurent
-directement le service de leurs prestations et la gestion financière des
-capitaux qu'elles recueillent.

@@ -66,10 +66,16 @@ sont détenues ou qui ont été détenues par une société civile régie par la
 section 3 du chapitre IV du titre premier du livre II du code monétaire et
 financier ou par une entreprise d'assurance ou de capitalisation ;
 
+Conformément aux dispositions de l'article L. 322-18 du code rural, le
+remboursement des avantages fiscaux prévus aux articles L. 322-1 à L. 322-24 du
+même code n'est pas dû lorsque la condition de parenté prévue à l'article L.
+322-11 du code précité cesse d'être respectée à la suite de transmissions à
+titre gratuit ;
+
 Peuvent être étendues aux départements d'outre-mer dans des conditions fixées
 par décret en Conseil d'Etat, après avis des conseils généraux desdits
 départements, les dispositions des articles L. 322-1 à L. 322-21, L322-23 et
-L322-24 du code rural (1) ;
+L322-24 du code rural ;
 
 5° les reversions de rentes viagères entre époux ou entre parents en ligne
 directe ;
@@ -145,7 +151,7 @@ et 199 undecies A.
 Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 4°, notamment les obligations déclaratives incombant aux
 redevables et les pièces justificatives à fournir lors de l'enregistrement de la
-transmission mentionnée au premier alinéa (2) ;
+transmission mentionnée au premier alinéa ;
 
 5° lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs dont la déclaration de l'achèvement des travaux prévue par la
@@ -169,7 +175,7 @@ l'acquéreur a bénéficié des réductions d'impôt prévues aux articles 199 u
 et 199 undecies A.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des
-dispositions du présent 5° (3) ;
+dispositions du présent 5° ;
 
 6° lors de leur première transmission à titre gratuit, les immeubles ou
 fractions d'immeubles mentionnés aux articles 710 et 711, à concurrence des
@@ -195,12 +201,36 @@ l'expiration de ce délai.
 Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 6°, notamment les obligations déclaratives incombant aux
 redevables et pièces justificatives à fournir lors de l'enregistrement de la
-transmission mentionnée au premier alinéa (4).
+transmission mentionnée au premier alinéa.
 
-(1) Voir les articles R. 328-3 et R. 328-4 du code rural.
+7° Les successions et donations entre vifs, à concurrence des trois quarts de
+leur montant, intéressant les propriétés non bâties qui ne sont pas en nature de
+bois et forêts et qui sont incluses dans les espaces naturels délimités en
+application de l'article L. 414-1 du code de l'environnement, à la condition :
 
-(2) Voir l'article 294 E de l'annexe II.
+a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé
+d'un certificat délivré sans frais par le directeur départemental de
+l'agriculture et de la forêt attestant que les propriétés concernées font
+l'objet d'un engagement de gestion conforme aux objectifs de conservation de ces
+espaces ;
 
-(3) Voir l'article 294 A de l'annexe II.
+b) Qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
+pris pour lui et ses ayants cause, d'appliquer pendant dix-huit ans aux espaces
+naturels objets de la mutation des garanties de gestion conformes aux objectifs
+de conservation de ces espaces et dont le contenu est défini par décret.
 
-(4) Voir l'article 294 B de l'annexe II.
+Cette exonération n'est pas cumulable avec une autre exonération applicable en
+matière de droits de mutation à titre gratuit.
+
+En cas de transmission de propriétés non bâties, qui sont incluses dans les
+espaces naturels délimités en application de l'article L. 414-1 du code de
+l'environnement, à l'Etat ou aux collectivités et organismes mentionnés à
+l'article 1042 du présent code, l'engagement est réputé définitivement satisfait
+à concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant
+déterminée par le rapport entre la superficie des biens objets de la
+transmission et la superficie totale des biens sur lesquels l'engagement a été
+souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
+au profit d'établissements ou de sociétés, en vue de la réalisation
+d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
+donner lieu à l'établissement d'une servitude d'utilité publique au titre de
+ladite mutation.

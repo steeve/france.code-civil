@@ -9,4 +9,4 @@ l'article 4 de ce texte.
 Le refus est constaté sur le registre du bureau, à la date de la présentation de
 l'acte sous seing privé à la formalité de l'enregistrement. La mention de refus,
 datée et signée par le comptable, apposée sur chacun des originaux, donne date
-certaine à l'acte ; un des originaux est conservé à la recette des impôts.
+certaine à l'acte ; un des originaux est conservé au service des impôts.

@@ -1,6 +1,6 @@
 Article L952-4
 ----
-Les employeurs sont tenus de remettre à la recette des impôts compétente une
+Les employeurs sont tenus de remettre au service des impôts compétent une
 déclaration indiquant notamment les montants de la participation à laquelle ils
 étaient tenus et des versements effectués ainsi que la désignation de
 l'organisme destinataire.
@@ -14,8 +14,9 @@ précédente sont déposées dans les soixante jours de la cession ou de la
 cessation. En cas de décès de l'employeur, ces déclarations sont déposées dans
 les six mois qui suivent la date du décès.
 
-En cas de redressement judiciaire ou de liquidation des biens, elles sont
-produites dans les soixante jours de la date du jugement.
+En cas de procédure de sauvegarde ou de redressement judiciaire ou de
+liquidation des biens, elles sont produites dans les soixante jours de la date
+du jugement.
 
 Les chefs d'exploitation et d'entreprises agricoles occupant moins de dix
 salariés auprès desquels les caisses de mutualité sociale agricole prélèvent la

@@ -10,10 +10,10 @@ compétences financées par l'entreprise dans le cadre du plan de formation et l
 conditions qui doivent être respectées par les organismes chargés de réaliser le
 bilan ;.
 
-les conditions d'application des dispositions prévues à l'article L. 951-8 aux
+Les conditions d'application des dispositions prévues à l'article L. 951-8 aux
 entreprises occupant au moins cinquante salariés dans lesquelles l'institution
 d'un comité d'entreprise n'est pas obligatoire ;
 
-les modalités d'établissement et le contenu de la déclaration prévus à l'article
-L. 951-12, ainsi que la recette des impôts compétente pour recevoir cette
+Les modalités d'établissement et le contenu de la déclaration prévus à l'article
+L. 951-12, ainsi que le service des impôts compétent pour recevoir cette
 déclaration.

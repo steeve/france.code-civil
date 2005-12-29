@@ -9,6 +9,3 @@ Les prévisions du compte d'exploitation doivent être présentées en équilibr
 pour chaque exercice. Au cas où les ressources existantes ne seraient pas
 suffisantes pour couvrir la totalité des charges d'exploitation, l'autorité
 compétente peut créer d'office les ressources nouvelles nécessaires.
-
-Après constitution des réserves et provisions, l'excédent net de chaque exercice
-est réservé à l'Etat dans la proportion de 50 %.

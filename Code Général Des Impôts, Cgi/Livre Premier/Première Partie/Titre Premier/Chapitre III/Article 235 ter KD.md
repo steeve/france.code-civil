@@ -3,7 +3,7 @@ Article 235 ter KD
 Cet article reproduit les dispositions de l'article L. 952-4 du code du travail
 :
 
-"Les employeurs sont tenus de remettre à la recette des impôts compétente une
+"Les employeurs sont tenus de remettre au service des impôts compétent une
 déclaration indiquant notamment les montants de la participation à laquelle ils
 étaient tenus et des versements effectués ainsi que la désignation de
 l'organisme destinataire.

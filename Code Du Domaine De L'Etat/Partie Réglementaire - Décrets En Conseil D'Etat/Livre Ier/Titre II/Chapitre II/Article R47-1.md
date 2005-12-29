@@ -16,7 +16,7 @@ visés doivent en informer les ayants droit connus par lettre recommandée
 adressée à leur dernier domicile.
 
 Lorsqu'ils sont atteints par la prescription trentenaire ou conventionnelle, ces
-dépôts sont remis par la Caisse des dépôts et consignations à la recette des
+dépôts sont remis par la Caisse des dépôts et consignations au service des
 impôts spécialement désignée par le directeur général des impôts.
 
 Ces avoirs ne donnent lieu à aucune rémunération de la part de la Caisse des

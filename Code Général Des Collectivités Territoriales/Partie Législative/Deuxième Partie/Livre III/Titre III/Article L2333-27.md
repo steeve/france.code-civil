@@ -16,7 +16,8 @@ territoire d'un parc national ou d'un parc naturel régional géré par un
 la commune ou l'établissement public de coopération intercommunale à l'organisme
 gestionnaire du parc dans le cadre d'une convention.
 
-Les communes de montagne mentionnées à l'article L. 2333-26, membres d'un
-établissement public de coopération intercommunale doté d'une compétence en
-matière de développement économique, peuvent reverser à cet établissement public
-tout ou partie de la taxe qu'elles perçoivent.
+Lorsqu'un établissement public de coopération intercommunale doté d'une
+compétence en matière de développement économique est composé d'au moins une
+commune de montagne mentionnée à l'article L. 2333-26, l'ensemble des communes
+membres peuvent reverser à cet établissement public tout ou partie de la taxe
+qu'elles perçoivent.

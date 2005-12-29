@@ -1,7 +1,7 @@
 Article L951-12
 ----
-I. - Les employeurs sont tenus de remettre à la recette des impôts compétente
-une déclaration en double exemplaire, indiquant notamment le montant de la
+I. - Les employeurs sont tenus de remettre au service des impôts compétent une
+déclaration en double exemplaire, indiquant notamment le montant de la
 participation à laquelle ils étaient tenus et les dépenses effectivement
 consenties, en vertu de l'article L. 951-1.
 
@@ -20,5 +20,6 @@ déposées dans les soixante jours de la cession ou de la cessation. En cas de
 décès de l'employeur, ces déclarations sont déposées dans les six mois qui
 suivent la date du décès.
 
-En cas de redressement ou de liquidation judiciaires, elles sont produites dans
-les soixante jours de la date du jugement.
+En cas de procédure de sauvegarde ou de redressement ou de liquidation
+judiciaires, elles sont produites dans les soixante jours de la date du
+jugement.

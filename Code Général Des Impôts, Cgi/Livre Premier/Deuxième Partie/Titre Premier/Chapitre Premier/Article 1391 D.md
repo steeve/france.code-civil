@@ -14,7 +14,7 @@ de laquelle l'imposition est due.
 Lorsque l'imputation des dépenses ne peut être effectuée dans sa totalité sur
 les cotisations des immeubles en cause, le solde des dépenses déductibles est
 imputé sur les cotisations afférentes à des immeubles imposés dans la même
-commune ou dans d'autres communes relevant du même centre des impôts au nom du
+commune ou dans d'autres communes relevant du même service des impôts au nom du
 même bailleur et au titre de la même année.
 
 Le dégrèvement est accordé sur réclamation présentée dans le délai indiqué par

@@ -10,7 +10,7 @@ services directement liées à l'exportation ;
 établi en France, ou pour son compte, hors de la Communauté européenne, à
 l'exclusion des biens d'équipement et d'avitaillement des bateaux de plaisance,
 des avions de tourisme ou de tous autres moyens de transport à usage privé,
-ainsi que les prestations de services directement liées à l'exportation (0).
+ainsi que les prestations de services directement liées à l'exportation.
 
 Lorsque la livraison porte sur des biens à emporter dans les bagages personnels
 de voyageurs, l'exonération s'applique si les conditions suivantes sont réunies
@@ -19,10 +19,9 @@ de voyageurs, l'exonération s'applique si les conditions suivantes sont réunie
 a. le voyageur n'a pas son domicile ou sa résidence habituelle en France ou dans
 un autre Etat membre de la Communauté européenne ;
 
-b. la livraison ne porte pas sur les produits alimentaires solides et liquides,
-les tabacs manufacturés, les pierres précieuses non montées, les marchandises
-qui correspondent par leur nature ou leur qualité à un approvisionnement
-commercial ainsi que celles qui sont frappées d'une prohibition de sortie ;
+b. la livraison ne porte pas sur les tabacs manufacturés, les marchandises qui
+correspondent par leur nature ou leur qualité à un approvisionnement commercial
+ainsi que celles qui sont frappées d'une prohibition de sortie ;
 
 c. les biens sont transportés en dehors de la Communauté européenne avant la fin
 du troisième mois suivant celui au cours duquel la livraison est effectuée ;
@@ -35,8 +34,8 @@ II. Sont également exonérés de la taxe sur la valeur ajoutée :
 1° Les prestations de services consistant en travaux portant sur des biens
 meubles acquis ou importés en vue de faire l'objet de ces travaux et expédiés ou
 transportés en dehors du territoire des Etats membres de la Communauté
-économique européenne par le prestataire de services ou par le preneur établi
-hors de France ou pour leur compte ;
+européenne par le prestataire de services ou par le preneur établi hors de
+France ou pour leur compte ;
 
 2° Les opérations de livraison, de réparation, de transformation, d'entretien,
 d'affrètement et de location portant sur :
@@ -47,12 +46,12 @@ d'affrètement et de location portant sur :
 ;
 
 - les bateaux affectés à la pêche professionnelle maritime, les bateaux de
-sauvetage et d'assistance en mer (2) ;
+sauvetage et d'assistance en mer ;
 
 3° Les opérations de livraison, de location, de réparation et d'entretien
 portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés
 pour leur exploitation en mer ou sur les fleuves internationaux, ainsi que sur
-les engins et filets pour la pêche maritime (2) ;
+les engins et filets pour la pêche maritime ;
 
 4° Les opérations de livraison, de transformation, de réparation, d'entretien,
 d'affrètement et de location portant sur les aéronefs utilisés par des
@@ -70,7 +69,7 @@ aéronefs désignés aux 2° et 4°, ainsi que des bateaux de guerre, tels qu'il
 sont définis à la sous-position 89-01 du tarif douanier commun ;
 
 7° Les prestations de services effectuées pour les besoins directs des bateaux
-ou des aéronefs désignés aux 2° et 4° et de leur cargaison (3) ;
+ou des aéronefs désignés aux 2° et 4° et de leur cargaison ;
 
 8° Les transports aériens ou maritimes de voyageurs en provenance ou à
 destination de l'étranger ou des territoires et départements d'outre-mer ;
@@ -78,10 +77,10 @@ destination de l'étranger ou des territoires et départements d'outre-mer ;
 9° Les transports ferroviaires de voyageurs en provenance et à destination de
 l'étranger, ainsi que les transports de voyageurs effectués par les trains
 internationaux et sur les relations dont la liste est fixée par arrêtés
-conjoints du ministre du budget et du ministre des transports (4) ;
+conjoints du ministre du budget et du ministre des transports ;
 
 10° Les transports par route de voyageurs étrangers en provenance et à
-destination de l'étranger, circulant en groupe d'au moins dix personnes (5) ;
+destination de l'étranger, circulant en groupe d'au moins dix personnes ;
 
 11° Les transports entre la France continentale et les départements de la Corse
 pour la partie du trajet située en dehors du territoire continental ;
@@ -96,15 +95,3 @@ provenance des Açores ou de Madère ;
 14° Les prestations de services se rapportant à l'importation de biens en France
 ou dans un autre Etat membre de la Communauté européenne et dont la valeur est
 comprise dans la base d'imposition de l'importation.
-
-(0) Cf. Instruction 1997-01-22 3A-1-97.
-
-(1) Annexe III, art. 73 A, 73 G, 73 H et 74.
-
-(2) Annexe IV, art. 42 à 46.
-
-(3) Annexe III, art. 73 B à 73 E.
-
-(4) Annexe IV, art. 24 A.
-
-(5) Annexe III, art. 73 F.

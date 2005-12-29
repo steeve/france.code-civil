@@ -1,7 +1,7 @@
 Article 150 VD
 ----
 I. - La moins-value brute réalisée sur les biens ou droits désignés aux articles
-150 U à 150 UB n'est pas prise en compte.
+150 U à 150 UC n'est pas prise en compte.
 
 II. - En cas de vente d'un immeuble acquis par fractions successives constatée
 par le même acte soumis à publication ou à enregistrement et entre les mêmes

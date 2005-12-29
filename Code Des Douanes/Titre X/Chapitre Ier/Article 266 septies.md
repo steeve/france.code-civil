@@ -3,8 +3,13 @@ Article 266 septies
 Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué
 par :
 
-1. La réception de déchets par les exploitants mentionnés au 1 du I de l'article
-266 sexies ;
+1. La réception des déchets par les exploitants mentionnés au 1 du I de
+l'article 266 sexies ;
+
+1 bis. Le transfert des déchets industriels spéciaux à la date figurant sur le
+document de suivi adressé aux autorités compétentes du pays d'expédition en
+application du règlement (CEE) n° 259/93 du Conseil du 1er février 1993, précité
+;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de
 l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes
@@ -12,7 +17,7 @@ d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique,
 d'hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 ;
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le
 marché intérieur en cas d'acquisition intracommunautaire ou la mise à la

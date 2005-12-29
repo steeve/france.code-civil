@@ -9,7 +9,7 @@ Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés non autorisée au titre du titre Ier du livre V du code de
-l'environnement pour ladite réception, 18,29.
+l'environnement pour ladite réception, 36.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et
 assimilés autorisée au titre du titre Ier du livre V du code de l'environnement
@@ -24,10 +24,12 @@ internationale ISO 14001 par un organisme accrédité, 7,5.
 - autre, 9,15.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de
-déchets industriels spéciaux, 9,15.
+déchets industriels spéciaux, ou transférés vers une telle installation située
+dans un autre Etat, 9,15.
 
 Déchets réceptionnés dans une installation de stockage de déchets industriels
-spéciaux, 18,29.
+spéciaux, ou transférés vers une telle installation située dans un autre Etat,
+18,29.
 
 Substances émises dans l'atmosphère.
 

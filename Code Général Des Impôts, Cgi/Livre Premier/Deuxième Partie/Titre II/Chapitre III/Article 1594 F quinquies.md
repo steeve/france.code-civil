@@ -3,9 +3,9 @@ Article 1594 F quinquies
 Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au
 taux de 0,60 % :
 
-A. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée en
-vertu du 7° de l'article 257, les mutations à titre onéreux d'immeubles autres
-que ceux mentionnés au I du A de l'article 1594-0 G ;
+A. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur
+ajoutée en vertu du 7° de l'article 257, les mutations à titre onéreux
+d'immeubles autres que ceux mentionnés au I du A de l'article 1594-0 G ;
 
 B. Sans préjudice de l'application des dispositions du 7° de l'article 257, les
 mutations de propriété faites entre les propriétaires participant aux opérations

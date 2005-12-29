@@ -4,7 +4,7 @@ Les profits mentionnés à l'article 35 donnent lieu à la perception d'un
 prélèvement de 50 % lorsqu'ils sont réalisés par des contribuables ou par des
 sociétés, quelle qu'en soit la forme, qui n'ont pas d'établissement en France.
 
-Ce prélèvement est opéré à la recette des impôts dans les conditions et délais
+Ce prélèvement est opéré au service des impôts dans les conditions et délais
 prévus à l'article 244 quater A.
 
 Il est à la charge exclusive du cédant ; il est établi et recouvré suivant les
