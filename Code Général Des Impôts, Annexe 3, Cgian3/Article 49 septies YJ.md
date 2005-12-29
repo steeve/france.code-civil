@@ -6,11 +6,11 @@ d'apprentis comme suit :
 
 Le nombre moyen annuel d'apprentis est calculé au titre d'une année civile en
 prenant en compte les apprentis dont le contrat a atteint une durée d'au moins
-six mois. Cette condition s'apprécie au 31 mars de l'année civile suivant celle
-au titre de laquelle le crédit d'impôt est calculé. Pour le calcul du nombre
-moyen annuel d'apprentis, le temps de présence d'un apprenti dans l'entreprise
-au cours d'une année est calculé en mois. Tout mois commencé est comptabilisé
-comme un mois entier.
+un mois. Cette condition s'apprécie au 31 décembre de l'année civile au titre de
+laquelle le crédit d'impôt est calculé. Pour le calcul du nombre moyen annuel
+d'apprentis, le temps de présence d'un apprenti dans l'entreprise au cours d'une
+année est calculé en mois. Tout mois commencé est comptabilisé comme un mois
+entier.
 
 Un nombre moyen annuel d'apprentis doit être calculé pour chaque catégorie
 d'apprentis ouvrant droit à un montant de crédit d'impôt différent tel que
@@ -27,5 +27,5 @@ premier alinéa de l'article L. 322-4-17-2 du code du travail.
 
 Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu
 en divisant par douze le nombre total de mois de présence dans l'entreprise,
-pour cette même année, des apprentis employés depuis plus de six mois au sens du
-deuxième alinéa de l'article 49 septies YJ.
+pour cette même année, des apprentis employés depuis plus d'un mois au sens du
+deuxième alinéa.
