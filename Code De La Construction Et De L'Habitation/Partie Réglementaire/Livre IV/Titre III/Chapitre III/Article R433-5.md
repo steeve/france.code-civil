@@ -1,15 +1,11 @@
 Article R433-5
 ----
-Sont soumis aux dispositions de la présente section les contrats définis aux
-articles L. 433-1 et L. 481-4 dont le montant est supérieur au seuil visé au 10°
-du I de l'article 104 du code des marchés publics, passés pour leur propre
-compte par les organismes privés d'habitations à loyer modéré et par les
-sociétés d'économie mixte de construction et de gestion de logements sociaux :
-
-Aucun projet de contrat ne peut être scindé en vue de le soustraire aux
-obligations découlant de la présente section.
-
-Les contrats définis aux trois premiers alinéas du présent article sont soumis,
-sous réserve des dispositions prévus à la section IV du présent chapitre pour
-les contrats que cette section concerne, aux règles de publicité, de mise en
-concurrence et d'exécution prévues aux articles R. 433-6 à R. 433-19.
+Les marchés définis aux articles L. 433-1 et L. 481-4 passés par les organismes
+privés d'habitations à loyer modéré et par les sociétés d'économie mixte
+exerçant une activité de construction ou de gestion de logements sociaux sont
+soumis aux dispositions du décret n° 2005-1742 du 30 décembre 2005 fixant les
+règles applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés
+à l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés
+passés par certaines personnes publiques ou privées non soumises au code des
+marchés publics, sous réserve des dispositions prévues aux articles R. 433-6, R.
+433-10, R. 433-18 et R. 433-20 à R. 433-23.

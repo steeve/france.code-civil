@@ -1,18 +1,18 @@
 Article R433-6
 ----
-Les contrats entrant dans le champ d'application défini à l'article R. 433-5
-sont des contrats écrits. Les prestations qui font l'objet des contrats doivent
-répondre exclusivement à la nature et à l'étendue des besoins à satisfaire. Les
-spécifications et la consistance technique de ces prestations doivent être
-déterminées aussi exactement que possible avant tout appel à la concurrence ou
-négociation.
+Les organismes privés d'habitation à loyer modéré et les sociétés d'économie
+mixte exerçant une activité de construction ou de gestion de logements sociaux
+constituent une commission d'appel d'offres dont ils déterminent la composition,
+les modalités de fonctionnement et les pouvoirs. La commission examine les
+candidatures et les offres reçues lors de la passation des marchés dont le
+montant est supérieur aux seuils mentionnés à l'article 7 du décret n° 2005-1742
+du 30 décembre 2005 fixant les règles applicables aux marchés passés par les
+pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6
+juin 2005 relative aux marchés passés par certaines personnes publiques ou
+privées non soumises au code des marchés publics.
 
-Les prestations sont définies par référence aux normes homologuées ou à d'autres
-normes applicables en France en vertu d'accords internationaux, dans les
-conditions prévues au décret n° 84-74 du 26 janvier 1984 modifié fixant le
-statut de la normalisation. Il peut être dérogé aux normes dans les conditions
-prévues à ce décret.
-
-Les contrats doivent être conclus avant tout début d'exécution. Ils comportent
-au moins un acte d'engagement et un cahier des charges, qui en forment les
-pièces constitutives.
+Ces mêmes marchés font en outre l'objet d'un rapport annuel sur leur exécution
+transmis au conseil d'administration ou de surveillance de l'organisme ou de la
+société d'économie mixte. Ce rapport comporte pour chaque marché le montant
+initial du contrat, le montant total des sommes effectivement versées et, le cas
+échéant, les raisons de l'écart constaté.
