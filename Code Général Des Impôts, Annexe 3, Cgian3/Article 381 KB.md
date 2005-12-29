@@ -17,15 +17,15 @@ Le nombre de ces obligations qui font effectivement l'objet d'une gestion
 collective.
 
 Lorsque le premier terme est supérieur au second, l'établissement émetteur verse
-la retenue à la source afférente aux obligations excédentaires à la recette des
+la retenue à la source afférente aux obligations excédentaires au service des
 impôts dont il dépend dans les quinze jours qui suivent le mois civil au cours
-duquel les intérêts ont été payés (1).
+duquel les intérêts ont été payés.
 
 Dans le cas contraire, la retenue à la source afférente au surplus d'obligations
 gérées collectivement est restituée à l'établissement émetteur ;
 
 3° Au cours des douze mois suivant chaque échéance, l'établissement émetteur
-verse à la recette des impôts dont il dépend les acomptes de la retenue à la
+verse au service des impôts dont il dépend les acomptes de la retenue à la
 source afférente aux obligations qui, à cette échéance, ne faisaient pas l'objet
 d'une gestion collective ;
 

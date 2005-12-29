@@ -29,9 +29,9 @@ du domicile réel ou du principal établissement de la personne physique ou mora
 déclarante.
 
 Lorsque le débiteur ou le créancier est tenu de souscrire la déclaration en
-application des dispositions du premier alinéa, celle-ci est adressée au centre
+application des dispositions du premier alinéa, celle-ci est adressée au service
 des impôts dont il dépend en même temps que la déclaration de ses revenus ou que
 la déclaration de ses résultats.
 
 La déclaration mentionne les contrats de prêts conclus au cours de la précédente
-année. Elle est établie sur une formule délivrée par l'administration (2).
+année. Elle est établie sur une formule délivrée par l'administration.

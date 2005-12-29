@@ -1,12 +1,13 @@
 Article 223
 ----
 Les navires francisés sont soumis au paiement d'un droit annuel, dénommé droit
-de francisation et de navigation, à la charge des propriétaires.
+de francisation et de navigation, à la charge des propriétaires, au 1er janvier
+de l'année considérée.
 
 L'assiette, le taux et les modalités d'application de ce droit sont fixés comme
 suit :
 
-Tonnage brut du navire et quotité du droit :
+Tonnage brut du navire ou longueur de coque, quotité du droit :
 
 I. - Navires de commerce.
 
@@ -20,59 +21,42 @@ III. - Navires de plaisance ou de sport.
 
 a) Droit sur la coque.
 
-Jusqu'à 3 tonneaux inclusivement : exonération.
+De moins de 7 mètres, exonération.
 
-De plus de 3 tonneaux à 5 tonneaux inclusivement : 33,84 euros par navire plus
-23,02 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 7 mètres inclus à 8 mètres exclus, 92 euros.
 
-De plus de 5 tonneaux à 8 tonneaux inclusivement : 33,84 euros par navire plus
-16,16 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 8 mètres inclus à 9 mètres exclus, 131 euros.
 
-De plus de 8 tonneaux à 10 tonneaux inclusivement :
+De 9 mètres inclus à 10 mètres exclus, 223 euros.
 
-- de plus de 10 ans : 33,84 euros par navire plus 16,16 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+De 10 mètres inclus à 12 mètres exclus, 342 euros.
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+De 12 mètres inclus à 15 mètres exclus, 573 euros.
 
-De plus de 10 tonneaux à 20 tonneaux inclusivement :
+De 15 mètres et plus, 1108 euros.
 
-- de plus de 10 ans : 33,84 euros par navire plus 14,94 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+b) Droit sur le moteur des navires de 7 mètres et plus (puissance
+administrative) :
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+Jusqu'à 5 CV inclusivement, exonération.
 
-De plus de 20 tonneaux :
+De 6 à 8 CV, 10 euros par CV au-dessus du cinquième.
 
-- de plus de 10 ans : 33,84 euros par navire plus 14,18 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+De 9 à 10 CV, 12 euros par CV au-dessus du cinquième.
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou
-fraction de tonneau au-dessus de 3 tonneaux.
+De 11 à 20 CV, 25 euros par CV au-dessus du cinquième.
 
-b) Droit sur le moteur (puissance administrative).
+De 21 à 25 CV, 28 euros par CV au-dessus du cinquième.
 
-Jusqu'à 5 CV inclusivement : exonération.
+De 26 à 50 CV, 31 euros par CV au-dessus du cinquième.
 
-de 6 à 8 CV : 8,23 euros par CV au-dessus du cinquième.
+De 51 à 99 CV, 35 euros par CV au-dessus du cinquième.
 
-de 9 à 10 CV : 10,37 euros par CV au-dessus du cinquième.
-
-de 11 à 20 CV : 20,73 euros par CV au-dessus du cinquième.
-
-de 21 à 25 CV : 23,02 euros par CV au-dessus du cinquième.
-
-de 26 à 50 CV : 26,22 euros par CV au-dessus du cinquième.
-
-de 51 à 99 CV : 28,97 euros par CV au-dessus du cinquième.
-
-c) Taxe spéciale.
+c) Taxe spéciale :
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100
-CV, le droit prévu au b) ci-dessus est remplacé par une taxe spéciale de 45,28
-euros par CV.
+CV, le droit prévu au b est remplacé par une taxe spéciale de 45,28 euros par
+CV.
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est
 situé en Corse et qui ont stationné dans un port corse au moins une fois au

@@ -5,7 +5,7 @@ leur siège social, sont tenues de produire une déclaration en vue de la
 liquidation de la retenue à la source exigible en vertu des dispositions de
 l'article 115 quinquies du code général des impôts.
 
-2. Cette déclaration est adressée à la recette des impôts dont dépend le lieu
+2. Cette déclaration est adressée au service des impôts dont dépend le lieu
 d'établissement de l'impôt sur les sociétés, dans le même délai que la
 déclaration des résultats.
 

@@ -14,9 +14,9 @@ Toutefois, dans le cas des navires de plaisance ou de sport battant pavillon
 d'un pays ou territoire qui n'a pas conclu avec la France de convention
 d'assistance administrative en vue de lutter contre l'évasion et la fraude
 fiscales et douanières, le droit de passeport est perçu à un taux triple du
-droit de francisation et de navigation pour les navires de moins de 20 tonneaux
-de jauge brute et à un taux quintuple de ce droit pour les navires d'au moins 20
-tonneaux de jauge brute.
+droit de francisation et de navigation pour les navires d'une longueur de coque
+inférieure à 15 mètres et à un taux quintuple de ce droit pour les navires d'une
+longueur de coque supérieure ou égale à 15 mètres.
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au
 titre des navires de plaisance titulaires d'un passeport délivré par le service

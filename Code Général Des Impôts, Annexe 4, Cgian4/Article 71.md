@@ -1,15 +1,15 @@
 Article 71
 ----
 Est autorisée l'utilisation des machines à timbrer qui, suivant les prévisions
-des articles 301 et 313 AR de l'annexe III au code général des impôts, sont
-destinées respectivement au timbrage :
+de l'article 301 de l'annexe III au code général des impôts, sont destinées
+respectivement au timbrage :
 
 a) Des actes soumis au timbre de dimension ;
 
-b) (Sans objet) ;
+b) (Dispositions devenues sans objet) ;
 
-c) (Sans objet) ;
+c) (Dispositions devenues sans objet) ;
 
-d) Des cartes d'entrée dans les casinos ;
+d) (Dispositions devenues sans objet) ;
 
-e) Des requêtes.
+e) (Dispositions devenues sans objet).

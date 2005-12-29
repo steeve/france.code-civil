@@ -7,7 +7,7 @@ achèvement ou, le cas échéant, lors de la dissolution de la société de
 construction.
 
 Une prolongation de ce délai peut être accordée par le directeur des services
-fiscaux dont dépend la recette des impôts visée à l'article 244, sur demande
+fiscaux dont dépend le service des impôts visé à l'article 244, sur demande
 motivée par la justification de l'impossibilité d'établir la base taxable
 définitive avant l'expiration du délai indiqué ci-dessus. A titre exceptionnel,
 une seconde prolongation de ce délai peut intervenir dans les mêmes formes si le

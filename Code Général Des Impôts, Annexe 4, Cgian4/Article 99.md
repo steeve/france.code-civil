@@ -2,8 +2,8 @@ Article 99
 ----
 Le montant des droits de timbre afférents aux tickets du pari mutuel est retenu
 par les sociétés de course de chevaux ou de lévriers et versé par elles, à
-l'expiration de chaque mois et dans les vingt jours du mois suivant, à la
-recette des impôts désignée à cet effet.
+l'expiration de chaque mois et dans les vingt jours du mois suivant, au service
+des impôts désigné à cet effet.
 
 A l'appui de chaque versement, il est fourni un état en double exemplaire
 indiquant par journée de course pour chaque hippodrome ou cynodrome le montant

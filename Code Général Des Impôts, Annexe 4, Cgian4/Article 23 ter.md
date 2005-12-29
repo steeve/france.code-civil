@@ -7,11 +7,10 @@ pour les sociétés ou personnes morales dont l'activité s'exerce en France dan
 un ou plusieurs établissements, au lieu du principal établissement ;
 
 pour les sociétés ou personnes morales qui exercent une activité en France sans
-y avoir d'établissement, au centre-recette des impôts des entreprises étrangères
-;
+y avoir d'établissement, au service des impôts des entreprises étrangères ;
 
 pour les sociétés et personnes morales qui sans exercer en France d'activité
 autre qu'immobilière y disposent de propriétés immobilières données ou non en
 location, au lieu de situation de ces biens. Si l'application de cette règle
 conduit à une pluralité de lieux d'imposition, l'imposition est établie au
-centre-recette des impôts des entreprises étrangères.
+service des impôts des entreprises étrangères.

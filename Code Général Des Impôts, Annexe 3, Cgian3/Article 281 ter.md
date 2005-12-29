@@ -3,7 +3,7 @@ Article 281 ter
 I. Les héritiers, donataires ou légataires de parts de sociétés civiles
 propriétaires de monuments historiques, qui demandent à bénéficier des
 dispositions des troisième à huitième alinéas de l'article 795 A du code général
-des impôts, doivent remettre à la recette des impôts compétente pour enregistrer
+des impôts, doivent remettre au service des impôts compétent pour enregistrer
 l'acte de donation ou la déclaration de succession, dans les délais prévus pour
 cet enregistrement, les documents suivants :
 
@@ -37,7 +37,7 @@ jusqu'à ce qu'il soit statué sur la demande d'adhésion des bénéficiaires de
 mutation à titre gratuit à la convention.
 
 Les ayants droit disposent d'un mois à compter de la signature de l'avenant pour
-en déposer une copie conforme à la recette des impôts compétente.
+en déposer une copie conforme au service des impôts compétent.
 
 A défaut d'accord ou de dépôt de l'avenant dans le délai imparti, les droits de
 mutation, dont le paiement a été différé, sont exigibles dans les conditions de

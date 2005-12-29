@@ -5,10 +5,10 @@ Pour les conventions avec des assureurs étrangers n'ayant en France ni
 par l'intermédiaire d'un courtier ou de toute autre personne qui, résidant en
 France, prête habituellement ou occasionnellement son entremise pour des
 opérations d'assurances, la taxe est perçue pour le compte du Trésor, par
-l'intermédiaire, pour toute la durée ferme de la convention, et versée par lui à
-la recette des impôts de sa résidence, sauf, s'il y a lieu, son recours contre
+l'intermédiaire, pour toute la durée ferme de la convention, et versée par lui
+au service des impôts de sa résidence, sauf, s'il y a lieu, son recours contre
 l'assureur ; le versement est effectué dans les quinze premiers jours du mois
-(1) qui suit celui au cours duquel la convention est conclue, sur production du
+qui suit celui au cours duquel la convention est conclue, sur production du
 relevé du répertoire prévu à l'article 1002 du code général des impôts.
 
 Toutefois, pour les conventions qui, ayant, une durée ferme excédant une année,
@@ -20,7 +20,3 @@ des impôts et sur le relevé dudit répertoire. L'intermédiaire n'est alors te
 au paiement que de la taxe afférente aux sommes stipulées en faveur de
 l'assureur et de leurs accessoires qui viennent à échéance au cours de la
 première année.
-
-(1) Ces dispositions s'appliquent respectivement aux primes qui font l'objet
-d'une émission de quittance, aux conventions conclues et aux sommes dont
-l'échéance intervient à compter du 1er novembre 1991.

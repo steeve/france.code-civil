@@ -5,11 +5,11 @@ impôts est déposée :
 
 1. Pour les personnes morales qui ont leur siège en France et pour les autres
 personnes morales qui exercent leurs activités en France dans un ou plusieurs
-établissements, à la recette des impôts du lieu du principal établissement ;
+établissements, au service des impôts du lieu du principal établissement ;
 
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement
 ou par personne interposée, possèdent un ou plusieurs immeubles situés en France
-ou sont titulaires de droits réels portant sur ces biens, à la recette des
-impôts du lieu de situation de ces biens. Si l'application de cette règle
-conduit à une pluralité de lieux de dépôt, la déclaration est déposée au
-centre-recette des impôts des entreprises étrangères.
+ou sont titulaires de droits réels portant sur ces biens, au service des impôts
+du lieu de situation de ces biens. Si l'application de cette règle conduit à une
+pluralité de lieux de dépôt, la déclaration est déposée au service des impôts
+des entreprises étrangères.

@@ -9,7 +9,7 @@ le modèle est fixé par l'administration.
 Le demandeur établit que le moyen de transport est affecté aux besoins d'un
 résident d'un autre Etat membre.
 
-La demande est déposée auprès du centre des impôts dans le ressort duquel est
+La demande est déposée auprès du service des impôts dans le ressort duquel est
 situé le siège de l'activité ou, à défaut, le domicile.
 
 Le remboursement est subordonné à la production, à l'appui de la demande :

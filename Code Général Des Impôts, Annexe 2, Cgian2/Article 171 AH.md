@@ -1,6 +1,6 @@
 Article 171 AH
 ----
-Le gérant de la copropriété de navire adresse au centre des impôts dont dépend
+Le gérant de la copropriété de navire adresse au service des impôts dont dépend
 celle-ci pour le dépôt de ses déclarations de résultat, les documents énumérés
 ci-après :
 

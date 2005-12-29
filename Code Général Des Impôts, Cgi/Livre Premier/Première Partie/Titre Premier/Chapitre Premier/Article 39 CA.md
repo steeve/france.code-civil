@@ -27,21 +27,12 @@ b) Si l'utilisateur démontre que le bien est nécessaire à son exploitation et
 que les modalités de financement retenues sont déterminées par des
 préoccupations autres que fiscales ou comptables ;
 
-c) Si les deux tiers au moins de l'avantage correspondant au solde des valeurs
-actualisées positives ou négatives afférentes respectivement aux réductions ou
-cotisations supplémentaires d'impôt, au regard de celles qui résulteraient de
-l'application des dispositions du deuxième alinéa de l'article 39 C,
-consécutives à la prise en compte par les associés, copropriétaires ou membres
-des parts de résultat soumises aux dispositions du présent article, sont
-rétrocédés à l'utilisateur sous forme de diminution du loyer ou de minoration du
-montant de l'option d'achat. Le montant de l'avantage qui doit être rétrocédé
-est déterminé lors de la délivrance de l'agrément.
+c) (abrogé) ;
 
 Le prix d'acquisition pris en compte pour le calcul de l'amortissement est égal
 au prix de cession compris dans l'assiette de l'impôt sur les sociétés ou de
 l'impôt sur le revenu du constructeur, majoré des frais accessoires nécessaires
-à la mise en état d'utilisation du bien. Le coefficient utilisé pour le calcul
-de l'amortissement dégressif est majoré d'un point.
+à la mise en état d'utilisation du bien.
 
 Les déficits des exercices des sociétés, copropriétés ou groupements mentionnés
 au deuxième alinéa de l'article 39 C, dont les résultats sont affectés par les
@@ -53,6 +44,15 @@ auquel il appartient, retire du reste de ses activités.
 
 Les biens doivent être conservés jusqu'à l'expiration du contrat de location ou
 de mise à disposition.
+
+Le montant de l'avantage résultant de l'application des présentes dispositions
+est précisé lors de la délivrance de l'agrément. Ce montant est calculé à partir
+du solde des valeurs actualisées positives ou négatives afférentes
+respectivement aux réductions ou cotisations supplémentaires d'impôt, au regard
+de celles qui résulteraient de l'application des dispositions du deuxième alinéa
+de l'article 39 C, consécutives à la prise en compte par les associés,
+copropriétaires ou membres des parts de résultat soumises aux dispositions du
+présent article.
 
 Les associés, copropriétaires ou membres s'engagent, dans le cadre de
 l'agrément, à conserver jusqu'à l'expiration du contrat de location ou de mise à
@@ -83,11 +83,10 @@ mise à disposition du bien.
 
 En cas de cession ultérieure du bien par l'utilisateur avant l'expiration de sa
 durée normale d'utilisation appréciée à la date de sa mise en service effective,
-la plus-value exonérée en application des treizième à dix-septième alinéas est
+la plus-value exonérée en application des quatorzième à dix-huitième alinéas est
 imposée au titre de l'exercice au cours duquel elle a été réalisée, au nom de
-l'utilisateur bénéficiaire de l'avantage rétrocédé et déterminé lors de la
-délivrance de l'agrément. Le montant d'impôt correspondant est assorti de
-l'intérêt de retard visé à l'article 1727.
+l'utilisateur bénéficiaire de la décision d'agrément. Le montant d'impôt
+correspondant est assorti de l'intérêt de retard visé à l'article 1727.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent
-article.
+article et, notamment, les critères de délivrance de l'agrément.

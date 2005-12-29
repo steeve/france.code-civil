@@ -5,7 +5,7 @@ undecies du code général des impôts est établie et perçue selon les modalit
 ci-après.
 
 Pour l'appréciation de la limite d'exonération de 76 300 euros, les éditeurs
-déclarent chaque année à la recette des impôts dont ils relèvent le montant du
+déclarent chaque année au service des impôts dont ils relèvent le montant du
 chiffre d'affaires qu'ils ont réalisé l'année précédente dans leur branche
 d'activité "édition". Cette déclaration est souscrite au plus tard à la date
 prévue au quatrième et cinquième alinéas pour le paiement de la première

@@ -10,9 +10,10 @@ b) Les sociétés commerciales ;
 
 c) (Dispositions devenues sans objet).
 
-2. Les chambres de métiers créent et gèrent les centres compétents pour les
-personnes physiques et les sociétés assujetties à l'immatriculation au
-répertoire des métiers, à l'exclusion de celles visées au 3.
+2. Les chambres de métiers et de l'artisanat créent et gèrent les centres
+compétents pour les personnes physiques et les sociétés assujetties à
+l'immatriculation au répertoire des métiers, à l'exclusion de celles visées au
+3.
 
 3. La chambre nationale de la batellerie artisanale crée et gère le centre
 compétent pour les personnes physiques et les sociétés assujetties à
@@ -51,7 +52,7 @@ mentionnés au 6.
 personnes physiques et morales exerçant à titre principal des activités
 agricoles.
 
-7. Les centres des impôts créent et gèrent les centres compétents pour les
+7. Les services des impôts créent et gèrent les centres compétents pour les
 personnes suivantes dès lors qu'elles exercent leur activité à titre de
 profession habituelle, qu'elles ne relèvent pas des dispositions des 1 à 6 et
 qu'elles n'ont pas d'autres obligations déclaratives que statistiques et

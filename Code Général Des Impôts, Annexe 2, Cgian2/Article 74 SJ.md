@@ -8,8 +8,7 @@ dans la déclaration :
 
 1° De l'adresse du service des impôts dont le cédant dépend pour la déclaration
 de ses revenus ou bénéfices ou, pour les cessions mentionnées aux 1° et 3° du II
-de l'article 150 VG, de l'adresse de la recette des impôts du domicile du cédant
-;
+de l'article 150 VG, de l'adresse du service des impôts du domicile du cédant ;
 
 2° Du prix de cession de chacun des biens ;
 

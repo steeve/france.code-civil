@@ -5,9 +5,9 @@ l'article 119 quater et au 2 de l'article 182 B bis du code général des impôt
 doit faire l'objet d'une déclaration qui est adressée à la fois à
 l'établissement payeur en France des dividendes ou au débiteur ou à la personne
 qui assure le paiement des intérêts ou des redevances et à la direction des
-résidents à l'étranger et des services généraux (centre des impôts des
-non-résidents). Cette déclaration doit être souscrite par la personne morale
-bénéficiaire des dividendes, intérêts et redevances avant la date de leur
+résidents à l'étranger et des services généraux (service des impôts des
+entreprises étrangères). Cette déclaration doit être souscrite par la personne
+morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur
 première mise en paiement suivant la date d'inscription en compte des titres de
 la société émettrice.
 

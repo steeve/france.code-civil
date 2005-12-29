@@ -11,7 +11,7 @@ II. - La personne qui sollicite le versement par anticipation du crédit d'impô
 en fait la demande expresse, sous peine de forclusion, dans les deux mois
 suivant la fin de la période des six premiers mois d'activité professionnelle.
 
-La demande est adressée ou déposée auprès du centre des impôts du lieu du
+La demande est adressée ou déposée auprès du service des impôts du lieu du
 domicile du demandeur au 1er janvier de l'année de la demande. La personne
 produit à cet effet le formulaire de demande de versement anticipé établi par
 l'administration, dûment complété et signé, accompagné des documents suivants :

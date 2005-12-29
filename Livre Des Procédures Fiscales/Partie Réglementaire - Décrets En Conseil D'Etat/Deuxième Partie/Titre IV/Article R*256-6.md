@@ -17,8 +17,8 @@ des postes et télécommunications ;
 
 b) D'autre part, du motif de sa non-délivrance.
 
-Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé à la
-recette des impôts ou à la recette des douanes et droits indirects chargée du
+Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé au
+service des impôts ou à la recette des douanes et droits indirects chargé du
 recouvrement où il peut en être délivré copie, à tout moment et sans frais, au
 redevable lui-même ou à son fondé de pouvoir.
 

@@ -4,8 +4,8 @@ I. - L'héritier, le donataire, le légataire ou le copartageant, qui désire
 acquitter tout ou partie des droits de mutation ou de partage dont il est
 redevable par la remise d'immeubles en nature de bois et forêts ou espaces
 naturels pouvant être incorporés au domaine forestier de l'Etat mentionnés à
-l'article 1716 bis du code général des impôts, doit déposer à la recette des
-impôts ou à la conservation des hypothèques compétente pour enregistrer l'acte
+l'article 1716 bis du code général des impôts, doit déposer au service des
+impôts ou à la conservation des hypothèques compétent pour enregistrer l'acte
 constatant la mutation, le partage ou la déclaration de succession une offre de
 dation à l'Etat indiquant la nature, la situation et la valeur de chacun des
 biens qu'il envisage de remettre à l'Etat. Il en est délivré récépissé.
@@ -14,10 +14,10 @@ L'offre de dation en paiement doit être faite dans le délai prévu pour
 l'enregistrement de la déclaration de la succession ou de l'acte constatant la
 mutation ou le partage.
 
-II. - L'offre est adressée par le service des impôts à une commission dont la
-composition est fixée par arrêté conjoint du Premier ministre, du ministre
-chargé du budget, du ministre chargé des forêts et du ministre chargé de la
-protection de la nature.
+II. - L'offre est adressée par le service des impôts ou la conservation des
+hypothèques à une commission dont la composition est fixée par arrêté conjoint
+du Premier ministre, du ministre chargé du budget, du ministre chargé des forêts
+et du ministre chargé de la protection de la nature.
 
 Avant de se prononcer, cette commission consulte l'Office national des forêts.
 

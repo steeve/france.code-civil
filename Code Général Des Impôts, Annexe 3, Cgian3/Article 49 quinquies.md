@@ -12,7 +12,7 @@ laquelle le remboursement a été opéré.
 III. Les requérants doivent y mentionner, outre la dénomination et le siège de
 la société, le montant et la date du remboursement :
 
-a. Pour la taxe proportionnelle ou la retenue à la source : la recette des
+a. Pour la taxe proportionnelle ou la retenue à la source : le service des
 impôts où cette imposition a été acquittée, la date à laquelle la déclaration
 ayant servi de base à ladite imposition a été déposée ainsi que le montant de
 l'avance, du prêt ou de l'acompte inclus dans la base d'imposition de la société

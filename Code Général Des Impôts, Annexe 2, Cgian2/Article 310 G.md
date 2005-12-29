@@ -2,7 +2,7 @@ Article 310 G
 ----
 I. L'acquéreur, le donataire, l'héritier ou le légataire, qui désire bénéficier
 de l'exonération de droits et taxes prévue à l'article 1131 du code général des
-impôts, doit déposer à la recette des impôts compétente pour enregistrer l'acte
+impôts, doit déposer au service des impôts compétent pour enregistrer l'acte
 constatant la mutation ou la déclaration de la succession une offre de donation
 à l'Etat, précisant le ou les biens qui en font l'objet, et, le cas échéant, les
 conditions auxquelles cette offre est soumise. Il en est délivré récépissé.

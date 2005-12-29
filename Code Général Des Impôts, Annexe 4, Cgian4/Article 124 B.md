@@ -14,7 +14,7 @@ droits indirects. Le troisième exemplaire est adressé par l'exploitant, dans l
 vingt-quatre heures qui suivent l'installation de l'appareil, au bureau ou à la
 recette locale des douanes et droits indirects qui reçoit la déclaration visée à
 l'article 124 A. Ce bureau, ou cette recette, transmet le troisième exemplaire
-au centre des impôts du lieu de souscription des déclarations de bénéfices de
+au service des impôts du lieu de souscription des déclarations de bénéfices de
 l'exploitant.
 
 Chaque déclaration comporte les indications ci-dessous :
@@ -32,5 +32,5 @@ dépositaire ;
 
 f. La nature, la marque, le type et le numéro de l'appareil ;
 
-g. L'adresse du centre des impôts du lieu de souscription des déclarations de
+g. L'adresse du service des impôts du lieu de souscription des déclarations de
 bénéfices de l'exploitant.
