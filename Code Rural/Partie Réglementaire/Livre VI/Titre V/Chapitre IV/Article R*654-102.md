@@ -7,8 +7,8 @@ réunion d'exploitations laitières, le transfert de la quantité de référence
 laitière est régi par les dispositions des articles R. 654-103 et R. 654-104.
 
 Dans tous ces cas, si le producteur cédant a bénéficié de quantités de référence
-supplémentaires, accordées sur le fondement des articles R. 654-61 à R. 654-63
-et R. 654-72 à R. 654-74 au titre de la campagne au cours de laquelle le
+supplémentaires, accordées sur le fondement des articles D. 654-61 à D. 654-63
+et D. 654-72 à D. 654-74 au titre de la campagne au cours de laquelle le
 transfert prend effet et des cinq campagnes qui l'ont précédée, ces quantités de
 référence sont reversées à la réserve. Lorsque la cession porte sur une ou
 plusieurs parties d'une exploitation, ce retour à la réserve est effectué au
