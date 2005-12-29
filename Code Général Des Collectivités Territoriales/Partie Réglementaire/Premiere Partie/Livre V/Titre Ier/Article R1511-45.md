@@ -1,14 +1,19 @@
 Article R1511-45
 ----
-Les opérateurs bénéficiant de la mise à disposition d'infrastructures créées par
-les collectivités territoriales ou les établissements publics de coopération
-locale et destinées à supporter des réseaux de téléphonie mobile communiquent,
-avant le 30 juin de chaque année, à l'Autorité de régulation des communications
-électroniques et des postes les montants, calculés au niveau national selon des
-modalités définies par cette Autorité, des revenus et des coûts, hors loyers,
-liés à l'exploitation de ces infrastructures au cours de l'année civile
-antérieure.
+Les conventions mentionnées au premier alinéa du I de l'article L. 1511-8 sont
+conclues entre le professionnel de santé ou l'organisme gestionnaire du centre
+de santé bénéficiaire des aides, le ou les groupements ou collectivités qui
+attribuent les aides et l'union régionale des caisses d'assurance maladie.
 
-Pour chaque opérateur, les loyers calculés au niveau national correspondent à la
-différence entre les revenus et les coûts mentionnés à l'alinéa précédent, sauf
-si celle-ci est négative.
+Elles précisent notamment :
+
+1° Les engagements pris par le bénéficiaire en contrepartie des aides accordées,
+qui incluent obligatoirement l'engagement d'exercice effectif dans une zone
+définie en application de l'article L. 162-47 du code de la sécurité sociale
+pour une période minimale de trois ans ;
+
+2° Les conditions dans lesquelles les aides prennent fin, notamment lorsque le
+lieu d'installation du bénéficiaire cesse d'être inclus dans une zone définie en
+application de l'article L. 162-47 du code de la sécurité sociale, ainsi que les
+conditions dans lesquelles l'intéressé s'oblige, en cas de non-respect de ses
+engagements, à restituer, en tout ou en partie, les aides perçues.
