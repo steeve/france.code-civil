@@ -6,6 +6,6 @@ réservation du logement pendant un délai minimum de quinze jours. Dans le cas 
 le logement est disponible à plus brève échéance, ce délai peut être ramené à
 huit jours francs.
 
-Le bailleur est tenu [*obligation*] de proproser un bail conforme à la
-convention auquel sont annexés une copie de ladite convention ainsi que des
-éléments du barème de l'aide personnalisée au logement.
+Le bailleur est tenu de proproser un bail conforme à la convention auquel sont
+annexés une copie de ladite convention ainsi que des éléments du barème de
+l'aide personnalisée au logement.

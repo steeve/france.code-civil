@@ -15,10 +15,10 @@ Au cours de chaque période triennale, le locataire peut résilier le bail à to
 moment, sous réserve d'un préavis de trois mois ramené à un mois en cas de
 changement de résidence pour raisons professionnelles ou familiales graves.
 
-Le congé est donné par lettre recommandée [*condition de forme*] , le préavis
-partant de la date d'envoi et le cachet de la poste faisant foi. Lorsque le
-délai de préavis vient à expiration dans le courant d'un mois, le bail produit
-effet jusqu'au dernier jour du mois.
+Le congé est donné par lettre recommandée , le préavis partant de la date
+d'envoi et le cachet de la poste faisant foi. Lorsque le délai de préavis vient
+à expiration dans le courant d'un mois, le bail produit effet jusqu'au dernier
+jour du mois.
 
 Sous réserve des dispositions de l'article R. 353-147 ci-dessous, en cas de
 vacance intervenant au cours d'une période triennale, le nouveau locataire est

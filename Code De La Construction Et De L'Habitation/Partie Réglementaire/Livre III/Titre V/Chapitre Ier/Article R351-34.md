@@ -1,7 +1,7 @@
 Article R351-34
 ----
-Le conseil de gestion du Fonds national de l'habitation est constitué comme suit
-:
+Le conseil de gestion du Fonds national d'aide au logement est constitué comme
+suit :
 
 - trois représentants du ministre chargé du logement ;
 

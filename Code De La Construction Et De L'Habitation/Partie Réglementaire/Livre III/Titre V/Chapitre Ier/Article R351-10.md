@@ -6,7 +6,7 @@ son admission au bénéfice d'une pension de retraite ou d'invalidité ou d'une
 rente d'accident de travail ou de l'allocation aux adultes handicapés ou de
 l'allocation compensatrice, les ressources déterminées dans les conditions
 prévues à l'article R. 351-5 et perçues par l'intéressé au cours de l'année
-civile de référence sont affectées d'un abattement égal à 30 p. 100 des revenus
+civile de référence sont affectées d'un abattement égal à 30 % des revenus
 d'activité professionnelle et des indemnités de chômage.
 
 Cette mesure s'applique à partir du premier jour du mois civil suivant celui au

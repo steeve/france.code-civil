@@ -1,8 +1,7 @@
 Article R353-36
 ----
-Les conventions, qui ont une durée d'au moins neuf ans, prennent effet [*entrée
-en vigueur*] à leur date de publication au fichier immobilier ou d'inscription
-au livre foncier.
+Les conventions, qui ont une durée d'au moins neuf ans, prennent effet à leur
+date de publication au fichier immobilier ou d'inscription au livre foncier.
 
 Les conventions sont renouvelées par tacite reconduction pour des périodes
 triennales sous réserve de dénonciation expresse par l'une ou l'autre partie.

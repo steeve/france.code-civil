@@ -10,15 +10,14 @@ versée.
 Le conseil de gestion peut faire toutes propositions relatives à l'application
 et à l'adaptation de la réglementation.
 
-Ces directives ainsi que la décision [*concernant le protocole sur la gestion
-financière passé avec la caisse des dépôts et consignations*] prévue au dernier
-alinéa de l'article R. 351-33 doivent faire l'objet d'une approbation de la part
-des ministres chargés des finances, de la construction et de l'habitation, de
-l'agriculture et de la sécurité sociale.
+Ces directives ainsi que la décision prévue au dernier alinéa de l'article R.
+351-33 doivent faire l'objet d'une approbation de la part des ministres chargés
+des finances, de la construction et de l'habitation, de l'agriculture et de la
+sécurité sociale.
 
-L'approbation [*tacite*] d'un ministre est réputée acquise si celui-ci ne fait
-pas d'observation dans un délai d'un mois à compter de la date à laquelle les
+L'approbation d'un ministre est réputée acquise si celui-ci ne fait pas
+d'observation dans un délai d'un mois à compter de la date à laquelle les
 projets de directives ou de décision lui ont été transmis.
 
-Les directives du fonds national de l'habitation sont adressées aux organismes
-concernés par l'intermédiaire du ministre de tutelle compétent.
+Les directives du fonds national d'aide au logement sont adressées aux
+organismes concernés par l'intermédiaire du ministre de tutelle compétent.

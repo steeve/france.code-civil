@@ -8,6 +8,6 @@ minimales d'habitabilité, le bailleur présente aux locataires concernés un
 projet de bail, conforme aux dispositions prévues à l'alinéa 1er de l'article R.
 353-140 ci-dessus, et entrant en vigueur après l'achèvement des travaux.
 
-Ce projet de bail [*contenu*] reproduit en caractère très apparents le texte
-intégral de l'article L. 353-8 et fait l'objet d'une notification aux intéressés
-dans les conditions fixées par les conventions.
+Ce projet de bail reproduit en caractère très apparents le texte intégral de
+l'article L. 353-8 et fait l'objet d'une notification aux intéressés dans les
+conditions fixées par les conventions.
