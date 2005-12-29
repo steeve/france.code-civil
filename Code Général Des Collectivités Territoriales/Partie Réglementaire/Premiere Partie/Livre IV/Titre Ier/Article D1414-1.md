@@ -4,7 +4,7 @@ I. - Tout contrat de partenariat doit être précédé d'une publicité suffisan
 permettant une mise en concurrence effective dans les conditions définies
 ci-après.
 
-II. - Pour les contrats de partenariat d'un montant supérieur à 230 000 Euros
+II. - Pour les contrats de partenariat d'un montant supérieur à 210 000 euros
 (HT), la personne publique est tenue de publier un avis d'appel public à la
 concurrence dans le Bulletin officiel des annonces des marchés publics et au
 Journal officiel de l'Union européenne.
