@@ -58,10 +58,7 @@ IV. - Dans ses domaines de compétence, l'établissement peut également apporte
 des collectivités publiques françaises, européennes ou étrangères son assistance
 technique pour la mise en place et le suivi de leurs interventions.
 
-V. - L'établissement peut être également chargé d'assurer la gestion du service
-public de l'équarrissage défini par l'article L. 226-1 ainsi que des opérations
-concourant à l'élimination des déchets d'origine animale mentionnées à l'article
-L. 226-8.
+V. - (paragraphe abrogé).
 
 VI. - Lorsqu'il est chargé d'assurer la gestion d'une aide publique, y compris
 d'origine communautaire, l'établissement peut assurer l'instruction des
