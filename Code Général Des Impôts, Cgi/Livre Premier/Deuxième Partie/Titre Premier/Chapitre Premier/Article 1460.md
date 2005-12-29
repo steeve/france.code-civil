@@ -29,3 +29,8 @@ janvier 1954, modifiée, sur la sauvegarde de la vie humaine en mer et
 l'habitabilité à bord des navires de commerce, de pêche et de plaisance ;
 
 7° Les sportifs pour la seule pratique d'un sport.
+
+8° Les avocats ayant suivi la formation prévue au chapitre II de la loi n°
+71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires
+et juridiques, pour une période de deux ans à compter de l'année qui suit le
+début de l'exercice de la profession d'avocat.
