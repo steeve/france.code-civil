@@ -21,7 +21,7 @@ est fixé conformément au tableau ci-après :
 
 GROUPE DE PRODUITS : Cigarettes
 
-TAUX NORMAL (en %) : 35
+TAUX NORMAL (en %) : 36,5
 
 GROUPE DE PRODUITS : Cigares
 
@@ -44,7 +44,7 @@ GROUPE DE PRODUITS : Tabacs à mâcher
 TAUX NORMAL (en %) : 13.
 
 II. - Pour les cigarettes, le prix de vente au détail appliqué dans les
-départements de Corse est au moins égal à 68 % des prix de vente continentaux
+départements de Corse est au moins égal à 70 % des prix de vente continentaux
 des mêmes produits.
 
 Pour les tabacs fine coupe destinés à rouler les cigarettes, les autres tabacs à
