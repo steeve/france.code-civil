@@ -12,5 +12,5 @@ II. (Abrogé).
 III. La société mère doit joindre à la déclaration du résultat d'ensemble un
 état, conforme à un modèle établi par l'administration, qui fait apparaître les
 cotisations d'imposition forfaitaire annuelle payées au titre de l'année de
-clôture de l'exercice, le montant des cotisations des deux années antérieures et
-le montant imputé sur l'impôt dû sur le résultat d'ensemble de l'exercice.
+clôture de l'exercice, et le montant des cotisations des deux années
+antérieures.

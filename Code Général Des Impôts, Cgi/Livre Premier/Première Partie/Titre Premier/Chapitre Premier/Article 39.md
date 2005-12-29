@@ -123,6 +123,15 @@ Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur monta
 entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de
 leur ordonnancement ;
 
+Par exception aux dispositions des deux premiers alinéas, lorsque, en
+application des dispositions du sixième alinéa de l'article 1679 quinquies, un
+redevable réduit le montant du solde de taxe professionnelle du montant du
+dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de
+la même année, le montant de la cotisation de taxe professionnelle déductible du
+bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant
+du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est
+accordé ultérieurement.
+
 4° bis - Le prélèvement opéré au titre de l'article 4 modifié de la loi n°
 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet
 d'un ordre de versement émis au cours de l'exercice ;
@@ -255,15 +264,41 @@ jusqu'à la restitution de ces titres.
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres
 de participation ne peuvent faire l'objet d'une provision que s'il est justifié
 d'une dépréciation réelle par rapport au prix de revient. Pour l'application de
-cette disposition, sont présumés titres de participation les actions acquises en
-exécution d'une offre publique d'achat ou d'échange ainsi que les titres ouvrant
-droit au régime fiscal des sociétés mères.
+la phrase précédente, constituent des titres de participation les parts ou
+actions de sociétés revêtant ce caractère sur le plan comptable. Il en va de
+même des actions acquises en exécution d'une offre publique d'achat ou d'échange
+par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au
+régime des sociétés mères ou, lorsque leur prix de revient est au moins égal à
+22 800 000 Euros, qui satisfont aux conditions ouvrant droit à ce régime autres
+que la détention de 5 % au moins du capital de la société émettrice, si ces
+actions ou titres sont inscrits en comptabilité au compte de titres de
+participation ou à une subdivision spéciale d'un autre compte du bilan
+correspondant à leur qualification comptable.
 
 Les provisions pour dépréciation, en ce qui concerne les titres et actions
 susvisés, précédemment comptabilisées seront rapportées aux résultats des
 exercices ultérieurs à concurrence du montant des provisions de même nature
 constituées à la clôture de chacun de ces exercices ou, le cas échéant, aux
 résultats de l'exercice de cession.
+
+Toutefois, les dotations aux provisions pour dépréciation comptabilisées au
+titre de l'exercice sur l'ensemble des titres de participation définis au
+dix-huitième alinéa ne sont pas déductibles à hauteur du montant des plus-values
+latentes existant à la clôture du même exercice sur les titres appartenant à cet
+ensemble. Pour l'application des dispositions de la phrase précédente, les
+plus-values latentes, qui s'entendent de la différence existant entre la valeur
+réelle de ces titres à la clôture de l'exercice et leur prix de revient corrigé
+des plus ou moins-values en sursis d'imposition sur ces mêmes titres, sont
+minorées du montant des provisions non admises en déduction au titre des
+exercices précédents en application de la même phrase et non encore rapportées
+au résultat à la clôture de l'exercice. Le montant des dotations ainsi non admis
+en déduction est affecté à chaque titre de participation provisionné à
+proportion des dotations de l'exercice comptabilisées sur ce titre.
+
+Les dotations aux provisions non admises en déduction au titre d'un exercice et
+affectées à un titre de participation en application de l'alinéa précédent
+viennent minorer le montant des provisions pour dépréciation sur ce titre
+rapporté au résultat des exercices ultérieurs.
 
 La dépréciation de titres prêtés dans les conditions prévues à l'article L.
 432-6 du code monétaire et financier ne peut donner lieu, de la part du prêteur
@@ -304,7 +339,7 @@ initial affectée d'un coefficient progressif. Ce coefficient est égal au
 quotient du nombre d'années d'utilisation du bien depuis sa mise en service sur
 sa durée totale d'utilisation.
 
-Les dotations à la provision visée au vingt-cinquième alinéa ne sont pas
+Les dotations à la provision visée au vingt-septième alinéa ne sont pas
 déductibles si elles sont passées après l'expiration du plan de renouvellement
 en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette
 date, après l'expiration du plan initial de renouvellement.
@@ -312,7 +347,7 @@ date, après l'expiration du plan initial de renouvellement.
 La fraction de la provision pour renouvellement régulièrement constituée,
 figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à
 la clôture des exercices suivants, est supérieure au montant déterminé en
-application des vingt-cinquième et vingt-sixième alinéas et n'a pas été
+application des vingt-septième et vingt-huitième alinéas et n'a pas été
 utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des
 dispositions du seizième alinéa.
 
@@ -321,8 +356,8 @@ déductibles pour la détermination du résultat imposable de l'entreprise, le p
 de revient initial du bien est retenu pour une valeur nulle.
 
 Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un
-tiers, les dispositions des vingt-cinquième à vingt-huitième alinéas sont
-applicables à celui-ci.
+tiers, les dispositions des vingt-septième à trentième alinéas sont applicables
+à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face
 aux charges liées aux licenciements pour motif économique ne sont pas
@@ -334,6 +369,29 @@ sont rapportées aux résultats imposables de cet exercice.
 Les provisions constituées en vue de faire face au risque de change afférent aux
 prêts soumis, sur option, aux dispositions prévues au quatrième alinéa du 4 de
 l'article 38 ne sont pas déductibles du résultat imposable.
+
+Les dotations aux provisions pour dépréciation comptabilisées au titre de
+l'exercice sur l'ensemble des immeubles de placement ne sont pas déductibles à
+hauteur du montant des plus-values latentes sur ces mêmes immeubles existant à
+la clôture du même exercice. Pour l'application de cette disposition,
+constituent des immeubles de placement les biens immobiliers inscrits à l'actif
+immobilisé et non affectés par l'entreprise à sa propre exploitation
+industrielle, commerciale ou agricole ou à l'exercice d'une profession non
+commerciale, à l'exclusion des biens mis à la disposition ou donnés en location
+à titre principal à des entreprises liées au sens du 12 de l'article 39
+affectant ce bien à leur propre exploitation. Pour l'application des
+dispositions de la première phrase, les plus-values latentes, qui s'entendent de
+la différence existant entre la valeur réelle de ces immeubles à la clôture de
+l'exercice et leur prix de revient corrigé des plus ou moins-values en sursis
+d'imposition sur les immeubles appartenant à cet ensemble, sont minorées du
+montant des provisions non admises en déduction au titre des exercices
+précédents en application de la même phrase et non encore rapportées au résultat
+à la clôture de l'exercice.
+
+Le montant total des dotations aux provisions non admises en déduction au titre
+de l'exercice en application de l'alinéa précédent vient minorer le montant
+total des provisions pour dépréciation des immeubles de placement rapporté au
+résultat des exercices ultérieurs.
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3
@@ -349,6 +407,9 @@ culturel ou concourant à la mise en valeur du patrimoine artistique, à la
 défense de l'environnement naturel ou à la diffusion de la culture, de la langue
 et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans
 l'intérêt direct de l'exploitation ;
+
+8° Les abandons de créances à caractère commercial consentis ou supportés dans
+le cadre d'un plan de sauvegarde ou de redressement.
 
 2. Les transactions, amendes, confiscations, pénalités de toute nature mises à
 la charge des contrevenants aux dispositions légales régissant la liberté des
@@ -392,13 +453,15 @@ Sauf justifications, les dispositions du premier alinéa sont applicables :
 
 a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures
 particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300
-euros ;
+euros. Lorsque ces véhicules ont un taux d'émission de dioxyde de carbone
+supérieur à 200 grammes par kilomètre, cette somme est ramenée à 9 900 Euros ;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des
 locations de courte durée n'excédant pas trois mois non renouvelables, portant
 sur des voitures particulières, à la part du loyer supportée par le locataire et
 correspondant à l'amortissement pratiqué par le bailleur pour la fraction du
-prix d'acquisition du véhicule excédant 18 300 euros ;
+prix d'acquisition du véhicule qui excède les limites déterminées conformément
+au a.
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute
 autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de

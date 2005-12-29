@@ -52,8 +52,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 470 euros pour
-l'imposition des revenus de l'année 2003. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 470 euros à compter de
+l'imposition des revenus de l'année 2005. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
@@ -77,12 +77,13 @@ modalités de procédure déconcentrée permettant de l'accorder.
 3. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article
 L. 52-8 du code électoral versés à une association de financement électorale ou
 à un mandataire financier visé à l'article L. 52-4 du même code qui sont
-consentis par chèque, à titre définitif et sans contrepartie, et dont il est
-justifié à l'appui du compte de campagne présenté par un candidat ou une liste.
-Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11
-mars 1988 modifiée relative à la transparence financière de la vie politique
-ainsi que des cotisations versées aux partis et groupements politiques par
-l'intermédiaire de leur mandataire.
+consentis à titre définitif et sans contrepartie, soit par chèque, soit par
+virement, prélèvement automatique ou carte bancaire, et dont il est justifié à
+l'appui du compte de campagne présenté par un candidat ou une liste. Il en va de
+même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988
+modifiée relative à la transparence financière de la vie politique ainsi que des
+cotisations versées aux partis et groupements politiques par l'intermédiaire de
+leur mandataire.
 
 4. (abrogé).
 

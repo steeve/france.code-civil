@@ -17,9 +17,9 @@ l'article 34 et qui sont soumises à l'impôt sur les sociétés dans les condit
 de droit commun au taux normal ou y seraient soumises dans les mêmes conditions
 si l'activité était exercée en France.
 
-Les sociétés unipersonnelles d'investissement à risque doivent détenir au moins
-5 % des droits financiers et au plus 20 % des droits financiers et des droits de
-vote des sociétés dans lesquelles elles investissent.
+Les sociétés unipersonnelles d'investissement à risque doivent détenir au plus
+30 % des droits financiers et des droits de vote des sociétés dans lesquelles
+elles investissent.
 
 2. Les sociétés dont les titres figurent à l'actif de la société unipersonnelle
 d'investissement à risque doivent également remplir les conditions suivantes :
@@ -29,16 +29,16 @@ souscription par la société unipersonnelle d'investissement à risque ;
 
 b. Elles sont nouvelles au sens de l'article 44 sexies ou créées pour la reprise
 de l'activité d'une entreprise pour laquelle est intervenu un jugement ordonnant
-la cession en application des articles L. 621-83 et suivants du code de
-commerce, en l'absence de tout plan de continuation, ou prononçant sa
-liquidation judiciaire ;
+la cession en application de l'article L. 631-22 du code de commerce, en
+l'absence de tout plan de sauvegarde ou de redressement judiciaire, ou
+prononçant sa liquidation judiciaire ;
 
 c. Elles sont détenues majoritairement par des personnes physiques ou par des
 personnes morales détenues majoritairement par des personnes physiques.
 
 3. L'associé d'une société unipersonnelle d'investissement à risque, son
 conjoint et leurs ascendants et descendants détiennent ensemble, directement ou
-indirectement, moins de 25 % des droits financiers et des droits de vote des
+indirectement, au plus 30 % des droits financiers et des droits de vote des
 sociétés dont les titres figurent à l'actif de la société et n'ont pas atteint
 ce niveau de détention depuis leur création. Ils n'exercent dans ces sociétés
 aucune des fonctions énumérées au 1° de l'article 885 O bis.

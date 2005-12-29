@@ -76,6 +76,11 @@ ouverts en application des articles L. 315-1 à L. 315-6 du code de la
 construction et de l'habitation ainsi que la prime d'épargne versée aux
 titulaires de ces comptes ;
 
+Pour les plans d'épargne-logement, cette exonération est limitée à la fraction
+des intérêts et à la prime d'épargne acquises au cours des douze premières
+années du plan ou, pour les plans ouverts avant le 1er avril 1992, jusqu'à leur
+date d'échéance ;
+
 9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en
 application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 :
 
@@ -106,6 +111,20 @@ d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de l
 loi n° 84-578 du 9 juillet 1984 modifiée sur le développement de l'initiative
 économique.
 
+9° sexies Les intérêts perçus en rémunération de prêts, d'une durée maximum de
+dix ans, consentis au profit d'un enfant, d'un petit-enfant ou d'un
+arrière-petit-enfant, sous réserve que l'emprunteur utilise les sommes reçues,
+dans les six mois de la conclusion du prêt, au financement de l'acquisition d'un
+immeuble affecté à son habitation principale.
+
+Les intérêts mentionnés au premier alinéa sont ceux correspondant à un montant
+de prêt n'excédant pas 50 000 Euros. Ce plafond est applicable aux prêts
+consentis par un même prêteur à un même emprunteur.
+
+Pour les prêts d'un montant supérieur à 50 000 Euros, ces dispositions
+s'appliquent à la part des intérêts correspondant au rapport existant entre le
+plafond mentionné à l'alinéa précédent et le montant du prêt consenti.
+
 10° à 13° (Dispositions périmées) ;
 
 14° et 15° (Dispositions périmées) ;
@@ -123,6 +142,11 @@ conditions prévues à l'article 163 bis A ;
 19° L'indemnité de départ versée aux adhérents des caisses
 d'assurance-vieillesse des artisans et commerçants, en application de l'article
 106 modifié de la loi n° 81-1160 du 30 décembre 1981 ;
+
+19° bis La prime de transmission versée aux adhérents des caisses d'assurance
+vieillesse des travailleurs non salariés des professions artisanales et des
+professions industrielles et commerciales, en application de l'article 25 de la
+loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises.
 
 20° Les intérêts des titres d'indemnisation prioritaires et des titres
 d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978
@@ -143,7 +167,7 @@ a) expiration des droits aux allocations d'assurance chômage prévues par le co
 du travail en cas de licenciement ;
 
 b) cessation d'activité non salariée à la suite d'un jugement de liquidation
-judiciaire en application des dispositions du titre II du livre VI du code de
+judiciaire en application des dispositions du titre IV du livre VI du code de
 commerce ;
 
 c) invalidité correspondant au classement dans les deuxième ou troisième
