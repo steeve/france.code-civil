@@ -20,19 +20,41 @@ non négociés sur un marché réglementé d'un Etat partie à l'accord sur l'Es
 membre de l'Organisation de coopération et de développement économique ; les
 autorités compétentes de ce pays tiers doivent avoir défini les conditions de
 fonctionnement, d'accès et d'admission aux négociations et imposé le respect
-d'obligations de déclaration et de transparence ;
+d'obligations de déclaration et de transparence.
 
-3° Plus de 3 % des actions ou titres participatifs d'un même émetteur.
+II. - Le fonds de réserve pour les retraites ne peut détenir plus de 3 % des
+actions, titres donnant accès au capital ou parts d'un même émetteur. Toutefois,
+ce ratio ne s'applique pas :
 
-II. - Le fonds de réserve pour les retraites peut conclure de s contrats
+a) Aux instruments financiers émis par des sociétés non admises aux négociations
+sur un marché d'instruments financiers français ou étranger dont le
+fonctionnement est assuré par une entreprise de marché ou un prestataire de
+services d'investissement ou tout autre organisme similaire étranger, à
+l'exception, sous réserve du b, des instruments financiers de sociétés
+d'investissement ayant pour objet principal le placement de capitaux dans des
+instruments financiers ;
+
+b) Aux droits représentatifs d'un placement financier dans des entités
+constituées en France ou à l'étranger, qui, quelle que soit leur forme,
+investissent majoritairement, directement ou indirectement, soit dans des
+sociétés mentionnées au a ci-dessus, soit dans des immeubles ou des droits réels
+portant sur des immeubles et qui conventionnellement ou par la réglementation
+qui leur est applicable, sont soumises à une ou plusieurs règles de répartition
+des risques et limitent la responsabilité de leurs investisseurs au montant de
+leurs apports.
+
+Le fonds de réserve des retraites ne peut toutefois contrôler, au sens de
+l'article L. 233-3 du code de commerce, les sociétés mentionnées au a.
+
+III. - Le fonds de réserve pour les retraites peut conclure des contrats
 constituant des instruments financiers à terme dans les conditions applicables à
 ces mêmes contrats lorsqu'ils sont conclus par des organismes de placement
-collectif en valeurs mobilières telles qu'elles sont fixées par les décrets n°
-89-623 et n° 89-624 du 6 septembre 1989. Toutefois, le risque de contrepartie
-sur un même cocontractant est limité à 5 % de l'actif du fonds.
+collectif en valeurs mobilières telles qu'elles sont fixées par le paragraphe 2
+de la sous-section 1 de la section 1 du chapitre IV du titre Ier du livre II du
+code monétaire et financier (partie réglementaire). Toutefois, le risque de
+contrepartie sur un même cocontractant est limité à 5 % de l'actif du fonds.
 
-III. - L'exposition au risque de change ne peut excéder 20 % du total de
-l'actif.
+IV. - L'exposition au risque de change ne peut excéder 20 % du total de l'actif.
 
-IV. - Les droits de vote sont exercés par les mandataires du fonds dans les
-seuls intérêts du fonds.
+V. - Les droits de vote sont exercés par les mandataires du fonds dans les seuls
+intérêts du fonds.

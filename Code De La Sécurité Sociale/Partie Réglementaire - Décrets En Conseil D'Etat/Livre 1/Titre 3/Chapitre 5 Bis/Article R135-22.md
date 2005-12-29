@@ -40,5 +40,5 @@ portant sur le fonctionnement du conseil de surveillance ;
 Les conventions mentionnées au 6° ci-dessus sont communiquées aux autorités de
 tutelle dans les quinze jours qui suivent leur conclusion.
 
-Les délibérations visées aux 3°, 4°, 7° et 11° sont exécutoires dans les
-conditions prévues à l'article R. 135-26.
+Les délibérations visées aux 4°, 7° et 11° sont exécutoires dans les conditions
+prévues à l'article R. 135-26.

@@ -8,16 +8,13 @@ arrêté avant le 30 novembre de l'année précédente. Les frais relatifs à la
 conservation des instruments financiers et à la gestion financière sont inscrits
 pour un montant évaluatif.
 
-III. - Les commissaires aux comptes certifient l'état détaillé des actifs du
-fonds et leur valorisation.
+III. - Le fonds de réserve pour les retraites est soumis au contrôle financier
+de l'Etat dans les conditions prévues par le décret du 25 octobre 1935
+organisant le contrôle financier des offices et des établissements publics
+autonomes de l'Etat. Les modalités d'exercice de ce contrôle sont fixées par
+arrêté du ministre chargé de l'économie et des finances. Le fonds est dispensé
+de contribution aux frais de contrôle.
 
-IV. - Le fonds de réserve pour les retraites est soumis au contrôle financier de
-l'Etat dans les conditions prévues par le décret du 25 octobre 1935 organisant
-le contrôle financier des offices et des établissements publics autonomes de
-l'Etat. Les modalités d'exercice de ce contrôle sont fixées par arrêté du
-ministre chargé de l'économie et des finances. Le fonds est dispensé de
-contribution aux frais de contrôle.
-
-V. - La Caisse des dépôts et consignations perçoit des frais de gestion à
+IV. - La Caisse des dépôts et consignations perçoit des frais de gestion à
 hauteur des dépenses exposées pour l'exercice de la mission qu'elle assure
 conformément à l'article R. 135-24. Ces frais sont à la charge du fonds.
