@@ -2,11 +2,11 @@ Article R412-3
 ----
 Les recours relatifs à l'élection du président du tribunal de commerce sont
 formés par déclaration écrite déposée ou remise au greffe de la cour d'appel
-dans les dix jours du scrutin. Le recours n'est ouvert qu'aux magistrats
-consulaires en exercice du tribunal de commerce et au procureur de la
-République. Le président dont l'élection est contestée peut valablement être
-installé et remplir ses fonctions tant qu'il n'a pas été définitivement statué
-sur le recours.
+dans les dix jours du scrutin. Le recours n'est ouvert qu'aux juges consulaires
+en exercice du tribunal de commerce et au procureur de la République. Le
+président dont l'élection est contestée peut valablement être installé et
+remplir ses fonctions tant qu'il n'a pas été définitivement statué sur le
+recours.
 
 La cour d'appel statue dans les dix jours de sa saisine après avoir convoqué le
 requérant et le président dont l'élection est contestée pour les entendre en
