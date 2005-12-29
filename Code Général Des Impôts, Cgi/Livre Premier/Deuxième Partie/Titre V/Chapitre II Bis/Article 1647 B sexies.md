@@ -62,12 +62,6 @@ professionnelle pour une durée de plus de six mois ou des redevances afférente
 à ces biens résultant d'une convention de location-gérance, les frais de
 transports et déplacements, les frais divers de gestion.
 
-Constituent également des consommations de biens et services en provenance des
-tiers les dépenses de gros entretien et de grandes visites engagées au cours de
-l'exercice, y compris lorsque leur coût estimé au moment de l'acquisition ou de
-la création de l'immobilisation principale à laquelle elles se rattachent a été
-inscrit à l'actif du bilan.
-
 Lorsqu'en application du deuxième alinéa sont exclus des consommations de biens
 et services en provenance de tiers les loyers ou redevances que verse le
 preneur, les amortissements visés au 2° du 1 de l'article 39, autres que ceux
