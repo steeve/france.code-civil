@@ -1,7 +1,8 @@
 Article R*661-25
 ----
 Dans le cadre des missions qui lui sont dévolues par l'article R. 621-121
-l'Office national interprofessionnel des vins :
+l'Office national interprofessionnel des fruits, des légumes, des vins et de
+l'horticulture :
 
 1° Etudie toutes questions relatives à la sélection et à la multiplication en
 viticulture et propose les mesures propres à en assurer l'application, compte

@@ -10,7 +10,8 @@ pas pour un même récoltant le quantum à l'hectare fixé pour chaque appellati
 par arrêté conjoint des ministres chargés de l'économie, du budget et de
 l'agriculture, sauf dérogations individuelles accordées par le syndicat de
 défense de chaque appellation sous le contrôle de l'Institut national des
-appellations d'origine et de l'Office national interprofessionnel des vins.
+appellations d'origine et de l'Office national interprofessionnel des fruits,
+des légumes, des vins et de l'horticulture.
 
 En aucun cas, les dérogations individuelles ne doivent avoir pour effet
 d'accorder le label, pour la récolte d'une année déterminée, à une quantité de

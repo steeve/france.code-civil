@@ -1,19 +1,46 @@
 Article R*621-143
 ----
-Le conseil de direction donne un avis sur les projets de décisions
-réglementaires ou financières nécessaires à l'accomplissement des missions de
-l'office et sur les conventions prévues à l'article R. 621-161.
+Pour l'exercice des compétences qui lui sont attribuées par le b de l'article R.
+621-141, l'office est doté d'un conseil de direction qui comprend, outre son
+président :
 
-Il détermine les missions qui sont confiées aux conseils spécialisés prévus à
-l'article R. 621-144 et délibère chaque année sur l'exécution desdites missions.
+1° Douze personnalités représentant la production agricole nommées par le
+ministre chargé de l'agriculture sur proposition des organisations
+professionnelles représentatives ;
 
-A ces fins, il est plus particulièrement chargé de suivre l'évolution de la
-situation des marchés et de participer à la politique d'orientation des
-productions et d'organisation de la filière dans le cadre des dispositions du
-plan de la nation et de celles résultant de la politique agricole commune, ainsi
-que dans le cadre des orientations définies par le conseil supérieur
-d'orientation de l'économie agricole et alimentaire.
+2° Huit personnalités représentant le secteur coopératif agricole, dont quatre
+au moins représentant la production, nommées par le ministre chargé de
+l'agriculture sur proposition des organisations professionnelles représentatives
+;
 
-Il est tenu régulièrement informé par le ministre chargé de l'agriculture des
-travaux de la Communauté européenne en ce qui concerne l'élaboration et
-l'application de la politique agricole commune.
+3° Huit personnalités représentant l'industrie nommées par le ministre chargé de
+l'agriculture sur proposition des organisations professionnelles représentatives
+;
+
+4° Trois personnalités représentant le commerce nommées conjointement par le
+ministre chargé de l'agriculture et le ministre chargé du commerce sur
+proposition des organisations professionnelles représentatives ;
+
+5° Une personnalité représentant l'Institut national des appellations d'origine
+nommée par le ministre chargé de l'agriculture sur proposition de cet institut ;
+
+6° Trois personnalités représentant les salariés de la filière nommées par le
+ministre chargé de l'agriculture sur proposition des organisations
+représentatives ;
+
+7° Deux personnalités représentant les consommateurs nommées par le ministre
+chargé de l'agriculture sur proposition du ministre chargé de la consommation et
+après consultation du Conseil national de la consommation ;
+
+8° Quatre représentants de l'Etat :
+
+- le directeur des politiques économique et internationale au ministère chargé
+de l'agriculture ou son représentant ;
+
+- et le directeur des affaires financières et de la logistique au ministère
+chargé de l'agriculture ou leurs représentants ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant.

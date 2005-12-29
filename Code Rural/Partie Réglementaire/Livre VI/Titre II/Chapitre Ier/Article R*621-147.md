@@ -1,7 +1,11 @@
 Article R*621-147
 ----
-Des délégués régionaux de l'office concourent, dans leur zone de compétence
-territoriale, à la préparation et à la mise en oeuvre des actions de l'office.
+Pour les produits qui ne relèvent pas d'un conseil spécialisé, il peut être
+créé, par arrêté du ministre chargé de l'agriculture après avis du conseil de
+direction compétent, ou, le cas échéant, des deux conseils de direction, des
+comités consultatifs qui comprennent des représentants des administrations et
+des organisations socioprofessionnelles représentatives.
 
-Le directeur de l'office, après avis du conseil de direction, détermine leur
-zone de compétence géographique et les nomme.
+Les représentants des organisations socioprofessionnelles sont nommés, pour
+trois ans, sur proposition de celles-ci, par le ministre chargé de
+l'agriculture.

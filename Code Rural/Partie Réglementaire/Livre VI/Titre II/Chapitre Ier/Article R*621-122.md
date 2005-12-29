@@ -1,54 +1,43 @@
 Article R*621-122
 ----
-L'office est doté d'un conseil de direction qui comprend, outre son président :
+Pour l'exercice des compétences qui lui sont attribuées dans le secteur des
+fruits et légumes et des productions spécialisées, l'office est doté d'un
+conseil de direction qui comprend, outre son président :
 
-1° Neuf personnalités représentant la production agricole, nommées par arrêté du
+1° Dix personnalités représentant la production agricole, nommées par le
 ministre chargé de l'agriculture sur proposition des organisations
 professionnelles représentatives ;
 
-2° Trois personnalités représentant le secteur coopératif, nommées par arrêté du
-ministre chargé de l'agriculture, sur proposition des organisations
+2° Trois personnalités représentant le secteur coopératif agricole, dont deux au
+moins représentant la production, nommées par le ministre chargé de
+l'agriculture sur proposition des organisations professionnelles représentatives
+;
+
+3° Trois personnalités représentant l'industrie de transformation, nommées par
+le ministre chargé de l'agriculture sur proposition des organisations.
 professionnelles représentatives ;
 
-3° Neuf personnalités représentant le commerce, nommées par arrêté conjoint du
-ministre chargé de l'agriculture et du ministre chargé du commerce sur
+4° Six personnalités représentant le commerce, nommées conjointement par le
+ministre chargé du commerce et par le ministre chargé de l'agriculture sur
 proposition des organisations professionnelles représentatives ;
 
-4° Une personnalité représentant les courtiers, nommée par arrêté conjoint du
-ministre chargé de l'agriculture et du ministre chargé du commerce sur
-proposition des organisations professionnelles représentatives ;
-
-5° Six personnalités représentant les producteurs des différentes régions
-viticoles, nommées par arrêté du ministre chargé de l'agriculture sur
-proposition des organisations professionnelles représentatives ;
-
-6° Une personnalité représentant l'Institut national des appellations d'origine,
-nommée par le ministre chargé de l'agriculture sur proposition de cet institut ;
-
-7° Une personnalité représentant le secteur des bois et plants de vigne, nommée
-par arrêté du ministre chargé de l'agriculture sur proposition des organisations
-professionnelles représentatives ;
-
-8° Trois personnalités représentant les salariés de la filière, désignées par
-arrêté du ministre chargé de l'agriculture sur proposition des organisations
+5° Deux personnalités représentant les salariés de la filière, nommées par le
+ministre chargé de l'agriculture sur proposition des organisations
 représentatives ;
 
-9° Deux personnalités représentant les consommateurs, nommées par le ministre
+6° Une personnalité représentant les consommateurs, nommée par le ministre
 chargé de l'agriculture sur proposition du ministre chargé de la consommation et
-après consultation du conseil national de la consommation ;
+après consultation du Conseil national de la consommation ;
 
-10° Quatre représentants de l'Etat :
+7° Quatre représentants de l'Etat :
 
-- le directeur des politiques économique et internationale et le directeur des
-affaires financières au ministère chargé de l'agriculture ou leurs représentants
-;
+- le directeur des politiques économique et internationale au ministère chargé
+de l'agriculture ou son représentant ;
+
+- le directeur des affaires financières et de la logistique au ministère chargé
+de l'agriculture ou son représentant ;
 
 - le directeur général de la concurrence, de la consommation et de la répression
 des fraudes ou son représentant ;
 
-- le directeur du budget ou son représentant ;
-
-11° Trois personnalités représentant le secteur des alcools d'origine
-viti-vinicole, dont une au titre des distillateurs du secteur coopératif,
-nommées par arrêté conjoint du ministre chargé de l'agriculture et du ministre
-chargé de l'économie.
+- le directeur du budget ou son représentant.

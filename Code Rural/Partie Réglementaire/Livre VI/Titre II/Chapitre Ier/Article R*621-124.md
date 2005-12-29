@@ -1,27 +1,58 @@
 Article R*621-124
 ----
-Des conseils spécialisés sont créés en tant que de besoin au sein de l'office
-par arrêté du ministre chargé de l'agriculture après avis du conseil de
-direction.
+Pour l'exercice des compétences qui lui sont attribuées dans le secteur des
+vins, l'office est doté d'un conseil de direction qui comprend, outre son
+président :
 
-Un arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de
-l'économie et du ministre chargé du budget pris après avis du conseil de
-direction fixe pour chaque conseil spécialisé sa composition et ses modalités de
-fonctionnement.
+1° Neuf personnalités représentant la production agricole, nommées par arrêté du
+ministre chargé de l'agriculture sur proposition des organisations
+professionnelles représentatives ;
 
-Le conseil de direction détermine les missions qui lui sont confiées. Cependant,
-le ministre chargé de l'agriculture peut, en tant que de besoin, saisir
-directement les conseils spécialisés d'affaires particulières.
+2° Trois personnalités représentant le secteur coopératif, nommées par arrêté du
+ministre chargé de l'agriculture, sur proposition des organisations
+professionnelles représentatives ;
 
-Les conseils spécialisés peuvent comporter des personnalités qui ne font pas
-partie du conseil de direction ainsi que des représentants d'organisations
-professionnelles représentatives ou d'intérêts économiques non représentés au
-conseil de direction.
+3° Neuf personnalités représentant le commerce, nommées par arrêté conjoint du
+ministre chargé de l'agriculture et du ministre chargé du commerce sur
+proposition des organisations professionnelles représentatives ;
 
-Les présidents des conseils spécialisés sont nommés par le ministre chargé de
-l'agriculture après consultation du conseil spécialisé concerné. S'ils ne sont
-pas membres du conseil de direction, ils y siègent de droit avec voix
-consultative.
+4° Une personnalité représentant les courtiers, nommée par arrêté conjoint du
+ministre chargé de l'agriculture et du ministre chargé du commerce sur
+proposition des organisations professionnelles représentatives ;
 
-Chaque conseil spécialisé étudie les projets de décisions qui lui sont soumis
-par le directeur et exprime son avis.
+5° Six personnalités représentant les producteurs des différentes régions
+viticoles, nommées par arrêté du ministre chargé de l'agriculture sur
+proposition des organisations professionnelles représentatives ;
+
+6° Une personnalité représentant l'Institut national des appellations d'origine,
+nommée par le ministre chargé de l'agriculture sur proposition de cet institut ;
+
+7° Une personnalité représentant le secteur des bois et plants de vigne, nommée
+par arrêté du ministre chargé de l'agriculture sur proposition des organisations
+professionnelles représentatives ;
+
+8° Trois personnalités représentant le secteur des alcools d'origine
+viti-vinicole, dont une au titre des distillateurs du secteur coopératif,
+nommées par arrêté conjoint du ministre chargé de l'agriculture et du ministre
+chargé de l'économie ;
+
+9° Trois personnalités représentant les salariés de la filière, désignées par
+arrêté du ministre chargé de l'agriculture sur proposition des organisations
+représentatives ;
+
+10° Deux personnalités représentant les consommateurs, nommées par le ministre
+chargé de l'agriculture sur proposition du ministre chargé de la consommation et
+après consultation du Conseil national de la consommation ;
+
+11° Quatre représentants de l'Etat :
+
+- le directeur des politiques économique et internationale au ministère chargé
+de l'agriculture ou son représentant ;
+
+- le directeur des affaires financières et de la logistique au ministère chargé
+de l'agriculture ou son représentant ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant.

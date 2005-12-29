@@ -12,7 +12,7 @@ l'application du troisième alinéa de l'article R. 654-104.
 Le préfet du département prend la décision de transfert et notifie les quantités
 de référence transférées et celles ajoutées à la réserve au demandeur, au
 producteur cédant, aux acheteurs de lait et à l'Office national
-interprofessionnel du lait et des produits laitiers.
+interprofessionnel de l'élevage et de ses productions.
 
 La décision prend effet à la date de reprise des terres. En cours de campagne
 laitière et à condition que la demande de transfert soit déposée auprès du

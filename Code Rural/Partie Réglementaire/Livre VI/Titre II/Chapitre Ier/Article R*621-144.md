@@ -1,29 +1,21 @@
 Article R*621-144
 ----
-Des conseils spécialisés sont créés au sein de l'office pour les secteurs du
-lait de brebis et du lait de chèvre.
+Chaque conseil de direction donne un avis sur les projets de décisions
+réglementaires ou financières nécessaires à l'accomplissement des missions de
+l'office et sur les conventions prévues à l'article R. 621-161, ainsi que, dans
+le domaine de compétence qui lui est propre, sur les projets de décisions
+réglementaires ou financières relatives à celui-ci.
 
-Ces conseils spécialisés sont plus particulièrement chargés d'étudier les
-mesures de régularisation des marchés de leur secteur d'activité.
+Les conseils de direction déterminent les missions qui sont confiées aux
+conseils spécialisés prévus à l'article R. 621-145 et sont informés chaque année
+de l'exécution desdites missions.
 
-Un arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de
-l'économie et du ministre chargé du budget pris après avis du conseil de
-direction fixe pour chaque conseil spécialisé sa composition et ses modalités de
-fonctionnement.
+A ces fins, ils sont notamment chargés de suivre l'évolution de la situation des
+marchés et de participer à la politique d'orientation des productions et
+d'organisation de la filière dans le cadre des objectifs de la politique
+agricole commune et des orientations définies par le Conseil supérieur
+d'orientation de l'économie agricole et alimentaire.
 
-Le conseil de direction détermine les missions qui lui sont confiées. Cependant,
-le ministre chargé de l'agriculture peut en tant que de besoin saisir
-directement les conseils spécialisés d'affaires particulières.
-
-Les conseils spécialisés peuvent comporter des personnalités qui ne font pas
-partie du conseil de direction ainsi que des représentants d'organisations
-professionnelles représentatives ou d'intérêts économiques non représentés au
-conseil de direction.
-
-Les présidents des conseils spécialisés sont nommés par le ministre chargé de
-l'agriculture après consultation du conseil spécialisé concerné. S'ils ne sont
-pas membres du conseil de direction, ils y siègent de droit avec voix
-consultative.
-
-Chaque conseil spécialisé étudie les projets de décision qui lui sont soumis par
-le directeur et exprime son avis.
+Ils sont tenus régulièrement informés par le ministre chargé de l'agriculture
+des travaux de l'Union européenne en ce qui concerne l'élaboration et
+l'application de la politique agricole commune.

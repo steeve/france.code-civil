@@ -1,21 +1,44 @@
 Article R*621-123
 ----
-Le conseil de direction donne un avis sur les projets de décisions
-réglementaires ou financières nécessaires à l'accomplissement des missions de
-l'office et sur les conventions prévues à l'article R. 621-161.
+Pour l'exercice des compétences qui lui sont attribuées dans le secteur de
+l'horticulture, l'office est doté d'un conseil de direction pour le secteur
+horticole qui comprend, outre son président :
 
-Il détermine les missions qui sont confiées aux conseils spécialisés prévus à
-l'article R. 621-124 et délibère chaque année sur l'exécution desdites missions.
+1° Neuf personnalités représentant la production agricole, nommées par arrêté du
+ministre chargé de l'agriculture sur proposition des organisations
+professionnelles représentatives ;
 
-A ces fins, il est plus particulièrement chargé de suivre l'évolution de la
-situation des marchés et de participer à la politique d'orientation des
-productions et d'organisation de la filière dans le cadre des dispositions du
-plan de la nation et de celles résultant de la politique agricole commune, ainsi
-que dans le cadre des orientations définies par le Conseil supérieur
-d'orientation de l'économie agricole et alimentaire.
+2° Deux personnalités représentant le secteur coopératif agricole, dont une au
+moins représentant la production, nommées par le ministre chargé de
+l'agriculture sur proposition des organisations professionnelles représentatives
+;
 
-Il est tenu régulièrement informé par le ministre chargé de l'agriculture des
-travaux de la Communauté européenne en ce qui concerne l'élaboration et
-l'application de la politique agricole commune. A ce titre, il est associé à
-l'élaboration des mesures prises en application de la réglementation
-communautaire.
+3° Six personnalités représentant le commerce, dont trois le commerce de détail
+et trois le commerce de gros, nommées conjointement par le ministre chargé du
+commerce et par le ministre chargé de l'agriculture sur proposition des
+organisations professionnelles représentatives ;
+
+4° Deux personnalités représentant les entreprises utilisatrices, nommées par le
+ministre chargé de l'agriculture sur proposition des organisations
+professionnelles représentatives ;
+
+5° Deux personnalités représentant les salariés de la filière, nommées par le
+ministre chargé de l'agriculture sur proposition des organisations
+représentatives ;
+
+6° Une personnalité représentant les consommateurs, nommée par le ministre
+chargé de l'agriculture sur proposition du ministre chargé de la consommation et
+après consultation du Conseil national de la consommation ;
+
+7° Quatre représentants de l'Etat :
+
+- le directeur des politiques économique et internationale au ministère chargé
+de l'agriculture ou son représentant ;
+
+- le directeur des affaires financières et de la logistique au ministère chargé
+de l'agriculture ou son représentant ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant.

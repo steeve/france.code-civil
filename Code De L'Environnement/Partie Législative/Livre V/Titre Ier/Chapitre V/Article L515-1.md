@@ -36,7 +36,8 @@ L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 Toute autorisation d'exploitation de carrières est soumise, dans les vignobles
 classés appellation d'origine contrôlée, vin délimité de qualité supérieure, et
 dans les aires de production de vins de pays, à l'avis de l'Institut national
-des appellations d'origine et de l'Office national interprofessionnel des vins.
+des appellations d'origine et de l'Office national interprofessionnel des
+fruits, des légumes, des vins et de l'horticulture.
 
 La durée nécessaire à la réalisation des diagnostics et des opérations de
 fouilles d'archéologie préventive interrompt la durée de l'autorisation
