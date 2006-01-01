@@ -19,7 +19,6 @@ la société ;
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à
 l'article 1844-5 ;
 
-7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ou la cession
-totale des actifs de la société ;
+7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ;
 
 8° Pour toute autre cause prévue par les statuts.
