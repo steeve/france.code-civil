@@ -7,6 +7,11 @@ soit par l'envoi de copies des documents. Les frais de délivrance de ces copies
 sont laissés à la charge du demandeur dans les conditions fixées par l'article
 L. 1111-7.
 
+Dans le cas où les informations demandées sont détenues par un établissement de
+santé et si les dispositifs techniques de l'établissement le permettent, le
+demandeur peut également consulter par voie électronique tout ou partie des
+informations en cause.
+
 Dans le cas d'une demande de consultation sur place adressée à un établissement
 de santé, le demandeur est informé du dispositif d'accompagnement médical
 organisé par l'établissement dans les conditions fixées à l'article R. 1112-1.
