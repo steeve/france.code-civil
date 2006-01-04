@@ -38,10 +38,10 @@ des non-sociétaires.
 
 Cette exonération est applicable aux opérations effectuées par les coopératives
 de céréales et leurs unions avec l'Office national interprofessionnel des
-céréales relativement à l'achat, la vente, la transformation ou le transport de
-céréales ; il en est de même pour les opérations effectuées par des coopératives
-de céréales avec d'autres coopératives de céréales dans le cadre de programmes
-élaborés par l'office ou avec l'autorisation de cet établissement.
+grandes cultures relativement à l'achat, la vente, la transformation ou le
+transport de céréales ; il en est de même pour les opérations effectuées par des
+coopératives de céréales avec d'autres coopératives de céréales dans le cadre de
+programmes élaborés par l'office ou avec l'autorisation de cet établissement.
 
 Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à
 toute réquisition de l'administration, leur comptabilité et les justifications

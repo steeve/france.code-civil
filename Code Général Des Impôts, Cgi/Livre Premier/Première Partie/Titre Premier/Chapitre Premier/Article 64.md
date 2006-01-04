@@ -1,6 +1,6 @@
 Article 64
 ----
-1. Sous réserve des dispositions des articles 68 F à 74 B, le bénéfice imposable
+1. Sous réserve des dispositions des articles 69 à 74 B, le bénéfice imposable
 des exploitations situées en France est déterminé forfaitairement conformément
 aux prescriptions des 2 à 5.
 
@@ -41,6 +41,10 @@ L'évaluation du bénéfice forfaitaire à l'hectare doit être faite de telle f
 que les chiffres fixés dans un département correspondent à ceux établis dans un
 département voisin pour des terres de productivité semblable.
 
+Afin de tenir compte de la spécificité de la culture des arbres truffiers, les
+revenus issus de cette production ne sont des bénéfices imposables
+forfaitairement qu'à l'issue de la quinzième année qui suit la plantation.
+
 3. Sous réserve du cas visé au deuxième alinéa du 2, le bénéfice forfaitaire de
 chaque exploitation est obtenu en multipliant le bénéfice forfaitaire moyen à
 l'hectare correspondant à la catégorie ou à la nature de l'exploitation
@@ -76,4 +80,4 @@ et légalisé par la mairie s'il s'agit de pertes de bétail.
 
 Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au
 premier alinéa à l'encontre des contrevenants aux dispositions des articles
-L223-18 à L223-22 du code rural.
+L223-18 à L223-19 du code rural.
