@@ -36,5 +36,5 @@ sont pas recevables à déférer ledit arrêté à la juridiction administrative
 
 IV. - Le permis de construire et l'acte de vente, à des tiers, de biens fonciers
 et immobiliers doivent, le cas échéant, mentionner explicitement les servitudes
-afférentes instituées en application de l'article L. 421-8 du code de
+afférentes instituées en application de l'article L. 111-1-5 du code de
 l'urbanisme.
