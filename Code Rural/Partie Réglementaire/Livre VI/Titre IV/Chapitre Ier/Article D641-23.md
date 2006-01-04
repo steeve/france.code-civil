@@ -2,7 +2,7 @@ Article D641-23
 ----
 Les produits issus de l'oléiculture ne peuvent être commercialisés sous une
 appellation d'origine contrôlée avant l'obtention d'un certificat d'agrément
-délivré par l'Institut national des appellations d'origine, à l'issue d'un
+délivré par l'Institut national de l'origine et de la qualité, à l'issue d'un
 contrôle des conditions de production et d'examens analytique et organoleptique.
 Toutefois, dans le cas de produits issus de l'oléiculture subissant une
 désamérisation rapide, les examens analytique et organoleptique peuvent être

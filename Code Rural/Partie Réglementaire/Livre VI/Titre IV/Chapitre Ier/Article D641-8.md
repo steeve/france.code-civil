@@ -1,10 +1,10 @@
 Article D641-8
 ----
 Le contrôle des conditions de production est placé sous la responsabilité de
-l'Institut national des appellations d'origine. Ses modalités sont déterminées
-par une convention passée entre le syndicat de défense de l'appellation
-concernée et l'Institut national des appellations d'origine, et approuvée par le
-Comité national des produits laitiers.
+l'Institut national de l'origine et de la qualité. Ses modalités sont
+déterminées par une convention passée entre le syndicat de défense de
+l'appellation concernée et l'Institut national de l'origine et de la qualité, et
+approuvée par le Comité national des produits laitiers.
 
 En cas de non-respect des conditions de production, la déclaration d'aptitude
 peut être invalidée.

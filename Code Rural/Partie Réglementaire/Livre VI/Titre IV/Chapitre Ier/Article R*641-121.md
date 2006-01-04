@@ -22,7 +22,7 @@ de validité des labels délivrés après le contrôle de la qualité est fixée
 chaque syndicat concerné. Elle ne peut être inférieure à six mois ni supérieure
 à douze mois. Chaque syndicat est tenu d'informer de la durée retenue la
 Fédération nationale des appellations d'origine Vin délimité de qualité
-supérieure, l'Institut national des appellations d'origine, la direction
+supérieure, l'Institut national de l'origine et de la qualité, la direction
 générale des douanes et droits indirects et la direction générale de la
 concurrence, de la consommation et de la répression des fraudes.
 

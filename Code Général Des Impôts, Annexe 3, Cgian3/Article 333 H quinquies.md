@@ -11,5 +11,5 @@ leur livraison réelle.
 
 Pour les exportations et les expéditions de ces produits vers les autres Etats
 membres de la Communauté européenne, l'Office national interprofessionnel des
-céréales procède pour le compte du Trésor à la mise en oeuvre de l'exonération
-de la taxe selon la procédure prévue par cet établissement.
+grandes cultures procède pour le compte du Trésor à la mise en oeuvre de
+l'exonération de la taxe selon la procédure prévue par cet établissement.

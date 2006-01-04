@@ -15,5 +15,6 @@ ou manquants dépasse 20 % ou, le cas échéant, un pourcentage inférieur prév
 dans le décret de l'appellation d'origine contrôlée.
 
 La ou les parcelles concernées doivent faire l'objet d'une déclaration
-spécifique auprès des services de l'INAO aux fins d'identification. Copie de
-ladite déclaration devra être annexée à la déclaration de récolte.
+spécifique auprès des services de l'Institut national de l'origine et de la
+qualité aux fins d'identification. Copie de ladite déclaration devra être
+annexée à la déclaration de récolte.

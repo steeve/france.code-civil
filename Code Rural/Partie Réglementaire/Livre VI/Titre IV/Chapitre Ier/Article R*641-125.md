@@ -20,7 +20,7 @@ vins autres doivent être livrées à la transformation en alcool.
 Dans les deux cas mentionnés ci-dessus et pour une campagne donnée, d'autres
 destinations pourront être fixées par arrêté conjoint du ministre chargé de
 l'économie et du ministre chargé de l'agriculture, sur proposition de l'Institut
-national des appellations d'origine des vins et eaux-de-vie.
+national de l'origine et de la qualité des vins et eaux-de-vie.
 
 En l'absence d'engagement de destruction de ces excédents, souscrit sur la
 déclaration de récolte, et de réalisation de cette condition avant le 31 juillet

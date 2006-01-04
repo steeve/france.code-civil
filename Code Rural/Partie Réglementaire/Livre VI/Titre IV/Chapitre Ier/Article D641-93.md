@@ -12,7 +12,7 @@ volumique maximum, de respecter la procédure dérogatoire prévue à l'article 
 641-92 ;
 
 2° Les viticulteurs ayant recours à l'enrichissement pour ces vins doivent faire
-parvenir aux services de l'Institut national des appellations d'origine un
+parvenir aux services de l'Institut national de l'origine et de la qualité un
 double des déclarations d'enrichissement adressées à la direction générale des
 douanes et droits indirects. Une photocopie du cahier d'enrichissement devra
 être jointe à la demande d'agrément ;

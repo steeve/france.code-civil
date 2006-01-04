@@ -2,7 +2,7 @@ Article D641-112
 ----
 La déclaration annuelle de production mentionnée à l'article D. 641-110 doit
 être souscrite avant le 31 décembre de l'année de récolte sur un imprimé fourni
-par les services de l'Institut national des appellations d'origine. Elle
+par les services de l'Institut national de l'origine et de la qualité. Elle
 comporte :
 
 1° Les surfaces totales des vergers du déclarant et leur production ;

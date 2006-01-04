@@ -4,7 +4,7 @@ Les schémas directeurs, les plans d'occupation des sols ou les documents
 d'urbanisme en tenant lieu et les documents relatifs au schéma départemental des
 carrières prévoyant une réduction des espaces agricoles ou forestiers ne peuvent
 être rendus publics ou approuvés qu'après avis de la chambre d'agriculture, de
-l'Institut national des appellations d'origine dans les zones d'appellation
+l'Institut national de l'origine et de la qualité dans les zones d'appellation
 d'origine contrôlée et, le cas échéant, du centre régional de la propriété
 forestière. Il en va de même en cas de révision ou de modification de ces
 documents.

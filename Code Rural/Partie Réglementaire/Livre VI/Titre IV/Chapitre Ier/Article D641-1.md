@@ -2,7 +2,7 @@ Article D641-1
 ----
 Avant toute reconnaissance d'une appellation d'origine contrôlée, le Comité
 national des produits agro-alimentaires ou le Comité national des produits
-laitiers de l'Institut national des appellations d'origine organise une
+laitiers de l'Institut national de l'origine et de la qualité organise une
 consultation publique, aux fins de recenser les utilisateurs, pour un produit
 similaire, du nom envisagé pour l'appellation, situés hors de l'aire
 géographique projetée pour l'éventuelle appellation.

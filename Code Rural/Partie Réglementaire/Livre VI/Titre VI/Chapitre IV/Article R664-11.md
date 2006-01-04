@@ -19,16 +19,16 @@ d'encépagement et d'aire de production d'une appellation plus générale ou plu
 restreinte peuvent être soumises à autorisation, lorsque le syndicat de défense
 de l'appellation concernée en fait la demande par arrêté pris conjointement par
 le ministre chargé de l'agriculture et celui chargé de l'économie et des
-finances sur proposition de l'Institut national des appellations d'origine.
+finances sur proposition de l'Institut national de l'origine et de la qualité.
 
 Sont également exemptés d'autorisation les surgreffages réalisés sur des vignes
 répondant aux conditions d'encépagement de l'appellation d'origine concernée ou
 d'une appellation d'origine plus générale ou plus restreinte. Toutefois, pour
 une appellation donnée, les surgreffages réalisés sur des vignes répondant aux
 conditions de production de l'appellation d'origine concernée et qu'il conduit à
-un changement de couleur, ou sur des vignes répondant aux conditions
+un changement de couleur ou sur des vignes répondant aux conditions
 d'encépagement d'une appellation plus générale ou plus restreinte peuvent être
 soumis à autorisation, lorsque le syndicat de défense de l'appellation concernée
 en fait la demande, par arrêté pris conjointement par le ministre chargé de
 l'agriculture et celui chargé de l'économie et des finances sur proposition de
-l'Institut national des appellations d'origine.
+l'Institut national de l'origine et de la qualité.

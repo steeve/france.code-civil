@@ -1,8 +1,20 @@
 Article L641-16
 ----
-La dénomination "montagne" ne peut figurer sur l'étiquetage des produits
-bénéficiant d'une appellation d'origine contrôlée. Elle peut toutefois être
-autorisée par l'autorité administrative sur proposition de l'organisme de
-défense et de gestion de l'appellation d'origine contrôlée intéressé, dans le
-cas où l'intégralité de l'aire de production de l'appellation est située en zone
-de montagne.
+Afin d'appliquer les mesures de gestion du potentiel de production des vins de
+qualité produits dans les régions déterminées (VQPRD) prévues dans le cadre de
+l'organisation commune du marché vitivinicole, le ministre de l'agriculture et
+celui chargé de l'économie et des finances, par arrêté pris conjointement sur
+proposition de l'Institut national de l'origine et de la qualité après avis des
+syndicats de défense intéressés, fixent, par appellation ou groupe
+d'appellations, les contingents de plantations nouvelles, de transferts de
+droits de replantations, de replantations internes aux exploitations et du
+surgreffage, et définissent les critères de répartition de ces contingents.
+
+Les autorisations de plantations nouvelles, de transfert de droits de
+replantation, de replantations internes aux exploitations et de surgreffage sont
+délivrées par arrêté pris conjointement par le ministre de l'agriculture et
+celui chargé de l'économie et des finances sur proposition de l'Institut
+national de l'origine et de la qualité après avis des syndicats de défense
+intéressés.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

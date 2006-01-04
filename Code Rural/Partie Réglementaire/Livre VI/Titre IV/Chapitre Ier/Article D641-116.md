@@ -2,7 +2,7 @@ Article D641-116
 ----
 Les produits cidricoles ne peuvent être mis en circulation et commercialisés,
 sous une appellation d'origine contrôlée, sans un certificat d'agrément délivré
-par les services de l'Institut national des appellations d'origine, après que
+par les services de l'Institut national l'origine et de la qualité, après que
 ces produits ont obtenu un avis favorable à l'issue des examens analytique et
 organoleptique définis dans le décret relatif à chacune des appellations
 d'origine contrôlées, et sous réserve que la déclaration d'aptitude n'ait pas

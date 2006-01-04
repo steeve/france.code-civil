@@ -1,28 +1,65 @@
 Article L115-20
 ----
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Les compétences de l'Institut national des appellations d'origine sont définies
+à l'article L. 641-6 du code rural, ci-après reproduit :
 
-1° De délivrer un label rouge sans satisfaire aux conditions prévues à l'article
-L. 642-3 du code rural ;
+"Art. L. 641-6 - L'Institut national de l'origine et de la qualité propose, sur
+la base du cahier des charges visé aux articles L. 643-1 et L. 643-3, la
+reconnaissance des produits susceptibles de bénéficier d'une indication
+géographique protégée après avis de la Commission nationale des labels et des
+certifications de produits agricoles et alimentaires. Cette proposition,
+homologuée par arrêté conjoint du ministre de l'agriculture et du ministre
+chargé de la consommation, comprend la délimitation de l'aire géographique de
+production et la détermination des conditions de production de chacun de ces
+produits.
 
-2° De délivrer un label rouge qui n'a pas fait l'objet de l'homologation prévue
-à l'article L. 641-4 du code rural ;
+"L'agrément des produits bénéficiant d'une appellation d'origine est placé sous
+la responsabilité de l'Institut national de l'origine et de la qualité. Il peut
+en déléguer par convention tout ou partie de l'organisation à l'organisme agréé
+visé à l'article L. 641-10.
 
-3° De délivrer un label rouge en méconnaissance de l'article L. 641-2 du code
-rural ;
+"Le contrôle du respect du cahier des charges des produits bénéficiant d'une
+indication géographique protégée est placé sous la responsabilité de l'Institut
+national de l'origine et de la qualité, qui peut en déléguer par convention
+l'exercice à l'organisme certificateur agréé conformément à l'article L. 643-5
+pour la délivrance du label ou de la certification de conformité sur lequel
+repose l'indication géographique protégée.
 
-4° D'utiliser ou de tenter d'utiliser frauduleusement un label rouge ;
+"Le non-respect de la délimitation de l'aire géographique, d'une des conditions
+de production ou de la procédure d'agrément ou de contrôle entraîne
+l'interdiction de l'utilisation, sous quelque forme que ce soit, du nom de
+l'appellation d'origine ou de l'indication géographique protégée, nonobstant
+l'application des peines prévues par l'article L. 115-16 du code de la
+consommation.
 
-5° D'apposer ou de faire apparaître, par addition, retranchement ou par une
-altération quelconque, sur des produits, naturels ou fabriqués, mis en vente ou
-destinés à être mis en vente, un label rouge en le sachant inexact ;
+"Le décret de l'appellation d'origine contrôlée ou le cahier des charges de
+l'indication géographique protégée peut comporter, pour toute personne
+intervenant dans les conditions de production, l'obligation de tenir un ou
+plusieurs registres ou d'effectuer toutes déclarations, propres à permettre la
+réalisation de l'agrément ou du contrôle du respect du cahier des charges.
 
-6° D'utiliser un mode de présentation faisant croire ou de nature à faire croire
-qu'un produit bénéficie d'un label rouge ;
+"L'Institut national de l'origine et de la qualité donne son avis sur les
+dispositions nationales relatives à l'étiquetage et à la présentation de chacun
+des produits relevant de sa compétence. Il peut être consulté sur toute question
+relative aux appellations d'origine ou aux indications géographiques protégées.
 
-7° De faire croire ou de tenter de faire croire qu'un produit assorti d'un label
-rouge est garanti par l'Etat ou par un organisme public.
+"Il contribue, en France et à l'étranger, à la promotion des appellations
+d'origine mentionnées au présent chapitre ainsi qu'à la défense des appellations
+d'origine protégées et des indications géographiques protégées.
 
-Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux
-qu'il désignera et son insertion intégrale ou par extraits dans les journaux
-qu'il indiquera, le tout aux frais du condamné.
+"Il peut, en France et à l'étranger, dans les mêmes conditions que les syndicats
+professionnels, constitués conformément aux dispositions du chapitre Ier du
+titre Ier du livre IV du code du travail, contribuer à la défense des
+appellations d'origine mentionnées dans le présent chapitre, ainsi que des
+appellations d'origine protégées, collaborer à cet effet avec les syndicats
+formés pour la défense de ces appellations et ester en justice pour cette
+défense.
+
+"Les agents de l'Institut national de l'origine et de la qualité peuvent, à la
+demande de l'institut, être agréés et commissionnés conformément au 8° de
+l'article L. 215-1 du code de la consommation et avec des pouvoirs qui ne
+peuvent excéder ceux prévus à l'article L. 215-2 de ce même code en vue de
+contribuer à l'application des lois et règlements relatifs aux conditions de
+production des produits agricoles ou alimentaires, bruts ou transformés,
+bénéficiant d'une appellation d'origine ou d'une indication géographique
+protégée".

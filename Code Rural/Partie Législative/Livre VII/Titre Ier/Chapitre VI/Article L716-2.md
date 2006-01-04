@@ -36,7 +36,7 @@ familles.
 Les employeurs qui, en raison de l'accroissement de leur effectif, atteignent ou
 dépassent l'effectif de cinquante salariés sont dispensés pendant trois ans du
 paiement de la cotisation relative à la participation. Le montant de leur
-participation est réduit de 75 %, 50 % et 25 %, respectivement chacune des trois
+participation est réduit de 75 % et 25 %, respectivement chacune des trois
 années suivant la dernière année de dispense.
 
 Les dispositions de l'alinéa précédent ne sont pas applicables lorsque
@@ -47,6 +47,11 @@ années précédentes.
 Dans ce cas, l'obligation visée au premier alinéa est due dans les conditions de
 droit commun dès l'année au cours de laquelle l'effectif de cinquante salariés
 est atteint ou dépassé.
+
+Les dispositions du chapitre III du titre Ier du livre III du code de la
+construction et de l'habitation sont applicables à la définition, à la collecte,
+à l'utilisation et au contrôle des sommes mentionnées au premier alinéa sous
+réserve des dispositions particulières du présent article.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil
 d'Etat.

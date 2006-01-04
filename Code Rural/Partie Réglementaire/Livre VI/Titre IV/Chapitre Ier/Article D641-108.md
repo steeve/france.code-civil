@@ -9,7 +9,7 @@ producteurs vendeurs de fruits, des acheteurs de fruits élaborateurs de produit
 en appellation d'origine contrôlée et, d'une manière générale, de tout opérateur
 de la filière intervenant dans les conditions de production ;
 
-2° Un "certificat d'agrément" délivré par les services de l'Institut national
-des appellations d'origine, sous réserve que la déclaration d'aptitude n'ait pas
+2° Un "certificat d'agrément" délivré par les services de l'Institut national de
+l'origine et de la qualité, sous réserve que la déclaration d'aptitude n'ait pas
 été invalidée, et attestant de la conformité du produit après les examens
 analytique et organoleptique.

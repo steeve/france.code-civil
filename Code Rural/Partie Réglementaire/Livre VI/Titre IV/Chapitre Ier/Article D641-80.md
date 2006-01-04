@@ -10,8 +10,8 @@ générales auxquelles le vin peut prétendre.
 II. - Toutefois, en cas de dépassement du plafond limite de classement, et dans
 la limite le cas échéant du rendement maximum de production défini à l'article
 D. 641-78, le droit à l'appellation d'origine contrôlée peut être accordé, dans
-la limite de ce plafond limite de classement, par l'Institut national des
-appellations d'origine aux quantités effectives produites sous réserve :
+la limite de ce plafond limite de classement, par l'Institut national de
+l'origine et de la qualité aux quantités effectives produites sous réserve :
 
 1° Que les conditions de production de la totalité des vins produits dans
 l'exploitation pour lesquels l'appellation d'origine contrôlée est revendiquée
@@ -70,8 +70,9 @@ document, le millésime de l'AOC distillée figure immédiatement après la ment
 
 Pour le volume substituable individuel, le certificat d'agrément prévu à
 l'article D. 641-94 du code rural est délivré au producteur en une seule fois
-après présentation aux services de l'INAO au plus tard le 31 juillet suivant
-l'année de récolte de la preuve de destruction prévue au point 3 ci-dessus.
+après présentation aux services de l'Institut national de l'origine et de la
+qualité au plus tard le 31 juillet suivant l'année de récolte de la preuve de
+destruction prévue au point 3 ci-dessus.
 
 En cas de non-respect des dispositions prévues aux alinéas précédents du présent
 article, les vins revendiqués au titre du volume substituable individuel sont
@@ -81,7 +82,7 @@ présent article.
 La liste des appellations d'origine contrôlées pour lesquelles un volume
 substituable individuel est mis en place ainsi que la limite maximale de
 revendication pour chacune de ces appellations sont fixées par décision du
-Comité national des vins et eaux-de-vie de l'Institut national des appellations
-d'origine, prise après avis du syndicat de défense de l'appellation d'origine en
-cause. Cette décision est approuvée par arrêté conjoint des ministres concernés,
-conformément à l'article R. 641-56 du code rural.
+Comité national des vins et eaux-de-vie de l'Institut national de l'origine et
+de la qualité, prise après avis du syndicat de défense de l'appellation
+d'origine en cause. Cette décision est approuvée par arrêté conjoint des
+ministres concernés, conformément à l'article R. 641-56 du code rural.

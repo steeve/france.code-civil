@@ -3,8 +3,8 @@ Article D641-7
 La déclaration d'aptitude mentionnée à l'article D. 641-6 comporte l'engagement
 de respecter les conditions de production fixées par décret pour chacune des
 appellations d'origine contrôlées concernées, ainsi que les normes sanitaires en
-vigueur. Elle est enregistrée par les services de l'Institut national des
-appellations d'origine.
+vigueur. Elle est enregistrée par les services de l'Institut national de
+l'origine et de la qualité.
 
 Toutefois, aucune déclaration ne sera exigée des exploitations produisant du
 lait susceptible d'être destiné à la fabrication de produits pouvant bénéficier

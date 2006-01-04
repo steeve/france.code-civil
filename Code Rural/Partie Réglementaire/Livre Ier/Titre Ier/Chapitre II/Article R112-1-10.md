@@ -7,5 +7,5 @@ réputés favorables s'ils ne sont pas émis dans le délai de deux mois à comp
 de la réception du dossier.
 
 Si le changement d'affectation concerne une aire d'appellation, le préfet peut
-consulter l'Institut national des appellations d'origine suivant les modalités
-prévues à l'alinéa précédent.
+consulter l'Institut national de l'origine et de la qualité suivant les
+modalités prévues à l'alinéa précédent.

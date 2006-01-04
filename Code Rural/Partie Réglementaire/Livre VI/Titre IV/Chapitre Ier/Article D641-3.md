@@ -7,5 +7,5 @@ l'appellation pour désigner des produits similaires n'en bénéficiant pas.
 
 La période transitoire mentionnée à l'alinéa précédent est définie dans le
 décret de reconnaissance de l'appellation, sur proposition de l'Institut
-national des appellations d'origine, conformément aux dispositions de l'article
-L. 641-2.
+national de l'origine et de la qualité, conformément aux dispositions de
+l'article L. 641-2.

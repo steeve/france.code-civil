@@ -3,10 +3,10 @@ Article D641-103
 I. - Tout détenteur de rhum revendiqué en appellation d'origine contrôlée doit
 adresser une demande de certificat d'agrément, en double exemplaire, auprès de
 l'organisme agréé mentionné à l'article D. 641-100. Cet organisme doit
-transmettre immédiatement un exemplaire aux services de l'Institut national des
-appellations d'origine. Cette demande de certificat d'agrément est établie sur
-un imprimé agréé par l'Institut national des appellations d'origine et doit être
-souscrite avant toute demande de prélèvement.
+transmettre immédiatement un exemplaire aux services de l'Institut national de
+l'origine et de la qualité. Cette demande de certificat d'agrément est établie
+sur un imprimé agréé par l'Institut national de l'origine et de la qualité et
+doit être souscrite avant toute demande de prélèvement.
 
 II. - Les distillateurs doivent adresser leur demande de certificat d'agrément
 au plus tard quatre mois après la fin de la période de distillation définie à

@@ -9,9 +9,9 @@ proposition de l'organe délibérant de l'établissement public compétent en
 matière de plan local d'urbanisme ou sur proposition de l'établissement public
 compétent en matière de schéma de cohérence territoriale après accord du conseil
 municipal des communes intéressées, après avis de la chambre d'agriculture, de
-l'Institut national des appellations d'origine dans les zones d'appellation
+l'Institut national de l'origine et de la qualité dans les zones d'appellation
 d'origine contrôlée et de la commission départementale d'orientation de
-l'agriculture et enquête publique. L'existence de parcelles boisées de faible
+l'agriculture et enquête publique.L'existence de parcelles boisées de faible
 étendue au sein d'une telle zone ne fait pas obstacle à cette délimitation.
 
 Tout changement d'affectation ou de mode d'occupation du sol qui altère

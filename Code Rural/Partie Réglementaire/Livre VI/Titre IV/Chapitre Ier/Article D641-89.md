@@ -12,4 +12,4 @@ appellations d'origine.
 
 La déclaration de récolte est établie en tenant compte de cette présomption, à
 moins que la preuve contraire ne soit admise après enquête de l'Institut
-national des appellations d'origine.
+national de l'origine et de la qualité.

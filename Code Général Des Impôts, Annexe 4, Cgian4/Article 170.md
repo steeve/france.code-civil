@@ -37,7 +37,7 @@ l'office national des anciens combattants et victimes de guerre ;
 
 voies navigables de France ;
 
-l'office national interprofessionnel des céréales ;
+l'Office national interprofessionnel des grandes cultures ;
 
 les offices publics d'habitations à loyer modéré ;
 

@@ -1,7 +1,7 @@
 Article L641-13
 ----
-La consultation de l'Institut national des appellations d'origine dans le cadre
-de la procédure d'autorisation d'exploitation de carrières est définie au
+La consultation de l'Institut national de l'origine et de la qualité dans le
+cadre de la procédure d'autorisation d'exploitation de carrières est définie au
 cinquième alinéa de l'article L. 515-1 du code de l'environnement, ci-après
 reproduit :
 
