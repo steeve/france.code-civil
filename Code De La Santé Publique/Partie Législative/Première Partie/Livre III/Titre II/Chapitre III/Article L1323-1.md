@@ -28,6 +28,11 @@ articles L. 215-9 à L. 215-14, par les chapitres Ier, II, III et VI du titre II
 du livre II, par le chapitre VI du titre III du livre II, par l'article L.
 237-2.
 
+L'Agence française de sécurité sanitaire des aliments est également chargée de
+l'évaluation des produits phytopharmaceutiques, des adjuvants, des matières
+fertilisantes et des supports de culture pour l'application des dispositions du
+titre V du livre II du code rural.
+
 Pour l'accomplissement de ses missions, les laboratoires des services de l'Etat
 chargés du contrôle de la sécurité sanitaire des aliments et ceux qui leur sont
 rattachés sont mis à disposition de l'agence en tant que de besoin.
