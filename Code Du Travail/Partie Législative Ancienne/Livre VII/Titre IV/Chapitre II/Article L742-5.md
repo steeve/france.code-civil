@@ -7,11 +7,11 @@ humaine en mer, l'habitabilité à bord des navires et la prévention de la
 pollution.
 
 Les dispositions des articles L.230-2 à L. 230-5, L.231-2 (3° et 4°), L.
-231-2-1, L. 231-2-2, L. 231-3-1, L. 231-3-2, L. 231-5, L. 231-8, L. 231-8-1, L.
-231-8-2, L. 231-9, L. 231-10 et L. 231-11, celles du chapitre VI du titre III du
-livre II et celles des articles L. 263-1 à L. 263-2-2 et L. 263-3-1 à L. 263-7
-sont applicables aux entreprises d'armement maritime, sous réserve des
-dispositions suivantes :
+231-2-1, L. 231-2-2, L. 231-3-1, L. 231-3-2, L. 231-4, L. 231-5, L. 231-8, L.
+231-8-1, L. 231-8-2, L. 231-9, L. 231-10 et L. 231-11, celles du chapitre VI du
+titre III du livre II et celles des articles L. 263-1 à L. 263-2-2 et L. 263-3-1
+à L. 263-7 sont applicables aux entreprises d'armement maritime, sous réserve
+des dispositions suivantes :
 
 1° A l'article L. 263-1, les deuxième et troisième alinéas et, au premier
 alinéa, les mots : "Nonobstant les dispositions de l'article L. 231-4", et "la

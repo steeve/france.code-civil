@@ -1,12 +1,10 @@
 Article 89
 ----
-Les frais de rapatriement du marin débarqué en cours de route, après résiliation
-de l'engagement, par volonté commune des parties, sont réglés par les
-conventions des parties.
+L'armateur ne peut exiger du marin aucune participation aux frais de
+rapatriement.
 
-Sont à la charge du marin les frais de rapatriement du marin débarqué soit pour
-raison disciplinaire, soit à la suite d'une blessure ou d'une maladie contractée
-dans les conditions de l'article 80 ci-dessus.
+Sous réserve des dispositions de l'article 90, les frais de rapatriement sont à
+la charge de l'armateur.
 
-Sont à la charge de l'Etat les frais de rapatriement du marin débarqué pour
-passer en jugement et pour subir une peine.
+Le temps passé dans l'attente du rapatriement et la durée du voyage ne doivent
+pas être déduits des congés payés que le marin a acquis.

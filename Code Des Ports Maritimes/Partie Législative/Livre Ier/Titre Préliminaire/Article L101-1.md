@@ -9,4 +9,8 @@ livre Ier ;
 - les ports maritimes relevant des collectivités territoriales et de leurs
 groupements ;
 
-- les ports maritimes de Saint-Pierre-et-Miquelon, relevant de l'Etat.
+- dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les ports
+maritimes relevant de l'Etat ;
+
+- le port de Port-Cros, relevant, pour son aménagement, son entretien et sa
+gestion, du parc national de Port-Cros.

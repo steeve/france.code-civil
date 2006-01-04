@@ -24,3 +24,6 @@ la formation.
 
 Les règles d'administration des écoles de la marine marchande sont fixées par
 décret en Conseil d'Etat.
+
+Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles
+de la marine marchande.

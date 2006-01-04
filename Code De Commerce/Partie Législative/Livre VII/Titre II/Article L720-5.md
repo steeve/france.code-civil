@@ -68,9 +68,10 @@ commerciale ni prises en compte pour l'application du 3° du I ci-dessus.
 
 IV. - Les halles et marchés d'approvisionnement au détail, couverts ou non,
 établis sur les dépendances du domaine public et dont la création est décidée
-par le conseil municipal, ainsi que les parties du domaine public affecté aux
-gares ferroviaires d'une surface maximum de 1 000 mètres carrés, ne sont pas
-soumis à une autorisation d'exploitation commerciale.
+par le conseil municipal, les magasins accessibles aux seuls voyageurs munis de
+billets et situés dans l'enceinte des aéroports, ainsi que les parties du
+domaine public affecté aux gares ferroviaires d'une surface maximum de 1 000
+mètres carrés, ne sont pas soumis à une autorisation d'exploitation commerciale.
 
 V. - La création ou l'extension de garages ou de commerces de véhicules
 automobiles disposant d'atelier d'entretien et de réparation n'est pas soumise à

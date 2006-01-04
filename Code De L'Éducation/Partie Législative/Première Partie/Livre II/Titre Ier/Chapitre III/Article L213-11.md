@@ -29,7 +29,8 @@ les modalités financières du transfert, l'arbitrage du représentant de l'Etat
 dans le département prend en compte le montant des dépenses effectuées par le
 département au titre des compétences transférées à l'autorité compétente pour
 l'organisation des transports urbains au cours de l'année scolaire précédant le
-transfert.
+transfert, de sorte que soit assurée la compensation intégrale des moyens
+nécessaires à l'exercice de la compétence transférée.
 
 Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au
 titre des bourses de fréquentation scolaire, au titre du financement des frais

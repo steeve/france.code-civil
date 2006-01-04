@@ -1,8 +1,8 @@
 Article L325-2
 ----
-Pour l'application de l'article L. 325-1 et sur prescription de l'officier de
-police judiciaire territorialement compétent, les fonctionnaires de police en
-tenue et les militaires de la gendarmerie habilités à constater par
+Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de
+l'officier de police judiciaire territorialement compétent, les fonctionnaires
+de police en tenue et les militaires de la gendarmerie habilités à constater par
 procès-verbaux les contraventions à la police de la circulation routière
 peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du véhicule,
 manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule

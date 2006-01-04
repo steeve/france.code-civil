@@ -24,11 +24,12 @@ qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs
 dépendances, sont privés d'éléments indispensables à leur utilisation normale et
 insusceptibles de réparation immédiate à la suite de dégradations ou de vols.
 
-"Art. L. 325-1-1 - En cas de constatation d'un délit prévu par le présent code
-ou le code pénal pour lequel la peine de confiscation du véhicule est encourue,
-l'officier ou l'agent de police judiciaire peut, avec l'autorisation préalable
-du procureur de la République donnée par tout moyen, faire procéder à
-l'immobilisation et à la mise en fourrière du véhicule.
+"Art. L. 325-1-1 - En cas de constatation d'un délit ou d'une contravention de
+la cinquième classe prévu par le présent code ou le code pénal pour lequel la
+peine de confiscation du véhicule est encourue, l'officier ou l'agent de police
+judiciaire peut, avec l'autorisation préalable du procureur de la République
+donnée par tout moyen, faire procéder à l'immobilisation et à la mise en
+fourrière du véhicule.
 
 "Si la juridiction ne prononce pas la peine de confiscation du véhicule,
 celui-ci est restitué à son propriétaire, sous réserve des dispositions du
@@ -41,15 +42,15 @@ n'est restitué au condamné qu'à l'issue de la durée d'immobilisation fixée 
 la juridiction contre paiement des frais d'enlèvement et de garde en fourrière,
 qui sont à la charge de ce dernier.
 
-"Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de
-l'officier de police judiciaire territorialement compétent, les fonctionnaires
-de police en tenue et les militaires de la gendarmerie habilités à constater par
-procès-verbaux les contraventions à la police de la circulation routière
-peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du véhicule,
-manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule
-ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en
-utilisant, le cas échéant, les moyens autonomes de propulsion dont le véhicule
-est muni.
+"Art. L. 325-2 - Pour l'application des articles L. 325-1 et L. 325-1-1 et sur
+prescription de l'officier de police judiciaire territorialement compétent, les
+fonctionnaires de police en tenue et les militaires de la gendarmerie habilités
+à constater par procès-verbaux les contraventions à la police de la circulation
+routière peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du
+véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
+véhicule ou le faire conduire, en leur présence, vers le lieu de mise en
+fourrière en utilisant, le cas échéant, les moyens autonomes de propulsion dont
+le véhicule est muni.
 
 "La mise en fourrière peut également être prescrite par un chef de service de
 police municipale territorialement compétent ou l'agent de police judiciaire

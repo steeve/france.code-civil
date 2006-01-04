@@ -1,20 +1,26 @@
 Article 28
 ----
-Sauf les exceptions et dérogations prévues à l'article 30 ci-après, un repos
-complet d'une journée par semaine doit être accordé au marin lorsque
-l'engagement maritime est d'une durée supérieure à six jours.
+Sous réserve des dispositions prévues aux articles 29 et 30, le repos
+hebdomadaire est donné le dimanche.
 
-Le dimanche est le jour consacré au repos hebdomadaire.
-
-Sans préjudice d'accords collectifs plus favorables, les modalités d'application
-du présent article sont déterminées par un décret en Conseil d'Etat pour tenir
-compte des contraintes propres aux diverses activités maritimes, ainsi que du
-genre de navigation ou de la catégorie de personnel. Ce décret prévoit notamment
-les cas où l'armateur ou son représentant est admis à donner à tout ou partie de
-l'équipage le repos hebdomadaire selon l'une des modalités ci-après :
+Toutefois, pour tenir compte des contraintes propres aux activités maritimes,
+une convention ou un accord collectif, un accord d'entreprise ou d'établissement
+peuvent prévoir la prise du repos hebdomadaire :
 
 a) Par roulement ;
 
-b) De manière différée au retour au port de débarquement ;
+b) De manière différée, au retour au port ;
 
-c) De manière différée au cours du voyage dans un port d'escale.
+c) En cours de voyage, dans un port d'escale.
+
+Dans le cas où le repos hebdomadaire est différé, la convention ou l'accord doit
+prévoir des mesures compensatoires et préciser le délai maximum dans lequel il
+doit être pris.
+
+A défaut de convention ou d'accord collectif de travail, l'armateur fixe les
+modalités retenues, en se référant aux usages et après consultation du comité
+d'entreprise et des délégués de bord, s'ils existent. Il en informe l'inspecteur
+du travail maritime.
+
+Les modalités d'application du présent article, notamment le délai au-delà
+duquel le repos hebdomadaire ne peut être différé, sont fixées par décret.

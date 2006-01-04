@@ -34,33 +34,32 @@ défaut, par décret en Conseil d'Etat pris après consultation des organisation
 syndicales représentatives au plan national des employeurs et des salariés des
 secteurs d'activité intéressés.
 
-Il peut être dérogé à la durée quotidienne de travail fixée à l'alinéa précédent
+Il peut être dérogé à la durée quotidienne du travail fixée à l'alinéa précédent
 par convention ou accord collectif étendu ou par convention ou accord
 d'entreprise ou d'établissement, sous réserve que ces conventions ou accords
-prévoient en contrepartie des périodes de repos compensateur dont ils
-déterminent la durée. Pour les personnels roulants des entreprises de transport
-ferroviaire et les personnels des entreprises assurant la restauration ainsi que
-l'exploitation des places couchées dans les trains, ces conventions ou accords
-doivent prévoir des périodes équivalentes de repos compensateur. Pour les
-personnels navigants des entreprises de navigation intérieure, une convention ou
-un accord de branche peuvent déroger à la durée quotidienne du travail fixée à
-l'alinéa précédent, sous réserve de prévoir une durée quotidienne du travail des
-travailleurs de nuit qui n'excède pas douze heures par période de vingt-quatre
-heures et que ceux-ci bénéficient, outre des jours de repos et de congés légaux,
-de jours de repos supplémentaires en nombre suffisant.
+prévoient en contrepartie des périodes équivalentes de repos compensateur. Pour
+les personnels navigants des entreprises de navigation intérieure, une
+convention ou un accord de branche peuvent déroger à la durée quotidienne du
+travail fixée à l'alinéa précédent, sous réserve de prévoir une durée
+quotidienne du travail des travailleurs de nuit qui n'excède pas douze heures
+par période de vingt-quatre heures et que ceux-ci bénéficient, outre des jours
+de repos et de congés légaux, de jours de repos supplémentaires en nombre
+suffisant.
 
 Les dispositions des deux alinéas précédents ne sont pas applicables au
-personnel roulant des entreprises de transport routier.
+personnel roulant des entreprises de transport routier, à l'exception de celui
+des entreprises de transport sanitaire.
 
 III. - La durée quotidienne du travail d'un salarié appartenant au personnel
-roulant d'une entreprise de transport routier ne peut excéder dix heures,
-conformément au second alinéa de l'article L. 212-1, lorsque ce salarié est un
-travailleur de nuit ou lorsqu'il accomplit, sur une période de vingt-quatre
-heures, une partie de son travail dans l'intervalle compris entre 24 heures et 5
-heures. Il ne peut être dérogé à ces dispositions qu'en cas de circonstances
-exceptionnelles dans des conditions et selon des modalités fixées par décret,
-après consultation des organisations syndicales représentatives au plan national
-des employeurs et des salariés du secteur.
+roulant d'une entreprise de transport routier, à l'exception de celui des
+entreprises de transport sanitaire, ne peut excéder dix heures, conformément au
+second alinéa de l'article L. 212-1, lorsque ce salarié est un travailleur de
+nuit ou lorsqu'il accomplit, sur une période de vingt-quatre heures, une partie
+de son travail dans l'intervalle compris entre 24 heures et 5 heures. Il ne peut
+être dérogé à ces dispositions qu'en cas de circonstances exceptionnelles dans
+des conditions et selon des modalités fixées par décret, après consultation des
+organisations syndicales représentatives au plan national des employeurs et des
+salariés du secteur.
 
 IV. - Les dispositions de l'article L. 213-3 ne sont pas applicables aux
 salariés relevant du présent article.

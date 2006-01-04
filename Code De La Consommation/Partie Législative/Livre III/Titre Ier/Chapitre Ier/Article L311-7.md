@@ -9,3 +9,6 @@ cours des trente derniers jours précédant le début de la publicité ou de
 l'offre. Le vendeur doit, en outre, proposer un prix pour paiement comptant
 inférieur à la somme proposée pour l'achat à crédit ou la location et calculé
 selon des modalités fixées par décret.
+
+Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés au
+financement d'une formation à la conduite et à la sécurité routière.

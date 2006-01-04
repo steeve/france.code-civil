@@ -8,7 +8,8 @@ et 1° ter de l'article 21 du code de procédure pénale et, d'autre part, les
 agents des douanes, peuvent procéder à la fouille et à la visite par tous moyens
 appropriés des personnes, des bagages, du fret, des colis postaux, des aéronefs
 et des véhicules pénétrant ou se trouvant dans les zones non librement
-accessibles au public des aérodromes et de leurs dépendances.
+accessibles au public des aérodromes et de leurs dépendances, ou sortant de
+celles-ci.
 
 Sont également habilités à procéder à ces fouilles et visites, sous le contrôle
 des officiers de police judiciaire ou des agents des douanes, les agents de
@@ -22,8 +23,10 @@ qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité
 doit être faite par une personne du même sexe que la personne qui en fait
 l'objet.
 
-Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque
-l'octroi ou le maintien de ceux-ci apparaissent incompatibles avec l'exercice
+Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque la
+moralité de la personne ou son comportement ne présentent pas les garanties
+requises au regard de la sûreté de l'Etat, de la sécurité publique, de la
+sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice
 des missions susmentionnées.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent I.
