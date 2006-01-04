@@ -83,8 +83,8 @@ II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, so
 réserve que l'acquéreur prenne, dans l'acte d'acquisition, l'engagement, pour
 lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme
 d'un délai d'un an à compter de la date du transfert de propriété, que le bien
-acquis a été donné à bail à long terme à un jeune agriculteur bénéficiaire des
-aides à l'installation.
+acquis a été donné à bail à long terme ou à bail cessible à un jeune agriculteur
+bénéficiaire des aides à l'installation.
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une
 valeur globale n'excédant pas 99 000 euros.

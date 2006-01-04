@@ -1,6 +1,6 @@
 Article L321-1
 ----
-Lorsque des époux exploitent ensemble et pour leur compte un même fonds
+Lorsque des époux exploitent ensemble et pour leur compte une même exploitation
 agricole, ils sont présumés s'être donné réciproquement mandat d'accomplir les
 actes d'administration concernant les besoins de l'exploitation.
 

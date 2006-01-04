@@ -10,14 +10,12 @@ excéder trois ans. Toutefois, pour une superficie inférieure à deux fois la
 surface minimum d'installation, cette durée peut être portée à six ans,
 renouvelable une seule fois.
 
-Dans les départements d'outre-mer, quelle que soit la superficie des immeubles
-ruraux mis à disposition, la durée des conventions est de six ans au maximum,
-renouvelable une fois. Il en va de même pour les immeubles ruraux situés dans
-les périmètres de protection et d'aménagement des espaces naturels et agricoles
-délimités en application de l'article L. 143-2 du code de l'urbanisme, ainsi que
-pour les conventions portant sur la mise à disposition, pour un usage de
-pâturage extensif saisonnier, d'immeubles ruraux situés dans les communes
-mentionnées à l'article L. 113-2.
+La durée des conventions est de six ans au maximum, renouvelable une fois, pour
+les immeubles ruraux situés dans les périmètres de protection et d'aménagement
+des espaces naturels et agricoles délimités en application de l'article L. 143-2
+du code de l'urbanisme, ainsi que pour les conventions portant sur la mise à
+disposition, pour un usage de pâturage extensif saisonnier, d'immeubles ruraux
+situés dans les communes mentionnées à l'article L. 113-2 du présent code.
 
 A cet effet, la société d'aménagement foncier et d'établissement rural consent
 des baux qui ne sont soumis aux règles résultant du statut du fermage que pour
@@ -34,6 +32,6 @@ Le régime spécial des droits de timbre et d'enregistrement applicable aux
 conventions conclues en application du premier alinéa du présent article est
 régi par l'article 1028 quater du code général des impôts ci-après reproduit :
 
-"Art. 1028 quater : Les conventions conclues en application des premier et
-deuxième alinéas de l'article L. 142-6 du code rural sont exonérées des droits
-de timbre et d'enregistrement".
+" Art. 1028 quater : Les conventions conclues en application du premier alinéa
+de l'article L. 142-6 et de l'article L. 144-6 du code rural sont exonérées des
+droits d'enregistrement. "

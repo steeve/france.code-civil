@@ -1,7 +1,6 @@
 Article L331-3
 ----
-L'autorité administrative, après avis de la commission départementale
-d'orientation de l'agriculture, se prononce sur la demande d'autorisation en se
+L'autorité administrative se prononce sur la demande d'autorisation en se
 conformant aux orientations définies par le schéma directeur départemental des
 structures agricoles applicable dans le département dans lequel se situe le
 fonds faisant l'objet de la demande. Elle doit notamment :
@@ -15,7 +14,7 @@ l'autonomie de l'exploitation faisant l'objet de la demande ;
 les possibilités d'installation sur une exploitation viable ont été considérées
 ;
 
-3° Prendre en compte les références de production ou droits à aide dont
+3° Prendre en compte les biens corporels ou incorporels attachés au fonds dont
 disposent déjà le ou les demandeurs ainsi que ceux attachés aux biens objets de
 la demande en appréciant les conséquences économiques de la reprise envisagée ;
 
@@ -36,7 +35,9 @@ jouissance ne remettent en cause des aménagements réalisés à l'aide de fonds
 publics ;
 
 8° Prendre en compte la poursuite d'une activité agricole bénéficiant de la
-certification du mode de production biologique.
+certification du mode de production biologique ;
+
+9° Tenir compte de l'intérêt environnemental de l'opération.
 
 L'autorisation peut n'être délivrée que pour une partie de la demande, notamment
 si certaines des parcelles sur lesquelles elle porte font l'objet d'autres

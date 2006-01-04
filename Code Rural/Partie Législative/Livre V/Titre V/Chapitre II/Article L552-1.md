@@ -7,13 +7,16 @@ spécialisée peuvent se grouper pour constituer, dans une région déterminée,
 pour un même secteur de produits tel qu'il est défini au 2° de l'article L.
 551-1 un comité économique agricole.
 
-Les comités économiques agricoles doivent être soit des syndicats agricoles
-régis par le livre IV du code du travail, soit des associations régies par la
-loi du 1er juillet 1901 ; toutefois, l'adhésion ne peut être refusée à une
-organisation de producteurs reconnu qui en ferait la demande.
-
 Les comités économiques agricoles édictent des règles communes à leurs membres.
 
 Les comités économiques agricoles contribuent à la mise en oeuvre des politiques
 économiques nationales et communautaires et peuvent être consultés sur les
 orientations de la politique de filière les concernant.
+
+Les associations d'organisations de producteurs reconnues comités économiques
+agricoles pourront prendre, en conformité avec les règlements communautaires,
+des dispositions pour mettre en oeuvre un fonds de mutualisation commun aux
+organisations de producteurs de leur circonscription visant à lutter contre les
+crises et à en atténuer les effets sur le revenu des producteurs notamment par
+des interventions sur le marché. Ce fonds pourra être alimenté par des
+contributions des membres du comité.

@@ -11,6 +11,7 @@ du preneur, qui reste seul titulaire du bail. Les droits du bailleur ne sont pas
 modifiés. Toutefois, le groupement est tenu solidairement avec le preneur de
 l'exécution des clauses du bail.
 
-L'agrément du bailleur est nécessaire en cas de métayage ; le preneur doit alors
-convenir avec le propriétaire et le groupement de la manière dont seront
-identifiés les fruits de l'exploitation en vue des partages à opérer.
+Le bailleur et le métayer conviennent alors avec la société de la manière dont
+seront identifiés les fruits de l'exploitation en vue des partages à opérer. En
+cas de désaccord, ces conditions sont déterminées par le tribunal paritaire des
+baux ruraux saisi à la diligence de l'une ou l'autre des parties.

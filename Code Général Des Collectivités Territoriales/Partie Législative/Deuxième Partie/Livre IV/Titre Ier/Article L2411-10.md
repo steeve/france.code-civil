@@ -6,17 +6,18 @@ biens de la section dont les fruits sont perçus en nature.
 
 Les terres à vocation agricole ou pastorale propriétés de la section sont
 attribuées par bail rural ou par convention pluriannuelle de pâturage conclue
-dans les conditions prévues à l'article L. 481-1 du code rural au profit des
-exploitants agricoles ayant un domicile réel et fixe, ainsi que le siège
-d'exploitation sur la section. L'autorité municipale peut attribuer, le cas
-échéant, le reliquat de ces biens au profit d'exploitants agricoles sur la
-section ayant un bâtiment d'exploitation hébergeant pendant la période hivernale
-leurs animaux sur la section, ou à défaut au profit de personnes exploitant des
-biens sur le territoire de la section et résidant sur le territoire de la
-commune ; à titre subsidiaire, elle peut attribuer ce reliquat au profit de
-personnes exploitant seulement des biens sur le territoire de la section ou, à
-défaut, au profit des exploitants ayant un bâtiment d'exploitation sur le
-territoire de la commune.
+dans les conditions prévues à l'article L. 481-1 du code rural ou par convention
+de mise à disposition d'une société d'aménagement foncier et d'établissement
+rural au profit des exploitants agricoles ayant un domicile réel et fixe, ainsi
+que le siège d'exploitation sur la section.L'autorité municipale peut attribuer,
+le cas échéant, le reliquat de ces biens au profit d'exploitants agricoles sur
+la section ayant un bâtiment d'exploitation hébergeant pendant la période
+hivernale leurs animaux sur la section, ou à défaut au profit de personnes
+exploitant des biens sur le territoire de la section et résidant sur le
+territoire de la commune ; à titre subsidiaire, elle peut attribuer ce reliquat
+au profit de personnes exploitant seulement des biens sur le territoire de la
+section ou, à défaut, au profit des exploitants ayant un bâtiment d'exploitation
+sur le territoire de la commune.
 
 Pour toutes les catégories précitées, les exploitants devront remplir les
 conditions prévues par les articles L. 331-2 à L. 331-5 du code rural et celles

@@ -1,16 +1,18 @@
 Article 72 D ter
 ----
 I. - Les déductions prévues aux articles 72 D et 72 D bis sont plafonnées à un
-montant global fixé, par exercice, soit à 3 000 Euros dans la limite du
-bénéfice, soit à 40 % du bénéfice dans la limite de 12 000 Euros. Ce montant est
-majoré de 20 % de la fraction de bénéfice comprise entre 30 000 Euros et 76 000
-Euros. Lorsque le bénéfice de l'exercice excède cette dernière limite et que le
-résultat du même exercice est supérieur d'au moins 40 % à la moyenne des
-résultats des trois exercices précédents, l'exploitant peut pratiquer un
-complément de déduction pour aléas, dans les conditions prévues à l'article 72 D
-bis et dans la limite du bénéfice, à hauteur de 500 euros par salarié équivalent
-temps plein. Pour le calcul de la moyenne des résultats des trois exercices
-précédents, il n'est pas tenu compte des reports déficitaires.
+montant global fixé, par exercice, soit à 4 000 euros dans la limite du
+bénéfice, soit à 40 % du bénéfice dans la limite de 16 000 euros. Ce montant est
+majoré de 20 % de la fraction de bénéfice comprise entre 40 000 euros et 90 000
+euros. Lorsque le bénéfice de l'exercice excède cette dernière limite,
+l'exploitant peut pratiquer un complément de déduction pour aléas, dans les
+conditions prévues à l'article 72 D bis et dans la limite du bénéfice, à hauteur
+de 4 000 euros. Lorsque le résultat de l'exercice est supérieur d'au moins 20 %
+à la moyenne des résultats des trois exercices précédents, l'exploitant peut
+pratiquer un complément de déduction pour aléas, dans les conditions prévues à
+l'article 72 D bis et dans la limite du bénéfice, à hauteur de 500 euros par
+salarié équivalent temps plein. Pour le calcul de la moyenne des résultats des
+trois exercices précédents, il n'est pas tenu compte des reports déficitaires.
 
 Lorsque le ou les salariés de l'exploitation ne sont employés qu'à temps partiel
 ou sur une fraction seulement de l'année civile, la conversion en équivalent

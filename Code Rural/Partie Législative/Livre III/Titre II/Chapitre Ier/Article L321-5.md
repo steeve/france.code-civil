@@ -17,15 +17,9 @@ sous la forme d'une société peut également prétendre au statut de collaborat
 lorsqu'il y exerce son activité professionnelle et n'est pas associé de ladite
 société.
 
-L'option pour la qualité de collaborateur doit être formulée par le conjoint en
-accord avec le chef d'exploitation ou d'entreprise agricole et, le cas échéant,
-la société d'exploitation dans des conditions prévues par décret en Conseil
-d'Etat.
-
-L'option prend effet à compter du 1er janvier de l'année en cours si l'intéressé
-remplissait à cette date les conditions prévues aux deux premiers alinéas du
-présent article et si elle est formulée avant le 1er juillet. Dans le cas
-contraire, elle prend effet au 1er janvier suivant.
+L'option pour le statut de conjoint collaborateur est formulée selon des
+modalités précisées par décret en Conseil d'Etat et prend effet à compter de la
+date à laquelle l'intéressé remplit les conditions prévues au présent article.
 
 Par dérogation, l'option formulée avant le 1er janvier 2001 prend effet au 1er
 janvier 1999 si le conjoint remplissait, à cette dernière date, les conditions
@@ -39,3 +33,22 @@ salariées des professions agricoles dans les conditions prévues aux chapitres 
 et IV-1 du titre II du livre VII lorsque son conjoint relève du régime agricole,
 ainsi que d'une créance de salaire différé dans les conditions prévues au
 chapitre Ier du titre II du livre III (nouveau).
+
+A compter du 1er janvier 2006, le conjoint du chef d'exploitation ou
+d'entreprise agricole exerçant sur l'exploitation ou au sein de l'entreprise une
+activité professionnelle régulière opte, selon des modalités précisées par
+décret en Conseil d'Etat, pour l'une des qualités suivantes :
+
+- collaborateur du chef d'exploitation ou d'entreprise agricole ;
+
+- salarié de l'exploitation ou de l'entreprise agricole ;
+
+- chef d'exploitation ou d'entreprise agricole.
+
+Par dérogation à ces dispositions, les conjoints de chef d'exploitation ou
+d'entreprise agricole mentionnés à l'article L. 732-34 peuvent conserver leur
+qualité.
+
+Les dispositions du présent article sont également applicables aux personnes qui
+sont liées par un pacte civil de solidarité ou qui vivent en concubinage avec le
+chef d'exploitation ou d'entreprise agricole.

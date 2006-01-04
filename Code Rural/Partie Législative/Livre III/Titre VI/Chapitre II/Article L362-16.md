@@ -2,10 +2,8 @@ Article L362-16
 ----
 Un prêt aux victimes des calamités agricoles peut être accordé aux personnes
 susceptibles d'être indemnisées par le fonds de garantie des calamités agricoles
-des départements d'outre-mer. La prise en charge d'une part de l'intérêt est
-assumée par ce fonds dans les conditions prévues au troisième alinéa de
-l'article L. 361-13. Les dispositions des deux premiers alinéas de l'article L.
-361-13 ne sont pas applicables.
+des départements d'outre-mer. Les dispositions des deux premiers alinéas de
+l'article L. 361-13 ne sont pas applicables.
 
 La somme totale perçue par un sinistré soit au titre de l'indemnisation prévue
 par le présent chapitre, soit au titre de la prise en charge réelle du prêt

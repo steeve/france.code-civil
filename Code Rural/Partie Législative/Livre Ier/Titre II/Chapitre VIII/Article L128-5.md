@@ -11,20 +11,24 @@ d'exploiter est attribué en priorité à un demandeur agriculteur qui s'install
 ou à un exploitant agricole à titre principal.
 
 L'autorisation d'exploiter emporte de plein droit l'existence d'un bail à ferme
-soumis aux dispositions du titre VI du livre IV du présent code. A défaut
-d'accord amiable entre le propriétaire et le bénéficiaire de l'autorisation,
-ainsi que dans le cas où un mandataire a été désigné, le tribunal paritaire des
-baux ruraux fixe le prix du fermage.
+soumis aux dispositions du titre VI du livre IV. Dès la notification de
+l'autorisation au bénéficiaire et au propriétaire ou à son mandataire, le
+bénéficiaire peut entrer dans les lieux.A défaut d'accord amiable entre le
+propriétaire ou le mandataire et le bénéficiaire de l'autorisation d'exploiter
+dans les deux mois de la notification de cette dernière sur le prix du fermage,
+le préfet fixe le montant de l'indemnité d'occupation due par le bénéficiaire au
+propriétaire jusqu'à l'intervention de cet accord ou, à défaut, jusqu'à la
+fixation du prix du fermage par le tribunal paritaire des baux ruraux saisi par
+la plus diligente des parties. La saisine du tribunal ne suspend ni l'entrée
+dans les lieux, ni le versement de l'indemnité par le bénéficiaire de
+l'autorisation d'exploiter.
 
 La société d'aménagement foncier et d'établissement rural peut demander à
-bénéficier de l'autorisation d'exploiter. Cette demande ne peut être effectuée
-qu'à la condition qu'une collectivité publique se soit engagée, à défaut de
-candidat, à devenir titulaire du bail dans les délais prévus à l'article L.
-142-4. Cette collectivité peut librement céder le bail ou sous-louer, nonobstant
-les dispositions de l'article L. 461-7. Si l'autorisation d'exploiter lui est
-accordée, la société d'aménagement foncier et d'établissement rural doit,
-nonobstant les dispositions dudit article L. 461-7, céder le bail dans les
-délais prévus à l'article L. 142-4.
+bénéficier de l'autorisation d'exploiter et à devenir titulaire du bail pour une
+durée maximale de cinq ans. Si l'autorisation d'exploiter lui est accordée, elle
+peut, nonobstant les dispositions de l'article L. 461-7, céder le bail ou
+sous-louer dans les délais précités. Il en est de même lorsqu'une personne
+publique s'est engagée à devenir titulaire de ce bail dans ces mêmes délais.
 
 Si l'autorisation d'exploiter porte sur un fonds donné à bail, ledit bail prend
 fin sans indemnité à la date de notification à l'ancien titulaire du droit

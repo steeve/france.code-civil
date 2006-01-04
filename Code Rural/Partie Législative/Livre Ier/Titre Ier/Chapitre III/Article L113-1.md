@@ -26,10 +26,14 @@ interprofessionnelles reconnues ;
 
 4° Assurer la préservation des terres agricoles, pastorales et forestières ;
 
-5° Prendre en compte les handicaps naturels de l'agriculture et favoriser, par
-des mesures particulières, le financement des investissements et le
-fonctionnement des services collectifs d'assistance technique aux exploitants et
-à leurs groupements ;
+5° Prendre en compte les handicaps naturels de l'agriculture par des mesures
+particulières visant notamment à compenser financièrement les surcoûts qu'ils
+génèrent, ainsi qu'à financer les investissements et le fonctionnement des
+services collectifs d'assistance technique aux exploitations et à leurs
+groupements ;
 
 6° Faciliter, en tant que de besoin, la pluriactivité par la complémentarité des
-activités économiques.
+activités économiques ;
+
+7° Conforter la fonction environnementale de l'activité agricole en montagne,
+notamment par la voie contractuelle.

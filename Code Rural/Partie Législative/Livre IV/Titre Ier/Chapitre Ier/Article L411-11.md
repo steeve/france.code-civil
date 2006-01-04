@@ -3,9 +3,11 @@ Article L411-11
 Le prix de chaque fermage est établi en fonction, notamment, de la durée du
 bail, compte tenu d'une clause de reprise éventuellement en cours de bail, de
 l'état et de l'importance des bâtiments d'habitation et d'exploitation, de la
-qualité des sols ainsi que de la structure parcellaire du bien loué. Ce prix est
-constitué, d'une part, du loyer des bâtiments d'habitation et, d'autre part, du
-loyer des bâtiments d'exploitation et des terres nues.
+qualité des sols ainsi que de la structure parcellaire du bien loué et, le cas
+échéant, de l'obligation faite au preneur de mettre en oeuvre des pratiques
+culturales respectueuses de l'environnement en application de l'article L.
+411-27. Ce prix est constitué, d'une part, du loyer des bâtiments d'habitation
+et, d'autre part, du loyer des bâtiments d'exploitation et des terres nues.
 
 Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des
 minima qui sont arrêtés par l'autorité administrative. Ce loyer ainsi que les
@@ -76,3 +78,7 @@ des dispositions figurant au premier alinéa de l'article L. 411-13, être révi
 que lors du renouvellement ou, s'il s'agit d'un bail à long terme, en début de
 chaque nouvelle période de neuf ans. A défaut d'accord amiable, le tribunal
 paritaire des baux ruraux fixe le nouveau prix du bail.
+
+Les minima arrêtés par l'autorité administrative ne s'appliquent pas au loyer
+lorsque le bail comporte des clauses mentionnées au quatrième alinéa de
+l'article L. 411-27.

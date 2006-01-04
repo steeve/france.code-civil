@@ -8,9 +8,12 @@ locales de l'espace agricole et forestier ;
 
 2° Améliorer l'équilibre démographique entre les zones urbaines et rurales ;
 
-3° Maintenir et développer la production agricole et forestière tout en
-intégrant les fonctions environnementales et sociales de ces activités et en
-organisant leur coexistence avec les activités non agricoles ;
+3° Maintenir et développer les productions agricole et forestière, tout en
+organisant leur coexistence avec les activités non agricoles et en intégrant les
+fonctions sociales et environnementales de ces activités, notamment dans la
+lutte contre l'effet de serre grâce à la valorisation de la biomasse, au
+stockage durable du carbone végétal et à la maîtrise des émissions de gaz à
+effet de serre ;
 
 4° Assurer la répartition équilibrée des diverses activités concourant au
 développement du milieu rural ;

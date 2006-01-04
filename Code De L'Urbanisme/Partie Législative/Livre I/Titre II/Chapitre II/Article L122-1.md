@@ -2,8 +2,9 @@ Article L122-1
 ----
 Les schémas de cohérence territoriale exposent le diagnostic établi au regard
 des prévisions économiques et démographiques et des besoins répertoriés en
-matière de développement économique, d'aménagement de l'espace, d'environnement,
-d'équilibre social de l'habitat, de transports, d'équipements et de services.
+matière de développement économique, d'agriculture, d'aménagement de l'espace,
+d'environnement, d'équilibre social de l'habitat, de transports, d'équipements
+et de services.
 
 Ils présentent le projet d'aménagement et de développement durable retenu, qui
 fixe les objectifs des politiques publiques d'urbanisme en matière d'habitat, de
@@ -26,8 +27,8 @@ l'équipement commercial et artisanal, aux localisations préférentielles des
 commerces, à la protection des paysages, à la mise en valeur des entrées de
 ville et à la prévention des risques.
 
-Ils déterminent les espaces et sites naturels ou urbains à protéger et peuvent
-en définir la localisation ou la délimitation.
+Ils déterminent les espaces et sites naturels, agricoles ou urbains à protéger
+et peuvent en définir la localisation ou la délimitation.
 
 Ils peuvent définir les grands projets d'équipements et de services, en
 particulier de transport, nécessaires à la mise en oeuvre de ces objectifs. Ils

@@ -8,3 +8,6 @@ Sont exonérés de la taxe de publicité foncière :
 416-6, L. 416-8 et L. 416-9 du code rural ;
 
 3° (Transféré sous l'article 1594 J).
+
+4° Les baux cessibles conclus en application des articles L. 418-1 à L. 418-5 du
+code rural.

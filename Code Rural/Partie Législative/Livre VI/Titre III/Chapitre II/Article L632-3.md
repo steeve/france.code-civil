@@ -27,9 +27,20 @@ l'établissement de normes techniques, de programmes de recherche appliquée,
 d'expérimentation et de développement et par la réalisation d'investissements
 dans le cadre de ces programmes ;
 
-6° La promotion du produit sur les marchés intérieur et extérieur ;
+6° L'information relative aux filières et aux produits ainsi que leur promotion
+sur les marchés intérieur et extérieurs ;
 
-7° Les démarches collectives de leurs membres afin de lutter contre les aléas
-climatiques ;
+7° Les démarches collectives visant à lutter contre les risques et aléas liés à
+la production, à la transformation, à la commercialisation et à la distribution
+des produits agricoles et alimentaires ;
 
-8° La lutte contre les organismes nuisibles au sens de l'article L. 251-3.
+8° La lutte contre les organismes nuisibles au sens de l'article L. 251-3 ;
+
+9° Le développement des valorisations non alimentaires des produits ;
+
+10° La participation aux actions internationales de développement ;
+
+11° La contractualisation entre les membres des professions représentées dans
+l'organisation interprofessionnelle, notamment par la contribution à
+l'élaboration de contrats types comportant au minimum les clauses types
+énumérées à l'avant-dernier alinéa de l'article L. 441-2-1 du code de commerce.

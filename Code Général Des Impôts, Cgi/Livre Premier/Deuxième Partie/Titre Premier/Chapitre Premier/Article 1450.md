@@ -6,7 +6,8 @@ salants sont exonérés de la taxe professionnelle.
 En sont également exonérés les groupements d'employeurs constitués exclusivement
 d'exploitants individuels agricoles ou de sociétés civiles agricoles bénéficiant
 de l'exonération, et fonctionnant dans les conditions fixées au chapitre VII du
-titre II du livre Ier du code du travail.
+titre II du livre Ier du code du travail ainsi que les groupements d'intérêt
+économique constitués entre exploitations agricoles.
 
 Toutefois, ces dispositions ne s'appliquent pas à la production de graines,
 semences et plants effectuée par l'intermédiaire de tiers lorsque l'entreprise

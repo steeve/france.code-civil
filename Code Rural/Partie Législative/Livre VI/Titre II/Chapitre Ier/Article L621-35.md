@@ -16,6 +16,7 @@ consécutives.
 
 Cette radiation, qui comporte de droit l'interdiction d'acheter et de livrer des
 céréales, peut donner lieu, de la part des intéressés, à un recours devant le
-conseil central qui doit statuer dans le mois.
+conseil de direction spécialisé de la filière céréalière qui doit statuer dans
+le mois.
 
 Ce recours a un caractère suspensif.

@@ -1,11 +1,11 @@
 Article 42 septies
 ----
-1 Les subventions d'équipement accordées à une entreprise par l'Etat, les
-collectivités publiques ou tout autre organisme public à raison de la création
-ou de l'acquisition d'immobilisations déterminées ne sont pas comprises, sur
-option de l'entreprise, dans les résultats de l'exercice en cours à la date de
-leur attribution ; dans ce cas, elles sont imposables dans les conditions
-définies au présent article.
+1 Les subventions d'équipement accordées à une entreprise par l'Union
+européenne, l'Etat, les collectivités publiques ou tout autre organisme public à
+raison de la création ou de l'acquisition d'immobilisations déterminées ne sont
+pas comprises, sur option de l'entreprise, dans les résultats de l'exercice en
+cours à la date de leur attribution ; dans ce cas, elles sont imposables dans
+les conditions définies au présent article.
 
 Lorsqu'elles ont été utilisées à la création ou à l'acquisition d'une
 immobilisation amortissable, ces subventions sont rapportées aux bénéfices

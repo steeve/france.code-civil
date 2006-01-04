@@ -1,6 +1,6 @@
 Article L2411-6
 ----
-- Sous réserve des dispositions de l'article L. 2411-15, la commission syndicale
+Sous réserve des dispositions de l'article L. 2411-15, la commission syndicale
 délibère sur les objets suivants :
 
 1° Contrats passés avec la commune de rattachement ou une autre section de cette
@@ -37,5 +37,5 @@ délibération du conseil municipal.
 Ces dispositions ne s'appliquent pas lorsque la vente de biens sectionaux a pour
 but la réalisation d'un investissement nécessaire à l'exécution d'un service
 public, à l'implantation de lotissements ou à l'exécution d'opérations d'intérêt
-public dont la liste est fixée par décret en Conseil d'Etat. Dans cette
-hypothèse, seul le conseil municipal a compétence pour autoriser cette vente.
+public. Dans cette hypothèse, seul le conseil municipal a compétence pour
+autoriser cette vente.

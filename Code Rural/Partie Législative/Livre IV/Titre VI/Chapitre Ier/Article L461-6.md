@@ -1,6 +1,7 @@
 Article L461-6
 ----
-En cas de décès du preneur, son conjoint, ses ascendants et ses descendants qui
+En cas de décès du preneur, son conjoint ou le partenaire avec lequel il est lié
+par un pacte civil de solidarité, ses ascendants et ses descendants qui
 participent à l'exploitation ou qui y ont participé effectivement et de façon
 continue pendant au moins un an au cours des cinq années qui ont précédé le
 décès bénéficient conjointement du bail en cours. Ce dernier peut, toutefois,

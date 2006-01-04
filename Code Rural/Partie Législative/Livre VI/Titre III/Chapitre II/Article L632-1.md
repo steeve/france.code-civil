@@ -1,22 +1,33 @@
 Article L632-1
 ----
-I. - Les groupements constitués par les organisations professionnelles les plus
-représentatives de la production agricole et, selon les cas, de la
-transformation, de la commercialisation et de la distribution peuvent faire
-l'objet d'une reconnaissance en qualité d'organisations interprofessionnelles
-par l'autorité administrative compétente après avis du Conseil supérieur
-d'orientation et de coordination de l'économie agricole et alimentaire, soit au
-niveau national, soit au niveau d'une zone de production, par produit ou groupe
-de produits déterminés s'ils visent, en particulier par la conclusion d'accords
-interprofessionnels, à la fois :
+I. - Les groupements constitués à leur initiative par les organisations
+professionnelles les plus représentatives de la production agricole et, selon
+les cas, de la transformation, de la commercialisation et de la distribution
+peuvent faire l'objet d'une reconnaissance en qualité d'organisations
+interprofessionnelles par l'autorité administrative compétente après avis du
+Conseil supérieur d'orientation et de coordination de l'économie agricole et
+alimentaire, soit au niveau national, soit au niveau d'une zone de production,
+par produit ou groupe de produits déterminés s'ils visent, en particulier par la
+conclusion d'accords interprofessionnels, à la fois :
 
 - à définir et favoriser des démarches contractuelles entre leurs membres ;
 
-- à contribuer à la gestion des marchés, par une meilleure adaptation des
-produits aux plans quantitatif et qualitatif et par leur promotion ;
+- à contribuer à la gestion des marchés par une veille anticipative des marchés,
+par une meilleure adaptation des produits aux plans quantitatif et qualitatif et
+par leur promotion ;
 
 - à renforcer la sécurité alimentaire, en particulier par la traçabilité des
-produits, dans l'intérêt des utilisateurs et des consommateurs.
+produits, dans l'intérêt des utilisateurs et des consommateurs ;
+
+Les organisations interprofessionnelles peuvent également poursuivre d'autres
+objectifs, tendant notamment :
+
+- à favoriser le maintien et le développement du potentiel économique du secteur
+;
+
+- à favoriser le développement des valorisations non alimentaires des produits ;
+
+- à participer aux actions internationales de développement.
 
 Dans les mêmes conditions, pour le secteur de la pêche maritime et de
 l'aquaculture, les groupements constitués notamment par des associations ou des
@@ -100,3 +111,7 @@ demande de reconnaissance et aucun accord soumis par l'interprofession
 spécifique ne peut être étendu par l'autorité administrative susvisée en
 l'absence de règles de coordination établies entre elle et l'organisation
 générale et notifiées à l'autorité administrative susvisée.
+
+Les organisations interprofessionnelles reconnues pour un groupe de produits
+peuvent créer en leur sein des sections spécialisées compétentes pour un ou
+plusieurs de ces produits.

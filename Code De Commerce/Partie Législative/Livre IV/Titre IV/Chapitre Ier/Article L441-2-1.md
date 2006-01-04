@@ -18,9 +18,10 @@ interprofessionnelle reconnue pour le produit concerné et étendu en applicatio
 des dispositions des articles L. 632-3 et L. 632-4 du code rural, le contrat
 mentionné au premier alinéa doit être conforme à ce contrat type. Ce contrat
 type peut notamment comprendre des clauses types relatives aux engagements, aux
-modalités de détermination des prix mentionnés au deuxième alinéa et au principe
-de prix plancher, clauses types dont le contenu est élaboré dans le cadre de la
-négociation commerciale par les cocontractants.
+modalités de détermination des prix mentionnés au deuxième alinéa, aux
+calendriers de livraison, aux durées du contrat et au principe de prix plancher,
+clauses types dont le contenu est élaboré dans le cadre de la négociation
+commerciale par les cocontractants.
 
 Toute infraction aux dispositions du présent article est punie d'une amende de
 15 000 Euros.

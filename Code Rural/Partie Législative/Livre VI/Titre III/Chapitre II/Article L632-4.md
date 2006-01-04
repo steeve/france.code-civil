@@ -6,6 +6,11 @@ une décision unanime. Toutefois, pour les accords ne concernant qu'une partie
 des professions représentées dans ladite organisation, l'unanimité de ces seules
 professions est suffisante à condition qu'aucune autre profession ne s'y oppose.
 
+Lorsqu'un accord est proposé par une section créée en application du dernier
+alinéa du II de l'article L. 632-1, ses dispositions sont validées par la
+section puis adoptées par l'organisation interprofessionnelle dans les
+conditions prévues au premier alinéa du présent article.
+
 Lorsque l'extension est décidée, les mesures ainsi prévues sont obligatoires,
 dans la zone de production intéressée, pour tous les membres des professions
 constituant cette organisation interprofessionnelle.

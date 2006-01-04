@@ -1,10 +1,17 @@
 Article 265 bis A
 ----
-1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être
-utilisés comme carburant ou combustible, bénéficient, dans la limite des
-quantités fixées par agrément, d'une réduction de la taxe intérieure de
-consommation, dont les tarifs sont fixés au tableau B du 1 de l'article 265. A
-compter du 1er janvier 2006, cette réduction est fixée à :
+1. Compte tenu du bilan environnemental global, notamment en termes de lutte
+contre les émissions de gaz à effet de serre, de leur production et de leur
+consommation, les produits désignés ci-après, élaborés sous contrôle fiscal en
+vue d'être utilisés comme carburant ou combustible, bénéficient, dans la limite
+des quantités fixées par agrément, d'une réduction de la taxe intérieure de
+consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265.
+Cette réduction est modulée en fonction de l'évolution des cours des matières
+premières agricoles et des énergies fossiles et de la productivité des filières
+agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité
+des biocarburants par rapport aux carburants fossiles sans toutefois aboutir à
+une surcompensation de l'écart de prix de revient entre ces produits. A compter
+du 1er janvier 2006, cette réduction est fixée à :
 
 a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les
 esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique ;
@@ -31,11 +38,6 @@ des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool
 budget après avis du ministre chargé de l'agriculture et du ministre chargé de
 l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel
 des Communautés européennes.
-
-Toutefois, si ces unités de production n'ont pas pour objet principal la
-production d'huiles utilisées comme carburant ou comme combustible, elles ne
-sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une
-procédure de déclaration simplifiée définie par décret.
 
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par
 rapport aux agréments accordés en 2004 seront lancés par appel d'offres

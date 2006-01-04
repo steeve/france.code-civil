@@ -22,11 +22,11 @@ publicité de la déclaration de début d'exploitation transmise par l'exploitan
 au préfet.
 
 Elles ne sont pas non plus applicables aux décisions concernant les
-autorisations d'exploitation d'installations classées concourant à l'exécution
-de services publics locaux ou de services d'intérêt général pour lesquelles le
-délai de recours est fixé à un an à compter de l'achèvement des formalités de
-publicité de la déclaration de début d'exploitation transmise par l'exploitant
-au préfet.
+autorisations d'exploitation d'installations classées d'élevage, liées à
+l'élevage ou concourant à l'exécution de services publics locaux ou de services
+d'intérêt général pour lesquelles le délai de recours est fixé à un an à compter
+de l'achèvement des formalités de publicité de la déclaration de début
+d'exploitation transmise par l'exploitant au préfet.
 
 III. - Les tiers qui n'ont acquis ou pris à bail des immeubles ou n'ont élevé
 des constructions dans le voisinage d'une installation classée que

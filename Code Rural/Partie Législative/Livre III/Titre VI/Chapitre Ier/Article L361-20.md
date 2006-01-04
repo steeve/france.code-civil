@@ -1,7 +1,9 @@
 Article L361-20
 ----
-Un décret en Conseil d'Etat fixe les modalités d'application du présent
-chapitre, notamment en ce qui concerne la gestion du fonds national de garantie
-et son action dans le domaine de l'information et de la prévention, ainsi que
-les règles relatives à l'évaluation des dommages et à la fixation du montant des
-indemnités.
+Un décret fixe les modalités d'application du présent chapitre, notamment celles
+relatives à la gestion du fonds national de garantie des calamités agricoles, à
+l'évaluation des dommages et à la fixation des indemnités ; il précise également
+les conditions d'application de l'article L. 361-2 et tient compte de la
+fragilité accrue au regard des aléas de certains territoires, notamment ceux de
+montagne et des départements d'outre-mer, en particulier pour ce qui concerne la
+définition des dommages assurables.

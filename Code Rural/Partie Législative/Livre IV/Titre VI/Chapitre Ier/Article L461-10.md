@@ -9,9 +9,9 @@ et dont les membres appelés à en assumer la direction participent effectivemen
 aux travaux.
 
 Le bailleur peut également refuser le renouvellement du bail en vue d'installer
-un de ses descendants ou un descendant de son conjoint, majeur ou mineur
-émancipé de plein droit, qui devra exploiter le fonds dans les conditions fixées
-ci-dessus.
+un de ses descendants ou un descendant de son conjoint ou du partenaire avec
+lequel il est lié par un pacte civil de solidarité, majeur ou mineur émancipé de
+plein droit, qui devra exploiter le fonds dans les conditions fixées ci-desssus.
 
 Par dérogation aux dispositions de l'article L. 461-3, le droit de reprise prévu
 à l'alinéa qui précède peut être exercé en cours de bail à l'expiration de l'une

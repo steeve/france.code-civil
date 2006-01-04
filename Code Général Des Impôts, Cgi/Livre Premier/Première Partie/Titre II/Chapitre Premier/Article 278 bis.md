@@ -22,7 +22,7 @@ d) Du caviar ;
 3° Produits d'origine agricole, de la pêche, de la pisciculture et de
 l'aviculture n'ayant subi aucune transformation ;
 
-3° bis Produits suivants à usage domestique :
+3° bis Produits suivants :
 
 a. bois de chauffage ;
 

@@ -20,7 +20,11 @@ Sauf si elles relèvent du titre II du livre V du code rural, les sociétés
 coopératives existantes ont également la faculté de développer, au bénéfice
 exclusif de leurs membres, les activités mentionnées ci-dessus. Dans ce cas, les
 dispositions du présent chapitre leur sont applicables, dans des conditions
-fixées par décret en Conseil d'Etat.
+fixées par décret en Conseil d'Etat. Les coopératives d'utilisation de matériel
+agricole relevant du titre II du livre V du code rural ont également la faculté
+de développer, au bénéfice exclusif de leurs membres, les activités mentionnées
+ci-dessus dans des conditions et limites relatives à leur masse salariale fixées
+par décret.
 
 Lorsqu'un groupement d'employeurs se constitue, l'inspection du travail en est
 informée. La liste des membres du groupement est tenue en permanence à la

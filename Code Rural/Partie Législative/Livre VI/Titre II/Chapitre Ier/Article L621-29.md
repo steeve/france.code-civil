@@ -23,11 +23,12 @@ intéressés. Le transport du blé au moulin ou à la boulangerie se fait sous l
 couvert du titre de mouvement prévu à l'article L. 621-31, auquel sont
 obligatoirement annexés les bons d'échange correspondants.
 
-Le conseil central peut décider que les quantités dont l'échange est autorisé ne
-dépassent pas, pour chaque bénéficiaire, la moyenne des quantités effectivement
-échangées au cours des campagnes précédentes, sous réserve des modifications qui
-peuvent être apportées au contingent ainsi fixé au cas où le nombre des
-personnes vivant sous le toit dudit bénéficiaire a varié d'une année à l'autre.
+Le conseil de direction spécialisé de la filière céréalière peut décider que les
+quantités dont l'échange est autorisé ne dépassent pas, pour chaque
+bénéficiaire, la moyenne des quantités effectivement échangées au cours des
+campagnes précédentes, sous réserve des modifications qui peuvent être apportées
+au contingent ainsi fixé au cas où le nombre des personnes vivant sous le toit
+dudit bénéficiaire a varié d'une année à l'autre.
 
 Les blés d'échange détenus par les coopératives et par les meuniers ou
 boulangers échangistes doivent être logés ou classés séparément et faire l'objet
@@ -41,7 +42,8 @@ de blé nécessaires à leur consommation familiale dans les conditions du prés
 article. Ces quantités sont transportées sous titre de mouvement depuis la
 coopérative jusqu'à la minoterie ou boulangerie transformatrice. La liste des
 communes où ces pratiques peuvent être admises est fixée par arrêté du ministre
-de l'agriculture, sur avis du conseil central.
+de l'agriculture, sur avis du conseil de direction spécialisé de la filière
+céréalière.
 
 Pour bénéficier de ce régime, les intéressés doivent déclarer à la mairie les
 quantités de blé qu'ils désirent acquérir, ainsi que le moulin qui effectue la
