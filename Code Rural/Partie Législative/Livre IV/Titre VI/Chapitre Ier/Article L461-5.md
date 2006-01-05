@@ -11,13 +11,11 @@ doit, à peine de nullité, faire mention de cette disposition ;
 2° Soit d'abus de jouissance du preneur de nature à compromettre la bonne
 exploitation du fonds ;
 
-3° Soit de la non-exploitation directe de tout ou partie du bien considéré ;
+b) S'il veut changer la destination agricole sur des parcelles comprises dans le
+bail ; les dispositions de l'article L. 411-32 sont applicables.
 
-b) S'il veut reprendre une partie des terres en vue de les affecter à la
-construction lorsque le bien rural est inclus en tout ou partie dans un
-périmètre de construction ou, en l'absence de projet d'aménagement, s'il veut
-reprendre des parcelles nécessaires pour le développement des agglomérations
-existantes, lorsqu'un avis favorable a été donné préalablement par la commission
-consultative des baux ruraux, le directeur départemental de l'équipement
-entendu. Le preneur, à raison du préjudice qu'il subit a droit à une indemnité
-d'éviction fixée par le tribunal paritaire des baux ruraux.
+Le fait que le preneur applique sur les terres prises à bail des pratiques ayant
+pour objet la préservation de la ressource en eau, de la biodiversité, des
+paysages, de la qualité des produits, des sols et de l'air, la prévention des
+risques naturels et la lutte contre l'érosion ne peut être invoqué à l'appui
+d'une demande de résiliation formée en application du présent article.

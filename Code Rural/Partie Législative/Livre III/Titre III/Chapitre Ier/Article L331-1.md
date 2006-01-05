@@ -1,9 +1,10 @@
 Article L331-1
 ----
 Le contrôle des structures des exploitations agricoles s'applique à la mise en
-valeur des biens fonciers ruraux au sein d'une exploitation agricole, quels que
-soient la forme ou le mode d'organisation juridique de celle-ci, et le titre en
-vertu duquel la mise en valeur est assurée.
+valeur des terres agricoles ou des ateliers de production hors sol au sein d'une
+exploitation agricole, quels que soient la forme ou le mode d'organisation
+juridique de celle-ci, et le titre en vertu duquel la mise en valeur est
+assurée.
 
 Est qualifié d'exploitation agricole, au sens du présent chapitre, l'ensemble
 des unités de production mises en valeur directement ou indirectement par la

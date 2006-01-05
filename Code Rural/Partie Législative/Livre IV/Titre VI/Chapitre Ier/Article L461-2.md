@@ -6,6 +6,9 @@ conditions du contrat type établi, pour le département ou pour la région
 agricole du département dans laquelle se trouve le fonds, par une commission
 consultative départementale des baux ruraux.
 
+Le bail peut inclure les clauses mentionnées au quatrième alinéa de l'article L.
+411-27 dans les conditions fixées par cet article.
+
 Un arrêté du commissaire de la République du département pris après avis de
 ladite commission fixe, en tenant compte des besoins locaux, la nature et la
 superficie maximum des parcelles de terres ne constituant pas un corps de ferme

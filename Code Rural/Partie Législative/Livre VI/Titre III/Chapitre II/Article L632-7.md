@@ -37,9 +37,9 @@ Les services placés sous l'autorité des ministres chargés de l'économie, du
 budget, de l'agriculture et de la pêche, ainsi que les organismes placés sous
 leur tutelle, peuvent communiquer aux organisations interprofessionnelles
 reconnues en application de l'article L. 632-1 les informations directement
-disponibles relatives à la production, à la commercialisation et à la
-transformation des produits, qui sont nécessaires à l'accomplissement des
-missions définies aux articles L. 632-1 à L. 632-3, dans les conditions
-précisées par voie de convention, après avis de la Commission d'accès aux
-documents administratifs et de la Commission nationale de l'informatique et des
-libertés.
+disponibles relatives à la production, à la commercialisation, aux échanges
+extérieurs et à la transformation des produits, qui sont nécessaires à
+l'accomplissement des missions définies aux articles L. 632-1 à L. 632-3 et à
+l'article L. 632-6, dans les conditions précisées par voie de convention, après
+avis de la Commission d'accès aux documents administratifs et de la Commission
+nationale de l'informatique et des libertés.

@@ -36,7 +36,18 @@ véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes
 assimilés à ces entreprises dès lors que ces informations ont pour seul but
 d'identifier les biens et les personnes impliqués dans un accident de la
 circulation à condition qu'au moins un des véhicules soit assuré par le
-demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes.
+demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
+
+9° Aux autorités étrangères extérieures à l'Union européenne et à l'Espace
+économique européen avec lesquelles existe un accord d'échange d'informations
+relatives à l'identification du titulaire du certificat d'immatriculation ;
+
+10° Aux services compétents en matière d'immatriculation des Etats membres de
+l'Union européenne et aux autres Etats parties à l'accord sur l'Espace
+économique européen, dans le cadre des dispositions prévoyant un échange
+d'informations relatives à l'immatriculation d'un véhicule précédemment
+immatriculé dans un autre de ces Etats, ou au titre de la répression de la
+criminalité visant les véhicules et ayant des incidences transfrontalières.
 
 II. - Les entreprises d'assurances doivent fournir à l'appui de leur demande
 tous éléments utiles permettant de vérifier la réalité du sinistre.

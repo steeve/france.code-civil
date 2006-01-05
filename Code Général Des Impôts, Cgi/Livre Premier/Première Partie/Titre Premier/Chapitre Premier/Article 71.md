@@ -13,9 +13,7 @@ individuels multipliée par le nombre d'associés, à l'exception des associés 
 de plus de soixante ans au premier jour de l'exercice, lorsque la moyenne des
 recettes du groupement est inférieure ou égale à 230 000 euros.
 
-2° les plus-values réalisées par le groupement sont imposables au nom de chaque
-associé selon les règles prévues pour les exploitants individuels membres du
-groupement ;
+2° (abrogé)
 
 3° (abrogé)
 

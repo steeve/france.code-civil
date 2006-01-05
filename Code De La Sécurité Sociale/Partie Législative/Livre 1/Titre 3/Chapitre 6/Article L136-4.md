@@ -130,14 +130,14 @@ chacune de ces exploitations ou entreprises au cours de l'année précédant cel
 au titre de laquelle les cotisations sont dues ou, à défaut, à parts égales.
 
 VII. - Sont soumis à la contribution les revenus professionnels, définis à
-l'article L. 731-14 du code rural, des personnes redevables des cotisations de
-solidarité visées aux articles L. 731-23 et L. 731-24 du même code.
+l'article L. 731-14 du code rural, des personnes redevables de la cotisation de
+solidarité visée à l'article L. 731-23 du même code.
 
 Les revenus pris en compte sont ceux afférents à l'année précédant celle au
 titre de laquelle la contribution est due.
 
-Les revenus sont majorés des cotisations de solidarité visées aux articles L.
-731-23 et L. 731-24 du code rural.
+Les revenus sont majorés de la cotisation de solidarité visée à l'article L.
+731-23 du code rural.
 
 Pour les personnes redevables de la cotisation de solidarité définie à l'article
 L. 731-23 du code rural, lorsque les revenus professionnels ne sont pas connus,
@@ -150,12 +150,6 @@ contraire, elle est égale à 150 fois le montant du salaire minimum de
 croissance.
 
 Cette assiette forfaitaire est régularisée lorsque les revenus sont connus.
-
-Pour les personnes redevables de la cotisation de solidarité définie à l'article
-L. 731-24 du code rural, lorsque les revenus professionnels ne sont pas connus,
-la contribution est calculée sur une assiette forfaitaire provisoire égale à 900
-fois le montant du salaire minimum de croissance. Le montant de cette
-contribution est régularisé lorsque les revenus sont connus.
 
 Pour l'application des dispositions du présent VII, le salaire minimum de
 croissance et la valeur de la surface minimale d'installation à prendre en

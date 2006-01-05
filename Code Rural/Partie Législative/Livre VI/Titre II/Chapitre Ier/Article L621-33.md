@@ -16,7 +16,7 @@ employé à quelque titre que ce soit dans l'établissement qu'il a exploité, m
 s'il l'a vendu, loué ou mis en gérance.
 
 Toutes les amendes infligées en vertu de la présente section sont perçues au
-bénéfice de l'office national interprofessionnel des céréales.
+bénéfice de l'Office national interprofessionnel des grandes cultures.
 
 Le délinquant est en outre privé des avantages résultant des dispositions en
 vigueur des lois des 1er et 30 avril 1930, 22 avril 1932, 26 janvier et 4 avril

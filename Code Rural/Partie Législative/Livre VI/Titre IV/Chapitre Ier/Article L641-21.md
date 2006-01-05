@@ -3,8 +3,8 @@ Article L641-21
 Dans le respect des dispositions communautaires, le ministre de l'agriculture
 peut décider, après avis du syndicat de défense concerné et de l'organisation
 professionnelle compétente, que la mise en bouteille et le conditionnement des
-vins bénéficiant d'une appellation d'origine s'effectue dans les régions de
-production.
+produits d'origine vitivinicole bénéficiant d'une appellation d'origine
+s'effectue dans les régions de production.
 
 Toute infraction au présent article est punie des peines figurant à l'article L.
 213-1 du code de la consommation. Les personnes mentionnées à l'article L. 215-1

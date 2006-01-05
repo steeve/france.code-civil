@@ -1,10 +1,10 @@
 Article L621-26
 ----
 Les coopératives de céréales sont tenues de se porter acquéreur, dans les
-conditions fixées par l'office national interprofessionnel des céréales, sous
-réserve de respecter l'échelonnement prévu par les textes en vigueur, de toutes
-les céréales qui leur sont offertes. Les coopératives sont tenues de régler le
-prix des céréales à leur livraison.
+conditions fixées par l'Office national interprofessionnel des grandes cultures,
+sous réserve de respecter l'échelonnement prévu par les textes en vigueur, de
+toutes les céréales qui leur sont offertes. Les coopératives sont tenues de
+régler le prix des céréales à leur livraison.
 
 Dans le cas de livraison différée, le prix de règlement applicable est celui du
 mois de la livraison effective. Le vendeur, qui demeure dépositaire de la
@@ -16,10 +16,11 @@ D'autre part, la partie de la récolte qui n'a pas été immédiatement vendue p
 faire l'objet d'un warrant, souscrit par l'emprunteur à l'ordre de l'organisme
 stockeur dont il relève et qui, après aval du conseil d'administration de la
 coopérative ou de la société de caution mutuelle dont l'organisme stockeur fait
-partie et de l'office national interprofessionnel des céréales, est escompté par
-la Banque de France. Toutefois, ces warrants peuvent être remplacés par des
-effets cautionnés souscrits par l'emprunteur à l'ordre de la coopérative, qui
-sont avalisés et escomptés dans les conditions prévues par l'article L. 621-21.
+partie et de l'Office national interprofessionnel des grandes cultures, est
+escompté par la Banque de France. Toutefois, ces warrants peuvent être remplacés
+par des effets cautionnés souscrits par l'emprunteur à l'ordre de la
+coopérative, qui sont avalisés et escomptés dans les conditions prévues par
+l'article L. 621-21.
 
 Les avances correspondant à ces warrants ou effets peuvent atteindre les deux
 tiers de la valeur des céréales auxquelles elles se rapportent.

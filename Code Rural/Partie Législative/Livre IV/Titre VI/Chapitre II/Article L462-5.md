@@ -7,7 +7,8 @@ Le preneur a droit au renouvellement de son bail sauf dans les cas suivants :
 2° si le bailleur veut reprendre le fonds pour l'exploiter personnellement d'une
 manière effective et permanente pendant une durée minimum de neuf ans ou pour y
 installer, avec les mêmes obligations, un de ses descendants ou un descendant de
-son conjoint, majeur ou mineur émancipé ;
+son conjoint ou du partenaire avec lequel il est lié par un pacte civil de
+solidarité, majeur ou mineur émancipé ;
 
 3° si le bailleur est une société d'aménagement foncier et d'établissement
 rural, agréée en application de l'article L. 141-6 du code rural qui effectue

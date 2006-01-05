@@ -95,19 +95,24 @@ L'exonération est toutefois maintenue lorsque ces bâtiments ne servent plus à
 une exploitation rurale et ne sont pas affectés à un autre usage ;
 
 b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à
-un usage agricole par les sociétés coopératives agricoles, par les collectivités
-visées aux 2°, 3° et 4° de l'article 617 du code rural ainsi que les unions de
-sociétés coopératives agricoles ou unions de coopératives agricoles et de
-coopératives de consommation constituées et fonctionnant conformément aux
-dispositions légales qui les régissent.
+un usage agricole par les sociétés coopératives agricoles, par les associations
+syndicales ayant un objet exclusivement agricole, leurs unions, les associations
+foncières, les sociétés d'intérêt collectif agricole, les syndicats
+professionnels agricoles, les sociétés d'élevage, les associations agricoles
+reconnues par la loi et dépendant du ministère de l'agriculture ayant pour objet
+de favoriser la production agricole, leurs unions et fédérations ainsi que les
+unions de sociétés coopératives agricoles ou unions de coopératives agricoles et
+de coopératives de consommation constituées et fonctionnant conformément aux
+dispositions légales qui les régissent et par les groupements d'intérêt
+économique constitués entre exploitations agricoles.
 
 Les coopératives de blé peuvent, sans perdre le bénéfice de l'exonération, louer
-tout ou partie de leurs magasins à l'office national interprofessionnel des
-céréales en vue du logement des blés excédentaires.
+tout ou partie de leurs magasins à l'Office national interprofessionnel des
+grandes cultures en vue du logement des blés excédentaires.
 
 Le bénéfice de l'exonération est également maintenu aux coopératives de céréales
-et à leurs unions pour les opérations qu'elles effectuent avec l'office national
-interprofessionnel des céréales relativement à l'achat, la vente, la
+et à leurs unions pour les opérations qu'elles effectuent avec l'Office national
+interprofessionnel des grandes cultures relativement à l'achat, la vente, la
 transformation ou le transport de céréales ; il en est de même pour les
 opérations effectuées par des coopératives de céréales avec d'autres
 coopératives de céréales dans le cadre de programmes élaborés par l'office ou

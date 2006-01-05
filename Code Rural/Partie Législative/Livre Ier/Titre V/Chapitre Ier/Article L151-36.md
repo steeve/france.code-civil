@@ -21,7 +21,8 @@ d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
 
 6° Irrigation, épandage, colmatage et limonage ;
 
-7° Les travaux de débardage par câble en zone de montagne ;
+7° Les travaux de débardage par câble et les travaux nécessaires à la
+constitution d'aires intermédiaires de stockage de bois.
 
 Les personnes morales mentionnées au premier alinéa prennent en charge les
 travaux qu'elles ont prescrits ou exécutés. Elles peuvent toutefois, dans les

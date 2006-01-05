@@ -11,7 +11,10 @@ nullité, rappeler les termes de la présente disposition ;
 
 2° Les agissements du preneur de nature à compromettre la bonne exploitation du
 fonds, notamment le fait qu'il ne dispose pas de la main-d'oeuvre nécessaire aux
-besoins de l'exploitation.
+besoins de l'exploitation ;
+
+3° Le non-respect par le preneur des clauses mentionnées au quatrième alinéa de
+l'article L. 411-27.
 
 En toute hypothèse, les motifs ci-dessus mentionnés ne sauraient être retenus en
 cas de force majeure ou de raisons sérieuses et légitimes.

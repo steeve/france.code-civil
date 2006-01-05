@@ -6,6 +6,14 @@ d'agrément aura, sous réserve d'appel devant un comité national, reconnu qu'i
 constituent effectivement, en raison de leur objet et de leurs statuts, un des
 groupements agricoles prévus par le présent chapitre.
 
+Les groupements agricoles d'exploitation en commun sont reconnus par un comité
+départemental ou régional composé à parité de représentants de la profession
+agricole et de représentants de l'administration.
+
+Appel de la décision du comité départemental ou régional peut être interjeté
+devant un comité national composé à parité de représentants de la profession
+agricole et de représentants de l'administration.
+
 Le refus de reconnaissance doit être motivé.
 
 Cette reconnaissance est de droit pour les sociétés dont les statuts sont

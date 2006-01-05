@@ -1,10 +1,5 @@
 Article L462-11
 ----
-Le bailleur a la surveillance des travaux et la direction générale de
-l'exploitation. Sauf dérogation spéciale dans les conditions fixées par voie
-réglementaire, le preneur ne peut procéder à la récolte qu'avec l'autorisation
-du bailleur, à moins de refus abusif de ce dernier.
-
 Aucune modification dans la nature des cultures ne peut être faite pendant la
 durée du bail sans le consentement du preneur.
 

@@ -7,4 +7,5 @@ pour le compte des communes de moins de 2000 habitants ou de leurs
 de la coopérative a le siège de son exploitation agricole, des travaux agricoles
 ou d'aménagement rural conformes à son objet social dès lors que le montant de
 ces travaux n'excède pas 25 % du chiffre d'affaires annuel de la coopérative
-dans la limite de 7 500 euros.
+dans la limite de 10 000 euros, et de 15 000 euros dans les zones de
+revitalisation rurale.

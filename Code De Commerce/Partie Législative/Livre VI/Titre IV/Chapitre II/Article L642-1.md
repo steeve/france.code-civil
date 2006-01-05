@@ -17,7 +17,7 @@ bailleur ou, à défaut, à tout repreneur dont l'offre a été recueillie dans 
 conditions fixées aux articles L. 642-2, L. 642-4 et L. 642-5. Les dispositions
 relatives au contrôle des structures des exploitations agricoles ne sont pas
 applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le
-tribunal tient compte des dispositions des 1° à 4° et 6° à 8° de l'article L.
+tribunal tient compte des dispositions des 1° à 4° et 6° à 9° de l'article L.
 331-3 du code rural.
 
 Lorsque le débiteur, personne physique, exerce une profession libérale soumise à

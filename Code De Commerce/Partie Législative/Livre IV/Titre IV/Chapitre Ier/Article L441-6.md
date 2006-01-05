@@ -34,6 +34,13 @@ les parties, le délai de règlement des sommes dues est fixé au trentième jou
 suivant la date de réception des marchandises ou d'exécution de la prestation
 demandée.
 
+Contrairement aux dispositions de l'alinéa précédent, pour le transport routier
+de marchandises, pour la location de véhicules avec ou sans conducteur, pour la
+commission de transport ainsi que pour les activités de transitaire, d'agent
+maritime et de fret aérien, de courtier de fret et de commissionnaire en douane,
+les délais de paiement convenus ne peuvent en aucun cas dépasser trente jours à
+compter de la date d'émission de la facture.
+
 Les conditions de règlement doivent obligatoirement préciser les conditions
 d'application et le taux d'intérêt des pénalités de retard exigibles le jour
 suivant la date de règlement figurant sur la facture dans le cas où les sommes

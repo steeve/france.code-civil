@@ -1,10 +1,6 @@
 Article L621-3
 ----
-En conformité avec les principes, les objectifs et les règles de la politique
-agricole commune, dans le cadre défini par le Plan de la nation, et en cohérence
-avec les recommandations émises par le Conseil supérieur d'orientation et de
-coordination de l'économie agricole et alimentaire, les offices ont pour mission
-:
+Les offices ont pour mission :
 
 1° D'améliorer la connaissance et le fonctionnement des marchés de façon à
 assurer, en conformité avec les intérêts des consommateurs, une juste

@@ -16,7 +16,8 @@ de campagne ;
 les organisations professionnelles signataires de l'accord ;
 
 4° Aux cotisations professionnelles assises sur le produit et nécessaires à
-l'application des accords ;
+l'élaboration, à la négociation, à la mise en oeuvre et au contrôle de la bonne
+application des accords ;
 
 5° Aux sanctions et indemnisations s'appliquant en cas d'inexécution partielle
 ou totale des obligations.

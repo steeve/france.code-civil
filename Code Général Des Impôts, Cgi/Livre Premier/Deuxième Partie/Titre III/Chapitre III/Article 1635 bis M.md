@@ -7,8 +7,7 @@ transports routiers.
 La taxe concourt en priorité au financement, d'une part, des formations
 qualifiantes et, d'autre part, des formations professionnelles obligatoires des
 conducteurs routiers telles qu'instituées par la réglementation et les
-conventions collectives en vigueur. Elle est utilisée pour au moins la moitié de
-son produit à la formation professionnelle des jeunes de moins de vingt-six ans.
+conventions collectives en vigueur.
 
 Le produit de la taxe est affecté à l'Association pour le développement de la
 formation professionnelle dans les transports.
@@ -44,8 +43,8 @@ les mêmes conditions que la taxe prévue à l'article 1599 quindecies.
 
 IV. - L'Association pour le développement de la formation professionnelle dans
 les transports est placée, au titre de la taxe, sous le contrôle économique et
-financier de l'Etat ; un contrôleur d'Etat est désigné par le ministre chargé du
-budget.
+financier de l'Etat ; un membre du corps du contrôle général économique et
+financier est désigné par le ministre chargé du budget.
 
 Le ministre chargé des transports désigne un commissaire du Gouvernement en
 accord avec le ministre chargé de la formation professionnelle.

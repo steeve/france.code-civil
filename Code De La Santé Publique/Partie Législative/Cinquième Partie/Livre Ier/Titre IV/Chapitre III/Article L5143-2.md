@@ -11,7 +11,11 @@ vétérinaires ayant satisfait aux obligations du chapitre Ier du titre IV du
 livre II du code rural leur permettant d'exercer la médecine et la chirurgie des
 animaux, lorsqu'il s'agit des animaux auxquels ils donnent personnellement leurs
 soins ou dont la surveillance sanitaire et les soins leur sont régulièrement
-confiés.
+confiés. Pour ces animaux, la même faculté est également accordée aux
+vétérinaires ayant satisfait aux obligations du chapitre Ier du titre IV du
+livre II du code rural et exerçant la médecine et la chirurgie des animaux au
+sein du même domicile professionnel administratif ou d'exercice, tel que défini
+dans le code de déontologie prévu à l'article L. 242-3 du code rural.
 
 La même faculté est accordée aux chefs des services de pharmacie et toxicologie
 des écoles nationales vétérinaires pour le traitement des animaux admis en

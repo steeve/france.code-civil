@@ -57,7 +57,13 @@ cas, le montant de la réduction mentionnée au II est minoré d'un montant
 forfaitaire fixé par décret. Cette possibilité de cumul n'est ouverte que
 jusqu'au 31 mars 2004 ;
 
-2° Avec la réduction forfaitaire prévue à l'article L. 241-14.
+2° Avec la réduction forfaitaire prévue à l'article L. 241-14 ;
+
+3° Avec les exonérations prévues aux articles L. 741-4-1, L. 741-15-1 et L.
+751-17-1 du code rural ;
+
+4° Avec les exonérations prévues aux articles L. 741-4-2, L. 741-15-2 et L.
+751-17-2 du code rural.
 
 Le bénéfice des dispositions du présent article ne peut être cumulé, à
 l'exception des cas prévus aux 1° et 2°, avec celui d'une autre exonération

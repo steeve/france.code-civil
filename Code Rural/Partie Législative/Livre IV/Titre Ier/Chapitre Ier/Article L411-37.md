@@ -6,10 +6,10 @@ disposition, par lettre recommandée, le preneur associé d'une société à obj
 principalement agricole peut mettre à la disposition de celle-ci, pour une durée
 qui ne peut excéder celle pendant laquelle il reste titulaire du bail, tout ou
 partie des biens dont il est locataire, sans que cette opération puisse donner
-lieu à l'attribution de parts. Cette société doit être constituée entre
-personnes physiques et, soit être dotée de la personnalité morale, soit, s'il
-s'agit d'une société en participation, être régie par des statuts établis par un
-acte ayant acquis date certaine.
+lieu à l'attribution de parts. Cette société doit être dotée de la personnalité
+morale ou, s'il s'agit d'une société en participation, être régie par des
+statuts établis par un acte ayant acquis date certaine. Son capital doit être
+majoritairement détenu par des personnes physiques.
 
 L'avis adressé au bailleur mentionne le nom de la société, le tribunal de
 commerce auprès duquel la société est immatriculée et les parcelles que le

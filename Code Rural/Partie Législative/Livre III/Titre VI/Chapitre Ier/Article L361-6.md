@@ -6,9 +6,9 @@ le cheptel mort ou vif affectés aux exploitations agricoles.
 
 Peuvent seuls prétendre au bénéfice de ladite indemnisation les sinistrés
 justifiant que les éléments principaux de l'exploitation étaient assurés contre
-l'un au moins des risques reconnus par arrêté interministériel pris sur
-proposition de la Commission nationale des calamités agricoles comme normalement
-assurables dans le cadre de la région.
+l'un au moins des risques reconnus par arrêté interministériel pris sur avis du
+Comité national de l'assurance en agriculture prévu à l'article L. 361-19 comme
+normalement assurables dans le cadre de la région.
 
 L'octroi de l'indemnité peut être refusé lorsque l'assurance est manifestement
 insuffisante.

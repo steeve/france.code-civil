@@ -14,12 +14,14 @@ l'exploitation.
 
 Les sommes déposées sur le compte peuvent être utilisées au cours des sept
 exercices qui suivent celui de leur versement en cas d'intervention de l'un des
-aléas d'exploitation dont la liste est fixée par décret.
+aléas d'exploitation dont la liste est fixée par décret ou pour le règlement de
+primes et cotisations d'assurance de dommages aux biens ou pour perte
+d'exploitation souscrite par l'exploitant.
 
 Lorsque les sommes déposées sur le compte sont utilisées en cas d'intervention
-de l'un des aléas d'exploitation mentionnés au troisième alinéa, la déduction
-correspondante est rapportée au résultat de l'exercice au cours duquel le
-retrait est intervenu.
+de l'un des aléas d'exploitation ou pour le règlement de primes et cotisations
+d'assurance mentionnés au troisième alinéa, la déduction correspondante est
+rapportée au résultat de l'exercice au cours duquel le retrait est intervenu.
 
 Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des
 sept exercices qui suivent celui de leur versement, la déduction correspondante
@@ -47,8 +49,8 @@ déduction au titre d'un exercice précédant celui de la transmission n'est pas
 considérée pour l'application du I comme une cessation d'activité si le ou les
 bénéficiaires de la transmission remplissent les conditions ouvrant droit à la
 déduction et s'engagent à utiliser les sommes déposées sur le compte au cours
-des cinq exercices qui suivent celui au titre duquel la déduction correspondante
-a été pratiquée dans les conditions et les limites définies au I (1).
+des sept exercices qui suivent celui au titre duquel la déduction correspondante
+a été pratiquée dans les conditions et les limites définies au I.
 
 III. - Le compte ouvert auprès d'un établissement de crédit est un compte
 courant qui retrace exclusivement les opérations définies au I.

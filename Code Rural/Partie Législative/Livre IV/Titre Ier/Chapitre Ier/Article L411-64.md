@@ -27,10 +27,11 @@ direct. Dans ce dernier cas, sauf s'il s'agit pour le bailleur de constituer une
 exploitation dans les conditions prévues au premier alinéa du présent article,
 il ne doit pas avoir atteint l'âge de la retraite à l'expiration du bail.
 
-Le preneur évincé en raison de son âge peut céder son bail à son conjoint
-participant à l'exploitation ou à l'un de ses descendants ayant atteint l'âge de
-la majorité ou ayant été émancipé, dans les conditions prévues à l'article L.
-411-35. Le bénéficiaire de la cession a droit au renouvellement de son bail.
+Le preneur évincé en raison de son âge peut céder son bail à son conjoint ou au
+partenaire avec lequel il est lié par un pacte civil de solidarité participant à
+l'exploitation ou à l'un de ses descendants ayant atteint l'âge de la majorité
+ou ayant été émancipé, dans les conditions prévues à l'article L. 411-35. Le
+bénéficiaire de la cession a droit au renouvellement de son bail.
 
 A peine de nullité, le congé donné en vertu du présent article doit reproduire
 les termes de l'alinéa précédent.

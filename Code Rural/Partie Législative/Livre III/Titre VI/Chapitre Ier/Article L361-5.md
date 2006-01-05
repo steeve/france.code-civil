@@ -25,10 +25,10 @@ ateliers de triage et d'expédition, le matériel et les stocks ;
 
 b) Dans les autres circonscriptions :
 
-- 30 % des primes ou cotisations afférentes aux conventions d'assurance contre
+-30 % des primes ou cotisations afférentes aux conventions d'assurance contre
 l'incendie couvrant les éléments mentionnés au a ci-dessus ;
 
-- 30 % des primes ou cotisations afférentes aux conventions d'assurance couvrant
+-30 % des primes ou cotisations afférentes aux conventions d'assurance couvrant
 les risques nautiques desdites exploitations.
 
 3° Une subvention inscrite au budget de l'Etat et dont le montant sera au moins
@@ -41,10 +41,10 @@ La gestion comptable et financière du fonds national de garantie des calamités
 agricoles est assurée selon les dispositions de l'article L. 431-11 du code des
 assurances ci-après reproduit :
 
-"Art. L. 431-11 : La gestion comptable et financière du fonds national de
+" Art.L. 431-11 : La gestion comptable et financière du fonds national de
 garantie des calamités agricoles mentionné à l'article L. 442-1 est assurée par
 la caisse centrale de réassurance dans un compte distinct de ceux qui retracent
 les autres opérations pratiquées par cet établissement.
 
 Les frais exposés par la caisse centrale de réassurance pour la gestion du fonds
-lui sont remboursés dans des conditions fixées par décret en Conseil d'Etat".
+lui sont remboursés dans des conditions fixées par décret en Conseil d'Etat ".

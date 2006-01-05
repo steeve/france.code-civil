@@ -10,14 +10,15 @@ critique.
 Les fédérations agréés doivent adhérer à l'association nationale de révision de
 la coopération agricole prévue ci-après.
 
-Cette association a pour objet de définir les principes et méthodes de la
-révision, d'organiser, suivre et contrôler sa mise en oeuvre, de faciliter le
-recrutement et la formation des réviseurs, d'agréer ces derniers, de gérer les
-ressources dont elle disposera à cet effet.
+Cette association peut assurer tout ou partie de la définition des principes et
+méthodes de la révision ainsi que de l'organisation, du suivi et du contrôle de
+sa mise en oeuvre. En outre, elle a pour objet de faciliter le recrutement et la
+formation des réviseurs et d'agréer ces derniers. Elle gère les ressources dont
+elle dispose à cet effet.
 
 Les statuts et le budget de l'association sont soumis à l'approbation de
 l'autorité supérieure.
 
-Ses ressources sont constituées notamment par une cotisation obligatoire de
-chaque société coopérative et union de sociétés coopératives agricoles, perçues
-par l'intermédiaire des fédérations.
+Ses ressources sont notamment constituées par la contribution du Haut Conseil de
+la coopération agricole pour la réalisation des missions qu'il lui confie en
+application du cinquième alinéa de l'article L. 528-1.

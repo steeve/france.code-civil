@@ -43,18 +43,19 @@ septembre 1979.
 agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et
 répondant aux diverses caractéristiques des articles L. 322-1 à L. 322-21,
 L322-23 et L322-24 du code rural, à concurrence des trois-quarts de la fraction
-de la valeur nette des biens donnés à bail à long terme, sous réserve des
-dispositions de l'article 793 bis, à condition :
+de la valeur nette des biens donnés à bail à long terme ou à bail cessible, sous
+réserve des dispositions de l'article 793 bis, à condition :
 
-Que les statuts du groupement lui interdisent l'exploitation en faire-valoir
+a) Que les statuts du groupement lui interdisent l'exploitation en faire-valoir
 direct ;
 
-Que les fonds agricoles constituant le patrimoine du groupement aient été donnés
-à bail à long terme dans les conditions prévues par les articles L. 416-1 à L.
-416-6, L. 416-8 et L. 416-9 du code rural ;
+b) Que les fonds agricoles constituant le patrimoine du groupement aient été
+donnés à bail à long terme dans les conditions prévues par les articles L. 416-1
+à L. 416-6, L. 416-8 et L. 416-9 du code rural ou à bail cessible dans les
+conditions prévues par les articles L. 418-1 à L. 418-5 du code rural ;
 
-Que les parts aient été détenues depuis deux ans au moins par le donateur ou le
-défunt.
+c )Que les parts aient été détenues depuis deux ans au moins par le donateur ou
+le défunt.
 
 Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au
 contrat de constitution du groupement foncier agricole et, à ce titre, ont
@@ -119,12 +120,13 @@ au profit d'établissements ou de sociétés, en vue de la réalisation
 d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
 donner lieu à l'établissement d'une servitude d'utilité publique au titre de
 ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction
-de reconstituer les boisements après coupe rase en application du 1° de
-l'article L. 126-1 du code rural ;
+de reconstituer les boisements après coupe rase en application des deuxième à
+neuvième alinéas de l'article L. 126-1 du code rural ;
 
 3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à
-L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de
-leur valeur, sous réserve des dispositions de l'article 793 bis ;
+L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 du code
+rural, à concurrence des trois quarts de leur valeur, sous réserve des
+dispositions de l'article 793 bis ;
 
 4° Lors de leur première transmission à titre gratuit, les immeubles acquis
 neufs ou en état futur d'achèvement dont la déclaration de l'achèvement des
@@ -202,3 +204,35 @@ Un décret en Conseil d'Etat détermine les modalités d'application des
 dispositions du présent 6°, notamment les obligations déclaratives incombant aux
 redevables et pièces justificatives à fournir lors de l'enregistrement de la
 transmission mentionnée au premier alinéa.
+
+7° Les successions et donations entre vifs, à concurrence des trois quarts de
+leur montant, intéressant les propriétés non bâties qui ne sont pas en nature de
+bois et forêts et qui sont incluses dans les espaces naturels délimités en
+application de l'article L. 414-1 du code de l'environnement, à la condition :
+
+a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé
+d'un certificat délivré sans frais par le directeur départemental de
+l'agriculture et de la forêt attestant que les propriétés concernées font
+l'objet d'un engagement de gestion conforme aux objectifs de conservation de ces
+espaces ;
+
+b) Qu'il contienne l'engagement par l'héritier, le légataire ou le donataire,
+pris pour lui et ses ayants cause, d'appliquer pendant dix-huit ans aux espaces
+naturels objets de la mutation des garanties de gestion conformes aux objectifs
+de conservation de ces espaces et dont le contenu est défini par décret.
+
+Cette exonération n'est pas cumulable avec une autre exonération applicable en
+matière de droits de mutation à titre gratuit.
+
+En cas de transmission de propriétés non bâties, qui sont incluses dans les
+espaces naturels délimités en application de l'article L. 414-1 du code de
+l'environnement, à l'Etat ou aux collectivités et organismes mentionnés à
+l'article 1042 du présent code, l'engagement est réputé définitivement satisfait
+à concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant
+déterminée par le rapport entre la superficie des biens objets de la
+transmission et la superficie totale des biens sur lesquels l'engagement a été
+souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
+au profit d'établissements ou de sociétés, en vue de la réalisation
+d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
+donner lieu à l'établissement d'une servitude d'utilité publique au titre de
+ladite mutation.

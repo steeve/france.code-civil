@@ -2,8 +2,9 @@ Article L123-1
 ----
 Les plans locaux d'urbanisme exposent le diagnostic établi au regard des
 prévisions économiques et démographiques et précisent les besoins répertoriés en
-matière de développement économique, d'aménagement de l'espace, d'environnement,
-d'équilibre social de l'habitat, de transports, d'équipements et de services.
+matière de développement économique, d'agriculture, d'aménagement de l'espace,
+d'environnement, d'équilibre social de l'habitat, de transports, d'équipements
+et de services.
 
 Ils comportent un projet d'aménagement et de développement durable qui définit
 les orientations générales d'aménagement et d'urbanisme retenues pour l'ensemble

@@ -1,16 +1,19 @@
 Article L411-35
 ----
-Nonobstant les dispositions de l'article 1717 du code civil, toute cession de
-bail est interdite, sauf si la cession est consentie, avec l'agrément du
-bailleur, au profit du conjoint du preneur participant à l'exploitation ou aux
-descendants du preneur ayant atteint l'âge de la majorité ou ayant été
-émancipés. A défaut d'agrément du bailleur, la cession peut être autorisée par
-le tribunal paritaire.
+Sous réserve des dispositions particulières aux baux cessibles hors du cadre
+familial prévues au chapitre VIII du présent titre et nonobstant les
+dispositions de l'article 1717 du code civil, toute cession de bail est
+interdite, sauf si la cession est consentie, avec l'agrément du bailleur, au
+profit du conjoint ou du partenaire d'un pacte civil de solidarité du preneur
+participant à l'exploitation ou aux descendants du preneur ayant atteint l'âge
+de la majorité ou ayant été émancipés. A défaut d'agrément du bailleur, la
+cession peut être autorisée par le tribunal paritaire.
 
 De même, le preneur peut avec l'agrément du bailleur ou, à défaut,
 l'autorisation du tribunal paritaire, associer à son bail en qualité de
-copreneur son conjoint participant à l'exploitation ou un descendant ayant
-atteint l'âge de la majorité.
+copreneur son conjoint ou le partenaire avec lequel il est lié par un pacte
+civil de solidarité participant à l'exploitation ou un descendant ayant atteint
+l'âge de la majorité.
 
 Toute sous-location est interdite. Toutefois, le bailleur peut autoriser le
 preneur à consentir des sous-locations pour un usage de vacances ou de loisirs.
@@ -34,8 +37,9 @@ les rapports locatifs et portant modification de la loi n° 86-1290 du 23
 décembre 1986.
 
 Le preneur peut héberger, dans les bâtiments d'habitation loués, ses ascendants,
-descendants, frères et soeurs, ainsi que leurs conjoints. Il ne peut exiger,
-pour cet hébergement, un aménagement intérieur du bâtiment ou une extension de
+descendants, frères et soeurs, ainsi que leurs conjoints ou les partenaires avec
+lesquels ils sont liés par un pacte civil de solidarité. Il ne peut exiger, pour
+cet hébergement, un aménagement intérieur du bâtiment ou une extension de
 construction.
 
 Les dispositions du présent article sont d'ordre public.

@@ -66,5 +66,16 @@ comme en matière de contributions directes. Le versement des soultes aux
 propriétaires des terrains cédés est assuré par le président de l'association
 foncière sur décision de la commission communale.
 
+Le paiement d'une telle soulte est également autorisé lorsqu'il y a lieu
+d'indemniser le propriétaire recevant des terrains n'ayant pas fait l'objet
+d'une certification en agriculture biologique au sens de l'article 8 du
+règlement (CEE) n° 2092/91 du Conseil, du 24 juin 1991, concernant le mode de
+production biologique de produits agricoles et sa présentation sur les produits
+agricoles et les denrées alimentaires ou qui ne sont pas en conversion vers ce
+mode de production depuis au moins un an, en contrepartie de l'apport de
+terrains ayant fait l'objet d'une telle certification ou étant en conversion
+vers ce mode de production depuis au moins un an. Les modalités de calcul et de
+versement de cette soulte sont déterminées par décret.
+
 Exceptionnellement, une soulte en nature peut être attribuée avec l'accord des
 propriétaires intéressés.
