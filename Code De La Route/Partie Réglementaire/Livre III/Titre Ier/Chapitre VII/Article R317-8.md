@@ -48,3 +48,8 @@ troisième classe.
 
 VII. L'immobilisation du véhicule peut être prescrite dans les conditions
 prévues aux articles L. 325-1 à L. 325-3.
+
+VIII. - Le fait d'exposer, d'offrir, de mettre en vente, de vendre, de proposer
+ou d'inciter à acheter ou à utiliser une plaque d'immatriculation non conforme
+aux caractéristiques visées au IV est puni de l'amende prévue pour les
+contraventions de la quatrième classe. La plaque est saisie et confisquée.
