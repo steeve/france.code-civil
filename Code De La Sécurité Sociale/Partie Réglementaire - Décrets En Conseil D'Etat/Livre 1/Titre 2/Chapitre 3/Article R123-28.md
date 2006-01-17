@@ -3,27 +3,24 @@ Article R123-28
 Chaque année sont organisés deux concours ouvrant l'accès à l'Ecole nationale
 supérieure de sécurité sociale.
 
-Le concours interne est ouvert aux personnes âgées de vingt-trois ans au moins
-et de cinquante ans au plus au 1er janvier de l'année du concours et justifiant
-à la même date d'au moins quatre années de services dans un ou plusieurs
+Le concours interne est ouvert aux personnes justifiant au 1er janvier de
+l'année du concours d'au moins quatre années de services dans un ou plusieurs
 organismes, unions ou fédérations d'organismes de sécurité sociale.
 
-Le concours externe est ouvert aux personnes âgées de trente ans au plus au 1er
-janvier de l'année du concours soit titulaires d'un diplôme national
-sanctionnant un second cycle d'études supérieures, ou d'un titre ou d'un diplôme
-de même niveau figurant sur une liste fixée, sur proposition du conseil
-d'administration de l'école, et après avis du ministre chargé des universités,
-par arrêté du ministre chargé de la sécurité sociale et du ministre de
-l'agriculture, soit ayant terminé avec succès la première année du second cycle
-d'études supérieures juridiques ou économiques.
+Le concours externe est ouvert aux personnes soit titulaires d'un diplôme
+national sanctionnant un second cycle d'études supérieures, ou d'un titre ou
+d'un diplôme de même niveau figurant sur une liste fixée, sur proposition du
+conseil d'administration de l'école, et après avis du ministre chargé des
+universités, par arrêté du ministre chargé de la sécurité sociale et du ministre
+de l'agriculture, soit ayant terminé avec succès la première année du second
+cycle d'études supérieures juridiques ou économiques.
 
 Les places sont offertes en nombre égal aux candidats du concours interne et du
 concours externe. Cependant les places offertes à l'un des deux concours qui
 n'auraient pu être attribuées aux candidats de la catégories correspondante
 peuvent être reportées, par décision des jurys, sur l'autre concours, sans que
 l'application de cette disposition puisse avoir pour effet, après attribution,
-de diminuer de plus de 50 p. 100 le nombre de places offertes à chacun des
-concours.
+de diminuer de plus de 50 % le nombre de places offertes à chacun des concours.
 
 Le nombre de places mises aux concours, les conditions d'inscription, les dates
 des épreuves, la liste des candidats admis à y prendre part, les membres des
