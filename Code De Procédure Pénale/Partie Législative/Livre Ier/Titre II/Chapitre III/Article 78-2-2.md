@@ -1,7 +1,7 @@
 Article 78-2-2
 ----
 Sur réquisitions écrites du procureur de la République aux fins de recherche et
-de poursuite des actes de terrorisme visés par les articles 421-1 à 421-5 du
+de poursuite des actes de terrorisme visés par les articles 421-1 à 421-6 du
 code pénal, des infractions en matière d'armes et d'explosifs visées par les
 articles L. 2339-8, L. 2339-9 et L. 2353-4 du code de la défense, des
 infractions de vol visées par les articles 311-3 à 311-11 du code pénal, de

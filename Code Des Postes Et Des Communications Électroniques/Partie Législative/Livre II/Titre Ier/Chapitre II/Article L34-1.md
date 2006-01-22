@@ -5,6 +5,12 @@ dont l'activité est d'offrir un accès à des services de communication au publ
 en ligne, effacent ou rendent anonyme toute donnée relative au trafic, sous
 réserve des dispositions des II, III, IV et V.
 
+Les personnes qui, au titre d'une activité professionnelle principale ou
+accessoire, offrent au public une connexion permettant une communication en
+ligne par l'intermédiaire d'un accès au réseau, y compris à titre gratuit, sont
+soumises au respect des dispositions applicables aux opérateurs de
+communications électroniques en vertu du présent article.
+
 II. - Pour les besoins de la recherche, de la constatation et de la poursuite
 des infractions pénales, et dans le seul but de permettre, en tant que de
 besoin, la mise à disposition de l'autorité judiciaire d'informations, il peut

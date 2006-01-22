@@ -6,3 +6,6 @@ française ou dans le délai de dix ans à compter de la date de cette acquisiti
 
 Elle ne peut être prononcée que dans le délai de dix ans à compter de la
 perpétration desdits faits.
+
+Si les faits reprochés à l'intéressé sont visés au 1° de l'article 25, les
+délais mentionnés aux deux alinéas précédents sont portés à quinze ans.

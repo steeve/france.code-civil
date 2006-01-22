@@ -1,13 +1,15 @@
 Article L564-1
 ----
-Les casinos qui échangent des moyens de paiement, des jetons ou plaques ou qui
-acceptent les jetons ou plaques d'autres casinos sont tenus d'enregistrer les
-noms et adresses des joueurs qui échangent ou apportent des jetons et plaques
-pour une somme supérieure à un montant fixé par décret.
+Les organismes financiers et personnes mentionnés aux 1 à 5 et au 7 de l'article
+L. 562-1, qui détiennent ou reçoivent des fonds, instruments financiers et
+ressources économiques, sont tenus d'appliquer les mesures de gel ou
+d'interdiction prises en vertu du présent chapitre.
 
-Les groupements, cercles et sociétés organisant des jeux de hasard, des
-loteries, des paris, des pronostics sportifs ou hippiques sont tenus de
-s'assurer, par la présentation de tout document écrit probant, de l'identité des
-joueurs gagnant des sommes supérieures à un montant fixé par décret et
-d'enregistrer les noms et adresses de ces joueurs, ainsi que le montant des
-sommes qu'ils ont gagnées. Ces données doivent être conservées pendant cinq ans.
+Pour l'application du présent chapitre, on entend par fonds, instruments
+financiers et ressources économiques les avoirs de toute nature, corporels ou
+incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et
+les documents ou instruments légaux sous quelque forme que ce soit, y compris
+sous forme électronique ou numérique, qui prouvent un droit de propriété ou un
+intérêt sur ces avoirs, incluant, notamment, les crédits bancaires, les chèques
+de voyage, les chèques bancaires, les mandats, les actions, les titres, les
+obligations, les traites et les lettres de crédit.

@@ -8,7 +8,7 @@ dans les mêmes conditions de l'identité de leur client occasionnel qui leur
 demande de faire des opérations dont la nature et le montant sont fixés par
 décret en Conseil d'Etat. Les personnes visées au 8 de l'article L. 562-1
 satisfont à cette obligation en appliquant les mesures prévues à l'article L.
-564-1.
+565-1.
 
 Ils se renseignent sur l'identité véritable des personnes avec lesquelles ils
 nouent une relation contractuelle ou qui demandent leur assistance dans la
