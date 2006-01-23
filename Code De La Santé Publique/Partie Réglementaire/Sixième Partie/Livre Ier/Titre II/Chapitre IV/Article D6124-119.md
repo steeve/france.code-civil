@@ -1,15 +1,10 @@
 Article D6124-119
 ----
-L'équipe médicale d'une unité de surveillance continue pédiatrique est composée
-de médecins satisfaisant à l'une des deux conditions ci-dessous :
+Les unités d'hospitalisation de chirurgie cardiaque comportent un nombre de lits
+dédiés suffisant pour être en mesure de prendre en charge à tout moment les
+patients de chirurgie cardiaque.
 
-1° Etre qualifié spécialiste en pédiatrie ;
-
-2° Etre qualifié spécialiste ou compétent en anesthésie-réanimation ou qualifié
-spécialiste en réanimation médicale ;
-
-Ces médecins disposent d'une expérience en réanimation pédiatrique.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables aux unités de
-surveillance continue pédiatrique spécialisées en transplantation d'organes ou
-en cancérologie pédiatrique.
+Des protocoles sont conclus entre les responsables médicaux des unités de
+chirurgie cardiaque et des unités de réanimation sur la mise à disposition de
+lits de réanimation en nombre suffisant et sur les modalités de prise en charge
+des patients de chirurgie cardiaque.

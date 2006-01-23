@@ -1,32 +1,26 @@
 Article D6124-120
 ----
-Le responsable d'une unité de surveillance continue pédiatrique non spécialisée
-en transplantation d'organes ou en cancérologie pédiatrique est :
+Le personnel médical et paramédical intervenant en chirurgie cardiaque comprend
+:
 
-1° Soit un pédiatre titulaire du diplôme d'études spécialisées complémentaires
-de réanimation médicale ou disposant d'un diplôme interuniversitaire de
-réanimation et urgences pédiatriques ou pouvant attester d'une expérience d'un
-an en réanimation ;
+1° Au moins deux chirurgiens, titulaires du diplôme d'études spécialisées
+complémentaires en chirurgie thoracique et cardiovasculaire ou compétents en
+chirurgie thoracique et, pour la chirurgie des cardiopathies congénitales
+complexes de l'adulte, la collaboration d'un chirurgien formé ou ayant une
+expérience en chirurgie des cardiopathies congénitales selon des modalités
+précisées par arrêté du ministre chargé de la santé ;
 
-2° Soit un anesthésiste-réanimateur pouvant attester d'un an d'expérience en
-réanimation pédiatrique ou de deux ans d'expérience en anesthésie pédiatrique.
+2° Au moins un médecin justifiant d'une formation universitaire en circulation
+sanguine extracorporelle ;
 
-Lorsque l'établissement dispose de réanimation pédiatrique ou pédiatrique
-spécialisée, la responsabilité médicale de l'unité de surveillance continue est
-commune avec celle de l'unité de réanimation pédiatrique ou pédiatrique
-spécialisée.
+3° Au moins deux médecins qualifiés spécialistes ou compétents en anesthésie
+réanimation ayant une expérience en chirurgie cardiaque ;
 
-Lorsque l'établissement ne dispose pas de réanimation pédiatrique et qu'il
-dispose d'une unité de surveillance continue en pédiatrie, la responsabilité
-médicale de celle-ci peut être commune avec celle du service de pédiatrie, de
-néonatologie ou des urgences pédiatriques.
+4° Le cas échéant, des médecins qualifiés en réanimation médicale ou en
+cardiologie ;
 
-Lorsque l'établissement dispose d'une unité de surveillance continue
-chirurgicale pédiatrique individualisée, la responsabilité médicale de celle-ci
-peut être confiée au responsable du secteur d'anesthésie pédiatrique ou de
-chirurgie pédiatrique.
-
-Lorsque l'établissement dispose d'une unité de surveillance continue en
-pédiatrie spécialisée en transplantation d'organes ou en cancérologie
-pédiatrique, celle-ci est placée sous la responsabilité médicale du responsable
-de ces activités.
+5° Pour chaque intervention : deux infirmiers, dont un infirmier ou une
+infirmière de bloc opératoire, présents dans la salle. En tant que de besoin, un
+infirmier ou une infirmière ou un médecin expérimenté en circulation sanguine
+extracorporelle et un infirmier ou une infirmière anesthésiste sont également
+présents ou peuvent être appelés dans un délai compatible avec l'urgence vitale.
