@@ -1,14 +1,19 @@
 Article R6123-38
 ----
-Les unités de réanimation :
+L'autorisation prévue par l'article L. 6122-1 nécessaire à un établissement de
+santé pour exercer l'activité de soins de réanimation mentionnée au 15° de
+l'article R. 6122-25 ne peut lui être accordée que :
 
-1° Assurent vingt-quatre heures sur vingt-quatre, tous les jours de l'année,
-l'accueil et la prise en charge diagnostique et thérapeutique ainsi que la
-surveillance des patients mentionnés à l'article R. 6123-33 ;
+1° S'il dispose en hospitalisation complète d'installations de médecine et de
+chirurgie ou d'installations de chirurgie. Toutefois, à titre dérogatoire,
+l'autorisation d'exercer l'activité de soins de réanimation peut être délivrée à
+un établissement de santé ne disposant que d'installations de médecine en
+hospitalisation complète s'il a conclu avec un ou plusieurs établissements de
+santé disposant d'installations de chirurgie une convention organisant le
+transfert des patients dans ces établissements ;
 
-2° Assurent la sécurité et la continuité des soins en organisant le retour et le
-transfert des patients dans les unités de surveillance continue ou toute autre
-unité d'hospitalisation complète dès que leur état de santé le permet. A cet
-effet, les établissements exerçant les activités de réanimation passent des
-conventions avec d'autres établissements possédant ces unités afin de définir
-les modalités permettant d'y transférer les patients.
+2° S'il comporte au moins une unité de surveillance continue ;
+
+3° S'il est en mesure soit d'accueillir lui-même les patients dans une unité de
+soins intensifs, soit de les faire transférer dans un établissement disposant
+d'une telle unité avec lequel il a passé une convention.
