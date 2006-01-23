@@ -35,7 +35,7 @@ organisée prévu par l'article 322-8 du code pénal ;
 du code pénal ;
 
 11° Crimes et délits constituant des actes de terrorisme prévus par les articles
-421-1 à 421-5 du code pénal ;
+421-1 à 421-6 du code pénal ;
 
 12° Délits en matière d'armes et de produits explosifs commis en bande
 organisée, prévus par les articles L. 2339-2, L. 2339-8, L. 2339-10, L. 2341-4,
@@ -51,7 +51,11 @@ revenus, des choses provenant des infractions mentionnées aux 1° à 13° ;
 
 15° Délits d'association de malfaiteurs prévus par l'article 450-1 du code
 pénal, lorsqu'ils ont pour objet la préparation de l'une des infractions
-mentionnées aux 1° à 14°.
+mentionnées aux 1° à 14° ;
+
+16° Délit de non-justification de ressources correspondant au train de vie,
+prévu par l'article 321-6-1 du code pénal, lorsqu'il est en relation avec l'une
+des infractions mentionnées aux 1° à 15°.
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision
 contraire, les dispositions du présent titre ainsi que celles des titres XV, XVI

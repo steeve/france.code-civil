@@ -4,15 +4,12 @@ Sont agents de police judiciaire :
 
 1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ;
 
-2° Les fonctionnaires titulaires du corps de commandement et d'encadrement de la
-police nationale n'ayant pas la qualité d'officier de police judiciaire ainsi
-que les fonctionnaires stagiaires de ce même corps, et les élèves lieutenants de
-police ;
-
-3° Les fonctionnaires titulaires du corps de maîtrise et d'application de la
+2° Les fonctionnaires titulaires du corps d'encadrement et d'application de la
 police nationale n'ayant pas la qualité d'officier de police judiciaire, sous
-réserve des dispositions concernant les fonctionnaires visés au 4° et au 5°
+réserve des dispositions concernant les fonctionnaires visés aux 4° et 5°
 ci-après ;
+
+3° (Abrogé)
 
 4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la
 police nationale nommés stagiaires avant le 31 décembre 1985, lorsqu'ils

@@ -10,18 +10,14 @@ arrêté des ministres de la justice et de la défense, après avis conforme d'u
 commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les
-contrôleurs généraux, les commissaires de police ; les fonctionnaires titulaires
-du corps de commandement et d'encadrement de la police nationale, et les
-fonctionnaires stagiaires du corps de commandement et d'encadrement déjà
-titulaires de cette qualité nominativement désignés par arrêté des ministres de
-la justice et de l'intérieur, après avis conforme d'une commission ;
+contrôleurs généraux, les commissaires de police et les officiers de police ;
 
-4° Les fonctionnaires du corps de maîtrise et d'application de la police
+4° Les fonctionnaires du corps d'encadrement et d'application de la police
 nationale comptant au moins trois ans de services dans ce corps, nominativement
 désignés par arrêté des ministres de la justice et de l'intérieur, après avis
-conforme de la commission mentionnée au 3°.
+conforme d'une commission.
 
-La composition des commissions prévues aux 2° à 4° sera déterminée par un décret
+La composition des commissions prévues aux 2° et 4° sera déterminé par un décret
 en Conseil d'Etat pris sur le rapport du ministre de la justice et des ministres
 intéressés.
 

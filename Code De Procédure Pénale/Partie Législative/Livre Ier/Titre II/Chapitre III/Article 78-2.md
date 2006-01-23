@@ -37,15 +37,22 @@ ou routières ouverts au trafic international et désignés par arrêté
 constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne peut
 également être contrôlée, selon les modalités prévues au premier alinéa, en vue
 de vérifier le respect des obligations de détention, de port et de présentation
-des titres et documents prévues par la loi. Lorsqu'il existe une section
-autoroutière démarrant dans la zone mentionnée ci-dessus et que le premier péage
-autoroutier se situe au-delà de la ligne des 20 kilomètres, le contrôle peut en
-outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi
-que sur le lieu de ce péage et les aires de stationnement attenantes. Les péages
-concernés par cette disposition sont désignés par arrêté. Le fait que le
-contrôle d'identité révèle une infraction autre que celle de non-respect des
-obligations susvisées ne constitue pas une cause de nullité des procédures
-incidentes.
+des titres et documents prévues par la loi. Lorsque ce contrôle a lieu à bord
+d'un train effectuant une liaison internationale, il peut être opéré sur la
+portion du trajet entre la frontière et le premier arrêt qui se situe au-delà
+des vingt kilomètres de la frontière. Toutefois, sur celles des lignes
+ferroviaires effectuant une liaison internationale et présentant des
+caractéristiques particulières de desserte, le contrôle peut également être
+opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres
+suivants. Ces lignes et ces arrêts sont désignés par arrêté ministériel(1).
+Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à la
+première phrase du présent alinéa (1) et que le premier péage autoroutier se
+situe au-delà de la ligne des 20 kilomètres, le contrôle peut en outre avoir
+lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le
+lieu de ce péage et les aires de stationnement attenantes. Les péages concernés
+par cette disposition sont désignés par arrêté. Le fait que le contrôle
+d'identité révèle une infraction autre que celle de non-respect des obligations
+susvisées ne constitue pas une cause de nullité des procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du
 département de la Guyane et une ligne tracée à vingt kilomètres en-deçà, et sur

@@ -1,7 +1,7 @@
 Article L313-5
 ----
 La carte de séjour temporaire peut être retirée à l'étranger passible de
-poursuites pénales sur le fondement des articles 222-39, 222-39-1, 225-4-1 à
+poursuites pénales sur le fondement des articles 222-39, 321-6-1, 225-4-1 à
 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du
 code pénal.
 
