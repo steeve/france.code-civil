@@ -1,16 +1,22 @@
 Article R6123-71
 ----
-L'établissement dans lequel sont pratiquées les activités définies à l'article
-R. 6123-69 comprend :
+L'autorisation de pratiquer l'activité de soins de chirurgie cardiaque pour les
+patients adultes ne peut être délivrée à un établissement de santé ou à un
+groupement de coopération sanitaire qu'à condition de respecter, sur le même
+site, dans un bâtiment commun ou, à défaut, dans des bâtiments voisins, les
+prescriptions suivantes :
 
-1° Des lits de chirurgie en nombre suffisant pour assurer la prise en charge et
-la surveillance postopératoire des patients ;
+1° Disposer d'une unité d'hospitalisation prenant en charge les patients de
+chirurgie cardiaque et de salles d'opération réservées à cette activité ;
 
-2° Une unité de réanimation chirurgicale ;
+2° Disposer de :
 
-3° Les moyens nécessaires à la réalisation des examens de biochimie, du contrôle
-des gaz du sang et des facteurs de l'hémostase ;
+a) Une unité de réanimation autorisée ;
 
-4° Une unité de cardiologie comportant une unité de soins intensifs de
-cardiologie disposant d'appareils d'imagerie cardio-vasculaire dont un appareil
-de coronarographie.
+b) Une unité de médecine pratiquant la cardiologie ;
+
+c) Une unité de soins intensifs mentionnée au 3° de l'article R. 6123-37,
+pratiquant les soins intensifs cardiologiques.
+
+3° Exercer les activités interventionnelles sous imagerie médicale, par voie
+endovasculaire, en cardiologie.

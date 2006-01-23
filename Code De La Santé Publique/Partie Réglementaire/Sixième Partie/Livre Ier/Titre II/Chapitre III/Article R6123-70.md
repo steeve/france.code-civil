@@ -1,7 +1,11 @@
 Article R6123-70
 ----
-Les activités définies à l'article R. 6123-69 sont soumises aux autorisations
-prévues par l'article L. 6122-1.
+L'autorisation prévue par l'article L. 6122-1 est accordée pour :
 
-Ces autorisations sont subordonnées au respect des prescriptions des articles R.
-6123-71 à R. 6123-74.
+1° L'activité de soins de chirurgie cardiaque pratiquée chez des patients
+adultes ;
+
+2° L'activité de soins de chirurgie cardiaque pédiatrique.
+
+L'autorisation précise le ou les sites sur lesquels l'activité est exercée. Les
+conditions fixées par la présente section sont applicables à chaque site.
