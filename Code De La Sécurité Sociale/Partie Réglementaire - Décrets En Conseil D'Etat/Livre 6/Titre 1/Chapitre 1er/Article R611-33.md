@@ -1,20 +1,24 @@
 Article R611-33
 ----
-Le directeur d'une caisse mutuelle régionale assure le fonctionnement de
-l'organisme sous le contrôle du conseil d'administration. Il nomme les agents de
-la caisse et prend toute décision d'ordre individuel que comporte la gestion du
-personnel.
+La commission de l'organisation électorale comprend :
 
-Chaque année, le directeur soumet au conseil d'administration les projets de
-budgets concernant la gestion administrative, l'action sanitaire et sociale, le
-contrôle médical, la prévention et, le cas échéant, les établissements gérés par
-la caisse. Il remet au conseil d'administration un rapport sur le fonctionnement
-administratif et financier de la caisse. Ce rapport est transmis au préfet de
-région après examen par le conseil d'administration.
+1° Le préfet du département du siège de la commission d'organisation électorale
+ou son représentant en tant que président ;
 
-Dans les limites fixées par le conseil d'administration, le directeur engage les
-dépenses, constate les créances et les dettes, émet les ordres de recettes et de
-dépenses et peut, avec l'accord préalable du président du conseil
-d'administration et sous leur commune responsabilité, requérir qu'il soit passé
-outre au refus de visa ou de paiement éventuellement opposé par l'agent
-comptable.
+2° Deux membres du conseil d'administration de la caisse, en exercice et
+désignés par celui-ci ;
+
+3° Quatre électeurs de la caisse choisis par le président de la commission ;
+
+4° Le représentant du directeur régional des affaires sanitaires et sociales ;
+
+5° Le représentant du directeur régional des services postaux.
+
+Toutefois, en ce qui concerne les départements d'outre-mer, le nombre des
+membres du conseil d'administration en exercice est fixé à trois, ainsi que
+celui des électeurs désignés par le directeur régional des affaires sanitaires
+et sociales.
+
+La date de la première réunion de la commission d'organisation électorale est
+fixée par le préfet de région. Elle a lieu au plus tard à la date du dépôt des
+listes électorales.

@@ -1,17 +1,17 @@
 Article R183-13
 ----
 Pour la nomination au poste de directeur, le directeur général de l'Union
-nationale des caisses d'assurance maladie, après avis du directeur de la Caisse
-nationale maladie maternité des travailleurs non salariés et du directeur de la
-Caisse centrale de mutualité sociale agricole, informe, dans les huit jours
-suivant la réunion du comité des carrières, le conseil de l'union concernée de
-la candidature retenue parmi celles ayant reçu un avis favorable du comité des
+nationale des caisses d'assurance maladie, après avis du directeur général de la
+Caisse nationale du régime social des indépendants et du directeur de la Caisse
+centrale de mutualité sociale agricole, informe, dans les huit jours suivant la
+réunion du comité des carrières, le conseil de l'union concernée de la
+candidature retenue parmi celles ayant reçu un avis favorable du comité des
 carrières sur l'adéquation au poste à pourvoir.
 
 Pour la nomination au poste d'agent comptable, le directeur général de l'Union
-nationale des caisses d'assurance maladie, après avis du directeur de la Caisse
-nationale maladie-maternité des travailleurs non salariés et du directeur de la
-Caisse centrale de mutualité sociale agricole, communique au conseil de l'union
+nationale des caisses d'assurance maladie, après avis du directeur général de la
+Caisse nationale du régime social des indépendants et du directeur de la Caisse
+centrale de mutualité sociale agricole, communique au conseil de l'union
 régionale, dans les trente jours suivant la date limite de dépôt des
 candidatures, le nom du candidat retenu.
 

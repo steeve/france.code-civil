@@ -1,11 +1,17 @@
 Article R611-46
 ----
-Chaque année , lors de sa première réunion, le conseil d'administration
-constitue en son sein une commission de recours amiable pour l'examen des
-réclamations relevant de l'article L. 142-1 et formées contre les décisions de
-la caisse.
+Le vote a lieu par correspondance.
 
-Cette commission est composée de quatre membres titulaires et de quatre membres
-suppléants.
+Le bulletin de vote est placé dans l'enveloppe fournie à cette fin par la
+commission d'organisation électorale. Aucune mention ne doit être portée sur
+cette enveloppe, qui est placée dans la seconde enveloppe fournie par la
+commission d'organisation électorale. Cette seconde enveloppe qui porte
+l'indication des nom, prénoms et adresse de l'électeur est close et, après
+fermeture, l'électeur y appose sa signature.
 
-Elle peut recevoir délégation du conseil d'administration pour statuer.
+L'enveloppe contenant le vote doit être remise à la commission de recensement
+des votes ou au service postal au plus tard le jour de l'élection. L'envoi fait
+sous forme de lettre ordinaire est accepté avec dispense d'affranchissement.
+Tout envoi postérieur à la date de l'élection (le cachet de la poste faisant
+foi) n'entre en compte ni pour le recensement ni pour le dépouillement des
+votes.

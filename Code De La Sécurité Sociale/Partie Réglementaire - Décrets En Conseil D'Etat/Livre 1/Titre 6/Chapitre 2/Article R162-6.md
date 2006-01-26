@@ -6,11 +6,11 @@ convention type sur la base des plafonds de tarifs prévus à l'article R. 162-5
 
 L'adhésion personnelle est souscrite auprès de la caisse primaire d'assurance
 maladie des travailleurs salariés, de la caisse de mutualité sociale agricole ou
-de la caisse mutuelle régionale des travailleurs non salariés des professions
-non agricoles du département ou de la circonscription intéressés. Sauf
-stipulation contraire, l'adhésion souscrite auprès de la caisse primaire
-d'assurance maladie vaut pour les deux autres caisses. La caisse primaire
-d'assurance maladie est tenue d'en informer lesdites caisses.
+de la caisse de base du régime social des indépendants du département ou de la
+circonscription intéressés. Sauf stipulation contraire, l'adhésion souscrite
+auprès de la caisse primaire d'assurance maladie vaut pour les deux autres
+caisses. La caisse primaire d'assurance maladie est tenue d'en informer lesdites
+caisses.
 
 L'adhésion personnelle prend effet au reçu par l'intéressé de la lettre par
 laquelle la caisse destinataire en constate la régularité. Elle prend fin à la
@@ -26,4 +26,4 @@ met fin aux adhésions personnelles en cours.
 Les caisses d'assurance maladie ont la faculté de diffuser par tous moyens
 appropriés la liste des chirurgiens-dentistes, sages-femmes ou auxiliaires
 médicaux ayant souscrit une adhésion personnelle. En particulier, cette liste
-peut être transmise aux assurés sociaux [*information*].
+peut être transmise aux assurés sociaux.

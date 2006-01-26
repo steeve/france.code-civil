@@ -1,19 +1,21 @@
 Article R611-56
 ----
-La commission d'organisation électorale :
+Au vu de l'avis de la section du comité des carrières des agents de direction,
+le directeur général de la caisse nationale établit la liste de trois noms
+prévue au deuxième alinéa du I de l'article L. 611-14 parmi les candidatures
+recevables transmises par le secrétaire de la section du comité des carrières.
+Cette liste est adressée par le directeur général de la caisse nationale, dans
+un délai de huit jours à compter de la réunion du comité, au président du
+conseil d'administration de l'organisme dont le poste est à pourvoir.
 
-1°) détermine les sections de vote et fixe le siège des bureaux où les votes
-sont déposés ou reçus ;
+Le directeur général de la caisse nationale informe chaque candidat de la
+présence ou de l'absence de son nom sur la liste.
 
-2°) établit les listes électorales et statue sur les réclamations y afférentes ;
+Les trois candidats sont entendus par le président et au moins un vice-président
+du conseil d'administration. Le conseil d'administration dispose d'un délai d'un
+mois pour notifier le nom du candidat de son choix au directeur général de la
+caisse nationale, qui procède alors à la nomination.
 
-3°) reçoit et enregistre les candidatures ;
-
-4°) contrôle la propagande électorale autre que celle organisée à l'échelon
-national ;
-
-5°) diffuse les documents nécessaires à la campagne électorale et aux opérations
-de vote ;
-
-6°) prend toutes mesures nécessaires à l'organisation des opérations
-électorales.
+Le secrétariat de la section du comité des carrières des agents de direction
+communique aux candidats, sur leur demande et chacun pour ce qui le concerne,
+les avis motivés de la section du comité.

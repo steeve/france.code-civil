@@ -28,9 +28,9 @@ leurs représentants, qu'ils désignent, chacun d'eux pouvant se faire accompagn
 par une personne de ses services ;
 
 2° Les directeurs de la Caisse nationale de l'assurance maladie des travailleurs
-salariés, de la Caisse nationale d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles et de la Caisse centrale
-de la mutualité sociale agricole, ou leurs représentants, qu'ils désignent ;
+salariés, de la Caisse nationale du régime social des indépendants et de la
+Caisse centrale de la mutualité sociale agricole, ou leurs représentants, qu'ils
+désignent ;
 
 3° Une personnalité désignée par décision du collège de la Haute Autorité de
 santé nommée à partir des propositions des organisations syndicales nationales

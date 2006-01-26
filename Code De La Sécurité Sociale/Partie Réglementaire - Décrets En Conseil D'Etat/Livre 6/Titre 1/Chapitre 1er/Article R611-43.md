@@ -1,27 +1,21 @@
 Article R611-43
 ----
-Le conseil d'administration règle par ses délibérations les affaires de la
-caisse.
+La commission d'organisation électorale refuse l'enregistrement de toute liste
+ou de toute candidature individuelle, lorsque ne se trouvent pas respectées les
+dispositions des articles R. 611-41 et R. 611-42.
 
-Il a notamment pour rôle :
+La décision de refus d enregistrement d'une liste ou la décision de radiation
+d'un candidat doit être motivée. Elle est notifiée par lettre recommandée avec
+demande d'avis de réception au plus tard trente-huit jours avant la date de
+l'élection aux candidats placés en tête de chaque partie de liste dans le
+premier cas et à l'intéressé dans le second cas.
 
-1°) d'établir les statuts et le règlement intérieur de la caisse ;
+Le refus d'enregistrement peut être contesté dans les trois jours de sa
+notification au candidat tête de liste ou au candidat individuel et à son
+suppléant devant le tribunal d'instance dans le ressort duquel se trouve le
+siège de la commission d'organisation électorale.
 
-2°) de voter les budgets de la gestion administrative, du contrôle médical, de
-l'action sanitaire et sociale, de la prévention et, le cas échéant, des
-établissements gérés par la caisse ;
+Le juge d'instance statue dans un délai de huit jours.
 
-3°) d'arrêter les comptes annuels ;
-
-4°) (Paragraphe abrogé)
-
-5°) de contrôler l'application par le directeur et l'agent comptable des
-dispositions législatives et réglementaires ainsi que l'exécution de ses propres
-délibérations ;
-
-6°) de confier à des organismes habilités à cet effet les opérations mentionnées
-à l'article L. 611-3 et d'approuver les conventions passées avec eux ;
-
-7°) de contrôler l'application par les organismes habilités des dispositions
-législatives et réglementaires, notamment en matière de perception des
-cotisations et d'octroi des prestations.
+La décision du juge d'instance ne peut être contestée que devant la juridiction
+saisie de l'élection.

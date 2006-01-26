@@ -13,7 +13,8 @@ de santé et les organismes d'assurance maladie ;
 actes et des prestations ;
 
 4° Le développement des actions de prévention, d'éducation et d'information
-sanitaires mises en oeuvre en application des articles L. 262-1 et L. 611-3 ;
+sanitaires mises en oeuvre en application des articles L. 262-1 et du 3° du
+premier alinéa de l'article L. 611-4 ;
 
 5° La réalisation d'études épidémiologiques, dans le respect des dispositions
 des articles 40-1 à 40-10 de la loi n° 78-17 du 6 janvier 1978 et l'évaluation

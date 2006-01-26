@@ -6,8 +6,6 @@ par leur président qui peut déléguer ses pouvoirs au directeur par mandat
 spécial ou général.
 
 Les dispositions du présent article sont applicables à tous organismes à
-l'exception de ceux ayant le caractère d'établissement public, des organismes
-des régimes d'assurance vieillesse et du régime d'assurance maladie et maternité
-des travailleurs non-salariés des professions non-agricoles, des caisses
-mutuelles d'assurance maladie et d'assurance vieillesse des cultes et de la
-caisse des Français de l'étranger.
+l'exception de ceux ayant le caractère d'établissement public, des organismes du
+régime social des indépendants, des caisses mutuelles d'assurance maladie et
+d'assurance vieillesse des cultes et de la caisse des Français de l'étranger.

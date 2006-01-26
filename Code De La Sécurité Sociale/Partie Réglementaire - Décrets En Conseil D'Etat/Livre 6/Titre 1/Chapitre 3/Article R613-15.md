@@ -1,18 +1,15 @@
 Article R613-15
 ----
-Les recettes du fonds national énumérées à l'article R. 613-2 sont versées à un
-compte de disponibilités courantes ouvert au nom de la caisse nationale
-d'assurance maladie et maternité des travailleurs non salariés des professions
-non agricoles dans les écritures de l'établissement que celle-ci a choisi.
+En cas de litige portant sur l'appartenance à un groupe professionnel d'une
+personne mentionnée à l'article R. 613-12, cette personne est rattachée au
+groupe professionnel correspondant à l'organisation d'allocation de vieillesse à
+laquelle elle se trouve affiliée pour l'application du titre II du présent
+livre, même si cette affiliation est contestée. Si cette personne n'est pas
+affiliée à une organisation d'allocation de vieillesse, elle est tenue de
+choisir un groupe professionnel de rattachement parmi ceux dont elle est
+susceptible de relever, compte tenu des règles posées aux articles R. 613-12, R.
+613-13 et R. 613-14.
 
-Une subdivision de ce compte est ouverte à chacune des caisses mutuelles
-régionales auprès d'une succursale ou du préposé de l'établissement précité.
-
-Le compte de disponibilités courantes enregistre en dépenses :
-
-1°) le montant des dépenses ou restitutions dont les autorités de tutelle
-peuvent prescrire le règlement par l'intermédiaire exclusif de ce compte ;
-
-2°) les retraits opérés par la caisse nationale et, dans les limites fixées par
-l'article R. 613-16, les retraits opérés par les caisses mutuelles régionales
-pour la réalisation des opérations autres que celles qui sont prévues au 1°.
+Les rattachements effectués en vertu des dispositions du premier alinéa du
+présent article conservent leur effet jusqu'à ce que l'appartenance de
+l'intéressé à l'un des groupes professionnels soit établie.

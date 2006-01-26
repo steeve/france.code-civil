@@ -8,9 +8,8 @@ caisse primaire correspondante, d'autre part.
 
 Lorsqu'il est fait application de l'article L. 162-7, les accords
 complémentaires doivent être signés conjointement par la caisse primaire
-d'assurance maladie des travailleurs salariés, la caisse mutuelle régionale
-d'assurance maladie des travailleurs non salariés non agricoles et la caisse de
-mutualité sociale agricole intéressées.
+d'assurance maladie des travailleurs salariés, la caisse de base du régime
+social des indépendants et la caisse de mutualité sociale agricole intéressées.
 
 Les clauses locales particulières ne peuvent déroger aux dispositions de la
 convention nationale.

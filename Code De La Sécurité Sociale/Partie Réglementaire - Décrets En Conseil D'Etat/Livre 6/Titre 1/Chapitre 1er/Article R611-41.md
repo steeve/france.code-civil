@@ -1,25 +1,21 @@
 Article R611-41
 ----
-Lorsqu'un siège d'administrateur occupé par un assuré élu au scrutin de liste
-devient vacant, il est pourvu à la vacance en faisant appel au candidat venant
-en rang utile sur la liste de l'ancien titulaire pour achever le mandat de
-celui-ci.
+Les listes de candidats à élire au scrutin de liste sont divisées en deux
+parties comportant, l'une les candidats artisans, l'autre les candidats
+commerçants. Pour chacune de ces parties, les candidatures des actifs-cotisants
+et les candidatures des retraités sont présentées séparément.
 
-Lorsque cette liste est épuisée, il n'est pas procédé au remplacement des
-administrateurs qui y figuraient.
+Chaque liste doit comporter au moins un candidat actif-cotisant ou un candidat
+retraité par département de la circonscription de la caisse.
 
-Lorsqu'un siège d'administrateur occupé par un membre nommé ou élu au scrutin
-uninominal devient vacant, il est pourvu par le suppléant de ce membre, qui
-achève le mandat du titulaire qu'il remplace.
+Le nombre de candidats de chacune de ces deux parties doit être égal à trois
+s'il n'y a qu'un administrateur à élire et, dans les autres cas, chacune des
+deux parties de la liste doit être égale à une fois et demie au moins et deux
+fois au plus le nombre d'administrateurs à élire, le résultat étant arrondi, le
+cas échéant, à l'unité supérieure.
 
-Lorsqu'un siège d'administrateur désigné par les assurés, occupé par un membre
-élu au scrutin uninominal au conseil d'administration de la caisse provinciale
-des professions libérales devient vacant, il est occupé jusqu'au prochain
-renouvellement général du conseil d'administration par le candidat élu à cet
-effet en même temps que le titulaire.
+Nul ne peut figurer sur plusieurs listes ou être candidat dans plusieurs
+circonscriptions.
 
-Lorsque les dispositions des deux alinéas qui précèdent ne peuvent recevoir
-application, il est procédé sans délai, dans les conditions prévues par
-l'article R. 611-53, à l'élection d'un nouvel administrateur qui achève le
-mandat de son prédécesseur. Toutefois, il n'y a pas lieu à élection si la
-vacance survient moins d'un an avant un renouvellement général [*délai*].
+Nul ne peut figurer comme suppléant sur plusieurs déclarations de candidature,
+ni être à la fois candidat et suppléant d'un autre candidat.

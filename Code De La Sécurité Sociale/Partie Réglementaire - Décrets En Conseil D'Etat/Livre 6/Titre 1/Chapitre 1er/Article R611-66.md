@@ -1,10 +1,8 @@
 Article R611-66
 ----
-Dans les trois jours qui suivent la date de réception de la notification
-[*délai*], appel des décisions de la commission d'organisation électorale peut
-être formé devant le tribunal d'instance dans le ressort duquel le réclamant a
-son domicile [*juridiction territorialement compétente*]. La décision du juge
-d'instance peut être déférée à la Cour de Cassation.
-
-Les dispositions des articles L. 27, R. 13, R. 14 et R. 15-1 à R. 15-7 du code
-électoral sont applicables.
+Le médecin-conseil régional ou, le cas échéant, le médecin-conseil régional
+adjoint ou le médecin-conseil chef de service sont invités à assister aux
+séances du conseil d'administration de la caisse de base, de la commission de
+recours amiable et de la commission d'action sanitaire et sociale. Ils ne
+peuvent toutefois assister aux séances du conseil d'administration, lorsque
+celui-ci délibère sur leur situation.

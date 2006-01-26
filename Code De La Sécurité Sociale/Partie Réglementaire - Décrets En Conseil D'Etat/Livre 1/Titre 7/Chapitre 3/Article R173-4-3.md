@@ -1,9 +1,9 @@
 Article R173-4-3
 ----
 Lorsque l'assuré a acquis, dans deux ou plusieurs des régimes d'assurance
-vieillesse mentionnés par l'article L. 200-2 et les 1° et 2° de l'article L.
-621-3 ainsi que par l'article L. 722-20 du code rural, des droits à pension dont
-le montant est fixé sur la base d'un salaire ou revenu annuel moyen soumis à
+vieillesse mentionnés par l'article L. 200-2 et au 2° de l'article L. 611-1
+ainsi que par l'article L. 722-20 du code rural, des droits à pension dont le
+montant est fixé sur la base d'un salaire ou revenu annuel moyen soumis à
 cotisations, le nombre d'années retenu pour calculer ce salaire ou revenu est
 déterminé, pour les pensions prenant effet postérieurement au 31 décembre 2003,
 en multipliant le nombre d'années fixé dans le régime considéré, par les

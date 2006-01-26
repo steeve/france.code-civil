@@ -1,23 +1,32 @@
 Article R611-57
 ----
-Le préfet, président de la commission d'organisation électorale, peut instituer
-dans la circonscription d'une caisse mutuelle régionale une ou plusieurs
-sous-commissions d'organisation électorale dont il fixe le siège.
+Le directeur général de la caisse nationale qui envisage, pour un motif tiré de
+l'intérêt du service, de prendre une décision de cessation de fonction d'un
+directeur ou d'un agent comptable d'une caisse de base, en application du II de
+l'article L. 611-14, recueille préalablement l'avis du président du conseil
+d'administration de la caisse intéressée et en informe le directeur régional des
+affaires sanitaires et sociales compétent ainsi que le président du conseil
+d'administration de la caisse nationale.
 
-Les sous-commissions d'organisation électorale sont présidées par un
-représentant du préfet et comprennent :
+Il convoque l'intéressé à un entretien par lettre recommandée avec demande
+d'avis de réception indiquant l'objet de la convocation en lui précisant qu'il
+peut se faire assister par une personne de son choix. Cet entretien ne peut
+avoir lieu moins de dix jours après la notification de cette lettre. Au cours de
+cet entretien, le directeur général informe l'intéressé de la décision envisagée
+et recueille ses observations.
 
-1°) deux membres du conseil d'administration en exercice désignés par celui-ci ;
+Après avoir pris connaissance des avis demandés, et au plus tard dans les quinze
+jours suivant l'entretien, le directeur général notifie sa décision motivée de
+cessation de fonctions à l'agent concerné, au président du conseil
+d'administration de la caisse de base ainsi qu'au directeur régional des
+affaires sanitaires et sociales.
 
-2°) quatre électeurs de la caisse mutuelle régionale choisis par le préfet ;
-
-3°) un représentant du directeur régional des services postaux ;
-
-4°) un représentant du directeur régional des affaires sanitaires et sociales.
-
-Toutefois, en ce qui concerne les départements d'outre-mer, le nombre des
-membres du conseil d'administration en exercice est fixé à trois, ainsi que
-celui des électeurs désignés par le préfet.
-
-Les sous-commissions d'organisation électorale sont compétentes pour exercer les
-attributions mentionnées aux 2° et 5° de l'article R. 611-56.
+Jusqu'à son reclassement dans un organisme de sécurité sociale, dans les
+conditions prévues par la convention collective, l'intéressé est rattaché pour
+sa gestion, pour une période qui ne saurait excéder six mois, à la caisse
+nationale. Durant cette période, il se voit confier par la caisse nationale une
+mission correspondant à sa qualification et à ses compétences. Il peut effectuer
+cette mission au sein d'une caisse de base. Il bénéficie durant cette période du
+maintien de l'ensemble des éléments de la rémunération qu'il percevait dans ses
+fonctions précédentes. Il lui est fait application des dispositions prévues par
+la convention collective pour sa nomination dans son nouveau poste.

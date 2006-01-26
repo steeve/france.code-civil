@@ -11,9 +11,8 @@ représentatives de la professions considérée.
 La représentation des caisses est assurée dans les conditions suivantes : cinq
 représentants désignés par la caisse nationale de l'assurance maladie des
 travailleurs salariés, deux représentants désignés par la caisse centrale de
-secours mutuels agricoles et un représentant désigné par la caisse nationale
-d'assurance maladie et maternité des travailleurs non salariés des professions
-non agricoles.
+secours mutuels agricoles et un représentant désigné par la Caisse nationale du
+régime social des indépendants.
 
 La qualité de membre d'une profession de santé est incompatible avec celle de
 représentant d'un organisme d'assurance maladie.

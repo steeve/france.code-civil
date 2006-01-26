@@ -1,9 +1,7 @@
 Article R613-14
 ----
-Les recettes et les dépenses concernant respectivement la gestion
-administrative, l'action sanitaire et sociale et la médecine préventive donnent
-lieu à l'établissement de budgets annuels.
-
-Les dépenses du contrôle médical ainsi que celles relatives aux frais de gestion
-de l'action sanitaire et sociale sont inscrites au budget de la gestion
-administrative.
+Les personnes qui bénéficient d'une allocation ou d'une pension servie par une
+des organisations mentionnées aux 1°, 2° et 3° de l'article L. 621-3 et qui
+exercent une activité non salariée non agricole relevant d'un autre groupe de
+professions, sont rattachées au groupe professionnel correspondant à leur
+allocation ou pension.

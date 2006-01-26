@@ -13,14 +13,7 @@ mutualité sociale agricole ;
 c) Un représentant de la Caisse autonome nationale de sécurité sociale dans les
 mines ;
 
-d) Un représentant de la Caisse autonome nationale de compensation de
-l'assurance vieillesse artisanale ;
-
-e) Un représentant de la Caisse de compensation de l'organisation autonome
-nationale de l'industrie et du commerce ;
-
-f) Un représentant de la Caisse nationale d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles.
+d) Deux représentants de la Caisse nationale du régime social des indépendants.
 
 2° Deux personnes qualifiées désignées par le ministre chargé de la sécurité
 sociale.

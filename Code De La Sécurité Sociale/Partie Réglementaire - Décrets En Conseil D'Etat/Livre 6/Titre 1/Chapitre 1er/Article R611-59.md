@@ -1,8 +1,14 @@
 Article R611-59
 ----
-Le secrétariat des commissions et sous-commissions d'organisation électorale et
-des commissions de recensement est assuré par les caisses mutuelles régionales.
+L'agent comptable est placé sous l'autorité administrative du directeur.
 
-Celles-ci mettent [*mise*] à la disposition des commissions et sous-commissions,
-sur demande de leur président, les moyens en personnel et en locaux. Les frais
-des élections sont à la charge de la caisse nationale.
+L'agent comptable est chargé, sous sa propre responsabilité et sous le contrôle
+du conseil d'administration, de l'ensemble des opérations comptables et
+financières de la caisse.
+
+Les comptes annuels de la caisse sont établis par l'agent comptable et, après
+avoir été visés par le directeur, présentés au conseil d'administration.
+
+Toute décision individuelle prise en matière de gestion du personnel est
+communiquée à l'agent comptable qui porte mention de la disponibilité des
+crédits correspondants et de sa conformité aux autorisations budgétaires.

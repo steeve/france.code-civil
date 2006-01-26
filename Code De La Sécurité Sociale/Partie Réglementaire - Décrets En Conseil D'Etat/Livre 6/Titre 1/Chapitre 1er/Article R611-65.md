@@ -1,12 +1,8 @@
 Article R611-65
 ----
-Dans les huit jours qui suivent la date du dépôt, tout électeur inscrit sur
-l'une des listes de la circonscription électorale peut réclamer la radiation ou
-l'inscription d'un assuré omis ou indûment inscrit.
-
-Le même droit appartient aux préfets et aux directeurs régionaux des affaires
-sanitaires et sociales.
-
-La réclamation est adressée à la commission d'organisation électorale
-compétente. Celle-ci statue dans un délai de huit jours. Ses décisions sont
-notifiées aux intéressés dans un délai de trois jours par lettre recommandée.
+Le médecin-conseil régional présente chaque année un rapport d'activité du
+service du contrôle médical au conseil d'administration de la caisse de base. Ce
+rapport, auquel sont éventuellement jointes les observations faites par la
+caisse de base, est ensuite adressé à la caisse nationale, à l'union régionale
+des caisses d'assurance maladie et au directeur régional des affaires sanitaires
+et sociales.

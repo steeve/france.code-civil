@@ -1,4 +1,4 @@
 Article R611-29
 ----
-L'arrêté mentionné au deuxième alinéa de l'article L. 611-9 est pris par le
-ministre chargé de la sécurité sociale.
+Sous réserve des dispositions du deuxième alinéa du II de l'article R. 611-31,
+les élections ont lieu par caisse de base.

@@ -4,12 +4,11 @@ En application des dispositions du troisième alinéa de l'article L. 183-3, le
 directeur général de l'Union nationale des caisses d'assurance maladie qui
 envisage, pour un motif autre que disciplinaire, de prendre une décision de
 cessation de fonctions d'un directeur ou d'un agent comptable d'une union
-régionale de caisses d'assurance maladie recueille préalablement l'avis des
-directeurs de la Caisse nationale d'assurance maladie-maternité des travailleurs
-non salariés non agricole et de la Caisse centrale de mutualité sociale
-agricole. Il recueille également l'avis du président du conseil et informe le
-directeur régional des affaires sanitaires et sociales ainsi que le président du
-comité des carrières.
+régionale de caisses d'assurance maladie recueille préalablement l'avis du
+directeur général de la Caisse nationale du régime social des indépendants et du
+directeur et de la Caisse centrale de mutualité sociale agricole. Il recueille
+également l'avis du président du conseil et informe le directeur régional des
+affaires sanitaires et sociales ainsi que le président du comité des carrières.
 
 Il convoque l'intéressé à un entretien, par lettre recommandée indiquant l'objet
 de la convocation en lui précisant qu'il peut se faire assister d'une personne

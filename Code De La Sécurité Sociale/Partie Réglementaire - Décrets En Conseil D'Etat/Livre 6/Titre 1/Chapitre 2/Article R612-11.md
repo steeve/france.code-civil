@@ -18,7 +18,7 @@ Le débiteur peut former opposition par inscription au secrétariat du tribunal
 des affaires de sécurité sociale dans le ressort duquel il est domicilié ou par
 lettre recommandée avec demande d'avis de réception adressée au secrétariat
 dudit tribunal dans les quinze jours à compter de la signification ou de la
-notification . L'opposition doit être motivée ; une copie de la contrainte
+notification. L'opposition doit être motivée ; une copie de la contrainte
 contestée doit lui être jointe. Le secrétariat du tribunal des affaires de
 sécurité sociale informe l'organisme créancier dans les huit jours de la
 réception de l'opposition.
@@ -35,9 +35,9 @@ opposition, est exécutoire de droit à titre provisoire.
 Les frais de recouvrement afférents à la délivrance de la contrainte et aux
 actes qui lui font suite sont à la charge des débiteurs faisant l'objet desdites
 contraintes. Toutefois, ces frais sont, dans le cas d'opposition jugée fondée, à
-la charge soit de la caisse mutuelle régionale, soit de l'organisme
-conventionné, selon la responsabilité encourue.
+la charge soit de la caisse de base, soit de l'organisme conventionné, selon la
+responsabilité encourue.
 
 Pour le recouvrement de l'indu mentionné à l'article L. 133-4, la contrainte est
-délivrée par le directeur de la caisse mutuelle régionale. Elle est régie par
-les dispositions du présent article.
+délivrée par le directeur de la caisse de base. Elle est régie par les
+dispositions du présent article.

@@ -4,10 +4,10 @@ I. - Pour le calcul et le recouvrement des cotisations dont ils sont redevables
 au titre des régimes obligatoires de sécurité sociale et de la contribution
 sociale généralisée, les travailleurs non salariés des professions non agricoles
 souscrivent une déclaration commune de revenus lorsqu'une convention est passée
-à cet effet entre la Caisse nationale d'assurance maladie et maternité des
-professions non salariées, les organisations autonomes d'assurance vieillesse
-mentionnées aux 1°, 2° et 3° de l'article L. 621-3, l'Agence centrale des
-organismes de sécurité sociale et la Caisse nationale des barreaux français.
+à cet effet entre la Caisse nationale du régime social des indépendants, les
+organisations autonomes d'assurance vieillesse des membres du groupe des
+professions libérales, l'Agence centrale des organismes de sécurité sociale et
+la Caisse nationale des barreaux français.
 
 La convention a notamment pour objet de désigner l'organisme chargé de la
 collecte des déclarations mentionnées au premier alinéa ci-dessus et de fixer
@@ -18,9 +18,9 @@ L'organisme chargé de la collecte adresse chaque année, au plus tard le 1er
 avril, à tous les travailleurs indépendants concernés par la mise en oeuvre de
 la déclaration commune, un imprimé conforme au modèle arrêté par le ministre
 chargé de la sécurité sociale et qui tient lieu de ceux prévus respectivement
-aux articles R. 243-25, R. 614-3, R. 723-16-1, D. 633-3 et D. 642-3. Les assurés
-sont tenus de retourner à l'organisme, au plus tard le 1er mai, cet imprimé
-dûment rempli et signé.
+aux articles R. 243-25, R. 612-18, R. 723-16-1, D. 633-3 et D. 642-3. Les
+assurés sont tenus de retourner à l'organisme, au plus tard le 1er mai, cet
+imprimé dûment rempli et signé.
 
 II. - Le travailleur indépendant peut choisir, dans le cadre d'un contrat qu'il
 passe avec l'organisme chargé de la collecte des déclarations communes,

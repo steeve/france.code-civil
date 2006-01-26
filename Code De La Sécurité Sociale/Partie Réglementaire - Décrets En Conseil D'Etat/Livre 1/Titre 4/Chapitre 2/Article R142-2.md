@@ -2,8 +2,8 @@ Article R142-2
 ----
 La commission prévue à l'article précédent comprend :
 
-1°) pour les organismes de sécurité sociale autres que ceux qui sont prévus à
-l'article L. 621-3 :
+1°) pour les organismes de sécurité sociale chargés des groupes professionnels
+autres que ceux qui sont prévus à l'article L. 621-3 :
 
 a. deux administrateurs de l'organisme appartenant à la même catégorie que le
 réclamant ;
@@ -23,8 +23,12 @@ Lorsque la réclamation est formée par un ou plusieurs ayants droit d'un
 travailleur salarié, la commission est constituée comme en matière de
 réclamation présentée par un salarié ;
 
-2°) pour les organismes de sécurité sociale de non-salariés mentionnés à
-l'article L. 621-3 : quatre administrateurs de l'organisme intéressé ;
+2°) pour les organismes de sécurité sociale chargés des groupes professionnels
+de non-salariés mentionnés à l'article L. 621-3 :
+
+quatre administrateurs de l'organisme intéressé ;
+
+La commission comprend un nombre de suppléants égal à celui des titulaires.
 
 3°) pour les organismes de mutualité sociale agricole :
 
@@ -37,7 +41,7 @@ la main-d'oeuvre peuvent être désignés à l'un ou l'autre titre.
 
 La commission peut valablement statuer dans les cas mentionnés aux 1° et 3° si
 l'un au moins des représentants de chaque fraction de la commission est présent
-et, dans les cas mentionnés au 2°, si deux de ses membres sont présents .
+et, dans les cas mentionnés au 2°, si deux de ses membres sont présents.
 
 Les membres de la commission sont désignés au début de chaque année, par le
 conseil d'administration de l'organisme.

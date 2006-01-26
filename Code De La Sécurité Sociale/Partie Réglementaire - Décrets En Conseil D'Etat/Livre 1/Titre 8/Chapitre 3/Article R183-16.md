@@ -24,10 +24,9 @@ la gestion du risque par les organismes membres de l'union régionale. Ce rappor
 est communiqué au directeur régional des affaires sanitaires et sociales, au
 chef du service régional de l'inspection du travail, de l'emploi et de la
 politique sociale agricoles, à la Caisse nationale de l'assurance maladie des
-travailleurs salariés, à la Caisse nationale d'assurance maladie et maternité
-des travailleurs non salariés des professions non agricoles et à la Caisse
-centrale de la mutualité sociale agricole ainsi qu'aux organismes membres de
-l'union ;
+travailleurs salariés, à la Caisse nationale du régime social des indépendants
+et à la Caisse centrale de la mutualité sociale agricole ainsi qu'aux organismes
+membres de l'union ;
 
 5° De coordonner les actions de prévention et d'éducation sanitaire nécessaires
 au respect des priorités de santé publique arrêtées au niveau régional ;

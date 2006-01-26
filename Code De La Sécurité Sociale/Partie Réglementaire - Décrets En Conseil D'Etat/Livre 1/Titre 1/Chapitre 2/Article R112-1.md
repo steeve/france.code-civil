@@ -4,9 +4,7 @@ Sous réserve des dispositions du troisième alinéa, le ministre chargé de la
 sécurité sociale est chargé de l'application de l'ensemble des dispositions
 législatives et réglementaires relatives à la sécurité sociale.
 
-En ce qui concerne les régimes spéciaux, les régimes d'assurance vieillesse des
-non-salariés et le régime d'assurance maladie et maternité des travailleurs
-non-salariés des professions non agricoles, le ministre chargé de la sécurité
+En ce qui concerne les régimes spéciaux, le ministre chargé de la sécurité
 sociale exerce ces attributions conjointement avec les ministres intéressés.
 
 Sans préjudice des dispositions des articles R. 113-1 et R. 114-1, le ministre

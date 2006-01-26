@@ -1,15 +1,18 @@
 Article R611-34
 ----
-L'agent comptable est placé sous l'autorité administrative du directeur. Il est
-chargé, sous sa propre responsabilité et sous le contrôle du conseil
-d'administration, de l'ensemble des opérations financières de la caisse.
+La commission d'organisation électorale :
 
-Ses attributions et les conditions dans lesquelles sa responsabilité pécuniaire
-peut être mise en jeu sont définies par décret. Toutefois, aucune sanction ne
-peut être prise contre lui s'il justifie avoir agi en conformité avec les
-dispositions dudit décret. Sa gestion est garantie par un cautionnement dont le
-montant minimum est fixé dans les conditions déterminées par arrêté du ministre
-chargé du budget et du ministre chargé de la sécurité sociale.
+1° Détermine les sections de vote et fixe le siège des bureaux où les votes sont
+déposés ou reçus ;
 
-Le compte financier de l'organisme est établi par l'agent comptable et présenté
-au conseil d'administration.
+2° Etablit les listes électorales et statue sur les réclamations y afférentes ;
+
+3° Reçoit et enregistre les candidatures ;
+
+4° Contrôle la propagande électorale autre que celle organisée à l'échelon
+national ;
+
+5° Diffuse les documents nécessaires à la campagne électorale et aux opérations
+de vote ;
+
+6° Prend toutes mesures nécessaires à l'organisation des opérations électorales.

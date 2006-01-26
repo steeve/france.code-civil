@@ -8,10 +8,10 @@ dispensés aux assurés sociaux et à leurs ayants droit sont établis, pour cha
 département ou chaque circonscription de caisse primaire d'assurance maladie,
 par des conventions entre, d'une part, la caisse primaire d'assurance maladie,
 la caisse de mutualité sociale agricole ou, pour les groupes de professions
-mentionnées à l'article L. 615-1, par la caisse mutuelle régionale compétente
-et, d'autre part, un ou plusieurs des syndicats les plus représentatifs au sens
-de l'article L. 133-2 du code du travail, dans la circonscription considérée, de
-la profession intéressée.
+mentionnées à l'article L. 615-1, par la caisse de base du régime social des
+indépendants compétente et, d'autre part, un ou plusieurs des syndicats les plus
+représentatifs au sens de l'article L. 133-2 du code du travail, dans la
+circonscription considérée, de la profession intéressée.
 
 Ces conventions doivent, à peine de nullité, être conformes à la fois aux
 dispositions législatives et réglementaires en vigueur et aux clauses de

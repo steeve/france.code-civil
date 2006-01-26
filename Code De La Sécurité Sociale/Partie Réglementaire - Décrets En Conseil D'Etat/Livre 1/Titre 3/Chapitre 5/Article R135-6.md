@@ -25,41 +25,41 @@ nationale d'assurance vieillesse des travailleurs salariés ;
 mutualité sociale agricole ;
 
 7° Les présidents des conseils d'administration, ou leurs représentants, de
-chacune des organisations autonomes d'assurance vieillesse mentionnées aux 1°,
-2° et 3° de l'article L. 621-3 ;
+chacune des organisations autonomes d'assurance vieillesse mentionnées chargées
+des groupes professionnels mentionnés aux 1°, 2° et 3° de l'article L. 621-3 ;
 
 8° Cinq représentants des assurés sociaux désignés par les organisations
 syndicales de salariés interprofessionnelles représentatives au plan national à
 raison de :
 
--un par la Confédération générale du travail ;
+- un par la Confédération générale du travail ;
 
--un par la Confédération générale du travail-Force ouvrière ;
+- un par la Confédération générale du travail-Force ouvrière ;
 
--un par la Confédération française démocratique du travail ;
+- un par la Confédération française démocratique du travail ;
 
--un par la Confédération française des travailleurs chrétiens ;
+- un par la Confédération française des travailleurs chrétiens ;
 
--un par la Confédération française de l'encadrement-CGC ;
+- un par la Confédération française de l'encadrement-CGC ;
 
 9° Cinq représentants des employeurs et travailleurs indépendants désignés par
 les organisations professionnelles d'employeurs et de travailleurs indépendants
 représentatives à raison de :
 
--trois par le Mouvement des entreprises de France ;
+- trois par le Mouvement des entreprises de France ;
 
--un par la Confédération générale des petites et moyennes entreprises ;
+- un par la Confédération générale des petites et moyennes entreprises ;
 
--un par l'Union professionnelle artisanale.
+- un par l'Union professionnelle artisanale.
 
 10° Quatre personnes qualifiées dans les domaines relevant des missions du fonds
 de solidarité vieillesse désignées à raison de :
 
--deux par le ministre chargé de la sécurité sociale ;
+- deux par le ministre chargé de la sécurité sociale ;
 
--une par le ministre chargé de l'économie ;
+- une par le ministre chargé de l'économie ;
 
--une par le ministre chargé du budget.
+- une par le ministre chargé du budget.
 
 11° Un représentant des régimes de retraite autres que ceux énumérés ci-dessus,
 désigné après entente entre les présidents des caisses et institutions

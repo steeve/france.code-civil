@@ -1,11 +1,11 @@
 Article R162-3
 ----
 Pour une même circonscription géographique, la caisse primaire d'assurance
-maladie, la caisse de mutualité sociale agricole et chaque caisse mutuelle
-régionale des travailleurs non salariés des professions non agricoles compétente
-ont la faculté de conclure conjointement des conventions communes avec les
-syndicats de chirurgiens-dentistes, de sages-femmes ou d'auxiliaires médicaux,
-ou avec les dispensaires publics ou privés.
+maladie, la caisse de mutualité sociale agricole et chaque caisse de base du
+régime social des indépendants compétente ont la faculté de conclure
+conjointement des conventions communes avec les syndicats de
+chirurgiens-dentistes, de sages-femmes ou d'auxiliaires médicaux, ou avec les
+dispensaires publics ou privés.
 
 Dans le cas où une convention n'a été signée que par une ou plusieurs caisses,
 chacune des autres caisses conserve la possibilité de signer également une

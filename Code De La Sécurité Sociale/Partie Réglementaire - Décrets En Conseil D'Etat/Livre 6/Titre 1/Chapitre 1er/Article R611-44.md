@@ -1,10 +1,8 @@
 Article R611-44
 ----
-Lors de son installation et après chaque renouvellement, le conseil
-d'administration élit un président et un bureau.
-
-Le conseil peut déléguer une partie de ses attributions au bureau dans les
-limites fixées par les modèles de statuts.
-
-Il peut être créé auprès du conseil d'administration une commission de gestion
-du risque.
+La commission d'organisation électorale demande au juge d'instance dans le
+ressort duquel se trouve le siège de la caisse de prononcer la radiation de
+l'inscription de candidats inéligibles et d'opposer un refus d'enregistrement à
+toute liste ne comportant plus de ce fait le nombre minimal de candidats prévus
+à l'article R. 611-41. Les dispositions des quatrième et cinquième alinéas de
+l'article R. 611-43 sont applicables au juge d'instance.

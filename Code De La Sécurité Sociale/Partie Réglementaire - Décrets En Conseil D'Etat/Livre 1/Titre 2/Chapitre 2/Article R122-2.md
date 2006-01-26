@@ -7,7 +7,3 @@ d'assurance contre la maladie, la maternité, la vieillesse, l'invalidité, le
 décès, le veuvage, les accidents du travail et les maladies professionnelles ou
 de prestations familiales, ainsi qu'aux unions ou fédérations desdits
 organismes.
-
-En ce qui concerne les organismes d'assurance vieillesse des professions
-artisanales, industrielles et commerciales, les dispositions de l'article R.
-122-1 peuvent faire l'objet d'adaptations par décret.

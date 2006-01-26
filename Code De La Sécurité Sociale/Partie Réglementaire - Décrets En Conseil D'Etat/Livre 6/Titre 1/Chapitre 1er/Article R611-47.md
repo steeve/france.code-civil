@@ -1,12 +1,26 @@
 Article R611-47
 ----
-L'administrateur qui cesse en cours de mandat de remplir les conditions
-d'éligibilité mentionnées au troisième alinéa de l'article L. 611-12 est déclaré
-démissionnaire d'office par le conseil d'administration ou, à défaut, par le
-préfet de région.
+Les enveloppes contenant les votes sont reçues au siège de la commission de
+recensement des votes. Elles y sont classées et conservées dans un local clos,
+sous la responsabilité du président de la commission de recensement des votes.
 
-L'administrateur qui se trouve dans le cas d'incompatibilité prévu au deuxième
-alinéa de l'article L. 611-12 doit opter dans le délai d'un mois entre son
-mandat d'administrateur et les fonctions incompatibles avec celui-ci. S'il n'a
-pas opté à l'expiration de ce délai, il est déclaré démissionnaire d'office de
-ses fonctions d'administrateur dans les formes prévues à l'alinéa précédent.
+Le dépouillement a lieu le quatrième jour suivant la date des élections.
+
+Les opérations de dépouillement commencent à huit heures du matin et se
+poursuivent sans désemparer jusqu'à leur achèvement.
+
+Le dépouillement est fait publiquement, sous la responsabilité de la commission
+de recensement des votes, par des bureaux de dépouillement comprenant au moins
+quatre scrutateurs ou, en ce qui concerne les élections qui ont eu lieu dans les
+départements mentionnés à l'article L. 751-1, au moins trois scrutateurs
+désignés comme il est dit ci-après.
+
+La commission de recensement des votes invite les candidats à lui adresser sept
+jours au plus tard avant la date de l'élection une liste d'électeurs, dont le
+nombre est fixé par la commission en fonction du nombre d'électeurs inscrits.
+Les scrutateurs sont choisis par la commission de recensement des votes, le cas
+échéant par tirage au sort, parmi les personnes figurant sur ces listes et les
+électeurs qui se sont inscrits auprès de la commission de recensement des votes
+pour participer aux opérations. A défaut d'un nombre suffisant de scrutateurs,
+le président de la commission désigne des agents de la caisse ou des
+administrations publiques pour compléter les bureaux de dépouillement.

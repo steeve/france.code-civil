@@ -1,12 +1,11 @@
 Article R611-39
 ----
-Les conseils d'administration des caisses mutuelles régionales compétentes pour
-les professions libérales ont la même composition que celle prévue à l'article
-R. 611-38, sous réserve des dispositions suivantes :
+La commission d'organisation électorale procède aux inscriptions sur les listes
+électorales, dans les conditions fixées à l'article R. 611-38.
 
-1°) les conseils d'administration de ces caisses comprennent deux médecins
-désignés dans les conditions prévues à l'article R. 611-88 ;
+Les conditions d'inscription sont appréciées au premier jour du semestre civil
+précédent celui de l'élection.
 
-2°) le conseil d'administration de la caisse mutuelle provinciale des
-professions libérales comprend trois personnes connues pour leurs travaux ou
-leurs activités en matière de protection sociale, de prévoyance ou de mutualité.
+Les listes électorales sont aussitôt après leur établissement déposées au siège
+de la commission d'organisation électorale. Avis du dépôt est donné, avec
+indication de la date de celui-ci, par voie d'affichage et de presse.

@@ -1,7 +1,9 @@
 Article R611-5
 ----
-Le ministre chargé de la sécurité sociale procède à l'agrément du directeur de
-la caisse nationale [*autorité compétente*].
+L'élection a lieu au scrutin secret et à la majorité absolue des suffrages
+exprimés.
 
-Le ministre chargé du budget et le ministre chargé de la sécurité sociale
-procèdent conjointement à l'agrément de l'agent comptable.
+Si, après deux tours de scrutin, la majorité absolue n'a pas été atteinte, il
+est procédé à un troisième tour de scrutin et l'élection a lieu à la majorité
+relative. En cas d'égalité de suffrages, le candidat le plus âgé est proclamé
+élu.

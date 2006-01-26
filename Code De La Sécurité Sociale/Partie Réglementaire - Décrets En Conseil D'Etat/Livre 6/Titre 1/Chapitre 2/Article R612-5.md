@@ -9,9 +9,9 @@ L'inscription conserve le privilège pendant deux ans et six mois à compter du
 jour où elle est effectuée. Elle ne peut être renouvelée.
 
 Une inscription peut faire l'objet à tout moment d'une radiation totale ou
-partielle à la diligence des caisses mutuelles régionales ou du redevable sur
-présentation au greffier d'un certificat délivré par l'organisme créancier ou
-d'un acte de mainlevée émanant du créancier subrogé.
+partielle à la diligence des caisses de base ou du redevable sur présentation au
+greffier d'un certificat délivré par l'organisme créancier ou d'un acte de
+mainlevée émanant du créancier subrogé.
 
 Toutefois, le privilège est conservé au-delà du délai prévu au deuxième alinéa
 sur les biens qui ont fait l'objet d'une saisie avant l'expiration de ce délai.

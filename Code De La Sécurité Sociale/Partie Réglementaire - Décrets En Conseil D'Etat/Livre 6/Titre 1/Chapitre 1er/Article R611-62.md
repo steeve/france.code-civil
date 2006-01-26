@@ -1,15 +1,15 @@
 Article R611-62
 ----
-Les listes électorales sont établies soixante-dix jours au plus tard avant la
-date du scrutin [*délai*].
+Les dispositions des articles R. 151-1 à R. 151-4, R. 153-8, R. 153-9, R. 281-1
+à R. 281-4 et R. 281-7 sont applicables aux caisses de base.
 
-Elles sont établies par groupe professionnel. En ce qui concerne les professions
-libérales, elles sont établies conformément aux dispositions de l'article R.
-611-40.
+Pour l'application aux caisses de base des dispositions des articles L. 151-1 et
+R. 151-1, la Caisse nationale est la caisse nationale du régime social des
+indépendants.
 
-Les listes électorales sont divisées en deux parties, l'une comportant les
-actifs, l'autre les retraités. L'ensemble des électeurs appartenant au même
-groupe professionnel forme un collège électoral unique.
-
-La commission d'organisation électorale peut décider d'établir les listes par
-section de vote.
+Les dispositions de l'article R. 151-3 sont applicables aux décisions prises par
+le directeur d'une caisse de base agissant soit par délégation du conseil
+d'administration, soit en vertu de ses pouvoirs propres. Ces dispositions sont
+également applicables aux décisions de même nature prises par les agents
+auxquels le directeur a donné délégation, conformément aux dispositions en
+vigueur, ou par l'agent chargé de l'intérim des fonctions de directeur.

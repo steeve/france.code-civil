@@ -1,10 +1,12 @@
 Article R611-42
 ----
-Lorsqu'un conseil d'administration a été dissous ou que le nombre de ses membres
-élus représentant les assurés se trouve, après épuisement de la liste, réduit,
-par suite de décès, démission ou déchéance, de plus de la moitié, il est procédé
-à de nouvelles élections, totales ou partielles suivant le cas, dans un délai de
-quatre mois. Il n'y a pas lieu à de nouvelles élections lorsqu'un renouvellement
-général doit intervenir dans moins de six mois.
+Les listes de candidats sont déposées au siège de la commission d'organisation
+électorale au plus tard le quarantième jour avant le scrutin avant 19 heures. Un
+récépissé est délivré au déposant.
 
-Les nouveaux administrateurs achèvent le mandat de leurs prédécesseurs.
+Si le quarantième jour tombe un jour non ouvrable, le dépôt est recevable
+jusqu'au premier jour ouvrable inclus qui suit.
+
+Les candidats titulaires et les suppléants sont tenus de faire une déclaration
+revêtue de leur signature, énonçant leurs noms, prénoms, domicile, profession,
+date de naissance et leur rang d'inscription sur la liste.

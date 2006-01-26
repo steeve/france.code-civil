@@ -1,27 +1,17 @@
 Article R611-11
 ----
-Le conseil d'administration règle par ses délibérations les affaires de la
-caisse .
+Lorsqu'il est saisi par le ministre chargé de la sécurité sociale et le ministre
+chargé du commerce, de l'artisanat et des professions libérales de la
+proposition de nomination du directeur général, conformément au I de l'article
+L. 611-6, le conseil dispose d'un délai de onze jours à compter de sa saisine
+pour faire valoir le cas échéant son droit d'opposition. A défaut de réponse
+dans ce délai, l'avis est réputé favorable. En cas d'opposition, les ministres
+transmettent une nouvelle proposition.
 
-Il a notamment pour rôle :
-
-1°) d'établir le règlement intérieur de la caisse ;
-
-2°) de voter le budget de la gestion administrative et le budget de l'action
-sanitaire et sociale de la caisse nationale et de déterminer par catégorie le
-nombre d'emplois que comportent les services de la caisse ;
-
-3°) de voter le budget national consolidé de la gestion administrative, le
-budget national consolidé de l'action sanitaire et sociale et le budget national
-consolidé de la médecine préventive ;
-
-4°) de nommer le directeur et l'agent comptable, sous réserve des agréments
-prévus à l'article R. 611-5, ainsi que les agents de direction dont la
-désignation lui est réservée par le règlement intérieur ;
-
-5°) de contrôler l'application par le directeur et l'agent comptable des
-dispositions législatives et réglementaires ainsi que l'exécution de ses propres
-délibérations ;
-
-6°) d'arrêter les comptes annuels de la caisse nationale et les comptes annuels
-consolidés du régime.
+Lorsqu'il est envisagé de mettre fin aux fonctions du directeur général avant le
+terme de son mandat, les ministres mentionnés à l'article R. 611-15 en informent
+le conseil d'administration de la caisse nationale, conformément au III de
+l'article L. 611-6. Le conseil dispose d'un délai de quinze jours à compter de
+sa saisine pour faire connaître son avis aux ministres. L'avis est réputé
+favorable en l'absence de sa notification aux ministres précités dans le délai
+de quinze jours.

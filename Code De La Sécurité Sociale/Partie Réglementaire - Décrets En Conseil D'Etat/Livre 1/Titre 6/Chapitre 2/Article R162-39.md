@@ -8,8 +8,7 @@ de la santé, de l'agriculture et du budget ;
 
 2° De représentants de la Caisse nationale de l'assurance maladie des
 travailleurs salariés, de la Caisse centrale de mutualité sociale agricole et de
-la Caisse d'assurance maladie et maternité des travailleurs non salariés des
-professions non agricoles ;
+la Caisse nationale du régime social des indépendants ;
 
 3° De représentants du comité professionnel national de l'hospitalisation privée
 mentionné à l'article L. 162-22-2.

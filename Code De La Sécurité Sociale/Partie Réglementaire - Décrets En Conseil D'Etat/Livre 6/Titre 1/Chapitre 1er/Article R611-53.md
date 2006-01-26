@@ -1,19 +1,6 @@
 Article R611-53
 ----
-A l'exception des administrateurs de la caisse mutuelle provinciale des
-professions libérales, les administrateurs désignés par les assurés sont élus au
-scrutin de liste, à la représentation proportionnelle, sans panachage, ni vote
-préférentiel, suivant la règle de la plus forte moyenne .
-
-Au cas où il ne reste qu'un seul siège à attribuer, si deux listes ont la même
-moyenne le siège revient à la liste qui a obtenu le plus grand nombre de
-suffrages.
-
-Si les deux listes en cause ont également recueilli le même nombre de suffrages,
-le siège est donné au plus âgé des deux candidats susceptibles d'être proclamés
-élus.
-
-Les administrateurs de la caisse mutuelle provinciale des professions libérales
-sont élus au scrutin uninominal, en même temps que les personnes appelées à les
-remplacer en cas de vacance de siège. Ces personnes doivent remplir les
-conditions d'éligibilité exigées des candidats.
+Les fonctions de directeur et d'agent comptable ne peuvent être confiées qu'à
+des personnes majeures, jouissant de leurs droits civils et civiques, et n'ayant
+pas fait l'objet de condamnations ou de sanctions prévues à l'article 1er de la
+loi n° 47-1635 du 30 août 1947 modifiée.

@@ -12,8 +12,7 @@ La représentation des caisses est assurée dans les conditions suivantes : cinq
 représentants désignés par la ou les caisses primaires d'assurance maladie des
 travailleurs salariés du département, deux représentants désignés par la caisse
 de mutualité sociale agricole et un représentant désigné d'un commun accord par
-les caisses mutuelles régionales d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles compétentes, dans le
+les caisses de base du régime social des indépendants compétentes, dans le
 département, pour les groupes de professions mentionnées à l'article L. 615-1.
 
 La qualité de membre d'une profession de santé est incompatible avec celle de

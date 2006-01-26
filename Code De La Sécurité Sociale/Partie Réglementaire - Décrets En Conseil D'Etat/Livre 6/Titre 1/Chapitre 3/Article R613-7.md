@@ -1,18 +1,22 @@
 Article R613-7
 ----
-Le fonds national de médecine préventive doit être équilibré en recettes et en
-dépenses. Il assure la couverture des dépenses de médecine préventive des
-caisses mutuelles régionales. Il verse aux unions régionales des caisses
-d'assurance maladie ou, dans les régions d'outre-mer, à la caisse générale de
-sécurité sociale ou, à Saint-Pierre-et-Miquelon, à la caisse de prévoyance
-sociale la contribution mentionnée à l'article R. 1411-25 du code de la santé
-publique.
+Lorsqu'une personne bénéficie au titre de régimes différents de plusieurs
+avantages, pensions ou rentes d'invalidité ou de vieillesse servies en
+application soit de la réglementation applicable aux régimes spéciaux mentionnés
+à l'article L. 711-1 du présent code, soit du livre III, du titre II du présent
+livre ou des chapitres 1er et 3 du titre Ier du livre VIII du même code, soit
+des chapitres 2, 3-1 et 4 du titre II du livre VII code rural, son activité
+principale est déterminée comme suit :
 
-Les recettes du fonds national de médecine préventive sont constituées par sa
-dotation.
+1°) si cette personne bénéficie en même temps d'une pension ou rente acquise à
+titre personnel et d'un avantage de réversion, elle est réputée avoir exercé à
+titre principal l'activité qui lui a ouvert droit à l'avantage acquis à titre
+personnel ;
 
-Un arrêté annuel du ministre chargé de la sécurité sociale et du ministre chargé
-du budget fixe en dépenses du fonds national de médecine préventive le montant
-des dotations que la caisse nationale attribue aux caisses mutuelles régionales
-en fonction des charges de médecine préventive qu'elles ont couvertes pendant
-l'exercice concerné.
+2°) si cette personne bénéficie en même temps, à titre personnel, de plusieurs
+avantages de même nature, soit au titre de l'invalidité, soit au titre de la
+vieillesse, elle est réputée avoir exercé à titre principal l'activité
+correspondant au régime dans lequel elle compte le plus grand nombre d'années de
+cotisation. Dans le cas où l'un ou plusieurs des avantages sont de caractère non
+contributif, est réputée activité principale celle qui a été exercée pendant le
+plus grand nombre d'années.
