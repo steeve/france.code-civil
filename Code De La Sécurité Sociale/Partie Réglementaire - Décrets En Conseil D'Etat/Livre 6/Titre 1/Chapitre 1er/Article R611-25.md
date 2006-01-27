@@ -1,19 +1,14 @@
 Article R611-25
 ----
-Le conseil d'administration se réunit, sur convocation de son président, au
-moins quatre fois par an .
+En application de l'article R. 611-24, le médecin et le pharmacien siégeant à
+titre consultatif dans les conseils d'administration des caisses de base sont
+désignés par les conseils départementaux de l'ordre des médecins et les conseils
+régionaux des pharmaciens dont la circonscription est comprise en tout ou partie
+dans celle des caisses de base.
 
-Il est convoqué par le président soit à l'initiative de celui-ci, soit à la
-demande du ministre chargé de la sécurité sociale.
+Pour le conseil d'administration de la caisse provinciale des professions
+libérales, le médecin est désigné par le Conseil national de l'ordre des
+médecins et le pharmacien est désigné par le Conseil national de l'ordre des
+pharmaciens.
 
-Les délibérations du conseil ne sont valables que si la moitié au moins des
-membres qui le composent assiste à la réunion. Néanmoins, après une seconde
-convocation indiquant que le quorum n'a pas été atteint, elles sont valables
-quel que soit le nombre des membres présents.
-
-Elles sont prises à la majorité des membres présents. En cas de partage, la voix
-du président est prépondérante.
-
-Les représentants du ministre chargé de la sécurité sociale et du ministre
-chargé du budget assistent aux séances du conseil d'administration et sont
-entendus chaque fois qu'ils le demandent.
+Il est procédé à la désignation d'un nombre égal de suppléants.

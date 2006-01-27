@@ -1,14 +1,19 @@
 Article R611-30
 ----
-Le ministre chargé de la sécurité sociale arrête le modèle de statuts des
-caisses mutuelles régionales d'assurance maladie et maternité des travailleurs
-non salariés des professions non agricoles. Ce modèle comporte des dispositions
-obligatoires et des dispositions facultatives.
+I. ― Sont électeurs au conseil d'administration d'une caisse de base commune aux
+groupes professionnels des artisans, des industriels et commerçants :
 
-Les statuts et les règlements intérieurs, ainsi que leurs modifications, sont
-soumis à l'approbation du préfet de région qui dispose d'un délai de trente
-jours à compter de la date de réception pour les approuver ou s'y opposer. Passé
-ce délai, ces documents sont considérés comme approuvés.
+― les assurés, bénéficiaires des prestations maladie et maternité ;
 
-L'approbation initiale des statuts d'une caisse est donnée par l'acte
-d'enregistrement de ladite caisse.
+― les affiliés cotisants et retraités aux régimes d'assurances vieillesse,
+invalidité-décès des artisans, des industriels et commerçants ;
+
+― les assurés volontaires.
+
+II. ― Sont électeurs aux conseils d'administration des caisses de base du groupe
+des professions libérales les assurés bénéficiaires des prestations maladies et
+maternité.
+
+III. ― Sont électeurs aux conseils d'administration des caisses de base des
+départements d'outre-mer les électeurs mentionnés au I et au II du présent
+article.

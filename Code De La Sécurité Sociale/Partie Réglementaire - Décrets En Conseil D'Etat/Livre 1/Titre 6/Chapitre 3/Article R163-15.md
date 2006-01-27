@@ -35,10 +35,9 @@ de santé ou son représentant.
 Chacun d'eux peut se faire accompagner par une personne de ses services ;
 
 b) Les directeurs de la Caisse nationale de l'assurance maladie des travailleurs
-salariés, de la Caisse nationale d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles et de la Caisse centrale
-de la mutualité sociale agricole, ou leur représentant, médecin ou pharmacien,
-qu'ils désignent ;
+salariés, de la Caisse nationale du régime social des indépendants et de la
+Caisse centrale de la mutualité sociale agricole, ou leur représentant, médecin
+ou pharmacien, qu'ils désignent ;
 
 c) Un représentant des organisations syndicales représentatives des fabricants
 de produits pharmaceutiques nommé, sur proposition de celles-ci, par décision du

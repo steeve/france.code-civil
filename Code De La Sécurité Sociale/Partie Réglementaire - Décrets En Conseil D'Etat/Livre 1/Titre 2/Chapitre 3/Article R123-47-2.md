@@ -9,5 +9,5 @@ l'organisme considéré ; il doit avoir exercé précédemment au moins une fonc
 d'agent de direction ou d'agent comptable dans un organisme différent.
 
 Les dispositions du présent article sont applicables aux organismes de sécurité
-sociale mentionnés aux 1° et 2° de l'article R. 111-1, à l'exception de ceux
+sociale mentionnés aux 1°, 2° et 4° de l'article R. 111-1, à l'exception de ceux
 ayant le statut d'établissement public.

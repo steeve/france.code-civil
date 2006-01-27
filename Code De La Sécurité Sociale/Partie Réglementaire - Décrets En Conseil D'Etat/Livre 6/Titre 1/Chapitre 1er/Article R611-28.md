@@ -1,10 +1,12 @@
 Article R611-28
 ----
-Les circonscriptions des caisses mutuelles régionales, le nombre total des
-membres des conseils d'administration desdites caisses déterminé en fonction du
-nombre d'assurés et la répartition des sièges de ces conseils d'administration
-entre les administrateurs élus par les assurés et les autres catégories
-d'administrateurs, ainsi que la répartition des sièges attribués aux
-administrateurs élus, actifs et retraités, entre les divers groupes
-professionnels, sont fixés conformément aux tableaux annexés au présent
-chapitre.
+Les élections des membres des conseils d'administration des caisses de base ont
+lieu à la même date dans toutes les circonscriptions.
+
+Cette date est fixée par arrêté du ministre chargé de la sécurité sociale.
+
+Toutefois, la date des élections prévues à l'article R. 611-52 concernant une
+seule caisse de base est fixée par arrêté du préfet de région de la
+circonscription de la caisse.
+
+Les frais des élections sont à la charge de la caisse nationale.

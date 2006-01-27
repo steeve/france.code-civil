@@ -18,9 +18,8 @@ Le rapport d'activité accompagné des observations mentionnées à l'alinéa
 précédent est adressé par le préfet au ministre chargé de la sécurité sociale,
 au ministre chargé de la santé et au ministre chargé de l'agriculture qui
 consultent soit la caisse nationale de l'assurance maladie des travailleurs
-salariés, la caisse nationale d'assurance maladie et maternité des travailleurs
-non salariés des professions non agricoles et la caisse centrale de secours
-mutuels agricoles, soit l'une ou deux seulement d'entre elles, en fonction du
-champ d'application de l'action agréée. L'agrément prévu à l'article R. 162-46
-peut être retiré en cas d'avis défavorable de la ou des caisses nationales
-régulièrement consultées.
+salariés, la Caisse nationale du régime social des indépendants et la caisse
+centrale de secours mutuels agricoles, soit l'une ou deux seulement d'entre
+elles, en fonction du champ d'application de l'action agréée. L'agrément prévu à
+l'article R. 162-46 peut être retiré en cas d'avis défavorable de la ou des
+caisses nationales régulièrement consultées.

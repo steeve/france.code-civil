@@ -1,12 +1,19 @@
 Article R613-11
 ----
-Les disponibilités de la caisse nationale d'assurance maladie et maternité des
-travailleurs non salariés des professions non agricoles excédant les besoins de
-trésorerie du régime font l'objet de placements par la caisse nationale en
-valeurs mobilisables ou en comptes à terme.
+Les personnes mentionnées à l'article R. 613-10 relèvent de la caisse mutuelle
+régionale dans la circonscription de laquelle est située leur résidence
+principale et correspondant, le cas échéant, à leur groupe professionnel
+déterminé dans les conditions prévues aux articles R. 613-12 à R. 613-15.
 
-La caisse nationale fait ces placements par l'intermédiaire de la Banque de
-France, de la Caisse des dépôts et consignations, des comptables du Trésor, des
-centres de chèques postaux ou établissements de crédits, dans les conditions
-applicables aux caisses d'allocation de vieillesse des travailleurs non salariés
-des professions non agricoles.
+Pour l'application de l'alinéa précédent :
+
+1°) Paragraphe supprimé
+
+2°) Paragraphe supprimé
+
+3°) Les personnes âgées séjournant pour une durée d'au moins six mois dans les
+établissements mentionnés au 5° de l'article 3 de la loi n° 75-535 du 30 juin
+1975 relative aux institutions sociales et médico-sociales relèvent, dans des
+conditions fixées par arrêté du ministre chargé de la sécurité sociale, de la
+caisse mutuelle régionale dans la circonscription de laquelle se trouve
+l'établissement.

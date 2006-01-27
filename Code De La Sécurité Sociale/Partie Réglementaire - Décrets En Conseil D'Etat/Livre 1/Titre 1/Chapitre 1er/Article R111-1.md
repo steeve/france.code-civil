@@ -35,16 +35,10 @@ ainsi que leurs associations et groupements d'intérêt économique ;
 certaines entreprises pour tout ou partie des prestations : des services et
 organismes ;
 
-4°) en ce qui concerne les régimes d'assurance vieillesse des travailleurs
-non-salariés : des caisses constituées pour l'application des régimes à chacun
-des groupes professionnels prévus par le présent code et, notamment, l'article
-L. 621-3 ;
+4°) en ce qui concerne le régime social des indépendants : une caisse nationale
+et des caisses de base ;
 
-5°) en ce qui concerne le régime d'assurance maladie et maternité des
-travailleurs non-salariés des professions non-agricoles : une caisse nationale
-d'assurance maladie et maternité des travailleurs non-salariés et des caisses
-mutuelles régionales d'assurance maladie et maternité des travailleurs
-non-salariés ;
+5°) Paragraphe supprimé ;
 
 6° en ce qui concerne les régimes obligatoires de base d'assurance maladie :
 l'Union nationale des caisses d'assurance maladie et les unions régionales des

@@ -19,14 +19,12 @@ les mines parmi ses membres représentants des salariés ;
 
 5° Un représentant du régime d'assurance vieillesse et invalidité des
 professions artisanales, désigné parmi ses membres par le conseil
-d'administration de la Caisse nationale de l'organisation autonome d'assurance
-vieillesse des travailleurs non salariés des professions artisanales ;
+d'administration de la Caisse nationale du régime social des indépendants ;
 
 6° Un représentant du régime d'assurance vieillesse et invalidité des
 professions industrielles et commerciales, désigné parmi ses membres par le
-conseil d'administration de la Caisse nationale de l'organisation autonome
-d'assurance vieillesse des travailleurs non salariés des professions
-industrielles et commerciales ;
+conseil d'administration de la Caisse nationale du régime social des
+indépendants ;
 
 7° Le directeur du budget ou son représentant ;
 
