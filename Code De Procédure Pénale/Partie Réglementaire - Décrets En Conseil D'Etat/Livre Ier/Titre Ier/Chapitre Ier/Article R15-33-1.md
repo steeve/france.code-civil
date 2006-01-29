@@ -9,8 +9,8 @@ commission rogatoire du juge d'instruction est composée comme suit :
 parmi le premier avocat général ou les avocats généraux à la Cour de cassation,
 président ;
 
-2° Quatre magistrats du ministère public dont deux au plus peuvent être des
-magistrats honoraires ;
+2° Deux magistrats du ministère public dont un au plus peut être magistrat
+honoraire ;
 
 3° Le directeur général des douanes et droits indirects ou son représentant ;
 
@@ -22,7 +22,7 @@ contentieuses et de la lutte contre la fraude de la direction générale des
 douanes et droits indirects ou son représentant ;
 
 6° Un fonctionnaire de l'administration des douanes et droits indirects ayant au
-moins le grade de directeur adjoint ;
+moins le grade d'inspecteur principal ;
 
 7° Le magistrat délégué aux missions judiciaires de la douane, mentionné au VII
 de l'article 28-1, ou son représentant.
