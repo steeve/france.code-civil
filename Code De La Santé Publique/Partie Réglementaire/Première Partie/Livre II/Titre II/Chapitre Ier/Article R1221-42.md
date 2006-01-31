@@ -1,7 +1,11 @@
 Article R1221-42
 ----
-Une directive technique de l'Agence française de sécurité sanitaire des produits
-de santé, après avis de l'Etablissement français du sang, fixe la forme et le
-contenu des fiches d'incident transfusionnel et les modalités de leur
-transmission. Cette directive peut définir les cas et situations dans lesquels
-il n'y a pas lieu de transmettre de fiche.
+L'établissement de transfusion sanguine référent fait parvenir à l'établissement
+de santé les informations relatives aux 1° et 2° de l'article R. 1221-40 et, le
+cas échéant, au 2° de l'article R. 1221-41.
+
+Des décisions du directeur général de l'Agence française de sécurité sanitaire
+des produits de santé prises après avis de l'Etablissement français du sang
+peuvent préciser le contenu des informations mentionnées au présent article et
+fixer les modalités de leur recueil par l'établissement de santé ou de leur
+transmission par l'établissement de transfusion sanguine.

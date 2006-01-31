@@ -4,8 +4,8 @@ Le directeur de l'Agence française de sécurité sanitaire des produits de sant
 peut requérir du demandeur toutes informations complémentaires nécessaires à
 l'instruction de la demande. La demande d'information complémentaire fixe le
 délai dans lequel l'Etablissement français du sang doit répondre. Le délai prévu
-au premier alinéa de l'article R. 1223-4 est alors suspendu jusqu'à réception de
-ces informations.
+au premier alinéa de l'article R. 1223-4 et au second alinéa de l'article R.
+1223-4-1 est alors suspendu jusqu'à réception de ces informations.
 
 Le directeur général peut subordonner l'agrément, le renouvellement d'agrément
 ou la modification des éléments de l'agrément à une inspection diligentée par

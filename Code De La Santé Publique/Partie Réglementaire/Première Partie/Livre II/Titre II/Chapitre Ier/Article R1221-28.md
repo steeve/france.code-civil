@@ -1,17 +1,17 @@
 Article R1221-28
 ----
-A la demande de l'Agence française de sécurité sanitaire des produits de santé,
-l'établissement recueille et conserve toutes les informations relatives à
-l'hémovigilance auxquelles il a accès et qui portent sur :
+La Commission nationale d'hémovigilance siège auprès de l'Agence française de
+sécurité sanitaire des produits de santé.
 
-1° Les transfusions autologues préopératoires et peropératoires pratiquées dans
-l'établissement ;
+Elle a pour missions :
 
-2° Les examens prétransfusionnels et, le cas échéant, post-transfusionnels
-pratiqués sur le patient ;
+1° De donner un avis sur le bilan des informations recueillies ;
 
-3° L'administration, dans le cadre d'un même traitement, d'un produit sanguin
-stable et d'un produit sanguin labile ;
+2° De proposer la réalisation d'enquêtes et d'études et d'en évaluer les
+résultats ;
 
-4° La conservation, aux fins d'analyses ultérieures, d'échantillons biologiques
-prélevés sur le patient.
+3° De donner un avis au directeur général de l'agence sur les mesures prises ou
+à prendre pour prévenir la survenance ou la répétition de tout incident ou effet
+indésirable ;
+
+4° D'adopter le rapport annuel d'hémovigilance mentionné à l'article R. 1221-27.
