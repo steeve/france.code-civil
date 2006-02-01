@@ -3,7 +3,7 @@ Article R436-1
 Le salaire servant de base au calcul de l'indemnité journalière et des rentes
 par application des articles L. 433-2 et L. 434-15 s'entend de l'ensemble des
 salaires et des éléments annexes de celui-ci afférents à la période à considérer
-dans chacun des cas prévus aux articles R. 433-5 et R. 434-30, compte tenu, s'il
+dans chacun des cas prévus aux articles R. 433-4 et R. 434-29, compte tenu, s'il
 y a lieu, des avantages en nature et des pourboires, déduction faite des frais
 professionnels et des frais d'atelier et non comprises les prestations
 familiales légales ni les cotisations patronales de sécurité sociale ni les
