@@ -15,7 +15,7 @@ accident une indemnité en capital dans les conditions prévues à l'article L.
 L'option est souscrite à titre définitif.
 
 Lorsque la victime opte pour une rente, celle-ci est calculée conformément aux
-dispositions des articles R. 434-2-1, R. 434-29 et R. 434-30 sur le salaire
+dispositions des articles R. 434-2-1, R. 434-28 et R. 434-29 sur le salaire
 annuel perçu au moment de l'accident ouvrant droit à l'option. Les arrérages
 annuels de la rente sont diminués de 30 % au plus, à concurrence d'une somme
 égale à la moitié du montant de la ou des indemnités en capital précédemment

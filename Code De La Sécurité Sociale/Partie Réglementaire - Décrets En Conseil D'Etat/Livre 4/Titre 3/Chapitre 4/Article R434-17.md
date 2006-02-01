@@ -1,8 +1,8 @@
 Article R434-17
 ----
-La fraction du salaire annuel de la victime, prévue à l'article L. 434-13, est
-fixée à 10 p. 100.
-
-Les fractions du salaire annuel de la victime, prévues respectivement aux
-premier et deuxième alinéas de l'article L. 434-14 sont fixées à 30 p. 100 et à
-85 p. 100.
+Par dérogation aux dispositions de l'article R. 434-29, dans le cas où la
+victime d'un accident mortel était titulaire d'une ou de plusieurs rentes à
+raison d'accidents du travail antérieurs, et percevait un salaire inférieur à
+celui qu'elle aurait perçu si lesdits accidents ne s'étaient pas produits, ce
+dernier salaire est substitué au salaire réellement touché pour le calcul des
+rentes d'ayants droit.

@@ -1,14 +1,12 @@
 Article R434-15
 ----
-La durée de la période prévue à l'article L. 434-9 est fixée à trois ans.
+La limite d'âge prévue au premier alinéa de l'article L. 434-10 est fixée à 20
+ans.
 
-Dans le cas prévu au troisième alinéa de l'article L. 434-9 le conjoint
-survivant adresse à la caisse primaire une demande au moyen d'un imprimé mis à
-sa disposition par cet organisme et accompagnée des pièces justifiant qu'il
-satisfait aux conditions prévues.
+La fraction du salaire annuel de la victime, prévue au deuxième alinéa de
+l'article L. 434-10 est fixée, pour chaque orphelin de père ou de mère
+remplissant les conditions requises, à 25 % dans la limite de deux orphelins et
+à 20 % au-delà de deux.
 
-Cette demande comporte un questionnaire ; le postulant doit attester sur
-l'honneur l'exactitude de ses réponses.
-
-Il est donné au requérant récépissé de sa demande et des pièces qui
-l'accompagnent.
+Cette fraction est fixée à 30 % si l'enfant est orphelin de père et de mère lors
+du décès de la victime ou postérieurement à ce décès.

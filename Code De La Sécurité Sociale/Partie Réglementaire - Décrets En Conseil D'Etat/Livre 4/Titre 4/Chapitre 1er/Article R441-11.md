@@ -6,10 +6,10 @@ ayants droit et de l'employeur, préalablement à sa décision, sur la procédur
 d'instruction et sur les points susceptibles de leur faire grief.
 
 En cas de réserves de la part de l'employeur ou si elle l'estime nécessaire, la
-caisse, hors le cas d'enquête prévue à l'article L. 442-1, envoie avant décision
-à l'employeur et à la victime un questionnaire portant sur les circonstances ou
-la cause de l'accident ou de la maladie ou procède à une enquête auprès des
-intéressés.
+caisse, envoie avant décision à l'employeur et à la victime un questionnaire
+portant sur les circonstances ou la cause de l'accident ou de la maladie ou
+procède à une enquête auprès des intéressés. Une enquête est obligatoire en cas
+de décès.
 
 La victime adresse à la caisse la déclaration de maladie professionnelle dont un
 double est envoyé par la caisse à l'employeur. La caisse adresse également un

@@ -1,19 +1,14 @@
 Article R434-13
 ----
-La caisse primaire, au reçu de la demande prévue au premier alinéa de l'article
-R. 434-12, doit prendre l'avis du service du contrôle médical.
+La caisse primaire d'assurance maladie peut faire procéder par un de ses
+médecins-conseils à des examens de contrôle de l'état du bénéficiaire du
+complément de rente de 20 % obtenu en raison d'une incapacité générale de
+travail de 50 %.
 
-Au vu des renseignements recueillis, il est statué par la caisse primaire, sur
-l'attribution du complément de rente de 20 p. 100 et le point de départ de
-celui-ci, qui ne peut être antérieur, suivant le cas, soit à la date connue avec
-certitude de la première constatation médicale de l'incapacité de travail
-générale, soit à la date à laquelle le postulant a atteint l'âge de
-cinquante-cinq ans.
+Le bénéficiaire est tenu de se prêter à ces examens. Il est tenu, en outre,
+d'aviser la caisse primaire lorsque, par suite de l'amélioration de son état,
+les conditions de pourcentage minimal de l'incapacité de travail générale ne se
+trouvent plus remplies.
 
-La caisse est toutefois fondée à refuser au conjoint survivant le bénéfice du
-complément de rente de 20 p. 100, demandé au titre d'une incapacité de travail
-générale, pour toute période pendant laquelle son contrôle aura été rendu
-impossible du fait de l'intéressé.
-
-La décision doit être notifiée immédiatement au conjoint survivant par lettre
-recommandée avec demande d'avis de réception.
+En cas d'inobservation de ces obligations par le conjoint survivant, la caisse
+est fondée à supprimer le complément de rente de 20 %.

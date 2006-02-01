@@ -1,5 +1,4 @@
 Article R433-1
 ----
-La durée de l'incapacité de travail au-delà de laquelle l'indemnité journalière
-est due même pour les jours non ouvrables suivant immédiatement la cessation de
-travail consécutive à l'accident est fixée à quinze jours.
+La fraction du salaire journalier mentionnée au premier alinéa de l'article L.
+433-2 est égale à 60 %.

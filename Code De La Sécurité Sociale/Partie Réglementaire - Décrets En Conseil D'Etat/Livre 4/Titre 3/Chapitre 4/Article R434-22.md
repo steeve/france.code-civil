@@ -1,21 +1,9 @@
 Article R434-22
 ----
-Par dérogation aux dispositions de l'article R. 434-21, le transfert est différé
-dans le cas où, à la date de réception de la demande, on se trouve dans l'un des
-cas suivants :
-
-1°) le taux de l'incapacité permanente n'a pas encore été fixé ;
-
-2°) la liquidation de la rente est en cours ;
-
-3°) une contestation est en cours, notamment sur le taux d'incapacité
-permanente, le caractère professionnel d'une lésion invoquée par la victime, le
-montant de la rente ;
-
-4°) une action récursoire est engagée par la caisse primaire en application des
-dispositions des articles L. 452-4, L. 452-5 et L. 454-1.
-
-Dans les cas énumérés ci-dessus, le transfert prend effet de la seconde échéance
-suivant la date à laquelle la décision prise par la caisse primaire ou par la
-juridiction compétente devient définitive, le paiement des arrérages en cours à
-cette date étant assuré par la caisse primaire avant son dessaisissement .
+Le transfert de la charge de la gestion de la rente, dans les conditions prévues
+aux articles R. 434-20 et R. 434-21, n'entraîne un transfert de fonds que dans
+la limite des sommes dont le remboursement est opéré au profit de la caisse
+primaire dans les cas prévus aux articles L. 452-4, L. 452-5 et L. 454-1. En
+accord avec les caisses primaires intéressées, le débiteur peut, s'il y a lieu,
+rembourser directement à la caisse primaire à laquelle la rente a été
+transférée.

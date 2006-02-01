@@ -27,7 +27,7 @@ la victime n'était pas consolidé et si, après consolidation des blessures
 résultant respectivement de l'accident du travail ayant nécessité la
 réadaptation et de l'accident survenu par le fait ou à l'occasion de celle-ci,
 la victime reste atteinte d'une incapacité permanente de travail, la rente qui
-lui est allouée est calculée, compte tenu de l'ensemble de la réduction de
+lui est allouée est calculée compte tenu de l'ensemble de la réduction de
 capacité subie.
 
 Si la consolidation de la blessure résultant de l'accident du travail ayant
@@ -40,7 +40,7 @@ Dans les cas prévus aux deux alinéas qui précèdent, la rémunération à pre
 considération pour le calcul de la rente est celle des douze mois antérieurs à
 l'arrêt de travail consécutif à l'accident du travail ayant nécessité la
 réadaptation ; elle est déterminée conformément aux dispositions des articles R.
-434-30 et R. 436-1.
+434-29 et R. 436-1.
 
 Toutefois, dans le cas où la rémunération ainsi calculée est inférieure au
 salaire mentionné à l'article R. 412-11, c'est ce salaire qui est pris en

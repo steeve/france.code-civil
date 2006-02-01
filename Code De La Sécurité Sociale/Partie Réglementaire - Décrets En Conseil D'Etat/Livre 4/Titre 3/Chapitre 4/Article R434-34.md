@@ -1,30 +1,18 @@
 Article R434-34
 ----
-Dès qu'il apparaît que l'accident a entraîné, entraîne ou paraît devoir
-entraîner la mort ou une incapacité permanente de travail, la caisse, à quelque
-époque que ce soit, prend l'avis du service du contrôle médical.
+Les rentes mentionnées à l'article L. 434-15 sont payables à la résidence du
+titulaire, par trimestre et à terme échu.
 
-Sur proposition de ce service, lorsqu'il estime que l'incapacité permanente
-présentée par la victime est susceptible de rendre celle-ci inapte à l'exercice
-de sa profession ou à la demande de la victime ou de son médecin traitant et si
-cette victime relève de la médecine du travail, la caisse, sans préjudice de
-l'application des dispositions relatives à la réadaptation ou à la rééducation
-professionnelle, recueille l'avis du médecin du travail compétent en raison du
-contrat de travail liant ladite victime à son employeur. A cet effet, elle
-adresse au médecin du travail une fiche dont le modèle est fixé par arrêté du
-ministre chargé de la sécurité sociale.
+Toutefois, lorsque le taux d'incapacité permanente est égal ou supérieur à 50 p.
+100, la rente est versée mensuellement par la caisse primaire débitrice, sous
+réserve de son paiement soit par lettre chèque, soit par virement sur un compte
+bancaire, postal ou d'épargne ouvert au nom du titulaire ou de son représentant
+dûment mandaté.
 
-Le médecin du travail mentionne sur la fiche celles des constatations et
-observations par lui faites lors de la visite prévue à l'article R. 241-51 du
-code du travail et qui sont relatives à l'aptitude de la victime à reprendre son
-ancien emploi ou à la nécessité d'une réadaptation.
+Les dates de paiement sont fixées par un arrêté du ministre chargé de la
+sécurité sociale.
 
-Dans le délai de quinze jours à compter de la date à laquelle il a été saisi ,
-le médecin du travail adresse à la caisse primaire intéressée la fiche prévue
-par les dispositions qui précèdent, sous pli confidentiel, à destination du
-médecin conseil chargé du contrôle médical.
-
-Dès que ce document lui est parvenu ou, à défaut, après l'expiration du délai
-prévu à l'alinéa précédent, le médecin conseil exprime dans un rapport son avis,
-au vu de ces constatations et de l'ensemble des éléments d'appréciation figurant
-au dossier.
+En cas d'hospitalisation de l'assuré, la majoration pour aide d'une tierce
+personne est versée jusqu'au dernier jour du mois civil suivant celui au cours
+duquel il a été hospitalisé ; au-delà de cette période, son service est
+suspendu.

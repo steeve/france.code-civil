@@ -15,4 +15,4 @@ de la même catégorie occupés dans l'établissement ou, à défaut, dans un
 L'indemnité journalière calculée à partir de l'un de ces deux salaires ne peut
 dépasser le gain journalier net perçu par le travailleur âgé de moins de
 dix-huit ans et déterminé dans les conditions fixées au dernier alinéa de
-l'article R. 433-5.
+l'article R. 433-4.

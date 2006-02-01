@@ -1,6 +1,5 @@
 Article R434-9
 ----
-Sauf en ce qui concerne la transformation de la rente en capital ou en rente
-réversible, opération qui a un caractère irrévocable, les droits et obligations
-de la victime après la conversion s'exercent dans les mêmes conditions
-qu'auparavant.
+Pour l'application de l'article L. 434-6, le pourcentage du salaire perçu par le
+travailleur valide de la catégorie à laquelle appartenait la victime est fixé à
+80 %.

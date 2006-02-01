@@ -1,9 +1,10 @@
 Article R434-23
 ----
-Le transfert de la charge de la gestion de la rente, dans les conditions prévues
-aux articles R. 434-21 et R. 434-22 n'entraîne un transfert de fonds que dans la
-limite des sommes dont le remboursement est opéré au profit de la caisse
-primaire dans les cas prévus aux articles L. 452-4, L. 452-5 et L. 454-1. En
-accord avec les caisses primaires intéressées, le débiteur peut, s'il y a lieu,
-rembourser directement à la caisse primaire à laquelle la rente a été
-transférée.
+La caisse primaire qui a la charge et assure la gestion de plusieurs rentes pour
+un même bénéficiaire, effectue simultanément le paiement des arrérages desdites
+rentes.
+
+La caisse primaire fait connaître au bénéficiaire qu'elle assume également, à
+compter du transfert de la rente, la charge des prestations autres que la rente
+qui seraient dues par suite des conséquences de l'accident ayant donné lieu au
+transfert.
