@@ -1,49 +1,72 @@
 Article R1221-30
 ----
-Au sein de chaque établissement de santé, public ou privé, un correspondant
-d'hémovigilance est chargé d'assurer, pour le compte de l'établissement :
+La Commission nationale d'hémovigilance comprend :
 
-1° Le signalement, dans les conditions et selon les modalités prévues à
-l'article R. 1221-40, de tout effet inattendu ou indésirable dû, ou susceptible
-d'être dû, à l'administration d'un produit sanguin labile ;
+1° Cinq membres de droit :
 
-2° Le recueil et la conservation des informations mentionnées aux articles R.
-1221-27 à R. 1221-29, en veillant à la qualité et à la fiabilité de ces
-informations ;
+- le directeur général de la santé ou son représentant ;
 
-3° La communication à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance des informations qu'ils
-sollicitent, en application de l'article R. 1221-37 ;
+- le directeur général de l'Agence française de sécurité sanitaire des produits
+de santé ou son représentant ;
 
-4° La transmission à l'établissement de transfusion sanguine distributeur des
-informations mentionnées au premier alinéa de l'article R. 1221-25 ;
+- le directeur de l'hospitalisation et de l'organisation des soins ou son
+représentant ;
 
-5° Le signalement à l'Agence française de sécurité sanitaire des produits de
-santé et au coordonnateur régional d'hémovigilance de toute difficulté
-susceptible de compromettre la sécurité transfusionnelle ;
+- le président de l'Etablissement français du sang ou son représentant ;
 
-6° Les investigations à entreprendre en cas d'urgence sur des effets
-transfusionnels inattendus ou indésirables. Dans ce cas, il informe sans délai
-le coordonnateur régional, qui décide de la poursuite ou de l'interruption de
-ces investigations, et l'Agence française de sécurité sanitaire des produits de
-santé.
+- le directeur du centre de transfusion sanguine des armées ou son représentant.
 
-Le correspondant d'hémovigilance de l'établissement de santé doit être un
-médecin. Toutefois, le ministre chargé de la santé peut, par arrêté pris après
-avis du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé, fixer les conditions dans lesquelles un établissement de
-santé peut avoir un pharmacien comme correspondant d'hémovigilance.
+2° Vingt membres nommés par le ministre chargé de la santé pour une durée de
+trois ans renouvelable dont :
 
-Des conditions particulières de qualification et de formation peuvent être
-imposées aux correspondants de certains établissements par arrêté du ministre
-chargé de la santé, pris après avis du directeur général de l'Agence française
-de sécurité sanitaire des produits de santé.
+- cinq personnes choisies en raison de leurs compétences cliniques ou
+biologiques en anesthésie-réanimation, en hématologie, en immunologie, en
+infectiologie ou en virologie ;
 
-Le correspondant d'hémovigilance est désigné par le directeur de
-l'établissement. Dans les établissements publics de santé, il est désigné après
-avis de la commission médicale d'établissement.
+- quatre personnes choisies en raison de leurs compétences dans le domaine des
+prélèvements, de la qualification biologique, de la préparation, de la
+distribution des produits sanguins labiles, dont une sur proposition du
+directeur du centre de transfusion sanguine des armées ;
 
-Le nom du correspondant est communiqué par l'établissement à l'Agence française
-de sécurité sanitaire des produits de santé, au coordonnateur régional
-d'hémovigilance concerné et à l'établissement de transfusion sanguine
-distributeur.
+- un infirmier doté d'une expérience en transfusion sanguine exerçant dans un
+établissement de santé ;
+
+- deux personnes choisies en raison de leurs compétences en épidémiologie dont
+une sur proposition du directeur général de l'Institut de veille sanitaire ;
+
+- deux personnes exerçant les fonctions de correspondant d'hémovigilance dans un
+établissement de santé dont une exerçant ces fonctions dans un hôpital des
+armées ;
+
+- une personne exerçant les fonctions de correspondant d'hémovigilance dans un
+établissement de transfusion sanguine désignée sur proposition du président de
+l'Etablissement français du sang après avis de la personne responsable ;
+
+- une personne exerçant les fonctions de correspondant d'hémovigilance dans le
+centre de transfusion sanguine des armées désignée sur proposition du directeur
+du centre de transfusion sanguine des armées ;
+
+- deux personnes exerçant les fonctions de coordonnateur régional
+d'hémovigilance ;
+
+- un médecin ou pharmacien inspecteur de santé publique ;
+
+- une personne choisie en raison de ses compétences en transfusion sanguine et
+désignée sur proposition du directeur de l'Institut national de la transfusion
+sanguine.
+
+A l'exception des personnes proposées par le directeur du centre de transfusion
+sanguine des armées, par le président de l'Etablissement français du sang, par
+le directeur général de l'Institut de veille sanitaire et par le directeur de
+l'Institut national de la transfusion sanguine, les membres mentionnés au 2°
+sont nommés sur proposition du directeur général de l'Agence française de
+sécurité sanitaire des produits de santé.
+
+Des suppléants en nombre égal sont nommés dans les mêmes conditions que les
+membres titulaires. Ils remplacent ces derniers en cas d'empêchement. Ils leur
+succèdent s'il se produit une vacance en cours de mandat, pour la durée du
+mandat restant à courir.
+
+Le président et le vice-président sont désignés par le ministre chargé de la
+santé parmi les membres de la commission mentionnés au 2°. Le vice-président
+supplée le président en cas d'empêchement.

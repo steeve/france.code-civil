@@ -10,7 +10,7 @@ Peuvent seules exercer cette fonction les personnes qui satisfont aux conditions
 d'exercice des fonctions de directeur de laboratoire d'analyses de biologie
 médicale, énoncées à l'article L. 6221-1, ou qui sont titulaires d'une
 autorisation accordée à titre exceptionnel par le ministre de la santé en vertu
-de l'article L. 6221-2. Elles doivent, en outre, posséder le diplôme
-universitaire de transfusion sanguine, ou la capacité en technologie
-transfusionnelle, ou le diplôme d'études spécialisées complémentaires
-d'hémobiologie-transfusion.
+de l'article L. 6221-2. Elles doivent en outre posséder ou acquérir dans les
+deux ans qui suivent leur nomination le diplôme universitaire de transfusion
+sanguine, ou la capacité en technologie transfusionnelle, ou le diplôme d'études
+spécialisées complémentaires d'hémobiologie-transfusion.

@@ -9,10 +9,11 @@ Peuvent seules exercer cette fonction :
 1° Les personnes qui, d'une part, satisfont aux conditions d'exercice de la
 médecine ou de la pharmacie, ou possèdent un diplôme d'ingénieur ou un diplôme
 national de troisième cycle de l'enseignement supérieur en sciences de la vie,
-chimie ou physique et qui, d'autre part, justifient d'une expérience de deux ans
-au moins dans le secteur de l'assurance ou du contrôle de la qualité, complétée
-par une expérience de six mois au moins dans les différentes activités d'un
-établissement de transfusion sanguine ;
+en chimie, en physique ou en qualité, et qui, d'autre part, justifient d'une
+expérience de deux ans au moins dans le secteur de l'assurance ou du contrôle de
+la qualité et ont reçu l'habilitation à l'issue d'une formation théorique et
+pratique d'adaptation à l'emploi conformément aux bonnes pratiques mentionnées à
+l'article L. 1223-3 ;
 
 2° Les personnes qui remplissent la condition d'exercice professionnel ou de
 diplôme prévue au début du 1° ci-dessus et qui justifient d'une expérience d'au

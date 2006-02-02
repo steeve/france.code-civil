@@ -21,11 +21,13 @@ b) La fabrication et la distribution de réactifs de laboratoire destinés aux
 analyses de biologie médicale ;
 
 c) La préparation, la conservation, la distribution et la cession de tissus
-humains et de cellules autres que celles du sang, ainsi que des produits de
-thérapie cellulaire et génique ;
+humains et de cellules autres que celles du sang, ainsi que des préparation de
+thérapie génique et de thérapie cellulaire ;
 
 d) Les analyses de biologie médicale, au sens de l'article L. 6211-1, autres que
 celles qui sont directement liées à l'objet spécifique de la transfusion
 sanguine ;
 
-e) La dispensation de soins.
+e) La dispensation de soins ;
+
+f) Le lactarium.

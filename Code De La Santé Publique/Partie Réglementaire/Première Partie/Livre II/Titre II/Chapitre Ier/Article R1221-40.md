@@ -1,24 +1,29 @@
 Article R1221-40
 ----
-Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou
-infirmier qui a connaissance de l'administration d'un produit sanguin labile à
-un de ses patients et qui constate un effet inattendu ou indésirable dû, ou
-susceptible d'être dû à ce produit, doit le signaler sans délai au correspondant
-d'hémovigilance de l'établissement dans lequel a été administré le produit. A
-défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de
-transfusion sanguine ou de santé, qui transmet cette information au
-correspondant d'hémovigilance compétent.
+Chaque établissement de santé, public ou privé, est tenu de recueillir et de
+conserver, pour chaque unité de produit sanguin labile qui lui est distribuée ou
+délivrée pour un patient hospitalisé, les informations suivantes :
 
-Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu
-l'administration du produit en cause procède aux investigations et examens
-appropriés dans le service concerné. Il informe le correspondant de
-l'établissement de transfusion sanguine distributeur et rédige, en concertation
-avec lui, une fiche d'incident transfusionnel dont copie est versée au dossier
-médical du patient.
+1° Le numéro d'identification de l'unité préparée conformément à la codification
+nationale approuvée par l'Agence française de sécurité sanitaire des produits de
+santé ;
 
-Si des effets indésirables susceptibles d'être dus à un produit sanguin labile
-sont apparus chez un patient auquel ont également été administrés des
-médicaments dérivés du sang, une copie de la fiche d'incident transfusionnel est
-communiquée au correspondant de pharmacovigilance pour les médicaments dérivés
-du sang de l'établissement de santé dans lequel ces médicaments ont été
-administrés.
+2° L'identification du code produit conformément à la codification nationale
+approuvée par cette agence ;
+
+3° Les circonstances du transport et de la conservation de l'unité ;
+
+4° L'identification du prescripteur et celle de la personne chargée de
+l'administration du produit sanguin labile ;
+
+5° L'identification du patient auquel a été administrée l'unité et les
+circonstances de cette administration, ou, le cas échéant, la date à laquelle
+l'unité a été détruite ou restituée à l'établissement de transfusion sanguine
+référent ;
+
+6° Lorsque l'établissement de santé délivre un produit sanguin labile à un
+patient hospitalisé dans un autre établissement de santé, l'identification de
+cet établissement ainsi que la date et les circonstances de cette délivrance ;
+
+7° Tout effet indésirable survenu chez un receveur de produits sanguins labiles
+ainsi que tout incident grave.

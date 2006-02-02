@@ -1,7 +1,7 @@
 Article R1221-35
 ----
-Le comité peut saisir le coordonnateur régional et l'Agence française de
-sécurité sanitaire des produits de santé de toute question relative à la mise en
-oeuvre des règles d'hémovigilance dans l'établissement de santé. Il peut
-demander au coordonnateur régional de faire procéder à toute investigation sur
-les circonstances d'un incident transfusionnel inattendu ou indésirable.
+Le coordonnateur régional d'hémovigilance est un médecin praticien hospitalier
+ou possédant des qualifications équivalentes, doté d'une expérience en matière
+de transfusion sanguine. Il est nommé pour une durée de trois ans renouvelable
+par arrêté du préfet de région pris après avis de l'agence française de sécurité
+sanitaire des produits de santé.

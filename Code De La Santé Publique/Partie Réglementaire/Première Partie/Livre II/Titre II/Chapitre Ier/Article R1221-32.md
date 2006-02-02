@@ -1,33 +1,31 @@
 Article R1221-32
 ----
-Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement a pour
-mission de contribuer par ses études et ses propositions à l'amélioration de la
-sécurité des patients qui y sont transfusés.
+Dans chaque région, un coordonnateur d'hémovigilance placé auprès du directeur
+régional des affaires sanitaires et sociales est chargé :
 
-Il veille à la mise en oeuvre des règles et procédures d'hémovigilance prévues
-par la présente section. Il est notamment chargé de la coordination des actions
-d'hémovigilance entreprises au sein de l'établissement de santé.
+1° De suivre la mise en oeuvre par les établissements de santé et de transfusion
+sanguine de la région des dispositions de la présente section ainsi que, le cas
+échéant, des décisions du directeur général de l'Agence française de sécurité
+sanitaire des produits de santé et des actions entreprises par les comités de
+sécurité transfusionnelle et d'hémovigilance des établissements ;
 
-A ce titre :
+2° D'entretenir des relations directes avec chacun des correspondants
+d'hémovigilance de la région, de veiller avec eux à la qualité et à la fiabilité
+des informations recueillies en application des articles R. 1221-39 et R.
+1221-43 et de se tenir informé de toute difficulté que les correspondants
+rencontreraient dans l'exercice de leur mission ;
 
-1° Il s'assure auprès des services responsables de la présence dans le dossier
-médical mentionné à l'article R. 1112-1 des documents relatifs aux actes
-transfusionnels et, le cas échéant, de la copie de la fiche d'incident
-transfusionnel mentionnée au deuxième alinéa de l'article R. 1221-40 ;
+3° D'informer le préfet de région et l'agence de son activité, notamment par un
+rapport annuel d'activité, dont il adresse copie à l'Etablissement français du
+sang ;
 
-2° Il est saisi de toute question relative à la collaboration des correspondants
-d'hémovigilance de l'établissement de transfusion sanguine et de l'établissement
-de santé, et plus généralement de toute question portant sur les circuits de
-transmission des informations, en vue d'améliorer l'efficacité de
-l'hémovigilance ;
+4° De proposer, le cas échéant, à l'agence, sous couvert du préfet de région,
+l'adoption de toute mesure susceptible d'améliorer la qualité, la fiabilité et
+la cohérence du dispositif d'hémovigilance ;
 
-3° Il se tient informé des conditions de fonctionnement des dépôts de sang ;
+5° De saisir sans délai le préfet de région et l'agence de toute difficulté
+susceptible de compromettre la sécurité transfusionnelle et d'en informer
+simultanément l'Etablissement français du sang ;
 
-4° Il est averti des incidents transfusionnels inattendus ou indésirables,
-conçoit toute mesure destinée à y remédier ;
-
-5° Il présente à la commission médicale d'établissement un programme de
-formation en sécurité transfusionnelle destiné aux personnels concernés ;
-
-6° Il remet à la commission médicale d'établissement un rapport annuel
-d'activité.
+6° De proposer, le cas échéant, au préfet de département les mesures à prendre
+au vu des fiches de déclarations reçues en application de l'article R. 1221-50.

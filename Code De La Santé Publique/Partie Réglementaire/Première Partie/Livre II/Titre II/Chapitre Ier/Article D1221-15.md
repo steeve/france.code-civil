@@ -1,11 +1,10 @@
 Article D1221-15
 ----
-Le sang et ses composants ne peuvent être cédés à un établissement
-d'enseignement ou à un organisme de formation professionnelle qu'à des fins
-d'enseignement, à l'exclusion de toute administration à l'homme, et à condition
-que :
+Le sang et ses composants ne peuvent être utilisés en vue de préparer des
+réactifs que si les résultats des tests et analyses prévus aux b, c et d du 5°
+de l'article D. 1221-6 sont négatifs.
 
-- les tests et analyses prévus au 5° de l'article D. 1221-5, aient été pratiqués
-sur chaque prélèvement ;
-
-- les résultats soient conformes aux dispositions de l'article D. 1221-6.
+Toutefois, un réactif de laboratoire peut être préparé à partir d'un prélèvement
+contenant un ou plusieurs anticorps ou antigènes recherchés par les tests et
+analyses mentionnés à l'alinéa ci-dessus et nécessaires à l'usage de ce réactif,
+à condition que le prélèvement ait subi une inactivation virale.

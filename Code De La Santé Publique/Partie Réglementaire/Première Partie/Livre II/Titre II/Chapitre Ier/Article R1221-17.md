@@ -1,23 +1,15 @@
 Article R1221-17
 ----
-L'Agence française de sécurité sanitaire des produits de santé assure la mise en
-oeuvre de l'hémovigilance. Elle en définit les orientations, anime et coordonne
-les actions des différents intervenants et veille au respect des procédures de
-surveillance organisées par la présente section. Elle prend, le cas échéant, les
-mesures appropriées en vue d'assurer la sécurité transfusionnelle ou saisit les
-autorités compétentes.
+Pour l'application de la présente section, on entend par :
 
-Pour l'exercice de cette mission, l'Agence française de sécurité sanitaire des
-produits de santé :
+1° Distribution de produits sanguins labiles : la fourniture de produits
+sanguins labiles par un établissement de transfusion sanguine à d'autres
+établissements de transfusion sanguine, aux établissements de santé gérant des
+dépôts de sang et aux fabricants de produits de santé dérivés du sang humain ou
+de ses composants ;
 
-1° Est informée, dans les conditions prévues aux articles R. 1221-41 et R.
-1221-42, de tout effet inattendu ou indésirable résultant de l'utilisation
-thérapeutique d'un produit sanguin labile ;
-
-2° Est destinataire, dans les conditions prévues à la présente section, des
-informations recueillies au cours des phases de préparation, de conservation et
-d'utilisation des produits sanguins labiles ;
-
-3° Procède ou fait procéder par une personne morale de droit public agissant
-sous son contrôle à des enquêtes épidémiologiques et à des études relatives aux
-conditions d'emploi des produits sanguins labiles.
+2° Délivrance de produits sanguins labiles : la mise à disposition de produits
+sanguins labiles sur prescription médicale en vue de leur administration à un
+patient déterminé. Elle est effectuée en veillant à la compatibilité
+immunologique, dans le respect de la prescription médicale et de la mise en
+œuvre des règles d'hémovigilance.
