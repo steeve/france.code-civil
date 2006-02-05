@@ -50,6 +50,10 @@ de santé ;
 
 p) Les correspondances échangées entre professionnels de santé ;
 
+q) Les directives anticipées mentionnées à l'article L. 1111-11 ou, le cas
+échéant, la mention de leur existence ainsi que les coordonnées de la personne
+qui en est détentrice.
+
 2° Les informations formalisées établies à la fin du séjour. Elles comportent
 notamment :
 
