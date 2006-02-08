@@ -1,43 +1,29 @@
 Article D323-2
 ----
-Les catégories de bénéficiaires visées à l'article L. 323-3 comptent pour au
-moins une unité. Si elles sont titulaires d'un contrat de travail à durée
-indéterminée, elles comptent au moins pour deux unités l'année d'embauche et
-l'année suivante.
+I. - La contribution annuelle prévue à l'article L. 323-8-2 est égale :
 
-En outre, un décompte particulier est effectué dans les conditions suivantes
-sans qu'une personne puisse être comptabilisée au titre de plus d'une catégorie
-de bénéficiaires.
+1° Au nombre de bénéficiaires manquants, calculé conformément aux dispositions
+de l'article D. 323-2-1, déduction faite, le cas échéant, des coefficients de
+minoration à l'article D. 323-2-2 au titre des efforts consentis par l'employeur
+en matière de maintien dans l'emploi ou de recrutement direct de bénéficiaires
+visés à l'article L. 323-3 ;
 
-1° En fonction de l'importance du handicap :
+2° Multiplié, le cas échéant, par le coefficient de minoration défini à
+l'article D. 323-2-3 au titre des emplois exigeant des conditions d'aptitude
+particulières occupés par des salariés de l'établissement ;
 
-Les travailleurs classés par la Commission technique d'orientation et de
-reclassement professionnel (Cotorep) comptent en catégorie B pour une unité et
-demie, en catégorie C pour deux unités et demie ;
+3° Multiplié par les montants fixés à l'article D. 323-2-4 pour tenir compte de
+l'effectif de l'entreprise.
 
-Les victimes d'accident du travail ou de maladies professionnelles comptent pour
-une unité et demie si le taux d'incapacité permanente est compris entre 66,66 p.
-100 et 85 p. 100, et pour deux unités et demie au-delà.
+II. - Toutefois, la contribution annuelle calculée selon les dispositions du I
+du présent article ne peut pas être inférieure au produit du nombre de
+bénéficiaires manquants, calculé selon les règles définies au 1° du I ci-dessus,
+par 50 fois le salaire horaire minimum de croissance.
 
-2° En fonction de l'âge :
-
-Les travailleurs handicapés reconnus par la Cotorep âgés de moins de vingt-cinq
-ans ou de plus de cinquante ans comptent pour une demi-unité supplémentaire.
-
-3° En fonction d'une formation en entreprise :
-
-Les travailleurs handicapés reconnus par la Cotorep suivant une formation
-professionnelle au sein de l'entreprise sont comptés pour une demi-unité
-supplémentaire dans la mesure où le cycle de formation est d'au moins 500 heures
-pour l'année pendant laquelle la formation est effectuée.
-
-4° En fonction du placement antérieur :
-
-Les travailleurs handicapés embauchés à leur sortie d'un atelier protégé, d'un
-centre de distribution de travail à domicile, d'un centre d'aide par le travail
-ou d'un institut médico-professionnel sont comptés pour une unité
-supplémentaire.
-
-Les travailleurs handicapés embauchés à leur sortie d'un centre de formation
-professionnelle sont comptés pour une demi-unité supplémentaire pendant l'année
-de leur embauche et l'année suivante.
+III. - Par exception aux dispositions des I et II ci-dessus, pour les
+établissements dont le pourcentage de l'effectif des salariés occupant des
+emplois qui relèvent des catégories d'emploi exigeant des conditions d'aptitude
+particulières excède 80 %, la contribution annuelle prévue à l'article L.
+323-8-2 est égale au nombre de bénéficiaires manquants, calculé selon les règles
+définies au 1° du I du présent article, multiplié par 40 fois le salaire horaire
+minimum de croissance.
