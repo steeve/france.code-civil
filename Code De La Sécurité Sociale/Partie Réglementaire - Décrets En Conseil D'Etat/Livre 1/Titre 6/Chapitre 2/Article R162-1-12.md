@@ -1,21 +1,16 @@
 Article R162-1-12
 ----
-La valeur mensuelle des forfaits prévus au a et au b et de la majoration prévue
-à l'article R. 162-1-11 est fixée, pour chaque profession ou centre de santé,
-par avenant à la convention nationale concernée, selon les modalités prévues au
-chapitre II du titre VI du livre Ier (partie Législative) du code de la sécurité
-sociale.
+Dans le cadre de la mission d'information prévue à l'article L. 162-1-11, les
+organismes des différents régimes de base d'assurance maladie informent leurs
+ressortissants des modalités de mise en oeuvre du service de consultation prévu
+aux articles R. 162-1-10 et R. 162-1-11.
 
-La valeur de ces forfaits mensuels peut être réduite, dans des conditions
-définies par le contrat, pour tenir compte de périodes durant lesquelles l'état
-du patient n'a pas justifié l'intervention du professionnel de santé.
+En outre, le médecin ayant recours à ce service est tenu d'informer ses patients
+à l'occasion de la réalisation des soins de l'objet et des conditions de cette
+procédure. Il recueille l'accord du patient, préalablement à la consultation des
+données le concernant. Cet accord porte sur l'ensemble de ces données. Le
+consentement du patient est réputé obtenu par l'utilisation de sa carte qui lui
+a été délivrée en application de l'article L. 161-31, sous réserve de la
+validité de cette dernière.
 
-La caisse primaire procède au versement des rémunérations forfaitaires visées
-ci-dessus pour le compte des régimes obligatoires d'assurance maladie sur la
-base d'états justificatifs mensuels des prestations effectuées au cours de la
-période considérée.
-
-La répartition entre les régimes de la part prise en charge de l'assurance
-maladie en application de ce même article est effectuée chaque année suivant la
-répartition nationale des dotations globales hospitalières pour l'année
-considérée.
+Aucune conséquence en matière de remboursement ne s'attache à cette procédure.
