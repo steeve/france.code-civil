@@ -7,9 +7,19 @@ bénéficiaires de l'obligation d'emploi définie par ce dernier article. Dans l
 limite définie par l'article R. 323-3, ce nombre est égal au quotient obtenu en
 divisant le prix hors taxes des fournitures, travaux ou prestations figurant au
 contrat, déduction faite des coûts des matières premières, produits, matériaux,
-consommations et des frais de vente, par trois mille fois le salaire minimum de
-croissance en vigueur au 31 décembre de l'année d'assujettissement à
+consommations et des frais de vente, par deux mille fois le salaire horaire
+minimum de croissance en vigueur au 31 décembre de l'année d'assujettissement à
 l'obligation d'emploi.
 
+Par dérogation aux dispositions du précédent alinéa, pour la passation de
+contrats de prestations de services donnant lieu à la mise à disposition de
+travailleurs handicapés par des entreprises adaptées ou par des établissements
+ou services d'aide par le travail, le dénominateur du quotient mentionné à cet
+alinéa est fixé à mille six cents fois le salaire horaire minimum de croissance.
+Les employeurs mentionnés à l'article L. 323-1 ne peuvent pas décompter ces
+travailleurs handicapés dans l'effectif des bénéficiaires de l'obligation
+d'emploi mentionnés à l'article L. 323-3, dont le calcul est fixé à l'article L.
+323-4.
+
 Le contrat précise les éléments chiffrés nécessaires au calcul de la déduction
-définie à l'alinéa précédent [*contenu, mentions obligatoires*].
+définie au premier alinéa.
