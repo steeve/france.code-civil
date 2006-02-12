@@ -1,22 +1,29 @@
 Article 56 AJ
 ----
-Au plus tard le 15 de chaque mois chaque fournisseur doit faire parvenir à
-l'administration des douanes et droits indirects un relevé relatif aux
-livraisons qu'il a effectuées au cours du mois précédent et indiquant :
+1. La déclaration des quantités de tabacs manufacturés livrées au débitant au
+cours du mois précédent mentionnées au deuxième alinéa de l'article 568 du code
+général des impôts et au dixième alinéa de l'article 2 du décret n° 63-1104 du
+30 octobre 1963 modifié est conforme au modèle figurant en annexe I au présent
+arrêté. Cette déclaration est établie en un exemplaire sur papier à en-tête du
+fournisseur. Elle est datée et signée. Elle est transmise au receveur régional
+des douanes et droits indirects de Paris - Ile-de-France accompagnée du moyen de
+paiement correspondant.
 
-1° pour chaque débitant approvisionné la valeur au prix de détail des quantités
-livrées ;
+2. La déclaration mensuelle des livraisons mentionnée au deuxième alinéa de
+l'article 568 du code général des impôts comporte les informations suivantes :
 
-2° pour l'ensemble de ses livraisons :
+- nom ou raison sociale et adresse du fournisseur ;
 
-le total pour chaque produit des quantités livrées avec rappel du prix de
-l'unité dans laquelle ces quantités sont exprimées ;
+- matricule du débit ;
 
-la valeur globale de ses livraisons au prix de détail ;
+- code débitant (numéro d'ordre du gérant) ;
 
-le complément de remise sur vente dont il est redevable égal à la différence
-entre la remise totale et la partie de remise allouée directement aux débitants
-en application de l'article 56 AC ci-dessus.
+- type de mouvement : livraisons, reprises, corrections de livraisons et
+corrections de reprises ;
 
-Ce complément est versé par chaque fournisseur à l'administration des douanes et
-droits indirects dans les dix jours qui suivent le dépôt du relevé.
+- montant du mouvement ;
+
+- montant de la remise nette allouée.
+
+Cette déclaration est datée et transmise par voie informatique au centre
+informatique douanier.
