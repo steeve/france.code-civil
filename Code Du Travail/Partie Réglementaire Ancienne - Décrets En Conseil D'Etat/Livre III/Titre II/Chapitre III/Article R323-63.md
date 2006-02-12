@@ -1,7 +1,7 @@
 Article R323-63
 ----
-Les subventions prévues à l'article L. 323-31 ne peuvent être allouées qu'à des
-établissements agréés dans les conditions prévues à l'article précédent et
-donnent lieu, dans chaque cas, à l'établissement d'une convention précisant
-notamment l'objet de la subvention et les modalités du contrôle exercé par la
-collectivité publique ou l'organisme qui accorde la subvention.
+Les organismes gestionnaires des entreprises adaptées et des centres de
+distribution de travail à domicile sont tenus de se soumettre au contrôle des
+agents des services du travail et de l'emploi. Ceux-ci pourront se faire
+présenter tous les documents relatifs à la gestion, et notamment les livres et
+registres dont la tenue est prescrite aux employeurs par les lois et règlements.
