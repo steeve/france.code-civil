@@ -1,8 +1,8 @@
 Article R411-7
 ----
-Les intersections dans lesquelles le passage des véhicules est organisé par une
-signalisation spéciale ou par des feux de signalisation lumineux, sont désignées
-:
+I. - Les intersections dans lesquelles le passage des véhicules est organisé par
+une signalisation spéciale ou par des feux de signalisation lumineux, sont
+désignées :
 
 1° Hors agglomération :
 
@@ -31,3 +31,9 @@ maire lorsque l'intersection est formée par une route départementale non class
 2° En agglomération, par arrêté du maire ou, pour les routes à grande
 circulation, par arrêté du préfet pris sur proposition ou après consultation du
 maire.
+
+II. - Lorsqu'il porte sur une route classée à grande circulation, l'arrêté du
+préfet prévu au a du 1° et au 2° du I ci-dessus comporte, en outre, le plan de
+gestion des feux de signalisation lumineux de l'ensemble de l'itinéraire ou,
+s'agissant d'un carrefour isolé, la synchronisation des feux de signalisation
+lumineux.

@@ -19,17 +19,17 @@ d'enregistrement exigibles, l'excédent est :
 
 - soit transféré dans les mêmes conditions que le prix principal de la vente
 lorsque le service qui était détenteur des objets aliénés est doté d'un budget
-annexe ou d'un budget autonome ;
+annexe ou d'un budget autonome;
 
 - soit imputé en recettes au compte spécial du Trésor "Opérations commerciales
-des domaines", subdivision "Opérations du S.C.V.M.", lorsque le service qui
-était détenteur des objets aliénés relève du budget général.
+des domaines", subdivision "ventes mobilières et patrimoines privés" lorsque le
+service qui était détenteur des objets aliénés relève du budget général.
 
 Sont imputés au même compte spécial du Trésor et à la même subdivision le
 produit des abonnements et de la publicité afférents au bulletin visé à
 l'article A. 107 ainsi que les frais de régie prévus aux articles L. 70 et L.
-77, sous réserve du reversement de ces derniers au Trésor dans des proportions
-et conditions déterminées par arrêté du ministre des finances.
+77.
 
-Les frais de vente sont, après vérification, imputés en dépense à la même
-subdivision.
+Les frais liés aux opérations qu'elle retrace sont, après vérification et à
+l'exception des dépenses de personnel et des dépenses immobilières, imputés en
+dépense sur cette subdivision.
