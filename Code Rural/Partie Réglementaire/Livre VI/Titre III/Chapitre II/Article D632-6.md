@@ -1,9 +1,23 @@
 Article D632-6
 ----
-Si la mise en demeure prévue à l'article D. 632-5 n'est pas suivie d'effet dans
-un délai de quinze jours, les cotisations sont recouvrées suivant les voies du
-droit commun en matière civile ou commerciale. Toutefois, pour le recouvrement
-des cotisations de l'année en cours et des deux années précédentes, la procédure
-d'injonction de payer prévue aux articles 1405 et suivants du nouveau code de
-procédure civile peut être utilisée même si la créance n'a pas un caractère
-contractuel.
+Outre les différentes professions représentées au sein de l'organisation
+interprofessionnelle, les statuts de l'interprofession peuvent prévoir que
+siègent au sein de ces sections ou commissions les organismes spécialisés
+représentant la production, la transformation ou la commercialisation de
+produits issus de l'agriculture biologique.
+
+L'Agence française pour le développement et la promotion de l'agriculture
+biologique, dite Agence BIO, peut être associée en qualité d'expert aux travaux
+de ces sections ou commissions.
+
+Les sections ou commissions mentionnées à l'article D. 632-5 ont pour mission
+d'élaborer les propositions d'actions en faveur des produits issus de
+l'agriculture biologique, le projet de budget qui leur est lié, ainsi que tout
+projet d'accord interprofessionnel concernant spécifiquement les produits issus
+de l'agriculture biologique. Les propositions émanant de ces sections ou
+commissions sont soumises à l'organe décisionnel de l'organisation
+interprofessionnelle.
+
+Les documents transmis en application de l'article L. 632-8-1 doivent permettre
+de rendre compte de leur activité et des actions mises en oeuvre pour les
+produits de leur compétence.

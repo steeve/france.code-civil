@@ -1,7 +1,6 @@
 Article D632-7
 ----
-Toute action en recouvrement des cotisations dues par les producteurs et
-transformateurs de lait au titre des accords homologués selon la procédure fixée
-à l'article L. 632-12 doit être précédée d'une mise en demeure adressée aux
-personnes physiques ou morales intéressées par lettre recommandée avec demande
-d'avis de réception.
+Toute action en recouvrement des cotisations dues au titre des accords étendus
+selon la procédure fixée aux articles L. 632-3 et L. 632-4 doit être précédée
+d'une mise en demeure adressée aux personnes physiques ou morales intéressées,
+par lettre recommandée avec demande d'avis de réception.
