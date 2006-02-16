@@ -112,23 +112,16 @@ les exploiter pendant une période d'au moins cinq ans.
 
 e) La demande d'aide à la transmission de l'exploitation peut être déposée par
 un agriculteur âgé de cinquante-cinq ans au moins et qui n'a pas atteint
-soixante-quatre ans. Il dispose de douze mois pour céder son exploitation, les
-bâtiments dont il dispose et le cheptel qu'il détient à compter de la date
-d'agrément par le préfet de l'étude prévisionnelle d'installation déposée par le
-repreneur.
+soixante-quatre ans.
 
-La demande d'aide à la transmission doit être déposée au plus tard le 31
-décembre 2005. Elle comporte le nom du jeune agriculteur auquel l'exploitation
-doit être cédée.
-
-Le préfet du département où est situé le siège de l'exploitation se prononce,
-après avis de la commission départementale d'orientation de l'agriculture, sur
+La commission départementale d'orientation de l'agriculture se prononce sur
 l'éligibilité de la demande, sur le projet de cession des terres et sur l'étude
 prévisionnelle d'installation du jeune agriculteur au regard des objectifs de la
 politique d'installation définie dans le projet agricole départemental.
 
 Le préfet arrête la décision d'octroi de l'aide à la transmission de
-l'exploitation.
+l'exploitation au plus tard le 31 décembre 2006 au vu des justificatifs de
+cession.
 
 f) Lors du dépôt de sa demande, le candidat à l'aide à la transmission de
 l'exploitation ne peut pas être bénéficiaire de la préretraite ou de la retraite
