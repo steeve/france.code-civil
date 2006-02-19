@@ -8,8 +8,8 @@ raisons liées à l'utilisation du spectre radioélectrique ou à la nécessité
 d'éviter des interférences dommageables ou, conjointement avec le ministre
 chargé de la santé, pour des raisons de santé publique ;
 
-b) Fixées, en application du 12° de l'article L. 32, s'agissant des valeurs
-limites que ne doivent pas dépasser les champs électromagnétiques émis par les
+b) Fixées, en application de l'article L. 34-9-1, s'agissant des valeurs limites
+que ne doivent pas dépasser les champs électromagnétiques émis par les
 équipements utilisés dans les réseaux de communications électroniques ou par les
 installations radioélectriques, lorsque le public y est exposé.
 
