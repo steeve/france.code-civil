@@ -1,8 +1,9 @@
 Article R224-6
 ----
 Les conseillers promus premiers conseillers sont classés au 1er échelon de leur
-nouveau grade et conservent, dans la limite de deux ans, l'ancienneté acquise
-dans le précédent échelon.
+nouveau grade. Ceux qui sont promus alors qu'ils étaient classés au 7e échelon
+de leur ancien grade conservent, dans la limite d'un an, l'ancienneté acquise
+dans cet échelon.
 
 Les premiers conseillers promus présidents de section sont classés à l'échelon
 de leur nouveau grade comportant un indice de rémunération égal à celui dont ils

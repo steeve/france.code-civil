@@ -6,9 +6,9 @@ Peuvent être inscrits au tableau d'avancement :
 atteint au moins le 3e échelon ;
 
 2° Pour l'accès au grade de premier conseiller, les conseillers ayant atteint le
-7e échelon.
+6e échelon.
 
-Les intéressés doivent, en outre, justifier de quatre années de services
+Les intéressés doivent, en outre, justifier de trois années de services
 effectifs dans le corps.
 
 Il est satisfait à l'obligation de mobilité posée par l'article L. 221-2-1 :
