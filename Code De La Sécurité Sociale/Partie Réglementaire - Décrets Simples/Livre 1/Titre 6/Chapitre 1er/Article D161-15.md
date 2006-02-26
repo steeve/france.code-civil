@@ -18,7 +18,7 @@ attestant la qualité de membre de la famille d'une personne de nationalité
 française ;
 
 6° Récépissé de demande de titre de séjour valant autorisation de séjour d'une
-durée de six mois renouvelable portant la mention :
+durée de trois mois renouvelable portant la mention :
 
 " reconnu réfugié" ;
 
@@ -29,7 +29,7 @@ renouvelable ;
 
 8° Autorisation provisoire de séjour ;
 
-9° Le titre d'Andorran délivré par le préfet des Pyrénées-Orientales ;
+9° Paragraphe supprimé
 
 10° Le passeport monégasque revêtu d'une mention du consul général de France à
 Monaco valant autorisation de séjour.

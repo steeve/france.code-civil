@@ -13,17 +13,13 @@ suivants :
 ci-dessus ;
 
 5° Récépissé de demande de titre de séjour valant autorisation de séjour d'une
-durée de six mois renouvelable portant la mention :
+durée de trois mois renouvelable portant la mention : " reconnu réfugié " ;
 
-"reconnu réfugié" ;
-
-6° Récépissé de demande de titre de séjour portant la mention :
-
-"étranger admis au titre de l'asile" d'une durée de validité de six mois,
-renouvelable ;
+6° Récépissé de demande de titre de séjour portant la mention : " étranger admis
+au titre de l'asile " d'une durée de validité de six mois, renouvelable ;
 
 7° Récépissé constatant le dépôt d'une demande de statut de réfugié portant la
-mention : "a demandé le statut de réfugié" d'une validité de trois mois,
+mention : " a demandé le statut de réfugié " d'une validité de trois mois,
 renouvelable ;
 
 8° Autorisation provisoire de travail pour les personnes séjournant en France
@@ -34,8 +30,7 @@ français, pour une durée inférieure à trois mois ;
 9° Autorisation provisoire de séjour accompagnée d'une autorisation provisoire
 de travail ;
 
-10° Le titre d'identité d'Andorran délivré par le préfet des Pyrénées-Orientales
-;
+10° Paragraphe supprimé
 
 11° Le passeport monégasque revêtu d'une mention du consul général de France à
 Monaco valant autorisation de séjour ;
@@ -43,8 +38,7 @@ Monaco valant autorisation de séjour ;
 12° Contrat de travail saisonnier visé par la direction départementale du
 travail et de l'emploi ;
 
-13° Récépissé de demande de titre de séjour portant la mention :
-
-"il autorise son titulaire à travailler" ;
+13° Récépissé de demande de titre de séjour portant la mention : " il autorise
+son titulaire à travailler " ;
 
 14° Carte de frontalier.
