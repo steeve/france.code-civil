@@ -1,10 +1,10 @@
 Article A132-5-1
 ----
-Pour les plans d'épargne retraite populaire prévoyant une provision technique de
-diversification, l'obligation d'information sur les valeurs de transfert
-mentionnée à l'article L. 132-5-1 du code des assurances peut être valablement
-remplie au b du 3° du modèle de note d'information annexé à l'article A. 132-4
-du code des assurances comme suit.
+Pour l'application de l'article A. 132-4-1 aux plans d'épargne retraite
+populaire prévoyant une provision technique de diversification, l'obligation
+d'information sur les valeurs de transfert mentionnée à l'article L. 132-5-3 du
+code des assurances peut être valablement remplie au b du 3° du modèle de note
+d'information annexé à l'article A. 132-4 du code des assurances comme suit.
 
 I. - Information générale sur les valeurs de transfert des contrats en euro
 diversifié.
