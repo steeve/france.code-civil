@@ -2,67 +2,71 @@ Article Annexe I : Chapitre II
 ----
 CHAPITRE II : Domaine d'application des règles de l'air
 
-2.1. Application territoriale des règles de l'air.
+2.1 Application territoriale des règles de l'air
 
-Les règles de l'air s'appliquent :
+2.1.1 (Réservé)
 
-a) A tous les aéronefs civils évoluant dans les espaces aériens exploités par
-l'administration française et à tous les aéronefs d'Etat, évoluant dans les
-mêmes espaces, dont les conditions d'exécution de la mission sont compatibles
-avec ces règles générales ;
+2.1.2 Pour le survol des parties de la haute mer où l'Etat français a accepté,
+en vertu d'un accord régional de navigation aérienne, la responsabilité de la
+fourniture de services de la circulation aérienne, l'autorité ATS compétente
+dont il est question dans la présente Annexe est l'autorité appropriée désignée
+par l'État français chargé de fournir ces services.
 
-b) Aux aéronefs portant les marques de nationalité et d'immatriculation
-françaises, où qu'ils se trouvent, dans la mesure où ces règles ne
-contreviennent pas aux règles édictées par l'Etat sous l'autorité duquel le
-territoire survolé se trouve placé.
+Note. - Par accord régional de navigation aérienne, on entend un accord approuvé
+par le Conseil de l'OACI, en principe sur l'avis d'une réunion régionale de
+navigation aérienne.
 
-2.2. Règles à appliquer.
+2.2 Règles à appliquer
 
-En vol, comme sur l'aire de mouvement d'un aérodrome, un aéronef sera utilisé
-conformément aux règles générales (chapitre III) et, en vol, suivant le cas :
+En vol comme sur l'aire de mouvement d'un aérodrome, un aéronef est utilisé
+conformément aux règles générales et, en vol, suivant le cas :
 
-a) Conformément aux règles de vol à vue (chapitre IV) ;
+- conformément aux règles de vol à vue ;
 
-b) Ou conformément aux règles de vol aux instruments (chapitre V).
+- conformément aux règles de vol aux instruments.
 
-2.3. Responsabilité pour l'application des règles de l'air.
+Note 1. - Les § 2.6.1 et 2.6.3 de l'annexe relative aux services de la
+circulation aérienne contiennent des renseignements sur les services fournis aux
+aéronefs exploités conformément aux règles VFR et IFR dans les sept classes
+d'espaces aériens ATS.
 
-Le pilote commandant de bord, qu'il tienne ou non les commandes, est responsable
-de l'application des règles de l'air à la conduite de son aéronef. Il ne peut
-déroger à ces règles que s'il le juge absolument nécessaire pour des motifs de
-sécurité.
+Note 2. - Un pilote peut décider de voler suivant les règles de vol aux
+instruments dans les conditions météorologiques de vol à vue ou y être invité
+par l'autorité ATS compétente.
 
-Pour les aéronefs non habités, cette responsabilité est exercée par la personne
-mettant en oeuvre l'appareil. Des règles particulières concernant les aéronefs
-non habités peuvent être établies par arrêté du ministre chargé de l'aviation
-civile.
+2.3 Responsabilité pour l'application des règles de l'air
 
-2.4. Autorité du pilote commandant de bord.
+2.3.1 Responsabilité du pilote commandant de bord
 
-2.4.1. Le pilote commandant de bord est responsable de la conduite de l'aéronef
-et décide en dernier ressort de son utilisation tant qu'il en a le commandement.
+Le pilote commandant de bord d'un aéronef, qu'il tienne ou non les commandes,
+est responsable de l'application des règles de l'air à la conduite de son
+aéronef ; toutefois, il peut déroger à ces règles s'il le juge absolument
+nécessaire pour des motifs de sécurité.
 
-2.4.2. Le pilote commandant de bord est responsable de l'application des
-clairances émanant d'un organisme de la circulation aérienne.
+La personne mettant en œuvre un aéronef non habité est responsable de
+l'application des règles de l'air.
 
-Si une clairance n'est pas jugée satisfaisante par le pilote commandant de bord,
-celui-ci peut demander une modification à cette clairance, demande à laquelle il
-sera, dans la mesure du possible, donné suite.
+§2.3.1 - Différence OACI - voir tableau récapitulatif
 
-2.4.3. Les clairances ne peuvent servir de prétexte à un pilote commandant de
-bord pour enfreindre un règlement quelconque établi.
+2.3.2 Action préliminaire au vol
 
-2.4.4. Un pilote commandant de bord peut demander une priorité spéciale :
+Avant d'entreprendre un vol, le pilote commandant de bord d'un aéronef prend
+connaissance de tous les renseignements disponibles utiles au vol projeté. Pour
+les vols hors des abords d'un aérodrome et pour tous les vols IFR, l'action
+préliminaire au vol comprend l'étude attentive des bulletins et prévisions
+météorologiques disponibles les plus récents, en tenant compte des besoins en
+carburant et d'un aérodrome de dégagement, au cas où le vol ne pourrait pas se
+dérouler comme prévu.
 
-a) Pour des raisons intéressant la sécurité du vol ou celle d'une personne se
-trouvant à bord ;
+2.4 Autorité du pilote commandant de bord d'un aéronef
 
-b) Pour participer à une opération concernant la sauvegarde des personnes et des
-biens.
+Le pilote commandant de bord d'un aéronef décide en dernier ressort de
+l'utilisation de cet aéronef tant qu'il en a le commandement.
 
-2.4.5. Lorsque le pilote commandant de bord demande une clairance comportant une
-priorité, il peut être tenu de fournir un rapport exposant les motifs de cette
-demande.
+2.5 Usage de substances psychoactives qui pose des problèmes
 
-2.4.6. Le pilote commandant de bord est responsable du respect des mesures de
-régulation de débit prescrites.
+Les personnes qui assurent des fonctions critiques pour la sécurité de
+l'aviation (personnel critique pour la sécurité) n'exercent pas ces fonctions si
+elles se trouvent sous l'influence de quelque substance psychoactive que ce soit
+qui altère les performances humaines. Ces personnes ne se livrent à aucun usage
+de substances qui pose des problèmes.
