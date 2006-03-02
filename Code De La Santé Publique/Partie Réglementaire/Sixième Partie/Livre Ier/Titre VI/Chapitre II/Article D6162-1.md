@@ -1,36 +1,14 @@
 Article D6162-1
 ----
-Par application de l'article L. 6162-11, l'institut Gustave-Roussy, centre de
-lutte contre le cancer, est géré par un conseil d'administration de dix-huit
-membres, ainsi composé :
+Le conseil d'administration des centres de lutte contre le cancer autres que
+l'Institut Gustave Roussy et la Fondation Curie est régi par les dispositions de
+la présente section. Les membres du conseil d'administration mentionnés au 6° de
+l'article L. 6162-7 sont :
 
-1° Le préfet de Paris ou le secrétaire général, président ;
+1° Quatre représentants des personnels du centre, dont deux désignés par la
+commission médicale et deux par le comité d'entreprise dont un ayant le statut
+de cadre ;
 
-2° Le médecin inspecteur régional de santé publique, vice-président ;
+2° Quatre personnalités qualifiées, dont au moins un médecin ;
 
-3° Un membre du conseil général des Hauts-de-Seine ;
-
-4° Un membre du conseil général de la Seine-Saint-Denis ;
-
-5° Un membre du conseil général du Val-de-Marne ;
-
-6° Deux membres du conseil de Paris ;
-
-7° Le doyen de la faculté de médecine de l'université Paris-XI ;
-
-8° Un professeur de médecine de l'université Paris-XI ;
-
-9° Un directeur de la préfecture de Paris désigné par le préfet ;
-
-10° Le directeur régional des affaires sanitaires et sociales ;
-
-11° Deux délégués de la caisse régionale d'assurance maladie de la région
-Ile-de-France ;
-
-12° Le directeur de l'institut Gustave-Roussy ;
-
-13° Quatre membres du comité technique de l'institut Gustave-Roussy.
-
-Les préfets des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du
-Val-de-Marne ou leurs représentants participent aux séances du conseil
-d'administration avec voix consultative.
+3° Deux représentants des usagers.
