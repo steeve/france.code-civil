@@ -15,9 +15,9 @@ commodité du passage ou à la propreté des voies susmentionnées ;
 
 2° Le soin de réprimer les atteintes à la tranquillité publique telles que les
 rixes et disputes accompagnées d'ameutement dans les rues, le tumulte excité
-dans les lieux d'assemblée publique, les attroupements, les bruits, y compris
-les bruits de voisinage, les rassemblements nocturnes qui troublent le repos des
-habitants et tous actes de nature à compromettre la tranquillité publique ;
+dans les lieux d'assemblée publique, les attroupements, les bruits, les troubles
+de voisinage, les rassemblements nocturnes qui troublent le repos des habitants
+et tous actes de nature à compromettre la tranquillité publique ;
 
 3° Le maintien du bon ordre dans les endroits où il se fait de grands
 rassemblements d'hommes, tels que les foires, marchés, réjouissances et

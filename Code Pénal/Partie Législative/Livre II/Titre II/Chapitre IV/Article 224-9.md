@@ -12,4 +12,8 @@ l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commi
 ;
 
 3° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter
-une arme soumise à autorisation.
+une arme soumise à autorisation ;
+
+4° S'il s'agit des crimes visés à la section 1 du présent chapitre, l'obligation
+d'accomplir un stage de responsabilité parentale, selon les modalités fixées à
+l'article 131-35-1.

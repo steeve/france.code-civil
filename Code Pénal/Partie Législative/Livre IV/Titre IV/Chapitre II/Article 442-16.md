@@ -1,6 +1,6 @@
 Article 442-16
 ----
-Les condamnations prononcées par les juridictions pénales d'un Etat membre de
-l'Union européenne pour les infractions prévues au présent chapitre sont prises
-en compte au titre de la récidive conformément aux règles prévues par les
-articles 132-8 à 132-15.
+Les personnes physiques ou morales coupables des crimes et délits prévus aux
+articles 442-1 à 442-3 encourent également la peine complémentaire de
+confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature,
+meubles ou immeubles, divis ou indivis.

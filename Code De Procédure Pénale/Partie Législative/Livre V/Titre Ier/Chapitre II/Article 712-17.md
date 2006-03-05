@@ -8,6 +8,13 @@ Si le condamné est en fuite ou réside à l'étranger, il peut délivrer un man
 d'arrêt. La délivrance du mandat d'arrêt suspend, jusqu'à son exécution, le
 délai d'exécution de la peine ou des mesures d'aménagement.
 
+En cas d'urgence et d'empêchement du juge de l'application des peines ainsi que
+du magistrat du siège qui le remplace, le mandat d'amener peut être délivré par
+le procureur de la République qui en informe dès que possible le juge de
+l'application des peines ; lorsqu'il n'a pas déjà été mis à exécution, ce mandat
+est caduc s'il n'est pas repris, dans le premier jour ouvrable qui suit, par le
+juge de l'application des peines.
+
 Si la personne est découverte, il est procédé conformément aux dispositions
 ci-après.
 
@@ -35,13 +42,13 @@ procédure criminelle.
 Si la personne est arrêtée à plus de 200 kilomètres du siège du juge de
 l'application des peines et qu'il n'est pas possible de la conduire dans le
 délai de vingt-quatre heures devant le procureur de la République compétent en
-vertu du cinquième alinéa, elle est conduite devant le procureur de la
-République du lieu de son arrestation, qui vérifie son identité, lui notifie le
-mandat et reçoit ses éventuelles déclarations après l'avoir avertie qu'elle est
-libre de ne pas en faire. Ce magistrat met alors le mandat à exécution en
-faisant conduire la personne à la maison d'arrêt ; il en avise le juge de
-l'application des peines ayant délivré le mandat. Celui-ci ordonne le
-transfèrement de la personne, qui doit comparaître devant lui dans les quatre
-jours de la notification du mandat ; ce délai est porté à six jours en cas de
-transfèrement entre un département d'outre-mer et la France métropolitaine ou un
-autre département d'outre-mer.
+vertu du sixième alinéa, elle est conduite devant le procureur de la République
+du lieu de son arrestation, qui vérifie son identité, lui notifie le mandat et
+reçoit ses éventuelles déclarations après l'avoir avertie qu'elle est libre de
+ne pas en faire. Ce magistrat met alors le mandat à exécution en faisant
+conduire la personne à la maison d'arrêt ; il en avise le juge de l'application
+des peines ayant délivré le mandat. Celui-ci ordonne le transfèrement de la
+personne, qui doit comparaître devant lui dans les quatre jours de la
+notification du mandat ; ce délai est porté à six jours en cas de transfèrement
+entre un département d'outre-mer et la France métropolitaine ou un autre
+département d'outre-mer.

@@ -22,9 +22,9 @@ l'article L. 2339-9 du code de la défense ;
 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de la santé
 publique ;
 
-6° Les délits prévus par le code rural en matière de chasse, de pêche et de
-protection de la faune et de la flore et les délits prévus par le décret-loi du
-9 janvier 1852 en matière de pêche maritime ;
+6° Les délits prévus par le code de l'environnement en matière de chasse, de
+pêche en eau douce, de pêche maritime et de protection de la faune et de la
+flore ;
 
 7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la
 protection des bois et forêts ;

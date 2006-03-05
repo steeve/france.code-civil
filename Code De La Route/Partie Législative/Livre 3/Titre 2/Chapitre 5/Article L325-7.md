@@ -1,8 +1,8 @@
 Article L325-7
 ----
 Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un
-délai de quarante-cinq jours à compter de la mise en demeure faite au
-propriétaire d'avoir à retirer son véhicule.
+délai de trente jours à compter de la mise en demeure faite au propriétaire
+d'avoir à retirer son véhicule.
 
 La notification est valablement faite à l'adresse indiquée au fichier national
 des immatriculations. Dans le cas où le véhicule fait l'objet d'un gage

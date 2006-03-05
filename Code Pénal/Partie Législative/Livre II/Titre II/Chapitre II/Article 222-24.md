@@ -31,4 +31,7 @@ déterminé, d'un réseau de télécommunications ;
 sur d'autres victimes ;
 
 11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le
-partenaire lié à la victime par un pacte civil de solidarité.
+partenaire lié à la victime par un pacte civil de solidarité ;
+
+12° Lorsqu'il est commis par une personne agissant en état d'ivresse manifeste
+ou sous l'emprise manifeste de produits stupéfiants.

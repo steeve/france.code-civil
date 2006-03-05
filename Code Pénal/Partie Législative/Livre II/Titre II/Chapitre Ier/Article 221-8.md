@@ -21,6 +21,10 @@ cette suspension est de dix ans au plus ;
 4° L'annulation du permis de conduire avec interdiction de solliciter la
 délivrance d'un nouveau permis pendant cinq ans au plus ;
 
+4° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de
+l'usage de produits stupéfiants, selon les modalités fixées à l'article 131-35-1
+;
+
 5° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire
 ou dont il a la libre disposition ;
 

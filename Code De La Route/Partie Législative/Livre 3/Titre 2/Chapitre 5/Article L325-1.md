@@ -21,3 +21,8 @@ circulation et, le cas échéant, aliénés ou livrés à la destruction les vé
 qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs
 dépendances, sont privés d'éléments indispensables à leur utilisation normale et
 insusceptibles de réparation immédiate à la suite de dégradations ou de vols.
+
+L'immobilisation des véhicules se trouvant dans l'une des situations prévues aux
+deux alinéas précédents peut également être décidée, dans la limite de leur
+champ de compétence, par les agents habilités à constater les infractions au
+présent code susceptibles d'entraîner une telle mesure.

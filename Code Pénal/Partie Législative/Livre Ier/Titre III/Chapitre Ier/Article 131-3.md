@@ -14,4 +14,6 @@ Les peines correctionnelles encourues par les personnes physiques sont :
 
 6° Les peines privatives ou restrictives de droits prévues à l'article 131-6 ;
 
-7° Les peines complémentaires prévues à l'article 131-10.
+7° Les peines complémentaires prévues à l'article 131-10 ;
+
+8° La sanction-réparation.

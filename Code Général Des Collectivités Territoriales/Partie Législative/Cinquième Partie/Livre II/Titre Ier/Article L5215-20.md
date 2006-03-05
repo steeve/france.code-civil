@@ -1,6 +1,6 @@
 Article L5215-20
 ----
-I. - La communauté urbaine exerce de plein droit, au lieu et place des communes
+I.-La communauté urbaine exerce de plein droit, au lieu et place des communes
 membres, les compétences suivantes :
 
 1° En matière de développement et d'aménagement économique, social et culturel
@@ -82,13 +82,18 @@ Lorsque l'exercice des compétences mentionnées au présent paragraphe est
 subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est
 déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il
 est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté
-prononçant le transfert de compétence. A défaut, la communauté urbaine exerce
+prononçant le transfert de compétence.A défaut, la communauté urbaine exerce
 l'intégralité de la compétence transférée.
 
-II. - La communauté urbaine peut transférer certaines de ses compétences à un
+II.-La communauté urbaine peut transférer certaines de ses compétences à un
 syndicat mixte dont le périmètre inclut en totalité le périmètre communautaire
 après création du syndicat ou adhésion de la communauté.
 
-III. - Par convention passée avec le département, une communauté urbaine peut
-exercer pour le département tout ou partie des compétences d'aide sociale que
-celui-ci lui confie.
+III.-Par convention passée avec le département, une communauté urbaine peut
+exercer pour le département tout ou partie des compétences qui, dans le domaine
+de l'action sociale, sont attribuées au département en vertu des articles L.
+121-1 et L. 121-2 du code de l'action sociale et des familles.
+
+La convention précise l'étendue et les conditions financières de la délégation
+ainsi que les conditions dans lesquelles les services départementaux
+correspondants sont mis à la disposition de la communauté urbaine.

@@ -28,6 +28,9 @@ pénal ;
 8° Crimes aggravés d'extorsion prévus par les articles 312-6 et 312-7 du code
 pénal ;
 
+8° bis Délit d'escroquerie commis en bande organisée prévu par l'article 313-2
+du code pénal ;
+
 9° Crime de destruction, dégradation et détérioration d'un bien commis en bande
 organisée prévu par l'article 322-8 du code pénal ;
 

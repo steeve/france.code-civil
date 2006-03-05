@@ -1,6 +1,6 @@
 Article L5216-5
 ----
-I. - La communauté d'agglomération exerce de plein droit au lieu et place des
+I.-La communauté d'agglomération exerce de plein droit au lieu et place des
 communes membres les compétences suivantes :
 
 1° En matière de développement économique : création, aménagement, entretien et
@@ -23,13 +23,12 @@ action, par des opérations d'intérêt communautaire, en faveur du logement des
 personnes défavorisées ; amélioration du parc immobilier bâti d'intérêt
 communautaire ;
 
-4° En matière de politique de la ville dans la communauté :
+4° En matière de politique de la ville dans la communauté : dispositifs
+contractuels de développement urbain, de développement local et d'insertion
+économique et sociale d'intérêt communautaire ; dispositifs locaux, d'intérêt
+communautaire, de prévention de la délinquance.
 
-dispositifs contractuels de développement urbain, de développement local et
-d'insertion économique et sociale d'intérêt communautaire ; dispositifs locaux,
-d'intérêt communautaire, de prévention de la délinquance.
-
-II. - La communauté d'agglomération doit en outre exercer au lieu et place des
+II.-La communauté d'agglomération doit en outre exercer au lieu et place des
 communes au moins trois compétences parmi les six suivantes :
 
 1° Création ou aménagement et entretien de voirie d'intérêt communautaire ;
@@ -60,27 +59,32 @@ Le choix de ces compétences est arrêté par décision des conseils municipaux 
 communes intéressées dans les conditions de majorité qualifiée requise pour la
 création.
 
-II bis. - La communauté d'agglomération est titulaire du droit de préemption
+II bis.-La communauté d'agglomération est titulaire du droit de préemption
 urbain dans les périmètres fixés, après délibération concordante de la ou des
 communes concernées, par le conseil de communauté pour la mise en oeuvre de la
 politique communautaire d'équilibre social de l'habitat.
 
-III. - Lorsque l'exercice des compétences mentionnées aux I et II du présent
+III.-Lorsque l'exercice des compétences mentionnées aux I et II du présent
 article est subordonné à la reconnaissance de leur intérêt communautaire, cet
 intérêt est déterminé à la majorité des deux tiers du conseil de la communauté
 d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigueur
 de l'arrêté prononçant le transfert de compétence. A défaut, la communauté
 d'agglomération exerce l'intégralité de la compétence transférée.
 
-IV. - La communauté d'agglomération peut transférer certaines de ses compétences
-à un syndicat mixte dont le périmètre inclut en totalité le périmètre
+IV.-La communauté d'agglomération peut transférer certaines de ses compétences à
+un syndicat mixte dont le périmètre inclut en totalité le périmètre
 communautaire après création du syndicat ou adhésion de la communauté.
 
-V. - Par convention passée avec le département, une communauté d'agglomération
-peut exercer pour le département tout ou partie des compétences d'aide sociale
-que celui-ci lui confie.
+V.-Par convention passée avec le département, une communauté d'agglomération
+peut exercer pour le département tout ou partie des compétences qui, dans le
+domaine de l'action sociale, sont attribuées au département en vertu des
+articles L. 121-1 et L. 121-2 du code de l'action sociale et des familles.
 
-VI. - Afin de financer la réalisation ou le fonctionnement d'un équipement, des
+La convention précise l'étendue et les conditions financières de la délégation
+ainsi que les conditions dans lesquelles les services départementaux
+correspondants sont mis à la disposition de la communauté d'agglomération.
+
+VI.-Afin de financer la réalisation ou le fonctionnement d'un équipement, des
 fonds de concours peuvent être versés entre la communauté d'agglomération et les
 communes membres après accords concordants exprimés à la majorité simple du
 conseil communautaire et des conseils municipaux concernés.

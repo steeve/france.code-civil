@@ -38,9 +38,9 @@ d'identifier les biens et les personnes impliqués dans un accident de la
 circulation à condition qu'au moins un des véhicules soit assuré par le
 demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes ;
 
-9° Aux autorités étrangères extérieures à l'Union européenne et à l'Espace
-économique européen avec lesquelles existe un accord d'échange d'informations
-relatives à l'identification du titulaire du certificat d'immatriculation ;
+9° Aux autorités étrangères avec lesquelles existe un accord d'échange
+d'informations relatives à l'identification du titulaire du certificat
+d'immatriculation ;
 
 10° Aux services compétents en matière d'immatriculation des Etats membres de
 l'Union européenne et aux autres Etats parties à l'accord sur l'Espace

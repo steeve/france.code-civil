@@ -26,4 +26,7 @@ de la République ;
 
 7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix
 ans au plus, une activité professionnelle ou bénévole impliquant un contact
-habituel avec des mineurs.
+habituel avec des mineurs ;
+
+8° L'obligation d'accomplir un stage de responsabilité parentale, selon les
+modalités fixées à l'article 131-35-1.

@@ -10,7 +10,11 @@ formation professionnelle ;
 2° Etablir sa résidence en un lieu déterminé ;
 
 3° Se soumettre à des mesures d'examen médical, de traitement ou de soins, même
-sous le régime de l'hospitalisation ;
+sous le régime de l'hospitalisation. Ces mesures peuvent consister en
+l'injonction thérapeutique prévue par les articles L. 3413-1 à L. 3413-4 du code
+de la santé publique, lorsqu'il apparaît que le condamné fait usage de
+stupéfiants ou fait une consommation habituelle et excessive de boissons
+alcooliques ;
 
 4° Justifier qu'il contribue aux charges familiales ou acquitte régulièrement
 les pensions alimentaires dont il est débiteur ;

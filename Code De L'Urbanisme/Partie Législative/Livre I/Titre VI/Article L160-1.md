@@ -26,7 +26,12 @@ sensibles des départements ;
 
 d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux
 prescriptions architecturales ou aux règles particulières édictées dans une zone
-d'environnement protégé en application de l'article L. 143-1 (alinéa 2).
+d'environnement protégé en application de l'article L. 143-1 (alinéa 2) ;
+
+e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la
+réalisation doit obligatoirement être précédée d'une étude de sécurité publique
+en application de l'article L. 111-3-1, avant la réception de cette étude par la
+commission compétente en matière de sécurité publique.
 
 Toute association agréée de protection de l'environnement en application des
 dispositions de l'article L. 252-1 du code rural, peut exercer les droits

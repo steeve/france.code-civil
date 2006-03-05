@@ -1,9 +1,9 @@
 Article L144-3
 ----
-Devant le tribunal du contentieux de l'incapacité et la Cour nationale de
-l'incapacité et de la tarification de l'assurance des accidents du travail, les
-parties se défendent elles-mêmes. Outre les avocats, peuvent assister ou
-représenter les parties :
+Devant le tribunal du contentieux de l'incapacité, le tribunal des affaires de
+sécurité sociale et la Cour nationale de l'incapacité et de la tarification de
+l'assurance des accidents du travail, les parties se défendent elles-mêmes.
+Outre les avocats, peuvent assister ou représenter les parties :
 
 1° Leur conjoint ou un ascendant ou descendant en ligne directe ;
 

@@ -21,4 +21,7 @@ l'utilisation, pour la diffusion de messages à destination d'un public non
 déterminé, d'un réseau de télécommunications ;
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le
-partenaire lié à la victime par un pacte civil de solidarité.
+partenaire lié à la victime par un pacte civil de solidarité ;
+
+8° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste
+ou sous l'emprise manifeste de produits stupéfiants.

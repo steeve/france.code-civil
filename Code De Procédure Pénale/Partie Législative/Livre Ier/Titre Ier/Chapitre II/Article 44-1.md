@@ -32,7 +32,10 @@ Les dispositions du présent article s'appliquent aux contraventions de même
 nature que les agents de la ville de Paris chargés d'un service de police et les
 agents de surveillance de Paris sont habilités à constater par procès-verbal
 conformément aux dispositions des articles L. 2512-16 et L. 2512-16-1 du code
-général des collectivités territoriales.
+général des collectivités territoriales. Ces dispositions s'appliquent également
+aux contraventions de même nature que les gardes champêtres sont habilités à
+constater par procès-verbal conformément à l'article L. 2213-18 du code général
+des collectivités territoriales.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent
 article.

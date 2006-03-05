@@ -10,3 +10,8 @@ La nature, le quantum et le régime des peines prononcées sont fixés de maniè
 concilier la protection effective de la société, la sanction du condamné et les
 intérêts de la victime avec la nécessité de favoriser l'insertion ou la
 réinsertion du condamné et de prévenir la commission de nouvelles infractions.
+
+En matière correctionnelle, lorsque l'infraction est commise en état de récidive
+légale ou de réitération, la juridiction motive spécialement le choix de la
+nature, du quantum et du régime de la peine qu'elle prononce au regard des
+peines encourues.
