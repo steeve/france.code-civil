@@ -10,7 +10,7 @@ Le représentant du secrétaire d'Etat auprès du ministre de l'intérieur (DOM-
 
 Le représentant du ministre dont relève l'activité à encourager ;
 
-Le commissaire général du plan d'équipement et de la productivité ;
+Le directeur général du Centre d'analyse stratégique ;
 
 L'inspecteur général des finances chargé de la division des départements
 d'outre-mer ;
@@ -26,7 +26,8 @@ Le directeur de la comptabilité publique ;
 
 Le directeur général des douanes et des droits indirects ;
 
-Le directeur général de la concurrence et de la consommation ;
+Le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ;
 
 Le directeur général de la SOCREDOM, ou leurs représentants.
 
