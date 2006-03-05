@@ -37,7 +37,7 @@ publics :
 
 - le directeur général des stratégies industrielles ;
 
-- le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
 - le directeur général de l'Institut national de la statistique et des études
 économiques ;
