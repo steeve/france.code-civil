@@ -33,9 +33,9 @@ c) Par arrêté du ministre chargé du travail pour :
 - le membre du conseil d'Etat, sur la proposition du vice-président du conseil
 d'Etat ;
 
-- le représentant de la commission de la main-d'oeuvre du commissariat général
-du plan d'équipement de la productivité, sur proposition du commissaire général
-;
+- le représentant de la commission de la main-d'oeuvre du Centre d'analyse
+stratégique d'équipement de la productivité, sur proposition du directeur
+général ;
 
 - les représentants des travailleurs sur proposition des organisations
 syndicales les plus représentatives sur le plan national ;

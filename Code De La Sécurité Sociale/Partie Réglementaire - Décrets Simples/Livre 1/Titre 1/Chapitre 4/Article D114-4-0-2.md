@@ -49,7 +49,7 @@ représentant ;
 
 5° Six représentants de l'Etat :
 
-a) Le commissaire au Plan ;
+a) Le directeur général du Centre d'analyse stratégique ;
 
 b) Le directeur général de l'administration et de la fonction publique ;
 
