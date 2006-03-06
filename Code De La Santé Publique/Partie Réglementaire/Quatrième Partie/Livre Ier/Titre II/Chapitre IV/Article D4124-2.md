@@ -1,7 +1,7 @@
 Article D4124-2
 ----
 Le ressort territorial de chacun des conseils régionaux de l'ordre des médecins
-ou de l'ordre des chirurgiens-dentistes est fixé comme suit :
+est fixé comme suit :
 
 1° Conseil régional d'Alsace : départements du Bas-Rhin et du Haut-Rhin ;
 
@@ -23,50 +23,56 @@ l'Indre, d'Indre-et-Loire, de Loir-et-Cher et du Loiret ;
 7° Conseil régional de Champagne-Ardenne : départements des Ardennes, de l'Aube,
 de la Marne et de la Haute-Marne ;
 
-8° Conseil régional de Franche-Comté : départements du Doubs, du Jura, de la
+8° Conseil régional de Corse : départements de la Corse-du-Sud et de la
+Haute-Corse ;
+
+9° Conseil régional de Franche-Comté : départements du Doubs, du Jura, de la
 Haute-Saône et du Territoire de Belfort ;
 
-9° Conseil régional de Languedoc-Roussillon : départements de l'Aude, du Gard,
+10° Conseil régional de Languedoc-Roussillon : départements de l'Aude, du Gard,
 de l'Hérault, de la Lozère et des Pyrénées-Orientales ;
 
-10° Conseil régional du Limousin : départements de la Corrèze, de la Creuse et
+11° Conseil régional du Limousin : départements de la Corrèze, de la Creuse et
 de la Haute-Vienne ;
 
-11° Conseil régional de Lorraine : départements de Meurthe-et-Moselle, de la
+12° Conseil régional de Lorraine : départements de Meurthe-et-Moselle, de la
 Meuse, de la Moselle et des Vosges ;
 
-12° Conseil régional de Midi-Pyrénées : départements de l'Ariège, de l'Aveyron,
+13° Conseil régional de Midi-Pyrénées : départements de l'Ariège, de l'Aveyron,
 de la Haute-Garonne, du Gers, du Lot, des Hautes-Pyrénées, de Tarn-et-Garonne et
 du Tarn ;
 
-13° Conseil régional de Nord - Pas-de-Calais : départements du Nord et du
+14° Conseil régional de Nord - Pas-de-Calais : départements du Nord et du
 Pas-de-Calais ;
 
-14° Conseil régional de Basse-Normandie : départements du Calvados, de la
+15° Conseil régional de Basse-Normandie : départements du Calvados, de la
 Manche, de l'Orne et de Saint-Pierre-et-Miquelon ;
 
-15° Conseil régional de Haute-Normandie : départements de l'Eure et de la
+16° Conseil régional de Haute-Normandie : départements de l'Eure et de la
 Seine-Maritime ;
 
-16° Conseil régional des Pays de la Loire : départements de la Loire-Atlantique,
+17° Conseil régional des Pays de la Loire : départements de la Loire-Atlantique,
 de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée ;
 
-17° Conseil régional de Picardie : départements de l'Aisne, de l'Oise et de la
+18° Conseil régional de Picardie : départements de l'Aisne, de l'Oise et de la
 Somme ;
 
-18° Conseil régional de Poitou-Charentes : départements de la Charente, de la
+19° Conseil régional de Poitou-Charentes : départements de la Charente, de la
 Charente-Maritime, des Deux-Sèvres et de la Vienne ;
 
-19° Conseil régional d'Ile-de-France : départements de Paris, des
+20° Conseil régional d'Ile-de-France : départements de Paris, des
 Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne, de l'Essonne, du
-Val-d'Oise, des Yvelines, de Seine-et-Marne et de la Réunion ;
+Val-d'Oise, des Yvelines, de Seine-et-Marne ;
 
-20° Conseil régional de Provence-Côte d'Azur-Corse : départements des
+21° Conseil régional de Provence-Alpes-Côte d'Azur : départements des
 Hautes-Alpes, des Alpes-de-Haute-Provence, des Alpes-Maritimes, des
-Bouches-du-Rhône, du Var, de Vaucluse et de la Corse ;
+Bouches-du-Rhône, du Var, de Vaucluse ;
 
-21° Conseil régional de Rhône-Alpes : départements de l'Ain, de l'Ardèche, de la
+22° Conseil régional de Rhône-Alpes : départements de l'Ain, de l'Ardèche, de la
 Drôme, de l'Isère, de la Loire, du Rhône, de la Savoie et de la Haute-Savoie ;
 
-22° Conseil interrégional des Antilles et de Guyane : départements de la
-Guadeloupe, de la Guyane et de la Martinique.
+23° Conseil interrégional des Antilles et de Guyane : départements de la
+Guadeloupe, de la Guyane et de la Martinique ;
+
+24° Conseil interrégional de La Réunion-Mayotte : département de La Réunion et
+collectivité de Mayotte.

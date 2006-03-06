@@ -4,8 +4,10 @@ Le président du conseil départemental ou, à défaut, le président du conseil
 national envoie, quinze jours au moins avant la date de l'élection, un
 exemplaire de la liste des candidats, imprimée par ordre alphabétique sur papier
 blanc, en indiquant leur adresse, leur date de naissance et, le cas échéant,
-leur qualification et leurs fonctions dans les organismes professionnels. Cette
-liste peut servir de bulletin de vote.
+leur qualification et leurs fonctions dans les organismes professionnels. Sont
+joints à cette liste les professions de foi rédigées, le cas échéant, par les
+candidats à l'attention des électeurs, ainsi que le rappel des modalités de
+vote. Cette liste peut servir de bulletin de vote.
 
 Le président envoie en même temps aux électeurs deux enveloppes opaques. La
 première est destinée à contenir le bulletin de vote et ne comporte aucun signe

@@ -11,6 +11,9 @@ A l'ouverture du scrutin, le président fait constater que l'urne est vide.
 
 Il est ensuite procédé au vote.
 
+Le scrutin est secret. Les moyens nécessaires sont mis à la disposition des
+électeurs pour préserver la liberté et la sincérité de leur vote.
+
 Aussitôt la clôture prononcée, la boîte scellée contenant les votes par
 correspondance est ouverte, les enveloppes sont comptées et ouvertes et les
 enveloppes anonymes qu'elles contiennent sont placées dans l'urne.
