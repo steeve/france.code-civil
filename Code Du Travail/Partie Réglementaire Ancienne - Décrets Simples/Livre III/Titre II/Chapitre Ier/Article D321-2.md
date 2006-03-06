@@ -28,6 +28,7 @@ Le secrétaire d'Etat auprès du ministre du travail.
 D'autres ministres peuvent être appelés à siéger au comité selon les questions
 inscrites à son ordre du jour.
 
-Le commissaire général au Plan, le délégué à l'aménagement du territoire et le
-secrétaire général du comité interministériel de la formation professionnelle et
-de la promotion sociale participent aux séances du comité.
+Le directeur général du Centre d'analyse stratégique, le délégué à l'aménagement
+du territoire et le secrétaire général du comité interministériel de la
+formation professionnelle et de la promotion sociale participent aux séances du
+comité.

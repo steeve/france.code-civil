@@ -3,7 +3,9 @@ Article R323-82
 Le Conseil supérieur pour le reclassement professionnel et social des
 travailleurs handicapés se compose :
 
-- du ministre chargé du travail ou son représentant, président ;
+- du ministre chargé du travail ou son représentant,
+
+président ;
 
 - du ministre chargé de la santé publique ou son représentant, vice-président ;
 
@@ -30,10 +32,10 @@ compétentes ;
 
 - d'un membre du Conseil d'Etat ;
 
-- d'un représentant de la commission de la main-d'oeuvre, du commissariat
-général du plan et de la productivité ;
+- d'un représentant de la commission de la main-d'oeuvre, du Centre d'analyse
+stratégique et de la productivité ;
 
-- de cinq [*nombre*] représentants des organisations syndicales patronales ;
+- de cinq représentants des organisations syndicales patronales ;
 
 - de cinq représentants des organisations syndicales ouvrières ;
 
