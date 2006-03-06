@@ -1,8 +1,6 @@
 Article D6124-126
 ----
-La réanimation est exercée soit dans une unité de réanimation pédiatrique
-spécialisée pour la chirurgie cardiaque, soit dans un secteur individualisé au
-sein d'une unité de réanimation pédiatrique.
-
-Elle comporte des dispositifs médicaux adaptés au nouveau-né et à l'enfant, dont
-notamment un appareil d'épuration extrarénale et un appareil de photothérapie.
+L'unité d'hospitalisation comporte un nombre de lits dédiés suffisant et dispose
+du personnel nécessaire pour être en mesure de prendre en charge à tout moment
+les soins pré- et post-opératoires de chirurgie cardiaque du nouveau-né ou de
+l'enfant.

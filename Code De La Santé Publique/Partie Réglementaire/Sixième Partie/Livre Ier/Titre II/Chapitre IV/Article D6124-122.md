@@ -1,18 +1,26 @@
 Article D6124-122
 ----
-La pratique de l'activité de chirurgie cardiaque nécessite de disposer :
+Le personnel médical et paramédical intervenant en chirurgie cardiaque comprend
+:
 
-1° Sur le même site, des appareils d'échocardiographie, d'échographie
-transthoracique, d'échographie transoesophagienne et d'angiographie numérisée,
-utilisables et accessibles à tout moment pour l'activité de chirurgie cardiaque
-;
+1° Au moins deux chirurgiens, titulaires du diplôme d'études spécialisées
+complémentaires en chirurgie thoracique et cardiovasculaire ou compétents en
+chirurgie thoracique et, pour la chirurgie des cardiopathies congénitales
+complexes de l'adulte, la collaboration d'un chirurgien formé ou ayant une
+expérience en chirurgie des cardiopathies congénitales selon des modalités
+précisées par arrêté du ministre chargé de la santé ;
 
-2° D'un laboratoire d'analyses de biologie médicale en mesure de pratiquer des
-examens nécessaires à la réalisation de l'activité de chirurgie cardiaque soit
-situé sur le même site, soit lié par convention ; les résultats des examens, et
-notamment ceux relatifs à l'hémostase et aux gaz du sang, doivent être
-accessibles dans des délais compatibles avec l'urgence vitale ;
+2° Au moins un médecin justifiant d'une formation universitaire en circulation
+sanguine extracorporelle ;
 
-3° De produits sanguins labiles, y compris en urgence, vingt-quatre heures sur
-vingt-quatre, tous les jours de l'année. Ces produits sont délivrés dans des
-délais compatibles avec l'urgence vitale.
+3° Au moins deux médecins qualifiés spécialistes ou compétents en anesthésie
+réanimation ayant une expérience en chirurgie cardiaque ;
+
+4° Le cas échéant, des médecins qualifiés en réanimation médicale ou en
+cardiologie ;
+
+5° Pour chaque intervention : deux infirmiers, dont un infirmier ou une
+infirmière de bloc opératoire, présents dans la salle. En tant que de besoin, un
+infirmier ou une infirmière ou un médecin expérimenté en circulation sanguine
+extracorporelle et un infirmier ou une infirmière anesthésiste sont également
+présents ou peuvent être appelés dans un délai compatible avec l'urgence vitale.

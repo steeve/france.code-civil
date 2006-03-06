@@ -1,9 +1,10 @@
 Article D6124-121
 ----
-La continuité des soins est assurée par un chirurgien remplissant les conditions
-mentionnées au 1° de l'article D. 6124-120, un anesthésiste réanimateur et un
-médecin ou un infirmier ou une infirmière compétent en circulation sanguine
-extracorporelle. Ces personnels assurent leurs fonctions sur place ou en
-astreinte opérationnelle exclusivement pour le site mentionné à l'article R.
-6123-70. En cas d'astreinte opérationnelle, le délai d'arrivée doit être
-compatible avec l'urgence vitale.
+Les unités d'hospitalisation de chirurgie cardiaque comportent un nombre de lits
+dédiés suffisant pour être en mesure de prendre en charge à tout moment les
+patients de chirurgie cardiaque.
+
+Des protocoles sont conclus entre les responsables médicaux des unités de
+chirurgie cardiaque et des unités de réanimation sur la mise à disposition de
+lits de réanimation en nombre suffisant et sur les modalités de prise en charge
+des patients de chirurgie cardiaque.
