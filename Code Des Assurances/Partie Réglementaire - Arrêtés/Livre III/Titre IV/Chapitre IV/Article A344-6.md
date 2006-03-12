@@ -2,7 +2,7 @@ Article A344-6
 ----
 I. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles
 soumises au contrôle de l'Etat en application de l'article L. 310-1-1 remettent
-chaque année à l'autorité de contrôle :
+chaque année à la commission de contrôle :
 
 1° Dans les quatre mois suivant la clôture de l'exercice, le compte rendu
 détaillé annuel défini à l'article A. 344-8 ci-après ;
@@ -17,6 +17,6 @@ rapports mentionnés aux articles L. 322-2-4 et R. 336-1 et R. 336-5.
 
 II. - Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 et celles
 soumises au contrôle de l'Etat en application de l'article L. 310-1-1 remettent
-à l'autorité de contrôle, dans le mois suivant la fin de chaque trimestre, les
-états relatifs aux opérations réalisées au cours du trimestre définis à
+à la commission de contrôle, dans le mois suivant la fin de chaque trimestre,
+les états relatifs aux opérations réalisées au cours du trimestre définis à
 l'article A. 344-13.
