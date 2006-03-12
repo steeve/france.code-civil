@@ -24,3 +24,7 @@ conservées dans un contenant dûment identifié et réservé à cet usage penda
 quinze jours francs avant enlèvement lorsqu'elles sont entreposées sous régime
 du froid positif et à une température n'excédant pas + 10 °C. Ce délai peut être
 porté à un mois lorsqu'elles sont entreposées sous régime du froid négatif.
+
+IV. - Un arrêté du ministre chargé de l'agriculture fixe les conditions
+d'hygiène et de fonctionnement du local où sont entreposés les cadavres
+d'animaux ou les matières animales.

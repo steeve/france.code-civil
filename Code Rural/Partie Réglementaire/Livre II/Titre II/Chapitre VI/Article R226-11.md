@@ -1,10 +1,8 @@
 Article R226-11
 ----
-Le minimum prévu au premier alinéa de l'article L. 426-3 du code de
-l'environnement est fixé à 76 euros.
-
-L'abattement proportionnel prévu au deuxième alinéa du même article est fixé à 5
-% du montant des dommages retenus.
-
-Cet abattement peut être porté à un taux pouvant atteindre 80 % dans les cas
-prévus à son troisième alinéa.
+Dans chaque commune, l'arrêté du préfet portant à la connaissance du public les
+noms et adresses des titulaires de marchés chargés de la collecte des
+sous-produits animaux relevant du service public de l'équarrissage, ainsi que
+toutes informations permettant de joindre ceux-ci sans délai, est affiché à la
+mairie. Un extrait de cet arrêté est également publié dans un organe de presse
+local.

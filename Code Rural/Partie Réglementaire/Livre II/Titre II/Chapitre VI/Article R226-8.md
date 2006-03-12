@@ -1,19 +1,11 @@
 Article R226-8
 ----
-La commission dresse et met à jour la liste des estimateurs chargés des missions
-prévues à l'article R. 226-13, qu'elle choisit parmi ceux qui ont satisfait à la
-formation dispensée par la Fédération nationale des chasseurs.
+Les dépenses afférentes à l'exécution du service public de l'équarrissage, à
+l'exception des coûts supportés directement par les propriétaires ou les
+détenteurs de certaines catégories de cadavres d'animaux, sont liquidées et
+ordonnancées par le directeur de l'établissement public mentionné à l'article L.
+226-1, puis mises en paiement par l'agent comptable de l'établissement.
 
-Dès qu'elle a connaissance des indications fournies par la commission nationale
-d'indemnisation pour une denrée ou pour des frais de remise en état, la
-commission départementale d'indemnisation procède à la fixation du barème
-départemental annuel d'indemnisation correspondant. Ce barème est établi en
-fonction des prix unitaires des denrées endommagées ainsi que des frais de
-remise en état, évalués par la commission départementale au vu de ces
-indications données par la commission nationale.
-
-Elle définit les dates extrêmes habituelles d'enlèvement des différentes
-récoltes, mentionnées au quatrième alinéa de l'article R. 226-13.
-
-Les décisions prises par la commission départementale en application du présent
-article sont publiées au recueil des actes administratifs du département.
+Dans les cas où le préfet est chargé de l'exécution du service public de
+l'équarrissage, il demande au préalable à l'établissement de procéder à
+l'engagement comptable des dépenses correspondantes et atteste le service fait.
