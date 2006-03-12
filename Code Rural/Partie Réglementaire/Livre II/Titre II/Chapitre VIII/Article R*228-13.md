@@ -1,4 +1,8 @@
 Article R*228-13
 ----
-Le fait de jeter en tous lieux des cadavres d'animaux de moins de quarante
-kilogrammes est puni de la peine prévue pour les contraventions de 3e classe.
+Est puni de la peine prévue pour les contraventions de la 3e classe le fait,
+pour les personnes redevables de la taxe d'abattage prévue à l'article 1609
+septvicies du code général des impôts, de ne pas adresser au ministre chargé de
+l'agriculture le relevé mensuel pévu au 3° du II de l'article 321 A de l'annexe
+2 au code général des impôts comportant les éléments nécessaires à la
+constatation, à la liquidation et au contrôle de cette taxe.
