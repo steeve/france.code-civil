@@ -25,10 +25,3 @@ III. - Le président du conseil d'administration organise et dirige les travaux
 de celui-ci, dont il rend compte à l'assemblée générale. Il veille au bon
 fonctionnement des organes de la société et s'assure, en particulier, que les
 administrateurs sont en mesure de remplir leur mission.
-
-Le président du conseil d'administration rend compte, à l'assemblée générale
-réunie en application de l'article R. 322-62, des conditions de préparation et
-d'organisation des travaux du conseil ainsi que des procédures de contrôle
-interne mises en place par la société. Sans préjudice des dispositions de
-l'article R. 322-53-3, le rapport indique en outre les éventuelles limitations
-que le conseil d'administration apporte aux pouvoirs du directeur général.
