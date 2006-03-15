@@ -1,6 +1,7 @@
 Article R162-32-3
 ----
-Pour les établissements mentionnés à l'article L. 162-22-6, les modalités de
+Sans préjudice des dispositions prévues aux articles R. 162-42-10 et suivants,
+pour les établissements mentionnés à l'article L. 162-22-6, les modalités de
 contrôle, par les agences régionales de l'hospitalisation mentionnées à
 l'article L. 6115-2 du code de la santé publique, de l'exécution des obligations
 législatives, réglementaires ou contractuelles qui s'imposent aux établissements
