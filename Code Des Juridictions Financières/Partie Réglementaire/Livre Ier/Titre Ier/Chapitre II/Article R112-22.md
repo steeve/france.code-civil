@@ -6,5 +6,5 @@ quorum ne serait pas atteint, l'effectif de la section peut être complété en
 faisant appel à un autre conseiller maître de la chambre désigné par le
 président de celle-ci.
 
-Une formation interchambres ne peut délibérer que si au moins les trois
-cinquièmes de ses membres sont présents.
+Une formation interchambres ou une formation commune aux juridictions ne peut
+délibérer que si au moins les trois cinquièmes de ses membres sont présents.
