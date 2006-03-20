@@ -1,36 +1,14 @@
 Article D283-1
 ----
-Tout détenu se trouvant dans un établissement ou quartier en commun peut soit
-sur sa demande, soit par mesure de précaution ou de sécurité, être placé à
-l'isolement.
+Tout détenu peut être placé à l'isolement par mesure de protection ou de
+sécurité, soit sur sa demande, soit d'office.
 
-La mise à l'isolement est ordonnée par le chef de l'établissement qui rend
-compte à bref délai au directeur régional et au juge de l'application des
-peines. Le chef de l'établissement fait en outre rapport à la commission de
-l'application des peines dès la première réunion suivant la mise à l'isolement
-ou le refus opposé à la demande d'isolement du détenu.
+La décision de placement à l'isolement est prise pour une durée de trois mois
+maximum. Elle peut être renouvelée pour la même durée.
 
-Le détenu peut faire parvenir au juge de l'application des peines soit
-directement, soit par l'intermédiaire de son conseil, toutes observations utiles
-en ce qui concerne la décision prise à son égard.
+Il peut être mis fin à la mesure d'isolement à tout moment par l'autorité qui a
+pris la mesure ou qui l'a prolongée, d'office ou à la demande du détenu.
 
-La liste des détenus présents au quartier d'isolement est communiquée
-quotidiennement à l'équipe médicale. Ces détenus font l'objet d'un examen
-médical dans les conditions prévues à l'article D. 381. Il appartient au
-médecin, chaque fois qu'il l'estime utile au regard de l'état de santé du
-détenu, d'émettre un avis sur l'opportunité de mettre fin à la mesure
-d'isolement.
-
-La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un
-nouveau rapport ait été fait devant la commission de l'application des peines et
-sans une décision du directeur régional.
-
-La mesure d'isolement ne peut être prolongée au-delà d'un an à partir de la
-décision initiale que par décision du ministre de la justice, prise sur rapport
-motivé du directeur régional qui recueille préalablement les avis de la
-commission de l'application des peines et du médecin intervenant à
-l'établissement.
-
-Un registre des mesures d'isolement est tenu sous la responsabilité du chef
-d'établissement. Ce registre est visé par les autorités administratives et
-judiciaires lors de leurs visites de contrôle et d'inspection.
+Tant pour la décision initiale que pour les décisions ultérieures, il est tenu
+compte de la personnalité du détenu, de sa dangerosité particulière et de son
+état de santé.

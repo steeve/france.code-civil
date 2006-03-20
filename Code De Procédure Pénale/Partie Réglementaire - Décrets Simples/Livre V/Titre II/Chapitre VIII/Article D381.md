@@ -13,9 +13,9 @@ b) Les visites aux détenus placés au quartier disciplinaire dans les condition
 prévues à l'article D. 251-4, chaque fois que ces médecins l'estiment nécessaire
 et en tout cas deux fois par semaine au moins ;
 
-c) Les visites au quartier d'isolement, dans les conditions prévues à l'article
-D. 283-1, chaque fois que ces médecins l'estiment nécessaire et en tout cas deux
-fois par semaine au moins ;
+c) Les visites aux détenus placés à l'isolement, dans les conditions prévues à
+l'article D. 283-1-3, chaque fois que ces médecins l'estiment nécessaire et en
+tout cas deux fois par semaine au moins ;
 
 d) L'examen des détenus sollicitant des attestations relatives à une inaptitude
 au travail pour raison médicale ;
