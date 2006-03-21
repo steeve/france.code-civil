@@ -8,11 +8,13 @@ d'insertion de la personne embauchée.
 
 Les aides de l'Etat accordées au titre des conventions conclues en application
 des dispositions prévues à l'article L. 322-4-7 ne peuvent excéder 95 % du taux
-brut du salaire minimum de croissance par heure travaillée.
+brut du salaire minimum de croissance par heure travaillée dans la limite d'une
+durée hebdomadaire de 35 heures.
 
 Les aides ne peuvent excéder 47 % du taux brut du salaire minimum de croissance
-par heure travaillée pour les conventions conclues en application des
-dispositions prévues à l'article L. 322-4-8.
+par heure travaillée dans la limite d'une durée hebdomadaire de 35 heures pour
+les conventions conclues en application des dispositions prévues à l'article L.
+322-4-8.
 
 Les montants de ces aides sont fixés chaque année par un arrêté du préfet de
 région.

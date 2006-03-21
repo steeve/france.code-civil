@@ -1,13 +1,11 @@
 Article R322-17-9
 ----
-I. - (Paragraphe abrogé)
-
-II. - Les aides mentionnées au premier alinéa du II de l'article L. 322-4-12
-sont versées par le Centre national pour l'aménagement des structures des
+Les aides mentionnées au premier alinéa du II de l'article L. 322-4-12 sont
+versées par le Centre national pour l'aménagement des structures des
 exploitations agricoles pour les bénéficiaires de l'allocation de solidarité
-spécifique et de l'allocation de parent isolé et par le département ou par tout
-organisme avec lequel il a passé convention pour les bénéficiaires de
-l'allocation de revenu minimum d'insertion.
+spécifique, de l'allocation de parent isolé et de l'allocation aux adultes
+handicapés et par le département ou par tout organisme avec lequel il a passé
+convention pour les bénéficiaires de l'allocation de revenu minimum d'insertion.
 
 Les aides mentionnées au III de l'article L. 322-4-12 sont versées par le Centre
 national pour l'aménagement des structures des exploitations agricoles.

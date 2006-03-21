@@ -9,6 +9,6 @@ Toutefois, et sous réserve du dernier alinéa de l'article L. 322-4-10, lorsque
 la conclusion et la mise en oeuvre de la convention au profit de bénéficiaires
 de l'allocation du revenu minimum d'insertion doivent être assurées par la
 commune ou le cas échéant par l'établissement public de coopération
-intercommunale, celles-ci sont subordonnées à la conclusion préalable de la
-convention prévue au 4e alinéa de l'article L. 262-37 du code de l'action
-sociale et des familles.
+intercommunale, celles-ci sont subordonnées à la conclusion préalable d'une
+convention de délégation entre le département et la commune ou l'établissement
+public de coopération intercommunale.
