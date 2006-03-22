@@ -12,20 +12,24 @@ b. Des dépenses de formation engagées en faveur des salariés de l'entreprise
 bénéficiant d'un congé parental d'éducation dans les conditions prévues à
 l'article L. 122-28-1 du code du travail ;
 
-c. Des rémunérations versées par l'entreprise à ses salariés bénéficiant d'un
+c. Des dépenses de formation engagées par l'entreprise en faveur de nouveaux
+salariés recrutés à la suite d'une démission ou d'un licenciement pendant un
+congé parental d'éducation mentionné à l'article L. 122-28-1 du code du travail,
+lorsque cette formation débute dans les trois mois de l'embauche et dans les six
+mois qui suivent le terme de ce congé ;
+
+d. Des rémunérations versées par l'entreprise à ses salariés bénéficiant d'un
 congé dans les conditions prévues aux articles L. 122-25-4, L. 122-26 et L.
 122-28-1 et aux deux premiers alinéas de l'article L. 122-28-8 du code du
 travail ;
 
-d. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû
+e. Des dépenses visant à indemniser les salariés de l'entreprise qui ont dû
 engager des frais exceptionnels de garde d'enfants à la suite d'une obligation
 professionnelle imprévisible survenant en dehors des horaires habituels de
 travail, dans la limite des frais réellement engagés ;
 
-e.
-
 f. Des dépenses engagées au titre de l'aide financière de l'entreprise
-mentionnée à l'article L. 129-13 du code du travail (1).
+mentionnée à l'article L. 129-13 du code du travail.
 
 II. - Les subventions publiques reçues par les entreprises à raison des dépenses
 ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.

@@ -27,7 +27,8 @@ inégalités constatées. La négociation porte notamment sur les points suivant
 - les conditions d'accès à l'emploi, à la formation et à la promotion
 professionnelle ;
 
-- les conditions de travail et d'emploi.
+- les conditions de travail et d'emploi et notamment celles des salariés à temps
+partiel.
 
 La négociation sur l'égalité professionnelle se déroule sur la base d'un rapport
 présentant la situation comparée des hommes et des femmes dans ces domaines et

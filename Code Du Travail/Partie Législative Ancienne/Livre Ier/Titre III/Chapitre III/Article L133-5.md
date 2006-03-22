@@ -55,6 +55,9 @@ rattrapage tendant à remédier aux inégalités constatées. Ces mesures
 s'appliquent notamment à l'accès à l'emploi, à la formation et à la promotion
 professionnelle et aux conditions de travail et d'emploi ;
 
+9° bis La suppression des écarts de rémunération entre les femmes et les hommes
+prévue à l'article L. 132-12-3 ;
+
 10° L'égalité de traitement entre salariés, quelle que soit leur appartenance à
 une ethnie, une nation ou une race, notamment en matière d'accès à l'emploi, de
 formation, de promotion professionnelle et de conditions de travail ;

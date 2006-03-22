@@ -11,13 +11,14 @@ des indicateurs qui tiennent compte de la situation particulière de
 l'entreprise, permettant d'apprécier, pour chacune des catégories
 professionnelles de l'entreprise, la situation respective des femmes et des
 hommes en matière d'embauche, de formation, de promotion professionnelle, de
-qualification, de classification, de conditions de travail et de rémunération
-effective. Ce rapport recense les mesures prises au cours de l'année écoulée en
-vue d'assurer l'égalité professionnelle, les objectifs prévus pour l'année à
-venir et la définition qualitative et quantitative des actions à mener à ce
-titre ainsi que l'évaluation de leur coût. Les délégués syndicaux reçoivent
-communication du rapport dans les mêmes conditions que les membres du comité
-d'entreprise.
+qualification, de classification, de conditions de travail, de rémunération
+effective et d'articulation entre l'activité professionnelle et l'exercice de la
+responsabilité familiale. Ce rapport recense les mesures prises au cours de
+l'année écoulée en vue d'assurer l'égalité professionnelle, les objectifs prévus
+pour l'année à venir et la définition qualitative et quantitative des actions à
+mener à ce titre ainsi que l'évaluation de leur coût. Les délégués syndicaux
+reçoivent communication du rapport dans les mêmes conditions que les membres du
+comité d'entreprise.
 
 Dans le cas où des actions prévues par le rapport précédent ou demandées par le
 comité n'ont pas été réalisées, le rapport donne les motifs de cette

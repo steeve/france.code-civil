@@ -9,9 +9,10 @@ et de conseil sur la validation des acquis de l'expérience et contribue à
 assurer l'assistance aux candidats à la validation des acquis de l'expérience.
 
 Elle organise des actions destinées à répondre aux besoins d'apprentissage et de
-formation. Elle veille en particulier à organiser des formations permettant
-d'acquérir une des qualifications mentionnées à l'article L. 900-3 du code du
-travail.
+formation en favorisant un accès équilibré des femmes et des hommes aux
+différentes filières de formation. Elle veille en particulier à organiser des
+formations permettant d'acquérir une des qualifications mentionnées à l'article
+L. 900-3 du code du travail.
 
 Elle assure l'accueil en formation de la population résidant sur son territoire,
 ou dans une autre région si la formation désirée n'y est pas accessible. Dans ce

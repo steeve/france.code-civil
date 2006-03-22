@@ -17,8 +17,8 @@ Quand l'accouchement a lieu avant la date présumée, la période d'indemnisatio
 de seize ou de trente-quatre semaines, quarante-six semaines en cas de naissance
 de plus de deux enfants n'est pas réduite de ce fait.
 
-Quand la naissance de l'enfant a lieu plus de six semaines avant la date
-présumée de l'accouchement, la période pendant laquelle la mère perçoit
-l'indemnité journalière de repos est augmentée du nombre de jours courant entre
-la naissance de l'enfant et six semaines avant la date présumée de
-l'accouchement.
+Quand l'accouchement intervient plus de six semaines avant la date initialement
+prévue et exige l'hospitalisation postnatale de l'enfant, la période pendant
+laquelle la mère perçoit l'indemnité journalière de repos est augmentée du
+nombre de jours courant de la date effective de l'accouchement au début de la
+période de repos mentionnée aux alinéas précédents et à l'article L. 331-4.

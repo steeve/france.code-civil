@@ -48,6 +48,14 @@ Le refus du salarié de participer à des actions de formation réalisées dans 
 conditions ou la dénonciation dans les huit jours de l'accord prévu au premier
 alinéa du présent III ne constitue ni une faute ni un motif de licenciement.
 
+Lorsqu'un accord de branche le prévoit, une majoration d'au moins 10 % de
+l'allocation de formation est accordée au salarié qui engage des frais
+supplémentaires de garde d'enfant afin de suivre une action de formation en
+dehors de son temps de travail. Pour l'application de la législation de sécurité
+sociale, cette majoration ne revêt pas le caractère de rémunération au sens du
+deuxième alinéa de l'article L. 140-2 du présent code, de l'article L. 741-10 du
+code rural et de l'article L. 242-1 du code de la sécurité sociale.
+
 IV. - Lorsque en application des dispositions du III tout ou partie de la
 formation se déroule en dehors du temps de travail, l'entreprise définit avec le
 salarié, avant son départ en formation, la nature des engagements auxquels elle
