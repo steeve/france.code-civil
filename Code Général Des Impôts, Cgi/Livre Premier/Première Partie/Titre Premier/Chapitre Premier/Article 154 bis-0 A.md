@@ -3,8 +3,10 @@ Article 154 bis-0 A
 I. - Les cotisations versées par les chefs d'exploitation ou d'entreprise
 agricole au titre des contrats d'assurance de groupe prévus au I de l'article 55
 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et
-les cultures marines sont déductibles du revenu professionnel imposable dans une
-limite égale au plus élevé des deux montants suivants :
+les cultures marines y compris ceux gérés par une institution mentionnée à
+l'article L. 370-1 du code des assurances pour les contrats mentionnés à
+l'article L. 143-1 dudit code, sont déductibles du revenu professionnel
+imposable dans une limite égale au plus élevé des deux montants suivants :
 
 a) 10 % de la fraction du revenu professionnel imposable qui n'excède pas huit
 fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la
@@ -34,8 +36,6 @@ d'assurance vieillesse des travailleurs non salariés des professions agricoles,
 les cotisations versées au titre de ce contrat sont déductibles de son revenu
 professionnel imposable dans une limite fixée, pour chacune de ces personnes, à
 un tiers de celle mentionnée au I.
-
-4° Il est complété par un IV ainsi rédigé :
 
 IV. - Toutefois, par dérogation aux I à III et pour la détermination des
 résultats des exercices clos ou des périodes d'imposition arrêtées jusqu'au 31

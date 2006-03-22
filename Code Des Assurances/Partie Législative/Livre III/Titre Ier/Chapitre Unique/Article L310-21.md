@@ -2,14 +2,14 @@ Article L310-21
 ----
 Les membres ainsi que les agents de l'Autorité de contrôle des assurances sont
 tenus au secret professionnel sous les peines fixées par les articles 226-13 et
-226-14 du code pénal. Ce secret n'est pas opposable l'autorité judiciaire
+226-14 du code pénal. Ce secret n'est pas opposable à l'autorité judiciaire
 agissant dans le cadre d'une procédure pénale.
 
 L'Autorité de contrôle des assurances peut transmettre des informations aux
-autorités chargées de la surveillance des entreprises d'assurance dans d'autres
-pays, sous réserve de réciprocité, et à condition que ces autorités soient
-elles-mêmes soumises au secret professionnel avec les mêmes garanties qu'en
-France.
+autorités chargées de la surveillance des entreprises d'assurance et des
+institutions de retraite professionnelle dans d'autres pays, sous réserve de
+réciprocité, et à condition que ces autorités soient elles-mêmes soumises au
+secret professionnel avec les mêmes garanties qu'en France.
 
 L'Autorité de contrôle des assurances et des mutuelles peut transmettre aux
 banques centrales des Etats membres ou des autres Etats parties à l'accord sur

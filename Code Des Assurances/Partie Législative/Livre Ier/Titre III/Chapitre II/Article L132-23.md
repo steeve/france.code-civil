@@ -28,9 +28,9 @@ entreprises ;(1)
 troisième catégories prévues à l'article L. 341-4 du code de la sécurité
 sociale.
 
-Les contrats d'assurance de groupe en cas de vie dont les prestations sont liées
-à la cessation d'activité professionnelle doivent comporter une clause de
-transférabilité.
+Les droits individuels résultant des contrats d'assurance de groupe en cas de
+vie dont les prestations sont liées à la cessation d'activité professionnelle
+sont transférables, dans des conditions fixées par décret.
 
 Pour les autres assurances sur la vie, l'assureur ne peut refuser la réduction
 ou le rachat lorsque 15 p. 100 des primes ou cotisations prévues au contrat ont
