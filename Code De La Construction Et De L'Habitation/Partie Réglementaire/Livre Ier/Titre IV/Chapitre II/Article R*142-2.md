@@ -10,7 +10,7 @@ chargé de la construction et de l'habitation, sur propositions respectives :
 
 - du ministre chargé de l'architecture ;
 
-- du ministre chargé du budget ;
+- du ministre chargé de l'environnement ;
 
 - du ministre chargé de l'industrie ;
 
