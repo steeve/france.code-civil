@@ -6,7 +6,7 @@ des titres de créances.
 
 Le fonds peut comporter deux ou plusieurs compartiments si son règlement le
 prévoit. Chaque compartiment donne lieu à l'émission de parts représentatives
-des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2093 du
+des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2285 du
 code civil et sauf stipulation contraire des documents constitutifs du fonds,
 les actifs d'un compartiment déterminé ne répondent que des dettes, engagements
 et obligations et ne bénéficient que des créances qui concernent ce

@@ -1,6 +1,6 @@
 Article L261-8
 ----
-Ainsi qu'il est dit à l'article 2108-1 du code civil :
+Ainsi qu'il est dit à l'article 2380 du code civil :
 
 "Dans le cas de vente d'un immeuble à construire conclue à terme conformément à
 l'article 1601-2, le privilège du vendeur ou celui du prêteur de deniers prend

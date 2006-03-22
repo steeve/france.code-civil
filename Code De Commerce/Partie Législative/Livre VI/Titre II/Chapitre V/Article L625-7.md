@@ -7,5 +7,5 @@ d'une procédure de sauvegarde :
 751-15 du code du travail, pour les causes et montants définis auxdits articles
 ;
 
-2° Par le privilège du 4° de l'article 2101 et du 2° de l'article 2104 du code
+2° Par le privilège du 4° de l'article 2331 et du 2° de l'article 2104 du code
 civil.

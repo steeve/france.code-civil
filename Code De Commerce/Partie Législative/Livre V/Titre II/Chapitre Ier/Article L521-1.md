@@ -14,9 +14,8 @@ qu'à l'égard des inscriptions nominatives sur le grand-livre de la dette
 publique, le gage peut également être établi par un transfert, à titre de
 garantie, inscrit sur lesdits registres.
 
-Il n'est pas dérogé aux dispositions de l'article 2075 du code civil en ce qui
-concerne les créances mobilières, dont le cessionnaire ne peut être saisi à
-l'égard des tiers que par la signification du transport faite au débiteur.
+Il n'est pas dérogé aux dispositions des articles 2355 à 2366 du code civil en
+ce qui concerne les créances mobilières.
 
 Les effets de commerce donnés en gage sont recouvrables par le créancier
 gagiste.

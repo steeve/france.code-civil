@@ -9,7 +9,7 @@ formalités qu'une ordonnance du juge du tribunal d'instance.
 Toutefois, lorsque les objets warrantés ont le caractère d'immeubles par nature
 ou par destination en vertu des articles 520 et 524 du code civil et qu'il y a
 concours sur ces objets entre le porteur du warrant et les créanciers
-hypothécaires ou privilégiés, en vertu de l'article 2103 du code civil, le prix
+hypothécaires ou privilégiés, en vertu de l'article 2374 du code civil, le prix
 de vente se distribue entre eux d'après la date respective des inscriptions du
 warrant et des privilèges ou hypothèques et, pour les hypothèques dispensées
 d'inscription, d'après la date à laquelle ont pris naissance les droits du

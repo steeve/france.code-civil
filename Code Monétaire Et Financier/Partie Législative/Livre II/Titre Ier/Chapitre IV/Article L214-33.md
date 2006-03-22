@@ -4,7 +4,7 @@ I. - Un organisme de placement collectif en valeurs mobilières peut comporter
 deux ou plusieurs compartiments si ses statuts ou son règlement le prévoient.
 Chaque compartiment donne lieu à l'émission d'une catégorie d'actions ou de
 parts représentative des actifs de l'organisme de placement collectif en valeurs
-mobilières qui lui sont attribués. Par dérogation à l'article 2093 du code civil
+mobilières qui lui sont attribués. Par dérogation à l'article 2285 du code civil
 et sauf stipulation contraire des documents constitutifs de l'organisme de
 placement collectif en valeurs mobilières, les actifs d'un compartiment
 déterminé ne répondent que des dettes, engagements et obligations et ne

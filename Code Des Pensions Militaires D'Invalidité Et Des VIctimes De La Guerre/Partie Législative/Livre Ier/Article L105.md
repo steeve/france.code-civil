@@ -9,7 +9,7 @@ allouée aux bénéficiaires de l'article L. 18.
 Les pensions attribuées au titre du présent code et leurs arrérages sont
 incessibles et insaisissables, excepté dans le cas de débet envers l'Etat, les
 services locaux des pays d'outre-mer ou pour les créanciers privilégiés aux
-termes de l'article 2101 du code civil et dans les circonstances prévues par les
+termes de l'article 2331 du code civil et dans les circonstances prévues par les
 articles 203, 205, 206, 207 et 214 du même code et sauf application des
 dispositions prévues par l'article 3 de la loi du 9 avril 1918.
 

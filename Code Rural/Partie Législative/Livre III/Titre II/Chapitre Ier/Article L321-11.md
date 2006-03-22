@@ -13,5 +13,5 @@ impôts.
 Il ne peut être saisi ou cédé dans les conditions prévues au chapitre V du titre
 IV du livre Ier du code du travail.
 
-Il bénéficie des privilèges prévus aux articles 2101, 4°, et 2104, 2°, du code
+Il bénéficie des privilèges prévus aux articles 2331,4°, et 2375,2°, du code
 civil, et L. 143-10 et L. 143-11 du code du travail.

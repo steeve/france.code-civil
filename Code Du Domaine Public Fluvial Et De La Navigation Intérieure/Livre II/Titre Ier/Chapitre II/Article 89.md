@@ -3,8 +3,8 @@ Article 89
 Les bateaux de navigation intérieure demeurent affectés aux dettes que la loi
 déclare privilégiées pour les meubles.
 
-Jouissent d'un privilège qui prime celui des créances visées aux articles 2101
-et 2102 du code civil les créances ci-dessous énumérées :
+Jouissent d'un privilège qui prime celui des créances visées aux articles 2331
+et 2332 du code civil les créances ci-dessous énumérées :
 
 1° Les frais de conservation depuis la saisie, les taxes de navigation ainsi que
 les droits de port et de pilotage ;

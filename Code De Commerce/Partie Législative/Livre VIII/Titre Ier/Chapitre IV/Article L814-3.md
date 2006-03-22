@@ -24,7 +24,7 @@ obligations, elle procède à un appel de fonds complémentaire auprès des
 professionnels inscrits sur les listes.
 
 La garantie de la caisse joue sans que puisse être opposé aux créanciers le
-bénéfice de discussion prévu à l'article 2021 du code civil et sur la seule
+bénéfice de discussion prévu à l'article 2298 du code civil et sur la seule
 justification de l'exigibilité de la créance et de la non-représentation des
 fonds par l'administrateur judiciaire ou le mandataire judiciaire inscrits sur
 les listes.

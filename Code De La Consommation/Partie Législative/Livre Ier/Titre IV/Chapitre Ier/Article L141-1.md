@@ -27,7 +27,13 @@ titre Ier du livre III ;
 8° La sous-section 2 "taux d'usure" de la section I du chapitre III intitulé
 "dispositions communes" du titre Ier du livre III ;
 
-9° Le chapitre II "dispositions diverses" du titre II du livre III.
+9° Le chapitre II "dispositions diverses" du titre II du livre III ;
+
+10° La section 6 : "Crédit hypothécaire garanti par une hypothèque rechargeable"
+du chapitre III intitulé : "Dispositions communes" du titre Ier du livre III ;
+
+11° La section 7 : "Sanctions" du chapitre IV intitulé : "Prêt viager
+hypothécaire" du titre Ier du livre III.
 
 II. - Sont recherchées et constatées dans les conditions fixées par les articles
 L. 450-1, L. 450-2, L. 450-3, L. 450-7 et L. 450-8, L. 470-1 et L. 470-5 du code

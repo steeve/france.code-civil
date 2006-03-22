@@ -8,8 +8,8 @@ associé aux bénéfices et aux pertes de celle-ci, bénéficie d'un droit de cr
 d'un montant égal à trois fois le salaire minimum de croissance annuel en
 vigueur au jour du décès dans la limite de 25 % de l'actif successoral. Ce droit
 est garanti sur la généralité des meubles par le privilège inscrit au 4° de
-l'article 2101 du code civil, sur la généralité des immeubles par le privilège
-inscrit au 2° de l'article 2104 du code civil et sur les immeubles par une
+l'article 2331 du code civil, sur la généralité des immeubles par le privilège
+inscrit au 2° de l'article 2375 du code civil et sur les immeubles par une
 hypothèque légale. Le cas échéant, le montant des droits propres du conjoint
 survivant dans les opérations de partage successoral est diminué de celui de
 cette créance.
