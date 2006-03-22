@@ -26,7 +26,7 @@ l'union établit des comptes consolidés ou combinés conformément à l'article
 931-34 ;
 
 d) Les mutuelles régies par le code de la mutualité, les entreprises d'assurance
-régie par le code des assurances et les institutions de retraite complémentaire
+régies par le code des assurances et les institutions de retraite complémentaire
 et les institutions de retraite supplémentaire régies respectivement par les
 titres II et IV du présent livre, sauf s'il s'agit d'opérations réalisées ou de
 contrats souscrits au profit de leurs salariés ;

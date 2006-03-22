@@ -3,7 +3,7 @@ Article L951-12
 Pour l'exercice de la surveillance complémentaire prévue à l'article L. 933-3 du
 présent code, à l'article L. 212-7-2 du code de la mutualité et à l'article L.
 334-3 du code des assurances, l'Autorité de contrôle des assurances et des
-mutuelles, l'Autorité des marchés financiers, la commission bancaire, le conseil
+mutuelles, l'Autorité des marchés financiers, la commission bancaire, le Conseil
 de la concurrence, les entreprises de marché, les chambres de compensation
 visées à l'article L. 223-42 du code de commerce, le fonds de garantie des
 dépôts institué par l'article L. 312-14 du code monétaire et financier, le fonds

@@ -21,4 +21,4 @@ l'institution a liquidé la ou les prestations auxquelles elles ont droit.
 
 Est considérée comme salariée, au sens du présent titre, toute personne relevant
 des articles L. 311-2 et L. 311-3 du présent code et de l'article 1144 du code
-rural.
+rural (1).

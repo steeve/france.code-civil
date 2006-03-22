@@ -3,7 +3,7 @@ Article L932-13
 Toutes actions dérivant des opérations mentionnées à la présente section sont
 prescrites par deux ans à compter de l'événement qui y donne naissance.
 
-Toutefois, ce délai [*de prescription*] ne court :
+Toutefois, ce délai ne court :
 
 1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque
 couru, que du jour où l'institution de prévoyance en a eu connaissance ;

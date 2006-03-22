@@ -3,7 +3,7 @@ Article L951-3
 La composition et l'organisation administrative de l'Autorité de contrôle sont
 fixées par l'article L. 310-12-1 du code des assurances ci-après reproduit :
 
-"Art. L. 310-12-1. - L'Autorité de contrôle des assurances. des mutuelles et des
+" Art.L. 310-12-1.-L'Autorité de contrôle des assurances. des mutuelles et des
 institutions de prévoyance est composée de neuf membres :
 
 1° Un président nommé par décret ;
@@ -83,4 +83,4 @@ déontologie applicables au personnel des services de l'Autorité.
 
 L'Autorité de contrôle des assurances et des mutuelles et l'Autorité bancaire se
 réunissent conjointement au moins deux fois par an et en tant que de besoin sur
-des sujets d'intérêt commun."
+des sujets d'intérêt commun. "

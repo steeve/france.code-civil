@@ -1,6 +1,7 @@
 Article L914-2
 ----
 Les institutions relevant du titre III ou du titre IV du présent livre, les
+institutions mentionnées à l'article L. 370-1 du code des assurances, les
 organismes mentionnés aux a, c et d de l'article 1er de la loi n° 89-1009 du 31
 décembre 1989 renforçant les garanties offertes aux personnes assurées contre
 certains risques et les entreprises qui, dans le cadre de l'article 911-1,

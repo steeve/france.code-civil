@@ -5,7 +5,7 @@ indépendamment du droit pour l'institution de prévoyance d'appliquer des
 majorations de retard à la charge exclusive de l'employeur et de poursuivre en
 justice l'exécution du bulletin d'adhésion, du règlement ou du contrat, la
 garantie ne peut être suspendue que trente jours après la mise en demeure de
-l'adhérent [*délai de suspension*].
+l'adhérent.
 
 Dans la lettre de mise en demeure qu'elle adresse à l'adhérent, l'institution
 informe celui-ci des conséquences que ce défaut de paiement est susceptible

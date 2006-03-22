@@ -7,12 +7,11 @@ du risque. Elle précise également le contenu des clauses édictant des nullit�
 des déchéances ou des exclusions ou limitations de garantie ainsi que des délais
 de prescription.
 
-L'adhérent est tenu de remettre cette notice à chaque participant
-[*obligation*].
+L'adhérent est tenu de remettre cette notice à chaque participant.
 
 Lorsque des modifications sont apportées aux droits et obligations des
 participants, l'adhérent est également tenu d'informer chaque participant en lui
 remettant une notice établie à cet effet par l'institution.
 
 La preuve de la remise de la notice au participant et de l'information relatives
-aux modifications contractuelles incombent à l'adhérent [*charge*].
+aux modifications contractuelles incombent à l'adhérent.

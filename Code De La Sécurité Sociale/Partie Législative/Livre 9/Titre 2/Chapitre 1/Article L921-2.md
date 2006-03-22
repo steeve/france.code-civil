@@ -2,8 +2,8 @@ Article L921-2
 ----
 Des décrets fixent, en tant que de besoin, les conditions d'affiliation à un
 régime de retraite complémentaire des salariés et anciens salariés auxquels les
-procédures fixées à l'article L. 911-4 du présent code et à l'article 1051 du
-code rural ne sont pas applicables notamment dans les secteurs professionnels
+procédures fixées à l'article L. 911-4 du présent code et à l'article L. 727-3
+du code rural ne sont pas applicables notamment dans les secteurs professionnels
 dotés d'un régime complémentaire de retraite défini par voie réglementaire.
 
 Les dispositions du premier alinéa de l'article L. 921-4 ne sont pas applicables

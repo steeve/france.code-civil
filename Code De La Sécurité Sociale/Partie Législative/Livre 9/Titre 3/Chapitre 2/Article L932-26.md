@@ -1,6 +1,6 @@
 Article L932-26
 ----
-I. 1° Lorsque le risque est situé, au sens de l'article L. 932-27, sur le
+I. - 1° Lorsque le risque est situé, au sens de l'article L. 932-27, sur le
 territoire de la République française et que le souscripteur du bulletin
 d'adhésion au règlement de l'institution ou du contrat y a sa résidence
 principale ou son siège de direction, la loi applicable est la loi française, à
@@ -19,8 +19,7 @@ direction sur le territoire de la République française et que le risque n'y es
 pas situé au sens de l'article L. 932-27, les parties peuvent choisir
 d'appliquer soit la loi française, soit la loi du pays où le risque est situé.
 
-II. - On entend par souscripteur [*définition*], pour l'application du I
-ci-dessus :
+II. - On entend par souscripteur, pour l'application du I ci-dessus :
 
 a) L'adhérent, s'il sagit d'une opération collective à adhésion obligatoire ou
 facultative ;

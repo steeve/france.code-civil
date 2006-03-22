@@ -7,4 +7,4 @@ des réponses apportées par l'institution.
 
 Les résultats des contrôles sur place sont communiqués au conseil
 d'administration de l'institution contrôlée. Ils sont également transmis aux
-commissaires aux comptes [*information*].
+commissaires aux comptes.

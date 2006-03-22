@@ -1,6 +1,6 @@
 Article L932-4
 ----
-L'adhérent doit [*obligation*] :
+L'adhérent doit :
 
 1° Payer la cotisation due aux époques convenues ;
 

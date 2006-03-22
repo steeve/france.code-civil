@@ -5,7 +5,7 @@ participant par l'institution de prévoyance dans le cadre d'une opération
 collective à adhésion facultative ou le bulletin d'adhésion ou le contrat signé
 ou souscrit par un participant dans le cadre d'une opération individuelle sont
 nuls en cas de réticence ou de fausse déclaration intentionnelle de la part de
-celui-ci, quand cette réticence ou cette fause déclaration change l'objet du
+celui-ci, quand cette réticence ou cette fausse déclaration change l'objet du
 risque ou en diminue l'opinion pour l'institution, alors même que le risque omis
 ou dénaturé par le participant a été sans influence sur la réalisation du
 risque.
