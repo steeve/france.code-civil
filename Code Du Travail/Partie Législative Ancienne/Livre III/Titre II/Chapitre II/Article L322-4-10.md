@@ -1,10 +1,9 @@
 Article L322-4-10
 ----
 Il est institué un contrat de travail dénommé "contrat d'avenir", destiné à
-faciliter l'insertion sociale et professionnelle des personnes bénéficiant,
-depuis une durée fixée par décret en Conseil d'Etat, du revenu minimum
-d'insertion, de l'allocation spécifique de solidarité, de l'allocation de parent
-isolé ou de l'allocation aux adultes handicapés.
+faciliter l'insertion sociale et professionnelle des personnes bénéficiant du
+revenu minimum d'insertion, de l'allocation spécifique de solidarité, de
+l'allocation de parent isolé ou de l'allocation aux adultes handicapés.
 
 Les contrats d'avenir portent sur des emplois visant à satisfaire des besoins
 collectifs non satisfaits.

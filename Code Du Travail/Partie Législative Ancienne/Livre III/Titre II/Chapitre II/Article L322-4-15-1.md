@@ -23,3 +23,11 @@ rembourser l'aide prévue au troisième alinéa du I de l'article L. 322-4-15-6 
 
 c) L'employeur est à jour du versement de ses cotisations et contributions
 sociales.
+
+Pendant toute la durée de la convention, les bénéficiaires des contrats
+insertion-revenu minimum d'activité ne sont pas pris en compte dans le calcul de
+l'effectif du personnel des entreprises dont ils relèvent pour l'application à
+ces entreprises des dispositions législatives et réglementaires qui se réfèrent
+à une condition d'effectif minimum de salariés, exception faite de celles qui
+concernent la tarification des risques d'accident du travail et des maladies
+professionnelles.

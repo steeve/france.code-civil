@@ -61,8 +61,9 @@ trente-six mois.
 Par dérogation aux dispositions de l'avant-dernier alinéa, lorsque des
 circonstances particulières tenant au secteur d'activité professionnelle ou au
 profil de poste le justifient, le préfet peut prévoir une durée comprise entre
-six et vingt-quatre mois. La convention est alors renouvelable deux fois, sa
-durée totale ne pouvant, compte tenu du ou des renouvellements, excéder
-trente-six mois. Pour les bénéficiaires âgés de plus de cinquante ans et les
-personnes reconnues travailleurs handicapés dans les conditions prévues à
-l'article L. 323-10, cette durée totale ne peut excéder cinq ans.
+six et vingt-quatre mois. Il peut prévoir une durée minimale de trois mois pour
+les personnes bénéficiant d'un aménagement de peine. La durée totale de la
+convention ne peut, compte tenu du ou des renouvellements, excéder trente-six
+mois. Pour les bénéficiaires âgés de plus de cinquante ans et les personnes
+reconnues travailleurs handicapés dans les conditions prévues à l'article L.
+323-10, cette durée totale ne peut excéder cinq ans.

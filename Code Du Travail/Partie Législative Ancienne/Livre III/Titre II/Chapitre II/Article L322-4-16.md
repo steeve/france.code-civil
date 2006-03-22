@@ -6,12 +6,12 @@ particulières, de bénéficier de contrats de travail en vue de faciliter leur
 insertion sociale et professionnelle. Elle met en oeuvre des modalités
 spécifiques d'accueil et d'accompagnement.
 
-L'Etat peut, après consultation des partenaires locaux réunis au sein du conseil
-départemental de l'insertion par l'activité économique institué à l'article L.
-322-4-16-4, conclure des conventions avec les employeurs dont l'activité a
-spécifiquement cet objet et avec les communes ou les établissements publics de
-coopération intercommunale disposant de la compétence action sociale d'intérêt
-communautaire. Ces conventions peuvent prévoir des aides de l'Etat.
+L'Etat peut, à cette fin, conclure des conventions avec les employeurs dont
+l'activité a spécifiquement pour objet l'insertion par l'activité économique. En
+outre, pour l'application des dispositions prévues à l'article L. 322-4-16-8,
+l'Etat peut conclure des conventions avec les employeurs autorisés à mettre en
+oeuvre un atelier ou un chantier d'insertion. Ces conventions peuvent prévoir
+des aides de l'Etat.
 
 II. - Lorsque des conventions mentionnées au I sont conclues avec des personnes
 morales de droit privé produisant des biens et services en vue de leur
@@ -38,7 +38,8 @@ d'utilité sociale sont définies par décret.
 V. - Ouvrent seules droit aux aides et exonérations de cotisations prévues aux
 I, II et III les embauches de personnes agréées par l'Agence nationale pour
 l'emploi, à l'exception de celles réalisées par les employeurs mentionnés à
-l'article L. 322-4-16-3.
+l'article L. 322-4-16-3 et de celles réalisées en application des articles L.
+322-4-10 et L. 322-4-15.
 
 VI. - Un décret en Conseil d'Etat précise les conditions d'application des II et
 V. Ce décret précise les modalités spécifiques d'accueil et d'accompagnement
