@@ -10,7 +10,7 @@ foncière sur les propriétés non bâties prévues par les dispositions précit
 
 Lorsqu'il apparaît à l'issue de ce contrôle que les conditions pour bénéficier
 de ces exonérations ne sont pas respectées, les impositions supplémentaires
-correspondantes sont établies au profit de l'Etat dans les conditions prévues
-aux articles 1416 du code général des impôts et L. 173 du présent livre.
+correspondantes sont établies au profit de l'Etat dans les conditions prévues à
+l'article 1416 du code général des impôts et à l'article L. 173.
 
 Un décret fixe les conditions d'application du présent article.

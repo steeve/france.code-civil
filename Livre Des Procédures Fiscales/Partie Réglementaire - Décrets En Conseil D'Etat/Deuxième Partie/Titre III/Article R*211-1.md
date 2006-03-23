@@ -10,4 +10,4 @@ intervenue a été notifiée.
 L'administration des impôts peut prononcer dans le délai de trente ans les
 dégrèvements d'office prévus au III de l'article 1414 et aux articles 1414 A et
 1601 du code général des impôts relatifs à la taxe d'habitation et à la taxe
-pour frais de chambres de métiers.
+pour frais de chambres de métiers et de l'artisanat.
