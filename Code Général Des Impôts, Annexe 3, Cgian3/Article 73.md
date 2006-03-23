@@ -7,27 +7,25 @@ la publicité et les annonces n'excèdent pas 20 % de la surface totale, peuvent
 bénéficier des avantages fiscaux prévus à l'article 298 septies du code général
 des impôts les publications suivantes :
 
-1° Sous réserve de l'avis favorable du ministre des anciens combattants et
-victimes de guerre, les publications d'anciens combattants, mutilés ou victimes
-de guerre ;
+1° Les publications d'anciens combattants, mutilés ou victimes de guerre ;
 
-2° Sous réserve de l'avis favorable du ministre intéressé, les publications
-d'information professionnelle éditées par les organisations syndicales
-représentatives de salariés ;
+2° Les publications d'information professionnelle éditées par les organisations
+syndicales représentatives de salariés ;
 
 3° Les publications ayant pour objet essentiel de promouvoir une action ou une
 philosophie politique, qui ne sont pas éditées par ou pour le compte d'une
 personne morale de droit public ;
 
-4° Sous réserve de l'avis favorable du ministre chargé des affaires sociales,
-les publications éditées par les sociétés mutuelles régies par le code de la
+4° Les publications éditées par les sociétés mutuelles régies par le code de la
 mutualité ainsi que celles éditées par les groupements constitués et
 fonctionnant conformément audit code ;
 
-5° Sous réserve de l'avis favorable du ministre compétent, les publications
-éditées par des organismes à but non lucratif ayant pour objet de contribuer, à
-titre manifestement désintéressé, à la défense des grandes causes humanitaires,
-nationales ou internationales ;
+5° Les publications, de diffusion nationale ou internationale, éditées par des
+organismes à but non lucratif et ayant pour objet de contribuer, à titre
+manifestement désintéressé, à lutter par des actions ou programmes, contre les
+atteintes ou menaces graves à la dignité, à la santé et à la vie humaines, sous
+réserve d'être destinées à un public large et diversifié et de faire appel au
+soutien du lecteur ;
 
 6° Les journaux scolaires publiés ou imprimés, sous la direction et la
 responsabilité des instituteurs ou des professeurs, dans le but d'éduquer les
