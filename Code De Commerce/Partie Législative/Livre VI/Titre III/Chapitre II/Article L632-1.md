@@ -22,8 +22,8 @@ l'article 2075-1 du code civil, à défaut d'une décision de justice ayant acqu
 force de chose jugée ;
 
 6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que
-l'hypothèque légale des époux et tout droit de nantissement constitués sur les
-biens du débiteur pour dettes antérieurement contractées ;
+l'hypothèque légale des époux et tout droit de nantissement ou de gage
+constitués sur les biens du débiteur pour dettes antérieurement contractées ;
 
 7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne
 soit antérieur à la date de cessation de paiement ;

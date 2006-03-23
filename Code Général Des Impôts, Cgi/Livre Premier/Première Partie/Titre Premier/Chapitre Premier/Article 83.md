@@ -40,8 +40,11 @@ de la sécurité sociale et de 3 % de la rémunération annuelle brute, sans que
 total ainsi obtenu puisse excéder 3 % de huit fois le montant annuel du plafond
 précité. En cas d'excédent, celui-ci est ajouté à la rémunération ;
 
-2° Les cotisations ou primes versées aux régimes de retraite supplémentaire
-auxquels le salarié est affilié à titre obligatoire ainsi que les cotisations
+2° Les cotisations ou primes versées aux régimes de retraite supplémentaire, y
+compris ceux gérés par une institution mentionnée à l'article L. 370-1 du code
+des assurances pour les contrats mentionnés à l'article L. 143-1 dudit code
+lorsqu'ils ont pour objet l'acquisition et la jouissance de droits viagers,
+auxquels le salarié est affilié à titre obligatoire, ainsi que les cotisations
 versées, à compter du 1er janvier 1993, à titre obligatoire au régime de
 prévoyance des joueurs professionnels de football institué par la charte du
 football professionnel.

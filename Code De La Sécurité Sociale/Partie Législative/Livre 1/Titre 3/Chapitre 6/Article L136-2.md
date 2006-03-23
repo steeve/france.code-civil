@@ -119,10 +119,10 @@ l'article L. 814-5. Ces conditions de ressources sont celles qui sont
 applicables pour l'attribution de l'allocation supplémentaire du fonds national
 de solidarité ;
 
-3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 10°, 12°, 13°, 14°,
-14° bis, 14° ter, 15°, 17° et 19° de l'article 81 du code général des impôts
-ainsi que ceux visés aux articles L. 961-1, deuxième alinéa, et L. 961-5 du code
-du travail ;
+3° Les revenus visés aux 2°, 2° bis, 3°, 4°, 7°, 9°, 9° bis, 9° quater, 9°
+quinquies, 10°, 12°, 13°, 14°, 14° bis, 14° ter, 15°, 17° et 19° de l'article 81
+du code général des impôts ainsi que ceux visés aux articles L. 961-1, deuxième
+alinéa, et L. 961-5 du code du travail ;
 
 4° Les pensions alimentaires répondant aux conditions fixées par les articles
 205 à 211 du code civil, les rentes prévues à l'article 276 du code civil et les

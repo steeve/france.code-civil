@@ -6,7 +6,7 @@ le montant de la garantie accordée ainsi que les modalités du contrôle compta
 que le garant peut exercer sur l'agence de mannequins.
 
 Ce contrat doit stipuler la renonciation du garant, en cas de défaillance de
-l'agence de mannequins, au bénéfice de discussion prévu aux articles 2021 à 2024
+l'agence de mannequins, au bénéfice de discussion prévu aux articles 2298 à 2301
 du code civil.
 
 Le contrat est tenu, au siège de l'agence de mannequins, à la disposition de

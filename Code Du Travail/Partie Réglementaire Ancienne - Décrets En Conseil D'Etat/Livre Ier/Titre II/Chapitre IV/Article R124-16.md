@@ -7,7 +7,7 @@ travail temporaire.
 
 Ce contrat doit stipuler la renonciation du garant, en cas de défaillance de
 l'entreprise de travail temporaire, au bénéfice de discussion prévu aux articles
-2021 à 2024 du code civil.
+2298 à 2301 du code civil.
 
 Le contrat est tenu, au siège de l'entreprise de travail temporaire, à la
 disposition de l'inspecteur du travail compétent et des agents de contrôle des

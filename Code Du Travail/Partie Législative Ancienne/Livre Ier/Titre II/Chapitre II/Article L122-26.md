@@ -37,10 +37,8 @@ l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
 Lorsque l'accouchement intervient plus de six semaines avant la date prévue et
 exige l'hospitalisation postnatale de l'enfant, la période de suspension du
 contrat de travail prévue aux alinéas précédents est prolongée du nombre de
-jours courant entre la date effective de la naissance et six semaines avant la
-date prévue, afin de permettre à la salariée de participer, chaque fois que
-possible, aux soins dispensés à son enfant et de bénéficier d'actions
-d'éducation à la santé préparant le retour à domicile.
+jours courant de la date effective de l'accouchement au début des périodes
+mentionnées au premier alinéa.
 
 Tout salarié à qui un service départemental d'aide sociale à l'enfance, un
 organisme français autorisé pour l'adoption ou l'Agence française de l'adoption
@@ -79,3 +77,18 @@ changement d'affectation dans les conditions prévues au premier alinéa de
 l'article L. 122-25-1, elle est réintégrée dans l'emploi occupé avant cette
 affectation lorsqu'elle reprend son travail à l'issue de la période de
 suspension définie au présent article.
+
+En l'absence d'accord collectif de branche ou d'entreprise déterminant des
+garanties d'évolution de la rémunération des salariés au moins aussi favorables
+que celles mentionnées dans le présent alinéa pendant les congés prévus au
+présent article et à la suite de ces congés, cette rémunération, au sens de
+l'article L. 140-2, est majorée, à la suite de ces congés, des augmentations
+générales ainsi que de la moyenne des augmentations individuelles perçues
+pendant la durée de ces congés par les salariés relevant de la même catégorie
+professionnelle ou, à défaut, de la moyenne des augmentations individuelles dans
+l'entreprise.
+
+La règle définie à l'alinéa précédent n'est pas applicable aux accords
+collectifs de branche ou d'entreprise conclus antérieurement à l'entrée en
+vigueur de la loi n° 2006-340 du 23 mars 2006 relative à l'égalité salariale
+entre les femmes et les hommes.

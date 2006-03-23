@@ -12,11 +12,11 @@ les conditions prévues à l'article L. 323-10, la limite de renouvellement peut
 Par dérogation aux dispositions du premier alinéa, lorsque la convention a été
 conclue pour une durée comprise entre six et vingt-quatre mois en application du
 dernier alinéa de l'article L. 322-4-11, le contrat est conclu pour la même
-durée. Il est renouvelable deux fois, la durée totale du contrat ne pouvant,
-compte tenu du ou des renouvellements, excéder trente-six mois. Pour les
-bénéficiaires âgés de plus de cinquante ans et les personnes reconnues
-travailleurs handicapés dans les conditions prévues à l'article L. 323-10, cette
-durée totale ne peut excéder cinq ans.
+durée. La durée totale du contrat ne peut, compte tenu du ou des
+renouvellements, excéder trente-six mois. Pour les bénéficiaires âgés de plus de
+cinquante ans et les personnes reconnues travailleurs handicapés dans les
+conditions prévues à l'article L. 323-10, cette durée totale ne peut excéder
+cinq ans.
 
 Un bilan est réalisé tous les six mois avec l'employeur et le référent.
 
@@ -24,19 +24,25 @@ Sauf clauses conventionnelles prévoyant une période d'essai d'une durée moind
 la période d'essai du contrat d'avenir est fixée à un mois.
 
 La durée hebdomadaire du travail des personnes embauchées dans le cadre d'un
-contrat d'avenir est fixée à vingt-six heures. Cette durée peut varier sur tout
-ou partie de la période couverte par le contrat, sans dépasser la durée prévue
-au premier alinéa de l'article L. 212-1 du présent code et à l'article L. 713-2
-du code rural et à condition que, sur toute cette période, elle n'excède pas en
-moyenne vingt-six heures. Ce contrat prévoit obligatoirement des actions de
-formation et d'accompagnement au profit de son titulaire, qui peuvent être
-menées pendant le temps de travail et en dehors de celui-ci. Il ouvre droit à
-une attestation de compétences délivrée par l'employeur et il est pris en compte
-au titre de l'expérience requise pour la validation des acquis de l'expérience.
+contrat d'avenir est fixée à vingt-six heures. Elle est comprise entre vingt et
+vingt-six heures lorsque l'embauche est réalisée par un employeur conventionné
+au titre de l'article L. 322-4-16-8 ou mentionné au premier alinéa du I de
+l'article L. 129-1. Cette durée peut varier sur tout ou partie de la période
+couverte par le contrat, sans dépasser la durée prévue au premier alinéa de
+l'article L. 212-1 du présent code et à l'article L. 713-2 du code rural et à
+condition que, sur toute cette période, elle n'excède pas en moyenne vingt-six
+heures ou la durée inférieure éventuellement prévue par le contrat si
+l'employeur est conventionné au titre de l'article L. 322-4-16-8 ou mentionné au
+premier alinéa du I de l'article L. 129-1. Ce contrat prévoit obligatoirement
+des actions de formation et d'accompagnement au profit de son titulaire, qui
+peuvent être menées pendant le temps de travail et en dehors de celui-ci. Il
+ouvre droit à une attestation de compétences délivrée par l'employeur et il est
+pris en compte au titre de l'expérience requise pour la validation des acquis de
+l'expérience.
 
-Le bénéficiaire du contrat d'avenir, sous réserve de clauses contractuelles plus
-favorables, perçoit une rémunération égale au produit du salaire minimum de
-croissance par le nombre d'heures de travail effectuées.
+Le bénéficiaire du contrat d'avenir, sous réserve de clauses contractuelles ou
+conventionnelles plus favorables, perçoit une rémunération égale au produit du
+salaire minimum de croissance par le nombre d'heures de travail effectuées.
 
 II. - L'employeur bénéficie d'une aide qui lui est versée par le débiteur de
 l'allocation perçue par le bénéficiaire du contrat. Le montant de cette aide est

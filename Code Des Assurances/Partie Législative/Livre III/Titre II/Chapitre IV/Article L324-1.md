@@ -50,3 +50,5 @@ transfert est opposable à partir de la date de publication au Journal officiel
 de la décision d'approbation mentionnée au deuxième alinéa du présent article.
 Les assurés ont la faculté de résilier le contrat dans le délai d'un mois
 suivant la date de cette publication.
+
+Les dispositions du présent article sont précisées par décret en Conseil d'Etat.

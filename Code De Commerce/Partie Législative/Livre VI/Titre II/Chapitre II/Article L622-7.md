@@ -6,7 +6,8 @@ paiement par compensation de créances connexes. Il emporte également, de plein
 droit, interdiction de payer toute créance née après le jugement d'ouverture,
 non mentionnée au I de l'article L. 622-17, à l'exception des créances liées aux
 besoins de la vie courante du débiteur personne physique et des créances
-alimentaires.
+alimentaires. Il fait enfin obstacle à la conclusion et à la réalisation d'un
+pacte commissoire.
 
 Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à
 faire un acte de disposition étranger à la gestion courante de l'entreprise, à

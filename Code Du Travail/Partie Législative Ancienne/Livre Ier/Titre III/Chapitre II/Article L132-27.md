@@ -52,7 +52,11 @@ professionnelle entre les femmes et les hommes dans l'entreprise, ainsi que sur
 les mesures permettant de les atteindre, à partir des éléments figurant dans le
 rapport de situation comparée prévu par l'article L. 432-3-1 et complété
 éventuellement par des indicateurs qui tiennent compte de la situation
-particulière de l'entreprise. A défaut d'une initiative de ce dernier depuis
+particulière de l'entreprise. Cette négociation porte notamment sur les
+conditions d'accès à l'emploi, à la formation professionnelle et à la promotion
+professionnelle, les conditions de travail et d'emploi et en particulier celles
+des salariés à temps partiel, et l'articulation entre la vie professionnelle et
+les responsabilités familiales. A défaut d'une initiative de ce dernier depuis
 plus de douze mois suivant la précédente négociation, la négociation s'engage
 obligatoirement à la demande d'une organisation syndicale représentative dans le
 délai fixé à l'article L. 132-28 ; la demande de négociation formulée par
@@ -91,3 +95,11 @@ transmise dans les huit jours par l'employeur aux autres organisations
 représentatives. Lorsqu'un accord collectif comportant de telles mesures est
 signé dans l'entreprise, la périodicité de la négociation est portée à trois
 ans.
+
+Dans les entreprises dépourvues de délégué syndical, dans celles qui ne sont pas
+soumises à l'obligation de négocier en application de l'article L. 132-26 et
+dans celles non couvertes par une convention ou un accord de branche étendu
+relatif à l'égalité salariale entre les femmes et les hommes, l'employeur est
+tenu de prendre en compte les objectifs en matière d'égalité professionnelle
+entre les femmes et les hommes dans l'entreprise et les mesures permettant de
+les atteindre.

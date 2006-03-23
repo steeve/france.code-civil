@@ -8,15 +8,11 @@ II. - En cas de rupture du contrat de travail à l'initiative de l'employeur
 avant la fin de la convention, celle-ci est résiliée de plein droit et
 l'employeur est tenu de reverser au Centre national pour l'aménagement des
 structures des exploitations agricoles l'intégralité des sommes déjà perçues au
-titre de l'article R. 322-16 et aux organismes de recouvrement des cotisations
-de sécurité sociale les sommes correspondant aux exonérations dont il a
-bénéficié. Ces cotisations doivent être versées au plus tard à la première date
-d'exigibilité des cotisations et contributions sociales qui suit la date d'effet
-de la rupture du contrat de travail.
+titre de l'article R. 322-16 dont il a bénéficié.
 
-Toutefois, les aides reçues et les exonérations obtenues ne font pas l'objet
-d'un reversement et l'employeur bénéficie des aides correspondant au nombre de
-jours complets travaillés par le salarié dans l'établissement, en cas :
+Toutefois, les aides reçues ne font pas l'objet d'un reversement et l'employeur
+bénéficie des aides correspondant au nombre de jours complets travaillés par le
+salarié dans l'établissement, en cas :
 
 a) De faute du salarié ;
 
@@ -32,3 +28,12 @@ e) De rupture du fait du salarié ou de rupture anticipée d'un contrat de trava
 parties ;
 
 f) D'embauche du salarié par l'employeur.
+
+En cas de rupture du contrat d'accompagnement dans l'emploi à l'initiative de
+l'employeur avant la fin de la convention prévue à l'article L. 322-4-7, ne
+correspondant pas aux cas mentionnés aux a à f ci-dessus, l'employeur est
+également tenu de verser le montant des cotisations et contributions sociales
+patronales dont il a été exonéré en application du II de l'article L. 322-4-7.
+Ces cotisations et contributions doivent être versées au plus tard à la première
+date d'exigibilité des cotisations et contributions sociales qui suit la date
+d'effet de la rupture du contrat de travail.

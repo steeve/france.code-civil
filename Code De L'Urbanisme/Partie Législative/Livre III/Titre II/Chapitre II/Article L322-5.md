@@ -17,7 +17,7 @@ matière d'expropriation.
 Les droits des créanciers régulièrement inscrits sur l'immeuble délaissé, soit
 avant la publication au bureau des hypothèques de l'acte de délaissement, soit
 postérieurement à ladite publication en ce qui concerne les privilèges conservés
-suivant les prescriptions des articles 2108 et 2109 du code civil, sont reportés
+suivant les prescriptions des articles 2379 et 2380 du code civil, sont reportés
 sur l'indemnité de délaissement, compte tenu du rang de préférence qui leur est
 reconnu.
 

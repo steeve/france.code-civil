@@ -10,5 +10,11 @@ demandeurs d'emploi, à l'insertion, à l'orientation en formation, à
 l'accompagnement des demandeurs d'emploi et des salariés et à l'aide à la
 création d'entreprise.
 
+Les maisons de l'emploi et, pour les Français établis hors de France, les
+comités consulaires compétents mènent auprès des employeurs privés et publics en
+activité dans leur ressort des actions de sensibilisation et d'information
+relatives à l'égalité professionnelle et à la réduction des écarts de
+rémunération entre les femmes et les hommes.
+
 Les maisons de l'emploi peuvent bénéficier d'une aide de l'Etat dans des
 conditions prévues par décret en Conseil d'Etat.

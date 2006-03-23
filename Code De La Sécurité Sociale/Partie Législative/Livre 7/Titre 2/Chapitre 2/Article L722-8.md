@@ -26,9 +26,11 @@ d'activité se situant après l'arrivée de l'enfant au foyer, la durée maximal
 d'attribution de la prestation étant égale aux trois quarts de celle qui est
 prévue en cas de maternité.
 
-Un décret détermine les modalités d'application du présent article, et notamment
-le montant de l'allocation prévue au premier alinéa, ainsi que les montants et
-la durée d'attribution de l'indemnité journalière prévue au deuxième alinéa.
+Un décret détermine les modalités d'application du présent article et notamment
+le montant de l'allocation prévue au premier alinéa, les montants et les durées
+d'attribution de l'indemnité journalière prévue au deuxième alinéa, notamment
+lorsque l'accouchement a lieu plus de six semaines avant la date initialement
+prévue et exige l'hospitalisation postnatale de l'enfant.
 
 Les montants des prestations sont revalorisés dans les mêmes conditions que
 celles fixées pour le plafond prévu à l'article L. 241-3.

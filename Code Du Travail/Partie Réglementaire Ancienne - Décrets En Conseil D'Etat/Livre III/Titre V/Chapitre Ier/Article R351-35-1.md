@@ -7,14 +7,14 @@ continue à bénéficier de celle-ci dans les conditions prévues ci-dessous.
 Les dispositions de l'article R. 351-35 ne s'appliquent pas aux bénéficiaires de
 l'allocation de solidarité spécifique lorsque ceux-ci reprennent une activité
 dans le cadre d'un contrat d'avenir conclu en application de l'article L.
-332-4-10 ou d'un contrat insertion-revenu minimum d'activité conclu en
+322-4-10 ou d'un contrat insertion-revenu minimum d'activité conclu en
 application de l'article L. 322-4-15.
 
 Dans ce cas, le montant de l'allocation de solidarité spécifique qui continue à
 être versé au salarié est égal à celui résultant de l'application de l'article
 L. 351-10, diminué du montant de l'aide à l'employeur prévue au premier alinéa
 du II de l'article L. 322-4-12 pour le contrat d'avenir et au troisième alinéa
-du I de l'article L. 332-4-15-6 pour le contrat insertion-revenu minimum
+du I de l'article L. 322-4-15-6 pour le contrat insertion-revenu minimum
 d'activité lorsque cette aide est à la charge de la collectivité débitrice de
 l'allocation de solidarité spécifique.
 

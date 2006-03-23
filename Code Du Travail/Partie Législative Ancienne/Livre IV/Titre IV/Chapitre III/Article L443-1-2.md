@@ -1,7 +1,13 @@
 Article L443-1-2
 ----
-I. - Il peut être mis en place dans les conditions prévues au titre III du livre
-Ier un plan d'épargne pour la retraite collectif.
+I. - Il peut être mis en place, dans les conditions prévues au titre III du
+livre Ier, un plan d'épargne pour la retraite collectif sans recourir aux
+services de l'institution mentionnée au I de l'article 8 de l'ordonnance n°
+2006-344 du 23 mars 2006, lorsque ledit plan n'est pas proposé sur le territoire
+d'un autre Etat membre ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen. Dans ce cas, l'accord mettant en place le plan précise les
+modalités d'exécution des obligations mentionnées au dernier alinéa du I et aux
+premier et deuxième alinéas du II dudit article.
 
 Les sommes ou valeurs inscrites aux comptes des participants doivent être
 détenues jusqu'au départ à la retraite.
@@ -18,12 +24,15 @@ variable régies par l'article L. 214-40-1 du même code, ni de titres de
 l'entreprise ou d'une société qui lui est liée au sens de l'article L. 444-3 du
 présent code. Lorsque le plan prévoit l'acquisition de parts de fonds communs de
 placement régis par l'article L. 214-39 du code monétaire et financier et sans
-préjudice des dispositions du seizième alinéa dudit article L. 214-39, ceux-ci
-ne peuvent détenir plus de 5 % de titres non admis aux négociations sur un
-marché réglementé ou plus de 5 % de titres de l'entreprise qui a mis en place le
-plan ou de sociétés qui lui sont liées au sens de l'article L. 444-3 du présent
-code. Cette limitation ne s'applique pas aux parts et actions d'organismes de
-placement collectif en valeurs mobilières éventuellement détenues par le fonds.
+préjudice des dispositions du seizième alinéa dudit article L. 214-39, ou
+d'actions de société d'investissement à capital variable régies par l'article L.
+214-15 du code monétaire et financier et sans préjudice des dispositions du
+huitième alinéa de l'article L. 214-4 dudit code, ceux-ci ne peuvent détenir
+plus de 5 % de titres non admis aux négociations sur un marché réglementé ou
+plus de 5 % de titres de l'entreprise qui a mis en place le plan ou de sociétés
+qui lui sont liées au sens de l'article L. 444-3 du présent code. Cette
+limitation ne s'applique pas aux parts et actions d'organismes de placement
+collectif en valeurs mobilières éventuellement détenues par le fonds.
 
 Ce plan peut également être créé en tant que plan d'épargne interentreprises
 dans les conditions prévues à l'article L. 443-1-1.
@@ -51,6 +60,9 @@ de fonds investis, dans les limites prévues à l'article L. 214-39 du code
 monétaire et financier, dans les entreprises solidaires définies à l'article L.
 443-3-1 du présent code.
 
+Un décret en Conseil d'Etat précise les éléments que doit contenir le règlement
+du plan d'épargne retraite collectif.
+
 IV. - Sans préjudice des cas de déblocage anticipé prévus au I, la délivrance
 des sommes ou valeurs inscrites aux comptes des participants s'effectue sous
 forme de rente viagère acquise à titre onéreux. Toutefois, l'accord qui établit
@@ -58,6 +70,13 @@ le plan d'épargne pour la retraite collectif peut prévoir des modalités de
 délivrance en capital et de conversion en rente desdites sommes ou valeurs,
 ainsi que les conditions dans lesquelles chaque participant au plan exprime son
 choix.
+
+De plus, l'accord établissant le plan de retraite collectif prévoit, à peine de
+nullité, les modalités selon lesquelles les participants sont informés des
+conditions dans lesquelles ils peuvent souscrire une rente viagère auprès d'un
+organisme assureur ou une institution mentionnée à l'article L. 370-1 du code
+des assurances, au moins six mois avant la délivrance des sommes ou valeurs
+inscrites à leurs comptes.
 
 V. - Sous réserve des dispositions particulières tant du présent article que des
 articles L. 443-2, L. 443-5 et L. 443-7, les dispositions relatives au plan

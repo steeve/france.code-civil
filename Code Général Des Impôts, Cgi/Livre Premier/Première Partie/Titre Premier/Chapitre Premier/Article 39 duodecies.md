@@ -41,6 +41,12 @@ que celles définies au 4.
 portefeuille sont réputées porter par priorité sur les titres de même nature
 acquis ou souscrits à la date la plus ancienne.
 
+Pour l'application de ces dispositions, les titres inscrits dans une
+comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L.
+142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou
+du VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme
+des retraites, constituent un portefeuille distinct.
+
 Pour l'application des dispositions du premier alinéa, les titres reçus en
 rémunération d'un apport partiel d'actif ou d'une scission soumis au régime
 prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de

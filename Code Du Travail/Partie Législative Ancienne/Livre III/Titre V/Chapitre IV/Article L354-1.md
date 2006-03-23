@@ -11,3 +11,9 @@ La mise en oeuvre des mesures prévues au précédent alinéa est confiée à l'
 nationale pour l'emploi ou à tout organisme participant au service public de
 l'emploi dans les conditions prévues par la convention mentionnée à l'article L.
 311-1.
+
+Lorsqu'en application des dispositions du premier alinéa une aide financière est
+accordée à une personne qui a repris une activité professionnelle au cours de la
+période de versement de l'allocation d'assurance prévue à l'article L. 351-3,
+l'aide ainsi versée peut s'imputer en tout ou partie sur les droits à
+l'allocation restants au jour de la reprise d'activité.

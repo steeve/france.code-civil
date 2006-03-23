@@ -13,7 +13,7 @@ forme administrative.
 Les droits des créanciers régulièrement inscrits sur les immeubles délaissés,
 soit avant la publication au bureau des hypothèques de l'acte de délaissement,
 soit, en ce qui concerne les privilèges conservés suivant les prescriptions des
-articles 2108 et 2109 du code civil, postérieurement à ladite publication, sont
+articles 2379 et 2380 du code civil, postérieurement à ladite publication, sont
 reportés sur l'indemnité, compte tenu du rang de préférence qui leur est reconnu
 par les textes qui les régissent.
 

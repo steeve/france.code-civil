@@ -2,11 +2,11 @@ Article L311-1
 ----
 Le service public de l'emploi comprend le placement, l'indemnisation,
 l'insertion, la formation et l'accompagnement des demandeurs d'emploi. Il est
-assuré par les services de l'Etat chargés de l'emploi, l'Agence nationale pour
-l'emploi et l'Association nationale pour la formation professionnelle des
-adultes. Il est également assuré par les organismes de l'assurance chômage
-mentionnés à l'article L. 351-21 dans le cadre des dispositions législatives et
-réglementaires qui leur sont propres.
+assuré par les services de l'Etat chargés de l'emploi et de l'égalité
+professionnelle, l'Agence nationale pour l'emploi et l'Association nationale
+pour la formation professionnelle des adultes. Il est également assuré par les
+organismes de l'assurance chômage mentionnés à l'article L. 351-21 dans le cadre
+des dispositions législatives et réglementaires qui leur sont propres.
 
 Les collectivités territoriales et leurs groupements concourent au service
 public de l'emploi dans les conditions prévues aux articles L. 311-9 et

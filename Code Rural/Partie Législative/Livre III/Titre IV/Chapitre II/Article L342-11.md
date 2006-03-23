@@ -26,7 +26,7 @@ donnée sera constatée par une mention insérée au procès-verbal de vente.
 
 L'officier public chargé de procéder à la vente préviendra huit jours à l'avance
 par lettre recommandée le débiteur, les endosseurs et, s'il y a lieu, le
-bailleur, les créanciers privilégiés mentionnés à l'article 2103 du code civil
+bailleur, les créanciers privilégiés mentionnés à l'article 2374 du code civil
 et les créanciers hypothécaires, même ceux dispensés d'inscription dont il
 connaîtra l'existence des lieu, jour et heure de la vente.
 

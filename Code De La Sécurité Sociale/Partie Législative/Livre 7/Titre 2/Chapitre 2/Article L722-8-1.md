@@ -3,7 +3,7 @@ Article L722-8-1
 Les conjointes des praticiens et auxiliaires médicaux relevant du régime
 d'assurance obligatoire institué par le présent chapitre qui remplissent les
 conditions de collaboration professionnelle définies par décret bénéficient à
-l'occasion de la maternité :.
+l'occasion de la maternité :
 
 - d'une allocation forfaitaire de repos maternel destinée à compenser
 partiellement la diminution de leur activité ;
@@ -31,8 +31,11 @@ en vue de son adoption par décision de l'autorité étrangère compétente, à
 condition que l'enfant ait été autorisé, à ce titre, à entrer sur le territoire
 français.
 
-Un décret détermine les modalités d'application du présent article, et notamment
-le montant des allocations et la durée maximum du remplacement indemnisable.
+Un décret détermine les modalités d'application du présent article et notamment
+le montant de l'allocation prévue au deuxième alinéa, les montants et les durées
+d'attribution de l'indemnité journalière prévue au troisième alinéa, notamment
+lorsque l'accouchement a lieu plus de six semaines avant la date initialement
+prévue et exige l'hospitalisation postnatale de l'enfant.
 
 Les montants maximaux des allocations sont revalorisés dans les mêmes conditions
 que celles fixées par les articles L. 141-3 et L. 141-4 du code du travail pour

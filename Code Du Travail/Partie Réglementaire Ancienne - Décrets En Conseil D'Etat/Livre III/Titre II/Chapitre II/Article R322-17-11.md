@@ -9,9 +9,9 @@ sociale et des familles et à l'article L. 351-21 du code du travail transmetten
 par voie informatique au Centre national pour l'aménagement des structures des
 exploitations agricoles les données suivantes nécessaires à l'identification des
 bénéficiaires de l'allocation de revenu minimum d'insertion, de l'allocation de
-parent isolé et de l'allocation de solidarité spécifique remplissant les
-conditions pour bénéficier d'un contrat d'avenir ou d'un contrat
-insertion-revenu minimum d'activité :
+parent isolé, de l'allocation aux adultes handicapés et de l'allocation de
+solidarité spécifique remplissant les conditions pour bénéficier d'un contrat
+d'avenir ou d'un contrat insertion-revenu minimum d'activité :
 
 1° Le nom, l'adresse des intéressés ;
 
@@ -56,10 +56,10 @@ anonymes.
 
 VI. - Pour l'application des dispositions prévues aux articles R. 351-35 du
 présent code et R. 262-8 du code de l'action sociale et des familles, R. 524-3
-du code de la sécurité sociale, le Centre national pour l'aménagement des
-structures des exploitations agricoles transmet aux organisations mentionnées à
-l'article L. 262-30 du code de l'action sociale et des familles et à l'article
-L. 351-21 du code du travail :
+et R. 821-4 du code de la sécurité sociale, le Centre national pour
+l'aménagement des structures des exploitations agricoles transmet aux
+organisations mentionnées à l'article L. 262-30 du code de l'action sociale et
+des familles et à l'article L. 351-21 du code du travail :
 
 1° Les informations suivantes relatives aux personnes ayant conclu un contrat
 d'avenir et nécessaires à la détermination, au titre et à la liquidation de

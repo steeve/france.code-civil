@@ -65,6 +65,13 @@ effectuer les actes ordinaires de la vie ;
 9° ter La prestation de compensation servie en vertu des dispositions de
 l'article L. 245-1 du code de l'action sociale et des familles ;
 
+9° quater Les primes forfaitaires instituées respectivement par les articles L.
+262-11 du code de l'action sociale et des familles, L. 524-5 du code de la
+sécurité sociale et L. 351-20 du code du travail ;
+
+9° quinquies La prime de retour à l'emploi instituée par l'article L. 322-12 du
+code du travail ;
+
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30
 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er
 de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942

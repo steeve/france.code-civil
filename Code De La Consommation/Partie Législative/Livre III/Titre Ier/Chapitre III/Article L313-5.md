@@ -4,7 +4,7 @@ Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque ti
 et de quelque manière que ce soit, directement ou indirectement, son concours à
 l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait
 usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un
-emprisonnement de deux ans et d'une amende de 45000 euros ou de l'une de ces
+emprisonnement de deux ans et d'une amende de 45 000 euros ou de l'une de ces
 deux peines seulement.
 
 En outre, le tribunal peut ordonner :

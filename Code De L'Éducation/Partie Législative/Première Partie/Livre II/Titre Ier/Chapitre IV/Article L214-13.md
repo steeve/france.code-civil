@@ -4,7 +4,8 @@ I. - La région adopte le plan régional de développement des formations
 professionnelles et s'assure de sa mise en oeuvre. Ce plan a pour objet de
 définir une programmation à moyen terme des actions de formation professionnelle
 des jeunes et des adultes et de favoriser un développement cohérent de
-l'ensemble des filières de formation.
+l'ensemble des filières de formation en favorisant un accès équilibré des femmes
+et des hommes à chacune de ces filières de formation.
 
 Il définit également les priorités relatives à l'information, à l'orientation et
 à la validation des acquis de l'expérience.
@@ -32,8 +33,10 @@ de l'enseignement agricole prévu à l'article L. 814-2 du code rural.
 
 II. - Le plan régional de développement des formations professionnelles pour sa
 partie consacrée aux jeunes couvre l'ensemble des filières de formation des
-jeunes préparant l'accès à l'emploi. Il inclut le cycle d'enseignement
-professionnel initial dispensé par les établissements d'enseignement artistique.
+jeunes préparant l'accès à l'emploi et veille à assurer une représentation
+équilibrée des femmes et des hommes dans ces filières de formation
+professionnelle. Il inclut le cycle d'enseignement professionnel initial
+dispensé par les établissements d'enseignement artistique.
 
 Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations
 sociales et schéma régional des formations sanitaires.
@@ -68,6 +71,11 @@ des contrats fixant des objectifs de développement coordonné des différentes
 voies de formation professionnelle initiale et continue, notamment de formation
 professionnelle alternée et de financement des formations des demandeurs
 d'emploi. Ces contrats d'objectifs peuvent être annuels ou pluriannuels.
+
+Ces contrats déterminent notamment les objectifs qui concourent à favoriser une
+représentation équilibrée des femmes et des hommes dans les métiers auxquels
+préparent les différentes voies de formation professionnelle initiale et
+continue.
 
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres
 d'agriculture peuvent être associées aux contrats d'objectifs.

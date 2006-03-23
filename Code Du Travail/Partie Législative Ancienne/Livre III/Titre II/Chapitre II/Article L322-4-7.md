@@ -23,7 +23,8 @@ Le contrat de travail conclu en vertu de ces conventions est un contrat de droit
 privé à durée déterminée passé en application de l'article L. 122-2. Les
 dispositions du dernier alinéa de l'article L. 122-2 relatives au nombre maximum
 des renouvellements ne sont pas applicables. La durée du contrat de travail ne
-peut être inférieure à six mois.
+peut être inférieure à six mois, ou trois mois pour les personnes bénéficiant
+d'un aménagement de peine.
 
 Les contrats d'accompagnement dans l'emploi ne peuvent être conclus pour
 pourvoir des emplois dans les services de l'Etat.

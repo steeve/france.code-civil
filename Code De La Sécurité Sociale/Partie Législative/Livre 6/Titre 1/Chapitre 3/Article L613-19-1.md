@@ -39,4 +39,8 @@ Le montant maximal de l'allocation de remplacement est revalorisé dans les mêm
 conditions que celles fixées par les articles L. 141-3 et L. 141-4 du code du
 travail pour le salaire minimum de croissance.
 
-Les mesures d'application du présent article sont fixées par décret.
+Un décret détermine les modalités d'application du présent article et notamment
+le montant de l'allocation prévue au deuxième alinéa, les montants et les durées
+d'attribution de l'indemnité journalière prévue au troisième alinéa, notamment
+lorsque l'accouchement a lieu plus de six semaines avant la date initialement
+prévue et exige l'hospitalisation postnatale de l'enfant.

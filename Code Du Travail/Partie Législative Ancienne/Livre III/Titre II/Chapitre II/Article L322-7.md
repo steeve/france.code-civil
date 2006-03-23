@@ -34,7 +34,10 @@ personnel, lorsqu'ils existent.
 Les entreprises, dont l'effectif maximal est fixé par décret, qui souhaitent
 élaborer un plan de gestion prévisionnelle des emplois et des compétences
 comprenant notamment des actions de formation destinées à assurer l'adaptation
-des salariés à l'évolution de leurs emplois peuvent bénéficier d'un dispositif
-d'appui à la conception de ce plan. Ce dispositif d'appui permettra la prise en
-charge par l'Etat d'une partie des frais liés aux études préalables à la
-conception du plan dans des conditions définies par décret.
+des salariés à l'évolution de leurs emplois ou des actions favorisant l'égalité
+professionnelle entre les femmes et les hommes, en particulier grâce à des
+mesures améliorant l'articulation entre l'activité professionnelle et la vie
+personnelle et familiale, peuvent bénéficier d'un dispositif d'appui à la
+conception de ce plan. Ce dispositif d'appui permettra la prise en charge par
+l'Etat d'une partie des frais liés aux études préalables à la conception du plan
+dans des conditions définies par décret.

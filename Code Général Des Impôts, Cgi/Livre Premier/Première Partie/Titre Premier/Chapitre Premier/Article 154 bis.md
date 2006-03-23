@@ -9,7 +9,9 @@ cotisations versées en exercice des facultés de rachat prévues aux articles L
 sociale, invalidité, décès, maladie et maternité.
 
 Il en est également de même des primes versées au titre des contrats d'assurance
-groupe, prévues par l'article 41 modifié de la loi n° 94-126 du 11 février 1994
+groupe, y compris ceux gérés par une institution mentionnée à l'article L. 370-1
+du code des assurances pour les contrats mentionnés à l'article L. 143-1 dudit
+code, prévues par l'article 41 modifié de la loi n° 94-126 du 11 février 1994
 relative à l'initiative et à l'entreprise individuelle et des cotisations aux
 régimes facultatifs mis en place dans les conditions fixées par les articles L.
 644-1 et L. 723-14 du code de la sécurité sociale par les organismes visés aux

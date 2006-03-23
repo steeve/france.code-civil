@@ -2,7 +2,8 @@ Article L311-3
 ----
 Sont exclus du champ d'application du présent chapitre :
 
-1° Les prêts, contrats et opérations de crédit passés en la forme authentique ;
+1° Les prêts, contrats et opérations de crédit passés en la forme authentique
+sauf s'il s'agit de crédits hypothécaires ;
 
 2° Ceux qui sont consentis pour une durée totale inférieure ou égale à trois
 mois, ainsi que ceux dont le montant est supérieur à une somme qui sera fixée

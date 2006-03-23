@@ -1,6 +1,6 @@
 Article L526-1
 ----
-Par dérogation aux articles 2092 et 2093 du code civil, une personne physique
+Par dérogation aux articles 2284 et 2285 du code civil, une personne physique
 immatriculée à un registre de publicité légale à caractère professionnel ou
 exerçant une activité professionnelle agricole ou indépendante peut déclarer
 insaisissables ses droits sur l'immeuble où est fixée sa résidence principale.

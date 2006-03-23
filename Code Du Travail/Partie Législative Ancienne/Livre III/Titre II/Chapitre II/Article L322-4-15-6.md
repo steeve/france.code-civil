@@ -6,7 +6,8 @@ salaire minimum de croissance par le nombre d'heures de travail effectuées.
 
 Le revenu minimum d'activité est versé par l'employeur.
 
-Celui-ci perçoit une aide versée par le débiteur de l'allocation perçue par le
+Pendant la durée de la convention visée à l'article L. 322-4-15-1, l'employeur
+perçoit une aide versée par le débiteur de l'allocation perçue par le
 bénéficiaire du contrat. Le montant de cette aide est égal à celui de
 l'allocation de revenu minimum d'insertion garanti à une personne isolée en
 application de l'article L. 262-2 du code de l'action sociale et des familles.

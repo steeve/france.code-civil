@@ -14,15 +14,16 @@ dénonciation de la convention.
 
 En cas de dénonciation, l'employeur est tenu de reverser l'intégralité des
 sommes déjà perçues. Il est également tenu de verser le montant des cotisations
-patronales de sécurité sociale dont il a été exonéré au titre du contrat de
-travail considéré. Ces cotisations doivent être versées au plus tard à la
-première date d'exigibilité des cotisations et contributions sociales qui suit
-la date de notification à l'employeur de la décision de dénonciation.
+et contributions sociales patronales dont il a été exonéré au titre du contrat
+de travail considéré. Ces cotisations et contributions doivent être versées au
+plus tard à la première date d'exigibilité des cotisations et contributions
+sociales qui suit la date de notification à l'employeur de la décision de
+dénonciation.
 
 Il est tenu aux mêmes obligations, pour les heures de travail non effectuées,
-mais ayant donné lieu au bénéfice des aides et exonérations des cotisations
-sociales, à la date d'effet de la rupture du contrat d'avenir ou de sa
-suspension pour l'un des motifs énumérés au II de l'article R. 322-17-7.
+mais ayant donné lieu au bénéfice des aides, à la date d'effet de la rupture du
+contrat d'avenir ou de sa suspension pour l'un des motifs énumérés au II de
+l'article R. 322-17-7.
 
 II. - En cas de rupture du contrat d'avenir avant le terme initialement fixé
 dans la convention mentionnée à l'article L. 322-4-11, la convention est

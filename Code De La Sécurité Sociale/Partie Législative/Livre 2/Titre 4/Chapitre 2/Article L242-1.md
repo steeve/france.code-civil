@@ -45,9 +45,13 @@ Sont exclues de l'assiette des cotisations mentionnées au premier alinéa les
 contributions des employeurs destinées au financement des prestations
 complémentaires de retraite et de prévoyance versées par les organismes régis
 par les titres III et IV du livre IX du présent code ou le livre II du code de
-la mutualité ou par des entreprises régies par le code des assurances,
-lorsqu'elles revêtent un caractère collectif et obligatoire déterminé dans le
-cadre d'une des procédures visées à l'article L. 911-1 du présent code :
+la mutualité, par des entreprises régies par le code des assurances ainsi que
+par les institutions mentionnées à l'article L. 370-1 du code des assurances et
+proposant des contrats mentionnés à l'article L. 143-1 dudit code, à la section
+9 du chapitre II du titre III du livre IX du code de la sécurité sociale ou au
+chapitre II bis du titre II du livre II du code de la mutualité, lorsqu'elles
+revêtent un caractère collectif et obligatoire déterminé dans le cadre d'une des
+procédures mentionnées à l'article L. 911-1 du présent code :
 
 1° Dans des limites fixées par décret, pour les contributions au financement
 d'opérations de retraite déterminées par décret ; l'abondement de l'employeur à
