@@ -9,7 +9,8 @@ trois représentants des contribuables.
 Les représentants des contribuables sont désignés respectivement par les
 fédérations départementales des syndicats d'exploitants agricoles, les
 organisations ou organismes représentatifs des propriétaires d'immeubles bâtis
-et la chambre de commerce et d'industrie ou la chambre de métiers.
+et la chambre de commerce et d'industrie ou la chambre de métiers et de
+l'artisanat.
 
 Le contribuable peut demander que l'un des représentants des contribuables soit
 désigné par une organisation ou un organisme professionnel ou

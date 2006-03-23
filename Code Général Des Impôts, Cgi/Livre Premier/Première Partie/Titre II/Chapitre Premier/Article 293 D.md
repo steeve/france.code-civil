@@ -6,8 +6,8 @@ biens et des prestations de services effectuées au cours de la période de
 référence, à l'exception des opérations exonérées et des cessions de biens
 d'investissement corporels ou incorporels mais y compris les opérations
 immobilières, bancaires, financières et des assurances qui n'ont pas le
-caractère d'opérations accessoires et les opérations visées aux articles 262 I
-et II, 1° à 7°, 12° et 14° et 263.
+caractère d'opérations accessoires et les opérations visées au I et aux 1° à 7°,
+12° et 14° du II de l'article 262 et à l'article 263.
 
 II. Les chiffres d'affaires mentionnés au III de l'article 293 B sont constitués
 par le montant hors taxe sur la valeur ajoutée, réalisé au cours de la période

@@ -1,12 +1,12 @@
 Article 91 quater K
 ----
-Afin de bénéficier des dispositions du 3 du III de l'article 163 quinquies D du
-code général des impôts, le titulaire du plan d'épargne en actions adresse à
-l'organisme gestionnaire du plan un document attestant sur l'honneur que les
-sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant d'un
-contrat de capitalisation, sont destinées à être affectées au financement de la
-création ou de la reprise d'une entreprise dans les conditions fixées par la
-deuxième phrase du 2 du II de l'article 150-0 A du même code.
+Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L.
+221-32 du code monétaire et financier, le titulaire du plan d'épargne en actions
+adresse à l'organisme gestionnaire du plan un document attestant sur l'honneur
+que les sommes ou valeurs dont il demande le retrait, ou le rachat s'agissant
+d'un contrat de capitalisation, sont destinées à être affectées au financement
+de la création ou de la reprise d'une entreprise dans les conditions fixées par
+la deuxième phrase du 2 du II de l'article 150-0 A du code général des impôts.
 
 Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan
 adresse à l'organisme gestionnaire :
@@ -41,8 +41,8 @@ descendant du titulaire du plan.
 
 Si l'une des conditions énumérées au présent article n'est pas respectée, le
 retrait ou le rachat entraîne la clôture du plan d'épargne en actions en
-application du 2 du III de l'article 163 quinquies D du code général des impôts
-et, en cas de retrait ou de rachat avant l'expiration de la cinquième année du
-plan, l'imposition du gain net réalisé depuis l'ouverture du plan dans les
-conditions prévues à la première phrase du 2 du II de l'article 150-0 A du même
-code.
+application du premier alinéa du II de l'article L. 221-32 du code monétaire et
+financier et, en cas de retrait ou de rachat avant l'expiration de la cinquième
+année du plan, l'imposition du gain net réalisé depuis l'ouverture du plan dans
+les conditions prévues à la première phrase du 2 du II de l'article 150-0 A du
+code général des impôts.

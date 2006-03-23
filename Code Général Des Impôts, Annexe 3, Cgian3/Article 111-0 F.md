@@ -1,9 +1,9 @@
 Article 111-0 F
 ----
-I. - Pour l'application du III de l'article 302 D bis du code général des
-impôts, l'opérateur qui veut bénéficier des exonérations prévues au I et au II
-de cet article ou qui veut se livrer au commerce des alcools totalement
-dénaturés mentionnés au a du I dudit article, dénommé "utilisateur", doit :
+I.-Pour l'application du III de l'article 302 D bis du code général des impôts,
+l'opérateur qui veut bénéficier des exonérations prévues au I et au II de cet
+article ou qui veut se livrer au commerce des alcools totalement dénaturés
+mentionnés au a du I dudit article, dénommé " utilisateur ", doit :
 
 1° Faire une déclaration préalable de profession en justifiant de son identité
 et de son activité auprès du service des douanes et droits indirects
@@ -39,9 +39,9 @@ d'identification, en cas de changement ou modification de son activité, et de
 leur transmettre, le cas échéant, une copie de l'exemplaire de la déclaration
 préalable de profession.
 
-II. - L'utilisateur d'alcools et de boissons alcooliques, à savoir la personne
-qui reçoit ces produits pour les utiliser aux fins et dans les cas prévus au b
-du I et au II de l'article 302 D bis du code général des impôts, et outre les
+II.-L'utilisateur d'alcools et de boissons alcooliques, à savoir la personne qui
+reçoit ces produits pour les utiliser aux fins et dans les cas prévus au b du I
+et au II de l'article 302 D bis du code général des impôts, et outre les
 formalités et obligations prévues au I, doit :
 
 1° Produire à l'appui de la déclaration préalable de profession mentionnée au 1°
@@ -49,7 +49,7 @@ du I, lorsqu'il utilise des alcools et des boissons alcooliques dans les
 conditions fixées au b du I et aux a à d, h et i du II de l'article 302 D bis du
 code général des impôts, selon le cas, tout document sur la nature et la
 composition détaillée des produits fabriqués, les procédés et techniques de
-fabrication, une estimation des taux moyens de déchets ainsi que la procédé de
+fabrication, une estimation des taux moyens de déchets ainsi que le procédé de
 dénaturation utilisé ;
 
 2° Justifier que les quantités d'alcools et de boissons alcooliques qu'il a

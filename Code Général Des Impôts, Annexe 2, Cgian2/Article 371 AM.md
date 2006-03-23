@@ -38,7 +38,7 @@ dénomination ou la raison sociale pour les personnes morales ;
 
 2° Le numéro unique d'identification de l'entreprise et, le cas échéant, le nom
 de la ville où se trouve le greffe où elle est immatriculée, ou la chambre des
-métiers où elle est inscrite au répertoire des métiers ;
+métiers et de l'artisanat où elle est inscrite au répertoire des métiers ;
 
 3° L'objet de la formalité, ainsi que la date d'effet de l'événement la
 justifiant.

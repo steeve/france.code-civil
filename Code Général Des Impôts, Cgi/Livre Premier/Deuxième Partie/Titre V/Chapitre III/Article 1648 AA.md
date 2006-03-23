@@ -113,7 +113,7 @@ département et par le président du conseil général ; elle comprend en outre 
 
 - trois représentants de la chambre de commerce et d'industrie ;
 
-- un représentant de la chambre des métiers ;
+- un représentant de la chambre des métiers et de l'artisanat ;
 
 - deux personnalités qualifiées désignées par les co-présidents.
 

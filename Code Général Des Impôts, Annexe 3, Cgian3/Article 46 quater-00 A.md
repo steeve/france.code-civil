@@ -28,11 +28,11 @@ Un représentant désigné par la chambre départementale d'agriculture d'Ajacci
 
 Un représentant désigné par la chambre départementale d'agriculture de Bastia ;
 
-Un représentant désigné par la chambre départementale de métiers de la
-Haute-Corse ;
+Un représentant désigné par la chambre départementale de métiers et de
+l'artisanat de la Haute-Corse ;
 
-Un représentant désigné par la chambre départementale de métiers de la
-Corse-du-Sud.
+Un représentant désigné par la chambre départementale de métiers et de
+l'artisanat de la Corse-du-Sud.
 
 Le secrétariat de la commission est assuré par un agent de la direction générale
 des impôts désigné par le préfet de région, sur proposition du directeur des

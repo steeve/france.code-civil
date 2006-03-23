@@ -23,11 +23,11 @@ modalités énoncées au II dans le délai prévu pour le dépôt du relevé de 
 de la déclaration de résultat relatifs à l'exercice pour lequel elles souhaitent
 bénéficier du crédit d'impôt.
 
-Lorsqu'une société mère opte pour le crédit d'impôt en vertu de l'article 223 O,
-elle doit déposer la déclaration spéciale mentionnée au I. Cette déclaration
-récapitule notamment les parts en accroissement et les parts en volume de
-chacune des sociétés membres du groupe ayant exposé des dépenses de recherche
-ouvrant droit au crédit d'impôt.
+Lorsqu'une société mère opte pour le crédit d'impôt en vertu de l'article 223 O
+du code général des impôts, elle doit déposer la déclaration spéciale mentionnée
+au I. Cette déclaration récapitule notamment les parts en accroissement et les
+parts en volume de chacune des sociétés membres du groupe ayant exposé des
+dépenses de recherche ouvrant droit au crédit d'impôt.
 
 L'associé ou membre d'une société de personnes ou d'un groupement mentionnés aux
 articles 8, 238 bis L, 239 quater, 239 quater B et 239 quater C du code général

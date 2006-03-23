@@ -1,8 +1,8 @@
 Article 238 bis HP
 ----
-I. - (Abrogé)
+I.-(Abrogé)
 
-II. - L'agrément prévu à l'article 238 bis HO est accordé aux sociétés anonymes
+II.-L'agrément prévu à l'article 238 bis HO est accordé aux sociétés anonymes
 qui ont pour objet exclusif l'achat en copropriété de navires de pêche neufs :
 
 a) Exploités de façon directe et continue dans les départements d'outre-mer par
@@ -20,11 +20,11 @@ de 25 % de leur capital social libéré, mettre ou laisser leurs disponibilités
 comptes productifs d'intérêts si la créance correspondante est liquide.
 
 Plus de la moitié des parts de la copropriété doit être détenue pendant cinq ans
-par un artisan pêcheur ou une société mentionné au deuxième alinéa, seul ou
-conjointement avec un armement coopératif agréé par le ministre chargé de la
-pêche dans le cadre d'une accession à la propriété dans un délai qui ne peut
-excéder dix ans ; dans ce cas, l'artisan pêcheur ou la société doit initialement
-détenir au moins un cinquième des parts de la copropriété.
+par un artisan pêcheur ou une société mentionné au a, seul ou conjointement avec
+un armement coopératif agréé par le ministre chargé de la pêche dans le cadre
+d'une accession à la propriété dans un délai qui ne peut excéder dix ans ; dans
+ce cas, l'artisan pêcheur ou la société doit initialement détenir au moins un
+cinquième des parts de la copropriété.
 
 Le capital mentionné à l'article 238 bis HO s'entend du capital de la société
 lors de sa constitution, de la première augmentation de capital intervenant dans
@@ -45,11 +45,11 @@ permettant le transfert de propriété, au profit de ces mêmes artisans ou
 sociétés, des parts de copropriété du navire dans un délai maximal de dix ans.
 
 En cas de financement de navire neuf, l'agrément est accordé sous réserve que
-l'artisan pêcheur ou les sociétés mentionnés au deuxième alinéa s'engagent à
-exploiter ce navire dans les départements d'outre-mer jusqu'au terme d'une
-période de dix ans décomptée à partir de la date d'octroi de l'agrément prévu à
-l'article 238 bis HO. En cas de cession des parts du navire au cours de cette
-période, le cessionnaire doit reprendre cet engagement .
+l'artisan pêcheur ou les sociétés mentionnés au a s'engagent à exploiter ce
+navire dans les départements d'outre-mer jusqu'au terme d'une période de dix ans
+décomptée à partir de la date d'octroi de l'agrément prévu à l'article 238 bis
+HO. En cas de cession des parts du navire au cours de cette période, le
+cessionnaire doit reprendre cet engagement.
 
 L'avantage en impôt procuré par la déduction des sommes souscrites doit être
 rétrocédé pour un montant égal au moins à 15 % du montant des souscriptions
