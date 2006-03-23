@@ -86,4 +86,8 @@ République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
 à l'article R. 53 ou qu'il a été fait application des dispositions de l'article
 R. 53-6 ;
 
-22° Les indemnités accordées en application de l'article 800-2.
+22° Les indemnités accordées en application de l'article 800-2 ;
+
+23° Les frais correspondant à la fourniture des données conservées en
+application du II de l'article L. 34-1 du code des postes et des communications
+électroniques.
