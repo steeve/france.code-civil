@@ -12,8 +12,8 @@ l'Etat. Elle comprend :
 
 - le président du conseil général ou son représentant ;
 
-- le président de la chambre professionnelle, section agricole, ou son
-représentant ;
+- le président de la chambre de l'agriculture, de la pêche et de l'aquaculture
+de Mayotte ou son représentant ;
 
 - le directeur de l'agriculture et de la forêt ou son représentant ;
 
@@ -34,10 +34,10 @@ agricoles à vocation générale satisfaisant aux conditions suivantes :
 ans au moins ;
 
 2° Avoir obtenu à Mayotte plus de 15 % des suffrages exprimés lors des élections
-à la chambre professionnelle (catégorie agriculture et pêche) ; lorsque deux
-organisations syndicales ont constitué une liste d'union ayant obtenu plus de 30
-% des suffrages, elles sont réputées satisfaire l'une et l'autre à cette
-condition.
+à la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte ;
+lorsque deux organisations syndicales ont constitué une liste d'union ayant
+obtenu plus de 30 % des suffrages, elles sont réputées satisfaire l'une et
+l'autre à cette condition.
 
 La condition d'ancienneté prévue au 1° ci-dessus est remplie par une
 organisation issue de la scission d'une organisation remplissant elle-même cette
