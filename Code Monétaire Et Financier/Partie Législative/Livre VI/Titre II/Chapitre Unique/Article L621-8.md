@@ -71,8 +71,8 @@ financiers.
 
 IX. - Dans des conditions et selon des modalités fixées par son règlement
 général, l'Autorité des marchés financiers appose également un visa préalable
-quand une personne physique ou morale fait une offre publique d'acquisition de
-titres de capital ou de titres de créance d'un émetteur faisant appel public à
-l'épargne en France. La note sur laquelle la commission appose un visa préalable
-contient les orientations en matière d'emploi de la personne physique ou morale
-qui effectue l'offre publique.
+quand une personne physique ou morale fait une offre publique d'acquisition
+d'instruments financiers dans les conditions prévues par l'article L. 433-1. La
+note sur laquelle la commission appose un visa préalable contient les
+orientations en matière d'emploi de la personne physique ou morale qui effectue
+l'offre publique.

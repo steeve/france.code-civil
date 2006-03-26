@@ -1,15 +1,10 @@
 Article R4381-75
 ----
-Lorsque, à l'expiration du délai prévu à l'article R. 4381-72, les ayants droit
-de l'associé décédé n'ont pas exercé la faculté de céder les parts sociales de
-leur auteur et si aucun consentement préalable à l'attribution préférentielle
-n'a été donné par la société, celle-ci dispose d'une année pour acquérir, dans
-les conditions prévues à l'article R. 4381-67, les parts sociales de l'associé
-décédé.
+Les membres d'une société civile professionnelle ont une résidence
+professionnelle commune.
 
-Si les parts sociales sont cédées à un tiers, les dispositions du deuxième
-alinéa des articles R. 4381-65 et R. 4381-66 et de l'article R. 4381-67 sont
-applicables.
-
-Si elles sont acquises par la société, par les associés ou par certains d'entre
-eux, il est procédé conformément aux dispositions de l'article R. 4381-67.
+Toutefois, la société peut être autorisée par le préfet à exercer dans un ou
+plusieurs cabinets secondaires si la satisfaction des besoins des malades
+l'exige et à condition que la situation de chaque cabinet secondaire par rapport
+au cabinet principal ainsi que l'organisation des soins dans ce ou ces cabinets
+permettent de répondre aux urgences.

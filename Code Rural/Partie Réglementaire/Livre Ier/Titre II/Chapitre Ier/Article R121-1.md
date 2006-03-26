@@ -1,14 +1,14 @@
 Article R121-1
 ----
-Lorsqu'il y a lieu d'instituer une commission communale ou intercommunale
-d'aménagement foncier, le préfet provoque la désignation ou l'élection de ses
-membres. Il désigne trois personnes qualifiées en matière de faune, de flore et
-de protection de la nature et des paysages, dont deux après avis du directeur
-régional de l'environnement et une sur proposition du président de la chambre
-d'agriculture. Pour chacun des fonctionnaires qu'il doit désigner il désigne
-également un suppléant.
+Lorsque le conseil général a décidé, en application de l'article L. 121-2,
+d'instituer une commission communale ou intercommunale d'aménagement foncier,
+son président procède aux désignations qui relèvent de sa compétence et, selon
+le cas, provoque la désignation ou l'élection des membres de cette commission
+dans les conditions prévues aux articles L. 121-3, L. 121-4, L. 121-5 ou L.
+121-5-1.
 
-Le président du conseil général désigne un suppléant à son représentant.
+Le président du conseil général désigne un suppléant à chacun des membres qu'il
+désigne.
 
 Le commissaire enquêteur, président de la commission communale ou intercommunale
 d'aménagement foncier, est désigné par le président du tribunal de grande

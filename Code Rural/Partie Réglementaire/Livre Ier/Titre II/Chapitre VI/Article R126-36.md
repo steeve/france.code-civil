@@ -1,7 +1,7 @@
 Article R126-36
 ----
 Les boisements linéaires, haies et plantations d'alignement susceptibles d'être
-protégés en application de l'article L. 126-6 du code rural :
+protégés en application de l'article L. 126-3 du code rural :
 
 a) Sont constitués d'espèces ligneuses buissonnantes et de haute tige figurant
 sur une liste fixée par arrêté du ministre chargé des forêts. Ils sont
@@ -13,7 +13,7 @@ mètres pour les haies constituées d'espèces buissonnantes et à dix mètres p
 les haies d'arbres de haute tige.
 
 Les vergers de haute tige susceptibles d'être protégés en application de
-l'article L. 126-6 du code rural :
+l'article L. 126-3 du code rural :
 
 a) Sont constitués d'espèces fruitières et de variétés figurant sur une liste
 fixée par arrêté du ministre chargé de l'agriculture ; cet arrêté fixe également

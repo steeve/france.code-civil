@@ -1,25 +1,39 @@
 Article R126-1
 ----
-Les interdictions ou réglementations de semis, de plantations ou de
-replantations d'essences forestières prévues au 1° de l'article L. 126-1 doivent
-être justifiées par l'un des motifs suivants :
+Pour la mise en oeuvre des dispositions de l'article L. 126-1, le conseil
+général fixe par délibération, pour tout ou partie du territoire du département
+:
 
-1° Maintien à la disposition de l'agriculture de terres qui contribuent à un
-meilleur équilibre économique des exploitations ;
+a) Les orientations qu'il entend poursuivre en matière de réglementation des
+boisements conformément aux objectifs prévus au premier alinéa de l'article L.
+126-1. Ces orientations précisent notamment les conditions dans lesquelles la
+réglementation envisagée concourt au maintien à la disposition de l'agriculture
+de terre qui contribuent à un meilleur équilibre économique des exploitations, à
+la préservation du caractère remarquable des paysages, à la protection des
+milieux naturels présentant un intérêt particulier, à la gestion équilibrée de
+la ressource en eau telle que définie à l'article L. 211-1 du code de
+l'environnement et à la prévention des risques naturels ;
 
-2° Préjudices que les boisements ou reboisements envisagés porteraient, du fait
-notamment de l'ombre des arbres, de la décomposition de leur feuillage ou de
-l'influence de leurs racines, aux fonds agricoles voisins, aux espaces habités,
-aux espaces de loisirs, notamment sportifs, ainsi qu'aux voies affectées à
-l'usage du public ;
+b) S'il prévoit de réglementer le reboisement après coupe rase, le seuil de
+surface mentionné au deuxième alinéa du même article, pour chaque grande zone
+forestière homogène ;
 
-3° Difficultés qui pourraient résulter de certains semis, plantations ou
-replantations pour la réalisation satisfaisante d'opérations d'aménagement
-foncier ;
+c) Les zones dans lesquelles des plantations et des semis d'essences forestières
+peuvent être interdits ou réglementés ainsi que la reconstitution après coupe
+rase, s'il y a lieu ;
 
-4° Atteintes que les boisements ou reboisements porteraient au caractère
-remarquable des paysages, attesté notamment par une mesure de classement,
-d'inscription, de protection ou d'identification ;
+d) Les obligations déclaratives auxquelles sont soumis les propriétaires dans
+les périmètres réglementés, préalablement à tous semis, à toutes plantations ou,
+le cas échéant, toutes replantations dans les périmètres réglementés.
 
-5° Atteintes aux milieux naturels et à la gestion équilibrée de l'eau, telle que
-définie par l'article L. 211-1 du code de l'environnement.
+Le projet de délibération est soumis pour avis à la chambre départementale
+d'agriculture et au centre régional de la propriété forestière, accompagné d'un
+rapport qui recense :
+
+- les massifs forestiers protégés ;
+
+- les zones agricoles protégées prévues notamment à l'article L. 112-2 ;
+
+- les zones et espaces protégés au titre de l'environnement et des paysages ;
+
+- les zones figurant dans les inventaires de patrimoine naturel et des paysages.

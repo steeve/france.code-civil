@@ -6,9 +6,10 @@ participant financièrement à l'exécution d'opérations d'aménagement foncier
 de travaux connexes, sont mises à sa charge ou à celle de son concessionnaire :
 
 1° Les dépenses relatives aux opérations d'aménagement foncier exécutées dans le
-périmètre d'aménagement foncier dans la limite des barèmes mentionnés à
-l'article L. 121-16 ;
+périmètre d'aménagement foncier perturbé par la réalisation du grand ouvrage ;
 
 2° Les dépenses relatives aux seuls travaux connexes à l'aménagement foncier
-rendus nécessaires par les projets qui auront été approuvés par le préfet, sur
-proposition de la commission départementale d'aménagement foncier.
+rendus nécessaires par le projet de grand ouvrage et qui auront été approuvés
+par le conseil général, sur proposition de la commission départementale
+d'aménagement foncier ainsi que les travaux résultant de l'application des
+dispositions du III de l'article L. 121-14.

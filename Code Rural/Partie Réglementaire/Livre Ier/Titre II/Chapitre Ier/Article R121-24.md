@@ -1,14 +1,6 @@
 Article R121-24
 ----
-Au vu de l'ensemble de ces propositions et avis, le préfet arrête le ou les
-modes d'aménagement retenus, le ou les périmètres correspondants et la date à
-laquelle débuteront les opérations d'aménagement foncier.
-
-Le préfet fixe la liste des parcelles pouvant faire l'objet d'une application de
-l'article L. 242-11 et des mesures conservatoires qui leur seraient alors
-applicables.
-
-Dans le cas où des travaux mentionnés à la rubrique 4-6-0 de l'annexe au décret
-n° 93-743 du 29 mars 1993 sont décidés, il arrête si nécessaire les
-prescriptions à observer, en application de l'article 10 de la loi n° 92-3 du 3
-janvier 1992 sur l'eau, pour leur réalisation.
+Si le conseil général refuse d'engager ou de poursuivre la procédure
+d'aménagement foncier en application des articles L. 121-13 et L. 121-14, il en
+informe les commissions d'aménagement foncier, le ou les conseils municipaux et
+le préfet.

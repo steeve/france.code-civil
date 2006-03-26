@@ -1,8 +1,13 @@
 Article R123-33
 ----
-Lorsque les déclarations d'utilité publique d'ouvrages présentant un caractère
-linéaire comportent pour le maître de l'ouvrage les obligations prévues à
-l'article L. 123-24 et lorsque les décisions du préfet et des commissions
-d'aménagement foncier sont favorables à l'intervention d'opérations
-d'aménagement foncier, celles-ci se déroulent dans les conditions prévues par
-les articles R. 123-34 à R. 123-38.
+Si, pour répondre aux besoins de cohérence de l'aménagement rural d'un
+territoire communal ou intercommunal, le conseil général décide d'étendre le
+périmètre d'aménagement foncier au-delà de la zone perturbée par l'ouvrage, le
+cas échéant après le complément nécessaire de l'étude d'aménagement, cette
+extension est à la charge du département conformément aux dispositions de
+l'article L. 121-15.
+
+L'arrêté du président du conseil général ordonnant l'opération identifie, dans
+le périmètre d'aménagement foncier, les parcelles incluses dans la partie liée à
+la réalisation du grand ouvrage, à la charge du maître d'ouvrage, et celles
+incluses dans l'extension du périmètre, à la charge du conseil général.

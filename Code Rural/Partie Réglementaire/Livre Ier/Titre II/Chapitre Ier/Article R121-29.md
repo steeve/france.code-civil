@@ -1,47 +1,54 @@
 Article R121-29
 ----
-Au vu du plan du ou des aménagements fonciers et du projet des travaux connexes
-approuvés par la commission communale ou intercommunale et si aucune réclamation
-n'a été introduite devant la commission départementale dans le délai prévu à
-l'article R. 121-6 ou, dans le cas contraire, au vu du plan approuvé par la
-commission départementale, le préfet prend un arrêté par lequel :
+I. - Lorsque les travaux connexes prévus par la commission communale ou
+intercommunale sont soumis à autorisation au titre d'une autre législation,
+notamment au titre des articles L. 214-1 et suivants et L. 341-1 et suivants du
+code de l'environnement, la commission soumet le projet de travaux et le nouveau
+parcellaire correspondant à l'autorité administrative compétente pour délivrer
+cette autorisation. Après accord de cette dernière, elle approuve le plan et le
+projet de travaux. Si la commission départementale saisie en application de
+l'article L. 121-7 modifie la consistance des travaux ainsi approuvés, elle
+soumet le projet ainsi modifié à l'accord de l'autorité administrative
+compétente avant de l'arrêter. La délibération de la commission mentionne les
+accords recueillis.
 
-1° Il autorise, le cas échéant, au titre de la loi sur l'eau les travaux
-mentionnés au troisième alinéa de l'article R. 121-20 ;
+Sous réserve des dispositions du IV de l'article 1er du décret n° 93-742 du 29
+mars 1993, les accords mentionnés à l'alinéa précédent sont délivrés selon la
+procédure applicable à l'autorisation requise sans qu'il soit besoin de
+renouveler les consultations et enquêtes prévues en application du présent code.
 
-2° Il prononce s'il y a lieu en application de l'article L. 126-6 la protection
-de boisements linéaires, haies ou plantations d'alignement existants ou à créer,
-identifiés par la commission d'aménagement foncier conformément au 6° de
-l'article L. 123-8 ;
+II. - Le préfet prononce s'il y a lieu, en application de l'article L. 126-3, la
+protection des boisements linéaires, haies ou plantations d'alignement existants
+ou à créer identifiés par la commission d'aménagement foncier conformément au 6°
+de l'article L. 123-8. Son arrêté est transmis au président du conseil général
+et affiché, pendant quinze jours au moins, à la mairie de chacune des communes
+faisant l'objet de l'aménagement foncier. Il fait également l'objet d'une
+insertion au recueil des actes administratifs de l'Etat dans le département et
+d'un avis dans un journal diffusé dans le département.
 
-3° Il ordonne le dépôt en mairie du plan ;
+III. - Au vu du plan et du projet des travaux connexes approuvés par la
+commission communale ou intercommunale ou, si la commission départementale a été
+saisie, au vu du plan et du projet de travaux approuvés par cette dernière, le
+président du conseil général ordonne le dépôt du plan du nouveau parcellaire en
+mairie, constate la clôture des opérations à la date de ce dépôt et ordonne, le
+cas échéant, l'exécution des travaux connexes. Son arrêté est affiché, pendant
+quinze jours au moins, à la mairie de chacune des communes faisant l'objet de
+l'aménagement foncier et de chacune des communes mentionnées à l'article R.
+121-20-1. Il est notifié à l'association foncière créée en application de
+l'article L. 123-9 et aux communes, maîtres d'ouvrage des travaux connexes
+mentionnés à l'article L. 123-8. Il fait l'objet d'une insertion au recueil des
+actes administratifs du département et d'un avis dans un journal diffusé dans le
+département.
 
-4° Il constate la clôture des opérations à la date de ce dépôt ;
+IV. - Lorsque le plan de l'aménagement foncier est modifié par la commission
+départementale pour l'exécution d'une décision d'annulation prononcée par le
+juge administratif, le président du conseil général prend, au vu du plan ainsi
+modifié, un nouvel arrêté de clôture de l'opération dans les formes prévues à
+l'article L. 121-21. La publicité de cet arrêté est effectuée conformément aux
+dispositions du III ci-dessus.
 
-5° Eventuellement, il agrée, en application de l'article R. 242-28, les réserves
-naturelles volontaires créées en application de l'article L. 242-11.
-
-Dans le cas visé au 1°, l'arrêté préfectoral comporte tous les effets d'une
-autorisation prise sur le fondement de la loi n° 92-3 du 3 janvier 1992 sur
-l'eau.
-
-Cet arrêté est affiché pendant quinze jours au moins à la mairie des communes
-sur le territoire desquelles l'aménagement est projeté ainsi, le cas échéant,
-que de chacune des communes figurant sur la liste établie par le préfet en
-application du troisième alinéa de l'article R. 121-20. Il fait également
-l'objet d'une insertion au Recueil des actes administratifs de l'Etat dans le
-département ainsi que d'un avis publié au Journal officiel et dans un journal
-diffusé dans le département.
-
-Le dépôt du plan du ou des aménagements fonciers donne lieu à un avis du maire
-qui est affiché en mairie pendant quinze jours au moins.
-
-Après la clôture des opérations, s'il apparaît que l'exécution des prescriptions
-qui ont été imposées pour la réalisation des travaux mentionnés au 1° du premier
-alinéa du présent article ne suffit pas à assurer le respect des principes posés
-par l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau, le préfet peut
-fixer par arrêté des prescriptions complémentaires de nature à en assurer le
-respect, notamment en ce qui concerne les ouvrages collectifs décidés par les
-commissions d'aménagement foncier dont la réalisation, l'entretien et la gestion
-sont assurés par l'association foncière de remembrement ou la commune
-conformément aux articles L. 133-1 et L. 133-2.
+Lorsque la commission est conduite, pour l'exécution de la décision
+d'annulation, à modifier la consistance des travaux connexes antérieurement
+approuvés, elle sollicite à nouveau l'accord de l'autorité administrative
+conformément au I du présent article avant d'approuver le plan et les travaux
+modifiés.

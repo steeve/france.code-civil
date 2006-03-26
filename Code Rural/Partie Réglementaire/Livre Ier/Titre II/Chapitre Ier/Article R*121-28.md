@@ -16,3 +16,8 @@ d'aménagement foncier forestier, d'aménagement foncier agricole et forestier o
 de réorganisation foncière, cette demande n'est plus recevable si elle parvient
 à la commission communale ou intercommunale après l'approbation par cette
 commission du plan du ou des aménagements fonciers.
+
+Cette demande n'est plus recevable si elle parvient à la commission communale ou
+intercommunale après l'approbation du plan d'aménagement foncier agricole et
+forestier ou, dans le cas d'échanges et cessions amiables d'immeubles ruraux et
+forestiers, après la décision de la commission départementale.

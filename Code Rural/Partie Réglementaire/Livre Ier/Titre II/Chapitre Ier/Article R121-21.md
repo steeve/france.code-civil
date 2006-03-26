@@ -1,42 +1,35 @@
 Article R121-21
 ----
-La commission communale ou intercommunale soumet ce projet à une enquête dans
-les conditions suivantes.
+L'enquête publique prévue au II de l'article L. 121-14 est organisée
+conformément aux articles L. 123-4 et suivants et aux articles R. 123-7 à R.
+123-23 du code de l'environnement et aux présentes dispositions. Toutefois, le
+président du conseil général exerce les compétences dévolues au préfet par ces
+dispositions. Il peut se faire représenter.
 
-L'enquête, d'une durée de quinze jours au moins, est ouverte et organisée par le
-président de la commission, qui désigne le commissaire enquêteur.
+Le commissaire enquêteur est désigné selon les modalités prévues aux articles R.
+123-8 et R. 123-9 du code de l'environnement.
 
 Le dossier soumis à l'enquête comprend :
 
-1° Le projet établi en application de l'article R. 121-20 ;
+1° La proposition de la commission communale ou intercommunale établie en
+application de l'article R. 121-20-1 ;
 
-2° Un plan faisant apparaître le ou les périmètres du ou des modes d'aménagement
-envisagés ;
+2° Un plan faisant apparaître le périmètre retenu pour le mode d'aménagement
+envisagé ;
 
-3° L'étude d'aménagement visée à l'article L. 121-1, ainsi que l'avis de la
-commission communale d'aménagement foncier sur les recommandations contenues
-dans cette étude ;
+3° L'étude d'aménagement prévue à l'article L. 121-1, ainsi que l'avis de la
+commission communale ou intercommunale d'aménagement foncier sur les
+recommandations contenues dans cette étude ;
 
-4° Un registre destiné à recevoir les réclamations et observations des
-propriétaires et autres personnes intéressées.
+4° Les informations mentionnées à l'article L. 121-13, portées à la connaissance
+du président de conseil général par le préfet ;
 
-Ce dossier est déposé à la mairie de la commune où la commission a son siège et,
-dans le cas visé au troisième alinéa de l'article R. 121-20, à la mairie de
-chacune des communes figurant sur la liste établie par le préfet.
+5° En cas d'application du deuxième alinéa de l'article L. 121-15, il indique le
+montant de la participation financière exigée des propriétaires par le conseil
+général.
 
-Le président de la commission précise l'objet, la date d'ouverture, la durée et
-le lieu de l'enquête. Cette décision indique également les jours et heures
-pendant lesquels le dossier peut être consulté ainsi que les dates et heures
-pendant lesquelles le commissaire enquêteur recevra les réclamations des
-propriétaires et autres personnes intéressées.
-
-Un avis portant ces indications à la connaissance des intéressés est affiché à
-la mairie des communes sur le territoire desquelles l'aménagement est projeté
-ainsi, le cas échéant, que de chacune des communes figurant sur la liste visée à
-l'article R. 121-20. Le même avis est inséré dans un journal diffusé dans le
-département. Ces mesures de publicité doivent intervenir au plus tard quinze
-jours avant l'ouverture de l'enquête.
-
-A l'issue de l'enquête, le commissaire enquêteur clôt le registre et, dans le
-délai de quinze jours, émet un avis motivé qu'il adresse avec l'ensemble du
-dossier au président de la commission communale d'aménagement foncier.
+Un avis portant ces indications est notifié à tous les propriétaires de terrains
+situés à l'intérieur du périmètre, figurant au 1er janvier de l'année dans la
+documentation cadastrale. Cet avis est affiché à la mairie des communes sur le
+territoire desquelles l'aménagement est projeté ainsi, le cas échéant, que de
+chacune des communes mentionnées à l'article R. 121-20-1.
