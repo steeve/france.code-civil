@@ -1,8 +1,9 @@
 Article R611-84
 ----
-Les dispositions du premier alinéa de l'article R. 47 et des articles R. 48, R.
-49, R. 52, R. 66, R. 67, à l'exception de son dernier alinéa, et R. 68 du code
-électoral sont applicables aux élections des administrateurs des caisses
-mutuelles régionales élus par les assurés, les attributions conférées par ces
-articles au président du bureau de vote et au bureau de vote étant exercées par
-le président de la commission de recensement et la commission de recensement.
+La caisse de base conclut une convention avec les organismes habilités auxquels
+elle entend confier le soin d'effectuer, pour son compte, les opérations
+mentionnées au premier alinéa de l'article L. 611-20.
+
+Une convention type peut être établie par arrêté conjoint du ministre chargé de
+la sécurité sociale et du ministre chargé du budget, pris après avis du conseil
+d'administration de la caisse nationale.

@@ -21,5 +21,5 @@ ou en établissant que l'affection, origine de l'interruption, a donné lieu aux
 examens prévus par l'article R. 615-69, dans des conditions permettant de
 déterminer la réalité, l'origine et l'effet de l'interruption des études.
 
-Dans tous les cas, le bénéficie du recul de limite d'âge ne peut être accordé
+Dans tous les cas, le bénéfice du recul de limite d'âge ne peut être accordé
 qu'après avis du service de contrôle médical.

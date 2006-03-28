@@ -1,7 +1,7 @@
 Article R611-40
 ----
 Dans les six jours qui suivent la dernière des deux dates mentionnées au dernier
-alinéa de l'article R. 611-39 toute personne mentionnée à l'article L. 611-30
+alinéa de l'article R. 611-39 toute personne mentionnée à l'article R. 611-30
 peut demander la rectification de la liste.
 
 Le même droit appartient aux directeurs régionaux des affaires sanitaires et

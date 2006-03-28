@@ -12,4 +12,4 @@ L'assuré peut demander une expertise comme à l'article précédent.
 
 La même mesure de suspension peut être prise si l'assuré ne se soumet pas aux
 visites médicales et aux contrôles qui doivent être organisés au moins tous les
-six mois par la caisse mutuelle régionale.
+six mois par la caisse de base.

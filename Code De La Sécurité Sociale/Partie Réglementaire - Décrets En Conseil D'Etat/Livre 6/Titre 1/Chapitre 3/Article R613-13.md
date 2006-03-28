@@ -7,7 +7,7 @@ appartiennent au groupe professionnel correspondant à leur activité principale
 définie selon les règles fixées ci-après :
 
 1°) si une personne bénéficie en même temps d'une pension ou rente acquise à
-titre personnel et d'un avantage de réversion , elle est réputée avoir exercé à
+titre personnel et d'un avantage de réversion, elle est réputée avoir exercé à
 titre principal l'activité qui lui a ouvert droit à l'avantage acquis à titre
 personnel ;
 

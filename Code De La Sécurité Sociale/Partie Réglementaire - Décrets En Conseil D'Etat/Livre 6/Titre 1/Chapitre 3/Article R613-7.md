@@ -5,7 +5,7 @@ avantages, pensions ou rentes d'invalidité ou de vieillesse servies en
 application soit de la réglementation applicable aux régimes spéciaux mentionnés
 à l'article L. 711-1 du présent code, soit du livre III, du titre II du présent
 livre ou des chapitres 1er et 3 du titre Ier du livre VIII du même code, soit
-des chapitres 2, 3-1 et 4 du titre II du livre VII code rural, son activité
+des chapitres 2, 3-1 et 4 du titre II du livre VII du code rural, son activité
 principale est déterminée comme suit :
 
 1°) si cette personne bénéficie en même temps d'une pension ou rente acquise à

@@ -2,10 +2,10 @@ Article R613-30
 ----
 Les assurés malades ou blessés de guerre, qui bénéficient au titre de la
 législation des pensions militaires d'une pension d'invalidité à un taux
-inférieur à 85 p. 100 continuent de recevoir personnellement les soins auxquels
-ils ont droit au titre des articles L. 115 à L. 118 du code des pensions
-militaires d'invalidité et des victimes de la guerre, suivant les prescriptions
-desdits articles.
+inférieur à 85 % continuent de recevoir personnellement les soins auxquels ils
+ont droit au titre des articles L. 115 à L. 118 du code des pensions militaires
+d'invalidité et des victimes de la guerre, suivant les prescriptions desdits
+articles.
 
 Pour les maladies, blessures ou infirmités non mentionnées par la législation
 sur les pensions militaires, ils jouissent ainsi que leurs ayants droit des
