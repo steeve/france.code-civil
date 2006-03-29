@@ -8,7 +8,10 @@ professionnels des artisans et des industriels et commerçants et des caisses de
 départements d'outre-mer élus par leur conseil d'administration à raison d'un
 représentant par caisse de base et de deux représentants au-delà de 150 000
 ressortissants conformément au tableau constituant l'annexe 1 du présent
-chapitre.
+chapitre ;
+
+2° Huit représentants des caisses de base du groupe des professions libérales
+élus par leurs conseils d'administration réunis.
 
 Siègent également au conseil avec voix consultative :
 

@@ -9,8 +9,8 @@ de la troisième classe le fait :
 
 A. - Par le détenteur de bovin :
 
-1° De contrevenir aux règles d'identification des bovins définies aux I et II de
-l'article R. 653-16 ;
+1° De contrevenir aux règles de déclaration ou aux règles d'identification des
+bovins définies aux I et II de l'article R. 653-16.
 
 2° De contrevenir aux règles de notification des naissances, déplacements et
 morts définies aux I et IV de l'article R. 653-16 ;
@@ -33,7 +33,10 @@ dans les conditions définies au VII de l'article R. 653-16 ;
 sur le passeport et le numéro national d'identification de l'animal, son sexe et
 son type racial, dans les conditions prévues au VIII de l'article R. 653-16 ;
 
-9° De ne pas remettre le passeport dans les cas énumérés à l'article R. 653-20.
+9° De ne pas remettre le passeport dans les cas énumérés à l'article R. 653-20 ;
+
+10° De ne pas respecter la restriction de mouvement prononcée par le préfet en
+application du IX de l'article R. 653-16.
 
 B. - Par l'exploitant d'abattoir, de ne pas transmettre le passeport ou le
 document d'accompagnement à l'agent mentionné au 1° de l'article R. 653-20, ou

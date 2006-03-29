@@ -1,9 +1,14 @@
 Article R572-1
 ----
-L'alinéa premier de l'article R. 521-2 est rédigé comme suit :
+I - Les dispositions du titre II du présent livre sont applicables à Mayotte
+sous réserve des dispositions du chapitre II.
 
-"Par arrêté du représentant de l'Etat, des dérogations relatives à la provenance
-des produits agricoles peuvent être accordées à titre temporaire aux
-coopératives et unions de coopératives mentionnées au a de l'article R. 521-1,
-lorsque des circonstances économiques exceptionnelles sont susceptibles de
-diminuer de plus de 50 % la capacité normale d'exploitation de ces sociétés".
+II - Lorsque les articles du titre II du présent livre étendus par le présent
+chapitre à Mayotte visent des dispositions du code de commerce, il convient de
+se référer aux dispositions du code de commerce qui ont été rendues applicables
+à cette collectivité.
+
+III - Pour l'application du titre II du livre V nouveau du code rural à Mayotte,
+il y a lieu de lire : "tribunal de première instance de Mamoudzou", au lieu de :
+"tribunal de commerce", "tribunal de grande instance" et "tribunal de grande
+instance statuant commercialement".

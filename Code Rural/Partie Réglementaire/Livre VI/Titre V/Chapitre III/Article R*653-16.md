@@ -1,54 +1,49 @@
 Article R*653-16
 ----
-I. - Tout détenteur de bovins est tenu d'identifier ou de faire identifier
-chaque animal né sur l'exploitation à la naissance ou au plus tard avant l'âge
-de sept jours et en tout état de cause avant sa sortie de l'exploitation, s'il
-la quitte avant cet âge.
+I. - Tout détenteur d'un ou de plusieurs bovins, à l'exclusion des transporteurs
+et des personnes responsables ou propriétaires de centres de rassemblement, et
+tout collecteur de cadavres de bovins, est tenu de se déclarer auprès de
+l'établissement départemental ou interdépartemental de l'élevage mentionné à
+l'article L. 653-11 afin que celui-ci l'enregistre et lui attribue un numéro
+national.
 
-L'identification comporte obligatoirement :
+Lorsque l'exploitation détient d'autres espèces animales, le même numéro
+national d'exploitation est utilisé pour l'ensemble des espèces animales qui s'y
+trouvent.
 
-1° L'apposition à chaque oreille de l'animal d'une marque auriculaire agréée
-comportant le numéro national d'identification de l'animal ;
+Tout détenteur d'un ou de plusieurs bovins est tenu d'identifier ou de faire
+identifier chaque animal né sur son exploitation d'élevage.
 
-2° L'inscription des données d'identification de l'animal sur le registre des
-bovins tenu sur l'exploitation ;
+Les animaux doivent être identifiés conformément aux dispositions du règlement
+n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000.
 
-3° La notification de la naissance et des données d'identification conformément
-au IV du présent article.
+II. - Tout animal provenant d'un Etat membre de l'Union européenne conserve sa
+marque auriculaire d'origine. Le détenteur doit demander un passeport pour ledit
+animal lorsque celui-ci n'est pas destiné à un séjour temporaire.
 
-Un arrêté du ministre chargé de l'agriculture précise les conditions
-d'application du présent article.
-
-II. - Tout détenteur de bovins est tenu de notifier l'introduction de chaque
-animal en provenance d'Etats membres de la Communauté européenne conformément au
-IV du présent article et de demander un passeport pour ledit animal dans les
-sept jours suivant cette notification.
-
-Tout détenteur de bovins est tenu de faire identifier chaque animal importé en
-provenance de pays tiers dans les sept jours suivant la notification de son
-introduction dans l'exploitation et, en tout cas, avant qu'il ne quitte
-l'exploitation.
-
-Un arrêté du ministre chargé de l'agriculture précise les conditions
-d'application du présent II.
+Tout animal importé de pays tiers, à l'exception de ceux accompagnés d'un
+certificat sanitaire relatif à l'importation d'animaux de boucherie, doit être
+réidentifié. Un passeport est édité pour ledit animal et le lien entre
+l'identification d'origine du pays tiers et l'identification apposée en France
+doit être consigné dans le registre des bovins tenu sur l'exploitation ainsi que
+dans la base de données prévue à l'article R. 653-15.
 
 III. - Tout détenteur de bovins, à l'exception des transporteurs, doit tenir à
 jour le registre des bovins défini au II de l'article R. 653-18 et complète le
 passeport conformément aux dispositions prévues au I de l'article R. 653-18.
 
-IV. - Tout détenteur de bovins, à l'exception des transporteurs, est tenu de
-notifier à l'établissement départemental ou interdépartemental de l'élevage
-mentionné à l'article R. 653-19, puis au gestionnaire de la base de données
-d'identification mentionnée à l'article R. 653-15, lorsque celle-ci aura été
-mise en place, dans les sept jours après l'événement, outre les naissances, tous
-les déplacements à destination et en provenance de l'exploitation et toutes les
-morts d'animaux, selon des modalités fixées par arrêté du ministre chargé de
-l'agriculture.
+IV. - Tout détenteur d'un ou de plusieurs bovins, à l'exception des
+transporteurs, est tenu de notifier, au gestionnaire de la base de données
+d'identification mentionnée à l'article R. 653-15 ou à l'établissement
+départemental ou interdépartemental de l'élevage mentionné à l'article R.
+653-19, les naissances, les déplacements à destination et en provenance de
+l'exploitation et les morts d'animaux conformément aux dispositions du règlement
+n° 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000.
 
 V. - Tout détenteur de bovins, quelle que soit la provenance de ceux-ci, est
 tenu de maintenir en permanence l'identification des bovins. A cet effet, il est
-tenu de signaler, dans les sept jours après la connaissance de l'événement, à
-l'établissement départemental ou interdépartemental de l'élevage :
+tenu de signaler, à l'établissement départemental ou interdépartemental de
+l'élevage :
 
 1° La perte d'une marque auriculaire portée par un animal ;
 
@@ -85,3 +80,15 @@ VIII. - Tout détenteur d'un bovin est tenu de s'assurer que le numéro national
 d'identification de l'animal, son sexe et son type racial correspondent aux
 mentions portées sur le passeport et de signaler les différences éventuelles à
 l'établissement départemental ou interdépartemental de l'élevage.
+
+IX. - Sans préjudice des dispositions de l'article L. 221-4, une restriction,
+partielle ou totale, des mouvements d'entrée et de sortie des animaux de
+l'exploitation peut être prononcée par le préfet en cas de non-respect des
+mesures prévues par le présent article.
+
+Un arrêté du ministre chargé de l'agriculture précise les conditions
+d'application du présent article, notamment les modalités d'enregistrement des
+détenteurs d'animaux et des exploitations, les modalités et les délais
+d'apposition des marques auriculaires, les modalités et les délais de
+notification des informations relatives aux animaux et à leurs mouvements et la
+notion de séjour temporaire.

@@ -20,6 +20,6 @@ l'évaluation administrative dans le délai de quinze jours suivant la date de s
 notification.
 
 Les organismes conventionnés, après s'être assurés que tous les renseignements
-nécessaires ont été fournis, font parvenir à la caisse mutuelle régionale, au
-fur et à mesure de leur réception, et au plus tard dans les quinze jours, les
+nécessaires ont été fournis, font parvenir à la caisse de base, au fur et à
+mesure de leur réception, et au plus tard dans les quinze jours, les
 déclarations reçues des assurés.

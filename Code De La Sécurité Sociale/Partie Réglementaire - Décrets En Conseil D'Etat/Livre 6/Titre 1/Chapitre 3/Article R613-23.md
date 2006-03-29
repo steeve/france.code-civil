@@ -13,7 +13,7 @@ Pour être valable, la dénonciation doit indiquer le nouvel organisme habilité
 choisi par l'assuré.
 
 Dans le cas d'une fusion d'organismes habilités, dans les conditions prévues à
-l'article R. 611-87 du présent code, ou dans le cas d'une adhésion à un
+l'article R. 613-88 du présent code, ou dans le cas d'une adhésion à un
 groupement de sociétés d'assurance conventionné par la caisse de base, les
 assurés concernés sont affiliés de plein droit à l'organisme résultant de la
 fusion ou au groupement auquel l'organisme a adhéré. Cette affiliation ne fait
