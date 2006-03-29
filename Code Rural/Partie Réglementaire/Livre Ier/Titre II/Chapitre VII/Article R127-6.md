@@ -1,18 +1,17 @@
 Article R127-6
 ----
 Les inscriptions d'hypothèques et privilèges prises avant la date de clôture des
-opérations ne conservent leur rang antérieur sur les immeubles attribués par la
-réorganisation foncière ou le remembrement que si elles sont renouvelées à la
+opérations ne conservent leur rang antérieur sur les immeubles attribués par les
+opérations mentionnées à l'article R. 127-1 que si elles sont renouvelées à la
 diligence des créanciers dans le délai de six mois à dater de la clôture des
 opérations.
 
 Ces dispositions s'appliquent à tous les immeubles grevés compris dans le
-périmètre de remembrement ou ayant fait l'objet d'échanges en cas de
-réorganisation foncière.
+périmètre de ces opérations.
 
 Le renouvellement, qui conserve l'hypothèque ou le privilège jusqu'à la date
-fixée par le créancier conformément à l'article 2154-1 du code civil, s'opère
-par le dépôt à la conservation des hypothèques de deux bordereaux signés et
+fixée par le créancier conformément à l'article 2435 du code civil, s'opère par
+le dépôt à la conservation des hypothèques de deux bordereaux signés et
 certifiés exactement collationnés contenant exclusivement, sous peine de rejet
 de la formalité :
 
@@ -20,7 +19,7 @@ de la formalité :
 décret n° 55-1350 du 14 octobre 1955 ;
 
 2° Une copie certifiée collationnée par le président de la commission communale
-de la notification faite en exécution de l'article R. 127-5 ;
+de la notification faite en exécution de l'article D. 127-5 ;
 
 3° Le nom et le domicile de la personne a qui le rejet doit éventuellement être
 notifié ;

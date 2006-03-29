@@ -8,4 +8,4 @@ départementale.
 
 Le même avis est adressé aux titulaires de droits réels révélés par les extraits
 complémentaires délivrés au président de la commission postérieurement à la date
-de la notification de l'ouverture de l'enquête prévue à l'article R. 123-12.
+de la notification de l'ouverture de l'enquête prévue à l'article R. 123-11.

@@ -1,6 +1,9 @@
 Article R123-39
 ----
-Les travaux d'aménagement foncier, en cas de réalisation d'ouvrages ou
-d'aménagements mentionnés à l'article 2 de la loi n° 76-629 du 10 juillet 1976
-relative à la protection de la nature et ne présentant pas un caractère
-linéaire, sont effectués conformément aux articles R. 123-40 à R. 123-42.
+En cas de réalisation d'ouvrages ou d'aménagements mentionnés à l'article L.
+123-24 ne présentant pas un caractère linéaire :
+
+1° L'emprise des ouvrages est exclue du périmètre d'aménagement foncier ;
+
+2° La superficie comprise à l'intérieur du périmètre d'aménagement foncier ne
+peut excéder vingt fois celle des terrains faisant l'objet de l'expropriation.

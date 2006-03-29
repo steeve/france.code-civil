@@ -1,5 +1,6 @@
 Article R127-13
 ----
-Toutes dépenses et tous frais nécessités pour l'exécution des articles R. 123-15
-et R. 127-1 à R. 127-12 sont compris dans les frais des opérations de
-réorganisation foncière et de remembrement.
+Toutes dépenses et tous frais nécessités pour l'exécution du présent chapitre
+sont compris dans les frais des opérations d'aménagement foncier mis à la charge
+du département en application des dispositions du premier alinéa de l'article L.
+121-15.

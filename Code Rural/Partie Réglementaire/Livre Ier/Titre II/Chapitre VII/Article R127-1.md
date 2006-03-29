@@ -1,8 +1,12 @@
 Article R127-1
 ----
-Les dispositions des articles R. 127-2 à R. 127-13 relatives à la publication
-des procès-verbaux et au transfert des droits réels autres que les servitudes
-s'appliquent aux immeubles échangés à l'issue des opérations de réorganisation
-foncière prévues par les articles L. 122-1 à L. 122-12 et aux immeubles
-remembrés en application des articles L. 123-1 à L. 123-35 et L. 126-4 à L.
-126-6.
+Les dispositions du présent chapitre relatives à la publication des
+procès-verbaux et au transfert des droits réels autres que les servitudes
+s'appliquent aux immeubles échangés à l'issue des opérations mentionnées aux 1°
+et 2° de l'article L. 121-1, à l'exception de celles mentionnées à l'article L.
+124-4.
+
+Les transferts de propriété et de droits réels résultant de ces opérations sont
+incorporés, aux frais du département, dans les documents hypothécaires et, en ce
+qui concerne les départements du Haut-Rhin, du Bas-Rhin et de la Moselle dans le
+livre foncier ainsi que dans les documents cadastraux.

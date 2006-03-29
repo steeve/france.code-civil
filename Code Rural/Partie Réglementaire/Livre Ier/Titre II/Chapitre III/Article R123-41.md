@@ -19,4 +19,4 @@ dispositions des articles L. 123-1 à L. 123-17, L. 126-1, L. 126-4, L. 126-5, L
 133-1 à L. 133-6 du code rural ; L. 512-1 à L. 512-7 du code forestier.
 
 Si la commission ne s'est pas prononcée dans le délai qui lui est imparti, elle
-est regardée comme ayant refusé les opérations d' aménagement foncier.
+est regardée comme ayant refusé les opérations d'aménagement foncier.

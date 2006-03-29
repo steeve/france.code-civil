@@ -1,25 +1,16 @@
 Article R123-30
 ----
-Les dispositions des articles R. 123-30 à R. 123-38 sont applicables en ce qui
-concerne la réalisation de grands ouvrages publics à caractère linéaire tels que
-routes, voies de chemin de fer, canaux de navigation ou d'irrigation et pouvant,
-au sens de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la
-protection de la nature, porter atteinte au milieu naturel.
+L'aménagement foncier lié à la réalisation d'un grand ouvrage public au sens de
+l'article L. 123-24 est soumis aux dispositions des sections 1 à 3 du présent
+chapitre sous réserve des dispositions de la présente sous-section.
 
-Le caractère linéaire d'un ouvrage ou partie d'ouvrage est constaté par la
-décision portant déclaration d'utilité publique.
+Le caractère linéaire, le cas échéant, d'un ouvrage ou partie d'ouvrage est
+constaté par la décision portant déclaration d'utilité publique. Cette décision
+mentionne expressément, s'il y a lieu, l'application des dispositions des
+articles L. 123-24 et L. 352-1 du code rural.
 
-Lorsque la réalisation d'un ouvrage à caractère linéaire est envisagée, les
-préfets des départements intéressés désignent, après avis des commissions
-départementales d'aménagement foncier, les communes dans lesquelles il y a lieu
-de constituer les commissions communales d'aménagement foncier en vue de
-l'application des dispositions des articles L. 123-24 à L. 123-26 et L. 133-1 à
-L. 133-6.
-
-L'arrêté d'ouverture de l'enquête publique prévue à l'article L. 11-1 du code de
-l'expropriation pour cause d'utilité publique est notifié au président du
-conseil général aux fins de réalisation de l'étude d'aménagement prévue à
-l'article L. 121-1 du présent code.
-
-Cette étude d'aménagement est transmise au plus tard dans les deux mois qui
-suivent la déclaration d'utilité publique.
+Lorsque la réalisation d'un ouvrage est envisagée, les conseils généraux des
+départements intéressés désignent, après avis des commissions départementales
+d'aménagement foncier, les communes dans lesquelles il y a lieu de constituer
+les commissions communales d'aménagement foncier en vue de l'application des
+dispositions des articles L. 123-24 à L. 123-26 et L. 133-1 à L. 133-7.

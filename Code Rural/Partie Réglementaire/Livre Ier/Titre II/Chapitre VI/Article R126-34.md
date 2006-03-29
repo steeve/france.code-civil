@@ -1,7 +1,7 @@
 Article R126-34
 ----
 Tout travail ou toute utilisation du sol de nature à détruire un élément protégé
-au titre de l'article L. 126-6 doit, préalablement à toute exécution, être
+au titre de l'article L. 126-3 doit, préalablement à toute exécution, être
 autorisé par le préfet. La demande d'autorisation qui précise l'implantation, la
 nature et les caractéristiques des végétaux concernés est accompagnée des pièces
 définies par arrêté du ministre de l'agriculture.
@@ -14,7 +14,5 @@ l'expiration de ce délai la commission ne s'est pas prononcée, son avis est
 réputé favorable.
 
 Le préfet statue sur la demande d'autorisation en tenant compte des intérêts
-mentionnés à l'article R. 126-33.
-
-Le silence gardé pendant plus de cinq mois par le préfet sur la demande vaut
-décision d'autorisation.
+mentionnés à l'article R. 126-33. Le silence gardé pendant plus de cinq mois à
+compter de la demande vaut décision d'autorisation.

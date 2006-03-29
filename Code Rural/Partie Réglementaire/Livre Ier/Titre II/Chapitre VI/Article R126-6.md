@@ -1,15 +1,14 @@
 Article R126-6
 ----
-Au vu de l'ensemble de ces propositions et avis, le préfet fixe par arrêté le ou
-les périmètres et les mesures d'interdiction et de réglementation des semis, des
-plantations et des replantations d'essences forestières qui y sont applicables.
+Au vu des résultats de l'enquête publique et des consultations mentionnées à
+l'article R. 126-5, le département fixe la délimitation des périmètres et les
+règlements qui s'y appliquent.
 
-Les interdictions de semis, de plantations et de replantations cessent de
-produire effet au terme de dix années à compter de la dernière en date des
-mesures de publicité prévues à l'alinéa suivant.
+La délibération est transmise à chaque commune intéressée en vue d'y être
+affichée pendant quinze jours au moins et tenue à la disposition du public. Elle
+fait l'objet d'un avis publié dans un journal local diffusé dans tout le
+département.
 
-L'arrêté du préfet est affiché, pendant quinze jours au moins, à la mairie de la
-commune intéressée et, le cas échéant, de chacune des communes limitrophes dont
-le territoire est concerné par ses dispositions. Il fait également l'objet d'une
-insertion au Recueil des actes administratifs de l'Etat dans le département
-ainsi que dans un journal diffusé dans le département.
+Les périmètres de réglementation des boisements sont reportés dans les plans
+locaux d'urbanisme dans les conditions prévues à l'article R. 123-19 du code de
+l'urbanisme.

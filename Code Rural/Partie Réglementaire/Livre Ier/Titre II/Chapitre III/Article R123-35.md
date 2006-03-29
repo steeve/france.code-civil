@@ -4,7 +4,7 @@ Lorsque l'emprise de l'ouvrage a été définitivement délimitée, conformémen
 dispositions du code de l'expropriation pour cause d'utilité publique, les
 prélèvements prévus par l'article R. 123-34 sont reportés sur cette emprise. Les
 terrains inclus dans celle-ci deviennent, lors du transfert de propriété
-mentionné à l'article L. 123-12, la propriété de l'association foncière ou, le
+mentionné à l'article L. 121-21, la propriété de l'association foncière ou, le
 cas échéant, en totalité ou partie, celle de la société d'aménagement foncier et
 d'établissement rural, des collectivités territoriales et de leurs groupements,
 ou de l'Etat. Ces terrains doivent être cédés au maître de l'ouvrage.
