@@ -1,9 +1,13 @@
 Article R4381-72
 ----
-Le délai prévu par le deuxième alinéa de l'article 24 de la loi n° 66-879 du 29
-novembre 1966 relative aux sociétés civiles professionnelles pour la cession des
-parts de l'associé décédé est fixé à un an à compter du décès de l'associé. Il
-peut être renouvelé par le préfet à la demande des ayants droit de l'associé
-décédé et avec le consentement de la société donné dans les conditions prévues
-pour la cession des parts sociales par le premier alinéa de l'article 19 de la
-loi précitée.
+La qualification de société civile professionnelle d'infirmiers ou d'infirmières
+ou de masseurs-kinésithérapeutes, à l'exclusion de toute autre, accompagne la
+raison sociale dans toute correspondance et tout document émanant de la société.
+Elle est complétée par la référence aux mentions portées aux 1° et 2° de
+l'article 72 du décret n° 84-406 du 30 mai 1984 relatif au registre du commerce
+et des sociétés.
+
+Dans les actes professionnels, chaque associé se présente sous son nom personnel
+et indique, en plus de son patronyme, la raison sociale de la société déterminée
+conformément aux dispositions de l'article 8 de loi n° 66-879 du 29 novembre
+1966 relative aux sociétés civiles professionnelles.

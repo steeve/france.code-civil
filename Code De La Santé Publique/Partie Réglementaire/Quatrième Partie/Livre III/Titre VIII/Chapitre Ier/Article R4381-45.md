@@ -1,5 +1,6 @@
 Article R4381-45
 ----
-Si les statuts sont établis par acte sous seing privé, il en est adressé autant
-d'originaux qu'il est nécessaire pour la remise d'un exemplaire à chaque associé
-et pour satisfaire aux dispositions de la présente section.
+Les copies ou extraits des procès-verbaux des délibérations des associés sont
+valablement certifiés conformes par un seul gérant. Au cours de la liquidation
+de la société, leur certification est valablement effectuée par un seul
+liquidateur.

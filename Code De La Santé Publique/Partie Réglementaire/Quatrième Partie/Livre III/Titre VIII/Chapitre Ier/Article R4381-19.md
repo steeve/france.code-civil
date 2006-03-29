@@ -1,11 +1,9 @@
 Article R4381-19
 ----
-Tous les trois ans, les présidents des universités habilitées à délivrer le
-certificat de capacité d'orthophoniste adressent au ministre chargé de
-l'enseignement supérieur un rapport sur :
+L'associé peut, à la condition d'en informer la société par lettre recommandée
+avec avis de réception, cesser l'activité professionnelle qu'il exerce au sein
+de cette société. Il respecte le délai fixé par les statuts sans que ce délai
+puisse excéder six mois à compter de la notification relative à la cessation
+d'activité.
 
-1° La capacité d'accueil des centres de formation concernés ;
-
-2° Les effectifs des candidats répartis selon leur niveau dans le déroulement
-des études, le taux de succès au certificat de capacité, la durée moyenne des
-études.
+Il avise de sa décision le préfet du département du siège social.

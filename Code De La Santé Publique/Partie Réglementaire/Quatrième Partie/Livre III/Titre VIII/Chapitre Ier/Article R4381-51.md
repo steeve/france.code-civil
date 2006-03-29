@@ -1,12 +1,12 @@
 Article R4381-51
 ----
-La demande d'immatriculation de la société au registre du commerce et des
-sociétés est établie dans les conditions prévues à l'article 11 du décret n°
-84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés, à
-l'exception des 8°, 9° et 10° de cet article.
+La rémunération servie aux parts représentant les apports prévus au 1° de
+l'article R. 4381-34 ne peut excéder le taux des avances sur titres de la Banque
+de France diminué de deux points. La rémunération des parts sociales
+représentant les autres apports prévus aux 2°, 3° et 4° de l'article R. 4381-34
+et des parts distribuées à la suite d'une augmentation de capital ne peut
+excéder le même taux majoré de deux points.
 
-Toutefois, la demande reproduit sans autre justification les extraits d'actes de
-naissance, les renseignements prévus au 1° de l'article R. 4381-46 complétés par
-les date et lieu de naissance de chacun des associés et la mention de leur
-nationalité. Elle indique également les nom et prénoms du gérant ou que tous les
-associés sont gérants.
+Le surplus des bénéfices, après constitution éventuelle de réserves, est réparti
+entre les associés selon des bases de répartition périodique fondées sur les
+critères professionnels fixés par les statuts.

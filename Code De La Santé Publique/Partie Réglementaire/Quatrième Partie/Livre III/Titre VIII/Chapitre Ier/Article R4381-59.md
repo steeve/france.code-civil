@@ -1,15 +1,9 @@
 Article R4381-59
 ----
-Chaque associé dispose d'un nombre de voix égal, quel que soit le nombre de
-parts qu'il possède.
-
-Toutefois, lorsque les associés n'exercent qu'à temps partiel, les statuts
-peuvent leur attribuer un nombre de voix réduit.
-
-Un associé peut donner mandat écrit à un autre associé de le représenter à
-l'assemblée. Un associé ne peut être porteur de plus de deux mandats.
-
-L'assemblée ne peut délibérer valablement que si les trois quarts au moins des
-associés sont présents ou représentés. Si le quorum n'est pas atteint, les
-associés sont convoqués une nouvelle fois et l'assemblée délibère valablement si
-deux associés au moins sont présents ou représentés.
+Le délai prévu par le deuxième alinéa de l'article 24 de la loi n° 66-879 du 29
+novembre 1966 relative aux sociétés civiles professionnelles pour la cession des
+parts de l'associé décédé est fixé à un an à compter du décès de l'associé. Il
+peut être renouvelé par le préfet à la demande des ayants droit de l'associé
+décédé et avec le consentement de la société donné dans les conditions prévues
+pour la cession des parts sociales par le premier alinéa de l'article 19 de la
+loi précitée.

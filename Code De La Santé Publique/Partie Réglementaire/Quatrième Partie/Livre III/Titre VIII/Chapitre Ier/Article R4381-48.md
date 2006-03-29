@@ -1,9 +1,8 @@
 Article R4381-48
 ----
-Les parts sociales ne peuvent être données en nantissement.
+Toute modification des statuts est décidée à la majorité des trois quarts des
+voix des associés présents ou représentés. L'adoption et la modification du
+règlement intérieur est décidée à la même majorité.
 
-Leur montant nominal ne peut être inférieur à 15 Euros.
-
-Les parts sociales correspondant aux apports en industrie sont incessibles et
-doivent être annulées lorsque leur titulaire perd sa qualité d'associé pour
-quelque cause que ce soit.
+Toutefois, l'augmentation des engagements des associés ne peut être décidée qu'à
+l'unanimité.

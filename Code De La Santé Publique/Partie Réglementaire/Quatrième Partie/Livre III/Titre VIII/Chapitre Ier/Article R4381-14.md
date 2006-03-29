@@ -1,8 +1,13 @@
 Article R4381-14
 ----
-Compte tenu de la capacité de formation des instituts de formation de la région
-agréés pour la préparation du diplôme d'Etat de masseur-kinésithérapeute, le
-préfet de région, en liaison avec les préfets de département, fixe par arrêté
-publié au recueil des actes administratifs de la région la répartition, entre
-les différents instituts de formation, de l'effectif fixé conformément aux
-dispositions de l'article R. 4381-13.
+Le quart au plus du capital d'une société d'exercice libéral mentionnée à
+l'article R. 4381-8 peut être détenu par une ou plusieurs personnes ne répondant
+pas aux conditions du premier alinéa ou des 1° et 5° de l'article 5 de la loi n°
+90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des
+professions libérales.
+
+Toutefois, lorsque la société d'exercice libéral est constituée sous la forme
+d'une société en commandite par actions, la quotité du capital détenue par des
+personnes autres que celles mentionnées à l'article 5 de la loi du 31 décembre
+1990 peut être supérieure à celle fixée à l'alinéa qui précède sans pouvoir
+cependant atteindre la moitié de ce capital.

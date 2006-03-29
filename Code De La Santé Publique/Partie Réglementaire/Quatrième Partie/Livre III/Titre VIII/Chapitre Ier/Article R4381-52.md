@@ -1,8 +1,8 @@
 Article R4381-52
 ----
-Les cabinets secondaires prévus à l'article R. 4381-88 ne sont pas soumis à
-l'inscription complémentaire ou à l'immatriculation secondaire prévues par les
-articles 9 et 20 du décret n° 84-406 du 30 mai 1984 relatif au registre du
-commerce et des sociétés. Ils sont toutefois considérés comme des établissements
-dont l'adresse est indiquée dans la demande d'immatriculation de la société,
-conformément aux dispositions du B de l'article 15 du même décret.
+Les parts sociales sont librement cessibles entre associés sauf disposition
+contraire des statuts.
+
+Elles ne peuvent être cédées à des tiers qu'avec le consentement de la société
+exprimé dans les conditions prévues à l'article 19 de la loi n° 66-879 du 29
+novembre 1966 relative aux sociétés civiles professionnelles.

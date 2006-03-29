@@ -1,11 +1,10 @@
 Article R4381-66
 ----
-Dans le cas où un associé décide de céder des parts à un tiers étranger à la
-société, le projet de cession des parts sociales est notifié à la société et à
-chacun des associés soit par lettre recommandée avec demande d'avis de
-réception, soit dans l'une des formes prévues à l'article 1690 du code civil.
+Si la constitution des réserves ou le dégagement de plus-values le permet, il
+est procédé périodiquement à l'augmentation du capital social. Les parts
+sociales ainsi créées sont attribuées aux associés y compris à ceux qui n'ont
+apporté que leur industrie, dans les conditions déterminées au deuxième alinéa
+de l'article R. 4381-51, pour la répartition des bénéfices.
 
-Dans le délai de deux mois à compter de la notification du projet de cession par
-le cédant à la société, la société notifie son consentement exprès à la cession
-ou son refus dans les formes prévues à l'alinéa précédent. Si la société n'a pas
-fait connaître sa décision, le consentement est implicitement donné.
+Cette augmentation de capital ne peut intervenir avant la libération totale des
+parts sociales correspondant à des apports en numéraire.

@@ -1,20 +1,9 @@
 Article R4383-16
 ----
-La durée de l'enseignement préparatoire au diplôme d'Etat de technicien en
-analyses biomédicales est fixée à trois ans.
+Sont fixées par arrêté du ministre chargé de la santé :
 
-Des arrêtés du ministre chargé de la santé fixent notamment :
+1° La composition des commissions régionales spécialisées mentionnées aux
+articles R. 4383-14 et R. 4383-15 ;
 
-1° Les conditions d'admission des élèves ;
-
-2° Les conditions dans lesquelles des dispenses de scolarité peuvent être
-accordées ;
-
-3° Le programme des études ;
-
-4° Les modalités d'évaluation des élèves en cours de formation ;
-
-5° La nature des épreuves sanctionnant les études ;
-
-6° Les conditions d'attribution, par équivalence, du diplôme d'Etat de
-laborantin d'analyses médicales à des personnes munies d'un autre titre.
+2° Les modalités de délivrance de l'attestation d'aptitude aux fonctions
+d'auxiliaire de puériculture.

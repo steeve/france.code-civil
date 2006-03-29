@@ -1,14 +1,23 @@
 Article R4381-9
 ----
-Au vu des rapports des préfets de région, le nombre maximum d'étudiants pouvant
-être admis, compte tenu des redoublants, en première année des études
-préparatoires au diplôme d'Etat d'infirmier et d'infirmière lors de la rentrée
-scolaire suivante est fixé pour chaque région, après avis de la commission des
-infirmiers et infirmières du Conseil supérieur des professions paramédicales,
-par arrêté du ministre chargé de la santé publié au Journal Officiel de la
-République française.
+Les actes et documents destinés aux tiers, notamment les lettres, factures,
+annonces et publications diverses, émanant d'une société mentionnée à l'article
+R. 4381-21 indiquent :
 
-Ce nombre est fixé compte tenu des besoins de la population à l'expiration de la
-période triennale suivante et de manière à réduire progressivement les
-inégalités constatées entre les différentes régions dans la satisfaction de ces
-besoins.
+1° Sa dénomination sociale, précédée ou suivie immédiatement, selon le cas :
+
+a) Soit de la mention "société d'exercice libéral à responsabilité limitée" ou
+de la mention "SELARL" ;
+
+b) Soit de la mention "société d'exercice libéral à forme anonyme" ou de la
+mention "SELAFA" ;
+
+c) Soit de la mention "société d'exercice libéral en commandite par actions" ou
+de la mention "SELCA" ;
+
+d) Soit de la mention "société d'exercice libéral par actions simplifiée" ou de
+la mention "SELAS" ;
+
+2° L'indication de la profession ;
+
+3° L'énonciation du montant de son capital social et de son siège social.

@@ -1,11 +1,9 @@
 Article R4381-44
 ----
-La radiation de l'inscription peut être prononcée par le préfet du département
-dans le cas où la société ne se conforme pas aux dispositions législatives ou
-réglementaires régissant les sociétés civiles professionnelles d'infirmiers ou
-d'infirmières ou de masseurs-kinésithérapeutes.
-
-La décision de radiation est motivée. Elle ne peut être prise qu'après que la
-société a été mise en mesure de présenter ses observations orales ou écrites.
-Elle est notifiée à la société par lettre recommandée avec demande d'avis de
-réception.
+Lorsque la décision des associés résulte de leur consentement exprimé dans un
+acte, cette décision est mentionnée à sa date, dans le registre prévu à
+l'article R. 4381-43. La mention dans le registre contient obligatoirement
+l'indication de la forme, de la nature de l'objet et des signataires de l'acte.
+L'acte lui-même, s'il est sous seing privé ou sa copie authentique, s'il est
+notarié, est conservé par la société de manière à permettre sa consultation en
+même temps que le registre des délibérations.

@@ -1,9 +1,11 @@
 Article R4381-42
 ----
-Avant son inscription, la société est tenue de communiquer au préfet une
-attestation du greffier du tribunal de commerce du lieu du siège social ou du
-tribunal de grande instance statuant commercialement. Cette attestation constate
-le dépôt au greffe de la demande et des pièces et actes nécessaires à
-l'immatriculation ultérieure de la société au registre du commerce et des
-sociétés, dans les conditions définies par la réglementation relative à ce
-registre et par les articles R. 4381-50 à R. 4381-52.
+Les décisions qui excèdent les pouvoirs des gérants sont prises par les associés
+réunis en assemblée. Elles ne peuvent résulter d'une consultation écrite des
+associés.
+
+L'assemblée est réunie au moins une fois par an. Elle est également réunie sur
+la demande présentée par un ou plusieurs associés représentant au moins la
+moitié en nombre de ceux-ci, la demande devant indiquer l'ordre du jour proposé.
+
+Les modalités de convocation de l'assemblée sont fixées par les statuts.

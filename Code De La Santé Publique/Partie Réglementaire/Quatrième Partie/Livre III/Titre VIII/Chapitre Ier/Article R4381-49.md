@@ -1,17 +1,14 @@
 Article R4381-49
 ----
-Les parts sociales correspondant à des apports en numéraire sont, lors de la
-souscription, libérées de la moitié au moins de leur valeur nominale.
+Après clôture de chaque exercice, le ou les gérants établissent, dans les
+conditions fixées par les statuts, les comptes annuels de la société, un rapport
+sur les résultats de l'exercice ainsi que des propositions relatives à leur
+affectation.
 
-La libération du surplus intervient en une ou plusieurs fois, soit aux dates
-prévues par les statuts, soit sur décision de l'assemblée des associés et au
-plus tard dans le délai de deux ans à compter de l'inscription de la société.
+Dans les trois mois qui suivent la clôture de l'exercice, les documents
+mentionnés à l'alinéa précédent sont soumis à l'approbation de l'assemblée des
+associés.
 
-Dans les huit jours de leur réception, les fonds provenant des souscriptions en
-numéraire sont déposés, pour le compte de la société, à la caisse des dépôts et
-consignations, chez un notaire ou dans une banque.
-
-Le retrait des fonds provenant de souscription en numéraire est effectué par un
-mandataire de la société sur la seule justification de l'inscription de la
-société, sur la liste des sociétés civiles professionnelles d'infirmiers ou
-d'infirmières ou de masseurs-kinésithérapeutes.
+A cette fin, ils sont adressés à chacun des associés, qu'ils soient ou non
+gérants, avec le texte des résolutions proposées, quinze jours au moins avant la
+réunion de l'assemblée et, au plus tard, avec la convocation à cette assemblée.

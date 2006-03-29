@@ -1,14 +1,15 @@
 Article R4381-62
 ----
-Après clôture de chaque exercice, le ou les gérants établissent, dans les
-conditions fixées par les statuts, les comptes annuels de la société, un rapport
-sur les résultats de l'exercice ainsi que des propositions relatives à leur
-affectation.
+Lorsque, à l'expiration du délai prévu à l'article R. 4381-59, les ayants droit
+de l'associé décédé n'ont pas exercé la faculté de céder les parts sociales de
+leur auteur et si aucun consentement préalable à l'attribution préférentielle
+n'a été donné par la société, celle-ci dispose d'une année pour acquérir, dans
+les conditions prévues à l'article R. 4381-54, les parts sociales de l'associé
+décédé.
 
-Dans les trois mois qui suivent la clôture de l'exercice, les documents
-mentionnés à l'alinéa précédent sont soumis à l'approbation de l'assemblée des
-associés.
+Si les parts sociales sont cédées à un tiers, les dispositions du deuxième
+alinéa des articles R. 4381-52 et R. 4381-53 et de l'article R. 4381-54 sont
+applicables.
 
-A cette fin, ils sont adressés à chacun des associés, qu'ils soient ou non
-gérants, avec le texte des résolutions proposées, quinze jours au moins avant la
-réunion de l'assemblée et, au plus tard, avec la convocation à cette assemblée.
+Si elles sont acquises par la société, par les associés ou par certains d'entre
+eux, il est procédé conformément aux dispositions de l'article R. 4381-54.

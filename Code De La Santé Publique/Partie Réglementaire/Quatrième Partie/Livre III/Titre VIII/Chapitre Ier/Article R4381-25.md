@@ -1,10 +1,12 @@
 Article R4381-25
 ----
-L'agrément est refusé si la demande n'est pas conforme aux conditions énoncées à
-l'article R. 4381-23 ou si les statuts ne sont pas conformes aux dispositions
-législatives et réglementaires en vigueur.
+Les sociétés régies par la présente section ont pour objet l'exercice en commun
+de la profession d'infirmier ou d'infirmière ou de masseur-kinésithérapeute.
 
-La décision de refus d'inscription est motivée. Elle est notifiée, par lettre
-recommandée avec demande d'avis de réception, à chacun des intéressés. Elle ne
-peut être prise qu'après que les intéressés ont été appelés à présenter toutes
-observations orales ou écrites.
+Ces sociétés reçoivent la dénomination de sociétés civiles professionnelles
+d'infirmiers ou d'infirmières ou de masseurs-kinésithérapeutes.
+
+La responsabilité de chaque associé à l'égard de la personne qui se confie à lui
+demeure personnelle et entière, sans préjudice de l'application de l'article 16
+de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles
+professionnelles.

@@ -1,10 +1,8 @@
 Article R4381-88
 ----
-Les membres d'une société civile professionnelle ont une résidence
-professionnelle commune.
-
-Toutefois, la société peut être autorisée par le préfet à exercer dans un ou
-plusieurs cabinets secondaires si la satisfaction des besoins des malades
-l'exige et à condition que la situation de chaque cabinet secondaire par rapport
-au cabinet principal ainsi que l'organisation des soins dans ce ou ces cabinets
-permettent de répondre aux urgences.
+Dans les cas prévus par le deuxième alinéa de l'article 37 de la loi n° 66-879
+du 29 novembre 1966 relative aux sociétés civiles professionnelles concernant
+les sociétés adoptant le statut de sociétés coopératives, l'actif net de la
+société subsistant après extinction du passif et le remboursement du capital est
+réparti entre les associés au prorata des parts détenues par chacun d'eux, y
+compris les parts correspondant aux apports en industrie.

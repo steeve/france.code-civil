@@ -1,8 +1,6 @@
 Article R4381-61
 ----
-Toute modification des statuts est décidée à la majorité des trois quarts des
-voix des associés présents ou représentés. L'adoption et la modification du
-règlement intérieur est décidée à la même majorité.
-
-Toutefois, l'augmentation des engagements des associés ne peut être décidée qu'à
-l'unanimité.
+Toute demande d'un ou de plusieurs ayants droit d'un associé décédé tendant à
+l'attribution préférentielle à leur profit des parts sociales de leur auteur est
+notifiée à la société et à chacun des associés dans l'une des formes prévues au
+premier alinéa de l'article R. 4381-53.

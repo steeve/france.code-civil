@@ -5,13 +5,10 @@ anesthésiste est de deux années.
 
 Sont fixés par arrêté du ministre chargé de la santé :
 
-1° Les conditions d'autorisation et de fonctionnement des instituts de formation
-;
+1° Les conditions d'admission des étudiants ;
 
-2° Les conditions d'admission des étudiants ;
+2° Le programme et l'organisation des études ;
 
-3° Le programme et l'organisation des études ;
+3° Les modalités d'attribution des dispenses d'études ;
 
-4° Les modalités d'attribution des dispenses d'études ;
-
-5° Les conditions de délivrance du diplôme.
+4° Les conditions de délivrance du diplôme.

@@ -1,12 +1,12 @@
 Article R4381-38
 ----
-Les sociétés régies par la présente section ont pour objet l'exercice en commun
-de la profession d'infirmier ou d'infirmière ou de masseur-kinésithérapeute.
+La demande d'immatriculation de la société au registre du commerce et des
+sociétés est établie dans les conditions prévues à l'article 11 du décret n°
+84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés, à
+l'exception des 8°, 9° et 10° de cet article.
 
-Ces sociétés reçoivent la dénomination de sociétés civiles professionnelles
-d'infirmiers ou d'infirmières ou de masseurs-kinésithérapeutes.
-
-La responsabilité de chaque associé à l'égard de la personne qui se confie à lui
-demeure personnelle et entière, sans préjudice de l'application de l'article 16
-de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles
-professionnelles.
+Toutefois, la demande reproduit sans autre justification les extraits d'actes de
+naissance, les renseignements prévus au 1° de l'article R. 4381-33 complétés par
+les date et lieu de naissance de chacun des associés et la mention de leur
+nationalité. Elle indique également les nom et prénoms du gérant ou que tous les
+associés sont gérants.

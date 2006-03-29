@@ -1,6 +1,9 @@
 Article R4383-3
 ----
-Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre
-Etat partie à l'accord sur l'Espace économique européen, titulaires d'une
-attestation d'aptitude aux fonctions d'aide-soignant, bénéficient des mêmes
-droits que les titulaires du diplôme professionnel d'aide-soignant.
+Le silence gardé pendant plus de quatre mois à compter de la réception du
+dossier complet de la demande d'autorisation d'un institut ou d'une école de
+formation vaut décision de rejet.
+
+L'autorisation prévue à l'article R. 4383-2 peut être retirée, après mise en
+demeure et par décision motivée lorsque les conditions fixées audit article ne
+sont plus remplies.

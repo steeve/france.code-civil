@@ -1,8 +1,6 @@
 Article D4321-18
 ----
-Sont fixées, après avis de la commission des masseurs-kinésithérapeutes du
-Conseil supérieur des professions paramédicales, par arrêté du ministre chargé
-de la santé :
+Sont fixées par arrêté du ministre chargé de la santé :
 
 1° Les conditions d'accès des candidats aux études conduisant au diplôme d'Etat
 ;

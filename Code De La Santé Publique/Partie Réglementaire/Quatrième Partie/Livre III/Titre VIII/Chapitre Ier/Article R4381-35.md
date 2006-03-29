@@ -1,6 +1,9 @@
 Article R4381-35
 ----
-Toute décision prise par une caisse d'assurance maladie de placer hors
-convention la société ou un associé exerçant sa profession en son sein, ou
-constatant que la société s'est placée hors convention, est notifiée à la
-société ainsi qu'à chacun des associés.
+Les parts sociales ne peuvent être données en nantissement.
+
+Leur montant nominal ne peut être inférieur à 15 euros.
+
+Les parts sociales correspondant aux apports en industrie sont incessibles et
+doivent être annulées lorsque leur titulaire perd sa qualité d'associé pour
+quelque cause que ce soit.

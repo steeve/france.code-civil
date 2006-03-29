@@ -1,10 +1,17 @@
 Article R4381-79
 ----
-Si la constitution des réserves ou le dégagement de plus-values le permet, il
-est procédé périodiquement à l'augmentation du capital social. Les parts
-sociales ainsi créées sont attribuées aux associés y compris à ceux qui n'ont
-apporté que leur industrie, dans les conditions déterminées au deuxième alinéa
-de l'article R. 4381-64, pour la répartition des bénéfices.
+L'associé frappé d'une mesure comportant suspension ou interdiction temporaire
+d'exercice peut être contraint de se retirer de la société par décision prise à
+la majorité renforcée prévue par les statuts, calculée en excluant les associés
+ayant fait l'objet d'une sanction pour les mêmes faits ou pour des faits
+connexes. Dans le cas où l'exclusion n'est pas prononcée, l'intéressé conserve
+la qualité d'associé, mais sa participation aux bénéfices résultant de
+l'application du deuxième alinéa de l'article R. 4381-51 est réduite au prorata
+de la durée de la période de suspension.
 
-Cette augmentation de capital ne peut intervenir avant la libération totale des
-parts sociales correspondant à des apports en numéraire.
+L'associé qui n'est plus inscrit sur la liste préfectorale ou qui a été exclu de
+la société conformément aux dispositions de l'alinéa précédent cède ses parts
+dans les conditions prévues à l'article R. 4381-57. A compter du jour où il
+n'est plus inscrit sur la liste ou du jour de la décision d'exclusion prise par
+les autres associés, il perd les droits attachés à la qualité d'associé, à
+l'exception des rémunérations afférentes à ses apports en capital.

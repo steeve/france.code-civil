@@ -1,16 +1,12 @@
 Article R4381-43
 ----
-L'inscription ne peut être refusée que si les statuts déposés ne sont pas
-conformes aux dispositions législatives et réglementaires régissant les sociétés
-civiles professionnelles et l'exercice de la profession ou si l'attestation
-prévue à l'article R. 4381-42 n'a pas été communiquée au préfet.
+Toute délibération de l'assemblée donne lieu à l'établissement d'un
+procès-verbal signé par les associés présents et contenant notamment la date et
+le lieu de la réunion, les questions écrites à l'ordre du jour, l'identité des
+associés présents ou représentés, un résumé des débats, le texte des résolutions
+mises aux voix et le résultat des votes.
 
-La décision de refus d'inscription est motivée. Elle est notifiée aux demandeurs
-par lettre recommandée avec demande d'avis de réception.
-
-Si l'inscription est prononcée, notification en est faite à chacun des associés.
-
-La société avise de son inscription, sans délai, les organismes d'assurance
-maladie du régime général, de la mutualité sociale agricole et du régime des
-travailleurs non salariés des professions non agricoles ayant compétence dans le
-département.
+Les procès-verbaux sont établis sur un registre spécial préalablement coté et
+paraphé par le préfet du département, par le secrétaire-greffier du tribunal
+d'instance dans le ressort duquel la société a son siège ou par le maire ou un
+adjoint au maire de la commune du siège de la société.

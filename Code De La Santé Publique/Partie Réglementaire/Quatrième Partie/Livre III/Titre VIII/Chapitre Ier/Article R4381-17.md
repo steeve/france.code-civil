@@ -1,7 +1,7 @@
 Article R4381-17
 ----
-Tous les trois ans, le préfet de région adresse au ministre chargé de la santé
-un rapport établi en liaison avec les préfets de département sur la situation de
-l'emploi et de l'activité des orthophonistes ainsi que sur les besoins
-prévisibles dans la région au cours des cinq années suivantes. Ce rapport est
-éventuellement mis à jour chaque année.
+En cas d'interdiction temporaire d'exercer ou de dispenser des soins aux assurés
+sociaux, sauf à être exclu par les autres associés dans les conditions prévues à
+l'article R. 4381-16, l'intéressé conserve ses droits et obligations d'associé,
+à l'exclusion de la rémunération liée à l'exercice de son activité
+professionnelle.

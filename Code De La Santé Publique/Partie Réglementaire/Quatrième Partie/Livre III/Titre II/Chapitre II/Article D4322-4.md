@@ -1,10 +1,8 @@
 Article D4322-4
 ----
-Le préfet de département peut, après avis de la commission des
-pédicures-podologues du Conseil supérieur des professions paramédicales,
-dispenser les personnes dont les titres ou qualités sont reconnus valables de
-tout ou partie des enseignements, des stages cliniques et, éventuellement, du ou
-des examens de passage.
+Le préfet de département peut dispenser les personnes dont les titres ou
+qualités sont reconnus valables de tout ou partie des enseignements, des stages
+cliniques et, éventuellement, du ou des examens de passage.
 
 Dans la limite d'un quota fixé par arrêté du ministre chargé de la santé, sont
 dispensés de la première année d'études et peuvent s'inscrire en deuxième année,

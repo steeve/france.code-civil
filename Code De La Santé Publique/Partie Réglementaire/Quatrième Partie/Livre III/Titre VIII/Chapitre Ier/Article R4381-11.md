@@ -1,7 +1,6 @@
 Article R4381-11
 ----
-Tous les trois ans, le préfet de région adresse au ministre chargé de la santé
-un rapport établi en liaison avec les préfets de département sur la situation de
-l'emploi et de l'activité des masseurs-kinésithérapeutes et sur les besoins
-prévisibles au cours des cinq années suivantes. Ce rapport est éventuellement
-mis à jour chaque année.
+La décision d'agrément est notifiée par lettre recommandée avec demande d'avis
+de réception à chacun des intéressés et aux organismes d'assurance maladie du
+régime général, de la mutualité sociale agricole et du régime des travailleurs
+non salariés des professions non agricoles ayant compétence dans le département.

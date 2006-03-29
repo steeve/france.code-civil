@@ -1,11 +1,10 @@
 Article R4381-60
 ----
-En dehors des cas prévus par l'article 19 de la loi n° 66-879 du 29 novembre
-1966 relative aux sociétés civiles professionnelles et par les articles R.
-4381-61, R. 4381-65, R. 4381-92 et R. 4381-93 imposant des conditions spéciales
-de majorité, les décisions sont prises à la majorité des voix dont disposent les
-associés présents ou représentés.
-
-Dans tous les cas, les statuts peuvent prévoir une majorité plus forte ou même
-l'unanimité des associés pour toutes les décisions ou seulement pour celles
-qu'ils énumèrent.
+Si pendant le délai prévu à l'article R. 4381-59 le ou les ayants droit décident
+de céder les parts sociales de leur auteur à un tiers étranger à la société, il
+est procédé, conformément aux dispositions du deuxième alinéa de l'article R.
+4381-52 ainsi que des articles R. 4381-53 et R. 4381-54. Pendant le même délai,
+si la société, les associés survivants ou un ou plusieurs de ceux-ci acceptent,
+en accord avec le ou les ayants droit de l'infirmier, de l'infirmière ou du
+masseur-kinésithérapeute décédé, d'acquérir les parts sociales de celui-ci ou de
+celle-ci, il est procédé conformément aux dispositions de l'article R. 4381-54.

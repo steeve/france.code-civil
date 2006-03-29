@@ -1,5 +1,5 @@
 Article R4381-86
 ----
-Un associé ne peut exercer sa profession à titre individuel sous forme libérale,
-sauf gratuitement, ni être membre d'une autre société civile professionnelle
-dont les membres exercent la même profession.
+En aucun cas, les fonctions de liquidateur ne peuvent être confiées à une
+personne contre laquelle l'incapacité absolue, l'interdiction d'exercice ou la
+suspension temporaire a été prononcée.

@@ -1,6 +1,7 @@
 Article R4383-13
 ----
-Le certificat de capacité d'ambulancier est délivré aux personnes qui ont subi
-avec succès les épreuves de contrôle de connaissances organisées par arrêté du
-ministre chargé de la santé, à la suite d'un enseignement délivré par un
-établissement autorisé.
+Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen, titulaires d'une
+attestation d'aptitude aux fonctions d'auxiliaire de puériculture, bénéficient
+des mêmes droits que les titulaires du diplôme professionnel d'auxiliaire de
+puériculture.

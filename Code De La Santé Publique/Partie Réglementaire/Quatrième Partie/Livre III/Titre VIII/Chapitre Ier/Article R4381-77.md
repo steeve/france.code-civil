@@ -1,3 +1,3 @@
 Article R4381-77
 ----
-Dans le délai d'un mois le cessionnaire informe le préfet de la cession.
+Tous les registres et documents sont ouverts et établis au nom de la société.

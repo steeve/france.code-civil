@@ -1,6 +1,6 @@
 Article R4381-58
 ----
-Les copies ou extraits des procès-verbaux des délibérations des associés sont
-valablement certifiés conformes par un seul gérant. Au cours de la liquidation
-de la société, leur certification est valablement effectuée par un seul
-liquidateur.
+Sous réserve des règles de protection et de représentation des majeurs protégés,
+les dispositions de l'article R. 4381-57 sont applicables à la cession des parts
+sociales de l'associé frappé d'interdiction légale ou placé sous le régime de la
+tutelle des majeurs.
