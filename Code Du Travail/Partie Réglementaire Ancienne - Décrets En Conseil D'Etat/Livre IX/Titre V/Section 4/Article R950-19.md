@@ -9,10 +9,7 @@ référence, calculé selon les modalités prévues à l'article R. 950-1 ;
 2° Le montant des rémunérations versées aux salariés pendant l'année en cours,
 telles qu'elles sont définies au premier alinéa de l'article L. 951-1 ;
 
-3° Le montant brut de la contribution incombant à l'employeur et, en cas de
-franchissement du seuil de dix salariés, le cas échéant, le montant net de cette
-contribution, conformément aux dispositions de l'article 235 ter EA du code
-général des impôts ;
+3° Le taux et le montant de l'obligation incombant à l'employeur ;
 
 4° Le montant des dépenses exposées en application des articles L. 951-1 à L.
 951-7 ;
@@ -42,9 +39,10 @@ l'article L. 900-2 ;
 d) Le montant total des allocations de formation définies à l'article L. 932-1
 et versées par l'employeur au cours de l'année ;
 
-e) Les versements effectués à des organismes collecteurs paritaires agréés par
-l'Etat, en application de l'article L. 933-5 et des troisième et quatrième
-alinéas de l'article L. 951-1 ;
+e) Le montant total des versements effectués à des organismes collecteurs
+paritaires agréés par l'Etat, au titre des contrats et périodes de
+professionnalisation ainsi que du droit individuel à la formation, au titre du
+congé individuel de formation et en application de l'article L. 933-5 ;
 
 f) Les versements effectués à des organismes collecteurs paritaires agréés par
 l'Etat, en application du septième alinéa de l'article L. 951-1 ;
@@ -62,10 +60,10 @@ l'Etat ;
 7° Eventuellement, le montant restant à reporter au titre des dépenses
 effectuées au cours des trois années précédentes ;
 
-8° Le montant de la contribution due au titre des périodes et contrats de
-professionnalisation ainsi que du droit individuel à la formation d'une part, et
-au titre du congé individuel de formation d'autre part, ainsi que le montant de
-l'utilisation de chacune de ces contributions ;
+8° Le taux et le montant de la contribution due au titre des périodes et
+contrats de professionnalisation ainsi que du droit individuel à la formation
+d'une part, et au titre du congé individuel de formation d'autre part, ainsi que
+le montant de l'utilisation de chacune de ces contributions ;
 
 9° Les données relatives à l'assiette des rémunérations servies aux salariés
 sous contrat à durée déterminée, le montant de l'obligation de financement de

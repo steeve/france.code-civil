@@ -6,6 +6,5 @@ et au plus tard quarante heures après le début du stage.
 Le directeur de l'organisme de formation a à sa charge l'organisation du
 scrutin, dont il assure le bon déroulement.
 
-Il adresse un procès-verbal de carence, transmis au préfet de région
-territorialement compétent, lorsque la représentation des stagiaires ne peut
-être assurée.
+Lorsque la représentation des stagiaires ne peut être assurée, le directeur
+dresse un procès-verbal de carence.

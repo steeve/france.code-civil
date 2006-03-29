@@ -4,7 +4,7 @@ Lorsque du fait du crédit de réduction de peine et, le cas échéant, des
 réductions de peine supplémentaires octroyées par le juge de l'application des
 peines, il ne reste plus pour le condamné de reliquat de peine à exécuter,
 l'information prévue par le dernier alinéa de l'article 721 et par l'article D.
-115-16 est faite par le juge de l'application des peines ou, sur instruction de
+115-18 est faite par le juge de l'application des peines ou, sur instruction de
 ce dernier, par le service pénitentiaire d'insertion et de probation. Cette
 information peut également être adressée au condamné par lettre recommandée.
 

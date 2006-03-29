@@ -18,5 +18,8 @@ de contrôle et veille au respect des obligations imposées aux condamnés à
 l'emprisonnement avec sursis avec mise à l'épreuve, à un suivi socio-judiciaire
 ou à un travail d'intérêt général, aux personnes faisant l'objet d'une mesure
 d'ajournement de peine avec mise à l'épreuve, aux libérés conditionnels, aux
-interdits de séjour et aux personnes visées à l'article L. 51 du code du service
-national.
+condamnés placés sous surveillance judiciaire ou faisant l'objet d'une réduction
+de peine conditionnelle, d'une suspension de peine, d'une semi-liberté, d'un
+placement extérieur, d'un placement sous surveillance électronique ou d'un
+placement sous surveillance électronique mobile, aux interdits de séjour et aux
+personnes visées à l'article L. 51 du code du service national.

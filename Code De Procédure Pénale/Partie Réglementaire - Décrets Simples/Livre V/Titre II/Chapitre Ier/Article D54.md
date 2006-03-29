@@ -1,329 +1,349 @@
 Article D54
 ----
 Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les
-accusés ressortissant aux cours d'assises du Gers et de la Haute-Savoie sont
-retenus respectivement à la maison d'arrêt d'Agen et à la maison d'arrêt de
-Bonneville.
+accusés ressortissant aux cours d'assises du Gers, de la Haute-Savoie et de
+Seine-et-Marne sont retenus respectivement à la maison d'arrêt d'Agen, à la
+maison d'arrêt de Bonneville et au quartier maison d'arrêt du centre
+pénitentiaire de Meaux-Chauconin-Neufmontiers ou à la maison d'arrêt de
+Fleury-Mérogis.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison
 d'arrêt est fixée conformément au tableau ci-dessous, qui détermine en outre la
 ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à
 ces juridictions.
 
-I- COURS D'APPEL
+COURS D'APPEL
 
 
-II- JURIDICTIONS
+JURIDICTIONS
 
-III- PRISONS DE RATTACHEMENT
+PRISONS DE RATTACHEMENT
 
 
-I- Agen
+Agen
 
-II- Auch
+Auch
 
-III- Agen.
 
+Agen
 
-II- Marmande
+Marmande
 
-III- Agen.
 
+Agen
 
-I- Aix-en-Provence
+Aix-en-Provence
 
-II- Tarascon
 
-III- Avignon - Le Pontet.
+Tarascon
 
+Avignon - Le Pontet
 
-I- Amiens
 
-II- Abbeville
+Amiens
 
-III- Amiens.
+Abbeville
 
 
-II- Péronne
+Amiens
 
-III- Amiens.
+Péronne
 
 
-II- Saint-Quentin
+Amiens
 
-III- Laon.
+Saint-Quentin
 
 
-II- Senlis
+Laon
 
-III- Liancourt.
+Senlis
 
 
-II- Soissons
+Liancourt
 
-III- Laon.
+Soissons
 
 
-I- Angers
+Laon
 
-II- Saumur
+Angers
 
-III- Angers.
 
+Saumur
 
-I- Besançon
+Angers
 
-II- Dole
 
-III- Besançon.
+Besançon
 
+Dole
 
-I- Bordeaux
 
-II- Bergerac
+Besançon
 
-III- Périgueux.
+Bordeaux
 
 
-II- Libourne
+Bergerac
 
-III- Bordeaux-Gradignan.
+Périgueux
 
 
-I- Caen
+Libourne
 
-II- Argentan
+Bordeaux-Gradignan
 
-III- Alençon et Caen.
 
+Caen
 
-II- Avranches
+Argentan
 
-III- Saint-Malo et Coutances.
 
+Alençon et Caen
 
-II- Lisieux
+Avranches
 
-III- Caen.
 
+Saint-Malo et Coutances
 
-I- Chambéry
+Lisieux
 
-II- Anneçy
 
-III- Bonneville.
+Caen
 
+Chambéry
 
-II- Thonon-les-Bains
 
-III- Bonneville.
+Annecy
 
+Bonneville
 
-I- Colmar
 
-II- Saverne
+Thonon-les-Bains
 
-III- Strasbourg.
+Bonneville
 
 
-I- Dijon
+Colmar
 
-II- Mâcon
+Saverne
 
-III- Varennes-le-Grand.
 
+Strasbourg
 
-I- Douai
+Dijon
 
-II- Boulogne-sur-Mer
 
-III- Longuenesse.
+Mâcon
 
+Varennes-le-Grand
 
-II- Cambrai
 
-III- Douai.
+Douai
 
+Boulogne-sur-Mer
 
-II- Hazebrouck
 
-III- Longuenesse.
+Longuenesse
 
+Cambrai
 
-I- Grenoble
 
-II- Bourgoin-Jallieu
+Douai
 
-III- Saint-Quentin-Fallavier.
+Hazebrouck
 
 
-I- Limoges
+Longuenesse
 
-II- Brive-la-Gaillarde
+Grenoble
 
-III- Tulle.
 
+Bourgoin-Jallieu
 
-I- Lyon
+Saint-Quentin-Fallavier
 
-II- Belley
 
-III- Chambéry.
+Limoges
 
+Brive-la-Gaillarde
 
-II- Montbrizon
 
-III- Saint-Etienne - La Talaudière.
+Tulle
 
+Lyon
 
-II- Roanne
 
-III- Villefranche-sur-Saône et Saint-Etienne - La Talaudière.
+Belley
 
+Chambéry
 
-I- Metz
 
-II- Thionville
+Montbrizon
 
-III- Metz.
+Saint-Etienne - La Talaudière
 
 
-I- Montpellier
+Roanne
 
-II- Narbonne
+Villefranche-sur-Saône et Saint-Etienne - La Talaudière
 
-III- Carcassonne.
 
+Metz
 
-II- Millau
+Thionville
 
-III- Rodez.
 
+Metz
 
-I- Nancy
+Montpellier
 
-II- Briey
 
-III- Metz.
+Narbonne
 
+Carcassonne
 
-II- Saint-Dié
 
-III- Epinal.
+Millau
 
+Rodez
 
-II- Verdun
 
-III- Bar-le-Duc.
+Nancy
 
+Briey
 
-I- Nîmes
 
-II- Alès
+Metz
 
-III- Nîmes.
+Saint-Dié
 
 
-II- Carpentras
+Epinal
 
-III- Avignon - Le Pontet.
+Verdun
 
 
-I- Orléans
+Bar-le-Duc
 
-II- Montargis
+Nîmes
 
-III- Orléans.
 
+Alès
 
-I- Paris
+Nîmes
 
-II- Fontainebleau
 
-III- Melun et Fleury-Mérogis.
+Carpentras
 
+Avignon - Le Pontet
 
-II- Sens
 
-III- Auxerre.
+Orléans
 
+Montargis
 
-I- Pau
 
-II- Dax
+Orléans
 
-III- Bayonne et Mont-de-Marsan.
+Paris
 
 
-I- Poitiers
+Fontainebleau
 
-II- La Rochelle
+Meaux-Chauconin-Neufmontiers et Fleury-Mérogis
 
-III- Fontenay-le-Comte.
 
+Melun
 
-II- Bressuire
+Meaux-Chauconin-Neufmontiers et Fleury-Mérogis
 
-III- Fontenay-le-Comte.
 
-II- Les Sables-d'Olonne
+Sens
 
-III- La Roche-sur-Yon.
+Auxerre
 
 
-I- Rennes
+Pau
 
-II- Dinan
+Dax
 
-III- Saint-Malo.
 
+Bayonne et Mont-de-Marsan
 
-II- Guingamp
+Poitiers
 
-III- Saint-Brieuc.
 
+La Rochelle
 
-II- Morlaix
+Fontenay-le-Comte
 
-III- Brest et Saint-Brieuc.
 
+Bressuire
 
-II- Quimper
+Fontenay-le-Comte
 
-III- Brest et Lorient-Ploemeur.
+Les Sables-d'Olonne
 
 
-II- Saint-Nazaire
+La Roche-sur-Yon
 
-III- Nantes.
+Rennes
 
 
-I- Riom
+Dinan
 
-II- Cusset
+Saint-Malo
 
-III- Moulins-Yzeure.
 
+Guingamp
 
-I- Rouen
+Saint-Brieuc
 
-II- Bernay
 
-III- Evreux.
+Morlaix
 
+Brest et Saint-Brieuc
 
-II- Dieppe
 
-III- Rouen et Caen.
+Quimper
 
+Brest et Lorient-Ploemeur
 
-I- Toulouse
 
-II- Saint-Gaudens
+Saint-Nazaire
 
-III- Toulouse-Seysses.
+Nantes
 
 
-II- Castres
+Riom
 
-III- Albi et Toulouse-Seysses.
+Cusset
+
+
+Moulins-Yzeure
+
+Rouen
+
+
+Bernay
+
+Evreux
+
+
+Dieppe
+
+Rouen et Caen
+
+
+Toulouse
+
+Saint-Gaudens
+
+
+Toulouse-Seysses
+
+Castres
+
+Albi et Toulouse-Seysses

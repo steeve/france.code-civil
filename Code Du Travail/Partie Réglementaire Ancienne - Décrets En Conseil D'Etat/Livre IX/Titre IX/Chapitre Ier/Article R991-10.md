@@ -1,5 +1,6 @@
 Article R991-10
 ----
-Pour l'application de l'article L. 920-9 en cas de manoeuvres frauduleuses,
-l'organisme et, le cas échéant, l'employeur sont assujettis à un versement d'un
-montant égal aux sommes non dépensées ou engagées au profit du Trésor public.
+Les sanctions prévues à l'article L. 991-6 en cas de manoeuvres frauduleuses ne
+peuvent être prononcées à l'encontre de salariés cocontractants de conventions
+de bilan de compétences ou de validation des acquis de l'expérience conclues
+conformément aux dispositions respectives des articles R. 900-3 et R. 950-13-3.
