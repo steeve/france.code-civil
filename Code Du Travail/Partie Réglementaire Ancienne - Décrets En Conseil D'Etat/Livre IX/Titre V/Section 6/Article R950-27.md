@@ -1,9 +1,0 @@
-Article R950-27
-----
-Sans préjudice des dispositions du deuxième alinéa de l'article L. 951-5,
-l'engagement de développement de la formation est, avant signature, soumis par
-l'autorité administrative signataire à l'avis du comité de coordination régional
-de l'emploi et de la formation professionnelle s'il a un champ d'application
-régional ou, si celui-ci excède le cadre régional, à l'avis de la commission
-permanente du conseil national de la formation professionnelle, de la promotion
-sociale et de l'emploi.

@@ -5,7 +5,3 @@ les conditions de vie des stagiaires dans l'organisme de formation. Ils
 présentent toutes les réclamations individuelles ou collectives relatives à ces
 matières, aux conditions d'hygiène et de sécurité et à l'application du
 règlement intérieur.
-
-Ils ont qualité pour faire connaître au conseil de perfectionnement, lorsqu'il
-est prévu, les observations des stagiaires sur les questions relevant de la
-compétence de ce conseil.

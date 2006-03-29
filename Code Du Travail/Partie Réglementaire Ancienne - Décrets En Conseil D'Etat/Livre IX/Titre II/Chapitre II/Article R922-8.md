@@ -1,7 +1,8 @@
 Article R922-8
 ----
-Dans chacun des stages mentionnés au 3° du deuxième alinéa de l'article L.
-920-5-1, il est procédé simultanément à l'élection d'un délégué titulaire et
-d'un délégué suppléant au scrutin uninominal à deux tours.
+Pour chacune des actions de formation mentionnées au 3° de l'article L. 920-5-1
+qui prennent la forme de stages collectifs, il est procédé simultanément à
+l'élection d'un délégué titulaire et d'un délégué suppléant au scrutin
+uninominal à deux tours.
 
 Tous les stagiaires sont électeurs et éligibles.
