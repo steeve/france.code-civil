@@ -22,3 +22,6 @@ pour tout ce qui concerne ses travaux.
 
 En l'absence de l'un de ses membres de droit, la commission de l'application des
 peines n'est pas valablement réunie.
+
+Le chef d'établissement peut être représenté au sein de la commission de
+l'application des peines par un membre du personnel de direction.

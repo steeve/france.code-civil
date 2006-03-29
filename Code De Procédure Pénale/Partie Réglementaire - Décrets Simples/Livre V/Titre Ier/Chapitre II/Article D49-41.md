@@ -5,9 +5,9 @@ juge ou du tribunal de l'application des peines est transmise à la chambre de
 l'application des peines de la cour d'appel ou à son président.
 
 A l'appui de son appel, le condamné ou son avocat peut adresser des observations
-écrites au président ou à la chambre. Ces observations doivent être adressées un
-mois au plus tard après la date de l'appel, sauf dérogation accordée par le
-président de la juridiction.
+écrites au président ou à la chambre. Hors le cas de l'urgence, ces observations
+doivent être adressées un mois au plus tard après la date de l'appel, sauf
+dérogation accordée par le président de la juridiction.
 
 Pendant l'instance d'appel, les dispositions de l'article D. 49-29 relatives à
 la communication du dossier individuel du condamné sont applicables.

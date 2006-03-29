@@ -16,4 +16,4 @@ permission était subordonnée. Ce retrait peut, pour les mêmes motifs, être
 ordonné avant la mise à exécution de la permission.
 
 Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application
-des dispositions de l'article 712-7.
+des dispositions de l'article 712-17.

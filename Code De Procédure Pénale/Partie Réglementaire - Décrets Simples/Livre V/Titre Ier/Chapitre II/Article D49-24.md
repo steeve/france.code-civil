@@ -9,8 +9,3 @@ d'apprécier sa dangerosité et le risque de récidive.
 
 A cette fin, le juge peut également demander une expertise psychiatrique ou
 psychologique de l'intéressé, notamment si celui-ci a été condamné pour crime.
-
-Les dispositions du premier alinéa sont obligatoires si la personne est
-condamnée pour un crime ou pour un délit puni d'au moins dix ans
-d'emprisonnement, lorsque cette infraction a été commise en état de récidive
-légale.

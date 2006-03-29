@@ -1,5 +1,5 @@
 Article D536
 ----
-La décision peut, par ailleurs, subordonner l'octroi et le maintien de la
-liberté conditionnelle à l'observation par le condamné de l'une ou de plusieurs
-des conditions prévues par les articles 132-44 et 132-45 du code pénal.
+La décision accordant à un condamné le bénéfice de la libération conditionnelle
+peut également subordonner l'octroi et le maintien de cette mesure à l'une des
+obligations et interdictions prévues par l'article 132-45 du code pénal.
