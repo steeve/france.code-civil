@@ -185,6 +185,13 @@ sociétés que celle-ci contrôle.
 III. - Les personnes agissant de concert sont tenues solidairement aux
 obligations qui leur sont faites par les lois et règlements."
 
+" Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées
+comme agissant de concert les personnes qui ont conclu un accord avec l'auteur
+d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet
+de l'offre. Sont également considérées comme agissant de concert les personnes
+qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de
+faire échouer cette offre. "
+
 "Art. L. 233-11 - Toute clause d'une convention prévoyant des conditions
 préférentielles de cession ou d'acquisition d'actions admises aux négociations
 sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits

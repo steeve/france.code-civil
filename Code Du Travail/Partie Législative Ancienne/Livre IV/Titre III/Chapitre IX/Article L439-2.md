@@ -16,11 +16,11 @@ contrôle qui entre dans l'exercice de ces missions, l'expert-comptable a accès
 aux mêmes documents que les commissaires aux comptes des entreprises
 constitutives du groupe.
 
-En cas d'annonce d'offre publique d'achat ou d'offre publique d'échange portant
-sur l'entreprise dominante d'un groupe, le chef de cette entreprise en informe
-immédiatement le comité de groupe. Il est alors fait application au niveau du
-comité de groupe des dispositions prévues aux quatrième et cinquième alinéas de
-l'article L. 432-1 pour le comité d'entreprise.
+En cas d'annonce d'offre publique d'acquisition portant sur l'entreprise
+dominante d'un groupe, le chef de cette entreprise en informe immédiatement le
+comité de groupe. Il est alors fait application au niveau du comité de groupe
+des dispositions prévues aux quatrième à sixième alinéas de l'article L. 432-1
+pour le comité d'entreprise.
 
 Le respect des dispositions de l'alinéa précédent dispense des obligations
 définies à l'article L. 432-1 pour les comités d'entreprise des sociétés

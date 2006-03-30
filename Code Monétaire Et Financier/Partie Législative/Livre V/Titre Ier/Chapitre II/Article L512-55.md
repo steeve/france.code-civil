@@ -1,9 +1,8 @@
 Article L512-55
 ----
-Les caisses de crédit mutuel qui ne sont pas régies par la section 3 ou par les
-lois particulières comportant un contrôle de l'Etat sont soumises aux
-dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la
-coopération et à celles de la présente section.
+Les caisses de crédit mutuel sont soumises aux dispositions de la loi n° 47-1775
+du 10 septembre 1947 portant statut de la coopération et à celles de la présente
+section.
 
 Elles ont exclusivement pour objet le crédit mutuel.
 

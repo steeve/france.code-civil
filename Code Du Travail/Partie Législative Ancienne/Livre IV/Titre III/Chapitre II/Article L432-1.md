@@ -23,24 +23,43 @@ d'entreprise lorsqu'il prend une participation dans une société et de l'inform
 lorsqu'il a connaissance d'une prise de participation dont son entreprise est
 l'objet.
 
-En cas de dépôt d'une offre publique d'achat ou d'offre publique d'échange
-portant sur une entreprise, le chef de cette entreprise réunit immédiatement le
-comité d'entreprise pour l'en informer. Au cours de cette réunion, le comité
-décide s'il souhaite entendre l'auteur de l'offre et peut se prononcer sur le
-caractère amical ou hostile de l'offre. Ce dernier adresse au comité de
-l'entreprise qui en fait l'objet, dans les trois jours suivant sa publication,
-la note d'information mentionnée au troisième alinéa de l'article L. 621-8 du
-code monétaire et financier. L'audition de l'auteur de l'offre se déroule dans
-les formes, les conditions, les délais et sous les sanctions prévus aux alinéas
-suivants.
+En cas de dépôt d'une offre publique d'acquisition portant sur une entreprise,
+le chef de cette entreprise et le chef de l'entreprise qui est l'auteur de cette
+offre réunissent immédiatement leur comité d'entreprise respectif pour l'en
+informer. Le chef de l'entreprise auteur de l'offre réunit le comité
+d'entreprise dans les conditions prévues à l'article L. 432-1 ter du présent
+code. Au cours de la réunion du comité de l'entreprise qui fait l'objet de
+l'offre, celui-ci décide s'il souhaite entendre l'auteur de l'offre et peut se
+prononcer sur le caractère amical ou hostile de l'offre. Le chef de l'entreprise
+qui est l'auteur de l'offre adresse au comité de l'entreprise qui en fait
+l'objet, dans les trois jours suivant sa publication, la note d'information
+mentionnée au IX de l'article L. 621-8 du code monétaire et financier.
+L'audition de l'auteur de l'offre se déroule dans les formes, les conditions,
+les délais et sous les sanctions prévus aux alinéas suivants.
 
-Dans les quinze jours suivant la publication de la note d'information, le comité
-d'entreprise est réuni pour procéder à son examen et, le cas échéant, à
-l'audition de l'auteur de l'offre. Si le comité d'entreprise a décidé
-d'auditionner l'auteur de l'offre, la date de la réunion est communiquée à ce
-dernier au moins trois jours à l'avance. Lors de la réunion, l'auteur de
-l'offre, qui peut se faire assister des personnes de son choix, prend
-connaissance des observations éventuellement formulées par le comité
+Si l'offre est déposée par une entreprise dépourvue de comité d'entreprise, et
+sans préjudice de l'article L. 422-3 du présent code, le chef de cette
+entreprise en informe directement les membres du personnel. De même, à défaut de
+comité d'entreprise dans l'entreprise qui fait l'objet de l'offre, et sans
+préjudice de l'article L. 422-3 précité, le chef de cette entreprise en informe
+directement les membres du personnel. Dans ce cas et dans les trois jours
+suivant la publication de la note d'information mentionnée au IX de l'article L.
+621-8 du code monétaire et financier, l'auteur de l'offre la transmet au chef de
+l'entreprise faisant l'objet de l'offre qui la transmet lui-même au personnel
+sans délai.
+
+Dans les quinze jours suivant la publication de la note d'information et avant
+la date de convocation de l'assemblée générale réunie en application de
+l'article L. 233-32 du code de commerce, le comité d'entreprise est réuni pour
+procéder à son examen et, le cas échéant, à l'audition de l'auteur de l'offre.
+Si le comité d'entreprise a décidé d'auditionner l'auteur de l'offre, la date de
+la réunion est communiquée à ce dernier au moins trois jours à l'avance. Lors de
+la réunion, l'auteur de l'offre peut se faire assister des personnes de son
+choix. Il présente au comité d'entreprise sa politique industrielle et
+financière, ses plans stratégiques pour la société visée et les répercussions de
+la mise en oeuvre de l'offre sur l'ensemble des intérêts, l'emploi, les sites
+d'activité et la localisation des centres de décision de ladite société. Il
+prend connaissance des observations éventuellement formulées par le comité
 d'entreprise. Ce dernier peut se faire assister préalablement et lors de la
 réunion d'un expert de son choix dans les conditions prévues aux huitième et
 neuvième alinéas de l'article L. 434-6.
@@ -48,13 +67,13 @@ neuvième alinéas de l'article L. 434-6.
 La société ayant déposé une offre et dont le chef d'entreprise, ou le
 représentant qu'il désigne parmi les mandataires sociaux ou les salariés de
 l'entreprise, ne se rend pas à la réunion du comité d'entreprise à laquelle il a
-été invité dans les conditions prévues aux deux précédents alinéas ne peut
+été invité dans les conditions prévues aux trois précédents alinéas ne peut
 exercer les droits de vote attachés aux titres de la société faisant l'objet de
 l'offre qu'elle détient ou viendrait à détenir. Cette interdiction s'étend aux
 sociétés qui la contrôlent ou qu'elle contrôle au sens de l'article L. 233-16 du
 code de commerce. Une sanction identique s'applique à l'auteur de l'offre,
 personne physique, qui ne se rend pas à la réunion du comité d'entreprise à
-laquelle il a été invité dans les conditions prévues aux deux alinéas
+laquelle il a été invité dans les conditions prévues aux trois alinéas
 précédents.
 
 La sanction est levée le lendemain du jour où l'auteur de l'offre a été entendu
@@ -68,11 +87,11 @@ paiements et lorsque l'entreprise fait l'objet d'une procédure de sauvegarde ou
 de redressement ou de liquidation judiciaire, avant toute décision relative à la
 poursuite de l'activité ainsi que lors de l'élaboration du projet de plan de
 sauvegarde ou de redressement de l'entreprise dans les conditions prévues aux
-articles L. 623-3, L. 626-8 et L. 621-91 (2) du code de commerce. La ou les
+articles L. 623-3, L. 626-8 et L. 621-91 (1) du code de commerce. La ou les
 personnes qu'il a désignées selon les dispositions de l'article L661-10 du code
 de commerce sont entendues par le tribunal compétent dans les conditions fixées
-aux articles L. 621-4 (2), L. 626-4, L. 621-27, L. 621-62 (2) et L. 626-26 du
-code de commerce.
+aux articles L. 621-4, L. 626-4, L. 621-27, L. 621-62 (1) et L. 626-26 du code
+de commerce.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche
 et de développement technologique de l'entreprise. A défaut, les aides publiques

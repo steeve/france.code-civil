@@ -9,7 +9,7 @@ catégories d'entre eux.
 
 Ces associations sont :
 
-- les associations agréées, dans des conditions fixées par décret après avis du
+- les associations agréées, dans des conditions fixées par décret, après avis du
 ministère public et de l'Autorité des marchés financiers, lorsqu'elles
 justifient de six mois d'existence et, pendant cette même période, d'au moins
 deux cents membres cotisant individuellement et lorsque leurs dirigeants

@@ -12,9 +12,7 @@ Les statuts de chaque banque populaire indiquent si la société étend à d'aut
 personnes que ses sociétaires le bénéfice de ses opérations.
 
 Ils stipulent que les ouvertures de crédit sont accordées dans les limites
-déterminées pour la banque par la Banque fédérale des banques populaires en
-exécution des prescriptions du deuxième alinéa de l'article 10 de la loi du 24
-juillet 1929 (1).
+déterminées pour la banque par la Banque fédérale des banques populaires.
 
 Ils fixent les conditions nécessaires à la modification des statuts et à la
 dissolution de la société. Ils sont modifiés après agrément de la banque
