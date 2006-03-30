@@ -19,8 +19,8 @@ indiqué, la base de calcul du prix permettant au consommateur de vérifier ce
 dernier, les modalités selon lesquelles sera conclu le contrat et en particulier
 le lieu et la date de signature de celui-ci ;
 
-4° L'information relative à l'existence ou à l'absence du droit de rétractation,
-ainsi que ses modalités d'exercice ;
+4° L'existence ou l'absence du droit de rétractation, ainsi que ses modalités
+d'exercice ;
 
 5° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et
 l'existence de toute clause concernant le choix d'une juridiction.
