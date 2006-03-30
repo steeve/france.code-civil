@@ -10,6 +10,10 @@ demandeurs d'emploi, à l'insertion, à l'orientation en formation, à
 l'accompagnement des demandeurs d'emploi et des salariés et à l'aide à la
 création d'entreprise.
 
+Les maisons de l'emploi mènent auprès des employeurs privés et publics des
+actions d'information et de sensibilisation aux phénomènes des discriminations à
+l'embauche et dans l'emploi.
+
 Les maisons de l'emploi et, pour les Français établis hors de France, les
 comités consulaires compétents mènent auprès des employeurs privés et publics en
 activité dans leur ressort des actions de sensibilisation et d'information

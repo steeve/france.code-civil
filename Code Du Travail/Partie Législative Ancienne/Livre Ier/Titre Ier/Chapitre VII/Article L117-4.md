@@ -14,3 +14,11 @@ La fonction tutorale peut être partagée entre plusieurs salariés constituant 
 équipe tutorale au sein de laquelle sera désigné un maître d'apprentissage
 référent qui assurera la coordination de l'équipe et la liaison avec le centre
 de formation d'apprentis.
+
+A cet effet, l'employeur doit permettre au maître d'apprentissage de dégager sur
+son temps de travail les disponibilités nécessaires à l'accompagnement de
+l'apprenti et aux relations avec le centre de formation d'apprentis.
+
+Il veille à ce que le maître d'apprentissage bénéficie de formations lui
+permettant d'exercer correctement sa mission et de suivre l'évolution du contenu
+des formations dispensées à l'apprenti et des diplômes qui les valident.

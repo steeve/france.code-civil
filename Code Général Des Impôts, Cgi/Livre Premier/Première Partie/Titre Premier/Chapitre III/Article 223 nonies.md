@@ -11,7 +11,7 @@ exonérées d'impôt sur les sociétés en application de l'article 208 quinquie
 
 Sont également exonérées de l'imposition forfaitaire annuelle prévue à l'article
 223 septies les sociétés dont les résultats sont exonérés ou bénéficient d'un
-allégement d'impôt sur les sociétés par application de l'article 44 octies,
-lorsqu'elles exercent l'ensemble de leur activité dans des zones franches
-urbaines. Cette exonération s'applique au titre des périodes et dans les
-proportions mentionnées au premier alinéa de cet article.
+allégement d'impôt sur les sociétés par application des article 44 octies et 44
+octies A, lorsqu'elles exercent l'ensemble de leur activité dans des zones
+franches urbaines. Cette exonération s'applique au titre des périodes et dans
+les proportions mentionnées au premier alinéa de cet article.

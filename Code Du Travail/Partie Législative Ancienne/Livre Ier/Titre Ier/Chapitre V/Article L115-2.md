@@ -9,8 +9,10 @@ du type de profession et du niveau de qualification préparés.
 Cette durée peut être adaptée pour tenir compte du niveau initial de compétence
 de l'apprenti. Elle est alors fixée par les cocontractants en fonction de
 l'évaluation des compétences et après autorisation du service de l'inspection de
-l'apprentissage compétent mentionné à l'article L. 119-1. Dans le cas de
-l'enseignement supérieur, l'autorisation du service de l'inspection de
+l'apprentissage compétent mentionné à l'article L. 119-1. Cette autorisation est
+réputée acquise lorsque le contrat d'apprentissage est conclu dans le cadre de
+la formation mentionnée à l'article L. 337-3 du code de l'éducation. Dans le cas
+de l'enseignement supérieur, l'autorisation du service de l'inspection de
 l'apprentissage est facultative si un avis favorable a été émis par le président
 d'université ou le chef d'établissement d'enseignement supérieur.
 

@@ -1,7 +1,7 @@
 Article L211-2
 ----
 Les inspecteurs du travail peuvent toujours requérir un examen médical de tous
-les enfants au-dessus de seize ans déjà admis dans les établissements
+les enfants au-dessus de quinze ans déjà admis dans les établissements
 sus-mentionnés, à l'effet de constater si le travail dont ils sont chargés
 excède leurs forces.
 

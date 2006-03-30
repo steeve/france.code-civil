@@ -2,8 +2,8 @@ Article 244 quater B
 ----
 I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après
 leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies
-A, 44 septies, 44 octies, 44 decies et 44 undecies qui exposent des dépenses de
-recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
+A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies qui exposent des
+dépenses de recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
 
 a. D'une part égale à 10 % des dépenses de recherche exposées au cours de
 l'année, dite part en volume ;

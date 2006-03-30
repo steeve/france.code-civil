@@ -12,11 +12,15 @@ est aisé de remédier.
 
 2. En cas d'atteinte à l'ordre public, à la santé, à la tranquillité ou à la
 moralité publiques, la fermeture peut être ordonnée par le représentant de
-l'Etat dans le département pour une durée n'excédant pas deux mois.
+l'Etat dans le département pour une durée n'excédant pas deux mois. Le
+représentant de l'Etat dans le département peut réduire la durée de cette
+fermeture lorsque l'exploitant s'engage à suivre la formation donnant lieu à la
+délivrance d'un permis d'exploitation visé à l'article L. 3332-1-1.
 
 3. Lorsque la fermeture est motivée par des actes criminels ou délictueux prévus
 par les dispositions pénales en vigueur, à l'exception des infractions visées au
-1, la fermeture peut être prononcée pour six mois.
+1, la fermeture peut être prononcée pour six mois. Dans ce cas, la fermeture
+entraîne l'annulation du permis d'exploitation visé à l'article L. 3332-1-1.
 
 4. Les crimes et délits ou les atteintes à l'ordre public pouvant justifier les
 fermetures prévues au 2 et au 3 doivent être en relation avec la fréquentation

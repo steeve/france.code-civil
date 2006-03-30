@@ -10,10 +10,8 @@ sections est fixée par arrêté conjoint du ministre chargé de la formation
 professionnelle et du ministre chargé du budget.
 
 Chaque section comporte en recettes la part des ressources du fonds qui lui est
-ainsi attribuée et en dépenses les reversements effectués aux fonds régionaux de
-l'apprentissage et de la formation professionnelle continue ou aux centres de
-formation d'apprentis pour lesquels a été passée convention avec l'Etat et
-correspondant aux financements mentionnés :
+ainsi attribuée et en dépenses les reversements correspondant aux financements
+mentionnés :
 
 a) Au 1° de l'article L. 118-2-2 pour la première section ;
 

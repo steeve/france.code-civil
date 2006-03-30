@@ -76,3 +76,8 @@ organismes collecteurs.
 
 Il transmet chaque année ces comptes définitifs, ainsi que ses comptes propres,
 au Conseil national de la formation professionnelle tout au long de la vie.
+
+Une partie des fonds recueillis peut être affectée au financement d'actions en
+faveur de l'emploi et de la formation professionnelle dans des conditions fixées
+par un accord conclu entre le fonds national et l'Etat, après concertation avec
+les organisations syndicales mentionnées au deuxième alinéa.

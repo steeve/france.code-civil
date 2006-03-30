@@ -2,8 +2,9 @@ Article 244 quater K
 ----
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
 exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44
-decies et 44 undecies qui exposent des dépenses d'équipement en nouvelles
-technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces dépenses.
+octies A, 44 decies et 44 undecies qui exposent des dépenses d'équipement en
+nouvelles technologies peuvent bénéficier d'un crédit d'impôt égal à 20 % de ces
+dépenses.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont réalisé soit un chiffre d'affaires
