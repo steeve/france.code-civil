@@ -39,8 +39,8 @@ zones de revitalisation rurale définies à l'article 1465 A ou dans les zones d
 redynamisation urbaine définies aux I bis et I ter de l'article 1466 A, ou de la
 prime d'aménagement du territoire.
 
-Lorsqu'un contribuable dont l'activité, non sédentaire, est implantée dans une
-zone franche urbaine mais exercée en tout ou partie en dehors des zones franches
+Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone
+franche urbaine mais exercée en tout ou partie en dehors des zones franches
 urbaines, l'exonération s'applique si ce contribuable emploie au moins un
 salarié sédentaire à temps plein, ou équivalent, exerçant ses fonctions dans les
 locaux affectés à l'activité ou si ce contribuable réalise au moins 25 % de son
@@ -108,10 +108,11 @@ IV. Les obligations déclaratives des personnes et organismes concernés par
 l'exonération sont fixées par décret.
 
 V. - Les dispositions des I à IV sont applicables aux contribuables qui créent
-des activités entre le 1er janvier 2002 et le 31 décembre 2007 dans les zones
-franches urbaines visées au premier alinéa du I. Toutefois, pour les
-contribuables qui créent des activités dans ces zones en 2002, le point de
-départ de la période d'application des allégements est fixé au 1er janvier 2003.
+des activités entre le 1er janvier 2002 et la date de publication de la loi n°
+2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones franches
+urbaines visées au premier alinéa du I. Toutefois, pour les contribuables qui
+créent des activités dans ces zones en 2002, le point de départ de la période
+d'application des allégements est fixé au 1er janvier 2003.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans
 le cadre d'un transfert, d'une concentration ou d'une restructuration
@@ -121,10 +122,12 @@ l'activité reprise ou transférée bénéficie ou a bénéficié du régime
 d'exonération prévu au présent article.
 
 VI. - Les dispositions des I à IV sont applicables aux contribuables qui
-exercent ou qui créent des activités entre le 1er janvier 2004 et le 31 décembre
-2008 inclus dans les zones franches urbaines définies au B du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 précitée et dont la liste figure au I bis
-de l'annexe à la loi n° 96-987 du 14 novembre 1996 précitée.
+exercent des activités entre le 1er janvier 2004 et le 31 décembre 2008 inclus
+ou qui créent des activités entre le 1er janvier 2004 et la date de publication
+de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances dans les zones
+franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4
+février 1995 précitée et dont la liste figure au I bis de l'annexe à la loi n°
+96-987 du 14 novembre 1996 précitée.
 
 Toutefois, pour bénéficier de l'exonération, l'entreprise doit répondre
 cumulativement aux conditions suivantes :

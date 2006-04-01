@@ -7,6 +7,9 @@ l'égalité des chances.
 Outre la transmission des connaissances, la Nation fixe comme mission première à
 l'école de faire partager aux élèves les valeurs de la République.
 
+L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue
+française.
+
 Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces
 valeurs.
 

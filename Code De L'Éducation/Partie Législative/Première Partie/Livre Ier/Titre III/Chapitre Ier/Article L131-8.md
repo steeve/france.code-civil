@@ -22,3 +22,8 @@ d'absence de l'enfant ou qu'ils ont donné des motifs d'absence inexacts ;
 
 2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables
 au moins quatre demi-journées dans le mois.
+
+L'inspecteur d'académie saisit le président du conseil général des situations
+qui lui paraissent justifier la mise en place d'un contrat de responsabilité
+parentale prévu à l'article L. 222-4-1 du code de l'action sociale et des
+familles.

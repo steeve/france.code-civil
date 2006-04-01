@@ -27,14 +27,16 @@ professionnelle.
 L'exonération s'applique dans les conditions prévues aux trois alinéas
 précédents aux immeubles affectés à une activité entrant dans le champ
 d'application de la taxe professionnelle et exercée pour la première fois entre
-le 1er janvier 2002 et le 1er janvier 2008.
+le 1er janvier 2002 et la date de publication de la loi n° 2006-396 du 31 mars
+2006 pour l'égalité des chances.
 
 En cas de changement d'exploitant avant le 31 décembre 2001, l'exonération
 s'applique pour une durée de cinq ans à compter du 1er janvier de l'année
 suivant celle où est intervenu le changement. En cas de changement d'exploitant
-avant le 1er janvier 2008 au cours d'une période d'exonération ouverte après le
-1er janvier 2002, l'exonération s'applique pour la période restant à courir et
-dans les conditions prévues pour le prédécesseur.
+avant la date de publication de la loi n° 2006-396 du 31 mars 2006 pour
+l'égalité des chances au cours d'une période d'exonération ouverte après le 1er
+janvier 2002, l'exonération s'applique pour la période restant à courir et dans
+les conditions prévues pour le prédécesseur.
 
 L'exonération porte sur la totalité de la part revenant à chaque collectivité ou
 groupement de collectivités territoriales et ne peut avoir pour effet de
@@ -44,7 +46,7 @@ commun.
 Lorsque les conditions requises pour bénéficier de l'exonération prévue à
 l'article 1383 A et celles prévues au présent article sont remplies, le
 contribuable doit opter pour l'un ou l'autre de ces deux régimes avant le 1er
-janvier de l'année au titre de laquelle l'exonération prend effet. L'option est
+janvier de l'année au titre de laquelle l'exonération prend effet.L'option est
 irrévocable.
 
 Les obligations déclaratives des personnes et organismes concernés par les

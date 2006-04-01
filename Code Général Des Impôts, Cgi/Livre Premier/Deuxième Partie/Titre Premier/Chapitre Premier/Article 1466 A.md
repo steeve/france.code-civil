@@ -98,15 +98,15 @@ propre, prise dans les conditions prévues au I de l'article 1639 A bis, la base
 nette imposable des établissements existant au 1er janvier 1997, de ceux ayant
 fait l'objet de l'une des opérations prévues au premier alinéa, effectuée avant
 le 31 décembre 2001, ou de l'une des opérations prévues au deuxième alinéa du I
-quater ou de ceux mentionnés au premier alinéa du I quinquies et situés dans les
-zones franches urbaines, fait l'objet d'un abattement à l'issue de la période
-d'exonération et au titre des trois années suivant l'expiration de celle-ci. Le
-montant de cet abattement est égal, la première année, à 60 % de la base
-exonérée de la dernière année d'application du dispositif prévu au quatrième
-alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année suivante.
-L'application de cet abattement ne peut conduire à réduire la base d'imposition
-de l'année considérée de plus de 60 % de son montant la première année, 40 % la
-deuxième année et 20 % la troisième.
+quater, ou de ceux mentionnés au premier alinéa du I quinquies ou du I sexies et
+situés dans les zones franches urbaines, fait l'objet d'un abattement à l'issue
+de la période d'exonération et au titre des trois années suivant l'expiration de
+celle-ci. Le montant de cet abattement est égal, la première année, à 60 % de la
+base exonérée de la dernière année d'application du dispositif prévu au
+quatrième alinéa. Il est ramené à 40 % la deuxième année et à 20 % l'année
+suivante. L'application de cet abattement ne peut conduire à réduire la base
+d'imposition de l'année considérée de plus de 60 % de son montant la première
+année, 40 % la deuxième année et 20 % la troisième.
 
 A compter du 1er janvier 2002, en cas de changement d'exploitant au cours de la
 période d'exonération, celle-ci est maintenue pour la période restant à courir
@@ -137,13 +137,13 @@ de l'année considérée de plus de 60 % de son montant les cinq premières ann�
 40 % les sixième et septième années et 20 % les huitième et neuvième années.
 
 Pour les établissements existant au 1er janvier 1997 et ceux ayant fait l'objet
-d'une création entre cette date et le 1er janvier 2008, d'une extension ou d'un
-changement d'exploitant entre cette date et le 31 décembre 2001, cette
-exonération est accordée dans la limite d'un montant de base nette imposable
-fixé à 3 millions de francs. Ce seuil est actualisé chaque année dans les
-conditions prévues au I. Dans cette limite, la base exonérée comprend, le cas
-échéant, les éléments d'imposition correspondant aux extensions d'établissement
-intervenues en 1996.
+d'une création entre cette date et la date de publication de la loi n° 2006-396
+du 31 mars 2006 pour l'égalité des chances, d'une extension ou d'un changement
+d'exploitant entre cette date et le 31 décembre 2001, cette exonération est
+accordée dans la limite d'un montant de base nette imposable fixé à 3 millions
+de francs. Ce seuil est actualisé chaque année dans les conditions prévues au I.
+Dans cette limite, la base exonérée comprend, le cas échéant, les éléments
+d'imposition correspondant aux extensions d'établissement intervenues en 1996.
 
 La limite de base nette imposable visée au deuxième alinéa est fixée à 336 150
 euros au titre de 2002 et, sous réserve de l'actualisation annuelle en fonction
@@ -183,7 +183,7 @@ a) a donné lieu au versement de la prime d'aménagement du territoire ;
 
 b) ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
 de l'exonération prévue, selon le cas, à l'article 1465 A ou aux I bis, I ter ,
-I quater ou I quinquies du présent article.
+I quater, I quinquies ou I sexies du présent article.
 
 I quinquies. Sauf délibération contraire de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale doté d'une fiscalité
@@ -196,8 +196,9 @@ variation de l'indice des prix, par le troisième alinéa du I quater, pour leur
 définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
 précitée et dont la liste figure au I bis de l'annexe à la loi n° 96-987 du 14
 novembre 1996 précitée, ainsi que pour les créations et extensions
-d'établissement qu'elles y réalisent entre le 1er janvier 2004 et le 31 décembre
-2008 inclus.
+d'établissement qu'elles y réalisent entre le 1er janvier 2004 et la date de
+publication de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances
+incluse.
 
 Les exonérations prenant effet en 2004 s'appliquent lorsque soit le chiffre
 d'affaires annuel réalisé au cours de la période de référence retenue pour
@@ -251,20 +252,80 @@ Les dispositions du septième alinéa du I ter et des trois dernières phrases d
 premier alinéa du I quater, ainsi que de ses neuvième, dixième et onzième
 alinéas s'appliquent au présent I quinquies.
 
-II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater et I
-quinquies les contribuables déclarent, chaque année, dans les conditions prévues
-à l'article 1477, les éléments entrant dans le champ d'application de
-l'exonération.
+I sexies. - Sauf délibération contraire de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale doté d'une fiscalité
+propre, les établissements qui font l'objet d'une création ou d'une extension
+entre le 1er janvier 2006 et le 31 décembre 2011 dans les zones franches
+urbaines mentionnées à l'article 1383 C bis ainsi que les établissements
+existant au 1er janvier 2006 dans les zones franches urbaines mentionnées au
+deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+précitée sont exonérés de taxe professionnelle dans la limite du montant de base
+nette imposable fixé, pour 2006, à 337 713 Euros et actualisé chaque année en
+fonction de la variation de l'indice des prix. Les exonérations s'appliquent
+lorsque les conditions suivantes sont remplies :
+
+1° L'entreprise doit employer au plus cinquante salariés au 1er janvier 2006 ou
+à la date de sa création ou de son implantation si elle est postérieure et, soit
+avoir réalisé un chiffre d'affaires inférieur à 10 millions d'euros au cours de
+la période de référence, soit avoir un total de bilan inférieur à 10 millions
+d'euros ;
+
+2° Son capital ou ses droits de vote ne doivent pas être détenus, directement ou
+indirectement, à concurrence de 25 % ou plus par une entreprise ou conjointement
+par plusieurs entreprises dont l'effectif dépasse deux cent cinquante salariés
+et dont le chiffre d'affaires annuel hors taxes excède 50 millions d'euros ou le
+total du bilan annuel excède 43 millions d'euros. Pour la détermination de ce
+pourcentage, les participations des sociétés de capital-risque, des fonds
+communs de placement à risques, des sociétés de développement régional, des
+sociétés financières d'innovation et des sociétés unipersonnelles
+d'investissement à risque ne sont pas prises en compte à la condition qu'il
+n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la
+société en cause et ces dernières sociétés ou ces fonds.
+
+Pour l'application du 1° et du 2°, le chiffre d'affaires doit être ramené ou
+porté le cas échéant à douze mois. Les seuils s'appliquent, pour les
+établissements existants, à la date de délimitation de la zone et, pour les
+créations et extensions postérieures, à la date de l'implantation dans la zone.
+L'effectif de l'entreprise est apprécié par référence au nombre moyen de
+salariés employés au cours de cet exercice. Pour la société mère d'un groupe
+mentionné à l'article 223 A, le chiffre d'affaires est apprécié en faisant la
+somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+
+Pour les établissements existant au 1er janvier 2006 mentionnés au premier
+alinéa, la base exonérée comprend, le cas échéant, dans la limite prévue à cet
+alinéa, les éléments d'imposition correspondant aux extensions d'établissement
+intervenues pendant l'année 2005.
+
+L'exonération porte pendant cinq ans à compter de 2006 pour les établissements
+existant à cette date mentionnés au premier alinéa ou, en cas de création
+d'établissement, à compter de l'année qui suit la création ou, en cas
+d'extension d'établissement, à compter de la deuxième année qui suit celle-ci,
+sur la totalité de la part revenant à chaque collectivité territoriale ou
+établissement public de coopération intercommunale doté d'une fiscalité propre
+et s'applique dans les conditions prévues au septième alinéa du I ter, aux trois
+dernières phrases du premier alinéa et aux neuvième, dixième et onzième alinéas
+du I quater, à la dernière phrase du troisième alinéa et au sixième alinéa du I
+quinquies. Les exonérations prenant effet en 2006 dans les zones mentionnées au
+deuxième alinéa du B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+précitée s'appliquent dans les conditions et limites prévues par le règlement
+(CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application
+des articles 87 et 88 du traité CE aux aides de minimis.
+
+II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater, I
+quinquies et I sexies les contribuables déclarent, chaque année, dans les
+conditions prévues à l'article 1477, les éléments entrant dans le champ
+d'application de l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
 des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1465, 1465 A ou
-1465 B et de celles prévues aux I, I bis, I ter, I quater ou I quinquies le
-contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est
-irrévocable vaut pour l'ensemble des collectivités et doit être exercée, selon
-le cas, dans le délai prévu pour le dépôt de la déclaration annuelle ou de la
-déclaration provisoire de taxe professionnelle visée à l'article 1477.
+1465 B et de celles prévues aux I, I bis, I ter, I quater, I quinquies ou I
+sexies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option
+qui est irrévocable vaut pour l'ensemble des collectivités et doit être exercée,
+selon le cas, dans le délai prévu pour le dépôt de la déclaration annuelle
+afférente à la première année au titre de laquelle l'exonération prend effet ou
+de la déclaration provisoire de taxe professionnelle visée à l'article 1477.
 
-Pour l'application des I, I bis, I ter, I quater et I quinquies :
+Pour l'application des I, I bis, I ter, I quater, I quinquies et I sexies :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 
@@ -277,10 +338,10 @@ c) Le montant des bases exonérées ne peut excéder chaque année, pour un mêm
 établissement, le montant prévu aux I ou I quater, sauf dans les cas visés au
 troisième alinéa du I ter ;
 
-d) pour l'appréciation de la condition d'exonération fixée aux I, I bis, I ter
-et I quinquies concernant le nombre de salariés, la période de référence à
-retenir est l'année mentionnée à l'article 1467 A, pour les impositions établies
-au titre de 1997 et des années suivantes.
+d) pour l'appréciation de la condition d'exonération fixée aux I, I bis et I ter
+concernant le nombre de salariés, la période de référence à retenir est l'année
+mentionnée à l'article 1467 A, pour les impositions établies au titre de 1997 et
+des années suivantes.
 
 III. abrogé
 

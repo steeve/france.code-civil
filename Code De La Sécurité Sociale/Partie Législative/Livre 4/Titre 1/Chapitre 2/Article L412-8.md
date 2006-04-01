@@ -18,7 +18,7 @@ commercial, correspondance commerciale, droit commercial, comptabilité,
 publicité, langues étrangères et autres enseignements de nature intellectuelle
 sont en dehors du champ d'application du présent livre ;
 
-b. les élèves des établissements d'enseignements secondaire ou d'enseignement
+b. les élèves des établissements d'enseignement secondaire ou d'enseignement
 spécialisé et les étudiants autres que ceux qui sont mentionnés au a. ci-dessus
 pour les accidents survenus au cours d'enseignements dispensés en ateliers ou en
 laboratoires ainsi que par le fait ou à l'occasion des stages effectués dans le
@@ -37,6 +37,12 @@ l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou
 e. les bénéficiaires des allocations versées au titre de l'article L. 321-4-2 du
 code du travail pour les accidents survenus par le fait ou à l'occasion des
 actions favorisant leur reclassement ;
+
+f. Les personnes, non mentionnées aux a et b, qui effectuent, dans un organisme
+public ou privé, un stage d'initiation, de formation ou de complément de
+formation professionnelle ne faisant pas l'objet d'un contrat de travail et
+n'entrant pas dans le cadre de la formation professionnelle continue telle que
+définie par le livre IX du code du travail ;
 
 3°) les personnes accomplissant un stage de réadaptation fonctionnelle ou de
 rééducation professionnelle dans les conditions prévues par le présent code, les
@@ -78,7 +84,7 @@ par les articles L. 236-10, L. 434-10 et L. 451-1 du code du travail, pour les
 accidents survenus par le fait ou à l'occasion de cette formation ;
 
 10°) les bénéficiaires de l'allocation de revenu minimum d'insertion instituée
-par la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum
+par la loi n° 88-1088 du 1er décembre 1988 (1) relative au revenu minimum
 d'insertion, pour les accidents survenus par le fait ou à l'occasion des actions
 favorisant leur insertion, dans des conditions déterminées par décret ;
 
@@ -103,11 +109,11 @@ l'article L. 127-1 du code de commerce ;
 15°) Les tuteurs non rémunérés mentionnés à l'article L. 129-1 du code de
 commerce ;
 
-15°)(1) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code
+15°)(2) Les volontaires pour l'insertion mentionnés à l'article L. 130-4 du code
 du service national.
 
 Les dispositions de l'article L. 434-1 du présent code ne sont pas applicables
-aux personnes mentionnées aux a. et b. du 1° ci-dessus.
+aux personnes mentionnées aux a, b et f du 2°.
 
 Un décret précise, en tant que de besoin, les catégories d'élèves, d'étudiants
 et de stages ainsi que la nature des établissements mentionnés aux a. et b. du

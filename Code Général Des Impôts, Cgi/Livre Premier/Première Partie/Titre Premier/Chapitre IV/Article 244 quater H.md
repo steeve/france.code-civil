@@ -1,10 +1,10 @@
 Article 244 quater H
 ----
 I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou
-exonérées en application des articles 44 sexies, 44 sexies A, 44 octies et 44
-decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses
-de prospection commerciale afin d'exporter des services, des biens et des
-marchandises.
+exonérées en application des articles 44 sexies, 44 sexies A, 44 octies, 44
+octies A, et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles
+exposent des dépenses de prospection commerciale afin d'exporter des services,
+des biens et des marchandises.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles
 qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires

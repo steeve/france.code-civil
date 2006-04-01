@@ -11,7 +11,10 @@ consommer sur place est tenue de faire, quinze jours au moins à l'avance et par
 3° A quel titre elle doit gérer le débit et les nom, prénoms, profession et
 domicile du propriétaire s'il y a lieu ;
 
-4° La catégorie du débit qu'elle se propose d'ouvrir.
+4° La catégorie du débit qu'elle se propose d'ouvrir ;
+
+5° Le permis d'exploitation attestant de sa participation à la formation visée à
+l'article L. 3332-1-1.
 
 La déclaration est faite à Paris à la préfecture de police et, dans les autres
 communes, à la mairie ; il en est donné immédiatement récépissé.
