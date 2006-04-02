@@ -9,9 +9,9 @@ territoires ruraux de développement prioritaire.
 
 Cette réduction de taux est également applicable aux acquisitions de même nature
 réalisées dans les zones de redynamisation urbaine définies au I ter de
-l'article 1466 A, dans les zones franches urbaines mentionnées aux I quater et I
-quinquies de l'article 1466 A, ainsi que dans les zones de revitalisation rurale
-mentionnées à l'article 1465 A.
+l'article 1466 A, dans les zones franches urbaines mentionnées aux I quater, I
+quinquies et I sexies de l'article 1466 A, ainsi que dans les zones de
+revitalisation rurale mentionnées à l'article 1465 A.
 
 Pour bénéficier du taux réduit, l'acquéreur doit prendre, lors de la mutation,
 l'engagement de maintenir l'exploitation du bien acquis pendant une période
