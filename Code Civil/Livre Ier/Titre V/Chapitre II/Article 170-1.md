@@ -1,7 +1,7 @@
 Article 170-1
 ----
 Lorsqu'il existe des indices sérieux laissant présumer qu'un mariage célébré à
-l'étranger encourt la nullité au titre des articles 184 ou 191, l'agent
+l'étranger encourt la nullité au titre des articles 180, 184 ou 191, l'agent
 diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement
 le ministère public et sursoit à la transcription.
 

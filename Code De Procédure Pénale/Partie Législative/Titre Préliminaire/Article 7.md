@@ -11,5 +11,6 @@ personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de
 poursuite.
 
 Le délai de prescription de l'action publique des crimes mentionnés à l'article
-706-47 et commis contre des mineurs est de vingt ans et ne commence à courir
+706-47 du présent code et le crime prévu par l'article 222-10 du code pénal,
+lorsqu'ils sont commis sur des mineurs, est de vingt ans et ne commence à courir
 qu'à partir de la majorité de ces derniers.

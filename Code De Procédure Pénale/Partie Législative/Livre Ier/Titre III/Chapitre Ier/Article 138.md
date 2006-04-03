@@ -84,12 +84,16 @@ les aliments qu'elle a été condamnée à payer conformément aux décisions
 judiciaires et aux conventions judiciairement homologuées portant obligation de
 verser des prestations, subsides ou contributions aux charges du mariage ;
 
-17° En cas d'infraction commise soit contre son conjoint ou son concubin, soit
-contre ses enfants ou les enfants de ce dernier, résider hors du domicile ou de
-la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce
-domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si
+17° En cas d'infraction commise soit contre son conjoint, son concubin ou son
+partenaire lié par un pacte civil de solidarité, soit contre ses enfants ou ceux
+de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
+résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile
+ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si
 nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou
-psychologique.
+psychologique ; les dispositions du présent 17° sont également applicables
+lorsque l'infraction est commise par l'ancien conjoint ou concubin de la
+victime, ou par la personne ayant été liée à elle par un pacte civil de
+solidarité, le domicile concerné étant alors celui de la victime.
 
 L'obligation prévue au 2° peut être exécutée, avec l'accord de l'intéressé
 recueilli en présence de son avocat, sous le régime du placement sous

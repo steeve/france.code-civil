@@ -28,4 +28,7 @@ déterminé, d'un réseau de télécommunications ;
 9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
 
 10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis
-sur d'autres victimes.
+sur d'autres victimes ;
+
+11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le
+partenaire lié à la victime par un pacte civil de solidarité.

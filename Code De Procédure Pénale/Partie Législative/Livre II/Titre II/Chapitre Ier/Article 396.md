@@ -27,4 +27,6 @@ Si le juge estime que la détention provisoire n'est pas nécessaire, il peut
 soumettre le prévenu, jusqu'à sa comparution devant le tribunal, à une ou
 plusieurs obligations du contrôle judiciaire. Le procureur de la République
 notifie alors à l'intéressé la date et l'heure de l'audience selon les modalités
-prévues au premier alinéa de l'article 394.
+prévues au premier alinéa de l'article 394. Si le prévenu placé sous contrôle
+judiciaire se soustrait aux obligations qui lui sont imposées, les dispositions
+du deuxième alinéa de l'article 141-2 sont applicables.
