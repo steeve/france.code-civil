@@ -2,7 +2,10 @@ Article 397-3
 ----
 Dans tous les cas prévus par le présent paragraphe, le tribunal peut,
 conformément aux dispositions de l'article 141-1, placer ou maintenir le prévenu
-sous contrôle judiciaire. Cette décision est exécutoire par provision.
+sous contrôle judiciaire. Cette décision est exécutoire par provision. Si le
+prévenu placé sous contrôle judiciaire se soustrait aux obligations qui lui sont
+imposées, les dispositions du deuxième alinéa de l'article 141-2 sont
+applicables.
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également
 placer ou maintenir le prévenu en détention provisoire par décision spécialement

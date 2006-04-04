@@ -22,4 +22,6 @@ Ce magistrat peut, après audition du prévenu, son avocat ayant été avisé et
 entendu en ses observations, s'il le demande, prononcer cette mesure dans les
 conditions et suivant les modalités prévues par les articles 138 et 139. Cette
 décision est notifiée verbalement au prévenu et mentionnée au procès-verbal dont
-copie lui est remise sur-le-champ.
+copie lui est remise sur-le-champ. Si le prévenu placé sous contrôle judiciaire
+se soustrait aux obligations qui lui sont imposées, les dispositions du deuxième
+alinéa de l'article 141-2 sont applicables.

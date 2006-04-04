@@ -33,12 +33,16 @@ et intérêts à la victime, celle-ci peut, au vu de ce procès-verbal, en deman
 le recouvrement suivant la procédure d'injonction de payer, conformément aux
 règles prévues par le nouveau code de procédure civile.
 
-6° En cas d'infraction commise soit contre son conjoint ou son concubin, soit
-contre ses enfants ou les enfants de ce dernier, demander à l'auteur des faits
-de résider hors du domicile ou de la résidence du couple et, le cas échéant, de
+6° En cas d'infraction commise soit contre son conjoint, son concubin ou son
+partenaire lié par un pacte civil de solidarité, soit contre ses enfants ou ceux
+de son conjoint, concubin ou partenaire, demander à l'auteur des faits de
+résider hors du domicile ou de la résidence du couple et, le cas échéant, de
 s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords
 immédiats de celui-ci, ainsi que, si nécessaire, de faire l'objet d'une prise en
-charge sanitaire, sociale ou psychologique.
+charge sanitaire, sociale ou psychologique ; les dispositions du présent 6° sont
+également applicables lorsque l'infraction est commise par l'ancien conjoint ou
+concubin de la victime, ou par la personne ayant été liée à elle par un pacte
+civil de solidarité, le domicile concerné étant alors celui de la victime.
 
 La procédure prévue au présent article suspend la prescription de l'action
 publique.

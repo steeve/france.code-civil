@@ -1,7 +1,7 @@
 Article 222-28
 ----
 L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement
-et de 100000 euros d'amende :
+et de 100 000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 
@@ -18,4 +18,7 @@ ou de complice ;
 
 6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à
 l'utilisation, pour la diffusion de messages à destination d'un public non
-déterminé, d'un réseau de télécommunications.
+déterminé, d'un réseau de télécommunications ;
+
+7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le
+partenaire lié à la victime par un pacte civil de solidarité.

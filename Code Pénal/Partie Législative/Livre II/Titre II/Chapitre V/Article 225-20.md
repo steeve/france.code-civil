@@ -22,4 +22,8 @@ conserver une quelconque participation financière ;
 une arme soumise à autorisation ;
 
 6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire
-de la République.
+de la République ;
+
+7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix
+ans au plus, une activité professionnelle ou bénévole impliquant un contact
+habituel avec des mineurs.

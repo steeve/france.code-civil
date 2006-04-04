@@ -40,7 +40,8 @@ de la victime à une ethnie, une nation, une race ou une religion déterminée ;
 
 5° ter A raison de l'orientation sexuelle de la victime ;
 
-6° Par le conjoint ou le concubin de la victime ;
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la
+victime par un pacte civil de solidarité ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission
 de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions
