@@ -1,3 +1,3 @@
 Article 212
 ----
-Les époux se doivent mutuellement fidélité, secours, assistance.
+Les époux se doivent mutuellement respect, fidélité, secours, assistance.

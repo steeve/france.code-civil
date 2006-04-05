@@ -1,4 +1,3 @@
 Article 144
 ----
-L'homme avant dix-huit ans révolus, la femme avant quinze ans révolus, ne
-peuvent contracter mariage.
+L'homme et la femme ne peuvent contracter mariage avant dix-huit ans révolus.
