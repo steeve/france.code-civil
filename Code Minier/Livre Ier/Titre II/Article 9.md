@@ -1,7 +1,6 @@
 Article 9
 ----
-Le permis exclusif de recherches de substances concessibles, autres que les
-combustibles minéraux solides et les sels de potassium, est accordé par
+Le permis exclusif de recherches de substances concessibles est accordé par
 l'autorité administrative, après mise en concurrence, pour une durée de cinq ans
 au plus.
 

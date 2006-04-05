@@ -6,8 +6,11 @@ Sont considérés comme mines les gîtes connus pour contenir :
 exceptée, des bitumes, des hydrocarbures liquides ou gazeux, du graphite, du
 diamant ;
 
-- des sels de sodium et de potassium à l'état solide ou en dissolution, de
-l'alun, des sulfates autres que les sulfates alcalino-terreux ;
+- des sels de sodium et de potassium à l'état solide ou en dissolution, à
+l'exception de ceux contenus dans les eaux salées utilisées à des fins
+thérapeutiques ou de loisirs ;
+
+- de l'alun, des sulfates autres que les sulfates alcalino-terreux ;.
 
 - de la bauxite, de la fluorine ;
 
