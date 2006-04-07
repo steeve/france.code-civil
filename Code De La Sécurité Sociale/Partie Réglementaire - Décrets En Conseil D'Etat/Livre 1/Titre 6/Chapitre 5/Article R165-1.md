@@ -1,11 +1,13 @@
 Article R165-1
 ----
 Les produits et prestations mentionnés à l'article L. 165-1 ne peuvent être
-remboursés par l'assurance maladie, sur prescription médicale, que s'ils
-figurent sur une liste établie par arrêté du ministre chargé de la sécurité
-sociale et du ministre chargé de la santé après avis de la commission
-spécialisée de la Haute Autorité de santé mentionnée à l'article L. 165-1 du
-présent code et dénommée "commission d'évaluation des produits et prestations".
+remboursés par l'assurance maladie, sur prescription médicale ou sur
+prescription d'un masseur-kinésithérapeute conformément aux dispositions de
+l'article L. 4321-1 du code de la santé publique, que s'ils figurent sur une
+liste établie par arrêté du ministre chargé de la sécurité sociale et du
+ministre chargé de la santé après avis de la commission spécialisée de la Haute
+Autorité de santé mentionnée à l'article L. 165-1 du présent code et dénommée
+"commission d'évaluation des produits et prestations".
 
 L'inscription sur la liste précise, le cas échéant, les spécifications
 techniques, les seules indications thérapeutiques ou diagnostiques et les
