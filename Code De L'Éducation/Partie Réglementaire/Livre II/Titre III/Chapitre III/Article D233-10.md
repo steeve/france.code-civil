@@ -1,6 +1,10 @@
 Article D233-10
 ----
-La Conférence des directeurs d'écoles et de formations d'ingénieurs siège en
-formation plénière au moins quatre fois par an. Ses séances ne sont pas
-publiques. Elle peut créer en son sein des commissions chargées de préparer ses
-débats.
+L'assemblée générale élit en son sein, pour un mandat de deux ans, un premier
+vice-président et plusieurs autres vice-présidents.
+
+Le premier vice-président préside l'assemblée générale en l'absence du
+président. Il est responsable des activités de la conférence des directeurs des
+écoles françaises d'ingénieurs.
+
+Le bureau est constitué de l'ensemble des vice-présidents.
