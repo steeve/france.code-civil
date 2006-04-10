@@ -103,7 +103,14 @@ doivent être représentés les registres et factures prescrits par le présent
 article ainsi que, le cas échéant, toutes autres pièces susceptibles de venir à
 l'appui des énonciations desdits documents.
 
-5. Les dispositions qui précèdent sont applicables aux expéditions faites pour
-l'avitaillement des navires pêcheurs et autres.
+5. Les livraisons de biens d'avitaillement effectuées soit directement, soit en
+sortie d'un régime suspensif mentionné au I de l'article 277 A du CGI, pour les
+besoins des navires visés au 6° du II de l'article 262 du même code, sont
+exonérées de la taxe sur la valeur ajoutée, à condition que le fournisseur
+établisse pour chaque livraison une déclaration en douane conforme au modèle
+fourni par l'administration ou tout autre document en tenant lieu prévu par la
+réglementation douanière. Le fournisseur conserve à l'appui de sa comptabilité
+ces documents, après avis du service des douanes chargé du contrôle de la mise à
+bord des biens.
 
 6. (Abrogé)
