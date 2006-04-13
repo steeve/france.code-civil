@@ -43,8 +43,8 @@ k) Banqueroute ;
 l) Pratique de prêt usuraire ;
 
 m) L'une des infractions prévues par la loi du 21 mai 1836 sur les loteries, par
-la loi du 15 juin 1907 sur les cercles et casinos et par la loi du 12 juillet
-1983 relative aux jeux de hasard ;
+la loi du 15 juin 1907 relative aux casinos et par la loi du 12 juillet 1983
+relative aux jeux de hasard ;
 
 n) L'une des infractions prévues au livre Ier et aux articles L. 213-1 à L.
 213-5 du code de la consommation ;
