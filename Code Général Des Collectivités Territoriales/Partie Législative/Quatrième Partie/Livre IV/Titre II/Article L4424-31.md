@@ -16,7 +16,6 @@ Par dérogation aux articles L. 131-3, L. 131-4 et L. 131-6 à L. 131-10 du code
 du tourisme, une institution spécialisée est chargée, dans le cadre des
 orientations définies par la collectivité territoriale de Corse, de la
 coordination de l'ensemble des actions de développement du tourisme en Corse.
-
 Cette institution assure notamment la promotion touristique de l'île et met en
 oeuvre la politique d'aide à la modernisation et au développement des structures
 d'accueil et d'hébergement.

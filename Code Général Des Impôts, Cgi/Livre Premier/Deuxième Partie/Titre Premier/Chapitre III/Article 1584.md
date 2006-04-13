@@ -1,10 +1,10 @@
 Article 1584
 ----
 1. Est perçue, au profit des communes de plus de 5 000 habitants, ainsi que de
-celles d'une population inférieure classées comme stations balnéaires,
-thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle
-aux droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les
-mutations à titre onéreux :
+celles d'une population inférieure classées comme stations de tourisme au sens
+de la sous-section 2 de la section 2 du chapitre III du titre III du livre Ier
+du code du tourisme, une taxe additionnelle aux droits d'enregistrement ou à la
+taxe de publicité foncière exigibles sur les mutations à titre onéreux :
 
 1° d'immeubles et de droits immobiliers situés sur leur territoire. La taxe
 additionnelle n'est pas perçue lorsque la mutation est soumise au droit
@@ -37,7 +37,7 @@ Comprise entre 23 000 euros et 107 000 euros : 0,40 %
 Supérieure à 107 000 euros : 1 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
-le recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
+le recouvrement des droits ou de la taxe auxquels elle s'ajoute.
 
 2. La taxe additionnelle prévue au 1 ne s'applique pas aux ventes publiques de
 meubles énumérées ci-après :
@@ -50,7 +50,8 @@ agricole ;
 3° ventes d'objets donnés en gage prévues par l'article L. 521-3 du code de
 commerce ;
 
-4° ventes opérées en vertu de l'article L342-11 du code rural ;
+4° ventes opérées en vertu de l'article L342-11 du code rural et de la pêche
+maritime ;
 
 5° ventes opérées en vertu du chapitre III du titre II du livre V du code de
 commerce en cas de non-paiement du warrant ;

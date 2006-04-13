@@ -20,5 +20,9 @@ délivrance.
 
 Un décret en Conseil d'Etat définit la résidence mobile de loisirs, l'habitation
 légère de loisirs et la caravane, ainsi que les conditions dans lesquelles elles
-peuvent être installées ou implantées. L'autorisation d'aménager tient, le cas
-échéant, lieu de permis de construire.
+peuvent être installées ou implantées. Ce décret détermine les catégories de
+terrains aménagés sur lesquels les résidences mobiles de loisirs et les
+habitations légères de loisirs peuvent être installées ou implantées. Il peut
+prévoir des dérogations pour permettre le relogement provisoire des personnes
+victimes de catastrophes. L'autorisation d'aménager tient, le cas échéant, lieu
+de permis de construire.

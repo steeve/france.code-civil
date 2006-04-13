@@ -2,9 +2,10 @@ Article 1595 bis
 ----
 Il est perçu au profit d'un fonds de péréquation départemental, dans toutes les
 communes d'une population inférieure à 5.000 habitants autres que les communes
-classées comme stations balnéaires, thermales, climatiques, de tourisme et de
-sports d'hiver, une taxe additionnelle aux droits d'enregistrement ou à la taxe
-de publicité foncière exigible sur les mutations à titre onéreux :
+classées comme stations de tourisme au sens de la sous-section 2 de la section 2
+du chapitre III du titre III du livre Ier du code du tourisme, une taxe
+additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière
+exigible sur les mutations à titre onéreux :
 
 1° d'immeubles et de droits immobiliers situés sur leur territoire. La taxe
 additionnelle n'est pas perçue lorsque la mutation est soumise au droit

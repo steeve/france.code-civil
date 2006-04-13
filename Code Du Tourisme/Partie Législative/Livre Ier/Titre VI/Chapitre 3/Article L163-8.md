@@ -1,5 +1,13 @@
 Article L163-8
 ----
-Les références faites, par des dispositions du présent livre applicables à
-Mayotte, à des dispositions qui n'y sont pas applicables sont remplacées par les
-références aux dispositions ayant le même objet applicables localement.
+Les ressources du comité du tourisme de Mayotte peuvent comprendre :
+
+1° Des subventions et contributions de toute nature de l'Etat, de la
+collectivité départementale, des communes et de leurs groupements ;
+
+2° Des participations de tous autres organismes intéressés ainsi que des
+personnes privées ;
+
+3° Des redevances pour services rendus ;
+
+4° Des dons et legs.
