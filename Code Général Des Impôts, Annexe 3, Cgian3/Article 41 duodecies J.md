@@ -7,3 +7,6 @@ laquelle les titres de créances sont inscrits en compte ou déposés en
 application des dispositions du premier alinéa de l'article 124 D du code déjà
 cité ou par la personne désignée par le contribuable pour acquitter ce
 prélévement.
+
+Ces dispositions ne sont pas applicables au prélèvement dû à raison des gains
+mentionnés au I de l'article 125 D du code précité.

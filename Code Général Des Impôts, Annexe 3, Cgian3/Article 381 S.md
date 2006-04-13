@@ -12,7 +12,10 @@ exemplaire sur une formule délivrée par l'administration.
 
 3. Un arrêté détermine la nature et le contenu des documents que les
 établissements payeurs doivent établir et conserver à la disposition de
-l'administration en vue du contrôle (1).
+l'administration en vue du contrôle.
 
 Il fixe les conditions dans lesquelles le prélèvement opéré par ces
-établissements peut faire l'objet de versements globaux (2).
+établissements peut faire l'objet de versements globaux.
+
+4. Les dispositions des 1 à 3 ne sont pas applicables au prélèvement dû à raison
+des revenus, produits et gains mentionnés à l'article 125 D du code précité.
