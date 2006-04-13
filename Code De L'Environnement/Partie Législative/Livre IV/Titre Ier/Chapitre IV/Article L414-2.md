@@ -35,7 +35,10 @@ l'autorité administrative peut prendre en charge son élaboration.
 V. - Lorsque le site est entièrement inclus dans un terrain relevant du
 ministère de la défense, l'autorité administrative préside le comité de pilotage
 Natura 2000 et établit le document d'objectifs en association avec le comité de
-pilotage Natura 2000.
+pilotage Natura 2000. Lorsque le site est majoritairement situé dans le
+périmètre du coeur d'un parc national ou dans un parc naturel marin, le projet
+de document d'objectifs est établi par l'établissement public chargé de la
+gestion du parc. Il est approuvé par l'autorité administrative.
 
 VI. - Une convention est conclue entre l'Etat et la collectivité territoriale ou
 le groupement désigné dans les conditions prévues au III afin de définir les

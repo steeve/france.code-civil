@@ -9,7 +9,9 @@ clôture continue faisant obstacle à toute communication avec les héritages
 voisins ;
 
 2° Chasser dans les réserves de chasse approuvées par l'Etat ou établies en
-application des dispositions de l'article L. 422-27 ;
+application des dispositions de l'article L. 422-27 ou chasser dans le coeur ou
+les réserves intégrales d'un parc national ou dans une réserve naturelle en
+infraction à la réglementation qui y est applicable ;
 
 3° Chasser en temps prohibé ou pendant la nuit ;
 

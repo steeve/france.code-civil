@@ -7,7 +7,9 @@ des monuments historiques classés ;
 
 2° Dans les secteurs sauvegardés ;
 
-3° Dans les parcs naturels régionaux.
+3° Dans les parcs naturels régionaux ;
+
+4° Dans l'aire d'adhésion des parcs nationaux.
 
 Il ne peut être dérogé à cette interdiction que par l'institution de zones de
 publicité restreinte.

@@ -45,3 +45,16 @@ autres schémas. Les communes appartenant à la communauté sont retirées des
 établissements publics prévus à l'article L. 122-4 dont la communauté n'est pas
 devenue membre. Ce retrait emporte réduction du périmètre des schémas de
 cohérence territoriale correspondants.
+
+Dans le cas prévu à l'article L. 122-4-1, lorsqu'une commune ou un établissement
+public de coopération intercommunale compétent en matière de schéma de cohérence
+territoriale adhère, dans les conditions définies par le code général des
+collectivités territoriales, au syndicat mixte du parc naturel régional pour la
+compétence d'élaboration, de suivi et de révision du schéma de cohérence
+territoriale, la décision d'adhésion emporte extension du périmètre du schéma de
+cohérence territoriale. Lorsqu'une commune ou un établissement public de
+coopération intercommunale compétent en matière de schéma de cohérence
+territoriale se retire du syndicat mixte du parc naturel régional pour la
+compétence d'élaboration, de suivi et de révision du schéma de cohérence
+territoriale, la décision de retrait emporte réduction du périmètre du schéma de
+cohérence territoriale.

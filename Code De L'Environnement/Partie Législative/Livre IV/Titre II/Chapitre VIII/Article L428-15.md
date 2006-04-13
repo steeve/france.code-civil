@@ -11,8 +11,8 @@ nuisibles ;
 
 a) La chasse de nuit sur le terrain d'autrui avec un véhicule à moteur ;
 
-b) La chasse dans les réserves approuvées et dans les territoires des parcs
-nationaux où la chasse est interdite ;
+b) La chasse dans les réserves approuvées et dans les coeurs des parcs nationaux
+où la chasse est interdite ;
 
 c) La chasse dans les enclos, attenant ou non à des habitations, sans le
 consentement du propriétaire ;

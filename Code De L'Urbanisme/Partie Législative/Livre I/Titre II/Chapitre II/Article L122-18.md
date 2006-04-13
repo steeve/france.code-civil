@@ -109,7 +109,8 @@ personnes publiques autres que les communes et les établissements publics de
 coopération intercommunale compétents compris dans le périmètre du schéma se
 retirent du syndicat mixte dans le délai de six mois à compter de l'approbation
 du schéma ou de sa révision. A l'issue de ce délai, le retrait est prononcé
-d'office par arrêté préfectoral.
+d'office par arrêté préfectoral. Les dispositions du présent alinéa ne
+s'appliquent toutefois pas dans le cas prévu à l'article L. 122-4-1.
 
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n°
 2000-1208 du 13 décembre 2000 précitée ou un schéma directeur approuvé dans le

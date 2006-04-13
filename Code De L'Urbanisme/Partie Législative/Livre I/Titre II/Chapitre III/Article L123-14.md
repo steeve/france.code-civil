@@ -20,5 +20,5 @@ précédents lorsque, à l'issue du délai de trois ans mentionné au dernier al
 de l'article L. 123-1, le plan local d'urbanisme n'a pas été rendu compatible
 avec les orientations d'un schéma de cohérence territoriale, d'un schéma de
 secteur, d'un schéma de mise en valeur de la mer, d'une charte de parc naturel
-régional, d'un plan de déplacements urbains ou d'un programme local de
-l'habitat.
+régional ou de parc national, d'un plan de déplacements urbains ou d'un
+programme local de l'habitat.

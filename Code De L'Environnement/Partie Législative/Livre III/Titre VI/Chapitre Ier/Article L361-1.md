@@ -31,10 +31,5 @@ riverains.
 Les maires, en vertu de leur pouvoir de police, peuvent, le cas échéant,
 réglementer les conditions d'utilisation de ces itinéraires.
 
-La responsabilité civile des propriétaires ruraux et forestiers ne saurait être
-engagée au titre des dommages causés ou subis à l'occasion de la circulation des
-piétons ou de la pratique d'activités de loisirs qu'en raison de leurs actes
-fautifs.
-
 Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article.

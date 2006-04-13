@@ -1,6 +1,6 @@
 Article L331-5
 ----
-Sur le territoire d'un parc national, il est fait obligation d'enfouissement des
+Dans le coeur d'un parc national, il est fait obligation d'enfouissement des
 réseaux électriques ou téléphoniques ou, pour les lignes électriques d'une
 tension inférieure à 19 000 volts, d'utilisation de techniques de réseaux
 torsadés en façade d'habitation, lors de la création de lignes électriques
