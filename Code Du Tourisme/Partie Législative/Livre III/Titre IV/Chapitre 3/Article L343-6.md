@@ -1,5 +1,4 @@
 Article L343-6
 ----
-Les règles relatives à la circulation sur les cours d'eau des engins nautiques
-de loisir non motorisés sont fixées par les articles L. 214-12 et L. 214-13 du
-code de l'environnement.
+Les règles relatives aux itinéraires de randonnée sont fixées par les articles
+L. 361-1 et L. 361-2 du code de l'environnement.

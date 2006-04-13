@@ -1,4 +1,4 @@
 Article L343-7
 ----
-Les règles relatives à l'accueil du public en forêt sont fixées par l'article L.
-380-1 du code forestier.
+Les règles relatives à la circulation sur les cours d'eau des engins nautiques
+sont fixées par les articles L. 214-12 et L. 214-13 du code de l'environnement.

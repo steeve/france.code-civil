@@ -1,5 +1,4 @@
 Article L343-4
 ----
-Les règles relatives à la circulation des véhicules à moteur sur les voies et
-chemins de chaque commune adhérente du parc sont fixées par l'article L. 362-1
-du code de l'environnement.
+Les règles relatives aux parcs naturels régionaux sont fixées par les articles
+L. 333-2 à L. 333-4 du code de l'environnement.

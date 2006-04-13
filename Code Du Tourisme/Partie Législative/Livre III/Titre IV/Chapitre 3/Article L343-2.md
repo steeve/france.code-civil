@@ -1,4 +1,5 @@
 Article L343-2
 ----
-Les règles relatives à la mise en valeur des zones périphériques des parcs
-nationaux sont fixées par l'article L. 331-15 du code de l'environnement.
+Les règles relatives au coeur et à l'aire d'adhésion d'un parc national sont
+fixées par la réglementation et la charte prévues aux articles L. 331-2 et L.
+331-3 du code de l'environnement.
