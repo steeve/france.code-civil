@@ -1,18 +1,9 @@
 Article L133-13
 ----
-Les communes ou fractions de communes qui possèdent sur leur territoire soit une
-ou plusieurs sources d'eaux minérales, soit un établissement exploitant une ou
-plusieurs sources d'eau minérale peuvent être érigées en stations
-hydrominérales.
-
-Les communes ou fractions de communes qui offrent des avantages climatiques
-peuvent être érigées en stations climatiques.
-
-Les communes ou fractions de communes sur le territoire desquelles est cultivé
-un raisin de table reconnu apte à une cure thérapeutique, qui présentent toutes
-garanties tant au point de vue de l'hygiène que du climat et qui ont un
-aménagement hôtelier suffisant et présentent un intérêt touristique, peuvent
-être érigées en stations uvales.
-
-Les communes ou fractions de communes qui offrent un ensemble de curiosités
-naturelles ou artistiques peuvent être érigées en stations de tourisme.
+Seules les communes touristiques et leurs fractions qui mettent en oeuvre une
+politique active d'accueil, d'information et de promotion touristiques tendant,
+d'une part, à assurer la fréquentation plurisaisonnière de leurs territoires,
+d'autre part, à mettre en valeur leurs ressources naturelles, patrimoniales ou
+celles qu'elles mobilisent en matière de créations et d'animations culturelles
+et d'activités physiques et sportives peuvent être érigées en stations classées
+de tourisme et soumises aux dispositions de la présente sous-section.
