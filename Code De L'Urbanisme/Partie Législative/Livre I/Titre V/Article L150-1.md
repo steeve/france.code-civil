@@ -16,3 +16,9 @@ approuvé ou jusqu'à une date limite fixée par décret en Conseil d'Etat.
 Les dispositions des articles L. 160-6 à L. 160-8 peuvent être étendues aux
 départements d'outre-mer par décret en Conseil d'Etat avec les adaptations
 éventuellement nécessaires.
+
+Sauf mention contraire dans la charte, l'obligation de compatibilité avec la
+charte d'un parc national faite aux schémas de cohérence territoriale par
+l'article L. 122-1, aux plans locaux d'urbanisme par l'article L. 123-1 et aux
+cartes communales par l'article L. 124-2 n'est pas applicable à l'aire
+d'adhésion du parc national.

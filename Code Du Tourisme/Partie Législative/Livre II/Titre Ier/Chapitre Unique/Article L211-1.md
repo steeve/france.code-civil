@@ -20,3 +20,13 @@ production ou de vente de forfaits touristiques, tels que ceux-ci sont définis 
 l'article L. 211-2, ainsi qu'aux opérations liées à l'organisation de congrès ou
 de manifestations apparentées dès lors que celle-ci inclut tout ou partie des
 prestations prévues aux a, b et c du présent article.
+
+Les titulaires des licence, agrément, autorisation et habilitation prévus par le
+présent titre peuvent réaliser sous forme électronique les opérations
+mentionnées aux alinéas précédents dans les conditions prévues par le présent
+titre et par les articles 1369-1 et 1369-3 du code civil ainsi que par les
+articles L. 121-15-1 à L. 121-15-3 du code de la consommation, par la section 2
+du chapitre Ier du titre II du livre Ier et par l'article L. 134-2 du même code.
+
+Les modalités d'application du présent titre sont définies par décret en Conseil
+d'Etat.

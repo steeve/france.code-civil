@@ -2,9 +2,9 @@ Article L121-4
 ----
 L'Etat, les régions, les départements, les autorités compétentes en matière
 d'organisation des transports urbains et les organismes de gestion des parcs
-naturels régionaux sont associés à l'élaboration des schémas de cohérence
-territoriale et des plans locaux d'urbanisme dans les conditions définies aux
-chapitres II et III.
+naturels régionaux et des parcs nationaux sont associés à l'élaboration des
+schémas de cohérence territoriale et des plans locaux d'urbanisme dans les
+conditions définies aux chapitres II et III.
 
 Il en est de même des chambres de commerce et d'industrie, des chambres de
 métiers, des chambres d'agriculture et, dans les communes littorales au sens de

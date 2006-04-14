@@ -208,7 +208,9 @@ transmission mentionnée au premier alinéa.
 7° Les successions et donations entre vifs, à concurrence des trois quarts de
 leur montant, intéressant les propriétés non bâties qui ne sont pas en nature de
 bois et forêts et qui sont incluses dans les espaces naturels délimités en
-application de l'article L. 414-1 du code de l'environnement, à la condition :
+application des articles L. 331-2, L. 332-2, L. 341-2 et L. 414-1 du code de
+l'environnement et de leurs textes d'application, ou délimités en application de
+l'article L. 146-6 du code de l'urbanisme, à la condition :
 
 a) Que l'acte constatant la donation ou la déclaration de succession soit appuyé
 d'un certificat délivré sans frais par le directeur départemental de
@@ -225,14 +227,15 @@ Cette exonération n'est pas cumulable avec une autre exonération applicable en
 matière de droits de mutation à titre gratuit.
 
 En cas de transmission de propriétés non bâties, qui sont incluses dans les
-espaces naturels délimités en application de l'article L. 414-1 du code de
-l'environnement, à l'Etat ou aux collectivités et organismes mentionnés à
-l'article 1042 du présent code, l'engagement est réputé définitivement satisfait
-à concurrence d'une fraction de la valeur des biens exonérée, celle-ci étant
-déterminée par le rapport entre la superficie des biens objets de la
-transmission et la superficie totale des biens sur lesquels l'engagement a été
-souscrit. La même règle s'applique aux mutations de jouissance ou de propriété
-au profit d'établissements ou de sociétés, en vue de la réalisation
-d'équipements, aménagements ou constructions d'intérêt public, qui pourraient
-donner lieu à l'établissement d'une servitude d'utilité publique au titre de
-ladite mutation.
+espaces naturels délimités en application des articles L. 331-2, L. 332-2, L.
+341-2 et L. 414-1 du code de l'environnement et de leurs textes d'application,
+ou délimités en application de l'article L. 146-6 du code de l'urbanisme, à
+l'Etat ou aux collectivités et organismes mentionnés à l'article 1042 du présent
+code, l'engagement est réputé définitivement satisfait à concurrence d'une
+fraction de la valeur des biens exonérée, celle-ci étant déterminée par le
+rapport entre la superficie des biens objets de la transmission et la superficie
+totale des biens sur lesquels l'engagement a été souscrit. La même règle
+s'applique aux mutations de jouissance ou de propriété au profit
+d'établissements ou de sociétés, en vue de la réalisation d'équipements,
+aménagements ou constructions d'intérêt public, qui pourraient donner lieu à
+l'établissement d'une servitude d'utilité publique au titre de ladite mutation.

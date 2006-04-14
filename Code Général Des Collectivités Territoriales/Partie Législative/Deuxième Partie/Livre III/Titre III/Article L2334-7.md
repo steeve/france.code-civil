@@ -6,7 +6,7 @@ A compter de 2005, la dotation forfaitaire comprend :
 de sa population.
 
 Pour 2005, cette dotation de base est égale pour chaque commune au produit de sa
-population par un montant de 60 Euros par habitant à 120 Euros par habitant en
+population par un montant de 60 euros par habitant à 120 euros par habitant en
 fonction croissante de la population de la commune, dans des conditions définies
 par décret en Conseil d'Etat.
 
@@ -15,8 +15,8 @@ base augmente selon un taux fixé par le comité des finances locales, égal au
 plus à 75 % du taux de progression de l'ensemble des ressources de la dotation
 globale de fonctionnement ;
 
-2° Une dotation proportionnelle à la superficie, égale à 3 Euros par hectare en
-2005 et à 5 Euros par hectare dans les communes situées en zone de montagne. A
+2° Une dotation proportionnelle à la superficie, égale à 3 euros par hectare en
+2005 et à 5 euros par hectare dans les communes situées en zone de montagne. A
 compter de 2006, ce montant évolue selon le taux d'indexation fixé par le comité
 des finances locales pour la dotation de base. A compter de 2005, le montant de
 cette dotation perçu par les communes de Guyane ne peut excéder le triple du
@@ -118,3 +118,9 @@ et place des communes. A cet effet, l'ensemble des crédits correspondant à la
 compensation antérieurement perçue en application du I du D de l'article 44 de
 la loi de finances pour 1999 précitée sont identifiés au sein de la dotation
 forfaitaire.
+
+5° Une dotation versée aux communes dont le territoire est pour tout ou partie
+compris dans le coeur d'un parc national. Elle est fonction de la part de la
+superficie de la commune comprise dans ce coeur, cette part étant doublée pour
+le calcul de la dotation lorsque cette superficie dépasse 5 000 kilomètres
+carrés. Elle évolue chaque année comme la dotation globale de fonctionnement.

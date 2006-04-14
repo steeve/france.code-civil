@@ -1,7 +1,6 @@
 Article L134-6
 ----
-Le budget de l'office de tourisme intercommunal comprend en recettes notamment
-le produit :
+Le budget de l'office de tourisme comprend en recettes notamment le produit :
 
 1° Des subventions ;
 

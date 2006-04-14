@@ -49,15 +49,15 @@ chapitre.
 Les schémas de cohérence territoriale prennent en compte les programmes
 d'équipement de l'Etat, des collectivités locales et des établissements et
 services publics. Ils doivent être compatibles avec les chartes des parcs
-naturels régionaux. Ils doivent également être compatibles avec les orientations
-fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs
-de qualité et de quantité des eaux définis par les schémas directeurs
-d'aménagement et de gestion des eaux en application de l'article L. 212-1 du
-code de l'environnement ainsi qu'avec les objectifs de protection définis par
-les schémas d'aménagement et de gestion des eaux en application de l'article L.
-212-3 du même code. Lorsqu'un de ces documents est approuvé après l'approbation
-d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être
-rendu compatible dans un délai de trois ans.
+naturels régionaux et des parcs nationaux. Ils doivent également être
+compatibles avec les orientations fondamentales d'une gestion équilibrée de la
+ressource en eau et les objectifs de qualité et de quantité des eaux définis par
+les schémas directeurs d'aménagement et de gestion des eaux en application de
+l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de
+protection définis par les schémas d'aménagement et de gestion des eaux en
+application de l'article L. 212-3 du même code. Lorsqu'un de ces documents est
+approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier
+doit, si nécessaire, être rendu compatible dans un délai de trois ans.
 
 En zone de montagne, les schémas de cohérence territoriale définissent la
 localisation, la consistance et la capacité globale d'accueil et d'équipement

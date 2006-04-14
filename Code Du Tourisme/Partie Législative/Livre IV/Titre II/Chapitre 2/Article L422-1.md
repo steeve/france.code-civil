@@ -1,5 +1,5 @@
 Article L422-1
 ----
-Les règles applicables aux exploitants d'hôtels de tourisme saisonniers
-relatives à la taxe professionnelle sont fixées au V de l'article 1478 du code
-général des impôts.
+Les règles relatives à l'établissement de la taxe professionnelle applicables
+aux exploitants d'établissements exerçant une activité à caractère saisonnier
+sont fixées au V de l'article 1478 du code général des impôts.

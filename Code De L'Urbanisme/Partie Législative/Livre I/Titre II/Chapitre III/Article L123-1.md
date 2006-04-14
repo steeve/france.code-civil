@@ -141,14 +141,15 @@ des constructions avoisinantes.
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les
 dispositions du schéma de cohérence territoriale, du schéma de secteur, du
-schéma de mise en valeur de la mer et de la charte du parc naturel régional,
-ainsi que du plan de déplacements urbains et du programme local de l'habitat. Il
-doit également être compatible avec les orientations fondamentales d'une gestion
-équilibrée de la ressource en eau et les objectifs de qualité et de quantité des
-eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en
-application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les
-objectifs de protection définis par les schémas d'aménagement et de gestion des
-eaux en application de l'article L. 212-3 du même code.
+schéma de mise en valeur de la mer et de la charte du parc naturel régional ou
+du parc national, ainsi que du plan de déplacements urbains et du programme
+local de l'habitat. Il doit également être compatible avec les orientations
+fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs
+de qualité et de quantité des eaux définis par les schémas directeurs
+d'aménagement et de gestion des eaux en application de l'article L. 212-1 du
+code de l'environnement ainsi qu'avec les objectifs de protection définis par
+les schémas d'aménagement et de gestion des eaux en application de l'article L.
+212-3 du même code.
 
 Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local
 d'urbanisme, ce dernier doit, si nécessaire, être rendu compatible dans un délai
