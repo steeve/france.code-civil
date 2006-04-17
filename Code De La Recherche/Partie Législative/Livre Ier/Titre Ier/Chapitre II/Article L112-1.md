@@ -7,6 +7,8 @@ connaissance ;
 
 b) La valorisation des résultats de la recherche ;
 
-c) La diffusion des connaissances scientifiques ;
+c) Le partage et la diffusion des connaissances scientifiques ;
+
+c bis) Le développement d'une capacité d'expertise ;
 
 d) La formation à la recherche et par la recherche.

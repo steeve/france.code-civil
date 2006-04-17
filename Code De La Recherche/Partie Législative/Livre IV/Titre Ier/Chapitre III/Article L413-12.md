@@ -4,11 +4,10 @@ Les fonctionnaires mentionnés à l'article L. 413-1 peuvent, à titre personnel
 être autorisés à être membres du conseil d'administration ou du conseil de
 surveillance d'une société anonyme afin de favoriser la diffusion des résultats
 de la recherche publique. Leur participation dans le capital social de
-l'entreprise est limitée à la détention du nombre d'actions requis par ses
-statuts pour être membre du conseil d'administration ou de surveillance mais ne
-peut excéder 5 % de celui-ci. Ils ne peuvent percevoir de l'entreprise d'autre
-rémunération que celles prévues aux articles L. 225-45 et L. 225-83 du code de
-commerce, dans la limite d'un plafond fixé par décret.
+l'entreprise ne peut excéder 20 % de celui-ci ni donner droit à plus de 20 % des
+droits de vote. Ils ne peuvent percevoir de l'entreprise d'autre rémunération
+que celles prévues aux articles L. 225-45 et L. 225-83 du code de commerce, dans
+la limite d'un plafond fixé par décret.
 
 L'autorisation ne peut être demandée si le fonctionnaire est autorisé à apporter
 son concours scientifique à l'entreprise dans les conditions prévues à l'article

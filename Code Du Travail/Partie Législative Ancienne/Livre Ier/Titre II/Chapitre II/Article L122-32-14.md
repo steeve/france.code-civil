@@ -7,7 +7,9 @@ date de début et de l'amplitude de la réduction souhaitée de son temps de
 travail, ainsi que de la durée envisagée de ce congé, ou de cette réduction.
 
 Il précise dans ce même courrier l'activité de l'entreprise qu'il prévoit de
-créer ou de reprendre.
+créer ou de reprendre ou de l'entreprise répondant aux critères de jeune
+entreprise innovante dans laquelle il prévoit d'exercer des responsabilités de
+direction.
 
 Toute demande de prolongation d'un congé ou d'une période de travail à temps
 partiel précédemment accordés fait l'objet d'une information à l'employeur dans

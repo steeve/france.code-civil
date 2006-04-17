@@ -13,4 +13,7 @@ compte les besoins actuels et leur évolution prévisible ;
 3° A la réduction des inégalités sociales ou culturelles et à la réalisation de
 l'égalité entre les hommes et les femmes en assurant à toutes celles et à tous
 ceux qui en ont la volonté et la capacité l'accès aux formes les plus élevées de
-la culture et de la recherche.
+la culture et de la recherche ;
+
+4° A la construction de l'espace européen de la recherche et de l'enseignement
+supérieur.

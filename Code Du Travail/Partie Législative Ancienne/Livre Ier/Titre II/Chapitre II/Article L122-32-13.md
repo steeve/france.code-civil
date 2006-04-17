@@ -1,9 +1,12 @@
 Article L122-32-13
 ----
 Le droit au congé ou à une période de travail à temps partiel pour création ou
-reprise d'entreprise est ouvert au salarié qui, à la date de prise d'effet de ce
-droit, justifie d'une ancienneté dans l'entreprise d'au moins vingt-quatre mois,
-consécutifs ou non.
+reprise d'entreprise ou pour exercer des responsabilités de direction au sein
+d'une entreprise répondant aux critères de jeune entreprise innovante est ouvert
+au salarié qui, à la date de prise d'effet de ce droit, justifie d'une
+ancienneté dans l'entreprise d'au moins vingt-quatre mois, consécutifs ou non.
 
-Ce droit ne pourra être exercé pour une nouvelle création ou reprise
-d'entreprise intervenant moins de trois ans après la précédente.
+Ce droit ne pourra être exercé moins de trois ans après la précédente création
+ou reprise d'entreprise ou après le début de l'exercice de précédentes
+responsabilités de direction au sein d'une entreprise répondant aux critères de
+jeune entreprise innovante.

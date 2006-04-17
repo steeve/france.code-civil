@@ -21,4 +21,13 @@ grade pour des personnes dont la qualification le justifie ;
 e) Des adaptations au régime des positions prévues par le statut général de la
 fonction publique et des dérogations aux règles relatives aux mutations afin de
 faciliter la libre circulation des personnes et des équipes entre les métiers de
-la recherche et les institutions qui y concourent.
+la recherche et les institutions qui y concourent ;
+
+f) Dans le respect des dispositions de l'article 432-12 du code pénal, et par
+dérogation à l'interdiction d'exercer à titre professionnel une activité privée
+lucrative fixée au premier alinéa de l'article 25 de la loi n° 83-634 du 13
+juillet 1983 portant droits et obligations des fonctionnaires, les personnels de
+recherche mentionnés aux articles L. 421-1 et L. 421-2 autorisés à accomplir une
+période de service à temps partiel peuvent être autorisés à exercer, en sus de
+leurs fonctions, une activité dans une entreprise exerçant une ou plusieurs des
+missions définies à l'article L. 411-1.

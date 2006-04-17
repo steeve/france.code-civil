@@ -1,11 +1,12 @@
 Article L413-9
 ----
 Le fonctionnaire peut également être autorisé à détenir une participation dans
-le capital social de l'entreprise, dans la limite de 15 %, sous réserve qu'au
-cours des cinq années précédentes il n'ait pas, en qualité de fonctionnaire ou
-d'agent public, exercé un contrôle sur cette entreprise ou participé à
-l'élaboration ou à la passation de contrats et conventions conclus entre
-l'entreprise et le service public de la recherche.
+le capital social de l'entreprise, lors de la création de celle-ci ou
+ultérieurement, dans la limite de 49 % du capital donnant droit au maximum à 49
+% des droits de vote, sous réserve qu'au cours des cinq années précédentes il
+n'ait pas, en qualité de fonctionnaire ou d'agent public, exercé un contrôle sur
+cette entreprise ou participé à l'élaboration ou à la passation de contrats et
+conventions conclus entre l'entreprise et le service public de la recherche.
 
 Le fonctionnaire ne peut participer ni à l'élaboration ni à la passation des
 contrats et conventions conclus entre l'entreprise et le service public de la

@@ -1,7 +1,7 @@
 Article L113-2
 ----
-Le budget civil de recherche et de développement technologique permet la mise en
-oeuvre des quatre catégories d'actions suivantes :
+La mission interministérielle "Recherche et enseignement supérieur" permet la
+mise en oeuvre des quatre catégories d'actions suivantes :
 
 a) Les recherches fondamentales dont le développement est garanti ;
 

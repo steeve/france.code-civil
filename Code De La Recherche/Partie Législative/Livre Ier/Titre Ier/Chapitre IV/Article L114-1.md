@@ -1,6 +1,9 @@
 Article L114-1
 ----
-Les programmes de recherche et de développement relevant des catégories énoncées
-à l'article L. 113-2 font l'objet d'une évaluation sur la base de critères
-objectifs adaptés à chacun d'eux. Ces critères ainsi que les modalités de
-l'évaluation sont déterminés avant la mise en oeuvre des programmes.
+Les activités de recherche financées en tout ou partie sur fonds publics,
+réalisées par des opérateurs publics ou privés, sont évaluées sur la base de
+critères objectifs adaptés à chacune d'elles et s'inspirant des meilleures
+pratiques internationales.
+
+Parmi ces critères, les contributions au développement de la culture
+scientifique sont prises en compte.

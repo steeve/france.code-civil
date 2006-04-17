@@ -6,3 +6,6 @@ qualité d'associé ou de dirigeant, à la création d'une entreprise dont l'obj
 est d'assurer, en exécution d'un contrat conclu avec une personne publique ou
 une entreprise publique, la valorisation des travaux de recherche qu'ils ont
 réalisés dans l'exercice de leurs fonctions.
+
+Le contrat mentionné au premier alinéa est conclu dans un délai fixé par décret.
+A défaut, l'autorisation donnée à l'agent devient caduque.

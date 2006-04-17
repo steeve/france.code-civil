@@ -1,3 +1,4 @@
 Article L141-1
 ----
-Les dispositions de l'article L. 113-3 sont applicables à Mayotte.
+Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L.
+114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont applicables à Mayotte.
