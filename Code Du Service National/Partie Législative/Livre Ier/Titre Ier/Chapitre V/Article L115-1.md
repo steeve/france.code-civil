@@ -1,10 +1,10 @@
 Article L115-1
 ----
-La préparation militaire et la préparation militaire supérieure sont accessibles
-aux Français libérés des obligations du service national âgés de moins de trente
-ans et ayant l'aptitude reconnue par le service de santé des armées pour suivre
-le cycle de formation correspondant.
+Une période militaire d'initiation ou de perfectionnement à la défense nationale
+est organisée sur l'initiative du ministre chargé de la défense nationale qui en
+définit les modalités.
 
-Cette préparation militaire consiste en une formation militaire dont la durée
-est fixée par l'autorité militaire en fonction des besoins de chaque force
-armée, arme et spécialité.
+La période militaire d'initiation ou de perfectionnement à la défense nationale
+est accessible aux Français âgés de plus de seize ans et de moins de trente ans
+et ayant l'aptitude reconnue par le service de santé des armées pour suivre le
+cycle de formation correspondant.
