@@ -3,18 +3,19 @@ Article L214-41
 I. - Les fonds communs de placement dans l'innovation sont des fonds communs de
 placement à risques dont l'actif est constitué, pour 60 % au moins, de valeurs
 mobilières, parts de société à responsabilité limitée et avances en compte
-courant, telles que définies par le 1° et le a du 2° de l'article L. 214-36,
-émises par des sociétés ayant leur siège dans un Etat membre de la Communauté
-européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique
-européen ayant conclu avec la France une convention fiscale qui contient une
-clause d'assistance administrative en vue de lutter contre la fraude ou
-l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans les
-conditions de droit commun ou en seraient passibles dans les mêmes conditions si
-l'activité était exercée en France, qui comptent moins de deux mille salariés,
-dont le capital n'est pas détenu majoritairement, directement ou indirectement,
-par une ou plusieurs personnes morales ayant des liens de dépendance avec une
-autre personne morale au sens du III et qui remplissent l'une des conditions
-suivantes ;
+courant, dont au moins 6 % dans des entreprises dont le capital est compris
+entre 100 000 euros et deux millions d'euros, telles que définies par le 1° et
+le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans
+un Etat membre de la Communauté européenne, ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une
+convention fiscale qui contient une clause d'assistance administrative en vue de
+lutter contre la fraude ou l'évasion fiscale, qui sont soumises à l'impôt sur
+les sociétés dans les conditions de droit commun ou en seraient passibles dans
+les mêmes conditions si l'activité était exercée en France, qui comptent moins
+de deux mille salariés, dont le capital n'est pas détenu majoritairement,
+directement ou indirectement, par une ou plusieurs personnes morales ayant des
+liens de dépendance avec une autre personne morale au sens du III et qui
+remplissent l'une des conditions suivantes ;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées
 de recherche visées aux a à f du II de l'article 244 quater B du code général

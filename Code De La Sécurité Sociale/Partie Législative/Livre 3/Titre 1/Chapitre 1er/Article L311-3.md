@@ -128,4 +128,16 @@ sociale ;
 activité économique dans les conditions définies par l'article L. 127-1 du code
 de commerce ;
 
-26° Les personnes mentionnées au 2° de l'article L. 781-1 du code du travail.
+26° Les personnes mentionnées au 2° de l'article L. 781-1 du code du travail ;
+
+27° Les fonctionnaires et agents publics autorisés à faire des expertises ou à
+donner des consultations au titre du décret du 29 octobre 1936 relatif aux
+cumuls de retraites, de rémunérations et de fonctions, dans le cadre d'activités
+de recherche et d'innovation, ainsi que ceux qui sont autorisés à apporter leur
+concours scientifique à une entreprise qui assure la valorisation de leurs
+travaux au titre de l'article L. 413-8 du code de la recherche. Toutefois, ces
+dispositions ne sont pas applicables, sur leur demande, aux personnes inscrites
+auprès des unions de recouvrement des cotisations de sécurité sociale et
+d'allocations familiales en qualité de travailleurs indépendants lorsque
+l'existence d'un lien de subordination avec le donneur d'ouvrage ne peut être
+établi.

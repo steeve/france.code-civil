@@ -3,14 +3,15 @@ Article L1221-8-1
 Le sang et ses composants peuvent être utilisés dans le cadre d'une activité de
 recherche, qu'ils aient été ou non prélevés par un établissement de transfusion
 sanguine. Dans ce cas, la recherche est menée à partir de prélèvements réalisés
-soit dans une finalité médicale, soit dans le cadre d'une recherche biomédicale,
-soit dans une finalité de constitution de collection d'échantillons biologiques
-humains. Dans ce dernier cas, les prélèvements de sang ne doivent comporter que
-des risques négligeables. Dans tous les cas, les principes mentionnés aux
-articles L. 1221-3, L. 1221-4 et L. 1221-6 sont applicables, sans préjudice des
-dispositions du titre II du livre Ier de la présente partie lorsque le sang ou
-ses composants sont prélevés ou utilisés dans le cadre d'une activité de
-recherche biomédicale.
+soit dans une finalité médicale, soit dans le cadre d'une recherche visant à
+évaluer les soins courants mentionnée au 2° de l'article L. 1121-1, soit dans le
+cadre d'une recherche biomédicale, soit dans une finalité de constitution de
+collection d'échantillons biologiques humains. Dans ce dernier cas, les
+prélèvements de sang ne doivent comporter que des risques négligeables. Dans
+tous les cas, les principes mentionnés aux articles L. 1221-3, L. 1221-4 et L.
+1221-6 sont applicables, sans préjudice des dispositions du titre II du livre
+Ier de la présente partie lorsque le sang ou ses composants sont prélevés ou
+utilisés dans le cadre d'une activité de recherche biomédicale.
 
 Lorsque le sang ou ses composants sont prélevés pour constituer directement une
 collection d'échantillons biologiques humains, les dispositions mentionnées aux

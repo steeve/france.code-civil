@@ -168,6 +168,21 @@ effectuent des apports de travail ;
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
+9° Les établissements publics de recherche et les établissements publics
+d'enseignement supérieur ;
+
+10° Les personnes morales créées pour la gestion d'un pôle de recherche et
+d'enseignement supérieur ou d'un réseau thématique de recherche avancée ;
+
+11° Les fondations reconnues d'utilité publique du secteur de la recherche,
+parmi lesquelles les fondations de coopération scientifique.
+
+Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et
+11° s'appliquent aux revenus tirés des activités conduites dans le cadre des
+missions du service public de l'enseignement supérieur et de la recherche
+définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la
+recherche.
+
 1 bis. Lorsque les sociétés coopératives ou leurs unions émettent des
 certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas
 applicable à la fraction des résultats correspondant à la part du montant

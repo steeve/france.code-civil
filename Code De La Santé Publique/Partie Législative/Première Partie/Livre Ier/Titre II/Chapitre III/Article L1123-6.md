@@ -10,3 +10,7 @@ Toutefois, en cas d'avis défavorable du comité, le promoteur peut demander au
 ministre chargé de la santé de soumettre le projet de recherche, pour un second
 examen, à un autre comité désigné par le ministre, dans des conditions définies
 par voie réglementaire.
+
+Le ministre chargé de la santé peut être saisi de la même demande en cas d'avis
+défavorable du comité de protection des personnes sur une recherche définie au
+2° de l'article L. 1121-1.

@@ -13,13 +13,15 @@ du plan et sous les conditions fixées aux b et c de l'article L. 123-13 ;
 
 b) D'une révision simplifiée selon les modalités définies par le huitième alinéa
 de l'article L. 123-13, si cette révision est approuvée avant le 1er janvier
-2006 et si elle a pour seul objet la réalisation d'une construction ou d'une
-opération, à caractère public ou privé, présentant un intérêt général notamment
-pour la commune ou toute autre collectivité, ou la rectification d'une erreur
-matérielle. L'opération mentionnée à la phrase précédente peut également
-consister en un projet d'extension des zones constructibles qui ne porte pas
-atteinte à l'économie générale du plan d'occupation des sols et ne comporte pas
-de graves risques de nuisance ;
+2010 sous réserve, lorsque le plan répond aux conditions définies par le 4° de
+l'article L. 121-10, de l'application de la procédure prévue aux articles L.
+121-11 et suivants, et si elle a pour seul objet la réalisation d'une
+construction ou d'une opération, à caractère public ou privé, présentant un
+intérêt général notamment pour la commune ou toute autre collectivité, ou la
+rectification d'une erreur matérielle. L'opération mentionnée à la phrase
+précédente peut également consister en un projet d'extension des zones
+constructibles qui ne porte pas atteinte à l'économie générale du plan
+d'occupation des sols et ne comporte pas de graves risques de nuisance ;
 
 c) D'une mise en compatibilité selon les modalités définies par l'article L.
 123-16.
