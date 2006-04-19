@@ -1,14 +1,15 @@
 Article D322-23
 ----
-I. - L'aide de l'Etat accordée au titre du deuxième alinéa du II de l'article L.
-322-4-12 est calculée sur la base de la différence entre la rémunération
-mensuelle brute versée au salarié par l'employeur et le montant de l'aide
-accordée à ce dernier en application du premier alinéa du II du même article. La
-rémunération brute s'entend du salaire et des cotisations dues par l'employeur
-au titre de l'assurance chômage et de la protection sociale complémentaire au
-sens de l'article L. 911-2 du code de la sécurité sociale, lorsque celles-ci
-résultent de dispositions législatives ou réglementaires ou d'accords collectifs
-rendus obligatoires par des dispositions législatives ou réglementaires.
+I. - L'aide de l'Etat accordée au titre du troisième alinéa du II de l'article
+L. 322-4-12 est calculée sur la base de la différence entre la rémunération
+mensuelle brute versée au salarié par l'employeur dans la limite du salaire
+minimum de croissance et le montant de l'aide accordée à ce dernier en
+application du premier alinéa du II du même article. La rémunération brute
+s'entend du salaire et des cotisations dues par l'employeur au titre de
+l'assurance chômage et de la protection sociale complémentaire au sens de
+l'article L. 911-2 du code de la sécurité sociale, lorsque celles-ci résultent
+de dispositions législatives ou réglementaires ou d'accords collectifs rendus
+obligatoires par des dispositions législatives ou réglementaires.
 
 Sous réserve du renouvellement de la convention par avenant, elle est égale à :
 

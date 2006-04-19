@@ -12,7 +12,7 @@ d'insertion ;
 
 2° Par le Centre national pour l'aménagement des structures des exploitations
 agricoles pour les salariés ayant conclu un contrat insertion-revenu minimum
-d'activité en tant que bénéficiaires de l'allocation de solidarité spécifique ou
-de l'allocation de parent isolé.
+d'activité en tant que bénéficiaires de l'allocation de solidarité spécifique,
+de l'allocation de parent isolé ou de l'allocation aux adultes handicapés.
 
 Cette aide est proratisée sur la base d'un trentième indivisible.
