@@ -115,10 +115,9 @@ la condition que ce dernier fasse l'objet d'une publication si cette formalité
 est obligatoire en application des dispositions de l'article 28 du décret n°
 55-22 du 4 janvier 1955 modifié.
 
-I. (Disposition abrogée).
+I. (Disposition abrogée)
 
-J. Les cessions de constructions provisoires, réalisées en application de
-l'article L. 60 du code du domaine de l'Etat.
+J. (Dispositions devenues sans objet)
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans
 le périmètre de lotissements qui sont agréés dans des conditions fixées par

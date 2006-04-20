@@ -53,11 +53,11 @@ sont imposables jusqu'à l'expiration de celle-ci.
 
 1° bis Pendant toute la durée du contrat et dans les mêmes conditions que celles
 prévues au 1°, les immeubles construits dans le cadre de contrats de
-partenariat, de contrats conclus en application de l'article L. 34-3-1 du code
-du domaine de l'Etat, ou de contrats visés au premier alinéa de l'article L.
-6148-5 du code de la santé publique, et qui, à l'expiration du contrat, sont
-incorporés au domaine de la personne publique conformément aux clauses de ce
-contrat.
+partenariat, de contrats conclus en application de l'article L. 2122-15 du code
+général de la propriété des personnes publiques, ou de contrats visés au premier
+alinéa de l'article L. 6148-5 du code de la santé publique, et qui, à
+l'expiration du contrat, sont incorporés au domaine de la personne publique
+conformément aux clauses de ce contrat.
 
 Pour l'application des conditions prévues au 1°, la condition relative à
 l'absence de production de revenus doit être appréciée au regard de la personne
