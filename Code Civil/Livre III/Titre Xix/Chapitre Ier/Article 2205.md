@@ -1,4 +1,4 @@
 Article 2205
 ----
-Les baux consentis par le saisi sont, quelle que soit leur durée, inopposables
-aux créanciers poursuivants.
+Sous réserve des incapacités tenant aux fonctions qu'elle exerce, toute personne
+peut se porter enchérisseur si elle justifie de garanties de paiement.

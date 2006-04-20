@@ -8,11 +8,8 @@ irrémédiablement compromis de sa situation ainsi que sa bonne foi, rend un
 jugement prononçant l'ouverture de la procédure.
 
 Le jugement entraîne la suspension des procédures d'exécution diligentées contre
-le débiteur et portant sur les dettes autres qu'alimentaires. En cas de
-publication d'un commandement aux fins de saisie immobilière antérieurement à
-l'ouverture de la procédure, le juge de la saisie immobilière est seul compétent
-pour prononcer la suspension de la procédure. La suspension est acquise jusqu'au
-jugement de clôture.
+le débiteur et portant sur les dettes autres qu'alimentaires. La suspension est
+acquise jusqu'au jugement de clôture.
 
 Le juge de l'exécution peut désigner un mandataire figurant sur une liste
 établie dans des conditions fixées par décret en Conseil d'Etat, faire procéder

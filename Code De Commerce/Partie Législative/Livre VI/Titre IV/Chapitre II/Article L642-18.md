@@ -25,8 +25,8 @@ Les adjudications réalisées en application des alinéas qui précèdent emport
 purge des hypothèques.
 
 Le liquidateur répartit le produit des ventes et règle l'ordre entre les
-créanciers, sous réserve des contestations qui sont portées devant le tribunal
-de grande instance.
+créanciers, sous réserve des contestations qui sont portées devant le juge de
+l'exécution.
 
 En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en
 considération de la situation personnelle et familiale du débiteur, lui accorder

@@ -2,12 +2,10 @@ Article L331-5
 ----
 La commission peut saisir le juge de l'exécution aux fins de suspension des
 procédures d'exécution diligentées contre le débiteur et portant sur les dettes
-autres qu'alimentaires. Toutefois, postérieurement à la publication d'un
-commandement aux fins de saisie immobilière, le juge de la saisie immobilière
-est seul compétent pour prononcer la suspension de cette procédure. En cas
-d'urgence, la saisine du juge peut intervenir à l'initiative du président de la
-commission, du délégué de ce dernier, du représentant local de la Banque de
-France ou du débiteur. La commission est ensuite informée de cette saisine.
+autres qu'alimentaires. En cas d'urgence, la saisine du juge peut intervenir à
+l'initiative du président de la commission, du délégué de ce dernier, du
+représentant local de la Banque de France ou du débiteur. La commission est
+ensuite informée de cette saisine.
 
 Si la situation du débiteur l'exige, le juge prononce la suspension provisoire
 des procédures d'exécution. Celle-ci est acquise, sans pouvoir excéder un an,
@@ -23,8 +21,8 @@ statué.
 
 Lorsqu'en cas de saisie immobilière la date d'adjudication a été fixée, la
 commission peut, pour causes graves et dûment justifiées, saisir le juge aux
-fins de remise de l'adjudication, dans les conditions prévues par l'article 703
-du code de procédure civile (ancien).
+fins de remise de l'adjudication, dans les conditions prévues par décret en
+Conseil d'Etat.
 
 Sauf autorisation du juge, la décision qui prononce la suspension provisoire des
 procédures d'exécution interdit au débiteur de faire tout acte qui aggraverait

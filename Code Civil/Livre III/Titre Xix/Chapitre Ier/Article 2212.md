@@ -1,7 +1,8 @@
 Article 2212
 ----
-Si le débiteur justifie, par baux authentiques, que le revenu net et libre de
-ses immeubles pendant une année suffit pour le paiement de la dette en capital,
-intérêts et frais, et s'il en offre la délégation au créancier, la poursuite
-peut être suspendue par les juges, sauf à être reprise s'il survient quelque
-opposition ou obstacle au paiement.
+A défaut de consignation du prix et de paiement des frais, la vente est résolue
+de plein droit.
+
+L'adjudicataire défaillant est tenu au paiement de la différence entre son
+enchère et le prix de la revente, si celui-ci est moindre. Il ne peut prétendre
+à la répétition des sommes qu'il a acquittées.

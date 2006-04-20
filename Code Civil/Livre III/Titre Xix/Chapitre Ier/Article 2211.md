@@ -1,7 +1,8 @@
 Article 2211
 ----
-Si les biens hypothéqués au créancier et les biens non hypothéqués, ou les biens
-situés dans divers arrondissements, font partie d'une seule et même
-exploitation, la vente des uns et des autres est poursuivie ensemble, si le
-débiteur le requiert ; et ventilation se fait du prix de l'adjudication, s'il y
-a lieu.
+L'adjudicataire doit consigner le prix sur un compte séquestre ou à la Caisse
+des dépôts et consignations et payer les frais de la vente.
+
+Il ne peut, avant cette consignation et ce paiement, accomplir un acte de
+disposition sur le bien à l'exception de la constitution d'une hypothèque
+accessoire à un contrat de prêt destiné à financer l'acquisition de ce bien.
