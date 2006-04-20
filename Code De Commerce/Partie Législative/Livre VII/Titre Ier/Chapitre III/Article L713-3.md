@@ -24,17 +24,18 @@ l'exception de la nationalité ;
 2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code
 électoral ;
 
-2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures
-d'interdiction ou de déchéance telles que prévues au chapitre V du titre II du
-livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises ou,
-dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
+3° N'avoir pas été frappés depuis moins de quinze ans à compter du jour où la
+décision les ayant prononcées est devenue définitive, de faillite personnelle ou
+d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI
+du présent code, à la loi n° 85-98 du 25 janvier 1985 relative au redressement
+et à la liquidation judiciaires des entreprises ou à la loi n° 67-563 du 13
 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite
-personnelle et les banqueroutes, d'une mesure d'interdiction définie à l'article
-L. 653-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
-commerciale ;
+personnelle et les banqueroutes ;
 
-3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées
+4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité
+commerciale en application du chapitre VIII du titre II du livre Ier ;
+
+5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées
 en vertu de législations en vigueur dans les Etats membres de la Communauté
 européenne ou dans les Etats parties à l'accord sur l'Espace économique européen
-équivalentes à celles visées aux 2° et 2° bis.
+équivalentes à celles visées aux 2°, 3° et 4°.

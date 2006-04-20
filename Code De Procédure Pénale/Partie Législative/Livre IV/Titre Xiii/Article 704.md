@@ -55,3 +55,16 @@ précède s'étend aux infractions connexes.
 Un décret fixe la liste et le ressort de ces juridictions, qui comprennent une
 section du parquet et des formations d'instruction et de jugement spécialisées
 pour connaître de ces infractions.
+
+Au sein de chaque tribunal de grande instance dont la compétence territoriale
+est étendue au ressort d'une ou plusieurs cours d'appel, le premier président,
+après avis du président du tribunal de grande instance, désigne un ou plusieurs
+juges d'instruction et magistrats du siège chargés spécialement de l'instruction
+et, s'il s'agit de délits, du jugement des infractions entrant dans le champ
+d'application du présent article.
+
+"Au sein de chaque cour d'appel dont la compétence territoriale est étendue au
+ressort d'une ou plusieurs cours d'appel, le premier président et le procureur
+général désignent respectivement des magistrats du siège et du parquet général
+chargés spécialement du jugement des délits et du traitement des affaires
+entrant dans le champ d'application du présent article.
