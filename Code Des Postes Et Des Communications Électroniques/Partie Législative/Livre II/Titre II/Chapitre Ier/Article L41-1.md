@@ -10,6 +10,7 @@ sur les fréquences attribuées par le Premier ministre, en application de
 l'article L. 41, pour les besoins de la défense nationale ou de la sécurité
 publique.
 
-L'utilisation, par les titulaires d'autorisation, de fréquences radioélectriques
-disponibles sur le territoire de la République constitue un mode d'occupation
-privatif du domaine public de l'Etat.
+Conformément à l'article L. 2124-26 du code général de la propriété des
+personnes publiques, l'utilisation, par les titulaires d'autorisation, de
+fréquences radioélectriques disponibles sur le territoire de la République
+constitue un mode d'occupation privatif du domaine public de l'Etat.

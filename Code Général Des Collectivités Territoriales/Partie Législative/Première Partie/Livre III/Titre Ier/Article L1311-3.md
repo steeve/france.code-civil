@@ -1,6 +1,6 @@
 Article L1311-3
 ----
-- Les baux passés en application de l'article L. 1311-2 satisfont aux conditions
+Les baux passés en application de l'article L. 1311-2 satisfont aux conditions
 particulières suivantes :
 
 1° Les droits résultant du bail ne peuvent être cédés, avec l'agrément de la
@@ -30,4 +30,8 @@ conventions non détachables. Elle peut également autoriser la cession
 conformément aux dispositions du 1° ci-dessus ;
 
 4° Les litiges relatifs à ces baux sont de la compétence des tribunaux
-administratifs.
+administratifs ;
+
+5° Les constructions réalisées dans le cadre de ces baux peuvent donner lieu à
+la conclusion de contrats de crédit-bail. Dans ce cas, le contrat comporte des
+clauses permettant de préserver les exigences du service public.

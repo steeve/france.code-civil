@@ -4,7 +4,7 @@ Les règles relatives aux pouvoirs de police de la circulation routière dans la
 commune de Paris sont fixées par l'article L. 2512-14 du code général des
 collectivités territoriales ci-après reproduit :
 
-"Art. L. 2512-14. - Les pouvoirs conférés au maire par le premier alinéa de
+" Art.L. 2512-14.-Les pouvoirs conférés au maire par le premier alinéa de
 l'article L. 2213-1 et par les articles L. 2213-2 à L. 2213-6 sont, à Paris,
 exercés par le maire de Paris sous réserve des dispositions ci-après.
 
@@ -33,7 +33,12 @@ le préfet de police.
 En outre, les pouvoirs conférés par le code de la route au préfet sont exercés à
 Paris par le préfet de police.
 
-L'exécution des dispositions du présent article est assurée par les
+L'exécution des dispositions des alinéas précédents est assurée par les
 fonctionnaires de la police nationale ou, le cas échéant, en matière de
 circulation ou de stationnement, par des agents de la ville de Paris placés sous
 l'autorité du préfet de police.
+
+Les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et
+ses quais, sont donnés par l'ingénieur en chef comme en matière d'occupation
+temporaire et les droits correspondants perçus comme en cette matière au profit
+de l'Etat par l'administration compétente. "

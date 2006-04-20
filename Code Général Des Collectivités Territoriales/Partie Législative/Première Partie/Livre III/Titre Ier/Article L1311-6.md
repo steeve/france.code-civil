@@ -1,12 +1,18 @@
 Article L1311-6
 ----
-- Les maires des communes et les présidents des conseils généraux des
-départements de la Moselle, du Bas-Rhin et du Haut-Rhin, les présidents des
-établissements publics rattachés à une collectivité territoriale ou regroupant
-ces collectivités et les présidents des syndicats mixtes qui ont leur siège dans
-ces départements, le président du conseil régional d'Alsace ainsi que le
-président du conseil régional de Lorraine pour les actes soumis à publication
-dans le département de la Moselle sont habilités à recevoir et à authentifier,
-en vue de leur publication au livre foncier, les actes concernant les droits
-réels immobiliers ainsi que les baux passés, en la forme administrative, par ces
-collectivités et établissements publics.
+Le droit réel conféré par le titre, les ouvrages, constructions et installations
+de caractère immobilier ne peuvent être cédés, ou transmis dans le cadre de
+mutations entre vifs ou de fusion, absorption ou scission de sociétés, pour la
+durée de validité du titre restant à courir, y compris dans le cas de
+réalisation de la sûreté portant sur lesdits droits et biens et dans les cas
+prévus aux premier et deuxième alinéas de l'article L. 1311-6-1, qu'à une
+personne agréée par les collectivités territoriales, leurs groupements et leurs
+établissements publics, en vue d'une utilisation compatible avec l'affectation
+du domaine public occupé.
+
+Lors du décès d'une personne physique titulaire d'un titre d'occupation
+constitutif de droit réel, celui-ci peut être transmis, dans les conditions
+prévues à l'alinéa précédent, au conjoint survivant ou aux héritiers sous
+réserve que le bénéficiaire, désigné par accord entre eux, soit présenté à
+l'agrément de l'autorité compétente dans un délai de six mois à compter du
+décès.

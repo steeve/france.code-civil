@@ -34,8 +34,8 @@ II. - Par dérogation au I, la déclaration est déposée :
 1° Pour les actes passés en la forme administrative qui constatent une mutation
 immobilière amiable ou forcée de biens au profit de l'Etat, des établissements
 publics nationaux, des groupements d'intérêt public, ou d'une collectivité
-territoriale ou d'un établissement public local désigné à l'article L. 1311-5 du
-code général des collectivités territoriales, à la collectivité publique
+territoriale ou d'un établissement public local désigné à l'article L. 1311-13
+du code général des collectivités territoriales, à la collectivité publique
 cessionnaire préalablement à la réquisition de publier ou à la présentation à
 l'enregistrement. L'absence de déclaration à l'appui de la réquisition de
 publier ou de la présentation à l'enregistrement n'entraîne pas le refus du

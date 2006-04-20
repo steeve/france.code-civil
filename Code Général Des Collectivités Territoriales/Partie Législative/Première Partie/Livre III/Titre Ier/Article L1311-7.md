@@ -1,19 +1,26 @@
 Article L1311-7
 ----
-L'utilisation d'équipements collectifs par une collectivité territoriale, un
-établissement public de coopération intercommunale ou un syndicat mixte fait
-l'objet d'une participation financière au bénéfice de la collectivité
-territoriale, de l'établissement public de coopération intercommunale ou du
-syndicat mixte propriétaire de ces équipements. Toutefois, lorsque l'équipement
-concerné est affecté à l'exercice d'une compétence transférée à l'établissement
-public de coopération intercommunale ou au syndicat mixte par la collectivité ou
-l'établissement utilisateurs de cet équipement, cette disposition n'est pas
-applicable à cette collectivité ou à cet établissement.
+A l'issue du titre d'occupation, les ouvrages, constructions et installations de
+caractère immobilier existant sur la dépendance domaniale occupée doivent être
+démolis, soit par le titulaire de l'autorisation, soit à ses frais, à moins que
+leur maintien en l'état n'ait été prévu expressément par le titre d'occupation
+ou que l'autorité compétente ne renonce en tout ou partie à leur démolition.
 
-Le montant de la participation financière est calculé par référence aux frais de
-fonctionnement des équipements. Les modalités de calcul de cette participation
-sont définies par convention passée entre le propriétaire et la collectivité,
-l'établissement ou le syndicat utilisateurs. A défaut de signature de cette
-convention au terme d'un délai d'un an d'utilisation de cet équipement, le
-propriétaire détermine le montant de cette participation financière qui
-constitue une dépense obligatoire pour l'utilisateur.
+Les ouvrages, constructions et installations de caractère immobilier dont le
+maintien à l'issue du titre d'occupation a été accepté deviennent de plein droit
+et gratuitement la propriété des collectivités territoriales, de leurs
+groupements et de leurs établissements publics, francs et quittes de tous
+privilèges et hypothèques.
+
+Toutefois, en cas de retrait de l'autorisation avant le terme prévu, pour un
+motif autre que l'inexécution de ses clauses et conditions, le titulaire est
+indemnisé du préjudice direct, matériel et certain né de l'éviction anticipée.
+Les règles de détermination de l'indemnité peuvent être précisées dans le titre
+d'occupation. Les droits des créanciers régulièrement inscrits à la date du
+retrait anticipé sont reportés sur cette indemnité.
+
+Deux mois au moins avant la notification d'un retrait pour inexécution des
+clauses et conditions de l'autorisation, les créanciers régulièrement inscrits
+sont informés des intentions de l'autorité compétente à toutes fins utiles, et
+notamment pour être mis en mesure de proposer la substitution d'un tiers au
+permissionnaire défaillant ou de s'y substituer eux-mêmes.

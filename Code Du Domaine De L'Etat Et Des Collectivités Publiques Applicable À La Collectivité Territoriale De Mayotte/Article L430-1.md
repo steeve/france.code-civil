@@ -1,4 +1,0 @@
-Article L430-1
-----
-Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions
-d'application des dispositions du présent code.
