@@ -1,14 +1,10 @@
 Article R1334-5
 ----
-Les contrôles après travaux prévus à l'article L. 1334-3 comprennent :
+Les travaux prévus par l'article L. 1334-2 et L. 1334-9 consistent à mettre en
+place des matériaux de recouvrement sur les revêtements dégradés contenant du
+plomb mis en évidence lors du diagnostic et incluent, le cas échéant, le
+remplacement de certains éléments de construction et les travaux nécessaires
+pour supprimer les causes immédiates de la dégradation des revêtements.
 
-1° Une inspection des lieux permettant de vérifier la réalisation des travaux
-prescrits ;
-
-2° Une analyse des poussières prélevées sur le sol permettant de s'assurer de
-l'absence de contamination des locaux.
-
-A l'issue des travaux, la concentration en plomb des poussières au sol, par
-unité de surface, ne doit pas excéder un seuil défini par arrêté des ministres
-chargés du logement et de la santé et qui détermine également les conditions de
-réalisation des contrôles.
+Les travaux ne doivent pas entraîner de dissémination nuisible de poussières de
+plomb.

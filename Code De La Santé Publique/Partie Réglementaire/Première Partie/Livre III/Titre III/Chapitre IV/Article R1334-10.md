@@ -1,16 +1,14 @@
 Article R1334-10
 ----
-La publicité de l'arrêté du préfet délimitant les zones à risque est assurée par
-son affichage pendant un mois à la mairie du lieu de situation des biens compris
-dans ces zones. Mention de l'arrêté et des modalités de consultation de celui-ci
-est insérée dans deux journaux diffusés dans le département.
+L'auteur du constat de risque d'exposition au plomb établi en application de
+l'article L. 1334-5 identifie les éléments comportant un revêtement, précise la
+concentration en plomb de ces revêtements et la méthode d'analyse utilisée pour
+la mesurer et décrit l'état de conservation des revêtements contenant du plomb,
+selon un protocole précisé par un arrêté conjoint des ministres chargés du
+logement et de la santé. Il consigne, le cas échéant, dans le rapport du constat
+la liste des facteurs de dégradation du bâti mentionnés à l'article L. 1334-5
+qu'il a relevés.
 
-L'arrêté prend effet à compter de l'exécution de l'ensemble des formalités de
-publicité mentionnées à l'alinéa précédent. La date à prendre en considération
-pour l'affichage en mairie est celle du premier jour où il est effectué.
-
-Le préfet adresse, sans délai, au Conseil supérieur du notariat, à la chambre
-départementale des notaires et aux barreaux constitués près les tribunaux de
-grande instance dans le ressort desquels sont situées les zones à risque
-d'exposition au plomb, copie des arrêtés ayant pour effet de les délimiter ou de
-les supprimer.
+Lorsque l'auteur du constat transmet une copie du constat au préfet en
+application de l'article L. 1334-10, il en informe le propriétaire, le syndicat
+des copropriétaires ou l'exploitant du local d'hébergement.

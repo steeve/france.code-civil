@@ -1,6 +1,5 @@
 Article R1334-11
 ----
-L'état des risques d'accessibilité au plomb établi en application de l'article
-L. 1334-5 identifie toute surface comportant un revêtement avec présence de
-plomb et précise la concentration de plomb, la méthode d'analyse utilisée ainsi
-que l'état de conservation de chaque surface.
+Le constat de risque d'exposition au plomb est dressé par un contrôleur
+technique agréé au sens de l'article L. 111-25 du code de la construction et de
+l'habitation ou par un technicien de la construction qualifié.

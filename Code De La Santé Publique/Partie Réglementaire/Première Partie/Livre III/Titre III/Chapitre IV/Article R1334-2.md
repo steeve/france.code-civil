@@ -1,5 +1,8 @@
 Article R1334-2
 ----
-Tout signalement doit mentionner l'adresse de l'immeuble ou de la partie
-d'immeuble dont les occupants peuvent être exposés à un risque d'accessibilité
-au plomb, ainsi que les causes de ce risque.
+L'enquête environnementale mentionnée à l'article L. 1334-1 vise à rechercher
+les sources de plomb dans l'environnement du mineur, afin de déterminer
+l'origine de l'intoxication. Le médecin ayant reçu le signalement d'un cas de
+saturnisme chez une personne mineure communique au préfet les informations
+nécessaires permettant de procéder à l'enquête environnementale prévue à
+l'article L. 1334-1.
