@@ -1,8 +1,13 @@
 Article R1123-14
 ----
-Le comité saisi d'un projet de recherche en accuse réception à l'investigateur
-par lettre recommandée. Il peut entendre l'investigateur. Sur demande de ce
-dernier, il doit, par décision du président, soit l'entendre en comité plénier
-ou en comité restreint, soit le faire entendre par le rapporteur désigné. Dans
-ces cas, l'investigateur peut se faire accompagner par le promoteur ou son
-représentant mandaté à cet effet.
+Lorsque le projet de recherche porte sur des personnes mineures de moins de
+seize ans, le comité s'adjoint la compétence d'un pédiatre si le comité ne
+comprend pas en son sein un tel spécialiste. De même, lorsque le projet de
+recherche porte sur des personnes majeures hors d'état d'exprimer leur
+consentement, le comité s'adjoint une personne qualifiée au regard de la
+spécificité de la maladie et de la population concernées si le comité ne
+comprend pas en son sein un tel spécialiste.
+
+Ces spécialistes participent aux séances du comité pour les besoins de la
+recherche considérée et prennent part aux délibérations relatives à cette
+recherche.

@@ -1,6 +1,6 @@
 Article R5121-13
 ----
-Sous réserve des dispositions des articles L. 1123-6 à L. 1123-8 et L. 1123-10
+Sous réserve des dispositions des articles L. 1123-6 à L. 1123-8 et L. 1123-13
 et de celles prises pour leur application, les expérimentateurs, les
 investigateurs et les personnes appelées à collaborer aux essais sont tenus au
 secret professionnel en ce qui concerne notamment la nature des produits

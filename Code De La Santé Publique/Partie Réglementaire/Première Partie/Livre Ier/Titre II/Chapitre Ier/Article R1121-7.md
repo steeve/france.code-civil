@@ -1,17 +1,11 @@
 Article R1121-7
 ----
-La souscription des contrats mentionnés à l'article R. 1121-2 est justifiée par
-la production d'une attestation délivrée par l'assureur qui vaut présomption de
-garantie.
+Les contrats mentionnés à l'article R. 1121-5 ne peuvent pas stipuler des
+garanties d'un montant inférieur à :
 
-Ces documents comportent les mentions suivantes :
+1° 1 000 000 euros par victime ;
 
-1° Les références aux dispositions législatives et réglementaires applicables ;
+2° 6 000 000 euros par protocole de recherche ;
 
-2° La raison sociale de l'entreprise d'assurance ;
-
-3° Le numéro du contrat d'assurance ;
-
-4° La dénomination et l'adresse du souscripteur du contrat ;
-
-5° La dénomination précise de la recherche couverte par l'assurance.
+3° 10 000 000 euros pour l'ensemble des réclamations présentées pendant une
+année d'assurance au titre de plusieurs protocoles de recherche.

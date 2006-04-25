@@ -1,5 +1,6 @@
 Article R1123-6
 ----
-Au-delà de trois absences consécutives, non justifiées, d'un membre titulaire
-aux séances du comité, le préfet de région peut mettre fin au mandat de ce
-membre.
+Afin de procéder à la nomination des membres du comité par le préfet de région
+ou, en Corse, le préfet de Corse, un appel à candidatures pour chacune des
+catégories mentionnées à l'article R. 1123-4 est diffusé par tout moyen
+approprié.

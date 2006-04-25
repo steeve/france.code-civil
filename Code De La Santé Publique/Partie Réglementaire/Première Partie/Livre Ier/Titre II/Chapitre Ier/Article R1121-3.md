@@ -1,23 +1,28 @@
 Article R1121-3
 ----
-Les contrats mentionnés à l'article R. 1121-2 ne peuvent prévoir de clauses
-excluant de la garantie les dommages subis par les victimes ou leurs ayants
-droit que dans les cas suivants :
+Les recherches mentionnées au 2° de l'article L. 1121-1 sont entendues comme les
+recherches dont l'objectif est d'évaluer des actes, combinaisons d'actes ou
+stratégies médicales de prévention, de diagnostic ou de traitement qui sont de
+pratique courante, c'est-à-dire faisant l'objet d'un consensus professionnel,
+dans le respect de leurs indications.
 
-1° Les recherches biomédicales n'ont pas lieu dans les conditions prévues au
-premier tiret de l'article L. 1121-3 ;
+Ne relèvent pas de cette catégorie et sont en conséquence soumises à l'ensemble
+des dispositions du présent titre :
 
-2° Le consentement des personnes qui se prêtent à la recherche biomédicale n'est
-pas recueilli dans les conditions prévues aux articles L. 1122-1 ou L. 1122-2 ;
+1° Les recherches qui portent sur des techniques ou des stratégies innovantes ou
+considérées comme obsolètes ;
 
-3° La recherche est réalisée sans que l'avis du comité consultatif prévu à
-l'article L. 1123-6 ait été obtenu ;
+2° Les recherches qui portent sur l'évaluation d'une combinaison innovante
+d'actes ou de produits, même si chacun de ceux-ci pris isolément est
+d'utilisation courante ;
 
-4° Les prescriptions de l'article L. 1123-8 ne sont pas respectées ;
+3° Les recherches portant sur une comparaison de stratégies médicales, lorsque
+l'une de ces stratégies peut, en l'état des connaissances être considérée comme
+supérieure à l'autre en termes de sécurité et d'efficacité.
 
-5° Les dispositions de l'article L. 1124-6 ne sont pas respectées ;
+Les modalités particulières de surveillance mises en oeuvre dans ces recherches
+ne comportent que des risques et des contraintes négligeables pour la personne
+qui se prête à la recherche.
 
-6° La recherche a lieu en dépit d'une décision d'interdiction ou de suspension
-prise par le ministre ou le directeur général de l'Agence française de sécurité
-sanitaire des produits de santé en application du dernier alinéa de l'article L.
-1123-8.
+L'information de cette dernière fait l'objet d'un document écrit soumis
+préalablement au comité de protection des personnes intéressé.

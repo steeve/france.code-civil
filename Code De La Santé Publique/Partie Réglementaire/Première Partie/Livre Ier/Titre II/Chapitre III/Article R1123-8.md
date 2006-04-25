@@ -1,5 +1,5 @@
 Article R1123-8
 ----
-Dans chacune des huit catégories de membres mentionnées à l'article R. 1123-1,
-les membres suppléants peuvent remplacer tout membre titulaire de cette
-catégorie.
+En cas de vacance d'un siège survenant en cours de mandat, le remplacement
+intervient dans les mêmes conditions que la nomination pour la durée du mandat
+restant à courir.

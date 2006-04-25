@@ -1,7 +1,9 @@
 Article R1123-17
 ----
-Le comité communique tout avis défavorable donné à un projet de recherche au
-ministre chargé de la santé. Toutefois, lorsqu'il s'agit d'une recherche
-biomédicale portant sur des produits mentionnés à l'article L. 5311-1, le comité
-communique cet avis au directeur général de l'Agence française de sécurité
-sanitaire des produits de santé.
+Chaque comité a son siège soit au sein de la direction régionale des affaires
+sanitaires et sociales, soit dans une direction départementale des affaires
+sanitaires et sociales, soit dans un établissement public de santé avec le
+représentant légal duquel le préfet de région ou, en Corse, le préfet de Corse
+passe convention aux fins de mettre à la disposition du comité les moyens en
+locaux, matériels et personnel nécessaires pour assurer sa mission moyennant une
+rémunération forfaitaire.

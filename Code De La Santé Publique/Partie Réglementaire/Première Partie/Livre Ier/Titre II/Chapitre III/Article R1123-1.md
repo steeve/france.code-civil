@@ -1,25 +1,18 @@
 Article R1123-1
 ----
-Les comités consultatifs de protection des personnes dans la recherche
-biomédicale comprennent douze membres titulaires :
+L'agrément d'un comité est délivré par le ministre chargé de la santé sur la
+demande du préfet de la région concernée et après avis de celui-ci. La demande
+d'agrément mentionne l'adresse du siège social du comité et est accompagnée d'un
+budget prévisionnel et, pour les demandes de renouvellement, d'un rapport
+d'activité pour la période écoulée depuis le précédent agrément. Le contenu du
+budget prévisionnel et du rapport d'activité est fixé par arrêté du ministre
+chargé de la santé. Les demandes de renouvellement d'agrément sont adressées au
+plus tard trois mois avant l'expiration de l'agrément en cours.
 
-1° Quatre personnes, dont au moins trois médecins, ayant une qualification et
-une expérience approfondie en matière de recherche biomédicale ;
+L'agrément est délivré pour une durée de six ans. L'arrêté du ministre chargé de
+la santé prononçant l'agrément détermine la compétence territoriale du comité
+après avis du préfet de la région concernée. Le ministre peut toutefois, sans
+attendre le renouvellement, modifier la compétence territoriale d'un comité, sur
+proposition du préfet de la région concernée.
 
-2° Un médecin généraliste ;
-
-3° Deux pharmaciens dont l'un au moins exerce dans un établissement de soins ;
-
-4° Un infirmier ou une infirmière ;
-
-5° Une personne qualifiée en raison de sa compétence à l'égard des questions
-d'éthique ;
-
-6° Une personne qualifiée en raison de son activité dans le domaine social ;
-
-7° Un psychologue ;
-
-8° Une personne qualifiée en raison de sa compétence en matière juridique.
-
-Les comités comprennent en outre douze membres suppléants satisfaisant aux mêmes
-conditions.
+Le renouvellement de l'agrément est prononcé dans les mêmes formes.

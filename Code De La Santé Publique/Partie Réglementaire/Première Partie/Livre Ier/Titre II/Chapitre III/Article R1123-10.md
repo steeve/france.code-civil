@@ -1,15 +1,16 @@
 Article R1123-10
 ----
-Le président du comité sollicite l'agrément de celui-ci auprès du ministre
-chargé de la santé. Sa demande est accompagnée des documents ou informations
-suivants :
+Les membres titulaires élisent parmi eux le président du comité à la majorité
+absolue des présents. Si cette majorité n'a pu être atteinte à l'issue de deux
+tours de scrutin, le président est élu à la majorité relative. En cas de partage
+égal des voix entre les deux candidats les mieux placés, la présidence du comité
+est attribuée au doyen d'âge de ces deux candidats. Le vice-président est élu
+dans les mêmes conditions.
 
-1° Les statuts du comité ;
+Pour ces élections, le quorum est fixé aux deux tiers des membres du comité.
 
-2° L'adresse de son siège et ses moyens prévisionnels de fonctionnement,
-notamment en personnel ;
+Si le président fait partie du premier collège mentionné à l'article R. 1123-4,
+le vice-président est élu parmi les membres du deuxième collège et inversement.
 
-3° L'identité et la qualité des membres du comité.
-
-Le comité est agréé par arrêté du ministre chargé de la santé publié au Journal
-officiel de la République française.
+La durée du mandat du président et du vice-président est de trois ans
+renouvelable une fois.

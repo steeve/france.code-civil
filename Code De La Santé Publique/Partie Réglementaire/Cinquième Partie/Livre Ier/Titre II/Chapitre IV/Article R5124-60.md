@@ -10,11 +10,10 @@ ou produits organisé par l'exploitant.
 
 Cette obligation s'impose dans les mêmes conditions aux établissements se
 livrant à la vente en gros, à la cession à titre gratuit ou à la distribution en
-gros de médicaments destinés à être expérimentés sur l'homme, d'objets de
-pansement et articles présentés comme conformes à la pharmacopée mentionnés au
-2° de l'article L. 4211-1 ou de produits officinaux divisés mentionnés au 4° de
-l'article L. 5121-1, dont le retrait est organisé par le fabricant ou
-l'importateur.
+gros de médicaments expérimentaux, d'objets de pansement et articles présentés
+comme conformes à la pharmacopée mentionnés au 2° de l'article L. 4211-1 ou de
+produits officinaux divisés mentionnés au 4° de l'article L. 5121-1, dont le
+retrait est organisé par le fabricant ou l'importateur.
 
 Les établissements mentionnés aux alinéas précédents conservent pendant deux ans
 une copie des décisions de retrait de lots.

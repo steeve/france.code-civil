@@ -12,10 +12,9 @@ acquise au cours de stages d'internat au-delà de sa première année dans ces
 Pour exercer ses fonctions dans une entreprise, un organisme ou un établissement
 assurant la fabrication ou l'importation de médicaments, le pharmacien
 responsable ou le pharmacien délégué justifie que cette expérience pratique
-comporte des activités d'analyse qualitative des médicaments autres que ceux
-destinés à être expérimentés sur l'homme, d'analyse quantitative des principes
-actifs ainsi que d'essais et vérifications nécessaires pour assurer la qualité
-des médicaments.
+comporte des activités d'analyse qualitative des médicaments autres que des
+médicaments expérimentaux, d'analyse quantitative des principes actifs ainsi que
+d'essais et vérifications nécessaires pour assurer la qualité des médicaments.
 
 Le type d'établissement où l'expérience pratique s'est déroulée et la nature des
 activités requises sont précisées en fonction de l'activité de l'établissement,

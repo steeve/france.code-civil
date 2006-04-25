@@ -26,6 +26,16 @@ géographiques à desservir mentionnés dans la demande ou pour certaines des
 activités sollicitées au titre de l'article R. 5126-9 qui figurent alors dans
 l'autorisation.
 
+Pour la réalisation des préparations rendues nécessaires par les recherches
+biomédicales, y compris la préparation des médicaments expérimentaux et pour
+l'importation de médicaments expérimentaux, l'autorisation précise la forme
+pharmaceutique ou, à défaut, la nature des produits et, dans le cas de la
+préparation, les opérations réalisées. Pour la réalisation des préparations
+hospitalières à partir de matières premières ou de spécialités pharmaceutiques,
+cette autorisation précise la forme pharmaceutique des préparations
+hospitalières. Le contenu de cette autorisation est fixé par arrêté du ministre
+chargé de la santé.
+
 Lorsqu'un établissement de santé remplit les conditions de l'article R. 5126-13,
 l'autorisation mentionne l'activité de dispensation au public prévue à l'article
 L. 5126-4.

@@ -1,5 +1,9 @@
 Article R1123-3
 ----
-Le mandat des membres des comités est de six ans. Toutefois, lors de la création
-d'un nouveau comité, le premier mandat des membres faisant l'objet du premier
-renouvellement mentionné à l'article R. 1123-4 est de trois ans.
+Lorsque le ministre chargé de la santé envisage de retirer l'agrément d'un
+comité, il en informe le préfet de région ou, en Corse, le préfet de Corse, qui
+le notifie au président du comité. Ce dernier dispose d'un délai de trente jours
+pour faire valoir ses observations.
+
+Le retrait d'agrément est prononcé après avis du préfet de région ou, en Corse,
+du préfet de Corse.

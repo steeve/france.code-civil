@@ -1,7 +1,6 @@
 Article R1123-33
 ----
-Toute modification de la recherche affectant de manière substantielle des
-informations prévues ci-dessus fait l'objet d'une communication complémentaire
-adressée au ministre chargé de la santé ou au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé dans la forme prévue à
-l'article R. 1123-32.
+Si, dans le délai d'un an suivant l'autorisation de la recherche biomédicale,
+celle-ci n'a pas débuté, cette autorisation devient caduque. Toutefois, sur
+justification produite avant l'expiration dudit délai, celui-ci peut être
+prorogé par décision de l'autorité compétente.

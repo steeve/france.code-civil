@@ -13,7 +13,8 @@ non autorisé au titre de l'article 40 de la directive 2001/83/CE du Parlement
 européen et du Conseil instituant un code communautaire relatif aux médicaments
 à usage humain.
 
-Ce contrôle est effectué par l'établissement pharmaceutique de l'importateur.
+Ce contrôle est effectué sous la responsabilité de l'établissement
+pharmaceutique importateur.
 
 Lorsque ces médicaments ou produits bénéficient d'une autorisation de mise sur
 le marché mentionnée à l'article L. 5121-8, ce contrôle est celui prévu au
@@ -24,7 +25,3 @@ des fabricants dûment autorisés au titre de la législation ou de la
 réglementation de l'Etat concerné et ont été soumis à des normes de bonnes
 pratiques au moins équivalentes à celles que prévoient les articles L. 5121-5 et
 L. 5136-3.
-
-Les dispositions de l'alinéa précédent sont applicables aux médicaments destinés
-à être expérimentés sur l'homme importés dans les conditions mentionnées au
-premier alinéa.

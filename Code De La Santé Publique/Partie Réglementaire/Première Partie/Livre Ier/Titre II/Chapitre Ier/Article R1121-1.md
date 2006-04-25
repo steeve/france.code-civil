@@ -1,17 +1,20 @@
 Article R1121-1
 ----
-Les objets ou matériels ainsi que les médicaments ou produits mentionnés à
-l'article R. 5123 sont fournis gratuitement, ou mis gratuitement à disposition
-pendant le temps de l'essai par le promoteur.
+Les recherches biomédicales portant sur un médicament sont entendues comme tout
+essai clinique d'un ou plusieurs médicaments visant à déterminer ou à confirmer
+leurs effets cliniques, pharmacologiques et les autres effets pharmacodynamiques
+ou à mettre en évidence tout effet indésirable, ou à en étudier l'absorption, la
+distribution, le métabolisme et l'élimination, dans le but de s'assurer de leur
+innocuité ou de leur efficacité.
 
-Le promoteur prend en charge les frais supplémentaires liés à d'éventuels
-fournitures ou examens spécifiquement requis par le protocole de l'essai.
+Les recherches biomédicales portant sur un dispositif médical sont entendues
+comme tout essai clinique ou investigation clinique d'un ou plusieurs
+dispositifs médicaux visant à déterminer ou à confirmer leurs performances ou à
+mettre en évidence leurs effets indésirables et à évaluer si ceux-ci constituent
+des risques au regard des performances assignées au dispositif.
 
-Si la mise en oeuvre du protocole est de nature à entraîner des frais
-supplémentaires de fonctionnement pour un établissement public ou privé, le
-promoteur prend ces frais en charge.
-
-Lorsque l'essai est réalisé dans un établissement public ou privé, la prise en
-charge des frais mentionnés aux deux précédents alinéas fait l'objet d'une
-convention conclue entre le promoteur et le représentant légal de cet
-établissement.
+Les autres catégories de recherches biomédicales mentionnées au premier alinéa
+de l'article L. 1121-1 font l'objet, en tant que de besoin, d'une définition par
+arrêté du ministre chargé de la santé, pris sur proposition du directeur général
+de l'Agence française de sécurité sanitaire des produits de santé pour les
+produits relevant de sa compétence.

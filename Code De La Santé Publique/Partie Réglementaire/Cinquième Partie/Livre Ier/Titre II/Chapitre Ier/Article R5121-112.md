@@ -2,13 +2,15 @@ Article R5121-112
 ----
 La demande est accompagnée :
 
-1° Pour les médicaments importés en vue d'une recherche biomédicale, de la
-lettre d'intention prévue aux articles L. 1123-8, R. 1123-28 et R. 1123-29 ;
+1° Pour les médicaments importés en vue d'une recherche biomédicale, de l'accusé
+de réception de la demande adressée à l'Agence française de sécurité sanitaire
+des produits de santé telle que prévue aux articles L. 1123-8 et R. 1123-30 ;
 toutefois, lorsque la mise en oeuvre d'une recherche présente un caractère
-d'urgence, ce document peut être remplacé par l'avis du comité consultatif de
-protection des personnes dans la recherche biomédicale ou, si cet avis n'a pas
-encore été donné, par l'accusé de réception du projet de recherche mentionné à
-l'article R. 1123-14 ;
+d'urgence, ce document peut être remplacé par une lettre du demandeur justifiant
+la nécessité d'importer les médicaments nécessaires à la réalisation de la
+recherche biomédicale, accompagnée notamment d'un engagement précisant que les
+médicaments importés ne seront distribués qu'après obtention de l'autorisation
+de recherche biomédicale prévue à l'article L. 1123-8 ;
 
 2° Pour les médicaments importés en vue d'études analytiques, pharmacologiques
 ou toxicologiques, d'une lettre de l'importateur justifiant leur utilisation ;
