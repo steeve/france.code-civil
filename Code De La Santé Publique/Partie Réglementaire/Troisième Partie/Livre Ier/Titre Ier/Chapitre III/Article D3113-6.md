@@ -11,7 +11,13 @@ b) Brucellose ;
 
 c) Charbon ;
 
+c) 1. Chikungunya, dans les départements figurant sur une liste fixée par arrêté
+du ministre chargé de la santé ;
+
 d) Choléra ;
+
+d) 1. Dengue, dans les départements figurant sur une liste fixée par arrêté du
+ministre chargé de la santé ;
 
 e) Diphtérie ;
 
