@@ -15,7 +15,8 @@ qui préside le conseil, ou son représentant ;
 
 b) Le directeur général de l'alimentation ou son représentant ;
 
-c) Le vice-président du conseil général vétérinaire ou son représentant ;
+c) Le chef du corps des inspecteurs de la santé publique vétérinaire ou son
+représentant ;
 
 d) Le directeur de chaque école vétérinaire ou son représentant ;
 
