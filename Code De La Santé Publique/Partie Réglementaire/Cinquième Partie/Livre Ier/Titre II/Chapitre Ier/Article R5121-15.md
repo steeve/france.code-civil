@@ -4,41 +4,17 @@ Le promoteur communique aux investigateurs d'essais cliniques :
 
 1° Le titre et l'objectif de l'essai demandé ;
 
-2° Pour le médicament soumis à l'essai :
+2° La forme pharmaceutique, le ou les numéros de lot et la date de péremption du
+médicament expérimental ;
 
-a) Sa dénomination spéciale ou scientifique ou son nom de code ;
+3° Pour le médicament expérimenté ou utilisé comme référence, sa dénomination
+spéciale ou scientifique ou son nom de code, sa composition qualitative et
+quantitative en principes actifs et en constituants de l'excipient dont la
+connaissance est nécessaire à une bonne administration du médicament, en
+utilisant les dénominations communes internationales lorsqu'elles existent ou, à
+défaut, les dénominations de la pharmacopée européenne ou française ;
 
-b) Sa forme pharmaceutique ;
-
-c) Sa composition qualitative et quantitative, en utilisant les dénominations
-communes internationales lorsqu'elles existent ou, à défaut, les dénominations
-de la pharmacopée européenne ou française ;
-
-d) Son ou ses numéros de lot ;
-
-e) Sa date de péremption ;
-
-3° Pour un médicament de référence :
-
-a) Sa dénomination spéciale ou scientifique ;
-
-b) Sa forme pharmaceutique ;
-
-c) Sa composition qualitative et quantitative en principes actifs ;
-
-d) Son ou ses numéros de lot ;
-
-e) Sa date de péremption ;
-
-4° Pour un placebo :
-
-a) Sa forme pharmaceutique ;
-
-b) Sa composition ;
-
-c) Son ou ses numéros de lot ;
-
-d) Sa date de péremption ;
+4° Pour un placebo, sa composition ;
 
 5° Les informations qui seront données, en application de l'article L. 1122-1,
 aux personnes sollicitées de se prêter à l'essai et les modalités de recueil du
@@ -47,14 +23,15 @@ remis ;
 
 6° Une copie de l'attestation d'assurance ;
 
-7° Le cas échéant, la période d'exclusion mentionnée à l'article L. 1124-4 ;
+7° Le cas échéant, la période d'exclusion mentionnée à l'article L. 1121-12 ;
 
 8° L'avis du comité consultatif de protection des personnes consulté sur le
 projet en application de l'article L. 1123-6, si l'investigateur n'en dispose
 pas déjà ;
 
-9° La synthèse des prérequis mentionnée à l'article R. 1123-24, accompagnée des
-références des principaux travaux exploités pour cette synthèse ;
+9° La brochure pour l'investigateur mentionnée à l'article R. 1123-20,
+accompagnée des références des principaux travaux exploités pour cette synthèse
+;
 
 10° Le protocole de l'essai clinique ;
 
@@ -64,7 +41,9 @@ obtenues en France ou à l'étranger pour le médicament ainsi que celles des
 autorisations ;
 
 12° L'identité des autres investigateurs qui participent au même essai et les
-lieux où ils conduisent leurs travaux.
+lieux où ils conduisent leurs travaux ;
+
+13° L'autorisation prévue à l'article L. 1123-8.
 
 Les investigateurs peuvent demander au promoteur tout document ou essai
 complémentaire s'ils s'estiment insuffisamment éclairés par les informations

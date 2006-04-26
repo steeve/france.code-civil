@@ -1,73 +1,31 @@
 Article R1123-24
 ----
-Avant que soit entreprise une recherche biomédicale sur l'être humain,
-l'investigateur unique ou coordonnateur communique au comité consultatif de
-protection des personnes dans la recherche biomédicale dont il sollicite l'avis
-:
+Le comité saisi des demandes d'avis mentionnées à l'article R. 1123-21 se
+prononce dans un délai de trente-cinq jours. Ce délai commence à courir à
+compter de la date de réception, qui est notifié au promoteur par le comité d'un
+dossier comprenant l'ensemble des informations requises en application des
+articles R. 1123-20, R. 1123-22 ou R. 1123-23.
 
-1° Des renseignements sur la nature et les modalités de la recherche :
+Le comité peut, une fois qu'il dispose de l'ensemble des informations requises,
+formuler une seule demande au promoteur d'informations complémentaires qu'il
+estime nécessaires à l'examen du dossier. Il peut également demander au
+promoteur de modifier son projet. Ces demandes sont portées à la connaissance de
+l'autorité compétente. Dans ces hypothèses, le délai de réponse imparti au
+comité mentionné au premier alinéa ci-dessus est porté à soixante jours. Ce
+délai est suspendu par la demande d'informations complémentaires formulée par le
+comité de protection des personnes jusqu'à réception des éléments demandés ou,
+le cas échéant, du projet modifié.
 
-a) L'identité du promoteur de la recherche et celle du fabricant du médicament,
-produit, objet ou matériel expérimenté, si ce fabricant est distinct du
-promoteur ;
+Sur sa demande, le promoteur ou son représentant mandaté à cet effet,
+éventuellement accompagné de l'investigateur ou, le cas échéant, de
+l'investigateur coordonnateur, peut être entendu par le comité. Dans ce cas, le
+comité, par décision du président, soit l'entend en comité plénier ou en comité
+restreint, soit le fait entendre par le rapporteur désigné.
 
-b) Le titre et l'objectif de la recherche, en précisant s'il s'agit d'une
-recherche avec ou sans bénéfice individuel direct ;
+Les avis défavorables rendus par le comité de protection des personnes saisi
+sont diffusés pour information aux autres comités.
 
-c) Toutes informations utiles sur le médicament, produit, objet, matériel ou
-méthode expérimenté ;
-
-d) L'identité du ou des investigateurs pressentis, leurs titres, expérience et
-fonctions ;
-
-e) Une synthèse du dernier état des connaissances scientifiques requises pour la
-mise en oeuvre de la recherche, selon sa nature, dans les domaines chimique,
-technologique, pharmaceutique, biologique, pharmacologique, toxicologique et
-clinique, dénommées prérequis, accompagnée des références des principaux travaux
-exploités pour cette synthèse ;
-
-f) Les éléments du protocole de la recherche, et notamment la méthodologie
-clinique, permettant au comité de se prononcer sur la pertinence générale du
-projet ;
-
-g) Les informations sur le ou les lieux où la recherche se déroulera et sur les
-personnels et équipements prévus, permettant au comité de se prononcer sur
-l'adéquation entre les objectifs poursuivis et les moyens mis en oeuvre ;
-
-h) La nature des informations communiquées aux investigateurs ;
-
-2° Des renseignements attestant que les garanties prévues pour les personnes qui
-se prêtent à la recherche sont respectées :
-
-a) Les références des autorisations ou homologations éventuellement obtenues en
-France ou à l'étranger pour le médicament, produit, objet ou matériel
-expérimenté, ainsi que les éventuelles décisions de refus, de suspension ou de
-retrait de telles autorisations ou homologations ;
-
-b) Les informations qui seront données en application de l'article L. 1122-1 et
-notamment :
-
-- l'objectif de la recherche, sa méthodologie et sa durée ;
-
-- les bénéfices attendus, les contraintes et les risques prévisibles, liés soit
-à la recherche soit au traitement proposé ;
-
-- le droit pour les personnes sollicitées de refuser de participer à la
-recherche ou de retirer leur consentement à tout moment sans encourir aucune
-responsabilité ;
-
-c) Les modalités de recueil du consentement de ces personnes, y compris le ou
-les documents qui leur seront remis ;
-
-d) Une copie de l'attestation d'assurance souscrite par le promoteur de la
-recherche ;
-
-3° En outre, lorsque la recherche projetée est une recherche sans bénéfice
-individuel direct :
-
-a) La ou les autorisations accordées pour chaque lieu de recherches ;
-
-b) Le montant des indemnités éventuellement dues aux personnes qui se prêteront
-à la recherche ;
-
-c) La durée de la période d'exclusion.
+Les avis mentionnés au 3° de l'article R. 1123-21 concernant les collections
+d'échantillons biologiques sont, en outre, adressés sans délai au ministre
+chargé de la recherche et, le cas échéant, au directeur régional de
+l'hospitalisation territorialement compétent.

@@ -9,9 +9,9 @@ présenter et qu'aucune autre technique d'efficacité comparable comportant de
 moindres risques ou dépourvue d'un tel risque n'est disponible.
 
 Pour les expositions aux rayonnements ionisants lors de programmes de recherche
-biomédicale avec ou sans bénéfice direct pour la personne concernée et lors de
-procédures médico-légales, il est tenu compte des avantages pour la personne
-concernée par l'exposition et de ceux de la recherche médicale.
+biomédicale et lors de procédures médico-légales, il est tenu compte des
+avantages pour la personne concernée par l'exposition et de ceux de la recherche
+médicale.
 
 La justification d'une exposition aux rayonnements ionisants à des fins
 médicales et médico-légales s'appuie soit sur les recommandations de pratique

@@ -1,17 +1,16 @@
 Article R1123-30
 ----
-Si la recherche porte sur un matériel ou un objet autre que contraceptif, le
-promoteur communique, outre les informations prévues à l'article R. 1123-28 :
+Le dossier de demande d'autorisation dont le contenu, le format et les modalités
+de présentation sont définis par arrêté du ministre chargé de la santé, pris sur
+proposition du directeur général de l'Agence française de sécurité sanitaire des
+produits de santé pour les produits relevant de sa compétence comprend :
 
-1° Les résultats des essais réalisés in vitro et chez l'animal ainsi que la
-synthèse des essais préalables qui auraient pu être effectués chez l'homme ;
+1° Un dossier administratif ;
 
-2° Un résumé du protocole de la recherche ;
+2° Un dossier sur la recherche biomédicale comportant notamment le protocole et
+la brochure mentionnés à l'article R. 1123-20 ;
 
-3° Les documents attestant la conformité du matériel ou de l'objet aux exigences
-essentielles de sécurité et de santé et, selon le cas, aux normes françaises,
-aux normes des communautés européennes, aux normes internationales ou, à défaut,
-à toute norme étrangère ;
+3° Le cas échéant, un dossier technique relatif aux produits, actes pratiqués et
+méthodes utilisées dans le cadre de la recherche ;
 
-4° Toutes autres informations utiles relatives au matériel ou à l'objet, à son
-fonctionnement et à son utilisation.
+4° L'avis du comité de protection des personnes si celui-ci s'est prononcé.

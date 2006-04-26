@@ -18,10 +18,9 @@ pharmacopée mentionnés au 2° de l'article L. 4211-1 et les produits officinau
 divisés mentionnés au 4° de l'article L. 5121-1, la vente en gros, la cession à
 titre gratuit ainsi que les opérations de suivi des lots et, s'il y a lieu, de
 leur retrait et, le cas échéant, de pharmacovigilance sont effectuées par le
-fabricant. Pour les médicaments destinés à être expérimentés sur l'homme, les
-opérations de suivi desdits médicaments et, s'il y a lieu, de leur retrait sont
-effectuées par le fabricant, sous la responsabilité du promoteur mentionné à
-l'article L. 1121-1 ;
+fabricant. Pour les médicaments expérimentaux, les opérations de suivi desdits
+médicaments et, s'il y a lieu, de leur retrait sont effectuées par le fabricant,
+sous la responsabilité du promoteur mentionné à l'article L. 1121-1 ;
 
 2° Importateur, l'entreprise ou l'organisme se livrant, en vue de leur vente en
 gros, de leur cession à titre gratuit ou de leur expérimentation sur l'homme, à
@@ -43,15 +42,15 @@ pharmacopée mentionnés au 2° de l'article L. 4211-1 et les produits officinau
 divisés mentionnés au 4° de l'article L. 5121-1, la vente en gros, la cession à
 titre gratuit ainsi que les opérations de suivi des lots et, s'il y a lieu, de
 leur retrait et, le cas échéant, de pharmacovigilance sont effectuées par
-l'importateur. Pour les médicaments destinés à être expérimentés sur l'homme,
-les opérations de suivi desdits médicaments et, s'il y a lieu, de leur retrait
-sont effectuées par l'importateur, sous la responsabilité du promoteur mentionné
-à l'article L. 1121-1 ;
+l'importateur. Pour les médicaments expérimentaux, les opérations de suivi
+desdits médicaments et, s'il y a lieu, de leur retrait sont effectuées par
+l'importateur, sous la responsabilité du promoteur mentionné à l'article L.
+1121-1 ;
 
 3° Exploitant, l'entreprise ou l'organisme se livrant à l'exploitation de
-médicaments autres que ceux destinés à être expérimentés sur l'homme, de
-générateurs, trousses et précurseurs mentionnés au 3° de l'article L. 4211-1 ou
-de produits mentionnés à l'article L. 5136-1.
+médicaments autres que des médicaments expérimentaux, de générateurs, trousses
+et précurseurs mentionnés au 3° de l'article L. 4211-1 ou de produits mentionnés
+à l'article L. 5136-1.
 
 L'exploitation comprend les opérations de vente en gros ou de cession à titre
 gratuit, de publicité, d'information, de pharmacovigilance, de suivi des lots
@@ -81,8 +80,8 @@ articles dont elle n'est pas propriétaire, en vue de leur distribution en gros
 et en l'état ;
 
 5° Grossiste-répartiteur, l'entreprise se livrant à l'achat et au stockage de
-médicaments autres que ceux destinés à être expérimentés sur l'homme, en vue de
-leur distribution en gros et en l'état ;
+médicaments autres que des médicaments expérimentaux, en vue de leur
+distribution en gros et en l'état ;
 
 6° Distributeur en gros de produits pharmaceutiques autres que les médicaments,
 l'entreprise se livrant à l'achat et au stockage de produits, objets, articles,
@@ -91,30 +90,29 @@ générateurs, trousses ou précurseurs mentionnés aux 2° et 3° de l'article 
 5121-1, en vue de leur distribution en gros et en l'état ;
 
 7° Distributeur en gros à l'exportation, l'entreprise se livrant à l'achat et au
-stockage de médicaments autres que ceux destinés à être expérimentés sur
-l'homme, de produits, objets, articles, générateurs, trousses ou précurseurs
-mentionnés aux 2° et 3° de l'article L. 4211-1, de plantes médicinales
-mentionnées au 5° de l'article L. 4211-1 ou de produits officinaux divisés
-mentionnés au 4° de l'article L. 5121-1, en vue de leur exportation en l'état ;
+stockage de médicaments autres que des médicaments expérimentaux, de produits,
+objets, articles, générateurs, trousses ou précurseurs mentionnés aux 2° et 3°
+de l'article L. 4211-1, de plantes médicinales mentionnées au 5° de l'article L.
+4211-1 ou de produits officinaux divisés mentionnés au 4° de l'article L.
+5121-1, en vue de leur exportation en l'état ;
 
 8° Distributeur en gros à vocation humanitaire, l'organisme à but non lucratif
 mentionné à l'article L. 5124-7 se livrant à l'acquisition à titre gratuit ou
-onéreux et au stockage de médicaments autres que ceux destinés à être
-expérimentés sur l'homme, en vue de leur distribution en gros ou de leur
-exportation dans les conditions prévues au même article ;
+onéreux et au stockage de médicaments autres que des médicaments expérimentaux,
+en vue de leur distribution en gros ou de leur exportation dans les conditions
+prévues au même article ;
 
 9° Distributeur en gros de médicaments dérivés du sang, l'établissement de
 transfusion sanguine bénéficiant de l'autorisation mentionnée à l'article L.
 1223-1, se livrant à l'achat et au stockage de médicaments dérivés du sang
-autres que ceux destinés à être expérimentés sur l'homme, en vue de leur
-distribution en gros et en l'état ;
+autres que des médicaments expérimentaux, en vue de leur distribution en gros et
+en l'état ;
 
-10° Distributeur de médicaments destinés à être expérimentés sur l'homme,
-l'entreprise se livrant, d'ordre et pour le compte d'un ou plusieurs promoteurs
-définis à l'article L. 1121-1, au stockage de médicaments destinés à être
-expérimentés sur l'homme dont elle n'est pas propriétaire, fabriqués ou importés
-par des entreprises ou organismes définis au 1° ou au 2° du présent article, en
-vue de leur distribution en l'état ;
+10° Distributeurs de médicaments expérimentaux, toute entreprise se livrant, le
+cas échéant d'ordre et pour le compte d'un ou plusieurs promoteurs définis à
+l'article L. 1121-1, au stockage de médicaments expérimentaux fabriqués ou
+importés par des entreprises ou organismes définis au 1° ou au 2° du présent
+article, en vue de leur distribution en l'état ;
 
 11° Distributeur en gros de plantes médicinales, l'entreprise se livrant au
 stockage et aux contrôles et opérations nécessaires pour la distribution en gros
