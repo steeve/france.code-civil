@@ -92,4 +92,14 @@ Le contentieux est suivi par la direction générale de l'aviation civile. Les
 réclamations sont présentées, instruites et jugées selon les règles applicables
 à la taxe de l'aviation civile.
 
-VI. - (abrogé)
+VI. - Les dispositions des I à V du présent article sont applicables aux
+aérodromes appartenant à l'Etat en Polynésie française et en Nouvelle-Calédonie,
+sous réserve des dispositions particulières suivantes :
+
+- le nombre des unités de trafic prévues au I est supérieur à 400 000 ;
+
+- sur un même aérodrome, des tarifs différents peuvent être fixés pour les vols
+intérieurs en fonction de leur destination ;
+
+- la limite inférieure des tarifs est fixée à 0,50 euros par passager effectuant
+un vol intérieur à la Polynésie française.
