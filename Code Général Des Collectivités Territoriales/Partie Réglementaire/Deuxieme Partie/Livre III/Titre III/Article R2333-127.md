@@ -1,10 +1,10 @@
 Article R2333-127
 ----
-Indépendamment de la participation aux dépenses de premier établissement prévues
-par l'article L. 35-8 du code de la santé publique, tout déversement d'eaux
-usées d'entretien et d'exploitation, autres que domestiques, dans le réseau
-public d'assainissement donne lieu au paiement, par l'auteur du déversement,
-d'une redevance d'assainissement assise :
+Indépendamment de la participation aux dépenses de premier établissement,
+d'entretien et d'exploitation prévues par l'article L. 1331-10 du code de la
+santé publique, tout déversement d'eaux usées autres que domestiques, dans le
+réseau public d'assainissement, donne lieu au paiement, par l'auteur du
+déversement, d'une redevance d'assainissement assise :
 
 - soit sur une évaluation spécifique déterminée à partir de critères définis par
 l'autorité mentionnée au premier alinéa de l'article R. 2333-122 et prenant en

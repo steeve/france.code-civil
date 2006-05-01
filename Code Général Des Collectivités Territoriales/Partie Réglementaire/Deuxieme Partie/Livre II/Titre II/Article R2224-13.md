@@ -1,12 +1,12 @@
 Article R2224-13
 ----
-Lorsque les eaux sont collectées, les communes dont le territoire est compris en
-totalité ou en partie dans le périmètre d'une agglomération produisant une
-charge brute de pollution organique inférieure à 120 kg par jour et rejetant
-leurs eaux dans des eaux douces ou des estuaires, ou d'une agglomération
-produisant une charge brute de pollution organique inférieure à 600 kg par jour
-et rejetant leurs eaux dans les eaux côtières, doivent mettre en place, pour la
-partie de leur territoire incluse dans le périmètre de l'agglomération, un
-traitement de leurs eaux usées avant le 31 décembre 2005. Ce traitement doit
-permettre de respecter les objectifs de qualité applicables aux eaux
-réceptrices.
+Dans les agglomérations d'assainissement dont la population et les activités
+économiques produisent des eaux usées dont la charge brute de pollution
+organique est supérieure à 120 kg par jour, le traitement mentionné à l'article
+R. 2224-11 est un traitement biologique avec décantation secondaire ou un
+traitement ayant un pouvoir épuratoire équivalent.
+
+Toutefois, les eaux usées dont le traitement s'effectue à plus de 1 500 mètres
+d'altitude peuvent faire l'objet d'un traitement moins rigoureux que celui
+prescrit au premier alinéa, à condition qu'il soit établi que les rejets
+n'altèrent pas l'environnement.

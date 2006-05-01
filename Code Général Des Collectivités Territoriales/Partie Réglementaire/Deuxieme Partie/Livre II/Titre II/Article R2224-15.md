@@ -1,17 +1,20 @@
 Article R2224-15
 ----
-Les eaux usées des agglomérations produisant une charge brute de pollution
-organique supérieure à 600 kg par jour doivent, avant le 31 décembre 1998, faire
-l'objet d'un traitement plus rigoureux que celui qui est prévu à l'article R.
-2224-12, lorsqu'elles sont rejetées dans une zone sensible délimitée dans les
-conditions prévues aux articles 6 et 7 du décret n° 94-469 du 3 juin 1994
-relatif à la collecte et au traitement des eaux usées mentionnées aux articles
-L. 372-1-1 et L. 372-3 du code des communes. Les modalités de ce traitement sont
-fixées par l'arrêté prévu à l'article 20 du décret précité.
+Les communes doivent mettre en place une surveillance des systèmes de collecte
+des eaux usées et des stations d'épuration en vue d'en maintenir et d'en
+vérifier l'efficacité, d'une part, du milieu récepteur du rejet, d'autre part.
 
-Toutefois, si le pourcentage de réduction du flux global entrant dans toutes les
-stations d'épuration des eaux usées de cette zone atteint au moins 75 % pour la
-quantité totale de phosphore et au moins 75 % pour la quantité totale d'azote,
-le préfet peut, par arrêté, accorder une dérogation à l'obligation de traitement
-plus rigoureux mentionné à l'alinéa ci-dessus. Cet arrêté est publié au recueil
-des actes administratifs de la préfecture.
+Un arrêté des ministres chargés de la santé et de l'environnement fixe les
+modalités techniques selon lesquelles est assurée la surveillance :
+
+a) De l'efficacité de la collecte des eaux usées ;
+
+b) De l'efficacité du traitement de ces eaux dans la station d'épuration ;
+
+c) Des eaux réceptrices des eaux usées épurées ;
+
+d) Des sous-produits issus de la collecte et de l'épuration des eaux usées.
+
+Les résultats de la surveillance sont communiqués par les communes ou leurs
+délégataires à l'agence de l'eau et au préfet, dans les conditions fixées par
+l'arrêté mentionné à l'alinéa précédent.

@@ -1,20 +1,13 @@
 Article R2224-10
 ----
-Une agglomération, au sens de la présente section, est une zone dans laquelle la
-population ou les activités économiques sont suffisamment concentrées pour qu'il
-soit possible de collecter les eaux mentionnées à l'article R. 2224-6 pour les
-acheminer vers un système d'épuration unique.
+Les communes dont tout ou partie du territoire est compris dans une
+agglomération d'assainissement dont les populations et les activités économiques
+produisent des eaux usées dont la charge brute de pollution organique est
+supérieure à 120 kg par jour doivent être équipées, pour la partie concernée de
+leur territoire, d'un système de collecte des eaux usées.
 
-En outre, sont considérées comme comprises dans une même agglomération les zones
-desservies par un réseau de collecte raccordé à un système d'épuration unique et
-celles dans lesquelles la création d'un tel réseau a été décidée par une
-délibération de l'autorité compétente.
-
-Le préfet établit un projet de carte de l'agglomération.
-
-Il le communique pour avis aux communes concernées. A défaut de réponse de
-celles-ci dans les trois mois suivant la réception du projet, cet avis est
-réputé favorable.
-
-Le préfet arrête alors la carte de l'agglomération. Cet arrêté est publié au
-recueil des actes administratifs de la préfecture.
+Un arrêté des ministres chargés de la santé et de l'environnement fixe les
+prescriptions techniques minimales qui permettent de garantir sans coût excessif
+l'efficacité de la collecte et du transport des eaux usées ainsi que celle des
+mesures prises pour limiter les pointes de pollution, notamment celles dues aux
+fortes pluies.
