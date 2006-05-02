@@ -1,14 +1,9 @@
 Article R224-15
 ----
-Tous marchands de gibier mort et tous marchands de gibier vivant, qu'ils soient
-grossistes, demi-grossistes ou détaillants, tous hôteliers, restaurateurs,
-gérants de cantine et tous éleveurs producteurs de gibier même non commerçants
-sont tenus d'avoir un registre coté et paraphé par le maire ou le commissaire de
-police, sur lequel ils inscrivent, jour par jour et sans blanc ni rature, les
-nom, qualité et adresse de leurs contractants ainsi que le nombre et l'espèce
-des gibiers achetés ou vendus. Le registre doit être présenté à toute
-réquisition des agents désignés à l'article R. 224-16.
-
-Les marchands détaillants de gibier mort, les hôteliers, les restaurateurs et
-les gérants de cantine sont dispensés de mentionner sur le registre les noms et
-adresses de leurs acheteurs.
+Les mesures collectives de prophylaxie et les mesures d'évaluation, de
+prévention ou de maîtrise des risques sanitaires peuvent être rendues
+obligatoires, en application de l'article L. 224-1, par arrêté préfectoral pris
+après avis de la commission prévue à l'article R. 224-5 si l'aire intéressée
+n'excède pas un département ou, dans les autres cas, par arrêté du ministre
+chargé de l'agriculture pris après avis du comité consultatif de la santé et de
+la protection animales.
