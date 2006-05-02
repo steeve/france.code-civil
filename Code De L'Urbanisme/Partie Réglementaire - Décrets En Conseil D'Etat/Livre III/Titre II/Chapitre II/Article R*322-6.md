@@ -1,7 +1,7 @@
 Article R*322-6
 ----
-Au projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret
-du 18 décembre 1927 doivent être joints [*contenu*] :
+Au projet d'acte d'association soumis à l'enquête prévue à l'article 12 de
+l'ordonnance n° 2004-632 du 1er juillet 2004, doivent être joints :
 
 Un plan parcellaire indiquant le tracé du ou des périmètres intéressés,
 accompagné de l'état des propriétaires de chaque parcelle avant remembrement ;

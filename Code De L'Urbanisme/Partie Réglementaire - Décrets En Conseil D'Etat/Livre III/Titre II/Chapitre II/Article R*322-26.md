@@ -2,7 +2,7 @@ Article R*322-26
 ----
 Le projet de groupement de parcelles en vue d'en conférer l'usage à un tiers par
 bail à construction comprend, en sus du projet de bail à construction, les
-pièces suivantes [*contenu*] :
+pièces suivantes :
 
 a) Une déclaration précisant l'identité du preneur du bail à construction ;
 
@@ -13,7 +13,8 @@ c) Le plan de masse des constructions à édifier et éventuellement de celles �
 modifier, coté dans les trois dimensions, ainsi que la description graphique des
 façades ;
 
-d) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+d) Le certificat d'urbanisme délivré en application du deuxième alinéa de
+l'article L. 410-1 ;
 
 e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur
 valeur avant groupement ;

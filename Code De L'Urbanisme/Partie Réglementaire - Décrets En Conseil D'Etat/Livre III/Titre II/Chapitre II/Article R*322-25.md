@@ -1,8 +1,8 @@
 Article R*322-25
 ----
-Le projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret
-du 18 décembre 1927 doit préciser [*contenu*], les pouvoirs conférés à
-l'association, selon que celle-ci a pour objet :
+Le projet d'acte d'association soumis à l'enquête prévue à l'article 12 de
+l'ordonnance n° 2004-632 du 1er juillet 2004 doit préciser, les pouvoirs
+conférés à l'association, selon que celle-ci a pour objet :
 
 Soit la passation du bail à construction et son exécution ;
 

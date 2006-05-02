@@ -1,8 +1,8 @@
 Article R*322-27
 ----
 Le projet de groupement de parcelles, en vue d'en faire apport à une société de
-construction ou d'aménagement comprend [*contenu*], en sus du projet d'acte
-d'apport, les pièces suivantes :
+construction ou d'aménagement comprend, en sus du projet d'acte d'apport, les
+pièces suivantes :
 
 a) Une notice justifiant l'intérêt de l'opération et décrivant les principales
 caractéristiques du ou des immeubles dont la construction est envisagée ou de
@@ -15,7 +15,8 @@ maximum de lots, la surface de plancher hors oeuvre maximale dont la
 construction est envisagée dans le lotissement, ainsi que les pièces mentionnées
 aux d), e), f), i) et j) de l'article R. 322-5 ;
 
-c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+c) Le certificat d'urbanisme délivré en application du deuxième alinéa de
+l'article L. 410-1 ;
 
 d) Les statuts de la société qui bénéficiera de l'apport ;
 
@@ -32,7 +33,7 @@ le montant des indemnités de délaissement et, le cas échéant, le coût
 d'acquisition des bâtiments ou ouvrages existants ;
 
 i) Le contrat de promotion immobilière lorsqu'il est exigé en application du
-titre IV de la loi n. 71-579 du 16 juillet 1971 modifiée, ou l'écrit en tenant
+titre IV de la loi n° 71-579 du 16 juillet 1971 modifiée, ou l'écrit en tenant
 lieu ainsi que les devis descriptifs et les conditions d'exécution technique des
 travaux, les moyens et conditions de financement, le délai de réalisation et les
 éventuelles garanties de bonne fin ou d'achèvement relatifs, selon le cas, à

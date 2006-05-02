@@ -1,13 +1,13 @@
 Article R*315-1
 ----
-Constitue un lotissement [*définition*] au sens du présent chapitre toute
-division d'une propriété foncière en vue de l'implantation de bâtiments qui a
-pour objet ou qui, sur une période de moins de dix ans, a eu pour effet de
-porter à plus de deux le nombre de terrains issus de ladite propriété. Est
-également soumise à autorisation de lotir prévue par le présent chapitre
-l'opération de remembrement menée par une association foncière urbaine libre
-régie par la loi du 21 juin 1865 et par le titre II du chapitre II du présent
-livre, lorsque le plan de remembrement délimite plus de deux lots.
+Constitue un lotissement au sens du présent chapitre toute division d'une
+propriété foncière en vue de l'implantation de bâtiments qui a pour objet ou
+qui, sur une période de moins de dix ans, a eu pour effet de porter à plus de
+deux le nombre de terrains issus de ladite propriété. Est également soumise à
+autorisation de lotir prévue par le présent chapitre l'opération de remembrement
+menée par une association foncière urbaine libre régie par l'ordonnance n°
+2004-632 du 1er juillet 2004 et par le chapitre II du titre II du présent livre,
+lorsque le plan de remembrement délimite plus de deux lots.
 
 L'alinéa précédent s'applique notamment aux divisions en propriété ou en
 jouissance résultant de mutations à titre gratuit ou onéreux, de partage ou de

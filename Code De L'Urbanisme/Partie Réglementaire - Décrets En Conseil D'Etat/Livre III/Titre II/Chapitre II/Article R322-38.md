@@ -1,7 +1,7 @@
 Article R322-38
 ----
-Lorsque l'association décide, en vertu de l'article R. 322-9-2, que les taxes
-sont régies par remise d'immeubles, la délibération détermine les valeurs de
+Lorsque l'association décide, en vertu de l'article L. 322-9-2, que les taxes
+sont réglées par remise d'immeubles, la délibération détermine les valeurs de
 référence.
 
 Une convention, passée entre l'association et l'associé, stipule notamment le

@@ -7,6 +7,6 @@ articles R. 313-4 à R. 313-20, R. 313-25 à R. 313-27 et R. 313-29 à 313-32.
 L'acceptation prévue à l'article R. 313-29 est donnée par le conseil des
 syndics.
 
-Les dispositions des articles 46 à 48 et 54 à 56 du décret susvisé du 18
-décembre 1927 ne sont pas applicables aux associations autorisées prévues à la
-présente sous-section.
+Les dispositions des articles 46 et 49 du décret n° 2006-504 du 3 mai 2006 ne
+sont pas applicables aux associations autorisées prévues à la présente
+sous-section.

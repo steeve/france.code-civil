@@ -7,16 +7,19 @@ A. - Patrimoine naturel.
 a) Forêts.
 
 Servitudes de protection des forêts soumises au régime forestier et instituées
-en application des articles L. 151-1 à L. 151-6 du code forestier.
+en application des articles L. 151-1 à L. 151-6 du code forestier (1) ;
 
 Servitudes relatives aux forêts dites de protection instituées en application
-des articles L. 411-1 à L. 413-1 du code forestier.
+des articles L. 411-1 à L. 413-1 du code forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en
 application des articles L. 421-1, L. 432-1, L. 432-2, L. 531-1 et L. 541-2 du
-code forestier.
+code forestier (2) ;
 
 b) Littoral maritime.
+
+Réserves de terrains créées en application de l'article 4 de la loi n° 63-1178
+du 28 novembre 1963 ;
 
 Servitude de passage sur le littoral instituée en application des articles L.
 160-6 et L160-6-1 du code de l'urbanisme.
@@ -34,7 +37,7 @@ articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 Servitudes attachées à la protection des eaux minérales instituées en
 application des articles L. 1322-3 à L. 1322-13 du code de la santé publique.
 
-d) Réserves naturelles et parcs nationaux :
+d) Réserves naturelles et parcs nationaux.
 
 Réserves naturelles instituées par l'autorité administrative en application des
 articles L. 332-1 à L. 332-19-1 du code de l'environnement ;
@@ -56,14 +59,14 @@ a) Monuments historiques.
 
 Mesures de classement et d'inscription prises en application des articles 1er à
 5 de la loi du 31 décembre 1913 modifiée sur les monuments historiques avec
-l'indication de leur étendue.
+l'indication de leur étendue ;
 
 Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat
 en application de l'article 1er (alinéas 2 et 3) de la loi du 31 décembre 1913,
-autour des monuments historiques classés ou inscrits.
+autour des monuments historiques classés ou inscrits ;
 
 Zones de protection des monuments historiques créées en application de l'article
-28 de la loi du 2 mai 1930 modifiée.
+28 de la loi du 2 mai 1930 modifiée (3)
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés
 sur la liste visée ci-dessus, tels qu'ils résultent des dispositions combinées
@@ -76,7 +79,7 @@ Sites inscrits ;
 Sites classés ;
 
 Zones de protection des sites créées en application de l'article 17 de la loi du
-2 mai 1930 modifiée.
+2 mai 1930 modifiée (3).
 
 c) patrimoine architectural et urbain.
 
@@ -116,7 +119,7 @@ c) Hydrocarbures.
 Servitudes relatives à la construction et à l'exploitation de pipe-lines
 d'intérêt général instituées en application de l'article 11 de la loi n° 58-336
 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application
-dudit article 11.
+dudit article 11 ;
 
 d) Chaleur :
 
@@ -127,7 +130,7 @@ relative aux économies d'énergie et à l'utilisation de la chaleur.
 B. - Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles
-71 à 73 du code minier.
+71 à 73 du code minier ;
 
 Servitudes relatives à la protection des stockages souterrains de gaz naturel,
 d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à
@@ -144,21 +147,21 @@ en application de la loi n° 65-498 du 29 juin 1965.
 b) Eaux et assainissement.
 
 Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962
-et du décret n° 64-158 du 15 février 1964, les servitudes attachées aux
+et du décret n° 64-153 du 15 février 1964, les servitudes attachées aux
 canalisations publiques d'eau et d'assainissement.
 
 Servitudes attachées à l'établissement des canalisations souterraines
-d'irrigation instituées en application des articles 128-7 et 128-9 du code
-rural.
+d'irrigation instituées en application des articles 128-7 et 128-9 du code rural
+(4) ;
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits
 de curage et faucardement attachées aux canaux d'irrigation et émissaires
 d'assainissement instituées en application des articles 128-6 et 138-1 du code
-rural.
+rural (5) ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux
 d'assainissement des terres par le drainage instituées en application des
-articles 135 à 138 du code rural.
+articles 135 à 138 du code rural (6).
 
 D. - Communications.
 
@@ -166,7 +169,7 @@ a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28
 du code du domaine public fluvial et de la navigation intérieure et par
-l'article 424 du code rural.
+l'article 424 du code rural (7).
 
 b) Navigation maritime.
 
@@ -181,36 +184,35 @@ Zones auxquelles s'appliquent les servitudes instituées par :
 La loi du 15 juillet 1845 sur la police des chemins de fer ;
 
 L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes
-de visibilité sur les voies publiques ;
+de visibilité sur les voies publiques (8) ;
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des
-lignes de transport public par véhicules guidés sur coussins d'air (aérotrains)
-;
+lignes de transport public par véhicules guidés sur coussins d'air (aérotrains).
 
 d) Réseau routier.
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935
-portant création de servitudes de visibilité sur les voies publiques.
+portant création de servitudes de visibilité sur les voies publiques (9) ;
 
 Servitudes grevant les terrains nécessaires aux routes nationales et aux
 autoroutes instituées en application de l'ordonnance n° 58-1311 du 23 décembre
-1958 et du décret n° 58-1316 du 23 décembre 1958.
+1958 et du décret n° 58-1316 du 23 décembre 1958 ;
 
 Servitudes attachées à l'alignement des voies nationales, départementales ou
-communales.
+communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés
 limitrophes des routes express et des déviations d'agglomérations en application
-des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
+des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10).
 
 e) Circulation aérienne.
 
 Servitudes aéronautiques de dégagement et de balisage instituées en application
-des articles L. 281-1 et R. 241-1 à R. 243-3 du code de l'aviation civile.
+des articles L. 281-1 et R. 241-1 à R. 243-3 du code de l'aviation civile ;
 
 Servitudes grevant les terrains nécessaires aux besoins de la navigation
 aérienne instituées en application de l'article R. 245-1 du code de l'aviation
-civile.
+civile ;
 
 Servitudes établies à l'extérieur des zones de dégagement en application des
 articles R. 244-1 et D. 244-1 à D. 244-4 du code de l'aviation civile.
@@ -223,47 +225,55 @@ juillet 1941 ;
 Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9
 janvier 1985 relative au développement et à la protection de la montagne.
 
+g) Associations syndicales autorisées, associations syndicales constituées
+d'office et leurs unions :
+
+Servitudes de passage pour l'entretien d'ouvrages instituées en application du
+second alinéa de l'article 28 de l'ordonnance n° 2004-632 du 1er juillet 2004.
+
 E. - Télécommunications.
 
 Servitudes de protection des centres radio-électriques d'émission et de
 réception contre les obstacles instituées en application des articles L. 54 à L.
-56-1 et R. 21 à R. 26-1 du code des postes et télécommunications.
+56-1 et R. 21 à R. 26-1 du code des postes et des communications électroniques ;
 
 Servitudes de protection des centres de réception radio-électriques contre les
 perturbations électromagnétiques instituées en application des articles L. 57 à
-L. 62-1 et R. 27 à R. 39 du code des postes et télécommunications.
+L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques
+;
 
 Servitudes attachées aux réseaux de télécommunications instituées en application
-des articles L. 45-1 et L. 48 du code des postes et télécommunications.
+des articles L. 45-1 et L. 48 du code des postes et des communications
+électroniques.
 
 
 III - Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant
 la détermination et la conservation des postes électro-sémaphoriques, modifiée
-par la loi du 27 mai 1933.
+par la loi du 27 mai 1933 ;
 
 Servitudes attachées à la sécurité de la navigation et à la défense des côtes
-instituées en application de la loi du 11 juillet 1933.
+instituées en application de la loi du 11 juillet 1933 ;
 
 Zones et polygones d'isolement créés en application de la loi du 8 août 1929
 concernant les servitudes autour des magasins et établissements servant à la
 conservation, à la manipulation ou à la fabrication des poudres, munitions,
-artifices ou explosifs.
+artifices ou explosifs ;
 
 Servitudes concernant l'établissement de terrains d'atterrissage destinés en
 partie ou en totalité à l'armée de l'air instituées en application du décret du
-30 octobre 1935.
+30 octobre 1935 ;
 
 Servitudes relatives aux fortifications, places fortes, postes et ouvrages
 militaires instituées en application des lois du 8 juillet 1791, 17 juillet 1819
-et 10 juillet 1851.
+et 10 juillet 1851 ;
 
 Servitudes aux abords des champs de tir créées en application de l'article 25 de
 la loi du 13 juillet 1927.
 
 
-IV - Servitudes relatives à la salubrité et à la sécurité publique
+IV - Servitudes relatives à la salubrité et à la sécurité publiques
 
 A. - Salubrité publique.
 
@@ -271,9 +281,9 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes ;
+L'article L. 361-1 du code des communes (11) ;
 
-L'article L. 361-4 du code des communes.
+L'article L. 361-4 du code des communes (12).
 
 b) Etablissements conchylicoles.
 
@@ -286,24 +296,24 @@ B. - Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de
 l'article L. 562-1 du code de l'environnement, ou plans de prévention des
-risques miniers établis en application de l'article 94 du code minier.
+risques miniers établis en application de l'article 94 du code minier ;
 
 Documents valant plans de prévention des risques naturels prévisibles en
-application de l'article L. 562-6 du code de l'environnement.
+application de l'article L. 562-6 du code de l'environnement ;
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les
 articles 55 et suivants du code du domaine public fluvial et de la navigation
-intérieure.
+intérieure ;
 
 Servitudes d'inondation pour la rétention des crues du Rhin résultant de
 l'application de la loi n° 91-1385 du 31 décembre 1991 portant diverses
-dispositions en matière de transports.
+dispositions en matière de transports ;
 
 Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code
-de l'environnement.
+de l'environnement ;
 
 Servitudes d'utilité publique instituées en application de l'article L. 211-12
-du code de l'environnement.
+du code de l'environnement ;
 
 Plans de prévention des risques technologiques établis en application de
 l'article L. 515-15 du code de l'environnement.

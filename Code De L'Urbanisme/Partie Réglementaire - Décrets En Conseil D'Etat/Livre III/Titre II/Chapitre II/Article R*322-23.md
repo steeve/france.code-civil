@@ -5,8 +5,8 @@ d'arrêté du préfet portant constitution d'office d'une association foncière
 urbaine est joint au dossier d'enquête sur la constitution de l'association
 autorisée en vue de recueillir les observations éventuelles des intéressés.
 
-A ce projet, qui comporte les indications mentionnées à l'article 74 du décret
-du 18 décembre 1927, sont joints :
+A ce projet, qui comporte les indications mentionnées à l'article 7 du décret n°
+2006-504 du 3 mai 2006 sont joints :
 
 Une notice explicative justifiant l'application de l'article L. 322-4 (1.)
 accompagnée, le cas échéant, des extraits du plan d'urbanisme ou du plan local
