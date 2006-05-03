@@ -15,9 +15,9 @@ les spécifications techniques de ce cahier des charges ;
 au II de l'article 535 du code général des impôts ou à des organismes de
 contrôle indépendants établis dans d'autres Etats membres de l'Union européenne,
 dans d'autres Etats parties à l'accord instituant l'Espace économique européen
-ou en Turquie, offrant des garanties suffisantes d'information du consommateur
-pour contrôler le titre des ouvrages sur lesquels il entend apposer le poinçon
-de garantie s'il ne souhaite pas effectuer ce contrôle lui-même. Il doit
+ou en Turquie, offrant des garanties identiques ou équivalentes à celles exigées
+en France pour contrôler le titre des ouvrages sur lesquels il entend apposer le
+poinçon de garantie s'il ne souhaite pas effectuer ce contrôle lui-même. Il doit
 déclarer ces organismes à la direction régionale des douanes et droits indirects
 ;
 

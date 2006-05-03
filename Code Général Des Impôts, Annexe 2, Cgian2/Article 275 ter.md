@@ -5,5 +5,6 @@ impôts doivent obtenir un agrément pour pouvoir apposer le poinçon de garanti
 français sur les ouvrages en métaux précieux dépourvus d'un tel poinçon ou d'un
 poinçon de titre apposé dans un autre Etat membre de l'Union européenne, dans un
 autre Etat partie à l'accord instituant l'Espace économique européen ou en
-Turquie, par un organisme indépendant selon des normes offrant des garanties
-suffisantes d'information du consommateur.
+Turquie, par un organisme indépendant ou par l'administration compétente de
+l'Etat concerné selon des normes identiques ou équivalentes à celles exigées en
+France pour le contrôle et la certification du titre.
