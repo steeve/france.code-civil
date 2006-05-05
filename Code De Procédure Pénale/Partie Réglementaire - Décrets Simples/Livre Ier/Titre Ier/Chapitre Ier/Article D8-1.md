@@ -27,7 +27,7 @@ de la gendarmerie nationale ;
 sous-direction de la police judiciaire de la direction générale de la
 gendarmerie nationale ;
 
-10° Office central chargé des disparitions inquiétantes de personnes ;
+10° Office central pour la répression des violences aux personnes ;
 
 11° Office central de lutte contre le travail illégal, de la sous-direction de
 la police judiciaire de la direction générale de la gendarmerie nationale ;
