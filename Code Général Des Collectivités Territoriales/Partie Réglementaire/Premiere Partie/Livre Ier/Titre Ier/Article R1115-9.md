@@ -1,38 +1,54 @@
 Article R1115-9
 ----
-Les trente-deux membres sont répartis par moitié entre représentants des élus
-territoriaux et représentants de l'Etat.
+Les membres ayant voix délibérative sont répartis par moitié entre représentants
+des élus territoriaux et des associations spécialisées dans la coopération
+décentralisée et représentants de l'Etat.
 
-Ils sont nommés pour une période de trois ans renouvelable par arrêté du Premier
-ministre. Les élus sont proposés par les associations représentatives d'élus
-territoriaux. Ils ne peuvent siéger au-delà de la durée de leur mandat électif.
+1° Les représentants des élus territoriaux sont nommés pour une durée de trois
+ans renouvelable par arrêté du Premier ministre sur proposition des associations
+représentatives. Ils ne peuvent siéger au-delà de la durée de leur mandat
+électif. Ils comprennent :
 
-Les représentants des élus comprennent :
+a) Trois représentants des conseils régionaux et de l'assemblée de Corse
+proposés par l'Association des régions de France ;
 
-1° Cinq membres représentant les conseils régionaux et l'assemblée de Corse,
-dont un représentant des conseils régionaux d'outre-mer ;
+b) Trois représentants des conseils généraux proposés par l'Assemblée des
+départements de France ;
 
-2° Cinq membres représentant les conseils généraux ;
+c) Trois représentants des communes proposés par l'Association des maires de
+France ;
 
-3° Cinq membres représentant les communes ;
+d) Un représentant des groupements de communes proposé par l'Association des
+maires de France ;
 
-4° Un membre représentant les groupements de communes.
+e) Un représentant des conseils régionaux d'outre-mer proposé par l'Association
+des régions de France ;
 
-Les seize représentants de l'Etat représentent différents ministres dont au
-moins un représentant des huit ministres suivants :
+f) Un représentant des conseils généraux d'outre-mer proposé par l'Assemblée des
+départements de France.
 
-1° Ministre de l'intérieur ;
+2° Les associations spécialisées sont représentées par le président de Cités
+unies France ou son représentant et par le président de l'Association française
+du conseil des communes et régions d'Europe ou son représentant.
 
-2° Ministre chargé des collectivités locales ;
+3° Les représentants de l'Etat sont :
 
-3° Ministre chargé de l'aménagement du territoire ;
+a) Trois représentants du ministre des affaires étrangères ;
 
-4° Ministre des affaires étrangères ;
+b) Trois représentants du ministre de l'intérieur ;
 
-5° Ministre chargé des affaires européennes ;
+c) Un représentant du ministre chargé de la coopération ;
 
-6° Ministre chargé de la coopération ;
+d) Un représentant du ministre chargé de l'aménagement du territoire ;
 
-7° Ministre chargé des départements et territoires d'outre-mer ;
+e) Un représentant du ministre chargé de l'éducation ;
 
-8° Ministre chargé de la francophonie.
+f) Un représentant du ministre chargé du commerce extérieur ;
+
+g) Un représentant du ministre chargé de la culture ;
+
+h) Un représentant du ministre chargé de l'outre-mer ;
+
+i) Un représentant du ministre chargé de la recherche ;
+
+j) Un représentant du ministre chargé de l'agriculture.
