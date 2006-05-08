@@ -1,9 +1,10 @@
 Article R516-11
 ----
-Le montant de la dotation initiale de l'agence est de 400 millions d'euros.
+Le montant de la dotation de l'agence est, au 1er août 2001, de quatre cent
+millions d'euros.
 
 Cette dotation peut être augmentée par incorporation de réserves sur
-délibération du conseil de surveillance approuvée par arrêté du ministre chargé
+délibération du conseil d'administration approuvée par arrêté du ministre chargé
 de l'économie.
 
 Elle peut également être augmentée par affectation de fonds publics conformément

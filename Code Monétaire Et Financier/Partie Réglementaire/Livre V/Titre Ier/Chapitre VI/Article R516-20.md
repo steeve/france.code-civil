@@ -1,8 +1,8 @@
 Article R516-20
 ----
 Le contrôle des comptes de l'agence est exercé par deux commissaires aux comptes
-désignés par arrêté du ministre chargé de l'économie sur proposition du conseil
-de surveillance et après avis de la Commission bancaire.
+désignés en application des dispositions de l'article L. 511-38 et des articles
+D. 511-8 à R. 511-14 du présent code.
 
 Les commissaires aux comptes sont soumis aux obligations prévues à l'article L.
 511-38.
