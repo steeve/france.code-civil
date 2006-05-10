@@ -57,7 +57,7 @@ loi du 9 janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 févri
 1972 susmentionné et à l'article L. 122-28-1 du code du travail ;
 
 e) Du congé de présence parentale, tel que prévu à l'article 65-3 de la loi du
-13 juillet 1972 susmentionnée, à l'article 54 bis de la loi du 11 janvier 1984
+13 juillet 1972 susmentionnée, à l'article 40 bis de la loi du 11 janvier 1984
 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à
 l'article 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du
 décret du 24 février 1972 susmentionné et à l'article 122-28-9 du code du
