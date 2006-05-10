@@ -11,8 +11,9 @@ pays tiers dans un délai n'excédant pas trente jours. A défaut, ils sont rev�
 du poinçon de maître.
 
 Au fur et à mesure de leur poinçonnement, les ouvrages sont inscrits par le
-fabricant sur un registre qui doit être représenté à toute réquisition des
-agents.
+fabricant sur un registre qui peut être tenu selon une procédure informatisée ou
+non et qui doit être représenté à toute réquisition des agents des douanes et
+droits indirects.
 
 L'inscription au registre présente la nature des objets par espèce de métal, or,
 argent ou platine, leur nombre, leur titre, leur poids brut, et, pour les objets
