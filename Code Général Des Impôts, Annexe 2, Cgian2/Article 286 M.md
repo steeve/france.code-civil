@@ -14,3 +14,7 @@ général des impôts.
 Le bénéfice du remboursement des droits est demandé par l'entrepositaire agréé
 lorsque la compensation des droits ne peut être réalisée par celui-ci au cours
 des trois mois qui suivent la demande.
+
+Le directeur régional des douanes et droits indirects est compétent pour statuer
+sur les demandes susmentionnées de compensation ou de remboursement des droits
+acquittés ou supportés.

@@ -9,4 +9,4 @@ prescrites ou de la livraison à destination d'un autre Etat membre de l'Union
 européenne par tout document probant, soit par la prise en charge au compte d'un
 commerçant ou d'un marchand en gros dans les conditions prévues à l'article 210,
 soit par la remise en fabrication d'ouvrages refondus après accord exprès du
-service de la garantie.
+directeur régional des douanes et droits indirects territorialement compétent.

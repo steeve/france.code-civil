@@ -314,4 +314,5 @@ comptabilité matières telles que prévues par le présent article et les
 obligations mentionnées aux articles 614 et 614 A dudit code.
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité
-d'entrepositaire agréé peut être retirée.
+d'entrepositaire agréé peut être retirée par le directeur régional des douanes
+et droits indirects.
