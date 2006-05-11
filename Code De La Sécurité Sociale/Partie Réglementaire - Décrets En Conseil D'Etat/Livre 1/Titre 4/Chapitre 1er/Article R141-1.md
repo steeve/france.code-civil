@@ -9,15 +9,13 @@ cas où l'expert est désigné par le directeur départemental des affaires
 sanitaires et sociales, il ne peut être choisi que parmi les médecins inscrits,
 sous la rubrique Experts spécialisés en matière de sécurité sociale, sur les
 listes dressées en application de l'article 2 de la loi n° 71-498 du 29 juin
-1971 et de l'article 1er du décret n° 74-1184 du 31 décembre 1974 relatifs aux
-experts judiciaires. Les cours d'appel procèdent à l'inscription des experts de
-cette spécialité dans les conditions prévues par les articles 6 à 10 du décret
-du 31 décembre 1974 susmentionné.
+1971 et de l'article 1er du décret n° 2004-1463 du 23 décembre 2004 relatifs aux
+experts judiciaires.
 
 Lorsque la contestation porte sur le diagnostic ou le traitement d'une affection
 relevant de l'une des disciplines mentionnées par le règlement de qualification
-prévu à l'article 67 (4°) du décret du 28 juin 1979 susvisé, l'expert est, dans
-tous les cas, choisi parmi les médecins spécialistes ou compétents pour
+prévu au 4° de l'article R. 4127-79 du code de la santé publique, l'expert est,
+dans tous les cas, choisi parmi les médecins spécialistes ou compétents pour
 l'affection considérée.
 
 Toutefois, pour les catégories de cas déterminés par un arrêté conjoint du

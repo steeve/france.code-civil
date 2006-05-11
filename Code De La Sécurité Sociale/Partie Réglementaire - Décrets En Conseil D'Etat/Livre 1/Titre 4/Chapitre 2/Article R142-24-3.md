@@ -1,27 +1,27 @@
 Article R142-24-3
 ----
 Lorsque le différend fait apparaître en cours d'instance une difficulté d'ordre
-technique portant sur l'interprétation des dispositions de la Nomenclature
-générale des actes professionnels ou de la Nomenclature des actes de biologie
-médicale, le tribunal peut ordonner une expertise. Celle-ci est confiée à un
-expert inscrit sur la liste nationale visée à l'article 1er du décret n° 74-1184
-du 31 décembre 1974 relatif aux experts judiciaires, sous la rubrique intitulée
-"Experts spécialisés en matière de nomenclatures d'actes professionnels et
-d'actes de biologie médicale". Cette liste est dressée sur proposition conjointe
-du directeur général de l'Agence nationale d'accréditation et d'évaluation en
-santé et, selon le cas, du président de l'instance consultative compétente en
-matière de tarification des actes professionnels ou du président de l'instance
-consultative compétente en matière de tarification des actes de biologie
-médicale. La proposition est adressée au procureur général près la Cour de
-cassation, qui saisit le bureau de la cour.
+technique portant sur l'interprétation des dispositions relatives à la liste des
+actes et prestations prévue par l'article L. 162-1-7, le tribunal peut ordonner
+une expertise.
 
-A titre transitoire, jusqu'à la mise en place de l'agence mentionnée à l'alinéa
-précédent, cette liste est constituée sur proposition, selon le cas, du
-président de la commission de la Nomenclature générale des actes professionnels
-ou du président de la commission de la Nomenclature des actes de biologie
-médicale.
+Celle-ci est confiée à un expert inscrit sur une des listes dressées en
+application des 1° et 2° du I de l'article 2 de la loi n° 71-498 du 29 juin 1971
+relative aux experts judiciaires sous la rubrique "experts spécialisés dans
+l'interprétation de la liste des actes et prestations prévue à l'article L.
+162-1-7".
 
-Les articles 11, 12 et 13 du décret du 31 décembre 1974 précité ne sont pas
-applicables. Lors de l'examen annuel prévu à l'article 15 dudit décret, les
-autorités sur proposition desquelles a lieu la désignation sont consultées ; en
-cas d'opposition de l'une d'elles, l'expert n'est pas réinscrit.
+Nul ne peut être inscrit ou réinscrit comme expert sous cette rubrique si le
+dossier de l'instruction de la demande d'inscription ou de réinscription, prévue
+aux articles 7, 11 ou 17 du décret n° 2004-1463 du 23 décembre 2004 relatif aux
+experts judiciaires, ne comprend pas les avis favorables de la Haute Autorité de
+santé et du président de la commission de hiérarchisation mentionnée à l'article
+L. 162-1-7 compétente pour la profession du candidat.
+
+Cet avis est sollicité, selon la liste demandée par l'intéressé, par le
+procureur de la République près le tribunal de grande instance dans le ressort
+duquel le candidat exerce son activité professionnelle ou possède sa résidence
+ou bien par le procureur général près la Cour de cassation ; ceux-ci
+transmettent à la Haute Autorité de santé et au président de la commission de
+hiérarchisation compétente la demande d'inscription ou de réinscription reçue en
+application des articles 6, 10 ou 17 du décret du 23 décembre 2004 précité.
