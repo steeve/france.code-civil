@@ -14,6 +14,7 @@ l'un des candidats, qui peut être remplacé jusqu'à l'expiration du délai du
 dépôt des candidatures.
 
 La commission refuse l'enregistrement de toute liste qui ne remplit pas les
-conditions prescrites par la présente sous-section. Les dispositions de
-l'article R. 611-71 du code de la sécurité sociale sont applicables en cas de
-contestation du refus d'enregistrement.
+conditions prescrites par la présente sous-section. Les dispositions des
+troisième, quatrième et cinquième alinéas de l'article R. 611-43 du code de la
+sécurité sociale sont applicables en cas de contestation du refus
+d'enregistrement.
