@@ -23,8 +23,7 @@ l'article 42 du règlement (CE) n° 796/2004 du 21 avril 2004 susmentionné pour
 contrôle du respect des exigences réglementaires mentionnées à l'article D.
 615-45 relatives à la protection de la santé des végétaux.
 
-IV. - L'Office national interprofessionnel des céréales est désigné comme
-organisme spécialisé en matière de contrôle au sens de l'article 42 du règlement
-(CE) n° 796/2004 du 21 avril 2004 susmentionné pour le contrôle du respect des
-bonnes conditions agricoles et environnementales mentionnées à l'article D.
-615-45.
+IV. - L'Agence unique de paiement est désignée comme organisme spécialisé en
+matière de contrôle au sens de l'article 42 du règlement (CE) n° 796/2004 du 21
+avril 2004 susmentionné pour le contrôle du respect des bonnes conditions
+agricoles et environnementales mentionnées à l'article D. 615-45.

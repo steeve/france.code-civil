@@ -1,17 +1,47 @@
 Article R621-58
 ----
-I. - L'agent comptable, chef des services de la comptabilité, doit, avant son
-installation, prêter serment devant la Cour des comptes et fournir en garantie
-de sa gestion un cautionnement dont le montant est fixé par le ministre chargé
-du budget.
+L'office est doté d'un conseil de direction qui comprend, outre son président :
 
-II. - L'agent comptable peut être chargé par le directeur général de tenir la
-comptabilité des engagements de dépenses ainsi que les inventaires quantitatifs
-du matériel. Il peut être également chargé par le directeur général, dans les
-conditions fixées par l'article 208 du décret n° 62-1587 du 29 décembre 1962
-précité, de liquider les dépenses d'intervention lorsque la liquidation consiste
-à appliquer à des subventions ou aides attribuées par contrats ou décisions
-réglementaires, des taux fixés par une décision antérieure.
+1° Quatre représentants de l'Etat :
 
-Il a seul qualité pour assurer le maniement de fonds et de valeurs appartenant à
-l'établissement et il est responsable de leur conservation.
+- le directeur des pêches maritimes et de l'aquaculture et le directeur des
+affaires financières au ministère chargé des pêches maritimes et de
+l'aquaculture ou leurs représentants ;
+
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant ;
+
+2° Un membre représentant la profession aquacole ;
+
+3° Deux membres représentant la profession conchylicole ;
+
+4° Onze membres représentant les organisations de producteurs, dont un
+représentant les organisations de producteurs conchylicoles ;
+
+5° Cinq membres représentant les marins et les armateurs à la pêche, dont un au
+titre du secteur coopératif maritime,
+
+6° Cinq membres représentant le mareyage, dont un au titre du secteur coopératif
+maritime ;
+
+7° Quatre membres représentant le commerce ;
+
+8° Quatre membres représentant l'industrie de transformation ;
+
+9° Deux membres représentant les ports de pêche, dont un au titre des
+établissements gestionnaires et un au titre des halles à marée ;
+
+10° Deux membres représentant les salariés de la commercialisation et de la
+transformation ;
+
+11° Un membre représentant les consommateurs.
+
+Les membres mentionnés aux 2° à 10° ci-dessus sont nommés par le ministre chargé
+de la pêche maritime et de l'aquaculture, parmi les personnes proposées par les
+organisations professionnelles représentatives.
+
+Le membre représentant les consommateurs est nommé par le ministre chargé des
+pêches maritimes et de l'aquaculture sur proposition du ministre chargé de la
+consommation, après consultation du Conseil national de la consommation.

@@ -1,7 +1,26 @@
 Article R621-55
 ----
-L'Office national interprofessionnel des céréales est soumis, en ce qui concerne
-son régime financier et comptable, aux dispositions de la sous-section 4 de la
-section I, ainsi que des articles 1er à 62, 151 à 153 et 190 à 225 du décret n°
-62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
-publique, ainsi qu'aux dispositions ci-après.
+Les compétences de l'Office national interprofessionnel des plantes à parfum,
+aromatiques et médicinales (ONIPPAM) s'étendent aux plantes, parties de plantes
+et aux produits issus de la première transformation des espèces et variétés
+végétales à parfum, aromatiques et médicinales.
+
+Toutefois les actions prévues au 3° de l'article L. 621-3 ne sont mises en
+oeuvre que pour les produits figurant sur la liste suivante :
+
+Anis, basilic, cassis, camomille, colchique, estragon, fenouil, oranger,
+genévrier, gentiane, hysope, jasmin, laurier, lavande, lavandin, marjolaine,
+mélisse, menthe, mimosa, narcisse, origan, pavot, psyllium, romarin, roses de
+mai, sarriette, sauge sclarée, sauge officinale, thym, tilleul, violette, pour
+leur production et leurs utilisations en tant que plantes à parfum aromatiques
+ou médicinales.
+
+Cette liste peut être modifiée ou complétée par décret pris sur proposition du
+ministre chargé de l'agriculture et du ministre chargé du budget.
+
+L'office participe en outre aux actions conduites en ce qui concerne les
+semences et les plants de ces produits.
+
+La compétence territoriale de l'office s'étend à la France métropolitaine ainsi
+qu'aux départements d'outre-mer, sous réserve des dispositions des articles R.
+684-1 et R. 684-2.

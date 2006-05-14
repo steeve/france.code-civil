@@ -8,7 +8,7 @@ matériels bureautiques, informatiques et automobiles nécessaires à leur activ
 et à la gestion de leurs réseaux de télécommunications.
 
 De même l'Agence centrale des organismes d'intervention dans le secteur agricole
-(ACOFA), l'Institut national des appellations d'origine (INAO) et l'Agence de
+(ACOFA), l'Institut national de l'origine et de la qualité et l'Agence de
 développement agricole et rural (ADAR) peuvent confier dans les mêmes conditions
 à l'un de ces offices l'exécution de leurs opérations administratives,
 financières et comptables ayant ces mêmes objets.

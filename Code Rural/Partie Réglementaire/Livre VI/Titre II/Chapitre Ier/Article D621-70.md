@@ -1,30 +1,26 @@
 Article D621-70
 ----
-I. - Le comité départemental peut, dans les conditions prévues à l'article D.
-621-71, déléguer une partie de ses attributions à un bureau permanent comprenant
-:
+Le bureau permanent peut délibérer sur toutes questions de la compétence du
+comité départemental telles qu'elles sont définies par les articles L. 621-15 à
+L. 621-20 et les dispositions prises pour leur application ; toutefois en ce qui
+concerne les propositions à faire au conseil central en matière d'évaluation de
+récolte ou de prix, l'octroi ou le retrait d'agrément aux collecteurs agréés et
+à leurs magasins ou magasiniers, les zones d'action des collecteurs agréés, le
+prononcé des sanctions prévues par la législation en vigueur, le comité
+départemental a seul pouvoir de décision.
 
-1° Le président du comité départemental ou, en cas d'empêchement, le premier
-vice-président ;
+Dans les matières où il peut être interjeté appel de ses décisions, le comité
+départemental doit inviter la personne physique ou morale à l'égard de laquelle
+interviennent ces décisions, à produire ses moyens et conclusions.
 
-2° Un membre producteur autre que le président et le premier vice-président ;
+Il ne peut être interjeté appel des décisions du comité départemental des
+céréales passé le délai d'un mois à compter de la notification aux requérants de
+la décision les concernant.
 
-3° Un membre négociant ;
-
-4° Un membre meunier ;
-
-5° Le directeur départemental de l'agriculture et de la forêt ou son
-représentant ;
-
-6° Le directeur régional des douanes et des droits indirects ou son
-représentant.
-
-II. - Le président de la caisse régionale de crédit agricole mutuel ou son
-représentant et le représentant du directeur général de l'Office national
-interprofessionnel des céréales assistent aux séances avec voix consultative.
-
-III. - Le bureau permanent ne peut valablement délibérer que si quatre au moins
-de ses membres, dont un membre producteur, assistent à la séance.
-
-IV. - Il se réunit aussi souvent qu'il est nécessaire, sur convocation du préfet
-ou du président.
+Dans le cas où le directeur général de l'Office national interprofessionnel des
+grandes cultures décide de soumettre une délibération du comité départemental ou
+de son bureau permanent à l'approbation du conseil central, il doit en aviser le
+président du comité départemental dans les dix jours de la date de délibération.
+L'exécution de la décision du comité départemental est suspendue jusqu'à
+l'approbation qui doit intervenir dans les deux mois de la date susdite. Passé
+ce délai, elle devient exécutoire.

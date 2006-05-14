@@ -1,4 +1,5 @@
 Article D621-73
 ----
-Le secrétariat du comité départemental des céréales est assuré par un agent de
-l'Office national interprofessionnel des céréales.
+Le comité départemental transmet à l'Office national interprofessionnel des
+grandes cultures, avant le 15 juin, les prévisions de rendement de la récolte en
+terre.

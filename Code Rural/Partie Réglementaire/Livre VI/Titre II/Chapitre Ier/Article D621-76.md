@@ -1,5 +1,4 @@
 Article D621-76
 ----
-Tout producteur est muni d'une carte qui lui est délivrée par le comité
-départemental dont il dépend et dont la présentation peut être exigée à
-l'occasion de chaque livraison.
+L'appel prévu à l'article L. 621-19, qui est suspensif, doit être formé dans un
+délai maximum d'un mois à dater de la notification de la décision attaquée.

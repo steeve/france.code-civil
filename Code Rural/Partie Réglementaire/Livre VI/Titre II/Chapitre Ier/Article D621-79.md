@@ -1,10 +1,22 @@
 Article D621-79
 ----
-Les personnes ou sociétés exerçant le commerce ou la transformation des céréales
-peuvent être autorisées par l'Office national interprofessionnel des céréales à
-souscrire avec les agriculteurs et les collecteurs agréés des contrats prévoyant
-la multiplication et la livraison de céréales de caractéristiques particulières.
+Les céréales vendues par les collecteurs agréés doivent être réglées par
+l'acheteur, lors de la livraison, c'est-à-dire au plus tard au départ des
+magasins du groupement vendeur, sous réserve, le cas échéant, des dispositions
+des articles suivants.
 
-Les contrats qui sont établis dans les conditions fixées par l'office des
-céréales peuvent prévoir l'octroi de primes aux producteurs. Le règlement des
-céréales en cause s'effectue par l'intermédiaire des collecteurs agréés.
+Ces règlements peuvent être effectués par l'un des moyens suivants :
+
+a) Versement en espèces lorsque la créance est inférieure à 750 euros ;
+
+b) Remise d'un chèque barré ;
+
+c) Virement à un compte ouvert au nom du groupement vendeur, effectué de telle
+manière que celui-ci puisse disposer des fonds au plus tard le jour de la
+livraison.
+
+Les règlements effectués par l'un des moyens mentionnés ci-dessus, avant
+livraison de la marchandise, peuvent être limités à la valeur de celle-ci
+calculée au prix pour le poids spécifique de base, l'ajustement à la valeur
+réelle, compte tenu des caractéristiques des céréales livrées, devant intervenir
+dans les quinze jours de la livraison.

@@ -1,46 +1,46 @@
 Article R621-56
 ----
-Les recettes et les dépenses de l'Office national interprofessionnel des
-céréales (ONIC), font l'objet de prévisions et autorisations annuelles inscrites
-dans un état prévisionnel des recettes et des dépenses retraçant les opérations
-financées sur les ressources de l'établissement. Cet état comprend :
+L'office est doté d'un conseil de direction qui comprend, outre son président :
 
-1° En recettes :
+1° Neuf personnalités représentant la production agricole, nommées par arrêté du
+ministre chargé de l'agriculture, choisies parmi les personnes proposées par les
+organisations professionnelles représentatives ;
 
-a) Le produit des taxes parafiscales dont la perception est autorisée au profit
-de l'établissement ;
+2° Quatre personnalités représentant le secteur coopératif agricole, dont trois
+au moins représentant la production, nommées par le ministre chargé de
+l'agriculture, choisies parmi les personnes proposées par les organisations
+professionnelles représentatives ;
 
-b) Les subventions et versements de l'Etat ;
+3° Quatre personnalités représentant l'industrie de transformation, nommées
+conjointement par le ministre chargé de l'industrie et par le ministre chargé de
+l'agriculture, choisies parmi les personnes proposées par les organisations
+professionnelles représentatives ;
 
-c) Les subventions des collectivités publiques locales ;
+4° Cinq personnalités représentant le commerce, nommées conjointement par le
+ministre chargé du commerce et par le ministre chargé de l'agriculture, choisies
+parmi les personnes proposées par les organisations professionnelles
+représentatives ;
 
-d) Les remboursements d'avances et de prêts ;
+5° Trois personnalités représentant les salariés de la filière, nommées par le
+ministre chargé de l'agriculture, choisies parmi les personnes proposées par les
+organisations représentatives ;
 
-e) Les participations d'organisations professionnelles et organismes du secteur
-agricole ;
+6° Deux personnalités représentant les consommateurs, nommées par le ministre
+chargé de l'agriculture sur proposition du ministre chargé de la consommation et
+après consultation du Conseil national de la consommation ;
 
-f) Le produit du placement des fonds disponibles ;
+7° Quatre représentants de l'Etat :
 
-g) Les produits divers de l'exploitation et des services rendus par
-l'établissement ;
+- le directeur général des politiques économique, européenne et internationale
+et le directeur des affaires financières au ministère chargé de l'agriculture ou
+leurs représentants ;
 
-h) Le produit des montants forfaitaires versés par le Fonds européen
-d'orientation et de garantie agricole à titre de participation aux frais
-d'exécution des mesures communautaires d'intervention ;
+- le directeur général de la concurrence, de la consommation et de la répression
+des fraudes ou son représentant ;
 
-i) Les recettes diverses ;
+- le directeur du budget ou son représentant.
 
-2° En dépenses :
-
-a) Les dépenses de fonctionnement administratif de l'établissement ;
-
-b) Les dépenses d'équipement et d'installation immobilière des services ;
-
-c) Les dépenses inhérentes à l'accomplissement de la mission générale de
-l'établissement définie par les articles L. 621-3 et R. 621-39 ;
-
-d) Les prêts d'avances et subventions octroyés dans le cadre de cette mission
-générale ;
-
-e) Les frais techniques et financiers engagés en prévision et en exécution des
-mesures communautaires d'intervention.
+Sans préjudice des dispositions de l'article R. 621-5, les représentants du
+ministre chargé de l'industrie et du ministre chargé de la santé, ainsi que des
+personnalités qualifiées représentant les économies régionales assistent avec
+voix consultative aux travaux du conseil de direction.
