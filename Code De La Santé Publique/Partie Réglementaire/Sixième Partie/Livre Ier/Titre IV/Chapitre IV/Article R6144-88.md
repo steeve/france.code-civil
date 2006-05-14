@@ -17,7 +17,8 @@ lieux desdites réunions ;
 propositions des personnels au directeur de l'établissement ou au secrétaire
 général du syndicat interhospitalier, au comité technique d'établissement, à la
 commission médicale d'établissement, au comité d'hygiène, de sécurité et des
-conditions de travail et au comité de lutte contre les infections nosocomiales ;
+conditions de travail et à la sous-commission chargée de la lutte contre les
+infections nosocomiales ;
 
 4° Les conditions dans lesquelles le directeur de l'établissement ou le
 secrétaire général du syndicat interhospitalier fait connaître aux agents

@@ -12,8 +12,10 @@ et par les établissements de santé privés qui assurent l'exécution du servic
 public hospitalier ou sont associés à son fonctionnement ;
 
 3° De réunir les informations de même nature qui leur sont transmises par les
-autres établissements de santé ou, à titre individuel, par les membres de
-professions de santé ;
+autres établissements de santé, les syndicats interhospitaliers et les
+groupements de coopération sanitaire autorisés en vertu des articles L. 6132-2
+et L. 6133-1 à assurer les missions de ces établissements ou, à titre
+individuel, par les membres de professions de santé ;
 
 4° De transmettre au directeur général de l'Agence française de sécurité
 sanitaire des produits de santé les informations recueillies en application des

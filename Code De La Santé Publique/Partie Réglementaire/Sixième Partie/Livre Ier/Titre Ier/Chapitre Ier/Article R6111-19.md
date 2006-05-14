@@ -15,7 +15,10 @@ Ce système respecte les bonnes pratiques de pharmacie hospitalière et les norm
 techniques arrêtées par le ministre chargé de la santé.
 
 Dans les établissements publics de santé et les syndicats interhospitaliers, le
-système est arrêté par le directeur ou le secrétaire général après consultation
-du conseil d'administration et de la commission médicale d'établissement. Dans
-les établissements de santé privés, il est arrêté par l'organe qualifié après
-avis de la conférence médicale ou de la commission médicale.
+système est arrêté par le conseil d'administration après avis de la ou des
+sous-commissions en charge des questions énumérées aux 1° à 3° du II de
+l'article L. 6144-1 et les consultations prévues au dernier alinéa de l'article
+R. 6144-30-1. Dans les établissements de santé privés, il est arrêté par
+l'organe qualifié après avis de la conférence médicale ou de la commission
+médicale. Dans les groupements de coopération sanitaire, le système est arrêté
+par l'administrateur du groupement après avis de l'assemblée générale.

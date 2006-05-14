@@ -7,30 +7,23 @@ conditions prévues à l'article L. 5126-1 ou à assurer les missions d'un
 établissement de santé dans les conditions respectivement prévues aux articles
 L. 6132-2 et L. 6133-1.
 
-Le règlement intérieur du syndicat ou du groupement détermine, en fonction de la
-nature et de l'importance des activités pharmaceutiques assurées par le syndicat
-ou le groupement pour le compte des établissements de santé qui sont ses
-membres, les conditions dans lesquelles :
+Dans les syndicats interhospitaliers, le règlement intérieur fixe les modalités
+de composition, d'organisation et de fonctionnement de l'instance chargée des
+missions définies à l'article R. 5126-48 dans les conditions prévues aux
+articles R. 6144-30-1 à R. 6144-30-9.
 
-1° Les avis de la commission ainsi que son rapport d'activité prévus à l'article
-R. 5126-48 sont transmis aux instances respectivement constituées au sein du
-syndicat ou du groupement et de chaque établissement de santé membre de celui-ci
-;
-
-2° Les sièges du collège prévu au 1° de l'article R. 5126-51 sont, le cas
-échéant, répartis entre le syndicat ou le groupement et ces différents
-établissements ;
-
-3° Chacun des représentants mentionnés aux 2° à 6° de l'article R. 5126-51 est
-désigné par et parmi les instances ou les catégories de personnel respectivement
-concernées au sein de chacun des établissements membres et, le cas échéant, au
-sein du syndicat ou du groupement ;
-
-4° Les dispositions de l'article R. 5126-52 s'appliquent au secrétaire général
-du syndicat ou à l'administrateur du groupement ainsi qu'aux directeurs des
-établissements de santé membres.
+Dans les groupements de coopération sanitaire, les modalités de composition et
+d'organisation de la commission du médicament et des dispositifs médicaux
+stériles sont définies par la convention constitutive du groupement qui précise
+en outre les conditions dans lesquelles les propositions, avis et voeux de cette
+instance ainsi que son rapport d'activité prévus à l'article R. 5126-48 sont
+transmis aux instances constituées au sein du groupement et de chaque
+établissement de santé membre de celui-ci. Les personnes dont l'expertise est
+nécessaire à l'exercice des missions de cette commission peuvent être désignées
+parmi les professionnels de santé exerçant dans les établissements de santé
+membres du groupement.
 
 Les établissements de santé qui ont confié l'ensemble de leurs activités
 pharmaceutiques à un syndicat interhospitalier ou à un groupement de coopération
-sanitaire sont dispensés de constituer en leur sein une commission du médicament
-et des dispositifs médicaux stériles.
+sanitaire sont dispensés de constituer en leur sein l'instance définie à
+l'article R. 5126-48.

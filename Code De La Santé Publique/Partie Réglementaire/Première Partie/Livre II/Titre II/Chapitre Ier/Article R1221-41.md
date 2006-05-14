@@ -1,8 +1,9 @@
 Article R1221-41
 ----
 A la demande de l'Agence française de sécurité sanitaire des produits de santé,
-l'établissement de santé recueille et conserve toutes les informations relatives
-à l'hémovigilance auxquelles il a accès et qui portent sur :
+les établissements mentionnés au premier alinéa de l'article R. 1221-40
+recueillent et conservent toutes les informations relatives à l'hémovigilance
+auxquelles ils ont accès et qui portent sur :
 
 1° Les transfusions autologues préopératoires et peropératoires pratiquées dans
 l'établissement ;

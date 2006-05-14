@@ -12,7 +12,7 @@ connaissance ;
 3° D'informer les fabricants, mandataires, importateurs ou distributeurs
 intéressés, des incidents ou risques d'incidents mentionnés ci-dessus, et d'en
 informer s'il y a lieu les responsables des autres vigilances des produits de
-santé dans l'établissement de santé ou l'établissement de transfusion sanguine ;
+santé au sein du même établissement ;
 
 4° De participer aux enquêtes, évaluations et expertises susceptibles d'être
 mises en oeuvre sur les incidents ou risques d'incidents que peuvent présenter

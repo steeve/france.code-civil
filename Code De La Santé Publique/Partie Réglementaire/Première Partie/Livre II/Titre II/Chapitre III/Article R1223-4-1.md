@@ -9,8 +9,7 @@ française de sécurité sanitaire des produits de santé toutes modifications d
 - aux locaux dans lesquels sont assurées ces activités ainsi qu'aux équipements
 techniques soumis à une qualification au sens des bonnes pratiques mentionnées à
 l'article L. 1223-3 lorsque ces modifications de locaux ou d'équipements
-entraînent un changement du nombre de personnes accueillies ou de produits
-utilisés ;
+entraînent un changement de la circulation des personnes et des produits ;
 
 - à la création de nouveaux locaux dans lesquels sont exercées les activités
 agréées.

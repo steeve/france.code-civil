@@ -12,10 +12,13 @@ service ;
 2° De définir et mettre en oeuvre une organisation destinée à s'assurer de
 l'exécution de la maintenance et du contrôle de qualité interne ou externe des
 dispositifs dont il précise les modalités, qui sont transcrites dans un document
-; dans les établissements de santé, cette organisation est adoptée après avis
-des instances médicales consultatives ; elle est portée à la connaissance des
-utilisateurs ; les changements de cette organisation donnent lieu, sans délai, à
-la mise à jour du document ;
+; dans les établissements de santé et les syndicats interhospitaliers mentionnés
+à l'article R. 5212-12, cette organisation est adoptée après avis des instances
+médicales consultatives ; dans les groupements de coopération sanitaire
+mentionnés à l'article R. 5212-12, cette organisation est définie par la
+convention constitutive du groupement ; cette organisation est portée à la
+connaissance des utilisateurs ; les changements de cette organisation donnent
+lieu, sans délai, à la mise à jour du document ;
 
 3° De disposer d'informations permettant d'apprécier les dispositions adoptées
 pour l'organisation de la maintenance et du contrôle de qualité interne ou

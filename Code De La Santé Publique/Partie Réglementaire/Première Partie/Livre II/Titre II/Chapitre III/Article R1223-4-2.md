@@ -28,11 +28,11 @@ activités autorisées ;
 du service public transfusionnel.
 
 La déclaration est faite au plus tard dans le mois suivant la mise en oeuvre des
-modifications susmentionnées à l'article R. 1223-4-1. Elle est adressée par le
-président de l'Etablissement français du sang au directeur général de l'Agence
-française de sécurité sanitaire des produits de santé, accompagnée d'un courrier
-explicitant l'objet et les incidences éventuelles de la modification sur les
-activités autorisées. Le directeur général notifie au président de
-l'Etablissement français du sang la réception de la déclaration. Le directeur
-général de l'agence peut requérir du demandeur toutes informations
-complémentaires sur la déclaration.
+modifications susmentionnées. Elle est adressée par le président de
+l'Etablissement français du sang au directeur général de l'Agence française de
+sécurité sanitaire des produits de santé, accompagnée d'un courrier explicitant
+l'objet et les incidences éventuelles de la modification sur les activités
+autorisées. Le directeur général notifie au président de l'Etablissement
+français du sang la réception de la déclaration. Le directeur général de
+l'agence peut requérir du demandeur toutes informations complémentaires sur la
+déclaration.

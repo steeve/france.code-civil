@@ -17,26 +17,19 @@ questions relatives à la qualité et à la sécurité des soins sont examinées
 
 2° La commission médicale d'établissement ;
 
-3° La commission du médicament et des dispositifs médicaux stériles ;
+3° La ou les sous-commissions prévues au II de l'article L. 6144-1 ;
 
-4° Le comité de lutte contre les infections nosocomiales ;
+4° Le comité d'hygiène et de sécurité et des conditions de travail ;
 
-5° Le comité d'hygiène et de sécurité et des conditions de travail ;
+5° Le comité technique d'établissement ;
 
-6° Le comité technique d'établissement ;
-
-7° Le comité de sécurité transfusionnelle et d'hémovigilance ;
-
-8° La commission des soins infirmiers, de rééducation et médico-techniques de
+6° La commission des soins infirmiers, de rééducation et médico-techniques de
 rééducations et médico-techniques ;
 
-9° La commission des relations avec les usagers et de la qualité de la prise en
+7° La commission des relations avec les usagers et de la qualité de la prise en
 charge ;
 
-10° Les commissions locales créées par le règlement intérieur de l'établissement
-;
-
-11° Le cas échéant, les instances délibérantes des structures dotées de la
+8° Le cas échéant, les instances délibérantes des structures dotées de la
 personnalité morale mentionnées au 9° de l'article L. 6143-1 dans lesquelles ces
 médecins représentent l'établissement.
 
@@ -44,7 +37,7 @@ Cette indemnité, fixée par réunion à 5 consultations de médecins générali
 dans le respect des tarifs fixés en application de l'article L. 162-14-1 du code
 de la sécurité sociale, est versée mensuellement sur la base d'un justificatif
 de présence dans la limite de quatre réunions annuelles pour les instances
-mentionnées aux 1° à 7° du présent article et dans la limite de trois réunions
+mentionnées aux 1° à 6° du présent article et dans la limite de trois réunions
 annuelles pour les instances mentionnées aux 8° à 11°.
 
 Peuvent seuls prétendre à ces indemnités les médecins qui siègent avec voix

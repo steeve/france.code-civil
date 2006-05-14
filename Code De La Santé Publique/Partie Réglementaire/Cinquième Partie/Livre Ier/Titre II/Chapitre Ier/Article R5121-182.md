@@ -4,9 +4,10 @@ Le correspondant de pharmacovigilance pour les médicaments dérivés du sang
 mentionné à l'article R. 5121-181 est responsable au sein de l'établissement de
 la dispensation et du suivi de ces médicaments.
 
-Dans les établissements publics de santé, il participe dans les conditions
-prévues à l'article R. 1221-33 aux travaux du comité de sécurité
-transfusionnelle et d'hémovigilance.
+Dans les établissements de santé, il participe dans les conditions prévues à
+l'article R. 1221-46 aux travaux du comité de sécurité transfusionnelle et
+d'hémovigilance ou de la sous-commission en charge de la sécurité
+transfusionnelle et de l'hémovigilance.
 
 Il est responsable de l'enregistrement et de la conservation des informations
 relatives aux médicaments dérivés du sang, dans les conditions prévues aux

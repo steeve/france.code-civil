@@ -1,7 +1,8 @@
 Article R5121-192
 ----
 Dans les établissements de transfusion sanguine et dans tout organisme, autre
-que les officines de pharmacie et les établissements de santé, habilité à
+que les officines de pharmacie, les établissements de santé, les syndicats
+interhospitaliers et les groupements de coopération sanitaire habilité à
 dispenser des médicaments dérivés du sang, ces médicaments sont délivrés au vu
 d'une prescription médicale nominative.
 

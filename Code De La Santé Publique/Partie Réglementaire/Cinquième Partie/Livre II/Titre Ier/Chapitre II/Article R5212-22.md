@@ -24,7 +24,8 @@ corps humain ;
 e) De conduire les enquêtes et travaux relatifs à la sécurité d'utilisation des
 dispositifs médicaux demandés par le directeur général de l'agence ;
 
-2° Au sein de l'établissement de santé ou de l'association :
+2° Au sein des établissements ou associations mentionnés à l'article R. 5212-12
+:
 
 a) D'enregistrer, d'analyser et de valider tout incident ou risque d'incident
 signalé susceptible d'être dû à un dispositif médical ;

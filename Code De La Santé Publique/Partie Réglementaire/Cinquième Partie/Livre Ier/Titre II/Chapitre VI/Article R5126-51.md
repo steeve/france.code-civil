@@ -1,30 +1,30 @@
 Article R5126-51
 ----
-Dans les établissements publics de santé, la commission comprend :
+Dans les établissements de santé privés, la composition de la commission du
+médicament et des dispositifs médicaux stériles et des éventuels comités locaux,
+leur organisation et leurs règles de fonctionnement ainsi que les modalités de
+désignation de leurs membres et la durée de leur mandat sont définies par
+l'organe qualifié de l'établissement de santé après avis du président de la
+commission médicale mentionnée à l'article L. 6161-8 ou de la conférence
+médicale mentionnée à l'article L. 6161-2.
 
-1° Un nombre de membres représentant les médecins et les pharmaciens au plus
-égal à vingt ; la moitié au moins de ces membres est désignée en son sein par la
-commission médicale d'établissement et le nombre des pharmaciens ne peut être
-supérieur au nombre des médecins ni inférieur au tiers de ce nombre ; dans les
-établissements publics de santé ne comportant qu'un seul service ou un seul
-pharmacien ou ne comportant pas de pharmacie à usage intérieur et dans les
-hôpitaux locaux, ce collège est constitué de l'ensemble des membres de la
-commission médicale d'établissement ; dans les établissements ne comportant pas
-de pharmacie à usage intérieur, le médecin ou le pharmacien mentionné à
-l'article L. 5126-6 est membre de droit de ce collège ;
+Le représentant légal de l'établissement arrête la liste nominative des membres
+de la commission.
 
-2° Le président du comité de lutte contre les infections nosocomiales ou son
-représentant ;
+La commission élit en son sein, parmi les médecins, les odontologistes et les
+pharmaciens hospitaliers, un président et un vice-président. Cette élection a
+lieu à la majorité simple des membres de la commission.
 
-3° Un représentant de la commission du service de soins infirmiers désigné par
-et parmi les membres de la commission autres que ceux appartenant au collège des
-aides-soignants ;
+Les mandats des membres prennent fin en même temps que les fonctions ou les
+mandats au titre desquels ils ont été désignés.
 
-4° Le correspondant local de matériovigilance ainsi que le correspondant local
-de biovigilance ;
+Chaque établissement de santé attribue à la commission du médicament et des
+dispositifs médicaux stériles et, le cas échéant, aux commissions locales les
+moyens nécessaires à leur fonctionnement.
 
-5° Le responsable du centre régional de pharmacovigilance ou son représentant
-dans les établissements qui en sont dotés ;
-
-6° Un préparateur en pharmacie désigné parmi les préparateurs en pharmacie de
-l'établissement.
+L'acte de création de la commission et des comités locaux précise également les
+conditions dans lesquelles d'autres personnes que les membres peuvent assister,
+avec voix consultative, aux séances et les modalités selon lesquelles la
+commission et les comités locaux peuvent entendre toute personne qualifiée,
+appartenant ou non à l'établissement, sur les questions inscrites à l'ordre du
+jour.

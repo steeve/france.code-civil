@@ -7,8 +7,9 @@ pharmacovigilance, notamment en renseignant les membres des professions de sant�
 et en participant à leur formation ;
 
 2° Remplissent une mission d'expertise et de conseil en matière de
-pharmacovigilance auprès des établissements de santé, en collaboration avec les
-pharmacies à usage intérieur de ces établissements ;
+pharmacovigilance auprès des établissements mentionnés aux 2° et 3° de l'article
+R. 5121-167, en collaboration avec les pharmacies à usage intérieur dont
+disposent ces établissements ;
 
 3° Portent à la connaissance des centres d'évaluation et d'information sur la
 pharmacodépendance les cas de pharmacodépendance ou d'abus tels qu'ils sont

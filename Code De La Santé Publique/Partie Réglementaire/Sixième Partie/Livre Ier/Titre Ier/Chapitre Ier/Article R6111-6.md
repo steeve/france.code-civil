@@ -1,24 +1,16 @@
 Article R6111-6
 ----
-Le comité se réunit au moins trois fois par an.
+Dans les établissements de santé privés et les groupements de coopération
+sanitaire, le comité de lutte contre les infections nosocomiales élit en son
+sein, à la majorité simple de ses membres, un président et un vice-président
+parmi les médecins, odontologistes et les pharmaciens.
 
-En cas de partage des voix, la voix du président est prépondérante.
+En cas de partage égal des voix, la voix du président est prépondérante.
 
 Le comité peut entendre toute personne compétente, appartenant ou non à
 l'établissement, sur les questions inscrites à l'ordre du jour.
 
-Les représentants des usagers siégeant au conseil d'administration, ou au sein
-de l'organe qualifié qui en tient lieu, assistent avec voix consultative à la
-séance du comité au cours de laquelle sont discutés le rapport d'activité et le
-programme annuel d'actions.
-
-Dans les établissements de santé privés dont le conseil d'administration, ou
-l'organe qualifié qui en tient lieu, ne comporte pas de représentant des
-usagers, un représentant de ceux-ci est désigné par le directeur de l'agence
-régionale de l'hospitalisation, après avis du préfet du département dans lequel
-l'établissement a son siège, parmi les personnes proposées par les organisations
-qui représentent au niveau régional ou départemental les intérêts des patients,
-des consommateurs, des familles, des personnes âgées et des personnes
-handicapées, et dont le directeur de l'agence estime que l'objet social
-correspond le mieux à l'orientation médicale et médico-sociale de
-l'établissement.
+Les représentants des usagers siégeant au sein de la commission des relations
+avec les usagers et de la qualité de la prise en charge assistent, avec voix
+consultative, aux séances du comité au cours desquelles sont discutés le rapport
+d'activité et le programme annuel d'actions.
