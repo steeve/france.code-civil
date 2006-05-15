@@ -1,5 +1,6 @@
 Article D411-2
 ----
-Pour l'application de l'article L. 411-2, un cercle d'investisseurs comprenant
-moins de 100 personnes est réputé constituer un cercle restreint
-d'investisseurs.
+Ont également la qualité d'investisseurs qualifiés les personnes physiques ou
+entités reconnues investisseurs qualifiés dans les Etats parties à l'accord sur
+l'Espace économique européen, conformément aux dispositions de la directive
+2003/71/CE du 4 novembre 2003.
