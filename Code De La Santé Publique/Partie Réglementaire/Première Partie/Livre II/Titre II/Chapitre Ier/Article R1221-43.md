@@ -1,7 +1,7 @@
 Article R1221-43
 ----
-Au sein de chaque établissement de santé, public ou privé, un correspondant
-d'hémovigilance est chargé d'assurer :
+Au sein de chacun des établissements mentionnés au premier alinéa de l'article
+R. 1221-40, un correspondant d'hémovigilance est chargé d'assurer :
 
 1° La déclaration, dans les conditions et selon les modalités prévues à
 l'article R. 1221-49, de tout effet indésirable survenu chez un receveur de
@@ -28,20 +28,26 @@ incidents graves. Dans ce cas, il informe sans délai le coordonnateur régional
 qui décide de la poursuite ou de l'interruption de ces investigations, et
 l'Agence française de sécurité sanitaire des produits de santé.
 
-Le correspondant d'hémovigilance de l'établissement de santé doit être un
-médecin. Toutefois, le correspondant d'hémovigilance peut être un pharmacien
-dans des conditions fixées par arrêté du ministre chargé de la santé sur
-proposition du directeur général de l'Agence française de sécurité sanitaire des
-produits de santé.
+Le correspondant d'hémovigilance doit être un médecin. Toutefois, le
+correspondant d'hémovigilance peut être un pharmacien dans des conditions fixées
+par arrêté du ministre chargé de la santé sur proposition du directeur général
+de l'Agence française de sécurité sanitaire des produits de santé.
 
 Des conditions particulières de qualification et de formation peuvent être
 imposées aux correspondants de certains établissements par arrêté du ministre
 chargé de la santé, pris sur proposition du directeur général de l'Agence
 française de sécurité sanitaire des produits de santé.
 
-Le correspondant d'hémovigilance est désigné par le directeur de
-l'établissement. Dans les établissements publics de santé, il est désigné après
-avis de la commission médicale d'établissement.
+Le correspondant d'hémovigilance est désigné, selon le cas, par le directeur de
+l'établissement de santé, le secrétaire général du syndicat interhospitalier ou
+l'administrateur du groupement de coopération sanitaire. Dans les établissements
+publics de santé et les syndicats interhospitaliers, cette désignation
+intervient après avis de la commission médicale d'établissement. Dans les
+établissements de santé privés, elle intervient après avis de la commission
+médicale ou de la conférence médicale. Le correspondant d'hémovigilance du
+syndicat interhospitalier ou du groupement de coopération sanitaire peut être le
+correspondant d'hémovigilance d'un établissement de santé membre du syndicat ou
+du groupement.
 
 Le nom du correspondant est communiqué par l'établissement à l'Agence française
 de sécurité sanitaire des produits de santé, au coordonnateur régional

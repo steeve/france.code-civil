@@ -14,6 +14,8 @@ armées ;
 
 - l'Institut de veille sanitaire ;
 
-- les établissements de santé et les hôpitaux des armées ;
+- les établissements de santé, les syndicats interhospitaliers et groupements de
+coopération sanitaire autorisés en vertu des articles L. 6132-2 et L. 6133-1 à
+assurer les missions d'un établissement de santé et les hôpitaux des armées ;
 
 - tout professionnel de santé.
