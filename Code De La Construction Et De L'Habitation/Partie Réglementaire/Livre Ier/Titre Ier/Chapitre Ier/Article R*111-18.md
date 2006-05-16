@@ -1,13 +1,11 @@
 Article R*111-18
 ----
-Doivent être accessibles, par un cheminement praticable sans discontinuité, aux
-personnes handicapées à mobilité réduite, y compris celles qui se déplacent en
-fauteuil roulant, les bâtiments d'habitation collectifs, les logements situés
-dans ces bâtiments, les ascenseurs ou un ascenseur au moins par batterie
-d'ascenseurs, les locaux collectifs affectés aux ensembles résidentiels et une
-partie des places de stationnement d'automobiles destinées aux habitants et aux
-visiteurs.
-
-Dans les mêmes bâtiments, les étages non desservis par ascenseurs doivent être
-accessibles à toutes personnes handicapées à mobilité réduite par un escalier
-conçu de telle sorte que les intéressés puissent recevoir une aide appropriée.
+Les bâtiments d'habitation collectifs et leurs abords doivent être construits et
+aménagés de façon à être accessibles aux personnes handicapées, quel que soit
+leur handicap. Au sens de la présente sous-section, est considéré comme un
+bâtiment d'habitation collectif tout bâtiment dans lequel sont superposés, même
+partiellement, plus de deux logements distincts desservis par des parties
+communes bâties. L'obligation d'accessibilité porte notamment sur les
+circulations communes intérieures et extérieures, une partie des places de
+stationnement automobile, les logements, les ascenseurs, les locaux collectifs
+et leurs équipements.

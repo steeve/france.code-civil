@@ -1,4 +1,4 @@
-Article R*111-19-5
+Article R*111-19-12
 ----
 Les ministres intéressés et le ministre chargé de la construction fixent par
 arrêté conjoint les règles d'accessibilité applicables aux établissements

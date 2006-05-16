@@ -1,17 +1,20 @@
 Article R*111-18-1
 ----
-Les circulations et les portes des logements situés dans les bâtiments
-d'habitation collectifs doivent, dès la construction, permettre le passage des
-personnes handicapées à mobilité réduite,
+Est considéré comme accessible aux personnes handicapées tout bâtiment
+d'habitation collectif ou tout aménagement lié à un bâtiment permettant à un
+habitant ou à un visiteur handicapé, avec la plus grande autonomie possible, de
+circuler, d'accéder aux locaux et équipements, d'utiliser les équipements, de se
+repérer et de communiquer. Les conditions d'accès des personnes handicapées
+doivent être les mêmes que celles des autres publics ou, à défaut, présenter une
+qualité d'usage équivalente.
 
-y compris celles qui circulent en fauteuil roulant.
-
-Les logements situés dans ces bâtiments, au rez-de-chaussée et aux étages
-desservis par ascenseur, doivent être adaptables par des travaux simples aux
-besoins particuliers des personnes handicapées circulant en fauteuil roulant de
-façon à leur permettre au moins l'utilisation de la cuisine ou d'une partie du
-studio aménagée en cuisine, du séjour, d'une chambre ou d'une partie du studio
-aménagée en chambre, d'un cabinet d'aisance et d'une salle d'eau.
-
-Dans le cas d'un logement réalisé sur plusieurs niveaux, les dispositions des
-deux alinéas précédents sont applicables à l'un de ces niveaux au moins.
+Le ministre chargé de la construction et le ministre chargé des personnes
+handicapées fixent, par arrêté, les obligations auxquelles doivent satisfaire
+les constructions et les aménagements propres à assurer l'accessibilité de ces
+bâtiments et de leurs abords en ce qui concerne les cheminements extérieurs, le
+stationnement des véhicules, les conditions d'accès aux bâtiments, les
+circulations intérieures horizontales et verticales des parties communes, les
+portes et les sas des parties communes, les revêtements des parois des parties
+communes, les locaux collectifs, celliers et caves, ainsi que les équipements
+susceptibles d'être installés dans les parties communes, notamment les
+dispositifs d'éclairage et d'information des usagers.
