@@ -3,61 +3,109 @@ Article D411-1
 I. - Ont la qualité d'investisseurs qualifiés au sens de l'article L. 411-2
 lorsqu'ils agissent pour compte propre :
 
-1° Les établissements de crédit et les compagnies financières mentionnés,
-respectivement, à l'article L. 511-9 et à l'article L. 517-1 ;
+1° Les établissements de crédit et les compagnies financières mentionnés
+respectivement à l'article L. 511-9 et à l'article L. 517-1 ;
 
 2° Les institutions et services mentionnés à l'article L. 518-1 ;
 
 3° Les entreprises d'investissement mentionnées à l'article L. 531-4 ;
 
-4° Les sociétés d'investissement régies par l'ordonnance n° 45-2710 du 2
-novembre 1945 relative aux sociétés d'investissement ;
+4° Les sociétés d'investissement mentionnées à l'article 6 de l'ordonnance du 2
+novembre 1945 susvisée ;
 
-5° Les sociétés d'assurance et de capitalisation, ainsi que les sociétés de
-réassurance régies par le code des assurances ;
+5° Les organismes de placement collectif mentionnés à l'article L. 214-1 et les
+sociétés de gestion d'organisme de placement collectif mentionnées à l'article
+L. 543-1 ;
 
-6° Les institutions de prévoyance régies par le code de la sécurité sociale ;
+6° Les sociétés d'assurance et les sociétés de réassurance mentionnées,
+respectivement, au premier alinéa de l'article L. 310-1 et à l'article L.
+310-1-1 du code des assurances ;
 
-7° Les mutuelles, unions et fédérations régies par le livre II du code de la
-mutualité ;
+7° Les sociétés de groupe d'assurance mentionnées à l'article L. 322-1-2 du code
+des assurances ;
 
-8° La Caisse d'amortissement de la dette sociale instituée par l'article 1er de
-l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette
-sociale.
+8° Les institutions de prévoyance mentionnées à l'article L. 931-1 du code de la
+sécurité sociale ;
 
-II. - Ont également la qualité d'investisseurs qualifiés au sens de l'article L.
-411-2, lorsqu'ils agissent pour compte propre, et à partir du jour de la
-publication au Bulletin des annonces légales obligatoires d'une décision prise
-en ce sens, selon le cas, par le conseil d'administration, par le directoire ou
-par le ou les gérants :
+9° Le fonds de réserve pour les retraites mentionné à l'article L. 135-6 du code
+de la sécurité sociale ;
 
-1° Les sociétés de capital-risque mentionnées à l'article 1er de la loi n°
-85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et
-financier ;
+10° Les mutuelles et unions de mutuelles relevant du livre II du code de la
+mutualité autres que celles mentionnées à l'article L. 510-2 du même code ;
 
-2° Les sociétés financières d'innovation mentionnées au III de l'article 4 de la
-loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre
-économique et financier ;
+11° Les compagnies financières holdings mixtes mentionnées à l'article L. 517-4
+et au 9° de l'article L. 334-2 du code des assurances ;
 
-3° Les sociétés commerciales régies par les titres Ier à IV du livre II du code
-de commerce, dont le total du bilan consolidé, ou à défaut le total du bilan
-social, du dernier exercice, tel que publié et certifié par les commissaires aux
-comptes, est supérieur à 150 millions d'euros ;
+12° Les Etats membres de l'Organisation de coopération et de développement
+économiques ;
 
-4° Les établissements publics nationaux à caractère industriel et commercial
-dont des titres sont admis aux négociations sur un marché réglementé d'un Etat
-partie à l'accord sur l'Espace économique européen ;
+13° La Banque centrale européenne et les banques centrales des Etats membres de
+l'Organisation de coopération et de développement économiques ;
 
-5° Les sociétés dont un ou plusieurs investisseurs qualifiés mentionnés au I
-ci-dessus ou aux 1° à 4° du présent II détiennent, ensemble ou séparément,
-directement ou indirectement, au moins 99 % du capital ou des droits de vote.
+14° Les organismes financiers internationaux à caractère public auxquels la
+France ou tout autre Etat membre de l'Organisation de coopération et de
+développement économiques fait partie ;
 
-La décision prise par le conseil d'administration, par le directoire ou par le
-ou les gérants rapportant la décision mentionnée au premier alinéa du présent II
-prend effet à partir de sa publication au Bulletin des annonces légales
-obligatoires.
+15° La Caisse d'amortissement de la dette sociale instituée par l'article 1er de
+l'ordonnance du 24 janvier 1996 susvisée ;
 
-III. - Les personnes mentionnées au I ci-dessus sont réputées agir en qualité
-d'investisseur qualifié lorsqu'elles agissent pour le compte d'un organisme de
-placement collectif en valeurs mobilières ou d'un investisseur qualifié
-appartenant à l'une des catégories mentionnées au I ou au II ci-dessus.
+16° Les sociétés de capital-risque mentionnées à l'article 1er de la loi du 11
+juillet 1985 susvisée ;
+
+17° Les sociétés financières d'innovation mentionnées au III de l'article 4 de
+la loi du 11 juillet 1972 susvisée ;
+
+18° Les intermédiaires en marchandises ;
+
+19° Les entités remplissant au moins deux des trois critères suivants :
+
+- effectifs annuels moyens supérieurs à 250 personnes ;
+
+- total du bilan supérieur à 43 millions d'euros ;
+
+- chiffre d'affaires ou montant des recettes supérieur à 50 millions d'euros.
+
+Ces critères sont appréciés au vu des derniers comptes consolidés ou, à défaut,
+des comptes sociaux, tels que publiés et, le cas échéant, certifiés par les
+commissaires aux comptes.
+
+II. - Ont également la qualité d'investisseurs qualifiés, lorsqu'ils agissent
+pour compte propre et à partir du jour de réception de l'accusé de réception
+attestant de leur inscription sur le fichier mentionné à l'article D. 411-3 :
+
+1° Les entités qui remplissent au moins deux des trois critères suivants :
+
+- effectifs annuels moyens inférieurs à 250 personnes ;
+
+- total du bilan inférieur à 43 millions d'euros ;
+
+- chiffre d'affaires ou montant des recettes inférieur à 50 millions d'euros.
+
+Ces critères sont appréciés au vu des derniers comptes consolidés ou, à défaut,
+des comptes sociaux, tels que publiés et, le cas échéant, certifiés par les
+commissaires aux comptes. La décision d'inscription sur le fichier mentionné à
+l'article D. 411-3 est prise, selon le cas, par le conseil d'administration, par
+le directoire, par le ou les gérants, ou par l'organe de gestion de l'entité ;
+
+2° Les personnes physiques remplissant au moins deux des trois critères suivants
+:
+
+- la détention d'un portefeuille d'instruments financiers d'une valeur
+supérieure à 500 000 euros ;
+
+- la réalisation d'opérations d'un montant supérieur à 600 par opération sur des
+instruments financiers, à raison d'au moins dix par trimestre en moyenne sur les
+quatre trimestres précédents ;
+
+- l'occupation pendant au moins un an, dans le secteur financier, d'une position
+professionnelle exigeant une connaissance de l'investissement en instruments
+financiers.
+
+III. - Ont également la qualité d'investisseur qualifié :
+
+1° Les entités mentionnées au I lorsqu'elles agissent pour le compte d'un
+organisme de placement collectif ou d'un investisseur qualifié appartenant à
+l'une des catégories mentionnées au I ou au II ;
+
+2° Les prestataires de services d'investissement lorsqu'ils agissent dans le
+cadre d'une activité de gestion de portefeuille pour le compte de leur mandant.

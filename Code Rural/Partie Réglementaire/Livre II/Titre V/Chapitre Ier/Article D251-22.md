@@ -9,9 +9,18 @@ réexportation ou, le cas échéant, des originaux d'autres documents ou marques
 définis et autorisés par arrêté du ministre chargé des douanes et du ministre
 chargé de l'agriculture.
 
+Lorsqu'un contrôle douanier fait apparaître qu'un envoi ou un lot en provenance
+d'un pays tiers est constitué entièrement ou partiellement de végétaux, produits
+végétaux ou d'autres objets non déclarés et visés au B du V de l'article D.
+251-1, ledit lot ou envoi fait l'objet d'un contrôle sanitaire. Si, à l'issue de
+ce contrôle, des doutes subsistent quant à l'identification de la marchandise,
+notamment en ce qui concerne le genre, l'espèce ou l'origine, l'envoi est réputé
+contenir des végétaux, produits végétaux ou autres objets visés au B du V de
+l'article D. 251-1..
+
 Les contrôles documentaire, d'identité et phytosanitaire permettant de vérifier
 que les végétaux, produits végétaux et autres objets originaires de pays tiers
-ne figurent pas sur la liste mentionnée au 3° de l'article D. 251-1 doivent
+ne figurent pas sur la liste mentionnée au III de l'article D. 251-1 doivent
 avoir lieu aux points d'entrée sur le territoire de la métropole ou des
 départements d'outre-mer, en même temps que les formalités douanières.
 

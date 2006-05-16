@@ -1,23 +1,18 @@
 Article R*111-19-9
 ----
-Lorsque les travaux projetés ne sont pas soumis au permis de construire prévu à
-l'article L. 421-1 du code de l'urbanisme, l'autorisation de travaux prévue à
-l'article L. 111-8-1 est délivrée par le maire au nom de l'Etat dans un délais
-de trois mois à compter du dépôt d'un dossier complet. Dans ce cas, une
-autorisation unique est délivrée par cette autorité au titre des articles L.
-111-8-1 et R. 123-23.
+Au plus tard le 1er janvier 2011, les établissements recevant du public
+existants, classés dans les quatre premières catégories au sens de l'article R.
+123-19, doivent avoir fait l'objet, à l'initiative de l'administration
+intéressée ou de l'exploitant, d'un diagnostic de leurs conditions
+d'accessibilité. Ce diagnostic analyse la situation de l'établissement ou de
+l'installation au regard des obligations définies par la présente sous-section,
+décrit les travaux nécessaires pour respecter celles qui doivent être
+satisfaites avant le 1er janvier 2015 et établit une évaluation du coût de ces
+travaux.
 
-A défaut de notification au demandeur d'une décision expresse du maire dans le
-délai de trois mois à compter du dépôt d'un dossier complet, l'autorisation de
-travaux est considérée comme accordée et les travaux prévus pourront être
-entrepris conformément au projet déposé.
+Le diagnostic est tenu à la disposition de tout usager de l'établissement ou de
+l'installation.
 
-Si le dossier est incomplet, le maire, dans le mois suivant la réception de la
-demande, invite, par lettre recommandée avec accusé de réception postal, le
-demandeur à fournir les pièces complémentaires. Le délai d'instruction de trois
-mois commence à courir, dans ce cas, à compter de la réception des pièces
-complétant le dossier.
-
-La décision du maire est prise par arrêté. Si cette décision comporte rejet de
-la demande ou si elle est assortie de prescriptions ou d'une dérogation, elle
-doit être motivée.
+Le schéma directeur d'accessibilité des services de transports prévu à l'article
+45 de la loi n° 2005-102 du 11 février 2005 vaut diagnostic au sens du présent
+article.

@@ -1,11 +1,20 @@
 Article R*111-19-6
 ----
-Lorsque les travaux projetés sont également soumis au permis de construire prévu
-à l'article L. 421-1 du code de l'urbanisme, la demande de permis de construire
-comporte les plans et documents mentionnés à l'article R. 111-19-5. Elle tient
-lieu, dans ce cas, de la demande d'autorisation de travaux prévue à l'article L.
-111-8-1.
+En cas d'impossibilité technique résultant de l'environnement du bâtiment, et
+notamment des caractéristiques du terrain, de la présence de constructions
+existantes ou de contraintes liées au classement de la zone de construction,
+notamment au regard de la réglementation de prévention contre les inondations
+ou, s'agissant de la création d'un établissement recevant du public ou d'une
+installation ouverte au public dans une construction existante, en raison de
+difficultés liées à ses caractéristiques ou à la nature des travaux qui y sont
+réalisés, le préfet peut accorder des dérogations à celles des dispositions de
+la présente sous-section qui ne peuvent être respectées.
 
-Lorsque les travaux projetés ne sont pas soumis au permis de construire, la
-demande comporte, outre les plans et documents prévus à l'article R. 111-19-5,
-les documents et renseignements mentionnés aux articles R. 123-24 et R. 123-25.
+Le représentant de l'Etat dans le département peut également accorder des
+dérogations aux dispositions de la présente sous-section pour des motifs liés à
+la conservation du patrimoine architectural en cas de création d'un
+établissement recevant du public par changement de destination dans un bâtiment
+ou une partie de bâtiment classé ou inscrit au titre des monuments historiques.
+
+La demande de dérogation est soumise à la procédure prévue au II de l'article R.
+111-19-16.
