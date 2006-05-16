@@ -57,3 +57,10 @@ l'environnement ;
 15. Les périmètres d'intervention délimités en application de l'article L. 143-1
 pour la protection et la mise en valeur des espaces agricoles et naturels
 périurbains.
+
+Dans le délai de trois mois suivant la publication du schéma départemental
+d'organisation sociale et médico-sociale mentionné à l'article L. 312-4 du code
+de l'action sociale et des familles, le préfet le notifie au maire ou au
+président de l'établissement public de coopération intercommunale compétent. Il
+est tenu compte des mesures prévues par ce plan lors de la plus prochaine
+révision du plan local d'urbanisme.
