@@ -4,8 +4,11 @@ Convention type conclue entre l'Etat et ... (1) en application de l'article L.
 351-2 (3°) du code de la construction et de l'habitation pour le programme de
 ....
 
-Le ministre de l'équipement, du logement, des transports et du tourisme,
-agissant au nom de l'Etat, représenté par le préfet,
+Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le
+préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un
+département a signé une convention mentionnée aux articles L. 301-5-1 et L.
+301-5-2, par le président de l'établissement public de coopération
+intercommunale ou du conseil général,
 
 D'une part,
 
@@ -83,14 +86,16 @@ Elle expire le 30 juin ....
 
 La convention est renouvelée par tacite reconduction par périodes triennales
 prenant effet à compter de leur date d'expiration, sauf résiliation expresse
-notifiée six mois avant cette date. La résiliation à l'initiative du bailleur
-est effectuée par acte authentique ou administratif ; la décision de résiliation
-de l'Etat est prise par arrêté préfectoral, notifiée au bailleur.
+notifiée six mois avant cette date. La résiliation à l'initiative de l'une des
+parties est effectuée par acte authentique ou par acte administratif.
 
-Quelle que soit la partie à l'initiative de la résiliation, le préfet publie la
-résiliation au fichier immobilier ou l'inscrit au livre foncier, par acte
-authentique ou administratif. Les frais correspondants sont à la charge du
-bailleur.
+Quelle que soit la partie à l'initiative de la résiliation, le préfet, ou,
+lorsqu'un établissement public de coopération intercommunale ou un département a
+signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, le
+président de l'établissement public de coopération intercommunale ou du conseil
+général, publie la résiliation au fichier immobilier ou l'inscrit au livre
+foncier, par acte authentique ou administratif. Les frais correspondants sont à
+la charge du bailleur.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer
 l'opération ainsi que le reversement d'un complément d'impôt en application de
@@ -162,9 +167,11 @@ assurer par les personnes et dans les conditions définies par l'arrêté du 9 m
 1978 portant agrément des personnes ou organismes habilités à gérer des
 logements faisant l'objet d'une convention.
 
-Le bailleur informe le préfet, les organismes chargés de la liquidation et du
-paiement de l'APL pour le compte de l'Etat et les locataires de la mise en
-gestion du programme ou de tout changement de gestionnaire.
+Le bailleur informe le préfet, et, le cas échéant, le président de
+l'établissement public de coopération intercommunale ou le président du conseil
+général partie à la présente convention, les organismes chargés de la
+liquidation et du paiement de l'APL pour le compte de l'Etat et les locataires
+de la mise en gestion du programme ou de tout changement de gestionnaire.
 
 Article 7.
 
@@ -178,11 +185,9 @@ Les logements sont loués non meublés à des personnes physiques, à titre de
 résidence principale, et occupés au moins huit mois par an. Ils ne peuvent faire
 l'objet de sous-location, sauf dans les conditions prévues par l'article L.
 353-20 du code de la construction et de l'habitation ainsi qu'au profit de
-personnes ayant passé avec le locataire un contrat conforme à l'article 6 de la
-loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à
-leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes. Ils
-ne peuvent être occupés à titre d'accessoire d'un contrat de travail ou en
-raison de l'exercice d'une fonction.
+personnes ayant passé avec le locataire un contrat conforme à l'article L. 442-1
+du code de l'action sociale et des familles. Ils ne peuvent être occupés à titre
+d'accessoire d'un contrat de travail ou en raison de l'exercice d'une fonction.
 
 Ils ne peuvent être loués ou occupés à quelque titre que ce soit ni par les
 ascendants ou les descendants, ni par ceux du conjoint, ni par le conjoint du
@@ -260,12 +265,15 @@ Article 11.
 Information des locataires en cas de changement de propriétaire.
 
 En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du
-représentant de l'Etat dans le département, des locataires et des organismes
-liquidateurs de l'APL, le ou les nouveaux propriétaires leur font connaître leur
-identification dans les conditions conformes soit à l'article 5, soit à
-l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée
-avec demande d'avis de réception ou remise contre décharge dans un délai d'un
-mois à compter de ladite mutation.
+préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un
+département a signé une convention mentionnée aux articles L. 301-5-1 et L.
+301-5-2, du président de l'établissement public de coopération intercommunale ou
+du conseil général, des locataires et des organismes liquidateurs de l'APL, le
+ou les nouveaux propriétaires leur font connaître leur identification dans les
+conditions conformes soit à l'article 5, soit à l'article 6 du décret n° 55-22
+du 4 janvier 1955 modifié, par lettre recommandée avec demande d'avis de
+réception ou remise contre décharge dans un délai d'un mois à compter de ladite
+mutation.
 
 Article 12.
 
@@ -320,9 +328,9 @@ bailleur le reverse au locataire dans le délai d'un mois.
 En cas d'impayé de loyer, le bailleur doit poursuivre le recouvrement de sa
 créance en notifiant au locataire défaillant par lettre recommandée avec accusé
 de réception le montant de cette créance. Il doit également informer le
-locataire, lorsque celui-ci est bénéficiaire d'APL, de la saisine de la section
-des aides publiques au logement du conseil départemental de l'habitat visée à
-l'article 17 de la présente convention en cas de non-règlement de la dette.
+locataire, lorsque celui-ci est bénéficiaire d'APL, de la saisine de la
+commission départementale des aides publiques au logement visée à l'article 17
+de la présente convention en cas de non-règlement de la dette.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière
 mentionnée à l'article 116 de la loi de finances pour 2002 (loi n° 2001-1275 du
@@ -343,7 +351,8 @@ garantir l'exécution de ses obligations locatives par le locataire ne peut êtr
 supérieur à deux mois de loyer en principal.
 
 IV. - Engagements à l'égard des organismes chargés de la liquidation et du
-paiement de l'APL et à l'égard de la section des aides publiques au logement.
+paiement de l'APL et à l'égard de la commission départementale des aides
+publiques au logement.
 
 Article 16.
 
@@ -366,10 +375,9 @@ renouvellement des droits à l'APL qui a lieu à cette date ;
 Un document attestant que tous les bénéficiaires sont à jour de leurs
 obligations vis-à-vis du bailleur ou le cas échéant la liste des bénéficiaires
 d'APL non à jour en certifiant que cette liste est exhaustive. Ce document
-mentionne également la date à laquelle la section des aides publiques au
-logement du conseil départemental de l'habitat prévue à l'article R. 351-47 du
-CCH a été saisie en cas d'impayé constitué au sens de l'article R. 351-30 du
-même code.
+mentionne également la date à laquelle la commission départementale des aides
+publiques au logement prévue à l'article R. 351-47 du CCH a été saisie en cas
+d'impayé constitué au sens de l'article R. 351-30 du même code.
 
 3° En outre, il fait part dans un délai maximum d'un mois aux organismes
 liquidateurs de l'APL des modifications affectant la situation locative du
@@ -377,21 +385,21 @@ bénéficiaire (notamment colocation, résiliation de bail, décès).
 
 Article 17.
 
-Obligations à l'égard de la section des aides publiques au logement du conseil
-départemental de l'habitat (SDAPL).
+Obligations à l'égard de la commission départementale des aides publiques au
+logement (CDAPL).
 
 Le bailleur percevant l'APL pour le compte du locataire saisit en application
 des articles R. 351-30 et R. 351-64 du code de la construction et de
-l'habitation la section des aides publiques au logement du conseil départemental
-de l'habitat (SDAPL) dès qu'un impayé de loyer est constitué en justifiant des
-démarches entreprises auprès du locataire défaillant. En outre, il lui
-communique le montant de l'impayé constitué au moment de la saisine.
+l'habitation la commission départementale des aides publiques au logement
+(CDAPL) dès qu'un impayé de loyer est constitué en justifiant des démarches
+entreprises auprès du locataire défaillant. En outre, il lui communique le
+montant de l'impayé constitué au moment de la saisine.
 
-Il fournit également à la SDAPL copie du bail lorsque celle-ci le lui demande et
+Il fournit également à la CDAPL copie du bail lorsque celle-ci le lui demande et
 l'informe lorsqu'une procédure d'expulsion d'un bénéficiaire d'APL est engagée
 pour non-paiement du loyer.
 
-La SDAPL décide du maintien ou de la suspension de l'APL et en informe le
+La CDAPL décide du maintien ou de la suspension de l'APL et en informe le
 bailleur et le bénéficiaire.
 
 V. - Dispositions relatives à l'application des conventions.
@@ -484,13 +492,19 @@ Article 20.
 Publication.
 
 La publication de la convention, de ses éventuels avenants et de sa résiliation
-au fichier immobilier ou leur inscription au livre foncier incombe au préfet.
-Les frais de publication sont à la charge du bailleur.
+au fichier immobilier ou leur inscription au livre foncier incombe au préfet,
+ou, lorsqu'un établissement public de coopération intercommunale ou un
+département a signé une convention mentionnée aux articles L. 301-5-1 et
+L.301-5-2, au président de l'établissement public de coopération intercommunale
+ou du conseil général. Les frais de publication sont à la charge du bailleur.
 
-Le préfet transmet aux organismes chargés de la liquidation et du paiement de
-l'APL une photocopie de la présente convention, de ses avenants éventuels ainsi
-que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au
-fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou
+un département a signé une convention mentionnée aux articles L. 301-5-1 et L.
+301-5-2, le président de l'établissement public de coopération intercommunale ou
+du conseil général, transmet aux organismes chargés de la liquidation et du
+paiement de l'APL une photocopie de la présente convention, de ses avenants
+éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une
+publication au fichier immobilier (ou d'une inscription au livre foncier).
 
 Article 21.
 
@@ -502,7 +516,8 @@ pris en charge par la partie qui sollicite la révision.
 
 Fait en quatre originaux à ..., le ....
 
-Le bailleur (4), le préfet.
+Le bailleur (4), le préfet, le président de l'établissement public de
+coopération intercommunale ou le président du conseil général.
 
 Article 22.
 
@@ -531,13 +546,44 @@ ministre du logement pris en application de l'article R. 353-16 :
 5. Décompte des surfaces et des coefficients propres au logement appliqués pour
 le calcul du loyer :
 
-Désignation des logements, surface habitable (article R. 111-2), surface réelle
-des annexes, surface utile (surface habitable augmentée de 50 % de la surface
-des annexes), loyer maximum en euros par mètre carré de surface utile (*),
-coefficient propre au logement, loyer maximum du logement en euros (colonne 4 x
-colonne 5 x colonne 6) (+). Total.
 
-(+) Les variations prévues à l'article 8 de la convention, selon les ressources
+DÉSIGNATION des logements
+
+SURFACE habitable (article R. 111-2)
+
+
+SURFACE RÉELLE des annexes
+
+SURFACE UTILE (surface habitable augmentée de 50 % de la surface des annexes)
+
+LOYER MAXIMUM en euros par mètre carré de surface utile (*)
+
+
+COEFFICIENT propre au logement
+
+LOYER MAXIMUM du logement en euros (colonne 4 x colonne 5 x colonne 6) (*)
+
+
+Colonne 1
+
+Colonne 2
+
+
+Colonne 3
+
+Colonne 4
+
+
+Colonne 5
+
+Colonne 6
+
+
+Colonne 7
+
+Total
+
+(*) Les variations prévues à l'article 8 de la convention, selon les ressources
 des locataires, sont susceptibles de s'appliquer à ces loyers.
 
 6. Nombre et liste des annexes susceptibles de donner lieu à perception d'un
@@ -547,7 +593,9 @@ Ce sont les annexes ou parties d'annexes qui n'entrent pas dans le calcul de la
 surface utile, soit les emplacements réservés au stationnement des véhicules,
 les terrasses, cours et jardins faisant l'objet d'une jouissance exclusive :
 
-(Tableau non reproduit, voir Journal officiel).
+Type d'annexe définie à l'article R. 353-16, dernier alinéa du 2 o
+
+Loyer maximum conventionné de l'annexe en F par mois
 
 Au cas où ces annexes ne trouveraient pas preneur auprès des locataires de
 l'immeuble ou de tout autre immeuble conventionné appartenant au même bailleur
