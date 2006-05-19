@@ -19,13 +19,18 @@ l'article 116 de la loi de finances pour 2002 (loi n° 2001-1275 du 28 décembre
 
 Les conventions sont renouvelées par tacite reconduction par périodes triennales
 prenant effet à compter de leur date d'expiration, sauf résiliation expresse
-notifiée six mois avant cette date. La résiliation à l'initiative du bailleur
-est effectuée par acte authentique ou par décision administrative ; la décision
-de résiliation de l'Etat est prise par arrêté préfectoral, notifiée au bailleur.
+notifiée six mois avant cette date. La résiliation à l'initiative de l'une des
+parties est notifiée au cocontractant au moins six mois avant la date
+d'expiration de la convention initiale ou renouvelée, par acte authentique ou
+par acte administratif.
 
-Quelle que soit la partie à l'initiative de la résiliation, le préfet publie la
-résiliation au fichier immobilier ou l'inscrit au livre foncier, par acte
-authentique ou administratif. Les frais sont à la charge du bailleur.
+Quelle que soit la partie à l'initiative de la résiliation, le préfet ou,
+lorsqu'un établissement public de coopération intercommunale ou un département a
+signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, le
+président de l'établissement public de coopération intercommunale ou du conseil
+général, publie la résiliation au fichier immobilier ou l'inscrit au livre
+foncier, par acte authentique ou administratif. Les frais sont à la charge du
+bailleur.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer
 l'opération ainsi que le reversement d'un complément d'impôt en application de

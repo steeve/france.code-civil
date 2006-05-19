@@ -19,8 +19,11 @@ initiale ou renouvelée, par acte authentique (acte notarié ou acte d'huissier 
 justice) ou par acte administratif.
 
 La résiliation est publiée au fichier immobilier ou inscrite au livre foncier
-par le préfet, qu'elle émane de celui-ci ou du bailleur. Les frais
-correspondants sont à la charge du bailleur.
+par le préfet, ou, lorsqu'un établissement public de coopération intercommunale
+ou un département a signé une convention mentionnée aux articles L. 301-5-1 et
+L. 301-5-2, par le président de l'établissement public de coopération
+intercommunale ou du conseil général, qu'elle émane de celui-ci ou du bailleur.
+Les frais correspondants sont à la charge du bailleur.
 
 II. - En cas d'acquisition ou de convention sans travaux, il est procédé à un
 bilan de l'occupation sociale des logements sur la base des éléments recueillis
