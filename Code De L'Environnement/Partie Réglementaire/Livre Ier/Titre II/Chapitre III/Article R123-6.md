@@ -29,11 +29,14 @@ sommaire des dépenses, y compris le coût des acquisitions immobilières ;
 
 7° La mention des textes qui régissent l'enquête publique en cause et
 l'indication de la façon dont cette enquête s'insère dans la procédure
-administrative relative à l'opération considérée.
+administrative relative à l'opération considérée ;
+
+8° Lorsqu'ils sont rendus obligatoires par un texte législatif ou réglementaire,
+les avis émis par une autorité administrative sur le projet d'opération.
 
 II. - Lorsque l'opération est soumise à décision d'autorisation ou d'approbation
 :
 
 1° Le dossier prévu par la réglementation relative à l'opération projetée ;
 
-2° Les pièces visées aux 2° et 7° du I ci-dessus.
+2° Les pièces visées aux 2°, 7° et 8° du I ci-dessus.

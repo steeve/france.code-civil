@@ -1,31 +1,38 @@
 Article R122-12
 ----
-Lorsqu'une enquête publique n'est pas prévue, l'étude d'impact est rendue
-publique dans les conditions suivantes :
+I. - En l'absence d'enquête publique ou d'une procédure équivalente de
+consultation du public prévue par un texte particulier et avant toute décision
+d'autorisation, d'approbation ou d'exécution d'aménagements ou d'ouvrages
+nécessitant une étude d'impact ou une notice d'impact dont l'Etat ou un de ses
+établissements publics est le maître d'ouvrage, celui-ci doit mettre à la
+disposition du public un dossier comprenant l'étude d'impact ou la notice
+d'impact et, le cas échéant, la demande d'autorisation, l'indication des
+autorités compétentes pour prendre la décision et celles des personnes auprès
+desquelles peuvent être obtenus des renseignements sur le projet. D'une durée
+d'un mois pour une étude d'impact et de quinze jours pour une notice d'impact,
+la mise à disposition du public s'opère dans les conditions suivantes :
 
-Toute personne physique ou morale peut prendre connaissance de l'étude d'impact
-dès qu'a été prise par l'autorité administrative la décision de prise en
-considération ou, si une telle décision n'est pas prévue, la décision
-d'autorisation ou d'approbation des aménagements ou ouvrages. Si la procédure ne
-comporte aucune de ces décisions, la date à laquelle il peut être pris
-connaissance de l'étude d'impact est celle à laquelle la décision d'exécution a
-été prise par la collectivité publique maître de l'ouvrage.
+1° Le maître de l'ouvrage publie un avis qui fixe :
 
-A cet effet, la décision de prise en considération, d'autorisation,
-d'approbation, ou d'exécution, doit faire l'objet, avant toute réalisation,
-d'une publication mentionnant l'existence d'une étude d'impact. La publication
-est faite selon les modalités prescrites par les dispositions réglementaires
-prévues pour l'aménagement ou ouvrage projeté. A défaut d'une telle disposition,
-elle est faite par une mention insérée dans deux journaux locaux ; pour les
-opérations d'importance nationale, elle est faite en outre dans deux journaux à
-diffusion nationale.
+a) La date à compter de laquelle le dossier mentionné à l'alinéa 1er est tenu à
+la disposition du public et la durée pendant laquelle il peut être consulté ;
 
-Les demandes de consultation de l'étude d'impact sont adressées à l'autorité qui
-est compétente pour prendre la décision d'autorisation, d'approbation ou
-d'exécution. Celle-ci indique sans délai au demandeur les lieux et modalités de
-consultation de l'étude.
+b) Les lieux, jours et heures où le public peut prendre connaissance du dossier
+et formuler ses observations sur un registre ouvert à cet effet.
 
-Lorsque les ouvrages sont entrepris pour le compte des services de la défense
-nationale, la demande est adressée au ministre chargé de la défense qui assure
-la publicité compatible avec les secrets de la défense nationale qu'il lui
-appartient de préserver.
+2° L'avis mentionné au 1° est publié par voie d'affiches dans les communes
+intéressées. Lorsque le projet comporte une étude d'impact, l'avis est également
+publié dans deux journaux diffusés dans le département, huit jours au moins
+avant la date à compter de laquelle l'étude d'impact est mise à la disposition
+du public. Lorsque l'étude d'impact porte sur une opération d'importance
+nationale, l'avis est publié dans deux journaux à diffusion nationale.
+
+3° Le maître d'ouvrage dresse le bilan de la mise à disposition du public et le
+tient à la disposition du public selon des procédés qu'il détermine. Lorsque le
+projet est soumis à autorisation ou approbation ce bilan est adressé
+préalablement à l'autorité compétente.
+
+II. - Lorsque les ouvrages sont entrepris pour le compte des services de la
+défense nationale, le ministre chargé de la défense organise l'information et la
+consultation du public selon des modalités compatibles avec le secret de la
+défense nationale qu'il lui appartient de préserver.

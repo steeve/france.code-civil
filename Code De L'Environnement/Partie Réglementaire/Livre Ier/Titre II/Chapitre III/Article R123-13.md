@@ -22,4 +22,17 @@ commission d'enquête se tiendra à la disposition du public pour recevoir ses
 observations ;
 
 5° Les lieux où, à l'issue de l'enquête, le public pourra consulter le rapport
-et les conclusions du commissaire enquêteur ou de la commission d'enquête.
+et les conclusions du commissaire enquêteur ou de la commission d'enquête ;
+
+6° Si le projet a fait l'objet d'une étude d'impact ou d'une notice d'impact
+dans les conditions prévues par les articles R. 122-1 à R. 122-16, la mention de
+la présence de ce document dans le dossier d'enquête ;
+
+7° L'information selon laquelle, le cas échéant, le dossier d'enquête publique
+est transmis à un autre Etat ;
+
+8° L'identité de l'autorité compétente pour prendre la décision d'autorisation
+ou d'approbation et la nature de celle-ci ;
+
+9° L'identité de la personne responsable du projet ou l'autorité auprès de
+laquelle des informations peuvent être demandées.

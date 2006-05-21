@@ -15,17 +15,24 @@ l'étude d'impact est adressé par l'autorité compétente à la préfecture du
 département du lieu d'implantation du projet, accompagné des informations
 mentionnées à l'alinéa précédent.
 
-III. - Lorsque l'autorité compétente estime qu'un projet est susceptible d'avoir
-des incidences notables sur l'environnement d'un autre Etat, membre de l'Union
-européenne ou partie à la convention du 25 février 1991 sur l'évaluation de
-l'impact sur l'environnement dans un contexte transfrontière, signée à Espoo, ou
-lorsque les autorités de cet autre Etat en font la demande, cette autorité,
-sitôt après avoir pris l'arrêté ouvrant l'enquête publique, transmet un
-exemplaire du dossier aux autorités de cet Etat, en leur indiquant les délais de
-la procédure. Elle en informe au préalable le ministre des affaires étrangères.
+III. - Lorsqu'elle constate qu'un projet est susceptible d'avoir des incidences
+notables sur l'environnement d'un autre Etat, membre de l'Union européenne ou
+partie à la convention du 25 février 1991 sur l'évaluation de l'impact sur
+l'environnement dans un contexte transfrontière signée à Espoo, ou lorsqu'elle
+est saisie par l'Etat affecté par le projet, l'autorité compétente lui notifie
+sans délai l'arrêté d'ouverture de l'enquête publique et lui transmet un
+exemplaire du dossier d'enquête. Le résumé non technique de l'étude d'impact
+mentionné au III de l'article R. 122-3 et l'indication de la façon dont
+l'enquête publique s'insère dans la procédure administrative sont traduits, si
+nécessaire, dans la langue de l'Etat intéressé, les frais de traduction étant à
+la charge du pétitionnaire ou du maître d'ouvrage. La notification de l'arrêté
+d'ouverture d'enquête fixe également le délai dont disposent les autorités de
+cet Etat pour manifester leur intention de participer à l'enquête publique.
+L'enquête publique ne peut commencer avant l'expiration de ce délai.
 
-Lorsque l'autorité compétente est une collectivité territoriale, elle fait
-transmettre le dossier par le préfet du département.
+Le ministre des affaires étrangères est informé au préalable par l'autorité
+compétente. Si celle-ci est une collectivité territoriale, elle fait transmettre
+le dossier par le préfet.
 
 L'autorité compétente pour prendre la décision d'autorisation ou d'approbation
 du projet adresse aux autorités de l'Etat concerné le contenu de la décision
