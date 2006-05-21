@@ -1,11 +1,12 @@
 Article D6124-11
 ----
-L'équipe paramédicale de l'unité de proximité, dirigée par un cadre infirmier,
-est suffisante pour qu'au moins un infirmier ou une infirmière soit
-effectivement présent vingt-quatre heures sur vingt-quatre, tous les jours de
-l'année, pour dispenser les soins aux patients. L'unité de proximité comprend en
-outre des aides-soignants et des agents de service.
+Lorsque la structure des urgences et la structure mobile d'urgence et de
+réanimation organisent une permanence médicale ou non médicale commune,
+notamment en application de l'article R. 6123-9, les modalités de prise en
+charge des patients se présentant à la structure des urgences sont prévues par
+l'établissement autorisé et permettent une intervention sans délai de la
+structure mobile d'urgence et de réanimation.
 
-Tous les membres de l'équipe paramédicale ont acquis une formation à la prise en
-charge des urgences soit au cours de leurs études, soit par une formation
-ultérieure.
+Lorsque l'équipe de la structure mobile d'urgence et de réanimation intervient
+hors de l'établissement, la permanence de la structure des urgences est assurée
+par un médecin et un infirmier de l'établissement.

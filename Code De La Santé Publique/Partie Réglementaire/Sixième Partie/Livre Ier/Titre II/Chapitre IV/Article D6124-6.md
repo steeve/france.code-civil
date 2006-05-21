@@ -1,10 +1,25 @@
 Article D6124-6
 ----
-Un établissement de santé ne peut être autorisé à mettre en oeuvre l'activité
-d'accueil et de traitement des urgences sous forme d'un service d'accueil et de
-traitement des urgences mentionné au 1° de l'article R. 6123-1 qu'à la condition
-que le secteur opératoire de l'établissement soit organisé de façon à mettre à
-la disposition du service, vingt-quatre heures sur vingt-quatre, tous les jours
-de l'année, au moins deux salles, dont l'une aseptique, et des moyens de
-surveillance post-interventionnelle répondant aux conditions fixées par les
-articles D. 6124-97 à D. 6124-102.
+Dans un établissement public de santé et dans un établissement de santé privé
+participant au service public hospitalier, la structure de médecine d'urgence
+est placée sous la responsabilité d'un praticien hospitalier de médecine
+polyvalente d'urgence ou d'un médecin justifiant d'une expérience
+professionnelle équivalente à au moins deux ans dans cette discipline et
+titulaire du diplôme d'études spécialisées complémentaires en médecine
+d'urgence.
+
+Dans un établissement public de santé, ce médecin est en outre praticien
+titulaire et exerce effectivement ses fonctions dans la ou les structures de
+médecine d'urgence de l'établissement.
+
+Un médecin titulaire d'un diplôme d'études spécialisées ou d'une qualification
+ordinale justifiant d'une expérience professionnelle équivalente à au moins
+quatre ans dans une structure de médecine d'urgence peut être nommé responsable
+d'une structure de médecine d'urgence.
+
+A titre dérogatoire, un médecin assurant, lors de la délivrance à un
+établissement de l'autorisation d'exercer une activité mentionnée à l'article R.
+6123-1, la responsabilité d'une structure de médecine d'urgence de cet
+établissement et ne remplissant pas les conditions énoncées aux alinéas
+précédents peut continuer à exercer la fonction de responsable d'une structure
+de médecine d'urgence dans les conditions définies à l'article L. 6146-3.

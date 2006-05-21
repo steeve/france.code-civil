@@ -1,10 +1,23 @@
 Article D6124-23
 ----
-Lors de chaque intervention, la composition de l'équipe du service mobile
-d'urgence et de réanimation est déterminée par le médecin responsable du service
-mobile d'urgence et de réanimation, en liaison avec le médecin régulateur du
-service d'aide médicale urgente auquel l'appel est parvenu. Cette équipe
-comprend au moins deux personnes, dont le responsable médical de l'intervention.
-Pour les interventions qui requièrent l'utilisation de techniques de
-réanimation, cette équipe comporte trois personnes, dont le responsable médical
-de l'intervention et un infirmier ou une infirmière.
+L'établissement de santé autorisé à exercer l'activité mentionnée au 3° de
+l'article R. 6123-1 :
+
+1° Met en place les aménagements de locaux et d'équipements permettant l'accès
+des personnes vulnérables, notamment handicapées, et organise spécifiquement
+leur accueil au sein de la structure des urgences ;
+
+2° Prévoit des modalités d'accueil adaptées, d'une part pour les personnes
+gardées à vue et, d'autre part, s'il est désigné pour dispenser des soins
+d'urgence aux détenus en application de l'article R. 6112-14, pour ces
+personnes, conformément aux dispositions de la section 2 du chapitre II du titre
+Ier du livre Ier de la présente partie.
+
+3° Prévoit, dans le plan blanc pris en application de l'article L. 3110-7, un
+lieu qui permette d'accueillir des patients ou des victimes se présentant
+massivement à la structure des urgences et situé, dans la mesure du possible, à
+proximité de la structure des urgences ;
+
+4° Prévoit des modalités d'accueil et de prise en charge adaptées pour les
+patients victimes d'un accident nucléaire, radiologique, chimique ou suspects
+d'une pathologie biologique à risque contagieux.

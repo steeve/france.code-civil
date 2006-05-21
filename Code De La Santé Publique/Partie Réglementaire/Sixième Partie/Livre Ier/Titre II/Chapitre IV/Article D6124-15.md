@@ -1,8 +1,7 @@
 Article D6124-15
 ----
-Outre les membres mentionnés aux articles D. 6124-4 et D. 6124-11, l'équipe
-paramédicale du service d'accueil et de traitement des urgences et celle de
-l'unité de proximité d'accueil, de traitement et d'orientation des urgences
-comprennent, en tant que de besoin, au moins un infirmier ou une infirmière
-ayant acquis une expérience professionnelle dans un service de psychiatrie ; à
-défaut, elles s'assurent de la possibilité d'en faire venir un sans délai.
+Pour les besoins du service, il peut être fait appel à des internes de
+spécialité médicale ou chirurgicale ou des internes en psychiatrie ayant validé
+quatre semestres et ayant acquis une formation à la prise en charge des urgences
+par une expérience professionnelle d'au moins un an dans le domaine de l'urgence
+ou de la réanimation.

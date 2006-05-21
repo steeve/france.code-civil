@@ -1,18 +1,18 @@
 Article D6124-7
 ----
-L'établissement comporte en outre :
+Dans un établissement de santé privé, la structure de médecine d'urgence est
+coordonnée par un médecin justifiant d'une expérience professionnelle
+équivalente à au moins deux ans dans cette discipline et titulaire du diplôme
+d'études spécialisées complémentaires en médecine d'urgence.
 
-1° Les moyens permettant de pratiquer vingt-quatre heures sur vingt-quatre, tous
-les jours de l'année, les techniques d'imagerie en radiologie classique,
-échographie, scanographie et les explorations vasculaires, notamment
-l'angiographie ;
+Un médecin titulaire d'un diplôme d'études spécialisées ou d'une qualification
+ordinale justifiant d'une expérience professionnelle équivalente à au moins
+quatre ans dans une structure de médecine d'urgence peut être nommé
+coordonnateur d'une structure de médecine d'urgence.
 
-2° Un laboratoire en mesure de pratiquer vingt-quatre heures sur vingt-quatre,
-tous les jours de l'année, les examens en biochimie, hématologie, hémobiologie,
-microbiologie, toxicologie, ainsi que ceux qui sont relatifs à l'hémostase et
-aux gaz du sang, et de fournir sans délai les résultats obtenus.
-
-A défaut de disposer en propre des moyens mentionnés au 2°, l'établissement
-conclut avec un autre établissement de santé ou un laboratoire d'analyses
-médicales une convention lui assurant vingt-quatre heures sur vingt-quatre, tous
-les jours de l'année, l'exécution des examens et obligations définies au 2°.
+A titre dérogatoire, un médecin assurant, lors de la délivrance à un
+établissement de l'autorisation d'exercer une activité mentionnée à l'article R.
+6123-1, la coordination d'une structure de médecine d'urgence de cet
+établissement, et ne remplissant pas les conditions énoncées aux alinéas
+précédents, peut continuer à exercer la fonction de coordonnateur d'une
+structure de médecine d'urgence.

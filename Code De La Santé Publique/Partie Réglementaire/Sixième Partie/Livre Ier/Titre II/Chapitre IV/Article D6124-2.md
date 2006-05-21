@@ -1,7 +1,11 @@
 Article D6124-2
 ----
-Le médecin responsable de ce service répond aux conditions prévues par l'article
-L. 4111-1 et a acquis une formation à la prise en charge des urgences par une
-qualification universitaire et par une expérience professionnelle de deux ans
-dans un service recevant les urgences. Dans les établissements publics de santé,
-ce responsable est praticien hospitalier.
+L'effectif de la structure de médecine d'urgence est fixé de façon à ce que
+cette structure puisse assurer ses missions.
+
+L'effectif est adapté au nombre d'appels adressés au SAMU, au nombre de sorties
+de la structure mobile d'urgence et de réanimation, dénommée SMUR, ou au nombre
+de passages de patients dans la structure des urgences.
+
+L'effectif du personnel médical et non médical est renforcé pendant les périodes
+où une activité particulièrement soutenue est régulièrement observée.
