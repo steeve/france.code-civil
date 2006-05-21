@@ -1,4 +1,7 @@
 Article R6123-16
 ----
-Un arrêté du ministre chargé de la santé précise les modalités de fonctionnement
-des services et antennes mentionnés aux articles R. 6123-13 à R. 6123-15.
+Les interventions des SMUR et celles des antennes de SMUR mentionnées à
+l'article R. 6123-5 sont déclenchées et coordonnées par le SAMU.
+
+L'équipe de la structure mobile d'urgence et de réanimation informe à tout
+moment le SAMU du déroulement de l'intervention en cours.

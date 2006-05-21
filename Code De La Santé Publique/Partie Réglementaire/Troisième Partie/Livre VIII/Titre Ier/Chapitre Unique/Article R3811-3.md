@@ -34,8 +34,7 @@ mentales mentionnés à l'article L. 3221-1 ;
 
 10° Deux représentants des professionnels exerçant dans le secteur social ;
 
-11° Un médecin exerçant dans un service d'accueil et de traitement des urgences
-ou dans une unité d'accueil, de traitement et d'orientation des urgences ;
+11° Un médecin exerçant dans une structure des urgences ;
 
 12° Un représentant des usagers ou de leurs familles ou des associations de
 consommateurs.

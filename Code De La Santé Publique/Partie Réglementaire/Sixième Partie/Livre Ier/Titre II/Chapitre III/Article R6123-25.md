@@ -1,9 +1,12 @@
 Article R6123-25
 ----
-Les dispositions de la présente section ne s'appliquent ni aux établissements
-mentionnés aux articles L. 3122-1 et L. 3222-1 qui accueillent de jour comme de
-nuit des patients présentant des troubles mentaux, ni aux établissements de
-santé pratiquant les accouchements.
+Seuls les établissements de santé autorisés à exercer l'activité mentionnée au
+3° de l'article R. 6123-1 portent à la connaissance du public le fait qu'ils
+accueillent les urgences et affichent un panneau "urgences".
 
-Ces derniers établissements accueillent et prennent en charge, de jour comme de
-nuit, les femmes enceintes et les parturientes.
+S'il s'agit d'un établissement autorisé à faire fonctionner une structure des
+urgences une partie de l'année seulement, les périodes de fonctionnement doivent
+être indiquées.
+
+Seuls les établissements de santé autorisés à faire fonctionner une structure
+des urgences pédiatriques affichent un panneau "urgences pédiatriques".

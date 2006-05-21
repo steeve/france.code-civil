@@ -12,7 +12,7 @@ pharmacodépendance et d'abus de ces substances, plantes, médicaments et autres
 produits auprès des professionnels de santé ou des autres professionnels
 concernés, des centres spécialisés de soins aux toxicomanes et des
 établissements de santé, notamment auprès des centres antipoison, des centres
-régionaux de pharmacovigilance et des services d'urgence ;
+régionaux de pharmacovigilance et des structures des urgences ;
 
 3° De contribuer au développement de l'information sur le risque de
 pharmacodépendance et d'abus de ces substances, plantes, médicaments ou autres

@@ -78,7 +78,7 @@ i) Un représentant de l'association départementale de transports sanitaires
 d'urgence la plus représentative sur le plan départemental ;
 
 j) Deux praticiens hospitaliers sur proposition des organisations
-représentatives au niveau national des médecins exerçant dans les services
-d'urgence hospitaliers ;
+représentatives au niveau national des médecins exerçant dans les structures des
+urgences hospitalières ;
 
 k) Un représentant des associations d'usagers.

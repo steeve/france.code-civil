@@ -1,6 +1,5 @@
 Article R6123-30
 ----
-La coordination scientifique des missions d'expertise mentionnées à l'article R.
-6123-28, notamment en ce qui concerne l'évaluation des pratiques
-professionnelles, des bonnes pratiques cliniques et des références médicales,
-est assurée par la Haute Autorité de santé.
+En cas de suspension de la convention, de sa dénonciation par un membre, ou
+d'exclusion d'un membre du réseau, le directeur de l'agence régionale de
+l'hospitalisation en est informé.

@@ -1,8 +1,10 @@
 Article R6123-20
 ----
-Le service d'accueil et de traitement des urgences ou l'unité de proximité
-d'accueil, de traitement et d'orientation des urgences assure ou fait assurer
-s'il y a lieu, le transfert, éventuellement médicalisé, d'un patient vers un
-autre établissement de santé. Lorsque le transfert est médicalisé, il est
-organisé en liaison avec le centre de réception et de régulation des appels du
-service d'aide médicale urgente.
+L'établissement organise l'orientation du patient ne nécessitant pas une prise
+en charge par la structure des urgences vers une autre structure de soins ou
+vers une structure sociale ou vers une structure médico-sociale, selon des
+protocoles préalablement définis entre les responsables de ces structures.
+
+Cette organisation fait l'objet d'une convention entre les établissements
+concernés, qui précise les modalités et les conditions d'orientation du patient,
+ainsi que les modalités de son évaluation médicale et administrative régulière.

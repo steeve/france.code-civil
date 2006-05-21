@@ -1,6 +1,8 @@
 Article R6123-9
 ----
-L'autorisation de faire fonctionner un service mobile d'urgence et de
-réanimation ne peut être accordée qu'aux établissements de santé ayant
-l'autorisation mentionnée au 1° de l'article R. 6123-1, ou obtenant
-conjointement cette autorisation.
+Un établissement de santé dont l'activité de médecine d'urgence est inférieure à
+un seuil fixé par arrêté du ministre chargé de la santé peut être autorisé à
+exercer l'activité mentionnée au 3° de l'article R. 6123-1, à condition qu'il
+participe à une fédération médicale interhospitalière ou à un groupement de
+coopération sanitaire afin de constituer une équipe commune avec des
+établissements autorisés pour la même activité et ayant une plus forte activité.

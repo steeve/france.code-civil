@@ -31,7 +31,7 @@ endovasculaire, en cardiologie ;
 
 13° Activités interventionnelles par voie endovasculaire en neuroradiologie ;
 
-14° Accueil et traitement des urgences ;
+14° Médecine d'urgence ;
 
 15° Réanimation ;
 

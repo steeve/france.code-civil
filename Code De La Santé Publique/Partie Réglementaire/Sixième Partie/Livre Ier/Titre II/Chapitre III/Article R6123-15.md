@@ -1,11 +1,16 @@
 Article R6123-15
 ----
-A titre exceptionnel, lorsque la situation locale le justifie, un établissement
-de santé autorisé à faire fonctionner un service mobile d'urgence et de
-réanimation peut être autorisé par l'agence régionale de l'hospitalisation,
-après avis du comité départemental de l'aide médicale urgente, de la permanence
-des soins et des transports sanitaires, à mettre en place hors de
-l'établissement des moyens destinés à faire fonctionner, de façon temporaire ou
-permanente, une antenne du service mobile d'urgence et de réanimation. Les
-interventions de cette antenne sont déclenchées et coordonnées par le centre de
-réception et de régulation des appels du service d'aide médicale urgente.
+Dans le cadre de l'aide médicale urgente, la structure mobile d'urgence et de
+réanimation mentionnée à l'article R. 6123-1 a pour mission :
+
+1° D'assurer, en permanence, en tous lieux et prioritairement hors de
+l'établissement de santé auquel il est rattaché, la prise en charge d'un patient
+dont l'état requiert de façon urgente une prise en charge médicale et de
+réanimation, et, le cas échéant, et après régulation par le SAMU, le transport
+de ce patient vers un établissement de santé.
+
+2° D'assurer le transfert entre deux établissements de santé d'un patient
+nécessitant une prise en charge médicale pendant le trajet.
+
+Pour l'exercice de ces missions, l'équipe d'intervention de la structure mobile
+d'urgence et de réanimation comprend un médecin.

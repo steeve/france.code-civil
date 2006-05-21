@@ -1,6 +1,6 @@
 Article R6123-3
 ----
-Un service d'accueil et de traitement des urgences doit accueillir sans
-sélection vingt-quatre heures sur vingt-quatre, tous les jours de l'année, toute
-personne se présentant en situation d'urgence, y compris psychiatrique, et la
-prendre en charge, notamment en cas de détresse et d'urgence vitales.
+L'autorisation de faire fonctionner une structure mobile d'urgence et de
+réanimation pédiatrique ne peut être accordée à un établissement de santé que
+s'il a l'autorisation de faire fonctionner une structure des urgences
+pédiatriques ou s'il obtient simultanément cette autorisation.

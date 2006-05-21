@@ -1,9 +1,11 @@
 Article R6123-21
 ----
-Lorsque l'état du patient ne justifie pas son admission dans un établissement de
-santé dispensant les soins mentionnés au a du 1° de l'article L. 6111-2, le
-service ou l'unité de proximité oriente le patient, si nécessaire et en vue
-d'assurer la continuité des soins, vers le médecin traitant, généraliste ou
-spécialiste, vers une consultation externe de l'établissement ou d'un autre
-établissement de santé, ou éventuellement vers toute autre structure sanitaire
-ou toute autre structure sociale adaptée à son état ou à sa situation.
+L'établissement organise la coordination de la prise en charge du patient entre
+la structure des urgences et les autres structures de soins de courte durée ou
+de suite de l'établissement lorsqu'il en est pourvu, ou, dans le cas contraire,
+d'un autre établissement.
+
+A cette fin, les établissements assurent la disponibilité de leurs lits
+d'hospitalisation, y compris ceux de leur unité d'hospitalisation de courte
+durée, par l'organisation de la gestion de leurs capacités d'hospitalisation ou
+la sortie des patients dès que leur état le permet.

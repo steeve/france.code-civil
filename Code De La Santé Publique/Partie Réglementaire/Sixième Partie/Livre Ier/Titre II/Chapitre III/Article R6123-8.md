@@ -1,8 +1,8 @@
 Article R6123-8
 ----
-Un établissement de santé peut obtenir, compte tenu de situations particulières,
-l'autorisation de faire fonctionner une unité de proximité d'accueil, de
-traitement et d'orientation des urgences une partie de l'année seulement, à
-condition de passer, avec un établissement comportant un service mentionné à
-l'article R. 6123-2, une convention fixant les modalités de la coopération entre
-les deux établissements.
+Un établissement de santé peut, compte tenu d'une situation particulière, être
+autorisé à faire fonctionner une structure des urgences une partie de l'année
+seulement, à condition que les modalités de prise en charge des patients par un
+autre établissement autorisé à exercer l'activité mentionnée au 3° de l'article
+R. 6123-1 soient organisées dans le cadre du réseau prévu à l'article R.
+6123-26.

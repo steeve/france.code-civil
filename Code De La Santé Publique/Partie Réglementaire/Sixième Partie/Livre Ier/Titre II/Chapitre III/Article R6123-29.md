@@ -1,21 +1,10 @@
 Article R6123-29
 ----
-Le directeur de l'agence régionale de l'hospitalisation peut, de sa propre
-initiative ou à la demande de la commission exécutive, solliciter l'avis de la
-mission interrégionale d'expertise territorialement compétente, ou de la mission
-régionale prévue au troisième alinéa de l'article R. 6123-28, sur les demandes
-des établissements de santé tendant à obtenir l'autorisation prévue à l'article
-R. 6123-1, ainsi que sur les projets de contrat de relais mentionnés à l'article
-R. 6123-7 soumis à l'approbation de la commission exécutive.
+Une convention constitutive du réseau précise notamment les disciplines et les
+activités de soins ou les états pathologiques spécifiques pour lesquels les
+établissements membres s'engagent à accueillir et à prendre en charge les
+patients qui leur sont adressés par le SAMU ou par la structure des urgences.
 
-La mission, à laquelle le directeur de l'agence régionale de l'hospitalisation
-communique le dossier de la demande d'autorisation ou du projet de contrat,
-examine, éventuellement sur place, les moyens, capacités et aptitudes humaines
-et techniques des établissements concernés, leurs pratiques, leurs références
-médicales et professionnelles, leur qualification à l'égard de la prise en
-charge des urgences qu'ils souhaitent assurer et les garanties de sécurité et de
-qualité médicale qu'ils apportent pour l'exercice de l'activité de soins.
-
-Lorsque l'avis de la mission est donné sur une demande d'autorisation, il est
-joint au rapport présenté au comité régional de l'organisation sanitaire lors de
-la consultation prévue à l'article L. 6121-9.
+Cette convention est soumise à l'approbation du directeur de l'agence régionale
+de l'hospitalisation, qui veille à la cohérence des réseaux définis au sein de
+la région et à leur articulation avec ceux des régions limitrophes.
