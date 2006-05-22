@@ -5,8 +5,3 @@ chèque ou virement sur un établissement de crédit. Les coopératives autorise
 ces établissements à communiquer à l'inspection générale des finances et aux
 agents de l'Office national interprofessionnel des grandes cultures les pièces
 justificatives de leurs comptes.
-
-Les dispositions concernant les règlements des ventes de blé par les organismes
-stockeurs à la meunerie sont étendues aux ventes de céréales secondaires et
-issues au négoce, coopératives ou syndicats agricoles d'approvisionnement et
-industries utilisatrices.
