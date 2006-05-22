@@ -54,11 +54,10 @@ leur ouverture au public dans les conditions prévues à l'article L. 142-10 ;
 
 - pour l'acquisition, l'aménagement et la gestion des espaces, sites et
 itinéraires figurant au plan départemental des espaces, sites et itinéraires
-relatifs aux sports de nature établi dans les conditions prévues à l'article
-50-2 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la
-promotion des activités physiques et sportives, sous réserve que l'aménagement
-ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des
-paysages et des milieux naturels ;
+relatifs aux sports de nature établi dans les conditions prévues au livre III du
+code du sport, sous réserve que l'aménagement ou la gestion envisagés
+maintiennent ou améliorent la qualité des sites, des paysages et des milieux
+naturels ;
 
 - pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à
 l'article L. 414-1 du code de l'environnement et des territoires classés en
