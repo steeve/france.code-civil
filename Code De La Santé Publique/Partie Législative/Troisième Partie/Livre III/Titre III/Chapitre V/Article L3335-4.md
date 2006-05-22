@@ -19,9 +19,9 @@ physiques et sportives définies par la loi n° 84-610 du 16 juillet 1984 relati
 à l'organisation et à la promotion des activités physiques et sportives, en
 faveur :
 
-a) Des groupements sportifs agréés dans les conditions prévues par la loi n°
-84-610 du 16 juillet 1984 précitée et dans la limite des dix autorisations
-annuelles pour chacun desdits groupements qui en fait la demande ;
+a) Des associations sportives agréées conformément à l'article L. 121-4 du code
+du sport et dans la limite des dix autorisations annuelles pour chacune desdites
+associations qui en fait la demande ;
 
 b) Des organisateurs de manifestations à caractère agricole dans la limite de
 deux autorisations annuelles par commune ;

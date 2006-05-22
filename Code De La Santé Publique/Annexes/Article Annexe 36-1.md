@@ -21,10 +21,10 @@ arrêté des ministres chargés de la santé et des sports.
 
 Aux termes de l'article L. 3631-3 du même code : Il est interdit de prescrire,
 sauf dans les conditions fixées aux deuxième et troisième alinéas de l'article
-L. 3622-3, de céder, d'offrir, d'administrer ou d'appliquer aux sportifs
-participant aux compétitions et manifestations mentionnées à l'article L.
-3631-1, une ou plusieurs substances ou procédés mentionnés à cet article, ou de
-faciliter leur utilisation ou d'inciter à leur usage.
+L. 232-2 du code du sport, de céder, d'offrir, d'administrer ou d'appliquer aux
+sportifs participant aux compétitions et manifestations mentionnées à l'article
+L. 3631-1, une ou plusieurs substances ou procédés mentionnés à cet article, ou
+de faciliter leur utilisation ou d'inciter à leur usage.
 
 Il est interdit de se soustraire ou de s'opposer par quelque moyen que ce soit
 aux mesures de contrôle prévues par les dispositions du présent livre.
@@ -153,10 +153,10 @@ agréé.
 
 Art. 13. - Lorsqu'une affaire concerne un membre licencié qui a prescrit, sauf
 dans les conditions fixées aux deuxième et troisième alinéas de l'article L.
-3622-3 du code de la santé publique, cédé, offert, administré ou appliqué aux
-sportifs participant aux compétitions et manifestations organisées ou agréées
-par la fédération une ou plusieurs substances ou procédés mentionnés à l'article
-L. 3631-1 du même code ou facilité leur utilisation ou incité à leur usage, le
+232-2 du code du sport, cédé, offert, administré ou appliqué aux sportifs
+participant aux compétitions et manifestations organisées ou agréées par la
+fédération une ou plusieurs substances ou procédés mentionnés à l'article L.
+3631-1 du même code ou facilité leur utilisation ou incité à leur usage, le
 président de la fédération adresse au représentant de celle-ci chargé de
 l'instruction les procès-verbaux de contrôle, ainsi que tous éléments utiles non
 couverts par le secret de l'instruction définis à l'article 11 du code de
@@ -376,7 +376,7 @@ Art. 32. - Lorsqu'un sportif ayant fait l'objet d'une sanction en application de
 l'article L. 3634-1 du code de la santé publique sollicite le renouvellement ou
 la délivrance d'une licence sportive, la fédération subordonne ce renouvellement
 ou cette délivrance à la production du certificat nominatif prévu à l'article L.
-3613-1 du même code.
+232-1 du code du sport.
 
 Art. 33. - L'organe disciplinaire de première instance et l'organe disciplinaire
 d'appel peuvent décider de saisir le Conseil de prévention et de lutte contre le

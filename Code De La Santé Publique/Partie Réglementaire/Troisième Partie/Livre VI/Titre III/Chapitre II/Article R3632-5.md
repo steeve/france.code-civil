@@ -14,4 +14,4 @@ l'article R. 3632-6.
 
 La personne contrôlée peut fournir tout justificatif à l'appui de ses
 déclarations et notamment présenter le livret individuel médical et sportif
-prévu à l'article L. 3621-3.
+prévu à l'article L. 231-7 du code du sport.

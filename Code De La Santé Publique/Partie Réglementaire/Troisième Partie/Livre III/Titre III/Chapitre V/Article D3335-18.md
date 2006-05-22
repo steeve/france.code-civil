@@ -8,6 +8,5 @@ et 5 du décret n° 93-1101 du 3 septembre 1993 concernant la déclaration des
 sportives et la sécurité de ces activités.
 
 L'exploitation de ces débits de boissons temporaires, autorisés à titre
-dérogatoire, s'opère dans le cadre des obligations prévues par les articles 42-4
-et 42-5 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la
-promotion des activités physiques et sportives.
+dérogatoire, s'opère dans le cadre des obligations prévues par les articles L.
+332-3 à L. 332-5 du code du sport.

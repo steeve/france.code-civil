@@ -1,6 +1,6 @@
 Article L2336-1
 ----
-I. - L'acquisition et la détention des matériels de guerre, des armes et des
+I.-L'acquisition et la détention des matériels de guerre, des armes et des
 munitions par les personnes autres que celles mentionnées à l'article L. 2332-1
 sont soumises aux dispositions suivantes :
 
@@ -23,14 +23,13 @@ conditions définies par décret en Conseil d'Etat ;
 subordonnée à la présentation au vendeur d'un permis de chasser revêtu de la
 validation de l'année en cours ou de l'année précédente, ou d'une licence de tir
 en cours de validité délivrée par une fédération sportive ayant reçu délégation
-du ministre chargé des sports au titre de l'article 17 de la loi n° 84-610 du 16
-juillet 1984 relative à l'organisation et à la promotion des activités physiques
-et sportives. En outre, la détention des armes des 5e et 7e catégories fait
-l'objet d'une déclaration par l'armurier ou par leur détenteur dans les
-conditions définies par décret en Conseil d'Etat. Ce décret peut prévoir que
-certaines armes des 5e et 7e catégories sont dispensées de la présentation des
-documents ou de la déclaration mentionnés ci-dessus en raison de leurs
-caractéristiques techniques ou de leur destination ;
+du ministre chargé des sports au titre de l'article L. 131-14 du code du sport.
+En outre, la détention des armes des 5e et 7e catégories fait l'objet d'une
+déclaration par l'armurier ou par leur détenteur dans les conditions définies
+par décret en Conseil d'Etat. Ce décret peut prévoir que certaines armes des 5e
+et 7e catégories sont dispensées de la présentation des documents ou de la
+déclaration mentionnés ci-dessus en raison de leurs caractéristiques techniques
+ou de leur destination ;
 
 4° L'acquisition et la détention des armes et des munitions des 6e et 8e
 catégories sont libres ;
@@ -39,12 +38,12 @@ catégories sont libres ;
 sont interdites pour les mineurs sous réserve des exceptions définies par décret
 en Conseil d'Etat.
 
-II. - Quiconque devient propriétaire par voie successorale ou testamentaire
-d'une arme ou de munitions de la 1re ou de la 4e catégorie, sans être autorisé à
-les détenir, doit s'en défaire dans un délai de trois mois à compter de la mise
-en possession, dans les conditions prévues à l'article L. 2337-3.
+II.-Quiconque devient propriétaire par voie successorale ou testamentaire d'une
+arme ou de munitions de la 1re ou de la 4e catégorie, sans être autorisé à les
+détenir, doit s'en défaire dans un délai de trois mois à compter de la mise en
+possession, dans les conditions prévues à l'article L. 2337-3.
 
-III. - Sont interdites :
+III.-Sont interdites :
 
 1° L'acquisition ou la détention de plusieurs armes de la 1re ou de la 4e
 catégorie par un seul individu, sauf dans les cas prévus par décret
@@ -54,7 +53,7 @@ d'application ;
 de la 4e catégorie régulièrement détenue, sauf dans les cas prévus par décret
 d'application.
 
-IV. - L'acquisition et la détention d'armes ou de munitions de la 1re ou de la
-4e catégorie par les fabricants ou les vendeurs régulièrement autorisés ne sont
-pas soumises, dans la mesure où ces opérations se rapportent à l'exercice de
-leur commerce ou de leur industrie, aux dispositions du présent article.
+IV.-L'acquisition et la détention d'armes ou de munitions de la 1re ou de la 4e
+catégorie par les fabricants ou les vendeurs régulièrement autorisés ne sont pas
+soumises, dans la mesure où ces opérations se rapportent à l'exercice de leur
+commerce ou de leur industrie, aux dispositions du présent article.

@@ -10,5 +10,5 @@ Il procède à l'évaluation des travaux scientifiques menés par l'établisseme
 dans un rapport qui est annexé au rapport annuel d'activité.
 
 Le conseil d'administration peut décider de transmettre à l'instance mentionnée
-à l'article L. 3612-1 les avis rendus par le comité d'orientation scientifique
-et toute information qu'il juge utile.
+à l'article L. 232-5 du code du sport les avis rendus par le comité
+d'orientation scientifique et toute information qu'il juge utile.

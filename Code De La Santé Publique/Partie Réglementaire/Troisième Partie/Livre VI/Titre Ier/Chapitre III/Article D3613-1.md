@@ -1,7 +1,7 @@
 Article D3613-1
 ----
 Les antennes médicales de lutte contre le dopage agréées prévues à l'article L.
-3613-1 sont tenues :
+232-1 du code du sport sont tenues :
 
 1° De mettre en place une consultation spécialisée ouverte aux personnes ayant
 eu recours à des pratiques de dopage et de leur proposer un suivi médical ;
@@ -16,7 +16,7 @@ l'article L. 3634-1 ;
 4° De recueillir et d'évaluer les données médicales liées aux cas de dopage
 transmises, dans le respect du principe du secret médical, par tout prescripteur
 au médecin responsable de l'antenne médicale en application de l'article L.
-3622-4 ;
+232-3 du code du sport ;
 
 5° De transmettre, sous forme anonyme, l'ensemble des données recueillies à la
 cellule scientifique du conseil de prévention et de lutte contre le dopage ;

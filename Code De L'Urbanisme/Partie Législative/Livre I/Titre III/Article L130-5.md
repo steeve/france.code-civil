@@ -15,9 +15,7 @@ d'une rémunération pour service rendu.
 
 Les collectivités territoriales et leurs groupements peuvent passer, dans les
 mêmes conditions, des conventions pour l'exercice des sports de nature,
-notamment en application du titre III de la loi n° 84-610 du 16 juillet 1984
-relative à l'organisation et à la promotion des activités physiques et
-sportives.
+notamment en application du titre Ier du livre III du code du sport.
 
 Les mêmes dispositions sont applicables au conservatoire de l'espace littoral et
 des rivages lacustres dans les territoires définis à l'article 1er de la loi n°
