@@ -14,7 +14,7 @@ académique ou au chef des services administratifs de l'inspection académique.
 
 Les inspecteurs d'académie, directeurs des services départementaux de
 l'éducation nationale, dans le cadre des délégations de pouvoir qui leur sont
-conférées par le recteur, sont autorisés à déléguer leur signature :
+conférées, sont autorisés à déléguer leur signature :
 
 a) Aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection
 académique ou au chef des services administratifs de l'inspection académique ;

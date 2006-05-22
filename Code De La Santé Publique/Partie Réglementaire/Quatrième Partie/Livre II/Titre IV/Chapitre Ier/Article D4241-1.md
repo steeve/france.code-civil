@@ -1,5 +1,5 @@
 Article D4241-1
 ----
-Les dispositions du décret n° 95-664 du 9 mai 1995 portant réglementation
-générale du brevet professionnel s'appliquent au brevet professionnel de
-préparateur en pharmacie, sous réserve des dispositions de la présente section.
+Les dispositions des articles D. 337-95 à D. 337-124 du code de l'éducation
+s'appliquent au brevet professionnel de préparateur en pharmacie, sous réserve
+des dispositions de la présente section.

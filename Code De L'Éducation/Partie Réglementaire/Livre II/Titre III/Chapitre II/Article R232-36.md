@@ -11,3 +11,10 @@ personnels assimilés en application de l'article 5 du décret du 20 janvier 198
 ou de l'article 6 du décret du 16 janvier 1992 cités à l'article R. 232-23, la
 commission d'instruction comprend exclusivement deux conseillers mentionnés au
 1° de l'article R. 232-23.
+
+Si les poursuites concernent un usager, la commission d'instruction comprend un
+troisième membre qui doit être étudiant. Dans ce cas, l'absence d'un membre de
+la commission d'instruction dûment convoqué ne fait pas obstacle à la réunion de
+celle-ci.
+
+L'instruction n'est pas publique.
