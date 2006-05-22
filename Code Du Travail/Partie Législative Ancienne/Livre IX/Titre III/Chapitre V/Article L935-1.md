@@ -14,8 +14,9 @@ contrôle des connaissances et aptitudes.
 
 Peuvent être prises en compte, au titre de la validation, l'ensemble des
 compétences professionnelles acquises dans l'exercice d'une activité salariée,
-non salariée ou bénévole, en rapport direct avec le contenu du diplôme ou du
-titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
+non salariée, bénévole ou de volontariat, en rapport direct avec le contenu du
+diplôme ou du titre. La durée minimale d'activité requise ne peut être
+inférieure à trois ans.
 
 La validation est effectuée par un jury dont la composition garantit une
 présence significative de représentants qualifiés des professions concernées.
@@ -85,10 +86,10 @@ diplômes et titres dans le répertoire national ainsi que la composition et les
 attributions de la commission."
 
 "Art. L. 613-3 : Toute personne qui a exercé pendant au moins trois ans une
-activité professionnelle, salariée, non salariée ou bénévole, en rapport avec
-l'objet de sa demande, peut demander la validation des acquis de son expérience
-pour justifier tout ou partie des connaissances et des aptitudes exigées pour
-l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un
+activité professionnelle, salariée, non salariée, bénévole ou de volontariat, en
+rapport avec l'objet de sa demande, peut demander la validation des acquis de
+son expérience pour justifier tout ou partie des connaissances et des aptitudes
+exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un
 établissement d'enseignement supérieur.
 
 Toute personne peut également demander la validation des études supérieures

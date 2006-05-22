@@ -10,8 +10,9 @@ contrôle des connaissances et aptitudes.
 
 Peuvent être prises en compte, au titre de la validation, l'ensemble des
 compétences professionnelles acquises dans l'exercice d'une activité salariée,
-non salariée ou bénévole, en rapport direct avec le contenu du diplôme ou du
-titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
+non salariée, bénévole ou de volontariat, en rapport direct avec le contenu du
+diplôme ou du titre. La durée minimale d'activité requise ne peut être
+inférieure à trois ans.
 
 La validation est effectuée par un jury dont la composition garantit une
 présence significative de représentants qualifiés des professions concernées.
