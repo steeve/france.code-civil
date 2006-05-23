@@ -1,5 +1,0 @@
-Article R*111-21
-----
-Les dispositions de la présente section sont applicables à tous les projets de
-construction ayant fait l'objet d'une demande de permis de construire déposée
-postérieurement au 1er juin 2001.
