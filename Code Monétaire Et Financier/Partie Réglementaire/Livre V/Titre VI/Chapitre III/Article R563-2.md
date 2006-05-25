@@ -1,10 +1,9 @@
 Article R563-2
 ----
-Lorsque les opérations effectuées par un client ne sont pas habituellement
-supérieures à 150 000 euros, la somme prévue à l'article L. 563-3 est fixée à ce
-montant.
+La somme prévue à l'article L. 563-3 est de 150 000 euros.
 
-L'organisme financier prend les mesures d'organisation nécessaires pour être à
-même de communiquer dans les meilleurs délais à la cellule TRACFIN ou à
-l'autorité de contrôle, sur leur demande, les documents écrits mentionnés au
-deuxième alinéa de l'article L. 563-3.
+L'organisme financier ou la personne mentionnés à l'article L. 562-1 prend les
+mesures d'organisation nécessaires pour être à même de communiquer dans les
+meilleurs délais à la cellule TRACFIN ou à l'autorité de contrôle si cette
+dernière existe pour la profession, sur leur demande, les documents écrits
+mentionnés au deuxième alinéa de l'article L. 563-3.

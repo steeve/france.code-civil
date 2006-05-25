@@ -1,15 +1,20 @@
 Article R564-1
 ----
-Les règlements professionnels ou administratifs pris pour l'application des
-dispositions afférentes aux obligations relatives à la lutte contre le
-blanchiment des capitaux prévues aux articles L. 561-1 à L. 564-3, R. 562-1, R.
-562-2, R. 563-3, R. 562-11, R. 563-1, R. 563-2, D. 564-2, R. 725-1, R. 735-4, R.
-745-4, R. 755-4 et R. 765-4 tiennent compte de la situation particulière de
-chaque catégorie d'organisme financier.
+Les arrêtés ministériels ou les règlements professionnels homologués par le
+ministre compétent ou les dispositions du règlement général de l'Autorité des
+marchés financiers pris pour l'application du titre VI du livre V tiennent
+compte de la situation particulière de chaque catégorie d'organismes financiers
+ou de personnes mentionnés à l'article L. 562-1 ainsi que de la nature de leur
+activité.
 
-Le ministre chargé de l'économie établit ces règlements pour les agents des
-marchés interbancaires et les organismes mentionnés à l'article L. 518-1.
+Le ministre chargé de l'économie arrête les modalités d'application des
+obligations de vigilance des organismes financiers mentionnés aux 1 et 6 de
+l'article L. 562-1 et à l'article L. 611-3 dans les conditions prévues aux
+articles L. 520-2, L. 611-1 et L. 611-3.
 
 Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article
-L. 564-3 est exercé en liaison avec l'inspection générale des postes et
+L. 565-3 est exercé en liaison avec l'inspection générale des postes et
 télécommunications.
+
+Les changeurs manuels résidant dans les départements d'outre-mer adressent leur
+déclaration d'activité à l'Institut d'émission des départements d'outre-mer.
