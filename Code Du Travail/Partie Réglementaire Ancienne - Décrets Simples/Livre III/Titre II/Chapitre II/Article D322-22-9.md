@@ -24,7 +24,8 @@ c) De rupture pour inaptitude médicalement constatée ;
 
 d) De rupture au titre de la période d'essai ;
 
-e) De rupture du fait du salarié ou de rupture anticipée résultant de la volonté
+e) De rupture du fait du salarié ou de rupture anticipée d'un contrat de travail
+à durée déterminée ou d'un contrat de travail temporaire résultant de la volonté
 claire et non équivoque des deux parties ;
 
 f) D'embauche du salarié par l'employeur.
