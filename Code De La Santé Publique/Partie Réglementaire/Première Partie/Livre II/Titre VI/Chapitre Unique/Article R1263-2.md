@@ -1,6 +1,6 @@
 Article R1263-2
 ----
-La demande d'autorisation prévue à l'article L. 1263-2 est adressée sous pli
+La demande d'autorisation prévue à l'article L. 1261-2 est adressée sous pli
 recommandé avec demande d'avis de réception ou déposée contre récépissé au
 directeur général de l'Agence française de sécurité sanitaire des produits de
 santé par le fabricant ou par l'importateur du produit thérapeutique annexe pour

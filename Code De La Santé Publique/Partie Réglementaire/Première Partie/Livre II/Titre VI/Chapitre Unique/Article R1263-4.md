@@ -16,5 +16,5 @@ L'absence de décision à l'expiration du délai prévu vaut rejet de la demande
 
 Le refus d'autorisation est motivé.
 
-Le directeur général de l'Etablissement français des greffes est informé des
-décisions prises en application du présent article.
+Le directeur général de l'Agence de la biomédecine est informé des décisions
+prises en application du présent article.
