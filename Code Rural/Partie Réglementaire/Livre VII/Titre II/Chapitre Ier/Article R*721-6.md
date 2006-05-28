@@ -9,46 +9,44 @@ accidents du travail et les maladies professionnelles :
 
 3° Un membre du Conseil économique et social ;
 
-4° Un membre du Conseil d'Etat ;
+4° Un membre de la Cour des comptes ;
 
-5° Un membre de la Cour des comptes ;
-
-6° Le directeur général de la forêt et des affaires rurales au ministère de
+5° Le directeur général de la forêt et des affaires rurales au ministère de
 l'agriculture ;
 
-7° Deux fonctionnaires du ministère de l'agriculture ;
+6° Deux fonctionnaires du ministère de l'agriculture ;
 
-8° Un représentant du ministre chargé de l'économie et des finances ;
+7° Un représentant du ministre chargé de l'économie et des finances ;
 
-9° Un représentant du ministre chargé du travail ;
+8° Un représentant du ministre chargé du travail ;
 
-10° Un représentant du ministre chargé de la santé ;
+9° Un représentant du ministre chargé de la santé ;
 
-11° Un représentant du ministre chargé de la sécurité sociale ;
+10° Un représentant du ministre chargé de la sécurité sociale ;
 
-12° Le président de la Commission supérieure des maladies professionnelles en
+11° Le président de la Commission supérieure des maladies professionnelles en
 agriculture ;
 
-13° Le médecin-conseil national du régime agricole de protection sociale ;
+12° Le médecin-conseil national du régime agricole de protection sociale ;
 
-14° Un représentant du Haut Comité médical de la sécurité sociale ;
+13° Un représentant du Haut Comité médical de la sécurité sociale ;
 
-15° Six représentants de la Mutualité sociale agricole, désignés sur
+14° Six représentants de la Mutualité sociale agricole, désignés sur
 présentation du conseil central d'administration de la Mutualité sociale
 agricole dont trois appartenant au collège des salariés ;
 
-16° Six représentants des employeurs de main-d'oeuvre agricole, désignés sur
+15° Six représentants des employeurs de main-d'oeuvre agricole, désignés sur
 présentation des organisations professionnelles représentatives de ces
 employeurs ;
 
-17° Six représentants des salariés agricoles, désignés sur présentation des
+16° Six représentants des salariés agricoles, désignés sur présentation des
 organisations syndicales représentatives de ces salariés ;
 
-18° Un représentant de l'assemblée permanente des chambres d'agriculture ;
+17° Un représentant de l'assemblée permanente des chambres d'agriculture ;
 
-19° Un représentant de l'ordre national des médecins ;
+18° Un représentant de l'ordre national des médecins ;
 
-20° Un représentant des syndicats médicaux ;
+19° Un représentant des syndicats médicaux ;
 
-21° Un représentant de l'Association nationale des mutilés du travail, désigné
+20° Un représentant de l'Association nationale des mutilés du travail, désigné
 sur présentation de l'organisation la plus représentative sur le plan national.

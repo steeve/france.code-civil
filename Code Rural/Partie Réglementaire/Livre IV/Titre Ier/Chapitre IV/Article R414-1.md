@@ -7,8 +7,7 @@ ou que le commissaire de la République estime devoir la consulter.
 
 Elle comprend :
 
-Un magistrat de l'ordre judiciaire désigné par le premier président de la cour
-d'appel, président ;
+Le préfet ou son représentant, président ;
 
 Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 
@@ -47,3 +46,6 @@ Seuls les membres élus ont voix délibérative.
 
 Le secrétariat de la commission est assuré par la direction départementale de
 l'agriculture.
+
+En cas d'absence du préfet et de son représentant, le directeur départemental de
+l'agriculture et de la forêt ou son représentant préside la commission.

@@ -1,22 +1,25 @@
 Article R313-35
 ----
-Un commissaire du Gouvernement, suppléé en cas d'empêchement par un commissaire
-adjoint et nommé par le ministre de l'agriculture, est placé auprès de
-l'établissement.
+La commission régionale de l'économie agricole et du monde rural concourt à
+l'élaboration et à la mise en oeuvre, dans la région, des politiques publiques
+en faveur de l'agriculture, de l'agro-industrie et du monde rural. Elle est
+régie par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin
+2006.
 
-Le commissaire du Gouvernement assiste aux réunions du conseil d'administration.
-Il reçoit les convocations, ordres du jour, procès-verbaux et tous autres
-documents adressés aux membres du conseil.
+Elle est notamment chargée :
 
-Il peut se faire communiquer toutes pièces, documents ou archives, et procéder
-ou faire procéder à toutes vérifications.
+- de veiller à la cohérence des actions menées en matière de recherche,
+d'expérimentation, de développement et de formation dans les secteurs agricoles
+et agro-industriels ;
 
-Il dispose d'un droit de veto à l'égard des décisions du conseil
-d'administration affectant l'organisation générale du centre, la gestion
-financière et les programmes. Il exerce ce droit dans les dix jours qui suivent
-soit la réunion, s'il y a assisté, soit la réception du procès-verbal de la
-séance.
+- d'examiner toute question relative à l'agriculture raisonnée ainsi qu'à la
+qualité des produits agricoles et des denrées alimentaires ;
 
-Le veto du commissaire du Gouvernement a un caractère suspensif et a effet
-jusqu'à ce que le ministre de tutelle se soit prononcé. A défaut de décision
-expresse du ministre dans un délai d'un mois, la décision devient exécutoire.
+- d'étudier, en liaison avec le service public de l'emploi, l'évolution de
+l'emploi dans les secteurs agricoles et agro-industriels et de proposer toutes
+mesures de nature à permettre son amélioration tant quantitative que
+qualitative, notamment en favorisant les actions de reconversion et de formation
+;
+
+- d'orienter les actions de l'Etat en faveur des activités relatives aux équidés
+domestiques.

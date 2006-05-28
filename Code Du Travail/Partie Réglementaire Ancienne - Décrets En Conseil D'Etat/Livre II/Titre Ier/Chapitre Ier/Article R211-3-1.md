@@ -1,14 +1,11 @@
 Article R211-3-1
 ----
-La commission [*constituée au sein du conseil départemental de protection à
-l'enfance*] prévue à l'article L. 211-7 pour examiner les demandes
+La commission prévue à l'article L. 211-7 pour examiner les demandes
 d'autorisation et les demandes d'agrément des agences de mannequins en vue
-d'engager des enfants comprend [*composition*] :
-
-Le préfet ou le secrétaire général, président.
+d'engager des enfants comprend :
 
 Un magistrat chargé des fonctions de juge des enfants et désigné par le premier
-président de la cour d'appel.
+président de la cour d'appel, président.
 
 L'inspecteur d'académie ou son représentant.
 

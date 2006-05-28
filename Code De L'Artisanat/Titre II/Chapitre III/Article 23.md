@@ -5,7 +5,9 @@ Les chambres de métiers et de l'artisanat ont pour attribution :
 1° De tenir le répertoire des métiers ;
 
 2° De reconnaître la qualité d'artisan et d'artisan d'art et d'attribuer les
-titres de maître artisan ;
+titres de maître artisan dans les conditions prévues au premier alinéa de
+l'article 3 du décret n° 98-247 du 2 avril 1998 relatif à la qualification
+artisanale et au répertoire des métiers ;
 
 3° D'organiser l'apprentissage dans le secteur des métiers ;
 

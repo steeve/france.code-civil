@@ -12,8 +12,7 @@ une caisse d'allocations familiales.
 L'arrêté d'agrément est pris après avis de l'Agence nationale pour la
 participation des employeurs à l'effort de construction en ce qui concerne les
 associations, organismes et sociétés mentionnés au 2° (a, b et d) de l'article
-R. 313-9, et après avis du Comité national de la participation des employeurs en
-ce qui concerne les organismes mentionnés au 2° (c) du même article.
+R. 313-9.
 
 Les organismes mentionnés au 2° de l'article R. 313-9 doivent rendre compte
 chaque année à l'Agence nationale pour la participation des employeurs à

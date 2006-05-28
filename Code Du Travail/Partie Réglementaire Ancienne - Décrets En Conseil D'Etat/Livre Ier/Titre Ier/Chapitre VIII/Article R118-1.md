@@ -15,7 +15,7 @@ l'application de la législation du travail et des lois sociales dans la branche
 d'activité dont relève l'employeur ;
 
 A l'élaboration de documents statistiques sur l'apprentissage, notamment à la
-demande du comité départemental de l'emploi ;
+demande du commission départementale de l'emploi et de l'insertion ;
 
 A la réalisation d'enquêtes sur le devenir professionnel des jeunes formés par
 la voie de l'apprentissage ;
@@ -23,9 +23,9 @@ la voie de l'apprentissage ;
 Au fonctionnement des divers services sociaux organisés en faveur des apprentis.
 
 Les chambres de commerce et d'industrie, les chambres de métiers et de
-l'artisanat et les chambres d'agriculture adressent au comité départemental de
-l'emploi tous avis et suggestions qu'il leur paraît nécessaire de formuler sur
-l'apprentissage dans le département.
+l'artisanat et les chambres d'agriculture adressent à la commission
+départementale de l'emploi et de l'insertion tous avis et suggestions qu'il leur
+paraît nécessaire de formuler sur l'apprentissage dans le département.
 
 Ces compagnies, ou les services communs qu'elles ont créés, assurent une liaison
 constante avec les services de l'office national d'information sur les

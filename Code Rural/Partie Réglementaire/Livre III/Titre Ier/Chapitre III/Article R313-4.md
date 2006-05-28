@@ -1,35 +1,63 @@
 Article R313-4
 ----
-Les quatre sections spécialisées sont les suivantes :
+Une commission territoriale d'orientation de l'agriculture est instituée en
+Corse pour exercer les attributions des commissions départementales
+d'orientation de l'agriculture.
 
-1° La section Structures et économie des exploitations, qui exerce les
-compétences déléguées par la commission en matière de :
+Elle est présidée conjointement par le préfet de Corse et le président du
+conseil exécutif ou leurs représentants.
 
-a) Demandes d'autorisation sollicitées en application des articles L. 331-2 et
-L. 331-3 ;
+Elle comprend :
 
-b) Répartition des références de production ou des droits à aides visée à
-l'article 15 de la loi n° 95-95 du 1er février 1995 de modernisation de
-l'agriculture ;
+-le président de l'Assemblée de Corse ou son représentant ;
 
-c) Décisions individuelles accordant ou refusant les aides à l'installation des
-jeunes agriculteurs et les aides à la modernisation des exploitations agricoles
-prises en application du règlement communautaire n° 2328 du 15 juillet 1991, la
-préretraite en application du règlement communautaire n° 2079 du 30 juin 1992,
-les aides au boisement régies par le règlement communautaire n° 2080 du 30 juin
-1992, la souscription de contrats en faveur de l'environnement régis par le
-règlement communautaire n° 2078 du 30 juin 1992 ;
+-les présidents des conseils généraux ou leurs représentants ;
 
-2° La section Agriculteurs en difficulté, qui exerce les compétences déléguées
-par la commission en matière de décisions individuelles accordant ou refusant
-les aides allouées aux exploitations concernées ;
+-un président d'établissement public de coopération intercommunale ou son
+représentant, ou, le cas échéant, le représentant d'un syndicat mixte de gestion
+d'un parc naturel ;
 
-3° La section Coopératives, qui exerce les compétences déléguées par la
-commission en matière de formulation d'avis sur l'agrément des coopératives
-prévu dans l'article R. 525-2 et d'attribution des aides aux coopératives
-d'utilisation en commun de matériel agricole, notamment les prêts spéciaux
-définis dans le décret n° 91-93 du 23 janvier 1991 ;
+-le directeur régional de l'agriculture et de la forêt ou son représentant ;
 
-4° La section Contrats d'agriculture durable, qui exerce les compétences
-déléguées par la commission en matière de souscription d'un contrat
-d'agriculture durable en application de l'article L. 311-3.
+-les directeurs départementaux de l'agriculture et de la forêt ou leurs
+représentants ;
+
+-les trésoriers-payeurs généraux ou leurs représentants ;
+
+-quatre représentants de l'Assemblée de Corse ;
+
+-le président de l'ODARC ou son représentant ;
+
+-deux représentants de chaque chambre d'agriculture, dont un au titre des
+sociétés coopératives agricoles ;
+
+-le président de la caisse de mutualité sociale agricole ou son représentant ;
+
+-un représentant des activités de transformation des produits de l'agriculture ;
+
+-six représentants des organisations syndicales d'exploitants agricoles à
+vocation générale habilitées en application de l'article 1er du décret n° 90-187
+du 28 février 1990 ;
+
+-un représentant des salariés agricoles présenté par l'organisation syndicale de
+salariés des exploitations agricoles la plus représentative au niveau
+territorial ;
+
+-un représentant de la distribution des produits agroalimentaires ;
+
+-un représentant du financement de l'agriculture ;
+
+-un représentant des fermiers-métayers ;
+
+-un représentant des propriétaires agricoles ;
+
+-un représentant de la propriété forestière ;
+
+-un représentant des associations agréées pour la protection de l'environnement
+;
+
+-un représentant de l'artisanat ;
+
+-un représentant des consommateurs ;
+
+-un représentant des centres de gestion et d'économie rurale.

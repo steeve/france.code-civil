@@ -1,29 +1,28 @@
 Article R322-15-1
 ----
-I. - En cas de rupture du contrat insertion-revenu minimum d'activité avant le
-terme initialement fixé dans la convention mentionnée à l'article L. 322-4-15-1,
-la convention est résiliée de plein droit.
+La commission départementale de l'emploi et de l'insertion est présidée par le
+préfet. Elle comprend :
 
-II. - L'employeur est tenu de reverser au département l'intégralité des sommes
-déjà perçues au titre de l'aide définie au troisième alinéa du I de l'article L.
-322-4-15-6 pour les heures de travail non effectuées à compter de la date
-d'effet :
+1° Des représentants de l'Etat, notamment le directeur départemental de
+l'emploi, du travail et de la formation professionnelle et le directeur
+départemental des affaires sanitaires et sociales ;
 
-1° De la rupture du contrat insertion-revenu minimum d'activité en cas de faute
-grave du salarié, de force majeure, de rupture pendant la période d'essai, de
-démission du salarié, ou de rupture négociée sous réserve que cet accord résulte
-d'une manifestation non équivoque de la volonté commune des parties ;
+2° Des élus, représentants des collectivités territoriales et de leurs
+groupements, dont un membre du conseil général, élu par ce conseil, un membre du
+conseil régional, élu par ce conseil, et des élus, représentants de communes et
+des établissements publics de coopération intercommunale du département, sur
+proposition de l'association départementale des maires. En cas de pluralité
+d'associations, ces représentants sont désignés par accord des présidents
+d'associations des maires du département ou, à défaut d'accord, par le préfet ;
 
-2° De la rupture du contrat insertion-revenu minimum d'activité en cas de
-résiliation de la convention par le président du conseil général en application
-des dispositions prévues au troisième alinéa de l'article L. 322-4-15-5 ;
+3° Des représentants des organisations professionnelles et interprofessionnelles
+d'employeurs ;
 
-3° De la suspension du contrat insertion-revenu minimum d'activité à la demande
-du salarié pour lui permettre d'effectuer une période d'essai afférente à une
-offre d'emploi.
+4° Des représentants des organisations syndicales représentatives de salariés,
+représentatives au plan national, désignés par leurs confédérations respectives
+;
 
-III. - En cas de rupture du contrat insertion-revenu minimum d'activité suite à
-la dénonciation de la convention par le président du conseil général pour
-non-respect des dispositions du b du 2° de l'article L. 322-4-15-1, l'employeur
-est tenu de reverser au département l'intégralité des sommes déjà perçues au
-titre de l'aide définie au troisième alinéa du I de l'article L. 322-4-15-6.
+5° Des représentants des chambres consulaires ;
+
+6° Des personnes qualifiées désignées par le préfet en raison de leur compétence
+dans le domaine de l'emploi, de l'insertion et de la création d'entreprise.

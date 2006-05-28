@@ -1,13 +1,8 @@
 Article R211-4
 ----
-A Paris, la commission [*constitué au sein du Conseil départemental de
-protection de l'enfance*] comprend [*composition*] :
+A Paris, la commission comprend :
 
-Le préfet de Paris ou le secrétaire général de Paris,
-
-président.
-
-Le président du tribunal pour enfants ou son suppléant.
+Le président du tribunal pour enfants ou son suppléant, président.
 
 Le directeur de l'enseignement de Paris ou son représentant.
 

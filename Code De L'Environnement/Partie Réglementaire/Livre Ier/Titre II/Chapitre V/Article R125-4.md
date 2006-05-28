@@ -32,4 +32,4 @@ résorption.
 
 II. - Ce document peut être librement consulté à la préfecture du département ;
 il fait l'objet, au moins une fois par an, d'une présentation par le préfet
-devant le conseil départemental d'hygiène.
+devant le conseil départemental de l'environnement et des risques sanitaires.

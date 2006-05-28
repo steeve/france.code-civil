@@ -1,17 +1,18 @@
 Article R411-11
 ----
-I. - La commission a notamment pour mission :
+La commission départementale de la sécurité routière est présidée par le préfet.
+Elle comprend :
 
-1° De réunir tous les éléments d'information sur la sécurité routière ;
+1° Des représentants des services de l'Etat ;
 
-2° De proposer au préfet les mesures de toute nature propres à diminuer les
-accidents de la route ;
+2° Des élus départementaux désignés par le conseil général ;
 
-3° De contribuer par l'intermédiaire des associations et organismes concernés à
-la sensibilisation de l'opinion.
+3° Des élus communaux désignés par l'association des maires du département ou, à
+défaut, par le préfet ;
 
-II. - Le préfet présente chaque année à la commission un bilan de l'action
-accomplie dans le département dans le domaine de la sécurité routière.
+4° Des représentants des organisations professionnelles et des fédérations
+sportives ;
 
-III. - La commission peut également être consultée pour la mise en place
-d'itinéraires de déviation pour les poids lourds.
+5° Des représentants des associations d'usagers.
+
+A Paris, les élus visés aux 2° et 3° sont désignés par le conseil de Paris.

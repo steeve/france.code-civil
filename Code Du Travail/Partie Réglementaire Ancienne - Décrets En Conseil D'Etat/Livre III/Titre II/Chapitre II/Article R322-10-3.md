@@ -10,8 +10,8 @@ relèvent de la compétence du ministre chargé de l'emploi ;
 - du comité de coordination régional de l'emploi et de la formation
 professionnelle lorsqu'ils relèvent de la compétence du préfet de région ;
 
-- du comité départemental de l'emploi lorsqu'ils relèvent de la compétence du
-préfet de département.
+- de la commission départementale de l'emploi et de l'insertion lorsqu'ils
+relèvent de la compétence du préfet de département.
 
 L'agrément peut être donné pour tout ou partie des actions prévues par les
 accords ou projets de formation mentionnés aux articles ci-dessus.

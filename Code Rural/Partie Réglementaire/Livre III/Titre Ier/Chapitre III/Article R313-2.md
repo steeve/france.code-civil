@@ -1,26 +1,62 @@
 Article R313-2
 ----
-Lorsque la commission départementale d'orientation de l'agriculture choisit
-d'organiser en son sein des sections spécialisées, elle exerce néanmoins en
-formation plénière ses missions à caractère général se rapportant :
+La commission départementale d'orientation de l'agriculture est placée sous la
+présidence du préfet ou de son représentant et comprend :
 
-a) Au projet départemental visé au deuxième alinéa de l'article L. 313-1 ;
+1° Le président du conseil régional ou son représentant ;
 
-b) A l'information sur l'utilisation au plan départemental des crédits affectés
-par la Communauté européenne, par l'Etat et par les collectivités territoriales
-dans le domaine des activités agricoles et forestières ;
+2° Le président du conseil général ou son représentant ;
 
-c) A l'orientation des actions relatives au rôle de l'agriculture dans la
-préservation de l'environnement ;
+3° Un président d'établissement public de coopération inter-communale ayant son
+siège dans le département ou son représentant ou, le cas échéant, le
+représentant d'un syndicat mixte de gestion d'un parc naturel régional ou de
+pays ;
 
-d) Aux avis formulés sur les prescriptions générales concernant les ateliers
-hors sol en application de l'article 10 de la loi n° 76-633 du 19 juillet 1976
-relative aux installations classées pour la protection de l'environnement ;
+4° Le directeur départemental de l'agriculture et de la forêt ou son
+représentant ;
 
-e) Au choix des critères généraux d'attribution des aides individuelles et des
-références de production ou des droits à aides, ainsi que ses attributions
-prévues dans les articles L. 112-3, L. 143-7, L. 312-1, L. 312-5, L. 314-3, R.
-141-3 et R. 142-5 ;
+5° Le trésorier-payeur général ou son représentant ;
 
-f) A l'avis sur les projets de contrats types susceptibles d'être proposés aux
-exploitants en application de l'article L. 311-3.
+6° Trois représentants de la chambre d'agriculture, dont un au titre des
+sociétés coopératives agricoles autres que celles mentionnées au 8° ;
+
+7° Le président de la caisse de mutualité sociale agricole ou son représentant
+ou, dans les départements d'outre-mer, le président de la caisse générale de
+sécurité sociale ou son représentant ;
+
+8° Deux représentants des activités de transformation des produits de
+l'agriculture, dont un au titre des entreprises agroalimentaires non
+coopératives, l'autre au titre des coopératives ;
+
+9° Huit représentants des organisations syndicales d'exploitants agricoles à
+vocation générale habilitées en application de l'article 1er du décret n° 90-187
+du 28 février 1990 relatif à la représentation des organisations syndicales
+d'exploitants agricoles au sein de certains organismes ou commissions, dont au
+moins un représentant de chacune d'elles ;
+
+10° Un représentant des salariés agricoles présenté par l'organisation syndicale
+de salariés des exploitations agricoles la plus représentative au niveau
+départemental ;
+
+11° Deux représentants de la distribution des produits agroalimentaires, dont un
+au titre du commerce indépendant de l'alimentation ;
+
+12° Un représentant du financement de l'agriculture ;
+
+13° Un représentant des fermiers-métayers ;
+
+14° Un représentant des propriétaires agricoles ;
+
+15° Un représentant de la propriété forestière ;
+
+16° Deux représentants des associations agréées pour la protection de
+l'environnement ;
+
+17° Un représentant de l'artisanat ;
+
+18° Un représentant des consommateurs ;
+
+19° Deux personnes qualifiées.
+
+Les membres de la commission pour lesquels la possibilité de se faire
+représenter n'est pas prévue sont pourvus chacun de deux suppléants.
