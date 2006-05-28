@@ -10,5 +10,7 @@ généalogiques qui les composent éventuellement.
 
 Pour chaque race, le ministre chargé de l'agriculture approuve par arrêté un
 règlement de stud-book qui fixe les conditions d'inscription au stud-book ainsi
-que les conditions spécifiques d'agrément des reproducteurs pour que leurs
-produits puissent être inscrits dans le stud-book.
+que les conditions spécifiques d'approbation des reproducteurs pour que leurs
+produits puissent être inscrits dans le stud-book. Ces conditions peuvent être
+relatives à leur origine, leur état sanitaire, leurs caractéristiques
+zootechniques et leurs performances ainsi que celles de leurs apparentés.
