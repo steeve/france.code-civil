@@ -55,4 +55,4 @@ et 1 900 000 euros ;
 à 2 000 mètres carrés ;
 
 13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la
-puissance maximum est inférieure ou égale à 2,5 MW.
+hauteur du mât est inférieure ou égale à 50 mètres.
