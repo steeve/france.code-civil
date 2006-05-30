@@ -72,7 +72,7 @@ produit par 10 000 habitants, au sens de l'article R. 1416-3 du code de la sant�
 publique ;
 
 15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la
-puissance maximum est supérieure à 2,5 MW ;
+hauteur du mât dépasse 50 mètres ;
 
 16° Piscicultures soumises à autorisation ou concession en vertu de l'article L.
 431-6 du présent code et définies au premier alinéa de l'article R. 431-16 de ce
