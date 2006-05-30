@@ -1,9 +1,6 @@
 Article D621-88
 ----
-Les déclarations mensuelles, mentionnées à l'article D. 621-90, d'entrées et de
-sorties de céréales doivent être établies conformément aux modèles
-réglementaires et parvenir aux services régionaux de l'Office national
-interprofessionnel des céréales dont le déclarant relève avant le 5 du mois
-suivant.
-
-Ces bordereaux portent détail et total des stocks et des opérations de dépôts.
+Les coopératives de céréales peuvent prévoir l'obligation pour leurs adhérents
+et usagers d'effectuer, par leur intermédiaire, la totalité des ventes de
+céréales destinées à la mouture et de procéder aux livraisons de ces céréales
+aux époques qu'elles ont fixées.

@@ -1,19 +1,21 @@
 Article D621-85
 ----
-La comptabilité prévue à l'article D. 621-84 comporte au minimum :
+Les coopératives de céréales et leurs unions établissent mensuellement la
+balance des comptes généraux du grand livre en faisant apparaître pour les
+comptes agrégés l'ensemble des soldes débiteurs et l'ensemble des soldes
+créditeurs.
 
-1° Un livre-journal sur lequel sont enregistrées par ordre de date toutes les
-opérations. Ce livre-journal peut être remplacé par plusieurs journaux
-auxiliaires, dont un livre de caisse, chacun d'eux étant destiné à enregistrer
-des opérations de même nature ; dans ce cas, les totaux des journaux auxiliaires
-sont périodiquement et au moins à la fin de chaque mois, reportés à un journal
-centralisateur ;
+En fin d'exercice, après avoir groupé tous les comptes qui étaient destinés à
+enregistrer distinctement les recettes, dépenses et frais constituant le profit
+ou la perte correspondant aux opérations effectuées sur chaque céréale, les
+coopératives et leurs unions établissent leur bilan annuel.
 
-2° Un grand livre destiné à répartir de façon analytique les opérations
-enregistrées par ordre de date sur le journal ;
+Elles adressent au comité départemental des céréales en triple exemplaire, avant
+la fin de la période mensuelle qui suit la réunion de l'assemblée générale :
 
-3° Un livre d'inventaire sur lequel figure le détail des valeurs de toute
-nature, actives ou passives à la fin de chaque exercice ;
+1° Le bilan, le compte général des pertes et profits et les comptes
+d'exploitation et de résultats ;
 
-4° Un dossier des copies de la correspondance envoyée et de toute la
-correspondance reçue.
+2° Les rapports du conseil d'administration et des commissaires aux comptes ;
+
+3° Le procès-verbal de l'assemblée générale.

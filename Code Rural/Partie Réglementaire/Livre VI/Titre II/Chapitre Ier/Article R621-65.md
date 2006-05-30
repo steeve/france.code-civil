@@ -1,6 +1,13 @@
 Article R621-65
 ----
-Au moment du paiement d'une dépense dont l'engagement est soumis au visa du
-contrôleur d'Etat, l'agent comptable s'assure que l'engagement a bien reçu ce
-visa. Il ne peut procéder au paiement de la dépense en cas de refus de visa que
-sur l'autorisation expresse du ministre chargé du budget.
+Des comités régionaux ou interrégionaux des céréales, dont la composition est
+fixée par décret, chargés d'émettre tous avis utiles sur l'organisation et le
+fonctionnement du marché des céréales, sont institués auprès de l'Office
+national interprofessionnel des grandes cultures, à l'initiative de son
+directeur général.
+
+Les membres des comités régionaux des céréales autres que les membres de droit
+sont désignés par arrêté du préfet de région.
+
+Le préfet compétent pour la désignation des membres des comités interrégionaux
+est celui de la région ayant la plus forte production céréalière.

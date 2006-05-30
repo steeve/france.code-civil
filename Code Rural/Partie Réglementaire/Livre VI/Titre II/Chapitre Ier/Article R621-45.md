@@ -1,24 +1,42 @@
 Article R621-45
 ----
-I. - Chaque année, avant le 15 juillet, les membres du conseil central élisent,
-au scrutin secret et à la majorité absolue des membres présents, un président et
-un vice-président choisis parmi les membres producteurs, un vice-président
-choisi parmi les membres non producteurs. Lorsque deux scrutins successifs n'ont
-pas permis de dégager la majorité requise, il est procédé à un troisième scrutin
-au terme duquel la décision est acquise à la majorité relative et, le cas
-échéant, au bénéfice de l'âge.
+Les compétences de l'Office national interprofessionnel des fruits, des légumes,
+des vins et de l'horticulture (VINIFLHOR) s'étendent :
 
-II. - Les membres du comité permanent sont désignés, à la même date et dans les
-mêmes conditions de majorité :
+a) Dans le domaine des fruits et légumes et des productions spécialisées :
 
-a) A raison de huit membres, par les représentants des agriculteurs ;
+- aux fruits et légumes, pommes de terre, champignons, à l'état frais et
+transformés ;
 
-b) De six membres, par les représentants des commerçants et des utilisateurs ;
+- au tabac et au houblon ;
 
-c) De deux membres, par les représentants des consommateurs.
+- à l'apiculture, aux produits de l'apiculture et à la gemme.
 
-III. - Les fonctions de membre du conseil central et du comité permanent sont
-gratuites. Toutefois les frais de déplacement et de séjour supportés à
-l'occasion de leur présence aux réunions de ces assemblées ou des commissions
-constituées dans leur sein, par ceux des membres ne résidant pas à Paris, sont
-remboursés dans les conditions prévues par la réglementation en vigueur.
+Pour les deux premiers secteurs, l'office participe aux actions conduites en ce
+qui concerne les semences et les plants de ces produits ;
+
+b) Dans le domaine de l'horticulture : aux produits de l'horticulture florale,
+ornementale et aux pépinières ;
+
+c) Dans le domaine des vins :
+
+- aux vins et aux produits issus de la vigne, sous réserve des compétences de
+l'Institut national de l'origine et de la qualité et des organisations
+interprofessionnelles du secteur des appellations d'origine ;
+
+- aux vinaigres ;
+
+- aux produits frais et transformés issus du verger cidricole ainsi qu'à ce
+verger lui-même.
+
+L'office a en outre pour mission d'organiser le contrôle de la production et de
+la distribution des bois et plants de vigne dans les conditions définies à la
+section 4 du chapitre Ier du titre VI.
+
+Toutefois, l'office n'est pas compétent pour assurer le paiement des
+restitutions pour les produits agricoles exportés sous forme de marchandises ne
+relevant pas de l'annexe I du traité instituant la Communauté européenne.
+
+La compétence territoriale de l'office s'étend à la France métropolitaine ainsi
+qu'aux départements d'outre-mer sous réserve des dispositions des articles R.
+684-1 et R. 684-2.

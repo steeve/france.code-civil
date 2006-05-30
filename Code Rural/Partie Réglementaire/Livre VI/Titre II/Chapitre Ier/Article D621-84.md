@@ -1,6 +1,19 @@
 Article D621-84
 ----
-Les collecteurs agréés sont astreints à tenir une comptabilité visant à dégager,
-à la clôture de chaque exercice, le résultat des opérations faites sur chaque
-céréale traitée. Cette comptabilité doit être présentée à toute demande des
-agents habilités à exercer le contrôle de ces opérations.
+La comptabilité prévue à l'article D. 621-83 comporte au minimum :
+
+1° Un livre-journal sur lequel sont enregistrées par ordre de date toutes les
+opérations. Ce livre-journal peut être remplacé par plusieurs journaux
+auxiliaires, dont un livre de caisse, chacun d'eux étant destiné à enregistrer
+des opérations de même nature ; dans ce cas, les totaux des journaux auxiliaires
+sont périodiquement et au moins à la fin de chaque mois, reportés à un journal
+centralisateur ;
+
+2° Un grand livre destiné à répartir de façon analytique les opérations
+enregistrées par ordre de date sur le journal ;
+
+3° Un livre d'inventaire sur lequel figure le détail des valeurs de toute
+nature, actives ou passives à la fin de chaque exercice ;
+
+4° Un dossier des copies de la correspondance envoyée et de toute la
+correspondance reçue.
