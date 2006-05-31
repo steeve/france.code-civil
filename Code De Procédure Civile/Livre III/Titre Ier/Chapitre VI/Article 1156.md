@@ -1,6 +1,6 @@
 Article 1156
 ----
-Le service de l'aide sociale à l'enfance, l'oeuvre ou le mandataire désigné par
+Le service de l'aide sociale à l'enfance, l'œuvre ou le mandataire désigné par
 le tribunal sont, pour le recouvrement des subsides, subrogés dans les droits du
 créancier.
 

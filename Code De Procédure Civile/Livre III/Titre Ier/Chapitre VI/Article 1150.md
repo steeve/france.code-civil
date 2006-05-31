@@ -1,6 +1,5 @@
 Article 1150
 ----
-La requête aux fins de légitimation après mariage ou par autorité de justice est
-formée par l'un des deux parents devant le tribunal de grande instance du lieu
-où il demeure ou par les deux conjointement devant le tribunal où demeure l'un
-des deux.
+Le délai de pourvoi en cassation suspend l'exécution de la décision qui établit
+ou modifie le lien de filiation. Le pourvoi en cassation exercé dans ce délai
+est également suspensif.

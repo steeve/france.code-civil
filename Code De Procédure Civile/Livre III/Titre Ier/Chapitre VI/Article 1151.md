@@ -1,3 +1,5 @@
 Article 1151
 ----
-La légitimation relève de la matière gracieuse.
+Le ministère public représente l'Etat dans les actions en recherche de paternité
+exercées en l'absence d'héritiers du père prétendu ou lorsque ceux-ci ont
+renoncé à la succession.
