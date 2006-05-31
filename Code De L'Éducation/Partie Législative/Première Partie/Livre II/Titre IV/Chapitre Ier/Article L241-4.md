@@ -18,9 +18,10 @@ par les personnels enseignants de l'enseignement public qui font partie du
 conseil départemental ;
 
 5° Par le maire et les délégués départementaux de l'éducation nationale.
-Toutefois, les délégués départementaux de l'éducation nationale ne peuvent
-exercer leur mission que dans des établissements autres que ceux de leur commune
-ou, à Paris, Lyon et Marseille, de leur arrondissement de résidence.
+Toutefois, lorsqu'ils exercent un mandat municipal, les délégués départementaux
+de l'éducation nationale ne peuvent intervenir dans les écoles situées sur le
+territoire de la commune dans laquelle ils sont élus, ni dans les écoles au
+fonctionnement desquelles cette commune participe.
 
 II. - L'inspection des établissements d'enseignement privés porte sur la
 moralité, l'hygiène, la salubrité et sur l'exécution des obligations imposées à
