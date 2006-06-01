@@ -1,12 +1,11 @@
 Article R3334-9
 ----
-Chaque année, le taux de concours de l'Etat, applicable au montant des dépenses
-directes d'aménagement foncier et des subventions versées par les départements
-pour la réalisation de travaux d'équipement rural, est fixé par le décret prévu
-à l'article R. 3334-4.
+La liquidation des droits des départements au titre de la fraction principale de
+la dotation globale d'équipement mentionnée au a de l'article L. 3334-10 est
+effectuée par le préfet, à la demande du président du conseil général, sur
+présentation d'un état récapitulatif des dépenses directes d'aménagement foncier
+du département et des subventions mentionnées à l'article R. 3334-5. Il est
+procédé tous les trimestres au paiement des sommes correspondantes.
 
-Ce taux de concours est obtenu en divisant le montant des crédits affectés à la
-fraction principale de la seconde part par le montant estimé des dépenses
-d'aménagement foncier des départements devant être réalisées et des subventions
-devant être versées pour la réalisation de travaux d'équipement rural, au cours
-de l'exercice considéré.
+La fraction mentionnée au b de l'article L. 3334-10 est versée aux bénéficiaires
+avant le 1er mai de l'exercice auquel elle se rapporte.
