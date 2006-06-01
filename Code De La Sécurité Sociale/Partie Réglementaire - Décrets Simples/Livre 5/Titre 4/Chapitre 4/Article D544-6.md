@@ -1,17 +1,8 @@
 Article D544-6
 ----
-La condition de cessation de formation professionnelle rémunérée ou de recherche
-active d'emploi exigée des travailleurs en formation professionnelle rémunérée
-ou à la recherche d'un emploi pour l'attribution de l'allocation de présence
-parentale à taux plein est attestée par :
+Le montant de l'allocation journalière de présence parentale est fixée à 10,63 %
+de la base mensuelle de calcul des allocations familiales.
 
-1. Une déclaration sur l'honneur précisant :
-
-a) Que cette interruption est motivée par la nécessité de soins contraignants ou
-de présence soutenue aux côtés de l'enfant malade, attestée par le certificat
-médical mentionné au 2 de l'article R. 544-1 ;
-
-b) La période concernée ;
-
-2. Une attestation du formateur indiquant que la formation professionnelle
-rémunérée a été interrompue.
+Lorsque la charge de l'enfant au titre duquel le droit a été ouvert est assumée
+par une personne seule, le montant visé au premier alinéa est fixé à 12,63 % de
+la base mensuelle de calcul des allocations familiales.

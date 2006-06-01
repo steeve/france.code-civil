@@ -1,22 +1,8 @@
 Article D544-2
 ----
-I. - Le montant de l'allocation de présence parentale à taux plein est fixé à
-234,01 % de la base mensuelle de calcul des allocations familiales.
-
-II. - Les montants de l'allocation de présence parentale à taux partiels sont
-égaux à :
-
-a) 71,29 % de la base mensuelle de calcul des allocations familiales lorsque la
-durée d'activité restante correspond à 80 % de la durée légale du travail ou de
-la durée considérée comme équivalente ou de la durée fixée conventionnellement
-dans l'entreprise ;
-
-b) 117,01 % de la base mensuelle de calcul des allocations familiales lorsque la
-durée d'activité restante correspond à 50 % de la durée d'activité légale du
-travail ou de la durée considérée comme équivalente ou de la durée fixée
-conventionnellement dans l'entreprise.
-
-III. - Lorsque la charge de l'enfant malade est assumée par une personne seule,
-les montants visés au I et aux a et b du II sont fixés respectivement à 277,89
-%, 94,27 % et 146,26 % de la base mensuelle de calcul des allocations
-familliales.
+Lorsque la durée prévisible de traitement de l'enfant, fixée par le médecin qui
+le suit, est supérieure à six mois, elle fait l'objet, à l'issue de cette
+période de six mois, d'un réexamen. Le médecin peut alors fixer une nouvelle
+durée prévisible, réexaminée dans les mêmes conditions. Le droit à la prestation
+est alors renouvelé dans la limite de la durée maximale mentionnée à l'article
+D. 544-1.

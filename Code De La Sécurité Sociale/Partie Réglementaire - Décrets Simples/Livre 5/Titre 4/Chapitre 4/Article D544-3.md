@@ -1,8 +1,9 @@
 Article D544-3
 ----
-L'allocation est versée mensuellement et dans la limite d'une durée maximale
-d'une année pour un même enfant et par maladie, accident ou handicap.
-
-Elle est attribuée pour une période initiale de quatre mois ou de deux mois dans
-les cas visés à l'article D. 544-1. Le droit peut être renouvelé par périodes de
-quatre mois.
+Au cours d'une période de trois ans à compter de la date d'ouverture du droit à
+l'allocation journalière de présence parentale, en cas de rechute de la
+pathologie au titre de laquelle le droit avait été ouvert et dès lors que les
+conditions visées aux articles L. 544-1 et L. 544-2 sont réunies, ce droit peut
+être ouvert à nouveau. Le décompte de la durée de la période de droit et du
+nombre maximum d'allocations journalières qui pourront être versées au cours de
+celle-ci s'effectue à partir de la date initiale d'ouverture du droit.
