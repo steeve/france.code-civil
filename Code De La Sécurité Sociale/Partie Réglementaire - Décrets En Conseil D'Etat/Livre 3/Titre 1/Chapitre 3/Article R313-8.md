@@ -23,7 +23,7 @@ travail soit reconnue par le médecin conseil ;
 indemnités journalières au titre de la législation sur les accidents du travail
 ainsi que chaque journée pendant laquelle l'assuré a perçu, au titre de la même
 législation, une rente ou allocation correspondant à une incapacité permanente
-d'au moins 66 2/3 p. 100 ;
+d'au moins 66 2/3 % ;
 
 4°) chaque journée de stage effectuée dans un établissement de rééducation
 mentionné à l'article R. 481-1 par le titulaire d'une rente allouée en vertu de
@@ -32,3 +32,9 @@ l'incapacité à laquelle cette rente correspond ;
 
 5°) chaque journée pendant laquelle l'assuré fait l'objet d'une détention
 provisoire.
+
+Pour l'ouverture du droit aux prestations prévues par les articles R. 313-2 à R.
+313-6, chaque journée de perception de l'allocation journalière de présence
+parentale est considérée comme équivalant à quatre fois la valeur du salaire
+minimum de croissance au 1er janvier qui précède immédiatement la période de
+référence ou à quatre heures de travail salarié.
