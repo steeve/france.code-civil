@@ -1,18 +1,23 @@
 Article R4133-21
 ----
-Le comité élit parmi ses membres un président et un vice-président qui supplée
-le président en cas d'empêchement.
+Les fonctions des membres des conseils nationaux et régionaux de la formation
+médicale continue et du comité de coordination de la formation médicale continue
+sont exercées à titre gratuit.
 
-Il se réunit au moins trois fois par an, sur convocation de son président.
+Les membres de ces instances perçoivent des indemnités forfaitaires destinées à
+compenser la perte de ressources professionnelles entraînée par leurs fonctions
+au sein des instances. Les fonctions donnant lieu à indemnisation et le montant
+des indemnités forfaitaires sont déterminés par arrêté du ministre chargé de la
+santé et du ministre chargé du budget. Ce montant ne peut excéder un total égal,
+par demi-journée, à dix fois la valeur de la consultation du médecin généraliste
+telle qu'elle résulte de l'application des articles L. 162-5 ou L. 162-38 du
+code de la sécurité sociale.
 
-Il siège valablement si au moins la moitié de ses membres est présente. Le
-quorum est apprécié en début de séance. Toutefois, quand le quorum n'est pas
-atteint après une convocation régulièrement faite, le comité délibère
-valablement sur les points inscrits à l'ordre du jour de la première réunion
-lors d'une seconde réunion qui doit avoir lieu dans un délai de huit à quinze
-jours. Les décisions sont prises à la majorité des membres présents. En cas de
-partage égal des voix, la voix du président est prépondérante.
-
-Il adopte un règlement intérieur précisant ses modalités de fonctionnement.
-
-Il peut entendre des personnalités extérieures.
+Les employeurs des membres salariés de ces mêmes instances peuvent à leur
+demande obtenir le remboursement direct, dans des limites fixées par arrêté du
+ministre chargé de la santé et du ministre chargé du budget, des rémunérations
+maintenues aux praticiens pour leur permettre de participer aux travaux des
+conseils pendant leur temps de travail, ainsi que les avantages et charges y
+afférents. Les conditions de remboursement sont prévues par convention. Cette
+convention est conforme à une convention type dont le modèle est fixé par arrêté
+du ministre chargé de la santé et du ministre chargé du budget.

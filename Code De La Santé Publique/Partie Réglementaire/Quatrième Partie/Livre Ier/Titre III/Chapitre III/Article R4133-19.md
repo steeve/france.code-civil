@@ -1,14 +1,14 @@
 Article R4133-19
 ----
-Le Comité de coordination de la formation médicale continue a pour mission :
+Les désignations des membres du conseil régional sont publiées au recueil des
+actes administratifs des départements de la région.
 
-- de formuler à l'attention des conseils nationaux tous avis et propositions
-susceptibles d'améliorer l'efficacité des actions menées et d'harmoniser leur
-fonctionnement ainsi que la cohérence des procédures et des critères d'agrément
-;
+Si un membre du conseil régional cesse ses fonctions avant le terme normal de
+son mandat, quelle qu'en soit la cause, son remplacement intervient dans les
+mêmes conditions que la nomination et pour la durée du mandat restant à courir.
 
-- de procéder aux études et travaux que les conseils nationaux décident de lui
-confier.
-
-Le comité peut demander aux conseils nationaux la communication des documents
-qui peuvent lui être utiles pour l'exercice de ses missions.
+Lorsqu'un membre régulièrement convoqué s'est abstenu pendant six mois
+d'assister aux séances du conseil régional, le président peut demander au
+conseil national concerné de le déclarer démissionnaire d'office et de pourvoir
+à son remplacement. Il en est de même en cas de défaut répété et non justifié de
+participation aux travaux du conseil.

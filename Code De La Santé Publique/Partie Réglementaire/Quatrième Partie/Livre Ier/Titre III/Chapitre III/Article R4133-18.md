@@ -1,10 +1,30 @@
 Article R4133-18
 ----
-Les fonctions des membres des conseils sont exercées à titre gratuit.
+Le conseil régional de la formation médicale continue prévu à l'article L.
+4133-4 est composé de 12 membres nommés par le préfet de région.
 
-Le montant de l'indemnité forfaitaire destinée à compenser la perte de
-ressources liée à la réduction de l'activité professionnelle entraînée par ces
-fonctions, dans la limite d'un montant égal, par demi-journée, à dix fois la
-valeur de la consultation du médecin généraliste telle qu'elle résulte de
-l'application des articles L. 162-5 ou L. 162-38 du code de la sécurité sociale
-est fixé par arrêté du ministre chargé de la santé.
+Le conseil régional comprend :
+
+1° Trois membres désignés par le Conseil national de la formation médicale
+continue des médecins libéraux ;
+
+2° Trois membres désignés par le Conseil national de la formation continue des
+médecins salariés non hospitaliers ;
+
+3° Trois membres désignés par le Conseil national de la formation continue des
+personnels mentionnés à l'article L. 6155-1 ;
+
+4° Trois membres désignés par le conseil régional de l'ordre des médecins.
+
+Les membres sont désignés pour une durée de cinq ans, renouvelable une fois.
+
+Les fonctions de membres du conseil régional de la formation médicale continue
+sont incompatibles avec les fonctions de membre d'une chambre disciplinaire au
+sein de l'ordre des médecins.
+
+Les membres des conseils régionaux doivent rédiger une déclaration d'intérêt
+selon un modèle établi par arrêté du ministre chargé de la santé, pris après
+avis du conseil national. Ils s'engagent à déclarer tout changement de leur
+situation. Les déclarations d'intérêt sont conservées par les conseils régionaux
+durant les cinq ans suivant la fin du mandat des intéressés. Elles sont mises à
+la disposition du ministre chargé de la santé sur sa demande.

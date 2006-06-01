@@ -1,23 +1,20 @@
 Article R4133-13
 ----
-Le Conseil national de la formation médicale continue des médecins salariés non
-hospitaliers est composé de :
+Le comité est composé de représentants désignés par chacun des conseils
+nationaux de formation médicale continue, à raison de :
 
-1° Deux représentants de l'ordre des médecins nommés sur proposition du Conseil
-national de l'ordre ;
+1° Quatre représentants du Conseil national de la formation médicale continue
+des médecins libéraux, dont un membre du Conseil de l'ordre national des
+médecins, nommés sur proposition de ce conseil ;
 
-2° Quatre représentants enseignants des unités de formation et de recherche
-médicale, dont au moins un enseignant de médecine générale et un enseignant de
-santé publique, nommés sur proposition des directeurs des unités de formation et
-de recherche médicale après avis des présidents des universités concernées ;
+2° Quatre représentants du Conseil national de la formation médicale continue
+des médecins salariés non hospitaliers, dont un représente les unités de
+formation et de recherche médicales, nommés sur proposition de ce conseil ;
 
-3° Six représentants des médecins salariés non hospitaliers sur proposition des
-organisations syndicales représentatives au plan national ;
+3° Quatre représentants du Conseil national de la formation médicale continue
+des personnels mentionnés à l'article L. 6155-1, dont un représente les
+commissions médicales d'établissement, nommés sur proposition de ce conseil ;
 
-4° Deux représentants des organismes de formation sur proposition des organismes
-de formation ;
+4° Trois représentants du ministre chargé de la santé ;
 
-5° Deux personnalités qualifiées.
-
-Le directeur général de la santé ou son représentant siège avec voix
-consultative au conseil national.
+5° Un représentant du ministre chargé de l'enseignement supérieur.

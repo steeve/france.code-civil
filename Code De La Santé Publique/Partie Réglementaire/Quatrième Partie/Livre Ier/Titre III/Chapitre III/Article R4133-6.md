@@ -1,17 +1,17 @@
 Article R4133-6
 ----
-Après avis de l'Agence nationale d'accréditation et d'évaluation en santé, les
-conseils agréent pour cinq ans les organismes aptes à effectuer les procédures
-d'évaluation mentionnées à l'article L. 4133-1 qui en font la demande.
-L'agrément est délivré sur la base d'un cahier des charges, élaboré par chacun
-des conseils et précisant les conditions à remplir. Le cahier des charges prend
-en compte les critères suivants :
+En application des articles L. 4133-2 et L. 6155-1, l'évaluation de la mise en
+oeuvre du dispositif de formation continue prévue à l'article R. 4133-1 fait
+l'objet d'un rapport annuel comprenant notamment :
 
-1° Qualité des procédures d'évaluation ;
+1° Les orientations nationales et leurs évolutions ;
 
-2° Transparence des financements ;
+2° Un bilan des formations continues réalisées pendant l'année ;
 
-3° Engagement relatif à l'absence de promotion en faveur d'un produit de santé ;
+3° Une synthèse des rapports annuels régionaux mentionnés à l'article R. 4133-17
+;
 
-4° Acceptation du principe d'une évaluation externe du fonctionnement de
-l'organisme et de la qualité des procédures d'évaluation.
+4° Le cas échéant, des propositions d'évolution du système.
+
+Ce rapport est adressé au ministre chargé de la santé avant le 15 mai de l'année
+suivant celle qui fait l'objet du rapport.

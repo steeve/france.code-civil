@@ -6,18 +6,17 @@ suivi d'actions de formation médicale continue. Ces recommandations sont
 communiquées par écrit au médecin évalué qui peut, dans le délai d'un mois,
 produire des observations en réponse. A l'issue de ce délai, le médecin habilité
 ou l'organisme agréé communique ces recommandations accompagnées,
-éventuellement, des observations en réponse au conseil régional de la formation
-médicale continue.
+éventuellement, des observations en réponse à la commission régionale mentionnée
+à l'article D. 4133-24.
 
 Dès lors que le médecin a satisfait à ces recommandations, l'organisme agréé ou
-le médecin habilité en informe le conseil régional de la formation médicale
-continue.
+le médecin habilité en informe la commission régionale.
 
 Pour l'exercice de leur mission, les médecins habilités ou organismes agréés
-peuvent, avec l'autorisation du médecin, demander communication au conseil
-régional de la formation médicale continue des certificats d'évaluation en sa
-possession assortis, le cas échéant, des recommandations élaborées par
-l'organisme agréé ou le médecin habilité.
+peuvent, avec l'autorisation du médecin, demander communication à la commission
+régionale des certificats d'évaluation en sa possession assortis, le cas
+échéant, des recommandations élaborées par l'organisme agréé ou le médecin
+habilité.
 
 Lorsque, au cours de l'évaluation, sont constatés des faits ou manquements
 mettant en jeu la sécurité des patients, l'organisme agréé le signale au médecin

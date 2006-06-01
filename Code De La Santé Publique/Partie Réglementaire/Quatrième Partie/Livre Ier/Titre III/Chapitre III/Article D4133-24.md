@@ -7,5 +7,9 @@ ans à un ou plusieurs des dispositifs mentionnés aux articles D. 4133-25 et D.
 par la Haute Autorité de santé après avis des conseils nationaux de la formation
 médicale continue compétents, le caractère complet de l'évaluation.
 
-Le respect de cette obligation est validé par le conseil régional de la
-formation médicale continue.
+Le respect de cette obligation est validé par une commission placée auprès du
+conseil régional de l'ordre des médecins. Cette commission est composée de trois
+membres désignés par chacun des conseils nationaux de la formation médicale
+continue des médecins n'exerçant pas de fonction élective au sein du conseil de
+l'ordre des médecins, et de trois membres désignés par le conseil régional de
+l'ordre.

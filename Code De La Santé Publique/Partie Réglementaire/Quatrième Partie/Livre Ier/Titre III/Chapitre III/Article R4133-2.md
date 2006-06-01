@@ -14,12 +14,19 @@ compte les critères suivants :
 
 1° Qualité scientifique et pédagogique des programmes proposés ;
 
-2° Transparence des financements ;
+2° Conformité aux référentiels et aux bonnes pratiques de la profession dans
+tous les thèmes abordés ;
 
-3° Engagement relatif à l'absence de toute promotion en faveur d'un produit de
+3° Transparence des financements ;
+
+4° Engagement relatif à l'absence de toute promotion en faveur d'un produit de
 santé et à l'utilisation de la dénomination commune des médicaments ;
 
-4° Respect des orientations nationales définies par le conseil national ;
+5° Respect des orientations nationales définies par le conseil national ;
 
-5° Acceptation du principe d'une évaluation externe du fonctionnement de
+6° Acceptation du principe d'une évaluation externe du fonctionnement de
 l'organisme de formation et de la qualité des formations.
+
+Le silence gardé par les conseils nationaux pendant un délai de quatre mois à
+compter de la réception du dossier complet de la demande d'agrément vaut
+décision de rejet.
