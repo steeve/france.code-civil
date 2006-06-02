@@ -1,13 +1,26 @@
 Article R4133-8
 ----
-L'agrément peut être retiré ou suspendu par le conseil lorsque l'organisme cesse
-de satisfaire aux conditions prévues à l'article R. 4133-6 ou n'a pas transmis
-le bilan mentionné à l'article R. 4133-7. Lorsque le conseil envisage de
-suspendre ou de retirer l'agrément, il informe l'organisme de son intention par
-lettre recommandée avec avis de réception en indiquant les motifs de la décision
-envisagée. L'organisme dispose d'un délai d'un mois à compter de la date à
-laquelle il a été informé pour présenter ses observations.
+Le Conseil national de la formation médicale continue des médecins salariés non
+hospitaliers est composé de :
 
-La suspension ou le retrait de l'agrément fait l'objet d'une notification qui
-est adressée à l'organisme par lettre recommandée avec demande d'avis de
-réception.
+1° Deux représentants de l'ordre des médecins nommés sur proposition du Conseil
+national de l'ordre ;
+
+2° Quatre représentants enseignants des unités de formation et de recherche
+médicale, dont au moins un enseignant de médecine générale et un enseignant de
+santé publique, nommés sur proposition des directeurs des unités de formation et
+de recherche médicale après avis des présidents des universités concernées ;
+
+3° Six représentants des médecins salariés non hospitaliers sur proposition des
+organisations syndicales représentatives au plan national ;
+
+4° Deux représentants des organismes de formation sur proposition des organismes
+de formation ;
+
+5° Deux personnalités qualifiées ;
+
+6° Un représentant du service de santé des armées, sur proposition du ministre
+chargé de la défense.
+
+Le directeur général de la santé ou son représentant siège avec voix
+consultative au conseil national.

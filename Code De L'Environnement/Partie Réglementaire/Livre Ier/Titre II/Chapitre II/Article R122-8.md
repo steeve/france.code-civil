@@ -21,7 +21,8 @@ demandes de changement de titulaire, des changements de destination de l'énergi
 ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des
 ouvrages ;
 
-4° Ouverture de travaux d'exploitation de mines ;
+4° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à
+autorisation en vertu du décret n° 2006-649 du 2 juin 2006.
 
 5° Aménagements de stockages souterrains de gaz, d'hydrocarbures ou de produits
 chimiques ;

@@ -25,11 +25,11 @@ des demandes de changement de titulaire, des changements de destination de
 l'énergie ou des avenants ne modifiant pas la consistance ou le mode de
 fonctionnement des ouvrages ;
 
-5° Travaux de recherches de mines soumis à déclaration en vertu du décret n°
-95-696 du 9 mai 1995 relatif à l'ouverture des travaux miniers et à la police
-des mines et travaux de recherches de carrières soumis à autorisation dans les
-zones définies aux articles 109 et 109-1 du code minier et en application du
-décret n° 97-181 du 28 février 1997 ;
+5° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à
+déclaration en vertu du décret n° 2006-649 du 2 juin 2006 et travaux de
+recherches de carrières soumis à autorisation dans les zones définies aux
+articles 109 et 109-1 du code minier et en application du décret n° 97-181 du 28
+février 1997 ;
 
 6° Travaux de défrichement et de premiers boisements soumis à autorisation et
 portant sur une superficie inférieure à 25 hectares ;
