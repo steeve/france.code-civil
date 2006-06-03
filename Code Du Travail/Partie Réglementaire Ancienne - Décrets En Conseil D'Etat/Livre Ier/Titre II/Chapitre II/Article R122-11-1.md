@@ -1,7 +1,6 @@
 Article R122-11-1
 ----
-Pour l'application du troisième alinéa de l'article L. 122-28-1 et du premier
-alinéa de l'article L. 122-28-9 :
+Pour l'application du quatrième alinéa de l'article L. 122-28-1 :
 
 1° La gravité de la maladie ou de l'accident est constatée par un certificat
 médical qui atteste également que l'état de l'enfant rend nécessaire la présence

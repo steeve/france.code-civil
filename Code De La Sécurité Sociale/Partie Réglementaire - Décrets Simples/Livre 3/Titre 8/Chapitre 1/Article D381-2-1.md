@@ -12,4 +12,4 @@ libre choix d'activité de la prestation d'accueil du jeune enfant n'excèdent p
 considérée.
 
 Ces dispositions sont applicables au membre du couple, ayant au moins un enfant
-à charge, qui bénéficie de l'allocation de présence parentale.
+à charge, qui bénéficie de l'allocation journalière de présence parentale.
