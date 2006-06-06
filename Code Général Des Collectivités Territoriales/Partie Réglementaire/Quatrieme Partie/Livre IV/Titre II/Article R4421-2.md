@@ -1,8 +1,8 @@
 Article R4421-2
 ----
-Le conseil des sites de Corse comprend vingt membres communs à ces diverses
-formations, répartis en trois collèges, et nommés dans les conditions prévues à
-l'article R. 4421-6 :
+Le conseil des sites de Corse comprend vingt membres communs aux formations
+prévues aux 1°, 2° et 4° de l'article R4421-1, répartis en trois collèges, et
+nommés dans les conditions prévues à l'article R. 4421-6 :
 
 1° Huit membres appartenant au collège des représentants de l'Etat, membres de
 droit :
@@ -27,14 +27,16 @@ territoriales :
 
 a) Le président du conseil exécutif de Corse ;
 
-b) Trois représentants de la collectivité territoriale de Corse, dont deux
-désignés par l'Assemblée de Corse et un par le conseil exécutif de Corse ;
+b) Deux représentants de la collectivité territoriale de Corse, respectivement
+désignés par l'Assemblée de Corse et par le conseil exécutif de Corse ;
 
 c) Un représentant désigné par chaque conseil général ;
 
 d) Un représentant des communes de chaque département nommé par le président du
 conseil exécutif de Corse, sur proposition de l'association des maires de chaque
-département.
+département ;
+
+e) Un représentant d'établissement public de coopération intercommunale.
 
 3° Quatre membres au titre du troisième collège :
 
