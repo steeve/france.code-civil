@@ -9,12 +9,11 @@ l'article R. 413-2.
 Lorsque l'objet de l'établissement est différent de celui mentionné à l'alinéa
 précédent ou que la présentation au public porte sur des animaux figurant sur la
 liste prévue au même alinéa, le certificat de capacité est délivré après avis de
-la commission départementale des sites, perspectives et paysages siégeant dans
-la formation de faune sauvage captive.
+la commission départementale de la nature, des paysages et des sites.
 
 Un arrêté du ministre chargé de la protection de la nature, pris après avis de
 la commission instituée par l'article R. 413-2, fixe, en fonction des diplômes
 et des conditions d'expérience, ainsi, éventuellement, que des espèces animales
 concernées, les cas où le certificat de capacité peut être délivré sans
-consultation de la commission départementale des sites, perspectives et
-paysages.
+consultation de la commission départementale de la nature, des paysages et des
+sites.

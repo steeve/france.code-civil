@@ -12,7 +12,7 @@ nettoyés et rincés au moins une fois par an. Lorsque les conditions
 d'exploitation le permettent et que l'eau distribuée ne présente aucun signe de
 dégradation de sa qualité, la fréquence de vidange, de nettoyage et de rinçage
 peut être réduite sur décision du préfet prise après avis du conseil
-départemental d'hygiène.
+départemental de l'environnement et des risques sanitaires et technologiques.
 
 Le silence gardé pendant plus de quatre mois sur cette demande d'autorisation
 vaut décision de rejet.

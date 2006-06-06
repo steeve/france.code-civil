@@ -12,8 +12,7 @@ diplôme ou le titre préparé de trois années ;
 2. Les personnes justifiant d'un temps d'exercice d'une activité professionnelle
 en relation avec la qualification visée par le diplôme ou le titre préparé d'une
 durée de cinq ans et d'un niveau minimal de qualification qui est déterminé par
-le comité départemental de la formation professionnelle, de la promotion sociale
-et de l'emploi ;
+la commission départementale de l'emploi et de l'insertion ;
 
 3. Les personnes possédant une expérience professionnelle de cinq ans en rapport
 avec le diplôme ou le titre préparé par l'apprenti après avis du recteur, du

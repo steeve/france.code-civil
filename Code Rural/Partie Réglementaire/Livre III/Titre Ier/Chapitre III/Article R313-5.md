@@ -1,24 +1,18 @@
 Article R313-5
 ----
-Les sections sont placées sous la présidence du préfet ou de son représentant.
+La commission départementale d'orientation de l'agriculture et les commissions
+prévues aux articles R. 313-3 et R. 313-4 peuvent créer une ou plusieurs
+sections spécialisées pour exercer les attributions consultatives qui leur sont
+dévolues s'agissant de décisions individuelles en matière de structures
+agricoles, d'aides aux exploitants, aux exploitations, aux cultures et aux modes
+de production.
 
-Sont membres de toutes les sections :
+Les commissions ne peuvent déléguer aux sections spécialisées leurs attributions
+consultatives relatives aux questions générales d'orientation des politiques
+publiques, aux actes réglementaires, aux choix des critères généraux
+d'attribution des aides individuelles, des références de production ou des
+droits à aide ainsi qu'aux décisions concernant les sociétés d'aménagement
+foncier et d'établissement rural.
 
-1° Le président du conseil général ou son représentant ;
-
-2° Le directeur départemental de l'agriculture et de la forêt ou son
-représentant ;
-
-3° Le trésorier-payeur général ou son représentant ;
-
-4° Le président de la chambre d'agriculture ou son représentant ;
-
-5° Les huit représentants des organisations syndicales d'exploitants agricoles à
-vocation générale mentionnées à l'article R. 313-1.
-
-Conformément à l'avis de la commission départementale d'orientation de
-l'agriculture, le préfet désigne les autres membres de la commission appelés à
-siéger dans chaque section en fonction de son objet.
-
-Dans les départements d'outre-mer, le président du conseil régional ou son
-représentant est également membre de toutes les sections.
+Les sections spécialisées rendent compte régulièrement de leur activité aux
+commissions et établissent à leur intention un bilan annuel.

@@ -1,12 +1,12 @@
 Article R341-21
 ----
-Lorsque la commission siège en formation dite "de la faune sauvage captive",
-elle comprend en outre cinq personnalités compétentes dans les sciences
-biologiques et pour l'entretien en captivité d'animaux de la faune sauvage
-désignées par le préfet, dont :
+La formation spécialisée dite " de la publicité " exerce les compétences
+dévolues à la commission au titre du 4° du II de l'article R. 341-16.
 
-1° Deux scientifiques compétents en matière de faune sauvage captive ;
+Les membres du quatrième collège sont des professionnels représentant les
+entreprises de publicité et les fabricants d'enseignes.
 
-2° Trois responsables d'établissements pratiquant respectivement l'élevage ou la
-location, la vente ou le transit ou la présentation au public d'animaux
-d'espèces non domestiques.
+Le maire de la commune intéressée par le projet ou le président du groupe de
+travail intercommunal prévu au II de l'article L. 581-14 est invité à siéger à
+la séance au cours de laquelle le projet est examiné et a, sur celui-ci, voix
+délibérative.

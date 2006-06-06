@@ -5,8 +5,9 @@ partie : Législative) est reconnue, sur demande, par le ministre chargé des
 anciens combattants et des victimes de guerre, qui peut déléguer ses pouvoirs
 aux préfets.
 
-La demande de carte est obligatoirement soumise à l'avis d'une commission
-départementale dont la composition est prévue à l'article R. 375.
+La demande de carte est obligatoirement soumise à l'avis du conseil
+départemental pour les anciens combattants et victimes de guerre et la mémoire
+de la Nation.
 
 L'avis d'une commission nationale dont la composition est prévue à l'article R.
 374 doit, en outre, être obligatoirement recueilli par le ministre chargé des

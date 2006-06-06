@@ -1,11 +1,7 @@
 Article R224-12
 ----
-L'examen médical prévu au 1° du I de l'article R. 221-13 est effectué avant que
-la commission de suspension du permis de conduire ne soit appelée à statuer sur
-le dossier de l'auteur de l'infraction.
-
-L'examen médical prévu au 2° du I du même article intervient avant l'expiration
-de la décision administrative de suspension du permis de conduire.
+L'examen médical prévu au I de l'article R. 221-13 est effectué avant
+l'expiration de la décision administrative de suspension du permis de conduire.
 
 Dans le cas où, à la suite d'un examen médical, le préfet est appelé à prononcer
 la restriction de la validité, la suspension ou l'annulation du permis de

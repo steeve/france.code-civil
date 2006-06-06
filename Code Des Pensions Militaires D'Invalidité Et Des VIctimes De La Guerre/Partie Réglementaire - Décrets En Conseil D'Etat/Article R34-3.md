@@ -4,8 +4,8 @@ Lorsqu'un pensionné à 100 % pour tuberculose demande à bénéficier de
 l'allocation prévue à l'article L. 38, la requête est instruite du point de vue
 médical par l'organisme antituberculeux ou, en ce qui concerne les pensionnés
 qui ne peuvent se présenter au dispensaire, par le médecin désigné par le
-préfet, après avis du conseil départemental d'hygiène, pour assurer leur
-surveillance.
+préfet, après avis du conseil départemental de l'environnement et des risques
+sanitaires et technologiques, pour assurer leur surveillance.
 
 Le dossier ou son double est transmis au centre de réforme qui doit recueillir
 l'avis de trois médecins phtisiologues accrédités auprès de lui et désignés par

@@ -1,10 +1,7 @@
 Article R214-2
 ----
-Le comité peut organiser en son sein des sections spécialisées chargées plus
-particulièrement des sujets liés aux animaux de compagnie, aux animaux élevés à
-des fins agricoles ou aux mauvais traitements envers les animaux domestiques ou
-sauvages apprivoisés ou tenus en captivité.
-
-Les représentants des syndicats ou organisations professionnelles et associatifs
-du département qui composent le comité informent leurs membres et leurs
-adhérents de l'activité du comité.
+Le conseil départemental de la santé et de la protection animales est présidé
+par le préfet et comprend des représentants des services de l'Etat et de ses
+établissements publics, de collectivités territoriales, d'organisations
+syndicales et professionnelles agricoles et vétérinaires ainsi que
+d'associations de protection animale et de protection de la nature.

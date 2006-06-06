@@ -26,9 +26,8 @@ agricoles désigné par le préfet ;
 Le président de la commission agricole départementale des prisonniers et
 déportés instituée par l'arrêté ministériel du 20 novembre 1944 ;
 
-Un combattant volontaire de la Résistance désigné par la commission
-départementale prévue à l'article R. 260, de préférence parmi les membres de la
-commission qualifiée du conseil d'administration de l'office départemental ;
+Un combattant volontaire de la Résistance désigné par le conseil départemental
+pour les anciens combattants et victimes de guerre et la mémoire de la Nation ;
 
 Si la demande de prêt est déposée par un artisan rural, le président de la
 chambre de métiers et de l'artisanat ou son représentant ;

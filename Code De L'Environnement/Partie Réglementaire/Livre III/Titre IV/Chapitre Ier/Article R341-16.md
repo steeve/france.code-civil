@@ -1,59 +1,43 @@
 Article R341-16
 ----
-I. - La commission départementale des sites, perspectives et paysages instituée
-dans chaque département est composée de quatre formations : la formation dite "
-des sites et paysages ", la formation dite " de la protection de la nature ", la
-formation dite " de la faune sauvage captive " et la formation dite " de la
-publicité ".
+La commission départementale de la nature, des paysages et des sites concourt à
+la protection de la nature, à la préservation des paysages, des sites et du
+cadre de vie et contribue à une gestion équilibrée des ressources naturelles et
+de l'espace dans un souci de développement durable. Elle est régie par les
+dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006.
 
-II. - Elle est chargée :
+I.-Au titre de la protection de la nature, la commission est notamment chargée
+d'émettre un avis, dans les cas et selon les modalités prévus par les
+dispositions législatives ou réglementaires, sur les projets d'actes
+réglementaires et individuels portant sur les réserves naturelles, les biotopes,
+la faune et la flore, le patrimoine géologique et les établissements hébergeant
+des animaux d'espèces non domestiques autres que les espèces de gibier dont la
+chasse est autorisée.
 
-1° Dans sa formation dite " des sites et paysages " :
+Elle constitue une instance de concertation qui peut être consultée sur la
+constitution, la gestion et l'évaluation du réseau Natura 2000 dans le
+département.
 
-a) De veiller sur les sites de caractère artistique, historique, scientifique,
-légendaire ou pittoresque du département et d'intervenir à cet effet toutes les
-fois que ceux-ci sont menacés ;
+II.-Au titre de la préservation des sites et des paysages, du cadre de vie et de
+la gestion équilibrée de l'espace, la commission exerce notamment, dans les cas
+et selon les modalités prévus par les dispositions législatives ou
+réglementaires, les attributions suivantes :
 
-b) De prendre l'initiative des inscriptions et des classements de sites qu'elle
-juge utiles ;
+1° Elle prend l'initiative des inscriptions et des classements de site, émet un
+avis sur les projets relatifs à ces classements et inscriptions ainsi qu'aux
+travaux en site classé ;
 
-c) D'émettre un avis sur les propositions d'inscription ou de classement qui lui
-sont soumises ;
+2° Elle veille à l'évolution des paysages et peut être consultée sur les projets
+de travaux les affectant ;
 
-d) D'émettre un avis sur les questions dont elle est saisie en vertu de
-dispositions législatives ou réglementaires, notamment en application du code de
-l'urbanisme ;
+3° Elle émet les avis prévus par le code de l'urbanisme ;
 
-e) D'émettre un avis sur les questions relatives aux sites et paysages dont elle
-est saisie par le ministre chargé des sites ou par le préfet. Le préfet peut
-notamment la consulter sur les projets de travaux en site inscrit ainsi que sur
-tout projet dont l'importance des effets sur le paysage justifie sa
-consultation.
+4° Elle se prononce sur les questions posées par la publicité, les enseignes et
+les pré-enseignes ;
 
-2° Dans sa formation dite " de la protection de la nature " :
+5° Elle émet un avis sur les projets d'unités touristiques nouvelles.
 
-a) De proposer la création de réserves naturelles et les mesures spécifiques de
-protection intéressant la faune et la flore ou les biotopes du département ;
-
-b) D'émettre un avis sur les questions relatives à la conservation de la faune
-et de la flore, des eaux, des sols, des gisements de minéraux et de fossiles et,
-en général, des milieux naturels qu'il convient de préserver ;
-
-c) D'une façon générale, d'émettre un avis sur toutes les questions relatives à
-la protection de la nature dont elle est saisie par le préfet.
-
-3° Dans sa formation dite " de la faune sauvage captive " :
-
-a) D'émettre un avis sur les demandes de certificats de capacité pour
-l'entretien des animaux, présentées par les responsables des établissements
-hébergeant des animaux d'espèces non domestiques autres que les espèces de
-gibier dont la chasse est autorisée, dont elle est saisie par le préfet ;
-
-b) D'émettre un avis sur les demandes d'autorisations d'ouverture
-d'établissements relevant de la première catégorie définie à l'article R. 413-14
-du présent code.
-
-4° Dans sa formation dite " de la publicité " :
-
-D'émettre un avis sur les questions dont elle est saisie en application des
-articles L. 581-1 et suivants.
+III.-Au titre de la gestion équilibrée des ressources naturelles, la commission,
+dans les cas et selon les modalités prévus par les dispositions législatives ou
+réglementaires, élabore le schéma départemental des carrières et se prononce sur
+les projets de décisions relatifs aux carrières.

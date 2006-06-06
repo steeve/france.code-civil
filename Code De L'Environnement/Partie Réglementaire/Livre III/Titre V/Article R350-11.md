@@ -6,9 +6,9 @@ territoriale ou groupement de collectivités territoriales concerné. A défaut 
 réponse dans un délai de trois mois à compter de la transmission du projet, cet
 avis est réputé favorable.
 
-Le préfet recueille ensuite l'avis de la ou des commissions départementales des
-sites, perspectives et paysages et de la ou des commissions départementales
-d'aménagement foncier.
+Le préfet recueille ensuite l'avis de la ou des commissions départementales de
+la nature, des paysages et des sites, et de la ou des commissions
+départementales d'aménagement foncier.
 
 Le préfet consulte, en outre, le comité de massif ou le conseil de rivage
 territorialement concerné, lorsque le projet de directive affecte soit une zone

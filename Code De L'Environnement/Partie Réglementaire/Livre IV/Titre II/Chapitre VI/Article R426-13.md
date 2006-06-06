@@ -24,8 +24,9 @@ en procédant, de façon répétée et sans respecter les assolements pratiqués
 la région, à des cultures de nature à l'attirer et si les titulaires de droits
 de chasse ont exécuté leur plan de chasse. Il donne son appréciation, le cas
 échéant, sur les raisons pour lesquelles les dates extrêmes habituelles
-d'enlèvement des récoltes fixées par la commission départementale
-d'indemnisation ont été dépassées.
+d'enlèvement des récoltes fixées par la commission départementale de la chasse
+et de la faune sauvage dans sa formation spécialisée pour l'indemnisation des
+dégâts de gibier aux cultures et aux récoltes agricoles ont été dépassées.
 
 L'estimateur transmet son rapport au président de la fédération départementale
 dans un délai de quinze jours suivant l'expertise.

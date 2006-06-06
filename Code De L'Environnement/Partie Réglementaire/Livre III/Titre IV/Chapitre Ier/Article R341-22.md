@@ -1,13 +1,11 @@
 Article R341-22
 ----
-Lorsque la commission siège en formation dite " de la publicité ", elle comprend
-en outre :
+La formation spécialisée dite " des unités touristiques nouvelles " exerce les
+compétences dévolues à la commission au titre du 5° du II de l'article R.
+341-16.
 
-1° Le maire de la commune concernée par le projet inscrit à l'ordre du jour ou
-le président du groupe de travail intercommunal prévu au II de l'article L.
-581-14. Le maire ou le président du groupe de travail siège avec voix
-délibérative ;
-
-2° Trois représentants des entreprises de publicité et un représentant des
-fabricants d'enseignes désignés par le préfet. Ces quatre représentants siègent
-avec voix consultative.
+Les membres du deuxième collège représentent des collectivités territoriales et
+des groupements intercommunaux appartenant au massif concerné et les membres du
+quatrième collège sont des représentants des chambres consulaires et
+d'organisations socioprofessionnelles intéressées par les unités touristiques
+nouvelles.

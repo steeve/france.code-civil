@@ -27,11 +27,10 @@ Le président de la commission interprofessionnelle départementale patronale de
 commerce, de l'industrie ou de l'artisanat instituée par arrêté ministériel du
 30 novembre 1944 ou son représentant ;
 
-Un combattant volontaire de la Résistance désigné par la commission
-départementale prévue à l'article R. 260, de préférence parmi les membres de la
-commission qualifiée du conseil d'administration de l'office départemental, et,
-s'il s'agit d'une entreprise sinistrée, le délégué départemental du ministère de
-l'équipement et du logement ou son représentant ;
+Un combattant volontaire de la Résistance désigné par le conseil départemental
+pour les anciens combattants et victimes de guerre et la mémoire de la Nation,
+et, s'il s'agit d'une entreprise sinistrée, le délégué départemental du
+ministère de l'équipement et du logement ou son représentant ;
 
 A titre consultatif, le président de la banque populaire dont la circonscription
 comprend la localité où s'exerce l'activité du demandeur ou son représentant.

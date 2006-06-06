@@ -1,7 +1,9 @@
 Article R426-16
 ----
-La décision de la commission départementale peut être contestée par le réclamant
-ou le président de la fédération départementale devant la commission nationale
+La décision de la commission départementale de la chasse et de la faune sauvage
+dans sa formation spécialisée pour l'indemnisation des dégâts de gibier aux
+cultures et aux récoltes agricoles peut être contestée par le réclamant ou le
+président de la fédération départementale devant la commission nationale
 d'indemnisation, par lettre recommandée avec accusé de réception, dans un délai
 de quinze jours à compter de la notification de cette décision.
 

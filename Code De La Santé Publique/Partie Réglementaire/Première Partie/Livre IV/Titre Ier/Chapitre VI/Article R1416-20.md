@@ -1,11 +1,13 @@
 Article R1416-20
 ----
-Le préfet du département et, à Paris, le cas échéant, le préfet de police,
-convoque les réunions du conseil dont il fixe l'ordre du jour.
+Lorsqu'il est consulté sur les déclarations d'insalubrité, le conseil peut se
+réunir en formation spécialisée, présidée par le préfet et comprenant :
 
-Les membres du conseil reçoivent, huit jours au moins avant la date de la
-réunion, sauf en cas d'urgence, une convocation écrite comportant l'ordre du
-jour ainsi que les documents nécessaires à l'examen des affaires inscrites.
+1° Trois représentants des services de l'Etat ;
 
-La direction départementale des affaires sanitaires et sociales assure le
-secrétariat du conseil.
+2° Deux représentants des collectivités territoriales ;
+
+3° Trois représentants d'associations et d'organismes, dont un représentant
+d'associations d'usagers et un représentant de la profession du bâtiment ;
+
+4° Deux personnalités qualifiées dont un médecin.

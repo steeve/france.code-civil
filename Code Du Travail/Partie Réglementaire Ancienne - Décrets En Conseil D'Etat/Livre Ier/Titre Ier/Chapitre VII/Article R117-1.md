@@ -7,11 +7,11 @@ l'apprentissage pouvant être accueillis simultanément dans une entreprise ou u
 Chaque maître d'apprentissage peut en outre accueillir un apprenti dont la
 formation est prolongée en application de l'article L. 117-9.
 
-Le comité départemental de la formation professionnelle, de la promotion sociale
-et de l'emploi peut délivrer des dérogations individuelles aux plafonds définis
-par le premier alinéa, valables pour 5 ans au plus et renouvelables, si la
-qualité de la formation dispensée dans l'entreprise et les possibilités
-d'insertion professionnelle dans la branche considérée le justifient.
+La commission départementale de l'emploi et de l'insertion peut délivrer des
+dérogations individuelles aux plafonds définis par le premier alinéa, valables
+pour 5 ans au plus et renouvelables, si la qualité de la formation dispensée
+dans l'entreprise et les possibilités d'insertion professionnelle dans la
+branche considérée le justifient.
 
 Pour une branche professionnelle déterminée, un arrêté interministériel, pris
 après avis de la Commission professionnelle consultative nationale compétente

@@ -13,8 +13,9 @@ n'a pas été respectée pendant plus de trente jours au total au cours des douz
 mois précédents ;
 
 2° Ou bien considère que les conditions du 1° ne sont pas remplies et prend,
-après avis du conseil départemental d'hygiène sauf urgence, un arrêté dans
-lequel il mentionne les éléments suivants :
+après avis du conseil départemental de l'environnement et des risques sanitaires
+et technologiques sauf urgence, un arrêté dans lequel il mentionne les éléments
+suivants :
 
 a) L'unité de distribution concernée ;
 

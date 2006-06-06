@@ -1,60 +1,52 @@
 Article R414-5
 ----
-La commission consultative paritaire régionale des baux ruraux mentionnée à
-l'article L. 411-11 siège auprès du commissaire de la République de la région ;
-elle est appelée à donner son avis sur les affaires qui lui sont soumises en
-application des dispositions de ce même article.
+La commission consultative paritaire nationale des baux ruraux mentionnée à
+l'article L. 411-11 siège auprès du ministre de l'agriculture ; elle est chargée
+de donner son avis sur les affaires qui lui sont soumises en application des
+dispositions de ce même article.
 
-La commission comprend :
+Elle comprend :
 
-Un magistrat de l'ordre judiciaire désigné par le premier président de la cour
-d'appel du siège de la commission, président ;
+Le directeur général de l'agriculture et de la forêt au ministère ou son
+représentant, président ;
 
-Le directeur régional de l'agriculture et de la forêt ou son représentant ;
+Un représentant du garde des sceaux, ministre de la justice ;
 
-Le président de la chambre régionale d'agriculture ou son représentant ;
+Un représentant de l'assemblée permanente des chambres d'agriculture ;
 
-Un représentant, ou son suppléant, de chacune des organisations syndicales
-d'exploitants agricoles à vocation générale habilitées en application de
-l'article 2 du décret n° 90-187 du 28 février 1990 ;
+Un représentant de chacune des organisations syndicales d'exploitants agricoles
+à vocation générale habilitées en application de l'article 3 du décret n° 90-187
+du 28 février 1990 ;
 
-Un bailleur de baux ruraux de la région désigné, avec son suppléant, par
-l'organisation nationale des bailleurs de baux ruraux la plus représentative,
-cette organisation pouvant renoncer à désigner un représentant, auquel cas la
-commission comprend un propriétaire désigné, avec un suppléant, par
-l'organisation nationale de la propriété agricole la plus représentative ;
+Un représentant de la Fédération nationale de la propriété agricole ;
 
-Un représentant régional des fermiers et des métayers désigné, avec un
-suppléant, par l'organisation nationale des fermiers et des métayers la plus
-représentative ;
+Un représentant de la section nationale des bailleurs de baux ruraux de la
+fédération nationale des syndicats d'exploitants agricoles ;
 
-Un notaire désigné, avec un suppléant, par le président du conseil régional des
-notaires du siège de la commission ;
+Deux représentants de la section nationale des fermiers et métayers de la
+fédération nationale des syndicats d'exploitants agricoles ;
 
-Des représentants des bailleurs non preneurs et des représentants des preneurs
-non bailleurs élus par les membres bailleurs et par les membres preneurs,
-titulaires et suppléants, de chaque commission consultative paritaire
-départementale, à raison de deux titulaires et de deux suppléants par
-département dans les régions comprenant moins de quatre départements et d'un
-titulaire et d'un suppléant par département dans les régions comprenant plus de
-trois départements. Dans la région d'Ile-de-France, les départements du
-Val-de-Marne, des Hauts-de-Seine et de la Seine-Saint-Denis ainsi que Paris sont
-représentés ensemble par un seul bailleur et un seul preneur.
+Un membre du conseil supérieur du notariat désigné par son président ;
 
-Seuls les membres élus ont voix délibérative.
+Cinq représentants des bailleurs de baux ruraux désignés par le ministre de
+l'agriculture et choisis parmi les membres bailleurs des commissions
+départementales, sur proposition de la section précitée des bailleurs ;
 
-Les élections ont lieu par correspondance, à l'initiative du commissaire de la
-République de la région, quinze jours au moins après l'élection des membres des
-commissions départementales. Sont éligibles les électeurs éligibles aux
-commissions consultatives départementales. La composition de la commission est
-publiée par arrêté du commissaire de la République de la région inséré au
-recueil des actes administratifs de chacun des départements de la région.
+Cinq représentants des fermiers et métayers désignés par le ministre de
+l'agriculture et choisis parmi les membres fermiers ou métayers des commissions
+départementales, sur proposition de la section précitée des fermiers et
+métayers.
 
-La qualité de membre d'une commission consultative départementale est compatible
-avec celle de membre d'une commission consultative régionale.
+Les propositions des sections devront comporter un nombre de noms au moins
+double de celui des représentants à désigner.
 
-Le secrétariat de la commission est assuré par les services de l'ingénieur
-général chargé de la région.
+Le président et les autres membres de la commission sont pourvus de suppléants
+qui les remplacent en cas d'empêchement.
+
+Seuls les représentants des bailleurs, des fermiers et des métayers désignés par
+le ministre de l'agriculture ont voix délibérative.
+
+Le secrétariat de la commission est assuré par le ministère de l'agriculture.
 
 Les dispositions de l'article R. 414-2 sont applicables à la commission
-régionale.
+nationale.

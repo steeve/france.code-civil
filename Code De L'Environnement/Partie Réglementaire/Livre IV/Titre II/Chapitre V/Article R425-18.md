@@ -11,7 +11,7 @@ un plan de chasse est de droit en application de l'article R. 425-1.
 
 Le nombre maximal d'animaux qu'un chasseur est autorisé à capturer sur un
 territoire donné en application de l'arrêté ministériel mentionné au premier
-alinéa peut être réduit par arrêté préfectoral, après avis du conseil
-départemental de la chasse et de la faune sauvage, de la fédération
+alinéa peut être réduit par arrêté préfectoral, après avis de la commission
+départementale de la chasse et de la faune sauvage, de la fédération
 départementale des chasseurs et de l'Office national de la chasse et de la faune
 sauvage.

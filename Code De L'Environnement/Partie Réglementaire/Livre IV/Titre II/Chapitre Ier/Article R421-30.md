@@ -1,42 +1,31 @@
 Article R421-30
 ----
-I. - Le conseil départemental de la chasse et de la faune sauvage, présidé par
-le préfet, ou son représentant, comprend :
+La commission départementale de la chasse et de la faune sauvage est présidée
+par le préfet. Elle comprend :
 
-1° Le directeur régional de l'environnement, ou son représentant ;
+1° Des représentants de l'Etat et de ses établissements publics, dont le
+directeur départemental de l'agriculture et de la forêt, le directeur régional
+de l'environnement, le délégué régional de l'Office national de la chasse et de
+la faune sauvage ou, à défaut, un représentant désigné par le directeur général,
+ainsi qu'un représentant des lieutenants de louveterie ;
 
-2° Le directeur départemental de l'agriculture et de la forêt, ou son
-représentant ;
+2° Le président de la fédération départementale des chasseurs et des
+représentants des différents modes de chasse proposés par lui ;
 
-3° Le délégué régional de l'Office national de la chasse et de la faune sauvage,
-ou son représentant ;
+3° Des représentants des piégeurs ;
 
-4° Le directeur régional de l'Office national des forêts, ou son représentant ;
+4° Des représentants de la propriété forestière privée, de la propriété
+forestière non domaniale relevant du régime forestier et de l'Office national
+des forêts ;
 
-5° Le président du centre régional de la propriété forestière, ou son
-représentant ;
+5° Le président de la chambre d'agriculture du département et d'autres
+représentants des intérêts agricoles dans le département proposés par lui ;
 
-6° Le président de la chambre d'agriculture, ou son représentant ;
+6° Des représentants d'associations agréées au titre de l'article L. 141-1 du
+code de l'environnement actives dans le domaine de la conservation de la faune
+et de la protection de la nature ;
 
-7° Un représentant de l'organisation syndicale des exploitants agricoles la plus
-représentative dans le département ;
+7° Des personnalités qualifiées en matière scientifique et technique dans le
+domaine de la chasse ou de la faune sauvage.
 
-8° Le président de la fédération départementale des chasseurs, ou son
-représentant ;
-
-9° Six personnalités qualifiées, en matière cynégétique, nommées sur proposition
-du président de la fédération départementale des chasseurs ;
-
-10° Un représentant des lieutenants de louveterie nommé, sur proposition de
-l'association des lieutenants de louveterie la plus représentative dans le
-département lorsqu'elle existe ;
-
-11° Deux représentants d'organismes scientifiques ou personnes qualifiées dans
-les sciences de la nature ;
-
-12° Deux représentants d'associations agréées au titre de l'article L. 141-1,
-choisies parmi les associations les plus représentatives dans le domaine de la
-conservation de la faune et de la protection de la nature.
-
-II. - Le secrétariat du conseil est assuré par la direction départementale de
-l'agriculture et de la forêt.
+La commission est composée pour un tiers de représentants des chasseurs.

@@ -11,5 +11,5 @@ de la compétence du ministre chargé de l'emploi ;
 Au comité de coordination régional de l'emploi et de la formation
 professionnelle lorsqu'elles relèvent de la compétence du préfet de région ;
 
-Au comité départemental de la formation professionnelle, de la promotion sociale
-et de l'emploi lorsqu'elles relèvent de la compétence du préfet de département.
+A la commission départementale de l'emploi et de l'insertion lorsqu'elles
+relèvent de la compétence du préfet de département.

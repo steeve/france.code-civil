@@ -6,7 +6,8 @@ L'alimentation en eau des bassins doit être assurée à partir d'un réseau de
 distribution publique. Toute utilisation d'eau d'une autre origine doit faire
 l'objet d'une autorisation prise par arrêté préfectoral sur proposition du
 directeur départemental des affaires sanitaires et sociales après avis du
-conseil départemental d'hygiène.
+conseil départemental de l'environnement et des risques sanitaires et
+technologiques.
 
 Par arrêté, le préfet peut accorder des dérogations aux normes fixées pour les
 eaux des baignades aménagées :

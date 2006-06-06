@@ -1,18 +1,16 @@
 Article R341-25
 ----
-La commission départementale des sites, perspectives et paysages se réunit
-chaque fois que nécessaire et au moins une fois par an, sur convocation de son
-président.
+Lorsque la commission ou l'une de ses formations spécialisées est appelée à
+émettre un avis sur une affaire individuelle, la personne intéressée est invitée
+à formuler ses observations. La commission délibère en son absence.
 
-Elle établit son règlement intérieur qui porte notamment sur l'organisation des
-travaux et des délibérations.
+Le vote secret est de droit lorsque trois des membres de la commission ou de la
+formation spécialisée présents ou représentés le demandent.
 
-La commission ne peut valablement délibérer, dans chacune de ses formations, que
-si douze de ses membres sont présents ou représentés, dont trois au moins des
-personnalités compétentes désignées en application des articles R. 341-19, R.
-341-20 ou R. 341-21.
+Les rapports sont présentés par les chefs de service intéressés ou leurs
+représentants.
 
-La voix du président est prépondérante en cas de partage égal des voix.
-
-Le scrutin secret est de droit lorsque trois des membres présents ou représentés
-le demandent.
+Les services de l'Etat, les maires des communes et les présidents des
+établissements publics de coopération intercommunale intéressés par une décision
+soumise pour avis à la commission ou à l'une de ses formations spécialisées et
+qui n'y sont ni présents ni représentés sont entendus à leur demande.

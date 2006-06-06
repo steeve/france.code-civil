@@ -1,7 +1,8 @@
 Article R267
 ----
-Les demandes sont obligatoirement soumises à la commission départementale
-compétente, qui émet un avis :
+Les demandes sont obligatoirement soumises au conseil départemental pour les
+anciens combattants et victimes de guerre et la mémoire de la Nation compétent
+qui émet un avis :
 
 Sur le droit à la qualité de combattant volontaire de la Résistance ;
 

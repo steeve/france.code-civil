@@ -6,7 +6,7 @@ de droit.
 Lorsqu'il concerne une autre espèce de gibier, à l'exception du gibier d'eau, et
 qu'il porte sur un département, le plan de chasse est institué par le préfet sur
 proposition du directeur départemental de l'agriculture et de la forêt après
-avis du conseil départemental de la chasse et de la faune sauvage et du
+avis de la commission départementale de la chasse et de la faune sauvage et du
 président de la fédération départementale des chasseurs. Le préfet peut
 instituer un plan de chasse dans les mêmes conditions pour une partie seulement
 du département à la condition que celle-ci constitue une unité de gestion de

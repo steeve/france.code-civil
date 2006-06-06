@@ -1,16 +1,13 @@
 Article R341-19
 ----
-Lorsque la commission siège en formation dite " des sites et paysages ", elle
-comprend en outre cinq personnalités qualifiées en matière de protection des
-sites et des paysages désignées par le préfet :
+La formation spécialisée dite " de la nature " exerce les compétences dévolues à
+la commission au titre du I de l'article R. 341-16.
 
-1° Un architecte ;
+Les membres du quatrième collège sont des personnes ayant compétence en matière
+de protection de la flore et de la faune sauvage ainsi que des milieux naturels.
 
-2° Un paysagiste ;
-
-3° Un géographe ;
-
-4° Un ingénieur agronome ;
-
-5° Un représentant d'une association de protection de l'environnement agréée au
-titre de l'article L. 141-1.
+Lorsque la formation spécialisée se réunit en instance de concertation pour la
+gestion du réseau Natura 2000, le préfet peut inviter des représentants
+d'organismes consulaires et des activités présentes sur les sites Natura 2000,
+notamment agricoles, forestières, extractives, touristiques ou sportives, à y
+participer, sans voix délibérative.

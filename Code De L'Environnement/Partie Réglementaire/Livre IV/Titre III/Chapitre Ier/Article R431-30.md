@@ -1,11 +1,11 @@
 Article R431-30
 ----
 L'enquête terminée, ou la notice d'impact produite, le préfet consulte
-immédiatement les services intéressés ainsi que la commission départementale des
-sites, perspectives et paysages, siégeant en formation dite " de protection de
-la nature ", et la fédération départementale des associations agréées de pêche
-et de pisciculture. Si ces services et organismes n'ont pas fait connaître leur
-avis dans le délai de deux mois, ils sont réputés avoir émis un avis favorable.
+immédiatement les services intéressés ainsi que la commission départementale de
+la nature, des paysages et des sites, et la fédération départementale des
+associations agréées de pêche et de pisciculture. Si ces services et organismes
+n'ont pas fait connaître leur avis dans le délai de deux mois, ils sont réputés
+avoir émis un avis favorable.
 
 Il adresse une copie du dossier de la demande de concession et le projet d'acte
 de concession au directeur des services fiscaux en vue de la fixation des

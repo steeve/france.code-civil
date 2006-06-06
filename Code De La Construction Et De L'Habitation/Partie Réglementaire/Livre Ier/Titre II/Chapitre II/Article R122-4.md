@@ -1,14 +1,14 @@
 Article R122-4
 ----
 Un arrêté conjoint des ministres chargés de l'exécution des dispositions du
-présent chapitre, pris après avis de la commission technique interministérielle
-prévue à l'article R. 122-12 et portant règlement de sécurité, fixe pour les
-diverses classes d'immeubles de grande hauteur les mesures d'application des
-principes posés par le présent chapitre communes à ces diverses classes ou à
-certaines d'entre elles et les dispositions propres à chacune d'elles. Il fixe
-en outre les mesures qui doivent être prises par le constructeur pendant la
-réalisation des travaux pour limiter les risques d'incendie et faciliter
-l'intervention des sapeurs-pompiers.
+présent chapitre, pris après avis de la Commission centrale de sécurité prévue
+par l'article R. 123-29 et portant règlement de sécurité, fixe pour les diverses
+classes d'immeubles de grande hauteur les mesures d'application des principes
+posés par le présent chapitre communes à ces diverses classes ou à certaines
+d'entre elles et les dispositions propres à chacune d'elles. Il fixe en outre
+les mesures qui doivent être prises par le constructeur pendant la réalisation
+des travaux pour limiter les risques d'incendie et faciliter l'intervention des
+sapeurs-pompiers.
 
 Les arrêtés fixant ou modifiant le règlement de sécurité déterminent celles des
 dispositions qui, compte tenu de leur nature et de leur importance, sont

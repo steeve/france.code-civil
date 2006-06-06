@@ -1,13 +1,12 @@
 Article R411-16
 ----
-I. - Les arrêtés préfectoraux mentionnés à l'article R. 411-15 sont pris après
-avis de la commission départementale des sites, perspectives et paysages
-siégeant en formation de protection de la nature ainsi que de la chambre
-départementale d'agriculture. Lorsque de tels biotopes sont situés sur des
-terrains relevant du régime forestier, l'avis du directeur régional de l'Office
-national des forêts est requis.
+I.-Les arrêtés préfectoraux mentionnés à l'article R. 411-15 sont pris après
+avis de la commission départementale de la nature, des paysages et des sites,
+ainsi que de la chambre départementale d'agriculture. Lorsque de tels biotopes
+sont situés sur des terrains relevant du régime forestier, l'avis du directeur
+régional de l'Office national des forêts est requis.
 
-II. - Ces arrêtés sont, à la diligence du préfet :
+II.-Ces arrêtés sont, à la diligence du préfet :
 
 1° Affichés dans chacune des communes concernées ;
 

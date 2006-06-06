@@ -21,5 +21,5 @@ installations de transport.
 Le préfet, après avoir fait compléter le dossier par les rapports et avis du
 directeur régional de l'industrie, de la recherche et de l'environnement, du
 directeur départemental des affaires sanitaires et sociales, et du conseil
-départemental d'hygiène, le transmet, accompagné de son propre avis, au ministre
-chargé de la santé.
+départemental de l'environnement et des risques sanitaires et technologiques, le
+transmet, accompagné de son propre avis, au ministre chargé de la santé.

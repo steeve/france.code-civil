@@ -30,6 +30,7 @@ au C du III de l'annexe 13-2, aux analyses suivantes :
 
 Les résultats de ces analyses sont transmis au moins tous les mois au préfet.
 
-Un arrêté préfectoral, pris après avis du conseil départemental d'hygiène,
-définit les conditions de prise en compte de la surveillance assurée par la
-personne publique ou privée responsable de la distribution d'eau.
+Un arrêté préfectoral, pris après avis du conseil départemental de
+l'environnement et des risques sanitaires et technologiques, définit les
+conditions de prise en compte de la surveillance assurée par la personne
+publique ou privée responsable de la distribution d'eau.

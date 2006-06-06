@@ -6,8 +6,9 @@ d'hygiène sociale, constitués conformément aux dispositions de l'ordonnance n
 
 La zone d'action de chaque dispensaire antituberculeux, concernant la
 surveillance prévue par l'article L. 41 est déterminée dans chaque département
-par arrêté préfectoral, pris après avis du conseil départemental d'hygiène.
+par arrêté préfectoral, pris après avis du conseil départemental de
+l'environnement et des risques sanitaires et technologiques.
 
-Le préfet, après avis du conseil départemental d'hygiène, désigne les médecins
-chargés d'assurer la surveillance des pensionnés qui ne pourraient se présenter
-au dispensaire.
+Le préfet, après avis du conseil départemental de l'environnement et des risques
+sanitaires et technologiques, désigne les médecins chargés d'assurer la
+surveillance des pensionnés qui ne pourraient se présenter au dispensaire.
