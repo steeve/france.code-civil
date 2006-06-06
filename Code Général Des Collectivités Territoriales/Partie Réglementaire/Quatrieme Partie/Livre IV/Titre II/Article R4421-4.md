@@ -1,21 +1,19 @@
 Article R4421-4
 ----
 Lorsque le conseil des sites siège en formation dite "des unités touristiques
-nouvelles", il comprend en outre :
+nouvelles", il comprend à parts égales :
 
-1° Un membre au titre du collège des représentants de l'Etat : le délégué
-régional au tourisme, ou son suppléant ;
+1° Des représentants de l'Etat, dont notamment le directeur régional de
+l'environnement, le directeur départemental de l'équipement et le délégué
+régional au tourisme ;
 
-2° Un membre appartenant au collège des représentants des collectivités
-territoriales : un représentant de la collectivité territoriale de Corse, ou son
-suppléant, désigné par l'Assemblée de Corse.
+2° Des représentants élus des collectivités territoriales et des établissements
+publics de coopération intercommunale du massif ;
 
-3° Quatre membres au titre du troisième collège :
+3° Des personnalités qualifiées en matière de protection des sites, du cadre de
+vie et des sciences de la nature, parmi lesquelles figurent des représentants
+d'associations agréées de protection de l'environnement et du parc naturel
+régional ;
 
-a) Une personnalité qualifiée choisie en raison de ses compétences en matière
-d'urbanisme ;
-
-b) Deux professionnels du secteur du tourisme ;
-
-c) Un représentant de l'office de l'environnement de la Corse, nommé sur
-proposition du président de l'office.
+4° Des représentants des chambres consulaires et des organisations
+socioprofessionnelles intéressées.
