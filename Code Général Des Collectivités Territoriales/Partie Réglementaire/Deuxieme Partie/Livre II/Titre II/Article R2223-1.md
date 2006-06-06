@@ -6,7 +6,8 @@ l'article L. 2223-1, les communes dont la population agglomérée compte plus de
 agglomération de plus de 2 000 habitants.
 
 L'autorisation prévue par l'article L. 2223-1 est accordée après enquête de
-commodo et incommodo et avis du conseil départemental d'hygiène.
+commodo et incommodo et avis du conseil départemental de l'environnement et des
+risques sanitaires et technologiques.
 
 Le silence gardé pendant plus de quatre mois sur la demande d'autorisation vaut
 décision de rejet.

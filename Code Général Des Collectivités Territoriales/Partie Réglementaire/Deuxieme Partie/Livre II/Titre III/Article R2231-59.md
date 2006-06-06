@@ -10,7 +10,7 @@ l'avoir, conformément aux dispositions de l'article L. 2231-7, soumise pour avi
 au conseil général ou à la commission départementale, qui doit statuer dans les
 conditions et délais prévus pour les stations hydrominérales ou climatiques.
 
-Le dossier est ensuite transmis à la commission départementale des sites,
-perspectives et paysages, et au conseil départemental d'hygiène qui délibèrent
-dans la quinzaine qui suit la communication qui leur est faite du projet. A
-défaut, il est passé outre.
+Le dossier est ensuite transmis à la commission départementale de la nature, des
+paysages et des sites, et au conseil départemental de l'environnement et des
+risques sanitaires et technologiques qui délibèrent dans la quinzaine qui suit
+la communication qui leur est faite du projet. A défaut, il est passé outre.
