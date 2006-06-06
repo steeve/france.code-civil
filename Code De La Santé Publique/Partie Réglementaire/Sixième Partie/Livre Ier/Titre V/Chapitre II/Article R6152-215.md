@@ -1,7 +1,7 @@
 Article R6152-215
 ----
-Une commission paritaire régionale, présidée par un membre du corps des
-tribunaux administratifs et des cours administratives d'appel, comporte :
+Une commission paritaire régionale, présidée par une personnalité qualifiée
+désignée par le préfet de région, comporte :
 
 1° En qualité de représentants de l'administration :
 

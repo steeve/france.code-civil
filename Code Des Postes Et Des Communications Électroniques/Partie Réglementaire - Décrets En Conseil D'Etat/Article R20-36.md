@@ -30,7 +30,7 @@ des dispositions définies au 2° de l'article L. 35-1 dans les conditions prév
 au troisième alinéa du II de l'article L. 35-3 transmettent leur demande
 simultanément au ministre chargé des communications électroniques et à
 l'Autorité de régulation des communications électroniques et des postes selon la
-procédure décrite au premier alinéa du III de l'article R. 20-34. Le ministre se
+procédure décrite au premier alinéa du II de l'article R. 20-34. Le ministre se
 prononce au regard notamment de l'impact de la demande sur la qualité du service
 universel et sur le coût net total de la composante.
 

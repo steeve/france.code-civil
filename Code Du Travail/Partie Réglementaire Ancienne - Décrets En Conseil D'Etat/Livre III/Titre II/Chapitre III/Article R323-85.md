@@ -30,9 +30,6 @@ praticiens hospitaliers de psychiatrie et médecins de main-d'oeuvre.
 
 c) Par arrêté du ministre chargé du travail pour :
 
-- le membre du conseil d'Etat, sur la proposition du vice-président du conseil
-d'Etat ;
-
 - le représentant de la commission de la main-d'oeuvre du Centre d'analyse
 stratégique d'équipement de la productivité, sur proposition du directeur
 général ;

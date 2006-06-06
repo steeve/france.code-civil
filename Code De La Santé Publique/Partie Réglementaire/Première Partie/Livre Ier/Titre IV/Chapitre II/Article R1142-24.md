@@ -24,8 +24,8 @@ a) Huit personnalités choisies en raison de leurs compétences dans le domaine 
 droit de la réparation des accidents médicaux ou de la responsabilité médicale
 ou dans la formation en matière d'expertise, dont un représentant du Conseil
 national de l'ordre des médecins et un membre du Conseil d'Etat ou un magistrat
-de l'ordre administratif ou de l'ordre judiciaire, en activité ou honoraire,
-président de la commission nationale ;
+de l'ordre judiciaire, en activité ou honoraire, président de la commission
+nationale ;
 
 b) Huit personnalités choisies en raison de leurs compétences scientifiques.
 

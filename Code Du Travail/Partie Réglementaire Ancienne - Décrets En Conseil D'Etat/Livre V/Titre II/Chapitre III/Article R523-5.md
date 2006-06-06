@@ -8,8 +8,6 @@ composées :
 
 Le directeur régional du travail et de l'emploi ou son représentant, président ;
 
-Un conseiller de tribunal administratif ;
-
 Cinq représentants des employeurs ;
 
-Cinq représentants des salariés [*nombre*].
+Cinq représentants des salariés.

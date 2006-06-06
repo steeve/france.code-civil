@@ -12,9 +12,8 @@ d'appel dans le ressort de laquelle se situe le département ;
 - un magistrat de la chambre régionale des comptes des Antilles et de la Guyane
 proposé par le président de celle-ci ;
 
-- un membre, en activité ou honoraire, du corps des tribunaux administratifs et
-des cours administratives d'appel, résidant dans le département et proposé par
-le président du tribunal administratif.
+- une personnalité qualifiée en droit de la propriété proposée par le préfet du
+département ;
 
 Ces membres sont nommés par arrêté conjoint du garde des sceaux, ministre de la
 justice, et du ministre de l'économie, des finances et de l'industrie.
