@@ -24,10 +24,8 @@ Coef.
 1611
 
 Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %,
-nitrique à plus de 20 % mais à moins de 70 %, picrique à moins de 70 %,
-phosphorique, sulfurique à plus de 25 %, oxydes d'azote, anhydride phosphorique,
-oxydes de soufre, préparations à base d'acide acétique et d'anhydride acétique
-(emploi ou stockage de)
+nitrique à plus de 20 % mais à moins de 70 %, phosphorique à plus de 10 %,
+sulfurique à plus de 25 %, anhydride phosphorique (emploi ou stockage de).
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -214,11 +212,11 @@ A
 
 1
 
-a) supérieure ou égal à 10 6
+a) supérieure ou égal à 106
 
 3
 
-b) supérieure ou égal à 10 4
+b) supérieure ou égal à 104
 
 1
 
@@ -448,9 +446,7 @@ A
 
 D
 
-2111
-
-(1)
+2111 (1)
 
 Volailles, gibier à plumes (activité d'élevage, vente, etc. de) à l'exclusion
 d'activités spécifiques visées à d'autres rubriques
@@ -610,9 +606,8 @@ A
 2160
 
 Silos et installations de stockage de céréales, grains, produits alimentaires ou
-tout produit organique dégageant des poussières inflammables
-
-1. En silos ou installations de stockage
+tout produit organique dégageant des poussières inflammables, y compris les
+stockages sous tente ou structure gonflable.
 
 a) si le volume total de stockage est supérieur à 15 000 m 3
 
@@ -623,22 +618,6 @@ A
 
 b) si le volume total de stockage est supérieur à 5 000 m 3 , mais inférieur ou
 égal à 15 000 m 3
-
-
-DC
-
-2. Sous structure gonflable ou tente
-
-a) si le volume total de la structure gonflable ou de la tente est supérieur à
-100 000 m 3
-
-
-A
-
-3
-
-b) si le volume total de la structure gonflable ou de la tente est supérieur à
-10 000 m 3 , mais inférieur ou égal à 100 000 m 3
 
 
 DC
@@ -1036,17 +1015,25 @@ D
 
 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation,
 trituration, nettoyage, tamisage, blutage, mélange, épluchage et décortication
-des substances végétales et de tous produits organiques naturels, à l'exclusion
-des activités visées par les rubriques 2220, 2221, 2225 et 2226, mais y compris
-la fabrication d'aliments pour le bétail.
+des substances végétales et de tous produits organiques naturels, y compris la
+fabrication d'aliments composés pour les animaux, mais à l'exclusion des
+activités visées par les rubriques 2220, 2221, 2225 et 2226.
 
-La puissance installée de l'ensemble des machines fixes concourant au
-fonctionnement de l'installation étant :
+1. traitement et transformation destinés à la fabrication de produits
+alimentaires d'une capacité de production de produits finis supérieure à 300 t/j
+
+
+A
+
+3
+
+2. Autres installations que celles visées au 1 :
 
 1. La puissance installée de l'ensemble des machines fixes concourant au
 fonctionnement de l'installation étant :
 
-1. supérieure à 500 kW
+a) La puissance installée de l'ensemble des machines fixes concourant au
+fonctionnement de l'installation étant supérieure à 500 kW
 
 
 A
@@ -1061,14 +1048,16 @@ b) supérieure à 1 MW, mais inférieure à 5 MW
 
 1
 
-2. supérieure à 100 kW, mais inférieure ou égale à 500 kW
+b) La puissance installée de l'ensemble des machines fixes concourant au
+fonctionnement de l'installation étant supérieure à 100 kW mais inférieure ou
+égale à 500 kW
 
 
 D
 
 2265
 
-Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
 
 Le volume total des réacteurs ou fermenteurs étant :
 
@@ -1599,15 +1588,7 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 2
 
-2. Opérations de dragage des cours d'eau et plans d'eau (à l'exception des
-opérations présentant un caractère d'urgence destinées à assurer le libre
-écoulement des eaux), lorsque les matériaux sont utilisés et lorsqu'elles
-portent sur une quantité à extraire supérieure à 2 000 t
-
-
-A
-
-3
+2. sans objet
 
 2. La capacité nominale de production étant :
 
@@ -1652,7 +1633,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 4. Exploitation, en vue de leur utilisation, des masses constituées par des
 haldes et terrils de mines et par les déchets d'exploitation de carrières (à
-l'exception des cas visés à l'article 1er du décret n o 79-1109 du 20 décembre
+l'exception des cas visés à l'article 1 er du décret n o 79-1109 du 20 décembre
 1979 pris pour l'application de l'article 130 du code minier), lorsque la
 superficie d'exploitation est supérieure à 1 000 m 2 ou lorsque la quantité de
 matériaux à extraire est supérieure à 2 000 t par an
@@ -2250,7 +2231,7 @@ A
 
 4
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à
+2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à
 l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 2. Le volume des cuves de traitement étant :
@@ -2275,7 +2256,7 @@ b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 DC
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de
 cadmium
 
 
@@ -2349,7 +2330,8 @@ D
 
 2610
 
-Superphosphates (fabrication des)
+Engrais simples ou composés à base de phosphore, d'azote ou de potassium
+(fabrication industrielle par transformation chimique d').
 
 
 A
@@ -2598,7 +2580,7 @@ Quelle que soit la capacité
 
 2680
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un
 processus de production industrielle ou commercial des) à l'exclusion de
 l'utilisation de produits contenant des organismes génétiquement modifiés qui
 ont reçu une autorisation de mise sur le marché conformément à la loi n o 92-654
@@ -2630,7 +2612,7 @@ Les organismes génétiquement modifiés visés sont ceux définis par la loi n 
 liste des techniques de modification génétique et les critères de classement des
 organismes génétiquement modifiés en groupe I et II
 
-On entend par mise en œuvre au sens de la présente rubrique toute opération ou
+On entend par mise en oeuvre au sens de la présente rubrique toute opération ou
 ensemble d'opérations faisant partie d'un processus de production industrielle
 ou commercial au cours desquelles des organismes sont génétiquement modifiés ou
 au cours desquelles des organismes génétiquement modifiés sont cultivés,
@@ -2638,7 +2620,7 @@ utilisés, stockés, détruits ou éliminés.
 
 2681
 
-Micro-organismes naturels pathogènes (mise en œuvre dans des installations de
+Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de
 production industrielle)
 
 
@@ -2650,22 +2632,6 @@ A
 Quelle que soit la capacité
 
 8
-
-2685
-
-Médicaments (fabrication et division en vue de la préparation de) à usage humain
-ou vétérinaire, y compris jusqu'à obtention de la forme galénique, en dehors des
-officines de pharmacie non hospitalières :
-
-Installations employant du personnel défini à l'article R. 5115-4 ou R. 5146-10
-du code de la santé publique et non visées par d'autres rubriques de la
-nomenclature
-
-
-D
-
-Sont également visés par cette rubrique les insecticides et acaricides à usage
-humain ou vétérinaire et les liquides pour adaptation de lentille de contact
 
 2690
 
@@ -3101,7 +3067,7 @@ rubrique 2930,
 
 - ou de toute autre activité couverte explicitement par une autre rubrique.
 
-1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque
+1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque
 l'application est faite par procédé au trempé . Si la quantité maximale de
 produits susceptible d'être présente dans l'installation est :
 
@@ -3126,7 +3092,7 @@ DC
 (pulvérisation, enduction). Si la quantité maximale de produits susceptible
 d'être mise en œuvre est :
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 a) supérieure à 100 kg/j
 
@@ -3213,15 +3179,4 @@ A
 
 b) supérieure à 5 000 m 2 , mais inférieure ou égale à 50 000 m 2
 
-
 DC
-
-Nota. - Lorsqu'une substance non explicitement visée est susceptible d'être
-classée dans plusieurs rubriques, elle doit être classée dans la rubrique
-présentant les seuils les plus bas.
-
-(1) A : autorisation ; D : déclaration ; S : servitude d'utilité publique ; C :
-soumis au contrôle périodique prévu par l'article L. 512-11 du code de
-l'environnement.
-
-(2) Rayon d'affichage exprimé en kilomètres.
