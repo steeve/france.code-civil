@@ -9,6 +9,4 @@ seule voix.
 
 Le droit de vote aux élections des membres des chambres de commerce et
 d'industrie et aux élections des délégués consulaires est exercé par
-correspondance ou par voie électronique. En cas d'utilisation par un même
-électeur au titre de la même qualité des deux modes de vote, seul le vote
-électronique est considéré comme valide.
+correspondance ou par voie électronique.

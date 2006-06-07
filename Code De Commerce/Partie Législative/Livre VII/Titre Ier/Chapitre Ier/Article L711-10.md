@@ -9,7 +9,7 @@ A ce titre :
 considérations d'intérêt général ou en cas de carence de l'initiative privée, la
 mise en oeuvre de tout projet de développement économique. Elles le peuvent
 également par délégation de l'Etat, agissant en son nom propre ou au nom de
-l'Union européenne, de la région et d'autres collectivités territoriales, et de
+l'Union européenne, de la région et d'autres collectivités territoriales et de
 leurs établissements publics ;
 
 2° Elles peuvent également recevoir délégation de l'Etat, agissant en son nom

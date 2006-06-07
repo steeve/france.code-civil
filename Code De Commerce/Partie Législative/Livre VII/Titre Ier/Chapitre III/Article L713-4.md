@@ -19,5 +19,5 @@ les conditions d'éligibilité fixées au I ci-dessus présente sa démission au
 préfet. A défaut, le préfet le déclare démissionnaire d'office.
 
 Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la
-démission, sauf dans les cas mentionnés aux 2°, 2° bis et 3° du II de l'article
+démission, sauf dans les cas mentionnés aux 2°, 3°, 4° et 5° du II de l'article
 L. 713-3.

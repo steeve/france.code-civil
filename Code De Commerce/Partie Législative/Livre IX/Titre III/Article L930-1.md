@@ -19,4 +19,8 @@ L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L.
 670-8 ;
 
-6° Le titre II du livre VIII.
+6° Le titre II du livre VII, à l'exception des articles L. 722-3, L. 722-11 à L.
+722-13, de l'article L. 723-6, de l'alinéa 2 de l'article L. 723-7, de l'alinéa
+2 de l'article L. 723-10 et de l'article L. 723-11 ;
+
+7° Le titre II du livre VIII.

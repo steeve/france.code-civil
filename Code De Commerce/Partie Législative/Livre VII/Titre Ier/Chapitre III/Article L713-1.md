@@ -1,13 +1,12 @@
 Article L713-1
 ----
-I. - Les membres des chambres de commerce et d'industrie sont élus pour cinq
-ans.
+I.-Les membres des chambres de commerce et d'industrie sont élus pour cinq ans.
 
 Un membre d'une chambre de commerce et d'industrie ou d'une chambre régionale de
 commerce et d'industrie ne peut exercer plus de trois mandats de président de
-cette chambre, quelle que soit la durée effective de ces mandats ; (1)
+cette chambre, quelle que soit la durée effective de ces mandats.
 
-II. - Sont électeurs aux élections des membres des chambres de commerce et
+II.-Sont électeurs aux élections des membres des chambres de commerce et
 d'industrie :
 
 1° A titre personnel :

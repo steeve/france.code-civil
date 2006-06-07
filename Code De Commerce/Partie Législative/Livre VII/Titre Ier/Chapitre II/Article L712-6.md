@@ -1,7 +1,7 @@
 Article L712-6
 ----
 Les établissements de réseau sont tenus de nommer au moins un commissaire aux
-comptes et un suppléant choisis sur la liste mentionnée à l'article L. 225-219,
+comptes et un suppléant choisis sur la liste mentionnée à l'article L. 822-1,
 qui exercent leurs fonctions dans les conditions prévues par les dispositions du
 livre II sous réserve des règles qui leur sont propres.
 
