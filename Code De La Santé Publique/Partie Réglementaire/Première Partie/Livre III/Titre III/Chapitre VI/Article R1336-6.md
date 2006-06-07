@@ -1,9 +1,12 @@
 Article R1336-6
 ----
-Les dispositions des articles R. 1336-7 à R. 1336-10 s'appliquent à tous les
-bruits de voisinage, à l'exception de ceux qui proviennent des infrastructures
-de transport et des véhicules qui y circulent, des aéronefs, des activités et
-installations particulières de la défense nationale et des installations
-classées pour la protection de l'environnement et des bruits perçus à
-l'intérieur des mines, des carrières, de leurs dépendances et des établissements
-mentionnés à l'article L. 231-1 du code du travail.
+Le directeur général, le contrôleur financier, l'agent comptable et le président
+du conseil scientifique assistent aux séances du conseil d'administration avec
+voix consultative.
+
+Le directeur général peut en outre se faire assister de toute personne de son
+choix.
+
+Le président du conseil d'administration peut également inviter à assister aux
+séances, avec voix consultative, toute personne dont il estime la présence
+utile.

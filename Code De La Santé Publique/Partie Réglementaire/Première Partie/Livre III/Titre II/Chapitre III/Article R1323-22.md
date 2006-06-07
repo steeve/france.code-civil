@@ -9,6 +9,9 @@ l'établissement, après avis du conseil scientifique. Les modalités de
 fonctionnement des comités d'experts spécialisés sont fixées par le règlement
 intérieur de l'agence.
 
+Ces comités peuvent être communs à l'Agence et à l'Agence française de sécurité
+sanitaire de l'environnement et du travail.
+
 Sans préjudice des dispositions de l'article R. 1323-29, les membres des comités
 mentionnés au premier alinéa ont droit aux indemnités pour frais de déplacement
 et de séjour dans les conditions prévues par les décrets n° 86-416 du 12 mars

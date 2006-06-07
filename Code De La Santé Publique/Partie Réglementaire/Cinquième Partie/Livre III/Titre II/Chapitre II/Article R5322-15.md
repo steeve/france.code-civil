@@ -21,7 +21,7 @@ recherche scientifique ;
 des domaines d'activité de l'agence ;
 
 7° Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire environnementale, ou son représentant.
+sanitaire de l'environnement et du travail, ou son représentant.
 
 Le directeur général de la santé ou son représentant et le directeur de la
 recherche, des études, de l'évaluation et des statistiques au ministère chargé

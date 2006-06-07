@@ -1,8 +1,15 @@
 Article R1336-1
 ----
-Le fait, en violation de l'article L. 1331-10, de déverser, sans autorisation,
-dans les égouts publics, des eaux usées, autres que domestiques, est puni de
-l'amende prévue pour les contraventions de la cinquième classe.
+Pour l'exercice des missions énumérées à l'article L. 1336-1, l'agence exerce
+une veille sur l'évolution des connaissances scientifiques dans les domaines de
+sa compétence et définit, met en oeuvre, soutient ou finance des programmes de
+recherche scientifique et technique.
 
-La récidive de la contravention prévue au présent article est punie conformément
-à l'article 132-11 du code pénal.
+Elle adresse au Gouvernement un rapport annuel faisant la synthèse des
+principales questions relatives à la sécurité sanitaire liée à l'environnement
+et au travail. Ce rapport est rendu public.
+
+Elle rend publics ses avis et recommandations, à l'exception de ceux portant sur
+des projets de dispositions législatives ou réglementaires, en garantissant la
+confidentialité des informations couvertes par le secret médical ou le secret
+industriel et commercial.

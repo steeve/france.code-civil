@@ -1,4 +1,4 @@
 Article R1336-5
 ----
-La récidive des contraventions prévues à l'article R. 1336-3 est punie
-conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
+Les fonctions de membre du conseil d'administration sont incompatibles avec la
+qualité de membre du conseil scientifique mentionné à l'article R. 1336-17.

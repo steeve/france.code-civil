@@ -19,13 +19,16 @@ sanitaire des produits de santé, ou son représentant ;
 d) Le président du conseil scientifique de l'Agence française de sécurité
 sanitaire des aliments ou son représentant ;
 
-e) Un représentant des observatoires régionaux de la santé nommé sur proposition
+e) Le président du conseil scientifique de l'Agence française de sécurité
+sanitaire de l'environnement et du travail ou son représentant ;
+
+f) Un représentant des observatoires régionaux de la santé nommé sur proposition
 de la Fédération nationale des observatoires régionaux de santé ;
 
-f) Une personnalité scientifique nommée sur proposition du directeur général de
+g) Une personnalité scientifique nommée sur proposition du directeur général de
 l'Institut national de la santé et de la recherche médicale ;
 
-g) Deux spécialistes en santé publique d'un pays tiers, dont un au moins
+h) Deux spécialistes en santé publique d'un pays tiers, dont un au moins
 originaire de la Communauté européenne.
 
 2° Treize personnalités scientifiques qualifiées dans les domaines de
