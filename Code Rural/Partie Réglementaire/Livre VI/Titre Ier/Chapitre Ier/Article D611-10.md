@@ -1,9 +1,9 @@
 Article D611-10
 ----
 I. - L'observatoire économique des prix des produits agricoles et alimentaires
-est présidé par le directeur des politiques économique et internationale au
-ministère de l'agriculture ou, en cas d'absence ou d'empêchement, par un des
-fonctionnaires placés sous son autorité.
+est présidé par le directeur général des politiques économique, européenne et
+internationale au ministère de l'agriculture ou, en cas d'absence ou
+d'empêchement, par un des fonctionnaires placés sous son autorité.
 
 II. - L'observatoire économique des prix des produits agricoles et alimentaires
 comprend :

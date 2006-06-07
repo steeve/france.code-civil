@@ -55,7 +55,9 @@ VII. - Outre leur président, les trois sections sont composées :
 1° D'un collège des organismes certificateurs agréés ;
 
 2° D'un collège des groupements professionnels de producteurs agricoles,
-fournisseurs, transformateurs, distributeurs, artisans ;
+fournisseurs, transformateurs, distributeurs,
+
+artisans ;
 
 3° D'un collège des consommateurs et des utilisateurs ;
 
@@ -73,8 +75,8 @@ VIII. - La commission permanente est composée :
 
 2° Des présidents des trois sections ;
 
-3° Du directeur des politiques économique et internationale ou de son
-représentant ;
+3° Du directeur général des politiques économique, européenne et internationale
+ou de son représentant ;
 
 4° Du directeur général de l'alimentation ou de son représentant ;
 
