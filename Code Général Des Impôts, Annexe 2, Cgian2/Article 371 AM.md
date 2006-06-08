@@ -1,13 +1,10 @@
 Article 371 AM
 ----
 Le centre est réputé saisi lorsque les déclarations qui lui sont remises
-directement ou par voie postale ou électronique, dans les conditions prévues à
-l'article 4 de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à
-l'entreprise individuelle et selon les modalités définies à l'arrêté mentionné à
-l'article 371 AI, sont établies sur les formulaires homologués prévus à
-l'article 371 AL et sont signées du déclarant ou de son mandataire, et
-lorsqu'elles comportent au moins les énonciations indispensables pour
-identifier.
+directement ou par voie postale ou électronique, sont établies sur les
+formulaires homologués prévus à l'article 371 AL et sont signées du déclarant ou
+de son mandataire, et lorsqu'elles comportent au moins les énonciations
+indispensables pour identifier.
 
 I. - Pour les créations d'entreprises :
 

@@ -48,3 +48,48 @@ destinataires les informations et pièces les concernant.
 La commission de coordination mentionnée à l'article 371 AQ bis veille au
 respect de la confidentialité et de la sécurité des échanges ainsi organisés,
 ainsi qu'à la compatibilité des systèmes de communication par voie électronique.
+
+VII. - Dans les cas prévus à l'article L. 123-9-1 du code de commerce et à
+l'article 19-I de la loi n° 96-603 du 5 juillet 1996 relative au développement
+et à la promotion du commerce et de l'artisanat, le récépissé prévu au II
+lorsque le dossier est réputé complet par le centre compétent prend le nom de
+récépissé de dépôt de dossier de création d'entreprise. Délivré gratuitement et
+sans délai, ce récépissé est valable jusqu'à la notification de son
+immatriculation au déclarant et, au plus tard, jusqu'à l'expiration d'une durée
+d'un mois à compter de sa délivrance. Il indique :
+
+a. le nom et l'adresse du centre ;
+
+b. la date de saisine du centre ;
+
+c. la date de délivrance du récépissé et la date d'expiration de sa validité ;
+
+d. la mention : "en attente d'immatriculation" ;
+
+e. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
+
+f. les organismes auxquels le dossier est transmis le jour même.
+
+Le centre de formalités des entreprises indique sur le récépissé de dépôt de
+dossier de création d'entreprise le numéro unique d'identification que l'INSEE
+lui communique ainsi qu'au greffier du tribunal compétent, lorsque la
+déclaration comporte une demande d'immatriculation au registre du commerce et
+des sociétés.
+
+Lorsque la déclaration comporte une demande d'immatriculation au registre du
+commerce et des sociétés, une copie du récépissé de dépôt de dossier de création
+d'entreprise est transmise au greffier compétent avec le dossier du déclarant.
+
+Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural, le
+récépissé de dépôt de dossier de création d'entreprise, délivré gratuitement et
+sans délai, indique :
+
+a. le nom et l'adresse du centre ;
+
+b. la date de saisine du centre ;
+
+c. la date de délivrance du récépissé ;
+
+d. les mentions prévues aux 1°, 2° et 3° du I de l'article 371 AM ;
+
+e. les organismes auxquels le dossier est transmis le jour même.

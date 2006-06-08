@@ -14,9 +14,6 @@ commercialement, en application de l'article 4-1 du décret n° 84-406 du 30 mai
 par les organismes destinataires lorsque les déclarations contiennent des
 demandes au sujet desquelles une décision doit être prise.
 
-Les centres transmettent aux administrations, personnes ou organismes concernés,
-les déclarations ainsi que les renseignements mentionnés au deuxième alinéa.
-
 Les centres de formalités remettent à tout déclarant un livret, approuvé par
 arrêté du ministre de la justice et des ministres chargés des affaires sociales,
 du travail, de l'économie, des finances, du budget, de l'industrie, du commerce
