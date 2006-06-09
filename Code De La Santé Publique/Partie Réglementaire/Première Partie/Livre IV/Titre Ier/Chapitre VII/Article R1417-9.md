@@ -29,7 +29,7 @@ d) Le président du conseil scientifique de l'Agence française de sécurité
 sanitaire des aliments ou son représentant ;
 
 e) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire environnementale ou son représentant ;
+sanitaire de l'environnement et du travail ou son représentant ;
 
 f) Le président du conseil scientifique de la Caisse nationale de l'assurance
 maladie des travailleurs salariés ou son représentant ;

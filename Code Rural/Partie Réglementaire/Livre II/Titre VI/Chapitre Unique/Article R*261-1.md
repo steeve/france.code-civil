@@ -382,7 +382,7 @@ b) Le président du conseil scientifique de l'Institut de veille sanitaire, ou
 son représentant ;
 
 c) Le président du conseil scientifique de l'Agence française de sécurité
-sanitaire environnementale, ou son représentant ;
+sanitaire de l'environnement et du travail, ou son représentant ;
 
 2° Trois représentants des personnels de l'Agence française de sécurité des
 aliments, élus pour une durée de trois ans renouvelable selon des modalités
@@ -506,6 +506,9 @@ nommés dans les mêmes conditions sur proposition du directeur général de
 l'établissement, après avis du conseil scientifique. Les modalités de
 fonctionnement des comités d'experts spécialisés sont fixées par le règlement
 intérieur de l'agence.
+
+Ces comités peuvent être communs à l'Agence et à l'Agence française de sécurité
+sanitaire de l'environnement et du travail.
 
 Sans préjudice des dispositions de l'article R. 1323-29, les membres des comités
 mentionnés au premier alinéa ont droit aux indemnités pour frais de déplacement
