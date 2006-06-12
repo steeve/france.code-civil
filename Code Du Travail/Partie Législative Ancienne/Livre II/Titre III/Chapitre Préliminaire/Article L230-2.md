@@ -67,15 +67,15 @@ les employeurs doivent coopérer à la mise en oeuvre des dispositions relatives
 la sécurité, à l'hygiène et à la santé selon des conditions et des modalités
 définies par décret en Conseil d'Etat.
 
-En outre, dans les établissements comprenant au moins une installation figurant
-sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou
-visée à l'article 3-1 du code minier, lorsqu'un salarié ou le chef d'une
-entreprise extérieure ou un travailleur indépendant est appelé à réaliser une
-intervention pouvant présenter des risques particuliers en raison de sa nature
-ou de la proximité de cette installation, le chef d'établissement de
-l'entreprise utilisatrice et le chef de l'entreprise extérieure définissent
-conjointement les mesures prévues aux I, II et III. Le chef d'établissement de
-l'entreprise utilisatrice veille au respect par l'entreprise extérieure des
-mesures que celle-ci a la responsabilité d'appliquer, compte tenu de la
-spécificité de l'établissement, préalablement à l'exécution de l'opération,
-durant son déroulement et à son issue.
+En outre, dans les établissements comprenant au moins une installation nucléaire
+de base ou une installation figurant sur la liste prévue au IV de l'article L.
+515-8 du code de l'environnement ou visée à l'article 3-1 du code minier,
+lorsqu'un salarié ou le chef d'une entreprise extérieure ou un travailleur
+indépendant est appelé à réaliser une intervention pouvant présenter des risques
+particuliers en raison de sa nature ou de la proximité de cette installation, le
+chef d'établissement de l'entreprise utilisatrice et le chef de l'entreprise
+extérieure définissent conjointement les mesures prévues aux I, II et III. Le
+chef d'établissement de l'entreprise utilisatrice veille au respect par
+l'entreprise extérieure des mesures que celle-ci a la responsabilité
+d'appliquer, compte tenu de la spécificité de l'établissement, préalablement à
+l'exécution de l'opération, durant son déroulement et à son issue.

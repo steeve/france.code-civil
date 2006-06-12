@@ -13,12 +13,13 @@ personnel ainsi que la liste des personnes qui assistent avec voix consultative
 aux séances du comité, compte tenu des fonctions qu'elles exercent dans
 l'établissement, sont fixées par voie réglementaire.
 
-Dans les établissements comprenant au moins une installation figurant sur la
-liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
-l'article 3-1 du code minier, le nombre de membres de la délégation du personnel
-au comité d'hygiène, de sécurité et des conditions de travail est augmenté par
-voie de convention collective ou d'accord entre le chef d'entreprise et les
-organisations syndicales reconnues comme représentatives dans l'entreprise.
+Dans les établissements comprenant au moins une installation nucléaire de base
+ou une installation figurant sur la liste prévue au IV de l'article L. 515-8 du
+code de l'environnement ou visée à l'article 3-1 du code minier, le nombre de
+membres de la délégation du personnel au comité d'hygiène, de sécurité et des
+conditions de travail est augmenté par voie de convention collective ou d'accord
+entre le chef d'entreprise et les organisations syndicales reconnues comme
+représentatives dans l'entreprise.
 
 Les contestations relatives à la délégation des représentants du personnel au
 comité sont de la compétence du tribunal d'instance qui statue en dernier

@@ -1,11 +1,13 @@
 Article 39 quinquies F
 ----
 Les entreprises qui construisent ou font construire des immeubles destinés à
-satisfaire aux obligations prévues par la loi n° 61-842 du 2 août 1961 modifiée
-relative à la lutte contre les pollutions atmosphériques et les odeurs et par la
-loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de
-l'énergie peuvent pratiquer, dès achèvement de ces constructions un
-amortissement exceptionnel égal à 50 % de leur prix de revient.
+satisfaire aux obligations prévues (par la loi n° 61-842 du 2 août 1961 modifiée
+relative à la lutte contre les pollutions atmosphériques et les odeurs et) (1)
+par la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle
+de l'énergie et par la loi n° 2006-686 du 13 juin 2006 relative à la
+transparence et à la sécurité en matière nucléaire peuvent pratiquer, dès
+achèvement de ces constructions un amortissement exceptionnel égal à 50 % de
+leur prix de revient.
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale
 d'utilisation.

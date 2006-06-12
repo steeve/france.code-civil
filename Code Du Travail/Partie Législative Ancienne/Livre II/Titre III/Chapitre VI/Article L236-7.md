@@ -10,11 +10,11 @@ heures par mois dans les établissements occupant de 500 à 1499 salariés, ving
 heures par mois dans les établissements occupant 1500 salariés et plus. Ce temps
 peut être dépassé en cas de circonstances exceptionnelles.
 
-Dans les établissements comprenant au moins une installation figurant sur la
-liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
-l'article 3-1 du code minier, le temps laissé aux représentants du personnel au
-comité d'hygiène, de sécurité et des conditions de travail pour exercer leurs
-fonctions est majoré de 30 %.
+Dans les établissements comprenant au moins une installation nucléaire de base
+ou une installation figurant sur la liste prévue au IV de l'article L. 515-8 du
+code de l'environnement ou visée à l'article 3-1 du code minier, le temps laissé
+aux représentants du personnel au comité d'hygiène, de sécurité et des
+conditions de travail pour exercer leurs fonctions est majoré de 30 %.
 
 Lorsque dans un même établissement sont créés plusieurs comités d'hygiène, de
 sécurité et des conditions de travail dans les conditions prévues à l'article
@@ -39,12 +39,12 @@ premier alinéa.
 
 L'inspecteur du travail doit être prévenu de toutes les réunions du comité
 d'hygiène, de sécurité et des conditions de travail et peut y assister. Dans les
-établissements comprenant au moins une installation classée figurant sur la
-liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
-l'article 3-1 du code minier, l'autorité chargée de la police des installations
-doit être également prévenue des réunions du comité et peut y assister dès lors
-que des questions relatives à la sécurité des installations sont inscrites à
-l'ordre du jour.
+établissements comprenant au moins une installation nucléaire de base ou une
+installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du
+code de l'environnement ou visée à l'article 3-1 du code minier, l'autorité
+chargée de la police des installations doit être également prévenue des réunions
+du comité et peut y assister dès lors que des questions relatives à la sécurité
+des installations sont inscrites à l'ordre du jour.
 
 Lors des visites effectuées par l'inspecteur ou le contrôleur du travail, les
 représentants du personnel au comité d'hygiène, de sécurité et des conditions de

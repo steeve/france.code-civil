@@ -19,16 +19,16 @@ Pour les établissements de moins de trois cents salariés, ces conditions sont
 fixées par convention ou accord collectif ou, à défaut, par des dispositions
 spécifiques fixées par voie réglementaire.
 
-En outre, dans les établissements comprenant au moins une installation figurant
-sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou
-visée à l'article 3-1 du code minier, les représentants du personnel au comité
-d'hygiène, de sécurité et des conditions de travail, y compris les représentants
-des salariés des entreprises extérieures, bénéficient d'une formation spécifique
-correspondant à des risques ou facteurs de risques particuliers, en rapport avec
-l'activité de l'entreprise. Les conditions dans lesquelles cette formation est
-dispensée et renouvelée peuvent être définies par convention ou accord collectif
-de branche ou par convention ou accord collectif d'entreprise ou
-d'établissement.
+En outre, dans les établissements comprenant au moins une installation nucléaire
+de base ou une installation figurant sur la liste prévue au IV de l'article L.
+515-8 du code de l'environnement ou visée à l'article 3-1 du code minier, les
+représentants du personnel au comité d'hygiène, de sécurité et des conditions de
+travail, y compris, le cas échéant, les représentants des salariés des
+entreprises extérieures, bénéficient d'une formation spécifique correspondant à
+des risques ou facteurs de risques particuliers, en rapport avec l'activité de
+l'entreprise. Les conditions dans lesquelles cette formation est dispensée et
+renouvelée peuvent être définies par convention ou accord collectif de branche
+ou par convention ou accord collectif d'entreprise ou d'établissement.
 
 La charge financière de la formation des représentants du personnel au comité
 d'hygiène, de sécurité et des conditions de travail incombe à l'employeur dans

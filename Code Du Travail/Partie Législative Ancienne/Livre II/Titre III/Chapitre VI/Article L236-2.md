@@ -57,15 +57,25 @@ le chef d'établissement à l'appui de sa demande dans le délai d'un mois suiva
 la clôture de l'enquête publique prévue par l'article L. 512-2 du même code. Il
 est, en outre, informé par le chef d'établissement sur les prescriptions
 imposées par les autorités publiques chargées de la protection de
-l'environnement.
+l'environnement. Dans les établissements comportant une ou plusieurs
+installations nucléaires de base, le comité est informé par le chef
+d'établissement de la politique de sûreté et peut demander au chef
+d'établissement communication des informations mentionnées à l'article 19 de la
+loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en
+matière nucléaire. Le comité est consulté par le chef d'établissement sur la
+définition et les modifications ultérieures du plan d'urgence interne mentionné
+à l'article L. 1333-6 du code de la santé publique. Il peut proposer des
+modifications de ce plan au chef d'établissement qui justifie auprès du comité
+les suites qu'il donne à ces propositions. Un décret en Conseil d'Etat fixe le
+délai dans lequel le comité formule son avis.
 
-Dans les établissements comprenant au moins une installation figurant sur la
-liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
-l'article 3-1 du code minier, le comité est consulté avant toute décision de
-sous-traiter une activité, jusqu'alors réalisée par les salariés de
-l'établissement, à une entreprise extérieure appelée à réaliser une intervention
-pouvant présenter des risques particuliers en raison de sa nature ou de la
-proximité de l'installation.
+Dans les établissements comprenant au moins une installation nucléaire de base
+ou une installation figurant sur la liste prévue au IV de l'article L. 515-8 du
+code de l'environnement ou visée à l'article 3-1 du code minier, le comité est
+consulté avant toute décision de sous-traiter une activité, jusqu'alors réalisée
+par les salariés de l'établissement, à une entreprise extérieure appelée à
+réaliser une intervention pouvant présenter des risques particuliers en raison
+de sa nature ou de la proximité de l'installation.
 
 Dans ces établissements, il est également consulté sur la liste des postes de
 travail liés à la sécurité de l'installation. Cette liste est établie par le

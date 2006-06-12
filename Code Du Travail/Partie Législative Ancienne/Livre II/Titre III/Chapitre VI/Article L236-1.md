@@ -44,18 +44,26 @@ conditions de travail ne dispense pas les entreprises de leur obligation
 d'adhérer à un organisme professionnel de sécurité et des conditions de travail
 créé en application de l'article L. 231-2.
 
-Dans les établissements comprenant au moins une installation figurant sur la
-liste prévue au IV de l'article L. 515-8 du code de l'environnement ou visée à
-l'article 3-1 du code minier, le comité d'hygiène, de sécurité et des conditions
-de travail est élargi, lorsque sa réunion a pour objet de contribuer à la
-définition des règles communes de sécurité dans l'établissement et à
-l'observation des mesures de prévention définies en application du IV de
-l'article L. 230-2 du présent code, à une représentation des chefs d'entreprises
-extérieures et de leurs salariés selon des conditions déterminées par une
-convention ou un accord collectif de branche ou une convention ou un accord
-collectif d'entreprise ou d'établissement, ou, à défaut, un décret en Conseil
-d'Etat. Cette convention, cet accord ou ce décret détermine également les
-modalités de fonctionnement du comité ainsi élargi.
+Dans les établissements comprenant au moins une installation nucléaire de base
+ou une installation figurant sur la liste prévue au IV de l'article L. 515-8 du
+code de l'environnement ou visée à l'article 3-1 du code minier, le comité
+d'hygiène, de sécurité et des conditions de travail est élargi, lorsque sa
+réunion a pour objet de contribuer à la définition des règles communes de
+sécurité dans l'établissement et à l'observation des mesures de prévention
+définies en application du IV de l'article L. 230-2 du présent code, à une
+représentation des chefs d'entreprises extérieures et de leurs salariés selon
+des conditions déterminées par une convention ou un accord collectif de branche
+ou une convention ou un accord collectif d'entreprise ou d'établissement, ou, à
+défaut, un décret en Conseil d'Etat. Cette convention, cet accord ou ce décret
+détermine également les modalités de fonctionnement du comité ainsi élargi. Les
+dispositions du présent alinéa ne sont pas applicables aux établissements
+comprenant au moins une installation nucléaire de base au sein desquels
+l'association des chefs d'entreprises extérieures et de représentants de leurs
+salariés à la prévention des risques particuliers liés à l'activité de
+l'établissement est assurée selon des modalités mises en oeuvre avant la
+publication de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et
+à la sécurité en matière nucléaire et répondant à des caractéristiques définies
+par décret.
 
 La représentation des entreprises extérieures est fonction de la durée de leur
 intervention, de sa nature et de leur effectif intervenant dans l'établissement.
