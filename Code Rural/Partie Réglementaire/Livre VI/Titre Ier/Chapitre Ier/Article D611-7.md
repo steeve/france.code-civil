@@ -5,5 +5,5 @@ modalités de son fonctionnement ; ce règlement intérieur prévoit notamment, 
 tant que de besoin, la création de groupes de travail spécialisés.
 
 Le secrétariat de la commission est assuré par le bureau compétent de la
-direction des politiques économique et internationale au ministère de
-l'agriculture.
+direction générale des politiques économique, européenne et internationale au
+ministère de l'agriculture.

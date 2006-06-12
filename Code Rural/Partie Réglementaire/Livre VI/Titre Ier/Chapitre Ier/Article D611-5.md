@@ -1,8 +1,9 @@
 Article D611-5
 ----
-I. - La Commission nationale technique est présidée par le directeur des
-politiques économique et internationale au ministère de l'agriculture ou, en cas
-d'absence ou d'empêchement, par un des fonctionnaires placés sous son autorité.
+I. - La Commission nationale technique est présidée par le directeur général des
+politiques économique, européenne et internationale au ministère de
+l'agriculture ou, en cas d'absence ou d'empêchement, par un des fonctionnaires
+placés sous son autorité.
 
 II. - La Commission nationale technique comprend :
 
