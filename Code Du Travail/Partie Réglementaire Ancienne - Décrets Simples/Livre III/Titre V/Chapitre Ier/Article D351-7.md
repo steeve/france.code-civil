@@ -1,19 +1,42 @@
 Article D351-7
 ----
-Pour bénéficier des dispositions de l'article L. 351-22, les salariés privés
-d'emploi [*qui veulent créer une entreprise et continuer à bénéficier des
-allocations de chômage*] doivent en faire préalablement la demande auprès du
-directeur départemental du travail et de l'emploi ou auprès du chef du service
-départemental du travail et de la protection sociale agricoles [*autorités
-compétentes*] lorsqu'il s'agit de la création ou de la reprise d'une
-exploitation agricole.
+La durée de versement de l'allocation de fin de droits varie en fonction d'une
+ancienneté continue de prise en charge dans le régime d'assurance chômage
+spécifique aux artistes et techniciens du spectacle prévu à l'article L. 351-14
+ou dans le régime d'indemnisation du chômage prévu à l'article L. 351-13-1 ainsi
+qu'au titre du fonds spécifique provisoire et du fonds transitoire, dans les
+conditions fixées à l'article D. 351-8.
 
-L'instruction des demandes est assurée par celui-ci, en liaison avec les
-institutions visées à l'article L. 351-2 [*UNEDIC, ASSEDIC*], ou, le cas
-échéant, les employeurs visés aux articles L. 351-16 et L. 351-17.
+Les périodes de congés de maladie ou de maternité n'interrompent pas la durée
+d'ancienneté. Elles ne sont pas prises en compte pour le calcul de celle-ci.
 
-Le directeur départemental du travail et de l'emploi ou le chef de service
-départemental du travail et de la protection sociale agricoles délivrent une
-attestation de "salarié privé d'emploi créateur d'entreprise" [*documents*]
-permettant aux créateurs d'entreprise de bénéficier des avantages prévus aux
-articles 2, 3 et 4 de la loi du 3 janvier 1979 modifiée.
+La durée d'ancienneté s'apprécie au terme du dernier contrat de travail retenu
+pour l'ouverture des droits à l'allocation de fin de droits.
+
+Les travailleurs involontairement privés d'emploi mentionnés à l'article L.
+351-13-1 qui :
+
+1° Justifient d'une ancienneté continue inférieure à cinq ans peuvent bénéficier
+d'une seule ouverture de droits au titre de l'allocation de fin de droits ;
+
+2° Justifient d'une ancienneté continue comprise entre cinq ans et moins de dix
+ans peuvent bénéficier de deux ouvertures de droits au titre de l'allocation de
+fin de droits, entre la date à laquelle ils ont acquis cinq ans d'ancienneté et
+la date à laquelle ils acquièrent dix ans d'ancienneté, dès lors qu'ils ont été
+admis au bénéfice de l'allocation d'assurance mentionnée à l'article L. 351-14
+entre deux prises en charge au titre de l'allocation de fin de droits ;
+
+3° Justifient d'une ancienneté continue de dix ans ou plus peuvent bénéficier de
+trois ouvertures de droits à l'allocation de fin de droits, postérieurement à la
+date à laquelle ils ont acquis dix ans d'ancienneté, dès lors qu'ils ont été
+admis au bénéfice de l'allocation d'assurance mentionnée à l'article L. 351-14
+entre deux prises en charge au titre de l'allocation de fin de droits.
+
+Le travailleur involontairement privé d'emploi qui a cessé de bénéficier de
+l'allocation de fin de droits, alors que la période d'indemnisation n'était pas
+épuisée, et qui n'a pas acquis de nouveaux droits au titre de l'allocation
+d'assurance mentionnée à l'article L. 351-14 ou au titre de l'allocation
+mentionnée à l'article D. 351-5, bénéficie d'une reprise de ses droits à
+l'allocation de fin de droits dès lors que le temps écoulé depuis la date
+d'admission à la période d'indemnisation considérée n'est pas supérieur à la
+durée de cette période augmentée de 3 ans de date à date.
