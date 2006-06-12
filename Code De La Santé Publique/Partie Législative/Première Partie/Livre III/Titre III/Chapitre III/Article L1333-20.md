@@ -1,7 +1,7 @@
 Article L1333-20
 ----
-Sont déterminées par décret en Conseil d'Etat les modalités d'application du
-présent chapitre et notamment :
+Sont déterminées par décret en Conseil d'Etat, pris après avis de l'Autorité de
+sûreté nucléaire, les modalités d'application du présent chapitre et notamment :
 
 1° Les conditions particulières applicables aux personnes qui sont l'objet d'une
 exposition aux rayonnements ionisants à des fins médicales ou de recherche

@@ -22,9 +22,9 @@ lorsque l'agent a la qualité de médecin, et en prendre copie, accéder aux
 données informatiques et les copier sur tout support approprié, recueillir, sur
 place ou sur convocation, tout renseignement ou toute justification nécessaire,
 prélever des échantillons qui seront analysés par un organisme choisi sur une
-liste établie par arrêté du ministre chargé de l'environnement, du travail, de
-l'agriculture ou de la santé et saisir tous objets, produits ou documents utiles
-sur autorisation judiciaire et selon les règles prévues à l'article L. 5411-3.
+liste établie par décision de l'Autorité de sûreté nucléaire et saisir tous
+objets, produits ou documents utiles sur autorisation judiciaire et selon les
+règles prévues à l'article L. 5411-3.
 
 Leurs procès-verbaux font foi jusqu'à preuve du contraire. Ils sont transmis
 dans les cinq jours de leur clôture au procureur de la République et une copie

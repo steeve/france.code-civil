@@ -13,4 +13,5 @@ respecter l'exposition de ces travailleurs, les références d'exposition et les
 niveaux qui leur sont applicables, compte tenu des situations particulières
 d'exposition, ainsi que les éventuelles restrictions ou interdictions concernant
 les activités, procédés, dispositifs ou substances dangereux pour les
-travailleurs, sont fixées par décret en Conseil d'Etat.
+travailleurs, sont fixées par décret en Conseil d'Etat pris après avis de
+l'Autorité de sûreté nucléaire.

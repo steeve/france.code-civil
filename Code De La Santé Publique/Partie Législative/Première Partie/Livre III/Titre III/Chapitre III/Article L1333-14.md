@@ -5,4 +5,4 @@ contenant, dans la médecine humaine ou vétérinaire, est interdite, sauf aupr�
 des médecins, des vétérinaires et des pharmaciens.
 
 Toute autre publicité ne peut être faite qu'après autorisation du ou des
-ministres intéressés.
+ministres intéressés accordée après avis de l'Autorité de sûreté nucléaire.
