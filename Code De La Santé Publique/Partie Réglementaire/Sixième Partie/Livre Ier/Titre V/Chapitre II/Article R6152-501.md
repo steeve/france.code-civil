@@ -1,16 +1,16 @@
 Article R6152-501
 ----
-Les médecins, biologistes, odontologistes et pharmaciens mentionnés au deuxième
-alinéa de l'article L. 6152-1 peuvent être recrutés en qualité d'assistant des
-hôpitaux dans les conditions définies par la présente section :
+Les médecins, odontologistes et pharmaciens mentionnés au 2° de l'article L.
+6152-1 peuvent être recrutés en qualité d'assistant des hôpitaux dans les
+conditions définies par la présente section :
 
 1° Dans les centres hospitaliers non universitaires sous réserve, en ce qui
 concerne les hôpitaux locaux, que soient remplies les conditions définies aux
 articles R. 6141-29 et R. 6141-30 ;
 
 2° Dans les centres hospitaliers universitaires, sous réserve qu'ils exercent
-leurs fonctions dans les services ou départements de biologie déterminés au 1°
-de l'article L. 6142-17 ou dans les services ou départements de pharmacie ;
+leurs fonctions dans les services ou structures de biologie déterminés au 1° de
+l'article L. 6142-17 ou dans les services ou départements de pharmacie ;
 
 3° Dans les établissements publics mentionnés au I de l'article L. 313-12 du
 code de l'action sociale et des familles.

@@ -1,7 +1,7 @@
 Article R6152-74
 ----
-Les sanctions disciplinaires applicables aux praticiens relevant du présent
-statut sont :
+Les sanctions disciplinaires applicables aux praticiens relevant de la présente
+section sont :
 
 1° L'avertissement ;
 

@@ -3,7 +3,7 @@ Article R6152-26
 Les praticiens relevant de la présente section, en position d'activité,
 consacrent la totalité de leur activité professionnelle à l'établissement de
 santé et aux établissements, services ou organismes liés à celui-ci par
-convention, sous réserve des dispositions de l'article R. 6152-23.
+convention, sous réserve des dispositions de l'article R. 6152-24.
 
 Il leur est interdit, quelle que soit leur position, d'avoir par eux-mêmes ou
 par personne interposée, dans des établissements ou organismes en relation avec
@@ -32,4 +32,4 @@ caractéristiques propres aux différents services ou départements est arrêté
 annuellement par le directeur d'établissement après avis de la commission
 médicale d'établissement. Un tableau de service nominatif, établi sur cette
 base, est arrêté mensuellement par le directeur sur proposition du chef de
-service ou de département.
+service ou du responsable de la structure.

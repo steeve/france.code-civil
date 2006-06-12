@@ -26,7 +26,7 @@ fixées aux articles R. 6152-37 à R. 6152-39 ;
 5° A un congé de maternité, d'adoption ou de paternité d'une durée égale à celle
 prévue par la législation de la sécurité sociale, pendant lequel l'intéressé
 perçoit l'intégralité des émoluments prévus à l'article R. 6152-23 ainsi que, le
-cas échéant, l'indemnité prévue au 6° de cet article ;
+cas échéant, l'indemnité prévue au 8° de cet article ;
 
 6° A un congé parental dans les conditions prévues à l'article R. 6152-45 ;
 
@@ -35,7 +35,8 @@ cas échéant, l'indemnité prévue au 6° de cet article ;
 
 8° A des autorisations spéciales d'absence dans les cas et conditions ci-après :
 
-a) Cinq jours ouvrables pour le mariage du praticien ;
+a) Cinq jours ouvrables pour le mariage du praticien ou lors de la conclusion
+par celui-ci d'un pacte civil de solidarité ;
 
 b) Un jour ouvrable pour le mariage d'un enfant ;
 
@@ -43,7 +44,8 @@ c) Trois jours ouvrables pour chaque naissance ou arrivée au foyer d'un enfant
 adopté ou confié en vue de son adoption ;
 
 d) Trois jours ouvrables en cas de décès ou de maladie très grave du conjoint,
-des père, mère et enfants ;
+des père, mère et enfants du praticien ou d'une personne avec laquelle ce
+dernier est lié par un pacte civil de solidarité ;
 
 9° A un congé de fin d'exercice dans les conditions prévues à l'article R.
 6152-99.

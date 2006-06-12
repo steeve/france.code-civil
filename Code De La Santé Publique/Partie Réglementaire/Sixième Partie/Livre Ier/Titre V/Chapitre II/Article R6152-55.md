@@ -4,7 +4,7 @@ Aucun praticien ne peut obtenir un détachement sur sa demande avant trois anné
 de service dans son emploi.
 
 Cette condition n'est pas applicable aux cas des détachements prononcés en
-application des 3°, 5°, 6° et 7° de l'article R. 6152-51.
+application des 1°, 3°, 5°, 6° et 7° de l'article R. 6152-51.
 
 La demande de détachement doit être présentée par le praticien au moins deux
 mois à l'avance. Elle n'est pas non plus applicable aux praticiens dont l'emploi

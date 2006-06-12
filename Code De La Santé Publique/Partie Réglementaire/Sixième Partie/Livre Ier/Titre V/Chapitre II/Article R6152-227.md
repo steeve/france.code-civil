@@ -32,14 +32,11 @@ perçoit l'intégralité des émoluments prévus au 1° de l'article R. 6152-220
 7° A des congés de formation dans les conditions prévues à l'article R. 6152-235
 ;
 
-8° A des autorisations spéciales d'absence dans les cas et conditions ci-après :
+8° A des autorisations spéciales d'absence dans les cas et dans les conditions
+prévus au 8° de l'article R. 6152-35 ;
 
-a) Cinq jours ouvrables pour le mariage du praticien ;
+9° A un congé non rémunéré d'accompagnement d'une personne en fin de vie, dans
+les conditions fixées par l'article R. 6152-35-1 ;
 
-b) Un jour ouvrable pour le mariage d'un enfant ;
-
-c) Trois jours ouvrables pour chaque naissance ou arrivée au foyer d'un enfant
-adopté ou confié en vue de son adoption ;
-
-d) Trois jours ouvrables en cas de décès ou de maladie très grave du conjoint,
-des père, mère et enfants.
+10° A un congé de présence parentale non rémunéré, dans les conditions fixées
+par l'article R. 6152-35-2.

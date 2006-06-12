@@ -1,6 +1,6 @@
 Article R6152-220
 ----
-Les praticiens des hôpitaux perçoivent après service fait :
+Les praticiens des hôpitaux à temps partiel perçoivent après service fait :
 
 1° Des émoluments mensuels variant selon l'échelon des intéressés et la durée
 des obligations hebdomadaires de service hospitalier et fixés par arrêté des

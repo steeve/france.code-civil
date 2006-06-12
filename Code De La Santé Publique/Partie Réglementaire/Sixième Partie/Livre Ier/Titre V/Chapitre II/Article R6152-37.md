@@ -4,9 +4,9 @@ En cas de maladie dûment constatée et attestée par un certificat médical met
 un praticien dans l'impossibilité d'exercer ses fonctions, celui-ci est de droit
 mis en congé par décision du directeur de l'établissement.
 
-Le praticien en congé de maladie conserve la totalité des émoluments prévus à
-l'article R. 6152-23, pendant une durée de trois mois ; ces émoluments sont
-réduits à la moitié pendant les neuf mois suivants.
+Le praticien en congé de maladie conserve la totalité des émoluments prévus au
+1° de l'article R. 6152-23, pendant une durée de trois mois ; ces émoluments
+sont réduits à la moitié pendant les neuf mois suivants.
 
 Lorsqu'à l'expiration de la première période de six mois consécutifs de congé de
 maladie, un praticien est inapte à reprendre son service, le comité médical est
