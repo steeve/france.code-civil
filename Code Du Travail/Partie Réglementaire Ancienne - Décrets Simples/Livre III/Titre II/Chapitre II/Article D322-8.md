@@ -1,13 +1,14 @@
 Article D322-8
 ----
-Pour les salariés à temps plein, dont la rémunération est égale au salaire
-minimum de croissance applicable dans l'entreprise ou à la garantie prévue à
-l'article 32 de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction
-négociée du temps de travail, le montant du soutien de l'Etat institué par
-l'article L. 322-4-6 est fixé à 150 euros par mois.
+Le montant du soutien de l'Etat institué au premier alinéa de l'article L.
+322-4-6 est fixé à 400 euros par mois pour un contrat à temps plein.
 
-Ce montant est porté à 300 euros par mois pour les salariés d'un niveau de
-formation V bis ou VI.
+Les employeurs concluant avec un jeune répondant aux conditions énumérées aux
+1°, 2° ou 3° de l'article L. 322-4-6 un contrat de professionnalisation à durée
+indéterminée, dont la durée du travail stipulée au contrat est au moins égale à
+la moitié de la durée du travail applicable dans l'établissement, peuvent
+bénéficier du soutien de l'Etat. Son montant est fixé à 200 euros par mois pour
+un contrat à temps plein.
 
 Pour les salariés à temps partiel, le montant du soutien de l'Etat est réduit
 selon le rapport entre la durée prévue au contrat de travail et à la durée
