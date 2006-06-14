@@ -21,6 +21,11 @@ Il peut également être mis fin au contrat avant son terme en cas de manquement
 de son bénéficiaire à ses engagements contractuels. Dans ce cas, après avoir
 invité l'intéressé à fournir ses explications, le représentant légal de la
 mission locale ou de la permanence d'accueil, d'information ou d'orientation
-procède à la résiliation du contrat, dûment motivée, et la notifie par courrier
-recommandé avec accusé de réception au bénéficiaire de l'accompagnement ou à ses
-représentants légaux lorsque celui-ci est mineur ou incapable.
+procède, sur proposition écrite du référent, à la résiliation du contrat, dûment
+motivée, et la notifie par courrier recommandé avec accusé de réception au
+bénéficiaire de l'accompagnement ou à ses représentants légaux lorsque celui-ci
+est mineur ou incapable.
+
+Nonobstant les dispositions relatives à la fin du contrat d'insertion dans la
+vie sociale, le jeune signataire d'un tel contrat peut, à sa demande, être
+accompagné dans l'emploi pendant une durée d'un an.

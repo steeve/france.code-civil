@@ -1,8 +1,8 @@
 Article D322-9
 ----
-Le soutien de l'Etat est dû pour une durée de trois années consécutives à
-compter de la date d'embauche. Un abattement de 50 % est appliqué au titre de la
-troisième année du contrat.
+Le soutien de l'Etat est dû pour une durée de deux années consécutives à compter
+de la date d'embauche. Un abattement de 50 % est appliqué au titre de la seconde
+année.
 
 Le montant du soutien de l'Etat est versé à l'employeur trimestriellement, à
 terme échu.
