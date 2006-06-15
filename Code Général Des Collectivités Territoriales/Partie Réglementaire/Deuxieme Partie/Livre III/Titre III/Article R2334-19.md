@@ -5,6 +5,5 @@ communes et leurs groupements sont susceptibles de recevoir des subventions
 d'investissement de l'Etat non globalisables dans la dotation globale
 d'équipement.
 
-La liste des chapitres budgétaires correspondant à ces investissements est
-définie à l'annexe VII (annexe non reproduite, consulter le fac-similé) du
-présent code.
+Les missions, programmes et actions correspondant aux investissements mentionnés
+au premier alinéa sont définis à l'annexe VII du présent code.
