@@ -4,9 +4,9 @@ Durant leur période de fonctions hospitalières, les candidats à l'autorisatio
 ministérielle d'exercice sont régis par les dispositions des articles R.
 6152-504, à l'exception du premier alinéa, de la deuxième phrase du quatrième
 alinéa et du dernier alinéa, R. 6152-509, R. 6152-514, à l'exception des 4°, 5°,
-6° et du dernier alinéa, R. 6152-519, à l'exception du 2°, du 5° et du dernier
-alinéa, R. 6152-520, du premier alinéa de l'article R. 6152-521, des articles R.
-6152-524 à R. 6152-526 et de l'article R. 6152-529.
+6° et du dernier alinéa, R. 6152-519, à l'exception du 2°, du cinquième et du
+dernier alinéa, R. 6152-520, du premier alinéa de l'article R. 6152-521, des
+articles R. 6152-524 à R. 6152-526 et de l'article R. 6152-529.
 
 Lorsqu'à l'expiration des périodes de congés, accordées en application des
 articles R. 6152-521 et R. 6152-524, durant lesquelles tout ou partie de leur

@@ -9,7 +9,7 @@ Le congé de longue durée ne peut être accordé pour une durée inférieure à
 mois ou supérieure à six mois. Il peut être renouvelé à concurrence d'un total
 de cinq années. Au-delà de ce total de congés, le praticien qui ne peut
 reprendre son service est mis en disponibilité dans les conditions fixées aux
-articles R. 6152-242 et R. 6152-244.
+articles R. 6152-242, R. 6152-244 et R. 6152-246.
 
 Le praticien placé en congé de longue durée a droit au maintien de la totalité
 de ses émoluments pendant trois ans, et de la moitié pendant deux ans.

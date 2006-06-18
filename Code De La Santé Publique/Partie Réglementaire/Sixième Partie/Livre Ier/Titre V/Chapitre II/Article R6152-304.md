@@ -26,5 +26,5 @@ profession ;
 5° Aux médecins et aux pharmaciens inscrits sur une des listes d'aptitude
 mentionnées à l'article 60 de la loi n° 99-641 du 27 juillet 1999 portant
 création d'une couverture maladie universelle, sous réserve de satisfaire aux
-conditions d'exercice de la profession en France fixées aux articles L. 4111-1
-et L. 4221-1 ; aucune condition de durée d'exercice ne leur est opposable.
+conditions d'exercice de la profession en France ; aucune condition de durée
+d'exercice ne leur est opposable.

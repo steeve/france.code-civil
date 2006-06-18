@@ -1,6 +1,6 @@
 Article R6152-248
 ----
-Le droit syndical est reconnu aux praticiens hospitaliers des hôpitaux.
+Le droit syndical est reconnu aux praticiens des hôpitaux à temps partiel.
 
 Ils peuvent créer des organisations syndicales, y adhérer, y exercer des
 mandats. Ils ne peuvent subir aucun préjudice ou bénéficier d'avantages en

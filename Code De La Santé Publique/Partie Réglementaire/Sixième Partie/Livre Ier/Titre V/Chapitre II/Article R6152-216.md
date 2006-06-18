@@ -1,8 +1,8 @@
 Article R6152-216
 ----
-Une commission paritaire nationale, présidée par un conseiller d'Etat en
-activité ou honoraire, nommé par le ministre chargé de la santé sur proposition
-du vice-président du Conseil d'Etat, comprend :
+Une commission paritaire nationale, présidée par un conseiller d'Etat ou son
+suppléant en activité ou honoraire, nommés par le ministre chargé de la santé
+sur proposition du vice-président du Conseil d'Etat, comprend :
 
 1° En qualité des représentants de l'administration :
 

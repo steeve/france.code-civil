@@ -24,7 +24,8 @@ d'étude de biologie prénatale, ou en qualité de médecin ou de
 chirurgien-dentiste des services médicaux de l'administration pénitentiaire ;
 
 4° De la durée des fonctions exercées au titre du service de santé des armées en
-qualité de praticien ;
+qualité de praticien à l'exception des fonctions accomplies en qualité de
+vétérinaire ;
 
 5° Des services accomplis dans les établissements publics de santé en qualité de
 membre des personnels enseignants et hospitaliers titulaires, et non titulaires,
@@ -34,7 +35,9 @@ de pharmacien à temps partiel, de pharmacien résident, de praticien contractue
 de praticien adjoint contractuel, de praticien hospitalier à temps plein à titre
 provisoire, d'attaché et d'attaché associé, sous réserve qu'ils aient été
 accomplis à raison de six vacations hebdomadaires dans un ou plusieurs
-établissements de santé ;
+établissements publics de santé, de praticien attaché et de praticien attaché
+associé, sous réserve qu'ils aient été accomplis à raison de six demi-journées
+hebdomadaires dans un ou plusieurs établissements publics de santé ;
 
 6° Des services accomplis en qualité de médecin inspecteur ou de pharmacien
 inspecteur de santé publique ;
@@ -46,10 +49,19 @@ médecins de la fonction publique du territoire de la Polynésie française ;
 
 8° Des services accomplis en qualité de médecin, de chirurgien-dentiste ou de
 pharmacien dans les établissements privés participant au service public
-hospitalier.
+hospitalier ;
 
-Les services effectués par les attachés et les attachés associés sont pris en
-compte au prorata du nombre de vacations effectuées hebdomadairement.
+9° Des services accomplis en qualité de médecin vacataire départemental exerçant
+une activité de lutte contre les maladies mentales. Dès lors qu'ils ont été
+accomplis, au titre d'un ou plusieurs secteurs psychiatriques, à raison d'une
+durée mensuelle moyenne comprise entre 60 et 120 heures, ces services sont pris
+en compte sur la base de six demi-journées. Lorsqu'ils ont été accomplis à
+raison d'une durée mensuelle moyenne excédant 120 heures, ces services sont pris
+en compte comme des services à temps plein.
+
+Les services effectués par les attachés, les attachés associés, les praticiens
+attachés et les praticiens attachés associés sont pris en compte au prorata du
+nombre de vacations ou de demi-journées effectuées hebdomadairement.
 
 Les fonctions exercées à titre provisoire sont prises en compte lorsqu'elles
 sont accomplies par un praticien relevant du présent statut, en attente d'une
@@ -62,8 +74,19 @@ Les services accomplis en qualité d'interne ne sont pas pris en compte.
 
 Les services accomplis à temps plein sont comptés pour la totalité de leur
 durée. Les services accomplis à temps partiel sont comptés au prorata de leur
-durée. Toutefois, ceux accomplis dans les conditions fixées par la section III
-du présent chapitre sont comptés comme des services à temps plein.
+durée. Toutefois, ceux accomplis dans les conditions fixées par la section 2 du
+présent chapitre sont comptés comme des services à temps plein.
+
+Les dispositions du présent article s'appliquent aux ressortissants des Etats
+membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen qui justifient de services, équivalents à ceux
+énumérés ci-dessus, accomplis dans des établissements, administrations ou
+organismes de l'un de ces Etats dont les missions sont comparables à celles des
+établissements, administrations ou organismes mentionnés ci-dessus. La durée de
+la formation requise pour l'obtention du diplôme de spécialité médicale, quels
+que soient le statut du praticien durant la formation et la durée de cette
+dernière dans le pays d'obtention du diplôme de spécialité, n'est pas prise en
+compte.
 
 Les décisions de classement prévues au présent article sont prononcées par
 arrêté du ministre chargé de la santé.

@@ -11,8 +11,7 @@ les conditions prévues à l'article R. 6152-701 ;
 
 3° Le report des jours de récupération des périodes de temps de travail
 additionnel, des astreintes et des déplacements lorsqu'ils n'ont pas fait
-l'objet d'une indemnisation pour les praticiens hospitaliers temps plein, les
-praticiens des hôpitaux à temps partiel et les assistants.
+l'objet d'une indemnisation.
 
 Les limites indiquées au présent article sont réduites proportionnellement à la
 durée des obligations de service des personnels concernés lorsque ceux-ci

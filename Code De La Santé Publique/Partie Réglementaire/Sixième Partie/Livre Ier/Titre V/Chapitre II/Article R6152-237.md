@@ -1,10 +1,10 @@
 Article R6152-237
 ----
-Les praticiens hospitaliers en position d'activité dans un établissement public
-de santé peuvent, avec leur accord, et en demeurant dans cette position
-statutaire, être mis à disposition d'une administration de l'Etat, d'un
-établissement public de l'Etat, d'un syndicat interhospitalier ou d'un
-groupement de coopération sanitaire dont est membre leur établissement
+Les praticiens des hôpitaux à temps partiel en position d'activité dans un
+établissement public de santé peuvent, avec leur accord, et en demeurant dans
+cette position statutaire, être mis à disposition d'une administration de
+l'Etat, d'un établissement public de l'Etat, d'un syndicat interhospitalier ou
+d'un groupement de coopération sanitaire dont est membre leur établissement
 d'affectation, dès lors que ce syndicat ou ce groupement est autorisé à exercer
 les missions d'un établissement de santé ou à gérer une pharmacie à usage
 intérieur ou d'un groupement d'intérêt public entrant dans l'un des cas prévus

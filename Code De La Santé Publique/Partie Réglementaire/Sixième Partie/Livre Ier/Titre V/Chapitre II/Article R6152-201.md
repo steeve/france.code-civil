@@ -1,9 +1,9 @@
 Article R6152-201
 ----
-Les médecins, biologistes, odontologistes et pharmaciens mentionnés au 1° de
-l'article L. 6152-1 et au 3° de l'article L. 6414-22 qui exercent leur activité
-à temps partiel dans les établissements publics de santé mentionnés aux articles
-L. 6141-2 et L. 6411-5 et dans les établissements publics mentionnés au I de
+Les médecins, odontologistes et pharmaciens mentionnés au 1° de l'article L.
+6152-1 et au 3° de l'article L. 6414-22 qui exercent leur activité à temps
+partiel dans les établissements publics de santé mentionnés aux articles L.
+6141-2 et L. 6411-5 et dans les établissements publics mentionnés au I de
 l'article L. 313-12 du code de l'action sociale et des familles sont régis par
 la présente section. Dans les centres hospitaliers universitaires, ils exercent
 leur activité sur des emplois placés hors du champ d'application des

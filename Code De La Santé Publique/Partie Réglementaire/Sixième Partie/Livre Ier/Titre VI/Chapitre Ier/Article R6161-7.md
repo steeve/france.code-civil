@@ -13,6 +13,4 @@ praticiens psychiatres à plein temps sollicitant une affectation dans un
 
 L'avis de l'établissement concerné est recueilli par le ministre chargé de la
 santé, préalablement à sa décision sur la demande d'affectation ou de
-renouvellement d'affectation. En cas d'avis négatif expressément motivé, aucune
-autre affectation de praticien hospitalier par cette voie ne pourra intervenir
-au titre du recrutement en cours.
+renouvellement d'affectation.

@@ -39,7 +39,7 @@ qualité ;
 établissements publics territoriaux d'hospitalisation des territoires
 d'outre-mer comptant au moins deux ans de services effectifs en cette qualité ;
 
-8° Aux attachés consultants ;
+8° Aux attachés consultants et praticiens attachés consultants ;
 
 9° Aux chercheurs, titulaires d'un diplôme, certificat ou autre titre permettant
 l'exercice de la médecine, de la pharmacie ou de la chirurgie dentaire. Les

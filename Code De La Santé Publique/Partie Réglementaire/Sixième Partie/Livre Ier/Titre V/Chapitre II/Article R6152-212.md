@@ -1,8 +1,8 @@
 Article R6152-212
 ----
-Les praticiens des hôpitaux nommés au titre des 1° et 3° de l'article R.
-6152-206 sont classés à l'échelon qu'ils détenaient dans leur situation
-antérieure. Ils conservent leur ancienneté d'échelon.
+Les praticiens des hôpitaux à temps partiel nommés au titre des 1° et 3° de
+l'article R. 6152-206 sont classés à l'échelon qu'ils détenaient dans leur
+situation antérieure. Ils conservent leur ancienneté d'échelon.
 
 Les praticiens nommés au titre des 2°, 4° et 5° de l'article R. 6152-206 sont
 classés dans l'emploi de praticien des hôpitaux à temps partiel compte tenu :
@@ -20,9 +20,11 @@ praticien associé, d'assistant et d'assistant associé des hôpitaux, de pratic
 contractuel, de praticien adjoint contractuel, de praticien hospitalier à titre
 provisoire pour la période comprise entre la date de publication de la liste
 d'aptitude et la date d'installation dans les fonctions et dans la limite d'une
-année, d'attaché ou d'attaché associé, sous réserve qu'ils aient été accomplis à
-raison de six vacations hebdomadaires dans un ou plusieurs établissements de
-santé ;
+année, d'attaché, d'attaché associé, sous réserve qu'ils aient été accomplis à
+raison de six vacations hebdomadaires dans un ou plusieurs établissements
+publics de santé, de praticien attaché et de praticien attaché associé, sous
+réserve qu'ils aient été accomplis à raison de six demi-journées hebdomadaires
+dans un ou plusieurs établissements publics de santé ;
 
 4° De la durée des fonctions exercées dans les établissements ou organismes
 français de transfusion sanguine, dans un emploi de chercheur au Centre national
@@ -34,7 +36,8 @@ d'étude de biologie prénatale ou en qualité de médecin, de pharmacien ou de
 chirurgien-dentiste de l'administration pénitentiaire ;
 
 5° De la durée des fonctions exercées au titre du service de santé des armées en
-qualité de praticien ;
+qualité de praticien à l'exception des fonctions accomplies en qualité de
+vétérinaire ;
 
 6° De la durée des services accomplis en qualité de médecin ou de pharmacien
 inspecteur de santé publique ;
@@ -52,7 +55,15 @@ service public hospitalier ;
 9° Dans la discipline pharmaceutique, des services effectués par les pharmaciens
 gérants, sous réserve qu'ils aient été accomplis à raison de quatre
 demi-journées hebdomadaires ou leur équivalent, pour la moitié de leur durée,
-dans la limite de quatre années.
+dans la limite de quatre années ;
+
+10° Des services accomplis en qualité de médecin vacataire départemental
+exerçant une activité de lutte contre les maladies mentales. Dès lors qu'ils ont
+été accomplis, au titre d'un ou plusieurs secteurs psychiatriques, à raison
+d'une durée mensuelle moyenne comprise entre 60 et 120 heures, ces services sont
+pris en compte sur la base de six demi-journées. Lorsqu'ils ont été accomplis à
+raison d'une durée mensuelle moyenne excédant 120 heures, ces services sont pris
+en compte comme des services à temps plein.
 
 Les services accomplis à temps plein sont comptés pour la totalité de leur
 durée. Les services accomplis à temps partiel sont comptés au prorata de leur
@@ -64,5 +75,16 @@ relevant du présent statut en attente d'une réintégration à l'exception de c
 mentionnés au 9° .
 
 Les services accomplis en qualité d'interne ne sont pas pris en compte.
+
+Les dispositions du présent article s'appliquent aux ressortissants des Etats
+membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen qui justifient de services, équivalents à ceux
+énumérés ci-dessus, accomplis dans des établissements, administrations ou
+organismes de l'un de ces Etats dont les missions sont comparables à celles des
+établissements, administrations ou organismes mentionnés ci-dessus. La durée de
+la formation requise pour l'obtention du diplôme de spécialité médicale, quels
+que soient le statut du praticien durant la formation et la durée de cette
+dernière dans le pays d'obtention du diplôme de spécialité, n'est pas prise en
+compte.
 
 Les décisions de classement sont prononcées par arrêté du préfet de région.

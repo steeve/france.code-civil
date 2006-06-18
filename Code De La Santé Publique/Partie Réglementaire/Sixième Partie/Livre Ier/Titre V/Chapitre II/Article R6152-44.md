@@ -2,10 +2,10 @@ Article R6152-44
 ----
 Le service à mi-temps pour raison thérapeutique peut être accordé :
 
-- soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de
+-soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de
 nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
 
-- soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une
+-soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une
 réadaptation professionnelle pour retrouver un emploi compatible avec son état
 de santé.
 

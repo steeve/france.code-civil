@@ -18,8 +18,7 @@ personnels enseignants et hospitaliers des centres de soins, d'enseignement et
 de recherche dentaires des centres hospitaliers et universitaires et par les
 dispositions des sections 1 et 3 ;
 
-2° Les praticiens attachés et les praticiens attachés associés régis par les
-dispositions de la section 6 ;
+2° Les praticiens attachés régis par les dispositions de la section 6 ;
 
 3° Les assistants des hôpitaux régis par les dispositions de la section 5 ;
 

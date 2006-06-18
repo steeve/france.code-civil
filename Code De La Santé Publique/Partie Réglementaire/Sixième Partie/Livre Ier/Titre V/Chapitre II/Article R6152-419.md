@@ -13,6 +13,6 @@ Le directeur de l'établissement arrête le tableau des congés mentionnés
 ci-dessus après avis du chef de service ou du responsable de la structure dont
 relève le praticien.
 
-Les praticiens contractuels peuvent verser au compte épargne-temps, les jours
-mentionnés au 3° de l'article R. 6152-35. Toutefois, l'intéressé est tenu de
-solder son compte épargne-temps avant l'expiration de son contrat.
+Les praticiens contractuels peuvent ouvrir un compte épargne-temps dans les
+conditions prévues aux articles R. 6152-702 à R. 6152-711. Toutefois, ils
+doivent solder leur compte épargne-temps avant l'expiration de leur contrat.

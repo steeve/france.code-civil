@@ -3,7 +3,7 @@ Article R6152-51
 Les praticiens relevant du présent statut peuvent être placés en position de
 détachement soit sur leur demande, soit d'office.
 
-Le détachement ne peut avoir lieu que dans l'un des cas suivants :
+Le détachement sur demande ne peut avoir lieu que dans l'un des cas suivants :
 
 1° Détachement auprès d'une administration de l'Etat, auprès d'un établissement
 public de l'Etat ou d'une entreprise publique ;

@@ -7,7 +7,7 @@ Les candidats concourent dans la discipline ou la spécialité correspondant à
 l'un des diplômes ou à la qualification ordinale mentionné à l'article R.
 6152-302.
 
-Les praticiens mentionnés au 5° de l'article R. 6152-303 concourent dans la
+Les praticiens mentionnés au 5° de l'article R. 6152-304 concourent dans la
 discipline ou la spécialité correspondant à leur inscription sur la liste
 d'aptitude.
 

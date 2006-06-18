@@ -1,6 +1,6 @@
 Article R6152-222
 ----
-Les praticiens des hôpitaux régis par le présent statut peuvent exercer une
+Les praticiens des hôpitaux régis par la présente section peuvent exercer une
 activité rémunérée en dehors de leurs obligations statutaires définies par les
 articles R. 6152-221, R. 6152-223 et R. 6152-224 en respectant, pour les
 médecins, les conditions de l'article R. 4127-98 et, pour les

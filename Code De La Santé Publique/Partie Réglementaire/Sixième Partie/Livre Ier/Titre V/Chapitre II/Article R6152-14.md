@@ -1,9 +1,9 @@
 Article R6152-14
 ----
 Les dispositions de l'article R. 6152-3, du 8° de l'article R. 6152-23 ainsi que
-des 2° et 3° de l'article R. 6152-24, de l'article R. 6152-46, du § 2 de la
-sous-section 7 et de la sous-section 10 ne sont pas applicables aux praticiens
-hospitaliers nommés pour une période probatoire.
+des 2° et 3° de l'article R. 6152-24, de l'article R. 6152-30, de l'article R.
+6152-46, du paragraphe 5 de la sous-section 6 et de la sous-section 9 ne sont
+pas applicables aux praticiens hospitaliers nommés pour une période probatoire.
 
 Les praticiens hospitaliers nommés pour une période probatoire peuvent être
 placés en disponibilité d'office dans les cas prévus aux articles R. 6152-37, R.
@@ -19,4 +19,6 @@ disponibilité un praticien n'a ni repris ses fonctions, ni obtenu une
 prolongation de sa disponibilité, il est licencié.
 
 Les praticiens hospitaliers nommés pour une période probatoire peuvent ouvrir un
-compte épargne-temps.
+compte épargne-temps. Toutefois, ils ne peuvent utiliser, au cours de la période
+probatoire, ni des droits épargnés antérieurement à leur nomination, ni des
+droits acquis depuis celle-ci.

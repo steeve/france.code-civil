@@ -1,9 +1,9 @@
 Article R6152-238
 ----
-Les praticiens des hôpitaux peuvent être placés en position de détachement, sur
-leur demande, sous réserve qu'ils comptent au moins deux années de fonctions
-dans leur emploi. Cette condition n'est pas applicable aux cas de détachements
-prononcés en application des 2°, 5° et 7° du présent article.
+Les praticiens des hôpitaux à temps partiel peuvent être placés en position de
+détachement, sur leur demande, sous réserve qu'ils comptent au moins deux années
+de fonctions dans leur emploi. Cette condition n'est pas applicable aux cas de
+détachements prononcés en application des 2°, 5° et 7° du présent article.
 
 Ils peuvent être détachés :
 
@@ -13,9 +13,9 @@ présent statut ;
 2° Auprès d'un établissement ou d'un organisme privé à but non lucratif
 participant au service public hospitalier ou d'un établissement privé entrant
 dans le champ d'application du I de l'article L. 313-12 du code de l'action
-sociale et des familles. Ces praticiens sont régis par le présent statut et leur
-rémunération est déterminée dans les conditions prévues par la présente section
-;
+sociale et des familles. Ces praticiens sont rémunérés sur la base des
+émoluments mentionnés au 1° de l'article R. 6152-220, éventuellement majorés,
+dans la limite de 15 % ;
 
 3° Auprès d'une administration de l'Etat, auprès d'un établissement public de
 l'Etat ou d'une entreprise publique ;

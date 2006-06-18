@@ -12,14 +12,17 @@ disposition ne s'applique pas :
 demi-journées par semaine, conformément aux dispositions de l'article R. 6152-30
 ;
 
-3° Aux activités de formation mutuelle exercées par les psychiatres régis par le
+3° Aux activités d'enseignement et de recherche exercées en qualité d'enseignant
+associé à mi-temps ;
+
+4° Aux activités de formation mutuelle exercées par les psychiatres régis par le
 présent statut, en dehors de leurs obligations de service ;
 
-4° Aux expertises ou consultations que les praticiens hospitaliers peuvent être
+5° Aux expertises ou consultations que les praticiens hospitaliers peuvent être
 autorisés à effectuer ou à donner sur la demande, soit d'une autorité
 administrative ou judiciaire, soit de personnes ou d'organismes privés, dans des
 conditions fixées par arrêté des ministres chargés du budget, de la santé et de
 la sécurité sociale.
 
-5° Aux activités de chargé de mission d'inspection de pharmacie effectuées par
+6° Aux activités de chargé de mission d'inspection de pharmacie effectuées par
 les pharmaciens des hôpitaux.

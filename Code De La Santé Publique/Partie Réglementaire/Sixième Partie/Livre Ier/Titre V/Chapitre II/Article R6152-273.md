@@ -9,9 +9,8 @@ même discipline du même établissement ;
 
 - soit muté dans un emploi vacant de praticien à temps partiel de même
 discipline d'un autre établissement, avec l'accord du conseil d'administration
-de cet établissement, et après avis de la commission médicale d'établissement et
-du conseil de département, par dérogation aux dispositions du 1° de l'article R.
-6152-206.
+de cet établissement, et après avis de la commission médicale d'établissement,
+par dérogation aux dispositions du 1° de l'article R. 6152-206.
 
 S'il ne peut être pourvu d'une nouvelle affectation, l'intéressé est, soit placé
 d'office dans la position de disponibilité, dans les conditions prévues à

@@ -6,7 +6,7 @@ par décision du directeur de l'établissement.
 
 Le praticien en congé de maladie conserve la totalité des émoluments prévus au
 1° de l'article R. 6152-220, pendant une durée de trois mois ; ces émoluments
-sont réduits à moitié pendant les neuf mois suivants.
+sont réduits à la moitié pendant les neuf mois suivants.
 
 Lorsque, à l'expiration de la première période de six mois consécutifs de congé
 de maladie, un praticien est inapte à reprendre son service, le comité médical
@@ -23,4 +23,4 @@ Au cas où un praticien est atteint d'une affection ou d'une infirmité entraîn
 une incapacité professionnelle, le préfet de région peut prononcer d'office la
 mise en disponibilité du praticien en cause sur proposition du médecin
 inspecteur régional de santé publique, après avis du comité médical et dans les
-conditions fixées à l'article R. 6152-244.
+conditions fixées aux articles R. 6152-242, R. 6152-244 et R. 6152-246.

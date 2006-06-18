@@ -1,6 +1,6 @@
 Article R6152-221
 ----
-Les médecins, biologistes et odontologistes régis par la présente section ont la
+Les médecins et odontologistes régis par la présente section ont la
 responsabilité médicale de la continuité des soins, conjointement avec les
 autres membres du corps médical de l'établissement. Les pharmaciens régis par la
 présente section ont la responsabilité de l'organisation de la permanence
@@ -21,15 +21,16 @@ domicile.
 
 Toutefois, si l'intérêt du service l'exige, le préfet du département, sur
 proposition du médecin inspecteur départemental de santé publique ou du
-directeur de l'établissement et après avis motivé de la commission médicale
-d'établissement, peut décider qu'ils cessent de participer à la continuité des
-soins ou à la permanence pharmaceutique la nuit, le samedi après-midi, le
-dimanche et les jours fériés pour une durée maximale de trois mois. Si, à
-l'issue de cette période, ils ne sont pas autorisés à participer de nouveau à la
-continuité des soins ou à la permanence pharmaceutique, leur situation doit
-faire l'objet d'un examen, soit dans le cadre de celles prévues par l'article R.
-6152-228 soit dans le cadre de celles prévues par les sous-sections 9 et 10 de
-la présente section ;
+pharmacien inspecteur départemental de santé publique ou du directeur de
+l'établissement et après avis motivé de la commission médicale d'établissement,
+peut décider qu'ils cessent de participer à la continuité des soins ou à la
+permanence pharmaceutique la nuit, le samedi après-midi, le dimanche et les
+jours fériés pour une durée maximale de trois mois. Si, à l'issue de cette
+période, ils ne sont pas autorisés à participer de nouveau à la continuité des
+soins ou à la permanence pharmaceutique, leur situation doit faire l'objet d'un
+examen, soit dans le cadre de celles prévues par l'article R. 6152-228 soit dans
+le cadre de celles prévues par les sous-sections 9 et 10 de la présente section
+;
 
 2° Participer au remplacement des praticiens à temps plein, ou à temps partiel,
 imposé par les différents congés, dans les conditions définies par l'article R.

@@ -1,7 +1,8 @@
 Article R6152-247
 ----
-Les praticiens hospitaliers en fonctions dans un département d'outre-mer et à
-Saint-Pierre-et-Miquelon perçoivent une indemnité mensuelle égale :
+Les praticiens des hôpitaux à temps partiel en fonctions dans un département
+d'outre-mer et à Saint-Pierre-et-Miquelon perçoivent une indemnité mensuelle
+égale :
 
 a) Pour les praticiens en fonctions dans les départements de Guadeloupe et de
 Martinique, à 20 % des émoluments mentionnés au 1° de l'article R. 6152-220 ;

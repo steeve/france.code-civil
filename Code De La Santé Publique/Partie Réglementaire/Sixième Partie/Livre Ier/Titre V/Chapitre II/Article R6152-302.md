@@ -7,8 +7,7 @@ souscrits par la France, ou ressortissant d'un Etat membre de la Communauté
 européenne ou partie à l'accord sur l'Espace économique européen ou d'Andorre ;
 
 2° Remplir les conditions requises pour l'exercice de la profession de médecin,
-de chirurgien-dentiste ou de pharmacien mentionnées aux articles L. 4111-1 et L.
-4221-1.
+de chirurgien-dentiste ou de pharmacien.
 
 En outre, pour l'inscription en biologie, chirurgie, médecine, radiologie et
 psychiatrie, sont requis :
