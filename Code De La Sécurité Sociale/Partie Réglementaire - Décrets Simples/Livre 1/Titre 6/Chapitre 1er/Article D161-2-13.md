@@ -2,7 +2,7 @@ Article D161-2-13
 ----
 Le titulaire d'une pension de vieillesse d'un ou plusieurs régimes relevant du
 premier alinéa de l'article L. 161-22 prenant effet à compter de l'âge fixé à
-l'article R. 161-11 qui reprend une ou plusieurs activités donnant lieu à
+l'article R. 161-18 qui reprend une ou plusieurs activités donnant lieu à
 affiliation à l'un ou plusieurs de ces régimes doit, dans le mois suivant la
 date de la reprise d'activité, déclarer sa situation, par écrit, à l'organisme
 qui lui sert la pension au titre de son dernier régime d'affiliation relevant

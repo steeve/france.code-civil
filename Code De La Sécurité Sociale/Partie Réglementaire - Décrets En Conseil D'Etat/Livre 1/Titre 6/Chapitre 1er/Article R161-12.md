@@ -1,10 +1,14 @@
 Article R161-12
 ----
-Lorsque le bénéfice de prestations d'invalidité, de vieillesse ou de veuvage est
-subordonné soit à une condition de ressources, soit à une condition de
-limitation ou d'interdiction de cumul avec d'autres prestations ou d'autres
-ressources, les prestations et les ressources d'origine étrangère ou versées par
-une organisation internationale sont prises en compte pour l'appréciation de ces
-conditions.
+Chaque organisme ou service mentionné à l'article R. 161-10 est autorisé à
+conserver pour l'établissement du relevé et de l'estimation mentionnés à
+l'article R. 161-10 le numéro d'inscription au répertoire national
+d'identification des personnes physiques du bénéficiaire du droit à
+l'information à compter de son affiliation à l'un des régimes dont il a la
+charge et jusqu'à son décès.
 
-Cette disposition s'applique à l'ensemble des régimes relevant du présent livre.
+L'organisme ou le service assurant la délivrance au bénéficiaire du relevé ou de
+l'estimation mentionnés à l'article R. 161-10 est autorisé à collecter et à
+conserver les données nécessaires à leur établissement figurant parmi celles qui
+sont mentionnées à l'article R. 161-11, pendant les délais fixés par l'arrêté
+prévu à l'article R. 161-13.
