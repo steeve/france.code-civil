@@ -12,7 +12,7 @@ précédant la date d'effet de sa pension : la durée totale des activités en c
 afférente à la période postérieure à la date d'effet de la pension.
 
 2° Les revenus perçus au titre des activités en cause au cours de chaque année
-civile, tels qu'ils sont définis au 2° de l'article R. 161-11-1.
+civile, tels qu'ils sont définis au 2° de l'article R. 161-19.
 
 Lorsque les intéressés sont titulaires de pensions au titre de plusieurs régimes
 de base relevant de l'article L. 161-22, les informations prévues aux 1° et 2°
