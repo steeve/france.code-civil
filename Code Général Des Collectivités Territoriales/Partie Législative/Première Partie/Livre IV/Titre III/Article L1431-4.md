@@ -5,19 +5,19 @@ culturelle est composé :
 
 1° Pour la majorité de ses membres, de représentants des collectivités
 territoriales ou de leurs groupements, désignés en leur sein par leurs conseils
-ou leurs organes délibérants, et de représentants de l'Etat.
+ou leurs organes délibérants, de représentants de l'Etat et, le cas échéant, de
+représentants d'établissements publics nationaux.
 
-Le maire de la commune siège de l'établissement est membre de droit du conseil
-d'administration.
-
-Le nombre des représentants de l'Etat ne peut être supérieur à la moitié du
-nombre des représentants des collectivités territoriales et de leurs groupements
-;
+Le maire de la commune siège de l'établissement peut, à sa demande, être membre
+du conseil d'administration ;
 
 2° De personnalités qualifiées désignées par les collectivités territoriales,
-leurs groupements et l'Etat ;
+leurs groupements, l'Etat et, le cas échéant, les établissements publics
+nationaux ;
 
-3° De représentants élus du personnel.
+3° De représentants du personnel élus à cette fin ;
+
+4° Le cas échéant, de représentants de fondations.
 
 Le conseil d'administration des établissements publics de coopération culturelle
 dont l'objet est de dispenser des enseignements ou des formations
