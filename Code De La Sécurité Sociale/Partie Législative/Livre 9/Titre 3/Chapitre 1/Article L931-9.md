@@ -18,18 +18,16 @@ juillet 1983 relative aux jeux de hasard,
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou
 valeurs, banqueroute,
 
-f) Pour infractions aux articles 6 et 15 de loi n° 66-1010 du 28 décembre 1966
-relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage
-et de publicité, infractions à l'article 10 de la loi n° 72-6 du 3 janvier 1972
-relative au démarchage financier et à des opérations de placement et
-d'assurance, infractions à l'article 40 de la loi n° 83-1 du 3 janvier 1983 sur
-le développement des investissements et la protection de l'épargne,
+f) Pour infractions aux articles L. 313-5 du code de la consommation et L. 353-1
+du code monétaire et financier, aux prêts d'argent et à certaines opérations de
+démarchage et de publicité, infractions à l'article L. 353-4 du code monétaire
+et financier, infractions à l'article L. 573-8 du code monétaire et financier,
 
 g) Pour recel des choses provenant des crimes ou délits visés ci-dessus ou des
 choses qui en sont le produit,
 
-h) Pour infractions visées aux articles 75 et 77 à 84 de la loi n° 84-46 du 24
-janvier 1984 relative à l'activité et au contrôle des établissements de crédit,
+h) Pour infractions visées aux articles L. 571-3 à L. 571-9 et L. 571-14 à L.
+571-16 du code monétaire et financier,
 
 i) Pour infractions aux articles 222-34 à 222-41 du code pénal et 415 du code
 des douanes ;
