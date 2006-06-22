@@ -1,7 +1,9 @@
 Article 797
 ----
-Pendant la durée des délais pour faire inventaire et pour délibérer, l'héritier
-ne peut être contraint à prendre qualité, et il ne peut être obtenu contre lui
-de condamnation : s'il renonce lorsque les délais sont expirés ou avant, les
-frais par lui faits légitimement jusqu'à cette époque sont à la charge de la
-succession.
+L'héritier doit payer les créanciers dans les deux mois suivant soit la
+déclaration de conserver le bien, soit le jour où le produit de l'aliénation est
+disponible.
+
+Lorsqu'il ne peut s'en dessaisir au profit des créanciers dans ce délai,
+notamment en raison d'une contestation portant sur l'ordre ou la nature des
+créances, il consigne les sommes disponibles tant que la contestation subsiste.

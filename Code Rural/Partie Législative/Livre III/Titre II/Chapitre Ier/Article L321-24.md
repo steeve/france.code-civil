@@ -1,9 +1,9 @@
 Article L321-24
 ----
-Nonobstant toute disposition contraire, les articles 832 et suivants du code
-civil sont applicables au conjoint survivant ou à tout héritier copropriétaire
-remplissant les conditions personnelles prévues au troisième alinéa de l'article
-832 lorsque les biens et droits immobiliers à destination agricole dépendant de
+Nonobstant toute disposition contraire, les articles 831 à 834 du code civil
+sont applicables au conjoint survivant ou à tout héritier copropriétaire
+remplissant les conditions personnelles prévues au premier alinéa de l'article
+831 lorsque les biens et droits immobiliers à destination agricole dépendant de
 la succession font l'objet d'un apport en jouissance ou d'une mise à disposition
 au profit d'une société à objet exclusivement agricole constituée entre
 agriculteurs personnes physiques se consacrant à l'exploitation des biens mis en

@@ -1,6 +1,8 @@
 Article 793
 ----
-La déclaration d'un héritier, qu'il entend ne prendre cette qualité que sous
-bénéfice d'inventaire, doit être faite au greffe du tribunal de grande instance
-dans l'arrondissement duquel la succession s'est ouverte : elle doit être
-inscrite sur le registre destiné à recevoir les actes de renonciation.
+Dans le délai prévu à l'article 792, l'héritier peut déclarer qu'il conserve en
+nature un ou plusieurs biens de la succession. En ce cas, il doit la valeur du
+bien fixée dans l'inventaire.
+
+Il peut vendre les biens qu'il n'entend pas conserver. En ce cas, il doit le
+prix de leur aliénation.

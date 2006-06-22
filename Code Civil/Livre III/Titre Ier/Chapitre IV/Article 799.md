@@ -1,7 +1,5 @@
 Article 799
 ----
-Les frais de poursuite, dans le cas de l'article précédent, sont à la charge de
-la succession, si l'héritier justifie, ou qu'il n'avait pas eu connaissance du
-décès, ou que les délais ont été insuffisants, soit à raison de la situation des
-biens, soit à raison des contestations survenues : s'il n'en justifie pas, les
-frais restent à sa charge personnelle.
+Les créanciers successoraux qui, dans le délai prévu à l'article 792, déclarent
+leurs créances après l'épuisement de l'actif n'ont de recours que contre les
+légataires qui ont été remplis de leurs droits.

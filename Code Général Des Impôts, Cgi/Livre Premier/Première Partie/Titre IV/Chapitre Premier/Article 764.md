@@ -7,14 +7,13 @@ propriété des biens meubles est déterminée, sauf preuve contraire :
 publiquement dans les deux années du décès ;
 
 2° A défaut d'actes de vente, par l'estimation contenue dans les inventaires,
-s'il en est dressé dans les formes prescrites par l'article 943 du code de
-procédure civile, et dans les cinq années du décès, pour les meubles meublants,
-et par l'estimation contenue dans les inventaires et autres actes, s'il en est
-passé, dans le même délai, pour les autres biens meubles, sauf les dispositions
-du II ;
+s'il en est dressé dans les formes prescrites par l'article 789 du code civil,
+et dans les cinq années du décès, pour les meubles meublants, et par
+l'estimation contenue dans les inventaires et autres actes, s'il en est passé,
+dans le même délai, pour les autres biens meubles, sauf les dispositions du II ;
 
 3° A défaut des bases d'évaluation établies aux 1° et 2°, par la déclaration
-détaillée et estimative des parties; toutefois, pour les meubles meublants, et
+détaillée et estimative des parties ; toutefois, pour les meubles meublants, et
 sans que l'administration ait à en justifier l'existence, la valeur imposable ne
 peut être inférieure à 5 % de l'ensemble des autres valeurs mobilières et
 immobilières de la succession, la preuve contraire étant aussi réservée.

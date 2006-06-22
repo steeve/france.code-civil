@@ -1,5 +1,5 @@
 Article 806
 ----
-Il ne peut vendre les immeubles que dans les formes prescrites par les lois sur
-la procédure ; il est tenu d'en déléguer le prix aux créanciers hypothécaires
-qui se sont fait connaître.
+Le renonçant n'est pas tenu au paiement des dettes et charges de la succession.
+Toutefois, il est tenu à proportion de ses moyens au paiement des frais
+funéraires de l'ascendant ou du descendant à la succession duquel il renonce.

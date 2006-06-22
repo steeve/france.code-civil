@@ -1,8 +1,9 @@
 Article 911
 ----
-Toute disposition au profit d'un incapable sera nulle, soit qu'on la déguise
-sous la forme d'un contrat onéreux, soit qu'on la fasse sous le nom de personnes
-interposées.
+Toute libéralité au profit d'une personne physique, frappée d'une incapacité de
+recevoir à titre gratuit, est nulle, qu'elle soit déguisée sous la forme d'un
+contrat onéreux ou faite sous le nom de personnes interposées, physiques ou
+morales.
 
-Seront réputées personnes interposées les père et mère, les enfants et
-descendants, et l'époux de la personne incapable.
+Sont présumés personnes interposées, jusqu'à preuve contraire, les père et mère,
+les enfants et descendants, ainsi que l'époux de la personne incapable.

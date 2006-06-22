@@ -21,4 +21,4 @@ les bases fixées au deuxième alinéa de l'article L. 321-13.
 Le paiement du salaire différé ou l'attribution faite au créancier, pour le
 remplir de ses droits de créance, ne donne lieu à la perception d'aucun droit
 d'enregistrement. Les délais et modalités de paiement sont fixés, s'il y a lieu,
-dans les conditions prévues à l'article 868 du code civil.
+dans les conditions prévues à l'article 924-3 du code civil.

@@ -11,3 +11,6 @@ conjoint par contrat de mariage ou pendant l'union, sauf volonté contraire de
 l'époux qui les a consentis. Cette volonté est constatée par le juge au moment
 du prononcé du divorce et rend irrévocables l'avantage ou la disposition
 maintenus.
+
+Toutefois, si le contrat de mariage le prévoit, les époux pourront toujours
+reprendre les biens qu'ils auront apportés à la communauté.

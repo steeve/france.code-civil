@@ -1,9 +1,9 @@
 Article 962
 ----
-La donation demeurera pareillement révoquée lors même que le donataire serait
-entré en possession des biens donnés, et qu'il y aurait été laissé par le
-donateur depuis la survenance de l'enfant ; sans néanmoins que le donataire soit
-tenu de restituer les fruits par lui perçus, de quelque nature qu'ils soient, si
-ce n'est du jour que la naissance de l'enfant lui aura été notifiée par exploit
-ou autre acte en bonne forme ; et ce, quand même la demande pour rentrer dans
-les biens donnés n'aurait été formée que postérieurement à cette notification.
+La donation peut pareillement être révoquée, même si le donataire est entré en
+possession des biens donnés et qu'il y a été laissé par le donateur depuis la
+survenance de l'enfant. Toutefois, le donataire n'est pas tenu de restituer les
+fruits qu'il a perçus, de quelque nature qu'ils soient, si ce n'est du jour
+auquel la naissance de l'enfant ou son adoption en la forme plénière lui a été
+notifiée par exploit ou autre acte en bonne forme, même si la demande pour
+rentrer dans les biens donnés a été formée après cette notification.

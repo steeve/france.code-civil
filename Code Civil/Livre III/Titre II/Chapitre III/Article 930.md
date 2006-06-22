@@ -1,12 +1,13 @@
 Article 930
 ----
-L'action en réduction ou revendication pourra être exercée par les héritiers
-contre les tiers détenteurs des immeubles faisant partie des donations et
-aliénés par les donataires, de la même manière et dans le même ordre que contre
-les donataires eux-mêmes, et discussion préalablement faite de leurs biens.
-Cette action devra être exercée suivant l'ordre des dates des aliénations, en
-commençant par la plus récente.
+La renonciation est établie par acte authentique spécifique reçu par deux
+notaires. Elle est signée séparément par chaque renonçant en présence des seuls
+notaires. Elle mentionne précisément ses conséquences juridiques futures pour
+chaque renonçant.
 
-Lorsque le donateur aura consenti à l'aliénation avec l'accord de tous les
-réservataires nés et vivants au moment de celle-ci, l'action ne pourra plus être
-exercée contre les tiers détenteurs.
+La renonciation est nulle lorsqu'elle n'a pas été établie dans les conditions
+fixées au précédent alinéa, ou lorsque le consentement du renonçant a été vicié
+par l'erreur, le dol ou la violence.
+
+La renonciation peut être faite dans le même acte par plusieurs héritiers
+réservataires.

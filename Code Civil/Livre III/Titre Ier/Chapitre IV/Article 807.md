@@ -1,10 +1,11 @@
 Article 807
 ----
-Il est tenu, si les créanciers ou autres personnes intéressées l'exigent, de
-donner caution bonne et solvable de la valeur du mobilier compris dans
-l'inventaire, et de la portion du prix des immeubles non déléguée aux créanciers
-hypothécaires.
+Tant que la prescription du droit d'accepter n'est pas acquise contre lui,
+l'héritier peut révoquer sa renonciation en acceptant la succession purement et
+simplement, si elle n'a pas été déjà acceptée par un autre héritier ou si l'Etat
+n'a pas déjà été envoyé en possession.
 
-Faute par lui de fournir cette caution, les meubles sont vendus et leur prix est
-déposé, ainsi que la portion non déléguée du prix des immeubles, pour être
-employés à l'acquit des charges de la succession.
+Cette acceptation rétroagit au jour de l'ouverture de la succession, sans
+toutefois remettre en cause les droits qui peuvent être acquis à des tiers sur
+les biens de la succession par prescription ou par actes valablement faits avec
+le curateur à la succession vacante.

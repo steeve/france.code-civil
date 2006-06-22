@@ -1,11 +1,17 @@
 Article 780
 ----
-La donation, vente ou transport que fait de ses droits successifs un des
-cohéritiers, soit à un étranger, soit à tous ses cohéritiers, soit à
-quelques-uns d'eux, emporte de sa part acceptation de la succession.
+La faculté d'option se prescrit par dix ans à compter de l'ouverture de la
+succession.
 
-Il en est de même : 1° de la renonciation, même gratuite, que fait un des
-héritiers au profit d'un ou de plusieurs de ses cohéritiers ;
+L'héritier qui n'a pas pris parti dans ce délai est réputé renonçant.
 
-2° De la renonciation qu'il fait même au profit de tous ses cohéritiers
-indistinctement, lorsqu'il reçoit le prix de sa renonciation.
+La prescription ne court contre l'héritier qui a laissé le conjoint survivant en
+jouissance des biens héréditaires qu'à compter de l'ouverture de la succession
+de ce dernier.
+
+La prescription ne court contre l'héritier subséquent d'un héritier dont
+l'acceptation est annulée qu'à compter de la décision définitive constatant
+cette nullité.
+
+La prescription ne court pas tant que le successible a des motifs légitimes
+d'ignorer la naissance de son droit, notamment l'ouverture de la succession.

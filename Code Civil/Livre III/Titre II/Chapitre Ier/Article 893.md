@@ -1,4 +1,6 @@
 Article 893
 ----
-On ne pourra disposer de ses biens, à titre gratuit, que par donation entre vifs
-ou par testament, dans les formes ci-après établies.
+La libéralité est l'acte par lequel une personne dispose à titre gratuit de tout
+ou partie de ses biens ou de ses droits au profit d'une autre personne.
+
+Il ne peut être fait de libéralité que par donation entre vifs ou par testament.

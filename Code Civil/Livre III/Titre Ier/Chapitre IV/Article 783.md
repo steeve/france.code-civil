@@ -1,8 +1,12 @@
 Article 783
 ----
-Le majeur ne peut attaquer l'acceptation expresse ou tacite qu'il a faite d'une
-succession, que dans le cas où cette acceptation aurait été la suite d'un dol
-pratiqué envers lui : il ne peut jamais réclamer sous prétexte de lésion,
-excepté seulement dans le cas où la succession se trouverait absorbée ou
-diminuée de plus de moitié, par la découverte d'un testament inconnu au moment
-de l'acceptation.
+Toute cession, à titre gratuit ou onéreux, faite par un héritier de tout ou
+partie de ses droits dans la succession emporte acceptation pure et simple.
+
+Il en est de même :
+
+1° De la renonciation, même gratuite, que fait un héritier au profit d'un ou de
+plusieurs de ses cohéritiers ou héritiers de rang subséquent ;
+
+2° De la renonciation qu'il fait, même au profit de tous ses cohéritiers ou
+héritiers de rang subséquent indistinctement, à titre onéreux.

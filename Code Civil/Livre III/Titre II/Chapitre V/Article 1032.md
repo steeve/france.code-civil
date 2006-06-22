@@ -1,3 +1,4 @@
 Article 1032
 ----
-Les pouvoirs de l'exécuteur testamentaire ne passeront point à ses héritiers.
+La mission de l'exécuteur testamentaire prend fin au plus tard deux ans après
+l'ouverture du testament sauf prorogation par le juge.

@@ -20,5 +20,5 @@ Si plusieurs indivisaires exercent leur droit de préemption, ils sont réputés
 sauf convention contraire, acquérir ensemble la portion mise en vente en
 proportion de leur part respective dans l'indivision.
 
-Lorsque des délais de paiement ont été consentis par le cédant, l'article 833-1
+Lorsque des délais de paiement ont été consentis par le cédant, l'article 828
 est applicable.

@@ -1,6 +1,5 @@
 Article 1051
 ----
-Si, dans les cas ci-dessus, le grevé de restitution au profit de ses enfants
-meurt, laissant des enfants au premier degré et des descendants d'un enfant
-prédécédé, ces derniers recueilleront, par représentation, la portion de
-l'enfant prédécédé.
+Le second gratifié est réputé tenir ses droits de l'auteur de la libéralité. Il
+en va de même de ses héritiers lorsque ceux-ci recueillent la libéralité dans
+les conditions prévues à l'article 1056.

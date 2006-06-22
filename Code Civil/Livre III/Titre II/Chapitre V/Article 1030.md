@@ -1,4 +1,5 @@
 Article 1030
 ----
-Le mineur ne pourra être exécuteur testamentaire même avec l'autorisation de son
-tuteur ou curateur.
+Le testateur peut habiliter l'exécuteur testamentaire à prendre possession en
+tout ou partie du mobilier de la succession et à le vendre s'il est nécessaire
+pour acquitter les legs particuliers dans la limite de la quotité disponible.

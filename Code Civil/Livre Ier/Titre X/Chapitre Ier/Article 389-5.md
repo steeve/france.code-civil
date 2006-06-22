@@ -11,8 +11,8 @@ Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni
 apporter en société un immeuble ou un fonds de commerce appartenant au mineur,
 ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans
 l'autorisation du juge des tutelles. La même autorisation est requise pour le
-partage amiable, et l'état liquidatif devra être homologué dans les conditions
-prévues à l'article 466.
+partage amiable, et l'état liquidatif doit être approuvé par le juge des
+tutelles.
 
 Si l'acte cause un préjudice au mineur, les parents en sont responsables
 solidairement.

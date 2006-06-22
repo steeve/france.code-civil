@@ -1,3 +1,7 @@
 Article 804
 ----
-Il n'est tenu que des fautes graves dans l'administration dont il est chargé.
+La renonciation à une succession ne se présume pas.
+
+Pour être opposable aux tiers, la renonciation opérée par l'héritier universel
+ou à titre universel doit être faite au tribunal dans le ressort duquel la
+succession s'est ouverte.

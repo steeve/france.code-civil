@@ -1,5 +1,6 @@
 Article 781
 ----
-Lorsque celui à qui une succession est échue est décédé sans l'avoir répudiée ou
-sans l'avoir acceptée expressément ou tacitement, ses héritiers peuvent
-l'accepter ou la répudier de son chef.
+Lorsque le délai de prescription mentionné à l'article 780 est expiré, celui qui
+se prévaut de sa qualité d'héritier doit justifier que lui-même ou celui ou ceux
+dont il tient cette qualité ont accepté cette succession avant l'expiration de
+ce délai.

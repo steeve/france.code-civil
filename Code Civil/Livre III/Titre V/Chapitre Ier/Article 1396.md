@@ -13,6 +13,7 @@ délivrer ni grosses ni expéditions du contrat de mariage sans transcrire à la
 suite le changement ou la contre-lettre.
 
 Le mariage célébré, il ne peut être apporté de changement au régime matrimonial
-que par l'effet d'un jugement, soit à la demande de l'un des époux, dans le cas
-de la séparation de biens ou des autres mesures judiciaires de protection, soit
-à la requête conjointe des deux époux, dans le cas de l'article suivant.
+que par l'effet d'un jugement à la demande de l'un des époux dans le cas de la
+séparation de biens ou des autres mesures judiciaires de protection ou par
+l'effet d'un acte notarié, le cas échéant homologué, dans le cas de l'article
+suivant.

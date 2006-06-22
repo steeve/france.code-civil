@@ -1,5 +1,5 @@
 Article 1027
 ----
-L'héritier pourra faire cesser la saisine en offrant de remettre aux exécuteurs
-testamentaires somme suffisante pour le paiement des legs mobiliers ou en
-justifiant de ce paiement.
+S'il y a plusieurs exécuteurs testamentaires acceptant, l'un d'eux peut agir à
+défaut des autres, à moins que le testateur en ait disposé autrement ou qu'il
+ait divisé leur fonction.

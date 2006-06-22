@@ -4,7 +4,7 @@ Le droit de préemption de la société d'aménagement foncier et d'établisseme
 rural ne peut primer les droits de préemption établis par les textes en vigueur
 au profit de l'Etat, des collectivités publiques, des établissements publics et
 des cohéritiers bénéficiaires de l'attribution préférentielle prévue à l'article
-832-2 du code civil.
+832-1 du code civil.
 
 Ce droit de préemption ne peut s'exercer contre le preneur en place, son
 conjoint ou son descendant régulièrement subrogé dans les conditions prévues à

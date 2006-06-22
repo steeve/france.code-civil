@@ -1,8 +1,11 @@
 Article 809
 ----
-Les créanciers non opposants qui ne se présentent qu'après l'apurement du compte
-et le paiement du reliquat, n'ont de recours à exercer que contre les
-légataires.
+La succession est vacante :
 
-Dans l'un et l'autre cas, le recours se prescrit par le laps de trois ans, à
-compter du jour de l'apurement du compte et du paiement du reliquat.
+1° Lorsqu'il ne se présente personne pour réclamer la succession et qu'il n'y a
+pas d'héritier connu ;
+
+2° Lorsque tous les héritiers connus ont renoncé à la succession ;
+
+3° Lorsque, après l'expiration d'un délai de six mois depuis l'ouverture de la
+succession, les héritiers connus n'ont pas opté, de manière tacite ou expresse.

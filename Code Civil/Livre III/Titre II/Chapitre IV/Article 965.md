@@ -1,5 +1,4 @@
 Article 965
 ----
-Toute clause ou convention par laquelle le donateur aurait renoncé à la
-révocation de la donation pour survenance d'enfant sera regardée comme nulle et
-ne pourra produire aucun effet.
+Le donateur peut, à tout moment, renoncer à exercer la révocation pour
+survenance d'enfant.
