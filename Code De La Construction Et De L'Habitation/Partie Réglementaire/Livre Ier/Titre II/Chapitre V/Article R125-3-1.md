@@ -16,12 +16,17 @@ de la porte doit être interrompu ;
 moins que la conception de la porte ne permette que son utilisation, même
 anormale, ne crée aucun danger pour les personnes ;
 
-- le volume de débattement de la porte doit être correctement éclairé et l'aire
-de débattement doit faire l'objet d'un marquage au sol ;
+- l'aire de débattement de la porte doit être correctement éclairée et faire
+l'objet d'un marquage au sol ;
 
 - tout mouvement de la porte doit être signalé, tant à l'extérieur qu'à
 l'intérieur, par un feu orange clignotant visible de l'aire de débattement. La
 signalisation doit précéder le mouvement de la porte ;
 
 - la porte doit pouvoir être manoeuvrée de l'extérieur comme de l'intérieur pour
-permettre de dégager une personne accidentée.
+permettre de dégager une personne accidentée. La manoeuvre extérieure est
+facultative si la pression exercée par la porte est telle qu'elle ne fait pas
+obstacle au dégagement de la personne accidentée.
+
+Un arrêté du ministre chargé de la construction précise les conditions
+d'application des sixième et septième alinéas du présent article.
