@@ -85,6 +85,12 @@ supérieure à cinq années et que le montant destiné à couvrir les frais de
 gestion prévus dans le bulletin d'adhésion ou le contrat collectif soit fixé
 pour une période supérieure à cinq années ;
 
+- lorsque la mutuelle n'assume pas un risque de placement, et pour les contrats
+mentionnés à l'article L. 222-2 qui prévoient que les frais de gestion ne sont
+pas fixés pour une période supérieure à cinq ans, à un montant équivalant à 25 %
+des dépenses de gestion nettes relatives à ces opérations pour le dernier
+exercice ;
+
 - lorsque la mutuelle ou l'union n'assume pas de risque de placement et lorsque
 le montant destiné à couvrir des frais de gestion n'est pas fixé pour une
 période supérieure à cinq ans, à un nombre représentant 25 % des dépenses de

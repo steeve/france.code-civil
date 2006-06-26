@@ -21,7 +21,10 @@ pour une demande d'exercice en libre prestation de services.
 II. - Tout projet de modification de la nature ou des conditions d'exercice des
 activités en liberté d'établissement ou en libre prestation de services
 autorisées conformément aux dispositions du troisième alinéa de l'article L.
-310-12 est notifié à l'Autorité de contrôle.
+310-12 est notifié à l'Autorité de contrôle. Lorsque l'entreprise opère en
+régime de liberté d'établissement, elle communique également son projet de
+modification, de manière simultanée, aux autorités compétentes de l'Etat membre
+de la Communauté européenne sur le territoire duquel est située sa succursale.
 
 Si l'Autorité estime que les conditions visées à ce même alinéa sont toujours
 remplies, elle communique aux autorités compétentes de l'Etat membre concerné,

@@ -1,7 +1,7 @@
 Article R112-1
 ----
-Les polices d'assurance des entreprises mentionnées au 5° de l'article L. 310-1
-(1) doivent indiquer :
+Les polices d'assurance relevant des branches 1 à 17 de l'article R. 321-1
+doivent indiquer :
 
 - la durée des engagements réciproques des parties ;
 

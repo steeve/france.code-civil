@@ -12,6 +12,12 @@ L'exigence minimale de marge de solvabilité est calculée par rapport aux
 provisions mentionnées aux 1° et 4° de l'article R. 931-10-17 et aux capitaux
 sous risque. Elle est égale à la somme des deux résultats suivants :
 
+- lorsque l'institution n'assume pas un risque de placement, et pour les
+contrats mentionnés à l'article L. 932-40 qui prévoient que les frais de gestion
+ne sont pas fixés pour une période supérieure à cinq ans, à un montant
+équivalent à 25 % des dépenses de gestion nettes relatives à ces opérations pour
+le dernier exercice ;
+
 - le premier résultat est obtenu en multipliant un nombre représentant 4 p. 100
 de la somme des provisions mentionnées aux 1° et 4° de l'article R. 931-10-17,
 relatives aux opérations directes sans déduction des cessions en réassurance et

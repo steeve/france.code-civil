@@ -1,5 +1,6 @@
 Article R342-2
 ----
-Les livres ou documents prévus au présent chapitre peuvent être établis par tous
-moyens ou procédés conférant par eux-mêmes un caractère d'authenticité aux
-écritures comptables et permettant le contrôle de la comptabilité.
+Les dispositions du chapitre II du titre III du livre III, et notamment de
+l'article R. 332-1-1 et des articles R. 332-3 et R. 332-3-1, et du I de
+l'article R. 332-21 s'appliquent séparément à chaque portefeuille de titres et
+de placements qui fait l'objet d'un enregistrement comptable distinct.

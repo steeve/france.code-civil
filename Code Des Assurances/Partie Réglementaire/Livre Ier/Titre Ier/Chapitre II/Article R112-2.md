@@ -2,7 +2,7 @@ Article R112-2
 ----
 Les dispositions des deux premiers alinéas de l'article L. 112-2 du code des
 assurances ne sont pas applicables aux contrats garantissant les risques définis
-au deuxième alinéa de l'article L. 351-4.
+à l'article L. 111-6.
 
 Elles ne sont pas non plus applicables aux contrats d'assurance couvrant des
 risques liés à la villégiature, au camping, aux sports d'hiver, aux vacances et
