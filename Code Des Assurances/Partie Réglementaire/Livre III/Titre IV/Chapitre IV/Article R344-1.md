@@ -7,8 +7,10 @@ autres actifs affectables à la représentation des engagements réglementés,
 est au moins égal au résultat obtenu en divisant par cette valeur la somme des
 montants suivants :
 
-a) Actif mentionné à l'article L. 441-8, correspondant aux opérations relevant
-de l'article L. 441-1, évalué comme il est dit à l'article R. 332-20-1 ;
+a) Actifs correspondant aux opérations mentionnées à l'article L. 441-1, à
+l'article L. 142-1, à l'article L. 143-1, ainsi que celles relevant de l'article
+108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, évalués
+comme il est dit à l'article R. 332-20-1 ;
 
 b) Placements affectés à la représentation des contrats d'assurance sur la vie
 ou de capitalisation en unités de compte définis au deuxième alinéa de l'article
@@ -30,8 +32,8 @@ l'ensemble des placements appartenant à l'entreprise et de ceux des autres
 actifs affectables à la représentation des engagements réglementés, autres que
 ceux mentionnés aux a, b et c ci-dessus.
 
-II. - Le pourcentage mentionné au e du I du présent article est égal à 85 p. 100
-du quotient A/B, avec :
+II. - Le pourcentage mentionné au e du I du présent article est égal à 85 % du
+quotient A/B, avec :
 
 A : montant moyen des provisions techniques brutes de réassurance constituées au
 titre de l'ensemble des opérations pratiquées par l'entreprise autres que celles

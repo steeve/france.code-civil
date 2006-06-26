@@ -1,9 +1,9 @@
 Article A132-8
 ----
-I. - L'encadré mentionné à l'article L. 132- 5-2 est placé en tête de
-proposition d'assurance, de projet de contrat, ou de notice. Sa taille ne
-dépasse pas une page et il contient, de façon limitative et dans l'ordre précisé
-ci-dessous, les informations suivantes :
+I. - L'encadré mentionné à l'article L. 132-5-2 est placé en tête de proposition
+d'assurance, de projet de contrat, ou de notice. Sa taille ne dépasse pas une
+page et il contient, de façon limitative et dans l'ordre précisé ci-dessous, les
+informations suivantes :
 
 1° Il est indiqué si le contrat est un contrat d'assurance vie individuel ou de
 groupe, ou un contrat de capitalisation. Pour les contrats mentionnés à

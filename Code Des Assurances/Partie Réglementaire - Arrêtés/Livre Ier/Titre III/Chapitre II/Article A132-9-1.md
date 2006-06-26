@@ -27,7 +27,7 @@ humaine.
 
 L'organisme professionnel mentionné au I qui a reçu la lettre envoyée par la
 personne physique ou morale en avise également les autres organismes
-professionnels mentionnés au I ou le ou les autres organismes professionnels
+professionnels mentionnés au I et le ou les autres organismes professionnels
 habilités conformément à l'article L. 223-10-1 du code de la mutualité.
 
 III. - Pour les entreprises d'assurance mentionnées à l'article L. 310-1 agréées

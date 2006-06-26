@@ -9,7 +9,7 @@ Le souscripteur peut renoncer au présent contrat pendant trente jours
 calendaires révolus à compter du "moment où le preneur est informé que le
 contrat est conclu". Cette renonciation doit être faite par lettre recommandée
 avec avis de réception, envoyée à l'adresse suivante "adresse à laquelle la
-lettre de renonciation do it être envoyée". Elle peut être faite suivant le
+lettre de renonciation doit être envoyée". Elle peut être faite suivant le
 modèle de lettre inclus dans la proposition d'assurance ou le contrat.
 
 II. - Pour les contrats relevant de l'article L. 132-5-3, la mention est ainsi

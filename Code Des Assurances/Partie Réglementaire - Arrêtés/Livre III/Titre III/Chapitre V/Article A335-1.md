@@ -31,9 +31,11 @@ Pour les contrats en cas de vie autres que les contrats de rente viagère, les
 tables mentionnées au a sont utilisées en corrigeant l'âge de l'assuré
 conformément aux décalages d'âge ci-annexés. (Annexes non reproduites).
 
-Pour les contrats de rentes viagères, le tarif déterminé en utilisant les tables
-mentionnées au b ne peut être inférieur à celui qui résulterait de l'utilisation
-des tables appropriées mentionnées au a.
+Pour les contrats de rentes viagères, en ce compris celles revêtant un caractère
+temporaire, et à l'exception des contrats relevant du chapitre III du livre IV
+du titre Ier, le tarif déterminé en utilisant les tables mentionnées au b ne
+peut être inférieur à celui qui résulterait de l'utilisation des tables
+appropriées mentionnées au a.
 
 Pour les contrats de rentes viagères immédiates et les contrats prévoyant, au
 choix de l'assuré, une liquidation en rente ou le versement d'un capital, et

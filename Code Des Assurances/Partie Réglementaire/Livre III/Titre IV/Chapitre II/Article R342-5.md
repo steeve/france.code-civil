@@ -1,14 +1,15 @@
 Article R342-5
 ----
-Dans le cas où l'entreprise possède un actif exprimé ou a des engagements
-libellés en monnaies étrangères, les comptes concernés sont tenus dans ces
-monnaies.
+Les actifs de chaque contrat sont conservés par un dépositaire unique. Ce
+dépositaire ouvre au nom de l'entreprise d'assurance, pour les opérations
+financières liées à la gestion financière du contrat, un compte espèce et un
+compte de titres propres à chaque contrat ainsi que tout compte nécessaire à la
+tenue des positions sur les marchés d'instruments financiers à terme.
 
-L'inventaire annuel, le bilan, le compte d'exploitation, le compte de pertes et
-profits et les autres documents publiés sont établis en francs français ; les
-monnaies étrangères sont converties en francs français d'après les cours des
-changes constatés à la clôture de l'exercice.
-
-Les plus-values nettes de change éventuellement dégagées sont portées selon le
-cas à un compte de "Réserve spéciale pour fluctuations de change" ou de "Réserve
-spéciale pour cautionnement à l'étranger".
+Le dépositaire assure la conservation des actifs des contrats qui font l'objet
+d'un enregistrement comptable distinct tel que prévu à l'article R. 342-1,
+dépouille les ordres de l'entreprise d'assurance concernant les opérations sur
+les titres et placements de ce ou ces contrats, y compris ceux relatifs aux
+changements d'affectation de titres mentionnés aux articles R. 342-3 et R. 342-4
+et exerce les droits de souscription et d'attribution attachés aux titres et aux
+valeurs de ce ou de ces contrats.

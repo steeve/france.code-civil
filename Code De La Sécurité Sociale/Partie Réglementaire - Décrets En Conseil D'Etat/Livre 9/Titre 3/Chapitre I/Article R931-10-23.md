@@ -1,9 +1,9 @@
 Article R931-10-23
 ----
 Rapportée au montant défini à l'article R. 931-10-22, la valeur admise en
-représentation des actifs mentionnés ci-après ne peut excéder, sauf dérogation
-accordée au cas par cas par l'Autorité de contrôle instituée à l'article L.
-951-1 :
+représentation des actifs mentionnés ci-après admis en représentation des
+engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas
+par l'Autorité de contrôle instituée à l'article L. 951-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus par un même
 organisme, à l'exception des valeurs émises ou garanties, ou des prêts obtenus

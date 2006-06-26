@@ -24,7 +24,10 @@ exercice en libre prestation de services.
 II. - Tout projet de modification de la nature ou des conditions d'exercice des
 activités en liberté d'établissement ou en libre prestation de services
 autorisées conformément aux dispositions du troisième alinéa de l'article L.
-951-2 est notifié à l'Autorité de contrôle.
+951-2 est notifié à l'Autorité de contrôle. Lorsque l'institution de prévoyance
+ou l'union opère en régime de liberté d'établissement, elle communique également
+son projet de modification, de manière simultanée, aux autorités compétentes de
+l'Etat membre sur le territoire duquel est située sa succursale.
 
 Si l'Autorité estime que les conditions mentionnées à ce même alinéa sont
 toujours remplies, elle communique aux autorités compétentes de l'Etat membre de

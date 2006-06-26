@@ -1,12 +1,13 @@
 Article A132-1
 ----
 Les tarifs pratiqués par les entreprises pratiquant des opérations mentionnées
-au 1° de l'article L. 310-1 doivent être établis d'après un taux au plus égal à
-75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur une base
-semestrielle sans pouvoir dépasser, au-delà de huit ans, le plus bas des deux
-taux suivants : 3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus. Pour
-les contrats à primes périodiques ou à capital variable, quelle que soit leur
-durée, ce taux ne peut excéder le plus bas des deux taux suivants :
+au 1° de l'article L. 310-1, en ce compris celles mentionnées à l'article L.
+143-1 doivent être établis d'après un taux au plus égal à 75 p. 100 du taux
+moyen des emprunts de l'Etat français calculé sur une base semestrielle sans
+pouvoir dépasser, au-delà de huit ans, le plus bas des deux taux suivants : 3,5
+p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus. Pour les contrats à primes
+périodiques ou à capital variable, quelle que soit leur durée, ce taux ne peut
+excéder le plus bas des deux taux suivants :
 
 3,5 p. 100 ou 60 p. 100 du taux moyen indiqué ci-dessus.
 

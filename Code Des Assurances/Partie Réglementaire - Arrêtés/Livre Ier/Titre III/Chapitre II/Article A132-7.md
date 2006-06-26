@@ -26,8 +26,8 @@ informations communiquées à l'assuré sont les suivantes :
 législatives, le taux de rendement de ces actifs ;
 
 2° Pour les contrats de groupe prévoyant que les engagements sont représentés
-par des actifs faisant l'objet d'une affectation comptable distincte propre au
-contrat, le taux de rendement de ces actifs ;
+par des actifs faisant l'objet d'une identification distincte pour satisfaire à
+des stipulations contractuelles, le taux de rendement de ces actifs ;
 
 3° Dans les autres cas, le taux de rendement des placements défini au 1 de
 l'article A. 331-7 et le taux moyen des montants, y compris ceux provenant de la

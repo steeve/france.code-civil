@@ -1,9 +1,9 @@
 Article R212-33
 ----
 Rapportée au montant défini à l'article R. 212-32, la valeur admise en
-représentation des actifs mentionnés ci-après ne peut excéder, sauf dérogation
-accordée au cas par cas par l'Autorité de contrôle mentionnée à l'article L.
-510-1 :
+représentation des actifs mentionnés ci-après admis en représentation des
+engagements réglementés ne peut excéder, sauf dérogation accordée au cas par cas
+par l'Autorité de contrôle mentionnée à l'article L. 510-1 :
 
 1° 5 % pour l'ensemble des valeurs émises et des prêts obtenus par un même
 organisme, à l'exception :

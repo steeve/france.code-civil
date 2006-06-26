@@ -18,6 +18,8 @@ mentionnée à l'alinéa précédent, demander aux entreprises ayant répondu à
 l'appel d'offres d'améliorer leur offre dans un délai qu'elle fixe. En l'absence
 de réponse satisfaisante, elle peut rejeter leur candidature.
 
-Si l'entreprise défaillante pratiquait les opérations relevant du chaptire Ier
-du livre IV du présent code, les actifs affectés à ces opérations sont attribués
-aux cessionnaires des engagements correspondants.
+Si l'entreprise défaillante pratiquait les opérations relevant de l'article L.
+441-1, de l'article L. 142-1, de l'article L. 143-1, ainsi que de l'article 108
+de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, les actifs
+affectés à ces opérations sont attribués aux cessionnaires des engagements
+correspondants.
