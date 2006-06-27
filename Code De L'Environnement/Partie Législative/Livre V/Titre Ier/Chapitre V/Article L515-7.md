@@ -21,5 +21,5 @@ conditions techniques et financières de l'engagement et de la poursuite de
 l'exploitation, compte tenu de l'éventualité du refus de sa prolongation. Cette
 convention est soumise pour avis au représentant de l'Etat.
 
-Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage
-souterrain de déchets radioactifs.
+Les dispositions du présent article ne s'appliquent pas au stockage des déchets
+radioactifs.

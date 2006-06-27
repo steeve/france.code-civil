@@ -1,41 +1,40 @@
 Article L542-3
 ----
-I. - Le Gouvernement adresse chaque année au Parlement un rapport faisant état
-de l'avancement des recherches sur la gestion des déchets radioactifs à haute
-activité et à vie longue et des travaux qui sont menés simultanément pour :
+I. à V.-Paragraphes abrogés
 
-1° La recherche de solutions permettant la séparation et la transmutation des
-éléments radioactifs à vie longue présents dans ces déchets ;
+VI.-Une commission nationale est chargée d'évaluer annuellement l'état
+d'avancement des recherches et études relatives à la gestion des matières et des
+déchets radioactifs par référence aux orientations fixées par le plan national
+prévu à l'article L. 542-1-2. Cette évaluation donne lieu à un rapport annuel
+qui fait également état des recherches effectuées à l'étranger. Il est transmis
+au Parlement, qui en saisit l'Office parlementaire d'évaluation des choix
+scientifiques et technologiques, et il est rendu public.
 
-2° L'étude des possibilités de stockage réversible ou irréversible dans les
-formations géologiques profondes, notamment grâce à la réalisation de
-laboratoires souterrains ;
-
-3° L'étude de procédés de conditionnement et d'entreposage de longue durée en
-surface de ces déchets.
-
-II. - Ce rapport fait également état des recherches et des réalisations
-effectuées à l'étranger.
-
-III. - Avant le 30 décembre 2006, le Gouvernement adressera au Parlement un
-rapport global d'évaluation de ces recherches accompagné d'un projet de loi
-autorisant, le cas échéant, la création d'un centre de stockage des déchets
-radioactifs à haute activité et à vie longue et fixant le régime des servitudes
-et des sujétions afférentes à ce centre.
-
-IV. - Le Parlement saisit de ces rapports l'Office parlementaire d'évaluation
-des choix scientifiques et technologiques.
-
-V. - Ces rapports sont rendus publics.
-
-VI. - Ils sont établis par une commission nationale d'évaluation, composée de :
+La commission est composée des membres suivants, nommés pour six ans :
 
 1° Six personnalités qualifiées, dont au moins deux experts internationaux,
 désignées à parité par l'Assemblée nationale et par le Sénat, sur proposition de
 l'Office parlementaire d'évaluation des choix scientifiques et technologiques ;
 
 2° Deux personnalités qualifiées désignées par le Gouvernement sur proposition
-du Conseil supérieur de la sûreté et de l'information nucléaires ;
+de l'Académie des sciences morales et politiques ;
 
-3° Quatre experts scientifiques, désignés par le Gouvernement sur proposition de
-l'Académie des sciences.
+3° Quatre experts scientifiques, dont au moins un expert international, désignés
+par le Gouvernement sur proposition de l'Académie des sciences.
+
+Le mandat des membres de la commission est renouvelable une fois.
+
+La commission est renouvelée par moitié tous les trois ans. Pour la constitution
+initiale de la commission, le mandat de six de ses membres, désignés par tirage
+au sort, est fixé à trois ans.
+
+Le président de la commission est élu par les membres de celle-ci lors de chaque
+renouvellement triennal.
+
+Les membres de la commission exercent leurs fonctions en toute impartialité. Ils
+ne peuvent, directement ou indirectement, exercer de fonctions ni recevoir
+d'honoraires au sein ou en provenance des organismes évalués et des entreprises
+ou établissements producteurs ou détenteurs de déchets.
+
+Les organismes de recherche fournissent à la commission tout document nécessaire
+à sa mission.

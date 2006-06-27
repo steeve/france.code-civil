@@ -1,5 +1,15 @@
 Article L542-1
 ----
-La gestion des déchets radioactifs à haute activité et à vie longue doit être
-assurée dans le respect de la protection de la nature, de l'environnement et de
-la santé, en prenant en considération les droits des générations futures.
+La gestion durable des matières et des déchets radioactifs de toute nature,
+résultant notamment de l'exploitation ou du démantèlement d'installations
+utilisant des sources ou des matières radioactives, est assurée dans le respect
+de la protection de la santé des personnes, de la sécurité et de
+l'environnement.
+
+La recherche et la mise en oeuvre des moyens nécessaires à la mise en sécurité
+définitive des déchets radioactifs sont entreprises afin de prévenir ou de
+limiter les charges qui seront supportées par les générations futures.
+
+Les producteurs de combustibles usés et de déchets radioactifs sont responsables
+de ces substances, sans préjudice de la responsabilité de leurs détenteurs en
+tant que responsables d'activités nucléaires.

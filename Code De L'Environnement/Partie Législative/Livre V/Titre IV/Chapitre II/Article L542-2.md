@@ -1,5 +1,5 @@
 Article L542-2
 ----
-Le stockage en France de déchets radioactifs importés, même si leur retraitement
-a été effectué sur le territoire national, est interdit au-delà des délais
-techniques imposés par le retraitement.
+Est interdit le stockage en France de déchets radioactifs en provenance de
+l'étranger ainsi que celui des déchets radioactifs issus du traitement de
+combustibles usés et de déchets radioactifs provenant de l'étranger.
