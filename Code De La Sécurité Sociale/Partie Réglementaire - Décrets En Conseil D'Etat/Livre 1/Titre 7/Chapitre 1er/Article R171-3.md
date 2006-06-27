@@ -1,8 +1,8 @@
 Article R171-3
 ----
-I. - Pour l'application de l'article L. 171-3, l'activité principale non
-salariée des personnes exerçant une activité agricole et une activité non
-agricole est réputée être constituée par celle de ces activités :
+I. - Pour l'application du deuxième alinéa de l'article L. 171-3, l'activité
+principale non salariée des personnes exerçant une activité agricole et une
+activité non agricole est réputée être constituée par celle de ces activités :
 
 1. A laquelle elles ont consacré, au cours de l'année civile précédant celle de
 la détermination de l'activité principale, la part la plus importante de leur
