@@ -1,28 +1,19 @@
 Article R424-21
 ----
-I. - Les permis de transport prévus à l'article L. 424-8 ainsi que des
-autorisations exceptionnelles de capture temporaire ou de transport à des fins
-scientifiques ou de repeuplement sont délivrées :
+I.-Sont interdits le transport, la détention pour la vente, la mise en vente, la
+vente ou l'achat :
 
-1° Par le directeur de la nature et des paysages ou son délégué ;
+1° Du grand gibier licitement tué à l'intérieur des enclos définis au I de
+l'article L. 424-3 qui n'est pas muni d'un dispositif de marquage du modèle
+prévu à l'article R. 425-10 ;
 
-2° Par le directeur départemental de l'agriculture et de la forêt du lieu
-d'origine du gibier ou son délégué ;
+2° Des morceaux de grand gibier licitement tué à l'intérieur des enclos définis
+au I de l'article L. 424-3 qui ne sont pas accompagnés d'une attestation
+justifiant leur origine, établie par le responsable de l'enclos.
 
-3° Par les administrateurs des affaires maritimes en ce qui concerne le gibier
-provenant de la partie de la zone de chasse maritime située dans leur
-circonscription.
+II.-Les modèles, les conditions d'utilisation du dispositif de marquage et de
+l'attestation sont fixés par arrêté du ministre chargé de la chasse.
 
-II. - Pour le transport des appelants vivants destinés notamment aux
-utilisateurs de huttes ou de gabions, les autorisations peuvent être annuelles.
-Elles sont, le cas échéant, délivrées par les administrateurs des affaires
-maritimes pour les gibiers transportés à destination de la zone de chasse
-maritime de leur circonscription.
-
-III. - Les autorisations exceptionnelles de capture définitive à des fins
-scientifiques sont délivrées par le directeur de la nature et des paysages ou
-son délégué.
-
-IV. - Le préfet peut délivrer aux établissements autorisés en application de
-l'article R. 413-26 une autorisation permanente de transport des animaux qui en
-proviennent, identifiés par la marque prévue par l'article R. 413-28.
+III.-Les dispositifs de marquage sont délivrés par la fédération départementale
+ou interdépartementale des chasseurs aux responsables des enclos définis au I de
+l'article L. 424-3 au prix coûtant majoré des frais de gestion.
