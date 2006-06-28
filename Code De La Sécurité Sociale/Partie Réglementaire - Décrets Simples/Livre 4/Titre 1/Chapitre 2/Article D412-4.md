@@ -1,8 +1,7 @@
 Article D412-4
 ----
 Le b. du 2° de l'article L. 412-8 s'applique aux élèves et étudiants des classes
-ou établissements ci-après autres que ceux mentionnés à l'article D. 412-3 et
-notamment :
+ou établissements ci-après :
 
 1°) classes du premier cycle et du second cycle des établissements publics ou
 privés régulièrement déclarés de l'enseignement secondaire ;
