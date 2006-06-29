@@ -16,11 +16,3 @@ public de l'électricité et du gaz et aux entreprises électriques et gazières
 
 3° La Régie autonome des transports parisiens à l'exception de la prestation
 d'accueil du jeune enfant.
-
-Sont également autorisés à servir directement les prestations familiales à leurs
-personnels de droit public en activité, dans les conditions prévues pour les
-agents de l'Etat, les exploitants publics :
-
-1° La Poste ;
-
-2° France Télécom.
