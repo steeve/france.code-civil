@@ -1,30 +1,27 @@
 Article D621-69
 ----
-I. - Le comité départemental peut, dans les conditions prévues à l'article D.
-621-71, déléguer une partie de ses attributions à un bureau permanent comprenant
-:
+Les membres du comité régional ou interrégional des céréales doivent être
+français ou ressortissants d'un des Etats membres de la Communauté européenne ou
+d'un Etat partie à l'accord de l'Espace économique européen et jouir de leurs
+droits civils et politiques. Les membres représentant les producteurs de
+céréales doivent en outre exercer, à titre principal et habituel, la profession
+d'agriculteur.
 
-1° Le président du comité départemental ou, en cas d'empêchement, le premier
-vice-président ;
+La durée du mandat des membres du comité est de trois ans. Ce mandat est
+renouvelable. Il est procédé tous les trois ans à échéance au renouvellement de
+tous les membres autres que les représentants de l'administration.
 
-2° Un membre producteur autre que le président et le premier vice-président ;
+Les membres cessant, pour quelque cause que ce soit, d'exercer leurs fonctions
+sont remplacés selon la procédure prévue pour leur désignation. Dans ce cas, le
+mandat des nouveaux membres prend fin au moment où aurait normalement expiré le
+mandat de ceux qu'ils remplacent.
 
-3° Un membre négociant ;
+Tout membre régulièrement convoqué n'ayant pas assisté à trois séances
+consécutives du comité, sans excuse reconnue légitime, pourra être considéré
+comme démissionnaire.
 
-4° Un membre meunier ;
-
-5° Le directeur départemental de l'agriculture et de la forêt ou son
-représentant ;
-
-6° Le directeur régional des douanes et des droits indirects ou son
-représentant.
-
-II. - Le président de la caisse régionale de crédit agricole mutuel ou son
-représentant et le représentant du directeur général de l'Office national
-interprofessionnel des céréales assistent aux séances avec voix consultative.
-
-III. - Le bureau permanent ne peut valablement délibérer que si quatre au moins
-de ses membres, dont un membre producteur, assistent à la séance.
-
-IV. - Il se réunit aussi souvent qu'il est nécessaire, sur convocation du préfet
-ou du président.
+A la suite de chaque renouvellement, le comité élit, au scrutin secret et dans
+les conditions prévues à l'article D. 621-67, un président et un premier
+vice-président choisis parmi les membres producteurs et un deuxième
+vice-président choisi parmi les membres non producteurs, à l'exclusion des
+représentants de l'administration.

@@ -1,12 +1,13 @@
 Article D621-68
 ----
-Le comité ne peut valablement délibérer que si plus de la moitié de ses membres
-ayant voix délibérative assistent à la séance.
+Des comités interrégionaux peuvent être créés en lieu et place de deux ou
+plusieurs comités régionaux après avis du conseil de direction spécialisé de la
+filière céréalière. La composition des comités interrégionaux est la même que
+celle des comités régionaux. Le nombre de membres de chaque catégorie est
+affecté d'un coefficient multiplicateur de 1,5 pour un regroupement de deux
+régions, de 2 pour un regroupement de trois régions, de 2,5 pour un regroupement
+de quatre régions. Le résultat de cette opération est arrondi au nombre entier
+inférieur.
 
-Les décisions sont prises à la majorité absolue des membres présents.
-
-Lorsque deux scrutins successifs n'ont pas permis de dégager la majorité
-requise, il est procédé à un troisième scrutin au terme duquel la décision est
-acquise à la majorité relative.
-
-En cas de partage des voix, la voix du président de séance est prépondérante.
+Les membres de droit des comités interrégionaux sont ceux de la région ayant la
+plus forte production céréalière.
