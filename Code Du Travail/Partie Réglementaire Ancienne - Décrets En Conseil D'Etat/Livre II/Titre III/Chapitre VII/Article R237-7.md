@@ -36,3 +36,8 @@ fournie par chaque entreprise concernée et figurer dans le plan de prévention.
 Le plan de prévention fixe la répartition des charges d'entretien entre les
 entreprises dont les salariés utilisent les installations définies à l'article
 R. 237-16 et mises à disposition par l'entreprise utilisatrice.
+
+Les dossiers techniques regroupant les informations relatives à la recherche et
+à l'identification des matériaux contenant de l'amiante prévus aux articles R.
+1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique sont joints au
+plan de prévention.
