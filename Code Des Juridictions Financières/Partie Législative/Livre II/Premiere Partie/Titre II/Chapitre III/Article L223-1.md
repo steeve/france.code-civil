@@ -13,4 +13,4 @@ Lorsqu'il exerce le pouvoir disciplinaire à l'égard des magistrats délégués
 les fonctions du ministère public, le Conseil supérieur est présidé par le
 procureur général près la Cour des comptes et comprend, en outre, un magistrat
 exerçant les fonctions du ministère public élu par les magistrats exerçant ces
-fonctions. Dans ce cas, il est saisi par le ministre chargé des finances.
+fonctions. Dans ce cas, il est saisi par le premier président.

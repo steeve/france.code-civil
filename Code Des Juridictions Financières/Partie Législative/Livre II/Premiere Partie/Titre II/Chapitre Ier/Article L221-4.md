@@ -1,6 +1,6 @@
 Article L221-4
 ----
-Pour quatre conseillers de chambre régionale des comptes recrutés en application
+Pour deux conseillers de chambre régionale des comptes recrutés en application
 de l'article L. 221-3, une nomination est prononcée au bénéfice des
 fonctionnaires civils ou militaires appartenant à un corps de catégorie A ou
 assimilé, des magistrats de l'ordre judiciaire, des fonctionnaires appartenant à
