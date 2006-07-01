@@ -1,5 +1,5 @@
 Article 315
 ----
-La présomption de paternité n'est pas applicable à l'enfant né plus de trois
-cents jours après la dissolution du mariage, ni, en cas d'absence déclarée du
-mari, à celui qui est né plus de trois cents jours après la disparition.
+Lorsque la présomption de paternité est écartée dans les conditions prévues aux
+articles 313 et 314, ses effets peuvent être rétablis en justice dans les
+conditions prévues à l'article 329.

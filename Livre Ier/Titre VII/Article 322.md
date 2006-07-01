@@ -1,7 +1,7 @@
 Article 322
 ----
-Nul ne peut réclamer un état contraire à celui que lui donnent son titre de
-naissance et la possession conforme à ce titre.
+L'action peut être exercée par les héritiers d'une personne décédée avant
+l'expiration du délai qui était imparti à celle-ci pour agir.
 
-Et réciproquement, nul ne peut contester l'état de celui qui a une possession
-conforme à son titre de naissance.
+Les héritiers peuvent également poursuivre l'action déjà engagée, à moins qu'il
+n'y ait eu désistement ou péremption d'instance.

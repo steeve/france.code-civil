@@ -1,9 +1,5 @@
 Article 331
 ----
-Tous les enfants nés hors mariage "fussent-ils décédés" sont légitimés de plein
-droit par le mariage subséquent de leurs père et mère.
-
-Si leur filiation n'était pas déjà établie, ces enfants font l'objet d'une
-reconnaissance au moment de la célébration du mariage. En ce cas, l'officier de
-l'état civil qui procède à la célébration constate la reconnaissance et la
-légitimation dans un acte séparé.
+Lorsqu'une action est exercée en application de la présente section, le tribunal
+statue, s'il y a lieu, sur l'exercice de l'autorité parentale, la contribution à
+l'entretien et à l'éducation de l'enfant et l'attribution du nom.

@@ -1,4 +1,3 @@
 Article 162
 ----
-En ligne collatérale, le mariage est prohibé, entre le frère et la soeur
-légitimes ou naturels.
+En ligne collatérale, le mariage est prohibé, entre le frère et la soeur.

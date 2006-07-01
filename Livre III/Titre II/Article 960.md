@@ -6,6 +6,4 @@ valeur que ces donations puissent être, et à quelque titre qu'elles aient ét�
 faites, et encore qu'elles fussent mutuelles ou rémunératoires, même celles qui
 auraient été faites en faveur de mariage par autres que par les ascendants aux
 conjoints, ou par les conjoints l'un à l'autre, demeureront révoquées de plein
-droit par la survenance d'un enfant légitime du donateur, même d'un posthume, ou
-par la légitimation d'un enfant naturel par mariage subséquent, s'il est né
-depuis la donation.
+droit par la survenance d'un enfant du donateur, même posthume.

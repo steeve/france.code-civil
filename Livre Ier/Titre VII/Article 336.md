@@ -1,4 +1,5 @@
 Article 336
 ----
-La reconnaissance du père, sans l'indication et l'aveu de la mère, n'a d'effet
-qu'à l'égard du père.
+La filiation légalement établie peut être contestée par le ministère public si
+des indices tirés des actes eux-mêmes la rendent invraisemblable ou en cas de
+fraude à la loi.

@@ -1,4 +1,4 @@
 Article 330
 ----
-La légitimation a lieu, soit par mariage des parents, soit par autorité de
-justice.
+La possession d'état peut être constatée à la demande de toute personne qui y a
+intérêt dans le délai mentionné à l'article 321.

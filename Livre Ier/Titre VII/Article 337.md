@@ -1,4 +1,5 @@
 Article 337
 ----
-L'acte de naissance portant l'indication de la mère vaut reconnaissance,
-lorsqu'il est corroboré par la possession d'état.
+Lorsqu'il accueille l'action en contestation, le tribunal peut, dans l'intérêt
+de l'enfant, fixer les modalités des relations de celui-ci avec la personne qui
+l'élevait.

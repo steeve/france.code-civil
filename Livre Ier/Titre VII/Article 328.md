@@ -1,7 +1,14 @@
 Article 328
 ----
-Les époux, séparément ou conjointement, peuvent, en rapportant la preuve prévue
-à l'article 323 ci-dessus, réclamer un enfant comme étant le leur ; mais si
-celui-ci a déjà une autre filiation établie, ils doivent préalablement en
-démontrer l'inexactitude, à supposer que l'on soit dans l'un des cas où la loi
-autorise cette démonstration.
+Le parent, même mineur, à l'égard duquel la filiation est établie a, pendant la
+minorité de l'enfant, seul qualité pour exercer l'action en recherche de
+maternité ou de paternité.
+
+Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans
+l'impossibilité de manifester sa volonté, l'action est intentée conformément aux
+dispositions de l'article 464, alinéa 3.
+
+L'action est exercée contre le parent prétendu ou ses héritiers. A défaut
+d'héritiers ou si ceux-ci ont renoncé à la succession, elle est dirigée contre
+l'Etat. Les héritiers renonçants sont appelés à la procédure pour y faire valoir
+leurs droits.

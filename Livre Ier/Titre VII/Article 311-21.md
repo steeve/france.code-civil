@@ -16,7 +16,9 @@ conditions du précédent alinéa peuvent effectuer une telle déclaration lors 
 la demande de transcription de l'acte, au plus tard dans les trois ans de la
 naissance de l'enfant.
 
-Le nom dévolu au premier enfant vaut pour les autres enfants communs.
+Lorsqu'il a déjà été fait application du présent article ou du deuxième alinéa
+de l'article 311-23 à l'égard d'un enfant commun, le nom précédemment dévolu ou
+choisi vaut pour les autres enfants communs.
 
 Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils
 peuvent, par une déclaration écrite conjointe, ne transmettre qu'un seul nom à

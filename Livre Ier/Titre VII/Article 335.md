@@ -1,9 +1,5 @@
 Article 335
 ----
-La reconnaissance d'un enfant naturel peut être faite dans l'acte de naissance,
-par acte reçu par l'officier de l'état civil ou par tout autre acte authentique.
-
-L'acte comporte les énonciations prévues à l'article 62.
-
-Il comporte également la mention que l'auteur de la reconnaissance a été informé
-du caractère divisible du lien de filiation naturelle.
+La filiation établie par la possession d'état constatée par un acte de notoriété
+peut être contestée par toute personne qui y a intérêt en rapportant la preuve
+contraire, dans le délai de cinq ans à compter de la délivrance de l'acte.

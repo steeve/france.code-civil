@@ -1,8 +1,7 @@
 Article 62
 ----
-L'acte de reconnaissance d'un enfant naturel énonce les prénoms, nom, date de
-naissance ou, à défaut, âge, lieu de naissance et domicile de l'auteur de la
-reconnaissance.
+L'acte de reconnaissance énonce les prénoms, nom, date de naissance ou, à
+défaut, âge, lieu de naissance et domicile de l'auteur de la reconnaissance.
 
 Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou,
 à défaut, tous renseignements utiles sur la naissance, sous réserve des
