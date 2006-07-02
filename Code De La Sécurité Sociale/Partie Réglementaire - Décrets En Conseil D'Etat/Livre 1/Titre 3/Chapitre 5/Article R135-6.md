@@ -32,34 +32,34 @@ des groupes professionnels mentionnés aux 1°, 2° et 3° de l'article L. 621-3
 syndicales de salariés interprofessionnelles représentatives au plan national à
 raison de :
 
-- un par la Confédération générale du travail ;
+-un par la Confédération générale du travail ;
 
-- un par la Confédération générale du travail-Force ouvrière ;
+-un par la Confédération générale du travail-Force ouvrière ;
 
-- un par la Confédération française démocratique du travail ;
+-un par la Confédération française démocratique du travail ;
 
-- un par la Confédération française des travailleurs chrétiens ;
+-un par la Confédération française des travailleurs chrétiens ;
 
-- un par la Confédération française de l'encadrement-CGC ;
+-un par la Confédération française de l'encadrement-CGC ;
 
 9° Cinq représentants des employeurs et travailleurs indépendants désignés par
 les organisations professionnelles d'employeurs et de travailleurs indépendants
 représentatives à raison de :
 
-- trois par le Mouvement des entreprises de France ;
+-trois par le Mouvement des entreprises de France ;
 
-- un par la Confédération générale des petites et moyennes entreprises ;
+-un par la Confédération générale des petites et moyennes entreprises ;
 
-- un par l'Union professionnelle artisanale.
+-un par l'Union professionnelle artisanale.
 
 10° Quatre personnes qualifiées dans les domaines relevant des missions du fonds
 de solidarité vieillesse désignées à raison de :
 
-- deux par le ministre chargé de la sécurité sociale ;
+-deux par le ministre chargé de la sécurité sociale ;
 
-- une par le ministre chargé de l'économie ;
+-une par le ministre chargé de l'économie ;
 
-- une par le ministre chargé du budget.
+-une par le ministre chargé du budget.
 
 11° Un représentant des régimes de retraite autres que ceux énumérés ci-dessus,
 désigné après entente entre les présidents des caisses et institutions
@@ -89,9 +89,6 @@ tutelle de l'établissement.
 
 Les fonctions de président, de vice-président et de membres du comité de
 surveillance sont exercées à titre gratuit. Les frais de déplacement sont
-remboursés dans des conditions prévues par le décret n° 90-437 du 28 mai 1990
-fixant les conditions et les modalités de règlement des frais occasionnés par
-les déplacements des personnels civils sur le territoire métropolitain de la
-France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements
-publics nationaux à caractère administratif et certains organismes
-subventionnés.
+remboursés dans des conditions prévues par le décret n° 2006-781 du 3 juillet
+2006 fixant les conditions et les modalités de règlement des frais occasionnés
+par les déplacements temporaires des personnels civils de l'Etat.

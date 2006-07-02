@@ -9,4 +9,4 @@ avant l'expiration du mandat des membres, un autre représentant est désigné o
 
 Les fonctions de membre du conseil d'administration sont exercées à titre
 gratuit. Toutefois, elles ouvrent droit aux indemnités de déplacement prévues
-par le décret du 28 mai 1990 susvisé.
+par le décret n° 2006-781 du 3 juillet 2006 susvisé.

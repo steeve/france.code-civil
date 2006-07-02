@@ -1,6 +1,6 @@
 Article R135-19
 ----
-I. - Le conseil de surveillance est composé comme suit :
+I.-Le conseil de surveillance est composé comme suit :
 
 1° Deux membres de l'Assemblée nationale et deux membres du Sénat ou leurs
 suppléants ;
@@ -9,25 +9,25 @@ suppléants ;
 organisations syndicales de salariés interprofessionnelles représentatives au
 plan national, à raison de :
 
-- un par la Confédération générale du travail ;
+-un par la Confédération générale du travail ;
 
-- un par la Confédération générale du travail-Force ouvrière ;
+-un par la Confédération générale du travail-Force ouvrière ;
 
-- un par la Confédération française démocratique du travail ;
+-un par la Confédération française démocratique du travail ;
 
-- un par la Confédération française des travailleurs chrétiens ;
+-un par la Confédération française des travailleurs chrétiens ;
 
-- un par la Confédération française de l'encadrement-CGC ;
+-un par la Confédération française de l'encadrement-CGC ;
 
 3° Cinq représentants des employeurs et travailleurs indépendants ou leurs
 suppléants désignés par les organisations professionnelles d'employeurs et de
 travailleurs indépendants représentatives, à raison de :
 
-- trois par le Mouvement des entreprises de France ;
+-trois par le Mouvement des entreprises de France ;
 
-- un par la Confédération générale des petites et moyennes entreprises ;
+-un par la Confédération générale des petites et moyennes entreprises ;
 
-- un par l'Union professionnelle artisanale ;
+-un par l'Union professionnelle artisanale ;
 
 4° Deux représentants du ministre chargé de la sécurité sociale ou leurs
 suppléants, nommés par arrêté du ministre chargé de la sécurité sociale ;
@@ -41,9 +41,9 @@ arrêté du ministre chargé du budget ;
 7° Deux personnes qualifiées dans les domaines relevant des missions du fonds de
 réserve pour les retraites, désignées à raison de :
 
-- une par le ministre chargé de la sécurité sociale ;
+-une par le ministre chargé de la sécurité sociale ;
 
-- une par le ministre chargé de l'économie et le ministre chargé du budget.
+-une par le ministre chargé de l'économie et le ministre chargé du budget.
 
 Le président du conseil de surveillance du fonds de réserve pour les retraites
 est nommé par décret parmi ses membres. Le conseil de surveillance élit deux
@@ -59,7 +59,7 @@ et pour la première désignation, la moitié des membres du conseil de
 surveillance mentionnés aux 2°, 3° et 7° est désignée pour une durée de trois
 ans renouvelable. La liste des membres concernés est établie par tirage au sort.
 
-II. - Les fonctions de membre du conseil de surveillance autres que celle de
+II.-Les fonctions de membre du conseil de surveillance autres que celle de
 président sont assurées à titre gratuit.
 
 Une indemnité de fonction, fixée par arrêté du ministre chargé de la sécurité
@@ -68,4 +68,4 @@ attribuée au président du conseil de surveillance.
 
 Les fonctions de membre du conseil de surveillance ouvrent droit aux indemnités
 et frais de déplacement et de séjour dans les conditions prévues par le décret
-n° 86-416 du 12 mars 1986 et le décret n° 90-437 du 28 mai 1990.
+n° 2006-781 du 3 juillet 2006.
