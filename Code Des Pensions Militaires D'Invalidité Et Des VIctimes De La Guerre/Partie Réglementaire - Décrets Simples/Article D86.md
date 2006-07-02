@@ -6,12 +6,11 @@ commission.
 
 En métropole, les membres de la commission qui résident hors de la commune du
 siège de celle-ci ont droit au remboursement de leurs frais de déplacement selon
-les dispositions de l'article 3 du décret du 28 mai 1990 susvisé.
+les dispositions du décret n° 2006-781 du 3 juillet 2006.
 
 Dans les régions d'outre-mer, les membres de la commission qui résident hors de
 la commune du siège de celle-ci ont droit au remboursement de leurs frais de
-déplacement selon les dispositions de l'article 3 du décret du 12 avril 1989
-susvisé.
+déplacement selon les dispositions du décret n° 2006-781 du 3 juillet 2006.
 
 Dans les territoires d'outre-mer, les membres de la commission qui résident hors
 de la commune du siège de celle-ci ont droit au remboursement de leurs frais de
