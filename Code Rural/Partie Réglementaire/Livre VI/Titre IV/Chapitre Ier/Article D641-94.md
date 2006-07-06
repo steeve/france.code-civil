@@ -14,11 +14,11 @@ les vins mousseux et pétillants bénéficiant d'un certificat d'aptitude peuven
 être mis en circulation entre entrepositaires agréés à l'intérieur de la région
 déterminée.
 
-Le certificat d'agrément n'est délivré aux vins tranquilles, mousseux et
-pétillants soumis à des mesures de régulation de marché au sens de la
-réglementation communautaire, étendues par arrêté interministériel, qu'à la date
-de levée desdites mesures, communiquée par les interprofessions vitivinicoles à
-l'INAO.
+Le certificat d'agrément et le certificat d'aptitude ne sont délivrés aux vins
+tranquilles, mousseux et pétillants soumis à des mesures de régulation de marché
+au sens de la réglementation communautaire, étendues par arrêté
+interministériel, qu'à la date de levée desdites mesures, communiquée par les
+interprofessions vitivinicoles à l'INAO.
 
 La durée de validité du certificat d'agrément peut être limitée dans le temps
 pour les vins non conditionnés et non commercialisés, dans les conditions

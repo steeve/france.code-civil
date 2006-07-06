@@ -30,6 +30,11 @@ La commune ou l'établissement public de coopération intercommunale compétent
 peut exercer le droit de préemption à défaut du département et à défaut du
 Conservatoire de l'espace littoral et des rivages lacustres.
 
+Dans les zones de préemption situées dans un périmètre d'intervention délimité
+en application de l'article L. 143-1, la commune ou l'établissement public de
+coopération intercommunale compétent exerce ce droit avec l'accord du
+département.
+
 Le maire ou le président de l'établissement public de coopération intercommunale
 notifie la décision de la commune ou de l'établissement public de coopération
 intercommunale au propriétaire avant l'expiration du délai de trois mois courant

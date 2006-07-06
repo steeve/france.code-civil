@@ -27,4 +27,4 @@ d'un an à compter de l'entrée en vigueur de cette obligation.
 L'ensemble des émetteurs informent la Banque de France, deux semaines au moins
 avant leur première émission, de leur intention d'entrer sur ce marché, par
 envoi de la documentation financière établie selon les modalités définies aux
-articles D. 213-5 à D. 213-9.
+articles D. 213-9 à D. 213-12.
