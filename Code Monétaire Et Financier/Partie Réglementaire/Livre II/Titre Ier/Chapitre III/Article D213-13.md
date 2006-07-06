@@ -8,4 +8,4 @@ demande.
 
 La Banque de France met en ligne sur son site internet les dossiers de
 présentation financière, leur mise à jour et, le cas échéant, le résumé
-mentionné à l'article D. 213-8.
+mentionné à l'article D. 213-11.

@@ -2,7 +2,7 @@ Article D213-14
 ----
 Les émetteurs de titres de créance négociables communiquent à la Banque de
 France des informations statistiques sur leurs titres, dans les conditions
-définies par les arrêtés mentionnés à l'article D. 213-11-1.
+définies par les arrêtés mentionnés à l'article D. 213-7.
 
 La Banque de France assure régulièrement la diffusion de ces informations.
 
