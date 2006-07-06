@@ -26,7 +26,10 @@ candidats un cahier des charges comportant l'engagement du maintien pendant un
 délai minimal de dix ans de l'usage agricole ou forestier ou de la qualité
 environnementale des biens attribués, et soumettant, pendant ce même délai,
 toute opération de cession à titre onéreux en propriété ou en jouissance desdits
-biens à son accord préalable.
+biens à son accord préalable. Ce délai minimal est porté à dix-huit ans si le
+bien attribué est situé dans un périmètre de protection et de mise en valeur des
+espaces agricoles et naturels périurbains délimité en application de l'article
+L. 143-1 du code de l'urbanisme.
 
 Pour l'application du second alinéa du 1° du III de l'article L. 141-1, le prix
 fixé par le cahier des charges prend en considération, notamment, la valeur du

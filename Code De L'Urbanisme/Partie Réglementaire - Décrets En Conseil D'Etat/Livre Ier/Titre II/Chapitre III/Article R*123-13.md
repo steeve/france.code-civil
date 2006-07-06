@@ -53,3 +53,7 @@ ont été édictées en application de l'article L. 571-10 du code de
 l'environnement ;
 
 14. Le plan des zones à risque d'exposition au plomb ;
+
+15. Les périmètres d'intervention délimités en application de l'article L. 143-1
+pour la protection et la mise en valeur des espaces agricoles et naturels
+périurbains.
