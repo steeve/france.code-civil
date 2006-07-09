@@ -31,13 +31,13 @@ f) Actes techniques médicaux - ATM :
 pour les centres hospitaliers ;
 
 - actes de médecine nucléaire : 60 % pour les centres hospitaliers
-universitaires et pour les centres hospitaliers.
+universitaires et pour les centres hospitaliers ;
 
-3° Actes comportant un acte principal et un supplément, dont :
+- actes d'endoscopie et divers actes diagnostiques : 40 % pour les centres
+hospitaliers universitaires, 20 % pour les centres hospitaliers.
 
-- actes de radiologie et cardiologie interventionnelle ;
-
-- actes d'endoscopie et divers actes diagnostiques.
+3° Actes comportant un acte principal et un supplément, dont actes de radiologie
+interventionnelle et cardiologie interventionnelle.
 
 Pour les actes dont la codification comprend la codification d'un acte principal
 et celle d'un supplément, il convient d'appliquer séparément à l'acte principal,
