@@ -1,6 +1,6 @@
 Article D122-2
 ----
-La mission de formation continue des adultes s'exerce dans le cadre général fixé
-par le code du travail, notamment son livre IX relatif à la formation
-professionnelle continue dans le cadre de la formation professionnelle tout au
-long de la vie.
+Les programmes d'enseignement sont adaptés par arrêté du ministre de l'éducation
+nationale, en tenant compte des prescriptions de l'annexe à la présente section
+; en vue d'assurer la maîtrise du socle commun par les élèves, les objectifs de
+chaque cycle sont précisés ainsi que les repères annuels prioritaires.

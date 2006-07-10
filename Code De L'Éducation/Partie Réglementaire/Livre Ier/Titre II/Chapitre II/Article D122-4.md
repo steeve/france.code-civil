@@ -1,13 +1,13 @@
 Article D122-4
 ----
-Dans l'exercice de sa mission de formation continue des adultes, le service
-public de l'éducation contribue à donner à chaque individu l'opportunité, à
-l'issue de la formation initiale, de reprendre ultérieurement ou poursuivre sa
-formation.
+Le service public de l'éducation a, conformément à l'article L. 122-5, une
+mission de formation continue des adultes.
 
-Il aide à l'élaboration de projets personnels et professionnels. Il conçoit et
-met en oeuvre des formations adaptées dans leurs contenus et leurs méthodes. Il
-offre la possibilité d'obtenir un diplôme ou un titre de l'enseignement
-technologique par la voie d'une formation, par la validation d'acquis de
-l'expérience dans les conditions prévues par les articles L. 335-5, L. 335-6, L.
-613-3 à L. 613-6.
+Dans ce cadre, il contribue au développement économique, social et culturel, aux
+niveaux local, régional et national. Il répond aux besoins collectifs du pays,
+notamment des entreprises, en favorisant l'élévation du niveau de qualification
+de la population et sa capacité d'adaptation aux mutations économiques et
+sociales. Il concourt à la satisfaction des besoins individuels en permettant à
+chacun de développer ses aptitudes et en facilitant la promotion professionnelle
+et sociale. Il participe, par la formation, à la lutte contre les inégalités et
+les risques d'exclusion sociale et économique.
