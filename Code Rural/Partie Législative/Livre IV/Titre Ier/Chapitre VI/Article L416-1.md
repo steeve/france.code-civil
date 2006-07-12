@@ -8,10 +8,10 @@ Ce bail est renouvelable par période de neuf ans dans les conditions prévues �
 l'article L. 411-46 et sans préjudice, pendant lesdites périodes, de
 l'application des articles L. 411-6, L. 411-7 et L. 411-8 (alinéa 1er).
 
-Sauf convention contraire, les clauses et conditions du bail renouvelé pour neuf
-années sont celles du bail précédent ; toutefois, à défaut d'accord amiable
-entre les parties, le tribunal paritaire fixe le prix et statue sur les clauses
-et conditions contestées du nouveau bail.
+Le bail renouvelé reste soumis aux dispositions du présent chapitre. Sauf
+convention contraire, ses clauses et conditions sont celles du bail précédent.
+Toutefois, à défaut d'accord entre les parties, le tribunal paritaire fixe les
+conditions contestées du nouveau bail.
 
 Le bailleur qui entend s'opposer au renouvellement doit notifier congé au
 preneur dans les conditions prévues à l'article L. 411-47. Toutefois, lorsque le

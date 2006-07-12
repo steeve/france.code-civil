@@ -1,9 +1,8 @@
 Article L417-11
 ----
-Tout bail à colonat partiaire ou métayage peut être converti en bail à ferme à
-l'expiration de chaque année culturale à partir de la troisième année du bail
-initial, si le propriétaire ou le preneur en a fait la demande au moins douze
-mois auparavant.
+Tout bail à métayage peut être converti en bail à ferme à l'expiration de chaque
+année culturale à partir de la troisième année du bail initial, si le
+propriétaire ou le preneur en a fait la demande au moins douze mois auparavant.
 
 En cas de contestation, le tribunal paritaire doit, en fonction des intérêts en
 présence, ordonner la conversion dans l'un des cas ci-après :

@@ -20,5 +20,5 @@ congé au preneur deux ans au moins à l'avance dans les formes prescrites à
 l'article L. 411-47.
 
 La clause de reprise dont il est fait état au présent article ne peut s'exercer
-à l'encontre d'un preneur se trouvant dans l'une des situations prévues aux
-deuxième et troisième alinéas de l'article L. 411-58 du présent code.
+à l'encontre d'un preneur se trouvant dans l'une des situations prévues au
+deuxième alinéa de l'article L. 411-58 du présent code.

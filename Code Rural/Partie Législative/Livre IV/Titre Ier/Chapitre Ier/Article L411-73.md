@@ -1,9 +1,7 @@
 Article L411-73
 ----
-I. - Les travaux d'améliorations culturales et foncières définis à l'article L.
-411-28 sont exécutés librement par le preneur. Les autres travaux
-d'amélioration, non prévus par une clause du bail, ne peuvent être exécutés
-qu'en observant, selon le cas, l'une des procédures suivantes :
+I. - Les travaux d'améliorations, non prévus par une clause du bail, ne peuvent
+être exécutés qu'en observant, selon le cas, l'une des procédures suivantes :
 
 1. Peuvent être exécutés sans l'accord préalable du bailleur :
 

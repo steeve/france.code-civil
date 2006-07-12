@@ -12,9 +12,6 @@ Nonobstant les dispositions de l'article L. 411-14, le bailleur qui s'est engag�
 à ne demander aucune majoration du prix du bail ne peut se prévaloir des
 dispositions du premier alinéa de l'article L. 411-13.
 
-Les dispositions des alinéas qui précèdent sont applicables aux baux en cours à
-la date du 5 juillet 1980.
-
 Il peut être convenu que les descendants du preneur ne pourront bénéficier des
 dispositions des articles L. 411-35 et L. 411-38. Il peut en outre être convenu
 que, en cas de décès du preneur et de transmission du bail aux membres de sa

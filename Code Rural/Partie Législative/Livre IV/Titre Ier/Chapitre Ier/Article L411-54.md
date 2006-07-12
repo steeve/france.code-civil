@@ -7,5 +7,5 @@ comporte pas les mentions exigées à peine de nullité par l'article L. 411-47.
 
 Le tribunal apprécie les motifs allégués par le propriétaire lors de la
 notification du congé. S'il constate que le congé n'est pas justifié par l'un
-des motifs mentionnés à l'article L. 411-53, il ordonne le maintien du preneur
+des motifs mentionnés à l'article L. 411-31, il ordonne le maintien du preneur
 dans l'exploitation pour un bail d'une nouvelle durée de neuf ans.

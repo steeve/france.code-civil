@@ -17,8 +17,7 @@ Quel que soit le mode de conclusion du bail, une priorité est réservée aux
 exploitants qui réalisent une installation en bénéficiant de la dotation
 d'installation aux jeunes agriculteurs ou, à défaut, aux exploitants de la
 commune répondant aux conditions de capacité professionnelle et de superficie
-visées à l'article 188-2 du présent code, ainsi qu'à leurs groupements.
+visées à l'article L331-2 du présent code, ainsi qu'à leurs groupements.
 
-Ces dispositions s'appliquent aux conventions pluriannuelles de pâturage visées
-à l'article 13 de la loi n° 72-12 du 3 janvier 1972 relative à la mise en valeur
-pastorale dans les régions d'économie montagnarde.
+Ces dispositions s'appliquent aux conventions pluriannuelles d'exploitation
+agricole ou de pâturage mentionnées à l'article L. 481-1.
