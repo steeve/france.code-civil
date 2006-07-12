@@ -1,31 +1,22 @@
 Article L111-5-2
 ----
-Le conseil municipal peut décider, par délibération motivée, de soumettre, à
-l'intérieur de zones qu'il délimite, à déclaration préalable, toute division
-volontaire, en propriété ou en jouissance, d'une propriété foncière, par ventes
-ou locations simultanées ou successives.
+Dans les parties de commune nécessitant une protection particulière en raison de
+la qualité des sites, des milieux naturels et des paysages, le conseil municipal
+peut décider, par délibération motivée, de soumettre, à l'intérieur de zones
+qu'il délimite, à la déclaration préalable prévue par l'article L. 421-4, les
+divisions volontaires, en propriété ou en jouissance, d'une propriété foncière,
+par ventes ou locations simultanées ou successives qui ne sont pas soumises à un
+permis d'aménager.
 
-Les dispositions de l'alinéa précédent sont applicables dans les parties des
-communes identifiées comme nécessitant une protection particulière en raison de
-la qualité des sites, des milieux naturels et des paysages.
-
-La déclaration prévue à l'alinéa premier est adressée à la mairie. Le maire
-peut, dans un délai de deux mois à compter de la réception de cette déclaration
-en mairie, s'opposer à la division si celle-ci, par son importance, le nombre de
-lots ou les travaux qu'elle entraîne est susceptible de compromettre gravement
-le caractère naturel des espaces, la qualité des paysages ou le maintien des
-équilibres biologiques auxquels participent ces espaces.
-
-Passé ce délai, le déclarant peut procéder librement à la division.
-
-Lorsque la division est effectuée en vue de l'implantation de bâtiments, la
-demande d'autorisation de lotir formulée en application des articles L. 315-1 et
-suivants dispense de la déclaration prévue au présent article.
+L'autorité compétente peut s'opposer à la division si celle-ci, par son
+importance, le nombre de lots ou les travaux qu'elle implique est de nature à
+compromettre gravement le caractère naturel des espaces, la qualité des paysages
+ou le maintien des équilibres biologiques.
 
 Lorsqu'une vente ou une location a été effectuée en violation des dispositions
 du présent article, l'autorité compétente peut demander à l'autorité judiciaire
-de constater la nullité de l'acte. L'action en nullité se prescrit par cinq ans
-à compter de la publication de l'acte ayant effectué la division.
+de constater la nullité de l'acte.L'action en nullité se prescrit par cinq ans à
+compter de la publication de l'acte ayant effectué la division.
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions
 d'application du présent article. Il précise les divisions soumises à
