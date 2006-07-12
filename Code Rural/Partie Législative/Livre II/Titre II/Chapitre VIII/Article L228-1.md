@@ -1,10 +1,19 @@
 Article L228-1
 ----
-Celui qui aura chassé sur le terrain d'autrui sans consentement, si ce terrain
-est attenant à une maison habitée ou servant à l'habitation, et s'il est entouré
-d'une clôture continue faisant obstacle à toute communication avec les héritages
-voisins, sera puni d'une amende de 25 000 F et pourra l'être d'un emprisonnement
-de trois mois.
+Est puni d'un emprisonnement de six mois et d'une amende de 25 000 F :
 
-Si le délit a été commis pendant la nuit, le délinquant sera puni d'une amende
-de 25 000 F et pourra l'être d'un emprisonnement de deux ans.
+1° Le fait pour un détenteur d'animaux infectés laisser ceux-ci communiquer avec
+d'autres en méconnaissance d'un arrêté pris en application de l'article L. 223-6
+ou de l'article L. 223-8 ;
+
+2° Le fait de vendre ou de mettre en vente des animaux que leur propriétaire
+sait atteints ou soupçonnés d'être atteints de maladies contagieuses ;
+
+3° Le fait, sans permission de l'autorité administrative, de déterrer ou
+d'acheter sciemment des cadavres ou débris des animaux morts de maladies
+contagieuses quelles qu'elles soient ou abattus comme atteints de la peste
+bovine, du charbon, de la morve et de la rage ;
+
+4° Le fait pour une personne, même avant l'arrêté d'interdiction, d'importer en
+France des animaux qu'elle sait atteints de maladies contagieuses ou avoir été
+exposés à la contagion.

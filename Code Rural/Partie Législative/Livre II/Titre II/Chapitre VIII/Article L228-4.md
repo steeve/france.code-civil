@@ -1,9 +1,7 @@
 Article L228-4
 ----
-Toute personne qui, ayant été privée du droit de conserver un permis de chasser
-ou une autorisation de chasser mentionnée à l'article L. 223-1-1 par application
-de l'article L. 228-21 ou qui, ayant reçu notification de l'ordonnance
-prononçant la suspension du permis de chasser ou de l'autorisation de chasser
-par application de l'article L. 228-22, refusera de remettre son permis à
-l'agent de l'autorité chargé de l'exécution de la décision, sera punie des
-peines prévues à l'article 434-41 du code pénal.
+Si la condamnation pour infraction prévue aux articles L. 228-1 à L. 228-3
+remonte à moins d'une année ou si cette infraction a été commise par des
+vétérinaires sanitaires, des gardes champêtres, des gardes forestiers, des
+officiers de police à quelque titre que ce soit, les peines peuvent être portées
+au double du maximum fixé par lesdits articles.

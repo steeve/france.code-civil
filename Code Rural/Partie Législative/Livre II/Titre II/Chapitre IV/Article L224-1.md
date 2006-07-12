@@ -1,12 +1,15 @@
 Article L224-1
 ----
-Le ministre chargé de la chasse prend des arrêtés pour prévenir la destruction
-ou favoriser le repeuplement des oiseaux ou de toutes espèces de gibier, et sans
-qu'il soit ainsi dérogé au droit de destruction des bêtes fauves édicté à
-l'article L. 227-9.
+Nonobstant toutes dispositions législatives contraires, lorsque, à l'intérieur
+d'une aire s'étendant sur une ou plusieurs communes d'un ou de plusieurs
+départements ou incluant l'ensemble du territoire national, le nombre des
+animaux de même espèce, qui sont déjà soumis à des mesures collectives de
+prophylaxie contre une maladie réputée contagieuse ou non, atteint 60 % de
+l'effectif entretenu dans cette aire ou lorsque 60 % du nombre des exploitations
+concernées qui s'y trouvent sont déjà soumises auxdites mesures, cette
+prophylaxie peut être rendue obligatoire par l'autorité administrative à l'égard
+de tous les propriétaires de tels animaux et de toutes les exploitations dans
+l'ensemble de l'aire en cause.
 
-Le ministre chargé de la chasse prend des arrêtés pour reporter la date de
-broyage de la jachère de tous terrains à usage agricole afin de prévenir la
-destruction ou de favoriser le repeuplement de toutes les espèces de gibier, et
-sans qu'il soit ainsi dérogé au droit de destruction des bêtes fauves édicté à
-l'article L. 227-9.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent
+article.

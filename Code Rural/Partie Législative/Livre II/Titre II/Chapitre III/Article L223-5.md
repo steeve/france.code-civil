@@ -1,15 +1,30 @@
 Article L223-5
 ----
-Seront astreintes à l'examen prévu à l'article L. 223-3, avant toute nouvelle
-délivrance d'un permis de chasser, les personnes :
+Tout propriétaire, toute personne ayant, à quelque titre que ce soit, la charge
+des soins ou la garde d'un animal atteint ou soupçonné d'être atteint de l'une
+des maladies contagieuses mentionnées aux articles L. 223-2 ou L. 223-3 est tenu
+d'en faire immédiatement la déclaration à un vétérinaire sanitaire ainsi qu'au
+maire de la commune où se trouve l'animal.
 
-1° Frappées de la privation temporaire du droit d'obtenir ou de détenir un
-permis de chasser par décision de justice ;
+En outre, toute personne ayant, dans l'exercice d'une profession en rapport avec
+l'élevage, connaissance de l'existence d'un animal présentant des signes de
+fièvre aphteuse ou ayant été exposé à la contagion est tenue d'en faire
+immédiatement la déclaration à un vétérinaire sanitaire ou au maire de la
+commune où se trouve l'animal.
 
-a) De l'article L. 228-21 du présent code ;
+L'animal atteint ou soupçonné d'être atteint d'une maladie contagieuse doit
+être, immédiatement et avant même que l'autorité administrative ait répondu à
+l'avertissement, séquestré, séparé et maintenu isolé autant que possible des
+autres animaux susceptibles de contracter cette maladie.
 
-b) De l'article L. 90 du code des débits de boissons et des mesures contre
-l'alcoolisme ;
+La déclaration et l'isolement sont obligatoires pour tout animal mort d'une
+maladie contagieuse ou soupçonnée contagieuse, ainsi que pour tout animal
+abattu, en dehors des cas prévus aux chapitres Ier à VI, qui, à l'ouverture du
+cadavre, est reconnu atteint ou suspect d'une maladie contagieuse.
 
-2° Dont le permis serait nul de plein droit en application de l'article L. 223-8
-du présent code.
+Sont également tenus de faire la déclaration tous vétérinaires appelés à visiter
+l'animal vivant ou mort.
+
+Il est interdit de transporter l'animal ou le cadavre avant que le vétérinaire
+sanitaire l'ait examiné. La même interdiction est applicable à l'enfouissement,
+à moins que le maire, en cas d'urgence, n'en ait donné l'autorisation spéciale.

@@ -1,42 +1,10 @@
 Article L231-6
 ----
-A l'exception des articles L. 232-2, L. 232-10, L. 232-11 et L. 232-12, les
-dispositions du présent titre ne sont pas applicables aux piscicultures
-régulièrement installées et équipées de dispositifs permanents empêchant la
-libre circulation du poisson entre ces exploitations et les eaux avec lesquelles
-elles communiquent. On entend par pisciculture les exploitations d'élevage de
-poissons destinés à la consommation ou au repeuplement ou à des fins
-scientifiques ou expérimentales ou de valorisation touristique. Dans ce dernier
-cas et lorsqu'elles concernent des plans d'eau, les autorisations et concessions
-stipulent que la capture du poisson à l'aide de lignes dans ces plans d'eau est
-permise. Toute personne qui capture le poisson à l'aide de lignes dans ces plans
-d'eau doit avoir acquitté la taxe visée à l'article L. 236-1, à moins d'en être
-exonérée dans les conditions fixées à l'article L. 236-2, d'être la personne
-physique propriétaire du plan d'eau ou de pratiquer ces captures dans des plans
-d'eau d'une surface inférieure à 10 000 mètres carrés.
-
-Peuvent seuls créer des piscicultures ceux qui disposent d'un plan d'eau établi
-en application des 1° et 2° de l'article L. 231-7, ou qui ont obtenu, en
-application du présent article, soit une concession lorsque le droit de pêche
-appartient à l'Etat, soit une autorisation lorsqu'il appartient à un
-propriétaire riverain.
-
-Ces concessions ou autorisations ne peuvent être accordées, après avis de la
-fédération départementale des associations agréées de pêche et de pisciculture,
-que si aucun inconvénient ne paraît devoir en résulter pour le peuplement
-piscicole des eaux avec lesquelles ces piscicultures communiquent. Les
-concessions et les autorisations sont délivrées pour une durée maximale de
-trente ans ; elles peuvent être renouvelées.
-
-Les formes et conditions des concessions et autorisations sont fixées par décret
-en Conseil d'Etat.
-
-Les enclos piscicoles créés sans autorisation avant le 1er janvier 1986 feront
-l'objet, à la demande de leur propriétaire, d'une procédure de régularisation
-par l'administration, dans des conditions fixées par décret. Les propriétaires
-devront déposer leur demande avant le 1er janvier 1999.
-
-Ceux qui auront créé des piscicultures sans concession ou sans autorisation
-seront punis d'une amende de 25 000 F et condamnés à remettre les lieux en état,
-sous astreinte définie à l'article L. 238-7, sans préjudice de l'application des
-dispositions du présent titre.
+Lorsqu'un règlement ou une décision de la Communauté européenne contient des
+dispositions qui entrent dans le champ d'application du II de l'article L.
+221-4, du chapitre VI du titre II, des articles L. 227-2 et L. 227-4, des
+chapitres Ier à V du présent titre ainsi que de l'article L. 237-2, il est
+constaté par décret en Conseil d'Etat que ces dispositions ainsi que celles des
+règlements ou décisions qui les modifieraient ou qui seraient pris pour leur
+application constituent les mesures d'exécution prévues aux articles et
+chapitres précités.

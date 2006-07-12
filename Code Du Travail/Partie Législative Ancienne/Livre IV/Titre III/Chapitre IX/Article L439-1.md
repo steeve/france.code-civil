@@ -6,9 +6,8 @@ salariés qu'ils emploient.
 
 II. - Un comité de groupe [*composition*] est constitué au sein du groupe formé
 par une entreprise appelée entreprise dominante et les entreprises qu'elle
-contrôle dans les conditions définies aux articles 354, 355-1 et au deuxième
-alinéa de l'article 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les
-sociétés commerciales, dont le siège social est situé sur le territoire
+contrôle dans les conditions définies aux articles L. 233-1, L. 233-3 et L.
+233-16 du code de commerce, dont le siège social est situé sur le territoire
 français.
 
 Est également considérée comme entreprise dominante, pour la constitution d'un

@@ -1,16 +1,38 @@
 Article L223-8
 ----
-Sous les peines encourues pour le délit prévu par l'article 441-6 du code pénal,
-toute personne demandant la délivrance d'un permis de chasser doit déclarer
-qu'elle ne tombe pas sous le coup des articles L. 223-19 (3°), L. 223-20, L.
-228-21 du présent code ; s'il y a lieu elle doit en outre, sous les mêmes
-peines, faire connaître celles des dispositions de l'article L. 223-21 qui
-peuvent lui être opposées.
+Après la constatation de la maladie, le préfet statue sur les mesures à mettre
+en exécution dans le cas particulier.
 
-Le permis de chasser délivré sur une fausse déclaration est nul de plein droit.
+Il prend, s'il est nécessaire, un arrêté portant déclaration d'infection
+remplaçant éventuellement un arrêté de mise sous surveillance.
 
-Il pourra, le cas échéant, être fait application des peines prévues contre ceux
-qui auront chassé sans permis valable.
+Cette déclaration peut entraîner, dans le périmètre qu'elle détermine,
+l'application des mesures suivantes :
 
-Un décret en Conseil d'Etat détermine les modalités d'application des alinéas
-ci-dessus.
+1° L'isolement, la séquestration, la visite, le recensement et la marque des
+animaux et troupeaux dans ce périmètre ;
+
+2° La mise en interdit de ce même périmètre ;
+
+3° L'interdiction momentanée ou la réglementation des foires et marchés, du
+transport et de la circulation de tous les animaux d'espèces susceptibles de
+contamination ;
+
+4° Les prélèvements nécessaires au diagnostic ou aux enquêtes épidémiologiques ;
+
+5° La désinfection des écuries, étables, voitures ou autres moyens de transport,
+la désinfection ou même la destruction des objets à l'usage des animaux malades
+ou qui ont été souillés par eux, et généralement des objets quelconque pouvant
+servir de véhicules à la contagion ;
+
+6° L'obligation de détruire les cadavres ;
+
+7° L'interdiction de vendre les animaux ;
+
+8° L'abattage des animaux malades ou contaminés ou des animaux ayant été exposés
+à la contagion ;
+
+9° Le traitement ou la vaccination des animaux.
+
+Un décret en Conseil d'Etat détermine celles de ces mesures qui sont applicables
+suivant la nature des maladies.

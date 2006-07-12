@@ -1,11 +1,10 @@
 Article L221-6
 ----
-Le représentant de l'Etat dans le département contrôle l'exécution des missions
-de service public auxquelles participent les fédérations départementales des
-chasseurs. Le budget de la fédération est, avant d'être exécuté, soumis à son
-approbation. Il a notamment le droit d'y inscrire les dépenses obligatoires,
-notamment celles liées à la mise en oeuvre du schéma départemental de gestion
-cynégétique et à l'indemnisation des dégâts de gibier.
-
-En cas de défaillance d'une fédération, la gestion d'office de son budget ou son
-administration peut être confiée au représentant de l'Etat dans le département.
+Les agents techniques sanitaires et les préposés sanitaires, qu'ils soient
+fonctionnaires ou agents contractuels à temps complet de l'Etat, les ingénieurs
+des travaux agricoles, les techniciens des services du ministère de
+l'agriculture et les autres fonctionnaires spécialisés désignés par arrêté du
+ministre chargé de l'agriculture ont qualité, dans les limites du département où
+ils sont affectés, lorsqu'ils sont spécialement commissionnés à cet effet par le
+préfet, pour rechercher et constater les infractions visées à l'article L.
+221-5.

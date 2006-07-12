@@ -1,9 +1,5 @@
 Article L223-4
 ----
-Pour l'inscription à l'examen du permis de chasser, il est perçu un droit
-d'examen dont le montant est fixé, dans la limite de 100 F, par arrêté du
-ministre chargé de la chasse et du ministre de l'économie, des finances et du
-budget.
-
-Le produit de ces droits est reversé à l'Office national de la chasse et de la
-faune sauvage pour être affecté à l'organisation matérielle de l'examen.
+Un décret pris après avis de la commission nationale vétérinaire établit la
+liste des maladies qui donnent lieu à déclaration sans application de mesures de
+police sanitaire.

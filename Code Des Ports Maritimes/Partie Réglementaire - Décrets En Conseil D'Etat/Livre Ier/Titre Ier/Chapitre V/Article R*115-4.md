@@ -1,10 +1,10 @@
 Article R*115-4
 ----
 I. Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du
-décret n° 77-1141 du 12 octobre 1977 modifié, pris pour l'application de
-l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de
-la nature, lorsque le coût total des travaux de construction ou d'extension
-excède le montant fixé au C de l'article 3 du même décret.
+décret n° 77-1141 du 12 octobre 1977 modifié, pris pour l'application des
+articles L. 122-1, L. 122-2 et L. 122-3 du code de l'environnement, lorsque le
+coût total des travaux de construction ou d'extension excède le montant fixé au
+C de l'article 3 du même décret.
 
 Il comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617
 du 17 juillet 1984 pris pour l'application de l'article 14 de la loi n° 82-1153
@@ -14,14 +14,14 @@ même décret.
 
 En outre, lorsqu'il y a lieu, le dossier :
 
-mentionne la ou les rubriques de la nomenclature, annexée au décret n° 93-743 du
-29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation ou
-à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992
-sur l'eau, dont relèvent les travaux ;
+- mentionne la ou les rubriques de la nomenclature, annexée au décret n° 93-743
+du 29 mars 1993 relatif à la nomenclature des opérations soumises à autorisation
+ou à déclaration en application des articles L. 214-1 à L. 214-6 du code de
+l'environnement, dont relèvent les travaux ;
 
-comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
-1993 relatif aux procédures d'autorisation et de déclaration prévues par
-l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Lorsque l'étude
+- comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars
+1993 relatif aux procédures d'autorisation et de déclaration prévues par les
+articles L. 214-1 à L. 214-6 du code de l'environnement. Lorsque l'étude
 d'impact fournit les informations requises, elle tient lieu de ce document.
 
 II. L'instruction, menée par le directeur du port autonome, comprend, outre la
@@ -48,9 +48,9 @@ des conditions de débarquement des produits de la pêche (CORECODE) ;
 
 7° Enquête publique s'il y a lieu.
 
-Dans le cas où les travaux envisagés sont soumis aux procédures prévues par
-l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau, l'instruction est
-menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
+Dans le cas où les travaux envisagés sont soumis aux procédures prévues par les
+articles L. 214-1 à L. 214-6 du code de l'environnement, l'instruction est menée
+simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
 susmentionné.
 
 III. - Le délai imparti aux collectivités, établissements publics, commissions

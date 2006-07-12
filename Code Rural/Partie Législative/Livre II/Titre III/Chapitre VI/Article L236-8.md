@@ -1,10 +1,15 @@
 Article L236-8
 ----
-Les contremaîtres, les employés de balisage et les mariniers qui fréquentent les
-cours d'eau, canaux et lacs domaniaux ne peuvent avoir, dans leurs bateaux ou
-équipages, aucun filet ou engin de pêche en dehors de ceux destinés à la pêche à
-la ligne.
+Les établissements et les personnes qui participent ou procèdent aux échanges
+intracommunautaires des marchandises mentionnées à l'article L. 236-5 peuvent
+être soumis à un enregistrement préalable auprès des services vétérinaires
+départementaux et à la tenue d'un registre sur lequel sont mentionnées les
+livraisons, leur origine ou leur destination. Ces établissements ou ces
+opérateurs doivent être en mesure de présenter, à la demande des agents chargés
+des contrôles prévus à l'article L. 236-5, tous certificats sanitaires,
+certificats de salubrité ou autres documents attestant de la provenance ou de
+l'origine des animaux vivants, produits ou denrées animales ou d'origine
+animale.
 
-Ils ne peuvent pêcher de leur bateau qu'à la ligne, pêches au lancer et à la
-traîne exceptées, et à la condition de se conformer aux prescriptions du présent
-titre et des textes pris pour son application.
+Le ministre chargé de l'agriculture fixe par arrêté les catégories
+d'établissements et d'opérateurs soumis à ces obligations.

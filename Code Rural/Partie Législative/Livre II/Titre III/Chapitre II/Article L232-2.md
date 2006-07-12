@@ -1,9 +1,18 @@
 Article L232-2
 ----
-Quiconque a jeté, déversé ou laissé écouler dans les eaux mentionnées à
-l'article L. 231-3, directement ou indirectement, des substances quelconques
-dont l'action ou les réactions ont détruit le poisson ou nui à sa nutrition, à
-sa reproduction ou à sa valeur alimentaire, sera puni d'une amende de 120 000 F
-et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement. Le
-tribunal peut, en outre, ordonner la publication d'un extrait du jugement aux
-frais de l'auteur de l'infraction, dans deux journaux ou plus.
+S'il est établi, après son départ de l'établissement d'origine, qu'un lot
+d'animaux ou denrées visées à l'article L. 231-1 présente ou est susceptible de
+présenter, compte tenu de ses conditions communes d'élevage, de production ou de
+commercialisation, un danger pour la santé publique, le préfet, sur la
+proposition d'un vétérinaire inspecteur habilité en vertu de l'article L. 231-2,
+en ordonne la consignation ou le rappel en un ou plusieurs lieux pour en
+permettre le contrôle.
+
+Toute personne ayant acquis ou cédé un ou plusieurs éléments du lot et ayant
+connaissance de la décision de consignation ou de rappel est tenue d'en informer
+celui qui a fourni la marchandise et ceux à qui elle l'a cédée.
+
+Les frais résultant de la décision de consignation ou de rappel, notamment les
+frais de transport, de stockage, d'analyses et de destruction, sont à la charge
+de l'opérateur concerné sans préjudice de la mise en cause de la responsabilité
+du fournisseur.

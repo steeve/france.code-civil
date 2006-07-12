@@ -1,0 +1,4 @@
+Article L912-1
+----
+Aux articles L. 225-36 et L. 225-65, les mots : " dans le même département ou un
+département limitrophe " sont remplacés par les mots : " dans la collectivité ".

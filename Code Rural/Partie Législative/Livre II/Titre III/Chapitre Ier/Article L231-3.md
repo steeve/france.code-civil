@@ -1,8 +1,13 @@
 Article L231-3
 ----
-Sous réserve des dispositions des articles L. 231-6 et L. 231-7, les
-dispositions du présent titre s'appliquent à tous les cours d'eau, canaux,
-ruisseaux ainsi qu'aux plans d'eau avec lesquels ils communiquent.
+Les vétérinaires titulaires du mandat sanitaire prévu par l'article L. 221-11
+concourent, dans le cadre de celui-ci et sous l'autorité du directeur des
+services vétérinaires, aux fonctions d'inspection sanitaire et qualitative des
+animaux vivants appartenant à des espèces dont la chair ou les produits sont
+destinés à l'alimentation humaine sur les foires, marchés ou expositions, dans
+tous les lieux et locaux professionnels où ils sont détenus et dans les
+véhicules professionnels de transport. Ils concourent également à la
+surveillance des conditions sanitaires et qualitatives dans lesquelles ces
+animaux sont produits, alimentés, entretenus, transportés et mis en vente.
 
-Dans les cours d'eau et canaux affluant à la mer, les dispositions du présent
-titre s'appliquent en amont de la limite de salure des eaux.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

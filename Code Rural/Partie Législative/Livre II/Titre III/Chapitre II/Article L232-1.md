@@ -1,19 +1,17 @@
 Article L232-1
 ----
-Tout propriétaire d'un droit de pêche, ou son ayant cause, est tenu de
-participer à la protection du patrimoine piscicole et des milieux aquatiques. A
-cet effet, il ne doit pas leur porter atteinte et, le cas échéant, il doit
-effectuer les travaux d'entretien, sur les berges et dans le lit du cours d'eau,
-nécessaires au maintien de la vie aquatique.
+Les dispositions relatives à la traçabilité des produits et denrées sont
+définies à l'article L. 214-1-1 du code de la consommation, ci-après reproduit :
 
-Avec l'accord du propriétaire, cette obligation peut être prise en charge par
-une association agréée de pêche et de pisciculture ou par la fédération
-départementale des associations agréées de pêche et de pisciculture qui, en
-contrepartie, exerce gratuitement le droit de pêche pendant la durée de la prise
-en charge de cette obligation. Cette durée peut être fixée par convention.
+"Art. L. 214-1-1 : Un décret en Conseil d'Etat fixe la liste des produits ou
+denrées pour lesquels la traçabilité doit être assurée. Il précise les
+obligations des producteurs et des distributeurs qui sont tenus d'établir et de
+mettre à jour des procédures d'informations enregistrées et d'identification des
+produits ou des lots de produits. Ces procédures permettent de connaître
+l'origine de ces produits et de ces lots, ainsi que les conditions de leur
+production et de leur distribution.
 
-En cas de non-respect de l'obligation de participer à la protection du
-patrimoine piscicole et des milieux aquatiques, les travaux nécessaires peuvent
-être effectués d'office par l'administration aux frais du propriétaire ou, si
-celui-ci est déchargé de son obligation, aux frais de l'association ou de la
-fédération qui l'a prise en charge.
+L'autorité administrative précise, pour chaque produit ou denrée, les étapes de
+production et de commercialisation pour lesquelles la traçabilité doit être
+assurée, ainsi que les moyens à mettre en oeuvre en fonction de la taille des
+entreprises".

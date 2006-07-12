@@ -1,5 +1,6 @@
 Article L213-1
 ----
-Les dispositions du présent chapitre ne s'appliquent pas aux produits de la
-pêche maritime et de la conchyliculture destinés à la consommation ni aux
-établissements de pêche et aux instituts chargés de leur contrôle.
+L'action en garantie, dans les ventes ou échanges d'animaux domestiques est
+régie, à défaut de conventions contraires, par les dispositions de la présente
+section, sans préjudice des dommages et intérêts qui peuvent être dus, s'il y a
+dol.

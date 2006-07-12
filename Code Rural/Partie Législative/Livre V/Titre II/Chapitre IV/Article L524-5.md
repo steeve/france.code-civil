@@ -1,6 +1,5 @@
 Article L524-5
 ----
-Les dispositions de la sous-section II de la section III du chapitre IV du titre
-Ier de la loi du 24 juillet 1966 sur les sociétés commerciales sont adaptées par
-décret en Conseil d'Etat au cas des sociétés coopératives et de leurs unions
-ayant un directoire et un conseil de surveillance.
+Les dispositions des articles L. 225-57 à L. 225-93 du code de commerce sont
+adaptées par décret en Conseil d'Etat au cas des sociétés coopératives et de
+leurs unions ayant un directoire et un conseil de surveillance.

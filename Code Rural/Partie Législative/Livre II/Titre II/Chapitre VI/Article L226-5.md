@@ -1,26 +1,15 @@
 Article L226-5
 ----
-Pour chaque département, la participation de l'Office national de la chasse à
-l'indemnisation des dégâts est constituée :
+Sous réserve des dispositions de l'article L. 226-3, le ou les cadavres
+d'animaux mentionnés à l'article L. 226-4 doivent être enlevés dans un délai de
+vingt-quatre heures après réception de l'avis du propriétaire ou du détenteur.
+Si, dans ce délai, il n'a pas été procédé à l'enlèvement, les propriétaires ou
+détenteurs sont tenus d'en aviser l'autorité administrative. Dans ce cas, ou
+lorsque le propriétaire de cadavres d'animaux reste inconnu à l'expiration d'un
+délai de douze heures après leur découverte, il est procédé à l'enlèvement de
+ces cadavres dans des conditions déterminées par voie réglementaire.
 
-a) Du produit des taxes mentionnées à l'article L. 225-4 perçues dans le
-département ;
-
-b) D'un prélèvement sur chaque redevance cynégétique départementale perçue dans
-le département ;
-
-c) D'un prélèvement sur chaque redevance cynégétique nationale, réparti entre
-les départements au prorata de leur surface respective.
-
-Les taux des prélèvements visés aux b et c ci-dessus sont fixés par un arrêté
-conjoint du ministre chargé de la chasse et du ministre chargé du budget.
-
-Lorsque la participation de l'office ne suffit pas à couvrir le montant des
-dégâts indemnisables, la fédération départementale des chasseurs prend à sa
-charge le surplus de l'indemnisation. Elle en répartit le montant entre ses
-adhérents par une participation personnelle des chasseurs de grand gibier et par
-une participation pour chaque dispositif de marquage du gibier.
-
-Les conditions d'application des articles L. 226-1 à L. 226-4 et du présent
-article, notamment les modalités de l'évaluation des dommages, sont déterminées
-par décret en Conseil d'Etat.
+Dans les cas visés au deuxième alinéa du I de l'article L. 226-2, le délai
+d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté à cinq
+jours lorsque l'entreposage répond à des conditions, définies par voie
+réglementaire, propres à protéger, pendant ce délai, les intérêts sanitaires.

@@ -1,5 +1,7 @@
 Article L236-3
 ----
-Les taux de cette taxe sont fixés par décrets rendus sur proposition du ministre
-chargé de la pêche en eau douce et du ministre chargé du budget, après avis du
-Conseil supérieur de la pêche.
+Le ministre chargé de l'agriculture peut prendre des mesures particulières
+complémentaires ou dérogatoires aux dispositions prévues aux première, deuxième
+et troisième sections du présent chapitre, au titre des importations dans les
+départements d'outre-mer ou des échanges en provenance ou à destination de ces
+départements, ou entre eux.

@@ -22,12 +22,10 @@ faciliter le reclassement des salariés dont le licenciement ne peut être évit
 7° Calendrier prévisionnel des licenciements.
 
 Cette information doit être adressée au directeur départemental du travail et de
-l'emploi avant l'envoi des lettres de licenciement [*autorité administrative
-compétente, DDTE*].
+l'emploi avant l'envoi des lettres de licenciement.
 
 Le procès-verbal de la réunion des représentants du personnel prévue à l'article
 L. 321-9 ou, éventuellement, l'avis du représentant des salariés, dans le cas
-prévu au deuxième alinéa de l'article 139 de la loi n° 85-98 du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises, sont
+prévu au deuxième alinéa de l'article L. 621-135 du code de commerce, sont
 transmis au directeur départemental du travail et de l'emploi dès qu'il a été
 procédé à la consultation.

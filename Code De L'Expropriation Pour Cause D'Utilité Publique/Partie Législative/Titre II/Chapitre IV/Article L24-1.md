@@ -8,9 +8,7 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 - aux articles 6, 9-1, 9-2 et 11 de la loi du 31 décembre 1913 sur les monuments
 historiques ;
 
-- à l'article 13 de la loi du 2 mai 1930 relative à la protection des monuments
-naturels et des sites de caractère artistique, historique, scientifique,
-légendaire ou pittoresque ;
+- à l'article L. 341-14 du code de l'environnement ;
 
 - à l'article L. 151-2 du code de la voirie routière ;
 

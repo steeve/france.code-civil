@@ -2,13 +2,12 @@ Article L641-12
 ----
 La consultation de l'Institut national des appellations d'origine dans le cadre
 de la procédure d'autorisation d'une installation présentant de graves dangers
-ou inconvénients pour les intérêts définis à l'article 1er de la loi n° 76-663
-du 19 juillet 1976 relative aux installations classées pour la protection de
+ou inconvénients pour les intérêts définis à l'article L. 511-1 du code de
 l'environnement, dans les communes comportant une aire de production d'un
 produit d'appellation d'origine et celles qui leur sont limitrophes, est définie
-à l'article 9 de ladite loi, ci-après reproduit :
+à l'article L. 512-6 dudit code, ci-après reproduit :
 
-"Art. 9 : Dans les communes comportant une aire de production de vins
+"Article L. 512-6 : Dans les communes comportant une aire de production de vins
 d'appellation d'origine, l'autorité compétente pour délivrer l'autorisation
 consulte l'Institut national des appellations d'origine.
 

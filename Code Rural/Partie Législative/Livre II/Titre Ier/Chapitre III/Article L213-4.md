@@ -1,18 +1,5 @@
 Article L213-4
 ----
-Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des
-animaux d'espèces non domestiques :
-
-1° Les établissements définis à l'article L. 213-3 ;
-
-2° Les établissements scientifiques ;
-
-3° Les établissements d'enseignement ;
-
-4° Les établissements et instituts spécialisés dans la recherche biomédicale,
-dans le contrôle biologique et dans les productions biologiques ;
-
-5° Les établissements d'élevage.
-
-Un décret en Conseil d'Etat précise les modalités d'application du présent
-article.
+La liste des vices rédhibitoires et celle des maladies transmissibles,
+mentionnée au deuxième alinéa de l'article L. 213-3, sont fixées par décret en
+Conseil d'Etat, pris après avis de la Commission nationale vétérinaire.

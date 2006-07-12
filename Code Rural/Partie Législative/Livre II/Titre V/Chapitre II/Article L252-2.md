@@ -1,6 +1,17 @@
 Article L252-2
 ----
-Les associations agréées de protection de l'environnement mentionnées à
-l'article L. 252-1 ainsi que les associations mentionnées à l'article L. 233-2
-sont appelées, dans le cadre des lois et règlements en vigueur, à participer à
-l'action des organismes publics concernant l'environnement.
+Dans chaque circonscription communale ou intercommunale, un seul groupement de
+défense contre les organismes nuisibles est agréé par le préfet.
+
+Ne peuvent bénéficier de l'agrément que des groupements de défense satisfaisant
+aux conditions suivantes :
+
+1° Adopter les statuts types établis par le ministre chargé de l'agriculture ;
+
+2° Prendre l'engagement de se conformer aux méthodes de lutte préconisées par le
+service de la protection des végétaux ;
+
+3° Accepter le contrôle permanent du ministère de l'agriculture ;
+
+4° Adhérer à une fédération départementale agréée par le ministre chargé de
+l'agriculture.

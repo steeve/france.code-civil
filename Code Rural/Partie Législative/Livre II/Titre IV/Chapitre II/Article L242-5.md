@@ -1,10 +1,11 @@
 Article L242-5
 ----
-Lorsque le classement comporte des prescriptions de nature à modifier l'état ou
-l'utilisation antérieure des lieux déterminant un préjudice direct, matériel et
-certain, il donne droit à une indemnité au profit des propriétaires, des
-titulaires de droits réels ou de leurs ayants droit.
+Le conseil régional de l'ordre, complété par un conseiller honoraire à la cour
+d'appel ou à défaut par un conseiller en activité et sous sa présidence,
+constitue une chambre de discipline pour tout ce qui concerne l'honneur, la
+moralité et la discipline de la profession. Ce magistrat est désigné par le
+premier président de la cour d'appel dont le ressort comprend le chef-lieu de la
+région.
 
-Dans ce cas, la demande d'indemnisation doit être produite dans un délai de six
-mois à dater de la notification de la décision de classement. A défaut d'accord
-amiable, l'indemnité est fixée par le juge de l'expropriation.
+La chambre régionale de discipline a juridiction sur les vétérinaires et
+docteurs vétérinaires exerçant leur profession dans son ressort.

@@ -1,12 +1,7 @@
 Article L226-3
 ----
-L'indemnisation mentionnée à l'article L. 226-1 n'est due que si le montant des
-dommages est supérieur à un minimum fixé par décret en Conseil d'Etat.
-
-En tout état de cause, l'indemnité fait l'objet d'un abattement proportionnel
-fixé par décret en Conseil d'Etat.
-
-En outre, elle peut être réduite s'il est constaté que la victime des dégâts a,
-par un procédé quelconque, favorisé l'arrivée du gibier sur son fonds, en
-particulier en procédant de façon répétée, et sans respecter les assolements
-pratiqués dans la région, à des cultures de nature à l'attirer.
+Dans les zones de pâturage estival en montagne et en cas de force majeure ou de
+nécessité d'ordre sanitaire, constatée par l'autorité administrative, il est
+procédé à la destruction, par incinération ou procédé autorisé, et à
+l'enfouissement des cadavres sur place ou dans un enclos communal, dans les
+conditions déterminées par voie réglementaire.

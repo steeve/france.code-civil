@@ -1,10 +1,17 @@
 Article L236-7
 ----
-Quiconque jette dans les eaux définies à l'article L. 231-3 des drogues ou
-appâts en vue d'enivrer le poisson ou de le détruire sera puni d'une amende de
-30 000 F et d'un emprisonnement de deux ans ou de l'une de ces deux peines
-seulement.
+Lorsque des marchandises communautaires mentionnées à l'article L. 236-5 sont
+introduites, à l'occasion d'échanges intracommunautaires, sur le territoire
+métropolitain ou dans les départements d'outre-mer par des postes d'inspection
+frontaliers, leur détenteur doit présenter au service des douanes les documents
+relatifs à ces marchandises. Des contrôles documentaires sont réalisés par les
+agents des douanes afin de déterminer leur origine et leur statut. Les
+infractions au présent alinéa sont constatées par les agents des douanes et
+sanctionnées conformément à l'article 410 du code des douanes.
 
-Ceux qui, en vue de capturer ou de détruire le poisson, se servent d'explosifs,
-de procédés d'électrocution ou de produits ou de moyens non autorisés seront
-punis des mêmes peines.
+Cette mesure ne s'applique pas aux animaux vivants ou à leurs produits, ainsi
+qu'aux denrées animales ou d'origine animale, aux produits destinés à
+l'alimentation animale, aux micro-organismes pathogènes pour les animaux et aux
+produits susceptibles de les véhiculer, transportés par des moyens de transport
+reliant de manière régulière et directe deux points géographiques de la
+Communauté européenne.

@@ -1,12 +1,10 @@
 Article L233-1
 ----
-Il est créé dans chaque bassin hydrographique une commission comprenant,
-notamment, des responsables de la pêche, des personnes qualifiées, des
-représentants de riverains, des collectivités locales, des administrations
-concernées et des associations de protection de la nature, qui sera chargée de
-proposer les orientations de protection et de gestion des milieux aquatiques du
-bassin et de donner son avis sur toutes les questions y afférentes. Ces
-orientations sont arrêtées par le ministre chargé de la pêche en eau douce.
-
-Un décret fixe la composition et les règles de fonctionnement de la commission
-de bassin.
+Lorsque, du fait d'un manquement à la réglementation prise pour l'application de
+l'article L. 231-1, un établissement présente ou est susceptible de présenter
+une menace pour la santé publique, les vétérinaires inspecteurs habilités en
+vertu de l'article L. 231-2 ordonnent la réalisation de travaux, d'opérations de
+nettoyage, d'actions de formation du personnel et d'autres mesures correctives,
+ainsi que le renforcement des autocontrôles. En cas de nécessité, le préfet peut
+prononcer, sur proposition de ces agents, la fermeture de tout ou partie de
+l'établissement ou l'arrêt d'une ou de plusieurs de ses activités.
