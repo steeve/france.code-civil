@@ -5,7 +5,9 @@ les risques d'opérations immobilières a pour objet de garantir les organismes
 d'habitations à loyer modéré contre les risques financiers encourus par eux dans
 les opérations de promotion immobilière et les opérations de vente d'immeubles à
 construire, à améliorer ou achevés, exception faite des opérations de vente
-mentionnées aux articles L. 443-7 et suivants.
+mentionnées aux articles L. 443-7 et suivants et des opérations immobilières
+réalisées par les sociétés civiles immobilières visées à l'article L. 443-6-2
+comportant des logements ayant déjà fait l'objet d'une occupation.
 
 Un organisme d'habitations à loyer modéré, directement ou indirectement, ne peut
 procéder aux acquisitions immobilières, contracter un emprunt ou réaliser les

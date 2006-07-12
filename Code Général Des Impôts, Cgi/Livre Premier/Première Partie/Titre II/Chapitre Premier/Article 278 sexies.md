@@ -15,7 +15,7 @@ Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature
 perçues par les personnes qui exercent sur ces immeubles un droit de propriété
 ou de jouissance.
 
-2. Les livraisons à soi-même mentionnées aux neuvième et dixième alinéas du c du
+2. Les livraisons à soi-même mentionnées aux neuvième à douzième alinéas du c du
 1 du 7° de l'article 257.
 
 3. Les ventes de logements sociaux neufs à usage locatif mentionnés aux 3° et 5°
@@ -43,10 +43,37 @@ propriété immobilière, qui font l'objet, dans des conditions fixées par déc
 d'une convention et d'une décision d'agrément prise par le représentant de
 l'Etat dans le département.
 
-4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
+3 quater Les ventes et apports de logements aux structures d'hébergement
+temporaire ou d'urgence bénéficiant d'une aide de l'Etat et destinées aux
+personnes visées au II de l'article L. 301-1 du code de la construction et de
+l'habitation.
+
+3 quinquies Les ventes et apports de logements sociaux à usage locatif à
+l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n°
+2001-1275 du 28 décembre 2001) lorsqu'elle a conclu avec l'Etat une convention
+en application du 4° de l'article L. 351-2 du code de la construction et de
+l'habitation.
+
+4. Les livraisons à soi-même mentionnées au 7° bis et au 7° quater de l'article
+257.
 
 5. Les ventes de droits immobiliers démembrés de logements sociaux neufs à usage
 locatif mentionnés aux 2 et 3, lorsque l'usufruitier bénéficie d'un prêt prévu à
 l'article R. 331-1 du code de la construction et de l'habitation et a conclu
 avec l'Etat une convention en application du 3° et du 5° de l'article L. 351-2
 du même code.
+
+6. Les ventes et livraisons à soi-même d'immeubles au sens du 7° de l'article
+257, à usage de résidence principale, destinés à des personnes physiques dont
+les ressources ne dépassent pas de plus de 30 % les plafonds de ressources
+prévus à l'article L. 441-1 du code de la construction et de l'habitation et
+situés dans des quartiers faisant l'objet d'une convention prévue à l'article 10
+de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la
+ville et la rénovation urbaine ou entièrement situés à une distance de moins de
+500 mètres de la limite de ces quartiers.
+
+7. Les apports des immeubles sociaux neufs aux sociétés civiles immobilières
+d'accession progressive à la propriété effectués dans les conditions prévues aux
+articles L. 443-6-2 et suivants du code de la construction et de l'habitation.
+
+II. (abrogé)

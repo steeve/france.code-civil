@@ -24,8 +24,8 @@ La présente convention a pour objet de fixer les droits et les obligations des
 parties prévus par les articles L. 353-1 à L. 353-13 pour le programme de ...
 décrit plus précisément dans le document à la présente convention et faisant
 l'objet de travaux d'amélioration financés sans aucune aide spécifique de
-l'Etat, ou bénéficiant de subventions octroyées par l'agence nationale pour
-l'amélioration de l'habitat.
+l'Etat, ou bénéficiant de subventions octroyées par l'agence nationale de
+l'habitat.
 
 Dans le cas où les travaux font l'objet d'une demande d'aide de l'agence, ils
 seront réalisés sous réserve de l'obtention de cette aide.
@@ -117,10 +117,9 @@ lorsque le propriétaire est une personne physique, il peut occuper les logement
 vacants à titre personnel ou les faire occuper par son conjoint, ses ascendants
 ou descendants ou ceux de son conjoint. L'occupation doit être exclusivement à
 titre de résidence principale et, lorsque le programme bénéficie de subventions
-octroyées par l'agence nationale pour l'amélioration de l'habitat, porte aux
-maximum sur le nombre entier de logements immédiatement inférieur ... p. 100 du
-nombre total de logements conventionnés en la possession dudit propriétaire,
-soit ... logements.
+octroyées par l'agence nationale de l'habitat, porte aux maximum sur le nombre
+entier de logements immédiatement inférieur ... p. 100 du nombre total de
+logements conventionnés en la possession dudit propriétaire, soit ... logements.
 
 Si ces logements deviennent à nouveau vacants avant la date d'expiration de la
 convention, le propriétaire bailleur qui a exercé son droit de reprise s'engage

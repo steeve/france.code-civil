@@ -6,13 +6,12 @@ Ne peuvent bénéficier des primes régies par le présent chapitre :
 l'amélioration du logement, et notamment ceux qui bénéficient des concours
 financiers prévus par la réglementation relative aux prêts bonifiés à moyen et
 long terme du crédit agricole mutuel, aux habitations à loyer modéré, au crédit
-immobilier, à l'habitat rural et à l'agence nationale pour l'amélioration de
-l'habitat ainsi que les travaux qui bénéficient d'avances consenties par le
-fonds de développement économique et social et, d'une manière générale, d'une
-aide spéciale de l'Etat, à l'exception des primes d'épargne-logement ;
-toutefois, les primes prévues à la section III peuvent être attribuées aux
-personnes ayant contracté un emprunt bonifié à moyen terme auprès d'une caisse
-de crédit agricole mutuel ;
+immobilier, à l'habitat rural et à l'agence nationale de l'habitat ainsi que les
+travaux qui bénéficient d'avances consenties par le fonds de développement
+économique et social et, d'une manière générale, d'une aide spéciale de l'Etat,
+à l'exception des primes d'épargne-logement ; toutefois, les primes prévues à la
+section III peuvent être attribuées aux personnes ayant contracté un emprunt
+bonifié à moyen terme auprès d'une caisse de crédit agricole mutuel ;
 
 2° Les travaux qui ont été commencés avant :
 

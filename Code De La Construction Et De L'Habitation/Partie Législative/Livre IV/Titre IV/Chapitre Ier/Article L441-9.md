@@ -15,11 +15,10 @@ l'allocation de logement prévue à l'article L. 831-1 du même code.
 A défaut et après mise en demeure restée infructueuse pendant quinze jours,
 l'organisme d'habitations à loyer modéré liquide provisoirement le supplément de
 loyer. Pour cette liquidation, il est fait application d'un coefficient de
-dépassement du plafond de ressources égal au coefficient maximal adopté par
-l'organisme ou, à défaut, égal à la valeur maximale prévue par le décret
-mentionné à l'article L. 441-8. L'organisme d'habitations à loyer modéré perçoit
-en outre une indemnité pour frais de dossier dont le montant maximum est fixé
-par décret en Conseil d'Etat.
+dépassement du plafond de ressources égal à la valeur maximale prévue par le
+décret mentionné à l'article L. 441-8. L'organisme d'habitations à loyer modéré
+perçoit en outre une indemnité pour frais de dossier dont le montant maximum est
+fixé par décret en Conseil d'Etat.
 
 Lorsque le locataire a communiqué les renseignements et avis mentionnés au
 premier alinéa, le supplément de loyer afférent à la période de retard est

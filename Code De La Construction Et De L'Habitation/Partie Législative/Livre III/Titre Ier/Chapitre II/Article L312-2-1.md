@@ -10,6 +10,6 @@ dégradées. Ils peuvent également apporter, sous condition de ressources, des
 aides aux propriétaires occupants pour l'amélioration de l'habitat et aux
 personnes accédant à la propriété ainsi que des compléments aux aides
 mentionnées au 5° de l'article L. 301-2. Ils peuvent, à cet effet, conclure des
-conventions avec l'Agence nationale pour l'amélioration de l'habitat, par
-lesquelles ils lui confient, en leur nom et pour leur compte, la gestion des
-aides destinées aux propriétaires bailleurs et occupants.
+conventions avec l'Agence nationale de l'habitat, par lesquelles ils lui
+confient, en leur nom et pour leur compte, la gestion des aides destinées aux
+propriétaires bailleurs et occupants.

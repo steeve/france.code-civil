@@ -28,3 +28,9 @@ Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte d
 Bâtiments de France ou le représentant de l'Etat dans la région est saisi en
 application du présent article. L'autorisation ne peut alors être délivrée
 qu'avec son accord.
+
+Les prescriptions imposées en application du présent article ne peuvent faire
+obstacle à l'application des règles d'accessibilité d'un immeuble bâti aux
+personnes handicapées mentionnées à l'article L. 111-7-2 du code de la
+construction et de l'habitation, sauf pour prévenir la dégradation du patrimoine
+concerné.

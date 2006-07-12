@@ -1,12 +1,10 @@
 Article L423-10
 ----
-Il est interdit aux administrateurs d'organismes d'habitations à loyer modéré,
-ainsi qu'à toute personne rémunérée par ces organismes, de vendre des immeubles
-directement ou indirectement auxdits organismes ou à leurs clients, de leur
-consentir des prêts avec hypothèque, de passer avec ces organismes ou avec leur
-clients des marchés de travaux ou de fournitures ou d'imposer le choix d'un
-fournisseur, entrepreneur ou prestataire de service déterminé pour la
-réalisation d'une de ces opérations prévues au présent livre.
-
-La contravention à ces interdictions [*délit*] est punie d'une amende de 4 500
-euros. La peine sera doublée en cas de récidive.
+Toute convention, conclue directement ou par personne interposée entre un des
+organismes mentionnés à l'article L. 411-2 et un de ses dirigeants, un de ses
+salariés, un de ses administrateurs, un des membres du conseil de surveillance
+ou une personne morale dans laquelle un de ses dirigeants, un de ses salariés,
+un de ses administrateurs ou membres du conseil de surveillance exerce des
+fonctions d'administrateur, de membre du conseil de surveillance ou de dirigeant
+est subordonnée à l'autorisation préalable du conseil d'administration ou du
+conseil de surveillance de l'organisme.

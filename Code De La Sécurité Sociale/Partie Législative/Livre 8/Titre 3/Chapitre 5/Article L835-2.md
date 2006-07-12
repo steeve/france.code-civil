@@ -13,7 +13,7 @@ d'habitations à loyer modéré, une société d'économie mixte de construction
 gestion de logements sociaux ou l'un des organismes suivants : l'Entreprise
 minière et chimique et les sociétés à participation majoritaire de l'Entreprise
 minière et chimique, les sociétés à participation majoritaire des Charbonnages
-de France et l'établissement public du gestion immobilière du Nord -
+de France et l'établissement public de gestion immobilière du Nord -
 Pas-de-Calais et les sociétés à participation majoritaire de cet établissement ;
 
 2° L'allocataire et le bailleur ou, le cas échéant, le prêteur sont d'accord
@@ -53,4 +53,4 @@ de remboursement. Il porte cette déduction à la connaissance de l'allocataire.
 
 Lorsque l'organisme payeur a versé une allocation indue et que le bailleur ou le
 prêteur justifie avoir procédé à la déduction prévue à l'alinéa précédent, le
-trop-perçu est recouvré auprès, suivant le cas, du locataire ou de l'emprunteur.
+trop-perçu est recouvré auprès de l'allocataire.

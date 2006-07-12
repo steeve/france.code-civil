@@ -8,4 +8,5 @@ Toute association de protection de l'environnement agréée au titre de l'articl
 L. 141-1 justifie d'un intérêt pour agir contre toute décision administrative
 ayant un rapport direct avec son objet et ses activités statutaires et
 produisant des effets dommageables pour l'environnement sur tout ou partie du
-territoire pour lequel elle bénéficie de l'agrément.
+territoire pour lequel elle bénéficie de l'agrément dès lors que cette décision
+est intervenue après la date de son agrément.

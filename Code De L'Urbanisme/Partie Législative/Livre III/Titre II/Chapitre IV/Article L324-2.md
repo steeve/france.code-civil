@@ -9,7 +9,10 @@ communes non membres de l'un de ces établissements. Lorsque les établissements
 publics de coopération intercommunale et les communes appartiennent à plusieurs
 départements, la décision est prise par arrêté conjoint des préfets concernés.
 La région et le département peuvent participer à la création de l'établissement
-public ou y adhérer.
+public ou y adhérer. Le ou les préfets disposent d'un délai de trois mois à
+compter de la transmission des délibérations pour donner leur accord. A défaut
+de décision à l'expiration de ce délai, l'arrêté créant l'établissement public
+est acquis tacitement.
 
 Les délibérations fixent la liste des membres de l'établissement, les modalités
 de fonctionnement, la durée, le siège et la composition de l'assemblée générale

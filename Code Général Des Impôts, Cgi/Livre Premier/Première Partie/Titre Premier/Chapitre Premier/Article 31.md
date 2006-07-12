@@ -289,10 +289,10 @@ l'application des dispositions des articles 199 undecies ou 199 undecies A.
 
 h) Pour les logements situés en France, acquis neufs ou en l'état futur
 d'achèvement à compter du 3 avril 2003, et à la demande du contribuable, une
-déduction au titre de l'amortissement égale à 8 % du prix d'acquisition du
-logement pour les cinq premières années et à 2,5 % de ce prix pour les quatre
-années suivantes. La période d'amortissement a pour point de départ le premier
-jour du mois de l'achèvement de l'immeuble ou de son acquisition si elle est
+déduction au titre de l'amortissement égale à 6 % du prix d'acquisition du
+logement pour les sept premières années et à 4 % de ce prix pour les deux années
+suivantes. La période d'amortissement a pour point de départ le premier jour du
+mois de l'achèvement de l'immeuble ou de son acquisition si elle est
 postérieure.
 
 La déduction au titre de l'amortissement est applicable, dans les mêmes
@@ -327,18 +327,10 @@ propriétaire du logement, son conjoint ou les membres de son foyer fiscal, ne
 fait pas obstacle au bénéfice de la déduction, à la condition que cet organisme
 ne fournisse aucune prestation hôtelière ou parahôtelière.
 
-A l'issue de la période couverte par l'engagement de location, tant que la
-condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
-peut, par période de trois ans et pendant une durée maximale de six ans,
-bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du prix
-d'acquisition ou de revient du logement en cas de poursuite, de reconduction ou
-de renouvellement du bail ou en cas de changement de titulaire du bail. En cas
-de non-respect des conditions de location ou de cession du logement, les
-déductions pratiquées pendant l'ensemble de la période triennale sont remises en
-cause dans les conditions de droit commun. A l'issue de cette période, et sous
-réserve que les conditions de loyer et de ressources soient remplies, le
-propriétaire peut bénéficier de la déduction prévue au j, qu'il y ait ou non
-changement de titulaire du bail.
+A l'issue de la période couverte par l'engagement de location, et sous réserve
+que les conditions de loyer et de ressources soient remplies, le propriétaire
+peut bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
+titulaire du bail.
 
 La déduction au titre de l'amortissement n'est pas applicable aux revenus des
 immeubles dont le droit de propriété est démembré. Toutefois, lorsque le
@@ -352,19 +344,11 @@ Lorsque l'option est exercée, les dispositions du b ne sont pas applicables,
 mais les droits suivants sont ouverts :
 
 1. Les dépenses de reconstruction et d'agrandissement ouvrent droit à une
-déduction, au titre de l'amortissement, égale à 8 % du montant des dépenses pour
-les cinq premières années et à 2,5 % de ce montant pour les quatre années
-suivantes. Le propriétaire doit s'engager à louer le logement dans les
-conditions prévues au troisième alinéa pendant une nouvelle durée de neuf ans. A
-l'issue de la période couverte par l'engagement de location, tant que la
-condition de loyer prévue au troisième alinéa reste remplie, le propriétaire
-peut, par période de trois ans et pendant une durée maximale de six ans,
-bénéficier d'une déduction au titre de l'amortissement égale à 2,5 % du montant
-des dépenses en cas de poursuite, de reconduction ou de renouvellement du bail
-ou en cas de changement de titulaire du bail. En cas de non-respect des
-conditions de location ou de cession du logement, les déductions pratiquées
-pendant l'ensemble de la période triennale sont remises en cause dans les
-conditions de droit commun. A l'issue de cette période, et sous réserve que les
+déduction, au titre de l'amortissement, égale à 6 % du montant des dépenses pour
+les sept premières années et à 4 % de ce montant pour les deux années suivantes.
+Le propriétaire doit s'engager à louer le logement dans les conditions prévues
+au troisième alinéa pendant une nouvelle durée de neuf ans. A l'issue de la
+période couverte par l'engagement de location, et sous réserve que les
 conditions de loyer et de ressources soient remplies, le propriétaire peut
 bénéficier de la déduction prévue au j, qu'il y ait ou non changement de
 titulaire du bail.
@@ -443,19 +427,21 @@ j) Une déduction fixée à 26 % des revenus bruts au titre des six premières
 années de location des logements qui ne peuvent donner lieu à l'un ou l'autre
 des régimes prévus au f, g et h et qui, répondant aux normes d'habitabilité
 telles que définies par décret, sont loués par une personne physique ou une
-société non soumise à l'impôt sur les sociétés en vertu d'un bail conclu à
-compter du 1er janvier 1999. Le contribuable ou la société propriétaire doit
-s'engager à louer le logement nu pendant une durée de six ans au moins à des
-personnes qui en font leur habitation principale. Cet engagement prévoit, en
-outre, que le loyer et les ressources du locataire appréciées à la date de
-conclusion du bail ne doivent pas excéder des plafonds fixés par décret et que
-la location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou
-un descendant du contribuable, une personne occupant déjà le logement ou, si
-celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés,
-l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant
-d'un associé. Les associés des sociétés précitées s'engagent à conserver leurs
-parts pendant au moins six ans. Un contribuable ne peut, pour un même logement
-ou une même souscription de titres, pratiquer la réduction d'impôt mentionnée à
+société non soumise à l'impôt sur les sociétés en vertu d'un bail conclu entre
+le 1er janvier 1999 et le 30 septembre 2006.
+
+Le contribuable ou la société propriétaire doit s'engager à louer le logement nu
+pendant une durée de six ans au moins à des personnes qui en font leur
+habitation principale. Cet engagement prévoit, en outre, que le loyer et les
+ressources du locataire appréciées à la date de conclusion du bail ne doivent
+pas excéder des plafonds fixés par décret et que la location ne peut être
+conclue avec un membre du foyer fiscal, un ascendant ou un descendant du
+contribuable, une personne occupant déjà le logement ou, si celui-ci est la
+propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses
+associés ou un membre du foyer fiscal, un ascendant ou un descendant d'un
+associé. Les associés des sociétés précitées s'engagent à conserver leurs parts
+pendant au moins six ans. Un contribuable ne peut, pour un même logement ou une
+même souscription de titres, pratiquer la réduction d'impôt mentionnée à
 l'article 199 undecies A et bénéficier de la déduction au taux de 26 % prévue au
 présent alinéa. Lorsque la location est suspendue à l'issue d'une période d'au
 moins trois ans au profit d'un ascendant ou d'un descendant du contribuable, la
@@ -523,29 +509,78 @@ prévues au premier ou au troisième alinéa soient remplies, la déduction deme
 k) Une déduction fixée à 26 % des revenus bruts, pour les logements situés en
 zone de revitalisation rurale, lorsque l'option prévue au h est exercée.
 
-Cette déduction est également applicable lorsque le contribuable a exercé
-l'option prévue au h, à la double condition qu'il donne, pendant toute la durée
-d'application de cette option, le logement en location à un organisme sans but
-lucratif ou à une union d'économie sociale qui le met à la disposition de
-personnes défavorisées, mentionnées à l'article 1er de la loi n° 90-449 du 31
-mai 1990 visant à la mise en oeuvre du droit au logement, autres qu'un membre du
-foyer fiscal, un ascendant ou un descendant du contribuable, l'organisme ou
-l'union ayant été agréé à cet effet par le représentant de l'Etat dans le
-département, et qu'il s'engage, dans les conditions prévues au h, à ce que le
-loyer et les ressources du locataire, appréciées à la date de conclusion du
-bail, n'excèdent pas des plafonds fixés par décret et inférieurs à ceux
-mentionnés au premier alinéa du j.
+l) Une déduction fixée à 30 % des revenus bruts lorsque le contribuable a exercé
+l'option prévue au h pendant la durée de l'engagement de location du logement.
 
-En cas de non-respect de l'un des engagements mentionnés au deuxième alinéa ou
-de cession du logement ou des parts sociales, la déduction fait l'objet d'une
-reprise au titre de l'année de la rupture de l'engagement ou de la cession. En
-cas d'invalidité correspondant au classement dans la deuxième ou la troisième
-des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de
-licenciement ou de décès du contribuable ou de l'un des époux soumis à
-imposition commune, cette reprise n'est pas appliquée.
+Pour l'application du premier alinéa, les personnes concernées, les
+investissements éligibles et les conditions d'application de cette déduction
+sont identiques à ceux prévus au h. L'engagement de location doit toutefois
+prévoir que le locataire est une personne autre qu'un ascendant ou descendant du
+contribuable et que le loyer et les ressources du locataire appréciées à la date
+de conclusion du bail ne doivent pas excéder des plafonds fixés par décret à des
+niveaux inférieurs, pour les loyers, aux quatre cinquièmes de ceux mentionnés au
+troisième alinéa du h. L'engagement de location peut être suspendu, à l'issue
+d'une période de location d'au moins trois ans, pour mettre le logement à la
+disposition d'un ascendant ou descendant du contribuable. Ce dernier ne
+bénéficie pas, pendant la période de mise à disposition du logement, de la
+déduction au titre de l'amortissement. Cette période de mise à disposition du
+logement, qui ne peut excéder neuf ans, n'est pas prise en compte pour la durée
+de location minimale de neuf ans.
 
-Sous réserve que la condition de loyer soit remplie, la déduction demeure
-applicable en cas de changement de titulaire du bail.
+Lorsque l'immeuble est la propriété d'une société non soumise à l'impôt sur les
+sociétés, le locataire doit être une personne autre qu'un des associés ou un
+membre du foyer fiscal, un ascendant ou un descendant d'un associé.
+
+A l'issue de la période couverte par l'engagement de location, tant que les
+conditions de loyer et de ressources du locataire prévues au deuxième alinéa
+restent remplies, le propriétaire peut, par périodes de trois ans et pendant une
+durée maximale de six ans, bénéficier d'un complément de la déduction au titre
+de l'amortissement prévue au h égal à 2,5 % du prix d'acquisition ou de revient
+du logement en cas de poursuite, de renouvellement du bail ou de changement de
+titulaire du bail. En cas de non-respect des conditions de location ou de
+cession du logement, les compléments de déductions pratiqués pendant l'ensemble
+de la période triennale sont remis en cause dans les conditions de droit commun.
+
+Les trois premiers alinéas sont applicables, dans les mêmes conditions et
+limites, aux sociétés civiles de placement immobilier régies par les articles L.
+214-50 et suivants du code monétaire et financier au prorata des revenus bruts
+correspondant aux droits des associés qui ont opté pour la déduction au titre de
+l'amortissement prévue à l'article 31 bis du présent code.
+
+Pour un même logement, les dispositions du présent l sont exclusives de
+l'application de celles prévues aux i, j et k.
+
+m) Pour les baux conclus à compter du 1er octobre 2006, une déduction fixée à 30
+% des revenus bruts des logements donnés en location dans le cadre d'une
+convention mentionnée à l'article L. 321-4 du code de la construction et de
+l'habitation, pendant la durée d'application de cette convention.
+
+Cette déduction est portée à 45 % des revenus bruts des logements donnés en
+location dans le cadre d'une convention mentionnée à l'article L. 321-8 du même
+code, pendant la durée d'application de cette convention.
+
+Le contribuable ou la société propriétaire doit louer le logement nu pendant
+toute la durée de la convention à des personnes qui en font leur habitation
+principale. Pour l'application du premier alinéa, le loyer et les ressources du
+locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
+plafonds fixés à des niveaux inférieurs à ceux prévus au premier alinéa du j. La
+location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un
+descendant du contribuable, une personne occupant déjà le logement ou, si
+celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés,
+l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant
+d'un associé. Les associés d'une société non soumise à l'impôt sur les sociétés
+doivent conserver leurs parts pendant toute la durée de la convention.
+
+Ces dispositions sont exclusives de celles prévues aux f à l et à l'article 199
+undecies A.
+
+n) Une déduction fixée à 30 % des revenus bruts des logements qui ont donné
+lieu, au titre de l'année qui précède celle de la conclusion du bail, au
+versement de la taxe prévue à l'article 232. Cette déduction s'applique aux
+revenus perçus jusqu'au 31 décembre de la deuxième année qui suit celle de la
+conclusion de ce bail, conclu entre le 1er janvier 2006 et le 31 décembre 2007.
+L'application du présent n est exclusive de celle des dispositions prévues aux f
+à l.
 
 2° Pour les propriétés rurales :
 

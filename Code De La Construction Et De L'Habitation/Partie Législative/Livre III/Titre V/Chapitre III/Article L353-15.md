@@ -15,10 +15,8 @@ même article est ramené à un mois. Ce délai est de deux mois si les deux
 logements appartiennent à des bailleurs différents.
 
 III. Le droit au maintien dans les lieux ne peut être opposé au bailleur qui a
-obtenu du préfet l'autorisation de démolir un immeuble afin d'en construire un
-nouveau, d'une surface habitable supérieure et contenant plus de logements que
-l'immeuble démoli, ou de restructurer le quartier dans le cadre d'un projet de
-renouvellement urbain.
+obtenu du représentant de l'Etat dans le département l'autorisation de démolir
+visée à l'article L. 443-15-1.
 
 Le bailleur donne un préavis de six mois à chacun des occupants pour vider les
 lieux. Les locaux ainsi rendus disponibles ne peuvent être réoccupés avant le

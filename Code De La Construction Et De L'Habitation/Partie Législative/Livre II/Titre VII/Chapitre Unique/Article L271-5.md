@@ -1,8 +1,8 @@
 Article L271-5
 ----
-La durée de validité des documents prévus aux 1° à 4° et au 6° du I de l'article
-L. 271-4 est fixée par décret en fonction de la nature du constat, de l'état ou
-du diagnostic.
+La durée de validité des documents prévus aux 1° à 4°, 6° et 7° du I de
+l'article L. 271-4 est fixée par décret en fonction de la nature du constat, de
+l'état ou du diagnostic.
 
 Si l'un de ces documents produits lors de la signature de la promesse de vente
 n'est plus en cours de validité à la date de la signature de l'acte authentique

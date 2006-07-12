@@ -1,4 +1,6 @@
 Article L441-12
 ----
-Les dispositions de la présente section sont applicables de plein droit
-nonobstant toute convention contraire.
+La convention globale de patrimoine conclue en application de l'article L. 445-1
+peut déroger aux dispositions de la présente section, le cas échéant dans le
+respect du programme local de l'habitat lorsque celui-ci prévoit des
+dispositions relatives au supplément de loyer de solidarité.

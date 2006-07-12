@@ -10,6 +10,6 @@ programme peut comprendre des mesures de nature technique et des interventions �
 caractère social.
 
 La mise en oeuvre du programme d'intérêt général peut faire l'objet d'une
-convention entre l'Etat, l'Agence nationale pour l'amélioration de l'habitat et
-une ou plusieurs collectivités territoriales ou établissement public de
-coopération intercommunale compétent en matière d'habitat.
+convention entre l'Etat, l'Agence nationale de l'habitat et une ou plusieurs
+collectivités territoriales ou établissement public de coopération
+intercommunale compétent en matière d'habitat.

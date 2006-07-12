@@ -18,7 +18,11 @@ nécessaires à l'activité agricole ;
 - en zone C, des constructions individuelles non groupées situées dans des
 secteurs déjà urbanisés et desservis par des équipements publics dès lors
 qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil
-d'habitants exposés aux nuisances.
+d'habitants exposés aux nuisances et des opérations de reconstruction rendues
+nécessaires par une opération de démolition en zone A ou B dès lors qu'elles
+n'entraînent pas d'accroissement de la population exposée aux nuisances, que les
+normes d'isolation phonique fixées par l'autorité administrative sont respectées
+et que le coût d'isolation est à la charge exclusive du constructeur.
 
 2° La rénovation, la réhabilitation, l'amélioration, l'extension mesurée ou la
 reconstruction des constructions existantes peuvent être admises lorsqu'elles

@@ -9,8 +9,7 @@ diversité de la demande constatée localement ; elle doit favoriser l'égalité
 chances des demandeurs et la mixité sociale des villes et des quartiers.
 
 Les collectivités territoriales concourent, en fonction de leurs compétences, à
-la réalisation des objectifs mentionnés aux alinéas précédents, notamment dans
-le cadre de conférences et chartes intercommunales.
+la réalisation des objectifs mentionnés aux alinéas précédents.
 
 Les bailleurs sociaux attribuent les logements locatifs sociaux dans le cadre
 des dispositions de la présente section.

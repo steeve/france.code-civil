@@ -10,7 +10,10 @@ carence. Il lui précise les faits qui motivent l'engagement de la procédure et
 l'invite à présenter ses observations dans un délai au plus de deux mois.
 
 En tenant compte de l'importance de l'écart entre les objectifs et les
-réalisations constatées au cours de la période triennale échue, des difficultés
+réalisations constatées au cours de la période triennale échue, du respect de
+l'obligation, visée à l'avant-dernier alinéa de l'article L. 302-8, de mettre en
+chantier, pour chaque période triennale, au moins 30 % de logements locatifs
+sociaux rapportés au nombre total de logements commencés, des difficultés
 rencontrées le cas échéant par la commune et des projets de logements sociaux en
 cours de réalisation, le préfet peut, par un arrêté motivé pris après avis du
 comité régional de l'habitat, prononcer la carence de la commune. Par le même
@@ -21,7 +24,7 @@ des logements sociaux non réalisés et l'objectif total de logements fixé dans
 programme local de l'habitat ou déterminé par application du dernier alinéa de
 l'article L. 302-8. Le prélèvement majoré ne peut excéder 5 % du montant des
 dépenses réelles de fonctionnement de la commune figurant dans le compte
-administratif établi au titre de l'antépénultième exercice.
+administratif établi au titre du pénultième exercice.
 
 L'arrêté préfectoral peut faire l'objet d'un recours de pleine juridiction.
 

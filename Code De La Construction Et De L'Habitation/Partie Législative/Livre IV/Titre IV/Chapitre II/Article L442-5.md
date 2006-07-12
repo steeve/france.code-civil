@@ -9,7 +9,7 @@ renseignements statistiques nécessaires au représentant de l'Etat dans le
 département du lieu de situation des logements après avoir procédé à une enquête
 auprès de leurs locataires. Les locataires sont tenus de répondre dans le délai
 d'un mois. A défaut, le locataire défaillant est redevable à l'organisme
-d'habitations à loyer modéré d'une pénalité de 7,62 Euros, majorée de 7,62 Euros
+d'habitations à loyer modéré d'une pénalité de 7,62 euros, majorée de 7,62 euros
 par mois entier de retard, sauf s'il est établi que des difficultés
 particulières n'ont pas permis au locataire de répondre. Dans ce cas,
 l'organisme d'habitations à loyer modéré met en oeuvre les moyens adaptés pour
@@ -22,9 +22,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent
 article, notamment le contenu de l'enquête et la liste des renseignements
 statistiques.
 
-Les dispositions du présent article s'appliquent aux logements conventionnés
-appartenant aux organismes mentionnés à l'article L. 365-1 et, en application de
-l'article L. 351-2, à ceux qui sont détenus par les bailleurs mentionnés aux
-quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23
-décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
-propriété de logements sociaux et le développement de l'offre foncière.
+Le présent article s'applique également aux logements faisant l'objet d'une
+convention définie à l'article L. 351-2, détenus par les sociétés d'économie
+mixte, ainsi qu'à ceux compris dans un patrimoine conventionné en application du
+même article comprenant au moins cinq logements et appartenant aux autres
+bailleurs mentionnés aux quatrième et cinquième alinéas de l'article 41 ter de
+la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement
+locatif, l'accession à la propriété de logements sociaux et le développement de
+l'offre foncière.

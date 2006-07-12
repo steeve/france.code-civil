@@ -11,4 +11,4 @@ résidence secondaire ou dont le titre d'occupation est un accessoire du contrat
 de travail.
 
 Sont exclus du bénéfice des primes les travaux entrepris avec le concours de
-l'agence nationale pour l'amélioration de l'habitat.
+l'agence nationale de l'habitat.

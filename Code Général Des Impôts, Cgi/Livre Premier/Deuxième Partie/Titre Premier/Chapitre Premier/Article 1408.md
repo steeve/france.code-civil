@@ -1,7 +1,11 @@
 Article 1408
 ----
 I. La taxe est établie au nom des personnes qui ont, à quelque titre que ce
-soit, la disposition ou la jouissance des locaux imposables.
+soit, la disposition ou la jouissance des locaux imposables. Toutefois, pour
+l'imposition mentionnée à l'article 1407 bis, la taxe est établie au nom du
+propriétaire, de l'usufruitier, du preneur du bail à construction ou à
+réhabilitation ou de l'emphytéote qui dispose du local depuis le début de la
+période de vacance.
 
 Les fonctionnaires et les employés civils et militaires logés gratuitement dans
 les bâtiments appartenant à l'Etat, aux départements, aux communes ou aux
