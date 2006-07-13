@@ -12,6 +12,6 @@ animales.
 En application de ces critères, un arrêté interministériel détermine les
 coefficients d'équivalence applicables dans chaque département.
 
-Dans le bail à métayage ou colonat partiaire, le bailleur et le preneur sont
-considérés, pour l'application de l'alinéa précédent, comme mettant chacun en
-valeur la totalité de l'exploitation.
+Dans le bail à métayage, le bailleur et le preneur sont considérés, pour
+l'application de l'alinéa précédent, comme mettant chacun en valeur la totalité
+de l'exploitation.

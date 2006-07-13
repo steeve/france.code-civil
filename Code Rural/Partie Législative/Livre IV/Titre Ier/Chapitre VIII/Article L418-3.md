@@ -8,7 +8,7 @@ du présent chapitre. Sauf convention contraire, ses clauses et conditions sont
 celles du bail précédent. En cas de désaccord entre les parties, le tribunal
 paritaire des baux ruraux statue sur les conditions contestées du nouveau bail.
 
-Par dérogation au 1° de l'article L. 411-53 et sauf en cas de raisons sérieuses
+Par dérogation au 1° de l'article L. 411-31 et sauf en cas de raisons sérieuses
 et légitimes, constitue un motif de non-renouvellement ou de résiliation du bail
 un défaut de paiement du loyer et des charges aux termes convenus après une mise
 en demeure par acte extrajudiciaire restée infructueuse pendant trois mois.
@@ -18,7 +18,7 @@ civil, des délais de paiement durant lesquels l'action en résiliation est
 suspendue.
 
 Lorsque le bail n'est pas renouvelé à l'initiative du bailleur pour un motif
-autre que ceux prévus à l'article L. 411-53 du présent code ou à l'alinéa
+autre que ceux prévus à l'article L. 411-31 du présent code ou à l'alinéa
 précédent, le bailleur paie au preneur une indemnité correspondant au préjudice
 causé par le défaut de renouvellement qui comprend notamment, sauf si le
 bailleur apporte la preuve que le préjudice est moindre, la dépréciation du

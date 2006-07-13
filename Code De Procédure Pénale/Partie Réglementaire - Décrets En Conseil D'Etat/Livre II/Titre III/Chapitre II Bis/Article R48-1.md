@@ -63,12 +63,14 @@ b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de
 l'environnement relatifs aux parcs nationaux et les articles R332-69 à R332-72
 du même code relatifs aux réserves naturelles ;
 
-c) L'article R. 322-5 du code forestier relatif à la protection contre
-l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à
-l'introduction dans les bois, forêts et terrains à boiser de véhicules,
-bestiaux, animaux de charge ou de monture et l'article R. 133-1-1 du même code
-relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du
-domaine de l'Etat ;
+c) L'article R. 322-5 et le second alinéa de l'article R. 322-5-1 du code
+forestier relatif à la protection contre l'incendie, l'alinéa premier de
+l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts
+et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et
+l'article R. 133-5 du même code relatif à l'aménagement prescrit par l'article
+L. 133-1 des bois et forêts du domaine de l'Etat, les articles R. 137-4, R.
+138-20, R. 331-1 et 331-2 du code forestier relatifs aux prélèvements de
+produits de la forêt sans autorisation du propriétaire ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000
 relatif aux mesures de protection de l'environnement contre les émissions
