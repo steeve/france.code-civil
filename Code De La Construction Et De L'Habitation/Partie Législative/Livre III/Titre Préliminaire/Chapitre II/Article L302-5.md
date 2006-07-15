@@ -11,7 +11,7 @@ les communes comprises dans une agglomération dont le nombre d'habitants a déc
 entre les deux derniers recensements de la population et qui appartiennent à une
 communauté urbaine, une communauté d'agglomération ou une communauté de communes
 compétentes en matière de programme local de l'habitat, dès lors que celui-ci a
-été approuvé.
+été adopté.
 
 Les dispositions de la présente section ne sont pas applicables aux communes
 dont plus de la moitié du territoire urbanisé est soumis à une
@@ -43,13 +43,17 @@ immobilière du Nord - Pas-de-Calais ;
 personnes handicapées, de jeunes travailleurs, de travailleurs migrants et des
 logements-foyers dénommés résidences sociales, conventionnés dans les conditions
 définies au 5° de l'article L. 351-2 ainsi que les places des centres
-d'hébergement et de réinsertion sociale visées à l'article 185 du code de la
-famille et de l'aide sociale. Les lits des logements-foyers et les places des
-centres d'hébergement et de réinsertion sociale sont pris en compte dans des
+d'hébergement et de réinsertion sociale visées à l'article L. 345-1 du code de
+l'action sociale et des familles. Les lits des logements-foyers et les places
+des centres d'hébergement et de réinsertion sociale sont pris en compte dans des
 conditions fixées par décret. Dans les foyers d'hébergement et les foyers de vie
 destinés aux personnes handicapées mentales, les chambres occupées par ces
 personnes sont comptabilisées comme autant de logements locatifs sociaux dès
 lors qu'elles disposent d'un élément de vie indépendante défini par décret.
+
+Sont décomptés, pendant une période de cinq ans à l'expiration de la convention
+visée à l'article L. 351-2, les logements dont la convention est venue à
+échéance.
 
 Sont considérés comme logements locatifs sociaux au sens du troisième alinéa
 ceux financés par l'Etat ou les collectivités locales occupés à titre gratuit, à

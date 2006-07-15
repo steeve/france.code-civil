@@ -23,6 +23,5 @@ sociaux appartenant aux unions d'économie sociale et faisant l'objet d'une
 convention définie à l'article L. 351-2.
 
 Les fédérations nationales regroupant les organismes visés au présent article
-peuvent conclure avec l'Etat ou l'Agence nationale pour l'amélioration de
-l'habitat des conventions ayant pour objet la réalisation des objectifs définis
-à l'article L. 301-1.
+peuvent conclure avec l'Etat ou l'Agence nationale de l'habitat des conventions
+ayant pour objet la réalisation des objectifs définis à l'article L. 301-1.

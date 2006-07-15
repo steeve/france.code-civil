@@ -58,13 +58,13 @@ peut décider que, pour la durée de la convention, la commission locale
 d'amélioration de l'habitat sera composée de membres choisis et désignés par le
 président du conseil général ou le président de l'établissement public de
 coopération intercommunale. Outre son président, le délégué local de l'agence
-nationale pour l'amélioration de l'habitat et le trésorier-payeur général ou, à
-Paris, le receveur général des finances ou leur représentant, la commission ne
-peut compter plus de six membres, dont un représentant des locataires et au
-moins un représentant des propriétaires. Le mandat des membres de la commission
-ne peut excéder six ans. La composition de la commission est notifiée au préfet
-du département et au délégué local de l'agence. Il en est de même des
-changements ultérieurs intervenant dans la composition de la commission.
+nationale de l'habitat et le trésorier-payeur général ou, à Paris, le receveur
+général des finances ou leur représentant, la commission ne peut compter plus de
+six membres, dont un représentant des locataires et au moins un représentant des
+propriétaires. Le mandat des membres de la commission ne peut excéder six ans.
+La composition de la commission est notifiée au préfet du département et au
+délégué local de l'agence. Il en est de même des changements ultérieurs
+intervenant dans la composition de la commission.
 
 La commission locale d'amélioration de l'habitat émet un avis sur :
 

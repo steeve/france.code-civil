@@ -51,7 +51,7 @@ relatives à certaines opérations portant sur les immeubles et les fonds de
 commerce ;
 
 12° Délit prévu par les articles L. 241-1, L. 241-2, L. 241-5, L. 241-6, L.
-261-17 et L. 261-18 ;
+263-1 et L. 263-2 ;
 
 13° Délit prévu par l'article L. 311-13.
 

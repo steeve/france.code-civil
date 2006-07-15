@@ -59,4 +59,10 @@ publique ;
 f) Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement
 de l'article L. 302-9-1 du code de la construction et de l'habitation,
 l'aliénation d'un immeuble ou d'un terrain destiné à être affecté à une
-opération ayant fait l'objet de la convention prévue au même article.
+opération ayant fait l'objet de la convention prévue au même article ;
+
+g) L'aliénation par l'Etat ou ses établissements publics de terrains, bâtis ou
+non bâtis, en vue de la réalisation des logements situés dans les périmètres
+mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13
+juillet 2006 portant engagement national pour le logement, tant que les décrets
+prévus au même alinéa ne sont pas caducs.

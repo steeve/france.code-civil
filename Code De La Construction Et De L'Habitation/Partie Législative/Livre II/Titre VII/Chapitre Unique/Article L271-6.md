@@ -1,8 +1,8 @@
 Article L271-6
 ----
-Les documents prévus aux 1° à 4° et au 6° de l'article L. 271-4 sont établis par
-une personne présentant des garanties de compétence et disposant d'une
-organisation et de moyens appropriés.
+Les documents prévus aux 1° à 4°, 6° et 7° du I de l'article L. 271-4 sont
+établis par une personne présentant des garanties de compétence et disposant
+d'une organisation et de moyens appropriés.
 
 Cette personne est tenue de souscrire une assurance permettant de couvrir les
 conséquences d'un engagement de sa responsabilité en raison de ses

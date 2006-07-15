@@ -236,10 +236,13 @@ de Corse, versées antérieurement aux communes, mais hors compensation prévue 
 IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre
 1986). L'attribution de compensation est majorée d'une fraction de la
 contribution d'une commune définie à l'article L302-8 du code de la construction
-et de l'habitation. Cette fraction est égale à la part du potentiel fiscal de la
-taxe professionnelle dans le potentiel fiscal de la commune. Cette attribution
-est recalculée, dans les conditions prévues au IV, lors de chaque nouveau
-transfert de charges.
+et de l'habitation, à condition que l'établissement public de coopération
+intercommunale ait, dans les conditions prévues à l'article L. 302-7 du même
+code, perçu le prélèvement visé à cet article et que cette fraction soit
+affectée à la réalisation d'opérations de logements locatifs sociaux. Cette
+fraction est égale à la part du potentiel fiscal de la taxe professionnelle dans
+le potentiel fiscal de la commune. Cette attribution est recalculée, dans les
+conditions prévues au IV, lors de chaque nouveau transfert de charges.
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de
 coopération intercommunale faisant application du régime fiscal du présent
@@ -250,7 +253,10 @@ l'établissement public de coopération intercommunale auquel elle a cessé
 d'appartenir, au titre de la part de la dotation de compensation prévue à
 l'article L. 5211-28-1 du code général des collectivités territoriales
 correspondant au montant antérieurement versé en application du I du D de
-l'article 44 de la loi de finances pour 1999 précitée.
+l'article 44 de la loi de finances pour 1999 précitée. L'organe délibérant de
+l'établissement public de coopération intercommunale transmet chaque année au
+représentant de l'Etat dans le département un rapport sur l'application de la
+deuxième phrase du premier alinéa du présent 2°.
 
 2° bis Abrogé
 

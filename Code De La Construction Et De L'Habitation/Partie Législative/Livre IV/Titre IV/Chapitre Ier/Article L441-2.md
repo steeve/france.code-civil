@@ -12,7 +12,7 @@ sociaux.
 
 La commission exerce sa mission d'attribution des logements locatifs dans le
 respect des objectifs fixés à l'article L. 441 et des priorités définies aux
-premier et deuxième alinéas de l'article L. 441-1 en faveur des personnes
+premier à septième alinéas de l'article L. 441-1 en faveur des personnes
 défavorisées et de celles qui rencontrent des difficultés de logement.
 
 Elle comprend, selon des modalités définies par décret, un représentant désigné

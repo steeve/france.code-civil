@@ -14,12 +14,11 @@ loyer modéré ou gérés par eux ou appartenant aux bailleurs du secteur locati
 définis au quatrième alinéa de l'article 41 ter de la loi n° 86-1290 du 23
 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la
 propriété des logements sociaux et le développement de l'offre foncière, ou
-appartenant à d'autres bailleurs lorsque, dans ce dernier cas, les logements ont
-été construits, acquis ou améliorés avec le concours financier de l'Etat, à
-condition que les bailleurs s'engagent à respecter certaines obligations
-définies par décrets et précisées par des conventions régies par le chapitre III
-du présent titre ; celles-ci doivent être conformes à des conventions types
-annexées aux décrets ;
+appartenant à d'autres bailleurs, à condition que les bailleurs s'engagent à
+respecter certaines obligations définies par décrets et précisées par des
+conventions régies par le chapitre III du présent titre ou par la section 3 du
+chapitre Ier du titre II du présent livre ; celles-ci doivent être conformes à
+des conventions types annexées aux décrets ;
 
 3° Les logements à usage locatif construits, acquis ou améliorés à compter du 5
 janvier 1977 au moyen de formes spécifiques d'aides de l'Etat ou de prêts dont

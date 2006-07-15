@@ -10,10 +10,11 @@ est constitué, d'une part, du loyer des bâtiments d'habitation et, d'autre par
 du loyer des bâtiments d'exploitation et des terres nues.
 
 Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des
-minima qui sont arrêtés par l'autorité administrative. Ce loyer ainsi que les
-maxima et les minima sont actualisés, chaque année, selon la variation de
-l'indice national mesurant le coût de la construction publié par l'Institut
-national de la statistique et des études économiques.
+minima qui sont arrêtés par l'autorité administrative sur la base de références
+calculées d'après des modalités définies par décret en Conseil d'Etat. Ce loyer
+ainsi que les maxima et les minima sont actualisés, chaque année, selon la
+variation de l'indice national mesurant le coût de la construction publié par
+l'Institut national de la statistique et des études économiques.
 
 Le loyer des terres nues et des bâtiments d'exploitation est fixé en monnaie
 entre des maxima et des minima arrêtés par l'autorité administrative.

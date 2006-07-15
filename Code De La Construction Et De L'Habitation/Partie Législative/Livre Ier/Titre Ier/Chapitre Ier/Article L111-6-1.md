@@ -31,7 +31,18 @@ personnes qui mettent en vente, en location ou à la disposition d'autrui des
 locaux destinés à l'habitation et provenant d'une division réalisée en
 méconnaissance des interdictions définies au présent article.
 
-Les personnes morales peuvent être déclarées responsables pénalement des
-infractions définies ci-dessus dans les conditions prévues à l'article 121-2 du
-code pénal. Elles encourent la même peine d'amende définie ci-dessus et les
-peines mentionnées aux 2°, 4° et 9° de l'article 131-39 du même code.
+Les personnes physiques encourent également la peine complémentaire suivante :
+l'interdiction, pour une durée de cinq ans au plus, d'exercer une activité
+professionnelle ou sociale dès lors que les facilités que procure cette activité
+ont été sciemment utilisées pour préparer ou commettre l'infraction. Cette
+interdiction n'est toutefois pas applicable à l'exercice d'un mandat électif ou
+de responsabilités syndicales.
+
+Les peines encourues par les personnes morales sont :
+
+- l'amende, selon les modalités prévues par l'article 131-38 du code pénal ;
+
+- les peines complémentaires prévues aux 2°, 4°, 8° et 9° de l'article 131-39 du
+même code. Pour l'application du 8°, la confiscation porte sur le fonds de
+commerce ou sur l'immeuble destiné à l'hébergement des personnes et ayant servi
+à commettre l'infraction.

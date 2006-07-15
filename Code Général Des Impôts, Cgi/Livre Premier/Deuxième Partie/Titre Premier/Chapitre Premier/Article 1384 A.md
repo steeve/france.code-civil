@@ -22,8 +22,8 @@ R. 331-16 ou aux articles R. 372-9 à R. 372-12 du code de la construction et de
 l'habitation, la condition de financement s'apprécie en tenant compte des
 subventions versées par l'Etat, L'Agence nationale pour la rénovation urbaine,
 les collectivités territoriales et les établissements publics de coopération
-intercommunale ainsi que des prêts consentis au titre de la participation des
-employeurs à l'effort de construction.
+intercommunale ainsi que des subventions ou prêts consentis au titre de la
+participation des employeurs à l'effort de construction.
 
 Toutefois, la durée de l'exonération est ramenée à dix ans pour les logements en
 accession à la propriété pour la réalisation desquels aucune demande de prêt n'a
@@ -62,6 +62,10 @@ I ter. - Pour les constructions de logements mentionnées au deuxième alinéa d
 I, la durée de l'exonération est portée à vingt-cinq ans, lorsqu'elles
 bénéficient d'une décision d'octroi de subvention ou de prêt aidé prise entre le
 1er juillet 2004 et le 31 décembre 2009.
+
+La durée d'exonération mentionnée au I bis est portée à trente ans pour les
+constructions qui bénéficient d'une décision d'octroi de subvention ou de prêt
+aidé prise entre le 1er juillet 2004 et le 31 décembre 2009.
 
 II. Pour les logements en accession à la propriété situés dans un groupe
 d'immeubles ou un ensemble immobilier faisant l'objet des mesures de sauvegarde

@@ -24,3 +24,7 @@ précédent ou de pouvoir les identifier, la notification les concernant est
 valablement effectuée par affichage à la mairie de la commune ou, à Paris,
 Marseille et Lyon, de l'arrondissement où est situé l'immeuble ainsi que par
 affichage sur la façade de l'immeuble.
+
+En cas d'urgence ou de menace grave et imminente, le maire ordonne préalablement
+les mesures provisoires indispensables pour écarter ce danger, dans les
+conditions prévues à l'article L. 129-3.

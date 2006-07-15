@@ -5,7 +5,15 @@ le logement des personnes défavorisées ainsi que les centres communaux ou
 intercommunaux d'action sociale, qui ont conclu une convention avec l'Etat,
 bénéficient d'une aide pour loger, à titre transitoire, des personnes
 défavorisées ; lorsque celles-ci sont étrangères, elles doivent justifier de la
-régularité de leur séjour en France.
+régularité de leur séjour en France. Cette aide peut être attribuée, pour loger
+à titre temporaire des personnes défavorisées, aux sociétés de construction dans
+lesquelles l'Etat détient la majorité du capital, ainsi qu'aux groupements
+d'intérêt public ayant pour objet de contribuer au relogement des familles et
+des personnes visées au deuxième alinéa de l'article 4 de la loi n° 90-449 du 31
+mai 1990 visant à la mise en oeuvre du droit au logement. L'aide peut également
+être versée à l'établissement public visé à l'article L. 3414-1 du code de la
+défense pour l'hébergement des jeunes visés à ce même article, pendant la durée
+de leur formation.
 
 La convention fixe chaque année le montant de l'aide attribuée à l'organisme qui
 est déterminé de manière forfaitaire par référence, d'une part, au plafond de

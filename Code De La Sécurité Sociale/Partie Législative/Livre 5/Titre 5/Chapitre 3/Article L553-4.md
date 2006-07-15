@@ -75,8 +75,7 @@ de remboursement. Il porte cette déduction à la connaissance de l'allocataire.
 
 III. - Lorsque l'organisme payeur a versé une allocation indue et que le
 bailleur ou le prêteur justifie avoir procédé à la déduction prévue au dernier
-alinéa du II, le trop-perçu est recouvré, suivant le cas, auprès du locataire ou
-de l'emprunteur.
+alinéa du II, le trop-perçu est recouvré auprès de l'allocataire.
 
 Le blocage de comptes courants de dépôts ou d'avances ne peut avoir pour effet
 de faire obstacle à l'insaisissabilité et à l'incessibilité des prestations

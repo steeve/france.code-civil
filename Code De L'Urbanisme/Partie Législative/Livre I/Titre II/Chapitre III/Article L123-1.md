@@ -131,6 +131,10 @@ l'approvisionnement énergétique des constructions neuves, en fonction des
 caractéristiques de ces constructions, sous réserve de la protection des sites
 et des paysages.
 
+Le rapport de présentation peut comporter un échéancier prévisionnel de
+l'ouverture à l'urbanisation des zones à urbaniser et de la réalisation des
+équipements correspondants.
+
 Les documents graphiques du plan local d'urbanisme peuvent contenir des
 indications relatives au relief des espaces auxquels il s'applique.
 

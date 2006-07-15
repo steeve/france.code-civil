@@ -50,7 +50,7 @@ faisant l'objet d'une opération programmée d'amélioration de l'habitat visée
 l'article L. 303-1 ainsi que, pour une période maximale de dix ans à compter de
 la première cession, la gestion des copropriétés issues de la cession des
 logements locatifs mentionnés au neuvième alinéa tant que l'organisme vendeur y
-demeure propriétaire de plus de la moitié des lots de la copropriété.
+demeure propriétaire de logements ;
 
 - les services accessoires aux opérations susmentionnées.
 

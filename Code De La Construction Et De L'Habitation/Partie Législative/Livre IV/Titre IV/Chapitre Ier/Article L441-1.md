@@ -6,28 +6,40 @@ améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide
 personnalisée au logement et appartenant aux organismes d'habitations à loyer
 modéré ou gérés par ceux-ci sont attribués par ces organismes. Pour
 l'attribution des logements, ce décret prévoit qu'il est tenu compte notamment
-de la composition, du niveau de ressources et des conditions de logement
-actuelles du ménage, de l'éloignement des lieux de travail et de la proximité
-des équipements répondant aux besoins des demandeurs. Il est également tenu
-compte, pour l'attribution d'un logement, de l'activité professionnelle des
+du patrimoine, de la composition, du niveau de ressources et des conditions de
+logement actuelles du ménage, de l'éloignement des lieux de travail et de la
+proximité des équipements répondant aux besoins des demandeurs. Il est également
+tenu compte, pour l'attribution d'un logement, de l'activité professionnelle des
 membres du ménage lorsqu'il s'agit d'assistants maternels ou d'assistants
-familiaux agréés. Il fixe des critères généraux de priorité pour l'attribution
-des logements, notamment au profit de personnes en situation de handicap ou de
-familles ayant à leur charge une personne en situation de handicap, de personnes
-mal logées, défavorisées ou rencontrant des difficultés particulières de
-logement pour des raisons d'ordre financier ou tenant à leurs conditions
-d'existence ainsi que de personnes hébergées ou logées temporairement dans des
-établissements et logements de transition. Il fixe également les conditions dans
-lesquelles le maire de la commune d'implantation des logements est consulté sur
-les principes régissant ces attributions et sur le résultat de leur application.
+familiaux agréés.
 
-Le décret mentionné à l'alinéa précédent fixe également les limites et
-conditions dans lesquelles les organismes d'habitations à loyer modéré peuvent,
-en contrepartie d'un apport de terrain, d'un financement ou d'une garantie
-financière, contracter des obligations de réservation pour les logements
-mentionnés à l'alinéa précédent, lors d'une mise en location initiale ou
-ultérieure. Lorsque ces conventions de réservation ne respectent pas les limites
-prévues au présent alinéa, elles sont nulles de plein droit.
+Ce décret fixe des critères généraux de priorité pour l'attribution des
+logements, notamment au profit :
+
+a) De personnes en situation de handicap ou de familles ayant à leur charge une
+personne en situation de handicap ;
+
+b) De personnes mal logées, défavorisées ou rencontrant des difficultés
+particulières de logement pour des raisons d'ordre financier ou tenant à leurs
+conditions d'existence ;
+
+c) De personnes hébergées ou logées temporairement dans un établissement ou un
+logement de transition ;
+
+d) De personnes mal logées reprenant une activité après une période de chômage
+de longue durée.
+
+Ce décret fixe les conditions dans lesquelles le maire de la commune
+d'implantation des logements est consulté sur les principes régissant ces
+attributions et sur le résultat de leur application.
+
+Ce décret détermine également les limites et conditions dans lesquelles les
+organismes d'habitations à loyer modéré peuvent, en contrepartie d'un apport de
+terrain, d'un financement ou d'une garantie financière, contracter des
+obligations de réservation pour les logements mentionnés à l'alinéa précédent,
+lors d'une mise en location initiale ou ultérieure. Lorsque ces conventions de
+réservation ne respectent pas les limites prévues au présent alinéa, elles sont
+nulles de plein droit.
 
 Il fixe les conditions dans lesquelles ces conventions de réservation sont
 conclues, en contrepartie d'un apport de terrain, d'un financement ou d'une

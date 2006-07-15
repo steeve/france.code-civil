@@ -9,8 +9,8 @@ des dépôts et consignations ;
 b) Des rémunérations perçues en contrepartie des garanties accordées au titre du
 fonds de garantie mentionné à l'article L. 452-1 ;
 
-c) Des cotisations et majorations versées en application des articles L. 452-4
-et L. 452-5 ;
+c) Des cotisations et majorations versées en application des articles L. 452-4,
+L. 452-4-1 et L. 452-5 ;
 
 d) Des dons et legs ;
 

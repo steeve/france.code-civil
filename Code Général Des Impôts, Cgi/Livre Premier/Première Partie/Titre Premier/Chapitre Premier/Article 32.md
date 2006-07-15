@@ -45,7 +45,7 @@ titre de l'amortissement prévue à l'article 31 bis et dont les résultats sont
 imposés dans les conditions prévues à l'article 8.
 
 f) Logements au titre desquels est demandé le bénéfice de la déduction prévue au
-i du 1° du I de l'article 31.
+i, au m ou au n du 1° du I de l'article 31.
 
 g) Parts de fonds de placement immobilier mentionnés à l'article 239 nonies
 lorsque leur détenteur n'est pas propriétaire d'un immeuble donné en location

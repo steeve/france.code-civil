@@ -15,6 +15,22 @@ compris l'indemnité de réemploi, est fixé et payé comme en matière
 d'expropriation, sans qu'il soit tenu compte des dispositions qui ont justifié
 le droit de délaissement.
 
+Lorsque la demande d'acquisition est motivée par les obligations relatives aux
+conditions de réalisation de programmes de logements imposées en application du
+d de l'article L. 123-2, le juge de l'expropriation ne peut être saisi que par
+la commune ou l'établissement public de coopération intercommunale qui a fait
+l'objet de la mise en demeure. Ce juge fixe le prix de l'immeuble qui est alors
+exclusif de toute indemnité accessoire, notamment de l'indemnité de réemploi. La
+commune ou l'établissement public dispose d'un délai de deux mois à compter de
+la décision juridictionnelle devenue définitive pour notifier sa décision au
+propriétaire et, si elle décide d'acquérir le bien, en règle le prix dans un
+délai de six mois à compter de cette décision.
+
+La procédure prévue au quatrième alinéa peut être menée, à la demande de la
+commune ou de l'établissement public qui a fait l'objet de la mise en demeure,
+par un établissement public y ayant vocation ou un concessionnaire d'une
+opération d'aménagement.
+
 La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour
 cause d'utilité publique est celle à laquelle est devenu opposable aux tiers le
 plus récent des actes rendant public le plan local d'urbanisme ou l'approuvant,

@@ -1,12 +1,16 @@
 Article L135 B
 ----
-Les services de l'Etat, les collectivités locales et les établissements publics
-à caractère administratif peuvent se faire communiquer par l'administration
-fiscale les éléments d'information que celle-ci détient au sujet des valeurs
-foncières déclarées à l'occasion des mutations intervenues dans les cinq
-dernières années et qui sont nécessaires à l'exercice de leurs compétences en
-matière de politique foncière et d'aménagement. Cette administration ne peut,
-dans ce cas, se prévaloir de la règle du secret.
+L'administration fiscale transmet gratuitement, à leur demande, aux
+propriétaires faisant l'objet d'une procédure d'expropriation, aux services de
+l'Etat, aux collectivités territoriales, aux établissements publics de
+coopération intercommunale dotés d'une ficalité propre, aux établissements
+publics administratifs et aux établissements publics visés aux articles L.
+321-1, L. 324-1 et L. 326-1 du code de l'urbanisme les éléments d'information
+qu'elle détient au sujet des valeurs foncières déclarées à l'occasion des
+mutations intervenues dans les cinq dernières années et qui sont nécessaires à
+l'exercice de leurs compétences en matière de politique foncière et
+d'aménagement. Cette administration ne peut, dans ce cas, se prévaloir de la
+règle du secret.
 
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
@@ -22,13 +26,15 @@ b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvement
 dont les contribuables de la collectivité ont bénéficié, à l'exception de ceux
 accordés en application de l'article L. 190.
 
-Elle est également tenue de leur transmettre, à leur demande, la liste des
-logements vacants recensés l'année précédente pour l'établissement de la taxe
-d'habitation. Cette liste indique, pour chaque logement, son adresse, sa nature,
-sa valeur locative, la première année de vacance du local, le nom et l'adresse
-de son propriétaire et, le cas échéant, l'année à partir de laquelle le local a
-été soumis à la taxe sur les locaux vacants et le taux d'imposition à cette
-taxe.
+Elle transmet également, gratuitement, à leur demande, aux services de l'Etat,
+aux collectivités territoriales, aux établissements publics de coopération
+intercommunale dotés d'une fiscalité propre et à l'Agence nationale de
+l'habitat, la liste des logements vacants recensés l'année précédente pour
+l'établissement de la taxe d'habitation. Cette liste indique, pour chaque
+logement, son adresse, sa nature, sa valeur locative, la première année de
+vacance du local, le nom et l'adresse de son propriétaire et, le cas échéant,
+l'année à partir de laquelle le local a été soumis à la taxe sur les locaux
+vacants et le taux d'imposition à cette taxe.
 
 Les collectivités locales, les établissements publics de coopération
 intercommunale dotés d'une fiscalité propre et l'administration fiscale peuvent

@@ -1,12 +1,15 @@
 Article L226-9
 ----
-Les établissements traitant, en vue de la destruction des agents pathogènes
-qu'ils sont susceptibles de contenir, des produits visés selon les cas aux
-articles L. 226-1 ou L. 226-8 doivent satisfaire à des conditions sanitaires et
-avoir été agréés ou enregistrés par le préfet.
+Les propriétaires ou détenteurs de certaines catégories de cadavres d'animaux
+dont la destruction relève du service public de l'équarrissage supportent une
+partie du montant de cette destruction.
 
-Le ministre chargé de l'agriculture et le ministre chargé de la consommation
-fixent par arrêté les conditions sanitaires que doivent remplir les
-établissements et les modalités selon lesquelles leur respect est contrôlé et
-attesté, ainsi que les modalités d'attribution et de retrait de l'enregistrement
-ou de l'agrément.
+Les catégories d'animaux concernées ainsi que le montant et les modalités de
+détermination et de facturation de cette participation sont précisés par arrêté
+conjoint des ministres chargés de l'agriculture, de l'économie et des finances
+et du budget.
+
+Cette participation constitue une créance de droit privé. Elle est recouvrée et
+encaissée pour son propre compte par l'entreprise désignée par l'Etat ou, le cas
+échéant, désignée par l'office mentionné à l'article L. 226-1, pour procéder à
+l'enlèvement de ces cadavres.

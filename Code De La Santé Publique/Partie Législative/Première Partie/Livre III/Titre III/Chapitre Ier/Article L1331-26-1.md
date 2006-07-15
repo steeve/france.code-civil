@@ -16,6 +16,6 @@ demeure.
 Si les mesures prescrites n'ont pas été exécutées dans le délai imparti, le
 préfet procède à leur exécution d'office.
 
-Si le propriétaire ou l'exploitant, en sus des travaux lui ayant été prescrits
+Si le propriétaire ou l'exploitant, en sus des mesures lui ayant été prescrites
 pour mettre fin au danger imminent, a réalisé des travaux permettant de mettre
 fin à toute insalubrité, le préfet en prend acte.

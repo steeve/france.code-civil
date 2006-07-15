@@ -10,13 +10,16 @@ départemental est communiqué par une personne morale autre qu'un bailleur,
 l'attestation délivrée au demandeur indique le ou les organismes bailleurs
 auxquels est transmis le dossier de demande de logement. Les modalités de
 transmission des dossiers de demande font l'objet d'une convention entre cette
-personne morale et les bailleurs concernés.
+personne morale et les bailleurs concernés. Sont également communiqués au
+demandeur les délais mentionnés à l'article L. 441-1-4 à partir desquels il peut
+saisir la commission de médiation prévue à l'article L. 441-2-3, ainsi que les
+modalités de cette saisine.
 
 Ce système d'enregistrement, géré conjointement par l'Etat et les bailleurs
 sociaux disposant de logements locatifs sociaux dans le département, a pour
 objet de garantir les droits du demandeur et d'assurer l'examen prioritaire des
-demandes qui n'ont pu être satisfaites dans les délais prévus au quatrième
-alinéa de l'article L. 441-1-2.
+demandes qui n'ont pu être satisfaites dans les délais prévus à l'article L.
+441-1-4.
 
 La durée de validité des demandes d'attribution de logements sociaux est limitée
 dans des conditions définies par décret. Aucune radiation ne peut intervenir si

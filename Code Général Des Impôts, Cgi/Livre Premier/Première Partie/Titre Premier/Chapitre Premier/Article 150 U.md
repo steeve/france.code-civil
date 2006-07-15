@@ -58,6 +58,12 @@ modéré, à une société d'économie mixte gérant des logements sociaux ou à
 organisme mentionné à l'article L. 365-1 du code de la construction et de
 l'habitation.
 
+8° Qui sont cédés avant le 31 décembre 2007 à une collectivité territoriale en
+vue de leur cession à l'un des organismes mentionnés au 7° ; en cas de non
+respect de cette condition dans un délai d'un an à compter de l'acquisition des
+biens, la collectivité territoriale reverse à l'Etat le montant dû au titre du
+I.
+
 III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par
 les titulaires de pensions de vieillesse ou de la carte d'invalidité
 correspondant au classement dans la deuxième ou la troisième des catégories

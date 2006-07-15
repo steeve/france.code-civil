@@ -5,9 +5,7 @@ le 31 décembre de chaque année, des orientations générales de la programmati
 des aides de l'Etat au logement pour l'année suivante.
 
 Ces orientations générales portent sur la répartition des aides par dispositif,
-d'une part, et la répartition des aides par bassin d'habitat au sens de
-l'article L. 441-1-4 du code de la construction et de l'habitation, d'autre
-part.
+d'une part, et la répartition des aides par bassin d'habitat, d'autre part.
 
 Le conseil régional peut être saisi pour avis sur ces orientations par le
 représentant de l'Etat dans le département. Dans le cas où il est saisi, le

@@ -27,8 +27,8 @@ des occupants.
 IV. - Lorsqu'une personne publique, un organisme d'habitations à loyer modéré,
 une société d'économie mixte ou un organisme à but non lucratif a assuré le
 relogement, le propriétaire ou l'exploitant lui verse une indemnité
-représentative des frais engagés pour le relogement, dans la limite d'une somme
-égale à un an du loyer prévisionnel.
+représentative des frais engagés pour le relogement, égale à un an du loyer
+prévisionnel.
 
 V. - Si la commune assure, de façon occasionnelle ou en application d'une
 convention passée avec l'Etat, les obligations d'hébergement ou de relogement

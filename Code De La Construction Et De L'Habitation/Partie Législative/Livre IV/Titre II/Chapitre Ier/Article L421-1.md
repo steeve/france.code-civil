@@ -62,12 +62,20 @@ location-accession ;
 représentant de l'Etat dans le département des hôtels, meublés ou non, destinés
 à l'hébergement temporaire de personnes en difficulté ;
 
+- de construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à
+des personnes physiques ou morales des résidences hôtelières à vocation sociale
+prévues à l'article L. 631-11 ;
+
 - de souscrire ou acquérir des parts de sociétés civiles immobilières ayant pour
 objet la réalisation d'immeubles d'habitation ou à usage professionnel et
 d'habitation destinés à des accédants dont les ressources n'excèdent pas des
 plafonds fixés par l'autorité administrative, d'être syndic de copropriétés
 d'immeubles ainsi réalisés et d'exercer les fonctions d'administrateur de biens
-pour les mêmes immeubles.
+pour les mêmes immeubles ;
+
+- de vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2
+et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de
+vente d'immeuble à construire prévu aux articles L. 261-1 et suivants. ;
 
 Un décret en Conseil d'Etat précise leurs attributions et détermine les
 modalités de leur fonctionnement.
@@ -81,6 +89,13 @@ publics, réaliser et assurer l'entretien des constructions liées à l'habitat 
 - réaliser pour le compte d'autres organismes d'habitations à loyer modéré des
 prestations de services pour des missions rentrant dans l'objet social et la
 compétence territoriale desdits organismes et des organismes prestataires ;
+
+- être syndic de copropriété ou administrateur de biens d'immeubles bâtis,
+construits ou acquis soit par eux, soit par un autre organisme d'habitations à
+loyer modéré, une collectivité territoriale, une société d'économie mixte ou un
+organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi
+de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les
+parts sont détenues à au moins 99 % par cette association ;
 
 - réaliser, dans des conditions précisées par décret, pour le compte
 d'associations ou d'organismes agréés dans le domaine du logement social, des
@@ -100,7 +115,17 @@ et les louer provisoirement.
 - réaliser des hébergements de loisirs à vocation sociale, en assurant, le cas
 échéant, l'ensemble des tâches incombant au maître d'ouvrage. Un décret en
 Conseil d'Etat définit les conditions de financement de ces hébergements et la
-nature des organismes pour le compte desquels ils sont réalisés.
+nature des organismes pour le compte desquels ils sont réalisés ;
+
+- réaliser des opérations de conception, réalisation, entretien ou maintenance
+d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement
+public de santé ;
+
+- réaliser des travaux, acquérir, construire et gérer des immeubles à usage
+d'habitation au bénéfice des fonctionnaires de la police et de la gendarmerie
+nationales, des services départementaux d'incendie et de secours ou des services
+pénitentiaires, ainsi que les locaux accessoires à ces immeubles et les locaux
+nécessaires au fonctionnement des gendarmeries.
 
 Ils peuvent aussi prendre à bail des logements vacants pour les donner en
 sous-location à des personnes physiques dans les conditions fixées par les
@@ -112,12 +137,16 @@ aux articles L. 261-1 à L. 261-22, à l'association agréée mentionnée à l'a
 immobilières dont les parts sont détenues à au moins 99 % par cette association,
 des immeubles à usage principal d'habitation destinés à la location.
 
-- réaliser des opérations de conception, réalisation, entretien ou maintenance
-d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement
-public de santé.
+Ils peuvent aussi réaliser en vue de leur vente, dans les conditions prévues à
+l'article L. 261-3, pour le compte de personnes publiques ou privées, des
+immeubles à usage principal d'habitation dont ils peuvent provisoirement détenir
+l'usufruit selon les modalités définies aux articles L. 253-1 à L. 253-5.
 
 Ils peuvent aussi réaliser des prestations de service pour le compte de
 l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002
 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au
 moins 99 % par cette association, dans des conditions fixées par décret en
 Conseil d'Etat.
+
+Ils peuvent aussi assurer la gérance des sociétés civiles immobilières régies
+par les articles L. 443-6-2 et suivants.
