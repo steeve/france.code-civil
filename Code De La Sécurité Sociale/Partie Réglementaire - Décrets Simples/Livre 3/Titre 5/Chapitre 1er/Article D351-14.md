@@ -18,11 +18,12 @@ Sauf dans le cas prévu au 4° du présent article, l'intéressé est informé p
 caisse de l'interruption du versement.
 
 Lors de l'interruption du versement, est pris en compte un nombre de trimestres
-égal au quotient entier du montant des sommes versées par la valeur d'un
-trimestre. La fraction du montant versé excédant le produit du nombre de
-trimestres pris en compte par la valeur du trimestre est remboursée à l'assuré
-dans le délai d'un mois suivant celui au cours duquel il a été informé de
-l'interruption du versement ou, en cas de décès, versé à l'actif successoral.
+égal au quotient entier du montant des sommes versées par la valeur du trimestre
+atteinte à la date de l'interruption après application des dispositions de
+l'article D. 351-12. La fraction du montant versé excédant le produit du nombre
+de trimestres pris en compte par cette valeur du trimestre est remboursée à
+l'assuré dans le délai d'un mois suivant celui au cours duquel il a été informé
+de l'interruption du versement ou, en cas de décès, versé à l'actif successoral.
 
 Il ne peut être présenté de nouvelle demande avant l'expiration d'un délai de
 douze mois suivant la date de la notification de l'interruption du versement.
