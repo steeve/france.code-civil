@@ -1,57 +1,60 @@
 Article L511-2
 ----
-Dans les cas prévus au premier alinéa de l'article L. 511-1, le propriétaire est
-mis en demeure d'effectuer dans un délai déterminé les travaux de réparation ou
-de démolition de l'immeuble menaçant ruine et, si le propriétaire conteste le
-péril, de faire commettre un expert chargé de procéder, contradictoirement et au
-jour fixé par l'arrêté, à la constatation de l'état du bâtiment et de dresser
-rapport.
+I. - Le maire, à l'issue d'une procédure contradictoire dont les modalités sont
+définies par décret en Conseil d'Etat, met le propriétaire de l'immeuble
+menaçant ruine, et le cas échéant les personnes mentionnées au premier alinéa de
+l'article L. 511-1-1, en demeure de faire dans un délai déterminé, selon le cas,
+les réparations nécessaires pour mettre fin durablement au péril ou les travaux
+de démolition, ainsi que, s'il y a lieu, de prendre les mesures indispensables
+pour préserver les bâtiments mitoyens.
 
-Si, au jour indiqué, le propriétaire n'a point fait cesser le péril et s'il n'a
-pas cru devoir désigner un expert, il sera passé outre et procédé à la visite
-par l'expert seul nommé par l'administration.
+Si l'état du bâtiment, ou d'une de ses parties, ne permet pas de garantir la
+sécurité des occupants, le maire peut assortir l'arrêté de péril d'une
+interdiction d'habiter et d'utiliser les lieux qui peut être temporaire ou
+définitive. Les dispositions des articles L. 521-1 à L. 521-4 sont alors
+applicables.
 
-Le tribunal administratif, après avoir entendu les parties dûment convoquées
-conformément à la loi, statue sur le litige de l'expertise, fixe, s'il y a lieu,
-le délai pour l'exécution des travaux ou pour la démolition. Il peut autoriser
-le maire à y faire procéder d'office et aux frais du propriétaire si cette
-exécution n'a pas eu lieu à l'époque prescrite.
+Cet arrêté précise la date d'effet de l'interdiction, qui ne peut être fixée
+au-delà d'un an si l'interdiction est définitive, ainsi que la date à laquelle
+le propriétaire ou l'exploitant des locaux d'hébergement doit avoir informé le
+maire de l'offre d'hébergement ou de relogement qu'il a faite aux occupants en
+application de l'article L. 521-3-1.
 
-En outre, lorsque le tribunal administratif a constaté l'insécurité de
-l'immeuble, le maire peut prendre un arrêté portant interdiction d'habiter et
-d'utiliser les lieux. Cet arrêté précise si cette interdiction est applicable
-immédiatement ou à l'expiration d'un délai qu'il fixe et qui ne peut excéder six
-mois ; il est notifié aux personnes visées au premier alinéa de l'article L.
-511-1-1 selon les modalités fixées par cet article. Il reproduit les
-dispositions des articles L. 521-1 à L. 521-3. A la demande du maire, il est
-publié à la conservation des hypothèques dont dépend l'immeuble pour chacun des
-locaux aux frais du propriétaire.
+II. - La personne tenue d'exécuter les mesures prescrites par l'arrêté de péril
+peut se libérer de son obligation par la conclusion d'un bail à réhabilitation.
+Elle peut également conclure un bail emphytéotique ou un contrat de vente
+moyennant paiement d'une rente viagère, à charge pour les preneurs ou
+débirentiers d'exécuter les travaux prescrits et d'assurer, le cas échéant,
+l'hébergement des occupants. Les parties peuvent convenir que l'occupant restera
+dans les lieux lorsqu'il les occupait à la date de l'arrêté de péril.
 
-L'arrêté prescrivant la réparation ou la démolition du bâtiment menaçant ruine
-et l'arrêté portant interdiction d'habiter et d'utiliser les lieux sont transmis
-au procureur de la République, aux organismes payeurs des allocations de
-logement et de l'aide personnalisée au logement du lieu de situation de
-l'immeuble ainsi qu'au gestionnaire du fonds de solidarité pour le logement du
-département.
+III. - Sur le rapport d'un homme de l'art, le maire constate la réalisation des
+travaux prescrits ainsi que leur date d'achèvement et prononce la mainlevée de
+l'arrêté de péril et, le cas échéant, de l'interdiction d'habiter et d'utiliser
+les lieux.
 
-Sur le rapport d'un homme de l'art constatant la réalisation des travaux
-prescrits, le maire, par arrêté, prend acte de la réalisation des travaux, de
-leur date d'achèvement et prononce la mainlevée de l'arrêté prescrivant la
-réparation ou la démolition de l'immeuble menaçant ruine et, le cas échéant,
-celle de l'interdiction d'habiter et d'utiliser les lieux. Cet arrêté est
-notifié aux personnes visées au premier alinéa de l'article L. 511-1-1 selon les
-modalités fixées par cet article. Il reproduit les dispositions des articles L.
-521-1 à L. 521-3. A la demande du propriétaire et aux frais de celui-ci, il est
-publié à la conservation des hypothèques dont dépend l'immeuble pour chacun des
-locaux.
+L'arrêté du maire est publié à la conservation des hypothèques ou au livre
+foncier dont dépend l'immeuble pour chacun des locaux, à la diligence du
+propriétaire et à ses frais.
 
-La personne tenue d'exécuter les travaux prescrits peut se libérer de cette
-obligation en les réalisant dans le cadre d'un bail à réhabilitation prévu aux
-articles L. 252-1 et suivants.
+IV. - Lorsque l'arrêté de péril n'a pas été exécuté dans le délai fixé, le maire
+met en demeure le propriétaire d'y procéder dans un délai qu'il fixe et qui ne
+peut être inférieur à un mois.
 
-Elle peut aussi conclure sur le bien concerné un bail emphytéotique ou un
-contrat de vente moyennant paiement d'une rente viagère, à charge pour les
-preneur ou débirentier d'exécuter les travaux prescrits. Dans tous les cas, il
-peut être convenu que cette personne restera dans les lieux lorsqu'elle les
-occupait à la date de l'arrêté prescrivant la réparation ou la démolition de
-l'immeuble menaçant ruine.
+A défaut de réalisation des travaux dans le délai imparti, le maire, par
+décision motivée, fait procéder d'office à leur exécution. Il peut également
+faire procéder à la démolition prescrite, sur ordonnance du juge statuant en la
+forme des référés, rendue à sa demande.
+
+Si l'inexécution de travaux prescrits portant sur les parties communes d'un
+immeuble en copropriété résulte de la défaillance de certains copropriétaires la
+commune peut se substituer à ceux-ci pour les sommes exigibles à la date votée
+par l'assemblée générale des copropriétaires ; elle est alors subrogée dans les
+droits et actions du syndicat à concurrence des sommes par elle versées.
+
+Lorsque la commune se substitue au propriétaire défaillant et fait usage des
+pouvoirs d'exécution d'office qui lui sont reconnus, elle agit en lieu et place
+des propriétaires, pour leur compte et à leurs frais.
+
+Les dispositions du quatrième alinéa de l'article L. 1334-4 du code de la santé
+publique sont applicables.

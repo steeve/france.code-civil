@@ -31,8 +31,9 @@ chimiques ;
 aux installations classées pour la protection de l'environnement, soit de la
 réglementation concernant les installations nucléaires de base ;
 
-7° Réservoirs de stockage d'eau autres que les réservoirs enterrés ou
-semi-enterrés ;
+7° Réservoirs de stockage d'eau "sur tour" d'une capacité égale ou supérieure à
+1 000 m3 et autres réservoirs de stockage d'eau d'une superficie égale ou
+supérieure à 10 ha ;
 
 8° Aménagement de terrains de camping ou de stationnement de caravanes
 comportant 200 emplacements ou plus ;
@@ -75,9 +76,7 @@ publique ;
 15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la
 hauteur du mât dépasse 50 mètres ;
 
-16° Piscicultures soumises à autorisation ou concession en vertu de l'article L.
-431-6 du présent code et définies au premier alinéa de l'article R. 431-16 de ce
-code ;
+16° Supprimé ;
 
 17° Les laboratoires souterrains destinés à étudier l'aptitude des formations
 géologiques profondes au stockage des déchets radioactifs ;
