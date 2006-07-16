@@ -8,5 +8,5 @@ arrêté constatant le changement de titulaire de l'autorisation ou de la
 concession ;
 
 2° Soit, si la validité des droits, de la concession ou de l'autorisation n'a pu
-être établie, invite le déclarant à déposer une demande d'autorisation ou de
-concession dans les formes prévues aux dispositions de la présente section.
+être établie, invite le déclarant à déposer, selon le cas, une déclaration ou
+une demande d'autorisation.
