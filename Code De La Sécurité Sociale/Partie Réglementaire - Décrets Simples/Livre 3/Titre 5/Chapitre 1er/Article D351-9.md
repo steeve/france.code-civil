@@ -6,11 +6,13 @@ déterminée sur la base des paramètres et en application des formules suivante
 1° La valeur annuelle du plafond de la sécurité sociale prise en compte pour
 chacune des années postérieures à l'année au cours de laquelle l'assuré est
 informé de l'acceptation de sa demande est obtenue par l'application d'une
-majoration de 1,6 % au montant de l'année précédente et la valeur annuelle ou,
-le cas échéant, la valeur annuelle moyenne des plafonds applicables pour chacune
-des années antérieures à cette même année est revalorisée par application des
-coefficients applicables aux salaires pris en compte pour le calcul de la
-pension intervenus jusqu'à cette même année ;
+majoration de 1,6 % pour les demandes de versement reçues avant 2007, 1,7 % pour
+les demandes de versement reçues en 2007 et 1,8 % pour les demandes de versement
+reçues à partir de 2008 au montant de l'année précédente et la valeur annuelle
+ou, le cas échéant, la valeur annuelle moyenne des plafonds applicables pour
+chacune des années antérieures à cette même année est revalorisée par
+application des coefficients applicables aux salaires pris en compte pour le
+calcul de la pension intervenus jusqu'à cette même année ;
 
 2° Le coefficient forfaitaire mentionné au premier alinéa de l'article D. 351-8,
 représentatif du rapport entre le montant des avantages de réversion et celui
@@ -74,9 +76,8 @@ k est un coefficient dont la valeur varie de 0 à 57 ;
 
 A est l'âge de référence fixé à 60 ans ;
 
-B est l'âge atteint par l'assuré au cours de l'année au cours de laquelle
-intervient le paiement du versement ou, en cas d'échelonnement, le premier
-paiement ;
+B est l'âge atteint par l'assuré à la date à laquelle il est informé de
+l'acceptation de sa demande ;
 
 L (A + k) est l'effectif à l'âge (A + k) de la génération à laquelle appartient
 l'assuré, indiqué par les tables mentionnées au 3° ci-dessus ;

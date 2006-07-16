@@ -89,12 +89,12 @@ a) 4 % pour les assurés âgés de moins de vingt-quatre ans ;
 b) Le taux prévu à l'alinéa précédent diminué de 0,05 point par année d'âge à
 partir de l'âge de vingt-quatre ans ;
 
-c) 2,2 % pour les assurés âgés de cinquante-neuf ans.
+c) 2,15 % pour les assurés âgés de soixante ans.
 
 Les modalités d'actualisation des sommes mentionnées au présent article sont
 fixées à l'article D. 351-9. Un arrêté des ministres chargés de la sécurité
 sociale et du budget précise, pour chaque année, le barème des versements
-applicables aux assurés atteignant un âge compris entre vingt ans et
-cinquante-neuf ans au cours de cette année. A défaut de publication de cet
-arrêté avant le 1er décembre d'une année, les taux, le barème et le seuil de
-l'année précédente sont applicables pour cette année.
+applicables aux assurés atteignant un âge compris entre vingt ans et soixante
+ans au cours de cette année. A défaut de publication de cet arrêté avant le 1er
+janvier d'une année, demeure applicable pour cette année le barème de l'année
+précédente.

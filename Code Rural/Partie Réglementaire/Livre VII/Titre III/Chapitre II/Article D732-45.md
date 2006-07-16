@@ -41,4 +41,11 @@ actualisés correspondant pour chaque assuré à une carrière de quarante et un
 Pour l'application du 2° du présent article, les modalités prévues au 4° du I de
 l'article D. 351-8 du code de la sécurité sociale sont applicables.
 
+Le versement ne peut être pris en compte ni pour la détermination des durées
+d'assurance ou de périodes reconnues équivalentes, ni pour celle de la durée
+d'assurance ayant donné lieu à cotisations à la charge de l'assuré mentionnées
+aux articles D. 732-40 et D. 732-41 lorsqu'il se rapporte à une période
+postérieure à la fin de l'année au cours de laquelle est survenu le dix-septième
+anniversaire du demandeur.
+
 Le choix de l'assuré est exprimé dans sa demande et il est irrévocable.

@@ -12,8 +12,8 @@ actualisée d'une pension de référence liquidée trimestriellement, à terme �
 produit de la valeur de service du point fixée au dernier alinéa de l'article D.
 643-1, en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est
 informé de l'acceptation de sa demande, par le quart du nombre annuel moyen de
-points déterminé selon les modalités prévues au I de ce même article, revalorisé
-par l'application du coefficient mentionné au 3° de l'article D. 643-7 et
+points déterminé selon les modalités prévues à ce même article, revalorisé par
+l'application du coefficient mentionné au 3° de l'article D. 643-7 et
 correspondant à quarante et une fois et demie le montant d'une cotisation sur un
 revenu annuel moyen correspondant au revenu mentionné au a, au b ou au c du 3°
 du présent article et, d'autre part, la somme actualisée de cette même pension
@@ -25,8 +25,8 @@ actualisée d'une pension de référence liquidée trimestriellement, à terme �
 produit de la valeur de service du point fixée au dernier alinéa de l'article D.
 643-1, en vigueur au 1er janvier de l'année au cours de laquelle l'assuré est
 informé de l'acceptation de sa demande, par le quart du nombre annuel moyen de
-points déterminé selon les modalités prévues au I de ce même article, revalorisé
-par l'application du coefficient mentionné au 3° de l'article D. 643-7 et
+points déterminé selon les modalités prévues à ce même article, revalorisé par
+l'application du coefficient mentionné au 3° de l'article D. 643-7 et
 correspondant à quarante et une fois trois quart le montant d'une cotisation sur
 un revenu annuel moyen correspondant au revenu mentionné au a, au b ou au c du
 3° du présent article et, d'autre part, la somme actualisée de cette même
@@ -63,9 +63,8 @@ Pour l'application du présent 3°, les modalités prévues au I de l'article D.
 4° Les règles d'actualisation prévues au II de l'article D. 351-8 sont
 applicables à l'actualisation prévue au présent article, sous réserve :
 
-a) De la prise en compte, pour les assurés âgés de plus de cinquante-neuf ans,
-d'un taux diminué de 0,05 point par année d'âge à partir du taux fixé au c dudit
-II ;
+a) De la prise en compte, pour les assurés âgés de plus de soixante ans, d'un
+taux diminué de 0,05 point par année d'âge à partir du taux fixé au c dudit II ;
 
 b) De la division du barème prévu au dernier alinéa dudit II en sept tranches de
 revenus et salaires ainsi déterminées :
@@ -91,4 +90,4 @@ inférieurs à une limite égale au plafond précité ;
 - revenus et salaires égaux ou supérieurs au plafond précité ;
 
 c) De la substitution de la mention, au dernier alinéa dudit II, de l'âge de
-soixante-cinq ans à la mention de l'âge de cinquante-neuf ans.
+soixante-cinq ans à la mention de l'âge de soixante ans.

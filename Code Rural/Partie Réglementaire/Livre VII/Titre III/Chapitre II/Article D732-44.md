@@ -20,5 +20,5 @@ substituée à la référence à la caisse mentionnée à cet alinéa ;
 4° La référence à l'article D. 732-45 du code rural est substituée à la
 référence à l'article D. 351-7 du code de la sécurité sociale ;
 
-5° La référence à l'article D. 732-46 est substituée à la référence à l'article
-D. 351-8.
+5° La référence à l'article D. 732-46 du code rural est substituée à la
+référence à l'article D. 351-8 du code de la sécurité sociale.

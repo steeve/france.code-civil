@@ -27,8 +27,4 @@ D. 351-7 ;
 D. 351-8 ;
 
 8° La référence à l'article D. 723-7 est substituée à la référence à l'article
-D. 351-9 ;
-
-9° A l'article D. 351-10, les dispositions relatives à l'âge de cinquante-neuf
-ans pour les assurés présentant leur demande au cours de l'année où ils
-atteignent cet âge ne sont pas applicables.
+D. 351-9.

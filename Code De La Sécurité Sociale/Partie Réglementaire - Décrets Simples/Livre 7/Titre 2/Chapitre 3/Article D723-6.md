@@ -24,9 +24,8 @@ un rapport égal à 166/167 et minorée de 1,25 %.
 3° Les modalités prévues au II de l'article D. 351-8 sont applicables à
 l'actualisation prévue au présent article, sous réserve :
 
-a) De la prise en compte, pour les assurés âgés de plus de cinquante-neuf ans,
-d'un taux diminué de 0,05 point par année d'âge à partir du taux fixé au c dudit
-II ;
+a) De la prise en compte, pour les assurés âgés de plus de soixante ans, d'un
+taux diminué de 0,05 point par année d'âge à partir du taux fixé au c dudit II ;
 
 b) De la substitution de la mention, au dernier alinéa dudit II, de l'âge de
-soixante-cinq ans à la mention de l'âge de cinquante-neuf ans.
+soixante-cinq ans à la mention de l'âge de soixante ans.
