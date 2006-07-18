@@ -28,17 +28,19 @@ Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
 Lyon : Ain, Ardèche, Loire, Rhône ;
 
-Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse ;
+Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ;
 
 Melun : Seine-et-Marne, Val-de-Marne ;
 
-Montpellier : Aude, Gard, Hérault, Lozère, Pyrénées-Orientales ;
+Montpellier : Aude, Hérault, Pyrénées-Orientales ;
 
 Nancy : Meurthe-et-Moselle, Meuse, Vosges ;
 
 Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ;
 
 Nice : Alpes-Maritimes, Var ;
+
+Nîmes : Gard, Lozère, Vaucluse ;
 
 Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
