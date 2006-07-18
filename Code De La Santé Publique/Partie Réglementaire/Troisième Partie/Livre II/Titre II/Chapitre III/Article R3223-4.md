@@ -1,7 +1,7 @@
 Article R3223-4
 ----
-La commission délibère valablement dès lors que trois de ses membres sont
-présents.
+La commission délibère valablement dès lors que trois de ses membres dont au
+moins un médecin sont présents.
 
 En cas d'égalité des suffrages, la voix du président est prépondérante.
 

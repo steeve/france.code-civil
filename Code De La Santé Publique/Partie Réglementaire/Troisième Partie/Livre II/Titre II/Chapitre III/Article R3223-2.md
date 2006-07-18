@@ -1,7 +1,6 @@
 Article R3223-2
 ----
-Les membres de la commission sont nommés pour trois ans renouvelables une seule
-fois consécutivement.
+Les membres de la commission sont nommés pour trois ans renouvelables.
 
 En cas de décès, de démission ou d'impossibilité d'assurer leurs fonctions en
 cours de mandat, ils sont remplacés selon les mêmes modalités pour la durée du
