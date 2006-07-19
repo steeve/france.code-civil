@@ -15,7 +15,9 @@ retour entre :
 
 1° Sa résidence principale, une résidence secondaire présentant un caractère de
 stabilité ou tout autre lieu où le travailleur se rend de façon habituelle pour
-des motifs d'ordre familial et le lieu de travail ;
+des motifs d'ordre familial et le lieu de travail. Ce trajet peut ne pas être le
+plus direct lorsque le détour est rendu nécessaire par la pratique régulière du
+covoiturage.
 
 2° Le lieu du travail et le restaurant, la cantine ou, d'une manière plus
 générale, le lieu où le travailleur prend habituellement ses repas, et dans la
