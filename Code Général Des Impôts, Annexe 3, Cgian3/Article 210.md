@@ -1,4 +1,5 @@
 Article 210
 ----
-En cas de cessation d'activité, le fabricant remet son poinçon de responsabilité
-au bureau de garantie dans un délai de trente jours.
+En cas de cessation d'activité, le fabricant ou l'importateur remet son poinçon
+de maître ou de responsabilité au bureau de garantie ou au bureau de douane dans
+un délai de trente jours.

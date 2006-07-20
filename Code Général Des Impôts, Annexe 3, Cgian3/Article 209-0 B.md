@@ -1,7 +1,6 @@
 Article 209-0 B
 ----
-Les fabricants peuvent adresser leurs ouvrages au bureau de garantie par la voie
-postale pour y être essayés et marqués. Dans ce cas, ils supportent les frais de
-réexpédition et versent, pour les couvrir, une avance auprès de la recette des
-douanes et droits indirects de rattachement du bureau de garantie dont ils
-dépendent.
+Les professionnels peuvent faire livrer leurs ouvrages au bureau de garantie
+pour y être essayés et marqués dès lors que ces professionnels supportent
+l'intégralité des formalités et des frais afférents à l'expédition des ouvrages
+vers le bureau de garantie.
