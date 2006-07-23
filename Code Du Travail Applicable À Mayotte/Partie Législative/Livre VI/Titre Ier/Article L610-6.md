@@ -5,8 +5,8 @@ sont applicables les règles énoncées à la première phrase du premier aliné
 l'article L. 610-1 à l'effet d'y assurer la surveillance et les enquêtes dont
 ils sont chargés.
 
-Ils ont également entrée dans les locaux où les travailleurs à domicile
-effectuent les travaux qui leur sont confiés.
+Ils ont également entrée dans les locaux où les travailleurs à domicile ou les
+employés de maison effectuent les travaux qui leur sont confiés.
 
 Toutefois, lorsque les travaux sont exécutés dans des locaux habités, les
 inspecteurs ne peuvent y pénétrer qu'après avoir reçu l'autorisation des

@@ -18,3 +18,8 @@ un danger actuel ou imminent, nécessaire à la sauvegarde de la vie ou de
 l'intégrité physique de l'étranger, sauf s'il y a disproportion entre les moyens
 employés et la gravité de la menace ou s'il a donné lieu à une contrepartie
 directe ou indirecte.
+
+Les exceptions prévues aux 1° et 2° ne s'appliquent pas lorsque l'étranger
+bénéficiaire de l'aide au séjour irrégulier vit en état de polygamie ou lorsque
+cet étranger est le conjoint d'une personne polygame résidant en France avec le
+premier conjoint.

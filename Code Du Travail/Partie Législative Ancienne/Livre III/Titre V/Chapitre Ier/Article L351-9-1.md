@@ -16,7 +16,10 @@ doivent attester de leur adresse de domiciliation effective auprès des
 organismes chargés du service de l'allocation, sous peine d'en perdre le
 bénéfice.
 
-Les autorités compétentes de l'Etat adressent mensuellement aux organismes
-chargés du service de l'allocation les informations relatives aux offres de
-prise en charge répondant aux conditions fixées au premier alinéa qui ont été
-formulées ainsi qu'aux refus auxquels celles-ci ont, le cas échéant, donné lieu.
+Les autorités compétentes de l'Etat ou l'Agence nationale de l'accueil des
+étrangers et des migrations, chargée de la coordination de la gestion du
+dispositif d'hébergement des demandeurs d'asile, adressent mensuellement aux
+organismes chargés du service de l'allocation les informations relatives aux
+offres de prise en charge répondant aux conditions fixées au premier alinéa qui
+ont été formulées ainsi qu'aux refus auxquels celles-ci ont, le cas échéant,
+donné lieu.

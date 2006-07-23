@@ -12,10 +12,10 @@ depuis qu'il a atteint au plus l'âge de treize ans ;
 2° L'étranger qui réside régulièrement en France depuis plus de vingt ans ;
 
 3° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui,
-ne vivant pas en état de polygamie, est marié depuis au moins trois ans soit
+ne vivant pas en état de polygamie, est marié depuis au moins quatre ans soit
 avec un ressortissant français ayant conservé la nationalité française, soit
 avec un ressortissant étranger relevant du 1°, à condition que la communauté de
-vie n'ait pas cessé ;
+vie n'ait pas cessé depuis le mariage ;
 
 4° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui,
 ne vivant pas en état de polygamie, est père ou mère d'un enfant français mineur
@@ -32,7 +32,7 @@ effectivement bénéficier d'un traitement approprié dans le pays de renvoi.
 Les dispositions du présent article ne sont toutefois pas applicables à
 l'étranger mentionné au 3° ou au 4° ci-dessus lorsque les faits à l'origine de
 la mesure d'expulsion ont été commis à l'encontre de son conjoint ou de ses
-enfants.
+enfants ou de tout enfant sur lequel il exerce l'autorité parentale.
 
 Les étrangers mentionnés au présent article bénéficient de ses dispositions même
 s'ils se trouvent dans la situation prévue au dernier alinéa de l'article L.

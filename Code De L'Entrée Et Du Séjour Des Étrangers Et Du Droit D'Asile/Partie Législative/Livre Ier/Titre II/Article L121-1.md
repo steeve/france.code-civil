@@ -1,18 +1,28 @@
 Article L121-1
 ----
-Les ressortissants des Etats membres de l'Union européenne, des autres Etats
-parties à l'accord sur l'Espace économique européen et de la Confédération
-suisse qui souhaitent établir en France leur résidence habituelle ne sont pas
-tenus de détenir un titre de séjour.
+Sauf si sa présence constitue une menace pour l'ordre public, tout citoyen de
+l'Union européenne, tout ressortissant d'un autre Etat partie à l'accord sur
+l'Espace économique européen ou de la Confédération suisse a le droit de
+séjourner en France pour une durée supérieure à trois mois s'il satisfait à
+l'une des conditions suivantes :
 
-S'ils en font la demande, il leur est délivré un titre de séjour, sous réserve
-d'absence de menace pour l'ordre public.
+1° S'il exerce une activité professionnelle en France ;
 
-Toutefois, demeurent soumis à la détention d'un titre de séjour durant le temps
-de validité des mesures transitoires éventuellement prévues en la matière par le
-traité d'adhésion du pays dont ils sont ressortissants, et sauf si ce traité en
-stipule autrement, les ressortissants des Etats membres de l'Union européenne
-qui souhaitent exercer en France une activité économique.
+2° S'il dispose pour lui et pour les membres de sa famille tels que visés au 4°
+de ressources suffisantes afin de ne pas devenir une charge pour le système
+d'assistance sociale, ainsi que d'une assurance maladie ;
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent
-article.
+3° S'il est inscrit dans un établissement fonctionnant conformément aux
+dispositions législatives et réglementaires en vigueur pour y suivre à titre
+principal des études ou, dans ce cadre, une formation professionnelle, et
+garantit disposer d'une assurance maladie ainsi que de ressources suffisantes
+pour lui et pour les membres de sa famille tels que visés au 5° afin de ne pas
+devenir une charge pour le système d'assistance sociale ;
+
+4° S'il est un descendant direct âgé de moins de vingt et un ans ou à charge,
+ascendant direct à charge, conjoint, ascendant ou descendant direct à charge du
+conjoint, accompagnant ou rejoignant un ressortissant qui satisfait aux
+conditions énoncées aux 1° ou 2° ;
+
+5° S'il est le conjoint ou un enfant à charge accompagnant ou rejoignant un
+ressortissant qui satisfait aux conditions énoncées au 3°.

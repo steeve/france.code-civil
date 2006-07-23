@@ -9,11 +9,11 @@ depuis qu'il a atteint au plus l'âge de treize ans ;
 2° Un étranger qui réside régulièrement en France depuis plus de vingt ans ;
 
 3° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui,
-ne vivant pas en état de polygamie, est marié depuis au moins trois ans avec un
+ne vivant pas en état de polygamie, est marié depuis au moins quatre ans avec un
 ressortissant français ayant conservé la nationalité française, à condition que
 ce mariage soit antérieur aux faits ayant entraîné sa condamnation et que la
-communauté de vie n'ait pas cessé ou, sous les mêmes conditions, avec un
-ressortissant étranger relevant du 1° ;
+communauté de vie n'ait pas cessé depuis le mariage ou, sous les mêmes
+conditions, avec un ressortissant étranger relevant du 1° ;
 
 4° Un étranger qui réside régulièrement en France depuis plus de dix ans et qui,
 ne vivant pas en état de polygamie, est père ou mère d'un enfant français mineur
@@ -28,7 +28,8 @@ aux conditions d'entrée et de séjour des étrangers en France.
 
 Les dispositions prévues au 3° et au 4° ne sont toutefois pas applicables
 lorsque les faits à l'origine de la condamnation ont été commis à l'encontre du
-conjoint ou des enfants de l'étranger.
+conjoint ou des enfants de l'étranger ou de tout enfant sur lequel il exerce
+l'autorité parentale.
 
 Les dispositions du présent article ne sont pas applicables aux atteintes aux
 intérêts fondamentaux de la nation prévus par les chapitres Ier, II et IV du

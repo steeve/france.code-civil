@@ -12,3 +12,8 @@ conjoint, l'autorité administrative peut accorder le renouvellement du titre.
 L'accès de l'enfant français à la majorité ne fait pas obstacle au
 renouvellement de la carte de séjour délivrée au titre du 6° de l'article L.
 313-11.
+
+La carte de séjour délivrée au titre de l'article L. 313-11-1 ne donne pas droit
+à l'exercice d'une activité professionnelle dans l'année qui suit sa première
+délivrance, sauf si elle est accordée en application du II de cet article et que
+son bénéficiaire séjourne en France depuis au moins un an.

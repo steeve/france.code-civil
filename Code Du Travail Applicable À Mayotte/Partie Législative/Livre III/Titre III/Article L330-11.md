@@ -9,7 +9,7 @@ départementale.
 L'employeur qui engage ou conserve à son service un étranger non muni d'une
 autorisation de travail est puni d'une amende sauf si des poursuites judiciaires
 sont intentées à son encontre pour les mêmes faits. Le montant maximum de
-celle-ci est égal à cent fois le taux horaire du salaire minimum
+celle-ci est égal à mille fois le taux horaire du salaire minimum
 interprofessionnel garanti en vigueur dans la collectivité départementale.
 L'amende est due pour chaque étranger employé sans titre de travail.
 

@@ -18,8 +18,9 @@ Lorsqu'il s'agit d'un mineur de dix-huit ans, le procureur de la République doi
 
 La personne qui fait l'objet d'une vérification ne peut être retenue que pendant
 le temps strictement exigé par l'établissement de son identité. La rétention ne
-peut excéder quatre heures à compter du contrôle effectué en application de
-l'article 78-2 et le procureur de la République peut y mettre fin à tout moment.
+peut excéder quatre heures, ou huit heures à Mayotte, à compter du contrôle
+effectué en application de l'article 78-2 et le procureur de la République peut
+y mettre fin à tout moment.
 
 Si la personne interpellée maintient son refus de justifier de son identité ou
 fournit des éléments d'identité manifestement inexacts, les opérations de

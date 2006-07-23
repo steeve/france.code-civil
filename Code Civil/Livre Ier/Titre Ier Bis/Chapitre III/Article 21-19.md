@@ -2,21 +2,17 @@ Article 21-19
 ----
 Peut être naturalisé sans condition de stage :
 
-1° L'enfant mineur resté étranger bien que l'un de ses parents ait acquis la
-nationalité française ;
+1° Alinéa abrogé ;
 
-2° Le conjoint et l'enfant majeur d'une personne qui acquiert ou a acquis la
-nationalité française ;
+2° Alinéa abrogé ;
 
-3° (supprimé) ;
+3° Alinéa abrogé ;
 
 4° L'étranger qui a effectivement accompli des services militaires dans une
 unité de l'armée française ou qui, en temps de guerre, a contracté un engagement
 volontaire dans les armées françaises ou alliées ;
 
-5° Le ressortissant ou ancien ressortissant des territoires et des Etats sur
-lesquels la France a exercé soit la souveraineté, soit un protectorat, un mandat
-ou une tutelle ;
+5° Alinéa abrogé ;
 
 6° L'étranger qui a rendu des services exceptionnels à la France ou celui dont
 la naturalisation présente pour la France un intérêt exceptionnel. Dans ce cas,

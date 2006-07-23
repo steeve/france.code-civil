@@ -17,8 +17,13 @@ pour l'application desdits traités.
 "Pour entrer en France en vue d'y exercer une profession salariée, l'étranger
 doit présenter, outre les documents et visas exigés par les conventions
 internationales et les règlements en vigueur, un contrat de travail visé par
-l'autorité administrative ou une autorisation de travail et un certificat
-médical.
+l'autorité administrative ou une autorisation de travail.
+
+"Il doit également attester, dans l'hypothèse où il manifeste la volonté de
+s'installer durablement en France, d'une connaissance suffisante de la langue
+française sanctionnée par une validation des acquis ou s'engager à l'acquérir
+après son installation en France, dans des conditions qui sont fixées par un
+décret en Conseil d'Etat.
 
 "Art. L. 341-3 du code du travail.
 
@@ -40,34 +45,47 @@ territoire français.
 "Art. L. 341-4 du code du travail.
 
 "Un étranger ne peut exercer une activité professionnelle salariée en France
-sans avoir obtenu au préalable l'autorisation mentionnée à l'article L. 341-2.
+sans avoir obtenu au préalable l'autorisation mentionnée à l'article L. 341-2 et
+sans s'être fait délivrer un certificat médical.
 
-"Cette autorisation est délivrée dans des conditions qui sont fixées par un
-décret en Conseil d'Etat, sous réserve des dispositions applicables en vertu des
-troisième et quatrième alinéas du présent article.
+"L'autorisation de travail peut être limitée à certaines activités
+professionnelles ou zones géographiques.
 
-"L'autorisation de travail peut être délivrée à un étranger qui demande
-l'attribution de la carte de séjour temporaire sous la forme de la mention
-"salarié" apposée sur cette carte. Elle habilite cet étranger à exercer les
-activités professionnelles indiquées sur cette carte dans les zones qui y sont
-mentionnées.
+"L'autorisation délivrée en France métropolitaine ne confère de droits qu'en
+France métropolitaine.
 
-"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une
-carte de résident qui lui confère le droit d'exercer sur l'ensemble du
-territoire de la France métropolitaine toute activité professionnelle salariée
-de son choix dans le cadre de la législation en vigueur."
+"Pour l'instruction de la demande d'autorisation de travail, l'autorité
+administrative peut échanger tous renseignements et documents relatifs à cette
+demande avec les organismes concourant au service public de l'emploi mentionnés
+à l'article L. 311-1, avec les organismes gérant un régime de protection
+sociale, avec l'établissement mentionné à l'article L. 767-1 du code de la
+sécurité sociale ainsi qu'avec les caisses assurant le service des congés payés
+mentionnées au livre VII (partie réglementaire : décrets simples) du présent
+code.
+
+"Lorsque l'autorisation de travail est demandée en vue de la conclusion d'un
+contrat d'apprentissage visé à l'article L. 117-1 ou d'un contrat de
+professionnalisation visé à l'article L. 981-1, la situation de l'emploi ne peut
+être opposée à la demande d'un étranger qui a été pris en charge par les
+services de l'aide sociale à l'enfance mentionnés à l'article L. 221-1 du code
+de l'action sociale et des familles avant qu'il ait atteint l'âge de seize ans
+et qui l'est toujours au moment où il présente sa demande.
+
+"Un décret en Conseil d'Etat fixe les modalités d'application du présent
+article.
 
 "Art. L. 341-8 du code du travail.
 
 "Le renouvellement des autorisations de travail prévues à l'article L. 341-2
-donne lieu à la perception au profit de l'Office des migrations internationales
-d'une taxe dont le montant et les modalités de perception sont fixés par décret.
+donne lieu à la perception au profit de l'Agence nationale de l'accueil des
+étrangers et des migrations d'une taxe dont le montant et les modalités de
+perception sont fixés par décret.
 
 "La participation de l'Etat aux frais d'introduction des familles de
-travailleurs étrangers et les sommes versées par les employeurs à l'Office des
-migrations internationales à titre de remboursement forfaitaire des frais
-d'introduction des travailleurs étrangers sont réduites en fonction du rendement
-de ladite taxe.
+travailleurs étrangers et les sommes versées par les employeurs à l'Agence
+nationale de l'accueil des étrangers et des migrations à titre de remboursement
+forfaitaire des frais d'introduction des travailleurs étrangers sont réduites en
+fonction du rendement de ladite taxe.
 
 "Cette taxe n'est acquittée qu'une fois par période d'un an.
 
@@ -78,21 +96,24 @@ rapatriés.
 
 "Art. L. 831-1 du code du travail.
 
-"Les dispositions du chapitre Ier du titre IV du livre III, à l'exception du
-quatrième alinéa de l'article L. 341-4, du présent code sont applicables dans
+"Les dispositions du chapitre premier du titre IV du livre III, à l'exception du
+troisième alinéa de l'article L. 341-4, du présent code sont applicables dans
 les départements d'outre-mer.
 
 "Art. L. 831-1-1 du code du travail.
 
 "Nul ne peut, directement ou par personne interposée, engager, conserver à son
 service ou employer pour quelque durée que ce soit un étranger non muni du titre
-l'autorisant à exercer une activité salariée dans la collectivité territoriale
-de Saint-Pierre-et-Miquelon. Les conditions de délivrance de cette autorisation
-de travail sont fixées par voie réglementaire.
+l'autorisant à exercer une activité salariée à Saint-Pierre-et-Miquelon. Les
+conditions de délivrance de cette autorisation de travail sont fixées par voie
+réglementaire.
 
 "Art. L. 831-2 du code du travail.
 
-"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une
-carte de résident qui lui confère le droit d'exercer, sur le territoire du
-département dans lequel elle a été délivrée, toute activité professionnelle
-salariée de son choix dans le cadre de la législation en vigueur."
+"L'autorisation de travail accordée à l'étranger sous la forme d'une des cartes
+mentionnées à la sous-section 6 de la section 2 du chapitre III du titre Ier du
+livre III du code de l'entrée et du séjour des étrangers et du droit d'asile ou
+du chapitre IV du même titre est limitée au département dans lequel elle a été
+délivrée. Elle lui confère le droit d'exercer, sur le territoire du département,
+toute activité professionnelle salariée de son choix dans le cadre de la
+législation en vigueur."

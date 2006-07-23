@@ -12,7 +12,9 @@ le territoire français ;
 
 3° Soit, faisant l'objet d'un arrêté de reconduite à la frontière pris en
 application des articles L. 511-1 à L. 511-3 et édicté moins d'un an auparavant,
-ne peut quitter immédiatement le territoire français ;
+ou devant être reconduit à la frontière en exécution d'une interdiction du
+territoire prévue au deuxième alinéa de l'article 131-30 du code pénal ne peut
+quitter immédiatement le territoire français ;
 
 4° Soit, faisant l'objet d'un signalement ou d'une décision d'éloignement
 mentionnés à l'article L. 531-3, ne peut quitter immédiatement le territoire
@@ -21,4 +23,9 @@ français ;
 5° Soit, ayant fait l'objet d'une décision de placement au titre de l'un des cas
 précédents, n'a pas déféré à la mesure d'éloignement dont il est l'objet dans un
 délai de sept jours suivant le terme du précédent placement ou, y ayant déféré,
-est revenu en France alors que cette mesure est toujours exécutoire.
+est revenu en France alors que cette mesure est toujours exécutoire ;
+
+6° Soit, faisant l'objet d'une obligation de quitter le territoire français
+prise en application du I de l'article L. 511-1 moins d'un an auparavant et pour
+laquelle le délai d'un mois pour quitter volontairement le territoire est
+expiré, ne peut quitter immédiatement ce territoire.

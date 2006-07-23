@@ -16,8 +16,9 @@ appartenant à la personne condamnée ;
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq
 ans au plus ;
 
-5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et
-ayant servi à commettre l'infraction prévue à l'article 225-14 ;
+5° La confiscation de tout ou partie de leurs biens, quelle qu'en soit la
+nature, meubles ou immeubles, divis ou indivis, ayant servi à commettre
+l'infraction prévue à l'article 225-14 ;
 
 6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues
 par l'article 131-5-1.

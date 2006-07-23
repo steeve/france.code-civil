@@ -5,12 +5,11 @@ parlementaires, désignés l'un par l'Assemblée nationale et l'autre par le Sé
 des représentants de l'Etat et un représentant du personnel de l'office.
 
 Le conseil d'administration fixe les orientations générales concernant
-l'activité de l'office ainsi que, pour la période comprise entre la date
-d'entrée en vigueur de la loi n° 2003-1176 du 10 décembre 2003 et l'adoption de
-dispositions communautaires en cette matière, la liste des pays considérés comme
-des pays d'origine sûrs, mentionnés au 2° de l'article L. 741-4. Il délibère sur
-les modalités de mise en oeuvre des dispositions relatives à l'octroi du statut
-de réfugié ou de la protection subsidiaire.
+l'activité de l'office ainsi que, dans les conditions prévues par les
+dispositions communautaires en cette matière, la liste des pays considérés au
+niveau national comme des pays d'origine sûrs, mentionnés au 2° de l'article L.
+741-4. Il délibère sur les modalités de mise en oeuvre des dispositions
+relatives à l'octroi du statut de réfugié ou de la protection subsidiaire.
 
 Le président du conseil d'administration est nommé parmi ses membres par décret
 sur proposition du ministre des affaires étrangères.

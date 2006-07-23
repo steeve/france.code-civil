@@ -6,7 +6,7 @@ dispositions de l'article L. 341-6, premier alinéa, sera tenu d'acquitter une
 contribution spéciale au bénéfice de l'Agence nationale de l'accueil des
 étrangers et des migrations. Le montant de cette contribution spéciale ne
 saurait être inférieur à 500 fois le taux horaire du minimum garanti prévu à
-l'article L. 141-8.
+l'article L. 141-8 et, en cas de réitération, à 5 000 fois ce même taux.
 
 Un décret en Conseil d'Etat fixera les modalités d'application du présent
 article.

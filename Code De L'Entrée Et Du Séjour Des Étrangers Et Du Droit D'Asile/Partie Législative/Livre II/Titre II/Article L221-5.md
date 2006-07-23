@@ -1,11 +1,11 @@
 Article L221-5
 ----
-Lors de l'entrée en zone d'attente d'un étranger mineur non accompagné d'un
-représentant légal, le procureur de la République, avisé par l'autorité
-administrative en application de l'article L. 221-3, lui désigne sans délai un
-administrateur ad hoc. Celui-ci assiste le mineur durant son maintien en zone
-d'attente et assure sa représentation dans le cadre des procédures
-administratives et juridictionnelles relatives à ce maintien.
+Lorsqu'un étranger mineur non accompagné d'un représentant légal n'est pas
+autorisé à entrer en France, le procureur de la République, avisé immédiatement
+par l'autorité administrative, lui désigne sans délai un administrateur ad hoc.
+Celui-ci assiste le mineur durant son maintien en zone d'attente et assure sa
+représentation dans le cadre des procédures administratives et juridictionnelles
+relatives à ce maintien.
 
 Il assure également la représentation du mineur dans toutes les procédures
 administratives et juridictionnelles afférentes à son entrée en France.

@@ -11,18 +11,18 @@ contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les
 conditions prévues par l'article 371-2 du code civil depuis la naissance de
 celui-ci ou depuis au moins un an ;
 
-2° Un étranger marié depuis au moins deux ans avec un conjoint de nationalité
+2° Un étranger marié depuis au moins trois ans avec un conjoint de nationalité
 française, à condition que ce mariage soit antérieur aux faits ayant entraîné sa
-condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
-conservé la nationalité française ;
+condamnation, que la communauté de vie n'ait pas cessé depuis le mariage et que
+le conjoint ait conservé la nationalité française ;
 
 3° Un étranger qui justifie par tous moyens qu'il réside habituellement en
 France depuis plus de quinze ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention "étudiant" ;
+titulaire d'une carte de séjour temporaire portant la mention " étudiant " ;
 
 4° Un étranger qui réside régulièrement en France depuis plus de dix ans, sauf
 s'il a été, pendant toute cette période, titulaire d'une carte de séjour
-temporaire portant la mention "étudiant" ;
+temporaire portant la mention " étudiant " ;
 
 5° Un étranger titulaire d'une rente d'accident du travail ou de maladie
 professionnelle servie par un organisme français et dont le taux d'incapacité
