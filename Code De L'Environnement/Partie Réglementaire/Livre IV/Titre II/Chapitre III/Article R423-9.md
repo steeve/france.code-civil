@@ -9,6 +9,14 @@ Le permis de chasser est délivré aux personnes circulant sur le territoire
 français sans domicile ni résidence fixes par le préfet du département où est
 située la commune à laquelle elles sont rattachées.
 
+Sans préjudice des dispositions de l'article L. 423-21, le permis de chasser est
+délivré aux non-résidents, français ou étrangers, par le préfet du département
+où les demandeurs ont subi avec succès les épreuves de l'examen prévu à
+l'article L. 423-5.
+
 La délivrance du permis de chasser est subordonnée à la présentation d'un
 certificat attestant que le demandeur a subi avec succès l'examen prévu à
 l'article L. 423-5.
+
+Un duplicata du permis de chasser peut être obtenu auprès du préfet du
+département où a été délivré le permis initial.

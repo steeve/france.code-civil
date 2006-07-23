@@ -1,36 +1,37 @@
 Article R423-8
 ----
-I. - Par dérogation aux dispositions de l'article R. 423-3, le demandeur de
-l'autorisation de chasser mentionnée au deuxième alinéa de l'article L. 423-2
-peut se présenter aux épreuves théoriques du permis de chasser dès lors qu'il
-est âgé d'au moins quatorze ans et six mois. Le délai pendant lequel il peut se
-présenter aux épreuves pratiques sans repasser les épreuves théoriques expire un
-an après la fin de la période de validité de l'autorisation de chasser qu'il
-détient.
+I. - Le programme de la formation pratique élémentaire prévue à l'article L.
+423-2 est fixé par arrêté du ministre chargé de la chasse.
 
-II. - L'autorisation de chasser est délivrée par le préfet du département où la
-personne qui en fait la demande est domiciliée. Le demandeur doit présenter :
+La formation peut être suivie à partir de l'âge de quatorze ans et demi. La
+participation à la formation est attestée par le président de la fédération
+départementale ou interdépartementale des chasseurs qui l'a organisée, ou son
+représentant. Cette attestation a une validité d'un an à compter de sa date de
+délivrance.
 
-1° Le certificat de réussite aux épreuves théoriques de l'examen du permis de
-chasser ;
+L'autorisation de chasser accompagné est délivrée par le préfet du département
+dans lequel la personne qui en fait la demande est domiciliée.
 
-2° Une déclaration sur l'honneur, signée de son représentant légal, ou de
-lui-même s'il est émancipé, attestant qu'il ne se trouve pas dans l'un des cas
-prévus par les articles L. 423-24 et L. 423-25 ;
+II. - Le demandeur joint à sa demande :
 
-3° Une déclaration sur l'honneur de chacune des personnes chargées de son
-accompagnement attestant qu'elles satisfont aux conditions prévues par le
-présent article.
+- l'attestation de participation à la formation pratique élémentaire ;
 
-III. - Ces déclarations sur l'honneur sont jointes à l'autorisation.
+- une déclaration sur l'honneur signée de son représentant légal ou de lui-même
+s'il est émancipé ou majeur, attestant qu'il ne se trouve pas dans l'un des cas
+prévus par l'article L. 423-25 ;
 
-IV. - L'autorisation précise les noms et prénoms des personnes chargées de
-l'accompagnement ; celles-ci doivent être titulaires d'un permis de chasser
-validé chaque année au cours des cinq années précédentes et n'avoir jamais été
-privées du droit d'obtenir ou de détenir un permis de chasser par décision de
-justice.
+- une déclaration sur l'honneur de chacune des personnes chargées de
+l'accompagnement attestant qu'elles sont titulaires d'un permis de chasser
+depuis plus de cinq années, n'ont jamais été privées du droit d'obtenir ou de
+détenir un permis de chasser par décision de justice et qu'elles disposent d'une
+assurance couvrant leur responsabilité civile pour cet accompagnement.
 
-V. - L'autorisation mentionne sa période de validité, qui court pendant un an à
-compter, selon le cas, de la date anniversaire des quinze ans du bénéficiaire
-ou, s'il est plus âgé au moment des épreuves, de la date à laquelle il a réussi
-les épreuves théoriques du permis de chasser.
+III. - L'autorisation mentionne sa période de validité, qui court à compter de
+sa date de délivrance, les noms, prénoms, date de naissance et adresse du
+bénéficiaire, les noms et prénoms des personnes chargées de l'accompagnement
+ainsi que les numéros et date de délivrance de leur permis de chasser.
+
+IV. - Le bénéficiaire de l'autorisation ne peut chasser qu'en présence d'un
+accompagnateur mentionné dans l'autorisation, dont le permis de chasser est
+validé et dont l'assurance couvre sa responsabilité civile pour cet
+accompagnement.

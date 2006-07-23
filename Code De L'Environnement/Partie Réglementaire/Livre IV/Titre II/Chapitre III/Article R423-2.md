@@ -9,8 +9,9 @@ de l'Etat, la conformité aux caractéristiques techniques en application de
 l'article R. 423-6.
 
 L'Office national de la chasse et de la faune sauvage reçoit les demandes
-d'inscription à l'examen, adresse les convocations et délivre les certificats de
-réussite aux épreuves théoriques et pratiques.
+d'inscription à l'examen et adresse les convocations. Pour être recevable, la
+demande doit être accompagnée du montant du droit d'examen ainsi que du
+certificat médical prévus à l'article L. 423-6 du code de l'environnement.
 
 Plusieurs sessions peuvent être organisées dans chaque département au cours
 d'une même année.
