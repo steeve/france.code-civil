@@ -44,7 +44,7 @@ des vingt kilomètres de la frontière. Toutefois, sur celles des lignes
 ferroviaires effectuant une liaison internationale et présentant des
 caractéristiques particulières de desserte, le contrôle peut également être
 opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres
-suivants. Ces lignes et ces arrêts sont désignés par arrêté ministériel(1).
+suivants. Ces lignes et ces arrêts sont désignés par arrêté ministériel (1).
 Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à la
 première phrase du présent alinéa (1) et que le premier péage autoroutier se
 situe au-delà de la ligne des 20 kilomètres, le contrôle peut en outre avoir
@@ -61,3 +61,18 @@ nationale 2 sur le territoire de la commune de Régina, l'identité de toute
 personne peut être contrôlée, selon les modalités prévues au premier alinéa, en
 vue de vérifier le respect des obligations de détention, de port et de
 présentation des titres et documents prévus par la loi.
+
+Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet
+2006 relative à l'immigration et à l'intégration, l'identité de toute personne
+peut également être contrôlée, selon les modalités prévues au premier alinéa du
+présent article, en vue de vérifier le respect des obligations de détention, de
+port et de présentation des titres et documents prévus par la loi :
+
+1° En Guadeloupe, dans une zone comprise entre le littoral et une ligne tracée à
+un kilomètre en deçà, ainsi que dans une zone d'un kilomètre de part et d'autre,
+d'une part, de la route nationale 1 sur le territoire des communes de
+Basse-Terre, Gourbeyre et Trois-Rivières et, d'autre part, de la route nationale
+4 sur le territoire des communes du Gosier et de Sainte-Anne et Saint-François ;
+
+2° A Mayotte, dans une zone comprise entre le littoral et une ligne tracée à un
+kilomètre en deçà.

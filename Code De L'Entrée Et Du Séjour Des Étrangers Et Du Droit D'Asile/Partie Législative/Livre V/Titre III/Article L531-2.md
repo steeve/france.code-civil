@@ -13,3 +13,8 @@ conformer aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1,
 ou 21, paragraphe 1 ou 2, de cette convention ou sans souscrire, au moment de
 l'entrée sur ce territoire, la déclaration obligatoire prévue par l'article 22
 de la même convention, alors qu'il était astreint à cette formalité.
+
+Il en est de même de l'étranger détenteur d'un titre de résident de longue
+durée-CE en cours de validité accordé par un autre Etat membre qui fait l'objet
+d'une mesure d'éloignement du territoire français. Un décret en Conseil d'Etat
+détermine les conditions d'application du présent alinéa.

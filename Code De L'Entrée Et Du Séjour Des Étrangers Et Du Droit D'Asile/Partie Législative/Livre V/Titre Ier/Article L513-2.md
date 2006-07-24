@@ -1,6 +1,7 @@
 Article L513-2
 ----
-L'étranger qui doit être reconduit à la frontière est éloigné :
+L'étranger qui est obligé de quitter le territoire français ou qui doit être
+reconduit à la frontière est éloigné :
 
 1° A destination du pays dont il a la nationalité, sauf si l'Office français de
 protection des réfugiés et apatrides ou la Commission des recours des réfugiés
