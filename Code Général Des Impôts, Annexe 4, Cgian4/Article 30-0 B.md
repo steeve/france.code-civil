@@ -6,83 +6,87 @@ impôts est fixée comme suit :
 
 1. Pour les handicapés moteurs :
 
-Commandes adaptées pour le contrôle de l'environnement et la communication : au
+commandes adaptées pour le contrôle de l'environnement et la communication : au
 souffle, linguales, joysticks, défilement, contacteurs, casques et licornes ;
 
-Appareils de communication à synthèse vocale et désigneurs ;
+appareils de communication à synthèse vocale et désigneurs ;
 
-Cartes électroniques et logiciels spécifiques de communication ;
+cartes électroniques et logiciels spécifiques de communication ;
 
-Claviers spéciaux pour ordinateurs et machines à écrire ;
+claviers spéciaux pour ordinateurs et machines à écrire ;
 
-Aides mécaniques ou électriques aux mouvements des bras, tourne-pages
+aides mécaniques ou électriques aux mouvements des bras, tourne-pages
 automatiques ;
 
-Matériels de transfert : élévateurs et releveurs hydrauliques ou électriques,
+matériels de transfert : élévateurs et releveurs hydrauliques ou électriques,
 lève-personnes ;
 
-Lorsqu'ils ont une vitesse inférieure ou égale à dix kilomètres par heure : les
+systèmes de douche et de bain incorporant les éléments indispensables à leur
+accessibilité par des handicapés, à l'exclusion des équipements médicaux ou à
+finalité thérapeutique ;
+
+lorsqu'ils ont une vitesse inférieure ou égale à dix kilomètres par heure : les
 fauteuils roulants et les scooters médicaux ;
 
-Appareils modulaires de verticalisation ;
+appareils modulaires de verticalisation ;
 
-Appareils de soutien partiel de la tête ;
+appareils de soutien partiel de la tête ;
 
-Casques de protection pour enfants handicapés ;
+casques de protection pour enfants handicapés ;
 
 2. Pour aveugles et malvoyants :
 
-Appareils ou objets à lecture, écriture ou reproduction de caractères ou signes
+appareils ou objets à lecture, écriture ou reproduction de caractères ou signes
 en relief (braille) ;
 
-Téléagrandisseurs et systèmes optiques télescopiques ;
+téléagrandisseurs et systèmes optiques télescopiques ;
 
-Cartes électroniques et logiciels spécialisés ;
+cartes électroniques et logiciels spécialisés ;
 
 3. Pour sourds et malentendants :
 
-Vibrateurs tactiles ;
+vibrateurs tactiles ;
 
-Orthèses vibratoires (amplificateurs de voix) ;
+orthèses vibratoires (amplificateurs de voix) ;
 
-Implants cochléaires ;
+implants cochléaires ;
 
-Logiciels spécifiques ;
+logiciels spécifiques ;
 
 4. Pour d'autres handicapés :
 
-Filtres respiratoires et protections trachéales pour laryngectomisés ;
+filtres respiratoires et protections trachéales pour laryngectomisés ;
 
-Appareils de photothérapie ;
+appareils de photothérapie ;
 
-Appareils de recueil de saignées ;
+appareils de recueil de saignées ;
 
 5. Pour l'ensemble des handicapés afin de faciliter la conduite ou l'accès des
 véhicules :
 
-Siège orthopédique (siège pivotant, surélevé ...) ;
+siège orthopédique (siège pivotant, surélevé...) ;
 
-Treuils, rampes et autres dispositifs pour l'accès des personnes handicapées en
+treuils, rampes et autres dispositifs pour l'accès des personnes handicapées en
 fauteuil roulant ;
 
-Commande d'accélérateur à main (cercle, arc de cercle, secteur, manette, poignée
-tournante ...) ;
+commande d'accélérateur à main (cercle, arc de cercle, secteur, manette, poignée
+tournante...) ;
 
-Sélecteur de vitesses sur planche de bord ;
+sélecteur de vitesses sur planche de bord ;
 
-Modification de la position ou de la commande du frein principal ou du frein de
+modification de la position ou de la commande du frein principal ou du frein de
 secours ;
 
-Modification de la position ou de la commande des commutateurs de feux, de
+modification de la position ou de la commande des commutateurs de feux, de
 clignotants, d'avertisseur sonore, d'essuie-glace ;
 
-Dispositif de commande groupée (frein principal, accélérateur ...) ;
+dispositif de commande groupée (frein principal, accélérateur...) ;
 
-Permutation ou modification de la position des pédales : pédales d'embrayage et
+permutation ou modification de la position des pédales : pédales d'embrayage et
 de frein rapprochées ou communes, pédales surélevées, faux planchers ;
 
-Modification de la colonne de direction ;
+modification de la colonne de direction ;
 
-Dispositif de maintien du tronc par sangle ou par harnais.
+dispositif de maintien du tronc par sangle ou par harnais ;
 
-Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
+dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
