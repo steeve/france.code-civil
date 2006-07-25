@@ -1,18 +1,14 @@
 Article R118-1
 ----
 Outre les attributions qui leur sont expressément dévolues par les articles L.
-118-2-4 et L. 119-2 et par celles des chapitres VI et VII qui précèdent, les
-chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat
-et les chambres d'agriculture peuvent soit individuellement, soit en commun
-organiser des services d'apprentissage chargés de contribuer :
+117-14, L. 118-2-4 et L. 119-2 et par celles des chapitres VI et VII qui
+précèdent, les chambres de commerce et d'industrie, les chambres de métiers et
+de l'artisanat et les chambres d'agriculture peuvent soit individuellement, soit
+en commun organiser des services d'apprentissage chargés de contribuer :
 
 Au placement des jeunes en apprentissage ;
 
 A la préparation des contrats d'apprentissage ;
-
-A la transmission des contrats d'apprentissage au service chargé du contrôle de
-l'application de la législation du travail et des lois sociales dans la branche
-d'activité dont relève l'employeur ;
 
 A l'élaboration de documents statistiques sur l'apprentissage, notamment à la
 demande du commission départementale de l'emploi et de l'insertion ;

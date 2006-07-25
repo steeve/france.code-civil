@@ -16,16 +16,20 @@ du ministre chargé de la jeunesse et des sports.
 
 Dès sa conclusion, la convention est adressée par l'employeur au directeur du
 centre de formation d'apprentis ou, dans le cas d'une section d'apprentissage,
-au responsable d'établissement, qui la transmet, accompagnée de son avis, au
-service chargé de l'enregistrement du contrat ainsi qu'au recteur ou au
-directeur régional de l'agriculture et de la forêt ou au directeur régional de
-la jeunesse, des sports et des loisirs. La convention peut recevoir application
-dès réception par l'employeur de l'accord, fondé sur la nature ou la qualité ou
-les conditions de réalisation de la formation et des activités proposées, du
-recteur ou du directeur régional de l'agriculture et de la forêt ou du directeur
+au responsable d'établissement, qui la transmet, accompagnée de son avis, à
+l'organisme chargé de l'enregistrement du contrat et au directeur départemental
+du travail, de l'emploi et de la formation professionnelle ou au chef de service
+mentionné au II de l'article R. 117-2 ainsi qu'au recteur ou au directeur
+régional de l'agriculture et de la forêt ou au directeur régional de la
+jeunesse, des sports et des loisirs. La convention peut recevoir application dès
+réception par l'employeur de l'accord, fondé sur la nature ou la qualité ou les
+conditions de réalisation de la formation et des activités proposées, du recteur
+ou du directeur régional de l'agriculture et de la forêt ou du directeur
 régional de la jeunesse, des sports et des loisirs. La convention peut également
 recevoir application à défaut d'opposition de l'autorité compétente, après
 l'expiration d'un délai d'un mois à compter de sa réception par l'autorité
 compétente. En cas de refus, le recteur ou le directeur régional de
 l'agriculture et de la forêt ou le directeur régional et la jeunesse, des sports
-et des loisirs en informe le service chargé de l'enregistrement du contrat.
+et des loisirs en informe l'organisme chargé de l'enregistrement du contrat et
+le directeur départemental du travail, de l'emploi et de la formation
+professionnelle ou le chef de service mentionné ci-dessus.

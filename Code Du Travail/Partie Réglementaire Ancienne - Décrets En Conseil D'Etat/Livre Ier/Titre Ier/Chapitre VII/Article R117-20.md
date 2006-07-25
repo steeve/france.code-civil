@@ -13,4 +13,7 @@ personne chargée de l'examen.
 Les conclusions de cet examen sont adressées au juge du contrat lorsque la
 vérification a été ordonnée par lui et, dans tous les cas, aux parties, au
 directeur du centre ou, dans le cas d'une section d'apprentissage, au
-responsable d'établissement et au service qui a enregistré le contrat.
+responsable d'établissement et au directeur départemental du travail, de
+l'emploi et de la formation professionnelle ou au chef de service mentionné au
+II de l'article R. 117-2 du lieu d'exécution du contrat d'apprentissage, par
+l'intermédiaire de l'organisme ayant enregistré le contrat.

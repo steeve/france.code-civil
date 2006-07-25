@@ -6,3 +6,6 @@ créditeur du compte de participation aux résultats défini à l'article A. 331
 Le montant minimal annuel de la participation aux bénéfices est égal au montant
 défini à l'alinéa précédent diminué du montant des intérêts crédités aux
 provisions mathématiques.
+
+Le présent article ne s'applique pas aux contrats mentionnés à l'article L.
+142-1.

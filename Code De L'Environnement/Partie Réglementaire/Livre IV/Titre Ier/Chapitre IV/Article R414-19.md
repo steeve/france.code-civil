@@ -24,14 +24,15 @@ titre des articles L. 122-1 à L. 122-3 et des articles R. 122-1 à R. 122-16 ;
 d) Si, bien que dispensés d'une étude ou d'une notice d'impact par application
 des articles R. 122-4 à R. 122-9, ils relèvent d'un autre régime d'autorisation
 ou d'approbation et appartiennent à l'une des catégories figurant sur une liste
-arrêtée par le ou les préfets des départements concernés ou, le cas échéant, par
-l'autorité militaire compétente. Cette liste est arrêtée pour chaque site ou
-pour un ensemble de sites, en fonction des exigences écologiques spécifiques aux
-habitats et aux espèces pour lesquels le ou les sites ont été désignés. Elle
-distingue les projets de travaux, d'ouvrages ou d'aménagements des programmes de
-travaux, d'ouvrages ou d'aménagements. Pour ces derniers, une évaluation est
-conduite selon la procédure prévue aux articles L. 122-4 et suivants. Elle est
-affichée dans chacune des communes concernées et publiée au Recueil des actes
+arrêtée, en association avec le comité de pilotage Natura 2000, par le ou les
+préfets des départements concernés ou, le cas échéant, par l'autorité militaire
+compétente. Cette liste est arrêtée pour chaque site ou pour un ensemble de
+sites, en fonction des exigences écologiques spécifiques aux habitats et aux
+espèces pour lesquels le ou les sites ont été désignés. Elle distingue les
+projets de travaux, d'ouvrages ou d'aménagements des programmes de travaux,
+d'ouvrages ou d'aménagements. Pour ces derniers, une évaluation est conduite
+selon la procédure prévue aux articles L. 122-4 et suivants. Elle est affichée
+dans chacune des communes concernées et publiée au Recueil des actes
 administratifs, ainsi que dans un journal diffusé dans le département.
 
 Dans tous les cas, l'évaluation porte également, le cas échéant, sur l'incidence

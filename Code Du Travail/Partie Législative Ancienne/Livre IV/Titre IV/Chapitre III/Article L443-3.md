@@ -40,3 +40,11 @@ surveillance des fonds communs de placement régis par les articles L. 214-39 et
 L. 214-40 du même code. En ce cas, il est fait application des dispositions
 desdits articles. Le règlement précise les modalités de désignation de ces
 conseils.
+
+L'entreprise dont les titres ne sont pas admis aux négociations sur un marché
+réglementé et qui a proposé ses titres aux adhérents de son plan d'épargne
+d'entreprise sans déterminer le prix de cession conformément aux dispositions
+législatives et réglementaires relatives à l'évaluation de ses titres ne
+bénéficie pas, au titre de cette opération, des exonérations fiscales et
+sociales prévues au dernier alinéa de l'article L. 443-5 et à l'article L.
+443-8..

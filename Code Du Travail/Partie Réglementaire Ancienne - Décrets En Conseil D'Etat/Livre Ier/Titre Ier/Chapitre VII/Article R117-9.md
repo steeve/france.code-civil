@@ -8,6 +8,6 @@ contrat d'apprentissage doit être accompagné, en vue de son enregistrement, de
 la fiche médicale d'aptitude délivrée par le médecin du travail.
 
 Dans les autres cas, la fiche médicale doit être transmise au plus tard dans les
-quinze jours qui suivent l'enregistrement du contrat au service chargé de cet
-enregistrement. A défaut, ce service informe l'inspecteur ou le contrôleur du
-travail.
+quinze jours qui suivent l'enregistrement du contrat à l'organisme chargé de cet
+enregistrement, qui l'adresse sans délai à la direction départementale du
+travail, de l'emploi et de la formation professionnelle ou au service assimilé.

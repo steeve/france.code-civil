@@ -1,28 +1,19 @@
 Article R414-9
 ----
-Le document d'objectifs contient :
+Le document d'objectifs établi par le comité de pilotage Natura 2000 est soumis
+à l'approbation du préfet du département ou du préfet coordonnateur mentionné à
+l'article R. 414-8 qui peut, s'il estime que le document ne permet pas
+d'atteindre les objectifs qui ont présidé à la création du site, demander sa
+modification.
 
-1° Une analyse décrivant l'état initial de conservation et la localisation des
-habitats naturels et des espèces qui ont justifié la désignation du site, les
-mesures réglementaires de protection qui y sont le cas échéant applicables, les
-activités humaines exercées sur le site, notamment les pratiques agricoles et
-forestières ;
+Lorsque le document d'objectifs n'a pas été soumis à l'approbation du préfet
+dans un délai de deux ans à compter de la création du comité de pilotage ou si,
+dans ce délai, celui-ci n'a pas procédé aux modifications qui lui ont été
+demandées, le préfet arrête le document d'objectifs du site Natura 2000 après en
+avoir informé le comité de pilotage et avoir recueilli ses observations.
 
-2° Les objectifs de développement durable du site destinés à assurer la
-conservation et, s'il y a lieu, la restauration des habitats naturels et des
-espèces ainsi que la sauvegarde des activités économiques, sociales et
-culturelles qui s'exercent sur le site ;
-
-3° Des propositions de mesures de toute nature permettant d'atteindre ces
-objectifs ;
-
-4° Un ou plusieurs cahiers des charges types applicables aux contrats Natura
-2000 prévus aux articles R. 414-13 et suivants précisant notamment les bonnes
-pratiques à respecter et les engagements donnant lieu à contrepartie financière
-;
-
-5° L'indication des dispositifs en particulier financiers destinés à faciliter
-la réalisation des objectifs ;
-
-6° Les procédures de suivi et d'évaluation des mesures proposées et de l'état de
-conservation des habitats naturels et des espèces.
+Lorsque des terrains relevant du ministère de la défense sont inclus dans le
+périmètre d'un site Natura 2000, l'avis du commandant de la région terre doit
+être recueilli préalablement à l'approbation du document d'objectifs. Les
+mesures qui concernent les terrains relevant du ministère de la défense et les
+espaces aériens adjacents doivent obtenir son accord.

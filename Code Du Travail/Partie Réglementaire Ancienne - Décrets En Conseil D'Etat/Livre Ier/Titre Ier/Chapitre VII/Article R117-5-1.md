@@ -16,13 +16,17 @@ l'entreprise d'accueil de se garantir en matière de responsabilité civile.
 
 Dès sa conclusion, la convention est adressée par l'employeur au directeur du
 centre de formation d'apprentis ou, dans le cas d'une section d'apprentissage,
-au responsable d'établissement, qui la transmet au service chargé de
-l'enregistrement du contrat ainsi qu'au recteur ou au directeur régional de
-l'agriculture et de la forêt ; elle peut recevoir application dès reception par
-l'employeur de l'accord de l'inspecteur de l'apprentissage, ou, à défaut,
-d'opposition de celui-ci, après l'expiration d'un délai d'un mois à compter de
-sa transmission au directeur du centre de formation d'apprentis ou, dans le cas
-d'une section d'apprentissage, du responsable d'établissement [*délai, date*].
+au responsable d'établissement, qui la transmet à l'organisme chargé de
+l'enregistrement du contrat et au directeur départemental du travail, de
+l'emploi et de la formation professionnelle ou au chef de service assimilé
+mentionné au II de l'article R. 117-2, ainsi qu'au recteur, au directeur
+régional de l'agriculture et de la forêt ou au directeur régional de la
+jeunesse, des sports et de la vie associative ; elle peut recevoir application
+dès reception par l'employeur de l'accord de l'inspecteur de l'apprentissage,
+ou, à défaut, d'opposition de celui-ci, après l'expiration d'un délai d'un mois
+à compter de sa transmission au directeur du centre de formation d'apprentis ou,
+dans le cas d'une section d'apprentissage, du responsable d'établissement
+[*délai, date*].
 
 Pendant l'exécution de la convention, l'apprenti continue de suivre les
 enseignements dispensés par le centre de formation ou la section d'apprentissage
