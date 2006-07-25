@@ -1,16 +1,23 @@
 Article 21-2
 ----
 L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité
-française peut, après un délai de deux ans à compter du mariage, acquérir la
+française peut, après un délai de quatre ans à compter du mariage, acquérir la
 nationalité française par déclaration à condition qu'à la date de cette
 déclaration la communauté de vie tant affective que matérielle n'ait pas cessé
-entre les époux et que le conjoint français ait conservé sa nationalité. Le
-conjoint étranger doit en outre justifier d'une connaissance suffisante, selon
-sa condition, de la langue française.
+entre les époux depuis le mariage et que le conjoint français ait conservé sa
+nationalité.
 
-Le délai de communauté de vie est porté à trois ans lorsque l'étranger, au
-moment de sa déclaration, ne justifie pas avoir résidé de manière ininterrompue
-pendant au moins un an en France à compter du mariage.
+Le délai de communauté de vie est porté à cinq ans lorsque l'étranger, au moment
+de la déclaration, soit ne justifie pas avoir résidé de manière ininterrompue et
+régulière pendant au moins trois ans en France à compter du mariage, soit n'est
+pas en mesure d'apporter la preuve que son conjoint français a été inscrit
+pendant la durée de leur communauté de vie à l'étranger au registre des Français
+établis hors de France. En outre, le mariage célébré à l'étranger doit avoir
+fait l'objet d'une transcription préalable sur les registres de l'état civil
+français.
+
+Le conjoint étranger doit en outre justifier d'une connaissance suffisante,
+selon sa condition, de la langue française.
 
 La déclaration est faite dans les conditions prévues aux articles 26 et
 suivants. Par dérogation aux dispositions de l'article 26-1, elle est
