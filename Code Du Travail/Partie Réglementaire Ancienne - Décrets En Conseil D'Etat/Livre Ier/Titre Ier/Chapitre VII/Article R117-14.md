@@ -1,13 +1,16 @@
 Article R117-14
 ----
-Si le contrat ne satisfait pas à toutes les conditions fixées par les articles
-L. 117-1 à L. 117-13 et par les présentes dispositions, une décision motivée
-portant refus d'enregistrement doit être adressée aux parties sous la forme
-d'une lettre recommandée avec demande d'avis de réception. Avis de ce refus est
-donné au directeur du centre de formation d'apprentis ou, dans le cas d'une
-section d'apprentissage, au responsable d'établissement ainsi qu'à l'organisme
-ayant transmis le contrat si celui-ci est différent.
+Un exemplaire du contrat enregistré, accompagné de ses éventuelles pièces
+annexes, est transmis, sans délai, par l'organisme consulaire mentionné à
+l'article R. 117-13 aux parties ainsi qu'à la direction départementale du
+travail, de l'emploi et de la formation professionnelle ou au service assimilé
+du lieu d'exécution du contrat d'apprentissage.
 
-Faute de décision de refus d'enregistrement dans le délai de quinze jours à
-compter de la date de réception du contrat par le service compétent,
-l'enregistrement est de droit.
+L'organisme consulaire adresse copie du contrat à l'union de recouvrement des
+cotisations de sécurité sociale ou à la caisse de mutualité sociale agricole
+compétente, à la caisse de retraite complémentaire dont relève l'employeur, à la
+région dans laquelle est implanté l'entreprise ou l'établissement qui emploie
+l'apprenti, au directeur du centre de formation d'apprentis ou, dans le cas
+d'une section d'apprentissage, au responsable d'établissement, au service chargé
+de l'inspection de l'apprentissage ainsi qu'au service chargé du suivi
+statistique des contrats d'apprentissage.

@@ -17,7 +17,5 @@ la commission départementale de l'emploi et de l'insertion ;
 3. Les personnes possédant une expérience professionnelle de cinq ans en rapport
 avec le diplôme ou le titre préparé par l'apprenti après avis du recteur, du
 directeur régional de l'agriculture et de la forêt ou du directeur régional de
-la jeunesse, des sports et des loisirs.
-
-Faute de réponse dans un délai de quinze jours suivant le dépôt de la demande,
-l'autorisation prévue à l'alinéa ci-dessus est réputée acquise.
+la jeunesse, des sports et des loisirs. Faute de réponse dans un délai d'un mois
+suivant la saisine de l'autorité compétente, l'avis est réputé favorable.
