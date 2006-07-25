@@ -81,3 +81,8 @@ Le directeur du bureau d'enquêtes techniques et administratives après accident
 
 Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA
 TT).
+
+3° En application de l'article 40 de la loi n° 2003-495 du 12 juin 2003
+renforçant la lutte contre la violence routière :
+
+Le directeur du bureau enquêtes accidents défense air (BEAD-air).
