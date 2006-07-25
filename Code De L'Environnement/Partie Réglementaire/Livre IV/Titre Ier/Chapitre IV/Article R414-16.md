@@ -1,10 +1,9 @@
 Article R414-16
 ----
-Les aides financières accordées au titre des contrats Natura 2000 sont versées
-par le Centre national pour l'aménagement des structures des exploitations
-agricoles (CNASEA), dans le cadre d'une convention passée entre l'Etat et le
-CNASEA.
+Lorsque tout ou partie d'un terrain sur lequel porte un contrat Natura 2000 fait
+l'objet d'une cession, l'acquéreur peut s'engager à poursuivre les engagements
+souscrits. Dans ce cas, les engagements souscrits sont transférés à l'acquéreur
+et donnent lieu à un avenant qui prend en compte le changement de cocontractant.
 
-Le CNASEA exerce cette activité et en rend compte au ministre chargé de
-l'environnement et au ministre chargé de l'agriculture dans les conditions
-prévues à l'article R. 313-14 du code rural.
+A défaut de transfert, le contrat est résilié de plein droit et le préfet statue
+sur le remboursement des sommes perçues par le cédant.
