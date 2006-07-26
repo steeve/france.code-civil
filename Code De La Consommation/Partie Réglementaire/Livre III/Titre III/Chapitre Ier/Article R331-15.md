@@ -17,9 +17,10 @@ demande d'avis de réception.
 Les ordonnances mentionnées aux alinéas précédents ne sont pas susceptibles
 d'appel.
 
-Le jugement statuant sur la remise de l'adjudication est notifié par lettre
-recommandée avec demande d'avis de réception par le greffe du tribunal de grande
-instance à la commission, au débiteur ainsi qu'au créancier poursuivant.
+Le jugement statuant sur la remise de la vente forcée est notifié par lettre
+recommandée avec demande d'avis de réception par le greffe du juge de
+l'exécution qui connaît de la saisie immobilière, à la commission, au débiteur
+ainsi qu'au créancier poursuivant et aux créanciers inscrits.
 
 La notification indique que ce jugement n'est susceptible ni d'appel, ni
 d'opposition.

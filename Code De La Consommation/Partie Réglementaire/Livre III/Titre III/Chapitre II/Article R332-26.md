@@ -1,7 +1,8 @@
 Article R332-26
 ----
-La vente sur saisie immobilière est soumise aux dispositions du titre XII du
-livre V du code de procédure civile, dans la mesure où il n'y est pas dérogé par
+La vente sur saisie immobilière est soumise aux dispositions du décret n°
+2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de
+distribution du prix d'un immeuble, dans la mesure où il n'y est pas dérogé par
 les dispositions de la présente section.
 
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente sur

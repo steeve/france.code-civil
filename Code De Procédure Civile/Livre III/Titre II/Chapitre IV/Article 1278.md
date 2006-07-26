@@ -1,7 +1,8 @@
 Article 1278
 ----
-Sont déclarés communs au présent chapitre les articles 701, 705 à 707, 711 à
-713, 733 à 741 b et 742 du code de procédure civile.
+Sont déclarés communs au présent chapitre les dispositions des articles 72 à 82,
+87, 89, 90, 100 à 106 du décret n° 2006-936 du 27 juillet 2006 relatif aux
+procédures de saisie immobilière et de distribution du prix d'un immeuble.
 
 Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être
 faites sans ministère d'avocat.

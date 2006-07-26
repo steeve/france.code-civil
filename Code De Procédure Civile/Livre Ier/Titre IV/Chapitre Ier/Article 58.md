@@ -11,9 +11,9 @@ domicile, nationalité, date et lieu de naissance du demandeur ;
 Pour les personnes morales : l'indication de leur forme, leur dénomination, leur
 siège social et de l'organe qui les représente légalement ;
 
-2° L'indication des noms et domicile de la personne contre laquelle la demande
-est formée, ou, s'il s'agit d'une personne morale, de sa dénomination et de son
-siège social ;
+2° L'indication des nom, prénoms et domicile de la personne contre laquelle la
+demande est formée, ou, s'il s'agit d'une personne morale, de sa dénomination et
+de son siège social ;
 
 3° L'objet de la demande.
 

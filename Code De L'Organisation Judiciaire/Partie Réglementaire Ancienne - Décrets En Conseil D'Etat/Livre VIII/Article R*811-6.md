@@ -3,9 +3,9 @@ Article R*811-6
 Le greffe du juge de l'exécution est le secrétariat-greffe du tribunal de grande
 instance.
 
-Toutefois, lorsque le juge chargé de l'instance a été désigné pour exercer les
-fonctions de juge de l'exécution, le secrétariat-greffe compétent est celui du
-tribunal d'instance.
+Toutefois à l'exception de la procédure de saisie immobilière, lorsque le juge
+chargé de l'instance a été désigné pour exercer les fonctions de juge de
+l'exécution, le secrétariat-greffe compétent est celui du tribunal d'instance.
 
 En cas de renvoi à la formation collégiale, le dossier est transmis dans les
 huit jours de l'ordonnance de renvoi au secrétariat-greffe du tribunal de grande
