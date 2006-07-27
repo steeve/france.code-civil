@@ -1,16 +1,15 @@
 Article R332-70
 ----
-Est puni des peines prévues pour les contraventions de la 3e classe le fait de
-contrevenir à celles des dispositions de la décision de classement comme réserve
-naturelle qui réglementent :
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de
+contrevenir à la réglementation applicable à la réserve naturelle concernant :
 
-1° La circulation et le stationnement des personnes, des animaux ou des
-véhicules, le bivouac, le camping ou le stationnement dans un véhicule ou une
-remorque habitable ou tout autre abri de camping ;
+1° L'abandon, le dépôt, le jet, le déversement ou le rejet des ordures, déchets,
+matériaux ou tout autre objet de quelque nature que ce soit ;
 
-2° L'exercice de la plongée sous-marine ;
+2° La circulation et le stationnement des personnes et des véhicules autres que
+des véhicules terrestres à moteur, la circulation et la divagation des animaux,
+le bivouac, le stationnement et le camping dans un véhicule ou une remorque
+habitable ou tout autre abri mobile ;
 
-3° La recherche, la poursuite et l'approche, en vue de la prise de vues ou de
-son, notamment de la chasse photographique, des animaux qui figurent sur la
-liste limitative des espèces non domestiques protégées ainsi que des animaux
-d'autres espèces, lorsque la décision de classement le prévoit.
+3° L'exercice de la plongée sous-marine et l'usage d'engins à moteur conçus pour
+la progression sous la mer.

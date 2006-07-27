@@ -1,11 +1,16 @@
 Article R331-64
 ----
-Est puni de l'amende prévue pour les contraventions de la 2e classe le fait, en
-méconnaissance de la réglementation d'un parc national :
+Est puni de l'amende prévue pour les contraventions de la 3e classe le fait de
+contrevenir à la réglementation applicable au coeur du parc national concernant
+:
 
-1° D'abandonner, de déposer ou de jeter en dehors des lieux spécialement
-désignés à cet effet des ordures, déchets, matériaux ou tout autre détritus de
-quelque nature qu'il soit, ou de déverser des huiles de vidange ;
+1° L'abandon, le dépôt, le jet, le déversement ou le rejet des ordures, déchets,
+matériaux ou tout autre objet de quelque nature que ce soit ;
 
-2° D'utiliser un appareil ou un instrument dont le bruit est susceptible de
-troubler le calme et la tranquillité des lieux.
+2° La circulation et le stationnement des personnes et des véhicules autres que
+des véhicules terrestres à moteur, la circulation et la divagation des animaux,
+le bivouac, le stationnement et le camping dans un véhicule ou une remorque
+habitable ou tout autre abri mobile ;
+
+3° L'exercice de la plongée sous-marine et l'usage d'engins à moteur conçus pour
+la progression sous la mer.

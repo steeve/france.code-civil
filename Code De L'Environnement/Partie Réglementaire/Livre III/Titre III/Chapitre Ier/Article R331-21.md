@@ -1,7 +1,10 @@
 Article R331-21
 ----
-Le conseil peut créer une commission permanente qui doit comprendre des
-représentants des trois catégories définies à l'article R.* 331-16.
-
-Il peut déléguer à cette commission et au directeur certaines de ses
-attributions.
+La réglementation et la charte du parc peuvent prévoir, au profit de catégories
+de personnes énumérées à l'article L. 331-4-2, dans les zones du coeur du parc
+qu'elles identifient, des exceptions aux interdictions qu'elles édictent en
+matière notamment d'activités commerciales nécessaires à un tourisme compatible
+avec les objectifs du parc, d'utilisation des eaux, de circulation et, sans
+préjudice de l'application des dispositions particulières aux espèces animales
+et végétales, de prélèvement d'animaux ou de végétaux pour leur consommation
+personnelle.

@@ -29,4 +29,8 @@ ou de travaux soumis à enquête publique en application des articles R. 123-1 �
 R. 123-33 du code de l'environnement ;
 
 h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de
-l'article R. 421-16.
+l'article R. 421-16 ;
+
+i) Lorsque la construction est située dans un espace compris dans le périmètre
+du coeur d'un parc national ou ayant vocation à y figurer au sens de l'article
+L. 331-6 du code de l'environnement.

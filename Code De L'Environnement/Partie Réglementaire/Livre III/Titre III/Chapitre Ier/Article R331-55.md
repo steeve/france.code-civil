@@ -1,5 +1,5 @@
 Article R331-55
 ----
-L'application de la réglementation édictée par le décret créant les " réserves
-intégrales " incombe à l'établissement investi des attributions et pouvoirs
-prévus par ce même décret.
+Les indemnités éventuellement dues en raison des mesures prises en application
+des articles L. 331-2, L. 331-9 et L. 331-16 sont à la charge de
+l'établissement.

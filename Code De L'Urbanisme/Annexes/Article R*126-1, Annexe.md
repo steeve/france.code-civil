@@ -45,8 +45,8 @@ articles L. 332-1 à L. 332-19-1 du code de l'environnement ;
 Périmètres de protection autour des réserves naturelles institués en application
 des articles L. 332-16 à L. 332-18 du code de l'environnement ;
 
-Parcs nationaux classés en application des articles L. 331-1 à L. 331-7 du code
-de l'environnement.
+Règles prévues au I de l'article L. 331-4 du code de l'environnement applicables
+dans le coeur d'un parc national.
 
 e) Zones agricoles protégées.
 

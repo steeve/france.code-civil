@@ -1,4 +1,5 @@
 Article R331-51
 ----
-La publicité dans la zone périphérique s'exerce dans les conditions fixées par
-l'article L. 581-7 et le I de l'article L. 581-8.
+Lorsque le parc national comporte des espaces maritimes, le représentant de
+l'Etat en mer est membre du conseil d'administration de l'établissement public
+du parc national.

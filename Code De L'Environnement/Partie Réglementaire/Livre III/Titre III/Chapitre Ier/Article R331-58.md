@@ -1,15 +1,11 @@
 Article R331-58
 ----
-Les demandes d'indemnités ainsi que les demandes d'acquisition prévues à
-l'article R. 331-57 sont adressées au directeur de l'établissement par lettre
-recommandée avec demande d'avis de réception.
+A défaut d'accord amiable dans les six mois de la réception de la demande, ou si
+l'établissement public n'a pas répondu dans le délai fixé au dernier alinéa de
+l'article R. 331-57, l'intéressé peut saisir le juge de l'expropriation dans le
+ressort duquel sont situés les biens par lettre recommandée avec demande d'avis
+de réception adressée au secrétariat dudit juge.
 
-Elles précisent les sommes demandées et comportent les justifications dont
-l'intéressé entend faire état.
-
-Elles comportent l'indication des autres titulaires de droits réels ou de droits
-personnels sur les immeubles dont il s'agit.
-
-L'établissement doit répondre dans un délai de quatre mois à dater de la
-réception de la demande ; cette réponse est motivée et précise les sommes
-offertes.
+Le juge statue sur les indemnités, sur le droit du demandeur d'exiger
+l'acquisition de ses biens par l'établissement public et éventuellement sur le
+prix de la cession.

@@ -1,6 +1,14 @@
 Article R331-44
 ----
-Le décret confiant l'aménagement, la gestion et la réglementation du parc à
-l'établissement public détermine, sous réserve de l'application des dispositions
-du présent chapitre, les modalités de son contrôle économique, financier,
-administratif et technique.
+Les délibérations du conseil d'administration sont exécutoires de plein droit si
+le commissaire du Gouvernement n'y fait pas opposition dans le délai de quinze
+jours qui suit soit la date de réunion du conseil d'administration s'il y a
+assisté ou s'il y était représenté, soit la date de réception du procès-verbal
+de la séance.
+
+Lorsqu'il demande par écrit des informations ou documents complémentaires, le
+délai est suspendu jusqu'à la production de ces informations ou documents.
+
+Le commissaire du Gouvernement peut demander dans les délais susmentionnés une
+seconde délibération. En ce cas, la délibération, pour être confirmée, doit être
+adoptée à la majorité des membres composant le conseil d'administration.

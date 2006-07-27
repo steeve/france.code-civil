@@ -6,8 +6,9 @@ naturelle réglementant ou interdisant :
 
 1° Les activités agricoles, pastorales, forestières ;
 
-2° La chasse, la pêche en eau douce et la pêche maritime, la pêche sous-marine
-ou le port des armes ou engins correspondants ;
+2° La pêche en eau douce, la pêche maritime et la pêche sous-marine ou le port
+des armes ou engins correspondants ou leur détention dans un véhicule ou une
+embarcation circulant dans la réserve naturelle ;
 
 3° Les travaux publics ou privés, y compris ceux qui sont faits sur des
 bâtiments, la recherche ou l'exploitation de matériaux ou minerais, les
@@ -16,5 +17,5 @@ activités photographiques, cinématographiques, radiophoniques ou de télévisi
 le survol de la réserve ;
 
 4° L'utilisation, à des fins publicitaires, et sous quelque forme que ce soit,
-de la dénomination d'une réserve naturelle ou de l'appellation " réserve
-naturelle ", à l'intérieur ou en dehors des réserves.
+de la dénomination d'une réserve naturelle ou de l'appellation "réserve
+naturelle", à l'intérieur ou en dehors des réserves.

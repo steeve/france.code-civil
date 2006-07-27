@@ -1,12 +1,8 @@
 Article R331-2
 ----
-Au cours des études préliminaires à la création d'un parc et, éventuellement, à
-celle d'une zone périphérique autour de celui-ci, les conseils municipaux des
-communes dont le territoire pourrait être inclus dans le parc ou la zone
-périphérique, les conseils généraux, les chambres d'agriculture et les chambres
-de commerce et d'industrie des départements en cause sont invités à faire
-connaître leur avis sur le principe de ces créations.
+Le groupement d'intérêt public prévu par l'article L. 331-3 est constitué
+conformément aux dispositions de l'article L. 131-8 et aux dispositions
+réglementaires prises pour son application.
 
-Il en est de même du Conseil national de la protection de la nature et du comité
-interministériel des parcs nationaux qui donnent, en outre, leur avis sur les
-modalités de ces créations.
+Il mène les études préalables à la création d'un parc national et élabore un
+dossier permettant d'apprécier l'intérêt de cette création.

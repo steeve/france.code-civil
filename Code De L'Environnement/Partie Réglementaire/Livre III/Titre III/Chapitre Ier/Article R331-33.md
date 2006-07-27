@@ -1,11 +1,17 @@
 Article R331-33
 ----
-L'établissement peut exécuter certains travaux publics afférents au domaine
-public ou privé des collectivités et établissements locaux et, notamment,
-procéder à la construction de voies communales ou de chemins ruraux, à condition
-d'avoir obtenu l'accord des assemblées des collectivités et établissements
-intéressés.
+Un conseil économique, social et culturel assiste le conseil d'administration et
+le directeur notamment en matière de politique contractuelle, de suivi de la
+mise en oeuvre de la charte et d'animation de la vie locale.
 
-Les dépenses afférentes à l'exécution et à l'entretien des ouvrages incombent à
-la collectivité ou à l'établissement local et à l'établissement national dans
-une proportion fixée par accord.
+Ce conseil est composé de représentants d'organismes, d'associations et de
+personnalités qui, en raison de leur objet ou de leur qualité participent à
+l'activité économique, sociale et culturelle dans le parc ou concourent à la vie
+locale, ainsi que des représentants des habitants et des usagers du parc.
+
+La composition de ce conseil et les conditions de nomination de ses membres sont
+fixées par le règlement intérieur adopté par le conseil d'administration. Le
+conseil élit son président.
+
+Le président du conseil économique, social et culturel présente un rapport
+annuel d'activité au conseil d'administration.

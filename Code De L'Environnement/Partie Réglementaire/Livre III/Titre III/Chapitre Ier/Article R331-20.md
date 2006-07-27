@@ -1,13 +1,20 @@
 Article R331-20
 ----
-Le conseil est convoqué par son président et se réunit au moins deux fois par
-an.
+La réglementation et la charte du parc peuvent prévoir, au profit de catégories
+de personnes énumérées à l'article L. 331-4-2, des dispositions plus favorables,
+compatibles avec les objectifs de protection du coeur du parc, pour
+l'attribution d'une autorisation lorsque celle-ci porte sur les travaux suivants
+:
 
-En cas de partage, la voix du président de séance est prépondérante.
+1° Travaux de rénovation, de modification ou d'extension des habitations
+existantes lors du classement du coeur du parc national, sous réserve qu'aucune
+entrave aux activités agricoles, pastorales ou forestières n'en résulte et
+qu'aucune voie d'accès nouvelle ne soit aménagée ;
 
-Le président peut inviter à siéger, avec voix consultative, pour une affaire
-déterminée, toute personne qu'il estime utile d'entendre.
+2° Travaux de restauration d'un bâtiment dont il reste l'essentiel des murs
+porteurs lorsque son intérêt architectural ou patrimonial justifie son maintien,
+sous réserve d'en respecter les principales caractéristiques et de ne pas
+aménager de nouvelle voie d'accès ;
 
-Le commissaire du Gouvernement et, le cas échéant, son adjoint mentionnés à
-l'article R. 331-22, ainsi que le contrôleur financier ou le contrôleur d'Etat
-assistent aux séances avec voix consultative.
+3° Travaux sur les autres bâtiments existants modifiant leur aspect extérieur ou
+leur destination.

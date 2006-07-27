@@ -1,13 +1,10 @@
 Article R331-12
 ----
-Le décret est publié et affiché dans chacune des communes dont le territoire est
-totalement ou partiellement inclus dans le parc et sa zone périphérique ; une
-copie du plan du parc national et, s'il y a lieu, de sa zone périphérique est
-déposée à la mairie de chacune d'elles.
+En vue de l'information du public, le décret de création est affiché pendant un
+mois dans les mairies des communes intéressées.
 
-L'accomplissement de ces formalités est certifié par le maire qui adresse à
-cette fin un bulletin d'affichage et de dépôt à la préfecture.
+Un avis relatif au décret de création est inséré par les soins du préfet dans
+deux journaux diffusés dans les départements intéressés.
 
-En outre, à la diligence du préfet, le texte du décret est inséré en caractères
-apparents dans deux des journaux diffusés dans chacun des départements
-intéressés.
+Le décret de création est mis à disposition du public sur le site internet du
+ministère chargé de la protection de la nature pendant au moins six mois.

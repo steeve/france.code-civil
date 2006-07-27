@@ -1,21 +1,13 @@
 Article R331-5
 ----
-I. - Le préfet prend un arrêté prescrivant l'ouverture d'une enquête sur le
-projet au vu du dossier défini à l'article R.* 331-4.
+Le dossier de création, accompagné des avis recueillis en application de
+l'article R. 331-4, est soumis par le ministre chargé de la protection de la
+nature au Premier ministre qui décide s'il convient de prendre en considération
+le projet de création du parc.
 
-II. - Cet arrêté précise :
+Cette décision est publiée au Journal officiel de la République française.
 
-1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée,
-qui ne pourra être inférieure à quinze jours ;
-
-2° Les heures et les lieux où le public pourra prendre connaissance du dossier
-d'enquête et formuler les observations sur un registre, à feuillets non mobiles,
-ouvert à cet effet, coté et paraphé par le préfet ou le sous-préfet.
-
-III. - L'arrêté est publié par voies d'affiches et, éventuellement, par tous
-autres procédés, dans chacune des communes incluses dans la zone projetée pour
-le parc et dans toutes autres communes désignées par le préfet.
-L'accomplissement de cette mesure de publicité est certifié par le maire.
-
-IV. - L'arrêté est, en outre, inséré en caractères apparents dans deux des
-journaux diffusés dans le département.
+En vue de l'information du public, lorsque le projet de création d'un parc est
+pris en considération, la décision et le plan de délimitation des espaces ayant
+vocation à être classés dans un coeur de parc sont affichés pendant un mois dans
+les mairies des communes intéressées.

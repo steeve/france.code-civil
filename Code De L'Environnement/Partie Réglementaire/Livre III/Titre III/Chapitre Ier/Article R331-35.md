@@ -1,16 +1,15 @@
 Article R331-35
 ----
-Les pouvoirs conférés au directeur de l'établissement par la présente
-sous-section ne peuvent être exercés que pour assurer la conservation de la
-faune, de la flore, du sol, du sous-sol, de l'atmosphère, des eaux et en général
-du milieu naturel du parc, pour préserver ce milieu contre tout effet de
-dégradation naturelle et le soustraire à toute intervention artificielle
-susceptible d'en altérer l'aspect, la composition et l'évolution.
+Lorsque le directeur prend un acte réglementaire dans le cadre de l'exercice des
+pouvoirs de police qui lui sont reconnus par l'article L. 331-10, il en informe
+le conseil d'administration.
 
-Ces pouvoirs ne peuvent être exercés que dans la mesure nécessaire à
-l'accomplissement de la mission de l'établissement, conformément aux
-dispositions du décret créant le parc et dans les limites déterminées par ce
-décret.
+Lorsque le directeur exerce les compétences qui lui sont reconnues par l'article
+L. 331-19-1 pour la répression et la poursuite des contraventions de grande
+voirie, il notifie au préfet copie du procès-verbal de contravention dans les
+dix jours suivant la rédaction de celui-ci.
 
-Ils ne peuvent s'exercer que conformément aux principes posés par le conseil
-d'administration.
+Les actes réglementaires du directeur sont affichés pendant deux mois au siège
+de l'établissement public du parc et publiés dans les trois mois suivant leur
+intervention dans un recueil tenu à la disposition du public au siège de
+l'établissement.

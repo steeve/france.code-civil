@@ -1,8 +1,10 @@
 Article R331-36
 ----
-Le directeur prend par arrêté les mesures nécessaires à l'application des
-sujétions, interdictions et réglementations édictées par les dispositions
-législatives et réglementaires du présent chapitre et par le décret créant le
-parc.
+Les techniciens et les agents techniques de l'environnement de la spécialité
+"espaces protégés" qui sont commissionnés et assermentés sont assujettis au port
+de signes distinctifs dont la liste est fixée par arrêté du ministre chargé de
+l'environnement.
 
-Il accorde, dans le cadre de ces textes, toutes autorisations.
+Ils sont astreints à porter, dans les conditions définies par arrêté du ministre
+chargé de l'environnement, l'équipement et l'armement qui leur sont fournis par
+l'administration.

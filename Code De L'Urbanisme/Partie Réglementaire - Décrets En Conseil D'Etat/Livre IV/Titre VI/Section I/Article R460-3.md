@@ -26,10 +26,10 @@ construction et de l'habitation relatifs aux établissements recevant du public
 et à l'article R. 421-53 du présent code ; dans ce cas il est effectué en
 liaison avec le directeur départemental des services d'incendie et de secours ;
 
-c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national
-créé en application des articles L. 331-1 à L. 331-7 du code de l'environnement,
-soit à l'intérieur d'une réserve naturelle soumise aux dispositions des articles
-L. 332-1 à L. 332-19-1 du code de l'environnement ;
+c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un coeur de parc
+national créé en application des articles L. 331-1 et L. 331-2 du code de
+l'environnement, soit à l'intérieur d'une réserve naturelle soumise aux
+dispositions des articles L. 332-1 à L. 332-19-1 du code de l'environnement ;
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de
 prévention des risques naturels prévisibles prévu par l'article L. 562-1 du code

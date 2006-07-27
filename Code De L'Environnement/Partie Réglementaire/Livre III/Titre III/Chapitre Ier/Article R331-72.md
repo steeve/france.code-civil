@@ -1,15 +1,16 @@
 Article R331-72
 ----
-Ainsi qu'il est dit au b du 3° de l'article R. 48-1 du code de procédure pénale
-partiellement reproduit ci-après :
+Les personnes morales reconnues responsables dans les conditions prévues à
+l'article 121-2 du code pénal des infractions prévues par la présente section
+encourent les peines suivantes :
 
-" Art. R. 48-1. - Les contraventions des quatre premières classes pour
-lesquelles l'action publique est éteinte par le paiement d'une amende
-forfaitaire sont les suivantes : ...
+1° L'amende dans les conditions fixées à l'article 131-41 du code pénal ;
 
-3° Contraventions en matière de protection de l'environnement réprimées par :
-...
+2° La confiscation de la chose qui a servi ou était destinée à commettre
+l'infraction ou de la chose qui en est le produit.
 
-b) Les articles R. 331-63, R. 331-64 et R. 331-65 (1° et 2°) du code de
-l'environnement ainsi que l'article R. 331-68 de ce même code en ce qu'il
-concerne les mêmes articles. "
+Elles encourent, en outre, lorsqu'elles sont reconnues responsables
+d'infractions prévues aux articles R. 331-67 à R. 331-70 du présent code, la
+peine d'interdiction, pour une durée de trois ans au plus, d'émettre des chèques
+autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré
+ou ceux qui sont certifiés.

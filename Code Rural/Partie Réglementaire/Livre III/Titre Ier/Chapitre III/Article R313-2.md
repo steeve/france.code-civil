@@ -56,7 +56,10 @@ l'environnement ;
 
 18° Un représentant des consommateurs ;
 
-19° Deux personnes qualifiées.
+19° Deux personnes qualifiées ;
+
+20° S'il y a lieu, un représentant de l'établissement public du parc national
+situé pour tout ou partie dans le département.
 
 Les membres de la commission pour lesquels la possibilité de se faire
 représenter n'est pas prévue sont pourvus chacun de deux suppléants.

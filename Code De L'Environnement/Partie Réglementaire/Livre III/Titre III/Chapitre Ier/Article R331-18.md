@@ -1,6 +1,8 @@
 Article R331-18
 ----
-Les membres des conseils d'administration des parcs nationaux autres que les
-élus locaux sont nommés pour une durée de trois ans, les élus locaux pour la
-durée de leur mandat électif. Le mandat des membres sortants peut être
-renouvelé.
+Le décret de création du parc fixe la liste des travaux qui peuvent faire
+l'objet de l'autorisation spéciale prévue par le I de l'article L. 331-4.
+
+Des travaux qui ne figurent pas sur cette liste peuvent néanmoins être autorisés
+après avis du comité interministériel des parcs nationaux et du Conseil national
+de la protection de la nature.

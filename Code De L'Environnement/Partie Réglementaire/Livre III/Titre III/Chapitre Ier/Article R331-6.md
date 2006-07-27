@@ -1,7 +1,9 @@
 Article R331-6
 ----
-Les opérations de l'enquête ont lieu dans la ou les sous-préfectures ou à la
-préfecture pour l'arrondissement siège du chef-lieu du département ; toutefois,
-un registre complémentaire sur feuillets non mobiles, coté et paraphé par le
-maire, et un dossier d'enquête sont déposés dans chacune des mairies des
-communes où l'arrêté du préfet a été publié.
+La demande d'autorisation prévue par l'article L. 331-6 est soumise au préfet,
+qui statue après avis du conseil scientifique régional du patrimoine naturel.
+
+Le silence gardé par le préfet pendant plus de cinq mois sur la demande
+d'autorisation vaut décision de rejet.
+
+L'autorisation n'est pas requise pour les travaux d'entretien normal.

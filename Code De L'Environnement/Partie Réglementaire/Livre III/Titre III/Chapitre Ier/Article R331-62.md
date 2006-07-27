@@ -1,10 +1,11 @@
 Article R331-62
 ----
-Le comité interministériel est consulté sur les projets concernant la
-réglementation générale et la création des parcs nationaux et de leurs
-éventuelles zones périphériques ainsi que sur l'aménagement de celles-ci.
-
-Il peut être également consulté par l'un des ministres intéressés sur toute
-question se rapportant à ces parcs et zones périphériques, notamment sur la
-répartition, entre les différents parcs nationaux et zones périphériques, des
-crédits budgétaires spécialement affectés.
+Au sens de la présente sous-section, la réglementation applicable au coeur du
+parc national s'entend des dispositions législatives et réglementaires
+applicables aux parcs nationaux, des règles générales de protection du ou des
+coeurs de parc fixées par le décret de création, des modalités d'application par
+la charte du parc de ces règles générales ainsi que des dispositions
+réglementaires applicables au coeur du parc édictées par le directeur de
+l'établissement public du parc national en vertu des pouvoirs de police qui lui
+sont reconnus et par le maire dans le cas prévu au dernier alinéa de l'article
+L. 331-10.
