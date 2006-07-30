@@ -19,11 +19,10 @@ deux ans mentionné au premier alinéa court à compter de la remise du rapport 
 diagnostic et en cas de fouilles, de la délivrance de l'attestation préfectorale
 ou du certificat prévus par l'article 53 dudit décret.
 
-Le délai de validité du permis de construire est suspendu, le cas échéant,
-pendant la durée du sursis à exécution de la décision portant octroi dudit
-permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en
-cas d'annulation du permis de construire prononcée par jugement du tribunal
-administratif frappé d'appel, jusqu'à la décision rendue par le conseil d'Etat.
+Lorsque le permis de construire fait l'objet d'un recours en annulation devant
+la juridiction administrative ou d'un recours devant la juridiction civile en
+application de l'article L. 480-13, le délai de validité de ce permis est
+suspendu jusqu'à la notification de la décision juridictionnelle irrévocable.
 
 Il peut être prorogé pour une nouvelle année, sur demande de son bénéficiaire
 adressée à l'autorité administrative deux mois au moins avant l'expiration du
