@@ -8,8 +8,7 @@ fonctionnaires ou agents non titulaires de l'Etat, notamment :
 - les inspecteurs de la santé publique vétérinaire et les ingénieurs du génie
 rural, des eaux et des forêts ;
 
-- les ingénieurs des travaux agricoles, les ingénieurs des travaux ruraux, les
-ingénieurs des travaux des eaux et forêts ;
+- les ingénieurs de l'agriculture et de l'environnement ;.
 
 - les techniciens des services du ministère de l'agriculture ;
 
