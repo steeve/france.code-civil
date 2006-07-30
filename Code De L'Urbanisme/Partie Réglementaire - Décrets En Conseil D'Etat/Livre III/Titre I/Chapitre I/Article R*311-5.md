@@ -2,9 +2,8 @@ Article R*311-5
 ----
 L'acte qui crée la zone d'aménagement concerté en délimite le ou les périmètres.
 Il indique le programme global prévisionnel des constructions à édifier à
-l'intérieur de la zone. Il mentionne si le mode de réalisation choisi relève
-soit des 1° et 2° de l'article R. 311-6, soit du 3° du même article, ainsi que
-le régime applicable au regard de la taxe locale d'équipement.
+l'intérieur de la zone. Il mentionne le régime applicable au regard de la taxe
+locale d'équipement.
 
 Il est affiché pendant un mois en mairie ou au siège de l'établissement public
 de coopération intercommunale compétent et, dans ce cas, dans les mairies des

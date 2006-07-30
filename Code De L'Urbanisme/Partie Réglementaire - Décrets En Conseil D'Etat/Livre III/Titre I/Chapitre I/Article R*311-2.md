@@ -22,5 +22,4 @@ c) Un plan de délimitation du ou des périmètres composant la zone ;
 d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement.
 
 Le dossier précise également si la taxe locale d'équipement sera ou non exigible
-dans la zone. Il mentionne si le mode de réalisation choisi relève soit des 1°
-et 2° de l'article R. 311-6, soit du 3° du même article.
+dans la zone.
