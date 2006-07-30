@@ -14,7 +14,7 @@ Toutefois, lorsque tous les cas de non-conformité affectés de la valeur la plu
 taux de réduction de ce domaine est fixé à 5 %.
 
 II. - Lorsque le respect des exigences réglementaires relevant des domaines
-mentionnés au II de l'article D. 615-21 est contrôlé, et que des cas de
+mentionnés au II de l'article D. 615-57 est contrôlé, et que des cas de
 non-conformité sont constatés, il est déterminé un taux de réduction par domaine
 selon les modalités ci-après :
 
