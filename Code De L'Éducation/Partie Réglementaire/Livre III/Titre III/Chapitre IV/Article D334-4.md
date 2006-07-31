@@ -36,4 +36,5 @@ peuvent choisir à l'examen.
 L'inscription au baccalauréat impose aux candidats de subir la totalité des
 épreuves obligatoires sous réserve des dispositions prévues aux articles D.
 334-6, D. 334-7, D. 334-12, D. 334-13, D. 334-14 et au dernier alinéa de
-l'article D. 334-19.
+l'article D. 334-19 et sous réserve de dispositions particulières prévues par
+arrêté du ministre chargé de l'éducation.
