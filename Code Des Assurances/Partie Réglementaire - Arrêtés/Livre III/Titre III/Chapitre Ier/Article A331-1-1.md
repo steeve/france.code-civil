@@ -2,11 +2,11 @@ Article A331-1-1
 ----
 1° Les provisions mathématiques des contrats de capitalisation, d'assurance
 nuptialité-natalité, d'acquisition d'immeubles au moyen de la constitution de
-rentes viagères, d'assurance sur la vie dont les tarifs prennent effet à compter
-du 1er juillet 1993, doivent être calculées d'après des taux d'intérêt au plus
-égaux à ceux retenus pour l'établissement du tarif et, s'ils comportent un
-élément viager, d'après les tables de mortalité mentionnées à l'article A.
-335-1.
+rentes viagères, d'assurance sur la vie, doivent être calculées d'après des taux
+d'intérêt au plus égaux à ceux retenus pour l'établissement du tarif et, s'ils
+comportent un élément viager et sous réserve du premier alinéa de l'article A.
+331-1-2, d'après les tables de mortalité appropriées mentionnées à l'article A.
+335-1 en vigueur à l'époque de l'application du tarif.
 
 2° La provision globale de gestion mentionnée au 4° de l'article R. 331-3 est
 dotée, à due concurrence, de l'ensemble des charges de gestion future des
@@ -30,13 +30,13 @@ l'exercice.
 
 Ce taux de rendement est calculé, au titre de chaque exercice, sur la base :
 
-- d'une part, du rendement hors plus-values des obligations et titres assimilés
+-d'une part, du rendement hors plus-values des obligations et titres assimilés
 en portefeuille et présumés détenus jusqu'à leur échéance et, pour le réemploi
 des coupons et des obligations à échoir pendant les cinq premières années
 suivant l'exercice considéré, de 75 % du taux moyen semestriel des emprunts
 d'Etat, et, au-delà, de 60 % du taux moyen semestriel des emprunts d'Etat ;
 
-- d'autre part, pour les autres actifs, de 70 % du rendement hors plus-values du
+-d'autre part, pour les autres actifs, de 70 % du rendement hors plus-values du
 portefeuille obligataire constaté en moyenne sur l'exercice considéré et les
 deux exercices précédents ;
 
@@ -61,13 +61,14 @@ La provision globale de gestion est la somme des provisions ainsi calculées.
 
 3° Les entreprises peuvent calculer les provisions mathématiques de tous leurs
 contrats en cours, en appliquant lors de tous les inventaires annuels ultérieurs
-les bases techniques définies au présent article.
+les taux mentionnés au premier alinéa et les tables de mortalité appropriées en
+vigueur à la date de l'inventaire.
 
-Cette possibilité n'est pas ouverte pour les contrats conclus avant l'entrée en
-vigueur du présent arrêté, pour lesquels l'actif représentatif des engagements
-correspondants est isolé dans la comptabilité de l'entreprise et a été déterminé
-de manière à pouvoir procurer un taux de rendement supérieur d'au moins un tiers
-au taux d'intérêt du tarif.
+Cette possibilité n'est pas ouverte pour les contrats, pour lesquels l'actif
+représentatif des engagements correspondants est isolé dans la comptabilité de
+l'entreprise et a été déterminé de manière à pouvoir procurer un taux de
+rendement supérieur d'au moins un tiers au taux d'intérêt du tarif.
 
-Les entreprises peuvent répartir sur une période de huit ans au plus les effets
-de la modification des bases de calcul des provisions mathématiques.
+Pour l'application du présent 3°, les entreprises peuvent répartir sur une
+période de huit ans au plus les effets de la modification des bases de calcul
+des provisions mathématiques.

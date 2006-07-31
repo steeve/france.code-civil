@@ -44,3 +44,8 @@ demander aux employeurs, aux travailleurs indépendants, aux personnes occupées
 dans l'entreprise ou sur le lieu de travail ainsi qu'à toute personne dont ils
 sont amenés à recueillir les déclarations dans l'exercice de leur mission de
 justifier de leur identité et de leur adresse.
+
+Les agents mentionnés au premier alinéa peuvent, sur demande écrite, obtenir des
+services du représentant de l'Etat tous renseignements ou tous documents
+relatifs à l'autorisation d'exercice ou à l'agrément d'une profession
+réglementée.

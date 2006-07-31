@@ -17,7 +17,7 @@ actions, parts ou droits émis par des sociétés commerciales ainsi que des dro
 réels immobiliers.
 
 Ces hypothèses figurent dans le modèle d'état T 3 annexé à l'article A. 344-13.
-La commission de contrôle peut néanmoins demander aux entreprises d'autres
+L'Autorité de contrôle peut néanmoins demander aux entreprises d'autres
 simulations sur le fondement d'autres valeurs.
 
 II. - Simulations sur l'actif
@@ -60,14 +60,12 @@ d'une part les valeurs négociées sur un marché reconnu au sens de l'article R
 mobilières investis exclusivement dans de telles valeurs d'autre part les titres
 de même nature non négociés sur un tel marché.
 
-III. - Simulations sur les provisions mathématiques
-
-vie et non-vie
+III. - Simulations sur les provisions mathématique vie et non-vie
 
 Les provisions techniques mentionnées aux 1° et 2° de l'article R. 331-3 et au
 1° de l'article R. 331-6 sont évaluées comme suit :
 
-- la provision pour participation aux excédents est évaluée à sa dernière valeur
+- la provision pour participation aux bénéfices est évaluée à sa dernière valeur
 comptable connue ;
 
 - les engagements d'assurance vie et engagements viagers d'assurance non-vie, à

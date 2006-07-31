@@ -1,7 +1,7 @@
 Article A132-6
 ----
 Lorsque l'unité de compte est une part ou une action d'OPCVM, les
-caractéristiques principales mentionnées à l'article L. 132-5-1 sont :
+caractéristiques principales de celle-ci sont :
 
 1° Présentation succincte : la dénomination de l'organisme, sa forme juridique,
 le nom de la société de gestion et des éventuels délégataires de gestion ;
