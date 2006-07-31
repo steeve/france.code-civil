@@ -1,6 +1,6 @@
 Article R5124-23
 ----
-Sous réserve des dispositions des articles R. 5124-24 à R. 5124-28, l'organe
+Sous réserve des dispositions des articles R. 5124-25 à R. 5124-28, l'organe
 social compétent d'une entreprise ou d'un organisme mentionné à l'article R.
 5124-2 désigne, en même temps que le pharmacien responsable, un ou plusieurs
 pharmaciens responsables intérimaires.

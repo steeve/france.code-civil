@@ -23,11 +23,7 @@ l'article R. 5124-36 ;
 2° Dans les organismes à but non lucratif à vocation humanitaire, le président,
 un vice-président ou l'une des personnes chargées de la direction ;
 
-3° Dans le Laboratoire français du fractionnement et des biotechnologies, soit
-le directeur général, soit un directeur général adjoint placé sous l'autorité
-directe du directeur général ;
-
-4° Dans les établissements distributeurs en gros de médicaments dérivés du sang,
+3° Dans les établissements distributeurs en gros de médicaments dérivés du sang,
 un membre de leur direction.
 
 Dans la pharmacie centrale des armées et dans les établissements de
