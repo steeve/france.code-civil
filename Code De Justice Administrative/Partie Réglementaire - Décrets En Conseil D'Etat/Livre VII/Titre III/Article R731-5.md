@@ -1,5 +1,5 @@
 Article R731-5
 ----
-Postérieurement au prononcé des conclusions du commissaire du Gouvernement,
-toute partie à l'instance peut adresser au président de la formation de jugement
-une note en délibéré.
+Les personnes qui, à un titre quelconque, participent ou assistent au délibéré
+sont soumises à l'obligation d'en respecter le secret, sous les sanctions
+prévues par l'article 226-13 du code pénal.
