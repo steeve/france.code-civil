@@ -1,7 +1,7 @@
 Article D214-8
 ----
-Il est tenu, pour les animaux de l'espèce canine, un livre généalogique unique,
-divisé en autant de sections que de races.
+Il est tenu, pour les animaux des espèces canines et félines, un livre
+généalogique unique, divisé en autant de sections que de races.
 
 Le livre est tenu par une fédération nationale agréée, ouverte notamment aux
 associations spécialisées par race.
@@ -14,7 +14,7 @@ agréée.
 L'agrément est accordé en tenant compte notamment de la régularité de la
 constitution et du fonctionnement de l'association, de la définition de ses
 objectifs, de l'importance des effectifs concernés et de l'organisation générale
-de l'élevage canin.
+de l'élevage canin et félin.
 
 L'association spécialisée agréée est alors chargée de définir les standards de
 la race ainsi que les règles techniques de qualification des animaux au livre

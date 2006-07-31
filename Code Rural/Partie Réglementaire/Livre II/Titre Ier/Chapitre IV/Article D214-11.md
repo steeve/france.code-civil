@@ -1,7 +1,7 @@
 Article D214-11
 ----
-Les inscriptions au livre généalogique peuvent s'effectuer selon quatre
-modalités :
+Les inscriptions des animaux de l'espèce canine au livre généalogique peuvent
+s'effectuer selon quatre modalités :
 
 1° Au titre de la descendance, quand il s'agit des sujets issus de géniteurs
 eux-mêmes inscrits à titre définitif au livre généalogique dans la même section

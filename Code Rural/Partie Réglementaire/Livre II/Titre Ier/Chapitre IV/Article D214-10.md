@@ -1,7 +1,7 @@
 Article D214-10
 ----
-La confirmation est obligatoire pour les reproducteurs des deux sexes ; elle ne
-peut avoir lieu avant l'âge de dix mois.
+La confirmation est obligatoire pour les reproducteurs de l'espèce canine des
+deux sexes ; elle ne peut avoir lieu avant l'âge de dix mois.
 
 Cette confirmation peut être effectuée à partir de critères différents pour
 chaque sexe et comprendre plusieurs qualifications ; la classe la plus élevée

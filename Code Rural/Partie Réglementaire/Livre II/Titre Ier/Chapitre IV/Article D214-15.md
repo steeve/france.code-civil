@@ -1,7 +1,7 @@
 Article D214-15
 ----
 Pour l'examen et la solution de toutes les questions relevant des modalités
-d'application des articles D. 214-7 à D. 214-14, il est créé, auprès de la
+d'application des articles D. 214-8 à D. 214-14, il est créé, auprès de la
 fédération tenant le livre généalogique, une commission scientifique et
 technique composée en nombre égal, d'une part, d'éleveurs désignés par la
 fédération tenant le livre généalogique, d'autre part, de personnalités
