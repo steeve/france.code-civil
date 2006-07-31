@@ -4,5 +4,4 @@ Les contrats passés antérieurement au 1er janvier 1986 entre un
 artiste-interprète et un producteur d'oeuvre audiovisuelle ou leurs
 cessionnaires sont soumis aux dispositions qui précèdent, en ce qui concerne les
 modes d'exploitation qu'ils excluaient. La rémunération correspondante n'a pas
-le caractère de salaire. Ce droit à rémunération s'éteint au décès de
-l'artiste-interprète.
+le caractère de salaire.

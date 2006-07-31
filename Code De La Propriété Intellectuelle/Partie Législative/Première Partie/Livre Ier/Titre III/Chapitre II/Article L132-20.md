@@ -15,4 +15,13 @@ son émission vers un satellite permettant la réception de cette oeuvre par
 l'intermédiaire d'organismes tiers, à moins que les auteurs ou leurs ayants
 droit aient contractuellement autorisé ces organismes à communiquer l'oeuvre au
 public ; dans ce cas, l'organisme d'émission est exonéré du paiement de toute
-rémunération.
+rémunération ;
+
+4° L'autorisation de télédiffuser une oeuvre par voie hertzienne comprend la
+distribution à des fins non commerciales de cette télédiffusion sur les réseaux
+internes aux immeubles ou ensembles d'immeubles collectifs à usage d'habitation
+installés par leurs propriétaires ou copropriétaires, ou par les mandataires de
+ces derniers, à seule fin de permettre le raccordement de chaque logement de ces
+mêmes immeubles ou ensembles d'immeubles collectifs à usage d'habitation à des
+dispositifs collectifs de réception des télédiffusions par voie hertzienne
+normalement reçues dans la zone.

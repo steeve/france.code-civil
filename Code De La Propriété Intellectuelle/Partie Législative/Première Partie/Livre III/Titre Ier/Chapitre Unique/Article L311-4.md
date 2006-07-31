@@ -8,3 +8,8 @@ de la mise en circulation en France de ces supports.
 
 Le montant de la rémunération est fonction du type de support et de la durée
 d'enregistrement qu'il permet.
+
+Ce montant tient compte du degré d'utilisation des mesures techniques définies à
+l'article L. 331-5 et de leur incidence sur les usages relevant de l'exception
+pour copie privée. Il ne peut porter rémunération des actes de copie privée
+ayant déjà donné lieu à compensation financière.

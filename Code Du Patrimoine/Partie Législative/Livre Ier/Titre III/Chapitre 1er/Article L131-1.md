@@ -10,3 +10,7 @@ b) La constitution et la diffusion de bibliographies nationales ;
 c) La consultation des documents mentionnés à l'article L. 131-2, sous réserve
 des secrets protégés par la loi, dans les conditions conformes à la législation
 sur la propriété intellectuelle et compatibles avec leur conservation.
+
+Les organismes dépositaires doivent se conformer à la législation sur la
+propriété intellectuelle sous réserve des dispositions particulières prévues par
+le présent titre.

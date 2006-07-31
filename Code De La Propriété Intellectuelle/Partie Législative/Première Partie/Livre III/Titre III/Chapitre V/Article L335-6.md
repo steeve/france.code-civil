@@ -1,10 +1,10 @@
 Article L335-6
 ----
-Dans tous les cas prévus par les quatre articles précédents, le tribunal peut
-prononcer la confiscation de tout ou partie des recettes procurées par
-l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et
-exemplaires contrefaisants ou reproduits illicitement et du matériel
-spécialement installé en vue de la réalisation du délit.
+En cas de condamnation pour l'un des délits prévus et réprimés au présent
+chapitre, le tribunal peut prononcer la confiscation de tout ou partie des
+recettes procurées par l'infraction ainsi que celle de tous les phonogrammes,
+vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement et
+du matériel spécialement installé en vue de la réalisation du délit.
 
 Il peut également ordonner, aux frais du condamné, l'affichage du jugement
 prononçant la condamnation dans les conditions et sous les peines prévues à
