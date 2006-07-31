@@ -30,8 +30,6 @@ compétentes ;
 
 - d'un représentant du conseil économique et social ;
 
-- d'un membre du Conseil d'Etat ;
-
 - d'un représentant de la commission de la main-d'oeuvre, du Centre d'analyse
 stratégique et de la productivité ;
 

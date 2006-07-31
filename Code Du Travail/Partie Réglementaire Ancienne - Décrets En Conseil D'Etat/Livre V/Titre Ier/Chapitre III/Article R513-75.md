@@ -2,13 +2,11 @@ Article R513-75
 ----
 Chaque commission de contrôle des opérations de vote comprend :
 
-- un magistrat en activité ou honoraire de l'ordre judiciaire ou de l'ordre
-administratif, désigné selon les cas par le premier président de la cour
-d'appel, ou par le président du tribunal administratif, président ;
+- un magistrat en activité ou honoraire de l'ordre judiciaire, désigné par le
+premier président de la cour d'appel, président ;
 
 - un membre désigné par la même autorité parmi les anciens magistrats de l'ordre
-judiciaire ou de l'ordre administratif ou les auxiliaires de justice du
-département ;
+judiciaire ou les auxiliaires de justice du département ;
 
 - un fonctionnaire, désigné par le préfet, qui assure le secrétariat de la
 commission.

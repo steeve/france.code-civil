@@ -1,11 +1,11 @@
 Article R323-88
 ----
 Une section permanente est créée au sein du Conseil supérieur. Elle est chargée
-[*attributions*] d'étudier les questions qui lui sont soumises par le ministre
-chargé du travail ou par le Conseil supérieur.
+d'étudier les questions qui lui sont soumises par le ministre chargé du travail
+ou par le Conseil supérieur.
 
 Elle est présidée par le ministre chargé du travail ou son représentant et
-comprend [*composition*] les membres ci-après du conseil supérieur :
+comprend les membres ci-après du conseil supérieur :
 
 Le ministre chargé de la santé publique, vice-président, ou son représentant ;
 
@@ -17,8 +17,6 @@ Le représentant du premier ministre (fonction publique) ;
 Le représentant du ministre de l'agriculture ;
 
 Le représentant du ministre de l'intérieur ;
-
-Le membre du conseil d'Etat ;
 
 Cinq représentants des associations de personnes handicapées, à caractère
 national ;

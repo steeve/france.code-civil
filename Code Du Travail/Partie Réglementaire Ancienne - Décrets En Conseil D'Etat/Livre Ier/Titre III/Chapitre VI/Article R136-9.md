@@ -10,13 +10,10 @@ l'article L. 136-3 :
 
 3° Le ministre chargé de l'économie ou son représentant ;
 
-4° Le président de la section sociale du Conseil d'Etat ou un conseiller d'Etat
-membre de ladite section ;
-
-5° Cinq représentants des salariés, à raison d'un pour chacune des organisations
+4° Cinq représentants des salariés, à raison d'un pour chacune des organisations
 syndicales représentées à la commission nationale ;
 
-6° Cinq représentants des employeurs, à raison d'un au titre du Conseil national
+5° Cinq représentants des employeurs, à raison d'un au titre du Conseil national
 du patronat français, d'un au titre de la Confédération générale des petites et
 moyennes entreprises, d'un au titre des professions agricoles, d'un au titre de
 l'Union professionnelle artisanale et d'un au titre de l'Union nationale des
