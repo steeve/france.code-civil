@@ -1,7 +1,7 @@
 Article R145-2
 ----
 La demande est accompagnée d'un dossier constitué par un rapport et des
-documents graphiques décrivant [*contenu*]:
+documents graphiques décrivant *contenu*:
 
 1° L'état du site et de son environnement, celui du bâti, des infrastructures et
 des équipements touristiques existants avec leurs conditions de fréquentation
