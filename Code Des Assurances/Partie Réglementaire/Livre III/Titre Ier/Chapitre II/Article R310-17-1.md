@@ -1,7 +1,7 @@
 Article R310-17-1
 ----
 I. - Toute entreprise d'assurance disposant de l'agrément mentionné à l'article
-L. 413-1 et projetant de fournir des services d'institutions de retraite
+L. 143-1 et projetant de fournir des services d'institutions de retraite
 professionnelle sur le territoire d'un autre Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
 européen, conformément aux dispositions de l'article L. 310-12-7, notifie son
