@@ -26,6 +26,14 @@ titres admis à la négociation sur un marché réglementé, l'engagement collec
 de conservation est soumis aux dispositions de l'article L. 233-11 du code de
 commerce.
 
+L'engagement collectif de conservation est réputé acquis lorsque les parts ou
+actions détenues depuis deux ans au moins par une même personne physique et son
+conjoint dépassent les seuils prévus au premier alinéa, sous réserve que cette
+personne ou son conjoint exerce depuis plus de deux ans au moins dans la société
+concernée son activité professionnelle principale ou l'une des fonctions
+énumérées au 1° de l'article 885 O bis lorsque la société est soumise à l'impôt
+sur les sociétés.
+
 Pour le calcul des pourcentages prévus au premier alinéa, il est tenu compte des
 titres détenus par une société possédant directement une participation dans la
 société dont les parts ou actions font l'objet de l'engagement collectif de
@@ -69,6 +77,11 @@ attestation de la société dont les parts ou actions font l'objet de l'engageme
 collectif de conservation certifiant que les conditions prévues aux a et b ont
 été remplies jusqu'au jour de la transmission.
 
+A compter de la transmission et jusqu'à l'expiration de l'engagement collectif
+de conservation visé au a, la société doit en outre adresser, dans les trois
+mois qui suivent le 31 décembre de chaque année, une attestation certifiant que
+les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
+
 f. En cas de non-respect de la condition prévue au c par suite de l'apport de
 titres d'une société ayant une activité industrielle, commerciale, artisanale,
 agricole ou libérale à une société dont l'objet unique est la gestion de son
@@ -92,10 +105,25 @@ titres apportés jusqu'au terme de l'engagement prévu au c ;
 des apports doivent conserver, pendant la durée mentionnée au 2°, les titres
 reçus en contrepartie de l'opération d'apport.
 
-A compter de la transmission et jusqu'à l'expiration de l'engagement collectif
-de conservation visé au a, la société doit en outre adresser, dans les trois
-mois qui suivent le 31 décembre de chaque année, une attestation certifiant que
-les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
+g) En cas de non-respect des conditions prévues aux a ou b, par suite d'une
+fusion ou d'une scission au sens de l'article 817 A ou d'une augmentation de
+capital, l'exonération partielle accordée lors d'une mutation à titre gratuit
+avant l'une de ces opérations n'est pas remise en cause si les signataires
+respectent l'engagement prévu au a jusqu'à son terme. Les titres reçus en
+contrepartie de ces opérations doivent être conservés jusqu'au même terme. De
+même, cette exonération n'est pas non plus remise en cause lorsque la condition
+prévue au b n'est pas respectée par suite d'une annulation des titres pour cause
+de pertes ou de liquidation judiciaire ;
+
+h) En cas de non-respect de la condition prévue au c par suite d'une fusion ou
+d'une scission au sens de l'article 817 A ou d'une augmentation de capital,
+l'exonération partielle accordée au titre de la mutation à titre gratuit n'est
+pas remise en cause si les titres reçus en contrepartie de ces opérations sont
+conservés par le signataire de l'engagement jusqu'à son terme.
+
+De même, cette exonération n'est pas remise en cause lorsque la condition prévue
+aux b ou c n'est pas respectée par suite d'une annulation des titres pour cause
+de pertes ou de liquidation judiciaire.
 
 Les dispositions du présent article s'appliquent en cas de donation avec réserve
 d'usufruit à la condition que les droits de vote de l'usufruitier soient

@@ -7,3 +7,7 @@ déposent chaque année, durant une période fixée par arrêté du ministre cha
 l'agriculture, une demande auprès de la direction départementale de
 l'agriculture et de la forêt du département dont ressort le siège social de
 l'exploitation.
+
+En application du premier paragraphe de ce même article, les demandes de prime à
+la vache allaitante doivent, pour être recevables, porter sur un minimum de
+trois animaux éligibles.

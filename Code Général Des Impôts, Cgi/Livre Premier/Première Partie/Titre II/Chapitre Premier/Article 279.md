@@ -52,7 +52,13 @@ théâtres de chansonniers ;
 
 cirques ;
 
-concerts ;
+concerts, à l'exception de ceux qui sont donnés dans des établissements où il
+est d'usage de consommer pendant les séances. Toutefois, si les consommations
+sont servies facultativement pendant le spectacle et à la condition que
+l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la
+catégorie mentionnée au 1° de l'article 1er-1 de l'ordonnance n° 45-2339 du 13
+octobre 1945 relative aux spectacles, le taux réduit s'applique au prix du
+billet donnant exclusivement accès au concert ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les
 établissements où il est d'usage de consommer pendant les séances ;
@@ -63,16 +69,7 @@ jeux et manèges forains à l'exception des appareils automatiques autres que ce
 qui sont assimilés à des loteries foraines en application de l'article 7 de la
 loi du 21 mai 1836 portant prohibition des loteries ;
 
-b bis a. 1° le prix du billet d'entrée donnant exclusivement accès à des
-concerts donnés dans des établissements où il est servi facultativement des
-consommations pendant le spectacle ;
-
-2° les dispositions du 1° s'appliquent aux établissements dont l'exploitant est
-titulaire de la licence de la catégorie mentionnée au 1° de l'article 1er-1 de
-l'ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles qui
-justifient avoir organisé au minimum vingt concerts l'année précédente ;
-
-3° un décret fixe les modalités d'application des 1° et 2° ;
+b bis a. (abrogé)
 
 b ter les droits d'entrée pour la visite des parcs zoologiques et botaniques,
 des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
@@ -152,3 +149,8 @@ application de l'article L. 129-1 du code du travail.
 j) Les rémunérations versées par les collectivités territoriales et leurs
 groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens
 correspondant à l'édition d'un service de télévision locale.
+
+k) Les remboursements et les rémunérations versés par les communes ou leurs
+groupements aux exploitants assurant les prestations de balayage des caniveaux
+et voies publiques lorsqu'elles se rattachent au service public de voirie
+communale.

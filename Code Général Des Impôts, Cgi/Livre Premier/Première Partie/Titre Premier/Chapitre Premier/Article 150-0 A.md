@@ -32,6 +32,11 @@ société dont les titres sont l'objet du contrat, est imposable au titre de
 l'année au cours de laquelle il est reçu, quel que soit le montant des cessions
 au cours de cette année.
 
+Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origine
+dans une clause contractuelle de complément de prix visée au premier alinéa est
+imposé dans les mêmes conditions au titre de l'année de la cession ou de
+l'apport.
+
 3. Lorsque les droits détenus directement ou indirectement par le cédant avec
 son conjoint, leurs ascendants et leurs descendants dans les bénéfices sociaux
 d'une société soumise à l'impôt sur les sociétés et ayant son siège en France

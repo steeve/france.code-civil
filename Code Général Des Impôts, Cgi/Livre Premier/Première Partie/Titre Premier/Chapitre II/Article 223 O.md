@@ -4,9 +4,9 @@ Article 223 O
 le montant de l'impôt sur les sociétés dont elle est redevable au titre de
 chaque exercice :
 
-a. Des avoirs fiscaux et crédits d'impôt attachés aux produits reçus par une
-société du groupe et qui n'ont pas ouvert droit à l'application du régime des
-sociétés mères visé aux articles 145 et 216 ;
+a. Des crédits d'impôt attachés aux produits reçus par une société du groupe et
+qui n'ont pas ouvert droit à l'application du régime des sociétés mères visé aux
+articles 145 et 216 ;
 
 b. Des crédits d'impôt pour dépenses de recherche dégagés par chaque société du
 groupe en application de l'article 244 quater B. Le crédit d'impôt imputable par
@@ -30,9 +30,7 @@ deux années précédentes.
 Les dispositions de l'article 199 ter B s'appliquent au crédit d'impôt imputable
 par la société mère ainsi déterminé.
 
-c. Des crédits d'impôt pour dépenses de formation dégagés par chaque société du
-groupe en application de l'article 244 quater C. Les dispositions du premier
-alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
+c. périmé
 
 d. Des crédits d'impôt pour investissement dégagés par chaque société du groupe
 en application de l'article 244 quater E ; les dispositions de l'article 199 ter
@@ -105,6 +103,9 @@ d'impôt ;
 
 v) Des crédits d'impôt dégagés par chaque société du groupe en application de
 l'article 244 quater R ; l'article 220 V s'applique à la somme de ces crédits
-d'impôt.
+d'impôt ;
+
+w) Des crédits d'impôt dégagés par chaque société du groupe en application de
+l'article 244 quater S (1).
 
 2. (abrogé).

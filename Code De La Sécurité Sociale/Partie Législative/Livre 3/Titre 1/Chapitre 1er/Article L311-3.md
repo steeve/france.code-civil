@@ -19,7 +19,7 @@ situation des sous-agents d'assurances, les mandataires non assujettis à la tax
 professionnelle mentionnés au 4° de l'article R. 511-2 du code des assurances
 rémunérés à la commission, qui effectuent d'une façon habituelle et suivie des
 opérations de présentation d'assurances pour une ou plusieurs entreprises
-d'assurances telles que définies par l'article L. 310-I du code des assurances
+d'assurances telles que définies par l'article L. 310-1 du code des assurances
 et qui ont tiré de ces opérations plus de la moitié de leurs ressources de
 l'année précédente ;
 
@@ -144,4 +144,7 @@ l'existence d'un lien de subordination avec le donneur d'ouvrage ne peut être
 
 28° Les titulaires d'un contrat de volontariat associatif régi par les
 dispositions du titre Ier de la loi n° 2006-586 du 23 mai 2006 relative au
-volontariat associatif et à l'engagement éducatif.
+volontariat associatif et à l'engagement éducatif ;
+
+29° Les arbitres et juges, mentionnés à l'article L. 223-1 du code du sport, au
+titre de leur activité d'arbitre ou de juge.

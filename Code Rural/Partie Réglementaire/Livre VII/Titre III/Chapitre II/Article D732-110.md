@@ -33,7 +33,7 @@ familial et retenue dans les conditions énoncées aux troisième et quatrième
 alinéas du présent article, ouvre droit à seize points de retraite.
 
 Pour les assurés qui justifient d'une durée d'activité non salariée agricole
-comprise entre trente-deux années et demie et trente-sept années et demie, dont
+comprise entre vingt-deux années et demie et trente-sept années et demie, dont
 au moins dix-sept années et demie accomplies en qualité de chef d'exploitation
 ou d'entreprise agricole, le nombre de points de retraite proportionnelle
 attribué pour la période revalorisable en tant qu'aide familial est calculé sur
@@ -42,10 +42,6 @@ application d'un coefficient qui est fonction de l'écart entre, d'une part,
 trente-sept années et demie et, d'autre part, le nombre d'années d'activité non
 salariée agricole accomplies par les intéressés et retenues dans les limites
 définies aux deuxième à quatrième alinéas du présent article. Pour chacune des
-années de l'écart constaté, les coefficients de minoration à appliquer sont de :
-
-1° 15 % pour chacune des deux premières années manquantes ;
-
-2° 10 % pour chacune des trois années suivantes ;
-
-3° 40 % pour la sixième et dernière année.
+années de l'écart constaté, le coefficient de minoration à appliquer est de 5,5
+% au 1er janvier 2007 pour les pensions dues au titre de l'année 2007 et de 4 %
+au 1er janvier 2008 pour les pensions dues à compter du 1er janvier 2008.

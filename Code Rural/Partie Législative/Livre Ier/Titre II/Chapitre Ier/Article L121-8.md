@@ -49,4 +49,4 @@ utile de recueillir l'avis.
 Dans le cas où la commission départementale d'aménagement foncier est appelée à
 statuer sur une opération dans le périmètre de laquelle est comprise une aire
 d'appellation d'origine contrôlée, sa composition est complétée par un
-représentant de l'Institut national des appellations d'origine.
+représentant de l'Institut national de l'origine et de la qualité.

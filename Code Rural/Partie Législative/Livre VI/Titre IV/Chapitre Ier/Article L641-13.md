@@ -1,13 +1,10 @@
 Article L641-13
 ----
-La consultation de l'Institut national de l'origine et de la qualité dans le
-cadre de la procédure d'autorisation d'exploitation de carrières est définie au
-cinquième alinéa de l'article L. 515-1 du code de l'environnement, ci-après
-reproduit :
-
-"Article L. 515-1 (cinquième alinéa) : Toute autorisation d'exploitation de
-carrières est soumise, dans les vignobles classés appellation d'origine
-contrôlée, vin délimité de qualité supérieure, et dans les aires de production
-de vins de pays, à l'avis de l'Institut national des appellations d'origine et
-de l'Office national interprofessionnel des fruits, des légumes, des vins et de
-l'horticulture".
+Peuvent bénéficier de la mention "agriculture biologique" les produits
+agricoles, transformés ou non, qui satisfont aux conditions de production, de
+transformation et de commercialisation posées par le règlement (CE) n° 2092/91
+du 24 juin 1991 concernant le mode de production biologique des produits
+agricoles et sa présentation sur les produits agricoles et les denrées
+alimentaires ou, le cas échéant, aux conditions définies par les cahiers des
+charges homologués par arrêté du ou des ministres intéressés sur proposition de
+l'Institut national de l'origine et de la qualité.

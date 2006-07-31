@@ -8,8 +8,11 @@ rural, au titre IV du livre VII dudit code, et à la charge des personnes ou
 organismes, à l'exception des collectivités locales et de leurs groupements, des
 services départementaux de lutte contre l'incendie, des centres d'action sociale
 dotés d'une personnalité propre lorsqu'ils sont subventionnés par les
-collectivités locales, du centre de formation des personnels communaux et des
-caisses des écoles, qui paient ces rémunérations lorsqu'ils ne sont pas
+collectivités locales, du centre de formation des personnels communaux, des
+caisses des écoles et des établissements d'enseignement supérieur visés au livre
+VII du code de l'éducation qui organisent des formations conduisant à la
+délivrance au nom de l'Etat d'un diplôme sanctionnant cinq années d'études après
+le baccalauréat (1), qui paient ces rémunérations lorsqu'ils ne sont pas
 assujettis à la taxe sur la valeur ajoutée ou ne l'ont pas été sur 90 % au moins
 de leur chiffre d'affaires au titre de l'année civile précédant celle du
 paiement desdites rémunérations. L'assiette de la taxe due par ces personnes ou
@@ -47,8 +50,8 @@ conditions de la concurrence.
 2. (Abrogé).
 
 2 bis. Le taux de la taxe sur les salaires prévue au 1 est porté de 4,25 à 8,50
-% pour la fraction comprise entre 6 563 euros et 13 114 euros et à 13,60 % pour
-la fraction excédant 13 114 euros de rémunérations individuelles annuelles. Ces
+% pour la fraction comprise entre 7 156 euros et 14 295 euros et à 13,60 % pour
+la fraction excédant 14 295 euros de rémunérations individuelles annuelles. Ces
 limites sont relevées chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu de l'année
 précédente. Les montants obtenus sont arrondis, s'il y a lieu, à l'euro

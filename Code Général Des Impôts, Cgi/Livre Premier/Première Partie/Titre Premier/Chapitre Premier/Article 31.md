@@ -5,7 +5,7 @@ comprennent :
 
 1° Pour les propriétés urbaines :
 
-a) Les dépenses de réparation et d'entretien effectivement supportés par le
+a) Les dépenses de réparation et d'entretien effectivement supportées par le
 propriétaire ;
 
 a bis) les primes d'assurance ;
@@ -570,14 +570,25 @@ principale. Pour l'application du premier alinéa, le loyer et les ressources du
 locataire appréciées à la date de conclusion du bail ne doivent pas excéder des
 plafonds fixés à des niveaux inférieurs à ceux prévus au premier alinéa du j. La
 location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un
-descendant du contribuable, une personne occupant déjà le logement ou, si
-celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés,
-l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant
-d'un associé. Les associés d'une société non soumise à l'impôt sur les sociétés
-doivent conserver leurs parts pendant toute la durée de la convention.
+descendant du contribuable, une personne occupant déjà le logement, sauf à
+l'occasion du renouvellement du bail, ou si le logement est la propriété d'une
+société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un
+membre du foyer fiscal, un ascendant ou un descendant d'un associé. Les associés
+d'une société non soumise à l'impôt sur les sociétés doivent conserver leurs
+parts pendant toute la durée de la convention.
 
-Ces dispositions sont exclusives de celles prévues aux f à l et à l'article 199
-undecies A.
+Lorsqu'elle fait l'objet d'une convention mentionnée à l'article L. 321-8 du
+code de la construction et de l'habitation, la location du logement consentie
+dans les mêmes conditions à un organisme public ou privé pour le logement ou
+l'hébergement de personnes physiques à usage d'habitation principale, à
+l'exclusion du propriétaire du logement, des membres de son foyer fiscal ou de
+ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction,
+à la condition que cet organisme ne fournisse aucune prestation hôtelière ou
+parahôtelière. Un décret précise les modalités d'appréciation des loyers et des
+ressources de l'occupant ainsi que les conditions de cette location.
+
+Ces dispositions sont exclusives de celles prévues aux f à l, à l'article 199
+decies I et à l'article 199 undecies A.
 
 n) Une déduction fixée à 30 % des revenus bruts des logements qui ont donné
 lieu, au titre de l'année qui précède celle de la conclusion du bail, au

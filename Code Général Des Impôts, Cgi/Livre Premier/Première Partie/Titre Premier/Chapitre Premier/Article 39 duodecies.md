@@ -87,10 +87,11 @@ dans le cadre de leur activité.
 Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement
 loué avant d'être vendu et que l'acheteur est le locataire lui-même.
 
-8. En cas de cession par le prêteur initial de titres qui lui sont restitués à
-l'issue d'un contrat de prêt mentionné à l'article L. 432-6 du code monétaire et
-financier, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date
-de la première inscription à son bilan des titres prêtés.
+8. En cas de cession par le prêteur ou le constituant initial de titres
+restitués à l'issue d'un prêt mentionné à l'article L. 432-6 du code monétaire
+et financier ou d'une remise en garantie réalisée dans les conditions prévues à
+l'article 38 bis-0 A bis, le délai de deux ans prévu aux 2 et 4 s'apprécie à
+compter de la date de la première inscription à son bilan des titres restitués.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue
 pendant un exercice postérieur à celui au cours duquel la vente est intervenue,

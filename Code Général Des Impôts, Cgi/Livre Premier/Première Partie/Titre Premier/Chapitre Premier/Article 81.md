@@ -116,6 +116,24 @@ b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre
 l'accomplissement du volontariat civil en application de l'article L. 122-12 du
 code du service national ;
 
+c. l'allocation et la prime versées dans le cadre du contrat de volontariat pour
+l'insertion conformément à l'article L. 130-3 du code du service national ;
+
+d. l'indemnité versée dans le cadre d'un contrat de volontariat de solidarité
+internationale en application de l'article 7 de la loi n° 2005-159 du 23 février
+2005 relative au contrat de volontariat de solidarité internationale ;
+
+e. l'indemnité versée et l'avantage résultant de la contribution de
+l'association ou de la fondation d'utilité publique au financement de
+titres-repas dans le cadre d'un contrat de volontariat associatif en application
+des articles 9 et 11 de la loi n° 2006-586 du 23 mai 2006 relative au
+volontariat associatif et à l'engagement éducatif ;
+
+f. l'avantage résultant pour le bénévole de la contribution de l'association au
+financement de chèques-repas en application de l'article 12 de la loi n°
+2006-586 du 23 mai 2006 relative au volontariat associatif et à l'engagement
+éducatif ;
+
 17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de
 l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné
 aux articles L. 225-192 et L. 225-196 du code de commerce ;
@@ -136,37 +154,31 @@ constitués conformément au chapitre III du titre IV du livre IV du code du
 travail ;
 
 L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans
-les conditions prévues au huitième alinéa de l'article L. 441-2 du code du
-travail, à la direction départementale du travail, de l'emploi et de la
-formation professionnelle du lieu où il a été conclu.
+les conditions prévues aux neuvième et dixième alinéas de l'article L. 441-2 du
+code du travail, auprès de l'autorité administrative compétente. .
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes
 conditions et limites aux dividendes des actions de travail attribuées aux
 salariés des sociétés anonymes à participation ouvrière régies par la loi du 26
 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 4,80 euros par titre, le complément de rémunération
+19° Dans la limite de 4,98 euros par titre, le complément de rémunération
 résultant de la contribution de l'employeur à l'acquisition par le salarié des
 titres-restaurant émis conformément aux dispositions du titre III de
 l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est
 comprise entre un minimum et un maximum fixés par arrêté du ministre de
 l'économie et des finances. La limite d'exonération est relevée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
-barème de l'impôt sur le revenu et arrondie, s'il y a lieu, au centime d'euro le
-plus proche.
+barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des
+titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux
 obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée
 du 27 septembre 1967 et les textes pris pour son application ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition
-des chèques-vacances conformément à l'article L. 411-5 du code du tourisme
-ci-après reproduit :
-
-"Art. L. 411-5 - L'avantage résultant de la contribution de l'employeur à
-l'acquisition des chèques-vacances par les salariés est exonéré de l'impôt sur
-le revenu, dans la limite du salaire minimum de croissance apprécié sur une base
-mensuelle" ;
+des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4
+et L. 411-5 du code du tourisme ;
 
 19° ter a. L'avantage résultant de la prise en charge obligatoire par
 l'employeur du prix des titres d'abonnement souscrits par les salariés pour les
@@ -178,8 +190,8 @@ financement des transports publics urbains et des chèques-transport.
 b. La part contributive de l'employeur dans le chèque-transport prévu à
 l'article 3 de la loi n° 82-684 du 4 août 1982 précitée, dans la limite de 50 %
 du prix des abonnements de transport collectif pour les chèques-transport
-mentionnés au 1° du I du même article ou de la somme de 100 par an pour les
-chèques-transport mentionnés au 2° du même I ;
+mentionnés au 1° du I du même article ou de la somme de 100 euros par an pour
+les chèques-transport mentionnés au 2° du même I ;
 
 20° Les attributions gratuites d'actions :
 

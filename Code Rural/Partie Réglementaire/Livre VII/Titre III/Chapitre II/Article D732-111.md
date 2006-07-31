@@ -33,7 +33,7 @@ agricole, chaque année d'activité d'aide familial majeur ouvre droit à seize
 points de retraite.
 
 Pour les personnes dont la durée d'activité non salariée agricole est, au terme
-de la reconstitution de carrière prévue ci-dessus, comprise entre trente-deux
+de la reconstitution de carrière prévue ci-dessus, comprise entre vingt-deux
 années et demie et trente-sept années et demie, dont au moins dix-sept années et
 demie en tant que chef d'exploitation ou d'entreprise agricole, le nombre de
 points de retraite proportionnelle attribués pour la période d'aide familial est
@@ -43,10 +43,6 @@ ainsi obtenu est minoré par application d'un coefficient qui est fonction de
 l'écart entre, d'une part, trente-sept années et demie et, d'autre part, le
 nombre d'années d'activité non salariée agricole accomplies par les intéressés
 et retenues dans les limites définies aux 1° et 2° ci-dessus. Pour chacune des
-années de l'écart constaté, les coefficients de minoration à appliquer sont de :
-
-1° 15 % pour chacune des deux premières années manquantes ;
-
-2° 10 % pour chacune des trois années suivantes ;
-
-3° 40 % pour la sixième et dernière année.
+années de l'écart constaté, le coefficient de minoration à appliquer est de 5,5
+% au 1er janvier 2007 pour les pensions dues au titre de l'année 2007 et de 4 %
+au 1er janvier 2008 pour les pensions dues à compter du 1er janvier 2008.

@@ -157,26 +157,9 @@ contribution des employeurs à l'effort de construction visée à l'article 235 
 
 c. (Devenu sans objet) ;
 
-d. Les opérations immobilières résultant de l'application des dispositions des
-articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement
-foncier et d'établissement rural constituées en application de l'article L141-1
-du même code et agréées par le ministre de l'agriculture et le ministre du
-budget.
+d. (abrogé)
 
-Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis
-postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
-
-d bis. toutes les cessions effectuées par les sociétés d'aménagement foncier et
-d'établissement rural au titre de l'article L. 141-1 du code rural, dont la
-destination répond aux dispositions dudit article et qui sont assorties d'un
-engagement de l'acquéreur pris pour lui et ses ayants cause de conserver cette
-destination pendant un délai de dix ans à compter du transfert de propriété.
-
-Les dispositions du premier alinéa ne s'appliquent qu'aux cessions de biens
-acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier
-1990 complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à
-l'adaptation de l'exploitation agricole à son environnement économique et social
-;
+d bis. (abrogé)
 
 e. (Disposition périmée) ;
 

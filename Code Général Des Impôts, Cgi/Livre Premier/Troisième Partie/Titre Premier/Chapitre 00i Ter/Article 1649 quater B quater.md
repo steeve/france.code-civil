@@ -59,8 +59,8 @@ alinéas du I.
 III. - Les déclarations de taxe sur la valeur ajoutée et leurs annexes, ainsi
 que celles des taxes assimilées aux taxes sur le chiffre d'affaires sont
 souscrites par voie électronique, lorsque le chiffre d'affaires ou les recettes
-réalisés par le redevable au titre de l'exercice précédent est supérieur à 15
-000 000 d'euros hors taxes.
+réalisés par le redevable au titre de l'exercice précédent est supérieur à 760
+000 d'euros hors taxes.
 
 Cette obligation s'applique également aux redevables définis aux deuxième à
 dixième alinéas du I.

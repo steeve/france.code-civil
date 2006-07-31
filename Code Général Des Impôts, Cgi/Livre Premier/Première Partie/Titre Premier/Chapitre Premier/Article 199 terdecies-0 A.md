@@ -30,9 +30,10 @@ janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux
 aides d'Etat en faveur des petites et moyennes entreprises, modifié par le
 règlement (CE) n° 364/2004 du 25 février 2004 ;
 
-La condition tenant à la composition du capital prévu au e n'est pas exigée en
-cas de souscription au capital d'entreprises solidaires au sens de l'article L.
-443-3-2 du code du travail.
+Les conditions tenant à la composition du capital prévue au e et à la nature de
+l'activité exercée prévue au d ne sont pas exigées en cas de souscription au
+capital d'entreprises solidaires au sens de l'article L. 443-3-2 du code du
+travail.
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la
 société bénéficiaire de la souscription remplit les conditions suivantes :
@@ -59,8 +60,8 @@ l'augmentation de capital prise en compte au dénominateur ;
 de capital auquel le contribuable a souscrit.
 
 La réduction d'impôt sur le revenu est accordée au titre de l'année de la
-clôture de l'exercice de la société mentionnée au premier alinéa du présent 3°
-au cours duquel le contribuable a procédé à la souscription.
+clôture de l'exercice de la société mentionnée au premier alinéa au cours duquel
+le contribuable a procédé à la souscription.
 
 II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont
 ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans la limite
@@ -72,12 +73,12 @@ premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions
 titre des quatre années suivantes.
 
 III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de
-l'article 83, aux articles 163 septdecies et 163 duovicies ou à la réduction
-d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées
-au moyen de l'aide financière de l'Etat exonérée en application du 35° de
-l'article 81 et les souscriptions au capital de sociétés uni-personnelles
-d'investissement à risque visées à l'article 208 D n'ouvrent pas droit à la
-réduction d'impôt mentionnée au I.
+l'article 83, et à l'article 163 duovicies ou aux réductions d'impôt prévues aux
+articles 199 undecies A et 199 unvicies ainsi que les souscriptions financées au
+moyen de l'aide financière de l'Etat exonérée en application du 35° de l'article
+81 et les souscriptions au capital de sociétés uni-personnelles d'investissement
+à risque visées à l'article 208 D n'ouvrent pas droit à la réduction d'impôt
+mentionnée au I.
 
 Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt
 ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163
@@ -100,11 +101,11 @@ Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement
 d'invalidité correspondant au classement dans la deuxième ou la troisième des
 catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du
 décès du contribuable ou de l'un des époux soumis à une imposition commune. Il
-en est de même en cas en cas de donation à une personne physique des titres
-reçus en contrepartie de la souscription au capital de la société si le
-donataire reprend l'obligation de conservation des titres transmis prévue au
-deuxième alinéa. A défaut, la reprise de la réduction d'impôt sur le revenu
-obtenue est effectuée au nom du donateur.
+en est de même en cas de donation à une personne physique des titres reçus en
+contrepartie de la souscription au capital de la société si le donataire reprend
+l'obligation de conservation des titres transmis prévue au deuxième alinéa. A
+défaut, la reprise de la réduction d'impôt sur le revenu obtenue est effectuée
+au nom du donateur.
 
 Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de
 l'article 150-0 A, une reprise des réductions d'impôt obtenues pour cette même
@@ -171,8 +172,8 @@ des établissements situés en Corse.
 Les a et b du 1 et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31
-décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 pour les
-contribuables célibataires, veufs ou divorcés et de 24 000 pour les
+décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 euros pour
+les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les
 contribuables mariés soumis à imposition commune. Les réductions d'impôts
 prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres
 pour les souscriptions dans un même fonds. Les présentes dispositions ne

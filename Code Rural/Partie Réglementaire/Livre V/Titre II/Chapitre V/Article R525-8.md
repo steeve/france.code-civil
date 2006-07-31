@@ -1,25 +1,22 @@
 Article R525-8
 ----
-La décision de refus d'agrément mentionnée au quatrième alinéa de l'article L.
-525-1 est prise, selon les cas, par le préfet de la région après avis des
-commissions départementales d'orientation de l'agriculture ou par le préfet du
-département après avis de la commission départementale d'orientation de
-l'agriculture. La composition et les attributions de ce conseil et de ces
-commissions font l'objet des dispositions du chapitre VIII du présent titre.
+En vue de permettre le contrôle prévu à l'article R. 525-6, les sociétés
+coopératives agricoles et les unions de coopératives agricoles doivent, chaque
+année, et dans le délai d'un mois à compter de la date de la réunion de
+l'assemblée générale qui a approuvé les comptes de l'exercice écoulé, faire
+parvenir au Haut Conseil de la coopération agricole les pièces suivantes :
 
-L'agrément ne peut être refusé que dans le cas d'irrégularité des formalités de
-constitution, de maintien de statuts non conformes aux statuts types élaborés
-par le conseil supérieur d'orientation de la coopération agricole et homologués
-par le ministre de l'agriculture et dans le cas où la coopérative n'observerait
-pas les prescriptions législatives ou réglementaires qui lui sont applicables.
+1. La copie intégrale du procès-verbal de l'assemblée générale ;
 
-L'agrément peut être refusé, outre les cas prévus à l'alinéa précédent, lorsque
-deux coopératives de même objet fonctionnent déjà dans le secteur intéressé.
+2. La copie des documents mis à la disposition des associés-coopérateurs avant
+l'assemblée générale : comptes annuels, rapports aux associés, comptes
+consolidés et le cas échéant, comptes combinés et rapport sur la gestion du
+groupe, rapports des commissaires aux comptes sur les comptes annuels et les
+comptes consolidés ;
 
-En cas de refus d'agrément par le préfet du département ou par le préfet de
-région, les organismes intéressés peuvent dans le délai de deux mois à compter
-de la notification du refus, formuler un recours devant le ministre de
-l'agriculture qui se prononce dans le délai de quatre mois après avis du conseil
-supérieur d'orientation de la coopération agricole, ou, dans les conditions
-prévues à l'article D. 528-2, par la commission centrale de la coopération
-agricole mentionnée au même article.
+3. Un état indiquant le nombre des associés coopérateurs ainsi que le nom des
+administrateurs, des commissaires aux comptes, du directeur, des personnes
+autorisées à signer pour la société et, éventuellement, des gérants d'annexe.
+
+Toutes ces pièces doivent être certifiées conformes par le président du conseil
+d'administration ou son représentant.

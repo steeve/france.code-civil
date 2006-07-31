@@ -1,7 +1,7 @@
 Article R*642-5
 ----
 Lorsqu'une opposition est fondée sur un droit antérieur conféré par
-l'enregistrement d'une marque, l'Institut national des appellations d'origine
+l'enregistrement d'une marque, l'Institut national de l'origine et de la qualité
 consulte l'Institut national de la propriété industrielle. Celui-ci lui transmet
 son avis motivé sur la validité de l'opposition.
 

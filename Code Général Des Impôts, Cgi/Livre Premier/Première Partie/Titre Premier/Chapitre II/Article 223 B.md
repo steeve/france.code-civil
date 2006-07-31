@@ -27,7 +27,7 @@ résultat d'ensemble, à hauteur de l'excédent des plus-values ou profits sur l
 moins-values ou pertes afférent à ce même élément, qui n'a pas été pris en
 compte, en application du premier alinéa de l'article 223 F, pour le calcul du
 résultat ou de la plus ou moins-value nette à long terme d'ensemble du groupe.
-Lorsqu'en application du deuxième alinéa de l'article 223 F, la société mère
+Lorsqu'en application du troisième alinéa de l'article 223 F, la société mère
 comprend dans le résultat d'ensemble le résultat ou la plus ou moins-value non
 pris en compte lors de sa réalisation, la fraction de la provision qui n'a pas
 été déduite en application de la deuxième phrase du présent alinéa, ni rapportée
@@ -37,9 +37,9 @@ rapportées en application du seizième alinéa du 5° du 1 de l'article 39 qui
 correspondent aux dotations complémentaires non retenues en application du
 premier alinéa si les sociétés citées aux deux premières phrases de cet alinéa
 membres du groupe ou, s'agissant des provisions mentionnées à la première
-phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d ou
-e du 6 de l'article 223 L au titre de l'exercice au cours duquel ces provisions
-sont rapportées ;
+phrase, d'un même groupe créé ou élargi dans les conditions prévues aux c, d, e
+ou f du 6 de l'article 223 L au titre de l'exercice au cours duquel ces
+provisions sont rapportées ;
 
 Le montant des jetons de présence et tantièmes distribués par les sociétés
 filiales du groupe est ajouté au résultat d'ensemble.
@@ -57,17 +57,22 @@ Lorsqu'une société a acheté, après le 1er janvier 1988, les titres d'une soc
 qui devient membre du même groupe aux personnes qui la contrôlent, directement
 ou indirectement, ou à des sociétés que ces personnes contrôlent, directement ou
 indirectement, au sens de l'article L. 233-3 du code de commerce, les charges
-financières déduites par les sociétés membres du groupe sont rapportées au
-résultat d'ensemble pour une fraction égale au rapport du prix d'acquisition de
-ces titres à la somme du montant moyen des dettes, de chaque exercice, des
-entreprises membres du groupe. Le prix d'acquisition à retenir est réduit du
-montant des fonds apportés à la société cessionnaire lors d'une augmentation du
-capital réalisée simultanément à l'acquisition des titres à condition que ces
-fonds soient apportés à la société cessionnaire par une personne autre qu'une
-société membre du groupe ou, s'ils sont apportés par une société du groupe,
-qu'ils ne proviennent pas de crédits consentis par une personne non membre de ce
-groupe. La réintégration s'applique pendant l'exercice d'acquisition des titres
-et les quatorze exercices suivants.
+financières déduites pour la détermination du résultat d'ensemble sont
+rapportées à ce résultat pour une fraction égale au rapport du prix
+d'acquisition de ces titres à la somme du montant moyen des dettes, de chaque
+exercice, des entreprises membres du groupe. Le prix d'acquisition à retenir est
+réduit du montant des fonds apportés à la société cessionnaire lors d'une
+augmentation du capital réalisée simultanément à l'acquisition des titres à
+condition que ces fonds soient apportés à la société cessionnaire par une
+personne autre qu'une société membre du groupe ou, s'ils sont apportés par une
+société du groupe, qu'ils ne proviennent pas de crédits consentis par une
+personne non membre de ce groupe. La réintégration s'applique pendant l'exercice
+d'acquisition des titres et les huit exercices suivants.
+
+Le septième alinéa s'applique même si la société rachetée ne devient pas membre
+du même groupe que la société cessionnaire, dès lors que la première est
+absorbée par la seconde ou par une société membre ou devenant membre du même
+groupe que la société cessionnaire.
 
 Les dispositions du septième alinéa ne s'appliquent pas :
 
@@ -77,9 +82,11 @@ b. Au titre des exercices au cours desquels la société rachetée n'est plus
 membre du groupe, sous réserve que sa sortie du groupe ne résulte pas d'une
 fusion avec une autre société du groupe.
 
-c. Si les titres cédés à la société membre du groupe ont été acquis
-immédiatement auparavant, auprès de personnes autres que celles mentionnées au
-septième alinéa, et en vue de rétrocession.
+c. Si les titres cédés à la société membre du groupe ont été acquis, directement
+ou par l'intermédiaire de l'acquisition d'une société qui contrôle, directement
+ou indirectement, la société rachetée au sens de l'article L. 233-3 du code de
+commerce immédiatement auparavant, auprès de personnes autres que celles
+mentionnées au septième alinéa, et en vue de rétrocession.
 
 d. au titre des exercices au cours desquels la société qui détient les titres de
 la société rachetée n'est plus contrôlée par les personnes visées à la première
@@ -112,7 +119,7 @@ d'une autre société du groupe,
 
 l'excédent correspondant est déduit du résultat d'ensemble de cet exercice,
 cette déduction ne pouvant être supérieure à la somme des intérêts non admis en
-déduction mentionnée au treizième alinéa.
+déduction mentionnée au quinzième alinéa.
 
 Les intérêts non déductibles immédiatement du résultat d'ensemble sont
 déductibles au titre de l'exercice suivant, puis le cas échéant au titre des
@@ -120,4 +127,4 @@ exercices postérieurs, sous déduction d'une décote de 5 % appliquée au titre
 chacun de ces exercices, à concurrence de la différence, calculée pour chacun
 des exercices de déduction, entre la limite prévue au 2° et la somme des
 intérêts mentionnée au 1° majorée des intérêts déduits immédiatement en
-application du seizième alinéa.
+application du dix-huitième alinéa.

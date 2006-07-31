@@ -11,8 +11,8 @@ Cette déclaration ne concerne pas, sauf s'agissant des produits mentionnés aux
 1° et 2° si leur bénéficiaire a son domicile fiscal hors de France dans un Etat
 membre de la Communauté européenne :
 
-1° Les produits visés au 7°, 7° ter, 9° bis, 9° ter et 9° quater de l'article
-157 ;
+1° Les produits et intérêts exonérés visés au 7°, 7° ter, 7° quater, 9° bis, 9°
+ter, 9° quater et 9° sexies de l'article 157 ;
 
 2° Les produits visés au II bis de l'article 125 A ;
 
@@ -44,7 +44,7 @@ Pour l'établissement de la déclaration mentionnée au premier alinéa, les
 personnes qui en assurent le paiement individualisent les revenus distribués par
 les sociétés mentionnées au 2° du 3 de l'article 158 et par les organismes ou
 sociétés mentionnés au 4° du 3 de ce même article au regard de leur éligibilité
-à la réfaction de 50 % mentionnée au 2° du 3 de l'article 158.
+à l'abattement de 40 % mentionné au 2° du 3 de l'article 158.
 
 La déclaration mentionnée au premier alinéa doit être faite dans des conditions
 et délais fixés par décret. Une copie de cette déclaration doit être adressée
@@ -52,7 +52,7 @@ aux bénéficiaires ds revenus concernés.
 
 Elle est obligatoirement transmise à l'administration fiscale selon un procédé
 informatique par le déclarant qui a souscrit au moins cent déclarations au cours
-de l'année précédente (1).
+de l'année précédente.
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les
 conditions prévues par l'article 238 septies B. La déclaration doit être faite

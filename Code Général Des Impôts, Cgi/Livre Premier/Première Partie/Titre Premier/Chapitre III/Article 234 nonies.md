@@ -49,8 +49,8 @@ l'Etat dans le département ;
 
 11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par
 décret, lorsque ces travaux ont été financés à hauteur d'au moins 15 % de leur
-montant par une subvention versée par l'Agence nationale pour l'amélioration de
-l'habitat, pour les quinze années suivant celle de l'achèvement des travaux.
+montant par une subvention versée par l'Agence nationale de l'habitat, pour les
+quinze années suivant celle de l'achèvement des travaux.
 
 12° Des logements qui ont fait l'objet, après une vacance continue de plus de
 douze mois, d'une mise en location assortie d'une convention conclue à compter

@@ -155,8 +155,7 @@ concernés, du montant :
 a. Des sommes ou valeurs remboursées dans la limite du prix d'acquisition des
 titres correspondants.
 
-b. Des sommes ayant ouvert droit à la réduction d'impôt en application de
-l'article 199 unvicies.
+b. De la déduction prévue à l'article 163 septdecies.
 
 c. abrogé
 

@@ -1,17 +1,17 @@
 Article 2 duodecies
 ----
-Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code
+Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code
 général des impôts, les plafonds de loyer et de ressources du locataire sont les
 suivants :
 
-a) Pour les baux conclus en 2006, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 15,90 euros par mètre carré en zone A, 10,39 euros en
-zone B et 7,52 euros en zone C. Les plafonds sont relevés chaque année, au 1er
-janvier, dans la même proportion que la variation de la moyenne sur quatre
-trimestres de l'indice national mesurant le coût de la construction publiée par
-l'Institut national de la statistique et des études économiques. La moyenne
-mentionnée ci-dessus est celle des quatre derniers indices connus au 1er
-novembre qui précède la date de référence.
+a) Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non
+comprises, sont fixés à 16,35 euros par mètre carré en zone A, 10,68 euros en
+zone B et 7,73 euros en zone C. Les plafonds sont relevés chaque année, au 1er
+janvier, dans la même proportion que la variation de l'indice de référence des
+loyers publié par l'Institut national de la statistique et des études
+économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau
+arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier
+indice connu au 1er novembre qui précède la date de référence.
 
 Pour l'application du présent article, les zones A, B et C sont définies par
 arrêté des ministres chargés du budget et du logement.
@@ -27,7 +27,7 @@ du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avi
 d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2006, les plafonds annuels de ressources sont les
+Pour les baux conclus en 2007, les plafonds annuels de ressources sont les
 suivants :
 
 COMPOSITION du foyer locataire :
@@ -37,76 +37,76 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Zone A : 32 268 euros
+Zone A : 33 233 euros
 
-Zone B : 24 939 euros
+Zone B : 25 685 euros
 
-Zone C : 21 822 euros
-
-COMPOSITION du foyer locataire :
-
-
-Couple marié
-
-LIEU DE LA LOCATION
-
-Zone A : 48 226 euros
-
-Zone B : 33 302 euros
-
-Zone C : 29 332 euros
+Zone C : 22 475 euros
 
 COMPOSITION du foyer locataire :
 
 
-Personne seule ou couple marié ayant une personne à charge
+Couple
 
 LIEU DE LA LOCATION
 
-Zone A : 57 971 euros
+Zone A : 49 668 euros
 
-Zone B : 40 049 euros
+Zone B : 34 298 euros
 
-Zone C : 35 115 euros
+Zone C : 30 209 euros
 
 COMPOSITION du foyer locataire :
 
 
-Personne seule ou couple marié ayant deux personnes à charge
+Personne seule ou couple ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 69 440 euros
+Zone A : 59 704 euros
 
-Zone B : 48 347 euros
+Zone B : 41 246 euros
 
-Zone C : 42 497 euros
+Zone C : 36 165 euros
 
 COMPOSITION du foyer locataire :
 
 
-Personne seule ou couple marié ayant trois personnes à charge
+Personne seule ou couple ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 82 204 euros
+Zone A : 71 516 euros
 
-Zone B : 56 873 euros
+Zone B : 49 792 euros
 
-Zone C : 49 879 euros
+Zone C : 43 768 euros
 
 COMPOSITION du foyer locataire :
 
 
-Personne seule ou couple marié ayant quatre personnes à charge
+Personne seule ou couple ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 92 502 euros
+Zone A : 84 661 euros
 
-Zone B : 64 093 euros
+Zone B : 58 573 euros
 
-Zone C : 56 264 euros
+Zone C : 51 370 euros
+
+COMPOSITION du foyer locataire :
+
+
+Personne seule ou couple ayant quatre personnes à charge
+
+LIEU DE LA LOCATION
+
+Zone A : 95 267 euros
+
+Zone B : 66 009 euros
+
+Zone C : 57 946 euros
 
 COMPOSITION du foyer locataire :
 
@@ -115,11 +115,11 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Zone A : + 10 308 euros
+Zone A : + 10 617 euros
 
-Zone B : + 7 148 euros
+Zone B : + 7 362 euros
 
-Zone C : + 6 389 euros
+Zone C : + 6 580 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de
 l'évolution annuelle du salaire minimum de croissance. Cette variation est

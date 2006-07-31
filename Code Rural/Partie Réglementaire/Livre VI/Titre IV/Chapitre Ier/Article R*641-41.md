@@ -1,6 +1,6 @@
 Article R*641-41
 ----
-L'Institut national des appellations d'origine comprend quatre comités
+L'Institut national de l'origine et de la qualité comprend quatre comités
 nationaux, dotés chacun d'une commission permanente. Il comprend également, en
 tant que de besoin, des comités régionaux.
 

@@ -78,5 +78,5 @@ Conseil supérieur de la forêt et des produits forestiers y est représenté.
 
 Lorsque les problèmes de qualité agro-alimentaire sont évoqués au sein du
 conseil, la Commission nationale des labels et des certifications des produits
-agricoles et alimentaires et l'Institut national des appellations d'origine y
+agricoles et alimentaires et l'Institut national de l'origine et de la qualité y
 sont représentés à titre consultatif.

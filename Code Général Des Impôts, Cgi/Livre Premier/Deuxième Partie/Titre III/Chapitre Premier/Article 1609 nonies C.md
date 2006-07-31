@@ -185,12 +185,12 @@ Lorsque l'attribution de compensation est négative, l'établissement public de
 coopération intercommunale peut demander à la commune d'effectuer, à due
 concurrence, un versement à son profit.
 
-Les attributions de compensation prévues au 2°, au 3° et au 4° constituent une
-dépense obligatoire pour l'établissement public de coopération intercommunale
-ou, le cas échéant, les communes membres. Le conseil de l'établissement public
-de coopération intercommunale communique aux communes membres, avant le 15
-février de chaque année, le montant prévisionnel des attributions au titre de
-ces reversements.
+Les attributions de compensation fixées conformément aux 2°, 3°, 4°, 5° ou, le
+cas échéant, au 1° bis constituent une dépense obligatoire pour l'établissement
+public de coopération intercommunale ou, le cas échéant, les communes membres.
+Le conseil de l'établissement public de coopération intercommunale communique
+aux communes membres, avant le 15 février de chaque année, le montant
+prévisionnel des attributions au titre de ces reversements.
 
 Le conseil de l'établissement public de coopération intercommunale ne peut
 procéder à une réduction des attributions de compensation qu'après accord des
@@ -214,7 +214,7 @@ l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
 des transferts de charges.
 
 A défaut d'accord unanime, le montant de l'attribution est fixé dans les
-conditions figurant aux 2°, 3° et 4° ;
+conditions figurant aux 2°, 3°, 4° et 5° ;
 
 2° L'attribution de compensation est égale au produit de taxe professionnelle
 perçu par elle l'année précédant celle de l'institution du taux de taxe
@@ -256,7 +256,17 @@ correspondant au montant antérieurement versé en application du I du D de
 l'article 44 de la loi de finances pour 1999 précitée. L'organe délibérant de
 l'établissement public de coopération intercommunale transmet chaque année au
 représentant de l'Etat dans le département un rapport sur l'application de la
-deuxième phrase du premier alinéa du présent 2°.
+deuxième phrase du premier alinéa.
+
+Lorsque des communes ont décidé soit directement, soit dans le cadre d'un
+syndicat intercommunal ou mixte, de répartir entre elles les recettes de taxe
+professionnelle générées par les entreprises implantées sur une zone d'activités
+intercommunale en application de la loi n° 80-10 du 10 janvier 1980 portant
+aménagement de la fiscalité directe locale, la communauté bénéficiaire de la
+taxe professionnelle d'agglomération se trouve substituée de plein droit à ses
+communes membres dans ces accords de partage de ressources fiscales.
+L'attribution de compensation versée par la communauté est donc majorée ou
+diminuée, selon le cas, de ces recettes de taxe professionnelle.
 
 2° bis Abrogé
 
@@ -323,6 +333,54 @@ application de ces dispositions.
 
 Cette attribution est recalculée dans les conditions prévues au IV lors de
 chaque nouveau transfert de charges. Elle ne peut être indexée.
+
+5° Lorsque, en application de l'article 1638-0 bis, il est fait application du
+présent article à un établissement public de coopération intercommunale issu
+d'une fusion réalisée dans les conditions prévues par l'article L. 5211-41-3 du
+code général des collectivités territoriales, l'attribution de compensation
+versée chaque année aux communes membres qui étaient antérieurement membres d'un
+établissement public de coopération intercommunale soumis au présent article est
+égale à celle que lui versait cet établissement public de coopération
+intercommunale avant la fusion. Lorsque la fusion s'accompagne d'un transfert ou
+d'une restitution de compétences, cette attribution de compensation est
+respectivement diminuée ou majorée du montant net des charges transférées
+calculé dans les conditions définies au IV.
+
+L'attribution de compensation versée chaque année aux communes membres qui
+étaient antérieurement membres d'un établissement public de coopération
+intercommunale soumis aux I ou II de l'article 1609 quinquies C ou au 2° du I de
+l'article 1609 bis est calculée conformément au 3°. Lorsque la fusion
+s'accompagne d'un transfert ou d'une restitution de compétences, cette
+attribution de compensation est respectivement diminuée ou majorée du montant
+net des charges tranférées calculé dans les conditions définies au IV.
+
+L'attribution de compensation versée chaque année aux communes membres qui
+étaient antérieurement membres d'un syndicat d'agglomération nouvelle ou d'une
+communauté d'agglomération nouvelle est égale à la dotation de coopération
+définie à l'article L. 5334-8 du code général des collectivités territoriales
+perçue l'année de la fusion. Lorsque la fusion s'accompagne d'un transfert ou
+d'une restitution de compétences, l'attribution de compensation est
+respectivement diminuée ou majorée du montant net des charges transférées
+calculé dans les conditions définies au IV.
+
+L'attribution de compensation versée chaque année aux communes membres qui
+étaient antérieurement membres d'un établissement public de coopération
+intercommunale sans fiscalité propre est calculée dans les conditions prévues au
+2°.
+
+L'attribution de compensation versée chaque année aux communes membres incluses
+dans le périmètre de l'établissement public de coopération intercommunale issu
+de la fusion en vue de délimiter un territoire d'un seul tenant et sans enclave
+est calculée dans les conditions prévues au 2°.
+
+Cette attribution est recalculée dans les conditions prévues au IV lors de
+chaque nouveau transfert de charges. Elle ne peut être indexée.
+
+6° Dans les trois ans qui suivent l'année du renouvellement général des conseils
+municipaux, le montant de l'attribution de compensation et les conditions de sa
+révision peuvent être fixés librement par le conseil communautaire statuant à
+l'unanimité, en tenant compte du rapport de la commission locale d'évaluation
+des transferts de charges.
 
 VI. L'établissement public de coopération intercommunale, autre qu'une
 communauté urbaine, soumis aux dispositions du I peut instituer au bénéfice de

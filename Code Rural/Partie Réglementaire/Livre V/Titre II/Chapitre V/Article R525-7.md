@@ -1,10 +1,20 @@
 Article R525-7
 ----
-L'agrément est considéré comme acquis aux organismes qui en ont régulièrement
-fait la demande et qui ont déposé les pièces nécessaires pour l'examen de leur
-dossier au secrétariat de la commission centrale de la coopération agricole
-compétente ou auprès de l'ingénieur général du génie rural, des eaux et des
-forêts, chargé de la région si aucune notification de décision ne leur a été
-adressée dans le délai de deux mois à partir de la date de ce dépôt. Ce délai
-est porté à quatre mois pour les coopératives relevant de la commission centrale
-de la coopération agricole et pour les unions de coopératives.
+Lorsque le contrôle institué à l'article précédent fait apparaître soit la
+défaillance des administrateurs, soit la violation des dispositions
+législatives, réglementaires ou statutaires, soit la méconnaissance des intérêts
+du groupement, une assemblée générale extraordinaire est convoquée à la demande
+du haut conseil.
+
+Lorsque le fonctionnement normal de la société coopérative ou de l'union n'a pas
+été rétabli dans un délai de six mois à compter de la réunion de l'assemblée
+générale extraordinaire, renouvelable une fois, le haut conseil qui peut
+prononcer le retrait de son agrément.
+
+La décision de retrait d'agrément est prise par le haut conseil, sur proposition
+de sa section juridique et au vu d'un rapport de révision datant de moins d'un
+an.
+
+Si la décision de retrait n'intervient pas dans un délai de deux mois à
+l'expiration du délai de six mois ou d'un an mentionné ci-dessus, la procédure
+est caduque.

@@ -6,10 +6,11 @@ correspondent à des dons et versements, y compris l'abandon exprès de revenus 
 produits, effectués par les contribuables domiciliés en France au sens de
 l'article 4 B, au profit :
 
-a) De fondations ou associations reconnues d'utilité publique et, pour les seuls
-salariés des entreprises fondatrices ou des entreprises du groupe, au sens de
-l'article 223 A, auquel appartient l'entreprise fondatrice, de fondations
-d'entreprise, lorsque ces organismes répondent aux conditions fixées au b ;
+a) De fondations ou associations reconnues d'utilité publique sous réserve du 2
+bis et, pour les seuls salariés des entreprises fondatrices ou des entreprises
+du groupe, au sens de l'article 223 A, auquel appartient l'entreprise
+fondatrice, de fondations d'entreprise, lorsque ces organismes répondent aux
+conditions fixées au b ;
 
 b. D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
@@ -26,9 +27,8 @@ chargé de la culture ;
 
 d. D'organismes visés au 4 de l'article 238 bis ;
 
-e. D'associations cultuelles et de bienfaisance qui sont autorisées à recevoir
-des dons et legs, ainsi que des établissements publics des cultes reconnus
-d'Alsace-Moselle.
+e. D'associations cultuelles et de bienfaisance, ainsi que des établissements
+publics des cultes reconnus d'Alsace-Moselle ;
 
 f) Abrogé
 
@@ -49,8 +49,8 @@ versements effectués au profit d'organismes sans but lucratif qui procèdent à
 fourniture gratuite de repas à des personnes en difficulté, qui contribuent à
 favoriser leur logement ou qui procèdent, à titre principal, à la fourniture
 gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en
-difficulté. Ces versements sont retenus dans la limite de 470 euros à compter de
-l'imposition des revenus de l'année 2005. Il n'en est pas tenu compte pour
+difficulté. Ces versements sont retenus dans la limite de 479 euros à compter de
+l'imposition des revenus de l'année 2006. Il n'en est pas tenu compte pour
 l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année
@@ -71,6 +71,33 @@ ces associations est reconnue d'utilité publique.
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les
 modalités de procédure déconcentrée permettant de l'accorder.
 
+2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la
+"Fondation du patrimoine" ou à une fondation ou une association qui affecte
+irrévocablement ces dons à la "Fondation du patrimoine", en vue de subventionner
+la réalisation des travaux prévus par les conventions conclues en application de
+l'article L. 143-2-1 du code du patrimoine entre la "Fondation du patrimoine" et
+les propriétaires des immeubles, personnes physiques ou sociétés civiles
+composées uniquement de personnes physiques et qui ont pour objet exclusif la
+gestion et la location nue des immeubles dont elles sont propriétaires.
+
+Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire
+l'objet d'une exploitation commerciale.
+
+Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de
+convention avec la "Fondation du patrimoine" en application de l'article L.
+143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les
+travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de
+cet immeuble. En cas de détention de l'immeuble par une société mentionnée au
+premier alinéa, le donateur ou l'un des membres de son foyer fiscal ne doit pas
+être associé de cette société ou un ascendant, un descendant ou un collatéral
+des associés de la société propriétaire de l'immeuble.
+
+Les dons versés à d'autres fondations ou associations reconnues d'utilité
+publique agréées par le ministre chargé du budget dont l'objet est culturel, en
+vue de subventionner la réalisation de travaux de conservation, de restauration
+ou d'accessibilité de monuments historiques classés ou inscrits, ouvrent droit à
+la réduction d'impôt dans les mêmes conditions.
+
 3. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article
 L. 52-8 du code électoral versés à une association de financement électorale ou
 à un mandataire financier visé à l'article L. 52-4 du même code qui sont
@@ -84,11 +111,12 @@ leur mandataire.
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1 et du 1 ter est subordonné à la condition
-que soient jointes à la déclaration des revenus des pièces justificatives,
-répondant à un modèle fixé par un arrêté attestant le total du montant et la
-date des versements ainsi que l'identité des bénéficiaires. A défaut, la
-réduction d'impôt est refusée sans proposition de rectification préalable.
+5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la
+condition que soient jointes à la déclaration des revenus des pièces
+justificatives, répondant à un modèle fixé par un arrêté attestant le total du
+montant et la date des versements ainsi que l'identité des bénéficiaires. A
+défaut, la réduction d'impôt est refusée sans proposition de rectification
+préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les
 cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la

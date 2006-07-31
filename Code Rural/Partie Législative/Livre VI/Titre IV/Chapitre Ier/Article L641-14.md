@@ -1,9 +1,13 @@
 Article L641-14
 ----
-Les vins de table qui répondent aux conditions fixées par la réglementation en
-vigueur en ce qui concerne les vins de pays, et qui sont produits à l'intérieur
-d'un département ou de zones déterminées par décret, peuvent, si leur qualité et
-leur notoriété le justifient, être classés soit dans la catégorie des vins à
-appellation d'origine contrôlée, soit dans celle des vins délimités de qualité
-supérieure, dans les conditions définies par les dispositions législatives et
-réglementaires applicables à chacune de ces catégories.
+Peuvent être assortis de la dénomination "montagne" les produits agricoles non
+alimentaires et non transformés et les denrées alimentaires autres que les vins
+qui sont produits et élaborés dans les zones de montagne définies par les
+articles 3 et 4 de la loi n° 85-30 du 9 janvier 1985 auxquels une autorisation a
+été accordée.
+
+Le décret prévu à l'article L. 640-3 fixe les conditions dans lesquelles est
+délivrée cette autorisation et précise, en tant que de besoin, les clauses que
+doivent contenir les cahiers des charges, notamment le lieu et les techniques de
+fabrication et la provenance des matières premières, qui ne peut être limitée
+aux seules zones de montagne françaises.

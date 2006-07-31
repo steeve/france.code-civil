@@ -2,9 +2,9 @@ Article 209
 ----
 I. Sous réserve des dispositions de la présente section, les bénéfices passibles
 de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les
-articles 34 à 45, 53 A à 57 et 302 septies A bis et en tenant compte uniquement
-des bénéfices réalisés dans les entreprises exploitées en France ainsi que de
-ceux dont l'imposition est attribuée à la France par une convention
+articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte
+uniquement des bénéfices réalisés dans les entreprises exploitées en France
+ainsi que de ceux dont l'imposition est attribuée à la France par une convention
 internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37,
@@ -92,3 +92,14 @@ ce même article à des sociétés n'ayant pas opté pour le régime prévu à l
 VI. - Les dispositions du vingtième alinéa du 5° du 1 de l'article 39
 s'appliquent distinctement aux titres de participation mentionnés au a quinquies
 du I de l'article 219 et aux autres titres de participation.
+
+VII. - Les frais liés à l'acquisition de titres de participation définis au
+dix-huitième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre
+de leur exercice d'engagement mais sont incorporés au prix de revient de ces
+titres. Pour l'application des dispositions de la phrase précédente, les frais
+d'acquisition s'entendent des droits de mutation, honoraires, commissions et
+frais d'actes liés à l'acquisition.
+
+La fraction du prix de revient des titres mentionnés au premier alinéa
+correspondant à ces frais d'acquisition peut être amortie sur cinq ans à compter
+de la date d'acquisition des titres (1).

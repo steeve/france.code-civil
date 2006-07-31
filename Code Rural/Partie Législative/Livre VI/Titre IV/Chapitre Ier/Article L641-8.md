@@ -1,5 +1,12 @@
 Article L641-8
 ----
-Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 du
-code de la consommation ne sont pas applicables aux produits bénéficiant d'une
-appellation d'origine contrôlée.
+Il est établi au profit de l'Institut national de l'origine et de la qualité un
+droit par hectolitre de vin revendiqué en appellation d'origine.
+
+Ce droit est fixé, sur proposition de l'Institut national de l'origine et de la
+qualité, par arrêté conjoint du ministre de l'agriculture et du ministre chargé
+du budget dans la limite de 0,10 euro par hectolitre. Il est perçu sur le volume
+total de récolte revendiqué en appellation d'origine dans la déclaration de
+récolte visée à l'article 407 du code général des impôts et est exigible au
+moment du dépôt de la demande d'agrément auprès de l'Institut national de
+l'origine et de la qualité.

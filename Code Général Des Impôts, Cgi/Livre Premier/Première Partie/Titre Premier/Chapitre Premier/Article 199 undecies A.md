@@ -116,13 +116,13 @@ motivée de sa part dans un délai de trois mois.
 
 5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la
 période définie au 1 sont prises en compte, pour les investissements mentionnés
-aux a, b, c, d, et e du 2, dans la limite de 1 800 Euros hors taxes par mètre
+aux a, b, c, d, et e du 2, dans la limite de 1 959 euros hors taxes par mètre
 carré de surface habitable. Cette limite est relevée chaque année, au 1er
 janvier, dans la même proportion que la variation de la moyenne sur quatre
 trimestres de l'indice national mesurant le coût de la construction publiée par
 l'Institut national de la statistique et des études économiques. La moyenne
 mentionnée ci-dessus est celle des quatre derniers indices connus au 1er
-novembre qui précède la date de référence (1).
+novembre qui précède la date de référence.
 
 6. La réduction d'impôt est effectuée, pour les investissements mentionnés au a
 du 2, pour le calcul de l'impôt dû au titre de l'année d'achèvement de

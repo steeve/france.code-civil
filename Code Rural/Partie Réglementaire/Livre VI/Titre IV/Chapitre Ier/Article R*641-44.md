@@ -1,7 +1,7 @@
 Article R*641-44
 ----
-Le directeur de l'Institut national des appellations d'origine, nommé par arrêté
-du ministre chargé de l'agriculture, est chargé d'assurer la gestion de
+Le directeur de l'Institut national de l'origine et de la qualité, nommé par
+arrêté du ministre chargé de l'agriculture, est chargé d'assurer la gestion de
 l'établissement. Il assure, sous l'autorité des présidents, la préparation et
 l'exécution des délibérations des comités nationaux et du conseil permanent et
 en applique les décisions. Il assiste aux séances du conseil permanent, des

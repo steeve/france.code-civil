@@ -308,6 +308,12 @@ dans les conditions prévues par les articles L. 432-12 à L. 432-19 du code
 monétaire et financier, ne peut donner lieu, de la part du cessionnaire, à la
 constitution d'une provision déductible sur le plan fiscal.
 
+La dépréciation des titres qui font l'objet d'une remise en garantie dans les
+conditions prévues à l'article 38 bis-0 A bis ne peut donner lieu à la
+constitution d'une provision déductible sur le plan fiscal. De même, le
+constituant ne peut déduire de provision pour dépréciation de la créance
+représentative de ces titres.
+
 Par exception aux dispositions du dix-septième alinéa, la provision
 éventuellement constituée par une entreprise en vue de faire face à la
 dépréciation d'une participation dans une filiale implantée à l'étranger n'est
@@ -336,7 +342,7 @@ initial affectée d'un coefficient progressif. Ce coefficient est égal au
 quotient du nombre d'années d'utilisation du bien depuis sa mise en service sur
 sa durée totale d'utilisation.
 
-Les dotations à la provision visée au vingt-septième alinéa ne sont pas
+Les dotations à la provision visée au vingt-huitième alinéa ne sont pas
 déductibles si elles sont passées après l'expiration du plan de renouvellement
 en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette
 date, après l'expiration du plan initial de renouvellement.
@@ -344,7 +350,7 @@ date, après l'expiration du plan initial de renouvellement.
 La fraction de la provision pour renouvellement régulièrement constituée,
 figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à
 la clôture des exercices suivants, est supérieure au montant déterminé en
-application des vingt-septième et vingt-huitième alinéas et n'a pas été
+application des vingt-huitième et vingt-neuvième alinéas et n'a pas été
 utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des
 dispositions du seizième alinéa.
 
@@ -353,8 +359,8 @@ déductibles pour la détermination du résultat imposable de l'entreprise, le p
 de revient initial du bien est retenu pour une valeur nulle.
 
 Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un
-tiers, les dispositions des vingt-septième à trentième alinéas sont applicables
-à celui-ci.
+tiers, les dispositions des vingt-huitième à trente et unième alinéas sont
+applicables à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face
 aux charges liées aux licenciements pour motif économique ne sont pas
@@ -391,12 +397,12 @@ total des provisions pour dépréciation des immeubles de placement rapporté au
 résultat des exercices ultérieurs.
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828
-du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3
-modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur
-de certaines catégories de commerçants et artisans âgés. Le fait générateur de
-cette contribution ou de cette taxe est constitué par l'existence de
-l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est
-due ;
+du 23 septembre 1967 et la taxe d'aide au commerce et à l'artisanat issue de
+l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des
+mesures en faveur de certaines catégories de commerçants et artisans âgés. Le
+fait générateur de cette contribution ou de cette taxe est constitué par
+l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de
+laquelle elle est due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
@@ -411,8 +417,11 @@ le cadre d'un plan de sauvegarde ou de redressement.
 2. Les transactions, amendes, confiscations, pénalités de toute nature mises à
 la charge des contrevenants aux dispositions légales régissant la liberté des
 prix et de la concurrence, le ravitaillement, la répartition des divers
-produits, l'assiette et le recouvrement des impôts, contributions et taxes, ne
-sont pas admises en déduction des bénéfices soumis à l'impôt.
+produits, l'assiette et le recouvrement des impôts, contributions et taxes, le
+versement libératoire et la pénalité de retard afférente prévus au IV de
+l'article 14 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les
+orientations de la politique énergétique, ne sont pas admis en déduction des
+bénéfices soumis à l'impôt.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la
 convention sur la lutte contre la corruption d'agents publics étrangers dans les
@@ -551,15 +560,13 @@ imposable du crédit-preneur.
 Toutefois, pour les opérations concernant les immeubles achevés après le 31
 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le
 champ d'application de la taxe prévue à l'article 231 ter, autres que ceux
-situés dans les zones d'aménagement du territoire et dans les territoires ruraux
-de développement prioritaire définis à la dernière phrase du premier alinéa de
-l'article 1465 et dans les zones de redynamisation urbaine, définis au I bis et,
-à compter du premier janvier 1997, au I ter de l'article 1466 A, la quote-part
-de loyer prise en compte pour la détermination du prix de cession de l'immeuble
-à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur
-que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement
-que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien
-objet du contrat.
+situés dans les zones d'aide à finalité régionale et dans les zones de
+redynamisation urbaine, définis au I ter de l'article 1466 A, la quote-part de
+loyer prise en compte pour la détermination du prix de cession de l'immeuble à
+l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que
+dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que
+le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet
+du contrat.
 
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement
 des différents éléments dans l'ordre suivant :

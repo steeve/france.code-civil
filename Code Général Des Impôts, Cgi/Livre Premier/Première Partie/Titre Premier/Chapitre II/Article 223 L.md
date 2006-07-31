@@ -17,7 +17,7 @@ pour la détermination du résultat ou de la plus-value ou de la moins-value net
 montant.
 
 5. Pour le calcul de la participation et de la réserve spéciale de participation
-prévues par les articles L442-1 à L442-17 du code du travail, chaque société du
+prévues par les articles L442-1 à L442-18 du code du travail, chaque société du
 groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés
 déterminés comme si elle était imposée séparément.
 
@@ -26,19 +26,18 @@ déterminés comme si elle était imposée séparément.
 b) (Périmé).
 
 c) Lorsqu'une société soumise à l'impôt sur les sociétés absorbe une société
-mère définie au premier alinéa de l'article 223 A et remplit, avant ou du fait
-de cette fusion, les conditions prévues au même alinéa, elle peut se constituer,
-depuis l'ouverture de l'exercice de la fusion, seule redevable des impôts
-mentionnés au même alinéa dus par le groupe qu'elle forme avec les sociétés
-membres de celui qui avait été constitué par la société absorbée, si, au plus
-tard à l'expiration du délai prévu au cinquième alinéa de l'article 223 A
-décompté de la date de la réalisation de la fusion, elle exerce l'option
-mentionnée au premier alinéa de l'article 223 A et accompagne celle-ci d'un
-document sur l'identité des sociétés membres de ce dernier groupe qui ont donné
-leur accord dans ce délai pour entrer dans le nouveau groupe. Cette disposition
-s'applique aux fusions intervenues à compter du 17 novembre 1993 et qui prennent
-effet au premier jour de l'exercice de la société absorbée en cours lors de
-l'opération.
+mère définie aux premier et deuxième alinéas de l'article 223 A et remplit,
+avant ou du fait de cette fusion, les conditions prévues à l'un de ces alinéas,
+elle peut se constituer, depuis l'ouverture de l'exercice de la fusion, seule
+redevable des impôts mentionnés à l'un de ces alinéas dus par le groupe qu'elle
+forme avec les sociétés membres de celui qui avait été constitué par la société
+absorbée si, au plus tard à l'expiration du délai prévu au sixième alinéa de
+l'article 223 A décompté de la date de la réalisation de la fusion, elle exerce
+l'une des options mentionnées aux premier et deuxième alinéas de l'article 223 A
+et accompagne celle-ci d'un document sur l'identité des sociétés membres de ce
+dernier groupe qui entrent dans le nouveau groupe. Cette disposition s'applique
+aux fusions intervenues à compter du 17 novembre 1993 et qui prennent effet au
+premier jour de l'exercice de la société absorbée en cours lors de l'opération.
 
 La durée du premier exercice des sociétés du groupe issu de la fusion peut être
 inférieure ou supérieure à douze mois, sans préjudice de l'application des
@@ -59,15 +58,15 @@ N, la société mère acquitte l'imposition forfaitaire annuelle et les acomptes
 d'impôt sur les sociétés dus par les sociétés membres du groupe au titre de
 l'année ou de l'exercice d'entrée dans le groupe.
 
-d. Si, au cours d'un exercice, le capital d'une société mère définie au premier
-alinéa de l'article 223 A vient à être détenu, directement ou indirectement, à
-95 p. 100 au moins, à compter du 17 novembre 1993, par une autre personne morale
-passible de l'impôt sur les sociétés, ce capital est réputé avoir été détenu
-selon les modalités prévues à la première phrase du premier alinéa de cet
-article si le pourcentage de 95 p. 100 n'est plus atteint à la clôture de
-l'exercice à la condition que les sociétés concernées indiquent à
-l'administration les modalités de l'opération et ses justifications juridiques,
-économiques ou sociales.
+d. Si, au cours d'un exercice, le capital d'une société mère définie aux premier
+et deuxième alinéas de l'article 223 A vient à être détenu, directement ou
+indirectement, à 95 p. 100 au moins, à compter du 17 novembre 1993, par une
+autre personne morale passible de l'impôt sur les sociétés, ce capital est
+réputé avoir été détenu selon les modalités prévues à la troisième phrase du
+premier alinéa de cet article si le pourcentage de 95 p. 100 n'est plus atteint
+à la clôture de l'exercice à la condition que les sociétés concernées indiquent
+à l'administration les modalités de l'opération et ses justifications
+juridiques, économiques ou sociales.
 
 Si ce pourcentage est encore atteint à cette date, la société mère demeure seule
 redevable de l'impôt dû sur le résultat d'ensemble du groupe afférent à cet
@@ -77,10 +76,10 @@ aux dispositions de la présente section.
 Dans cette situation, si la personne morale mentionnée au premier alinéa du
 présent d souhaite constituer un groupe avec les sociétés qui composaient celui
 qui avait été formé par la société mère visée au même alinéa, ou faire entrer
-celles-ci dans le groupe dont elle est déjà membre, l'option prévue au premier
-alinéa de l'article 223 A est exercée au plus tard à l'expiration du délai prévu
-au cinquième alinéa du même article, décompté de la date de cl&lt;CB&gt;ture de
-l'exercice considéré. Cette option est accompagnée du document mentionné au
+celles-ci dans le groupe dont elle est déjà membre, l'option prévue aux premier
+et deuxième alinéas de l'article 223 A est exercée au plus tard à l'expiration
+du délai prévu au sixième alinéa du même article, décompté de la date de clôture
+de l'exercice considéré. Cette option est accompagnée du document mentionné au
 premier alinéa du c ci-dessus.
 
 La durée du premier exercice des sociétés du groupe ainsi formé peut être
@@ -106,3 +105,17 @@ dans le traité de scission.
 Pour l'application des dispositions du présent e, la société absorbante et la
 société absorbée visées au c s'entendent respectivement de chacune des sociétés
 bénéficiaires des apports et de la société scindée.
+
+f) Dans les situations mentionnées au troisième alinéa de l'article 223 S, le
+premier groupe est considéré comme cessant d'exister à la date de clôture de
+l'exercice qui précède le premier exercice du nouveau groupe.
+
+La durée du premier exercice des sociétés du nouveau groupe ainsi formé peut
+être inférieure ou supérieure à douze mois, sans préjudice de l'application de
+l'article 37. L'option mentionnée au troisième alinéa de l'article 223 S
+comporte l'indication de la durée de cet exercice.
+
+La société mère du premier groupe ajoute au résultat d'ensemble de l'exercice
+mentionné au premier alinéa les sommes dont la réintégration est prévue aux
+articles 223 F et 223 R du fait de la sortie du groupe de toutes les sociétés
+qui le composaient.

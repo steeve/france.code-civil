@@ -56,3 +56,6 @@ est alors applicable.
 
 7° L'attribution d'actions ou de parts sociales opérée en conséquence de
 l'incorporation de réserves au capital.
+
+8° La fraction d'intérêts non déductible en application du sixième alinéa du 1
+du II de l'article 212.

@@ -1,9 +1,27 @@
 Article L641-12
 ----
-Peuvent être reconnus comme spécialité traditionnelle garantie les produits
-agricoles ou alimentaires qui satisfont aux conditions posées par le règlement
-(CE) n° 509/2006 du 20 mars 2006 relatif aux spécialités traditionnelles
-garanties des produits agricoles et des denrées alimentaires et qui font
-l'objet, pour l'application de ce règlement, d'un cahier des charges proposé par
-l'Institut national de l'origine et de la qualité, homologué par arrêté du ou
-des ministres intéressés.
+La consultation de l'Institut national de l'origine et de la qualité dans le
+cadre de la procédure d'autorisation d'une installation présentant de graves
+dangers ou inconvénients pour les intérêts définis à l'article L. 511-1 du code
+de l'environnement, dans les communes comportant une aire de production d'un
+produit d'appellation d'origine et celles qui leur sont limitrophes, est définie
+à l'article L. 512-6 dudit code, ci-après reproduit :
+
+"Article L. 512-6 : Dans les communes comportant une aire de production de vins
+d'appellation d'origine, l'autorité compétente pour délivrer l'autorisation
+consulte l'Institut national de l'origine et de la qualité.
+
+"Cet institut est en outre consulté, sur sa demande, lorsqu'une installation
+soumise à l'autorisation visée ci-dessus doit être ouverte dans une commune
+limitrophe d'une commune comportant une aire de production de vins d'appellation
+d'origine.
+
+"Il est également consulté, sur sa demande, lorsqu'une installation soumise à
+l'autorisation visée ci-dessus doit être ouverte dans une commune ou une commune
+limitrophe d'une commune comportant une aire de production d'un produit
+d'appellation d'origine contrôlée autre que le vin.
+
+"L'Institut national de l'origine et de la qualité dispose d'un délai de trois
+mois pour donner son avis. Ce délai court à partir de la date à laquelle il a
+été saisi par l'autorité compétente. Cet avis est réputé favorable au-delà de ce
+délai".

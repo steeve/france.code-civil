@@ -17,7 +17,7 @@ trois dernières dates ;
 
 d. Du montant, déterminé conformément aux dispositions de l'article L. 214-10
 précité, de la répartition effectuée au titre de l'exercice considéré et de la
-part de la répartition éligible à la réfaction de 50 % mentionnée au 2° du 3 de
+part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de
 l'article 158 du code général des impôts ;
 
 e. Le cas échéant, de la date de distribution et du montant de chacun des

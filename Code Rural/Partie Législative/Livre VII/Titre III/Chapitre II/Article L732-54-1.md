@@ -1,14 +1,14 @@
 Article L732-54-1
 ----
 I. - La pension de retraite proportionnelle des chefs d'exploitation ou
-d'entreprise agricole justifiant de conditions minimales de durée d'activité
-agricole non salariée et de périodes d'assurance en tant que chef d'exploitation
-ou d'entreprise agricole est calculée ou révisée en tenant compte, selon des
-modalités fixées par décret, des périodes d'assurance accomplies par les
-intéressés en qualité d'aide familial défini au 2° de l'article L. 722-10 à
-partir de l'âge de la majorité. Pour les pensions déjà liquidées au 1er janvier
-1994, ce décret précise les modalités suivant lesquelles ces périodes
-d'assurance sont déterminées.
+d'entreprise agricole justifiant d'au moins vingt-deux années et demie de durée
+d'activité non salariée agricole, ainsi que de périodes d'assurances en tant que
+chef d'exploitation ou d'entreprise agricole est calculée ou révisée en tenant
+compte, selon des modalités fixées par décret, des périodes d'assurance
+accomplies par les intéressés en qualité d'aide familial défini au 2° de
+l'article L. 722-10 à partir de l'âge de la majorité. Pour les pensions déjà
+liquidées au 1er janvier 1994, ce décret précise les modalités suivant
+lesquelles ces périodes d'assurance sont déterminées.
 
 II. - Les chefs d'exploitation ou d'entreprise agricole dont la pension de
 retraite servie à titre personnel prend effet postérieurement au 31 décembre
@@ -33,11 +33,11 @@ majoration des pensions de réversion prévue à l'article L. 732-54-4, le minim
 prévu à l'alinéa précédent est relevé par décret, à compter du 1er janvier 2002.
 
 III. - Les chefs d'exploitation ou d'entreprise agricole dont la pension servie
-à titre personnel a pris effet avant le 1er janvier 1997 et qui justifient de
-périodes minimum d'activité non salariée agricole et d'assurance en tant que
-chef d'exploitation ou d'entreprise agricole accomplies à titre exclusif ou
-principal peuvent bénéficier d'une majoration de la retraite proportionnelle qui
-leur est servie à titre personnel.
+à titre personnel a pris effet avant le 1er janvier 1997 et qui justifient d'au
+moins vingt-deux années et demie d'activité non salariée agricole, ainsi que de
+périodes d'assurance en tant que chef d'exploitation ou d'entreprise agricole
+accomplies à titre exclusif ou principal peuvent bénéficier d'une majoration de
+la retraite proportionnelle qui leur est servie à titre personnel.
 
 Cette majoration a pour objet de porter le montant de celle-ci a un minimum qui
 est fixé par décret et qui tient compte de leurs périodes d'assurance en tant

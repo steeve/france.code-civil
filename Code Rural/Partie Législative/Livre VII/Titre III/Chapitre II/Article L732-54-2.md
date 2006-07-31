@@ -12,10 +12,11 @@ nombre de points de retraite proportionnelle supérieur à un minimum fixé par
 décret.
 
 Les dispositions du présent article sont applicables aux personnes qui
-justifient d'une durée d'assurance fixée par décret accomplie, à titre exclusif
-ou principal, dans le régime d'assurance vieillesse des personnes non salariées
-des professions agricoles et qui ne sont pas titulaires d'un des avantages
-mentionnés aux articles L. 732-41 à L. 732-44 et L. 732-46.
+justifient d'une durée d'assurance d'au moins vingt-deux années et demie
+accomplie, à titre exclusif ou principal, dans le régime d'assurance vieillesse
+des personnes non salariées des professions agricoles et qui ne sont pas
+titulaires d'un des avantages mentionnés aux articles L. 732-41 à L. 732-44 et
+L. 732-46.
 
 Le nombre de points attribués au titre du présent article afin d'assurer à ces
 personnes un niveau minimum de pension de retraite proportionnelle est

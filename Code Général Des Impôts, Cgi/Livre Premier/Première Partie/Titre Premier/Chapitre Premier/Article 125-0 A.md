@@ -77,7 +77,7 @@ proximité, de fonds communs de placement dans l'innovation, actions de sociét�
 de capital risque ou de sociétés financières d'innovation ;
 
 e) Actions émises par des sociétés qui exercent une activité autre que les
-activités mentionnées au sixième alinéa du I de l'article 44 sexies et dont les
+activités mentionnées au septième alinéa du I de l'article 44 sexies et dont les
 titres ne sont pas admis aux négociations sur un marché réglementé ;
 
 f) Actions, admises aux négociations sur un marché d'instruments financiers,
@@ -85,7 +85,7 @@ dont le fonctionnement est assuré par une entreprise de marché ou un prestatai
 de services d'investissement ou tout autre organisme similaire étranger, d'un
 Etat partie à l'accord sur l'Espace économique européen, émises par des sociétés
 qui exercent une activité mentionnée à l'article 34 autre que celles mentionnées
-au sixième alinéa du I de l'article 44 sexies et dont la capitalisation
+au septième alinéa du I de l'article 44 sexies et dont la capitalisation
 boursière est inférieure à 150 millions d'euros. La capitalisation boursière est
 évaluée selon la moyenne des cours d'ouverture des soixante jours de bourse
 précédant celui de l'investissement. Un décret en Conseil d'Etat détermine les

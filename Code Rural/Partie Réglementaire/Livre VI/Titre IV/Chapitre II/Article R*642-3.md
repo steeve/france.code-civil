@@ -20,6 +20,6 @@ dénomination géographique.
 
 Après avoir vérifié la recevabilité de la demande et avoir, le cas échéant, fait
 compléter le dossier, le ministre chargé de l'agriculture le transmet à
-l'Institut national des appellations d'origine, à la Commission nationale des
+l'Institut national de l'origine et de la qualité, à la Commission nationale des
 labels et des certifications de produits agricoles et alimentaires et au
 ministre chargé de la consommation.

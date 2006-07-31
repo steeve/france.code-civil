@@ -5,7 +5,7 @@ versements, pris dans la limite de 5 pour mille du chiffre d'affaires, effectué
 par les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les
 sociétés au profit :
 
-a) D'oeuvres ou d'organismes d'intérêt général ayant un caract ère
+a) D'oeuvres ou d'organismes d'intérêt général ayant un caractère
 philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial,
 culturel ou concourant à la mise en valeur du patrimoine artistique, à la
 défense de l'environnement naturel où à la diffusion de la culture, de la langue
@@ -17,14 +17,13 @@ organismes ;
 
 b) De fondations ou associations reconnues d'utilité publique ou des musées de
 France et répondant aux conditions fixées au a, ainsi que d'associations
-cultuelles ou de bienfaisance qui sont autorisées à recevoir des dons et legs et
-des établissements publics des cultes reconnus d'Alsace-Moselle. La condition
-relative à la reconnaissance d'utilité publique est réputée remplie par les
-associations régies par la loi locale maintenue en vigueur dans les départements
-de la Moselle, du Bas-Rhin et du Haut-Rhin lorsque la mission de ces
-associations est reconnue d'utilité publique. Un décret en Conseil d'Etat fixe
-les conditions de cette reconnaissance et les modalités de procédure permettant
-de l'accorder ;
+cultuelles ou de bienfaisance et des établissements publics des cultes reconnus
+d'Alsace-Moselle. La condition relative à la reconnaissance d'utilité publique
+est réputée remplie par les associations régies par la loi locale maintenue en
+vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin lorsque
+la mission de ces associations est reconnue d'utilité publique. Un décret en
+Conseil d'Etat fixe les conditions de cette reconnaissance et les modalités de
+procédure permettant de l'accorder ;
 
 c) Des établissements d'enseignement supérieur ou d'enseignement artistique,
 publics ou privés, à but non lucratif, agréés par le ministre chargé du budget
@@ -38,10 +37,42 @@ et technique ;
 
 e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont
 pour activité principale la présentation au public d'oeuvres dramatiques,
-lyriques, musicales, chorégraphiques, cinématographiques et de cirque, à la
-condition que les versements soient affectés à cette activité. Cette disposition
-ne s'applique pas aux organismes qui présentent des oeuvres à caractère
-pornographique ou incitant à la violence.
+lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou
+l'organisation d'expositions d'art contemporain, à la condition que les
+versements soient affectés à cette activité. Cette disposition ne s'applique pas
+aux organismes qui présentent des oeuvres à caractère pornographique ou incitant
+à la violence ;
+
+f) De la "Fondation du patrimoine" ou d'une fondation ou une association qui
+affecte irrévocablement ces versements à la "Fondation du patrimoine", en vue de
+subventionner la réalisation des travaux prévus par les conventions conclues en
+application de l'article L. 143-2-1 du code du patrimoine entre la "Fondation du
+patrimoine" et les propriétaires des immeubles, personnes physiques ou sociétés
+civiles composées uniquement de personnes physiques et qui ont pour objet
+exclusif la gestion et la location nue des immeubles dont elles sont
+propriétaires.
+
+Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une
+exploitation commerciale.
+
+Les dirigeants ou les membres du conseil d'administration ou du directoire de la
+société ne doivent pas avoir conclu une convention avec la "Fondation du
+patrimoine" en application de l'article L. 143-2-1 précité, être propriétaires
+de l'immeuble sur lequel sont effectués les travaux ou être un conjoint, un
+ascendant, un descendant ou un collatéral du propriétaire de cet immeuble.
+Lorsque l'immeuble est détenu par une société mentionnée au premier alinéa, les
+associés ne peuvent pas être dirigeants ou membres du conseil d'administration
+ou du directoire de la société donatrice ou d'une société qui entretiendrait
+avec la société donatrice des liens de dépendance au sens du 12 de l'article 39.
+Les dirigeants ou les membres du conseil d'administration ou du directoire de la
+société donatrice ne peuvent être un conjoint, un ascendant, un descendant ou un
+collatéral des associés de la société civile propriétaire de l'immeuble.
+
+Les dons versés à d'autres fondations ou associations reconnues d'utilité
+publique agréées par le ministre chargé du budget dont l'objet est culturel, en
+vue de subventionner la réalisation de travaux de conservation, de restauration
+ou d'accessibilité de monuments historiques classés ou inscrits ouvrent droit à
+la réduction d'impôt dans les mêmes conditions.
 
 Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés
 à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte

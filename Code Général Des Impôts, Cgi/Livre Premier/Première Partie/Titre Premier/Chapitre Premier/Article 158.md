@@ -99,10 +99,10 @@ acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et
 ceux de l'exploitation minière sont déterminés conformément aux dispositions des
-articles 34 à 61 A, et 302 septies A bis ; les rémunérations mentionnées à
-l'article 62 sont déterminées conformément aux dispositions de cet article ; les
-bénéfices de l'exploitation agricole sont déterminées conformément aux
-dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
+articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations
+mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet
+article ; les bénéfices de l'exploitation agricole sont déterminées conformément
+aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des
 procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non
 commerciale sont déterminés conformément aux dispositions des articles 92 à 103.
 Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au
@@ -127,15 +127,15 @@ mentionnées au 6 sont déterminés conformément aux dispositions des articles 
 90.
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut
-excéder 3 160 euros. Ce plafond s'applique au montant total des pensions et
+excéder 3 446 euros. Ce plafond s'applique au montant total des pensions et
 retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il
 est révisé selon les mêmes modalités que la limite supérieure de la première
 tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 323 euros, sans
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 352 euros, sans
 pouvoir excéder le montant brut des pensions et retraites. Cette disposition
 s'applique au montant des pensions ou retraites perçu par chaque retraité ou
-pensionné membre du foyer fiscal. La somme de 323 euros est révisée chaque année
+pensionné membre du foyer fiscal. La somme de 352 euros est révisée chaque année
 dans la même proportion que la limite supérieure de la première tranche du
 barème de l'impôt sur le revenu.
 
@@ -157,7 +157,7 @@ b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73
 17 janvier 2002) ;
 
 b quater. Les dispositions du a sont applicables aux pensions servies au titre
-des plans d'épargne retraite populaire créés par l'article 108 de la loi n°
+des plans d'épargne retraite populaire prévus à l'article 108 de la loi n°
 2003-775 du 21 août 2003 portant réforme des retraites ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux

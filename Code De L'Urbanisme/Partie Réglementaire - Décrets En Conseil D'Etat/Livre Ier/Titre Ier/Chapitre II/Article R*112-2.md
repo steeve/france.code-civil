@@ -24,7 +24,13 @@ conditionnement des produits provenant de l'exploitation ;
 
 e) D'une surface égale à 5 % des surfaces hors oeuvre affectées à l'habitation
 telles qu'elles résultent le cas échéant de l'application des a, b, et c
-ci-dessus.
+ci-dessus ;
+
+f) D'une surface forfaitaire de cinq mètres carrés par logement respectant les
+règles relatives à l'accessibilité intérieure des logements aux personnes
+handicapées prévues selon le cas aux articles R. 111-18-2, R. 111-18-6, ou aux
+articles R. 111-18-8 et R. 111-18-9 du code de la construction et de
+l'habitation.
 
 Sont également déduites de la surface hors oeuvre dans le cas de la réfection
 d'un immeuble à usage d'habitation et dans la limite de cinq mètres carrés par

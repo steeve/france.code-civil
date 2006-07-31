@@ -1,26 +1,30 @@
 Article L653-7
 ----
-Pour chaque département, groupe de départements, région ou groupe de régions
-l'autorité administrative agrée un établissement de l'élevage constitué soit
-sous la forme d'un service au sein d'une chambre d'agriculture, soit par
-création d'un organisme doté de la personnalité morale dans les conditions
-prévues au III de l'article L. 514-2.
+Afin de contribuer à l'aménagement du territoire et de préserver la diversité
+génétique, il est institué un service universel de distribution et de mise en
+place de la semence des ruminants en monte publique, assuré dans le respect des
+principes d'égalité, de continuité et d'adaptabilité au bénéfice de tous les
+éleveurs qui en font la demande.
 
-Toutefois, cet agrément peut être maintenu à des organismes constitués avant la
-publication de l'ordonnance n° 2006-1548 du 7 décembre 2006 selon d'autres
-formes juridiques.
+Le service universel est assuré par des opérateurs agréés par le ministre chargé
+de l'agriculture à l'issue d'un appel d'offres. Chaque opérateur est agréé pour
+une ou plusieurs zones géographiques, après évaluation des conditions techniques
+et tarifaires qu'il propose.
 
-L'établissement de l'élevage contribue au développement de l'élevage des animaux
-des espèces bovine, ovine, caprine, porcine, des lapins et des volailles dans sa
-circonscription en associant les différents acteurs des filières concernées.
+A titre transitoire, lors de la mise en place du service universel, le ministre
+chargé de l'agriculture peut, sans recourir à l'appel d'offres, accorder cet
+agrément pour une période maximale de trois ans aux centres de mise en place de
+la semence antérieurement autorisés.
 
-En complément de ses missions dans le domaine de l'identification, cet
-établissement assure à titre exclusif l'enregistrement et la certification de la
-parenté des ruminants, selon les règles définies en application du 1° du II de
-l'article L. 653-2.
+Les coûts nets imputables aux obligations du service universel sont évalués sur
+la base d'une comptabilité appropriée tenue par les opérateurs agréés.
 
-Les conditions d'octroi et de retrait de l'agrément, ainsi que les conditions
-dans lesquelles la qualité d'établissement de l'élevage peut être maintenue par
-l'autorité administrative aux organismes constitués avant la publication de
-l'ordonnance n° 2006-1548 du 7 décembre 2006 selon d'autres formes juridiques,
-sont définies par décret en Conseil d'Etat.
+Un fonds de compensation assure le financement de ces coûts. Toutefois, quand
+ces derniers ne représentent pas une charge excessive pour l'opérateur agréé,
+aucun versement ne lui est dû. L'Etat participe à l'abondement de ce fonds.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent
+article. Il précise notamment les conditions d'attribution et de retrait de
+l'agrément des opérateurs, les modalités de règlement amiable des différends
+liés à l'exécution du service universel, ainsi que la définition de la monte
+publique.

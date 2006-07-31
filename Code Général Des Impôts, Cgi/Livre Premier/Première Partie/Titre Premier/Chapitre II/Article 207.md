@@ -214,6 +214,104 @@ n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci
 n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux
 à la réalisation des objectifs de celle-ci.
 
-2. (Abrogé)
+2. Sont exonérés de l'impôt sur les sociétés les résultats définis aux 1° et 2°
+dans les conditions prévues aux 3°, 4°, 5° et 6° :
+
+1° Les résultats, y compris la quote-part des produits financiers, afférents aux
+opérations portant sur la gestion des contrats d'assurance maladie relatifs à
+des opérations individuelles et collectives à adhésion facultative, à la
+condition que l'organisme ne recueille pas d'informations médicales, lors de
+l'adhésion, auprès de l'assuré au titre de ce contrat ou des personnes
+souhaitant bénéficier de cette couverture, que les cotisations ou les primes ne
+soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties
+ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code
+de la sécurité sociale et qu'elles respectent les conditions mentionnées à
+l'article L. 871-1 du même code. Un décret précise les modalités de
+détermination de ces résultats.
+
+Cette exonération bénéficie aux mutuelles et unions régies par le code de la
+mutualité, aux institutions de prévoyance régies par le titre III du livre IX du
+code de la sécurité sociale ou par le livre VII du code rural et aux entreprises
+d'assurance régies par le code des assurances, lorsque les souscripteurs et
+membres participants des contrats d'assurance maladie mentionnés au présent 1°
+représentent au moins 150 000 personnes ou une proportion minimale, fixée par
+décret en Conseil d'Etat, de l'ensemble des souscripteurs et membres
+participants des contrats d'assurance maladie relatifs à des opérations
+individuelles et collectives à adhésion facultative souscrits auprès de
+l'organisme. Cette proportion est comprise entre 80 % et 90 % ;
+
+2° Les résultats, y compris la quote-part des produits financiers, afférents aux
+opérations portant sur la gestion des contrats d'assurance maladie relatifs à
+des opérations collectives à adhésion obligatoire, à la condition que les
+cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de
+l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de
+l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les
+conditions mentionnées à l'article L. 871-1 du même code. Un décret précise les
+modalités de détermination de ces résultats.
+
+Cette exonération bénéficie aux organismes mentionnés au deuxième alinéa du 1°
+lorsque les bénéficiaires des contrats d'assurance maladie mentionnés au premier
+alinéa du présent 2° représentent au moins 120 000 personnes ou une proportion
+minimale, fixée par décret en Conseil d'Etat, de l'ensemble des bénéficiaires
+des contrats d'assurance maladie relatifs à des opérations collectives à
+adhésion obligatoire souscrits auprès de l'organisme. Cette proportion est
+comprise entre 90 % et 95 % ;
+
+3° Les exonérations prévues aux 1° et 2° bénéficient aux seuls organismes
+mentionnés au deuxième alinéa du 1°, qui satisfont à la condition mentionnée au
+a ainsi qu'à l'une de celles mentionnées aux b, c, d ou e :
+
+a) Ils sont inscrits sur la liste prévue à l'article L. 861-7 du code de la
+sécurité sociale en vue de participer à la protection complémentaire en matière
+de santé ;
+
+b) Ils mettent en oeuvre au titre des contrats d'assurance maladie des
+dispositifs de modulation tarifaire ou de prise en charge des cotisations liées
+à la situation sociale des membres participants ou des souscripteurs. Un décret
+en Conseil d'Etat précise les conditions d'application de cette disposition ;
+
+c) Les titulaires de l'attestation de droit accordée par les organismes
+bénéficiant du crédit d'impôt défini aux articles L. 863-1 à L. 863-6 du code de
+la sécurité sociale représentent une proportion minimale, fixée par décret en
+Conseil d'Etat, des membres participants ou souscripteurs des contrats
+d'assurance maladie relatifs à des opérations individuelles et collectives à
+adhésion facultative souscrits auprès de l'organisme. Cette proportion est
+comprise entre 3 % et 6 % ;
+
+d) Les personnes ayant atteint l'âge prévu au 1° de l'article L. 351-8 du code
+de la sécurité sociale représentent une proportion minimale, fixée par décret en
+Conseil d'Etat, des membres participants ou souscripteurs de contrats
+d'assurance maladie souscrits auprès de l'organisme. Cette proportion est
+comprise entre 15 % et 20 % ;
+
+e) Les personnes âgées de moins de vingt-cinq ans représentent une proportion
+minimale, fixée par décret en Conseil d'Etat, des bénéficiaires des contrats
+d'assurance maladie souscrits auprès de l'organisme. Cette proportion est
+comprise entre 28 % et 35 % ;
+
+4° Les conditions mentionnées au deuxième alinéa des 1° et 2° et aux c, d et e
+du 3° s'apprécient au niveau des groupes établissant des comptes combinés en
+application des articles L. 931-34 du code de la sécurité sociale, L. 322-1-2 du
+code des assurances et L. 212-7 du code de la mutualité, ainsi qu'au niveau des
+groupes de sociétés relevant du régime prévu à l'article 223 A du présent code.
+En cas d'appréciation des conditions précitées au niveau des groupes établissant
+des comptes combinés, ne sont prises en compte que les opérations réalisées par
+les entreprises exploitées en France au sens du I de l'article 209 ;
+
+5° Les exonérations prévues aux 1° et 2° ne s'appliquent pas aux contrats
+mentionnés auxdits 1° et 2° en complément desquels, au sein d'un groupe de
+prévoyance ou d'un groupe de sociétés au sens du 4°, il est conclu avec un même
+souscripteur ou membre participant un autre contrat dont les clauses remettent
+en cause les conditions afférentes aux contrats d'assurance maladie mentionnées
+au premier alinéa des 1° et 2°.
+
+Dans cette hypothèse, le premier contrat conclu n'est pas pris en compte dans le
+calcul de la proportion des souscripteurs, membres participants ou bénéficiaires
+des contrats mentionnés au deuxième alinéa des 1° et 2° ;
+
+6° Les organismes qui ont bénéficié de l'exonération d'impôt mentionnée aux 1°
+et 2° continuent à en bénéficier au titre de la première année au cours de
+laquelle, parmi les conditions mentionnées au 3°, ils ne satisfont pas aux
+conditions mentionnées aux c, d ou e du même 3°.
 
 3. (Abrogé).

@@ -39,7 +39,7 @@ plus-values réintégrées en application du d du 3 du même article. De même, 
 déficit ou la moins-value nette à long terme de la société, mentionné au b du 1
 et au 3, est augmenté de ces profits ou plus-values.
 
-5. Dans les situations visées aux c, d, e ou f du 6 de l'article 223 L, et sous
+5. Dans les situations visées aux c, d ou e du 6 de l'article 223 L, et sous
 réserve, le cas échéant, de l'obtention de l'agrément prévu au 6, la fraction du
 déficit qui n'a pu être reportée au titre d'un exercice dans les conditions
 prévues à l'article 223 S peut, dans la mesure où ce déficit correspond à celui
@@ -50,8 +50,8 @@ au a du 1 du présent article, des sociétés mentionnées ci-dessus.
 
 6. Dans les situations visées aux c ou e du 6 de l'article 223 L, les déficits
 de la société absorbée ou scindée, déterminés dans les conditions prévues à
-l'article 223 S, et les intérêts non encore déduits en application des quinzième
-à dix-neuvième alinéas de l'article 223 B sont transférés au profit de la ou des
+l'article 223 S, et les intérêts non encore déduits en application des treizième
+à dix-septième alinéas de l'article 223 B sont transférés au profit de la ou des
 sociétés bénéficiaires des apports sous réserve d'un agrément délivré dans les
 conditions prévues à l'article 1649 nonies.
 

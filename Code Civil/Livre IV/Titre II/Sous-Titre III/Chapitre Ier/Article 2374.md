@@ -25,7 +25,7 @@ vendeur, que ce paiement a été fait des deniers empruntés ;
 
 3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des
 partages faits entre eux, et des soultes ou retours de lots ; pour la garantie
-des indemnités dues en application de l'article 866, les immeubles donnés ou
+des indemnités dues en application de l'article 924, les immeubles donnés ou
 légués sont assimilés aux immeubles de la succession ;
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour
@@ -46,8 +46,10 @@ jouissent du même privilège, pourvu que cet emploi soit authentiquement consta
 par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit
 ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
 
-6° Les créanciers et légataires d'une personne défunte, sur les immeubles de la
-succession, pour la garantie des droits qu'ils tiennent de l'article 878.
+6° Les créanciers du défunt et les légataires de sommes d'argent sur les
+immeubles de la succession, ainsi que les créanciers personnels de l'héritier
+sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de
+l'article 878 ;
 
 7° Les accédants à la propriété titulaires d'un contrat de location-accession
 régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à

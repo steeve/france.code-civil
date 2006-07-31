@@ -252,6 +252,49 @@ Les dispositions du septième alinéa du I ter et des trois dernières phrases d
 premier alinéa du I quater, ainsi que de ses neuvième, dixième et onzième
 alinéas s'appliquent au présent I quinquies.
 
+I quinquies A. - Sauf délibération contraire de la collectivité territoriale ou
+de l'établissement public de coopération intercommunale doté d'une fiscalité
+propre prise dans les conditions prévues au I de l'article 1639 A bis, les
+entreprises sont exonérées de taxe professionnelle pour les créations et
+extensions d'établissements qu'elles réalisent entre le 1er janvier 2007 et le
+31 décembre 2011 dans les bassins d'emploi à redynamiser définis au 3 bis de
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire.
+
+Les exonérations prévues au premier alinéa portent pendant cinq ans à compter de
+l'année qui suit la création ou, en cas d'extension d'établissement, à compter
+de la deuxième année qui suit celle-ci, sur la totalité de la part revenant à
+chaque collectivité territoriale ou établissement public de coopération
+intercommunale doté d'une fiscalité propre.
+
+En cas de changement d'exploitant au cours de la période d'exonération, celle-ci
+est maintenue pour la période restant à courir et dans les conditions prévues
+pour le prédécesseur.
+
+L'exonération ne s'applique pas aux bases d'imposition afférentes aux biens
+d'équipement mobiliers transférés par une entreprise à partir d'un établissement
+qui, au titre d'une ou plusieurs des cinq années précédant le transfert :
+
+a) A donné lieu au versement de la prime d'aménagement du territoire ;
+
+b) Ou a bénéficié, pour l'imposition des bases afférentes aux biens transférés,
+de l'exonération prévue, selon le cas, aux articles 1465, 1465 A et 1465 B ou
+aux I bis, I ter, I quater, I quinquies ou I sexies du présent article ou au
+présent I quinquies A.
+
+Pour l'application des dispositions ci-dessus, les délibérations des
+collectivités territoriales et de leurs groupements dotés d'une fiscalité propre
+ne peuvent porter que sur l'ensemble des établissements créés ou étendus.
+
+Lorsque l'établissement est situé dans une zone d'aide à finalité régionale,
+l'exonération s'applique dans les conditions et limites prévues par le règlement
+(CE) n° 1628/2006 de la Commission, du 24 octobre 2006, concernant l'application
+des articles 87 et 88 du traité CE aux aides nationales à l'investissement à
+finalité régionale. Dans le cas contraire, elle s'applique dans les conditions
+et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12
+janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux
+aides de minimis.
+
 I sexies. - Sauf délibération contraire de la collectivité territoriale ou de
 l'établissement public de coopération intercommunale doté d'une fiscalité
 propre, les établissements qui font l'objet d'une création ou d'une extension
@@ -312,20 +355,22 @@ précitée s'appliquent dans les conditions et limites prévues par le règlemen
 des articles 87 et 88 du traité CE aux aides de minimis.
 
 II. Pour bénéficier des exonérations prévues aux I, I bis, I ter, I quater, I
-quinquies et I sexies les contribuables déclarent, chaque année, dans les
-conditions prévues à l'article 1477, les éléments entrant dans le champ
+quinquies, I quinquies A et I sexies les contribuables déclarent, chaque année,
+dans les conditions prévues à l'article 1477, les éléments entrant dans le champ
 d'application de l'exonération.
 
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une
 des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1465, 1465 A ou
-1465 B et de celles prévues aux I, I bis, I ter, I quater, I quinquies ou I
-sexies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option
-qui est irrévocable vaut pour l'ensemble des collectivités et doit être exercée,
-selon le cas, dans le délai prévu pour le dépôt de la déclaration annuelle
-afférente à la première année au titre de laquelle l'exonération prend effet ou
-de la déclaration provisoire de taxe professionnelle visée à l'article 1477.
+1465 B et de celles prévues aux I, I bis, I ter, I quater, I quinquies, I
+quinquies A ou I sexies le contribuable doit opter pour l'un ou l'autre de ces
+régimes. L'option qui est irrévocable vaut pour l'ensemble des collectivités et
+doit être exercée, selon le cas, dans le délai prévu pour le dépôt de la
+déclaration annuelle afférente à la première année au titre de laquelle
+l'exonération prend effet ou de la déclaration provisoire de taxe
+professionnelle visée à l'article 1477.
 
-Pour l'application des I, I bis, I ter, I quater, I quinquies et I sexies :
+Pour l'application des I, I bis, I ter, I quater, I quinquies, I quinquies A et
+I sexies :
 
 a) Deux périodes d'exonération ne peuvent courir simultanément ;
 
@@ -335,8 +380,8 @@ la consommation hors tabac constatée par l'Institut national de la statistique
 et des études économiques pour l'année de référence définie à l'article 1467 A ;
 
 c) Le montant des bases exonérées ne peut excéder chaque année, pour un même
-établissement, le montant prévu aux I ou I quater, sauf dans les cas visés au
-troisième alinéa du I ter ;
+établissement, le montant prévu aux I, I quater ou I quinquies A , sauf dans les
+cas visés au troisième alinéa du I ter ;
 
 d) pour l'appréciation de la condition d'exonération fixée aux I, I bis et I ter
 concernant le nombre de salariés, la période de référence à retenir est l'année

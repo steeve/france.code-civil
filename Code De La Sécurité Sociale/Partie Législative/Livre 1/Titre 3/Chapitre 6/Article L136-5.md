@@ -1,19 +1,27 @@
 Article L136-5
 ----
-I. - La contribution portant sur les revenus mentionnés aux articles L136-1 à
-L136-4 ci-dessus est recouvrée par les organismes chargés du recouvrement des
-cotisations du régime général de sécurité sociale selon les règles et sous les
-garanties et sanctions applicables au recouvrement des cotisations au régime
-général pour la même catégorie de revenus. La contribution portant sur les
-revenus tirés de l'activité d'artiste-auteur et visés au premier alinéa du I de
-l'article L. 136-2 est recouvrée dans les conditions et par les organismes
-agréés, prévus au chapitre II du titre VIII du livre III. La contribution
-portant sur les revenus non soumis à cotisations au régime général de la
-sécurité sociale est, sauf disposition expresse contraire, précomptée par les
-entreprises ou par les organismes débiteurs de ces revenus et versée aux
-organismes chargés du recouvrement des cotisations du régime général selon les
-règles et sous les garanties et sanctions applicables au recouvrement des
-cotisations du régime général assises sur les salaires.
+I. - La contribution portant sur les revenus mentionnés aux articles L. 136-1,
+L. 136-2, L. 136-3 sous réserve de son deuxième alinéa, et L. 136-4 ci-dessus
+est recouvrée par les organismes chargés du recouvrement des cotisations du
+régime général de sécurité sociale selon les règles et sous les garanties et
+sanctions applicables au recouvrement des cotisations au régime général pour la
+même catégorie de revenus. La contribution portant sur les revenus tirés de
+l'activité d'artiste-auteur et visés au premier alinéa du I de l'article L.
+136-2 est recouvrée dans les conditions et par les organismes agréés, prévus au
+chapitre II du titre VIII du livre III. La contribution portant sur les revenus
+non soumis à cotisations au régime général de la sécurité sociale est, sauf
+disposition expresse contraire, précomptée par les entreprises ou par les
+organismes débiteurs de ces revenus et versée aux organismes chargés du
+recouvrement des cotisations du régime général selon les règles et sous les
+garanties et sanctions applicables au recouvrement des cotisations du régime
+général assises sur les salaires.
+
+Pour les personnes exerçant les professions artisanales, industrielles et
+commerciales, la contribution portant sur les revenus mentionnés à l'article L.
+136-3 est recouvrée, conformément aux dispositions prévues à l'article L.
+133-6-4, en même temps que les cotisations d'allocations familiales des
+travailleurs non salariés non agricoles et selon les règles, garanties et
+sanctions applicables au recouvrement des cotisations du régime général.
 
 Les unions pour le recouvrement des cotisations de sécurité sociale et
 d'allocations familiales et les caisses générales de sécurité sociale sont

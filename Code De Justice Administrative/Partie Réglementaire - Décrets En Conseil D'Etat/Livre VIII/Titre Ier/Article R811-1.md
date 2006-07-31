@@ -17,5 +17,6 @@ Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité 
 un litige susceptible d'appel, les décisions portant sur les actions visées au
 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les
 décisions statuant sur les recours en matière de taxe foncière lorsqu'elles
-statuent également, à la demande du même contribuable pour la même année et pour
-la même commune, sur des conclusions relatives à la taxe professionnelle.
+statuent également sur des conclusions relatives à la taxe professionnelle, à la
+demande du même contribuable, et que les deux impositions reposent, en tout ou
+partie, sur la valeur des mêmes biens appréciée la même année.

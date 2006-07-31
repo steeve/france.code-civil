@@ -64,7 +64,7 @@ corrigés en tenant compte de la variation des revenus résultant de cette
 modification, le cas échéant de manière forfaitaire. Les modalités de calcul de
 ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
+Le montant total des ressources à prendre en compte ne doit pas excéder 51 900
 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.

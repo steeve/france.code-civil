@@ -1,6 +1,16 @@
 Article L644-4
 ----
-Les dispositions des articles L. 644-2 et L. 644-3 ne s'appliquent pas aux
-produits bénéficiant d'une appellation d'origine contrôlée, d'une indication
-géographique protégée ou d'une attestation de spécificité et pour lesquels le
-terme "montagne" figure dans la dénomination enregistrée.
+Le ministre chargé de l'agriculture peut décider, après avis de l'organisme de
+défense et de gestion et de l'organisation professionnelle compétents, que la
+mise en bouteille et le conditionnement des produits d'origine vitivinicole
+bénéficiant d'une appellation d'origine s'effectue dans les régions de
+production.
+
+Toute infraction au présent article est punie des peines figurant à l'article L.
+213-1 du code de la consommation. Les personnes mentionnées à l'article L. 215-1
+du même code sont qualifiées pour procéder à la recherche et à la constatation
+des infractions.
+
+Les produits en infraction avec les dispositions du premier alinéa sont saisis
+conformément aux dispositions des articles L. 215-5 à L. 215-8 du code de la
+consommation.

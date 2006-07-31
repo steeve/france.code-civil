@@ -1,12 +1,5 @@
 Article L642-2
 ----
-Les organismes certificateurs agréés mentionnés à l'article L. 643-5 assurent le
-contrôle du respect des cahiers des charges des attestations de spécificité et,
-lorsque l'Institut national des appellations d'origine leur en a délégué la
-charge, des indications géographiques protégées.
-
-Toutefois, un décret en Conseil d'Etat définit, en tant que de besoin, des
-modalités particulières de contrôle pour les producteurs agricoles et les
-artisans qui commercialisent leur production en petite quantité directement sur
-le marché local, y compris lorsque les produits sont cédés à une entreprise du
-commerce de détail indépendant de l'alimentation implantée sur ce marché local.
+Au cahier des charges d'une appellation d'origine est associé soit un plan de
+contrôle, soit un plan d'inspection. Au cahier des charges d'un autre signe
+d'identification de la qualité et de l'origine est associé un plan de contrôle.

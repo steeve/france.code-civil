@@ -1,27 +1,20 @@
 Article L643-4
 ----
-Le label ou la certification de conformité ne peut pas comporter de mention
-géographique si cette dernière n'est pas enregistrée comme indication
-géographique protégée.
+Tout organisme de défense et de gestion d'une appellation d'origine peut saisir
+l'autorité administrative compétente s'il estime que le contenu d'un document
+d'aménagement ou d'urbanisme en cours d'élaboration, un projet d'équipement, de
+construction, d'exploitation du sol ou du sous-sol, d'implantation d'activités
+économiques est de nature à porter atteinte à l'aire ou aux conditions de
+production, à la qualité ou à l'image du produit d'appellation.
 
-Toutefois, si l'autorité administrative a demandé l'enregistrement de cette
-mention géographique comme indication géographique protégée, le label ou la
-certification de conformité peut comporter cette mention, y compris dans les
-caractéristiques spécifiques, jusqu'à la date de la décision relative à son
-enregistrement.
+Préalablement à toute décision, cette autorité administrative doit recueillir
+l'avis du ministre de l'agriculture, pris après consultation de l'Institut
+national de l'origine et de la qualité.
 
-L'interdiction mentionnée au premier alinéa ne s'applique pas lorsque la
-dénomination qui intègre cette mention est générique ou désigne un produit
-bénéficiant d'une attestation de spécificité.
+Le ministre de l'agriculture dispose, pour donner son avis, d'un délai de trois
+mois à compter de la date à laquelle il est saisi par l'autorité administrative.
 
-Les produits agricoles et les denrées alimentaires bénéficiant, avant le 4
-janvier 1994, d'un label agricole ou d'une certification de conformité peuvent
-continuer de porter une mention d'origine géographique sans bénéficier d'une
-indication géographique protégée pendant une période de huit ans à compter de la
-date précitée.
+Lorsqu'elle décide de ne pas suivre l'avis du ministre, l'autorité
+administrative en précise les motifs dans sa décision.
 
-Par dérogation aux dispositions du premier alinéa, pour les produits de la pêche
-maritime, un label agricole ou une certification de conformité peut comporter
-une mention géographique qui n'est pas enregistrée comme indication géographique
-protégée ou reconnue comme appellation d'origine contrôlée. Les obligations
-d'information des consommateurs prévues à l'article L. 642-4 sont applicables.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

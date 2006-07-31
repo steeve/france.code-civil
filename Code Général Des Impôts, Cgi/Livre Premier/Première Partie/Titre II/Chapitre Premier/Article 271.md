@@ -62,11 +62,6 @@ IV. La taxe déductible dont l'imputation n'a pu être opérée peut faire l'obj
 d'un remboursement dans les conditions, selon les modalités et dans les limites
 fixées par décret en Conseil d'Etat.
 
-Les limitations particulières qui étaient opposables aux assujettis dont les
-déclarations de chiffre d'affaires avaient fait apparaître des crédits de taxe
-déductible en 1971, ne s'appliquent plus aux demandes de remboursement
-présentées à compter du 1er janvier 1988.
-
 V. Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient soumis
 à la taxe sur la valeur ajoutée :
 

@@ -52,7 +52,7 @@ foncier.
 
 Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation
 d'origine contrôlée, la composition de la commission est complétée par un
-représentant de l'Institut national des appellations d'origine.
+représentant de l'Institut national de l'origine et de la qualité.
 
 Lorsque le périmètre d'aménagement foncier comprend des terrains situés sur le
 territoire des communes d'un parc naturel régional, la composition de la

@@ -13,10 +13,11 @@ locative sociale, pour leur permettre en particulier d'assurer la qualité de
 l'habitat.
 
 Elle accorde également des concours financiers destinés à favoriser la
-réorganisation des organismes d'habitations à loyer modéré et leur regroupement.
-Elle finance des actions de formation ou de soutien technique au profit des
-organismes d'habitations à loyer modéré pour leur permettre de mener des actions
-ou opérations de renouvellement urbain.
+réorganisation des organismes d'habitations à loyer modéré et des sociétés
+d'économie mixte et leur regroupement. Elle finance des actions de formation ou
+de soutien technique au profit des organismes d'habitations à loyer modéré et
+des sociétés d'économie mixte pour leur permettre de mener des actions ou
+opérations de renouvellement urbain.
 
 Elle contribue, dans les conditions prévues à l'article L. 452-4-1, au
 financement de l'Agence nationale pour la rénovation urbaine.

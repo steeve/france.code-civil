@@ -1,7 +1,5 @@
 Article L643-6
 ----
-Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une
-homologation par arrêté interministériel.
-
-Il en est de même des certifications de conformité qui attestent l'origine
-géographique.
+L'autorisation d'exploitation de carrières dans certains vignobles est soumise
+aux consultations prévues par le cinquième alinéa de l'article L. 515-1 du code
+de l'environnement.

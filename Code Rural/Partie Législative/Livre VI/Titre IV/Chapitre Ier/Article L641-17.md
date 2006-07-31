@@ -1,12 +1,7 @@
 Article L641-17
 ----
-Les vins provenant des hybrides producteurs directs n'ont en aucun cas droit à
-une appellation d'origine.
-
-Est interdit, dans la dénomination des vins n'ayant pas droit à une appellation
-d'origine aux termes de la présente section, l'emploi de mots tels que "clos",
-"château", "domaine", "moulin", "tour", "mont", "côte", "cru", "monopole", ainsi
-que de toute autre expression susceptible de faire croire à une appellation
-d'origine. Est en outre interdit dans la dénomination des vins, vins mousseux et
-vins pétillants n'ayant pas droit à une appellation d'origine l'emploi du mot
-"crémant".
+Les organismes de recherche et de développement agricoles, les instituts
+techniques et les offices d'intervention dans le secteur agricole et alimentaire
+concourent à l'élaboration de programmes spécifiques aux productions agricoles
+de montagne et à la promotion de produits de qualité, notamment par le
+développement des procédures de certification et d'appellation.

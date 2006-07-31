@@ -3,7 +3,7 @@ Article D732-115
 Ont droit à la majoration les personnes qui justifient :
 
 1° D'une part, d'une durée d'activité non salariée agricole exercée à titre
-exclusif ou principal au moins égale à trente-deux années et demie ; à ce titre,
+exclusif ou principal au moins égale à vingt-deux années et demie ; à ce titre,
 sont prises en considération les années qui ont donné lieu à versement des
 cotisations ouvrant droit à la pension de retraite forfaitaire, ou à validation
 au titre de périodes assimilées pour l'obtention de cette même pension ;

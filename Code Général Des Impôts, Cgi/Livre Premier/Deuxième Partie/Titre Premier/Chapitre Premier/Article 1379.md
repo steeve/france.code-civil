@@ -28,6 +28,9 @@ II. Elles peuvent, en outre, instituer les taxes suivantes :
 3° Taxe de balayage, lorsqu'elles assurent le balayage de la superficie des
 voies livrées à la circulation publique qui incombe aux propriétaires riverains.
 
+4° Taxe forfaitaire sur la cession à titre onéreux de terrains devenus
+constructibles.
+
 III. Les communes membres d'une communauté ou d'un syndicat d'agglomération
 nouvelle visés à l'article 1609 nonies B perçoivent le produit des taxes
 foncières, de la taxe d'habitation et des autres droits et taxes, à l'exclusion

@@ -30,7 +30,7 @@ des fraudes.
 
 Les registres comportent les colonnes ouvertes avec les intitulés exigés par la
 réglementation communautaire et portent les références des contrats d'achat
-soumis au visa de l'Office national interprofessionnel des fruits, des légumes
+soumis au visa de l'Office national interprofessionnel des fruits, des légumes,
 des vins et de l'horticulture pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords
@@ -126,4 +126,5 @@ tenue de la comptabilité matières telles que prévues par le présent article 
 les obligations mentionnées aux articles 614 et 614 A dudit code.
 
 En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité
-d'entrepositaire agréé peut être retirée.
+d'entrepositaire agréé peut être retirée par le directeur régional des douanes
+et droits indirects.

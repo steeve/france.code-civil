@@ -11,6 +11,6 @@ l'article L. 341-6 lorsque la possession de celui-ci est exigée en vertu de
 traités ou d'accords internationaux.
 
 Sous réserve des accords internationaux, il est interdit à une entreprise de
-travail temporaire de mettre [*mis*] à la disposition de quelque personne que ce
-soit des travailleurs étrangers si la prestation de service doit s'effectuer
-hors du territoire français.
+travail temporaire de mettre à la disposition de quelque personne que ce soit
+des travailleurs étrangers si la prestation de service doit s'effectuer hors du
+territoire français.

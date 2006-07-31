@@ -1,18 +1,30 @@
 Article L643-2
 ----
-Les labels agricoles attestent qu'une denrée alimentaire ou qu'un produit
-agricole non alimentaire et non transformé possède un ensemble distinct de
-qualités et caractéristiques spécifiques préalablement fixées dans un cahier des
-charges et établissant un niveau de qualité supérieure.
+L'utilisation d'indication d'origine ou de provenance ne doit pas être
+susceptible d'induire le consommateur en erreur sur les caractéristiques du
+produit, de détourner ou d'affaiblir la notoriété d'une dénomination reconnue
+comme appellation d'origine ou enregistrée comme indication géographique
+protégée ou comme spécialité traditionnelle garantie, ou, de façon plus
+générale, de porter atteinte, notamment par l'utilisation abusive d'une mention
+géographique dans une dénomination de vente, au caractère spécifique de la
+protection réservée aux appellations d'origine, aux indications géographiques
+protégées et aux spécialités traditionnelles garanties.
 
-L'origine géographique ne peut figurer parmi les caractéristiques spécifiques
-que si elle est enregistrée comme indication géographique protégée, sous réserve
-des dispositions du deuxième alinéa de l'article L. 643-4.
+Pour les produits ne bénéficiant pas d'une appellation d'origine ou d'une
+indication géographique protégée, l'utilisation d'une indication d'origine ou de
+provenance doit s'accompagner d'une information sur la nature de l'opération
+liée à cette indication, dans tous les cas où cela est nécessaire à la bonne
+information du consommateur.
 
-Ce produit doit se distinguer des produits similaires de l'espèce habituellement
-commercialisés, notamment par ses conditions particulières de production ou de
-fabrication et, le cas échéant, par son origine géographique.
+Toutefois, cette disposition ne s'applique pas aux vins, aux vins aromatisés,
+aux boissons aromatisées à base de vin, aux cocktails aromatisés de produits
+vitivinicoles ainsi qu'aux spiritueux.
 
-Seuls des producteurs ou des transformateurs organisés en groupement, quelle
-qu'en soit la forme juridique, sont habilités à demander la délivrance d'un
-label.
+Tout opérateur utilisant une indication d'origine ou de provenance pour une
+denrée alimentaire ou un produit agricole ou alimentaire et non transformé doit
+disposer des éléments justifiant cette utilisation et être en mesure de les
+présenter à toute réquisition des agents visés à l'article L. 215-1 du code de
+la consommation.
+
+Un décret en Conseil d'Etat, pris en application de l'article L. 214-1 de code
+de la consommation, définit les conditions d'application du présent article.

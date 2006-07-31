@@ -69,7 +69,7 @@ ou de prescriptions particulières concernant la mise sur le marché, la
 délivrance et l'utilisation des produits mentionnés au présent article.
 
 Dans l'intérêt de la protection des appellations d'origine contrôlée, l'Institut
-national des appellations d'origine peut proposer à l'autorité administrative
+national de l'origine et de la qualité peut proposer à l'autorité administrative
 les mesures prévues à l'alinéa précédent.
 
 VI. - Le Gouvernement, après avis du comité de biovigilance, adresse chaque

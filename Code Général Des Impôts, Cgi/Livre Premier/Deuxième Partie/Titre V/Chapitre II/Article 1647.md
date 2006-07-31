@@ -53,5 +53,14 @@ X. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 L. 524-2 du code du patrimoine.
 
 XI. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
-de 1 % sur le montant de la taxe mentionnée au I de l'article 1605. Toutefois,
-pour 2005, ce taux est fixé à 2 %.
+de 1 % sur le montant de la taxe mentionnée au I de l'article 1605.
+
+XII. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+de 2 % sur le montant de la taxe mentionnée au II de l'article L. 425-1 du code
+des assurances.
+
+XIII. - Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement
+sur le produit des taxes mentionnées aux articles 1609 vicies et 1618 septies
+dont le montant est fixé par arrêté du ministre chargé du budget et du ministre
+chargé de l'agriculture dans la limite de 0,5 % de ce produit, conformément à
+l'article L. 731-8 du code rural.

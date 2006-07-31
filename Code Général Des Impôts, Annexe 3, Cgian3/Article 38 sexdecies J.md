@@ -44,7 +44,7 @@ des autres membres de la famille de l'exploitant travaillant sur l'exploitation
 4° Aléas économiques :
 
 a) Reconversion d'activité par suite d'un changement très important de
-production au sens du II de l'article 73 du code général des impôts ;
+production ;
 
 b) Résiliation ou non-renouvellement du bail de l'exploitant dans les
 circonstances prévues aux articles L. 411-30 à L. 411-34 et L. 411-58 du code

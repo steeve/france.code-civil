@@ -121,22 +121,37 @@ l'actif du bilan. Toutefois, elles ne sont prises en compte ni pour le calcul
 des amortissements ou des provisions, ni pour la détermination du résultat de
 cession.
 
-5. Le profit ou la perte résultant de cessions de titres par un fonds commun de
-placement est compris dans le résultat de l'exercice au cours duquel les parts
-du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par
-différence entre le prix de cession et la valeur des parts au bilan de
+5. 1° Le profit ou la perte résultant de cessions de titres par un fonds commun
+de placement est compris dans le résultat de l'exercice au cours duquel les
+parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé
+par différence entre le prix de cession et la valeur des parts au bilan de
 l'entreprise.
 
-Par dérogation aux dispositions du premier alinéa, les sommes correspondant à la
+2° Par dérogation aux dispositions du 1°, les sommes correspondant à la
 répartition, prévue au 9 de l'article L. 214-36 du code monétaire et financier
 d'une fraction des actifs d'un fonds commun de placement à risques qui remplit
-les conditions prévues au II de l'article 163 quinquies B, sont affectées en
-priorité au remboursement des apports. L'excédent des sommes réparties sur le
-montant des apports est compris dans le résultat imposable de l'exercice au
-cours duquel cet excédent apparaît. Il est soumis au régime fiscal des
-plus-values à long terme dans la proportion existant entre le montant des
+les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont
+affectées en priorité au remboursement des apports. L'excédent des sommes
+réparties sur le montant des apports est compris dans le résultat imposable de
+l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal
+des plus-values à long terme dans la proportion existant entre le montant des
 apports effectués depuis au moins deux ans à la date de la répartition et le
 montant total des apports effectués à cette même date.
+
+Le premier alinéa du présent 2° s'applique également aux sommes reçues par un
+fonds commun de placement à risques, qui remplit les conditions prévues au II ou
+au III bis de l'article 163 quinquies B, provenant :
+
+a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à
+risques, prévues au 9 de l'article L. 214-36 du code monétaire et financier ;
+
+b) Des distributions d'une entité mentionnée au b du 2 de l'article L. 214-36 du
+même code, autre qu'un fonds commun de placement à risques, constituée dans un
+Etat ou territoire ayant conclu avec la France une convention fiscale qui
+contient une clause d'assistance administrative en vue de lutter contre la
+fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par
+l'entité lors de la cession de titres intervenue au cours de l'exercice
+précédent.
 
 5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la
 fusion ou à la scission de sociétés d'investissement à capital variable et de

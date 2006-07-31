@@ -1,11 +1,5 @@
 Article R525-9
 ----
-En outre, dans le cas où deux coopératives de même objet fonctionnent déjà dans
-le secteur intéressé tout arrêté préfectoral pris sur avis d'une commission
-départementale d'orientation de l'agriculture peut faire l'objet d'un recours
-devant le ministre de l'agriculture dans un délai de deux mois à partir de la
-date de publication par toute société coopérative justifiant qu'il lui porte
-préjudice ou par tout membre de la commission départementale d'orientation de
-l'agriculture. Le recours est suspensif. Le ministre statue dans un délai de
-quatre mois après avis du conseil supérieur d'orientation de la coopération
-agricole.
+Chaque année la liste des sociétés coopératives et de leurs unions ayant fait
+l'objet d'un agrément ou d'un retrait d'agrément au cours de l'année précédente
+est publiée au Journal officiel de la République française.
