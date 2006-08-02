@@ -23,25 +23,6 @@ location-gérance de leur fonds dont elles conservent la propriété ;
 vieillesse et qui participent à l'exercice d'une activité professionnelle
 non-salariée non-agricole mentionnée aux 1° et 2° de l'article L. 621-3 ;
 
-5°) Les conjoints collaborateurs mentionnés au registre du commerce et des
-sociétés, au répertoire des métiers ou au registre des entreprises tenu par les
-chambres de métiers d'Alsace et de la Moselle, ainsi que les conjoints des
-personnes mentionnées à l'article L. 622-9 du présent code remplissant des
-conditions de collaboration professionnelle définies par décret qui ne
-bénéficient pas d'un régime obligatoire d'assurance vieillesse ou qui exercent
-une activité salariée à temps partiel, dans la limite d'une durée fixée par
-décret, en dehors de l'entreprise au titre de laquelle ils sont mentionnés. Les
-conditions d'application de cette disposition sont fixées par décret.
+5°) (abrogé)
 
-6° Les conjoints collaborateurs définis à l'article 46 de la loi n° 2002-73 du
-17 janvier 2002 de modernisation sociale. L'adhésion volontaire à l'assurance
-vieillesse ouvre droit, pour les conjoints collaborateurs des personnes exerçant
-l'une des activités professionnelles visées à l'article L. 622-5, aux
-prestations définies au 1° de l'article L. 642-1 et au premier alinéa de
-l'article L. 644-1, et, pour les conjoints collaborateurs des personnes visées à
-l'article L. 723-1, au régime de base visé au premier alinéa de l'article L.
-723-3 et au régime complémentaire visé au premier alinéa de l'article L. 723-14.
-Les modalités d'application des présentes dispositions sont définies par décret.
-Ce décret fixe les conditions et délais dans lesquels le conjoint collaborateur
-peut procéder au rachat des cotisations correspondant aux années de
-collaboration précédant la date d'affiliation aux régimes susvisés.
+6°) (abrogé)
