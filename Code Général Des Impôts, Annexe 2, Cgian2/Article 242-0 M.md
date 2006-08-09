@@ -18,11 +18,15 @@ impôts ainsi que du 2° du III de l'article 291 du même code ;
 
 b. les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 259 A et à
 l'article 259 B du code général des impôts, pour lesquelles la taxe est due par
-le preneur en vertu du 2° de l'article 283 du même code.
+le preneur en vertu du 2° de l'article 283 du même code ;
 
 c. Les livraisons mentionnées au 2° du I de l'article 258 D du code général des
 impôts, pour lesquelles la taxe est due par le destinataire en application du 2
-ter de l'article 283 du même code.
+ter de l'article 283 du même code ;
 
 d. Les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I
-de l'article 277 A du code général des impôts.
+de l'article 277 A du code général des impôts ;
+
+e. les livraisons et les prestations pour lesquelles la taxe est acquittée par
+l'acquéreur, le destinataire ou le preneur dans les conditions mentionnées au
+second alinéa du 1 de l'article 283 du code général des impôts.
