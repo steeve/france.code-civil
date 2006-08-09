@@ -11,14 +11,16 @@ de substitution et pour chaque mention de prorogation de délai ;
 
 2° pour la publication de chaque commandement valant saisie immobilière ;
 
-3° pour la mention des sommations prescrites par l'article 689 du code de
-procédure civile (art. 694 dudit code) ;
+3° pour la mention de l'assignation et des dénonciations prévues à l'article 43
+du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie
+immobilière et de distribution du prix d'un immeuble ;
 
 4° pour l'acte du conservateur constatant son refus de publier un commandement
 valant saisie en cas de commandement transcrit ;
 
-5° pour la mention, en marge de la publication d'une saisie, de commandement
-présenté postérieurement (art. 680 du code de procédure civile) ;
+5° pour la mention prévue à l'article 22 du décret n° 2006-936 du 27 juillet
+2006 relatif aux procédures de saisie immobilière et de distribution du prix
+d'un immeuble ;
 
 6° pour la radiation de la saisie ;
 
@@ -53,9 +55,8 @@ l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955 ;
 
 a) des titres d'occupation du domaine public de l'Etat ou d'un de ses
 établissements publics constitutifs d'un droit réel délivrés en application des
-articles L. 34-1 à L. 34-9 du code du domaine de l'Etat et de l'article 3 de la
-loi n° 94-631 du 25 juillet 1994 ainsi que des cessions, transmissions ou
-retraits de ces titres ;
+articles L. 2122-5 à L. 2122-18 du code de la propriété des personnes publiques
+ainsi que des cessions, transmissions ou retraits de ces titres ;
 
 b) des contrats de crédit-bail conclus en application des dispositions de
 l'article L. 34-7 du code précité ;
